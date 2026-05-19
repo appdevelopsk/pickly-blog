@@ -30846,5 +30846,3775 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "approved": false
       }
     ]
+  },
+  {
+    "id": "mikimoto-akoya-classic-studs",
+    "imageUrl": "",
+    "priceMin": "$430",
+    "priceMax": "$580",
+    "category": "fashion",
+    "badge": "🥇",
+    "name": {
+      "en": "Mikimoto Akoya Classic Studs 6mm",
+      "ja": "ミキモト アコヤ クラシック スタッド 6mm"
+    },
+    "description": {
+      "en": "Japanese Akoya cultured pearls, AAA grade, 6.0-6.5mm. 18K white or yellow gold post. Authenticated lustre, set in Japan since 1893.",
+      "ja": "日本産アコヤ養殖真珠、AAAグレード、6.0-6.5mm。18K W/Yゴールドポスト。1893年から続く日本製の本物の艶。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.mikimotoamerica.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "tiffany-signature-pearl-studs",
+    "imageUrl": "",
+    "priceMin": "$300",
+    "priceMax": "$450",
+    "category": "fashion",
+    "badge": "💎",
+    "name": {
+      "en": "Tiffany & Co. Signature Pearl Studs",
+      "ja": "Tiffany & Co. シグネチャー パール スタッド"
+    },
+    "description": {
+      "en": "8mm freshwater cultured pearls, sterling silver or 18K gold post. Tiffany blue box, certified pearl grading. Polished mirror surface.",
+      "ja": "8mm淡水養殖真珠、スターリングシルバー or 18Kゴールドポスト。ティファニーブルーボックス、認証済みグレード。鏡面研磨。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.tiffany.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mejuri-pearl-stud-trio",
+    "imageUrl": "",
+    "priceMin": "$148",
+    "priceMax": "$198",
+    "category": "fashion",
+    "badge": "💸",
+    "name": {
+      "en": "Mejuri Pearl Stud Trio",
+      "ja": "Mejuri パール スタッド トリオ"
+    },
+    "description": {
+      "en": "Direct-to-consumer pricing, 5/6/7mm freshwater pearl set with 14K solid gold posts. Recycled gold, transparent supply chain.",
+      "ja": "直販価格、5/6/7mm淡水パールセット＋14Kソリッドゴールドポスト。リサイクルゴールド、透明なサプライチェーン。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://mejuri.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "kojima-akoya-hanadama-studs",
+    "imageUrl": "",
+    "priceMin": "$680",
+    "priceMax": "$890",
+    "category": "fashion",
+    "badge": "🏆",
+    "name": {
+      "en": "Kojima Japan Akoya Hanadama Studs",
+      "ja": "Kojima 日本産アコヤ 花珠 スタッド"
+    },
+    "description": {
+      "en": "Hanadama-certified Akoya, 7.0-7.5mm. Highest grade Japanese cultured. Authenticator's report included. Sourced from Mie Prefecture.",
+      "ja": "花珠認証アコヤ、7.0-7.5mm。最高級日本産養殖。鑑別書付属。三重県産。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://kojimapearl.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "blue-nile-freshwater-pearl-studs",
+    "imageUrl": "",
+    "priceMin": "$95",
+    "priceMax": "$165",
+    "category": "fashion",
+    "badge": "💸",
+    "name": {
+      "en": "Blue Nile Freshwater Cultured Pearl Studs",
+      "ja": "Blue Nile 淡水養殖パール スタッド"
+    },
+    "description": {
+      "en": "7-8mm freshwater pearls, 14K white gold posts, AAA grade. Most affordable from major jeweler. 30-day returns, lifetime upgrade.",
+      "ja": "7-8mm淡水真珠、14K Wゴールドポスト、AAAグレード。大手宝石店で最も手頃。30日返品、生涯アップグレード。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bluenile.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "abercrombie-mini-slip-dress",
+    "imageUrl": "",
+    "priceMin": "$80",
+    "priceMax": "$100",
+    "category": "fashion",
+    "badge": "💸",
+    "name": {
+      "en": "Abercrombie Drapey Mini Slip Dress",
+      "ja": "Abercrombie ドレープミニ スリップドレス"
+    },
+    "description": {
+      "en": "Bias-cut satin, adjustable straps, mid-thigh hem. Best mid-price cocktail option, sizes 00-24, 8 colors.",
+      "ja": "バイアスカット サテン、調節可ストラップ、ミッドサイ丈。中価格帯ベスト、00-24サイズ、8色。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.abercrombie.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "theory-easy-shift-dress",
+    "imageUrl": "",
+    "priceMin": "$345",
+    "priceMax": "$425",
+    "category": "fashion",
+    "badge": "🎯",
+    "name": {
+      "en": "Theory Easy Shift Dress",
+      "ja": "Theory イージー シフト ドレス"
+    },
+    "description": {
+      "en": "Wool blend or crepe, knee-length straight silhouette. Office-to-cocktail transitional, structured shoulders, lined.",
+      "ja": "ウールブレンドorクレープ、膝丈ストレートシルエット。オフィス〜カクテル兼用、構造的な肩、裏地付き。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.theory.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ba-and-sh-bayonne-dress",
+    "imageUrl": "",
+    "priceMin": "$285",
+    "priceMax": "$345",
+    "category": "fashion",
+    "badge": "🇫🇷",
+    "name": {
+      "en": "ba&sh Bayonne Mini Dress",
+      "ja": "ba&sh バヨンヌ ミニドレス"
+    },
+    "description": {
+      "en": "French parisian-style mini, floral viscose, ruffled neckline. Romantic silhouette, sizes 0-12.",
+      "ja": "フレンチパリジャンスタイルミニ、フローラル ビスコース、フリル ネックライン。ロマンティック シルエット、0-12サイズ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://ba-sh.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "asos-design-cowl-mini-dress",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$75",
+    "category": "fashion",
+    "badge": "💰",
+    "name": {
+      "en": "ASOS Design Cowl Mini Dress",
+      "ja": "ASOS デザイン カウルネック ミニドレス"
+    },
+    "description": {
+      "en": "Satin cowl-neck mini, side slit, $50-70 price point. Fast-fashion option for one-time wear events.",
+      "ja": "サテンカウルネックミニ、サイドスリット、$50-70価格帯。一度きりイベント用ファストファッション。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.asos.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "suitsupply-napoli-wool",
+    "imageUrl": "",
+    "priceMin": "$499",
+    "priceMax": "$799",
+    "category": "fashion",
+    "badge": "🇮🇹",
+    "name": {
+      "en": "Suitsupply Napoli Wool Suit",
+      "ja": "Suitsupply ナポリ ウール スーツ"
+    },
+    "description": {
+      "en": "Half-canvas Italian construction, S110 wool, soft Neapolitan shoulder. Modern slim-tapered cut, alterations included.",
+      "ja": "ハーフキャンバスのイタリア仕立て、S110ウール、ソフトナポリ ショルダー。モダンスリムテーパーカット、お直し込み。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://suitsupply.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "brooks-brothers-fitzgerald",
+    "imageUrl": "",
+    "priceMin": "$998",
+    "priceMax": "$1298",
+    "category": "fashion",
+    "badge": "🇺🇸",
+    "name": {
+      "en": "Brooks Brothers Fitzgerald Suit",
+      "ja": "Brooks Brothers フィッツジェラルド スーツ"
+    },
+    "description": {
+      "en": "Half-canvas, Italian wool, slim cut from heritage American brand. 200+ year tailoring lineage, multiple fits available.",
+      "ja": "ハーフキャンバス、イタリアンウール、米国老舗のスリムカット。200年以上の仕立て伝統、複数フィット展開。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.brooksbrothers.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "indochino-essential-suit",
+    "imageUrl": "",
+    "priceMin": "$399",
+    "priceMax": "$699",
+    "category": "fashion",
+    "badge": "📏",
+    "name": {
+      "en": "Indochino Essential Made-to-Measure Suit",
+      "ja": "Indochino エッセンシャル オーダー スーツ"
+    },
+    "description": {
+      "en": "Made-to-measure with 30+ body measurements, fused construction. Best value MTM. Pick from 200+ fabrics, online or showroom.",
+      "ja": "30以上の体型計測でオーダー、フューズド仕立て。MTMで最高コスパ。200以上の生地、オンラインorショールーム。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.indochino.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "jcrew-ludlow-suit",
+    "imageUrl": "",
+    "priceMin": "$498",
+    "priceMax": "$798",
+    "category": "fashion",
+    "badge": "💸",
+    "name": {
+      "en": "J.Crew Ludlow Suit",
+      "ja": "J.Crew ラドロー スーツ"
+    },
+    "description": {
+      "en": "Italian wool, slim-trim cut, fused front with floating canvas chest piece. American tailored fit, frequent sales.",
+      "ja": "イタリアンウール、スリムトリムカット、フューズドフロント＋フローティングキャンバス胸あて。アメリカンテーラードフィット、頻繁にセール。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.jcrew.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hugo-boss-huge-genius",
+    "imageUrl": "",
+    "priceMin": "$595",
+    "priceMax": "$995",
+    "category": "fashion",
+    "badge": "🇩🇪",
+    "name": {
+      "en": "Hugo Boss Huge/Genius Suit",
+      "ja": "Hugo Boss Huge/Genius スーツ"
+    },
+    "description": {
+      "en": "Super 110 wool, fused construction, slim fit. German precision tailoring, available worldwide. Stretch fabric option.",
+      "ja": "Super 110ウール、フューズド仕立て、スリムフィット。ドイツの精密仕立て、世界展開。ストレッチ生地オプションあり。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hugoboss.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "lunya-washable-silk-set",
+    "imageUrl": "",
+    "priceMin": "$298",
+    "priceMax": "$348",
+    "category": "fashion",
+    "badge": "🌙",
+    "name": {
+      "en": "Lunya Washable Silk Set",
+      "ja": "Lunya ウォッシャブル シルク セット"
+    },
+    "description": {
+      "en": "Stretch silk, 22 momme, OEKO-TEX certified. Machine washable on delicate, dries in 2 hours. Modern relaxed fit.",
+      "ja": "ストレッチシルク、22匁、OEKO-TEX認証。デリケート洗濯機OK、2時間で乾く。モダンリラックスフィット。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://lunya.co/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "olivia-von-halle-coco-pj",
+    "imageUrl": "",
+    "priceMin": "$695",
+    "priceMax": "$795",
+    "category": "fashion",
+    "badge": "🏆",
+    "name": {
+      "en": "Olivia von Halle Coco Silk PJ Set",
+      "ja": "Olivia von Halle ココ シルクパジャマセット"
+    },
+    "description": {
+      "en": "100% silk twill, 19 momme, British luxury label. Piping detail, contrast collar. Dry clean only, hand-made finishing.",
+      "ja": "100%シルクツイル、19匁、英国高級ブランド。パイピング、コントラストカラー。ドライクリーニングのみ、手仕上げ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.oliviavonhalle.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "lilysilk-classic-silk-pj",
+    "imageUrl": "",
+    "priceMin": "$129",
+    "priceMax": "$199",
+    "category": "fashion",
+    "badge": "💸",
+    "name": {
+      "en": "LilySilk Classic Silk Pajamas",
+      "ja": "LilySilk クラシック シルクパジャマ"
+    },
+    "description": {
+      "en": "22 momme mulberry silk, factory-direct from China. Half the price of Western brands, OEKO-TEX certified, 20+ colors.",
+      "ja": "22匁マルベリーシルク、中国工場直販。欧米ブランドの半額、OEKO-TEX認証、20色以上。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.lilysilk.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "papinelle-washable-silk-pj",
+    "imageUrl": "",
+    "priceMin": "$189",
+    "priceMax": "$219",
+    "category": "fashion",
+    "badge": "🇦🇺",
+    "name": {
+      "en": "Papinelle Washable Silk PJ Set",
+      "ja": "Papinelle ウォッシャブル シルクパジャマセット"
+    },
+    "description": {
+      "en": "Australian brand, 19 momme silk-charmeuse, machine washable. Lighter weight than Lunya, classic notched collar.",
+      "ja": "オーストラリアブランド、19匁シルクシャルムーズ、洗濯機OK。Lunyaより軽量、クラシックノッチドカラー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.papinelle.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fishers-finery-100-mulberry",
+    "imageUrl": "",
+    "priceMin": "$99",
+    "priceMax": "$140",
+    "category": "fashion",
+    "badge": "💰",
+    "name": {
+      "en": "Fishers Finery 100% Mulberry Silk PJ",
+      "ja": "Fishers Finery 100%マルベリーシルクパジャマ"
+    },
+    "description": {
+      "en": "Affordable real silk, 19 momme, OEKO-TEX. Often $99-130 on Amazon. Slim fit runs small — size up.",
+      "ja": "手頃な本シルク、19匁、OEKO-TEX。Amazonで$99-130。スリムフィット小さめ — 1サイズ上推奨。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "seiko-5-sports-quartz",
+    "imageUrl": "",
+    "priceMin": "$150",
+    "priceMax": "$220",
+    "category": "fashion",
+    "badge": "🇯🇵",
+    "name": {
+      "en": "Seiko 5 Sports Quartz SGEH series",
+      "ja": "Seiko 5 スポーツ クォーツ SGEH"
+    },
+    "description": {
+      "en": "Japanese quartz movement, 100m water resistance, day-date complication. Workhorse under $200, 10+ year battery.",
+      "ja": "日本製クォーツムーブメント、100m防水、デイト機能。$200以下の働き者、電池寿命10年以上。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.seikowatches.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "citizen-eco-drive-corso",
+    "imageUrl": "",
+    "priceMin": "$195",
+    "priceMax": "$295",
+    "category": "fashion",
+    "badge": "☀️",
+    "name": {
+      "en": "Citizen Eco-Drive Corso",
+      "ja": "Citizen エコ・ドライブ コルソ"
+    },
+    "description": {
+      "en": "Solar-powered Eco-Drive — no battery change ever. Stainless steel case, sapphire crystal. Charges in any light.",
+      "ja": "ソーラー駆動エコ・ドライブ — 電池交換不要。SUSケース、サファイアクリスタル。どんな光でも充電。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.citizenwatch.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "casio-edifice-efr-303d",
+    "imageUrl": "",
+    "priceMin": "$80",
+    "priceMax": "$140",
+    "category": "fashion",
+    "badge": "💸",
+    "name": {
+      "en": "Casio Edifice EFR-303D",
+      "ja": "Casio エディフィス EFR-303D"
+    },
+    "description": {
+      "en": "Quartz chronograph, mineral crystal, 100m WR, 3-year battery. Stainless steel bracelet, sporty 45mm dial.",
+      "ja": "クォーツクロノグラフ、ミネラルクリスタル、100m防水、3年電池。ステンレスブレス、スポーティ45mmダイヤル。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.casio.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "tissot-prx-quartz-35mm",
+    "imageUrl": "",
+    "priceMin": "$375",
+    "priceMax": "$425",
+    "category": "fashion",
+    "badge": "🇨🇭",
+    "name": {
+      "en": "Tissot PRX 35mm Quartz",
+      "ja": "Tissot PRX 35mm クォーツ"
+    },
+    "description": {
+      "en": "Swiss quartz, integrated bracelet design, sapphire crystal. 1970s-revived case, runs 10 years per battery.",
+      "ja": "スイス製クォーツ、一体型ブレスデザイン、サファイアクリスタル。1970年代復刻ケース、電池1個で10年動作。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.tissotwatches.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "swatch-once-again-gent",
+    "imageUrl": "",
+    "priceMin": "$70",
+    "priceMax": "$95",
+    "category": "fashion",
+    "badge": "🎨",
+    "name": {
+      "en": "Swatch Once Again Gent",
+      "ja": "Swatch ワンス アゲイン ジェント"
+    },
+    "description": {
+      "en": "Plastic case Swiss quartz, 34mm, the original 1983 design. $70 entry-level Swatch, lightweight (24g), 3-year battery.",
+      "ja": "プラスチックケースのスイス製クォーツ、34mm、1983年オリジナルデザイン。$70のエントリー Swatch、軽量（24g）、3年電池。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.swatch.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hestra-elegance-hairsheep",
+    "imageUrl": "",
+    "priceMin": "$155",
+    "priceMax": "$210",
+    "category": "fashion",
+    "badge": "🇸🇪",
+    "name": {
+      "en": "Hestra Elegance Hairsheep Gloves",
+      "ja": "Hestra エレガンス ヘアシープ グローブ"
+    },
+    "description": {
+      "en": "Hand-stitched Swedish heritage brand, hairsheep leather, cashmere lining. Dressier than driving gloves.",
+      "ja": "手縫いの北欧老舗ブランド、ヘアシープレザー、カシミア裏地。ドライビンググローブよりドレッシー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hestragloves.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mujjo-touchscreen-leather",
+    "imageUrl": "",
+    "priceMin": "$110",
+    "priceMax": "$140",
+    "category": "fashion",
+    "badge": "📱",
+    "name": {
+      "en": "Mujjo Touchscreen Leather Gloves",
+      "ja": "Mujjo タッチスクリーン レザーグローブ"
+    },
+    "description": {
+      "en": "Premium nappa leather, conductive thread in all 10 fingers, cashmere lining. Best for daily smartphone use.",
+      "ja": "プレミアム ナッパレザー、全10指に導電糸、カシミア裏地。日常のスマホ利用に最適。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.mujjo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dents-bath-cashmere-lined",
+    "imageUrl": "",
+    "priceMin": "$185",
+    "priceMax": "$235",
+    "category": "fashion",
+    "badge": "🇬🇧",
+    "name": {
+      "en": "Dents Bath Cashmere-Lined Gloves",
+      "ja": "Dents バース カシミア裏地 グローブ"
+    },
+    "description": {
+      "en": "English heritage since 1777, hairsheep leather, 100% cashmere lining. Worn by Daniel Craig as James Bond.",
+      "ja": "1777年から続く英国老舗、ヘアシープレザー、100%カシミア裏地。007ダニエル・クレイグ着用。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.dents.co.uk/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "coach-tech-cashmere-gloves",
+    "imageUrl": "",
+    "priceMin": "$148",
+    "priceMax": "$198",
+    "category": "fashion",
+    "badge": "🛍️",
+    "name": {
+      "en": "Coach Leather Tech Cashmere Gloves",
+      "ja": "Coach レザー テック カシミア グローブ"
+    },
+    "description": {
+      "en": "Lambskin leather with cashmere lining, touchscreen-enabled. Coach signature embossed. Department store mainstay.",
+      "ja": "ラムスキンレザー＋カシミア裏地、タッチスクリーン対応。Coachシグネチャーエンボス。百貨店定番。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.coach.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ugg-shearling-cuff-gloves",
+    "imageUrl": "",
+    "priceMin": "$135",
+    "priceMax": "$165",
+    "category": "fashion",
+    "badge": "🥶",
+    "name": {
+      "en": "UGG Shearling-Cuff Leather Gloves",
+      "ja": "UGG シアリングカフ レザーグローブ"
+    },
+    "description": {
+      "en": "Sheepskin lining and cuff, water-resistant leather palm. Warmest pick for cold climates, touchscreen-compatible.",
+      "ja": "シープスキン裏地＆カフ、撥水レザーパーム。寒冷地で最も暖かい、タッチスクリーン対応。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ugg.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "sofi-student-loan-refi",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "SoFi Student Loan Refinancing",
+      "ja": "SoFi 学生ローン借換"
+    },
+    "description": {
+      "en": "Fixed APR 4.99%-9.99%, no fees, member benefits (career coaching, lounge access). $5K-no max, 5-20 year terms.",
+      "ja": "固定APR 4.99%-9.99%、手数料なし、会員特典（キャリアコーチング、ラウンジ）。$5K〜上限なし、5-20年。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.sofi.com/refinance-student-loan/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "earnest-student-loan-refi",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🎯",
+    "name": {
+      "en": "Earnest Student Loan Refinancing",
+      "ja": "Earnest 学生ローン借換"
+    },
+    "description": {
+      "en": "Custom term length (5-20 years), skip-a-payment, $5K-no max. Soft credit pull for rate check, 0.25% AutoPay discount.",
+      "ja": "カスタム期間（5-20年）、1回スキップ可、$5K〜上限なし。レート照会はソフト与信、AutoPayで0.25%割引。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.earnest.com/refinance-student-loans",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "splash-financial-refi",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🔍",
+    "name": {
+      "en": "Splash Financial Student Loan Refi",
+      "ja": "Splash Financial 学生ローン借換"
+    },
+    "description": {
+      "en": "Marketplace model — compares 10+ lenders in one application. Especially competitive for medical/dental school grads.",
+      "ja": "マーケットプレイス型 — 1申込で10社以上を比較。医科/歯科卒業者に特に競争力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.splashfinancial.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "laurel-road-student-refi",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🩺",
+    "name": {
+      "en": "Laurel Road Student Loan Refi",
+      "ja": "Laurel Road 学生ローン借換"
+    },
+    "description": {
+      "en": "Owned by KeyBank, specializes in healthcare professionals. Parent PLUS refinancing available, residents get reduced payments.",
+      "ja": "KeyBank傘下、医療従事者特化。親PLUSローン借換可、研修医は支払い額減額。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.laurelroad.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mefa-student-loan-refi",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🏛️",
+    "name": {
+      "en": "MEFA Student Loan Refinancing",
+      "ja": "MEFA 学生ローン借換"
+    },
+    "description": {
+      "en": "Massachusetts nonprofit lender, no fees, fixed rates only (4.49%-7.49%). For MA residents or those who attended MA schools.",
+      "ja": "マサチューセッツ州の非営利貸付、手数料なし、固定金利のみ（4.49%-7.49%）。MA住民orMA校卒業者対象。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.mefa.org/refinance",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bluebird-amex-prepaid",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Bluebird by American Express",
+      "ja": "Bluebird by アメリカン・エキスプレス"
+    },
+    "description": {
+      "en": "No monthly fee, free in-network ATM withdrawals, mobile check deposit. Walmart-friendly funding, FDIC-insured via Wells Fargo.",
+      "ja": "月額無料、提携ATM出金無料、モバイルチェック入金。Walmartでの入金可、Wells Fargo経由でFDIC保証。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bluebird.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "netspend-all-access-prepaid",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "$5/mo",
+    "category": "finance",
+    "badge": "🛒",
+    "name": {
+      "en": "Netspend All-Access Prepaid",
+      "ja": "Netspend All-Access プリペイド"
+    },
+    "description": {
+      "en": "$5/mo or pay-per-use, available at 130K retailers. Direct deposit 2 days early, cashback rewards on partner brands.",
+      "ja": "月$5またはPay-per-Use、13万店舗で利用可。直接入金2日早く、提携ブランドでキャッシュバック。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.netspend.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "walmart-moneycard-prepaid",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "$5.94/mo",
+    "category": "finance",
+    "badge": "💸",
+    "name": {
+      "en": "Walmart MoneyCard (Green Dot)",
+      "ja": "Walmart MoneyCard (Green Dot)"
+    },
+    "description": {
+      "en": "Free monthly with $500+ deposits. 3% cashback at Walmart.com, 2% at Murphy USA gas, 1% at Walmart stores (capped).",
+      "ja": "毎月$500以上入金で無料。Walmart.comで3%、Murphy USAガソリンで2%、Walmart店舗で1%（上限あり）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.walmartmoneycard.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "paypal-prepaid-mastercard",
+    "imageUrl": "",
+    "priceMin": "$4.95/mo",
+    "priceMax": "$4.95/mo",
+    "category": "finance",
+    "badge": "🅿️",
+    "name": {
+      "en": "PayPal Prepaid Mastercard",
+      "ja": "PayPal プリペイド Mastercard"
+    },
+    "description": {
+      "en": "$4.95/mo, PayPal balance transfers free, Anytime Alerts. Direct deposit 2 days early, MoneyPass ATM access.",
+      "ja": "月$4.95、PayPal残高転送無料、リアルタイムアラート。直接入金2日早く、MoneyPass ATM対応。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.paypal.com/us/prepaidcards",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "greenlight-kids-prepaid",
+    "imageUrl": "",
+    "priceMin": "$5.99/mo",
+    "priceMax": "$14.98/mo",
+    "category": "finance",
+    "badge": "👨‍👩‍👧",
+    "name": {
+      "en": "Greenlight Kids Prepaid Card",
+      "ja": "Greenlight 子供用プリペイドカード"
+    },
+    "description": {
+      "en": "$5.99/mo family plan, parent controls in app, kids learn money management. Best for teaching teens financial responsibility.",
+      "ja": "家族プラン月$5.99、アプリで親が管理、子供がお金の管理を学ぶ。10代の金銭教育に最適。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://greenlight.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "discover-it-secured-card",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Discover it Secured Credit Card",
+      "ja": "Discover it セキュアード クレジットカード"
+    },
+    "description": {
+      "en": "$0 annual fee, 2% cashback at restaurants/gas, automatic graduation review at 7 months. Best secured card overall.",
+      "ja": "年会費$0、レストラン/ガソリンで2%キャッシュバック、7ヶ月目に自動アップグレード審査。総合最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.discover.com/credit-cards/secured/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "capital-one-platinum-secured",
+    "imageUrl": "",
+    "priceMin": "$49",
+    "priceMax": "$200",
+    "category": "finance",
+    "badge": "💸",
+    "name": {
+      "en": "Capital One Platinum Secured",
+      "ja": "Capital One プラチナ セキュアード"
+    },
+    "description": {
+      "en": "$0 fee, deposits as low as $49 for $200 line. CreditWise credit monitoring, auto-graduation in 6 months.",
+      "ja": "手数料$0、$200枠に最低$49デポジット。CreditWise信用モニタリング、6ヶ月で自動アップグレード。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.capitalone.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "citi-secured-mastercard",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$2500",
+    "category": "finance",
+    "badge": "🔧",
+    "name": {
+      "en": "Citi Secured Mastercard",
+      "ja": "Citi セキュアード Mastercard"
+    },
+    "description": {
+      "en": "$0 annual fee, $200-$2500 deposit, reports to all three bureaus. Best for those rebuilding after bankruptcy.",
+      "ja": "年会費$0、$200-$2500デポジット、3信用機関全てに報告。破産後の信用再建に最適。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.citi.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "opensky-secured-visa",
+    "imageUrl": "",
+    "priceMin": "$35/yr",
+    "priceMax": "$3000",
+    "category": "finance",
+    "badge": "🎯",
+    "name": {
+      "en": "OpenSky Secured Visa",
+      "ja": "OpenSky セキュアード Visa"
+    },
+    "description": {
+      "en": "$35 annual fee, no credit check required (rare!). Best for those who can't pass a hard pull. $200-$3000 deposit.",
+      "ja": "年会費$35、信用調査不要（珍しい）。ハードプル不可の人に最適。$200-$3000デポジット。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.openskycc.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "chime-credit-builder-card",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🆓",
+    "name": {
+      "en": "Chime Credit Builder Visa",
+      "ja": "Chime クレジットビルダー Visa"
+    },
+    "description": {
+      "en": "$0 fee, no minimum deposit, no interest, no credit check. Spending is paid from your Chime account weekly.",
+      "ja": "手数料$0、最低入金額なし、利息なし、信用調査なし。利用額はChime口座から毎週引落。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.chime.com/credit-builder/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ally-money-market",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Ally Bank Money Market Account",
+      "ja": "Ally Bank マネーマーケット口座"
+    },
+    "description": {
+      "en": "4.00% APY, no monthly fee, no minimum balance, free checks. FDIC-insured. Best overall MMA from major online bank.",
+      "ja": "4.00% APY、月額無料、最低残高なし、小切手無料。FDIC保証。大手ネット銀行のMMA総合最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ally.com/bank/money-market-account/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vio-bank-cornerstone-mma",
+    "imageUrl": "",
+    "priceMin": "$100",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🚀",
+    "name": {
+      "en": "Vio Bank Cornerstone Money Market",
+      "ja": "Vio Bank コーナーストーン MMA"
+    },
+    "description": {
+      "en": "5.30% APY (highest), $100 minimum opening deposit, no monthly fee. Online-only, FDIC via MidFirst Bank.",
+      "ja": "5.30% APY（最高水準）、初期入金$100、月額無料。ネット専業、MidFirst Bank経由でFDIC。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.viobank.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "discover-money-market",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "💎",
+    "name": {
+      "en": "Discover Money Market Account",
+      "ja": "Discover マネーマーケット口座"
+    },
+    "description": {
+      "en": "4.00% APY (under $100K) or 4.05% (over). No monthly fee, free ATM access at 60K Allpoint locations. Customer service top-rated.",
+      "ja": "4.00% APY（$100K未満）または4.05%（以上）。月額無料、60K Allpoint ATM無料。顧客サービス最高評価。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.discover.com/online-banking/money-market/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "sallie-mae-money-market",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "📈",
+    "name": {
+      "en": "Sallie Mae Money Market Account",
+      "ja": "Sallie Mae マネーマーケット口座"
+    },
+    "description": {
+      "en": "4.65% APY, no minimum balance, no monthly fee. Free checks for transactions. Best mid-tier rate without limits.",
+      "ja": "4.65% APY、最低残高なし、月額無料。取引用小切手無料。制限なしの中堅レートで最強。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.salliemae.com/banking/money-market-account/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "cit-bank-money-market",
+    "imageUrl": "",
+    "priceMin": "$100",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🏦",
+    "name": {
+      "en": "CIT Bank Money Market Account",
+      "ja": "CIT Bank マネーマーケット口座"
+    },
+    "description": {
+      "en": "1.55% APY (note: lower than competitors), $100 to open, no monthly fee. Online bank under First Citizens Bank.",
+      "ja": "1.55% APY（競合より低い）、開設$100、月額無料。First Citizens Bank傘下のネット銀行。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.cit.com/cit-bank/money-market-account",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "marcus-by-goldman-cd",
+    "imageUrl": "",
+    "priceMin": "$500",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Marcus by Goldman Sachs CD",
+      "ja": "Marcus by Goldman Sachs CD"
+    },
+    "description": {
+      "en": "4.50% APY for 1-year, $500 minimum. No-penalty CD option available. FDIC-insured, top-rated customer service.",
+      "ja": "1年で4.50% APY、最低$500。ペナルティなしCDオプションあり。FDIC保証、顧客サービス最高評価。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.marcus.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ally-bank-cd",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "💸",
+    "name": {
+      "en": "Ally Bank High Yield CD",
+      "ja": "Ally Bank 高利回り CD"
+    },
+    "description": {
+      "en": "4.55% APY for 12-month, no minimum deposit. Raise Your Rate CD option. Ten Day Best Rate guarantee on opening.",
+      "ja": "12ヶ月で4.55% APY、最低入金額なし。Raise Your Rate CDオプション。開設時10日間最良レート保証。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ally.com/bank/cds/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "capital-one-360-cd",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "📱",
+    "name": {
+      "en": "Capital One 360 CD",
+      "ja": "Capital One 360 CD"
+    },
+    "description": {
+      "en": "4.00% APY 1-year, no minimum, terms from 6mo to 60mo. Easy management via Capital One mobile app, FDIC-insured.",
+      "ja": "1年で4.00% APY、最低額なし、6ヶ月〜60ヶ月。Capital Oneアプリで管理、FDIC保証。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.capitalone.com/bank/cds/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "synchrony-bank-cd",
+    "imageUrl": "",
+    "priceMin": "Free",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "🚀",
+    "name": {
+      "en": "Synchrony Bank CD",
+      "ja": "Synchrony Bank CD"
+    },
+    "description": {
+      "en": "4.75% APY for 12-month, $0 minimum. Highest rate from major online bank. Bump-up CD allows one rate adjustment.",
+      "ja": "12ヶ月で4.75% APY、最低$0。大手ネット銀行で最高レート。Bump-up CDで1回のレート調整可。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.synchronybank.com/banking/cd/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "discover-bank-cd",
+    "imageUrl": "",
+    "priceMin": "$2500",
+    "priceMax": "Free",
+    "category": "finance",
+    "badge": "💎",
+    "name": {
+      "en": "Discover Bank CD",
+      "ja": "Discover Bank CD"
+    },
+    "description": {
+      "en": "4.10% APY for 1-year, $2500 minimum. Terms from 3 months to 10 years. Calls don't go to overseas call centers.",
+      "ja": "1年で4.10% APY、最低$2500。3ヶ月〜10年。電話対応は海外コールセンターに行かない。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.discover.com/online-banking/cd/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "aura-id-protection-family",
+    "imageUrl": "",
+    "priceMin": "$30/mo",
+    "priceMax": "$30/mo",
+    "category": "finance",
+    "badge": "👨‍👩‍👧",
+    "name": {
+      "en": "Aura Identity Protection Family",
+      "ja": "Aura ID保護 ファミリー"
+    },
+    "description": {
+      "en": "$30/mo for 5 family members, $5M reimbursement, includes VPN, password manager, antivirus. Best family plan.",
+      "ja": "月$30で家族5人、$5M補償、VPN・パスワード管理・アンチウイルス込み。家族プランで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://aura.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "identityforce-ultrasecure",
+    "imageUrl": "",
+    "priceMin": "$24/mo",
+    "priceMax": "$24/mo",
+    "category": "finance",
+    "badge": "💰",
+    "name": {
+      "en": "IdentityForce UltraSecure+Credit",
+      "ja": "IdentityForce UltraSecure+Credit"
+    },
+    "description": {
+      "en": "$24/mo, $1M reimbursement, 3-bureau credit monitoring, bank account takeover monitoring. Reports to IdentityIQ owned.",
+      "ja": "月$24、$1M補償、3信用機関監視、口座乗っ取り監視。IdentityIQ傘下に報告。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.identityforce.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "idshield-3bureau-family",
+    "imageUrl": "",
+    "priceMin": "$33/mo",
+    "priceMax": "$33/mo",
+    "category": "finance",
+    "badge": "🕵️",
+    "name": {
+      "en": "IDShield 3-Bureau Family Plan",
+      "ja": "IDShield 3信用機関ファミリープラン"
+    },
+    "description": {
+      "en": "$33/mo for family, $3M reimbursement, includes consultation with licensed private investigators. Unique restoration service.",
+      "ja": "ファミリー月$33、$3M補償、ライセンス調査員相談込み。独自の復旧サービス。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.idshield.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "experian-identityworks-premium",
+    "imageUrl": "",
+    "priceMin": "$25/mo",
+    "priceMax": "$25/mo",
+    "category": "finance",
+    "badge": "📊",
+    "name": {
+      "en": "Experian IdentityWorks Premium",
+      "ja": "Experian IdentityWorks プレミアム"
+    },
+    "description": {
+      "en": "$25/mo, $1M reimbursement, 3-bureau monitoring with Experian FICO score updates. Best for credit-focused users.",
+      "ja": "月$25、$1M補償、3信用機関監視＋Experian FICOスコア更新。信用重視ユーザーに最適。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.experian.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "frida-baby-electric-trimmer",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$30",
+    "category": "parenting",
+    "badge": "🏆",
+    "name": {
+      "en": "Frida Baby Electric Nail Trimmer",
+      "ja": "Frida Baby 電動 ネイルトリマー"
+    },
+    "description": {
+      "en": "Battery-powered with LED light, four pads for different ages. Soft buffing motion, won't cut skin. Quiet motor.",
+      "ja": "電池式LEDライト付き、年齢別4種パッド。やさしいバフ動作で皮膚を切らない。静音モーター。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://frida.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "safety-1st-clear-view-clipper",
+    "imageUrl": "",
+    "priceMin": "$5",
+    "priceMax": "$8",
+    "category": "parenting",
+    "badge": "💸",
+    "name": {
+      "en": "Safety 1st Clear View Nail Clipper",
+      "ja": "Safety 1st クリアビュー ネイルクリッパー"
+    },
+    "description": {
+      "en": "Magnifying lens built-in, $5 essential. Stainless steel blade, ergonomic plastic handle. Most popular manual baby clipper.",
+      "ja": "拡大レンズ内蔵、$5の必需品。SUSブレード、人間工学プラスチックハンドル。最も人気の手動ベビークリッパー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.safety1st.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "american-red-cross-trimmer",
+    "imageUrl": "",
+    "priceMin": "$10",
+    "priceMax": "$15",
+    "category": "parenting",
+    "badge": "💡",
+    "name": {
+      "en": "American Red Cross Deluxe Nail Trimmer",
+      "ja": "American Red Cross デラックス ネイルトリマー"
+    },
+    "description": {
+      "en": "Manual clipper with built-in magnifier and LED light. Skin guard prevents accidents. Sold by Safety 1st under license.",
+      "ja": "拡大鏡＋LEDライト内蔵の手動クリッパー。皮膚ガードで事故防止。Safety 1stのライセンス販売。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.safety1st.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "papablic-baby-nail-trimmer",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$30",
+    "category": "parenting",
+    "badge": "🤫",
+    "name": {
+      "en": "Papablic Baby Nail Trimmer",
+      "ja": "Papablic ベビー ネイルトリマー"
+    },
+    "description": {
+      "en": "Electric, 6 grinding pads (newborn to adult), super quiet (<50dB), USB rechargeable. Best for very young infants.",
+      "ja": "電動、6種研磨パッド（新生児〜大人）、超静音(<50dB)、USB充電。乳幼児に最適。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fanwer-electric-nail-trimmer",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$20",
+    "category": "parenting",
+    "badge": "💰",
+    "name": {
+      "en": "Fanwer Baby Electric Nail Trimmer",
+      "ja": "Fanwer ベビー電動ネイルトリマー"
+    },
+    "description": {
+      "en": "Battery-operated, 6 attachments including adult-grade. Low-noise, comes with carrying pouch. Under $20.",
+      "ja": "電池式、大人グレード含む6種アタッチメント。低騒音、ポーチ付属。$20以下。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "crane-droplet-humidifier",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$55",
+    "category": "parenting",
+    "badge": "🏆",
+    "name": {
+      "en": "Crane Droplet Humidifier",
+      "ja": "Crane ドロップレット 加湿器"
+    },
+    "description": {
+      "en": "0.5-gallon tank, 7-hour runtime, ultrasonic cool mist. Animal designs popular in nurseries. Antimicrobial water tank.",
+      "ja": "1.9Lタンク、7時間運転、超音波冷ミスト。動物デザインで人気。抗菌水タンク。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.crane-usa.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "vicks-filter-free-humidifier",
+    "imageUrl": "",
+    "priceMin": "$35",
+    "priceMax": "$50",
+    "category": "parenting",
+    "badge": "💸",
+    "name": {
+      "en": "Vicks Filter-Free Cool Mist",
+      "ja": "Vicks フィルターフリー クールミスト"
+    },
+    "description": {
+      "en": "1.2-gallon tank, 30-hour runtime, takes Vicks VapoPads for menthol vapor. Loud at high speed but inexpensive.",
+      "ja": "4.5Lタンク、30時間運転、Vicks VapoPads（メンソール）対応。高速時うるさいが安い。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.vicks.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "frida-baby-3in1-humidifier",
+    "imageUrl": "",
+    "priceMin": "$80",
+    "priceMax": "$100",
+    "category": "parenting",
+    "badge": "🌈",
+    "name": {
+      "en": "Frida Baby 3-in-1 Humidifier",
+      "ja": "Frida Baby 3-in-1 加湿器"
+    },
+    "description": {
+      "en": "Humidifier + diffuser + nightlight. 0.8-gallon tank, 21-hour runtime. Aroma pads for essential oils (separate from mist).",
+      "ja": "加湿器＋ディフューザー＋ナイトライト。3Lタンク、21時間運転。エッセンシャルオイル用アロマパッド（ミストとは分離）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://frida.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "levoit-classic-300s-humidifier",
+    "imageUrl": "",
+    "priceMin": "$70",
+    "priceMax": "$90",
+    "category": "parenting",
+    "badge": "📱",
+    "name": {
+      "en": "Levoit Classic 300S Smart Humidifier",
+      "ja": "Levoit Classic 300S スマート加湿器"
+    },
+    "description": {
+      "en": "1.6-gallon tank, 60-hour runtime, app-controlled, Alexa/Google compatible. Top-fill design (no flipping), warm mist option.",
+      "ja": "6Lタンク、60時間運転、アプリ操作、Alexa/Google対応。上部給水（ひっくり返さない）、ウォームミスト対応。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.levoit.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "honeywell-hcm350-humidifier",
+    "imageUrl": "",
+    "priceMin": "$65",
+    "priceMax": "$95",
+    "category": "parenting",
+    "badge": "🦠",
+    "name": {
+      "en": "Honeywell HCM-350 Germ Free",
+      "ja": "Honeywell HCM-350 ジャームフリー"
+    },
+    "description": {
+      "en": "Evaporative tech kills 99.9% bacteria via UV. 1-gallon tank, 24-hour runtime. Dishwasher-safe components, not ultrasonic.",
+      "ja": "気化式でUV殺菌99.9%。3.8Lタンク、24時間運転。食洗機対応パーツ、超音波式ではない。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.honeywellstore.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "delta-children-canopy-toddler",
+    "imageUrl": "",
+    "priceMin": "$80",
+    "priceMax": "$110",
+    "category": "parenting",
+    "badge": "🏆",
+    "name": {
+      "en": "Delta Children Canopy Toddler Bed",
+      "ja": "Delta Children キャノピー トドラーベッド"
+    },
+    "description": {
+      "en": "Pine wood, fits standard crib mattress, low-profile (15-inch from floor). Optional canopy curtain. JPMA-certified.",
+      "ja": "パイン材、標準クリブマットレス対応、低床（床から38cm）。オプションキャノピーカーテン。JPMA認証。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.deltachildren.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dream-on-me-classic-toddler",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$90",
+    "category": "parenting",
+    "badge": "💸",
+    "name": {
+      "en": "Dream On Me Classic Toddler Bed",
+      "ja": "Dream On Me クラシック トドラーベッド"
+    },
+    "description": {
+      "en": "Solid pine, side rails, fits 6-inch crib mattress. JPMA, ASTM, CPSC certified. Most affordable from major brand.",
+      "ja": "ソリッドパイン、サイドレール、15cmクリブマットレス対応。JPMA、ASTM、CPSC認証。大手で最も手頃。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.dreamonme.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "kidkraft-modern-toddler-bed",
+    "imageUrl": "",
+    "priceMin": "$130",
+    "priceMax": "$170",
+    "category": "parenting",
+    "badge": "🎨",
+    "name": {
+      "en": "KidKraft Modern Toddler Bed",
+      "ja": "KidKraft モダン トドラーベッド"
+    },
+    "description": {
+      "en": "Engineered wood with white finish, low-profile design, side rails. Used in pediatric showrooms. Easy 30-minute assembly.",
+      "ja": "エンジニアドウッド+ホワイト仕上げ、低床デザイン、サイドレール。小児ショールームで使用。30分組立。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kidkraft.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ikea-sundvik-toddler-bed",
+    "imageUrl": "",
+    "priceMin": "$169",
+    "priceMax": "$199",
+    "category": "parenting",
+    "badge": "📐",
+    "name": {
+      "en": "IKEA Sundvik Toddler Bed",
+      "ja": "IKEA Sundvik トドラーベッド"
+    },
+    "description": {
+      "en": "Extends 50% wider to fit 70x160cm or 80x200cm mattress, growing with child. Solid pine, paintable, 5-year warranty.",
+      "ja": "70x160または80x200cmマットレスに合わせて50%拡張、子供と一緒に成長。ソリッドパイン、塗装可、5年保証。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ikea.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "babyletto-modo-mini-toddler",
+    "imageUrl": "",
+    "priceMin": "$199",
+    "priceMax": "$249",
+    "category": "parenting",
+    "badge": "🌿",
+    "name": {
+      "en": "Babyletto Modo Mini Toddler Bed Kit",
+      "ja": "Babyletto Modo Mini トドラーベッドキット"
+    },
+    "description": {
+      "en": "Converts the Babyletto Modo crib to toddler bed. Greenguard Gold certified, low-VOC finishes. Premium choice.",
+      "ja": "Babyletto Modoクリブをトドラーベッドに変換。Greenguard Gold認証、低VOC仕上げ。プレミアム選択肢。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.babyletto.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "babybjorn-bouncer-balance-soft",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$220",
+    "category": "parenting",
+    "badge": "🇸🇪",
+    "name": {
+      "en": "BabyBjörn Bouncer Balance Soft",
+      "ja": "BabyBjörn バウンサー バランス ソフト"
+    },
+    "description": {
+      "en": "Ergonomic Swedish design, no batteries (baby's movement creates bounce). 0-2 years, machine-washable cover.",
+      "ja": "人間工学スウェーデンデザイン、電池不要（赤ちゃんの動きでバウンド）。0-2歳、カバーは洗濯機OK。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.babybjorn.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fisher-price-soothing-bassinet",
+    "imageUrl": "",
+    "priceMin": "$80",
+    "priceMax": "$110",
+    "category": "parenting",
+    "badge": "💸",
+    "name": {
+      "en": "Fisher-Price Soothing Motions Bassinet",
+      "ja": "Fisher-Price スージングモーション バシネット"
+    },
+    "description": {
+      "en": "Side-to-side stationary motion, vibration, music, lights. Dual-position recline, projector mobile. Best mid-price.",
+      "ja": "左右の静止モーション、振動、音楽、ライト。デュアル位置リクライニング、プロジェクターモビール。中価格帯ベスト。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fisher-price.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ingenuity-cozy-kingdom-swing",
+    "imageUrl": "",
+    "priceMin": "$70",
+    "priceMax": "$85",
+    "category": "parenting",
+    "badge": "💰",
+    "name": {
+      "en": "Ingenuity Cozy Kingdom Portable Swing",
+      "ja": "Ingenuity Cozy Kingdom ポータブルスイング"
+    },
+    "description": {
+      "en": "6 speeds, 8 melodies, 3 nature sounds, foldable for travel. Battery-operated (no outlet needed), under $80.",
+      "ja": "6速、8メロディ、3自然音、旅行用に折畳可。電池式（コンセント不要）、$80以下。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kidsii.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "graco-duet-soothe-swing",
+    "imageUrl": "",
+    "priceMin": "$150",
+    "priceMax": "$180",
+    "category": "parenting",
+    "badge": "🔄",
+    "name": {
+      "en": "Graco DuetSoothe Swing + Rocker",
+      "ja": "Graco デュエットスージ スイング+ロッカー"
+    },
+    "description": {
+      "en": "Convertible swing-to-rocker. Removable rocker base, 6 speeds, 15 melodies. Wide seat fits up to 25 lb.",
+      "ja": "スイング〜ロッカー変換式。取外可ロッカーベース、6速、15メロディ。ワイドシート、〜11kg対応。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.gracobaby.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fisher-price-jumperoo-rainforest",
+    "imageUrl": "",
+    "priceMin": "$110",
+    "priceMax": "$140",
+    "category": "parenting",
+    "badge": "🏆",
+    "name": {
+      "en": "Fisher-Price Rainforest Jumperoo",
+      "ja": "Fisher-Price レインフォレスト ジャンパルー"
+    },
+    "description": {
+      "en": "360° spin seat, 3 height settings, music/lights with kick activation. 12+ attached toys, freestanding (no doorframe).",
+      "ja": "360°回転シート、3段高さ調節、キックで音楽/ライト作動。12種以上の取付玩具、自立式（ドア枠不要）。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fisher-price.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "evenflo-exersaucer-jump-learn",
+    "imageUrl": "",
+    "priceMin": "$90",
+    "priceMax": "$120",
+    "category": "parenting",
+    "badge": "🎓",
+    "name": {
+      "en": "Evenflo ExerSaucer Jump & Learn",
+      "ja": "Evenflo エクサソーサー ジャンプ&ラーン"
+    },
+    "description": {
+      "en": "Jump or activity center, 3 height settings, removable toys for floor play. 360° rotating seat, washable seat pad.",
+      "ja": "ジャンプorアクティビティセンター、3段高さ、取り外し可玩具で床遊び。360°回転シート、洗濯可シートパッド。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.evenflo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "baby-einstein-neptune-jumper",
+    "imageUrl": "",
+    "priceMin": "$100",
+    "priceMax": "$130",
+    "category": "parenting",
+    "badge": "🌊",
+    "name": {
+      "en": "Baby Einstein Neptune Ocean Jumper",
+      "ja": "Baby Einstein ネプチューン オーシャンジャンパー"
+    },
+    "description": {
+      "en": "Underwater theme, 60+ tunes/sounds/phrases in 4 languages. 3 height settings, motion-activated piano station.",
+      "ja": "海中テーマ、60以上のメロディ/音/フレーズを4ヶ国語。3段高さ、モーション式ピアノ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kidsii.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "skip-hop-explore-jumpscape",
+    "imageUrl": "",
+    "priceMin": "$120",
+    "priceMax": "$150",
+    "category": "parenting",
+    "badge": "🌍",
+    "name": {
+      "en": "Skip Hop Explore & More Jumpscape",
+      "ja": "Skip Hop エクスプロア&モア ジャンプスケープ"
+    },
+    "description": {
+      "en": "Foldable for storage, electronic globe with 4 languages and weather sounds. Modern aesthetic, 3 heights.",
+      "ja": "収納用折畳、4ヶ国語＆天気音の電子地球儀。モダンな見た目、3段高さ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.skiphop.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ingenuity-tiny-tunes-jumper",
+    "imageUrl": "",
+    "priceMin": "$75",
+    "priceMax": "$90",
+    "category": "parenting",
+    "badge": "💰",
+    "name": {
+      "en": "Ingenuity Tiny Tunes Musical Jumper",
+      "ja": "Ingenuity Tiny Tunes ミュージカルジャンパー"
+    },
+    "description": {
+      "en": "Compact footprint, 12 melodies + 4 nature sounds, removable toys. Budget option under $90, 360° spinning seat.",
+      "ja": "コンパクト設置、12メロディ＋4自然音、取外可玩具。$90以下バジェット、360°回転シート。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kidsii.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "oral-b-kids-electric-disney",
+    "imageUrl": "",
+    "priceMin": "$35",
+    "priceMax": "$50",
+    "category": "parenting",
+    "badge": "🏆",
+    "name": {
+      "en": "Oral-B Kids Electric Disney",
+      "ja": "Oral-B キッズ 電動 ディズニー"
+    },
+    "description": {
+      "en": "Rotating brush head, sensitive mode, Disney character handles. 2-minute timer with music. App with Magic Timer.",
+      "ja": "回転ブラシヘッド、敏感モード、ディズニーキャラハンドル。2分タイマー＋音楽。Magic Timerアプリ対応。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://oralb.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "philips-sonicare-kids-bluetooth",
+    "imageUrl": "",
+    "priceMin": "$45",
+    "priceMax": "$65",
+    "category": "parenting",
+    "badge": "📱",
+    "name": {
+      "en": "Philips Sonicare for Kids Bluetooth",
+      "ja": "Philips Sonicare for Kids Bluetooth"
+    },
+    "description": {
+      "en": "Sonic vibration, Bluetooth app with interactive characters. 2 modes, 2 brushing speeds. Best for older kids 7+.",
+      "ja": "音波振動、Bluetoothアプリでインタラクティブキャラ。2モード、2速。7歳以上に最適。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.philips.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "brusheez-kids-electric-set",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$20",
+    "category": "parenting",
+    "badge": "🎁",
+    "name": {
+      "en": "Brusheez Kids Electric Set",
+      "ja": "Brusheez キッズ電動セット"
+    },
+    "description": {
+      "en": "Includes brush, rinse cup, 2-min sand timer, character holder. Battery-powered, soft bristles. Best gift set.",
+      "ja": "ブラシ、すすぎコップ、2分砂時計、キャラホルダー付属。電池式、ソフトブリッスル。ギフトセットで最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.brusheez.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "frida-baby-smilefrida-toothbrush",
+    "imageUrl": "",
+    "priceMin": "$8",
+    "priceMax": "$12",
+    "category": "parenting",
+    "badge": "🦷",
+    "name": {
+      "en": "Frida Baby SmileFrida Triple-Angle Toothbrush",
+      "ja": "Frida Baby SmileFrida 三角ヘッド歯ブラシ"
+    },
+    "description": {
+      "en": "Manual brush with surrounding bristles (top, bottom, side simultaneously). 1-3 years. Soft handle for tiny grips.",
+      "ja": "周囲全方位ブリッスル（上下左右同時）の手動ブラシ。1-3歳。小さい手用ソフトハンドル。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://frida.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "colgate-kids-manual-batman",
+    "imageUrl": "",
+    "priceMin": "$5",
+    "priceMax": "$8",
+    "category": "parenting",
+    "badge": "💸",
+    "name": {
+      "en": "Colgate Kids Manual Batman/Frozen",
+      "ja": "Colgate キッズ手動 バットマン/アナ雪"
+    },
+    "description": {
+      "en": "Pack of 4 manual brushes, soft bristles, suction-cup base. Cheapest option for toddler training brushes.",
+      "ja": "4本パック手動ブラシ、ソフトブリッスル、吸盤底。幼児トレーニング用最安。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.colgate.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dremel-7300-pt-pet",
+    "imageUrl": "",
+    "priceMin": "$35",
+    "priceMax": "$45",
+    "category": "pets",
+    "badge": "🏆",
+    "name": {
+      "en": "Dremel 7300-PT 4.8V Pet Grooming Tool",
+      "ja": "Dremel 7300-PT 4.8V ペットグルーミングツール"
+    },
+    "description": {
+      "en": "Cordless rotary tool with 2 speeds (6500/13000 RPM), 60-grit sanding bands. Gentle grinding alternative to clippers.",
+      "ja": "コードレス回転工具、2速（6500/13000 RPM）、60グリットサンディングバンド。クリッパーの代替として優しい。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.dremel.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "safari-professional-clipper",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$25",
+    "category": "pets",
+    "badge": "💪",
+    "name": {
+      "en": "Safari Professional Stainless Steel Clipper",
+      "ja": "Safari プロフェッショナル ステンレス クリッパー"
+    },
+    "description": {
+      "en": "Stainless steel blades, safety stop, ergonomic non-slip handles. Best for medium-large dogs. Used by professional groomers.",
+      "ja": "SUSブレード、安全ストッパー、人間工学滑り止めハンドル。中型〜大型犬に最適。プロトリマー使用。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.safari.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "boshel-dog-nail-clipper",
+    "imageUrl": "",
+    "priceMin": "$10",
+    "priceMax": "$15",
+    "category": "pets",
+    "badge": "💸",
+    "name": {
+      "en": "Boshel Dog Nail Clipper",
+      "ja": "Boshel ドッグ ネイルクリッパー"
+    },
+    "description": {
+      "en": "Safety guard prevents over-cutting, file built into handle. 4.5-star Amazon rating, most popular budget pick.",
+      "ja": "安全ガードで切りすぎ防止、ハンドル内ファイル。Amazon 4.5星、最人気バジェット。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "casfuy-dog-nail-grinder",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$35",
+    "category": "pets",
+    "badge": "🤫",
+    "name": {
+      "en": "Casfuy Rechargeable Dog Nail Grinder",
+      "ja": "Casfuy 充電式 ドッグ ネイルグラインダー"
+    },
+    "description": {
+      "en": "USB rechargeable, 2 speeds, 3 grinding ports for different dog sizes. Quiet motor (<60dB), 5-hour battery.",
+      "ja": "USB充電、2速、犬サイズ別3ポート。静音モーター(<60dB)、5時間バッテリー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "jw-gripsoft-deluxe-clipper",
+    "imageUrl": "",
+    "priceMin": "$12",
+    "priceMax": "$18",
+    "category": "pets",
+    "badge": "🩺",
+    "name": {
+      "en": "JW Pet GripSoft Deluxe Nail Clipper",
+      "ja": "JW Pet グリップソフト デラックス ネイルクリッパー"
+    },
+    "description": {
+      "en": "Curved stainless blade, non-slip thermoplastic grip. Designed for small-medium dogs. Veterinarian-approved style.",
+      "ja": "曲線SUSブレード、滑り止めサーモプラスチックグリップ。小型〜中型犬向け。獣医推奨スタイル。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://jwpet.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "petsafe-drinkwell-platinum-fountain",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$85",
+    "category": "pets",
+    "badge": "🏆",
+    "name": {
+      "en": "PetSafe Drinkwell Platinum Fountain",
+      "ja": "PetSafe Drinkwell プラチナ ファウンテン"
+    },
+    "description": {
+      "en": "168 oz capacity, adjustable flow, BPA-free plastic. Carbon filter included, easy disassembly for cleaning.",
+      "ja": "5L容量、流量調節、BPAフリー樹脂。カーボンフィルター付属、清掃用に分解簡単。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.petsafe.net/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "veken-3l-pet-fountain",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$35",
+    "category": "pets",
+    "badge": "💸",
+    "name": {
+      "en": "Veken 3L Pet Fountain",
+      "ja": "Veken 3L ペットファウンテン"
+    },
+    "description": {
+      "en": "3-liter BPA-free plastic, 3 flow modes, super quiet (<40dB), LED indicator, ultra-budget. Cheapest with good reviews.",
+      "ja": "3L BPAフリー樹脂、3種流れ、超静音(<40dB)、LED指示灯、超バジェット。レビュー良好で最安。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "petlibro-dockstream-wifi-fountain",
+    "imageUrl": "",
+    "priceMin": "$90",
+    "priceMax": "$130",
+    "category": "pets",
+    "badge": "📱",
+    "name": {
+      "en": "PETLIBRO Dockstream Wireless Fountain",
+      "ja": "PETLIBRO Dockstream ワイヤレスファウンテン"
+    },
+    "description": {
+      "en": "Cordless (battery-powered), WiFi monitoring, 3-liter capacity. App tracks water level and drinking habits. Premium tech pick.",
+      "ja": "コードレス（電池）、WiFi監視、3L容量。アプリで水位＆飲水習慣追跡。プレミアム選択肢。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.petlibro.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "flying-pig-z-lift-grooming-table",
+    "imageUrl": "",
+    "priceMin": "$650",
+    "priceMax": "$900",
+    "category": "pets",
+    "badge": "🏆",
+    "name": {
+      "en": "Flying Pig Z-Lift Grooming Table",
+      "ja": "Flying Pig Z-Lift グルーミングテーブル"
+    },
+    "description": {
+      "en": "Electric height adjustment 25-48 inch, 250 lb capacity, non-slip rubber surface. Professional-grade, used in salons.",
+      "ja": "電動高さ調節 25-48インチ、110kg対応、滑り止めゴム表面。プロ仕様、サロン使用。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.flyingpiggrooming.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "master-equipment-grooming-table",
+    "imageUrl": "",
+    "priceMin": "$400",
+    "priceMax": "$550",
+    "category": "pets",
+    "badge": "💪",
+    "name": {
+      "en": "Master Equipment Hydraulic Grooming Table",
+      "ja": "Master Equipment 油圧式グルーミングテーブル"
+    },
+    "description": {
+      "en": "Foot-pump hydraulic, 250 lb capacity, 36x24-inch surface. Heavy-duty steel frame, ribbed rubber top. Best mid-tier.",
+      "ja": "フットポンプ油圧、110kg対応、91x61cm。ヘビーデューティスチールフレーム、リブ付ラバートップ。中堅最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.petedge.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "paw-bros-electric-grooming-table",
+    "imageUrl": "",
+    "priceMin": "$500",
+    "priceMax": "$700",
+    "category": "pets",
+    "badge": "⚡",
+    "name": {
+      "en": "Paw Brothers Electric Grooming Table",
+      "ja": "Paw Brothers 電動グルーミングテーブル"
+    },
+    "description": {
+      "en": "Electric lift 22-43 inch, 220 lb capacity, dual heavy-duty motors. Foldable arm and noose included. Pro-grade.",
+      "ja": "電動リフト 22-43インチ、100kg対応、デュアルヘビーデューティモーター。折畳アーム&ノース付属。プロ仕様。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.gogroom.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "go-pet-club-46-grooming-table",
+    "imageUrl": "",
+    "priceMin": "$80",
+    "priceMax": "$120",
+    "category": "pets",
+    "badge": "💸",
+    "name": {
+      "en": "Go Pet Club 46-inch Grooming Table",
+      "ja": "Go Pet Club 46インチ グルーミングテーブル"
+    },
+    "description": {
+      "en": "Folding table, 46x24 inch, 150 lb capacity. Adjustable arm + clamp included. Best budget option for home use.",
+      "ja": "折畳テーブル、117x61cm、68kg対応。調節アーム＋クランプ付属。家庭用最安。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "shelandy-electric-grooming-table",
+    "imageUrl": "",
+    "priceMin": "$300",
+    "priceMax": "$400",
+    "category": "pets",
+    "badge": "📐",
+    "name": {
+      "en": "SHELANDY Electric Pet Grooming Table",
+      "ja": "SHELANDY 電動ペットグルーミングテーブル"
+    },
+    "description": {
+      "en": "Electric lift, 220 lb capacity, 43-inch tabletop. Foldable for storage, includes Y-shaped grooming arm. Mid-price electric.",
+      "ja": "電動リフト、100kg対応、43インチ天板。収納用折畳、Y型グルーミングアーム付属。中価格帯電動。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "sleepypod-mobile-pet-bed",
+    "imageUrl": "",
+    "priceMin": "$160",
+    "priceMax": "$200",
+    "category": "pets",
+    "badge": "🏆",
+    "name": {
+      "en": "Sleepypod Mobile Pet Bed",
+      "ja": "Sleepypod モバイルペットベッド"
+    },
+    "description": {
+      "en": "Crash-tested certified, doubles as bed at home, seatbelt-compatible. Best for car travel, designed for cats up to 17.5 lb.",
+      "ja": "衝突試験認証、家ではベッド、シートベルト対応。車移動に最適、〜7.9kgの猫向け。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.sleepypod.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "sherpa-original-deluxe-carrier",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$90",
+    "category": "pets",
+    "badge": "✈️",
+    "name": {
+      "en": "Sherpa Original Deluxe Carrier",
+      "ja": "Sherpa オリジナル デラックス キャリア"
+    },
+    "description": {
+      "en": "Airline-approved (most major US airlines), spring wire frame for under-seat fit. Mesh ventilation, removable washable bottom.",
+      "ja": "航空会社認可（米主要会社）、シート下用スプリングワイヤーフレーム。メッシュ通気、洗濯可ボトム。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.sherpapet.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "petsfit-expandable-cat-carrier",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$70",
+    "category": "pets",
+    "badge": "📐",
+    "name": {
+      "en": "Petsfit Expandable Cat Carrier",
+      "ja": "Petsfit 拡張式キャットキャリア"
+    },
+    "description": {
+      "en": "Expands on both sides to 50% more space, airline-approved size. Mesh windows on 4 sides, washable bottom mat.",
+      "ja": "両側50%拡張、航空会社認可サイズ。4面メッシュ窓、洗濯可ボトムマット。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "frisco-soft-sided-cat-carrier",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$50",
+    "category": "pets",
+    "badge": "💸",
+    "name": {
+      "en": "Frisco Soft-Sided Cat Carrier",
+      "ja": "Frisco ソフトサイド キャットキャリア"
+    },
+    "description": {
+      "en": "Chewy's house brand, padded shoulder strap, top and side entry. Mesh ventilation, $30-50 range. Budget-friendly.",
+      "ja": "Chewy自社ブランド、パッド付ショルダーストラップ、上&側面開口。メッシュ通気、$30-50価格帯。バジェット。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.chewy.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "away-pet-carrier",
+    "imageUrl": "",
+    "priceMin": "$225",
+    "priceMax": "$275",
+    "category": "pets",
+    "badge": "🛫",
+    "name": {
+      "en": "Away The Pet Carrier",
+      "ja": "Away ザ ペットキャリア"
+    },
+    "description": {
+      "en": "Premium nylon shell, leather handles, expandable side pocket. Designed by travel brand for under-seat fit. TSA-approved.",
+      "ja": "プレミアムナイロンシェル、レザーハンドル、拡張可サイドポケット。旅行ブランドがシート下用に設計。TSA認可。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.awaytravel.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "gotags-stainless-steel-tag",
+    "imageUrl": "",
+    "priceMin": "$6",
+    "priceMax": "$10",
+    "category": "pets",
+    "badge": "🏆",
+    "name": {
+      "en": "GoTags Stainless Steel Pet ID Tag",
+      "ja": "GoTags ステンレス ペットIDタグ"
+    },
+    "description": {
+      "en": "Laser-engraved both sides, multiple shapes (bone, round, heart). Won't fade or wear. Free shipping, made in USA.",
+      "ja": "両面レーザー彫刻、複数形状（骨、丸、ハート）。色あせ・摩耗なし。送料無料、米国製。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.gotags.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "providence-engraving-brass-tag",
+    "imageUrl": "",
+    "priceMin": "$8",
+    "priceMax": "$14",
+    "category": "pets",
+    "badge": "🇺🇸",
+    "name": {
+      "en": "Providence Engraving Brass Tag",
+      "ja": "Providence Engraving 真鍮タグ"
+    },
+    "description": {
+      "en": "Solid brass deep-engraving, ages to a warm patina. Multiple shapes. Family-owned US company, custom font choices.",
+      "ja": "ソリッド真鍮深彫り、暖かいパティーナに経年変化。複数形状。米家族経営、フォント選択可。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.providenceengraving.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dynotag-smart-id-qr-tag",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$25",
+    "category": "pets",
+    "badge": "📱",
+    "name": {
+      "en": "Dynotag Smart QR Pet ID Tag",
+      "ja": "Dynotag スマートQR ペットIDタグ"
+    },
+    "description": {
+      "en": "QR + unique URL — finder scans tag, sees pet info online (updatable). Includes lifetime web service.",
+      "ja": "QR＋固有URL — 発見者がタグスキャンで情報閲覧（更新可）。Webサービス生涯付。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.dynotag.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "quickdraw-tag-shop-tag",
+    "imageUrl": "",
+    "priceMin": "$5",
+    "priceMax": "$8",
+    "category": "pets",
+    "badge": "🤫",
+    "name": {
+      "en": "QuickDraw Tag Shop Aluminum Tag",
+      "ja": "QuickDraw Tag Shop アルミタグ"
+    },
+    "description": {
+      "en": "Anodized aluminum, 8 colors, lightweight (under 0.1 oz). Quietest tag (less jingle), affordable. Made in USA.",
+      "ja": "アノダイズドアルミ、8色、超軽量(3g未満)。最も静か（音が小さい）、手頃。米国製。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.thetagshop.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "silenttags-flat-id-tag",
+    "imageUrl": "",
+    "priceMin": "$10",
+    "priceMax": "$15",
+    "category": "pets",
+    "badge": "🔇",
+    "name": {
+      "en": "SilentTags Flat-Style ID Tag",
+      "ja": "SilentTags フラットスタイル IDタグ"
+    },
+    "description": {
+      "en": "Slides onto collar (no dangle), silicone-coated stainless, won't jingle. Engraved with laser. Best for noise-sensitive owners.",
+      "ja": "首輪に差し込み（ぶら下がらない）、シリコンコートSUS、音なし。レーザー彫刻。音敏感な飼い主に最適。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.silenttags.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "outward-hound-hide-n-slide",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$25",
+    "category": "pets",
+    "badge": "🏆",
+    "name": {
+      "en": "Outward Hound Hide N' Slide Puzzle",
+      "ja": "Outward Hound Hide N' Slide パズル"
+    },
+    "description": {
+      "en": "Level 2 (intermediate), 9 treat compartments with sliders. BPA-free, dishwasher-top-rack safe. Best entry-level.",
+      "ja": "レベル2（中級）、9個のスライダー付きトリート区画。BPAフリー、食洗機上段OK。エントリーレベル最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://outwardhound.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "nina-ottosson-dog-tornado",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$35",
+    "category": "pets",
+    "badge": "🇸🇪",
+    "name": {
+      "en": "Nina Ottosson Dog Tornado",
+      "ja": "Nina Ottosson ドッグトルネード"
+    },
+    "description": {
+      "en": "Level 2, rotating layered design with 12 treat compartments. Designed by Swedish behaviorist, vet-recommended.",
+      "ja": "レベル2、12個のトリート区画付き回転式レイヤー。スウェーデン行動学者設計、獣医推奨。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.nina-ottosson.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "kong-classic-treat-dispenser",
+    "imageUrl": "",
+    "priceMin": "$10",
+    "priceMax": "$18",
+    "category": "pets",
+    "badge": "🇺🇸",
+    "name": {
+      "en": "KONG Classic Treat-Dispensing Toy",
+      "ja": "KONG クラシック トリートディスペンサー"
+    },
+    "description": {
+      "en": "Natural rubber, fillable hollow center, bounces unpredictably. Indestructible for moderate chewers. Made in USA.",
+      "ja": "天然ゴム、中空充填中央、予測不能なバウンド。中レベルchewerに破壊不可能。米国製。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kongcompany.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "trixie-mad-scientist-puzzle",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$40",
+    "category": "pets",
+    "badge": "🧪",
+    "name": {
+      "en": "Trixie Mad Scientist Puzzle Toy",
+      "ja": "Trixie マッドサイエンティスト パズル"
+    },
+    "description": {
+      "en": "Level 3 (advanced), 3 beakers with lids that dogs must remove. German design, top-tier challenge for smart dogs.",
+      "ja": "レベル3（上級）、犬が外す蓋付き3個のビーカー。ドイツ設計、賢い犬への最高難度。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.trixie.de/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "pet-zone-iq-treat-ball",
+    "imageUrl": "",
+    "priceMin": "$10",
+    "priceMax": "$15",
+    "category": "pets",
+    "badge": "💸",
+    "name": {
+      "en": "Pet Zone IQ Treat Ball",
+      "ja": "Pet Zone IQ トリートボール"
+    },
+    "description": {
+      "en": "Adjustable difficulty (2 settings), holds 1 cup of kibble. Roll-and-release mechanism. Most affordable rolling puzzle.",
+      "ja": "難易度調節（2段階）、ドッグフード1カップ収納。回転リリース機構。最安ローリングパズル。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.petzonepets.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "rowenta-da1560-travel-iron",
+    "imageUrl": "",
+    "priceMin": "$35",
+    "priceMax": "$50",
+    "category": "travel",
+    "badge": "🏆",
+    "name": {
+      "en": "Rowenta DA1560 Travel Ready Steam Iron",
+      "ja": "Rowenta DA1560 トラベル スチームアイロン"
+    },
+    "description": {
+      "en": "1000-watt dual voltage (120V/220V), stainless soleplate, vertical steam. Compact 1.6 lb, perfect for hotels.",
+      "ja": "1000W デュアル電圧(120V/220V)、SUSソールプレート、垂直スチーム。コンパクト0.7kg、ホテルに最適。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.rowenta.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "conair-travel-smart-iron",
+    "imageUrl": "",
+    "priceMin": "$22",
+    "priceMax": "$30",
+    "category": "travel",
+    "badge": "💸",
+    "name": {
+      "en": "Conair Travel Smart Folding Iron",
+      "ja": "Conair Travel Smart 折畳アイロン"
+    },
+    "description": {
+      "en": "Folding handle, dual voltage, 420 watts, water spray. 1 lb compact, comes with travel pouch. Most affordable.",
+      "ja": "折畳ハンドル、デュアル電圧、420W、水スプレー。0.45kgコンパクト、トラベルポーチ付。最安。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.conair.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "sunbeam-hot-2go-iron",
+    "imageUrl": "",
+    "priceMin": "$35",
+    "priceMax": "$50",
+    "category": "travel",
+    "badge": "🔋",
+    "name": {
+      "en": "Sunbeam Hot 2 Trot Travel Iron",
+      "ja": "Sunbeam Hot 2 Trot トラベルアイロン"
+    },
+    "description": {
+      "en": "Cordless dual-voltage, ceramic soleplate, 800W. Heats in 30 sec, holds heat 5 min off-stand. Best cordless.",
+      "ja": "コードレスデュアル電圧、セラミックソールプレート、800W。30秒加熱、台離脱で5分保温。コードレス最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.sunbeam.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hilife-handheld-travel-steamer",
+    "imageUrl": "",
+    "priceMin": "$28",
+    "priceMax": "$40",
+    "category": "travel",
+    "badge": "💨",
+    "name": {
+      "en": "Hilife Handheld Travel Steamer",
+      "ja": "Hilife ハンドヘルド トラベルスチーマー"
+    },
+    "description": {
+      "en": "240ml water tank, ceramic plate, dual voltage, 25-sec heat-up. Steamer alternative to iron — won't burn fabrics.",
+      "ja": "240ml水タンク、セラミックプレート、デュアル電圧、25秒加熱。アイロンの代替スチーマー — 生地焦げない。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "panasonic-niw750cs-cordless-iron",
+    "imageUrl": "",
+    "priceMin": "$70",
+    "priceMax": "$90",
+    "category": "travel",
+    "badge": "🥇",
+    "name": {
+      "en": "Panasonic NI-W750CS Cordless Travel Iron",
+      "ja": "Panasonic NI-W750CS コードレストラベルアイロン"
+    },
+    "description": {
+      "en": "Curved soleplate, cordless 1500W, dual voltage. Best build quality for frequent travelers. Heats in 60 sec.",
+      "ja": "曲線ソールプレート、コードレス1500W、デュアル電圧。頻繁な旅行者向け最良ビルド。60秒加熱。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.panasonic.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "yeti-rambler-20oz-travel-mug",
+    "imageUrl": "",
+    "priceMin": "$35",
+    "priceMax": "$45",
+    "category": "travel",
+    "badge": "🏆",
+    "name": {
+      "en": "Yeti Rambler 20oz Travel Mug",
+      "ja": "Yeti Rambler 20oz トラベルマグ"
+    },
+    "description": {
+      "en": "Stronghold lid (leak-resistant), 18/8 stainless, doubles wall, keeps hot 6hr / cold 12hr. Cup holder fit.",
+      "ja": "Stronghold蓋（漏れ抵抗）、18/8 SUS、二重壁、保温6時間/保冷12時間。カップホルダー対応。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.yeti.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hydroflask-coffee-flex-20oz",
+    "imageUrl": "",
+    "priceMin": "$33",
+    "priceMax": "$40",
+    "category": "travel",
+    "badge": "🍵",
+    "name": {
+      "en": "Hydro Flask Coffee Flex Sip 20oz",
+      "ja": "Hydro Flask コーヒー フレックスシップ 20oz"
+    },
+    "description": {
+      "en": "Tea-strainer compatible, TempShield insulation, BPA-free press-in lid. Hot 6 hours / cold 12 hours.",
+      "ja": "茶こし対応、TempShield断熱、BPAフリー押し込み蓋。保温6時間/保冷12時間。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hydroflask.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "contigo-autoseal-west-loop",
+    "imageUrl": "",
+    "priceMin": "$22",
+    "priceMax": "$30",
+    "category": "travel",
+    "badge": "👍",
+    "name": {
+      "en": "Contigo Autoseal West Loop Travel Mug",
+      "ja": "Contigo オートシール ウェストループ トラベルマグ"
+    },
+    "description": {
+      "en": "One-handed thumb button, leak-proof on lockdown. 20oz steel, hot 5hr / cold 12hr. Top-rack dishwasher safe.",
+      "ja": "片手親指ボタン、ロック時漏れ防止。20oz スチール、保温5時間/保冷12時間。食洗機上段OK。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.contigo.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "zojirushi-sm-sa48-stainless-mug",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$40",
+    "category": "travel",
+    "badge": "🇯🇵",
+    "name": {
+      "en": "Zojirushi SM-SA48 Stainless Mug 16oz",
+      "ja": "象印 SM-SA48 ステンレスマグ 16oz"
+    },
+    "description": {
+      "en": "Japanese vacuum insulation, Cool Touch exterior, flip-open lid with stopper. 6 hours at temp. Made in Japan.",
+      "ja": "日本製真空断熱、Cool Touch外装、ストッパー付きフリップ蓋。6時間温度保持。日本製。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.zojirushi.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "stanley-classic-trigger-action-mug",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$40",
+    "category": "travel",
+    "badge": "💪",
+    "name": {
+      "en": "Stanley Classic Trigger-Action Travel Mug",
+      "ja": "Stanley クラシック トリガーアクション トラベルマグ"
+    },
+    "description": {
+      "en": "Trigger-action lid, 16oz vacuum stainless, BPA-free. Hot 7 hours, ice 30 hours. Rugged powder-coat finish.",
+      "ja": "トリガーアクション蓋、16oz真空SUS、BPAフリー。保温7時間、保氷30時間。タフなパウダーコート仕上げ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.stanley1913.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "rumpl-original-puffy-blanket",
+    "imageUrl": "",
+    "priceMin": "$99",
+    "priceMax": "$129",
+    "category": "travel",
+    "badge": "🏆",
+    "name": {
+      "en": "Rumpl Original Puffy Blanket",
+      "ja": "Rumpl オリジナル パフィーブランケット"
+    },
+    "description": {
+      "en": "Recycled poly-fill, water-resistant DWR shell, stuff-sack included. Throw size, packs to 4L. Made in USA.",
+      "ja": "リサイクルポリ充填、撥水DWRシェル、収納袋付属。スローサイズ、4Lに圧縮。米国製。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.rumpl.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "cabeau-fold-n-go-blanket",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$40",
+    "category": "travel",
+    "badge": "✈️",
+    "name": {
+      "en": "Cabeau Fold N' Go Travel Blanket",
+      "ja": "Cabeau Fold N' Go トラベルブランケット"
+    },
+    "description": {
+      "en": "Microfleece, comes with carry case + clip-on. Folds into pillow-size, machine washable. Best for plane travel.",
+      "ja": "マイクロフリース、キャリーケース＋クリップ付属。枕サイズに折畳、洗濯機OK。飛行機旅行に最適。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.cabeau.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bearz-outdoor-travel-blanket",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$35",
+    "category": "travel",
+    "badge": "💸",
+    "name": {
+      "en": "BEARZ Outdoor Travel Blanket",
+      "ja": "BEARZ アウトドア トラベルブランケット"
+    },
+    "description": {
+      "en": "Compact (palm-sized when packed), waterproof, sand-resistant. 55x60-inch unfolded, attaches to bag with carabiner.",
+      "ja": "コンパクト（圧縮時手のひらサイズ）、防水、砂耐性。展開時140x152cm、カラビナでバッグ取付。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://bearzoutdoors.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "cocoon-coolmax-travel-blanket",
+    "imageUrl": "",
+    "priceMin": "$45",
+    "priceMax": "$60",
+    "category": "travel",
+    "badge": "💧",
+    "name": {
+      "en": "Cocoon CoolMax Travel Blanket",
+      "ja": "Cocoon CoolMax トラベルブランケット"
+    },
+    "description": {
+      "en": "Moisture-wicking CoolMax synthetic, lightweight (10 oz), packs to grapefruit size. Best for warm climates.",
+      "ja": "吸湿発散CoolMax合成、軽量(283g)、グレープフルーツサイズに圧縮。暖かい気候に最適。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.cocoon.at/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "marmot-trestles-elite-throw",
+    "imageUrl": "",
+    "priceMin": "$80",
+    "priceMax": "$110",
+    "category": "travel",
+    "badge": "🌿",
+    "name": {
+      "en": "Marmot Trestles Elite Eco Throw",
+      "ja": "Marmot Trestles Elite Eco スロー"
+    },
+    "description": {
+      "en": "Synthetic insulation 30F rated, 100% recycled materials. Doubles as travel throw or backup blanket for cold cars.",
+      "ja": "合成断熱30F対応、100%リサイクル素材。トラベルスローorコールドカー用予備として活用。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.marmot.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bagsmart-hanging-toiletry-bag",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$35",
+    "category": "travel",
+    "badge": "🏆",
+    "name": {
+      "en": "BAGSMART Hanging Toiletry Bag",
+      "ja": "BAGSMART ハンギング トイレタリーバッグ"
+    },
+    "description": {
+      "en": "4 compartments, hanging hook, removable wet pouch. Polyester water-resistant, TSA-friendly. Best mid-price overall.",
+      "ja": "4区画、ハンギングフック、取外可ウェットポーチ。撥水ポリエステル、TSAフレンドリー。中価格帯総合最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bagsmart.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "lay-n-go-cosmo-makeup-bag",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$45",
+    "category": "travel",
+    "badge": "💡",
+    "name": {
+      "en": "Lay-n-Go COSMO Makeup Bag",
+      "ja": "Lay-n-Go COSMO メイクアップバッグ"
+    },
+    "description": {
+      "en": "Cinches into a bag, opens into a flat workspace. Holds 30+ items, water-resistant nylon. Genius design.",
+      "ja": "閉じてバッグ、開いてフラットワークスペース。30以上のアイテム収納、撥水ナイロン。秀逸デザイン。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.laynsave.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "beautyspy-travel-makeup-bag",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$55",
+    "category": "travel",
+    "badge": "💎",
+    "name": {
+      "en": "BeautySpy Travel Makeup Bag",
+      "ja": "BeautySpy トラベルメイクバッグ"
+    },
+    "description": {
+      "en": "PU leather, 3-tier organizer, 360° rotating, locking handle. Premium feel for $40-50. Influencer favorite.",
+      "ja": "PUレザー、3段オーガナイザー、360°回転、ロックハンドル。$40-50でプレミアム感。インフルエンサー人気。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ellis-james-designs-toiletries",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": "$70",
+    "category": "travel",
+    "badge": "🇬🇧",
+    "name": {
+      "en": "Ellis James Designs Toiletries Bag",
+      "ja": "Ellis James Designs トイレタリーバッグ"
+    },
+    "description": {
+      "en": "Waxed canvas, leather trim, 8 compartments, hanging hook. Heritage style at mid-range price. UK design.",
+      "ja": "ワックスドキャンバス、レザートリム、8区画、ハンギングフック。中価格帯でヘリテージスタイル。UK設計。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ellisjamesdesigns.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "narwey-large-makeup-pouch",
+    "imageUrl": "",
+    "priceMin": "$12",
+    "priceMax": "$18",
+    "category": "travel",
+    "badge": "💸",
+    "name": {
+      "en": "Narwey Large Makeup Pouch",
+      "ja": "Narwey 大型メイクポーチ"
+    },
+    "description": {
+      "en": "Soft fabric, drawstring closure, 25+ items capacity. $12-18 ultra-budget pick, flat-bottom design. Amazon top-seller.",
+      "ja": "ソフト生地、ドローストリング、25以上のアイテム収納。$12-18超バジェット、フラットボトムデザイン。Amazon売れ筋。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bagsmart-shoe-bag-2pack",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$22",
+    "category": "travel",
+    "badge": "🏆",
+    "name": {
+      "en": "BAGSMART Travel Shoe Bag 2-Pack",
+      "ja": "BAGSMART トラベルシューズバッグ 2枚組"
+    },
+    "description": {
+      "en": "Polyester with ventilation mesh, drawstring closure, fits up to US size 12. Affordable 2-pack option.",
+      "ja": "ポリエステル＋通気メッシュ、ドローストリング、US12までサイズ対応。手頃な2枚組。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bagsmart.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "perfectto-shoe-bag-4set",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$20",
+    "category": "travel",
+    "badge": "💸",
+    "name": {
+      "en": "Perfectto Shoe Travel Bag 4-Set",
+      "ja": "Perfectto シューズトラベルバッグ4枚セット"
+    },
+    "description": {
+      "en": "Set of 4 bags (different sizes), water-resistant nylon, drawstring with stopper. Best value for 4-shoe trips.",
+      "ja": "4枚セット（異サイズ）、撥水ナイロン、ストッパー付きドローストリング。4足旅行で最高コスパ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "peak-design-shoe-pouch",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$40",
+    "category": "travel",
+    "badge": "🏔️",
+    "name": {
+      "en": "Peak Design Shoe Pouch",
+      "ja": "Peak Design シューズパウチ"
+    },
+    "description": {
+      "en": "Weatherproof 400D nylon, zip closure, integrates with Peak Design Travel Bag. Premium choice for Peak Design users.",
+      "ja": "全天候400Dナイロン、ジッパー、Peak Design Travel Bagと連携。Peak Designユーザーのプレミアム選択。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.peakdesign.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "eagle-creek-pack-it-shoe-sac",
+    "imageUrl": "",
+    "priceMin": "$18",
+    "priceMax": "$25",
+    "category": "travel",
+    "badge": "♻️",
+    "name": {
+      "en": "Eagle Creek Pack-It Shoe Sac",
+      "ja": "Eagle Creek Pack-It シューサック"
+    },
+    "description": {
+      "en": "Bluesign-certified recycled polyester, water-resistant. Designed by packing-cube pioneers. Lifetime warranty.",
+      "ja": "Bluesign認証リサイクルポリエステル、撥水。パッキングキューブのパイオニア設計。生涯保証。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.eaglecreek.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "away-shoe-bag",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$35",
+    "category": "travel",
+    "badge": "🛫",
+    "name": {
+      "en": "Away The Shoe Bag",
+      "ja": "Away ザ シューバッグ"
+    },
+    "description": {
+      "en": "Nylon ripstop, accent stripe, sized to fit men's US 13. Premium feel matches Away luggage line.",
+      "ja": "ナイロンリップストップ、アクセントストライプ、メンズUS13対応。Awayラゲッジに合うプレミアム。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.awaytravel.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "belkin-mini-surge-3outlet",
+    "imageUrl": "",
+    "priceMin": "$20",
+    "priceMax": "$28",
+    "category": "travel",
+    "badge": "🏆",
+    "name": {
+      "en": "Belkin Mini Surge Protector 3-Outlet",
+      "ja": "Belkin ミニ サージプロテクター 3口"
+    },
+    "description": {
+      "en": "3 outlets + 2 USB-A, swivel plug for tight outlets. 918 joules surge protection, $20-25 range. Best travel basics.",
+      "ja": "3口＋USB-A 2口、狭いコンセント用スイベルプラグ。918ジュールサージ保護、$20-25。トラベルベーシック最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.belkin.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "anker-321-power-strip",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$40",
+    "category": "travel",
+    "badge": "⚡",
+    "name": {
+      "en": "Anker 321 Power Strip (PowerExtend)",
+      "ja": "Anker 321 パワーストリップ"
+    },
+    "description": {
+      "en": "3 AC + 2 USB-C + 1 USB-A, 30W USB-C PD output. Flat plug, 5-ft cord. Best for laptop + phone charging.",
+      "ja": "AC3口＋USB-C 2口＋USB-A 1口、USB-C PD 30W出力。フラットプラグ、1.5mコード。ラップトップ＋スマホに最適。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.anker.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "addtam-flat-plug-strip",
+    "imageUrl": "",
+    "priceMin": "$18",
+    "priceMax": "$25",
+    "category": "travel",
+    "badge": "💸",
+    "name": {
+      "en": "Addtam Flat Plug Power Strip",
+      "ja": "Addtam フラットプラグ パワーストリップ"
+    },
+    "description": {
+      "en": "6 outlets + 3 USB ports, ultra-thin flat plug, 5-ft braided cord. Budget pick with most outlets.",
+      "ja": "6口＋USB 3口、超薄型フラットプラグ、1.5m編組コード。最多口数のバジェット。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "monster-mini-powercenter-travel",
+    "imageUrl": "",
+    "priceMin": "$22",
+    "priceMax": "$30",
+    "category": "travel",
+    "badge": "🏨",
+    "name": {
+      "en": "Monster Mini PowerCenter Travel",
+      "ja": "Monster ミニ パワーセンター トラベル"
+    },
+    "description": {
+      "en": "3 outlets + 2 USB-A (2.4A), 540 joules surge. Wall-mountable, swivel plug. Compact for hotel desk power.",
+      "ja": "3口＋USB-A 2口(2.4A)、540ジュールサージ。壁掛可、スイベルプラグ。ホテルデスクに最適コンパクト。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.monsterproducts.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ntonpower-international-strip",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$40",
+    "category": "travel",
+    "badge": "🌍",
+    "name": {
+      "en": "NTONPOWER International Travel Power Strip",
+      "ja": "NTONPOWER 海外旅行用 パワーストリップ"
+    },
+    "description": {
+      "en": "4 outlets + 4 USB ports + international adapter (UK/EU/AU/US). 4ft cord, dual-voltage compatible. Best for international.",
+      "ja": "4口＋USB 4口＋海外アダプター(UK/EU/AU/US)。1.2mコード、デュアル電圧対応。海外旅行最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ntonpower.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
   }
 ];

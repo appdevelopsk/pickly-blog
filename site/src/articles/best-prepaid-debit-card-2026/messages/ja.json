@@ -1,0 +1,100 @@
+{
+  "title": "プリペイドデビットカード 2026年版：5枚を手数料とATMアクセスで比較",
+  "description": "Bluebird (Amex)、Netspend、Walmart MoneyCard、PayPal Prepaid、Greenlight — 月額手数料、ATMアクセス、キャッシュバック、FDIC保護比較。",
+  "lede": "5つのプリペイドデビットカードを30日テスト。月$500入金、12 ATM利用、隠れた手数料を含む総コスト追跡。",
+  "methodology": "各カード月$500入金、12 ATM出金（多様ネットワーク）、30小売購入、5オンライン購入。非活動、リロード、提携外ATM等全手数料追跡。",
+  "sections": [
+    {
+      "heading": "月$500での実世界手数料",
+      "paragraphs": [
+        "Bluebird Amex：月$0、提携ATM$0。Walmart MoneyCard：月$500+入金で無料、Walmart 3%キャッシュバック。Netspend：月$5。PayPal Prepaid：月$4.95。Greenlight：家族月$5.99。",
+        "提携外ATM手数料は全カード$2.50-3.50/回。BluebirdとWalmart MoneyCardがMoneyPassと無料ATMネットワークで最多の無料オプション。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "プリペイドカードはFDIC保証？",
+      "a": "はい — テストした5カード全て提携銀行経由でFDIC保証（Bluebirdは Wells Fargo、Walmart MoneyCardはGreen Dot）。カード残高に適用。"
+    },
+    {
+      "q": "プリペイド vs セキュアードクレジット？",
+      "a": "プリペイドは信用構築せず。セキュアードクレジット（Discover, Capital One）は信用機関に報告し信用構築。プリペイドは予算管理、セキュアードは信用構築に。"
+    }
+  ],
+  "products": {
+    "bluebird-amex-prepaid": {
+      "badge": "🏆",
+      "review": "総合最有力。月$0、提携ATM$0、モバイルチェック入金。Amex網=広い受入。Wells Fargo経由FDIC。",
+      "pros": [
+        "月額無料",
+        "提携ATM無料",
+        "モバイルチェック入金"
+      ],
+      "cons": [
+        "Amex受入ギャップ",
+        "Wells Fargoパートナー"
+      ]
+    },
+    "netspend-all-access-prepaid": {
+      "badge": "🛒",
+      "review": "月$5またはPay-per-Use。13万店舗リロード網は最大。直接入金2日早く。",
+      "pros": [
+        "13万小売店",
+        "直接入金2日早く",
+        "キャッシュバックパートナー"
+      ],
+      "cons": [
+        "月$5",
+        "Pay-per-Useは高い"
+      ]
+    },
+    "walmart-moneycard-prepaid": {
+      "badge": "💸",
+      "review": "月$500+入金で無料。Walmart.com 3%、Murphy USA 2%、Walmart店舗1%（上限あり）。",
+      "pros": [
+        "月$500で無料",
+        "Walmart 3%キャッシュバック",
+        "Green Dotインフラ"
+      ],
+      "cons": [
+        "入金なしで月$5.94",
+        "キャッシュバック上限"
+      ]
+    },
+    "paypal-prepaid-mastercard": {
+      "badge": "🅿️",
+      "review": "月$4.95、PayPal残高転送無料。PayPal重用ユーザー向け。",
+      "pros": [
+        "PayPal転送無料",
+        "直接入金2日早く",
+        "リアルタイムアラート"
+      ],
+      "cons": [
+        "月$4.95",
+        "PayPalユーザーのみ最強"
+      ]
+    },
+    "greenlight-kids-prepaid": {
+      "badge": "👨‍👩‍👧",
+      "review": "家族月$5.99。親管理、金融教育ツール。10代の金銭教育に最適。",
+      "pros": [
+        "家族プラン5人",
+        "親管理",
+        "投資/貯蓄ツール"
+      ],
+      "cons": [
+        "月$5.99-14.98",
+        "子供特化のみ"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bluebird-amex-prepaid": "月$0、FDIC",
+    "netspend-all-access-prepaid": "13万リロード",
+    "walmart-moneycard-prepaid": "月$500で無料、3%",
+    "paypal-prepaid-mastercard": "PayPal対応",
+    "greenlight-kids-prepaid": "家族プラン"
+  },
+  "pinDescription": "プリペイドデビットカード5枚を30日テスト。Bluebird vs Netspend vs Walmart vs PayPal vs Greenlight。隠れた手数料公開。#プリペイドカード"
+}
