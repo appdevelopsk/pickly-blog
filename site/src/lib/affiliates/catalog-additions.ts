@@ -35505,7 +35505,7 @@ export const CATALOG_ADDITIONS = [
     "id": "thimble-on-demand",
     "imageUrl": "",
     "priceMin": "$5",
-    "priceMax": " as unknown as AffiliateOffer[]00",
+    "priceMax": "$100",
     "category": "finance",
     "badge": "📱",
     "name": {
@@ -35539,8 +35539,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Delta Dental 個人"
     },
     "description": {
-      "en": "Largest US dental network, 80% coinsurance preventive + basic,  as unknown as AffiliateOffer[],000-2,000 annual max. Best mainstream.",
-      "ja": "米国最大歯科ネットワーク、予防＋基本80%、年間上限 as unknown as AffiliateOffer[],000-2,000。主流最有力。"
+      "en": "Largest US dental network, 80% coinsurance preventive + basic,$1,000-2,000 annual max. Best mainstream.",
+      "ja": "米国最大歯科ネットワーク、予防＋基本80%、年間上限$1,000-2,000。主流最有力。"
     },
     "links": [
       {
@@ -35565,8 +35565,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Cigna Dental 1500"
     },
     "description": {
-      "en": " as unknown as AffiliateOffer[],500 annual max, 100% preventive, no waiting period for preventive. Strong nationwide network.",
-      "ja": "年間上限 as unknown as AffiliateOffer[],500、予防100%、予防に待機期間なし。強力な全国ネットワーク。"
+      "en": "$1,500 annual max, 100% preventive, no waiting period for preventive. Strong nationwide network.",
+      "ja": "年間上限$1,500、予防100%、予防に待機期間なし。強力な全国ネットワーク。"
     },
     "links": [
       {
@@ -35583,7 +35583,7 @@ export const CATALOG_ADDITIONS = [
     "id": "spirit-dental-no-waiting",
     "imageUrl": "",
     "priceMin": "$45",
-    "priceMax": " as unknown as AffiliateOffer[]10",
+    "priceMax": "$110",
     "category": "finance",
     "badge": "⚡",
     "name": {
@@ -35617,8 +35617,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Humana Dental Loyalty Plus"
     },
     "description": {
-      "en": " as unknown as AffiliateOffer[],500 max year 1, increases to $2,000+ in year 3 if claims-free. Loyalty-based annual max increase.",
-      "ja": "1年目上限 as unknown as AffiliateOffer[],500、無請求なら3年目で$2,000+に増加。ロイヤルティベースの上限増加。"
+      "en": "$1,500 max year 1, increases to $2,000+ in year 3 if claims-free. Loyalty-based annual max increase.",
+      "ja": "1年目上限$1,500、無請求なら3年目で$2,000+に増加。ロイヤルティベースの上限増加。"
     },
     "links": [
       {
@@ -35634,7 +35634,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "dentemax-discount-plan",
     "imageUrl": "",
-    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMin": "$15",
     "priceMax": "$30",
     "category": "finance",
     "badge": "💸",
@@ -35643,8 +35643,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "DenteMax 歯科割引プラン"
     },
     "description": {
-      "en": "Not insurance — pay discounted rates directly at dentist. No max, no waiting periods,  as unknown as AffiliateOffer[]5-25/mo.",
-      "ja": "保険ではない — 歯科で割引価格を直接支払。上限なし、待機期間なし、月 as unknown as AffiliateOffer[]5-25。"
+      "en": "Not insurance — pay discounted rates directly at dentist. No max, no waiting periods,$15-25/mo.",
+      "ja": "保険ではない — 歯科で割引価格を直接支払。上限なし、待機期間なし、月$15-25。"
     },
     "links": [
       {
@@ -35661,7 +35661,7 @@ export const CATALOG_ADDITIONS = [
     "id": "1password-families",
     "imageUrl": "",
     "priceMin": "$4",
-    "priceMax": " as unknown as AffiliateOffer[]0",
+    "priceMax": "$10",
     "category": "tech",
     "badge": "🏆",
     "name": {
@@ -35695,8 +35695,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Bitwarden Premium"
     },
     "description": {
-      "en": "Open-source, free tier covers basics,  as unknown as AffiliateOffer[]0/year for premium with TOTP and emergency access.",
-      "ja": "オープンソース、無料層で基本カバー、年 as unknown as AffiliateOffer[]0でTOTP＋緊急アクセス付きプレミアム。"
+      "en": "Open-source, free tier covers basics,$10/year for premium with TOTP and emergency access.",
+      "ja": "オープンソース、無料層で基本カバー、年$10でTOTP＋緊急アクセス付きプレミアム。"
     },
     "links": [
       {
@@ -35721,8 +35721,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Dashlane Premium"
     },
     "description": {
-      "en": "Includes VPN ( as unknown as AffiliateOffer[]0/mo value), dark web monitoring, $4.99/mo solo. Comprehensive but pricier.",
-      "ja": "VPN込み（月 as unknown as AffiliateOffer[]0価値）、ダークウェブ監視、個人月$4.99。包括的だが高め。"
+      "en": "Includes VPN ($10/mo value), dark web monitoring, $4.99/mo solo. Comprehensive but pricier.",
+      "ja": "VPN込み（月$10価値）、ダークウェブ監視、個人月$4.99。包括的だが高め。"
     },
     "links": [
       {
@@ -35817,7 +35817,7 @@ export const CATALOG_ADDITIONS = [
     "id": "norton-360-deluxe",
     "imageUrl": "",
     "priceMin": "$50",
-    "priceMax": " as unknown as AffiliateOffer[]10",
+    "priceMax": "$110",
     "category": "tech",
     "badge": "🛡️",
     "name": {
@@ -36050,7 +36050,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "dainese-racing-3-d-air",
     "imageUrl": "",
-    "priceMin": " as unknown as AffiliateOffer[]700",
+    "priceMin": "$1700",
     "priceMax": "$2200",
     "category": "tech",
     "badge": "🏆",
@@ -36077,7 +36077,7 @@ export const CATALOG_ADDITIONS = [
     "id": "alpinestars-gp-plus-r-v3",
     "imageUrl": "",
     "priceMin": "$700",
-    "priceMax": " as unknown as AffiliateOffer[]000",
+    "priceMax": "$1000",
     "category": "tech",
     "badge": "🥇",
     "name": {
@@ -36181,7 +36181,7 @@ export const CATALOG_ADDITIONS = [
     "id": "hubspot-crm-pro",
     "imageUrl": "",
     "priceMin": "$0",
-    "priceMax": " as unknown as AffiliateOffer[]20",
+    "priceMax": "$120",
     "category": "tech",
     "badge": "🏆",
     "name": {
@@ -36189,8 +36189,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "HubSpot Sales Hub Professional"
     },
     "description": {
-      "en": "Free CRM tier scales to paid Sales Hub. Best UX for small teams, marketing-CRM integration native.  as unknown as AffiliateOffer[]00/user/mo Pro.",
-      "ja": "無料CRM層からSales Hub有料へスケール。中小チーム向け最良UX、マーケCRM統合ネイティブ。Pro  as unknown as AffiliateOffer[]00/ユーザー/月。"
+      "en": "Free CRM tier scales to paid Sales Hub. Best UX for small teams, marketing-CRM integration native.$100/user/mo Pro.",
+      "ja": "無料CRM層からSales Hub有料へスケール。中小チーム向け最良UX、マーケCRM統合ネイティブ。Pro$100/ユーザー/月。"
     },
     "links": [
       {
@@ -36232,7 +36232,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "pipedrive-advanced",
     "imageUrl": "",
-    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMin": "$15",
     "priceMax": "$99",
     "category": "tech",
     "badge": "📊",
@@ -36258,7 +36258,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "zoho-crm-enterprise",
     "imageUrl": "",
-    "priceMin": " as unknown as AffiliateOffer[]4",
+    "priceMin": "$14",
     "priceMax": "$52",
     "category": "tech",
     "badge": "💸",
@@ -36267,8 +36267,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Zoho CRM Enterprise"
     },
     "description": {
-      "en": "Best for SMB on a budget, broad feature set ($40/user/mo Enterprise vs Salesforce  as unknown as AffiliateOffer[]65), integrates with Zoho One suite.",
-      "ja": "予算重視SMB向け最有力、広い機能セット（Enterprise $40/ユーザー/月 対Salesforce  as unknown as AffiliateOffer[]65）、Zoho Oneスイート連携。"
+      "en": "Best for SMB on a budget, broad feature set ($40/user/mo Enterprise vs Salesforce$165), integrates with Zoho One suite.",
+      "ja": "予算重視SMB向け最有力、広い機能セット（Enterprise $40/ユーザー/月 対Salesforce$165）、Zoho Oneスイート連携。"
     },
     "links": [
       {
@@ -36284,7 +36284,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "monday-sales-crm",
     "imageUrl": "",
-    "priceMin": " as unknown as AffiliateOffer[]0",
+    "priceMin": "$10",
     "priceMax": "$28",
     "category": "tech",
     "badge": "🎨",
@@ -36293,8 +36293,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Monday Sales CRM"
     },
     "description": {
-      "en": "Visual workflow-style CRM, best for teams already using Monday for project management.  as unknown as AffiliateOffer[]2-24/user/mo.",
-      "ja": "ビジュアルワークフロー型CRM、既にMondayをプロジェクト管理に使うチーム向け最有力。 as unknown as AffiliateOffer[]2-24/ユーザー/月。"
+      "en": "Visual workflow-style CRM, best for teams already using Monday for project management.$12-24/user/mo.",
+      "ja": "ビジュアルワークフロー型CRM、既にMondayをプロジェクト管理に使うチーム向け最有力。$12-24/ユーザー/月。"
     },
     "links": [
       {
@@ -36311,7 +36311,7 @@ export const CATALOG_ADDITIONS = [
     "id": "gusto-payroll-plus",
     "imageUrl": "",
     "priceMin": "$40",
-    "priceMax": " as unknown as AffiliateOffer[]80",
+    "priceMax": "$180",
     "category": "tech",
     "badge": "🏆",
     "name": {
@@ -36319,8 +36319,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Gusto Plus 給与"
     },
     "description": {
-      "en": "Best UX for small businesses, includes HR features, $60/mo +  as unknown as AffiliateOffer[]2/employee. Auto-files all federal/state taxes.",
-      "ja": "中小企業向け最良UX、HR機能込み、月$60＋従業員あたり as unknown as AffiliateOffer[]2。連邦／州税自動申告。"
+      "en": "Best UX for small businesses, includes HR features, $60/mo +$12/employee. Auto-files all federal/state taxes.",
+      "ja": "中小企業向け最良UX、HR機能込み、月$60＋従業員あたり$12。連邦／州税自動申告。"
     },
     "links": [
       {
@@ -36389,7 +36389,7 @@ export const CATALOG_ADDITIONS = [
     "id": "onpay-payroll",
     "imageUrl": "",
     "priceMin": "$40",
-    "priceMax": " as unknown as AffiliateOffer[]30",
+    "priceMax": "$130",
     "category": "tech",
     "badge": "💸",
     "name": {
@@ -36475,8 +36475,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Monday Work Management Pro"
     },
     "description": {
-      "en": "Visual board-style, infinite customization,  as unknown as AffiliateOffer[]9/user/mo Pro. Most flexible across departments.",
-      "ja": "ビジュアルボードスタイル、無限カスタマイズ、Pro  as unknown as AffiliateOffer[]9/ユーザー/月。部門横断で最柔軟。"
+      "en": "Visual board-style, infinite customization,$19/user/mo Pro. Most flexible across departments.",
+      "ja": "ビジュアルボードスタイル、無限カスタマイズ、Pro$19/ユーザー/月。部門横断で最柔軟。"
     },
     "links": [
       {
@@ -36493,7 +36493,7 @@ export const CATALOG_ADDITIONS = [
     "id": "clickup-business",
     "imageUrl": "",
     "priceMin": "$7",
-    "priceMax": " as unknown as AffiliateOffer[]9",
+    "priceMax": "$19",
     "category": "tech",
     "badge": "🧰",
     "name": {
@@ -36501,8 +36501,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "ClickUp Business"
     },
     "description": {
-      "en": "All-in-one (PM + docs + chat + CRM + automations),  as unknown as AffiliateOffer[]2/user/mo Business. Steeper learning curve but most features.",
-      "ja": "オールインワン（PM＋ドキュメント＋チャット＋CRM＋オートメーション）、Business  as unknown as AffiliateOffer[]2/ユーザー/月。学習曲線急だが最多機能。"
+      "en": "All-in-one (PM + docs + chat + CRM + automations),$12/user/mo Business. Steeper learning curve but most features.",
+      "ja": "オールインワン（PM＋ドキュメント＋チャット＋CRM＋オートメーション）、Business$12/ユーザー/月。学習曲線急だが最多機能。"
     },
     "links": [
       {
@@ -36518,7 +36518,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "notion-business",
     "imageUrl": "",
-    "priceMin": " as unknown as AffiliateOffer[]0",
+    "priceMin": "$10",
     "priceMax": "$25",
     "category": "tech",
     "badge": "📝",
@@ -36545,7 +36545,7 @@ export const CATALOG_ADDITIONS = [
     "id": "trello-premium",
     "imageUrl": "",
     "priceMin": "$5",
-    "priceMax": " as unknown as AffiliateOffer[]0",
+    "priceMax": "$10",
     "category": "tech",
     "badge": "💸",
     "name": {
@@ -36553,8 +36553,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Trello Premium"
     },
     "description": {
-      "en": "Simplest Kanban-style, owned by Atlassian,  as unknown as AffiliateOffer[]0/user/mo Premium. Best for small teams that want lightweight tracking.",
-      "ja": "最シンプルカンバンスタイル、Atlassian所有、Premium  as unknown as AffiliateOffer[]0/ユーザー/月。軽量追跡を求める中小チーム最有力。"
+      "en": "Simplest Kanban-style, owned by Atlassian,$10/user/mo Premium. Best for small teams that want lightweight tracking.",
+      "ja": "最シンプルカンバンスタイル、Atlassian所有、Premium$10/ユーザー/月。軽量追跡を求める中小チーム最有力。"
     },
     "links": [
       {
@@ -36579,8 +36579,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Mailchimp Standard"
     },
     "description": {
-      "en": "Mainstream email + marketing automation, best UX,  as unknown as AffiliateOffer[]3/mo starting. Free up to 500 contacts.",
-      "ja": "主流メール＋マーケオートメーション、最良UX、月 as unknown as AffiliateOffer[]3から。500コンタクトまで無料。"
+      "en": "Mainstream email + marketing automation, best UX,$13/mo starting. Free up to 500 contacts.",
+      "ja": "主流メール＋マーケオートメーション、最良UX、月$13から。500コンタクトまで無料。"
     },
     "links": [
       {
@@ -36596,8 +36596,8 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "convertkit-creator-pro",
     "imageUrl": "",
-    "priceMin": " as unknown as AffiliateOffer[]5",
-    "priceMax": " as unknown as AffiliateOffer[]50",
+    "priceMin": "$15",
+    "priceMax": "$150",
     "category": "tech",
     "badge": "✍️",
     "name": {
@@ -36649,7 +36649,7 @@ export const CATALOG_ADDITIONS = [
     "id": "brevo-business",
     "imageUrl": "",
     "priceMin": "$0",
-    "priceMax": " as unknown as AffiliateOffer[]00",
+    "priceMax": "$100",
     "category": "tech",
     "badge": "💸",
     "name": {
@@ -36700,7 +36700,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "vsp-individual-vision",
     "imageUrl": "",
-    "priceMin": " as unknown as AffiliateOffer[]3",
+    "priceMin": "$13",
     "priceMax": "$40",
     "category": "finance",
     "badge": "🏆",
@@ -36709,8 +36709,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "VSP 個人ビジョンプラン"
     },
     "description": {
-      "en": "Largest US vision network, frames + lenses + exam covered.  as unknown as AffiliateOffer[]3-30/mo individual. Best mainstream pick.",
-      "ja": "米国最大ビジョンネットワーク、フレーム＋レンズ＋検査補償。個人月 as unknown as AffiliateOffer[]3-30。主流最有力。"
+      "en": "Largest US vision network, frames + lenses + exam covered.$13-30/mo individual. Best mainstream pick.",
+      "ja": "米国最大ビジョンネットワーク、フレーム＋レンズ＋検査補償。個人月$13-30。主流最有力。"
     },
     "links": [
       {
@@ -36752,7 +36752,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "humana-vision-care",
     "imageUrl": "",
-    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMin": "$15",
     "priceMax": "$30",
     "category": "finance",
     "badge": "🪪",
@@ -36761,8 +36761,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Humana Vision Care"
     },
     "description": {
-      "en": "Bundled with Humana medical or standalone,  as unknown as AffiliateOffer[]5-25/mo. Smaller network than VSP/EyeMed but solid coverage.",
-      "ja": "Humana医療とのバンドルまたは単体、月 as unknown as AffiliateOffer[]5-25。VSP／EyeMedよりネットワーク小さいがソリッド補償。"
+      "en": "Bundled with Humana medical or standalone,$15-25/mo. Smaller network than VSP/EyeMed but solid coverage.",
+      "ja": "Humana医療とのバンドルまたは単体、月$15-25。VSP／EyeMedよりネットワーク小さいがソリッド補償。"
     },
     "links": [
       {
@@ -36830,7 +36830,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "mutual-of-omaha-ltc",
     "imageUrl": "",
-    "priceMin": " as unknown as AffiliateOffer[]50",
+    "priceMin": "$150",
     "priceMax": "$800",
     "category": "finance",
     "badge": "🏆",
@@ -36839,8 +36839,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Mutual of Omaha 長期介護"
     },
     "description": {
-      "en": "Long-Term Care Secure Solution, strong cash benefit option ( as unknown as AffiliateOffer[],500-12,000/mo). Best for ages 50-65.",
-      "ja": "Long-Term Care Secure Solution、強力な現金給付オプション（月 as unknown as AffiliateOffer[],500-12,000）。50-65歳向け最有力。"
+      "en": "Long-Term Care Secure Solution, strong cash benefit option ($1,500-12,000/mo). Best for ages 50-65.",
+      "ja": "Long-Term Care Secure Solution、強力な現金給付オプション（月$1,500-12,000）。50-65歳向け最有力。"
     },
     "links": [
       {
@@ -36882,7 +36882,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "new-york-life-ltc",
     "imageUrl": "",
-    "priceMin": " as unknown as AffiliateOffer[]20",
+    "priceMin": "$120",
     "priceMax": "$700",
     "category": "finance",
     "badge": "🥇",
@@ -36934,7 +36934,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "thrivent-long-term-care",
     "imageUrl": "",
-    "priceMin": " as unknown as AffiliateOffer[]00",
+    "priceMin": "$100",
     "priceMax": "$600",
     "category": "finance",
     "badge": "⛪",
@@ -36950,6 +36950,786 @@ export const CATALOG_ADDITIONS = [
       {
         "network": "direct",
         "productId": "https://www.thrivent.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bamboohr-essentials",
+    "imageUrl": "",
+    "priceMin": "$99",
+    "priceMax": "$500",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "BambooHR Essentials",
+      "ja": "BambooHR Essentials"
+    },
+    "description": {
+      "en": "Best UX for SMB HR (under 200 employees), employee records + PTO + onboarding. $99/mo + per-employee.",
+      "ja": "中小企業HR向け最良UX（200人未満）、従業員記録＋PTO＋オンボーディング。月$99＋従業員ごと。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bamboohr.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "rippling-platform",
+    "imageUrl": "",
+    "priceMin": "$8",
+    "priceMax": " as unknown as AffiliateOffer[]00",
+    "category": "tech",
+    "badge": "🏢",
+    "name": {
+      "en": "Rippling Platform",
+      "ja": "Rippling プラットフォーム"
+    },
+    "description": {
+      "en": "HR + payroll + IT + finance unified, app provisioning included. $8/employee/mo for HR core, scales by module.",
+      "ja": "HR＋給与＋IT＋ファイナンス統合、アプリプロビジョニング込み。HRコア月$8/従業員、モジュールでスケール。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.rippling.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "gusto-hr-plus",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": " as unknown as AffiliateOffer[]80",
+    "category": "tech",
+    "badge": "💼",
+    "name": {
+      "en": "Gusto Plus (with HR)",
+      "ja": "Gusto Plus（HR込み）"
+    },
+    "description": {
+      "en": "Payroll-first with growing HR features (PTO, onboarding, doc storage). $80/mo +  as unknown as AffiliateOffer[]2/employee Plus tier.",
+      "ja": "給与ファースト＋HR機能成長中（PTO、オンボーディング、ドキュメント保管）。Plus月$80＋ as unknown as AffiliateOffer[]2/従業員。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://gusto.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "workday-hcm",
+    "imageUrl": "",
+    "priceMin": "$8",
+    "priceMax": "$30",
+    "category": "tech",
+    "badge": "🏢",
+    "name": {
+      "en": "Workday HCM",
+      "ja": "Workday HCM"
+    },
+    "description": {
+      "en": "Enterprise HCM (Human Capital Management), for 500+ employees. Quote-based pricing  as unknown as AffiliateOffer[]00-300/employee/yr.",
+      "ja": "エンタープライズHCM（人的資本管理）、500人+従業員向け。見積ベース価格年 as unknown as AffiliateOffer[]00-300/従業員。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.workday.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "deel-hr",
+    "imageUrl": "",
+    "priceMin": "$49",
+    "priceMax": "$200",
+    "category": "tech",
+    "badge": "🌍",
+    "name": {
+      "en": "Deel HR + Global Payroll",
+      "ja": "Deel HR＋グローバル給与"
+    },
+    "description": {
+      "en": "Best for international employees and contractors across 150+ countries. $49/employee/mo for global payroll.",
+      "ja": "150+カ国の国際従業員＋請負業者向け最有力。グローバル給与$49/従業員/月。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.deel.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "zoom-business-pro",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMax": "$25",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "Zoom Workplace Business",
+      "ja": "Zoom Workplace Business"
+    },
+    "description": {
+      "en": "Industry standard, 300-participant meetings, 30-hour duration, cloud recording. $20/host/mo Business.",
+      "ja": "業界標準、300参加者ミーティング、30時間時間、クラウド録画。Business $20/ホスト/月。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://zoom.us/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "google-meet-workspace",
+    "imageUrl": "",
+    "priceMin": "$6",
+    "priceMax": "$30",
+    "category": "tech",
+    "badge": "🪪",
+    "name": {
+      "en": "Google Meet (Workspace)",
+      "ja": "Google Meet（Workspace）"
+    },
+    "description": {
+      "en": "Bundled with Google Workspace from $6/user/mo. 100-1,000 participant meetings depending on tier. Best Google ecosystem.",
+      "ja": "Google Workspaceに月$6/ユーザーからバンドル。階層により100-1,000参加者ミーティング。Googleエコシステム最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://workspace.google.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "microsoft-teams-business",
+    "imageUrl": "",
+    "priceMin": "$6",
+    "priceMax": "$22",
+    "category": "tech",
+    "badge": "🏢",
+    "name": {
+      "en": "Microsoft Teams (Business)",
+      "ja": "Microsoft Teams（Business）"
+    },
+    "description": {
+      "en": "Bundled with Microsoft 365 Business from $6/user/mo. Best for Microsoft ecosystem (Outlook, SharePoint, OneDrive).",
+      "ja": "Microsoft 365 Businessに月$6/ユーザーからバンドル。Microsoftエコシステム（Outlook、SharePoint、OneDrive）最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.microsoft.com/microsoft-teams",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "webex-meet-pro",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMax": "$30",
+    "category": "tech",
+    "badge": "🛡️",
+    "name": {
+      "en": "Webex Meet (Cisco)",
+      "ja": "Webex Meet（Cisco）"
+    },
+    "description": {
+      "en": "Enterprise-focused with strongest security (FedRAMP authorized), 1,000-participant meetings.  as unknown as AffiliateOffer[]5/host/mo.",
+      "ja": "最強セキュリティ（FedRAMP認証）でエンタープライズフォーカス、1,000参加者ミーティング。 as unknown as AffiliateOffer[]5/ホスト/月。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.webex.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "loom-business",
+    "imageUrl": "",
+    "priceMin": "$8",
+    "priceMax": " as unknown as AffiliateOffer[]5",
+    "category": "tech",
+    "badge": "🎬",
+    "name": {
+      "en": "Loom Business (async video)",
+      "ja": "Loom Business（非同期動画）"
+    },
+    "description": {
+      "en": "Async-video for messaging, recording, screen-shares.  as unknown as AffiliateOffer[]2.50/user/mo Business. Best alternative to live meetings.",
+      "ja": "メッセージング、録画、画面共有用の非同期動画。Business  as unknown as AffiliateOffer[]2.50/ユーザー/月。ライブミーティングの最有力代替。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.loom.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "shopify-advanced",
+    "imageUrl": "",
+    "priceMin": "$29",
+    "priceMax": "$2000",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "Shopify Advanced",
+      "ja": "Shopify Advanced"
+    },
+    "description": {
+      "en": "Best ecommerce platform overall, 10,000+ apps, advanced reports, $399/mo. Lowest transaction fees at top tier.",
+      "ja": "総合最良EC、10,000+アプリ、高度レポート、月$399。トップ階層で最低取引手数料。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.shopify.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bigcommerce-pro",
+    "imageUrl": "",
+    "priceMin": "$29",
+    "priceMax": "$400",
+    "category": "tech",
+    "badge": "🏢",
+    "name": {
+      "en": "BigCommerce Pro",
+      "ja": "BigCommerce Pro"
+    },
+    "description": {
+      "en": "Better for B2B (multi-storefront, complex catalogs), no transaction fees, $400/mo Pro. Native API-first.",
+      "ja": "B2B向けより良い（マルチストアフロント、複雑カタログ）、取引手数料なし、Pro $400/月。ネイティブAPIファースト。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bigcommerce.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "woocommerce-wordpress",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$200",
+    "category": "tech",
+    "badge": "🔧",
+    "name": {
+      "en": "WooCommerce (WordPress)",
+      "ja": "WooCommerce（WordPress）"
+    },
+    "description": {
+      "en": "Open-source plugin for WordPress, free + hosting ($30-100/mo). Most flexible, requires technical setup.",
+      "ja": "WordPress用オープンソースプラグイン、無料＋ホスティング（月$30-100）。最柔軟、技術的設定必要。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://woocommerce.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "wix-ecommerce-business",
+    "imageUrl": "",
+    "priceMin": "$27",
+    "priceMax": "$59",
+    "category": "tech",
+    "badge": "🎨",
+    "name": {
+      "en": "Wix eCommerce Business",
+      "ja": "Wix eCommerce Business"
+    },
+    "description": {
+      "en": "Best for design-focused stores under 100 SKUs, $36/mo Business. Strong drag-and-drop UX.",
+      "ja": "100 SKU未満のデザインフォーカスストア向け最有力、Business月$36。強力なドラッグ＆ドロップUX。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.wix.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "squarespace-commerce-advanced",
+    "imageUrl": "",
+    "priceMin": "$23",
+    "priceMax": "$49",
+    "category": "tech",
+    "badge": "💎",
+    "name": {
+      "en": "Squarespace Commerce Advanced",
+      "ja": "Squarespace Commerce Advanced"
+    },
+    "description": {
+      "en": "Best Squarespace ecommerce tier, abandoned cart, gift cards, $49/mo. Strong design + content + commerce.",
+      "ja": "最良Squarespace EC階層、カート放棄、ギフトカード、月$49。強力なデザイン＋コンテンツ＋商業。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.squarespace.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "mutual-of-omaha-medicare-supplement",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]30",
+    "priceMax": "$300",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Mutual of Omaha Medicare Supplement",
+      "ja": "Mutual of Omaha Medicare補完"
+    },
+    "description": {
+      "en": "Plan G is the most popular — covers all gaps except Part B deductible ($240).  as unknown as AffiliateOffer[]50-200/mo at age 65.",
+      "ja": "プランGが最人気 — Part B免責（$240）以外の全ギャップカバー。65歳で月 as unknown as AffiliateOffer[]50-200。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.mutualofomaha.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "aetna-medicare-supplement",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]30",
+    "priceMax": "$280",
+    "category": "finance",
+    "badge": "💚",
+    "name": {
+      "en": "Aetna Medicare Supplement (CVS Health)",
+      "ja": "Aetna Medicare補完（CVS Health）"
+    },
+    "description": {
+      "en": "Owned by CVS Health, strong nationwide network, Plan G  as unknown as AffiliateOffer[]40-190/mo. Includes wellness extras (SilverSneakers).",
+      "ja": "CVS Health所有、強力全国ネットワーク、プランG月 as unknown as AffiliateOffer[]40-190。ウェルネスエクストラ（SilverSneakers）込み。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.aetnamedicare.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "humana-medicare-supplement",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]30",
+    "priceMax": "$300",
+    "category": "finance",
+    "badge": "🪪",
+    "name": {
+      "en": "Humana Medicare Supplement",
+      "ja": "Humana Medicare補完"
+    },
+    "description": {
+      "en": "Solid mid-tier carrier, Plan G  as unknown as AffiliateOffer[]45-200/mo, strong Medicare Advantage cross-sell. Available in most states.",
+      "ja": "ソリッド中位層キャリア、プランG月 as unknown as AffiliateOffer[]45-200、強力なMedicare Advantageクロスセル。多くの州で利用可。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.humana.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "blue-cross-blue-shield-medicare-supplement",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]40",
+    "priceMax": "$320",
+    "category": "finance",
+    "badge": "🌐",
+    "name": {
+      "en": "Blue Cross Blue Shield Medicare Supplement",
+      "ja": "Blue Cross Blue Shield Medicare補完"
+    },
+    "description": {
+      "en": "Largest network in most states, Plan G  as unknown as AffiliateOffer[]60-220/mo. State-specific BCBS plans vary in pricing and benefits.",
+      "ja": "多くの州で最大ネットワーク、プランG月 as unknown as AffiliateOffer[]60-220。州別BCBSプランは価格と給付で異なる。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bcbs.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "united-healthcare-aarp-medicare-supplement",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]35",
+    "priceMax": "$290",
+    "category": "finance",
+    "badge": "👑",
+    "name": {
+      "en": "UnitedHealthcare AARP Medicare Supplement",
+      "ja": "UnitedHealthcare AARP Medicare補完"
+    },
+    "description": {
+      "en": "AARP-endorsed, largest single Medicare Supplement insurer in US, Plan G  as unknown as AffiliateOffer[]50-210/mo. Strong brand recognition.",
+      "ja": "AARP承認、米国最大の単一Medicare補完保険会社、プランG月 as unknown as AffiliateOffer[]50-210。強力ブランド認知。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.aarpmedicaresupplement.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "nulaxy-km18-bluetooth-fm",
+    "imageUrl": "",
+    "priceMin": "$20",
+    "priceMax": "$30",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "Nulaxy KM18 Bluetooth FM Transmitter",
+      "ja": "Nulaxy KM18 Bluetooth FMトランスミッター"
+    },
+    "description": {
+      "en": "FM transmitter style for older cars without aux. 1.44\" display, USB charging, hands-free calling. $20-30.",
+      "ja": "Aux端子のない古い車向けFMトランスミッタータイプ。1.44インチディスプレイ、USB充電、ハンズフリー通話。$20-30。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "anker-roav-smartcharge-f0",
+    "imageUrl": "",
+    "priceMin": "$35",
+    "priceMax": "$50",
+    "category": "tech",
+    "badge": "🥇",
+    "name": {
+      "en": "Anker Roav SmartCharge F0",
+      "ja": "Anker Roav SmartCharge F0"
+    },
+    "description": {
+      "en": "Premium FM transmitter brand, two USB-C charging ports, smart app integration. $35-45.",
+      "ja": "プレミアムFMトランスミッターブランド、2 USB-C充電ポート、スマートアプリ統合。$35-45。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.anker.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "doosl-bluetooth-receiver",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMax": "$25",
+    "category": "tech",
+    "badge": "🎧",
+    "name": {
+      "en": "Doosl Bluetooth 5.0 Receiver",
+      "ja": "Doosl Bluetooth 5.0 レシーバー"
+    },
+    "description": {
+      "en": "Aux-input style (3.5mm), best for cars with aux but no Bluetooth. Tiny form factor, hands-free calling.  as unknown as AffiliateOffer[]5-25.",
+      "ja": "Aux入力タイプ（3.5mm）、Aux端子ありBluetoothなしの車向け最有力。小型、ハンズフリー通話。 as unknown as AffiliateOffer[]5-25。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "carlinkit-3-cplay2air-android-auto",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": " as unknown as AffiliateOffer[]20",
+    "category": "tech",
+    "badge": "📱",
+    "name": {
+      "en": "CarlinKit 3.0 (CPlay2Air) Wireless CarPlay/Android Auto",
+      "ja": "CarlinKit 3.0 (CPlay2Air) ワイヤレスCarPlay／Android Auto"
+    },
+    "description": {
+      "en": "Converts wired CarPlay/Android Auto to wireless. Plugs into existing CarPlay USB port. $60-90.",
+      "ja": "有線CarPlay／Android Autoをワイヤレスに変換。既存CarPlay USBポートに接続。$60-90。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.carlinkitcarplay.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ottocast-u2-x-pro-wireless",
+    "imageUrl": "",
+    "priceMin": "$300",
+    "priceMax": "$450",
+    "category": "tech",
+    "badge": "🎬",
+    "name": {
+      "en": "Ottocast U2-X Pro Wireless CarPlay+Netflix",
+      "ja": "Ottocast U2-X Pro ワイヤレスCarPlay+Netflix"
+    },
+    "description": {
+      "en": "Wireless CarPlay + Android Auto + built-in Netflix/YouTube streaming via 4G hotspot. Premium $300-400.",
+      "ja": "ワイヤレスCarPlay＋Android Auto＋4Gホットスポット経由のNetflix／YouTubeストリーミング内蔵。プレミアム$300-400。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ottocast.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "roundup-weed-grass-killer",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMax": "$45",
+    "category": "home",
+    "badge": "🏆",
+    "name": {
+      "en": "Roundup Weed & Grass Killer Concentrate Plus",
+      "ja": "Roundup 雑草＋芝枯らし濃縮Plus"
+    },
+    "description": {
+      "en": "Glyphosate-based non-selective, kills most weeds + grasses, 1-gallon mix from $20. Most widely available.",
+      "ja": "グリホサートベースの非選択性、多くの雑草＋芝を枯らす、1ガロン混合$20から。最広く入手可。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.roundup.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "spectracide-weed-stop-lawns",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]0",
+    "priceMax": "$30",
+    "category": "home",
+    "badge": "🌱",
+    "name": {
+      "en": "Spectracide Weed Stop For Lawns",
+      "ja": "Spectracide 芝生用雑草ストップ"
+    },
+    "description": {
+      "en": "Selective broadleaf killer for lawns, doesn't kill grass. Kills dandelions, clover, plantain.  as unknown as AffiliateOffer[]0-25/qt.",
+      "ja": "選択的広葉枯らし、芝は枯らさない。タンポポ、クローバー、オオバコを枯らす。 as unknown as AffiliateOffer[]0-25/クォート。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.spectracide.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "natural-armor-organic-vinegar",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$45",
+    "category": "home",
+    "badge": "🌿",
+    "name": {
+      "en": "Natural Armor Organic Weed Killer (Vinegar)",
+      "ja": "Natural Armor オーガニック雑草キラー（酢）"
+    },
+    "description": {
+      "en": "Pet/kid-safe vinegar + salt + soap formula, kills above-ground growth (regrowth common). $25-40/gallon.",
+      "ja": "ペット／子供安全な酢＋塩＋石鹸処方、地上部を枯らす（再生長一般的）。$25-40/ガロン。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ortho-weed-b-gon-chickweed",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMax": "$30",
+    "category": "home",
+    "badge": "🎯",
+    "name": {
+      "en": "Ortho Weed B Gon Chickweed/Clover/Oxalis",
+      "ja": "Ortho Weed B Gon クローバー／カタバミ"
+    },
+    "description": {
+      "en": "Targets tough broadleaf weeds (clover, oxalis, chickweed) lawn-safe. Ready-to-spray  as unknown as AffiliateOffer[]5-25/qt.",
+      "ja": "頑固な広葉雑草（クローバー、カタバミ、ハコベ）標的、芝に安全。すぐスプレー可 as unknown as AffiliateOffer[]5-25/クォート。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ortho.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "preen-mulch-plus-pre-emergent",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$50",
+    "category": "home",
+    "badge": "🛡️",
+    "name": {
+      "en": "Preen Mulch Plus (pre-emergent)",
+      "ja": "Preen Mulch Plus（発芽前）"
+    },
+    "description": {
+      "en": "Pre-emergent — prevents weeds from sprouting in mulch beds. 9-pound bag $25-35, covers 720 sq ft.",
+      "ja": "発芽前 — マルチベッドでの雑草発芽を予防。9ポンドバッグ$25-35、66平方メートルカバー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.preen.com/",
         "markets": [
           "global"
         ],
