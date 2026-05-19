@@ -40,7 +40,7 @@ Claude Code 内で:
 3. **prompt**: 以下を貼り付け
 
 ```
-cd /Users/ken/Dropbox/affiliate_factory/automation
+cd /Users/ken/Dropbox/pickly/automation
 PINTEREST_LOCALE_FILTER=en,es,de npm run post
 ```
 
@@ -51,7 +51,7 @@ PINTEREST_LOCALE_FILTER=en,es,de npm run post
 新規記事生成は Claude Code 自身に実行させる。schedule の prompt に直接指示を書く:
 
 ```
-/Users/ken/Dropbox/affiliate_factory/pipeline/specs/ にある未消費の spec を1つ選び、
+/Users/ken/Dropbox/pickly/pipeline/specs/ にある未消費の spec を1つ選び、
 pipeline/prompts/01_write.md → 02_translate.md → 03_image.md の順に実行し、
 最後に site/src/articles/<slug>/ にコミットして PR は作らず main に直 push する。
 ```

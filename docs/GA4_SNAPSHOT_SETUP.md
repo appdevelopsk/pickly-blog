@@ -18,7 +18,7 @@ gcloud auth application-default login \
 ## 3. 手動テスト実行
 
 ```bash
-cd /Users/ken/Dropbox/affiliate_factory
+cd /Users/ken/Dropbox/pickly
 GA4_PROPERTY_ID=123456789 npx tsx automation/ga4-daily-snapshot.ts
 ```
 
@@ -29,7 +29,7 @@ GA4_PROPERTY_ID=123456789 npx tsx automation/ga4-daily-snapshot.ts
 plistファイルを配置:
 
 ```bash
-cp /Users/ken/Dropbox/affiliate_factory/docs/ga4-snapshot.plist \
+cp /Users/ken/Dropbox/pickly/docs/ga4-snapshot.plist \
    ~/Library/LaunchAgents/com.pickly.ga4-snapshot.plist
 
 # GA4_PROPERTY_ID を実際の値に書き換える

@@ -1,4 +1,4 @@
-# affiliate_factory — project rules
+# pickly — project rules
 
 > 量産型アフィリエイト比較・レビューサイト。Pinterest流入主軸＋多言語＋ASP統合で、Google検索に依存せずに全世界展開する。
 

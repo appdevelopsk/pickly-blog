@@ -136,7 +136,7 @@ async function main() {
   console.log(`  access_token: ${tokens.access_token.slice(0, 20)}...`);
   if (tokens.refresh_token) console.log(`  refresh_token: ${tokens.refresh_token.slice(0, 20)}...`);
   console.log(`\n→ ${CREDS_FILE} に保存`);
-  console.log("\nテスト: cd /Users/ken/Dropbox/affiliate_factory/automation && set -a; source ~/.config/pickly/pinterest.env; set +a; npm run boards");
+  console.log("\nテスト: cd /Users/ken/Dropbox/pickly/automation && set -a; source ~/.config/pickly/pinterest.env; set +a; npm run boards");
 }
 
 main().catch((e) => {

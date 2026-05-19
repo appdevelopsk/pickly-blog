@@ -5,7 +5,7 @@
 
 ## 共通の前提
 
-1. `cd /Users/ken/Dropbox/affiliate_factory/automation`
+1. `cd /Users/ken/Dropbox/pickly/automation`
 2. `npm install` (初回のみ)
 3. `~/.config/pickly/` ディレクトリ存在確認: `mkdir -p ~/.config/pickly && chmod 700 ~/.config/pickly`
 

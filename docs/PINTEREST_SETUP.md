@@ -70,7 +70,7 @@ Claude Code の `schedule` skill を使って毎日自動実行:
 > create
 > name: pinterest-daily
 > cron: 0 9 * * *  (毎日09:00 JST)
-> command: cd /Users/ken/Dropbox/affiliate_factory/automation && npm run post
+> command: cd /Users/ken/Dropbox/pickly/automation && npm run post
 ```
 
 詳細は CLAUDE Code の `/schedule help` を参照。

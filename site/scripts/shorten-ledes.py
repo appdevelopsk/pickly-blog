@@ -144,7 +144,7 @@ def process_file(path: str, locale: str) -> bool:
 
 
 count = 0
-for path in sorted(glob.glob("/Users/ken/Dropbox/affiliate_factory/site/src/articles/*/messages/*.json")):
+for path in sorted(glob.glob("/Users/ken/Dropbox/pickly/site/src/articles/*/messages/*.json")):
     locale = path.split("/")[-1].replace(".json", "")
     if locale not in ("en", "ja"):
         # For other locales: only process if >200 chars

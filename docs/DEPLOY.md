@@ -78,7 +78,7 @@ Host pickly-vps
 ## 通常のデプロイ
 
 ```bash
-cd /Users/ken/Dropbox/affiliate_factory
+cd /Users/ken/Dropbox/pickly
 ./deploy/deploy.sh
 ```
 

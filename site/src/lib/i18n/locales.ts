@@ -1,5 +1,5 @@
 /**
- * 17言語フル定義。affiliate_factory は Pinterest 流入主軸で
+ * 17言語フル定義。pickly は Pinterest 流入主軸で
  * Google HCU リスクが低いため、最初から全言語 active にする
  * （Toolifyとは異なる方針）。
  */

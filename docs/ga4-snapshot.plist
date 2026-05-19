@@ -10,7 +10,7 @@
   <array>
     <string>/Users/ken/.nvm/versions/node/v20.19.5/bin/npx</string>
     <string>tsx</string>
-    <string>/Users/ken/Dropbox/affiliate_factory/automation/ga4-daily-snapshot.ts</string>
+    <string>/Users/ken/Dropbox/pickly/automation/ga4-daily-snapshot.ts</string>
   </array>
 
   <key>EnvironmentVariables</key>
@@ -34,13 +34,13 @@
   </dict>
 
   <key>WorkingDirectory</key>
-  <string>/Users/ken/Dropbox/affiliate_factory</string>
+  <string>/Users/ken/Dropbox/pickly</string>
 
   <key>StandardOutPath</key>
-  <string>/Users/ken/Dropbox/affiliate_factory/data/analytics/snapshot.log</string>
+  <string>/Users/ken/Dropbox/pickly/data/analytics/snapshot.log</string>
 
   <key>StandardErrorPath</key>
-  <string>/Users/ken/Dropbox/affiliate_factory/data/analytics/snapshot.log</string>
+  <string>/Users/ken/Dropbox/pickly/data/analytics/snapshot.log</string>
 
   <key>RunAtLoad</key>
   <false/>

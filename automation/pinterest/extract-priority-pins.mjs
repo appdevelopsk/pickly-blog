@@ -1,7 +1,7 @@
 import * as fs from "node:fs";
 import * as yaml from "js-yaml";
 
-const data = yaml.load(fs.readFileSync("/Users/ken/Dropbox/affiliate_factory/automation/pinterest/pins.yaml", "utf8"));
+const data = yaml.load(fs.readFileSync("/Users/ken/Dropbox/pickly/automation/pinterest/pins.yaml", "utf8"));
 
 // 投稿戦略:
 // Wave 1 (即時): JA top1 × 全記事 (各記事の代表ピン1本ずつ)

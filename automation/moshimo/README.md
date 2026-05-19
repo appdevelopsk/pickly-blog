@@ -17,7 +17,7 @@ Headed Chromium でもしものログイン UI を 1 度突破 → セッショ�
 ## セットアップ
 
 ```bash
-cd /Users/ken/Dropbox/affiliate_factory/automation
+cd /Users/ken/Dropbox/pickly/automation
 npm install   # playwright + tsx 等
 npx playwright install chromium
 ```

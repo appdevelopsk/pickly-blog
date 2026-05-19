@@ -1,4 +1,4 @@
-# affiliate_factory
+# pickly
 
 Pinterest流入主軸の多言語アフィリエイトサイト・量産基盤。
 
