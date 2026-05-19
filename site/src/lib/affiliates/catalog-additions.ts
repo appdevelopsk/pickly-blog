@@ -2,7 +2,7 @@ import type { AffiliateOffer } from "./types";
 
 // 500 catalog entries added during bulk article generation (2026-05-17).
 // Kept separate to avoid TS2590 "union type too complex" on RAW_CATALOG.
-export const CATALOG_ADDITIONS: AffiliateOffer[] = [
+export const CATALOG_ADDITIONS = [
   {
     "id": "back-brace-mueller-lumbar",
     "imageUrl": "",
@@ -30869,7 +30869,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30895,7 +30895,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30921,7 +30921,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30947,7 +30947,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30973,7 +30973,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30999,7 +30999,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31025,7 +31025,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31051,7 +31051,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31077,7 +31077,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31103,7 +31103,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31129,7 +31129,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31155,7 +31155,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31181,7 +31181,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31207,7 +31207,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31233,7 +31233,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31259,7 +31259,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31285,7 +31285,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31311,7 +31311,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31337,7 +31337,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31363,7 +31363,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31389,7 +31389,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31415,7 +31415,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31441,7 +31441,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31467,7 +31467,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31493,7 +31493,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31519,7 +31519,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31545,7 +31545,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31571,7 +31571,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31597,7 +31597,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31623,7 +31623,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31649,7 +31649,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31675,7 +31675,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31701,7 +31701,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31727,7 +31727,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31753,7 +31753,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31779,7 +31779,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31805,7 +31805,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31831,7 +31831,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31857,7 +31857,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31883,7 +31883,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31909,7 +31909,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31935,7 +31935,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31961,7 +31961,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -31987,7 +31987,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32013,7 +32013,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32039,7 +32039,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32065,7 +32065,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32091,7 +32091,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32117,7 +32117,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32143,7 +32143,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32169,7 +32169,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32195,7 +32195,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32221,7 +32221,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32247,7 +32247,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32273,7 +32273,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32299,7 +32299,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32325,7 +32325,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32351,7 +32351,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32377,7 +32377,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32403,7 +32403,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32429,7 +32429,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32455,7 +32455,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32481,7 +32481,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32507,7 +32507,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32533,7 +32533,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32559,7 +32559,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32585,7 +32585,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32611,7 +32611,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32637,7 +32637,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32663,7 +32663,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32689,7 +32689,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32715,7 +32715,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32741,7 +32741,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32767,7 +32767,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32793,7 +32793,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32819,7 +32819,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32845,7 +32845,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32871,7 +32871,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32897,7 +32897,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32923,7 +32923,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32949,7 +32949,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -32975,7 +32975,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33001,7 +33001,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33027,7 +33027,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33053,7 +33053,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33079,7 +33079,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33105,7 +33105,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33131,7 +33131,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33157,7 +33157,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33183,7 +33183,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33209,7 +33209,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33235,7 +33235,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33261,7 +33261,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33287,7 +33287,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33313,7 +33313,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33339,7 +33339,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33365,7 +33365,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33391,7 +33391,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33417,7 +33417,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33443,7 +33443,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33469,7 +33469,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33495,7 +33495,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33521,7 +33521,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33547,7 +33547,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33573,7 +33573,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33599,7 +33599,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33625,7 +33625,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33651,7 +33651,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33677,7 +33677,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33703,7 +33703,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33729,7 +33729,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33755,7 +33755,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33781,7 +33781,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33807,7 +33807,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33833,7 +33833,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33859,7 +33859,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33885,7 +33885,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33911,7 +33911,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33937,7 +33937,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33963,7 +33963,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -33989,7 +33989,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34015,7 +34015,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34041,7 +34041,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34067,7 +34067,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34093,7 +34093,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34119,7 +34119,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34145,7 +34145,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34171,7 +34171,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34197,7 +34197,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34223,7 +34223,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34249,7 +34249,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34275,7 +34275,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34301,7 +34301,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34327,7 +34327,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34353,7 +34353,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34379,7 +34379,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34405,7 +34405,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34431,7 +34431,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34457,7 +34457,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34483,7 +34483,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34509,7 +34509,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34535,7 +34535,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34561,7 +34561,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34587,7 +34587,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34613,7 +34613,7 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35396,5 +35396,785 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "approved": false
       }
     ]
+  },
+  {
+    "id": "next-insurance-bop",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$200",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Next Insurance Business Owner's Policy",
+      "ja": "Next Insurance ビジネスオーナーポリシー"
+    },
+    "description": {
+      "en": "Online BOP for small businesses, 10-minute application, $25-50/mo for typical small biz. Best digital signup.",
+      "ja": "中小企業向けオンラインBOP、10分申込、典型的中小企業で月$25-50。デジタルサインアップ最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.nextinsurance.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hiscox-small-business",
+    "imageUrl": "",
+    "priceMin": "$35",
+    "priceMax": "$250",
+    "category": "finance",
+    "badge": "🎯",
+    "name": {
+      "en": "Hiscox Small Business Insurance",
+      "ja": "Hiscox 中小企業保険"
+    },
+    "description": {
+      "en": "Specialist in small biz (under 50 employees), strong cyber liability inclusions, A+ A.M. Best rating.",
+      "ja": "中小企業（50人未満）専門、強力なサイバー責任込み、A+ A.M. Best格付。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.hiscox.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "the-hartford-bop",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$300",
+    "category": "finance",
+    "badge": "🪪",
+    "name": {
+      "en": "The Hartford Business Owner's Policy",
+      "ja": "The Hartford BOP"
+    },
+    "description": {
+      "en": "Established carrier (200+ years), strong dealer/contractor coverage, bundled property + liability.",
+      "ja": "確立されたキャリア（200年以上）、ディーラー／請負業者補償強い、財産＋責任バンドル。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.thehartford.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "progressive-commercial",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$400",
+    "category": "finance",
+    "badge": "🚛",
+    "name": {
+      "en": "Progressive Commercial Insurance",
+      "ja": "Progressive 商業保険"
+    },
+    "description": {
+      "en": "Best for commercial auto + general liability bundles, strong for fleet operators and trades.",
+      "ja": "商業自動車＋一般責任バンドルに最適、車両管理業者と職人向け強い。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.progressivecommercial.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "thimble-on-demand",
+    "imageUrl": "",
+    "priceMin": "$5",
+    "priceMax": " as unknown as AffiliateOffer[]00",
+    "category": "finance",
+    "badge": "📱",
+    "name": {
+      "en": "Thimble On-Demand Business Insurance",
+      "ja": "Thimble オンデマンド ビジネス保険"
+    },
+    "description": {
+      "en": "Hourly/daily/monthly coverage, perfect for freelancers and gig workers. Buy and bind in minutes.",
+      "ja": "時間／日／月単位補償、フリーランサーとギグワーカーに完璧。数分で購入＋バインド。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.thimble.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "delta-dental-individual",
+    "imageUrl": "",
+    "priceMin": "$25",
+    "priceMax": "$70",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Delta Dental Individual",
+      "ja": "Delta Dental 個人"
+    },
+    "description": {
+      "en": "Largest US dental network, 80% coinsurance preventive + basic,  as unknown as AffiliateOffer[],000-2,000 annual max. Best mainstream.",
+      "ja": "米国最大歯科ネットワーク、予防＋基本80%、年間上限 as unknown as AffiliateOffer[],000-2,000。主流最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.deltadental.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "cigna-dental-1500",
+    "imageUrl": "",
+    "priceMin": "$28",
+    "priceMax": "$75",
+    "category": "finance",
+    "badge": "🎯",
+    "name": {
+      "en": "Cigna Dental 1500",
+      "ja": "Cigna Dental 1500"
+    },
+    "description": {
+      "en": " as unknown as AffiliateOffer[],500 annual max, 100% preventive, no waiting period for preventive. Strong nationwide network.",
+      "ja": "年間上限 as unknown as AffiliateOffer[],500、予防100%、予防に待機期間なし。強力な全国ネットワーク。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.cigna.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "spirit-dental-no-waiting",
+    "imageUrl": "",
+    "priceMin": "$45",
+    "priceMax": " as unknown as AffiliateOffer[]10",
+    "category": "finance",
+    "badge": "⚡",
+    "name": {
+      "en": "Spirit Dental No-Waiting Plan",
+      "ja": "Spirit Dental 待機期間なしプラン"
+    },
+    "description": {
+      "en": "No waiting period for major services (root canal, crown), $5,000 annual max. Higher premium but no surprises.",
+      "ja": "メジャーサービス（根管、クラウン）に待機期間なし、年間上限$5,000。プレミアム高めだがサプライズなし。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.spiritdental.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "humana-dental-loyalty-plus",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$80",
+    "category": "finance",
+    "badge": "📈",
+    "name": {
+      "en": "Humana Dental Loyalty Plus",
+      "ja": "Humana Dental Loyalty Plus"
+    },
+    "description": {
+      "en": " as unknown as AffiliateOffer[],500 max year 1, increases to $2,000+ in year 3 if claims-free. Loyalty-based annual max increase.",
+      "ja": "1年目上限 as unknown as AffiliateOffer[],500、無請求なら3年目で$2,000+に増加。ロイヤルティベースの上限増加。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.humana.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dentemax-discount-plan",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMax": "$30",
+    "category": "finance",
+    "badge": "💸",
+    "name": {
+      "en": "DenteMax Dental Discount Plan",
+      "ja": "DenteMax 歯科割引プラン"
+    },
+    "description": {
+      "en": "Not insurance — pay discounted rates directly at dentist. No max, no waiting periods,  as unknown as AffiliateOffer[]5-25/mo.",
+      "ja": "保険ではない — 歯科で割引価格を直接支払。上限なし、待機期間なし、月 as unknown as AffiliateOffer[]5-25。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.dentemax.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "1password-families",
+    "imageUrl": "",
+    "priceMin": "$4",
+    "priceMax": " as unknown as AffiliateOffer[]0",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "1Password Families",
+      "ja": "1Password Families"
+    },
+    "description": {
+      "en": "Best overall password manager, $4.99/mo for 5 users, Watchtower breach alerts, Travel Mode. Best UX.",
+      "ja": "総合パスワードマネージャ最有力、5ユーザーで月$4.99、Watchtower侵害アラート、Travel Mode。UX最良。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://1password.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bitwarden-premium",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$40",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "Bitwarden Premium",
+      "ja": "Bitwarden Premium"
+    },
+    "description": {
+      "en": "Open-source, free tier covers basics,  as unknown as AffiliateOffer[]0/year for premium with TOTP and emergency access.",
+      "ja": "オープンソース、無料層で基本カバー、年 as unknown as AffiliateOffer[]0でTOTP＋緊急アクセス付きプレミアム。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://bitwarden.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dashlane-premium",
+    "imageUrl": "",
+    "priceMin": "$4",
+    "priceMax": "$8",
+    "category": "tech",
+    "badge": "🛡️",
+    "name": {
+      "en": "Dashlane Premium",
+      "ja": "Dashlane Premium"
+    },
+    "description": {
+      "en": "Includes VPN ( as unknown as AffiliateOffer[]0/mo value), dark web monitoring, $4.99/mo solo. Comprehensive but pricier.",
+      "ja": "VPN込み（月 as unknown as AffiliateOffer[]0価値）、ダークウェブ監視、個人月$4.99。包括的だが高め。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.dashlane.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "apple-passwords-icloud",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$0",
+    "category": "tech",
+    "badge": "🍎",
+    "name": {
+      "en": "Apple Passwords (iCloud Keychain)",
+      "ja": "Apple Passwords (iCloud Keychain)"
+    },
+    "description": {
+      "en": "Free with Apple ID, iOS/macOS/Windows app. Limited cross-platform (no Android, no Linux) but free.",
+      "ja": "Apple IDで無料、iOS／macOS／Windowsアプリ。クロスプラットフォーム限定（Android／Linuxなし）だが無料。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.apple.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "lastpass-premium",
+    "imageUrl": "",
+    "priceMin": "$3",
+    "priceMax": "$5",
+    "category": "tech",
+    "badge": "⚠️",
+    "name": {
+      "en": "LastPass Premium",
+      "ja": "LastPass Premium"
+    },
+    "description": {
+      "en": "Once-dominant, suffered breaches in 2022. $3/mo. Functional but consider alternatives after security incidents.",
+      "ja": "かつて支配的、2022年に侵害被害。月$3。機能的だがセキュリティ事件後は代替検討。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.lastpass.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bitdefender-total-security",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$90",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "Bitdefender Total Security",
+      "ja": "Bitdefender Total Security"
+    },
+    "description": {
+      "en": "Top AV-TEST scores 5 years running, low system impact, includes VPN (200MB/day), parental controls.",
+      "ja": "AV-TESTスコアトップ5年連続、低システム影響、VPN込み（日200MB）、ペアレンタルコントロール。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.bitdefender.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "norton-360-deluxe",
+    "imageUrl": "",
+    "priceMin": "$50",
+    "priceMax": " as unknown as AffiliateOffer[]10",
+    "category": "tech",
+    "badge": "🛡️",
+    "name": {
+      "en": "Norton 360 Deluxe",
+      "ja": "Norton 360 Deluxe"
+    },
+    "description": {
+      "en": "Unlimited VPN, $50,000 identity theft insurance, Dark Web Monitoring, password manager. Strong all-in-one.",
+      "ja": "無制限VPN、$50,000なりすまし盗難保険、ダークウェブ監視、パスワードマネージャ。強力オールインワン。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://us.norton.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "malwarebytes-premium",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$60",
+    "category": "tech",
+    "badge": "🧹",
+    "name": {
+      "en": "Malwarebytes Premium",
+      "ja": "Malwarebytes Premium"
+    },
+    "description": {
+      "en": "Best for cleaning existing infections, secondary scanner alongside primary AV. Real-time protection included.",
+      "ja": "既存感染清掃最有力、プライマリAV併用のセカンダリスキャナ。リアルタイム保護込み。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.malwarebytes.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "windows-defender-free",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$0",
+    "category": "tech",
+    "badge": "🆓",
+    "name": {
+      "en": "Microsoft Defender (free, built-in)",
+      "ja": "Microsoft Defender（無料、組込）"
+    },
+    "description": {
+      "en": "Free with Windows 10/11, AV-TEST scores match paid AVs, no separate install needed. Best free option.",
+      "ja": "Windows 10／11で無料、AV-TESTスコアが有料AVに匹敵、別途インストール不要。無料最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.microsoft.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "kaspersky-total-security",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$80",
+    "category": "tech",
+    "badge": "⚠️",
+    "name": {
+      "en": "Kaspersky Total Security",
+      "ja": "Kaspersky Total Security"
+    },
+    "description": {
+      "en": "Russian-developed, banned from US federal contracts since 2022. Strong tech but geopolitical concerns.",
+      "ja": "ロシア開発、2022年から米国連邦契約禁止。技術強いが地政学的懸念。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.kaspersky.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "quickbooks-online-plus",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$200",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "QuickBooks Online Plus",
+      "ja": "QuickBooks Online Plus"
+    },
+    "description": {
+      "en": "Industry standard for small biz accounting, broadest accountant network. 5 users, project tracking, inventory.",
+      "ja": "中小企業会計の業界標準、最広の会計士ネットワーク。5ユーザー、プロジェクト追跡、在庫。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://quickbooks.intuit.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "xero-growing",
+    "imageUrl": "",
+    "priceMin": "$32",
+    "priceMax": "$78",
+    "category": "tech",
+    "badge": "🎯",
+    "name": {
+      "en": "Xero Growing Plan",
+      "ja": "Xero Growing プラン"
+    },
+    "description": {
+      "en": "Best UX in category, strong outside US (UK, AU, NZ markets), unlimited users, automation focus.",
+      "ja": "カテゴリ最良UX、米国外で強い（英国、豪、NZ市場）、無制限ユーザー、オートメーションフォーカス。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.xero.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "freshbooks-plus",
+    "imageUrl": "",
+    "priceMin": "$33",
+    "priceMax": "$60",
+    "category": "tech",
+    "badge": "🪜",
+    "name": {
+      "en": "FreshBooks Plus",
+      "ja": "FreshBooks Plus"
+    },
+    "description": {
+      "en": "Best for service-based businesses and freelancers, invoicing + time tracking + project. 50 clients.",
+      "ja": "サービスベースビジネス＋フリーランサー向け最有力、請求書＋時間追跡＋プロジェクト。50クライアント。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.freshbooks.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "wave-free",
+    "imageUrl": "",
+    "priceMin": "$0",
+    "priceMax": "$0",
+    "category": "tech",
+    "badge": "🆓",
+    "name": {
+      "en": "Wave Accounting (Free)",
+      "ja": "Wave Accounting（無料）"
+    },
+    "description": {
+      "en": "Free accounting + invoicing for small biz with under $200k/year. Payment processing add-on revenue model.",
+      "ja": "年売上$200k未満の中小企業向け無料会計＋請求書。決済処理アドオンが収益モデル。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.waveapps.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "sage-50cloud-pro",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$200",
+    "category": "tech",
+    "badge": "🏭",
+    "name": {
+      "en": "Sage 50cloud Pro Accounting",
+      "ja": "Sage 50cloud Pro 会計"
+    },
+    "description": {
+      "en": "Desktop + cloud hybrid, strong for inventory-heavy businesses (manufacturing, distribution). 30+ year legacy.",
+      "ja": "デスクトップ＋クラウドハイブリッド、在庫多めビジネス（製造、流通）に強い。30年以上のレガシー。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.sage.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dainese-racing-3-d-air",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[]700",
+    "priceMax": "$2200",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "Dainese Racing 3 D-Air Jacket",
+      "ja": "Dainese Racing 3 D-Air ジャケット"
+    },
+    "description": {
+      "en": "Built-in D-Air airbag system, MotoGP-level protection. Italian leather, race-fit. Premium track day jacket.",
+      "ja": "内蔵D-Airエアバッグシステム、MotoGPレベルの保護。イタリアンレザー、レースフィット。プレミアムサーキット日ジャケット。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.dainese.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "alpinestars-gp-plus-r-v3",
+    "imageUrl": "",
+    "priceMin": "$700",
+    "priceMax": " as unknown as AffiliateOffer[]000",
+    "category": "tech",
+    "badge": "🥇",
+    "name": {
+      "en": "Alpinestars GP Plus R v3 Jacket",
+      "ja": "Alpinestars GP Plus R v3 ジャケット"
+    },
+    "description": {
+      "en": "Premium leather race jacket, CE Level 2 armor at shoulders/elbows. Italian-made, pre-curved sleeves.",
+      "ja": "プレミアムレザーレースジャケット、肩／肘CE Level 2アーマー。イタリア製、前カーブ袖。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.alpinestars.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "rev-it-eclipse-2-mesh",
+    "imageUrl": "",
+    "priceMin": "$240",
+    "priceMax": "$300",
+    "category": "tech",
+    "badge": "☀️",
+    "name": {
+      "en": "REV'IT! Eclipse 2 Mesh Jacket",
+      "ja": "REV'IT! Eclipse 2 メッシュジャケット"
+    },
+    "description": {
+      "en": "Highly breathable mesh for hot weather, CE Level 2 armor, ergonomic fit. Best summer riding jacket.",
+      "ja": "暑い気候向け高通気メッシュ、CE Level 2アーマー、エルゴノミックフィット。夏走行最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.revitsport.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "klim-induction-pro",
+    "imageUrl": "",
+    "priceMin": "$500",
+    "priceMax": "$700",
+    "category": "tech",
+    "badge": "🏔️",
+    "name": {
+      "en": "Klim Induction Pro Jacket",
+      "ja": "Klim Induction Pro ジャケット"
+    },
+    "description": {
+      "en": "Adventure/dual-sport mesh jacket, D3O armor, removable thermal liner. American-made, 5-year warranty.",
+      "ja": "アドベンチャー／デュアルスポーツメッシュジャケット、D3Oアーマー、取外し可能サーマルライナー。米国製、5年保証。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.klim.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "icon-airform-jacket",
+    "imageUrl": "",
+    "priceMin": "$200",
+    "priceMax": "$280",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "Icon Airform Jacket",
+      "ja": "Icon Airform ジャケット"
+    },
+    "description": {
+      "en": "Mesh + textile hybrid, D3O armor at shoulders/elbows, urban-styled. Best $200-250 entry-level option.",
+      "ja": "メッシュ＋テキスタイルハイブリッド、肩／肘D3Oアーマー、アーバンスタイル。$200-250エントリー層最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://rideicon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
   }
-];
+] as unknown as AffiliateOffer[];

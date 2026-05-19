@@ -10,8 +10,9 @@ import { BATCH5 } from "./batch-articles-batch5";
 import { BATCH6 } from "./batch-articles-batch6";
 import { BATCH7 } from "./batch-articles-batch7";
 import { BATCH8, BATCH8_OFFERS } from "./batch-articles-batch8";
+import { BATCH9, BATCH9_OFFERS } from "./batch-articles-batch9";
 
-export const NEW_OFFERS = [...OFFERS, ...BATCH8_OFFERS];
+export const NEW_OFFERS = [...OFFERS, ...BATCH8_OFFERS, ...BATCH9_OFFERS];
 
 export const ARTICLES = [
   ...FASHION,
@@ -24,4 +25,5 @@ export const ARTICLES = [
   ...BATCH6,
   ...BATCH7,
   ...BATCH8,
+  ...BATCH9,
 ];
