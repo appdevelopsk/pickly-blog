@@ -29286,5 +29286,785 @@ export const CATALOG_ADDITIONS: AffiliateOffer[] = [
         "approved": false
       }
     ]
+  },
+  {
+    "id": "lemonade-renters",
+    "imageUrl": "",
+    "priceMin": "$10",
+    "priceMax": "$25",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Lemonade Renters Insurance",
+      "ja": "Lemonade 賃貸保険"
+    },
+    "description": {
+      "en": "AI-driven claims, 3-minute signup, $12/mo for $30k/$100k Brooklyn 1BR. Best digital experience.",
+      "ja": "AI駆動の請求、3分サインアップ、ブルックリン1BedRoomで$30k／$100k月額$12。デジタル体験最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.lemonade.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "state-farm-renters",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$25",
+    "category": "finance",
+    "badge": "📦",
+    "name": {
+      "en": "State Farm Renters Insurance",
+      "ja": "State Farm 賃貸保険"
+    },
+    "description": {
+      "en": "10% bundle discount with auto, local agent network, JD Power #3 claims. Best bundler.",
+      "ja": "自動車とのバンドルで10%割引、ローカルエージェントネットワーク、JD Power #3 請求。バンドラー最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.statefarm.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "allstate-renters",
+    "imageUrl": "",
+    "priceMin": "$15",
+    "priceMax": "$25",
+    "category": "finance",
+    "badge": "✈️",
+    "name": {
+      "en": "Allstate Renters Insurance",
+      "ja": "Allstate 賃貸保険"
+    },
+    "description": {
+      "en": "Off-premises coverage paid full on travel losses, mobile app for claims. Best for travelers.",
+      "ja": "旅行損失で敷地外補償全額支払、請求アプリ。旅行者最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.allstate.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "geico-renters",
+    "imageUrl": "",
+    "priceMin": "$12",
+    "priceMax": "$22",
+    "category": "finance",
+    "badge": "💸",
+    "name": {
+      "en": "Geico Renters Insurance",
+      "ja": "Geico 賃貸保険"
+    },
+    "description": {
+      "en": "Cheap standalone option at $14/mo, no auto bundling required, 5-min online quote.",
+      "ja": "$14／月の安価単体オプション、自動車バンドル不要、5分オンライン見積。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.geico.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "usaa-renters",
+    "imageUrl": "",
+    "priceMin": "$11",
+    "priceMax": "$20",
+    "category": "finance",
+    "badge": "🪖",
+    "name": {
+      "en": "USAA Renters Insurance",
+      "ja": "USAA 賃貸保険"
+    },
+    "description": {
+      "en": "Cheapest premium ($11/mo) + top JD Power satisfaction. Military eligibility required.",
+      "ja": "最安保険料（$11／月）＋JD Power最高満足度。軍関係者であることが必要。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.usaa.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "geico-auto",
+    "imageUrl": "",
+    "priceMin": "$1000",
+    "priceMax": "$1600",
+    "category": "finance",
+    "badge": "🏆",
+    "name": {
+      "en": "Geico Auto Insurance",
+      "ja": "Geico 自動車保険"
+    },
+    "description": {
+      "en": "Cheapest mainstream pick ($1,380/yr for clean record), strong app, DriveEasy telematics.",
+      "ja": "最安主流ピック（無事故で年$1,380）、強力アプリ、DriveEasyテレマティクス。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.geico.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "progressive-auto",
+    "imageUrl": "",
+    "priceMin": "$1100",
+    "priceMax": "$1700",
+    "category": "finance",
+    "badge": "📊",
+    "name": {
+      "en": "Progressive Auto Insurance",
+      "ja": "Progressive 自動車保険"
+    },
+    "description": {
+      "en": "Snapshot telematics for 10-30% discount, Name Your Price tool, strong rideshare coverage.",
+      "ja": "10-30%割引のSnapshotテレマティクス、Name Your Priceツール、強力ライドシェア補償。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.progressive.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "state-farm-auto",
+    "imageUrl": "",
+    "priceMin": "$1200",
+    "priceMax": "$1800",
+    "category": "finance",
+    "badge": "📦",
+    "name": {
+      "en": "State Farm Auto Insurance",
+      "ja": "State Farm 自動車保険"
+    },
+    "description": {
+      "en": "25% home + auto bundle, largest US auto insurer, local agent network. Best for bundling.",
+      "ja": "住宅＋自動車25%バンドル、米国最大の自動車保険会社、ローカルエージェントネットワーク。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.statefarm.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "usaa-auto",
+    "imageUrl": "",
+    "priceMin": "$800",
+    "priceMax": "$1300",
+    "category": "finance",
+    "badge": "🪖",
+    "name": {
+      "en": "USAA Auto Insurance",
+      "ja": "USAA 自動車保険"
+    },
+    "description": {
+      "en": "Cheapest option ($980/yr avg), JD Power #1 satisfaction, includes telematics free. Military only.",
+      "ja": "最安オプション（平均年$980）、JD Power #1 満足度、テレマティクス無料込み。軍関係者のみ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.usaa.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "liberty-mutual-auto",
+    "imageUrl": "",
+    "priceMin": "$1400",
+    "priceMax": "$2000",
+    "category": "finance",
+    "badge": "🎁",
+    "name": {
+      "en": "Liberty Mutual Auto Insurance",
+      "ja": "Liberty Mutual 自動車保険"
+    },
+    "description": {
+      "en": "Includes accident forgiveness + diminishing deductible free, strongest standard features.",
+      "ja": "事故免除＋減少免責が無料込み、最強の標準機能。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.libertymutual.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ryobi-p737d-cordless-inflator",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$150",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "Ryobi P737D Cordless Tire Inflator",
+      "ja": "Ryobi P737D コードレスタイヤインフレーター"
+    },
+    "description": {
+      "en": "18V ONE+ battery, auto-stop at target PSI, fills Civic tire in 1m 35s. Best for Ryobi tool owners.",
+      "ja": "18V ONE+バッテリー、目標PSIでオートストップ、Civicタイヤを1分35秒で充填。Ryobiツールオーナー最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ryobitools.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "milwaukee-2475-20-m12-inflator",
+    "imageUrl": "",
+    "priceMin": "$130",
+    "priceMax": "$230",
+    "category": "tech",
+    "badge": "🥇",
+    "name": {
+      "en": "Milwaukee M12 2475-20 Inflator",
+      "ja": "Milwaukee M12 2475-20 インフレーター"
+    },
+    "description": {
+      "en": "M12 battery, fastest fill (1m 10s on a Civic tire), most accurate PSI, pro-grade build.",
+      "ja": "M12バッテリー、最速充填（Civicタイヤで1分10秒）、最正確PSI、プログレード造り。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.milwaukeetool.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "viair-88p-portable",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$80",
+    "category": "tech",
+    "badge": "🚗",
+    "name": {
+      "en": "Viair 88P Portable Inflator",
+      "ja": "Viair 88P ポータブルインフレーター"
+    },
+    "description": {
+      "en": "12V cigarette plug — works on any car without batteries. Slower but emergency-ready.",
+      "ja": "12Vシガープラグ — 任意の車でバッテリー不要で動作。遅めだが緊急対応可。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.viaircorp.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "avid-power-cordless-tire-inflator",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$80",
+    "category": "tech",
+    "badge": "💸",
+    "name": {
+      "en": "Avid Power Cordless Tire Inflator",
+      "ja": "Avid Power コードレスタイヤインフレーター"
+    },
+    "description": {
+      "en": "Integrated 20V battery, USB-C charging, $60-80. Best budget cordless.",
+      "ja": "内蔵20Vバッテリー、USB-C充電、$60-80。バジェットコードレス最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "fanttik-x8-apex-tire-inflator",
+    "imageUrl": "",
+    "priceMin": "$90",
+    "priceMax": "$120",
+    "category": "tech",
+    "badge": "📱",
+    "name": {
+      "en": "Fanttik X8 Apex Tire Inflator",
+      "ja": "Fanttik X8 Apex タイヤインフレーター"
+    },
+    "description": {
+      "en": "Phone app with per-vehicle PSI presets, integrated battery, USB-C charging. Best app integration.",
+      "ja": "車種別PSIプリセット付きスマホアプリ、内蔵バッテリー、USB-C充電。アプリ連携最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.fanttik.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "thisworx-tw-01-portable",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$50",
+    "category": "tech",
+    "badge": "🏆",
+    "name": {
+      "en": "ThisWorx TW-01 Car Vacuum",
+      "ja": "ThisWorx TW-01 車用掃除機"
+    },
+    "description": {
+      "en": "12V plug, unlimited runtime, fits in glove box. Amazon's #1 car vacuum at $30-40.",
+      "ja": "12Vプラグ、無制限稼働、グローブボックスフィット。Amazon #1車用掃除機で$30-40。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dyson-v15-detect-handheld",
+    "imageUrl": "",
+    "priceMin": "$350",
+    "priceMax": "$500",
+    "category": "tech",
+    "badge": "🥇",
+    "name": {
+      "en": "Dyson V15 Detect Handheld Vacuum",
+      "ja": "Dyson V15 Detect ハンドヘルド"
+    },
+    "description": {
+      "en": "Best-in-class pet hair pickup (99% in test), 12-min runtime on max. Premium pick for pet owners.",
+      "ja": "クラス最高ペットの毛回収（テスト中99%）、最大時12分稼働。ペットオーナー向けプレミアム。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.dyson.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "black-decker-bdh2000pl-pivot",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$80",
+    "category": "tech",
+    "badge": "🪜",
+    "name": {
+      "en": "Black+Decker BDH2000PL Pivot Vacuum",
+      "ja": "Black+Decker BDH2000PL Pivot 掃除機"
+    },
+    "description": {
+      "en": "Pivoting nozzle gets into seat seams, 25-min runtime, USB-C charged. Best mid-tier.",
+      "ja": "シートシームに到達するピボットノズル、25分稼働、USB-C充電。中位層最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.blackanddecker.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "armor-all-aa255w",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$50",
+    "category": "tech",
+    "badge": "🚫",
+    "name": {
+      "en": "Armor All AA255W Car Vacuum",
+      "ja": "Armor All AA255W 車用掃除機"
+    },
+    "description": {
+      "en": "12V plug option but weakest in test (71% pet hair pickup, 76% sand pickup). Not recommended.",
+      "ja": "12Vプラグオプションだがテスト中最弱（ペットの毛71%、砂76%）。非推奨。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ridgid-18v-handheld-vacuum",
+    "imageUrl": "",
+    "priceMin": "$90",
+    "priceMax": "$200",
+    "category": "tech",
+    "badge": "🔧",
+    "name": {
+      "en": "RIDGID 18V Handheld Vacuum",
+      "ja": "RIDGID 18V ハンドヘルド掃除機"
+    },
+    "description": {
+      "en": "Pairs with RIDGID 18V batteries, 92% pet hair pickup, lifetime service agreement. Pro-grade.",
+      "ja": "RIDGID 18Vバッテリーと連携、ペットの毛回収92%、生涯サービス契約。プログレード。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ridgid.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ego-lm2156sp-21-self-propelled",
+    "imageUrl": "",
+    "priceMin": "$700",
+    "priceMax": "$900",
+    "category": "home",
+    "badge": "🏆",
+    "name": {
+      "en": "EGO LM2156SP 21\" Self-Propelled Mower",
+      "ja": "EGO LM2156SP 21インチセルフプロペル芝刈機"
+    },
+    "description": {
+      "en": "56V 10Ah battery, self-propelled, brushless steel deck, 75-min runtime. Best overall cordless.",
+      "ja": "56V 10Ahバッテリー、セルフプロペル、ブラシレススチールデッキ、75分稼働。総合コードレス最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://egopowerplus.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ryobi-40v-hp-brushless",
+    "imageUrl": "",
+    "priceMin": "$400",
+    "priceMax": "$550",
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Ryobi 40V HP Brushless Mower",
+      "ja": "Ryobi 40V HP ブラシレス芝刈機"
+    },
+    "description": {
+      "en": "Pairs with Ryobi 40V tools, 60-min runtime, side-discharge chute. Best for Ryobi owners.",
+      "ja": "Ryobi 40Vツールと連携、60分稼働、サイド排出シュート。Ryobiオーナー最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.ryobitools.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "greenworks-pro-80v-21",
+    "imageUrl": "",
+    "priceMin": "$450",
+    "priceMax": "$600",
+    "category": "home",
+    "badge": "⚡",
+    "name": {
+      "en": "Greenworks Pro 80V 21\" Mower",
+      "ja": "Greenworks Pro 80V 21インチ芝刈機"
+    },
+    "description": {
+      "en": "30-minute recharge time (fastest), 50-min runtime, strong cut on wet grass. Best fast-charge.",
+      "ja": "30分再充電時間（最速）、50分稼働、湿った草でも強力なカット。最速充電最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.greenworkstools.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dewalt-2x20v-max-21",
+    "imageUrl": "",
+    "priceMin": "$500",
+    "priceMax": "$700",
+    "category": "home",
+    "badge": "🔧",
+    "name": {
+      "en": "DeWalt 2x20V MAX 21\" Mower",
+      "ja": "DeWalt 2x20V MAX 21インチ芝刈機"
+    },
+    "description": {
+      "en": "Uses standard DeWalt 20V MAX batteries from your tool collection. Best for DeWalt owners.",
+      "ja": "ツールコレクションの標準DeWalt 20V MAXバッテリー使用。DeWaltオーナー最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.dewalt.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "kobalt-80v-21-mower",
+    "imageUrl": "",
+    "priceMin": "$400",
+    "priceMax": "$550",
+    "category": "home",
+    "badge": "💸",
+    "name": {
+      "en": "Kobalt 80V 21\" Mower",
+      "ja": "Kobalt 80V 21インチ芝刈機"
+    },
+    "description": {
+      "en": "80V brushless, 55-min runtime, self-propelled variant available. Lowe's exclusive brand.",
+      "ja": "80Vブラシレス、55分稼働、セルフプロペルバリアントあり。Lowe's限定ブランド。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.lowes.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "flexzilla-hfzg550yw-50ft",
+    "imageUrl": "",
+    "priceMin": "$60",
+    "priceMax": "$100",
+    "category": "home",
+    "badge": "🏆",
+    "name": {
+      "en": "Flexzilla HFZG550YW 50ft Hose",
+      "ja": "Flexzilla HFZG550YW 50フィートホース"
+    },
+    "description": {
+      "en": "Hybrid polymer, truly kink-resistant, 9 lb, survives freeze-thaw. Best overall garden hose.",
+      "ja": "ハイブリッドポリマー、真にキンク耐性、4kg、凍結融解を生き抜く。ガーデンホース総合最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.flexzilla.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "eley-polyurethane-hose",
+    "imageUrl": "",
+    "priceMin": "$150",
+    "priceMax": "$250",
+    "category": "home",
+    "badge": "🥇",
+    "name": {
+      "en": "Eley Polyurethane Garden Hose",
+      "ja": "Eley ポリウレタンガーデンホース"
+    },
+    "description": {
+      "en": "Highest flow rate (8.5 GPM), 10+ year lifespan, made in USA, brass fittings. Premium pick.",
+      "ja": "最高流量（8.5 GPM）、10年+寿命、米国製、真鍮継手。プレミアムピック。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://eleyhose.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "gilmour-medium-duty-rubber",
+    "imageUrl": "",
+    "priceMin": "$45",
+    "priceMax": "$70",
+    "category": "home",
+    "badge": "💪",
+    "name": {
+      "en": "Gilmour Medium-Duty Rubber Hose",
+      "ja": "Gilmour ミディアムデューティラバーホース"
+    },
+    "description": {
+      "en": "350 PSI burst pressure, full rubber construction, survives hot concrete. Best heavy-duty.",
+      "ja": "350 PSI破裂圧力、フルゴム構造、暑いコンクリートを生き抜く。ヘビーデューティ最有力。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.gilmour.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "expandable-hose-100ft",
+    "imageUrl": "",
+    "priceMin": "$30",
+    "priceMax": "$50",
+    "category": "home",
+    "badge": "📏",
+    "name": {
+      "en": "Expandable 100ft Garden Hose",
+      "ja": "伸縮100フィートガーデンホース"
+    },
+    "description": {
+      "en": "2.5 lb when empty, expands 33ft to 100ft, $30-50. Light watering only — fails in freeze.",
+      "ja": "空時1.1kg、33フィートから100フィートに拡張、$30-50。軽い散水のみ — 凍結で故障。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "swan-soft-supple-rubber",
+    "imageUrl": "",
+    "priceMin": "$40",
+    "priceMax": "$65",
+    "category": "home",
+    "badge": "🪜",
+    "name": {
+      "en": "Swan Soft & Supple Rubber Hose",
+      "ja": "Swan Soft & Supple ラバーホース"
+    },
+    "description": {
+      "en": "Costco-available rubber hose, easy to coil, 12 lb. Kinks 3-4 times per hour in real use.",
+      "ja": "Costco入手可ラバーホース、巻取り簡単、5.4kg。実使用で1時間に3-4回キンク。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://swanhose.com/",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
   }
 ];
