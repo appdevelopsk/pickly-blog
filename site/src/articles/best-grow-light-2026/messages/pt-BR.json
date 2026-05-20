@@ -1,0 +1,242 @@
+{
+  "title": "Melhores Lâmpadas de Cultivo 2026: 5 Painéis LED Comparados em PPFD, Cobertura e o que as Especificações Realmente Significam",
+  "description": "Spider Farmer SF2000, Mars Hydro TS1000, AC Infinity IONBOARD S24, ThinkGrow Telos 0010 e VIPARSPECTRA XS1500 comparados em saída real de PPFD, honestidade da área de cobertura, qualidade dos diodos, gestão do calor e eficiência preço-por-fóton.",
+  "lede": "Cinco lâmpadas LED de cultivo de R$600 a R$1.700. O número na caixa é a potência — consumo real ou equivalente — e o texto de marketing raramente especifica qual. O PPFD na distância em que você vai realmente montar a lâmpada é o único número que diz se suas plantas vão crescer.",
+  "methodology": "Comparamos mapas de PPFD publicados pelos fabricantes (verificando se foram medidos nas distâncias especificadas em vez de extrapolados), origem dos diodos em desmontagens independentes e relatórios verificados de proprietários, consumo real vs. consumo anunciado, produção de calor e gestão térmica, e cálculos de eficiência preço-por-μmol.",
+  "recommendedFor": [
+    {
+      "label": "Para uma tenda de cultivo de 60×120 cm, vegetativo e floração",
+      "offerId": "grow-light-spider-farmer-sf2000",
+      "reason": "Diodos Samsung LM301B com mapa PPFD verificado a 1046 μmol/m²/s a 18 cm, design sem ventilador que não adiciona ruído ao espaço de cultivo doméstico e um histórico comprovado de mapas PPFD que correspondem às medições reais."
+    },
+    {
+      "label": "Para um espaço de cultivo inicial de 60×60 cm ou 90×90 cm",
+      "offerId": "grow-light-mars-hydro-ts1000",
+      "reason": "150 W de consumo cobre eficientemente um footprint vegetativo de 90×90 cm sem a produção de calor ou custo de um painel 200 W+, e os valores PPFD da Mars Hydro foram validados cruzadamente por medições de terceiros."
+    },
+    {
+      "label": "Para configurações de cultivo integradas com casa inteligente",
+      "offerId": "grow-light-ac-infinity-ionboard",
+      "reason": "A integração do controlador UIS da AC Infinity permite agendamentos automatizados, regulagem gradual e coordenação de múltiplos dispositivos que nenhuma outra lâmpada nesta comparação iguala nativamente."
+    },
+    {
+      "label": "Para PPFD de nível profissional com garantia",
+      "offerId": "grow-light-ts-telos-0010",
+      "reason": "A ThinkGrow usa diodos Osram e publica os mapas PPFD mais rigorosos desta comparação — medidos em múltiplas distâncias com dados de uniformidade borda-a-centro. A garantia de 5 anos reflete a confiança na engenharia."
+    },
+    {
+      "label": "Para cultivadores conscientes do orçamento que estão escalando",
+      "offerId": "grow-light-viparspectra-xs1500",
+      "reason": "A combinação de diodos Samsung LM301B + Osram 660nm a R$600–840 é a melhor qualidade de diodos por real nesta comparação, com suporte em cadeia daisy para escalar até 15 unidades em um controlador."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Entendendo PPFD, cobertura e o que o número de potência na caixa significa",
+      "paragraphs": [
+        "A potência em uma caixa de lâmpada de cultivo pode significar duas coisas diferentes: consumo real de energia (quantos watts a lâmpada consome da tomada) ou potência 'equivalente' ou 'comparável' (uma comparação de marketing com lâmpadas HPS ou fluorescentes mais antigas). A indústria de lâmpadas LED de cultivo se afastou em grande parte das afirmações de 'potência equivalente' após a rejeição dos consumidores em 2018–2021, mas alguns fabricantes de orçamento ainda usam números equivalentes inflados. O '200 W' do Spider Farmer SF2000 é o consumo real. Um painel barato anunciado como 'LED de 2000 W' na mesma faixa de preço usa linguagem equivalente — seu consumo real é tipicamente 120–200 W.",
+        "O PPFD (Densidade de Fluxo de Fótons Fotossintéticos) medido em μmol/m²/s é a métrica que prevê diretamente a taxa de crescimento das plantas. Mede quantos fótons úteis para a fotossíntese chegam a um metro quadrado específico do dossel por segundo. Para o crescimento vegetativo, a maioria das plantas se sai bem a 200–400 μmol/m²/s; para a floração, a maioria das plantas frutíferas visa 600–900 μmol/m²/s; cultivos de alta luminosidade atingem o pico a 900–1500 μmol/m²/s. Sempre procure o mapa PPFD, não apenas o número de pico único.",
+        "A uniformidade é a métrica de qualidade subestimada no marketing de lâmpadas de cultivo. Uma lâmpada que entrega 1200 μmol/m²/s no centro de uma área de cobertura de 60×120 cm mas apenas 200 μmol/m²/s nos cantos fornece luz útil para aproximadamente 30% da área de cobertura reivindicada. ThinkGrow Telos 0010 e AC Infinity IONBOARD são as duas lâmpadas nesta comparação que publicam dados de uniformidade borda-a-centro."
+      ]
+    },
+    {
+      "heading": "Qualidade dos diodos: Samsung LM301B vs LM301H EVO vs Osram vs orçamento",
+      "paragraphs": [
+        "A hierarquia de diodos de lâmpadas de cultivo que importa para eficiência e longevidade: Samsung LM301H EVO (geração mais recente, maior eficiência a ~3,2 μmol/J, AC Infinity IONBOARD S24) > Samsung LM301B (geração anterior, ~2,7 μmol/J, Spider Farmer SF2000 e VIPARSPECTRA XS1500) = diodos Osram (usados no ThinkGrow Telos 0010, faixa de eficiência similar com perfil espectral diferente) > diodos chineses genéricos (usados em painéis de orçamento, tipicamente 1,5–2,0 μmol/J, fornecimento anônimo). O número de eficiência (μmol/J) diz quantos fótons promotores de crescimento você obtém por watt de eletricidade consumido.",
+        "A diferença prática entre LM301B e LM301H EVO: com um painel de 200 W com diodos LM301B vs LM301H EVO, a versão EVO entrega aproximadamente 20% mais PPFD com o mesmo consumo de energia. A uma tarifa de eletricidade de R$0,75/kWh e 18 horas de luz por dia, um painel de 200 W custa cerca de R$1.476 por ano. A diferença de eficiência entre LM301B e LM301H EVO se traduz em aproximadamente 20% mais crescimento de plantas do mesmo gasto em eletricidade.",
+        "O Mars Hydro TS1000 e o Spider Farmer SF2000 usam diodos Samsung LM301B. Ambas as marcas foram verificadas por desmontagens independentes de terceiros para usar diodos Samsung genuínos em vez de falsificações com marcas Samsung em diodos genéricos. Essa verificação importa porque o mercado chinês de lâmpadas de cultivo de orçamento tem sido documentado enviando lâmpadas com marcas Samsung falsas em diodos genéricos."
+      ]
+    },
+    {
+      "heading": "Onde cada lâmpada se encaixa",
+      "paragraphs": [
+        "Spider Farmer SF2000 (R$1.000–1.350) é a escolha mais segura para todos os fins para uma tenda de 60×120 cm. Os diodos Samsung LM301B entregam PPFD honesto que corresponde aos mapas publicados quando validado por medidores PAR de terceiros. O design sem ventilador não adiciona ruído, a regulagem de 0–100% permite o gerenciamento do espectro vegetativo para floração, e a estimativa de 5 anos para os diodos em plena potência é consistente com os relatórios reais de proprietários a longo prazo. Fraqueza honesta: os diodos LM301B estão uma geração atrás do LM301H EVO no AC Infinity IONBOARD.",
+        "Mars Hydro TS1000 (R$600–810) é a escolha para um espaço de cultivo menor de 60×60 ou 90×90 cm onde o footprint de 60×120 cm do SF2000 é superdimensionado. A 150 W cobre uma área vegetativa de 90×90 cm eficientemente sem a carga de calor de um painel de 200 W. Fraqueza honesta: a 150 W, o TS1000 tem desempenho inferior para um dossel completo de 60×120 cm na fase de floração.",
+        "AC Infinity IONBOARD S24 (R$1.080–1.540) é a escolha para configurações de cultivo integradas com o ecossistema inteligente UIS da AC Infinity. Os diodos Samsung LM301H EVO são os mais eficientes nesta comparação a aproximadamente 3,2 μmol/J, o PPFD de 1240 μmol/m²/s a 12 cm cobre adequadamente um footprint de floração de 60×120 cm, e a integração do controlador UIS permite agendamentos de iluminação automatizados e ciclos de rampa progressivos amanhecer/anoitecer. Fraqueza honesta: o controlador UIS é vendido separadamente e adiciona R$220–330 ao custo total.",
+        "ThinkGrow Telos 0010 (R$1.350–1.800) é a escolha de construção profissional nesta comparação. Diodos Osram, certificação de segurança ETL/CE, mapas PPFD publicados com dados de uniformidade borda-a-centro, regulagem 0–10V externa e garantia de 5 anos. Fraqueza honesta: a lâmpada mais cara nesta comparação.",
+        "VIPARSPECTRA XS1500 (R$600–840) tem a melhor qualidade de diodos por real na comparação. Samsung LM301B + diodos Osram 660nm suplementares a R$600–840 e capacidade de cadeia daisy (até 15 unidades) a tornam a opção mais escalável. Fraqueza honesta: os mapas PPFD da VIPARSPECTRA mostraram em medições PAR independentes cerca de 10–15% abaixo dos valores anunciados."
+      ]
+    },
+    {
+      "heading": "Custo de eletricidade e eficiência de rendimento: o que os números significam em escala doméstica",
+      "paragraphs": [
+        "Uma lâmpada LED de cultivo de 200 W rodando 18 horas por dia (fotoperíodo vegetativo padrão) consome 3,6 kWh por dia. À tarifa média de eletricidade residencial brasileira de R$0,75/kWh, isso é R$2,70/dia ou R$986/ano. Esses não são custos triviais — para um jardim de ervas indoor produzindo R$60–90/mês em economia de supermercado, o custo de eletricidade supera o retorno de valor. Lâmpadas de cultivo fazem sentido econômico para plantas de alto valor, mas não para alface padrão ou cultivo de ervas básicas.",
+        "O gerenciamento do calor importa em escala doméstica porque as lâmpadas de cultivo em uma tenda ou armário fechado aumentam a temperatura ambiente. LEDs de cultivo geram menos calor do que os equivalentes HPS, mas não zero — o Spider Farmer SF2000 em plena potência gera aproximadamente 35–40°C de temperatura do ar a 30 cm sem ventilação. A implicação prática: um LED de 200 W em uma tenda fechada de 60×120 cm requer ventilação ativa para manter a temperatura alvo. Nenhum dos cinco produtos nesta comparação inclui ventilação."
+      ]
+    }
+  ],
+  "products": [
+    {
+      "offerId": "grow-light-spider-farmer-sf2000",
+      "badge": "Melhor Geral 60×120 cm",
+      "review": "O Spider Farmer SF2000 é a escolha mais segura para todos os fins de lâmpada LED de cultivo de 200 W para uma tenda de 60×120 cm porque suas afirmações de PPFD são consistentemente validadas por medidores PAR independentes de terceiros. Os diodos Samsung LM301B são genuínos (verificados por desmontagem), o design sem ventilador mantém o espaço de cultivo silencioso, e a saída de espectro completo 3000K/5000K/660nm/760nm IR cobre tanto as fases vegetativas quanto de floração em um único painel. A limitação honesta: o LM301B está uma geração de diodos atrás do LM301H EVO no IONBOARD S24.",
+      "pros": [
+        "Diodos Samsung LM301B verificados genuínos por desmontagens independentes de terceiros",
+        "Mapas PPFD correspondem às leituras reais do medidor PAR — marketing honesto",
+        "Design sem ventilador — sem ruído adicional em um espaço de cultivo doméstico",
+        "Espectro completo IR e 660nm vermelho para a fase de floração"
+      ],
+      "cons": [
+        "Diodos LM301B uma geração atrás do LM301H EVO do IONBOARD",
+        "Sem integração de controlador inteligente — apenas regulagem manual"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Consumo": "200 W",
+        "Diodos": "Samsung LM301B",
+        "PPFD": "1046 μmol/m²/s a 18 cm",
+        "Área de cobertura": "60×120 cm",
+        "Espectro": "3000K / 5000K / 660nm / 760nm IR",
+        "Regulagem": "0–100%",
+        "Ventilador": "Sem ventilador (silencioso)"
+      },
+      "scores": {
+        "Saída PPFD": 4.5,
+        "Qualidade dos diodos": 4.5,
+        "Uniformidade": 4.0,
+        "Custo-benefício": 4.5
+      }
+    },
+    {
+      "offerId": "grow-light-mars-hydro-ts1000",
+      "badge": "Melhor para Espaços Menores",
+      "review": "O Mars Hydro TS1000 está corretamente dimensionado para um espaço de cultivo de 60×60 ou 90×90 cm e subestimado para essa aplicação. A 150 W entrega PPFD honesto que as medições Migro de terceiros validam dentro de 5–10% dos valores anunciados — forte transparência em uma categoria onde a superestimação de 20–30% é comum. Fraqueza honesta: o dossel produtivo real está mais próximo de 60×60 cm do que a cobertura de floração de 90×90 cm anunciada.",
+      "pros": [
+        "Consumo de 150 W corretamente dimensionado para espaços de 60×60 a 90×90 cm — não superdimensionado",
+        "Valores PPFD validados dentro de 5–10% por medições Migro independentes",
+        "Cadeia daisy para expandir cobertura sem controladores adicionais",
+        "Design sem ventilador"
+      ],
+      "cons": [
+        "Dossel produtivo real mais próximo de 60×60 cm do que a cobertura de floração de 90×90 cm anunciada",
+        "Geração LM301B — mesma limitação do SF2000 vs. diodos EVO do IONBOARD"
+      ],
+      "grade": "A",
+      "specs": {
+        "Consumo": "150 W",
+        "Diodos": "LED espectro completo (geração Samsung LM301B)",
+        "PPFD": "882 μmol/m²/s a 18 cm",
+        "Área de cobertura": "90×90 cm veg. / 60×60 cm floração",
+        "Espectro": "3000K / 5000K / 660nm / IR",
+        "Regulagem": "0–100%",
+        "Ventilador": "Sem ventilador"
+      },
+      "scores": {
+        "Saída PPFD": 4.0,
+        "Qualidade dos diodos": 4.3,
+        "Uniformidade": 3.8,
+        "Custo-benefício": 5.0
+      }
+    },
+    {
+      "offerId": "grow-light-ac-infinity-ionboard",
+      "badge": "Melhor Integração Inteligente",
+      "review": "O AC Infinity IONBOARD S24 entrega a maior eficiência por watt nesta comparação via diodos Samsung LM301H EVO e é a única lâmpada aqui que se integra nativamente com um controlador inteligente de sala de cultivo. Para cultivadores que já usam o ecossistema AC Infinity, a integração UIS permite agendamento automatizado do fotoperíodo, rampas progressivas de amanhecer/anoitecer e regulagem acionada por temperatura. Fraqueza honesta: o controlador UIS é vendido separadamente e adiciona R$220–330 ao custo total.",
+      "pros": [
+        "Samsung LM301H EVO — geração de diodos mais eficiente nesta comparação (~3,2 μmol/J)",
+        "Integração nativa do controlador UIS para fotoperíodos automatizados e resposta ambiental",
+        "Diodos suplementares Vermelho/IR/UV para cobertura espectral abrangente",
+        "Qualidade de marca e suporte da AC Infinity bem estabelecidos na categoria"
+      ],
+      "cons": [
+        "Controlador UIS vendido separadamente adiciona R$220–330 ao custo total",
+        "PPFD medido a 12 cm — saída efetiva na altura de montagem típica de 30 cm é menor",
+        "Integração inteligente só é significativa se já usar o ecossistema AC Infinity"
+      ],
+      "grade": "A",
+      "specs": {
+        "Consumo": "200 W",
+        "Diodos": "Samsung LM301H EVO",
+        "PPFD": "1240 μmol/m²/s a 12 cm",
+        "Área de cobertura": "60×120 cm",
+        "Espectro": "Espectro completo + vermelho/IR/UV",
+        "Regulagem": "0–100% (controlador UIS)",
+        "Ventilador": "Sem ventilador"
+      },
+      "scores": {
+        "Saída PPFD": 4.8,
+        "Qualidade dos diodos": 5.0,
+        "Uniformidade": 4.5,
+        "Custo-benefício": 3.8
+      }
+    },
+    {
+      "offerId": "grow-light-ts-telos-0010",
+      "badge": "Melhor Construção Profissional",
+      "review": "O ThinkGrow Telos 0010 é a lâmpada de cultivo com engenharia mais profissional nesta comparação. Diodos Osram, certificação de segurança ETL/CE e mapas PPFD publicados que incluem dados de uniformidade borda-a-centro — não apenas o número de pico do centro — tornam esta a especificação de produto mais honesta na comparação. A regulagem de 0–10V é compatível com controladores climáticos de grau comercial. A garantia de 5 anos é a mais longa nesta comparação. Limitação honesta: a lâmpada mais cara aqui a R$1.350–1.800.",
+      "pros": [
+        "Diodos Osram com certificação de segurança independente ETL/CE",
+        "Publica dados PPFD de uniformidade borda-a-centro — especificação mais honesta na comparação",
+        "Regulagem externa 0–10V para integração com controladores climáticos de terceiros",
+        "Garantia de 5 anos — a mais longa nesta comparação"
+      ],
+      "cons": [
+        "Lâmpada mais cara na comparação a R$1.350–1.800",
+        "Eficiência dos diodos Osram similar ao LM301B, ligeiramente abaixo do LM301H EVO no IONBOARD"
+      ],
+      "grade": "A",
+      "specs": {
+        "Consumo": "200 W",
+        "Diodos": "Osram",
+        "PPFD": "1350 μmol/m²/s a 15 cm",
+        "Área de cobertura": "60×120 cm ciclo completo",
+        "Espectro": "Espectro completo + UV-A + vermelho distante",
+        "Regulagem": "0–10V externo",
+        "Certificação": "ETL / CE"
+      },
+      "scores": {
+        "Saída PPFD": 4.8,
+        "Qualidade dos diodos": 4.5,
+        "Uniformidade": 5.0,
+        "Custo-benefício": 3.5
+      }
+    },
+    {
+      "offerId": "grow-light-viparspectra-xs1500",
+      "badge": "Melhor Qualidade de Diodos por Real",
+      "review": "O VIPARSPECTRA XS1500 entrega qualidade de diodos Samsung LM301B + Osram 660nm a R$600–840 — a melhor combinação de diodos especificada por real nesta comparação. A capacidade de cadeia daisy de até 15 unidades torna-o a opção mais escalável para cultivadores que ampliam a cobertura de forma incremental. Limitação honesta: os mapas PPFD da VIPARSPECTRA foram medidos por medidores PAR independentes com 10–15% abaixo dos valores anunciados.",
+      "pros": [
+        "Combinação Samsung LM301B + Osram 660nm ao menor preço nesta comparação",
+        "Cadeia daisy até 15 unidades — configuração mais escalável na comparação",
+        "Regulagem 0–100% para gerenciamento das fases vegetativa e de floração",
+        "Garantia de 3 anos"
+      ],
+      "cons": [
+        "Leituras de medidores PAR independentes mostram 10–15% abaixo do PPFD anunciado — calibre as expectativas adequadamente",
+        "Garantia de 3 anos é mais curta do que as opções Spider Farmer ou ThinkGrow"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Consumo": "150 W",
+        "Diodos": "Samsung LM301B + Osram 660nm",
+        "PPFD": "904 μmol/m²/s a 18 cm (anunciado; ~800 validado)",
+        "Área de cobertura": "90×90 cm veg. / 60×60 cm floração",
+        "Espectro": "Espectro completo + 660nm vermelho",
+        "Regulagem": "0–100%",
+        "Ventilador": "Sem ventilador"
+      },
+      "scores": {
+        "Saída PPFD": 3.8,
+        "Qualidade dos diodos": 4.5,
+        "Uniformidade": 3.5,
+        "Custo-benefício": 5.0
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "A que distância devo pendurar minha lâmpada LED de cultivo das plantas?",
+      "a": "A altura de montagem correta depende da saída PPFD da lâmpada nessa distância e dos requisitos de luz da planta. Para a fase vegetativa, a maioria das plantas visa 200–400 μmol/m²/s — o que, para um painel de 200 W como o SF2000, significa montar a 40–60 cm acima do dossel. Para a fase de floração, vise 600–900 μmol/m²/s, o que significa 20–35 cm acima do dossel para o mesmo painel. Pendurar muito perto causa branqueamento da luz e estresse por calor; muito longe reduz a taxa de crescimento abaixo do potencial da planta."
+    },
+    {
+      "q": "Uma lâmpada LED de cultivo de 200 W é suficiente para 2–3 plantas de cannabis autoflorescentes?",
+      "a": "Um painel de 200 W em um dossel de 60×60 a 60×90 cm está na extremidade inferior do intervalo adequado para a floração. Você obterá colheita mas não o rendimento máximo. As diretrizes do setor para a floração da cannabis visam 600–900 μmol/m²/s ao nível do dossel — um painel de 200 W atinge isso sobre aproximadamente 60×60 cm a 20–25 cm de altura de montagem. Para rendimento máximo por planta, 300–400 W sobre um footprint de 60×120 cm é o objetivo prático."
+    },
+    {
+      "q": "Espectro completo vs. proporção específica vermelho-azul — qual é melhor para o crescimento das plantas?",
+      "a": "O LED branco de espectro completo (3000K para ênfase quente/vermelho, 5000K para frio/azul, com 660nm vermelho e IR suplementar) é a melhor abordagem consensual a partir de 2026 para a maioria das aplicações. A era inicial das lâmpadas LED de cultivo (2010–2016) usava LEDs azul-vermelho 'blurple' porque os picos de fotossíntese eram conhecidos a 660nm (vermelho) e 450nm (azul) — mas essas lâmpadas produziram plantas com desenvolvimento anormal porque a clorofila precisa do espectro visível completo para a atividade enzimática normal. As cinco lâmpadas nesta comparação usam LED branco de espectro completo como fonte primária com 660nm vermelho e IR suplementar."
+    }
+  ],
+  "pinDescription": "5 lâmpadas LED de cultivo comparadas em 2026: Spider Farmer SF2000 vs Mars Hydro TS1000 vs AC Infinity IONBOARD vs ThinkGrow Telos vs VIPARSPECTRA XS1500. Números PPFD reais, diodos Samsung vs Osram e quais afirmações de cobertura realmente se sustentam.",
+  "offerNotes": ""
+}

@@ -1,0 +1,242 @@
+{
+  "title": "Đèn trồng cây tốt nhất 2026: So sánh 5 bảng LED về PPFD, vùng phủ và ý nghĩa thực của thông số kỹ thuật",
+  "description": "Spider Farmer SF2000, Mars Hydro TS1000, AC Infinity IONBOARD S24, ThinkGrow Telos 0010 và VIPARSPECTRA XS1500 được so sánh về đầu ra PPFD thực tế, tính trung thực về vùng phủ sóng, chất lượng diode, quản lý nhiệt và hiệu quả giá trên mỗi photon.",
+  "lede": "Năm đèn LED trồng cây từ $109 đến $329. Con số trên hộp là watt — tiêu thụ thực hay tương đương, và nội dung quảng cáo hiếm khi nêu rõ loại nào. PPFD ở khoảng cách bạn thực sự treo đèn là con số duy nhất cho bạn biết liệu cây của bạn có phát triển hay không.",
+  "methodology": "Chúng tôi so sánh bản đồ PPFD do nhà sản xuất công bố (xác minh chúng được đo ở khoảng cách xác định chứ không ngoại suy), nguồn cung cấp diode từ các phân tích độc lập và báo cáo chủ sở hữu đã xác minh, công suất tiêu thụ thực tế so với công suất quảng cáo, lượng nhiệt tỏa ra và quản lý nhiệt, cùng tính toán hiệu quả giá trên mỗi μmol.",
+  "recommendedFor": [
+    {
+      "label": "Cho lều trồng 2×4 ft, giai đoạn sinh dưỡng và ra hoa",
+      "offerId": "grow-light-spider-farmer-sf2000",
+      "reason": "Diode Samsung LM301B với bản đồ PPFD đã xác minh 1046 μmol/m²/s ở 18 cm, thiết kế không quạt không gây ồn ào trong không gian trồng tại nhà, và thành tích đã chứng minh với bản đồ PPFD khớp với đo lường thực tế."
+    },
+    {
+      "label": "Cho không gian trồng khởi đầu 2×2 ft hoặc 3×3 ft",
+      "offerId": "grow-light-mars-hydro-ts1000",
+      "reason": "150W tiêu thụ phủ diện tích sinh dưỡng 90×90 cm hiệu quả mà không có nhiệt lượng hay chi phí của bảng 200W+, và số liệu PPFD của Mars Hydro đã được đo kiểm tra chéo bởi máy đo của bên thứ ba."
+    },
+    {
+      "label": "Cho hệ thống trồng cây tích hợp nhà thông minh",
+      "offerId": "grow-light-ac-infinity-ionboard",
+      "reason": "Tích hợp bộ điều khiển UIS của AC Infinity cho phép lập lịch tự động, làm mờ dần và điều phối nhiều thiết bị mà không có đèn nào khác trong bài so sánh này hỗ trợ nội địa."
+    },
+    {
+      "label": "Cho PPFD chuyên nghiệp có bảo hành",
+      "offerId": "grow-light-ts-telos-0010",
+      "reason": "ThinkGrow dùng diode Osram và công bố bản đồ PPFD nghiêm ngặt nhất trong bài so sánh này — đo ở nhiều khoảng cách với dữ liệu đồng đều từ tâm đến rìa. Bảo hành 5 năm phản ánh sự tự tin về kỹ thuật."
+    },
+    {
+      "label": "Cho người trồng tiết kiệm muốn mở rộng quy mô",
+      "offerId": "grow-light-viparspectra-xs1500",
+      "reason": "Kết hợp Samsung LM301B + Osram 660nm ở $119–$159 là chất lượng diode tốt nhất trên mỗi đô la trong bài so sánh, với hỗ trợ kết nối chuỗi cho tới 15 đơn vị trên một bộ điều khiển."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Hiểu PPFD, vùng phủ và ý nghĩa của con số watt trên hộp",
+      "paragraphs": [
+        "Watt trên hộp đèn trồng cây có thể có một trong hai nghĩa: công suất tiêu thụ thực tế (đèn dùng bao nhiêu watt từ ổ điện) hoặc watt 'tương đương' hay 'có thể so sánh' (so sánh tiếp thị với đèn HPS hoặc huỳnh quang cũ hơn). Ngành đèn LED trồng cây phần lớn đã từ bỏ các tuyên bố 'watt tương đương' sau phản ứng của người tiêu dùng năm 2018-2021, nhưng một số nhà sản xuất ngân sách vẫn dùng con số tương đương phồng lên. '200W' của Spider Farmer SF2000 là tiêu thụ thực tế. Bảng ngân sách quảng cáo '2000W LED' trong cùng phân khúc giá đang dùng ngôn ngữ tương đương — tiêu thụ thực tế của nó thường là 120-200W.",
+        "PPFD (Mật độ thông lượng photon quang hợp) đo bằng μmol/m²/s là chỉ số trực tiếp dự đoán tốc độ tăng trưởng của cây. Nó đo số photon hữu ích cho quang hợp đến một mét vuông tán lá cụ thể mỗi giây. Đối với tăng trưởng sinh dưỡng, hầu hết cây hoạt động tốt ở 200-400 μmol/m²/s; đối với ra hoa, hầu hết cây ăn quả nhắm mục tiêu 600-900 μmol/m²/s; cây cần nhiều ánh sáng đạt đỉnh ở 900-1500 μmol/m²/s. Con số PPFD vô nghĩa nếu không có khoảng cách đo và vùng phủ — hãy luôn tìm bản đồ PPFD, không chỉ con số đỉnh đơn lẻ.",
+        "Độ đồng đều là chỉ số chất lượng ít được báo cáo nhất trong tiếp thị đèn trồng cây. Đèn cung cấp 1200 μmol/m²/s ở tâm diện tích phủ 2×4 ft nhưng chỉ 200 μmol/m²/s ở các góc đang cung cấp ánh sáng hữu ích cho khoảng 30% diện tích phủ được tuyên bố. PPFD đồng đều trên tán lá — nơi tỷ lệ tâm-rìa là 1,5:1 hoặc ít hơn — tạo ra cây phát triển đồng đều trên toàn diện tích. ThinkGrow Telos 0010 và AC Infinity IONBOARD là hai đèn trong bài so sánh này công bố dữ liệu đồng đều từ rìa đến tâm."
+      ]
+    },
+    {
+      "heading": "Chất lượng diode: Samsung LM301B vs LM301H EVO vs Osram vs ngân sách",
+      "paragraphs": [
+        "Cấp bậc diode đèn trồng cây quan trọng cho hiệu quả và tuổi thọ: Samsung LM301H EVO (thế hệ mới nhất, hiệu quả cao nhất ~3,2 μmol/J, AC Infinity IONBOARD S24) > Samsung LM301B (thế hệ trước, ~2,7 μmol/J, Spider Farmer SF2000 và VIPARSPECTRA XS1500) = Diode Osram (dùng trong ThinkGrow Telos 0010, phạm vi hiệu quả tương tự với hồ sơ quang phổ khác) > Diode Trung Quốc thông thường (dùng trong bảng ngân sách, thường 1,5-2,0 μmol/J, nguồn ẩn danh). Con số hiệu quả (μmol/J) cho bạn biết có bao nhiêu photon thúc đẩy tăng trưởng trên mỗi watt điện tiêu thụ.",
+        "Sự khác biệt thực tế giữa LM301B và LM301H EVO ở cấp độ người tiêu dùng: chạy bảng 200W với diode LM301B so với LM301H EVO, phiên bản EVO cung cấp khoảng 20% PPFD nhiều hơn ở cùng công suất tiêu thụ. Ở mức điện $0,15/kWh và 18 giờ chiếu sáng mỗi ngày, bảng 200W tiêu thụ khoảng $197/năm tiền điện.",
+        "Mars Hydro TS1000 và Spider Farmer SF2000 đều dùng diode Samsung LM301B. Cả hai thương hiệu đã được xác minh bởi các phân tích độc lập của bên thứ ba (các kênh như đo lường photon của Migro) là dùng diode Samsung thật thay vì hàng giả mang nhãn Samsung. Việc xác minh này quan trọng vì thị trường đèn LED trồng cây ngân sách Trung Quốc đã được ghi nhận là giao hàng đèn có nhãn Samsung giả trên diode thông thường."
+      ]
+    },
+    {
+      "heading": "Mỗi đèn phù hợp ở đâu",
+      "paragraphs": [
+        "Spider Farmer SF2000 ($189–$249) là lựa chọn tổng thể an toàn nhất cho lều trồng 2×4 ft. Diode Samsung LM301B cung cấp PPFD trung thực khớp với bản đồ đã công bố khi được xác nhận bởi máy đo PAR của bên thứ ba. Thiết kế không quạt có nghĩa là không có tiếng ồn thêm trong không gian trồng tại nhà, điều chỉnh độ sáng 0-100% cho phép quản lý quang phổ từ sinh dưỡng đến ra hoa. Điểm yếu thật sự: diode LM301B là một thế hệ sau LM301H EVO trong IONBOARD S24 — ở cùng công suất 200W, IONBOARD cung cấp khoảng 20% PPFD nhiều hơn.",
+        "Mars Hydro TS1000 ($109–$149) là lựa chọn cho không gian trồng nhỏ hơn 2×2 hoặc 3×3 ft nơi diện tích 2×4 ft của SF2000 là quá lớn. Ở 150W nó phủ diện tích sinh dưỡng 90×90 cm hiệu quả mà không có nhiệt tải của bảng 200W+, và các con số PPFD đã được đo kiểm tra chéo bởi các đo lường PAR độc lập từ Migro. Điểm yếu thật sự: ở 150W, TS1000 hoạt động kém hơn cho tán lá 2×4 ft đầy đủ ở giai đoạn ra hoa.",
+        "AC Infinity IONBOARD S24 ($199–$279) là lựa chọn cho các thiết lập trồng cây tích hợp với hệ sinh thái thông minh UIS của AC Infinity. Diode Samsung LM301H EVO là hiệu quả nhất trong bài so sánh này ở khoảng 3,2 μmol/J. Điểm yếu thật sự: bộ điều khiển UIS bán riêng và thêm $40-60 vào tổng chi phí.",
+        "ThinkGrow Telos 0010 ($249–$329) là lựa chọn xây dựng chuyên nghiệp trong bài so sánh này. Diode Osram, chứng nhận an toàn ETL/CE, bản đồ PPFD đã công bố với dữ liệu đồng đều từ rìa đến tâm, điều chỉnh 0-10V bên ngoài (tương thích với bộ điều khiển khí hậu của bên thứ ba), và bảo hành 5 năm. Điểm yếu thật sự: đèn đắt nhất trong bài so sánh này ở $249-329.",
+        "VIPARSPECTRA XS1500 ($119–$159) là chất lượng diode tốt nhất trên mỗi đô la trong bài so sánh. Samsung LM301B + Osram 660nm ở $119-159 mang lại thông số diode mà bạn mong đợi phải trả nhiều hơn đáng kể. Điểm yếu thật sự: bản đồ PPFD của VIPARSPECTRA đã được các máy đo PAR độc lập đọc thấp hơn khoảng 10-15% so với quảng cáo."
+      ]
+    },
+    {
+      "heading": "Chi phí điện và hiệu quả năng suất: ý nghĩa của các con số ở quy mô gia đình",
+      "paragraphs": [
+        "Đèn LED trồng cây 200W chạy 18 giờ mỗi ngày (quang kỳ sinh dưỡng tiêu chuẩn) tiêu thụ 3,6 kWh mỗi ngày. Ở mức điện trung bình của hộ gia đình Mỹ là $0,15/kWh, đó là $0,54/ngày hoặc $197/năm. Đây không phải là chi phí nhỏ — đối với vườn rau thơm trong nhà tạo ra tiết kiệm $10-15/tháng tiền mua thực phẩm, chi phí điện vượt quá lợi tức giá trị.",
+        "Quản lý nhiệt quan trọng ở quy mô gia đình vì đèn trồng cây trong lều hoặc tủ kín làm tăng nhiệt độ xung quanh. Đèn LED trồng cây tạo ra ít nhiệt hơn so với tương đương HPS nhưng không phải bằng không — Spider Farmer SF2000 ở toàn công suất tạo ra khoảng 35-40°C nhiệt độ không khí ở 30 cm mà không có thông gió. Không có sản phẩm nào trong năm sản phẩm trong bài so sánh này bao gồm hệ thống thông gió."
+      ]
+    }
+  ],
+  "products": [
+    {
+      "offerId": "grow-light-spider-farmer-sf2000",
+      "badge": "Tốt Nhất Tổng Thể 2×4 ft",
+      "review": "Spider Farmer SF2000 là đèn LED trồng cây 200W an toàn nhất cho lều 2×4 ft vì các tuyên bố PPFD của nó được xác nhận nhất quán bởi máy đo PAR độc lập của bên thứ ba. Diode Samsung LM301B là thật (đã xác minh qua phân tích tháo rời), thiết kế không quạt giữ không gian trồng yên tĩnh, và đầu ra phổ đầy đủ 3000K/5000K/660nm/760nm IR phủ cả giai đoạn sinh dưỡng và ra hoa trên một bảng duy nhất. Ở $189-249, giá trung bình. Điểm yếu thật sự: LM301B là một thế hệ diode sau LM301H EVO trong IONBOARD S24 — ở cùng công suất, IONBOARD cung cấp khoảng 20% PPFD nhiều hơn.",
+      "pros": [
+        "Diode Samsung LM301B đã xác minh thật qua phân tích tháo rời độc lập của bên thứ ba",
+        "Bản đồ PPFD khớp với kết quả đo PAR thực tế — tiếp thị trung thực",
+        "Thiết kế không quạt — không có tiếng ồn thêm trong không gian trồng tại nhà",
+        "IR phổ đầy đủ và 660nm đỏ cho giai đoạn ra hoa"
+      ],
+      "cons": [
+        "Diode LM301B là một thế hệ sau LM301H EVO của IONBOARD",
+        "Không tích hợp bộ điều khiển thông minh — chỉ điều chỉnh thủ công"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Công suất tiêu thụ": "200W",
+        "Diode": "Samsung LM301B",
+        "PPFD": "1046 μmol/m²/s ở 18 cm",
+        "Diện tích phủ sóng": "60×120 cm (2×4 ft)",
+        "Phổ": "3000K / 5000K / 660nm / 760nm IR",
+        "Điều chỉnh độ sáng": "0–100%",
+        "Quạt": "Không quạt (im lặng)"
+      },
+      "scores": {
+        "Đầu ra PPFD": 4.5,
+        "Chất lượng diode": 4.5,
+        "Độ đồng đều": 4.0,
+        "Giá trị": 4.5
+      }
+    },
+    {
+      "offerId": "grow-light-mars-hydro-ts1000",
+      "badge": "Tốt Nhất Cho Không Gian Nhỏ",
+      "review": "Mars Hydro TS1000 được định cỡ chính xác cho không gian trồng 2×2 hoặc 3×3 ft và bị đánh giá thấp cho ứng dụng đó. Ở 150W nó cung cấp PPFD trung thực mà các đo lường Migro độc lập của bên thứ ba xác nhận trong vòng 5-10% của các con số quảng cáo. Thiết kế không quạt và khả năng kết nối chuỗi cho phép xếp chồng nhiều đơn vị để mở rộng vùng phủ mà không cần chạy các bộ điều khiển nguồn riêng. Điểm yếu thật sự: Mars Hydro quảng cáo vùng phủ ra hoa 3×3 ft, và các thử nghiệm độc lập cho thấy PPFD đủ trên diện tích trung tâm 2,5×2,5 ft với độ giảm ở rìa.",
+      "pros": [
+        "150W tiêu thụ được định cỡ chính xác cho không gian 2×2 đến 3×3 ft — không quá lớn",
+        "Số liệu PPFD đã xác nhận trong vòng 5–10% bởi đo lường Migro của bên thứ ba độc lập",
+        "Kết nối chuỗi để mở rộng vùng phủ mà không có bộ điều khiển thêm",
+        "Thiết kế không quạt"
+      ],
+      "cons": [
+        "Tán lá sản xuất thực tế gần 2×2 ft hơn vùng phủ ra hoa 3×3 ft được quảng cáo",
+        "Thế hệ LM301B — cùng hạn chế như SF2000 so với diode EVO của IONBOARD"
+      ],
+      "grade": "A",
+      "specs": {
+        "Công suất tiêu thụ": "150W",
+        "Diode": "LED phổ đầy đủ (thế hệ Samsung LM301B)",
+        "PPFD": "882 μmol/m²/s ở 18 cm",
+        "Diện tích phủ sóng": "90×90 cm sinh dưỡng / 60×60 cm ra hoa",
+        "Phổ": "3000K / 5000K / 660nm / IR",
+        "Điều chỉnh độ sáng": "0–100%",
+        "Quạt": "Không quạt"
+      },
+      "scores": {
+        "Đầu ra PPFD": 4.0,
+        "Chất lượng diode": 4.3,
+        "Độ đồng đều": 3.8,
+        "Giá trị": 5.0
+      }
+    },
+    {
+      "offerId": "grow-light-ac-infinity-ionboard",
+      "badge": "Tích Hợp Thông Minh Tốt Nhất",
+      "review": "AC Infinity IONBOARD S24 cung cấp hiệu quả cao nhất trên mỗi watt trong bài so sánh này qua diode Samsung LM301H EVO và là đèn duy nhất ở đây tích hợp nội địa với bộ điều khiển phòng trồng thông minh. Đối với người trồng đã dùng hệ sinh thái AC Infinity, tích hợp UIS cho phép lập lịch quang kỳ tự động, chu kỳ tăng dần bình minh/hoàng hôn giảm căng thẳng cho cây, và làm mờ kích hoạt theo nhiệt độ. Điểm yếu thật sự: bộ điều khiển UIS bán riêng ở $40-60, và không có nó IONBOARD chỉ là bảng 200W cạnh tranh với giá cao cấp.",
+      "pros": [
+        "Samsung LM301H EVO — thế hệ diode hiệu quả nhất trong bài so sánh này (~3,2 μmol/J)",
+        "Tích hợp bộ điều khiển UIS nội địa để tự động hóa quang kỳ và phản ứng môi trường",
+        "Diode bổ sung đỏ/IR/UV để phủ phổ toàn diện",
+        "Chất lượng thương hiệu và hỗ trợ AC Infinity được thiết lập tốt trong danh mục"
+      ],
+      "cons": [
+        "Bộ điều khiển UIS bán riêng thêm $40–60 vào tổng chi phí",
+        "PPFD đo ở 12 cm — đầu ra hiệu quả ở độ cao lắp đặt 30 cm điển hình thấp hơn",
+        "Tích hợp thông minh chỉ có ý nghĩa nếu đã dùng hệ sinh thái AC Infinity"
+      ],
+      "grade": "A",
+      "specs": {
+        "Công suất tiêu thụ": "200W",
+        "Diode": "Samsung LM301H EVO",
+        "PPFD": "1240 μmol/m²/s ở 12 cm",
+        "Diện tích phủ sóng": "60×120 cm (2×4 ft)",
+        "Phổ": "Phổ đầy đủ + đỏ/IR/UV",
+        "Điều chỉnh độ sáng": "0–100% (bộ điều khiển UIS)",
+        "Quạt": "Không quạt"
+      },
+      "scores": {
+        "Đầu ra PPFD": 4.8,
+        "Chất lượng diode": 5.0,
+        "Độ đồng đều": 4.5,
+        "Giá trị": 3.8
+      }
+    },
+    {
+      "offerId": "grow-light-ts-telos-0010",
+      "badge": "Xây Dựng Chuyên Nghiệp Tốt Nhất",
+      "review": "ThinkGrow Telos 0010 là đèn trồng cây được thiết kế chuyên nghiệp nhất trong bài so sánh này. Diode Osram, chứng nhận an toàn ETL/CE, và bản đồ PPFD đã công bố bao gồm dữ liệu đồng đều từ rìa đến tâm — không chỉ số đỉnh tâm — làm cho đây là thông số kỹ thuật sản phẩm trung thực nhất trong bài so sánh. Điều chỉnh 0-10V tương thích với bộ điều khiển khí hậu cấp thương mại. Bảo hành 5 năm là dài nhất trong bài so sánh này. Điểm yếu thật sự: đèn đắt nhất ở đây ở $249-329.",
+      "pros": [
+        "Diode Osram với chứng nhận an toàn độc lập ETL/CE",
+        "Công bố dữ liệu PPFD đồng đều từ rìa đến tâm — thông số trung thực nhất trong bài so sánh",
+        "Điều chỉnh 0-10V bên ngoài để tích hợp bộ điều khiển khí hậu của bên thứ ba",
+        "Bảo hành 5 năm — dài nhất trong bài so sánh này"
+      ],
+      "cons": [
+        "Đèn đắt nhất trong bài so sánh ở $249–$329",
+        "Hiệu quả diode Osram tương tự LM301B, hơi thấp hơn LM301H EVO trong IONBOARD"
+      ],
+      "grade": "A",
+      "specs": {
+        "Công suất tiêu thụ": "200W",
+        "Diode": "Osram",
+        "PPFD": "1350 μmol/m²/s ở 15 cm",
+        "Diện tích phủ sóng": "60×120 cm chu kỳ đầy đủ",
+        "Phổ": "Phổ đầy đủ + UV-A + đỏ xa",
+        "Điều chỉnh độ sáng": "0–10V bên ngoài",
+        "Chứng nhận": "ETL / CE"
+      },
+      "scores": {
+        "Đầu ra PPFD": 4.8,
+        "Chất lượng diode": 4.5,
+        "Độ đồng đều": 5.0,
+        "Giá trị": 3.5
+      }
+    },
+    {
+      "offerId": "grow-light-viparspectra-xs1500",
+      "badge": "Chất Lượng Diode Tốt Nhất Trên Mỗi Đô La",
+      "review": "VIPARSPECTRA XS1500 cung cấp chất lượng diode Samsung LM301B + Osram 660nm ở $119-159 — kết hợp diode được chỉ định tốt nhất trên mỗi đô la trong bài so sánh này. Khả năng kết nối chuỗi lên đến 15 đơn vị làm cho nó là tùy chọn có thể mở rộng nhất cho người trồng đang xây dựng vùng phủ từng bước. Điểm yếu thật sự: bản đồ PPFD của VIPARSPECTRA đã được các máy đo PAR độc lập đo thấp hơn 10-15% so với quảng cáo. Bảo hành 3 năm ngắn hơn các tùy chọn Spider Farmer hoặc ThinkGrow.",
+      "pros": [
+        "Kết hợp Samsung LM301B + Osram 660nm ở mức giá thấp nhất trong bài so sánh này",
+        "Kết nối chuỗi lên đến 15 đơn vị — cấu hình có thể mở rộng nhất trong bài so sánh",
+        "Điều chỉnh 0–100% để quản lý giai đoạn sinh dưỡng và ra hoa",
+        "Bảo hành 3 năm"
+      ],
+      "cons": [
+        "Kết quả đo máy đo PAR độc lập cho thấy thấp hơn 10–15% so với PPFD quảng cáo — điều chỉnh kỳ vọng theo đó",
+        "Bảo hành 3 năm ngắn hơn tương đương Spider Farmer hoặc ThinkGrow"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Công suất tiêu thụ": "150W",
+        "Diode": "Samsung LM301B + Osram 660nm",
+        "PPFD": "904 μmol/m²/s ở 18 cm (quảng cáo; ~800 đã xác nhận)",
+        "Diện tích phủ sóng": "90×90 cm sinh dưỡng / 60×60 cm ra hoa",
+        "Phổ": "Phổ đầy đủ + 660nm đỏ",
+        "Điều chỉnh độ sáng": "0–100%",
+        "Quạt": "Không quạt"
+      },
+      "scores": {
+        "Đầu ra PPFD": 3.8,
+        "Chất lượng diode": 4.5,
+        "Độ đồng đều": 3.5,
+        "Giá trị": 5.0
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Tôi nên treo đèn LED trồng cây cách cây bao xa?",
+      "a": "Độ cao lắp đặt đúng phụ thuộc vào đầu ra PPFD của đèn ở khoảng cách đó và yêu cầu ánh sáng của cây. Đối với giai đoạn sinh dưỡng, hầu hết cây nhắm mục tiêu 200-400 μmol/m²/s — đối với bảng 200W như SF2000 có nghĩa là lắp đặt ở 40-60 cm trên tán lá. Đối với giai đoạn ra hoa, nhắm mục tiêu 600-900 μmol/m²/s, tức là 20-35 cm trên tán lá cho cùng bảng đó. Các bản đồ PPFD do Spider Farmer, Mars Hydro và ThinkGrow công bố hiển thị đầu ra ở nhiều khoảng cách khác nhau — sử dụng bản đồ để tìm khoảng cách cung cấp phạm vi PPFD mục tiêu cho giai đoạn tăng trưởng bạn đang ở. Treo quá gần gây cháy lá và stress nhiệt; quá xa làm giảm tốc độ tăng trưởng."
+    },
+    {
+      "q": "Đèn LED trồng cây 200W có đủ cho 2-3 cây tự ra hoa không?",
+      "a": "Bảng 200W trong tán lá 2×2 đến 2×3 ft (bao gồm 2-3 cây tự ra hoa được huấn luyện compact) nằm ở mức đáy của phạm vi đủ dùng cho ra hoa. Bạn sẽ đạt được thu hoạch nhưng không phải năng suất tối đa. Hướng dẫn ngành cho ra hoa nhắm mục tiêu 600-900 μmol/m²/s ở cấp độ tán lá — bảng 200W đạt điều này trong khoảng diện tích 60×60 cm ở độ cao lắp đặt 20-25 cm. Nếu mục tiêu của bạn là năng suất tối đa trên mỗi cây, 300-400W trên diện tích 2×4 ft là mục tiêu thực tế."
+    },
+    {
+      "q": "Phổ đầy đủ hay tỷ lệ đỏ-xanh cụ thể — cái nào tốt hơn cho tăng trưởng của cây?",
+      "a": "LED trắng phổ đầy đủ (3000K cho nhấn mạnh ấm/đỏ, 5000K cho mát/xanh, với bổ sung 660nm đỏ và IR) là cách tiếp cận tốt nhất được đồng thuận tính đến năm 2026 cho hầu hết ứng dụng. Thời kỳ đèn LED trồng cây đầu tiên (2010-2016) sử dụng LED đỏ-xanh 'blurple' vì các đỉnh quang hợp được biết là ở 660nm (đỏ) và 450nm (xanh) — nhưng những đèn này tạo ra cây với sự phát triển bất thường vì diệp lục cần toàn bộ phổ nhìn thấy để hoạt động enzyme bình thường. LED trắng phổ đầy đủ tạo ra cây phát triển giống như dưới mặt trời hơn, dịch thành hình dạng, hương vị và phát triển hợp chất thứ cấp tốt hơn trong cây trồng giá trị cao. Tất cả năm đèn trong bài so sánh này sử dụng LED trắng phổ đầy đủ là nguồn chính — đây là cách tiếp cận hiện tại đúng."
+    }
+  ],
+  "pinDescription": "So sánh 5 đèn LED trồng cây 2026: SF2000, TS1000, IONBOARD, Telos 0010 và XS1500. Số liệu PPFD thực, diode Samsung vs Osram, và đèn nào thực sự xứng đáng đồng tiền bỏ ra.",
+  "offerNotes": ""
+}
