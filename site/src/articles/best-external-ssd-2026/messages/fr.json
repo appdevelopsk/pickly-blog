@@ -1,0 +1,267 @@
+{
+  "title": "Meilleur SSD externe 2026 : 5 options comparées",
+  "description": "Samsung T9 (2 000/1 950 Mo/s USB 3.2 Gen 2x2, TBW 600 To, jusqu'à 4 To, ~85€/1To) vs SanDisk Extreme V2 (1 050/1 000 Mo/s USB 3.2 Gen 2, IP65, aluminium forgé, ~65€/1To) vs WD My Passport SSD (1 050/1 000 Mo/s, chiffrement AES 256 bits, ~55€/1To) vs Crucial X9 Pro (1 050/1 000 Mo/s, IP55, TBW 600 To, aluminium, ~65€/1To) vs Seagate One Touch SSD (1 030/1 000 Mo/s, Seagate Toolkit backup, ~45€/500Go). Vitesses lecture/écriture, endurance TBW, facteur de forme et réalité de l'interface USB comparés honnêtement.",
+  "lede": "Cinq SSD portables de l'entrée de gamme au premium — comparés sur les spécifications de vitesse et d'endurance qui déterminent si vous atteignez les limites de l'interface USB ou celles du NAND flash, et non sur les promesses marketing que bien des câbles ne peuvent pas tenir.",
+  "methodology": "Spécifications issues des fiches techniques publiées par les fabricants. Nous n'avons pas réalisé de tests indépendants de vitesse séquentielle en lecture/écriture ni de tests d'endurance. Les chiffres de vitesse reflètent les spécifications fabricant dans des conditions idéales avec des câbles conformes USB 3.2 Gen 2x2 ou Gen 2 — les vitesses soutenues réelles peuvent différer selon le contrôleur hôte, la qualité du câble, le thermal throttling et le type de charge de travail.",
+  "recommendedFor": [
+    {
+      "label": "Pour les utilisateurs disposant d'un port hôte USB 3.2 Gen 2x2 et de workflows sur grands fichiers",
+      "offerId": "ext-ssd-samsung-t9",
+      "reason": "2 000 Mo/s en lecture via USB 3.2 Gen 2x2 — la vitesse de SSD externe la plus élevée disponible, à condition que votre port supporte le protocole."
+    },
+    {
+      "label": "Pour une utilisation outdoor et en voyage où chutes et exposition à l'eau sont des risques réels",
+      "offerId": "ext-ssd-sandisk-extreme-v2",
+      "reason": "Résistance IP65 à l'eau et à la poussière, plus dissipateur en aluminium forgé : la protection la plus robuste dans cette gamme de prix."
+    },
+    {
+      "label": "Pour les données sensibles nécessitant un chiffrement AES matériel à bas coût",
+      "offerId": "ext-ssd-wd-my-passport",
+      "reason": "Chiffrement matériel AES 256 bits au prix le plus bas de cette comparaison pour les utilisateurs souhaitant la protection des données sans compromis sur les performances."
+    },
+    {
+      "label": "Pour les workflows à forte écriture comme la production vidéo nécessitant un TBW maximal à coût raisonnable",
+      "offerId": "ext-ssd-crucial-x9-pro",
+      "reason": "600 To TBW à 65€ (1 To) avec résistance IP55 et boîtier aluminium — endurance équivalente au Samsung T9 à moindre coût."
+    },
+    {
+      "label": "Pour les acheteurs soucieux de leur budget principalement pour la sauvegarde et les transferts basiques",
+      "offerId": "ext-ssd-seagate-one-touch",
+      "reason": "Prix le plus bas de la comparaison avec le logiciel Seagate Toolkit inclus — vitesse suffisante pour la plupart des transferts du quotidien."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Notre méthode de comparaison",
+      "paragraphs": [
+        "Nous n'avons pas réalisé de tests indépendants de vitesse séquentielle en lecture/écriture, de tests IOPS aléatoires, ni d'évaluations du thermal throttling sous charge soutenue. Des tests valides de SSD externe nécessitent des contrôleurs hôtes standardisés, une conformité câble vérifiée, une température ambiante contrôlée et plusieurs séries de tests — bien au-delà de ce que nous reproduisons ici. Ce que nous avons examiné : spécifications de vitesse et d'endurance publiées par les fabricants, mesures de transfert séquentielles et aléatoires de tiers avec méthodologie documentée, et rapports utilisateurs à long terme sur la dégradation de vitesse après épuisement du cache SLC.",
+        "Note importante : les cinq SSD utilisent l'USB-C, mais deux protocoles USB distincts — USB 3.2 Gen 2 (10 Gbps de bande passante théorique) et USB 3.2 Gen 2x2 (20 Gbps). Le Samsung T9 utilise le Gen 2x2, qui n'est pas universellement pris en charge sur les PC portables. Les quatre autres utilisent l'USB 3.2 Gen 2. Connecter un disque Gen 2x2 à un port Gen 2 ne pose pas de problème — il négocie à 10 Gbps. Mais l'avantage des 2 000 Mo/s de la T9 disparaît entièrement si votre appareil ne prend pas en charge le Gen 2x2."
+      ]
+    },
+    {
+      "heading": "USB 3.2 Gen 2 vs Gen 2x2 — la réalité de l'interface",
+      "paragraphs": [
+        "L'USB 3.2 Gen 2 fonctionne à 10 Gbps de bande passante théorique. Compte tenu du surcoût du protocole USB, la vitesse de transfert séquentiel maximale pratique est d'environ 900–1 050 Mo/s. C'est pourquoi les quatre disques Gen 2 de cette comparaison se regroupent autour de 1 000–1 050 Mo/s — ils ont atteint le plafond de l'interface, pas celui du NAND flash.",
+        "L'USB 3.2 Gen 2x2 fonctionne à 20 Gbps de bande passante théorique, avec un plafond pratique de transfert séquentiel d'environ 2 000 Mo/s. Le Samsung T9 atteint ces 2 000 Mo/s grâce au Gen 2x2. Le bémol : la prise en charge des ports hôtes Gen 2x2 n'est pas universelle. La plupart des PC portables grand public de 2022 et antérieurs ne disposent pas de ports Gen 2x2. Les MacBooks avec Thunderbolt 3/4 peuvent prendre en charge les vitesses Gen 2x2, mais cela varie selon les modèles.",
+        "Avant d'acheter le Samsung T9 spécifiquement pour ses 2 000 Mo/s, vérifiez que votre appareil hôte dispose bien d'un port USB 3.2 Gen 2x2. Recherchez explicitement « USB 3.2 Gen 2x2 » ou « USB 20 Gbps » dans la fiche technique — « USB-C » et « USB 3.0 » ne sont pas suffisants."
+      ]
+    },
+    {
+      "heading": "TBW — octets totaux écrits et pourquoi c'est important",
+      "paragraphs": [
+        "Le TBW (Total Bytes Written) est la spécification du fabricant pour le volume total d'écriture sur toute la durée de vie. Pour un usage grand public, le TBW est rarement une contrainte pratique : à 150 To TBW (Seagate One Touch) et en écrivant 50 Go par jour, un utilisateur atteint la limite en environ 8 ans.",
+        "Le TBW devient pertinent pour des charges spécifiques : production et montage vidéo avec de grands fichiers RAW écrits et réécrits à répétition, développement de jeux avec des builds fréquents, sauvegardes de bases de données. Pour ces cas d'usage, le Crucial X9 Pro et le Samsung T9 à 600 To TBW offrent une marge bien supérieure au Seagate One Touch à 150 To TBW.",
+        "Le type de NAND flash — TLC (Triple Level Cell) versus QLC (Quad Level Cell) — affecte à la fois le TBW et la vitesse d'écriture soutenue. TLC stocke 3 bits par cellule et est plus durable et plus rapide que QLC. Un TBW plus élevé pour une capacité donnée indique généralement du TLC plutôt que du QLC."
+      ]
+    },
+    {
+      "heading": "Robustesse — indices IP et résistance aux chutes",
+      "paragraphs": [
+        "Les indices IP classifient la résistance aux particules solides et aux liquides. Le premier chiffre concerne la poussière (IP6X = protection totale contre la poussière), le second l'eau (IPX5 = protection contre les jets d'eau dirigés, IPX6 = protection contre les jets d'eau puissants). L'indice IP65 du SanDisk Extreme V2 — protection totale contre la poussière et résistance aux jets d'eau dirigés — est le plus élevé de cette comparaison.",
+        "L'indice IP55 du Crucial X9 Pro couvre une protection contre la poussière résistant à la plupart des intrusions (non totale) et une résistance aux jets d'eau de toutes directions à pression inférieure à IP65. Pour la plupart des usages extérieurs dont l'exposition à la pluie en transit, les deux indices sont suffisants.",
+        "Les classements de résistance aux chutes — typiquement 2 mètres pour le SanDisk Extreme V2 — reflètent la capacité du disque à survivre à une chute sur une surface dure. Le surmoulage caoutchouc et la construction en aluminium forgé du SanDisk Extreme V2 sont conçus spécifiquement pour cette absorption d'impact."
+      ]
+    },
+    {
+      "heading": "Cache SLC et vitesse d'écriture soutenue",
+      "paragraphs": [
+        "Les disques NAND flash modernes utilisent un cache SLC (Single Level Cell) — une partie du NAND qui opère temporairement en mode 1 bit par cellule pour des vitesses d'écriture plus élevées. Lorsque le cache SLC est plein, le disque doit déplacer les données du cache vers les cellules TLC/QLC plus lentes, et la vitesse d'écriture soutenue chute.",
+        "Pour les transferts de fichiers courants — copier un film, une bibliothèque photos — le cache SLC est suffisant. Pour les charges soutenues importantes — écrire plus de 100 Go en continu — les disques épuisent leur cache SLC et la vitesse d'écriture diminue.",
+        "Le Samsung T9 inclut le Dynamic Thermal Guard pour gérer la chaleur lors des transferts soutenus. Tous les SSD portables compacts connaîtront un certain throttling thermique lors de longs transferts, particulièrement en environnement chaud."
+      ]
+    },
+    {
+      "heading": "Quel disque pour quel usage",
+      "paragraphs": [
+        "Vitesse de transfert externe maximale pour les utilisateurs disposant de ports USB 3.2 Gen 2x2 : Samsung T9. À 2 000/1 950 Mo/s sur Gen 2x2, la T9 est le SSD portable le plus rapide de la comparaison. ~85€ pour 1 To. L'avantage des 2 000 Mo/s dépend entièrement du port hôte — vérifier la prise en charge Gen 2x2 avant achat.",
+        "Usage outdoor robuste avec IP65 : SanDisk Extreme V2. La construction physiquement la plus durable de la comparaison. ~65€ pour 1 To.",
+        "Chiffrement AES matériel au prix le plus bas : WD My Passport SSD. Chiffrement sans surcoût CPU. ~55€ pour 1 To.",
+        "Workflows professionnels à forte écriture : Crucial X9 Pro. 600 To TBW (modèle 2 To) et IP55 à 65€ pour 1 To — endurance T9 sans contrainte Gen 2x2.",
+        "Sauvegarde basique et transfert de fichiers économiques : Seagate One Touch SSD. ~45€ pour 500 Go, logiciel Seagate Toolkit inclus. TBW de 150 To (modèle 1 To) est le plus bas ici, mais suffisant pour un usage grand public."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ai-je besoin de l'USB 3.2 Gen 2x2 pour obtenir la pleine vitesse du Samsung T9 ?",
+      "a": "Oui. Les 2 000 Mo/s du Samsung T9 nécessitent un port hôte USB 3.2 Gen 2x2 (20 Gbps). Connecté à un port USB 3.2 Gen 2 standard (10 Gbps) — le maximum disponible sur la plupart des PC portables — la T9 fonctionne à environ 1 000 Mo/s, comme le SanDisk Extreme V2, le WD My Passport SSD et le Crucial X9 Pro. La rétrocompatibilité est transparente. Si votre PC portable ne prend pas en charge le Gen 2x2, l'avantage de vitesse de la T9 n'existe pas pour vous."
+    },
+    {
+      "q": "Un SSD externe est-il nettement plus rapide qu'un HDD externe pour les gros transferts ?",
+      "a": "Oui, substantiellement. Les disques durs externes (HDD) sur USB transfèrent de grands fichiers séquentiels à 80–130 Mo/s. Les SSD externes commencent à 400 Mo/s pour les modèles anciens et atteignent 1 000–2 000 Mo/s pour les disques de cette comparaison. Pour un transfert de 10 Go : un HDD à 100 Mo/s prend environ 100 secondes ; un SSD à 1 000 Mo/s, environ 10 secondes."
+    },
+    {
+      "q": "Puis-je utiliser un SSD externe pour lancer des jeux directement depuis le disque ?",
+      "a": "Oui, avec des nuances. Un SSD USB 3.2 Gen 2 (1 000 Mo/s) offre un chargement des assets plus rapide qu'un HDD (100 Mo/s) mais peut ne pas égaler la pleine vitesse d'un SSD NVMe interne (3 000–7 000 Mo/s). Pour le streaming d'assets dans les jeux en monde ouvert, la vitesse USB Gen 2 est généralement suffisante. La vitesse Gen 2x2 du Samsung T9 (2 000 Mo/s) s'approche de l'extrémité la plus lente des performances NVMe interne."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "ext-ssd-samsung-t9",
+      "badge": "Transfert le plus rapide",
+      "grade": "A",
+      "review": "Le Samsung T9 est le SSD externe le plus rapide de cette comparaison avec 2 000 Mo/s en lecture et 1 950 Mo/s en écriture — sous réserve de la prise en charge du port hôte USB 3.2 Gen 2x2. Connecté à un port Gen 2 standard (10 Gbps), il performe identiquement au SanDisk Extreme V2 et au Crucial X9 Pro. Les 600 To TBW (modèle 2 To) supportent les workflows professionnels à forte écriture. Le Dynamic Thermal Guard gère la chaleur lors des transferts soutenus. Disponible jusqu'à 4 To. Le boîtier caoutchouté offre une protection basique sans indice IP. ~85€ pour 1 To.",
+      "pros": [
+        "2 000/1 950 Mo/s sur USB 3.2 Gen 2x2 — le plus rapide de la comparaison",
+        "600 To TBW sur le modèle 2 To pour les workflows à haute endurance",
+        "Dynamic Thermal Guard pour la gestion des transferts soutenus",
+        "Jusqu'à 4 To de capacité maximale"
+      ],
+      "cons": [
+        "2 000 Mo/s nécessitent un port hôte Gen 2x2 — la plupart des PC portables n'ont que le Gen 2",
+        "Pas d'indice IP de résistance à la poussière et à l'eau",
+        "Coût par To plus élevé que les alternatives Gen 2 comparables"
+      ],
+      "specs": {
+        "Vitesse de lecture": "2 000 Mo/s (USB 3.2 Gen 2x2)",
+        "Vitesse d'écriture": "1 950 Mo/s (USB 3.2 Gen 2x2)",
+        "TBW": "600 To (modèle 2 To)",
+        "Interface": "USB 3.2 Gen 2x2",
+        "Facteur de forme": "Compact, boîtier caoutchouté",
+        "Capacités": "1 To / 2 To / 4 To"
+      },
+      "scores": {
+        "Vitesse": 5.0,
+        "Endurance": 4.8,
+        "Robustesse": 3.5,
+        "Valeur": 3.8,
+        "Compatibilité": 3.5
+      }
+    },
+    {
+      "offerId": "ext-ssd-sandisk-extreme-v2",
+      "badge": "Le plus robuste",
+      "grade": "A",
+      "review": "Le SanDisk Extreme Portable SSD V2 combine résistance IP65 à la poussière et à l'eau, construction en aluminium forgé faisant office de dissipateur, résistance aux chutes de 2 mètres et performances de 1 050/1 000 Mo/s USB 3.2 Gen 2 — le SSD portable physiquement le plus durable de la comparaison. Les 200 To TBW (modèle 1 To) sont les plus faibles parmi les SSD avec des ratings d'endurance significatifs, mais suffisants pour les usages grand public. ~65€ pour 1 To.",
+      "pros": [
+        "IP65 poussière et eau — le plus élevé de la comparaison",
+        "Aluminium forgé avec dissipateur thermique et résistance aux chutes de 2 mètres",
+        "1 050/1 000 Mo/s USB 3.2 Gen 2 avec large compatibilité hôte",
+        "Disponible jusqu'à 4 To"
+      ],
+      "cons": [
+        "200 To TBW — inférieur au Samsung T9 et au Crucial X9 Pro",
+        "65€/To — plus cher que le WD My Passport SSD et Seagate",
+        "Les bords en aluminium peuvent rayer les surfaces souples dans les sacs étroits"
+      ],
+      "specs": {
+        "Vitesse de lecture": "1 050 Mo/s (USB 3.2 Gen 2)",
+        "Vitesse d'écriture": "1 000 Mo/s (USB 3.2 Gen 2)",
+        "TBW": "200 To (modèle 1 To)",
+        "Interface": "USB 3.2 Gen 2",
+        "Facteur de forme": "Aluminium forgé avec bordure caoutchoutée",
+        "Capacités": "1 To / 2 To / 4 To"
+      },
+      "scores": {
+        "Vitesse": 4.5,
+        "Endurance": 4.0,
+        "Robustesse": 5.0,
+        "Valeur": 4.3,
+        "Compatibilité": 4.8
+      }
+    },
+    {
+      "offerId": "ext-ssd-wd-my-passport",
+      "badge": "Meilleur rapport qualité-prix avec chiffrement",
+      "grade": "B+",
+      "review": "Le WD My Passport SSD offre le chiffrement matériel AES 256 bits au prix par To le plus bas parmi les disques USB Gen 2. Le chiffrement matériel s'effectue dans le contrôleur du disque sans consommer de cycles CPU. Les performances correspondent au SanDisk Extreme V2 à 1 050/1 000 Mo/s. ~55€ pour 1 To — 10€ moins cher par To que SanDisk et Crucial. Le format le plus compact de la comparaison. Pas d'indice IP et construction plastique basique.",
+      "pros": [
+        "Chiffrement matériel AES 256 bits sans coût sur les performances",
+        "55€/To — option Gen 2 la moins chère de la comparaison",
+        "Format compact pouvant tenir dans une poche",
+        "1 050/1 000 Mo/s USB 3.2 Gen 2"
+      ],
+      "cons": [
+        "Pas d'indice IP de résistance à la poussière ou à l'eau",
+        "Construction plastique basique — pas résistante aux chutes",
+        "200 To TBW — inférieur au Samsung T9 et au Crucial X9 Pro"
+      ],
+      "specs": {
+        "Vitesse de lecture": "1 050 Mo/s (USB 3.2 Gen 2)",
+        "Vitesse d'écriture": "1 000 Mo/s (USB 3.2 Gen 2)",
+        "TBW": "200 To (modèle 1 To)",
+        "Interface": "USB 3.2 Gen 2",
+        "Facteur de forme": "Compact, plastique",
+        "Capacités": "500 Go / 1 To / 2 To / 4 To"
+      },
+      "scores": {
+        "Vitesse": 4.5,
+        "Endurance": 4.0,
+        "Robustesse": 3.0,
+        "Valeur": 4.8,
+        "Compatibilité": 4.8
+      }
+    },
+    {
+      "offerId": "ext-ssd-crucial-x9-pro",
+      "badge": "Meilleure endurance par euro",
+      "grade": "A",
+      "review": "Le Crucial X9 Pro égale le Samsung T9 sur le TBW (600 To sur le modèle 2 To) tout en fonctionnant sur l'interface universellement prise en charge USB 3.2 Gen 2 sans contrainte de port hôte. ~65€ pour 1 To — même prix que le SanDisk Extreme V2, mais avec 600 To TBW contre 200 To — un avantage d'endurance 3x au même coût. IP55 plus construction aluminium. 1 050/1 000 Mo/s au plafond du Gen 2.",
+      "pros": [
+        "600 To TBW — égale le Samsung T9 à moindre prix sans exigence Gen 2x2",
+        "Résistance IP55 à la poussière et à l'eau avec boîtier aluminium",
+        "1 050/1 000 Mo/s USB 3.2 Gen 2 sur interface universellement prise en charge",
+        "Disponible jusqu'à 4 To"
+      ],
+      "cons": [
+        "IP55 vs IP65 du SanDisk — légèrement moins robuste pour les conditions extrêmes",
+        "65€/To n'est pas l'option la moins chère ici"
+      ],
+      "specs": {
+        "Vitesse de lecture": "1 050 Mo/s (USB 3.2 Gen 2)",
+        "Vitesse d'écriture": "1 000 Mo/s (USB 3.2 Gen 2)",
+        "TBW": "600 To (modèle 2 To)",
+        "Interface": "USB 3.2 Gen 2",
+        "Facteur de forme": "Aluminium compact",
+        "Capacités": "1 To / 2 To / 4 To"
+      },
+      "scores": {
+        "Vitesse": 4.5,
+        "Endurance": 4.8,
+        "Robustesse": 4.3,
+        "Valeur": 4.6,
+        "Compatibilité": 4.8
+      }
+    },
+    {
+      "offerId": "ext-ssd-seagate-one-touch",
+      "badge": "Meilleur budget",
+      "grade": "B",
+      "review": "Le Seagate One Touch SSD est l'option d'entrée de gamme de cette comparaison — le prix de base le plus bas et le logiciel Seagate Toolkit inclus. Performances de 1 030/1 000 Mo/s dans la plage USB 3.2 Gen 2. TBW de 150 To (modèle 1 To) est le plus bas ici — suffisant pour les sauvegardes grand public typiques, pas adapté aux workflows professionnels à forte écriture. Capacité maximale de 2 To la plus basse. ~45€ pour 500 Go.",
+      "pros": [
+        "Prix d'entrée le plus bas de la comparaison",
+        "Logiciel Seagate Toolkit inclus",
+        "1 030/1 000 Mo/s USB 3.2 Gen 2 — égale les options plus chères",
+        "Châssis métallique compact"
+      ],
+      "cons": [
+        "150 To TBW — endurance la plus faible, pas pour les workflows à forte écriture",
+        "Pas d'indice IP de résistance à la poussière ou à l'eau",
+        "Capacité maximale de 2 To — plafond le plus bas de la comparaison"
+      ],
+      "specs": {
+        "Vitesse de lecture": "1 030 Mo/s (USB 3.2 Gen 2)",
+        "Vitesse d'écriture": "1 000 Mo/s (USB 3.2 Gen 2)",
+        "TBW": "150 To (modèle 1 To)",
+        "Interface": "USB 3.2 Gen 2",
+        "Facteur de forme": "Compact, métal",
+        "Capacités": "500 Go / 1 To / 2 To"
+      },
+      "scores": {
+        "Vitesse": 4.4,
+        "Endurance": 3.5,
+        "Robustesse": 3.0,
+        "Valeur": 4.7,
+        "Compatibilité": 4.8
+      }
+    }
+  ],
+  "offerNotes": {
+    "ext-ssd-samsung-t9": "2 000 Mo/s nécessitent un port hôte USB 3.2 Gen 2x2 — vérifiez que votre appareil prend en charge l'USB 20 Gbps avant d'acheter pour la vitesse.",
+    "ext-ssd-sandisk-extreme-v2": "Indice IP65 vérifié ; utilisez un câble USB-C adapté à la vitesse de transfert pour obtenir les 1 050 Mo/s complets.",
+    "ext-ssd-wd-my-passport": "Le chiffrement matériel nécessite une configuration initiale du mot de passe via WD Discovery — sans configuration, le disque fonctionne non chiffré par défaut.",
+    "ext-ssd-crucial-x9-pro": "Les 600 To TBW correspondent au modèle 2 To — le modèle 1 To a un TBW inférieur ; vérifiez la page produit pour le TBW spécifique à chaque capacité.",
+    "ext-ssd-seagate-one-touch": "Seagate Toolkit disponible pour Windows et macOS ; compatibilité Time Machine sur macOS prise en charge sans logiciel supplémentaire."
+  },
+  "pinDescription": "5 SSD externes comparés pour 2026 — Samsung T9 2000 Mo/s Gen2x2 vs SanDisk Extreme IP65 robuste vs WD My Passport chiffré AES vs Crucial X9 Pro 600 To TBW vs Seagate One Touch économique. La vérité sur l'USB, le TBW et les limites de vitesse réelles."
+}
