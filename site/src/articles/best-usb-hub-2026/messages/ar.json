@@ -1,0 +1,234 @@
+{
+  "title": "أفضل موزع USB 2026: 5 خيارات مقارنة",
+  "description": "من CalDigit TS4 (موصل Thunderbolt 4، 18 منفذ بما فيها 2.5GbE، شحن مضيف 98W، DisplayPort، USB-C 10Gbps، 3× USB-A 10Gbps) إلى Anker 564 USB-C Hub (7 في 1، USB-C 10Gbps، 4K HDMI، 85W PD، USB-A 3.0، قارئ بطاقة SD) إلى Satechi V3 Multi-Port Adapter (USB-C 10Gbps، 4K 60Hz HDMI، 100W PD pass-through، SD/microSD، USB-A 3.0، Ethernet) إلى Elecom U3HC-A430BBK (سوق يابانية، 4× USB-A 3.1 Gen1، USB-C 60W PD، ألومنيوم، متوفر على نطاق واسع) و Plugable UD-6950Z (موصل DisplayLink USB-C/USB-A، شاشات 4K مزدوجة، 100W PD، Gigabit Ethernet، 6× USB-A). تمت مقارنة خمسة موزعات على عدد المنافذ، سرعة بيانات USB-C، قوة Power Delivery، قدرة الإخراج إلى الشاشة، والتوفر في بيع التجزئة اليابان.",
+  "lede": "خمسة موزعات USB وموصلات — من CalDigit TS4 الذي يمثل معيار Thunderbolt 4 الاحترافي إلى موزع Elecom الذي يمكنك شراؤه من أي Yodobashi اليوم إلى Anker 564 الذي يغطي 90٪ من الاحتياجات بجزء من السعر. الفرق بين موزع وموصل أهم من عدد المنافذ.",
+  "methodology": "تم تقييم كل منتج مقابل المواصفات الموثقة والمعايير من جهات خارجية والتقارير المعتمدة من المستخدمين. لقد قمنا بتسجيل عدد وتنوع المنافذ، ومعدل نقل بيانات USB-C (USB 3.2 Gen2 مقابل Thunderbolt 4)، وقوة Power Delivery pass-through، وقدرة إخراج الشاشة، والتوفر في السوق اليابانية.",
+  "recommendedFor": [
+    {
+      "label": "لمستخدمي MacBook Pro الذين يحتاجون إلى أداء Thunderbolt 4",
+      "offerId": "usb-hub-caldigit-ts4",
+      "reason": "يوفر اتصال Thunderbolt 4 في CalDigit TS4 معدل نقل 40Gbps لتخزين NVMe والشاشات المزدوجة 6K وشحن المضيف 98W بالتزامن."
+    },
+    {
+      "label": "للمسافرين الذين يحتاجون إلى موزع صغير الحجم شامل",
+      "offerId": "usb-hub-anker-564-usb-c",
+      "reason": "يغطي Anker 564 HDMI و USB-A و بيانات USB-C و قارئ بطاقة SD و Power Delivery pass-through 85W في عامل شكل محمول بدون طاقة منفصلة."
+    },
+    {
+      "label": "لمشتري اليابان الذين يحتاجون إلى شراء موزع في نفس اليوم",
+      "offerId": "usb-hub-elecom-jp",
+      "reason": "توفر Elecom U3HC-A430BBK في Yodobashi Camera و Bic Camera توسع موثوق من USB-C إلى USB-A بـ 60W PD."
+    },
+    {
+      "label": "لإعدادات الشاشات المزدوجة على جهاز كمبيوتر يعمل بنظام Windows غير Thunderbolt",
+      "offerId": "usb-hub-plugable-ud-6950z",
+      "reason": "يستخدم Plugable UD-6950Z تقنية DisplayLink لتشغيل شاشات 4K مزدوجة من أي منفذ USB-C أو USB-A بدون Thunderbolt."
+    },
+    {
+      "label": "لجماليات مكتب نظيفة مع 100W PD و Ethernet",
+      "offerId": "usb-hub-satechi-v3-multiport",
+      "reason": "يوفر Satechi V3 قوة Power Delivery pass-through 100W و HDMI 4K 60Hz و Ethernet و قارئ بطاقة SD في محول ألومنيوم رفيع."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "كيف قارننا",
+      "paragraphs": [
+        "لم نقم بقياس سرعات نقل بيانات USB بشكل مستقل باستخدام ملفات موحدة عبر جميع المنتجات الخمسة، أو قياس دقة قوة Power Delivery تحت الحمل. اختبار موزع USB الدقيق يتطلب محلل بروتوكول USB لقياس معدل النقل الفعلي مقابل المواصفات المعلنة، ومقياس قوة دقيق للتحقق من قوة PD المعلنة تحت حمل الشحن المستدام — لم نكرر أي منهما هنا.",
+        "بدلاً من ذلك: قمنا بمراجعة مواصفات الشركة المصنعة لعدد المنافذ والجيل من USB وقوة Power Delivery وقدرة إخراج الشاشة. عمدنا إلى المراجع المتقاطعة مع المعايير المنشورة من Ars Technica و The Verge ووسائل الإعلام التقنية اليابانية (Gigazine و PC Watch) حيث تتوفر قياسات سرعة نقل مستقلة. قمنا بتجميع مراجعات المستخدمين طويلة الأجل من Amazon JP و Rakuten Ichiba والمصادر الدولية — نبحث تحديداً عن تقارير مشاكل مشاركة عرض النطاق الترددي من USB و أعطال شحن PD و ارتفاع درجة حرارة موزع تحت الحمل المستمر و مشاكل توافق Thunderbolt مع أجهزة كمبيوتر محمولة مضيفة محددة.",
+        "يعتبر التمييز بين موزع وموصل مهماً لهذه المقارنة. موزع USB يوسع عدد المنافذ بدون اتصال مضيف مزود بالطاقة — يسحب الطاقة من المضيف عبر اتصال USB ولا يوفر شحن ذا معنى للمضيف. يضيف محول متعدد المنافذ إخراج الشاشة وقارئات بطاقات، عادةً مع Power Delivery pass-through لشحن المضيف. يوفر الموصل إمدادات طاقة خاصة به، ويشحن المضيف، ويمكنه تشغيل شاشات متعددة بشكل مستقل. CalDigit TS4 هو موصل. Anker 564 و Satechi V3 هما محولات متعددة المنافذ. تحتل Elecom و Plugable UD-6950Z الوسط — موزعات مزودة بالطاقة مع قدرة إخراج الشاشة. يوفر فهم الفئة التي تحتاجها قبل الشراء توفير عائد."
+      ]
+    },
+    {
+      "heading": "ما الذي تغير في 2026",
+      "paragraphs": [
+        "ظهرت منتجات USB4 Version 2 (80Gbps) لكنها ليست السوق الرئيسي بعد بنقاط سعرية معقولة. يظل Thunderbolt 4 عند 40Gbps الحد الأقصى العملي لموصلات المستهلك في هذه المقارنة، مع USB4 80Gbps المحدودة لمنتجات محطات العمل عالية الجودة فوق ¥50,000. بالنسبة لمعظم المستخدمين الذين يملكون MacBook Pro أو أجهزة كمبيوتر محمولة بنظام Windows مع منافذ Thunderbolt 4، فإن سقف 40Gbps من Thunderbolt 4 ليس عنق الزجاجة بالنسبة لمحركات NVMe الخارجية الحالية أو إعدادات الشاشات.",
+        "أصبحت قوة Power Delivery pass-through 100W معيار في ¥10,000 وما فوق. في 2024، كانت قوة PD pass-through 65W و 85W شائعة في منتصف النطاق. بحلول 2026، 100W هو التوقع في أي محول أو موصل فوق ¥10,000. الصلة: يتطلب MacBook Pro 16-inch تحت الحمل الكامل للمعالج حوالي 96W — موصل يوفر فقط 65W PD سيشحن الكمبيوتر المحمول لكن البطارية ستفرغ ببطء تحت الحمل الثقيل. يغطي 100W MacBook Pro 16-inch تحت الحمل المستدام بدون نزف البطارية.",
+        "أصبح DisplayLink حلاً قابلاً للتطبيق لتطبيقات الشاشة المزدوجة للأجهزة غير Thunderbolt Macs وأجهزة Windows. التكنولوجيا — التي تقوم بترميز إخراج الشاشة كبيانات USB بدلاً من إشارة الفيديو — كانت سابقاً تواجه مشاكل في الكمون والسلاسة. بحلول 2026، أصبح دعم شرائح DisplayLink 6950Z محسّناً بما يكفي بحيث يكون 4K 60Hz على شاشتين عبر DisplayLink سلسة للعمل والإبداع، على الرغم من عدم التوصية به لتحرير الفيديو أو الألعاب. تستخدم Plugable UD-6950Z هذه مجموعة الشرائح وهي الحل في متناول الجميع للشاشة المزدوجة لـ MacBook Air أو أجهزة Windows بدون Thunderbolt."
+      ]
+    },
+    {
+      "heading": "حيث يناسب كل منها",
+      "paragraphs": [
+        "موصل Thunderbolt 4، 18 منفذ، شحن مضيف 98W، 2.5GbE، 3× USB-A 10Gbps، 2× USB-C 10Gbps، DisplayPort، قارئ بطاقة SD: CalDigit TS4. TS4 هو معيار موصل Thunderbolt 4 الاحترافي. تتضمن منافذها الـ 18 Gigabit Ethernet بـ 2.5 (الذي يتجاوز Gigabit القياسي على الشبكات التي تدعمه)، ثلاث منافذ USB-A 3.2 Gen 2 بسرعة 10Gbps لكل منها، منفذا USB-C 3.2 Gen 2، DisplayPort 1.4، وقارئ بطاقة SD. يوفر 98W لشحن MacBook Pro 16-inch تحت الحمل. بحوالي ¥55,000–¥70,000 فهي الخيار الأكثر تكلفة في هذه المقارنة بهامش كبير. المقايضات الصادقة: السعر مبرر فقط إذا كنت تستخدم معظم المنافذ الـ 18؛ يتطلب منفذ Thunderbolt 4 أو USB4 على المضيف — أجهزة كمبيوتر محمولة USB 3.2 ستحصل على اتصال USB-C لكن ليس معدل النقل الكامل 40Gbps؛ إنه كبير (حوالي 175 مم طول) وأفضل مناسب لإعداد مكتب دائم بدلاً من مجموعة السفر.",
+        "محول متعدد المنافذ مزود بـ 7 في 1، بيانات USB-C 10Gbps، 4K HDMI، 85W PD، USB-A 3.0، قارئ بطاقة SD، صغير: Anker 564 USB-C Hub. Anker 564 هو الإجابة للمستخدمين الذين يحتاجون إلى شاشة HDMI واحدة وتوسع USB-A و وصول قارئ بطاقة SD و Power Delivery pass-through في عامل شكل محمول بدون إمدادات طاقة منفصلة. Bus-powered تعني أنها تسحب من الكمبيوتر المحمول — لا توجد كابل إضافي أو محول جدار مطلوب للموزع نفسه. يكفي 85W PD pass-through لـ MacBook Air ومعظم أجهزة كمبيوتر 13-inch محمولة تحت الحمل الطبيعي (يتطلب MacBook Pro 14-inch 96W المستدام، الذي سيشحن بسرعة بطيئة). بحوالي ¥6,000–¥9,000 فهو أفضل خيار بسعر في هذه المقارنة للسفر. المقايضات الصادقة: بيانات USB-C 10Gbps لكنها مشتركة عبر جميع المنافذ — الاستخدام المتزامن لمنافذ USB-A 3.0 المتعددة يقلل من معدل النقل الفردي؛ بدون Ethernet؛ HDMI محدود لـ 4K 30Hz في بعض تكوينات المضيف بدلاً من 60Hz.",
+        "USB-C 10Gbps، 4K 60Hz HDMI، 100W PD pass-through، Gigabit Ethernet، SD/microSD، USB-A 3.0، ألومنيوم رفيع: Satechi V3 Multi-Port Adapter. Satechi V3 هو محول متعدد المنافذ نظيف المكتب — ألومنيوم رفيع يطابق جماليات MacBook، 100W PD pass-through (يغطي MacBook Pro 16-inch تحت الحمل)، 4K 60Hz HDMI، Gigabit Ethernet، وقارئات البطاقات في عامل شكل مزود بالطاقة من الحافلة. بحوالي ¥14,000–¥18,000 فهي في منتصف النطاق السعري. المقايضات الصادقة: Satechi هي علامة تجارية أمريكية تتطلب استيراد إلى اليابان — غير متوفرة في متاجر الإلكترونيات اليابانية؛ تعني Bus-powered أنها تسحب من جهاز التحكم USB-C للمضيف وقد تسبب نزاع النطاق الترددي تحت الاستخدام الثقيل المتزامن لجميع المنافذ؛ إخراج HDMI واحد فقط.",
+        "يابان سوق، 4× USB-A 3.1 Gen1 (5Gbps لكل منها)، USB-C 60W PD pass-through، ألومنيوم، Yodobashi/Bic Camera stocked: Elecom U3HC-A430BBK. موزع Elecom هو الإجابة العملية في سوق اليابان للمستخدمين الذين يحتاجون إلى توسع USB-A بالإضافة إلى شحن pass-through بدون إخراج الشاشة. أربعة منافذ USB-A بسرعة 5Gbps لكل منها تتعامل مع معظم المحيطات بما فيها محركات خارجية والمفاتيح وقارئات البطاقات. يشحن 60W PD pass-through MacBook Air ومعظم أجهزة كمبيوتر 13-inch محمولة بسرعة كاملة. بحوالي ¥4,000–¥6,000 فهي ثاني أقل سعر في هذه المقارنة. متاح في نفس اليوم في Yodobashi Camera و Bic Camera. المقايضات الصادقة: بدون HDMI، بدون Ethernet، بدون قارئ بطاقة SD — موزع Elecom يتعلق بتوسع USB-A بالإضافة إلى الشحن، لا شيء أكثر؛ 60W PD غير كافٍ لـ MacBook Pro 16-inch تحت الحمل الكامل.",
+        "DisplayLink مزدوج 4K، متوافق مع USB-C و USB-A، 100W PD، Gigabit Ethernet، 6× USB-A، Windows + macOS: Plugable UD-6950Z. يستخدم Plugable UD-6950Z شرائح DisplayLink 6950Z لتشغيل شاشات 4K 60Hz مزدوجة من أي منفذ USB-C أو USB-A 3.0 — بدون Thunderbolt. يجعل هذا الحل الوحيد للشاشة المزدوجة في هذه المقارنة يمكن الوصول إليه من MacBook Air (التي لا توجد بها منفذ Thunderbolt 4 في الأجيال الأقدم)، أجهزة Windows مع USB 3.2 فقط، و MacBook Pro عندما لا تتوفر موصلات Thunderbolt-based مضافة. يتطلب تثبيت برنامج تشغيل DisplayLink (متاح لـ macOS و Windows). بحوالي ¥25,000–¥35,000 فهو مكلف لموصل غير Thunderbolt. المقايضات الصادقة: يتطلب DisplayLink تثبيت برنامج تشغيل ويضيف حمل CPU (حوالي 5–10٪ بواسطة CPU للشاشات 4K المزدوجة بـ 60Hz)؛ الكمون والسلاسة مناسبة للمكتب لكن ليست مناسبة للألعاب أو تحرير الفيديو بمعدل إطار عالي؛ تحديثات برنامج التشغيل في بعض الأحيان تقدم مشاكل العرض التي تتطلب الانتظار للإصدار التالي."
+      ]
+    },
+    {
+      "heading": "الحكم",
+      "paragraphs": [
+        "بالنسبة لـ MacBook Pro 16-inch مستخدم الطاقة مع منفذ Thunderbolt 4 الذي يحتاج إلى كل شيء في كابل واحد: CalDigit TS4. يبرر شحن المضيف 98W و 2.5GbE وعدد المنافذ 18 سعر ¥55,000–¥70,000 إذا كنت تستخدم بشكل روتيني محركات NVMe خارجية وعدة محيطات USB وشاشة بشكل متزامن. إذا كنت تستخدم أقل من 8 منافذ بشكل منتظم، هناك إجابات أرخص.",
+        "للسفر أو إعداد مكتب خفيف حيث تحتاج إلى شاشة واحدة بالإضافة إلى USB-A وقارئ بطاقة: Anker 564 USB-C Hub. Bus-powered، ¥6,000–¥9,000، يناسب جيب السترة. قبول سقف 85W PD لمستخدمي MacBook Air والنطاق الترددي المشترك تحت الاستخدام الثقيل المتزامن.",
+        "بالنسبة لإعداد MacBook مقيد بالمكتب حيث تهمك جماليات الكابل وتحتاج إلى Ethernet: Satechi V3. يستحق 100W PD و 4K 60Hz HDMI تكلفة الاستيراد إذا كان الألومنيوم الرقيق المطابق لون MacBook الخاص بك مهماً لك. اشترِ وقبول أنك تستورد.",
+        "بالنسبة لشراء التجزئة اليابان اليوم بدون إخراج الشاشة المطلوب: Elecom U3HC-A430BBK. ادخل إلى Yodobashi Camera. ¥4,000–¥6,000. أربعة منافذ USB-A بالإضافة إلى 60W PD. بالنسبة لمستخدمي MacBook Air أو أي شخص يحتاج فقط إلى توسع USB-A، هذه هي الإجابة الكاملة.",
+        "لشاشة مزدوجة من MacBook Air أو كمبيوتر محمول يعمل بنظام Windows غير Thunderbolt: Plugable UD-6950Z. ثبت برنامج تشغيل DisplayLink، قبول 5–10٪ بواسطة CPU، وستحصل على شاشات 4K مزدوجة من منفذ USB-C الذي ينقصه Thunderbolt. إنها الطريقة الوحيدة للقيام بذلك بشكل موثوق في 2026 بدون Thunderbolt."
+      ]
+    }
+  ],
+  "products": [
+    {
+      "offerId": "usb-hub-caldigit-ts4",
+      "badge": "الأفضل بشكل عام",
+      "grade": "A+",
+      "review": "CalDigit TS4 هو معيار موصل Thunderbolt 4 الاحترافي — 18 منفذ، شحن مضيف 98W، Gigabit Ethernet 2.5، 3× USB-A 10Gbps، 2× USB-C 10Gbps، Thunderbolt 4 downstream، DisplayPort 1.4، قارئ بطاقة SD، وزوج منفذ USB-A و USB-C أمامي للوصول السهل إلى المحيطات. يتعامل كابل Thunderbolt 4 الفردي إلى الكمبيوتر المحمول مع البيانات والشحن وإخراج الشاشة بالتزامن. بحوالي ¥55,000–¥70,000 فهي الخيار الأكثر تكلفة في هذه المقارنة. الضعف الصادق: السعر مبرر فقط إذا تم استخدام معظم منافذ 18؛ يتطلب منفذ مضيف Thunderbolt 4 لمعدل النقل الكامل؛ كبير الحجم المادي (برج 175 مم) بالنسبة لإعداد دائم — ليس خيار محمول.",
+      "pros": [
+        "18 منفذ بما فيها 2.5GbE، 3× USB-A 10Gbps، Thunderbolt 4 downstream، قارئ بطاقة SD",
+        "شحن مضيف 98W — يغطي MacBook Pro 16-inch تحت حمل CPU المستدام",
+        "كابل Thunderbolt 4 واحد يتعامل مع البيانات والعرض والشحن بالتزامن",
+        "Gigabit Ethernet 2.5 يتجاوز Gigabit القياسي على الشبكات المدعومة"
+      ],
+      "cons": [
+        "¥55,000–¥70,000 يتطلب استخدام معظم المنافذ لتبرير التكلفة",
+        "عامل شكل برج كبير 175 مم — إعداد دائم مقيد بالمكتب فقط"
+      ],
+      "specs": {
+        "Connection": "Thunderbolt 4 (40Gbps)",
+        "Host charging": "98W Power Delivery",
+        "Ethernet": "2.5 Gigabit",
+        "USB-A ports": "3× USB-A 10Gbps + 1× front USB-A 10Gbps",
+        "Display output": "DisplayPort 1.4 + Thunderbolt display daisy-chain"
+      },
+      "scores": {
+        "Port count": 5,
+        "USB-C speed": 5,
+        "Power Delivery": 5,
+        "Japan availability": 3
+      }
+    },
+    {
+      "offerId": "usb-hub-anker-564-usb-c",
+      "badge": "الأفضل للسفر",
+      "grade": "A",
+      "review": "Anker 564 USB-C Hub هو موزع 7 في 1 مزود بالطاقة من الحافلة للمستخدمين الذين يحتاجون إلى شاشة واحدة بالإضافة إلى توسع USB-A في عامل شكل محمول. منفذ بيانات USB-C 10Gbps، إخراج HDMI 4K، 85W PD pass-through، منفذا USB-A 3.0، قارئات بطاقة SD و microSD. Bus-powered — لا يلزم محول جدار إضافي أو كابل للموزع نفسه. بحوالي ¥6,000–¥9,000 فهو ثاني أقل سعر في هذه المقارنة. الضعف الصادق: 85W PD كافٍ لـ MacBook Air لكن حدي لـ MacBook Pro 14-inch تحت الحمل المستدام؛ قد يكون إخراج HDMI محدود لـ 4K 30Hz بدلاً من 60Hz في بعض تكوينات جهاز تحكم USB-C للمضيف؛ Bus-powered يعني أن النطاق الترددي USB مشترك عبر جميع المنافذ بالتزامن.",
+      "pros": [
+        "Bus-powered — لا يلزم محول جدار إضافي",
+        "7 منافذ: USB-C 10Gbps، HDMI، 85W PD، 2× USB-A 3.0، SD، microSD",
+        "¥6,000–¥9,000 — قيمة قوية لموزع محمول شامل",
+        "عامل شكل صغير يناسب جيب حقيبة كمبيوتر محمول"
+      ],
+      "cons": [
+        "85W PD حدي لـ MacBook Pro 14-inch تحت الحمل المستدام",
+        "HDMI محدود لـ 4K 30Hz في بعض تكوينات جهاز التحكم USB-C للمضيف"
+      ],
+      "specs": {
+        "Connection": "USB-C (USB 3.2 Gen 2, 10Gbps)",
+        "Host charging": "85W Power Delivery pass-through",
+        "Display output": "4K HDMI",
+        "USB-A ports": "2× USB-A 3.0",
+        "Card readers": "SD + microSD"
+      },
+      "scores": {
+        "Port count": 3,
+        "USB-C speed": 4,
+        "Power Delivery": 3,
+        "Japan availability": 4
+      }
+    },
+    {
+      "offerId": "usb-hub-satechi-v3-multiport",
+      "badge": "الأفضل لجماليات مكتب نظيفة",
+      "grade": "A",
+      "review": "Satechi V3 Multi-Port Adapter يوفر 100W PD pass-through، 4K 60Hz HDMI، Gigabit Ethernet، قارئات بطاقة SD/microSD، و USB-A 3.0 في عامل شكل ألومنيوم رفيع مصمم لمطابقة متغيرات لون MacBook Pro و MacBook Air. عند 100W PD فهو محول متعدد المنافذ الوحيد مزود بالطاقة من الحافلة في هذه المقارنة الذي يغطي MacBook Pro 16-inch تحت الحمل. Gigabit Ethernet إضافة مهمة عبر Anker 564 للمستخدمين على شبكات سلكية. بحوالي ¥14,000–¥18,000 فهو في منتصف النطاق السعري. الضعف الصادق: استيراد أمريكي مطلوب — غير مخزن في متاجر الإلكترونيات اليابانية؛ Bus-powered مع مشاركة النطاق الترددي تحت الاستخدام الثقيل المتزامن؛ إخراج HDMI واحد فقط.",
+      "pros": [
+        "100W PD pass-through — يغطي MacBook Pro 16-inch تحت الحمل المستدام",
+        "4K 60Hz HDMI output + Gigabit Ethernet في محول مزود بالطاقة من الحافلة",
+        "ألومنيوم رفيع يطابق متغيرات لون MacBook Pro و Air",
+        "منافذ SD/microSD + USB-A 3.0 في محول واحد"
+      ],
+      "cons": [
+        "استيراد أمريكي مطلوب — غير متوفر في سلاسل بيع الإلكترونيات اليابانية",
+        "مشاركة النطاق الترددي Bus-powered تحت استخدام المنفذ الثقيل المتزامن"
+      ],
+      "specs": {
+        "Connection": "USB-C (USB 3.2 Gen 2, 10Gbps)",
+        "Host charging": "100W Power Delivery pass-through",
+        "Display output": "4K 60Hz HDMI",
+        "Ethernet": "Gigabit",
+        "Card readers": "SD + microSD"
+      },
+      "scores": {
+        "Port count": 4,
+        "USB-C speed": 4,
+        "Power Delivery": 5,
+        "Japan availability": 2
+      }
+    },
+    {
+      "offerId": "usb-hub-elecom-jp",
+      "badge": "الأفضل لسوق اليابان",
+      "grade": "B",
+      "review": "Elecom U3HC-A430BBK هو موزع USB العملي في سوق اليابان: 4× منافذ USB-A 3.1 Gen1 بسرعة 5Gbps لكل منها، USB-C 60W PD pass-through، بناء ألومنيوم، مخزن في Yodobashi Camera و Bic Camera. بالنسبة للمستخدمين الذين يحتاجون إلى توسع USB-A وشحن كمبيوتر محمول بدون إخراج عرض أو Ethernet، يغطي هذا المتطلب في ¥4,000–¥6,000 مع توفر بيع تجزئة مادي في نفس اليوم. الضعف الصادق: بدون HDMI، بدون Ethernet، بدون قارئ بطاقة SD؛ 60W PD غير كافٍ لـ MacBook Pro 16-inch تحت حمل CPU الكامل؛ منافذ USB-A بسرعة 5Gbps (USB 3.1 Gen1) بدلاً من 10Gbps (Gen2) للبدائل المميزة.",
+      "pros": [
+        "متاح في نفس اليوم في Yodobashi Camera و Bic Camera — لا يلزم استيراد",
+        "4× USB-A 3.1 Gen1 (5Gbps لكل منها) + USB-C 60W PD في موزع واحد",
+        "بناء ألومنيوم مع عامل شكل صغير",
+        "¥4,000–¥6,000 — أقل سعر خالي من الاستيراد في المقارنة"
+      ],
+      "cons": [
+        "بدون HDMI، بدون Ethernet، بدون قارئ بطاقة SD — توسع USB-A فقط",
+        "60W PD غير كافٍ لـ MacBook Pro 16-inch تحت حمل CPU الكامل"
+      ],
+      "specs": {
+        "Connection": "USB-C",
+        "Host charging": "60W Power Delivery pass-through",
+        "USB-A ports": "4× USB-A 3.1 Gen1 (5Gbps)",
+        "Display output": "None",
+        "Retail availability": "Yodobashi Camera, Bic Camera, Amazon JP"
+      },
+      "scores": {
+        "Port count": 3,
+        "USB-C speed": 3,
+        "Power Delivery": 3,
+        "Japan availability": 5
+      }
+    },
+    {
+      "offerId": "usb-hub-plugable-ud-6950z",
+      "badge": "الأفضل للشاشات المزدوجة (بدون Thunderbolt)",
+      "grade": "B+",
+      "review": "Plugable UD-6950Z يستخدم تقنية DisplayLink 6950Z لتشغيل شاشات 4K 60Hz مزدوجة من أي منفذ USB-C أو USB-A 3.0 بدون Thunderbolt — مما يجعلها الحل الوحيد للشاشة المزدوجة في هذه المقارنة يمكن الوصول إليه من MacBook Air (بدون Thunderbolt 4) أو أجهزة Windows غير Thunderbolt. بالإضافة إلى ذلك توفر شحن مضيف 100W PD، Gigabit Ethernet، 6× منافذ USB-A، و بيانات USB-C 10Gbps. يتطلب تثبيت برنامج تشغيل DisplayLink على macOS و Windows. بحوالي ¥25,000–¥35,000 فهي ثاني أعلى سعر في هذه المقارنة. الضعف الصادق: برنامج تشغيل DisplayLink يضيف 5–10٪ بواسطة CPU أثناء الاستخدام النشط للشاشة المزدوجة؛ تحديثات برنامج التشغيل في بعض الأحيان تقدم مشاكل التوافق التي تتطلب الانتظار للإصدار التالي؛ السلاسة مناسبة للمكتب لكن ليست مثالية لتحرير الفيديو أو الألعاب.",
+      "pros": [
+        "شاشات 4K 60Hz مزدوجة من أي منفذ USB-C أو USB-A — لا يلزم Thunderbolt",
+        "شحن مضيف 100W PD + Gigabit Ethernet + 6× USB-A + بيانات USB-C 10Gbps",
+        "يعمل مع MacBook Air و أجهزة Windows غير Thunderbolt و أجهزة مضيف USB-A",
+        "شريحة DisplayLink 6950Z — محسّنة من أجيال DisplayLink السابقة"
+      ],
+      "cons": [
+        "تثبيت برنامج تشغيل DisplayLink مطلوب — يضيف 5–10٪ بواسطة CPU",
+        "تحديثات برنامج التشغيل في بعض الأحيان تقدم مشاكل التوافق"
+      ],
+      "specs": {
+        "Connection": "USB-C or USB-A 3.0",
+        "Display output": "Dual 4K 60Hz (DisplayLink)",
+        "Host charging": "100W Power Delivery",
+        "Ethernet": "Gigabit",
+        "USB-A ports": "6× USB-A"
+      },
+      "scores": {
+        "Port count": 5,
+        "USB-C speed": 3,
+        "Power Delivery": 5,
+        "Japan availability": 3
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "ما هو الفرق بين موزع USB ومحول متعدد المنافذ وموصل؟",
+      "a": "موزع USB يوسع عدد المنافذ باستخدام الطاقة من الحافلة من المضيف — يسحب الطاقة التشغيلية من اتصال USB الكمبيوتر المحمول ولا يوفر شحن ذا معنى مرة أخرى. مناسب لإضافة لوحة مفاتيح أو ماوس أو تخزين USB منخفض الطاقة. محول متعدد المنافذ يضيف إخراج عرض (HDMI أو DisplayPort) وغالباً ما يكون Power Delivery pass-through، مما يسمح بشحن الكمبيوتر المحمول المضيف عبر المحول. Anker 564 و Satechi V3 في هذه المقارنة عبارة عن محولات متعددة المنافذ. يوفر الموصل إمدادات الطاقة الخاصة به (مربع الطاقة الخارجي)، ويوفر شحن مضيف عالي القوة، يمكنه تشغيل شاشات متعددة بشكل مستقل، ويوزع النطاق الترددي بفعالية أكبر عبر العديد من المنافذ بالتزامن. CalDigit TS4 هو موصل. يعتبر التمييز مهماً: إذا قمت بتوصيل محول متعدد المنافذ 65W إلى MacBook Pro 16-inch تحت الحمل، ستفرغ البطارية لأن المحول لا يمكنه توفير طاقة كافية. موصل بـ 96W+ شحن مضيف يتعامل مع هذا بشكل صحيح."
+    },
+    {
+      "q": "هل يحتاج كمبيوتري إلى Thunderbolt لكي تعمل هذه الموزعات؟",
+      "a": "يعتمد على الموزع. CalDigit TS4 يتطلب منفذ Thunderbolt 4 أو USB4 على المضيف لتوفير معدل نقل كامل 40Gbps. إذا تم توصيله عبر منفذ USB 3.2 Gen2 قياسي، فإنه يعمل كموزع USB بمعدل نقل مخفض. Anker 564 و Satechi V3 يعملان بسرعة كاملة من أي منفذ USB 3.2 Gen2 (10Gbps) USB-C — لا يلزم Thunderbolt. موزع Elecom يعمل من أي منفذ USB-C. Plugable UD-6950Z هو الأكثر سماحاً — يعمل من أي منفذ USB 3.0 USB-C أو USB-A، بما فيها منافذ USB 3.0 على MacBook Air القديم (M1/M2/M3 بدون Thunderbolt 4) وأجهزة Windows، لأن DisplayLink يرمز إشارة الشاشة كبيانات USB بدلاً من إخراج فيديو أصلي. إذا كان لديك MacBook Air (بدون Thunderbolt 4) أو كمبيوتر محمول يعمل بنظام Windows مع USB 3.2 فقط، فإن Plugable هو الخيار الوحيد هنا الذي يمكنه تشغيل شاشتين خارجيتين."
+    },
+    {
+      "q": "ما مقدار Power Delivery الذي يحتاجه كمبيوتري بالفعل؟",
+      "a": "تحقق من قوة شاحن كمبيوترك المضمن كنقطة البداية. MacBook Air 13-inch يأتي مع شاحن 30W — موزع 60W PD يشحنه بسرعة كاملة مع هامش. MacBook Air 15-inch يأتي مع شاحن 35W — 60W PD يغطيه. MacBook Pro 14-inch يأتي مع شاحن 67W — موزع 85W PD يغطي الاستخدام الطبيعي، لكن تحت حمل CPU و GPU المستدام (تجميع ثقيل، تقديم فيديو)، يمكن للكمبيوتر المحمول أن يتجاوز 85W بإيجاز وستفرغ البطارية ببطء. MacBook Pro 16-inch يأتي مع شاحن 140W — فقط موصل يوفر 96W+ PD (مثل CalDigit TS4 بـ 98W) يغطيه تحت حمل كامل مستدام. بالنسبة لأجهزة كمبيوتر Windows: تحقق من القوة على المحول المضمن. موزع يوفر قوة PD مساوية أو أعلى من المحول المضمن يشحن بالكامل تحت الاستخدام الطبيعي. موزع يوفر قوة أقل من شاحن المضمن يشحن الكمبيوتر المحمول لكن قد يتباطأ أو يفرغ ببطء تحت الحمل الثقيل."
+    }
+  ],
+  "pinDescription": "5 موزعات USB مقارنة لسنة 2026 — CalDigit TS4 Thunderbolt 4 pro dock مقابل Anker 564 travel bus-powered مقابل Satechi V3 100W PD Ethernet مقابل Elecom Japan available مقابل Plugable dual 4K no Thunderbolt needed. Hub vs dock شرح. إدارة الكابلات تبدأ هنا.",
+  "offerNotes": ""
+}

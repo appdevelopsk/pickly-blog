@@ -1,0 +1,234 @@
+{
+  "title": "最佳USB集線器2026：5種選項比較",
+  "description": "從CalDigit TS4（Thunderbolt 4擴展塢、18個端口、2.5GbE、98W主機充電、DisplayPort、USB-C 10Gbps、3×USB-A 10Gbps）到Anker 564 USB-C集線器（7合1、USB-C 10Gbps、4K HDMI、85W PD、USB-A 3.0、SD卡讀卡器），再到Satechi V3多端口適配器（USB-C 10Gbps、4K 60Hz HDMI、100W PD通透、SD/microSD、USB-A 3.0、乙太網）、Elecom U3HC-A430BBK（日本市場、4×USB-A 3.1 Gen1、USB-C 60W PD、鋁製、廣泛供應）和Plugable UD-6950Z（USB-C/USB-A DisplayLink擴展塢、雙4K顯示器、100W PD、千兆乙太網、6×USB-A）。五款集線器比較端口數、USB-C數據速度、供電瓦數、顯示輸出能力和日本零售可用性。",
+  "lede": "五款USB集線器和擴展塢——從CalDigit TS4（專業Thunderbolt 4基準）到任何Yodobashi都能買到的Elecom集線器，再到Anker 564（以零售價格滿足90%需求）。集線器和擴展塢的區別比端口數更重要。",
+  "methodology": "每款產品根據發佈的規格、第三方基準和驗證用戶評論進行評估。評分標準包括端口數和種類、USB-C數據吞吐量（USB 3.2 Gen2與Thunderbolt 4）、供電通透瓦數、顯示輸出能力和日本市場可用性。",
+  "recommendedFor": [
+    {
+      "label": "對於需要Thunderbolt 4性能的MacBook Pro用戶",
+      "offerId": "usb-hub-caldigit-ts4",
+      "reason": "CalDigit TS4的Thunderbolt 4連接提供40Gbps帶寬，用於NVMe存儲、雙6K顯示器和98W主機充電。"
+    },
+    {
+      "label": "對於需要緊湊一體化集線器的旅行者",
+      "offerId": "usb-hub-anker-564-usb-c",
+      "reason": "Anker 564在便攜式無源供電形態中涵蓋HDMI、USB-A、USB-C數據、SD卡讀卡器和85W PD。"
+    },
+    {
+      "label": "對於需要當日購買集線器的日本用戶",
+      "offerId": "usb-hub-elecom-jp",
+      "reason": "Elecom U3HC-A430BBK在Yodobashi攝像機和Bic攝像機有現貨，提供可靠的USB-C轉USB-A擴展和60W PD。"
+    },
+    {
+      "label": "對於非Thunderbolt Windows PC上的雙顯示器設置",
+      "offerId": "usb-hub-plugable-ud-6950z",
+      "reason": "Plugable UD-6950Z使用DisplayLink技術驅動任何USB-C或USB-A端口上的雙4K顯示器，無需Thunderbolt。"
+    },
+    {
+      "label": "對於具有100W PD和乙太網的清潔桌面美感",
+      "offerId": "usb-hub-satechi-v3-multiport",
+      "reason": "Satechi V3提供100W PD通透、4K 60Hz HDMI、乙太網和SD卡讀卡器，採用纖細鋁製多端口適配器。"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "我們如何進行比較",
+      "paragraphs": [
+        "我們沒有使用標準化文件在所有五款產品上獨立基準測試USB數據傳輸速度，也沒有在負載下測量供電瓦數精度。嚴格的USB集線器測試需要USB協議分析儀來測量實際數據吞吐量與評級規格的對比，以及精密瓦特表來驗證在持續充電負載下聲稱的PD瓦數——我們在這裡沒有重現兩者。",
+        "相反：我們查閱製造商規格中的端口數、USB代數、供電瓦數和顯示輸出能力。我們與Ars Technica、The Verge和日本科技媒體（Gigazine、PC Watch）發佈的基準進行交叉引用，其中存在獨立的傳輸速度測量。我們彙總了Amazon JP、Rakuten Ichiba和國際來源的長期用戶評論——特別尋找有關USB帶寬共享問題、PD充電故障、在持續負載下集線器過熱和特定主機筆記本電腦的Thunderbolt兼容性問題的報告。",
+        "集線器與擴展塢的區別對此比較很重要。USB集線器擴展端口數，無需供電的主機連接——它從USB連接中吸取主機的電源，不向主機提供有意義的充電。多端口適配器添加顯示輸出和卡讀卡器，通常具有供電通透以為主機充電。擴展塢提供自己的電源供應、為主機充電，並可獨立驅動多個顯示器。CalDigit TS4是擴展塢。Anker 564和Satechi V3是多端口適配器。Elecom和Plugable UD-6950Z處於中間——具有顯示輸出能力的供電集線器。在購買前了解您需要的類別可以節省退貨。"
+      ]
+    },
+    {
+      "heading": "2026年有什麼改變",
+      "paragraphs": [
+        "USB4版本2（80Gbps）產品已出現，但在合理價位上還未成為主流。Thunderbolt 4在40Gbps下仍然是此比較中消費級擴展塢的實際最大值，USB4 80Gbps限於¥50,000以上的高端工作站產品。對於大多數使用Thunderbolt 4端口的MacBook Pro或Windows筆記本電腦的用戶，Thunderbolt 4的40Gbps上限對於當前外部NVMe驅動器或顯示設置不是瓶頸。",
+        "100W供電通透已在¥10,000及以上成為標準。在2024年，65W和85W PD通透在中層很常見。到2026年，100W已成為¥10,000以上任何適配器或擴展塢的預期。相關性：MacBook Pro 16英寸在滿CPU負載下大約需要96W——一個只提供65W PD的擴展塢將為筆記本電腦供電，但電池在重負載下會緩慢耗盡。100W在不電池耗盡的情況下涵蓋MacBook Pro 16英寸的持續負載。",
+        "DisplayLink已成為非Thunderbolt Mac和Windows機器的可行雙顯示器解決方案。該技術——將顯示輸出編碼為USB數據而非視頻信號——以前存在延遲和視頻平滑性問題。到2026年，DisplayLink 6950Z芯片支持已改進，足以使兩個顯示器上的4K 60Hz通過DisplayLink平滑用於辦公和創意工作，儘管不建議用於視頻編輯或遊戲。Plugable UD-6950Z使用此芯片組，是MacBook Air或沒有Thunderbolt的Windows機器的可訪問雙顯示器解決方案。"
+      ]
+    },
+    {
+      "heading": "每款產品的定位",
+      "paragraphs": [
+        "Thunderbolt 4擴展塢、18個端口、98W主機充電、2.5GbE、3×USB-A 10Gbps、2×USB-C 10Gbps、DisplayPort、SD卡：CalDigit TS4。TS4是專業Thunderbolt 4擴展塢基準。其18個端口包括2.5千兆乙太網（在支持它的網絡上超過標準千兆），三個10Gbps的USB-A 3.2 Gen 2端口、兩個USB-C 3.2 Gen 2端口、DisplayPort 1.4和SD卡讀卡器。它提供98W為MacBook Pro 16英寸在負載下充電。在大約¥55,000–¥70,000，它是此比較中價格最高的選項，差距很大。誠實的權衡：價格只有在您使用大多數18個端口時才合理；它需要主機上的Thunderbolt 4或USB4端口——USB 3.2筆記本電腦將獲得USB-C連接但不獲得完整的40Gbps帶寬；它很大（大約175毫米高）並更適合永久桌面設置而非旅行套件。",
+        "7合1無源供電多端口適配器、USB-C 10Gbps數據、4K HDMI、85W PD、USB-A 3.0、SD卡讀卡器、緊湊：Anker 564 USB-C集線器。Anker 564是答案，適用於需要一個HDMI顯示器、USB-A擴展、SD卡訪問和供電通透的便攜式形態，不需要自己的電源供應的用戶。無源供電意味著它從筆記本電腦吸取——集線器本身無需額外電纜或牆上適配器。85W PD通透足以應對MacBook Air和大多數13英寸筆記本電腦的正常負載（MacBook Pro 14英寸需要96W持續，這將緩慢充電）。在大約¥6,000–¥9,000，它是此比較中旅行的最佳價格選項。誠實的權衡：USB-C數據是10Gbps但在所有端口間共享——同時使用多個USB-A 3.0端口會降低個體吞吐量；無乙太網；在某些主機配置上HDMI限於4K 30Hz而非60Hz。",
+        "USB-C 10Gbps、4K 60Hz HDMI、100W PD通透、千兆乙太網、SD/microSD、USB-A 3.0、纖細鋁製：Satechi V3多端口適配器。Satechi V3是清潔桌面多端口適配器——纖細鋁製與MacBook美學相配、100W PD通透（涵蓋MacBook Pro 16英寸在負載下）、4K 60Hz HDMI、千兆乙太網和卡讀卡器採用無源供電形態。在大約¥14,000–¥18,000，它是中等價格。誠實的權衡：Satechi是美國品牌，需要進口日本——在日本電子連鎖店沒有提供；無源供電意味著它從主機的USB-C控制器吸取並可能在同時大量使用所有端口時造成帶寬爭用；只有一個HDMI輸出。",
+        "日本市場、4×USB-A 3.1 Gen1（各5Gbps）、USB-C 60W PD通透、鋁製、Yodobashi/Bic攝像機有現貨：Elecom U3HC-A430BBK。Elecom集線器是日本市場務實答案，適用於需要USB-A擴展加通透充電但無需顯示輸出的用戶。四個USB-A端口各5Gbps處理大多數外圍設備，包括外部驅動器、鍵盤和卡讀卡器。60W PD通透以全速為MacBook Air和大多數13英寸筆記本電腦充電。在大約¥4,000–¥6,000，它是此比較中第二低的價格。在Yodobashi攝像機和Bic攝像機可當日購買。誠實的權衡：無HDMI、無乙太網、無SD卡讀卡器——Elecom集線器是USB-A擴展加充電，僅此而已；60W PD對於MacBook Pro 16英寸在滿負載下不足。",
+        "DisplayLink雙4K、USB-C和USB-A兼容、100W PD、千兆乙太網、6×USB-A、Windows + macOS：Plugable UD-6950Z。Plugable UD-6950Z使用DisplayLink 6950Z芯片從任何USB-C或USB-A 3.0端口驅動兩個4K 60Hz顯示器——無需Thunderbolt。這使它成為此比較中唯一可從MacBook Air訪問的雙顯示器解決方案（舊世代沒有Thunderbolt 4端口）、只有USB 3.2的Windows機器和MacBook Pro（當沒有可用的第二個Thunderbolt擴展塢時）。需要DisplayLink驅動程序安裝（可用於macOS和Windows）。在大約¥25,000–¥35,000，它對於非Thunderbolt擴展塢是昂貴的。誠實的權衡：DisplayLink驅動程序添加CPU開銷（在雙4K 60Hz顯示器活躍使用中大約5–10% CPU開銷）；延遲和平滑度適合辦公但不適合遊戲或高幀速率視頻編輯；驅動程序更新偶爾引入顯示問題，需要等待下一個版本。"
+      ]
+    },
+    {
+      "heading": "結論",
+      "paragraphs": [
+        "對於具有Thunderbolt 4端口的MacBook Pro 16英寸電源用戶需要一根電纜中的一切：CalDigit TS4。98W主機充電、2.5GbE和18端口計數在¥55,000–¥70,000的價格上合理化，如果您定期使用外部NVMe驅動器、多個USB外圍設備和顯示器。如果您定期使用少於8個端口，有更便宜的答案。",
+        "對於旅行或需要一個顯示器加USB-A和卡讀卡器的輕量級桌面設置：Anker 564 USB-C集線器。無源供電、¥6,000–¥9,000、放入夾克口袋。接受MacBook Air用戶的85W PD上限和在重型同時使用下的共享帶寬。",
+        "對於桌面MacBook設置，其中電纜美感很重要，您需要乙太網：Satechi V3。100W PD和4K 60Hz HDMI值得進口成本，如果纖細鋁製與您的MacBook顏色相配很重要。購買它並接受您正在進口。",
+        "對於今日日本零售購買，無需顯示輸出：Elecom U3HC-A430BBK。走進Yodobashi攝像機。¥4,000–¥6,000。四個USB-A端口加60W PD。對於MacBook Air用戶或任何只需要USB-A擴展的人，這是完整答案。",
+        "對於來自MacBook Air或非Thunderbolt Windows筆記本電腦的雙顯示器：Plugable UD-6950Z。安裝DisplayLink驅動程序、接受5–10%的CPU開銷，您從缺乏Thunderbolt的USB-C端口有兩個4K監視器。這是2026年無Thunderbolt可靠地執行此操作的唯一方式。"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "offerId": "usb-hub-caldigit-ts4",
+      "badge": "最佳整體",
+      "grade": "A+",
+      "review": "CalDigit TS4是專業Thunderbolt 4擴展塢基準——18個端口、98W主機充電、2.5千兆乙太網、3×USB-A 10Gbps、2×USB-C 10Gbps、Thunderbolt 4下行、DisplayPort 1.4、SD卡讀卡器，以及前USB-A和USB-C端口對，便於外圍設備訪問。到筆記本電腦的單Thunderbolt 4電纜同時處理數據、充電和顯示輸出。在大約¥55,000–¥70,000，它是此比較中最昂貴的選項。誠實的弱點：價格只有在大多數18個端口被使用時合理；需要主機Thunderbolt 4端口實現完整帶寬；大物理足跡（175毫米塔形式），適合永久桌面——不是便攜選項。",
+      "pros": [
+        "18個端口，包括2.5GbE、3×USB-A 10Gbps、Thunderbolt 4下行、SD卡",
+        "98W主機充電——涵蓋MacBook Pro 16英寸在持續CPU負載下",
+        "單Thunderbolt 4電纜同時處理數據、顯示和充電",
+        "2.5千兆乙太網在支持的網絡上超過標準千兆"
+      ],
+      "cons": [
+        "¥55,000–¥70,000需要使用大多數端口來合理化成本",
+        "大175毫米塔形式——僅桌面綁定永久設置"
+      ],
+      "specs": {
+        "連接": "Thunderbolt 4（40Gbps）",
+        "主機充電": "98W供電",
+        "乙太網": "2.5千兆",
+        "USB-A端口": "3×USB-A 10Gbps + 1×前USB-A 10Gbps",
+        "顯示輸出": "DisplayPort 1.4 + Thunderbolt顯示菊鏈"
+      },
+      "scores": {
+        "端口數": 5,
+        "USB-C速度": 5,
+        "供電": 5,
+        "日本可用性": 3
+      }
+    },
+    {
+      "offerId": "usb-hub-anker-564-usb-c",
+      "badge": "最佳旅行選擇",
+      "grade": "A",
+      "review": "Anker 564 USB-C集線器是7合1無源供電集線器，適用於需要一個顯示器加USB-A擴展採用便攜形態的用戶。USB-C 10Gbps數據端口、4K HDMI輸出、85W PD通透、兩個USB-A 3.0端口、SD和microSD卡讀卡器。無源供電——集線器本身無需額外牆上適配器或電纜。在大約¥6,000–¥9,000，它是此比較中第二低的價格。誠實的弱點：85W PD對MacBook Air足夠但對MacBook Pro 14英寸在持續負載下邊際；HDMI輸出在某些主機配置上可能限於4K 30Hz而非60Hz取決於USB-C控制器；無源供電意味著USB帶寬在所有端口間共享同時。",
+      "pros": [
+        "無源供電——無需額外牆上適配器",
+        "7個端口：USB-C 10Gbps、HDMI、85W PD、2×USB-A 3.0、SD、microSD",
+        "¥6,000–¥9,000——便攜式一體化集線器的強大價值",
+        "緊湊形態放入筆記本電腦包側口袋"
+      ],
+      "cons": [
+        "85W PD對MacBook Pro 14英寸在持續負載下邊際",
+        "HDMI在某些主機USB-C控制器配置上限於4K 30Hz"
+      ],
+      "specs": {
+        "連接": "USB-C（USB 3.2 Gen 2、10Gbps）",
+        "主機充電": "85W供電通透",
+        "顯示輸出": "4K HDMI",
+        "USB-A端口": "2×USB-A 3.0",
+        "卡讀卡器": "SD + microSD"
+      },
+      "scores": {
+        "端口數": 3,
+        "USB-C速度": 4,
+        "供電": 3,
+        "日本可用性": 4
+      }
+    },
+    {
+      "offerId": "usb-hub-satechi-v3-multiport",
+      "badge": "最佳清潔桌面美學",
+      "grade": "A",
+      "review": "Satechi V3多端口適配器提供100W PD通透、4K 60Hz HDMI、千兆乙太網、SD/microSD卡讀卡器和USB-A 3.0採用纖細鋁製形態，設計與MacBook Pro和MacBook Air顏色變體相配。在100W PD它是此比較中唯一無源供電多端口適配器涵蓋MacBook Pro 16英寸在負載下。千兆乙太網對於有線網絡的用戶是超過Anker 564的重要補充。在大約¥14,000–¥18,000，它是中等價格。誠實的弱點：需要美國進口——在日本電子零售連鎖店無現貨；無源供電在重型同時使用下的共享帶寬；單HDMI輸出。",
+      "pros": [
+        "100W PD通透——涵蓋MacBook Pro 16英寸在持續負載下",
+        "4K 60Hz HDMI輸出+無源供電適配器中的千兆乙太網",
+        "纖細鋁製與MacBook Pro和Air顏色變體相配",
+        "SD/microSD + USB-A 3.0端口在一個適配器中"
+      ],
+      "cons": [
+        "需要美國進口——在日本電子零售連鎖店無提供",
+        "無源供電在同時重型端口使用下的帶寬共享"
+      ],
+      "specs": {
+        "連接": "USB-C（USB 3.2 Gen 2、10Gbps）",
+        "主機充電": "100W供電通透",
+        "顯示輸出": "4K 60Hz HDMI",
+        "乙太網": "千兆",
+        "卡讀卡器": "SD + microSD"
+      },
+      "scores": {
+        "端口數": 4,
+        "USB-C速度": 4,
+        "供電": 5,
+        "日本可用性": 2
+      }
+    },
+    {
+      "offerId": "usb-hub-elecom-jp",
+      "badge": "最佳日本市場",
+      "grade": "B",
+      "review": "Elecom U3HC-A430BBK是日本市場務實USB集線器：各5Gbps的4×USB-A 3.1 Gen1端口、USB-C 60W PD通透、鋁製構造、在Yodobashi攝像機和Bic攝像機有現貨。對於需要USB-A擴展和筆記本電腦充電而無顯示輸出或乙太網的用戶，這以¥4,000–¥6,000的無進口當日物理零售可用性涵蓋要求。誠實的弱點：無HDMI、無乙太網、無SD卡讀卡器；60W PD對MacBook Pro 16英寸在滿CPU負載下不足；USB-A端口各5Gbps（USB 3.1 Gen1）而非高級替代品的10Gbps（Gen2）。",
+      "pros": [
+        "在Yodobashi攝像機和Bic攝像機當日可購——無進口所需",
+        "4×USB-A 3.1 Gen1（各5Gbps）+ USB-C 60W PD在一個集線器中",
+        "鋁製構造具有緊湊形態",
+        "¥4,000–¥6,000——比較中最低的無進口價格"
+      ],
+      "cons": [
+        "無HDMI、無乙太網、無SD卡讀卡器——USB-A擴展專用",
+        "60W PD對MacBook Pro 16英寸在滿CPU負載下不足"
+      ],
+      "specs": {
+        "連接": "USB-C",
+        "主機充電": "60W供電通透",
+        "USB-A端口": "4×USB-A 3.1 Gen1（5Gbps）",
+        "顯示輸出": "無",
+        "零售可用性": "Yodobashi攝像機、Bic攝像機、Amazon JP"
+      },
+      "scores": {
+        "端口數": 3,
+        "USB-C速度": 3,
+        "供電": 3,
+        "日本可用性": 5
+      }
+    },
+    {
+      "offerId": "usb-hub-plugable-ud-6950z",
+      "badge": "最佳雙顯示器（無需Thunderbolt）",
+      "grade": "B+",
+      "review": "Plugable UD-6950Z使用DisplayLink 6950Z技術從任何USB-C或USB-A 3.0端口驅動雙4K 60Hz顯示器而無Thunderbolt——使它成為此比較中唯一可從MacBook Air（無Thunderbolt 4）或非Thunderbolt Windows機器訪問的雙顯示器解決方案。另外提供100W PD主機充電、千兆乙太網、6×USB-A端口和USB-C 10Gbps數據。需要在macOS和Windows上進行DisplayLink驅動程序安裝。在大約¥25,000–¥35,000，它是此比較中第二高的價格。誠實的弱點：DisplayLink驅動程序在活躍雙顯示器使用中添加5–10% CPU開銷；驅動程序更新偶爾引入兼容性問題需要等待下一個版本；平滑度適合辦公但不理想用於視頻編輯或遊戲。",
+      "pros": [
+        "從任何USB-C或USB-A端口的雙4K 60Hz顯示器——無需Thunderbolt",
+        "100W PD主機充電+千兆乙太網+6×USB-A + USB-C 10Gbps",
+        "與MacBook Air、非Thunderbolt Windows筆記本電腦和USB-A主機相容",
+        "DisplayLink 6950Z芯片——相比早期DisplayLink世代改進"
+      ],
+      "cons": [
+        "DisplayLink驅動程序安裝所需——添加5–10% CPU開銷",
+        "驅動程序更新偶爾引入兼容性問題"
+      ],
+      "specs": {
+        "連接": "USB-C或USB-A 3.0",
+        "顯示輸出": "雙4K 60Hz（DisplayLink）",
+        "主機充電": "100W供電",
+        "乙太網": "千兆",
+        "USB-A端口": "6×USB-A"
+      },
+      "scores": {
+        "端口數": 5,
+        "USB-C速度": 3,
+        "供電": 5,
+        "日本可用性": 3
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "USB集線器、多端口適配器和擴展塢之間的區別是什麼？",
+      "a": "USB集線器使用主機的總線電源擴展端口數——它從筆記本電腦的USB連接吸取其運行電力，並不向後提供有意義的充電。適合添加鍵盤、滑鼠或低功率USB存儲。多端口適配器添加顯示輸出（HDMI或DisplayPort），通常具有供電通透，允許主機筆記本電腦通過適配器充電。此比較中的Anker 564和Satechi V3是多端口適配器。擴展塢有自己的電源供應（外部電源磚）、提供高瓦數主機充電、可獨立驅動多個顯示器，並在許多端口間更有效地分配帶寬。CalDigit TS4是擴展塢。區別很重要：如果您將65W適配器多端口集線器連接到負載下的MacBook Pro 16英寸，電池將耗盡因為適配器不能供應足夠電力。具有96W+主機充電的擴展塢正確處理此項。"
+    },
+    {
+      "q": "我的筆記本電腦是否需要Thunderbolt才能使用這些集線器？",
+      "a": "取決於集線器。CalDigit TS4需要主機上的Thunderbolt 4或USB4端口來提供完整40Gbps帶寬。通過標準USB 3.2 Gen2端口連接時，它作為降低帶寬的USB集線器運行。Anker 564和Satechi V3從任何USB 3.2 Gen2（10Gbps）USB-C端口以滿額定速度運行——無需Thunderbolt。Elecom集線器從任何USB-C端口運行。Plugable UD-6950Z最寬容——它從任何USB 3.0 USB-C或USB-A端口運行，包括舊MacBook Air和Windows機器上的USB 3.0端口，因為DisplayLink將顯示信號編碼為USB數據而非本機視頻輸出。如果您有MacBook Air（M1/M2/M3無Thunderbolt 4）或只有USB 3.2的Windows筆記本電腦，Plugable是此列表中唯一可驅動兩個外部顯示器的選項。"
+    },
+    {
+      "q": "我的筆記本電腦實際上需要多少供電？",
+      "a": "檢查您筆記本電腦包含的充電器瓦數作為起點。MacBook Air 13英寸附帶30W充電器——60W PD集線器以全速為其充電有餘。MacBook Air 15英寸附帶35W充電器——60W PD涵蓋它。MacBook Pro 14英寸附帶67W充電器——85W PD集線器涵蓋正常使用，但在持續CPU和GPU負載下（重型編譯、視頻渲染），筆記本電腦可能短暫超過85W，電池將緩慢耗盡。MacBook Pro 16英寸附帶140W充電器——只有擴展塢提供96W+ PD（如CalDigit TS4在98W）在滿持續負載下涵蓋它。對於Windows筆記本電腦：檢查包含適配器上的瓦數。提供等於或高於PD瓦數的集線器在正常使用下充分充電。提供低於包含充電器的瓦數的集線器為筆記本電腦充電但在重負載下可能減速或緩慢耗盡。"
+    }
+  ],
+  "pinDescription": "2026年5款USB集線器比較——CalDigit TS4 Thunderbolt 4專業擴展塢 vs Anker 564旅行無源供電 vs Satechi V3 100W PD乙太網 vs Elecom日本可購買 vs Plugable雙4K無需Thunderbolt。集線器與擴展塢解釋。電纜管理從這裡開始。",
+  "offerNotes": ""
+}
