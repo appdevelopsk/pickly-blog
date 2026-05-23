@@ -51,15 +51,32 @@ function listArticleSlugs(): string[] {
     .sort();
 }
 
+const ALL_LOCALES = ["en", "ja", "ko", "zh-CN", "zh-TW", "de", "fr", "es", "pt-BR", "it", "ru", "ar", "hi", "id", "th", "vi", "tr"];
+const OUT_DIR = path.resolve(__dirname, "../out");
+
+// Pre-cache built slugs per locale with a single readdirSync per locale
+function buildLocaleArticleSet(): Map<string, Set<string>> {
+  const map = new Map<string, Set<string>>();
+  for (const locale of ALL_LOCALES) {
+    const dir = path.join(OUT_DIR, locale, "articles");
+    try { map.set(locale, new Set(fs.readdirSync(dir))); }
+    catch { map.set(locale, new Set()); }
+  }
+  return map;
+}
+
 function buildUrls(slugs: string[]): string[] {
-  const locales = ["en", "ja", "ko", "zh-CN", "zh-TW", "de", "fr", "es", "pt-BR", "it", "ru", "ar", "hi", "id", "th", "vi", "tr"];
+  const builtArticles = buildLocaleArticleSet();
   const urls: string[] = [
     `${SITE_URL}/`,
-    ...locales.map((l) => `${SITE_URL}/${l}/`),
+    ...ALL_LOCALES.map((l) => `${SITE_URL}/${l}/`),
+    ...ALL_LOCALES.map((l) => `${SITE_URL}/${l}/articles/`),
   ];
   for (const slug of slugs) {
-    for (const locale of ["en", "ja"]) {
-      urls.push(`${SITE_URL}/${locale}/articles/${slug}/`);
+    for (const locale of ALL_LOCALES) {
+      if (builtArticles.get(locale)?.has(slug)) {
+        urls.push(`${SITE_URL}/${locale}/articles/${slug}/`);
+      }
     }
   }
   return urls;
@@ -106,6 +123,8 @@ async function main() {
   }
 
   let ok = 0;
+  let consecutiveFails = 0;
+  let backoffMs = 3_000;
   for (let i = 0; i < newUrls.length; i += BATCH_SIZE) {
     const batch = newUrls.slice(i, i + BATCH_SIZE);
     const batchNum = Math.floor(i / BATCH_SIZE) + 1;
@@ -116,12 +135,19 @@ async function main() {
       ok += batch.length;
       console.log(`✓ Batch ${batchNum}: ${batch.length} URLs`);
       saveState(state);
+      consecutiveFails = 0;
+      backoffMs = 3_000;
     } else {
       console.error(`✗ Batch ${batchNum} failed`);
+      consecutiveFails++;
+      if (consecutiveFails >= 5) {
+        console.error(`⚠ 連続5回失敗。Yandex の rate-limit と判定して停止します。明日再実行してください。`);
+        break;
+      }
+      backoffMs = Math.min(backoffMs * 2, 60_000);
     }
-    // Rate limit: Bing enforces per-minute quotas; wait between batches
     if (i + BATCH_SIZE < newUrls.length) {
-      await new Promise((r) => setTimeout(r, 3_000));
+      await new Promise((r) => setTimeout(r, backoffMs));
     }
   }
 

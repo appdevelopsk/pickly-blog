@@ -5,7 +5,9 @@
  *   - Pinterest Standard access granted (Trial では拒否される)
  *   - PINTEREST_ACCESS_TOKEN set in env (~/.config/pickly/pinterest.env)
  *   - PINTEREST_DEFAULT_BOARD_ID set (fallback for all boards)
- *   - PINTEREST_BOARD_FITNESS, PINTEREST_BOARD_FOOD, PINTEREST_BOARD_HOME_KITCHEN (optional; override per board)
+ *   - PINTEREST_BOARD_FITNESS, PINTEREST_BOARD_FOOD, PINTEREST_BOARD_HOME_KITCHEN,
+ *     PINTEREST_BOARD_FASHION, PINTEREST_BOARD_FINANCE, PINTEREST_BOARD_PARENTING,
+ *     PINTEREST_BOARD_PETS, PINTEREST_BOARD_TRAVEL (optional; override per board)
  *   - NEXT_PUBLIC_SITE_URL set (https://pickly.blog)
  *
  * Usage:
@@ -113,6 +115,11 @@ async function main() {
     fitness: process.env.PINTEREST_BOARD_FITNESS ?? BOARD_ID ?? "",
     food: process.env.PINTEREST_BOARD_FOOD ?? BOARD_ID ?? "",
     home_kitchen: process.env.PINTEREST_BOARD_HOME_KITCHEN ?? BOARD_ID ?? "",
+    fashion: process.env.PINTEREST_BOARD_FASHION ?? BOARD_ID ?? "",
+    finance: process.env.PINTEREST_BOARD_FINANCE ?? BOARD_ID ?? "",
+    parenting: process.env.PINTEREST_BOARD_PARENTING ?? BOARD_ID ?? "",
+    pets: process.env.PINTEREST_BOARD_PETS ?? BOARD_ID ?? "",
+    travel: process.env.PINTEREST_BOARD_TRAVEL ?? BOARD_ID ?? "",
   };
 
   if (reset) {

@@ -10,6 +10,7 @@
  *   npx tsx scripts/gsc-ping-indexing.ts                # ping en+ja, up to 100 URLs
  *   npx tsx scripts/gsc-ping-indexing.ts --limit 200
  *   npx tsx scripts/gsc-ping-indexing.ts --locale ja    # only Japanese URLs
+ *   npx tsx scripts/gsc-ping-indexing.ts --all-locales  # ping all 17 locales
  *   npx tsx scripts/gsc-ping-indexing.ts --dry-run
  *   npx tsx scripts/gsc-ping-indexing.ts --reset        # clear pinged state
  *
@@ -35,6 +36,7 @@ const args = process.argv.slice(2);
 const get = (k: string) => { const i = args.indexOf(`--${k}`); return i >= 0 ? args[i + 1] : undefined; };
 const LIMIT = parseInt(get("limit") ?? "100", 10);
 const LOCALE_FILTER = get("locale");
+const ALL_LOCALES_FLAG = args.includes("--all-locales");
 const DRY_RUN = args.includes("--dry-run");
 const RESET = args.includes("--reset");
 
@@ -92,12 +94,30 @@ function listArticleSlugs(): string[] {
     .sort();
 }
 
+const ALL_LOCALES = ["en", "ja", "ko", "zh-CN", "zh-TW", "de", "fr", "es", "pt-BR", "it", "ru", "ar", "hi", "id", "th", "vi", "tr"];
+const OUT_DIR = path.resolve(__dirname, "../out");
+
+function buildLocaleArticleSet(locales: string[]): Map<string, Set<string>> {
+  const map = new Map<string, Set<string>>();
+  for (const locale of locales) {
+    const dir = path.join(OUT_DIR, locale, "articles");
+    try { map.set(locale, new Set(fs.readdirSync(dir))); }
+    catch { map.set(locale, new Set()); }
+  }
+  return map;
+}
+
 function buildUrls(slugs: string[]): string[] {
-  const locales = LOCALE_FILTER ? [LOCALE_FILTER] : ["en", "ja"];
+  const locales = LOCALE_FILTER
+    ? [LOCALE_FILTER]
+    : (ALL_LOCALES_FLAG ? ALL_LOCALES : ["en", "ja"]);
+  const builtArticles = buildLocaleArticleSet(locales);
   const urls: string[] = [];
   for (const slug of slugs) {
     for (const locale of locales) {
-      urls.push(`${SITE_URL}/${locale}/articles/${slug}/`);
+      if (builtArticles.get(locale)?.has(slug)) {
+        urls.push(`${SITE_URL}/${locale}/articles/${slug}/`);
+      }
     }
   }
   return urls;
