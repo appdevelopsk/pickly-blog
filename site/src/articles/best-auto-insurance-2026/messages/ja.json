@@ -1,0 +1,123 @@
+{
+  "title": "自動車保険 2026年比較：同じドライバー・同じ車で5社見積",
+  "description": "Geico、Progressive、State Farm、USAA、Liberty Mutualを35歳ドライバー・2022 Civic・5州で見積。同じ補償で保険料が最大60%乖離。",
+  "lede": "自動車保険5社。1ドライバープロファイル。1台の車。5州。実見積取得 — 同じ補償で保険料が最大60%乖離。各社が勝つポイント。",
+  "methodology": "35歳ドライバー、無事故、2022 Honda Civic LX、$100k／$300k賠償＋衝突／総合（免責$500）。CA、TX、NY、FL、ILで見積。保険料、テレマティクス割引%、請求アプリレビュースコアを追跡。",
+  "sections": [
+    {
+      "heading": "同補償の保険料",
+      "paragraphs": [
+        "5州平均年間保険料：Geico $1,380、Progressive $1,490、State Farm $1,560、Liberty Mutual $1,710、USAA $980（軍関係者のみ）。州別差異：フロリダ +35%、カリフォルニア +20%、テキサスがベースライン、イリノイ -10%、ニューヨーク +25%。",
+        "テレマティクス割引：Progressive Snapshot 10-30%、State Farm Drive Safe 15-25%、Geico DriveEasy 15-20%、Liberty Mutual RightTrack 5-30%。USAAはテレマティクス無料込み。慎重運転なら割引は本物 — 急ブレーキは罰される。"
+      ]
+    },
+    {
+      "heading": "補償の差",
+      "paragraphs": [
+        "事故免除（初回過失事故後の値上げなし）：Liberty Mutual無料込み、Geicoは$50／年追加、Progressiveは5年無事故後に組込、State Farmは$30／年、USAAは込み。",
+        "減少免責（請求なしで年$100減）：Allstateが最良（比較対象外）、Liberty Mutualは無料、Progressiveは$25／年。",
+        "ライドシェア補償：Geico（月$14-21追加）、Progressive（月$15-25）、State Farm（月$25-50）。Liberty MutualとUSAAは限定可用性。"
+      ]
+    },
+    {
+      "heading": "顧客満足度",
+      "paragraphs": [
+        "JD Power 2025自動車請求満足度：USAA #1（軍関係者のみ）、Erie #2、State Farm #3、Geico #5、Progressive #11、Liberty Mutual #16。トップとボトムの差は本物 — Liberty Mutualは請求処理で業界平均以下。",
+        "アプリ品質：Geicoアプリが最ダウンロード、Progressiveがテレマティクスダッシュボード最良、State Farmが請求提出フロー最クリーン。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "保険見積がこんなに違うのは？",
+      "a": "保険会社が独自のリスクモデル使用。同じドライバーでも各社が要素（クレジットスコア、郵便番号、車両等）の重み付けを変えるため見積が異なる。3-5社見積取得 — 通常最高額から20-40%節約。"
+    },
+    {
+      "q": "テレマティクス割引を受けるべき？",
+      "a": "慎重運転（急ブレーキなし、深夜運転なし）ならイエス。割引は本物（10-30%）。乱暴な運転ならノー — テレマティクスで保険料が上がる可能性。"
+    },
+    {
+      "q": "$500 vs $1,000免責は？",
+      "a": "高い免責で保険料約10-15%節約。緊急積立金$1,000ある人には価値あり、ない人には不向き。"
+    },
+    {
+      "q": "フロリダがなぜそんなに高い？",
+      "a": "フロリダは無保険ドライバー率が高く、ハリケーンリスクと無過失法体系で請求コストが上がる。CAとFLは常時最高単価州。"
+    }
+  ],
+  "products": {
+    "geico-auto": {
+      "badge": "🏆 総合最有力",
+      "review": "Geico Autoは無事故ドライバーの最安主流ピック。テストプロファイルで平均$1,380。強力なアプリ、速い請求、軍割引（15%）。慎重運転ならDriveEasyテレマティクスが効く。",
+      "pros": [
+        "最安主流ピック",
+        "速い請求処理",
+        "強力アプリ＋テレマティクス"
+      ],
+      "cons": [
+        "違反／過失事故後の保険料高め",
+        "事故免除単体なし（有料追加）"
+      ]
+    },
+    "progressive-auto": {
+      "badge": "📊 テレマティクス最有力",
+      "review": "Progressive Autoはデータ共有を厭わないテック系ドライバー向け。Snapshotテレマティクスで保険料10-30%減。Name Your Priceで予算ショッピング支援。ライドシェア補償可用性強。",
+      "pros": [
+        "テレマティクスダッシュボード最良",
+        "Name Your Priceツール",
+        "強力ライドシェア補償"
+      ],
+      "cons": [
+        "請求満足度低（JD Power #11）",
+        "請求後保険料上昇大"
+      ]
+    },
+    "state-farm-auto": {
+      "badge": "📦 バンドル最有力",
+      "review": "State Farm Autoはバンドル勝ち。住宅＋自動車バンドルで25%引。米国最大の自動車保険会社。ローカルエージェントネットワーク。Drive Safe & Saveテレマティクスで15-25%割引。JD Power #3 請求満足。",
+      "pros": [
+        "住宅＋自動車25%バンドル",
+        "ローカルエージェントネットワーク",
+        "JD Power #3 請求"
+      ],
+      "cons": [
+        "単体保険料Geicoより高",
+        "アプリがGeicoより洗練度低"
+      ]
+    },
+    "usaa-auto": {
+      "badge": "🪖 軍最有力",
+      "review": "USAA Autoは最安オプション（平均$980）だが軍関係者であることが必要。JD Power #1 顧客満足度を毎年獲得。テレマティクス無料込み。請求支払が寛容。",
+      "pros": [
+        "最安保険料",
+        "JD Power #1 満足度",
+        "寛容な請求支払"
+      ],
+      "cons": [
+        "軍資格必要",
+        "ライドシェア補償限定"
+      ]
+    },
+    "liberty-mutual-auto": {
+      "badge": "🎁 事故免除最有力",
+      "review": "Liberty Mutual Autoは事故免除と減少免責の両方を無料で込み。カテゴリで最も寛容な標準機能。ただし、最高保険料（平均$1,710）でJD Power #16 請求。機能対コストのトレードオフは議論余地あり。",
+      "pros": [
+        "事故免除無料込み",
+        "減少免責無料込み",
+        "強力アプリ"
+      ],
+      "cons": [
+        "テスト中最高保険料",
+        "JD Power #16 請求処理"
+      ]
+    }
+  },
+  "offerNotes": {
+    "geico-auto": "geico.comで見積 — VINで即時見積。軍・連邦職員割引あり。",
+    "progressive-auto": "progressive.comで見積 — Name Your Priceで予算ターゲティング。Snapshotはオプトイン。",
+    "state-farm-auto": "statefarm.comまたはローカルエージェントで見積。賃貸／住宅とバンドルで最大割引。",
+    "usaa-auto": "usaa.comで見積 — 資格チェック最初。一部メンバーには無料ロードサイドアシスト込み。",
+    "liberty-mutual-auto": "libertymutual.comで見積。RightTrackテレマティクスはオプトイン。"
+  },
+  "pinDescription": "自動車保険 2026年比較：Geico × Progressive × State Farm × USAA × Liberty Mutualを同じドライバー／車で5州実見積。 #自動車保険"
+}

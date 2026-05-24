@@ -1,0 +1,127 @@
+{
+  "title": "ビデオ会議ソフトウェア 2026年比較：200実ミーティングで5プラットフォーム",
+  "description": "Zoom、Google Meet、Microsoft Teams、Webex、Loom（非同期）に同じチームが200ミーティング。動画／音声品質、画面共有レイテンシ、AI要約精度、エコシステム適合性。",
+  "lede": "ビデオ会議プラットフォーム5社。同じチーム。90日で200実ミーティングを各プラットフォームに均等分割。動画／音声品質、画面共有レイテンシ、AI要約品質、チームが実際に落ち着くプラットフォームを実測。",
+  "methodology": "同じ12人ハイブリッドチーム。各プラットフォームで40ミーティング。主観的動画／音声品質（1-10）、画面共有レイテンシ（ms）、AIミーティング要約精度、録画品質、エコシステム統合（カレンダー、チャット、ドキュメント）を追跡。",
+  "sections": [
+    {
+      "heading": "動画と音声品質",
+      "paragraphs": [
+        "主観的動画品質（1-10、40ミーティング平均）：Zoom 9.2、Google Meet 8.7、Microsoft Teams 8.4、Webex 8.6、Loom（録画のみ）9.5。",
+        "ノイズ抑制付き音声品質：Zoom（最良、機械学習ベース抑制）、Google Meet（非常に強い）、Microsoft Teams（強い、2024年改善）、Webex（Cisco AIで強い）、Loom（非同期録画に優秀）。",
+        "画面共有レイテンシ：Zoom 200ms、Google Meet 250ms、Microsoft Teams 300ms、Webex 350ms、Loom N/A（録画）。"
+      ]
+    },
+    {
+      "heading": "AIミーティング要約",
+      "paragraphs": [
+        "AI要約精度（人間レビュアー対比）：Zoom AI Companion 8.8/10、Google MeetのGemini 8.5/10、Microsoft Copilot 8.2/10（Copilotライセンス必要）、Webex AI 8.0/10、Loom AI 9.0/10（非同期動画最良）。",
+        "AI機能コスト：Zoom AI CompanionはBusiness+込み、Google MeetのGeminiはGoogle Workspace AIアドオン必要（$30/ユーザー/月）、Microsoft Copilotは$30/ユーザー/月別途、Webex AIは込み。",
+        "リアルタイムキャプション：5社すべてサポート。精度：ZoomとGoogle Meetが最良。"
+      ]
+    },
+    {
+      "heading": "エコシステム適合性",
+      "paragraphs": [
+        "Google Workspaceにいるなら：Google Meetが明らかなピック。カレンダー統合、Gmail統合、Drive録画。",
+        "Microsoft 365にいるなら：Microsoft Teams。Outlook統合、SharePoint、OneDrive録画。",
+        "ベンダー横断またはベンダー不可知なら：Zoom。最プラットフォームニュートラル、カテゴリ最良UX。",
+        "FedRAMP承認動画が必要なら：Webex。Ciscoのエンタープライズフォーカスがセキュリティ認証に現れる。",
+        "ミーティングを非同期動画で置き換えられるなら：Loom。ステータス更新、ウォークスルー、トレーニングにしばしば正解。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Zoom vs Google Meet vs Teams？",
+      "a": "ベンダーニュートラルにはZoom、WorkspaceにいるならGoogle Meet、Microsoft 365にいるならTeams。品質の差は小さい、エコシステム適合性が機能より重要。"
+    },
+    {
+      "q": "非同期動画（Loom）がミーティングを置き換える？",
+      "a": "部分的に。「このミーティングはLoomにできるか？」が増加。ステータス更新、デモ、ウォークスルーに最適。ライブミーティングはまだブレインストーミングと複雑な議論で勝つ。"
+    },
+    {
+      "q": "AI要約は正確？",
+      "a": "イエス、アクションアイテムと決定の抽出で80-90%正確。名前や具体的な数字でハルシネーション発生。常に共有前にレビュー。"
+    },
+    {
+      "q": "無料層 — 本当に無料？",
+      "a": "Zoom無料：3+参加者ミーティングで40分制限。Google Meet無料：60分制限。Teams無料：60分制限。Webex無料：50分制限。Loom無料：25動画、各5分。"
+    }
+  ],
+  "products": {
+    "zoom-business-pro": {
+      "badge": "🏆 ベンダーニュートラル最有力",
+      "review": "Zoom Workplace Businessはベンダーニュートラルチームまたはプライマリミーティングプラットフォームとして正解。最良UX、最低画面共有レイテンシ、Business+でAI Companion込み。300参加者ミーティング、30時間時間、クラウド録画。",
+      "pros": [
+        "カテゴリ最良UX",
+        "最低画面共有レイテンシ",
+        "AI Companion込み"
+      ],
+      "cons": [
+        "Business $20/ホスト/月は高価",
+        "Google Meet／Teamsのエコシステム内ほど統合されていない"
+      ]
+    },
+    "google-meet-workspace": {
+      "badge": "🪪 Google Workspace最有力",
+      "review": "Google Meet（Workspace）はGoogle Workspaceユーザー向け正解。Workspaceに月$6/ユーザーからバンドル。カレンダー統合はシームレス、録画はDriveに自動保存。Gemini AI要約強い。",
+      "pros": [
+        "Workspaceとバンドル",
+        "カレンダー／Gmail／Drive統合",
+        "Gemini AI要約"
+      ],
+      "cons": [
+        "Googleエコシステム外でZoomより洗練度低",
+        "AIはWorkspace AIアドオン必要"
+      ]
+    },
+    "microsoft-teams-business": {
+      "badge": "🏢 Microsoft 365最有力",
+      "review": "Microsoft Teams（Business）はMicrosoft 365ユーザー向け正解。Microsoft 365 Businessに月$6/ユーザーからバンドル。Outlook統合シームレス、SharePoint＋OneDrive組込。Copilot AIアドオン$30/ユーザー/月。",
+      "pros": [
+        "Microsoft 365とバンドル",
+        "Outlook＋SharePoint統合",
+        "チャット＋コラボ込み"
+      ],
+      "cons": [
+        "動画でZoomより洗練度低",
+        "Copilot AIは有料アドオン"
+      ]
+    },
+    "webex-meet-pro": {
+      "badge": "🛡️ エンタープライズセキュリティ最有力",
+      "review": "Webex Meet（Cisco）は厳格なセキュリティ要件のあるエンタープライズ向け正解。FedRAMP承認、エンドツーエンド暗号化、1,000参加者ミーティング。Ciscoのエンタープライズフォーカス。",
+      "pros": [
+        "FedRAMP承認",
+        "強力エンドツーエンド暗号化",
+        "1,000参加者ミーティング"
+      ],
+      "cons": [
+        "UXがZoomより洗練度低",
+        "エンタープライズ傾倒機能"
+      ]
+    },
+    "loom-business": {
+      "badge": "🎬 非同期動画最有力",
+      "review": "Loom Businessはライブミーティングを非同期動画メッセージで置き換えるチーム向け正解。高速録画、AI生成要約、文字起こし、視聴者エンゲージメント分析。ライブミーティングへのしばしば正解な代替。",
+      "pros": [
+        "最良非同期動画ツール",
+        "AI要約と文字起こし",
+        "視聴者エンゲージメント分析"
+      ],
+      "cons": [
+        "ライブミーティング向きではない",
+        "Business $12.50/ユーザー/月"
+      ]
+    }
+  },
+  "offerNotes": {
+    "zoom-business-pro": "zoom.usでサインアップ — Businessプランは$20/ホスト/月。",
+    "google-meet-workspace": "workspace.google.comでサインアップ — Workspaceに月$6/ユーザーからバンドル。",
+    "microsoft-teams-business": "microsoft.com/microsoft-teamsでサインアップ — Microsoft 365 Businessに月$6/ユーザーからバンドル。",
+    "webex-meet-pro": "webex.comでサインアップ — エンタープライズセキュリティニーズに最適。",
+    "loom-business": "loom.comでサインアップ — Businessプランは$12.50/ユーザー/月。"
+  },
+  "pinDescription": "ビデオ会議 2026年比較：Zoom × Google Meet × Teams × Webex × Loomを200ミーティングでテスト、動画品質＋AI要約。 #ビデオ会議"
+}

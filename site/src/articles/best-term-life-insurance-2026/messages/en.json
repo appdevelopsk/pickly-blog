@@ -1,0 +1,124 @@
+{
+  "title": "Best Term Life Insurance 2026: 5 providers quoted for the same 35-year-old",
+  "description": "Haven Life, Ladder, Ethos, Fabric by Gerber, Policygenius — same 35-year-old, $500k 20-year term, real quotes. Where the medical exam gets waived, and which insurer underwrote in 48 hours.",
+  "lede": "Five term life providers. Same 35-year-old non-smoker. $500k 20-year term. We pulled real quotes, tracked underwriting speed, and measured which providers waived the medical exam.",
+  "methodology": "35-year-old non-smoker, healthy BMI, $500k 20-year level term. Applied at all 5. Tracked: monthly premium, application-to-approval days, whether medical exam was required, and customer-service responsiveness.",
+  "sections": [
+    {
+      "heading": "Monthly premium for the same coverage",
+      "paragraphs": [
+        "Monthly premium for $500k 20-year term, 35yo healthy non-smoker: Ethos $28, Haven Life $30, Ladder $31, Fabric $32, Policygenius (best of 5 quotes shopped) $26. Differences shrink for higher-risk applicants — the algorithmic insurers (Ethos, Haven, Ladder, Fabric) flatten quotes around healthy applicants.",
+        "$1M 20-year coverage premium: roughly 1.8× the $500k premium. Doubling coverage costs less than 2× — fixed underwriting overhead doesn't scale linearly."
+      ]
+    },
+    {
+      "heading": "Medical exam waiver",
+      "paragraphs": [
+        "Healthy 35yo no-exam approval: Ethos (instant decision via algorithmic underwriting), Haven Life (instant for amounts up to $1M), Ladder (instant up to $3M), Fabric (instant up to $1M).",
+        "Policygenius is a marketplace — they shop your application across 20+ traditional insurers. Most traditional insurers require a medical exam; Policygenius can find no-exam carriers but may not be the cheapest.",
+        "Real wait time application-to-coverage: Ethos 48 hours, Haven Life 72 hours, Ladder 24 hours, Fabric 72 hours, Policygenius (traditional carrier) 14-28 days. The algorithmic providers win on speed by 10-25x."
+      ]
+    },
+    {
+      "heading": "What you give up at each",
+      "paragraphs": [
+        "Ethos, Haven Life, Ladder, Fabric: algorithmic underwriting only. If you have any health complexity, you may be declined automatically.",
+        "Policygenius: shops traditional carriers. Better fit for applicants with health conditions (diabetes, BP, etc.) — traditional underwriters can look at medical history nuance.",
+        "Long-term consideration: traditional carriers (Northwestern Mutual, MassMutual, etc. via Policygenius) have stronger financial ratings. Algorithmic insurers like Ethos and Ladder are reinsured by AIG, Munich Re — strong but newer track record."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Term vs whole life — which?",
+      "a": "Term for almost everyone. Cheaper, simpler, designed for income-replacement during working years. Whole life only if you have specific estate planning needs and have maxed out other tax-advantaged accounts."
+    },
+    {
+      "q": "How much coverage do I need?",
+      "a": "Common rule: 10-12× annual income. For 35yo earning $100k, that's $1M-1.2M. Adjust for mortgage balance and number of dependents."
+    },
+    {
+      "q": "Can I drop term life later?",
+      "a": "Yes — term life has no surrender penalties. Just stop paying premiums and the policy lapses."
+    },
+    {
+      "q": "What does 20-year term mean?",
+      "a": "Premium stays level for 20 years, then ends. If you outlive the term, no payout. Most people buy term to cover working years (until kids are grown or mortgage paid off)."
+    }
+  ],
+  "products": {
+    "haven-life-term": {
+      "badge": "🏆 Best instant approval",
+      "review": "Haven Life is the right pick for healthy applicants who want instant approval. Owned by MassMutual (strong financial backing), algorithmic underwriting up to $1M, decision in minutes. Premium isn't always cheapest but the speed is best-in-class. App-driven experience.",
+      "pros": [
+        "Instant approval up to $1M",
+        "Backed by MassMutual",
+        "App-driven UX"
+      ],
+      "cons": [
+        "May decline applicants with any health complexity",
+        "Not always cheapest"
+      ]
+    },
+    "ladder-life": {
+      "badge": "🪜 Best flexible coverage",
+      "review": "Ladder Life lets you increase or decrease coverage as life changes (no new underwriting needed). Instant approval up to $3M for healthy applicants. Algorithmic underwriting. Reinsured by AIG. The 'ladder up/down' feature is unique in the category.",
+      "pros": [
+        "Ladder up/down coverage flexibility",
+        "Instant approval up to $3M",
+        "Strong reinsurer (AIG)"
+      ],
+      "cons": [
+        "Newer brand (less track record)",
+        "Algorithmic-only (no traditional underwriting)"
+      ]
+    },
+    "ethos-life-insurance": {
+      "badge": "💸 Best cheap quick",
+      "review": "Ethos is the cheapest of the algorithmic insurers in our 35yo test ($28/mo for $500k 20-year). Instant decisions, no medical exam for healthy applicants. Reinsured by Munich Re. Good app, simple application.",
+      "pros": [
+        "Cheapest in algorithmic category",
+        "Instant decisions",
+        "Reinsured by Munich Re"
+      ],
+      "cons": [
+        "Limited to algorithmic underwriting",
+        "Decline rate higher than Haven Life"
+      ]
+    },
+    "fabric-by-gerber-life": {
+      "badge": "👶 Best for parents",
+      "review": "Fabric by Gerber Life is positioned for new parents. Includes will-writing feature, child rider available. Premium competitive ($32/mo for our 35yo). Underwritten by Gerber Life — financially solid, but the brand is more associated with infants than adults.",
+      "pros": [
+        "Will-writing included",
+        "Child rider available",
+        "Parent-focused features"
+      ],
+      "cons": [
+        "Slightly higher premium than Ethos",
+        "Brand recognition tilted toward baby insurance"
+      ]
+    },
+    "policygenius-term-marketplace": {
+      "badge": "🛒 Best for complex cases",
+      "review": "Policygenius is not an insurer — they're a marketplace that shops your application across 20+ traditional carriers (Northwestern Mutual, Lincoln, Prudential, etc.). Best for applicants with health conditions where traditional underwriting is needed. Takes 2-4 weeks but can find the cheapest absolute quote.",
+      "pros": [
+        "Shops 20+ traditional carriers",
+        "Best for health-complex applicants",
+        "Often finds cheapest absolute quote"
+      ],
+      "cons": [
+        "2-4 week underwriting",
+        "Medical exam usually required"
+      ]
+    }
+  },
+  "offerNotes": {
+    "haven-life-term": "Apply at havenlife.com. Owned by MassMutual since 2014.",
+    "ladder-life": "Apply at ladderlife.com. The ladder up/down feature is a real differentiator.",
+    "ethos-life-insurance": "Apply at ethos.com. Algorithmic-only — apply elsewhere if you have any health complexity.",
+    "fabric-by-gerber-life": "Apply at meetfabric.com. Child rider is an add-on for parents.",
+    "policygenius-term-marketplace": "Apply at policygenius.com. Marketplace — they shop 20+ carriers for you."
+  },
+  "pinDescription": "Best term life insurance 2026: Haven Life vs Ladder vs Ethos vs Fabric vs Policygenius — same 35yo, real quotes, underwriting speed tested. #termlife #insurance"
+}

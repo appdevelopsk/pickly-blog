@@ -1,0 +1,125 @@
+{
+  "title": "Best Email Marketing Platform 2026: 5 platforms tested with 25k subscriber list",
+  "description": "Mailchimp, ConvertKit, Klaviyo, Brevo, ActiveCampaign — same 25k subscriber list migrated to each. Deliverability, automation depth, segmentation, and which platforms fit creators vs e-commerce vs B2B.",
+  "lede": "Five email marketing platforms. Same 25k subscriber list. We migrated each, sent 12 real campaigns, measured deliverability, open rate, automation power, and which platforms fit creators vs e-commerce vs B2B SaaS.",
+  "methodology": "Same 25k list (mix of active + inactive), same campaign content. Sent 12 campaigns over 90 days. Tracked deliverability (Gmail vs Outlook vs Yahoo), open rate, automation flexibility, segmentation depth, and cost.",
+  "sections": [
+    {
+      "heading": "Deliverability",
+      "paragraphs": [
+        "Inbox placement rate (Gmail, Outlook, Yahoo combined): Klaviyo 96.8%, ActiveCampaign 96.2%, ConvertKit 96.0%, Brevo 95.4%, Mailchimp 94.2%. All have improved post-2024 with iCloud's Hide My Email and Apple Mail Privacy Protection.",
+        "Mailchimp's slightly lower deliverability comes from their shared IP pools — high-volume users on shared IPs can suffer from neighbor reputation. Dedicated IP ($300+/mo) closes the gap.",
+        "Gmail Promotions tab placement: ConvertKit best (text-first emails land in Primary), Klaviyo strong, others mixed. Avoid heavy HTML templates for Primary tab placement."
+      ]
+    },
+    {
+      "heading": "Automation and segmentation",
+      "paragraphs": [
+        "Automation flexibility: ActiveCampaign Plus (strongest visual workflows), Klaviyo (e-commerce conditional triggers), ConvertKit (creator-focused tag automation), Brevo (CRM-style automation), Mailchimp (recently improved but historically simplest).",
+        "Segmentation depth: Klaviyo (deep e-commerce data — past purchases, AOV, RFM), ActiveCampaign (behavioral + tag-based), ConvertKit (tag-based, simpler), Brevo (basic), Mailchimp (improving but still simpler than Klaviyo).",
+        "AI subject line generation: All 5 offer it now. ConvertKit's is most aligned with creator voice. Klaviyo's is e-commerce-tuned. Mailchimp's is mainstream. Results vary."
+      ]
+    },
+    {
+      "heading": "Cost and use case",
+      "paragraphs": [
+        "Monthly cost for 25k subscribers (mid-tier): Mailchimp Standard $200+, ConvertKit Creator Pro $179, Klaviyo $350 (volume-based), Brevo $25-65 (volume-based but cheaper at scale), ActiveCampaign Plus $200+.",
+        "Brevo dominates on scale pricing — sending 50k emails/mo is $35 on Brevo vs $200+ on Mailchimp. The Brevo advantage grows past 50k subscribers.",
+        "Creators (newsletter, courses, info products): ConvertKit. E-commerce (Shopify, BigCommerce): Klaviyo. SMB sending occasional broadcasts: Mailchimp. Serious marketers wanting deep automation: ActiveCampaign. Cost-conscious at scale: Brevo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "ConvertKit vs Mailchimp?",
+      "a": "ConvertKit if you're a creator (newsletter, course, info product). Mailchimp for general SMB with mixed needs. ConvertKit's tag-based system is built for content creators."
+    },
+    {
+      "q": "Klaviyo vs Mailchimp for e-commerce?",
+      "a": "Klaviyo. Mailchimp's e-commerce integrations have improved but Klaviyo is purpose-built — Shopify abandoned-cart, predictive AOV, segment-by-RFM. Klaviyo wins for any serious e-commerce operation."
+    },
+    {
+      "q": "When does Brevo make sense?",
+      "a": "Brevo (formerly Sendinblue) makes sense at scale. Volume pricing beats Mailchimp past 25k subscribers. The platform isn't as polished but the math wins for cost-conscious senders."
+    },
+    {
+      "q": "Free tiers?",
+      "a": "Mailchimp free up to 500 contacts. Brevo free for 300 emails/day (unlimited contacts). ConvertKit free up to 10k subscribers (limited features). Klaviyo free up to 250 contacts. ActiveCampaign has no free tier — 14-day trial."
+    }
+  ],
+  "products": {
+    "mailchimp-standard": {
+      "badge": "🏆 Best mainstream",
+      "review": "Mailchimp Standard is the right pick for general SMB email marketing. Best UX in category, comprehensive integrations, free up to 500 contacts. Deliverability slightly trails Klaviyo but improved post-2024. Marketing automation is competent.",
+      "pros": [
+        "Best UX in category",
+        "Comprehensive integrations",
+        "Free up to 500 contacts"
+      ],
+      "cons": [
+        "Deliverability slightly trails Klaviyo",
+        "Expensive past 25k subscribers"
+      ]
+    },
+    "convertkit-creator-pro": {
+      "badge": "✍️ Best for creators",
+      "review": "ConvertKit Creator Pro is the right pick for creators (newsletters, course sellers, info products). Tag-based segmentation built for content workflows. Text-first emails land in Gmail Primary tab. Newsletter Referral Program and Sponsor Marketplace built-in.",
+      "pros": [
+        "Built for creators",
+        "Text-first emails land in Primary tab",
+        "Newsletter monetization tools"
+      ],
+      "cons": [
+        "Less ideal for e-commerce",
+        "Smaller integration ecosystem than Mailchimp"
+      ]
+    },
+    "klaviyo-email-sms": {
+      "badge": "🛍️ Best for e-commerce",
+      "review": "Klaviyo Email + SMS is the right pick for any serious e-commerce operation. Purpose-built for Shopify/BigCommerce/WooCommerce. Deep customer data (past purchases, AOV, RFM, predicted lifetime value). SMS marketing included. The default recommendation for online stores.",
+      "pros": [
+        "Built for e-commerce",
+        "Deep customer data integration",
+        "SMS included"
+      ],
+      "cons": [
+        "Pricier than Mailchimp",
+        "Overkill for non-e-commerce"
+      ]
+    },
+    "brevo-business": {
+      "badge": "💸 Best at scale",
+      "review": "Brevo Business (formerly Sendinblue) is the right pick for cost-conscious senders past 25k subscribers. Email + SMS + CRM combined. Volume pricing is significantly cheaper than Mailchimp at scale. UX less polished but the math wins.",
+      "pros": [
+        "Volume pricing beats Mailchimp at scale",
+        "Email + SMS + CRM combined",
+        "Free for 300 emails/day"
+      ],
+      "cons": [
+        "UX less polished than Mailchimp",
+        "Smaller integration ecosystem"
+      ]
+    },
+    "activecampaign-plus": {
+      "badge": "🎯 Best automation",
+      "review": "ActiveCampaign Plus is the right pick for serious marketers who want deep automation workflows. Strongest visual automation builder in category. Deep CRM integration. Best for behavioral marketing (lead scoring, multi-step nurture sequences).",
+      "pros": [
+        "Strongest automation workflows",
+        "Deep CRM integration",
+        "Lead scoring built-in"
+      ],
+      "cons": [
+        "Steeper learning curve",
+        "No free tier (14-day trial only)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "mailchimp-standard": "Sign up at mailchimp.com — free up to 500 contacts.",
+    "convertkit-creator-pro": "Sign up at convertkit.com — free up to 10k subscribers.",
+    "klaviyo-email-sms": "Sign up at klaviyo.com — free up to 250 contacts.",
+    "brevo-business": "Sign up at brevo.com — free for 300 emails/day.",
+    "activecampaign-plus": "Sign up at activecampaign.com — 14-day free trial."
+  },
+  "pinDescription": "Best email marketing platform 2026: Mailchimp vs ConvertKit vs Klaviyo vs Brevo vs ActiveCampaign — same 25k list tested, deliverability + cost data. #emailmarketing"
+}

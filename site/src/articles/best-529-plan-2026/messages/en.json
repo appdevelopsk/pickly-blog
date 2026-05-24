@@ -1,0 +1,84 @@
+{
+  "title": "Best 529 Plan 2026",
+  "description": "Utah, New York, Nevada, Illinois, California 529 plans compared.",
+  "lede": "Five 529 plans compared by fees and state tax benefits.",
+  "methodology": "Compared expense ratios, fund variety, state tax benefits.",
+  "sections": [
+    {
+      "heading": "State vs. out-of-state plan",
+      "paragraphs": [
+        "In-state often offers tax deduction. Out-of-state (Utah, Nevada) often has lower fees."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Use my state's 529?",
+      "a": "Use in-state if it offers tax deduction, otherwise pick lowest-fee plan."
+    }
+  ],
+  "products": {
+    "utah-myr529": {
+      "badge": "🏆 Best overall",
+      "review": "Low fees, Vanguard fund options, highly-rated.",
+      "pros": [
+        "Low fees",
+        "Vanguard funds"
+      ],
+      "cons": [
+        "No tax deduction for non-UT"
+      ]
+    },
+    "new-york-529-direct": {
+      "badge": "🗽 Best for NY",
+      "review": "NY state tax deduction, Vanguard funds.",
+      "pros": [
+        "NY tax deduction",
+        "Vanguard funds"
+      ],
+      "cons": [
+        "NY residents only"
+      ]
+    },
+    "nevada-vanguard-529": {
+      "badge": "🎰 Best for no-tax states",
+      "review": "Vanguard-managed, no state income tax issue.",
+      "pros": [
+        "Vanguard-managed",
+        "Low fees"
+      ],
+      "cons": [
+        "No state tax benefit"
+      ]
+    },
+    "illinois-bright-start-529": {
+      "badge": "🌟 Best for IL",
+      "review": "IL state tax deduction, 24 fund options.",
+      "pros": [
+        "IL tax deduction",
+        "24 funds"
+      ],
+      "cons": [
+        "Higher fees than Utah"
+      ]
+    },
+    "california-scholarshare-529": {
+      "badge": "🌴 Best for CA",
+      "review": "TIAA-managed, no state tax deduction (CA quirk).",
+      "pros": [
+        "TIAA-managed"
+      ],
+      "cons": [
+        "No CA tax deduction"
+      ]
+    }
+  },
+  "offerNotes": {
+    "utah-myr529": "my529.org.",
+    "new-york-529-direct": "nysaves.org.",
+    "nevada-vanguard-529": "vanguard.com.",
+    "illinois-bright-start-529": "brightstart.com.",
+    "california-scholarshare-529": "scholarshare529.com."
+  },
+  "pinDescription": "Best 529 plan 2026: Utah vs. NY vs. Nevada vs. IL vs. CA."
+}

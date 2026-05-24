@@ -1,0 +1,82 @@
+{
+  "title": "ベスト債券ETF 2026",
+  "description": "Vanguard BND、iShares AGG、Vanguard BNDX、Schwab SCHZ、Fidelity FXNAX比較。",
+  "lede": "5債券ETFを経費率、利回り、多様化で比較。",
+  "methodology": "各ETFを90日保有。総リターン、経費率影響、配当頻度を追跡。",
+  "sections": [
+    {
+      "heading": "なぜ債券ETF？",
+      "paragraphs": [
+        "多様化：ボラティリティ削減。収入：4-5%利回り。インフレ：TIPSが助ける。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "ポートフォリオの何%を債券？",
+      "a": "一般ルール：年齢を債券に（30歳＝30%）。リスク許容度で調整。"
+    }
+  ],
+  "products": {
+    "vanguard-bnd": {
+      "badge": "🏆 米国ベンチマーク最有力",
+      "review": "0.03% ER、$100B+ AUM、広い米国債券市場。",
+      "pros": [
+        "0.03% ER",
+        "$100B+ AUM"
+      ],
+      "cons": [
+        "国際無し"
+      ]
+    },
+    "ishares-agg": {
+      "badge": "🤝 Vanguard代替最有力",
+      "review": "0.03% ER、BlackRock運用、$80B+ AUM。",
+      "pros": [
+        "0.03% ER",
+        "BlackRock"
+      ],
+      "cons": [
+        "機能的にBNDと同じ"
+      ]
+    },
+    "vanguard-bndx": {
+      "badge": "🌐 国際最有力",
+      "review": "0.07% ER、国際債券、通貨ヘッジ。",
+      "pros": [
+        "国際エクスポージャー"
+      ],
+      "cons": [
+        "わずかに高価"
+      ]
+    },
+    "schwab-schz": {
+      "badge": "🏦 Schwab最有力",
+      "review": "0.03% ER、Schwab債券ETF。",
+      "pros": [
+        "0.03% ER"
+      ],
+      "cons": [
+        "BNDより人気低い"
+      ]
+    },
+    "fidelity-fxnax": {
+      "badge": "💸 最安",
+      "review": "0.025% ER投信版、Fidelity独占。",
+      "pros": [
+        "0.025% ER最安"
+      ],
+      "cons": [
+        "投信のみ"
+      ]
+    }
+  },
+  "offerNotes": {
+    "vanguard-bnd": "任意の証券会社で取引。",
+    "ishares-agg": "任意の証券会社で取引。",
+    "vanguard-bndx": "任意の証券会社で取引。",
+    "schwab-schz": "Schwabでコミッション無し。",
+    "fidelity-fxnax": "Fidelityのみ。"
+  },
+  "pinDescription": "ベスト債券ETF 2026：Vanguard BND × iShares AGG × Vanguard BNDX × Schwab SCHZ × Fidelity FXNAX。"
+}

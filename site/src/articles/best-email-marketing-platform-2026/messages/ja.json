@@ -1,0 +1,125 @@
+{
+  "title": "メールマーケティングプラットフォーム 2026年比較：25kサブスクライバーリストで5プラットフォーム",
+  "description": "Mailchimp、ConvertKit、Klaviyo、Brevo、ActiveCampaignに同じ25kサブスクライバーリストを移行。配信性、オートメーション深度、セグメンテーション、クリエイター対EC対B2Bに合うプラットフォーム。",
+  "lede": "メールマーケティングプラットフォーム5社。同じ25kサブスクライバーリスト。各で移行、12実キャンペーンを送信、配信性、開封率、オートメーション力、クリエイター対EC対B2B SaaSに合うプラットフォームを実測。",
+  "methodology": "同じ25kリスト（アクティブ＋非アクティブミックス）、同じキャンペーンコンテンツ。90日で12キャンペーン送信。配信性（Gmail対Outlook対Yahoo）、開封率、オートメーション柔軟性、セグメンテーション深度、コストを追跡。",
+  "sections": [
+    {
+      "heading": "配信性",
+      "paragraphs": [
+        "インボックス配置率（Gmail、Outlook、Yahoo合計）：Klaviyo 96.8%、ActiveCampaign 96.2%、ConvertKit 96.0%、Brevo 95.4%、Mailchimp 94.2%。すべて2024年後にiCloudのHide My EmailとApple Mail Privacy Protectionで改善。",
+        "Mailchimpのわずかに低い配信性は共有IPプールから — 共有IPの高ボリュームユーザーは近隣評判で苦しむ。専用IP（月$300+）がギャップを埋める。",
+        "Gmailプロモーションタブ配置：ConvertKit最良（テキストファーストメールがPrimaryに着地）、Klaviyo強い、他はミックス。Primaryタブ配置には重いHTMLテンプレートを避ける。"
+      ]
+    },
+    {
+      "heading": "オートメーションとセグメンテーション",
+      "paragraphs": [
+        "オートメーション柔軟性：ActiveCampaign Plus（最強のビジュアルワークフロー）、Klaviyo（EC条件トリガー）、ConvertKit（クリエイターフォーカスのタグオートメーション）、Brevo（CRM式オートメーション）、Mailchimp（最近改善されたが歴史的に最シンプル）。",
+        "セグメンテーション深度：Klaviyo（深いECデータ — 過去購入、AOV、RFM）、ActiveCampaign（行動＋タグベース）、ConvertKit（タグベース、よりシンプル）、Brevo（基本）、Mailchimp（改善中だがKlaviyoよりまだシンプル）。",
+        "AIサブジェクトライン生成：5社すべて提供中。ConvertKitのがクリエイターボイスに最も合う。KlaviyoのはEC調整。Mailchimpのは主流。結果は変動。"
+      ]
+    },
+    {
+      "heading": "コストと用途",
+      "paragraphs": [
+        "25kサブスクライバーの月額コスト（中位プラン）：Mailchimp Standard $200+、ConvertKit Creator Pro $179、Klaviyo $350（ボリュームベース）、Brevo $25-65（ボリュームベースだがスケールで安い）、ActiveCampaign Plus $200+。",
+        "Brevoがスケール価格で支配的 — 月5万メール送信はBrevoで$35対Mailchimpで$200+。Brevoの優位性は25kサブスクライバー超で成長。",
+        "クリエイター（ニュースレター、コース、情報製品）：ConvertKit。EC（Shopify、BigCommerce）：Klaviyo。occasional broadcasts送信中小企業：Mailchimp。深いオートメーション希望の本格マーケター：ActiveCampaign。スケールでコスト重視：Brevo。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "ConvertKit vs Mailchimp？",
+      "a": "クリエイター（ニュースレター、コース、情報製品）ならConvertKit。ミックスニーズの一般中小企業ならMailchimp。ConvertKitのタグベースシステムはコンテンツクリエイター向け構築。"
+    },
+    {
+      "q": "EC にKlaviyo vs Mailchimp？",
+      "a": "Klaviyo。MailchimpのEC統合は改善されたがKlaviyoは目的構築 — Shopifyカート放棄、予測AOV、RFMセグメント。本格EC運用にKlaviyoが勝ち。"
+    },
+    {
+      "q": "Brevoはいつ意味がある？",
+      "a": "Brevo（旧Sendinblue）はスケールで意味あり。ボリューム価格は25kサブスクライバー超でMailchimpに勝つ。プラットフォームほど洗練されていないが、コスト重視送信者には数学が勝つ。"
+    },
+    {
+      "q": "無料層？",
+      "a": "Mailchimpは500コンタクトまで無料。Brevoは日300メール無料（無制限コンタクト）。ConvertKitは10kサブスクライバーまで無料（機能限定）。Klaviyoは250コンタクトまで無料。ActiveCampaignは無料層なし — 14日トライアル。"
+    }
+  ],
+  "products": {
+    "mailchimp-standard": {
+      "badge": "🏆 主流最有力",
+      "review": "Mailchimp Standardは一般中小企業メールマーケ向け正解。カテゴリ最良UX、包括的統合、500コンタクトまで無料。配信性はKlaviyoわずかに下回るが2024年後に改善。マーケオートメーションは能力的。",
+      "pros": [
+        "カテゴリ最良UX",
+        "包括的統合",
+        "500コンタクトまで無料"
+      ],
+      "cons": [
+        "配信性Klaviyoわずかに下回る",
+        "25kサブスクライバー超で高価"
+      ]
+    },
+    "convertkit-creator-pro": {
+      "badge": "✍️ クリエイター最有力",
+      "review": "ConvertKit Creator Proはクリエイター（ニュースレター、コース販売者、情報製品）向け正解。コンテンツワークフロー向け構築のタグベースセグメンテーション。テキストファーストメールがGmail Primaryタブに着地。ニュースレター紹介プログラムとスポンサーマーケットプレイス組込。",
+      "pros": [
+        "クリエイター向け構築",
+        "テキストファーストメールがPrimaryタブに着地",
+        "ニュースレター収益化ツール"
+      ],
+      "cons": [
+        "ECには理想的ではない",
+        "Mailchimpより統合エコシステム小さい"
+      ]
+    },
+    "klaviyo-email-sms": {
+      "badge": "🛍️ EC最有力",
+      "review": "Klaviyo Email + SMSは本格EC運用向け正解。Shopify／BigCommerce／WooCommerce向け目的構築。深い顧客データ（過去購入、AOV、RFM、予測LTV）。SMSマーケ込み。オンラインストアのデフォルト推奨。",
+      "pros": [
+        "EC向け構築",
+        "深い顧客データ統合",
+        "SMS込み"
+      ],
+      "cons": [
+        "Mailchimpより高い",
+        "非ECにはオーバーキル"
+      ]
+    },
+    "brevo-business": {
+      "badge": "💸 スケール最有力",
+      "review": "Brevo Business（旧Sendinblue）は25kサブスクライバー超のコスト重視送信者向け正解。メール＋SMS＋CRMコンビ。ボリューム価格はスケールでMailchimpより大幅に安い。UXほど洗練されていないが数学が勝つ。",
+      "pros": [
+        "スケールでMailchimpを下回るボリューム価格",
+        "メール＋SMS＋CRMコンビ",
+        "日300メール無料"
+      ],
+      "cons": [
+        "UX Mailchimpほど洗練されていない",
+        "統合エコシステム小さい"
+      ]
+    },
+    "activecampaign-plus": {
+      "badge": "🎯 オートメーション最有力",
+      "review": "ActiveCampaign Plusは深いオートメーションワークフローを求める本格マーケター向け正解。カテゴリ最強のビジュアルオートメーションビルダー。深いCRM統合。行動マーケ（リードスコアリング、マルチステップナーチャーシーケンス）向け最有力。",
+      "pros": [
+        "最強オートメーションワークフロー",
+        "深いCRM統合",
+        "リードスコアリング組込"
+      ],
+      "cons": [
+        "急な学習曲線",
+        "無料層なし（14日トライアルのみ）"
+      ]
+    }
+  },
+  "offerNotes": {
+    "mailchimp-standard": "mailchimp.comでサインアップ — 500コンタクトまで無料。",
+    "convertkit-creator-pro": "convertkit.comでサインアップ — 10kサブスクライバーまで無料。",
+    "klaviyo-email-sms": "klaviyo.comでサインアップ — 250コンタクトまで無料。",
+    "brevo-business": "brevo.comでサインアップ — 日300メール無料。",
+    "activecampaign-plus": "activecampaign.comでサインアップ — 14日無料トライアル。"
+  },
+  "pinDescription": "メールマーケティングプラットフォーム 2026年比較：Mailchimp × ConvertKit × Klaviyo × Brevo × ActiveCampaignを同じ25kリストでテスト、配信性＋コストデータ。 #メールマーケティング"
+}

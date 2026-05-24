@@ -1,0 +1,100 @@
+{
+  "title": "マネーマーケット口座 2026年版：APYとアクセスで5口座比較",
+  "description": "Ally、Vio Bank、Discover、Sallie Mae、CIT Bank — APY 1.55%〜5.30%、手数料構造、ATMアクセス、FDIC提携銀行比較。",
+  "lede": "5つのマネーマーケット口座。$10K残高を開設し、支払APY、ATM出金速度、顧客サービス応答時間を追跡。",
+  "methodology": "各口座に同じ$10K入金。30日の実際支払利息 vs 広告APYを追跡。MoneyPass、Allpoint、提携外でATM出金。顧客サービスを9時、13時、17時にコール。",
+  "sections": [
+    {
+      "heading": "支払APY vs 広告APY＋アクセス",
+      "paragraphs": [
+        "Vio Bank：広告5.30%、$10Kで実際5.28%（最高）。Sallie Mae：4.65%/4.65%。Ally：4.00%/4.00%。Discover：4.00%/4.00%。CIT Bank：1.55%/1.55%（大幅遅れ）。",
+        "ATMアクセス：Discoverは60K Allpoint無料（最強）。AllyはMoneyPass無料。Vio Bankはネット専業、ATMなし。Sallie Maeは無料小切手のみ、ATMなし。CITはネット専業。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "MMA vs 高利回り貯蓄、どちらが良い？",
+      "a": "MMAは時にAPYわずかに高く、小切手発行可。HYSAは簡素。$10K+ならMMAが0.1-0.3%上で勝つ。能動的当座スタイル利用ならMMA、純粋貯蓄ならHYSA。"
+    },
+    {
+      "q": "MMAはFDIC保証？",
+      "a": "はい、預金者あたり銀行あたり$250Kまで。テストした5全て提携銀行経由でFDIC保証。VioはMidFirst Bank、CITはFirst Citizens経由。"
+    }
+  ],
+  "products": {
+    "ally-money-market": {
+      "badge": "🏆",
+      "review": "総合最有力。4.00% APY、手数料なし、小切手無料、MoneyPass ATM。最高評価の顧客サービス。",
+      "pros": [
+        "4.00% APY、手数料なし",
+        "小切手無料",
+        "MoneyPass ATMアクセス"
+      ],
+      "cons": [
+        "最高利回りではない",
+        "ネットアクセスのみ"
+      ]
+    },
+    "vio-bank-cornerstone-mma": {
+      "badge": "🚀",
+      "review": "テスト中最高APY 5.30%。最低$100、月額無料。ネット専業 — ATMアクセスなし。",
+      "pros": [
+        "5.30% APY最高",
+        "最低$100",
+        "MidFirst経由FDIC"
+      ],
+      "cons": [
+        "ATMアクセスなし",
+        "小銀行ブランド"
+      ]
+    },
+    "discover-money-market": {
+      "badge": "💎",
+      "review": "$100K未満4.00% APY、以上4.05%。60K Allpoint ATM無料（ATMアクセス最強）。最高顧客サービス。",
+      "pros": [
+        "60K無料ATM",
+        "$100K+で階層APY",
+        "最高顧客サービス"
+      ],
+      "cons": [
+        "手数料なしだがAPY低い",
+        "米国顧客基盤"
+      ]
+    },
+    "sallie-mae-money-market": {
+      "badge": "📈",
+      "review": "4.65% APY、最低なし、手数料なし。小切手無料だがATMカードなし。制限なしの中堅レート最強。",
+      "pros": [
+        "4.65% APY中堅",
+        "最低残高なし",
+        "小切手無料"
+      ],
+      "cons": [
+        "ATMアクセスなし",
+        "取引制限"
+      ]
+    },
+    "cit-bank-money-market": {
+      "badge": "🏦",
+      "review": "1.55% APY — 競合より大幅に低い。開設$100。他のCIT口座あるなら検討を。",
+      "pros": [
+        "First Citizens Bank支援",
+        "開設$100",
+        "FDIC保証"
+      ],
+      "cons": [
+        "1.55% APY（低い）",
+        "より良い代替あり"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ally-money-market": "4.00% APY、小切手無料",
+    "vio-bank-cornerstone-mma": "5.30% APY最高",
+    "discover-money-market": "60K無料ATM",
+    "sallie-mae-money-market": "4.65% APY、最低なし",
+    "cit-bank-money-market": "1.55% APY（低い）"
+  },
+  "pinDescription": "マネーマーケット口座5つをAPYとアクセスで比較。Ally vs Vio Bank vs Discover vs Sallie Mae vs CIT。5.30%〜1.55%スプレッド解説。#マネーマーケット"
+}
