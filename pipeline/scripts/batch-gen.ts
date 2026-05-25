@@ -124,7 +124,7 @@ function appendOffers() {
     })
     .join(",\n");
 
-  src = src.replace(/\n\];\s*$/, `,\n${insertion}\n];\n`);
+  src = src.replace(/\n\](\s+as[^;]+)?;\s*$/, `,\n${insertion}\n]$1;\n`);
   fs.writeFileSync(CATALOG_ADDITIONS, src);
   console.log(`→ added ${toAdd.length} new offers to catalog-additions.ts`);
 }

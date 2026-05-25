@@ -23,7 +23,7 @@ import { launch, ensureLoggedIn } from "./_browser.js";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const BOARD_NAME = "Pickly Picks";
-const UPLOAD_URL = "https://business.pinterest.com/en/create/bulk-upload/";
+const UPLOAD_URL = "https://business.pinterest.com/create/";
 const STATE_PATH = path.join(os.homedir(), ".config/pickly/pinterest-csv-uploaded.json");
 // Pinterest processes CSVs quickly but can take up to 2 min for large files
 const UPLOAD_TIMEOUT_MS = 120_000;
@@ -82,21 +82,58 @@ async function uploadCsv(csvPath: string, dryRun: boolean): Promise<boolean> {
     // ── 1. Bulk upload ページに移動 ──────────────────────────────────────
     console.log("  → 一括アップロードページへ移動");
     await page.goto(UPLOAD_URL, { waitUntil: "domcontentloaded", timeout: 30_000 });
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(4000); // JS render 待機を延長
+
+    // スクリーンショットでページ状態を記録
+    const ssPath = path.join(__dirname, `upload-debug-${Date.now()}.png`);
+    await page.screenshot({ path: ssPath, fullPage: true }).catch(() => {});
+    console.log(`  📸 スクリーンショット: ${path.basename(ssPath)}`);
 
     // ページ遷移後にリダイレクトされた場合も対応
     if (!page.url().includes("bulk-upload")) {
-      console.log("  → リダイレクト検出、再ナビゲート");
-      await page.goto(UPLOAD_URL, { waitUntil: "domcontentloaded", timeout: 30_000 });
-      await page.waitForTimeout(2000);
+      console.log(`  → リダイレクト検出 (現在: ${page.url()})、代替 URL を試行`);
+      // 代替 URL パターンを試す
+      const altUrls = [
+        "https://business.pinterest.com/en/create/",
+        "https://ads.pinterest.com/pin-builder/bulk/",
+        "https://business.pinterest.com/create/pin-builder/bulk/",
+      ];
+      for (const url of altUrls) {
+        await page.goto(url, { waitUntil: "domcontentloaded", timeout: 15_000 }).catch(() => {});
+        await page.waitForTimeout(2000);
+        if (page.url().includes("bulk") || await page.locator("input[type='file']").count() > 0) {
+          console.log(`  ✓ 移動先: ${page.url()}`);
+          break;
+        }
+      }
     }
 
-    // ── 2. ファイル選択 ───────────────────────────────────────────────────
+    // ── 2. 「一括アップロード」CTA ボタンを探してクリック ──────────────────
+    const ctaSelectors = [
+      "button:has-text('Upload a file')",
+      "button:has-text('ファイルをアップロード')",
+      "button:has-text('Get started')",
+      "button:has-text('Create pins from CSV')",
+      "[data-test-id*='upload']",
+      "button:has-text('Bulk')",
+      "a:has-text('Bulk upload')",
+    ];
+    for (const sel of ctaSelectors) {
+      const el = page.locator(sel).first();
+      if (await el.count() > 0) {
+        console.log(`  → CTA ボタン発見: ${sel}`);
+        await el.click().catch(() => {});
+        await page.waitForTimeout(2000);
+        break;
+      }
+    }
+
+    // ── 3. ファイル選択 ───────────────────────────────────────────────────
     console.log("  → CSV ファイルをアップロード");
 
     // input[type=file] は hidden のことが多いため visible を待たずに直接 setInputFiles
     const fileInput = page.locator("input[type='file']").first();
-    await fileInput.waitFor({ state: "attached", timeout: 15_000 });
+    await fileInput.waitFor({ state: "attached", timeout: 20_000 });
     await fileInput.setInputFiles(csvPath);
 
     // ── 3. アップロード完了を待機 ────────────────────────────────────────
