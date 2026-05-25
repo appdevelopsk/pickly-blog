@@ -66,5 +66,114 @@
     "john-boos-walnut-butcher-block": "Black walnut end-grain, Janka ~1010, paling lembut pada mata pisau dari semua pilihan, daya tarik visual maksimal. $150-400. Terbaik untuk tampilan dapur dan pengguna yang menginginkan papan paling menarik. Persyaratan perawatan minyak sama seperti end-grain maple."
   },
   "pinDescription": "Perbandingan talenan 2026: Boos Block maple vs Teakhaus teak vs OXO plastik vs Epicurean komposit vs John Boos walnut — bahan talenan mana yang paling aman untuk bakteri, terbaik untuk mata pisau, dan sepadan dengan harganya?",
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "Kami menilai setiap produk berdasarkan lima kriteria: profil rasa, transparansi sumber, nilai per porsi, integritas kemasan, dan seberapa baik kinerjanya di berbagai kasus penggunaan umum. Sertifikasi yang terdokumentasi dan ulasan pengguna yang diverifikasi dibandingkan silang dengan klaim pemasaran.",
+  "products": [
+    {
+      "offerId": "boos-block-maple-cutting-board",
+      "badge": "Terbaik Secara Keseluruhan",
+      "review": "Talenan Boos Block edge-grain maple adalah standar dapur kerja karena alasan: hard maple sekitar 1450 pada skala Janka mendarat di pita sempit di mana kayu cukup keras untuk menahan penggoresan tetapi cukup lembut untuk ramah pada mata pisau. Serat tertutup yang rapat mereseal setelah setiap potongan, yang merupakan mekanisme di balik perilaku ketahanan bakteri yang didokumentasikan dalam penelitian keamanan pangan UC Davis. Ukuran khas 18x12 atau 20x15 inci dengan ketebalan sekitar 1,5 inci memberikan massa termal dan akustik yang berarti selama pencacahan berat. Kondisioning minyak mineral setiap dua hingga empat minggu menjaga panel dari kekeringan atau melengkung.",
+      "pros": [
+        "Hard maple mencapai titik manis untuk pelestarian mata pisau",
+        "Serat tertutup mereseal dan menahan retensi bakteri",
+        "Ketebalan 1,5 inci yang substansial menjaga talenan stabil saat persiapan berat",
+        "Kualitas konstruksi seumur hidup, dapat diperbaiki dengan diampelas dan diminyaki ulang"
+      ],
+      "cons": [
+        "Memerlukan perawatan minyak mineral setiap dua hingga empat minggu",
+        "Harga premium dibandingkan alternatif plastik atau komposit"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "teakhaus-edge-grain-cutting-board",
+      "badge": "Terbaik untuk Perawatan Rendah",
+      "review": "Teakhaus menggunakan jati perkebunan dengan kandungan minyak alami dalam kisaran 2-8%, yang membuat talenan tahan air secara alami tanpa siklus minyak mineral rutin yang dibutuhkan maple. Kekerasan Janka sekitar 1000 sedikit lebih lunak dari maple, yang sedikit lebih mudah pada mata pisau; serat yang lebih kasar memberikan cengkeraman yang dapat digunakan selama pemotongan basah. Konstruksi edge-grain dalam panel standar 20x14 inci cukup padat untuk menyerap tekanan pisau tanpa melengkung.",
+      "pros": [
+        "Minyak jati alami berarti perawatan minyak mineral minimal",
+        "Sedikit lebih lunak dari maple, sedikit lebih lembut pada mata pisau",
+        "Bertahan lebih baik dari maple di lingkungan lembab",
+        "Biasanya dihargai di bawah papan Boos yang sebanding"
+      ],
+      "cons": [
+        "Kandungan silika dapat mempercepat keausan pada pisau yang sangat keras (HRC 62+)",
+        "Pola serat yang lebih kasar kurang halus secara visual dibandingkan maple"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "oxo-good-grips-plastic-cutting-board",
+      "badge": "Terbaik untuk Protein Mentah",
+      "review": "Talenan OXO Good Grips adalah plastik HDPE dengan tepi karet anti-selip dan alur jus di sekeliling perimeter, berukuran sekitar 10,5x14,5 inci pada model standar. HDPE adalah plastik yang tepat untuk pekerjaan memotong: bebas BPA, aman untuk mesin cuci piring pada suhu sanitasi, dan lebih lembut pada mata pisau daripada polipropilena kaku. Untuk ayam mentah, ikan, dan protein lain di mana risiko kontaminasi silang adalah prioritas, ini adalah material yang tepat karena siklus sanitasi benar-benar bekerja.",
+      "pros": [
+        "Aman untuk mesin cuci piring pada suhu sanitasi",
+        "Alur jus menahan cairan saat mengukir daging",
+        "Tepi karet menjaga talenan stabil di meja yang licin",
+        "Harga terjangkau untuk diganti saat goresan permukaan menumpuk"
+      ],
+      "cons": [
+        "Lebih keras pada mata pisau daripada kayu",
+        "Permukaan yang tergores menjadi reservoir bakteri seiring waktu"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "epicurean-kitchen-series-cutting-board",
+      "badge": "Pilihan Ringan Terbaik",
+      "review": "Talenan Kitchen Series Epicurean adalah komposit kertas — serat kraft dikompresi dengan resin aman makanan — menghasilkan panel setebal sekitar 1/4 inci yang aman untuk mesin cuci piring dan beratnya sebagian kecil dari talenan kayu keras yang sebanding. Tidak ada serat berarti tidak ada perawatan minyak dan tidak ada kekhawatiran pelengkungan, yang merupakan daya tarik utama.",
+      "pros": [
+        "Aman untuk mesin cuci piring tanpa risiko melengkung",
+        "Profil tipis 1/4 inci cocok untuk celah penyimpanan yang sempit",
+        "Cukup ringan untuk ditangani dengan satu tangan",
+        "Tidak ada kebutuhan perawatan minyak"
+      ],
+      "cons": [
+        "Lebih keras pada mata pisau daripada talenan kayu",
+        "Permukaan komposit tidak memiliki perilaku self-healing kayu end-grain"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "john-boos-walnut-butcher-block",
+      "badge": "Estetika Premium Terbaik",
+      "review": "Butcher block walnut John Boos adalah konstruksi end-grain dari black walnut, dengan kekerasan Janka sekitar 1010 — lebih lunak dari maple, sedikit lebih lunak dari jati, dan pilihan kayu paling lembut di sini untuk mata pisau. Orientasi end-grain berarti mata pisau meluncur di antara serat kayu vertikal daripada melintasinya, menghasilkan permukaan self-healing khas. Preminya dibayar hampir seluruhnya untuk serat coklat tua yang jauh lebih mencolok secara visual di island atau meja dapur.",
+      "pros": [
+        "Pilihan kayu paling lunak di sini, paling lembut pada mata pisau",
+        "Konstruksi end-grain memaksimalkan perilaku self-healing",
+        "Serat walnut gelap yang mencolok secara visual",
+        "Kualitas konstruksi Boos yang sama teruji seperti lini maple"
+      ],
+      "cons": [
+        "Jauh lebih mahal dari maple yang setara",
+        "End-grain memerlukan peminyakan yang konsisten untuk mencegah retak"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Juru masak rumahan serius dengan pisau Jepang",
+      "offerId": "boos-block-maple-cutting-board",
+      "reason": "Hard maple pada Janka 1450 melindungi mata pisau Jepang yang tipis lebih baik dari plastik atau komposit mana pun sambil tetap cukup keras untuk persiapan berat sehari-hari."
+    },
+    {
+      "label": "Juru masak perawatan rendah dekat wastafel",
+      "offerId": "teakhaus-edge-grain-cutting-board",
+      "reason": "Kandungan minyak alami jati membuat talenan stabil melalui kelalaian lembab sesekali yang akan melengkungkan maple yang tidak dirawat."
+    },
+    {
+      "label": "Juru masak yang banyak mempersiapkan ayam mentah",
+      "offerId": "oxo-good-grips-plastic-cutting-board",
+      "reason": "HDPE adalah satu-satunya material di sini yang bertahan dari siklus sanitasi mesin cuci piring, yang sebenarnya membunuh patogen yang dibawa protein."
+    },
+    {
+      "label": "Penyewa dapur kecil tanpa penyimpanan",
+      "offerId": "epicurean-kitchen-series-cutting-board",
+      "reason": "Profil komposit 1/4 inci meluncur ke celah sempit di mana balok kayu 1,5 inci tidak akan muat."
+    },
+    {
+      "label": "Juru masak dengan dapur island terbuka",
+      "offerId": "john-boos-walnut-butcher-block",
+      "reason": "Walnut end-grain adalah permukaan yang paling mencolok secara visual dalam perbandingan ini dan pilihan kayu paling lembut di sini untuk mata pisau."
+    }
+  ]
 }

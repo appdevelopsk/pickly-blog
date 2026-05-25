@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "title": "En İyi Bisiklet Kaskları 2026: MIPS Koruma, Havalandırma ve Uyum Karşılaştırması",
+    "description": "Beş bisiklet kaskı MIPS koruması, havalandırma, uyum sistemleri ve kullanım senaryosu açısından karşılaştırıldı — 75 dolarlık Specialized Align II'den 280 dolarlık Smith Trace MIPS'e kadar."
+  },
+  "lede": "Kafa koruması, 'yeterince iyi' standardının yanlış olduğu tek bisiklet ekipmanıdır. Bu karşılaştırmadaki beş kask farklı sürüş bağlamlarını kapsıyor. Başın şekline ve iklime uygun kaskı bulmak en önemli şeydir.",
+  "sections": [
+    {
+      "heading": "MIPS: astarlık gerçekte ne yapıyor ve ne zaman önem taşıyor",
+      "paragraphs": [
+        "MIPS (Çok Yönlü Darbe Koruma Sistemi), eğik darbe sırasında kask kabuğunun kafadan bağımsız olarak 10-15 mm dönmesine izin veren kasktaki düşük sürtünmeli bir katmandır. Mekanizma dönel kuvvetlere hitap eder — darbe düz aşağıdan gelmek yerine bir açıdan geldiğinde beynin maruz kaldığı ivme türü. Gerçek bisiklet kazalarının çoğu eğik darbeler içerir. Dik dikey darbeler aslında kaza senaryolarının azınlığını oluşturur.",
+        "Bu karşılaştırmadaki beş kask da MIPS içeriyor. Aralarındaki fark MIPS'in olup olmadığında değil, uygulamanın iç uyumu, havalandırma yolunu ve kasın baş üzerindeki hissini nasıl etkilediğindedir. Giro Syntax MIPS ve Smith Trace MIPS'te MIPS astarlığı bu etkinin minimal olduğu kadar incedir.",
+        "Virginia Tech Kask Laboratuvarı'nın bağımsız MIPS etkinliği testleri sürekli olarak MIPS donanımlı kaskların dönel enerji aktarım puanlarında karşılaştırılabilir MIPS'siz kasklara göre üstün performans gösterdiğini ortaya koymaktadır. Beş kask da Virginia Tech tarafından değerlendirilmiş ve tümü 4-5 yıldız aralığında puan almıştır.",
+        "Bir nüans: MIPS tek dönel koruma sistemi değil. Smith, Trace'de MIPS'in yanı sıra kendi Koroyd malzemesini kullanıyor ve Bell, darbe sırasında uyum pedlerinin kafayla etkileşimini değiştiren Float Fit sistemini geliştirdi. Giro, tescilli bir paralel sistem olmadan çoğu ürün gamında MIPS kullanıyor. Pratik sonuç açık: beş kasktaki de MIPS var ve tümünün bağımsız güvenlik derecelendirmeleri güçlü — farklılıklar uyum, havalandırma ve sürüş bağlamında kendini gösteriyor."
+      ]
+    },
+    {
+      "heading": "Havalandırma: hava deliği sayısı, kanal tasarımı ve gerçek hava akışı farkları",
+      "paragraphs": [
+        "Giro Syntax MIPS, havayı öne ile arkadan kasın içinden kanallayan Wind Tunnel havalandırma sisteminde düzenlenmiş 25 hava deliğine sahiptir. Yol bisikleti hızlarında (20-30 km/s+) Syntax, kafanın üstünde ve yanlarında güçlü hava akışı sağlar. Sıcak havada yol bisikleti sürüşü için Syntax, nesnel hava deliği sayısı ve kanal yüzey alanı bakımından bu karşılaştırmadaki en iyi havalandırmalı kasktır.",
+        "Smith Trace MIPS farklı bir yaklaşım benimsiyor: 21 delikli Syntax'tan daha agresif profilli aerodinamik bir kask. Koroyd malzemesi — birbirine bağlı ko-polimer tüpler dizisi — havanın yalnızca etrafından değil malzemenin kendisinden geçmesine izin vererek hava akışına katkıda bulunur. Aerodinamiğin bisiklet performansını anlamlı ölçüde etkilediği hızlarda (30+ km/s) Trace buradaki tercih.",
+        "Bell Super Air R MIPS, çakıl ve parkur bisikleti için tasarlanmıştır. 18 deliği var. Çıkarılabilir çene koruyucusu çok yönlülük katıyor ama aynı zamanda yaklaşık 100 gram ağırlık ekliyor ve takıldığında hava akışını azaltıyor.",
+        "Specialized Align II MIPS 18 delik ve sade kanal tasarımına sahip. Syntax'ın Wind Tunnel sistemi kadar gelişmiş değil ama rekreasyonel yol bisikleti için yeterli havalandırma sağlıyor.",
+        "Nutcase Street MIPS 12 deliğe sahip kentsel commuter kasktır — kentsel bisiklet hızları ve commuter kullanımı için yeterli. İşe 5-15 km mesafede giden bir bisikletçi için Nutcase'in havalandırması fazlasıyla yeterli."
+      ]
+    },
+    {
+      "heading": "Uyum sistemleri: BOA, Roc Loc, Float Fit ve tutma kadranı karşılaştırması",
+      "paragraphs": [
+        "Giro Syntax MIPS, dikey konumu ve çevre ölçüsünü bağımsız olarak ayarlayan kadran ayarlı arka beşikle Giro'nun Roc Loc 5 Air uyum sistemini kullanıyor. Roc Loc 5 Air hassas mikro ayarlara izin veriyor ve sürüş sırasında kask çıkarılmadan ince ayar yapılabiliyor.",
+        "Smith Trace MIPS, arkada kadran bulunan ayarlanabilir VaporFit tutma sistemini kullanıyor. Kask üç boyutta (S, M, L) sunuluyor; bu Giro'nun iki boyutlu sistemine kıyasla biraz daha iyi başlangıç boyut kapsamı sağlıyor.",
+        "Bell Super Air R MIPS, arkada Boa kadranıyla Bell'in Float Fit sistemini kullanıyor. Boa kadran mekanizması, bisiklet kasklarındaki en iyi tutma kadranı uygulamalarından biri — tek elle mikro ayar, kafa çevresinde tutarlı gerilim dağılımı.",
+        "Specialized Align II MIPS, Specialized'ın Headset MX uyum sistemini kullanıyor — sade kadran ayarlı bir beşik. Sürüşler arasında uyumu bir kez ayarlayıp bırakan rekreasyonel bisikletçiler için bu bir sorun değil.",
+        "Nutcase Street MIPS, çevre ölçüsünü ayarlayan döner tutma sistemi kullanıyor. Nutcase'in yuvarlak kabuğu, aerodinamik yol kasklarına kıyasla daha geniş baş şekillerine uyuyor. Kalibrasyonsuz güvenli ve öngörülebilir uyum isteyen commuter'lar için Nutcase sistemi işe yarıyor."
+      ]
+    },
+    {
+      "heading": "CE EN 1078, CPSC ve güvenlik sertifikaları: damgaların anlamı",
+      "paragraphs": [
+        "Beş kask da birincil pazarları için ilgili güvenlik sertifikasyonunu karşılıyor. CPSC standardı ABD'de satılan kasklara hükmedip belirli düşüş testlerini başarıyla geçmesini gerektiriyor. CE EN 1078 standardı Avrupa'da satılan kasklara hükmediyor. Her iki standart da minimum eşik sertifikasyonları — koruma için bir taban belirliyorlar, tavan değil.",
+        "Virginia Tech'in 5 yıldızlı kask derecelendirme sistemi, dönel enerji aktarımını da test ettiği için tüketicilere sunulan en yararlı bağımsız değerlendirme aracıdır. Puanlar helmet.beam.vt.edu adresinde yayınlanıyor. Giro Syntax MIPS, Smith Trace MIPS ve Bell Super Air R MIPS'in tümü 5 yıldızlı Virginia Tech derecelendirmesine sahip. Specialized Align II MIPS 4 yıldız derecelendirmesi taşıyor. Nutcase Street MIPS 4 yıldız aralığında derecelendiriliyor.",
+        "Sertifikasyon ile uyum hakkında pratik bir not: başınıza doğru oturmayan 5 yıldızlı bir kask, tam oturan 4 yıldızlı bir kasktan daha az koruyucu. Boyut seçmeden önce başınızı ölçün ve uyumu tutma kadranı sıkı ve kask yatay pozisyondayken doğrulayın."
+      ]
+    },
+    {
+      "heading": "Aero veya konfor: her profil tercihinin gerçekten ne zaman önem taşıdığı",
+      "paragraphs": [
+        "Smith Trace MIPS, bu karşılaştırmada açıkça aerodinamik avantaj için tasarlanmış tek kasktır. Damla esinli profili ve düzgün dış kabuğu yaklaşık 35 km/s üzerindeki hızlarda direnci azaltıyor. Smith'in rüzgar tüneli testleri standart bir yol kaskına kıyasla yarış hızında saatte 30-60 saniyelik tasarruf gösteriyor.",
+        "Giro Syntax MIPS, aerodinamiğin önüne havalandırmayı koyuyor. Açık kanal tasarımı ve yüksek delik sayısı, ısı yönetiminin direnci azaltmaktan daha önemli olduğu uzun sıcak hava sürüşleri için daha iyi tercih yapıyor.",
+        "Bell Super Air R MIPS, dönüştürülebilir kask olarak benzersiz bir konumda yer alıyor. Çene koruyucusu olmadan capable gravel/yol kaskı olarak işlev görüyor; takıldığında teknik MTB inişleri için uygun tam yüz kask haline geliyor.",
+        "Specialized Align II MIPS genel amaçlı bir yol ve rekreasyon kaskıdır. Havalandırma, aerodinamik veya arazi çok yönlülüğünde öne çıkmıyor — düşük fiyata sağlam koruma sunuyor.",
+        "Nutcase Street MIPS bir yaşam tarzı kaskıdır. Yuvarlak tasarımı, derin kapsamı ve renk desenleri, kafeye veya ofise gittiğinde yarışçı bisikletçi gibi görünmek istemeyen kentsel bir sürücü için kasıtlı tercihlerdir."
+      ]
+    },
+    {
+      "heading": "Karar",
+      "paragraphs": [
+        "Düzenli antrenman yapan ve makul bir fiyata MIPS koruması ile havalandırmanın en iyi kombinasyonunu isteyen yol bisikletçileri için Giro Syntax MIPS referans tercihtir. Wind Tunnel havalandırması, Roc Loc 5 Air uyum sistemi ve 5 yıldızlı Virginia Tech derecelendirmesi, rekreasyonelden rekabetçi antrenman kullanımına kadar bu karşılaştırmadaki en dengeli yol bisikleti kaskı yapıyor.",
+        "Yol etkinliklerinde yarışıyorsanız, 30 km/s üzerinde düzenli olarak grupla sürüyorsanız veya aerodinamik verimliliği öncelik olarak görüyorsanız Smith Trace MIPS'i seçin.",
+        "Çakıl yolları, karma arazi rotaları sürüyor ya da çene koruyucusu takılıyken yol/parkur sürüşünden teknik inişlere geçebilecek bir kask istiyorsanız Bell Super Air R MIPS'i seçin.",
+        "Bu karşılaştırmadaki en düşük fiyatta sertifikalı MIPS koruması istiyorsanız Specialized Align II MIPS'i seçin. 75 dolarlık fiyat onu ilk ciddi kask yükseltmesi olarak erişilebilir yapıyor.",
+        "Sürüşünüz ağırlıklı olarak kentsel commuting veya şehir bağlamında kısa rekreasyonel gezintilerden oluşuyorsa Nutcase Street MIPS'i seçin.",
+        "Bu kasklara bağımsız çarpışma testi uygulamadık. Güvenlik derecelendirmeleri Virginia Tech'in yayınlanmış kask derecelendirme veri tabanından, üretici sertifikasyonlarından ve üçüncü taraf bisiklet medyası testlerinden alınmıştır. Uyum, baş şekline göre önemli ölçüde değişiyor — mümkünse satın almadan önce kasları şahsen deneyin."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kask fiyatı daha iyi güvenlik korumasıyla bağlantılı mı?",
+      "a": "Doğrudan değil. Minimum güvenlik sertifikaları (CPSC, CE EN 1078) 30 ila 400 dolar arasındaki her fiyat noktasında kasklar tarafından karşılanıyor. Prim fiyatlandırma daha iyi uyum sistemleri, daha gelişmiş havalandırma mühendisliği, MIPS veya eşdeğer dönel koruma ve ağırlığı azaltan malzemeler satın alıyor. MIPS ve iyi bir uyum sistemi için yeterince harcayın; bunun ötesinde ek maliyet güvenlik için değil konfor ve performans içindir."
+    },
+    {
+      "q": "Bisiklet kaskımı ne sıklıkla değiştirmeliyim?",
+      "a": "Köpük astarı sıkıştırmış olabileceğiniz herhangi bir darbeden hemen sonra kaskyı değiştirin — kabuk dışarıdan hasarsız görünse bile. EPS köpük astarları darbe enerjisini absorbe etmek için kalıcı olarak şekil bozarak çalışır; şekli bozulduktan sonra köpük ikinci bir darbede aynı korumayı sağlayamaz. Çoğu üretici, köpük ve kayışların UV bozunmasını gerekçe göstererek her 3-5 yılda bir kask değiştirmeyi öneriyor."
+    },
+    {
+      "q": "Specialized Align II gibi 75 dolarlık bir kask ciddi sürüş için gerçekten güvenli mi?",
+      "a": "Evet, doğru şekilde oturduğunda. Specialized Align II MIPS 4 yıldızlı Virginia Tech derecelendirmesi taşıyor — düşük güvenlik performanslı bir ürün değil. 75 dolarlık fiyat, Giro Syntax veya Smith Trace'e kıyasla daha basit bir uyum sistemi ve daha az gelişmiş havalandırma mühendisliği anlamına geliyor. MIPS astarı aynı temel teknolojidir."
+    },
+    {
+      "q": "Bell Super Air R MIPS'i çene koruyucusu olmadan yol bisikleti kaskı olarak kullanabilir miyim?",
+      "a": "Evet. Çene koruyucusu takılı olmadan Bell Super Air R MIPS standart açık yüz yol/çakıl kaskı olarak işlev görüyor. Çene koruyucusu olmadan ağırlık (yaklaşık 350g) Giro Syntax (~260g) veya Smith Trace (~280g)'den daha ağır — uzun yol sürüşlerinde kayda değer bir fark."
+    },
+    {
+      "q": "MIPS ile WaveCel veya SPIN teknolojisi arasındaki fark nedir?",
+      "a": "MIPS, WaveCel (bazı Trek/Bontrager kasklarda kullanılır) ve SPIN (bazı POC kasklarda kullanılır) eğik darbelerdeki dönel enerji aktarımını ele alır ancak farklı mekanizmalar aracılığıyla. MIPS, köpük ile kafa arasında düşük sürtünmeli kayma astarı kullanır. WaveCel hem çizgisel darbeyi absorbe etmek için çöküp hem de dönel kuvvetleri absorbe etmek için bükülmek üzere katlanabilir hücresel yapı kullanır. SPIN, eğik darbe sırasında makaslayan kasktaki belirli konumlara yerleştirilen silikon pedler kullanır. Virginia Tech'in bağımsız testi üç sistemi de kapsıyor ve üç üreticiden de kasklar 4-5 yıldız aralığında derecelendiriliyor."
+    }
+  ],
+  "offerNotes": {
+    "giro-syntax-mips": "Antrenman ve sportif kullanım için en dengeli yol bisikleti kaskı. 25 delikli Wind Tunnel havalandırması, Roc Loc 5 Air uyum sistemi, 5 yıldızlı Virginia Tech derecelendirmesi. Sıcak havada sert sürüş yapan ve aerodinamik için fazladan ödeme yapmadan hassas uyum isteyen yol bisikletçileri için doğru tercih.",
+    "smith-trace-mips": "Bu karşılaştırmadaki en iyi aerodinamik yol kaskı. Koroyd yapısı artı MIPS, 5 yıldızlı Virginia Tech derecelendirmesi ve 30 km/s üzerinde sürüş için tasarlanmış profil. Aerodinamik verimlilik bir antrenman veya yarış önceliğiyse bunu seçin.",
+    "bell-super-air-r-mips": "Yol, çakıl ve teknik inişleri kapsayacak tek kask isteyen çakıl ve karma arazi sürücüleri için en iyi kask. Boa tutma kadranı mükemmel. Çıkarılabilir çene koruyucusu çok yönlülük katıyor; ağırlık dezavantajı gerçek.",
+    "specialized-align-ii-mips": "Bu karşılaştırmadaki en iyi değerli MIPS kaskı. 4 yıldızlı Virginia Tech derecelendirmesi, CPSC/CE sertifikalı, gerçek MIPS astarı, 75 dolarda. Temel MIPS'siz kasktan yükseltme yapan bisikletçiler için doğru ilk yükseltme.",
+    "nutcase-street-mips": "Kentsel commuter'lar ve şehir bisikletçileri için en iyi kask. Derin kapsam, stil ve yan darbe koruması için tasarlanmış yuvarlak profil, MIPS astarı, birden fazla renkte mevcut. Yol antrenman sürüşleri veya uzun aerobik çabalar için uygun değil."
+  },
+  "pinDescription": "2026'nın en iyi bisiklet kasklarının karşılaştırması: MIPS koruması, havalandırma ve uyum için Giro vs Smith vs Bell vs Specialized vs Nutcase. Hangi kask sürüşünüze uyuyor — yol, çakıl, commute veya MTB?",
+  "methodology": "Her ürün beş kriter bazında değerlendirildi: yapım kalitesi, tipik kullanım altındaki performans, zamanla dayanıklılık, konfor ve dolar başına değer. Performans ve dayanıklılığa en yüksek ağırlığı verdik çünkü bunlar 12 ay sonra ürünün hâlâ işe yarayıp yaramadığını belirliyor.",
+  "products": [
+    {
+      "offerId": "giro-syntax-mips",
+      "badge": "En İyi Genel",
+      "grade": "A+",
+      "review": "Giro Syntax MIPS, bu karşılaştırmadaki en dengeli yol bisikleti kaskıdır ve sıcak havada antrenman yapan bisikletçiler için en kolay önerilen kasktır. Giro'nun Wind Tunnel havalandırma sistemindeki 25 delik, kask içinden öne ile arkadan hava çeker ve Roc Loc 5 Air uyum kadranı, sürüş sırasında kask çıkarılmadan bağımsız dikey ve çevre ayarına izin verir. 5 yıldızlı Virginia Tech derecelendirmesi taşıyor ve hem CPSC hem CE EN 1078 standartlarını karşılıyor. Yaklaşık 150 dolarda premium uyum sistemi ve gerçek havalandırma mühendisliği elde ediyorsunuz.",
+      "pros": [
+        "25 delikli Wind Tunnel hava akışı kanalları sıcak havada sürüşü hallediyor",
+        "Roc Loc 5 Air kadranı bağımsız dikey ve çevre ayarına izin veriyor",
+        "CPSC ve CE EN 1078 sertifikasyonuyla 5 yıldızlı Virginia Tech derecelendirmesi",
+        "Orta segment fiyat, kullanılmayan aero özellikler için ödemeyi önlüyor"
+      ],
+      "cons": [
+        "Sığ yol profili, çakıl kasklarından daha az yan kapsam sağlıyor",
+        "İki boyutlu boyutlandırma, üç boyutlu serilere kıyasla daha az başlangıç hassasiyeti sunuyor"
+      ]
+    },
+    {
+      "offerId": "smith-trace-mips",
+      "badge": "Hız İçin En İyi",
+      "grade": "A",
+      "review": "Smith Trace MIPS, bu karşılaştırmadaki aero kask tercihi. Damla esinli profil ve Koroyd malzemesi — havanın yapının kendisinden geçmesine izin veren bir arada tutturulmuş ko-polimer tüpler dizisi — 35 km/s üzerinde gerçek aerodinamik avantaj ve kapalı kabuk görünüşüne rağmen makul havalandırma üretiyor. Smith'in rüzgar tüneli testleri yarış hızında standart yol kaskına kıyasla saatte 30-60 saniyelik tasarruf gösteriyor. 5 yıldızlı Virginia Tech derecelendirmesi.",
+      "pros": [
+        "Aerodinamik profil 35 km/s üzerinde saatte 30-60 saniye kazandırıyor",
+        "Koroyd yapısı malzemenin kendisinden hava akışı sağlıyor",
+        "Kanıtlanmış dönel korumayla 5 yıldızlı Virginia Tech derecelendirmesi",
+        "Üç boyutlu boyutlandırma başlangıç uyum kapsamını iyileştiriyor"
+      ],
+      "cons": [
+        "21 delik, hareketsiz havada yavaş tırmanışta Syntax'ın gerisinde kalıyor",
+        "Aero avantajı 30 km/s altında önemli ölçüde azalıyor"
+      ]
+    },
+    {
+      "offerId": "bell-super-air-r-mips",
+      "badge": "En İyi Dönüştürülebilir",
+      "grade": "A",
+      "review": "Bell Super Air R MIPS benzersiz bir konumda: çene koruyucusu çıkarılmışken yetenekli bir çakıl ve yol kaskı olarak işlev görüyor; çene koruyucusu takıldığında teknik MTB inişleri için tam yüz kask haline geliyor. Boa tutma kadranıyla Float Fit sistemi, bu karşılaştırmadaki en iyi uyum mekanizması — kafa çevresinde tutarlı gerilim dağılımıyla tek elle mikro ayar. Kapsam, Syntax veya Trace'den daha aşağıya, şakaklar ve kulaklar üzerine uzanıyor. Ağırlık çene koruyucusu olmadan yaklaşık 350g ve takılıyken 450g. 5 yıldızlı Virginia Tech derecelendirmesi.",
+      "pros": [
+        "Çıkarılabilir çene koruyucusu yol, çakıl ve teknik iniş kullanımını kapsıyor",
+        "Boa tutma kadranı buradaki en iyi uyum mekanizması",
+        "Daha derin kapsam yol dışı çarpışmalar için şakakları ve kulakları koruyor",
+        "Dönüştürülebilir tasarım boyunca 5 yıldızlı Virginia Tech derecelendirmesi"
+      ],
+      "cons": [
+        "350-450g ağırlık saf yol kasklarından daha ağır çalışıyor",
+        "Çene koruyucusu kütlesi ve karmaşıklığı yalnızca gerçekten kullanırsanız ödenmeye değer"
+      ]
+    },
+    {
+      "offerId": "specialized-align-ii-mips",
+      "badge": "En İyi Değer",
+      "grade": "B+",
+      "review": "Specialized Align II MIPS, bu karşılaştırmadaki değer tercihi. Yaklaşık 75 dolara gerçek MIPS astarı, CPSC ve CE sertifikasyonu ve 4 yıldızlı Virginia Tech derecelendirmesi alıyorsunuz — daha yüksek fiyatlardaki MIPS'siz kaskaların çoğundan önemli ölçüde önde. Headset MX uyum sistemi, Syntax'ın Roc Loc 5 Air'inin bağımsız dikey ayarı olmayan sade kadran ayarlı bir beşiktir. Rekreasyonel bisikletçiler için Align II, doğru korumayı erişilebilir kılan bir fiyata sunuyor.",
+      "pros": [
+        "Bu karşılaştırmadaki en düşük fiyatta gerçek MIPS astarı",
+        "CPSC ve CE EN 1078 sertifikasyonuyla 4 yıldızlı Virginia Tech derecelendirmesi",
+        "18 delik, rekreasyonel yol kullanımı için yeterli havalandırma sağlıyor",
+        "Sade Headset MX kadranı, bir kez ayarlayan sürücüler için konumu iyi koruyor"
+      ],
+      "cons": [
+        "Headset MX'te bağımsız dikey ayar eksik",
+        "Kanal havalandırması Wind Tunnel tasarımlarına kıyasla daha sığ"
+      ]
+    },
+    {
+      "offerId": "nutcase-street-mips",
+      "badge": "Commuting İçin En İyi",
+      "grade": "B+",
+      "review": "Nutcase Street MIPS kentsel commuter tercihi. Yuvarlak in-mold polikarbonat kabuk, yol kasklarına kıyasla kulaklar ve şakaklar üzerinde daha aşağıya uzanıyor; yan çarpmalar yaygın kaza vektörü olan kentsel sürücüler için bu önem taşıyor. On iki delik — 5-15 km kentsel bisiklet sürüşü için yeterli. Döner tutma sistemi tek elle çalışıyor. 4 yıldız Virginia Tech derecelendirme aralığında MIPS astarı.",
+      "pros": [
+        "Daha derin kapsam kentsel yan çarpmalar için şakakları ve kulakları koruyor",
+        "Yuvarlak profil daha geniş baş şekil aralığına uyuyor",
+        "Mevcut stiller ve desenler, günlük kıyafetlerle sürüş için uygun",
+        "4 yıldız Virginia Tech derecelendirme aralığında MIPS astarı"
+      ],
+      "cons": [
+        "12 delik, sıcak yaz sürüşlerinde belirgin ısı birikimi oluşturuyor",
+        "Yaşam tarzına uyarlanmış profil, yol antrenmanı için aerodinamik değil"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Çoğu yol bisikletçisi için",
+      "offerId": "giro-syntax-mips",
+      "reason": "Wind Tunnel havalandırması, Roc Loc 5 Air uyumu ve 5 yıldız, aero özellikler için ödeme yapmadan sıcak hava antrenmanını kapsıyor."
+    },
+    {
+      "label": "Yarışçılar ve hızlı grup sürüşleri için",
+      "offerId": "smith-trace-mips",
+      "reason": "Aero profil 35 km/s üzerinde saatte 30-60 saniye kazandırıyor, Koroyd hava akışı havalandırmayı makul tutuyor."
+    },
+    {
+      "label": "Çakıl ve karma arazi sürücüleri için",
+      "offerId": "bell-super-air-r-mips",
+      "reason": "Çıkarılabilir çene koruyucusu ve daha derin kapsam aynı bisiklette yol, çakıl ve teknik inişleri hallediyor."
+    },
+    {
+      "label": "İlk ciddi kask yükseltmesi için",
+      "offerId": "specialized-align-ii-mips",
+      "reason": "75 dolara gerçek MIPS ve 4 yıldızlı Virginia Tech derecelendirmesi erişilebilir fiyata gerçek koruma sağlıyor."
+    },
+    {
+      "label": "Kentsel commuter'lar için",
+      "offerId": "nutcase-street-mips",
+      "reason": "Daha derin kulak ve şakak kapsamı artı günlük kıyafet dostu stil, kasın gerçekten her gün takılması anlamına geliyor."
+    }
+  ]
+}
