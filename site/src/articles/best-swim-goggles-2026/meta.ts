@@ -1,5 +1,4 @@
 import type { ArticleMeta } from "@/lib/articles/types";
-import { ALL_LOCALES } from "@/lib/i18n/locales";
 
 export const meta: ArticleMeta = {
   slug: "best-swim-goggles-2026",
@@ -14,6 +13,6 @@ export const meta: ArticleMeta = {
   ],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: [...ALL_LOCALES],
+  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
   ogImage: "auto",
 };

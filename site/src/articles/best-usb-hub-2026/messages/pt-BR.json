@@ -1,0 +1,234 @@
+{
+  "title": "Melhores hubs USB 2026: 5 opções comparadas",
+  "description": "Do CalDigit TS4 (dock Thunderbolt 4, 18 portas incluindo 2,5GbE, 98W carregamento de host, DisplayPort, USB-C 10Gbps, 3× USB-A 10Gbps) ao Anker 564 USB-C Hub (7-em-1, USB-C 10Gbps, HDMI 4K, 85W PD, USB-A 3.0, leitor de cartão SD) ao Satechi V3 Multi-Port Adapter (USB-C 10Gbps, HDMI 4K 60Hz, 100W PD passthrough, SD/microSD, USB-A 3.0, Ethernet) ao Elecom U3HC-A430BBK (mercado Japão, 4× USB-A 3.1 Gen1, USB-C 60W PD, alumínio, amplamente disponível) e Plugable UD-6950Z (dock DisplayLink USB-C/USB-A, dual display 4K, 100W PD, Ethernet Gigabit, 6× USB-A). Cinco hubs comparados em contagem de portas, velocidade de dados USB-C, potência de alimentação, capacidade de saída de display e disponibilidade em mercado Japão.",
+  "lede": "Cinco hubs USB e docks — do CalDigit TS4 que é o benchmark profissional Thunderbolt 4 ao hub Elecom que você pode comprar hoje em qualquer Yodobashi ao Anker 564 que cobre 90% das necessidades por uma fração do preço. A diferença entre um hub e um dock importa mais do que a contagem de portas.",
+  "methodology": "Cada produto foi avaliado contra especificações documentadas, benchmarks de terceiros e relatórios de usuários verificados. Pontuamos contagem e variedade de portas, throughput de dados USB-C (USB 3.2 Gen2 vs Thunderbolt 4), potência de alimentação passthrough, capacidade de saída de display e disponibilidade no mercado Japão.",
+  "recommendedFor": [
+    {
+      "label": "Para usuários MacBook Pro que precisam de desempenho Thunderbolt 4",
+      "offerId": "usb-hub-caldigit-ts4",
+      "reason": "A conexão Thunderbolt 4 do CalDigit TS4 oferece 40Gbps de largura de banda para armazenamento NVMe, dual display 6K e carregamento de host 98W simultaneamente."
+    },
+    {
+      "label": "Para viajantes que precisam de um hub compacto tudo-em-um",
+      "offerId": "usb-hub-anker-564-usb-c",
+      "reason": "Anker 564 cobre HDMI, expansão USB-A, acesso a cartão SD e alimentação 85W PD em um fator de forma portátil com bus power."
+    },
+    {
+      "label": "Para compradores com base no Japão que precisam de compra de hub no mesmo dia",
+      "offerId": "usb-hub-elecom-jp",
+      "reason": "Elecom U3HC-A430BBK está em estoque na Yodobashi Camera e Bic Camera com expansão confiável USB-C para USB-A a 60W PD."
+    },
+    {
+      "label": "Para configurações de dual display em um PC Windows sem Thunderbolt",
+      "offerId": "usb-hub-plugable-ud-6950z",
+      "reason": "Plugable UD-6950Z usa tecnologia DisplayLink para dirigir dual display 4K de qualquer porta USB-C ou USB-A sem Thunderbolt."
+    },
+    {
+      "label": "Para estética de mesa limpa com 100W PD e Ethernet",
+      "offerId": "usb-hub-satechi-v3-multiport",
+      "reason": "Satechi V3 oferece 100W PD passthrough, HDMI 4K 60Hz, Ethernet e leitor de cartão SD em um adaptador multiporta de alumínio fino."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Como comparamos",
+      "paragraphs": [
+        "Não realizamos testes independentes de velocidades de transferência de dados USB com arquivos padronizados em todos os cinco produtos, nem medimos precisão de potência de alimentação sob carga. Testes rigorosos de hub USB requerem um analisador de protocolo USB para medir o throughput de dados real em relação à especificação e um wattímetro de precisão para verificar a potência PD reclamada sob carga de carregamento sustentado — nenhum dos quais reproduzimos aqui.",
+        "Em vez disso: revisamos especificações do fabricante para contagem de portas, geração USB, potência de alimentação e capacidade de saída de display. Fizemos referências cruzadas com benchmarks publicados de Ars Technica, The Verge e mídia tecnológica japonesa (Gigazine, PC Watch) onde existem medições independentes de velocidade de transferência. Agregamos resenhas de usuários de longo prazo de Amazon JP, Rakuten Ichiba e fontes internacionais — procurando especificamente relatórios de problemas de compartilhamento de largura de banda USB, falhas de carregamento PD, superaquecimento de hub sob carga sustentada e problemas de compatibilidade Thunderbolt com laptops host específicos.",
+        "A distinção hub vs dock importa para esta comparação. Um hub USB expande a contagem de portas sem conexão de host alimentada — extrai energia do host através da conexão USB e não fornece carregamento significativo ao host. Um adaptador multiporta adiciona saída de display e leitores de cartão, tipicamente com alimentação passthrough para carregar o host. Um dock fornece sua própria fonte de alimentação, carrega o host e pode dirigir múltiplos displays independentemente. O CalDigit TS4 é um dock. Anker 564 e Satechi V3 são adaptadores multiporta. Elecom e Plugable UD-6950Z ocupam o meio — hubs alimentados com capacidade de saída de display. Entender qual categoria você precisa antes de comprar economiza uma devolução."
+      ]
+    },
+    {
+      "heading": "O que mudou em 2026",
+      "paragraphs": [
+        "Produtos USB4 Versão 2 (80Gbps) apareceram mas ainda não são mainstream a preços razoáveis. Thunderbolt 4 a 40Gbps permanece o máximo prático para docks consumer nesta comparação, com USB4 80Gbps limitado a produtos de workstation high-end acima de ¥50.000. Para a maioria dos usuários com MacBook Pro ou laptops Windows com portas Thunderbolt 4, o teto de 40Gbps do Thunderbolt 4 não é um gargalo para drives NVMe externos atuais ou configurações de display.",
+        "Alimentação de 100W passthrough tornou-se padrão a ¥10.000 e acima. Em 2024, alimentação PD de 65W e 85W eram comuns no mid-tier. Em 2026, 100W é a expectativa em qualquer adaptador ou dock acima de ¥10.000. A relevância: MacBook Pro 16-inch sob carga CPU total requer aproximadamente 96W — um dock fornecendo apenas 65W PD alimentará o laptop mas a bateria drenará lentamente sob carga pesada. 100W cobre MacBook Pro 16-inch sob carga sustentada sem drenagem de bateria.",
+        "DisplayLink tornou-se uma solução viável de dual display para Macs sem Thunderbolt e máquinas Windows. A tecnologia — que codifica saída de display como dados USB ao invés de sinal de vídeo — anteriormente tinha problemas de latência e suavidade de vídeo. Em 2026, o suporte de chip DisplayLink 6950Z melhorou o suficiente que 4K 60Hz em dois displays via DisplayLink é suave para trabalho de escritório e criativo, embora não recomendado para edição de vídeo ou gaming. Plugable UD-6950Z usa este chipset e é a solução de dual display acessível para MacBook Air ou máquinas Windows sem Thunderbolt."
+      ]
+    },
+    {
+      "heading": "Onde cada um se encaixa",
+      "paragraphs": [
+        "Dock Thunderbolt 4, 18 portas, carregamento de host 98W, 2,5GbE, 3× USB-A 10Gbps, 2× USB-C 10Gbps, DisplayPort, cartão SD: CalDigit TS4. O TS4 é o benchmark profissional de dock Thunderbolt 4. Suas 18 portas incluem Ethernet Gigabit 2,5 (que excede Gigabit padrão em redes que suportam), três portas USB-A 3.2 Gen 2 a 10Gbps cada, duas portas USB-C 3.2 Gen 2, DisplayPort 1.4 e leitor de cartão SD. Fornece 98W para carregar um MacBook Pro 16-inch sob carga. A aproximadamente ¥55.000–¥70.000 é a opção mais cara nesta comparação por uma margem significativa. Os compromissos honestos: o preço é justificado apenas se você usar a maioria das 18 portas; requer porta Thunderbolt 4 ou USB4 no host — laptops USB 3.2 obterão conectividade USB-C mas não a largura de banda completa 40Gbps; é grande (aproximadamente 175mm de altura) e melhor adequado a uma configuração de mesa permanente do que um kit de viagem.",
+        "Adaptador multiporta com bus power 7-em-1, dados USB-C 10Gbps, HDMI 4K, 85W PD, USB-A 3.0, leitor de cartão SD, compacto: Hub Anker 564 USB-C. Anker 564 é a resposta para usuários que precisam de um display HDMI, expansão USB-A, acesso a cartão SD e alimentação passthrough em um fator de forma portátil sem sua própria fonte de alimentação. Bus power significa que extrai do laptop — sem cabo adicional ou adaptador de parede necessário para o hub. A alimentação 85W PD é adequada para MacBook Air e a maioria dos laptops 13-inch sob carga normal (MacBook Pro 14-inch requer 96W sustentado, que carregará lentamente). A aproximadamente ¥6.000–¥9.000 é a opção de melhor preço nesta comparação para viagens. Os compromissos honestos: dados USB-C são 10Gbps mas compartilhados entre todas as portas — uso simultâneo de múltiplas portas USB-A 3.0 reduz throughput individual; sem Ethernet; HDMI limitado a 4K 30Hz em algumas configurações de host ao invés de 60Hz.",
+        "USB-C 10Gbps, HDMI 4K 60Hz, alimentação 100W PD passthrough, Ethernet Gigabit, SD/microSD, USB-A 3.0, alumínio fino: Adaptador Satechi V3 Multi-Port. Satechi V3 é o adaptador multiporta de mesa limpa — alumínio fino que combina com estética MacBook, alimentação 100W PD passthrough (cobre MacBook Pro 16-inch sob carga), HDMI 4K 60Hz, Ethernet Gigabit e leitores de cartão em um fator de forma com bus power. A aproximadamente ¥14.000–¥18.000 é mid-priced. Os compromissos honestos: Satechi é uma marca estadounidense que requer importação para Japão — não disponível em cadeias de eletrônicos japonesas; com bus power significa extrai do controlador USB-C do host e pode causar contenção de largura de banda sob uso simultâneo pesado de todas as portas; saída HDMI única.",
+        "Mercado Japão, 4× USB-A 3.1 Gen1 (5Gbps cada), alimentação USB-C 60W PD passthrough, alumínio, disponível Yodobashi/Bic Camera: Elecom U3HC-A430BBK. Hub Elecom é a resposta pragmática do mercado Japão para usuários que precisam de expansão USB-A mais carregamento passthrough sem saída de display. Quatro portas USB-A a 5Gbps cada lidam com a maioria dos periféricos incluindo drives externos, teclados e leitores de cartão. Carregamento 60W PD carrega MacBook Air e a maioria dos laptops 13-inch em velocidade total. A aproximadamente ¥4.000–¥6.000 é o segundo preço mais baixo nesta comparação. Disponível no mesmo dia na Yodobashi Camera e Bic Camera. Os compromissos honestos: sem HDMI, sem Ethernet, sem leitor de cartão SD — hub Elecom é expansão USB-A mais carregamento, nada mais; 60W PD é insuficiente para MacBook Pro 16-inch sob carga CPU total.",
+        "DisplayLink 4K dual, compatível USB-C e USB-A, 100W PD, Ethernet Gigabit, 6× USB-A, Windows + macOS: Plugable UD-6950Z. Plugable UD-6950Z usa tecnologia DisplayLink 6950Z para dirigir dual display 4K 60Hz de qualquer porta USB-C ou USB-A 3.0 sem Thunderbolt — tornando-o a única solução de dual display nesta comparação acessível de MacBook Air (que não tem porta Thunderbolt 4 em gerações anteriores), máquinas Windows com apenas USB 3.2 e MacBook Pro quando um segundo dock baseado em Thunderbolt não está disponível. Requer instalação do driver DisplayLink (disponível para macOS e Windows). A aproximadamente ¥25.000–¥35.000 é caro para um dock sem Thunderbolt. Os compromissos honestos: DisplayLink requer instalação de driver e adiciona carga de CPU (aproximadamente 5–10% overhead de CPU para dois displays 4K a 60Hz); latência e suavidade são apropriadas para escritório mas não para edição de vídeo ou gaming de alto desempenho; atualizações de driver ocasionalmente introduzem problemas de display que exigem esperar pela próxima versão."
+      ]
+    },
+    {
+      "heading": "Veredicto",
+      "paragraphs": [
+        "Para um usuário de poder MacBook Pro 16-inch com porta Thunderbolt 4 que precisa de tudo em um cabo: CalDigit TS4. O carregamento de host 98W, 2,5GbE e contagem de 18 portas justificam o preço ¥55.000–¥70.000 se você regularmente usa drives NVMe externos, múltiplos periféricos USB e um display simultaneamente. Se você usar menos de 8 portas regularmente, existem respostas mais baratas.",
+        "Para viagens ou uma configuração de mesa leve onde você precisa de um display mais USB-A e leitor de cartão: Hub Anker 564 USB-C. Bus power, ¥6.000–¥9.000, cabe em um bolso de jaqueta. Aceite o teto PD 85W para usuários MacBook Air e a largura de banda compartilhada sob uso simultâneo pesado.",
+        "Para uma configuração de mesa fixa MacBook onde estética de cabo importa e você precisa de Ethernet: Satechi V3. Os 100W PD e HDMI 4K 60Hz valem o custo de importação se o alumínio fino combinando com a cor do seu MacBook importa a você. Compre-o e aceite que você está importando.",
+        "Para uma compra a varejo Japão hoje sem saída de display requerida: Elecom U3HC-A430BBK. Vá para Yodobashi Camera. ¥4.000–¥6.000. Quatro portas USB-A mais 60W PD. Para usuários MacBook Air ou qualquer pessoa que precise apenas de expansão USB-A, esta é a resposta completa.",
+        "Para dual display de um MacBook Air ou laptop Windows sem Thunderbolt: Plugable UD-6950Z. Instale o driver DisplayLink, aceite o overhead de CPU 5–10% e você tem dois monitores 4K de uma porta USB-C que carece de Thunderbolt. É o único jeito de fazer isto de forma confiável em 2026 sem Thunderbolt."
+      ]
+    }
+  ],
+  "products": [
+    {
+      "offerId": "usb-hub-caldigit-ts4",
+      "badge": "Melhor geral",
+      "grade": "A+",
+      "review": "CalDigit TS4 é o benchmark profissional de dock Thunderbolt 4 — 18 portas, carregamento de host 98W, Ethernet Gigabit 2,5, 3× USB-A 10Gbps, 2× USB-C 10Gbps, downstream Thunderbolt 4, DisplayPort 1.4, leitor de cartão SD e um par de portas USB-A e USB-C frontais para acesso fácil a periféricos. O único cabo Thunderbolt 4 para o laptop lida com dados, carregamento e saída de display simultaneamente. A aproximadamente ¥55.000–¥70.000 é a opção mais cara nesta comparação. As fraquezas honestas: o preço é justificado apenas se a maioria das 18 portas for usada; requer porta host Thunderbolt 4 para largura de banda total; grande footprint físico (forma de torre 175mm) para um permanente — não é uma opção portátil.",
+      "pros": [
+        "18 portas incluindo 2,5GbE, 3× USB-A 10Gbps, downstream Thunderbolt 4, cartão SD",
+        "Carregamento de host 98W — cobre MacBook Pro 16-inch sob carga CPU sustentada",
+        "Único cabo Thunderbolt 4 lida com dados, display e carregamento simultaneamente",
+        "Ethernet Gigabit 2,5 excede Gigabit padrão em redes suportadas"
+      ],
+      "cons": [
+        "¥55.000–¥70.000 requer usar a maioria das portas para justificar o custo",
+        "Grande forma de torre 175mm — apenas para configuração de mesa permanente"
+      ],
+      "specs": {
+        "Conexão": "Thunderbolt 4 (40Gbps)",
+        "Carregamento de host": "Alimentação 98W",
+        "Ethernet": "2,5 Gigabit",
+        "Portas USB-A": "3× USB-A 10Gbps + 1× USB-A frontal 10Gbps",
+        "Saída de display": "DisplayPort 1.4 + Daisy-chain Thunderbolt"
+      },
+      "scores": {
+        "Contagem de portas": 5,
+        "Velocidade USB-C": 5,
+        "Alimentação": 5,
+        "Disponibilidade Japão": 3
+      }
+    },
+    {
+      "offerId": "usb-hub-anker-564-usb-c",
+      "badge": "Melhor para viagens",
+      "grade": "A",
+      "review": "Hub Anker 564 USB-C é o hub 7-em-1 com bus power para usuários que precisam de um display mais expansão USB-A em um fator de forma portátil. Porta de dados USB-C 10Gbps, saída HDMI 4K, alimentação 85W PD passthrough, duas portas USB-A 3.0, leitores de cartão SD e microSD. Bus power — sem adaptador de parede adicional ou cabo necessário para o hub. A aproximadamente ¥6.000–¥9.000 é o segundo preço mais baixo nesta comparação. As fraquezas honestas: 85W PD é adequado para MacBook Air mas marginal para MacBook Pro 14-inch sob carga sustentada; saída HDMI pode ser limitada a 4K 30Hz ao invés de 60Hz em algumas configurações de host dependendo do controlador USB-C; bus power significa largura de banda USB é compartilhada entre todas as portas simultaneamente.",
+      "pros": [
+        "Bus power — sem adaptador de parede adicional necessário",
+        "7 portas: USB-C 10Gbps, HDMI, 85W PD, 2× USB-A 3.0, SD, microSD",
+        "¥6.000–¥9.000 — valor forte para um hub tudo-em-um portátil",
+        "Fator de forma compacto cabe em bolso lateral de bolsa de laptop"
+      ],
+      "cons": [
+        "85W PD marginal para MacBook Pro 14-inch sob carga sustentada",
+        "HDMI limitado a 4K 30Hz em algumas configurações de controlador USB-C de host"
+      ],
+      "specs": {
+        "Conexão": "USB-C (USB 3.2 Gen 2, 10Gbps)",
+        "Carregamento de host": "Alimentação 85W passthrough",
+        "Saída de display": "HDMI 4K",
+        "Portas USB-A": "2× USB-A 3.0",
+        "Leitores de cartão": "SD + microSD"
+      },
+      "scores": {
+        "Contagem de portas": 3,
+        "Velocidade USB-C": 4,
+        "Alimentação": 3,
+        "Disponibilidade Japão": 4
+      }
+    },
+    {
+      "offerId": "usb-hub-satechi-v3-multiport",
+      "badge": "Melhor para estética de mesa limpa",
+      "grade": "A",
+      "review": "Adaptador Satechi V3 Multi-Port fornece alimentação 100W PD passthrough, HDMI 4K 60Hz, Ethernet Gigabit, leitores de cartão SD/microSD e USB-A 3.0 em um fator de forma de alumínio fino projetado para combinar com variantes de cor MacBook Pro e MacBook Air. A 100W PD é o único adaptador multiporta com bus power nesta comparação que cobre MacBook Pro 16-inch sob carga. Ethernet Gigabit é uma adição importante sobre Anker 564 para usuários em redes com fio. A aproximadamente ¥14.000–¥18.000 é mid-priced. As fraquezas honestas: Satechi é uma marca estadounidense que requer importação — não disponível em cadeias de eletrônicos japonesas; bus power com largura de banda compartilhada sob uso simultâneo pesado; saída HDMI única.",
+      "pros": [
+        "Alimentação 100W PD passthrough — cobre MacBook Pro 16-inch sob carga sustentada",
+        "Saída HDMI 4K 60Hz + Ethernet Gigabit em adaptador com bus power",
+        "Alumínio fino combinando com variantes de cor MacBook Pro e Air",
+        "Portas SD/microSD + USB-A 3.0 em um adaptador"
+      ],
+      "cons": [
+        "Importação dos EUA necessária — não disponível em cadeias varejistas de eletrônicos japonesa",
+        "Compartilhamento de largura de banda com bus power sob uso simultâneo pesado de porta"
+      ],
+      "specs": {
+        "Conexão": "USB-C (USB 3.2 Gen 2, 10Gbps)",
+        "Carregamento de host": "Alimentação 100W passthrough",
+        "Saída de display": "HDMI 4K 60Hz",
+        "Ethernet": "Gigabit",
+        "Leitores de cartão": "SD + microSD"
+      },
+      "scores": {
+        "Contagem de portas": 4,
+        "Velocidade USB-C": 4,
+        "Alimentação": 5,
+        "Disponibilidade Japão": 2
+      }
+    },
+    {
+      "offerId": "usb-hub-elecom-jp",
+      "badge": "Melhor para mercado Japão",
+      "grade": "B",
+      "review": "Elecom U3HC-A430BBK é o hub USB pragmático do mercado Japão: portas USB-A 3.1 Gen1 4× a 5Gbps cada, alimentação USB-C 60W PD passthrough, construção de alumínio, disponível na Yodobashi Camera e Bic Camera. Para usuários que precisam de expansão USB-A mais carregamento passthrough sem saída de display ou Ethernet, isto cobre o requisito a ¥4.000–¥6.000 com disponibilidade retail física no mesmo dia. As fraquezas honestas: sem HDMI, sem Ethernet, sem leitor de cartão SD; 60W PD é insuficiente para MacBook Pro 16-inch sob carga CPU total; portas USB-A a 5Gbps (USB 3.1 Gen1) ao invés de 10Gbps (Gen2) das alternativas premium.",
+      "pros": [
+        "Disponível no mesmo dia na Yodobashi Camera e Bic Camera — nenhuma importação necessária",
+        "4× USB-A 3.1 Gen1 (5Gbps cada) + USB-C 60W PD em um hub",
+        "Construção de alumínio com fator de forma compacto",
+        "¥4.000–¥6.000 — preço mais baixo sem importação nesta comparação"
+      ],
+      "cons": [
+        "Sem HDMI, sem Ethernet, sem leitor de cartão SD — apenas expansão USB-A",
+        "60W PD insuficiente para MacBook Pro 16-inch sob carga CPU total"
+      ],
+      "specs": {
+        "Conexão": "USB-C",
+        "Carregamento de host": "Alimentação 60W passthrough",
+        "Portas USB-A": "4× USB-A 3.1 Gen1 (5Gbps)",
+        "Saída de display": "Nenhuma",
+        "Disponibilidade retail": "Yodobashi Camera, Bic Camera, Amazon JP"
+      },
+      "scores": {
+        "Contagem de portas": 3,
+        "Velocidade USB-C": 3,
+        "Alimentação": 3,
+        "Disponibilidade Japão": 5
+      }
+    },
+    {
+      "offerId": "usb-hub-plugable-ud-6950z",
+      "badge": "Melhor para dual display (sem Thunderbolt)",
+      "grade": "B+",
+      "review": "Plugable UD-6950Z usa tecnologia DisplayLink 6950Z para dirigir dual display 4K 60Hz de qualquer porta USB-C ou USB-A 3.0 sem Thunderbolt — tornando-o a única solução de dual display nesta comparação acessível de MacBook Air (sem Thunderbolt 4 em gerações anteriores) ou máquinas Windows sem Thunderbolt. Também fornece carregamento de host 100W PD, Ethernet Gigabit, 6× portas USB-A e dados USB-C 10Gbps. Requer instalação do driver DisplayLink em macOS e Windows. A aproximadamente ¥25.000–¥35.000 é o segundo preço mais alto nesta comparação. As fraquezas honestas: DisplayLink requer instalação de driver e adiciona carga de CPU (aproximadamente 5–10% overhead de CPU durante uso ativo de dual display); atualizações de driver ocasionalmente introduzem problemas de compatibilidade que requerem esperar pela próxima versão; latência e suavidade são apropriadas para escritório mas não ideais para edição de vídeo ou gaming.",
+      "pros": [
+        "Dual display 4K 60Hz de qualquer porta USB-C ou USB-A — nenhum Thunderbolt necessário",
+        "Carregamento de host 100W PD + Ethernet Gigabit + 6× USB-A + USB-C 10Gbps",
+        "Funciona com MacBook Air, laptops Windows sem Thunderbolt e hosts USB-A",
+        "Chip DisplayLink 6950Z — melhorado de gerações DisplayLink anteriores"
+      ],
+      "cons": [
+        "Instalação do driver DisplayLink necessária — adiciona 5–10% overhead de CPU",
+        "Atualizações de driver ocasionalmente introduzem problemas de compatibilidade"
+      ],
+      "specs": {
+        "Conexão": "USB-C ou USB-A 3.0",
+        "Saída de display": "Dual 4K 60Hz (DisplayLink)",
+        "Carregamento de host": "Alimentação 100W",
+        "Ethernet": "Gigabit",
+        "Portas USB-A": "6× USB-A"
+      },
+      "scores": {
+        "Contagem de portas": 5,
+        "Velocidade USB-C": 3,
+        "Alimentação": 5,
+        "Disponibilidade Japão": 3
+      }
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Qual é a diferença entre um hub USB, adaptador multiporta e dock?",
+      "a": "Um hub USB expande a contagem de portas usando bus power do host — extrai sua energia operacional da conexão USB do laptop e não fornece carregamento significativo de volta. Apropriado para adicionar teclado, mouse ou armazenamento USB de baixa potência. Um adaptador multiporta adiciona saída de display (HDMI ou DisplayPort) e frequentemente alimentação passthrough, permitindo que o laptop host seja carregado através do adaptador. Anker 564 e Satechi V3 nesta comparação são adaptadores multiporta. Um dock fornece sua própria fonte de alimentação (brick de alimentação externo), fornece carregamento de host de alta potência, pode dirigir múltiplos displays independentemente e distribui largura de banda mais efetivamente entre múltiplas portas simultaneamente. CalDigit TS4 é um dock. A distinção importa: se você conectar um adaptador 65W ao MacBook Pro 16-inch sob carga, a bateria drenará porque o adaptador não pode fornecer energia suficiente. Um dock com carregamento de host 96W+ lida com isto corretamente."
+    },
+    {
+      "q": "Meu laptop precisa de Thunderbolt para estes hubs?",
+      "a": "Depende do hub. CalDigit TS4 requer uma porta Thunderbolt 4 ou USB4 no host para fornecer largura de banda total 40Gbps. Conectado através de uma porta USB 3.2 Gen2 padrão, funciona como um hub USB com largura de banda reduzida. Anker 564 e Satechi V3 funcionam em velocidade nominal completa de qualquer porta USB 3.2 Gen2 (10Gbps) USB-C — nenhum Thunderbolt necessário. Hub Elecom funciona de qualquer porta USB-C. Plugable UD-6950Z é o mais permissivo — funciona de qualquer porta USB 3.0 USB-C ou USB-A, incluindo as portas USB 3.0 em MacBook Air e máquinas Windows antigas, porque DisplayLink codifica o sinal de display como dados USB ao invés de saída de vídeo nativa. Se você tem um MacBook Air (M1/M2/M3 sem Thunderbolt 4) ou um laptop Windows apenas USB 3.2, Plugable é a única opção aqui que pode dirigir dois displays externos."
+    },
+    {
+      "q": "Quanto poder meu laptop realmente precisa?",
+      "a": "Verifique a potência do carregador incluído do seu laptop como ponto de partida. MacBook Air 13-inch vem com carregador 30W — um hub 60W PD carrega em velocidade total com margem. MacBook Air 15-inch vem com carregador 35W — 60W PD cobre isto. MacBook Pro 14-inch vem com carregador 67W — um hub 85W PD cobre uso normal, mas sob carga CPU e GPU sustentada (compilação pesada, renderização de vídeo), o laptop pode brevemente exceder 85W e a bateria drenará lentamente. MacBook Pro 16-inch vem com carregador 140W — apenas um dock fornecendo 96W+ PD (como CalDigit TS4 a 98W) cobre isto sob carga sustentada total. Para laptops Windows: verifique a potência no adaptador incluído. Um hub fornecendo PD igual ou superior carrega o laptop completamente sob uso normal. Um hub fornecendo menor potência que o carregador incluído carrega o laptop mas pode desacelerar ou drenar lentamente sob carga pesada."
+    }
+  ],
+  "pinDescription": "5 hubs USB comparados para 2026 — CalDigit TS4 Dock Pro Thunderbolt 4 vs Anker 564 viagem bus-power vs Satechi V3 100W PD Ethernet vs Elecom disponível Japão vs Plugable 4K dual sem Thunderbolt necessário. Hub vs dock explicado. A gestão de cabos começa aqui.",
+  "offerNotes": ""
+}

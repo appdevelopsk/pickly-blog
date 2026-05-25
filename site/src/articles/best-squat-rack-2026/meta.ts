@@ -1,5 +1,4 @@
 import type { ArticleMeta } from "@/lib/articles/types";
-import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-squat-rack-2026",
   type: "comparison",
@@ -7,6 +6,6 @@ export const meta: ArticleMeta = {
   offerIds: ["rogue-rm-3-power-rack", "rep-fitness-pr-4000-power-rack", "titan-fitness-t-3-short-rack", "cap-barbell-power-rack-fm-cs8000f", "fitness-reality-810xlt-power-cage"],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: [...ALL_LOCALES],
+  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
   ogImage: "auto",
 };

@@ -1,5 +1,4 @@
 import type { ArticleMeta } from "@/lib/articles/types";
-import { ALL_LOCALES } from "@/lib/i18n/locales";
 
 export const meta: ArticleMeta = {
   slug: "best-weightlifting-shoes-2026",
@@ -8,7 +7,7 @@ export const meta: ArticleMeta = {
   publishedAt: "2026-05-11",
   updatedAt: "2026-05-11",
   ogImage: "/og/best-weightlifting-shoes-2026",
-  locales: [...ALL_LOCALES],
+  locales: ["en","ja","zh-CN","ko","es","pt-BR","fr","de","it"],
   offerIds: [
     "nike-romaleos-4-weightlifting",
     "adidas-adipower-3-weightlifting",

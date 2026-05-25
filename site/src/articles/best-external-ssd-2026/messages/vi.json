@@ -1,0 +1,267 @@
+{
+  "title": "SSD Ngoài Tốt Nhất 2026: So Sánh 5 Lựa Chọn",
+  "description": "Samsung T9 (2.000/1.950 MB/s USB 3.2 Gen 2x2, TBW 600 TB, đến 4 TB, ~$90/1TB) so với SanDisk Extreme V2 (1.050/1.000 MB/s USB 3.2 Gen 2, IP65, nhôm rèn, ~$70/1TB) so với WD My Passport SSD (1.050/1.000 MB/s, mã hóa AES 256-bit, ~$60/1TB) so với Crucial X9 Pro (1.050/1.000 MB/s, IP55, TBW 600 TB, nhôm, ~$70/1TB) so với Seagate One Touch SSD (1.030/1.000 MB/s, sao lưu Seagate Toolkit, ~$50/500GB). So sánh trung thực tốc độ đọc/ghi, độ bền TBW, form factor và thực tế giao diện USB.",
+  "lede": "Năm SSD di động từ giá rẻ đến cao cấp — so sánh dựa trên thông số tốc độ và độ bền thực sự quyết định liệu bạn có đạt giới hạn giao diện USB hay giới hạn thực của NAND flash, không phải những lời quảng cáo tốc độ mà nhiều cáp không thể đáp ứng.",
+  "methodology": "Thông số kỹ thuật lấy từ bảng dữ liệu do nhà sản xuất công bố. Chúng tôi không thực hiện các bài kiểm tra tốc độ đọc/ghi tuần tự độc lập hay kiểm tra độ bền. Số liệu tốc độ phản ánh thông số của nhà sản xuất trong điều kiện lý tưởng dùng cáp tương thích USB 3.2 Gen 2x2 hoặc Gen 2 — tốc độ bền thực tế có thể khác tùy thuộc vào bộ điều khiển máy chủ, chất lượng cáp, nhiệt độ giới hạn và loại khối lượng công việc.",
+  "recommendedFor": [
+    {
+      "label": "Người dùng có cổng máy chủ USB 3.2 Gen 2x2 và quy trình làm việc với file lớn",
+      "offerId": "ext-ssd-samsung-t9",
+      "reason": "Tốc độ đọc 2.000 MB/s qua USB 3.2 Gen 2x2 là tốc độ SSD ngoài nhanh nhất hiện có — với điều kiện cổng của bạn hỗ trợ giao thức này."
+    },
+    {
+      "label": "Sử dụng ngoài trời và đi du lịch khi va đập và tiếp xúc với nước là rủi ro thực tế",
+      "offerId": "ext-ssd-sandisk-extreme-v2",
+      "reason": "Chống nước và bụi IP65 cùng tản nhiệt nhôm rèn cung cấp khả năng bảo vệ tốt nhất trong tầm giá này."
+    },
+    {
+      "label": "Dữ liệu nhạy cảm cần mã hóa AES cấp phần cứng với chi phí thấp",
+      "offerId": "ext-ssd-wd-my-passport",
+      "reason": "Mã hóa phần cứng AES 256-bit với giá thấp nhất trong bảng so sánh này cho người dùng cần bảo vệ dữ liệu mà không ảnh hưởng hiệu suất."
+    },
+    {
+      "label": "Khối lượng ghi cao như sản xuất video cần TBW tối đa với chi phí hợp lý",
+      "offerId": "ext-ssd-crucial-x9-pro",
+      "reason": "TBW 600 TB ở mức $70 (1TB) với khả năng chống IP55 và vỏ nhôm — độ bền tương đương Samsung T9 ở chi phí thấp hơn."
+    },
+    {
+      "label": "Người mua chú trọng ngân sách chủ yếu cần sao lưu và truyền file cơ bản",
+      "offerId": "ext-ssd-seagate-one-touch",
+      "reason": "Giá thấp nhất trong bảng so sánh này với phần mềm Seagate Toolkit đi kèm — tốc độ đủ cho hầu hết nhu cầu truyền dữ liệu hàng ngày."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Cách chúng tôi so sánh",
+      "paragraphs": [
+        "Chúng tôi không thực hiện kiểm tra tốc độ đọc/ghi tuần tự độc lập, kiểm tra IOPS ngẫu nhiên hay đánh giá nhiệt độ giới hạn dưới khối lượng công việc truyền tải liên tục. Kiểm tra SSD ngoài hợp lệ đòi hỏi bộ điều khiển máy chủ tiêu chuẩn, xác minh cáp, nhiệt độ môi trường được kiểm soát và nhiều lần chạy thử — vượt quá những gì chúng tôi tái tạo ở đây. Những gì đã xem xét: thông số tốc độ và độ bền do nhà sản xuất công bố, đo lường của bên thứ ba với phương pháp được ghi chép và báo cáo người dùng dài hạn về suy giảm tốc độ sau khi hết bộ nhớ đệm SLC.",
+        "Lưu ý quan trọng: cả năm SSD trong bảng so sánh này đều dùng USB-C, nhưng có hai giao thức USB khác nhau — USB 3.2 Gen 2 (băng thông lý thuyết 10 Gbps) và USB 3.2 Gen 2x2 (20 Gbps). Samsung T9 dùng Gen 2x2, không được hỗ trợ phổ biến trên laptop và PC. Bốn cái còn lại dùng USB 3.2 Gen 2. Kết nối ổ Gen 2x2 với cổng Gen 2 không gây lỗi — nó đàm phán xuống 10 Gbps. Nhưng lợi thế 2.000 MB/s của T9 biến mất hoàn toàn nếu thiết bị của bạn không hỗ trợ Gen 2x2."
+      ]
+    },
+    {
+      "heading": "USB 3.2 Gen 2 so với Gen 2x2 — Thực tế tốc độ giao diện",
+      "paragraphs": [
+        "USB 3.2 Gen 2 hoạt động ở băng thông lý thuyết 10 Gbps. Sau khi tính phần chi phí giao thức USB, tốc độ truyền tuần tự tối đa thực tế là khoảng 900–1.050 MB/s. Đó là lý do tại sao cả bốn ổ Gen 2 trong bảng so sánh này đều tập trung quanh 1.000–1.050 MB/s — chúng đã đạt trần giao diện, không phải trần NAND flash.",
+        "USB 3.2 Gen 2x2 hoạt động ở băng thông lý thuyết 20 Gbps, với trần truyền tuần tự thực tế khoảng 2.000 MB/s. Samsung T9 đạt 2.000 MB/s vì dùng Gen 2x2. Vấn đề: hỗ trợ cổng máy chủ Gen 2x2 không phổ biến. Hầu hết laptop tiêu dùng từ năm 2022 trở về trước không có cổng Gen 2x2.",
+        "Trước khi mua Samsung T9 đặc biệt vì tốc độ 2.000 MB/s, hãy xác minh thiết bị máy chủ của bạn có cổng USB 3.2 Gen 2x2 thực sự không. Kiểm tra rõ ràng trong tờ thông số thiết bị cho 'USB 3.2 Gen 2x2' hoặc 'USB 20 Gbps' — 'USB-C' và 'USB 3.0' không đủ."
+      ]
+    },
+    {
+      "heading": "TBW — Tổng byte đã ghi và tại sao quan trọng",
+      "paragraphs": [
+        "TBW (Total Bytes Written) là thông số của nhà sản xuất về tổng khối lượng ghi trong toàn bộ thời gian sử dụng. Với người dùng cá nhân, TBW hiếm khi là giới hạn thực tế: ở TBW 150 TB (Seagate One Touch) và ghi 50 GB mỗi ngày, người dùng đạt giới hạn TBW sau khoảng 8 năm.",
+        "TBW trở nên quan trọng cho các khối lượng công việc cụ thể: sản xuất và chỉnh sửa video với file RAW lớn được ghi và ghi đè liên tục, phát triển game với đầu ra build thường xuyên, sao lưu cơ sở dữ liệu. Với những trường hợp này, Crucial X9 Pro và Samsung T9 ở TBW 600 TB cung cấp dư địa nhiều hơn đáng kể so với Seagate One Touch ở TBW 150 TB.",
+        "Loại NAND flash — TLC (Triple Level Cell) so với QLC (Quad Level Cell) — ảnh hưởng đến cả TBW và tốc độ ghi liên tục. TLC lưu 3 bit mỗi ô và bền hơn, nhanh hơn QLC. TBW cao hơn cho một dung lượng nhất định thường cho thấy TLC thay vì QLC."
+      ]
+    },
+    {
+      "heading": "Độ bền — Chỉ số IP và khả năng chống va đập",
+      "paragraphs": [
+        "Chỉ số IP phân loại khả năng chống hạt rắn và chất lỏng. Chữ số đầu tiên bao gồm bụi (IP6X = bảo vệ hoàn toàn khỏi bụi), chữ số thứ hai bao gồm nước (IPX5 = bảo vệ khỏi tia nước định hướng, IPX6 = bảo vệ khỏi tia nước mạnh). Chỉ số IP65 của SanDisk Extreme V2 — bảo vệ hoàn toàn khỏi bụi và kháng tia nước — cao nhất trong bảng so sánh này.",
+        "Chỉ số IP55 của Crucial X9 Pro bao gồm bảo vệ bụi ngăn chặn hầu hết sự xâm nhập (không hoàn toàn) và kháng tia nước từ mọi hướng ở áp suất thấp hơn IP65. Với hầu hết người dùng ngoài trời bao gồm tiếp xúc mưa khi vận chuyển, cả hai chỉ số đều đủ.",
+        "Chỉ số chống rơi — thường 2 mét với SanDisk Extreme V2 — phản ánh khả năng ổ đĩa chịu đựng va đập khi rơi xuống bề mặt cứng. Lớp bọc cao su và cấu trúc nhôm rèn của SanDisk Extreme V2 được thiết kế đặc biệt để hấp thụ va đập này."
+      ]
+    },
+    {
+      "heading": "Bộ nhớ đệm SLC và tốc độ ghi liên tục",
+      "paragraphs": [
+        "Ổ đĩa NAND flash hiện đại dùng bộ nhớ đệm SLC (Single Level Cell) — một phần NAND hoạt động tạm thời ở chế độ 1 bit mỗi ô để có tốc độ ghi cao hơn. Khi bộ nhớ đệm SLC đầy, ổ đĩa phải chuyển dữ liệu từ bộ nhớ đệm sang các ô TLC/QLC chậm hơn và tốc độ ghi liên tục giảm.",
+        "Với các lần truyền file tiêu dùng thông thường — sao chép phim, thư viện ảnh — bộ nhớ đệm SLC đủ dùng. Với các khối lượng công việc liên tục lớn — ghi liên tục hơn 100 GB — các ổ đĩa sẽ hết bộ nhớ đệm SLC và tốc độ ghi giảm.",
+        "Samsung T9 bao gồm Dynamic Thermal Guard để quản lý nhiệt trong quá trình truyền liên tục. Tất cả SSD di động trong vỏ nhỏ gọn đều sẽ bị giới hạn nhiệt trong quá trình truyền liên tục dài, đặc biệt trong môi trường ấm."
+      ]
+    },
+    {
+      "heading": "Mỗi sản phẩm phù hợp với ai",
+      "paragraphs": [
+        "Tốc độ truyền SSD ngoài tối đa cho người dùng có cổng máy chủ USB 3.2 Gen 2x2: Samsung T9. Ở 2.000/1.950 MB/s qua Gen 2x2, T9 là SSD di động nhanh nhất trong bảng so sánh này. Khoảng $90 cho 1 TB. Lợi thế 2.000 MB/s hoàn toàn phụ thuộc vào cổng máy chủ — xác minh hỗ trợ Gen 2x2 trước khi mua.",
+        "Sử dụng ngoài trời và thực địa với IP65: SanDisk Extreme V2. Cấu trúc bền nhất về mặt vật lý trong bảng so sánh. Khoảng $70 cho 1 TB.",
+        "Mã hóa AES phần cứng ở giá thấp nhất: WD My Passport SSD. Mã hóa không tốn CPU. Khoảng $60 cho 1 TB.",
+        "Khối lượng công việc chuyên nghiệp ghi cao: Crucial X9 Pro. TBW 600 TB (mẫu 2 TB) và IP55 ở $70 cho 1 TB — độ bền T9 không cần Gen 2x2.",
+        "Sao lưu cơ bản và truyền file tiết kiệm ngân sách: Seagate One Touch SSD. Khoảng $50 cho 500 GB, có phần mềm Seagate Toolkit. TBW 150 TB (mẫu 1 TB) thấp nhất ở đây nhưng đủ cho người dùng cá nhân."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Tôi có cần USB 3.2 Gen 2x2 để có tốc độ tối đa của Samsung T9 không?",
+      "a": "Có. Tốc độ 2.000 MB/s của Samsung T9 yêu cầu cổng máy chủ USB 3.2 Gen 2x2 (20 Gbps). Kết nối với cổng USB 3.2 Gen 2 tiêu chuẩn (10 Gbps) — tối đa có trên hầu hết laptop — T9 hoạt động ở khoảng 1.000 MB/s, tương đương SanDisk Extreme V2, WD My Passport SSD và Crucial X9 Pro. Khả năng tương thích ngược hoạt động liền mạch. Nếu laptop hoặc máy tính của bạn thiếu hỗ trợ Gen 2x2, lợi thế tốc độ của T9 không tồn tại với bạn."
+    },
+    {
+      "q": "SSD ngoài có nhanh hơn đáng kể so với HDD ngoài cho truyền file lớn không?",
+      "a": "Có, đáng kể. Ổ cứng ngoài (HDD) qua USB thường truyền file lớn tuần tự ở 80–130 MB/s. SSD ngoài bắt đầu ở 400 MB/s cho các mẫu cũ hơn và đạt 1.000–2.000 MB/s cho các ổ trong bảng so sánh này. Với truyền file 10 GB: HDD ở 100 MB/s mất khoảng 100 giây; SSD ở 1.000 MB/s mất khoảng 10 giây."
+    },
+    {
+      "q": "Tôi có thể chạy game trực tiếp từ SSD ngoài không?",
+      "a": "Có, với điều kiện. SSD USB 3.2 Gen 2 (1.000 MB/s) cung cấp tải asset nhanh hơn HDD (100 MB/s) nhưng có thể không bằng tốc độ đầy đủ của SSD NVMe nội bộ (3.000–7.000 MB/s). Để phát trực tuyến asset trong game thế giới mở, tốc độ USB Gen 2 thường đủ. Tốc độ Gen 2x2 của Samsung T9 (2.000 MB/s) tiếp cận cuối chậm hơn của hiệu suất NVMe nội bộ."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "ext-ssd-samsung-t9",
+      "badge": "Tốc độ truyền nhanh nhất",
+      "grade": "A",
+      "review": "Samsung T9 là SSD ngoài nhanh nhất trong bảng so sánh này ở 2.000 MB/s đọc và 1.950 MB/s ghi — có điều kiện hỗ trợ cổng máy chủ USB 3.2 Gen 2x2. Kết nối với cổng Gen 2 tiêu chuẩn (10 Gbps), nó hoạt động giống hệt SanDisk Extreme V2 và Crucial X9 Pro. TBW 600 TB trên mẫu 2 TB hỗ trợ quy trình làm việc chuyên nghiệp ghi cao. Dynamic Thermal Guard quản lý nhiệt trong quá trình truyền liên tục. Có đến 4 TB. Vỏ cao su cung cấp bảo vệ cơ bản không có chỉ số IP. Khoảng $90 cho 1 TB.",
+      "pros": [
+        "2.000/1.950 MB/s qua USB 3.2 Gen 2x2 — nhanh nhất trong bảng so sánh",
+        "TBW 600 TB trên mẫu 2 TB cho quy trình làm việc độ bền cao",
+        "Dynamic Thermal Guard quản lý truyền liên tục",
+        "Dung lượng tối đa đến 4 TB"
+      ],
+      "cons": [
+        "Tốc độ 2.000 MB/s cần cổng máy chủ Gen 2x2 — hầu hết laptop chỉ có Gen 2",
+        "Không có chỉ số IP chống bụi/nước",
+        "Chi phí mỗi TB cao hơn so với các lựa chọn Gen 2 tương đương"
+      ],
+      "specs": {
+        "Tốc độ đọc": "2.000 MB/s (USB 3.2 Gen 2x2)",
+        "Tốc độ ghi": "1.950 MB/s (USB 3.2 Gen 2x2)",
+        "TBW": "600 TB (mẫu 2 TB)",
+        "Giao diện": "USB 3.2 Gen 2x2",
+        "Form factor": "Nhỏ gọn bọc cao su",
+        "Dung lượng": "1 TB / 2 TB / 4 TB"
+      },
+      "scores": {
+        "Tốc độ": 5.0,
+        "Độ bền": 4.8,
+        "Độ chắc chắn": 3.5,
+        "Giá trị": 3.8,
+        "Khả năng tương thích": 3.5
+      }
+    },
+    {
+      "offerId": "ext-ssd-sandisk-extreme-v2",
+      "badge": "Chắc chắn nhất",
+      "grade": "A",
+      "review": "SanDisk Extreme Portable SSD V2 kết hợp chống bụi và nước IP65, cấu trúc nhôm rèn đóng vai trò tản nhiệt và chống rơi 2 mét với hiệu suất 1.050/1.000 MB/s USB 3.2 Gen 2 — SSD di động bền nhất về mặt vật lý trong bảng so sánh này. TBW 200 TB (mẫu 1 TB) thấp nhất trong số các SSD có chỉ số độ bền đáng kể nhưng đủ cho khối lượng công việc người dùng cá nhân. Khoảng $70 cho 1 TB.",
+      "pros": [
+        "IP65 chống bụi và nước — cao nhất trong bảng so sánh",
+        "Nhôm rèn với tản nhiệt và chống rơi 2 mét",
+        "1.050/1.000 MB/s USB 3.2 Gen 2 với khả năng tương thích máy chủ rộng",
+        "Có đến 4 TB"
+      ],
+      "cons": [
+        "TBW 200 TB — thấp hơn Samsung T9 và Crucial X9 Pro",
+        "$70/TB cao hơn WD My Passport SSD và Seagate",
+        "Cạnh nhôm có thể làm xước bề mặt mềm trong túi chật"
+      ],
+      "specs": {
+        "Tốc độ đọc": "1.050 MB/s (USB 3.2 Gen 2)",
+        "Tốc độ ghi": "1.000 MB/s (USB 3.2 Gen 2)",
+        "TBW": "200 TB (mẫu 1 TB)",
+        "Giao diện": "USB 3.2 Gen 2",
+        "Form factor": "Nhôm rèn với viền cao su",
+        "Dung lượng": "1 TB / 2 TB / 4 TB"
+      },
+      "scores": {
+        "Tốc độ": 4.5,
+        "Độ bền": 4.0,
+        "Độ chắc chắn": 5.0,
+        "Giá trị": 4.3,
+        "Khả năng tương thích": 4.8
+      }
+    },
+    {
+      "offerId": "ext-ssd-wd-my-passport",
+      "badge": "Giá trị tốt nhất với mã hóa",
+      "grade": "B+",
+      "review": "WD My Passport SSD cung cấp mã hóa phần cứng AES 256-bit với giá mỗi TB thấp nhất trong số các ổ USB Gen 2 trong bảng so sánh này. Mã hóa phần cứng hoạt động trong bộ điều khiển ổ đĩa không dùng chu kỳ CPU. Hiệu suất khớp với SanDisk Extreme V2 ở 1.050/1.000 MB/s. Khoảng $60 cho 1 TB — rẻ hơn $10/TB so với SanDisk và Crucial. Thiết kế nhỏ gọn nhất trong bảng so sánh. Không có chỉ số IP và vỏ nhựa cơ bản.",
+      "pros": [
+        "Mã hóa phần cứng AES 256-bit không tốn hiệu suất",
+        "$60/TB — lựa chọn Gen 2 rẻ nhất trong bảng so sánh",
+        "Form factor nhỏ gọn bỏ túi được",
+        "Hiệu suất 1.050/1.000 MB/s USB 3.2 Gen 2"
+      ],
+      "cons": [
+        "Không có chỉ số IP chống bụi hoặc nước",
+        "Vỏ nhựa cơ bản — không chịu rơi",
+        "TBW 200 TB — thấp hơn Samsung T9 và Crucial X9 Pro"
+      ],
+      "specs": {
+        "Tốc độ đọc": "1.050 MB/s (USB 3.2 Gen 2)",
+        "Tốc độ ghi": "1.000 MB/s (USB 3.2 Gen 2)",
+        "TBW": "200 TB (mẫu 1 TB)",
+        "Giao diện": "USB 3.2 Gen 2",
+        "Form factor": "Nhỏ gọn, nhựa",
+        "Dung lượng": "500 GB / 1 TB / 2 TB / 4 TB"
+      },
+      "scores": {
+        "Tốc độ": 4.5,
+        "Độ bền": 4.0,
+        "Độ chắc chắn": 3.0,
+        "Giá trị": 4.8,
+        "Khả năng tương thích": 4.8
+      }
+    },
+    {
+      "offerId": "ext-ssd-crucial-x9-pro",
+      "badge": "Độ bền tốt nhất trên mỗi đô la",
+      "grade": "A",
+      "review": "Crucial X9 Pro tương đương Samsung T9 về TBW (600 TB trên mẫu 2 TB) trong khi hoạt động trên giao diện USB 3.2 Gen 2 được hỗ trợ phổ biến mà không có ràng buộc cổng máy chủ. Khoảng $70 cho 1 TB — giá tương đương SanDisk Extreme V2 nhưng TBW 600 TB so với 200 TB — lợi thế độ bền gấp 3 lần với cùng chi phí. IP55 cùng cấu trúc nhôm. 1.050/1.000 MB/s ở trần Gen 2.",
+      "pros": [
+        "TBW 600 TB — tương đương Samsung T9 ở giá thấp hơn không cần Gen 2x2",
+        "Kháng bụi và nước IP55 với vỏ nhôm",
+        "1.050/1.000 MB/s USB 3.2 Gen 2 trên giao diện được hỗ trợ phổ biến",
+        "Có đến 4 TB"
+      ],
+      "cons": [
+        "IP55 so với IP65 của SanDisk — ít chắc chắn hơn một chút trong điều kiện ngoài trời khắc nghiệt",
+        "$70/TB không phải lựa chọn rẻ nhất ở đây"
+      ],
+      "specs": {
+        "Tốc độ đọc": "1.050 MB/s (USB 3.2 Gen 2)",
+        "Tốc độ ghi": "1.000 MB/s (USB 3.2 Gen 2)",
+        "TBW": "600 TB (mẫu 2 TB)",
+        "Giao diện": "USB 3.2 Gen 2",
+        "Form factor": "Nhôm nhỏ gọn",
+        "Dung lượng": "1 TB / 2 TB / 4 TB"
+      },
+      "scores": {
+        "Tốc độ": 4.5,
+        "Độ bền": 4.8,
+        "Độ chắc chắn": 4.3,
+        "Giá trị": 4.6,
+        "Khả năng tương thích": 4.8
+      }
+    },
+    {
+      "offerId": "ext-ssd-seagate-one-touch",
+      "badge": "Tốt nhất trong tầm giá",
+      "grade": "B",
+      "review": "Seagate One Touch SSD là lựa chọn cơ bản trong bảng so sánh này — giá cơ bản thấp nhất và phần mềm sao lưu Seagate Toolkit đi kèm. Hiệu suất ở 1.030/1.000 MB/s nằm trong phạm vi USB 3.2 Gen 2. TBW 150 TB (mẫu 1 TB) thấp nhất ở đây — đủ cho sao lưu người dùng cá nhân thông thường, không phù hợp với quy trình làm việc chuyên nghiệp ghi cao. Dung lượng tối đa 2 TB thấp nhất trong bảng so sánh. Khoảng $50 cho 500 GB.",
+      "pros": [
+        "Giá vào thấp nhất trong bảng so sánh",
+        "Phần mềm sao lưu Seagate Toolkit đi kèm",
+        "1.030/1.000 MB/s USB 3.2 Gen 2 — tương đương các lựa chọn đắt hơn",
+        "Vỏ kim loại nhỏ gọn"
+      ],
+      "cons": [
+        "TBW 150 TB — độ bền thấp nhất, không dùng cho quy trình ghi cao",
+        "Không có chỉ số IP chống bụi hoặc nước",
+        "Dung lượng tối đa 2 TB — trần thấp nhất trong bảng so sánh"
+      ],
+      "specs": {
+        "Tốc độ đọc": "1.030 MB/s (USB 3.2 Gen 2)",
+        "Tốc độ ghi": "1.000 MB/s (USB 3.2 Gen 2)",
+        "TBW": "150 TB (mẫu 1 TB)",
+        "Giao diện": "USB 3.2 Gen 2",
+        "Form factor": "Nhỏ gọn, kim loại",
+        "Dung lượng": "500 GB / 1 TB / 2 TB"
+      },
+      "scores": {
+        "Tốc độ": 4.4,
+        "Độ bền": 3.5,
+        "Độ chắc chắn": 3.0,
+        "Giá trị": 4.7,
+        "Khả năng tương thích": 4.8
+      }
+    }
+  ],
+  "offerNotes": {
+    "ext-ssd-samsung-t9": "Tốc độ 2.000 MB/s yêu cầu cổng máy chủ USB 3.2 Gen 2x2 — xác minh thiết bị của bạn hỗ trợ USB 20 Gbps trước khi mua vì tốc độ.",
+    "ext-ssd-sandisk-extreme-v2": "Chỉ số IP65 đã xác minh; dùng cáp USB-C được định mức cho tốc độ truyền để đạt hiệu suất 1.050 MB/s đầy đủ.",
+    "ext-ssd-wd-my-passport": "Mã hóa phần cứng yêu cầu thiết lập mật khẩu ban đầu qua phần mềm WD Discovery — không có thiết lập, ổ đĩa hoạt động không mã hóa theo mặc định.",
+    "ext-ssd-crucial-x9-pro": "Số liệu TBW 600 TB dành cho mẫu 2 TB — TBW mẫu 1 TB thấp hơn; kiểm tra trang sản phẩm để biết chỉ số TBW của từng dung lượng cụ thể.",
+    "ext-ssd-seagate-one-touch": "Seagate Toolkit có sẵn cho Windows và macOS; tương thích Time Machine trên macOS được hỗ trợ không cần phần mềm bổ sung."
+  },
+  "pinDescription": "So sánh 5 SSD ngoài cho năm 2026 — Samsung T9 2000MB/s Gen2x2 so với SanDisk Extreme IP65 chắc chắn so với WD My Passport mã hóa AES so với Crucial X9 Pro 600TB TBW so với Seagate One Touch tiết kiệm ngân sách. Sự thật về USB, thực tế TBW và giới hạn tốc độ thực sự."
+}

@@ -1,0 +1,273 @@
+{
+  "title": "Beste Gaming-Tastatur 2026: 5 Optionen im Vergleich",
+  "description": "Wooting 60HE (Hall-Effect-Magnetschalter, Rapid Trigger 0,1 mm, 60%-Layout, ~150€) vs Razer Huntsman V3 Pro (analoge optische Schalter, einstellbare Betätigung 1,5–4,0 mm, Full-Size, ~200€) vs Corsair K100 RGB (Cherry MX Speed oder OPX, 4000 Hz Polling, Makro-Steuerrad, ~200€) vs Ducky One 3 (Hot-Swap Cherry MX, mehrere Größen, ~110€) vs Logicool G913 TKL (GL Low-Profile optisch, LIGHTSPEED kabellos, 40-Stunden-Akku, ~280€). Schaltertyp, Betätigungskraft, Tastenweg, Rapid Trigger und kabellose Realität ehrlich verglichen.",
+  "lede": "Fünf Tastaturen von 110€ Enthusiasten-Mechanik bis 200€ analog-optischem Rapid Trigger — verglichen anhand der Schaltereigenschaften, die Ihre Eingaben wirklich beeinflussen, nicht nach RGB-Mustern.",
+  "methodology": "Spezifikationen aus Hersteller-Schalterdatenblättern und veröffentlichten Hardware-Tests. Keine unabhängigen Betätigungskraftmessungen oder Eingabe-Latenztests. Rapid-Trigger-Leistungswerte basieren auf Hersteller-Spezifikationen und Drittanbieter-Analysen aus dem Wettkampf-Gaming.",
+  "recommendedFor": [
+    {
+      "label": "Für kompetitive FPS-Spieler, die jeden mechanischen Vorteil durch Rapid Trigger wollen",
+      "offerId": "gaming-kb-wooting-60he",
+      "reason": "Lekker Hall-Effect-Schalter mit 0,1 mm Rapid Trigger und einstellbarer Betätigung sind der technisch fortschrittlichste kompetitive Gaming-Schalter."
+    },
+    {
+      "label": "Für analogen optischen Rapid Trigger im Full-Size-Layout",
+      "offerId": "gaming-kb-razer-huntsman-v3-pro",
+      "reason": "Analoge optische Schalter mit 0,1 mm Rapid Trigger, 1,5–4,0 mm einstellbarer Betätigung und Full-Size-Layout für Nutzer, die den Numblock benötigen."
+    },
+    {
+      "label": "Für Nutzer, die maximale Polling-Rate und ein Makro-Steuerrad wollen",
+      "offerId": "gaming-kb-corsair-k100-rgb",
+      "reason": "4.000 Hz iCUE AXON Hyper-Polling und das physische iCUE-Steuerrad erledigen Makro- und Mediafunktionen ohne Software-Shortcuts."
+    },
+    {
+      "label": "Für Enthusiasten mit Hot-Swap-Schaltern, mehreren Layout-Größen und Cherry-MX-Zuverlässigkeit",
+      "offerId": "gaming-kb-ducky-one-3",
+      "reason": "Hot-Swap-PCB erlaubt Schalterwechsel ohne Löten, Cherry-MX-Optionen decken lineare, taktile und klickende Vorlieben ab."
+    },
+    {
+      "label": "Für Spieler, die kabelloses Low-Profile auf TKL-Layout wollen",
+      "offerId": "gaming-kb-logicool-g913-jp",
+      "reason": "LIGHTSPEED 2,4-GHz-Wireless mit 40-Stunden-Akku und GL-Low-Profile-Schaltern mit 2,7 mm Tastenweg."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Wie wir verglichen haben",
+      "paragraphs": [
+        "Keine unabhängigen Betätigungskraftmessungen mit Kraftmessern, Eingabe-Latenz-Tests oder akustische Tests von Schalterklangprofilen. Was wir geprüft haben: Hersteller-Schalterdatenblätter und Polling-Rate-Spezifikationen, Drittanbieter-Hardware-Messungen mit dokumentierter Methodik und Analysen der kompetitiven Gaming-Community zur Rapid-Trigger-Implementierungsqualität.",
+        "Hinweis: Dieser Vergleich umfasst sehr unterschiedliche Anwendungsfälle. Das Wooting 60HE und der Razer Huntsman V3 Pro sind Wettkampf-Tastaturen mit analoger Schaltentechnologie und Rapid Trigger. Das Corsair K100 RGB ist eine Features-maximierende Full-Size-Tastatur. Die Ducky One 3 ist eine Enthusiasten-Mechaniktastatur mit Fokus auf Bauqualität. Die Logicool G913 TKL ist eine kabellose Low-Profile-Gaming-Tastatur."
+      ]
+    },
+    {
+      "heading": "Hall Effect vs. optisch vs. mechanisch — was die Technologieunterschiede bedeuten",
+      "paragraphs": [
+        "Traditionelle mechanische Schalter — Cherry MX und deren viele Klone — verwenden einen physischen Metallkontakt, der sich schließt, wenn die Taste auf einen festen Betätigungspunkt gedrückt wird. Dieser Punkt wird durch die mechanische Geometrie des Schaltergehäuses bestimmt. Das ist zuverlässig und gut verstanden, aber der feste Betätigungspunkt kann nicht angepasst werden, ohne den Schalter selbst zu ersetzen. Traditionelle mechanische Schalter haben auch eine Totzone, bevor der Kontakt schließt und nachdem er öffnet.",
+        "Optische Schalter — im Razer Huntsman V3 Pro — verwenden einen Infrarotlichtstrahl statt eines Metallkontakts. Der Strahl wird unterbrochen, wenn die Taste die Betätigungsschwelle passiert. Die analogen optischen Schalter des Huntsman V3 Pro lesen die kontinuierliche Position der Taste durch den gesamten Hub, was variable Betätigung und Rapid-Trigger-Implementierung ermöglicht.",
+        "Hall-Effect-Schalter — im Wooting 60HE — verwenden einen Magnetfeldsensor, um die Tastenposition kontinuierlich über den gesamten Hub zu messen. Die Rapid-Trigger-Implementierung des Wooting 60HE mit Lekker-Schaltern ist derzeit die präziseste und konsistenteste kontinuierliche Positionserfassung in Produktions-Gaming-Tastaturen mit 0,1 mm Auflösung."
+      ]
+    },
+    {
+      "heading": "Rapid Trigger — was es ist und ob Sie es brauchen",
+      "paragraphs": [
+        "Rapid Trigger ist eine Firmware-Funktion, die den Betätigungsschwellenwert einer Taste relativ zu ihrer aktuellen Position zurücksetzt, nicht an einem festen physischen Punkt. Bei einer traditionellen mechanischen Tastatur wird W solange als gedrückt registriert, bis die Taste physisch über den etwa 2-mm-Rücksetzpunkt angehoben ist. Mit Rapid Trigger bei 0,1 mm Empfindlichkeit registriert die Tastatur 'losgelassen', sobald die Taste 0,1 mm von ihrem tiefsten Punkt angehoben wird.",
+        "Beim Strafen in FPS-Spielen ermöglicht dies schnellere Richtungsänderungen, weil die entgegengesetzte Richtungstaste früher im Bewegungszyklus betätigen kann. Der Wettbewerbsvorteil ist real, erfordert aber auch eine entsprechende Reaktion der Spiel-Engine.",
+        "Ob Sie Rapid Trigger benötigen, hängt von Ihrem Wettbewerbsniveau und den gespielten Spielen ab. Für CS2, Valorant und ähnliche kompetitive FPS-Titel ist Rapid Trigger ein echter mechanischer Eingabevorteil. Für MOBA, RTS oder Einzelspieler ist der Strafe-Vorteil irrelevant. Beide Tastaturen — Wooting 60HE und Razer Huntsman V3 Pro — erlauben die Anpassung der Rapid-Trigger-Empfindlichkeit."
+      ]
+    },
+    {
+      "heading": "Polling-Rate — 1000 Hz vs. 4000 Hz Realität",
+      "paragraphs": [
+        "Die Tastatur-Polling-Rate beschreibt, wie oft die Tastatur ihren Tastenzustand an den Computer meldet. Bei 1000 Hz (Standard für die meisten Gaming-Tastaturen) meldet die Tastatur alle 1 ms. Das Corsair K100 RGB meldet mit 4000 Hz — alle 0,25 ms. Die praktische Frage ist, ob 0,25 ms gegenüber 1 ms einen wahrnehmbaren Unterschied macht.",
+        "Die Antwort für die große Mehrheit der Nutzer lautet nein. Die eigene Update-Rate der Spiel-Engine, die Monitor-Bildwiederholungsrate und die Reaktionszeit des Spielers sind allesamt begrenzende Faktoren, die größer sind als der Unterschied zwischen 1 ms und 0,25 ms.",
+        "Die 4000-Hz-Polling-Rate im K100 RGB ist ein Engineering-Feature und ein Marketing-Differenziator. Es ist kein bedeutender Wettbewerbsvorteil für Nutzer unterhalb des professionellen Esports-Levels."
+      ]
+    },
+    {
+      "heading": "Low-Profile-Schalter und kabellos",
+      "paragraphs": [
+        "Low-Profile-Schalter — wie die Logicool-GL-Schalter in der G913 TKL — reduzieren den gesamten Tastenweg vom Standard-4,0 mm auf etwa 2,7 mm. Der kürzere Weg bedeutet schnellere Tastenbewegung zwischen Anfang und Ende des Anschlags.",
+        "Der Kompromiss: Low-Profile-Schalter haben weniger Hubweg für die taktile Rückmeldung. Die G913 TKL's LIGHTSPEED 2,4-GHz-Wireless gehört zu den besten kabellosen Implementierungen bei Gaming-Tastaturen mit einer Latenz unter 1 ms — wettbewerbsfähig mit kabelgebundenen Tastaturen. Die 40-Stunden-Akkulaufzeit ist praktisch für typischen Gebrauch ohne tägliches Laden.",
+        "Für Nutzer, die einen aufgeräumten Schreibtisch ohne Kabelmanagement wünschen, ist die G913 TKL die einzige kabellose Option in diesem Vergleich."
+      ]
+    },
+    {
+      "heading": "Wo jede Tastatur passt",
+      "paragraphs": [
+        "Kompetitives FPS-Gaming mit Rapid-Trigger-Präzision und Hall-Effect-Schaltentechnologie: Wooting 60HE. Die Lekker Hall-Effect-Schalter mit 0,1 mm Rapid Trigger sind 2026 der technisch präziseste kompetitive Gaming-Schalter in der Produktion. Das 60%-Layout entfernt Numblock, Funktionsreihe und Navigationstasten. Wenn Sie im täglichen Gebrauch eine Funktionsreihe oder einen Numblock benötigen, ist das 60%-Layout eine erhebliche Unannehmlichkeit.",
+        "Analoger optischer Rapid Trigger mit Full-Size-Layout: Razer Huntsman V3 Pro. Die analogen optischen Schalter bieten ähnliche Rapid-Trigger-Funktionalität wie das Wooting bei 0,1 mm Empfindlichkeit, in einem Full-Size-Layout mit Numblock. Razers Synapse-Software ist ausgereifter als Wootings Software.",
+        "Features-maximierende Gaming-Tastatur mit Makro-Steuerrad und hoher Polling-Rate: Corsair K100 RGB. Das physische iCUE-Steuerrad verwaltet Medienlautstärke, RGB-Helligkeit und Makro-Wiedergabe ohne Tastaturkürzel.",
+        "Schalterwechsel und Bauqualität zum Enthusiastenpreis: Ducky One 3. Das Hot-Swap-PCB ermöglicht Schalterwechsel ohne Löten.",
+        "Kabelloses Low-Profile-Gaming mit LIGHTSPEED und 40-Stunden-Akku: Logicool G913 TKL. Das TKL-Layout hält den Schreibtisch-Fußabdruck überschaubar."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Brauche ich Rapid Trigger für kompetitives Gaming?",
+      "a": "Rapid Trigger bietet einen echten mechanischen Eingabevorteil für kompetitives FPS-Strafen — schnellere Richtungsänderungen, weil die entgegengesetzte Taste früher betätigen kann. Ob das wichtig ist, hängt von Ihrem Wettbewerbsniveau und den gespielten Spielen ab. In CS2 und Valorant auf hohem Rang ist der Vorteil real und messbar. In gelegenheitsmäßigem FPS, MOBA, RTS oder Einzelspieler bietet Rapid Trigger keinen relevanten Nutzen. Bei 0,1 mm Empfindlichkeit kann Rapid Trigger auch unbeabsichtigte Doppelbetätigungen durch normales Fingerzittern verursachen — die Empfindlichkeit auf 0,3–0,5 mm zu setzen reduziert dies, während der meiste Strafen-Vorteil erhalten bleibt."
+    },
+    {
+      "q": "Welcher Schaltertyp ist am besten für Gaming — linear, taktil oder klickend?",
+      "a": "Lineare Schalter (Cherry MX Red) haben glatten, gleichmäßigen Weg ohne taktile Erhebung oder Klickgeräusch — die häufigste Wahl für Gaming. Taktile Schalter (Cherry MX Brown) haben eine Erhebung mittig im Hub, die Feedback ohne hörbares Klicken bietet. Klickende Schalter (Cherry MX Blue) haben sowohl eine taktile Erhebung als auch ein hörbares Klicken. Für reines Gaming ist linear die beliebteste Wahl. Für schreibintensive Nutzung neben Gaming ist taktil ein vernünftiger Kompromiss."
+    },
+    {
+      "q": "Ist eine kabellose Gaming-Tastatur zuverlässig genug für kompetitive Nutzung?",
+      "a": "Ja, mit dem Vorbehalt, dass die Qualität zwischen Implementierungen erheblich variiert. Das LIGHTSPEED 2,4-GHz-Wireless der Logicool G913 TKL arbeitet mit Latenzen unter 1 ms — wettbewerbsfähig mit kabelgebundenen USB-Verbindungen. Generische Bluetooth-Tastaturen sind aufgrund höherer Latenz nicht für kompetitives Gaming geeignet. Das Wooting 60HE, der Huntsman V3 Pro, das K100 RGB und die Ducky One 3 sind alle nur kabelgebunden."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "gaming-kb-wooting-60he",
+      "badge": "Bestes kompetitives FPS",
+      "grade": "A+",
+      "review": "Das Wooting 60HE ist die technisch fortschrittlichste kompetitive Gaming-Tastatur in diesem Vergleich. Lekker Hall-Effect-Schalter lesen die Position kontinuierlich über den 4-mm-Hub, was 0,1-mm-Rapid-Trigger-Empfindlichkeit ermöglicht. SOCD-Bereinigung ist in die Firmware integriert. Das 60%-Layout ist eine bewusste Wettkampfentscheidung. Kabel-USB-C nur — kein WLAN. Wootings Software ist funktional, aber weniger ausgereift als Razer Synapse oder Corsair iCUE.",
+      "pros": [
+        "Lekker Hall-Effect-Schalter mit 0,1 mm Rapid-Trigger-Auflösung",
+        "SOCD-Bereinigung in der Firmware für kompetitive Bewegungseingaben",
+        "Einstellbare Betätigung von 0,1–4,0 mm pro Taste",
+        "150€ — wettbewerbsfähiger Preis für Hall-Effect-Technologie"
+      ],
+      "cons": [
+        "60%-Layout entfernt Funktionsreihe, Numblock und Navigationstasten",
+        "Nur kabelgebunden — keine WLAN-Option",
+        "Software weniger ausgereift als große Gaming-Peripherie-Marken"
+      ],
+      "specs": {
+        "Schaltertyp": "Lekker Hall-Effect-Magnetschalter",
+        "Betätigungskraft": "Nicht bewertet (einstellbar)",
+        "Tastenweg": "4,0 mm gesamt",
+        "Betätigungspunkt": "0,1–4,0 mm (einstellbar)",
+        "Rapid Trigger": "0,1 mm Minimum",
+        "Polling-Rate": "1000 Hz",
+        "Kabellos": "Nein"
+      },
+      "scores": {
+        "Wettkampfleistung": 5.0,
+        "Schaltergefühl": 4.5,
+        "Verarbeitungsqualität": 4.3,
+        "Software": 3.8,
+        "Preis-Leistung": 4.5
+      }
+    },
+    {
+      "offerId": "gaming-kb-razer-huntsman-v3-pro",
+      "badge": "Bestes Full-Size-Kompetitiv",
+      "grade": "A",
+      "review": "Der Razer Huntsman V3 Pro bringt analoge optische Rapid-Trigger-Technologie in ein Full-Size-Layout — der Hauptunterschied zum Wooting 60HE. Die analogen optischen Schalter bieten ähnliche 0,1-mm-Rapid-Trigger-Empfindlichkeit. Razers Synapse-Software ist ausgereifter. Für 200€ kostet er 50€ mehr als das Wooting für vergleichbare Kerntechnologie in einem universeller nutzbaren Layout.",
+      "pros": [
+        "Analoge optische Schalter mit 0,1 mm Rapid Trigger im Full-Size-Layout",
+        "1,5–4,0 mm pro-Taste einstellbare Betätigung",
+        "Razer Synapse Software ist ausgereift und funktionskomplett",
+        "USB-C + USB-A Dual-Verbindungs-Passthrough"
+      ],
+      "cons": [
+        "200€ — 50€ mehr als das Wooting für ähnliche Kerntechnologie",
+        "Full-Size-Layout hat größeren Schreibtisch-Fußabdruck",
+        "Razer-Keycaps nicht mit den meisten Aftermarket-Keycap-Sets kompatibel"
+      ],
+      "specs": {
+        "Schaltertyp": "Razer Analog Optical",
+        "Betätigungskraft": "45 gf",
+        "Tastenweg": "4,0 mm gesamt",
+        "Betätigungspunkt": "1,5–4,0 mm (einstellbar)",
+        "Rapid Trigger": "0,1 mm Minimum",
+        "Polling-Rate": "8000 Hz (HyperPolling)",
+        "Kabellos": "Nein"
+      },
+      "scores": {
+        "Wettkampfleistung": 4.8,
+        "Schaltergefühl": 4.4,
+        "Verarbeitungsqualität": 4.5,
+        "Software": 4.6,
+        "Preis-Leistung": 4.2
+      }
+    },
+    {
+      "offerId": "gaming-kb-corsair-k100-rgb",
+      "badge": "Bester Funktionsumfang",
+      "grade": "A-",
+      "review": "Das Corsair K100 RGB ist die Features-maximierende Option — 4.000 Hz iCUE AXON Hyper-Polling, ein physisches iCUE-Steuerrad für Makro- und Medienverwaltung, Cherry MX Speed oder OPX Optical bei 1,2 mm Betätigung und Aluminium-Deckplatte. Das physische Steuerrad verwaltet Lautstärke, RGB und Makro-Wiedergabe ohne Tastaturkürzel. iCUE ist die ressourcenintensivste Begleitsoftware hier.",
+      "pros": [
+        "Physisches iCUE-Steuerrad für Makro- und Medienverwaltung",
+        "4.000 Hz Hyper-Polling (Marketing-Differenziator)",
+        "Aluminium-Deckplatte in Flugzeugqualität",
+        "Cherry MX Speed oder OPX-Optisch-Schalteroptionen"
+      ],
+      "cons": [
+        "iCUE-Software hat hohen Hintergrund-CPU-Verbrauch",
+        "Full-Size mit Makrospalte hat den größten Schreibtisch-Fußabdruck",
+        "Kein Rapid Trigger — nur feste Betätigung"
+      ],
+      "specs": {
+        "Schaltertyp": "Cherry MX Speed oder Corsair OPX Optisch",
+        "Betätigungskraft": "45 gf (OPX)",
+        "Tastenweg": "4,0 mm gesamt",
+        "Betätigungspunkt": "1,2 mm (fest)",
+        "Rapid Trigger": "Nein",
+        "Polling-Rate": "4.000 Hz",
+        "Kabellos": "Nein"
+      },
+      "scores": {
+        "Wettkampfleistung": 4.0,
+        "Schaltergefühl": 4.3,
+        "Verarbeitungsqualität": 4.7,
+        "Software": 4.0,
+        "Preis-Leistung": 4.0
+      }
+    },
+    {
+      "offerId": "gaming-kb-ducky-one-3",
+      "badge": "Beste Enthusiasten-Mechanik",
+      "grade": "A-",
+      "review": "Die Ducky One 3 ist die Hot-Swap-Enthusiasten-Mechanik-Option — die einzige Tastatur in diesem Vergleich mit einem Sockel-PCB, das Schalterwechsel ohne Löten erlaubt. Cherry-MX-Optionen decken die Hauptpräferenzkategorien ab. Duckys Bauqualität bei 110€ übertrifft ähnlich bepreiste Gaming-Tastaturen großer Marken kontinuierlich. Erhältlich in Mini (60%), TKL und Full-Size. Kein Rapid Trigger, keine hohe Polling-Rate, kein WLAN.",
+      "pros": [
+        "Hot-Swap-PCB erlaubt Schalterwechsel ohne Löten",
+        "Cherry-MX-Schalteroptionen in linear, taktil und klickend",
+        "Double-Shot-PBT-Keycaps widerstandsfähig gegen Abrieb und Legende-Abnutzung",
+        "110€ — niedrigster Preis mit echter Enthusiasten-Bauqualität"
+      ],
+      "cons": [
+        "Kein Rapid Trigger — feste traditionelle mechanische Betätigung",
+        "Keine WLAN-Option",
+        "Kein Per-Key-RGB auf allen Varianten"
+      ],
+      "specs": {
+        "Schaltertyp": "Cherry MX (mehrere Optionen, Hot-Swap)",
+        "Betätigungskraft": "45 gf (Red), 45 gf (Brown)",
+        "Tastenweg": "4,0 mm gesamt",
+        "Betätigungspunkt": "2,0 mm (fest, Cherry MX)",
+        "Rapid Trigger": "Nein",
+        "Polling-Rate": "1.000 Hz",
+        "Kabellos": "Nein"
+      },
+      "scores": {
+        "Wettkampfleistung": 3.8,
+        "Schaltergefühl": 4.6,
+        "Verarbeitungsqualität": 4.8,
+        "Software": 3.5,
+        "Preis-Leistung": 4.7
+      }
+    },
+    {
+      "offerId": "gaming-kb-logicool-g913-jp",
+      "badge": "Bestes WLAN",
+      "grade": "B+",
+      "review": "Die Logicool G913 TKL ist die einzige kabellose Tastatur in diesem Vergleich, und ihre LIGHTSPEED 2,4-GHz-Implementierung liefert eine Latenz unter 1 ms — wettbewerbsfähig mit kabelgebundenen Verbindungen. Die GL-Low-Profile-Schalter mit 2,7 mm Hub fühlen sich für viele Nutzer schneller an. Das TKL-Layout hält den Schreibtisch-Fußabdruck überschaubar. Die 40-Stunden-Akkulaufzeit bedeutet wöchentliches Laden. Bei ~280€ ist sie die teuerste Option in diesem Vergleich.",
+      "pros": [
+        "LIGHTSPEED 2,4-GHz-Wireless mit Latenz unter 1 ms",
+        "GL Low-Profile Schalter mit 2,7 mm Tastenweg",
+        "40-Stunden-Akkulaufzeit — nur wöchentliches Laden",
+        "TKL-Layout mit kompaktem Schreibtisch-Fußabdruck"
+      ],
+      "cons": [
+        "~280€ — teuerste Option in diesem Vergleich",
+        "Kein Rapid Trigger — fester Betätigungspunkt",
+        "Low-Profile-Tasten nicht kompatibel mit Aftermarket-Keycaps"
+      ],
+      "specs": {
+        "Schaltertyp": "Logicool GL Optical (Low-Profile)",
+        "Betätigungskraft": "35 gf (Linear)",
+        "Tastenweg": "2,7 mm gesamt",
+        "Betätigungspunkt": "1,5 mm (fest)",
+        "Rapid Trigger": "Nein",
+        "Polling-Rate": "1.000 Hz",
+        "Kabellos": "LIGHTSPEED 2,4 GHz + Bluetooth"
+      },
+      "scores": {
+        "Wettkampfleistung": 4.0,
+        "Schaltergefühl": 4.2,
+        "Verarbeitungsqualität": 4.5,
+        "Software": 4.4,
+        "Preis-Leistung": 3.7
+      }
+    }
+  ],
+  "offerNotes": {
+    "gaming-kb-wooting-60he": "60%-Layout entfernt Funktionsreihe, Numblock und Navigationstasten — prüfen Sie vor dem Kauf, ob dieses Layout für Ihre tägliche Nutzung funktioniert.",
+    "gaming-kb-razer-huntsman-v3-pro": "HyperPolling-Adapter für 8.000 Hz erforderlich — Standard-USB-Polling ist ohne Adapter 1.000 Hz.",
+    "gaming-kb-corsair-k100-rgb": "Erhältlich in Cherry MX Speed (mechanisch) und OPX (optisch) Varianten — beide haben 1,2 mm Betätigung.",
+    "gaming-kb-ducky-one-3": "Mehrere Größenoptionen — Mini (60%), TKL und Full — Layout vor der Bestellung prüfen.",
+    "gaming-kb-logicool-g913-jp": "Japan-Inlandsmodell mit japanischen Keycap-Legenden. Internationale GL-Schalteroptionen regional verfügbar."
+  },
+  "pinDescription": "Die besten Gaming-Tastaturen 2026 im ehrlichen Vergleich — Wooting 60HE Hall-Effect Rapid Trigger, Razer Huntsman V3 Pro analog-optisch, Corsair K100 4000Hz, Ducky One 3 Hot-Swap, Logicool G913 TKL kabellos. Schaltertyp-Wahrheiten und Rapid-Trigger-Realität ohne Marketing-Versprechen."
+}

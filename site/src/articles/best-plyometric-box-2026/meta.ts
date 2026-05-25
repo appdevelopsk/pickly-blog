@@ -1,5 +1,4 @@
 import type { ArticleMeta } from "@/lib/articles/types";
-import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-plyometric-box-2026",
   type: "comparison",
@@ -7,6 +6,6 @@ export const meta: ArticleMeta = {
   offerIds: ["rogue-foam-plyo-box", "rep-fitness-foam-plyo-box", "jfit-adjustable-plyo-box", "titan-fitness-plyo-box", "yes4all-foam-plyo-box"],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: [...ALL_LOCALES],
+  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
   ogImage: "auto",
 };
