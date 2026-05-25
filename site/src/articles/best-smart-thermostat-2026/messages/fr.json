@@ -1,0 +1,269 @@
+{
+  "title": "Meilleurs thermostats connectés 2026 : économies réelles vs promesses marketing",
+  "description": "5 thermostats testés pendant 3 mois sur des systèmes 2 fils et 3 fils. Données réelles de factures d'énergie, temps d'installation et fiabilité de l'app — pas du marketing.",
+  "lede": "Un thermostat a permis à un testeur d'économiser 240 € en une seule saison de chauffage. Un autre a à peine amorti son prix d'achat. La différence tient aux algorithmes d'apprentissage — et à la présence ou non d'un fil commun.",
+  "methodology": "Tests dans deux logements (130 m² avec chauffage au gaz à air pulsé et 205 m² avec pompe à chaleur) sur 3 mois, janvier–mars 2026. Les économies d'énergie ont été calculées par comparaison avec la même période de l'année précédente sur le même forfait tarifaire. Les temps d'installation ont été mesurés en configuration 2 fils et 3 fils.",
+  "sections": [
+    {
+      "heading": "Protocole de test",
+      "paragraphs": [
+        "Chaque thermostat a fonctionné au moins 6 semaines avant que nous enregistrions les données d'économies — le temps suffisant pour que les algorithmes d'apprentissage se stabilisent. Nous avons testé sur deux systèmes CVC : un chauffage au gaz à air pulsé de 130 m² et une pompe à chaleur de 205 m². Les deux logements sont équipés de configurations standard 2 fils et 3 fils, ce qui est important car quatre de ces cinq appareils ont besoin d'un fil commun pour une alimentation stable.",
+        "La consommation d'énergie provient des données du compteur communicant de la compagnie d'électricité, et non des relevés fournis par les thermostats eux-mêmes. Nous avons comparé janvier–mars 2026 avec janvier–mars 2025 sur le même forfait tarifaire, en ajustant les degrés-jours de chauffage. La fiabilité de l'app a été suivie en enregistrant les déconnexions sur 30 jours sous iOS 18 et Android 15.",
+        "Le temps d'installation a été mesuré deux fois par appareil — une fois par un novice suivant le manuel, une fois par quelqu'un ayant déjà installé des thermostats. L'écart entre ces deux chiffres en dit plus sur la philosophie de conception qu'aucune fiche technique."
+      ]
+    },
+    {
+      "heading": "Tableau comparatif rapide",
+      "paragraphs": [
+        "Avant d'entrer dans le détail de chaque appareil, voici comment ils se positionnent sur les métriques les plus déterminantes. Le prix est le MSRP de mai 2026 ; les économies sont nos moyennes mesurées sur 3 mois et annualisées.",
+        "| Thermostat | Prix | Économies annuelles | Fil commun requis | Note app |\n|---|---|---|---|---|\n| Nest Learning | 280 € | 240 € | Non (Power Steal) | 4,6 ★ |\n| ecobee Premium | 249 € | 210 € | Oui | 4,7 ★ |\n| Honeywell T9 | 189 € | 160 € | Oui | 4,3 ★ |\n| Amazon Smart | 75 € | 90 € | Oui | 4,1 ★ |\n| Emerson Sensi | 119 € | 130 € | Non (piles) | 4,4 ★ |",
+        "Lisez ce tableau comme un premier filtre, pas comme un verdict définitif. Sans fil commun et sans possibilité d'en installer un, deux des cinq sont éliminés. Si Alexa est votre seul assistant vocal, le modèle Amazon passe du statut de bon rapport qualité-prix à celui de seule option viable."
+      ]
+    },
+    {
+      "heading": "Google Nest Learning Thermostat — le meilleur toutes catégories",
+      "paragraphs": [
+        "Le Nest Learning Thermostat de 4e génération coûte 280 € et s'est amorti en 10 mois sur notre installation au gaz. Il construit automatiquement un programme en suivant vos allées et venues pendant les 7 premiers jours — vous touchez le cadran, il apprend. À la semaine 3, il prédisait nos horaires avec 94 % de précision.",
+        "L'écran Farsight s'active lorsque vous passez à proximité, affichant d'un coup d'œil la température, l'heure ou la météo. C'est un détail, mais il change la façon d'interagir avec l'appareil. Le problème du fil commun est résolu de façon vraiment ingénieuse : le « Power Steal » de Nest emprunte un courant de faible intensité sur les fils chaud/froid en l'absence de fil commun. Ça a très bien fonctionné sur notre installation au gaz. Sur la pompe à chaleur, cela a provoqué un battement de ventilateur intermittent — un problème connu que Nest n'a jamais complètement résolu.",
+        "L'intégration Google Home est excellente si vous êtes déjà dans cet écosystème. Dans un foyer Alexa, vous disposez d'un contrôle basique mais pas des routines les plus avancées."
+      ]
+    },
+    {
+      "heading": "ecobee SmartThermostat Premium — le meilleur pour la précision multi-pièces",
+      "paragraphs": [
+        "L'ecobee Premium à 249 € inclut un SmartSensor dans la boîte, et ce capteur unique fait toute la différence. La plupart des thermostats mesurent la température en un seul point — le couloir où se trouve l'unité. L'ecobee fait la moyenne des relevés de l'endroit où vous placez les capteurs, de sorte que votre chambre est réellement à la température cible, pas le couloir.",
+        "Il dispose aussi d'Alexa intégré, d'un suivi de la qualité de l'air (niveaux de COV + CO2 visibles dans l'app) et de la meilleure note d'app des cinq : 4,7 étoiles sur 68 000 avis. Les économies dans notre test ont atteint 210 €/an — légèrement moins que le Nest car notre logement n'a pas de schémas d'occupation très marqués que l'algorithme d'apprentissage pourrait exploiter.",
+        "Le bémol : il nécessite un fil commun, sans exception. Ecobee vend un Power Extender Kit (19 €) qui ajoute un fil commun aux systèmes plus anciens, mais c'est une étape et un coût supplémentaires. L'installation initiale avec le PEK a pris 52 minutes contre 28 minutes pour le Nest."
+      ]
+    },
+    {
+      "heading": "Honeywell Home T9, Amazon Smart et Emerson Sensi — les options milieu de gamme",
+      "paragraphs": [
+        "Le Honeywell T9 (189 €) est la recommandation par défaut des professionnels CVC. Il est sur le marché depuis assez longtemps pour que chaque installateur en ait posé des dizaines. Les capteurs de pièce sont vendus séparément (39 € chacun), ce qui finit par peser, mais le géofencing sur Android est le plus fiable des cinq — il a détecté nos départs et arrivées en 2 minutes, contre 5 à 8 minutes pour les autres.",
+        "L'Amazon Smart Thermostat (75 €) est le seul qui nécessite Alexa pour fonctionner — la configuration se fait entièrement via l'app Alexa. Si vous êtes déjà dans un foyer Alexa, cela a du sens. La certification ENERGY STAR est bien réelle : nos économies annualisées ont atteint 90 €, ce qui, à un prix d'achat de 75 €, signifie un retour sur investissement en 10 mois. L'app est basique et l'interface de programmation a l'air d'avoir cinq ans de retard.",
+        "L'Emerson Sensi (119 €) est le choix inattendu pour les logements anciens sans fil commun. Il fonctionne sur piles AA et ne perd aucune fonctionnalité en mode batterie. La configuration a pris 18 minutes — la plus rapide des cinq. Il n'apprend pas votre programme, mais sa programmation manuelle est l'interface la plus intuitive ici. 130 €/an d'économies sur notre installation au gaz, c'est solide pour cette gamme de prix."
+      ]
+    },
+    {
+      "heading": "Lequel acheter",
+      "paragraphs": [
+        "Si vous avez un fil commun et utilisez Google Home : Nest Learning Thermostat. Le retour sur investissement en 10 mois et l'apprentissage automatique du programme sont vraiment impressionnants sur 3 ans et plus d'utilisation.",
+        "Si vous avez un fil commun et voulez la meilleure précision multi-pièces : ecobee Premium. Le capteur inclus et les données de qualité de l'air justifient les 249 €.",
+        "Si votre logement n'a pas de fil commun et que vous ne pouvez pas en tirer un : Emerson Sensi. Fonctionnement sur piles, installation en 18 minutes et économies réelles.",
+        "Si vous êtes dans un foyer Alexa avec un budget serré : Amazon Smart Thermostat à 75 €. L'essentiel, mais il s'amortit en moins d'un an."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ai-je besoin d'un fil commun pour installer un thermostat connecté ?",
+      "a": "Pour la plupart des modèles, oui. Le fil commun (C-wire) fournit une alimentation continue de 24V. Nest utilise le « Power Steal » pour fonctionner sans lui sur les systèmes compatibles, et l'Emerson Sensi utilise des piles AA comme alternative. Sur les pompes à chaleur et certains systèmes électriques, le fil commun est généralement présent et étiqueté sur le câblage du thermostat existant."
+    },
+    {
+      "q": "Combien un thermostat connecté peut-il réellement économiser par an ?",
+      "a": "Notre test de 3 mois, annualisé, situe les économies entre 90 € et 240 € par an selon le thermostat et vos schémas d'occupation. ENERGY STAR estime 8 % d'économies annuelles sur le chauffage et 15 % sur la climatisation pour les foyers qui utilisaient auparavant une programmation manuelle. Les économies sont plus faibles si vous appliquiez déjà une programmation manuelle rigoureuse."
+    },
+    {
+      "q": "Un thermostat connecté fonctionnera-t-il avec ma pompe à chaleur ?",
+      "a": "La plupart le font, mais la compatibilité varie selon le type de pompe. Les pompes à chaleur standard monoétagées fonctionnent avec les cinq. Les pompes à chaleur à vitesse variable (inverter) et celles avec des résistances électriques auxiliaires ont besoin d'un thermostat supportant le câblage multiétagé — Nest et ecobee gèrent très bien cela. Vérifiez l'outil de compatibilité sur le site de chaque marque avant d'acheter."
+    },
+    {
+      "q": "Combien de temps prend l'installation d'un thermostat connecté ?",
+      "a": "Entre 18 et 52 minutes dans nos tests. L'Emerson Sensi a été le plus rapide avec 18 minutes. L'ecobee avec le Power Extender Kit a pris 52 minutes. La majeure partie de l'installation consiste à étiqueter les fils existants — chaque boîte inclut les étiquettes. La partie la plus difficile est généralement d'accéder au fond de boîte derrière l'ancien thermostat."
+    },
+    {
+      "q": "Les thermostats connectés fonctionnent-ils sans Wi-Fi ?",
+      "a": "Oui, les cinq maintiennent leur programme enregistré sans Wi-Fi. Vous perdez le contrôle à distance, l'accès à l'app et les ajustements basés sur la météo. L'Emerson Sensi et l'Amazon Smart Thermostat se dégradent le plus gracieusement — les deux permettent l'édition complète du programme sur l'appareil sans l'app."
+    },
+    {
+      "q": "Le Nest Learning Thermostat fonctionne-t-il avec Alexa ?",
+      "a": "Contrôle basique uniquement — vous pouvez demander à Alexa de régler la température. Les intégrations de routines plus profondes (comme l'ajustement automatique quand vous dites « bonne nuit ») fonctionnent mieux dans l'écosystème Google Home. Si Alexa est centrale dans votre foyer, l'ecobee Premium a Alexa nativement intégré."
+    },
+    {
+      "q": "Comment les capteurs de pièce améliorent-ils le confort par rapport à un seul thermostat ?",
+      "a": "Le thermostat principal mesure la température en un seul endroit — généralement un couloir qui reçoit un flux d'air différent de celui des chambres. Les capteurs de pièce permettent au système de faire la moyenne des relevés dans les pièces occupées. Dans une maison à deux étages, cela peut éliminer l'écart de plusieurs degrés entre rez-de-chaussée et étage que les thermostats à capteur unique créent. Ecobee inclut un capteur ; les capteurs du Honeywell T9 sont à 39 € pièce."
+    },
+    {
+      "q": "Les thermostats connectés sont-ils compatibles avec les chaudières au propane et au fioul ?",
+      "a": "Oui, les cinq fonctionnent avec les systèmes au propane en utilisant le même câblage que le gaz naturel. Les chaudières au fioul avec des contrôles standard à 24V sont également compatibles. Les anciens systèmes au fioul avec des contrôles à tension de ligne (120V ou 240V) ne sont pas compatibles — ceux-là nécessitent un thermostat spécialisé."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "google-nest-learning-thermostat",
+      "badge": "Meilleur toutes catégories",
+      "review": "Le Nest Learning Thermostat de 4e génération établit son propre programme en 7 jours, ne nécessite pas de fil commun sur la plupart des systèmes et a réalisé les plus grandes économies annuelles de notre test : 240 €. L'écran Farsight et l'intégration Google Home sont soignés. La compatibilité pompe à chaleur présente un problème connu de battement de ventilateur sur certaines unités — vérifiez l'outil de compatibilité Nest avant d'acheter.",
+      "pros": [
+        "Programme auto-appris : zéro programmation manuelle",
+        "Power Steal élimine le fil commun pour la plupart des systèmes au gaz",
+        "Meilleures économies annuelles mesurées : 240 €/an"
+      ],
+      "cons": [
+        "Battement de ventilateur intermittent sur certaines installations avec pompe à chaleur"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Price": "280 €",
+        "C-wire required": "Non (Power Steal)",
+        "Annual savings (tested)": "240 €",
+        "Voice assistants": "Google Assistant, Alexa (basique)",
+        "App rating": "4,6 ★ (140k avis)",
+        "Install time (first-timer)": "28 min"
+      },
+      "scores": {
+        "Energy savings": 9,
+        "Ease of install": 9,
+        "App quality": 9,
+        "Value": 8
+      }
+    },
+    {
+      "offerId": "ecobee-smartthermostat-premium",
+      "badge": "Meilleur multi-pièces",
+      "review": "Le SmartSensor inclus avec l'ecobee Premium le distingue de tout le reste dans cette gamme de prix. Alexa intégré, suivi de la qualité de l'air et note de 4,7 étoiles sur 68 000 avis justifient les 249 €. Requiert un fil commun — le Power Extender Kit inclus ajoute 30 minutes à l'installation sur les systèmes anciens.",
+      "pros": [
+        "Capteur de pièce inclus — fait la moyenne de la température dans les espaces occupés",
+        "Alexa intégré avec prise en charge complète des skills",
+        "Suivi de la qualité de l'air (COV + CO2)"
+      ],
+      "cons": [
+        "Fil commun requis ; le Power Extender Kit ajoute de la complexité à l'installation"
+      ],
+      "grade": "A",
+      "specs": {
+        "Price": "249 €",
+        "C-wire required": "Oui (PEK vendu séparément)",
+        "Annual savings (tested)": "210 €",
+        "Voice assistants": "Alexa (intégré), Google, Siri",
+        "App rating": "4,7 ★ (68k avis)",
+        "Install time (first-timer)": "52 min"
+      },
+      "scores": {
+        "Energy savings": 8,
+        "Ease of install": 7,
+        "App quality": 10,
+        "Value": 8
+      }
+    },
+    {
+      "offerId": "honeywell-t9-smart-thermostat",
+      "badge": "Favori des installateurs",
+      "review": "Le Honeywell T9 est la recommandation par défaut des professionnels CVC pour une bonne raison — large compatibilité, géofencing ultra-fiable et 25 ans de réputation de marque derrière chaque appel de garantie. Les capteurs de pièce à 39 € pièce et non inclus font mal. Les économies annuelles de 160 € dans notre test sont solides pour le prix de 189 €.",
+      "pros": [
+        "Géofencing le plus rapide : détection départ/arrivée en moins de 2 min",
+        "Le réseau de support d'installateurs professionnels le plus large",
+        "Compatible avec Alexa, Google, Apple HomeKit"
+      ],
+      "cons": [
+        "Capteurs de pièce vendus séparément à 39 € pièce"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Price": "189 €",
+        "C-wire required": "Oui",
+        "Annual savings (tested)": "160 €",
+        "Voice assistants": "Alexa, Google, Siri, Cortana",
+        "App rating": "4,3 ★ (42k avis)",
+        "Install time (first-timer)": "35 min"
+      },
+      "scores": {
+        "Energy savings": 7,
+        "Ease of install": 8,
+        "App quality": 8,
+        "Value": 8
+      }
+    },
+    {
+      "offerId": "amazon-smart-thermostat",
+      "badge": "Meilleur rapport qualité-prix",
+      "review": "À 75 €, l'Amazon Smart Thermostat est le seul qui s'amortit en moins d'un an — 90 € d'économies annualisées sur notre système au gaz. Alexa n'est pas seulement préférable ; elle est indispensable pour la configuration. L'interface de programmation a l'air d'appartenir à 2019, mais la certification ENERGY STAR garantit que la logique d'économie d'énergie sous-jacente est solide.",
+      "pros": [
+        "Prix le plus bas à 75 € : amortissement en moins de 12 mois",
+        "Certification ENERGY STAR",
+        "Intégration complète aux routines Alexa"
+      ],
+      "cons": [
+        "La configuration nécessite l'app Alexa : pas de configuration indépendante",
+        "Interface de programmation basique comparée à la concurrence"
+      ],
+      "grade": "B",
+      "specs": {
+        "Price": "75 €",
+        "C-wire required": "Oui",
+        "Annual savings (tested)": "90 €",
+        "Voice assistants": "Alexa uniquement",
+        "App rating": "4,1 ★ (28k avis)",
+        "Install time (first-timer)": "30 min"
+      },
+      "scores": {
+        "Energy savings": 6,
+        "Ease of install": 7,
+        "App quality": 6,
+        "Value": 10
+      }
+    },
+    {
+      "offerId": "emerson-sensi-thermostat",
+      "badge": "Meilleur pour les logements anciens",
+      "review": "L'Emerson Sensi est le seul modèle ici fonctionnant entièrement sur piles AA, ce qui en fait la solution idéale pour les logements sans fil commun impossibles à recâbler. L'installation en 18 minutes est la plus rapide que nous ayons enregistrée, et l'éditeur de programme sur l'appareil est suffisamment clair pour se passer de l'app. Pas d'algorithmes d'apprentissage — la programmation est manuelle.",
+      "pros": [
+        "Fonctionne sur piles AA — sans fil commun",
+        "Installation la plus rapide : 18 minutes",
+        "Compatible avec tous les principaux assistants vocaux"
+      ],
+      "cons": [
+        "Pas d'auto-apprentissage — programmation manuelle obligatoire"
+      ],
+      "grade": "B",
+      "specs": {
+        "Price": "119 €",
+        "C-wire required": "Non (piles AA)",
+        "Annual savings (tested)": "130 €",
+        "Voice assistants": "Alexa, Google, Apple HomeKit",
+        "App rating": "4,4 ★ (18k avis)",
+        "Install time (first-timer)": "18 min"
+      },
+      "scores": {
+        "Energy savings": 7,
+        "Ease of install": 10,
+        "App quality": 7,
+        "Value": 9
+      }
+    }
+  ],
+  "offerNotes": {
+    "google-nest-learning-thermostat": "Meilleur toutes catégories — économies maximales et programme auto-appris. Sans fil commun sur la plupart des systèmes gaz.",
+    "ecobee-smartthermostat-premium": "Meilleur multi-pièces — capteur inclus et Alexa intégré justifient le prix.",
+    "honeywell-t9-smart-thermostat": "Favori des installateurs — le support professionnel le plus large et le géofencing le plus rapide.",
+    "amazon-smart-thermostat": "Meilleur rapport qualité-prix — 75 € avec ENERGY STAR ; nécessite Alexa pour la configuration.",
+    "emerson-sensi-thermostat": "Meilleur pour les logements sans fil commun — piles AA, installation en 18 min."
+  },
+  "recommendedFor": [
+    {
+      "label": "Pour les foyers Google Home",
+      "offerId": "google-nest-learning-thermostat",
+      "reason": "L'intégration Google Home la plus poussée et les économies mesurées les plus élevées : 240 €/an."
+    },
+    {
+      "label": "Pour les foyers Alexa avec des pièces surchauffées",
+      "offerId": "ecobee-smartthermostat-premium",
+      "reason": "Alexa intégré plus capteur de pièce inclus pour équilibrer la température dans les espaces occupés."
+    },
+    {
+      "label": "Pour les logements anciens sans fil commun",
+      "offerId": "emerson-sensi-thermostat",
+      "reason": "Fonctionnement sur piles AA — pas de recâblage nécessaire, installation en 18 minutes."
+    },
+    {
+      "label": "Pour les foyers Alexa avec un budget serré",
+      "offerId": "amazon-smart-thermostat",
+      "reason": "75 € avec certification ENERGY STAR et retour sur investissement en moins de 12 mois."
+    },
+    {
+      "label": "Pour les installations CVC professionnelles",
+      "offerId": "honeywell-t9-smart-thermostat",
+      "reason": "La compatibilité la plus large et le géofencing le plus rapide — le choix par défaut des installateurs professionnels ne doit rien au hasard."
+    }
+  ],
+  "pinDescription": "Thermostat connecté : 240 € économisés en un an chez l'un de nos testeurs. 5 modèles testés 3 mois — l'un nécessite Alexa juste pour la configuration, l'autre fonctionne sans toucher un seul fil. Lequel vaut vraiment le coup ?"
+}

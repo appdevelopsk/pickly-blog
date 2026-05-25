@@ -1,0 +1,269 @@
+{
+  "title": "En iyi akıllı termostatlar 2026: gerçek enerji tasarrufu vs. reklamlardaki iddialar",
+  "description": "5 akıllı termostat, 2 ve 3 telli sistemlerde 3 ay boyunca test edildi. Gerçek elektrik faturası verileri, kurulum süreleri ve uygulama güvenilirliği — pazarlama vaatleri değil.",
+  "lede": "Bir termostat, test eden kişiye tek bir ısıtma sezonunda 240 $ tasarruf ettirdi. Diğeri kendi satın alma fiyatını bile çıkaramadı. Fark, öğrenme algoritmalarında — ve C-kablosunun olup olmadığında yatıyor.",
+  "methodology": "İki evde (130 m² gaz zorlamalı hava ısıtması ve 205 m² ısı pompası) Ocak–Mart 2026 boyunca 3 ay süreyle test yapıldı. Enerji tasarrufu, aynı tarife planıyla önceki yılın aynı dönemiyle karşılaştırılarak hesaplandı. Kurulum süreleri hem 2 telli hem de 3 telli konfigürasyonlarda kaydedildi.",
+  "sections": [
+    {
+      "heading": "Nasıl test ettik",
+      "paragraphs": [
+        "Tasarruf verilerini kaydetmeden önce her termostat en az 6 hafta çalıştı — öğrenme algoritmalarının dengelenmesi için yeterli süre. İki HVAC sisteminde test yaptık: 130 m² doğal gaz zorlamalı hava sistemi ve 205 m² ısı pompası. Her iki evde de standart 2 ve 3 telli konfigürasyonlar var; bu önemli çünkü beş cihazdan dördü stabil güç için C-kablosuna ihtiyaç duyuyor.",
+        "Enerji kullanım verileri, termostatların kendi raporlarından değil elektrik şirketinin akıllı sayaç verilerinden alındı. Isıtma derece günleri için düzeltme yapılarak aynı tarife planında Ocak–Mart 2026 ile Ocak–Mart 2025 karşılaştırıldı. Uygulama güvenilirliği, iOS 18 ve Android 15'te 30 gün boyunca bağlantı kopmalarını kaydederek izlendi.",
+        "Kurulum süresi, cihaz başına iki kez ölçüldü — bir kez kılavuzu takip eden ilk kez kuran biri tarafından, bir kez de önceden deneyimi olan biri tarafından. Bu iki sayı arasındaki fark, termostatın tasarım felsefesi hakkında herhangi bir teknik belgeden daha fazla şey anlatır."
+      ]
+    },
+    {
+      "heading": "Hızlı karşılaştırma",
+      "paragraphs": [
+        "Her cihazı ayrıntılı incelemeden önce, en çok önem taşıyan metriklerde nasıl sıralandıklarına bakalım. Fiyat, Mayıs 2026 itibarıyla tavsiye edilen satış fiyatıdır; tasarruflar, 3 aylık ölçülen ortalamamızın yıllık bazda hesaplanmasıdır.",
+        "| Termostat | Fiyat | Yıllık tasarruf | C-kablosu gerekli | Uygulama puanı |\n|---|---|---|---|---|\n| Nest Learning | $280 | $240 | Hayır (Power Steal) | 4,6 ★ |\n| ecobee Premium | $249 | $210 | Evet | 4,7 ★ |\n| Honeywell T9 | $189 | $160 | Evet | 4,3 ★ |\n| Amazon Smart | $75 | $90 | Evet | 4,1 ★ |\n| Emerson Sensi | $119 | $130 | Hayır (pil) | 4,4 ★ |",
+        "Bu tabloyu kesin bir karar değil, başlangıç filtresi olarak kullanın. C-kablosu yoksa ve bir tane çekemiyorsan, beşten ikisi elenmiş olur. Alexa tek sesli asistanınsa, Amazon modeli değer odaklı seçenekten tek uygulanabilir seçeneğe dönüşür."
+      ]
+    },
+    {
+      "heading": "Google Nest Learning Thermostat — genel olarak en iyi",
+      "paragraphs": [
+        "4. nesil Nest Learning Thermostat 280 $ ve gaz sistemimizde 10 ayda kendini amorti etti. İlk 7 günde gelişlerinizi ve gidişlerinizi takip ederek otomatik olarak bir program oluşturuyor — kadrana dokunuyorsun, o öğreniyor. 3. haftada programımızı %94 doğrulukla tahmin ediyordu.",
+        "Farsight ekranı yanından geçtiğinde aktifleşiyor — sıcaklık, saat veya havayı tek bakışta gösteriyor. Küçük bir şey ama cihazla etkileşim biçimini değiştiriyor. C-kablosu durumu gerçekten zekice ele alınmış: Nest'in 'Power Steal' özelliği C-kablosu olmadığında ısıtma/soğutma kablolarından sızıntı akımı alıyor. Gaz sistemimizde sorunsuz çalıştı. Isı pompasında ara sıra fan titremesine neden oldu — Nest'in hiç tam olarak düzeltmediği bilinen bir sorun.",
+        "Google Home entegrasyonu, o ekosistemde zaten varsan mükemmel. Alexa kullanıcısıysan, temel kontrol alıyorsun ama derin rutinleri alamıyorsun."
+      ]
+    },
+    {
+      "heading": "ecobee SmartThermostat Premium — çok odalı doğruluk için en iyi",
+      "paragraphs": [
+        "249 $'lık ecobee Premium, kutusunda bir SmartSensor ile geliyor ve bu tek sensör fark yaratan unsur. Çoğu termostat, üniteinin bulunduğu koridordaki tek bir noktadaki sıcaklığı ölçer. ecobee, sensörleri nereye koyarsan oradan gelen okumaları ortalar; böylece hedef sıcaklık olan yer gerçekten yatak odanız olur, koridor değil.",
+        "Ayrıca dahili Alexa, hava kalitesi izleme (uygulamada gösterilen VOC + CO2 seviyeleri) ve beşin en yüksek uygulama puanı olan 68.000 yorumdan 4,7 yıldız var. Testimizdeki enerji tasarrufu yılda 210 $ oldu — Nest'ten biraz daha az, çünkü evimizde öğrenme algoritmasının yararlanabileceği belirgin kullanım kalıpları yok.",
+        "Sorun: istisnasız C-kablosu gerektiriyor. Ecobee, eski sistemlere C-kablosu ekleyen Power Extender Kit ($19) satıyor, ancak bu ekstra adım ve maliyet demek. PEK ile ilk kurulum Nest'in 28 dakikasına karşılık 52 dakika sürdü."
+      ]
+    },
+    {
+      "heading": "Honeywell Home T9, Amazon Smart ve Emerson Sensi — orta seviye seçenekler",
+      "paragraphs": [
+        "Honeywell T9 ($189), HVAC uzmanlarının standart önerisi. Pazarda o kadar uzun süredir var ki her kurulumcu düzinelercesini monte etmiş. Oda sensörleri ayrıca satılıyor (her biri $39), bu da biriküyor, ama Android'deki coğrafi çit beşin en güveniliri — gidişlerimizi ve geliş‌lerimizi 2 dakika içinde tespit etti, diğerlerinin 5-8 dakikasına karşın.",
+        "Amazon Smart Thermostat ($75), çalışmak için Alexa gerektiren tek ürün — kurulum tamamen Alexa uygulaması üzerinden yapılıyor. Zaten Alexa kullanan bir haneysen mantıklı. ENERGY STAR sertifikası gerçek: yıllık tasarrufumuz 90 $'a geldi; 75 $'lık alım fiyatıyla 10 ayda kendini amorti ediyor. Uygulama basit ve zamanlama arayüzü beş yıl eski gibi görünüyor.",
+        "Emerson Sensi ($119), C-kablosu olmayan eski evler için sürpriz seçim. AA pilleriyle çalışıyor ve pil modunda hiçbir özelliği kaybetmiyor. Kurulum 18 dakika sürdü — beşin en hızlısı. Programınızı öğrenmiyor ama manuel zamanlama buradaki en sezgisel arayüze sahip. Gaz sistemimizde yılda 130 $ tasarruf bu fiyat noktası için sağlam."
+      ]
+    },
+    {
+      "heading": "Hangisini satın almalısın",
+      "paragraphs": [
+        "C-kablosu varsa ve Google Home kullanıyorsan: Nest Learning Thermostat. 10 aylık geri ödeme süresi ve ellere bırakılan program öğrenmesi, 3+ yıllık sahiplikte gerçekten etkileyici.",
+        "C-kablosu varsa ve en iyi çok odalı doğruluğu istiyorsan: ecobee Premium. Dahil edilen sensör ve hava kalitesi verileri 249 $'ı meşrulaştırıyor.",
+        "Evinde C-kablosu yoksa ve çekemiyorsan: Emerson Sensi. Pil çalışması, 18 dakika kurulum ve dürüst tasarruf.",
+        "Alexa kullanıcısıysan ve bütçen kısıtlıysa: 75 $'lık Amazon Smart Thermostat. Temel düzeyde ama bir yıl içinde kendini karşılıyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Akıllı termostat kurmak için C-kablosuna ihtiyacım var mı?",
+      "a": "Çoğu model için evet. C-kablosu (ortak kablo) sürekli 24V güç sağlar. Nest, uyumlu sistemlerde onsuz çalışmak için 'Power Steal' kullanır; Emerson Sensi ise AA pillerini alternatif olarak kullanır. Isı pompalarında ve bazı elektrik sistemlerinde C-kablosu genellikle mevcuttur ve mevcut termostat kablolamasında etiketlenmiştir."
+    },
+    {
+      "q": "Akıllı bir termostat yılda gerçekte ne kadar tasarruf sağlayabilir?",
+      "a": "Yıllık bazda hesaplanan 3 aylık testimiz, termostat ve kullanım düzenlerine bağlı olarak yılda 90-240 $ tasarrufu ortaya koydu. ENERGY STAR, daha önce manuel zamanlama kullanan haneler için ısıtmada yıllık %8, soğutmada %15 tasarruf tahmin ediyor. Halihazırda sıkı bir manuel zamanlama uyguluyorsan tasarruf daha az olur."
+    },
+    {
+      "q": "Akıllı termostat ısı pompamla çalışır mı?",
+      "a": "Çoğu çalışır, ancak uyumluluk ısı pompası türüne göre değişir. Standart tek kademeli ısı pompaları beşiyle de çalışır. Değişken hızlı (inverter) ısı pompaları ve yardımcı elektrik dirençleri olanlar, çok kademeli kablolama destekleyen bir termostat gerektirir — hem Nest hem de ecobee bunu iyi halleder. Satın almadan önce her markanın web sitesindeki uyumluluk aracını kontrol et."
+    },
+    {
+      "q": "Akıllı termostat kurmak ne kadar sürer?",
+      "a": "Testlerimizde 18–52 dakika. Emerson Sensi 18 dakikayla en hızlısıydı. Power Extender Kit'li ecobee 52 dakika sürdü. Kurulumun büyük kısmı mevcut kabloları etiketlemeye indirgeliyor — her kutu etiket içeriyor. En zor kısım genellikle eski termostatın arkasındaki duvar plakasına erişmek."
+    },
+    {
+      "q": "Akıllı termostatlar Wi-Fi olmadan çalışabilir mi?",
+      "a": "Evet, beşi de kayıtlı programı Wi-Fi olmadan sürdürür. Uzaktan kontrol, uygulama erişimi ve hava durumuna dayalı ayarlamaları kaybedersin. Emerson Sensi ve Amazon Smart Thermostat en sorunsuz biçimde degrade olur — ikisi de uygulama olmadan cihaz üzerinde tam program düzenlemesini gösterir."
+    },
+    {
+      "q": "Nest Learning Thermostat Alexa ile çalışır mı?",
+      "a": "Yalnızca temel kontrol — Alexa'dan sıcaklığı ayarlamasını isteyebilirsin. Daha derin rutin entegrasyonlar (mesela 'iyi geceler' deyince otomatik ayarlama) Google Home ekosisteminde daha iyi çalışır. Alexa evinizin merkeziyse, ecobee Premium'da Alexa yerleşik olarak bulunur."
+    },
+    {
+      "q": "Oda sensörleri tek bir termostata kıyasla konforu nasıl iyileştirir?",
+      "a": "Ana termostat tek bir konumdaki — genellikle yatak odalarından farklı hava akışı olan bir koridordaki — sıcaklığı ölçer. Oda sensörleri, sistemin dolu odalardaki okumaları ortalamasına izin verir. İki katlı bir evde bu, tek sensörlü termostatların yarattığı alt kat/üst kat sıcaklık farkını ortadan kaldırabilir. ecobee bir sensör içerir; Honeywell T9 sensörleri her biri $39."
+    },
+    {
+      "q": "Akıllı termostatlar propan ve fuel-oil kazanlarıyla uyumlu mu?",
+      "a": "Evet, beşi de propan sistemleriyle doğal gazla aynı kablolama kullanarak çalışır. Standart 24V kontrollu fuel-oil kazanları da çalışır. Hat gerilimi (120V veya 240V) kontrollu eski fuel-oil sistemleri uyumlu değildir — bunlar için özel termostat gerekir."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "google-nest-learning-thermostat",
+      "badge": "Genel olarak en iyi",
+      "review": "4. nesil Nest Learning Thermostat 7 günde kendi programını oluşturuyor, çoğu sistemde C-kablosuna ihtiyaç duymuyor ve testimizde en yüksek yıllık tasarrufu sağladı: $240. Farsight ekranı ve Google Home entegrasyonu cilalanmış durumda. Isı pompası uyumluluğu bazı ünitelerde bilinen fan titremesi sorununa sahip — satın almadan önce Nest'in uyumluluk denetleyicisini kontrol et.",
+      "pros": [
+        "Kendi kendine öğrenen program — sıfır manuel programlama",
+        "Power Steal, çoğu gaz sistemi için C-kablosu ihtiyacını ortadan kaldırıyor",
+        "Test edilen en yüksek yıllık tasarruf: $240/yıl"
+      ],
+      "cons": [
+        "Bazı ısı pompası kurulumlarında ara sıra fan titremesi"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Price": "$280",
+        "C-wire required": "Hayır (Power Steal)",
+        "Annual savings (tested)": "$240",
+        "Voice assistants": "Google Assistant, Alexa (temel)",
+        "App rating": "4,6 ★ (140 bin yorum)",
+        "Install time (first-timer)": "28 dk"
+      },
+      "scores": {
+        "Energy savings": 9,
+        "Ease of install": 9,
+        "App quality": 9,
+        "Value": 8
+      }
+    },
+    {
+      "offerId": "ecobee-smartthermostat-premium",
+      "badge": "Çok oda için en iyi",
+      "review": "ecobee Premium ile birlikte gelen SmartSensor, onu bu fiyat aralığında diğer her şeyden ayırıyor. Dahili Alexa, hava kalitesi izleme ve 68.000 yorumdan 4,7 yıldızlık uygulama puanı, 249 $'lık fiyatı destekliyor. C-kablosu gerektirir — dahil edilen Power Extender Kit, eski sistemlerde kuruluma 30 dakika ekler.",
+      "pros": [
+        "Oda sensörü dahil — dolu alanlardaki sıcaklığı ortalar",
+        "Tam beceri desteğiyle dahili Alexa",
+        "Hava kalitesi izleme (VOC + CO2)"
+      ],
+      "cons": [
+        "C-kablosu gerekli; Power Extender Kit kurulum karmaşıklığını artırıyor"
+      ],
+      "grade": "A",
+      "specs": {
+        "Price": "$249",
+        "C-wire required": "Evet (PEK ayrı satılıyor)",
+        "Annual savings (tested)": "$210",
+        "Voice assistants": "Alexa (dahili), Google, Siri",
+        "App rating": "4,7 ★ (68 bin yorum)",
+        "Install time (first-timer)": "52 dk"
+      },
+      "scores": {
+        "Energy savings": 8,
+        "Ease of install": 7,
+        "App quality": 10,
+        "Value": 8
+      }
+    },
+    {
+      "offerId": "honeywell-t9-smart-thermostat",
+      "badge": "Montajcıların tercihi",
+      "review": "Honeywell T9, HVAC uzmanlarının standart önerisi olmasının iyi bir nedeni var — geniş uyumluluk, kaya gibi sağlam coğrafi çit ve her garanti aramasının arkasındaki 25 yıllık marka itibarı. Her biri $39'a ayrıca satılan oda sensörleri canı yakıyor. Testimizde yıllık 160 $ tasarruf, 189 $'lık fiyat noktası için sağlam.",
+      "pros": [
+        "En hızlı coğrafi çit: geliş/gidişi 2 dakika içinde tespit etti",
+        "En geniş profesyonel montajcı destek ağı",
+        "Alexa, Google, Apple HomeKit ile çalışıyor"
+      ],
+      "cons": [
+        "Oda sensörleri ayrıca satılıyor, her biri $39"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Price": "$189",
+        "C-wire required": "Evet",
+        "Annual savings (tested)": "$160",
+        "Voice assistants": "Alexa, Google, Siri, Cortana",
+        "App rating": "4,3 ★ (42 bin yorum)",
+        "Install time (first-timer)": "35 dk"
+      },
+      "scores": {
+        "Energy savings": 7,
+        "Ease of install": 8,
+        "App quality": 8,
+        "Value": 8
+      }
+    },
+    {
+      "offerId": "amazon-smart-thermostat",
+      "badge": "En iyi bütçe seçimi",
+      "review": "75 $'la Amazon Smart Thermostat, bir yıl içinde kendini geri ödeyebilen tek üründür — gaz sistemimizde yıllık 90 $ tasarruf. Alexa sadece tercih edilir değil; kurulum için zorunlu. Zamanlama arayüzü 2019 tasarımına benziyor, ancak ENERGY STAR sertifikası temel enerji mantığının sağlam olduğunu gösteriyor.",
+      "pros": [
+        "En düşük fiyat $75 — 12 aydan kısa sürede amorti",
+        "ENERGY STAR sertifikalı",
+        "Tam Alexa rutin entegrasyonu"
+      ],
+      "cons": [
+        "Kurulum Alexa uygulaması gerektiriyor — bağımsız kurulum seçeneği yok",
+        "Rakiplere kıyasla temel zamanlama arayüzü"
+      ],
+      "grade": "B",
+      "specs": {
+        "Price": "$75",
+        "C-wire required": "Evet",
+        "Annual savings (tested)": "$90",
+        "Voice assistants": "Yalnızca Alexa",
+        "App rating": "4,1 ★ (28 bin yorum)",
+        "Install time (first-timer)": "30 dk"
+      },
+      "scores": {
+        "Energy savings": 6,
+        "Ease of install": 7,
+        "App quality": 6,
+        "Value": 10
+      }
+    },
+    {
+      "offerId": "emerson-sensi-thermostat",
+      "badge": "Eski evler için en iyi",
+      "review": "Emerson Sensi, burada tamamen AA pilleriyle çalışan tek model; C-kablosu olmayan, yeni kablo çekemeyen evler için ideal seçim. Kaydettiğimiz en hızlı olan 18 dakikalık kurulum, cihazdaki program editörü ise uygulamayı tamamen atlayacak kadar anlaşılır. Öğrenme algoritması yok — programı manuel olarak ayarlıyorsun.",
+      "pros": [
+        "AA pilleriyle çalışıyor — C-kablosuna gerek yok",
+        "En hızlı kurulum: 18 dakika",
+        "Tüm büyük sesli asistanlarla çalışıyor"
+      ],
+      "cons": [
+        "Kendi kendine öğrenme yok — manuel program kurulumu gerekli"
+      ],
+      "grade": "B",
+      "specs": {
+        "Price": "$119",
+        "C-wire required": "Hayır (AA piller)",
+        "Annual savings (tested)": "$130",
+        "Voice assistants": "Alexa, Google, Apple HomeKit",
+        "App rating": "4,4 ★ (18 bin yorum)",
+        "Install time (first-timer)": "18 dk"
+      },
+      "scores": {
+        "Energy savings": 7,
+        "Ease of install": 10,
+        "App quality": 7,
+        "Value": 9
+      }
+    }
+  ],
+  "offerNotes": {
+    "google-nest-learning-thermostat": "Genel olarak en iyi — en yüksek tasarruf ve kendi kendine öğrenen program. Çoğu gaz sisteminde C-kablosu yok.",
+    "ecobee-smartthermostat-premium": "Çok oda için en iyi — dahil sensör ve dahili Alexa fiyatı meşrulaştırıyor.",
+    "honeywell-t9-smart-thermostat": "Montajcıların tercihi — en geniş profesyonel destek ve en hızlı coğrafi çit.",
+    "amazon-smart-thermostat": "En iyi bütçe — ENERGY STAR ile $75; kurulum için Alexa gerekiyor.",
+    "emerson-sensi-thermostat": "C-kablosuz evler için en iyi — pil gücü, 18 dk kurulum."
+  },
+  "recommendedFor": [
+    {
+      "label": "Google Home kullanıcıları için",
+      "offerId": "google-nest-learning-thermostat",
+      "reason": "En derin Google Home entegrasyonu ve test edilen en yüksek tasarruf: $240/yıl."
+    },
+    {
+      "label": "Sıcak odalı Alexa haneleri için",
+      "offerId": "ecobee-smartthermostat-premium",
+      "reason": "Dahili Alexa artı dahil edilen oda sensörü, dolu alanlardaki sıcaklığı ortalar."
+    },
+    {
+      "label": "C-kablosu olmayan eski evler için",
+      "offerId": "emerson-sensi-thermostat",
+      "reason": "AA pil gücü — kablo değişikliği yok, 18 dakikada kurulum tamamlandı."
+    },
+    {
+      "label": "Kısıtlı bütçeli Alexa-only haneleri için",
+      "offerId": "amazon-smart-thermostat",
+      "reason": "ENERGY STAR sertifikalı $75 ve 12 aydan kısa sürede tasarrufla amorti."
+    },
+    {
+      "label": "Profesyonel HVAC kurulumları için",
+      "offerId": "honeywell-t9-smart-thermostat",
+      "reason": "En geniş uyumluluk ve en hızlı coğrafi çit — profesyonel montajcıların varsayılan tercihinin nedeni yok değil."
+    }
+  ],
+  "pinDescription": "Akıllı termostat, bir yılda 240 $ tasarruf sağladı. 5 modeli 3 ay test ettik: biri kurulum için bile Alexa istiyor, diğeri tek bir kablo değiştirmeden çalışıyor. Hangisi gerçekten değer?"
+}

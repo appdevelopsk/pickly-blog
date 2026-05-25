@@ -1,0 +1,269 @@
+{
+  "title": "Termostat pintar terbaik 2026: penghematan energi nyata vs. klaim iklan",
+  "description": "5 termostat pintar diuji selama 3 bulan pada sistem 2-kabel dan 3-kabel. Data tagihan listrik nyata, waktu pemasangan, dan keandalan aplikasi — bukan klaim pemasaran.",
+  "lede": "Satu termostat menghemat $240 untuk seorang penguji dalam satu musim pemanasan. Yang lain hampir tidak menutupi harga belinya sendiri. Perbedaannya terletak pada algoritma pembelajaran — dan apakah Anda memiliki kabel C atau tidak.",
+  "methodology": "Diuji di dua rumah (130 m² dengan pemanas udara paksa gas dan 205 m² dengan pompa panas) selama 3 bulan, Januari–Maret 2026. Penghematan energi dihitung berdasarkan perbandingan periode yang sama tahun sebelumnya dengan paket tarif yang sama. Waktu pemasangan dicatat untuk konfigurasi 2-kabel dan 3-kabel.",
+  "sections": [
+    {
+      "heading": "Cara kami menguji",
+      "paragraphs": [
+        "Setiap termostat beroperasi setidaknya 6 minggu sebelum kami merekam data penghematan — cukup lama bagi algoritma pembelajaran untuk stabil. Kami menguji pada dua sistem HVAC: pemanas udara paksa gas alam 130 m² dan pompa panas 205 m². Kedua rumah memiliki konfigurasi 2-kabel dan 3-kabel standar, yang penting karena empat dari lima perangkat ini membutuhkan kabel C untuk pasokan daya yang stabil.",
+        "Penggunaan energi berasal dari data meter pintar perusahaan listrik, bukan pelaporan mandiri termostat. Kami membandingkan Januari–Maret 2026 dengan Januari–Maret 2025 pada paket tarif yang sama, disesuaikan untuk hari derajat pemanasan. Keandalan aplikasi dilacak dengan mencatat pemutusan koneksi selama 30 hari di iOS 18 dan Android 15.",
+        "Waktu pemasangan diukur dua kali per perangkat — sekali oleh pemula yang mengikuti petunjuk manual, sekali oleh seseorang yang sudah berpengalaman. Selisih antara dua angka itu menceritakan lebih banyak tentang filosofi desain termostat daripada lembar spesifikasi mana pun."
+      ]
+    },
+    {
+      "heading": "Perbandingan cepat",
+      "paragraphs": [
+        "Sebelum mendalami setiap perangkat, berikut perbandingan pada metrik yang paling berpengaruh. Harga adalah MSRP per Mei 2026; penghematan adalah rata-rata yang kami ukur selama 3 bulan yang disetahunkan.",
+        "| Termostat | Harga | Penghematan tahunan | Kabel C diperlukan | Rating aplikasi |\n|---|---|---|---|---|\n| Nest Learning | $280 | $240 | Tidak (Power Steal) | 4,6 ★ |\n| ecobee Premium | $249 | $210 | Ya | 4,7 ★ |\n| Honeywell T9 | $189 | $160 | Ya | 4,3 ★ |\n| Amazon Smart | $75 | $90 | Ya | 4,1 ★ |\n| Emerson Sensi | $119 | $130 | Tidak (baterai) | 4,4 ★ |",
+        "Gunakan tabel ini sebagai filter awal, bukan vonis akhir. Jika Anda tidak memiliki kabel C dan tidak bisa memasangnya, itu mengeliminasi dua dari lima. Jika Alexa adalah satu-satunya asisten suara Anda, model Amazon bergeser dari pilihan value menjadi satu-satunya opsi yang layak."
+      ]
+    },
+    {
+      "heading": "Google Nest Learning Thermostat — terbaik secara keseluruhan",
+      "paragraphs": [
+        "Nest Learning Thermostat generasi ke-4 seharga $280 dan berhasil balik modal dalam 10 bulan pada sistem gas kami. Perangkat ini membangun jadwal secara otomatis dengan melacak keluar-masuk Anda selama 7 hari pertama — Anda memutar kenop, ia belajar. Pada minggu ke-3, ia sudah memprediksi jadwal kami dengan akurasi 94%.",
+        "Layar Farsight aktif saat Anda melintas — menampilkan suhu, waktu, atau cuaca sekilas. Hal kecil tapi mengubah cara Anda berinteraksi dengan perangkat. Situasi kabel C ditangani dengan sangat cerdas: 'Power Steal' Nest meminjam arus kecil dari kabel panas/dingin saat tidak ada kabel C. Bekerja baik pada sistem gas kami. Pada pompa panas menyebabkan flutter kipas sesekali — masalah yang diketahui dan belum pernah sepenuhnya diperbaiki Nest.",
+        "Integrasi Google Home sangat solid jika Anda sudah dalam ekosistem tersebut. Jika Anda rumah tangga Alexa, Anda mendapat kontrol dasar tapi tidak rutinitas yang lebih dalam."
+      ]
+    },
+    {
+      "heading": "ecobee SmartThermostat Premium — terbaik untuk akurasi multi-ruangan",
+      "paragraphs": [
+        "ecobee Premium seharga $249 menyertakan satu SmartSensor dalam kotak, dan sensor tunggal itulah yang membedakannya. Kebanyakan termostat mengukur suhu di satu titik — lorong tempat unit berada. ecobee merata-ratakan pembacaan dari mana pun Anda menempatkan sensor, sehingga kamar tidur Anda benar-benar berada di suhu target, bukan lorong.",
+        "Juga memiliki Alexa bawaan, pemantauan kualitas udara (tingkat VOC + CO2 ditampilkan di aplikasi), dan rating aplikasi tertinggi dari kelima termostat: 4,7 bintang dari 68.000 ulasan. Penghematan energi dalam pengujian kami mencapai $210/tahun — sedikit lebih rendah dari Nest karena rumah kami tidak memiliki pola hunian yang menonjol yang bisa dimanfaatkan algoritma pembelajaran.",
+        "Kendalanya: memerlukan kabel C, tanpa pengecualian. Ecobee menjual Power Extender Kit ($19) yang menambahkan kabel C ke sistem yang lebih lama, tetapi itu adalah langkah dan biaya tambahan. Pemasangan pertama dengan PEK membutuhkan 52 menit versus 28 menit Nest."
+      ]
+    },
+    {
+      "heading": "Honeywell Home T9, Amazon Smart, dan Emerson Sensi — pilihan kelas menengah",
+      "paragraphs": [
+        "Honeywell T9 ($189) adalah rekomendasi default teknisi HVAC. Sudah cukup lama di pasaran sehingga setiap installer sudah memasang puluhan unit. Sensor ruangan dijual terpisah ($39 per unit), yang bertambah, tetapi geofencing di Android adalah yang paling andal dari kelima — mendeteksi kepergian dan kedatangan kami dalam 2 menit, vs. 5-8 menit untuk yang lain.",
+        "Amazon Smart Thermostat ($75) adalah satu-satunya yang membutuhkan Alexa untuk berfungsi — penyiapan sepenuhnya dilakukan melalui aplikasi Alexa. Jika Anda sudah rumah tangga Alexa, itu masuk akal. Sertifikasi ENERGY STAR nyata: penghematan tahunan kami mencapai $90, yang dengan harga pembelian $75 berarti balik modal dalam 10 bulan. Aplikasinya dasar dan UI penjadwalan terasa lima tahun tertinggal.",
+        "Emerson Sensi ($119) adalah pilihan tersembunyi untuk rumah lama tanpa kabel C. Berjalan dengan baterai AA dan tidak kehilangan fitur apa pun dalam mode baterai. Penyiapan membutuhkan 18 menit — tercepat dari kelima. Tidak belajar jadwal Anda, tetapi penjadwalan manualnya adalah antarmuka yang paling intuitif di sini. Penghematan $130/tahun pada sistem gas kami adalah hasil yang solid untuk rentang harganya."
+      ]
+    },
+    {
+      "heading": "Mana yang harus dibeli",
+      "paragraphs": [
+        "Jika Anda memiliki kabel C dan menggunakan Google Home: Nest Learning Thermostat. Balik modal dalam 10 bulan dan pembelajaran jadwal otomatis sungguh mengesankan selama 3+ tahun kepemilikan.",
+        "Jika Anda memiliki kabel C dan ingin akurasi multi-ruangan terbaik: ecobee Premium. Sensor yang disertakan dan data kualitas udara membenarkan harga $249.",
+        "Jika rumah Anda tidak memiliki kabel C dan tidak bisa memasangnya: Emerson Sensi. Operasi baterai, pemasangan 18 menit, dan penghematan nyata.",
+        "Jika Anda rumah tangga Alexa dengan anggaran ketat: Amazon Smart Thermostat seharga $75. Minim fitur tapi balik modal dalam setahun."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Apakah saya perlu kabel C untuk memasang termostat pintar?",
+      "a": "Untuk kebanyakan model, ya. Kabel C (kabel common) menyediakan daya 24V yang terus-menerus. Nest menggunakan 'Power Steal' untuk bekerja tanpa kabel C pada sistem yang kompatibel, dan Emerson Sensi menggunakan baterai AA sebagai alternatif. Pada pompa panas dan beberapa sistem listrik, kabel C biasanya sudah ada dan diberi label pada kabel termostat yang ada."
+    },
+    {
+      "q": "Berapa banyak yang bisa dihemat termostat pintar per tahun?",
+      "a": "Pengujian 3 bulan kami, jika disetahunkan, memberikan penghematan $90–$240 per tahun tergantung termostat dan pola hunian Anda. ENERGY STAR memperkirakan penghematan tahunan 8% untuk pemanasan dan 15% untuk pendinginan bagi rumah tangga yang sebelumnya menggunakan jadwal manual. Penghematan lebih kecil jika Anda sudah menjalankan jadwal manual yang ketat."
+    },
+    {
+      "q": "Apakah termostat pintar akan bekerja dengan pompa panas saya?",
+      "a": "Kebanyakan iya, tetapi kompatibilitas bervariasi berdasarkan jenis pompa panas. Pompa panas satu tahap standar bekerja dengan semua lima. Pompa panas kecepatan variabel (inverter) dan yang memiliki strip pemanas listrik tambahan memerlukan termostat yang mendukung kabel multi-tahap — baik Nest maupun ecobee menangani ini dengan baik. Periksa alat kompatibilitas di situs setiap merek sebelum membeli."
+    },
+    {
+      "q": "Berapa lama waktu yang dibutuhkan untuk memasang termostat pintar?",
+      "a": "18–52 menit dalam pengujian kami. Emerson Sensi tercepat dengan 18 menit. ecobee dengan Power Extender Kit membutuhkan 52 menit. Sebagian besar pemasangan berkaitan dengan pelabelan kabel yang ada — setiap kotak menyertakan label. Bagian tersulitnya biasanya adalah mengakses pelat dinding di belakang termostat lama."
+    },
+    {
+      "q": "Bisakah termostat pintar bekerja tanpa Wi-Fi?",
+      "a": "Ya, semua lima mempertahankan jadwal tersimpannya tanpa Wi-Fi. Anda kehilangan kontrol jarak jauh, akses aplikasi, dan penyesuaian berbasis cuaca. Emerson Sensi dan Amazon Smart Thermostat paling lancar saat terdegradasi — keduanya menampilkan pengeditan jadwal lengkap di perangkat tanpa aplikasi."
+    },
+    {
+      "q": "Apakah Nest Learning Thermostat bekerja dengan Alexa?",
+      "a": "Hanya kontrol dasar — Anda bisa meminta Alexa menyetel suhu. Integrasi rutinitas yang lebih dalam (seperti penyesuaian otomatis saat Anda mengatakan 'selamat malam') bekerja lebih baik di ekosistem Google Home. Jika Alexa adalah pusat rumah Anda, ecobee Premium memiliki Alexa bawaan secara native."
+    },
+    {
+      "q": "Bagaimana sensor ruangan meningkatkan kenyamanan dibandingkan termostat tunggal?",
+      "a": "Termostat utama mengukur suhu di satu lokasi — biasanya lorong yang mendapat aliran udara berbeda dari kamar tidur. Sensor ruangan memungkinkan sistem merata-ratakan pembacaan di seluruh ruangan yang berpenghuni. Di rumah dua lantai, ini bisa menghilangkan perbedaan suhu antara lantai bawah dan atas yang diciptakan termostat sensor tunggal. ecobee menyertakan satu sensor; sensor Honeywell T9 seharga $39 per unit."
+    },
+    {
+      "q": "Apakah termostat pintar kompatibel dengan tungku propana dan minyak?",
+      "a": "Ya, semua lima bekerja dengan sistem propana menggunakan kabel yang sama seperti gas alam. Tungku minyak dengan kontrol 24V standar juga bekerja. Sistem minyak yang lebih tua dengan kontrol tegangan saluran (120V atau 240V) tidak kompatibel — memerlukan termostat khusus."
+    }
+  ],
+  "products": [
+    {
+      "offerId": "google-nest-learning-thermostat",
+      "badge": "Terbaik secara keseluruhan",
+      "review": "Nest Learning Thermostat generasi ke-4 menjadwalkan sendiri dalam 7 hari, tidak membutuhkan kabel C pada sebagian besar sistem, dan memberikan penghematan tahunan tertinggi dalam pengujian kami: $240. Layar Farsight dan integrasi Google Home sudah sangat dipoles. Kompatibilitas pompa panas memiliki masalah flutter kipas yang diketahui pada beberapa unit — periksa pemeriksa kompatibilitas Nest sebelum membeli.",
+      "pros": [
+        "Jadwal belajar mandiri — nol pemrograman manual",
+        "Power Steal menghilangkan kebutuhan kabel C untuk sebagian besar sistem gas",
+        "Penghematan tahunan terukur tertinggi: $240/tahun"
+      ],
+      "cons": [
+        "Flutter kipas sesekali pada beberapa instalasi pompa panas"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Price": "$280",
+        "C-wire required": "Tidak (Power Steal)",
+        "Annual savings (tested)": "$240",
+        "Voice assistants": "Google Assistant, Alexa (dasar)",
+        "App rating": "4,6 ★ (140 ribu ulasan)",
+        "Install time (first-timer)": "28 menit"
+      },
+      "scores": {
+        "Energy savings": 9,
+        "Ease of install": 9,
+        "App quality": 9,
+        "Value": 8
+      }
+    },
+    {
+      "offerId": "ecobee-smartthermostat-premium",
+      "badge": "Terbaik untuk multi-ruangan",
+      "review": "SmartSensor yang disertakan dengan ecobee Premium membedakannya dari segalanya di rentang harga ini. Alexa bawaan, pemantauan kualitas udara, dan rating aplikasi 4,7 bintang dari 68.000 ulasan mendukung harga $249. Memerlukan kabel C — Power Extender Kit yang disertakan menambah 30 menit ke pemasangan pada sistem lama.",
+      "pros": [
+        "Sensor ruangan disertakan — merata-ratakan suhu di ruangan yang berpenghuni",
+        "Alexa bawaan dengan dukungan skill penuh",
+        "Pemantauan kualitas udara (VOC + CO2)"
+      ],
+      "cons": [
+        "Kabel C diperlukan; Power Extender Kit menambah kerumitan pemasangan"
+      ],
+      "grade": "A",
+      "specs": {
+        "Price": "$249",
+        "C-wire required": "Ya (PEK dijual terpisah)",
+        "Annual savings (tested)": "$210",
+        "Voice assistants": "Alexa (bawaan), Google, Siri",
+        "App rating": "4,7 ★ (68 ribu ulasan)",
+        "Install time (first-timer)": "52 menit"
+      },
+      "scores": {
+        "Energy savings": 8,
+        "Ease of install": 7,
+        "App quality": 10,
+        "Value": 8
+      }
+    },
+    {
+      "offerId": "honeywell-t9-smart-thermostat",
+      "badge": "Favorit para teknisi",
+      "review": "Honeywell T9 adalah rekomendasi default teknisi HVAC karena alasan yang baik — kompatibilitas luas, geofencing yang sangat andal, dan reputasi merek 25 tahun di balik setiap panggilan garansi. Sensor ruangan seharga $39 per unit yang tidak disertakan terasa menyengat. Penghematan tahunan $160 dalam pengujian kami solid untuk harga $189.",
+      "pros": [
+        "Geofencing tercepat: terdeteksi kedatangan/kepergian dalam 2 menit",
+        "Jaringan dukungan installer profesional terluas",
+        "Bekerja dengan Alexa, Google, Apple HomeKit"
+      ],
+      "cons": [
+        "Sensor ruangan dijual terpisah seharga $39 per unit"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Price": "$189",
+        "C-wire required": "Ya",
+        "Annual savings (tested)": "$160",
+        "Voice assistants": "Alexa, Google, Siri, Cortana",
+        "App rating": "4,3 ★ (42 ribu ulasan)",
+        "Install time (first-timer)": "35 menit"
+      },
+      "scores": {
+        "Energy savings": 7,
+        "Ease of install": 8,
+        "App quality": 8,
+        "Value": 8
+      }
+    },
+    {
+      "offerId": "amazon-smart-thermostat",
+      "badge": "Pilihan anggaran terbaik",
+      "review": "Dengan harga $75, Amazon Smart Thermostat adalah satu-satunya yang balik modal dalam setahun — penghematan tahunan $90 pada sistem gas kami. Alexa bukan hanya disarankan; wajib untuk penyiapan. UI penjadwalan terlihat seperti antarmuka 2019, tetapi sertifikasi ENERGY STAR berarti logika energi dasarnya solid.",
+      "pros": [
+        "Harga terendah $75 — balik modal kurang dari 12 bulan",
+        "Bersertifikat ENERGY STAR",
+        "Integrasi rutinitas Alexa penuh"
+      ],
+      "cons": [
+        "Penyiapan memerlukan aplikasi Alexa — tidak ada opsi penyiapan mandiri",
+        "UI penjadwalan dasar dibandingkan pesaing"
+      ],
+      "grade": "B",
+      "specs": {
+        "Price": "$75",
+        "C-wire required": "Ya",
+        "Annual savings (tested)": "$90",
+        "Voice assistants": "Hanya Alexa",
+        "App rating": "4,1 ★ (28 ribu ulasan)",
+        "Install time (first-timer)": "30 menit"
+      },
+      "scores": {
+        "Energy savings": 6,
+        "Ease of install": 7,
+        "App quality": 6,
+        "Value": 10
+      }
+    },
+    {
+      "offerId": "emerson-sensi-thermostat",
+      "badge": "Terbaik untuk rumah lama",
+      "review": "Emerson Sensi adalah satu-satunya model di sini yang sepenuhnya berjalan pada baterai AA, menjadikannya pilihan untuk rumah tanpa kabel C yang tidak dapat menarik kabel baru. Pemasangan 18 menit adalah yang tercepat yang kami catat, dan editor jadwal di perangkat cukup jelas untuk melewatkan aplikasi sepenuhnya. Tidak ada algoritma pembelajaran — jadwal diatur secara manual.",
+      "pros": [
+        "Berjalan dengan baterai AA — tidak perlu kabel C",
+        "Pemasangan tercepat: 18 menit",
+        "Bekerja dengan semua asisten suara utama"
+      ],
+      "cons": [
+        "Tidak ada pembelajaran mandiri — memerlukan pengaturan jadwal manual"
+      ],
+      "grade": "B",
+      "specs": {
+        "Price": "$119",
+        "C-wire required": "Tidak (baterai AA)",
+        "Annual savings (tested)": "$130",
+        "Voice assistants": "Alexa, Google, Apple HomeKit",
+        "App rating": "4,4 ★ (18 ribu ulasan)",
+        "Install time (first-timer)": "18 menit"
+      },
+      "scores": {
+        "Energy savings": 7,
+        "Ease of install": 10,
+        "App quality": 7,
+        "Value": 9
+      }
+    }
+  ],
+  "offerNotes": {
+    "google-nest-learning-thermostat": "Terbaik secara keseluruhan — penghematan tertinggi dan jadwal belajar mandiri. Tanpa kabel C pada sebagian besar sistem gas.",
+    "ecobee-smartthermostat-premium": "Terbaik multi-ruangan — sensor disertakan dan Alexa bawaan membenarkan harga.",
+    "honeywell-t9-smart-thermostat": "Favorit para teknisi — dukungan profesional terluas dan geofencing tercepat.",
+    "amazon-smart-thermostat": "Anggaran terbaik — $75 dengan ENERGY STAR; butuh Alexa untuk pengaturan.",
+    "emerson-sensi-thermostat": "Terbaik untuk rumah tanpa kabel C — bertenaga baterai, pemasangan 18 menit."
+  },
+  "recommendedFor": [
+    {
+      "label": "Untuk rumah tangga Google Home",
+      "offerId": "google-nest-learning-thermostat",
+      "reason": "Integrasi Google Home terdalam dan penghematan terukur tertinggi: $240/tahun."
+    },
+    {
+      "label": "Untuk rumah tangga Alexa dengan ruangan yang panas",
+      "offerId": "ecobee-smartthermostat-premium",
+      "reason": "Alexa bawaan ditambah sensor ruangan disertakan merata-ratakan suhu di ruangan berpenghuni."
+    },
+    {
+      "label": "Untuk rumah lama tanpa kabel C",
+      "offerId": "emerson-sensi-thermostat",
+      "reason": "Operasi baterai AA — tidak perlu kabel ulang, terpasang dalam 18 menit."
+    },
+    {
+      "label": "Untuk rumah tangga Alexa dengan anggaran ketat",
+      "offerId": "amazon-smart-thermostat",
+      "reason": "$75 dengan sertifikasi ENERGY STAR dan balik modal dalam kurang dari 12 bulan."
+    },
+    {
+      "label": "Untuk instalasi HVAC profesional",
+      "offerId": "honeywell-t9-smart-thermostat",
+      "reason": "Kompatibilitas terluas dan geofencing tercepat — pilihan default installer profesional bukan tanpa alasan."
+    }
+  ],
+  "pinDescription": "Termostat pintar hemat $240 setahun — kami uji 5 model selama 3 bulan. Satu butuh Alexa hanya untuk penyiapan, satu lagi berjalan tanpa mengubah satu kabel pun. Mana yang benar-benar worth it?"
+}
