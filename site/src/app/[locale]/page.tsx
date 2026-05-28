@@ -168,6 +168,44 @@ export default async function HomePage({ params }: Props) {
           </nav>
         )}
 
+        {/* ── How we choose products (E-E-A-T / trust) ─────── */}
+        {(() => {
+          let trustTitle = "";
+          let trustIntro = "";
+          try { trustTitle = t("home.trustTitle"); } catch { /* missing */ }
+          try { trustIntro = t("home.trustIntro"); } catch { /* missing */ }
+          if (!trustTitle) return null;
+          const items: { titleKey: string; textKey: string; icon: string }[] = [
+            { titleKey: "home.trustTestedTitle", textKey: "home.trustTestedText", icon: "🧪" },
+            { titleKey: "home.trustCriteriaTitle", textKey: "home.trustCriteriaText", icon: "📊" },
+            { titleKey: "home.trustDisclosureTitle", textKey: "home.trustDisclosureText", icon: "🔍" },
+            { titleKey: "home.trustUpdatedTitle", textKey: "home.trustUpdatedText", icon: "🔄" },
+          ];
+          return (
+            <section className="mb-12 rounded-2xl border border-slate-200 bg-slate-50 p-6 md:p-8">
+              <h2 className="text-xl font-bold text-slate-900">{trustTitle}</h2>
+              <p className="mt-2 text-sm text-slate-600">{trustIntro}</p>
+              <div className="mt-5 grid gap-5 md:grid-cols-2">
+                {items.map((it) => {
+                  let title = ""; let text = "";
+                  try { title = t(it.titleKey); } catch { /* missing */ }
+                  try { text = t(it.textKey); } catch { /* missing */ }
+                  if (!title) return null;
+                  return (
+                    <div key={it.titleKey}>
+                      <h3 className="flex items-center gap-2 text-sm font-bold text-slate-900">
+                        <span aria-hidden>{it.icon}</span>
+                        {title}
+                      </h3>
+                      <p className="mt-1 text-sm text-slate-600 leading-relaxed">{text}</p>
+                    </div>
+                  );
+                })}
+              </div>
+            </section>
+          );
+        })()}
+
         {/* ── Content ───────────────────────────────────── */}
         {recent.length === 0 ? (
           <p className="rounded-xl bg-amber-50 p-6 text-amber-800">{t("home.empty")}</p>
