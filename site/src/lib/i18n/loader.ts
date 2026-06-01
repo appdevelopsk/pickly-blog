@@ -1,6 +1,5 @@
 import type { Locale } from "./locales";
 import { DEFAULT_LOCALE } from "./locales";
-import { listArticles } from "@/lib/articles/registry";
 
 type Messages = Record<string, unknown>;
 
@@ -19,7 +18,7 @@ async function loadCommon(locale: string): Promise<Messages> {
  *   2. Meta:   { meta: { title, description }, ... }
  *   3. Nested: { articles: { "slug": { title, description, ... } } }
  */
-function normalizeArticleMessages(raw: Messages, slug?: string): Messages {
+export function normalizeArticleMessages(raw: Messages, slug?: string): Messages {
   // Format 3: { articles: { slug: { ... } } } — unwrap one level
   if (
     slug &&
@@ -43,37 +42,31 @@ function normalizeArticleMessages(raw: Messages, slug?: string): Messages {
   };
 }
 
-async function loadArticleMessages(locale: string): Promise<Messages> {
-  const articles = listArticles();
-  const out: Messages = {};
-  for (const a of articles) {
-    // Always load English as base so no key is ever missing
-    let base: Messages = {};
-    try {
-      const enMod = await import(`@/articles/${a.slug}/messages/${DEFAULT_LOCALE}.json`);
-      base = normalizeArticleMessages(enMod.default as Messages, a.slug);
-    } catch { /* no en.json, skip */ }
+/**
+ * Load messages for a single article (slug + locale) with English fallback.
+ * Used by the article page instead of loading all articles at once.
+ */
+export async function loadArticleContent(slug: string, locale: string): Promise<Messages> {
+  let base: Messages = {};
+  try {
+    const enMod = await import(`@/articles/${slug}/messages/${DEFAULT_LOCALE}.json`);
+    base = normalizeArticleMessages(enMod.default as Messages, slug);
+  } catch { /* no en.json */ }
 
-    if (locale === DEFAULT_LOCALE) {
-      out[a.slug] = base;
-    } else {
-      try {
-        const mod = await import(`@/articles/${a.slug}/messages/${locale}.json`);
-        const localized = normalizeArticleMessages(mod.default as Messages, a.slug);
-        // Locale keys override English base; missing keys fall back to English
-        out[a.slug] = { ...base, ...localized };
-      } catch {
-        out[a.slug] = base;
-      }
-    }
+  if (locale === DEFAULT_LOCALE) return base;
+  try {
+    const mod = await import(`@/articles/${slug}/messages/${locale}.json`);
+    const localized = normalizeArticleMessages(mod.default as Messages, slug);
+    return { ...base, ...localized };
+  } catch {
+    return base;
   }
-  return out;
 }
 
+/**
+ * Global messages: UI strings only. Article content is loaded per-page via loadArticleContent().
+ * This keeps the RSC payload small (UI strings ~50KB vs all-articles ~8MB).
+ */
 export async function loadMessages(locale: Locale | string): Promise<Messages> {
-  const [common, articles] = await Promise.all([
-    loadCommon(locale),
-    loadArticleMessages(locale),
-  ]);
-  return { ...common, articles };
+  return loadCommon(locale);
 }
