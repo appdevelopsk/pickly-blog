@@ -1,5 +1,4 @@
 import type { ArticleMeta } from "@/lib/articles/types";
-
 export const meta: ArticleMeta = {
   slug: "best-travel-pillow-2026",
   type: "comparison",
@@ -13,6 +12,6 @@ export const meta: ArticleMeta = {
   ],
   publishedAt: "2026-05-09",
   updatedAt: "2026-05-09",
-  locales: ["en","ja","ko","es","pt-BR","fr","de","it","id"],
+  locales: ["en", "ja", "ko", "es", "pt-BR", "fr", "de", "it", "id"],
   ogImage: "auto",
 };

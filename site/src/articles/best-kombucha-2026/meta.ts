@@ -6,6 +6,6 @@ export const meta: ArticleMeta = {
   offerIds: ["gts-synergy-kombucha", "health-ade-kombucha", "brew-dr-kombucha", "humm-kombucha", "kevita-master-brew"],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
+  locales: ["en", "ja", "ko", "es", "pt-BR", "fr", "de", "it", "ru", "ar", "hi", "id", "th", "vi", "tr"],
   ogImage: "auto",
 };

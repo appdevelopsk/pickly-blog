@@ -1,5 +1,4 @@
 import type { ArticleMeta } from "@/lib/articles/types";
-
 export const meta: ArticleMeta = {
   slug: "best-tennis-racket-2026",
   type: "comparison",
@@ -13,6 +12,6 @@ export const meta: ArticleMeta = {
   ],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
+  locales: ["en", "ja", "ko", "es", "pt-BR", "fr", "de", "it"],
   ogImage: "/og/best-tennis-racket-2026",
 };

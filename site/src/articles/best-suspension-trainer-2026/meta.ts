@@ -6,6 +6,6 @@ export const meta: ArticleMeta = {
   offerIds: ["trx-go-suspension", "trx-pro4-suspension", "jungle-gym-xt", "nossk-twin-strap", "monkii-bars-2"],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
+  locales: ["en", "ja", "ko", "es", "pt-BR", "fr", "de", "it"],
   ogImage: "auto",
 };

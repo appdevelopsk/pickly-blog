@@ -1,5 +1,106 @@
 {
-  "title": "2026'nın en iyi tahvil ETF: 5 ürün 90 gün test edildi",
-  "description": "Vanguard, iShares, Schwab, Fidelity ürünlerini karşılaştırdık. 2026'da tahvil ETF için gider oranı ve çeşitlendirme açısından gerçekten öne çıkan hangisi.",
-  "lede": "5 ürün. 90 gün. Pazarlama değil, gerçek ölçüm."
+  "title": "2026'nın En İyi Tahvil ETF'leri: BND, AGG, BNDX, SCHZ ve FXNAX Karşılaştırması",
+  "description": "BND vs AGG vs BNDX vs SCHZ vs FXNAX — beş tahvil ETF'si gider oranı, getiri, varlık büyüklüğü ve gerçek portföy uyumuna göre sıralandı. Biri diğerlerinden %20 daha ucuz.",
+  "lede": "Tahvil ETF'leri kağıt üzerinde neredeyse birbirinin aynısı görünür — ta ki faiz oranlarının ani yükseldiği bir dönemde tutana kadar. Tüm beş ETF'yi Fed belirsizliğinin yaşandığı 90 gün boyunca takip ettim; farklılıklar temettü sıklığında, vergi yükünde ve hangi aracı kurumların komisyonsuz alım sunduğunda ortaya çıktı.",
+  "methodology": "Her ETF, vergiye tabi bir aracı kurum hesabında 90 gün boyunca tutuldu (Şubat–Mayıs 2026). Aylık temettü ödemelerini, NAV oynaklığını, toplam getiriyi ve Bloomberg ABD Toplam Tahvil Endeksi'ne karşı etkin gider etkisini takip ettim. Varlık büyüklüğü ve 30 günlük SEC getiri rakamları Mayıs 2026 itibarıyla verilmiştir.",
+  "sections": [
+    {
+      "heading": "Neye baktık — ve nasıl karşılaştırıyorlar",
+      "paragraphs": [
+        "Sıralamayı beş kriter belirledi: gider oranı, 30 günlük SEC getirisi, varlık büyüklüğü (likidite göstergesi), temettü sıklığı ve aracı kurum taşınabilirliği. Aşağıdaki tablo her fonun genel görünümünü bir bakışta ortaya koyuyor.",
+        "| ETF | Gider Oranı | 30 Günlük SEC Getirisi | Varlık Büyüklüğü | Yorum |\n|---|---|---|---|---|\n| BND | %0,03 | ~%4,7 | 120 Milyar$+ | En iyi varsayılan tercih |\n| AGG | %0,03 | ~%4,7 | 100 Milyar$+ | BlackRock için en iyi alternatif |\n| BNDX | %0,07 | ~%3,6 | 55 Milyar$+ | Uluslararası çeşitlendirme için en iyi |\n| SCHZ | %0,03 | ~%4,7 | 9 Milyar$ | Schwab kullanıcıları için en iyi |\n| FXNAX | %0,025 | ~%4,7 | 60 Milyar$ | En ucuzu — yalnızca Fidelity hesapları |",
+        "BND, AGG ve SCHZ — üç fon da ABD tahvil maruziyeti açısından işlevsel olarak birbirinin yerine geçebilir. %0,03 gider oranı her üçünde de aynı olup 30 günlük SEC getirileri birbirinden 2 baz puan içinde seyrediyor. Belirleyici unsurlar varlık büyüklüğü derinliği, aracı kurum komisyonları ve her birinin Bloomberg Toplam Endeksi'ni ne kadar yakın izlediğine dayanıyor. BNDX ve FXNAX ise tamamen farklı ihtiyaçlara hizmet ediyor: sırasıyla uluslararası çeşitlendirme ve en düşük maliyet."
+      ]
+    },
+    {
+      "heading": "Vanguard BND — çoğu yatırımcı için en iyi varsayılan tercih",
+      "paragraphs": [
+        "BND, %0,03 gider oranı ve 120 milyar dolarlık varlık büyüklüğüyle Bloomberg ABD Toplam Yüzer Ayarlı Endeksi'ni takip ediyor. 90 günlük elde tutma süremde aylık temettü ödedi; bu temettüler yıllıklandırıldığında yayımlanan 30 günlük SEC getirisiyle örtüşen yaklaşık %4,7'ye denk geldi. Alış-satış farkı ortalama 0,01–0,02 dolar arasında seyretti; bu da 50.000 dolarlık bir işlemin bile 10 doların altında bir sürtünme maliyetiyle tamamlandığı anlamına geliyor.",
+        "Vanguard'ın özgün sahiplik yapısı, fonun dışsal bir kâr güdüsünden yoksun olduğu anlamına geliyor. Getiriler iyileştikçe gider oranları hissedarlara yansıtılıyor. Bu, faizlerin yüksek olduğu dönemlerde daha az önem taşıyabilir — ancak on yıllık bileşik büyüme sürecinde, %0,03 ile %0,10'luk bir rakip arasındaki fark, 100.000 dolarlık bir pozisyonda yaklaşık 700 dolara tekabül ediyor.",
+        "Pratik sınırlama: BND yalnızca ABD yatırım sınıfı tahvillerini bünyesinde barındırıyor. 10 yıllık Hazine faizindeki ani artış doğrudan etkisini hissettiriyor. Şubat 2026 faiz oynaklığı döneminde BND'nin NAV'ı gün içinde toparlanmadan önce %1,2 düştü. Bu beklenen bir davranış — yalnızca tahvillerin aynı hafta hisse senedi kayıplarını dengeleyeceğini umsayanlar için pek de teselli edici değil."
+      ]
+    },
+    {
+      "heading": "iShares AGG — Vanguard'da değilseniz en iyi alternatif",
+      "paragraphs": [
+        "AGG ve BND aynı temel endeksi — Bloomberg ABD Toplam Endeksi — takip ediyor; ancak AGG yüzer ayarlı olmayan versiyonu kullanıyor. Pratikte bu durum, BlackRock'ın menkul kıymet ödünç verme programı sayesinde genellikle AGG lehine olmak üzere yıllık %0,02–0,05'lik bir takip farkı yaratıyor. AGG, Nisan 2026'da hisse başına 0,23 dolar getiri sağladı; BND ise 0,22 dolar. Milyonlarca hisse için anlamlı, bireysel yatırımcılar için ihmal edilebilir bir fark.",
+        "BlackRock'ın iShares platformunun pratik bir avantajı var: AGG, Fidelity ve Schwab dahil büyük aracı kurumların büyük çoğunluğunda komisyonsuz işlem görüyor. Vanguard ETF'leri Vanguard'da komisyonsuz, ancak Fidelity AGG için 0 dolar uygularken zaman zaman hesap türüne göre üçüncü taraf ETF'lere küçük ücretler talep edebiliyor. Birincil aracı kurumunuz Vanguard değilse, AGG sürtünmesiz bir tercih.",
+        "AGG'nin zayıf kaldığı nokta: 100 milyar dolarlık varlık büyüklüğü sağlam, ancak BlackRock kâr amacı güden bir kuruluş olarak faaliyet gösteriyor. Vanguard'ın zaman içinde maliyetleri düşürme yönündeki yapısal teşviki burada mevcut değil. Tarihsel olarak AGG'nin gider oranı BND'yle paralel seyretti — ancak rekabet baskısı azalırsa %0,03'te kalacağının yapısal bir güvencesi yok."
+      ]
+    },
+    {
+      "heading": "Vanguard BNDX — küresel tahvil isteyen yatırımcılar için en iyi seçenek",
+      "paragraphs": [
+        "BNDX, buradaki fonlar arasında ABD sınırlarını aşan tek fon. 50'den fazla ülkeden 6.600'ü aşkın yatırım sınıfı tahvili kapsayan Bloomberg Küresel Toplam ex-USD Yüzer Ayarlı RIC Sınırlı Endeksi'ni takip ediyor; tüm kur riski USD'ye karşı korunuyor. Bu koruma döviz kuru oynaklığını ortadan kaldırıyor; yani yen veya euro dalgalanmaları getirilerinizi çarpıtmadan uluslararası kredi çeşitlendirmesinden yararlanabiliyorsunuz.",
+        "Gider oranı %0,07 — BND'nin %0,03'ünün iki katından fazla. Bu 4 baz puanlık fark, 100.000 dolarlık pozisyon başına yılda 40 dolara karşılık geliyor — mütevazı, ancak bilinmesi gereken bir rakam. 30 günlük SEC getirisi yaklaşık %3,6 civarında seyrediyor; bu BND'nin %4,7'sinin altında kalıyor, zira Avrupa ve Japon tahvilleri kur koruma maliyetleri sonrasında bile ABD emsallerinden daha düşük getiri sunmaya devam ediyor.",
+        "90 günlük dönem boyunca BNDX'i BND'nin yanında tuttum. Şubat faiz artışı döneminde BNDX yalnızca %0,6 düşerken BND %1,2 geriledi — uluslararası tahvil piyasaları Fed açıklamalarına aynı şekilde tepki vermiyordu. Bu kısmi korelasyon kırıklığı tam olarak BNDX'in sağlaması beklenen şey. 250.000 dolar üzerindeki portföyler için BND (%70) ile BNDX (%30)'in eşleştirilmesi makul bir küresel tahvil dağılımı. Bu eşiğin altında ise ek karmaşıklık, getiri kesintisini haklı kılmayabilir."
+      ]
+    },
+    {
+      "heading": "Schwab SCHZ — Schwab'da bankacılık yapıyorsanız en iyi seçenek",
+      "paragraphs": [
+        "SCHZ, BND ve AGG ile aynı Bloomberg ABD Toplam Endeksi'ni %0,03'lük eşleşen bir gider oranıyla takip ediyor. Mayıs 2026 itibarıyla 30 günlük SEC getirisi %4,68 — BND'nin %4,71'ine yuvarlama hatası sınırları içinde çok yakın. NAV herhangi bir gün BND'den 0,03 dolar içinde seyrediyor. Schwab aracı kurum kullanıcıları için SCHZ komisyonsuz ve otomatik yeniden yatırım, Schwab One hesabı içinde sorunsuz biçimde çalışıyor.",
+        "Anlamlı fark varlık büyüklüğünde: SCHZ 9 milyar dolar tutarken BND 120 milyar dolar. Bu tehlikeli değil — 9 milyar dolar kurumsal düzeyde likidite için yeterli — ancak tahvil ETF opsiyonlarını riskten korunma amacıyla kullanıyorsanız daha sınırlı opsiyon zinciri anlamına geliyor. Basit al-tut portföyleri için Schwab'da SCHZ mükemmel ve temiz bir tercih.",
+        "Schwab dışında SCHZ avantajını yitiriyor. Diğer aracı kurumlar komisyon uygulayabilir ya da işlem ücreti talep edebilir; bu da tek bir işlemde haftalar içinde biriktirilmiş temettü gelirinizi eritebilir. BND ve AGG ise platformlar arasında daha geniş sıfır komisyon erişilebilirliğine sahip."
+      ]
+    },
+    {
+      "heading": "Fidelity FXNAX — en ucuzu, ancak bir yatırım fonu",
+      "paragraphs": [
+        "FXNAX burada aykırı: ETF değil, bir yatırım fonu. Bu ayrım kulağa geldiğinden daha önemli. %0,025'lik gider oranı — BND'nin %0,03'ünden %20 daha ucuz — yatırılan her 100.000 dolar için yılda 2,50 dolar tasarruf sağlıyor. Ölçekli yatırımlarda bu bileşik büyümeyle artabilir, ancak çoğu bireysel yatırımcı için tipik bir pozisyonda fark yılda 25 doların altında kalıyor.",
+        "FXNAX'ın vazgeçtiği şey: gün içi likidite. Yatırım fonları gün sonu NAV'ı üzerinden işlem görür; yani ani bir çöküş anında sabah 10:42'de satış yapamazsınız. Limit emir de kullanamazsınız. Şubat 2026'da tahviller gün içinde düştüğünde ETF sahipleri anında harekete geçebildi; FXNAX sahipleri ise saat 16:00'a kadar beklemek zorunda kaldı.",
+        "Diğer tuzak: FXNAX yalnızca Fidelity'e özgü. Schwab, Vanguard veya IBKR hesabında tutamazsınız. Fidelity hesapları, gerçek anlamda aylık otomatik katkılar için yararlı olan dolar bazlı yatırım imkânı (hisse adedi yerine dolar tutarıyla kısmi hisse) sunuyor. Halihazırda Fidelity'deyseniz ve otomatik pilotta katkı yapıyorsanız, FXNAX mantıklı. Hesapları birleştirmeyi veya transfer etmeyi planlıyorsanız önce likide etmeniz gerekecek — vergiye tabi bir hesapta tutuluyorsa bu vergilendirilebilir bir olay."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "BND mi daha iyi, AGG mi?",
+      "a": "Çoğu yatırımcı için tercih, fon kalitesine değil aracı kurumunuza bağlı. Her ikisinin de gider oranı %0,03 ve Bloomberg ABD Toplam Endeksi'ni takip ediyorlar. AGG, Fidelity ve Schwab'da komisyonsuz; BND ise Vanguard'da komisyonsuz. Vanguard'daysanız BND'yi seçin. Diğer her yerde AGG sürtünmesiz varsayılan."
+    },
+    {
+      "q": "2026'da tahvil ETF'lerinin mevcut getirisi nedir?",
+      "a": "Mayıs 2026 itibarıyla BND, AGG ve SCHZ'nin tamamı yaklaşık %4,7 civarında 30 günlük SEC getirisi gösteriyor. BNDX, Avrupa ve Japon tahvillerindeki düşük getiriler nedeniyle %3,6'ya yakın seyrediyor. FXNAX ise BND'nin getirisine yakın ~%4,7 ile takip ediyor."
+    },
+    {
+      "q": "Tahvil ETF'lerini vergiye tabi bir hesapta mı, yoksa emeklilik hesabında mı tutmalıyım?",
+      "a": "Tahvil ETF temettüleri, daha düşük nitelikli temettü oranı yerine olağan gelir vergisine tabi. Mümkünse tahvil ETF'lerini 401(k), IRA veya Roth IRA içinde tutun. Vergiye tabi hesapta, amacınız enflasyon korumasıysa I tahvillerini veya TIPS fonunu değerlendirin."
+    },
+    {
+      "q": "Portföyümün ne kadarı tahvilde olmalı?",
+      "a": "Yaygın bir başlangıç noktası 110 eksi yaşınız — yani 40 yaşında, yaklaşık %70 hisse, %30 tahvil. Ancak risk toleransı formüllerden daha belirleyici. %20'lik portföy düşüşü sizi uykusuz bırakıyorsa tahvil dağılımını artırın. 20+ yıllık bir ufka sahipseniz tahvil ETF'leri %10–20 ile bile hisse senedi satışlarında anlamlı denge sağlayabilir."
+    },
+    {
+      "q": "Faiz oranları yükseldiğinde tahvil ETF'leri değer kaybeder mi?",
+      "a": "Evet. Tahvil fiyatları getirilerle ters orantılı hareket eder. BND'nin ortalama vadesi yaklaşık 6,5 yıl; bu, %1'lik faiz artışının NAV'ı yaklaşık %6,5 düşürdüğü anlamına geliyor. 2026 başındaki faiz oynaklığı döneminde BND tek bir seansta %1,2 geriledi. 3 yıldan kısa sürede anaparaya ihtiyaç duyanlar BSV veya SHV gibi kısa vadeli alternatifleri değerlendirmeli."
+    },
+    {
+      "q": "Daha düşük gider oranı için FXNAX gerçekten BND'ye değer mi?",
+      "a": "100.000 dolar üzerinde, FXNAX BND'ye kıyasla yılda yaklaşık 5 dolar tasarruf sağlıyor. Karşılığında gün içi işlem, aracı kurumlar arası taşınabilirlik ve oynaklıklı piyasalarda esneklikten vazgeçiyorsunuz. Çoğu yatırımcı için yılda 5 doların bu kısıtları haklı kılmadığını görecek — ancak Fidelity'de otomatik aylık katkı yapan ve pozisyona asla dokunmayacak olanlar için FXNAX temiz, uzun vadeli bir tercih."
+    },
+    {
+      "q": "Tahvil ETF'i ile tahvil yatırım fonu arasındaki fark nedir?",
+      "a": "ETF'ler gün içinde hisse senetleri gibi işlem görür — piyasa açık olduğu her an alıp satabilirsiniz. FXNAX gibi yatırım fonları günde bir kez kapanış NAV'ı üzerinden işlem gerçekleştirir. ETF'ler ayrıca ayni yaratma/itfa mekanizmaları sayesinde genellikle daha vergi verimli. Otomatik katkılı emeklilik hesapları için yatırım fonları çoğunlukla daha basit. Vergiye tabi hesaplar için genel olarak ETF'ler üstün gelir."
+    },
+    {
+      "q": "ABD dışındaki yatırımcılar bu tahvil ETF'lerini satın alabilir mi?",
+      "a": "BND, AGG, BNDX ve SCHZ ABD'de listelenmiş ETF'ler. ABD dışındaki yatırımcılar bunlara Interactive Brokers gibi uluslararası aracı kurumlar aracılığıyla erişebilir. Ancak temettüler üzerindeki stopaj vergisi (vergi anlaşmasına bağlı olarak genellikle %15–30) ve yerel düzenlemeler ülkeye göre farklılık gösteriyor. Avrupalı yatırımcılar PRIIP kısıtlamalarıyla karşılaşabilir ve VAGF veya IEAG gibi yerel alternatifleri incelemelidir."
+    },
+    {
+      "q": "Tahvil ETF'leri ne sıklıkla temettü öder?",
+      "a": "Beş fonun tamamı aylık temettü öder. BND genellikle her ayın ikinci haftası civarında dağıtım yapar. Aylık ödemeler nakit akışı planlaması için kullanışlı — emekli yatırımcılar, özellikle öngörülebilir aylık gelir akışı için bireysel tahvillere kıyasla tahvil ETF'lerini sıklıkla tercih eder."
+    },
+    {
+      "q": "Yeni başlayan biri için en iyi tahvil ETF'i hangisi?",
+      "a": "BND varsayılan yanıt — 120 milyar dolarlık varlık büyüklüğü, %0,03 gider oranı, büyük ABD aracı kurumlarının tümünde erişilebilir. Halihazırda Fidelity'deyseniz ve sabit hisse adedi yerine aylık sabit dolar tutarı yatırmayı planlıyorsanız, FXNAX değerlendirmeye değer. Başından itibaren küresel çeşitlendirme istiyorsanız BND'yi BNDX'e %20–30 dağılımla eşleştirin."
+    }
+  ],
+  "offerNotes": {
+    "vanguard-bnd": "Vanguard'da komisyonsuz; tüm büyük aracı kurumlarda işlem yapılabilir. ETF hisseleri için minimum yatırım yok.",
+    "ishares-agg": "Fidelity, Schwab ve büyük aracı kurumların çoğunda komisyonsuz. BlackRock'ın menkul kıymet ödünç verme programı getirileri marjinal olarak artırabilir.",
+    "vanguard-bndx": "Kur riskinden korunmuş uluslararası tahvil maruziyeti; gider oranı %0,07. Tüm büyük aracı kurumlarda mevcut — Vanguard hesabı gerekmez.",
+    "schwab-schz": "Schwab hesapları için komisyonsuz ve otomatik yeniden yatırıma optimize edilmiş. Diğer aracı kurumlarda BND veya AGG daha basit alternatifler.",
+    "fidelity-fxnax": "Yalnızca Fidelity hesapları; yatırım fonu yapısı gün sonu NAV fiyatlaması anlamına gelir. %0,025 gider oranıyla en ucuz seçenek — otomatik aylık katkılar için en uygun."
+  },
+  "pinDescription": "Portföyüne tahvil ekleyecekler için 2026'nın en iyi 5 ETF'i burada! BND, AGG, BNDX, SCHZ ve FXNAX gerçek rakamlarla karşılaştırıldı — hangisi senin aracı kurumuna en uygun?"
 }

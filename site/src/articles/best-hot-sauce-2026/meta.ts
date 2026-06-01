@@ -1,3 +1,4 @@
+import { ALL_LOCALES } from "@/lib/i18n/locales";
 import type { ArticleMeta } from "@/lib/articles/types";
 export const meta: ArticleMeta = {
   slug: "best-hot-sauce-2026",
@@ -6,6 +7,6 @@ export const meta: ArticleMeta = {
   offerIds: ["tabasco-original-red", "cholula-original", "valentina-extra-hot", "crystal-hot-sauce", "franks-redhot-original"],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
+  locales: ALL_LOCALES,
   ogImage: "auto",
 };

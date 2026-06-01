@@ -6,6 +6,6 @@ export const meta: ArticleMeta = {
   offerIds: ["rogue-rm-3-power-rack", "rep-fitness-pr-4000-power-rack", "titan-fitness-t-3-short-rack", "cap-barbell-power-rack-fm-cs8000f", "fitness-reality-810xlt-power-cage"],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
+  locales: ["en", "ja", "zh-CN", "zh-TW", "ko", "es", "pt-BR", "fr", "de", "it", "ru"],
   ogImage: "auto",
 };

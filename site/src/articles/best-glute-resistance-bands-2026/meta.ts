@@ -1,3 +1,4 @@
+import { ALL_LOCALES } from "@/lib/i18n/locales";
 import type { ArticleMeta } from "@/lib/articles/types";
 
 export const meta: ArticleMeta = {
@@ -7,7 +8,7 @@ export const meta: ArticleMeta = {
   publishedAt: "2026-05-11",
   updatedAt: "2026-05-11",
   ogImage: "/og/best-glute-resistance-bands-2026",
-  locales: ["en","ja","zh-CN","ko","es","pt-BR","fr","de","it"],
+  locales: [...ALL_LOCALES],
   offerIds: [
     "victorem-hip-resistance-bands",
     "fit-simplify-resistance-loop-bands",

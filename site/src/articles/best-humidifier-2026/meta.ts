@@ -13,6 +13,6 @@ export const meta: ArticleMeta = {
   ],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en","ja","zh-CN","ko","es","pt-BR","fr","de","it"],
+  locales: ["en", "ja", "zh-CN", "ko", "es", "pt-BR", "fr", "de", "it", "ru", "ar", "hi", "id", "th", "vi", "tr"],
   ogImage: "auto",
 };

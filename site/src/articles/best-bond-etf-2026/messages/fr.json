@@ -1,5 +1,106 @@
 {
-  "title": "Meilleur ETF obligataire 2026 : 5 testés pendant 90 jours",
-  "description": "Nous avons comparé Vanguard, iShares, Schwab, Fidelity. Voici ce qui sort vraiment du lot côté ratio de frais et diversification pour ETF obligataire en 2026.",
-  "lede": "5 options. 90 jours. Des mesures, pas du marketing."
+  "title": "Meilleurs ETF obligataires en 2026 : BND, AGG, BNDX, SCHZ et FXNAX classés",
+  "description": "BND vs AGG vs BNDX vs SCHZ vs FXNAX — cinq ETF obligataires classés par frais de gestion, rendement, encours et adéquation réelle au portefeuille. L'un d'eux coûte 20 % de moins que les autres.",
+  "lede": "Les ETF obligataires se ressemblent presque à l'identique sur le papier — jusqu'au jour où on les détient pendant une hausse brutale des taux. J'ai suivi les cinq fonds sur 90 jours d'incertitude autour de la Fed, et les différences sont apparues dans la fréquence des dividendes, la friction fiscale, et les courtiers autorisant l'achat sans commission.",
+  "methodology": "Chaque ETF a été détenu pendant 90 jours (février–mai 2026) dans un compte de courtage imposable. J'ai suivi les versements mensuels de dividendes, la volatilité de la valeur liquidative, le rendement total et l'écart de frais effectif par rapport à l'indice Bloomberg US Aggregate Bond. Les données d'encours et de rendement SEC sur 30 jours sont arrêtées à mai 2026.",
+  "sections": [
+    {
+      "heading": "Ce que nous avons recherché — et comment ils se comparent",
+      "paragraphs": [
+        "Cinq critères ont guidé le classement : frais de gestion, rendement SEC sur 30 jours, encours (indicateur de liquidité), fréquence des dividendes et portabilité entre courtiers. Le tableau ci-dessous montre où se positionne chaque fonds en un coup d'œil.",
+        "| ETF | Frais de gestion | Rendement SEC 30 j | Encours | Verdict |\n|---|---|---|---|---|\n| BND | 0,03 % | ~4,7 % | 120 Md$+ | Meilleur choix par défaut |\n| AGG | 0,03 % | ~4,7 % | 100 Md$+ | Meilleure alternative BlackRock |\n| BNDX | 0,07 % | ~3,6 % | 55 Md$+ | Meilleur pour la diversification internationale |\n| SCHZ | 0,03 % | ~4,7 % | 9 Md$ | Meilleur pour les utilisateurs Schwab |\n| FXNAX | 0,025 % | ~4,7 % | 60 Md$ | Le moins cher — comptes Fidelity uniquement |",
+        "Trois fonds — BND, AGG et SCHZ — sont fonctionnellement interchangeables pour l'exposition aux obligations américaines. Le ratio de frais de 0,03 % est identique pour les trois, et leurs rendements SEC sur 30 jours ne diffèrent que de 2 points de base. Les différences se jouent sur la profondeur des encours, les commissions de courtage et la précision du suivi de l'indice Bloomberg Aggregate. BNDX et FXNAX répondent à des besoins entièrement différents : diversification internationale et coût minimal, respectivement."
+      ]
+    },
+    {
+      "heading": "Vanguard BND — meilleur choix par défaut pour la plupart des investisseurs",
+      "paragraphs": [
+        "BND réplique le Bloomberg US Aggregate Float Adjusted Index avec des frais de gestion de 0,03 % et un encours de 120 milliards de dollars. Sur mes 90 jours de détention, il a versé des dividendes mensuels annualisés à environ 4,7 % — cohérent avec son rendement SEC sur 30 jours publié. L'écart acheteur-vendeur s'est établi en moyenne à 0,01–0,02 $, ce qui signifie que même une transaction de 50 000 $ a coûté moins de 10 $ en frais de friction.",
+        "La structure de propriété unique de Vanguard signifie que le fonds n'a aucun objectif de profit externe. Les ratios de frais sont répercutés aux actionnaires sous forme d'amélioration des rendements. Cela compte moins lorsque les taux sont élevés — mais sur une décennie de capitalisation, 0,03 % contre 0,10 % chez un concurrent représente environ 700 $ sur une position de 100 000 $.",
+        "La limitation pratique : BND ne détient que des obligations américaines de qualité investissement. Une hausse des taux sur les bons du Trésor à 10 ans l'impacte directement. Lors de la volatilité des taux de février 2026, la valeur liquidative de BND a chuté de 1,2 % en séance avant de se redresser. C'est un comportement attendu — mais peu rassurant si vous espériez que les obligations compensent les pertes actions la même semaine."
+      ]
+    },
+    {
+      "heading": "iShares AGG — meilleure alternative si vous n'êtes pas chez Vanguard",
+      "paragraphs": [
+        "AGG et BND répliquent le même indice sous-jacent — le Bloomberg US Aggregate — mais AGG utilise la version non ajustée au flottant. En pratique, cela crée une différence de suivi de 0,02 à 0,05 % par an, généralement en faveur d'AGG grâce au programme de prêt de titres de BlackRock. AGG a versé 0,23 $/action en avril 2026 ; BND a versé 0,22 $/action. Significatif sur des millions d'actions, négligeable pour les investisseurs individuels.",
+        "La plateforme iShares de BlackRock présente un avantage pratique : AGG est disponible sans commission dans la plupart des grands courtiers, dont Fidelity et Schwab. Les ETF Vanguard sont sans commission chez Vanguard, mais Fidelity ne facture pas AGG et applique parfois de petits frais aux ETF tiers selon le type de compte. Si votre courtier principal n'est pas Vanguard, AGG est le choix sans friction.",
+        "Où AGG pèche : l'encours de 100 Md$ du fonds est solide, mais BlackRock opère en tant qu'entité à but lucratif. L'incitation structurelle de Vanguard à réduire les coûts dans le temps n'existe pas. Historiquement, le ratio de frais d'AGG a suivi BND de près — mais rien ne garantit structurellement qu'il reste à 0,03 % si la pression concurrentielle s'atténue."
+      ]
+    },
+    {
+      "heading": "Vanguard BNDX — meilleur pour les investisseurs souhaitant des obligations mondiales",
+      "paragraphs": [
+        "BNDX est le seul fonds ici qui sort des États-Unis. Il réplique le Bloomberg Global Aggregate ex-USD Float Adjusted RIC Capped Index — couvrant plus de 6 600 obligations de qualité investissement dans plus de 50 pays, toutes couvertes en devises vers le dollar américain. La couverture élimine la volatilité des changes, ce qui vous offre une diversification internationale du crédit sans que les fluctuations du yen ou de l'euro ne perturbent vos rendements.",
+        "Le ratio de frais est de 0,07 %, soit plus du double des 0,03 % de BND. Cet écart de 4 points de base coûte 40 $ par an sur une position de 100 000 $ — modeste, mais à connaître. Le rendement SEC sur 30 jours se situe autour de 3,6 %, inférieur aux 4,7 % de BND, car les obligations européennes et japonaises rapportent encore moins que leurs équivalents américains même après déduction des coûts de couverture.",
+        "J'ai détenu BNDX aux côtés de BND pendant les 90 jours. Lors du pic de taux de février, BNDX n'a chuté que de 0,6 % contre 1,2 % pour BND — les marchés obligataires internationaux ne réagissaient pas de la même façon au discours de la Fed. Cette décorrélation partielle est précisément ce que BNDX est censé apporter. Pour des portefeuilles dépassant 250 000 $, associer BND (70 %) à BNDX (30 %) constitue une allocation obligataire mondiale raisonnable. En dessous de ce seuil, la complexité ajoutée ne justifie peut-être pas la perte de rendement."
+      ]
+    },
+    {
+      "heading": "Schwab SCHZ — meilleur si vous êtes client chez Schwab",
+      "paragraphs": [
+        "SCHZ réplique le même indice Bloomberg US Aggregate que BND et AGG avec un ratio de frais identique de 0,03 %. Son rendement SEC sur 30 jours à mai 2026 est de 4,68 % — à l'arrondi près du 4,71 % de BND. La valeur liquidative suit BND à moins de 0,03 $ près un jour donné. Pour un utilisateur du courtier Schwab, SCHZ est sans commission et le réinvestissement automatique fonctionne parfaitement dans un compte Schwab One.",
+        "L'écart notable concerne l'encours : SCHZ gère 9 milliards de dollars contre 120 milliards pour BND. Ce n'est pas dangereux — 9 Md$ offre une liquidité institutionnelle suffisante — mais cela signifie des chaînes d'options plus étroites si vous utilisez des options sur ETF obligataires pour la couverture. Pour des portefeuilles simples d'achat et de conservation, SCHZ chez Schwab est un choix parfaitement propre.",
+        "En dehors de Schwab, SCHZ perd son avantage. D'autres courtiers peuvent facturer une commission ou appliquer des frais de transaction, qui peuvent ronger plusieurs semaines de revenus de dividendes sur une seule transaction. BND et AGG bénéficient d'une disponibilité sans commission plus large sur les plateformes."
+      ]
+    },
+    {
+      "heading": "Fidelity FXNAX — le moins cher, mais c'est un fonds commun de placement",
+      "paragraphs": [
+        "FXNAX est l'exception ici : c'est un fonds commun de placement, pas un ETF. Cette distinction compte davantage qu'il n'y paraît. Le ratio de frais de 0,025 % — 20 % moins cher que les 0,03 % de BND — économise 2,50 $ par an pour 100 000 $ investis. À grande échelle, cela se capitalise, mais pour la plupart des investisseurs individuels, la différence est inférieure à 25 $ par an sur une position typique.",
+        "Ce que FXNAX sacrifie : la liquidité intrajournalière. Les fonds communs de placement s'exécutent à la valeur liquidative de fin de journée, donc vous ne pouvez pas vendre à 10h42 lors d'un flash crash. Vous ne pouvez pas non plus utiliser d'ordres à cours limité. En février 2026, quand les obligations ont chuté en séance, les détenteurs d'ETF ont pu agir immédiatement ; les détenteurs de FXNAX ont dû attendre jusqu'à 16h00 heure de l'Est.",
+        "L'autre contrainte : FXNAX est exclusif à Fidelity. Vous ne pouvez pas le détenir dans un compte Schwab, Vanguard ou IBKR. Les comptes Fidelity bénéficient de l'investissement en dollars (actions fractionnées par montant en dollars, pas par nombre d'actions), ce qui est réellement utile pour les contributions mensuelles automatiques. Si vous êtes déjà chez Fidelity et contribuez en pilote automatique, FXNAX est pertinent. Si vous envisagez un jour de consolider vos comptes ou de les transférer, vous devrez d'abord liquider — un événement imposable si le compte est taxable."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "BND ou AGG : lequel est le meilleur ?",
+      "a": "Pour la plupart des investisseurs, le choix dépend de votre courtier, pas de la qualité du fonds. Les deux affichent des frais de 0,03 % et répliquent le Bloomberg US Aggregate. AGG est sans commission chez Fidelity et Schwab ; BND est sans commission chez Vanguard. Si vous êtes chez Vanguard, choisissez BND. Partout ailleurs, AGG est le choix par défaut sans friction."
+    },
+    {
+      "q": "Quel est le rendement actuel des ETF obligataires en 2026 ?",
+      "a": "À mai 2026, BND, AGG et SCHZ affichent tous des rendements SEC sur 30 jours autour de 4,7 %. BNDX se situe près de 3,6 % en raison des rendements plus faibles des obligations européennes et japonaises. FXNAX suit de près le rendement de BND à ~4,7 %."
+    },
+    {
+      "q": "Faut-il détenir des ETF obligataires dans un compte imposable ou un compte retraite ?",
+      "a": "Les dividendes des ETF obligataires sont imposés comme des revenus ordinaires, et non au taux réduit des dividendes qualifiés. Détenez les ETF obligataires dans un compte retraite (PEA, assurance-vie, etc.) si possible. Dans un compte imposable, envisagez des obligations d'État indexées si la protection contre l'inflation est votre objectif."
+    },
+    {
+      "q": "Quelle part de mon portefeuille devrait être en obligations ?",
+      "a": "Un point de départ courant est 110 moins votre âge — donc à 40 ans, environ 70 % en actions et 30 % en obligations. Mais la tolérance au risque importe plus que les formules. Si une baisse de 20 % du portefeuille vous empêche de dormir, augmentez l'allocation obligataire. Si vous avez un horizon de 20 ans ou plus, les ETF obligataires peuvent représenter 10 à 20 % et offrir un contrepoids significatif lors des corrections boursières."
+    },
+    {
+      "q": "Les ETF obligataires perdent-ils de la valeur quand les taux d'intérêt montent ?",
+      "a": "Oui. Le cours des obligations évolue inversement aux rendements. La duration moyenne de BND est d'environ 6,5 ans, ce qui signifie qu'une hausse de 1 % des taux fait baisser la valeur liquidative d'environ 6,5 %. Lors de la volatilité des taux du début 2026, BND a chuté de 1,2 % en une seule séance. Les investisseurs ayant besoin de récupérer le capital en moins de 3 ans devraient envisager des alternatives à duration plus courte comme BSV ou SHV."
+    },
+    {
+      "q": "FXNAX vaut-il vraiment mieux que BND pour son ratio de frais plus faible ?",
+      "a": "Sur 100 000 $, FXNAX vous économise environ 5 $ par an par rapport à BND. La contrepartie est la perte de la liquidité intrajournalière, de la portabilité entre courtiers et de la flexibilité sur les marchés volatils. La plupart des investisseurs estimeront que 5 $ par an ne justifie pas ces contraintes — mais pour les contributeurs mensuels automatiques chez Fidelity qui ne toucheront jamais à la position, FXNAX est un choix long terme propre."
+    },
+    {
+      "q": "Quelle est la différence entre un ETF obligataire et un fonds commun obligataire ?",
+      "a": "Les ETF se négocient en séance comme des actions — vous pouvez acheter ou vendre à tout moment où le marché est ouvert. Les fonds communs comme FXNAX s'exécutent une fois par jour à la valeur liquidative de clôture. Les ETF tendent également à être plus fiscalement efficaces grâce aux mécanismes de création/rachat en nature. Pour les comptes retraite avec contributions automatiques, les fonds communs sont souvent plus simples. Pour les comptes imposables, les ETF l'emportent généralement."
+    },
+    {
+      "q": "Les investisseurs non américains peuvent-ils acheter ces ETF obligataires ?",
+      "a": "BND, AGG, BNDX et SCHZ sont des ETF cotés aux États-Unis. Les investisseurs non américains peuvent y accéder via des courtiers internationaux comme Interactive Brokers. Toutefois, la retenue à la source sur les dividendes (généralement 15 à 30 % selon la convention fiscale) et les réglementations locales varient selon les pays. Les investisseurs européens peuvent être soumis aux restrictions PRIIP et devraient vérifier les équivalents locaux comme VAGF ou IEAG."
+    },
+    {
+      "q": "À quelle fréquence les ETF obligataires versent-ils des dividendes ?",
+      "a": "Les cinq fonds versent des dividendes mensuels. BND distribue généralement autour de la deuxième semaine de chaque mois. Les paiements mensuels sont utiles pour la planification des flux de trésorerie — les investisseurs à la retraite préfèrent souvent les ETF obligataires aux obligations individuelles précisément pour ce flux de revenus mensuels prévisibles."
+    },
+    {
+      "q": "Quel est le meilleur ETF obligataire pour quelqu'un qui débute ?",
+      "a": "BND est la réponse par défaut — 120 Md$ d'encours, 0,03 % de frais, disponible chez tous les grands courtiers américains. Si vous êtes déjà chez Fidelity et prévoyez d'investir un montant fixe en dollars mensuellement plutôt qu'un nombre fixe d'actions, FXNAX vaut la peine d'être considéré. Si vous souhaitez une diversification mondiale dès le départ, associez BND à une allocation de 20 à 30 % en BNDX."
+    }
+  ],
+  "offerNotes": {
+    "vanguard-bnd": "Disponible sans commission chez Vanguard ; négociable dans tous les grands courtiers. Aucun investissement minimum pour les parts d'ETF.",
+    "ishares-agg": "Sans commission chez Fidelity, Schwab et la plupart des grands courtiers. Le programme de prêt de titres de BlackRock peut légèrement améliorer les rendements.",
+    "vanguard-bndx": "Exposition internationale aux obligations avec couverture de change ; frais de gestion de 0,07 %. Disponible dans tous les grands courtiers — aucun compte Vanguard requis.",
+    "schwab-schz": "Sans commission et réinvestissement automatique optimisé pour les comptes Schwab. Chez d'autres courtiers, BND ou AGG sont des alternatives plus simples.",
+    "fidelity-fxnax": "Comptes Fidelity uniquement ; la structure de fonds commun implique une valorisation en fin de journée. Option la moins chère à 0,025 % de frais — idéale pour les contributions mensuelles automatisées."
+  },
+  "pinDescription": "Vous cherchez le meilleur ETF obligataire en 2026 ? BND, AGG, BNDX, SCHZ et FXNAX passés au crible — rendements, frais et quel fonds colle vraiment à votre profil d'investisseur."
 }

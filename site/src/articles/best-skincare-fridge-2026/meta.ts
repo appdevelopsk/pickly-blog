@@ -1,3 +1,4 @@
+import { ALL_LOCALES } from "@/lib/i18n/locales";
 import type { ArticleMeta } from "@/lib/articles/types";
 
 export const meta: ArticleMeta = {
@@ -14,6 +15,6 @@ export const meta: ArticleMeta = {
   publishedAt: "2026-05-09",
   updatedAt: "2026-05-09",
   // 初回公開は en + ja のみ。他言語は後日展開
-  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
+  locales: [...ALL_LOCALES],
   ogImage: "auto",
 };
