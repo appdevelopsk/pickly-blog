@@ -12,6 +12,14 @@ import type { ArticleContent } from "@/lib/articles/types";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
+/** ブランドの組織エンティティ。author/publisher で共有。sameAs は実在・検証済みの公式アカウントのみ。 */
+const ORGANIZATION = {
+  "@type": "Organization",
+  name: "Pickly",
+  url: SITE_URL,
+  sameAs: ["https://www.pinterest.com/appdevelopsk/"],
+} as const;
+
 type RawMessages = Record<string, unknown>;
 
 function safeStr(obj: RawMessages, key: string, fallback = ""): string {
@@ -142,8 +150,8 @@ export default async function ArticlePage({ params }: Props) {
     dateModified: meta.updatedAt,
     url: canonicalUrl,
     ...(ogImageUrl ? { image: ogImageUrl } : {}),
-    author: { "@type": "Organization", name: "Pickly", url: SITE_URL },
-    publisher: { "@type": "Organization", name: "Pickly", url: SITE_URL },
+    author: ORGANIZATION,
+    publisher: ORGANIZATION,
     inLanguage: locale,
   };
 
