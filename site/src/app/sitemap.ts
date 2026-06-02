@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { LOCALES } from "@/lib/i18n/locales";
 import { listArticles } from "@/lib/articles/registry";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
+import { isArticleBodyTranslated } from "@/lib/i18n/loader";
 
 export const dynamic = "force-static";
 
@@ -30,13 +31,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // Articles × locales — only include pages that actually get built
+  // Articles × locales — only include pages that get built AND are actually
+  // translated. A built-but-untranslated locale renders an English-fallback
+  // body (a thin, mixed-language page); those are noindex'd in the page's
+  // metadata, so they must stay out of the sitemap and the hreflang cluster too.
   for (const article of listArticles()) {
-    const builtLocales = article.locales.filter(
-      (l) => LOCALES.includes(l) && hasApprovedAds(article, l),
+    const indexLocales = article.locales.filter(
+      (l) =>
+        LOCALES.includes(l) &&
+        hasApprovedAds(article, l) &&
+        isArticleBodyTranslated(article.slug, l),
     );
-    if (builtLocales.length === 0) continue;
-    for (const locale of builtLocales) {
+    if (indexLocales.length === 0) continue;
+    for (const locale of indexLocales) {
       out.push({
         url: `${SITE_URL}/${locale}/articles/${article.slug}/`,
         lastModified: article.updatedAt,
@@ -44,7 +51,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.8,
         alternates: {
           languages: Object.fromEntries(
-            builtLocales.map((l) => [
+            indexLocales.map((l) => [
               l,
               `${SITE_URL}/${l}/articles/${article.slug}/`,
             ]),

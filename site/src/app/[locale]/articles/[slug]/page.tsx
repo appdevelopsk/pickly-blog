@@ -7,7 +7,7 @@ import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { ArticleBody } from "@/components/articles/ArticleBody";
 import { RelatedArticles } from "@/components/articles/RelatedArticles";
 import { AffiliateClickTracker } from "@/components/AffiliateClickTracker";
-import { loadArticleContent } from "@/lib/i18n/loader";
+import { loadArticleContent, isArticleBodyTranslated } from "@/lib/i18n/loader";
 import type { ArticleContent } from "@/lib/articles/types";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
@@ -200,14 +200,31 @@ export async function generateMetadata({ params }: Props) {
       : `${SITE_URL}${meta.ogImage}-${locale}.png`
     : null;
 
+  // Only locales that are built AND actually translated belong in the index and
+  // the hreflang cluster. A built-but-untranslated locale shows an English body
+  // under a localized title — keep it out of the index so the 17-locale catalog
+  // isn't read as scaled/auto-generated content. Must match sitemap.ts.
+  const indexLocales = meta.locales.filter(
+    (l) =>
+      LOCALES.includes(l) &&
+      hasApprovedAds(meta, l) &&
+      isArticleBodyTranslated(slug, l),
+  );
+  const translated = isArticleBodyTranslated(slug, locale);
+  const languages: Record<string, string> = Object.fromEntries(
+    indexLocales.map((l) => [l, `${SITE_URL}/${l}/articles/${slug}/`]),
+  );
+  if (indexLocales.includes("en")) {
+    languages["x-default"] = `${SITE_URL}/en/articles/${slug}/`;
+  }
+
   return {
     title,
     description,
+    ...(translated ? {} : { robots: { index: false, follow: true } }),
     alternates: {
       canonical: canonicalUrl,
-      languages: Object.fromEntries(
-        meta.locales.map((l) => [l, `${SITE_URL}/${l}/articles/${slug}/`]),
-      ),
+      languages,
     },
     openGraph: {
       type: "article",

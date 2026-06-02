@@ -110,3 +110,32 @@ export function loadArticleCardMeta(slug: string, locale: string): { title: stri
     description: loc.description ?? en.description ?? "",
   };
 }
+
+function hasNonEmptySections(value: unknown): boolean {
+  if (Array.isArray(value)) return value.length > 0;
+  if (value && typeof value === "object") return Object.keys(value).length > 0;
+  return false;
+}
+
+/**
+ * Build-time check: is this article's BODY actually translated for `locale`?
+ *
+ * English is the source, so always true. For other locales the article body
+ * (`sections`) must be present and non-empty; otherwise the page renders a
+ * localized title over an English-fallback body (a thin, mixed-language page).
+ *
+ * Used to keep partially-translated pages out of the index / sitemap / hreflang
+ * cluster (Google's recommended handling for incomplete translations), so the
+ * 17-locale catalog isn't read as scaled/auto-generated content.
+ */
+export function isArticleBodyTranslated(slug: string, locale: string): boolean {
+  if (locale === DEFAULT_LOCALE) return true;
+  const file = path.join(ARTICLES_ROOT, slug, "messages", `${locale}.json`);
+  if (!fs.existsSync(file)) return false;
+  try {
+    const norm = normalizeArticleMessages(JSON.parse(fs.readFileSync(file, "utf8")) as Messages, slug);
+    return hasNonEmptySections(norm.sections);
+  } catch {
+    return false;
+  }
+}
