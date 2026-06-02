@@ -1,3 +1,5 @@
+import fs from "node:fs";
+import path from "node:path";
 import type { Locale } from "./locales";
 import { DEFAULT_LOCALE } from "./locales";
 
@@ -69,4 +71,42 @@ export async function loadArticleContent(slug: string, locale: string): Promise<
  */
 export async function loadMessages(locale: Locale | string): Promise<Messages> {
   return loadCommon(locale);
+}
+
+const ARTICLES_ROOT = path.join(process.cwd(), "src/articles");
+
+function readCardFields(slug: string, locale: string): { title?: string; description?: string } {
+  const file = path.join(ARTICLES_ROOT, slug, "messages", `${locale}.json`);
+  if (!fs.existsSync(file)) return {};
+  try {
+    const norm = normalizeArticleMessages(JSON.parse(fs.readFileSync(file, "utf8")) as Messages, slug);
+    return {
+      title: typeof norm.title === "string" ? norm.title : undefined,
+      description: typeof norm.description === "string" ? norm.description : undefined,
+    };
+  } catch {
+    return {};
+  }
+}
+
+/**
+ * Build-time, synchronous lookup of just an article's localized title + description
+ * for listing cards (article index, homepage grid, related articles).
+ *
+ * Reads the per-article message JSON directly with `fs` and discards everything
+ * except title/description — so it never accumulates full article bodies in the
+ * module cache (the all-articles-in-memory path is what caused the ~67GB build).
+ * Falls back: requested locale → English → de-slugified slug.
+ *
+ * Do NOT derive these from the global `t('articles.<slug>.title')`: the global
+ * catalog carries UI strings only, so that lookup misses and next-intl's
+ * getMessageFallback returns the literal last key segment ("title"/"description").
+ */
+export function loadArticleCardMeta(slug: string, locale: string): { title: string; description: string } {
+  const en = readCardFields(slug, DEFAULT_LOCALE);
+  const loc = locale === DEFAULT_LOCALE ? {} : readCardFields(slug, locale);
+  return {
+    title: loc.title ?? en.title ?? slug.replace(/-/g, " "),
+    description: loc.description ?? en.description ?? "",
+  };
 }

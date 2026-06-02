@@ -2,6 +2,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
+import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
@@ -110,10 +111,7 @@ export default async function HomePage({ params }: Props) {
   try { navArticles = t("nav.articles"); } catch { /* missing */ }
 
   function getArticleText(a: ArticleMeta) {
-    let title = a.slug.replace(/-/g, " ");
-    let description = "";
-    try { title = t(`articles.${a.slug}.title`); } catch { /* missing */ }
-    try { description = t(`articles.${a.slug}.description`); } catch { /* missing */ }
+    const { title, description } = loadArticleCardMeta(a.slug, locale);
     let catLabel: string = a.category;
     try { catLabel = t(`category.${a.category}`); } catch { /* missing */ }
     return { title, description, catLabel };

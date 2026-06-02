@@ -3,6 +3,7 @@ import path from "path";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/lib/i18n/navigation";
 import { getRelatedArticles } from "@/lib/articles/registry";
+import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
@@ -52,8 +53,7 @@ export async function RelatedArticles({ slug, category, locale }: Props) {
       <h2 className="mb-6 text-xl font-black text-slate-900">{heading}</h2>
       <ul className="grid gap-4 grid-cols-2 sm:grid-cols-4">
         {articles.map((a) => {
-          let title = a.slug;
-          try { title = t(`articles.${a.slug}.title`); } catch { /* missing */ }
+          const { title } = loadArticleCardMeta(a.slug, locale);
           const imgSrc = getThumbnail(a, locale);
           const isProductImg = imgSrc && !imgSrc.includes("/og/");
 

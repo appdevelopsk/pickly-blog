@@ -4,6 +4,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
+import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
@@ -212,10 +213,7 @@ export default async function ArticlesPage({ params }: Props) {
             </div>
             <ul className="grid gap-4 grid-cols-2 sm:grid-cols-3">
               {items.map((a) => {
-                let title = a.slug;
-                try { title = t(`articles.${a.slug}.title`); } catch { /* missing */ }
-                let description = "";
-                try { description = t(`articles.${a.slug}.description`); } catch { /* missing */ }
+                const { title, description } = loadArticleCardMeta(a.slug, locale);
                 return (
                   <li key={a.slug}>
                     <ArticleCard
