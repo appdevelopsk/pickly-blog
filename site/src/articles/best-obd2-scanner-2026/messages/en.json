@@ -1,6 +1,6 @@
 {
   "title": "Best OBD2 Scanner 2026: 5 scanners tested across 12 vehicles",
-  "description": "BlueDriver Pro, Autel MaxiCOM MK808, Innova 5610, FOXWELL NT301, and BAFX Products — tested on 12 vehicles spanning 2008-2024. Code-clearing reliability, manufacturer-specific data, and which tool is worth the price.",
+  "description": "BlueDriver Pro, Autel MaxiCOM MK808, Innova 5610, FOXWELL NT301, and BAFX Products — tested on 12 vehicles spanning 2008-2024.",
   "lede": "Five OBD2 scanners. 12 vehicles ranging from a 2008 Civic to a 2024 F-150. We measured generic code accuracy, manufacturer-specific data access (ABS, SRS, transmission), live data graphing, and code-clearing reliability across 90+ stored DTCs.",
   "methodology": "Each scanner tested on the same 12 vehicles. Read pre-cleared codes (we set 90 known DTCs via a J2534 tool), read manufacturer-specific systems beyond engine (ABS, SRS, transmission), tested live data sampling rates, and tracked false 'cleared' codes (codes that returned within 100 miles).",
   "sections": [

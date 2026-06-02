@@ -1,14 +1,34 @@
 {
   "title": "Best Probiotic Supplement 2026: 5 Picks Ranked by CFU Count, Strains, and Evidence",
-  "description": "Not all probiotics survive stomach acid or deliver the strains research supports. We compare 5 top picks by CFU viability, strain diversity, third-party testing, and the actual science behind gut health claims.",
+  "description": "Not all probiotics survive stomach acid or deliver the strains research supports.",
   "lede": "Most probiotic marketing leads with CFU counts — '50 billion!' — as if quantity alone determines quality. The strain matters more than the number. Lactobacillus acidophilus NCFM and Lactobacillus rhamnosus GG have clinical trial records spanning decades; many proprietary blends do not. Survivability through stomach acid and shelf stability also separate functional products from expensive placebos. These five represent the realistic spectrum from clinical precision to accessible everyday use.",
   "methodology": "Each supplement was evaluated on documented strain identities with clinical evidence, CFU viability at time of consumption (not just at manufacture), shelf stability without refrigeration, third-party testing credentials, and cost per effective daily dose.",
   "recommendedFor": [
-    {"label": "For those dealing with antibiotic-related digestive disruption", "offerId": "probiotics-culturelle-digestive-daily", "reason": "LGG (Lactobacillus rhamnosus GG) is the most studied probiotic strain for antibiotic-associated diarrhea, with a two-decade clinical record."},
-    {"label": "For people who want a science-led broad-spectrum approach", "offerId": "probiotics-seed-ds-01", "reason": "Seed's 24-strain DS-01 is designed around published research on specific strains, with viability testing via 2-in-1 capsule-in-capsule delivery."},
-    {"label": "For high CFU count with physician-formulated strain selection", "offerId": "probiotics-garden-of-life-dr-formulated", "reason": "50 billion CFU across 16 Lactobacillus and Bifidobacterium strains, with NSF Certified for Sport verification."},
-    {"label": "For accessible Japan-market daily gut support", "offerId": "probiotics-fancl-jp", "reason": "FANCL's Japan-specific formulation includes bifidobacteria strains clinically studied in Japanese populations, available across Japan's major retail channels."},
-    {"label": "For reliable B. infantis 35624 targeting IBS-specific symptoms", "offerId": "probiotics-align-bifantis", "reason": "Align's single-strain B. infantis 35624 has specific RCT evidence for reducing IBS bloating and pain — a targeted intervention, not a general-purpose blend."}
+    {
+      "label": "For those dealing with antibiotic-related digestive disruption",
+      "offerId": "probiotics-culturelle-digestive-daily",
+      "reason": "LGG (Lactobacillus rhamnosus GG) is the most studied probiotic strain for antibiotic-associated diarrhea, with a two-decade clinical record."
+    },
+    {
+      "label": "For people who want a science-led broad-spectrum approach",
+      "offerId": "probiotics-seed-ds-01",
+      "reason": "Seed's 24-strain DS-01 is designed around published research on specific strains, with viability testing via 2-in-1 capsule-in-capsule delivery."
+    },
+    {
+      "label": "For high CFU count with physician-formulated strain selection",
+      "offerId": "probiotics-garden-of-life-dr-formulated",
+      "reason": "50 billion CFU across 16 Lactobacillus and Bifidobacterium strains, with NSF Certified for Sport verification."
+    },
+    {
+      "label": "For accessible Japan-market daily gut support",
+      "offerId": "probiotics-fancl-jp",
+      "reason": "FANCL's Japan-specific formulation includes bifidobacteria strains clinically studied in Japanese populations, available across Japan's major retail channels."
+    },
+    {
+      "label": "For reliable B. infantis 35624 targeting IBS-specific symptoms",
+      "offerId": "probiotics-align-bifantis",
+      "reason": "Align's single-strain B. infantis 35624 has specific RCT evidence for reducing IBS bloating and pain — a targeted intervention, not a general-purpose blend."
+    }
   ],
   "sections": [
     {
@@ -89,8 +109,14 @@
       "offerId": "probiotics-garden-of-life-dr-formulated",
       "badge": "Best High-CFU Verified",
       "review": "50 billion CFU across 16 clinically relevant Lactobacillus and Bifidobacterium strains, NSF Certified for Sport — the strongest third-party credentialing in the category. Refrigeration required limits travel use, and the price reflects the certification premium. For a high-strain-count daily probiotic with independent lab verification, this is the benchmark.",
-      "pros": ["50 billion CFU with 16 named strains including well-studied B. longum Bb-536 and L. acidophilus NCFM", "NSF Certified for Sport — independent testing for 270+ banned substances and label accuracy", "Physician-formulated strain selection with documented clinical evidence for key species"],
-      "cons": ["Requires refrigeration — limits travel convenience without a cooler"],
+      "pros": [
+        "50 billion CFU with 16 named strains including well-studied B. longum Bb-536 and L. acidophilus NCFM",
+        "NSF Certified for Sport — independent testing for 270+ banned substances and label accuracy",
+        "Physician-formulated strain selection with documented clinical evidence for key species"
+      ],
+      "cons": [
+        "Requires refrigeration — limits travel convenience without a cooler"
+      ],
       "grade": "A+",
       "specs": {
         "CFU count": "50 billion at time of manufacture",
@@ -100,14 +126,26 @@
         "Serving": "1 capsule daily",
         "Notable strains": "L. acidophilus NCFM, B. longum Bb-536, B. lactis Bi-07"
       },
-      "scores": {"Evidence base": 88, "Strain quality": 90, "Value": 72, "Convenience": 70, "Third-party testing": 95}
+      "scores": {
+        "Evidence base": 88,
+        "Strain quality": 90,
+        "Value": 72,
+        "Convenience": 70,
+        "Third-party testing": 95
+      }
     },
     {
       "offerId": "probiotics-culturelle-digestive-daily",
       "badge": "Best Clinical Evidence",
       "review": "Culturelle is built around LGG — the most clinically studied probiotic strain in existence, with 1,000+ published studies on antibiotic-associated diarrhea, traveler's diarrhea, and gut resilience. 10 billion CFU in a stable inulin matrix requires no refrigeration. The single-strain design is deliberate: LGG's clinical record is extensive precisely because it's been studied consistently, not diluted across unstudied blend combinations.",
-      "pros": ["Lactobacillus rhamnosus GG (LGG) — 1,000+ clinical studies, including robust RCTs on antibiotic-associated diarrhea", "No refrigeration required — stable inulin matrix for room-temperature shelf life", "Widely available at pharmacies globally; lowest friction to purchase and restock"],
-      "cons": ["Single-strain — not optimized for broad microbiome diversity or specific conditions like IBS-C"],
+      "pros": [
+        "Lactobacillus rhamnosus GG (LGG) — 1,000+ clinical studies, including robust RCTs on antibiotic-associated diarrhea",
+        "No refrigeration required — stable inulin matrix for room-temperature shelf life",
+        "Widely available at pharmacies globally; lowest friction to purchase and restock"
+      ],
+      "cons": [
+        "Single-strain — not optimized for broad microbiome diversity or specific conditions like IBS-C"
+      ],
       "grade": "A",
       "specs": {
         "CFU count": "10 billion at time of manufacture",
@@ -117,14 +155,26 @@
         "Serving": "1 capsule daily",
         "Notable strains": "LGG — most studied probiotic strain globally"
       },
-      "scores": {"Evidence base": 97, "Strain quality": 95, "Value": 85, "Convenience": 95, "Third-party testing": 78}
+      "scores": {
+        "Evidence base": 97,
+        "Strain quality": 95,
+        "Value": 85,
+        "Convenience": 95,
+        "Third-party testing": 78
+      }
     },
     {
       "offerId": "probiotics-seed-ds-01",
       "badge": "Best Delivery Engineering",
       "review": "Seed's DS-01 is the most scientifically rigorous consumer probiotic in terms of design transparency. 24 strains at 53.6 billion AFU delivered via nested capsule technology that protects bacteria from gastric acid. Strain identities and supporting research are publicly listed. Published viability data at point of consumption, not just manufacture. The subscription-only model and premium price are the tradeoffs for genuine engineering quality.",
-      "pros": ["24 strains, 53.6B AFU — viability measured at point of consumption via third-party testing", "2-in-1 nested capsule protects strains through stomach acid to colon delivery", "Publicly listed strain research — each strain named by full taxonomy with supporting clinical references"],
-      "cons": ["Subscription-only, no retail availability — purchasing friction for some buyers; premium price"],
+      "pros": [
+        "24 strains, 53.6B AFU — viability measured at point of consumption via third-party testing",
+        "2-in-1 nested capsule protects strains through stomach acid to colon delivery",
+        "Publicly listed strain research — each strain named by full taxonomy with supporting clinical references"
+      ],
+      "cons": [
+        "Subscription-only, no retail availability — purchasing friction for some buyers; premium price"
+      ],
       "grade": "B+",
       "specs": {
         "CFU count": "53.6 billion AFU (active fluorescent units)",
@@ -134,14 +184,26 @@
         "Serving": "2 capsules daily",
         "Notable strains": "Lacticaseibacillus rhamnosus SD-LR6, B. longum SD-BB536-JP"
       },
-      "scores": {"Evidence base": 85, "Strain quality": 92, "Value": 62, "Convenience": 75, "Third-party testing": 88}
+      "scores": {
+        "Evidence base": 85,
+        "Strain quality": 92,
+        "Value": 62,
+        "Convenience": 75,
+        "Third-party testing": 88
+      }
     },
     {
       "offerId": "probiotics-fancl-jp",
       "badge": "Best Japan-Market Pick",
       "review": "FANCL's additive-free probiotic focuses on Bifidobacterium longum strains relevant to Japanese gut microbiome profiles — clinical research in Japan shows Bifidobacterium dominates healthy Japanese gut flora at higher proportions than Western populations. No magnesium stearate, artificial colors, or preservatives. Widely available through FANCL's Japan retail network. Lower CFU count than Western high-dose competitors, consistent with Japan's lower clinical validation thresholds.",
-      "pros": ["Bifidobacterium strains clinically studied in Japanese populations — market-appropriate strain selection", "Additive-free formulation: no magnesium stearate, artificial colors, or preservatives", "Available through FANCL's extensive Japan retail and online network without prescription"],
-      "cons": ["Lower CFU count than high-dose Western competitors; international availability limited"],
+      "pros": [
+        "Bifidobacterium strains clinically studied in Japanese populations — market-appropriate strain selection",
+        "Additive-free formulation: no magnesium stearate, artificial colors, or preservatives",
+        "Available through FANCL's extensive Japan retail and online network without prescription"
+      ],
+      "cons": [
+        "Lower CFU count than high-dose Western competitors; international availability limited"
+      ],
       "grade": "B",
       "specs": {
         "CFU count": "Bifidobacterium-focused (lower dose per Japan clinical norms)",
@@ -151,14 +213,26 @@
         "Serving": "As directed (sachets or capsules)",
         "Notable strains": "B. longum (Japan-specific clinical validation)"
       },
-      "scores": {"Evidence base": 75, "Strain quality": 80, "Value": 82, "Convenience": 88, "Third-party testing": 70}
+      "scores": {
+        "Evidence base": 75,
+        "Strain quality": 80,
+        "Value": 82,
+        "Convenience": 88,
+        "Third-party testing": 70
+      }
     },
     {
       "offerId": "probiotics-align-bifantis",
       "badge": "Best for IBS Symptoms",
       "review": "Align contains one strain — Bifidobacterium longum 35624 — with specific RCT evidence for IBS symptom relief: statistically significant reductions in abdominal pain, bloating, and bowel irregularity at the exact 1-billion-CFU dose used commercially. This is targeted clinical precision, not general-wellness extrapolation. The limitation is its narrowness: without IBS-type symptoms, there's little reason to choose Align over broader-spectrum options.",
-      "pros": ["B. longum 35624 — strain-specific RCT evidence for IBS bloating, pain, and bowel regularity", "1B CFU dose validated in clinical studies — evidence developed at commercial dose level", "No refrigeration, widely available at US pharmacies (CVS, Walgreens, Walmart, Target)"],
-      "cons": ["Single-strain, IBS-targeted — minimal benefit for general gut health outside of IBS context"],
+      "pros": [
+        "B. longum 35624 — strain-specific RCT evidence for IBS bloating, pain, and bowel regularity",
+        "1B CFU dose validated in clinical studies — evidence developed at commercial dose level",
+        "No refrigeration, widely available at US pharmacies (CVS, Walgreens, Walmart, Target)"
+      ],
+      "cons": [
+        "Single-strain, IBS-targeted — minimal benefit for general gut health outside of IBS context"
+      ],
       "grade": "B-",
       "specs": {
         "CFU count": "1 billion at time of manufacture",
@@ -168,7 +242,13 @@
         "Serving": "1 capsule daily",
         "Notable strains": "B. longum 35624 — specific IBS RCT evidence"
       },
-      "scores": {"Evidence base": 90, "Strain quality": 85, "Value": 80, "Convenience": 95, "Third-party testing": 68}
+      "scores": {
+        "Evidence base": 90,
+        "Strain quality": 85,
+        "Value": 80,
+        "Convenience": 95,
+        "Third-party testing": 68
+      }
     }
   ]
 }

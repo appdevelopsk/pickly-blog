@@ -1,6 +1,6 @@
 {
   "title": "Best WordPress Hosting 2026: 5 hosts tested with the same site for 90 days",
-  "description": "Kinsta, WP Engine, SiteGround, Bluehost, and Cloudways — we migrated the same 30k-pageview WordPress site to each. Here's the real TTFB, support response time, and which host actually earned the price.",
+  "description": "Kinsta, WP Engine, SiteGround, Bluehost, and Cloudways — we migrated the same 30k-pageview WordPress site to each.",
   "lede": "Five WordPress hosts. One real site. 90 days. We migrated a 30k-pageview WooCommerce site to each and measured what hosts don't put on the pricing page: TTFB after cache miss, ticket response time, and how often the staging environment broke.",
   "methodology": "Migrated the same WP/Woo install to each host. Mirrored real traffic (30k pageviews/month, peak 150 concurrent). Measured TTFB on cached + uncached pages, support ticket response, uptime, staging-environment friction, and migration time.",
   "sections": [
