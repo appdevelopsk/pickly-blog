@@ -40744,5 +40744,2405 @@ export const CATALOG_ADDITIONS = [
     "links": [
       { "network": "direct", "productId": "https://www.potterybarn.com/products/comfort-square-ottoman/", "markets": ["us"], "approved": true }
     ]
-  }
+  },
+  {
+    id: "gopro-hero13-black",
+    category: "tech",
+    name: { en: "Gopro Hero13 Black" },
+    description: { en: "The GoPro Hero13 Black is the most capable all-rounder backed by the largest accessory ecosystem on earth." },
+    links: [
+      { network: "amazon-us", productId: "gopro-hero13-black", rawUrl: "https://www.amazon.com/s?k=action%20camera%20gopro%20hero13%20black", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "gopro-hero13-black", rawUrl: "https://www.amazon.co.jp/s?k=action%20camera%20gopro%20hero13%20black", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dji-osmo-action-5-pro",
+    category: "tech",
+    name: { en: "Dji Osmo Action 5 Pro" },
+    description: { en: "The DJI Osmo Action 5 Pro is the pick when low-light performance and battery life matter most." },
+    links: [
+      { network: "amazon-us", productId: "dji-osmo-action-5-pro", rawUrl: "https://www.amazon.com/s?k=action%20camera%20dji%20osmo%20action%205%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dji-osmo-action-5-pro", rawUrl: "https://www.amazon.co.jp/s?k=action%20camera%20dji%20osmo%20action%205%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "insta360-ace-pro-2",
+    category: "tech",
+    name: { en: "Insta360 Ace Pro 2" },
+    description: { en: "The Insta360 Ace Pro 2 is the image-quality and vlogging specialist." },
+    links: [
+      { network: "amazon-us", productId: "insta360-ace-pro-2", rawUrl: "https://www.amazon.com/s?k=action%20camera%20insta360%20ace%20pro%202", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "insta360-ace-pro-2", rawUrl: "https://www.amazon.co.jp/s?k=action%20camera%20insta360%20ace%20pro%202", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dji-osmo-action-4",
+    category: "tech",
+    name: { en: "Dji Osmo Action 4" },
+    description: { en: "The DJI Osmo Action 4 is the value play — last year's DJI flagship, still excellent, now sold at a meaningful discount." },
+    links: [
+      { network: "amazon-us", productId: "dji-osmo-action-4", rawUrl: "https://www.amazon.com/s?k=action%20camera%20dji%20osmo%20action%204", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dji-osmo-action-4", rawUrl: "https://www.amazon.co.jp/s?k=action%20camera%20dji%20osmo%20action%204", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "akaso-brave-8-lite",
+    category: "tech",
+    name: { en: "Akaso Brave 8 Lite" },
+    description: { en: "The AKASO Brave 8 Lite is the budget option for casual and first-time users — 4K capture, basic electronic stabilization, a waterproof case, and a generous bundle that typically i…" },
+    links: [
+      { network: "amazon-us", productId: "akaso-brave-8-lite", rawUrl: "https://www.amazon.com/s?k=action%20camera%20akaso%20brave%208%20lite", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "akaso-brave-8-lite", rawUrl: "https://www.amazon.co.jp/s?k=action%20camera%20akaso%20brave%208%20lite", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "midea-u-shaped-window-ac",
+    category: "home",
+    name: { en: "Midea U Shaped Window Ac" },
+    description: { en: "The Midea U-Shaped reinvented the window AC and is still the one to beat." },
+    links: [
+      { network: "amazon-us", productId: "midea-u-shaped-window-ac", rawUrl: "https://www.amazon.com/s?k=air%20conditioner%20midea%20u%20shaped%20window%20ac", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "midea-u-shaped-window-ac", rawUrl: "https://www.amazon.co.jp/s?k=air%20conditioner%20midea%20u%20shaped%20window%20ac", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lg-dual-inverter-window-ac",
+    category: "home",
+    name: { en: "Lg Dual Inverter Window Ac" },
+    description: { en: "The LG Dual Inverter is the pick when maximum efficiency and long-term reliability in a conventional shape are the priority." },
+    links: [
+      { network: "amazon-us", productId: "lg-dual-inverter-window-ac", rawUrl: "https://www.amazon.com/s?k=air%20conditioner%20lg%20dual%20inverter%20window%20ac", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "lg-dual-inverter-window-ac", rawUrl: "https://www.amazon.co.jp/s?k=air%20conditioner%20lg%20dual%20inverter%20window%20ac", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "frigidaire-gallery-window-ac",
+    category: "home",
+    name: { en: "Frigidaire Gallery Window Ac" },
+    description: { en: "The Frigidaire Gallery is the dependable mainstream workhorse — a well-built inverter-class window unit with a clean app for scheduling and remote control, an easy-mount design, a…" },
+    links: [
+      { network: "amazon-us", productId: "frigidaire-gallery-window-ac", rawUrl: "https://www.amazon.com/s?k=air%20conditioner%20frigidaire%20gallery%20window%20ac", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "frigidaire-gallery-window-ac", rawUrl: "https://www.amazon.co.jp/s?k=air%20conditioner%20frigidaire%20gallery%20window%20ac", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "windmill-window-ac",
+    category: "home",
+    name: { en: "Windmill Window Ac" },
+    description: { en: "The Windmill AC is the design-conscious choice — an inverter window unit built to look and feel better than the beige boxes, with a clean fascia, side-facing airflow that diffuses…" },
+    links: [
+      { network: "amazon-us", productId: "windmill-window-ac", rawUrl: "https://www.amazon.com/s?k=air%20conditioner%20windmill%20window%20ac", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "windmill-window-ac", rawUrl: "https://www.amazon.co.jp/s?k=air%20conditioner%20windmill%20window%20ac", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "de-longhi-pinguino-portable-ac",
+    category: "home",
+    name: { en: "De Longhi Pinguino Portable Ac" },
+    description: { en: "The De'Longhi Pinguino is the answer for rooms a window unit can't serve — casement or sliding windows, rentals that forbid window mounts, or rooms with no suitable window." },
+    links: [
+      { network: "amazon-us", productId: "de-longhi-pinguino-portable-ac", rawUrl: "https://www.amazon.com/s?k=air%20conditioner%20de%20longhi%20pinguino%20portable%20ac", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "de-longhi-pinguino-portable-ac", rawUrl: "https://www.amazon.co.jp/s?k=air%20conditioner%20de%20longhi%20pinguino%20portable%20ac", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ruggable-washable-rug",
+    category: "home",
+    name: { en: "Ruggable Washable Rug" },
+    description: { en: "The Ruggable Washable Rug solves the problem every other rug ignores: when it gets dirty, you throw it in your washing machine." },
+    links: [
+      { network: "amazon-us", productId: "ruggable-washable-rug", rawUrl: "https://www.amazon.com/s?k=area%20rug%20ruggable%20washable%20rug", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ruggable-washable-rug", rawUrl: "https://www.amazon.co.jp/s?k=area%20rug%20ruggable%20washable%20rug", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "safavieh-madison-rug",
+    category: "home",
+    name: { en: "Safavieh Madison Rug" },
+    description: { en: "The Safavieh Madison is the pick for classic, elegant style and proven durability." },
+    links: [
+      { network: "amazon-us", productId: "safavieh-madison-rug", rawUrl: "https://www.amazon.com/s?k=area%20rug%20safavieh%20madison%20rug", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "safavieh-madison-rug", rawUrl: "https://www.amazon.co.jp/s?k=area%20rug%20safavieh%20madison%20rug", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nuloom-moroccan-rug",
+    category: "home",
+    name: { en: "Nuloom Moroccan Rug" },
+    description: { en: "The nuLOOM Moroccan Rug is the pick for on-trend, contemporary style at an accessible price." },
+    links: [
+      { network: "amazon-us", productId: "nuloom-moroccan-rug", rawUrl: "https://www.amazon.com/s?k=area%20rug%20nuloom%20moroccan%20rug", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "nuloom-moroccan-rug", rawUrl: "https://www.amazon.co.jp/s?k=area%20rug%20nuloom%20moroccan%20rug", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mohawk-home-rug",
+    category: "home",
+    name: { en: "Mohawk Home Rug" },
+    description: { en: "The Mohawk Home Rug is the value workhorse — dependable, affordable rugs from a long-established American flooring brand, in a wide range of styles, sizes, and price points." },
+    links: [
+      { network: "amazon-us", productId: "mohawk-home-rug", rawUrl: "https://www.amazon.com/s?k=area%20rug%20mohawk%20home%20rug", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "mohawk-home-rug", rawUrl: "https://www.amazon.co.jp/s?k=area%20rug%20mohawk%20home%20rug", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jonathan-y-bohemian-rug",
+    category: "home",
+    name: { en: "Jonathan Y Bohemian Rug" },
+    description: { en: "The Jonathan Y Bohemian Rug is the pick for distinctive, characterful boho and vintage style." },
+    links: [
+      { network: "amazon-us", productId: "jonathan-y-bohemian-rug", rawUrl: "https://www.amazon.com/s?k=area%20rug%20jonathan%20y%20bohemian%20rug", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "jonathan-y-bohemian-rug", rawUrl: "https://www.amazon.co.jp/s?k=area%20rug%20jonathan%20y%20bohemian%20rug", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "petlibro-granary-camera-feeder",
+    category: "pets",
+    name: { en: "Petlibro Granary Camera Feeder" },
+    description: { en: "The PetLibro Granary Camera Feeder combines reliable, accurate dry-food dispensing with a built-in camera that lets you see and interact with your pet remotely." },
+    links: [
+      { network: "amazon-us", productId: "petlibro-granary-camera-feeder", rawUrl: "https://www.amazon.com/s?k=automatic%20pet%20feeder%20petlibro%20granary%20camera%20feeder", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "petlibro-granary-camera-feeder", rawUrl: "https://www.amazon.co.jp/s?k=automatic%20pet%20feeder%20petlibro%20granary%20camera%20feeder", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "whisker-feeder-robot",
+    category: "pets",
+    name: { en: "Whisker Feeder Robot" },
+    description: { en: "The Whisker Feeder-Robot is the pick when your top priority is a feeder that never jams and dispenses accurately every time." },
+    links: [
+      { network: "amazon-us", productId: "whisker-feeder-robot", rawUrl: "https://www.amazon.com/s?k=automatic%20pet%20feeder%20whisker%20feeder%20robot", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "whisker-feeder-robot", rawUrl: "https://www.amazon.co.jp/s?k=automatic%20pet%20feeder%20whisker%20feeder%20robot", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "petsafe-smart-feed",
+    category: "pets",
+    name: { en: "Petsafe Smart Feed" },
+    description: { en: "The PetSafe Smart Feed is the well-established, proven smart feeder from a long-trusted pet-tech brand." },
+    links: [
+      { network: "amazon-us", productId: "petsafe-smart-feed", rawUrl: "https://www.amazon.com/s?k=automatic%20pet%20feeder%20petsafe%20smart%20feed", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "petsafe-smart-feed", rawUrl: "https://www.amazon.co.jp/s?k=automatic%20pet%20feeder%20petsafe%20smart%20feed", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sure-petcare-microchip-feeder",
+    category: "pets",
+    name: { en: "Sure Petcare Microchip Feeder" },
+    description: { en: "The Sure Petcare Microchip Feeder solves a completely different problem: multi-pet households where one pet steals another's food, or a pet on a special diet must not eat the wron…" },
+    links: [
+      { network: "amazon-us", productId: "sure-petcare-microchip-feeder", rawUrl: "https://www.amazon.com/s?k=automatic%20pet%20feeder%20sure%20petcare%20microchip%20feeder", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "sure-petcare-microchip-feeder", rawUrl: "https://www.amazon.co.jp/s?k=automatic%20pet%20feeder%20sure%20petcare%20microchip%20feeder", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wopet-automatic-feeder",
+    category: "pets",
+    name: { en: "Wopet Automatic Feeder" },
+    description: { en: "The WOPET Automatic Feeder is the budget champion — a dependable basic automatic feeder at a low price for someone who wants scheduled dry-food feeding without smart-home features…" },
+    links: [
+      { network: "amazon-us", productId: "wopet-automatic-feeder", rawUrl: "https://www.amazon.com/s?k=automatic%20pet%20feeder%20wopet%20automatic%20feeder", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "wopet-automatic-feeder", rawUrl: "https://www.amazon.co.jp/s?k=automatic%20pet%20feeder%20wopet%20automatic%20feeder", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "thuma-the-bed",
+    category: "home",
+    name: { en: "Thuma The Bed" },
+    description: { en: "The Thuma The Bed is the best frame for people who want something beautiful and genuinely easy to live with." },
+    links: [
+      { network: "amazon-us", productId: "thuma-the-bed", rawUrl: "https://www.amazon.com/s?k=bed%20frame%20thuma%20the%20bed", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "thuma-the-bed", rawUrl: "https://www.amazon.co.jp/s?k=bed%20frame%20thuma%20the%20bed", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zinus-suzanne-platform",
+    category: "home",
+    name: { en: "Zinus Suzanne Platform" },
+    description: { en: "The Zinus Suzanne is the value champion — a stylish, sturdy platform bed at a fraction of premium prices that made Zinus the default budget bed-frame brand." },
+    links: [
+      { network: "amazon-us", productId: "zinus-suzanne-platform", rawUrl: "https://www.amazon.com/s?k=bed%20frame%20zinus%20suzanne%20platform", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "zinus-suzanne-platform", rawUrl: "https://www.amazon.co.jp/s?k=bed%20frame%20zinus%20suzanne%20platform", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ikea-malm-bed-frame",
+    category: "home",
+    name: { en: "Ikea Malm Bed Frame" },
+    description: { en: "The IKEA Malm is the classic, affordable pick and the best option if under-bed storage matters — many Malm configurations include built-in storage drawers integrated into the fram…" },
+    links: [
+      { network: "amazon-us", productId: "ikea-malm-bed-frame", rawUrl: "https://www.amazon.com/s?k=ikea%20malm%20bed%20frame", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ikea-malm-bed-frame", rawUrl: "https://www.amazon.co.jp/s?k=ikea%20malm%20bed%20frame", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "floyd-platform-bed",
+    category: "home",
+    name: { en: "Floyd Platform Bed" },
+    description: { en: "The Floyd Platform Bed is the design-icon pick for a modern, minimalist statement frame built to last and move with you." },
+    links: [
+      { network: "amazon-us", productId: "floyd-platform-bed", rawUrl: "https://www.amazon.com/s?k=bed%20frame%20floyd%20platform%20bed", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "floyd-platform-bed", rawUrl: "https://www.amazon.co.jp/s?k=bed%20frame%20floyd%20platform%20bed", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nectar-platform-bed-frame",
+    category: "home",
+    name: { en: "Nectar Platform Bed Frame" },
+    description: { en: "The Nectar Platform Bed Frame is the convenient pick for someone buying a mattress-in-a-box and wanting a matching, no-fuss frame from the same ecosystem." },
+    links: [
+      { network: "amazon-us", productId: "nectar-platform-bed-frame", rawUrl: "https://www.amazon.com/s?k=nectar%20platform%20bed%20frame", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "nectar-platform-bed-frame", rawUrl: "https://www.amazon.co.jp/s?k=nectar%20platform%20bed%20frame", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nicetown-blackout-curtains",
+    category: "home",
+    name: { en: "Nicetown Blackout Curtains" },
+    description: { en: "The NICETOWN Blackout Curtains hit the sweet spot of genuinely effective light blocking, real thermal insulation, and a huge range of sizes and colours at a fair price." },
+    links: [
+      { network: "amazon-us", productId: "nicetown-blackout-curtains", rawUrl: "https://www.amazon.com/s?k=nicetown%20blackout%20curtains", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "nicetown-blackout-curtains", rawUrl: "https://www.amazon.co.jp/s?k=nicetown%20blackout%20curtains", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sun-zero-grommet-blackout",
+    category: "home",
+    name: { en: "Sun Zero Grommet Blackout" },
+    description: { en: "The Sun Zero Grommet Blackout curtains are the pick when you want effective blackout that also looks deliberately stylish, with clean grommet tops that hang in neat, even folds." },
+    links: [
+      { network: "amazon-us", productId: "sun-zero-grommet-blackout", rawUrl: "https://www.amazon.com/s?k=blackout%20curtains%20sun%20zero%20grommet%20blackout", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "sun-zero-grommet-blackout", rawUrl: "https://www.amazon.co.jp/s?k=blackout%20curtains%20sun%20zero%20grommet%20blackout", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "deconovo-blackout-curtains",
+    category: "home",
+    name: { en: "Deconovo Blackout Curtains" },
+    description: { en: "The Deconovo Blackout Curtains are a popular value pick balancing decent light blocking, a wide colour range, and an attractive price." },
+    links: [
+      { network: "amazon-us", productId: "deconovo-blackout-curtains", rawUrl: "https://www.amazon.com/s?k=deconovo%20blackout%20curtains", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "deconovo-blackout-curtains", rawUrl: "https://www.amazon.co.jp/s?k=deconovo%20blackout%20curtains", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "h-versailtex-blackout",
+    category: "home",
+    name: { en: "H Versailtex Blackout" },
+    description: { en: "The H.VERSAILTEX is the thermal-insulation specialist for someone whose priority is energy saving and temperature control as much as darkness." },
+    links: [
+      { network: "amazon-us", productId: "h-versailtex-blackout", rawUrl: "https://www.amazon.com/s?k=blackout%20curtains%20h%20versailtex%20blackout", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "h-versailtex-blackout", rawUrl: "https://www.amazon.co.jp/s?k=blackout%20curtains%20h%20versailtex%20blackout", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazon-basics-blackout-curtains",
+    category: "home",
+    name: { en: "Amazon Basics Blackout Curtains" },
+    description: { en: "The Amazon Basics Blackout Curtains are the no-frills budget champion — simple, effective room-darkening panels at the lowest price, in the common sizes and a range of basic colou…" },
+    links: [
+      { network: "amazon-us", productId: "amazon-basics-blackout-curtains", rawUrl: "https://www.amazon.com/s?k=amazon%20basics%20blackout%20curtains", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "amazon-basics-blackout-curtains", rawUrl: "https://www.amazon.co.jp/s?k=amazon%20basics%20blackout%20curtains", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "apple-airtag",
+    category: "tech",
+    name: { en: "Apple Airtag" },
+    description: { en: "The Apple AirTag is the best tracker for iPhone users because the finding network is everything and Apple's is the largest in the world." },
+    links: [
+      { network: "amazon-us", productId: "apple-airtag", rawUrl: "https://www.amazon.com/s?k=bluetooth%20tracker%20apple%20airtag", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "apple-airtag", rawUrl: "https://www.amazon.co.jp/s?k=bluetooth%20tracker%20apple%20airtag", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tile-pro",
+    category: "tech",
+    name: { en: "Tile Pro" },
+    description: { en: "The Tile Pro is the best tracker for the cross-platform world — the pick for Android users or households mixing iPhone and Android, because Tile works fully on both via its own fi…" },
+    links: [
+      { network: "amazon-us", productId: "tile-pro", rawUrl: "https://www.amazon.com/s?k=bluetooth%20tracker%20tile%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "tile-pro", rawUrl: "https://www.amazon.co.jp/s?k=bluetooth%20tracker%20tile%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "samsung-galaxy-smarttag-2",
+    category: "tech",
+    name: { en: "Samsung Galaxy Smarttag 2" },
+    description: { en: "The Samsung Galaxy SmartTag 2 is the AirTag-equivalent for Samsung Galaxy owners." },
+    links: [
+      { network: "amazon-us", productId: "samsung-galaxy-smarttag-2", rawUrl: "https://www.amazon.com/s?k=bluetooth%20tracker%20samsung%20galaxy%20smarttag%202", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "samsung-galaxy-smarttag-2", rawUrl: "https://www.amazon.co.jp/s?k=bluetooth%20tracker%20samsung%20galaxy%20smarttag%202", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "chipolo-one-spot",
+    category: "tech",
+    name: { en: "Chipolo One Spot" },
+    description: { en: "The Chipolo ONE Spot is the clever pick for iPhone users who want a louder, more practical tag that still uses Apple's network." },
+    links: [
+      { network: "amazon-us", productId: "chipolo-one-spot", rawUrl: "https://www.amazon.com/s?k=bluetooth%20tracker%20chipolo%20one%20spot", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "chipolo-one-spot", rawUrl: "https://www.amazon.co.jp/s?k=bluetooth%20tracker%20chipolo%20one%20spot", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tile-mate",
+    category: "tech",
+    name: { en: "Tile Mate" },
+    description: { en: "The Tile Mate is the value Tile — the affordable, mainstream version of the Tile Pro with the same full cross-platform iOS-and-Android compatibility and the same Tile finding netw…" },
+    links: [
+      { network: "amazon-us", productId: "tile-mate", rawUrl: "https://www.amazon.com/s?k=bluetooth%20tracker%20tile%20mate", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "tile-mate", rawUrl: "https://www.amazon.co.jp/s?k=bluetooth%20tracker%20tile%20mate", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rare-beauty-soft-pinch-liquid-blush",
+    category: "beauty",
+    name: { en: "Rare Beauty Soft Pinch Liquid Blush" },
+    description: { en: "The Rare Beauty Soft Pinch Liquid Blush delivers an incredibly natural, lit-from-within flush that lasts genuinely all day — and the same intense pigmentation that makes it long-w…" },
+    links: [
+      { network: "amazon-us", productId: "rare-beauty-soft-pinch-liquid-blush", rawUrl: "https://www.amazon.com/s?k=rare%20beauty%20soft%20pinch%20liquid%20blush", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "rare-beauty-soft-pinch-liquid-blush", rawUrl: "https://www.amazon.co.jp/s?k=rare%20beauty%20soft%20pinch%20liquid%20blush", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nars-orgasm-blush",
+    category: "beauty",
+    name: { en: "Nars Orgasm Blush" },
+    description: { en: "The NARS Orgasm Blush is the iconic powder blush and the pick for a universally flattering shimmer-flushed glow." },
+    links: [
+      { network: "amazon-us", productId: "nars-orgasm-blush", rawUrl: "https://www.amazon.com/s?k=nars%20orgasm%20blush", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "nars-orgasm-blush", rawUrl: "https://www.amazon.co.jp/s?k=nars%20orgasm%20blush", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "milani-baked-blush",
+    category: "beauty",
+    name: { en: "Milani Baked Blush" },
+    description: { en: "The Milani Baked Blush is the budget champion that genuinely rivals high-end powders." },
+    links: [
+      { network: "amazon-us", productId: "milani-baked-blush", rawUrl: "https://www.amazon.com/s?k=milani%20baked%20blush", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "milani-baked-blush", rawUrl: "https://www.amazon.co.jp/s?k=milani%20baked%20blush", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "benefit-benetint",
+    category: "beauty",
+    name: { en: "Benefit Benetint" },
+    description: { en: "The Benefit Benetint is the cult liquid lip-and-cheek tint and the pick for a long-lasting, natural rosy stain." },
+    links: [
+      { network: "amazon-us", productId: "benefit-benetint", rawUrl: "https://www.amazon.com/s?k=blush%20benefit%20benetint", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "benefit-benetint", rawUrl: "https://www.amazon.co.jp/s?k=blush%20benefit%20benetint", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dior-backstage-rosy-glow",
+    category: "beauty",
+    name: { en: "Dior Backstage Rosy Glow" },
+    description: { en: "The Dior Backstage Rosy Glow is the luxury pick with a clever colour-adapting twist." },
+    links: [
+      { network: "amazon-us", productId: "dior-backstage-rosy-glow", rawUrl: "https://www.amazon.com/s?k=blush%20dior%20backstage%20rosy%20glow", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dior-backstage-rosy-glow", rawUrl: "https://www.amazon.co.jp/s?k=blush%20dior%20backstage%20rosy%20glow", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lululemon-everywhere-belt-bag",
+    category: "fashion",
+    name: { en: "Lululemon Everywhere Belt Bag" },
+    description: { en: "The Lululemon Everywhere Belt Bag earned its cult status." },
+    links: [
+      { network: "amazon-us", productId: "lululemon-everywhere-belt-bag", rawUrl: "https://www.amazon.com/s?k=crossbody%20bag%20lululemon%20everywhere%20belt%20bag", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "lululemon-everywhere-belt-bag", rawUrl: "https://www.amazon.co.jp/s?k=crossbody%20bag%20lululemon%20everywhere%20belt%20bag", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "coach-tabby-crossbody",
+    category: "fashion",
+    name: { en: "Coach Tabby Crossbody" },
+    description: { en: "The Coach Tabby is the pick when you want a real leather crossbody that elevates an outfit and lasts for years." },
+    links: [
+      { network: "amazon-us", productId: "coach-tabby-crossbody", rawUrl: "https://www.amazon.com/s?k=crossbody%20bag%20coach%20tabby%20crossbody", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "coach-tabby-crossbody", rawUrl: "https://www.amazon.co.jp/s?k=crossbody%20bag%20coach%20tabby%20crossbody", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "baggu-crescent-bag",
+    category: "fashion",
+    name: { en: "Baggu Crescent Bag" },
+    description: { en: "The Baggu Crescent Bag is the cool minimalist's choice and the best value-design pick — a soft, slouchy sling in a flattering crescent shape, in Baggu's signature playful colours…" },
+    links: [
+      { network: "amazon-us", productId: "baggu-crescent-bag", rawUrl: "https://www.amazon.com/s?k=crossbody%20bag%20baggu%20crescent%20bag", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "baggu-crescent-bag", rawUrl: "https://www.amazon.co.jp/s?k=crossbody%20bag%20baggu%20crescent%20bag", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kate-spade-crossbody",
+    category: "fashion",
+    name: { en: "Kate Spade Crossbody" },
+    description: { en: "The Kate Spade Crossbody is the classic, polished pick for someone who wants a recognisably put-together bag at an accessible designer price." },
+    links: [
+      { network: "amazon-us", productId: "kate-spade-crossbody", rawUrl: "https://www.amazon.com/s?k=crossbody%20bag%20kate%20spade%20crossbody", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kate-spade-crossbody", rawUrl: "https://www.amazon.co.jp/s?k=crossbody%20bag%20kate%20spade%20crossbody", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bandolier-crossbody-phone-case",
+    category: "fashion",
+    name: { en: "Bandolier Crossbody Phone Case" },
+    description: { en: "The Bandolier is the tech-forward minimalist pick built around your phone — a crossbody phone case where your phone snaps into a leather case with an attached adjustable strap and…" },
+    links: [
+      { network: "amazon-us", productId: "bandolier-crossbody-phone-case", rawUrl: "https://www.amazon.com/s?k=crossbody%20bag%20bandolier%20crossbody%20phone%20case", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "bandolier-crossbody-phone-case", rawUrl: "https://www.amazon.co.jp/s?k=crossbody%20bag%20bandolier%20crossbody%20phone%20case", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "t3-whirl-trio-interchangeable",
+    category: "beauty",
+    name: { en: "T3 Whirl Trio Interchangeable" },
+    description: { en: "The T3 Whirl Trio is really three tools in one — a single rapid-heating base with interchangeable clip-on barrels (a 1-inch tapered wand for loose waves, a 1.25-inch barrel for cl…" },
+    links: [
+      { network: "amazon-us", productId: "t3-whirl-trio-interchangeable", rawUrl: "https://www.amazon.com/s?k=curling%20iron%20t3%20whirl%20trio%20interchangeable", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "t3-whirl-trio-interchangeable", rawUrl: "https://www.amazon.co.jp/s?k=curling%20iron%20t3%20whirl%20trio%20interchangeable", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "beachwaver-s1-rotating",
+    category: "beauty",
+    name: { en: "Beachwaver S1 Rotating" },
+    description: { en: "The Beachwaver S1 curls your hair for you." },
+    links: [
+      { network: "amazon-us", productId: "beachwaver-s1-rotating", rawUrl: "https://www.amazon.com/s?k=curling%20iron%20beachwaver%20s1%20rotating", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "beachwaver-s1-rotating", rawUrl: "https://www.amazon.co.jp/s?k=curling%20iron%20beachwaver%20s1%20rotating", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ghd-curve-creative-wand",
+    category: "beauty",
+    name: { en: "Ghd Curve Creative Wand" },
+    description: { en: "The GHD Curve Creative Curl Wand is the premium clampless wand for natural, undone waves." },
+    links: [
+      { network: "amazon-us", productId: "ghd-curve-creative-wand", rawUrl: "https://www.amazon.com/s?k=curling%20iron%20ghd%20curve%20creative%20wand", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ghd-curve-creative-wand", rawUrl: "https://www.amazon.co.jp/s?k=curling%20iron%20ghd%20curve%20creative%20wand", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "conair-double-ceramic-curling-iron",
+    category: "beauty",
+    name: { en: "Conair Double Ceramic Curling Iron" },
+    description: { en: "The Conair Double Ceramic is the value workhorse — a straightforward 1.25-inch clamp curling iron with a ceramic coating for even heat, multiple heat settings, and fast heat-up, a…" },
+    links: [
+      { network: "amazon-us", productId: "conair-double-ceramic-curling-iron", rawUrl: "https://www.amazon.com/s?k=conair%20double%20ceramic%20curling%20iron", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "conair-double-ceramic-curling-iron", rawUrl: "https://www.amazon.co.jp/s?k=conair%20double%20ceramic%20curling%20iron", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bed-head-curlipops-clamp",
+    category: "beauty",
+    name: { en: "Bed Head Curlipops Clamp" },
+    description: { en: "The Bed Head Curlipops is the fun, cheap entry point — typically a 1-inch clamp iron with a tourmaline-ceramic barrel and simple heat control, aimed at beginners and occasional us…" },
+    links: [
+      { network: "amazon-us", productId: "bed-head-curlipops-clamp", rawUrl: "https://www.amazon.com/s?k=curling%20iron%20bed%20head%20curlipops%20clamp", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "bed-head-curlipops-clamp", rawUrl: "https://www.amazon.co.jp/s?k=curling%20iron%20bed%20head%20curlipops%20clamp", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-cdf-200",
+    category: "food",
+    name: { en: "Cuisinart Cdf 200" },
+    description: { en: "The Cuisinart CDF-200 balances proper capacity, accurate temperature control, and manageable cleanup at a sensible price." },
+    links: [
+      { network: "amazon-us", productId: "cuisinart-cdf-200", rawUrl: "https://www.amazon.com/s?k=deep%20fryer%20cuisinart%20cdf%20200", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "cuisinart-cdf-200", rawUrl: "https://www.amazon.co.jp/s?k=deep%20fryer%20cuisinart%20cdf%20200", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "t-fal-ultimate-ez-clean",
+    category: "food",
+    name: { en: "T Fal Ultimate Ez Clean" },
+    description: { en: "The T-fal Ultimate EZ Clean is built around solving the main objection to deep fryers: the oil cleanup." },
+    links: [
+      { network: "amazon-us", productId: "t-fal-ultimate-ez-clean", rawUrl: "https://www.amazon.com/s?k=deep%20fryer%20t%20fal%20ultimate%20ez%20clean", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "t-fal-ultimate-ez-clean", rawUrl: "https://www.amazon.co.jp/s?k=deep%20fryer%20t%20fal%20ultimate%20ez%20clean", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "presto-frydaddy",
+    category: "food",
+    name: { en: "Presto Frydaddy" },
+    description: { en: "The Presto FryDaddy is the compact, simple, budget pick for small households and occasional frying." },
+    links: [
+      { network: "amazon-us", productId: "presto-frydaddy", rawUrl: "https://www.amazon.com/s?k=deep%20fryer%20presto%20frydaddy", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "presto-frydaddy", rawUrl: "https://www.amazon.co.jp/s?k=deep%20fryer%20presto%20frydaddy", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "breville-smart-fryer",
+    category: "food",
+    name: { en: "Breville Smart Fryer" },
+    description: { en: "The Breville Smart Fryer is the premium pick for precision and quality results above all." },
+    links: [
+      { network: "amazon-us", productId: "breville-smart-fryer", rawUrl: "https://www.amazon.com/s?k=deep%20fryer%20breville%20smart%20fryer", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "breville-smart-fryer", rawUrl: "https://www.amazon.co.jp/s?k=deep%20fryer%20breville%20smart%20fryer", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hamilton-beach-deep-fryer",
+    category: "food",
+    name: { en: "Hamilton Beach Deep Fryer" },
+    description: { en: "The Hamilton Beach Deep Fryer is the high-capacity value pick for larger households or bigger batches." },
+    links: [
+      { network: "amazon-us", productId: "hamilton-beach-deep-fryer", rawUrl: "https://www.amazon.com/s?k=hamilton%20beach%20deep%20fryer", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "hamilton-beach-deep-fryer", rawUrl: "https://www.amazon.co.jp/s?k=hamilton%20beach%20deep%20fryer", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ubbi-steel-diaper-pail",
+    category: "parenting",
+    name: { en: "Ubbi Steel Diaper Pail" },
+    description: { en: "The Ubbi Steel Diaper Pail solves odor differently and frees you from proprietary refills." },
+    links: [
+      { network: "amazon-us", productId: "ubbi-steel-diaper-pail", rawUrl: "https://www.amazon.com/s?k=ubbi%20steel%20diaper%20pail", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ubbi-steel-diaper-pail", rawUrl: "https://www.amazon.co.jp/s?k=ubbi%20steel%20diaper%20pail", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "diaper-genie-complete",
+    category: "parenting",
+    name: { en: "Genie Complete" },
+    description: { en: "The Diaper Genie Complete is the benchmark for maximum odor containment and the most popular pail for good reason." },
+    links: [
+      { network: "amazon-us", productId: "diaper-genie-complete", rawUrl: "https://www.amazon.com/s?k=diaper%20pail%20genie%20complete", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "diaper-genie-complete", rawUrl: "https://www.amazon.co.jp/s?k=diaper%20pail%20genie%20complete", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "munchkin-step-diaper-pail",
+    category: "parenting",
+    name: { en: "Munchkin Step Diaper Pail" },
+    description: { en: "The Munchkin Step Diaper Pail is the hands-free convenience pick." },
+    links: [
+      { network: "amazon-us", productId: "munchkin-step-diaper-pail", rawUrl: "https://www.amazon.com/s?k=munchkin%20step%20diaper%20pail", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "munchkin-step-diaper-pail", rawUrl: "https://www.amazon.co.jp/s?k=munchkin%20step%20diaper%20pail", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dekor-plus-diaper-pail",
+    category: "parenting",
+    name: { en: "Dekor Plus Diaper Pail" },
+    description: { en: "The Dekor Plus is the high-capacity, easy-to-use pick favoured for its hands-free flap and continuous-liner system." },
+    links: [
+      { network: "amazon-us", productId: "dekor-plus-diaper-pail", rawUrl: "https://www.amazon.com/s?k=dekor%20plus%20diaper%20pail", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dekor-plus-diaper-pail", rawUrl: "https://www.amazon.co.jp/s?k=dekor%20plus%20diaper%20pail", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "playtex-diaper-genie-elite",
+    category: "parenting",
+    name: { en: "Playtex Diaper Genie Elite" },
+    description: { en: "The Diaper Genie Elite is the step-up Diaper Genie for those who want the brand's strong odor sealing with added convenience — a foot-pedal, hands-free version with the same effec…" },
+    links: [
+      { network: "amazon-us", productId: "playtex-diaper-genie-elite", rawUrl: "https://www.amazon.com/s?k=diaper%20pail%20playtex%20diaper%20genie%20elite", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "playtex-diaper-genie-elite", rawUrl: "https://www.amazon.co.jp/s?k=diaper%20pail%20playtex%20diaper%20genie%20elite", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fujitsu-scansnap-ix1600",
+    category: "tech",
+    name: { en: "Fujitsu Scansnap Ix1600" },
+    description: { en: "The Fujitsu ScanSnap iX1600 is the gold standard for home and small-office paperless work." },
+    links: [
+      { network: "amazon-us", productId: "fujitsu-scansnap-ix1600", rawUrl: "https://www.amazon.com/s?k=document%20scanner%20fujitsu%20scansnap%20ix1600", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "fujitsu-scansnap-ix1600", rawUrl: "https://www.amazon.co.jp/s?k=document%20scanner%20fujitsu%20scansnap%20ix1600", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "epson-workforce-es-580w",
+    category: "tech",
+    name: { en: "Epson Workforce Es 580w" },
+    description: { en: "The Epson WorkForce ES-580W is the pick for business and higher-volume scanning, with professional-grade speed and capacity." },
+    links: [
+      { network: "amazon-us", productId: "epson-workforce-es-580w", rawUrl: "https://www.amazon.com/s?k=document%20scanner%20epson%20workforce%20es%20580w", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "epson-workforce-es-580w", rawUrl: "https://www.amazon.co.jp/s?k=document%20scanner%20epson%20workforce%20es%20580w", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "brother-ads-1700w",
+    category: "tech",
+    name: { en: "Brother Ads 1700w" },
+    description: { en: "The Brother ADS-1700W is the compact all-rounder balancing capability, a small footprint, and value." },
+    links: [
+      { network: "amazon-us", productId: "brother-ads-1700w", rawUrl: "https://www.amazon.com/s?k=document%20scanner%20brother%20ads%201700w", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "brother-ads-1700w", rawUrl: "https://www.amazon.co.jp/s?k=document%20scanner%20brother%20ads%201700w", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "canon-imageformula-r40",
+    category: "tech",
+    name: { en: "Canon Imageformula R40" },
+    description: { en: "The Canon imageFORMULA R40 is the dependable, straightforward pick for reliable duplex document scanning without a premium price or software complexity." },
+    links: [
+      { network: "amazon-us", productId: "canon-imageformula-r40", rawUrl: "https://www.amazon.com/s?k=document%20scanner%20canon%20imageformula%20r40", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "canon-imageformula-r40", rawUrl: "https://www.amazon.co.jp/s?k=document%20scanner%20canon%20imageformula%20r40", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "raven-pro-document-scanner",
+    category: "tech",
+    name: { en: "Raven Pro Document Scanner" },
+    description: { en: "The Raven Pro Document Scanner is the pick for a large built-in touchscreen and standalone, computer-free operation." },
+    links: [
+      { network: "amazon-us", productId: "raven-pro-document-scanner", rawUrl: "https://www.amazon.com/s?k=raven%20pro%20document%20scanner", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "raven-pro-document-scanner", rawUrl: "https://www.amazon.co.jp/s?k=raven%20pro%20document%20scanner", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tractive-gps-dog-tracker",
+    category: "pets",
+    name: { en: "Tractive Gps Dog Tracker" },
+    description: { en: "The Tractive GPS Dog Tracker does the core job — real-time, unlimited-range location tracking — better and more affordably than anyone." },
+    links: [
+      { network: "amazon-us", productId: "tractive-gps-dog-tracker", rawUrl: "https://www.amazon.com/s?k=tractive%20gps%20dog%20tracker", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "tractive-gps-dog-tracker", rawUrl: "https://www.amazon.co.jp/s?k=tractive%20gps%20dog%20tracker", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fi-series-3-smart-collar",
+    category: "pets",
+    name: { en: "Fi Series 3 Smart Collar" },
+    description: { en: "The Fi Series 3 is the pick for GPS tracking built into a premium smart collar with exceptional battery life and top-tier escape detection." },
+    links: [
+      { network: "amazon-us", productId: "fi-series-3-smart-collar", rawUrl: "https://www.amazon.com/s?k=dog%20gps%20tracker%20fi%20series%203%20smart%20collar", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "fi-series-3-smart-collar", rawUrl: "https://www.amazon.co.jp/s?k=dog%20gps%20tracker%20fi%20series%203%20smart%20collar", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "whistle-go-explore-2",
+    category: "pets",
+    name: { en: "Whistle Go Explore 2" },
+    description: { en: "The Whistle Go Explore 2 is the strong all-rounder balancing GPS tracking with the most comprehensive health monitoring." },
+    links: [
+      { network: "amazon-us", productId: "whistle-go-explore-2", rawUrl: "https://www.amazon.com/s?k=dog%20gps%20tracker%20whistle%20go%20explore%202", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "whistle-go-explore-2", rawUrl: "https://www.amazon.co.jp/s?k=dog%20gps%20tracker%20whistle%20go%20explore%202", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "garmin-alpha-200i",
+    category: "pets",
+    name: { en: "Garmin Alpha 200i" },
+    description: { en: "The Garmin Alpha 200i is the no-subscription, no-coverage king for serious users — a completely different and far more expensive category." },
+    links: [
+      { network: "amazon-us", productId: "garmin-alpha-200i", rawUrl: "https://www.amazon.com/s?k=dog%20gps%20tracker%20garmin%20alpha%20200i", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "garmin-alpha-200i", rawUrl: "https://www.amazon.co.jp/s?k=dog%20gps%20tracker%20garmin%20alpha%20200i", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jiobit-smart-tag",
+    category: "pets",
+    name: { en: "Jiobit Smart Tag" },
+    description: { en: "The Jiobit is the compact hybrid pick — originally designed for tracking kids and vulnerable family members but widely used for small dogs and cats too." },
+    links: [
+      { network: "amazon-us", productId: "jiobit-smart-tag", rawUrl: "https://www.amazon.com/s?k=dog%20gps%20tracker%20jiobit%20smart%20tag", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "jiobit-smart-tag", rawUrl: "https://www.amazon.co.jp/s?k=dog%20gps%20tracker%20jiobit%20smart%20tag", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "petsafe-happy-ride-folding-ramp",
+    category: "pets",
+    name: { en: "Petsafe Happy Ride Folding Ramp" },
+    description: { en: "The PetSafe Happy Ride Folding Ramp balances a high weight capacity, a secure grippy surface, genuine stability, and easy portability at a reasonable price from a trusted brand." },
+    links: [
+      { network: "amazon-us", productId: "petsafe-happy-ride-folding-ramp", rawUrl: "https://www.amazon.com/s?k=dog%20ramp%20petsafe%20happy%20ride%20folding%20ramp", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "petsafe-happy-ride-folding-ramp", rawUrl: "https://www.amazon.co.jp/s?k=dog%20ramp%20petsafe%20happy%20ride%20folding%20ramp", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gen7pets-natural-step-ramp",
+    category: "pets",
+    name: { en: "Gen7pets Natural Step Ramp" },
+    description: { en: "The Gen7Pets Natural Step Ramp is the pick for indoor, in-home use — helping dogs reach beds, sofas, and windows — with a focus on style and a gentle, stair-like design." },
+    links: [
+      { network: "amazon-us", productId: "gen7pets-natural-step-ramp", rawUrl: "https://www.amazon.com/s?k=dog%20ramp%20gen7pets%20natural%20step%20ramp", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "gen7pets-natural-step-ramp", rawUrl: "https://www.amazon.co.jp/s?k=dog%20ramp%20gen7pets%20natural%20step%20ramp", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "petstep-original-ramp",
+    category: "pets",
+    name: { en: "Petstep Original Ramp" },
+    description: { en: "The PetStep Original is the heavy-duty, premium pick built for big dogs, demanding use, and longevity." },
+    links: [
+      { network: "amazon-us", productId: "petstep-original-ramp", rawUrl: "https://www.amazon.com/s?k=dog%20ramp%20petstep%20original%20ramp", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "petstep-original-ramp", rawUrl: "https://www.amazon.co.jp/s?k=dog%20ramp%20petstep%20original%20ramp", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "alpha-paw-dog-ramp",
+    category: "pets",
+    name: { en: "Alpha Paw Dog Ramp" },
+    description: { en: "The Alpha Paw Dog Ramp is the pick for a thoughtfully-designed ramp focused on a gentle incline and ease for senior and recovering dogs." },
+    links: [
+      { network: "amazon-us", productId: "alpha-paw-dog-ramp", rawUrl: "https://www.amazon.com/s?k=alpha%20paw%20dog%20ramp", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "alpha-paw-dog-ramp", rawUrl: "https://www.amazon.co.jp/s?k=alpha%20paw%20dog%20ramp", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "frisco-foldable-dog-ramp",
+    category: "pets",
+    name: { en: "Frisco Foldable Dog Ramp" },
+    description: { en: "The Frisco Foldable Dog Ramp is the budget champion — a dependable, functional folding ramp at a notably low price for someone who wants the core benefit without spending much." },
+    links: [
+      { network: "amazon-us", productId: "frisco-foldable-dog-ramp", rawUrl: "https://www.amazon.com/s?k=frisco%20foldable%20dog%20ramp", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "frisco-foldable-dog-ramp", rawUrl: "https://www.amazon.co.jp/s?k=frisco%20foldable%20dog%20ramp", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kindle-paperwhite-2024",
+    category: "tech",
+    name: { en: "Kindle Paperwhite" },
+    description: { en: "The Kindle Paperwhite (2024) is the best e-reader for most people." },
+    links: [
+      { network: "amazon-us", productId: "kindle-paperwhite-2024", rawUrl: "https://www.amazon.com/s?k=e%20reader%20kindle%20paperwhite", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kindle-paperwhite-2024", rawUrl: "https://www.amazon.co.jp/s?k=e%20reader%20kindle%20paperwhite", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kobo-clara-colour",
+    category: "tech",
+    name: { en: "Kobo Clara Colour" },
+    description: { en: "The Kobo Clara Colour is the pick for readers who borrow from the library and want store freedom." },
+    links: [
+      { network: "amazon-us", productId: "kobo-clara-colour", rawUrl: "https://www.amazon.com/s?k=e%20reader%20kobo%20clara%20colour", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kobo-clara-colour", rawUrl: "https://www.amazon.co.jp/s?k=e%20reader%20kobo%20clara%20colour", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kindle-oasis",
+    category: "tech",
+    name: { en: "Kindle Oasis" },
+    description: { en: "The Kindle Oasis is the premium Kindle for readers who want physical page-turn buttons and ergonomic one-handed reading." },
+    links: [
+      { network: "amazon-us", productId: "kindle-oasis", rawUrl: "https://www.amazon.com/s?k=e%20reader%20kindle%20oasis", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kindle-oasis", rawUrl: "https://www.amazon.co.jp/s?k=e%20reader%20kindle%20oasis", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "boox-palma-2",
+    category: "tech",
+    name: { en: "Boox Palma 2" },
+    description: { en: "The Boox Palma 2 is the store-agnostic wildcard — a full Android e-reader the size and shape of a smartphone (no SIM) with a 6-inch black-and-white E Ink screen." },
+    links: [
+      { network: "amazon-us", productId: "boox-palma-2", rawUrl: "https://www.amazon.com/s?k=e%20reader%20boox%20palma%202", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "boox-palma-2", rawUrl: "https://www.amazon.co.jp/s?k=e%20reader%20boox%20palma%202", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kobo-libra-colour",
+    category: "tech",
+    name: { en: "Kobo Libra Colour" },
+    description: { en: "The Kobo Libra Colour is the flexible step-up — a larger 7-inch color E Ink screen with physical page-turn buttons, optional stylus support for margin notes and highlights, and th…" },
+    links: [
+      { network: "amazon-us", productId: "kobo-libra-colour", rawUrl: "https://www.amazon.com/s?k=e%20reader%20kobo%20libra%20colour", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kobo-libra-colour", rawUrl: "https://www.amazon.co.jp/s?k=e%20reader%20kobo%20libra%20colour", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "segway-ninebot-max-g2",
+    category: "tech",
+    name: { en: "Segway Ninebot Max G2" },
+    description: { en: "The Segway Ninebot Max G2 is the best commuter scooter, combining genuinely usable long range with the reliability and support of the dominant brand." },
+    links: [
+      { network: "amazon-us", productId: "segway-ninebot-max-g2", rawUrl: "https://www.amazon.com/s?k=electric%20scooter%20segway%20ninebot%20max%20g2", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "segway-ninebot-max-g2", rawUrl: "https://www.amazon.co.jp/s?k=electric%20scooter%20segway%20ninebot%20max%20g2", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "apollo-city",
+    category: "tech",
+    name: { en: "Apollo City" },
+    description: { en: "The Apollo City is the pick for riders who prioritise ride comfort and build quality." },
+    links: [
+      { network: "amazon-us", productId: "apollo-city", rawUrl: "https://www.amazon.com/s?k=electric%20scooter%20apollo%20city", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "apollo-city", rawUrl: "https://www.amazon.co.jp/s?k=electric%20scooter%20apollo%20city", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "niu-kqi3-pro",
+    category: "tech",
+    name: { en: "Niu Kqi3 Pro" },
+    description: { en: "The NIU KQi3 Pro is the stylish, well-balanced mid-range pick." },
+    links: [
+      { network: "amazon-us", productId: "niu-kqi3-pro", rawUrl: "https://www.amazon.com/s?k=electric%20scooter%20niu%20kqi3%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "niu-kqi3-pro", rawUrl: "https://www.amazon.co.jp/s?k=electric%20scooter%20niu%20kqi3%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gotrax-gxl-v2",
+    category: "tech",
+    name: { en: "Gotrax Gxl V2" },
+    description: { en: "The Gotrax GXL V2 is the budget entry point for trying scooter commuting without a big outlay." },
+    links: [
+      { network: "amazon-us", productId: "gotrax-gxl-v2", rawUrl: "https://www.amazon.com/s?k=electric%20scooter%20gotrax%20gxl%20v2", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "gotrax-gxl-v2", rawUrl: "https://www.amazon.co.jp/s?k=electric%20scooter%20gotrax%20gxl%20v2", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "xiaomi-electric-scooter-4-pro",
+    category: "tech",
+    name: { en: "Xiaomi Electric Scooter 4 Pro" },
+    description: { en: "The Xiaomi Electric Scooter 4 Pro is the value flagship that competes with the Segway on range and features for often a bit less." },
+    links: [
+      { network: "amazon-us", productId: "xiaomi-electric-scooter-4-pro", rawUrl: "https://www.amazon.com/s?k=xiaomi%20electric%20scooter%204%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "xiaomi-electric-scooter-4-pro", rawUrl: "https://www.amazon.co.jp/s?k=xiaomi%20electric%20scooter%204%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "urban-decay-naked-palette",
+    category: "beauty",
+    name: { en: "Urban Decay Naked Palette" },
+    description: { en: "The Urban Decay Naked palette set the standard for versatile everyday neutrals that genuinely perform." },
+    links: [
+      { network: "amazon-us", productId: "urban-decay-naked-palette", rawUrl: "https://www.amazon.com/s?k=eyeshadow%20palette%20urban%20decay%20naked%20palette", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "urban-decay-naked-palette", rawUrl: "https://www.amazon.co.jp/s?k=eyeshadow%20palette%20urban%20decay%20naked%20palette", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anastasia-soft-glam",
+    category: "beauty",
+    name: { en: "Anastasia Soft Glam" },
+    description: { en: "The Anastasia Soft Glam palette is the pick for polished, defined, glamorous eyes — the warm-neutral aesthetic that dominates wedding, event, and night-out makeup." },
+    links: [
+      { network: "amazon-us", productId: "anastasia-soft-glam", rawUrl: "https://www.amazon.com/s?k=eyeshadow%20palette%20anastasia%20soft%20glam", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "anastasia-soft-glam", rawUrl: "https://www.amazon.co.jp/s?k=eyeshadow%20palette%20anastasia%20soft%20glam", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "huda-beauty-rose-gold",
+    category: "beauty",
+    name: { en: "Huda Beauty Rose Gold" },
+    description: { en: "The Huda Beauty Rose Gold palette is the pick for intense colour and dramatic, statement looks." },
+    links: [
+      { network: "amazon-us", productId: "huda-beauty-rose-gold", rawUrl: "https://www.amazon.com/s?k=eyeshadow%20palette%20huda%20beauty%20rose%20gold", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "huda-beauty-rose-gold", rawUrl: "https://www.amazon.co.jp/s?k=eyeshadow%20palette%20huda%20beauty%20rose%20gold", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "natasha-denona-mini",
+    category: "beauty",
+    name: { en: "Natasha Denona Mini" },
+    description: { en: "The Natasha Denona Mini palette offers the brand's legendary formula in an accessible, smaller format." },
+    links: [
+      { network: "amazon-us", productId: "natasha-denona-mini", rawUrl: "https://www.amazon.com/s?k=eyeshadow%20palette%20natasha%20denona%20mini", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "natasha-denona-mini", rawUrl: "https://www.amazon.co.jp/s?k=eyeshadow%20palette%20natasha%20denona%20mini", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "colourpop-going-coconuts",
+    category: "beauty",
+    name: { en: "Colourpop Going Coconuts" },
+    description: { en: "The ColourPop Going Coconuts palette is the budget champion that punches absurdly above its price." },
+    links: [
+      { network: "amazon-us", productId: "colourpop-going-coconuts", rawUrl: "https://www.amazon.com/s?k=eyeshadow%20palette%20colourpop%20going%20coconuts", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "colourpop-going-coconuts", rawUrl: "https://www.amazon.co.jp/s?k=eyeshadow%20palette%20colourpop%20going%20coconuts", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nanosteamer-3-in-1",
+    category: "beauty",
+    name: { en: "Nanosteamer 3 In 1" },
+    description: { en: "The NanoSteamer 3-in-1 pairs effective nano-ionic steam with genuine versatility at a fair price." },
+    links: [
+      { network: "amazon-us", productId: "nanosteamer-3-in-1", rawUrl: "https://www.amazon.com/s?k=facial%20steamer%20nanosteamer%203%20in%201", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "nanosteamer-3-in-1", rawUrl: "https://www.amazon.co.jp/s?k=facial%20steamer%20nanosteamer%203%20in%201", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "vanity-planet-aira",
+    category: "beauty",
+    name: { en: "Vanity Planet Aira" },
+    description: { en: "The Vanity Planet Aira is the pick for an attractive, well-designed nano-ionic steamer that looks good on a counter and is pleasant to use." },
+    links: [
+      { network: "amazon-us", productId: "vanity-planet-aira", rawUrl: "https://www.amazon.com/s?k=facial%20steamer%20vanity%20planet%20aira", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "vanity-planet-aira", rawUrl: "https://www.amazon.co.jp/s?k=facial%20steamer%20vanity%20planet%20aira", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dr-dennis-gross-pro-steamer",
+    category: "beauty",
+    name: { en: "Dr Dennis Gross Pro Steamer" },
+    description: { en: "The Dr Dennis Gross Pro Facial Steamer is the premium, dermatologist-brand pick for the most refined, spa-grade experience." },
+    links: [
+      { network: "amazon-us", productId: "dr-dennis-gross-pro-steamer", rawUrl: "https://www.amazon.com/s?k=facial%20steamer%20dr%20dennis%20gross%20pro%20steamer", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dr-dennis-gross-pro-steamer", rawUrl: "https://www.amazon.co.jp/s?k=facial%20steamer%20dr%20dennis%20gross%20pro%20steamer", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pure-daily-care-nano-ionic",
+    category: "beauty",
+    name: { en: "Pure Daily Care Nano Ionic" },
+    description: { en: "The Pure Daily Care Nano Ionic steamer is a strong value alternative to the NanoSteamer, with a very similar nano-ionic approach, fast heat-up, a good run time, and often a bundle…" },
+    links: [
+      { network: "amazon-us", productId: "pure-daily-care-nano-ionic", rawUrl: "https://www.amazon.com/s?k=facial%20steamer%20pure%20daily%20care%20nano%20ionic", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "pure-daily-care-nano-ionic", rawUrl: "https://www.amazon.co.jp/s?k=facial%20steamer%20pure%20daily%20care%20nano%20ionic", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kingdomcares-warm-mist-steamer",
+    category: "beauty",
+    name: { en: "Kingdomcares Warm Mist Steamer" },
+    description: { en: "The KingdomCares Warm Mist Steamer represents the simple, low-cost end — a basic warm-mist facial steamer that delivers a pleasant hydrating steam at a low price without nano-ioni…" },
+    links: [
+      { network: "amazon-us", productId: "kingdomcares-warm-mist-steamer", rawUrl: "https://www.amazon.com/s?k=facial%20steamer%20kingdomcares%20warm%20mist%20steamer", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kingdomcares-warm-mist-steamer", rawUrl: "https://www.amazon.co.jp/s?k=facial%20steamer%20kingdomcares%20warm%20mist%20steamer", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "patagonia-better-sweater",
+    category: "fashion",
+    name: { en: "Patagonia Better Sweater" },
+    description: { en: "The Patagonia Better Sweater nails the balance of warmth, style, durability, and versatility — and looks good enough to wear as an everyday jacket, not just on a hike." },
+    links: [
+      { network: "amazon-us", productId: "patagonia-better-sweater", rawUrl: "https://www.amazon.com/s?k=fleece%20jacket%20patagonia%20better%20sweater", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "patagonia-better-sweater", rawUrl: "https://www.amazon.co.jp/s?k=fleece%20jacket%20patagonia%20better%20sweater", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "the-north-face-denali",
+    category: "fashion",
+    name: { en: "The North Face Denali" },
+    description: { en: "The North Face Denali is the warmest, most rugged pick — a thick, dense fleece jacket built for serious cold and hard wear." },
+    links: [
+      { network: "amazon-us", productId: "the-north-face-denali", rawUrl: "https://www.amazon.com/s?k=fleece%20jacket%20the%20north%20face%20denali", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "the-north-face-denali", rawUrl: "https://www.amazon.co.jp/s?k=fleece%20jacket%20the%20north%20face%20denali", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "columbia-steens-mountain",
+    category: "fashion",
+    name: { en: "Columbia Steens Mountain" },
+    description: { en: "The Columbia Steens Mountain is the value workhorse — a soft, warm, comfortable everyday fleece at a fraction of premium prices, and a perennial best-seller." },
+    links: [
+      { network: "amazon-us", productId: "columbia-steens-mountain", rawUrl: "https://www.amazon.com/s?k=fleece%20jacket%20columbia%20steens%20mountain", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "columbia-steens-mountain", rawUrl: "https://www.amazon.co.jp/s?k=fleece%20jacket%20columbia%20steens%20mountain", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "l-l-bean-sherpa-fleece",
+    category: "fashion",
+    name: { en: "L L Bean Sherpa Fleece" },
+    description: { en: "The L.L.Bean Sherpa Fleece is the cosy, comfortable classic for someone who wants maximum softness and that plush teddy-bear feel for casual, everyday warmth." },
+    links: [
+      { network: "amazon-us", productId: "l-l-bean-sherpa-fleece", rawUrl: "https://www.amazon.com/s?k=fleece%20jacket%20l%20l%20bean%20sherpa%20fleece", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "l-l-bean-sherpa-fleece", rawUrl: "https://www.amazon.co.jp/s?k=fleece%20jacket%20l%20l%20bean%20sherpa%20fleece", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kuhl-alfpaca-fleece",
+    category: "fashion",
+    name: { en: "Kuhl Alfpaca Fleece" },
+    description: { en: "The Kühl Alfpaca is the premium technical-and-stylish pick for someone who wants standout fabric, a flattering fit, and a more design-forward look." },
+    links: [
+      { network: "amazon-us", productId: "kuhl-alfpaca-fleece", rawUrl: "https://www.amazon.com/s?k=fleece%20jacket%20kuhl%20alfpaca%20fleece", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kuhl-alfpaca-fleece", rawUrl: "https://www.amazon.co.jp/s?k=fleece%20jacket%20kuhl%20alfpaca%20fleece", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wacom-intuos-pro",
+    category: "tech",
+    name: { en: "Wacom Intuos Pro" },
+    description: { en: "The Wacom Intuos Pro is the best screenless tablet and the professional standard." },
+    links: [
+      { network: "amazon-us", productId: "wacom-intuos-pro", rawUrl: "https://www.amazon.com/s?k=graphics%20tablet%20wacom%20intuos%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "wacom-intuos-pro", rawUrl: "https://www.amazon.co.jp/s?k=graphics%20tablet%20wacom%20intuos%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "xp-pen-deco-pro",
+    category: "tech",
+    name: { en: "Xp Pen Deco Pro" },
+    description: { en: "The XP-Pen Deco Pro delivers most of the Wacom screenless experience for a fraction of the price." },
+    links: [
+      { network: "amazon-us", productId: "xp-pen-deco-pro", rawUrl: "https://www.amazon.com/s?k=graphics%20tablet%20xp%20pen%20deco%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "xp-pen-deco-pro", rawUrl: "https://www.amazon.co.jp/s?k=graphics%20tablet%20xp%20pen%20deco%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "huion-kamvas-13",
+    category: "tech",
+    name: { en: "Huion Kamvas 13" },
+    description: { en: "The Huion Kamvas 13 is the best value way to draw directly on a screen — a pen display where the image appears on the tablet itself, so you draw right onto your artwork like paper…" },
+    links: [
+      { network: "amazon-us", productId: "huion-kamvas-13", rawUrl: "https://www.amazon.com/s?k=graphics%20tablet%20huion%20kamvas%2013", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "huion-kamvas-13", rawUrl: "https://www.amazon.co.jp/s?k=graphics%20tablet%20huion%20kamvas%2013", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wacom-one-12",
+    category: "tech",
+    name: { en: "Wacom One 12" },
+    description: { en: "The Wacom One 12 is the entry point into Wacom's pen displays — a 12-inch screen tablet bringing Wacom's trusted pen technology, driver reliability, and build quality to direct-on…" },
+    links: [
+      { network: "amazon-us", productId: "wacom-one-12", rawUrl: "https://www.amazon.com/s?k=graphics%20tablet%20wacom%20one%2012", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "wacom-one-12", rawUrl: "https://www.amazon.co.jp/s?k=graphics%20tablet%20wacom%20one%2012", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gaomon-m10k",
+    category: "tech",
+    name: { en: "Gaomon M10k" },
+    description: { en: "The GAOMON M10K is the rock-bottom budget pick — a large screenless pen pad with surprisingly capable specs (high pressure sensitivity, tilt on many models, a generous active area…" },
+    links: [
+      { network: "amazon-us", productId: "gaomon-m10k", rawUrl: "https://www.amazon.com/s?k=graphics%20tablet%20gaomon%20m10k", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "gaomon-m10k", rawUrl: "https://www.amazon.co.jp/s?k=graphics%20tablet%20gaomon%20m10k", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "braun-silk-expert-pro-5",
+    category: "beauty",
+    name: { en: "Braun Silk Expert Pro 5" },
+    description: { en: "The Braun Silk-expert Pro 5 pairs fast, reliable results with the smartest safety system." },
+    links: [
+      { network: "amazon-us", productId: "braun-silk-expert-pro-5", rawUrl: "https://www.amazon.com/s?k=ipl%20hair%20removal%20braun%20silk%20expert%20pro%205", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "braun-silk-expert-pro-5", rawUrl: "https://www.amazon.co.jp/s?k=ipl%20hair%20removal%20braun%20silk%20expert%20pro%205", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "philips-lumea-prestige",
+    category: "beauty",
+    name: { en: "Philips Lumea Prestige" },
+    description: { en: "The Philips Lumea Prestige is the Braun's closest rival and the other premium heavyweight." },
+    links: [
+      { network: "amazon-us", productId: "philips-lumea-prestige", rawUrl: "https://www.amazon.com/s?k=ipl%20hair%20removal%20philips%20lumea%20prestige", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "philips-lumea-prestige", rawUrl: "https://www.amazon.co.jp/s?k=ipl%20hair%20removal%20philips%20lumea%20prestige", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ulike-air-3-ipl",
+    category: "beauty",
+    name: { en: "Ulike Air 3 Ipl" },
+    description: { en: "The Ulike Air 3 competes on speed and comfort." },
+    links: [
+      { network: "amazon-us", productId: "ulike-air-3-ipl", rawUrl: "https://www.amazon.com/s?k=ipl%20hair%20removal%20ulike%20air%203%20ipl", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ulike-air-3-ipl", rawUrl: "https://www.amazon.co.jp/s?k=ipl%20hair%20removal%20ulike%20air%203%20ipl", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tria-hair-removal-laser-4x",
+    category: "beauty",
+    name: { en: "Tria Hair Removal Laser 4x" },
+    description: { en: "The Tria Hair Removal Laser 4X is the outlier because it uses an actual diode laser rather than IPL." },
+    links: [
+      { network: "amazon-us", productId: "tria-hair-removal-laser-4x", rawUrl: "https://www.amazon.com/s?k=ipl%20hair%20removal%20tria%20hair%20removal%20laser%204x", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "tria-hair-removal-laser-4x", rawUrl: "https://www.amazon.co.jp/s?k=ipl%20hair%20removal%20tria%20hair%20removal%20laser%204x", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nood-the-flasher-2-0",
+    category: "beauty",
+    name: { en: "Nood The Flasher 2 0" },
+    description: { en: "The Nood The Flasher 2.0 is the value and simplicity pick — a clean, minimalist IPL device with unlimited flashes (no cartridge to replace), a straightforward design, and an acces…" },
+    links: [
+      { network: "amazon-us", productId: "nood-the-flasher-2-0", rawUrl: "https://www.amazon.com/s?k=ipl%20hair%20removal%20nood%20the%20flasher%202%200", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "nood-the-flasher-2-0", rawUrl: "https://www.amazon.co.jp/s?k=ipl%20hair%20removal%20nood%20the%20flasher%202%200", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "puro-bt2200s-kids",
+    category: "parenting",
+    name: { en: "Puro Bt2200s Kids" },
+    description: { en: "The Puro BT2200s takes hearing protection seriously without compromising sound." },
+    links: [
+      { network: "amazon-us", productId: "puro-bt2200s-kids", rawUrl: "https://www.amazon.com/s?k=kids%20headphones%20puro%20bt2200s%20kids", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "puro-bt2200s-kids", rawUrl: "https://www.amazon.co.jp/s?k=kids%20headphones%20puro%20bt2200s%20kids", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lilgadgets-untangled-pro",
+    category: "parenting",
+    name: { en: "Lilgadgets Untangled Pro" },
+    description: { en: "The LilGadgets Untangled Pro is the family-and-sharing pick — a wireless kids' headphone with volume limiting in the safe range, a comfortable padded fit for small heads, and its…" },
+    links: [
+      { network: "amazon-us", productId: "lilgadgets-untangled-pro", rawUrl: "https://www.amazon.com/s?k=kids%20headphones%20lilgadgets%20untangled%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "lilgadgets-untangled-pro", rawUrl: "https://www.amazon.co.jp/s?k=kids%20headphones%20lilgadgets%20untangled%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jbl-jr310bt-kids",
+    category: "parenting",
+    name: { en: "Jbl Jr310bt Kids" },
+    description: { en: "The JBL JR310 is the value champion and the sensible default for most families — an affordable, durable kids' headphone with a safe ~85 dB limit and JBL's reliable safe-sound tuni…" },
+    links: [
+      { network: "amazon-us", productId: "jbl-jr310bt-kids", rawUrl: "https://www.amazon.com/s?k=kids%20headphones%20jbl%20jr310bt%20kids", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "jbl-jr310bt-kids", rawUrl: "https://www.amazon.co.jp/s?k=kids%20headphones%20jbl%20jr310bt%20kids", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "philips-kids-wireless-headphones",
+    category: "parenting",
+    name: { en: "Philips Kids Wireless Headphones" },
+    description: { en: "The Philips Kids Wireless Headphones are the reliable mainstream pick from a trusted electronics brand." },
+    links: [
+      { network: "amazon-us", productId: "philips-kids-wireless-headphones", rawUrl: "https://www.amazon.com/s?k=philips%20kids%20wireless%20headphones", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "philips-kids-wireless-headphones", rawUrl: "https://www.amazon.co.jp/s?k=philips%20kids%20wireless%20headphones", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "belkin-soundform-mini-kids",
+    category: "parenting",
+    name: { en: "Belkin Soundform Mini Kids" },
+    description: { en: "The Belkin SoundForm Mini is the pick for younger children and smaller heads." },
+    links: [
+      { network: "amazon-us", productId: "belkin-soundform-mini-kids", rawUrl: "https://www.amazon.com/s?k=kids%20headphones%20belkin%20soundform%20mini%20kids", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "belkin-soundform-mini-kids", rawUrl: "https://www.amazon.co.jp/s?k=kids%20headphones%20belkin%20soundform%20mini%20kids", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "brother-p-touch-cube-plus",
+    category: "tech",
+    name: { en: "Brother P Touch Cube Plus" },
+    description: { en: "The Brother P-touch Cube Plus combines phone-app convenience with the durability of Brother's proven laminated TZe tape." },
+    links: [
+      { network: "amazon-us", productId: "brother-p-touch-cube-plus", rawUrl: "https://www.amazon.com/s?k=label%20maker%20brother%20p%20touch%20cube%20plus", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "brother-p-touch-cube-plus", rawUrl: "https://www.amazon.co.jp/s?k=label%20maker%20brother%20p%20touch%20cube%20plus", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dymo-labelmanager-160",
+    category: "tech",
+    name: { en: "Dymo Labelmanager 160" },
+    description: { en: "The DYMO LabelManager 160 is the pick for a simple, self-contained handheld with a built-in keyboard and no app required." },
+    links: [
+      { network: "amazon-us", productId: "dymo-labelmanager-160", rawUrl: "https://www.amazon.com/s?k=label%20maker%20dymo%20labelmanager%20160", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dymo-labelmanager-160", rawUrl: "https://www.amazon.co.jp/s?k=label%20maker%20dymo%20labelmanager%20160", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "niimbot-d110",
+    category: "tech",
+    name: { en: "Niimbot D110" },
+    description: { en: "The NIIMBOT D110 is the trendy, ultra-portable thermal label maker that became hugely popular for home organisation, and its big appeal is no ink and no expensive cartridges." },
+    links: [
+      { network: "amazon-us", productId: "niimbot-d110", rawUrl: "https://www.amazon.com/s?k=label%20maker%20niimbot%20d110", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "niimbot-d110", rawUrl: "https://www.amazon.co.jp/s?k=label%20maker%20niimbot%20d110", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "brother-pt-d610bt",
+    category: "tech",
+    name: { en: "Brother Pt D610bt" },
+    description: { en: "The Brother PT-D610BT is the connected upgrade offering both a built-in keyboard and phone-app design in one device." },
+    links: [
+      { network: "amazon-us", productId: "brother-pt-d610bt", rawUrl: "https://www.amazon.com/s?k=label%20maker%20brother%20pt%20d610bt", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "brother-pt-d610bt", rawUrl: "https://www.amazon.co.jp/s?k=label%20maker%20brother%20pt%20d610bt", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dymo-letratag-200b",
+    category: "tech",
+    name: { en: "Dymo Letratag 200b" },
+    description: { en: "The DYMO LetraTag 200B is the budget basic pick — an affordable, simple Bluetooth label maker for light home use." },
+    links: [
+      { network: "amazon-us", productId: "dymo-letratag-200b", rawUrl: "https://www.amazon.com/s?k=label%20maker%20dymo%20letratag%20200b", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dymo-letratag-200b", rawUrl: "https://www.amazon.co.jp/s?k=label%20maker%20dymo%20letratag%20200b", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "charlotte-tilbury-pillow-talk",
+    category: "beauty",
+    name: { en: "Charlotte Tilbury Pillow Talk" },
+    description: { en: "The Charlotte Tilbury Matte Revolution in Pillow Talk solves the matte-versus-comfort problem better than almost anything — a sophisticated soft-matte finish that doesn't dry out…" },
+    links: [
+      { network: "amazon-us", productId: "charlotte-tilbury-pillow-talk", rawUrl: "https://www.amazon.com/s?k=lipstick%20charlotte%20tilbury%20pillow%20talk", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "charlotte-tilbury-pillow-talk", rawUrl: "https://www.amazon.co.jp/s?k=lipstick%20charlotte%20tilbury%20pillow%20talk", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mac-matte-lipstick",
+    category: "beauty",
+    name: { en: "Mac Matte Lipstick" },
+    description: { en: "The MAC Matte Lipstick is the industry icon and the pick for the widest shade range and proven, professional-grade colour." },
+    links: [
+      { network: "amazon-us", productId: "mac-matte-lipstick", rawUrl: "https://www.amazon.com/s?k=mac%20matte%20lipstick", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "mac-matte-lipstick", rawUrl: "https://www.amazon.co.jp/s?k=mac%20matte%20lipstick", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fenty-stunna-lip-paint",
+    category: "beauty",
+    name: { en: "Fenty Stunna Lip Paint" },
+    description: { en: "The Fenty Beauty Stunna Lip Paint is the pick for bold, high-impact colour with long wear that's more comfortable than most liquid mattes." },
+    links: [
+      { network: "amazon-us", productId: "fenty-stunna-lip-paint", rawUrl: "https://www.amazon.com/s?k=lipstick%20fenty%20stunna%20lip%20paint", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "fenty-stunna-lip-paint", rawUrl: "https://www.amazon.co.jp/s?k=lipstick%20fenty%20stunna%20lip%20paint", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "maybelline-superstay-matte-ink",
+    category: "beauty",
+    name: { en: "Maybelline Superstay Matte Ink" },
+    description: { en: "The Maybelline SuperStay Matte Ink is the longevity champion and the best value, period." },
+    links: [
+      { network: "amazon-us", productId: "maybelline-superstay-matte-ink", rawUrl: "https://www.amazon.com/s?k=lipstick%20maybelline%20superstay%20matte%20ink", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "maybelline-superstay-matte-ink", rawUrl: "https://www.amazon.co.jp/s?k=lipstick%20maybelline%20superstay%20matte%20ink", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nars-audacious-lipstick",
+    category: "beauty",
+    name: { en: "Nars Audacious Lipstick" },
+    description: { en: "The NARS Audacious Lipstick is the luxury satin pick for someone who prioritises a comfortable, creamy, moisturising feel and a refined satin finish over flat matte or maximum lon…" },
+    links: [
+      { network: "amazon-us", productId: "nars-audacious-lipstick", rawUrl: "https://www.amazon.com/s?k=nars%20audacious%20lipstick", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "nars-audacious-lipstick", rawUrl: "https://www.amazon.co.jp/s?k=nars%20audacious%20lipstick", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "real-techniques-everyday-essentials",
+    category: "beauty",
+    name: { en: "Real Techniques Everyday Essentials" },
+    description: { en: "The Real Techniques Everyday Essentials set gives you exactly the brushes you use — and nothing you don't — at a genuinely affordable price." },
+    links: [
+      { network: "amazon-us", productId: "real-techniques-everyday-essentials", rawUrl: "https://www.amazon.com/s?k=makeup%20brushes%20real%20techniques%20everyday%20essentials", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "real-techniques-everyday-essentials", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20brushes%20real%20techniques%20everyday%20essentials", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sigma-essential-brush-kit",
+    category: "beauty",
+    name: { en: "Sigma Essential Brush Kit" },
+    description: { en: "The Sigma Essential Brush Kit is for enthusiasts and professionals who want premium, durable brushes that last for years." },
+    links: [
+      { network: "amazon-us", productId: "sigma-essential-brush-kit", rawUrl: "https://www.amazon.com/s?k=makeup%20brushes%20sigma%20essential%20brush%20kit", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "sigma-essential-brush-kit", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20brushes%20sigma%20essential%20brush%20kit", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "morphe-set-561",
+    category: "beauty",
+    name: { en: "Morphe Set 561" },
+    description: { en: "The Morphe Set 561 is the high-count, high-value pick beloved for getting a large number of brushes for the money." },
+    links: [
+      { network: "amazon-us", productId: "morphe-set-561", rawUrl: "https://www.amazon.com/s?k=makeup%20brushes%20morphe%20set%20561", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "morphe-set-561", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20brushes%20morphe%20set%20561", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "eco-tools-starter-kit",
+    category: "beauty",
+    name: { en: "Eco Tools Starter Kit" },
+    description: { en: "The EcoTools Starter Kit is the eco-conscious and gentle pick." },
+    links: [
+      { network: "amazon-us", productId: "eco-tools-starter-kit", rawUrl: "https://www.amazon.com/s?k=makeup%20brushes%20eco%20tools%20starter%20kit", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "eco-tools-starter-kit", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20brushes%20eco%20tools%20starter%20kit", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bs-mall-brush-set",
+    category: "beauty",
+    name: { en: "Bs Mall Brush Set" },
+    description: { en: "The BS-MALL Brush Set is the maximum-quantity budget bundle — typically a large set of 14 or more brushes at a remarkably low price, in pretty marble or coloured handles." },
+    links: [
+      { network: "amazon-us", productId: "bs-mall-brush-set", rawUrl: "https://www.amazon.com/s?k=makeup%20brushes%20bs%20mall%20brush%20set", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "bs-mall-brush-set", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20brushes%20bs%20mall%20brush%20set", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "simplehuman-sensor-mirror-pro",
+    category: "beauty",
+    name: { en: "Simplehuman Sensor Mirror Pro" },
+    description: { en: "The simplehuman Sensor Mirror Pro nails the thing that matters most: light accuracy." },
+    links: [
+      { network: "amazon-us", productId: "simplehuman-sensor-mirror-pro", rawUrl: "https://www.amazon.com/s?k=makeup%20mirror%20simplehuman%20sensor%20mirror%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "simplehuman-sensor-mirror-pro", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20mirror%20simplehuman%20sensor%20mirror%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fenchilin-hollywood-vanity-mirror",
+    category: "beauty",
+    name: { en: "Fenchilin Hollywood Vanity Mirror" },
+    description: { en: "The Fenchilin Hollywood Vanity Mirror delivers the glamorous, bulb-lined 'getting ready' look for a fraction of celebrity-mirror prices." },
+    links: [
+      { network: "amazon-us", productId: "fenchilin-hollywood-vanity-mirror", rawUrl: "https://www.amazon.com/s?k=makeup%20mirror%20fenchilin%20hollywood%20vanity%20mirror", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "fenchilin-hollywood-vanity-mirror", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20mirror%20fenchilin%20hollywood%20vanity%20mirror", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "conair-reflections-led-mirror",
+    category: "beauty",
+    name: { en: "Conair Reflections Led Mirror" },
+    description: { en: "The Conair Reflections LED Mirror is the reliable mid-range desktop pick — a double-sided mirror with a true-image side and a magnified side on a stand, ringed with even LED light…" },
+    links: [
+      { network: "amazon-us", productId: "conair-reflections-led-mirror", rawUrl: "https://www.amazon.com/s?k=makeup%20mirror%20conair%20reflections%20led%20mirror", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "conair-reflections-led-mirror", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20mirror%20conair%20reflections%20led%20mirror", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "deweisn-trifold-lighted-mirror",
+    category: "beauty",
+    name: { en: "Deweisn Trifold Lighted Mirror" },
+    description: { en: "The DeWeisn Trifold Lighted Mirror is the travel and detail-work specialist." },
+    links: [
+      { network: "amazon-us", productId: "deweisn-trifold-lighted-mirror", rawUrl: "https://www.amazon.com/s?k=makeup%20mirror%20deweisn%20trifold%20lighted%20mirror", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "deweisn-trifold-lighted-mirror", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20mirror%20deweisn%20trifold%20lighted%20mirror", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amiro-led-makeup-mirror",
+    category: "beauty",
+    name: { en: "Amiro Led Makeup Mirror" },
+    description: { en: "The Amiro LED Makeup Mirror is the modern smart-design pick, built around accurate, daylight-style LED lighting in a sleek minimalist frame, often with rechargeable operation, ste…" },
+    links: [
+      { network: "amazon-us", productId: "amiro-led-makeup-mirror", rawUrl: "https://www.amazon.com/s?k=amiro%20led%20makeup%20mirror", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "amiro-led-makeup-mirror", rawUrl: "https://www.amazon.co.jp/s?k=amiro%20led%20makeup%20mirror", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "saatva-organic-mattress-protector",
+    category: "home",
+    name: { en: "Saatva Organic Mattress Protector" },
+    description: { en: "The Saatva Organic Mattress Protector delivers genuine waterproof protection without the heat and noise that ruin cheap protectors." },
+    links: [
+      { network: "amazon-us", productId: "saatva-organic-mattress-protector", rawUrl: "https://www.amazon.com/s?k=saatva%20organic%20mattress%20protector", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "saatva-organic-mattress-protector", rawUrl: "https://www.amazon.co.jp/s?k=saatva%20organic%20mattress%20protector", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "coop-home-goods-protector",
+    category: "home",
+    name: { en: "Coop Home Goods Protector" },
+    description: { en: "The Coop Home Goods Mattress Protector is the well-rounded pick from a trusted sleep brand, balancing reliable waterproofing with breathability and a soft, quiet feel at a sensibl…" },
+    links: [
+      { network: "amazon-us", productId: "coop-home-goods-protector", rawUrl: "https://www.amazon.com/s?k=mattress%20protector%20coop%20home%20goods%20protector", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "coop-home-goods-protector", rawUrl: "https://www.amazon.co.jp/s?k=mattress%20protector%20coop%20home%20goods%20protector", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sureguard-mattress-protector",
+    category: "home",
+    name: { en: "Sureguard Mattress Protector" },
+    description: { en: "The SureGuard Mattress Protector (zippered encasement version) is the pick for maximum protection, especially against bed bugs, dust mites, and allergens." },
+    links: [
+      { network: "amazon-us", productId: "sureguard-mattress-protector", rawUrl: "https://www.amazon.com/s?k=sureguard%20mattress%20protector", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "sureguard-mattress-protector", rawUrl: "https://www.amazon.co.jp/s?k=sureguard%20mattress%20protector", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "linenspa-zippered-encasement",
+    category: "home",
+    name: { en: "Linenspa Zippered Encasement" },
+    description: { en: "The Linenspa Zippered Encasement is the budget champion — full six-sided zippered encasement protection at a notably low price." },
+    links: [
+      { network: "amazon-us", productId: "linenspa-zippered-encasement", rawUrl: "https://www.amazon.com/s?k=mattress%20protector%20linenspa%20zippered%20encasement", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "linenspa-zippered-encasement", rawUrl: "https://www.amazon.co.jp/s?k=mattress%20protector%20linenspa%20zippered%20encasement", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "slumbercloud-dryline-protector",
+    category: "home",
+    name: { en: "Slumbercloud Dryline Protector" },
+    description: { en: "The SlumberCloud Dryline Protector is the pick for hot sleepers, adding active temperature regulation to waterproof protection." },
+    links: [
+      { network: "amazon-us", productId: "slumbercloud-dryline-protector", rawUrl: "https://www.amazon.com/s?k=mattress%20protector%20slumbercloud%20dryline%20protector", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "slumbercloud-dryline-protector", rawUrl: "https://www.amazon.co.jp/s?k=mattress%20protector%20slumbercloud%20dryline%20protector", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "eero-pro-6e",
+    category: "tech",
+    name: { en: "Eero Pro 6e" },
+    description: { en: "The eero Pro 6E is the best mesh system for most homes, combining the easiest setup in the category with tri-band Wi-Fi 6E performance and a clutter-free design." },
+    links: [
+      { network: "amazon-us", productId: "eero-pro-6e", rawUrl: "https://www.amazon.com/s?k=mesh%20wifi%20system%20eero%20pro%206e", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "eero-pro-6e", rawUrl: "https://www.amazon.co.jp/s?k=mesh%20wifi%20system%20eero%20pro%206e", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tp-link-deco-xe75",
+    category: "tech",
+    name: { en: "Tp Link Deco Xe75" },
+    description: { en: "The TP-Link Deco XE75 is the value leader — a tri-band Wi-Fi 6E mesh that covers a large home for noticeably less than eero or Orbi, with a friendly app, easy setup, and multiple…" },
+    links: [
+      { network: "amazon-us", productId: "tp-link-deco-xe75", rawUrl: "https://www.amazon.com/s?k=mesh%20wifi%20system%20tp%20link%20deco%20xe75", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "tp-link-deco-xe75", rawUrl: "https://www.amazon.co.jp/s?k=mesh%20wifi%20system%20tp%20link%20deco%20xe75", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "netgear-orbi-rbk763s",
+    category: "tech",
+    name: { en: "Netgear Orbi Rbk763s" },
+    description: { en: "The Netgear Orbi RBK763S is the performance and coverage champion for big houses." },
+    links: [
+      { network: "amazon-us", productId: "netgear-orbi-rbk763s", rawUrl: "https://www.amazon.com/s?k=mesh%20wifi%20system%20netgear%20orbi%20rbk763s", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "netgear-orbi-rbk763s", rawUrl: "https://www.amazon.co.jp/s?k=mesh%20wifi%20system%20netgear%20orbi%20rbk763s", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "asus-zenwifi-xt9",
+    category: "tech",
+    name: { en: "Asus Zenwifi Xt9" },
+    description: { en: "The ASUS ZenWiFi XT9 is the enthusiast's mesh, running AiMesh firmware that exposes the deep controls the consumer-friendly systems hide — granular QoS, VPN server and client, det…" },
+    links: [
+      { network: "amazon-us", productId: "asus-zenwifi-xt9", rawUrl: "https://www.amazon.com/s?k=mesh%20wifi%20system%20asus%20zenwifi%20xt9", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "asus-zenwifi-xt9", rawUrl: "https://www.amazon.co.jp/s?k=mesh%20wifi%20system%20asus%20zenwifi%20xt9", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazon-eero-6-plus",
+    category: "tech",
+    name: { en: "Amazon Eero 6 Plus" },
+    description: { en: "The eero 6+ is the budget entry into the eero ecosystem — a dual-band Wi-Fi 6 system that brings the same effortless setup and seamless handoff to smaller homes and apartments for…" },
+    links: [
+      { network: "amazon-us", productId: "amazon-eero-6-plus", rawUrl: "https://www.amazon.com/s?k=mesh%20wifi%20system%20amazon%20eero%206%20plus", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "amazon-eero-6-plus", rawUrl: "https://www.amazon.co.jp/s?k=mesh%20wifi%20system%20amazon%20eero%206%20plus", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "toshiba-em131a5c",
+    category: "food",
+    name: { en: "Toshiba Em131a5c" },
+    description: { en: "The Toshiba EM131A5C delivers genuinely useful features at a mid-range price that's excellent value." },
+    links: [
+      { network: "amazon-us", productId: "toshiba-em131a5c", rawUrl: "https://www.amazon.com/s?k=microwave%20toshiba%20em131a5c", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "toshiba-em131a5c", rawUrl: "https://www.amazon.co.jp/s?k=microwave%20toshiba%20em131a5c", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-nn-sn966s-inverter",
+    category: "food",
+    name: { en: "Panasonic Nn Sn966s Inverter" },
+    description: { en: "The Panasonic NN-SN966S is the pick for even, gentle cooking and defrosting, because its inverter technology is a genuine functional upgrade." },
+    links: [
+      { network: "amazon-us", productId: "panasonic-nn-sn966s-inverter", rawUrl: "https://www.amazon.com/s?k=microwave%20panasonic%20nn%20sn966s%20inverter", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "panasonic-nn-sn966s-inverter", rawUrl: "https://www.amazon.co.jp/s?k=microwave%20panasonic%20nn%20sn966s%20inverter", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "breville-combi-wave-3-in-1",
+    category: "food",
+    name: { en: "Breville Combi Wave 3 In 1" },
+    description: { en: "The Breville Combi Wave 3-in-1 is the premium pick that replaces three appliances — a microwave, a convection oven, and an air fryer in one." },
+    links: [
+      { network: "amazon-us", productId: "breville-combi-wave-3-in-1", rawUrl: "https://www.amazon.com/s?k=microwave%20breville%20combi%20wave%203%20in%201", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "breville-combi-wave-3-in-1", rawUrl: "https://www.amazon.co.jp/s?k=microwave%20breville%20combi%20wave%203%20in%201", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ge-jes1072shss",
+    category: "food",
+    name: { en: "Ge Jes1072shss" },
+    description: { en: "The GE JES1072SHSS is the compact, space-saving pick for small kitchens, dorms, offices, and anywhere counter space is tight." },
+    links: [
+      { network: "amazon-us", productId: "ge-jes1072shss", rawUrl: "https://www.amazon.com/s?k=microwave%20ge%20jes1072shss", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ge-jes1072shss", rawUrl: "https://www.amazon.co.jp/s?k=microwave%20ge%20jes1072shss", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "commercial-chef-countertop",
+    category: "food",
+    name: { en: "Commercial Chef Countertop" },
+    description: { en: "The Commercial Chef Countertop is the rock-bottom budget pick — a basic, functional microwave at the lowest price for someone who just wants to reheat and defrost without spending…" },
+    links: [
+      { network: "amazon-us", productId: "commercial-chef-countertop", rawUrl: "https://www.amazon.com/s?k=microwave%20commercial%20chef%20countertop", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "commercial-chef-countertop", rawUrl: "https://www.amazon.co.jp/s?k=microwave%20commercial%20chef%20countertop", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "breville-milk-cafe",
+    category: "food",
+    name: { en: "Breville Milk Cafe" },
+    description: { en: "The Breville Milk Café is the best standalone frother because it makes genuine barista-quality microfoam — the silky, pourable milk for actual latte art — not the stiff, dry foam…" },
+    links: [
+      { network: "amazon-us", productId: "breville-milk-cafe", rawUrl: "https://www.amazon.com/s?k=milk%20frother%20breville%20milk%20cafe", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "breville-milk-cafe", rawUrl: "https://www.amazon.co.jp/s?k=milk%20frother%20breville%20milk%20cafe", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nespresso-aeroccino-4",
+    category: "food",
+    name: { en: "Nespresso Aeroccino 4" },
+    description: { en: "The Nespresso Aeroccino 4 is the pick for effortless one-touch frothing and the natural companion to a Nespresso machine." },
+    links: [
+      { network: "amazon-us", productId: "nespresso-aeroccino-4", rawUrl: "https://www.amazon.com/s?k=milk%20frother%20nespresso%20aeroccino%204", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "nespresso-aeroccino-4", rawUrl: "https://www.amazon.co.jp/s?k=milk%20frother%20nespresso%20aeroccino%204", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "secura-electric-milk-frother",
+    category: "food",
+    name: { en: "Secura Electric Milk Frother" },
+    description: { en: "The Secura Electric Milk Frother is the value automatic — it delivers one-touch hot dense foam, hot airy foam, hot milk, and cold froth like the Aeroccino at a noticeably lower pr…" },
+    links: [
+      { network: "amazon-us", productId: "secura-electric-milk-frother", rawUrl: "https://www.amazon.com/s?k=secura%20electric%20milk%20frother", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "secura-electric-milk-frother", rawUrl: "https://www.amazon.co.jp/s?k=secura%20electric%20milk%20frother", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zulay-handheld-milk-frother",
+    category: "food",
+    name: { en: "Zulay Handheld Milk Frother" },
+    description: { en: "The Zulay handheld milk frother is the $15 answer for minimalists and small spaces." },
+    links: [
+      { network: "amazon-us", productId: "zulay-handheld-milk-frother", rawUrl: "https://www.amazon.com/s?k=zulay%20handheld%20milk%20frother", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "zulay-handheld-milk-frother", rawUrl: "https://www.amazon.co.jp/s?k=zulay%20handheld%20milk%20frother", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "instant-milk-frother",
+    category: "food",
+    name: { en: "Instant Milk Frother" },
+    description: { en: "The Instant Milk Frother is a capable automatic alternative with hot and cold froth settings, a non-stick detachable jug, and dishwasher-safe parts on some models that make cleanu…" },
+    links: [
+      { network: "amazon-us", productId: "instant-milk-frother", rawUrl: "https://www.amazon.com/s?k=instant%20milk%20frother", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "instant-milk-frother", rawUrl: "https://www.amazon.co.jp/s?k=instant%20milk%20frother", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dash-hot-air-popper",
+    category: "food",
+    name: { en: "Dash Hot Air Popper" },
+    description: { en: "The Dash Hot Air Popcorn Maker makes genuinely healthy, oil-free popcorn quickly and simply, in a cute compact design at a low price." },
+    links: [
+      { network: "amazon-us", productId: "dash-hot-air-popper", rawUrl: "https://www.amazon.com/s?k=popcorn%20maker%20dash%20hot%20air%20popper", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dash-hot-air-popper", rawUrl: "https://www.amazon.co.jp/s?k=popcorn%20maker%20dash%20hot%20air%20popper", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "presto-poplite-air-popper",
+    category: "food",
+    name: { en: "Presto Poplite Air Popper" },
+    description: { en: "The Presto PopLite is the value hot-air popper and a long-standing best-seller — essentially the Dash's more capacious, proven cousin." },
+    links: [
+      { network: "amazon-us", productId: "presto-poplite-air-popper", rawUrl: "https://www.amazon.com/s?k=popcorn%20maker%20presto%20poplite%20air%20popper", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "presto-poplite-air-popper", rawUrl: "https://www.amazon.co.jp/s?k=popcorn%20maker%20presto%20poplite%20air%20popper", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-easypop",
+    category: "food",
+    name: { en: "Cuisinart Easypop" },
+    description: { en: "The easiest, lowest-footprint option in this space is a collapsible silicone microwave popcorn maker: a silicone bowl you add kernels to and pop directly in the microwave with lit…" },
+    links: [
+      { network: "amazon-us", productId: "cuisinart-easypop", rawUrl: "https://www.amazon.com/s?k=popcorn%20maker%20cuisinart%20easypop", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "cuisinart-easypop", rawUrl: "https://www.amazon.co.jp/s?k=popcorn%20maker%20cuisinart%20easypop", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "west-bend-stir-crazy",
+    category: "food",
+    name: { en: "West Bend Stir Crazy" },
+    description: { en: "The West Bend Stir Crazy is the oil-popping pick for that rich, movie-theatre flavour rather than healthy plainness." },
+    links: [
+      { network: "amazon-us", productId: "west-bend-stir-crazy", rawUrl: "https://www.amazon.com/s?k=popcorn%20maker%20west%20bend%20stir%20crazy", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "west-bend-stir-crazy", rawUrl: "https://www.amazon.co.jp/s?k=popcorn%20maker%20west%20bend%20stir%20crazy", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nostalgia-vintage-popcorn-cart",
+    category: "food",
+    name: { en: "Nostalgia Vintage Popcorn Cart" },
+    description: { en: "The Nostalgia Vintage Popcorn Cart is the retro statement pick for someone who wants the fun, the look, and the experience as much as the popcorn." },
+    links: [
+      { network: "amazon-us", productId: "nostalgia-vintage-popcorn-cart", rawUrl: "https://www.amazon.com/s?k=popcorn%20maker%20nostalgia%20vintage%20popcorn%20cart", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "nostalgia-vintage-popcorn-cart", rawUrl: "https://www.amazon.co.jp/s?k=popcorn%20maker%20nostalgia%20vintage%20popcorn%20cart", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "asus-zenscreen-mb16ahg",
+    category: "tech",
+    name: { en: "Asus Zenscreen Mb16ahg" },
+    description: { en: "The ASUS ZenScreen MB16AHG is the best all-round portable monitor because it gets the fundamentals right: a 15.6-inch 1080p IPS panel running at 144 Hz, powered and driven by a si…" },
+    links: [
+      { network: "amazon-us", productId: "asus-zenscreen-mb16ahg", rawUrl: "https://www.amazon.com/s?k=portable%20monitor%20asus%20zenscreen%20mb16ahg", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "asus-zenscreen-mb16ahg", rawUrl: "https://www.amazon.co.jp/s?k=portable%20monitor%20asus%20zenscreen%20mb16ahg", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "espresso-display-15-pro",
+    category: "tech",
+    name: { en: "Espresso Display 15 Pro" },
+    description: { en: "The espresso Display 15 Pro is the premium pick for the Apple ecosystem — an extraordinarily thin (~5.3 mm) aluminium glass touchscreen that matches a MacBook on a desk." },
+    links: [
+      { network: "amazon-us", productId: "espresso-display-15-pro", rawUrl: "https://www.amazon.com/s?k=portable%20monitor%20espresso%20display%2015%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "espresso-display-15-pro", rawUrl: "https://www.amazon.co.jp/s?k=portable%20monitor%20espresso%20display%2015%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lepow-c2s-15-6",
+    category: "tech",
+    name: { en: "Lepow C2s 15 6" },
+    description: { en: "The Lepow C2S 15.6-inch is the value benchmark at around $90–$120 — a 1080p IPS panel with two USB-C ports, mini-HDMI, a magnetic smart cover that props it up, and single-cable US…" },
+    links: [
+      { network: "amazon-us", productId: "lepow-c2s-15-6", rawUrl: "https://www.amazon.com/s?k=portable%20monitor%20lepow%20c2s%2015%206", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "lepow-c2s-15-6", rawUrl: "https://www.amazon.co.jp/s?k=portable%20monitor%20lepow%20c2s%2015%206", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "viewsonic-td1655",
+    category: "tech",
+    name: { en: "Viewsonic Td1655" },
+    description: { en: "The ViewSonic TD1655 is the pick when you want touch without paying espresso money — a 15.6-inch 1080p 10-point capacitive touchscreen with a built-in folding stand, dual USB-C, m…" },
+    links: [
+      { network: "amazon-us", productId: "viewsonic-td1655", rawUrl: "https://www.amazon.com/s?k=portable%20monitor%20viewsonic%20td1655", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "viewsonic-td1655", rawUrl: "https://www.amazon.co.jp/s?k=portable%20monitor%20viewsonic%20td1655", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "uperfect-uplays-x-pro",
+    category: "tech",
+    name: { en: "Uperfect Uplays X Pro" },
+    description: { en: "The UPERFECT UPlays X Pro is a feature-packed value alternative whose standout is a built-in adjustable kickstand — you tilt it to any angle without fishing out a magnetic cover,…" },
+    links: [
+      { network: "amazon-us", productId: "uperfect-uplays-x-pro", rawUrl: "https://www.amazon.com/s?k=portable%20monitor%20uperfect%20uplays%20x%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "uperfect-uplays-x-pro", rawUrl: "https://www.amazon.co.jp/s?k=portable%20monitor%20uperfect%20uplays%20x%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jackery-explorer-1000-v2",
+    category: "tech",
+    name: { en: "Jackery Explorer 1000 V2" },
+    description: { en: "The Jackery Explorer 1000 v2 pairs the right capacity for most people with modern LiFePO4 chemistry, fast charging, and Jackery's reliability." },
+    links: [
+      { network: "amazon-us", productId: "jackery-explorer-1000-v2", rawUrl: "https://www.amazon.com/s?k=portable%20power%20station%20jackery%20explorer%201000%20v2", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "jackery-explorer-1000-v2", rawUrl: "https://www.amazon.co.jp/s?k=portable%20power%20station%20jackery%20explorer%201000%20v2", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ecoflow-river-3-plus",
+    category: "tech",
+    name: { en: "Ecoflow River 3 Plus" },
+    description: { en: "The EcoFlow River 3 Plus is the pick when recharge speed and portability matter most." },
+    links: [
+      { network: "amazon-us", productId: "ecoflow-river-3-plus", rawUrl: "https://www.amazon.com/s?k=portable%20power%20station%20ecoflow%20river%203%20plus", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ecoflow-river-3-plus", rawUrl: "https://www.amazon.co.jp/s?k=portable%20power%20station%20ecoflow%20river%203%20plus", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bluetti-ac180",
+    category: "tech",
+    name: { en: "Bluetti Ac180" },
+    description: { en: "The Bluetti AC180 is the big-capacity value pick, offering more power for the money." },
+    links: [
+      { network: "amazon-us", productId: "bluetti-ac180", rawUrl: "https://www.amazon.com/s?k=portable%20power%20station%20bluetti%20ac180", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "bluetti-ac180", rawUrl: "https://www.amazon.co.jp/s?k=portable%20power%20station%20bluetti%20ac180", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anker-solix-c1000",
+    category: "tech",
+    name: { en: "Anker Solix C1000" },
+    description: { en: "The Anker SOLIX C1000 is the pick for serious home backup and high-power needs — large 1,000Wh+ capacity, exceptionally high ~1,800W continuous output with a SurgePad feature that…" },
+    links: [
+      { network: "amazon-us", productId: "anker-solix-c1000", rawUrl: "https://www.amazon.com/s?k=portable%20power%20station%20anker%20solix%20c1000", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "anker-solix-c1000", rawUrl: "https://www.amazon.co.jp/s?k=portable%20power%20station%20anker%20solix%20c1000", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "goal-zero-yeti-500",
+    category: "tech",
+    name: { en: "Goal Zero Yeti 500" },
+    description: { en: "The Goal Zero Yeti 500 is the rugged, trusted classic for portable, outdoor-focused use at a moderate capacity." },
+    links: [
+      { network: "amazon-us", productId: "goal-zero-yeti-500", rawUrl: "https://www.amazon.com/s?k=portable%20power%20station%20goal%20zero%20yeti%20500", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "goal-zero-yeti-500", rawUrl: "https://www.amazon.co.jp/s?k=portable%20power%20station%20goal%20zero%20yeti%20500", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hunter-original-tall",
+    category: "fashion",
+    name: { en: "Hunter Original Tall" },
+    description: { en: "The Hunter Original Tall combines genuine, reliable waterproofing with the iconic, versatile style that's made it a staple for decades." },
+    links: [
+      { network: "amazon-us", productId: "hunter-original-tall", rawUrl: "https://www.amazon.com/s?k=rain%20boots%20hunter%20original%20tall", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "hunter-original-tall", rawUrl: "https://www.amazon.co.jp/s?k=rain%20boots%20hunter%20original%20tall", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bogs-classic-high",
+    category: "fashion",
+    name: { en: "Bogs Classic High" },
+    description: { en: "The Bogs Classic High is the pick when warmth and serious cold-and-wet conditions matter most." },
+    links: [
+      { network: "amazon-us", productId: "bogs-classic-high", rawUrl: "https://www.amazon.com/s?k=rain%20boots%20bogs%20classic%20high", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "bogs-classic-high", rawUrl: "https://www.amazon.co.jp/s?k=rain%20boots%20bogs%20classic%20high", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kamik-heidi",
+    category: "fashion",
+    name: { en: "Kamik Heidi" },
+    description: { en: "The Kamik Heidi is the value champion — a genuinely good, fully waterproof rain boot at a notably lower price than the iconic brands, from a company that's made weather boots for…" },
+    links: [
+      { network: "amazon-us", productId: "kamik-heidi", rawUrl: "https://www.amazon.com/s?k=rain%20boots%20kamik%20heidi", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kamik-heidi", rawUrl: "https://www.amazon.co.jp/s?k=rain%20boots%20kamik%20heidi", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "joules-molly-welly",
+    category: "fashion",
+    name: { en: "Joules Molly Welly" },
+    description: { en: "The Joules Molly Welly is the pick for style and personality — Joules is famous for cheerful, colourful, often floral or patterned rain boots that bring a bit of joy to a grey day." },
+    links: [
+      { network: "amazon-us", productId: "joules-molly-welly", rawUrl: "https://www.amazon.com/s?k=rain%20boots%20joules%20molly%20welly", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "joules-molly-welly", rawUrl: "https://www.amazon.co.jp/s?k=rain%20boots%20joules%20molly%20welly", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "xtratuf-legacy-deck-boot",
+    category: "fashion",
+    name: { en: "Xtratuf Legacy Deck Boot" },
+    description: { en: "The Xtratuf Legacy is the rugged, no-nonsense performance boot with serious heritage — originally built for Alaskan fishermen and deckhands, it's renowned for outstanding wet grip." },
+    links: [
+      { network: "amazon-us", productId: "xtratuf-legacy-deck-boot", rawUrl: "https://www.amazon.com/s?k=rain%20boots%20xtratuf%20legacy%20deck%20boot", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "xtratuf-legacy-deck-boot", rawUrl: "https://www.amazon.co.jp/s?k=rain%20boots%20xtratuf%20legacy%20deck%20boot", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "arcteryx-beta-jacket",
+    category: "fashion",
+    name: { en: "Arcteryx Beta Jacket" },
+    description: { en: "The Arc'teryx Beta is the highest-performing all-round hardshell here and the choice if you'll use it hard." },
+    links: [
+      { network: "amazon-us", productId: "arcteryx-beta-jacket", rawUrl: "https://www.amazon.com/s?k=rain%20jacket%20arcteryx%20beta%20jacket", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "arcteryx-beta-jacket", rawUrl: "https://www.amazon.co.jp/s?k=rain%20jacket%20arcteryx%20beta%20jacket", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "patagonia-torrentshell-3l",
+    category: "fashion",
+    name: { en: "Patagonia Torrentshell 3l" },
+    description: { en: "The Patagonia Torrentshell 3L is the rain jacket most people should buy." },
+    links: [
+      { network: "amazon-us", productId: "patagonia-torrentshell-3l", rawUrl: "https://www.amazon.com/s?k=rain%20jacket%20patagonia%20torrentshell%203l", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "patagonia-torrentshell-3l", rawUrl: "https://www.amazon.co.jp/s?k=rain%20jacket%20patagonia%20torrentshell%203l", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "columbia-watertight-ii",
+    category: "fashion",
+    name: { en: "Columbia Watertight Ii" },
+    description: { en: "The Columbia Watertight II punches above its price — a 2-layer Omni-Tech jacket with sealed seams, typically around $100 or less, that keeps you dry well for everyday rain: commut…" },
+    links: [
+      { network: "amazon-us", productId: "columbia-watertight-ii", rawUrl: "https://www.amazon.com/s?k=rain%20jacket%20columbia%20watertight%20ii", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "columbia-watertight-ii", rawUrl: "https://www.amazon.co.jp/s?k=rain%20jacket%20columbia%20watertight%20ii", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "marmot-precip-eco",
+    category: "fashion",
+    name: { en: "Marmot Precip Eco" },
+    description: { en: "The Marmot PreCip Eco is the lightweight, packable favourite and a long-time value classic." },
+    links: [
+      { network: "amazon-us", productId: "marmot-precip-eco", rawUrl: "https://www.amazon.com/s?k=rain%20jacket%20marmot%20precip%20eco", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "marmot-precip-eco", rawUrl: "https://www.amazon.co.jp/s?k=rain%20jacket%20marmot%20precip%20eco", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "the-north-face-antora",
+    category: "fashion",
+    name: { en: "The North Face Antora" },
+    description: { en: "The North Face Antora is the everyday-casual pick with the best style-to-function balance." },
+    links: [
+      { network: "amazon-us", productId: "the-north-face-antora", rawUrl: "https://www.amazon.com/s?k=rain%20jacket%20the%20north%20face%20antora", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "the-north-face-antora", rawUrl: "https://www.amazon.co.jp/s?k=rain%20jacket%20the%20north%20face%20antora", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "roborock-s8-pro-ultra",
+    category: "home",
+    name: { en: "Roborock S8 Pro Ultra" },
+    description: { en: "The Roborock S8 Pro Ultra does the two hardest things well: it actually scrubs, and its dock handles everything." },
+    links: [
+      { network: "amazon-us", productId: "roborock-s8-pro-ultra", rawUrl: "https://www.amazon.com/s?k=robot%20mop%20roborock%20s8%20pro%20ultra", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "roborock-s8-pro-ultra", rawUrl: "https://www.amazon.co.jp/s?k=robot%20mop%20roborock%20s8%20pro%20ultra", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "irobot-roomba-combo-j9",
+    category: "home",
+    name: { en: "Irobot Roomba Combo J9" },
+    description: { en: "The iRobot Roomba Combo j9+ is the pick for pet homes and mixed flooring, built around class-leading obstacle avoidance and a clever retractable mop." },
+    links: [
+      { network: "amazon-us", productId: "irobot-roomba-combo-j9", rawUrl: "https://www.amazon.com/s?k=robot%20mop%20irobot%20roomba%20combo%20j9", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "irobot-roomba-combo-j9", rawUrl: "https://www.amazon.co.jp/s?k=robot%20mop%20irobot%20roomba%20combo%20j9", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "eufy-x10-pro-omni",
+    category: "home",
+    name: { en: "Eufy X10 Pro Omni" },
+    description: { en: "The Eufy X10 Pro Omni delivers most of the Roborock experience for noticeably less." },
+    links: [
+      { network: "amazon-us", productId: "eufy-x10-pro-omni", rawUrl: "https://www.amazon.com/s?k=robot%20mop%20eufy%20x10%20pro%20omni", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "eufy-x10-pro-omni", rawUrl: "https://www.amazon.co.jp/s?k=robot%20mop%20eufy%20x10%20pro%20omni", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ecovacs-deebot-t30s",
+    category: "home",
+    name: { en: "Ecovacs Deebot T30s" },
+    description: { en: "The Ecovacs Deebot T30S is the budget-conscious flagship alternative — a full-featured robot with a self-washing, hot-air-drying, self-emptying dock, strong suction, and an effect…" },
+    links: [
+      { network: "amazon-us", productId: "ecovacs-deebot-t30s", rawUrl: "https://www.amazon.com/s?k=robot%20mop%20ecovacs%20deebot%20t30s", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ecovacs-deebot-t30s", rawUrl: "https://www.amazon.co.jp/s?k=robot%20mop%20ecovacs%20deebot%20t30s", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "narwal-freo-x-ultra",
+    category: "home",
+    name: { en: "Narwal Freo X Ultra" },
+    description: { en: "The Narwal Freo X Ultra is the strong all-rounder focused on mopping quality and clever design." },
+    links: [
+      { network: "amazon-us", productId: "narwal-freo-x-ultra", rawUrl: "https://www.amazon.com/s?k=robot%20mop%20narwal%20freo%20x%20ultra", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "narwal-freo-x-ultra", rawUrl: "https://www.amazon.co.jp/s?k=robot%20mop%20narwal%20freo%20x%20ultra", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ugg-tasman-slipper",
+    category: "fashion",
+    name: { en: "Ugg Tasman Slipper" },
+    description: { en: "The UGG Tasman is a slipper-shoe hybrid with genuine cult status." },
+    links: [
+      { network: "amazon-us", productId: "ugg-tasman-slipper", rawUrl: "https://www.amazon.com/s?k=slippers%20ugg%20tasman%20slipper", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ugg-tasman-slipper", rawUrl: "https://www.amazon.co.jp/s?k=slippers%20ugg%20tasman%20slipper", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "l-l-bean-wicked-good-moccasin",
+    category: "fashion",
+    name: { en: "L L Bean Wicked Good Moccasin" },
+    description: { en: "The L.L.Bean Wicked Good Moccasins are the warmth-and-durability champions." },
+    links: [
+      { network: "amazon-us", productId: "l-l-bean-wicked-good-moccasin", rawUrl: "https://www.amazon.com/s?k=slippers%20l%20l%20bean%20wicked%20good%20moccasin", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "l-l-bean-wicked-good-moccasin", rawUrl: "https://www.amazon.co.jp/s?k=slippers%20l%20l%20bean%20wicked%20good%20moccasin", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "glerups-wool-slipper",
+    category: "fashion",
+    name: { en: "Glerups Wool Slipper" },
+    description: { en: "The Glerups Wool Slipper is the breathability and year-round comfort pick." },
+    links: [
+      { network: "amazon-us", productId: "glerups-wool-slipper", rawUrl: "https://www.amazon.com/s?k=slippers%20glerups%20wool%20slipper", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "glerups-wool-slipper", rawUrl: "https://www.amazon.co.jp/s?k=slippers%20glerups%20wool%20slipper", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "acorn-moc-slipper",
+    category: "fashion",
+    name: { en: "Acorn Moc Slipper" },
+    description: { en: "The Acorn Moc Slipper is the pick when you want actual support, not just padding." },
+    links: [
+      { network: "amazon-us", productId: "acorn-moc-slipper", rawUrl: "https://www.amazon.com/s?k=slippers%20acorn%20moc%20slipper", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "acorn-moc-slipper", rawUrl: "https://www.amazon.co.jp/s?k=slippers%20acorn%20moc%20slipper", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sorel-go-coffee-run-slipper",
+    category: "fashion",
+    name: { en: "Sorel Go Coffee Run Slipper" },
+    description: { en: "The Sorel Go Coffee Run is the cosy-casual crossover for someone who wants a slipper that's unmistakably a real shoe outdoors." },
+    links: [
+      { network: "amazon-us", productId: "sorel-go-coffee-run-slipper", rawUrl: "https://www.amazon.com/s?k=slippers%20sorel%20go%20coffee%20run%20slipper", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "sorel-go-coffee-run-slipper", rawUrl: "https://www.amazon.co.jp/s?k=slippers%20sorel%20go%20coffee%20run%20slipper", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "schlage-encode-plus",
+    category: "home",
+    name: { en: "Schlage Encode Plus" },
+    description: { en: "The Schlage Encode Plus is the best smart lock for most people because it pairs a genuinely secure deadbolt — Schlage's highest residential security ratings with strong anti-pick…" },
+    links: [
+      { network: "amazon-us", productId: "schlage-encode-plus", rawUrl: "https://www.amazon.com/s?k=smart%20lock%20schlage%20encode%20plus", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "schlage-encode-plus", rawUrl: "https://www.amazon.co.jp/s?k=smart%20lock%20schlage%20encode%20plus", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "august-wifi-smart-lock",
+    category: "home",
+    name: { en: "August Wifi Smart Lock" },
+    description: { en: "The August Wi-Fi Smart Lock is the renter's pick because it's a retrofit — it replaces only the interior thumb-turn of your existing deadbolt, so your keys still work, the exterio…" },
+    links: [
+      { network: "amazon-us", productId: "august-wifi-smart-lock", rawUrl: "https://www.amazon.com/s?k=august%20wifi%20smart%20lock", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "august-wifi-smart-lock", rawUrl: "https://www.amazon.co.jp/s?k=august%20wifi%20smart%20lock", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yale-assure-lock-2",
+    category: "home",
+    name: { en: "Yale Assure Lock 2" },
+    description: { en: "The Yale Assure Lock 2 is the most configurable mainstream lock and a keypad standout." },
+    links: [
+      { network: "amazon-us", productId: "yale-assure-lock-2", rawUrl: "https://www.amazon.com/s?k=smart%20lock%20yale%20assure%20lock%202", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "yale-assure-lock-2", rawUrl: "https://www.amazon.co.jp/s?k=smart%20lock%20yale%20assure%20lock%202", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "level-lock-plus",
+    category: "home",
+    name: { en: "Level Lock Plus" },
+    description: { en: "The Level Lock+ is the design and stealth pick." },
+    links: [
+      { network: "amazon-us", productId: "level-lock-plus", rawUrl: "https://www.amazon.com/s?k=smart%20lock%20level%20lock%20plus", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "level-lock-plus", rawUrl: "https://www.amazon.co.jp/s?k=smart%20lock%20level%20lock%20plus", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "eufy-smart-lock-c220",
+    category: "home",
+    name: { en: "Eufy Smart Lock C220" },
+    description: { en: "The eufy Smart Lock C220 is the value pick, packing features that cost more elsewhere — a fast fingerprint reader that recognises your print in under a second, built-in Wi-Fi, a c…" },
+    links: [
+      { network: "amazon-us", productId: "eufy-smart-lock-c220", rawUrl: "https://www.amazon.com/s?k=eufy%20smart%20lock%20c220", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "eufy-smart-lock-c220", rawUrl: "https://www.amazon.co.jp/s?k=eufy%20smart%20lock%20c220", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sonos-arc-ultra",
+    category: "home",
+    name: { en: "Sonos Arc Ultra" },
+    description: { en: "The Sonos Arc Ultra is the best single-bar Atmos system you can buy — a 9.1.4 enclosure with fourteen drivers including up-firing height channels and Sonos's new Sound Motion woof…" },
+    links: [
+      { network: "amazon-us", productId: "sonos-arc-ultra", rawUrl: "https://www.amazon.com/s?k=soundbar%20sonos%20arc%20ultra", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "sonos-arc-ultra", rawUrl: "https://www.amazon.co.jp/s?k=soundbar%20sonos%20arc%20ultra", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "samsung-hw-q990d",
+    category: "home",
+    name: { en: "Samsung Hw Q990d" },
+    description: { en: "The Samsung HW-Q990D is the most complete home-theatre-in-a-box here — a true 11.1.4 system with a large wireless subwoofer and two wireless rear speakers that have their own up-f…" },
+    links: [
+      { network: "amazon-us", productId: "samsung-hw-q990d", rawUrl: "https://www.amazon.com/s?k=soundbar%20samsung%20hw%20q990d", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "samsung-hw-q990d", rawUrl: "https://www.amazon.co.jp/s?k=soundbar%20samsung%20hw%20q990d", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sonos-beam-gen2",
+    category: "home",
+    name: { en: "Sonos Beam Gen2" },
+    description: { en: "The Sonos Beam Gen 2 is the right soundbar for most living rooms at around $500." },
+    links: [
+      { network: "amazon-us", productId: "sonos-beam-gen2", rawUrl: "https://www.amazon.com/s?k=soundbar%20sonos%20beam%20gen2", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "sonos-beam-gen2", rawUrl: "https://www.amazon.co.jp/s?k=soundbar%20sonos%20beam%20gen2", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "vizio-m-series-elevate",
+    category: "home",
+    name: { en: "Vizio M Series Elevate" },
+    description: { en: "The Vizio M-Series Elevate is the most physical channels per dollar in this comparison and the budget-to-mid Atmos pick, frequently discounted well below its list price." },
+    links: [
+      { network: "amazon-us", productId: "vizio-m-series-elevate", rawUrl: "https://www.amazon.com/s?k=soundbar%20vizio%20m%20series%20elevate", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "vizio-m-series-elevate", rawUrl: "https://www.amazon.co.jp/s?k=soundbar%20vizio%20m%20series%20elevate", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "yamaha-sr-c30a",
+    category: "home",
+    name: { en: "Yamaha Sr C30a" },
+    description: { en: "The Yamaha SR-C30A is the honest small-room, bedroom, and tight-budget pick." },
+    links: [
+      { network: "amazon-us", productId: "yamaha-sr-c30a", rawUrl: "https://www.amazon.com/s?k=soundbar%20yamaha%20sr%20c30a", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "yamaha-sr-c30a", rawUrl: "https://www.amazon.co.jp/s?k=soundbar%20yamaha%20sr%20c30a", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bissell-powerfresh-steam-mop",
+    category: "home",
+    name: { en: "Bissell Powerfresh Steam Mop" },
+    description: { en: "The Bissell PowerFresh pairs effective, adjustable steam cleaning with thoughtful features at a fair price." },
+    links: [
+      { network: "amazon-us", productId: "bissell-powerfresh-steam-mop", rawUrl: "https://www.amazon.com/s?k=bissell%20powerfresh%20steam%20mop", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "bissell-powerfresh-steam-mop", rawUrl: "https://www.amazon.co.jp/s?k=bissell%20powerfresh%20steam%20mop", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "shark-genius-steam-mop",
+    category: "home",
+    name: { en: "Shark Genius Steam Mop" },
+    description: { en: "The Shark Genius is the pick for hands-free convenience and tougher messes." },
+    links: [
+      { network: "amazon-us", productId: "shark-genius-steam-mop", rawUrl: "https://www.amazon.com/s?k=shark%20genius%20steam%20mop", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "shark-genius-steam-mop", rawUrl: "https://www.amazon.co.jp/s?k=shark%20genius%20steam%20mop", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "o-cedar-microfiber-steam-mop",
+    category: "home",
+    name: { en: "O Cedar Microfiber Steam Mop" },
+    description: { en: "The O-Cedar Microfiber Steam Mop is the value champion for straightforward, effective steam cleaning without spending much." },
+    links: [
+      { network: "amazon-us", productId: "o-cedar-microfiber-steam-mop", rawUrl: "https://www.amazon.com/s?k=o%20cedar%20microfiber%20steam%20mop", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "o-cedar-microfiber-steam-mop", rawUrl: "https://www.amazon.co.jp/s?k=o%20cedar%20microfiber%20steam%20mop", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "light-n-easy-steam-mop",
+    category: "home",
+    name: { en: "Light N Easy Steam Mop" },
+    description: { en: "The Light 'n' Easy Steam Mop is a popular budget-to-mid option that often punches above its price on versatility — many models detach to convert from a floor mop into a handheld s…" },
+    links: [
+      { network: "amazon-us", productId: "light-n-easy-steam-mop", rawUrl: "https://www.amazon.com/s?k=light%20n%20easy%20steam%20mop", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "light-n-easy-steam-mop", rawUrl: "https://www.amazon.co.jp/s?k=light%20n%20easy%20steam%20mop", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dupray-neat-steam-cleaner",
+    category: "home",
+    name: { en: "Dupray Neat Steam Cleaner" },
+    description: { en: "The Dupray Neat is the heavy-duty outlier — not a mop but a full canister steam cleaner with a large boiler that produces high-pressure, high-temperature steam and a wide range of…" },
+    links: [
+      { network: "amazon-us", productId: "dupray-neat-steam-cleaner", rawUrl: "https://www.amazon.com/s?k=steam%20mop%20dupray%20neat%20steam%20cleaner", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dupray-neat-steam-cleaner", rawUrl: "https://www.amazon.co.jp/s?k=steam%20mop%20dupray%20neat%20steam%20cleaner", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "roku-streaming-stick-4k",
+    category: "tech",
+    name: { en: "Roku Streaming Stick 4k" },
+    description: { en: "The Roku Streaming Stick 4K nails the fundamentals: a genuinely neutral, simple interface that treats every app equally." },
+    links: [
+      { network: "amazon-us", productId: "roku-streaming-stick-4k", rawUrl: "https://www.amazon.com/s?k=streaming%20device%20roku%20streaming%20stick%204k", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "roku-streaming-stick-4k", rawUrl: "https://www.amazon.co.jp/s?k=streaming%20device%20roku%20streaming%20stick%204k", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazon-fire-tv-stick-4k-max",
+    category: "tech",
+    name: { en: "Amazon Fire Tv Stick 4k Max" },
+    description: { en: "The Amazon Fire TV Stick 4K Max is the most powerful stick at its price and the best pick for Alexa and Amazon households." },
+    links: [
+      { network: "amazon-us", productId: "amazon-fire-tv-stick-4k-max", rawUrl: "https://www.amazon.com/s?k=streaming%20device%20amazon%20fire%20tv%20stick%204k%20max", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "amazon-fire-tv-stick-4k-max", rawUrl: "https://www.amazon.co.jp/s?k=streaming%20device%20amazon%20fire%20tv%20stick%204k%20max", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "google-tv-streamer-4k",
+    category: "tech",
+    name: { en: "Google Tv Streamer 4k" },
+    description: { en: "The Google TV Streamer 4K is the pick for a content-discovery-first experience and Google smart-home users." },
+    links: [
+      { network: "amazon-us", productId: "google-tv-streamer-4k", rawUrl: "https://www.amazon.com/s?k=streaming%20device%20google%20tv%20streamer%204k", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "google-tv-streamer-4k", rawUrl: "https://www.amazon.co.jp/s?k=streaming%20device%20google%20tv%20streamer%204k", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "apple-tv-4k",
+    category: "tech",
+    name: { en: "Apple Tv 4k" },
+    description: { en: "The Apple TV 4K is the premium powerhouse and the best overall experience if you don't mind the price." },
+    links: [
+      { network: "amazon-us", productId: "apple-tv-4k", rawUrl: "https://www.amazon.com/s?k=streaming%20device%20apple%20tv%204k", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "apple-tv-4k", rawUrl: "https://www.amazon.co.jp/s?k=streaming%20device%20apple%20tv%204k", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nvidia-shield-tv-pro",
+    category: "tech",
+    name: { en: "Nvidia Shield Tv Pro" },
+    description: { en: "The NVIDIA Shield TV Pro is the enthusiast's choice and the most capable Android TV device, beloved for its powerful processor with AI upscaling that genuinely sharpens HD content…" },
+    links: [
+      { network: "amazon-us", productId: "nvidia-shield-tv-pro", rawUrl: "https://www.amazon.com/s?k=streaming%20device%20nvidia%20shield%20tv%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "nvidia-shield-tv-pro", rawUrl: "https://www.amazon.co.jp/s?k=streaming%20device%20nvidia%20shield%20tv%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "apple-ipad-air-m2",
+    category: "tech",
+    name: { en: "Apple Ipad Air M2" },
+    description: { en: "The Apple iPad Air with M2 hits the sweet spot of near-pro performance, the best tablet apps, and a price below the Pro." },
+    links: [
+      { network: "amazon-us", productId: "apple-ipad-air-m2", rawUrl: "https://www.amazon.com/s?k=tablet%20apple%20ipad%20air%20m2", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "apple-ipad-air-m2", rawUrl: "https://www.amazon.co.jp/s?k=tablet%20apple%20ipad%20air%20m2", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "samsung-galaxy-tab-s9",
+    category: "tech",
+    name: { en: "Samsung Galaxy Tab S9" },
+    description: { en: "The Samsung Galaxy Tab S9 is the best Android tablet and the pick for the Android/Samsung ecosystem or anyone wanting Android's flexibility." },
+    links: [
+      { network: "amazon-us", productId: "samsung-galaxy-tab-s9", rawUrl: "https://www.amazon.com/s?k=tablet%20samsung%20galaxy%20tab%20s9", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "samsung-galaxy-tab-s9", rawUrl: "https://www.amazon.co.jp/s?k=tablet%20samsung%20galaxy%20tab%20s9", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "apple-ipad-10th-gen",
+    category: "tech",
+    name: { en: "Apple Ipad 10th Gen" },
+    description: { en: "The Apple iPad (10th generation) is the budget Apple pick and the best value for most casual users — it delivers the core iPad experience (the same excellent app ecosystem, a grea…" },
+    links: [
+      { network: "amazon-us", productId: "apple-ipad-10th-gen", rawUrl: "https://www.amazon.com/s?k=tablet%20apple%20ipad%2010th%20gen", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "apple-ipad-10th-gen", rawUrl: "https://www.amazon.co.jp/s?k=tablet%20apple%20ipad%2010th%20gen", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazon-fire-max-11",
+    category: "tech",
+    name: { en: "Amazon Fire Max 11" },
+    description: { en: "The Amazon Fire Max 11 is the budget media-consumption champion for someone whose tablet is mainly for watching, reading, and shopping within Amazon's world." },
+    links: [
+      { network: "amazon-us", productId: "amazon-fire-max-11", rawUrl: "https://www.amazon.com/s?k=tablet%20amazon%20fire%20max%2011", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "amazon-fire-max-11", rawUrl: "https://www.amazon.co.jp/s?k=tablet%20amazon%20fire%20max%2011", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lenovo-tab-p12",
+    category: "tech",
+    name: { en: "Lenovo Tab P12" },
+    description: { en: "The Lenovo Tab P12 is the value Android all-rounder — a large, capable full-Android tablet at a mid-range price below the Galaxy Tab S9." },
+    links: [
+      { network: "amazon-us", productId: "lenovo-tab-p12", rawUrl: "https://www.amazon.com/s?k=tablet%20lenovo%20tab%20p12", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "lenovo-tab-p12", rawUrl: "https://www.amazon.co.jp/s?k=tablet%20lenovo%20tab%20p12", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "breville-smart-oven-air-fryer-pro",
+    category: "food",
+    name: { en: "Breville Smart Oven Air Fryer Pro" },
+    description: { en: "The Breville Smart Oven Air Fryer Pro is the toaster oven that genuinely replaces a second oven." },
+    links: [
+      { network: "amazon-us", productId: "breville-smart-oven-air-fryer-pro", rawUrl: "https://www.amazon.com/s?k=toaster%20oven%20breville%20smart%20oven%20air%20fryer%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "breville-smart-oven-air-fryer-pro", rawUrl: "https://www.amazon.co.jp/s?k=toaster%20oven%20breville%20smart%20oven%20air%20fryer%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-toa-70-air-fryer",
+    category: "food",
+    name: { en: "Cuisinart Toa 70 Air Fryer" },
+    description: { en: "The Cuisinart TOA-70 is the value sweet spot — a capable air-fryer toaster oven that does most of what the Breville does for roughly half the price." },
+    links: [
+      { network: "amazon-us", productId: "cuisinart-toa-70-air-fryer", rawUrl: "https://www.amazon.com/s?k=toaster%20oven%20cuisinart%20toa%2070%20air%20fryer", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "cuisinart-toa-70-air-fryer", rawUrl: "https://www.amazon.co.jp/s?k=toaster%20oven%20cuisinart%20toa%2070%20air%20fryer", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ninja-foodi-sp101",
+    category: "food",
+    name: { en: "Ninja Foodi Sp101" },
+    description: { en: "The Ninja Foodi SP101 solves the toaster oven's biggest problem — counter space — by flipping up and back to sit flush against the wall when idle, reclaiming most of its footprint." },
+    links: [
+      { network: "amazon-us", productId: "ninja-foodi-sp101", rawUrl: "https://www.amazon.com/s?k=toaster%20oven%20ninja%20foodi%20sp101", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ninja-foodi-sp101", rawUrl: "https://www.amazon.co.jp/s?k=toaster%20oven%20ninja%20foodi%20sp101", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "breville-smart-oven-pro",
+    category: "food",
+    name: { en: "Breville Smart Oven Pro" },
+    description: { en: "The Breville Smart Oven Pro is the pick for bakers who don't need air frying." },
+    links: [
+      { network: "amazon-us", productId: "breville-smart-oven-pro", rawUrl: "https://www.amazon.com/s?k=toaster%20oven%20breville%20smart%20oven%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "breville-smart-oven-pro", rawUrl: "https://www.amazon.co.jp/s?k=toaster%20oven%20breville%20smart%20oven%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-flashxpress",
+    category: "food",
+    name: { en: "Panasonic Flashxpress" },
+    description: { en: "The Panasonic FlashXpress is the compact specialist for people who mainly want excellent toast and fast reheating in a tiny footprint." },
+    links: [
+      { network: "amazon-us", productId: "panasonic-flashxpress", rawUrl: "https://www.amazon.com/s?k=toaster%20oven%20panasonic%20flashxpress", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "panasonic-flashxpress", rawUrl: "https://www.amazon.co.jp/s?k=toaster%20oven%20panasonic%20flashxpress", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dyson-am07-tower-fan",
+    category: "home",
+    name: { en: "Dyson Am07 Tower Fan" },
+    description: { en: "The Dyson AM07 is the premium, design-led bladeless tower fan." },
+    links: [
+      { network: "amazon-us", productId: "dyson-am07-tower-fan", rawUrl: "https://www.amazon.com/s?k=dyson%20am07%20tower%20fan", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dyson-am07-tower-fan", rawUrl: "https://www.amazon.co.jp/s?k=dyson%20am07%20tower%20fan", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lasko-t42951-wind-curve",
+    category: "home",
+    name: { en: "Lasko T42951 Wind Curve" },
+    description: { en: "The Lasko Wind Curve is the value benchmark — a genuinely good tower fan at a budget price and a years-long best-seller." },
+    links: [
+      { network: "amazon-us", productId: "lasko-t42951-wind-curve", rawUrl: "https://www.amazon.com/s?k=tower%20fan%20lasko%20t42951%20wind%20curve", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "lasko-t42951-wind-curve", rawUrl: "https://www.amazon.co.jp/s?k=tower%20fan%20lasko%20t42951%20wind%20curve", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "honeywell-quietset-tower-fan",
+    category: "home",
+    name: { en: "Honeywell Quietset Tower Fan" },
+    description: { en: "The Honeywell QuietSet is engineered around what matters most in a fan you run all night: noise." },
+    links: [
+      { network: "amazon-us", productId: "honeywell-quietset-tower-fan", rawUrl: "https://www.amazon.com/s?k=honeywell%20quietset%20tower%20fan", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "honeywell-quietset-tower-fan", rawUrl: "https://www.amazon.co.jp/s?k=honeywell%20quietset%20tower%20fan", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "vornado-atom-tower-fan",
+    category: "home",
+    name: { en: "Vornado Atom Tower Fan" },
+    description: { en: "The Vornado tower fan takes the opposite philosophy to oscillation: its signature Vortex technology pushes a focused column of air that circulates an entire room's air by bouncing…" },
+    links: [
+      { network: "amazon-us", productId: "vornado-atom-tower-fan", rawUrl: "https://www.amazon.com/s?k=vornado%20atom%20tower%20fan", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "vornado-atom-tower-fan", rawUrl: "https://www.amazon.co.jp/s?k=vornado%20atom%20tower%20fan", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "levoit-tower-fan-36-inch",
+    category: "home",
+    name: { en: "Levoit Tower Fan 36 Inch" },
+    description: { en: "The Levoit Tower Fan is the modern smart-and-quiet pick." },
+    links: [
+      { network: "amazon-us", productId: "levoit-tower-fan-36-inch", rawUrl: "https://www.amazon.com/s?k=levoit%20tower%20fan%2036%20inch", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "levoit-tower-fan-36-inch", rawUrl: "https://www.amazon.co.jp/s?k=levoit%20tower%20fan%2036%20inch", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "shure-mv7-plus",
+    category: "tech",
+    name: { en: "Shure Mv7 Plus" },
+    description: { en: "The Shure MV7+ is the best USB mic for people who talk for a living." },
+    links: [
+      { network: "amazon-us", productId: "shure-mv7-plus", rawUrl: "https://www.amazon.com/s?k=usb%20microphone%20shure%20mv7%20plus", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "shure-mv7-plus", rawUrl: "https://www.amazon.co.jp/s?k=usb%20microphone%20shure%20mv7%20plus", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "elgato-wave-3",
+    category: "tech",
+    name: { en: "Elgato Wave 3" },
+    description: { en: "The Elgato Wave 3 is the pick for streamers who want crisp condenser sound and the best software here." },
+    links: [
+      { network: "amazon-us", productId: "elgato-wave-3", rawUrl: "https://www.amazon.com/s?k=usb%20microphone%20elgato%20wave%203", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "elgato-wave-3", rawUrl: "https://www.amazon.co.jp/s?k=usb%20microphone%20elgato%20wave%203", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "blue-yeti-usb",
+    category: "tech",
+    name: { en: "Blue Yeti Usb" },
+    description: { en: "The Blue Yeti is the famous all-rounder and the safe, versatile choice." },
+    links: [
+      { network: "amazon-us", productId: "blue-yeti-usb", rawUrl: "https://www.amazon.com/s?k=usb%20microphone%20blue%20yeti%20usb", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "blue-yeti-usb", rawUrl: "https://www.amazon.co.jp/s?k=usb%20microphone%20blue%20yeti%20usb", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hyperx-quadcast-s",
+    category: "tech",
+    name: { en: "Hyperx Quadcast S" },
+    description: { en: "The HyperX QuadCast S is the gamer and streamer favourite, and not just for the RGB." },
+    links: [
+      { network: "amazon-us", productId: "hyperx-quadcast-s", rawUrl: "https://www.amazon.com/s?k=usb%20microphone%20hyperx%20quadcast%20s", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "hyperx-quadcast-s", rawUrl: "https://www.amazon.co.jp/s?k=usb%20microphone%20hyperx%20quadcast%20s", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rode-podmic-usb",
+    category: "tech",
+    name: { en: "Rode Podmic Usb" },
+    description: { en: "The Rode PodMic USB is the value dynamic pick — a broadcast-style dynamic mic with both USB and XLR outputs, excellent room-noise rejection, and Rode's clean, professional sound a…" },
+    links: [
+      { network: "amazon-us", productId: "rode-podmic-usb", rawUrl: "https://www.amazon.com/s?k=usb%20microphone%20rode%20podmic%20usb", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "rode-podmic-usb", rawUrl: "https://www.amazon.co.jp/s?k=usb%20microphone%20rode%20podmic%20usb", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "google-nest-doorbell-battery",
+    category: "home",
+    name: { en: "Google Nest Doorbell Battery" },
+    description: { en: "The Google Nest Doorbell (Battery) is the best all-rounder because it does the smartest things on-device and gives you the most for free." },
+    links: [
+      { network: "amazon-us", productId: "google-nest-doorbell-battery", rawUrl: "https://www.amazon.com/s?k=video%20doorbell%20google%20nest%20doorbell%20battery", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "google-nest-doorbell-battery", rawUrl: "https://www.amazon.co.jp/s?k=video%20doorbell%20google%20nest%20doorbell%20battery", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ring-battery-doorbell-pro",
+    category: "home",
+    name: { en: "Ring Battery Doorbell Pro" },
+    description: { en: "The Ring Battery Doorbell Pro is the pick for Alexa users and existing Ring owners — nothing integrates as smoothly with Echo speakers and displays, and the accessory range is unm…" },
+    links: [
+      { network: "amazon-us", productId: "ring-battery-doorbell-pro", rawUrl: "https://www.amazon.com/s?k=video%20doorbell%20ring%20battery%20doorbell%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ring-battery-doorbell-pro", rawUrl: "https://www.amazon.co.jp/s?k=video%20doorbell%20ring%20battery%20doorbell%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "eufy-video-doorbell-e340",
+    category: "home",
+    name: { en: "Eufy Video Doorbell E340" },
+    description: { en: "The eufy Video Doorbell E340 is the answer for anyone who refuses a monthly fee." },
+    links: [
+      { network: "amazon-us", productId: "eufy-video-doorbell-e340", rawUrl: "https://www.amazon.com/s?k=eufy%20video%20doorbell%20e340", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "eufy-video-doorbell-e340", rawUrl: "https://www.amazon.co.jp/s?k=eufy%20video%20doorbell%20e340", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ring-wired-doorbell-pro",
+    category: "home",
+    name: { en: "Ring Wired Doorbell Pro" },
+    description: { en: "The Ring Wired Doorbell Pro is the premium pick for homes with existing doorbell wiring that want set-and-forget power." },
+    links: [
+      { network: "amazon-us", productId: "ring-wired-doorbell-pro", rawUrl: "https://www.amazon.com/s?k=video%20doorbell%20ring%20wired%20doorbell%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ring-wired-doorbell-pro", rawUrl: "https://www.amazon.co.jp/s?k=video%20doorbell%20ring%20wired%20doorbell%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "arlo-essential-video-doorbell",
+    category: "home",
+    name: { en: "Arlo Essential Video Doorbell" },
+    description: { en: "The Arlo Essential Video Doorbell is a solid cross-ecosystem alternative with a head-to-toe view, a built-in siren to deter visitors, colour night vision, and an easy battery inst…" },
+    links: [
+      { network: "amazon-us", productId: "arlo-essential-video-doorbell", rawUrl: "https://www.amazon.com/s?k=arlo%20essential%20video%20doorbell", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "arlo-essential-video-doorbell", rawUrl: "https://www.amazon.co.jp/s?k=arlo%20essential%20video%20doorbell", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "asus-rt-ax88u-pro",
+    category: "tech",
+    name: { en: "Asus Rt Ax88u Pro" },
+    description: { en: "The ASUS RT-AX88U Pro is the best router for most homes — a dual-band AX6000 Wi-Fi 6 unit with a 2.5 Gbps WAN/LAN port for multi-gig plans and eight gigabit LAN ports, more wired…" },
+    links: [
+      { network: "amazon-us", productId: "asus-rt-ax88u-pro", rawUrl: "https://www.amazon.com/s?k=wifi%20router%20asus%20rt%20ax88u%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "asus-rt-ax88u-pro", rawUrl: "https://www.amazon.co.jp/s?k=wifi%20router%20asus%20rt%20ax88u%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tp-link-archer-ax73",
+    category: "tech",
+    name: { en: "Tp Link Archer Ax73" },
+    description: { en: "The TP-Link Archer AX73 is the value sweet spot — a dual-band AX5400 Wi-Fi 6 router that covers a typical home and handles a heavy device load for under half the flagship price." },
+    links: [
+      { network: "amazon-us", productId: "tp-link-archer-ax73", rawUrl: "https://www.amazon.com/s?k=wifi%20router%20tp%20link%20archer%20ax73", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "tp-link-archer-ax73", rawUrl: "https://www.amazon.co.jp/s?k=wifi%20router%20tp%20link%20archer%20ax73", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "netgear-nighthawk-rax70",
+    category: "tech",
+    name: { en: "Netgear Nighthawk Rax70" },
+    description: { en: "The Netgear Nighthawk RAX70 is a tri-band AX6600 Wi-Fi 6 router for device-dense homes." },
+    links: [
+      { network: "amazon-us", productId: "netgear-nighthawk-rax70", rawUrl: "https://www.amazon.com/s?k=wifi%20router%20netgear%20nighthawk%20rax70", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "netgear-nighthawk-rax70", rawUrl: "https://www.amazon.co.jp/s?k=wifi%20router%20netgear%20nighthawk%20rax70", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "asus-rog-rapture-gt-axe11000",
+    category: "tech",
+    name: { en: "Asus Rog Rapture Gt Axe11000" },
+    description: { en: "The ASUS ROG Rapture GT-AXE11000 is the no-compromise enthusiast and gaming router — tri-band Wi-Fi 6E that adds the clean, uncongested 6 GHz band for the lowest latency and inter…" },
+    links: [
+      { network: "amazon-us", productId: "asus-rog-rapture-gt-axe11000", rawUrl: "https://www.amazon.com/s?k=wifi%20router%20asus%20rog%20rapture%20gt%20axe11000", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "asus-rog-rapture-gt-axe11000", rawUrl: "https://www.amazon.co.jp/s?k=wifi%20router%20asus%20rog%20rapture%20gt%20axe11000", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tp-link-archer-ax21",
+    category: "tech",
+    name: { en: "Tp Link Archer Ax21" },
+    description: { en: "The TP-Link Archer AX21 is the budget Wi-Fi 6 entry at around $70 — a dual-band AX1800 router that brings Wi-Fi 6 efficiency and the easy Tether-app setup to small homes and apart…" },
+    links: [
+      { network: "amazon-us", productId: "tp-link-archer-ax21", rawUrl: "https://www.amazon.com/s?k=wifi%20router%20tp%20link%20archer%20ax21", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "tp-link-archer-ax21", rawUrl: "https://www.amazon.co.jp/s?k=wifi%20router%20tp%20link%20archer%20ax21", markets: ["JP"], approved: true },
+    ],
+  },
 ] as unknown as AffiliateOffer[];
