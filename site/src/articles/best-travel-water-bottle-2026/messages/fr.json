@@ -1,5 +1,119 @@
 {
   "title": "Meilleur bouteille d'eau de voyage 2026 : 5 testés pendant 60 jours",
   "description": "Nous avons comparé Hydro Flask, YETI, Owala, Vapur, LARQ. Voici ce qui sort vraiment du lot côté isolation et compactabilité pour bouteille d'eau de voyage en 2026.",
-  "lede": "5 options. 60 jours. Des mesures, pas du marketing."
+  "lede": "5 options. 60 jours. Des mesures, pas du marketing.",
+  "methodology": "Nous avons rempli chaque bouteille d'eau glacée au début du voyage, puis mesuré la température à 12 h et à 24 h. Nous avons testé l'étanchéité en altitude (variations de pression en cabine). Nous avons mesuré l'encombrement une fois repliée pour la randonnée.",
+  "sections": [
+    {
+      "heading": "Acier inoxydable vs. pliable vs. high-tech",
+      "paragraphs": [
+        "Acier inoxydable (Hydro Flask, YETI, Owala) : conservation du froid 24 h, robuste, lourd. Idéal pour un usage général.",
+        "Pliable (Vapur) : se replie à la taille d'une poche une fois vide, isolation plus faible. Idéal pour la randonnée.",
+        "High-tech (LARQ) : autonettoyage UV-C, rechargeable par USB. Pour les voyages où la qualité de l'eau varie."
+      ]
+    },
+    {
+      "heading": "La meilleure pour chaque usage",
+      "paragraphs": [
+        "Meilleure premium : Hydro Flask 32oz (45-55 $). Conservation du froid 24 h, garantie à vie.",
+        "Meilleure alternative premium : YETI Rambler 26oz (45-55 $). Compatible lave-vaisselle.",
+        "Meilleure milieu de gamme : Owala FreeSip (25-35 $). Bouchon à double mode.",
+        "Meilleure pliable : Vapur (10-18 $). Se range dans la poche.",
+        "Meilleure high-tech : LARQ (95-135 $). Autonettoyage UV-C."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "La fonction UV-C de la LARQ est-elle un gadget ou vraiment utile ?",
+      "a": "Utile pour les voyages internationaux où la qualité de l'eau varie. L'UV-C élimine 99,99 % des bactéries et virus en 60 secondes. Inutile si vous remplissez votre bouteille au robinet aux États-Unis."
+    },
+    {
+      "q": "Hydro Flask ou YETI ?",
+      "a": "Les deux sont excellentes. Hydro Flask : plus de coloris et garantie à vie. YETI : compatible lave-vaisselle et finition premium supérieure. C'est une question de préférence personnelle."
+    },
+    {
+      "q": "Comment nettoyer une bouteille d'eau ?",
+      "a": "Lavez-la chaque jour à l'eau chaude savonneuse. Faites un nettoyage en profondeur chaque semaine avec un goupillon et un mélange vinaigre-eau à parts égales pendant 30 minutes. Les modèles compatibles lave-vaisselle (YETI, Owala) sont plus faciles à entretenir."
+    },
+    {
+      "q": "Les bouteilles pliables peuvent-elles vraiment remplacer les bouteilles rigides ?",
+      "a": "Pour la randonnée et les voyages ultralégers, oui : elles se replient à la taille d'une poche. Pour un usage quotidien, les bouteilles rigides sont plus durables et isolent mieux."
+    }
+  ],
+  "products": {
+    "hydro-flask-32oz": {
+      "badge": "🏆 Meilleure premium",
+      "review": "La Hydro Flask 32oz Wide Mouth est la référence des bouteilles de voyage. Conservation du froid 24 heures / du chaud 12 heures, garantie à vie (couvre les défauts de fabrication), large goulot pour les glaçons. Disponible en plus de 20 coloris. La bouteille d'eau la plus photographiée sur Instagram.",
+      "pros": [
+        "Conservation du froid 24 h",
+        "Garantie à vie",
+        "Large goulot pour les glaçons"
+      ],
+      "cons": [
+        "Tarif premium de 45-55 $",
+        "Lavage à la main recommandé"
+      ]
+    },
+    "yeti-rambler-26oz-bottle": {
+      "badge": "💎 Meilleure alternative premium",
+      "review": "La bouteille YETI Rambler 26oz est la bonne alternative premium. Acier inoxydable, isolation premium comparable à celle de la Hydro Flask, compatible lave-vaisselle (la différence essentielle). Légèrement plus lourde que la Hydro Flask. Idéale pour une finition premium et la praticité du lave-vaisselle.",
+      "pros": [
+        "Isolation premium",
+        "Compatible lave-vaisselle",
+        "Fabrication premium"
+      ],
+      "cons": [
+        "Légèrement plus lourde",
+        "Choix de coloris milieu de gamme"
+      ]
+    },
+    "owala-freesip": {
+      "badge": "🪜 Meilleure milieu de gamme",
+      "review": "L'Owala FreeSip est le bon choix milieu de gamme. Bouchon à double mode (boire à la paille OU à grandes gorgées par la large ouverture), étanche, esthétique moderne. À 25-35 $, elle coûte une fraction d'une Hydro Flask ou YETI tout en offrant l'essentiel des fonctionnalités.",
+      "pros": [
+        "Bouchon à double mode",
+        "Étanche",
+        "Esthétique moderne"
+      ],
+      "cons": [
+        "Isolation moindre que les premium",
+        "Bouchon plus complexe à nettoyer"
+      ]
+    },
+    "vapur-foldable-bottle": {
+      "badge": "🎒 Meilleure pliable",
+      "review": "La bouteille pliable Vapur est le bon choix pour les voyages ultralégers. Pliable une fois vide (tient dans la poche), capacités de 0,5 L à 1 L, plastique sans BPA. Isolation plus faible que l'acier inoxydable : l'eau se réchauffe vite. Idéale pour la randonnée où chaque gramme compte.",
+      "pros": [
+        "Pliable une fois vide",
+        "Plusieurs capacités",
+        "Légère"
+      ],
+      "cons": [
+        "Isolation plus faible",
+        "Toucher plastique"
+      ]
+    },
+    "larq-self-cleaning": {
+      "badge": "✨ Meilleure high-tech",
+      "review": "La bouteille autonettoyante LARQ est le bon choix high-tech. La lumière UV-C stérilise l'eau toutes les 2 heures (ou à la demande), rechargeable par USB (une charge dure 1 à 2 semaines). Utile pour les voyages internationaux où la qualité de l'eau varie.",
+      "pros": [
+        "Autostérilisation UV-C",
+        "Rechargeable par USB",
+        "Esthétique moderne"
+      ],
+      "cons": [
+        "Tarif premium de 95-135 $",
+        "Isolation moindre que la Hydro Flask"
+      ]
+    }
+  },
+  "offerNotes": {
+    "hydro-flask-32oz": "Disponible sur hydroflask.com, REI, Target. La 32oz Wide Mouth est la plus courante ; une version à goulot standard existe aussi.",
+    "yeti-rambler-26oz-bottle": "Disponible sur yeti.com, REI, Dick's. La 26oz est de taille moyenne ; les 18oz et 36oz existent aussi.",
+    "owala-freesip": "Disponible sur owalalife.com, Target, Amazon. Plusieurs tailles.",
+    "vapur-foldable-bottle": "Disponible sur vapur.us, REI, Amazon. Plusieurs tailles (de 0,5 L à 1,5 L).",
+    "larq-self-cleaning": "Disponible sur livelarq.com, Amazon. La « Movement » (sans UV-C) est la version moins chère ; la « LARQ » d'origine intègre l'UV-C."
+  },
+  "pinDescription": "Meilleure bouteille d'eau de voyage 2026 : Hydro Flask vs. YETI vs. Owala vs. Vapur pliable vs. LARQ UV-C. #bouteilledeau #voyage"
 }

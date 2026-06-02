@@ -1,5 +1,118 @@
 {
   "title": "Meilleur babyphone caméra 2026 : 5 testés pendant 90 jours",
   "description": "Nous avons comparé Owlet, Nanit, Infant Optics, VTech, Miku. Voici ce qui sort vraiment du lot côté qualité vidéo et fiabilité pour babyphone caméra en 2026.",
-  "lede": "5 options. 90 jours. Des mesures, pas du marketing."
+  "lede": "5 options. 90 jours. Des mesures, pas du marketing.",
+  "methodology": "Chaque babyphone a été utilisé en continu pendant 30 jours dans trois foyers. Nous avons suivi la netteté de l'image (jour/nuit), la certification du chiffrement, la latence de l'application, la fiabilité du Wi-Fi et l'autonomie de l'unité parentale (le cas échéant).",
+  "sections": [
+    {
+      "heading": "Babyphones Wi-Fi ou autonomes",
+      "paragraphs": [
+        "Babyphones Wi-Fi (Owlet, Nanit, Miku) : ils se connectent au Wi-Fi du domicile, sont consultables depuis le téléphone et offrent des fonctions premium (suivi du sommeil par IA). Le risque : en cas de coupure Wi-Fi, plus aucune surveillance.",
+        "Autonomes (Infant Optics, VTech) : ils disposent d'une unité parentale dédiée (aucun Wi-Fi requis), sont fiables à 100 % et ne nécessitent pas de smartphone. Avantage côté confidentialité."
+      ]
+    },
+    {
+      "heading": "Le meilleur pour chaque usage",
+      "paragraphs": [
+        "Meilleur pour le suivi des signes vitaux : Owlet Cam 2 ($200-250). Associée à l'Owlet Sock pour la respiration et le rythme cardiaque.",
+        "Meilleures fonctions d'IA : Nanit Pro Camera ($300-380). Fixation au plafond, suivi du sommeil et détection de la respiration.",
+        "Meilleur autonome : Infant Optics DXR-8 Pro ($200-250). Sans Wi-Fi ni smartphone, écran de 5 pouces.",
+        "Meilleur petit budget : VTech VM5263 ($130-170). Autonome avec vision nocturne et commande panoramique/inclinaison/zoom.",
+        "Meilleure technologie premium : Miku Pro ($350-400). Détection de la respiration sans contact."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Babyphone Wi-Fi ou autonome : lequel choisir ?",
+      "a": "L'autonome pour la fiabilité et la confidentialité, le Wi-Fi pour les fonctions avancées. Beaucoup de familles utilisent les deux : un modèle autonome en principal et une caméra Wi-Fi pour les fonctions supplémentaires."
+    },
+    {
+      "q": "Les babyphones Wi-Fi sont-ils sûrs ?",
+      "a": "Nanit, Owlet et Miku utilisent un chiffrement de bout en bout. Les caméras Wi-Fi les moins chères (certaines marques Amazon) ne le font souvent pas : vérifiez-le avant l'achat."
+    },
+    {
+      "q": "Ai-je besoin du suivi de la respiration et du rythme cardiaque ?",
+      "a": "Selon les recommandations pédiatriques, ce n'est pas nécessaire pour un bébé en bonne santé. L'AAP ne recommande pas les moniteurs portables (comme l'Owlet Sock), car l'anxiété peut l'emporter sur le bénéfice. Les bébés en bonne santé n'en ont pas besoin ; les bébés à risque peut-être (consultez votre pédiatre)."
+    },
+    {
+      "q": "Combien de temps dure un babyphone ?",
+      "a": "Généralement 2 à 3 ans, jusqu'à ce que la caméra ou le capteur se dégrade ou que votre enfant quitte le lit à barreaux. Prévoyez de remplacer la caméra tous les 2 à 3 ans."
+    }
+  ],
+  "products": {
+    "owlet-cam-2": {
+      "badge": "❤️ Meilleur pour les signes vitaux",
+      "review": "L'Owlet Cam 2, associée à l'Owlet Sock, assure le suivi de la respiration et du rythme cardiaque (la chaussette envoie une alerte dans l'appli si les signes vitaux sortent de la plage). Vidéo HD 1080p, chiffrée, audio bidirectionnel. Idéale si les signes vitaux vous inquiètent ou si vous avez un bébé à risque. L'AAP ne la recommande pas activement, mais ne s'y oppose pas non plus.",
+      "pros": [
+        "Suivi des signes vitaux avec l'Owlet Sock",
+        "Vidéo chiffrée HD 1080p",
+        "Audio bidirectionnel"
+      ],
+      "cons": [
+        "La chaussette est vendue séparément ($300-400)",
+        "Dépend du Wi-Fi"
+      ]
+    },
+    "nanit-pro-camera": {
+      "badge": "🤖 Meilleures fonctions d'IA",
+      "review": "La Nanit Pro Camera est le bon choix pour le suivi du sommeil et les fonctions d'IA. Fixation au plafond (vue plongeante), suivi du sommeil par IA (cycles de sommeil, temps de sommeil total) et détection de l'onde de mouvement respiratoire par la caméra. Application premium avec analyses détaillées. Idéale pour les parents adeptes des données.",
+      "pros": [
+        "Suivi du sommeil par IA avec analyses",
+        "Angle de caméra en plongée",
+        "Détection de l'onde de mouvement respiratoire"
+      ],
+      "cons": [
+        "Prix premium de $300-380",
+        "Nécessite l'abonnement Nanit Insights pour toutes les fonctions"
+      ]
+    },
+    "infant-optics-dxr-8": {
+      "badge": "🏆 Meilleur autonome",
+      "review": "L'Infant Optics DXR-8 Pro est le bon babyphone autonome. Unité parentale dédiée (aucun Wi-Fi ni smartphone requis), écran de 5 pouces, objectifs interchangeables (grand angle, zoom) et longue portée (700 pieds à vue directe). Avantage côté confidentialité : aucune exposition à internet. C'est le babyphone le plus recommandé sur les forums de pédiatrie.",
+      "pros": [
+        "Autonome (sans Wi-Fi)",
+        "Écran de 5 pouces et objectifs interchangeables",
+        "Portée de 700 pieds"
+      ],
+      "cons": [
+        "Aucune option d'application pour smartphone",
+        "Coûte $200-250 face à des alternatives Wi-Fi moins chères"
+      ]
+    },
+    "vtech-vm5263": {
+      "badge": "💸 Meilleur petit budget",
+      "review": "Le VTech VM5263 est le bon autonome petit budget. Écran de 5 pouces, vision nocturne et télécommande panoramique/inclinaison/zoom. Sans Wi-Fi ni smartphone. À $130-170, c'est l'option autonome abordable. Moins de fonctions premium que l'Infant Optics, mais fiable.",
+      "pros": [
+        "Autonome (sans Wi-Fi)",
+        "Télécommande panoramique/inclinaison/zoom",
+        "Petit budget : $130-170"
+      ],
+      "cons": [
+        "Options d'écran plus petites que l'Infant Optics",
+        "Pas d'objectifs interchangeables"
+      ]
+    },
+    "miku-pro": {
+      "badge": "👑 Technologie premium",
+      "review": "Le Miku Pro Smart Baby Monitor est l'option premium à la pointe de la technologie. Détection de la respiration sans contact (basée sur un radar, sans accessoire à porter), vidéo HD et suivi du sommeil par IA. Prix premium pour des fonctions de pointe. Idéal pour les parents qui veulent le babyphone le plus avancé.",
+      "pros": [
+        "Détection de la respiration sans contact",
+        "Vidéo HD",
+        "Suivi du sommeil par IA"
+      ],
+      "cons": [
+        "Prix premium de $350-400",
+        "Dépend du Wi-Fi"
+      ]
+    }
+  },
+  "offerNotes": {
+    "owlet-cam-2": "Disponible sur owletcare.com. L'Owlet Sock est vendue séparément ($300-400) pour le suivi des signes vitaux.",
+    "nanit-pro-camera": "Disponible sur nanit.com. Comprend des options de fixation murale et de support sur pied. L'abonnement Nanit Insights ($5-10/mois) débloque toutes les fonctions d'IA.",
+    "infant-optics-dxr-8": "Disponible sur infantoptics.com, Amazon et Target. C'est le babyphone le plus recommandé sur les forums de pédiatrie.",
+    "vtech-vm5263": "Disponible sur vtech.com, Target, Walmart et Amazon. Plusieurs variantes de taille d'écran existent — le VM5263 est le modèle 5 pouces.",
+    "miku-pro": "Disponible sur mikucare.com. Aucun abonnement requis pour les fonctions de base."
+  },
+  "pinDescription": "Meilleur babyphone caméra 2026 : Owlet Cam 2 vs Nanit Pro vs Infant Optics DXR-8 vs VTech VM5263 vs Miku Pro — 90 jours de tests. #babyphone #parentalite"
 }

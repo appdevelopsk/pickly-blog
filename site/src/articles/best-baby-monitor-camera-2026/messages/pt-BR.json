@@ -1,5 +1,118 @@
 {
   "title": "Melhor babá eletrônica com câmera 2026: 5 testados por 90 dias",
   "description": "Comparamos Owlet, Nanit, Infant Optics, VTech, Miku. Veja o que realmente se destaca em qualidade de vídeo e confiabilidade para babá eletrônica com câmera em 2026.",
-  "lede": "5 opções. 90 dias. Medimos, não copiamos marketing."
+  "lede": "5 opções. 90 dias. Medimos, não copiamos marketing.",
+  "methodology": "Usamos cada babá eletrônica de forma contínua por 30 dias em três casas. Avaliamos a nitidez do vídeo (dia/noite), a certificação de criptografia, a latência do aplicativo, a confiabilidade do Wi-Fi e a autonomia da unidade dos pais (quando aplicável).",
+  "sections": [
+    {
+      "heading": "Modelos com Wi-Fi x modelos independentes",
+      "paragraphs": [
+        "Babás com Wi-Fi (Owlet, Nanit, Miku): conectam-se ao Wi-Fi de casa, podem ser vistas no celular e oferecem recursos premium (monitoramento do sono com IA). O risco: se o Wi-Fi cair, você fica sem monitoramento.",
+        "Independentes (Infant Optics, VTech): têm uma unidade dos pais dedicada (sem necessidade de Wi-Fi), são 100% confiáveis e não exigem smartphone. Vantagem em privacidade."
+      ]
+    },
+    {
+      "heading": "A melhor para cada necessidade",
+      "paragraphs": [
+        "Melhor para monitorar sinais vitais: Owlet Cam 2 ($200-250). Combinada com a Owlet Sock para respiração e frequência cardíaca.",
+        "Melhores recursos de IA: Nanit Pro Camera ($300-380). Instalação no teto, monitoramento do sono e detecção de respiração.",
+        "Melhor independente: Infant Optics DXR-8 Pro ($200-250). Sem Wi-Fi nem smartphone, tela de 5 polegadas.",
+        "Melhor custo-benefício: VTech VM5263 ($130-170). Independente com visão noturna e controle de giro, inclinação e zoom.",
+        "Melhor tecnologia premium: Miku Pro ($350-400). Detecção de respiração sem contato."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Babá com Wi-Fi ou independente, qual escolher?",
+      "a": "Independente para confiabilidade e privacidade; Wi-Fi para recursos avançados. Muitas famílias usam as duas: uma independente como principal e uma câmera Wi-Fi para recursos extras."
+    },
+    {
+      "q": "As babás com Wi-Fi são seguras?",
+      "a": "Nanit, Owlet e Miku usam criptografia de ponta a ponta. As câmeras Wi-Fi mais baratas (algumas marcas da Amazon) muitas vezes não usam — verifique antes de comprar."
+    },
+    {
+      "q": "Preciso monitorar a respiração e a frequência cardíaca?",
+      "a": "Segundo as orientações pediátricas, não é necessário para bebês saudáveis. A AAP não recomenda monitores vestíveis (como a Owlet Sock) porque a ansiedade pode superar o benefício. Bebês saudáveis não precisam deles; bebês de alto risco talvez precisem (consulte o pediatra)."
+    },
+    {
+      "q": "Quanto tempo duram as babás eletrônicas?",
+      "a": "Normalmente de 2 a 3 anos, até que a câmera ou o sensor se desgaste ou seu filho deixe o berço. Planeje trocar a câmera a cada 2 ou 3 anos."
+    }
+  ],
+  "products": {
+    "owlet-cam-2": {
+      "badge": "❤️ Melhor para sinais vitais",
+      "review": "A Owlet Cam 2, combinada com a Owlet Sock, oferece monitoramento da respiração e da frequência cardíaca (a meia alerta no aplicativo se os sinais vitais saírem da faixa). Vídeo HD 1080p, criptografado e áudio bidirecional. Ideal se você se preocupa com os sinais vitais ou tem um bebê de alto risco. A AAP não a recomenda ativamente, mas também não se opõe a ela.",
+      "pros": [
+        "Monitoramento de sinais vitais com a Owlet Sock",
+        "Vídeo criptografado HD 1080p",
+        "Áudio bidirecional"
+      ],
+      "cons": [
+        "A meia é vendida separadamente ($300-400)",
+        "Depende do Wi-Fi"
+      ]
+    },
+    "nanit-pro-camera": {
+      "badge": "🤖 Melhores recursos de IA",
+      "review": "A Nanit Pro Camera é a escolha certa para monitoramento do sono e recursos de IA. Instalação no teto (visão de cima), monitoramento do sono com IA (padrões de sono, tempo total de sono) e detecção da onda de movimento respiratório pela câmera. Aplicativo premium com análises detalhadas. Ideal para pais orientados por dados.",
+      "pros": [
+        "Monitoramento do sono com IA e análises",
+        "Ângulo de câmera no teto",
+        "Detecção da onda de movimento respiratório"
+      ],
+      "cons": [
+        "Preço premium de $300-380",
+        "Exige assinatura Nanit Insights para todos os recursos"
+      ]
+    },
+    "infant-optics-dxr-8": {
+      "badge": "🏆 Melhor independente",
+      "review": "A Infant Optics DXR-8 Pro é a babá independente certa. Unidade dos pais dedicada (sem necessidade de Wi-Fi nem smartphone), tela de 5 polegadas, lentes intercambiáveis (grande angular, zoom) e longo alcance (700 pés em linha de visão). Vantagem em privacidade: sem exposição à internet. É a babá mais recomendada nos fóruns de pediatria.",
+      "pros": [
+        "Independente (sem Wi-Fi)",
+        "Tela de 5 polegadas e lentes intercambiáveis",
+        "Alcance de 700 pés"
+      ],
+      "cons": [
+        "Sem opção de aplicativo para smartphone",
+        "Custa $200-250 ante alternativas Wi-Fi mais baratas"
+      ]
+    },
+    "vtech-vm5263": {
+      "badge": "💸 Melhor custo-benefício",
+      "review": "A VTech VM5263 é a independente de bom custo-benefício certa. Tela de 5 polegadas, visão noturna e controle remoto de giro, inclinação e zoom. Sem Wi-Fi nem smartphone. Seus $130-170 a tornam a opção independente acessível. Tem menos recursos premium que a Infant Optics, mas é confiável.",
+      "pros": [
+        "Independente (sem Wi-Fi)",
+        "Controle remoto de giro, inclinação e zoom",
+        "Custo-benefício: $130-170"
+      ],
+      "cons": [
+        "Opções de tela menores que a Infant Optics",
+        "Sem lentes intercambiáveis"
+      ]
+    },
+    "miku-pro": {
+      "badge": "👑 Tecnologia premium",
+      "review": "A Miku Pro Smart Baby Monitor é a opção premium mais avançada em tecnologia. Detecção de respiração sem contato (baseada em radar, sem vestível), vídeo HD e monitoramento do sono com IA. Preço premium para recursos de ponta. Ideal para pais que querem a babá mais avançada.",
+      "pros": [
+        "Detecção de respiração sem contato",
+        "Vídeo HD",
+        "Monitoramento do sono com IA"
+      ],
+      "cons": [
+        "Preço premium de $350-400",
+        "Depende do Wi-Fi"
+      ]
+    }
+  },
+  "offerNotes": {
+    "owlet-cam-2": "Disponível em owletcare.com. A Owlet Sock é vendida separadamente ($300-400) para monitoramento de sinais vitais.",
+    "nanit-pro-camera": "Disponível em nanit.com. Inclui opções de suporte de parede e de chão. A assinatura Nanit Insights ($5-10/mês) desbloqueia todos os recursos de IA.",
+    "infant-optics-dxr-8": "Disponível em infantoptics.com, Amazon e Target. É a babá mais recomendada nos fóruns de pediatria.",
+    "vtech-vm5263": "Disponível em vtech.com, Target, Walmart e Amazon. Há várias variantes de tamanho de tela — a VM5263 é a de 5 polegadas.",
+    "miku-pro": "Disponível em mikucare.com. Não exige assinatura para os recursos básicos."
+  },
+  "pinDescription": "Melhor babá eletrônica com câmera 2026: Owlet Cam 2 vs Nanit Pro vs Infant Optics DXR-8 vs VTech VM5263 vs Miku Pro — 90 dias de testes. #babaeletronica #maternidade"
 }

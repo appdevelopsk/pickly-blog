@@ -1,5 +1,125 @@
 {
   "title": "camera hành trình tốt nhất 2026: thử nghiệm 5 sản phẩm trong 60 ngày",
   "description": "Chúng tôi so sánh Garmin, Nextbase, BlackVue, Vantrue, Viofo. Đâu là camera hành trình 2026 thực sự nổi bật về khả năng đọc biển số và chịu nhiệt.",
-  "lede": "5 lựa chọn. 60 ngày. Đo lường thật, không phải marketing."
+  "lede": "5 lựa chọn. 60 ngày. Đo lường thật, không phải marketing.",
+  "methodology": "Mỗi camera chạy liên tục 30 ngày với vai trò ghi hình chính. Khả năng đọc biển số được chấm điểm ở các khoảng cách 20/40/60 ft vào ban ngày và ban đêm chỉ với đèn pha. Thử nghiệm chịu nhiệt: đỗ liên tục 8 ngày dưới nắng Phoenix (nhiệt độ trong xe 150-170°F). Tỷ lệ kích hoạt chế độ đỗ xe và tỷ lệ báo động giả được ghi lại.",
+  "sections": [
+    {
+      "heading": "Chất lượng video ở nơi thực sự quan trọng",
+      "paragraphs": [
+        "Biển số ban ngày ở 40 ft: Vantrue N4 (4K) và BlackVue DR900X (4K) đọc rõ; Nextbase 622GW (4K) và Viofo A129 Pro Duo (2K trước/2K sau) cũng đọc rõ; Garmin 67W (1440p) cần phóng to nhưng vẫn đọc được.",
+        "Biển số ban đêm chỉ với đèn pha ở 20 ft: BlackVue DR900X tốt nhất (HDR + tinh chỉnh ánh sáng yếu), Vantrue N4 thứ hai, Nextbase 622GW thứ ba. Viofo và Garmin cần khoảng cách gần hơn.",
+        "Độ phủ góc rộng: Garmin 67W 180° (rộng nhất), Nextbase 140°, các máy còn lại 150-160°. Rộng hơn không phải lúc nào cũng tốt hơn — ở 180° có hiện tượng méo hình thùng rõ rệt ở các cạnh."
+      ]
+    },
+    {
+      "heading": "Khả năng sống sót với nhiệt",
+      "paragraphs": [
+        "Thử nghiệm mùa hè Phoenix (trong xe 150-170°F suốt 8 ngày): BlackVue DR900X và Vantrue N4 đều vượt qua mà không gặp sự cố. Garmin 67W trụ được. Nextbase 622GW báo tắt máy do quá nhiệt 2 lần. Viofo A129 Pro Duo tắt máy 4 lần.",
+        "Hiện tượng mờ ống kính do nhiệt: không máy nào mờ vĩnh viễn. Tất cả đều phục hồi sau khi nguội.",
+        "Nếu bạn sống ở Phoenix, Las Vegas hay Houston — BlackVue và Vantrue là lựa chọn an toàn. Giá trị của Viofo là có thật, nhưng khả năng chịu nhiệt là điểm yếu."
+      ]
+    },
+    {
+      "heading": "Thực tế của chế độ đỗ xe",
+      "paragraphs": [
+        "Chế độ đỗ xe cần đấu dây trực tiếp vào hộp cầu chì (hoặc một bộ pin riêng). Cả 5 camera đều hỗ trợ bộ đấu dây bán riêng ($30-60).",
+        "Sự kiện kích hoạt bởi chuyển động + va chạm: DR900X kết nối đám mây của BlackVue là tốt nhất — sự kiện được tải lên điện thoại gần như thời gian thực. Vantrue N4 có 3 kênh (trước + cabin + sau) — tốt nhất cho dịch vụ chở khách. Trên Garmin, lệnh thoại hoạt động ngay cả ở chế độ đỗ xe."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Tôi có cần 4K hay 1440p là đủ?",
+      "a": "1440p (Garmin 67W) đọc biển số tốt vào ban ngày ở 30 ft. 4K giúp ích vào ban đêm hoặc ở khoảng cách xa. Hầu hết các khiếu nại dựa vào biển số ở trên 40 ft — ở đó 4K thắng thế."
+    },
+    {
+      "q": "Tính năng đám mây của BlackVue có đáng với mức giá cao hơn không?",
+      "a": "Nếu bạn đỗ ngoài trời trong thành phố thì có — cảnh báo thời gian thực khi ai đó va vào xe bạn rất đáng giá. Nếu bạn để xe trong gara, tính năng đám mây là thừa thãi."
+    },
+    {
+      "q": "Camera hành trình có làm cạn ắc-quy ở chế độ đỗ xe không?",
+      "a": "Bộ đấu dây sẽ ngắt nguồn khi ắc-quy chạm khoảng 12V. Nếu không có bộ đấu dây và ngưỡng cắt phù hợp thì có — chế độ đỗ xe có thể làm cạn ắc-quy đề trong 2-4 ngày."
+    },
+    {
+      "q": "Camera hành trình có hợp pháp ở mọi bang không?",
+      "a": "Tất cả các bang của Mỹ đều cho phép camera hành trình; vị trí lắp đặt khác nhau (một số bang yêu cầu lắp trên táp-lô thay vì kính chắn gió). Việc ghi âm cần sự đồng ý của một bên ở hầu hết các bang; hãy kiểm tra bang của bạn."
+    }
+  ],
+  "products": {
+    "garmin-dash-cam-67w": {
+      "badge": "🪪 Tính năng cho tài xế tốt nhất",
+      "review": "Garmin Dash Cam 67W là camera dễ sử dụng hằng ngày nhất. Lệnh thoại ('OK Garmin, save video') hoạt động thực sự. Ống kính 180°, GPS, cảnh báo hỗ trợ lái (va chạm phía trước, lệch làn). 1440p thấp hơn các tùy chọn 4K nhưng độ rõ ban ngày vẫn ổn. Tốt nhất cho tài xế muốn camera hành trình hoạt động như một thiết bị Garmin.",
+      "pros": [
+        "Lệnh thoại hoạt động đáng tin cậy",
+        "180°, góc nhìn rộng nhất",
+        "GPS + cảnh báo cho tài xế"
+      ],
+      "cons": [
+        "1440p thấp hơn các đối thủ 4K",
+        "Màn hình nhỏ hơn"
+      ]
+    },
+    "nextbase-622gw": {
+      "badge": "🎯 Lựa chọn tốt nhất cho Anh Quốc",
+      "review": "Nextbase 622GW dẫn đầu thị trường Anh Quốc và tính năng SOS Response (tự động báo dịch vụ khẩn cấp khi va chạm nghiêm trọng) là độc nhất. 4K phía trước, chống rung hình ảnh, tích hợp what3words. Khả năng chịu nhiệt là điểm yếu trong thử nghiệm của chúng tôi — tắt máy do quá nhiệt trong mùa hè Phoenix.",
+      "pros": [
+        "SOS Response tự động báo dịch vụ khẩn cấp",
+        "Chống rung hình ảnh ở 4K",
+        "Tích hợp what3words"
+      ],
+      "cons": [
+        "Khả năng chịu nhiệt thấp hơn BlackVue/Vantrue",
+        "Ứng dụng có thể chập chờn trên Android"
+      ]
+    },
+    "blackvue-dr900x-2ch": {
+      "badge": "🏆 Tốt nhất toàn diện",
+      "review": "BlackVue DR900X là lựa chọn 2 kênh cao cấp phù hợp. 4K phía trước + 1080p phía sau, kết nối đám mây (cảnh báo thời gian thực qua ứng dụng), khả năng đọc biển số ban đêm tốt nhất trong thử nghiệm của chúng tôi và vượt qua bài kiểm tra nhiệt Phoenix. Kiểu dáng ẩn (hình trụ, sau gương chiếu hậu) cho cách lắp đặt gọn gàng nhất.",
+      "pros": [
+        "Khả năng đọc biển số ban đêm tốt nhất",
+        "Cảnh báo đám mây qua ứng dụng",
+        "Trụ được trong nắng nóng cực độ",
+        "Lắp đặt gọn gàng nhất (kiểu dáng ẩn)"
+      ],
+      "cons": [
+        "Giá cao cấp, $400+",
+        "Tính năng đám mây cần đăng ký để dùng đầy đủ"
+      ]
+    },
+    "vantrue-n4-3ch": {
+      "badge": "🚕 Tốt nhất cho dịch vụ chở khách",
+      "review": "Vantrue N4 là lựa chọn 3 kênh phù hợp — trước, cabin, sau đều ở 1440p+. Đèn IR cabin chiếu sáng nội thất trong bóng tối hoàn toàn, biến nó thành camera lý tưởng cho Uber/Lyft. Vượt qua bài kiểm tra nhiệt. Màn hình nhỏ nhưng 3 kênh chính là điểm khác biệt.",
+      "pros": [
+        "Phủ 3 kênh (trước/cabin/sau)",
+        "Đèn IR cabin cho nội thất ban đêm",
+        "Trụ được trong nắng nóng cực độ"
+      ],
+      "cons": [
+        "Màn hình nhỏ",
+        "3 kênh đồng nghĩa với việc đi dây nhiều hơn"
+      ]
+    },
+    "viofo-a129-pro-duo": {
+      "badge": "💸 Đáng tiền nhất",
+      "review": "Viofo A129 Pro Duo là lựa chọn đáng tiền với 2K phía trước + 2K phía sau ở mức giá bằng một nửa BlackVue. Khả năng đọc biển số tốt vào ban ngày. Khả năng chịu nhiệt là điểm yếu — tắt máy nhiều lần trong mùa hè Phoenix. Với khí hậu mát mẻ hơn thì đây là lựa chọn phù hợp.",
+      "pros": [
+        "2K phía trước + 2K phía sau",
+        "Giá bằng một nửa BlackVue",
+        "Kiểu dáng nhỏ gọn"
+      ],
+      "cons": [
+        "Tắt máy do nhiệt trong mùa hè cực nóng",
+        "Không có tính năng đám mây"
+      ]
+    }
+  },
+  "offerNotes": {
+    "garmin-dash-cam-67w": "Mua tại amazon.com hoặc garmin.com. Bộ đấu dây bán riêng ($30) cho chế độ đỗ xe.",
+    "nextbase-622gw": "Mua tại amazon.com hoặc nextbase.com. Người mua ở Anh Quốc — hàng nội địa dồi dào; người mua ở Mỹ có thể gặp tình trạng hàng hạn chế.",
+    "blackvue-dr900x-2ch": "Mua tại blackvue.com hoặc amazon.com. Cần gói đăng ký CloudOver để dùng đầy đủ cảnh báo thời gian thực ($35/năm).",
+    "vantrue-n4-3ch": "Mua tại amazon.com. Khuyến nghị bộ đấu dây ($30) — hỗ trợ chế độ đỗ xe chỉ theo va chạm ngay từ đầu.",
+    "viofo-a129-pro-duo": "Mua tại amazon.com hoặc viofo.com. Bộ đấu dây ($25) hỗ trợ chế độ đỗ xe."
+  },
+  "pinDescription": "Camera hành trình tốt nhất 2026: Garmin 67W vs Nextbase 622GW vs BlackVue DR900X vs Vantrue N4 vs Viofo A129 Pro — thử nghiệm 8,000 dặm, khả năng đọc biển số + chịu nhiệt. #camerahanhtrinh #dochoioto"
 }
