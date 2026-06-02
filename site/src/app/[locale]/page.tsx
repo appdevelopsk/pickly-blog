@@ -92,15 +92,29 @@ export default async function HomePage({ params }: Props) {
 
   const orgSchema = {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    name: "Pickly",
-    url: SITE_URL,
-    description: "Curated reviews and comparisons across 17 languages.",
-    potentialAction: {
-      "@type": "SearchAction",
-      target: `${SITE_URL}/${locale}/articles/`,
-      "query-input": "required name=search_term_string",
-    },
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": `${SITE_URL}/#website`,
+        name: "Pickly",
+        url: SITE_URL,
+        description: "Curated reviews and comparisons across 17 languages.",
+        publisher: { "@id": `${SITE_URL}/#organization` },
+        potentialAction: {
+          "@type": "SearchAction",
+          target: `${SITE_URL}/${locale}/articles/`,
+          "query-input": "required name=search_term_string",
+        },
+      },
+      {
+        "@type": "Organization",
+        "@id": `${SITE_URL}/#organization`,
+        name: "Pickly",
+        url: SITE_URL,
+        description: "Curated reviews and comparisons across 17 languages.",
+        sameAs: ["https://www.pinterest.com/appdevelopsk/"],
+      },
+    ],
   };
 
   let heading = "Real reviews, no filler.";
