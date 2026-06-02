@@ -43745,4 +43745,604 @@ export const CATALOG_ADDITIONS = [
       { network: "amazon-jp", productId: "eddie-bauer-flannel", rawUrl: "https://www.amazon.co.jp/s?k=flannel%20shirt%20eddie%20bauer%20flannel", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "revlon-one-step-volumizer",
+    category: "beauty",
+    name: { en: "Revlon One Step Volumizer" },
+    description: { en: "The Revlon One-Step Volumizer delivers a genuinely good, voluminous, blowout-style finish in one step at a remarkably low price — which is exactly why it became a viral cult produ…" },
+    links: [
+      { network: "amazon-us", productId: "revlon-one-step-volumizer", rawUrl: "https://www.amazon.com/s?k=hair%20dryer%20brush%20revlon%20one%20step%20volumizer", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "revlon-one-step-volumizer", rawUrl: "https://www.amazon.co.jp/s?k=hair%20dryer%20brush%20revlon%20one%20step%20volumizer", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dyson-airwrap",
+    category: "beauty",
+    name: { en: "Dyson Airwrap" },
+    description: { en: "The Dyson Airwrap is the premium, fundamentally different and more versatile tool." },
+    links: [
+      { network: "amazon-us", productId: "dyson-airwrap", rawUrl: "https://www.amazon.com/s?k=hair%20dryer%20brush%20dyson%20airwrap", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dyson-airwrap", rawUrl: "https://www.amazon.co.jp/s?k=hair%20dryer%20brush%20dyson%20airwrap", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "shark-flexstyle",
+    category: "beauty",
+    name: { en: "Shark Flexstyle" },
+    description: { en: "The Shark FlexStyle offers Dyson-Airwrap-style versatility and airflow technology at a notably lower (still premium) price." },
+    links: [
+      { network: "amazon-us", productId: "shark-flexstyle", rawUrl: "https://www.amazon.com/s?k=hair%20dryer%20brush%20shark%20flexstyle", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "shark-flexstyle", rawUrl: "https://www.amazon.co.jp/s?k=hair%20dryer%20brush%20shark%20flexstyle", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hot-tools-one-step",
+    category: "beauty",
+    name: { en: "Hot Tools One Step" },
+    description: { en: "The Hot Tools One-Step is the salon-brand alternative to the Revlon for a one-step dryer brush from a professional hair-tool name." },
+    links: [
+      { network: "amazon-us", productId: "hot-tools-one-step", rawUrl: "https://www.amazon.com/s?k=hair%20dryer%20brush%20hot%20tools%20one%20step", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "hot-tools-one-step", rawUrl: "https://www.amazon.co.jp/s?k=hair%20dryer%20brush%20hot%20tools%20one%20step", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "l-ange-le-volume-2-in-1",
+    category: "beauty",
+    name: { en: "L Ange Le Volume 2 In 1" },
+    description: { en: "The L'ange Le Volume 2-in-1 is the stylish value alternative — a one-step volumizing hot-air brush from a popular direct-to-consumer hair brand known for attractive, well-reviewed…" },
+    links: [
+      { network: "amazon-us", productId: "l-ange-le-volume-2-in-1", rawUrl: "https://www.amazon.com/s?k=hair%20dryer%20brush%20l%20ange%20le%20volume%202%20in%201", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "l-ange-le-volume-2-in-1", rawUrl: "https://www.amazon.co.jp/s?k=hair%20dryer%20brush%20l%20ange%20le%20volume%202%20in%201", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "waterpik-aquarius",
+    category: "beauty",
+    name: { en: "Waterpik Aquarius" },
+    description: { en: "The Waterpik Aquarius is the proven, dentist-recommended countertop standard with the power, capacity, and features to make daily use easy and effective." },
+    links: [
+      { network: "amazon-us", productId: "waterpik-aquarius", rawUrl: "https://www.amazon.com/s?k=water%20flosser%20waterpik%20aquarius", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "waterpik-aquarius", rawUrl: "https://www.amazon.co.jp/s?k=water%20flosser%20waterpik%20aquarius", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "waterpik-cordless-advanced",
+    category: "beauty",
+    name: { en: "Waterpik Cordless Advanced" },
+    description: { en: "The Waterpik Cordless Advanced is the best pick for travel, small bathrooms, or anyone without counter space, delivering effective water flossing in a portable, rechargeable handh…" },
+    links: [
+      { network: "amazon-us", productId: "waterpik-cordless-advanced", rawUrl: "https://www.amazon.com/s?k=water%20flosser%20waterpik%20cordless%20advanced", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "waterpik-cordless-advanced", rawUrl: "https://www.amazon.co.jp/s?k=water%20flosser%20waterpik%20cordless%20advanced", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "philips-sonicare-power-flosser",
+    category: "beauty",
+    name: { en: "Philips Sonicare Power Flosser" },
+    description: { en: "The Philips Sonicare Power Flosser is the premium connected pick for someone in the Sonicare ecosystem or wanting a more refined, feature-rich experience." },
+    links: [
+      { network: "amazon-us", productId: "philips-sonicare-power-flosser", rawUrl: "https://www.amazon.com/s?k=water%20flosser%20philips%20sonicare%20power%20flosser", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "philips-sonicare-power-flosser", rawUrl: "https://www.amazon.co.jp/s?k=water%20flosser%20philips%20sonicare%20power%20flosser", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "h2ofloss-water-flosser",
+    category: "beauty",
+    name: { en: "H2ofloss Water Flosser" },
+    description: { en: "The H2ofloss Water Flosser is the value countertop alternative competing closely with the Waterpik on power and features for less money." },
+    links: [
+      { network: "amazon-us", productId: "h2ofloss-water-flosser", rawUrl: "https://www.amazon.com/s?k=h2ofloss%20water%20flosser", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "h2ofloss-water-flosser", rawUrl: "https://www.amazon.co.jp/s?k=h2ofloss%20water%20flosser", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "binicare-water-flosser",
+    category: "beauty",
+    name: { en: "Binicare Water Flosser" },
+    description: { en: "The Binicare Water Flosser is the budget pick — an affordable cordless or compact unit that does the core job (a pressurised water stream to clean between teeth) at a low price, f…" },
+    links: [
+      { network: "amazon-us", productId: "binicare-water-flosser", rawUrl: "https://www.amazon.com/s?k=binicare%20water%20flosser", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "binicare-water-flosser", rawUrl: "https://www.amazon.co.jp/s?k=binicare%20water%20flosser", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "black-decker-dustbuster",
+    category: "home",
+    name: { en: "Black Decker Dustbuster" },
+    description: { en: "The Black+Decker Dustbuster nails the core job — convenient, grab-and-go cordless cleanup of everyday messes — reliably and affordably, which is why it's the original and still mo…" },
+    links: [
+      { network: "amazon-us", productId: "black-decker-dustbuster", rawUrl: "https://www.amazon.com/s?k=handheld%20vacuum%20black%20decker%20dustbuster", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "black-decker-dustbuster", rawUrl: "https://www.amazon.co.jp/s?k=handheld%20vacuum%20black%20decker%20dustbuster", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "shark-wandvac",
+    category: "home",
+    name: { en: "Shark Wandvac" },
+    description: { en: "The Shark WandVac is the sleek, ultra-portable cordless pick balancing genuinely useful suction with a remarkably slim, light, easy-to-handle design." },
+    links: [
+      { network: "amazon-us", productId: "shark-wandvac", rawUrl: "https://www.amazon.com/s?k=handheld%20vacuum%20shark%20wandvac", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "shark-wandvac", rawUrl: "https://www.amazon.co.jp/s?k=handheld%20vacuum%20shark%20wandvac", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dyson-v8-handheld",
+    category: "home",
+    name: { en: "Dyson V8 Handheld" },
+    description: { en: "The Dyson V8 handheld is the most powerful pick for serious suction in a handheld." },
+    links: [
+      { network: "amazon-us", productId: "dyson-v8-handheld", rawUrl: "https://www.amazon.com/s?k=handheld%20vacuum%20dyson%20v8%20handheld", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dyson-v8-handheld", rawUrl: "https://www.amazon.co.jp/s?k=handheld%20vacuum%20dyson%20v8%20handheld", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bissell-pet-hair-eraser-handheld",
+    category: "home",
+    name: { en: "Bissell Pet Hair Eraser Handheld" },
+    description: { en: "The Bissell Pet Hair Eraser handheld is the specialist pick for pet owners, purpose-built to tackle pet hair on furniture, stairs, car interiors, and upholstery." },
+    links: [
+      { network: "amazon-us", productId: "bissell-pet-hair-eraser-handheld", rawUrl: "https://www.amazon.com/s?k=handheld%20vacuum%20bissell%20pet%20hair%20eraser%20handheld", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "bissell-pet-hair-eraser-handheld", rawUrl: "https://www.amazon.co.jp/s?k=handheld%20vacuum%20bissell%20pet%20hair%20eraser%20handheld", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hoover-onepwr-handheld",
+    category: "home",
+    name: { en: "Hoover Onepwr Handheld" },
+    description: { en: "The Hoover ONEPWR handheld is the value pick for a capable cordless handheld, especially if buying into a battery system." },
+    links: [
+      { network: "amazon-us", productId: "hoover-onepwr-handheld", rawUrl: "https://www.amazon.com/s?k=handheld%20vacuum%20hoover%20onepwr%20handheld", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "hoover-onepwr-handheld", rawUrl: "https://www.amazon.co.jp/s?k=handheld%20vacuum%20hoover%20onepwr%20handheld", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "brooklinen-classic-percale",
+    category: "home",
+    name: { en: "Brooklinen Classic Percale" },
+    description: { en: "The Brooklinen Classic Percale delivers genuinely high-quality, crisp, cool, durable cotton sheets at a fair mid-range price, from the brand that popularised direct-to-consumer qu…" },
+    links: [
+      { network: "amazon-us", productId: "brooklinen-classic-percale", rawUrl: "https://www.amazon.com/s?k=bed%20sheets%20brooklinen%20classic%20percale", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "brooklinen-classic-percale", rawUrl: "https://www.amazon.co.jp/s?k=bed%20sheets%20brooklinen%20classic%20percale", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "parachute-sateen-sheets",
+    category: "home",
+    name: { en: "Parachute Sateen Sheets" },
+    description: { en: "The Parachute Sateen is the premium pick for elevated, beautifully-made cotton sheets with a refined feel and aesthetic." },
+    links: [
+      { network: "amazon-us", productId: "parachute-sateen-sheets", rawUrl: "https://www.amazon.com/s?k=bed%20sheets%20parachute%20sateen%20sheets", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "parachute-sateen-sheets", rawUrl: "https://www.amazon.co.jp/s?k=bed%20sheets%20parachute%20sateen%20sheets", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mellanni-microfiber-sheets",
+    category: "home",
+    name: { en: "Mellanni Microfiber Sheets" },
+    description: { en: "The Mellanni Microfiber Sheets are the budget champion — extremely affordable, soft, wrinkle-resistant, and a perennial best-seller for comfortable sheets at very little money." },
+    links: [
+      { network: "amazon-us", productId: "mellanni-microfiber-sheets", rawUrl: "https://www.amazon.com/s?k=bed%20sheets%20mellanni%20microfiber%20sheets", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "mellanni-microfiber-sheets", rawUrl: "https://www.amazon.co.jp/s?k=bed%20sheets%20mellanni%20microfiber%20sheets", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "california-design-den-cotton",
+    category: "home",
+    name: { en: "California Design Den Cotton" },
+    description: { en: "The California Design Den Cotton Sheets are the value pick for genuine quality cotton (not microfiber) at an affordable price, bridging budget microfiber and premium cotton brands." },
+    links: [
+      { network: "amazon-us", productId: "california-design-den-cotton", rawUrl: "https://www.amazon.com/s?k=bed%20sheets%20california%20design%20den%20cotton", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "california-design-den-cotton", rawUrl: "https://www.amazon.co.jp/s?k=bed%20sheets%20california%20design%20den%20cotton", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "boll-and-branch-signature",
+    category: "home",
+    name: { en: "Boll And Branch Signature" },
+    description: { en: "The Boll & Branch Signature is the luxury, organic, ethical pick for the finest sustainable cotton sheets." },
+    links: [
+      { network: "amazon-us", productId: "boll-and-branch-signature", rawUrl: "https://www.amazon.com/s?k=bed%20sheets%20boll%20and%20branch%20signature", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "boll-and-branch-signature", rawUrl: "https://www.amazon.co.jp/s?k=bed%20sheets%20boll%20and%20branch%20signature", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "simplehuman-rectangular-step-can",
+    category: "home",
+    name: { en: "Simplehuman Rectangular Step Can" },
+    description: { en: "The simplehuman Rectangular Step Can is the thoughtfully-engineered standard that gets every detail right and lasts for years." },
+    links: [
+      { network: "amazon-us", productId: "simplehuman-rectangular-step-can", rawUrl: "https://www.amazon.com/s?k=trash%20can%20simplehuman%20rectangular%20step%20can", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "simplehuman-rectangular-step-can", rawUrl: "https://www.amazon.co.jp/s?k=trash%20can%20simplehuman%20rectangular%20step%20can", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ninestars-automatic-sensor-can",
+    category: "home",
+    name: { en: "Ninestars Automatic Sensor Can" },
+    description: { en: "The Ninestars Automatic Sensor Can is the best motion-sensor (touchless) trash can for completely hands-free, contactless opening." },
+    links: [
+      { network: "amazon-us", productId: "ninestars-automatic-sensor-can", rawUrl: "https://www.amazon.com/s?k=trash%20can%20ninestars%20automatic%20sensor%20can", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ninestars-automatic-sensor-can", rawUrl: "https://www.amazon.co.jp/s?k=trash%20can%20ninestars%20automatic%20sensor%20can", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "rubbermaid-step-can",
+    category: "home",
+    name: { en: "Rubbermaid Step Can" },
+    description: { en: "The Rubbermaid Step Can is the budget pick for a reliable, no-frills step-pedal trash can at a low price from a trusted housewares brand." },
+    links: [
+      { network: "amazon-us", productId: "rubbermaid-step-can", rawUrl: "https://www.amazon.com/s?k=trash%20can%20rubbermaid%20step%20can", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "rubbermaid-step-can", rawUrl: "https://www.amazon.co.jp/s?k=trash%20can%20rubbermaid%20step%20can", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "glad-stainless-step-can",
+    category: "home",
+    name: { en: "Glad Stainless Step Can" },
+    description: { en: "The Glad Stainless Step Can is the mainstream value pick that adds nice touches at an accessible price." },
+    links: [
+      { network: "amazon-us", productId: "glad-stainless-step-can", rawUrl: "https://www.amazon.com/s?k=trash%20can%20glad%20stainless%20step%20can", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "glad-stainless-step-can", rawUrl: "https://www.amazon.co.jp/s?k=trash%20can%20glad%20stainless%20step%20can", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "itouchless-sensor-can",
+    category: "home",
+    name: { en: "Itouchless Sensor Can" },
+    description: { en: "The iTouchless Sensor Can is the value-and-features touchless alternative, a well-reviewed automatic sensor can that often adds useful extras at a competitive price." },
+    links: [
+      { network: "amazon-us", productId: "itouchless-sensor-can", rawUrl: "https://www.amazon.com/s?k=trash%20can%20itouchless%20sensor%20can", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "itouchless-sensor-can", rawUrl: "https://www.amazon.co.jp/s?k=trash%20can%20itouchless%20sensor%20can", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazon-echo-show-8",
+    category: "tech",
+    name: { en: "Amazon Echo Show 8" },
+    description: { en: "The Amazon Echo Show 8 hits the sweet spot of screen size, sound, features, and price in the dominant Alexa ecosystem." },
+    links: [
+      { network: "amazon-us", productId: "amazon-echo-show-8", rawUrl: "https://www.amazon.com/s?k=smart%20display%20amazon%20echo%20show%208", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "amazon-echo-show-8", rawUrl: "https://www.amazon.co.jp/s?k=smart%20display%20amazon%20echo%20show%208", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "google-nest-hub-2nd-gen",
+    category: "tech",
+    name: { en: "Google Nest Hub 2nd Gen" },
+    description: { en: "The Google Nest Hub (2nd gen) is the best pick for Google-ecosystem users and those who prefer Google Assistant." },
+    links: [
+      { network: "amazon-us", productId: "google-nest-hub-2nd-gen", rawUrl: "https://www.amazon.com/s?k=smart%20display%20google%20nest%20hub%202nd%20gen", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "google-nest-hub-2nd-gen", rawUrl: "https://www.amazon.co.jp/s?k=smart%20display%20google%20nest%20hub%202nd%20gen", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazon-echo-show-5",
+    category: "tech",
+    name: { en: "Amazon Echo Show 5" },
+    description: { en: "The Amazon Echo Show 5 is the budget and compact pick — a small (~5.5-inch) Alexa display at a low price, ideal as a smart alarm clock on a nightstand, a compact kitchen helper, o…" },
+    links: [
+      { network: "amazon-us", productId: "amazon-echo-show-5", rawUrl: "https://www.amazon.com/s?k=smart%20display%20amazon%20echo%20show%205", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "amazon-echo-show-5", rawUrl: "https://www.amazon.co.jp/s?k=smart%20display%20amazon%20echo%20show%205", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "google-nest-hub-max",
+    category: "tech",
+    name: { en: "Google Nest Hub Max" },
+    description: { en: "The Google Nest Hub Max is the premium, larger Google smart display for a bigger screen, better sound, and a camera in the Google ecosystem." },
+    links: [
+      { network: "amazon-us", productId: "google-nest-hub-max", rawUrl: "https://www.amazon.com/s?k=smart%20display%20google%20nest%20hub%20max", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "google-nest-hub-max", rawUrl: "https://www.amazon.co.jp/s?k=smart%20display%20google%20nest%20hub%20max", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazon-echo-show-15",
+    category: "tech",
+    name: { en: "Amazon Echo Show 15" },
+    description: { en: "The Amazon Echo Show 15 is the large, wall-mountable smart display designed as a family hub and central organiser, not a counter device." },
+    links: [
+      { network: "amazon-us", productId: "amazon-echo-show-15", rawUrl: "https://www.amazon.com/s?k=smart%20display%20amazon%20echo%20show%2015", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "amazon-echo-show-15", rawUrl: "https://www.amazon.co.jp/s?k=smart%20display%20amazon%20echo%20show%2015", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lg-ultragear-27gp850",
+    category: "tech",
+    name: { en: "Lg Ultragear 27gp850" },
+    description: { en: "The LG UltraGear 27GP850 balances the things that matter — fast refresh, sharp resolution, excellent response, and great image quality — at a sensible price." },
+    links: [
+      { network: "amazon-us", productId: "lg-ultragear-27gp850", rawUrl: "https://www.amazon.com/s?k=gaming%20monitor%20lg%20ultragear%2027gp850", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "lg-ultragear-27gp850", rawUrl: "https://www.amazon.co.jp/s?k=gaming%20monitor%20lg%20ultragear%2027gp850", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "samsung-odyssey-g7",
+    category: "tech",
+    name: { en: "Samsung Odyssey G7" },
+    description: { en: "The Samsung Odyssey G7 is the pick for a fast, immersive, curved high-refresh experience with punchy contrast." },
+    links: [
+      { network: "amazon-us", productId: "samsung-odyssey-g7", rawUrl: "https://www.amazon.com/s?k=gaming%20monitor%20samsung%20odyssey%20g7", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "samsung-odyssey-g7", rawUrl: "https://www.amazon.co.jp/s?k=gaming%20monitor%20samsung%20odyssey%20g7", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "asus-tuf-vg27aq",
+    category: "tech",
+    name: { en: "Asus Tuf Vg27aq" },
+    description: { en: "The ASUS TUF VG27AQ delivers high-refresh 1440p IPS gaming at a more accessible price, from ASUS's reliable gaming line." },
+    links: [
+      { network: "amazon-us", productId: "asus-tuf-vg27aq", rawUrl: "https://www.amazon.com/s?k=gaming%20monitor%20asus%20tuf%20vg27aq", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "asus-tuf-vg27aq", rawUrl: "https://www.amazon.co.jp/s?k=gaming%20monitor%20asus%20tuf%20vg27aq", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "alienware-aw2724dm",
+    category: "tech",
+    name: { en: "Alienware Aw2724dm" },
+    description: { en: "The Alienware AW2724DM is the premium pick for top-tier performance, build quality, and Dell/Alienware's design and support." },
+    links: [
+      { network: "amazon-us", productId: "alienware-aw2724dm", rawUrl: "https://www.amazon.com/s?k=gaming%20monitor%20alienware%20aw2724dm", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "alienware-aw2724dm", rawUrl: "https://www.amazon.co.jp/s?k=gaming%20monitor%20alienware%20aw2724dm", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gigabyte-m27q",
+    category: "tech",
+    name: { en: "Gigabyte M27q" },
+    description: { en: "The Gigabyte M27Q crams impressive specs and extras into an affordable 1440p high-refresh monitor." },
+    links: [
+      { network: "amazon-us", productId: "gigabyte-m27q", rawUrl: "https://www.amazon.com/s?k=gaming%20monitor%20gigabyte%20m27q", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "gigabyte-m27q", rawUrl: "https://www.amazon.co.jp/s?k=gaming%20monitor%20gigabyte%20m27q", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anker-nano-ii-65w",
+    category: "tech",
+    name: { en: "Anker Nano Ii 65w" },
+    description: { en: "The Anker Nano II 65W is astonishingly compact, fast enough to charge almost anything, and from the most trusted charging brand at a fair price." },
+    links: [
+      { network: "amazon-us", productId: "anker-nano-ii-65w", rawUrl: "https://www.amazon.com/s?k=usb%20c%20charger%20anker%20nano%20ii%2065w", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "anker-nano-ii-65w", rawUrl: "https://www.amazon.co.jp/s?k=usb%20c%20charger%20anker%20nano%20ii%2065w", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anker-prime-100w",
+    category: "tech",
+    name: { en: "Anker Prime 100w" },
+    description: { en: "The Anker Prime 100W is the premium multi-port pick for charging several devices fast from one powerful, compact charger." },
+    links: [
+      { network: "amazon-us", productId: "anker-prime-100w", rawUrl: "https://www.amazon.com/s?k=usb%20c%20charger%20anker%20prime%20100w", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "anker-prime-100w", rawUrl: "https://www.amazon.co.jp/s?k=usb%20c%20charger%20anker%20prime%20100w", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ugreen-nexode-100w",
+    category: "tech",
+    name: { en: "Ugreen Nexode 100w" },
+    description: { en: "The UGREEN Nexode 100W delivers similar high-power, multi-port GaN charging at a lower price." },
+    links: [
+      { network: "amazon-us", productId: "ugreen-nexode-100w", rawUrl: "https://www.amazon.com/s?k=usb%20c%20charger%20ugreen%20nexode%20100w", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ugreen-nexode-100w", rawUrl: "https://www.amazon.co.jp/s?k=usb%20c%20charger%20ugreen%20nexode%20100w", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "apple-35w-dual-usb-c",
+    category: "tech",
+    name: { en: "Apple 35w Dual Usb C" },
+    description: { en: "The Apple 35W Dual USB-C is the pick for Apple users wanting a simple, official two-port charger for charging two devices (like an iPhone and AirPods, or an iPad and iPhone) at on…" },
+    links: [
+      { network: "amazon-us", productId: "apple-35w-dual-usb-c", rawUrl: "https://www.amazon.com/s?k=usb%20c%20charger%20apple%2035w%20dual%20usb%20c", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "apple-35w-dual-usb-c", rawUrl: "https://www.amazon.co.jp/s?k=usb%20c%20charger%20apple%2035w%20dual%20usb%20c", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "satechi-165w-gan",
+    category: "tech",
+    name: { en: "Satechi 165w Gan" },
+    description: { en: "The Satechi 165W is the desktop powerhouse for charging many devices, including multiple laptops, from one high-wattage hub." },
+    links: [
+      { network: "amazon-us", productId: "satechi-165w-gan", rawUrl: "https://www.amazon.com/s?k=usb%20c%20charger%20satechi%20165w%20gan", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "satechi-165w-gan", rawUrl: "https://www.amazon.co.jp/s?k=usb%20c%20charger%20satechi%20165w%20gan", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "stx-turboforce-3000",
+    category: "food",
+    name: { en: "Stx Turboforce" },
+    description: { en: "The STX Turboforce 3000 offers powerful, fast grinding and a generous attachment set at a value price — the sweet spot of performance and cost." },
+    links: [
+      { network: "amazon-us", productId: "stx-turboforce-3000", rawUrl: "https://www.amazon.com/s?k=meat%20grinder%20stx%20turboforce", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "stx-turboforce-3000", rawUrl: "https://www.amazon.co.jp/s?k=meat%20grinder%20stx%20turboforce", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lem-big-bite-8",
+    category: "food",
+    name: { en: "Lem Big Bite 8" },
+    description: { en: "The LEM Big Bite #8 is the heavy-duty pick for serious hunters, sausage-makers, and anyone grinding large quantities who wants a durable, commercial-grade machine built to last." },
+    links: [
+      { network: "amazon-us", productId: "lem-big-bite-8", rawUrl: "https://www.amazon.com/s?k=meat%20grinder%20lem%20big%20bite%208", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "lem-big-bite-8", rawUrl: "https://www.amazon.co.jp/s?k=meat%20grinder%20lem%20big%20bite%208", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kitchenaid-grinder-attachment",
+    category: "food",
+    name: { en: "Kitchenaid Grinder Attachment" },
+    description: { en: "The KitchenAid Grinder Attachment is the pick for someone who already owns a KitchenAid stand mixer and wants to grind meat without a separate appliance." },
+    links: [
+      { network: "amazon-us", productId: "kitchenaid-grinder-attachment", rawUrl: "https://www.amazon.com/s?k=meat%20grinder%20kitchenaid%20grinder%20attachment", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kitchenaid-grinder-attachment", rawUrl: "https://www.amazon.co.jp/s?k=meat%20grinder%20kitchenaid%20grinder%20attachment", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gourmia-electric-grinder",
+    category: "food",
+    name: { en: "Gourmia Electric Grinder" },
+    description: { en: "The Gourmia Electric Grinder is the accessible value pick — a capable electric countertop meat grinder at a mid-budget price for grinding meat at home without the cost of the STX…" },
+    links: [
+      { network: "amazon-us", productId: "gourmia-electric-grinder", rawUrl: "https://www.amazon.com/s?k=meat%20grinder%20gourmia%20electric%20grinder", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "gourmia-electric-grinder", rawUrl: "https://www.amazon.co.jp/s?k=meat%20grinder%20gourmia%20electric%20grinder", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sunmile-electric-grinder",
+    category: "food",
+    name: { en: "Sunmile Electric Grinder" },
+    description: { en: "The Sunmile Electric Grinder is the budget standout — an affordable, popular, compact electric meat grinder that does the core job (grinding meat for burgers and basic sausage-mak…" },
+    links: [
+      { network: "amazon-us", productId: "sunmile-electric-grinder", rawUrl: "https://www.amazon.com/s?k=meat%20grinder%20sunmile%20electric%20grinder", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "sunmile-electric-grinder", rawUrl: "https://www.amazon.co.jp/s?k=meat%20grinder%20sunmile%20electric%20grinder", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oster-cordless-wine-opener",
+    category: "food",
+    name: { en: "Oster Cordless Wine Opener" },
+    description: { en: "The Oster Cordless Wine Opener reliably and effortlessly removes corks at the push of a button, opens plenty of bottles per charge, and comes from a trusted brand at a fair price." },
+    links: [
+      { network: "amazon-us", productId: "oster-cordless-wine-opener", rawUrl: "https://www.amazon.com/s?k=electric%20wine%20opener%20oster%20cordless%20wine%20opener", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "oster-cordless-wine-opener", rawUrl: "https://www.amazon.co.jp/s?k=electric%20wine%20opener%20oster%20cordless%20wine%20opener", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "secura-electric-wine-opener",
+    category: "food",
+    name: { en: "Secura Electric Wine Opener" },
+    description: { en: "The Secura Electric Wine Opener is the value all-rounder that often bundles a complete opening kit at a competitive price." },
+    links: [
+      { network: "amazon-us", productId: "secura-electric-wine-opener", rawUrl: "https://www.amazon.com/s?k=secura%20electric%20wine%20opener", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "secura-electric-wine-opener", rawUrl: "https://www.amazon.co.jp/s?k=secura%20electric%20wine%20opener", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-cwo-50",
+    category: "food",
+    name: { en: "Cuisinart Cwo 50" },
+    description: { en: "The Cuisinart CWO-50 is the trusted-brand pick for an electric wine opener from a respected kitchen-appliance name with reliable performance and a quality feel." },
+    links: [
+      { network: "amazon-us", productId: "cuisinart-cwo-50", rawUrl: "https://www.amazon.com/s?k=electric%20wine%20opener%20cuisinart%20cwo%2050", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "cuisinart-cwo-50", rawUrl: "https://www.amazon.co.jp/s?k=electric%20wine%20opener%20cuisinart%20cwo%2050", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ozeri-nouveaux-electric",
+    category: "food",
+    name: { en: "Ozeri Nouveaux Electric" },
+    description: { en: "The Ozeri Nouveaux is the premium-feel, design-forward pick for an electric wine opener that looks elegant on a counter or as a gift." },
+    links: [
+      { network: "amazon-us", productId: "ozeri-nouveaux-electric", rawUrl: "https://www.amazon.com/s?k=electric%20wine%20opener%20ozeri%20nouveaux%20electric", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ozeri-nouveaux-electric", rawUrl: "https://www.amazon.co.jp/s?k=electric%20wine%20opener%20ozeri%20nouveaux%20electric", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "brewberry-electric-corkscrew",
+    category: "food",
+    name: { en: "Brewberry Electric Corkscrew" },
+    description: { en: "The Brewberry Electric Corkscrew is the budget pick — an affordable electric wine opener delivering the core one-button cork-removal function at a low price, for effortless openin…" },
+    links: [
+      { network: "amazon-us", productId: "brewberry-electric-corkscrew", rawUrl: "https://www.amazon.com/s?k=electric%20wine%20opener%20brewberry%20electric%20corkscrew", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "brewberry-electric-corkscrew", rawUrl: "https://www.amazon.co.jp/s?k=electric%20wine%20opener%20brewberry%20electric%20corkscrew", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "outward-hound-fun-feeder",
+    category: "pets",
+    name: { en: "Outward Hound Fun Feeder" },
+    description: { en: "The Outward Hound Fun Feeder is the original, proven slow-feeder design that genuinely works, in multiple difficulty levels and sizes to match any dog." },
+    links: [
+      { network: "amazon-us", productId: "outward-hound-fun-feeder", rawUrl: "https://www.amazon.com/s?k=slow%20feeder%20dog%20bowl%20outward%20hound%20fun%20feeder", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "outward-hound-fun-feeder", rawUrl: "https://www.amazon.co.jp/s?k=slow%20feeder%20dog%20bowl%20outward%20hound%20fun%20feeder", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "jasgood-slow-feeder",
+    category: "pets",
+    name: { en: "Jasgood Slow Feeder" },
+    description: { en: "The JASGOOD Slow Feeder is the value pick that delivers an effective slow-feeder maze at a lower price than the Outward Hound." },
+    links: [
+      { network: "amazon-us", productId: "jasgood-slow-feeder", rawUrl: "https://www.amazon.com/s?k=slow%20feeder%20dog%20bowl%20jasgood%20slow%20feeder", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "jasgood-slow-feeder", rawUrl: "https://www.amazon.co.jp/s?k=slow%20feeder%20dog%20bowl%20jasgood%20slow%20feeder", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "neater-pet-slow-feeder",
+    category: "pets",
+    name: { en: "Neater Pet Slow Feeder" },
+    description: { en: "The Neater Pet Slow Feeder is the pick for slow feeding combined with mess and spill control." },
+    links: [
+      { network: "amazon-us", productId: "neater-pet-slow-feeder", rawUrl: "https://www.amazon.com/s?k=slow%20feeder%20dog%20bowl%20neater%20pet%20slow%20feeder", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "neater-pet-slow-feeder", rawUrl: "https://www.amazon.co.jp/s?k=slow%20feeder%20dog%20bowl%20neater%20pet%20slow%20feeder", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lorde-slow-feeder-bowl",
+    category: "pets",
+    name: { en: "Lorde Slow Feeder Bowl" },
+    description: { en: "The LORDE Slow Feeder Bowl is the pick for a more hygienic or premium-feeling slow feeder, often featuring a stainless-steel maze insert or a more durable design." },
+    links: [
+      { network: "amazon-us", productId: "lorde-slow-feeder-bowl", rawUrl: "https://www.amazon.com/s?k=slow%20feeder%20dog%20bowl%20lorde%20slow%20feeder%20bowl", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "lorde-slow-feeder-bowl", rawUrl: "https://www.amazon.co.jp/s?k=slow%20feeder%20dog%20bowl%20lorde%20slow%20feeder%20bowl", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "frisco-slow-feeder-bowl",
+    category: "pets",
+    name: { en: "Frisco Slow Feeder Bowl" },
+    description: { en: "The Frisco Slow Feeder Bowl is the house-brand value pick — Chewy's Frisco offers affordable, dependable slow-feeder maze bowls that do the core job at a budget-friendly price, in…" },
+    links: [
+      { network: "amazon-us", productId: "frisco-slow-feeder-bowl", rawUrl: "https://www.amazon.com/s?k=slow%20feeder%20dog%20bowl%20frisco%20slow%20feeder%20bowl", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "frisco-slow-feeder-bowl", rawUrl: "https://www.amazon.co.jp/s?k=slow%20feeder%20dog%20bowl%20frisco%20slow%20feeder%20bowl", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "the-north-face-etip-gloves",
+    category: "fashion",
+    name: { en: "The North Face Etip Gloves" },
+    description: { en: "The North Face Etip gloves balance everyday warmth with the touchscreen compatibility and dexterity modern life demands." },
+    links: [
+      { network: "amazon-us", productId: "the-north-face-etip-gloves", rawUrl: "https://www.amazon.com/s?k=winter%20gloves%20the%20north%20face%20etip%20gloves", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "the-north-face-etip-gloves", rawUrl: "https://www.amazon.co.jp/s?k=winter%20gloves%20the%20north%20face%20etip%20gloves", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "carhartt-insulated-gloves",
+    category: "fashion",
+    name: { en: "Carhartt Insulated Gloves" },
+    description: { en: "The Carhartt Insulated Gloves are the rugged work pick for warm, durable, protective gloves for outdoor work, manual tasks, or hard winter use." },
+    links: [
+      { network: "amazon-us", productId: "carhartt-insulated-gloves", rawUrl: "https://www.amazon.com/s?k=winter%20gloves%20carhartt%20insulated%20gloves", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "carhartt-insulated-gloves", rawUrl: "https://www.amazon.co.jp/s?k=winter%20gloves%20carhartt%20insulated%20gloves", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ozero-thermal-gloves",
+    category: "fashion",
+    name: { en: "Ozero Thermal Gloves" },
+    description: { en: "The OZERO Thermal Gloves deliver warmth, water resistance, and touchscreen compatibility at a low price, for capable everyday winter gloves without spending much." },
+    links: [
+      { network: "amazon-us", productId: "ozero-thermal-gloves", rawUrl: "https://www.amazon.com/s?k=winter%20gloves%20ozero%20thermal%20gloves", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ozero-thermal-gloves", rawUrl: "https://www.amazon.co.jp/s?k=winter%20gloves%20ozero%20thermal%20gloves", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hestra-army-leather-gloves",
+    category: "fashion",
+    name: { en: "Hestra Army Leather Gloves" },
+    description: { en: "The Hestra Army Leather gloves are the premium pick for the finest quality, warmth, and craftsmanship — genuine leather gloves built to last years." },
+    links: [
+      { network: "amazon-us", productId: "hestra-army-leather-gloves", rawUrl: "https://www.amazon.com/s?k=winter%20gloves%20hestra%20army%20leather%20gloves", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "hestra-army-leather-gloves", rawUrl: "https://www.amazon.co.jp/s?k=winter%20gloves%20hestra%20army%20leather%20gloves", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "180s-tec-touch-gloves",
+    category: "fashion",
+    name: { en: "180s Tec Touch Gloves" },
+    description: { en: "The 180s Tec Touch is the touchscreen-tech and comfort pick for someone who prioritises reliable touchscreen use and a comfortable, performance-oriented everyday glove." },
+    links: [
+      { network: "amazon-us", productId: "180s-tec-touch-gloves", rawUrl: "https://www.amazon.com/s?k=winter%20gloves%20180s%20tec%20touch%20gloves", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "180s-tec-touch-gloves", rawUrl: "https://www.amazon.co.jp/s?k=winter%20gloves%20180s%20tec%20touch%20gloves", markets: ["JP"], approved: true },
+    ],
+  },
 ] as unknown as AffiliateOffer[];
