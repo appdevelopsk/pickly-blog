@@ -43145,4 +43145,604 @@ export const CATALOG_ADDITIONS = [
       { network: "amazon-jp", productId: "tp-link-archer-ax21", rawUrl: "https://www.amazon.co.jp/s?k=wifi%20router%20tp%20link%20archer%20ax21", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "philips-norelco-9000-prestige",
+    category: "beauty",
+    name: { en: "Philips Norelco 9000 Prestige" },
+    description: { en: "The Philips Norelco 9000 Prestige combines precise, fine length control with a self-sharpening blade system that cuts cleanly without tugging." },
+    links: [
+      { network: "amazon-us", productId: "philips-norelco-9000-prestige", rawUrl: "https://www.amazon.com/s?k=beard%20trimmer%20philips%20norelco%209000%20prestige", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "philips-norelco-9000-prestige", rawUrl: "https://www.amazon.co.jp/s?k=beard%20trimmer%20philips%20norelco%209000%20prestige", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "braun-series-9-beard-trimmer",
+    category: "beauty",
+    name: { en: "Braun Series 9 Beard Trimmer" },
+    description: { en: "The Braun Series 9 beard trimmer is the premium alternative for German engineering, sharp durable blades, and reliable precision." },
+    links: [
+      { network: "amazon-us", productId: "braun-series-9-beard-trimmer", rawUrl: "https://www.amazon.com/s?k=braun%20series%209%20beard%20trimmer", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "braun-series-9-beard-trimmer", rawUrl: "https://www.amazon.co.jp/s?k=braun%20series%209%20beard%20trimmer", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wahl-stainless-steel-trimmer",
+    category: "beauty",
+    name: { en: "Wahl Stainless Steel Trimmer" },
+    description: { en: "The Wahl Stainless Steel Trimmer is the pick for barber-grade cutting and detailing power." },
+    links: [
+      { network: "amazon-us", productId: "wahl-stainless-steel-trimmer", rawUrl: "https://www.amazon.com/s?k=beard%20trimmer%20wahl%20stainless%20steel%20trimmer", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "wahl-stainless-steel-trimmer", rawUrl: "https://www.amazon.co.jp/s?k=beard%20trimmer%20wahl%20stainless%20steel%20trimmer", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "panasonic-er-gb96",
+    category: "beauty",
+    name: { en: "Panasonic Er Gb96" },
+    description: { en: "The Panasonic ER-GB96 is the versatile all-rounder and a strong value pick." },
+    links: [
+      { network: "amazon-us", productId: "panasonic-er-gb96", rawUrl: "https://www.amazon.com/s?k=beard%20trimmer%20panasonic%20er%20gb96", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "panasonic-er-gb96", rawUrl: "https://www.amazon.co.jp/s?k=beard%20trimmer%20panasonic%20er%20gb96", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "brio-beardscape",
+    category: "beauty",
+    name: { en: "Brio Beardscape" },
+    description: { en: "The Brio Beardscape is the budget standout that punches above its price, popular as a capable, well-designed trimmer at a fraction of the premium cost." },
+    links: [
+      { network: "amazon-us", productId: "brio-beardscape", rawUrl: "https://www.amazon.com/s?k=beard%20trimmer%20brio%20beardscape", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "brio-beardscape", rawUrl: "https://www.amazon.co.jp/s?k=beard%20trimmer%20brio%20beardscape", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dior-sauvage-edp",
+    category: "beauty",
+    name: { en: "Dior Sauvage Edp" },
+    description: { en: "Dior Sauvage (EDP) is the modern crowd-pleaser and one of the world's best-selling men's fragrances: an extremely versatile, widely-loved scent with excellent performance." },
+    links: [
+      { network: "amazon-us", productId: "dior-sauvage-edp", rawUrl: "https://www.amazon.com/s?k=perfume%20for%20men%20dior%20sauvage%20edp", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dior-sauvage-edp", rawUrl: "https://www.amazon.co.jp/s?k=perfume%20for%20men%20dior%20sauvage%20edp", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bleu-de-chanel-edp",
+    category: "beauty",
+    name: { en: "Bleu De Chanel Edp" },
+    description: { en: "Bleu de Chanel (EDP) is the closest thing to a do-everything signature scent — appropriate for office, date, day, or evening in almost any season." },
+    links: [
+      { network: "amazon-us", productId: "bleu-de-chanel-edp", rawUrl: "https://www.amazon.com/s?k=perfume%20for%20men%20bleu%20de%20chanel%20edp", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "bleu-de-chanel-edp", rawUrl: "https://www.amazon.co.jp/s?k=perfume%20for%20men%20bleu%20de%20chanel%20edp", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "creed-aventus",
+    category: "beauty",
+    name: { en: "Creed Aventus" },
+    description: { en: "Creed Aventus is the iconic splurge and the benchmark 'luxury masculine' scent for many." },
+    links: [
+      { network: "amazon-us", productId: "creed-aventus", rawUrl: "https://www.amazon.com/s?k=perfume%20for%20men%20creed%20aventus", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "creed-aventus", rawUrl: "https://www.amazon.co.jp/s?k=perfume%20for%20men%20creed%20aventus", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "versace-eros-edt",
+    category: "beauty",
+    name: { en: "Versace Eros Edt" },
+    description: { en: "Versace Eros (EDT) is the value pick for a bold, sexy, crowd-pleasing scent at a noticeably lower price." },
+    links: [
+      { network: "amazon-us", productId: "versace-eros-edt", rawUrl: "https://www.amazon.com/s?k=perfume%20for%20men%20versace%20eros%20edt", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "versace-eros-edt", rawUrl: "https://www.amazon.co.jp/s?k=perfume%20for%20men%20versace%20eros%20edt", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ysl-y-edp",
+    category: "beauty",
+    name: { en: "Ysl Y Edp" },
+    description: { en: "YSL Y (Eau de Parfum) is the youthful, clean, fresh pick that's also genuinely versatile." },
+    links: [
+      { network: "amazon-us", productId: "ysl-y-edp", rawUrl: "https://www.amazon.com/s?k=perfume%20for%20men%20ysl%20y%20edp", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ysl-y-edp", rawUrl: "https://www.amazon.co.jp/s?k=perfume%20for%20men%20ysl%20y%20edp", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "brightech-litespan-led",
+    category: "home",
+    name: { en: "Brightech Litespan Led" },
+    description: { en: "The Brightech LiteSpan delivers bright, comfortable, adjustable light in a slim, versatile design at a sensible price." },
+    links: [
+      { network: "amazon-us", productId: "brightech-litespan-led", rawUrl: "https://www.amazon.com/s?k=floor%20lamp%20brightech%20litespan%20led", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "brightech-litespan-led", rawUrl: "https://www.amazon.co.jp/s?k=floor%20lamp%20brightech%20litespan%20led", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dyson-solarcycle-floor",
+    category: "home",
+    name: { en: "Dyson Solarcycle Floor" },
+    description: { en: "The Dyson Solarcycle is the premium pick for light quality, eye comfort, and precision." },
+    links: [
+      { network: "amazon-us", productId: "dyson-solarcycle-floor", rawUrl: "https://www.amazon.com/s?k=floor%20lamp%20dyson%20solarcycle%20floor", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dyson-solarcycle-floor", rawUrl: "https://www.amazon.co.jp/s?k=floor%20lamp%20dyson%20solarcycle%20floor", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ikea-holmo-floor-lamp",
+    category: "home",
+    name: { en: "Ikea Holmo Floor Lamp" },
+    description: { en: "The IKEA Holmö is the budget pick for affordable, simple, attractive ambient light." },
+    links: [
+      { network: "amazon-us", productId: "ikea-holmo-floor-lamp", rawUrl: "https://www.amazon.com/s?k=ikea%20holmo%20floor%20lamp", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ikea-holmo-floor-lamp", rawUrl: "https://www.amazon.co.jp/s?k=ikea%20holmo%20floor%20lamp", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "possini-euro-arc-lamp",
+    category: "home",
+    name: { en: "Possini Euro Arc Lamp" },
+    description: { en: "The Possini Euro arc floor lamp is the design-statement pick that lights a space from above and to the side." },
+    links: [
+      { network: "amazon-us", productId: "possini-euro-arc-lamp", rawUrl: "https://www.amazon.com/s?k=floor%20lamp%20possini%20euro%20arc%20lamp", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "possini-euro-arc-lamp", rawUrl: "https://www.amazon.co.jp/s?k=floor%20lamp%20possini%20euro%20arc%20lamp", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "globe-electric-torchiere",
+    category: "home",
+    name: { en: "Globe Electric Torchiere" },
+    description: { en: "The Globe Electric torchiere is the bright, affordable up-light pick." },
+    links: [
+      { network: "amazon-us", productId: "globe-electric-torchiere", rawUrl: "https://www.amazon.com/s?k=floor%20lamp%20globe%20electric%20torchiere", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "globe-electric-torchiere", rawUrl: "https://www.amazon.co.jp/s?k=floor%20lamp%20globe%20electric%20torchiere", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ikea-billy-bookcase",
+    category: "home",
+    name: { en: "Ikea Billy Bookcase" },
+    description: { en: "The IKEA Billy is the proven, affordable, endlessly adaptable standard that has furnished bookshelves for decades." },
+    links: [
+      { network: "amazon-us", productId: "ikea-billy-bookcase", rawUrl: "https://www.amazon.com/s?k=bookshelf%20ikea%20billy%20bookcase", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ikea-billy-bookcase", rawUrl: "https://www.amazon.co.jp/s?k=bookshelf%20ikea%20billy%20bookcase", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sauder-5-shelf-bookcase",
+    category: "home",
+    name: { en: "Sauder 5 Shelf Bookcase" },
+    description: { en: "The Sauder 5-Shelf Bookcase is the value workhorse alternative — a tall, generous-capacity bookcase from a long-established American maker, often with a more traditional or woodgr…" },
+    links: [
+      { network: "amazon-us", productId: "sauder-5-shelf-bookcase", rawUrl: "https://www.amazon.com/s?k=bookshelf%20sauder%205%20shelf%20bookcase", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "sauder-5-shelf-bookcase", rawUrl: "https://www.amazon.co.jp/s?k=bookshelf%20sauder%205%20shelf%20bookcase", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "nathan-james-theo",
+    category: "home",
+    name: { en: "Nathan James Theo" },
+    description: { en: "The Nathan James Theo is the design-forward pick for an attractive open feature rather than just storage." },
+    links: [
+      { network: "amazon-us", productId: "nathan-james-theo", rawUrl: "https://www.amazon.com/s?k=bookshelf%20nathan%20james%20theo", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "nathan-james-theo", rawUrl: "https://www.amazon.co.jp/s?k=bookshelf%20nathan%20james%20theo", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "walker-edison-ladder-shelf",
+    category: "home",
+    name: { en: "Walker Edison Ladder Shelf" },
+    description: { en: "The Walker Edison Ladder Shelf is the pick for a stylish, space-conscious leaning or A-frame bookshelf that's as much decorative display as storage." },
+    links: [
+      { network: "amazon-us", productId: "walker-edison-ladder-shelf", rawUrl: "https://www.amazon.com/s?k=bookshelf%20walker%20edison%20ladder%20shelf", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "walker-edison-ladder-shelf", rawUrl: "https://www.amazon.co.jp/s?k=bookshelf%20walker%20edison%20ladder%20shelf", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tribesigns-industrial-bookshelf",
+    category: "home",
+    name: { en: "Tribesigns Industrial Bookshelf" },
+    description: { en: "The Tribesigns Industrial Bookshelf is the statement pick for large, open, industrial-style shelving with serious open display capacity." },
+    links: [
+      { network: "amazon-us", productId: "tribesigns-industrial-bookshelf", rawUrl: "https://www.amazon.com/s?k=tribesigns%20industrial%20bookshelf", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "tribesigns-industrial-bookshelf", rawUrl: "https://www.amazon.co.jp/s?k=tribesigns%20industrial%20bookshelf", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bedsure-fleece-throw",
+    category: "home",
+    name: { en: "Bedsure Fleece Throw" },
+    description: { en: "The Bedsure Fleece Throw nails the everyday essentials — genuinely soft, warm enough, fully machine washable, and cheap enough to own several — without fuss." },
+    links: [
+      { network: "amazon-us", productId: "bedsure-fleece-throw", rawUrl: "https://www.amazon.com/s?k=throw%20blanket%20bedsure%20fleece%20throw", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "bedsure-fleece-throw", rawUrl: "https://www.amazon.co.jp/s?k=throw%20blanket%20bedsure%20fleece%20throw", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "barefoot-dreams-cozychic",
+    category: "home",
+    name: { en: "Barefoot Dreams Cozychic" },
+    description: { en: "The Barefoot Dreams CozyChic is the luxury pick for unmatched plush softness — the blanket people describe as cloud-like and become obsessed with." },
+    links: [
+      { network: "amazon-us", productId: "barefoot-dreams-cozychic", rawUrl: "https://www.amazon.com/s?k=throw%20blanket%20barefoot%20dreams%20cozychic", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "barefoot-dreams-cozychic", rawUrl: "https://www.amazon.co.jp/s?k=throw%20blanket%20barefoot%20dreams%20cozychic", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pendleton-wool-throw",
+    category: "home",
+    name: { en: "Pendleton Wool Throw" },
+    description: { en: "The Pendleton Wool Throw is the heritage pick for genuine warmth, durability, and timeless style." },
+    links: [
+      { network: "amazon-us", productId: "pendleton-wool-throw", rawUrl: "https://www.amazon.com/s?k=throw%20blanket%20pendleton%20wool%20throw", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "pendleton-wool-throw", rawUrl: "https://www.amazon.co.jp/s?k=throw%20blanket%20pendleton%20wool%20throw", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "utopia-flannel-throw",
+    category: "home",
+    name: { en: "Utopia Flannel Throw" },
+    description: { en: "The Utopia Flannel Throw is the rock-bottom value pick — a simple, soft flannel fleece throw at an even lower price than the Bedsure, for cosy, washable warmth at the absolute min…" },
+    links: [
+      { network: "amazon-us", productId: "utopia-flannel-throw", rawUrl: "https://www.amazon.com/s?k=throw%20blanket%20utopia%20flannel%20throw", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "utopia-flannel-throw", rawUrl: "https://www.amazon.co.jp/s?k=throw%20blanket%20utopia%20flannel%20throw", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "chunky-knit-throw-blanket",
+    category: "home",
+    name: { en: "Chunky Knit Throw Blanket" },
+    description: { en: "The chunky knit throw is the trendy decorative pick for a blanket that's a statement piece as much as a functional one." },
+    links: [
+      { network: "amazon-us", productId: "chunky-knit-throw-blanket", rawUrl: "https://www.amazon.com/s?k=chunky%20knit%20throw%20blanket", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "chunky-knit-throw-blanket", rawUrl: "https://www.amazon.co.jp/s?k=chunky%20knit%20throw%20blanket", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "caldigit-ts4",
+    category: "tech",
+    name: { en: "Caldigit Ts4" },
+    description: { en: "The CalDigit TS4 offers the most comprehensive port selection of any Thunderbolt dock with rock-solid reliability." },
+    links: [
+      { network: "amazon-us", productId: "caldigit-ts4", rawUrl: "https://www.amazon.com/s?k=docking%20station%20caldigit%20ts4", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "caldigit-ts4", rawUrl: "https://www.amazon.co.jp/s?k=docking%20station%20caldigit%20ts4", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anker-575-usb-c-dock",
+    category: "tech",
+    name: { en: "Anker 575 Usb C Dock" },
+    description: { en: "The Anker 575 USB-C Dock is the mid-range value pick for a capable, well-rounded dock without paying for Thunderbolt." },
+    links: [
+      { network: "amazon-us", productId: "anker-575-usb-c-dock", rawUrl: "https://www.amazon.com/s?k=docking%20station%20anker%20575%20usb%20c%20dock", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "anker-575-usb-c-dock", rawUrl: "https://www.amazon.co.jp/s?k=docking%20station%20anker%20575%20usb%20c%20dock", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dell-wd19s-dock",
+    category: "tech",
+    name: { en: "Dell Wd19s Dock" },
+    description: { en: "The Dell WD19S is the pick for Dell laptop owners and value-oriented business use." },
+    links: [
+      { network: "amazon-us", productId: "dell-wd19s-dock", rawUrl: "https://www.amazon.com/s?k=docking%20station%20dell%20wd19s%20dock", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dell-wd19s-dock", rawUrl: "https://www.amazon.co.jp/s?k=docking%20station%20dell%20wd19s%20dock", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "plugable-ud-3900",
+    category: "tech",
+    name: { en: "Plugable Ud" },
+    description: { en: "The Plugable UD-3900 is the budget pick and a long-standing best-seller for basic, dependable docking." },
+    links: [
+      { network: "amazon-us", productId: "plugable-ud-3900", rawUrl: "https://www.amazon.com/s?k=docking%20station%20plugable%20ud", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "plugable-ud-3900", rawUrl: "https://www.amazon.co.jp/s?k=docking%20station%20plugable%20ud", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "belkin-thunderbolt-4-dock",
+    category: "tech",
+    name: { en: "Belkin Thunderbolt 4 Dock" },
+    description: { en: "The Belkin Thunderbolt 4 Dock is the premium alternative for flagship Thunderbolt 4 performance from a major, well-supported brand." },
+    links: [
+      { network: "amazon-us", productId: "belkin-thunderbolt-4-dock", rawUrl: "https://www.amazon.com/s?k=docking%20station%20belkin%20thunderbolt%204%20dock", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "belkin-thunderbolt-4-dock", rawUrl: "https://www.amazon.co.jp/s?k=docking%20station%20belkin%20thunderbolt%204%20dock", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "logitech-mx-keys-s",
+    category: "tech",
+    name: { en: "Logitech Mx Keys S" },
+    description: { en: "The Logitech MX Keys S is the best wireless keyboard for most people, especially productivity, combining excellent typing feel with seamless multi-device control and long battery…" },
+    links: [
+      { network: "amazon-us", productId: "logitech-mx-keys-s", rawUrl: "https://www.amazon.com/s?k=wireless%20keyboard%20logitech%20mx%20keys%20s", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "logitech-mx-keys-s", rawUrl: "https://www.amazon.co.jp/s?k=wireless%20keyboard%20logitech%20mx%20keys%20s", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "apple-magic-keyboard",
+    category: "tech",
+    name: { en: "Apple Magic Keyboard" },
+    description: { en: "The Apple Magic Keyboard is the pick for Mac and iPad users wanting seamless Apple-ecosystem integration and a clean, minimalist design." },
+    links: [
+      { network: "amazon-us", productId: "apple-magic-keyboard", rawUrl: "https://www.amazon.com/s?k=wireless%20keyboard%20apple%20magic%20keyboard", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "apple-magic-keyboard", rawUrl: "https://www.amazon.co.jp/s?k=wireless%20keyboard%20apple%20magic%20keyboard", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "keychron-k8-wireless",
+    category: "tech",
+    name: { en: "Keychron K8 Wireless" },
+    description: { en: "The Keychron K8 is the pick for a genuine mechanical keyboard wirelessly." },
+    links: [
+      { network: "amazon-us", productId: "keychron-k8-wireless", rawUrl: "https://www.amazon.com/s?k=wireless%20keyboard%20keychron%20k8%20wireless", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "keychron-k8-wireless", rawUrl: "https://www.amazon.co.jp/s?k=wireless%20keyboard%20keychron%20k8%20wireless", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "logitech-k380",
+    category: "tech",
+    name: { en: "Logitech K380" },
+    description: { en: "The Logitech K380 is the budget pick and a brilliant value for multi-device wireless typing." },
+    links: [
+      { network: "amazon-us", productId: "logitech-k380", rawUrl: "https://www.amazon.com/s?k=wireless%20keyboard%20logitech%20k380", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "logitech-k380", rawUrl: "https://www.amazon.co.jp/s?k=wireless%20keyboard%20logitech%20k380", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "microsoft-sculpt-ergonomic",
+    category: "tech",
+    name: { en: "Microsoft Sculpt Ergonomic" },
+    description: { en: "The Microsoft Sculpt Ergonomic is the pick for reducing wrist and arm strain during long typing." },
+    links: [
+      { network: "amazon-us", productId: "microsoft-sculpt-ergonomic", rawUrl: "https://www.amazon.com/s?k=wireless%20keyboard%20microsoft%20sculpt%20ergonomic", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "microsoft-sculpt-ergonomic", rawUrl: "https://www.amazon.co.jp/s?k=wireless%20keyboard%20microsoft%20sculpt%20ergonomic", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "iottie-easy-one-touch-5",
+    category: "tech",
+    name: { en: "Iottie Easy One Touch 5" },
+    description: { en: "The iOttie Easy One Touch 5 nails secure, genuinely one-handed operation with a versatile, rock-solid mount." },
+    links: [
+      { network: "amazon-us", productId: "iottie-easy-one-touch-5", rawUrl: "https://www.amazon.com/s?k=car%20phone%20mount%20iottie%20easy%20one%20touch%205", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "iottie-easy-one-touch-5", rawUrl: "https://www.amazon.co.jp/s?k=car%20phone%20mount%20iottie%20easy%20one%20touch%205", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "esr-halolock-magsafe-mount",
+    category: "tech",
+    name: { en: "Esr Halolock Magsafe Mount" },
+    description: { en: "The ESR HaloLock MagSafe Mount is the best pick for iPhone users wanting effortless magnetic mounting." },
+    links: [
+      { network: "amazon-us", productId: "esr-halolock-magsafe-mount", rawUrl: "https://www.amazon.com/s?k=car%20phone%20mount%20esr%20halolock%20magsafe%20mount", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "esr-halolock-magsafe-mount", rawUrl: "https://www.amazon.co.jp/s?k=car%20phone%20mount%20esr%20halolock%20magsafe%20mount", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "scosche-magicmount-pro",
+    category: "tech",
+    name: { en: "Scosche Magicmount Pro" },
+    description: { en: "The Scosche MagicMount is the best magnetic mount for the universal, any-phone approach (not MagSafe-dependent)." },
+    links: [
+      { network: "amazon-us", productId: "scosche-magicmount-pro", rawUrl: "https://www.amazon.com/s?k=car%20phone%20mount%20scosche%20magicmount%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "scosche-magicmount-pro", rawUrl: "https://www.amazon.co.jp/s?k=car%20phone%20mount%20scosche%20magicmount%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "beam-electronics-vent-mount",
+    category: "tech",
+    name: { en: "Beam Electronics Vent Mount" },
+    description: { en: "The Beam Electronics Vent Mount is the rock-bottom budget pick for a functional, secure mount for very little money." },
+    links: [
+      { network: "amazon-us", productId: "beam-electronics-vent-mount", rawUrl: "https://www.amazon.com/s?k=car%20phone%20mount%20beam%20electronics%20vent%20mount", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "beam-electronics-vent-mount", rawUrl: "https://www.amazon.co.jp/s?k=car%20phone%20mount%20beam%20electronics%20vent%20mount", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "andobil-car-phone-mount",
+    category: "tech",
+    name: { en: "Andobil Car Phone Mount" },
+    description: { en: "The andobil Car Phone Mount is the value all-rounder offering near-premium features at a mid-budget price." },
+    links: [
+      { network: "amazon-us", productId: "andobil-car-phone-mount", rawUrl: "https://www.amazon.com/s?k=andobil%20car%20phone%20mount", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "andobil-car-phone-mount", rawUrl: "https://www.amazon.co.jp/s?k=andobil%20car%20phone%20mount", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gevi-household-ice-maker",
+    category: "food",
+    name: { en: "Gevi Household Ice Maker" },
+    description: { en: "The Gevi Household Ice Maker makes ice fast, in useful quantity, in a compact, affordable, no-plumbing package." },
+    links: [
+      { network: "amazon-us", productId: "gevi-household-ice-maker", rawUrl: "https://www.amazon.com/s?k=gevi%20household%20ice%20maker", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "gevi-household-ice-maker", rawUrl: "https://www.amazon.co.jp/s?k=gevi%20household%20ice%20maker", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "frigidaire-efic108",
+    category: "food",
+    name: { en: "Frigidaire Efic108" },
+    description: { en: "The Frigidaire EFIC108 balances reliable performance, a recognisable name, and a compact, often stylish design in fun colours." },
+    links: [
+      { network: "amazon-us", productId: "frigidaire-efic108", rawUrl: "https://www.amazon.com/s?k=ice%20maker%20frigidaire%20efic108", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "frigidaire-efic108", rawUrl: "https://www.amazon.co.jp/s?k=ice%20maker%20frigidaire%20efic108", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "gevi-nugget-ice-maker",
+    category: "food",
+    name: { en: "Gevi Nugget Ice Maker" },
+    description: { en: "The Gevi Nugget Ice Maker is the pick for the holy grail of ice — soft, chewable nugget/pebble ice, the kind beloved from Sonic and Chick-fil-A." },
+    links: [
+      { network: "amazon-us", productId: "gevi-nugget-ice-maker", rawUrl: "https://www.amazon.com/s?k=gevi%20nugget%20ice%20maker", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "gevi-nugget-ice-maker", rawUrl: "https://www.amazon.co.jp/s?k=gevi%20nugget%20ice%20maker", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "euhomy-countertop-ice-maker",
+    category: "food",
+    name: { en: "Euhomy Countertop Ice Maker" },
+    description: { en: "The Euhomy Countertop Ice Maker is the value all-rounder — a popular, well-reviewed bullet-style maker competing closely with the Gevi on fast, abundant ice at an affordable price." },
+    links: [
+      { network: "amazon-us", productId: "euhomy-countertop-ice-maker", rawUrl: "https://www.amazon.com/s?k=euhomy%20countertop%20ice%20maker", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "euhomy-countertop-ice-maker", rawUrl: "https://www.amazon.co.jp/s?k=euhomy%20countertop%20ice%20maker", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "igloo-portable-ice-maker",
+    category: "food",
+    name: { en: "Igloo Portable Ice Maker" },
+    description: { en: "The Igloo Portable Ice Maker is the budget and portability pick — Igloo (the cooler brand) makes accessible, often very affordable countertop/portable ice makers ideal for taking…" },
+    links: [
+      { network: "amazon-us", productId: "igloo-portable-ice-maker", rawUrl: "https://www.amazon.com/s?k=igloo%20portable%20ice%20maker", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "igloo-portable-ice-maker", rawUrl: "https://www.amazon.co.jp/s?k=igloo%20portable%20ice%20maker", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "presto-22-inch-griddle",
+    category: "food",
+    name: { en: "Presto 22 Inch Griddle" },
+    description: { en: "The Presto 22-inch Electric Griddle delivers a large, evenly-heated cooking surface at a remarkably low price, doing the core griddle job reliably without fuss." },
+    links: [
+      { network: "amazon-us", productId: "presto-22-inch-griddle", rawUrl: "https://www.amazon.com/s?k=electric%20griddle%20presto%2022%20inch%20griddle", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "presto-22-inch-griddle", rawUrl: "https://www.amazon.co.jp/s?k=electric%20griddle%20presto%2022%20inch%20griddle", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "blackstone-electric-griddle",
+    category: "food",
+    name: { en: "Blackstone Electric Griddle" },
+    description: { en: "The Blackstone Electric Griddle brings the flat-top searing experience indoors — high, even heat on a steel cooking surface for smash burgers, seared meats, stir-fries, and Teppan…" },
+    links: [
+      { network: "amazon-us", productId: "blackstone-electric-griddle", rawUrl: "https://www.amazon.com/s?k=blackstone%20electric%20griddle", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "blackstone-electric-griddle", rawUrl: "https://www.amazon.co.jp/s?k=blackstone%20electric%20griddle", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-gr-4n-griddler",
+    category: "food",
+    name: { en: "Cuisinart Gr 4n Griddler" },
+    description: { en: "The Cuisinart Griddler is the versatile combo — a griddle, grill, and panini/sandwich press in one with interchangeable plates." },
+    links: [
+      { network: "amazon-us", productId: "cuisinart-gr-4n-griddler", rawUrl: "https://www.amazon.com/s?k=electric%20griddle%20cuisinart%20gr%204n%20griddler", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "cuisinart-gr-4n-griddler", rawUrl: "https://www.amazon.co.jp/s?k=electric%20griddle%20cuisinart%20gr%204n%20griddler", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hamilton-beach-electric-griddle",
+    category: "food",
+    name: { en: "Hamilton Beach Electric Griddle" },
+    description: { en: "The Hamilton Beach Electric Griddle is the value alternative to the Presto — a large, affordable nonstick griddle covering the same family-batch breakfast-and-more duties at a bud…" },
+    links: [
+      { network: "amazon-us", productId: "hamilton-beach-electric-griddle", rawUrl: "https://www.amazon.com/s?k=hamilton%20beach%20electric%20griddle", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "hamilton-beach-electric-griddle", rawUrl: "https://www.amazon.co.jp/s?k=hamilton%20beach%20electric%20griddle", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "zojirushi-gourmet-sizzler",
+    category: "food",
+    name: { en: "Zojirushi Gourmet Sizzler" },
+    description: { en: "The Zojirushi Gourmet Sizzler is the premium pick prioritising exceptional even heating, build quality, and a refined cooking experience." },
+    links: [
+      { network: "amazon-us", productId: "zojirushi-gourmet-sizzler", rawUrl: "https://www.amazon.com/s?k=electric%20griddle%20zojirushi%20gourmet%20sizzler", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "zojirushi-gourmet-sizzler", rawUrl: "https://www.amazon.co.jp/s?k=electric%20griddle%20zojirushi%20gourmet%20sizzler", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "green-pet-shop-cooling-mat",
+    category: "pets",
+    name: { en: "Green Pet Shop Cooling Mat" },
+    description: { en: "The Green Pet Shop Cooling Mat uses convenient pressure-activated gel cooling that needs no electricity, water, or refrigeration — it works the moment your dog lies on it." },
+    links: [
+      { network: "amazon-us", productId: "green-pet-shop-cooling-mat", rawUrl: "https://www.amazon.com/s?k=dog%20cooling%20mat%20green%20pet%20shop%20cooling%20mat", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "green-pet-shop-cooling-mat", rawUrl: "https://www.amazon.co.jp/s?k=dog%20cooling%20mat%20green%20pet%20shop%20cooling%20mat", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "k-and-h-coolin-pet-pad",
+    category: "pets",
+    name: { en: "K And H Coolin Pet Pad" },
+    description: { en: "The K&H Coolin' Pet Pad is the pick for dogs that might chew, because it's a water-filled cooling mat rather than gel — a meaningful safety and durability difference." },
+    links: [
+      { network: "amazon-us", productId: "k-and-h-coolin-pet-pad", rawUrl: "https://www.amazon.com/s?k=dog%20cooling%20mat%20k%20and%20h%20coolin%20pet%20pad", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "k-and-h-coolin-pet-pad", rawUrl: "https://www.amazon.co.jp/s?k=dog%20cooling%20mat%20k%20and%20h%20coolin%20pet%20pad", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "arf-pets-self-cooling-mat",
+    category: "pets",
+    name: { en: "Arf Pets Self Cooling Mat" },
+    description: { en: "The Arf Pets Self-Cooling Mat is a popular pressure-activated gel mat positioned as a well-reviewed, often mid-priced option with a focus on a durable cover and a range of sizes." },
+    links: [
+      { network: "amazon-us", productId: "arf-pets-self-cooling-mat", rawUrl: "https://www.amazon.com/s?k=dog%20cooling%20mat%20arf%20pets%20self%20cooling%20mat", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "arf-pets-self-cooling-mat", rawUrl: "https://www.amazon.co.jp/s?k=dog%20cooling%20mat%20arf%20pets%20self%20cooling%20mat", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "chillz-cooling-mat",
+    category: "pets",
+    name: { en: "Chillz Cooling Mat" },
+    description: { en: "The Chillz Cooling Mat is the budget pick — an affordable, popular pressure-activated gel cooling mat (similar in concept to the Green Pet Shop) at a lower price, for self-cooling…" },
+    links: [
+      { network: "amazon-us", productId: "chillz-cooling-mat", rawUrl: "https://www.amazon.com/s?k=dog%20cooling%20mat%20chillz%20cooling%20mat", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "chillz-cooling-mat", rawUrl: "https://www.amazon.co.jp/s?k=dog%20cooling%20mat%20chillz%20cooling%20mat", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "frisco-cooling-mat",
+    category: "pets",
+    name: { en: "Frisco Cooling Mat" },
+    description: { en: "The Frisco Cooling Mat is the value retailer-brand pick — Frisco (Chewy's house brand) offers affordable, no-nonsense pressure-activated gel cooling mats that do the core self-coo…" },
+    links: [
+      { network: "amazon-us", productId: "frisco-cooling-mat", rawUrl: "https://www.amazon.com/s?k=dog%20cooling%20mat%20frisco%20cooling%20mat", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "frisco-cooling-mat", rawUrl: "https://www.amazon.co.jp/s?k=dog%20cooling%20mat%20frisco%20cooling%20mat", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pendleton-board-shirt",
+    category: "fashion",
+    name: { en: "Pendleton Board Shirt" },
+    description: { en: "The Pendleton Board Shirt is the heritage, warmest pick — a genuine wool flannel that's the warmest, most premium, and most distinctive option here." },
+    links: [
+      { network: "amazon-us", productId: "pendleton-board-shirt", rawUrl: "https://www.amazon.com/s?k=flannel%20shirt%20pendleton%20board%20shirt", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "pendleton-board-shirt", rawUrl: "https://www.amazon.co.jp/s?k=flannel%20shirt%20pendleton%20board%20shirt", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ll-bean-scotch-plaid-flannel",
+    category: "fashion",
+    name: { en: "Ll Bean Scotch Plaid Flannel" },
+    description: { en: "The L.L.Bean Scotch Plaid Flannel nails the balance of genuine warmth, softness, durability, and classic style at a fair price, backed by L.L.Bean's legendary guarantee." },
+    links: [
+      { network: "amazon-us", productId: "ll-bean-scotch-plaid-flannel", rawUrl: "https://www.amazon.com/s?k=flannel%20shirt%20ll%20bean%20scotch%20plaid%20flannel", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ll-bean-scotch-plaid-flannel", rawUrl: "https://www.amazon.co.jp/s?k=flannel%20shirt%20ll%20bean%20scotch%20plaid%20flannel", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "carhartt-rugged-flex-flannel",
+    category: "fashion",
+    name: { en: "Carhartt Rugged Flex Flannel" },
+    description: { en: "The Carhartt Rugged Flex Flannel is the rugged workwear pick built for durability and real work." },
+    links: [
+      { network: "amazon-us", productId: "carhartt-rugged-flex-flannel", rawUrl: "https://www.amazon.com/s?k=flannel%20shirt%20carhartt%20rugged%20flex%20flannel", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "carhartt-rugged-flex-flannel", rawUrl: "https://www.amazon.co.jp/s?k=flannel%20shirt%20carhartt%20rugged%20flex%20flannel", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "flint-and-tinder-flannel",
+    category: "fashion",
+    name: { en: "Flint And Tinder Flannel" },
+    description: { en: "The Flint and Tinder Flannel is the premium-cotton, modern-fit pick for an elevated, well-tailored flannel with quality fabric and contemporary styling." },
+    links: [
+      { network: "amazon-us", productId: "flint-and-tinder-flannel", rawUrl: "https://www.amazon.com/s?k=flannel%20shirt%20flint%20and%20tinder%20flannel", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "flint-and-tinder-flannel", rawUrl: "https://www.amazon.co.jp/s?k=flannel%20shirt%20flint%20and%20tinder%20flannel", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "eddie-bauer-flannel",
+    category: "fashion",
+    name: { en: "Eddie Bauer Flannel" },
+    description: { en: "The Eddie Bauer Flannel is the budget value pick — an affordable, soft, dependable cotton flannel that covers the everyday essentials at a lower price than the premium options." },
+    links: [
+      { network: "amazon-us", productId: "eddie-bauer-flannel", rawUrl: "https://www.amazon.com/s?k=flannel%20shirt%20eddie%20bauer%20flannel", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "eddie-bauer-flannel", rawUrl: "https://www.amazon.co.jp/s?k=flannel%20shirt%20eddie%20bauer%20flannel", markets: ["JP"], approved: true },
+    ],
+  },
 ] as unknown as AffiliateOffer[];
