@@ -50,6 +50,11 @@ const NEW_SLUGS = [
   "best-soap-dispenser-2026",
   "best-shower-curtain-2026",
   "best-storage-ottoman-2026",
+  // fitness — basketball sub-intent cluster
+  "best-basketball-shoes-ankle-support-2026",
+  "best-basketball-shoes-for-beginners-2026",
+  "best-basketball-shoes-for-traction-2026",
+  "best-cushioned-basketball-shoes-2026",
 ];
 
 interface EnJson {
@@ -60,11 +65,13 @@ interface EnJson {
 }
 
 function hashtags(slug: string, locale: string): string[] {
-  const cat = slug.includes("mascara") || slug.includes("foundation") || slug.includes("concealer") || slug.includes("eyebrow") || slug.includes("lip") || slug.includes("nail") || slug.includes("setting-spray") ? "beauty" :
+  const cat = slug.includes("basketball") ? "fitness" :
+              slug.includes("mascara") || slug.includes("foundation") || slug.includes("concealer") || slug.includes("eyebrow") || slug.includes("lip") || slug.includes("nail") || slug.includes("setting-spray") ? "beauty" :
               slug.includes("face-roller") || slug.includes("hair") ? "hairbeauty" :
               slug.includes("watch") || slug.includes("boots") || slug.includes("jeans") || slug.includes("swimsuit") || slug.includes("hat") || slug.includes("bag") || slug.includes("coat") || slug.includes("bikini") ? "fashion" : "home";
 
   const baseMap: Record<string, string[]> = {
+    fitness: ["#basketball", "#basketballshoes", "#hoops", "#fitness", "#sneakers", "#review2026"],
     beauty: ["#beautyreview", "#makeuptips", "#beautyhacks", "#skincare", "#beautyfaves", "#review2026"],
     hairbeauty: ["#haircare", "#hairtips", "#beautyroutine", "#hairgoals", "#selfcare", "#review2026"],
     fashion: ["#fashionfinds", "#styleinspo", "#wardrobeessentials", "#fashiontips", "#ootd", "#review2026"],
