@@ -175,6 +175,39 @@ export default async function ArticlePage({ params }: Props) {
     ],
   };
 
+  // JSON-LD: ItemList of compared products (ratings are rendered visibly by ArticleBody — see StarRating).
+  const reviewByOffer = new Map((products ?? []).map((p) => [p.offerId, p.review]));
+  const itemListSchema = offers.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    numberOfItems: offers.length,
+    itemListElement: offers.map((o, i) => {
+      const name = (o.name as Record<string, string>)?.[locale] ?? o.name?.en ?? o.id;
+      const desc = ((o.description as Record<string, string>)?.[locale] ?? o.description?.en) ?? "";
+      const img = o.imageUrl && !o.imageUrl.includes("/images/P/") ? o.imageUrl : undefined;
+      const review = reviewByOffer.get(o.id);
+      return {
+        "@type": "ListItem",
+        position: i + 1,
+        item: {
+          "@type": "Product",
+          name,
+          url: `${canonicalUrl}#offer-${o.id}`,
+          ...(desc ? { description: desc } : {}),
+          ...(img ? { image: img } : {}),
+          ...((o.rating || review) ? {
+            review: {
+              "@type": "Review",
+              ...(review ? { reviewBody: review } : {}),
+              ...(o.rating ? { reviewRating: { "@type": "Rating", ratingValue: o.rating, bestRating: 5, worstRating: 1 } } : {}),
+              author: ORGANIZATION,
+            },
+          } : {}),
+        },
+      };
+    }),
+  } : null;
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
@@ -182,6 +215,9 @@ export default async function ArticlePage({ params }: Props) {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       )}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      {itemListSchema && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
+      )}
       <ArticleBody meta={meta} content={content} offers={offers} />
       <div className="mx-auto max-w-3xl px-4 sm:px-6">
         <RelatedArticles slug={slug} category={meta.category} locale={locale} />
