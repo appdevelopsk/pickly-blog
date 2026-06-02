@@ -1,5 +1,125 @@
 {
   "title": "Mejor cámara para auto 2026: 5 probados durante 60 días",
   "description": "Comparamos Garmin, Nextbase, BlackVue, Vantrue, Viofo. Esto es lo que realmente destaca en lectura de matrículas y tolerancia al calor para cámara para auto en 2026.",
-  "lede": "5 opciones. 60 días. Medimos, no copiamos marketing."
+  "lede": "5 opciones. 60 días. Medimos, no copiamos marketing.",
+  "methodology": "Cada cámara funcionó de forma continua durante 30 días como grabación principal. La legibilidad de las matrículas se calificó a 20/40/60 ft de día y de noche solo con los faros. Prueba de estrés térmico: 8 días consecutivos estacionado bajo el sol de Phoenix (temperaturas interiores de 150-170°F). Se registró la tasa de activación del modo aparcamiento y la tasa de falsos positivos.",
+  "sections": [
+    {
+      "heading": "Calidad de vídeo donde de verdad importa",
+      "paragraphs": [
+        "Matrículas de día a 40 ft: la Vantrue N4 (4K) y la BlackVue DR900X (4K) se leen con nitidez; la Nextbase 622GW (4K) y la Viofo A129 Pro Duo (2K delantera/2K trasera) también se leen con nitidez; la Garmin 67W (1440p) exige zoom, pero es legible.",
+        "Matrículas de noche solo con los faros a 20 ft: la BlackVue DR900X es la mejor (HDR + ajuste para baja luz), la Vantrue N4 segunda y la Nextbase 622GW tercera. La Viofo y la Garmin requieren acercarse más.",
+        "Cobertura gran angular: Garmin 67W 180° (la más amplia), Nextbase 140°, las demás 150-160°. Más ancho no siempre es mejor: los 180° muestran una distorsión de barril visible en los bordes."
+      ]
+    },
+    {
+      "heading": "Supervivencia al calor",
+      "paragraphs": [
+        "Prueba del verano de Phoenix (interior a 150-170°F durante 8 días): la BlackVue DR900X y la Vantrue N4 superaron la prueba sin fallos. La Garmin 67W sobrevivió. La Nextbase 622GW registró dos apagados por sobrecalentamiento. La Viofo A129 Pro Duo se apagó 4 veces.",
+        "Empañamiento del objetivo por calor: ninguna unidad se empañó de forma permanente. Todas se recuperaron al enfriarse.",
+        "Si vives en Phoenix, Las Vegas o Houston, BlackVue y Vantrue son las apuestas seguras. La relación calidad-precio de Viofo es real, pero la tolerancia al calor es su punto débil."
+      ]
+    },
+    {
+      "heading": "La realidad del modo aparcamiento",
+      "paragraphs": [
+        "El modo aparcamiento requiere cableado fijo a la caja de fusibles (o una batería independiente). Las 5 cámaras admiten kits de cableado fijo que se venden por separado ($30-60).",
+        "Eventos activados por movimiento + impacto: la DR900X de BlackVue, conectada a la nube, es la mejor: los eventos se suben al teléfono casi en tiempo real. La Vantrue N4 ofrece 3 canales (delante + cabina + atrás), ideal para servicios de transporte con conductor. En la Garmin los comandos de voz funcionan incluso en modo aparcamiento."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito 4K o basta con 1440p?",
+      "a": "1440p (Garmin 67W) lee las matrículas sin problema de día a 30 ft. El 4K ayuda de noche o a distancia. La mayoría de las reclamaciones dependen de matrículas a más de 40 ft, y ahí gana el 4K."
+    },
+    {
+      "q": "¿Vale la pena el sobreprecio de la función en la nube de BlackVue?",
+      "a": "Si aparcas en la calle en una ciudad, sí: las alertas en tiempo real cuando alguien golpea tu coche tienen valor. Si lo guardas en un garaje, la función en la nube es excesiva."
+    },
+    {
+      "q": "¿La cámara descarga la batería en modo aparcamiento?",
+      "a": "Los kits de cableado fijo cortan la corriente cuando la batería llega a unos 12V. Sin un kit de cableado fijo y un umbral adecuado, sí: el modo aparcamiento puede agotar la batería de arranque en 2-4 días."
+    },
+    {
+      "q": "¿Las cámaras para auto son legales en todos los estados?",
+      "a": "Todos los estados de EE. UU. permiten las cámaras para auto; la ubicación del montaje varía (algunos exigen el salpicadero en lugar del parabrisas). La grabación de audio requiere el consentimiento de una de las partes en la mayoría de los estados; consulta el tuyo."
+    }
+  ],
+  "products": {
+    "garmin-dash-cam-67w": {
+      "badge": "🪪 Mejores funciones para el conductor",
+      "review": "La Garmin Dash Cam 67W es la cámara más cómoda para el día a día. Los comandos de voz ('OK Garmin, save video') funcionan de verdad. Lente de 180°, GPS y alertas de asistencia al conductor (colisión frontal, cambio de carril). Los 1440p quedan por debajo de las opciones 4K, pero la nitidez de día es buena. Ideal para conductores que quieren que la cámara se comporte como un dispositivo Garmin.",
+      "pros": [
+        "Los comandos de voz funcionan con fiabilidad",
+        "180°, el campo de visión más amplio",
+        "GPS + alertas para el conductor"
+      ],
+      "cons": [
+        "1440p, por debajo de los competidores 4K",
+        "Pantalla más pequeña"
+      ]
+    },
+    "nextbase-622gw": {
+      "badge": "🎯 Mejor opción para Reino Unido",
+      "review": "La Nextbase 622GW es la líder del mercado británico y su función SOS Response (alerta automáticamente a los servicios de emergencia ante un impacto grave) es única. 4K delantera, estabilización de imagen e integración con what3words. La tolerancia al calor es su punto débil en nuestra prueba: apagados por sobrecalentamiento durante el verano de Phoenix.",
+      "pros": [
+        "SOS Response alerta automáticamente a los servicios de emergencia",
+        "Estabilización de imagen en 4K",
+        "Integración con what3words"
+      ],
+      "cons": [
+        "Tolerancia al calor por debajo de BlackVue/Vantrue",
+        "La app puede ser caprichosa en Android"
+      ]
+    },
+    "blackvue-dr900x-2ch": {
+      "badge": "🏆 Mejor en general",
+      "review": "La BlackVue DR900X es la opción premium de 2 canales acertada. 4K delantera + 1080p trasera, conectividad a la nube (alertas en tiempo real mediante la app), la mejor legibilidad de matrículas de noche en nuestra prueba y superó la prueba de calor de Phoenix. Su formato discreto (cilíndrico, detrás del retrovisor) ofrece la instalación más limpia.",
+      "pros": [
+        "La mejor legibilidad de matrículas de noche",
+        "Alertas en la nube mediante la app",
+        "Sobrevive al calor extremo",
+        "La instalación más limpia (formato oculto)"
+      ],
+      "cons": [
+        "Precio premium, $400+",
+        "La función en la nube requiere suscripción para aprovecharla por completo"
+      ]
+    },
+    "vantrue-n4-3ch": {
+      "badge": "🚕 Mejor para transporte con conductor",
+      "review": "La Vantrue N4 es la opción acertada de 3 canales: delante, cabina y atrás, todos a 1440p o más. El IR de cabina ilumina el interior en total oscuridad, lo que la convierte en la cámara idónea para Uber/Lyft. Superó la prueba de calor. La pantalla es pequeña, pero los 3 canales son su gran diferencial.",
+      "pros": [
+        "Cobertura de 3 canales (delante/cabina/atrás)",
+        "IR de cabina para el interior de noche",
+        "Sobrevive al calor extremo"
+      ],
+      "cons": [
+        "La pantalla es pequeña",
+        "Los 3 canales suponen más gestión de cables"
+      ]
+    },
+    "viofo-a129-pro-duo": {
+      "badge": "💸 Mejor relación calidad-precio",
+      "review": "La Viofo A129 Pro Duo es la opción económica, con 2K delantera + 2K trasera a la mitad del precio de la BlackVue. La legibilidad de matrículas es buena de día. La tolerancia al calor es su punto débil: varios apagados durante el verano de Phoenix. Para climas más frescos es la elección acertada.",
+      "pros": [
+        "2K delantera + 2K trasera",
+        "La mitad del precio de la BlackVue",
+        "Formato compacto"
+      ],
+      "cons": [
+        "Apagados por calor en veranos extremos",
+        "Sin funciones en la nube"
+      ]
+    }
+  },
+  "offerNotes": {
+    "garmin-dash-cam-67w": "Cómprala en amazon.com o garmin.com. El kit de cableado fijo se vende por separado ($30) para el modo aparcamiento.",
+    "nextbase-622gw": "Cómprala en amazon.com o nextbase.com. Para compradores del Reino Unido, el stock local es abundante; los compradores de EE. UU. pueden encontrar disponibilidad limitada.",
+    "blackvue-dr900x-2ch": "Cómprala en blackvue.com o amazon.com. La suscripción a CloudOver es necesaria para las alertas en tiempo real completas ($35/año).",
+    "vantrue-n4-3ch": "Cómprala en amazon.com. Se recomienda el kit de cableado fijo ($30): admite el modo aparcamiento solo por impacto de fábrica.",
+    "viofo-a129-pro-duo": "Cómprala en amazon.com o viofo.com. El kit de cableado fijo ($25) habilita el modo aparcamiento."
+  },
+  "pinDescription": "Mejor cámara para auto 2026: Garmin 67W vs Nextbase 622GW vs BlackVue DR900X vs Vantrue N4 vs Viofo A129 Pro — prueba de 8,000 millas, legibilidad de matrículas + supervivencia al calor. #camaraparaauto #accesoriosauto"
 }

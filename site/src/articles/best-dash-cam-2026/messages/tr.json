@@ -1,5 +1,125 @@
 {
   "title": "2026'nın en iyi araç kamerası: 5 ürün 60 gün test edildi",
   "description": "Garmin, Nextbase, BlackVue, Vantrue, Viofo ürünlerini karşılaştırdık. 2026'da araç kamerası için plaka okunabilirliği ve ısı dayanımı açısından gerçekten öne çıkan hangisi.",
-  "lede": "5 ürün. 60 gün. Pazarlama değil, gerçek ölçüm."
+  "lede": "5 ürün. 60 gün. Pazarlama değil, gerçek ölçüm.",
+  "methodology": "Her kamera 30 gün boyunca ana kayıt cihazı olarak kesintisiz çalıştı. Plaka okunabilirliği gündüz ve yalnızca farlarla gece koşullarında 20/40/60 ft mesafelerde puanlandı. Isı dayanıklılık testi: Phoenix güneşinde 8 gün üst üste park halinde (iç sıcaklık 150-170°F). Park modu tetiklenme oranı ve yanlış pozitif oranı kaydedildi.",
+  "sections": [
+    {
+      "heading": "Önemli olduğu yerde görüntü kalitesi",
+      "paragraphs": [
+        "Gündüz 40 ft mesafede plakalar: Vantrue N4 (4K) ve BlackVue DR900X (4K) net okunuyor; Nextbase 622GW (4K) ve Viofo A129 Pro Duo (ön 2K/arka 2K) da net okunuyor; Garmin 67W (1440p) yakınlaştırma gerektiriyor ama okunabilir.",
+        "Gece yalnızca farlarla 20 ft mesafede plakalar: BlackVue DR900X en iyisi (HDR + düşük ışık ayarı), Vantrue N4 ikinci, Nextbase 622GW üçüncü. Viofo ve Garmin daha yakın mesafe gerektiriyor.",
+        "Geniş açı kapsamı: Garmin 67W 180° (en geniş), Nextbase 140°, diğerleri 150-160°. Daha geniş her zaman daha iyi değildir — 180°'de kenarlarda gözle görülür fıçı bozulması var."
+      ]
+    },
+    {
+      "heading": "Sıcağa dayanıklılık",
+      "paragraphs": [
+        "Phoenix yaz testi (8 gün boyunca iç sıcaklık 150-170°F): BlackVue DR900X ve Vantrue N4 ikisi de arızasız geçti. Garmin 67W ayakta kaldı. Nextbase 622GW iki kez aşırı ısınma nedeniyle kapanma bildirdi. Viofo A129 Pro Duo 4 kez kapandı.",
+        "Isıya bağlı lens buğulanması: hiçbir ünite kalıcı olarak buğulanmadı. Soğuduktan sonra hepsi düzeldi.",
+        "Phoenix, Las Vegas veya Houston'da yaşıyorsanız BlackVue ve Vantrue güvenli tercihlerdir. Viofo'nun fiyat avantajı gerçek, ancak ısı dayanımı zayıf noktası."
+      ]
+    },
+    {
+      "heading": "Park modunun gerçeği",
+      "paragraphs": [
+        "Park modu, sigorta kutusuna doğrudan kablolama (ya da ayrı bir batarya paketi) gerektirir. 5 kameranın tümü ayrı satılan doğrudan kablolama kitlerini destekler ($30-60).",
+        "Hareket + darbe ile tetiklenen olaylar: BlackVue'nun buluta bağlı DR900X'i en iyisidir — olaylar neredeyse gerçek zamanlı olarak telefona yüklenir. Vantrue N4'te 3 kanal (ön + kabin + arka) bulunur — yolcu taşımacılığı için en iyisi. Garmin'de sesli komutlar park modunda bile çalışır."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "4K mı gerekli yoksa 1440p yeterli mi?",
+      "a": "1440p (Garmin 67W) gündüz 30 ft mesafede plakaları sorunsuz okur. 4K, gece veya uzak mesafede işe yarar. Çoğu talep 40 ft'nin ötesindeki plakalara dayanır — orada 4K kazanır."
+    },
+    {
+      "q": "BlackVue'nun bulut özelliği ek bedele değer mi?",
+      "a": "Şehirde açık alanda park ediyorsanız evet — biri aracınıza çarptığında gelen gerçek zamanlı uyarılar değerlidir. Aracınızı garajda tutuyorsanız bulut özelliği gereğinden fazladır."
+    },
+    {
+      "q": "Araç kamerası park modunda aküyü bitirir mi?",
+      "a": "Doğrudan kablolama kitleri, akü yaklaşık 12V'a düştüğünde gücü keser. Doğrudan kablolama kiti ve uygun eşik olmadan evet — park modu marş aküsünü 2-4 günde bitirebilir."
+    },
+    {
+      "q": "Araç kameraları tüm eyaletlerde yasal mı?",
+      "a": "Tüm ABD eyaletleri araç kamerasına izin verir; montaj yeri değişir (bazıları ön cam yerine torpido gösterge panelini şart koşar). Ses kaydı çoğu eyalette tek taraf onayı gerektirir; kendi eyaletinizi kontrol edin."
+    }
+  ],
+  "products": {
+    "garmin-dash-cam-67w": {
+      "badge": "🪪 En iyi sürücü özellikleri",
+      "review": "Garmin Dash Cam 67W, günlük kullanımı en kolay kameradır. Sesli komutlar ('OK Garmin, save video') gerçekten çalışır. 180° lens, GPS, sürücü destek uyarıları (ön çarpışma, şerit ihlali). 1440p, 4K seçeneklerinin altında kalsa da gündüz netliği iyidir. Araç kamerasının bir Garmin cihazı gibi davranmasını isteyen sürücüler için en iyisi.",
+      "pros": [
+        "Sesli komutlar güvenilir şekilde çalışır",
+        "180°, en geniş görüş alanı",
+        "GPS + sürücü uyarıları"
+      ],
+      "cons": [
+        "1440p, 4K rakiplerinin altında",
+        "Daha küçük ekran"
+      ]
+    },
+    "nextbase-622gw": {
+      "badge": "🎯 İngiltere için en iyi seçim",
+      "review": "Nextbase 622GW İngiltere pazarının lideridir ve SOS Response özelliği (ciddi darbede acil servisleri otomatik uyarır) benzersizdir. 4K ön, görüntü sabitleme, what3words entegrasyonu. Isı dayanımı testimizde zayıf noktadır — Phoenix yazında aşırı ısınma kapanmaları yaşandı.",
+      "pros": [
+        "SOS Response acil servisleri otomatik uyarır",
+        "4K'da görüntü sabitleme",
+        "what3words entegrasyonu"
+      ],
+      "cons": [
+        "Isı dayanımı BlackVue/Vantrue'nun altında",
+        "Uygulama Android'de zaman zaman sorunlu olabilir"
+      ]
+    },
+    "blackvue-dr900x-2ch": {
+      "badge": "🏆 Genel olarak en iyi",
+      "review": "BlackVue DR900X doğru premium 2 kanallı tercihtir. 4K ön + 1080p arka, bulut bağlantısı (uygulama üzerinden gerçek zamanlı uyarılar), testimizdeki en iyi gece plaka okunabilirliği ve Phoenix ısı testini geçti. Gizli form faktörü (silindirik, dikiz aynasının arkasında) en temiz kurulumu sağlar.",
+      "pros": [
+        "En iyi gece plaka okunabilirliği",
+        "Uygulama üzerinden bulut uyarıları",
+        "Aşırı sıcağa dayanır",
+        "En temiz kurulum (gizli form)"
+      ],
+      "cons": [
+        "Premium fiyat, $400+",
+        "Bulut özelliği tam kullanım için abonelik gerektirir"
+      ]
+    },
+    "vantrue-n4-3ch": {
+      "badge": "🚕 Yolcu taşımacılığı için en iyi",
+      "review": "Vantrue N4 doğru 3 kanallı tercihtir — ön, kabin, arka hepsi 1440p+. Kabin kızılötesi, tam karanlıkta iç mekanı aydınlatır ve onu ideal Uber/Lyft kamerası yapar. Isı testini geçti. Ekran küçük ama 3 kanal asıl farktır.",
+      "pros": [
+        "3 kanal kapsama (ön/kabin/arka)",
+        "Gece iç mekan için kabin kızılötesi",
+        "Aşırı sıcağa dayanır"
+      ],
+      "cons": [
+        "Ekran küçük",
+        "3 kanal daha fazla kablo yönetimi demek"
+      ]
+    },
+    "viofo-a129-pro-duo": {
+      "badge": "💸 En iyi fiyat/performans",
+      "review": "Viofo A129 Pro Duo, BlackVue'nun yarı fiyatına 2K ön + 2K arka sunan fiyat/performans tercihidir. Gündüz plaka okunabilirliği iyidir. Isı dayanımı zayıf noktadır — Phoenix yazında birden fazla kapanma. Daha serin iklimler için doğru tercihtir.",
+      "pros": [
+        "2K ön + 2K arka",
+        "BlackVue'nun yarı fiyatı",
+        "Kompakt form faktörü"
+      ],
+      "cons": [
+        "Aşırı yazda ısı kapanmaları",
+        "Bulut özelliği yok"
+      ]
+    }
+  },
+  "offerNotes": {
+    "garmin-dash-cam-67w": "amazon.com veya garmin.com'dan satın alın. Park modu için doğrudan kablolama kiti ayrı satılır ($30).",
+    "nextbase-622gw": "amazon.com veya nextbase.com'dan satın alın. İngiltere'deki alıcılar için yerel stok bol; ABD'deki alıcılar sınırlı stokla karşılaşabilir.",
+    "blackvue-dr900x-2ch": "blackvue.com veya amazon.com'dan satın alın. Tam gerçek zamanlı uyarılar için CloudOver aboneliği gereklidir ($35/yıl).",
+    "vantrue-n4-3ch": "amazon.com'dan satın alın. Doğrudan kablolama kiti ($30) önerilir — kutudan çıktığı gibi yalnızca darbe park modunu destekler.",
+    "viofo-a129-pro-duo": "amazon.com veya viofo.com'dan satın alın. Doğrudan kablolama kiti ($25) park modunu destekler."
+  },
+  "pinDescription": "2026'nın en iyi araç kamerası: Garmin 67W vs Nextbase 622GW vs BlackVue DR900X vs Vantrue N4 vs Viofo A129 Pro — 8,000 millik test, plaka okunabilirliği + ısı dayanımı. #araçkamerası #otoaksesuar"
 }

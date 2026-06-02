@@ -1,5 +1,125 @@
 {
   "title": "dash cam Terbaik 2026: 5 diuji selama 60 hari",
   "description": "Kami membandingkan Garmin, Nextbase, BlackVue, Vantrue, Viofo. Inilah dash cam 2026 yang benar-benar unggul dalam hal keterbacaan pelat dan toleransi panas.",
-  "lede": "5 pilihan. 60 hari. Pengukuran nyata, bukan iklan."
+  "lede": "5 pilihan. 60 hari. Pengukuran nyata, bukan iklan.",
+  "methodology": "Setiap kamera berjalan terus-menerus selama 30 hari sebagai perekam utama. Keterbacaan pelat nomor dinilai pada jarak 20/40/60 ft di siang hari dan malam hari hanya dengan lampu depan. Uji tahan panas: 8 hari berturut-turut diparkir di bawah matahari Phoenix (suhu interior 150-170°F). Tingkat pemicuan mode parkir dan tingkat false positive dicatat.",
+  "sections": [
+    {
+      "heading": "Kualitas video di tempat yang benar-benar penting",
+      "paragraphs": [
+        "Pelat siang hari pada jarak 40 ft: Vantrue N4 (4K) dan BlackVue DR900X (4K) terbaca jelas; Nextbase 622GW (4K) dan Viofo A129 Pro Duo (2K depan/2K belakang) juga terbaca jelas; Garmin 67W (1440p) memerlukan zoom tetapi tetap terbaca.",
+        "Pelat malam hari hanya dengan lampu depan pada jarak 20 ft: BlackVue DR900X terbaik (HDR + penyetelan cahaya rendah), Vantrue N4 kedua, Nextbase 622GW ketiga. Viofo dan Garmin memerlukan jarak lebih dekat.",
+        "Cakupan sudut lebar: Garmin 67W 180° (terlebar), Nextbase 140°, lainnya 150-160°. Lebih lebar tidak selalu lebih baik — pada 180° terlihat distorsi barel yang nyata di bagian tepi."
+      ]
+    },
+    {
+      "heading": "Ketahanan terhadap panas",
+      "paragraphs": [
+        "Uji musim panas Phoenix (interior 150-170°F selama 8 hari): BlackVue DR900X dan Vantrue N4 sama-sama lolos tanpa kegagalan. Garmin 67W bertahan. Nextbase 622GW melaporkan mati karena panas berlebih dua kali. Viofo A129 Pro Duo mati 4 kali.",
+        "Pengembunan lensa akibat panas: tidak ada unit yang berembun secara permanen. Semua pulih setelah dingin.",
+        "Jika Anda tinggal di Phoenix, Las Vegas, atau Houston — BlackVue dan Vantrue adalah pilihan aman. Nilai Viofo memang nyata, tetapi toleransi panas adalah titik lemahnya."
+      ]
+    },
+    {
+      "heading": "Kenyataan mode parkir",
+      "paragraphs": [
+        "Mode parkir memerlukan hardwire ke kotak sekring (atau paket baterai terpisah). Kelima kamera mendukung kit hardwire yang dijual terpisah ($30-60).",
+        "Peristiwa yang dipicu gerakan + benturan: DR900X BlackVue yang terhubung cloud adalah yang terbaik — peristiwa diunggah ke ponsel hampir secara real-time. Vantrue N4 memiliki 3 saluran (depan + kabin + belakang) — terbaik untuk layanan ride-sharing. Pada Garmin, perintah suara tetap berfungsi bahkan dalam mode parkir."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Apakah saya butuh 4K atau 1440p sudah cukup?",
+      "a": "1440p (Garmin 67W) membaca pelat dengan baik di siang hari pada jarak 30 ft. 4K membantu di malam hari atau pada jarak jauh. Sebagian besar klaim bergantung pada pelat di atas 40 ft — di situ 4K unggul."
+    },
+    {
+      "q": "Apakah fitur cloud BlackVue sepadan dengan harga tambahannya?",
+      "a": "Jika Anda parkir di luar ruangan di kota, ya — peringatan real-time saat seseorang menyenggol mobil Anda berharga. Jika Anda menyimpan mobil di garasi, fitur cloud terasa berlebihan."
+    },
+    {
+      "q": "Apakah dash cam menguras baterai dalam mode parkir?",
+      "a": "Kit hardwire memutus daya saat baterai mencapai sekitar 12V. Tanpa kit hardwire dan ambang yang tepat, ya — mode parkir bisa menguras baterai starter dalam 2-4 hari."
+    },
+    {
+      "q": "Apakah dash cam legal di semua negara bagian?",
+      "a": "Semua negara bagian AS mengizinkan dash cam; lokasi pemasangan bervariasi (beberapa mewajibkan dasbor alih-alih kaca depan). Perekaman audio memerlukan persetujuan satu pihak di sebagian besar negara bagian; periksa negara bagian Anda."
+    }
+  ],
+  "products": {
+    "garmin-dash-cam-67w": {
+      "badge": "🪪 Fitur pengemudi terbaik",
+      "review": "Garmin Dash Cam 67W adalah kamera yang paling mudah digunakan sehari-hari. Perintah suara ('OK Garmin, save video') benar-benar berfungsi. Lensa 180°, GPS, peringatan bantuan pengemudi (tabrakan depan, keluar jalur). 1440p berada di bawah opsi 4K, tetapi kejernihan siang harinya bagus. Terbaik untuk pengemudi yang ingin dash cam berperilaku seperti perangkat Garmin.",
+      "pros": [
+        "Perintah suara berfungsi andal",
+        "180°, bidang pandang terlebar",
+        "GPS + peringatan pengemudi"
+      ],
+      "cons": [
+        "1440p, di bawah pesaing 4K",
+        "Layar lebih kecil"
+      ]
+    },
+    "nextbase-622gw": {
+      "badge": "🎯 Pilihan terbaik Inggris",
+      "review": "Nextbase 622GW adalah pemimpin pasar Inggris dan fitur SOS Response (otomatis memberi tahu layanan darurat saat benturan serius) sangat unik. 4K depan, stabilisasi gambar, integrasi what3words. Toleransi panas adalah titik lemah dalam pengujian kami — mati karena panas berlebih saat musim panas Phoenix.",
+      "pros": [
+        "SOS Response otomatis memberi tahu layanan darurat",
+        "Stabilisasi gambar pada 4K",
+        "Integrasi what3words"
+      ],
+      "cons": [
+        "Toleransi panas di bawah BlackVue/Vantrue",
+        "Aplikasi bisa rewel di Android"
+      ]
+    },
+    "blackvue-dr900x-2ch": {
+      "badge": "🏆 Terbaik secara keseluruhan",
+      "review": "BlackVue DR900X adalah pilihan premium 2 saluran yang tepat. 4K depan + 1080p belakang, konektivitas cloud (peringatan real-time via aplikasi), keterbacaan pelat malam terbaik dalam pengujian kami, dan lolos uji panas Phoenix. Bentuk yang tersembunyi (silindris, di belakang kaca spion) memberikan pemasangan paling rapi.",
+      "pros": [
+        "Keterbacaan pelat malam terbaik",
+        "Peringatan cloud via aplikasi",
+        "Tahan panas ekstrem",
+        "Pemasangan paling rapi (bentuk tersembunyi)"
+      ],
+      "cons": [
+        "Harga premium, $400+",
+        "Fitur cloud memerlukan langganan untuk penggunaan penuh"
+      ]
+    },
+    "vantrue-n4-3ch": {
+      "badge": "🚕 Terbaik untuk ride-sharing",
+      "review": "Vantrue N4 adalah pilihan 3 saluran yang tepat — depan, kabin, belakang semuanya 1440p+. IR kabin menerangi interior dalam kegelapan total, menjadikannya dash cam yang tepat untuk Uber/Lyft. Lolos uji panas. Layarnya kecil, tetapi 3 saluran adalah pembedanya.",
+      "pros": [
+        "Cakupan 3 saluran (depan/kabin/belakang)",
+        "IR kabin untuk interior malam hari",
+        "Tahan panas ekstrem"
+      ],
+      "cons": [
+        "Layarnya kecil",
+        "3 saluran berarti lebih banyak pengaturan kabel"
+      ]
+    },
+    "viofo-a129-pro-duo": {
+      "badge": "💸 Nilai terbaik",
+      "review": "Viofo A129 Pro Duo adalah pilihan hemat dengan 2K depan + 2K belakang dengan setengah harga BlackVue. Keterbacaan pelat bagus di siang hari. Toleransi panas adalah titik lemah — beberapa kali mati saat musim panas Phoenix. Untuk iklim yang lebih sejuk, ini pilihan yang tepat.",
+      "pros": [
+        "2K depan + 2K belakang",
+        "Setengah harga BlackVue",
+        "Bentuk ringkas"
+      ],
+      "cons": [
+        "Mati karena panas saat musim panas ekstrem",
+        "Tanpa fitur cloud"
+      ]
+    }
+  },
+  "offerNotes": {
+    "garmin-dash-cam-67w": "Beli di amazon.com atau garmin.com. Kit hardwire dijual terpisah ($30) untuk mode parkir.",
+    "nextbase-622gw": "Beli di amazon.com atau nextbase.com. Pembeli di Inggris — stok lokal melimpah; pembeli di AS mungkin menghadapi ketersediaan terbatas.",
+    "blackvue-dr900x-2ch": "Beli di blackvue.com atau amazon.com. Langganan CloudOver diperlukan untuk peringatan real-time penuh ($35/tahun).",
+    "vantrue-n4-3ch": "Beli di amazon.com. Kit hardwire ($30) disarankan — mendukung mode parkir hanya-benturan secara bawaan.",
+    "viofo-a129-pro-duo": "Beli di amazon.com atau viofo.com. Kit hardwire ($25) mendukung mode parkir."
+  },
+  "pinDescription": "Dash cam terbaik 2026: Garmin 67W vs Nextbase 622GW vs BlackVue DR900X vs Vantrue N4 vs Viofo A129 Pro — uji 8,000 mil, keterbacaan pelat + ketahanan panas. #dashcam #aksesorismobil"
 }

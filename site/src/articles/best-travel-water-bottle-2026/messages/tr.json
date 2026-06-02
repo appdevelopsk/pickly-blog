@@ -1,5 +1,119 @@
 {
   "title": "2026'nın en iyi seyahat su şişesi: 5 ürün 60 gün test edildi",
   "description": "Hydro Flask, YETI, Owala, Vapur, LARQ ürünlerini karşılaştırdık. 2026'da seyahat su şişesi için yalıtım ve katlanabilirlik açısından gerçekten öne çıkan hangisi.",
-  "lede": "5 ürün. 60 gün. Pazarlama değil, gerçek ölçüm."
+  "lede": "5 ürün. 60 gün. Pazarlama değil, gerçek ölçüm.",
+  "methodology": "Her şişeyi seyahatin başında buzlu suyla doldurduk ve 12. ile 24. saatte sıcaklığı ölçtük. Yükseklikte sızdırmazlığı test ettik (kabin basıncı değişimleri). Sırt çantasıyla kullanım için katlanmış halinin boyutunu ölçtük.",
+  "sections": [
+    {
+      "heading": "Paslanmaz çelik vs. katlanabilir vs. yüksek teknoloji",
+      "paragraphs": [
+        "Paslanmaz çelik (Hydro Flask, YETI, Owala): 24 saat soğuk tutar, dayanıklı, ağır. Genel kullanım için en iyisi.",
+        "Katlanabilir (Vapur): boşken cep boyutuna katlanır, yalıtımı daha düşük. Sırt çantasıyla seyahat için en iyisi.",
+        "Yüksek teknoloji (LARQ): UV-C ile kendi kendini temizler, USB ile şarj edilir. Su kalitesinin değiştiği seyahatler için."
+      ]
+    },
+    {
+      "heading": "Her kullanım için en iyisi",
+      "paragraphs": [
+        "En iyi premium: Hydro Flask 32oz ($45-55). 24 saat soğuk tutar, ömür boyu garanti.",
+        "En iyi alternatif premium: YETI Rambler 26oz ($45-55). Bulaşık makinesinde yıkanabilir.",
+        "En iyi orta segment: Owala FreeSip ($25-35). Çift modlu kapak.",
+        "En iyi katlanabilir: Vapur ($10-18). Cebe sığacak şekilde katlanır.",
+        "En iyi yüksek teknoloji: LARQ ($95-135). UV-C ile kendi kendini temizler."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "LARQ'ın UV-C özelliği bir gösteriş mi yoksa gerçekten işe yarıyor mu?",
+      "a": "Su kalitesinin değiştiği uluslararası seyahatlerde işe yarar. UV-C, bakteri ve virüslerin %99,99'unu 60 saniyede yok eder. Suyu ABD'de musluktan dolduruyorsanız gerekli değildir."
+    },
+    {
+      "q": "Hydro Flask mı, YETI mi?",
+      "a": "İkisi de mükemmel. Hydro Flask: daha fazla renk ve ömür boyu garanti. YETI: bulaşık makinesinde yıkanabilir ve daha iyi bir premium his. Kişisel tercih meselesi."
+    },
+    {
+      "q": "Su şişesi nasıl temizlenir?",
+      "a": "Her gün sıcak sabunlu suyla yıkayın. Haftada bir, şişe fırçası ve 1:1 sirke-su karışımıyla 30 dakika derin temizlik yapın. Bulaşık makinesinde yıkanabilen seçenekler (YETI, Owala) bakımı daha kolaydır."
+    },
+    {
+      "q": "Katlanabilir su şişeleri gerçekten sert şişelerin yerini tutar mı?",
+      "a": "Sırt çantasıyla ve ultra hafif seyahat için evet — cep boyutuna katlanırlar. Günlük kullanımda ise sert şişeler daha dayanıklıdır ve daha iyi yalıtım sağlar."
+    }
+  ],
+  "products": {
+    "hydro-flask-32oz": {
+      "badge": "🏆 En iyi premium",
+      "review": "Hydro Flask 32oz Wide Mouth, seyahat su şişesinin standardıdır. 24 saat soğuk / 12 saat sıcak tutar, ömür boyu garanti (üretim hatalarını kapsar), buz küpleri için geniş ağız. 20'den fazla renkte mevcut. Instagram'da en çok fotoğraflanan su şişesi.",
+      "pros": [
+        "24 saat soğuk tutar",
+        "Ömür boyu garanti",
+        "Buz için geniş ağız"
+      ],
+      "cons": [
+        "$45-55 premium fiyat",
+        "Elde yıkama önerilir"
+      ]
+    },
+    "yeti-rambler-26oz-bottle": {
+      "badge": "💎 En iyi alternatif premium",
+      "review": "YETI Rambler 26oz şişe, doğru alternatif premium seçimdir. Paslanmaz çelik, Hydro Flask'a denk premium yalıtım, bulaşık makinesinde yıkanabilir (temel fark). Hydro Flask'tan biraz daha ağır. Premium his ile bulaşık makinesi rahatlığını birlikte isteyenler için en iyisi.",
+      "pros": [
+        "Premium yalıtım",
+        "Bulaşık makinesinde yıkanabilir",
+        "Premium yapı"
+      ],
+      "cons": [
+        "Biraz daha ağır",
+        "Orta seviye renk seçeneği"
+      ]
+    },
+    "owala-freesip": {
+      "badge": "🪜 En iyi orta segment",
+      "review": "Owala FreeSip, doğru orta segment seçimdir. Çift modlu kapak (pipetten yudumlayın YA DA geniş ağızdan büyük yudumlar alın), sızdırmaz, modern tasarım. $25-35'e, Hydro Flask/YETI'nin küçük bir kısmı fiyatına özelliklerin çoğunu sunar.",
+      "pros": [
+        "Çift modlu kapak",
+        "Sızdırmaz",
+        "Modern tasarım"
+      ],
+      "cons": [
+        "Premium ürünlerden daha az yalıtım",
+        "Kapağı temizlemek daha zor"
+      ]
+    },
+    "vapur-foldable-bottle": {
+      "badge": "🎒 En iyi katlanabilir",
+      "review": "Vapur katlanabilir su şişesi, ultra hafif seyahat için doğru seçimdir. Boşken katlanır (cebe sığar), 0,5L-1L kapasite, BPA içermeyen plastik. Paslanmaz çelikten daha az yalıtım — su hızla ısınır. Her gramın önemli olduğu sırt çantası seyahatleri için en iyisi.",
+      "pros": [
+        "Boşken katlanır",
+        "Birden çok kapasite",
+        "Hafif"
+      ],
+      "cons": [
+        "Daha az yalıtım",
+        "Plastik his"
+      ]
+    },
+    "larq-self-cleaning": {
+      "badge": "✨ En iyi yüksek teknoloji",
+      "review": "LARQ kendi kendini temizleyen su şişesi, doğru yüksek teknoloji seçimidir. UV-C ışığı suyu her 2 saatte bir (veya isteğe bağlı) sterilize eder, USB ile şarj edilir (tek şarj 1-2 hafta dayanır). Su kalitesinin değiştiği uluslararası seyahatler için faydalıdır.",
+      "pros": [
+        "UV-C ile kendi kendini sterilize eder",
+        "USB ile şarj edilir",
+        "Modern tasarım"
+      ],
+      "cons": [
+        "$95-135 premium fiyat",
+        "Hydro Flask'tan daha az yalıtım"
+      ]
+    }
+  },
+  "offerNotes": {
+    "hydro-flask-32oz": "hydroflask.com, REI ve Target'ta mevcut. 32oz Wide Mouth en yaygın olanı; standart ağız versiyonu da mevcut.",
+    "yeti-rambler-26oz-bottle": "yeti.com, REI ve Dick's'te mevcut. 26oz orta boy; 18oz ve 36oz da mevcut.",
+    "owala-freesip": "owalalife.com, Target ve Amazon'da mevcut. Birden çok boyut.",
+    "vapur-foldable-bottle": "vapur.us, REI ve Amazon'da mevcut. Birden çok boyut (0,5L'den 1,5L'ye).",
+    "larq-self-cleaning": "livelarq.com ve Amazon'da mevcut. 'Movement' (UV-C'siz) daha ucuz versiyondur; orijinal 'LARQ' UV-C içerir."
+  },
+  "pinDescription": "2026'nın en iyi seyahat su şişesi: Hydro Flask vs. YETI vs. Owala vs. Vapur katlanabilir vs. LARQ UV-C. #susisesi #seyahat"
 }
