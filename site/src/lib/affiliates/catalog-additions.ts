@@ -44345,4 +44345,604 @@ export const CATALOG_ADDITIONS = [
       { network: "amazon-jp", productId: "180s-tec-touch-gloves", rawUrl: "https://www.amazon.co.jp/s?k=winter%20gloves%20180s%20tec%20touch%20gloves", markets: ["JP"], approved: true },
     ],
   },
+  {
+    id: "wahl-elite-pro",
+    category: "beauty",
+    name: { en: "Wahl Elite Pro" },
+    description: { en: "The Wahl Elite Pro pairs a genuinely powerful motor and self-sharpening precision blades with a complete guard set at a fair price — the best home-haircutting package from the most trusted clipper brand." },
+    links: [
+      { network: "amazon-us", productId: "wahl-elite-pro", rawUrl: "https://www.amazon.com/s?k=hair%20clippers%20wahl%20elite%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "wahl-elite-pro", rawUrl: "https://www.amazon.co.jp/s?k=hair%20clippers%20wahl%20elite%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "andis-master",
+    category: "beauty",
+    name: { en: "Andis Master" },
+    description: { en: "The Andis Master is the pick for fades, detailing, and barber-grade performance — a professional clipper beloved for precise, clean cuts and fading." },
+    links: [
+      { network: "amazon-us", productId: "andis-master", rawUrl: "https://www.amazon.com/s?k=hair%20clippers%20andis%20master", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "andis-master", rawUrl: "https://www.amazon.co.jp/s?k=hair%20clippers%20andis%20master", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oster-classic-76",
+    category: "beauty",
+    name: { en: "Oster Classic 76" },
+    description: { en: "The Oster Classic 76 is the heavy-duty professional workhorse built for all-day barbershop use and the toughest cutting." },
+    links: [
+      { network: "amazon-us", productId: "oster-classic-76", rawUrl: "https://www.amazon.com/s?k=hair%20clippers%20oster%20classic%2076", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "oster-classic-76", rawUrl: "https://www.amazon.co.jp/s?k=hair%20clippers%20oster%20classic%2076", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "philips-norelco-multigroom",
+    category: "beauty",
+    name: { en: "Philips Norelco Multigroom" },
+    description: { en: "The Philips Norelco Multigroom is the versatile all-in-one pick for trimming hair, beard, body, and detail areas with one device rather than a dedicated head-hair clipper." },
+    links: [
+      { network: "amazon-us", productId: "philips-norelco-multigroom", rawUrl: "https://www.amazon.com/s?k=hair%20clippers%20philips%20norelco%20multigroom", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "philips-norelco-multigroom", rawUrl: "https://www.amazon.co.jp/s?k=hair%20clippers%20philips%20norelco%20multigroom", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "wahl-color-pro",
+    category: "beauty",
+    name: { en: "Wahl Color Pro" },
+    description: { en: "The Wahl Color Pro is the budget pick — an affordable, complete home haircutting kit that does the core job at a low price, for starting to cut hair at home cheaply." },
+    links: [
+      { network: "amazon-us", productId: "wahl-color-pro", rawUrl: "https://www.amazon.com/s?k=hair%20clippers%20wahl%20color%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "wahl-color-pro", rawUrl: "https://www.amazon.co.jp/s?k=hair%20clippers%20wahl%20color%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "beautyblender-original",
+    category: "beauty",
+    name: { en: "Beautyblender Original" },
+    description: { en: "The Beautyblender Original is the cult original that set the standard for a flawless, airbrushed foundation finish, and it still does it best." },
+    links: [
+      { network: "amazon-us", productId: "beautyblender-original", rawUrl: "https://www.amazon.com/s?k=makeup%20sponge%20beautyblender%20original", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "beautyblender-original", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20sponge%20beautyblender%20original", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "real-techniques-miracle-complexion",
+    category: "beauty",
+    name: { en: "Real Techniques Miracle Complexion" },
+    description: { en: "The Real Techniques Miracle Complexion Sponge delivers a blend very close to the Beautyblender at a fraction of the price — one of the most popular and recommended dupes." },
+    links: [
+      { network: "amazon-us", productId: "real-techniques-miracle-complexion", rawUrl: "https://www.amazon.com/s?k=makeup%20sponge%20real%20techniques%20miracle%20complexion", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "real-techniques-miracle-complexion", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20sponge%20real%20techniques%20miracle%20complexion", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ecotools-perfecting-sponge",
+    category: "beauty",
+    name: { en: "Ecotools Perfecting Sponge" },
+    description: { en: "The EcoTools Perfecting Blender Sponge is the eco-conscious value pick for a good blending sponge made with sustainable materials at an affordable price." },
+    links: [
+      { network: "amazon-us", productId: "ecotools-perfecting-sponge", rawUrl: "https://www.amazon.com/s?k=makeup%20sponge%20ecotools%20perfecting%20sponge", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "ecotools-perfecting-sponge", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20sponge%20ecotools%20perfecting%20sponge", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "aoa-wonder-blender",
+    category: "beauty",
+    name: { en: "Aoa Wonder Blender" },
+    description: { en: "The AOA Wonder Blender is the rock-bottom budget pick — an extremely cheap egg-shaped sponge (often sold in multipacks for a tiny price) for functional blending without spending much, or for rotating and replacing sponges frequently." },
+    links: [
+      { network: "amazon-us", productId: "aoa-wonder-blender", rawUrl: "https://www.amazon.com/s?k=makeup%20sponge%20aoa%20wonder%20blender", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "aoa-wonder-blender", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20sponge%20aoa%20wonder%20blender", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "juno-co-sponge",
+    category: "beauty",
+    name: { en: "Juno Co Sponge" },
+    description: { en: "The juno & co." },
+    links: [
+      { network: "amazon-us", productId: "juno-co-sponge", rawUrl: "https://www.amazon.com/s?k=makeup%20sponge%20juno%20co%20sponge", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "juno-co-sponge", rawUrl: "https://www.amazon.co.jp/s?k=makeup%20sponge%20juno%20co%20sponge", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazon-basics-foldable-rack",
+    category: "home",
+    name: { en: "Amazon Basics Foldable Rack" },
+    description: { en: "The Amazon Basics Foldable Drying Rack offers solid drying capacity, a fully foldable flat design for storage, and dependable stability at a low price." },
+    links: [
+      { network: "amazon-us", productId: "amazon-basics-foldable-rack", rawUrl: "https://www.amazon.com/s?k=drying%20rack%20amazon%20basics%20foldable%20rack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "amazon-basics-foldable-rack", rawUrl: "https://www.amazon.co.jp/s?k=drying%20rack%20amazon%20basics%20foldable%20rack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "honey-can-do-gullwing-rack",
+    category: "home",
+    name: { en: "Honey Can Do Gullwing Rack" },
+    description: { en: "The Honey-Can-Do Gullwing Drying Rack is the high-capacity pick for drying a lot of laundry at once." },
+    links: [
+      { network: "amazon-us", productId: "honey-can-do-gullwing-rack", rawUrl: "https://www.amazon.com/s?k=drying%20rack%20honey%20can%20do%20gullwing%20rack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "honey-can-do-gullwing-rack", rawUrl: "https://www.amazon.co.jp/s?k=drying%20rack%20honey%20can%20do%20gullwing%20rack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "brabantia-hangon-rack",
+    category: "home",
+    name: { en: "Brabantia Hangon Rack" },
+    description: { en: "The Brabantia HangOn is the premium pick for superior build quality, stability, thoughtful design, and durability." },
+    links: [
+      { network: "amazon-us", productId: "brabantia-hangon-rack", rawUrl: "https://www.amazon.com/s?k=drying%20rack%20brabantia%20hangon%20rack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "brabantia-hangon-rack", rawUrl: "https://www.amazon.co.jp/s?k=drying%20rack%20brabantia%20hangon%20rack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "household-essentials-drying-rack",
+    category: "home",
+    name: { en: "Household Essentials Drying Rack" },
+    description: { en: "The Household Essentials Drying Rack covers a range of useful designs — including sturdy tripod, X-frame, and wooden accordion racks — aimed at solid capacity and stability." },
+    links: [
+      { network: "amazon-us", productId: "household-essentials-drying-rack", rawUrl: "https://www.amazon.com/s?k=drying%20rack%20household%20essentials%20drying%20rack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "household-essentials-drying-rack", rawUrl: "https://www.amazon.co.jp/s?k=drying%20rack%20household%20essentials%20drying%20rack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "polder-accordion-rack",
+    category: "home",
+    name: { en: "Polder Accordion Rack" },
+    description: { en: "The Polder Accordion Drying Rack is the compact, space-saving pick for small homes, apartments, and tight spaces." },
+    links: [
+      { network: "amazon-us", productId: "polder-accordion-rack", rawUrl: "https://www.amazon.com/s?k=drying%20rack%20polder%20accordion%20rack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "polder-accordion-rack", rawUrl: "https://www.amazon.co.jp/s?k=drying%20rack%20polder%20accordion%20rack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "seville-classics-shoe-rack",
+    category: "home",
+    name: { en: "Seville Classics Shoe Rack" },
+    description: { en: "The Seville Classics Shoe Rack combines sturdy metal construction, genuine capacity, and a stable, quality build at a fair price." },
+    links: [
+      { network: "amazon-us", productId: "seville-classics-shoe-rack", rawUrl: "https://www.amazon.com/s?k=shoe%20rack%20seville%20classics%20shoe%20rack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "seville-classics-shoe-rack", rawUrl: "https://www.amazon.co.jp/s?k=shoe%20rack%20seville%20classics%20shoe%20rack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "simple-houseware-stackable",
+    category: "home",
+    name: { en: "Simple Houseware Stackable" },
+    description: { en: "The SimpleHouseware Stackable Shoe Rack is the pick for flexible, expandable capacity that grows with your collection and fits your space." },
+    links: [
+      { network: "amazon-us", productId: "simple-houseware-stackable", rawUrl: "https://www.amazon.com/s?k=shoe%20rack%20simple%20houseware%20stackable", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "simple-houseware-stackable", rawUrl: "https://www.amazon.co.jp/s?k=shoe%20rack%20simple%20houseware%20stackable", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "songmics-shoe-rack",
+    category: "home",
+    name: { en: "Songmics Shoe Rack" },
+    description: { en: "The SONGMICS Cube Storage is the pick for enclosed, versatile, modular cube storage that hides shoes (and other items) behind a tidy, often door-fronted facade." },
+    links: [
+      { network: "amazon-us", productId: "songmics-shoe-rack", rawUrl: "https://www.amazon.com/s?k=shoe%20rack%20songmics%20shoe%20rack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "songmics-shoe-rack", rawUrl: "https://www.amazon.co.jp/s?k=shoe%20rack%20songmics%20shoe%20rack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "whitmor-shoe-rack",
+    category: "home",
+    name: { en: "Whitmor Shoe Rack" },
+    description: { en: "The Whitmor Shoe Rack covers a range of practical designs aimed at solid capacity and value, including tall multi-tier towers and wider racks for bigger collections." },
+    links: [
+      { network: "amazon-us", productId: "whitmor-shoe-rack", rawUrl: "https://www.amazon.com/s?k=shoe%20rack%20whitmor%20shoe%20rack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "whitmor-shoe-rack", rawUrl: "https://www.amazon.co.jp/s?k=shoe%20rack%20whitmor%20shoe%20rack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "amazonbasics-shoe-rack",
+    category: "home",
+    name: { en: "Amazonbasics Shoe Rack" },
+    description: { en: "The Amazon Basics Shoe Rack is the budget pick — a simple, affordable multi-tier shoe rack that does the core job at a low price, for basic shoe organisation without spending much." },
+    links: [
+      { network: "amazon-us", productId: "amazonbasics-shoe-rack", rawUrl: "https://www.amazon.com/s?k=shoe%20rack%20amazonbasics%20shoe%20rack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "amazonbasics-shoe-rack", rawUrl: "https://www.amazon.co.jp/s?k=shoe%20rack%20amazonbasics%20shoe%20rack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "brooklinen-down-comforter",
+    category: "home",
+    name: { en: "Brooklinen Down Comforter" },
+    description: { en: "The Brooklinen Down Comforter delivers genuine down warmth and luxury at a fair price, in multiple warmth levels to match your climate and sleep temperature." },
+    links: [
+      { network: "amazon-us", productId: "brooklinen-down-comforter", rawUrl: "https://www.amazon.com/s?k=comforter%20brooklinen%20down%20comforter", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "brooklinen-down-comforter", rawUrl: "https://www.amazon.co.jp/s?k=comforter%20brooklinen%20down%20comforter", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "buffy-cloud",
+    category: "home",
+    name: { en: "Buffy Cloud" },
+    description: { en: "The Buffy Cloud is the best down-alternative pick — down-like softness and warmth without animal down, ideal for allergy sufferers, vegans, or anyone who prefers synthetic fill or easier care." },
+    links: [
+      { network: "amazon-us", productId: "buffy-cloud", rawUrl: "https://www.amazon.com/s?k=comforter%20buffy%20cloud", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "buffy-cloud", rawUrl: "https://www.amazon.co.jp/s?k=comforter%20buffy%20cloud", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "quince-european-down",
+    category: "home",
+    name: { en: "Quince European Down" },
+    description: { en: "The Quince European Down comforter is the luxury pick — premium high-fill-power European white down at a price that undercuts traditional luxury bedding." },
+    links: [
+      { network: "amazon-us", productId: "quince-european-down", rawUrl: "https://www.amazon.com/s?k=comforter%20quince%20european%20down", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "quince-european-down", rawUrl: "https://www.amazon.co.jp/s?k=comforter%20quince%20european%20down", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "linenspa-down-alternative",
+    category: "home",
+    name: { en: "Linenspa Down Alternative" },
+    description: { en: "The Linenspa Down Alternative Comforter is the value down-alternative pick — soft, warm, hypoallergenic synthetic-fill comfort at a low price, for animal-free, easy-care warmth without spending much." },
+    links: [
+      { network: "amazon-us", productId: "linenspa-down-alternative", rawUrl: "https://www.amazon.com/s?k=comforter%20linenspa%20down%20alternative", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "linenspa-down-alternative", rawUrl: "https://www.amazon.co.jp/s?k=comforter%20linenspa%20down%20alternative", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "utopia-bedding-comforter",
+    category: "home",
+    name: { en: "Utopia Bedding Comforter" },
+    description: { en: "The Utopia Bedding Comforter is the rock-bottom budget pick — an extremely affordable down-alternative comforter (often a perennial best-seller, sometimes sold as a comforter-and-pillow set) for basic, warm, washable bedding at the lowest price." },
+    links: [
+      { network: "amazon-us", productId: "utopia-bedding-comforter", rawUrl: "https://www.amazon.com/s?k=comforter%20utopia%20bedding%20comforter", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "utopia-bedding-comforter", rawUrl: "https://www.amazon.co.jp/s?k=comforter%20utopia%20bedding%20comforter", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tp-link-re605x",
+    category: "tech",
+    name: { en: "Tp Link Re605x" },
+    description: { en: "The TP-Link RE605X (AX1800) is a WiFi 6 extender that's genuinely fast, covers a good area, and supports OneMesh so it works as part of a seamless network rather than a separate one — at a reasonable price." },
+    links: [
+      { network: "amazon-us", productId: "tp-link-re605x", rawUrl: "https://www.amazon.com/s?k=wifi%20extender%20tp%20link%20re605x", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "tp-link-re605x", rawUrl: "https://www.amazon.co.jp/s?k=wifi%20extender%20tp%20link%20re605x", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "asus-rp-ax58",
+    category: "tech",
+    name: { en: "Asus Rp Ax58" },
+    description: { en: "The ASUS RP-AX58 (AX3000) is the premium WiFi 6 pick — the fastest, most capable extender here with AiMesh support, ideal for pairing with an ASUS router." },
+    links: [
+      { network: "amazon-us", productId: "asus-rp-ax58", rawUrl: "https://www.amazon.com/s?k=wifi%20extender%20asus%20rp%20ax58", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "asus-rp-ax58", rawUrl: "https://www.amazon.co.jp/s?k=wifi%20extender%20asus%20rp%20ax58", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "netgear-ex7300",
+    category: "tech",
+    name: { en: "Netgear Ex7300" },
+    description: { en: "The Netgear EX7300 (Nighthawk Mesh X6S, AC2200) is the high-coverage tri-band pick — strong coverage and a dedicated backhaul band, though it's WiFi 5." },
+    links: [
+      { network: "amazon-us", productId: "netgear-ex7300", rawUrl: "https://www.amazon.com/s?k=wifi%20extender%20netgear%20ex7300", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "netgear-ex7300", rawUrl: "https://www.amazon.co.jp/s?k=wifi%20extender%20netgear%20ex7300", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "linksys-re7350",
+    category: "tech",
+    name: { en: "Linksys Re7350" },
+    description: { en: "The Linksys RE7350 (AX1800) is a solid value WiFi 6 pick — a WiFi 6 AX1800 extender with good coverage and a gigabit port at a competitive price, for modern WiFi 6 extension without paying premium." },
+    links: [
+      { network: "amazon-us", productId: "linksys-re7350", rawUrl: "https://www.amazon.com/s?k=wifi%20extender%20linksys%20re7350", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "linksys-re7350", rawUrl: "https://www.amazon.co.jp/s?k=wifi%20extender%20linksys%20re7350", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tp-link-re315",
+    category: "tech",
+    name: { en: "Tp Link Re315" },
+    description: { en: "The TP-Link RE315 (AC1200) is the budget pick — an inexpensive, reliable WiFi 5 extender that covers a dead zone cheaply, for patching a weak-signal area without spending much." },
+    links: [
+      { network: "amazon-us", productId: "tp-link-re315", rawUrl: "https://www.amazon.com/s?k=wifi%20extender%20tp%20link%20re315", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "tp-link-re315", rawUrl: "https://www.amazon.co.jp/s?k=wifi%20extender%20tp%20link%20re315", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "samsung-pro-plus",
+    category: "tech",
+    name: { en: "Samsung Pro Plus" },
+    description: { en: "The Samsung Pro Plus combines fast, reliable read AND write speeds, the right ratings for 4K video and demanding use, strong durability, and Samsung's trusted reliability — at a fair price." },
+    links: [
+      { network: "amazon-us", productId: "samsung-pro-plus", rawUrl: "https://www.amazon.com/s?k=microsd%20card%20samsung%20pro%20plus", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "samsung-pro-plus", rawUrl: "https://www.amazon.co.jp/s?k=microsd%20card%20samsung%20pro%20plus", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "sandisk-extreme-pro",
+    category: "tech",
+    name: { en: "Sandisk Extreme Pro" },
+    description: { en: "The SanDisk Extreme Pro is the performance pick — the highest sustained write speeds here, ideal for high-bitrate 4K video, action cameras, drones, and demanding cameras." },
+    links: [
+      { network: "amazon-us", productId: "sandisk-extreme-pro", rawUrl: "https://www.amazon.com/s?k=microsd%20card%20sandisk%20extreme%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "sandisk-extreme-pro", rawUrl: "https://www.amazon.co.jp/s?k=microsd%20card%20sandisk%20extreme%20pro", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "samsung-evo-select",
+    category: "tech",
+    name: { en: "Samsung Evo Select" },
+    description: { en: "The Samsung EVO Select is the value pick — reliable, good-enough speed for everyday use at a low price, ideal for phones, tablets, the Switch, and general storage." },
+    links: [
+      { network: "amazon-us", productId: "samsung-evo-select", rawUrl: "https://www.amazon.com/s?k=microsd%20card%20samsung%20evo%20select", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "samsung-evo-select", rawUrl: "https://www.amazon.co.jp/s?k=microsd%20card%20samsung%20evo%20select", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "lexar-professional-1066x",
+    category: "tech",
+    name: { en: "Lexar Professional 1066x" },
+    description: { en: "The Lexar Professional 1066x is a strong alternative for content creators wanting high speed at competitive pricing — for 4K video, action cameras, and cameras." },
+    links: [
+      { network: "amazon-us", productId: "lexar-professional-1066x", rawUrl: "https://www.amazon.com/s?k=microsd%20card%20lexar%20professional%201066x", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "lexar-professional-1066x", rawUrl: "https://www.amazon.co.jp/s?k=microsd%20card%20lexar%20professional%201066x", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kingston-canvas-go-plus",
+    category: "tech",
+    name: { en: "Kingston Canvas Go Plus" },
+    description: { en: "The Kingston Canvas Go Plus is the budget-performance pick — a fast, capable card at an aggressive price, for 4K-capable speed without paying premium." },
+    links: [
+      { network: "amazon-us", productId: "kingston-canvas-go-plus", rawUrl: "https://www.amazon.com/s?k=microsd%20card%20kingston%20canvas%20go%20plus", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kingston-canvas-go-plus", rawUrl: "https://www.amazon.co.jp/s?k=microsd%20card%20kingston%20canvas%20go%20plus", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "tomtoc-360-protective",
+    category: "tech",
+    name: { en: "Tomtoc 360 Protective" },
+    description: { en: "The tomtoc 360 Protective sleeve offers genuinely excellent protection — including a patented corner-bumper system and shock-absorbing padding — in a still-slim, well-fitting design at a reasonable price." },
+    links: [
+      { network: "amazon-us", productId: "tomtoc-360-protective", rawUrl: "https://www.amazon.com/s?k=laptop%20sleeve%20tomtoc%20360%20protective", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "tomtoc-360-protective", rawUrl: "https://www.amazon.co.jp/s?k=laptop%20sleeve%20tomtoc%20360%20protective", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bellroy-laptop-sleeve",
+    category: "tech",
+    name: { en: "Bellroy Laptop Sleeve" },
+    description: { en: "The Bellroy Laptop Sleeve is the premium style pick — a beautiful, high-quality sleeve that doubles as a stylish accessory, ideal for professionals and design-conscious users." },
+    links: [
+      { network: "amazon-us", productId: "bellroy-laptop-sleeve", rawUrl: "https://www.amazon.com/s?k=laptop%20sleeve%20bellroy%20laptop%20sleeve", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "bellroy-laptop-sleeve", rawUrl: "https://www.amazon.co.jp/s?k=laptop%20sleeve%20bellroy%20laptop%20sleeve", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "native-union-stow",
+    category: "tech",
+    name: { en: "Native Union Stow" },
+    description: { en: "The Native Union Stow is the slim, design-led pick — a sleek minimalist sleeve with smart organisation and a touch of luxury, popular with Apple users." },
+    links: [
+      { network: "amazon-us", productId: "native-union-stow", rawUrl: "https://www.amazon.com/s?k=laptop%20sleeve%20native%20union%20stow", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "native-union-stow", rawUrl: "https://www.amazon.co.jp/s?k=laptop%20sleeve%20native%20union%20stow", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "inateck-laptop-sleeve",
+    category: "tech",
+    name: { en: "Inateck Laptop Sleeve" },
+    description: { en: "The Inateck Laptop Sleeve is the value pick — a well-protected, feature-rich sleeve at a low price, for good protection and useful pockets without spending much." },
+    links: [
+      { network: "amazon-us", productId: "inateck-laptop-sleeve", rawUrl: "https://www.amazon.com/s?k=laptop%20sleeve%20inateck%20laptop%20sleeve", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "inateck-laptop-sleeve", rawUrl: "https://www.amazon.co.jp/s?k=laptop%20sleeve%20inateck%20laptop%20sleeve", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "mosiso-sleeve",
+    category: "tech",
+    name: { en: "Mosiso Sleeve" },
+    description: { en: "The MOSISO Sleeve is the budget pick — an inexpensive, widely-loved sleeve in a huge range of sizes, colours, and styles, for basic-to-decent protection cheaply with lots of choice." },
+    links: [
+      { network: "amazon-us", productId: "mosiso-sleeve", rawUrl: "https://www.amazon.com/s?k=laptop%20sleeve%20mosiso%20sleeve", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "mosiso-sleeve", rawUrl: "https://www.amazon.co.jp/s?k=laptop%20sleeve%20mosiso%20sleeve", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "dash-rapid-egg-cooker",
+    category: "food",
+    name: { en: "Dash Rapid Egg Cooker" },
+    description: { en: "The Dash Rapid Egg Cooker is astonishingly easy, fast, reliable, and cheap — perfect hard/medium/soft-boiled eggs (plus poached and omelettes) with one button, and a genuine kitchen cult favourite." },
+    links: [
+      { network: "amazon-us", productId: "dash-rapid-egg-cooker", rawUrl: "https://www.amazon.com/s?k=egg%20cooker%20dash%20rapid%20egg%20cooker", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "dash-rapid-egg-cooker", rawUrl: "https://www.amazon.co.jp/s?k=egg%20cooker%20dash%20rapid%20egg%20cooker", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-cec-10",
+    category: "food",
+    name: { en: "Cuisinart Cec 10" },
+    description: { en: "The Cuisinart CEC-10 is the premium, larger-capacity pick — more eggs at once with refined controls and build quality." },
+    links: [
+      { network: "amazon-us", productId: "cuisinart-cec-10", rawUrl: "https://www.amazon.com/s?k=egg%20cooker%20cuisinart%20cec%2010", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "cuisinart-cec-10", rawUrl: "https://www.amazon.co.jp/s?k=egg%20cooker%20cuisinart%20cec%2010", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "hamilton-beach-egg-cooker",
+    category: "food",
+    name: { en: "Hamilton Beach Egg Cooker" },
+    description: { en: "The Hamilton Beach Egg Cooker is the mid-range large-capacity pick — around 7 eggs with versatile functions from a trusted name at a moderate price." },
+    links: [
+      { network: "amazon-us", productId: "hamilton-beach-egg-cooker", rawUrl: "https://www.amazon.com/s?k=egg%20cooker%20hamilton%20beach%20egg%20cooker", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "hamilton-beach-egg-cooker", rawUrl: "https://www.amazon.co.jp/s?k=egg%20cooker%20hamilton%20beach%20egg%20cooker", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "elite-gourmet-egg-cooker",
+    category: "food",
+    name: { en: "Elite Gourmet Egg Cooker" },
+    description: { en: "The Elite Gourmet Egg Cooker is the value pick — a capable, versatile cooker (often handling 7 eggs) at a low price, for more capacity than the smallest cookers without spending much." },
+    links: [
+      { network: "amazon-us", productId: "elite-gourmet-egg-cooker", rawUrl: "https://www.amazon.com/s?k=egg%20cooker%20elite%20gourmet%20egg%20cooker", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "elite-gourmet-egg-cooker", rawUrl: "https://www.amazon.co.jp/s?k=egg%20cooker%20elite%20gourmet%20egg%20cooker", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "bella-egg-cooker",
+    category: "food",
+    name: { en: "Bella Egg Cooker" },
+    description: { en: "The BELLA Egg Cooker is the budget pick — an inexpensive, simple, reliable cooker for effortless boiled and poached eggs at the lowest price." },
+    links: [
+      { network: "amazon-us", productId: "bella-egg-cooker", rawUrl: "https://www.amazon.com/s?k=egg%20cooker%20bella%20egg%20cooker", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "bella-egg-cooker", rawUrl: "https://www.amazon.co.jp/s?k=egg%20cooker%20bella%20egg%20cooker", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "oxo-stainless-bowls",
+    category: "food",
+    name: { en: "Oxo Stainless Bowls" },
+    description: { en: "The OXO Good Grips Stainless Steel Mixing Bowls combine stainless steel's practical advantages — lightweight, unbreakable, durable — with OXO's thoughtful design: non-slip bases and easy-grip handles." },
+    links: [
+      { network: "amazon-us", productId: "oxo-stainless-bowls", rawUrl: "https://www.amazon.com/s?k=mixing%20bowls%20oxo%20stainless%20bowls", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "oxo-stainless-bowls", rawUrl: "https://www.amazon.co.jp/s?k=mixing%20bowls%20oxo%20stainless%20bowls", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pyrex-glass-mixing-bowls",
+    category: "food",
+    name: { en: "Pyrex Glass Mixing Bowls" },
+    description: { en: "The Pyrex Glass Mixing Bowls are the best glass pick — microwave-, oven-, and dishwasher-safe bowls you can see through, ideal for melting, heating, baking, and storage." },
+    links: [
+      { network: "amazon-us", productId: "pyrex-glass-mixing-bowls", rawUrl: "https://www.amazon.com/s?k=mixing%20bowls%20pyrex%20glass%20mixing%20bowls", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "pyrex-glass-mixing-bowls", rawUrl: "https://www.amazon.co.jp/s?k=mixing%20bowls%20pyrex%20glass%20mixing%20bowls", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kitchenaid-mixing-bowls",
+    category: "food",
+    name: { en: "Kitchenaid Mixing Bowls" },
+    description: { en: "The KitchenAid Mixing Bowls are the premium pick — stylish, high-quality stainless (or coordinating) bowls with a trusted brand and attractive design." },
+    links: [
+      { network: "amazon-us", productId: "kitchenaid-mixing-bowls", rawUrl: "https://www.amazon.com/s?k=mixing%20bowls%20kitchenaid%20mixing%20bowls", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kitchenaid-mixing-bowls", rawUrl: "https://www.amazon.co.jp/s?k=mixing%20bowls%20kitchenaid%20mixing%20bowls", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "cuisinart-stainless-bowls",
+    category: "food",
+    name: { en: "Cuisinart Stainless Bowls" },
+    description: { en: "The Cuisinart Stainless Steel Bowls are the value stainless pick — a durable, practical nesting set at a low price, for the stainless advantages without the premium cost." },
+    links: [
+      { network: "amazon-us", productId: "cuisinart-stainless-bowls", rawUrl: "https://www.amazon.com/s?k=mixing%20bowls%20cuisinart%20stainless%20bowls", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "cuisinart-stainless-bowls", rawUrl: "https://www.amazon.co.jp/s?k=mixing%20bowls%20cuisinart%20stainless%20bowls", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "anchor-hocking-glass-bowls",
+    category: "food",
+    name: { en: "Anchor Hocking Glass Bowls" },
+    description: { en: "The Anchor Hocking Glass Bowls are the value glass pick — the same glass advantages (microwave-safe, see-through, non-reactive) at a lower price." },
+    links: [
+      { network: "amazon-us", productId: "anchor-hocking-glass-bowls", rawUrl: "https://www.amazon.com/s?k=mixing%20bowls%20anchor%20hocking%20glass%20bowls", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "anchor-hocking-glass-bowls", rawUrl: "https://www.amazon.co.jp/s?k=mixing%20bowls%20anchor%20hocking%20glass%20bowls", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "neater-feeder-elevated",
+    category: "pets",
+    name: { en: "Neater Feeder Elevated" },
+    description: { en: "The Neater Feeder Elevated solves the two biggest feeding-station problems at once — comfortable elevated height AND mess containment — with a clever two-tier design that catches spilled water and food." },
+    links: [
+      { network: "amazon-us", productId: "neater-feeder-elevated", rawUrl: "https://www.amazon.com/s?k=elevated%20dog%20bowl%20neater%20feeder%20elevated", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "neater-feeder-elevated", rawUrl: "https://www.amazon.co.jp/s?k=elevated%20dog%20bowl%20neater%20feeder%20elevated", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "iris-elevated-feeder",
+    category: "pets",
+    name: { en: "Iris Elevated Feeder" },
+    description: { en: "The IRIS Elevated Feeder is the best adjustable pick — change the height as your dog grows or dial in the perfect level, ideal for puppies, multi-dog households, or anyone unsure of the right height." },
+    links: [
+      { network: "amazon-us", productId: "iris-elevated-feeder", rawUrl: "https://www.amazon.com/s?k=elevated%20dog%20bowl%20iris%20elevated%20feeder", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "iris-elevated-feeder", rawUrl: "https://www.amazon.co.jp/s?k=elevated%20dog%20bowl%20iris%20elevated%20feeder", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "petfusion-elevated-feeder",
+    category: "pets",
+    name: { en: "Petfusion Elevated Feeder" },
+    description: { en: "The PetFusion Elevated Feeder is the premium pick — a stylish, high-quality, sturdy feeding station that looks good in the home." },
+    links: [
+      { network: "amazon-us", productId: "petfusion-elevated-feeder", rawUrl: "https://www.amazon.com/s?k=elevated%20dog%20bowl%20petfusion%20elevated%20feeder", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "petfusion-elevated-feeder", rawUrl: "https://www.amazon.co.jp/s?k=elevated%20dog%20bowl%20petfusion%20elevated%20feeder", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "frisco-elevated-double-bowl",
+    category: "pets",
+    name: { en: "Frisco Elevated Double Bowl" },
+    description: { en: "The Frisco Elevated Double Bowl is the value double-bowl pick — a sturdy, practical raised feeder with two stainless bowls (food and water) at a low price." },
+    links: [
+      { network: "amazon-us", productId: "frisco-elevated-double-bowl", rawUrl: "https://www.amazon.com/s?k=elevated%20dog%20bowl%20frisco%20elevated%20double%20bowl", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "frisco-elevated-double-bowl", rawUrl: "https://www.amazon.co.jp/s?k=elevated%20dog%20bowl%20frisco%20elevated%20double%20bowl", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "pawfect-raised-bowl",
+    category: "pets",
+    name: { en: "Pawfect Raised Bowl" },
+    description: { en: "The Pawfect Raised Bowl is the budget pick — an inexpensive elevated feeder for raising your dog's bowls cheaply." },
+    links: [
+      { network: "amazon-us", productId: "pawfect-raised-bowl", rawUrl: "https://www.amazon.com/s?k=elevated%20dog%20bowl%20pawfect%20raised%20bowl", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "pawfect-raised-bowl", rawUrl: "https://www.amazon.co.jp/s?k=elevated%20dog%20bowl%20pawfect%20raised%20bowl", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "fossil-defender-backpack",
+    category: "fashion",
+    name: { en: "Fossil Defender Backpack" },
+    description: { en: "The Fossil Defender Backpack strikes the ideal balance of quality leather, a versatile professional-yet-modern design, practical laptop-friendly organisation, and an attainable price." },
+    links: [
+      { network: "amazon-us", productId: "fossil-defender-backpack", rawUrl: "https://www.amazon.com/s?k=leather%20backpack%20fossil%20defender%20backpack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "fossil-defender-backpack", rawUrl: "https://www.amazon.co.jp/s?k=leather%20backpack%20fossil%20defender%20backpack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kodiak-leather-backpack",
+    category: "fashion",
+    name: { en: "Kodiak Leather Backpack" },
+    description: { en: "The Kodiak Leather Backpack is the best full-grain pick — premium, rugged, full-grain leather that ages beautifully and lasts for decades, ideal for those who value heritage quality and a rich patina." },
+    links: [
+      { network: "amazon-us", productId: "kodiak-leather-backpack", rawUrl: "https://www.amazon.com/s?k=leather%20backpack%20kodiak%20leather%20backpack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kodiak-leather-backpack", rawUrl: "https://www.amazon.co.jp/s?k=leather%20backpack%20kodiak%20leather%20backpack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "leatherology-backpack",
+    category: "fashion",
+    name: { en: "Leatherology Backpack" },
+    description: { en: "The Leatherology Backpack is the refined professional pick — a sleek, polished, premium leather backpack ideal for a modern office or business setting." },
+    links: [
+      { network: "amazon-us", productId: "leatherology-backpack", rawUrl: "https://www.amazon.com/s?k=leather%20backpack%20leatherology%20backpack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "leatherology-backpack", rawUrl: "https://www.amazon.co.jp/s?k=leather%20backpack%20leatherology%20backpack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "banuce-full-grain-backpack",
+    category: "fashion",
+    name: { en: "Banuce Full Grain Backpack" },
+    description: { en: "The Banuce Full-Grain Backpack is the value full-grain pick — genuine full-grain leather quality at a more accessible price." },
+    links: [
+      { network: "amazon-us", productId: "banuce-full-grain-backpack", rawUrl: "https://www.amazon.com/s?k=leather%20backpack%20banuce%20full%20grain%20backpack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "banuce-full-grain-backpack", rawUrl: "https://www.amazon.co.jp/s?k=leather%20backpack%20banuce%20full%20grain%20backpack", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "kenneth-cole-leather-backpack",
+    category: "fashion",
+    name: { en: "Kenneth Cole Leather Backpack" },
+    description: { en: "The Kenneth Cole Leather Backpack is the value pick — a stylish, professional-looking leather backpack from a recognised fashion brand at a more accessible price." },
+    links: [
+      { network: "amazon-us", productId: "kenneth-cole-leather-backpack", rawUrl: "https://www.amazon.com/s?k=leather%20backpack%20kenneth%20cole%20leather%20backpack", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "kenneth-cole-leather-backpack", rawUrl: "https://www.amazon.co.jp/s?k=leather%20backpack%20kenneth%20cole%20leather%20backpack", markets: ["JP"], approved: true },
+    ],
+  },
 ] as unknown as AffiliateOffer[];
