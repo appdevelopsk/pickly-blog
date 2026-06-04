@@ -15,6 +15,7 @@ import { Resvg } from "@resvg/resvg-js";
 const ROOT = path.resolve(__dirname, "..");
 const ARTICLES_DIR = path.join(ROOT, "src/articles");
 const OUT_DIR = path.join(ROOT, "public/og");
+const ONLY_LOCALE = process.argv.find((a) => a.startsWith("--locale="))?.split("=")[1] ?? "";
 
 interface ArticleMessages {
   title?: string;
@@ -131,6 +132,8 @@ async function main() {
     for (const file of locales) {
       if (!file.endsWith(".json")) continue;
       const locale = file.replace(".json", "");
+      // --locale=<code> で特定ロケールのみ生成（既定: 全ロケール。デプロイ枠に収める/段階生成用）
+      if (ONLY_LOCALE && locale !== ONLY_LOCALE) continue;
       const json = JSON.parse(
         await fs.readFile(path.join(messagesDir, file), "utf8"),
       ) as ArticleMessages;
