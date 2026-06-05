@@ -55,6 +55,21 @@ jobs:
       - name: Install wrangler
         run: npm i -g wrangler@4
 
+      - name: Verify R2 access (fail fast before the long generate)
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          R2_BUCKET: ${{ vars.R2_BUCKET }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+        run: |
+          SECRET=$(printf %s "$CLOUDFLARE_API_TOKEN" | sha256sum | cut -d' ' -f1)
+          export RCLONE_CONFIG_R2_TYPE=s3 RCLONE_CONFIG_R2_PROVIDER=Cloudflare
+          export RCLONE_CONFIG_R2_ACCESS_KEY_ID="$R2_ACCESS_KEY_ID"
+          export RCLONE_CONFIG_R2_SECRET_ACCESS_KEY="$SECRET"
+          export RCLONE_CONFIG_R2_ENDPOINT="https://${CLOUDFLARE_ACCOUNT_ID}.r2.cloudflarestorage.com"
+          export RCLONE_CONFIG_R2_REGION=auto
+          rclone lsd "R2:${R2_BUCKET}" && echo "R2 auth OK"
+
       # Cache generated OG images so only NEW/changed articles regenerate.
       # Key changes when any article message file or the generator changes;
       # restore-keys lets us reuse the most recent cache for incremental runs.
@@ -89,9 +104,10 @@ jobs:
           export RCLONE_CONFIG_R2_REGION=auto
           # --size-only: skip objects already present with the same size (self-healing,
           # uploads only missing/changed). One process, parallel, with retries.
+          # rclone auto-sets Content-Type image/png from the .png extension.
           rclone copy og-dist "R2:${R2_BUCKET}/og" \
             --size-only --transfers=32 --checkers=64 --retries 3 \
-            --content-type image/png --no-update-modtime --stats=20s --stats-one-line
+            --stats=20s --stats-one-line
 
       # Legacy OG images were committed under site/public/og (~6.4k files). They
       # now live on R2 — drop them so they don't bloat the static export back
