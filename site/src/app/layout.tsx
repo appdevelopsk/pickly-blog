@@ -27,38 +27,12 @@ export const metadata: Metadata = {
   },
 };
 
-// Analytics — gated on env so the build stays clean when unset.
-// GA4 activates the existing affiliate_click tracking (AffiliateClickTracker)
-// + gives traffic / referrer / per-page data. Clarity adds heatmaps + recordings.
-const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
-const CLARITY_ID = process.env.NEXT_PUBLIC_CLARITY_ID;
-
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <>
       {children}
-
-      {/* Google Analytics 4 (pageviews, referrers/channels, affiliate_click events) */}
-      {GA_ID && (
-        <>
-          <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} />
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}');`,
-            }}
-          />
-        </>
-      )}
-
-      {/* Microsoft Clarity (heatmaps + session recordings; free) */}
-      {CLARITY_ID && (
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","${CLARITY_ID}");`,
-          }}
-        />
-      )}
-
+      {/* Analytics (GA4 + Microsoft Clarity) is wired in src/components/Analytics.tsx,
+          rendered from [locale]/layout.tsx — do NOT add a second GA tag here. */}
       {/* Skimlinks — auto-monetize product links (publisher 302910X1790935) */}
       <script
         type="text/javascript"
