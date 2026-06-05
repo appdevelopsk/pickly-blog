@@ -1,7 +1,7 @@
 /**
  * Generate Pinterest-style OG images (1000x1500 PNG) for every article × locale.
  *
- * Output: public/og/<slug>-<locale>.png
+ * Output: og-dist/<slug>-<locale>.png  (uploaded to R2; override via OG_OUT_DIR)
  *
  * SVG → PNG via @resvg/resvg-js, which finds macOS / Linux system fonts
  * (Helvetica, Hiragino Sans GB, Apple SD Gothic Neo, Kohinoor, Geeza Pro,
@@ -9,13 +9,24 @@
  *  glyphs instead of .notdef boxes.
  */
 import fs from "node:fs/promises";
+import { existsSync } from "node:fs";
 import path from "node:path";
 import { Resvg } from "@resvg/resvg-js";
 
 const ROOT = path.resolve(__dirname, "..");
 const ARTICLES_DIR = path.join(ROOT, "src/articles");
-const OUT_DIR = path.join(ROOT, "public/og");
+// Output dir is OUTSIDE public/ so the ~9.8k PNGs are NOT copied into the static
+// export (`out/`) — they're uploaded to R2 instead, keeping the Cloudflare Pages
+// deploy under the Free-plan 20,000-file limit. Override with OG_OUT_DIR.
+const OUT_DIR = process.env.OG_OUT_DIR
+  ? path.resolve(process.env.OG_OUT_DIR)
+  : path.join(ROOT, "og-dist");
 const ONLY_LOCALE = process.argv.find((a) => a.startsWith("--locale="))?.split("=")[1] ?? "";
+// Skip images that already exist (fast incremental runs with a CI cache).
+// Set OG_FORCE=1 to regenerate everything (e.g. after a template change).
+const FORCE = process.env.OG_FORCE === "1";
+// Emit the intermediate .svg next to each PNG only when debugging.
+const DEBUG_SVG = process.env.OG_DEBUG === "1";
 
 interface ArticleMessages {
   title?: string;
@@ -54,6 +65,16 @@ const FONT_STACK = [
   "Thonburi",              // th
   "Sukhumvit Set",         // th alt
   "Arial Unicode MS",      // catch-all (in /Library/Fonts on macOS)
+  // Linux / CI fallbacks (Noto family — apt: fonts-noto-cjk fonts-noto)
+  "Noto Sans",             // Latin/Cyrillic/Greek
+  "Noto Sans CJK JP",      // ja
+  "Noto Sans CJK SC",      // zh-CN
+  "Noto Sans CJK TC",      // zh-TW
+  "Noto Sans CJK KR",      // ko
+  "Noto Sans Arabic",      // ar
+  "Noto Sans Devanagari",  // hi
+  "Noto Sans Thai",        // th
+  "Noto Color Emoji",      // emoji
   "sans-serif",
 ]
   .map((f) => (f.includes(" ") ? `'${f}'` : f))
@@ -90,6 +111,15 @@ const FONT_FILES_CANDIDATES = [
   "/System/Library/Fonts/SFArabic.ttf",
   "/System/Library/Fonts/Supplemental/Thonburi.ttc",
   "/System/Library/Fonts/Supplemental/SukhumvitSet.ttc",
+  // Linux / CI (Debian/Ubuntu noto package paths). Missing entries skip silently.
+  "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf",
+  "/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf",
+  "/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+  "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc",
+  "/usr/share/fonts/truetype/noto/NotoSansArabic-Regular.ttf",
+  "/usr/share/fonts/truetype/noto/NotoSansDevanagari-Regular.ttf",
+  "/usr/share/fonts/truetype/noto/NotoSansThai-Regular.ttf",
+  "/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf",
 ];
 
 async function main() {
@@ -112,6 +142,7 @@ async function main() {
   }
 
   let count = 0;
+  let skipped = 0;
   for (const slug of slugs) {
     const messagesDir = path.join(ARTICLES_DIR, slug, "messages");
     let locales: string[];
@@ -134,6 +165,8 @@ async function main() {
       const locale = file.replace(".json", "");
       // --locale=<code> で特定ロケールのみ生成（既定: 全ロケール。デプロイ枠に収める/段階生成用）
       if (ONLY_LOCALE && locale !== ONLY_LOCALE) continue;
+      const outPath = path.join(OUT_DIR, `${slug}-${locale}.png`);
+      if (!FORCE && existsSync(outPath)) { skipped++; continue; }
       const json = JSON.parse(
         await fs.readFile(path.join(messagesDir, file), "utf8"),
       ) as ArticleMessages;
@@ -156,15 +189,15 @@ async function main() {
         },
       });
       const pngBuffer = resvg.render().asPng();
-      const outPath = path.join(OUT_DIR, `${slug}-${locale}.png`);
       await fs.writeFile(outPath, pngBuffer);
 
-      // Keep the SVG for debug
-      await fs.writeFile(path.join(OUT_DIR, `${slug}-${locale}.svg`), svg);
+      if (DEBUG_SVG) {
+        await fs.writeFile(path.join(OUT_DIR, `${slug}-${locale}.svg`), svg);
+      }
       count++;
     }
   }
-  console.log(`Generated ${count} OG image(s) as PNG (1000x1500).`);
+  console.log(`Generated ${count} OG image(s) as PNG (1000x1500); skipped ${skipped} existing.`);
 }
 
 function renderSvg(opts: {

@@ -6,6 +6,7 @@ import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
+import { OG_BASE_URL } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
@@ -20,7 +21,7 @@ function getThumbnail(article: ArticleMeta, locale: string): string | null {
     const img = getOfferImageUrl(offer);
     if (img) return img;
   }
-  if (article.ogImage && article.ogImage !== "auto") return `${article.ogImage}-${locale}.png`;
+  if (article.ogImage && article.ogImage !== "auto") return `${OG_BASE_URL}${article.ogImage}-${locale}.png`;
   return null;
 }
 
