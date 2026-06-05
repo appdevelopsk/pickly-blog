@@ -1,0 +1,107 @@
+name: Deploy (OG → R2 + Pages)
+
+# Builds the static site in CI (so OG image generation can run for the full
+# ~50 min without hitting Cloudflare Pages' 20-minute build cap), uploads the
+# 1000x1500 OG/Pinterest images to Cloudflare R2 (served from OG_BASE_URL so
+# they don't count against the Pages Free-plan 20,000-file limit), then deploys
+# the static export with `wrangler pages deploy`.
+#
+# Required repo settings (Settings → Secrets and variables → Actions):
+#   Secrets: CLOUDFLARE_API_TOKEN (Account: Pages Edit + Workers R2 Storage Edit),
+#            CLOUDFLARE_ACCOUNT_ID
+#   Variables: CLOUDFLARE_PROJECT_NAME (Pages project), R2_BUCKET,
+#              OG_BASE_URL (e.g. https://img.pickly.blog)
+# R2 uploads use wrangler (the API token) — no separate S3 access keys needed.
+#
+# Disable the Cloudflare Pages git-integration auto-build so only this workflow
+# deploys (otherwise both fight and the auto-build ships without OG images).
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    defaults:
+      run:
+        working-directory: site
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install CJK / Arabic / emoji fonts (for OG glyphs)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            fonts-noto-core fonts-noto-cjk fonts-noto-color-emoji \
+            fonts-noto-unhinted
+          sudo fc-cache -f
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - run: npm ci
+
+      - name: Install wrangler
+        run: npm i -g wrangler@4
+
+      # Cache generated OG images so only NEW/changed articles regenerate.
+      # Key changes when any article message file or the generator changes;
+      # restore-keys lets us reuse the most recent cache for incremental runs.
+      - name: Cache OG images
+        uses: actions/cache@v4
+        with:
+          path: site/og-dist
+          key: og-v1-${{ hashFiles('site/src/articles/**/messages/**', 'site/scripts/generate-og.ts') }}
+          restore-keys: |
+            og-v1-
+
+      - name: Generate OG images (incremental)
+        run: npm run og:generate
+        # Set OG_FORCE=1 here (or run the workflow manually after bumping the
+        # cache key) to force a full regeneration after a template change.
+
+      - name: Upload new OG images to R2 (wrangler, token-only)
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          R2_BUCKET: ${{ vars.R2_BUCKET }}
+        run: |
+          MANIFEST=og-dist/.pending-upload.txt
+          n=$(grep -c . "$MANIFEST" 2>/dev/null || echo 0)
+          echo "Uploading $n new OG image(s) to r2://$R2_BUCKET/og ..."
+          if [ "$n" -gt 0 ]; then
+            # Upload only this run's newly-generated files, 16 in parallel.
+            xargs -a "$MANIFEST" -P 16 -I {} \
+              wrangler r2 object put "$R2_BUCKET/og/{}" \
+                --file "og-dist/{}" --content-type image/png --remote
+          fi
+
+      # Legacy OG images were committed under site/public/og (~6.4k files). They
+      # now live on R2 — drop them so they don't bloat the static export back
+      # over the 20k-file Pages limit.
+      - name: Exclude legacy committed OG from the build
+        run: rm -rf public/og
+
+      - name: Build static site
+        env:
+          NEXT_PUBLIC_OG_BASE_URL: ${{ vars.OG_BASE_URL }}
+        run: npm run build
+
+      - name: Deploy to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          wrangler pages deploy out \
+            --project-name="${{ vars.CLOUDFLARE_PROJECT_NAME }}" \
+            --branch=main

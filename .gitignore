@@ -39,8 +39,12 @@ yarn-error.log*
 
 # Generated
 public/og/*.png
+site/public/og/*.png
 public/sitemap.xml
 public/robots.txt
+# OG images are generated into site/og-dist and uploaded to R2 (never committed)
+og-dist/
+site/og-dist/
 
 # Build artifacts / temp
 site/tmp/
