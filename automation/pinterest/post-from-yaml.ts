@@ -38,7 +38,11 @@ import { PinterestClient } from "./client";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const PINS_PATH = path.resolve(__dirname, "pins.yaml");
-const STATE_PATH = path.join(os.homedir(), ".config/pickly/pinterest-posted.json");
+// State path is overridable so CI can persist the posted log inside the repo
+// (committed back with [skip ci]) instead of the user's home directory.
+const STATE_PATH = process.env.PINTEREST_STATE_PATH
+  ? path.resolve(process.env.PINTEREST_STATE_PATH)
+  : path.join(os.homedir(), ".config/pickly/pinterest-posted.json");
 const SLEEP_MS = 30_000;
 
 interface Pin {
@@ -104,6 +108,9 @@ async function main() {
   const reset = args.includes("--reset");
 
   const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
+  // OG images are served from R2 (img.pickly.blog), NOT from the site itself
+  // (pickly.blog/og/* 404s after the R2 migration). Pinterest must fetch the image.
+  const OG_BASE = process.env.NEXT_PUBLIC_OG_BASE_URL || SITE_URL;
   const BOARD_ID = process.env.PINTEREST_DEFAULT_BOARD_ID;
   if (!BOARD_ID && !dryRun) {
     console.error("✗ PINTEREST_DEFAULT_BOARD_ID 未設定");
@@ -163,7 +170,7 @@ async function main() {
       console.log(`  board: ${p.board ?? "default"} → ${boardId}`);
       console.log(`  title: ${p.title}`);
       console.log(`  link: ${link}`);
-      console.log(`  image: ${SITE_URL}/og/${slug}-${p.locale}.png`);
+      console.log(`  image: ${OG_BASE}/og/${slug}-${p.locale}.png`);
       console.log(`  desc: ${p.description.slice(0, 100)}...`);
       console.log("");
     }
@@ -178,7 +185,7 @@ async function main() {
     // article_slugがない場合はlinkから抽出
     const slug = p.article_slug ?? ((p.link ?? "").match(/\/([^/]+)\/?$/) ?? [])[1] ?? p.pin_id;
     const absoluteLink = resolveLink(p.link ?? "", SITE_URL);
-    const imageUrl = `${SITE_URL}/og/${slug}-${p.locale}.png`;
+    const imageUrl = `${OG_BASE}/og/${slug}-${p.locale}.png`;
     try {
       const boardId = (p.board && BOARD_MAP[p.board]) ? BOARD_MAP[p.board] : BOARD_ID!;
       const r = await client.createPin({

@@ -1,0 +1,106 @@
+name: Pinterest Post
+
+# Posts a daily batch of pins from automation/pinterest/pins.yaml via the
+# Pinterest API (post-from-yaml.ts). Images are fetched by Pinterest from
+# img.pickly.blog (R2). Idempotent: the posted log is committed back to the repo.
+#
+# GATED: until Pinterest grants Standard API access, set the repo variable
+# PINTEREST_POSTING_ENABLED to anything other than "true" (or leave it unset) and
+# this workflow only DRY-RUNS — it validates the pipeline without calling the API
+# (Trial access returns 403). Flip PINTEREST_POSTING_ENABLED=true to go live.
+#
+# Required secrets: PINTEREST_APP_ID, PINTEREST_APP_SECRET, PINTEREST_REFRESH_TOKEN,
+#                   PINTEREST_DEFAULT_BOARD_ID  (PINTEREST_ACCESS_TOKEN optional fallback)
+# Required variables: PINTEREST_POSTING_ENABLED (true to post), OG_BASE_URL
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "How many pins to post this run"
+        default: "12"
+        required: false
+      dry_run:
+        description: "Dry run (do not call the API)"
+        type: boolean
+        default: false
+  schedule:
+    # Daily ~13:30 UTC. Pinterest is burst-sensitive; keep the batch modest.
+    - cron: "30 13 * * *"
+
+concurrency:
+  group: pinterest-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write   # to commit the posted log back
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install automation deps (no browsers)
+        working-directory: automation
+        run: npm install --ignore-scripts --no-audit --no-fund
+
+      - name: Decide dry-run vs live
+        id: mode
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ] || [ "${{ vars.PINTEREST_POSTING_ENABLED }}" != "true" ]; then
+            echo "dry=--dry-run" >> "$GITHUB_OUTPUT"
+            echo "live=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Posting DISABLED or dry-run requested → dry-run only (set PINTEREST_POSTING_ENABLED=true to go live)."
+          else
+            echo "dry=" >> "$GITHUB_OUTPUT"
+            echo "live=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Refresh Pinterest access token
+        id: token
+        env:
+          PINTEREST_APP_ID: ${{ secrets.PINTEREST_APP_ID }}
+          PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
+          PINTEREST_REFRESH_TOKEN: ${{ secrets.PINTEREST_REFRESH_TOKEN }}
+          FALLBACK: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+        run: |
+          TOKEN=""
+          if [ -n "$PINTEREST_REFRESH_TOKEN" ] && [ -n "$PINTEREST_APP_ID" ]; then
+            RESP=$(curl -s -X POST "https://api.pinterest.com/v5/oauth/token" \
+              -u "${PINTEREST_APP_ID}:${PINTEREST_APP_SECRET}" \
+              -d grant_type=refresh_token -d "refresh_token=${PINTEREST_REFRESH_TOKEN}" || true)
+            TOKEN=$(printf '%s' "$RESP" | python3 -c "import sys,json;\
+            print(json.load(sys.stdin).get('access_token',''))" 2>/dev/null || true)
+          fi
+          if [ -z "$TOKEN" ]; then TOKEN="$FALLBACK"; echo "::warning::token refresh failed; using stored access token (may be expired)"; fi
+          echo "::add-mask::$TOKEN"
+          echo "PINTEREST_ACCESS_TOKEN=$TOKEN" >> "$GITHUB_ENV"
+
+      - name: Post batch
+        env:
+          PINTEREST_DEFAULT_BOARD_ID: ${{ secrets.PINTEREST_DEFAULT_BOARD_ID }}
+          NEXT_PUBLIC_OG_BASE_URL: ${{ vars.OG_BASE_URL }}
+          NEXT_PUBLIC_SITE_URL: https://pickly.blog
+          PINTEREST_STATE_PATH: pinterest/pinterest-posted.json
+        working-directory: automation
+        run: |
+          LIMIT="${{ github.event.inputs.limit }}"; LIMIT="${LIMIT:-12}"
+          npx tsx pinterest/post-from-yaml.ts --limit "$LIMIT" ${{ steps.mode.outputs.dry }}
+
+      - name: Commit posted log
+        if: steps.mode.outputs.live == 'true'
+        run: |
+          git config user.name "appdevelopsk"
+          git config user.email "kenichiro.s@cargate.co.jp"
+          git add automation/pinterest/pinterest-posted.json || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update pinterest posted log [skip ci]"
+            git push
+          else
+            echo "no state change"
+          fi
