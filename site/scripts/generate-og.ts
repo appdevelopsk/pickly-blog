@@ -143,6 +143,9 @@ async function main() {
 
   let count = 0;
   let skipped = 0;
+  // Relative filenames generated this run — the CI deploy uploads only these to
+  // R2 (skipped/unchanged images are already there), so re-deploys are cheap.
+  const generated: string[] = [];
   for (const slug of slugs) {
     const messagesDir = path.join(ARTICLES_DIR, slug, "messages");
     let locales: string[];
@@ -194,9 +197,12 @@ async function main() {
       if (DEBUG_SVG) {
         await fs.writeFile(path.join(OUT_DIR, `${slug}-${locale}.svg`), svg);
       }
+      generated.push(`${slug}-${locale}.png`);
       count++;
     }
   }
+  // Manifest of this run's new images for the CI uploader (one filename/line).
+  await fs.writeFile(path.join(OUT_DIR, ".pending-upload.txt"), generated.join("\n") + (generated.length ? "\n" : ""));
   console.log(`Generated ${count} OG image(s) as PNG (1000x1500); skipped ${skipped} existing.`);
 }
 

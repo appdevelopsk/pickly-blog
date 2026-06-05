@@ -7,10 +7,11 @@ name: Deploy (OG → R2 + Pages)
 # the static export with `wrangler pages deploy`.
 #
 # Required repo settings (Settings → Secrets and variables → Actions):
-#   Secrets: CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID,
-#            R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY
+#   Secrets: CLOUDFLARE_API_TOKEN (Account: Pages Edit + Workers R2 Storage Edit),
+#            CLOUDFLARE_ACCOUNT_ID
 #   Variables: CLOUDFLARE_PROJECT_NAME (Pages project), R2_BUCKET,
 #              OG_BASE_URL (e.g. https://img.pickly.blog)
+# R2 uploads use wrangler (the API token) — no separate S3 access keys needed.
 #
 # Disable the Cloudflare Pages git-integration auto-build so only this workflow
 # deploys (otherwise both fight and the auto-build ships without OG images).
@@ -39,7 +40,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends \
             fonts-noto-core fonts-noto-cjk fonts-noto-color-emoji \
-            fonts-noto-unhinted rclone
+            fonts-noto-unhinted
           sudo fc-cache -f
 
       - uses: actions/setup-node@v4
@@ -49,6 +50,9 @@ jobs:
           cache-dependency-path: site/package-lock.json
 
       - run: npm ci
+
+      - name: Install wrangler
+        run: npm i -g wrangler@4
 
       # Cache generated OG images so only NEW/changed articles regenerate.
       # Key changes when any article message file or the generator changes;
@@ -66,18 +70,21 @@ jobs:
         # Set OG_FORCE=1 here (or run the workflow manually after bumping the
         # cache key) to force a full regeneration after a template change.
 
-      - name: Upload OG images to R2
+      - name: Upload new OG images to R2 (wrangler, token-only)
         env:
-          RCLONE_CONFIG_R2_TYPE: s3
-          RCLONE_CONFIG_R2_PROVIDER: Cloudflare
-          RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-          RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          RCLONE_CONFIG_R2_ENDPOINT: https://${{ secrets.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com
-          RCLONE_CONFIG_R2_ACL: private
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          R2_BUCKET: ${{ vars.R2_BUCKET }}
         run: |
-          rclone copy og-dist "R2:${{ vars.R2_BUCKET }}/og" \
-            --size-only --transfers=48 --checkers=48 \
-            --content-type image/png --no-update-modtime --stats=15s
+          MANIFEST=og-dist/.pending-upload.txt
+          n=$(grep -c . "$MANIFEST" 2>/dev/null || echo 0)
+          echo "Uploading $n new OG image(s) to r2://$R2_BUCKET/og ..."
+          if [ "$n" -gt 0 ]; then
+            # Upload only this run's newly-generated files, 16 in parallel.
+            xargs -a "$MANIFEST" -P 16 -I {} \
+              wrangler r2 object put "$R2_BUCKET/og/{}" \
+                --file "og-dist/{}" --content-type image/png --remote
+          fi
 
       # Legacy OG images were committed under site/public/og (~6.4k files). They
       # now live on R2 — drop them so they don't bloat the static export back
@@ -95,6 +102,6 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
-          npx --yes wrangler@4 pages deploy out \
+          wrangler pages deploy out \
             --project-name="${{ vars.CLOUDFLARE_PROJECT_NAME }}" \
             --branch=main
