@@ -21,6 +21,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    # Daily ~03:17 UTC: the price-fetch job commits with [skip ci] (which does
+    # not trigger push workflows), so a scheduled deploy keeps live prices fresh
+    # and heals any missing OG images on R2.
+    - cron: "17 3 * * *"
 
 concurrency:
   group: deploy-${{ github.ref }}
