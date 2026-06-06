@@ -14,6 +14,9 @@ export const metadata: Metadata = {
     siteName: "Pickly",
     type: "website",
   },
+  alternates: {
+    types: { "application/rss+xml": `${process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog"}/feed.xml` },
+  },
   twitter: {
     card: "summary_large_image",
   },
