@@ -1,0 +1,51 @@
+name: Social Syndicate
+
+# Drips a few articles/day to free social channels (Mastodon, Telegram) from the
+# catalog. No-op until secrets are set. Idempotent via a committed state file.
+#
+# Mastodon: secrets MASTODON_INSTANCE, MASTODON_TOKEN
+# Telegram: secrets TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit: { description: "Articles to post this run", default: "4", required: false }
+  schedule:
+    - cron: "20 15 * * *"   # daily 15:20 UTC
+
+concurrency:
+  group: social-syndicate
+  cancel-in-progress: false
+
+jobs:
+  syndicate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20, cache: npm, cache-dependency-path: site/package-lock.json }
+      - working-directory: site
+        run: npm ci
+      - name: Syndicate
+        working-directory: site
+        env:
+          NEXT_PUBLIC_SITE_URL: https://pickly.blog
+          NEXT_PUBLIC_OG_BASE_URL: ${{ vars.OG_BASE_URL }}
+          MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          LIMIT: ${{ github.event.inputs.limit }}
+          SOCIAL_STATE_PATH: scripts/.social-posted.json
+        run: npx tsx scripts/social-syndicate.ts
+      - name: Commit state
+        run: |
+          git config user.name "appdevelopsk"
+          git config user.email "kenichiro.s@cargate.co.jp"
+          git add site/scripts/.social-posted.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: social syndication state [skip ci]" && git push
+          else echo "no new posts"; fi
