@@ -13,31 +13,43 @@
  * If unset, exits 0 with a notice (so the scheduled workflow is a no-op until configured).
  */
 import { google } from "googleapis";
+import { OAuth2Client } from "google-auth-library";
 import * as fs from "node:fs";
 import * as path from "node:path";
 
-const RAW = process.env.GA_SERVICE_ACCOUNT_JSON ?? "";
+const SA_RAW = process.env.GA_SERVICE_ACCOUNT_JSON ?? "";
+const OAUTH_RAW = process.env.GA_OAUTH_JSON ?? "";        // {client_id,client_secret,refresh_token}
 const PROPERTY = process.env.GA4_PROPERTY_ID ?? "";
 const OUT = path.resolve(__dirname, "../../GROWTH_REPORT.md");
 const NOW = process.env.REPORT_DATE || new Date().toISOString().slice(0, 16).replace("T", " ") + " UTC";
 
-function loadCreds(): Record<string, unknown> | null {
-  if (!RAW) return null;
-  const txt = RAW.trim().startsWith("{") ? RAW : Buffer.from(RAW, "base64").toString("utf8");
+function parseMaybeB64(raw: string): Record<string, unknown> | null {
+  if (!raw) return null;
+  const txt = raw.trim().startsWith("{") ? raw : Buffer.from(raw, "base64").toString("utf8");
   return JSON.parse(txt);
 }
 
 async function main() {
-  const creds = loadCreds();
-  if (!creds || !PROPERTY) {
-    console.log("GA4 reporting not configured (GA_SERVICE_ACCOUNT_JSON / GA4_PROPERTY_ID unset) — skipping.");
+  const sa = parseMaybeB64(SA_RAW);
+  const oauth = parseMaybeB64(OAUTH_RAW);
+  if ((!sa && !oauth) || !PROPERTY) {
+    console.log("GA4 reporting not configured (need GA4_PROPERTY_ID + GA_SERVICE_ACCOUNT_JSON or GA_OAUTH_JSON) — skipping.");
     return;
   }
-  const auth = new google.auth.GoogleAuth({
-    credentials: creds as { client_email: string; private_key: string },
-    scopes: ["https://www.googleapis.com/auth/analytics.readonly"],
-  });
-  const data = google.analyticsdata({ version: "v1beta", auth });
+  // Prefer service account (robust, non-expiring); fall back to OAuth refresh token.
+  let auth: OAuth2Client | InstanceType<typeof google.auth.GoogleAuth>;
+  if (sa) {
+    auth = new google.auth.GoogleAuth({
+      credentials: sa as { client_email: string; private_key: string },
+      scopes: ["https://www.googleapis.com/auth/analytics.readonly"],
+    });
+  } else {
+    const o = oauth as { client_id: string; client_secret: string; refresh_token: string };
+    const c = new OAuth2Client(o.client_id, o.client_secret);
+    c.setCredentials({ refresh_token: o.refresh_token });
+    auth = c;
+  }
+  const data = google.analyticsdata({ version: "v1beta", auth: auth as never });
   const property = `properties/${PROPERTY}`;
 
   const run = async (body: object) => {
