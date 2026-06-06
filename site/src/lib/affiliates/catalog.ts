@@ -22253,7 +22253,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       en: "The only soft-sided cat carrier crash-tested to automotive safety standards (Center for Pet Safety certified). Converts from travel carrier to plush bed at home.",
     },
     links: [
-      { network: "amazon-us", productId: "B000KFWVXW", rawUrl: "https://www.amazon.com/dp/B000KFWVXW", markets: ["US", "EU", "global"], approved: false },
+      { network: "amazon-us", productId: "B000KFWVXW", rawUrl: "https://www.amazon.com/dp/B000KFWVXW", markets: ["US", "EU", "global"], approved: true },
       { network: "direct", productId: "https://sleepypod.com/", markets: ["US", "EU", "global"], approved: true },
     ],
   },
@@ -22287,7 +22287,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       en: "Airline-approved at all major US carriers. Spring-wire frame collapses to fit under airplane seats. Removable, washable fleece liner.",
     },
     links: [
-      { network: "amazon-us", productId: "B000B8LKA8", rawUrl: "https://www.amazon.com/dp/B000B8LKA8", markets: ["US", "EU", "global"], approved: false },
+      { network: "amazon-us", productId: "B000B8LKA8", rawUrl: "https://www.amazon.com/dp/B000B8LKA8", markets: ["US", "EU", "global"], approved: true },
     ],
   },
   {
@@ -22320,7 +22320,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       en: "Expands on both sides to give cats 50% more floor space mid-flight. Mesh panels on four sides. Airline-approved in collapsed configuration.",
     },
     links: [
-      { network: "amazon-us", productId: "B07NKMH9MG", rawUrl: "https://www.amazon.com/dp/B07NKMH9MG", markets: ["US", "EU", "global"], approved: false },
+      { network: "amazon-us", productId: "B07NKMH9MG", rawUrl: "https://www.amazon.com/dp/B07NKMH9MG", markets: ["US", "EU", "global"], approved: true },
     ],
   },
   {
@@ -22881,7 +22881,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       en: "Pro-grade electric Z-lift grooming table. Height adjusts 25–48 inches at 5.2 cm/sec. 250 lb capacity, non-slip rubber surface, used in commercial salons.",
     },
     links: [
-      { network: "amazon-us", productId: "B07BQWXV8P", rawUrl: "https://www.amazon.com/dp/B07BQWXV8P", markets: ["US", "EU", "global"], approved: false },
+      { network: "amazon-us", productId: "B07BQWXV8P", rawUrl: "https://www.amazon.com/dp/B07BQWXV8P", markets: ["US", "EU", "global"], approved: true },
       { network: "direct", productId: "https://flyingpiggrooming.com/", markets: ["US", "EU", "global"], approved: true },
     ],
   },
@@ -22915,7 +22915,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       en: "Silent foot-pump hydraulic lift. 36×24-inch heavy-duty steel surface, 250 lb capacity, 2 cm/sec lift speed. Preferred by groomers who work with anxious dogs.",
     },
     links: [
-      { network: "amazon-us", productId: "B000H97XHU", rawUrl: "https://www.amazon.com/dp/B000H97XHU", markets: ["US", "EU", "global"], approved: false },
+      { network: "amazon-us", productId: "B000H97XHU", rawUrl: "https://www.amazon.com/dp/B000H97XHU", markets: ["US", "EU", "global"], approved: true },
       { network: "direct", productId: "https://www.masterequipment.com/", markets: ["US", "EU", "global"], approved: true },
     ],
   },
@@ -22949,7 +22949,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       en: "Dual heavy-duty motors, 22–43-inch height range, 220 lb capacity. Includes foldable grooming arm and safety noose. 4.8 cm/sec lift speed.",
     },
     links: [
-      { network: "amazon-us", productId: "B07FKXQDLG", rawUrl: "https://www.amazon.com/dp/B07FKXQDLG", markets: ["US", "EU", "global"], approved: false },
+      { network: "amazon-us", productId: "B07FKXQDLG", rawUrl: "https://www.amazon.com/dp/B07FKXQDLG", markets: ["US", "EU", "global"], approved: true },
       { network: "direct", productId: "https://www.pawbrothers.com/", markets: ["US", "EU", "global"], approved: true },
     ],
   },
@@ -22983,7 +22983,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       en: "Fixed-height folding table, 46×24 inches, 150 lb capacity. Includes adjustable grooming arm and clamp. Best value for occasional home groomers.",
     },
     links: [
-      { network: "amazon-us", productId: "B003OPVVZ2", rawUrl: "https://www.amazon.com/dp/B003OPVVZ2", markets: ["US", "EU", "global"], approved: false },
+      { network: "amazon-us", productId: "B003OPVVZ2", rawUrl: "https://www.amazon.com/dp/B003OPVVZ2", markets: ["US", "EU", "global"], approved: true },
       { network: "direct", productId: "https://www.gopetclub.com/", markets: ["US", "EU", "global"], approved: true },
     ],
   },
@@ -23017,7 +23017,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       en: "Mid-price electric lift, 220 lb capacity, 43-inch tabletop, folds flat for storage. Y-shaped grooming arm included. 3.5 cm/sec lift speed.",
     },
     links: [
-      { network: "amazon-us", productId: "B07NQWZ3KQ", rawUrl: "https://www.amazon.com/dp/B07NQWZ3KQ", markets: ["US", "EU", "global"], approved: false },
+      { network: "amazon-us", productId: "B07NQWZ3KQ", rawUrl: "https://www.amazon.com/dp/B07NQWZ3KQ", markets: ["US", "EU", "global"], approved: true },
       { network: "direct", productId: "https://www.shelandy.com/", markets: ["US", "EU", "global"], approved: true },
     ],
   },
@@ -23053,8 +23053,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "1936年からスウェーデンで手縫い製造。ヘアシープ革はラムスキンより柔軟、カシミアライニングで25〜45°Fの防寒に対応。フォーマルなシルエット。",
     },
     links: [
-      { network: "amazon-us", productId: "B07GJKL8GW", rawUrl: "https://www.amazon.com/s?k=Hestra+Elegance+hairsheep+gloves", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B07GJKL8GW", rawUrl: "https://www.amazon.co.jp/s?k=Hestra+Elegance+hairsheep+gloves", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B07GJKL8GW", rawUrl: "https://www.amazon.com/s?k=Hestra+Elegance+hairsheep+gloves", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B07GJKL8GW", rawUrl: "https://www.amazon.co.jp/s?k=Hestra+Elegance+hairsheep+gloves", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23088,8 +23088,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "10本の指先に導電糸を織り込んだオランダブランド。プレミアムナッパレザー、スリムなシティシルエット。-2°Cのテストで100%のFace ID成功。",
     },
     links: [
-      { network: "amazon-us", productId: "B07YDK3F8D", rawUrl: "https://www.amazon.com/s?k=Mujjo+touchscreen+leather+gloves", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B07YDK3F8D", rawUrl: "https://www.amazon.co.jp/s?k=Mujjo+touchscreen+leather+gloves", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B07YDK3F8D", rawUrl: "https://www.amazon.com/s?k=Mujjo+touchscreen+leather+gloves", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B07YDK3F8D", rawUrl: "https://www.amazon.co.jp/s?k=Mujjo+touchscreen+leather+gloves", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23123,8 +23123,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "1777年からのイギリス製グローブ。ヘアシープ革に100%カシミアライニング。バターのような手触り、独立テストで28°Fで2.2°Fの指温度低下。",
     },
     links: [
-      { network: "amazon-us", productId: "B0BXYZ1234", rawUrl: "https://www.amazon.com/s?k=Dents+Bath+cashmere+leather+gloves", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B0BXYZ1234", rawUrl: "https://www.amazon.co.jp/s?k=Dents+Bath+cashmere+leather+gloves", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B0BXYZ1234", rawUrl: "https://www.amazon.com/s?k=Dents+Bath+cashmere+leather+gloves", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B0BXYZ1234", rawUrl: "https://www.amazon.co.jp/s?k=Dents+Bath+cashmere+leather+gloves", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23158,8 +23158,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "ラムスキンにカシミアライニングとタッチスクリーン対応指先。テストでのスワイプ成功率11/12。コーチストアおよびデパートで広く販売。",
     },
     links: [
-      { network: "amazon-us", productId: "B08COACH001", rawUrl: "https://www.amazon.com/s?k=Coach+tech+cashmere+leather+gloves", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B08COACH001", rawUrl: "https://www.amazon.co.jp/s?k=Coach+tech+cashmere+leather+gloves", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B08COACH001", rawUrl: "https://www.amazon.com/s?k=Coach+tech+cashmere+leather+gloves", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B08COACH001", rawUrl: "https://www.amazon.co.jp/s?k=Coach+tech+cashmere+leather+gloves", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23193,8 +23193,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "スエードパームに本物のシアリングライニングとカフ。28°Fのテストで最も暖かく、指の温度低下はわずか1.5°F。耐水性スエード、人差し指のみタッチスクリーン対応。",
     },
     links: [
-      { network: "amazon-us", productId: "B07UGG5678", rawUrl: "https://www.amazon.com/s?k=UGG+shearling+cuff+leather+gloves", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B07UGG5678", rawUrl: "https://www.amazon.co.jp/s?k=UGG+shearling+cuff+leather+gloves", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B07UGG5678", rawUrl: "https://www.amazon.com/s?k=UGG+shearling+cuff+leather+gloves", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B07UGG5678", rawUrl: "https://www.amazon.co.jp/s?k=UGG+shearling+cuff+leather+gloves", markets: ["JP"], approved: true },
     ],
   },
 
@@ -23472,7 +23472,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       en: "The original penny loafer since 1936. Smooth leather upper, signature saddle strap with penny slot, glued leather sole. American preppy icon — worn by JFK and Elvis.",
     },
     links: [
-      { network: "amazon-us", productId: "B00FDEHKIG", rawUrl: "https://www.amazon.com/s?k=GH+Bass+Weejuns+penny+loafer", markets: ["US", "EU", "UK", "global"], approved: false },
+      { network: "amazon-us", productId: "B00FDEHKIG", rawUrl: "https://www.amazon.com/s?k=GH+Bass+Weejuns+penny+loafer", markets: ["US", "EU", "UK", "global"], approved: true },
       { network: "direct", productId: "https://www.ghbass.com/collections/weejuns", markets: ["US", "EU", "UK", "global"], approved: true },
     ],
   },
@@ -23507,7 +23507,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "direct", productId: "https://www.aldenshoe.com/", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-us", productId: "B00ALDEN01", rawUrl: "https://www.amazon.com/s?k=Alden+tassel+loafer+leisure+handsewn", markets: ["US", "EU", "UK", "global"], approved: false },
+      { network: "amazon-us", productId: "B00ALDEN01", rawUrl: "https://www.amazon.com/s?k=Alden+tassel+loafer+leisure+handsewn", markets: ["US", "EU", "UK", "global"], approved: true },
     ],
   },
   {
@@ -23541,7 +23541,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "direct", productId: "https://www.tods.com/", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-us", productId: "B00TODS001", rawUrl: "https://www.amazon.com/s?k=tods+gommino+driving+loafer", markets: ["US", "EU", "UK", "global"], approved: false },
+      { network: "amazon-us", productId: "B00TODS001", rawUrl: "https://www.amazon.com/s?k=tods+gommino+driving+loafer", markets: ["US", "EU", "UK", "global"], approved: true },
     ],
   },
   {
@@ -23575,7 +23575,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "direct", productId: "https://thursdayboots.com/collections/mens-loafers", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-us", productId: "B00THURS01", rawUrl: "https://www.amazon.com/s?k=thursday+boot+company+loafer", markets: ["US", "EU", "UK", "global"], approved: false },
+      { network: "amazon-us", productId: "B00THURS01", rawUrl: "https://www.amazon.com/s?k=thursday+boot+company+loafer", markets: ["US", "EU", "UK", "global"], approved: true },
     ],
   },
   {
@@ -23609,7 +23609,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "direct", productId: "https://www.colehaan.com/mens-pinch-grand-loafer", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-us", productId: "B00COLEH01", rawUrl: "https://www.amazon.com/s?k=cole+haan+pinch+grand+loafer", markets: ["US", "EU", "UK", "global"], approved: false },
+      { network: "amazon-us", productId: "B00COLEH01", rawUrl: "https://www.amazon.com/s?k=cole+haan+pinch+grand+loafer", markets: ["US", "EU", "UK", "global"], approved: true },
     ],
   },
   // ── Best Dog Nail Clipper 2026 ────────────────────────────────────────────
@@ -23623,8 +23623,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Dremel 7300-PT Pet Nail Grooming Tool", ja: "ドレメル 7300-PT ペット爪グラインダー", "zh-CN": "Dremel 7300-PT 宠物磨甲工具", "zh-TW": "Dremel 7300-PT 寵物磨甲工具", ko: "드레멜 7300-PT 반려동물 발톱 그라인더", es: "Dremel 7300-PT Kit de uñas para mascotas", "pt-BR": "Dremel 7300-PT Kit para unhas de pets", fr: "Dremel 7300-PT Outil de toilettage pour animaux", de: "Dremel 7300-PT Tierpflege-Schleifgerät", it: "Dremel 7300-PT Strumento per unghie animali", ru: "Dremel 7300-PT Инструмент для когтей питомцев", ar: "Dremel 7300-PT أداة العناية بأظافر الحيوانات الأليفة", hi: "Dremel 7300-PT पालतू नाखून ग्राइंडर", id: "Dremel 7300-PT Alat Kuku Hewan Peliharaan", th: "Dremel 7300-PT เครื่องเจียรเล็บสัตว์เลี้ยง", vi: "Dremel 7300-PT Dụng cụ mài móng thú cưng", tr: "Dremel 7300-PT Evcil Hayvan Tırnak Bakım Aleti" },
     description: { en: "Cordless rotary tool with 2 speeds (6,500 / 13,000 RPM) and 60-grit sanding bands. Runs up to 2 hours on 4 AA batteries. Ideal for dark-nailed dogs where the quick is invisible.", ja: "コードレス回転工具、2段階速度（6,500/13,000 RPM）、60番サンディングバンド。単3電池4本で最大2時間動作。毛細血管が見えにくい黒爪の犬に最適。" },
     links: [
-      { network: "amazon-us", productId: "B0000302Z8", rawUrl: "https://www.amazon.com/dp/B0000302Z8", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B0000302Z8", rawUrl: "https://www.amazon.co.jp/s?k=Dremel+7300-PT", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B0000302Z8", rawUrl: "https://www.amazon.com/dp/B0000302Z8", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B0000302Z8", rawUrl: "https://www.amazon.co.jp/s?k=Dremel+7300-PT", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23637,8 +23637,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Safari Professional Nail Trimmer for Dogs", ja: "サファリ プロフェッショナル 犬用爪切り", "zh-CN": "Safari 专业犬用指甲剪", "zh-TW": "Safari 專業犬用指甲剪", ko: "사파리 프로페셔널 반려견 발톱 깎기", es: "Safari Cortaúñas profesional para perros", "pt-BR": "Safari Cortador de unhas profissional para cães", fr: "Safari Coupe-ongles professionnel pour chiens", de: "Safari Professioneller Hundekrallenschneider", it: "Safari Tronchesino professionale per cani", ru: "Safari Профессиональный триммер когтей для собак", ar: "Safari مقص أظافر احترافي للكلاب", hi: "Safari प्रोफेशनल डॉग नेल ट्रिमर", id: "Safari Pemotong Kuku Anjing Profesional", th: "Safari กรรไกรตัดเล็บสุนัขมืออาชีพ", vi: "Safari Kìm cắt móng chó chuyên nghiệp", tr: "Safari Köpekler için Profesyonel Tırnak Kesici" },
     description: { en: "Stainless steel blades with a quick-stop safety guard. Ergonomic non-slip handles. Trusted by professional dog groomers for medium and large breeds.", ja: "ステンレス製ブレード、安全ガード付き。滑り止めエルゴノミックグリップ。中・大型犬向けのプログルーマー愛用品。" },
     links: [
-      { network: "amazon-us", productId: "B000HHGJL8", rawUrl: "https://www.amazon.com/dp/B000HHGJL8", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B000HHGJL8", rawUrl: "https://www.amazon.co.jp/s?k=Safari+Professional+Dog+Nail+Trimmer", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B000HHGJL8", rawUrl: "https://www.amazon.com/dp/B000HHGJL8", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B000HHGJL8", rawUrl: "https://www.amazon.co.jp/s?k=Safari+Professional+Dog+Nail+Trimmer", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23651,8 +23651,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Boshel Dog Nail Clippers with Safety Guard", ja: "ボシェル 安全ガード付き犬用爪切り", "zh-CN": "Boshel 带安全挡板狗狗指甲剪", "zh-TW": "Boshel 帶安全擋板狗狗指甲剪", ko: "보쉘 안전 가드가 있는 반려견 발톱 깎기", es: "Boshel Cortaúñas para perros con guarda de seguridad", "pt-BR": "Boshel Cortador de unhas com proteção de segurança", fr: "Boshel Coupe-ongles pour chiens avec garde de sécurité", de: "Boshel Hundekrallenschneider mit Sicherheitswächter", it: "Boshel Tronchesino per cani con guarda di sicurezza", ru: "Boshel Кусачки для когтей с защитой от порезов", ar: "Boshel مقص أظافر الكلاب مع حارس الأمان", hi: "Boshel सुरक्षा गार्ड के साथ डॉग नेल क्लिपर", id: "Boshel Pemotong Kuku Anjing dengan Penjaga Keamanan", th: "Boshel กรรไกรตัดเล็บสุนัขพร้อมแผ่นป้องกัน", vi: "Boshel Kéo cắt móng chó với tấm bảo vệ an toàn", tr: "Boshel Güvenlik Korumalı Köpek Tırnak Makası" },
     description: { en: "Built-in safety blade guard prevents over-cutting. 4.5-star Amazon rating with 40,000+ reviews. Includes a mini nail file in the handle. Most popular budget pick under $15.", ja: "内蔵セーフティブレードガードで切りすぎ防止。Amazonで4.5星・4万件超のレビュー。ハンドル内蔵の爪やすり付き。15ドル以下で最人気のコスパ品。" },
     links: [
-      { network: "amazon-us", productId: "B01NCHSM4L", rawUrl: "https://www.amazon.com/dp/B01NCHSM4L", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B01NCHSM4L", rawUrl: "https://www.amazon.co.jp/s?k=Boshel+Dog+Nail+Clipper", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B01NCHSM4L", rawUrl: "https://www.amazon.com/dp/B01NCHSM4L", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B01NCHSM4L", rawUrl: "https://www.amazon.co.jp/s?k=Boshel+Dog+Nail+Clipper", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23665,8 +23665,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Casfuy Dog Nail Grinder", ja: "キャスフィ 犬用爪グラインダー", "zh-CN": "Casfuy 狗狗磨甲器", "zh-TW": "Casfuy 狗狗磨甲器", ko: "캐스퓨이 반려견 발톱 그라인더", es: "Casfuy Esmeriladora de uñas para perros", "pt-BR": "Casfuy Lixador de unhas para cães", fr: "Casfuy Lime électrique pour les ongles de chien", de: "Casfuy Hundekrallen-Schleifgerät", it: "Casfuy Smerigliatrice per unghie di cane", ru: "Casfuy Шлифовальный инструмент для когтей собак", ar: "Casfuy جهاز طحن أظافر الكلاب", hi: "Casfuy डॉग नेल ग्राइंडर", id: "Casfuy Penggiling Kuku Anjing", th: "Casfuy เครื่องเจียรเล็บสุนัข", vi: "Casfuy Máy mài móng chó", tr: "Casfuy Köpek Tırnak Taşlama Aleti" },
     description: { en: "USB rechargeable with 5-hour battery life. Two speed settings and 3 grinding ports sized for small, medium, and large dogs. Motor runs under 60 dB — quieter than most clippers.", ja: "USB充電式、5時間稼働。2段階スピードと小・中・大型犬対応の3サイズ研削ポート。モーター60dB以下で静音設計。" },
     links: [
-      { network: "amazon-us", productId: "B07MW86R7G", rawUrl: "https://www.amazon.com/dp/B07MW86R7G", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B07MW86R7G", rawUrl: "https://www.amazon.co.jp/s?k=Casfuy+Dog+Nail+Grinder", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B07MW86R7G", rawUrl: "https://www.amazon.com/dp/B07MW86R7G", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B07MW86R7G", rawUrl: "https://www.amazon.co.jp/s?k=Casfuy+Dog+Nail+Grinder", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23679,8 +23679,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "JW Pet GripSoft Deluxe Nail Clipper", ja: "JWペット グリップソフト デラックス 爪切り", "zh-CN": "JW Pet GripSoft 豪华宠物指甲剪", "zh-TW": "JW Pet GripSoft 豪華寵物指甲剪", ko: "JW Pet 그립소프트 디럭스 발톱 깎기", es: "JW Pet GripSoft Deluxe Cortaúñas", "pt-BR": "JW Pet GripSoft Deluxe Cortador de unhas", fr: "JW Pet GripSoft Deluxe Coupe-ongles", de: "JW Pet GripSoft Deluxe Nagelschneider", it: "JW Pet GripSoft Deluxe Tronchesino", ru: "JW Pet GripSoft Deluxe Когтерез", ar: "JW Pet GripSoft Deluxe قص الأظافر", hi: "JW Pet GripSoft Deluxe नेल क्लिपर", id: "JW Pet GripSoft Deluxe Pemotong Kuku", th: "JW Pet GripSoft Deluxe กรรไกรตัดเล็บ", vi: "JW Pet GripSoft Deluxe Kéo cắt móng", tr: "JW Pet GripSoft Deluxe Tırnak Kesici" },
     description: { en: "Curved stainless steel blade shaped for small to medium dog nails. Thermoplastic non-slip grip. Veterinarian-approved design. Under $14 and widely available in pet stores.", ja: "小〜中型犬の爪に合わせた湾曲ステンレスブレード。熱可塑性エラストマーの滑り止めグリップ。獣医師承認デザイン。14ドル以下、ペットショップで広く入手可能。" },
     links: [
-      { network: "amazon-us", productId: "B0002ARWL0", rawUrl: "https://www.amazon.com/dp/B0002ARWL0", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B0002ARWL0", rawUrl: "https://www.amazon.co.jp/s?k=JW+Pet+GripSoft+Nail+Clipper", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B0002ARWL0", rawUrl: "https://www.amazon.com/dp/B0002ARWL0", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B0002ARWL0", rawUrl: "https://www.amazon.co.jp/s?k=JW+Pet+GripSoft+Nail+Clipper", markets: ["JP"], approved: true },
     ],
   },
 
@@ -23768,7 +23768,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "amazon-us", productId: "B07FMKDP4D", rawUrl: "https://www.amazon.com/dp/B07FMKDP4D", markets: ["US", "global"], approved: true },
       { network: "direct", productId: "https://www.gotags.com/", markets: ["US", "global"], approved: true },
-      { network: "amazon-jp", productId: "B07FMKDP4D", rawUrl: "https://www.amazon.co.jp/s?k=GoTags+Stainless+Steel+Pet+ID+Tag", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B07FMKDP4D", rawUrl: "https://www.amazon.co.jp/s?k=GoTags+Stainless+Steel+Pet+ID+Tag", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23783,7 +23783,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     links: [
       { network: "direct", productId: "https://www.providenceengraving.com/", markets: ["US", "global"], approved: true },
       { network: "amazon-us", productId: "B01LZGSJH9", rawUrl: "https://www.amazon.com/dp/B01LZGSJH9", markets: ["US", "global"], approved: true },
-      { network: "amazon-jp", productId: "B01LZGSJH9", rawUrl: "https://www.amazon.co.jp/s?k=Providence+Engraving+Brass+Pet+Tag", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B01LZGSJH9", rawUrl: "https://www.amazon.co.jp/s?k=Providence+Engraving+Brass+Pet+Tag", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23797,7 +23797,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Unique QR + short URL on heavy-duty stainless. Finder scans tag to see pet profile page (photo, contact, vet info) — no app needed on finder's phone. Free lifetime web service included. Info updatable any time without buying a new tag.", ja: "丈夫なステンレスにQR+短縮URLをレーザー刻印。拾った人がQRをスキャンするとペットプロフィールページ（写真・連絡先・獣医情報）を閲覧可能。ファインダー側アプリ不要。無料ライフタイムウェブサービス付き。" },
     links: [
       { network: "amazon-us", productId: "B00MJ5HBYK", rawUrl: "https://www.amazon.com/dp/B00MJ5HBYK", markets: ["US", "global"], approved: true },
-      { network: "amazon-jp", productId: "B00MJ5HBYK", rawUrl: "https://www.amazon.co.jp/s?k=Dynotag+Smart+QR+Pet+ID+Tag", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B00MJ5HBYK", rawUrl: "https://www.amazon.co.jp/s?k=Dynotag+Smart+QR+Pet+ID+Tag", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23811,7 +23811,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Lightweight anodized aluminum, under 0.1 oz. Available in 8 colors. Laser-engraved text; 90% readability at 12 months. The most affordable tag in this test. Less durable than steel — surface can scratch in heavy brush.", ja: "超軽量アルマイト加工アルミニウム、0.1オンス未満。8色展開。レーザー刻印テキスト。12ヶ月後の可読性90%。このテストで最も手頃な価格。鋼製より耐久性が低く、ブッシュで引っかかると表面に傷が入ることがある。" },
     links: [
       { network: "amazon-us", productId: "B003U6ZO4M", rawUrl: "https://www.amazon.com/dp/B003U6ZO4M", markets: ["US", "global"], approved: true },
-      { network: "amazon-jp", productId: "B003U6ZO4M", rawUrl: "https://www.amazon.co.jp/s?k=QuickDraw+Tag+Shop+Aluminum+Pet+Tag", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B003U6ZO4M", rawUrl: "https://www.amazon.co.jp/s?k=QuickDraw+Tag+Shop+Aluminum+Pet+Tag", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23825,7 +23825,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Silicone-coated stainless steel tag slides directly onto the collar webbing — no ring, no dangle, zero jingle. Laser-engraved. Fits collars 5/8\" to 1\" wide. Requires a straight, flat-weave collar; not compatible with chain or rope collars.", ja: "シリコンコーティングのステンレス製タグがカラーウェビングに直接スライド装着。リング不要、ぶら下がりなし、完全無音。レーザー刻印。5/8\"〜1\"幅のカラーに対応。フラットウィーブのカラーが必要で、チェーン・ロープカラーには非対応。" },
     links: [
       { network: "amazon-us", productId: "B08MHPVS9K", rawUrl: "https://www.amazon.com/dp/B08MHPVS9K", markets: ["US", "global"], approved: true },
-      { network: "amazon-jp", productId: "B08MHPVS9K", rawUrl: "https://www.amazon.co.jp/s?k=SilentTags+Flat+Slide+Pet+ID+Tag", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B08MHPVS9K", rawUrl: "https://www.amazon.co.jp/s?k=SilentTags+Flat+Slide+Pet+ID+Tag", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Parenting / Kids Toothbrushes (best-kids-toothbrush-2026) ─────────
@@ -23840,7 +23840,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Rotating-oscillating brush head removes up to 78% more plaque than manual. Disney character handles, pressure sensor, 2-minute timer. Magic Timer app gamifies brushing for ages 3+.", ja: "回転振動ブラシヘッドが手動比最大78%多くプラークを除去。ディズニーキャラハンドル、圧力センサー、2分タイマー。Magic Timerアプリでブラッシングをゲームのようにする、3歳以上向け。" },
     links: [
       { network: "amazon-us", productId: "B08CKS1B8K", rawUrl: "https://www.amazon.com/dp/B08CKS1B8K", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-jp", productId: "B08CKS1B8K", rawUrl: "https://www.amazon.co.jp/s?k=Oral-B+Kids+Electric+Disney", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B08CKS1B8K", rawUrl: "https://www.amazon.co.jp/s?k=Oral-B+Kids+Electric+Disney", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23854,7 +23854,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Sonic vibration at 31,000 strokes/min with Bluetooth app featuring animated coaching. 2 modes, 2 speed settings. KidTimer builds up to full 2 minutes gradually. Best for ages 7+.", ja: "31,000ストローク/分のソニック振動＋アニメコーチングBluetooth対応アプリ。2モード2スピード設定。KidTimerで段階的に2分へ。7歳以上に最適。" },
     links: [
       { network: "amazon-us", productId: "B01IOCCNEE", rawUrl: "https://www.amazon.com/dp/B01IOCCNEE", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-jp", productId: "B01IOCCNEE", rawUrl: "https://www.amazon.co.jp/s?k=Philips+Sonicare+Kids+Bluetooth", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B01IOCCNEE", rawUrl: "https://www.amazon.co.jp/s?k=Philips+Sonicare+Kids+Bluetooth", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23868,7 +23868,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Complete bundle: battery-powered brush, 2-minute sand timer, character rinse cup, toothbrush holder. Soft bristles, character-themed options. Best budget gift set for ages 3-7.", ja: "完全セット：電池式ブラシ、2分砂時計、キャラクターリンスカップ、歯ブラシホルダー付き。やわらか毛、キャラクターテーマ選択可。3〜7歳向けバジェットギフトセット。" },
     links: [
       { network: "amazon-us", productId: "B00VVBPV6A", rawUrl: "https://www.amazon.com/dp/B00VVBPV6A", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-jp", productId: "B00VVBPV6A", rawUrl: "https://www.amazon.co.jp/s?k=Brusheez+Kids+Electric+Toothbrush", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B00VVBPV6A", rawUrl: "https://www.amazon.co.jp/s?k=Brusheez+Kids+Electric+Toothbrush", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23882,7 +23882,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Triple-angle bristles reach top, sides, and bottom simultaneously in one motion. Ergonomic handle sized for tiny hands. BPA-free. Designed for parent-assisted brushing ages 1-3.", ja: "3方向ブリッスルで上・横・下を同時に一度でケア。小さな手に合わせたエルゴノミックハンドル。BPAフリー。1〜3歳の親補助ブラッシング向け設計。" },
     links: [
       { network: "amazon-us", productId: "B07TGHQNBN", rawUrl: "https://www.amazon.com/dp/B07TGHQNBN", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-jp", productId: "B07TGHQNBN", rawUrl: "https://www.amazon.co.jp/s?k=Frida+Baby+SmileFrida+Toothbrush", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B07TGHQNBN", rawUrl: "https://www.amazon.co.jp/s?k=Frida+Baby+SmileFrida+Toothbrush", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -23896,7 +23896,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "4-pack of manual toothbrushes with Batman character handles, extra-soft bristles, and suction-cup base. Best entry-level option for establishing brushing habits in ages 2-5.", ja: "バットマンキャラハンドル・超やわらか毛・吸盤ベース付き手動歯ブラシ4本セット。2〜5歳のブラッシング習慣づけに最適なエントリーモデル。" },
     links: [
       { network: "amazon-us", productId: "B07DJW8G6F", rawUrl: "https://www.amazon.com/dp/B07DJW8G6F", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-jp", productId: "B07DJW8G6F", rawUrl: "https://www.amazon.co.jp/s?k=Colgate+Kids+Batman+Toothbrush", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B07DJW8G6F", rawUrl: "https://www.amazon.co.jp/s?k=Colgate+Kids+Batman+Toothbrush", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Fashion / Pearl Earrings (best-pearl-earrings-2026) ─────────
@@ -24280,8 +24280,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "7S26自動巻きムーブメント、200m防水、逆回転防止ベゼル、42mmケースを備えた廃番カルト ダイバーズウォッチ。グレーマーケットや正規中古ディーラーで280〜450ドルで入手可能。現行後継機はSeiko 5 SRPDライン。",
     },
     links: [
-      { network: "amazon-us", productId: "B000AAKYIC", rawUrl: "https://www.amazon.com/s?k=Seiko+SKX007+dive+watch", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B000AAKYIC", rawUrl: "https://www.amazon.co.jp/s?k=Seiko+SKX007", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B000AAKYIC", rawUrl: "https://www.amazon.com/s?k=Seiko+SKX007+dive+watch", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B000AAKYIC", rawUrl: "https://www.amazon.co.jp/s?k=Seiko+SKX007", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -24349,9 +24349,9 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "80時間パワーリザーブ、ETA C07.111ムーブメント、35.5mmまたは40mmケース、サファイアクリスタルを備えたスイス製一体型ブレスレット自動巻き。1970年代のTissot PR516にインスパイアされたデザイン。正規ディーラーおよびtissotwatches.comで695〜895ドル。",
     },
     links: [
-      { network: "amazon-us", productId: "B09NXHM2Z4", rawUrl: "https://www.amazon.com/s?k=Tissot+PRX+Powermatic+80", markets: ["US", "EU", "UK", "global"], approved: false },
+      { network: "amazon-us", productId: "B09NXHM2Z4", rawUrl: "https://www.amazon.com/s?k=Tissot+PRX+Powermatic+80", markets: ["US", "EU", "UK", "global"], approved: true },
       { network: "direct", productId: "https://www.tissotwatches.com/en-en/tissot-prx-powermatic-80.html", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-jp", productId: "B09NXHM2Z4", rawUrl: "https://www.amazon.co.jp/s?k=Tissot+PRX+Powermatic+80", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B09NXHM2Z4", rawUrl: "https://www.amazon.co.jp/s?k=Tissot+PRX+Powermatic+80", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -24386,7 +24386,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     links: [
       { network: "amazon-us", productId: "B08J4B6ZBG", rawUrl: "https://www.amazon.com/dp/B08J4B6ZBG", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-jp", productId: "B08J4B6ZBG", rawUrl: "https://www.amazon.co.jp/s?k=Casio+G-Shock+GA-2100", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B08J4B6ZBG", rawUrl: "https://www.amazon.co.jp/s?k=Casio+G-Shock+GA-2100", markets: ["JP"], approved: true },
       { network: "direct", productId: "https://www.gshock.com/watches/GA2100-1A1", markets: ["US"], approved: true },
     ],
   },
@@ -24405,8 +24405,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "デュアルチップQN2eプロセッサーによる業界最高クラスのANC。8mmドライバー、8時間バッテリー（ケース込み24時間）、マルチポイントBluetooth。片側16.5g。IPX4防水。競合より大きなケース；耳の形によっては浅い装着感。",
     },
     links: [
-      { network: "amazon-us", productId: "B0C33XXS56", rawUrl: "https://www.amazon.com/dp/B0C33XXS56", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B0C33XXS56", rawUrl: "https://www.amazon.co.jp/dp/B0C33XXS56", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B0C33XXS56", rawUrl: "https://www.amazon.com/dp/B0C33XXS56", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B0C33XXS56", rawUrl: "https://www.amazon.co.jp/dp/B0C33XXS56", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -24422,8 +24422,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "リアルタイムで耳のシールに合わせて調整するアダプティブANC。H2チップ、ANCオン6時間（ケース込み30時間）、MagSafe充電ケースはApple Watchの充電器にもなる。パーソナライズされた空間オーディオ。AndroidユーザーはSpatial AudioやHead Trackingが使えない；専用エコシステムへの依存。",
     },
     links: [
-      { network: "amazon-us", productId: "B0BDHWDR12", rawUrl: "https://www.amazon.com/dp/B0BDHWDR12", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B0BDHWDR12", rawUrl: "https://www.amazon.co.jp/dp/B0BDHWDR12", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B0BDHWDR12", rawUrl: "https://www.amazon.com/dp/B0BDHWDR12", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B0BDHWDR12", rawUrl: "https://www.amazon.co.jp/dp/B0BDHWDR12", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -24439,8 +24439,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "CustomTune技術がミリ秒単位で耳道の音響特性を測定し、ANCを個別に調整。6時間バッテリー（ケース込み24時間）、IPX4、4サイズのイヤーチップ+3種のスタビライザーバンド。マルチポイントBluetooth非対応；フル機能利用にアプリ必須。",
     },
     links: [
-      { network: "amazon-us", productId: "B0B4PSLT9H", rawUrl: "https://www.amazon.com/dp/B0B4PSLT9H", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B0B4PSLT9H", rawUrl: "https://www.amazon.co.jp/dp/B0B4PSLT9H", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B0B4PSLT9H", rawUrl: "https://www.amazon.com/dp/B0B4PSLT9H", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B0B4PSLT9H", rawUrl: "https://www.amazon.co.jp/dp/B0B4PSLT9H", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -24456,8 +24456,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "ブレード型デザイン、10mm+5.1mmデュアルドライバー。動きに応じて適応するインテリジェントANC。6時間バッテリー（ケース込み30時間）、IP57、UHQコーデック対応。Galaxyエコシステム統合。最高機能はGalaxyスマートフォン限定；ウイングチップデザインの快適さには個人差。",
     },
     links: [
-      { network: "amazon-us", productId: "B0D6RRMXZP", rawUrl: "https://www.amazon.com/dp/B0D6RRMXZP", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B0D6RRMXZP", rawUrl: "https://www.amazon.co.jp/dp/B0D6RRMXZP", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B0D6RRMXZP", rawUrl: "https://www.amazon.com/dp/B0D6RRMXZP", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B0D6RRMXZP", rawUrl: "https://www.amazon.co.jp/dp/B0D6RRMXZP", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -24473,8 +24473,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "79〜99ドルで98%ANC深度。LDAC ハイレゾコーデック、10時間バッテリー（ケース込み50時間）、IPX4、心拍数モニター。ソニーの28%の価格でしっかりしたフライトノイズ低減。超高周波でのANC品質低下；アプリの同期が不安定な場合あり；プレミアム競合より軽量な質感。",
     },
     links: [
-      { network: "amazon-us", productId: "B0C6VWKXNS", rawUrl: "https://www.amazon.com/dp/B0C6VWKXNS", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B0C6VWKXNS", rawUrl: "https://www.amazon.co.jp/dp/B0C6VWKXNS", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B0C6VWKXNS", rawUrl: "https://www.amazon.com/dp/B0C6VWKXNS", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B0C6VWKXNS", rawUrl: "https://www.amazon.co.jp/dp/B0C6VWKXNS", markets: ["JP"], approved: true },
     ],
   },
 
@@ -24780,8 +24780,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "100m防水、デイデイト機能、10年以上の電池寿命、ハードレックスミネラルクリスタルを備えた日本製クオーツの主力モデル。42mmステンレスケース。正規ディーラーで150〜220ドル。90日テストでの精度は月±15秒。",
     },
     links: [
-      { network: "amazon-us", productId: "B09P2YWDVF", rawUrl: "https://www.amazon.com/s?k=Seiko+5+Sports+Quartz", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B09P2YWDVF", rawUrl: "https://www.amazon.co.jp/s?k=seiko-5-sports-quartz", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B09P2YWDVF", rawUrl: "https://www.amazon.com/s?k=Seiko+5+Sports+Quartz", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B09P2YWDVF", rawUrl: "https://www.amazon.co.jp/s?k=seiko-5-sports-quartz", markets: ["JP"], approved: true },
       { network: "direct", productId: "https://www.seikowatches.com/us-en/products/5sports", markets: ["US", "EU", "UK", "global"], approved: true },
     ],
   },
@@ -24816,8 +24816,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "あらゆる光源で充電でき、電池交換不要のソーラー駆動クオーツ。サファイアクリスタル、月±5秒精度、100m防水。40mmステンレスケース。正規ディーラーで195〜295ドル。10年推計保有コスト：80ドル（パッキン交換1回のみ）。",
     },
     links: [
-      { network: "amazon-us", productId: "B00G3GXMWI", rawUrl: "https://www.amazon.com/s?k=Citizen+Eco-Drive+Corso", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B00G3GXMWI", rawUrl: "https://www.amazon.co.jp/s?k=citizen-eco-drive-corso", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B00G3GXMWI", rawUrl: "https://www.amazon.com/s?k=Citizen+Eco-Drive+Corso", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B00G3GXMWI", rawUrl: "https://www.amazon.co.jp/s?k=citizen-eco-drive-corso", markets: ["JP"], approved: true },
       { network: "direct", productId: "https://www.citizenwatch.com/us/en/collection/eco-drive/", markets: ["US", "EU", "UK", "global"], approved: true },
     ],
   },
@@ -24852,8 +24852,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "ストップウォッチサブダイヤル、100m防水、3年電池、45mmステンレスケースを備えたバジェットクオーツクロノグラフ。ミネラルクリスタルは傷がつきやすいが、80〜140ドルでこの比較では最も機能が豊富。90日テストでの精度は月±20秒。",
     },
     links: [
-      { network: "amazon-us", productId: "B00LJVPG9O", rawUrl: "https://www.amazon.com/s?k=Casio+Edifice+EFR-303D", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B00LJVPG9O", rawUrl: "https://www.amazon.co.jp/s?k=casio-edifice-efr-303d", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B00LJVPG9O", rawUrl: "https://www.amazon.com/s?k=Casio+Edifice+EFR-303D", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B00LJVPG9O", rawUrl: "https://www.amazon.co.jp/s?k=casio-edifice-efr-303d", markets: ["JP"], approved: true },
       { network: "direct", productId: "https://www.casio.com/us/watches/edifice/", markets: ["US", "EU", "UK", "global"], approved: true },
     ],
   },
@@ -24888,9 +24888,9 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "1970年代のTissot PR516にインスパイアされたスイス製一体型ブレスレットクオーツ。35mmケース、サファイアクリスタル、10年電池、ETA Ronda 715ムーブメント、月±10秒精度。一体型ブレスレットが手首に自然にフィット。ティソブティックおよび正規ディーラーで325〜425ドル。",
     },
     links: [
-      { network: "amazon-us", productId: "B09NXHM1RT", rawUrl: "https://www.amazon.com/s?k=Tissot+PRX+Quartz+35mm", markets: ["US", "EU", "UK", "global"], approved: false },
+      { network: "amazon-us", productId: "B09NXHM1RT", rawUrl: "https://www.amazon.com/s?k=Tissot+PRX+Quartz+35mm", markets: ["US", "EU", "UK", "global"], approved: true },
       { network: "direct", productId: "https://www.tissotwatches.com/en-en/tissot-t-classic-tissot-prx.html", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-jp", productId: "B09NXHM1RT", rawUrl: "https://www.amazon.co.jp/s?k=tissot-prx-quartz-35mm", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B09NXHM1RT", rawUrl: "https://www.amazon.co.jp/s?k=tissot-prx-quartz-35mm", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -24924,9 +24924,9 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "1983年のジェント・フォームファクターを踏襲した34mmポリカーボネートケース、24gの軽量ボディ、2年電池、30m防水のスイス製プラスチッククオーツ。現行新品で買える最安値のスイス製時計。スウォッチストアおよびswatch.comで65〜80ドル。90日テストでの精度は月±25秒。",
     },
     links: [
-      { network: "amazon-us", productId: "B004JXQZ9Q", rawUrl: "https://www.amazon.com/s?k=Swatch+Once+Again+Gent", markets: ["US", "EU", "UK", "global"], approved: false },
+      { network: "amazon-us", productId: "B004JXQZ9Q", rawUrl: "https://www.amazon.com/s?k=Swatch+Once+Again+Gent", markets: ["US", "EU", "UK", "global"], approved: true },
       { network: "direct", productId: "https://www.swatch.com/en-us/watches/originals/gent/", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-jp", productId: "B004JXQZ9Q", rawUrl: "https://www.amazon.co.jp/s?k=swatch-gent", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B004JXQZ9Q", rawUrl: "https://www.amazon.co.jp/s?k=swatch-gent", markets: ["JP"], approved: true },
     ],
   },
   // ── Statement Handbags 2026 ──────────────────────────────────────────────
@@ -25025,8 +25025,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "誘電体多層膜プリズムコーティングのEDガラス。アイレリーフ21.3mm。実視界8.0°（1000m先342ft）。防水（JISクラス6）、窒素ガス封入、ターン＆スライドアイカップ。重量580g。",
     },
     links: [
-      { network: "amazon-us", productId: "B00EOBKV9E", rawUrl: "https://www.amazon.com/dp/B00EOBKV9E", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B00EOBKV9E", rawUrl: "https://www.amazon.co.jp/s?k=Nikon+Monarch+7+8x42", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B00EOBKV9E", rawUrl: "https://www.amazon.com/dp/B00EOBKV9E", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B00EOBKV9E", rawUrl: "https://www.amazon.co.jp/s?k=Nikon+Monarch+7+8x42", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -25042,8 +25042,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "HDガラス、位相補正BAK-4プリズム、XR反射防止コーティング。実視界6.5°、アイレリーフ15.5mm、1000m先341ft。510g。事故・落下もカバーするVIP無条件生涯保証付き。",
     },
     links: [
-      { network: "amazon-us", productId: "B07KKFP7PV", rawUrl: "https://www.amazon.com/dp/B07KKFP7PV", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B07KKFP7PV", rawUrl: "https://www.amazon.co.jp/s?k=Vortex+Diamondback+HD+8x42", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B07KKFP7PV", rawUrl: "https://www.amazon.com/dp/B07KKFP7PV", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B07KKFP7PV", rawUrl: "https://www.amazon.co.jp/s?k=Vortex+Diamondback+HD+8x42", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -25059,8 +25059,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "マルチコートのBAK-4プリズム。実視界7.5°、1000m先393ft、アイレリーフ15.5mm。完全防水・防曇（窒素パージ済み）。652g。エントリー価格で驚くほど使える薄暗い環境での性能。",
     },
     links: [
-      { network: "amazon-us", productId: "B01LFR34KW", rawUrl: "https://www.amazon.com/dp/B01LFR34KW", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B01LFR34KW", rawUrl: "https://www.amazon.co.jp/s?k=Celestron+Nature+DX+8x42", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B01LFR34KW", rawUrl: "https://www.amazon.com/dp/B01LFR34KW", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B01LFR34KW", rawUrl: "https://www.amazon.co.jp/s?k=Celestron+Nature+DX+8x42", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -25076,8 +25076,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "265g・ポケットサイズに12倍の倍率。BAK-4プリズム、マルチコートレンズ、ツイストアップアイカップ。1000m先293ft実視界。防水なし；大雨は要注意。コンサート・スポーツ・カジュアル観光に最適。",
     },
     links: [
-      { network: "amazon-us", productId: "B07RFK2T2T", rawUrl: "https://www.amazon.com/dp/B07RFK2T2T", markets: ["US", "EU", "UK", "global"], approved: false },
-      { network: "amazon-jp", productId: "B07RFK2T2T", rawUrl: "https://www.amazon.co.jp/s?k=Occer+12x25+compact+binoculars", markets: ["JP"], approved: false },
+      { network: "amazon-us", productId: "B07RFK2T2T", rawUrl: "https://www.amazon.com/dp/B07RFK2T2T", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "amazon-jp", productId: "B07RFK2T2T", rawUrl: "https://www.amazon.co.jp/s?k=Occer+12x25+compact+binoculars", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -25093,9 +25093,9 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "SWAROVISIONフィールドフラットナーレンズを搭載したオーストリア製。315g、折りたたみ時10.7cm。実視界399ft/1000yd、アイレリーフ15mm。STAY-ON-CASE付属。卓越したエッジまでのシャープネスと色再現性。",
     },
     links: [
-      { network: "amazon-us", productId: "B08B1HGG1V", rawUrl: "https://www.amazon.com/s?k=Swarovski+CL+Pocket+8x25", markets: ["US", "EU", "UK", "global"], approved: false },
+      { network: "amazon-us", productId: "B08B1HGG1V", rawUrl: "https://www.amazon.com/s?k=Swarovski+CL+Pocket+8x25", markets: ["US", "EU", "UK", "global"], approved: true },
       { network: "direct", productId: "https://www.swarovskioptik.com/int/birding/binoculars/cl-pocket", markets: ["US", "EU", "UK", "global"], approved: true },
-      { network: "amazon-jp", productId: "B08B1HGG1V", rawUrl: "https://www.amazon.co.jp/s?k=Swarovski+CL+Pocket+8x25", markets: ["JP"], approved: false },
+      { network: "amazon-jp", productId: "B08B1HGG1V", rawUrl: "https://www.amazon.co.jp/s?k=Swarovski+CL+Pocket+8x25", markets: ["JP"], approved: true },
     ],
   },
   // ───────── Fashion / Silk Pajamas (best-silk-pajamas-2026) ─────────
