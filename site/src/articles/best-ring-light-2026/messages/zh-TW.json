@@ -1,98 +1,98 @@
 {
-  "title": "最佳環形燈 2026：5 個型號按 CRI、色溫範圍和實際輸出進行比較",
-  "description": "Elgato Ring Light、Neewer 20 英寸 LED 燈環、Lume Cube Panel Mini、Godox LC500R RGB 和 Umtele 10 英寸按 CRI 等級、色溫範圍（開爾文）、最大勒克斯輸出和串流、視頻通話和攝影的實際輸出進行比較。",
-  "lede": "Five ring lights and LED panels for content creators, streamers, and video callers — compared on the specs that make footage look professional: CRI, color temperature accuracy, and actual output rather than watt claims.",
-  "methodology": "Products evaluated on CRI rating (minimum 95 CRI for professional use), color temperature range (K), maximum lux output at 1 meter, flicker-free operation (DC constant current vs. PWM), physical diameter (cm), mounting flexibility, companion app availability, and RGB capability for creative use. Prices from Amazon US and brand stores as of May 2026.",
+  "title": "2026 最佳環形燈：5 款 CRI 與色溫實測比較",
+  "description": "比較 Elgato Ring Light、Neewer 20 英寸 LED 環形燈、Lume Cube Panel Mini、Godox LC500R RGB 與 Umtele 10 英寸，依 CRI 等級、色溫範圍（開爾文）、最大勒克斯輸出，以及它們在串流、視訊通話與攝影上的實際表現。",
+  "lede": "為內容創作者、實況主與視訊通話者準備的五款環形燈與 LED 面板燈——依據能讓畫面看起來專業的規格比較：CRI、色溫準確度，以及實際輸出而非瓦數宣稱。",
+  "methodology": "產品評估依據 CRI 等級（專業用途至少 95 CRI）、色溫範圍（K）、1 公尺處的最大勒克斯輸出、無頻閃運作（DC 恆定電流 vs. PWM）、實體直徑（公分）、安裝彈性、配套應用程式的可用性，以及創意用途的 RGB 能力。價格取自 Amazon US 與品牌商店，資料截至 2026 年 5 月。",
   "recommendedFor": [
     {
-      "label": "For dedicated streaming and video setups with app control",
+      "label": "適合需要應用程式控制的專屬串流與視訊設置",
       "offerId": "ring-light-elgato-ring-light",
-      "reason": "Elgato Ring Light's Stream Deck app integration and 2900K–7000K range with precise software control make it the best for dedicated creator setups."
+      "reason": "Elgato Ring Light 整合 Stream Deck 應用程式，搭配 2900K–7000K 範圍與精準的軟體控制，使其成為專屬創作者設置的最佳選擇。"
     },
     {
-      "label": "For photographers and videographers needing a large, high-output ring light",
+      "label": "適合需要大尺寸、高輸出環形燈的攝影師與錄影師",
       "offerId": "ring-light-neewer-20in-led",
-      "reason": "The 50 cm (20-inch) Neewer ring provides the highest output and fill coverage in this comparison — standard for portrait and beauty photography."
+      "reason": "50 公分（20 英寸）的 Neewer 環形燈在本次比較中提供最高輸出與補光覆蓋範圍——是人像與美妝攝影的標準配備。"
     },
     {
-      "label": "For remote workers and video callers with limited desk space",
+      "label": "適合桌面空間有限的遠距工作者與視訊通話者",
       "offerId": "ring-light-lume-cube-panel-mini",
-      "reason": "Lume Cube Panel Mini's compact flat-panel design with 95+ CRI and clip-mount fits any laptop without a stand or additional desk space."
+      "reason": "Lume Cube Panel Mini 採用輕巧的平面面板設計，具備 95+ CRI 與夾式安裝，無需腳架或額外桌面空間即可適配任何筆電。"
     },
     {
-      "label": "For creative content requiring RGB color effects",
+      "label": "適合需要 RGB 色彩效果的創意內容",
       "offerId": "ring-light-godox-lc500r",
-      "reason": "Godox LC500R's full RGB spectrum with 95+ CRI and app-controlled color scenes is the professional RGB light in this comparison."
+      "reason": "Godox LC500R 具備完整 RGB 光譜、95+ CRI 與應用程式控制的色彩場景，是本次比較中的專業 RGB 燈。"
     },
     {
-      "label": "For beginners needing a budget starter ring light",
+      "label": "適合需要平價入門環形燈的初學者",
       "offerId": "ring-light-umtele-10in",
-      "reason": "Umtele 10-inch ring light at the lowest price covers beginner portrait and video call use with adjustable color temperature and a phone mount."
+      "reason": "Umtele 10 英寸環形燈以最低價格涵蓋初學者的人像與視訊通話用途，具備可調色溫與手機支架。"
     }
   ],
   "sections": [
     {
-      "heading": "CRI, color temperature, and why watt ratings mislead",
+      "heading": "CRI、色溫，以及瓦數標示為何具誤導性",
       "paragraphs": [
-        "CRI — Color Rendering Index — is the single most important specification for a light intended for video, photography, or any application where skin tone accuracy matters. CRI measures how accurately a light source reproduces colors relative to natural sunlight on a scale from 0 to 100. CRI 80 is acceptable for general room lighting. CRI 90 produces noticeably better skin tone reproduction in video — the difference between a face that looks flat and gray on camera versus one that looks warm and dimensional. CRI 95+ is the professional threshold — at CRI 95, the individual LED channels are calibrated tightly enough that red tones in skin, fabric, and product shots are reproduced without the green or magenta cast that plagues cheaper LED panels. All five lights in this comparison claim CRI 90 or above, but the honest numbers diverge: Elgato Ring Light and Lume Cube Panel Mini are independently verified at CRI 95+; Neewer 20-inch and Godox LC500R are manufacturer-stated at CRI 95; the Umtele 10-inch is CRI 90 by manufacturer spec and likely accurate to within 3–5 points.",
-        "Color temperature range determines how flexibly you can adapt the light to different shooting contexts. A daylight-balanced camera with natural window light requires a light at 5500K–6500K to avoid a warm cast from mixing with incandescent-temperature LED sources. A warm interview setup with tungsten-balance camera settings requires a light at 2700K–3200K. The Elgato Ring Light at 2900K–7000K has the widest range in this comparison — it handles both contexts without color cast blending issues. The Godox LC500R at 3300K–8000K extends into the 'cool daylight plus' range useful for product photography with a blue-tone aesthetic. The Neewer 20-inch at 3200K–5600K covers standard photography range but cannot achieve the warmth for true tungsten-tone setups. The Umtele 10-inch at 3000K–6000K is adequate for most video call and portrait use cases.",
-        "Wattage claims on ring light listings are the most abused number in this product category. A '48W ring light' claim means essentially nothing about actual lux output at a given distance unless the manufacturer provides a lux measurement. LED efficiency varies dramatically between driver chip quality and LED binning — a 20W ring light with Epistar high-bin LEDs can outperform a 48W ring with generic low-bin LEDs at the same subject distance. The relevant measurement is lux at 1 meter (or at the intended subject distance). The Elgato Ring Light provides approximately 1700 lux at 0.5 meters per Elgato's own measurements. The Neewer 20-inch at maximum output provides approximately 2200–2400 lux at 1 meter — the highest in this comparison — making it the most effective for bright fill lighting in large spaces."
+        "CRI——演色指數——是用於影片、攝影或任何需要膚色準確度應用的燈具最重要的單一規格。CRI 衡量光源相對於自然陽光重現色彩的準確程度，範圍從 0 到 100。CRI 80 對於一般室內照明是可接受的。CRI 90 在影片中能呈現明顯更好的膚色重現——這是相機畫面中一張看起來平板灰暗的臉，與一張看起來溫暖立體的臉之間的差別。CRI 95+ 是專業門檻——在 CRI 95 時，各個 LED 通道校準得夠精準，使得膚色、布料與商品拍攝中的紅色調得以重現，而不會出現困擾較廉價 LED 面板的綠色或洋紅偏色。本次比較的五款燈都宣稱 CRI 90 或以上，但誠實的數字有所分歧：Elgato Ring Light 與 Lume Cube Panel Mini 經獨立驗證為 CRI 95+；Neewer 20 英寸與 Godox LC500R 為製造商標示的 CRI 95；Umtele 10 英寸依製造商規格為 CRI 90，實際可能準確至 3–5 分以內。",
+        "色溫範圍決定你能多有彈性地將燈具適配於不同的拍攝情境。搭配自然窗光的日光平衡相機需要 5500K–6500K 的燈具，以避免與白熾色溫的 LED 光源混合而產生暖色偏色。採用鎢絲平衡相機設定的溫暖訪談設置則需要 2700K–3200K 的燈具。Elgato Ring Light 的 2900K–7000K 在本次比較中範圍最廣——它能處理兩種情境而沒有色彩混合偏色問題。Godox LC500R 的 3300K–8000K 延伸至「冷日光加強」範圍，適用於藍色調美學的商品攝影。Neewer 20 英寸的 3200K–5600K 涵蓋標準攝影範圍，但無法達到真正鎢絲色調設置所需的暖度。Umtele 10 英寸的 3000K–6000K 對大多數視訊通話與人像用途已足夠。",
+        "環形燈商品列表上的瓦數宣稱是這個產品類別中最被濫用的數字。「48W 環形燈」的宣稱，若製造商沒有提供勒克斯量測值，對於特定距離的實際勒克斯輸出幾乎毫無意義。LED 效率因驅動晶片品質與 LED 分級而有巨大差異——搭載 Epistar 高分級 LED 的 20W 環形燈，在相同被攝者距離下，可以勝過搭載通用低分級 LED 的 48W 環形燈。相關的量測值是 1 公尺處（或預定被攝者距離處）的勒克斯。依 Elgato 自己的量測，Elgato Ring Light 在 0.5 公尺處提供約 1700 勒克斯。Neewer 20 英寸在最大輸出時於 1 公尺處提供約 2200–2400 勒克斯——是本次比較中最高的——使其成為大空間中明亮補光最有效的選擇。"
       ]
     },
     {
-      "heading": "Flicker, PWM dimming, and why it matters for video",
+      "heading": "頻閃、PWM 調光，以及它為何對影片重要",
       "paragraphs": [
-        "LED lights that use PWM (pulse-width modulation) dimming flicker at frequencies that are typically invisible to the human eye but are captured by camera sensors shooting at standard video frame rates. A ring light using 2000 Hz PWM dimming will produce visible banding in slow-motion footage shot at 120fps, and can produce subtle rolling bands in standard 60fps footage depending on the interaction between the camera's shutter angle and the PWM frequency. Flicker also causes eye fatigue during long working sessions even when invisible to the camera — the brain detects the modulation subconsciously.",
-        "Flicker-free operation is achieved by running LEDs on a DC constant-current driver rather than PWM dimming. The Elgato Ring Light uses a DC constant-current driver and is genuinely flicker-free at all dimming levels — verified by multiple camera review tests. The Lume Cube Panel Mini is also DC constant-current and flicker-free. The Godox LC500R uses a hybrid approach — constant current at full power, switching to PWM at reduced brightness levels, with the crossover point above 2000 Hz PWM frequency which minimizes but does not eliminate flicker concerns for high-frame-rate video. The Neewer 20-inch and Umtele 10-inch use PWM dimming — a real concern for content creators who shoot slow motion or need flicker-free output for broadcast-spec work. For standard video calls and 30fps streaming, PWM at high frequencies is typically not a visible problem, but it is a legitimate concern for professional video production.",
-        "The physical size of a ring light determines the catchlight (the circular reflection in a subject's eyes) and the quality of light wrap around a subject's face. A 10-inch ring produces a small, concentrated catchlight — suitable for a single person at 50–80 cm distance. A 20-inch ring produces the classic large ring catchlight visible in portrait photography and YouTube content, and wraps light more evenly around the face at 80–150 cm distances. For beauty photography and closeup portrait work, the 20-inch Neewer is the standard. For desk-mounted video calls and streaming at 60–80 cm from the camera, the 10-inch or the Elgato Ring Light's 40 cm diameter is the right size. The Lume Cube Panel Mini and Godox LC500R are flat panels rather than ring lights — they produce a rectangular catchlight and are better suited as key or fill lights in a multi-light setup than as standalone ring lights."
+        "使用 PWM（脈衝寬度調變）調光的 LED 燈，會以人眼通常看不見、但相機感光元件以標準影片幀率拍攝時會捕捉到的頻率閃爍。使用 2000 Hz PWM 調光的環形燈，在以 120fps 拍攝的慢動作畫面中會產生可見的條紋，並且依相機快門角度與 PWM 頻率之間的交互作用，可能在標準 60fps 畫面中產生細微的滾動條紋。即使相機看不見，頻閃在長時間工作時也會造成眼睛疲勞——大腦會在潛意識中偵測到這種調變。",
+        "無頻閃運作是透過以 DC 恆定電流驅動器而非 PWM 調光來驅動 LED 達成的。Elgato Ring Light 採用 DC 恆定電流驅動器，在所有調光等級下都真正無頻閃——經多項相機評測測試驗證。Lume Cube Panel Mini 同樣為 DC 恆定電流且無頻閃。Godox LC500R 採用混合式做法——全功率時為恆定電流，在降低亮度時切換為 PWM，交越點位於 2000 Hz PWM 頻率之上，這能將高幀率影片的頻閃疑慮降至最低但無法消除。Neewer 20 英寸與 Umtele 10 英寸採用 PWM 調光——對於拍攝慢動作或需要廣播規格無頻閃輸出的內容創作者來說是真正的疑慮。對於標準視訊通話與 30fps 串流，高頻率的 PWM 通常不是可見的問題，但對於專業影片製作確實是個合理的疑慮。",
+        "環形燈的實體尺寸決定眼神光（被攝者眼中的圓形反射）以及光線環繞被攝者臉部的品質。10 英寸的環形燈產生小而集中的眼神光——適合 50–80 公分距離的單人。20 英寸的環形燈產生人像攝影與 YouTube 內容中常見的經典大型環形眼神光，並在 80–150 公分距離下更均勻地環繞臉部包覆光線。對於美妝攝影與特寫人像工作，20 英寸的 Neewer 是標準配備。對於距相機 60–80 公分的桌面安裝視訊通話與串流，10 英寸或 Elgato Ring Light 的 40 公分直徑是合適的尺寸。Lume Cube Panel Mini 與 Godox LC500R 是平面面板而非環形燈——它們產生矩形眼神光，在多燈設置中作為主光或補光，比作為獨立環形燈更為合適。"
       ]
     },
     {
-      "heading": "Real-world use: streaming, video calls, photography, and content creation",
+      "heading": "實際應用：串流、視訊通話、攝影與內容創作",
       "paragraphs": [
-        "For dedicated streaming setups where the light is part of a broader production environment with Stream Deck control and multiple audio/video sources, the Elgato Ring Light is the right choice. The Stream Deck app integration allows changing brightness and color temperature via physical button press or custom macro without touching the light or opening a phone app — critical during a live stream when you cannot break your on-screen presence to adjust lighting. The built-in diffuser produces soft-box quality light rather than a harsh ring pattern at the distances typical for streaming cameras (50–80 cm). The 40 cm diameter ring produces a clean circular catchlight without the excessive size that makes the ring obvious in tight facial shots.",
-        "For video calls from a home office, the primary need is consistent, flattering frontal fill that matches the color temperature of ambient room light. The Lume Cube Panel Mini excels here — its compact 11×11 cm panel clips directly to a laptop lid or monitor, requires no desk space, and its 95+ CRI at adjustable color temperature from 3200K to 5600K produces flattering skin tones without the color cast that makes some LED lights look clinical. The panel is bright enough to provide visible fill in well-lit home offices (approximately 400–600 lux at 50 cm) and travels easily for hotel room calls. The limitation: it provides limited output for large rooms or for subjects beyond 80 cm.",
-        "For portrait photography where the ring light is the primary light source, the Neewer 20-inch is the industry-standard choice at its price point. The 50 cm diameter ring produces the full, wraparound fill that makes beauty and headshot photography look professional. The included stand raises the ring to 210 cm, allowing use for both seated and standing subjects. At 2200–2400 lux maximum output, it provides enough brightness for f/2.8–f/4 apertures at ISO 200 in a typical interior — standard portrait exposure values. The 3200K–5600K range covers most photography use cases. The limitation: the stand footprint (tripod legs approximately 80 cm across) requires dedicated floor space, making it impractical for very small rooms or setups where the space must be reclaimed after use.",
-        "For content requiring RGB color effects — Twitch scene transitions, music video backing light, product photography with creative color grading, or content intentionally styled with colored light — the Godox LC500R RGB tube light is the professional choice. Full RGB spectrum (Hue 0–360°, Saturation 0–100%, Value 0–100%) with 95+ CRI means you can set any color and the light reads accurately on camera. The app-controlled scene library includes standard RGB effects (pulse, storm, fire, candle) and custom RGBWW recipes you can save and recall. The 500 mm tube form factor mounts vertically or horizontally and is compatible with standard light stands via 5/8-inch spigot. The limitation: the tube form factor requires a stand or separate mounting solution, and the RGB mode draws more power than the white modes — battery life (Godox supports DC power input but not internal battery) requires a wall outlet or external power bank."
+        "對於專屬串流設置——燈具屬於具備 Stream Deck 控制與多重音訊／視訊來源的更廣泛製作環境的一部分——Elgato Ring Light 是正確選擇。Stream Deck 應用程式整合讓你能透過實體按鍵或自訂巨集變更亮度與色溫，無需碰觸燈具或開啟手機應用程式——在直播期間這至關重要，因為你無法為了調整燈光而中斷螢幕上的存在感。內建擴散板在串流相機常見的距離（50–80 公分）下產生柔光箱品質的光線，而非刺眼的環形光斑。40 公分直徑的環形燈產生乾淨的圓形眼神光，又不會因尺寸過大而在臉部特寫鏡頭中過於明顯。",
+        "對於居家辦公室的視訊通話，主要需求是一致、討喜且與環境室光色溫相符的正面補光。Lume Cube Panel Mini 在此表現出色——其輕巧的 11×11 公分面板可直接夾在筆電上蓋或螢幕上，無需桌面空間，而且在 3200K 至 5600K 可調色溫下的 95+ CRI 能產生討喜的膚色，沒有使某些 LED 燈看起來過於冷硬的偏色。該面板亮度足以在光線充足的居家辦公室提供可見的補光（在 50 公分處約 400–600 勒克斯），並能輕鬆攜帶用於旅館房間通話。其限制是：對於大房間或超過 80 公分的被攝者，它提供的輸出有限。",
+        "對於以環形燈作為主光源的人像攝影，Neewer 20 英寸在其價位是業界標準選擇。50 公分直徑的環形燈產生使美妝與大頭照攝影看起來專業的完整環繞補光。隨附的腳架可將環形燈升高至 210 公分，讓坐姿與站姿被攝者皆可使用。在 2200–2400 勒克斯的最大輸出下，它在典型室內 ISO 200 時能為 f/2.8–f/4 光圈提供足夠亮度——標準人像曝光值。3200K–5600K 範圍涵蓋大多數攝影用途。其限制是：腳架佔地（三腳架腳展開約 80 公分）需要專屬地面空間，使其不適用於非常小的房間或使用後必須收回空間的設置。",
+        "對於需要 RGB 色彩效果的內容——Twitch 場景轉場、音樂影片背景光、具創意調色的商品攝影，或刻意以彩色光營造風格的內容——Godox LC500R RGB 管燈是專業選擇。完整 RGB 光譜（色相 0–360°、飽和度 0–100%、明度 0–100%）搭配 95+ CRI，意味著你可以設定任何顏色，且光線在相機上能準確呈現。應用程式控制的場景庫包含標準 RGB 效果（脈衝、暴風、火焰、燭光）以及可儲存與叫出的自訂 RGBWW 配方。500 公釐的管狀外型可垂直或水平安裝，並透過 5/8 英寸插腳相容於標準燈架。其限制是：管狀外型需要腳架或另外的安裝方案，而 RGB 模式比白光模式耗用更多電力——電池續航（Godox 支援 DC 電源輸入但無內建電池）需要牆插或外接行動電源。"
       ]
     },
     {
-      "heading": "Verdict: matching light to use case",
+      "heading": "結論：依使用情境搭配燈具",
       "paragraphs": [
-        "If you stream, record video, or shoot content from a dedicated desk or studio setup and you want software-controlled lighting that integrates with Stream Deck — Elgato Ring Light at approximately $199 is the correct purchase. The 2900K–7000K range, DC constant-current flicker-free operation, and Stream Deck plugin make it the most versatile and production-friendly in this comparison. The 40 cm size is appropriate for most streaming camera distances (50–90 cm).",
-        "If you do portrait photography or need the maximum fill coverage for a single large ring light — Neewer 20-inch at approximately $69 is the industry-standard value pick. 2200–2400 lux at 1 meter, 50 cm diameter, 3200K–5600K range, included stand. The PWM dimming is the limitation for professional video; for photography it is irrelevant. If you need a compact desk or laptop light for video calls without a stand — Lume Cube Panel Mini at approximately $69 is the right choice. CRI 95+, clip-mount, 95 × 90 mm panel, 3200K–5600K. If you need full RGB spectrum for creative content — Godox LC500R at approximately $109 is the professional RGB option. CRI 95+, 0–360° hue, app-controlled, tube form factor. If you are starting out and need a functional ring light at the lowest cost — Umtele 10-inch at approximately $29 covers basic portrait and video call use."
+        "如果你從專屬桌面或工作室設置進行串流、錄影或拍攝內容，並且想要能與 Stream Deck 整合的軟體控制燈光——約 199 美元的 Elgato Ring Light 是正確的購買選擇。2900K–7000K 範圍、DC 恆定電流無頻閃運作以及 Stream Deck 外掛，使其成為本次比較中最多功能且最適合製作的產品。40 公分的尺寸適合大多數串流相機距離（50–90 公分）。",
+        "如果你從事人像攝影或需要單一大型環形燈的最大補光覆蓋——約 69 美元的 Neewer 20 英寸是業界標準的高 CP 值選擇。1 公尺處 2200–2400 勒克斯、50 公分直徑、3200K–5600K 範圍、隨附腳架。PWM 調光是專業影片的限制；對於攝影則無關緊要。如果你需要無需腳架、用於視訊通話的輕巧桌面或筆電燈——約 69 美元的 Lume Cube Panel Mini 是正確選擇。CRI 95+、夾式安裝、95 × 90 公釐面板、3200K–5600K。如果你需要用於創意內容的完整 RGB 光譜——約 109 美元的 Godox LC500R 是專業 RGB 選項。CRI 95+、0–360° 色相、應用程式控制、管狀外型。如果你剛起步並需要一款最低成本的實用環形燈——約 29 美元的 Umtele 10 英寸涵蓋基本的人像與視訊通話用途。"
       ]
     }
   ],
   "faqs": [
     {
-      "q": "What CRI rating is actually required for professional video and photography?",
-      "a": "CRI 95+ is the threshold for skin-tone-accurate work where the footage will be viewed by others in a professional context — YouTube, commercial photography, video calls where your appearance on camera is important. Below CRI 90, green and magenta casts in skin tones become noticeable to viewers even if they cannot articulate why the person looks 'off.' CRI 90–94 is acceptable for most content creator applications. CRI 95+ is preferred for beauty, fashion, and product photography where color accuracy in red and orange tones is critical. The CRI 95 threshold matters most for lights used as the primary or sole light source — when using a ring light as fill alongside a natural-light key, CRI 90 is often sufficient because the overall rendering is dominated by the higher-CRI natural light."
+      "q": "專業影片與攝影實際需要多少 CRI 等級？",
+      "a": "對於畫面將在專業情境下被他人觀看、需要膚色準確的工作——YouTube、商業攝影、你在相機前的外觀很重要的視訊通話——CRI 95+ 是門檻。低於 CRI 90 時，膚色中的綠色與洋紅偏色會讓觀眾注意到，即使他們說不出為何那個人看起來「不對勁」。CRI 90–94 對於大多數內容創作者應用是可接受的。對於紅色與橙色調色彩準確度至關重要的美妝、時尚與商品攝影，則偏好 CRI 95+。CRI 95 門檻對於作為主光源或唯一光源的燈具最為重要——當環形燈作為自然光主光旁的補光時，CRI 90 通常已足夠，因為整體呈現由較高 CRI 的自然光主導。"
     },
     {
-      "q": "What size ring light do I need for streaming vs. portrait photography vs. video calls?",
-      "a": "The size depends primarily on the subject distance and the desired quality of light. For streaming at 50–80 cm from camera (typical desktop streaming distance): a 10-inch (25 cm) to 18-inch (45 cm) ring provides the right catchlight scale and soft fill without dominating the frame. The Elgato Ring Light at 40 cm is optimal. For portrait photography at 80–150 cm subject distance: a 18-inch (45 cm) to 24-inch (60 cm) ring provides full fill wrap. The Neewer 20-inch (50 cm) is the standard choice for this distance. For video calls at 50–70 cm laptop webcam distance: a compact flat panel like Lume Cube Panel Mini is often more practical than a ring — it clips to the monitor, doesn't require a stand, and provides the frontal fill needed without a ring catchlight visible in your eyes. For creative RGB work: the Godox LC500R tube form factor works better as a secondary light source creating background or rim light rather than as a primary frontal ring."
+      "q": "串流、人像攝影與視訊通話分別需要多大尺寸的環形燈？",
+      "a": "尺寸主要取決於被攝者距離與想要的光線品質。對於距相機 50–80 公分的串流（典型桌面串流距離）：10 英寸（25 公分）至 18 英寸（45 公分）的環形燈提供合適的眼神光比例與柔和補光，又不會主導畫面。40 公分的 Elgato Ring Light 最為理想。對於 80–150 公分被攝者距離的人像攝影：18 英寸（45 公分）至 24 英寸（60 公分）的環形燈提供完整的補光環繞。Neewer 20 英寸（50 公分）是此距離的標準選擇。對於 50–70 公分筆電網路攝影機距離的視訊通話：像 Lume Cube Panel Mini 這樣的輕巧平面面板通常比環形燈更實用——它夾在螢幕上、不需要腳架，並提供所需的正面補光，而不會在你眼中出現可見的環形眼神光。對於創意 RGB 工作：Godox LC500R 的管狀外型作為製造背景光或輪廓光的輔助光源，比作為主要正面環形燈更為合適。"
     },
     {
-      "q": "Can I use any of these lights with a battery for outdoor shooting?",
-      "a": "Of the five, only the Lume Cube Panel Mini has an internal rechargeable battery — it provides approximately 60–75 minutes of full-brightness operation per charge, which is limited for extended outdoor shoots but useful for on-location quick setups. The Godox LC500R has no internal battery but accepts standard V-mount or Anton Bauer battery adapters via its DC input, making it usable outdoors with a camera battery rig. The Elgato Ring Light, Neewer 20-inch, and Umtele 10-inch all require mains power — they are desk or studio lights, not portable lights. For outdoor ring light shooting, the standard approach is a battery-powered LED panel (like Aputure MC or Zhiyun FIVERAY) or a DC power station (Jackery, EcoFlow) powering a standard ring via an inverter. None of the five lights in this comparison were designed specifically for battery-powered outdoor use."
+      "q": "這些燈中有哪一款可以搭配電池用於戶外拍攝嗎？",
+      "a": "五款中只有 Lume Cube Panel Mini 具備內建充電電池——每次充電可提供約 60–75 分鐘的全亮度運作，對於長時間戶外拍攝有限，但對於現場快速設置很有用。Godox LC500R 沒有內建電池，但可透過其 DC 輸入接受標準 V-mount 或 Anton Bauer 電池轉接器，使其能搭配相機電池組於戶外使用。Elgato Ring Light、Neewer 20 英寸與 Umtele 10 英寸都需要市電——它們是桌面或工作室燈具，而非可攜式燈具。對於戶外環形燈拍攝，標準做法是使用電池供電的 LED 面板燈（如 Aputure MC 或 Zhiyun FIVERAY），或以 DC 電源站（Jackery、EcoFlow）透過變頻器供電給標準環形燈。本次比較的五款燈都不是專為電池供電的戶外使用所設計。"
     }
   ],
   "products": [
     {
       "offerId": "ring-light-elgato-ring-light",
-      "badge": "Best for Streaming / Stream Deck",
+      "badge": "串流／Stream Deck 最佳選擇",
       "grade": "A+",
-      "review": "The Elgato Ring Light is the correct choice for streaming and content creation setups where the light integrates with a professional production workflow. Stream Deck app integration allows one-touch brightness and color temperature adjustment during live sessions. DC constant-current driver means flicker-free operation at all dimming levels — verified by camera test. The 2900K–7000K color temperature range is the widest in this comparison. The 40 cm ring produces a soft, wrap-around fill appropriate for streaming distances. CRI 95+ is independently verified. Honest weaknesses: $199 is the highest hardware price in this comparison; the Elgato link-cable pairing between the Ring Light and the controller can occasionally lose sync and require power-cycling; the stand is not adjustable beyond 150 cm height.",
+      "review": "Elgato Ring Light 是燈具需與專業製作工作流程整合的串流與內容創作設置的正確選擇。Stream Deck 應用程式整合讓你能在直播期間一鍵調整亮度與色溫。DC 恆定電流驅動器意味著在所有調光等級下都無頻閃運作——經相機測試驗證。2900K–7000K 色溫範圍是本次比較中最廣的。40 公分環形燈產生柔和的環繞補光，適合串流距離。CRI 95+ 經獨立驗證。誠實的缺點：199 美元是本次比較中最高的硬體價格；環形燈與控制器之間的 Elgato 連接線配對偶爾會失去同步，需要重新開機；腳架高度無法調整超過 150 公分。",
       "pros": [
-        "Stream Deck plugin for one-touch brightness and color temperature during live streams",
-        "DC constant-current driver — flicker-free at all dimming levels",
-        "2900K–7000K widest color temperature range in this comparison",
-        "CRI 95+ independently verified — accurate skin tone rendering"
+        "Stream Deck 外掛，直播時可一鍵調整亮度與色溫",
+        "DC 恆定電流驅動器——所有調光等級下無頻閃",
+        "2900K–7000K，本次比較中最廣的色溫範圍",
+        "CRI 95+ 經獨立驗證——準確的膚色呈現"
       ],
       "cons": [
-        "$199 is the highest hardware price in this comparison",
-        "Elgato control cable can lose sync and require power-cycling occasionally"
+        "199 美元是本次比較中最高的硬體價格",
+        "Elgato 控制線偶爾會失去同步，需要重新開機"
       ],
       "specs": {
         "Diameter": "40 cm",
@@ -112,18 +112,18 @@
     },
     {
       "offerId": "ring-light-neewer-20in-led",
-      "badge": "Best for Photography / Highest Output",
+      "badge": "攝影／最高輸出最佳選擇",
       "grade": "A",
-      "review": "The Neewer 20-inch LED ring light is the industry-standard value pick for portrait photographers and video content creators who need the maximum fill coverage and output from a single ring light. The 50 cm diameter produces the full wraparound fill that defines beauty and headshot photography at 80–150 cm distances. At 2200–2400 lux maximum output at 1 meter, it is the brightest in this comparison — sufficient for f/2.8–f/4 apertures at ISO 200. The included stand reaches 210 cm. CRI 95 per manufacturer spec. Honest weaknesses: the stand footprint requires approximately 80 cm of floor space; the PWM dimming is a concern for professional slow-motion video; the build quality on the clamp mechanism is serviceable but not premium.",
+      "review": "Neewer 20 英寸 LED 環形燈是業界標準的高 CP 值選擇，適合需要單一環形燈最大補光覆蓋與輸出的人像攝影師與影片內容創作者。50 公分直徑在 80–150 公分距離下產生定義美妝與大頭照攝影的完整環繞補光。在 1 公尺處 2200–2400 勒克斯的最大輸出下，它是本次比較中最亮的——足以應付 ISO 200 時的 f/2.8–f/4 光圈。隨附腳架可達 210 公分。依製造商規格為 CRI 95。誠實的缺點：腳架佔地需要約 80 公分的地面空間；PWM 調光對於專業慢動作影片是個疑慮；夾具機構的做工堪用但非高階。",
       "pros": [
-        "50 cm diameter — the largest and highest-output ring in this comparison",
-        "2200–2400 lux at 1 meter — sufficient for f/2.8 photography exposures at ISO 200",
-        "Included stand reaches 210 cm — works for standing portrait subjects",
-        "CRI 95 per manufacturer spec — accurate for beauty and portrait photography"
+        "50 公分直徑——本次比較中最大且輸出最高的環形燈",
+        "1 公尺處 2200–2400 勒克斯——足以應付 ISO 200 的 f/2.8 攝影曝光",
+        "隨附腳架可達 210 公分——適用於站姿人像被攝者",
+        "依製造商規格為 CRI 95——對美妝與人像攝影準確"
       ],
       "cons": [
-        "PWM dimming is a concern for professional slow-motion video",
-        "Stand footprint (~80 cm tripod span) requires dedicated floor space"
+        "PWM 調光對於專業慢動作影片是個疑慮",
+        "腳架佔地（三腳架展開約 80 公分）需要專屬地面空間"
       ],
       "specs": {
         "Diameter": "50 cm (20 inches)",
@@ -143,18 +143,18 @@
     },
     {
       "offerId": "ring-light-lume-cube-panel-mini",
-      "badge": "Best for Video Calls / Most Portable",
+      "badge": "視訊通話／最便攜最佳選擇",
       "grade": "A",
-      "review": "The Lume Cube Panel Mini is the correct pick for remote workers, video callers, and content creators who need a high-CRI light that clips to a laptop or monitor without a stand. The 95 × 90 mm panel clips directly to a laptop lid or monitor edge, requires no desk space, and provides approximately 400–600 lux at 50 cm — sufficient for visible fill in well-lit home offices. CRI 95+ is independently verified. Built-in battery provides 60–75 minutes of full-brightness operation. Honest weaknesses: limited output for subjects beyond 80 cm; the battery life of 60–75 minutes requires frequent charging for extended sessions; the small panel size produces a rectangular catchlight rather than the circular ring catchlight some creators specifically want.",
+      "review": "Lume Cube Panel Mini 是遠距工作者、視訊通話者與內容創作者的正確選擇，他們需要一款無需腳架即可夾在筆電或螢幕上的高 CRI 燈具。95 × 90 公釐面板可直接夾在筆電上蓋或螢幕邊緣，無需桌面空間，並在 50 公分處提供約 400–600 勒克斯——足以在光線充足的居家辦公室提供可見補光。CRI 95+ 經獨立驗證。內建電池提供 60–75 分鐘的全亮度運作。誠實的缺點：對於超過 80 公分的被攝者輸出有限；60–75 分鐘的電池續航對於長時間使用需要頻繁充電；小面板尺寸產生矩形眼神光，而非某些創作者特別想要的圓形環形眼神光。",
       "pros": [
-        "Clips directly to laptop lid or monitor — no stand or desk space needed",
-        "CRI 95+ independently verified — the best skin tone rendering for a compact panel",
-        "Internal battery for 60–75 minutes of portable operation",
-        "3200K–5600K color temperature for flexible home office and travel use"
+        "可直接夾在筆電上蓋或螢幕上——無需腳架或桌面空間",
+        "CRI 95+ 經獨立驗證——輕巧面板中最佳的膚色呈現",
+        "內建電池可提供 60–75 分鐘的可攜運作",
+        "3200K–5600K 色溫，適合彈性的居家辦公與旅行使用"
       ],
       "cons": [
-        "Limited output beyond 80 cm — not suitable as a primary light for large spaces",
-        "60–75 minute battery life requires charging for sessions over 1 hour"
+        "超過 80 公分輸出有限——不適合作為大空間的主光",
+        "60–75 分鐘電池續航，超過 1 小時的使用需充電"
       ],
       "specs": {
         "Size": "95 × 90 mm panel",
@@ -174,18 +174,18 @@
     },
     {
       "offerId": "ring-light-godox-lc500r",
-      "badge": "Best RGB / Best for Creative Content",
+      "badge": "最佳 RGB／創意內容最佳選擇",
       "grade": "A",
-      "review": "The Godox LC500R is the professional RGB tube light in this comparison — full 0–360° hue range with CRI 95+ in white mode and app-controlled scene library. The 500 mm tube form factor mounts vertically or horizontally via standard 5/8-inch spigot, making it compatible with most light stand and production hardware. The Godox Light app provides color recipe saving, scene selection (pulse, storm, fire, candle), and precise RGBWW control. CRI 95+ in white mode means color accuracy is maintained at the professional threshold even when using white-balance color temperatures in the 3300K–8000K range. Honest weaknesses: the tube requires an external stand or mounting hardware; there is no internal battery and no direct battery adapter integration (V-mount requires a separate adapter plate); the RGB mode draws approximately 18W, reducing per-scene running time on battery rigs.",
+      "review": "Godox LC500R 是本次比較中的專業 RGB 管燈——完整 0–360° 色相範圍，白光模式下具備 CRI 95+ 與應用程式控制的場景庫。500 公釐管狀外型透過標準 5/8 英寸插腳可垂直或水平安裝，使其相容於大多數燈架與製作硬體。Godox Light 應用程式提供色彩配方儲存、場景選擇（脈衝、暴風、火焰、燭光）以及精準的 RGBWW 控制。白光模式的 CRI 95+ 意味著即使使用 3300K–8000K 範圍的白平衡色溫，色彩準確度也維持在專業門檻。誠實的缺點：管燈需要外接腳架或安裝硬體；沒有內建電池，也沒有直接的電池轉接整合（V-mount 需要另外的轉接板）；RGB 模式耗用約 18W，降低電池組上每場景的運作時間。",
       "pros": [
-        "Full 0–360° hue RGB spectrum with CRI 95+ in white mode",
-        "App-controlled scene library: pulse, fire, storm, candle, and custom RGBWW recipes",
-        "3300K–8000K white range — extends to the cool daylight-plus range for product shots",
-        "Standard 5/8-inch spigot for compatibility with most light stands"
+        "完整 0–360° 色相 RGB 光譜，白光模式下具備 CRI 95+",
+        "應用程式控制的場景庫：脈衝、火焰、暴風、燭光與自訂 RGBWW 配方",
+        "3300K–8000K 白光範圍——延伸至商品拍攝的冷日光加強範圍",
+        "標準 5/8 英寸插腳，相容於大多數燈架"
       ],
       "cons": [
-        "Requires external stand — no self-standing or clip-mount option",
-        "No internal battery; V-mount adapter requires separate purchase"
+        "需要外接腳架——無自立或夾式安裝選項",
+        "無內建電池；V-mount 轉接器需另外購買"
       ],
       "specs": {
         "Size": "500 mm tube",
@@ -205,18 +205,18 @@
     },
     {
       "offerId": "ring-light-umtele-10in",
-      "badge": "Best Budget Starter",
+      "badge": "最佳平價入門",
       "grade": "B",
-      "review": "The Umtele 10-inch ring light at approximately $29 is the correct entry-level pick for beginners who need a functional ring light for portraits and video calls without spending more than necessary. The 26 cm ring includes a universal phone mount, a 50-inch tripod stand, and 3-mode color temperature switching (warm/natural/cool). CRI 90 is standard for this price tier. Honest weaknesses: CRI 90 produces slightly less accurate skin tone rendering than CRI 95+ alternatives; the build quality at $29 is entry-level — the stand is lightweight and the clamp mechanism is not designed for heavy cameras; the PWM dimming is noticeable in slow-motion video; and the color temperature switching is 3-mode discrete rather than continuously adjustable Kelvin.",
+      "review": "約 29 美元的 Umtele 10 英寸環形燈是初學者的正確入門選擇，適合需要一款用於人像與視訊通話的實用環形燈、又不想花費超過必要金額的人。26 公分環形燈包含通用手機支架、50 英寸三腳架，以及 3 段色溫切換（暖／自然／冷）。CRI 90 是此價位層的標準。誠實的缺點：CRI 90 產生的膚色呈現略不及 CRI 95+ 替代品準確；29 美元的做工屬入門級——腳架輕量，夾具機構並非為重型相機設計；PWM 調光在慢動作影片中明顯可見；色溫切換為 3 段離散而非連續可調的開爾文。",
       "pros": [
-        "Complete starter kit at approximately $29 — ring, stand, phone mount included",
-        "Suitable for portrait and video call use at 50–80 cm subject distance",
-        "3-mode color temperature (warm/natural/cool) covers basic use cases",
-        "Compact 26 cm diameter for small desk setups"
+        "約 29 美元的完整入門套組——含環形燈、腳架、手機支架",
+        "適合 50–80 公分被攝者距離的人像與視訊通話用途",
+        "3 段色溫（暖／自然／冷）涵蓋基本用途",
+        "輕巧 26 公分直徑，適合小型桌面設置"
       ],
       "cons": [
-        "CRI 90 produces slightly less accurate skin tone rendering than 95+ alternatives",
-        "Color temperature is 3-mode discrete — not continuously adjustable Kelvin"
+        "CRI 90 產生的膚色呈現略不及 95+ 替代品準確",
+        "色溫為 3 段離散——非連續可調的開爾文"
       ],
       "specs": {
         "Diameter": "26 cm (10 inches)",
@@ -236,11 +236,11 @@
     }
   ],
   "offerNotes": {
-    "ring-light-elgato-ring-light": "Best for streaming — Stream Deck integration, DC flicker-free, 2900K–7000K, CRI 95+. Highest price at $199; cable can lose sync.",
-    "ring-light-neewer-20in-led": "Best for photography — 50 cm diameter, 2200–2400 lux at 1 m, 210 cm stand. PWM dimming limits slow-motion video use.",
-    "ring-light-lume-cube-panel-mini": "Best for video calls — clips to laptop, CRI 95+, 60-75 min battery. Low output beyond 80 cm; battery needs recharging for long sessions.",
-    "ring-light-godox-lc500r": "Best RGB — full 0–360° hue, CRI 95+ white, app scenes. Requires stand; no internal battery.",
-    "ring-light-umtele-10in": "Best budget starter — complete kit at $29, CRI 90. Discrete 3-mode color temp; PWM dimming; entry-level build."
+    "ring-light-elgato-ring-light": "串流最佳選擇——Stream Deck 整合、DC 無頻閃、2900K–7000K、CRI 95+。價格最高 199 美元；連接線可能失去同步。",
+    "ring-light-neewer-20in-led": "攝影最佳選擇——50 公分直徑、1 公尺處 2200–2400 勒克斯、210 公分腳架。PWM 調光限制慢動作影片使用。",
+    "ring-light-lume-cube-panel-mini": "視訊通話最佳選擇——夾在筆電上、CRI 95+、60-75 分鐘電池。超過 80 公分輸出低；長時間使用電池需充電。",
+    "ring-light-godox-lc500r": "最佳 RGB——完整 0–360° 色相、白光 CRI 95+、應用程式場景。需要腳架；無內建電池。",
+    "ring-light-umtele-10in": "最佳平價入門——29 美元完整套組、CRI 90。3 段離散色溫；PWM 調光；入門級做工。"
   },
-  "pinDescription": "最佳環形燈 2026：Elgato、Neewer、Lume Cube、Godox 和 Umtele — 按 CRI、色溫和輸出進行比較"
+  "pinDescription": "2026 年比較五款環形燈與 LED 面板燈：Elgato Ring Light 適合串流、Neewer 20 英寸適合攝影、Lume Cube 適合視訊通話、Godox LC500R 適合 RGB、Umtele 適合平價入門。CRI 等級、勒克斯輸出，以及哪一款能讓臉部在相機前看起來好看。"
 }
