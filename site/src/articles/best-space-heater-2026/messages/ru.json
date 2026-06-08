@@ -1,237 +1,237 @@
 {
-  "title": "Лучший обогреватель 2026: мощность и безопасность",
-  "description": "Dyson Hot+Cool HP07, Vornado VH10, Lasko 5309, Daikin ERFT11WS и De'Longhi TRD40615E: теплоотдача, безопасность, шум и реальные расходы.",
-  "lede": "Every space heater in this comparison draws between 1200W and 1500W at full output — that's the hard ceiling for a standard 15A household circuit. The real differences are where the heat goes, how quietly it gets there, and whether the safety cutoffs are trustworthy enough to run the unit unattended overnight.",
-  "methodology": "Мы оценивали каждый тепловентилятор по стабильности измеренной теплоотдачи, точности термостата, надёжности защиты от опрокидывания и перегрева, уровню шума на полной и средней мощности, а также по долгосрочным расходам на эксплуатацию, включая энергопотребление. Заявленные производителем мощность в ваттах и площадь обогрева мы сверяли с проверенными отзывами владельцев.",
+  "title": "Лучшие обогреватели 2026: мощность и безопасность",
+  "description": "Dyson Hot+Cool HP07, Vornado VH10, Lasko 5309, Daikin ERFT11WS и De'Longhi TRD40615E: теплоотдача, безопасность, уровень шума, площадь обогрева и реальные расходы на ежедневную эксплуатацию.",
+  "lede": "Каждый обогреватель в этом сравнении потребляет от 1200 до 1500 Вт на полной мощности — это жёсткий предел для стандартной цепи на 15 А. Принципиальные различия состоят в том, куда направляется тепло, насколько бесшумно оно туда попадает и достаточно ли надёжны защитные отключения, чтобы оставлять прибор без присмотра на ночь.",
+  "methodology": "Мы оценивали каждый обогреватель по стабильности измеренной теплоотдачи, точности термостата, надёжности защиты от опрокидывания и перегрева, уровню шума на полной и средней мощности, а также по долгосрочным расходам на эксплуатацию, включая энергопотребление. Заявленные производителем мощность и площадь обогрева мы сверяли с проверенными отзывами реальных владельцев.",
   "recommendedFor": [
     {
-      "label": "For households wanting air purification alongside heat, year-round",
+      "label": "Для тех, кому нужна очистка воздуха вместе с обогревом круглый год",
       "offerId": "space-heater-dyson-hot-cool",
-      "reason": "Dyson HP07 pairs HEPA H13 air cleaning with 2000W heating and a cool fan — the only pick here that earns its place year-round."
+      "reason": "Dyson HP07 совмещает очистку воздуха HEPA H13 с обогревом на 2000 Вт и режимом холодного вентилятора — единственный выбор здесь, который оправдывает себя круглый год."
     },
     {
-      "label": "For whole-room heating where coverage across corners matters",
+      "label": "Для обогрева всей комнаты, включая дальние углы",
       "offerId": "space-heater-vornado-vh10",
-      "reason": "Vornado's vortex circulation pushes heat to all four corners of rooms up to 28m², not just directly in front of the unit."
+      "reason": "Вихревая циркуляция Vornado доставляет тепло во все четыре угла помещений площадью до 28 м², а не только прямо перед прибором."
     },
     {
-      "label": "For a tall living space where a tower heater blends in visually",
+      "label": "Для высоких жилых помещений, где башенный обогреватель лучше вписывается визуально",
       "offerId": "space-heater-lasko-cyclonic",
-      "reason": "Lasko's tower design with oscillation and remote control heats vertically rather than directionally at the most affordable price point."
+      "reason": "Башенная конструкция Lasko с осцилляцией и пультом дистанционного управления обогревает вертикально, а не направленно, по самой доступной цене."
     },
     {
-      "label": "For Japanese households wanting a trusted domestic brand with humidification",
+      "label": "Для японских домохозяйств, которым нужен проверенный отечественный бренд с увлажнением",
       "offerId": "space-heater-daikin-ceramic-jp",
-      "reason": "Daikin's ERFT11WS adds humidification to ceramic fan heating — a genuinely useful combo for Japan's dry winters."
+      "reason": "Daikin ERFT11WS добавляет увлажнение к керамическому обогреву с вентилятором — по-настоящему полезная комбинация для сухой японской зимы."
     },
     {
-      "label": "For bedrooms where silent overnight heat matters more than fast warm-up",
+      "label": "Для спален, где бесшумный ночной обогрев важнее быстрого нагрева",
       "offerId": "space-heater-delonghi-oil-filled",
-      "reason": "De'Longhi oil-filled radiators produce zero fan noise and safe, radiant warmth — the only pick here suitable for all-night bedroom use."
+      "reason": "Масляные радиаторы De'Longhi не издают шума вентилятора и обеспечивают безопасное лучистое тепло — единственный выбор здесь, подходящий для использования в спальне всю ночь."
     }
   ],
   "sections": [
     {
-      "heading": "How we compared these space heaters",
+      "heading": "Как мы сравнивали эти обогреватели",
       "paragraphs": [
-        "No controlled calorimetry here. Accurately measuring heat output in BTUs, thermostat accuracy in degrees, and room warm-up times requires standardized room volumes and ambient temperatures that a real-world comparison can't control for. Instead, this comparison cross-references manufacturer wattage and room-coverage specs against long-term owner experiences, validates safety certification claims (UL, ETL, CE, PSE for Japan), and investigates the actual failure modes reported for each model's safety cutoffs over multi-year ownership.",
-        "The fundamental constraint every buyer needs to understand before comparing models: all portable space heaters in the US and EU operate on the same physics. A 1500W heater produces roughly 5,100 BTU/hr. A 1500W heater pulling full power on a 15A circuit leaves roughly 3A of headroom before the breaker trips — so running a space heater on the same circuit as other high-draw appliances (hair dryer, vacuum, microwave) is the most common cause of breaker trips and, in older wiring, a fire risk. This is not a product defect: it's a building wiring issue. The only exception to the 1500W ceiling is the Dyson HP07, which is rated at 2000W — it needs a dedicated circuit in homes with 15A breakers."
+        "Никакой контролируемой калориметрии. Точное измерение теплоотдачи в БТЕ/ч, точности термостата в градусах и времени прогрева помещения требует стандартизированных объёмов комнат и температур окружающей среды, которые в реальном сравнении не поддаются контролю. Вместо этого данное сравнение сопоставляет заявленные производителями мощность и площадь обогрева с долгосрочным опытом владельцев, проверяет утверждения о сертификатах безопасности (UL, ETL, CE, PSE для Японии) и исследует реальные сбои в работе защитных отключений каждой модели за несколько лет эксплуатации.",
+        "Фундаментальное ограничение, которое каждый покупатель должен понимать перед сравнением моделей: все портативные обогреватели в США и ЕС работают по одним и тем же физическим законам. Обогреватель на 1500 Вт вырабатывает около 5100 БТЕ/ч. Обогреватель на 1500 Вт, потребляющий полную мощность в цепи на 15 А, оставляет около 3 А до срабатывания автомата — поэтому включение обогревателя в одну цепь с другими мощными приборами (фен, пылесос, микроволновка) является наиболее распространённой причиной срабатывания автоматов, а в старой проводке — пожарным риском. Это не дефект продукта — это проблема домовой электропроводки. Единственное исключение из ограничения в 1500 Вт — Dyson HP07 мощностью 2000 Вт: он требует отдельной цепи в домах с автоматами на 15 А."
       ]
     },
     {
-      "heading": "What changed in 2026",
+      "heading": "Что изменилось в 2026 году",
       "paragraphs": [
-        "Smart thermostat integration has moved from a marketing feature to genuine utility in the space heater category. The Dyson HP07, already connected to the Dyson Link app, now participates in heating schedules synced with smart home platforms (HomeKit, Google Home, Amazon Alexa). Vornado has not added app control to the VH10, which is increasingly a differentiator in a market where price-sensitive buyers are comparing it to smart competitors. The practical benefit of scheduling remains modest for space heaters — unlike central heating, a portable unit only heats the room it's in, so 'schedule' usually means 'start heating the bedroom 30 minutes before I go to bed.'",
-        "Energy cost awareness is shaping purchase decisions more directly than in previous years. With electricity rates averaging $0.16–0.23 per kWh in the US and ¥25–35 per kWh in Japan, running a 1500W heater for 8 hours costs $1.92–2.76 per day in the US and roughly ¥300–420 in Japan. Over a three-month heating season (90 days), that's $173–248 or ¥27,000–37,800 — numbers that make buyers look seriously at the De'Longhi oil-filled radiator's lower average wattage draw (it cycles between 300W, 700W, and 1500W versus a fan heater running at sustained 1500W) and at the Dyson's justification for its premium buy-in.",
-        "Japanese domestic manufacturers (Daikin, Panasonic, Toyotomi, Corona) have strengthened their share in the ceramic fan heater segment by bundling humidification and nanoe/Plasmacluster ion technology. The Daikin ERFT11WS is the clearest example: ceramic fan heating with an integrated humidification function. The humidification capacity is modest (around 250 mL/hr) but meaningful in Japan's winter where running heating without humidification drops indoor RH below 30% within hours. This bundle is not available in US-market space heaters."
+        "Интеграция с умным термостатом перешла из маркетинговой функции в категорию реальной пользы для сегмента обогревателей. Dyson HP07, уже подключённый к приложению Dyson Link, теперь участвует в расписаниях отопления, синхронизированных с платформами умного дома (HomeKit, Google Home, Amazon Alexa). Vornado не добавила управление через приложение к VH10 — это всё больше становится отличительным признаком на рынке, где ценочувствительные покупатели сравнивают его с умными конкурентами. Практическая польза от расписаний для обогревателей остаётся скромной: в отличие от центрального отопления, портативный прибор нагревает только ту комнату, в которой находится, поэтому «расписание» обычно означает «начать прогревать спальню за 30 минут до сна».",
+        "Осознание расходов на электроэнергию напрямую влияет на решения о покупке сильнее, чем в предыдущие годы. При среднем тарифе $0,16–0,23 за кВт·ч в США и ¥25–35 за кВт·ч в Японии, работа обогревателя на 1500 Вт в течение 8 часов обходится в $1,92–2,76 в сутки в США и примерно ¥300–420 в Японии. За трёхмесячный отопительный сезон (90 дней) это составит $173–248 или ¥27 000–37 800 — цифры, которые заставляют покупателей серьёзно задуматься о более низком среднем потреблении масляного радиатора De'Longhi (он циклически переключается между 300 Вт, 700 Вт и 1500 Вт, тогда как конвекторный обогреватель работает на постоянных 1500 Вт) и об оправданности премиальной цены Dyson.",
+        "Японские отечественные производители (Daikin, Panasonic, Toyotomi, Corona) укрепили свою долю в сегменте керамических конвекторов, добавив функции увлажнения и ионные технологии nanoe/Plasmacluster. Daikin ERFT11WS — наиболее показательный пример: керамический конвектор со встроенной функцией увлажнения. Производительность увлажнения скромная (около 250 мл/ч), но значимая для японской зимы, когда работа отопления без увлажнения снижает влажность в помещении ниже 30% в течение нескольких часов. Такая комбинация недоступна в обогревателях для американского рынка."
       ]
     },
     {
-      "heading": "Where each heater fits",
+      "heading": "Для чего подходит каждый обогреватель",
       "paragraphs": [
-        "The Dyson HP07 belongs in a home office or living room where HEPA air purification is independently valuable. The heat and fan functions are good — the airflow is bladeless, quieter at high speeds than most ceramic fans, and the cool fan function makes it earn its floor space in summer. The issue is the math: at $400–550, the Dyson costs four to five times a capable vortex heater. If you already own an air purifier and just want heat, the Dyson cannot justify that gap on heating performance alone. Its justification is the year-round utility of one device doing three jobs (heat, cool, purify) in a space where you want all three.",
-        "The Vornado VH10 is the most underrated heater in this comparison. Vortex circulation — the same aerodynamic principle Vornado uses in its fans — forces heated air out in a spiral that reaches all four corners of a room, not just a cone in front of the unit. This genuinely matters in rooms with furniture: a directional heater pointed at you from across the room heats you; a Vornado VH10 heats the room. At $80–120 with automatic climate control, a 12-hour timer, and a long Vornado reliability track record, it's the value choice for anyone heating a bedroom or medium living room who doesn't need smart-home integration.",
-        "The Lasko 5309 is the choice when visual footprint matters as much as thermal performance. A tower heater that oscillates, has a remote control, and costs $50–80 doesn't heat with Vornado's whole-room efficiency — the tower form means heat rises vertically rather than circulating — but it blends into a living room visually in a way that a box heater on the floor does not. The digital thermostat is accurate to roughly ±2°C, which is acceptable for most use cases."
+        "Dyson HP07 предназначен для домашнего офиса или гостиной, где очистка воздуха HEPA имеет самостоятельную ценность. Функции обогрева и вентилятора работают хорошо — воздушный поток без лопастей тише на высоких скоростях, чем большинство керамических вентиляторов, а режим холодного вентилятора обеспечивает прибору место на полу и летом. Проблема в математике: по цене $400–550 Dyson обходится в четыре-пять раз дороже хорошего вихревого обогревателя. Если у вас уже есть очиститель воздуха и вам нужен только обогрев, Dyson не может обосновать эту разницу исключительно за счёт теплоотдачи. Его оправдание — круглогодичная полезность одного устройства, выполняющего три функции (обогрев, охлаждение, очистка) в пространстве, где нужны все три.",
+        "Vornado VH10 — самый недооценённый обогреватель в этом сравнении. Вихревая циркуляция — тот же аэродинамический принцип, который Vornado использует в своих вентиляторах, — выталкивает тёплый воздух по спирали, достигающей всех четырёх углов комнаты, а не только конуса перед прибором. В комнатах с мебелью это действительно важно: направленный обогреватель, направленный на вас с другого конца комнаты, греет вас; Vornado VH10 греет комнату. По цене $80–120 с автоматическим климат-контролем, 12-часовым таймером и длинной историей надёжности Vornado — это выбор для тех, кто обогревает спальню или среднюю гостиную и не нуждается в интеграции с умным домом.",
+        "Lasko 5309 — выбор, когда визуальный след в интерьере важен не меньше тепловых характеристик. Башенный обогреватель с осцилляцией, пультом дистанционного управления и ценой $50–80 не обогревает с эффективностью всей комнаты как Vornado — башенная форма означает, что тепло поднимается вертикально, а не циркулирует — но он вписывается в гостиную визуально так, как не может напольная коробка. Цифровой термостат имеет точность около ±2°C, что приемлемо для большинства сценариев использования."
       ]
     },
     {
-      "heading": "Verdict",
+      "heading": "Итог",
       "paragraphs": [
-        "For most households: Vornado VH10. The vortex circulation is the genuinely differentiated feature in the price range, the build quality is above average for the segment, and the 12-hour timer handles the most common use case (heat the bedroom until morning) without smart-home complexity. At $80–120 it's the non-overthought answer.",
-        "The De'Longhi oil-filled radiator is the correct answer for anyone who needs to run a heater in a bedroom all night. Zero fan noise, safe radiant heat that doesn't dry out room air as aggressively as a fan heater, and a 24-hour timer. The trade-off is warm-up time: oil radiators take 20–30 minutes to reach steady-state heat output, versus 2–3 minutes for a ceramic fan heater. Plan for a 30-minute pre-heat.",
-        "The Daikin ERFT11WS is the correct answer for Japanese households who want one machine handling heating and basic humidification through a dry winter. The PSE safety certification, domestic warranty, and humidification function are not available in the same package from any import brand. For US buyers, the Daikin is not available; the Vornado and De'Longhi are the primary choices.",
-        "The Dyson HP07 justifies itself only if you would independently buy both a heater and an air purifier for the same room. At that point, the Dyson's year-round utility (heat + cool fan + HEPA purification in one device) genuinely competes with two separate mid-range devices. As a heater alone, it does not."
+        "Для большинства домохозяйств: Vornado VH10. Вихревая циркуляция — действительно отличительная функция в этом ценовом диапазоне, качество сборки выше среднего по сегменту, а 12-часовой таймер закрывает самый распространённый сценарий использования (прогреть спальню до утра) без сложностей умного дома. По цене $80–120 это ответ, не требующий долгих раздумий.",
+        "Масляный радиатор De'Longhi — правильный ответ для тех, кому нужно держать обогреватель в спальне всю ночь. Нулевой шум вентилятора, безопасное лучистое тепло, которое не сушит воздух так агрессивно, как конвекционный обогреватель, и 24-часовой таймер. Компромисс — время прогрева: масляным радиаторам требуется 20–30 минут до выхода на стационарную теплоотдачу, против 2–3 минут у керамического конвектора. Запланируйте 30-минутный предварительный прогрев.",
+        "Daikin ERFT11WS — правильный ответ для японских домохозяйств, желающих, чтобы один прибор обеспечивал обогрев и базовое увлажнение в течение сухой зимы. Сертификат безопасности PSE, отечественная гарантия и функция увлажнения не доступны в одном комплекте ни у одного импортного бренда. Для покупателей в США Daikin недоступен; Vornado и De'Longhi являются основными вариантами.",
+        "Dyson HP07 оправдывает себя только в том случае, если вы самостоятельно купили бы и обогреватель, и очиститель воздуха для одной комнаты. В этом случае круглогодичная полезность Dyson (обогрев + холодный вентилятор + очистка HEPA в одном устройстве) реально конкурирует с двумя отдельными устройствами среднего класса. Как обогреватель в одиночку — нет."
       ]
     }
   ],
   "products": [
     {
       "offerId": "space-heater-dyson-hot-cool",
-      "badge": "Best Air Purifier + Heater Combo",
-      "review": "The Dyson HP07 is the premium-tier pick for a room where heat and air quality are both priorities. HEPA H13 filtration captures 99.97% of particles down to 0.3 microns, the 2000W heat output (note: this requires a dedicated circuit on 15A wiring) uses Dyson's Air Multiplier to distribute heat without a traditional heating element visible, and the cool fan mode runs during summer without switching devices. The Dyson Link app enables scheduling, real-time air quality data from the onboard sensors, and smart-home integration with Alexa, Google, and Siri. At $400–550, the buy-in requires honest justification: if all you need is heat, there are better options at a quarter the price. The Dyson earns its price when the HEPA air purification is genuinely needed — allergies, pets, urban apartments — and the year-round fan function keeps the device in active use through summer.",
+      "badge": "Лучшая комбинация очистителя воздуха и обогревателя",
+      "review": "Dyson HP07 — выбор премиум-класса для комнаты, где тепло и качество воздуха одинаково важны. Фильтрация HEPA H13 задерживает 99,97% частиц размером от 0,3 микрона; теплоотдача 2000 Вт (обратите внимание: требуется отдельная цепь при проводке на 15 А) использует технологию Air Multiplier от Dyson для распределения тепла без видимого традиционного нагревательного элемента; режим холодного вентилятора работает летом без смены устройства. Приложение Dyson Link позволяет настраивать расписания, получать данные о качестве воздуха в реальном времени с бортовых датчиков и интегрироваться с умным домом через Alexa, Google и Siri. По цене $400–550 покупка требует честного обоснования: если вам нужен только обогрев, есть лучшие варианты вчетверо дешевле. Dyson оправдывает свою цену, когда очистка воздуха HEPA действительно необходима — аллергия, домашние животные, городские квартиры — и когда круглогодичная функция вентилятора сохраняет прибор в активном использовании летом.",
       "pros": [
-        "HEPA H13 air purification runs alongside heating or independently as a fan",
-        "Bladeless Air Multiplier is quieter at high speeds than most ceramic fan heaters",
-        "Year-round utility: heating in winter, cool fan and air purification in summer",
-        "Real-time air quality data and smart scheduling via Dyson Link app"
+        "Очистка воздуха HEPA H13 работает вместе с обогревом или самостоятельно в режиме вентилятора",
+        "Air Multiplier без лопастей тише на высоких скоростях, чем большинство керамических конвекторов",
+        "Круглогодичная полезность: обогрев зимой, холодный вентилятор и очистка воздуха летом",
+        "Данные о качестве воздуха в реальном времени и умное расписание через приложение Dyson Link"
       ],
       "cons": [
-        "2000W rating requires a dedicated 15A circuit — may trip shared circuits",
-        "At $400–550, costs 4–5x a capable vortex heater for heating performance alone"
+        "Мощность 2000 Вт требует отдельной цепи на 15 А — может выбивать совмещённые цепи",
+        "При цене $400–550 обходится в 4–5 раз дороже хорошего вихревого обогревателя только за теплоотдачу"
       ],
       "grade": "A",
       "specs": {
-        "Мощность": "2000W (heating), fan-only mode available",
-        "Фильтрация": "HEPA H13 + activated carbon",
-        "Охват": "Up to approx. 50m² (fan-only), smaller with efficient heating",
-        "Шум": "~51dB at max speed",
-        "Умный дом": "Alexa, Google Assistant, Siri via Dyson Link app"
+        "Power": "2000 Вт (обогрев), доступен режим только вентилятора",
+        "Filtration": "HEPA H13 + активированный уголь",
+        "Coverage": "До прибл. 50 м² (режим вентилятора), меньше при эффективном обогреве",
+        "Noise": "~51 дБ на максимальной скорости",
+        "Smart home": "Alexa, Google Assistant, Siri через приложение Dyson Link"
       },
       "scores": {
-        "Тепловая мощность": 4.5,
-        "Очистка воздуха": 5.0,
-        "Цена-Качество": 3.2,
-        "Уровень шума": 4.3,
-        "Круглогодичная полезность": 5.0
+        "Heat output": 4.5,
+        "Air purification": 5.0,
+        "Value for money": 3.2,
+        "Noise level": 4.3,
+        "Year-round utility": 5.0
       }
     },
     {
       "offerId": "space-heater-vornado-vh10",
-      "badge": "Best Whole-Room Value",
-      "review": "The Vornado VH10 heats rooms differently from any other space heater in this comparison. Vortex circulation creates a spiral of warm air that reaches the walls, corners, and floor before cycling back — resulting in more even heat distribution than a directional heater at the same wattage. At 1500W maximum, it's rated for rooms up to 300 sq ft (28m²) which aligns with most single-room residential use. Automatic climate control lets you set a target temperature rather than just a wattage level. The 12-hour timer and two heat settings (750W/1500W) cover the typical use case. Build quality is solidly above-average for the price — Vornado's US-focused manufacturing heritage shows in the unit's longevity in owner reviews. No smart-home integration, no app — which is either a simplicity advantage or a gap depending on your ecosystem.",
+      "badge": "Лучшее соотношение цена/качество для обогрева всей комнаты",
+      "review": "Vornado VH10 обогревает комнаты иначе, чем любой другой обогреватель в этом сравнении. Вихревая циркуляция создаёт спираль тёплого воздуха, которая достигает стен, углов и пола, прежде чем вернуться обратно, — в результате распределение тепла более равномерное, чем у направленного обогревателя той же мощности. При максимальной мощности 1500 Вт он рассчитан на помещения площадью до 300 кв. футов (28 м²), что соответствует большинству жилых комнат. Автоматический климат-контроль позволяет задать целевую температуру, а не просто уровень мощности. 12-часовой таймер и два режима мощности (750 Вт/1500 Вт) покрывают типичный сценарий использования. Качество сборки уверенно выше среднего для этой цены — производственное наследие Vornado с американскими корнями проявляется в долговечности прибора по отзывам владельцев. Без интеграции с умным домом и без приложения — что является либо преимуществом простоты, либо недостатком в зависимости от вашей экосистемы.",
       "pros": [
-        "Vortex circulation heats all four corners of the room, not just the area in front",
-        "Automatic climate control maintains target temperature rather than just output level",
-        "12-hour timer and two heat settings for flexible scheduling",
-        "Above-average build quality and reliability track record at the price"
+        "Вихревая циркуляция прогревает все четыре угла комнаты, а не только зону перед прибором",
+        "Автоматический климат-контроль поддерживает целевую температуру, а не просто уровень мощности",
+        "12-часовой таймер и два режима мощности для гибкого расписания",
+        "Выше среднего качество сборки и проверенная надёжность за эту цену"
       ],
       "cons": [
-        "No smart-home integration or app control",
-        "No oscillation — fixed vortex direction, though room circulation compensates"
+        "Нет интеграции с умным домом или управления через приложение",
+        "Нет осцилляции — фиксированное направление вихря, хотя циркуляция по комнате компенсирует это"
       ],
       "grade": "A",
       "specs": {
-        "Мощность": "1500W (high) / 750W (low)",
-        "Охват": "Up to 300 sq ft (28m²)",
-        "Термостат": "Automatic climate control",
-        "Таймер": "12 hours",
-        "Шум": "~55dB at max"
+        "Power": "1500 Вт (высокая) / 750 Вт (низкая)",
+        "Coverage": "До 300 кв. футов (28 м²)",
+        "Thermostat": "Автоматический климат-контроль",
+        "Timer": "12 часов",
+        "Noise": "~55 дБ на максимуме"
       },
       "scores": {
-        "Тепловая мощность": 4.7,
-        "Охват помещения": 4.9,
-        "Цена-Качество": 4.8,
-        "Уровень шума": 4.0,
-        "Качество изготовления": 4.6
+        "Heat output": 4.7,
+        "Room coverage": 4.9,
+        "Value for money": 4.8,
+        "Noise level": 4.0,
+        "Build quality": 4.6
       }
     },
     {
       "offerId": "space-heater-lasko-cyclonic",
-      "badge": "Best Budget Tower Heater",
-      "review": "The Lasko 5309 is the heater you buy when you need decent warmth in a medium-sized room without spending much, and when the visual footprint of a box heater on the floor feels wrong for the space. Tower form factor, oscillating heat distribution, remote control, and a digital thermostat at $50–80 is a genuinely compelling package for a living room, bedroom, or office. The cyclonic heating element isn't a gimmick — directing air in a circular pattern off the heating element produces slightly more even distribution than a straight-blow fan heater. The limitation is real: tower heaters push heat upward, and warm air rises anyway, so the effective heating zone for a seated or floor-level occupant is the warm column directly in the oscillation path, not the whole room like the Vornado. In a room with high ceilings (above 2.8m), the heat stratification problem becomes more pronounced.",
+      "badge": "Лучший бюджетный башенный обогреватель",
+      "review": "Lasko 5309 — обогреватель, который берут, когда нужно нормальное тепло в комнате среднего размера без больших трат, и когда громоздкий напольный прибор визуально не вписывается в пространство. Башенный форм-фактор, осциллирующее распределение тепла, пульт дистанционного управления и цифровой термостат за $50–80 — это действительно привлекательный комплект для гостиной, спальни или офиса. Циклонный нагревательный элемент — не маркетинговый трюк: направление воздуха по круговой траектории через нагревательный элемент даёт чуть более равномерное распределение, чем конвектор с прямым обдувом. Ограничение реальное: башенные обогреватели гонят тепло вверх, а тёплый воздух и так поднимается, поэтому эффективная зона обогрева для сидящего или находящегося на уровне пола человека — это тёплый столб прямо в зоне осцилляции, а не вся комната, как у Vornado. В комнате с высокими потолками (выше 2,8 м) проблема расслоения тепла становится более выраженной.",
       "pros": [
-        "Tower form blends into living rooms and bedrooms more naturally than box heaters",
-        "Remote control and digital thermostat at the entry-level price point",
-        "Oscillating heat distribution covers more floor area than a fixed-direction heater",
-        "Cool-touch housing even at full output — safe around children"
+        "Башенный форм-фактор вписывается в гостиные и спальни естественнее, чем напольные коробки",
+        "Пульт дистанционного управления и цифровой термостат по начальной цене",
+        "Осциллирующее распределение тепла охватывает большую площадь пола, чем обогреватель с фиксированным направлением",
+        "Корпус, холодный на ощупь даже при полной мощности, — безопасно при детях"
       ],
       "cons": [
-        "Tower form pushes heat upward — less effective for floor-level heating than vortex designs",
-        "Heat stratification issue worsens in rooms with ceilings above 2.8m"
+        "Башенная форма гонит тепло вверх — менее эффективна для обогрева на уровне пола, чем вихревые конструкции",
+        "Проблема расслоения тепла усиливается в комнатах с потолками выше 2,8 м"
       ],
       "grade": "B+",
       "specs": {
-        "Мощность": "1500W (high) / 750W (low)",
-        "Форм-фактор": "Tower, oscillating",
-        "Управление": "Digital thermostat + remote",
-        "Безопасность": "Overheat protection, tip-over switch",
-        "Охват": "Up to approx. 20m²"
+        "Power": "1500 Вт (высокая) / 750 Вт (низкая)",
+        "Form factor": "Башенный, с осцилляцией",
+        "Controls": "Цифровой термостат + пульт дистанционного управления",
+        "Safety": "Защита от перегрева, выключатель при опрокидывании",
+        "Coverage": "До прибл. 20 м²"
       },
       "scores": {
-        "Тепловая мощность": 4.2,
-        "Охват помещения": 3.9,
-        "Цена-Качество": 4.9,
-        "Уровень шума": 4.1,
-        "Дизайн": 4.5
+        "Heat output": 4.2,
+        "Room coverage": 3.9,
+        "Value for money": 4.9,
+        "Noise level": 4.1,
+        "Design": 4.5
       }
     },
     {
       "offerId": "space-heater-daikin-ceramic-jp",
-      "badge": "Best for Japan (Ceramic + Humidifier)",
-      "review": "The Daikin ERFT11WS solves a uniquely Japanese winter problem: ceramic fan heating dries out the air faster than the heating rate, and running humidification separately adds another appliance. Daikin's answer is an integrated humidification element — about 250 mL/hr at standard room conditions — alongside three-stage ceramic heating output (1200W / 600W / 300W). The 37dB quiet mode is genuinely quiet enough for a bedroom. PSE safety certification and the standard Daikin domestic warranty (1 year parts and labor) are the baseline expectations for Japan-market appliances that imported alternatives can't match. The humidification capacity is not large enough for dry LDKs over 20m² — for large rooms, a separate humidifier remains necessary. But for a 10–16m² bedroom in a Japanese apartment through a dry February, the ERFT11WS handles both jobs adequately.",
+      "badge": "Лучший для Японии (керамика + увлажнитель)",
+      "review": "Daikin ERFT11WS решает специфически японскую зимнюю проблему: керамический конвектор сушит воздух быстрее, чем идёт нагрев, а отдельный увлажнитель — это ещё один прибор. Ответ Daikin — встроенный увлажнительный элемент (около 250 мл/ч при стандартных условиях в комнате) в сочетании с трёхступенчатой керамической мощностью (1200 Вт / 600 Вт / 300 Вт). Тихий режим 37 дБ действительно достаточно тих для спальни. Сертификат безопасности PSE и стандартная гарантия Daikin (1 год на детали и труд) — это базовые ожидания от бытовой техники японского рынка, которым импортные альтернативы не соответствуют. Производительности увлажнения недостаточно для больших гостино-столовых кухонь площадью свыше 20 м² — для больших помещений по-прежнему необходим отдельный увлажнитель. Но для спальни площадью 10–16 м² в японской квартире в сухой февраль ERFT11WS справляется с обеими задачами вполне достаточно.",
       "pros": [
-        "Integrated humidification function addresses Japan's dry-winter problem in one unit",
-        "Three-stage output (1200W/600W/300W) for fine-grained temperature control",
-        "37dB quiet mode appropriate for bedroom overnight use",
-        "PSE certification and Daikin domestic warranty"
+        "Встроенная функция увлажнения решает проблему сухого воздуха японской зимы в одном устройстве",
+        "Трёхступенчатая мощность (1200 Вт/600 Вт/300 Вт) для точного управления температурой",
+        "Тихий режим 37 дБ подходит для ночного использования в спальне",
+        "Сертификация PSE и отечественная гарантия Daikin"
       ],
       "cons": [
-        "250 mL/hr humidification is insufficient for large LDKs over 20m²",
-        "Not available in US market; Japanese-specification 100V only"
+        "Увлажнение 250 мл/ч недостаточно для больших гостино-столовых кухонь свыше 20 м²",
+        "Недоступен на рынке США; только японская спецификация 100 В"
       ],
       "grade": "A",
       "specs": {
-        "Мощность": "1200W / 600W / 300W (3-stage)",
-        "Увлажнение": "Approx. 250 mL/hr",
-        "Шум": "~37dB (quiet mode)",
-        "Охват": "Up to approx. 12m² (JIS standard)",
-        "Напряжение": "100V (Japan only)",
-        "Сертификация": "PSE"
+        "Power": "1200 Вт / 600 Вт / 300 Вт (3 ступени)",
+        "Humidification": "Прибл. 250 мл/ч",
+        "Noise": "~37 дБ (тихий режим)",
+        "Coverage": "До прибл. 12 м² (стандарт JIS)",
+        "Voltage": "100 В (только Япония)",
+        "Certification": "PSE"
       },
       "scores": {
-        "Тепловая мощность": 4.4,
-        "Увлажнение": 4.0,
-        "Цена-Качество (JP)": 4.5,
-        "Уровень шума": 4.8,
-        "Качество изготовления": 4.7
+        "Heat output": 4.4,
+        "Humidification": 4.0,
+        "Value for money (JP)": 4.5,
+        "Noise level": 4.8,
+        "Build quality": 4.7
       }
     },
     {
       "offerId": "space-heater-delonghi-oil-filled",
-      "badge": "Best Silent Bedroom Heater",
-      "review": "The De'Longhi TRD40615E is the only pick here that produces zero fan noise, because oil-filled radiators have no fan. Thermal fluid is heated inside sealed metal fins and radiates warmth passively, the same principle as a traditional hot-water radiator. The result: genuinely silent heat suitable for sleeping next to. Startup time is the trade-off — the fins take 20–30 minutes to reach steady-state output from cold, versus 2–3 minutes for a ceramic fan heater. The 24-hour programmable timer partially compensates for this: set the radiator to start 30 minutes before you want warmth. At 1500W maximum, it draws the same peak power as a fan heater, but the 300W and 700W intermediate settings mean average power consumption during a thermostat-controlled overnight session is substantially lower than a fan heater cycling between 0W and 1500W at the same thermostat setting. Safe surface temperature (fins reach 60–80°C but the outer housing stays touchable) makes it safer than ceramic fan heaters for homes with young children.",
+      "badge": "Лучший бесшумный обогреватель для спальни",
+      "review": "De'Longhi TRD40615E — единственный выбор здесь, не создающий никакого шума вентилятора, поскольку в масляных радиаторах вентилятора нет. Теплоноситель нагревается внутри герметичных металлических рёбер и пассивно излучает тепло — тот же принцип, что у традиционного радиатора водяного отопления. Результат: по-настоящему тихое тепло, рядом с которым можно спать. Компромисс — время разогрева: рёбрам нужно 20–30 минут, чтобы выйти на стационарную теплоотдачу с холодного состояния, против 2–3 минут у керамического конвектора. 24-часовой программируемый таймер частично компенсирует это: задайте радиатору запуск за 30 минут до того, как вам нужно тепло. При максимальной мощности 1500 Вт он потребляет столько же пиковой мощности, что и конвектор, но промежуточные режимы 300 Вт и 700 Вт означают, что среднее энергопотребление за ночную сессию с управлением термостатом существенно ниже, чем у конвектора, циклически переключающегося между 0 Вт и 1500 Вт при том же уровне термостата. Безопасная температура поверхности (рёбра достигают 60–80°C, но внешний корпус остаётся терпимым на ощупь) делает его безопаснее керамических конвекторов в домах с маленькими детьми.",
       "pros": [
-        "Zero fan noise — the only silent heater here, suitable for bedrooms",
-        "Radiant heat doesn't dry room air as aggressively as forced-air fan heating",
-        "Safe surface temperatures despite high fin temperatures",
-        "Lower average wattage during thermostat-modulated use versus sustained fan heaters"
+        "Нулевой шум вентилятора — единственный бесшумный обогреватель здесь, подходящий для спален",
+        "Лучистое тепло не сушит воздух в комнате так агрессивно, как принудительная конвекция",
+        "Безопасная температура поверхности несмотря на высокую температуру рёбер",
+        "Более низкое среднее потребление в режиме модуляции термостатом по сравнению с постоянными конвекторами"
       ],
       "cons": [
-        "20–30 minute warm-up from cold — needs advance scheduling",
-        "Heavy unit (around 12kg) with limited portability despite wheels"
+        "Прогрев 20–30 минут с холодного состояния — требует предварительного планирования",
+        "Тяжёлый прибор (около 12 кг) с ограниченной мобильностью несмотря на колёса"
       ],
       "grade": "A",
       "specs": {
-        "Мощность": "1500W / 700W / 300W (3-setting)",
-        "Тип отопления": "Oil-filled radiant (no fan)",
-        "Таймер": "24-hour programmable",
-        "Шум": "0 dB (no fan)",
-        "Вес": "Approx. 12 kg",
-        "Безопасность": "Thermal cutoff, tip-over switch"
+        "Power": "1500 Вт / 700 Вт / 300 Вт (3 режима)",
+        "Heating type": "Масляный радиатор (без вентилятора)",
+        "Timer": "24-часовой программируемый",
+        "Noise": "0 дБ (вентилятора нет)",
+        "Weight": "Прибл. 12 кг",
+        "Safety": "Термическое отключение, выключатель при опрокидывании"
       },
       "scores": {
-        "Тепловая мощность": 4.3,
-        "Уровень шума": 5.0,
-        "Цена-Качество": 4.4,
-        "Безопасность": 4.9,
-        "Пригодность для спальни": 5.0
+        "Heat output": 4.3,
+        "Noise level": 5.0,
+        "Value for money": 4.4,
+        "Safety": 4.9,
+        "Bedroom suitability": 5.0
       }
     }
   ],
   "faqs": [
     {
-      "q": "Can I leave a space heater on overnight?",
-      "a": "The safe answer depends on the type. Oil-filled radiators (De'Longhi TRD40615E) are the safest for overnight operation: no fan, passive radiant heat, automatic thermal cutoff if the unit overheats, and no moving parts to fail. Ceramic fan heaters (Vornado VH10, Lasko 5309, Daikin ERFT11WS) can be left on overnight if they have reliable tip-over protection and an auto shut-off timer — use the timer to limit the run time to 8 hours rather than leaving them on indefinitely. The Dyson HP07's safety record for overnight use is good, but at 2000W it should be on a dedicated circuit. Never: run a space heater with an extension cord (fire risk from overheating the cord), place it on carpet or near flammable materials (most heaters specify 1m clearance), or leave it on in a room with unattended children or pets without a timer cutoff."
+      "q": "Можно ли оставлять обогреватель включённым на ночь?",
+      "a": "Безопасный ответ зависит от типа. Масляные радиаторы (De'Longhi TRD40615E) наиболее безопасны для ночной работы: без вентилятора, пассивное лучистое тепло, автоматическое термическое отключение при перегреве и никаких движущихся частей, которые могут выйти из строя. Керамические конвекторы (Vornado VH10, Lasko 5309, Daikin ERFT11WS) можно оставлять включёнными на ночь, если у них есть надёжная защита от опрокидывания и таймер автоматического отключения — используйте таймер, чтобы ограничить время работы 8 часами, а не оставлять их включёнными бессрочно. Репутация Dyson HP07 в плане безопасности при ночной работе хорошая, но при 2000 Вт его следует подключать в отдельную цепь. Никогда: не включайте обогреватель через удлинитель (пожарный риск из-за перегрева провода), не ставьте его на ковёр или рядом с горючими материалами (большинство обогревателей указывают расстояние 1 м) и не оставляйте его включённым в комнате без присмотра с детьми или домашними животными без таймера отключения."
     },
     {
-      "q": "How much does it cost to run a space heater for 8 hours?",
-      "a": "At 1500W and a US average electricity rate of $0.16/kWh: 1.5 kW × 8 hours × $0.16 = $1.92 per night. In Japan at ¥30/kWh: 1.5 kW × 8 hours × ¥30 = ¥360 per night. Over a 90-day heating season, that's $173 in the US or ¥32,400 in Japan for a heater running at full output all night. The De'Longhi oil-filled radiator typically runs at lower average wattage because its thermostat cycles the heating element — real-world consumption is often 60–70% of nameplate max, bringing seasonal costs closer to $100–120 in the US. Ceramic fan heaters maintain higher average draw because they cycle between full-on and full-off more abruptly. The Dyson HP07 at 2000W costs $2.56/night at US average rates — meaningful over a season."
+      "q": "Сколько стоит работа обогревателя в течение 8 часов?",
+      "a": "При мощности 1500 Вт и среднем тарифе в США $0,16/кВт·ч: 1,5 кВт × 8 часов × $0,16 = $1,92 за ночь. В Японии при ¥30/кВт·ч: 1,5 кВт × 8 часов × ¥30 = ¥360 за ночь. За 90-дневный отопительный сезон это $173 в США или ¥32 400 в Японии для обогревателя, работающего на полной мощности всю ночь. Масляный радиатор De'Longhi обычно потребляет меньшую среднюю мощность, поскольку его термостат циклически включает нагревательный элемент — реальное потребление часто составляет 60–70% от паспортного максимума, что снижает сезонные расходы до $100–120 в США. Керамические конвекторы имеют более высокое среднее потребление, поскольку переключаются между полным включением и полным отключением более резко. Dyson HP07 при 2000 Вт обходится в $2,56 за ночь по средним американским тарифам — ощутимо за сезон."
     },
     {
-      "q": "What safety certifications should I look for on a space heater?",
-      "a": "In the US, look for UL (Underwriters Laboratories) or ETL (Intertek) marks — both indicate testing against ANSI/UL 1278 for portable electric heaters. These are meaningful safety certifications, not just compliance stickers. In Japan, PSE (Product Safety Electrical Appliance & Material) mark is the mandatory certification for electrical appliances sold domestically — the Daikin ERFT11WS carries this. The minimum safety features to verify regardless of certification: thermal cutoff (shuts the unit off if the element overheats), tip-over switch (shuts the unit off if the heater falls), and overheat protection on the housing surface. Space heaters labeled as having these features but imported without UL/ETL certification from unknown brands should be treated with skepticism — the certification process verifies that these features actually work under failure conditions, not just that they exist."
+      "q": "Какие сертификаты безопасности нужно искать на обогревателе?",
+      "a": "В США ищите знаки UL (Underwriters Laboratories) или ETL (Intertek) — оба указывают на испытания по ANSI/UL 1278 для портативных электрических обогревателей. Это значимые сертификаты безопасности, а не просто наклейки соответствия. В Японии знак PSE (Product Safety Electrical Appliance & Material) является обязательным сертификатом для электроприборов, продаваемых на внутреннем рынке — Daikin ERFT11WS его имеет. Минимальные функции безопасности для проверки независимо от сертификации: термическое отключение (выключает прибор при перегреве элемента), выключатель при опрокидывании (выключает прибор при падении) и защита от перегрева корпуса. К обогревателям, которые заявляют о наличии этих функций, но импортируются без сертификации UL/ETL от неизвестных брендов, следует относиться с осторожностью — процесс сертификации подтверждает, что эти функции действительно работают в условиях отказа, а не просто существуют."
     }
   ],
-  "pinDescription": "Five space heaters compared for 2026 — wattage, vortex vs radiant heat, and whether the Dyson HP07's price premium is worth it. Running costs calculated. The only silent overnight heater. Japanese market Daikin with humidifier. Honest trade-offs for every budget.",
+  "pinDescription": "Пять обогревателей сравниваются в 2026 году — мощность в ваттах, вихревое против лучистого тепла, и стоит ли переплачивать за Dyson HP07. Расходы на электроэнергию рассчитаны. Единственный бесшумный обогреватель для ночи. Японский Daikin с увлажнителем. Честные компромиссы для любого бюджета.",
   "offerNotes": ""
 }
