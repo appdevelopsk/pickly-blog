@@ -117,6 +117,38 @@ function hasNonEmptySections(value: unknown): boolean {
   return false;
 }
 
+// Locales whose body MUST contain their own script to count as translated.
+// Guards against a generation bug where a locale file holds another language's
+// text (e.g. German prose in ru.json) — non-empty but wrong-language. Such pages
+// must stay out of the index/sitemap (treated as untranslated) until fixed.
+const REQUIRED_SCRIPT: Record<string, RegExp> = {
+  ru: /[Ѐ-ӿ]/, ar: /[؀-ۿ]/, hi: /[ऀ-ॿ]/,
+  th: /[฀-๿]/, ko: /[가-힯]/,
+  "zh-CN": /[一-鿿]/, "zh-TW": /[一-鿿]/,
+  ja: /[぀-ヿ一-鿿]/,
+};
+
+function collectStrings(value: unknown, out: string[], budget = 4000): void {
+  if (out.join("").length > budget) return;
+  if (typeof value === "string") out.push(value);
+  else if (Array.isArray(value)) for (const v of value) collectStrings(v, out, budget);
+  else if (value && typeof value === "object")
+    for (const v of Object.values(value)) collectStrings(v, out, budget);
+}
+
+/** For script-bearing locales, true only if the body has enough own-script chars. */
+function bodyMatchesLocaleScript(norm: Messages, locale: string): boolean {
+  const re = REQUIRED_SCRIPT[locale];
+  if (!re) return true; // Latin-script locales: can't reliably detect here
+  const buf: string[] = [];
+  collectStrings(norm.sections, buf);
+  collectStrings((norm as { lede?: unknown }).lede, buf);
+  collectStrings((norm as { faqs?: unknown }).faqs, buf);
+  const text = buf.join(" ");
+  const hits = (text.match(new RegExp(re.source, "g")) ?? []).length;
+  return hits >= 15;
+}
+
 /**
  * Build-time check: is this article's BODY actually translated for `locale`?
  *
@@ -134,7 +166,7 @@ export function isArticleBodyTranslated(slug: string, locale: string): boolean {
   if (!fs.existsSync(file)) return false;
   try {
     const norm = normalizeArticleMessages(JSON.parse(fs.readFileSync(file, "utf8")) as Messages, slug);
-    return hasNonEmptySections(norm.sections);
+    return hasNonEmptySections(norm.sections) && bodyMatchesLocaleScript(norm, locale);
   } catch {
     return false;
   }
