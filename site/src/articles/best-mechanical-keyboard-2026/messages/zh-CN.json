@@ -1,228 +1,228 @@
 {
-  "title": "2026最佳机械键盘推荐：5款热门机型对比",
-  "description": "从Keychron Q1 Pro（Gasket结构75%配列、蓝牙5.1+2.4GHz无线、QMK/VIA可编程、铝合金机身、南向RGB，约3万日元）到HHKB Professional Hybrid Type-S（Topre静电容轴、超静音60%、蓝牙+USB-C），五款机械键盘全面对比。",
-  "lede": "Five keyboards — Keychron Q1 Pro (gasket-mounted 75% layout, Bluetooth 5.1 and 2.4GHz wireless, QMK/VIA programmable, full aluminum body, south-facing RGB, around ¥30,000, available on Rakuten Ichiba). Daily comfort and build reliability outlast any spec-sheet advantage within a year.",
+  "title": "2026最佳机械键盘：5款机型对比",
+  "description": "从Keychron Q1 Pro（Gasket结构75%配列、蓝牙5.1+2.4GHz无线、QMK/VIA可编程、铝合金机身、南向RGB，约¥30,000）到HHKB Professional Hybrid Type-S（Topre静电容轴、超静音60%、蓝牙+USB-C、日本工艺的崇拜级地位，¥35,000+）、Logicool MX Keys S（剪刀脚结构——非机械——低矮无线、单键背光、Flow多设备、办公优化）、Nuphy Air75 V2（超薄Gasket 75%、低矮机械无线、铝合金，约¥20,000）以及Realforce R3（Topre全尺寸/TKL、触发点可调、日本制造、专业级，¥40,000+）。五款键盘从轴体类型与手感、配列对生产力的取舍、Gasket与托盘结构的声学差异、无线延迟的真实情况、以及日本特有的JIS配列考量进行对比。我们未自行进行轴体触发力、噪音或延迟测试。",
+  "lede": "五款键盘——Keychron Q1 Pro（Gasket结构75%配列、蓝牙5.1与2.4GHz无线、QMK/VIA可编程、全铝合金机身、南向RGB，约¥30,000，可在乐天市场Rakuten Ichiba购买）。在一年之内，日常使用的舒适度与做工可靠性，将胜过任何参数表上的优势。",
   "sections": [
     {
-      "heading": "How we compared",
+      "heading": "我们如何对比",
       "paragraphs": [
-        "We did not run independent switch actuation force measurements under controlled conditions. We did not conduct noise level tests with calibrated acoustic measurement equipment. We did not measure polling rate or wireless latency with high-speed cameras or signal analyzers. Rigorous keyboard testing requires a force gauge for repeatable actuation measurements, an anechoic or semi-anechoic room for meaningful noise comparisons, and specialized input latency tooling to separate input processing from display pipeline — none of which we can reproduce here.",
-        "Instead: we reviewed manufacturer specifications and published switch datasheets — specifically Gateron's published actuation force curves for the switches shipping in the Keychron Q1 Pro and Nuphy Air75 V2 variants, Topre Corporation's published specifications for the 45g electrostatic capacitive mechanism used in both the HHKB Professional Hybrid Type-S and Realforce R3, and Logicool's published specifications for the scissor mechanism in MX Keys S. We cross-referenced these with independent measurements and testing published in Japanese keyboard review media (including Pasokuma and keyboard community discussions on Zenn and note.com) and international enthusiast sources. We aggregated long-term user reviews from Rakuten Ichiba and Amazon JP with particular attention to durability reports, wireless reliability issues, firmware update complaints, and typing fatigue over extended sessions.",
-        "One framing point before the products: this comparison spans two different switch technologies — mechanical (Keychron Q1 Pro, Nuphy Air75 V2), electrostatic capacitive (HHKB, Realforce), and scissor (MX Keys S). These are not directly comparable on the same tactile or acoustic axis. Topre enthusiasts and MX switch users often disagree about which 'feels better' in a way that is entirely subjective and context-dependent. We describe the differences factually and leave preference conclusions to you."
+        "我们没有在受控条件下自行进行轴体触发力测量。我们没有使用经过校准的声学测量设备进行噪音水平测试。我们没有使用高速摄像机或信号分析仪测量回报率或无线延迟。严谨的键盘测试需要力规来进行可重复的触发测量、需要消声或半消声室来进行有意义的噪音对比、以及专门的输入延迟工具来将输入处理与显示管线区分开来——这些我们在此都无法复现。",
+        "我们所做的是：审阅厂商规格与公开的轴体数据表——具体包括Gateron公开的、用于Keychron Q1 Pro和Nuphy Air75 V2各版本的轴体触发力曲线，Topre公司公开的、用于HHKB Professional Hybrid Type-S和Realforce R3的45g静电容机制规格，以及Logicool公开的MX Keys S剪刀脚机制规格。我们将这些与日本键盘评测媒体（包括Pasokuma以及Zenn和note.com上的键盘社区讨论）和国际爱好者来源中发表的独立测量与测试进行交叉比对。我们汇总了来自乐天市场和Amazon JP的长期用户评价，特别关注耐用性反馈、无线可靠性问题、固件更新投诉，以及长时间使用中的打字疲劳。",
+        "在介绍产品之前先说明一个框架：本次对比横跨两种不同的轴体技术——机械轴（Keychron Q1 Pro、Nuphy Air75 V2）、静电容（HHKB、Realforce）和剪刀脚（MX Keys S）。它们在相同的触感或声学维度上并不能直接对比。Topre爱好者与MX轴用户常常对哪个'手感更好'存在分歧，而这完全是主观且因情境而异的。我们如实描述差异，把偏好的结论留给你。"
       ]
     },
     {
-      "heading": "Switch types explained — mechanical vs Topre vs scissor",
+      "heading": "轴体类型详解——机械轴 vs Topre vs 剪刀脚",
       "paragraphs": [
-        "MX-compatible mechanical switches — the category covering Gateron, Cherry, Kailh, and the switches in the Keychron Q1 Pro and Nuphy Air75 V2 — operate by physically completing an electrical circuit when a stem depresses a spring to a contact point. Linear switches (Red, Yellow, Speed Silver variants) have no tactile bump or audible click — resistance increases smoothly until actuation, then releases. Tactile switches (Brown, Clear, tactile variants) produce a physical bump at the actuation point that you feel through the finger without a loud click. Clicky switches (Blue, Green) produce both a tactile bump and an audible click at actuation. Actuation forces range from approximately 35g (light linears) to 60g+ (heavier tactiles and clickies). MX-compatible switches are hot-swappable on boards that support it, replaceable, and have the largest aftermarket keycap and switch ecosystem in the hobby.",
-        "Topre electrostatic capacitive switches — used in both the HHKB Professional Hybrid Type-S and Realforce R3 — operate on an entirely different mechanism. A conical rubber dome sits over a spring and a capacitive sensor; when you press the key, the dome compresses, the spring deforms, and the change in capacitance is registered as a keystroke without a physical metal-to-metal contact. The result is a smooth, tactile bump that Topre users describe as 'thocky' (a round, dampened sound profile) and distinctly different from MX tactile switches. Topre springs are not standard MX compatible, keycaps are non-standard (Topre stem), and the ecosystem of replacement keycaps and mods is significantly smaller than MX. The standard weight is 45g actuation on most Topre boards; HHKB Hybrid Type-S uses silenced domes for a quieter experience.",
-        "Scissor switches — used in the Logicool MX Keys S — are not mechanical keyboards in the traditional hobbyist sense. They use a scissor-linkage mechanism with a membrane contact beneath a short-travel rubber dome. The travel is approximately 1.8–2mm versus 4mm for standard MX, and there is no discrete tactile actuation point or spring mechanism. Scissor switches dominate laptop keyboards and are optimized for low-profile form factor, quiet operation, and durability under frequent shallow-stroke typing. The MX Keys S is included in this comparison because it serves the same 'daily-driver office keyboard' use case, but we are being explicit: it is not a mechanical keyboard, and the typing feel is categorically different from any switch described above."
+        "MX兼容机械轴——这一类别涵盖Gateron、Cherry、Kailh以及Keychron Q1 Pro和Nuphy Air75 V2所用的轴体——的工作原理是：当轴心压下弹簧至接触点时，物理性地闭合一个电路。线性轴（红轴、黄轴、Speed银轴等）没有段落感凸起或可闻的咔哒声——阻力平滑增加直至触发，随后释放。段落轴（茶轴、白轴、各类段落版本）在触发点产生一个手指可以感受到的物理凸起，但没有响亮的咔哒声。咔哒轴（青轴、绿轴）在触发时同时产生段落凸起和可闻的咔哒声。触发力范围大约从35g（轻量线性轴）到60g以上（较重的段落轴和咔哒轴）。MX兼容轴在支持的键盘上可热插拔、可更换，并拥有这个爱好领域中最大的售后键帽与轴体生态。",
+        "Topre静电容轴——同时用于HHKB Professional Hybrid Type-S和Realforce R3——采用完全不同的机制。一个锥形橡胶碗罩在弹簧和电容传感器之上；当你按下按键时，橡胶碗压缩、弹簧变形，电容的变化被记录为一次按键，而无需物理的金属对金属接触。其结果是一种平滑的段落凸起，Topre用户将其描述为'thocky'（一种圆润、被抑制的声音特征），与MX段落轴有明显区别。Topre弹簧并非标准MX兼容，键帽也是非标准的（Topre轴心），其替换键帽与改装件的生态比MX小得多。大多数Topre键盘的标准重量为45g触发；HHKB Hybrid Type-S采用静音橡胶碗以获得更安静的体验。",
+        "剪刀脚轴——用于Logicool MX Keys S——并非传统爱好者意义上的机械键盘。它采用剪刀连杆机制，下方是位于短行程橡胶碗之下的薄膜触点。其行程约为1.8–2mm，而标准MX为4mm，并且没有独立的段落触发点或弹簧机制。剪刀脚轴主导着笔记本电脑键盘，专为低矮外形、安静运行以及频繁浅按打字下的耐用性而优化。MX Keys S被纳入本次对比，是因为它服务于相同的'日常办公主力键盘'使用场景，但我们要明确指出：它不是机械键盘，其打字手感与上述任何一种轴体都有本质上的不同。"
       ]
     },
     {
-      "heading": "Layout choices — 60% vs 75% vs TKL vs full-size",
+      "heading": "配列选择——60% vs 75% vs TKL vs 全尺寸",
       "paragraphs": [
-        "Keyboard layout determines which physical keys are present and shapes the desk footprint, mouse placement, and workflow friction for daily use. Full-size (100%) includes all keys — numpad, function row, navigation cluster, and arrow keys. TKL (tenkeyless, ~87%) removes the numpad, reducing width by approximately 20%. 75% (like the Keychron Q1 Pro and Nuphy Air75 V2) compresses the navigation cluster and function row into a tighter grid, removing the numpad and reducing overall size without eliminating arrow keys. 60% (HHKB) removes the function row and navigation cluster entirely, typically requiring function-layer key combinations to access those keys.",
-        "For Japanese office environments, full-size is the standard default — the numpad is heavily used for numeric data entry in accounting, administration, and retail workflows. The Realforce R3 targets this context: a professional-grade full-size (or TKL variant) for users who need every key available without layer switching. The productivity argument for smaller layouts centers on mouse proximity — eliminating the numpad or navigation cluster reduces the distance between home-row typing position and mouse — which reduces shoulder strain over long sessions and increases mousing speed in screen-heavy workflows. The 75% is the current mainstream sweet spot for home office setups: arrow keys present (important for text editing), function row present (important for software shortcuts), but no numpad.",
-        "60% keyboards like the HHKB require a mental model shift. Function and navigation keys become layer-accessed via the Fn key. This is a non-trivial adjustment period of one to three weeks before muscle memory makes it automatic, and it creates friction with users who frequently switch between the HHKB and a full-size keyboard at another workstation. Japanese-language typists who rely on the F6–F10 row for kana conversion (F6 for hiragana, F7 for katakana, F8 for half-width katakana, F10 for alphanumeric) will find 60% layouts require more deliberate adjustment. This is not a dealbreaker for dedicated HHKB users, but it is real friction."
+        "键盘配列决定了存在哪些物理按键，并影响桌面占用、鼠标摆放以及日常使用中的工作流摩擦。全尺寸（100%）包含全部按键——数字小键盘、功能键行、导航键区和方向键。TKL（无数字键盘，约87%）去掉了数字小键盘，宽度减少约20%。75%（如Keychron Q1 Pro和Nuphy Air75 V2）将导航键区和功能键行压缩进更紧凑的网格中，去掉数字小键盘、缩小整体尺寸，同时保留方向键。60%（HHKB）则完全去掉功能键行和导航键区，通常需要功能层组合键来访问那些按键。",
+        "对于日本的办公环境，全尺寸是标准默认选择——数字小键盘在会计、行政和零售工作流的数字数据录入中被大量使用。Realforce R3面向的正是这一场景：一款专业级全尺寸（或TKL版本），适合需要每个按键都可用而无需切换层的用户。较小配列在生产力上的论点集中于鼠标的接近度——去掉数字小键盘或导航键区会缩短主键位打字位置与鼠标之间的距离——这能在长时间使用中减轻肩部劳损，并在屏幕密集型工作流中提升鼠标移动速度。75%是目前家庭办公场景下的主流甜点位：保留方向键（对文本编辑很重要）、保留功能键行（对软件快捷键很重要），但没有数字小键盘。",
+        "像HHKB这样的60%键盘需要心智模型的转变。功能键和导航键变为通过Fn键的层访问。这是一段不容小觑的适应期，需要一到三周才能让肌肉记忆变得自动化，并且对于经常在HHKB和另一工作台上的全尺寸键盘之间切换的用户会造成摩擦。依赖F6–F10行进行假名转换的日语打字者（F6平假名、F7片假名、F8半角片假名、F10字母数字）会发现60%配列需要更刻意的调整。这对忠实的HHKB用户而言不是致命缺陷，但确实是真实存在的摩擦。"
       ]
     },
     {
-      "heading": "Gasket mount vs tray mount — what the typing feel difference is",
+      "heading": "Gasket结构 vs 托盘结构——打字手感的差异何在",
       "paragraphs": [
-        "Mount style describes how the keyboard's internal plate — the structure to which switches are mounted — is attached to the outer case. Tray mount (also called direct mount) fastens the plate or PCB directly to the bottom case with screws. The result is a rigid, solid structure with no flex: keystrokes feel firm and snappy, sound is higher-pitched and punchier, and there is no give in the typing surface. Tray mount is common in budget boards and many older designs.",
-        "Gasket mount (used in both the Keychron Q1 Pro and Nuphy Air75 V2) suspends the plate inside the case on silicone or rubber gaskets rather than rigid screws. When you press a key, the plate has a small amount of travel and flex before the bottom of the case stops it. The practical difference: keystrokes feel softer and have a subtle bounce, acoustics shift toward a lower-pitched, less reverberant sound often described as 'thocky' or 'poppy' depending on keycaps and foam layer configuration, and typing over extended sessions can feel less fatiguing than rigid tray-mount boards because peak impact force is slightly absorbed. The flex also makes the typing experience feel more consistent across the board surface versus rigid mounts where edges can feel stiffer than the center.",
-        "The acoustic difference between gasket and tray mount is real and measurable in enthusiast community sound tests — but the degree depends heavily on switch choice, keycaps, and whether any dampening foam is installed. A gasket-mount board with budget POM keycaps and heavy dampening foam can sound quieter and more muted than a tray-mount board with thick PBT double-shot keycaps. Mount style is one variable, not the whole equation. For most users buying a first enthusiast board, gasket mount at the Keychron Q1 Pro or Nuphy Air75 V2 price point represents a genuine improvement in perceived typing feel over entry-level tray-mount alternatives."
+        "结构方式描述的是键盘内部定位板——轴体安装于其上的结构件——如何固定到外壳上。托盘结构（也称直装）用螺丝将定位板或PCB直接固定到下壳。其结果是一个刚性、坚实、没有形变的结构：按键感觉硬挺利落，声音音调更高、更清脆，打字表面没有任何回弹。托盘结构常见于入门键盘和许多较早的设计。",
+        "Gasket结构（同时用于Keychron Q1 Pro和Nuphy Air75 V2）将定位板悬挂在外壳内的硅胶或橡胶垫片上，而非刚性螺丝。当你按下按键时，定位板在被外壳底部止住之前会有少量的行程和形变。实际差异在于：按键感觉更柔软、带有微妙的回弹，声学特征偏向更低音调、回响更少的声音，常被描述为'thocky'或'poppy'，具体取决于键帽和填充棉的配置；并且由于峰值冲击力被略微吸收，长时间打字相比刚性的托盘结构键盘可能感觉不那么疲劳。这种形变还使得整个键盘表面的打字体验感觉更一致，而刚性结构中边缘可能比中心更硬。",
+        "Gasket与托盘结构之间的声学差异是真实的，并且在爱好者社区的声音测试中可以测量出来——但其程度在很大程度上取决于轴体选择、键帽，以及是否安装了任何阻尼填充棉。一块装有廉价POM键帽和大量阻尼填充棉的Gasket结构键盘，可能比一块装有厚实PBT二色注塑键帽的托盘结构键盘听起来更安静、更闷。结构方式只是一个变量，而非整个方程式。对于大多数购买第一块爱好级键盘的用户来说，在Keychron Q1 Pro或Nuphy Air75 V2的价位上，Gasket结构相比入门级托盘结构方案，在感知到的打字手感上是一项真正的提升。"
       ]
     },
     {
-      "heading": "Wireless latency — is it real?",
+      "heading": "无线延迟——真的存在吗？",
       "paragraphs": [
-        "Wireless keyboard latency is a legitimate question with a nuanced answer that depends on the wireless protocol. Bluetooth latency has historically ranged from 20ms to 100ms depending on implementation, device, and interference environment — meaningfully higher than wired USB polling at 1–8ms. This matters for competitive gaming; for typing and general productivity, it does not produce perceptible output lag for most users.",
-        "2.4GHz dongle wireless — used in the Keychron Q1 Pro (Lofree receiver or Keychron-specific dongle variant), Nuphy Air75 V2 (proprietary dongle), and the Logicool MX Keys S (Logi Bolt) — operates at latencies of approximately 1–8ms in practice, which is equivalent to wired USB for all typing purposes and sufficient for most gaming applications. Keychron and Nuphy do not position their products as gaming keyboards, but their 2.4GHz implementations are meaningfully faster than Bluetooth for users who want wireless without compromising responsiveness.",
-        "The HHKB Professional Hybrid Type-S uses Bluetooth only — no 2.4GHz dongle option. For typing at an office desk, this is not a concern. For gaming or latency-sensitive work, the Bluetooth-only constraint is a factual limitation. Realforce R3 is wired only on most variants (the R3S has Bluetooth on select configurations), which eliminates wireless latency entirely at the cost of cable management. The practical recommendation: for desk-based typing work, Bluetooth from the HHKB or 2.4GHz from Keychron and Nuphy are both adequate. For gaming or low-latency requirements, 2.4GHz or wired."
+        "无线键盘延迟是一个合理的问题，其答案取决于无线协议，颇为微妙。蓝牙延迟在历史上根据实现方式、设备和干扰环境的不同，从20ms到100ms不等——明显高于有线USB的1–8ms回报。这对竞技游戏很重要；但对于打字和一般生产力工作而言，对大多数用户不会产生可察觉的输出延迟。",
+        "2.4GHz接收器无线——用于Keychron Q1 Pro（Lofree接收器或Keychron专用接收器版本）、Nuphy Air75 V2（专有接收器）以及Logicool MX Keys S（Logi Bolt）——在实践中的延迟约为1–8ms，对于所有打字用途而言等同于有线USB，对大多数游戏应用也足够。Keychron和Nuphy并未将其产品定位为游戏键盘，但对于想要无线又不愿牺牲响应性的用户，它们的2.4GHz实现明显比蓝牙更快。",
+        "HHKB Professional Hybrid Type-S仅支持蓝牙——没有2.4GHz接收器选项。对于办公桌前的打字而言，这不是问题。对于游戏或对延迟敏感的工作，仅蓝牙的限制是一个客观的局限。Realforce R3在大多数版本上仅支持有线（R3S在部分配置上有蓝牙），这以线缆管理为代价完全消除了无线延迟。实用建议是：对于桌面打字工作，HHKB的蓝牙或Keychron与Nuphy的2.4GHz都足够。对于游戏或低延迟需求，则选2.4GHz或有线。"
       ]
     },
     {
-      "heading": "Japan-specific: JIS vs US layout, Topre cult status",
+      "heading": "日本特有：JIS vs US配列、Topre的崇拜地位",
       "paragraphs": [
-        "The JIS (Japanese Industrial Standard) keyboard layout differs from US ANSI layout in several ways that matter in practice. JIS keyboards have additional keys for kana input switching (無変換 / 変換 flanking the spacebar), a smaller spacebar to accommodate them, a different Enter key shape (ISO-style inverted-L rather than horizontal bar), and physical kana characters printed on keycap legends alongside the romaji. For Japanese-language typists who use romaji input (typing Japanese phonetically in roman characters that the IME converts), the extra kana keys provide convenient IME mode switching. For users who type exclusively in US layout romaji input, the JIS layout's smaller spacebar and different modifier placement can cause friction.",
-        "All five products in this comparison are available in either JIS or US ANSI variants on the Japanese market, with varying availability. The HHKB Professional Hybrid Type-S is available in both JIS and US layouts on Rakuten and at specialty retailers — and the choice is significant because HHKB keycaps are non-standard Topre stem and difficult to replace, meaning the layout you buy is likely the layout you keep. The Realforce R3 similarly offers both layouts; its full-size configuration in JIS is the dominant choice for Japanese corporate environments. Keychron Q1 Pro and Nuphy Air75 V2 are primarily US ANSI layout products, with JIS versions available through Japanese domestic importers and specialist keyboard retailers at a price premium.",
-        "The Topre cult status in Japanese engineering and programming communities is real and has a specific history. The HHKB — Happy Hacking Keyboard — was designed in 1996 by Professor Eiiti Wada of the University of Tokyo and manufactured by PFU Limited (now Fujitsu division). Its layout philosophy prioritizes the positions of Ctrl, Delete, and Backspace for Unix/Emacs users, placing Ctrl where Caps Lock sits on standard boards. This resonated deeply with the software engineering culture of the late 1990s and 2000s at Japanese technology companies, universities, and research institutions. The HHKB developed a reputation not only as a capable keyboard but as a cultural artifact associated with serious programmers — a reputation that has persisted even as the mechanical keyboard hobby expanded with offerings that match or exceed it on measurable performance metrics. The Realforce shares the Topre switch platform and carries similar professional credibility, particularly in financial industry and administrative contexts."
+        "JIS（日本工业标准）键盘配列在多个实际重要的方面与US ANSI配列不同。JIS键盘有额外的假名输入切换键（位于空格键两侧的無変換/変換）、为容纳它们而更小的空格键、不同形状的回车键（ISO式的倒L形而非横条形），以及键帽刻印上与罗马字并列印刷的物理假名字符。对于使用罗马字输入（用罗马字符按音节输入日语再由IME转换）的日语打字者，额外的假名键提供了便捷的IME模式切换。对于完全使用US配列罗马字输入的用户，JIS配列更小的空格键和不同的修饰键位置可能造成摩擦。",
+        "本次对比中的全部五款产品在日本市场上都有JIS或US ANSI版本可选，但供应情况各异。HHKB Professional Hybrid Type-S在乐天和专门零售商处都有JIS和US配列两种版本——而这个选择很重要，因为HHKB键帽是非标准的Topre轴心、难以更换，意味着你买到的配列很可能就是你将一直使用的配列。Realforce R3同样提供两种配列；其JIS全尺寸配置是日本企业环境的主流选择。Keychron Q1 Pro和Nuphy Air75 V2主要是US ANSI配列产品，JIS版本可通过日本国内进口商和专业键盘零售商以溢价购得。",
+        "Topre在日本工程与编程社区中的崇拜地位是真实的，并且有着特定的历史。HHKB——Happy Hacking Keyboard——由东京大学的和田英一教授于1996年设计，由PFU株式会社（现为富士通旗下部门）制造。其配列理念优先考虑了Unix/Emacs用户所需的Ctrl、Delete和Backspace的位置，将Ctrl放在标准键盘上Caps Lock所在的位置。这与1990年代末和2000年代日本科技公司、大学和研究机构的软件工程文化产生了深刻共鸣。HHKB不仅赢得了一款出色键盘的声誉，更成为与严肃程序员相关联的文化符号——即便机械键盘爱好领域已经扩展出在可测量性能指标上能匹敌甚至超越它的产品，这一声誉依然延续。Realforce共享Topre轴体平台，并具有类似的专业可信度，尤其是在金融行业和行政场景中。"
       ]
     },
     {
-      "heading": "What changed in 2026",
+      "heading": "2026年发生了哪些变化",
       "paragraphs": [
-        "Gasket-mount 75% is now the mainstream sweet spot. Three years ago, gasket-mount construction at a reasonable price meant paying ¥40,000+ for boutique group-buy boards. In 2026, the Keychron Q1 Pro and Nuphy Air75 V2 have brought gasket-mount aluminum construction into the ¥20,000–¥30,000 range with wireless as standard. The question is no longer whether to get a gasket-mount board, but which 75% wireless gasket-mount board best fits your switch and aesthetic preferences.",
-        "Hot-swap has become the standard expectation at ¥15,000 and above. In 2024, hot-swap sockets (which allow switch removal and replacement without soldering) were a premium feature. By 2026, they are expected on any board above the entry tier. The Keychron Q1 Pro and Nuphy Air75 V2 both support hot-swap for MX-compatible switches, meaning switch preferences can be changed after purchase. The HHKB and Realforce — using proprietary Topre mechanisms — remain non-hot-swappable as a fundamental characteristic of the platform.",
-        "The wireless quality gap with wired has closed for typing use cases. Concerns about 2.4GHz and Bluetooth reliability that were legitimate in 2020–2022 — dropout frequency, pairing stability across device switches, battery life degradation — have improved significantly in current-generation implementations. The Keychron Q1 Pro's multi-device Bluetooth pairing (up to 3 devices) and 4000mAh battery covering several weeks of typical use represent a meaningful step. Nuphy Air75 V2's 3000mAh battery and 2.4GHz dongle are similarly reliable for desk use. Neither wireless implementation is perfect under heavy RF interference or across large open-plan offices, but for a single-desk home office or private office setup, wireless from these boards is a practical daily driver."
+        "Gasket结构的75%如今已是主流甜点位。三年前，以合理价格获得Gasket结构意味着要为精品团购键盘支付¥40,000以上。到了2026年，Keychron Q1 Pro和Nuphy Air75 V2已将Gasket结构铝合金做工带入¥20,000–¥30,000区间，且无线已成为标配。问题不再是要不要买一块Gasket结构键盘，而是哪一块75%无线Gasket结构键盘最契合你的轴体和审美偏好。",
+        "热插拔在¥15,000及以上已成为标准期待。在2024年，热插拔轴座（允许无需焊接即可拆装轴体）还是一项高端功能。到2026年，任何高于入门级别的键盘都被预期具备它。Keychron Q1 Pro和Nuphy Air75 V2都支持MX兼容轴的热插拔，意味着购买后仍可更换轴体偏好。HHKB和Realforce——使用专有的Topre机制——作为该平台的根本特性，仍然不可热插拔。",
+        "在打字用途上，无线与有线之间的品质差距已经弥合。2020–2022年间合理存在的关于2.4GHz和蓝牙可靠性的担忧——掉线频率、跨设备切换的配对稳定性、电池寿命衰减——在当前一代实现中已显著改善。Keychron Q1 Pro的多设备蓝牙配对（最多3台设备）和覆盖数周典型使用的4000mAh电池是一项有意义的进步。Nuphy Air75 V2的3000mAh电池和2.4GHz接收器在桌面使用上同样可靠。在强烈的射频干扰下或大型开放式办公室中，两种无线实现都不完美，但对于单一桌面的家庭办公或私人办公环境，这两块键盘的无线都是实用的日常主力。"
       ]
     },
     {
-      "heading": "Where each fits",
+      "heading": "各款适合谁",
       "paragraphs": [
-        "Enthusiast home office, gasket-mount 75%, wireless, QMK/VIA programmability, hot-swap, full aluminum build, south-facing RGB: Keychron Q1 Pro. The combination of wireless flexibility, programmable firmware, and gasket-mount construction at approximately ¥30,000 represents the most complete feature set for a home office typist who wants customization without entering the boutique group-buy market. Available on Rakuten Ichiba. weight is approximately 2kg, which makes it a poor travel keyboard; the base model lacks the volume knob (available only on the knob upgrade variant at additional cost); QMK firmware setup has a real learning curve — users who want plug-and-play will be frustrated; ¥30,000 is expensive for a 75% that does not include switches in many purchase configurations.",
-        "Programming-centric 60% workflow, electrostatic capacitive switch feel, ultra-quiet office operation, Bluetooth multi-device, Japanese engineering provenance: HHKB Professional Hybrid Type-S. For users who have spent time with Topre switches and value the specific feel of electrostatic capacitive actuation, nothing in this comparison replicates it. The Type-S silencing makes it genuinely office-appropriate despite being a mechanical-adjacent keyboard. Available on Rakuten Ichiba. ¥35,000+ for a 60% board with no RGB, no hot-swap, no QMK, and Topre-proprietary (non-MX) keycap stems — the value proposition is entirely the Topre typing experience and HHKB layout philosophy; Bluetooth-only wireless with no 2.4GHz dongle option; Topre switches are an acquired taste that divides opinion sharply — users coming from MX tactile boards often find the feel underwhelming before adapting; the small Topre keycap aftermarket limits customization.",
-        "Office productivity, multi-device wireless, per-key backlighting, low-profile feel, Flow multi-device: Logicool MX Keys S. For users who prioritize office typing comfort and multi-device workflow over mechanical switch feel, the MX Keys S is the most polished non-mechanical option in this comparison. Available on Rakuten Ichiba. it is not a mechanical keyboard — the scissor switch mechanism is categorically different from any MX or Topre switch, and users expecting mechanical switch feel will be disappointed; not meaningfully customizable or programmable beyond Logi Options+ software macros; relatively quiet but lacks the tactile satisfaction of a good MX tactile or Topre switch for users who value switch feedback; the low-profile key travel of approximately 1.8mm is a preference divisor.",
-        "Low-profile wireless, slim desk aesthetic, gasket-mount 75%, budget entry to aluminum build: Nuphy Air75 V2. For users who want gasket-mount wireless in a slimmer package than the Keychron Q1 Pro at a lower price point, the Air75 V2 delivers the core construction quality at approximately ¥20,000. Available on Rakuten Ichiba. low-profile switches divide user opinion — the reduced key travel (approximately 2.5–3mm versus 4mm for standard MX) feels less satisfying for users who value the full travel arc of standard mechanical switches; the modding and enthusiast community around Nuphy is smaller than Keychron, meaning fewer aftermarket guides, custom firmware options, and community resources; battery life is shorter than HHKB; firmware update cadence has been slow compared to Keychron.",
-        "Professional full-size or TKL, Japanese-manufactured Topre, actuation point adjustment, corporate or financial industry use: Realforce R3. For users who need a full-size or TKL keyboard with professional-grade build quality and want the Topre feel with actuation point configurability, the Realforce R3 is the most capable option in this comparison. Available on Rakuten Ichiba. ¥40,000+ for a full-size keyboard with no wireless on most variants, no RGB lighting system comparable to competition, and significant weight — the value proposition is entirely in build quality, Topre mechanism precision, and made-in-Japan manufacturing provenance; APC (actuation point changer) software configuration requires time investment; the full-size footprint is large and heavy for a home desk that also needs space for a mouse; Topre keycap ecosystem limitations apply as they do with HHKB."
+        "爱好级家庭办公、Gasket结构75%、无线、QMK/VIA可编程、热插拔、全铝合金做工、南向RGB：Keychron Q1 Pro。无线灵活性、可编程固件与Gasket结构在约¥30,000价位上的结合，对于想要定制化又不愿进入精品团购市场的家庭办公打字者而言，代表了最完整的功能组合。可在乐天市场购买。重量约2kg，使其不适合作为旅行键盘；基础款没有音量旋钮（仅在旋钮升级版上额外付费提供）；QMK固件设置有真实的学习曲线——想要即插即用的用户会感到挫败；对于在许多购买配置中不含轴体的75%键盘，¥30,000价格偏高。",
+        "以编程为中心的60%工作流、静电容轴手感、超静音办公运行、蓝牙多设备、日本工艺出身：HHKB Professional Hybrid Type-S。对于花过时间体验Topre轴并珍视静电容触发那种特定手感的用户，本次对比中没有任何产品能复现它。Type-S的静音处理使其尽管是一款机械相邻键盘却真正适合办公。可在乐天市场购买。¥35,000+换来的是一块没有RGB、没有热插拔、没有QMK、并采用Topre专有（非MX）键帽轴心的60%键盘——其价值主张完全在于Topre打字体验和HHKB配列理念；仅蓝牙无线、没有2.4GHz接收器选项；Topre轴是一种需要适应的口味，意见分歧明显——来自MX段落轴键盘的用户在适应之前常觉得手感平淡；小众的Topre键帽售后市场限制了定制化。",
+        "办公生产力、多设备无线、单键背光、低矮手感、Flow多设备：Logicool MX Keys S。对于把办公打字舒适度和多设备工作流置于机械轴手感之上的用户，MX Keys S是本次对比中最精致的非机械选项。可在乐天市场购买。它不是机械键盘——剪刀脚轴机制与任何MX或Topre轴有本质不同，期待机械轴手感的用户会失望；除了Logi Options+软件宏之外没有实质性的可定制或可编程性；相对安静，但对珍视轴体反馈的用户而言，缺乏优秀MX段落轴或Topre轴的触感满足；约1.8mm的低矮键程是一个偏好分水岭。",
+        "低矮无线、纤薄桌面美学、Gasket结构75%、铝合金做工的预算入门：Nuphy Air75 V2。对于想要比Keychron Q1 Pro更纤薄机身的Gasket结构无线、且价位更低的用户，Air75 V2以约¥20,000交付了核心的做工品质。可在乐天市场购买。低矮轴体意见分歧——缩短的键程（约2.5–3mm，而标准MX为4mm）对珍视标准机械轴完整行程弧线的用户而言不够满足；围绕Nuphy的改装与爱好者社区比Keychron小，意味着更少的售后指南、自定义固件选项和社区资源；电池续航短于HHKB；固件更新节奏相比Keychron较慢。",
+        "专业全尺寸或TKL、日本制造的Topre、触发点可调、企业或金融行业使用：Realforce R3。对于需要专业级做工的全尺寸或TKL键盘、并想要带触发点可配置性的Topre手感的用户，Realforce R3是本次对比中最有能力的选项。可在乐天市场购买。¥40,000+换来的是一块大多数版本不带无线、没有可与对手相比的RGB灯光系统、且重量可观的全尺寸键盘——其价值主张完全在于做工品质、Topre机制的精度和日本制造的出身；APC（触发点调节器）软件配置需要投入时间；全尺寸占用面积大且重，对于还需要鼠标空间的家庭桌面而言偏大；Topre键帽生态的限制与HHKB一样适用。"
       ]
     },
     {
-      "heading": "Verdict",
+      "heading": "结论",
       "paragraphs": [
-        "For a home office enthusiast who wants wireless, programmability, hot-swap flexibility, and gasket-mount build at a single reasonable price: Keychron Q1 Pro. Accept the weight and the QMK learning curve. The 2kg body stays on your desk — it is not a portability purchase. Buy it without switches if you want to experiment with the hot-swap socket; the Gateron G Pro 3.0 linears shipping with most JP variants are a solid default.",
-        "For a programmer or software engineer who has spent time on Topre and wants the quietest possible operation with the HHKB layout philosophy: HHKB Professional Hybrid Type-S. Do not buy it to try Topre for the first time — the price is too high for a preference experiment. If you have used a Realforce or older HHKB and already know you prefer Topre, the Type-S is the most refined version of that experience.",
-        "For a multi-device office worker who types all day, switches between Mac, Windows, and iPad, wants wireless with no dongle, and does not need mechanical switch feel: Logicool MX Keys S. It is not a mechanical keyboard and makes no pretense of being one. It is the most practical typing tool in this comparison for high-volume office work across multiple devices.",
-        "For a compact, slim, wireless desk setup where the Keychron Q1 Pro's weight and footprint are a problem: Nuphy Air75 V2. The lower price and slimmer profile make it the right choice if you find the standard Keychron Q1 Pro too heavy or too tall for your preferred desk height. Accept the smaller community and slower firmware updates.",
-        "For a Japanese corporate or professional environment — financial services, administration, research institution — where full-size or TKL with professional build quality and made-in-Japan provenance matters: Realforce R3. The price is real and the lack of wireless on most models is a genuine tradeoff. It earns its position in environments where it has decades of real-world validation.",
-        "One note that applies across all five: no keyboard fixes a poor typing posture or mismatched desk-chair height. Wrist strain from extended typing sessions is primarily an ergonomics problem — keyboard angle, wrist rest placement, desk height relative to elbow — before it is a switch-feel problem. The right keyboard supports a correct setup; it does not substitute for one."
+        "对于想要无线、可编程性、热插拔灵活性和Gasket结构做工、且只想付一个合理价格的家庭办公爱好者：Keychron Q1 Pro。接受它的重量和QMK的学习曲线。2kg的机身会一直留在你的桌上——这不是一次便携性的购买。如果你想用热插拔轴座做实验，可以购买不含轴体的版本；大多数日版随附的Gateron G Pro 3.0线性轴是一个稳妥的默认选择。",
+        "对于花过时间体验Topre、想要以HHKB配列理念获得尽可能安静运行的程序员或软件工程师：HHKB Professional Hybrid Type-S。不要为了第一次尝试Topre而购买它——为一次偏好实验而言价格太高。如果你用过Realforce或更早的HHKB、已经确定自己偏好Topre，那么Type-S是这种体验最精炼的版本。",
+        "对于整天打字、在Mac、Windows和iPad之间切换、想要无接收器无线、且不需要机械轴手感的多设备办公人员：Logicool MX Keys S。它不是机械键盘，也不假装是。它是本次对比中跨多设备高强度办公工作最实用的打字工具。",
+        "对于Keychron Q1 Pro的重量和占用面积成为问题的紧凑、纤薄、无线桌面布置：Nuphy Air75 V2。更低的价格和更纤薄的机身使它成为正确选择——如果你觉得标准的Keychron Q1 Pro对你偏好的桌面高度而言太重或太高。接受较小的社区和较慢的固件更新。",
+        "对于日本企业或专业环境——金融服务、行政、研究机构——在那里全尺寸或TKL搭配专业做工和日本制造出身很重要：Realforce R3。价格是真实的，大多数型号缺乏无线是一个实在的取舍。在那些已有数十年真实世界验证的环境中，它配得上自己的位置。",
+        "有一点适用于全部五款：没有任何键盘能纠正糟糕的打字姿势或不匹配的桌椅高度。长时间打字带来的手腕劳损主要是人体工学问题——键盘角度、腕托摆放、桌面相对于肘部的高度——其次才是轴体手感问题。合适的键盘支撑一个正确的布置；它不能替代一个正确的布置。"
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Which switch type should a beginner choose — linear, tactile, or clicky?",
-      "a": "For beginners who type primarily documents and code in a home or private office: tactile switches (Gateron Brown, Gateron G Pro 3.0 Brown, or equivalent) provide feedback at the actuation point without the noise of clicky switches. The tactile bump helps confirm actuation without looking at the screen, which most new mechanical keyboard users find helpful during the adjustment period. Linear switches (Red, Yellow, Speed variants) suit gamers and fast typists who want the smoothest possible keystroke without feedback; they require learning to trust the actuation depth rather than feeling for a bump. Clicky switches (Blue, Green) are satisfying for solo typing but are inappropriate in shared office environments — the audible click at 60–70dB is disruptive enough to generate complaints. If you are in a shared office, start with tactile browns or a silent switch variant. If you are solo, try a tactile first and move to linear if you find the bump impedes your typing rhythm."
+      "q": "初学者应该选哪种轴体——线性、段落还是咔哒？",
+      "a": "对于主要在家庭或私人办公室打文档和写代码的初学者：段落轴（Gateron茶轴、Gateron G Pro 3.0茶轴或同等型号）能在触发点提供反馈，又没有咔哒轴的噪音。段落凸起有助于在不看屏幕的情况下确认触发，大多数新机械键盘用户在适应期会觉得这很有帮助。线性轴（红轴、黄轴、Speed版本）适合想要最平滑按键且不要反馈的游戏玩家和快速打字者；它们需要学会信任触发深度，而不是去感受凸起。咔哒轴（青轴、绿轴）对独自打字来说很有满足感，但不适合共享办公环境——60–70dB的可闻咔哒声足以引发抱怨。如果你在共享办公室，从段落茶轴或静音轴版本开始。如果你独处，先试段落轴，如果你发现凸起妨碍了你的打字节奏，再换成线性轴。"
     },
     {
-      "q": "Is hot-swap necessary, or can I commit to one switch type?",
-      "a": "Hot-swap sockets are useful if you are uncertain about switch preference, want to experiment over time, or anticipate changing switches when worn. They are less necessary if you have typed on enough switches to know your preference and are buying a board specifically for that switch type. The HHKB Professional Hybrid Type-S and Realforce R3 are both non-hot-swappable — their Topre mechanism is integral to the board design and cannot be separated. If Topre feel is the reason you are buying either, the lack of hot-swap is irrelevant. If you are buying an MX-compatible board (Keychron Q1 Pro, Nuphy Air75 V2) and are uncertain about switches, hot-swap support means your switch investment is not locked in — a bag of Gateron Yellow linears costs ¥1,500–¥3,000 and takes ten minutes to swap on a hot-swap board. It is a practical insurance policy worth having at this price tier."
+      "q": "热插拔是必需的吗，还是我可以认定一种轴体？",
+      "a": "如果你对轴体偏好不确定、想随时间做实验、或预期在磨损时更换轴体，热插拔轴座很有用。如果你已经打过足够多的轴体、清楚自己的偏好、并且专门为那种轴体购买键盘，那么它就没那么必需。HHKB Professional Hybrid Type-S和Realforce R3都不可热插拔——它们的Topre机制是键盘设计不可分割的一部分，无法分离。如果Topre手感正是你购买它们任一款的原因，那么缺乏热插拔无关紧要。如果你购买的是MX兼容键盘（Keychron Q1 Pro、Nuphy Air75 V2）并且对轴体不确定，热插拔支持意味着你对轴体的投入不会被锁死——一袋Gateron黄轴线性轴花费¥1,500–¥3,000，在热插拔键盘上更换只需十分钟。在这个价位档，它是一份值得拥有的实用保险。"
     },
     {
-      "q": "Is a mechanical keyboard appropriate for a shared office environment?",
-      "a": "It depends on the specific switch. Clicky switches (Blue, Green) are not appropriate for shared open-plan offices — the sound is disruptive to nearby colleagues and is one of the more common workplace friction sources from keyboard choice. Tactile switches (Brown variants) are borderline — the typing sound on a tray-mount board with ABS keycaps can be louder than expected; on a gasket-mount board with PBT keycaps and a desk mat, the same switches become office-acceptable. Silent switch variants — Gateron Silent Red, Cherry MX Silent Red, and the HHKB Professional Hybrid Type-S's silenced Topre domes — are specifically engineered for shared environments and measure below most laptop keyboards for noise output. The Logicool MX Keys S scissor switch is inherently quiet and is appropriate for any shared office. If in doubt: silent switches on a gasket-mount board with a desk mat and PBT keycaps is the quietest mechanical-adjacent configuration without switching to the MX Keys S."
+      "q": "机械键盘适合共享办公环境吗？",
+      "a": "这取决于具体的轴体。咔哒轴（青轴、绿轴）不适合共享开放式办公室——声音会干扰邻近的同事，是由键盘选择引发的较常见的职场摩擦源之一。段落轴（茶轴版本）处于边缘——在配ABS键帽的托盘结构键盘上的打字声可能比预期更响；在配PBT键帽和桌垫的Gasket结构键盘上，同样的轴体就变得办公可接受。静音轴版本——Gateron静音红轴、Cherry MX静音红轴，以及HHKB Professional Hybrid Type-S的静音Topre橡胶碗——是专门为共享环境设计的，其噪音输出低于大多数笔记本电脑键盘。Logicool MX Keys S的剪刀脚轴天生安静，适合任何共享办公室。如果拿不准：在配桌垫和PBT键帽的Gasket结构键盘上使用静音轴，是不切换到MX Keys S的前提下最安静的机械相邻配置。"
     },
     {
-      "q": "Should I choose JIS or US ANSI layout in Japan?",
-      "a": "If you type Japanese primarily using romaji input (kana entry via roman characters converted by the IME), US ANSI layout is viable and preferred by many programmers and developers for its consistent punctuation placement — the JIS layout moves many symbols to non-standard positions that can cause friction when switching between Japanese and English character entry. If you type Japanese using kana direct input (pressing physical kana keys or using the kana toggle keys flanking the spacebar on JIS boards), JIS layout is necessary. For users who frequently switch between Japanese corporate environments (where JIS keyboards are universal on shared workstations) and their personal keyboard, using US layout on the personal board creates a muscle-memory switch cost each time — something to weigh if you regularly use shared machines. The HHKB is particularly associated with US ANSI layout among programmer users due to its Ctrl key placement philosophy, though JIS variants exist."
+      "q": "在日本我应该选JIS还是US ANSI配列？",
+      "a": "如果你主要使用罗马字输入打日语（通过IME转换的罗马字符进行假名录入），US ANSI配列可行，并因其一致的标点位置而被许多程序员和开发者所偏爱——JIS配列将许多符号移到了非标准位置，在日英字符录入之间切换时可能造成摩擦。如果你使用假名直接输入打日语（按物理假名键或使用JIS键盘上空格键两侧的假名切换键），则需要JIS配列。对于经常在日本企业环境（共享工作台普遍使用JIS键盘）和自己的个人键盘之间切换的用户，在个人键盘上使用US配列会在每次切换时带来肌肉记忆的成本——如果你经常使用共享机器，这一点值得权衡。由于其Ctrl键位置的理念，HHKB在程序员用户中尤其与US ANSI配列相关联，不过也存在JIS版本。"
     },
     {
-      "q": "Are Topre keycaps compatible with MX switches and vice versa?",
-      "a": "No. Topre switches use a proprietary stem design (often called Topre stem or HHKB stem) that is not compatible with MX-compatible keycaps, which use a cross (+) stem design. MX-compatible keycaps from the vast aftermarket — GMK, PBT sets, Akko keycaps, Keychron keycap sets — will not mount on HHKB or Realforce switches without an adapter. Adapters called 'Topre-to-MX sliders' exist (most commonly 'novatouch sliders' or compatible equivalents), which replace the Topre slider mechanism with an MX-compatible stem, allowing standard MX keycaps to be mounted on a Topre board — but this modification voids warranty, requires careful installation, and changes the feel of the Topre mechanism. The practical advice: if keycap customization is important to your purchase decision, an MX-compatible board (Keychron Q1 Pro, Nuphy Air75 V2) gives you access to thousands of keycap sets. If you are buying an HHKB or Realforce for the Topre experience, accept that the keycap options are limited to Topre-compatible sets, which are fewer in number but include high-quality PBT options from HHKB directly and from third-party sellers."
+      "q": "Topre键帽与MX轴兼容吗，反之呢？",
+      "a": "不兼容。Topre轴使用专有的轴心设计（常称为Topre轴心或HHKB轴心），与采用十字（+）轴心设计的MX兼容键帽不兼容。来自庞大售后市场的MX兼容键帽——GMK、PBT套装、Akko键帽、Keychron键帽套装——在没有转接件的情况下无法安装到HHKB或Realforce的轴上。存在被称为'Topre转MX滑块'的转接件（最常见的是'novatouch滑块'或兼容的同类产品），它们用MX兼容轴心替换Topre滑块机制，从而允许在Topre键盘上安装标准MX键帽——但这种改装会使保修失效、需要谨慎安装，并且会改变Topre机制的手感。实用建议是：如果键帽定制对你的购买决定很重要，那么MX兼容键盘（Keychron Q1 Pro、Nuphy Air75 V2）能让你接触到成千上万套键帽。如果你为了Topre体验而购买HHKB或Realforce，请接受键帽选择仅限于Topre兼容套装，它们数量较少，但包括来自HHKB官方和第三方卖家的高品质PBT选项。"
     },
     {
-      "q": "What is the realistic battery life for wireless keyboards in daily use?",
-      "a": "Battery life varies significantly by backlight use and connection mode. The Keychron Q1 Pro with RGB backlight enabled runs approximately 3–4 days on a full charge under heavy use; with backlight off, the claimed battery life extends to several weeks. Nuphy Air75 V2 is similar — RGB on reduces battery life dramatically, RGB off enables extended use. The HHKB Professional Hybrid Type-S uses AA batteries (two), which last approximately 3 months under typical Bluetooth use — no USB charging required, and battery replacement is a practical advantage over boards that must be connected for charging. The Logicool MX Keys S charges via USB-C and claims approximately 10 days with backlight on, and up to 5 months with backlight off — among the best battery performance in this comparison under light-backlight conditions. For practical daily use: expect to charge any RGB-enabled wireless keyboard weekly if you keep the backlight on, and monthly or longer if you run the backlight off."
+      "q": "无线键盘在日常使用中的实际电池续航是多少？",
+      "a": "电池续航因背光使用和连接模式而有显著差异。Keychron Q1 Pro在开启RGB背光时，重度使用下满电约可用3–4天；关闭背光后，宣称的电池续航可延长至数周。Nuphy Air75 V2类似——开启RGB会大幅缩短续航，关闭RGB则可延长使用。HHKB Professional Hybrid Type-S使用AA电池（两节），在典型蓝牙使用下约可持续3个月——无需USB充电，更换电池相比必须连线充电的键盘是一项实用优势。Logicool MX Keys S通过USB-C充电，宣称开启背光约10天、关闭背光最长可达5个月——在弱背光条件下属于本次对比中最佳的电池表现之一。就实际日常使用而言：如果你保持背光开启，预期任何带RGB的无线键盘都需要每周充一次；如果关闭背光，则每月或更久充一次。"
     }
   ],
   "offerNotes": {
-    "keychron-q1-pro": "Keychron Q1 Pro — gasket-mounted 75% layout, Bluetooth 5.1 and 2.4GHz wireless, QMK/VIA programmable firmware, full aluminum body (approximately 2kg), south-facing RGB, hot-swap MX-compatible sockets, approximately ¥30,000. Available on Rakuten Ichiba. weight of approximately 2kg makes it unsuitable for travel or lap use; the volume knob is absent on the base model and requires upgrading to the knob variant at additional cost; QMK firmware configuration has a genuine learning curve that casual users will find frustrating — if you want plug-and-play, VIA alone (which is simpler) covers most use cases but lacks the full power of QMK; ¥30,000 is a significant price for a 75% keyboard, particularly when switch cost is additional in barebones configurations.",
-    "hhkb-professional-hybrid-type-s": "HHKB Professional Hybrid Type-S — electrostatic capacitive Topre switches with silenced domes (Type-S variant), ultra-quiet operation, 60% layout with HHKB's Ctrl-over-Caps-Lock philosophy, Bluetooth 4.2 and USB-C, compatible with Mac, Windows, iOS, and Android, ¥35,000+. Available on Rakuten Ichiba. ¥35,000+ for a 60% keyboard with no RGB, no QMK/VIA programmability, no hot-swap, no 2.4GHz dongle option, and Topre-proprietary non-MX keycap stems is a value proposition that depends entirely on appreciating the Topre feel — users expecting MX-like tactility will be underwhelmed; Bluetooth-only wireless means higher latency than 2.4GHz; the small Topre keycap aftermarket limits aesthetic customization; the 60% layout requires a layer-switching adjustment period that causes friction for users who regularly switch between the HHKB and a full-size board.",
-    "logicool-mx-keys-s": "Logicool MX Keys S — scissor-switch (not mechanical), low-profile, Bluetooth and Logi Bolt 2.4GHz wireless, per-key backlighting, Flow multi-device switching (up to three devices), approximately ¥17,000–¥20,000. Available on Rakuten Ichiba. it is not a mechanical keyboard — the scissor mechanism is categorically different from MX or Topre switches and buyers expecting mechanical switch feel will be disappointed; not meaningfully programmable beyond Logi Options+ macros; the low-profile 1.8mm key travel is shorter than standard mechanical and divides user preference; the tactile feedback is noticeably less defined than any MX tactile or Topre switch, which some users find unsatisfying for extended typing sessions.",
-    "nuphy-air75-v2": "Nuphy Air75 V2 — ultra-slim gasket-mounted 75% layout, low-profile mechanical switches (Gateron or Nuphy low-profile variants), Bluetooth 5.1 and 2.4GHz wireless, aluminum chassis, hot-swap MX low-profile compatible sockets, approximately ¥20,000. Available on Rakuten Ichiba. low-profile switches with approximately 2.5–3mm travel divide opinion — users accustomed to standard 4mm MX travel find them less satisfying; the enthusiast modding and community ecosystem around Nuphy is significantly smaller than Keychron, meaning fewer aftermarket firmware guides, custom keycap set compatibility notes, and community troubleshooting resources; battery life with RGB enabled is shorter than the Keychron Q1 Pro; firmware update cadence has been slower and less consistent than Keychron's update history.",
-    "realforce-r3": "Realforce R3 — electrostatic capacitive Topre mechanism, full-size (104-key) and TKL (87-key) variants, actuation point changer (APC) adjustable from 1.5mm to 3mm, manufactured in Japan by Topre Corporation, PBT keycaps standard, available in JIS and US ANSI layouts, ¥40,000+ for full-size. Available on Rakuten Ichiba. ¥40,000+ for a full-size keyboard with no wireless on most R3 variants (wired USB-C only), no RGB lighting system comparable to Keychron or Nuphy, and significant weight makes it a purely desk-bound investment; APC configuration requires dedicated software setup; the Topre keycap ecosystem limitations apply — aftermarket keycap options are far fewer than MX-compatible boards; the large full-size footprint requires substantial desk real estate that reduces mouse movement area compared to TKL or 75% layouts."
+    "keychron-q1-pro": "Keychron Q1 Pro——Gasket结构75%配列、蓝牙5.1与2.4GHz无线、QMK/VIA可编程固件、全铝合金机身（约2kg）、南向RGB、热插拔MX兼容轴座，约¥30,000。可在乐天市场购买。约2kg的重量使其不适合旅行或放在腿上使用；基础款没有音量旋钮，需升级到旋钮版本并额外付费；QMK固件配置有真实的学习曲线，休闲用户会觉得挫败——如果你想要即插即用，仅用VIA（更简单）就能覆盖大多数使用场景，但缺乏QMK的全部能力；¥30,000对一块75%键盘是不小的价格，尤其在裸机配置中轴体成本还需另算。",
+    "hhkb-professional-hybrid-type-s": "HHKB Professional Hybrid Type-S——带静音橡胶碗的静电容Topre轴（Type-S版本）、超静音运行、采用HHKB的Ctrl置于Caps Lock之上理念的60%配列、蓝牙4.2与USB-C、兼容Mac、Windows、iOS和Android，¥35,000+。可在乐天市场购买。¥35,000+换来一块没有RGB、没有QMK/VIA可编程性、没有热插拔、没有2.4GHz接收器选项、并采用Topre专有非MX键帽轴心的60%键盘，其价值主张完全取决于是否欣赏Topre手感——期待MX般触感的用户会觉得平淡；仅蓝牙无线意味着比2.4GHz更高的延迟；小众的Topre键帽售后市场限制了外观定制；60%配列需要一段层切换的适应期，对经常在HHKB和全尺寸键盘之间切换的用户会造成摩擦。",
+    "logicool-mx-keys-s": "Logicool MX Keys S——剪刀脚轴（非机械）、低矮、蓝牙与Logi Bolt 2.4GHz无线、单键背光、Flow多设备切换（最多三台设备），约¥17,000–¥20,000。可在乐天市场购买。它不是机械键盘——剪刀脚机制与MX或Topre轴有本质不同，期待机械轴手感的买家会失望；除Logi Options+宏之外没有实质可编程性；约1.8mm的低矮键程短于标准机械，意见分歧；触感反馈明显不如任何MX段落轴或Topre轴清晰，一些用户在长时间打字时觉得不够满足。",
+    "nuphy-air75-v2": "Nuphy Air75 V2——超薄Gasket结构75%配列、低矮机械轴（Gateron或Nuphy低矮版本）、蓝牙5.1与2.4GHz无线、铝合金机身、热插拔MX低矮兼容轴座，约¥20,000。可在乐天市场购买。约2.5–3mm键程的低矮轴意见分歧——习惯标准4mm MX键程的用户觉得它们不够满足；围绕Nuphy的爱好者改装与社区生态明显小于Keychron，意味着更少的售后固件指南、自定义键帽套装兼容性说明和社区排障资源；开启RGB时的续航短于Keychron Q1 Pro；固件更新节奏比Keychron的更新历史更慢、更不一致。",
+    "realforce-r3": "Realforce R3——静电容Topre机制、全尺寸（104键）和TKL（87键）版本、触发点调节器（APC）可在1.5mm至3mm之间调节、由Topre公司在日本制造、标配PBT键帽、提供JIS和US ANSI配列，全尺寸¥40,000+。可在乐天市场购买。¥40,000+换来一块大多数R3版本没有无线（仅有线USB-C）、没有可与Keychron或Nuphy相比的RGB灯光系统、且重量可观的全尺寸键盘，使其成为纯粹固定在桌面上的投入；APC配置需要专门的软件设置；Topre键帽生态的限制同样适用——售后键帽选项远少于MX兼容键盘；大型全尺寸占用面积需要可观的桌面空间，相比TKL或75%配列减少了鼠标移动区域。"
   },
-  "pinDescription": "5 keyboards compared for 2026 home office — Keychron Q1 Pro gasket-mount wireless vs HHKB Topre cult classic vs Logicool MX Keys S (not mechanical — we say it) vs Nuphy Air75 V2 slim vs Realforce R3 Japan-made. Switch types, JIS vs US layout, wireless latency truth Desk setup starts here.",
-  "methodology": "我们依据各产品有据可查的规格参数、第三方基准测试以及经核实的用户反馈对其进行评估，并对功能、性能、做工质量、生态系统兼容性和总体拥有成本逐一评分。",
+  "pinDescription": "为2026家庭办公对比的5款键盘——Keychron Q1 Pro Gasket无线 vs HHKB Topre崇拜经典 vs Logicool MX Keys S（非机械——我们直说）vs Nuphy Air75 V2纤薄 vs Realforce R3日本制造。轴体类型、JIS vs US配列、无线延迟真相。桌面布置从这里开始。",
+  "methodology": "每款产品均依据有据可查的规格、第三方基准测试和经核实的用户反馈进行评估。我们对功能、性能、做工品质、生态兼容性和总拥有成本进行打分。",
   "products": [
     {
       "offerId": "keychron-q1-pro",
-      "badge": "Best Overall",
+      "badge": "综合最佳",
       "grade": "A+",
-      "review": "The Keychron Q1 Pro is the most complete enthusiast home-office keyboard at a reasonable price. Gasket-mounted 75% layout in a full aluminum body (approximately 2kg), QMK/VIA programmable firmware, hot-swap MX-compatible sockets, Bluetooth 5.1 plus 2.4GHz wireless, and south-facing RGB combine into a feature set that three years ago required entering boutique group-buy territory at 40,000 yen and above. The gasket mount produces a softer, lower-pitched typing acoustic than tray-mount alternatives, and the 4000mAh battery covers several weeks of typical use with backlight off. At around 30,000 yen this is meaningful spending. The honest tradeoffs: the 2kg weight rules out travel use, the volume knob is absent on the base model and requires the knob variant at additional cost, and QMK firmware has a real learning curve for users who want plug-and-play.",
+      "review": "Keychron Q1 Pro是在合理价格下最完整的爱好级家庭办公键盘。Gasket结构75%配列、全铝合金机身（约2kg）、QMK/VIA可编程固件、热插拔MX兼容轴座、蓝牙5.1加2.4GHz无线，以及南向RGB，组合成一套三年前需要进入4万日元及以上精品团购领域才能获得的功能集。Gasket结构产生比托盘结构方案更柔软、音调更低的打字声学，4000mAh电池在关闭背光下可覆盖数周典型使用。约3万日元是不小的开销。诚实的取舍是：2kg重量排除了旅行使用、基础款没有音量旋钮需额外付费选旋钮版本，且QMK固件对想要即插即用的用户有真实的学习曲线。",
       "pros": [
-        "Gasket-mount 75% aluminum body with hot-swap MX sockets",
-        "QMK/VIA programmable firmware for full key remapping",
-        "Bluetooth 5.1 plus 2.4GHz wireless with multi-device pairing",
-        "South-facing RGB and 4000mAh battery for multi-week backlight-off use"
+        "Gasket结构75%铝合金机身，配热插拔MX轴座",
+        "QMK/VIA可编程固件，支持全键位重映射",
+        "蓝牙5.1加2.4GHz无线，支持多设备配对",
+        "南向RGB与4000mAh电池，关闭背光可用数周"
       ],
       "cons": [
-        "Approximately 2kg weight rules out travel or lap use",
-        "Volume knob requires the knob upgrade variant at extra cost"
+        "约2kg重量排除了旅行或放腿上使用",
+        "音量旋钮需额外付费选旋钮升级版本"
       ]
     },
     {
       "offerId": "hhkb-professional-hybrid-type-s",
-      "badge": "Best for Programmers",
+      "badge": "程序员最佳",
       "grade": "A",
-      "review": "The HHKB Professional Hybrid Type-S is the cult-status keyboard of Japanese software engineering culture, designed by Professor Eiiti Wada in 1996 and built around a Ctrl-over-Caps-Lock layout philosophy that resonates with Unix and Emacs users. The Type-S variant uses silenced Topre electrostatic capacitive domes for genuinely office-appropriate noise levels, supports Bluetooth 4.2 plus USB-C, and pairs with Mac, Windows, iOS, and Android. The 45g Topre actuation feel — smooth tactile bump with a 'thocky' dampened sound profile — is fundamentally different from any MX switch and cannot be replicated. At 35,000 yen and up this is premium pricing, and the value proposition depends entirely on appreciating Topre. The honest tradeoffs: no RGB, no QMK/VIA, no hot-swap, no 2.4GHz dongle option, and the small Topre keycap aftermarket limits customization.",
+      "review": "HHKB Professional Hybrid Type-S是日本软件工程文化中的崇拜级键盘，由和田英一教授于1996年设计，围绕一种与Unix和Emacs用户产生共鸣的Ctrl置于Caps Lock之上的配列理念构建。Type-S版本使用静音Topre静电容橡胶碗，达到真正办公适宜的噪音水平，支持蓝牙4.2加USB-C，可与Mac、Windows、iOS和Android配对。45g的Topre触发手感——平滑的段落凸起搭配'thocky'的被抑制声音特征——与任何MX轴有根本不同，无法复制。3万5千日元起属于高端定价，其价值主张完全取决于是否欣赏Topre。诚实的取舍是：没有RGB、没有QMK/VIA、没有热插拔、没有2.4GHz接收器选项，且小众的Topre键帽售后市场限制了定制化。",
       "pros": [
-        "Silenced Topre electrostatic capacitive switches for quiet office use",
-        "HHKB Ctrl-over-Caps-Lock layout philosophy for Unix and Emacs workflows",
-        "Bluetooth 4.2 plus USB-C with multi-device pairing",
-        "PFU-manufactured build quality with cult status among Japanese engineers"
+        "静音Topre静电容轴，适合安静办公使用",
+        "HHKB的Ctrl置于Caps Lock之上配列理念，契合Unix与Emacs工作流",
+        "蓝牙4.2加USB-C，支持多设备配对",
+        "PFU制造的做工品质，在日本工程师中拥有崇拜地位"
       ],
       "cons": [
-        "35,000 yen+ with no RGB, no QMK/VIA, no hot-swap",
-        "Topre proprietary keycap stem limits aftermarket options"
+        "3万5千日元起，没有RGB、没有QMK/VIA、没有热插拔",
+        "Topre专有键帽轴心限制了售后选项"
       ]
     },
     {
       "offerId": "logicool-mx-keys-s",
-      "badge": "Best for Office Productivity",
+      "badge": "办公生产力最佳",
       "grade": "A",
-      "review": "The Logicool MX Keys S is included as an honest reference point for the office productivity use case: it is not a mechanical keyboard. The scissor mechanism with approximately 1.8mm key travel is categorically different from MX or Topre switches, and users expecting mechanical feel will be disappointed. What it does well is high-volume daily typing across multiple devices: Bluetooth plus Logi Bolt 2.4GHz wireless, Flow multi-device switching across up to three computers, per-key backlight that adapts to ambient light, and USB-C charging delivering several weeks per charge. At around 17,000-20,000 yen, this is the most polished non-mechanical option in the comparison and serves the daily-driver office keyboard role for users who prioritize typing comfort and multi-device workflow over switch feel.",
+      "review": "Logicool MX Keys S被纳入作为办公生产力使用场景的诚实参照点：它不是机械键盘。约1.8mm键程的剪刀脚机制与MX或Topre轴有本质不同，期待机械手感的用户会失望。它擅长的是跨多设备的高强度日常打字：蓝牙加Logi Bolt 2.4GHz无线、跨最多三台电脑的Flow多设备切换、随环境光自适应的单键背光，以及每次充电可用数周的USB-C充电。约1万7千至2万日元，这是本次对比中最精致的非机械选项，为把打字舒适度和多设备工作流置于轴体手感之上的用户胜任日常主力办公键盘的角色。",
       "pros": [
-        "Scissor mechanism with quiet, low-profile typing for shared offices",
-        "Flow multi-device switching across up to three computers",
-        "Per-key backlight that adapts to ambient lighting conditions",
-        "USB-C charging with up to five months battery life backlight-off"
+        "剪刀脚机制，安静、低矮的打字适合共享办公室",
+        "跨最多三台电脑的Flow多设备切换",
+        "随环境光照条件自适应的单键背光",
+        "USB-C充电，关闭背光续航最长达五个月"
       ],
       "cons": [
-        "Not a mechanical keyboard — no MX or Topre switch feel",
-        "Not programmable beyond Logi Options+ macros"
+        "不是机械键盘——没有MX或Topre轴手感",
+        "除Logi Options+宏外不可编程"
       ]
     },
     {
       "offerId": "nuphy-air75-v2",
-      "badge": "Best Slim Profile",
+      "badge": "纤薄机身最佳",
       "grade": "B+",
-      "review": "The Nuphy Air75 V2 is the slim gasket-mount 75% pick at a lower price than the Keychron Q1 Pro. Low-profile mechanical switches (Gateron or Nuphy low-profile variants) with approximately 2.5-3mm travel suit users who find standard 4mm MX travel unnecessarily deep, and the aluminum chassis with hot-swap MX low-profile sockets retains enthusiast customizability. Bluetooth 5.1 plus 2.4GHz dongle wireless covers desk use reliably, and at around 20,000 yen this is the lowest-priced gasket-mount aluminum 75% option in the comparison. The honest tradeoffs: low-profile switches divide opinion — users accustomed to standard MX travel find them less satisfying, the Nuphy enthusiast modding community is significantly smaller than Keychron's, battery life with RGB enabled is shorter than the Q1 Pro, and firmware updates have been slower and less consistent than Keychron's history.",
+      "review": "Nuphy Air75 V2是价格低于Keychron Q1 Pro的纤薄Gasket结构75%之选。约2.5-3mm键程的低矮机械轴（Gateron或Nuphy低矮版本）适合觉得标准4mm MX键程过深的用户，铝合金机身配热插拔MX低矮轴座保留了爱好级的可定制性。蓝牙5.1加2.4GHz接收器无线可靠覆盖桌面使用，约2万日元，是本次对比中价格最低的Gasket结构铝合金75%选项。诚实的取舍是：低矮轴意见分歧——习惯标准MX键程的用户觉得不够满足、Nuphy的爱好者改装社区明显小于Keychron、开启RGB时续航短于Q1 Pro，且固件更新比Keychron的历史更慢、更不一致。",
       "pros": [
-        "Slim gasket-mount aluminum 75% at around 20,000 yen",
-        "Low-profile mechanical switches with hot-swap MX low-profile sockets",
-        "Bluetooth 5.1 plus 2.4GHz dongle wireless",
-        "Compact desk footprint for tight setups"
+        "约2万日元的纤薄Gasket结构铝合金75%",
+        "低矮机械轴，配热插拔MX低矮轴座",
+        "蓝牙5.1加2.4GHz接收器无线",
+        "紧凑的桌面占用面积，适合局促布置"
       ],
       "cons": [
-        "Low-profile 2.5-3mm travel divides preference vs standard MX",
-        "Smaller modding community and slower firmware update cadence"
+        "2.5-3mm低矮键程相比标准MX存在偏好分歧",
+        "改装社区较小，固件更新节奏较慢"
       ]
     },
     {
       "offerId": "realforce-r3",
-      "badge": "Best for Professional Use",
+      "badge": "专业使用最佳",
       "grade": "B+",
-      "review": "The Realforce R3 is the professional-grade Topre full-size and TKL option made in Japan by Topre Corporation. The 45g electrostatic capacitive mechanism is paired with an actuation point changer (APC) adjustable from 1.5mm to 3mm, giving per-key sensitivity tuning that no other keyboard in this comparison offers. PBT keycaps come standard, both JIS and US ANSI layouts are available, and the full-size variant supports the numpad-heavy data entry workflows common in Japanese corporate, financial, and administrative environments. At 40,000 yen and up for the full-size, this is premium pricing for a wired keyboard with no RGB. The honest tradeoffs: most R3 variants are wired-only (the R3S has Bluetooth on select configurations), the full-size footprint limits mouse-movement area, and Topre keycap ecosystem limitations apply as they do for HHKB.",
+      "review": "Realforce R3是由Topre公司在日本制造的专业级Topre全尺寸和TKL选项。45g静电容机制搭配可在1.5mm至3mm之间调节的触发点调节器（APC），提供本次对比中其他键盘都没有的逐键灵敏度调校。标配PBT键帽、提供JIS和US ANSI两种配列，全尺寸版本支持日本企业、金融和行政环境中常见的、大量使用数字键盘的数据录入工作流。全尺寸4万日元起，对一块没有RGB的有线键盘而言属于高端定价。诚实的取舍是：大多数R3版本仅有线（R3S在部分配置上有蓝牙）、全尺寸占用面积限制了鼠标移动区域，且Topre键帽生态的限制与HHKB一样适用。",
       "pros": [
-        "Japan-made Topre electrostatic capacitive mechanism",
-        "APC actuation point adjustable from 1.5mm to 3mm per key",
-        "Full-size and TKL variants in JIS and US ANSI layouts",
-        "PBT keycaps standard with corporate-grade build quality"
+        "日本制造的Topre静电容机制",
+        "APC触发点可逐键在1.5mm至3mm之间调节",
+        "全尺寸和TKL版本，提供JIS和US ANSI配列",
+        "标配PBT键帽，企业级做工品质"
       ],
       "cons": [
-        "Most variants are wired-only with no RGB lighting",
-        "Topre proprietary keycap stem limits aftermarket options"
+        "大多数版本仅有线，没有RGB灯光",
+        "Topre专有键帽轴心限制了售后选项"
       ]
     }
   ],
   "recommendedFor": [
     {
-      "label": "For enthusiast home office with wireless and programmability",
+      "label": "适合需要无线与可编程性的爱好级家庭办公",
       "offerId": "keychron-q1-pro",
-      "reason": "Gasket-mount 75% aluminum with QMK/VIA, hot-swap, and dual wireless covers the most complete enthusiast feature set at 30,000 yen."
+      "reason": "Gasket结构75%铝合金搭配QMK/VIA、热插拔和双无线，以3万日元覆盖了最完整的爱好级功能集。"
     },
     {
-      "label": "For programmers committed to Topre and the HHKB layout",
+      "label": "适合认定Topre和HHKB配列的程序员",
       "offerId": "hhkb-professional-hybrid-type-s",
-      "reason": "Silenced Topre domes plus the Ctrl-over-Caps-Lock layout philosophy serve Unix and Emacs workflows that no MX board replicates."
+      "reason": "静音Topre橡胶碗加上Ctrl置于Caps Lock之上的配列理念，服务于任何MX键盘都无法复制的Unix和Emacs工作流。"
     },
     {
-      "label": "For multi-device office typists who don't need mechanical feel",
+      "label": "适合不需要机械手感的多设备办公打字者",
       "offerId": "logicool-mx-keys-s",
-      "reason": "Scissor-switch quiet typing with Flow multi-device switching across three computers and per-key backlight suits all-day office use."
+      "reason": "剪刀脚轴的安静打字、跨三台电脑的Flow多设备切换和单键背光，胜任整天的办公使用。"
     },
     {
-      "label": "For slim desk setups where the Q1 Pro is too heavy",
+      "label": "适合Q1 Pro太重的纤薄桌面布置",
       "offerId": "nuphy-air75-v2",
-      "reason": "Slim gasket-mount aluminum 75% with low-profile switches at around 20,000 yen handles tight desks and minimalist aesthetics."
+      "reason": "约2万日元、配低矮轴的纤薄Gasket结构铝合金75%，应对局促桌面和极简美学。"
     },
     {
-      "label": "For Japanese corporate full-size or TKL professional use",
+      "label": "适合日本企业全尺寸或TKL专业使用",
       "offerId": "realforce-r3",
-      "reason": "Japan-made Topre with APC actuation point adjustment and JIS layout availability fits financial and administrative environments."
+      "reason": "日本制造的Topre搭配APC触发点调节和JIS配列可选，契合金融和行政环境。"
     }
   ]
 }

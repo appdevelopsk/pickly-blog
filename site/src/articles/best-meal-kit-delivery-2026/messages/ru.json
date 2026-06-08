@@ -1,60 +1,60 @@
 {
   "meta": {
-    "title": "Best Meal Kit Delivery Services 2026",
-    "description": "Five meal kit services compared on price per serving, portion accuracy, recipe variety and difficulty, packaging waste, and skip/pause flexibility. Find the one that fits how you actually cook."
+    "title": "Лучшие сервисы доставки наборов еды 2026",
+    "description": "Пять сервисов наборов еды сравнили по цене за порцию, точности порций, разнообразию и сложности рецептов, упаковочному мусору и гибкости пропуска/паузы. Найдите тот, что подходит под то, как вы реально готовите."
   },
   "methodology": "На каждый сервис мы оформляли подписку на 8 недель, отслеживая реальную стоимость порции при типичной частоте «двое человек, три рецепта», точность порций относительно заявленного числа, стабильность качества ингредиентов, насколько сложно пропустить доставку, а также объём упаковочного мусора при каждой поставке.",
-  "lede": "Five meal kit services ranging from $5 to $13 per serving, covering beginner-friendly basics to chef-driven organic menus. Taste consistency between batches matters more than health claims on the label.",
+  "lede": "Пять сервисов наборов еды стоимостью от $5 до $13 за порцию — от понятных новичкам базовых наборов до органических меню от шефов. Стабильность вкуса между партиями важнее, чем заявления о пользе на этикетке.",
   "products": [
     {
       "offerId": "hellofresh-meal-kit",
-      "badge": "Best Overall",
-      "review": "HelloFresh earns the overall pick by covering the most use cases without significant failures — widest weekly menu, reliable portions, and skip mechanics that don't require a support call. The honest limitation is cost: typical two-person pricing is $11–$13 per serving including shipping, not the advertised floor.",
+      "badge": "Лучший в целом",
+      "review": "HelloFresh получает звание лучшего в целом, потому что закрывает больше всего сценариев без серьёзных провалов — самое широкое недельное меню, надёжные порции и механика пропуска, не требующая звонка в поддержку. Честное ограничение — цена: типичная стоимость на двоих составляет $11–$13 за порцию с учётом доставки, а не рекламируемый минимум.",
       "pros": [
-        "Widest weekly menu (30–40 recipes) with explicit difficulty and time tags",
-        "Skip up to 6 weeks ahead via self-serve portal — no support call required",
-        "Consistent portion accuracy with difficulty levels from 20-min easy to chef's choice"
+        "Самое широкое недельное меню (30–40 рецептов) с явными метками сложности и времени",
+        "Пропуск до 6 недель вперёд через личный кабинет — звонок в поддержку не нужен",
+        "Стабильная точность порций с уровнями сложности от 20-минутных простых до выбора шефа"
       ],
       "cons": [
-        "Actual per-serving cost at typical plan frequency is $11–$13, not the advertised $7.49 floor"
+        "Реальная стоимость порции при типичной частоте плана — $11–$13, а не рекламируемый минимум $7.49"
       ],
       "grade": "A+",
       "specs": {
-        "Price range": "$7.49–$10.99/serving",
-        "Shipping": "$8.99/box",
+        "Price range": "$7.49–$10.99/порция",
+        "Shipping": "$8.99/коробка",
         "Recipes/week": "30–40",
-        "Skip flexibility": "6 weeks advance, self-serve",
-        "Pause limit": "8 weeks",
-        "Organic": "No (standard sourcing)"
+        "Skip flexibility": "за 6 недель, самообслуживание",
+        "Pause limit": "8 недель",
+        "Organic": "Нет (стандартные поставки)"
       },
       "scores": {
         "Recipe quality": 4.5,
         "Ingredient freshness": 4.3,
-        "Value": 4.0,
+        "Value": 4,
         "Convenience": 4.7,
         "Variety": 4.9
       }
     },
     {
       "offerId": "blue-apron-meal-kit",
-      "badge": "Best for Skill Development",
-      "review": "Blue Apron's technique-forward instruction cards explain why each step works, not just what to do — the strongest cooking education in the comparison. The weekly menu is narrower (12–16 recipes) but ingredient quality is consistently premium. Best for cooks who want the service to teach them something.",
+      "badge": "Лучший для развития навыков",
+      "review": "Карточки инструкций Blue Apron с упором на технику объясняют, почему каждый шаг работает, а не только что делать — это самое сильное кулинарное обучение в сравнении. Недельное меню уже (12–16 рецептов), но качество ингредиентов стабильно премиальное. Лучший выбор для тех, кто хочет, чтобы сервис их чему-то научил.",
       "pros": [
-        "Technique-forward instruction cards with method explanations, not just step lists",
-        "Consistent premium ingredient quality across protein and produce",
-        "Meal selection changeable up to the cutoff deadline, not locked at subscription"
+        "Карточки инструкций с упором на технику и объяснением методов, а не просто список шагов",
+        "Стабильно премиальное качество ингредиентов как по белку, так и по овощам",
+        "Выбор блюд можно менять вплоть до крайнего срока, а не фиксировать при подписке"
       ],
       "cons": [
-        "Smaller weekly menu (12–16 recipes); more complex recipes suit engaged cooks, not autopilot nights"
+        "Меньшее недельное меню (12–16 рецептов); более сложные рецепты подходят увлечённым кулинарам, а не вечерам «на автопилоте»"
       ],
       "grade": "A",
       "specs": {
-        "Price range": "$7.99–$11.99/serving",
-        "Shipping": "$8.99/box",
+        "Price range": "$7.99–$11.99/порция",
+        "Shipping": "$8.99/коробка",
         "Recipes/week": "12–16",
-        "Skip flexibility": "5-day cutoff, self-serve",
-        "Pause limit": "8 weeks",
-        "Organic": "No (premium conventional)"
+        "Skip flexibility": "за 5 дней, самообслуживание",
+        "Pause limit": "8 недель",
+        "Organic": "Нет (премиальные обычные)"
       },
       "scores": {
         "Recipe quality": 4.8,
@@ -66,24 +66,24 @@
     },
     {
       "offerId": "green-chef-meal-kit",
-      "badge": "Best Organic/Diet-Specific",
-      "review": "Green Chef is the only service in this comparison with certified organic sourcing designed around specific dietary frameworks from the start — not retrofitted. Keto, Mediterranean, and plant-based lanes have genuine recipe integrity. The per-serving premium reflects real organic sourcing costs, not marketing positioning.",
+      "badge": "Лучший органический/диетический",
+      "review": "Green Chef — единственный сервис в этом сравнении с сертифицированными органическими поставками, изначально выстроенными вокруг конкретных диетических подходов, а не дописанными задним числом. Направления кето, средиземноморское и растительное обладают настоящей целостностью рецептов. Наценка за порцию отражает реальные затраты на органические поставки, а не маркетинговое позиционирование.",
       "pros": [
-        "Certified organic ingredients with keto, Mediterranean, and plant-based menus designed from the start",
-        "Sourcing standards are verifiable — not marketing organic claims on conventional supply chains",
-        "Best fit for households already following a structured dietary framework"
+        "Сертифицированные органические ингредиенты с меню кето, средиземноморским и растительным, разработанными с нуля",
+        "Стандарты поставок проверяемы — это не маркетинговые заявления об органике на обычных цепочках поставок",
+        "Лучший выбор для домохозяйств, уже придерживающихся структурированного диетического подхода"
       ],
       "cons": [
-        "Narrow weekly selection per dietary lane (6–8 recipes); highest per-serving cost of the five services"
+        "Узкий недельный выбор в каждом диетическом направлении (6–8 рецептов); самая высокая стоимость порции среди пяти сервисов"
       ],
       "grade": "B+",
       "specs": {
-        "Price range": "$11.99–$13.99/serving",
-        "Shipping": "$9.99/box",
-        "Recipes/week": "6–8 per dietary lane",
-        "Skip flexibility": "6-day cutoff, self-serve",
-        "Pause limit": "8 weeks",
-        "Organic": "Yes (certified organic)"
+        "Price range": "$11.99–$13.99/порция",
+        "Shipping": "$9.99/коробка",
+        "Recipes/week": "6–8 на диетическое направление",
+        "Skip flexibility": "за 6 дней, самообслуживание",
+        "Pause limit": "8 недель",
+        "Organic": "Да (сертифицированная органика)"
       },
       "scores": {
         "Recipe quality": 4.6,
@@ -95,27 +95,27 @@
     },
     {
       "offerId": "everyplate-meal-kit",
-      "badge": "Best Budget",
-      "review": "EveryPlate delivers genuine per-serving savings of $3–$5 versus HelloFresh — not introductory-offer math but real sustained pricing. Recipes are reliable and instructions are clear. The tradeoff is narrower variety and portions that run slightly smaller than competitors.",
+      "badge": "Лучший бюджетный",
+      "review": "EveryPlate даёт реальную экономию $3–$5 на порцию по сравнению с HelloFresh — это не математика вводного предложения, а настоящая устойчивая цена. Рецепты надёжны, инструкции понятны. Компромисс — более узкое разнообразие и порции, которые чуть меньше, чем у конкурентов.",
       "pros": [
-        "Genuine $3–$5 per-serving savings versus HelloFresh at comparable recipe frequency",
-        "Simple, reliable recipes with clear instructions — works without cooking confidence",
-        "Same skip and pause mechanics as HelloFresh — no management friction"
+        "Настоящая экономия $3–$5 на порцию против HelloFresh при сопоставимой частоте рецептов",
+        "Простые, надёжные рецепты с понятными инструкциями — работают и без уверенности в готовке",
+        "Та же механика пропуска и паузы, что у HelloFresh — без сложностей в управлении"
       ],
       "cons": [
-        "Narrowest menu (15–20 recipes/week); portions run slightly smaller; minimal skill development in recipe design"
+        "Самое узкое меню (15–20 рецептов в неделю); порции чуть меньше; минимальное развитие навыков в дизайне рецептов"
       ],
       "grade": "B",
       "specs": {
-        "Price range": "$4.99–$7.49/serving",
-        "Shipping": "$8.99/box",
+        "Price range": "$4.99–$7.49/порция",
+        "Shipping": "$8.99/коробка",
         "Recipes/week": "15–20",
-        "Skip flexibility": "5-day cutoff, self-serve",
-        "Pause limit": "8 weeks",
-        "Organic": "No (standard)"
+        "Skip flexibility": "за 5 дней, самообслуживание",
+        "Pause limit": "8 недель",
+        "Organic": "Нет (стандарт)"
       },
       "scores": {
-        "Recipe quality": 4.0,
+        "Recipe quality": 4,
         "Ingredient freshness": 4.1,
         "Value": 4.9,
         "Convenience": 4.5,
@@ -124,24 +124,24 @@
     },
     {
       "offerId": "sunbasket-meal-kit",
-      "badge": "Best Ingredient Standards",
-      "review": "Sunbasket's clean-label commitment is genuine — no artificial additives, preservatives, or GMOs, with certified organic sourcing and the best packaging return program in the comparison. The 16-week pause window is uniquely long. The premium is real and requires ingredient standards to be a genuine priority to justify.",
+      "badge": "Лучшие стандарты ингредиентов",
+      "review": "Приверженность Sunbasket чистому составу настоящая — никаких искусственных добавок, консервантов и ГМО, с сертифицированными органическими поставками и лучшей программой возврата упаковки в сравнении. Окно паузы в 16 недель уникально длинное. Наценка реальна и оправдана только тогда, когда стандарты ингредиентов для вас действительно в приоритете.",
       "pros": [
-        "No artificial additives, preservatives, or GMOs — verifiable clean-label standard",
-        "Best packaging recovery program — ship-back label included with every box",
-        "16-week pause window is the longest in the comparison for seasonal households"
+        "Никаких искусственных добавок, консервантов и ГМО — проверяемый стандарт чистого состава",
+        "Лучшая программа возврата упаковки — этикетка для обратной отправки вложена в каждую коробку",
+        "Окно паузы в 16 недель — самое длинное в сравнении, для сезонных домохозяйств"
       ],
       "cons": [
-        "Most expensive of the five services — premium requires organic sourcing to be a genuine priority"
+        "Самый дорогой из пяти сервисов — наценка оправдана, только если органические поставки для вас в реальном приоритете"
       ],
       "grade": "B-",
       "specs": {
-        "Price range": "$10.99–$12.99/serving",
-        "Shipping": "$9.99/box",
+        "Price range": "$10.99–$12.99/порция",
+        "Shipping": "$9.99/коробка",
         "Recipes/week": "16–20",
-        "Skip flexibility": "5-day cutoff, self-serve",
-        "Pause limit": "16 weeks",
-        "Organic": "Yes (certified organic)"
+        "Skip flexibility": "за 5 дней, самообслуживание",
+        "Pause limit": "16 недель",
+        "Organic": "Да (сертифицированная органика)"
       },
       "scores": {
         "Recipe quality": 4.4,
@@ -154,108 +154,108 @@
   ],
   "recommendedFor": [
     {
-      "label": "For households new to meal kits who want the safest entry point",
+      "label": "Для домохозяйств, впервые пробующих наборы еды и желающих самый безопасный старт",
       "offerId": "hellofresh-meal-kit",
-      "reason": "Widest menu, reliable portions, and friction-free skip mechanics make HelloFresh the lowest-risk first subscription — try it for four weeks before evaluating whether the format fits your cooking rhythm."
+      "reason": "Самое широкое меню, надёжные порции и беспроблемная механика пропуска делают HelloFresh первой подпиской с наименьшим риском — попробуйте четыре недели, прежде чем оценивать, подходит ли формат вашему ритму готовки."
     },
     {
-      "label": "For cost-conscious households cooking several nights per week",
+      "label": "Для экономных домохозяйств, готовящих несколько вечеров в неделю",
       "offerId": "everyplate-meal-kit",
-      "reason": "The $3–$5 per-serving savings versus HelloFresh are real and compound meaningfully across multiple weekly deliveries — the right pick when budget is a genuine constraint."
+      "reason": "Экономия $3–$5 на порцию против HelloFresh реальна и ощутимо накапливается при нескольких доставках в неделю — правильный выбор, когда бюджет действительно ограничен."
     },
     {
-      "label": "For households following keto, Mediterranean, or plant-based frameworks",
+      "label": "Для домохозяйств на кето, средиземноморском или растительном подходе",
       "offerId": "green-chef-meal-kit",
-      "reason": "The only service with recipes designed around specific dietary lanes from the start, rather than conventional menus with dietary filters applied — the organic sourcing is verifiable, not marketing copy."
+      "reason": "Единственный сервис с рецептами, изначально выстроенными вокруг конкретных диетических направлений, а не обычным меню с применёнными диетическими фильтрами — органические поставки проверяемы, а не маркетинговый текст."
     }
   ],
   "sections": [
     {
-      "heading": "Price per serving: what the sticker price actually means",
+      "heading": "Цена за порцию: что на самом деле значит цена на ценнике",
       "paragraphs": [
-        "Meal kit pricing is quoted per serving, but the number that shows up in a comparison table is almost always the lowest-tier plan at the highest weekly serving count — conditions most subscribers never sustain. HelloFresh quotes from around $7.49 per serving for the highest-frequency plan (five recipes for two people), but a realistic two-person household picking three recipes per week pays closer to $9.99–$10.99 per serving before shipping. Shipping typically adds $8.99 per box, which adds roughly $2.25 per serving at four servings per box or about $1.50 at six. The honest per-serving cost for a typical HelloFresh subscriber is $11–$13, not the advertised floor.",
-        "EveryPlate is the genuine budget option: per-serving costs start around $4.99 and a typical two-person, three-recipe week runs $5.99–$7.49 per serving including shipping. The savings are real and consistent — not introductory-offer math. The tradeoff is recipe variety, which is narrower than HelloFresh or Blue Apron, and ingredient sourcing, which is standard-grade rather than premium. For households where cost is the primary constraint and cooking skill is intermediate, EveryPlate delivers meaningful value per dollar.",
-        "Sunbasket sits at the premium end: $10.99–$12.99 per serving before shipping, with organic and clean-label ingredients driving the cost. The premium is real and deliberate — sourcing from certified organic farms and maintaining standards for no artificial additives, preservatives, or GMOs costs more than conventional supply chains. For households that already spend on premium groceries and want the convenience of pre-portioned meal kits without compromising ingredient standards, Sunbasket represents a defensible spend. For households primarily seeking cooking convenience at low cost, it does not."
+        "Цены на наборы еды указываются за порцию, но число, попадающее в сравнительную таблицу, почти всегда относится к самому дешёвому тарифу при максимальной недельной частоте порций — условиям, которые большинство подписчиков никогда не выдерживает. HelloFresh указывает от примерно $7.49 за порцию для плана с наибольшей частотой (пять рецептов на двоих), но реалистичное домохозяйство из двух человек, выбирающее три рецепта в неделю, платит ближе к $9.99–$10.99 за порцию без доставки. Доставка обычно добавляет $8.99 за коробку, то есть примерно $2.25 на порцию при четырёх порциях в коробке или около $1.50 при шести. Честная стоимость порции для типичного подписчика HelloFresh — $11–$13, а не рекламируемый минимум.",
+        "EveryPlate — настоящий бюджетный вариант: стоимость порции начинается примерно с $4.99, а типичная неделя на двоих с тремя рецептами выходит $5.99–$7.49 за порцию с учётом доставки. Экономия реальна и стабильна — это не математика вводного предложения. Компромисс — разнообразие рецептов, которое уже, чем у HelloFresh или Blue Apron, и качество поставок, которое стандартного, а не премиального уровня. Для домохозяйств, где цена — главное ограничение, а кулинарные навыки на среднем уровне, EveryPlate даёт ощутимую ценность за деньги.",
+        "Sunbasket находится в премиальном сегменте: $10.99–$12.99 за порцию без доставки, причём стоимость определяют органические ингредиенты с чистым составом. Наценка реальна и осознанна — поставки с сертифицированных органических ферм и поддержание стандартов без искусственных добавок, консервантов и ГМО обходятся дороже обычных цепочек поставок. Для домохозяйств, которые и так тратятся на премиальные продукты и хотят удобства заранее расфасованных наборов без компромиссов по стандартам ингредиентов, Sunbasket — оправданная трата. Для тех, кто ищет прежде всего удобство готовки по низкой цене, — нет."
       ]
     },
     {
-      "heading": "Portion size accuracy: what arrives versus what the recipe promises",
+      "heading": "Точность размера порций: что приходит против того, что обещает рецепт",
       "paragraphs": [
-        "Portion accuracy — whether the ingredients in the box actually yield the number of servings the recipe promises — is one of the most common sources of meal kit frustration and one of the least discussed in marketing. A recipe card claiming four servings that reliably leaves two people slightly hungry after seconds represents a real problem for households planning meals around delivery schedules.",
-        "HelloFresh portions are generally consistent with labeled servings, though the calorie density varies significantly across recipe types. The pasta and grain-heavy dishes tend to yield generous portions; protein-forward dishes with smaller starch components sometimes run light for larger eaters. The two-person plans are sized for adults with moderate appetites; households with large appetites or teenagers should budget for supplemental sides or consider the four-person plan portions.",
-        "Blue Apron and Green Chef both tend to portion proteins accurately by weight — the stated four ounces of salmon or six ounces of chicken breast is reliably what arrives. Where they occasionally fall short is in vegetable and starch quantities that are pre-portioned to recipe minimums rather than satisfying volumes. Sunbasket's family plan portions are consistently generous; the two-person portions are accurate but not abundant. EveryPlate runs slightly smaller portions than competitors at the same per-serving count, which is part of how the lower price point is achieved — households who eat large should size up."
+        "Точность порций — дают ли ингредиенты в коробке реально то число порций, что обещает рецепт, — один из самых частых источников разочарования в наборах еды и один из наименее обсуждаемых в маркетинге. Карточка рецепта, заявляющая четыре порции, но стабильно оставляющая двух человек слегка голодными после добавки, — реальная проблема для домохозяйств, планирующих питание вокруг графика доставок.",
+        "Порции HelloFresh в целом соответствуют заявленным, хотя калорийность заметно варьируется между типами рецептов. Блюда с упором на пасту и крупы обычно дают щедрые порции; блюда с упором на белок и меньшей долей гарнира иногда выходят скудными для тех, кто ест много. Планы на двоих рассчитаны на взрослых с умеренным аппетитом; домохозяйствам с большим аппетитом или подростками стоит закладывать дополнительные гарниры или рассмотреть порции плана на четверых.",
+        "Blue Apron и Green Chef обычно точно отмеряют белок по весу — заявленные четыре унции лосося или шесть унций куриной грудки надёжно приходят именно в таком количестве. Где они порой не дотягивают — это в количестве овощей и гарниров, расфасованных по минимуму рецепта, а не по сытному объёму. Семейные порции Sunbasket стабильно щедрые; порции на двоих точны, но не обильны. EveryPlate даёт чуть меньшие порции, чем конкуренты при том же числе порций, — отчасти именно так достигается более низкая цена; тем, кто ест много, стоит выбрать размер побольше."
       ]
     },
     {
-      "heading": "Recipe variety and difficulty: building skill versus autopilot cooking",
+      "heading": "Разнообразие и сложность рецептов: развитие навыков против готовки на автопилоте",
       "paragraphs": [
-        "The weekly recipe menu is where the real differences between services show up most clearly. HelloFresh offers the widest absolute menu — typically 30–40 recipes per week across all plan types — and explicitly tags recipes with difficulty levels (easy, medium, hard) and cooking time. The 'quick and easy' category (20–30 minute meals) is genuinely achievable for most home cooks; the 'chef's choice' category involves real technique. The breadth means most households can find options that match their week without resorting to the same fallback recipes repeatedly.",
-        "Blue Apron's menu skews toward skill-building, with recipes that regularly introduce techniques like braising, deglazing, making pan sauces, and building layered spice profiles. The complexity is deliberate and the instruction cards are more detailed than competitors — they explain why you're doing a technique step, not just what to do. For households that want cooking to be a learning experience rather than a production task, Blue Apron's recipe design is the strongest of the five. The tradeoff: the menus are smaller (typically 12–16 recipes per week) and less accommodating of dietary restrictions without add-on plan customization.",
-        "Green Chef focuses specifically on dietary and lifestyle menus — keto, Mediterranean, fast and fit, plant-powered — with recipes designed around those constraints rather than retrofitted. Each week offers six to eight recipes per dietary lane, which is a narrow selection but a focused one. The ingredient sourcing is certified organic, and recipes reflect that: flavor profiles are less reliant on butter and cream than HelloFresh or Blue Apron, and protein options include more plant-forward dishes by default. EveryPlate's menu is the narrowest at 15–20 weekly options, with difficulty concentrated in the easy-to-medium range. The recipes work well and the instructions are clear, but there's less novelty and less technique development than competitors — it's consistent, practical, and not particularly ambitious."
+        "Недельное меню рецептов — это место, где реальные различия между сервисами видны яснее всего. HelloFresh предлагает самое широкое абсолютное меню — обычно 30–40 рецептов в неделю по всем типам планов — и явно помечает рецепты уровнями сложности (лёгкий, средний, трудный) и временем готовки. Категория «быстро и просто» (блюда на 20–30 минут) действительно достижима для большинства домашних кулинаров; категория «выбор шефа» подразумевает настоящую технику. Широта означает, что большинство домохозяйств найдут варианты под свою неделю, не прибегая раз за разом к одним и тем же запасным рецептам.",
+        "Меню Blue Apron склоняется к развитию навыков, с рецептами, регулярно вводящими техники вроде тушения, деглазирования, приготовления соусов на сковороде и построения многослойных профилей специй. Сложность намеренна, а карточки инструкций детальнее, чем у конкурентов — они объясняют, почему вы делаете тот или иной технический шаг, а не только что делать. Для домохозяйств, желающих, чтобы готовка была обучением, а не производственной задачей, дизайн рецептов Blue Apron — самый сильный из пяти. Компромисс: меню меньше (обычно 12–16 рецептов в неделю) и хуже учитывает диетические ограничения без дополнительной кастомизации плана.",
+        "Green Chef сосредоточен именно на диетических и образ-жизни-меню — кето, средиземноморское, «быстро и в форме», на растительной основе — с рецептами, выстроенными вокруг этих ограничений, а не дописанными задним числом. Каждую неделю предлагается шесть-восемь рецептов на диетическое направление — узкий, но сфокусированный выбор. Поставки ингредиентов сертифицированно органические, и рецепты это отражают: вкусовые профили меньше опираются на масло и сливки, чем у HelloFresh или Blue Apron, а варианты белка по умолчанию включают больше растительных блюд. Меню EveryPlate самое узкое — 15–20 вариантов в неделю, со сложностью, сосредоточенной в диапазоне от лёгкого до среднего. Рецепты работают хорошо, инструкции понятны, но новизны и развития техники меньше, чем у конкурентов — это стабильно, практично и не особенно амбициозно."
       ]
     },
     {
-      "heading": "Packaging waste: what ends up in your bin",
+      "heading": "Упаковочный мусор: что в итоге оказывается в вашем ведре",
       "paragraphs": [
-        "Meal kit packaging waste is a legitimate concern, and the services have improved substantially over the past three years but none have fully solved the problem. The fundamental issue is that pre-portioning ingredients requires individual packaging for each component — a recipe calling for two tablespoons of soy sauce arrives in a single-use foil packet; two garlic cloves come in a small bag. The insulated box and ice packs create additional bulk that doesn't exist with grocery shopping.",
-        "HelloFresh has made the most visible effort at packaging reduction: most of their insulation is now curbside-recyclable paper pulp rather than plastic foam, and they provide a bag return program in many markets for the plastic film components. The ice packs use water-based gel that can be refrozen or poured down the drain. The individual ingredient sachets are still largely non-recyclable, but the outer box and most primary packaging components are paper-based. In practical terms, a typical HelloFresh delivery generates one full grocery bag of recyclable material and a smaller amount of non-recyclable film.",
-        "Sunbasket leads the field on packaging sustainability with a program allowing customers to ship packaging back for recycling — the return label is included with each box. They use the most paper-based packaging of the five services and have the highest percentage of packaging components that are either curbside recyclable or return-recyclable. Green Chef has committed to carbon-neutral delivery and uses primarily recyclable packaging, though the individual produce and protein packets still generate film waste. EveryPlate and Blue Apron both use similar packaging approaches to HelloFresh — improved from previous years, primarily paper-based insulation, but still generating meaningful plastic film waste per delivery."
+        "Упаковочный мусор от наборов еды — обоснованная проблема, и сервисы за последние три года заметно улучшились, но никто не решил её полностью. Фундаментальная сложность в том, что предварительная расфасовка ингредиентов требует отдельной упаковки для каждого компонента — рецепт с двумя столовыми ложками соевого соуса приходит в одноразовом фольгированном пакетике; два зубчика чеснока — в маленьком пакете. Утеплённая коробка и хладоэлементы создают дополнительный объём, которого нет при покупках в магазине.",
+        "HelloFresh приложил самые заметные усилия по сокращению упаковки: бо́льшая часть их утеплителя теперь — пригодная для переработки в обычном контейнере бумажная пульпа, а не пенопласт, и во многих регионах есть программа возврата пакетов для плёночных компонентов. Хладоэлементы используют гель на водной основе, который можно заморозить заново или слить в раковину. Отдельные пакетики ингредиентов по-прежнему в основном не перерабатываются, но внешняя коробка и большинство основных компонентов упаковки — из бумаги. На практике типичная доставка HelloFresh даёт один полный пакет перерабатываемого материала и меньшее количество неперерабатываемой плёнки.",
+        "Sunbasket лидирует в экологичности упаковки благодаря программе, позволяющей клиентам отправлять упаковку обратно на переработку — этикетка для возврата вложена в каждую коробку. Они используют больше всего бумажной упаковки среди пяти сервисов и имеют наибольшую долю компонентов упаковки, которые либо перерабатываются в обычном контейнере, либо через возврат. Green Chef взял обязательство по углеродно-нейтральной доставке и использует преимущественно перерабатываемую упаковку, хотя отдельные пакетики с овощами и белком всё ещё создают плёночный мусор. EveryPlate и Blue Apron используют подходы к упаковке, схожие с HelloFresh — улучшенные по сравнению с прошлыми годами, преимущественно бумажный утеплитель, но всё ещё создающие ощутимый плёночный мусор за доставку."
       ]
     },
     {
-      "heading": "Skip and pause flexibility: what happens when your week changes",
+      "heading": "Гибкость пропуска и паузы: что происходит, когда ваша неделя меняется",
       "paragraphs": [
-        "Skip and pause flexibility is the subscription management feature that matters most for long-term retention — services that make it easy to skip a week without a support call keep subscribers longer. The services vary significantly in how much friction they build into the skip process.",
-        "HelloFresh allows skipping up to six weeks in advance from the account portal, with a cutoff of five days before the delivery date for changes. The interface is straightforward: select the week, click skip, done in two clicks. You can also pause for up to eight weeks through the same portal. The main limitation is the five-day cutoff — if you decide on Thursday that you don't need next Wednesday's delivery, you've missed the window and will be charged. Setting calendar reminders for weekly skip windows is a practical workaround most experienced subscribers use.",
-        "EveryPlate operates on nearly identical terms — same five-day cutoff, same self-serve portal skip mechanics, same eight-week pause option. Blue Apron's cutoff is five days as well, but the portal also allows changing meal selections up to the cutoff deadline, which is more flexible than services that lock in selection at subscription rather than per-delivery. Green Chef and Sunbasket both use similar self-serve skip mechanics, but Green Chef's delivery cutoff is six days (slightly less flexible than competitors), and Sunbasket's portal allows pausing for up to 16 weeks — longer than any other service in this comparison. For households with seasonal eating patterns or irregular schedules, Sunbasket's longer pause window is a meaningful advantage."
+        "Гибкость пропуска и паузы — функция управления подпиской, наиболее значимая для удержания в долгосрочной перспективе: сервисы, позволяющие легко пропустить неделю без звонка в поддержку, дольше удерживают подписчиков. Сервисы заметно различаются в том, сколько трудностей они закладывают в процесс пропуска.",
+        "HelloFresh позволяет пропускать до шести недель вперёд из личного кабинета, с крайним сроком за пять дней до даты доставки для изменений. Интерфейс прост: выбираете неделю, нажимаете «пропустить» — готово в два клика. Также можно поставить паузу до восьми недель через тот же кабинет. Главное ограничение — пятидневный крайний срок: если в четверг вы решили, что доставка следующей среды вам не нужна, окно упущено, и с вас спишут оплату. Установка напоминаний в календаре на еженедельные окна пропуска — практичный обходной приём, которым пользуется большинство опытных подписчиков.",
+        "EveryPlate работает почти на тех же условиях — тот же пятидневный крайний срок, та же механика пропуска через самообслуживание, та же опция паузы на восемь недель. Крайний срок Blue Apron тоже пять дней, но кабинет к тому же позволяет менять выбор блюд вплоть до крайнего срока, что гибче, чем у сервисов, фиксирующих выбор при подписке, а не на каждую доставку. Green Chef и Sunbasket используют схожую механику пропуска через самообслуживание, но крайний срок доставки у Green Chef — шесть дней (чуть менее гибко, чем у конкурентов), а кабинет Sunbasket позволяет ставить паузу до 16 недель — дольше любого другого сервиса в этом сравнении. Для домохозяйств с сезонными пищевыми привычками или нерегулярным графиком более длинное окно паузы Sunbasket — ощутимое преимущество."
       ]
     },
     {
-      "heading": "Where each fits",
+      "heading": "Кому что подходит",
       "paragraphs": [
-        "HelloFresh is the right starting point for households new to meal kits who want the widest recipe selection, reliable portions, and account management tools that don't create friction. The per-serving cost is mid-range, the difficulty range covers beginners through confident home cooks, and the skip mechanics work without requiring a support call. The honest limitation: at typical two-person, three-recipe plan pricing, you're not saving money versus efficient grocery shopping — the value proposition is time and reduced decision fatigue, not cost.",
-        "Blue Apron is the right choice for cooks who want meal delivery to develop skills rather than simply produce dinner. The technique-forward recipe design and detailed instruction cards create a genuine learning experience, and the ingredient quality is consistently strong. The honest limitation: the weekly menu is smaller than HelloFresh, and the service is best suited to households that approach cooking as a practice rather than a production task.",
-        "Green Chef is the right choice for households following specific dietary frameworks — keto, Mediterranean, plant-based — who want organic-sourced ingredients and recipes designed for those constraints from the start rather than modified. The honest limitation: the weekly selection per dietary lane is narrow, and the per-serving price is higher than HelloFresh or Blue Apron.",
-        "EveryPlate is the right choice when budget is the binding constraint and cooking competency is solid enough to work from simpler recipes without detailed technique guidance. The per-serving cost is genuinely lower than competitors and the recipes work reliably. The honest limitation: the menu is narrower, portions run slightly smaller, and there's less novelty or skill development built into the recipe design.",
-        "Sunbasket is the right choice for households that prioritize clean, organic ingredients and want to avoid artificial additives, preservatives, and GMOs without sacrificing meal kit convenience. The packaging return program and long pause window add practical value for sustainability-minded households. The honest limitation: it's the most expensive of the five services, and the premium over HelloFresh needs to be worth it specifically for ingredient sourcing standards rather than recipe variety or difficulty."
+        "HelloFresh — правильная отправная точка для домохозяйств, впервые пробующих наборы еды и желающих самый широкий выбор рецептов, надёжные порции и инструменты управления аккаунтом без лишних сложностей. Стоимость порции средняя, диапазон сложности охватывает от новичков до уверенных домашних кулинаров, а механика пропуска работает без звонка в поддержку. Честное ограничение: при типичной цене плана на двоих с тремя рецептами вы не экономите против разумных покупок в магазине — ценность здесь во времени и снижении усталости от решений, а не в стоимости.",
+        "Blue Apron — правильный выбор для кулинаров, желающих, чтобы доставка еды развивала навыки, а не просто давала ужин. Дизайн рецептов с упором на технику и детальные карточки инструкций создают настоящий опыт обучения, а качество ингредиентов стабильно высокое. Честное ограничение: недельное меню меньше, чем у HelloFresh, и сервис лучше всего подходит домохозяйствам, относящимся к готовке как к практике, а не производственной задаче.",
+        "Green Chef — правильный выбор для домохозяйств, придерживающихся конкретных диетических подходов — кето, средиземноморского, растительного, — желающих органических ингредиентов и рецептов, изначально разработанных под эти ограничения, а не изменённых. Честное ограничение: недельный выбор на диетическое направление узок, а цена порции выше, чем у HelloFresh или Blue Apron.",
+        "EveryPlate — правильный выбор, когда бюджет — определяющее ограничение, а кулинарная подготовка достаточно крепка, чтобы готовить по более простым рецептам без подробных технических подсказок. Стоимость порции действительно ниже, чем у конкурентов, и рецепты работают надёжно. Честное ограничение: меню уже, порции чуть меньше, а в дизайне рецептов меньше новизны или развития навыков.",
+        "Sunbasket — правильный выбор для домохозяйств, которые ставят в приоритет чистые, органические ингредиенты и хотят избегать искусственных добавок, консервантов и ГМО без потери удобства наборов еды. Программа возврата упаковки и длинное окно паузы добавляют практическую ценность для домохозяйств, заботящихся об экологии. Честное ограничение: это самый дорогой из пяти сервисов, и наценка над HelloFresh должна окупаться именно стандартами поставок ингредиентов, а не разнообразием или сложностью рецептов."
       ]
     },
     {
-      "heading": "Verdict",
+      "heading": "Вердикт",
       "paragraphs": [
-        "HelloFresh is the most practical entry point for households trying meal kits for the first time. The recipe variety, skip flexibility, and mid-range price cover the broadest range of household types. Give it four weeks before evaluating whether it fits your cooking rhythm — the first two weeks are often less representative because you're still calibrating which recipes to select.",
-        "EveryPlate is worth trying alongside HelloFresh's introductory offer if budget is a real concern — the per-serving savings are substantial enough to matter for households cooking several nights a week. Blue Apron is for cooks who want the service to teach them something. Green Chef is the right match for households on structured dietary plans. Sunbasket earns its premium specifically for households that already spend on organic groceries and want that sourcing standard applied to meal kit convenience."
+        "HelloFresh — самая практичная отправная точка для домохозяйств, впервые пробующих наборы еды. Разнообразие рецептов, гибкость пропуска и средняя цена охватывают самый широкий спектр типов домохозяйств. Дайте ему четыре недели, прежде чем оценивать, подходит ли он вашему ритму готовки — первые две недели часто менее показательны, потому что вы ещё подбираете, какие рецепты выбирать.",
+        "EveryPlate стоит попробовать наряду с вводным предложением HelloFresh, если бюджет действительно важен — экономия на порцию достаточно значима для домохозяйств, готовящих несколько вечеров в неделю. Blue Apron — для кулинаров, желающих, чтобы сервис их чему-то научил. Green Chef — правильное соответствие для домохозяйств на структурированных диетических планах. Sunbasket оправдывает свою наценку именно для домохозяйств, которые и так тратятся на органические продукты и хотят применить этот стандарт поставок к удобству наборов еды."
       ]
     }
   ],
   "faqs": [
     {
-      "q": "How much does a typical meal kit delivery actually cost per week?",
-      "a": "The advertised per-serving price is almost always based on the highest-frequency plan — conditions most subscribers don't sustain. A realistic two-person, three-recipe week with HelloFresh runs $60–$75 including shipping, or $10–$12.50 per serving. EveryPlate is the exception: a comparable plan runs $40–$50 per week, or $6.50–$8.50 per serving including shipping. Green Chef and Sunbasket run $80–$100 per week for two people at three recipes, driven by organic sourcing and premium ingredients. The weekly cost that matters is what you'd actually order at your typical recipe frequency, not the floor price on the highest-volume plan."
+      "q": "Сколько на самом деле стоит типичная доставка набора еды в неделю?",
+      "a": "Рекламируемая цена за порцию почти всегда основана на плане с наибольшей частотой — условиях, которые большинство подписчиков не выдерживает. Реалистичная неделя на двоих с тремя рецептами у HelloFresh выходит $60–$75 с учётом доставки, или $10–$12.50 за порцию. EveryPlate — исключение: сопоставимый план выходит $40–$50 в неделю, или $6.50–$8.50 за порцию с учётом доставки. Green Chef и Sunbasket выходят $80–$100 в неделю на двоих при трёх рецептах из-за органических поставок и премиальных ингредиентов. Значение имеет та недельная стоимость, которую вы реально заказали бы при своей типичной частоте рецептов, а не минимальная цена плана с наибольшим объёмом."
     },
     {
-      "q": "Are meal kits actually cheaper than grocery shopping?",
-      "a": "For most households, no — but that's not the right comparison. A efficient grocery shopper buying whole ingredients in bulk will spend less per serving than any meal kit. The value meal kits provide is time (no meal planning, no shopping, minimal decision-making), portion control (no wasted produce from buying full bunches when a recipe calls for two stalks), and recipe variety without the overhead of building and maintaining a recipe library. EveryPlate is the closest to grocery-competitive pricing; HelloFresh, Blue Apron, and Green Chef are more expensive than a well-planned grocery run but cheaper than regular restaurant delivery. Sunbasket is priced closer to good restaurant delivery than to grocery shopping."
+      "q": "Действительно ли наборы еды дешевле покупок в магазине?",
+      "a": "Для большинства домохозяйств — нет, но это неправильное сравнение. Разумный покупатель, берущий цельные ингредиенты оптом, потратит на порцию меньше, чем любой набор еды. Ценность наборов еды — это время (нет планирования меню, нет покупок, минимум решений), контроль порций (нет испорченных овощей из-за покупки целого пучка, когда рецепту нужны два стебля) и разнообразие рецептов без хлопот по созданию и поддержанию своей кулинарной библиотеки. EveryPlate ближе всего к ценам, конкурентным с магазином; HelloFresh, Blue Apron и Green Chef дороже хорошо спланированного похода в магазин, но дешевле регулярной доставки из ресторанов. Sunbasket по цене ближе к хорошей доставке из ресторана, чем к покупкам в магазине."
     },
     {
-      "q": "What happens if I skip a week and forget to cancel before the cutoff?",
-      "a": "All five services will charge you and ship the box. The cutoff windows range from five days (HelloFresh, EveryPlate, Blue Apron) to six days (Green Chef) before your scheduled delivery. If you're charged for a box you don't want, most services offer credit toward a future order if you contact support promptly — they won't refund shipping, but the meal credit is typically applied without argument. Setting a recurring calendar reminder for two to three days before your weekly cutoff is the most reliable way to manage this; the app push notifications for upcoming charges can be delayed or easy to dismiss."
+      "q": "Что будет, если я пропущу неделю и забуду отменить до крайнего срока?",
+      "a": "Все пять сервисов спишут оплату и отправят коробку. Окна крайнего срока — от пяти дней (HelloFresh, EveryPlate, Blue Apron) до шести дней (Green Chef) до запланированной доставки. Если с вас списали за ненужную коробку, большинство сервисов предлагают кредит на будущий заказ, если оперативно обратиться в поддержку — доставку не вернут, но кредит на еду обычно начисляют без споров. Установка повторяющегося напоминания в календаре за два-три дня до недельного крайнего срока — самый надёжный способ это контролировать; пуш-уведомления приложения о предстоящих списаниях могут запаздывать или их легко смахнуть."
     },
     {
-      "q": "Are meal kits worth it for families with children?",
-      "a": "It depends heavily on the children's ages and food preferences. HelloFresh's family plan includes kid-friendly recipe options with milder flavors and familiar formats (tacos, pasta, burgers) that work well for households with children aged 6–12. EveryPlate's simpler recipes and lower price per serving make it the most cost-effective for families feeding multiple people. Blue Apron and Sunbasket are harder fits for families with young children — the technique complexity and flavor profiles are less calibrated to kid-friendly eating. Green Chef's plant-powered lane can work for families trying to introduce more vegetable-forward cooking, though the flavor profiles are more assertive than most children prefer."
+      "q": "Стоят ли наборы еды того для семей с детьми?",
+      "a": "Это сильно зависит от возраста детей и их пищевых предпочтений. Семейный план HelloFresh включает варианты рецептов для детей с более мягкими вкусами и знакомыми форматами (тако, паста, бургеры), которые хорошо подходят домохозяйствам с детьми 6–12 лет. Более простые рецепты EveryPlate и более низкая цена порции делают его самым экономичным для семей, кормящих несколько человек. Blue Apron и Sunbasket сложнее подходят семьям с маленькими детьми — техническая сложность и вкусовые профили хуже откалиброваны под детское питание. Растительное направление Green Chef может подойти семьям, пытающимся внедрить больше овощной готовки, хотя вкусовые профили более выраженные, чем предпочитает большинство детей."
     },
     {
-      "q": "How much packaging waste does a weekly meal kit delivery generate?",
-      "a": "A typical two-person, three-recipe delivery generates one to two standard grocery bags of packaging material. Roughly half is curbside recyclable (cardboard outer box, paper-based insulation, some cardboard inserts); the rest is plastic film, foil sachets, and other non-curbside-recyclable materials. Sunbasket offers the best packaging recovery program with a ship-back option for most packaging components. HelloFresh has done the most to shift insulation to curbside-recyclable paper pulp. Neither fully solves the per-ingredient sachet problem — the small single-use packets for spice blends, sauces, and pre-portioned ingredients are the hardest packaging component to eliminate from a pre-portioned meal kit model."
+      "q": "Сколько упаковочного мусора создаёт еженедельная доставка набора еды?",
+      "a": "Типичная доставка на двоих с тремя рецептами создаёт один-два стандартных пакета упаковочного материала. Примерно половина перерабатывается в обычном контейнере (картонная внешняя коробка, бумажный утеплитель, часть картонных вставок); остальное — плёнка, фольгированные пакетики и другие материалы, не перерабатываемые в обычном контейнере. Sunbasket предлагает лучшую программу возврата упаковки с опцией обратной отправки большинства компонентов. HelloFresh сделал больше всех для перевода утеплителя на пригодную для переработки бумажную пульпу. Никто полностью не решил проблему пакетиков на каждый ингредиент — маленькие одноразовые пакетики для смесей специй, соусов и заранее расфасованных ингредиентов — самый трудный для устранения компонент упаковки в модели заранее расфасованного набора еды."
     }
   ],
   "offerNotes": {
-    "hellofresh-meal-kit": "Best overall for beginners — widest weekly recipe selection (30–40 options), reliable portions, and skip mechanics that work without a support call. Per-serving cost $9.99–$12.99 at typical plan frequencies. Best for households new to meal kits who want variety and account flexibility. Limitation: not cheaper than efficient grocery shopping; value is time and convenience, not cost savings.",
-    "blue-apron-meal-kit": "Best for cooking skill development — technique-forward recipes with detailed instruction cards that explain why, not just what. Consistent ingredient quality with smaller weekly menus (12–16 recipes). Best for cooks who want meal delivery to teach them something. Limitation: narrower weekly selection, less suited to households cooking on autopilot.",
-    "green-chef-meal-kit": "Best organic/specialty diet option — certified organic ingredients, recipes designed around keto, Mediterranean, and plant-based frameworks from the start. Per-serving price is higher than HelloFresh but sourcing standards are verifiable. Best for households on structured dietary plans. Limitation: narrow weekly selection per dietary lane; premium price may not be worth it for households without specific dietary requirements.",
-    "everyplate-meal-kit": "Best budget meal kit — genuine per-serving savings of $3–$5 versus HelloFresh at comparable recipe frequency. Reliable recipes, clear instructions, consistent delivery. Best for cost-conscious households with solid cooking skills who don't need extensive recipe variety. Limitation: narrower menu, slightly smaller portions than competitors, less skill development or novelty in recipe design.",
-    "sunbasket-meal-kit": "Best for clean/organic ingredients — no artificial additives, preservatives, or GMOs, certified organic sourcing, and the best packaging return program of the five services. 16-week pause window for seasonal households. Best for households that prioritize ingredient standards and already spend on organic groceries. Limitation: most expensive of the five; premium over HelloFresh requires ingredient sourcing to be a genuine priority, not just a preference."
+    "hellofresh-meal-kit": "Лучший в целом для новичков — самый широкий недельный выбор рецептов (30–40 вариантов), надёжные порции и механика пропуска, работающая без звонка в поддержку. Стоимость порции $9.99–$12.99 при типичной частоте плана. Лучший для домохозяйств, впервые пробующих наборы еды и желающих разнообразия и гибкости аккаунта. Ограничение: не дешевле разумных покупок в магазине; ценность — время и удобство, а не экономия.",
+    "blue-apron-meal-kit": "Лучший для развития кулинарных навыков — рецепты с упором на технику и детальные карточки инструкций, объясняющие почему, а не только что. Стабильное качество ингредиентов при меньшем недельном меню (12–16 рецептов). Лучший для кулинаров, желающих, чтобы доставка их чему-то научила. Ограничение: более узкий недельный выбор, хуже подходит домохозяйствам, готовящим на автопилоте.",
+    "green-chef-meal-kit": "Лучший органический/специализированный диетический вариант — сертифицированные органические ингредиенты, рецепты, изначально выстроенные вокруг кето, средиземноморского и растительного подходов. Цена порции выше, чем у HelloFresh, но стандарты поставок проверяемы. Лучший для домохозяйств на структурированных диетических планах. Ограничение: узкий недельный выбор на диетическое направление; премиальная цена может не окупаться для домохозяйств без конкретных диетических требований.",
+    "everyplate-meal-kit": "Лучший бюджетный набор еды — настоящая экономия $3–$5 на порцию против HelloFresh при сопоставимой частоте рецептов. Надёжные рецепты, понятные инструкции, стабильная доставка. Лучший для экономных домохозяйств с крепкими кулинарными навыками, которым не нужно широкое разнообразие рецептов. Ограничение: более узкое меню, чуть меньшие порции, чем у конкурентов, меньше развития навыков или новизны в дизайне рецептов.",
+    "sunbasket-meal-kit": "Лучший для чистых/органических ингредиентов — никаких искусственных добавок, консервантов и ГМО, сертифицированные органические поставки и лучшая программа возврата упаковки из пяти сервисов. Окно паузы в 16 недель для сезонных домохозяйств. Лучший для домохозяйств, ставящих в приоритет стандарты ингредиентов и уже тратящихся на органические продукты. Ограничение: самый дорогой из пяти; наценка над HelloFresh оправдана, только если поставки ингредиентов для вас реальный приоритет, а не просто предпочтение."
   },
-  "pinDescription": "5 meal kit services compared for 2026: HelloFresh vs Blue Apron vs Green Chef vs EveryPlate vs Sunbasket. Real price per serving, packaging waste, skip flexibility — find the meal kit that actually fits how you cook."
+  "pinDescription": "5 сервисов наборов еды в сравнении на 2026: HelloFresh против Blue Apron против Green Chef против EveryPlate против Sunbasket. Реальная цена за порцию, упаковочный мусор, гибкость пропуска — найдите набор еды, который реально подходит под то, как вы готовите."
 }
