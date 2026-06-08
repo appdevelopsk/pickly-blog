@@ -1,91 +1,91 @@
 {
-  "title": "2026年最佳便攜式風扇：氣流、噪音水平和Dyson Pure Cool Me的每分貝成本",
-  "description": "Dyson Pure Cool Me、Vornado Pivot5、Honeywell HT-900、Panasonic F-CL2025和Satechi Dual USB-C Fan根據CFM氣流、dB噪音、功耗和台式風扇與空氣循環器之間的真實差異進行比較",
-  "lede": "Portable fan specs look simple until you realize CFM (cubic feet per minute) and dB measurements are taken under controlled conditions that rarely match the room you actually have. The honest question before buying: do you want to feel cooler, or do you want the room to be cooler? Those require different fan designs.",
-  "methodology": "我們從額定轉速下的送風量、低檔與高檔的噪音水準、機身佔地面積與便攜性、能源效率，以及來自真實使用者的長期可靠度回饋等方面，對每款風扇進行了評估。我們也將 CFM 參數與 dB 實測數據相互比對，揭露出規格表中不會寫明的「每分貝送風量」取捨關係。",
+  "title": "2026最佳便攜風扇：氣流、噪音與Dyson實測",
+  "description": "比較Dyson Pure Cool Me、Vornado Pivot5、Honeywell HT-900、Panasonic F-CL2025與Satechi Dual USB-C風扇的CFM氣流、dB噪音、功耗，以及桌上型風扇與空氣循環扇之間的真實差異。",
+  "lede": "便攜風扇的規格看起來很簡單，直到你意識到CFM（每分鐘立方英尺）和dB測量都是在受控條件下取得，而那些條件很少符合你實際擁有的房間。購買前最該誠實面對的問題是：你想要的是讓自己感覺更涼，還是想要讓整個房間更涼？這兩者需要截然不同的風扇設計。",
+  "methodology": "我們從額定轉速下的送風量、低檔與高檔的噪音水準、機身佔地面積與便攜性、能源效率，以及來自真實使用者的長期可靠度回饋等方面，對每款風扇進行了評估。我們也將CFM參數與dB實測數據相互比對，揭露出規格表中不會寫明的「每分貝送風量」取捨關係。",
   "recommendedFor": [
     {
-      "label": "For a desk setup where air purification and personal cooling both matter",
+      "label": "適合同時重視空氣淨化與個人降溫的桌面配置",
       "offerId": "portable-fan-dyson-pure-cool-me",
-      "reason": "The Dyson Pure Cool Me pairs HEPA H13 filtration with personal-zone focused airflow — the only pick here with certified air cleaning."
+      "reason": "Dyson Pure Cool Me將HEPA H13濾網與聚焦個人區域的氣流結合在一起，是這份清單中唯一具備認證空氣淨化功能的選擇。"
     },
     {
-      "label": "For rooms where you need whole-room air circulation, not just a cooling breeze",
+      "label": "適合需要整室空氣循環、而不只是涼風的房間",
       "offerId": "portable-fan-vornado-pivot5",
-      "reason": "Vornado's vortex airflow circulates the entire room volume rather than creating a breeze in one direction."
+      "reason": "Vornado的渦流氣流會讓整個房間的空氣循環起來，而不只是朝單一方向吹出涼風。"
     },
     {
-      "label": "For a powerful, inexpensive desk or floor fan that doesn't pretend to be anything else",
+      "label": "適合想要一台強力又便宜、不假裝是別種產品的桌上型或落地風扇",
       "offerId": "portable-fan-honeywell-htf090",
-      "reason": "The Honeywell HT-900 moves the most air per dollar of any fan here — no smart features, no air purification, just airflow."
+      "reason": "Honeywell HT-900在這份清單中是每一塊錢能換到最多氣流的風扇——沒有智慧功能、沒有空氣淨化，純粹就是氣流。"
     },
     {
-      "label": "For Japanese households wanting DC motor efficiency and quiet operation",
+      "label": "適合想要DC馬達效率與安靜運轉的日本家庭",
       "offerId": "portable-fan-panasonic-dc-jp",
-      "reason": "Panasonic's DC motor fan runs at 8 speed settings down to near-silent operation with substantially lower electricity consumption than AC fans."
+      "reason": "Panasonic的DC馬達風扇有8段轉速，最低可達到近乎無聲的運轉，耗電量遠低於AC風扇。"
     },
     {
-      "label": "For USB-C powered desk use where cable flexibility and whisper-quiet operation matter",
+      "label": "適合重視線材彈性與極致安靜運轉的USB-C供電桌面使用情境",
       "offerId": "portable-fan-satechi-dual",
-      "reason": "The Satechi draws power from a USB-C port and runs at 35dB — practical for shared offices and library study spaces."
+      "reason": "Satechi由USB-C埠供電，運轉噪音僅35dB——很適合共用辦公室與圖書館自習空間。"
     }
   ],
   "sections": [
     {
-      "heading": "How we compared these fans",
+      "heading": "我們如何比較這些風扇",
       "paragraphs": [
-        "Fan comparison is genuinely difficult to do rigorously without lab equipment. CFM ratings are measured at specific test distances and conditions that vary between manufacturers, making cross-brand CFM comparisons unreliable. Decibel ratings are measured at specific distances (often 1 meter) and specific speed settings. What this comparison does instead: use the relative performance within each product's specification range, cross-reference against independent reviewer measurements where available, and rely heavily on long-term owner reviews for noise and reliability.",
-        "The most important distinction buyers miss: desk fans and air circulators are different products. A desk fan (Honeywell HT-900, Dyson Pure Cool Me) directs airflow at the person sitting in front of it. An air circulator (Vornado Pivot5) moves the entire volume of room air in a vortex pattern. In a hot room, a desk fan makes you feel cooler immediately; an air circulator actually lowers the room temperature over 20–30 minutes by mixing the cooler floor air with the warmer air near the ceiling. Neither is wrong — they solve different problems."
+        "若沒有實驗室設備，風扇比較其實非常難做到嚴謹。CFM數值是在各家廠商不盡相同的特定測試距離與條件下量測的，使得跨品牌的CFM比較並不可靠。分貝數值則是在特定距離（常為1公尺）與特定轉速下量測的。因此這份比較改採的做法是：在每款產品的規格範圍內看其相對表現、在有資料時對照獨立評測者的實測數據，並大量倚賴長期使用者對噪音與可靠度的評價。",
+        "買家最容易忽略的關鍵區別是：桌上型風扇與空氣循環扇是不同的產品。桌上型風扇（Honeywell HT-900、Dyson Pure Cool Me）會把氣流朝坐在前方的人吹送。空氣循環扇（Vornado Pivot5）則以渦流模式帶動整個房間的空氣。在悶熱的房間裡，桌上型風扇會讓你立刻感覺涼爽；而空氣循環扇則是透過把地面較涼的空氣與天花板附近較暖的空氣混合，在20到30分鐘內實際降低房間溫度。兩者都沒有錯——它們解決的是不同的問題。"
       ]
     },
     {
-      "heading": "What changed in 2026",
+      "heading": "2026年有哪些改變",
       "paragraphs": [
-        "The USB-C portable fan category has matured significantly. In 2023, USB-C fans were mostly underpowered accessories; by 2026, models like the Satechi Dual draw up to 10W from USB-C PD and produce airflow sufficient for personal desk cooling in ambient temperatures up to about 28°C. The practical implication: you can now power a desk fan from the same USB-C hub that charges your laptop, eliminating the dedicated wall outlet. This is genuinely useful in offices with limited desk outlets or in travel contexts.",
-        "DC motor technology has become mainstream in the Japanese fan market at lower price points than in previous years. In 2023, DC motor fans (which draw 3–15W versus 30–60W for AC motor equivalents) were premium products at ¥20,000+. By 2026, Panasonic, Sharp, and Hitachi offer DC motor models starting around ¥15,000, and the electricity savings are real over a summer season: a DC fan running 8 hours daily for 90 days costs roughly ¥1,080–3,240 in electricity (at ¥30/kWh) versus ¥6,480–16,200 for an equivalent AC fan. In Japan's humid summer where fans often run for four months, the savings are meaningful.",
-        "The Dyson Pure Cool Me has held its position as the premium personal fan despite its age because no competitor has matched its combination of HEPA filtration, focused personal airflow, and build quality at a comparable price point. The 2026 landscape has several competitive bladeless fan alternatives from Chinese manufacturers at 40–60% of Dyson's price, but none with certified HEPA filtration."
+        "USB-C便攜風扇這個類別已顯著成熟。在2023年，USB-C風扇大多是動力不足的配件；到了2026年，像Satechi Dual這類機型已能從USB-C PD汲取高達10W的功率，所產生的氣流足以在環境溫度約28°C以下提供個人桌面降溫。實際意義是：你現在可以用替筆電充電的同一個USB-C集線器來驅動桌上型風扇，省去專用的牆上插座。在桌面插座有限的辦公室或旅行情境中，這真的很實用。",
+        "DC馬達技術已成為日本風扇市場的主流，而且價格比前幾年更親民。在2023年，DC馬達風扇（耗電3到15W，相較於同級AC馬達的30到60W）是¥20,000以上的高階產品。到了2026年，Panasonic、Sharp與Hitachi推出的DC馬達機型起價約¥15,000，而整個夏季的省電效果是實實在在的：一台DC風扇每天運轉8小時、連續90天，電費約¥1,080到3,240（以¥30/kWh計），而同級AC風扇則為¥6,480到16,200。在日本潮濕的夏天、風扇往往要運轉四個月的情況下，這筆節省相當可觀。",
+        "Dyson Pure Cool Me儘管推出已有年頭，仍穩居高階個人風扇的地位，因為沒有任何競品能在相近價位上兼顧HEPA過濾、聚焦個人氣流與做工品質。2026年的市場上有幾款來自中國廠商、價格只有Dyson四到六成的無葉片風扇可與之競爭，但沒有一款具備認證的HEPA過濾。"
       ]
     },
     {
-      "heading": "Where each fan fits",
+      "heading": "每款風扇的定位",
       "paragraphs": [
-        "The Dyson Pure Cool Me belongs on a desk in a home office or bedroom where air quality is genuinely a concern. Allergies, urban particulates, or pet dander are the use cases where the HEPA H13 filtration earns its premium over a standard fan. The focused personal airflow is well-engineered — the dome oscillates to spread airflow over a personal zone rather than just one point. It doesn't move enough air to cool a whole room; it cools the person in front of it. At $300–400, it is at minimum three to four times the price of any other personal desk fan.",
-        "The Vornado Pivot5 solves a different problem: rooms that feel stuffy despite being at an acceptable ambient temperature. The vortex circulation pulls air off the floor (cooler), pushes it toward the ceiling (warmer), and creates a spiral mixing that equilibrates the room temperature more evenly. In a room where the floor is 4°C cooler than the ceiling — common in rooms without central air mixing — the Pivot5 brings the perceived temperature down by equalizing the stratification. The pivoting base is genuinely useful for floor-to-table transitions without a separate mount.",
-        "The Honeywell HT-900 is the fan you buy when you want maximum airflow and minimum price with no requirements beyond 'moves air.' The 7-inch turbo blade design moves significantly more air than its small footprint suggests. At $30–55, it competes with no-name imports on price while having a longer reliability track record. The 90-degree pivot head is stiff — requires two hands to adjust — but stays put once positioned."
+        "Dyson Pure Cool Me適合放在家庭辦公室或臥室的桌上，前提是空氣品質確實是個顧慮。過敏、都市懸浮微粒或寵物皮屑等使用情境，正是HEPA H13過濾值回它高於一般風扇溢價的場合。其聚焦的個人氣流設計用心——圓頂會擺動，將氣流散布在一個個人區域，而非只吹一個點。它的送風量不足以為整個房間降溫；它降溫的對象是坐在前方的人。在$300到$400的價位，它至少是其他任何個人桌上型風扇的三到四倍價格。",
+        "Vornado Pivot5解決的是另一個問題：環境溫度尚可接受、卻仍感到悶滯的房間。渦流循環會把地面（較涼）的空氣帶起、推向天花板（較暖），並形成螺旋狀的混合，讓房間溫度更均勻地趨於一致。在地面比天花板低4°C的房間裡——這在沒有中央空氣混合的房間很常見——Pivot5透過消除這種分層，把體感溫度降下來。可轉向的底座在落地與桌面之間切換時非常實用，不需另外加裝支架。",
+        "Honeywell HT-900是你在只想要最大氣流、最低價格、除了「會吹風」之外別無要求時會買的風扇。7吋渦輪扇葉設計帶動的空氣量，遠超其小巧機身給人的印象。在$30到$55的價位，它在價格上能與雜牌進口貨競爭，卻有更長的可靠度紀錄。90度可轉向的扇頭偏緊——調整時需要雙手——但一旦定位就會穩穩固定。"
       ]
     },
     {
-      "heading": "Verdict",
+      "heading": "總評",
       "paragraphs": [
-        "For a desk in a home office or bedroom where you're mostly stationary: Dyson Pure Cool Me if air quality matters, Honeywell HT-900 if it doesn't. The gap between them is $270–350 and a HEPA filter. If allergies or urban particulates are not a concern, the Honeywell moves comparable personal airflow at a fraction of the cost.",
-        "For whole-room air circulation in Japan's summer, where the goal is mixing stratified air: Panasonic F-CL2025 DC fan. The DC motor's 8-speed range (including near-silent low settings) and 60–70% lower electricity consumption than AC fans make it the practical choice for running a fan 8–12 hours daily through a four-month humid season. The Vornado Pivot5 is the equivalent choice for US households.",
-        "The Satechi dual USB-C fan earns its place for travel and shared-office use where power outlet access is limited and noise must be kept below 40dB. It won't cool a room and it won't substitute for a real desk fan in hot conditions, but it's the right tool for the specific problem it solves."
+        "若是放在家庭辦公室或臥室、你大多時候靜止不動的桌面：在意空氣品質就選Dyson Pure Cool Me，不在意就選Honeywell HT-900。兩者之間的差距是$270到$350與一片HEPA濾網。如果過敏或都市懸浮微粒不是顧慮，Honeywell能以零頭的價格提供相當的個人氣流。",
+        "若要在日本夏天做整室空氣循環、目標是混合分層空氣：選Panasonic F-CL2025 DC風扇。DC馬達的8段轉速範圍（含近乎無聲的低檔）以及比AC風扇低60到70%的耗電量，使它成為整個四個月潮濕季節每天運轉8到12小時的實際選擇。對美國家庭而言，Vornado Pivot5是對應的選擇。",
+        "Satechi雙頭USB-C風扇在旅行與共用辦公室的使用情境中佔有一席之地，這類場合插座有限、噪音又必須壓在40dB以下。它無法為房間降溫，在炎熱條件下也無法取代真正的桌上型風扇，但對於它所解決的特定問題而言，它是對的工具。"
       ]
     }
   ],
   "products": [
     {
       "offerId": "portable-fan-dyson-pure-cool-me",
-      "badge": "Best Personal Air Purifying Fan",
-      "review": "The Dyson Pure Cool Me is a genuinely unusual product: a personal-zone desk fan with HEPA H13 air filtration built in. The dome-shaped head oscillates to project airflow over a focused personal zone rather than a point, and the 10 speed settings let you dial from near-silent background airflow to a noticeable personal breeze. The HEPA H13 filter captures 99.97% of particles at 0.3 microns — meaningful for allergy sufferers and urban apartment dwellers dealing with outdoor particulates. The filter replacement is annual at typical use (roughly $30–40 per filter). At $300–400, the price requires honest justification: if your only need is a desk fan, the Honeywell HT-900 moves comparable personal airflow at $30–55. The Dyson earns its price when the HEPA filtration is independently valuable, which means a home office with a pet, an urban apartment near a busy road, or a pollen season sufferer who wants their desk air cleaned.",
+      "badge": "最佳個人空氣淨化風扇",
+      "review": "Dyson Pure Cool Me是一款確實與眾不同的產品：一台內建HEPA H13空氣過濾的個人區域桌上型風扇。圓頂狀的扇頭會擺動，把氣流投射到一個聚焦的個人區域而非單一點上，10段轉速讓你能從近乎無聲的背景氣流調到明顯可感的個人涼風。HEPA H13濾網能捕捉99.97%的0.3微米微粒——對過敏患者與要面對戶外懸浮微粒的都市公寓住戶很有意義。一般使用下濾網一年更換一次（每片約$30到$40）。在$300到$400的價位，這個價格需要誠實的理由：如果你唯一的需求只是一台桌上型風扇，Honeywell HT-900只要$30到$55就能提供相當的個人氣流。Dyson值回價格的時機，是當HEPA過濾本身就有獨立價值的時候——也就是有寵物的家庭辦公室、靠近繁忙馬路的都市公寓，或是想讓桌邊空氣保持潔淨的花粉季過敏者。",
       "pros": [
-        "HEPA H13 filtration certified to capture 99.97% of 0.3 micron particles",
-        "Dome oscillation spreads airflow over a personal zone, not just one point",
-        "10 speed settings from near-silent to noticeable personal breeze",
-        "No fast-spinning exposed blades — genuinely safe around children"
+        "HEPA H13過濾經認證可捕捉99.97%的0.3微米微粒",
+        "圓頂擺動將氣流散布到一個個人區域，而非只吹一個點",
+        "10段轉速，從近乎無聲到明顯可感的個人涼風",
+        "沒有高速旋轉的外露扇葉——在孩童身邊確實安全"
       ],
       "cons": [
-        "At $300–400, costs 6–10x a capable personal desk fan without air filtration",
-        "Annual filter replacement cost (~$30–40) adds to total ownership cost",
-        "Does not move enough air to cool a full room — personal zone only"
+        "$300到$400的價格，是一台不含空氣過濾、性能不錯的個人桌上型風扇的6到10倍",
+        "每年的濾網更換成本（約$30到$40）會增加總持有成本",
+        "送風量不足以為整個房間降溫——僅限個人區域"
       ],
       "grade": "A",
       "specs": {
-        "Filtration": "HEPA H13 (99.97% at 0.3 microns)",
+        "Filtration": "HEPA H13（0.3微米達99.97%）",
         "Speed settings": "10",
-        "Oscillation": "Yes (dome oscillates for personal zone coverage)",
-        "Noise": "~32dB (low) to ~54dB (high)",
-        "Filter life": "Annual at typical use"
+        "Oscillation": "有（圓頂擺動以涵蓋個人區域）",
+        "Noise": "約32dB（低）至約54dB（高）",
+        "Filter life": "一般使用下一年一次"
       },
       "scores": {
         "Air purification": 5.0,
@@ -97,25 +97,25 @@
     },
     {
       "offerId": "portable-fan-vornado-pivot5",
-      "badge": "Best Compact Room Circulator",
-      "review": "The Pivot5 is Vornado's smallest room circulator, designed specifically for desk and floor versatility via its pivoting base. The vortex airflow signature — a spiral of moving air that forces room air into circulation rather than just blowing a directional breeze — makes this more effective for whole-room comfort than a larger directional fan at the same wattage. Four speed settings provide practical range from white-noise-level background airflow to full vortex. The cord wraps into the base for clean storage. At $50–80, it's positioned between a budget directional fan (Honeywell) and a premium purifying fan (Dyson). Its weakness: if you want concentrated personal cooling airflow aimed at your face, the Pivot5's vortex design feels less direct than a traditional desk fan — because it is. It's designed to move the room, not target the person.",
+      "badge": "最佳小型空氣循環扇",
+      "review": "Pivot5是Vornado最小的空氣循環扇，透過可轉向的底座專為桌面與落地兩用而設計。其標誌性的渦流氣流——一股螺旋狀流動的空氣，迫使房間空氣進入循環，而不只是吹出有方向的涼風——使它在相同瓦數下，比較大的定向風扇更能帶來整室的舒適。四段轉速提供了從白噪音等級的背景氣流到全速渦流的實用範圍。電線可纏繞收進底座，方便整齊收納。在$50到$80的價位，它的定位介於平價定向風扇（Honeywell）與高階淨化風扇（Dyson）之間。它的弱點在於：如果你想要對著臉吹的集中個人降溫氣流，Pivot5的渦流設計會感覺不如傳統桌上型風扇那麼直接——因為它本來就不是。它的設計是帶動整個房間，而非鎖定單一個人。",
       "pros": [
-        "Vortex airflow circulates whole-room air volume, not just a directional breeze",
-        "Pivoting base handles floor and desk use without separate mounting",
-        "Cord wraps into base for portable, tangle-free storage",
-        "Compact footprint for the airflow volume it moves"
+        "渦流氣流讓整室空氣循環，而不只是有方向的涼風",
+        "可轉向底座可應付落地與桌面使用，不需另外加裝支架",
+        "電線可纏繞收進底座，方便攜帶、不打結收納",
+        "以其帶動的送風量而言機身佔地小巧"
       ],
       "cons": [
-        "Less focused personal airflow than a directional desk fan — designed to move the room",
-        "No remote control, no timer, no smart features"
+        "個人氣流的集中度不如定向桌上型風扇——它的設計是帶動整個房間",
+        "沒有遙控器、沒有定時器、沒有智慧功能"
       ],
       "grade": "A",
       "specs": {
         "Speed settings": "4",
-        "Base type": "Pivoting (floor and desk)",
-        "Airflow type": "Vortex circulation",
-        "Power": "~35W at max",
-        "Noise": "~45dB at max"
+        "Base type": "可轉向（落地與桌面）",
+        "Airflow type": "渦流循環",
+        "Power": "全速約35W",
+        "Noise": "全速約45dB"
       },
       "scores": {
         "Room circulation": 5.0,
@@ -127,25 +127,25 @@
     },
     {
       "offerId": "portable-fan-honeywell-htf090",
-      "badge": "Best Budget Turbo Desk Fan",
-      "review": "The Honeywell HT-900 (also known as HTF090) is the fan that embarrasses expensive competitors on pure airflow per dollar. The 7-inch turbo blade design was engineered specifically for high-velocity focused output from a compact body, and it delivers: at full power, this small fan moves air perceptibly harder than many larger and more expensive desk fans. Three speed settings, 90-degree pivoting head, and that's largely it — no remote, no timer, no smart features. The 90-degree head pivot requires two hands and a firm grip to adjust, but it holds position reliably once set. At $30–55, there is no meaningful competition for pure value-to-airflow in the US market. The noise at full power (~55dB) is comparable to a small office fan — noticeable but not disruptive.",
+      "badge": "最佳平價渦輪桌上型風扇",
+      "review": "Honeywell HT-900（也稱HTF090）是一款在「每一塊錢換到的純氣流」上讓昂貴競品難堪的風扇。7吋渦輪扇葉設計專為從小巧機身輸出高風速、聚焦的氣流而打造，而它確實做到了：全速運轉時，這台小風扇吹出的風力明顯比許多更大、更貴的桌上型風扇更猛。三段轉速、90度可轉向扇頭，大致就是這些了——沒有遙控器、沒有定時器、沒有智慧功能。90度的扇頭轉向需要雙手與穩固的握力才能調整，但一旦設定好就能可靠地保持位置。在$30到$55的價位，美國市場上沒有任何在「純粹的性價比與氣流」上能與之相提並論的對手。全速時的噪音（約55dB）相當於一台小型辦公室風扇——聽得到但不至於干擾。",
       "pros": [
-        "7-inch turbo blade moves more air per dollar than any other fan here",
-        "Compact footprint fits on small desks without taking over the surface",
-        "Simple 3-speed operation with no unnecessary features",
-        "Long Honeywell reliability track record in the US market"
+        "7吋渦輪扇葉每一塊錢帶動的空氣量比這裡任何一款風扇都多",
+        "機身佔地小巧，放在小桌面上不會佔滿整個桌面",
+        "簡單的3段轉速操作，沒有多餘功能",
+        "Honeywell在美國市場有長期的可靠度紀錄"
       ],
       "cons": [
-        "90-degree head pivot requires two hands to adjust and is stiff",
-        "No remote, no timer, no oscillation — purely directional"
+        "90度扇頭轉向需要雙手調整，且偏緊",
+        "沒有遙控器、沒有定時器、沒有擺頭——純粹定向"
       ],
       "grade": "A",
       "specs": {
-        "Blade size": "7 inches (turbo)",
+        "Blade size": "7吋（渦輪）",
         "Speed settings": "3",
-        "Head pivot": "90 degrees",
-        "Power": "~27W at max",
-        "Noise": "~40dB (low) to ~55dB (high)"
+        "Head pivot": "90度",
+        "Power": "全速約27W",
+        "Noise": "約40dB（低）至約55dB（高）"
       },
       "scores": {
         "Airflow volume": 4.8,
@@ -157,26 +157,26 @@
     },
     {
       "offerId": "portable-fan-panasonic-dc-jp",
-      "badge": "Best DC Motor Fan (Japan)",
-      "review": "Panasonic's F-CL2025 DC motor fan is the pick for Japanese households running a fan through the entire four-month humid summer season. The DC motor draws 3–15W depending on speed versus 30–50W for an equivalent AC motor fan — over 90 days at 8 hours daily, that's a real electricity cost difference of roughly ¥5,000–8,000. Eight speed settings let you dial from a barely-perceptible airflow (useful for sleeping) to a full room-cooling breeze. The 40dB at mid-speed is genuinely quiet by fan standards. Nanoe ion technology adds light antibacterial function to the airflow, though the evidence for this beyond Panasonic's own data is limited — treat it as a bonus rather than a primary feature. Wide oscillation (left-right and up-down on some models) covers more room area than a fixed directional fan. PSE certified for Japan's safety standards.",
+      "badge": "最佳DC馬達風扇（日本）",
+      "review": "Panasonic的F-CL2025 DC馬達風扇是日本家庭整個四個月潮濕夏季都要開風扇時的首選。DC馬達依轉速耗電3到15W，相較於同級AC馬達風扇的30到50W——以每天8小時、連續90天計算，電費實際差距約¥5,000到8,000。八段轉速讓你能從幾乎察覺不到的氣流（適合睡眠）調到能為房間降溫的全速涼風。中速40dB以風扇的標準來說確實安靜。Nanoe離子技術為氣流增添了輕微的抗菌功能，不過除了Panasonic自家數據之外，支持此說的證據有限——把它當作附加價值而非主要功能看待。寬幅擺動（部分機型可左右及上下）涵蓋的房間面積比固定式定向風扇更大。已通過日本安全標準的PSE認證。",
       "pros": [
-        "DC motor draws 3–15W versus 30–50W for AC equivalents — meaningful electricity savings over a Japanese summer",
-        "8 speed settings including near-silent low settings for bedroom overnight use",
-        "40dB at mid speed — genuinely quiet for sustained use",
-        "PSE certification and Panasonic domestic warranty"
+        "DC馬達耗電3到15W，相較於同級AC的30到50W——在日本夏天可帶來可觀的省電",
+        "8段轉速，包含適合臥室過夜使用的近乎無聲低檔",
+        "中速40dB——長時間使用確實安靜",
+        "PSE認證與Panasonic日本國內保固"
       ],
       "cons": [
-        "Premium price versus AC fan equivalents — savings require sustained summer use to recoup",
-        "Nanoe ion antibacterial claims lack independent peer-reviewed evidence"
+        "價格高於同級AC風扇——須持續整個夏季使用才能回本",
+        "Nanoe離子的抗菌宣稱缺乏獨立同儕審查的證據"
       ],
       "grade": "A+",
       "specs": {
-        "Motor type": "DC (brushless)",
-        "Power consumption": "3–15W (varies by speed)",
+        "Motor type": "DC（無刷）",
+        "Power consumption": "3到15W（隨轉速變化）",
         "Speed settings": "8",
-        "Noise": "~40dB (mid speed)",
+        "Noise": "約40dB（中速）",
         "Certification": "PSE",
-        "Voltage": "100V (Japan)"
+        "Voltage": "100V（日本）"
       },
       "scores": {
         "Energy efficiency": 5.0,
@@ -188,25 +188,25 @@
     },
     {
       "offerId": "portable-fan-satechi-dual",
-      "badge": "Best USB-C Desk Fan",
-      "review": "The Satechi Dual USB-C fan occupies a specific niche: desk cooling in environments where wall outlets are scarce or noise must stay below 40dB. Drawing power from a USB-C port (compatible with USB-C PD hubs, laptops, and monitors), it eliminates the need for a dedicated outlet. The dual-head design points both fans at slightly different angles, covering a wider desk zone than a single-head fan. At 35dB, it's quiet enough for open office environments, video calls, and study spaces where a conventional fan's noise would be intrusive. The limitation is physics: USB-C's ~10W power ceiling means the Satechi cannot move the airflow volume of a 27W–50W AC fan. In a hot room above 28°C, it will not cool you adequately — it is a warm-weather-plus-mild-heat tool, not a summer-in-Osaka survival tool.",
+      "badge": "最佳USB-C桌上型風扇",
+      "review": "Satechi Dual USB-C風扇佔據一個特定的利基：在牆上插座稀少、或噪音必須維持在40dB以下的環境中提供桌面降溫。它由USB-C埠供電（相容於USB-C PD集線器、筆電與螢幕），省去對專用插座的需求。雙頭設計讓兩個扇頭以略微不同的角度吹送，涵蓋的桌面範圍比單頭風扇更廣。在35dB下，它安靜到足以用於開放式辦公環境、視訊通話與自習空間，這些場合一般風扇的噪音會造成干擾。其限制在於物理：USB-C約10W的功率上限意味著Satechi無法帶動27W到50W AC風扇的送風量。在28°C以上的悶熱房間裡，它無法為你充分降溫——它是用於溫暖天氣加上輕度炎熱的工具，而非在大阪夏天求生的工具。",
       "pros": [
-        "USB-C powered — draws from laptop, monitor, or hub without a dedicated wall outlet",
-        "35dB at max speed — quiet enough for video calls and open offices",
-        "Dual-head design covers wider desk zone than single-head fans",
-        "Flexible neck allows precise angle adjustment without moving the base"
+        "USB-C供電——可從筆電、螢幕或集線器取電，不需專用牆上插座",
+        "全速35dB——安靜到足以用於視訊通話與開放式辦公室",
+        "雙頭設計涵蓋的桌面範圍比單頭風扇更廣",
+        "可彎曲頸部可精準調整角度而不需移動底座"
       ],
       "cons": [
-        "~10W USB-C power ceiling limits airflow volume — insufficient for rooms above 28°C",
-        "Not a room cooler or a summer survival fan — personal desk use only in moderate conditions"
+        "約10W的USB-C功率上限限制了送風量——不足以應付28°C以上的房間",
+        "不是房間降溫機、也不是夏季求生風扇——僅適合在溫和條件下作個人桌面使用"
       ],
       "grade": "B+",
       "specs": {
-        "Power source": "USB-C (up to ~10W)",
-        "Heads": "Dual, flexible neck",
+        "Power source": "USB-C（最高約10W）",
+        "Heads": "雙頭，可彎曲頸部",
         "Speed settings": "3",
-        "Noise": "~35dB at max",
-        "Compatibility": "USB-C PD, most laptops and monitors"
+        "Noise": "全速約35dB",
+        "Compatibility": "USB-C PD、多數筆電與螢幕"
       },
       "scores": {
         "Convenience": 5.0,
@@ -219,18 +219,18 @@
   ],
   "faqs": [
     {
-      "q": "Should I get a desk fan or an air circulator for a hot bedroom?",
-      "a": "For a hot bedroom, an air circulator (Vornado Pivot5 or Panasonic DC fan) is more effective at actually lowering the room temperature over time, while a desk fan (Honeywell HT-900) makes you feel cooler immediately. In a bedroom where you sleep, you want the room temperature lower, not just a breeze on your face — the circulator wins for that use case. The practical compromise: run an air circulator for 30 minutes before sleeping to mix the room air, then switch to a desk fan on low aimed at the bed for sleeping. If you can only have one, a DC motor circulator on its lowest setting through the night is the quieter and more effective bedroom option."
+      "q": "悶熱的臥室該選桌上型風扇還是空氣循環扇？",
+      "a": "對於悶熱的臥室，空氣循環扇（Vornado Pivot5或Panasonic DC風扇）在隨時間實際降低房間溫度上更有效，而桌上型風扇（Honeywell HT-900）則能讓你立刻感覺涼爽。在你睡覺的臥室裡，你想要的是房間溫度更低，而不只是臉上有風——對這種使用情境而言循環扇勝出。實際的折衷做法是：睡前先開空氣循環扇30分鐘以混合房間空氣，然後切換成對著床、開低檔的桌上型風扇睡覺。如果只能擁有一台，整夜開在最低檔的DC馬達循環扇，是更安靜也更有效的臥室選擇。"
     },
     {
-      "q": "How much electricity does a fan use compared to an air conditioner?",
-      "a": "A typical AC motor desk fan draws 25–50W. A DC motor fan draws 3–15W. A window air conditioner draws 500–1500W and a portable AC draws 1000–1400W. Running a 40W AC fan 8 hours daily for 90 days at ¥30/kWh costs about ¥8,640 in Japan. A 10W DC fan over the same period costs about ¥2,160. A 900W portable AC costs ¥194,400 over the same 8-hour daily, 90-day period. The cost difference is not subtle. In climates where a fan alone is sufficient for comfort (below about 32°C ambient with low humidity), a DC fan is dramatically cheaper to operate than any air conditioning. Japan's humid summer makes fans alone insufficient once outdoor temperatures exceed 35°C and humidity stays above 70% — at that point, air conditioning is necessary and fans supplement it to allow setting the AC target temperature 2–3°C higher, which itself saves significant energy."
+      "q": "風扇與冷氣相比耗電多少？",
+      "a": "一台典型的AC馬達桌上型風扇耗電25到50W。DC馬達風扇耗電3到15W。窗型冷氣耗電500到1500W，移動式冷氣則耗電1000到1400W。在日本以¥30/kWh計，一台40W的AC風扇每天運轉8小時、連續90天，電費約¥8,640。同期間一台10W的DC風扇約¥2,160。一台900W的移動式冷氣在同樣每天8小時、90天的期間則為¥194,400。這個成本差距並不細微。在光靠風扇就足以維持舒適的氣候裡（環境約32°C以下且濕度低），DC風扇的運轉成本遠比任何冷氣便宜得多。日本潮濕的夏天會讓單靠風扇變得不足，一旦戶外溫度超過35°C、濕度維持在70%以上——到了那個地步，冷氣就有其必要，而風扇則作為輔助，讓冷氣的目標溫度可以設高2到3°C，這本身就能省下可觀的能源。"
     },
     {
-      "q": "What does Panasonic's nanoe ion technology actually do in a fan?",
-      "a": "Nanoe technology emits hydroxyl radicals enclosed in water — Panasonic calls these OH radicals — which the company claims inhibit bacteria and deactivate some viruses and allergens in the airstream. Panasonic has published internal testing data supporting these claims. Independent peer-reviewed research on nanoe specifically (versus OH radical chemistry generally) is more limited. The practical reality: the antibacterial function in a fan context means the air blown from the fan carries trace OH radicals that contact surfaces and airborne particles in the room. Whether this produces measurable indoor air quality improvement in a real home versus a controlled test chamber is genuinely uncertain. Don't buy the Panasonic F-CL2025 for the nanoe technology specifically; buy it for the DC motor's energy efficiency and the 8-speed range. The nanoe is a bonus."
+      "q": "Panasonic的nanoe離子技術在風扇裡實際上有什麼作用？",
+      "a": "Nanoe技術會釋放包覆在水中的羥基自由基——Panasonic稱之為OH自由基——該公司宣稱這能抑制細菌，並使氣流中的部分病毒與過敏原失去活性。Panasonic已公布支持這些宣稱的內部測試數據。針對nanoe本身（相對於一般OH自由基化學）的獨立同儕審查研究則較為有限。實際情況是：在風扇情境下的抗菌功能意味著從風扇吹出的空氣帶有微量OH自由基，會接觸到房間裡的表面與空氣中的微粒。至於這在真實住家相較於受控測試艙中是否能帶來可量測的室內空氣品質改善，確實仍不確定。不要單為了nanoe技術而購買Panasonic F-CL2025；要為了DC馬達的能源效率與8段轉速範圍而買它。nanoe是附加價值。"
     }
   ],
-  "pinDescription": "Five portable fans compared for 2026 — Dyson Pure Cool Me vs Vornado vs Panasonic DC motor. Airflow vs noise vs electricity cost. The real difference between desk fans and room circulators. USB-C powered fan for offices. Japanese summer survival guide.",
+  "pinDescription": "五款便攜風扇2026年比較——Dyson Pure Cool Me對比Vornado對比Panasonic DC馬達。氣流對比噪音對比電費。桌上型風扇與空氣循環扇之間的真實差異。辦公室適用的USB-C供電風扇。日本夏季求生指南。",
   "offerNotes": ""
 }

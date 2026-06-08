@@ -1,100 +1,100 @@
 {
-  "title": "최고의 파워뱅크 2026: PD 100W 충전, 용량 및 실제 출력으로 비교한 5개 모델",
-  "description": "Anker 737, Baseus Blade 100W, Zendure SuperTank Pro, Mophie Powerstation Pro 및 INIU B63를 USB-C PD 100W 지원, 실제 용량(mAh), 동시 충전 포트, 항공사 준수 및 각각이 실제로 설계된 용도로 비교",
-  "lede": "Five power banks for laptops, phones, and cameras — compared on the specs that actually determine usefulness: PD 100W output, real-world capacity, simultaneous port behavior, and whether you can take them on a plane.",
-  "methodology": "제품은 최대 USB-C PD 출력(와트), 정격 용량(셀 전압 3.6V 또는 3.7V 기준 mAh), 여러 포트 동시 사용 시 출력 동작, 기내 휴대 수하물 규정 적합성(100Wh 한도 이하의 Wh 값), 고속 충전 프로토콜 지원(PD 3.0/3.1, QC 4+, AFC), 포트 수, 본체 크기와 무게, 그리고 0%에서 100%까지 충전 시간을 기준으로 평가했습니다. 가격은 2026년 5월 기준 미국 아마존과 일본 아마존을 참고했습니다.",
+  "title": "최고의 파워뱅크 2026: PD 100W와 용량으로 비교한 5종",
+  "description": "Anker 737, Baseus Blade 100W, Zendure SuperTank Pro, Mophie Powerstation Pro, INIU B63를 USB-C PD 100W 지원, 실제 용량(mAh), 동시 충전 포트, 항공사 규정 적합성, 그리고 각 제품이 실제로 어떤 용도로 설계되었는지를 기준으로 비교했습니다.",
+  "lede": "노트북, 스마트폰, 카메라를 위한 파워뱅크 5종을 실제 유용성을 좌우하는 사양으로 비교했습니다 — PD 100W 출력, 실사용 용량, 동시 포트 동작, 그리고 비행기에 들고 탈 수 있는지 여부.",
+  "methodology": "제품은 최대 USB-C PD 출력(와트), 정격 용량(셀 전압 3.6V 또는 3.7V 기준 mAh), 여러 포트 동시 사용 시 출력 동작, 기내 휴대 수하물 규정 적합성(100Wh 한도 이하의 Wh 값), 고속 충전 프로토콜 지원(PD 3.0/3.1, QC 4+, AFC), 포트 수, 본체 크기와 무게, 그리고 0%에서 100%까지의 충전 시간을 기준으로 평가했습니다. 가격은 2026년 5월 기준 미국 아마존과 일본 아마존을 참고했습니다.",
   "recommendedFor": [
     {
-      "label": "For MacBook and laptop users who need 100W charging on the go",
+      "label": "이동 중에 100W 충전이 필요한 맥북 및 노트북 사용자에게",
       "offerId": "power-bank-anker-737",
-      "reason": "Anker 737's 24,000 mAh with a dedicated 140W PD port charges a MacBook Pro 14 from 0% to 60% in one pass — the fastest laptop charge here."
+      "reason": "Anker 737의 24,000mAh와 전용 140W PD 포트는 MacBook Pro 14를 한 번에 0%에서 60%까지 충전합니다 — 여기서 가장 빠른 노트북 충전 속도입니다."
     },
     {
-      "label": "For travelers who need a slim 100W power bank in carry-on",
+      "label": "기내 휴대용으로 얇은 100W 파워뱅크가 필요한 여행자에게",
       "offerId": "power-bank-baseus-blade-100w",
-      "reason": "Baseus Blade's credit-card thickness profile at 20,000 mAh and 100W PD fits in a jacket pocket and passes airline 99.9 Wh compliance."
+      "reason": "Baseus Blade의 신용카드 두께 프로파일은 20,000mAh와 100W PD를 갖추고도 재킷 주머니에 들어가며, 항공사 99.9Wh 규정을 통과합니다."
     },
     {
-      "label": "For photographers and videographers who need maximum capacity without airline restrictions",
+      "label": "항공사 제한 없이 최대 용량이 필요한 사진작가와 영상 제작자에게",
       "offerId": "power-bank-zendure-supertank-pro",
-      "reason": "Zendure SuperTank Pro at 26,800 mAh / 99.36 Wh is the largest-capacity airline-legal power bank here — charges a camera battery system plus phone plus earbuds simultaneously."
+      "reason": "26,800mAh / 99.36Wh의 Zendure SuperTank Pro는 여기서 항공 반입이 가능한 최대 용량 파워뱅크로, 카메라 배터리 시스템과 스마트폰, 이어버드를 동시에 충전합니다."
     },
     {
-      "label": "For iPhone users who want MagSafe wireless charging in a premium power bank",
+      "label": "프리미엄 파워뱅크에서 MagSafe 무선 충전을 원하는 아이폰 사용자에게",
       "offerId": "power-bank-mophie-powerstation-pro",
-      "reason": "Mophie Powerstation Pro XL includes a built-in MagSafe-compatible wireless charging pad alongside 25W wired PD — the most iPhone-native power bank in this comparison."
+      "reason": "Mophie Powerstation Pro XL은 25W 유선 PD와 함께 내장 MagSafe 호환 무선 충전 패드를 갖춰 이 비교에서 가장 아이폰 친화적인 파워뱅크입니다."
     },
     {
-      "label": "For budget-conscious daily commuters who need multi-port charging",
+      "label": "멀티 포트 충전이 필요한 가성비 중시 일상 통근자에게",
       "offerId": "power-bank-iniu-b63",
-      "reason": "INIU B63's 25,000 mAh with simultaneous three-port output at $35 is the best value for commuters who charge phone, earbuds, and tablet from one bank."
+      "reason": "INIU B63의 25,000mAh와 3포트 동시 출력은 $35로, 스마트폰·이어버드·태블릿을 하나의 뱅크로 충전하는 통근자에게 최고의 가성비입니다."
     }
   ],
   "sections": [
     {
-      "heading": "USB-C PD 100W: what it means and which devices it actually charges",
+      "heading": "USB-C PD 100W: 무엇을 의미하며 실제로 어떤 기기를 충전하는가",
       "paragraphs": [
-        "USB Power Delivery (PD) 3.0 at 100W is the charging protocol that enables a power bank to meaningfully charge a laptop rather than merely trickle power into it. A MacBook Air (M3) requires 45W–67W to charge at useful speeds. A MacBook Pro 14-inch requires 70W–96W for meaningful charge under load. A Dell XPS 13 and Lenovo ThinkPad X1 Carbon both support 65W USB-C PD charging. Without at least 60W of PD output, plugging a laptop into a power bank while working will result in the laptop drawing more power than the bank provides — the battery continues to drain, just more slowly. At 100W PD output, all current consumer laptops except 16-inch MacBook Pro (which supports up to 140W) will charge at full speed from a power bank.",
-        "The Anker 737 supports USB-C PD at up to 140W on its primary port (PD 3.1 Extended Power Range) — the first power bank in this comparison to exceed the standard 100W limit. This matters specifically for the 16-inch MacBook Pro, which can fully charge from 140W. The Baseus Blade 100W, Zendure SuperTank Pro, and Mophie Powerstation Pro XL all support 100W PD via USB-C. The INIU B63 supports 65W PD — sufficient to charge most ultrabook laptops but not sufficient for charging a MacBook Pro 16 under load. The USB-C port output when multiple ports are in simultaneous use is the hidden differentiator: the Anker 737 drops its PD port from 140W to 60W when a second device is connected; the Baseus Blade splits total output across ports; the Zendure maintains 100W on its primary port while providing up to 30W on secondary ports simultaneously.",
-        "Airline carry-on compliance for power banks is determined by the International Air Transport Association (IATA) regulation, which limits each power bank to a maximum of 100 Wh (watt-hours) for carry-on without special approval. The relationship between mAh and Wh depends on cell voltage: Wh = (mAh × V) / 1000. At a standard 3.7V nominal cell voltage: 20,000 mAh = 74 Wh (compliant); 26,800 mAh = 99.16 Wh (compliant, near the limit); 30,000 mAh = 111 Wh (non-compliant for standard carry-on). The Anker 737 at 24,000 mAh × 3.65V = 87.6 Wh — compliant. The Zendure SuperTank Pro at 26,800 mAh = 99.36 Wh — compliant but within 0.64 Wh of the limit; some airlines have rejected it on inspection due to proximity to the limit, so carrying the product spec sheet is recommended. The INIU B63 at 25,000 mAh = 92.5 Wh — compliant."
+        "USB Power Delivery(PD) 3.0 100W는 파워뱅크가 단순히 노트북에 미미하게 전력을 흘려보내는 수준을 넘어 의미 있게 충전할 수 있게 하는 충전 프로토콜입니다. MacBook Air(M3)는 유용한 속도로 충전하려면 45W~67W가 필요합니다. MacBook Pro 14인치는 부하 상태에서 의미 있는 충전을 위해 70W~96W가 필요합니다. Dell XPS 13과 Lenovo ThinkPad X1 Carbon은 모두 65W USB-C PD 충전을 지원합니다. PD 출력이 최소 60W가 되지 않으면, 작업하면서 노트북을 파워뱅크에 연결할 경우 노트북이 뱅크가 공급하는 것보다 더 많은 전력을 끌어다 써서 — 배터리는 더 느리게이긴 하지만 계속 소모됩니다. 100W PD 출력에서는 16인치 MacBook Pro(최대 140W 지원)를 제외한 현행 모든 소비자용 노트북이 파워뱅크에서 최고 속도로 충전됩니다.",
+        "Anker 737은 기본 포트에서 최대 140W의 USB-C PD(PD 3.1 Extended Power Range)를 지원합니다 — 이 비교에서 표준 100W 한도를 넘는 첫 번째 파워뱅크입니다. 이는 특히 140W로 완전 충전이 가능한 16인치 MacBook Pro에 중요합니다. Baseus Blade 100W, Zendure SuperTank Pro, Mophie Powerstation Pro XL은 모두 USB-C를 통한 100W PD를 지원합니다. INIU B63은 65W PD를 지원합니다 — 대부분의 울트라북 노트북을 충전하기에는 충분하지만 부하 상태의 MacBook Pro 16을 충전하기에는 부족합니다. 여러 포트를 동시에 사용할 때의 USB-C 포트 출력이 숨은 차별화 요소입니다: Anker 737은 두 번째 기기가 연결되면 PD 포트가 140W에서 60W로 떨어지고, Baseus Blade는 총 출력을 포트 간에 나눠 쓰며, Zendure는 보조 포트에 최대 30W를 동시에 공급하면서도 기본 포트에서 100W를 유지합니다.",
+        "파워뱅크의 기내 휴대 수하물 규정 적합성은 국제항공운송협회(IATA) 규정으로 정해지며, 별도 승인 없이 휴대 가능한 파워뱅크 1개당 최대 100Wh(와트시)로 제한합니다. mAh와 Wh의 관계는 셀 전압에 따라 달라집니다: Wh = (mAh × V) / 1000. 표준 3.7V 공칭 셀 전압에서: 20,000mAh = 74Wh(적합); 26,800mAh = 99.16Wh(적합, 한도 근접); 30,000mAh = 111Wh(표준 휴대 부적합). Anker 737은 24,000mAh × 3.65V = 87.6Wh로 적합합니다. Zendure SuperTank Pro는 26,800mAh = 99.36Wh로 적합하지만 한도까지 0.64Wh밖에 남지 않았습니다. 일부 항공사는 한도 근접을 이유로 검사 시 반입을 거부한 사례가 있어 제품 사양서를 휴대하는 것이 권장됩니다. INIU B63은 25,000mAh = 92.5Wh로 적합합니다."
       ]
     },
     {
-      "heading": "Real capacity vs. rated mAh: why the numbers differ",
+      "heading": "실제 용량 vs. 정격 mAh: 숫자가 다른 이유",
       "paragraphs": [
-        "A power bank rated at 20,000 mAh does not deliver 20,000 mAh to your device. The rating is measured at the internal cell voltage (typically 3.6V–3.7V). When power is converted by the bank's DC-DC converter to the output voltage your device receives (5V, 9V, 12V, 20V depending on the charging protocol), conversion losses of 10–20% are typical for good-quality power banks, and up to 30% for poor-quality drivers. A 20,000 mAh bank with 85% efficiency at 5V output delivers approximately 17,000 mAh of effective capacity at 5V — or approximately 15.3 Ah. At 20V (100W PD output), the same bank may deliver only 14,000 mAh effective capacity if the step-up DC converter efficiency drops further at higher voltages.",
-        "The practical benchmark is how many times a specific device charges from 0% to 100%. A standard iPhone 16 has an approximately 3,561 mAh battery. A Samsung Galaxy S25 has approximately 4,000 mAh. A MacBook Air M3 has approximately 52.6 Wh (approximately 14,220 mAh at 3.7V). With a 20,000 mAh power bank at 85% efficiency, you can expect approximately 5 iPhone 16 charges, 4.3 Galaxy S25 charges, or approximately 1.2 MacBook Air charges. The Anker 737 at 24,000 mAh provides approximately 1.4 MacBook Air charges or 5.8 iPhone 16 charges. The Zendure SuperTank Pro at 26,800 mAh provides approximately 1.6 MacBook Air charges or 6.4 iPhone 16 charges.",
-        "Recharge time from 0% to 100% matters for power banks that are used daily. A 24,000 mAh power bank recharged via a 65W USB-C PD charger will take approximately 2.5–3 hours to fully charge. Recharged via a standard 18W USB-C adapter, the same bank takes 6–8 hours. The Anker 737 includes a 140W pass-through charging port — you can charge both the power bank and a connected laptop simultaneously from a single 140W wall adapter. The Baseus Blade 100W supports 100W input for fast self-recharge. The Zendure SuperTank Pro supports 100W input, recharging to 80% in approximately 90 minutes with a 100W adapter."
+        "20,000mAh로 표시된 파워뱅크가 기기에 20,000mAh를 그대로 전달하지는 않습니다. 정격은 내부 셀 전압(일반적으로 3.6V~3.7V)에서 측정됩니다. 뱅크의 DC-DC 컨버터가 기기가 받는 출력 전압(충전 프로토콜에 따라 5V, 9V, 12V, 20V)으로 변환할 때, 품질이 좋은 파워뱅크는 보통 10~20%, 품질이 낮은 드라이버는 최대 30%의 변환 손실이 발생합니다. 5V 출력에서 효율 85%인 20,000mAh 뱅크는 5V 기준 약 17,000mAh의 유효 용량 — 즉 약 15.3Ah를 전달합니다. 20V(100W PD 출력)에서는 더 높은 전압에서 승압 DC 컨버터 효율이 추가로 떨어질 경우 같은 뱅크가 유효 용량 14,000mAh만 전달할 수도 있습니다.",
+        "실용적인 기준은 특정 기기를 0%에서 100%까지 몇 번 충전할 수 있는가입니다. 표준 iPhone 16의 배터리는 약 3,561mAh입니다. Samsung Galaxy S25는 약 4,000mAh입니다. MacBook Air M3는 약 52.6Wh(3.7V 기준 약 14,220mAh)입니다. 효율 85%인 20,000mAh 파워뱅크라면 iPhone 16 약 5회, Galaxy S25 4.3회, 또는 MacBook Air 약 1.2회 충전을 기대할 수 있습니다. 24,000mAh의 Anker 737은 MacBook Air 약 1.4회 또는 iPhone 16 5.8회 충전을 제공합니다. 26,800mAh의 Zendure SuperTank Pro는 MacBook Air 약 1.6회 또는 iPhone 16 6.4회 충전을 제공합니다.",
+        "0%에서 100%까지의 재충전 시간은 매일 사용하는 파워뱅크에서 중요합니다. 65W USB-C PD 충전기로 재충전하는 24,000mAh 파워뱅크는 완충까지 약 2.5~3시간이 걸립니다. 표준 18W USB-C 어댑터로 재충전하면 같은 뱅크가 6~8시간이 걸립니다. Anker 737은 140W 패스스루 충전 포트를 포함합니다 — 단일 140W 벽면 어댑터로 파워뱅크와 연결된 노트북을 동시에 충전할 수 있습니다. Baseus Blade 100W는 빠른 자체 재충전을 위해 100W 입력을 지원합니다. Zendure SuperTank Pro는 100W 입력을 지원하며, 100W 어댑터로 약 90분 만에 80%까지 재충전됩니다."
       ]
     },
     {
-      "heading": "What makes a power bank actually useful in travel and daily carry",
+      "heading": "여행과 일상 휴대에서 파워뱅크를 실제로 유용하게 만드는 것",
       "paragraphs": [
-        "Weight and form factor determine whether a power bank actually travels. A power bank that sits in a bag because it's too heavy or awkward to carry on a coffee meeting is not useful. The Baseus Blade 100W at 270g and approximately 11mm thickness fits in a jacket side pocket — genuinely pocketable for a 20,000 mAh bank. The INIU B63 at 498g is lighter than the Anker 737 (505g) and Zendure SuperTank Pro (490g) while providing more simultaneous charging ports. The Mophie Powerstation Pro XL at 680g is the heaviest in this comparison — justified by its MagSafe wireless pad but noticeable in a bag.",
-        "Simultaneous charging behavior is the most important operational detail for users who charge multiple devices. All five power banks in this comparison can charge multiple devices simultaneously, but the power distribution behavior differs significantly. The Anker 737 delivers 140W on USB-C port 1 alone; when you connect a device to USB-C port 2, it renegotiates and shares total budget — port 1 drops to 60W and port 2 gets up to 60W as well. For MacBook Pro users who also need to charge a phone simultaneously, this means the laptop charges more slowly. The Zendure SuperTank Pro maintains 100W on its primary USB-C port while providing 30W on port 2 simultaneously — a better simultaneous behavior for laptop-plus-phone charging.",
-        "Fast charge protocol support for the device matters. USB-C PD covers Apple, Google Pixel, Samsung Galaxy, and most modern laptops. Qualcomm Quick Charge 4+ (QC4+) covers older Samsung and Android devices. Huawei AFC (Adaptive Fast Charge) covers Huawei phones. All five power banks in this comparison support USB-C PD at some level. The INIU B63 additionally supports QC4+, QC3.0, AFC, SCP, and FCP — the most comprehensive fast-charge protocol support in this comparison for mixed-device households with older Android phones alongside modern USB-C devices."
+        "무게와 폼팩터가 파워뱅크를 실제로 들고 다니게 될지를 결정합니다. 너무 무겁거나 거추장스러워서 커피 미팅에 들고 가지 않고 가방에 처박혀 있는 파워뱅크는 쓸모가 없습니다. 270g에 약 11mm 두께의 Baseus Blade 100W는 재킷 옆주머니에 들어갑니다 — 20,000mAh 뱅크치고는 진정으로 주머니 휴대가 가능합니다. 498g의 INIU B63은 Anker 737(505g)이나 Zendure SuperTank Pro(490g)보다 가벼우면서도 더 많은 동시 충전 포트를 제공합니다. 680g의 Mophie Powerstation Pro XL은 이 비교에서 가장 무겁습니다 — MagSafe 무선 패드로 정당화되긴 하지만 가방에서 무게감이 느껴집니다.",
+        "동시 충전 동작은 여러 기기를 충전하는 사용자에게 가장 중요한 운용상의 세부 사항입니다. 이 비교의 다섯 파워뱅크 모두 여러 기기를 동시에 충전할 수 있지만, 전력 분배 동작은 크게 다릅니다. Anker 737은 USB-C 포트 1 단독으로 140W를 공급합니다. USB-C 포트 2에 기기를 연결하면 재협상하여 총 예산을 나눕니다 — 포트 1은 60W로 떨어지고 포트 2도 최대 60W를 받습니다. 스마트폰을 동시에 충전해야 하는 MacBook Pro 사용자에게는 노트북이 더 느리게 충전된다는 의미입니다. Zendure SuperTank Pro는 기본 USB-C 포트에서 100W를 유지하면서 포트 2에 동시에 30W를 공급합니다 — 노트북과 스마트폰을 함께 충전할 때 더 나은 동시 동작입니다.",
+        "기기에 대한 고속 충전 프로토콜 지원도 중요합니다. USB-C PD는 Apple, Google Pixel, Samsung Galaxy 및 대부분의 최신 노트북을 포괄합니다. Qualcomm Quick Charge 4+(QC4+)는 구형 Samsung 및 Android 기기를 포괄합니다. Huawei AFC(Adaptive Fast Charge)는 Huawei 스마트폰을 포괄합니다. 이 비교의 다섯 파워뱅크 모두 어느 정도의 USB-C PD를 지원합니다. INIU B63은 추가로 QC4+, QC3.0, AFC, SCP, FCP를 지원합니다 — 구형 Android 스마트폰과 최신 USB-C 기기가 섞여 있는 가정에서 이 비교 중 가장 포괄적인 고속 충전 프로토콜 지원입니다."
       ]
     },
     {
-      "heading": "The right power bank for the right use",
+      "heading": "용도에 맞는 적합한 파워뱅크",
       "paragraphs": [
-        "The Anker 737 Power Bank (PowerCore 24K) at approximately $119 is the correct choice for MacBook and laptop users who need the fastest possible USB-C PD charging in a carry-on-compliant power bank. The 140W PD 3.1 EPR port is the only port in this comparison exceeding 100W — it fully charges a MacBook Pro 16 at full speed while also delivering meaningful power to a second device. The built-in display shows remaining capacity as a percentage rather than LED dots — more useful for planning around how many charges remain. The 87.6 Wh rating comfortably passes IATA carry-on compliance. Honest weaknesses: at 505g it is one of the heavier options here; the primary PD port drops significantly when a second device is connected; charging itself requires a 65W+ adapter for reasonable recharge speed.",
-        "The Baseus Blade 100W at approximately $79 is the correct pick for business travelers who need 100W laptop charging in the most packable form factor available. The credit-card thickness profile at 11mm and 270g makes it genuinely pocketable in ways no other 20,000 mAh power bank in this comparison achieves. The 100W PD output charges MacBook Air at full speed and MacBook Pro 14 at practical speeds. The 99.9 Wh rating clearly passes airline compliance. Honest weaknesses: 20,000 mAh is the smallest capacity in this comparison; the thin profile means the charging cable must be inserted at a specific angle because the USB-C ports are recessed into the edge; recharge via the included cable at 100W is fast but requires a high-wattage wall adapter not included in the box.",
-        "The Zendure SuperTank Pro at approximately $129 is the correct choice for photographers, videographers, and heavy mobile users who need the maximum legal airline carry-on capacity with simultaneous multi-device charging. 26,800 mAh (99.36 Wh) is the largest capacity in this comparison within airline limits. The simultaneous charging behavior (100W port 1 + 30W port 2 + 18W USB-A) makes it the best in this comparison for powering a laptop, camera battery, and phone simultaneously. A built-in LCD shows exact Wh remaining rather than percentage. Honest weaknesses: 490g is heavy for daily pocket carry; the proximity to the 100 Wh airline limit means some airlines have rejected it on visual inspection of the rating label — carry the spec sheet; the body runs warm during simultaneous multi-device charging.",
-        "The Mophie Powerstation Pro XL at approximately $149 is the correct choice for iPhone users who want the convenience of MagSafe-compatible wireless charging alongside USB-C PD in a single device. The integrated Qi2/MagSafe wireless pad eliminates the need for a separate cable when charging an iPhone — useful for bedside or desk charging where reaching for a cable is an inconvenience. The 25W USB-C PD port charges an iPad or small laptop at moderate speeds. At 20,000 mAh (approximately 74 Wh), it is well within airline carry-on limits. Honest weaknesses: 680g is the heaviest in this comparison — the wireless pad adds bulk; the 25W USB-C output is the lowest in this comparison and will not fast-charge a MacBook Pro or Air at full speed; MagSafe wireless charging output is 15W, which is slower than the 25W wired output.",
-        "The INIU B63 at approximately $35 is the correct pick for commuters and daily users who need to charge three devices simultaneously at the best value in this comparison. 25,000 mAh with three output ports (65W USB-C + 22.5W USB-C + 22.5W USB-A) means a phone, earbuds, and tablet can all charge simultaneously from one bank. QC4+, QC3.0, AFC, SCP, and FCP protocol support makes it compatible with virtually every fast-charge standard used in current Android and Apple devices. The LED display shows four power level indicators. Honest weaknesses: 65W maximum output means a MacBook Pro under load will charge slowly or plateau; build quality at $35 is functional but the exterior finish is plastic rather than aluminum; the three-port simultaneous behavior reduces individual port output — total simultaneous output is capped at approximately 90W distributed across all three ports."
+        "약 $119의 Anker 737 파워뱅크(PowerCore 24K)는 기내 규정에 적합한 파워뱅크에서 가능한 가장 빠른 USB-C PD 충전이 필요한 맥북 및 노트북 사용자를 위한 올바른 선택입니다. 140W PD 3.1 EPR 포트는 이 비교에서 100W를 넘는 유일한 포트로 — MacBook Pro 16을 최고 속도로 완전 충전하면서 동시에 두 번째 기기에도 의미 있는 전력을 전달합니다. 내장 디스플레이는 남은 용량을 LED 점이 아니라 퍼센트로 표시합니다 — 몇 번 더 충전할 수 있는지 계획을 세우는 데 더 유용합니다. 87.6Wh 정격은 IATA 휴대 규정을 여유 있게 통과합니다. 솔직한 약점: 505g으로 여기서 무거운 편에 속하며, 두 번째 기기가 연결되면 기본 PD 포트가 크게 떨어지고, 충전 자체에 합리적인 재충전 속도를 내려면 65W+ 어댑터가 필요합니다.",
+        "약 $79의 Baseus Blade 100W는 가장 휴대성이 좋은 폼팩터에서 100W 노트북 충전이 필요한 출장 여행자를 위한 올바른 선택입니다. 11mm 두께와 270g 무게의 신용카드 두께 프로파일은 이 비교의 다른 어떤 20,000mAh 파워뱅크도 이루지 못한 방식으로 진정한 주머니 휴대를 가능하게 합니다. 100W PD 출력은 MacBook Air를 최고 속도로, MacBook Pro 14를 실용적인 속도로 충전합니다. 99.9Wh 정격은 항공사 규정을 명확히 통과합니다. 솔직한 약점: 20,000mAh는 이 비교에서 가장 작은 용량이고, 얇은 프로파일 때문에 USB-C 포트가 가장자리에 함몰되어 있어 충전 케이블을 특정 각도로 꽂아야 하며, 100W로 동봉 케이블을 통한 재충전은 빠르지만 박스에 포함되지 않은 고출력 벽면 어댑터가 필요합니다.",
+        "약 $129의 Zendure SuperTank Pro는 동시 멀티 기기 충전과 함께 항공 반입이 법적으로 가능한 최대 용량이 필요한 사진작가, 영상 제작자, 헤비 모바일 사용자를 위한 올바른 선택입니다. 26,800mAh(99.36Wh)는 항공 한도 내에서 이 비교의 최대 용량입니다. 동시 충전 동작(포트 1 100W + 포트 2 30W + USB-A 18W)은 노트북, 카메라 배터리, 스마트폰을 동시에 구동하는 데 이 비교에서 최고입니다. 내장 LCD는 퍼센트가 아닌 정확한 잔량 Wh를 표시합니다. 솔직한 약점: 490g은 일상 주머니 휴대에는 무겁고, 100Wh 항공 한도에 근접해 일부 항공사가 정격 라벨을 육안으로 검사해 반입을 거부한 적이 있으므로 사양서를 휴대하세요. 또한 동시 멀티 기기 충전 중 본체가 따뜻해집니다.",
+        "약 $149의 Mophie Powerstation Pro XL은 단일 기기에서 USB-C PD와 함께 MagSafe 호환 무선 충전의 편리함을 원하는 아이폰 사용자를 위한 올바른 선택입니다. 통합 Qi2/MagSafe 무선 패드는 아이폰을 충전할 때 별도 케이블이 필요 없게 해줍니다 — 케이블을 찾는 것이 번거로운 침대 옆이나 책상 충전에 유용합니다. 25W USB-C PD 포트는 iPad나 소형 노트북을 적당한 속도로 충전합니다. 20,000mAh(약 74Wh)로 항공 휴대 한도에 충분히 들어옵니다. 솔직한 약점: 680g으로 이 비교에서 가장 무겁고 — 무선 패드가 부피를 더하며, 25W USB-C 출력은 이 비교에서 가장 낮아 MacBook Pro나 Air를 최고 속도로 고속 충전하지 못하고, MagSafe 무선 충전 출력은 15W로 25W 유선 출력보다 느립니다.",
+        "약 $35의 INIU B63은 이 비교에서 최고의 가성비로 세 기기를 동시에 충전해야 하는 통근자와 일상 사용자를 위한 올바른 선택입니다. 세 개의 출력 포트(65W USB-C + 22.5W USB-C + 22.5W USB-A)를 갖춘 25,000mAh로 스마트폰, 이어버드, 태블릿을 모두 하나의 뱅크에서 동시에 충전할 수 있습니다. QC4+, QC3.0, AFC, SCP, FCP 프로토콜 지원은 현행 Android 및 Apple 기기에서 사용되는 사실상 모든 고속 충전 표준과 호환되게 합니다. LED 디스플레이는 네 단계의 전력 수준 표시기를 보여줍니다. 솔직한 약점: 최대 65W 출력은 부하 상태의 MacBook Pro를 느리게 충전하거나 충전이 정체된다는 의미이며, $35의 빌드 품질은 기능적이지만 외장 마감이 알루미늄이 아닌 플라스틱이고, 3포트 동시 동작은 개별 포트 출력을 줄여 — 총 동시 출력이 세 포트에 분배되어 약 90W로 제한됩니다."
       ]
     }
   ],
   "faqs": [
     {
-      "q": "How do I calculate if a power bank is airline-compliant?",
-      "a": "The IATA rule is 100 Wh maximum per power bank for carry-on without special approval, with a limit of two banks per passenger. Most power bank product pages list the Wh rating directly — look for it on the packaging or the product label, not the Amazon listing headline where mAh is emphasized for marketing. If only mAh is listed: Wh = mAh × nominal voltage / 1000. Most modern lithium power banks have a nominal cell voltage of 3.6V or 3.7V. A 26,800 mAh bank at 3.7V = 99.16 Wh — legally compliant but so close to the limit that some airlines reject it on visual inspection. A 20,000 mAh bank at 3.7V = 74 Wh — clearly compliant with comfortable margin. Power banks above 100 Wh and up to 160 Wh require airline approval before travel and cannot be checked in. Power banks above 160 Wh cannot travel on commercial aircraft at all. Note: power banks should never be checked in regardless of capacity — lithium cell failures in cargo holds are a fire risk without suppression access."
+      "q": "파워뱅크가 항공사 규정에 적합한지 어떻게 계산하나요?",
+      "a": "IATA 규정은 별도 승인 없이 휴대 시 파워뱅크 1개당 최대 100Wh이며, 승객당 2개로 제한됩니다. 대부분의 파워뱅크 제품 페이지에는 Wh 정격이 직접 표기되어 있습니다 — 마케팅을 위해 mAh를 강조하는 아마존 리스팅 헤드라인이 아니라 포장이나 제품 라벨에서 찾으세요. mAh만 표기되어 있다면: Wh = mAh × 공칭 전압 / 1000. 대부분의 최신 리튬 파워뱅크는 공칭 셀 전압이 3.6V 또는 3.7V입니다. 3.7V 기준 26,800mAh 뱅크 = 99.16Wh — 법적으로는 적합하지만 한도에 너무 가까워 일부 항공사는 육안 검사로 반입을 거부합니다. 3.7V 기준 20,000mAh 뱅크 = 74Wh — 여유 있는 마진으로 명확히 적합합니다. 100Wh를 초과하고 160Wh 이하인 파워뱅크는 여행 전 항공사 승인이 필요하며 위탁 수하물로 부칠 수 없습니다. 160Wh를 초과하는 파워뱅크는 상업용 항공기에 전혀 반입할 수 없습니다. 참고: 용량과 관계없이 파워뱅크는 절대 위탁 수하물로 부치면 안 됩니다 — 화물칸의 리튬 셀 고장은 진압 접근이 불가능한 화재 위험입니다."
     },
     {
-      "q": "Will a 100W power bank actually charge my laptop at full speed?",
-      "a": "It depends on the laptop's charging requirement and the power bank's PD behavior under load. MacBook Air M3 (30W to 67W max): a 65W or 100W power bank charges it at full speed when the laptop is in sleep or idle, but at light-load use the 30W draw is typically within any of these power banks' capabilities. MacBook Pro 14 (67W to 96W max): a 100W PD bank charges it at full speed only if the bank can maintain its full 100W output under sustained load — the Anker 737 (140W), Baseus Blade (100W), and Zendure SuperTank Pro (100W on primary port) do this. MacBook Pro 16 (96W to 140W max): only the Anker 737 (140W EPR) charges it at full speed; 100W banks will charge it but more slowly than the included 140W charger. The critical caveat: if you connect a second device simultaneously, the primary port's output drops. Check the simultaneous multi-port behavior before assuming your laptop charges at full speed while your phone is also connected."
+      "q": "100W 파워뱅크가 정말로 제 노트북을 최고 속도로 충전하나요?",
+      "a": "노트북의 충전 요구량과 부하 상태에서의 파워뱅크 PD 동작에 따라 다릅니다. MacBook Air M3(최대 30W~67W): 65W 또는 100W 파워뱅크는 노트북이 절전 또는 유휴 상태일 때 최고 속도로 충전하며, 가벼운 부하 사용 시 30W 소모는 일반적으로 이 파워뱅크들 모두의 능력 범위 안에 있습니다. MacBook Pro 14(최대 67W~96W): 100W PD 뱅크는 뱅크가 지속적인 부하 하에서 전체 100W 출력을 유지할 수 있을 때만 최고 속도로 충전합니다 — Anker 737(140W), Baseus Blade(100W), Zendure SuperTank Pro(기본 포트 100W)가 이를 해냅니다. MacBook Pro 16(최대 96W~140W): Anker 737(140W EPR)만이 최고 속도로 충전하며, 100W 뱅크들도 충전은 하지만 동봉된 140W 충전기보다 느립니다. 핵심 주의 사항: 두 번째 기기를 동시에 연결하면 기본 포트의 출력이 떨어집니다. 스마트폰도 함께 연결한 상태에서 노트북이 최고 속도로 충전된다고 가정하기 전에 동시 멀티 포트 동작을 확인하세요."
     },
     {
-      "q": "What is the real difference between a $35 power bank and a $119 power bank?",
-      "a": "Three things differ materially. First, maximum PD output: the $35 INIU B63 tops out at 65W PD; the $119 Anker 737 provides 140W EPR PD. For phone and earbud charging, 65W is more than sufficient — you'll never notice the difference. For laptop charging under load, 140W vs. 65W is the difference between charging at full speed and charging slowly or not at all. Second, charging IC and battery cell quality: premium power banks use higher-grade lithium cells that retain capacity better over 500+ charge cycles. Budget power banks typically use cells that degrade more noticeably after 200–300 cycles — the $35 bank's effective capacity after two years of daily use is typically 70–75% of rated; the $119 Anker maintains closer to 85–90%. Third, build durability: aluminum unibody construction (Anker 737) versus polycarbonate shell (INIU B63). For most users who primarily charge phones and earbuds and replace a power bank every 2–3 years anyway, the $35 INIU is a rational purchase. For MacBook users who carry the bank daily and expect it to last 4–5 years, the premium is justified."
+      "q": "$35 파워뱅크와 $119 파워뱅크의 실제 차이는 무엇인가요?",
+      "a": "세 가지가 실질적으로 다릅니다. 첫째, 최대 PD 출력: $35 INIU B63은 최대 65W PD이고, $119 Anker 737은 140W EPR PD를 제공합니다. 스마트폰과 이어버드 충전에는 65W로 충분하고도 남습니다 — 차이를 결코 느끼지 못합니다. 부하 상태의 노트북 충전에서는 140W 대 65W가 최고 속도 충전과 느린 충전 혹은 충전 불가의 차이를 만듭니다. 둘째, 충전 IC와 배터리 셀 품질: 프리미엄 파워뱅크는 500회 이상의 충전 사이클 동안 용량을 더 잘 유지하는 고등급 리튬 셀을 사용합니다. 저가 파워뱅크는 보통 200~300회 사이클 이후 더 눈에 띄게 열화하는 셀을 사용합니다 — $35 뱅크의 매일 사용 2년 후 유효 용량은 일반적으로 정격의 70~75%이고, $119 Anker는 85~90%에 가깝게 유지됩니다. 셋째, 빌드 내구성: 알루미늄 유니바디 구조(Anker 737) 대 폴리카보네이트 셸(INIU B63). 주로 스마트폰과 이어버드를 충전하고 어차피 2~3년마다 파워뱅크를 교체하는 대부분의 사용자에게 $35 INIU는 합리적인 구매입니다. 뱅크를 매일 들고 다니며 4~5년 사용하기를 기대하는 맥북 사용자에게는 프리미엄이 정당화됩니다."
     }
   ],
   "products": [
     {
       "offerId": "power-bank-anker-737",
-      "badge": "Best for MacBook / 140W PD",
+      "badge": "맥북 최적 / 140W PD",
       "grade": "A+",
-      "review": "The Anker 737 PowerCore 24K is the correct choice for MacBook and laptop users who need the fastest possible USB-C PD charging in an airline-compliant power bank. The 140W EPR PD 3.1 port is the only one in this comparison exceeding 100W — it fully charges a MacBook Pro 16 at full speed and a MacBook Pro 14 at rated speeds. The built-in display shows percentage remaining, which is more useful than LED indicators for trip planning. At 87.6 Wh, IATA compliance is comfortable. Honest weaknesses: 505g is one of the heavier options; the 140W port drops to 60W when a second port is in use; a 65W+ adapter is needed for reasonable self-recharge speed (not included).",
+      "review": "Anker 737 PowerCore 24K은 항공 규정에 적합한 파워뱅크에서 가능한 가장 빠른 USB-C PD 충전이 필요한 맥북 및 노트북 사용자를 위한 올바른 선택입니다. 140W EPR PD 3.1 포트는 이 비교에서 100W를 넘는 유일한 포트로 — MacBook Pro 16을 최고 속도로, MacBook Pro 14를 정격 속도로 완전 충전합니다. 내장 디스플레이는 남은 퍼센트를 표시하는데, 이는 여행 계획에 LED 표시기보다 더 유용합니다. 87.6Wh로 IATA 적합성이 여유롭습니다. 솔직한 약점: 505g으로 무거운 편이고, 두 번째 포트를 사용하면 140W 포트가 60W로 떨어지며, 합리적인 자체 재충전 속도를 내려면 65W+ 어댑터가 필요합니다(미포함).",
       "pros": [
-        "140W EPR PD 3.1 — only port in this comparison exceeding 100W for MacBook Pro 16",
-        "Percentage display more useful than LED dots for trip planning",
-        "87.6 Wh — comfortable IATA airline carry-on compliance margin",
-        "24,000 mAh provides approximately 1.4 MacBook Air M3 full charges"
+        "140W EPR PD 3.1 — MacBook Pro 16을 위해 이 비교에서 100W를 넘는 유일한 포트",
+        "여행 계획에 LED 점보다 더 유용한 퍼센트 디스플레이",
+        "87.6Wh — 여유로운 IATA 항공 휴대 규정 마진",
+        "24,000mAh로 MacBook Air M3 약 1.4회 완충 제공"
       ],
       "cons": [
-        "505g is one of the heavier options for daily pocket carry",
-        "Primary 140W port drops to 60W when second port is simultaneously used"
+        "505g으로 일상 주머니 휴대에는 무거운 편",
+        "두 번째 포트를 동시에 사용하면 기본 140W 포트가 60W로 떨어짐"
       ],
       "specs": {
         "Capacity": "24,000 mAh (87.6 Wh)",
@@ -114,18 +114,18 @@
     },
     {
       "offerId": "power-bank-baseus-blade-100w",
-      "badge": "Best for Travel / Thinnest 100W",
+      "badge": "여행 최적 / 가장 얇은 100W",
       "grade": "A",
-      "review": "The Baseus Blade 100W is the correct pick for business travelers who need 100W laptop charging in the most packable form factor available. The approximately 11mm thickness and 270g weight make it genuinely pocketable for a 20,000 mAh bank — no other 100W-capable power bank in this comparison is as thin. The 99.9 Wh rating clearly passes IATA compliance with 0.1 Wh margin. 100W PD charges MacBook Air at full speed and MacBook Pro 14 at practical speeds. Honest weaknesses: 20,000 mAh is the smallest capacity here; recessed USB-C ports require specific cable insertion angles; a high-wattage wall adapter is needed for fast self-recharge but is not included.",
+      "review": "Baseus Blade 100W는 가장 휴대성이 좋은 폼팩터에서 100W 노트북 충전이 필요한 출장 여행자를 위한 올바른 선택입니다. 약 11mm 두께와 270g 무게는 20,000mAh 뱅크치고 진정한 주머니 휴대를 가능하게 합니다 — 이 비교의 다른 어떤 100W 지원 파워뱅크도 이만큼 얇지 않습니다. 99.9Wh 정격은 0.1Wh 마진으로 IATA 적합성을 명확히 통과합니다. 100W PD는 MacBook Air를 최고 속도로, MacBook Pro 14를 실용적인 속도로 충전합니다. 솔직한 약점: 20,000mAh는 여기서 가장 작은 용량이고, 함몰된 USB-C 포트는 특정 케이블 삽입 각도를 요구하며, 빠른 자체 재충전에 고출력 벽면 어댑터가 필요하지만 미포함입니다.",
       "pros": [
-        "~11mm thin at 270g — genuinely pocketable for a 20,000 mAh 100W power bank",
-        "99.9 Wh — clear IATA airline compliance",
-        "100W PD charges MacBook Air at full speed",
-        "Credit-card thickness profile fits in jacket side pocket"
+        "270g에 약 11mm 두께 — 20,000mAh 100W 파워뱅크치고 진정한 주머니 휴대 가능",
+        "99.9Wh — 명확한 IATA 항공 적합성",
+        "100W PD로 MacBook Air를 최고 속도로 충전",
+        "신용카드 두께 프로파일로 재킷 옆주머니에 들어감"
       ],
       "cons": [
-        "20,000 mAh is the smallest capacity in this comparison",
-        "Recessed USB-C ports require specific cable insertion angles"
+        "20,000mAh로 이 비교에서 가장 작은 용량",
+        "함몰된 USB-C 포트가 특정 케이블 삽입 각도를 요구"
       ],
       "specs": {
         "Capacity": "20,000 mAh (99.9 Wh)",
@@ -145,18 +145,18 @@
     },
     {
       "offerId": "power-bank-zendure-supertank-pro",
-      "badge": "Best Capacity / Best Simultaneous Charging",
+      "badge": "최대 용량 / 최고의 동시 충전",
       "grade": "A",
-      "review": "The Zendure SuperTank Pro at approximately $129 is the correct choice for heavy users who need the maximum airline-legal carry-on capacity with the best simultaneous multi-device charging behavior in this comparison. 26,800 mAh (99.36 Wh) is the largest capacity within IATA limits. The simultaneous port behavior is the best here for laptop-plus-phone: 100W primary port maintains full output while port 2 delivers 30W simultaneously. The built-in LCD shows exact Wh remaining. 100W USB-C input enables fast self-recharge (0% to 80% in ~90 minutes). Honest weaknesses: 490g and proximity to the 100 Wh airline limit (some airlines reject it); body runs warm under simultaneous multi-device load.",
+      "review": "약 $129의 Zendure SuperTank Pro는 이 비교에서 최고의 동시 멀티 기기 충전 동작과 함께 항공 반입이 법적으로 가능한 최대 용량이 필요한 헤비 사용자를 위한 올바른 선택입니다. 26,800mAh(99.36Wh)는 IATA 한도 내 최대 용량입니다. 동시 포트 동작은 노트북과 스마트폰 충전에 여기서 최고입니다: 100W 기본 포트가 전체 출력을 유지하면서 포트 2가 동시에 30W를 공급합니다. 내장 LCD는 정확한 잔량 Wh를 표시합니다. 100W USB-C 입력으로 빠른 자체 재충전(0%에서 80%까지 약 90분)이 가능합니다. 솔직한 약점: 490g과 100Wh 항공 한도 근접(일부 항공사 거부), 동시 멀티 기기 부하 하에서 본체가 따뜻해집니다.",
       "pros": [
-        "26,800 mAh (99.36 Wh) — largest airline-legal capacity in this comparison",
-        "Best simultaneous behavior: 100W port 1 + 30W port 2 + 18W USB-A together",
-        "LCD shows exact Wh remaining for precise trip planning",
-        "100W input for fast self-recharge (0% to 80% in ~90 minutes)"
+        "26,800mAh(99.36Wh) — 이 비교에서 항공 반입 가능한 최대 용량",
+        "최고의 동시 동작: 포트 1 100W + 포트 2 30W + USB-A 18W 동시",
+        "정밀한 여행 계획을 위해 정확한 잔량 Wh를 표시하는 LCD",
+        "빠른 자체 재충전을 위한 100W 입력(0%에서 80%까지 약 90분)"
       ],
       "cons": [
-        "99.36 Wh proximity to 100 Wh limit causes some airlines to reject it visually",
-        "490g and body warmth under simultaneous multi-device load"
+        "99.36Wh의 100Wh 한도 근접으로 일부 항공사가 육안으로 거부",
+        "490g과 동시 멀티 기기 부하 하의 본체 발열"
       ],
       "specs": {
         "Capacity": "26,800 mAh (99.36 Wh)",
@@ -176,18 +176,18 @@
     },
     {
       "offerId": "power-bank-mophie-powerstation-pro",
-      "badge": "Best for iPhone / MagSafe Wireless",
+      "badge": "아이폰 최적 / MagSafe 무선",
       "grade": "B+",
-      "review": "The Mophie Powerstation Pro XL is the correct pick for iPhone users who want Qi2/MagSafe-compatible wireless charging built into the power bank alongside USB-C PD. The integrated wireless pad eliminates cable retrieval when charging an iPhone — genuinely convenient for desk and bedside use. 20,000 mAh (approximately 74 Wh) is within comfortable IATA limits. Honest weaknesses: 680g is the heaviest in this comparison — the wireless pad adds real bulk; the 25W USB-C maximum output is the lowest here and will not fast-charge a MacBook Air at full speed; MagSafe wireless output is 15W; $149 is expensive for 25W PD with wireless.",
+      "review": "Mophie Powerstation Pro XL은 USB-C PD와 함께 파워뱅크에 내장된 Qi2/MagSafe 호환 무선 충전을 원하는 아이폰 사용자를 위한 올바른 선택입니다. 통합 무선 패드는 아이폰 충전 시 케이블을 찾을 필요를 없애줍니다 — 책상과 침대 옆 사용에 진정으로 편리합니다. 20,000mAh(약 74Wh)는 여유로운 IATA 한도 안에 있습니다. 솔직한 약점: 680g으로 이 비교에서 가장 무겁고 — 무선 패드가 실제 부피를 더하며, 25W USB-C 최대 출력은 여기서 가장 낮아 MacBook Air를 최고 속도로 고속 충전하지 못하고, MagSafe 무선 출력은 15W이며, $149는 무선이 있는 25W PD치고 비쌉니다.",
       "pros": [
-        "Built-in Qi2/MagSafe wireless pad — no cable needed for iPhone charging",
-        "20,000 mAh (74 Wh) — comfortable IATA airline compliance margin",
-        "Premium Mophie build quality with rubberized back grip",
-        "Simultaneous wired + wireless charging from one bank"
+        "내장 Qi2/MagSafe 무선 패드 — 아이폰 충전에 케이블 불필요",
+        "20,000mAh(74Wh) — 여유로운 IATA 항공 적합성 마진",
+        "고무 처리된 뒷면 그립을 갖춘 프리미엄 Mophie 빌드 품질",
+        "하나의 뱅크에서 유선 + 무선 동시 충전"
       ],
       "cons": [
-        "680g is the heaviest in this comparison",
-        "25W USB-C output is the lowest here — will not fast-charge MacBook Air or Pro"
+        "680g으로 이 비교에서 가장 무거움",
+        "25W USB-C 출력이 여기서 가장 낮음 — MacBook Air나 Pro를 고속 충전하지 못함"
       ],
       "specs": {
         "Capacity": "20,000 mAh (~74 Wh)",
@@ -207,18 +207,18 @@
     },
     {
       "offerId": "power-bank-iniu-b63",
-      "badge": "Best Budget / Best Multi-Port Value",
+      "badge": "가성비 최적 / 멀티 포트 가성비 최고",
       "grade": "B+",
-      "review": "The INIU B63 at approximately $35 is the correct choice for commuters and daily users who need to charge three devices simultaneously at the best value in this comparison. 25,000 mAh with three output ports (65W USB-C + 22.5W USB-C + 22.5W USB-A) and the most comprehensive fast-charge protocol support (PD, QC4+, QC3.0, AFC, SCP, FCP) in this list. 92.5 Wh passes IATA with comfortable margin. Honest weaknesses: 65W maximum PD output means MacBook Pro under load charges slowly or plateaus; polycarbonate build rather than aluminum; simultaneous three-port output caps total shared budget at approximately 90W distributed.",
+      "review": "약 $35의 INIU B63은 이 비교에서 최고의 가성비로 세 기기를 동시에 충전해야 하는 통근자와 일상 사용자를 위한 올바른 선택입니다. 세 개의 출력 포트(65W USB-C + 22.5W USB-C + 22.5W USB-A)를 갖춘 25,000mAh와 이 목록에서 가장 포괄적인 고속 충전 프로토콜 지원(PD, QC4+, QC3.0, AFC, SCP, FCP)을 제공합니다. 92.5Wh는 여유로운 마진으로 IATA를 통과합니다. 솔직한 약점: 최대 65W PD 출력은 부하 상태의 MacBook Pro를 느리게 충전하거나 정체시키며, 알루미늄이 아닌 폴리카보네이트 빌드이고, 3포트 동시 출력은 총 공유 예산을 분배하여 약 90W로 제한합니다.",
       "pros": [
-        "Three simultaneous output ports: 65W USB-C + 22.5W USB-C + 22.5W USB-A",
-        "Most comprehensive fast-charge protocol support: PD, QC4+, QC3.0, AFC, SCP, FCP",
-        "25,000 mAh (92.5 Wh) — airline compliant with comfortable margin",
-        "Best value in this comparison at approximately $35"
+        "세 개의 동시 출력 포트: 65W USB-C + 22.5W USB-C + 22.5W USB-A",
+        "가장 포괄적인 고속 충전 프로토콜 지원: PD, QC4+, QC3.0, AFC, SCP, FCP",
+        "25,000mAh(92.5Wh) — 여유로운 마진으로 항공 적합",
+        "약 $35로 이 비교에서 최고의 가성비"
       ],
       "cons": [
-        "65W maximum PD output charges MacBook Pro under load slowly or plateaus",
-        "Polycarbonate build at $35 — functional but less durable than aluminum"
+        "최대 65W PD 출력은 부하 상태의 MacBook Pro를 느리게 충전하거나 정체시킴",
+        "$35의 폴리카보네이트 빌드 — 기능적이지만 알루미늄보다 내구성이 떨어짐"
       ],
       "specs": {
         "Capacity": "25,000 mAh (92.5 Wh)",
@@ -238,11 +238,11 @@
     }
   ],
   "offerNotes": {
-    "power-bank-anker-737": "Best for MacBook Pro 16 — 140W EPR PD 3.1 at 24,000 mAh. 505g; 140W drops to 60W when second port used; needs 65W+ adapter to self-recharge fast.",
-    "power-bank-baseus-blade-100w": "Best for travel — 11mm thin, 270g, 100W PD at 20,000 mAh. Smallest capacity here; recessed ports; no high-watt adapter included.",
-    "power-bank-zendure-supertank-pro": "Best capacity + simultaneous — 26,800 mAh at 100W+30W+18W together. Near 100 Wh airline limit; some airlines reject visually; body runs warm.",
-    "power-bank-mophie-powerstation-pro": "Best for iPhone/MagSafe — built-in Qi2 wireless at 15W + 25W PD at 20,000 mAh. Heaviest at 680g; 25W PD won't fast-charge a laptop.",
-    "power-bank-iniu-b63": "Best budget — 25,000 mAh, 3-port simultaneous, all fast-charge protocols at $35. 65W PD max; polycarbonate build."
+    "power-bank-anker-737": "MacBook Pro 16 최적 — 24,000mAh에 140W EPR PD 3.1. 505g; 두 번째 포트 사용 시 140W가 60W로 떨어짐; 빠른 자체 재충전에 65W+ 어댑터 필요.",
+    "power-bank-baseus-blade-100w": "여행 최적 — 11mm 두께, 270g, 20,000mAh에 100W PD. 여기서 가장 작은 용량; 함몰된 포트; 고출력 어댑터 미포함.",
+    "power-bank-zendure-supertank-pro": "최대 용량 + 동시 충전 — 26,800mAh에 100W+30W+18W 동시. 100Wh 항공 한도 근접; 일부 항공사 육안 거부; 본체 발열.",
+    "power-bank-mophie-powerstation-pro": "아이폰/MagSafe 최적 — 20,000mAh에 15W 내장 Qi2 무선 + 25W PD. 680g으로 가장 무거움; 25W PD로는 노트북 고속 충전 불가.",
+    "power-bank-iniu-b63": "가성비 최적 — 25,000mAh, 3포트 동시, 모든 고속 충전 프로토콜을 $35에. 최대 65W PD; 폴리카보네이트 빌드."
   },
-  "pinDescription": "Five power banks compared in 2026: Anker 737 140W for MacBook, Baseus Blade 11mm slim 100W, Zendure SuperTank Pro max airline capacity, Mophie MagSafe wireless, INIU B63 3-port value. Which one actually charges your laptop and survives a trip?"
+  "pinDescription": "2026년 파워뱅크 5종 비교: 맥북용 Anker 737 140W, 11mm 슬림 Baseus Blade 100W, 항공 최대 용량 Zendure SuperTank Pro, Mophie MagSafe 무선, 3포트 가성비 INIU B63. 어느 것이 실제로 노트북을 충전하고 여행을 버틸까요?"
 }
