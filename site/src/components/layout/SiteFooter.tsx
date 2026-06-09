@@ -78,12 +78,14 @@ export function SiteFooter() {
           <div>
             <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-500">Discover</p>
             <nav className="flex flex-col gap-2">
-              <Link href="/popular"  className="text-slate-400 hover:text-white transition-colors">🏆 Popular</Link>
-              <Link href="/new"      className="text-slate-400 hover:text-white transition-colors">🆕 New reviews</Link>
+              <Link href="/popular"   className="text-slate-400 hover:text-white transition-colors">🏆 Popular</Link>
+              <Link href="/new"       className="text-slate-400 hover:text-white transition-colors">🆕 New reviews</Link>
               <Link href="/best-2026" className="text-slate-400 hover:text-white transition-colors">✨ Best of 2026</Link>
-              <Link href="/search"   className="text-slate-400 hover:text-white transition-colors">🔍 Search</Link>
+              <Link href="/gifts"     className="text-slate-400 hover:text-white transition-colors">🎁 Gift guides</Link>
+              <Link href="/search"    className="text-slate-400 hover:text-white transition-colors">🔍 Search</Link>
               <Link href="/under-50"  className="text-slate-400 hover:text-white transition-colors">💰 Under $50</Link>
               <Link href="/under-100" className="text-slate-400 hover:text-white transition-colors">💰 Under $100</Link>
+              <Link href="/brands"    className="text-slate-400 hover:text-white transition-colors">🏷️ Brands</Link>
               <Link href="/articles"  className="text-slate-400 hover:text-white transition-colors">All reviews</Link>
             </nav>
           </div>

@@ -4,12 +4,15 @@ import { listArticles } from "@/lib/articles/registry";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { isArticleBodyTranslated } from "@/lib/i18n/loader";
 import { ogImageUrl } from "@/lib/og";
+import { OCCASIONS } from "@/lib/pages/gift-config";
+import { USE_CASES } from "@/lib/pages/usecase-config";
+import { BRANDS } from "@/lib/pages/brand-config";
 
 export const dynamic = "force-static";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
-const STATIC_PATHS = ["", "/articles", "/popular", "/new", "/best-2026", "/search", "/author", "/about", "/privacy", "/terms", "/contact", "/disclosure"];
+const STATIC_PATHS = ["", "/articles", "/popular", "/new", "/best-2026", "/search", "/author", "/gifts", "/brands", "/about", "/privacy", "/terms", "/contact", "/disclosure"];
 
 const BUDGETS = ["50", "100", "200", "500"];
 
@@ -52,6 +55,45 @@ export default function sitemap(): MetadataRoute.Sitemap {
             LOCALES.map((l) => [l, `${SITE_URL}/${l}/under-${budget}/`]),
           ),
         },
+      });
+    }
+  }
+
+  // Gift guide pages × 17 locales
+  for (const occ of OCCASIONS) {
+    for (const locale of LOCALES) {
+      out.push({
+        url: `${SITE_URL}/${locale}/gifts/${occ.slug}/`,
+        lastModified: now,
+        changeFrequency: "monthly",
+        priority: 0.8,
+        alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/gifts/${occ.slug}/`])) },
+      });
+    }
+  }
+
+  // Use-case pages × 17 locales
+  for (const uc of USE_CASES) {
+    for (const locale of LOCALES) {
+      out.push({
+        url: `${SITE_URL}/${locale}/for/${uc.slug}/`,
+        lastModified: now,
+        changeFrequency: "monthly",
+        priority: 0.7,
+        alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/for/${uc.slug}/`])) },
+      });
+    }
+  }
+
+  // Brand pages × 17 locales
+  for (const brand of BRANDS) {
+    for (const locale of LOCALES) {
+      out.push({
+        url: `${SITE_URL}/${locale}/brand/${brand.slug}/`,
+        lastModified: now,
+        changeFrequency: "monthly",
+        priority: 0.6,
+        alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/brand/${brand.slug}/`])) },
       });
     }
   }
