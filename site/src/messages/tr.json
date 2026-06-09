@@ -14,17 +14,7 @@
   "home": {
     "heading": "Dürüst incelemeler, dolgu yok.",
     "subheading": "İnsanlar tarafından seçilmiş, insanlar için yazılmış karşılaştırmalar ve satın alma rehberleri.",
-    "empty": "Yazılar hazırlanıyor. Yakında tekrar uğra.",
-    "trustTitle": "Ürünleri nasıl seçiyoruz",
-    "trustIntro": "Her Pickly incelemesi aynı dört adımlı süreci izler. Sponsorlu yerleştirme yok, abartılı puan yok.",
-    "trustTestedTitle": "Test edildi, sadece listelenmedi",
-    "trustTestedText": "Ürünleri elimizle test ediyoruz veya doğrulanmış kullanıcı verilerini analiz ediyoruz — asla üretici sayfalarından kopyala-yapıştır yapmıyoruz.",
-    "trustCriteriaTitle": "Gerçek kriterlere göre karşılaştırıldı",
-    "trustCriteriaText": "Her kategori 4-6 spesifik kriter kullanır (örn. basketbol ayakkabıları: tutuş, yastıklama, bilek desteği, fit, değer).",
-    "trustDisclosureTitle": "Şeffaf affiliate bağlantıları",
-    "trustDisclosureText": "Bağlantılarımızdan satın aldığınızda komisyon kazanırız. Sıralamalar performansı yansıtır — komisyon oranlarını değil.",
-    "trustUpdatedTitle": "Düzenli olarak güncellenir",
-    "trustUpdatedText": "Ürünler yenilendiğinde veya daha güçlü rakipler çıktığında sıralamalar yeniden gözden geçirilir. Makale tarihi son incelemeyi gösterir."
+    "empty": "Yazılar hazırlanıyor. Yakında tekrar uğra."
   },
   "category": {
     "tech": "Teknoloji",
@@ -208,5 +198,29 @@
   "author": {
     "name": "Pickly Editöryal",
     "bio": "Gadget'ları ve kullanışlı hizmetleri test etmeyi seviyoruz ve gerçek deneyime dayalı dürüst incelemeler paylaşıyoruz."
+  },
+  "crossPromo": {
+    "title": "Diğer Sitelerimiz",
+    "toolify": "Ücretsiz çevrimiçi hesaplayıcılar ve dönüştürücüler",
+    "pickly": "Dürüst ürün karşılaştırmaları ve incelemeleri",
+    "fxea": "Ücretsiz, backtest edilmiş MT5 işlem EA'ları",
+    "financeCta": {
+      "title": "Otomatik FX işlemiyle ilgileniyor musunuz?",
+      "cta": "Ücretsiz, backtest edilmiş MT5 EA'larına bakın"
+    },
+    "calcCta": {
+      "title": "Önce rakamları hesaplayın",
+      "cta": "Ücretsiz bileşik faiz ve finans hesaplayıcıları"
+    }
+  },
+  "newsletter": {
+    "title": "Bültenimize abone olun",
+    "desc": "Ara sıra güncellemeler ve yenilikler — spam yok.",
+    "placeholder": "E-posta adresi",
+    "button": "Abone ol",
+    "sending": "Gönderiliyor…",
+    "success": "Abone olduğunuz için teşekkürler!",
+    "error": "Abone olunamadı. Lütfen daha sonra tekrar deneyin.",
+    "privacy": "Gizliliğinize saygı duyuyoruz. İstediğiniz zaman abonelikten çıkın."
   }
 }
