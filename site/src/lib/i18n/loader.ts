@@ -1,5 +1,7 @@
 import type { Locale } from "./locales";
 import { DEFAULT_LOCALE } from "./locales";
+import fs from "fs";
+import path from "path";
 
 type Messages = Record<string, unknown>;
 
@@ -60,6 +62,52 @@ export async function loadArticleContent(slug: string, locale: string): Promise<
     return { ...base, ...localized };
   } catch {
     return base;
+  }
+}
+
+/**
+ * Synchronously load card-level metadata (title + description) for an article.
+ * Uses English as fallback if the locale file is missing. Safe to call during SSG.
+ */
+export function loadArticleCardMeta(
+  slug: string,
+  locale: string,
+): { title: string; description: string } {
+  const cwd = process.cwd();
+  for (const l of [locale, DEFAULT_LOCALE]) {
+    try {
+      const filePath = path.join(cwd, "src", "articles", slug, "messages", `${l}.json`);
+      const raw = JSON.parse(fs.readFileSync(filePath, "utf-8")) as Messages;
+      const msg = normalizeArticleMessages(raw, slug);
+      const title = msg.title as string | undefined;
+      if (title) {
+        return { title, description: (msg.description as string | undefined) ?? "" };
+      }
+    } catch { /* try next locale */ }
+  }
+  return { title: slug, description: "" };
+}
+
+/**
+ * Returns true if the article has a translated title for the given locale.
+ * Used by sitemap.ts to exclude untranslated pages from the sitemap.
+ */
+export function isArticleBodyTranslated(slug: string, locale: string): boolean {
+  if (locale === DEFAULT_LOCALE) return true;
+  try {
+    const filePath = path.join(
+      process.cwd(),
+      "src",
+      "articles",
+      slug,
+      "messages",
+      `${locale}.json`,
+    );
+    const raw = JSON.parse(fs.readFileSync(filePath, "utf-8")) as Messages;
+    const msg = normalizeArticleMessages(raw, slug);
+    return !!(msg.title as string | undefined);
+  } catch {
+    return false;
   }
 }
 
