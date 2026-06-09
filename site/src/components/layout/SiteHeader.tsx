@@ -32,15 +32,15 @@ export function SiteHeader() {
         </Link>
 
         {/* Desktop nav */}
-        <nav className="hidden items-center gap-8 text-sm font-medium md:flex">
+        <nav className="hidden items-center gap-6 text-sm font-medium md:flex">
+          <Link href="/popular" className="text-slate-600 hover:text-slate-900 transition-colors">
+            Popular
+          </Link>
           <Link href="/articles" className="text-slate-600 hover:text-slate-900 transition-colors">
             {t("nav.articles")}
           </Link>
-          <Link
-            href="/disclosure"
-            className="text-slate-400 hover:text-slate-600 transition-colors"
-          >
-            {t("nav.disclosure")}
+          <Link href="/search" className="flex items-center gap-1.5 rounded-full border border-slate-200 bg-slate-50 px-3.5 py-1.5 text-slate-500 hover:border-brand-300 hover:bg-brand-50 hover:text-brand-600 transition-colors">
+            <span aria-hidden>🔍</span> Search
           </Link>
         </nav>
 
@@ -79,6 +79,12 @@ export function SiteHeader() {
       {menuOpen && (
         <div className="border-t border-slate-100 bg-white px-4 py-4 md:hidden">
           <nav className="flex flex-col gap-4 text-sm font-medium">
+            <Link href="/search" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
+              🔍 Search
+            </Link>
+            <Link href="/popular" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
+              🏆 Popular
+            </Link>
             <Link href="/articles" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
               {t("nav.articles")}
             </Link>

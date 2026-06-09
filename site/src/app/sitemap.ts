@@ -9,7 +9,7 @@ export const dynamic = "force-static";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
-const STATIC_PATHS = ["", "/articles", "/about", "/privacy", "/terms", "/contact", "/disclosure"];
+const STATIC_PATHS = ["", "/articles", "/popular", "/search", "/author", "/about", "/privacy", "/terms", "/contact", "/disclosure"];
 
 const CATEGORIES = [
   "fitness", "food", "tech", "beauty", "home",

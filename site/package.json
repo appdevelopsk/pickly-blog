@@ -23,6 +23,7 @@
     "bing:submit": "tsx scripts/bing-submit.ts"
   },
   "dependencies": {
+    "fuse.js": "^7.4.2",
     "next": "15.5.15",
     "next-intl": "3.26.5",
     "react": "19.0.0",
