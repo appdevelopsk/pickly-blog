@@ -5,7 +5,11 @@ import { notFound } from "next/navigation";
 import { LOCALES, getDirection, type Locale } from "@/lib/i18n/locales";
 import { SiteHeader } from "@/components/layout/SiteHeader";
 import { SiteFooter } from "@/components/layout/SiteFooter";
+import { Suspense } from "react";
 import { Analytics } from "@/components/Analytics";
+import { PageViewTracker } from "@/lib/analytics/pageview";
+
+const SITE_URL = "https://pickly.blog";
 
 const inter = Inter({
   subsets: ["latin", "latin-ext"],
@@ -33,6 +37,8 @@ export default async function LocaleLayout({ children, params }: Props) {
   return (
     <html lang={locale} dir={dir}>
       <head>
+        <link rel="alternate" type="application/rss+xml" title="Pickly — Latest Reviews (EN)" href={`${SITE_URL}/feed.xml`} />
+        <link rel="alternate" type="application/rss+xml" title="Pickly — 最新レビュー (日本語)" href={`${SITE_URL}/feed-ja.xml`} />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4927026308242118"
@@ -46,6 +52,9 @@ export default async function LocaleLayout({ children, params }: Props) {
           <SiteFooter />
         </NextIntlClientProvider>
         <Analytics />
+        <Suspense fallback={null}>
+          <PageViewTracker />
+        </Suspense>
       </body>
     </html>
   );
