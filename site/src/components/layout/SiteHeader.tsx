@@ -32,12 +32,15 @@ export function SiteHeader() {
         </Link>
 
         {/* Desktop nav */}
-        <nav className="hidden items-center gap-6 text-sm font-medium md:flex">
+        <nav className="hidden items-center gap-5 text-sm font-medium md:flex">
           <Link href="/popular" className="text-slate-600 hover:text-slate-900 transition-colors">
             Popular
           </Link>
-          <Link href="/articles" className="text-slate-600 hover:text-slate-900 transition-colors">
-            {t("nav.articles")}
+          <Link href="/compare" className="text-slate-600 hover:text-slate-900 transition-colors">
+            ⚖️ Compare
+          </Link>
+          <Link href="/gifts" className="text-slate-600 hover:text-slate-900 transition-colors">
+            🎁 Gifts
           </Link>
           <Link href="/search" className="flex items-center gap-1.5 rounded-full border border-slate-200 bg-slate-50 px-3.5 py-1.5 text-slate-500 hover:border-brand-300 hover:bg-brand-50 hover:text-brand-600 transition-colors">
             <span aria-hidden>🔍</span> Search
@@ -84,6 +87,15 @@ export function SiteHeader() {
             </Link>
             <Link href="/popular" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
               🏆 Popular
+            </Link>
+            <Link href="/compare" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
+              ⚖️ Compare
+            </Link>
+            <Link href="/gifts" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
+              🎁 Gift guides
+            </Link>
+            <Link href="/tags" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
+              🏷️ Browse tags
             </Link>
             <Link href="/articles" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
               {t("nav.articles")}

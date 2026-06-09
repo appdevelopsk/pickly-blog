@@ -6,6 +6,7 @@ import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { ArticleBody } from "@/components/articles/ArticleBody";
 import { RelatedArticles } from "@/components/articles/RelatedArticles";
+import { ArticleCrossLinks } from "@/components/articles/ArticleCrossLinks";
 import { SisterSiteCta } from "@/components/SisterSiteCta";
 import { NewsletterForm } from "@/components/NewsletterForm";
 import { AffiliateClickTracker } from "@/components/AffiliateClickTracker";
@@ -218,6 +219,7 @@ export default async function ArticlePage({ params }: Props) {
       <ArticleBody meta={meta} content={content} offers={offers} />
       <div className="mx-auto max-w-3xl px-4 sm:px-6">
         {meta.category === "finance" && <SisterSiteCta />}
+        <ArticleCrossLinks slug={slug} category={meta.category} />
         <div className="my-10">
           <NewsletterForm source="pickly-article" />
         </div>

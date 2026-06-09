@@ -9,6 +9,8 @@ import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { OG_BASE_URL } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
+import { COMPARISONS } from "@/lib/pages/compare-config";
+import { TAGS } from "@/lib/pages/tag-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 
@@ -383,6 +385,65 @@ export default async function HomePage({ params }: Props) {
             </Link>
           </div>
         )}
+
+        {/* ── Ways to browse ────────────────────────────── */}
+        <section className="mt-16 border-t border-slate-100 pt-12">
+          <h2 className="mb-6 text-xl font-black text-slate-900">More ways to browse</h2>
+          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {/* Compare */}
+            <Link href="/compare" className="group flex items-start gap-4 rounded-2xl border border-indigo-100 bg-indigo-50 p-5 transition-all hover:border-indigo-300 hover:shadow-md">
+              <span className="shrink-0 text-2xl" aria-hidden>⚖️</span>
+              <div>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-indigo-700 transition-colors">Head-to-head comparisons</p>
+                <p className="text-xs text-slate-500 leading-relaxed">
+                  {COMPARISONS.slice(0, 2).map((c) => c.title).join(" · ")} and {COMPARISONS.length - 2} more
+                </p>
+              </div>
+            </Link>
+            {/* Gift guides */}
+            <Link href="/gifts" className="group flex items-start gap-4 rounded-2xl border border-pink-100 bg-pink-50 p-5 transition-all hover:border-pink-300 hover:shadow-md">
+              <span className="shrink-0 text-2xl" aria-hidden>🎁</span>
+              <div>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-pink-700 transition-colors">Gift guides</p>
+                <p className="text-xs text-slate-500 leading-relaxed">For every occasion — birthday, anniversary, holiday, and more</p>
+              </div>
+            </Link>
+            {/* Tags */}
+            <Link href="/tags" className="group flex items-start gap-4 rounded-2xl border border-teal-100 bg-teal-50 p-5 transition-all hover:border-teal-300 hover:shadow-md">
+              <span className="shrink-0 text-2xl" aria-hidden>🏷️</span>
+              <div>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-teal-700 transition-colors">Browse by tag</p>
+                <p className="text-xs text-slate-500 leading-relaxed">
+                  {TAGS.slice(0, 4).map((t) => t.label).join(" · ")} and more
+                </p>
+              </div>
+            </Link>
+            {/* Budget */}
+            <Link href="/under-100" className="group flex items-start gap-4 rounded-2xl border border-green-100 bg-green-50 p-5 transition-all hover:border-green-300 hover:shadow-md">
+              <span className="shrink-0 text-2xl" aria-hidden>💰</span>
+              <div>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-green-700 transition-colors">Best under $100</p>
+                <p className="text-xs text-slate-500 leading-relaxed">Max value, minimal spend — also available: under $50, $200, $500</p>
+              </div>
+            </Link>
+            {/* Best of 2026 */}
+            <Link href="/best-2026" className="group flex items-start gap-4 rounded-2xl border border-amber-100 bg-amber-50 p-5 transition-all hover:border-amber-300 hover:shadow-md">
+              <span className="shrink-0 text-2xl" aria-hidden>✨</span>
+              <div>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-amber-700 transition-colors">Best of 2026</p>
+                <p className="text-xs text-slate-500 leading-relaxed">Our top picks for the year, organized by category</p>
+              </div>
+            </Link>
+            {/* Popular */}
+            <Link href="/popular" className="group flex items-start gap-4 rounded-2xl border border-purple-100 bg-purple-50 p-5 transition-all hover:border-purple-300 hover:shadow-md">
+              <span className="shrink-0 text-2xl" aria-hidden>🏆</span>
+              <div>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-purple-700 transition-colors">Most popular</p>
+                <p className="text-xs text-slate-500 leading-relaxed">The reviews readers keep coming back to</p>
+              </div>
+            </Link>
+          </div>
+        </section>
 
         {/* ── Trust strip ───────────────────────────────── */}
         <div className="mt-20 flex flex-wrap justify-center gap-8 border-t border-slate-100 pt-10 text-center">
