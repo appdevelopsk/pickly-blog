@@ -60,12 +60,22 @@ export default async function ComparePage({ params }: Props) {
     ...(artA && metaA ? { about: { "@type": "Product", name: metaA.title } } : {}),
   };
 
+  const breadcrumb = {
+    "@context": "https://schema.org", "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Pickly", item: `${SITE_URL}/${locale}/` },
+      { "@type": "ListItem", position: 2, name: "Compare", item: `${SITE_URL}/${locale}/compare/` },
+      { "@type": "ListItem", position: 3, name: config.title, item: `${SITE_URL}/${locale}/compare/${pair}/` },
+    ],
+  };
+
   let siteName = "Pickly";
   try { siteName = t("site.name"); } catch { /* missing */ }
 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
       <div className="mx-auto max-w-5xl px-4 pb-20">
 
         <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">

@@ -32,12 +32,16 @@ const TYPE_LABELS: Record<string, string> = {
   comparison: "Comparison", review: "Review", guide: "Guide",
 };
 
-/** Parse "$29.99" or "$1,299" → number. Returns null for non-USD or unparseable. */
+/** Parse a price value to a USD number. Handles "$29.99", "29.99", "29", and "$1,299". */
 function parseUsdPrice(price: string | undefined): number | null {
   if (!price) return null;
-  const m = price.match(/^\$([0-9,]+(?:\.[0-9]+)?)/);
-  if (!m) return null;
-  return parseFloat(m[1]!.replace(/,/g, ""));
+  // "$29.99" or "$1,299" format
+  const mDollar = price.match(/^\$([0-9,]+(?:\.[0-9]+)?)/);
+  if (mDollar) return parseFloat(mDollar[1]!.replace(/,/g, ""));
+  // bare numeric string "28" or "28.5" (catalog-additions uses USD without symbol)
+  const mNumeric = price.match(/^([0-9]+(?:\.[0-9]+)?)$/);
+  if (mNumeric) return parseFloat(mNumeric[1]!);
+  return null;
 }
 
 /** Returns the lowest USD price among an article's offers, or null. */
@@ -46,7 +50,8 @@ function minPrice(a: ArticleMeta): number | null {
   for (const id of a.offerIds) {
     const o = CATALOG.find((x) => x.id === id);
     if (!o) continue;
-    const p = parseUsdPrice(o.price);
+    // Try price, then priceMin
+    const p = parseUsdPrice(o.price) ?? parseUsdPrice(o.priceMin);
     if (p !== null && (min === null || p < min)) min = p;
   }
   return min;
