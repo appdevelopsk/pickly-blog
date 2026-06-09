@@ -6,11 +6,10 @@
 # Exclude static files from locale redirect (must come before /:locale rule)
 /sitemap.xml /sitemap.xml 200
 /robots.txt /robots.txt 200
-/llms.txt /llms.txt 200
-/feed.xml /feed.xml 200
 /ads.txt /ads.txt 200
 /googleada2940b448e1d03.html /googleada2940b448e1d03.html 200
 /505118c2333ec1cbddc87177c90a0dce.txt /505118c2333ec1cbddc87177c90a0dce.txt 200
+/1af6def058a64ef42dbe4201c61dfd4a0ff2c19adf0144fe3fc2da35007db341.txt /1af6def058a64ef42dbe4201c61dfd4a0ff2c19adf0144fe3fc2da35007db341.txt 200
 /og/* /og/:splat 200
 /images/* /images/:splat 200
 
