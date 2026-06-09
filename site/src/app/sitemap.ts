@@ -7,12 +7,15 @@ import { ogImageUrl } from "@/lib/og";
 import { OCCASIONS } from "@/lib/pages/gift-config";
 import { USE_CASES } from "@/lib/pages/usecase-config";
 import { BRANDS } from "@/lib/pages/brand-config";
+import { SALE_EVENTS } from "@/lib/pages/sale-config";
+import { TAGS } from "@/lib/pages/tag-config";
+import { COMPARISONS } from "@/lib/pages/compare-config";
 
 export const dynamic = "force-static";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
-const STATIC_PATHS = ["", "/articles", "/popular", "/new", "/best-2026", "/search", "/author", "/gifts", "/brands", "/about", "/privacy", "/terms", "/contact", "/disclosure"];
+const STATIC_PATHS = ["", "/articles", "/popular", "/new", "/best-2026", "/search", "/author", "/gifts", "/brands", "/tags", "/compare", "/about", "/privacy", "/terms", "/contact", "/disclosure"];
 
 const BUDGETS = ["50", "100", "200", "500"];
 
@@ -94,6 +97,45 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: "monthly",
         priority: 0.6,
         alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/brand/${brand.slug}/`])) },
+      });
+    }
+  }
+
+  // Sale event pages × 17 locales
+  for (const ev of SALE_EVENTS) {
+    for (const locale of LOCALES) {
+      out.push({
+        url: `${SITE_URL}/${locale}/sale/${ev.slug}/`,
+        lastModified: now,
+        changeFrequency: "monthly" as const,
+        priority: 0.7,
+        alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/sale/${ev.slug}/`])) },
+      });
+    }
+  }
+
+  // Tag pages × 17 locales
+  for (const tag of TAGS) {
+    for (const locale of LOCALES) {
+      out.push({
+        url: `${SITE_URL}/${locale}/tag/${tag.slug}/`,
+        lastModified: now,
+        changeFrequency: "weekly" as const,
+        priority: 0.7,
+        alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/tag/${tag.slug}/`])) },
+      });
+    }
+  }
+
+  // Compare pages × 17 locales
+  for (const cmp of COMPARISONS) {
+    for (const locale of LOCALES) {
+      out.push({
+        url: `${SITE_URL}/${locale}/compare/${cmp.slug}/`,
+        lastModified: now,
+        changeFrequency: "monthly" as const,
+        priority: 0.8,
+        alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/compare/${cmp.slug}/`])) },
       });
     }
   }
