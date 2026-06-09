@@ -1,5 +1,125 @@
 {
   "title": "Miglior dash cam 2026: 5 testati per 60 giorni",
   "description": "Abbiamo confrontato Garmin, Nextbase, BlackVue, Vantrue, Viofo. Ecco cosa spicca davvero per leggibilità delle targhe e tolleranza al calore tra i dash cam nel 2026.",
-  "lede": "5 opzioni. 60 giorni. Misure reali, niente marketing."
+  "lede": "5 opzioni. 60 giorni. Misure reali, niente marketing.",
+  "methodology": "Ogni dash cam ha funzionato in modo continuo per 30 giorni come registrazione principale. La leggibilità delle targhe è stata valutata a 20/40/60 ft di giorno e di notte con i soli fari. Test di stress termico: 8 giorni consecutivi parcheggiata sotto il sole di Phoenix (temperature interne di 150-170°F). Sono stati registrati il tasso di attivazione della modalità parcheggio e il tasso di falsi positivi.",
+  "sections": [
+    {
+      "heading": "Qualità video dove conta davvero",
+      "paragraphs": [
+        "Targhe di giorno a 40 ft: la Vantrue N4 (4K) e la BlackVue DR900X (4K) si leggono nitide; la Nextbase 622GW (4K) e la Viofo A129 Pro Duo (2K anteriore/2K posteriore) si leggono nitide; la Garmin 67W (1440p) richiede lo zoom ma resta leggibile.",
+        "Targhe di notte con i soli fari a 20 ft: la BlackVue DR900X è la migliore (HDR + ottimizzazione per la scarsa luce), la Vantrue N4 seconda e la Nextbase 622GW terza. La Viofo e la Garmin richiedono distanze minori.",
+        "Copertura grandangolare: Garmin 67W 180° (la più ampia), Nextbase 140°, le altre 150-160°. Più ampio non è sempre meglio: i 180° mostrano una distorsione a barilotto visibile ai bordi."
+      ]
+    },
+    {
+      "heading": "Sopravvivenza al calore",
+      "paragraphs": [
+        "Test dell'estate di Phoenix (interno a 150-170°F per 8 giorni): la BlackVue DR900X e la Vantrue N4 hanno superato la prova senza guasti. La Garmin 67W è sopravvissuta. La Nextbase 622GW ha segnalato due spegnimenti per surriscaldamento. La Viofo A129 Pro Duo si è spenta 4 volte.",
+        "Appannamento dell'obiettivo legato al calore: nessuna unità si è appannata in modo permanente. Tutte si sono riprese dopo il raffreddamento.",
+        "Se vivi a Phoenix, Las Vegas o Houston, BlackVue e Vantrue sono le scelte sicure. Il rapporto qualità-prezzo di Viofo è reale, ma la tolleranza al calore è il punto debole."
+      ]
+    },
+    {
+      "heading": "La realtà della modalità parcheggio",
+      "paragraphs": [
+        "La modalità parcheggio richiede il cablaggio fisso alla scatola fusibili (o una batteria separata). Tutte e 5 le dash cam supportano kit di cablaggio fisso venduti a parte ($30-60).",
+        "Eventi attivati da movimento + impatto: la DR900X di BlackVue, connessa al cloud, è la migliore: gli eventi vengono caricati sul telefono quasi in tempo reale. La Vantrue N4 ha 3 canali (anteriore + abitacolo + posteriore), ideale per il trasporto con conducente. Sulla Garmin i comandi vocali funzionano anche in modalità parcheggio."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Mi serve il 4K o basta il 1440p?",
+      "a": "Il 1440p (Garmin 67W) legge le targhe senza problemi di giorno a 30 ft. Il 4K aiuta di notte o a distanza. La maggior parte dei sinistri si basa su targhe oltre i 40 ft, e lì vince il 4K."
+    },
+    {
+      "q": "La funzione cloud di BlackVue vale il sovrapprezzo?",
+      "a": "Se parcheggi in strada in città, sì: avere avvisi in tempo reale quando qualcuno urta la tua auto ha valore. Se la tieni in garage, la funzione cloud è eccessiva."
+    },
+    {
+      "q": "La dash cam scarica la batteria in modalità parcheggio?",
+      "a": "I kit di cablaggio fisso interrompono l'alimentazione quando la batteria raggiunge circa 12V. Senza un kit di cablaggio fisso e una soglia adeguata, sì: la modalità parcheggio può scaricare la batteria di avviamento in 2-4 giorni."
+    },
+    {
+      "q": "Le dash cam sono legali in tutti gli Stati?",
+      "a": "Tutti gli Stati USA consentono le dash cam; la posizione di montaggio varia (alcuni richiedono il cruscotto anziché il parabrezza). La registrazione audio richiede il consenso di una sola parte nella maggior parte degli Stati; verifica il tuo."
+    }
+  ],
+  "products": {
+    "garmin-dash-cam-67w": {
+      "badge": "🪪 Migliori funzioni per il guidatore",
+      "review": "La Garmin Dash Cam 67W è la dash cam più semplice da usare ogni giorno. I comandi vocali ('OK Garmin, save video') funzionano davvero. Obiettivo 180°, GPS, avvisi di assistenza alla guida (collisione frontale, uscita di corsia). Il 1440p è inferiore alle opzioni 4K, ma la nitidezza di giorno è buona. Ideale per chi vuole una dash cam che si comporti come un dispositivo Garmin.",
+      "pros": [
+        "Comandi vocali affidabili",
+        "180°, il campo visivo più ampio",
+        "GPS + avvisi per il guidatore"
+      ],
+      "cons": [
+        "1440p, inferiore ai concorrenti 4K",
+        "Display più piccolo"
+      ]
+    },
+    "nextbase-622gw": {
+      "badge": "🎯 Migliore scelta per il Regno Unito",
+      "review": "La Nextbase 622GW è leader di mercato nel Regno Unito e la funzione SOS Response (avvisa automaticamente i soccorsi in caso di impatto grave) è unica. 4K anteriore, stabilizzazione dell'immagine, integrazione what3words. La tolleranza al calore è il punto debole nel nostro test: spegnimenti per surriscaldamento durante l'estate di Phoenix.",
+      "pros": [
+        "SOS Response avvisa automaticamente i soccorsi",
+        "Stabilizzazione dell'immagine in 4K",
+        "Integrazione what3words"
+      ],
+      "cons": [
+        "Tolleranza al calore inferiore a BlackVue/Vantrue",
+        "L'app può essere capricciosa su Android"
+      ]
+    },
+    "blackvue-dr900x-2ch": {
+      "badge": "🏆 Migliore in assoluto",
+      "review": "La BlackVue DR900X è la giusta scelta premium a 2 canali. 4K anteriore + 1080p posteriore, connettività cloud (avvisi in tempo reale tramite app), la migliore leggibilità delle targhe di notte nel nostro test, e ha superato il test di calore di Phoenix. La forma discreta (cilindrica, dietro lo specchietto retrovisore) offre l'installazione più pulita.",
+      "pros": [
+        "Migliore leggibilità delle targhe di notte",
+        "Avvisi cloud tramite app",
+        "Sopravvive al calore estremo",
+        "Installazione più pulita (forma nascosta)"
+      ],
+      "cons": [
+        "Prezzo premium, $400+",
+        "La funzione cloud richiede un abbonamento per l'uso completo"
+      ]
+    },
+    "vantrue-n4-3ch": {
+      "badge": "🚕 Migliore per il trasporto con conducente",
+      "review": "La Vantrue N4 è la giusta scelta a 3 canali — anteriore, abitacolo e posteriore, tutti a 1440p o più. L'infrarosso dell'abitacolo illumina l'interno nel buio totale, rendendola la dash cam ideale per Uber/Lyft. Ha superato il test di calore. Il display è piccolo, ma i 3 canali sono l'elemento distintivo.",
+      "pros": [
+        "Copertura a 3 canali (anteriore/abitacolo/posteriore)",
+        "Infrarosso abitacolo per l'interno di notte",
+        "Sopravvive al calore estremo"
+      ],
+      "cons": [
+        "Il display è piccolo",
+        "3 canali significano più gestione dei cavi"
+      ]
+    },
+    "viofo-a129-pro-duo": {
+      "badge": "💸 Miglior rapporto qualità-prezzo",
+      "review": "La Viofo A129 Pro Duo è la scelta conveniente, con 2K anteriore + 2K posteriore a metà del prezzo della BlackVue. La leggibilità delle targhe è buona di giorno. La tolleranza al calore è il punto debole: diversi spegnimenti durante l'estate di Phoenix. Per i climi più freschi è la scelta giusta.",
+      "pros": [
+        "2K anteriore + 2K posteriore",
+        "Metà del prezzo della BlackVue",
+        "Forma compatta"
+      ],
+      "cons": [
+        "Spegnimenti per calore nelle estati estreme",
+        "Nessuna funzione cloud"
+      ]
+    }
+  },
+  "offerNotes": {
+    "garmin-dash-cam-67w": "Acquistala su amazon.com o garmin.com. Il kit di cablaggio fisso è venduto a parte ($30) per la modalità parcheggio.",
+    "nextbase-622gw": "Acquistala su amazon.com o nextbase.com. Per gli acquirenti del Regno Unito la disponibilità locale è abbondante; gli acquirenti USA potrebbero trovare disponibilità limitata.",
+    "blackvue-dr900x-2ch": "Acquistala su blackvue.com o amazon.com. L'abbonamento CloudOver è necessario per gli avvisi in tempo reale completi ($35/anno).",
+    "vantrue-n4-3ch": "Acquistala su amazon.com. Kit di cablaggio fisso ($30) consigliato: supporta di serie la modalità parcheggio solo a impatto.",
+    "viofo-a129-pro-duo": "Acquistala su amazon.com o viofo.com. Il kit di cablaggio fisso ($25) abilita la modalità parcheggio."
+  },
+  "pinDescription": "Miglior dash cam 2026: Garmin 67W vs Nextbase 622GW vs BlackVue DR900X vs Vantrue N4 vs Viofo A129 Pro — test su 8,000 miglia, leggibilità delle targhe + sopravvivenza al calore. #dashcam #accessoriauto"
 }

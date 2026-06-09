@@ -10,6 +10,11 @@ const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
 const STATIC_PATHS = ["", "/articles", "/about", "/privacy", "/terms", "/contact", "/disclosure"];
 
+const CATEGORIES = [
+  "fitness", "food", "tech", "beauty", "home",
+  "fashion", "finance", "travel", "parenting", "pets",
+];
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date().toISOString();
   const out: MetadataRoute.Sitemap = [];
@@ -25,6 +30,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
         alternates: {
           languages: Object.fromEntries(
             LOCALES.map((l) => [l, `${SITE_URL}/${l}${path}/`]),
+          ),
+        },
+      });
+    }
+  }
+
+  // Category pages × 17 locales
+  for (const cat of CATEGORIES) {
+    for (const locale of LOCALES) {
+      out.push({
+        url: `${SITE_URL}/${locale}/category/${cat}/`,
+        lastModified: now,
+        changeFrequency: "weekly",
+        priority: 0.7,
+        alternates: {
+          languages: Object.fromEntries(
+            LOCALES.map((l) => [l, `${SITE_URL}/${l}/category/${cat}/`]),
           ),
         },
       });

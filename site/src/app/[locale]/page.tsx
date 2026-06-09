@@ -154,7 +154,7 @@ export default async function HomePage({ params }: Props) {
               return (
                 <Link
                   key={cat}
-                  href={`/articles#${cat}`}
+                  href={`/category/${cat}`}
                   className="flex items-center gap-1.5 rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-medium text-slate-600 shadow-sm transition-colors hover:border-brand-300 hover:bg-brand-50 hover:text-brand-700"
                 >
                   {CATEGORY_ICONS[cat] && <span>{CATEGORY_ICONS[cat]}</span>}
