@@ -83,12 +83,21 @@ export default async function UseCasePage({ params }: Props) {
     }),
   };
 
+  const breadcrumb = {
+    "@context": "https://schema.org", "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Pickly", item: `${SITE_URL}/${locale}/` },
+      { "@type": "ListItem", position: 2, name: config.title, item: `${SITE_URL}/${locale}/for/${usecase}/` },
+    ],
+  };
+
   let siteName = "Pickly";
   try { siteName = t("site.name"); } catch { /* missing */ }
 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(listSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
 
       <div className="mx-auto max-w-5xl px-4 pb-20">
 

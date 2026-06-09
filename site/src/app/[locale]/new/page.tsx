@@ -65,6 +65,14 @@ export default async function NewPage({ params }: Props) {
   const thisMonth = sorted.filter((a) => new Date(a.publishedAt) >= monthAgo && new Date(a.publishedAt) < weekAgo);
   const older     = sorted.filter((a) => new Date(a.publishedAt) < monthAgo).slice(0, 24);
 
+  const breadcrumb = {
+    "@context": "https://schema.org", "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Pickly", item: `${SITE_URL}/${locale}/` },
+      { "@type": "ListItem", position: 2, name: "New Reviews", item: `${SITE_URL}/${locale}/new/` },
+    ],
+  };
+
   let siteName = "Pickly";
   try { siteName = t("site.name"); } catch { /* missing */ }
 
@@ -121,6 +129,8 @@ export default async function NewPage({ params }: Props) {
   }
 
   return (
+    <>
+    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
     <div className="mx-auto max-w-5xl px-4 pb-20">
       <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">
         <Link href="/" className="hover:text-slate-600 transition-colors">{siteName}</Link>
@@ -171,6 +181,7 @@ export default async function NewPage({ params }: Props) {
         </section>
       )}
     </div>
+    </>
   );
 }
 
