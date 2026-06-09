@@ -6,6 +6,7 @@ import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
+import { OG_BASE_URL } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
@@ -20,7 +21,7 @@ function getThumbnail(article: ArticleMeta, locale: string): string | null {
     const img = getOfferImageUrl(offer);
     if (img) return img;
   }
-  if (article.ogImage && article.ogImage !== "auto") return `${article.ogImage}-${locale}.png`;
+  if (article.ogImage && article.ogImage !== "auto") return `${OG_BASE_URL}${article.ogImage}-${locale}.png`;
   return null;
 }
 
@@ -92,15 +93,29 @@ export default async function HomePage({ params }: Props) {
 
   const orgSchema = {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    name: "Pickly",
-    url: SITE_URL,
-    description: "Curated reviews and comparisons across 17 languages.",
-    potentialAction: {
-      "@type": "SearchAction",
-      target: `${SITE_URL}/${locale}/articles/`,
-      "query-input": "required name=search_term_string",
-    },
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": `${SITE_URL}/#website`,
+        name: "Pickly",
+        url: SITE_URL,
+        description: "Curated reviews and comparisons across 17 languages.",
+        publisher: { "@id": `${SITE_URL}/#organization` },
+        potentialAction: {
+          "@type": "SearchAction",
+          target: `${SITE_URL}/${locale}/articles/`,
+          "query-input": "required name=search_term_string",
+        },
+      },
+      {
+        "@type": "Organization",
+        "@id": `${SITE_URL}/#organization`,
+        name: "Pickly",
+        url: SITE_URL,
+        description: "Curated reviews and comparisons across 17 languages.",
+        sameAs: ["https://www.pinterest.com/appdevelopsk/"],
+      },
+    ],
   };
 
   let heading = "Real reviews, no filler.";

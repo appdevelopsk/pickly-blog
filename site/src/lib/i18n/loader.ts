@@ -1,7 +1,7 @@
-import fs from "node:fs";
-import path from "node:path";
 import type { Locale } from "./locales";
 import { DEFAULT_LOCALE } from "./locales";
+import fs from "fs";
+import path from "path";
 
 type Messages = Record<string, unknown>;
 
@@ -66,76 +66,55 @@ export async function loadArticleContent(slug: string, locale: string): Promise<
 }
 
 /**
+ * Synchronously load card-level metadata (title + description) for an article.
+ * Uses English as fallback if the locale file is missing. Safe to call during SSG.
+ */
+export function loadArticleCardMeta(
+  slug: string,
+  locale: string,
+): { title: string; description: string } {
+  const cwd = process.cwd();
+  for (const l of [locale, DEFAULT_LOCALE]) {
+    try {
+      const filePath = path.join(cwd, "src", "articles", slug, "messages", `${l}.json`);
+      const raw = JSON.parse(fs.readFileSync(filePath, "utf-8")) as Messages;
+      const msg = normalizeArticleMessages(raw, slug);
+      const title = msg.title as string | undefined;
+      if (title) {
+        return { title, description: (msg.description as string | undefined) ?? "" };
+      }
+    } catch { /* try next locale */ }
+  }
+  return { title: slug, description: "" };
+}
+
+/**
+ * Returns true if the article has a translated title for the given locale.
+ * Used by sitemap.ts to exclude untranslated pages from the sitemap.
+ */
+export function isArticleBodyTranslated(slug: string, locale: string): boolean {
+  if (locale === DEFAULT_LOCALE) return true;
+  try {
+    const filePath = path.join(
+      process.cwd(),
+      "src",
+      "articles",
+      slug,
+      "messages",
+      `${locale}.json`,
+    );
+    const raw = JSON.parse(fs.readFileSync(filePath, "utf-8")) as Messages;
+    const msg = normalizeArticleMessages(raw, slug);
+    return !!(msg.title as string | undefined);
+  } catch {
+    return false;
+  }
+}
+
+/**
  * Global messages: UI strings only. Article content is loaded per-page via loadArticleContent().
  * This keeps the RSC payload small (UI strings ~50KB vs all-articles ~8MB).
  */
 export async function loadMessages(locale: Locale | string): Promise<Messages> {
   return loadCommon(locale);
-}
-
-const ARTICLES_ROOT = path.join(process.cwd(), "src/articles");
-
-function readCardFields(slug: string, locale: string): { title?: string; description?: string } {
-  const file = path.join(ARTICLES_ROOT, slug, "messages", `${locale}.json`);
-  if (!fs.existsSync(file)) return {};
-  try {
-    const norm = normalizeArticleMessages(JSON.parse(fs.readFileSync(file, "utf8")) as Messages, slug);
-    return {
-      title: typeof norm.title === "string" ? norm.title : undefined,
-      description: typeof norm.description === "string" ? norm.description : undefined,
-    };
-  } catch {
-    return {};
-  }
-}
-
-/**
- * Build-time, synchronous lookup of just an article's localized title + description
- * for listing cards (article index, homepage grid, related articles).
- *
- * Reads the per-article message JSON directly with `fs` and discards everything
- * except title/description — so it never accumulates full article bodies in the
- * module cache (the all-articles-in-memory path is what caused the ~67GB build).
- * Falls back: requested locale → English → de-slugified slug.
- *
- * Do NOT derive these from the global `t('articles.<slug>.title')`: the global
- * catalog carries UI strings only, so that lookup misses and next-intl's
- * getMessageFallback returns the literal last key segment ("title"/"description").
- */
-export function loadArticleCardMeta(slug: string, locale: string): { title: string; description: string } {
-  const en = readCardFields(slug, DEFAULT_LOCALE);
-  const loc = locale === DEFAULT_LOCALE ? {} : readCardFields(slug, locale);
-  return {
-    title: loc.title ?? en.title ?? slug.replace(/-/g, " "),
-    description: loc.description ?? en.description ?? "",
-  };
-}
-
-function hasNonEmptySections(value: unknown): boolean {
-  if (Array.isArray(value)) return value.length > 0;
-  if (value && typeof value === "object") return Object.keys(value).length > 0;
-  return false;
-}
-
-/**
- * Build-time check: is this article's BODY actually translated for `locale`?
- *
- * English is the source, so always true. For other locales the article body
- * (`sections`) must be present and non-empty; otherwise the page renders a
- * localized title over an English-fallback body (a thin, mixed-language page).
- *
- * Used to keep partially-translated pages out of the index / sitemap / hreflang
- * cluster (Google's recommended handling for incomplete translations), so the
- * 17-locale catalog isn't read as scaled/auto-generated content.
- */
-export function isArticleBodyTranslated(slug: string, locale: string): boolean {
-  if (locale === DEFAULT_LOCALE) return true;
-  const file = path.join(ARTICLES_ROOT, slug, "messages", `${locale}.json`);
-  if (!fs.existsSync(file)) return false;
-  try {
-    const norm = normalizeArticleMessages(JSON.parse(fs.readFileSync(file, "utf8")) as Messages, slug);
-    return hasNonEmptySections(norm.sections);
-  } catch {
-    return false;
-  }
 }

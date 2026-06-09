@@ -14,17 +14,7 @@
   "home": {
     "heading": "Des avis vrais, sans remplissage.",
     "subheading": "Comparatifs et guides d'achat choisis par des humains, écrits pour des humains.",
-    "empty": "Les articles arrivent bientôt. Revenez nous voir.",
-    "trustTitle": "Comment nous choisissons les produits",
-    "trustIntro": "Chaque avis Pickly suit le même processus en quatre étapes. Pas de placements sponsorisés, pas de notes gonflées.",
-    "trustTestedTitle": "Testé, pas simplement listé",
-    "trustTestedText": "Nous testons les produits en main ou analysons des données utilisateur vérifiées — jamais de copier-coller des pages fabricant.",
-    "trustCriteriaTitle": "Comparés sur des critères réels",
-    "trustCriteriaText": "Chaque catégorie utilise 4–6 critères spécifiques (ex. chaussures de basket : traction, amorti, soutien de cheville, ajustement, valeur).",
-    "trustDisclosureTitle": "Liens d'affiliation transparents",
-    "trustDisclosureText": "Nous gagnons une commission lorsque vous achetez via nos liens. Les classements reflètent la performance — pas les taux de commission.",
-    "trustUpdatedTitle": "Mis à jour régulièrement",
-    "trustUpdatedText": "Les classements sont révisés lorsque les produits sont actualisés ou que de meilleurs concurrents sortent. La date de l'article indique la dernière révision."
+    "empty": "Les articles arrivent bientôt. Revenez nous voir."
   },
   "category": {
     "tech": "Tech",
@@ -208,5 +198,29 @@
   "author": {
     "name": "Pickly Éditorial",
     "bio": "Nous adorons tester des gadgets et des services pratiques. Nous partageons des avis honnêtes basés sur notre expérience réelle."
+  },
+  "crossPromo": {
+    "title": "Notre réseau",
+    "toolify": "Calculatrices et convertisseurs en ligne gratuits",
+    "pickly": "Comparatifs et avis de produits",
+    "fxea": "Robots de trading MT5 gratuits et backtestés",
+    "financeCta": {
+      "title": "Le trading FX automatisé vous intéresse ?",
+      "cta": "Voir les EA MT5 gratuits et backtestés"
+    },
+    "calcCta": {
+      "title": "Calculez d'abord vos chiffres",
+      "cta": "Calculatrices d'intérêts composés et finance gratuites"
+    }
+  },
+  "newsletter": {
+    "title": "Abonnez-vous à la newsletter",
+    "desc": "Nouveautés et actualités occasionnelles, sans spam.",
+    "placeholder": "Adresse e-mail",
+    "button": "S'abonner",
+    "sending": "Envoi…",
+    "success": "Merci de votre inscription !",
+    "error": "Inscription impossible. Réessayez plus tard.",
+    "privacy": "Nous respectons votre vie privée. Désabonnement à tout moment."
   }
 }

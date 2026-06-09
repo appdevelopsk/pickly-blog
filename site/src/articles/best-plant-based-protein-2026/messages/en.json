@@ -1,14 +1,34 @@
 {
-  "title": "Best Plant-Based Protein Powder 2026: 5 Picks Ranked by Amino Acid Profile, Taste, and Third-Party Testing",
-  "description": "Plant proteins vary dramatically in amino acid completeness, digestibility, and taste. We compare 5 top vegan protein powders by PDCAAS score, leucine content, mixability, and evidence — including a Japan-market soy option.",
+  "title": "Best Plant-Based Protein Powder 2026: 5 Ranked & Tested",
+  "description": "Plant proteins vary dramatically in amino acid completeness, digestibility, and taste.",
   "lede": "Plant proteins have a fundamental challenge that marketing rarely addresses directly: most single-source plant proteins are incomplete — they're deficient in one or more essential amino acids relative to human requirements. Pea protein is low in methionine; rice protein is low in lysine; soy protein is complete but raises questions for people with soy sensitivity or hormone concerns. The best plant-based protein powders address this through blending, fortification, or sourcing a genuinely complete plant protein like soy. Taste and digestibility matter practically — a protein powder that doesn't get used fails regardless of its amino acid profile.",
   "methodology": "Each product was evaluated on amino acid completeness (PDCAAS or DIAAS scores where available), leucine content per serving relative to muscle protein synthesis threshold, digestibility (presence of anti-nutrients and processing method), third-party testing credentials, taste and mixability, and cost per gram of protein.",
   "recommendedFor": [
-    {"label": "For budget-conscious buyers who want high protein purity without additives", "offerId": "plant-protein-naked-pea", "reason": "Naked Pea delivers 27g of pea protein per serving with a single ingredient — no sweeteners, no flavors, no fillers — and third-party tested. The lowest cost per gram of protein in this comparison."},
-    {"label": "For athletes with high protein targets who want NSF certification", "offerId": "plant-protein-garden-of-life-sport", "reason": "Garden of Life Sport is NSF Certified for Sport with 30g protein per serving from a pea + sprouted grain + lentil blend — the highest certified protein dose in this comparison."},
-    {"label": "For everyday plant-based protein with good taste and broad retail availability", "offerId": "plant-protein-orgain-organic", "reason": "Orgain Organic is USDA organic, widely available at Costco and major retailers, and delivers a balanced taste profile at a mid-range price that makes daily use sustainable."},
-    {"label": "For performance athletes who want a complete amino acid profile with beta-alanine", "offerId": "plant-protein-vega-sport-premium", "reason": "Vega Sport Premium adds beta-alanine, tart cherry, bromelain, and turmeric to a 30g pea+pumpkin+sunflower+alfalfa protein blend — the most comprehensive sports-specific plant formula."},
-    {"label": "For Japan-market soy protein supplementation with Meiji brand reliability", "offerId": "plant-protein-savas-soy-jp", "reason": "SAVAS Soy Protein is Japan's dominant sports soy protein, produced by Meiji with Japanese regulatory standards, widely available across Japanese sports retailers and e-commerce."}
+    {
+      "label": "For budget-conscious buyers who want high protein purity without additives",
+      "offerId": "plant-protein-naked-pea",
+      "reason": "Naked Pea delivers 27g of pea protein per serving with a single ingredient — no sweeteners, no flavors, no fillers — and third-party tested. The lowest cost per gram of protein in this comparison."
+    },
+    {
+      "label": "For athletes with high protein targets who want NSF certification",
+      "offerId": "plant-protein-garden-of-life-sport",
+      "reason": "Garden of Life Sport is NSF Certified for Sport with 30g protein per serving from a pea + sprouted grain + lentil blend — the highest certified protein dose in this comparison."
+    },
+    {
+      "label": "For everyday plant-based protein with good taste and broad retail availability",
+      "offerId": "plant-protein-orgain-organic",
+      "reason": "Orgain Organic is USDA organic, widely available at Costco and major retailers, and delivers a balanced taste profile at a mid-range price that makes daily use sustainable."
+    },
+    {
+      "label": "For performance athletes who want a complete amino acid profile with beta-alanine",
+      "offerId": "plant-protein-vega-sport-premium",
+      "reason": "Vega Sport Premium adds beta-alanine, tart cherry, bromelain, and turmeric to a 30g pea+pumpkin+sunflower+alfalfa protein blend — the most comprehensive sports-specific plant formula."
+    },
+    {
+      "label": "For Japan-market soy protein supplementation with Meiji brand reliability",
+      "offerId": "plant-protein-savas-soy-jp",
+      "reason": "SAVAS Soy Protein is Japan's dominant sports soy protein, produced by Meiji with Japanese regulatory standards, widely available across Japanese sports retailers and e-commerce."
+    }
   ],
   "sections": [
     {
@@ -81,8 +101,14 @@
       "offerId": "plant-protein-orgain-organic",
       "badge": "Best Overall Organic",
       "review": "Orgain Organic delivers 21g of protein from a pea-rice-chia blend with USDA organic certification, available at Costco and major retailers. The taste is genuinely good for plant protein — chocolate and vanilla work well in water or smoothies. The pea-rice combination produces a more complete amino acid profile than either alone. Best-in-category for organic-sourced protein at accessible everyday pricing.",
-      "pros": ["USDA certified organic pea-rice-chia protein blend — documented supply chain practices", "21g protein per serving with improved amino acid profile from pea-rice complementation", "Widely available at Costco, Target, Walmart — lowest friction to purchase and restock"],
-      "cons": ["21g per serving is lower than sports-focused formulas; two servings needed for 30g+ targets"],
+      "pros": [
+        "USDA certified organic pea-rice-chia protein blend — documented supply chain practices",
+        "21g protein per serving with improved amino acid profile from pea-rice complementation",
+        "Widely available at Costco, Target, Walmart — lowest friction to purchase and restock"
+      ],
+      "cons": [
+        "21g per serving is lower than sports-focused formulas; two servings needed for 30g+ targets"
+      ],
       "grade": "A+",
       "specs": {
         "Protein per serving": "21g",
@@ -92,14 +118,26 @@
         "Serving": "2 scoops (46g)",
         "Price per serving": "~$1.50–2.00"
       },
-      "scores": {"Amino acid profile": 80, "Taste": 88, "Value": 90, "Third-party testing": 78, "Digestibility": 82}
+      "scores": {
+        "Amino acid profile": 80,
+        "Taste": 88,
+        "Value": 90,
+        "Third-party testing": 78,
+        "Digestibility": 82
+      }
     },
     {
       "offerId": "plant-protein-vega-sport-premium",
       "badge": "Best Sports Performance Formula",
       "review": "Vega Sport Premium's 30g multi-protein blend (pea, pumpkin, sunflower, alfalfa) delivers a more complete amino acid profile than single-source pea protein, with meaningful sports-stack additions: beta-alanine for lactic acid buffering, tart cherry for DOMS reduction, bromelain for protein digestion. Informed Sport certified. The most complete sports-specific plant protein formula in this comparison.",
-      "pros": ["30g from 4-source blend — improved leucine and methionine content vs. single-source pea", "Beta-alanine + tart cherry + bromelain — evidence-grounded sports recovery stack built in", "Informed Sport certified — independent banned substance testing for competitive athletes"],
-      "cons": ["Beta-alanine may cause tingling (paresthesia) — harmless but unfamiliar; premium price per serving"],
+      "pros": [
+        "30g from 4-source blend — improved leucine and methionine content vs. single-source pea",
+        "Beta-alanine + tart cherry + bromelain — evidence-grounded sports recovery stack built in",
+        "Informed Sport certified — independent banned substance testing for competitive athletes"
+      ],
+      "cons": [
+        "Beta-alanine may cause tingling (paresthesia) — harmless but unfamiliar; premium price per serving"
+      ],
       "grade": "A",
       "specs": {
         "Protein per serving": "30g",
@@ -109,14 +147,26 @@
         "Serving": "2 scoops (43g)",
         "Price per serving": "~$2.50–3.00"
       },
-      "scores": {"Amino acid profile": 88, "Taste": 75, "Value": 68, "Third-party testing": 92, "Digestibility": 82}
+      "scores": {
+        "Amino acid profile": 88,
+        "Taste": 75,
+        "Value": 68,
+        "Third-party testing": 92,
+        "Digestibility": 82
+      }
     },
     {
       "offerId": "plant-protein-garden-of-life-sport",
       "badge": "Best Certified for Athletes",
       "review": "NSF Certified for Sport and USDA Organic simultaneously — unique in the plant protein category. 30g from a sprouted legume blend (pea, navy bean, lentil, chickpea, cranberry seed). The sprouting process reduces antinutrients and improves digestibility. Adds 2B CFU probiotics and B12. For certified athletes who require independent banned substance testing and prefer organic sourcing, this is the only product in this comparison that satisfies both requirements.",
-      "pros": ["NSF Certified for Sport + USDA Organic simultaneously — the strongest dual certification in plant protein", "30g from sprouted legumes — reduced phytic acid, improved amino acid bioavailability", "Added 2B CFU probiotics and B12 (methylcobalamin) — useful additions for plant-based athletes"],
-      "cons": ["Earthy legume flavor is less palatable than pea-rice blends — works better in smoothies than plain water"],
+      "pros": [
+        "NSF Certified for Sport + USDA Organic simultaneously — the strongest dual certification in plant protein",
+        "30g from sprouted legumes — reduced phytic acid, improved amino acid bioavailability",
+        "Added 2B CFU probiotics and B12 (methylcobalamin) — useful additions for plant-based athletes"
+      ],
+      "cons": [
+        "Earthy legume flavor is less palatable than pea-rice blends — works better in smoothies than plain water"
+      ],
       "grade": "B+",
       "specs": {
         "Protein per serving": "30g",
@@ -126,14 +176,26 @@
         "Serving": "4 scoops (48g)",
         "Price per serving": "~$2.50–3.00"
       },
-      "scores": {"Amino acid profile": 85, "Taste": 70, "Value": 65, "Third-party testing": 97, "Digestibility": 85}
+      "scores": {
+        "Amino acid profile": 85,
+        "Taste": 70,
+        "Value": 65,
+        "Third-party testing": 97,
+        "Digestibility": 85
+      }
     },
     {
       "offerId": "plant-protein-savas-soy-jp",
       "badge": "Best Japan-Market Protein",
       "review": "SAVAS Soy Protein by Meiji delivers the only plant protein with PDCAAS 1.0 — complete amino acids without blending. 15g per serving (Japan standard sizing), available across Japan's sports retailers, gym chains, and e-commerce. Three decades of Meiji quality standards. For Japan-based buyers or anyone sourcing Japan-market protein, SAVAS is the established market benchmark.",
-      "pros": ["Soy protein isolate — PDCAAS 1.0, complete amino acid profile without blending", "Meiji brand reliability — 30+ years of SAVAS production with Japanese regulatory quality standards", "Widely available across Japan retail: sports shops, pharmacies, Amazon Japan, Rakuten"],
-      "cons": ["15g protein per serving is lower than Western sports standards — two servings needed for 30g targets"],
+      "pros": [
+        "Soy protein isolate — PDCAAS 1.0, complete amino acid profile without blending",
+        "Meiji brand reliability — 30+ years of SAVAS production with Japanese regulatory quality standards",
+        "Widely available across Japan retail: sports shops, pharmacies, Amazon Japan, Rakuten"
+      ],
+      "cons": [
+        "15g protein per serving is lower than Western sports standards — two servings needed for 30g targets"
+      ],
       "grade": "B",
       "specs": {
         "Protein per serving": "15g",
@@ -143,14 +205,26 @@
         "Serving": "As directed (Japan serving convention)",
         "Price per serving": "~¥100–200"
       },
-      "scores": {"Amino acid profile": 95, "Taste": 78, "Value": 82, "Third-party testing": 75, "Digestibility": 80}
+      "scores": {
+        "Amino acid profile": 95,
+        "Taste": 78,
+        "Value": 82,
+        "Third-party testing": 75,
+        "Digestibility": 80
+      }
     },
     {
       "offerId": "plant-protein-naked-pea",
       "badge": "Best Single-Ingredient Transparency",
       "review": "Naked Pea: one ingredient, third-party tested for heavy metals and label accuracy, 27g protein per serving, lowest cost per gram of protein in this comparison. Unflavored pea flavor is genuine and pronounced — not for people who need their protein to taste like dessert. For buyers who want maximum transparency at minimum cost, this is the reference standard.",
-      "pros": ["Single ingredient — yellow split pea protein isolate only, no additives, sweeteners, or flavors", "27g protein per serving at the lowest cost per gram of certified plant protein in this comparison", "Third-party tested for heavy metals, label accuracy, and microbial safety"],
-      "cons": ["Pronounced pea flavor unflavored — requires blending with fruit or flavoring for palatable daily use"],
+      "pros": [
+        "Single ingredient — yellow split pea protein isolate only, no additives, sweeteners, or flavors",
+        "27g protein per serving at the lowest cost per gram of certified plant protein in this comparison",
+        "Third-party tested for heavy metals, label accuracy, and microbial safety"
+      ],
+      "cons": [
+        "Pronounced pea flavor unflavored — requires blending with fruit or flavoring for palatable daily use"
+      ],
       "grade": "B-",
       "specs": {
         "Protein per serving": "27g",
@@ -160,7 +234,13 @@
         "Serving": "2 scoops (30g)",
         "Price per serving": "~$1.00–1.25"
       },
-      "scores": {"Amino acid profile": 78, "Taste": 55, "Value": 97, "Third-party testing": 88, "Digestibility": 80}
+      "scores": {
+        "Amino acid profile": 78,
+        "Taste": 55,
+        "Value": 97,
+        "Third-party testing": 88,
+        "Digestibility": 80
+      }
     }
   ]
 }

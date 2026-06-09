@@ -50,6 +50,11 @@ const NEW_SLUGS = [
   "best-soap-dispenser-2026",
   "best-shower-curtain-2026",
   "best-storage-ottoman-2026",
+  // fitness — basketball sub-intent cluster
+  "best-basketball-shoes-ankle-support-2026",
+  "best-basketball-shoes-for-beginners-2026",
+  "best-basketball-shoes-for-traction-2026",
+  "best-cushioned-basketball-shoes-2026",
 ];
 
 interface EnJson {
@@ -59,18 +64,38 @@ interface EnJson {
   pinDescription?: string;
 }
 
-function hashtags(slug: string, locale: string): string[] {
-  const cat = slug.includes("mascara") || slug.includes("foundation") || slug.includes("concealer") || slug.includes("eyebrow") || slug.includes("lip") || slug.includes("nail") || slug.includes("setting-spray") ? "beauty" :
-              slug.includes("face-roller") || slug.includes("hair") ? "hairbeauty" :
-              slug.includes("watch") || slug.includes("boots") || slug.includes("jeans") || slug.includes("swimsuit") || slug.includes("hat") || slug.includes("bag") || slug.includes("coat") || slug.includes("bikini") ? "fashion" : "home";
+// slug キーワードから Pinterest トピックを推定（優先順: 曖昧さの少ない順）。
+// meta.ts の category は dog-bed/baby-monitor/soundbar を全て "home" に丸める粗さなので slug 語で分類する。
+function classify(slug: string): string {
+  const has = (...ks: string[]) => ks.some((k) => slug.includes(k));
+  if (has("baby", "diaper", "crib", "stroller", "toddler", "kids-", "nursing", "pacifier", "formula", "car-seat", "high-chair", "changing-table", "swaddle", "breast-pump")) return "baby";
+  if (has("dog", "cat-", "-cat", "pet", "aquarium", "litter", "hamster", "rabbit", "bird-cage", "fish-tank", "kennel", "puppy")) return "pet";
+  if (has("travel", "luggage", "passport", "carry-on", "checked-luggage", "packing-cube", "anti-theft", "suitcase")) return "travel";
+  if (has("insurance", "loan", "credit-card", "credit-monitoring", "tax-", "savings", "invest", "401k", "529", "-ira", "mortgage", "checking-account", "debit-card", "refinance", "bond-etf", "advisor", "financial", "money-market", "money-transfer", "budgeting-app", "robo-advisor", "savings-account", "cd-account")) return "finance";
+  if (has("mascara", "foundation", "concealer", "eyebrow", "lipstick", "lip-gloss", "lip-balm", "nail-polish", "setting-spray", "blush", "serum", "moisturizer", "cleanser", "toner", "sunscreen", "eye-cream", "face-mist", "sheet-mask", "makeup", "retinol", "niacinamide", "hyaluronic", "eyeshadow", "perfume", "body-lotion", "body-scrub", "face-mask", "ipl-hair", "facial-steamer")) return "beauty";
+  if (has("hair", "face-roller", "gua-sha", "jade-roller", "curling-iron", "straightener")) return "hairbeauty";
+  if (has("basketball", "dumbbell", "kettlebell", "barbell", "treadmill", "yoga", "squat", "spin-bike", "assault-bike", "stationary-bike", "rowing", "elliptical", "resistance", "gym", "protein", "pull-up", "push-up", "jump-rope", "foam-roller", "boxing", "cleats", "agility", "plyometric", "ab-roller", "medicine-ball", "suspension", "knee-sleeve", "lifting", "bcaa", "creatine", "pre-workout", "collagen", "running-shoes", "trail-running", "crossfit", "wrestling-shoes", "weightlifting", "sports-bra", "cycling-helmet", "golf-", "tennis", "pickleball", "badminton", "swim", "climbing-shoes", "spirulina", "battle-rope", "gymnastic")) return "fitness";
+  if (has("camera", "monitor", "router", "laptop", "keyboard", "mouse", "headphone", "earbud", "speaker", "soundbar", "tablet", "ssd", "usb", "charger", "power-bank", "powerstation", "power-station", "webcam", "projector", "microphone", "e-reader", "doorbell", "smart-lock", "thermostat", "smart-home", "streaming", "scanner", "bluetooth", "gps", "dash-cam", "obd2", "ring-light", "graphics-tablet", "label-maker", "fitness-tracker", "smartwatch", "smart-watch", "gaming", "antivirus", "password-manager", "vpn", "hosting", "domain-registrar", "website-builder", "ecommerce", "crm", "payroll", "accounting-software", "hr-software", "wifi", "mesh-wifi", "docking-station")) return "tech";
+  if (has("coffee", "-tea", "tea-", "blender", "cookware", "knife", "-pan", "stockpot", "kettle", "toaster", "grill", "-oven", "fryer", "mixer", "food-processor", "sous-vide", "espresso", "grinder", "cutting-board", "baking", "kitchen", "snack", "honey", "chocolate", "nut-butter", "almond-butter", "olive-oil", "coconut-oil", "water-bottle", "coffee-mug", "bento", "matcha", "yerba", "kombucha", "yogurt", "granola", "vinegar", "hot-sauce", "oat-milk", "protein-bar", "energy-bar", "electrolyte", "sparkling-water", "coconut-water", "bone-broth", "ice-cream", "waffle", "bread-machine", "pizza-stone", "dutch-oven", "-wok", "pasta-maker", "dehydrator", "vacuum-sealer", "meal-kit", "wine", "milk-frother", "deep-fryer", "popcorn", "griddle", "ghee", "spirulina")) return "food";
+  if (has("watch", "boots", "jeans", "swimsuit", "sun-hat", "-bag", "handbag", "tote", "crossbody", "shoulder-bag", "coat", "bikini", "sweater", "cardigan", "jacket", "dress", "-shirt", "loafers", "wallet", "belt", "scarf", "sunglasses", "earrings", "mens-suit", "pajamas", "leggings", "chinos", "sneakers", "slippers", "flannel")) return "fashion";
+  return "home";
+}
 
+function hashtags(slug: string, locale: string): string[] {
   const baseMap: Record<string, string[]> = {
+    baby: ["#momlife", "#babyessentials", "#newbornmusthaves", "#parentingtips", "#babygear", "#review2026"],
+    pet: ["#petlovers", "#petsofpinterest", "#dogmom", "#catmom", "#petcare", "#review2026"],
+    travel: ["#travelgear", "#travelessentials", "#travelhacks", "#packingtips", "#wanderlust", "#review2026"],
+    finance: ["#personalfinance", "#moneytips", "#budgeting", "#financialfreedom", "#moneymanagement", "#review2026"],
     beauty: ["#beautyreview", "#makeuptips", "#beautyhacks", "#skincare", "#beautyfaves", "#review2026"],
     hairbeauty: ["#haircare", "#hairtips", "#beautyroutine", "#hairgoals", "#selfcare", "#review2026"],
+    fitness: ["#fitness", "#homegym", "#workout", "#fitnessgear", "#fitspo", "#review2026"],
+    tech: ["#techfinds", "#gadgets", "#techreview", "#technology", "#gadgetlove", "#review2026"],
+    food: ["#kitchenfinds", "#foodie", "#kitchengadgets", "#cooking", "#homecooking", "#review2026"],
     fashion: ["#fashionfinds", "#styleinspo", "#wardrobeessentials", "#fashiontips", "#ootd", "#review2026"],
     home: ["#homedecor", "#homefinds", "#organizationhacks", "#homemakeover", "#homeessentials", "#review2026"],
   };
-  const tags = baseMap[cat] ?? baseMap.home;
+  const tags = baseMap[classify(slug)] ?? baseMap.home;
   return locale === "ja"
     ? ["#おすすめ", "#レビュー", "#比較", "#買い物", "#生活", "#2026"]
     : tags;
@@ -142,7 +167,18 @@ function main() {
 
   const newPins: object[] = [];
 
-  for (const slug of NEW_SLUGS) {
+  // --all-missing: NEW_SLUGS の代わりに「登録済みだが pins.yaml に未掲載」の全記事を対象にする。
+  const allMissing = process.argv.includes("--all-missing");
+  const pinnedSlugs = new Set(
+    (pinsContent.match(/^  article_slug: (.+)$/gm) ?? []).map((l) => l.replace(/^  article_slug: /, "").trim())
+  );
+  const slugList = allMissing
+    ? fs.readdirSync(ARTICLES_DIR).filter(
+        (s) => fs.existsSync(path.join(ARTICLES_DIR, s, "messages", "en.json")) && !pinnedSlugs.has(s)
+      ).sort()
+    : NEW_SLUGS;
+
+  for (const slug of slugList) {
     for (const locale of ["en", "ja"]) {
       if (existingPinIds.has(`${slug}-${locale}-01`)) {
         console.log(`  skip (exists): ${slug}-${locale}`);
@@ -153,7 +189,18 @@ function main() {
         console.warn(`  MISSING: ${msgPath}`);
         continue;
       }
-      const content: EnJson = JSON.parse(fs.readFileSync(msgPath, "utf8"));
+      const raw = JSON.parse(fs.readFileSync(msgPath, "utf8"));
+      // meta:{title,description} ラッパー形式も正規化。lede 欠落は description で代替。
+      const content: EnJson = {
+        title: raw.title ?? raw.meta?.title ?? "",
+        description: raw.description ?? raw.meta?.description ?? "",
+        lede: raw.lede ?? raw.description ?? raw.meta?.description ?? "",
+        pinDescription: raw.pinDescription,
+      };
+      if (!content.title || !content.description) {
+        console.warn(`  SKIP (no title/desc): ${slug}-${locale}`);
+        continue;
+      }
       const pins = buildPins(slug, locale, content);
       newPins.push(...pins);
       console.log(`  + ${slug}-${locale} (${pins.length} pins)`);

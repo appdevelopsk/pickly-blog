@@ -3,6 +3,7 @@ import { LOCALES } from "@/lib/i18n/locales";
 import { listArticles } from "@/lib/articles/registry";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { isArticleBodyTranslated } from "@/lib/i18n/loader";
+import { ogImageUrl } from "@/lib/og";
 
 export const dynamic = "force-static";
 
@@ -71,6 +72,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: article.updatedAt,
         changeFrequency: "weekly",
         priority: 0.8,
+        // Surface the 1000x1500 OG image in Google Images (image sitemap).
+        images: [ogImageUrl(article.slug, locale)],
         alternates: {
           languages: Object.fromEntries(
             indexLocales.map((l) => [

@@ -7,5 +7,8 @@ import type { AffiliateOffer } from "./types";
  * cannot be used to derive real product images without the PA API.
  */
 export function getOfferImageUrl(offer: AffiliateOffer): string | null {
-  return offer.imageUrl ?? null;
+  const url = offer.imageUrl ?? null;
+  // Amazon's ASIN-based CDN paths (/images/P/) return blank GIF stubs
+  if (url && url.includes("/images/P/")) return null;
+  return url;
 }

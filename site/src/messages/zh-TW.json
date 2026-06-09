@@ -14,17 +14,7 @@
   "home": {
     "heading": "真實評測,絕無灌水。",
     "subheading": "由真人挑選、為讀者撰寫的比較與選購指南。",
-    "empty": "文章準備中,敬請期待。",
-    "trustTitle": "我們如何挑選產品",
-    "trustIntro": "每篇 Pickly 評測都遵循相同的四步流程。無贊助排名,無虛高評分。",
-    "trustTestedTitle": "測試後才列入",
-    "trustTestedText": "我們親自測試產品或分析驗證過的用戶資料 — 不照抄廠商頁面。",
-    "trustCriteriaTitle": "按真實標準比較",
-    "trustCriteriaText": "每個品類使用 4–6 個具體標準(例如籃球鞋:抓地、緩震、腳踝支撐、貼合度、性價比)。",
-    "trustDisclosureTitle": "透明的聯盟連結",
-    "trustDisclosureText": "您透過我們的連結購買時,我們會獲得佣金。排名反映效能 — 不隨佣金比例變化。",
-    "trustUpdatedTitle": "定期更新",
-    "trustUpdatedText": "當產品更新或更強的競品上市時,我們會重新檢視排名。文章日期顯示最近一次複查時間。"
+    "empty": "文章準備中,敬請期待。"
   },
   "category": {
     "tech": "3C",
@@ -208,5 +198,29 @@
   "author": {
     "name": "Pickly 編輯部",
     "bio": "我們熱衷於測試各種實用的小工具和服務，分享基於真實體驗的誠實評測。"
+  },
+  "crossPromo": {
+    "title": "相關網站",
+    "toolify": "免費線上計算與轉換工具",
+    "pickly": "真實的產品比較與評測",
+    "fxea": "免費且經回測的 MT5 自動交易EA",
+    "financeCta": {
+      "title": "對外匯自動交易有興趣嗎？",
+      "cta": "查看免費回測MT5 EA"
+    },
+    "calcCta": {
+      "title": "先把數字算清楚",
+      "cta": "免費複利與金融計算機"
+    }
+  },
+  "newsletter": {
+    "title": "訂閱我們的電子報",
+    "desc": "不定期推送優惠與新品，絕不發垃圾郵件。",
+    "placeholder": "電子郵件",
+    "button": "訂閱",
+    "sending": "提交中…",
+    "success": "感謝訂閱！",
+    "error": "訂閱失敗，請稍後再試。",
+    "privacy": "我們尊重您的隱私，可隨時取消訂閱。"
   }
 }

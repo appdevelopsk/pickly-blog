@@ -1,246 +1,246 @@
 {
-  "title": "Best Smart Home Hub 2026: Zigbee, Z-Wave, Thread and Matter compared across 5 devices",
-  "description": "Amazon Echo Hub, Google Nest Hub Max, Samsung SmartThings, Aeotec Smart Home Hub, and Apple HomePod mini compared on Zigbee, Z-Wave, Thread, Matter support, local processing, and ecosystem breadth for 2026 smart homes.",
-  "lede": "Five smart home hubs compared on the protocols that actually matter in 2026 — Zigbee, Z-Wave, Thread, and Matter — and on whether they process automations locally when the internet goes down.",
-  "methodology": "Each hub evaluated on supported wireless protocols (Zigbee, Z-Wave, Thread, Matter, Wi-Fi, Bluetooth), local vs. cloud processing for automations, compatible device ecosystem breadth, routine/automation builder flexibility, voice assistant integration, and privacy posture. Prices from Amazon US and official brand stores as of May 2026.",
+  "title": "2026最佳智慧家居中樞：Zigbee、Z-Wave、Thread與Matter比較",
+  "description": "Amazon Echo Hub、Google Nest Hub Max、Samsung SmartThings、Aeotec Smart Home Hub與Apple HomePod mini在Zigbee、Z-Wave、Thread、Matter支援、本地處理及生態系統廣度方面的2026年智慧家居完整比較。",
+  "lede": "五款智慧家居中樞在2026年最關鍵的協議上進行比較——Zigbee、Z-Wave、Thread與Matter——以及斷網時是否能在本地執行自動化。",
+  "methodology": "每款中樞均依據支援的無線協議（Zigbee、Z-Wave、Thread、Matter、Wi-Fi、Bluetooth）、自動化的本地與雲端處理方式、相容裝置生態系統廣度、自動化規則彈性、語音助理整合及隱私保護立場進行評估。價格來自Amazon美國及各品牌官方商店，截至2026年5月。",
   "recommendedFor": [
     {
-      "label": "For Alexa households who want a dedicated wall panel",
+      "label": "適合需要專用牆板的Alexa家庭",
       "offerId": "smart-hub-amazon-echo-hub",
-      "reason": "Dedicated 8-inch wall-mounted panel with Zigbee, Thread, and Matter — the first Alexa hub with a physical touch interface."
+      "reason": "專用8吋壁掛式面板，內建Zigbee、Thread與Matter——首款配備實體觸控介面的Alexa中樞。"
     },
     {
-      "label": "For Google Assistant homes with a kitchen display need",
+      "label": "需要廚房顯示器的Google Assistant家庭",
       "offerId": "smart-hub-google-nest-hub-max",
-      "reason": "10-inch display with Nest camera streaming, Nest Aware integration, Thread support, and Google Assistant built in."
+      "reason": "10吋顯示器，支援Nest攝影機串流、Nest Aware整合、Thread及內建Google Assistant。"
     },
     {
-      "label": "For protocol-agnostic users with Z-Wave and Zigbee legacy devices",
+      "label": "擁有Z-Wave與Zigbee舊裝置的協議不限使用者",
       "offerId": "smart-hub-samsung-smartthings",
-      "reason": "SmartThings Station supports Zigbee, Thread, and Matter natively, with Z-Wave via paired hub — the broadest protocol coverage in this list."
+      "reason": "SmartThings Station原生支援Zigbee、Thread與Matter，並可透過配對中樞使用Z-Wave——本清單中協議覆蓋最廣。"
     },
     {
-      "label": "For serious home automation builders who want Z-Wave and Zigbee with local processing",
+      "label": "需要Z-Wave與Zigbee本地處理的進階自動化用戶",
       "offerId": "smart-hub-aeotec-smart-home-hub",
-      "reason": "Aeotec runs SmartThings firmware with certified Z-Wave and Zigbee radios, Matter/Thread bridge, and the deepest local processing in this group."
+      "reason": "Aeotec搭載SmartThings韌體，具備認證的Z-Wave與Zigbee無線電、Matter/Thread橋接，以及本組中最深度的本地處理能力。"
     },
     {
-      "label": "For Apple HomeKit households who want Siri and Thread border routing",
+      "label": "需要Siri與Thread邊界路由的Apple HomeKit家庭",
       "offerId": "smart-hub-apple-homepod-mini",
-      "reason": "HomePod mini serves as a HomeKit hub and Thread border router natively, with Siri automations stored locally on the device."
+      "reason": "HomePod mini原生充當HomeKit中樞與Thread邊界路由器，Siri自動化儲存於裝置本地。"
     }
   ],
   "sections": [
     {
-      "heading": "Why Zigbee, Z-Wave, and Thread are not interchangeable",
+      "heading": "Zigbee、Z-Wave與Thread為何不可互換",
       "paragraphs": [
-        "The most common misconception when buying a smart home hub is treating Zigbee, Z-Wave, Thread, and Wi-Fi as equivalent options for device connectivity. They are not. Zigbee operates on the 2.4 GHz band and uses a mesh network where each Zigbee device extends the network to nearby devices — it supports up to 65,000 devices per network, is battery-efficient, and is the most common protocol for smart bulbs, sensors, and outlets from Philips Hue, IKEA TRÅDFRI, and Sonoff. Its weakness is 2.4 GHz congestion in dense Wi-Fi environments and occasional interoperability issues between different Zigbee implementations (not all Zigbee devices pair with all Zigbee hubs without effort).",
-        "Z-Wave operates exclusively on the 868 MHz (Europe) or 908 MHz (US) sub-gigahertz band, which means zero interference with Wi-Fi or Zigbee and better wall penetration. Z-Wave is the protocol of choice for locks, sensors, thermostats, and security devices from Yale, Schlage, Honeywell, and Fibaro — the security and HVAC space standardized around Z-Wave for its reliability. The downside: Z-Wave devices are typically more expensive than Zigbee equivalents, the protocol is controlled by the Z-Wave Alliance with licensing requirements, and not all hubs in this list support Z-Wave directly. Thread is the newest of the three — it runs on 802.15.4 radio (like Zigbee) but is IP-based from the ground up, meaning each Thread device has a real IPv6 address and communicates directly with the network. Thread requires a Thread Border Router — a device that bridges the Thread mesh to your Wi-Fi/Ethernet network. The Apple HomePod mini, Amazon Echo Hub, Google Nest Hub Max, and Aeotec Hub all serve as Thread Border Routers. Matter, the application layer standard backed by Apple, Google, Amazon, and Samsung, runs on top of Thread (and Wi-Fi) and is designed to make devices interoperable across ecosystems. Matter-certified devices work with Alexa, Google Home, Apple HomeKit, and SmartThings simultaneously."
+        "購買智慧家居中樞時最常見的誤解，是將Zigbee、Z-Wave、Thread與Wi-Fi視為裝置連線的等效選項。事實並非如此。Zigbee運作於2.4 GHz頻段，採用網狀網路架構，每個Zigbee裝置都能延伸網路到附近裝置——支援每個網路最多65,000台裝置，省電效率高，是Philips Hue、IKEA TRÅDFRI和Sonoff智慧燈泡、感測器及插座最常用的協議。其弱點是在Wi-Fi密集環境中的2.4 GHz頻段壅塞，以及不同Zigbee實作之間偶發的互通性問題（並非所有Zigbee裝置都能輕鬆與所有Zigbee中樞配對）。",
+        "Z-Wave專屬運作於868 MHz（歐洲）或908 MHz（美國）的次吉赫頻段，意味著與Wi-Fi或Zigbee零干擾，且穿牆能力更強。Z-Wave是Yale、Schlage、Honeywell和Fibaro門鎖、感測器、溫控器及安全裝置的首選協議——安防與HVAC領域因其可靠性而以Z-Wave為標準。缺點是：Z-Wave裝置通常比Zigbee同類產品昂貴，協議由Z-Wave聯盟控制並有授權要求，且本清單中並非所有中樞都直接支援Z-Wave。Thread是三者中最新的——它運行於802.15.4無線電（如Zigbee），但從底層即採用IP架構，意味著每個Thread裝置都有真實的IPv6位址並直接與網路通訊。Thread需要Thread邊界路由器——一種將Thread網狀網路橋接到Wi-Fi/乙太網路的裝置。Apple HomePod mini、Amazon Echo Hub、Google Nest Hub Max和Aeotec Hub均可充當Thread邊界路由器。Matter是由Apple、Google、Amazon和Samsung支持的應用層標準，運行於Thread（及Wi-Fi）之上，旨在使裝置跨生態系統互通。Matter認證裝置可同時與Alexa、Google Home、Apple HomeKit和SmartThings搭配使用。"
       ]
     },
     {
-      "heading": "Local processing: what happens when the internet goes down",
+      "heading": "本地處理：斷網時會發生什麼",
       "paragraphs": [
-        "Hub-based automation processing matters most in two scenarios: when your internet connection drops, and for latency-sensitive automations like motion-triggered lights. Cloud-dependent hubs route every automation command to remote servers and back — a round trip that typically adds 200–800 ms of latency and fails completely during internet outages. Locally processed automations run on the hub's processor and typically respond in under 50 ms, continue to work during internet outages, and do not expose your home behavior data to cloud servers.",
-        "Of the five hubs in this comparison, the Aeotec Smart Home Hub (running SmartThings firmware) has the most comprehensive local processing — automations built using officially supported device handlers run locally by default. The Amazon Echo Hub runs basic Alexa Routines locally for lights and simple triggers but routes more complex multi-step automations through Amazon's cloud. The Apple HomePod mini processes HomeKit automations locally on-device — a genuine privacy and reliability advantage for HomeKit households. The Google Nest Hub Max routes all Assistant-based automations through Google's cloud — there is no local automation processing for Google-triggered events. The Samsung SmartThings Station relies on cloud processing for most automations; local processing is available only for specific device handlers."
+        "中樞型自動化處理在兩種情境下最為重要：網路斷線時，以及對延遲敏感的自動化（如動態感應燈光）。依賴雲端的中樞會將每個自動化指令路由到遠端伺服器再回傳——這一來回通常增加200至800毫秒的延遲，並在網路中斷時完全失效。本地處理的自動化在中樞處理器上運行，通常在50毫秒內響應，在斷網期間持續運作，且不會將居家行為數據暴露給雲端伺服器。",
+        "本次比較的五款中樞中，Aeotec Smart Home Hub（運行SmartThings韌體）擁有最完整的本地處理能力——使用官方支援裝置處理程序建立的自動化預設於本地運行。Amazon Echo Hub對燈光和簡單觸發的基本Alexa例程在本地運行，但較複雜的多步驟自動化則經由Amazon雲端路由。Apple HomePod mini在裝置上本地處理HomeKit自動化——這對HomeKit家庭是真正的隱私和可靠性優勢。Google Nest Hub Max將所有助理自動化路由至Google雲端——Google觸發的事件沒有本地自動化處理選項。Samsung SmartThings Station的大多數自動化依賴雲端處理；本地處理僅適用於特定裝置處理程序。"
       ]
     },
     {
-      "heading": "What changed in 2026 for smart home hubs",
+      "heading": "2026年智慧家居中樞的新變化",
       "paragraphs": [
-        "Matter 1.3 became the meaningful standard for cross-ecosystem compatibility. By 2026, Matter 1.3 extends the original Matter 1.0 specification to include energy management devices (EV chargers, smart panels), appliance categories (refrigerators, dishwashers, washing machines), and camera streaming. All five hubs in this list support Matter at varying certification levels — Amazon Echo Hub at Matter 1.0 certified, Google Nest Hub Max at Matter 1.1, Samsung SmartThings Hub at Matter 1.2, Aeotec and Apple HomePod mini at Matter 1.3. The practical implication: Matter 1.3 hubs can bridge older Zigbee and Z-Wave devices into the Matter ecosystem via hub-as-bridge functionality, allowing a Yale Z-Wave lock to appear as a Matter-compatible device in Apple HomeKit or Google Home.",
-        "Thread became the default mesh protocol for new devices rather than an enthusiast feature. By mid-2026, most major smart lighting, sensor, and accessory brands (Eve, Nanoleaf, Aqara, IKEA) ship Thread-native versions of their products alongside or replacing Zigbee versions. This matters for hub selection because not all hubs in this list include Thread Border Router hardware — and Thread Border Router quality (number of simultaneous device connections, network stability, range) varies between implementations.",
-        "Energy monitoring integrations became practical rather than theoretical. SmartThings, Google Nest, and Amazon Alexa added real-time grid pricing awareness APIs in 2026, allowing automations that shift appliance loads to off-peak hours based on utility pricing signals — relevant in markets with time-of-use electricity pricing (Japan, California, Germany, UK). Apple HomeKit's energy features remain the most limited of the five ecosystems for utility integration."
+        "Matter 1.3成為跨生態系統相容性的有效標準。到2026年，Matter 1.3在原始Matter 1.0規格基礎上擴展，涵蓋能源管理裝置（電動車充電器、智慧電力面板）、家電類別（冰箱、洗碗機、洗衣機）及攝影機串流。本清單所有五款中樞均以不同認證等級支援Matter——Amazon Echo Hub達Matter 1.0認證、Google Nest Hub Max達Matter 1.1、Samsung SmartThings Hub達Matter 1.2、Aeotec與Apple HomePod mini達Matter 1.3。實際意義在於：Matter 1.3中樞可透過中樞橋接功能，將舊版Zigbee和Z-Wave裝置納入Matter生態系統，讓Yale Z-Wave門鎖以Matter相容裝置的身份出現在Apple HomeKit或Google Home中。",
+        "Thread已成為新裝置的預設網狀協議，而非愛好者功能。到2026年中，大多數主要智慧照明、感測器和配件品牌（Eve、Nanoleaf、Aqara、IKEA）推出Thread原生版本產品，與Zigbee版本並行或取而代之。這對中樞選擇很重要，因為本清單中並非所有中樞都內建Thread邊界路由器硬體——且Thread邊界路由器品質（同時裝置連線數、網路穩定性、範圍）因實作而異。",
+        "能源監控整合變得實際可用而非僅停留理論。SmartThings、Google Nest和Amazon Alexa在2026年新增即時電網價格感知API，允許根據電力公司定價訊號將家電負載轉移至離峰時段——適用於採用分時電價的市場（日本、加州、德國、英國）。Apple HomeKit的能源功能在五大生態系統中對電力整合的支援仍是最有限的。"
       ]
     },
     {
-      "heading": "The practical decision: which hub for which household",
+      "heading": "實際決策：哪個家庭適合哪款中樞",
       "paragraphs": [
-        "The Amazon Echo Hub at approximately $179 is the correct buy for households already using Alexa and who want a dedicated physical control panel rather than a smart speaker. The 8-inch touchscreen mounts flush to a wall and provides dashboard-style control of lights, locks, thermostats, and cameras without opening a phone. It includes Zigbee, Thread, and Matter radio support — the first Alexa device with an integrated hub that also has a screen. Automations are built in the Alexa app's routine builder, which is beginner-friendly for trigger-action rules. Honest weaknesses: Z-Wave is not supported natively (a large omission if your security devices use Z-Wave), local automation processing is partial rather than comprehensive, and the wall-mount installation requires an existing outlet near the mounting point.",
-        "The Google Nest Hub Max at approximately $229 is the right pick for Google Assistant households who want a large kitchen or living room display with smart home control. The 10-inch display adds Face Match for personalized content (calendar, commute, reminders shown per recognized face), Nest camera streaming from compatible Nest cameras without opening a phone, and Google Photos ambient display when idle. Thread Border Router is built in. Honest weaknesses: all automations route through Google's cloud with no local processing option — this means light automations have 200–400 ms latency versus under 50 ms for Apple HomeKit; Z-Wave is not supported; Google announced the eventual discontinuation of the Nest Aware Basic free plan, moving all camera history to paid tiers.",
-        "The Samsung SmartThings Station at approximately $129 is the most protocol-flexible hub in this comparison at its price point. It includes Zigbee and Thread radios natively, certified Matter 1.2 controller, and Z-Wave support via the SmartThings hub ecosystem (separate SmartThings Hub required for Z-Wave if you don't already have one). SmartThings has the broadest compatible device catalog in this list — over 5,000 certified devices. Honest weaknesses: the SmartThings app remains the most complex of the five to navigate for new users; local automation processing is limited to specific officially supported device handlers; Samsung's history of discontinuing SmartThings Hub hardware generations (v1, v2, v3) is a legitimate concern for long-term investment.",
-        "The Aeotec Smart Home Hub at approximately $99 is the correct hub for buyers who need genuine Z-Wave and Zigbee in the same device, want the deepest local processing available, and are willing to accept a more technical setup process. Aeotec is the officially licensed manufacturer of the SmartThings hub platform after Samsung discontinued its own hardware version — it runs the same SmartThings firmware and has the same device catalog compatibility. Z-Wave 700 series and Zigbee 3.0 radios are certified, Matter 1.3 bridge functionality is supported. The local processing advantage is real — Aeotec's hub runs automations locally by default for supported device handlers, which means motion-triggered lights respond in under 50 ms and continue to function during internet outages. Honest weaknesses: the setup process and SmartThings IDE are more technical than Amazon, Google, or Apple's consumer-facing flows; the hardware is a small box without a display.",
-        "The Apple HomePod mini at approximately $99 is the correct choice for Apple HomeKit households who want a device that functions as both a Siri speaker, HomeKit hub, and Thread Border Router. HomePod mini processes all HomeKit automations locally on-device — the privacy and latency advantage here is genuine. Siri automations trigger in under 50 ms, continue during internet outages, and home behavior data does not leave the device. As a Thread Border Router, HomePod mini is among the most stable Thread implementations in this list, with Apple's HomeKit Accessory Protocol providing encrypted, local device communication. Honest weaknesses: HomeKit's compatible device catalog (approximately 3,000 devices) is significantly smaller than SmartThings or Alexa; the Siri voice assistant is the weakest of the four voice assistants in this comparison for natural language complex queries; the device cannot display automation status without a separate iPhone or iPad; and outside the Apple ecosystem, HomePod mini provides essentially no value as a hub."
+        "Amazon Echo Hub售價約179美元，是已使用Alexa且希望有專用實體控制面板而非智慧喇叭的家庭的正確選擇。8吋觸控螢幕可平嵌於牆面，無需拿起手機即可儀表板式控制燈光、門鎖、溫控器和攝影機。內建Zigbee、Thread和Matter無線電支援——首款同時配備整合中樞和螢幕的Alexa裝置。自動化在Alexa應用程式的例程建構工具中建立，對觸發-動作規則的初學者友好。客觀缺點：原生不支援Z-Wave（若安全裝置使用Z-Wave則是重大遺漏）；本地自動化處理為部分而非全面；壁掛安裝需要掛載點附近有電源插座。",
+        "Google Nest Hub Max售價約229美元，是需要廚房或客廳大型顯示器搭配智慧家居控制的Google Assistant家庭的正確選擇。10吋顯示器新增Face Match個人化內容（依識別人臉顯示行事曆、通勤路況、提醒），無需拿手機即可串流相容Nest攝影機，以及閒置時的Google Photos環境顯示。Thread邊界路由器內建。客觀缺點：所有自動化均經由Google雲端路由，無本地處理選項——這意味著燈光自動化有200至400毫秒延遲，而Apple HomeKit低於50毫秒；不支援Z-Wave；Google宣布最終停止Nest Aware Basic免費方案，所有攝影機歷史記錄將移至付費層級。",
+        "Samsung SmartThings Station售價約129美元，是本次比較中價格最靈活的協議中樞。原生內建Zigbee和Thread無線電、認證Matter 1.2控制器，以及透過SmartThings中樞生態系統的Z-Wave支援（若尚未擁有，Z-Wave需額外的SmartThings Hub）。SmartThings擁有本清單中最廣泛的相容裝置目錄——超過5,000個認證裝置。客觀缺點：SmartThings應用程式對新用戶而言是五款中最複雜的；本地自動化處理限於特定官方支援裝置處理程序；Samsung停止SmartThings Hub硬體世代（v1、v2、v3）的歷史是長期投資的合理顧慮。",
+        "Aeotec Smart Home Hub售價約99美元，是需要在同一裝置中擁有真正Z-Wave和Zigbee、想要最深度本地處理且願意接受較技術性設置過程的買家的正確選擇。Aeotec是Samsung停止自有硬體版本後，SmartThings中樞平台的官方授權製造商——它運行相同的SmartThings韌體並有相同的裝置目錄相容性。Z-Wave 700系列和Zigbee 3.0無線電已認證，支援Matter 1.3橋接功能。本地處理優勢是真實的——Aeotec的中樞對支援的裝置處理程序預設本地運行自動化，這意味著動態感應燈光在50毫秒內響應，並在斷網期間持續運作。客觀缺點：設置過程和SmartThings IDE比Amazon、Google或Apple面向消費者的流程更技術性；硬體是一個沒有顯示器的小盒子。",
+        "Apple HomePod mini售價約99美元，是希望裝置同時充當Siri喇叭、HomeKit中樞和Thread邊界路由器的Apple HomeKit家庭的正確選擇。HomePod mini在裝置上本地處理所有HomeKit自動化——隱私和延遲優勢是真實的。Siri自動化觸發時間低於50毫秒，斷網期間持續運作，居家行為數據不會離開裝置。作為Thread邊界路由器，HomePod mini是本清單中最穩定的Thread實作之一，Apple的HomeKit配件協議提供加密的本地裝置通訊。客觀缺點：HomeKit相容裝置目錄（約3,000台）明顯少於SmartThings或Alexa；Siri語音助理在本次比較的四款語音助理中，對複雜自然語言查詢的能力最弱；裝置無法在不使用獨立iPhone或iPad的情況下顯示自動化狀態；在Apple生態系統之外，HomePod mini作為中樞幾乎沒有價值。"
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Do I need a hub if I already have a smart speaker like Echo Dot or Google Nest Mini?",
-      "a": "Smart speakers (Echo Dot, Nest Mini, HomePod) are voice assistants with Wi-Fi, Bluetooth, and sometimes Thread radios — they are not hubs in the protocol sense unless specified. The Echo Dot (4th/5th gen) does not include Zigbee or Z-Wave radios. The Nest Mini does not include Zigbee, Z-Wave, or Thread. The HomePod mini does include Thread and acts as a HomeKit hub for Apple devices. If your existing smart devices connect only over Wi-Fi or Bluetooth, a dedicated hub is optional — you're already controlling them through cloud integration. If you want to add Zigbee sensors, Z-Wave locks, or Thread devices to your home, you need a hub with the corresponding radio. The Amazon Echo Hub ($179) is the right upgrade path for Alexa users; the Aeotec Smart Home Hub ($99) is the right path for users who want Z-Wave and Zigbee in a dedicated hub regardless of voice ecosystem."
+      "q": "如果我已有Echo Dot或Google Nest Mini等智慧喇叭，還需要中樞嗎？",
+      "a": "智慧喇叭（Echo Dot、Nest Mini、HomePod）是配備Wi-Fi、Bluetooth，有時也有Thread無線電的語音助理——除非特別說明，它們在協議意義上並不是中樞。Echo Dot（第4/5代）不含Zigbee或Z-Wave無線電。Nest Mini不含Zigbee、Z-Wave或Thread。HomePod mini確實內建Thread，並充當Apple裝置的HomeKit中樞。如果您現有的智慧裝置只透過Wi-Fi或Bluetooth連線，專用中樞是可選的——您已在透過雲端整合控制它們。若您想在家中新增Zigbee感測器、Z-Wave門鎖或Thread裝置，則需要具備相應無線電的中樞。Amazon Echo Hub（$179）是Alexa用戶的正確升級路徑；Aeotec Smart Home Hub（$99）是無論語音生態系統，需要Z-Wave和Zigbee專用中樞的用戶的正確選擇。"
     },
     {
-      "q": "Will Matter devices work across all five of these hubs simultaneously?",
-      "a": "Matter-certified devices support multi-admin — they can be registered to multiple Matter controllers simultaneously. A Matter light bulb can appear in your Apple Home app, Google Home app, and Alexa app at the same time, controlled by any of them. The practical catch: some device manufacturers limit the number of simultaneous Matter controllers to 3–5 for resource reasons. Thread-based Matter devices require a Thread Border Router in the same home network — at least one of your hubs must have a Thread Border Router to use Thread-native Matter devices. All five hubs in this list function as Thread Border Routers. The multi-admin feature works well in practice for lighting, outlets, and sensors; it is less reliable for complex devices like thermostats and locks where authorization models differ between ecosystems."
+      "q": "Matter裝置能同時在這五款中樞上使用嗎？",
+      "a": "Matter認證裝置支援多管理員——可同時向多個Matter控制器登錄。一顆Matter燈泡可同時出現在Apple Home應用程式、Google Home應用程式和Alexa應用程式中，任一都可控制。實際注意事項：部分裝置製造商因資源原因將同時Matter控制器數量限制在3至5個。基於Thread的Matter裝置需要同一家庭網路中有Thread邊界路由器——您的至少一款中樞必須有Thread邊界路由器才能使用Thread原生Matter裝置。本清單所有五款中樞均可充當Thread邊界路由器。多管理員功能在燈光、插座和感測器方面實際上運作良好；對於溫控器和門鎖等複雜裝置，由於各生態系統授權模型不同，可靠性較低。"
     },
     {
-      "q": "Is local processing really that important, or is it mostly theoretical?",
-      "a": "Local processing matters in two practical scenarios. First, internet outages: if your router or ISP connection fails, cloud-processed automations stop completely. This means your motion-triggered entry lights, your thermostat schedule, and your lock automations stop running until the internet is restored. Locally processed hubs (Aeotec, Apple HomePod mini for HomeKit, and partial Amazon Echo Hub) continue running automations during outages. Second, latency: cloud-round-trip automations add 200–800 ms between trigger and action — the difference between a motion sensor turning on the light before you need it versus a perceptible delay that makes the automation feel unreliable. For households where automation reliability during outages matters (remote properties, areas with unreliable ISPs) or where motion-triggered lighting is the primary use case, local processing is a genuine functional difference, not a theoretical one."
+      "q": "本地處理真的那麼重要，還是大多是理論上的？",
+      "a": "本地處理在兩個實際情境中很重要。第一，網路中斷：若您的路由器或ISP連線失敗，雲端處理的自動化將完全停止。這意味著您的動態感應入口燈光、溫控器時程和門鎖自動化將停止運作，直到網路恢復。本地處理的中樞（Aeotec、Apple HomePod mini用於HomeKit，以及部分Amazon Echo Hub）在中斷期間繼續運行自動化。第二，延遲：雲端往返自動化在觸發和動作之間增加200至800毫秒——這是動態感測器在您需要之前就亮燈，與感覺不可靠的明顯延遲之間的差異。對於中斷期間自動化可靠性很重要的家庭（偏遠房產、ISP不穩定地區）或以動態感應燈光為主要用例的家庭，本地處理是真正的功能差異，而非理論差異。"
     }
   ],
   "products": [
     {
       "offerId": "smart-hub-amazon-echo-hub",
-      "badge": "Best for Alexa Households",
+      "badge": "最適合Alexa家庭",
       "grade": "A",
-      "review": "The Amazon Echo Hub is the right buy for Alexa households who want a dedicated wall-mounted control panel with an integrated Zigbee, Thread, and Matter hub. The 8-inch touchscreen provides dashboard-style home control without relying on a phone, and the wall-mount bracket is included. Alexa Routines cover the majority of common automation patterns (time-based, motion-triggered, voice-activated, sensor-conditional). Honest weaknesses: Z-Wave is absent — a significant limitation if your security devices (locks, sensors) use Z-Wave; complex multi-step automations route through Amazon's cloud rather than running locally; installation requires an outlet near the wall-mount point.",
+      "review": "Amazon Echo Hub是希望擁有整合Zigbee、Thread和Matter中樞的專用壁掛控制面板的Alexa家庭的正確選擇。8吋觸控螢幕無需依賴手機即可提供儀表板式家庭控制，且附帶壁掛支架。Alexa例程涵蓋大多數常見自動化模式（時間觸發、動態感應、語音啟動、感測器條件）。客觀缺點：缺少Z-Wave——若您的安全裝置（門鎖、感測器）使用Z-Wave則是重大限制；複雜多步驟自動化路由至Amazon雲端而非本地運行；安裝需要壁掛點附近有電源插座。",
       "pros": [
-        "8-inch wall-mounted touchscreen — only Alexa device with integrated hub and display",
-        "Zigbee, Thread, and Matter radios built in",
-        "Alexa Routines builder is the most beginner-friendly automation interface here",
-        "Works as Thread Border Router for Thread-native Matter devices"
+        "8吋壁掛觸控螢幕——唯一整合中樞與顯示器的Alexa裝置",
+        "內建Zigbee、Thread和Matter無線電",
+        "Alexa例程建構工具是本比較中最適合初學者的自動化介面",
+        "充當Thread原生Matter裝置的Thread邊界路由器"
       ],
       "cons": [
-        "No Z-Wave support — a real gap for Z-Wave lock and security device users",
-        "Complex automations route through Amazon cloud rather than locally"
+        "不支援Z-Wave——對Z-Wave門鎖和安全裝置用戶是真實缺口",
+        "複雜自動化路由至Amazon雲端而非本地運行"
       ],
       "specs": {
-        "協議": "Zigbee, Thread, Matter, Wi-Fi, Bluetooth",
+        "Protocols": "Zigbee, Thread, Matter, Wi-Fi, Bluetooth",
         "Z-Wave": "No",
-        "本地處理": "Partial (basic routines only)",
-        "顯示器": "8-inch touchscreen",
-        "Thread邊界路由器": "Yes",
-        "Matter版本": "1.0 certified"
+        "Local Processing": "Partial (basic routines only)",
+        "Display": "8-inch touchscreen",
+        "Thread Border Router": "Yes",
+        "Matter Version": "1.0 certified"
       },
       "scores": {
-        "協議覆蓋範圍": 3.8,
-        "本地處理": 3.5,
-        "設置易用性": 5.0,
-        "設備生態系統": 4.5,
-        "價值": 3.8
+        "Protocol Coverage": 3.8,
+        "Local Processing": 3.5,
+        "Ease of Setup": 5.0,
+        "Device Ecosystem": 4.5,
+        "Value": 3.8
       }
     },
     {
       "offerId": "smart-hub-google-nest-hub-max",
-      "badge": "Best Display Hub for Google Homes",
+      "badge": "最佳Google家庭顯示器中樞",
       "grade": "A",
-      "review": "The Google Nest Hub Max is the right choice for Google Assistant households who want a large display combining smart home control with Google Photos, calendar, and Nest camera streaming in a kitchen or living room. The 10-inch display and Face Match personalization are genuinely useful for households with multiple residents. Thread Border Router is built in. Honest weaknesses: all automations are cloud-processed — no local automation processing option exists, meaning automations have 200–400 ms latency and fail during internet outages; Z-Wave is not supported; Nest Aware camera history has moved to paid-tier plans.",
+      "review": "Google Nest Hub Max是希望在廚房或客廳擁有結合智慧家居控制、Google相簿、行事曆和Nest攝影機串流大型顯示器的Google Assistant家庭的正確選擇。10吋顯示器和Face Match個人化對多人家庭真正實用。Thread邊界路由器內建。客觀缺點：所有自動化均在雲端處理——不存在本地自動化處理選項，意味著自動化有200至400毫秒延遲，且在斷網時失效；不支援Z-Wave；Nest Aware攝影機歷史已移至付費方案。",
       "pros": [
-        "10-inch display with Face Match for personalized content per household member",
-        "Nest camera streaming without a phone or separate app",
-        "Thread Border Router built in for Thread-native Matter devices",
-        "Google Assistant is the strongest natural-language voice assistant in this comparison"
+        "10吋顯示器搭載Face Match，為每位家庭成員提供個人化內容",
+        "無需手機或獨立應用程式即可串流Nest攝影機",
+        "內建Thread邊界路由器，適用於Thread原生Matter裝置",
+        "Google Assistant是本次比較中自然語言能力最強的語音助理"
       ],
       "cons": [
-        "All automations are cloud-processed — no local fallback during internet outages",
-        "No Z-Wave support; Nest Aware camera history requires paid subscription"
+        "所有自動化均在雲端處理——斷網時無本地備援",
+        "不支援Z-Wave；Nest Aware攝影機歷史需付費訂閱"
       ],
       "specs": {
-        "協議": "Thread, Matter, Wi-Fi, Bluetooth",
+        "Protocols": "Thread, Matter, Wi-Fi, Bluetooth",
         "Z-Wave": "No",
-        "本地處理": "None",
-        "顯示器": "10-inch touchscreen",
-        "Thread邊界路由器": "Yes",
-        "Matter版本": "1.1 certified"
+        "Local Processing": "None",
+        "Display": "10-inch touchscreen",
+        "Thread Border Router": "Yes",
+        "Matter Version": "1.1 certified"
       },
       "scores": {
-        "協議覆蓋範圍": 3.5,
-        "本地處理": 2.0,
-        "設置易用性": 4.8,
-        "設備生態系統": 4.2,
-        "價值": 3.5
+        "Protocol Coverage": 3.5,
+        "Local Processing": 2.0,
+        "Ease of Setup": 4.8,
+        "Device Ecosystem": 4.2,
+        "Value": 3.5
       }
     },
     {
       "offerId": "smart-hub-samsung-smartthings",
-      "badge": "Best Protocol Breadth",
+      "badge": "最廣協議覆蓋",
       "grade": "B+",
-      "review": "The Samsung SmartThings Station is the broadest-protocol hub in this comparison at $129 — Zigbee and Thread built in, Matter 1.2 controller certified, and Z-Wave support via paired SmartThings Hub for legacy device users. The SmartThings compatible device catalog (5,000+ certified devices) is the largest in this comparison. Honest weaknesses: the SmartThings app is the most complex to navigate of the five for new users; local automation processing is limited to specific device handlers; Samsung's history of discontinuing SmartThings Hub hardware generations is a legitimate long-term concern.",
+      "review": "Samsung SmartThings Station是本次比較中價格129美元、協議最靈活的中樞——原生內建Zigbee和Thread、認證Matter 1.2控制器，以及透過配對SmartThings Hub為舊裝置用戶提供Z-Wave支援。SmartThings相容裝置目錄（5,000+認證裝置）是本次比較中最大的。客觀缺點：SmartThings應用程式對新用戶而言是五款中最複雜的；本地自動化處理限於特定裝置處理程序；Samsung停止SmartThings Hub硬體世代的歷史是合理的長期顧慮。",
       "pros": [
-        "Zigbee, Thread, and Matter 1.2 in one $129 device",
-        "5,000+ compatible certified devices — largest ecosystem in this comparison",
-        "Z-Wave available via SmartThings Hub pairing for legacy security devices",
-        "SmartThings automation builder supports complex multi-condition rules"
+        "單一129美元裝置內建Zigbee、Thread和Matter 1.2",
+        "5,000+相容認證裝置——本次比較中最大生態系統",
+        "透過SmartThings Hub配對，舊版安全裝置可使用Z-Wave",
+        "SmartThings自動化建構工具支援複雜多條件規則"
       ],
       "cons": [
-        "SmartThings app complexity is the highest in this group for new users",
-        "Samsung's hub hardware discontinuation history is a long-term investment risk"
+        "SmartThings應用程式複雜度在本組中對新用戶最高",
+        "Samsung的中樞硬體停產歷史是長期投資風險"
       ],
       "specs": {
-        "協議": "Zigbee, Thread, Matter, Wi-Fi, Bluetooth (Z-Wave via paired hub)",
+        "Protocols": "Zigbee, Thread, Matter, Wi-Fi, Bluetooth (Z-Wave via paired hub)",
         "Z-Wave": "Via paired hub",
-        "本地處理": "Partial (supported device handlers only)",
-        "顯示器": "None",
-        "Thread邊界路由器": "Yes",
-        "Matter版本": "1.2 certified"
+        "Local Processing": "Partial (supported device handlers only)",
+        "Display": "None",
+        "Thread Border Router": "Yes",
+        "Matter Version": "1.2 certified"
       },
       "scores": {
-        "協議覆蓋範圍": 4.5,
-        "本地處理": 3.2,
-        "設置易用性": 3.0,
-        "設備生態系統": 5.0,
-        "價值": 4.5
+        "Protocol Coverage": 4.5,
+        "Local Processing": 3.2,
+        "Ease of Setup": 3.0,
+        "Device Ecosystem": 5.0,
+        "Value": 4.5
       }
     },
     {
       "offerId": "smart-hub-aeotec-smart-home-hub",
-      "badge": "Best for Local Processing / Z-Wave",
+      "badge": "最佳本地處理／Z-Wave",
       "grade": "A",
-      "review": "The Aeotec Smart Home Hub is the correct pick for buyers who need genuine Z-Wave 700 and Zigbee 3.0 in a single device with the deepest local automation processing available in this comparison. As the officially licensed SmartThings hardware successor, it runs the same SmartThings firmware and device catalog. Local processing for supported device handlers is real — motion-triggered lights respond in under 50 ms and automations continue during internet outages. Matter 1.3 bridge functionality allows older Z-Wave and Zigbee devices to appear as Matter devices in any Matter controller. Honest weaknesses: setup is more technical than Amazon, Google, or Apple consumer flows; no display; the SmartThings IDE complexity requires patience.",
+      "review": "Aeotec Smart Home Hub是需要單一裝置中具備真正Z-Wave 700和Zigbee 3.0、想要本次比較中最深度本地自動化處理且願意接受較技術性設置過程的買家的正確選擇。作為官方授權的SmartThings硬體繼任者，它運行相同的SmartThings韌體和裝置目錄。支援裝置處理程序的本地處理是真實的——動態感應燈光在50毫秒內響應，自動化在斷網期間持續運作。Matter 1.3橋接功能讓舊版Z-Wave和Zigbee裝置以Matter裝置身份出現在任何Matter控制器中。客觀缺點：設置比Amazon、Google或Apple消費者流程更技術性；無顯示器；SmartThings IDE複雜度需要耐心。",
       "pros": [
-        "Z-Wave 700 and Zigbee 3.0 both certified in one device",
-        "Deepest local processing in this comparison — automations run during internet outages",
-        "Matter 1.3 bridge brings Z-Wave/Zigbee devices into any Matter ecosystem",
-        "Best price-to-capability ratio at $99 for dual-protocol users"
+        "Z-Wave 700和Zigbee 3.0均在單一裝置中認證",
+        "本次比較中最深度的本地處理——斷網期間自動化持續運作",
+        "Matter 1.3橋接將Z-Wave/Zigbee裝置帶入任何Matter生態系統",
+        "99美元雙協議用戶最佳性價比"
       ],
       "cons": [
-        "Setup is more technical than consumer-facing Amazon, Google, or Apple flows",
-        "No display; the SmartThings app complexity requires patience to master"
+        "設置比Amazon、Google或Apple面向消費者的流程更技術性",
+        "無顯示器；SmartThings應用程式複雜度需要耐心掌握"
       ],
       "specs": {
-        "協議": "Z-Wave 700, Zigbee 3.0, Thread, Matter, Wi-Fi, Ethernet",
+        "Protocols": "Z-Wave 700, Zigbee 3.0, Thread, Matter, Wi-Fi, Ethernet",
         "Z-Wave": "Yes (Z-Wave 700 certified)",
-        "本地處理": "Comprehensive (default for supported handlers)",
-        "顯示器": "None",
-        "Thread邊界路由器": "Yes",
-        "Matter版本": "1.3 certified"
+        "Local Processing": "Comprehensive (default for supported handlers)",
+        "Display": "None",
+        "Thread Border Router": "Yes",
+        "Matter Version": "1.3 certified"
       },
       "scores": {
-        "協議覆蓋範圍": 5.0,
-        "本地處理": 5.0,
-        "設置易用性": 2.5,
-        "設備生態系統": 4.8,
-        "價值": 5.0
+        "Protocol Coverage": 5.0,
+        "Local Processing": 5.0,
+        "Ease of Setup": 2.5,
+        "Device Ecosystem": 4.8,
+        "Value": 5.0
       }
     },
     {
       "offerId": "smart-hub-apple-homepod-mini",
-      "badge": "Best for Apple HomeKit",
+      "badge": "最適合Apple HomeKit",
       "grade": "A",
-      "review": "The Apple HomePod mini at $99 is the correct hub for Apple HomeKit households — serving simultaneously as a Siri speaker, HomeKit hub, and Thread Border Router. All HomeKit automations process locally on-device: latency under 50 ms, continued function during internet outages, no home behavior data leaving the device. Thread Border Router implementation is among the most stable in this list. Honest weaknesses: HomeKit compatible device catalog (~3,000 devices) is significantly smaller than SmartThings or Alexa; Siri is the weakest voice assistant here for complex natural language queries; no Z-Wave or Zigbee radio; outside the Apple ecosystem it provides no hub value.",
+      "review": "Apple HomePod mini售價99美元，是希望裝置同時充當Siri喇叭、HomeKit中樞和Thread邊界路由器的Apple HomeKit家庭的正確中樞。所有HomeKit自動化在裝置上本地處理：延遲低於50毫秒，斷網期間繼續運作，居家行為數據不會離開裝置。Thread邊界路由器實作是本清單中最穩定的之一。客觀缺點：HomeKit相容裝置目錄（約3,000台）明顯少於SmartThings或Alexa；Siri是本次比較中複雜自然語言查詢最弱的語音助理；無Z-Wave或Zigbee無線電；在Apple生態系統之外幾乎不提供中樞價值。",
       "pros": [
-        "All HomeKit automations processed locally — under 50 ms, works during outages",
-        "Stable Thread Border Router for Thread-native Matter devices",
-        "Privacy-forward: home behavior data processed on-device only",
-        "HomePod mini doubles as a Siri speaker and Apple Music player"
+        "所有HomeKit自動化本地處理——低於50毫秒，斷網期間正常運作",
+        "穩定的Thread邊界路由器，適用於Thread原生Matter裝置",
+        "隱私優先：居家行為數據僅在裝置上處理",
+        "HomePod mini兼具Siri喇叭和Apple Music播放器功能"
       ],
       "cons": [
-        "HomeKit device catalog (~3,000) is significantly smaller than SmartThings or Alexa",
-        "No Z-Wave or Zigbee radio — requires separate bridge for those protocols"
+        "HomeKit裝置目錄（約3,000台）明顯少於SmartThings或Alexa",
+        "無Z-Wave或Zigbee無線電——需要單獨橋接器使用這些協議"
       ],
       "specs": {
-        "協議": "Thread, Matter, Wi-Fi, Bluetooth",
+        "Protocols": "Thread, Matter, Wi-Fi, Bluetooth",
         "Z-Wave": "No",
-        "本地處理": "Full (all HomeKit automations)",
-        "顯示器": "None",
-        "Thread邊界路由器": "Yes",
-        "Matter版本": "1.3 certified"
+        "Local Processing": "Full (all HomeKit automations)",
+        "Display": "None",
+        "Thread Border Router": "Yes",
+        "Matter Version": "1.3 certified"
       },
       "scores": {
-        "協議覆蓋範圍": 3.2,
-        "本地處理": 5.0,
-        "設置易用性": 4.5,
-        "設備生態系統": 3.0,
-        "價值": 4.5
+        "Protocol Coverage": 3.2,
+        "Local Processing": 5.0,
+        "Ease of Setup": 4.5,
+        "Device Ecosystem": 3.0,
+        "Value": 4.5
       }
     }
   ],
   "offerNotes": {
-    "smart-hub-amazon-echo-hub": "Best for Alexa homes — 8-inch wall panel with Zigbee/Thread/Matter at $179. No Z-Wave; partial local processing; needs outlet near mount.",
-    "smart-hub-google-nest-hub-max": "Best display for Google homes — 10-inch with Face Match and Nest camera streaming. No local automation processing; no Z-Wave.",
-    "smart-hub-samsung-smartthings": "Broadest protocol coverage at $129 — Zigbee/Thread/Matter/Z-Wave(via hub). App complexity is the highest; hardware discontinuation risk.",
-    "smart-hub-aeotec-smart-home-hub": "Best for Z-Wave + local processing — Z-Wave 700, Zigbee 3.0, Matter 1.3 at $99. Most technical setup; no display.",
-    "smart-hub-apple-homepod-mini": "Best for HomeKit — full local automation, stable Thread border routing at $99. Smallest device catalog; no Z-Wave or Zigbee."
+    "smart-hub-amazon-echo-hub": "最適合Alexa家庭——179美元8吋牆板，支援Zigbee/Thread/Matter。不支援Z-Wave；部分本地處理；掛載點需有插座。",
+    "smart-hub-google-nest-hub-max": "最佳Google家庭顯示器——10吋，支援Face Match和Nest攝影機串流。無本地自動化處理；不支援Z-Wave。",
+    "smart-hub-samsung-smartthings": "129美元最廣協議覆蓋——Zigbee/Thread/Matter/Z-Wave（透過中樞）。應用程式複雜度最高；硬體停產風險。",
+    "smart-hub-aeotec-smart-home-hub": "最佳Z-Wave+本地處理——99美元Z-Wave 700、Zigbee 3.0、Matter 1.3。設置最技術性；無顯示器。",
+    "smart-hub-apple-homepod-mini": "最適合HomeKit——99美元完整本地自動化、穩定Thread邊界路由。裝置目錄最小；無Z-Wave或Zigbee。"
   },
-  "pinDescription": "2026智能家居樞紐對比 — Home Assistant vs Apple Home vs Google Home vs Samsung SmartThings vs Amazon Alexa。協議要求、本地處理、設置說明。"
+  "pinDescription": "2026年五款智慧家居中樞比較：Amazon Echo Hub牆板、Google Nest Hub Max顯示器、SmartThings協議廣度、Aeotec Z-Wave本地處理，以及Apple HomePod mini HomeKit中樞。哪一款能真正連接您所有的智慧裝置？"
 }

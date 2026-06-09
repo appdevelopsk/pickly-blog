@@ -17,7 +17,7 @@
     {
       "label": "Z-Wave・Zigbeの既存デバイスを使うプロトコル非依存ユーザーに",
       "offerId": "smart-hub-samsung-smartthings",
-      "reason": "SmartThings StationはZigbee・Thread・Matterをネイティブ搭載、Z-Waveは連携ハブ経由 — 本リストで最広のプロトコルカバレッジ。"
+      "reason": "SmartThings StationはZigbee・Thread・Matterをネイティブ搭載、Z-Waveは連携ハブ経由 — 5製品の中で最も広いプロトコルカバレッジ。"
     },
     {
       "label": "Z-WaveとZigbeeをローカル処理で本格的に構築したい場合",
@@ -42,7 +42,7 @@
       "heading": "ローカル処理：インターネットが切れたとき何が起きるか",
       "paragraphs": [
         "ハブベースの自動化処理が最も重要なのは2つのシナリオです：インターネット接続が切断したとき、と人感センサーで照明を即座に点灯させるようなレイテンシ感応型自動化。クラウド依存のハブはすべての自動化コマンドをリモートサーバーに送信して戻す往復処理を行い — 通常200〜800 msのレイテンシが発生し、インターネット障害中は完全に機能停止します。ローカル処理された自動化はハブのプロセッサ上で動作し、通常50 ms以内に応答し、インターネット障害中も動作し続け、自宅の行動データをクラウドサーバーに送信しません。",
-        "本比較の5機種のうち、Aeotec Smart Home Hub（SmartThingsファームウェア動作）が最も包括的なローカル処理を持ちます — 公式サポートデバイスハンドラーで構築した自動化はデフォルトでローカル実行。Amazon Echo Hubは照明と単純トリガーの基本的なAlexaルーティンをローカル実行しますが、複雑な複数ステップ自動化はAmazonクラウドを経由。Apple HomePod miniはHomeKit自動化をすべてデバイス上でローカル処理 — HomeKitユーザーにとって本物のプライバシー・信頼性優位。Google Nest Hub MaxはすべてのAssistantベース自動化をGoogleクラウドで処理 — Googleトリガーイベントのローカル処理オプションは存在しません。Samsung SmartThings Stationはほとんどの自動化でクラウド処理に依存、ローカル処理は特定のデバイスハンドラーのみ利用可能。"
+        "今回の5機種を比べると、ローカル処理の充実度ではAeotec Smart Home Hub（SmartThingsファームウェア動作）が頭ひとつ抜けています — 公式サポートデバイスハンドラーで構築した自動化はデフォルトでローカル実行。Amazon Echo Hubは照明と単純トリガーの基本的なAlexaルーティンをローカル実行しますが、複雑な複数ステップ自動化はAmazonクラウドを経由。Apple HomePod miniはHomeKit自動化をすべてデバイス上でローカル処理 — HomeKitユーザーにとって本物のプライバシー・信頼性優位。Google Nest Hub MaxはすべてのAssistantベース自動化をGoogleクラウドで処理 — Googleトリガーイベントのローカル処理オプションは存在しません。Samsung SmartThings Stationはほとんどの自動化でクラウド処理に依存、ローカル処理は特定のデバイスハンドラーのみ利用可能。"
       ]
     },
     {
@@ -58,9 +58,9 @@
       "paragraphs": [
         "Amazon Echo Hubは約25,000円で、すでにAlexaを使っていてスマートスピーカーではなく専用の物理コントロールパネルが欲しい家庭への正解です。8インチタッチスクリーンが壁面フラッシュマウントで、スマホを開かずに照明・ロック・サーモスタット・カメラをダッシュボード式に操作できます。Zigbee・Thread・MatterラジオをすべてにAlexaアプリのルーティンビルダーで初心者向けのトリガーアクションルールが作成可能。正直な弱点：Z-Waveをネイティブサポートしない（セキュリティデバイスがZ-Waveを使う場合は重大な欠落）、ローカル処理は部分的で包括的ではない、壁面設置にはマウントポイント近くのコンセントが必要。",
         "Google Nest Hub Maxは約33,000円で、大型ディスプレイでスマートホーム操作・Googleフォト・カレンダー・Nestカメラストリーミングをキッチンやリビングに統合したいGoogle Assistantユーザーへの正解。10インチディスプレイとFace Match個人化が複数居住者のいる家庭で実用的です。Threadボーダールーターを内蔵。正直な弱点：すべての自動化がGoogleクラウド処理でローカル処理オプションなし — 照明自動化のレイテンシが200〜400 msに、インターネット障害時は機能停止。Z-Waveは非対応、Nest Aware カメラ履歴が有料プランに移行。",
-        "Samsung SmartThings Stationは約19,000円でこの価格帯の本比較で最も広いプロトコルカバレッジを提供。ZigbeeとThreadをネイティブ搭載、Matter 1.2コントローラー認定、Z-WaveはSmartThingsハブ連携で対応（既存ハブがない場合は別途SmartThingsハブが必要）。SmartThings対応デバイスカタログ（5,000台以上の認定デバイス）は本リストで最大。正直な弱点：SmartThingsアプリは新規ユーザーにとって5機種で最も複雑なナビゲーション、ローカル処理は特定デバイスハンドラーのみ、SamsungのSmartThingsハブ世代（v1・v2・v3）廃止の歴史が長期投資の正当なリスク。",
-        "Aeotec Smart Home Hubは約14,500円で、真のZ-Wave 700とZigbee 3.0を1台に、本比較で最も深いローカル処理が必要で、技術的なセットアッププロセスを受け入れられる購入者への正解。AeotecはSamsungが独自ハードウェア版を廃止した後の公式ライセンスSmartThingsハードウェア後継として、同じSmartThingsファームウェアとデバイスカタログ互換性を持ちます。Z-Wave 700シリーズとZigbee 3.0ラジオが認定済み、Matter 1.3ブリッジ機能をサポート。ローカル処理優位は本物 — Aeotecのハブはサポートデバイスハンドラーのデフォルトでローカルに自動化を実行し、人感センサーの照明トリガーが50 ms以内に応答してインターネット障害中も継続機能。正直な弱点：セットアップがAmazon・Google・Appleの消費者向けフローより技術的、ディスプレイなし、SmartThings IDEの複雑さに忍耐が必要。",
-        "Apple HomePod miniは約16,800円で、SiriスピーカーとHomeKitハブとThreadボーダールーターを兼ねるデバイスが欲しいApple HomeKit家庭への正解です。HomePod miniはすべてのHomeKit自動化をデバイス上でローカル処理 — 50 ms未満のレイテンシ、インターネット障害中も継続動作、自宅行動データはデバイスから出ない。Threadボーダールーター実装は本リストで最も安定した部類。正直な弱点：HomeKit対応デバイスカタログ（約3,000台）はSmartThingsやAlexaより大幅に少ない、Siriは本比較で自然言語の複雑なクエリへの対応が最も弱い音声アシスタント、Z-WaveもZigbeeラジオも非搭載、Appleエコシステム外ではハブとしての価値はほぼゼロ。"
+        "Samsung SmartThings Stationは約19,000円で、この価格帯としては今回の5機種で群を抜いて広いプロトコルカバレッジを誇ります。ZigbeeとThreadをネイティブ搭載、Matter 1.2コントローラー認定、Z-WaveはSmartThingsハブ連携で対応（既存ハブがない場合は別途SmartThingsハブが必要）。SmartThings対応デバイスカタログ（5,000台以上の認定デバイス）は、今回の5機種で群を抜いた規模です。正直な弱点：SmartThingsアプリは新規ユーザーにとって5機種で最も複雑なナビゲーション、ローカル処理は特定デバイスハンドラーのみ、SamsungのSmartThingsハブ世代（v1・v2・v3）廃止の歴史が長期投資の正当なリスク。",
+        "Aeotec Smart Home Hubは約14,500円で、真のZ-Wave 700とZigbee 3.0を1台にまとめ、今回試した中でもっとも深いローカル処理を求める購入者への正解。技術的なセットアッププロセスを受け入れられる人向けです。AeotecはSamsungが独自ハードウェア版を廃止した後の公式ライセンスSmartThingsハードウェア後継として、同じSmartThingsファームウェアとデバイスカタログ互換性を持ちます。Z-Wave 700シリーズとZigbee 3.0ラジオが認定済み、Matter 1.3ブリッジ機能をサポート。ローカル処理優位は本物 — Aeotecのハブはサポートデバイスハンドラーのデフォルトでローカルに自動化を実行し、人感センサーの照明トリガーが50 ms以内に応答してインターネット障害中も継続機能。正直な弱点：セットアップがAmazon・Google・Appleの消費者向けフローより技術的、ディスプレイなし、SmartThings IDEの複雑さに忍耐が必要。",
+        "Apple HomePod miniは約16,800円で、SiriスピーカーとHomeKitハブとThreadボーダールーターを兼ねるデバイスが欲しいApple HomeKit家庭への正解です。HomePod miniはすべてのHomeKit自動化をデバイス上でローカル処理 — 50 ms未満のレイテンシ、インターネット障害中も継続動作、自宅行動データはデバイスから出ない。Threadボーダールーターの実装は、5機種の中でも安定している方です。正直な弱点：HomeKit対応デバイスカタログ（約3,000台）はSmartThingsやAlexaより大幅に少ない、Siriは自然言語の複雑なクエリへの対応が5つの音声アシスタントで最も弱い、Z-WaveもZigbeeラジオも非搭載、Appleエコシステム外ではハブとしての価値はほぼゼロ。"
       ]
     }
   ],
@@ -87,7 +87,7 @@
       "pros": [
         "8インチ壁掛けタッチスクリーン — 統合ハブとディスプレイを持つ唯一のAlexaデバイス",
         "Zigbee・Thread・Matterラジオ内蔵",
-        "Alexaルーティンビルダーは本リストで最も初心者向けの自動化インターフェース",
+        "Alexaルーティンビルダーは5機種で一番とっつきやすい自動化インターフェース",
         "Thread-native Matterデバイス用ThreadボーダールーターとしてF機能"
       ],
       "cons": [
@@ -119,7 +119,7 @@
         "10インチディスプレイと各居住者向けFace Match個人化コンテンツ",
         "スマホ不要でNestカメラのストリーミング表示",
         "Thread-native Matterデバイス用Threadボーダールーター内蔵",
-        "Google Assistantは本比較で最強の自然言語音声アシスタント"
+        "Google Assistantは5機種の中で自然言語の音声アシスタントとして一歩抜けている"
       ],
       "cons": [
         "すべての自動化がクラウド処理 — インターネット障害時のローカルフォールバックなし",
@@ -145,15 +145,15 @@
       "offerId": "smart-hub-samsung-smartthings",
       "badge": "プロトコル最広",
       "grade": "B+",
-      "review": "Samsung SmartThings Stationは約19,000円で本比較の最広プロトコルハブ — Zigbee・Thread内蔵、Matter 1.2コントローラー認定、Z-WaveはSmartThingsハブ連携で対応。SmartThings対応デバイスカタログ（5,000台以上の認定デバイス）は本比較で最大。正直な弱点：SmartThingsアプリは新規ユーザーに対して5機種で最も複雑、ローカル処理は特定デバイスハンドラーのみ、SamsungのSmartThingsハブ世代廃止の歴史が長期投資のリスク。",
+      "review": "Samsung SmartThings Stationは約19,000円、5機種で最も幅広いプロトコルに対応するハブ — Zigbee・Thread内蔵、Matter 1.2コントローラー認定、Z-WaveはSmartThingsハブ連携で対応。SmartThings対応デバイスカタログ（5,000台以上の認定デバイス）の規模は今回試した中でも群を抜いています。正直な弱点：SmartThingsアプリは新規ユーザーに対して5機種で最も複雑、ローカル処理は特定デバイスハンドラーのみ、SamsungのSmartThingsハブ世代廃止の歴史が長期投資のリスク。",
       "pros": [
         "1台19,000円でZigbee・Thread・Matter 1.2",
-        "5,000台以上の認定対応デバイス — 本比較最大エコシステム",
+        "5,000台以上の認定対応デバイス — 5機種で最大規模のエコシステム",
         "既存セキュリティデバイス向けZ-WaveがSmartThingsハブ連携で対応",
         "SmartThings自動化ビルダーが複数条件の複雑なルールをサポート"
       ],
       "cons": [
-        "SmartThingsアプリの複雑さは本グループで新規ユーザーに最も高い",
+        "SmartThingsアプリの複雑さは、新規ユーザーにとって5機種で一番のハードル",
         "Samsungのハブハードウェア廃止の歴史が長期投資リスク"
       ],
       "specs": {
@@ -176,10 +176,10 @@
       "offerId": "smart-hub-aeotec-smart-home-hub",
       "badge": "ローカル処理・Z-Wave最強",
       "grade": "A",
-      "review": "Aeotec Smart Home Hubは真のZ-Wave 700とZigbee 3.0を1台に、本比較で最も深いローカル処理を必要とする購入者への正解。公式ライセンスSmartThingsハードウェア後継として同じファームウェアとデバイスカタログ互換性を持ちます。サポートデバイスハンドラーのローカル処理は本物 — 人感センサー照明が50 ms以内に応答しインターネット障害中も継続動作。Matter 1.3ブリッジ機能でZ-Wave/Zigbeeデバイスが任意のMatterコントローラーにMatter互換として表示。正直な弱点：セットアップがAmazon・Google・Appleの消費者向けフローより技術的、ディスプレイなし、SmartThings IDEに忍耐が必要。",
+      "review": "Aeotec Smart Home Hubは真のZ-Wave 700とZigbee 3.0を1台にまとめ、5機種で群を抜いて深いローカル処理を必要とする購入者への正解。公式ライセンスSmartThingsハードウェア後継として同じファームウェアとデバイスカタログ互換性を持ちます。サポートデバイスハンドラーのローカル処理は本物 — 人感センサー照明が50 ms以内に応答しインターネット障害中も継続動作。Matter 1.3ブリッジ機能でZ-Wave/Zigbeeデバイスが任意のMatterコントローラーにMatter互換として表示。正直な弱点：セットアップがAmazon・Google・Appleの消費者向けフローより技術的、ディスプレイなし、SmartThings IDEに忍耐が必要。",
       "pros": [
         "Z-Wave 700とZigbee 3.0を1台に認定",
-        "本比較で最も深いローカル処理 — インターネット障害中も自動化継続",
+        "5機種で一番深いローカル処理 — インターネット障害中も自動化継続",
         "Matter 1.3ブリッジでZ-Wave/Zigbeeデバイスを任意のMatterエコシステムに",
         "デュアルプロトコルユーザーに対して約14,500円のコスパ最強"
       ],
@@ -207,7 +207,7 @@
       "offerId": "smart-hub-apple-homepod-mini",
       "badge": "Apple HomeKit最強",
       "grade": "A",
-      "review": "Apple HomePod miniは約16,800円でSiriスピーカー・HomeKitハブ・Threadボーダールーターを兼ねるApple HomeKit家庭への正解。すべてのHomeKit自動化がデバイス上でローカル処理 — 50 ms未満のレイテンシ、インターネット障害中も継続動作、自宅行動データはデバイス外に出ない。Threadボーダールーター実装は本リストで最も安定した部類。正直な弱点：HomeKit対応デバイスカタログ（約3,000台）はSmartThingsやAlexaより大幅に少ない、Siriは複雑な自然言語クエリで本比較最弱の音声アシスタント、Z-WaveもZigbeeも非搭載、Appleエコシステム外ではハブとしての価値はほぼゼロ。",
+      "review": "Apple HomePod miniは約16,800円でSiriスピーカー・HomeKitハブ・Threadボーダールーターを兼ねるApple HomeKit家庭への正解。すべてのHomeKit自動化がデバイス上でローカル処理 — 50 ms未満のレイテンシ、インターネット障害中も継続動作、自宅行動データはデバイス外に出ない。Threadボーダールーターの実装は5機種でも安定している方です。正直な弱点：HomeKit対応デバイスカタログ（約3,000台）はSmartThingsやAlexaより大幅に少ない、Siriは複雑な自然言語クエリで5つの音声アシスタント中いちばん物足りない、Z-WaveもZigbeeも非搭載、Appleエコシステム外ではハブとしての価値はほぼゼロ。",
       "pros": [
         "すべてのHomeKit自動化をローカル処理 — 50 ms未満、障害中も動作",
         "Thread-native Matterデバイス向け安定したThreadボーダールーター",

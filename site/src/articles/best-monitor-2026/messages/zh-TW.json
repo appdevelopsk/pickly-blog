@@ -1,267 +1,267 @@
 {
-  "title": "Best Monitor 2026: 5 options compared",
-  "description": "LG 27GP950-B (Nano IPS, 160 Hz, 4K, HDR600, HDMI 2.1, ~$650) vs Dell S2722DGM (VA curved, 165 Hz, QHD, HDR400, ~$250) vs ASUS ROG Swift PG27AQDM (QD-OLED, 240 Hz, 0.03 ms, QHD, ~$800) vs iiyama G-Master GB2770QSU (IPS, 165 Hz, QHD, Japan domestic, ~¥45,000) vs BenQ PD2705UA (IPS, 4K, USB-C 96W, Thunderbolt 4, factory calibrated, ~$479). Panel type, refresh rate, response time, resolution, and HDR tier compared honestly.",
-  "lede": "Five monitors from $250 VA curved QHD to $800 QD-OLED — compared on panel technology and specifications that determine image quality and gaming performance, not marketing refresh rate overclaims or HDR certification tier inflation.",
-  "methodology": "Specifications sourced from manufacturer datasheets and published hardware measurements. We did not conduct independent panel measurements. Response time figures reflect manufacturer-published specifications — real-world GtG at target refresh rates may differ from peak marketing claims. HDR assessments reference VESA DisplayHDR tier specifications.",
+  "title": "2026 最佳螢幕：5 款機型評比",
+  "description": "LG 27GP950-B（Nano IPS、160 Hz、4K、HDR600、HDMI 2.1、約 $650）vs Dell S2722DGM（VA 曲面、165 Hz、QHD、HDR400、約 $250）vs ASUS ROG Swift PG27AQDM（QD-OLED、240 Hz、0.03 ms、QHD、約 $800）vs iiyama G-Master GB2770QSU（IPS、165 Hz、QHD、日本國內款、約 ¥45,000）vs BenQ PD2705UA（IPS、4K、USB-C 96W、Thunderbolt 4、出廠校色、約 $479）。誠實比較面板類型、更新率、反應時間、解析度與 HDR 等級。",
+  "lede": "從 $250 的 VA 曲面 QHD 到 $800 的 QD-OLED，五款螢幕——以決定畫質與遊戲表現的面板技術與規格進行比較，而非行銷話術中誇大的更新率超頻或灌水的 HDR 認證等級。",
+  "methodology": "規格來自製造商資料表與已公開的硬體量測數據。我們並未進行獨立的面板量測。反應時間數字反映製造商公布的規格——在目標更新率下的實際 GtG 可能與行銷宣稱的峰值不同。HDR 評估參照 VESA DisplayHDR 等級規格。",
   "recommendedFor": [
     {
-      "label": "For 4K gaming with HDMI 2.1 for PS5 and current-gen GPU output",
+      "label": "適合需要 HDMI 2.1、用於 PS5 與當代 GPU 輸出的 4K 遊戲",
       "offerId": "monitor-lg-27gp950-b",
-      "reason": "Nano IPS at 160 Hz with HDMI 2.1 and G-Sync Compatible handles 4K gaming from both PC and PS5 without adapter limitations."
+      "reason": "160 Hz 的 Nano IPS 搭配 HDMI 2.1 與 G-Sync Compatible，能同時處理 PC 與 PS5 的 4K 遊戲，且不受轉接限制。"
     },
     {
-      "label": "For high-refresh QHD gaming on a budget under $300",
+      "label": "適合預算 $300 以下、想要高更新率 QHD 遊戲的玩家",
       "offerId": "monitor-dell-s2722dgm",
-      "reason": "VA curved panel at 165 Hz QHD for $250 delivers the best value refresh rate and resolution combination in this comparison."
+      "reason": "$250 即可擁有 165 Hz QHD 的 VA 曲面面板，是本次比較中更新率與解析度組合最划算的選擇。"
     },
     {
-      "label": "For the fastest possible response time and perfect blacks in a QHD panel",
+      "label": "適合追求 QHD 面板中最快反應時間與純黑表現的玩家",
       "offerId": "monitor-asus-rog-swift-pg27aqdm",
-      "reason": "QD-OLED at 240 Hz with 0.03 ms GtG and infinite contrast ratio are specifications no IPS or VA panel matches."
+      "reason": "240 Hz、0.03 ms GtG 與無限對比度的 QD-OLED，是任何 IPS 或 VA 面板都無法企及的規格。"
     },
     {
-      "label": "For Japanese domestic users wanting IPS QHD with local warranty support",
+      "label": "適合想要 IPS QHD 並享有本地保固支援的日本國內使用者",
       "offerId": "monitor-iiyama-g-master-jp",
-      "reason": "iiyama's G-Master series has strong Japanese retail presence and domestic support with competitive IPS QHD specifications."
+      "reason": "iiyama 的 G-Master 系列在日本零售通路與在地支援上實力堅強，同時具備具競爭力的 IPS QHD 規格。"
     },
     {
-      "label": "For creative professionals who need factory-calibrated 4K with USB-C power delivery",
+      "label": "適合需要出廠校色 4K 並具 USB-C 供電的創意工作者",
       "offerId": "monitor-benq-pd2705ua",
-      "reason": "AQCOLOR factory calibration, 4K IPS, and 96W USB-C power delivery in one monitor serve laptop-based creative workflows."
+      "reason": "AQCOLOR 出廠校色、4K IPS 與 96W USB-C 供電集於一台螢幕，完整服務以筆電為基礎的創意工作流程。"
     }
   ],
   "sections": [
     {
-      "heading": "How we compared",
+      "heading": "我們如何進行比較",
       "paragraphs": [
-        "We did not conduct independent panel measurements using colorimeters, spectrophotometers, or motion blur capture equipment. Valid monitor testing requires calibrated measurement hardware, standardized test pattern sources, and multiple unit samples to account for panel variance — none of which we reproduce here. What we reviewed: manufacturer-published panel specifications, VESA DisplayHDR certification tier requirements, published measurements from hardware review publications with documented test methodology, and long-term user reports focused on backlight uniformity issues, panel lottery variance, and response time artifacts.",
-        "A framing note before the products: this comparison deliberately includes monitors from different use-case categories. The LG 27GP950-B and ASUS ROG Swift PG27AQDM are gaming monitors. The Dell S2722DGM is a budget gaming monitor. The iiyama G-Master is a Japanese domestic gaming monitor. The BenQ PD2705UA is a professional creative monitor with gaming-adjacent specifications. Comparing them as a single ranked list obscures the intended user for each product."
+        "我們並未使用色度計、分光光度計或動態模糊擷取設備進行獨立的面板量測。有效的螢幕測試需要經過校準的量測硬體、標準化的測試圖樣訊源，以及多台樣機以納入面板差異——這些在此都無法重現。我們審視的內容包括：製造商公布的面板規格、VESA DisplayHDR 認證等級的要求、具明確測試方法論之硬體評測媒體所公布的量測數據，以及聚焦於背光均勻度問題、面板抽獎差異與反應時間殘影的長期使用者回報。",
+        "在進入產品之前先做一個說明：本次比較刻意涵蓋了不同使用情境類別的螢幕。LG 27GP950-B 與 ASUS ROG Swift PG27AQDM 是遊戲螢幕。Dell S2722DGM 是平價遊戲螢幕。iiyama G-Master 是日本國內款遊戲螢幕。BenQ PD2705UA 則是具備遊戲相近規格的專業創意螢幕。把它們當成單一排名清單來比較，會掩蓋每款產品所針對的目標使用者。"
       ]
     },
     {
-      "heading": "Panel technology — IPS vs VA vs QD-OLED",
+      "heading": "面板技術——IPS vs VA vs QD-OLED",
       "paragraphs": [
-        "IPS (In-Plane Switching) panels offer accurate color reproduction, wide viewing angles (colors and contrast are consistent when viewed off-center), and good response times that have improved dramatically in recent generations. IPS panels cannot produce true blacks — they have a minimum backlight level that causes a 'glow' in dark scenes visible in low-light environments. The LG 27GP950-B uses Nano IPS — IPS with quantum dot color filter enhancement that extends the color gamut toward DCI-P3. iiyama's G-Master and BenQ PD2705UA also use standard IPS panels. IPS is the most versatile panel technology for mixed gaming and productivity use.",
-        "VA (Vertical Alignment) panels produce deeper blacks than IPS because the liquid crystals align vertically when unpowered, blocking more backlight. The Dell S2722DGM's VA panel has a notably higher contrast ratio (around 3,000:1) compared to IPS (typically 1,000:1) — dark scenes in games look more dramatic. The tradeoff: VA panels have slower pixel response time especially at low gray levels (the 'dark level smearing' problem) and more viewing angle color shift than IPS. The Dell S2722DGM's 165 Hz VA panel mitigates the response time issue at high refresh rates but does not eliminate dark-level smearing entirely.",
-        "QD-OLED — used in the ASUS ROG Swift PG27AQDM — combines a self-emissive OLED panel with quantum dot color filters. Self-emissive means each pixel generates its own light and can turn off completely, achieving true infinite contrast ratio and true blacks. The 0.03 ms GtG response time is a consequence of OLED physics — there is no liquid crystal alignment delay, only the response time of the organic emitter itself. QD-OLED also covers a wider color gamut (over 150% sRGB, approaching DCI-P3 fully) than standard IPS or VA panels. The tradeoffs: OLED burn-in risk from static UI elements (taskbars, health bars, crosshairs) over years of use, and lower peak brightness in SDR mode compared to high-brightness IPS panels."
+        "IPS（In-Plane Switching）面板提供準確的色彩重現、寬廣的可視角度（從側面觀看時色彩與對比仍保持一致），以及在近幾代大幅改善的優異反應時間。IPS 面板無法產生真正的純黑——它有最低背光亮度，會在暗場景中造成在低光環境下可見的「泛光」。LG 27GP950-B 採用 Nano IPS——以量子點濾色片強化的 IPS，能將色域拓展至接近 DCI-P3。iiyama 的 G-Master 與 BenQ PD2705UA 也採用標準 IPS 面板。IPS 是兼顧遊戲與生產力混合使用時最全能的面板技術。",
+        "VA（Vertical Alignment）面板的純黑表現比 IPS 更深，因為液晶在未通電時垂直排列，能阻擋更多背光。Dell S2722DGM 的 VA 面板對比度明顯更高（約 3,000:1），相較於 IPS（通常為 1,000:1）——遊戲中的暗場景看起來更具戲劇張力。代價是：VA 面板的像素反應時間較慢，尤其在低灰階時（「暗部拖影」問題），且可視角度的色偏也比 IPS 明顯。Dell S2722DGM 的 165 Hz VA 面板在高更新率下緩解了反應時間問題，但無法完全消除暗部拖影。",
+        "QD-OLED——用於 ASUS ROG Swift PG27AQDM——結合了自發光 OLED 面板與量子點濾色片。自發光意味著每個像素自行發光並能完全關閉，達成真正無限的對比度與純黑。0.03 ms 的 GtG 反應時間是 OLED 物理特性的結果——沒有液晶排列延遲，只有有機發光體本身的反應時間。QD-OLED 的色域也比標準 IPS 或 VA 面板更廣（超過 150% sRGB，幾乎完整涵蓋 DCI-P3）。代價是：多年使用後靜態 UI 元素（工作列、血條、準星）造成的 OLED 烙印風險，以及 SDR 模式下峰值亮度低於高亮度 IPS 面板。"
       ]
     },
     {
-      "heading": "Refresh rate reality — 160 Hz vs 165 Hz vs 240 Hz",
+      "heading": "更新率的真相——160 Hz vs 165 Hz vs 240 Hz",
       "paragraphs": [
-        "Refresh rate describes how many times per second the monitor updates its image. At 60 Hz, the image updates every 16.7 ms. At 165 Hz, every 6.06 ms. At 240 Hz, every 4.17 ms. The perceptual improvement from 60 Hz to 144/165 Hz is significant and visible to almost all users in fast-motion content. The improvement from 165 Hz to 240 Hz is smaller and requires a high frame rate source — if your GPU outputs 165 fps, the 240 Hz monitor still shows 165 images per second. The additional 75 Hz headroom only matters if your PC can consistently produce 200+ fps at your resolution.",
-        "At 4K resolution (3840x2160), producing 165+ fps requires current-generation high-end GPUs — RTX 4080 or RX 7900 XTX class hardware in demanding titles. At QHD (2560x1440), 165 fps is achievable with mid-range hardware in many titles. The LG 27GP950-B at 160 Hz 4K requires premium GPU investment to use the refresh rate fully. The Dell S2722DGM at 165 Hz QHD is more accessible for a wider range of GPU budgets.",
-        "Overclock mode refresh rates — the 160 Hz figure for the LG 27GP950-B (base is 144 Hz) — are supported but may exhibit slightly reduced image stability or response time compared to the rated non-OC frequency. VESA adaptive sync (FreeSync, G-Sync Compatible) allows the monitor to match the GPU output rate dynamically, eliminating tearing even when frame rates drop below the monitor's maximum — this matters more than the maximum refresh rate for users whose GPU does not consistently reach the peak rate."
+        "更新率描述螢幕每秒更新畫面的次數。在 60 Hz 下，畫面每 16.7 ms 更新一次。在 165 Hz 下為每 6.06 ms。在 240 Hz 下為每 4.17 ms。從 60 Hz 提升到 144/165 Hz 的感知改善相當顯著，且對幾乎所有使用者在高速動態內容中都清晰可見。從 165 Hz 提升到 240 Hz 的改善較小，且需要高幀率訊源——如果你的 GPU 輸出 165 fps，那麼 240 Hz 螢幕仍只顯示每秒 165 張畫面。額外的 75 Hz 餘裕只有在你的 PC 能在該解析度下穩定產出 200+ fps 時才有意義。",
+        "在 4K 解析度（3840x2160）下，要產出 165+ fps 需要當代高階 GPU——在吃重的遊戲中需 RTX 4080 或 RX 7900 XTX 等級的硬體。在 QHD（2560x1440）下，許多遊戲以中階硬體即可達到 165 fps。LG 27GP950-B 的 160 Hz 4K 需要投資頂級 GPU 才能完整發揮其更新率。Dell S2722DGM 的 165 Hz QHD 則對更廣的 GPU 預算範圍更為親民。",
+        "超頻模式更新率——LG 27GP950-B 的 160 Hz 數字（基礎為 144 Hz）——雖受支援，但相較於額定的非超頻頻率，可能出現畫面穩定度或反應時間略微下降的情況。VESA 自適應同步（FreeSync、G-Sync Compatible）讓螢幕能動態匹配 GPU 的輸出率，即使幀率低於螢幕最高值也能消除撕裂——對於 GPU 無法穩定達到峰值更新率的使用者而言，這比最高更新率更重要。"
       ]
     },
     {
-      "heading": "HDR tiers — what DisplayHDR 400, 600, and True Black 400 mean",
+      "heading": "HDR 等級——DisplayHDR 400、600 與 True Black 400 的意義",
       "paragraphs": [
-        "VESA DisplayHDR certification defines minimum performance requirements at different brightness and contrast tiers. DisplayHDR 400 requires a minimum peak brightness of 400 nits — this is the entry-level tier and does not require local dimming or wide color gamut. Many monitors claim DisplayHDR 400 compliance without meaningful HDR image improvement over standard SDR content. The Dell S2722DGM and iiyama G-Master at DisplayHDR 400 are honest specifications that should not be interpreted as premium HDR performance.",
-        "DisplayHDR 600 — achieved by the LG 27GP950-B — requires 600 nit peak brightness and local dimming. This is a meaningful step up from 400 that produces noticeably brighter highlights in HDR content and better dark-scene detail. The BenQ PD2705UA's DisplayHDR 400 is appropriate for its professional calibration focus — it is not positioned as a high-brightness gaming monitor.",
-        "DisplayHDR True Black 400 — the certification of the ASUS ROG Swift PG27AQDM — is specifically for OLED panels. It requires a peak brightness of 400 nits but also requires a black level of 0.0005 nits or lower, reflecting OLED's ability to turn individual pixels completely off. The result is a contrast ratio measured in millions to one rather than the thousands-to-one of IPS or VA. For HDR gaming where contrast between bright highlights and dark shadows is the defining visual quality, OLED True Black is a categorically different experience from backlit panel HDR."
+        "VESA DisplayHDR 認證在不同的亮度與對比等級定義了最低效能要求。DisplayHDR 400 要求最低峰值亮度為 400 尼特——這是入門等級，不要求區域調光或廣色域。許多螢幕宣稱符合 DisplayHDR 400，卻在實質上沒有相較於標準 SDR 內容的有意義 HDR 畫質提升。Dell S2722DGM 與 iiyama G-Master 的 DisplayHDR 400 是誠實的規格，不應被解讀為頂級 HDR 表現。",
+        "DisplayHDR 600——由 LG 27GP950-B 達成——要求 600 尼特峰值亮度與區域調光。這相較於 400 是有意義的進階，能在 HDR 內容中產生明顯更亮的高光與更佳的暗場景細節。BenQ PD2705UA 的 DisplayHDR 400 對其專業校色定位是合適的——它並非定位為高亮度遊戲螢幕。",
+        "DisplayHDR True Black 400——ASUS ROG Swift PG27AQDM 的認證——專為 OLED 面板而設。它要求 400 尼特的峰值亮度，但同時要求黑階為 0.0005 尼特或更低，反映出 OLED 能將個別像素完全關閉的能力。其結果是以百萬比一計的對比度，而非 IPS 或 VA 的數千比一。在以明亮高光與深暗陰影之間對比為決定性視覺品質的 HDR 遊戲中，OLED True Black 是與背光面板 HDR 截然不同的體驗。"
       ]
     },
     {
-      "heading": "Resolution and pixel density at 27 inches",
+      "heading": "27 吋的解析度與像素密度",
       "paragraphs": [
-        "At 27 inches diagonal, the pixel density difference between QHD (2560x1440, approximately 109 PPI) and 4K (3840x2160, approximately 163 PPI) is visible at normal viewing distances of 50–80 cm. 4K at 27 inches produces noticeably sharper text and fine detail than QHD at the same screen size, particularly for small-text reading in code editors, browsers, and spreadsheets. For gaming, the sharpness difference is real in detailed environments but requires rendering four times as many pixels as 1080p — demanding more from the GPU.",
-        "The GPU cost of 4K versus QHD at the same refresh rate is substantial. Rendering the same game at 4K 144 Hz requires roughly 3x the GPU performance of QHD 144 Hz. Users with mid-range GPU budgets will typically get better gaming performance from a high-refresh-rate QHD monitor than from a 4K monitor running at reduced frame rates. The LG 27GP950-B's 4K is targeted at users who have the GPU to support it.",
-        "The BenQ PD2705UA's 4K at 60 Hz is designed for the professional creative use case — accurate color rendition, sharpness for photo and video work, and AQCOLOR factory calibration — not gaming. At 60 Hz, motion clarity in games is not competitive with 144+ Hz gaming monitors. The factory calibration and USB-C 96W power delivery are the differentiated features, not gaming performance."
+        "在 27 吋對角線下，QHD（2560x1440，約 109 PPI）與 4K（3840x2160，約 163 PPI）之間的像素密度差異，在 50–80 公分的正常觀看距離下清晰可見。27 吋的 4K 相較於相同螢幕尺寸的 QHD，能產生明顯更銳利的文字與細節，尤其是在程式碼編輯器、瀏覽器與試算表中閱讀小字時。對遊戲而言，在細節豐富的環境中銳利度差異確實存在，但需要渲染相當於 1080p 四倍的像素——對 GPU 的要求更高。",
+        "在相同更新率下，4K 相較於 QHD 的 GPU 成本相當可觀。以 4K 144 Hz 渲染同一款遊戲，所需的 GPU 效能約為 QHD 144 Hz 的 3 倍。預算為中階 GPU 的使用者，通常從高更新率 QHD 螢幕獲得的遊戲表現，會優於以降低幀率運行的 4K 螢幕。LG 27GP950-B 的 4K 是針對擁有足以支援它的 GPU 的使用者。",
+        "BenQ PD2705UA 的 4K 60 Hz 是為專業創意使用情境而設計——準確的色彩呈現、用於相片與影片工作的銳利度，以及 AQCOLOR 出廠校色——而非遊戲。在 60 Hz 下，遊戲中的動態清晰度無法與 144+ Hz 的遊戲螢幕相比。出廠校色與 USB-C 96W 供電才是其差異化特色，而非遊戲表現。"
       ]
     },
     {
-      "heading": "Where each fits",
+      "heading": "各款的定位",
       "paragraphs": [
-        "4K gaming at 160 Hz with HDMI 2.1 for current-gen consoles and PC: LG 27GP950-B. The combination of 4K, Nano IPS, 160 Hz OC, HDMI 2.1, and G-Sync Compatible covers both PC and PS5 gaming in one panel. DisplayHDR 600 with local dimming provides meaningful HDR performance. At $650, it occupies the premium gaming monitor segment — the GPU investment to drive it at 4K 160 Hz is substantial. IPS glow is present in dark room conditions, as with all IPS panels. The overclock from 144 Hz to 160 Hz is supported but at base it is a 144 Hz panel.",
-        "High-refresh gaming at QHD resolution under $300: Dell S2722DGM. At $250 for a 165 Hz QHD curved VA panel, the S2722DGM is the value pick in this comparison. The VA panel's higher contrast ratio (approximately 3,000:1) produces better dark scenes than IPS alternatives at this price. The curved 1500R curvature reduces the perceived edge distortion at 27 inches. Limitations: VA dark-level smearing is real at lower gray levels — fast dark objects against dark backgrounds can show trailing. No HDR400 provides meaningful HDR improvement. Response time with overdrive enabled helps but does not fully eliminate VA smearing.",
-        "Maximum gaming performance with QD-OLED panel technology: ASUS ROG Swift PG27AQDM. The 0.03 ms GtG response time, 240 Hz refresh, and infinite OLED contrast ratio are technical performance specifications that no IPS or VA panel in this comparison matches. QD-OLED also covers a wider color gamut than standard panels, making game environments with vibrant color look more saturated. The burn-in risk from static UI elements is real over years of use — ASUS includes a pixel refresh routine, and modern OLED panels have improved burn-in resistance over first-generation OLEDs. At $800 it is the most expensive gaming monitor here. QHD resolution at this price point is reasonable for 240 Hz gaming GPU demands.",
-        "Japanese domestic IPS QHD gaming with built-in USB hub and local support: iiyama G-Master GB2770QSU. iiyama has strong retail presence in Japan through Yodobashi Camera, Bic Camera, and Joshin, with Japanese-language warranty support and domestic returns handling. The 165 Hz IPS QHD specification is competitive in the mid-range gaming monitor segment. The built-in USB hub adds desk utility for connecting peripherals through the monitor. At approximately ¥45,000, it competes in a well-supplied QHD gaming monitor segment — the Japan market availability and domestic support are the differentiating factors.",
-        "Professional creative work with factory-calibrated 4K and USB-C laptop integration: BenQ PD2705UA. AQCOLOR factory calibration means accurate color out of the box without post-purchase calibration hardware. USB-C 96W power delivery charges most laptops through the single monitor cable. Thunderbolt 4 daisy-chaining allows connecting additional peripherals through the monitor hub. At 60 Hz, gaming performance is not competitive — this is a productivity and creative monitor that can run games, not a gaming monitor that can run creative applications. The $479 price is appropriate for the professional calibration and USB-C capability."
+        "4K 160 Hz 並具 HDMI 2.1，用於當代主機與 PC：LG 27GP950-B。4K、Nano IPS、160 Hz 超頻、HDMI 2.1 與 G-Sync Compatible 的組合，能以一台面板涵蓋 PC 與 PS5 遊戲。具區域調光的 DisplayHDR 600 提供有意義的 HDR 表現。在 $650 的價位，它屬於頂級遊戲螢幕區間——驅動它在 4K 160 Hz 運行所需的 GPU 投資相當可觀。如同所有 IPS 面板，在暗房環境下會出現 IPS 泛光。從 144 Hz 超頻至 160 Hz 雖受支援，但其基礎仍是 144 Hz 面板。",
+        "$300 以下、QHD 解析度的高更新率遊戲：Dell S2722DGM。以 $250 提供 165 Hz QHD 曲面 VA 面板，S2722DGM 是本次比較中的高 CP 值之選。VA 面板較高的對比度（約 3,000:1）在此價位帶比 IPS 替代品產生更佳的暗場景。1500R 曲率降低了 27 吋的邊緣視覺扭曲感。限制：VA 暗部拖影在較低灰階確實存在——在暗背景中的快速暗色物體可能出現殘影。DisplayHDR 400 並未提供有意義的 HDR 提升。啟用 overdrive 的反應時間有所幫助，但無法完全消除 VA 拖影。",
+        "以 QD-OLED 面板技術追求最高遊戲表現：ASUS ROG Swift PG27AQDM。0.03 ms 的 GtG 反應、240 Hz 更新與無限的 OLED 對比度，是本次比較中任何 IPS 或 VA 面板都無法企及的技術效能規格。QD-OLED 也比標準面板涵蓋更廣的色域，讓色彩鮮豔的遊戲環境看起來更飽和。多年重度使用下靜態 UI 元素造成的烙印風險確實存在——ASUS 內建像素更新程序，且現代 OLED 面板相較於第一代 OLED 已改善抗烙印能力。$800 是這裡最昂貴的遊戲螢幕。在此價位採用 QHD 解析度，對 240 Hz 遊戲的 GPU 需求而言是合理的。",
+        "日本國內款 IPS QHD 遊戲，內建 USB hub 與在地支援：iiyama G-Master GB2770QSU。iiyama 透過 Yodobashi Camera、Bic Camera 與 Joshin 在日本擁有強大的零售據點，提供日語保固支援與國內退貨處理。165 Hz IPS QHD 規格在中階遊戲螢幕區間具有競爭力。內建 USB hub 增添桌面實用性，可透過螢幕連接周邊裝置。在約 ¥45,000 的價位，它在供應充足的 QHD 遊戲螢幕區間競爭——日本市場供應與在地支援才是其差異化因素。",
+        "具出廠校色 4K 與 USB-C 筆電整合的專業創意工作：BenQ PD2705UA。AQCOLOR 出廠校色意味著開箱即享準確色彩，無需購買後的校色硬體。USB-C 96W 供電能透過單一螢幕線材為大多數筆電充電。Thunderbolt 4 菊鏈可透過螢幕 hub 連接額外周邊。在 60 Hz 下，遊戲表現不具競爭力——這是一台能運行遊戲的生產力與創意螢幕，而非能運行創意應用的遊戲螢幕。$479 的價格對其專業校色與 USB-C 能力而言是合適的。"
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Should I prioritize refresh rate or resolution for gaming?",
-      "a": "It depends on your GPU and the games you play. For competitive multiplayer (FPS, fighting games, battle royale) where reaction time matters, high refresh rate (165+ Hz) at QHD is generally more valuable than 4K at lower frame rates — you see more frames per second which reduces motion blur and visual lag. For single-player story games, open-world exploration, and any content where image quality matters more than frame rate, 4K resolution produces a noticeably sharper image. The practical constraint is GPU budget: running 4K at 144+ Hz requires a significantly more expensive GPU than QHD at the same refresh rate. If your GPU budget is mid-range, start with a high-refresh QHD monitor and upgrade later when GPU performance improves."
+      "q": "遊戲時我應該優先考慮更新率還是解析度？",
+      "a": "這取決於你的 GPU 與你玩的遊戲。對於反應時間重要的競技多人遊戲（FPS、格鬥、大逃殺），QHD 下的高更新率（165+ Hz）通常比低幀率的 4K 更有價值——你每秒看到更多畫面，能減少動態模糊與視覺延遲。對於單人劇情遊戲、開放世界探索，以及任何畫質比幀率更重要的內容，4K 解析度能產生明顯更銳利的畫面。實際的限制在於 GPU 預算：以 144+ Hz 運行 4K 所需的 GPU，遠比相同更新率的 QHD 昂貴。若你的 GPU 預算是中階，先從高更新率 QHD 螢幕入手，待 GPU 效能提升後再升級。"
     },
     {
-      "q": "Is OLED burn-in a real risk for gaming monitors?",
-      "a": "OLED burn-in is a real phenomenon where static UI elements — health bars, minimaps, crosshairs, taskbars — that display in the same position for thousands of hours can cause permanent retention in the OLED pixels. Modern QD-OLED panels have improved burn-in resistance versus first-generation OLEDs, and ASUS includes automatic pixel refresh routines in the ROG Swift PG27AQDM firmware. The risk is most significant for users who play games with large static HUD elements at maximum brightness for 8+ hours daily over multiple years. Casual and moderate gaming (2–4 hours daily) with varied content represents significantly lower burn-in risk. If burn-in risk is unacceptable to you regardless of mitigation, an IPS panel like the LG 27GP950-B eliminates the concern entirely."
+      "q": "OLED 烙印對遊戲螢幕是真實的風險嗎？",
+      "a": "OLED 烙印是真實現象，當靜態 UI 元素——血條、小地圖、準星、工作列——在相同位置顯示數千小時後，可能在 OLED 像素中造成永久殘留。現代 QD-OLED 面板相較於第一代 OLED 已改善抗烙印能力，且 ASUS 在 ROG Swift PG27AQDM 韌體中內建自動像素更新程序。對於每天以最高亮度玩具有大型靜態 HUD 元素遊戲 8 小時以上、且持續多年的使用者，風險最為顯著。內容多變的休閒與中度遊戲（每天 2–4 小時）的烙印風險明顯較低。若不論任何緩解措施你都無法接受烙印風險，那麼像 LG 27GP950-B 這樣的 IPS 面板能完全消除此疑慮。"
     },
     {
-      "q": "What is the difference between G-Sync and FreeSync for gaming?",
-      "a": "G-Sync (NVIDIA proprietary) and FreeSync (AMD open standard) are both adaptive sync technologies that synchronize the monitor's refresh rate with the GPU's frame output rate, eliminating screen tearing without the input lag penalty of V-Sync. G-Sync requires NVIDIA GPU hardware and NVIDIA's proprietary module inside the monitor. FreeSync works with AMD GPUs. G-Sync Compatible is NVIDIA's certification for monitors with FreeSync support that NVIDIA has verified to work correctly with NVIDIA GPUs — the LG 27GP950-B, Dell S2722DGM, and ASUS ROG Swift PG27AQDM all carry G-Sync Compatible certification alongside AMD FreeSync Premium Pro, meaning they work with both NVIDIA and AMD GPUs with adaptive sync enabled. There is no practical gaming performance difference between G-Sync Compatible and full G-Sync in typical use."
+      "q": "遊戲時 G-Sync 與 FreeSync 有何差異？",
+      "a": "G-Sync（NVIDIA 專有）與 FreeSync（AMD 開放標準）都是自適應同步技術，可將螢幕更新率與 GPU 的畫面輸出率同步，在不產生 V-Sync 輸入延遲代價的情況下消除畫面撕裂。G-Sync 需要 NVIDIA GPU 硬體與螢幕內的 NVIDIA 專有模組。FreeSync 與 AMD GPU 搭配運作。G-Sync Compatible 是 NVIDIA 對具 FreeSync 支援、且經 NVIDIA 驗證能與 NVIDIA GPU 正確運作之螢幕的認證——LG 27GP950-B、Dell S2722DGM 與 ASUS ROG Swift PG27AQDM 都同時具備 G-Sync Compatible 認證與 AMD FreeSync Premium Pro，意味著它們在啟用自適應同步下能與 NVIDIA 及 AMD GPU 搭配運作。在一般使用中，G-Sync Compatible 與完整 G-Sync 之間並無實際的遊戲表現差異。"
     }
   ],
   "products": [
     {
       "offerId": "monitor-lg-27gp950-b",
-      "badge": "Best 4K Gaming",
+      "badge": "最佳 4K 遊戲",
       "grade": "A",
-      "review": "The LG 27GP950-B combines 4K Nano IPS with 160 Hz overclock, HDMI 2.1, DisplayHDR 600 with local dimming, and G-Sync Compatible plus FreeSync Premium Pro support in one panel — covering both PC and PS5 gaming at 4K without adapter limitations. Nano IPS extends the color gamut toward DCI-P3 for more vibrant game environments. The HDMI 2.1 ports allow 4K 120 Hz from PS5 natively. At $650 it targets premium GPU setups where the hardware investment to run 4K at 160 fps is already made. IPS glow is visible in dark rooms as with all IPS panels. The native 144 Hz overclocked to 160 Hz is stable but should be verified for individual units.",
+      "review": "LG 27GP950-B 將 4K Nano IPS 與 160 Hz 超頻、HDMI 2.1、具區域調光的 DisplayHDR 600，以及 G-Sync Compatible 加 FreeSync Premium Pro 支援集於一台面板——能在 4K 下同時涵蓋 PC 與 PS5 遊戲且不受轉接限制。Nano IPS 將色域拓展至接近 DCI-P3，使遊戲環境更鮮豔。HDMI 2.1 連接埠讓 PS5 能原生輸出 4K 120 Hz。在 $650 的價位，它針對已具備足以在 4K 跑出 160 fps 硬體投資的頂級 GPU 平台。如同所有 IPS 面板，在暗房中可見 IPS 泛光。從原生 144 Hz 超頻至 160 Hz 表現穩定，但仍應就個別機台驗證。",
       "pros": [
-        "4K Nano IPS at 160 Hz OC with HDMI 2.1 for PS5 and PC",
-        "DisplayHDR 600 with local dimming for meaningful HDR",
-        "G-Sync Compatible + FreeSync Premium Pro dual support",
-        "Wide DCI-P3 color coverage for vibrant game environments"
+        "4K Nano IPS、160 Hz 超頻，並具 HDMI 2.1 支援 PS5 與 PC",
+        "具區域調光的 DisplayHDR 600，帶來有意義的 HDR",
+        "同時支援 G-Sync Compatible 與 FreeSync Premium Pro",
+        "廣 DCI-P3 色彩涵蓋，讓遊戲環境更鮮豔"
       ],
       "cons": [
-        "Requires high-end GPU to use 4K 160 Hz meaningfully",
-        "IPS glow visible in dark room conditions",
-        "160 Hz is an overclock — base is 144 Hz"
+        "需要高階 GPU 才能有意義地發揮 4K 160 Hz",
+        "暗房環境下可見 IPS 泛光",
+        "160 Hz 為超頻——基礎為 144 Hz"
       ],
       "specs": {
-        "面板類型": "Nano IPS",
-        "刷新率": "160 Hz (OC) / 144 Hz native",
-        "響應速度": "1 ms GtG",
-        "解析度": "3840×2160 (4K UHD)",
+        "Panel type": "Nano IPS",
+        "Refresh rate": "160 Hz（超頻）/ 144 Hz 原生",
+        "Response time": "1 ms GtG",
+        "Resolution": "3840×2160（4K UHD）",
         "HDR": "DisplayHDR 600",
-        "介面": "HDMI 2.1 × 2, DP 1.4 × 1"
+        "Connectivity": "HDMI 2.1 × 2、DP 1.4 × 1"
       },
       "scores": {
-        "影像品質": 4.6,
-        "遊戲效能": 4.5,
+        "Image quality": 4.6,
+        "Gaming performance": 4.5,
         "HDR quality": 4.2,
-        "價值": 4.0,
-        "製造品質": 4.4
+        "Value": 4.0,
+        "Build quality": 4.4
       }
     },
     {
       "offerId": "monitor-dell-s2722dgm",
-      "badge": "Best Value",
+      "badge": "最佳 CP 值",
       "grade": "A-",
-      "review": "The Dell S2722DGM offers 165 Hz QHD VA curved gaming at $250 — the strongest value gaming monitor in this comparison. The VA panel's approximately 3,000:1 contrast ratio produces notably deeper blacks in dark scenes compared to IPS panels at this price point. The 1500R curvature reduces perceived edge distortion at 27 inches. AMD FreeSync Premium support eliminates tearing on AMD GPUs; G-Sync compatibility for NVIDIA requires testing on individual units. The honest limitations: VA dark-level smearing causes trailing on fast dark objects against dark backgrounds — visible during rapid camera movement in dark game environments. The HDMI 2.0 connectivity limits console gaming to 1080p 120 Hz or QHD 60 Hz; 4K and high-refresh console output require HDMI 2.1. DisplayHDR 400 compliance does not represent meaningful HDR performance improvement over SDR.",
+      "review": "Dell S2722DGM 以 $250 提供 165 Hz QHD VA 曲面遊戲體驗——是本次比較中 CP 值最強的遊戲螢幕。VA 面板約 3,000:1 的對比度，相較於此價位帶的 IPS 面板，在暗場景中產生明顯更深的純黑。1500R 曲率降低了 27 吋的邊緣視覺扭曲感。AMD FreeSync Premium 支援可消除 AMD GPU 上的撕裂；NVIDIA 的 G-Sync 相容性需就個別機台測試。誠實的限制：VA 暗部拖影會在暗背景中的快速暗色物體上造成殘影——在暗色遊戲環境中快速移動鏡頭時可見。HDMI 2.0 連接性將主機遊戲限制在 1080p 120 Hz 或 QHD 60 Hz；4K 與高更新率主機輸出需要 HDMI 2.1。符合 DisplayHDR 400 並不代表相較於 SDR 有有意義的 HDR 效能提升。",
       "pros": [
-        "$250 for 165 Hz QHD curved VA — strongest value in this comparison",
-        "VA panel ~3,000:1 contrast ratio for deeper dark scenes",
-        "1500R curvature reduces edge distortion at 27 inches",
-        "AMD FreeSync Premium for tear-free gaming on AMD GPUs"
+        "$250 即享 165 Hz QHD 曲面 VA——本次比較中 CP 值最強",
+        "VA 面板約 3,000:1 對比度，帶來更深的暗場景",
+        "1500R 曲率降低 27 吋的邊緣視覺扭曲",
+        "AMD FreeSync Premium 在 AMD GPU 上無撕裂遊戲"
       ],
       "cons": [
-        "VA dark-level smearing visible in fast dark scenes",
-        "HDMI 2.0 only — limits console high-refresh output",
-        "DisplayHDR 400 provides no meaningful HDR improvement"
+        "VA 暗部拖影在快速暗場景中可見",
+        "僅 HDMI 2.0——限制主機高更新率輸出",
+        "DisplayHDR 400 未提供有意義的 HDR 提升"
       ],
       "specs": {
-        "面板類型": "VA (curved 1500R)",
-        "刷新率": "165 Hz",
-        "響應速度": "1 ms MPRT",
-        "解析度": "2560×1440 (QHD)",
+        "Panel type": "VA（曲面 1500R）",
+        "Refresh rate": "165 Hz",
+        "Response time": "1 ms MPRT",
+        "Resolution": "2560×1440（QHD）",
         "HDR": "DisplayHDR 400",
-        "介面": "HDMI 2.0 × 2, DP 1.2 × 1"
+        "Connectivity": "HDMI 2.0 × 2、DP 1.2 × 1"
       },
       "scores": {
-        "影像品質": 4.1,
-        "遊戲效能": 4.3,
+        "Image quality": 4.1,
+        "Gaming performance": 4.3,
         "HDR quality": 3.0,
-        "價值": 4.9,
-        "製造品質": 4.0
+        "Value": 4.9,
+        "Build quality": 4.0
       }
     },
     {
       "offerId": "monitor-asus-rog-swift-pg27aqdm",
-      "badge": "Best Gaming Performance",
+      "badge": "最佳遊戲表現",
       "grade": "A+",
-      "review": "The ASUS ROG Swift PG27AQDM's QD-OLED panel delivers gaming performance specifications that IPS and VA panels cannot approach — 0.03 ms GtG response, 240 Hz refresh, infinite contrast ratio, and DisplayHDR True Black 400 certification. In fast-motion gaming, the near-zero pixel response eliminates motion blur artifacts entirely. OLED's per-pixel lighting means dark scenes show detail that backlit panels cannot resolve at any brightness setting. QD-OLED's expanded color gamut makes game environments with saturated colors more vibrant. The burn-in risk is real for static HUD elements over years of heavy use — mitigated by ASUS's built-in pixel refresh routines and improved panel technology versus first-gen OLEDs. At $800, this is premium pricing for a QHD panel in an era where QHD 4K alternatives exist. Users for whom maximum gaming performance is the primary requirement will find the specification justified.",
+      "review": "ASUS ROG Swift PG27AQDM 的 QD-OLED 面板帶來 IPS 與 VA 面板無法接近的遊戲表現規格——0.03 ms GtG 反應、240 Hz 更新、無限對比度，以及 DisplayHDR True Black 400 認證。在高速動態遊戲中，趨近於零的像素反應完全消除了動態模糊殘影。OLED 的逐像素發光意味著暗場景能呈現背光面板在任何亮度設定下都無法解析的細節。QD-OLED 拓展的色域讓具飽和色彩的遊戲環境更鮮豔。多年重度使用下靜態 HUD 元素造成的烙印風險確實存在——透過 ASUS 內建的像素更新程序與相較於第一代 OLED 改善的面板技術加以緩解。在 $800 的價位，對於 QHD 4K 替代品已存在的時代而言，這是 QHD 面板的高價定位。對於以最高遊戲表現為首要需求的使用者，會認為此規格物有所值。",
       "pros": [
-        "0.03 ms GtG response time — panel physics limit, not marketing",
-        "240 Hz refresh with infinite OLED contrast ratio",
-        "DisplayHDR True Black 400 for per-pixel black control",
-        "QD-OLED color gamut exceeds standard IPS by significant margin"
+        "0.03 ms GtG 反應時間——面板物理極限，非行銷話術",
+        "240 Hz 更新並具無限 OLED 對比度",
+        "DisplayHDR True Black 400，逐像素黑階控制",
+        "QD-OLED 色域大幅超越標準 IPS"
       ],
       "cons": [
-        "Burn-in risk from static UI elements over years of daily use",
-        "$800 is premium pricing for a QHD resolution panel",
-        "Lower SDR peak brightness than high-brightness IPS monitors"
+        "多年每日使用下靜態 UI 元素的烙印風險",
+        "$800 對 QHD 解析度面板而言屬高價定位",
+        "SDR 峰值亮度低於高亮度 IPS 螢幕"
       ],
       "specs": {
-        "面板類型": "QD-OLED",
-        "刷新率": "240 Hz",
-        "響應速度": "0.03 ms GtG",
-        "解析度": "2560×1440 (QHD)",
+        "Panel type": "QD-OLED",
+        "Refresh rate": "240 Hz",
+        "Response time": "0.03 ms GtG",
+        "Resolution": "2560×1440（QHD）",
         "HDR": "DisplayHDR True Black 400",
-        "介面": "HDMI 2.0 × 2, DP 1.4 × 1"
+        "Connectivity": "HDMI 2.0 × 2、DP 1.4 × 1"
       },
       "scores": {
-        "影像品質": 4.9,
-        "遊戲效能": 5.0,
+        "Image quality": 4.9,
+        "Gaming performance": 5.0,
         "HDR quality": 4.8,
-        "價值": 3.8,
-        "製造品質": 4.6
+        "Value": 3.8,
+        "Build quality": 4.6
       }
     },
     {
       "offerId": "monitor-iiyama-g-master-jp",
-      "badge": "Best Japan Domestic",
+      "badge": "最佳日本國內款",
       "grade": "B+",
-      "review": "The iiyama G-Master GB2770QSU offers competitive IPS QHD gaming specifications — 165 Hz, 0.5 ms MPRT, DisplayHDR 400, AMD FreeSync Premium — with strong Japanese retail distribution and domestic warranty support. The built-in USB hub adds desk utility. iiyama's Japanese retail presence in Yodobashi Camera, Bic Camera, and Joshin means in-person inspection before purchase is practical in major cities. At approximately ¥45,000, it competes in the well-supplied QHD gaming monitor segment — the domestic availability and local support are the meaningful differentiators versus importing a foreign-market equivalent. The DisplayHDR 400 certification reflects the entry-level HDR tier without meaningful HDR imaging improvement. HDMI 2.0 connectivity limits console high-refresh output similar to the Dell S2722DGM.",
+      "review": "iiyama G-Master GB2770QSU 提供具競爭力的 IPS QHD 遊戲規格——165 Hz、0.5 ms MPRT、DisplayHDR 400、AMD FreeSync Premium——並具備強大的日本零售通路與國內保固支援。內建 USB hub 增添桌面實用性。iiyama 在 Yodobashi Camera、Bic Camera 與 Joshin 的日本零售據點，意味著在主要城市可於購買前實機檢視。在約 ¥45,000 的價位，它在供應充足的 QHD 遊戲螢幕區間競爭——相較於進口國外市場的同等產品，國內供應與在地支援才是有意義的差異化因素。DisplayHDR 400 認證反映入門級 HDR 等級，無有意義的 HDR 影像提升。HDMI 2.0 連接性如同 Dell S2722DGM 般限制主機高更新率輸出。",
       "pros": [
-        "165 Hz IPS QHD with Japanese domestic retail and warranty support",
-        "Built-in USB hub for peripheral connectivity through the monitor",
-        "Available at major Japanese retailers for in-store evaluation",
-        "0.5 ms MPRT response time for smooth gaming motion"
+        "165 Hz IPS QHD，具日本國內零售與保固支援",
+        "內建 USB hub，可透過螢幕連接周邊",
+        "可於日本主要零售商實機評估",
+        "0.5 ms MPRT 反應時間，遊戲動態流暢"
       ],
       "cons": [
-        "HDMI 2.0 limits console high-refresh output",
-        "DisplayHDR 400 provides no meaningful HDR improvement",
-        "Limited international community reviews and comparisons"
+        "HDMI 2.0 限制主機高更新率輸出",
+        "DisplayHDR 400 未提供有意義的 HDR 提升",
+        "國際社群評測與比較有限"
       ],
       "specs": {
-        "面板類型": "IPS",
-        "刷新率": "165 Hz",
-        "響應速度": "0.5 ms MPRT",
-        "解析度": "2560×1440 (QHD)",
+        "Panel type": "IPS",
+        "Refresh rate": "165 Hz",
+        "Response time": "0.5 ms MPRT",
+        "Resolution": "2560×1440（QHD）",
         "HDR": "DisplayHDR 400",
-        "介面": "HDMI 2.0 × 2, DP 1.2 × 1"
+        "Connectivity": "HDMI 2.0 × 2、DP 1.2 × 1"
       },
       "scores": {
-        "影像品質": 4.2,
-        "遊戲效能": 4.2,
+        "Image quality": 4.2,
+        "Gaming performance": 4.2,
         "HDR quality": 3.0,
-        "價值": 4.1,
-        "製造品質": 4.3
+        "Value": 4.1,
+        "Build quality": 4.3
       }
     },
     {
       "offerId": "monitor-benq-pd2705ua",
-      "badge": "Best for Creative Work",
+      "badge": "最適合創意工作",
       "grade": "A-",
-      "review": "The BenQ PD2705UA is a professional creative monitor first and a gaming monitor second. AQCOLOR factory calibration means accurate color rendition out of the box — Delta E less than 2, 100% sRGB coverage verified at the factory. The 4K IPS panel at 27 inches produces sharp detail for photo editing, video color grading, and design work. USB-C 96W power delivery charges most laptops through a single cable, and Thunderbolt 4 support allows daisy-chaining additional peripherals. At 60 Hz, gaming motion clarity is not competitive with any other monitor in this comparison — in fast-paced games, 60 Hz introduces visible motion blur that 144+ Hz panels eliminate. The DisplayHDR 400 certification is appropriate for color accuracy work but not HDR gaming. At $479, the value proposition is professional accuracy and laptop integration, not gaming.",
+      "review": "BenQ PD2705UA 首先是一台專業創意螢幕，其次才是遊戲螢幕。AQCOLOR 出廠校色意味著開箱即享準確色彩呈現——Delta E 小於 2、出廠驗證 100% sRGB 涵蓋。27 吋的 4K IPS 面板能為相片編修、影片調色與設計工作產生銳利細節。USB-C 96W 供電可透過單一線材為大多數筆電充電，Thunderbolt 4 支援則允許菊鏈連接額外周邊。在 60 Hz 下，遊戲動態清晰度無法與本次比較中任何其他螢幕相比——在快節奏遊戲中，60 Hz 會帶來 144+ Hz 面板所能消除的可見動態模糊。DisplayHDR 400 認證對色彩準確度工作是合適的，但不適合 HDR 遊戲。在 $479 的價位，其價值主張是專業準確度與筆電整合，而非遊戲。",
       "pros": [
-        "AQCOLOR factory calibration (Delta E < 2, 100% sRGB verified)",
-        "USB-C 96W power delivery for single-cable laptop connections",
-        "Thunderbolt 4 daisy-chaining for peripheral hub use",
-        "4K IPS sharpness for detailed creative and editing work"
+        "AQCOLOR 出廠校色（Delta E < 2、驗證 100% sRGB）",
+        "USB-C 96W 供電，單一線材連接筆電",
+        "Thunderbolt 4 菊鏈，可作周邊 hub 使用",
+        "4K IPS 銳利度，適合細緻的創意與編修工作"
       ],
       "cons": [
-        "60 Hz is not competitive for gaming — visible motion blur vs 144+ Hz",
-        "No high-refresh rate option for gaming use cases"
+        "60 Hz 對遊戲不具競爭力——相較 144+ Hz 有可見動態模糊",
+        "無高更新率選項，不適合遊戲使用情境"
       ],
       "specs": {
-        "面板類型": "IPS",
-        "刷新率": "60 Hz",
-        "響應速度": "5 ms GtG",
-        "解析度": "3840×2160 (4K UHD)",
+        "Panel type": "IPS",
+        "Refresh rate": "60 Hz",
+        "Response time": "5 ms GtG",
+        "Resolution": "3840×2160（4K UHD）",
         "HDR": "DisplayHDR 400",
-        "介面": "USB-C 96W, Thunderbolt 4, HDMI 2.0 × 2"
+        "Connectivity": "USB-C 96W、Thunderbolt 4、HDMI 2.0 × 2"
       },
       "scores": {
-        "影像品質": 4.7,
-        "遊戲效能": 3.2,
+        "Image quality": 4.7,
+        "Gaming performance": 3.2,
         "HDR quality": 3.5,
-        "價值": 4.2,
-        "製造品質": 4.5
+        "Value": 4.2,
+        "Build quality": 4.5
       }
     }
   ],
   "offerNotes": {
-    "monitor-lg-27gp950-b": "160 Hz is an overclock mode — base native refresh is 144 Hz. Verify overclock stability for individual units on receipt.",
-    "monitor-dell-s2722dgm": "VA dark-level smearing is a panel technology characteristic, not a defect — present on all VA panels to varying degrees.",
-    "monitor-asus-rog-swift-pg27aqdm": "Enable ASUS's built-in pixel refresh routine to mitigate OLED burn-in risk from static HUD elements.",
-    "monitor-iiyama-g-master-jp": "Japan domestic market model — warranty service through iiyama Japan with Japanese language support.",
-    "monitor-benq-pd2705ua": "Factory calibration report included in box — verify Delta E values match specification on receipt. Not recommended as a primary gaming monitor."
+    "monitor-lg-27gp950-b": "160 Hz 為超頻模式——基礎原生更新率為 144 Hz。收到後請就個別機台驗證超頻穩定度。",
+    "monitor-dell-s2722dgm": "VA 暗部拖影是面板技術特性，並非瑕疵——所有 VA 面板都會出現不同程度的此現象。",
+    "monitor-asus-rog-swift-pg27aqdm": "啟用 ASUS 內建的像素更新程序，以緩解靜態 HUD 元素造成的 OLED 烙印風險。",
+    "monitor-iiyama-g-master-jp": "日本國內市場款——保固服務由 iiyama Japan 提供，並具日語支援。",
+    "monitor-benq-pd2705ua": "盒內附出廠校色報告——收到後請驗證 Delta E 值是否符合規格。不建議作為主要遊戲螢幕。"
   },
-  "pinDescription": "最佳顯示器2026：LG 27GP950-B (160Hz 4K) vs Dell S2722DGM (USD 25,000) — 面板類型對比"
+  "pinDescription": "2026 年 5 款螢幕評比——LG 27GP950-B 4K Nano IPS vs Dell S2722DGM VA 曲面高 CP 值 vs ASUS PG27AQDM QD-OLED vs iiyama 日本國內款 vs BenQ PD2705UA 創意校色。面板類型真相、更新率現實、HDR 等級事實。"
 }

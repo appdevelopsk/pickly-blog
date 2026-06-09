@@ -14,17 +14,7 @@
   "home": {
     "heading": "Reviews honestos, sem enrolação.",
     "subheading": "Comparativos e guias de compra escolhidos por gente, escritos para gente.",
-    "empty": "Os artigos estão sendo preparados. Volte em breve.",
-    "trustTitle": "Como escolhemos os produtos",
-    "trustIntro": "Cada análise da Pickly segue o mesmo processo de quatro etapas. Sem placements patrocinados, sem notas infladas.",
-    "trustTestedTitle": "Testado, não apenas listado",
-    "trustTestedText": "Testamos produtos manualmente ou analisamos dados verificados de usuários — nunca copiamos de páginas do fabricante.",
-    "trustCriteriaTitle": "Comparados em critérios reais",
-    "trustCriteriaText": "Cada categoria usa 4–6 critérios específicos (ex.: tênis de basquete: tração, amortecimento, suporte do tornozelo, ajuste, custo-benefício).",
-    "trustDisclosureTitle": "Links de afiliado transparentes",
-    "trustDisclosureText": "Ganhamos comissão quando você compra pelos nossos links. As classificações refletem desempenho — não taxas de comissão.",
-    "trustUpdatedTitle": "Atualizado regularmente",
-    "trustUpdatedText": "As classificações são revistas quando produtos são atualizados ou concorrentes mais fortes surgem. A data do artigo mostra a última revisão."
+    "empty": "Os artigos estão sendo preparados. Volte em breve."
   },
   "category": {
     "tech": "Tecnologia",
@@ -208,5 +198,29 @@
   "author": {
     "name": "Editorial Pickly",
     "bio": "Adoramos testar gadgets e serviços úteis. Compartilhamos avaliações honestas baseadas em experiência real de produtos que genuinamente gostamos."
+  },
+  "crossPromo": {
+    "title": "Nossa rede",
+    "toolify": "Calculadoras e conversores online grátis",
+    "pickly": "Comparações e avaliações de produtos",
+    "fxea": "EAs de trading MT5 grátis com backtest",
+    "financeCta": {
+      "title": "Tem interesse em trading FX automatizado?",
+      "cta": "Ver EAs MT5 grátis com backtest"
+    },
+    "calcCta": {
+      "title": "Calcule seus números primeiro",
+      "cta": "Calculadoras de juros compostos e finanças grátis"
+    }
+  },
+  "newsletter": {
+    "title": "Assine a newsletter",
+    "desc": "Novidades e lançamentos ocasionais, sem spam.",
+    "placeholder": "E-mail",
+    "button": "Assinar",
+    "sending": "Enviando…",
+    "success": "Obrigado por assinar!",
+    "error": "Não foi possível assinar. Tente novamente mais tarde.",
+    "privacy": "Respeitamos sua privacidade. Cancele quando quiser."
   }
 }

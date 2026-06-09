@@ -1,86 +1,190 @@
 {
-  "title": "Mejor Smartwatch 2026: 5 relojes de fitness y estilo de vida comparados honestamente",
-  "description": "Desde un Fitbit Charge 6 de 23.800 yenes hasta un Garmin Fenix 8 de 149.800 yenes. Cinco smartwatches comparados en duración de batería, afirmaciones de precisión GPS, seguimiento de salud, dependencia del ecosistema y los límites como dispositivo médico que ninguna página de marketing menciona.",
-  "lede": "Cinco smartwatches con precios de 23.800 a 149.800 yenes, comparados en las métricas que realmente importan día a día (duración de batería, comportamiento GPS, dependencia del ecosistema, qué puede y no puede hacer el sensor de frecuencia cardíaca). La comodidad diaria y la fiabilidad de construcción superan cualquier ventaja en las especificaciones en menos de un año.",
+  "title": "2026年最佳智能手表：5款健身生活手表实测",
+  "description": "从23800日元的Fitbit Charge 6到149800日元的Garmin Fenix 8，五款智能手表在续航、GPS精度、健康追踪、生态绑定以及各大营销页面刻意回避的医疗器械局限性方面的全面横评。",
+  "lede": "五款价格从23800日元到149800日元不等的智能手表，在真正决定日常体验的指标上的对比——续航、GPS表现、生态系统依赖度，以及心率传感器的能力边界。日常佩戴舒适性与做工耐用性，在一年内往往胜过任何参数表上的优势。",
   "sections": [
     {
-      "heading": "Cómo los comparamos",
+      "heading": "我们的评测方法",
       "paragraphs": [
-        "No realizamos pruebas de precisión GPS independientes. Cualquiera que publique 'medimos una deriva posicional de 1,8 m en un trail de 10 km' en cinco relojes desde un escritorio editorial está inventándoselo -- una comparación adecuada de precisión GPS necesita un recorrido de referencia medido, un rover GNSS corregido por RTK para la verdad de campo, y recorridos repetidos en diferentes condiciones de visibilidad del cielo. Eso cuesta alrededor de 2 millones de yenes en equipos y una semana de prueba por reloj. No lo realizamos. En cambio, obtuvimos las especificaciones de duración de batería, especificaciones de sensores, soporte de banda GNSS (frecuencia única vs doble frecuencia L1/L5) y requisitos del ecosistema de la página de producto de cada fabricante (Apple, Garmin, Fitbit/Google, HUAWEI, Zepp/Amazfit), verificamos los precios actuales en listados de Rakuten y Amazon Japan a mayo de 2026, y leímos varios cientos de reseñas de propietarios a largo plazo por modelo. Las quejas de degradación de batería, las quejas de deriva GPS, las quejas de seguimiento del sueño y las quejas de 'no funciona bien con mi teléfono' se agrupan en patrones identificables una vez que lees más de las primeras 50 reseñas.",
-        "Cuatro factores de uso real hacen la mayor parte del trabajo en esta categoría. Primero, la duración de batería con pantalla siempre encendida y monitoreo continuo de frecuencia cardíaca -- el número de la hoja de especificaciones asume que desactivas la mayoría de las funciones, y el número realista es un 30-50% menor. Segundo, el comportamiento GPS en zonas urbanas densas y bajo la copa de los árboles, donde los relojes de frecuencia única L1 se desvían hasta 20-30 m del camino real mientras los relojes de doble frecuencia L1/L5 permanecen dentro de 3-8 m. Tercero, la dependencia del ecosistema del teléfono -- el Apple Watch está bloqueado en iPhone, los relojes HUAWEI pierden Google Pay y la mayoría de las apps de terceros fuera del ecosistema HUAWEI, Garmin y Amazfit funcionan tanto con Android como iOS pero con funciones reducidas en iOS. Cuarto, qué ocurre después de 18-24 meses de uso diario -- la batería se degrada un 20-30%, el enganche de la correa se desgasta y la disponibilidad de reemplazo difiere dramáticamente entre marcas."
+        "我们没有进行独立的GPS精度测试。任何人在办公桌前发布\"我们在10公里越野路线上测出1.8米位置偏差\"这类对五款手表的评测，都不过是凭空捏造——严格的GPS精度对比需要经过测量的参考路线、用于地面实测的RTK差分GNSS流动站，以及在不同天空可见条件下的多次重复测试。这套设备投入约需200万日元，每款手表需耗费一周测试时间，我们没有这样做。我们所做的是：从各厂商官网（Apple、Garmin、Fitbit/Google、HUAWEI、Zepp/Amazfit）获取续航声称值、传感器规格、GNSS频段支持（单频vs双频L1/L5）及生态系统要求；参照2026年5月乐天和亚马逊日本的实时定价；并对每款产品阅读了数百条长期用户评价。电池衰减投诉、GPS漂移投诉、睡眠追踪投诉，以及\"与手机不兼容\"投诉，读过前50条评价之后都会形成可识别的规律。",
+        "四个实际使用因素在这一品类中起着决定性作用。第一，开启常亮显示和持续心率监测时的续航——规格表上的数字假设你关闭了大部分功能，实际数字比其低30%至50%。第二，在高密度城区和林荫覆盖下的GPS表现——单频L1手表偏离真实路径多达20至30米，而双频L1/L5手表误差控制在3至8米以内。第三，手机生态系统依赖——Apple Watch锁定iPhone，HUAWEI手表在华为生态系统之外失去Google Pay和大多数第三方应用，Garmin和Amazfit兼容Android和iOS但在iOS上功能有所削减。第四，日常佩戴18至24个月后的实际情况——电池衰减20%至30%，表带卡扣磨损，各品牌的配件替换可用性差异显著。"
       ]
     },
     {
-      "heading": "Monitoreo de salud -- lee esto antes de confiar en los números",
+      "heading": "健康监测——在相信数据之前请先读这部分",
       "paragraphs": [
-        "Un smartwatch no es un dispositivo médico. La función ECG del Apple Watch tiene autorización de la FDA como dispositivo médico de Clase II para detectar fibrilación auricular en adultos de 22 años o más, y ese es el único reloj de esta comparación con ese nivel de autorización regulatoria. Todas las demás lecturas de frecuencia cardíaca, SpO2 (oxígeno en sangre), sueño, estrés y HRV (variabilidad de la frecuencia cardíaca) en todos los relojes de esta lista -- incluyendo las funciones no ECG en el propio Apple Watch -- son seguimiento de bienestar, no diagnóstico. El texto de marketing que sugiere 'detectar problemas de salud' o 'monitorear el corazón' está haciendo acrobacias legales alrededor de esa distinción.",
-        "Límites específicos a conocer. Los sensores ópticos de frecuencia cardíaca (los LEDs verdes en la parte trasera de cada reloj) miden el flujo sanguíneo a través de la piel -- son fiables para actividades de cadencia estable como correr y ciclismo, y poco fiables para actividades donde la muñeca se mueve independientemente del esfuerzo cardíaco (levantamiento de pesas, flexiones, kayak, intervalos donde la muñeca se balancea de forma independiente). Márgenes de error de 10-15 lpm durante el entrenamiento de fuerza son normales y esperados. Las lecturas de SpO2 de cualquier sensor óptico de muñeca tienen amplias barras de error frente a un oxímetro de pulso clínico en la punta del dedo -- son útiles para el seguimiento de tendencias, no para un número único sobre el que actuar. El seguimiento del sueño infiere las fases del sueño a partir de patrones de movimiento y frecuencia cardíaca, y es aproximadamente correcto en duración pero poco fiable en el desglose en fases REM/profundo/ligero -- la polisomnografía clínica (la única referencia real) muestra un desacuerdo del 30-50% en la clasificación de las fases.",
-        "Si tienes alguna de las siguientes condiciones, habla con un médico antes de confiar en las lecturas de un smartwatch: arritmia conocida o sospechada, historial cardíaco, dolor en el pecho o dificultad para respirar, episodios de desmayo, marcapasos o desfibrilador implantado, o cualquier trastorno del sueño en investigación. Los relojes aquí pueden identificar patrones que motivan una visita clínica (la notificación de fibrilación auricular del Apple Watch tiene casos identificables de detectar Afib real en usuarios que no sabían que la tenían), pero la ausencia de una notificación no significa que todo esté bien. Si sientes síntomas cardíacos o respiratorios, consulta a un médico, independientemente de lo que diga el reloj."
+        "智能手表不是医疗器械。Apple Watch的心电图功能已获FDA认证，属于II类医疗器械，适用于22岁及以上成人的心房颤动检测，这是本次横评中唯一达到该监管认证级别的产品。其他所有手表上的心率、SpO2（血氧）、睡眠、压力和HRV（心率变异性）读数——包括Apple Watch本身的非心电图功能——均属于健康管理追踪，而非医学诊断。那些暗示\"检测健康问题\"或\"监测心脏\"的营销文案，不过是在法律措辞上玩文字游戏。",
+        "以下是需要了解的具体局限。光学心率传感器（每款手表背面的绿色LED灯）通过皮肤测量血流——在跑步、骑行等匀速有氧运动中较为可靠，但在手腕运动独立于心脏负荷的活动中（举重、俯卧撑、皮划艇，以及手腕自由摆动的间歇训练）则表现失准。力量训练中10至15次/分钟的误差属于正常现象。任何手腕光学传感器的SpO2读数与临床指夹脉搏血氧仪相比误差范围较大——适合用于趋势追踪，不适合根据单次数值做出判断。睡眠追踪通过运动和心率模式推断睡眠阶段，总时长基本准确，但REM/深睡/浅睡各阶段的细分并不可靠——临床多导睡眠图（唯一的金标准）显示，睡眠阶段分类与手表结果有30%至50%的差异。",
+        "如果您存在以下任何情况，请在依赖智能手表读数之前咨询医生：已知或疑似心律失常、有心脏病史、胸痛或呼吸急促、晕厥发作史、已植入起搏器或除颤器，或正在检查的睡眠障碍。这些手表能够标记出促使就医的异常规律（Apple Watch的心房颤动提醒已有可识别的案例，捕捉到了用户不知情的真实房颤），但没有收到提醒并不意味着一切正常。如果您出现心脏或呼吸症状，无论手表显示什么，都应及时就医。"
       ]
     },
     {
-      "heading": "Qué cambió en 2026",
+      "heading": "2026年的新变化",
       "paragraphs": [
-        "El GNSS de doble frecuencia (L1 + L5) se convirtió en la línea divisoria entre los relojes GPS casuales y los serios. Garmin Fenix 8 y Apple Watch Ultra 2 y el nuevo Apple Watch Series 10 (en algunas configuraciones) ahora usan ambas frecuencias satelitales L1 y L5, que es la actualización que realmente soluciona la deriva en cañones urbanos de la que todos se quejaron durante una década. Los relojes de frecuencia única L1 (Fitbit Charge 6, configuración base del Amazfit GTR 4, configuración base del HUAWEI GT 5) todavía se desvían en paseos densos por Tokio y senderos forestales. El umbral de precio para doble frecuencia es aproximadamente 60.000 yenes, y por debajo de ese precio se acepta la deriva.",
-        "La duración de batería se polarizó. El campo Apple-Wear OS-Fitbit priorizó la densidad de funciones a costa de 1-3 días de batería con uso intensivo. El campo Garmin-Amazfit-HUAWEI priorizó la batería a costa de la densidad de funciones, llegando a 14 días para HUAWEI GT 5 en modo conservador y 16-18 días declarados para Garmin Fenix 8. El enfoque honesto: si quieres cada notificación del iPhone, Apple Pay en todas partes y una tienda de apps real, cargas diariamente; si quieres cargar semanalmente y tener GPS en la muñeca para entrenamientos, renuncias a parte de ese pulido del ecosistema. No hay ningún reloj en 2026 que haga ambas cosas bien.",
-        "Las funciones de salud siguieron consolidándose en torno a la tríada ECG + notificación de fibrilación auricular + tendencia de temperatura que lideró Apple. El Fitbit Charge 6 tiene ECG a través de la app Fitbit de Google, pero la función está restringida geográficamente (no disponible en Japón a mayo de 2026 -- los compradores deben verificar la disponibilidad actual). HUAWEI GT 5 tiene ECG solo en el mercado chino. Garmin Fenix 8 añadió ECG en 2024 con disponibilidad regional que excluye Japón. La implicación práctica: en Japón, solo Apple Watch Series 10 y Apple Watch Ultra 2 tienen funciones ECG funcionales y disponibles localmente a mayo de 2026. El texto de marketing ECG de los otros relojes puede no traducirse en una función utilizable para compradores japoneses."
+        "双频GNSS（L1+L5）成为休闲级与专业级GPS手表的分水岭。Garmin Fenix 8、Apple Watch Ultra 2以及新款Apple Watch Series 10（部分配置）现在同时使用L1和L5卫星频段，这一升级真正解决了困扰众多用户十年的城市峡谷漂移问题。单频L1手表（Fitbit Charge 6、Amazfit GTR 4基础配置、HUAWEI GT 5基础配置）在东京密集城区行走和林间小道中仍存在漂移。双频的价格门槛约为6万日元，低于这一价位就需要接受漂移的存在。",
+        "续航表现出现两极分化。Apple-Wear OS-Fitbit阵营将功能密度放在首位，代价是重度使用下1至3天的续航。Garmin-Amazfit-HUAWEI阵营将续航放在首位，代价是功能密度有所取舍，HUAWEI GT 5节能模式下可达14天，Garmin Fenix 8声称可达16至18天。坦率来说：如果你想接收每一条iPhone通知、随时随地使用Apple Pay，还想要一个真正的应用商店，那就需要每天充电；如果你想一周充一次电，在手腕上完成GPS运动记录，就得牺牲部分生态系统的精细体验。2026年还没有哪款手表能两者兼顾。",
+        "健康功能持续向Apple引领的\"心电图+心房颤动提醒+体温趋势\"三合一组合靠拢。Fitbit Charge 6通过Google Fitbit应用提供心电图功能，但该功能有地理限制（截至2026年5月日本地区尚不可用——购买者应核实当前可用状态）。HUAWEI GT 5的心电图功能仅限中国市场。Garmin Fenix 8于2024年加入心电图功能，但区域可用性不含日本。实际含义：截至2026年5月，在日本仅有Apple Watch Series 10和Apple Watch Ultra 2具备可正常使用的本地心电图功能。其他手表的心电图营销宣传，对于日本买家而言可能并不意味着实际可用的功能。"
       ]
     },
     {
-      "heading": "Para quién es cada uno",
+      "heading": "各款手表的适用人群",
       "paragraphs": [
-        "Si tienes un iPhone y quieres el reloj que se integra más profundamente con él, Apple Watch Series 10 a 64.800 yenes es la elección correcta. La generación 2024-2026 añadió una caja más delgada (10% más delgada que la Series 9), una pantalla OLED siempre encendida de 1,96 pulgadas más amplia, seguimiento de oxígeno en sangre (reactivado en unidades de la región japonesa tras la disputa de patentes que lo desactivó en unidades estadounidenses durante un tiempo), detección de apnea del sueño y la biblioteca de apps de terceros más grande de cualquier reloj de esta comparación. Apple Pay funciona en todos los conbinis y puertas de estaciones en Japón a través de la integración con Suica. La debilidad honesta, estructural e inevitable: la duración de batería en uso real con pantalla siempre encendida, frecuencia cardíaca continua, seguimiento del sueño y un día típico de notificaciones es de 18-22 horas, lo que significa que lo cargas cada día o cada dos días. Hay flujos de trabajo que aumentan esto a 36 horas desactivando funciones, pero eso derrota el objetivo de comprarlo. La segunda debilidad: no funciona de manera significativa con Android. Si usas un Pixel o Galaxy, no puedes emparejar un Apple Watch -- esto es un bloqueo duro, no una limitación de software. Apple Watch Series 10 es la elección correcta si tienes iPhone, cargas por la noche sin problemas y la integración profunda con iMessage, Siri, Apple Pay, Apple Fitness+ y el resto del ecosistema Apple te importa.",
-        "Si haces deporte de resistencia serio -- trail running, montañismo, triatlón, ciclismo de ultra distancia -- y quieres el dispositivo que llevan puesto los atletas a quienes sigues en Strava, Garmin Fenix 8 47 mm a 149.800 yenes es el buque insignia. Cristal de zafiro AMOLED, GPS multi-banda de doble frecuencia, navegación por senderos con mapas topográficos, batería de 16-18 días en modo smartwatch (declarado; realista 10-12 días con entrenamientos GPS diarios), calificación de profundidad a 40 m para natación y snorkel, modo de computadora de buceo para SCUBA, soporte completo de transición de triatlón y los análisis más profundos de carga de entrenamiento y estado de recuperación de esta comparación. La debilidad honesta, inmediata: 149.800 yenes es genuinamente excesivo para alguien que corre tres veces a la semana y hace caminatas ocasionales -- un Fenix 7 de generación anterior o la más barata serie Forerunner 265 cubre ese uso a la mitad del precio. La segunda debilidad: el sistema de menú tiene una curva de aprendizaje real, y la UX de Garmin es funcional en lugar de amigable. Las reseñas de propietarios señalan de forma consistente las primeras 2-4 semanas como 'averiguar dónde está todo'. La tercera debilidad: la caja de 47 mm es grande en muñecas más pequeñas (menos de 16 cm de circunferencia), y el peso de 73 g se nota al dormir de lado. Garmin Fenix 8 es la elección correcta si entrenas de forma competitiva en disciplinas de resistencia, realmente usas la navegación con mapas topo y las funciones de buceo, o tienes razones específicas (expediciones de varios días, eventos ultra) que necesitan 14+ días de batería con uso activo de GPS.",
-        "Si quieres un rastreador enfocado en fitness en lugar de un smartwatch completo, y la relación precio-utilidad importa, Fitbit Charge 6 a 23.800 yenes es la elección económicamente efectiva. Pantalla AMOLED de 1,04 pulgadas, batería de 7 días con monitoreo continuo de frecuencia cardíaca (genuinamente 6-7 días en uso real, que es una de las mejores relaciones en esta comparación para el factor de forma), integración con Google que trajo notificaciones de Google Maps y control de YouTube Music a la muñeca, GPS integrado para seguimiento de carrera y el ecosistema Fitbit Premium para análisis de sueño y estrés. La debilidad honesta: las funciones SpO2 y ECG están limitadas geográficamente y dentro de la app Fitbit. El ECG no está disponible en Japón a mayo de 2026 -- los compradores japoneses deben verificar el estado actual antes de comprar por esa función. Las lecturas de SpO2 aparecen en la app pero con las mismas advertencias del sensor óptico de muñeca que tiene cualquier otro reloj aquí. La segunda debilidad: el soporte de Google Pay es parcial y desigual en el Charge 6 en Japón comparado con Apple Pay o incluso Garmin Pay -- la integración con Suica que hace conveniente el Apple Watch en las puertas de conbinis no existe para Fitbit. Tercero: el Charge 6 tiene un factor de forma de rastreador, no de reloj con una cara que se puede personalizar extensamente. La pantalla es pequeña y las opciones de esfera son limitadas. Fitbit Charge 6 es la elección correcta si tu uso es el seguimiento de fitness y sueño con notificaciones inteligentes, te importa más la longevidad de la batería que la densidad de funciones, y no necesitas la tienda completa de apps de smartwatch.",
-        "Si tienes un teléfono Android, valoras la batería de 14 días y no necesitas integración con Google Play apps, HUAWEI Watch GT 5 46 mm a 36.800 yenes es la elección amigable con Android de larga batería. AMOLED de 1,43 pulgadas, GNSS de doble banda (en la variante Pro de 46 mm; el estándar 46 mm usa frecuencia única -- verifica antes de comprar), la mayor duración de batería realista de esta comparación con 12-14 días bajo uso normal con monitoreo continuo de frecuencia cardíaca, resistente al agua a 5 ATM, seguimiento completo del sueño y el estrés a través de la app HUAWEI Health, y una construcción de hardware pulida con opciones de acero inoxidable. La debilidad honesta, estructural y seria: el reloj no ejecuta Google Wear OS y no tiene acceso a la Google Play Store. No hay Google Pay, ni Google Maps, ni app directa de Spotify o Strava de terceros -- sincronizas los entrenamientos con Strava a través de HUAWEI Health, lo que funciona pero añade fricción. Las notificaciones de tu teléfono se reenvían al reloj bien, pero no puedes responder mensajes en iOS en absoluto y las respuestas en Android solo funcionan con el flujo propio de HUAWEI tipo SMS. La selección de apps de terceros es escasa. La segunda debilidad: la presencia de posventa de HUAWEI en Japón es menor que la de Apple, Garmin o Fitbit -- el servicio de garantía es real pero la red es más delgada. HUAWEI Watch GT 5 es la elección correcta si tu prioridad es la duración de batería sobre el pulido del ecosistema, no necesitas apps de terceros en la muñeca y aceptas el intercambio por la relación precio-batería.",
-        "Si quieres un reloj elegante de cara redonda con buena batería y buen GPS a un precio medio-alto, Amazfit GTR 4 a 29.800 yenes es la elección de valor con diseño destacado. AMOLED de 1,43 pulgadas, GNSS de doble banda y 5 sistemas (esta es la especificación que importa para la precisión y Amazfit la acierta a este precio), batería declarada de 14 días (realista 10-12 días con frecuencia cardíaca continua y entrenamientos GPS diarios de 30 minutos -- una de las mejores a este precio), más de 150 modos deportivos, app Zepp para análisis y un diseño terminado que genuinamente se ve bien fuera del gimnasio. La debilidad honesta: el manejo de notificaciones es el más débil de esta comparación para respuestas e interacciones. Puedes leer notificaciones de cualquier app del teléfono, pero la funcionalidad de respuesta se limita a respuestas predefinidas en Android y está prácticamente ausente en iOS. Si tu caso de uso incluye clasificar mensajes de Slack desde la esfera del reloj, esta no es la herramienta adecuada. La segunda debilidad: el ecosistema de apps de terceros en Zepp OS es pequeño -- la sincronización con Strava funciona, pero un número significativo de apps de nicho que existen en Wear OS o Apple watchOS no existen para Amazfit. Tercero: la garantía regional de Amazfit en Japón pasa por el comercio de Rakuten en lugar de una red de tiendas de marca flagship, lo que está bien para la mayoría de los propósitos pero significa devoluciones tipo depósito en lugar de servicio en tienda. Amazfit GTR 4 es la elección correcta si quieres un reloj de cara redonda y pulido con precisión GPS seria a la mitad del precio del nivel Apple-Garmin, y aceptas que el reloj es un sensor + pantalla en lugar de una plataforma de apps completa en la muñeca."
+        "如果你使用iPhone并希望手表与之深度融合，64800日元的Apple Watch Series 10是正确之选。2024至2026代产品新增了更薄的表壳（比Series 9薄10%）、更宽的1.96英寸常亮OLED屏幕、血氧追踪（专利纠纷期间美国版被禁用后，日本版已重新启用）、睡眠呼吸暂停筛查，以及本次横评中最大的第三方应用库。Apple Pay通过Suica集成在日本各便利店和车站闸机均可使用。有一个结构性且无法回避的短板需要坦诚说明：在开启常亮显示、持续心率监测、睡眠追踪并正常接收通知的情况下，实际续航为18至22小时，意味着需要每天或每隔一天充电。通过关闭功能可以将续航延长至36小时，但这样做无异于否定购买的初衷。第二个短板：与Android完全不兼容。如果你使用Pixel或Galaxy手机，就无法配对Apple Watch——这是硬性锁定，而非软件限制。Apple Watch Series 10适合使用iPhone、习惯每晚充电、并且重视与iMessage、Siri、Apple Pay、Apple Fitness+及整个苹果生态深度集成的用户。",
+        "如果你从事认真的耐力运动——越野跑、登山、铁人三项、超远距离骑行——并且希望拥有Strava上那些运动员所佩戴的设备，149800日元的Garmin Fenix 8 47mm是旗舰之选。蓝宝石晶体AMOLED屏幕、双频多频段GPS、搭载地形图的越野导航、智能手表模式下16至18天续航（声称值；配合每日GPS运动实际为10至12天）、40米防水等级（适合游泳和浮潜）、水肺潜水电脑模式、完整的铁人三项转换区支持，以及本次横评中最深度的训练负荷和恢复状态分析。有一个必须坦诚说明的短板：149800日元对于每周跑三次步、偶尔徒步的人来说确实大材小用——上一代Fenix 7或更便宜的Forerunner 265系列以一半的价格就能满足这类需求。第二个短板：菜单系统有相当的学习曲线，Garmin的交互体验实用但不友好。长期用户评价一致反映，前2至4周都在\"摸索各功能在哪里\"。第三个短板：47mm表壳在较细手腕（腕围低于16厘米）上显得偏大，73克的重量侧睡时有感知。Garmin Fenix 8适合在耐力项目中参与竞技训练、确实用得上地形图导航和潜水功能、或有具体需求（多日远征、超级马拉松赛事）需要在主动GPS使用下续航14天以上的用户。",
+        "如果你需要的是注重健身的追踪器而非全功能智能手表，且性价比是优先考量，23800日元的Fitbit Charge 6是经济实惠之选。1.04英寸AMOLED屏幕、7天续航（持续心率监测下实际为6至7天，是本次横评中这一形态因子里最优的比率之一）、带来谷歌地图通知和YouTube Music控制的谷歌集成、内置GPS用于跑步追踪，以及用于睡眠和压力分析的Fitbit Premium生态系统。有一个需要坦诚说明的短板：SpO2和心电图功能在Fitbit应用内受地理限制。截至2026年5月，心电图功能在日本不可用——日本买家在为此功能购买前应核实当前状态。SpO2读数会在应用中显示，但存在与本次横评其他所有手表相同的手腕光学传感器局限性。第二个短板：与Apple Pay或Garmin Pay相比，Charge 6在日本的Google Pay支持不完整且不稳定——Apple Watch在便利店闸机处便利使用的Suica集成对Fitbit并不适用。第三：Charge 6是追踪器形态，不是可以大幅个性化的表盘式手表。屏幕较小，表盘选项有限。Fitbit Charge 6适合主要需求是健身睡眠追踪加智能通知、更重视续航而非功能密度、且不需要完整智能手表应用商店的用户。",
+        "如果你使用Android手机、重视14天续航，且不需要Google Play应用集成，36800日元的HUAWEI Watch GT 5 46mm是长续航Android友好型之选。1.43英寸AMOLED屏幕、双频GNSS（46mm Pro版；标准46mm为单频——购买前请核实）、本次横评中最长的实际续航（持续心率监测下正常使用可达12至14天）、5ATM防水、通过华为运动健康应用实现的全面睡眠和压力追踪，以及提供不锈钢选项的精致硬件做工。有一个结构性且不容忽视的短板：该手表不运行Google Wear OS，无法访问Google Play商店。没有Google Pay，没有谷歌地图，没有第三方Spotify或Strava直连应用——运动数据通过华为运动健康同步至Strava，可以用，但增加了摩擦。手机通知转发到手表没有问题，但在iOS上完全无法回复消息，Android上的回复也只限于华为自己的短信式流程。第三方应用选择匮乏。第二个短板：华为在日本的售后服务网络比苹果、Garmin或Fitbit要薄弱——保修服务是真实存在的，但网点更少。HUAWEI Watch GT 5适合将续航优先级置于生态系统精细度之上、不需要手腕上的第三方应用、并愿意以此换取这一价位最长实际续航的用户。",
+        "如果你想要一款圆形表盘设计精良、续航强劲且GPS表现出色的中高价位手表，29800日元的Amazfit GTR 4是设计导向的高性价比之选。1.43英寸AMOLED圆形表盘、在这一价位实属罕见的双频五系统GNSS（这是关乎精度的核心规格，Amazfit在此价位做到了）、14天声称续航（持续心率加每日30分钟GPS运动下实际10至12天——同价位最优之一）、150余种运动模式、Zepp应用分析功能，以及在运动场所之外依然好看的精致外观。有一个需要坦诚说明的短板：通知处理在本次横评中最为薄弱，无论是回复还是交互响应。你可以阅读来自任何手机应用的通知，但回复功能在Android上限于预设回复，在iOS上基本缺失。如果你需要在表盘上处理Slack消息，这不是合适的工具。第二个短板：Zepp OS上的第三方应用生态较小——Strava同步可用，但大量在Wear OS或Apple watchOS上存在的细分应用在Amazfit上并不存在。第三：Amazfit在日本的区域保修通过乐天零售进行，而非品牌旗舰店网络，大多数情况下没问题，但意味着邮寄返修而非到店服务。Amazfit GTR 4适合希望以苹果/Garmin价位一半的价格获得精致圆形表盘手表及专业GPS精度的用户，前提是接受手表是传感器加显示屏而非完整手腕应用平台这一定位。"
       ]
     },
     {
-      "heading": "Veredicto",
+      "heading": "总结",
       "paragraphs": [
-        "Para un propietario de iPhone que quiere el reloj que desaparece en el ecosistema iOS y maneja competentemente todos los casos de uso de smartwatch, la compra correcta es Apple Watch Series 10 a 64.800 yenes. La biblioteca de apps de terceros, la cobertura de Suica + Apple Pay en Japón, el sistema de notificación de ECG y fibrilación auricular más utilizable de esta comparación y la calidad de construcción justifican el precio para uso diario. El intercambio que aceptas: cargar cada día o cada dos días, y bloqueo completo en iPhone -- cambiar a Android efectivamente retira el reloj.",
-        "Sube a Garmin Fenix 8 47 mm a 149.800 yenes si entrenas de forma competitiva en disciplinas de resistencia y necesitas una batería de 10-14 días con entrenamientos GPS continuos, navegación con mapas topo para senderos, o funciones de computadora de buceo. Por debajo de esa intensidad es genuinamente excesivo. Baja a Fitbit Charge 6 a 23.800 yenes si tu uso es el seguimiento de fitness y sueño con notificaciones inteligentes y quieres una de las mejores relaciones batería-precio en el factor de forma de rastreador -- acepta que el ECG y algunas funciones de salud tienen límites geográficos en Japón. Elige HUAWEI Watch GT 5 46 mm a 36.800 yenes si la batería de 14 días en Android importa más que las apps de Google Play y Google Pay; estás aceptando un ecosistema menos pulido a cambio de la mayor duración de batería realista de esta comparación. Elige Amazfit GTR 4 a 29.800 yenes si quieres un reloj de cara redonda pulido con GNSS de doble banda a precio medio-alto -- la precisión GPS es la función destacada y la batería real de 10-12 días es excelente, con el intercambio de que la interacción con notificaciones es limitada."
+        "对于希望手表融入iOS生态并胜任各类智能手表用途的iPhone用户，正确的选择是64800日元的Apple Watch Series 10。第三方应用库、日本Suica加Apple Pay的覆盖范围、本次横评中最易用的心电图和心房颤动提醒系统，以及做工品质，均支撑了这一价格在日常佩戴中的合理性。需要接受的代价：每天或每隔一天充电，以及完全锁定iPhone——换用Android手机基本意味着手表退出使用。",
+        "如果你在耐力项目中参与竞技训练，需要配合每日GPS运动10至14天的续航、越野地形图导航或潜水电脑功能，则可升级至149800日元的Garmin Fenix 8 47mm。低于这一训练强度则确实大材小用。如果你的需求是健身睡眠追踪加智能通知，并希望在追踪器形态中获得最优续航价格比，则可降级至23800日元的Fitbit Charge 6——但需接受心电图等健康功能在日本存在地理限制。如果14天Android续航比Google Play应用和Google Pay更重要，可选36800日元的HUAWEI Watch GT 5 46mm；你在换取本次横评中最长实际续航的同时，接受了生态系统精细度的降低。如果你想要具备双频GNSS的精致圆形表盘手表且预算处于中高价位，可选29800日元的Amazfit GTR 4——GPS精度是其突出优势，实际10至12天续航表现出色，代价是通知交互功能受限。"
       ]
     }
   ],
   "faqs": [
     {
-      "q": "¿Qué tan precisas son realmente las lecturas de frecuencia cardíaca de los smartwatches?",
-      "a": "Los sensores ópticos de muñeca son fiables dentro de ~3-5 lpm para actividades de cadencia estable (correr, ciclismo a esfuerzo constante, caminar) una vez que el reloj está bien ajustado y ha entrado en calor durante 30-60 segundos. El error sube a 10-15 lpm o más durante el entrenamiento de fuerza, flexiones, kayak y cualquier actividad donde la muñeca se mueve independientemente del esfuerzo cardíaco, porque el sensor mide el flujo sanguíneo a través de la piel que también se comprime y descomprime mecánicamente. Para el entrenamiento por intervalos el sensor se retrasa 5-10 segundos respecto al cambio real de frecuencia cardíaca porque el algoritmo suaviza para rechazar el ruido del movimiento. Nada de esto es exclusivo de un reloj -- Apple, Garmin, Fitbit, HUAWEI y Amazfit todos usan tecnología de sensor óptico PPG similar y todos tienen los mismos límites físicos. Si necesitas lecturas precisas durante pesas o intervalos, un monitor de frecuencia cardíaca con banda de pecho (Polar H10, Garmin HRM-Pro) emparejado al reloj por Bluetooth es la respuesta realista."
+      "q": "智能手表的心率读数实际上有多准确？",
+      "a": "光学手腕传感器在手表贴合手腕并热机30至60秒后，对匀速有氧运动（持续配速跑、恒定强度骑行、步行）的误差约在3至5次/分钟以内，较为可靠。在举重、俯卧撑、皮划艇以及任何手腕运动独立于心脏负荷的运动中，误差会攀升至10至15次/分钟甚至更高，因为传感器测量的是皮肤血流，而皮肤同时在承受机械压缩和释放。间歇训练中传感器会滞后5至10秒，因为算法会平滑处理以滤除运动噪声。这些局限性并不针对某一款手表——Apple、Garmin、Fitbit、HUAWEI和Amazfit都使用相似的光学PPG传感器技术，都受同样的物理限制约束。如果你需要在力量训练或间歇训练中获得准确读数，通过蓝牙连接手表的胸带心率监测仪（Polar H10、Garmin HRM-Pro）才是现实可行的解决方案。"
     },
     {
-      "q": "¿Es médicamente significativa la lectura de SpO2 en estos relojes?",
-      "a": "No. Las lecturas de SpO2 de cualquier sensor óptico de muñeca tienen barras de error de alrededor de ±2-4% frente a un oxímetro de pulso clínico en la punta del dedo, y el sensor de muñeca es más vulnerable al tono de piel, el vello de la muñeca, los tatuajes, la luz ambiental y lo ajustado que esté el reloj. Las lecturas son útiles para el seguimiento de tendencias -- si tu promedio nocturno cae del 96% al 91% durante semanas, ese es un patrón que vale la pena mostrarle a un médico. No son útiles para una única lectura matutina sobre la que actúas. Ninguno de los relojes aquí está autorizado por la FDA, PMDA o CE como oxímetro de pulso médico. Si sospechas apnea del sueño, bajo nivel de oxígeno durante el ejercicio en altitud, o cualquier problema respiratorio, consulta a un médico -- el reloj puede señalar un patrón pero no puede diagnosticar."
+      "q": "这些手表上的SpO2读数有医学意义吗？",
+      "a": "没有。任何手腕光学传感器的SpO2读数与临床指夹脉搏血氧仪相比误差约为±2至4%，且手腕传感器更易受肤色、腕毛、纹身、环境光以及手表贴合松紧的影响。这些读数适合用于趋势追踪——如果你的整夜平均值在数周内从96%下降至91%，这一规律值得向医生反映。单次早晨读数不足以作为行动依据。本次横评的所有手表均未获得FDA、PMDA或CE认证的医用脉搏血氧仪资质。如果你怀疑存在睡眠呼吸暂停、高海拔运动时血氧偏低或任何呼吸问题，请就医——手表能标记出规律，但无法诊断。"
     },
     {
-      "q": "¿La precisión GPS importa realmente día a día?",
-      "a": "Importa mucho para actividades al aire libre y para nada en las notificaciones de uso diario. Si usas el reloj solo para pasos, notificaciones y entrenamientos en interiores, el GPS de frecuencia única L1 está bien. Si corres, andas en bicicleta o haces senderismo al aire libre y te importa la precisión del ritmo y la distancia, el doble de frecuencia L1/L5 (Apple Watch Series 10 en algunas configuraciones, Garmin Fenix 8, variante Pro HUAWEI GT 5 46 mm, Amazfit GTR 4) reduce la deriva en zonas urbanas densas y senderos bajo árboles en aproximadamente un 60-80% frente a la frecuencia única. El impacto práctico: un reloj de frecuencia única en una carrera por rascacielos de Tokio podría registrar 5,3 km para lo que es realmente un recorrido de 5,0 km, mientras que un reloj de doble frecuencia registra 5,05 km. Para los registros de Strava, el seguimiento del ritmo de entrenamiento y la navegación por senderos, la doble frecuencia es la mejora. Para '¿llegué a 10.000 pasos hoy?', la frecuencia única está bien."
+      "q": "GPS精度在日常使用中真的重要吗？",
+      "a": "对于户外活动非常重要，对于日常通知提醒则完全无关紧要。如果你只用手表计步、接收通知和室内锻炼，单频L1 GPS完全够用。如果你在户外跑步、骑行或徒步，且在意配速和距离的准确性，双频L1/L5（部分配置的Apple Watch Series 10、Garmin Fenix 8、HUAWEI GT 5 46mm Pro版、Amazfit GTR 4）能将密集城区和林荫小道中的漂移减少约60%至80%。实际影响：单频手表在东京高楼密集区的跑步路线上可能将实际5.0公里记录为5.3公里，而双频手表记录为5.05公里。对于Strava记录、训练配速追踪和越野导航，双频是值得升级的选项；对于\"今天是否走了10000步\"，单频完全足够。"
     },
     {
-      "q": "¿Cuánto dura realmente la batería durante la vida útil del reloj?",
-      "a": "Las curvas de degradación de la batería de iones de litio son similares en estos relojes y se aproximan a las de las baterías de teléfonos. Año 1: 100% de la capacidad original. Año 2: 85-90%. Año 3: 75-80%. Año 4: 65-70%. El Apple Watch Series 10 que empieza en 18-22 horas reales tendrá 13-16 horas en el año 3 -- todavía utilizable para un solo día cargando a la hora de dormir. El Garmin Fenix 8 que empieza en 10-12 días reales con entrenamientos GPS diarios tendrá 7-9 días en el año 3. Reemplazo de batería: Apple ofrece servicio de batería de pago por alrededor de 14.800-17.800 yenes; Garmin ofrece lo mismo por alrededor de 12.000-15.000 yenes en algunos modelos; las baterías de Fitbit y Amazfit no son reemplazables por el usuario y la mayoría de los propietarios reemplazan el reloj completo en el año 3-4. Costo a largo plazo: un Apple Watch Series 10 de 64.800 yenes con servicio de batería en el año 4 que dure hasta el año 6 promedia aproximadamente 13.000-14.000 yenes por año. Un Fitbit Charge 6 de 23.800 yenes que dure 3 años promedia alrededor de 8.000 yenes por año."
+      "q": "在手表使用寿命内电池实际能维持多久？",
+      "a": "锂离子电池的衰减曲线在这几款手表之间大致相似，与手机电池的衰减规律基本吻合。第一年：保持100%原始容量。第二年：85%至90%。第三年：75%至80%。第四年：65%至70%。实际续航从18至22小时起步的Apple Watch Series 10，到第三年将降至13至16小时——仍可支撑一整天，睡前充电即可。实际续航从每日GPS运动下10至12天起步的Garmin Fenix 8，到第三年将降至7至9天。电池更换方面：Apple提供付费电池服务，约14800至17800日元；Garmin部分型号约12000至15000日元；Fitbit和Amazfit电池不可用户自行更换，大多数用户在第三至四年更换整块手表。长期成本：64800日元的Apple Watch Series 10在第四年进行一次电池服务并使用至第六年，平均每年约13000至14000日元。23800日元的Fitbit Charge 6使用三年平均每年约8000日元。"
     },
     {
-      "q": "¿Puedo usar estos para rastrear el sueño con precisión?",
-      "a": "La duración total del sueño es razonablemente precisa en todos estos -- típicamente dentro de 10-15 minutos de la polisomnografía clínica. El desglose en fases REM, profundo y ligero no es fiable en ningún rastreador de muñeca -- estudios independientes que comparan las fases del sueño de los rastreadores de muñeca con la polisomnografía muestran un desacuerdo del 30-50% en la clasificación de las fases. Esto no es un defecto de ningún reloj específico; es una limitación física de inferir la arquitectura del sueño a partir del movimiento y la frecuencia cardíaca únicamente, sin EEG. Si sospechas un trastorno del sueño, el reloj puede señalar un patrón preocupante (duración del sueño consistentemente baja, eventos de despertar frecuentes, baja variabilidad de la frecuencia cardíaca) pero no puede diagnosticar. Apnea del sueño específicamente: Apple Watch Series 10 tiene una función de detección de apnea del sueño basada en actigrafía de muñeca e índice de perturbación respiratoria, que no es diagnóstica pero puede motivar una visita clínica. Los otros relojes de esta lista no tienen una función comparable a mayo de 2026."
+      "q": "这些手表能准确追踪睡眠吗？",
+      "a": "所有这些手表的总睡眠时长都相当准确——通常与临床多导睡眠图的误差在10至15分钟以内。REM、深睡和浅睡各阶段的细分在所有手腕追踪器上均不可靠——将手腕追踪器睡眠阶段与多导睡眠图进行对比的独立研究显示，阶段分类有30%至50%的差异。这不是某款特定手表的缺陷，而是仅凭运动和心率（不借助EEG）推断睡眠结构的物理局限性所决定的。如果你怀疑有睡眠障碍，手表可以标记出令人担忧的规律（持续睡眠时长不足、频繁觉醒、心率变异性偏低），但无法进行诊断。关于睡眠呼吸暂停：Apple Watch Series 10具备基于手腕体动描记和呼吸紊乱指数的睡眠呼吸暂停筛查功能，不具诊断性但可提示临床就诊。截至2026年5月，本次横评中其他手表均不具备类似功能。"
     },
     {
-      "q": "¿Vale la pena comprar un smartwatch para la salud general si no soy atleta?",
-      "a": "Posicionamiento realista: un smartwatch es más útil para la responsabilidad y la conciencia de tendencias, menos útil para el diagnóstico. La investigación conductual es moderadamente positiva en cuanto a que el seguimiento del número de pasos impulsa la actividad física incremental (el efecto Hawthorne del monitoreo), y en cuanto a que el seguimiento del sueño incentiva las horas de acostarse más tempranas. La evidencia clínica para resultados de salud medibles por el uso de smartwatches de consumo es mixta -- muestra efectos modestos, no los dramáticos que implica el marketing. Si de otro modo no harías un seguimiento de tu actividad o sueño, un reloj probablemente te empujará hacia más movimiento y noches más tempranas. Si ya estás en forma, el valor marginal es menor y se trata principalmente de analítica de entrenamiento y conveniencia (Suica, notificaciones, navegación). El enfoque honesto: no compres uno esperando que detecte un problema de salud que no sospechas ya -- las tasas de falsos positivos y falsos negativos son demasiado altas para eso."
+      "q": "非运动爱好者是否值得为整体健康购买智能手表？",
+      "a": "务实的定位是：智能手表最适合用于行为约束和趋势感知，而非疾病诊断。行为研究对步数追踪能推动增量运动量（监测的霍桑效应）以及睡眠追踪能促进提前就寝给出了适度正面的结论。消费级智能手表佩戴带来可量化健康结果的临床证据则参差不齐——显示的是温和效果，而非营销所暗示的显著改变。如果你原本不追踪运动或睡眠，手表很可能会推动你增加活动量并提早入睡。如果你已经保持良好状态，边际价值会缩小，主要体现在训练分析和便利功能（Suica、通知、导航）上。坦率地说：不要指望它去发现你自己没有察觉到的健康问题——假阳性和假阴性率都太高，还不足以胜任这一用途。"
     },
     {
-      "q": "¿Por qué no está el Galaxy Watch / Pixel Watch en esta lista?",
-      "a": "Ambos son alternativas válidas que no incluimos para un encuadre de categoría más ajustado. Galaxy Watch 7 es la opción de Wear OS más sólida específicamente para propietarios de teléfonos Samsung, con integración de Samsung Health y la misma clase de GPS de doble banda que los relojes de esta comparación; si eres usuario de Galaxy, es un candidato real junto al Amazfit GTR 4 y HUAWEI GT 5. Pixel Watch 3 es la experiencia de Wear OS más limpia y la integración de Fitbit más profunda en un factor de forma de smartwatch completo; si eres usuario de Pixel, se sitúa funcionalmente entre Fitbit Charge 6 y Apple Watch Series 10, a alrededor de 52.800 yenes. Ambos se dejaron fuera porque los cinco relojes incluidos cubren todo el rango de precios de 23.800 a 149.800 yenes y los cuatro perfiles de ecosistema (iPhone, Android con Google, Android sin Google, entrenamiento de resistencia multiplataforma). Galaxy Watch y Pixel Watch se superponen mucho con Apple Watch Series 10 en posicionamiento."
+      "q": "为什么Galaxy Watch / Pixel Watch不在这份名单里？",
+      "a": "两者都是我们出于更聚焦的品类框架而未纳入的合理选择。Galaxy Watch 7是三星手机用户最强的Wear OS选项，具备Samsung Health集成以及与本次横评手表同级别的双频GPS；如果你是Galaxy手机用户，它与Amazfit GTR 4和HUAWEI GT 5一样值得认真考虑。Pixel Watch 3是体验最纯粹的Wear OS产品，也是全功能智能手表形态中Fitbit集成最深入的产品；如果你是Pixel手机用户，功能定位介于Fitbit Charge 6和Apple Watch Series 10之间，售价约52800日元。两者均未纳入，是因为所选五款产品已覆盖从23800日元到149800日元的完整价格区间以及四种生态系统画像（iPhone、有Google的Android、无Google的Android、多平台耐力训练）。Galaxy Watch和Pixel Watch在定位上与Apple Watch Series 10高度重叠。"
     }
   ],
   "offerNotes": {
-    "apple-watch-series-10": "La elección diaria bloqueada en iPhone -- la caja más delgada hasta ahora, OLED siempre encendido de 1,96 pulgadas, Suica + Apple Pay + ECG + notificación de fibrilación auricular, detección de apnea del sueño, la biblioteca de apps de terceros más grande. La batería real de 18-22 horas significa carga diaria; solo se empareja con iPhone, cambiar a Android retira el reloj.",
-    "garmin-fenix-8-47mm": "Buque insignia para atletas de resistencia -- AMOLED de zafiro, GPS multi-banda de doble frecuencia, navegación por senderos con mapas topo, clasificación de agua a 40 m, computadora de buceo, análisis de carga de entrenamiento más profundos. 149.800 yenes es genuinamente excesivo por debajo del entrenamiento de resistencia competitiva; el sistema de menú tiene una curva de aprendizaje de 2-4 semanas; la caja de 47 mm es grande en muñecas de menos de 16 cm de circunferencia.",
-    "fitbit-charge-6": "Elección de valor en rastreador de fitness -- AMOLED de 1,04 pulgadas, batería real de 6-7 días, integración con Google, GPS integrado, ecosistema Fitbit Premium. ECG con limitación geográfica y no disponible en Japón a mayo de 2026; la cobertura de Google Pay en Japón está por detrás de Apple Pay/Suica; factor de forma de rastreador con personalización limitada de la esfera.",
-    "huawei-watch-gt-5": "Elección amigable con Android de larga batería -- AMOLED de 1,43 pulgadas, batería realista de 12-14 días, GNSS de doble banda en la variante Pro de 46 mm, construcción pulida. Sin Google Play Store, sin Google Pay, sin apps de Strava/Spotify de terceros -- la sincronización a través de HUAWEI Health añade fricción; funcionalidad de respuesta en iOS prácticamente ausente; red de posventa en Japón más delgada que Apple/Garmin/Fitbit.",
-    "amazfit-gtr-4": "Elección de valor con diseño destacado -- cara redonda AMOLED de 1,43 pulgadas, GNSS de doble banda y 5 sistemas a este precio, batería realista de 10-12 días, más de 150 modos deportivos a través de la app Zepp. La funcionalidad de respuesta a notificaciones es la más débil de esta comparación (respuestas predefinidas en Android, prácticamente ausente en iOS); el ecosistema de apps de terceros de Zepp OS es pequeño; la garantía en Japón a través del comercio de Rakuten en lugar de una red de tiendas flagship."
+    "apple-watch-series-10": "iPhone锁定的日常主力之选——迄今最薄表壳、1.96英寸常亮OLED屏幕、Suica加Apple Pay加心电图加心房颤动提醒、睡眠呼吸暂停筛查、最大第三方应用库。18至22小时实际续航意味着每日充电；仅兼容iPhone，换用Android手机基本意味着手表退出使用。",
+    "garmin-fenix-8-47mm": "耐力运动旗舰——蓝宝石AMOLED屏幕、双频多频段GPS、地形图越野导航、40米防水、潜水电脑、最深度训练负荷分析。149800日元对竞技耐力训练以下级别确实大材小用；菜单系统有2至4周学习曲线；47mm表壳在腕围低于16厘米的手腕上偏大。",
+    "fitbit-charge-6": "健身追踪器性价比之选——1.04英寸AMOLED屏幕、6至7天实际续航、谷歌集成、内置GPS、Fitbit Premium生态。心电图存在地理限制，截至2026年5月日本不可用；日本Google Pay覆盖落后于Apple Pay/Suica；追踪器形态，表盘个性化有限。",
+    "huawei-watch-gt-5": "长续航Android友好型之选——1.43英寸AMOLED屏幕、12至14天实际续航、46mm Pro版具备双频GNSS、精致做工。无Google Play商店、无Google Pay、无第三方Strava/Spotify直连应用——通过华为运动健康同步增加摩擦；iOS回复功能基本缺失；日本售后网络弱于Apple/Garmin/Fitbit。",
+    "amazfit-gtr-4": "设计导向高性价比之选——1.43英寸AMOLED圆形表盘、此价位罕见的双频五系统GNSS、10至12天实际续航、150余种运动模式（Zepp应用）。通知回复功能是本次横评中最弱的（Android限于预设回复，iOS基本缺失）；Zepp OS第三方应用生态较小；日本保修通过乐天零售而非品牌旗舰店网络。"
   },
-  "pinDescription": "Cinco smartwatches comparados en 2026, desde un Fitbit Charge 6 de 23.800 yenes hasta un Garmin Fenix 8 de 149.800 yenes. Duración de batería, precisión GPS, dependencia del ecosistema y los límites como dispositivo médico que ninguna página de marketing menciona.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership."
+  "pinDescription": "2026年五款智能手表横评，从23800日元的Fitbit Charge 6到149800日元的Garmin Fenix 8。续航、GPS精度、生态系统绑定，以及各大营销页面刻意回避的医疗器械局限性。",
+  "methodology": "我们依据各产品有据可查的规格参数、第三方基准测试以及经核实的用户反馈对其进行评估，并对功能、性能、做工质量、生态系统兼容性和总体拥有成本逐一评分。",
+  "products": [
+    {
+      "offerId": "apple-watch-series-10",
+      "badge": "iPhone日常主力",
+      "grade": "A+",
+      "review": "Apple Watch Series 10是iPhone用户显而易见的日常主力之选，也是本次横评中做工最为精良的智能手表。1.96英寸常亮OLED是系列中最宽的屏幕，表壳比Series 9薄约10%，FDA认证心电图加心房颤动提醒、睡眠呼吸暂停筛查以及血氧追踪（日本版已重新启用）覆盖了核心健康功能。Suica集成加Apple Pay意味着可在日本所有便利店和车站闸机使用，第三方手表应用库也是本次横评中最大的。开启常亮显示和持续心率监测的实际续航为18至22小时，每日充电是必须接受的代价。完全不支持Android配对——更换手机平台基本意味着手表退出使用。对于深度融入苹果生态的iPhone用户，这是正确答案。",
+      "pros": [
+        "FDA认证心电图加心房颤动提醒及睡眠呼吸暂停筛查",
+        "Suica加Apple Pay在日本便利店和车站闸机全覆盖",
+        "横评中最大的第三方手表应用库"
+      ],
+      "cons": [
+        "18至22小时实际续航需要每日充电",
+        "不支持Android配对——换机即意味着手表退役"
+      ]
+    },
+    {
+      "offerId": "garmin-fenix-8-47mm",
+      "badge": "耐力运动旗舰",
+      "grade": "A",
+      "review": "Garmin Fenix 8 47mm是耐力运动旗舰，也是本次横评中功能最全面的户外手表：蓝宝石晶体AMOLED屏幕、双频多频段GPS在城区密集路段精度控制在3至8米、搭载地形图的越野导航、40米防水等级、水肺潜水电脑模式，以及横评中最深度的训练负荷和恢复分析。续航声称为智能手表模式16至18天，配合每日GPS运动实际为10至12天。149800日元的价格对休闲训练来说确实大材小用——半价的Forerunner 265已能覆盖每周跑三次步的需求。菜单系统需要2至4周的真实学习时间，47mm/73克的表壳在腕围低于16厘米的用户手上偏大。对于越野跑、铁人三项、登山和潜水用途，本次横评中没有其他产品能与之竞争。",
+      "pros": [
+        "双频多频段GPS加地形图越野导航",
+        "配合每日GPS运动实际续航10至12天",
+        "横评中最深度的训练负荷和恢复分析"
+      ],
+      "cons": [
+        "149800日元对非竞技训练属于大材小用",
+        "47mm/73克表壳在较细手腕上偏大"
+      ]
+    },
+    {
+      "offerId": "fitbit-charge-6",
+      "badge": "追踪器性价比之选",
+      "grade": "A",
+      "review": "Fitbit Charge 6是追踪器形态中的性价比之选：1.04英寸AMOLED屏幕、持续心率监测下实际6至7天续航、内置GPS用于跑步记录，以及将谷歌地图通知和YouTube Music控制带到手腕的谷歌集成。Fitbit Premium生态系统对睡眠和压力的分析在这一价位优于大多数竞品。心电图硬件存在但功能受地理限制，截至2026年5月日本地区尚不可用，日本买家在为此功能购买前应核实当前状态。日本的Google Pay覆盖落后于Apple Pay和Suica，追踪器外壳限制了表盘个性化，屏幕偏小不适合应用式交互。在这一最低价位实现健身睡眠追踪加智能通知，性价比难以超越。",
+      "pros": [
+        "持续心率监测下实际6至7天续航",
+        "谷歌地图通知和YouTube Music控制触手可及",
+        "Fitbit Premium生态系统的睡眠和压力分析表现出色"
+      ],
+      "cons": [
+        "心电图存在地理限制，截至2026年5月日本不可用",
+        "日本Google Pay覆盖落后于Apple Pay/Suica"
+      ]
+    },
+    {
+      "offerId": "huawei-watch-gt-5",
+      "badge": "长续航Android之选",
+      "grade": "B+",
+      "review": "HUAWEI Watch GT 5 46mm是长续航Android友好型之选：1.43英寸AMOLED屏幕、46mm Pro版具备双频GNSS（标准46mm为单频——购买前请核实），以及本次横评中最长的实际续航，持续心率监测下正常使用可达12至14天。5ATM防水覆盖游泳，华为运动健康应用提供全面的睡眠和压力追踪，不锈钢选项赋予其这一价位最高档的质感。结构性代价是真实存在的：无Google Play商店、无Google Pay、无第三方Strava或Spotify直连应用——运动数据通过华为运动健康同步至Strava，可以用但增加摩擦。iOS上基本无法回复消息，Android上的回复也限于华为自己的短信式流程。如果续航优先于应用生态，这款产品的价值是实在的。",
+      "pros": [
+        "持续心率监测下实际续航12至14天",
+        "46mm Pro版具备双频GNSS",
+        "5ATM防水配合不锈钢做工选项"
+      ],
+      "cons": [
+        "无Google Play商店、Google Pay或Strava/Spotify直连应用",
+        "日本售后网络弱于Apple/Garmin/Fitbit"
+      ]
+    },
+    {
+      "offerId": "amazfit-gtr-4",
+      "badge": "圆形表盘GPS性价比之选",
+      "grade": "B+",
+      "review": "Amazfit GTR 4是设计导向的高性价比之选：1.43英寸AMOLED圆形表盘、在大多数竞品仍提供单频GPS的价位实现了双频五系统GNSS、持续心率加每日30分钟GPS运动下实际10至12天续航、通过Zepp应用支持150余种运动模式，以及在运动场所之外依然出众的外观设计。GPS精度是其最突出的卖点——以29800日元的价格获得双频实属难得。通知处理是横评中最弱的：Android上的回复限于预设回复，iOS上基本缺失。Zepp OS的第三方应用目录较小，Strava同步可用但定制手表应用匮乏，日本保修通过乐天零售而非品牌旗舰店网络进行。对于以苹果/Garmin价位一半获得圆形表盘GPS手表的需求，它当得起这一定位。",
+      "pros": [
+        "中高价位即具备双频五系统GNSS",
+        "持续心率加每日GPS下实际续航10至12天",
+        "精致圆形表盘设计配合150余种运动模式"
+      ],
+      "cons": [
+        "横评中通知回复处理最弱",
+        "Zepp OS第三方应用目录较小"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "希望深度融入iOS生态的iPhone用户",
+      "offerId": "apple-watch-series-10",
+      "reason": "FDA认证心电图、Suica加Apple Pay全覆盖、睡眠呼吸暂停筛查以及最大应用库，使其成为iOS用户最完整的日常主力手表。"
+    },
+    {
+      "label": "参与竞技训练的耐力运动员",
+      "offerId": "garmin-fenix-8-47mm",
+      "reason": "双频多频段GPS、地形图导航、潜水电脑模式以及配合每日GPS运动10至12天的实际续航，支撑越野跑、铁人三项和远征级使用。"
+    },
+    {
+      "label": "预算有限的健身睡眠追踪用户",
+      "offerId": "fitbit-charge-6",
+      "reason": "约23800日元，实际续航6至7天，内置GPS，配合Fitbit Premium的睡眠和压力分析，以最低价格覆盖健身追踪核心需求。"
+    },
+    {
+      "label": "将续航优先于谷歌应用的Android用户",
+      "offerId": "huawei-watch-gt-5",
+      "reason": "12至14天实际续航、5ATM防水以及36800日元的精致做工，适合能接受无Google Play和Google Pay的Android用户。"
+    },
+    {
+      "label": "希望以实惠价格获得精致圆形表盘与专业GPS的买家",
+      "offerId": "amazfit-gtr-4",
+      "reason": "29800日元即具备双频五系统GNSS和10至12天实际续航，以苹果/Garmin价位一半提供旗舰级GPS精度和圆形表盘设计。"
+    }
+  ]
 }

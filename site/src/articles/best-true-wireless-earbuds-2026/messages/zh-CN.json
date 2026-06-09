@@ -1,246 +1,246 @@
 {
-  "title": "最佳真无线耳塞2026：5款ANC、编码、续航对比",
-  "description": "从$79 Anker Soundcore Liberty 4到$249 Apple AirPods Pro 2。五款真无线耳塞在ANC深度(dB)、LDAC和aptX编码支持、续航和通勤族、远程工作者和视频通话用户的通话质量上测试。",
-  "lede": "Five true wireless earbuds built for the daily grind of 2026 — commutes, open offices, and back-to-back video calls. ANC depth and codec honesty matter more than spec-sheet claim counts.",
-  "methodology": "Products evaluated on ANC attenuation depth (dB, low-frequency 60–300 Hz band), codec support (LDAC 990 kbps, aptX Adaptive, AAC), tested battery life with ANC on vs. manufacturer claims, call quality from real-world user reports, fit security during exercise, and total cost of ownership including tips replacement. Prices sourced from Amazon US and Amazon Japan as of May 2026.",
+  "title": "2026年最佳真无线耳机：降噪、编码与续航",
+  "description": "从$79的Anker Soundcore Liberty 4到$249的Apple AirPods Pro 2，五款真无线耳机在60–300 Hz降噪深度（dB）、LDAC与aptX编码支持、续航及通话质量上的对比测试，面向通勤族、远程办公者和视频会议用户。",
+  "lede": "五款为2026年日常使用场景而生的真无线耳机——通勤、开放式办公室、连续视频会议。降噪深度和编码诚意，远比规格表上罗列的功能数量更重要。",
+  "methodology": "评测维度：主动降噪衰减深度（dB，60–300 Hz低频段）、编解码器支持（LDAC 990 kbps、aptX Adaptive、AAC）、开启降噪后的实测续航与厂商宣称值对比、来自真实用户反馈的通话质量、运动时的佩戴稳固性，以及包含耳帽更换在内的总持有成本。价格来源于美国亚马逊和日本亚马逊，数据截至2026年5月。",
   "recommendedFor": [
     {
-      "label": "For Android commuters who want hi-res audio",
+      "label": "适合想要高解析音频的Android通勤族",
       "offerId": "tws-sony-wf-1000xm5",
-      "reason": "LDAC at 990 kbps plus class-leading ANC depth makes it the best Android earbud for train and plane noise."
+      "reason": "990 kbps的LDAC加上同类最强的降噪深度，使其成为应对火车和飞机噪音的最佳Android耳机。"
     },
     {
-      "label": "For iPhone users inside the Apple ecosystem",
+      "label": "适合深度使用Apple生态系统的iPhone用户",
       "offerId": "tws-apple-airpods-pro-2",
-      "reason": "H2 chip Adaptive Audio and seamless Apple device handoff justify the price for iPhone-first workflows."
+      "reason": "H2芯片的自适应音频和Apple设备间的无缝切换，对于iPhone优先的使用场景而言物有所值。"
     },
     {
-      "label": "For all-day call-heavy professionals",
+      "label": "适合全天高频通话的专业人士",
       "offerId": "tws-jabra-evolve2-buds",
-      "reason": "Three-mic beamforming with optional UC dongle covers certified open-office and call-center usage patterns."
+      "reason": "三麦克风波束成形技术配合可选UC加密狗，覆盖经认证的开放式办公室和呼叫中心使用场景。"
     },
     {
-      "label": "For Android users who want transparency without ecosystem lock-in",
+      "label": "适合不想绑定生态的Android透明模式用户",
       "offerId": "tws-nothing-ear-2",
-      "reason": "Dual-driver tuning with LDAC and transparent design appeals to Android users who value aesthetics and audio quality."
+      "reason": "双单元调音、LDAC支持与通透外观设计，吸引注重美学与音质的Android用户。"
     },
     {
-      "label": "For budget-conscious commuters who accept call quality compromises",
+      "label": "适合能接受通话质量折中的预算有限通勤族",
       "offerId": "tws-anker-soundcore-liberty-4",
-      "reason": "LDAC and spatial audio at $79 deliver 75% of Sony's ANC effectiveness for straightforward commute use."
+      "reason": "$79即可获得LDAC和空间音频，日常通勤降噪效果达到索尼的约75%。"
     }
   ],
   "sections": [
     {
-      "heading": "Why ANC depth in dB matters more than feature counts",
+      "heading": "为什么降噪深度（dB）比功能数量更重要",
       "paragraphs": [
-        "Every earbud brand advertises ANC. The meaningful number is how many decibels of low-frequency attenuation the hardware actually produces in the 60–300 Hz band where train rumble, plane cabin drone, and HVAC noise live. The Sony WF-1000XM5 achieves approximately 24–26 dB of effective attenuation in that band using a dual-microphone feed-forward plus feedback array with the company's QN2e chip. The Apple AirPods Pro 2 achieves roughly 28–30 dB using the H2 chip's Adaptive Transparency mode, which dynamically re-tunes per environment. The Anker Soundcore Liberty 4 at $79 hits approximately 18–20 dB in the same band — meaningful on a quiet bus route, noticeably less effective on a Shinkansen or a 787 cabin. The gap between 20 dB and 28 dB is not subtle when you are trying to think clearly for three consecutive hours.",
-        "Codec support is the second filter. LDAC at 990 kbps is the ceiling for Bluetooth lossless-adjacent streaming on Android — Sony's own protocol, adopted by every Android phone running Android 9 or later. Three of the five earbuds in this list support LDAC: the Sony WF-1000XM5, the Nothing Ear (2), and the Anker Soundcore Liberty 4. Apple AirPods Pro 2 use AAC over Bluetooth on iOS (the ceiling for Apple's own platform) and are not compatible with LDAC — the H2 chip's lossless wired protocol does not extend to Bluetooth. The Jabra Evolve2 Buds are tuned for voice clarity rather than music playback and top out at SBC and AAC by design. For Android users who subscribe to Amazon Music HD, Apple Music Lossless, or Tidal, LDAC support is decisive."
+        "每个耳机品牌都宣传ANC（主动降噪）。真正有意义的数字，是硬件在60–300 Hz频段实际产生多少分贝的低频衰减——火车轰鸣、飞机机舱嗡嗡声和暖通空调噪音都集中在这个频段。索尼WF-1000XM5通过双麦克风前馈加反馈阵列结合公司自研QN2e芯片，在该频段实现约24–26 dB的有效衰减。苹果AirPods Pro 2借助H2芯片的自适应通透模式（可根据环境动态重新调校），实现约28–30 dB的衰减。$79的Anker Soundcore Liberty 4在同一频段达到约18–20 dB——在安静的公交线路上足够用，但在新干线车厢或波音787客舱内明显不够看。当你需要连续三小时保持清醒专注时，20 dB与28 dB之间的差距绝不微小。",
+        "编解码器支持是第二道筛选标准。LDAC 990 kbps是Android蓝牙无损级流媒体传输的天花板——这是索尼自家协议，已被所有运行Android 9及以上版本的手机采用。本列表五款耳机中，有三款支持LDAC：索尼WF-1000XM5、Nothing Ear (2)和Anker Soundcore Liberty 4。苹果AirPods Pro 2在iOS上通过蓝牙使用AAC（苹果平台的上限），不兼容LDAC——H2芯片的有线无损协议无法延伸至蓝牙。Jabra Evolve2 Buds专为语音清晰度而非音乐播放调音，有意设定为SBC和AAC上限。对于订阅Amazon Music HD、Apple Music无损或Tidal的Android用户而言，LDAC支持与否具有决定性意义。"
       ]
     },
     {
-      "heading": "How we evaluated these five",
+      "heading": "我们如何评测这五款耳机",
       "paragraphs": [
-        "ANC performance numbers come from third-party hardware reviews with anechoic chamber measurements — primarily RTings.com passive isolation and ANC attenuation charts, cross-referenced with RTINGS, Headphonesty, and Wirecutter as of Q1 2026. We did not conduct our own acoustic measurements. Battery life claims from manufacturer product pages are cross-referenced against owner reports on Amazon reviews, Reddit r/earbuds, and Head-Fi forums, which typically show 15–25% degradation from stated claims under real-world ANC-on conditions at moderate volume.",
-        "Call quality rankings are based on aggregated call recipient feedback from long-term user reviews, with particular weight given to outdoor and open-office scenarios rather than quiet home conditions. Fit security was rated against reports from commuters and runners. We did not test these personally in controlled lab conditions — any comparison article claiming otherwise from a content site is misleading about what is achievable outside a proper audio research facility."
+        "降噪性能数据来源于配备消声室测量设备的第三方硬件评测——主要参考RTings.com的被动隔音和ANC衰减图表，并与RTINGS、Headphonesty和Wirecutter的2026年Q1数据交叉比对。我们未进行自主声学测量。制造商产品页面的续航声称，与亚马逊评论、Reddit r/earbuds和Head-Fi论坛的用户报告进行交叉核验——在真实开启降噪、中等音量条件下，实测数据通常比宣传值低15–25%。",
+        "通话质量排名基于长期用户评测中对通话接收方反馈的汇总统计，特别侧重户外和开放式办公场景，而非安静的家庭环境。佩戴稳固性根据通勤族和跑步者的报告评定。我们未在受控实验室条件下亲自测试——任何内容站声称做到这一点的对比文章，对于正规音频研究机构以外能够实现什么水准，都存在误导性表述。"
       ]
     },
     {
-      "heading": "What changed in 2026 for true wireless earbuds",
+      "heading": "2026年真无线耳机领域的变化",
       "paragraphs": [
-        "Adaptive ANC became the baseline expectation rather than a premium feature. By 2026, the Sony WF-1000XM5, Apple AirPods Pro 2, and Jabra Evolve2 Buds all dynamically re-tune ANC curves per ambient noise environment — a Shinkansen cabin is sampled differently from a Tokyo Platform 7 with announcements running. The Nothing Ear (2) and Anker Soundcore Liberty 4 implement adaptive ANC but at a slower sampling rate, which is mostly invisible unless you walk rapidly between very different acoustic environments.",
-        "Spatial audio moved from a gimmick to a genuinely useful feature for video work. Apple's head-tracked spatial audio via AirPods Pro 2 is the most mature implementation — it applies Dolby Atmos decoding and uses the H2 chip's accelerometers to pin audio sources in physical space during video calls and movie watching. Sony's 360 Reality Audio on the WF-1000XM5 is the Android equivalent, supported on Tidal and Amazon Music HD. Neither implementation is useful for podcast listening or standard stereo music — it's best left off for those use cases and turned on specifically for spatial-mixed content.",
-        "The single-pairing limitation disappeared for most buyers. By 2026, multipoint Bluetooth — connecting to laptop and phone simultaneously — works reliably across all five earbuds in this list. The quality of the implementation varies: Apple handles multipoint via Apple's own seamless device-switching within the Apple ecosystem (iPhone-iPad-Mac handoff without manual re-pairing); Sony's multipoint works but occasionally disconnects briefly when laptop audio and a phone call compete simultaneously; Jabra's multipoint is the strongest here for mixed-OS environments, handling Windows-laptop plus Android-phone switching without dropouts. Anker and Nothing both implement multipoint that works reliably for most users across platforms."
+        "自适应降噪已从高端功能变为基础预期。到2026年，索尼WF-1000XM5、苹果AirPods Pro 2和Jabra Evolve2 Buds都能根据周围噪音环境动态重新调整降噪曲线——新干线车厢的采样方式与有广播播放的东京7号站台截然不同。Nothing Ear (2)和Anker Soundcore Liberty 4也实现了自适应降噪，但采样频率更低，除非你在声学环境差异极大的地点间快速走动，否则几乎感觉不到区别。",
+        "空间音频从噱头变成了视频工作中真正有用的功能。苹果通过AirPods Pro 2实现的头部追踪空间音频是目前最成熟的方案——它采用Dolby Atmos解码，并利用H2芯片的加速度计在视频通话和观影时将音源锁定在物理空间中。索尼WF-1000XM5的360 Reality Audio是Android端的对应方案，在Tidal和Amazon Music HD上受到支持。两种方案对播客收听或标准立体声音乐都没有用处——建议在这些场景下关闭，仅在播放空间混音内容时开启。",
+        "单配对设备的限制对大多数用户来说已经消失。到2026年，多点蓝牙——同时连接笔记本电脑和手机——在本列表所有五款耳机上都能可靠运行。实现质量参差不齐：苹果通过自家生态的无缝设备切换处理多点（iPhone-iPad-Mac之间无需手动重新配对自动切换）；索尼的多点可用，但笔记本电脑音频与手机通话同时竞争时偶尔会短暂断连；Jabra的多点在混合操作系统环境中表现最强，能在Windows笔记本加Android手机之间切换而不发生断连。Anker和Nothing的多点实现对大多数用户在跨平台场景下均能可靠运行。"
       ]
     },
     {
-      "heading": "The honest comparison: where each earbuds fits",
+      "heading": "实话实说：每款耳机适合什么人",
       "paragraphs": [
-        "The Sony WF-1000XM5 at approximately $280 (or around 34,000 yen in Japan) is the all-rounder for Android users who want LDAC and class-leading ANC depth. The QN2e chip produces roughly 24–26 dB of low-frequency attenuation in the band where train rumble and plane cabin drone live, which is the strongest among LDAC-capable earbuds in this list. The fit is improved over the XM4 generation — a smaller housing and three tip sizes reduce the number of buyers who struggle to get a proper seal. Battery life is 8 hours with ANC on the bud alone, 24 hours with the case, matching manufacturer claims more closely than most competitors. Honest weaknesses: the call quality still trails AirPods Pro 2 and Jabra Evolve2 Buds in outdoor wind conditions; the default tuning has elevated bass that some listeners find fatiguing over long sessions (addressable with the Headphones Connect app EQ); and the charging case is larger than Nothing or Apple's cases.",
-        "The Apple AirPods Pro 2 at approximately $249 is the best earbud for iPhone users and anyone already inside the Apple ecosystem. The H2 chip's Adaptive Transparency mode is genuinely the best transparency implementation in this comparison — it sounds like the earbud isn't in your ear in quiet environments while actively attenuating hazardous transient sounds like a passing truck. ANC depth is approximately 28–30 dB in the low-frequency band, which makes it the strongest overall in this comparison despite being lower-priced than the Sony. Call quality is the best in this list — the H2 chip's voice processing handles outdoor wind and background noise with neural network algorithms that produce clean voice pickup at the call recipient end. The honest weaknesses: outside the Apple ecosystem, AirPods Pro 2 are a mediocre $249 AAC-only earbud; the silicone tips must fit your ear canal correctly or the ANC degrades dramatically — if you can't get a good seal (tip test in the Settings app), the ANC drops from 30 dB to closer to 15 dB. Personalized Spatial Audio requires an iPhone with a Face ID TrueDepth camera to set up.",
-        "The Jabra Evolve2 Buds at approximately $299 is the professional-use pick for people who take 6+ hours of calls per day and need certifiable quality. The three-microphone beamforming array and WindShield technology produce the most consistent call quality in outdoor conditions in this comparison — not because the mic hardware is necessarily better than AirPods Pro 2 (it's comparable), but because Jabra's voice processing pipeline is tuned specifically for speech rather than for a balance of music and speech. The optional UC dongle adds a USB-A/C wireless connection to a laptop for zero-latency audio on Microsoft Teams and Zoom without Bluetooth. ANC depth is approximately 22–25 dB, which is solid for an earbud, but it trails Sony XM5 and AirPods Pro 2. Honest weaknesses: at $299 this is expensive for an earbud, and the audio quality for music listening is noticeably tuned toward voice clarity rather than music enjoyment; no LDAC support; the fit is optimized for long call sessions rather than exercise; battery life is 7 hours with ANC on.",
-        "The Nothing Ear (2) at approximately $149 is the Android-ecosystem value pick for buyers who want LDAC, decent ANC, and a distinctive design at a mid-range price. The dual-driver design (dynamic + balanced armature) produces a more detailed high-frequency response than the Sony or Anker at this task, which benefits acoustic instruments and vocal recording monitor use. LDAC is supported up to 990 kbps. ANC depth is approximately 20–22 dB — effective for quiet offices and cafes, noticeably less effective than Sony or Apple on a train or plane. The Nothing X app provides detailed EQ and ANC mode control with a cleaner interface than Sony's Headphones Connect. Honest weaknesses: the IP54 rating is lower than Sony's IPX4 — it handles sweat and light rain but should not be submerged; the fit can be tricky for smaller ear canals because the stem design creates leverage on the ear; battery life is 6.3 hours with ANC on.",
-        "The Anker Soundcore Liberty 4 at approximately $79 delivers approximately 75% of Sony WF-1000XM5's ANC effectiveness at 28% of the price. LDAC support is present — unusual at this price point. The adaptive ANC algorithm is effective for commuter train and cafe environments. Spatial audio via the ACAA 2.0 algorithm is a reasonable approximation of head-tracked spatial sound for the price. Honest weaknesses, and these are real: the call quality is the weakest in this comparison — call recipients consistently report voice sounds slightly compressed and processed, not as natural as Sony or Apple; the fit is more variable than Sony because Anker includes only three tip sizes without a medium-wide option; battery life is 9 hours with ANC on, which is the longest in this comparison by a margin, but the ANC effectiveness does not scale with the price premium buyers pay for Sony or Apple."
+        "索尼WF-1000XM5售价约$280（日本约34,000日元），是想要LDAC和同类最强降噪深度的Android用户的全能选手。QN2e芯片在火车轰鸣和飞机机舱嗡嗡声所在频段产生约24–26 dB的低频衰减，是本列表支持LDAC的耳机中最强的。相比XM4代，佩戴体验有所改善——更小的腔体和三种耳帽尺寸，减少了难以获得良好密封的用户数量。单只耳机开启降噪续航8小时，加充电盒共24小时，在所有竞品中最接近厂商宣称值。如实指出的不足：在户外有风条件下，通话质量仍落后于AirPods Pro 2和Jabra Evolve2 Buds；默认调音低频偏重，长时间听可能让部分用户感到疲劳（可通过Headphones Connect应用的EQ调整）；充电盒比Nothing或苹果的更大。",
+        "苹果AirPods Pro 2售价约$249，是iPhone用户以及已深度融入苹果生态系统的任何人的最佳耳机选择。H2芯片的自适应通透模式确实是本次对比中最出色的通透实现——在安静环境中，它听起来就像耳机根本不在耳朵里，同时主动衰减过路卡车等危险的瞬态声音。低频段降噪深度约28–30 dB，尽管价格比索尼低，仍是本次对比中整体最强。通话质量是本列表最佳——H2芯片的语音处理通过神经网络算法处理户外风噪和背景噪音，在通话接收方端产生清晰的语音拾取。如实指出的不足：脱离苹果生态系统后，AirPods Pro 2不过是一款平庸的$249纯AAC耳机；硅胶耳帽必须与耳道完全贴合，否则降噪效果会急剧下降——如果无法获得良好密封（在设置应用中使用耳帽贴合度测试），ANC会从30 dB跌至约15 dB。个性化空间音频需要配备Face ID原深感摄像头的iPhone来完成设置。",
+        "Jabra Evolve2 Buds售价约$299，是每天需要通话6小时以上且需要可认证质量的专业用户的首选。三麦克风波束成形阵列配合WindShield技术，在本次对比中户外通话清晰度最为稳定——不是因为麦克风硬件本身一定优于AirPods Pro 2（两者相当），而是因为Jabra的语音处理管线专门针对语音而非音乐与语音平衡进行优化。可选UC加密狗增加了USB-A/C无线连接笔记本电脑的能力，无需蓝牙即可在Microsoft Teams和Zoom上实现零延迟音频。降噪深度约22–25 dB，对于耳机来说表现扎实，但落后于索尼XM5和AirPods Pro 2。如实指出的不足：$299对耳机来说价格不菲，音乐聆听的音频质量明显偏向语音清晰度而非音乐享受；不支持LDAC；佩戴体验针对长时间通话而非运动优化；开启降噪续航7小时。",
+        "Nothing Ear (2)售价约$149，是想要LDAC、双单元音频配置和独特外观设计的Android用户在中端价位的价值之选。动圈加平衡电枢的双单元驱动配置，在高频解析度上比同价位单单元耳机更为细腻——对原声乐器、古典乐和人声内容大有裨益。最高990 kbps的LDAC完全支持。降噪深度约20–22 dB——在咖啡馆和开放式办公室效果不错，在火车或飞机上明显不如索尼或苹果。Nothing X应用是本组中界面最简洁的配套应用。如实指出的不足：杆式设计在高强度运动时会产生杠杆效应发生位移；IP54防水等级低于IPX4；开启降噪续航6.3小时。",
+        "Anker Soundcore Liberty 4售价约$79，以不足30%的价格实现了索尼WF-1000XM5约75%的降噪效果，并附带在这个价位真正罕见的LDAC支持。自适应降噪算法对通勤列车和咖啡馆环境效果不错。ACAA 2.0算法实现的空间音频在这个价位上是合理的近似方案。如实指出的不足，而且都是真实存在的问题：通话质量是本次对比中最弱的——接听方反复反映声音听起来略显压缩且经过处理，不如索尼或苹果自然；由于Anker仅提供三种耳帽尺寸，没有中宽号选项，佩戴贴合度比索尼更不稳定；开启降噪续航9小时，是本次对比中最长的，且领先幅度明显，但降噪效果并不随着用户为索尼或苹果支付的价格溢价而同步提升。"
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Does LDAC actually make music sound better, or is it just a spec number?",
-      "a": "LDAC at 990 kbps makes an audible difference on high-resolution lossless sources — Apple Music Lossless, Amazon Music HD at 24-bit/96kHz, Tidal HiFi Plus. On Spotify Premium or YouTube Music (which stream at 256–320 kbps max), LDAC produces no perceptible benefit because the source is the bottleneck. The clearest demonstration: compare a 24-bit/96kHz FLAC file against the same track at 256 kbps AAC in a quiet room with Sony WF-1000XM5 or Nothing Ear (2). String decay on orchestral recordings and transient definition on acoustic guitar are audibly different. For podcast listeners, the entire LDAC discussion is irrelevant. For Android audiophiles on high-res services, it is the single most important spec in this comparison."
+      "q": "LDAC真的能让音乐听起来更好，还是只是一个规格数字？",
+      "a": "LDAC在990 kbps下，对高分辨率无损音源——Apple Music无损、24-bit/96kHz的Amazon Music HD、Tidal HiFi Plus——确实能产生可听见的差异。在Spotify Premium或YouTube Music（最高256–320 kbps流媒体）上，LDAC没有可感知的提升，因为瓶颈在于音源本身。最直观的验证方式：在安静的房间里，用索尼WF-1000XM5或Nothing Ear (2)，对比同一曲目的24-bit/96kHz FLAC文件与256 kbps AAC版本——管弦乐录音中弦乐的泛音衰减和原声吉他的瞬态清晰度，在LDAC设置下是可以听出差别的。对播客听众而言，整个LDAC讨论毫无意义。对于订阅高解析度流媒体服务的Android发烧友而言，这是本次对比中最重要的单一指标。"
     },
     {
-      "q": "Do these earbuds work well for exercise, or are they mainly for commute and desk use?",
-      "a": "Of the five, Sony WF-1000XM5 and Apple AirPods Pro 2 are the most exercise-viable — both have IPX4 ratings and consistent fit during moderate exercise. Anker Soundcore Liberty 4 also carries IPX4. Nothing Ear (2)'s IP54 covers sweat but the stem design creates leverage that shifts during running intervals. Jabra Evolve2 Buds have IP57 but are designed for sit-down call sessions, not running. None compete with sports-specific earbuds like Shokz OpenRun Pro for high-intensity exercise where open-ear awareness and ear hook security take priority over ANC depth."
+      "q": "这些耳机适合运动吗，还是主要面向通勤和办公桌场景？",
+      "a": "五款中，索尼WF-1000XM5和苹果AirPods Pro 2最适合运动——两者均有IPX4防汗防溅认证，中等强度运动时佩戴稳定。Anker Soundcore Liberty 4同样具备IPX4。Nothing Ear (2)的IP54覆盖汗水，但杆式设计在跑步间歇冲刺时会产生杠杆效应发生位移，多位跑者评测指出其稳定性不如索尼。Jabra Evolve2 Buds具备IP57，但专为久坐通话场景设计，不适合跑步。在高强度运动中，这五款都无法与Shokz OpenRun Pro等专业运动耳机竞争——那类场景下，开放式听觉感知和耳钩稳固性比降噪深度更为重要。"
     },
     {
-      "q": "Is AirPods Pro 2's ANC really better than Sony's despite costing less?",
-      "a": "When you achieve a correct tip seal, yes — AirPods Pro 2 measured ANC depth in the 60–300 Hz band is approximately 28–30 dB vs. Sony WF-1000XM5's 24–26 dB in third-party lab measurements. The critical caveat is the seal. Apple's tip test in Settings measures whether the silicone tip creates a complete seal. Users with a 'good' result on both ears get the full 28–30 dB. Users who need tip adjustment typically get 15–20 dB because a partial seal defeats the feedback microphone. Sony's tips are less sensitive to perfect seal geometry. Practical advice: run the Apple tip test before deciding — if you consistently get 'good' on both ears, AirPods Pro 2 beats Sony on raw ANC depth. If you struggle with silicone tip seals due to ear canal anatomy, Sony's consistency is the advantage."
+      "q": "AirPods Pro 2的降噪真的比索尼更强，而且价格更低？",
+      "a": "当你能获得正确的耳帽密封时，是的——第三方实验室测量中，AirPods Pro 2在60–300 Hz频段的降噪深度约28–30 dB，而索尼WF-1000XM5约24–26 dB。关键前提是密封。苹果设置中的耳帽贴合度测试，检测硅胶耳帽是否在耳道中形成完整密封。双耳均通过「良好」测试的用户可获得完整的28–30 dB效果。需要调整耳帽的用户通常只有15–20 dB，因为不完全密封会削弱反馈麦克风测量到达耳膜声音的能力。索尼的耳帽对完美密封几何形状的要求没那么严苛。实用建议：如果你有iPhone，在决定购买前先试戴AirPods Pro 2并确认耳帽贴合良好；如果你因耳道形状原因长期与硅胶耳帽的密封问题作斗争，索尼的贴合稳定性就是真正的优势。"
     }
   ],
   "products": [
     {
       "offerId": "tws-sony-wf-1000xm5",
-      "badge": "Best for Android / LDAC",
+      "badge": "Android用户最佳 / LDAC首选",
       "grade": "A+",
-      "review": "The Sony WF-1000XM5 is the correct choice for Android users who want the best combination of ANC depth and LDAC codec support in a true wireless earbud. The QN2e chip delivers approximately 24–26 dB of low-frequency attenuation — the strongest among LDAC-capable earbuds in this comparison — and the fit improvement over the XM4 generation (smaller housing, three tip sizes) reduces the number of buyers who struggle with seal consistency. Battery life at 8 hours ANC-on plus 24 hours from the case matches manufacturer claims more closely than most competitors. The Headphones Connect app provides granular EQ and ANC mode control. Honest weaknesses: call quality trails AirPods Pro 2 in outdoor wind; default bass emphasis is heavy and best addressed via EQ; the carrying case is bulkier than Nothing or Apple.",
+      "review": "索尼WF-1000XM5是想要在真无线耳机中兼顾最佳降噪深度和LDAC编解码支持的Android用户的正确选择。QN2e芯片提供约24–26 dB的低频衰减——是本次对比中支持LDAC的耳机中最强的——而相比XM4代的佩戴体验改善（更小腔体、三种耳帽尺寸），减少了难以获得稳定密封的用户数量。开启降噪续航8小时加充电盒共24小时，在所有竞品中最接近厂商宣称值。Headphones Connect应用提供精细的EQ和降噪模式控制。如实指出的不足：在户外有风条件下通话质量落后于AirPods Pro 2；默认低频偏重，最好通过EQ调整至中性；充电盒比Nothing或苹果的更大。",
       "pros": [
-        "LDAC at 990 kbps — the ceiling for Android Bluetooth hi-res audio",
-        "24–26 dB low-frequency ANC with QN2e adaptive processing",
-        "8h ANC battery on bud, 24h total with case matching claimed figures",
-        "Improved fit over XM4 with smaller housing and consistent tip seal"
+        "LDAC 990 kbps——Android蓝牙高解析音频的天花板",
+        "QN2e自适应处理实现24–26 dB低频降噪",
+        "单只耳机8小时降噪续航，含充电盒共24小时，接近宣称数值",
+        "相比XM4改善佩戴体验，更小腔体配合稳定耳帽密封"
       ],
       "cons": [
-        "Call quality in outdoor wind trails AirPods Pro 2 and Jabra Evolve2 Buds",
-        "Default tuning is bass-heavy — requires EQ adjustment for neutral listening"
+        "户外有风环境下通话质量落后于AirPods Pro 2和Jabra Evolve2 Buds",
+        "默认调音低频偏重——中性聆听需通过EQ调整"
       ],
       "specs": {
-        "降噪深度 (60–300 Hz)": "~24–26 dB",
-        "编码支持": "LDAC 990 kbps, AAC, SBC",
-        "电池 (降噪开启)": "8h bud / 24h with case",
-        "驱动单元": "Dynamic (8.4 mm)",
-        "防水等级": "IPX4",
-        "单只重量": "5.9 g"
+        "ANC Depth (60–300 Hz)": "~24–26 dB",
+        "Codec Support": "LDAC 990 kbps, AAC, SBC",
+        "Battery (ANC on)": "8h bud / 24h with case",
+        "Driver": "Dynamic (8.4 mm)",
+        "IP Rating": "IPX4",
+        "Weight per bud": "5.9 g"
       },
       "scores": {
-        "降噪深度": 4.7,
-        "编码质量": 5.0,
-        "电池续航": 4.5,
-        "通话质量": 3.8,
-        "舒适度 / 贴合度": 4.3
+        "ANC Depth": 4.7,
+        "Codec Quality": 5.0,
+        "Battery Life": 4.5,
+        "Call Quality": 3.8,
+        "Comfort / Fit": 4.3
       }
     },
     {
       "offerId": "tws-apple-airpods-pro-2",
-      "badge": "Best Overall / Best for iPhone",
+      "badge": "整体最佳 / iPhone首选",
       "grade": "A+",
-      "review": "The Apple AirPods Pro 2 is the best true wireless earbud in this comparison for iPhone users — and the strongest ANC performer when a good ear tip seal is achieved. The H2 chip delivers approximately 28–30 dB of low-frequency attenuation via Adaptive Transparency and active ANC blending, which is the highest in this list. Call quality is the best here — H2 neural voice processing handles outdoor wind, platform announcements, and cafe noise cleanly for the call recipient. Head-tracked Personalized Spatial Audio is the most mature implementation in this category. Honest weaknesses: it is a mediocre $249 AAC-only device outside the Apple ecosystem; ANC performance is highly seal-dependent and drops dramatically without a correct tip fit; no LDAC support under any conditions.",
+      "review": "苹果AirPods Pro 2是本次对比中iPhone用户的最佳真无线耳机——也是在获得良好耳帽密封时降噪性能最强的选手。H2芯片通过自适应通透与主动降噪融合，提供约28–30 dB的低频衰减，是本列表中最高的。通话质量是本列表最佳——H2神经网络语音处理在接听方端清晰地应对户外风噪、站台广播和咖啡馆嘈杂声。头部追踪个性化空间音频是该类别中最成熟的实现方案。如实指出的不足：脱离苹果生态系统后，它只是一款平庸的$249纯AAC设备；降噪效果高度依赖密封，没有正确的耳帽贴合就会急剧下降；在任何条件下均不支持LDAC。",
       "pros": [
-        "28–30 dB ANC depth — highest in this comparison with a proper tip seal",
-        "Best call quality here — H2 chip handles outdoor wind and crowd noise",
-        "Seamless Apple device handoff across iPhone, iPad, and Mac",
-        "Adaptive Transparency sounds genuinely natural in quiet environments"
+        "28–30 dB降噪深度——正确耳帽密封下本次对比最强",
+        "本列表最佳通话质量——H2芯片应对户外风噪和人群噪音",
+        "iPhone、iPad和Mac之间无缝Apple设备切换",
+        "自适应通透模式在安静环境中听感真实自然"
       ],
       "cons": [
-        "No LDAC support — AAC ceiling on both iOS and Android",
-        "ANC effectiveness drops sharply without a correct silicone tip seal"
+        "不支持LDAC——iOS和Android均以AAC为上限",
+        "没有正确硅胶耳帽密封，降噪效果急剧下降"
       ],
       "specs": {
-        "降噪深度 (60–300 Hz)": "~28–30 dB",
-        "编码支持": "AAC, SBC",
-        "电池 (降噪开启)": "6h bud / 30h with case",
-        "驱动单元": "Dynamic (custom Apple)",
-        "防水等级": "IPX4",
-        "单只重量": "5.3 g"
+        "ANC Depth (60–300 Hz)": "~28–30 dB",
+        "Codec Support": "AAC, SBC",
+        "Battery (ANC on)": "6h bud / 30h with case",
+        "Driver": "Dynamic (custom Apple)",
+        "IP Rating": "IPX4",
+        "Weight per bud": "5.3 g"
       },
       "scores": {
-        "降噪深度": 5.0,
-        "编码质量": 3.5,
-        "电池续航": 4.2,
-        "通话质量": 5.0,
-        "舒适度 / 贴合度": 4.6
+        "ANC Depth": 5.0,
+        "Codec Quality": 3.5,
+        "Battery Life": 4.2,
+        "Call Quality": 5.0,
+        "Comfort / Fit": 4.6
       }
     },
     {
       "offerId": "tws-jabra-evolve2-buds",
-      "badge": "Best for Professional Calls",
+      "badge": "专业通话最佳",
       "grade": "A",
-      "review": "The Jabra Evolve2 Buds is the correct pick for buyers whose primary use case is 6+ hours of calls per day in open offices, hybrid workplaces, and variable outdoor conditions. The three-mic beamforming array with WindShield technology produces the most consistent outdoor call clarity in this comparison — not because the microphone hardware is categorically superior, but because Jabra's signal processing pipeline is optimized specifically for speech rather than for a music-and-speech balance. The optional UC dongle provides USB-A/C wireless connection with zero-latency audio for Microsoft Teams and Zoom certified deployments. ANC depth is approximately 22–25 dB. Honest weaknesses: $299 is expensive, music quality is deliberately tuned for voice rather than enjoyment, no LDAC, battery is 7h with ANC on.",
+      "review": "Jabra Evolve2 Buds是每天在开放式办公室、混合工作场所和多变户外条件下需要通话6小时以上的用户的正确选择。三麦克风波束成形阵列配合WindShield技术，在本次对比中户外通话清晰度最为稳定——不是因为麦克风硬件本身优于AirPods Pro 2（两者相当），而是因为Jabra的信号处理管线专门针对语音而非音乐与语音平衡进行优化。可选UC加密狗提供USB-A/C无线连接，为Microsoft Teams和Zoom认证部署实现零延迟音频。降噪深度约22–25 dB。如实指出的不足：$299价格不菲，音乐质量有意调校偏向语音而非享受，不支持LDAC，开启降噪续航7小时。",
       "pros": [
-        "Three-mic beamforming produces the most consistent outdoor call quality here",
-        "Optional UC dongle enables zero-latency USB wireless for Teams and Zoom",
-        "Certified for open-office and enterprise UC deployments",
-        "WindShield technology handles wind and street noise on calls reliably"
+        "三麦克风波束成形技术实现本次对比最稳定的户外通话质量",
+        "可选UC加密狗为Teams和Zoom提供零延迟USB无线连接",
+        "获得开放式办公室和企业UC部署认证",
+        "WindShield技术在通话中可靠应对风噪和街道噪音"
       ],
       "cons": [
-        "$299 is the highest price in this comparison",
-        "Music audio quality is voice-tuned — noticeably less enjoyable than Sony or Apple for music"
+        "$299是本次对比中最高价格",
+        "音乐音频质量偏向语音调音——音乐享受感明显不如索尼或苹果"
       ],
       "specs": {
-        "降噪深度 (60–300 Hz)": "~22–25 dB",
-        "编码支持": "AAC, SBC",
-        "电池 (降噪开启)": "7h bud / 27h with case",
-        "驱动单元": "Dynamic (6 mm)",
-        "防水等级": "IP57",
-        "单只重量": "6.5 g"
+        "ANC Depth (60–300 Hz)": "~22–25 dB",
+        "Codec Support": "AAC, SBC",
+        "Battery (ANC on)": "7h bud / 27h with case",
+        "Driver": "Dynamic (6 mm)",
+        "IP Rating": "IP57",
+        "Weight per bud": "6.5 g"
       },
       "scores": {
-        "降噪深度": 4.2,
-        "编码质量": 3.0,
-        "电池续航": 4.0,
-        "通话质量": 5.0,
-        "舒适度 / 贴合度": 4.1
+        "ANC Depth": 4.2,
+        "Codec Quality": 3.0,
+        "Battery Life": 4.0,
+        "Call Quality": 5.0,
+        "Comfort / Fit": 4.1
       }
     },
     {
       "offerId": "tws-nothing-ear-2",
-      "badge": "Best Mid-Range for Android",
+      "badge": "Android中端最佳",
       "grade": "B+",
-      "review": "The Nothing Ear (2) is the best mid-range option for Android users who want LDAC, a dual-driver audio setup, and a distinctive transparent design at $149. The dynamic-plus-balanced-armature driver configuration produces more detailed high-frequency resolution than single-driver earbuds in this price range — beneficial for acoustic instruments, classical, and vocal content. LDAC up to 990 kbps is fully supported. ANC depth is approximately 20–22 dB — effective for cafes and open offices, less so on trains or planes than Sony or Apple. The Nothing X app is the cleanest companion app in this group. Honest weaknesses: the stem design creates leverage that can shift during high-impact exercise; IP54 rating is lower than IPX4; battery is 6.3h with ANC on.",
+      "review": "Nothing Ear (2)是想以$149获得LDAC、双单元音频配置和独特通透外观设计的Android用户的最佳中端选择。动圈加平衡电枢的双单元驱动配置，在该价位的高频解析度上比单单元耳机更为细腻——对原声乐器、古典乐和人声内容大有裨益。最高990 kbps的LDAC完全支持。降噪深度约20–22 dB——在咖啡馆和开放式办公室效果不错，在火车或飞机上明显不如索尼或苹果。Nothing X应用是本组中界面最简洁的配套应用。如实指出的不足：杆式设计在高强度运动时会产生位移；IP54防水等级低于IPX4；开启降噪续航6.3小时。",
       "pros": [
-        "Dual-driver (dynamic + balanced armature) for better high-frequency detail",
-        "LDAC at 990 kbps at the $149 mid-range price point",
-        "Nothing X app provides clean EQ and ANC mode control",
-        "Transparent design and understated aesthetics"
+        "双单元（动圈+平衡电枢）带来更好的高频细节",
+        "$149中端价位支持LDAC 990 kbps",
+        "Nothing X应用提供简洁的EQ和降噪模式控制",
+        "通透外观设计与低调美学"
       ],
       "cons": [
-        "Stem design shifts during running — less secure than Sony or Apple for exercise",
-        "ANC depth (20–22 dB) noticeably weaker on trains and planes vs. top tier"
+        "杆式设计跑步时发生位移——运动稳固性不如索尼或苹果",
+        "降噪深度（20–22 dB）在火车和飞机上明显弱于顶级产品"
       ],
       "specs": {
-        "降噪深度 (60–300 Hz)": "~20–22 dB",
-        "编码支持": "LDAC 990 kbps, AAC, SBC",
-        "电池 (降噪开启)": "6.3h bud / 36h with case",
-        "驱动单元": "Dual (11 mm dynamic + balanced armature)",
-        "防水等级": "IP54",
-        "单只重量": "4.5 g"
+        "ANC Depth (60–300 Hz)": "~20–22 dB",
+        "Codec Support": "LDAC 990 kbps, AAC, SBC",
+        "Battery (ANC on)": "6.3h bud / 36h with case",
+        "Driver": "Dual (11 mm dynamic + balanced armature)",
+        "IP Rating": "IP54",
+        "Weight per bud": "4.5 g"
       },
       "scores": {
-        "降噪深度": 4.0,
-        "编码质量": 4.8,
-        "电池续航": 3.9,
-        "通话质量": 3.9,
-        "舒适度 / 贴合度": 4.0
+        "ANC Depth": 4.0,
+        "Codec Quality": 4.8,
+        "Battery Life": 3.9,
+        "Call Quality": 3.9,
+        "Comfort / Fit": 4.0
       }
     },
     {
       "offerId": "tws-anker-soundcore-liberty-4",
-      "badge": "Best Budget",
+      "badge": "预算之选最佳",
       "grade": "B",
-      "review": "The Anker Soundcore Liberty 4 at $79 delivers roughly 75% of Sony WF-1000XM5's ANC effectiveness at less than 30% of the price, with LDAC support that is genuinely rare at this price tier. The adaptive ANC handles commuter trains and cafes well. Spatial audio via ACAA 2.0 is a reasonable approximation. Battery life at 9 hours with ANC on is the longest in this comparison. Honest weaknesses: call quality is the weakest in this list — call recipients report voices sound compressed and processed relative to Sony, Apple, and Jabra; the tip size range lacks a medium-wide option that some ear canal shapes need for a reliable seal; the ANC algorithm produces a faint pressure sensation during the first 15–20 minutes for some users.",
+      "review": "Anker Soundcore Liberty 4售价$79，以不足30%的价格实现了索尼WF-1000XM5约75%的降噪效果，并附带在该价位段真正罕见的LDAC支持。自适应降噪算法对通勤列车和咖啡馆环境处理良好。ACAA 2.0实现的空间音频是合理的近似方案。开启降噪续航9小时是本次对比中最长的。如实指出的不足，且这些都是真实问题：通话质量是本次对比中最弱的——接听方反复反映声音听起来略显压缩且经过处理，不如索尼、苹果和Jabra自然；由于Anker仅提供三种耳帽尺寸且没有中宽号选项，部分耳道形状的用户无法获得可靠密封；降噪算法在部分用户使用最初15–20分钟内产生轻微压迫感。",
       "pros": [
-        "LDAC support at $79 — the most budget-friendly LDAC earbud in this list",
-        "9h ANC battery life — longest in this comparison",
-        "Adaptive ANC effective for commuter trains and cafes",
-        "ACAA 2.0 spatial audio at a value price point"
+        "$79支持LDAC——本列表中最具性价比的LDAC耳机",
+        "9小时降噪续航——本次对比中最长",
+        "自适应降噪对通勤列车和咖啡馆场景效果不错",
+        "ACAA 2.0空间音频，价格亲民"
       ],
       "cons": [
-        "Call quality is the weakest here — voice sounds compressed to recipients",
-        "Tip size range lacks medium-wide option for some ear canal shapes"
+        "通话质量是本次对比中最弱——接听方反映声音压缩",
+        "耳帽尺寸缺少部分耳道形状所需的中宽号"
       ],
       "specs": {
-        "降噪深度 (60–300 Hz)": "~18–20 dB",
-        "编码支持": "LDAC 990 kbps, AAC, SBC",
-        "电池 (降噪开启)": "9h bud / 32h with case",
-        "驱动单元": "Dynamic (10.4 mm)",
-        "防水等级": "IPX4",
-        "单只重量": "5.5 g"
+        "ANC Depth (60–300 Hz)": "~18–20 dB",
+        "Codec Support": "LDAC 990 kbps, AAC, SBC",
+        "Battery (ANC on)": "9h bud / 32h with case",
+        "Driver": "Dynamic (10.4 mm)",
+        "IP Rating": "IPX4",
+        "Weight per bud": "5.5 g"
       },
       "scores": {
-        "降噪深度": 3.7,
-        "编码质量": 4.8,
-        "电池续航": 5.0,
-        "通话质量": 3.2,
-        "舒适度 / 贴合度": 3.8
+        "ANC Depth": 3.7,
+        "Codec Quality": 4.8,
+        "Battery Life": 5.0,
+        "Call Quality": 3.2,
+        "Comfort / Fit": 3.8
       }
     }
   ],
   "offerNotes": {
-    "tws-sony-wf-1000xm5": "Best Android ANC earbud — LDAC + 24–26 dB ANC + 8h battery. Call quality trails Apple and Jabra outdoors; default bass is heavy; case is bulky.",
-    "tws-apple-airpods-pro-2": "Best iPhone earbud and strongest ANC (28–30 dB) when tip seal fits. No LDAC; ANC drops sharply without correct tip seal.",
-    "tws-jabra-evolve2-buds": "Best for 6+ h/day call professionals. Three-mic beamforming + optional UC dongle for Teams/Zoom. Most expensive at $299; music quality is voice-tuned.",
-    "tws-nothing-ear-2": "Best mid-range Android pick — LDAC + dual-driver at $149. Stem shifts during running; ANC (20–22 dB) weaker on trains vs. top tier.",
-    "tws-anker-soundcore-liberty-4": "Best budget — LDAC at $79, 9h ANC battery. Weakest call quality in this list; no medium-wide tip size."
+    "tws-sony-wf-1000xm5": "Android最佳降噪耳机——LDAC + 24–26 dB降噪 + 8小时续航。户外通话质量落后于苹果和Jabra；默认低频偏重；充电盒偏大。",
+    "tws-apple-airpods-pro-2": "iPhone最佳耳机，耳帽密封良好时降噪最强（28–30 dB）。不支持LDAC；无正确耳帽密封时降噪急剧下降。",
+    "tws-jabra-evolve2-buds": "每日通话6小时以上专业人士首选。三麦克风波束成形+可选UC加密狗支持Teams/Zoom。$299是本列表最贵；音乐质量偏向语音调音。",
+    "tws-nothing-ear-2": "Android中端最佳——$149价位LDAC加双单元。跑步时杆式设计会位移；降噪（20–22 dB）在火车上弱于顶级产品。",
+    "tws-anker-soundcore-liberty-4": "预算之选——$79支持LDAC，9小时降噪续航。本列表通话质量最弱；缺少中宽号耳帽。"
   },
-  "pinDescription": "2026真无线耳塞5款：Sony、Apple、Jabra、Nothing、Anker。通勤和视频通话的最佳ANC和续航。"
+  "pinDescription": "2026年五款真无线耳机横评：索尼WF-1000XM5 LDAC、AirPods Pro 2 H2降噪、Jabra Evolve2 Buds通话专用、Nothing Ear 2双单元、Anker Liberty 4仅售$79。哪款才真正适合你的通勤和手机？"
 }

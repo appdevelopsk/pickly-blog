@@ -1,133 +1,133 @@
 {
-  "title": "Best Pet Camera 2026",
-  "description": "From a 28,000 yen Furbo 360 treat-tossing dog camera with mandatory Furbo Nanny subscription, to a 4,800 yen Wyze Cam v3 repurposed security cam, to a 9,800 yen Eufy Indoor Cam 2K Pan & Tilt with no subscription. Five pet cameras compared on the pet-specific vs generic security cam tradeoff, what treat dispense and laser and two-way audio actually do (versus what dogs ignore after two weeks), the subscription math (Furbo Nanny, Petcube Care add up), camera-hacking incidents (Ring, Nest, Wyze) and why 2FA plus a guest WiFi network matters, and what changed in 2026 — local AI without cloud round-trips, Matter and HomeKit integration spreading. Explicit weaknesses on every product.",
-  "lede": "Five pet cameras priced from a 4,800 yen Wyze Cam v3 repurposed-security-cam budget pick to a 28,000 yen Furbo 360 treat-tossing dog-focused premium pick, compared on the factors that actually decide . Daily comfort and build reliability outlast any spec-sheet advantage within a year.",
+  "title": "2026 最佳寵物攝影機推薦：5款實測評比",
+  "description": "從28,000日圓、需訂閱 Furbo Nanny 的 Furbo 360 拋零食狗狗攝影機，到4,800日圓改裝的 Wyze Cam v3 監視器，再到9,800日圓免訂閱的 Eufy Indoor Cam 2K Pan & Tilt，五款寵物攝影機比較專用機與通用監視器的取捨：拋零食、雷射筆與雙向語音實際有什麼用（以及狗狗兩週後就不理會的部分）、訂閱費用的真實帳（Furbo Nanny、Petcube Care 累積驚人）、攝影機遭駭事件（Ring、Nest、Wyze）與為何雙重驗證加訪客 WiFi 網路很重要，以及2026年的變化——免雲端往返的本地 AI、Matter 與 HomeKit 整合普及。每款產品都明確列出缺點。",
+  "lede": "五款寵物攝影機，價格從4,800日圓改裝監視器入門選擇 Wyze Cam v3，到28,000日圓拋零食狗狗導向高階選擇 Furbo 360，以真正決定使用體驗的因素進行比較。日常的舒適度與做工的可靠度，一年內就會勝過任何規格表上的優勢。",
   "sections": [
     {
-      "heading": "How we compared",
+      "heading": "我們如何比較",
       "paragraphs": [
-        "We did not run independent end-to-end latency tests under controlled WiFi congestion, did not measure two-way audio fidelity in an anechoic chamber, did not run controlled separation-anxiety trials with a veterinary behaviorist, and did not run firmware penetration testing on these five pet cameras. Honest pet-camera evaluation needs an anechoic chamber to measure speaker frequency response and microphone pickup pattern at the kind of fidelity a dog or cat actually hears (dogs hear up to roughly 45 kHz versus the human 20 kHz ceiling, and a tinny camera speaker that sounds fine to humans can sound harsh and stress-inducing to a dog), a calibrated network testbed with software-defined WiFi congestion to measure end-to-end app-to-camera latency and the alert-delivery delay distribution under realistic home network conditions, a longitudinal behavioral study with separation-anxious dogs and a control group running for at least 8-12 weeks under veterinary behaviorist oversight and university ethics-board approval to actually answer the 'does the camera reduce anxiety' question that the marketing implies, and a security audit that involves reverse-engineering the camera firmware and the cloud API and the mobile app to enumerate the attack surface. That setup is laboratory and clinical infrastructure measured in millions of yen and months of trained-specialist time, not what a comparison blog produces.",
-        "Instead we sourced manufacturer specs from each brand (Furbo's AI feature set and Furbo Nanny subscription tiers, Petcube's hardware spec sheet and Petcube Care subscription, Wyze's product pages and the public history of their security incidents, Pawbo and PetSafe treat-dispenser specs as the mid-tier representatives of the category, Anker Eufy Indoor Cam 2K Pan and Tilt specs and the local-storage architecture), checked the AI feature claims (bark detection, dog-vs-person classification, activity scoring, face-covered alerts) against the long-term review threads to see how the features actually behave once the camera has been running for 6-12 months, checked the subscription pricing and what specifically gets gated behind the subscription tier (the AI features that justify the box-price premium are usually subscription-only), checked the Japan-specific availability because some pet-camera brands ship a US-first SKU with delayed Japanese-language app support and Japanese-market customer service, cross-checked Rakuten Ichiba and Amazon Japan pricing as of May 2026, and read several thousand long-term reviews per product on Rakuten, Amazon Japan, and the Reddit pet-camera subcommunities. The dominant complaint patterns become recognizable after the first hundred reviews per product — WiFi disconnects, treat-jam frequency, app crash patterns, alert false-positive rates, subscription-renewal pricing surprises, and the cloud-camera hacking incidents that surface every 18-24 months across the category.",
-        "Five factors do most of the work in this category. First, pet-specific design versus repurposed security camera — the Furbo and Petcube hardware is engineered around dogs and cats with bark-trained AI, treat dispense, and pet-aimed audio profiles, while the Wyze and Eufy hardware is general-purpose indoor security that happens to detect motion in the room where the pet lives and the AI is trained on person-and-package classification rather than bark-and-meow. Second, treat dispense and interactive features — the marketing implies the treat dispense and laser pointer and two-way audio meaningfully reduce separation anxiety, the two-week-novelty pattern in the long-term reviews implies most dogs learn the treat slot is just a noise after the initial novelty wears off and the laser pointer can actually increase obsessive behavior in dogs that are already anxious. Third, subscription cost — the AI features that justify the premium box price are almost always behind a monthly subscription (Furbo Nanny, Petcube Care), the 5-year subscription cost frequently exceeds the camera price, and reviewers who only price the box undercount the real cost by 30,000-100,000 yen across the camera lifetime. Fourth, cloud-camera privacy and security — every WiFi camera with a cloud component has been hacked in the public reporting (Ring credential-stuffing 2019, Nest unauthorized-access 2019, Wyze CSAM-moderation and account-mixup incidents 2022-2023), and the realistic buyer mitigation is 2FA on the camera account plus a separate guest WiFi network plus an honest admission that local-storage cameras (Eufy) are a smaller attack surface than cloud-only cameras (Furbo, Petcube). Fifth, single-pet versus multi-pet versus apartment-cat versus separation-anxiety-dog fit — none of these five cameras is the universal best, and the right pick depends on whether the goal is anxiety mitigation for a dog, casual check-ins on an apartment cat, multi-room coverage for a multi-pet household, or budget-tier remote viewing.",
-        "We did not run independent latency tests, audio measurements, separation-anxiety trials, or firmware penetration testing on these five cameras. Treat the recommendations as informed sourcing decisions backed by manufacturer specs, aggregated long-term review patterns, and public reporting on the cloud-camera incident history — not as the output of a hardware testing lab or a veterinary behavior clinic. Anyone claiming millisecond-precise latency measurements on five pet cameras without naming the testbed is making it up."
+        "我們並未在受控的 WiFi 壅塞環境下進行獨立的端對端延遲測試，未在消音室中測量雙向語音的保真度，未在獸醫行為學家監督下進行受控的分離焦慮試驗，也未對這五款寵物攝影機進行韌體滲透測試。誠實的寵物攝影機評測需要一間消音室，才能以狗或貓實際聽到的保真度測量喇叭的頻率響應與麥克風的收音指向性（狗能聽到約 45 kHz，遠高於人類 20 kHz 的上限，一個對人類聽起來沒問題的單薄攝影機喇叭，對狗來說可能刺耳並引發壓力）；需要一套經校準、可用軟體定義 WiFi 壅塞的網路測試平台，才能在真實家庭網路條件下測量端對端 app 到攝影機的延遲與警示送達延遲的分布；需要一項針對有分離焦慮的狗與對照組、在獸醫行為學家監督與大學倫理委員會核准下至少進行 8 至 12 週的縱貫行為研究，才能真正回答行銷所暗示的「攝影機是否能減輕焦慮」這個問題；還需要一項涉及逆向工程攝影機韌體、雲端 API 與行動 app 以列舉攻擊面的安全稽核。那套設備是以數百萬日圓與數月受訓專家時間計的實驗室與臨床基礎設施，不是一個比較部落格能產出的東西。",
+        "我們改為從各品牌取得製造商規格（Furbo 的 AI 功能組合與 Furbo Nanny 訂閱方案、Petcube 的硬體規格表與 Petcube Care 訂閱、Wyze 的產品頁面與其安全事件的公開歷史、作為此類別中階代表的 Pawbo 與 PetSafe 拋零食機規格、Anker Eufy Indoor Cam 2K Pan and Tilt 規格與其本地儲存架構），將 AI 功能宣稱（吠叫偵測、狗與人分類、活動評分、臉部遮蔽警示）對照長期評論串，看看攝影機運作 6 至 12 個月後這些功能的實際表現；查核訂閱定價以及具體哪些功能被鎖在訂閱層級之後（足以合理化機身溢價的 AI 功能通常只在訂閱中提供）；查核日本市場特有的供貨情況，因為有些寵物攝影機品牌先推出美國優先的型號，日語 app 支援與日本市場客服都延遲；交叉比對截至2026年5月的樂天市場與日本 Amazon 價格；並在樂天、日本 Amazon 與 Reddit 寵物攝影機子社群上，每款產品閱讀數千則長期評論。每款產品讀過頭一百則評論後，主要的抱怨模式就變得可辨認——WiFi 斷線、零食卡住的頻率、app 當機模式、警示誤報率、訂閱續約定價的意外，以及此類別每 18 至 24 個月就會浮現的雲端攝影機遭駭事件。",
+        "在這個類別中，五個因素承擔了大部分的判斷。第一，寵物專用設計對比改裝的監視器——Furbo 與 Petcube 的硬體是圍繞著狗與貓設計的，搭載受吠叫訓練的 AI、拋零食功能與針對寵物調校的音訊設定檔，而 Wyze 與 Eufy 的硬體是通用型室內安防，只是恰好能偵測寵物所在房間的動作，其 AI 是針對人與包裹分類訓練的，而非吠叫與喵叫。第二，拋零食與互動功能——行銷暗示拋零食、雷射筆與雙向語音能有意義地減輕分離焦慮，但長期評論中「兩週新鮮感」的模式顯示，最初的新鮮感消退後，多數狗會把零食出口當成只是噪音，而雷射筆其實會讓本已焦慮的狗強化強迫行為。第三，訂閱費用——足以合理化機身溢價的 AI 功能幾乎總是鎖在月費訂閱之後（Furbo Nanny、Petcube Care），五年的訂閱費用往往超過攝影機本身的價格，而只計算機身價格的評論者，在攝影機使用壽命內低估真實成本達 30,000 至 100,000 日圓。第四，雲端攝影機的隱私與安全——每一台含雲端元件的 WiFi 攝影機都曾在公開報導中遭駭（2019年 Ring 撞庫、2019年 Nest 未授權存取、2022至2023年 Wyze 的 CSAM 審查與帳號混淆事件），而買家實際可行的緩解措施是在攝影機帳號上啟用雙重驗證、外加一個獨立的訪客 WiFi 網路，並誠實承認本地儲存攝影機（Eufy）的攻擊面小於純雲端攝影機（Furbo、Petcube）。第五，單寵物對比多寵物、對比公寓貓、對比分離焦慮狗的適配——這五款攝影機沒有一款是萬用最佳，正確的選擇取決於目標是為狗減輕焦慮、隨意查看公寓裡的貓、為多寵物家庭做多房間涵蓋，還是入門級的遠端觀看。",
+        "我們並未對這五款攝影機進行獨立的延遲測試、音訊測量、分離焦慮試驗或韌體滲透測試。請把這些建議視為以製造商規格、彙整的長期評論模式與雲端攝影機事件歷史的公開報導為依據的知情選品決定——而非硬體測試實驗室或獸醫行為診所的產出。任何人若聲稱對五款寵物攝影機做了毫秒級精準的延遲測量卻沒有點名測試平台，那是在編造。"
       ]
     },
     {
-      "heading": "Pet-specific vs generic security cam — the real tradeoff",
+      "heading": "寵物專用機對比通用監視器——真正的取捨",
       "paragraphs": [
-        "The category splits cleanly. Furbo 360 and Petcube Cam are pet-specific cameras — the hardware was designed around dog and cat behavior, the AI models are trained on bark and meow audio plus pet-shaped motion patterns, the treat-dispense or laser-pointer hardware exists to give the human a way to interact with the pet during the day, and the marketing copy and the customer-service team understand that the buyer is a worried pet owner rather than a homeowner with theft concerns. The price premium versus a generic indoor security camera (roughly 2-5x the box price plus the subscription) buys this pet-focus.",
-        "Wyze Cam v3 and Eufy Indoor Cam 2K Pan & Tilt are general-purpose indoor security cameras that happen to work as pet cameras. The hardware was designed for monitoring rooms and entryways for security purposes, the AI models are trained on person-and-package classification with pet detection bolted on as a secondary feature, no treat or laser hardware exists, and the marketing copy targets homeowners worried about break-ins rather than pet owners worried about Fido alone all day. The cost is one-third to one-fifth of the pet-specific tier and the per-room scaling is much cheaper if the household has three rooms to cover.",
-        "The honest tradeoff. If you have a single dog with separation anxiety who responds to your voice and might be soothed by a treat reward, the pet-specific premium tier is engineering-correct because the bark-detection AI and the treat dispense are the features you actually want; the price premium and the subscription are the cost of that pet-focus. If you have an apartment cat who mostly sleeps in the sun and occasionally walks across the camera frame, the pet-specific premium is wasted money because cats ignore treat-toss devices and the bark-detection AI does nothing for a quiet cat, and the right pick is a generic indoor cam with pet motion alerts at one-third the price. If you have a multi-pet household with three rooms to cover, the per-room cost of the pet-specific tier (28,000 yen times 3 plus subscription times 3) becomes irrational and the right pick is the generic indoor cam tier. The middle case — one dog, mild anxiety, the treat-toss is a nice-to-have but not the primary goal — is where the mid-tier Pawbo or PetSafe treat-dispenser cameras live, with lower subscription burden and lower box price than Furbo at the cost of weaker AI and lower video quality.",
-        "Pawbo and PetSafe sit awkwardly in the middle. Treat dispense without the dog-trained AI, lower video resolution than Furbo (720p versus 1080p), and app reliability that varies by reviewer. The mid-tier exists because some buyers want the treat hardware without the Furbo subscription premium, and the tradeoff is real but not flattering."
+        "這個類別劃分得很乾淨。Furbo 360 與 Petcube Cam 是寵物專用攝影機——硬體是圍繞著狗與貓的行為設計的，AI 模型是以吠叫與喵叫音訊外加寵物形狀的動作模式訓練的，拋零食或雷射筆硬體的存在是為了讓人在白天有方式與寵物互動，而行銷文案與客服團隊都明白買家是一位擔心的寵物飼主，而非有遭竊顧慮的屋主。相對於通用室內監視器的價格溢價（約為機身價格的 2 至 5 倍再加上訂閱費），買到的就是這份對寵物的專注。",
+        "Wyze Cam v3 與 Eufy Indoor Cam 2K Pan & Tilt 是恰好能當寵物攝影機用的通用型室內監視器。硬體是為了基於安防目的監看房間與門口而設計的，AI 模型是針對人與包裹分類訓練的，寵物偵測是後加的次要功能，沒有任何零食或雷射硬體，行銷文案瞄準的是擔心被闖空門的屋主，而非擔心狗狗整天獨自在家的寵物飼主。費用是寵物專用層級的三分之一到五分之一，若家中有三個房間要涵蓋，每房間的擴充成本也便宜得多。",
+        "誠實的取捨。如果你只養一隻有分離焦慮、會回應你的聲音、可能因零食獎勵而被安撫的狗，寵物專用高階層級在工程上是正確的，因為吠叫偵測 AI 與拋零食正是你真正想要的功能；價格溢價與訂閱費就是這份對寵物的專注所需的成本。如果你養的是一隻多半曬太陽睡覺、偶爾走過鏡頭的公寓貓，寵物專用高階機就是浪費錢，因為貓會無視拋零食裝置，吠叫偵測 AI 對安靜的貓毫無作用，正確選擇是一台價格只有三分之一、附寵物動作警示的通用室內機。如果你是有三個房間要涵蓋的多寵物家庭，寵物專用層級的每房間成本（28,000 日圓乘以 3 再加上訂閱費乘以 3）就變得不合理，正確選擇是通用室內機層級。中間情況——一隻狗、輕度焦慮、拋零食是加分但非主要目標——正是中階的 Pawbo 或 PetSafe 拋零食攝影機所在之處，訂閱負擔與機身價格都低於 Furbo，代價是較弱的 AI 與較低的影像畫質。",
+        "Pawbo 與 PetSafe 尷尬地卡在中間。有拋零食但沒有受狗訓練的 AI，影像解析度低於 Furbo（720p 對比 1080p），app 的可靠度因評論者而異。這個中階層級的存在，是因為有些買家想要零食硬體卻不想要 Furbo 的訂閱溢價，取捨是真實的，但不討喜。"
       ]
     },
     {
-      "heading": "Treat dispense, laser, two-way audio — when each actually helps",
+      "heading": "拋零食、雷射、雙向語音——各自何時真的有幫助",
       "paragraphs": [
-        "Treat dispense first. The Furbo and the Pawbo and the PetSafe treat-cameras let you trigger a kibble or a small treat from the smartphone app while you watch the dog react. The marketing video shows a happy lab-mix catching a treat mid-air and the implication is the daily treat-toss reduces separation anxiety. The long-term review pattern is more honest: in the first two weeks, the dog learns the camera-noise-then-treat sequence and is enthusiastic; somewhere between week 2 and week 6, most dogs stop reacting to the camera noise as a positive signal and start treating it as background noise; some dogs continue to engage if the treat-toss is paired with a video call from the human; cats almost universally ignore the treat dispense after the first investigation. The treat slot also jams — kibble shape, humidity, and the slot mechanism interact to produce a jam roughly every 2-4 weeks for most owners, and the cleaning ritual is awkward.",
-        "Laser pointer second. Petcube Play 2 and similar premium models include a laser pointer the human can drive from the app. Cats engage with this for the first few sessions, dogs engage less consistently, and the veterinary behavior literature is cautious about laser play because the cat or dog never gets to physically catch the prey and the unsatisfied prey-drive can produce obsessive behavior in animals that are already prone to anxiety. The recommendation from many veterinary behaviorists is to end every laser session with a physical toy the pet can actually catch, which the camera-mediated remote laser play does not provide.",
-        "Two-way audio third. Every camera in this comparison has two-way audio. The honest pattern: dogs that are already bonded to the human voice respond well and the audio can soothe a separation-anxious dog who recognizes the owner; dogs that are stressed and confused often respond worse because the disembodied voice without the owner physically present amplifies the confusion; cats mostly ignore the audio; and the speaker quality on consumer pet cameras (small speakers, lossy compression, network jitter) is meaningfully worse than a phone call, which matters because dogs hear a wider frequency range than humans and a tinny speaker that sounds 'fine' to the human owner can sound harsh to the dog. Use two-way audio as a check-in tool with a calm dog that knows your voice; don't use it as a daily intervention with an anxious dog without consulting a veterinary behaviorist.",
-        "The honest summary. Treat dispense, laser, and two-way audio are real features and they do help in specific situations, but the marketing video is consistently more flattering than the 6-month review thread. Buy the premium pet-specific camera for the AI alerts and the bark detection (which run constantly and provide ongoing value), not for the treat-toss and laser play (which most dogs stop engaging with after two weeks)."
+        "先談拋零食。Furbo 與 Pawbo 與 PetSafe 的零食攝影機讓你能從智慧型手機 app 觸發一顆飼料或一份小零食，同時看著狗的反應。行銷影片裡是一隻開心的拉布拉多混種半空中接住零食，暗示每日拋零食能減輕分離焦慮。長期評論的模式更為誠實：頭兩週，狗學會「攝影機聲音接著零食」的順序而興致勃勃；在第 2 到第 6 週之間，多數狗不再把攝影機的聲音當成正向訊號，開始把它當成背景噪音；有些狗若拋零食搭配飼主的視訊通話，會持續參與；貓則幾乎一律在第一次調查後就無視拋零食。零食出口也會卡住——飼料形狀、濕度與出口機構交互作用，對多數飼主而言大約每 2 到 4 週卡一次，而清潔的步驟很麻煩。",
+        "其次是雷射筆。Petcube Play 2 與類似的高階機型內含一支人可以從 app 操控的雷射筆。貓在頭幾次會參與，狗的參與較不穩定，而獸醫行為學文獻對雷射遊戲持謹慎態度，因為貓或狗永遠無法實際抓到獵物，未被滿足的捕獵驅力可能在本就傾向焦慮的動物身上產生強迫行為。許多獸醫行為學家的建議是，每次雷射遊戲都要以一個寵物真的能抓到的實體玩具收尾，而攝影機介接的遠端雷射遊戲並不提供這一點。",
+        "第三是雙向語音。這個比較中的每一台攝影機都有雙向語音。誠實的模式是：已經與人聲建立連結的狗反應良好，這個語音能安撫一隻認得飼主的分離焦慮狗；而緊張困惑的狗往往反應更差，因為沒有飼主實際在場的無形聲音放大了困惑；貓多半無視語音；而消費級寵物攝影機上的喇叭品質（小型喇叭、有損壓縮、網路抖動）明顯比一通電話差，這很重要，因為狗能聽到比人類更寬的頻率範圍，一個對人類飼主聽起來「還好」的單薄喇叭，對狗來說可能很刺耳。把雙向語音當成對一隻認得你聲音、情緒平穩的狗的查看工具；別在沒有諮詢獸醫行為學家的情況下，把它當成對焦慮狗的每日介入手段。",
+        "誠實的總結。拋零食、雷射與雙向語音都是真實的功能，在特定情況下確實有幫助，但行銷影片始終比六個月後的評論串美化得多。買高階寵物專用攝影機是為了 AI 警示與吠叫偵測（這些持續運作並提供長久價值），而不是為了拋零食與雷射遊戲（多數狗兩週後就不再參與）。"
       ]
     },
     {
-      "heading": "Subscriptions are the real cost",
+      "heading": "訂閱費才是真正的成本",
       "paragraphs": [
-        "The box price on the pet-camera shelf undercounts the real cost. Furbo's premium AI features (Smart Alerts, Activity, Doggie Diary, Furbo Dog Nanny barking and selfie alerts) are gated behind the Furbo Dog Nanny subscription priced at roughly 700-1,400 yen per month depending on the regional plan and the multi-month discount. Petcube Care is similar — the cloud video history, motion-detection zones, and pet-recognition AI are subscription-gated at comparable monthly pricing. Wyze offers Cam Plus at roughly 200-300 yen per month per camera for cloud video and AI events; without the subscription, the camera works but loses the cloud event history. Eufy's premium feature set is mostly subscription-free because the architecture is local-storage, which is one of the meaningful advantages of the local-storage tier.",
-        "Run the 5-year math. Furbo 360 at roughly 28,000 yen plus Furbo Nanny at 1,000 yen per month for 60 months is 28,000 + 60,000 = 88,000 yen — the box is roughly one-third of the lifetime cost. Petcube Cam at roughly 12,000 yen plus Petcube Care at 800 yen per month is 12,000 + 48,000 = 60,000 yen — the box is one-fifth of the lifetime cost. Wyze Cam v3 at 4,800 yen plus optional Cam Plus at 250 yen per month is 4,800 + 15,000 = 19,800 yen, and many Wyze users skip Cam Plus and accept the 12-second cooldown between cloud events. Pawbo or PetSafe treat dispenser at roughly 18,000 yen with cloud history typically included free or at low cost is closer to a one-time purchase. Eufy Indoor Cam 2K Pan and Tilt at roughly 9,800 yen with local microSD storage and no subscription required is the honest budget-friendly answer if you can accept the lack of pet-specific AI.",
-        "The framing reviewers skip. A 28,000 yen Furbo with a 60,000 yen subscription bill across 5 years means the buyer should be deciding whether the treat dispense and the bark-trained AI are worth 88,000 yen total, not whether they're worth 28,000 yen. For a separation-anxious dog where the camera is part of an active mitigation strategy, that math may pencil; for a casual owner who wants to check on the cat from the office, the same math is hard to defend versus the 19,800-yen Wyze lifetime cost or the 9,800-yen Eufy that skips subscriptions entirely.",
-        "Subscription pricing also changes. Furbo's pricing structure has been adjusted multiple times since the original Furbo 360 launch, several existing subscribers reported price-increase notices in 2024-2025, and the implied 5-year math is sensitive to the brand's pricing roadmap that the buyer cannot see at purchase time. Petcube and Wyze have similarly adjusted subscription pricing across multiple iterations. The honest framing: assume the monthly rate is the floor not the ceiling, and budget for 10-20 percent monthly-rate creep across the camera lifetime."
+        "寵物攝影機貨架上的機身價格低估了真實成本。Furbo 的高階 AI 功能（智慧警示、活動、狗狗日記、Furbo Dog Nanny 的吠叫與自拍警示）被鎖在 Furbo Dog Nanny 訂閱之後，依地區方案與多月折扣不同，月費約 700 至 1,400 日圓。Petcube Care 類似——雲端影片歷史、動作偵測區域與寵物辨識 AI 都被鎖在訂閱之後，月費相當。Wyze 提供 Cam Plus，每台攝影機約每月 200 至 300 日圓，提供雲端影片與 AI 事件；沒有訂閱，攝影機仍可運作，但會失去雲端事件歷史。Eufy 的高階功能組合大多免訂閱，因為其架構是本地儲存，這是本地儲存層級有意義的優勢之一。",
+        "來算五年帳。Furbo 360 約 28,000 日圓，加上 Furbo Nanny 每月 1,000 日圓共 60 個月，就是 28,000 + 60,000 = 88,000 日圓——機身約佔終身成本的三分之一。Petcube Cam 約 12,000 日圓，加上 Petcube Care 每月 800 日圓，就是 12,000 + 48,000 = 60,000 日圓——機身約佔終身成本的五分之一。Wyze Cam v3 約 4,800 日圓，加上選配的 Cam Plus 每月 250 日圓，就是 4,800 + 15,000 = 19,800 日圓，而許多 Wyze 用戶會跳過 Cam Plus，接受雲端事件之間 12 秒的冷卻時間。Pawbo 或 PetSafe 拋零食機約 18,000 日圓，雲端歷史通常免費或低價包含在內，較接近一次性購買。Eufy Indoor Cam 2K Pan and Tilt 約 9,800 日圓，採本地 microSD 儲存且無需訂閱，若你能接受缺乏寵物專用 AI，這是誠實的省錢答案。",
+        "評論者略過的框架。一台 28,000 日圓的 Furbo 加上五年內 60,000 日圓的訂閱帳單，意味著買家該決定的是拋零食與受吠叫訓練的 AI 是否值得總共 88,000 日圓，而非是否值得 28,000 日圓。對一隻攝影機是主動緩解策略一環的分離焦慮狗，這筆帳或許算得過；對一位想從辦公室查看貓的隨意飼主，同一筆帳相較於 Wyze 19,800 日圓的終身成本，或完全跳過訂閱的 9,800 日圓 Eufy，就很難站得住腳。",
+        "訂閱定價也會變動。自最初的 Furbo 360 上市以來，Furbo 的定價結構已調整過多次，數名既有訂閱者回報在2024至2025年收到漲價通知，而隱含的五年帳對品牌的定價路線圖很敏感，那是買家在購買當下看不到的。Petcube 與 Wyze 同樣在多次迭代中調整過訂閱定價。誠實的框架是：假設月費是下限而非上限，並為攝影機使用壽命內 10 至 20% 的月費攀升預留預算。"
       ]
     },
     {
-      "heading": "Privacy and camera hacking — the cloud-camera reality",
+      "heading": "隱私與攝影機遭駭——雲端攝影機的現實",
       "paragraphs": [
-        "Every cloud-connected indoor camera has been hacked in the public record. Ring's 2019 credential-stuffing wave gave attackers access to thousands of consumer Ring cameras and the talk-through-the-camera audio attacks that followed got national coverage in the US press. Nest had unauthorized-access incidents in 2019 with attackers using stolen credentials from unrelated breaches to log into camera accounts. Wyze's 2022-2023 incident timeline includes a CSAM-moderation episode that surfaced concerning practices in the cloud-video review pipeline, plus a 2024 account-mixup incident where users briefly saw video feeds from other users' cameras due to a caching bug. None of these incidents were Furbo or Petcube specifically, but the pattern across the cloud-camera category is the issue, not any single brand.",
-        "The realistic buyer mitigation. First, enable two-factor authentication on the camera account — credential-stuffing attacks rely on the same email and password reused across multiple sites, and 2FA defeats the most common attack pattern. Second, put the camera on a separate guest WiFi network rather than the main household network — if the camera firmware is compromised, the attacker should not have lateral access to your laptop and your file server and your other smart-home devices. Third, treat the camera microphone as always-potentially-on — do not have intimate conversations or reveal financial information in the camera's audio range, because the camera firmware can be remotely activated and the cloud video and audio can be subpoenaed in legal proceedings. Fourth, prefer local-storage cameras (Eufy with microSD) over cloud-only cameras (Furbo, Petcube) when the threat model permits, because the local-storage architecture removes the cloud as an attack surface.",
-        "The honest tradeoff. The pet-specific cameras (Furbo, Petcube) are cloud-architecture by design because the AI features run in the cloud and the remote-treat-toss requires a low-latency cloud round-trip. The local-storage option (Eufy) gives up most of the AI feature set and most of the remote-interaction features in exchange for a smaller attack surface. The Wyze Cam v3 sits awkwardly in the middle — it supports both cloud (Cam Plus) and local microSD storage, but the company's incident history includes the 2022-2023 episodes mentioned above and any buyer should read the public reporting on those before committing to the brand.",
-        "Camera placement matters too. Don't aim the camera at a window where the camera sees out into a public street (privacy issues for passers-by under several jurisdictions including parts of Japan), don't place the camera where it captures bedrooms or bathrooms (obvious privacy issues if the feed is compromised), and unplug the camera physically when guests are visiting if you want the feed verifiably off. The camera firmware's own 'off' state is a software state that can theoretically be overridden by a compromised cloud or a firmware bug; the wall plug is the only verifiably-off state."
+        "每一台連雲端的室內攝影機都曾在公開紀錄中遭駭。Ring 在2019年的撞庫潮讓攻擊者存取了數千台消費級 Ring 攝影機，隨之而來透過攝影機對話的語音攻擊在美國媒體獲得全國性報導。Nest 在2019年發生未授權存取事件，攻擊者利用從無關外洩事件竊得的憑證登入攝影機帳號。Wyze 在2022至2023年的事件時間軸包括一段 CSAM 審查事件，揭露了雲端影片審查流程中令人擔憂的做法，外加一起2024年的帳號混淆事件，使用者因快取錯誤而短暫看到其他使用者攝影機的影像畫面。這些事件並非 Furbo 或 Petcube 特有，但問題在於雲端攝影機這整個類別的模式，而非任何單一品牌。",
+        "買家實際可行的緩解措施。第一，在攝影機帳號上啟用雙重驗證——撞庫攻擊仰賴在多個網站重複使用的同一組電子郵件與密碼，雙重驗證能挫敗最常見的攻擊模式。第二，把攝影機接在獨立的訪客 WiFi 網路上，而非家中主網路——若攝影機韌體被入侵，攻擊者不應能橫向存取你的筆電、檔案伺服器與其他智慧家庭裝置。第三，把攝影機麥克風當成隨時可能開著的——別在攝影機收音範圍內進行私密對話或透露財務資訊，因為攝影機韌體可被遠端啟動，雲端影片與音訊在法律程序中可被傳喚。第四，在威脅模型允許時，優先選擇本地儲存攝影機（搭配 microSD 的 Eufy）而非純雲端攝影機（Furbo、Petcube），因為本地儲存架構去除了雲端這個攻擊面。",
+        "誠實的取捨。寵物專用攝影機（Furbo、Petcube）在設計上就是雲端架構，因為 AI 功能在雲端運行，遠端拋零食需要低延遲的雲端往返。本地儲存選項（Eufy）放棄了大部分 AI 功能組合與大部分遠端互動功能，換取較小的攻擊面。Wyze Cam v3 尷尬地卡在中間——它同時支援雲端（Cam Plus）與本地 microSD 儲存，但該公司的事件歷史包括上述2022至2023年的事件，任何買家在認定該品牌之前都該閱讀那些公開報導。",
+        "攝影機擺放位置也很重要。別把攝影機對準能拍到公共街道的窗戶（在包括日本部分地區的多個司法管轄區，對路人會有隱私問題），別把攝影機放在會拍到臥室或浴室的地方（若畫面被入侵，明顯的隱私問題），若你想確保畫面確實關閉，有客人來訪時就把攝影機實體拔掉插頭。攝影機韌體本身的「關閉」狀態是一種軟體狀態，理論上可被入侵的雲端或韌體漏洞覆寫；牆上的插頭才是唯一可驗證的關閉狀態。"
       ]
     },
     {
-      "heading": "What changed in 2026",
+      "heading": "2026年的變化",
       "paragraphs": [
-        "Local AI inference moved into the premium tier. Through 2024-2025, several pet-camera brands started running bark detection and motion classification on-device rather than round-tripping audio and video to the cloud for inference. The user-visible benefits are lower latency on the alert delivery (the alert fires in 1-2 seconds instead of 5-15 seconds), reduced cloud bandwidth and lower cloud-storage costs that some brands are passing through as subscription discounts, and a meaningfully smaller privacy surface because the audio and video do not leave the home network for the inference step. Furbo's 2025 firmware update moved part of the bark-detection inference on-device, and Petcube's 2025 hardware refresh added an on-device chip for motion classification. The pattern is spreading from the premium tier into the mid-tier through 2026.",
-        "Matter and Apple HomeKit integration spread. The Matter smart-home standard reached enough adoption through 2024-2025 that several pet-camera brands added Matter compatibility, which means the camera can be controlled from the same smart-home app that drives the lights and the thermostat rather than requiring a brand-specific app. Apple HomeKit Secure Video integration also spread, which gives iCloud users on-device encrypted cloud storage of camera clips that Apple cannot decrypt — a meaningful privacy improvement over the brand's cloud video architecture. Eufy supports HomeKit, Wyze partially supports it, Furbo and Petcube are mixed. Buyers who already run Apple HomeKit at home should prioritize HomeKit-compatible cameras for the integration value alone.",
-        "Wyze brand reputation took a hit. The 2022-2023 incidents discussed above, plus a 2024 account-mixup episode, plus periodic firmware-update issues left Wyze with a meaningfully diminished brand reputation in the pet-camera community even though the hardware remains the cheapest competent option. Reviewers who recommended Wyze as the budget pick before 2022 now caveat the recommendation with the security history. The honest 2026 framing for Wyze: the camera is cheap, the hardware works, and the buyer should read the public reporting on the brand's incident history before deciding the price is worth the security risk.",
-        "Furbo subscription pricing went up. Furbo Dog Nanny subscription pricing was adjusted upward through 2024-2025 across several regional plans, and existing subscribers reported price-change notices that pushed the monthly rate by 15-25 percent. The 5-year cost math at 2026 prices is meaningfully higher than the 2022 baseline, and buyers who priced the camera against the older subscription rate should re-run the math at 2026 pricing before reordering or renewing.",
-        "Eufy expanded the local-storage and HomeKit value proposition. Anker's Eufy line continued the no-subscription-required positioning across 2024-2026, expanded HomeKit Secure Video support, and the Indoor Cam 2K Pan and Tilt sits as the strongest local-storage indoor pick in the sub-15,000-yen band. The honest caveat: Eufy is general-purpose indoor security and not pet-specific, so the buyer is choosing the privacy and cost advantages over the bark-detection and treat-dispense pet-specific feature set."
+        "本地 AI 推論進入高階層級。在2024至2025年間，數個寵物攝影機品牌開始在裝置端運行吠叫偵測與動作分類，而非把音訊與影片往返雲端做推論。使用者可見的好處是警示送達的延遲更低（警示在 1 至 2 秒內觸發，而非 5 至 15 秒）、雲端頻寬降低與雲端儲存成本降低（有些品牌以訂閱折扣回饋），以及隱私面顯著縮小，因為推論步驟中音訊與影片不離開家中網路。Furbo 的2025年韌體更新把部分吠叫偵測推論移到裝置端，Petcube 的2025年硬體改版加入了用於動作分類的裝置端晶片。這個模式正在2026年間從高階層級擴散到中階層級。",
+        "Matter 與 Apple HomeKit 整合普及。Matter 智慧家庭標準在2024至2025年間達到足夠的採用度，使數個寵物攝影機品牌加入 Matter 相容性，這意味著攝影機可以從驅動燈光與恆溫器的同一個智慧家庭 app 控制，而非需要品牌專屬 app。Apple HomeKit Secure Video 整合也普及開來，讓 iCloud 使用者擁有裝置端加密的攝影機片段雲端儲存，連 Apple 都無法解密——相較於品牌的雲端影片架構，這是有意義的隱私改善。Eufy 支援 HomeKit，Wyze 部分支援，Furbo 與 Petcube 則參差不齊。家中已在使用 Apple HomeKit 的買家，光是整合價值就該優先考慮相容 HomeKit 的攝影機。",
+        "Wyze 品牌聲譽受創。上文討論的2022至2023年事件，加上2024年的帳號混淆事件，加上週期性的韌體更新問題，使 Wyze 在寵物攝影機社群中的品牌聲譽明顯下滑，即使其硬體仍是最便宜的稱職選擇。在2022年之前把 Wyze 推薦為入門選擇的評論者，如今會在建議中附上安全歷史的但書。對 Wyze 誠實的2026年框架是：攝影機便宜、硬體可用，買家在認定價格值得這個安全風險之前，該閱讀該品牌事件歷史的公開報導。",
+        "Furbo 訂閱漲價了。Furbo Dog Nanny 的訂閱定價在2024至2025年間於數個地區方案中向上調整，既有訂閱者回報收到漲價通知，使月費上漲了 15 至 25%。以2026年價格計算的五年成本帳明顯高於2022年的基準，依舊訂閱費率為攝影機估算的買家，在重新下單或續約前該以2026年定價重算這筆帳。",
+        "Eufy 擴大了本地儲存與 HomeKit 的價值主張。Anker 的 Eufy 系列在2024至2026年間延續了免訂閱的定位，擴大了 HomeKit Secure Video 支援，而 Indoor Cam 2K Pan and Tilt 是 15,000 日圓以下價位中最強的本地儲存室內選擇。誠實的但書是：Eufy 是通用型室內安防而非寵物專用，因此買家是選擇隱私與成本的優勢，而非吠叫偵測與拋零食的寵物專用功能組合。"
       ]
     },
     {
-      "heading": "Where each fits — apartment cat, separation-anxiety dog, multi-pet, budget",
+      "heading": "各自適合誰——公寓貓、分離焦慮狗、多寵物、預算",
       "paragraphs": [
-        "Apartment cat owner. The cat sleeps 16 hours a day, occasionally walks across the camera frame, and the goal is mid-day check-ins from the office plus occasional confirmation that the cat hasn't done something destructive. The pet-specific premium tier is wasted money — cats don't engage with treat-toss or laser-pointer interaction over the long term, and the bark-detection AI is irrelevant for a quiet animal. The right pick is Eufy Indoor Cam 2K Pan and Tilt at roughly 9,800 yen with local microSD storage, no subscription, HomeKit support if the household uses Apple, and 360-degree pan to find the cat wherever it is napping. The honest weakness: no pet-specific AI alerts, so the camera will not text you 'cat appears agitated' the way the marketing on a Furbo implies.",
-        "Separation-anxiety dog. The dog is the actual case the pet-specific category was designed for — vocalizes when alone, the owner is actively working with a veterinary behaviorist on a desensitization plan, and the camera is part of an active mitigation strategy that includes audio check-ins, occasional treat-toss as a positive reinforcer, and bark-detection alerts that let the owner know when an episode is starting. The right pick is Furbo 360 at roughly 28,000 yen plus Furbo Nanny subscription, used in coordination with the behaviorist's plan rather than as a standalone fix. The honest weakness: the subscription cost across 5 years pushes the lifetime cost to roughly 88,000 yen and the camera alone does not solve separation anxiety — without the behaviorist's plan, the camera mostly documents the anxiety rather than reducing it.",
-        "Multi-pet household with three rooms. The kitchen, the living room, and the bedroom each need a camera to cover where the dogs and cats actually spend time. The per-room cost of the pet-specific tier (28,000 yen times 3 plus subscription times 3) is irrational. The right pick is multiple Wyze Cam v3 at roughly 4,800 yen each (three cameras for under 15,000 yen) or Eufy Indoor Cam 2K Pan and Tilt at roughly 9,800 yen each (three cameras for roughly 30,000 yen). The honest weakness: with Wyze the buyer accepts the brand's incident history, with Eufy the buyer accepts the absence of pet-specific AI features.",
-        "Budget pick. Want a working pet camera for under 5,000 yen and willing to accept the absence of pet-specific features and the brand's security history. Wyze Cam v3 at roughly 4,800 yen with color night vision, 1080p video, and microSD local storage is the budget pick. The honest weakness: not pet-specific (no bark detection, no treat dispense, no pet-aimed audio profile), recent privacy and CSAM-moderation controversies that have damaged the brand reputation, and the cloud event history requires Cam Plus at roughly 250 yen per month per camera which most budget-tier buyers skip and accept the 12-second cooldown between cloud events.",
-        "Mid-tier treat-dispenser pick. Want the treat-toss hardware without the Furbo subscription premium, accept lower video resolution and weaker AI than Furbo, and willing to deal with the treat-jam frequency that all kibble-mechanism cameras share. Pawbo or PetSafe treat-dispenser camera at roughly 18,000 yen with 720p video and basic scheduling sits in the gap. The honest weakness: video quality is meaningfully below Furbo, the dog-specific AI is absent or rudimentary, app reliability varies in long-term reviews, and the treat-refill access on the unit is awkward enough that several reviewers report giving up on the daily refill ritual after a few months."
+        "公寓貓飼主。貓一天睡 16 小時，偶爾走過鏡頭，目標是從辦公室在白天查看，外加偶爾確認貓沒有做出破壞性的事。寵物專用高階層級是浪費錢——貓長期下來不會參與拋零食或雷射筆互動，而吠叫偵測 AI 對一隻安靜的動物毫無意義。正確選擇是約 9,800 日圓的 Eufy Indoor Cam 2K Pan and Tilt，採本地 microSD 儲存、無需訂閱、若家中用 Apple 則支援 HomeKit，並有 360 度水平旋轉以找到貓不管在哪打盹。誠實的弱點：沒有寵物專用 AI 警示，所以攝影機不會像 Furbo 行銷暗示的那樣傳訊告訴你「貓看起來焦躁」。",
+        "分離焦慮狗。狗才是寵物專用類別真正為其設計的對象——獨自時會吠叫、飼主正積極與獸醫行為學家合作擬定減敏計畫，而攝影機是主動緩解策略的一環，包括語音查看、偶爾以拋零食作為正向強化物，以及讓飼主知道何時發作開始的吠叫偵測警示。正確選擇是約 28,000 日圓的 Furbo 360 加上 Furbo Nanny 訂閱，配合行為學家的計畫使用，而非當成獨立的解方。誠實的弱點：五年的訂閱費用把終身成本推到約 88,000 日圓，而光靠攝影機並不能解決分離焦慮——沒有行為學家的計畫，攝影機多半只是記錄焦慮而非減輕它。",
+        "有三個房間的多寵物家庭。廚房、客廳與臥室各需要一台攝影機，才能涵蓋狗與貓實際待著的地方。寵物專用層級的每房間成本（28,000 日圓乘以 3 再加上訂閱費乘以 3）並不合理。正確選擇是多台約 4,800 日圓的 Wyze Cam v3（三台不到 15,000 日圓）或多台約 9,800 日圓的 Eufy Indoor Cam 2K Pan and Tilt（三台約 30,000 日圓）。誠實的弱點：選 Wyze 買家要接受該品牌的事件歷史，選 Eufy 買家要接受沒有寵物專用 AI 功能。",
+        "預算選擇。想要一台 5,000 日圓以下能用的寵物攝影機，並願意接受沒有寵物專用功能與該品牌的安全歷史。約 4,800 日圓的 Wyze Cam v3，具備彩色夜視、1080p 影像與 microSD 本地儲存，就是預算選擇。誠實的弱點：非寵物專用（無吠叫偵測、無拋零食、無針對寵物的音訊設定檔）、近期損害品牌聲譽的隱私與 CSAM 審查爭議，以及雲端事件歷史需要每台攝影機每月約 250 日圓的 Cam Plus，多數預算層級買家會跳過並接受雲端事件之間 12 秒的冷卻時間。",
+        "中階拋零食選擇。想要拋零食硬體卻不想要 Furbo 的訂閱溢價，接受影像解析度與 AI 都比 Furbo 弱，並願意應付所有飼料機構攝影機共有的零食卡住頻率。約 18,000 日圓、具 720p 影像與基本排程的 Pawbo 或 PetSafe 拋零食攝影機正好填補這個空隙。誠實的弱點：影像畫質明顯低於 Furbo、缺乏或僅有粗淺的狗專用 AI、長期評論中 app 可靠度參差，而機身上的零食補充口麻煩到數名評論者回報幾個月後就放棄了每日補充的儀式。"
       ]
     },
     {
-      "heading": "Verdict",
+      "heading": "結論",
       "paragraphs": [
-        "For separation-anxiety dogs where the camera is part of an active mitigation strategy with a veterinary behaviorist, the right buy is Furbo 360 Dog Camera at roughly 28,000 yen plus Furbo Nanny subscription. The pet-specific AI, the bark-detection alerts, and the treat-toss interaction are the features the category was built for, and the cost is justified when the camera is genuinely part of an anxiety-reduction plan. The trade you accept: 5-year cost of roughly 88,000 yen including subscription, treat-jam frequency, the cloud-architecture privacy surface, and the reality that the camera does not solve anxiety without a behaviorist's plan.",
-        "Step over to Petcube Cam at roughly 12,000 yen if you want pet-specific AI at a lower price than Furbo and do not need the treat dispense. Step over to Eufy Indoor Cam 2K Pan and Tilt at roughly 9,800 yen if you want a no-subscription local-storage camera with 360-degree pan, HomeKit integration, and you can live without pet-specific AI. Step over to multiple Wyze Cam v3 at 4,800 yen each if you have three or more rooms to cover and you have read the public reporting on the brand's 2022-2024 incident history and decided the price-versus-security tradeoff works for you. Step over to Pawbo or PetSafe treat-dispenser at roughly 18,000 yen if you want the treat hardware without the Furbo subscription and you accept the lower video quality and weaker AI.",
-        "We did not run independent latency tests, audio fidelity measurements, separation-anxiety trials, or firmware penetration testing on these five cameras. Recommendations are informed by manufacturer specs, aggregated long-term review patterns, and public reporting on cloud-camera incident history — not by a hardware testing lab. None of these five is the universal best pet camera. The right pick depends on the pet (apartment cat versus separation-anxiety dog versus multi-pet household), the budget envelope (one-time 5,000 yen versus 5-year 88,000 yen with subscription), and the buyer's tolerance for cloud-camera privacy risk."
+        "對於攝影機是與獸醫行為學家合作的主動緩解策略一環的分離焦慮狗，正確的購買是約 28,000 日圓的 Furbo 360 Dog Camera 加上 Furbo Nanny 訂閱。寵物專用 AI、吠叫偵測警示與拋零食互動正是這個類別被打造出來的功能，當攝影機確實是減輕焦慮計畫的一環時，這個成本是合理的。你接受的取捨是：含訂閱五年約 88,000 日圓的成本、零食卡住的頻率、雲端架構的隱私面，以及沒有行為學家的計畫攝影機就無法解決焦慮的現實。",
+        "若你想要比 Furbo 更低的價格取得寵物專用 AI 且不需要拋零食，可轉向約 12,000 日圓的 Petcube Cam。若你想要一台免訂閱、本地儲存、具 360 度旋轉與 HomeKit 整合、且能不要寵物專用 AI 的攝影機，可轉向約 9,800 日圓的 Eufy Indoor Cam 2K Pan and Tilt。若你有三個或更多房間要涵蓋、且已閱讀該品牌2022至2024年事件歷史的公開報導並判定價格對安全的取捨對你成立，可轉向多台各 4,800 日圓的 Wyze Cam v3。若你想要零食硬體卻不想要 Furbo 訂閱、並接受較低的影像畫質與較弱的 AI，可轉向約 18,000 日圓的 Pawbo 或 PetSafe 拋零食機。",
+        "我們並未對這五款攝影機進行獨立的延遲測試、音訊保真度測量、分離焦慮試驗或韌體滲透測試。建議是以製造商規格、彙整的長期評論模式與雲端攝影機事件歷史的公開報導為依據——而非硬體測試實驗室。這五款沒有一款是萬用最佳寵物攝影機。正確選擇取決於寵物（公寓貓對比分離焦慮狗對比多寵物家庭）、預算範圍（一次性 5,000 日圓對比含訂閱五年 88,000 日圓），以及買家對雲端攝影機隱私風險的容忍度。"
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Does my cat actually need a pet camera, or is a generic indoor cam fine?",
-      "a": "For most cat owners, a generic indoor cam is fine. Cats sleep 12-16 hours a day, occasionally walk across the camera frame, and rarely engage with treat-toss or laser-pointer interaction over the long term. The pet-specific AI features (bark detection, dog activity scoring) are largely irrelevant for cats, and the treat-dispense hardware that justifies the Furbo or Pawbo price premium is something most cats investigate once and then ignore. The honest recommendation for a quiet apartment cat is the Eufy Indoor Cam 2K Pan and Tilt at roughly 9,800 yen with local microSD storage, 360-degree pan to find the cat wherever it has napped, and no subscription requirement. The exception is a cat with a documented behavior issue (excessive vocalizing, destructive behavior tied to separation, post-rehoming adjustment) where you and a veterinary behaviorist have decided you need bark-and-meow audio detection plus video review — for that case, a pet-specific camera with cloud event history may be worth the cost."
+      "q": "我的貓真的需要寵物攝影機嗎，還是通用室內機就夠了？",
+      "a": "對多數貓飼主來說，通用室內機就夠了。貓一天睡 12 至 16 小時，偶爾走過鏡頭，長期下來很少參與拋零食或雷射筆互動。寵物專用 AI 功能（吠叫偵測、狗活動評分）對貓大多無關緊要，而足以合理化 Furbo 或 Pawbo 價格溢價的拋零食硬體，多數貓調查一次後就會無視。對一隻安靜的公寓貓，誠實的建議是約 9,800 日圓的 Eufy Indoor Cam 2K Pan and Tilt，採本地 microSD 儲存、有 360 度旋轉以找到貓不管在哪打盹過、且無需訂閱。例外是有記錄在案行為問題的貓（過度叫喚、與分離相關的破壞行為、重新安置後的調適），在你與獸醫行為學家已決定需要吠叫與喵叫音訊偵測加上影片審查的情況下——對那種情況，一台具雲端事件歷史的寵物專用攝影機可能值得這個成本。"
     },
     {
-      "q": "Will a pet camera actually reduce my dog's separation anxiety?",
-      "a": "Not on its own, no. The veterinary behavior literature is clear that separation anxiety in dogs is a clinical condition that responds to behavior modification (gradual desensitization to alone-time, counter-conditioning, sometimes anti-anxiety medication prescribed by a veterinarian) and not to a camera. A pet camera can be part of an active mitigation strategy by giving the human visibility into when episodes are starting, letting the human do calm voice check-ins, and letting the human time treat-toss reinforcement to specific calm moments — but the camera is a tool inside a behaviorist's plan, not a standalone fix. Buyers who buy a Furbo and expect the camera alone to fix separation anxiety are usually disappointed within 2-3 months. The honest framing: if your dog has separation anxiety severe enough to motivate the camera purchase, the dog also needs a veterinary behaviorist consultation, and the camera should be deployed as part of that plan."
+      "q": "寵物攝影機真的能減輕我的狗的分離焦慮嗎？",
+      "a": "光靠它本身不行。獸醫行為學文獻很明確：狗的分離焦慮是一種臨床狀況，會對行為矯正（逐步減敏獨處時間、反制約，有時是獸醫開立的抗焦慮藥物）有反應，而非對攝影機有反應。寵物攝影機可以是主動緩解策略的一環，讓人能看到何時發作開始、讓人做平靜的語音查看、讓人把拋零食強化的時機對準特定的平靜時刻——但攝影機是行為學家計畫內的一項工具，而非獨立的解方。買了 Furbo 並期望光靠攝影機就能解決分離焦慮的買家，通常在 2 至 3 個月內就會失望。誠實的框架是：如果你的狗分離焦慮嚴重到足以促使你購買攝影機，這隻狗也需要諮詢獸醫行為學家，而攝影機應作為那個計畫的一部分來部署。"
     },
     {
-      "q": "Do I really need the Furbo Nanny subscription, or is the box-only purchase usable?",
-      "a": "Without Furbo Nanny, the camera works as a basic 1080p camera with two-way audio and manual treat-toss, but most of the AI features that justify the box-price premium (bark detection alerts, activity tracking, Doggie Diary, smart selfie alerts) are subscription-gated. If you are buying Furbo specifically for the AI alerts, the subscription is not optional and the 5-year subscription cost (roughly 60,000 yen at 1,000 yen per month) needs to be added to the box price (roughly 28,000 yen) for the honest lifetime cost of roughly 88,000 yen. If you only want the basic camera and treat-toss, you would be better served by a Pawbo or PetSafe treat-dispenser at roughly 18,000 yen without the subscription premium, or by skipping the treat hardware entirely and buying an Eufy Indoor Cam 2K at roughly 9,800 yen."
+      "q": "我真的需要 Furbo Nanny 訂閱嗎，還是只買機身也能用？",
+      "a": "沒有 Furbo Nanny，攝影機可作為一台具雙向語音與手動拋零食的基本 1080p 攝影機運作，但多數足以合理化機身溢價的 AI 功能（吠叫偵測警示、活動追蹤、狗狗日記、智慧自拍警示）都被鎖在訂閱之後。如果你買 Furbo 就是為了 AI 警示，訂閱就不是選配，五年的訂閱成本（每月 1,000 日圓約 60,000 日圓）需要加到機身價格（約 28,000 日圓）上，得出約 88,000 日圓的誠實終身成本。如果你只想要基本攝影機與拋零食，那麼約 18,000 日圓、沒有訂閱溢價的 Pawbo 或 PetSafe 拋零食機，或乾脆完全跳過零食硬體買一台約 9,800 日圓的 Eufy Indoor Cam 2K，會更適合你。"
     },
     {
-      "q": "What WiFi do I need for a pet camera?",
-      "a": "All five cameras in this comparison require a 2.4 GHz WiFi network — none of the consumer pet cameras support 5 GHz only because the longer range and better wall penetration of 2.4 GHz matter more than the higher bandwidth for a single-camera 1080p stream. Practical requirements: a stable 2.4 GHz network, at least 2 Mbps upload bandwidth from your home internet (most consumer internet plans easily exceed this), reasonably consistent WiFi coverage in the room where the camera sits (a camera placed two walls away from the router with weak signal will cause repeated disconnects in the long-term reviews), and either a router that supports separate 2.4 and 5 GHz SSIDs or one that combines them transparently — some buyers on combined-SSID routers report initial pairing issues that resolve once they temporarily disable 5 GHz during pairing. For privacy, place the camera on a separate guest WiFi network rather than the main household network, so a compromised camera firmware does not expose the rest of your devices."
+      "q": "寵物攝影機需要什麼樣的 WiFi？",
+      "a": "這個比較中的五款攝影機都需要 2.4 GHz WiFi 網路——沒有一款消費級寵物攝影機只支援 5 GHz，因為對單機 1080p 串流而言，2.4 GHz 較長的傳輸距離與較佳的穿牆能力比較高的頻寬更重要。實際需求：一個穩定的 2.4 GHz 網路、家用網路至少 2 Mbps 的上傳頻寬（多數消費級網路方案都輕鬆超過）、攝影機所在房間有相當一致的 WiFi 涵蓋（一台放在離路由器隔兩道牆、訊號微弱處的攝影機，會在長期評論中造成反覆斷線），以及一台支援分開的 2.4 與 5 GHz SSID 或將兩者透明合併的路由器——有些用合併 SSID 路由器的買家回報初次配對問題，在配對時暫時停用 5 GHz 後即可解決。為了隱私，把攝影機接在獨立的訪客 WiFi 網路上而非家中主網路，這樣被入侵的攝影機韌體就不會暴露你其餘的裝置。"
     },
     {
-      "q": "Is the treat-dispenser hygienic? How often do I need to clean it?",
-      "a": "Hygiene is a real concern most reviews skip. The treat slot accumulates kibble dust, oils from the kibble, and humidity from the room, and the slot mechanism is mechanical with small gaps that accumulate residue over time. The realistic cleaning frequency is once every 2-4 weeks with the kibble emptied out, the slot wiped down with a damp cloth, and the camera body wiped down to remove the dust the kibble produces. Letting the kibble sit in the chamber for months produces stale-kibble odor that the dog can smell and may eventually refuse, plus the moisture-and-oil residue can attract pantry pests in humid Japanese summer conditions. Use the freshest possible kibble in the chamber, refill only as much as the dog will eat in 1-2 weeks, and clean the slot regularly. The treat-jam frequency is also tied to kibble shape — round kibble jams less than oddly shaped kibble, and greasy training treats are the worst case for slot reliability."
+      "q": "拋零食機衛生嗎？我需要多久清潔一次？",
+      "a": "衛生是多數評論略過的真實顧慮。零食出口會累積飼料粉塵、飼料的油脂與房間的濕氣，而出口機構是帶有小縫隙的機械結構，會隨時間累積殘渣。實際的清潔頻率是每 2 至 4 週一次，把飼料倒出、用濕布擦拭出口、並擦拭機身以清除飼料產生的粉塵。讓飼料在艙內放上數月會產生狗能聞到、最終可能拒吃的陳舊飼料異味，加上濕氣與油脂殘渣在日本潮濕的夏季條件下可能引來食品櫃害蟲。在艙內使用盡可能新鮮的飼料，只補充狗在 1 至 2 週內會吃完的量，並定期清潔出口。零食卡住的頻率也與飼料形狀有關——圓形飼料比形狀奇特的飼料更不易卡，而油膩的訓練零食是出口可靠度的最糟情況。"
     },
     {
-      "q": "Can I use a regular security camera as a pet camera?",
-      "a": "Yes, with caveats. Generic indoor security cameras (Wyze, Eufy, TP-Link Tapo, Aqara) work as pet cameras for the basic use case of seeing the pet on video and getting motion alerts. What you give up: pet-specific AI (bark detection, dog-vs-cat classification, activity scoring), treat-dispense or laser-pointer interactive hardware, and pet-aimed audio profiles tuned for the wider frequency range that dogs hear. What you gain: lower box price, lower or zero subscription cost, broader hardware ecosystem with more camera positions and accessories available, and often local-storage architecture that reduces the cloud-camera privacy surface. For an apartment cat or a relaxed adult dog who does not need the active interaction features, a generic security camera at one-third the cost is the engineering-correct pick. For an active separation-anxiety case where you want bark detection and audio check-ins, the pet-specific tier is worth the premium."
+      "q": "我可以用一般監視器當寵物攝影機嗎？",
+      "a": "可以，但有但書。通用室內監視器（Wyze、Eufy、TP-Link Tapo、Aqara）能勝任在影像上看到寵物並收到動作警示的基本用途。你放棄的是：寵物專用 AI（吠叫偵測、狗與貓分類、活動評分）、拋零食或雷射筆互動硬體，以及為狗能聽到的較寬頻率範圍調校的針對寵物音訊設定檔。你得到的是：較低的機身價格、較低或零的訂閱成本、更廣的硬體生態系且有更多攝影機位置與配件可選，以及通常採本地儲存架構而縮小雲端攝影機的隱私面。對一隻不需要主動互動功能的公寓貓或放鬆的成年狗，一台成本只有三分之一的通用監視器在工程上是正確的選擇。對於你想要吠叫偵測與語音查看的活躍分離焦慮情況，寵物專用層級值得這個溢價。"
     },
     {
-      "q": "What's the difference between Furbo and Petcube?",
-      "a": "Both are pet-specific cameras with cloud architecture and subscription-gated AI features. Furbo is dog-focused — the treat dispense, the bark-detection AI, the marketing copy, and the customer service all assume a dog owner. The Furbo 360 model adds 360-degree rotation. Petcube is more cat-and-dog general — the lower-end Petcube Cam is just a camera with two-way audio (no treat or laser), and the higher-end Petcube Bites and Petcube Play models add treat-toss and laser-pointer respectively. Petcube tends to be slightly cheaper at the box price but the subscription pricing is similar to Furbo. The pick: if you have a dog and you specifically want treat-toss plus bark detection, Furbo 360 is the closer fit; if you have a cat and you mostly want video and audio without the treat hardware, Petcube Cam is fine; if you have a multi-pet household and you want one consistent app, the Petcube line gives you a base model plus optional treat or laser models on the same account."
+      "q": "Furbo 與 Petcube 有什麼差別？",
+      "a": "兩者都是採雲端架構、AI 功能鎖在訂閱之後的寵物專用攝影機。Furbo 以狗為導向——拋零食、吠叫偵測 AI、行銷文案與客服都假定是狗飼主。Furbo 360 機型加入了 360 度旋轉。Petcube 較偏向貓狗通用——較入門的 Petcube Cam 只是一台具雙向語音的攝影機（無零食或雷射），而較高階的 Petcube Bites 與 Petcube Play 機型分別加入拋零食與雷射筆。Petcube 機身價格往往略便宜，但訂閱定價與 Furbo 相近。如何選：如果你養狗且特別想要拋零食加吠叫偵測，Furbo 360 較貼合；如果你養貓且多半只想要影像與語音而不要零食硬體，Petcube Cam 就夠了；如果你是多寵物家庭且想要一個一致的 app，Petcube 系列讓你在同一帳號上有基本機型加上選配的零食或雷射機型。"
     }
   ],
   "offerNotes": {
-    "furbo-360-dog-camera": "Treat-tossing dog-focused premium pick — roughly 28,000 yen Furbo 360 with 360-degree rotation, 1080p HD video, AI bark and activity alerts, treat dispense triggered from the smartphone app, two-way audio, dog-trained AI models, the category-defining premium pet camera since the original 2017 launch and refreshed across multiple iterations. Furbo Dog Nanny subscription at roughly 700-1,400 yen per month is required for the AI features that justify the box-price premium — without subscription the camera degrades to a 1080p camera with manual treat-toss and the 5-year cost works out to roughly 88,000 yen total when subscription is included; treat slot can jam roughly every 2-4 weeks depending on kibble shape and humidity and the cleaning ritual is awkward; dog-only design means cats almost universally ignore the treat dispense and the bark-detection AI is irrelevant for cats; cloud architecture means privacy surface includes Furbo's cloud servers and any future incident affecting the brand.",
-    "petcube-cam": "Affordable pet-specific starter pick — roughly 12,000 yen Petcube Cam with 1080p video, two-way audio, basic motion and sound alerts, simple base model from the Petcube line, more affordable than Furbo because the treat-toss and laser-pointer hardware is reserved for the higher-end Petcube Bites and Petcube Play models. No treat dispense or laser pointer on the base Petcube Cam — those are premium-tier features on the Petcube Bites and Play models that cost meaningfully more; motion alerts can be noisy with frequent false positives that some reviewers report reaching alert fatigue within the first month and disabling the alert feature; 110-degree field of view is narrower than Furbo's 360 and not enough for a large room without strategic placement; Petcube Care subscription gates the cloud video history and pet-recognition AI similar to Furbo Nanny.",
-    "wyze-cam-v3": "Repurposed-security-cam budget pick — roughly 4,800 yen Wyze Cam v3 with 1080p video, color night vision, two-way audio, weather-resistant for outdoor use, microSD local storage, the cheapest competent indoor camera that consistently appears on budget pet-camera lists. Not pet-specific — no bark detection, no treat dispense, no pet-aimed audio profile, the AI is trained on person-and-package classification with pet detection as a secondary feature; recent privacy and CSAM-moderation controversies in 2022-2023 plus a 2024 account-mixup incident damaged the brand reputation in the pet-camera community and any buyer should read the public reporting before committing; cloud event history requires Wyze Cam Plus at roughly 250 yen per month per camera which most budget-tier buyers skip and accept the 12-second cooldown between cloud events.",
-    "pawbo-pet-camera": "Mid-tier treat-dispenser pick — roughly 18,000 yen Pawbo treat-dispenser camera (or PetSafe equivalent depending on Japan availability) with 720p video, treat dispense from the smartphone app, two-way audio, scheduled treat-toss, sits between the cheap generic security cams and the premium Furbo. Lower video quality than Furbo with 720p versus 1080p which is meaningfully visible on tablet and laptop viewing; app reliability is mixed in long-term reviews with several reviewers reporting periodic crashes and pairing issues that persisted across firmware updates; treat-refill access on the unit is awkward enough that several reviewers report giving up on the daily refill ritual after a few months and using the camera as a basic video monitor; dog-specific AI is absent or rudimentary compared to Furbo's bark-detection and activity scoring.",
-    "eufy-indoor-cam-2k-pan-tilt": "No-subscription local-storage indoor pick — roughly 9,800 yen Anker Eufy Indoor Cam 2K Pan and Tilt with 2K video, 360-degree pan and 96-degree tilt to find the pet wherever it is napping, person-and-pet motion detection, two-way audio, microSD local storage with no subscription required, Apple HomeKit Secure Video integration, the strongest local-storage indoor pick in the sub-15,000-yen band. No pet-specific AI — motion detection classifies person versus pet but does not provide bark detection, dog activity scoring, or any of the pet-trained AI features that justify the Furbo premium; no treat dispense or laser-pointer hardware so the interactive features that some pet owners want are absent; built-in speaker is thin and the audio quality on two-way conversations is meaningfully worse than the Furbo or Petcube speakers; designed as general-purpose indoor security and not as a pet camera so the marketing copy and the customer service assume a homeowner not a pet owner."
+    "furbo-360-dog-camera": "拋零食、以狗為導向的高階選擇——約 28,000 日圓的 Furbo 360，具 360 度旋轉、1080p HD 影像、AI 吠叫與活動警示、可從智慧型手機 app 觸發的拋零食、雙向語音、受狗訓練的 AI 模型，自2017年最初上市以來歷經多次迭代改版、定義此類別的高階寵物攝影機。足以合理化機身溢價的 AI 功能需要每月約 700 至 1,400 日圓的 Furbo Dog Nanny 訂閱——沒有訂閱攝影機會降級為一台具手動拋零食的 1080p 攝影機，含訂閱算下來五年總成本約 88,000 日圓；零食出口依飼料形狀與濕度大約每 2 至 4 週會卡一次，清潔步驟麻煩；僅針對狗的設計意味著貓幾乎一律無視拋零食，吠叫偵測 AI 對貓無關緊要；雲端架構意味著隱私面包含 Furbo 的雲端伺服器以及任何未來影響該品牌的事件。",
+    "petcube-cam": "平價的寵物專用入門選擇——約 12,000 日圓的 Petcube Cam，具 1080p 影像、雙向語音、基本動作與聲音警示，是 Petcube 系列中簡單的基本機型，比 Furbo 平價，因為拋零食與雷射筆硬體保留給較高階的 Petcube Bites 與 Petcube Play 機型。基本款 Petcube Cam 沒有拋零食或雷射筆——那些是 Petcube Bites 與 Play 機型上的高階層級功能，價格明顯更高；動作警示可能很吵且誤報頻繁，有些評論者回報在頭一個月內就達到警示疲勞而停用警示功能；110 度視野比 Furbo 的 360 度窄，沒有策略性擺放就不足以涵蓋大房間；Petcube Care 訂閱鎖住雲端影片歷史與寵物辨識 AI，類似 Furbo Nanny。",
+    "wyze-cam-v3": "改裝監視器的預算選擇——約 4,800 日圓的 Wyze Cam v3，具 1080p 影像、彩色夜視、雙向語音、可戶外使用的抗候性、microSD 本地儲存，是最便宜且稱職、持續出現在預算寵物攝影機清單上的室內攝影機。非寵物專用——無吠叫偵測、無拋零食、無針對寵物的音訊設定檔，AI 是針對人與包裹分類訓練的，寵物偵測是次要功能；2022至2023年近期的隱私與 CSAM 審查爭議加上2024年的帳號混淆事件損害了該品牌在寵物攝影機社群的聲譽，任何買家在認定前都該閱讀公開報導；雲端事件歷史需要每台攝影機每月約 250 日圓的 Wyze Cam Plus，多數預算層級買家會跳過並接受雲端事件之間 12 秒的冷卻時間。",
+    "pawbo-pet-camera": "中階拋零食選擇——約 18,000 日圓的 Pawbo 拋零食攝影機（或依日本供貨情況的 PetSafe 同等品），具 720p 影像、可從智慧型手機 app 拋零食、雙向語音、排程拋零食，介於便宜的通用監視器與高階 Furbo 之間。影像畫質低於 Furbo，720p 對比 1080p 在平板與筆電上觀看時明顯可見；長期評論中 app 可靠度參差，數名評論者回報週期性當機與配對問題在韌體更新後仍持續；機身上的零食補充口麻煩到數名評論者回報幾個月後就放棄每日補充的儀式，把攝影機當成基本影像監看器使用；狗專用 AI 與 Furbo 的吠叫偵測與活動評分相比，缺乏或僅有粗淺功能。",
+    "eufy-indoor-cam-2k-pan-tilt": "免訂閱、本地儲存的室內選擇——約 9,800 日圓的 Anker Eufy Indoor Cam 2K Pan and Tilt，具 2K 影像、360 度水平旋轉與 96 度垂直俯仰以找到寵物不管在哪打盹、人與寵物動作偵測、雙向語音、無需訂閱的 microSD 本地儲存、Apple HomeKit Secure Video 整合，是 15,000 日圓以下價位中最強的本地儲存室內選擇。無寵物專用 AI——動作偵測會分類人與寵物，但不提供吠叫偵測、狗活動評分，或任何足以合理化 Furbo 溢價的受寵物訓練 AI 功能；沒有拋零食或雷射筆硬體，因此一些寵物飼主想要的互動功能付之闕如；內建喇叭單薄，雙向對話的音訊品質明顯比 Furbo 或 Petcube 的喇叭差；設計為通用型室內安防而非寵物攝影機，因此行銷文案與客服假定的是屋主而非寵物飼主。"
   },
-  "pinDescription": "Five pet cameras compared in 2026 — from a 4,800 yen Wyze Cam v3 repurposed-security-cam budget pick to a 28,000 yen Furbo 360 treat-tossing dog-focused premium. Pet-specific vs generic security cam, the subscription math (Furbo Nanny pushes 5-year cost to roughly 88,000 yen), treat-dispense and laser and two-way audio honesty (most dogs ignore the treat after two weeks), cloud-camera privacy risks (Ring, Nest, Wyze incidents), Matter and HomeKit integration in 2026, and where each fits — apartment cat, separation-anxiety dog, multi-pet household, budget No rave-only descriptions.",
-  "methodology": "Each camera was evaluated on pet-specific AI capability, real-world video quality, two-way audio usability, subscription cost over 5 years, and cloud security track record.",
+  "pinDescription": "2026年五款寵物攝影機比較——從4,800日圓改裝監視器預算選擇 Wyze Cam v3，到28,000日圓拋零食、以狗為導向的高階 Furbo 360。寵物專用機對比通用監視器、訂閱費的真實帳（Furbo Nanny 把五年成本推到約 88,000 日圓）、拋零食與雷射與雙向語音的誠實面（多數狗兩週後就不理零食）、雲端攝影機隱私風險（Ring、Nest、Wyze 事件）、2026年的 Matter 與 HomeKit 整合，以及各自適合誰——公寓貓、分離焦慮狗、多寵物家庭、預算。不只報喜的描述。",
+  "methodology": "我們從針對寵物的 AI 功能、實際使用中的影像畫質、雙向語音的易用性、5 年內的訂閱費用以及雲端安全的過往紀錄等面向，對每款攝影機進行評測。",
   "products": [
     {
       "offerId": "furbo-360-dog-camera",
-      "badge": "Best Overall",
-      "review": "The Furbo 360's dog-trained AI, 360-degree rotation, and treat dispense are the most complete pet-specific feature set in the category. The real trade-off is subscription dependency: without the Furbo Nanny plan (~¥700–1,400/month), the camera degrades to a basic 1080p viewer with manual treat-toss.",
+      "badge": "綜合最佳",
+      "review": "Furbo 360 受狗訓練的 AI、360 度旋轉與拋零食，是此類別中最完整的寵物專用功能組合。真正的取捨是對訂閱的依賴：沒有 Furbo Nanny 方案（每月約 ¥700–1,400），攝影機會降級為一台具手動拋零食的基本 1080p 觀看器。",
       "pros": [
-        "360-degree motorized rotation covers the entire room",
-        "Dog-trained AI bark alerts and activity scoring run 24/7",
-        "Treat dispense triggered remotely from the smartphone app"
+        "360 度馬達旋轉涵蓋整個房間",
+        "受狗訓練的 AI 吠叫警示與活動評分全天候運作",
+        "可從智慧型手機 app 遠端觸發拋零食"
       ],
       "cons": [
-        "5-year total cost reaches ~¥88,000 when Furbo Nanny subscription is included"
+        "含 Furbo Nanny 訂閱時五年總成本達約 ¥88,000"
       ],
       "grade": "A+",
       "specs": {
@@ -149,15 +149,15 @@
     },
     {
       "offerId": "petcube-cam",
-      "badge": "Best Affordable Pet Cam",
-      "review": "The Petcube Cam delivers 1080p video and two-way audio at about half the price of the Furbo, with no treat dispense hardware. Motion alerts have a false-positive rate that some owners find fatiguing within the first month.",
+      "badge": "最佳平價寵物攝影機",
+      "review": "Petcube Cam 以約 Furbo 一半的價格提供 1080p 影像與雙向語音，沒有拋零食硬體。動作警示的誤報率讓有些飼主在頭一個月內就感到疲乏。",
       "pros": [
-        "Half the price of Furbo with pet-specific design",
-        "1080p video with two-way audio",
-        "Simple setup — no hub required"
+        "價格只有 Furbo 一半且具寵物專用設計",
+        "1080p 影像搭配雙向語音",
+        "設定簡單——無需中樞"
       ],
       "cons": [
-        "No treat dispense or laser pointer; 110° field of view misses corners in large rooms"
+        "無拋零食或雷射筆；110° 視野在大房間會漏掉角落"
       ],
       "grade": "A",
       "specs": {
@@ -178,15 +178,15 @@
     },
     {
       "offerId": "eufy-indoor-cam-2k-pan-tilt",
-      "badge": "Best No-Subscription Pick",
-      "review": "The Eufy Indoor Cam 2K Pan & Tilt is the strongest local-storage option under ¥15,000 — 2K resolution, 360° pan and 96° tilt, microSD storage with no subscription required. The trade-off is no pet-specific AI and a thin built-in speaker.",
+      "badge": "最佳免訂閱選擇",
+      "review": "Eufy Indoor Cam 2K Pan & Tilt 是 ¥15,000 以下最強的本地儲存選項——2K 解析度、360° 水平旋轉與 96° 垂直俯仰、無需訂閱的 microSD 儲存。取捨是沒有寵物專用 AI 與單薄的內建喇叭。",
       "pros": [
-        "2K resolution with no subscription required",
-        "360° pan and 96° tilt to track moving pets",
-        "Apple HomeKit Secure Video support"
+        "2K 解析度且無需訂閱",
+        "360° 旋轉與 96° 俯仰以追蹤移動的寵物",
+        "支援 Apple HomeKit Secure Video"
       ],
       "cons": [
-        "No bark detection, treat dispense, or pet-trained AI features"
+        "無吠叫偵測、拋零食或受寵物訓練的 AI 功能"
       ],
       "grade": "B+",
       "specs": {
@@ -207,15 +207,15 @@
     },
     {
       "offerId": "pawbo-pet-camera",
-      "badge": "Best Mid-Tier Treat Cam",
-      "review": "The Pawbo sits between the cheap security cams and the premium Furbo — treat dispense and two-way audio at a lower price, but 720p video and app reliability reports of periodic crashes reduce its overall score.",
+      "badge": "最佳中階零食攝影機",
+      "review": "Pawbo 介於便宜的監視器與高階 Furbo 之間——以較低的價格提供拋零食與雙向語音，但 720p 影像與 app 週期性當機的可靠度回報拉低了它的整體評分。",
       "pros": [
-        "Treat dispense and scheduled toss without Furbo pricing",
-        "Two-way audio for remote check-ins",
-        "Scheduled treat delivery for routine training"
+        "有拋零食與排程投放但無 Furbo 的價格",
+        "雙向語音可遠端查看",
+        "排程零食投放適合日常訓練"
       ],
       "cons": [
-        "720p video noticeably lower quality than competitors; app crashes reported in long-term reviews"
+        "720p 影像畫質明顯低於競品；長期評論回報 app 當機"
       ],
       "grade": "B",
       "specs": {
@@ -234,15 +234,15 @@
     },
     {
       "offerId": "wyze-cam-v3",
-      "badge": "Best Budget Security Cam",
-      "review": "At ~¥4,800, the Wyze Cam v3 is the cheapest competent indoor camera with color night vision and microSD local storage. It is not pet-specific — no bark detection, no treat dispense — and Wyze's 2022–2024 privacy incidents are a genuine concern that buyers should research before committing.",
+      "badge": "最佳預算監視器",
+      "review": "在約 ¥4,800 的價位，Wyze Cam v3 是最便宜且稱職、具彩色夜視與 microSD 本地儲存的室內攝影機。它非寵物專用——無吠叫偵測、無拋零食——而 Wyze 在2022至2024年的隱私事件是買家在認定前該研究的真實顧慮。",
       "pros": [
-        "Lowest price per camera in the category",
-        "Color night vision and weatherproof for outdoor use",
-        "microSD local storage without mandatory subscription"
+        "每台攝影機在此類別中價格最低",
+        "彩色夜視且防候可戶外使用",
+        "microSD 本地儲存且無強制訂閱"
       ],
       "cons": [
-        "No pet-specific AI; Wyze's 2022–2024 privacy and account-mixup incidents remain unresolved for many buyers"
+        "無寵物專用 AI；Wyze 2022至2024年的隱私與帳號混淆事件對許多買家而言仍未解決"
       ],
       "grade": "B-",
       "specs": {
@@ -263,29 +263,29 @@
   ],
   "recommendedFor": [
     {
-      "label": "For dog owners with separation anxiety concerns",
+      "label": "適合有分離焦慮顧慮的狗飼主",
       "offerId": "furbo-360-dog-camera",
-      "reason": "Dog-trained bark AI and treat dispense are the most complete tools for monitoring and engaging an anxious dog remotely."
+      "reason": "受狗訓練的吠叫 AI 與拋零食，是遠端監看並與焦慮狗互動最完整的工具。"
     },
     {
-      "label": "For pet owners who want simple pet-focused monitoring",
+      "label": "適合想要簡單、以寵物為主監看的飼主",
       "offerId": "petcube-cam",
-      "reason": "Pet-specific design and 1080p video at half the Furbo price, without the subscription burden."
+      "reason": "寵物專用設計與 1080p 影像，價格只有 Furbo 一半，且無訂閱負擔。"
     },
     {
-      "label": "For multi-room households or privacy-first buyers",
+      "label": "適合多房間家庭或隱私優先的買家",
       "offerId": "eufy-indoor-cam-2k-pan-tilt",
-      "reason": "2K local storage with no subscription — lowest cloud-privacy exposure in the lineup."
+      "reason": "2K 本地儲存且無需訂閱——是此陣容中雲端隱私曝險最低的。"
     },
     {
-      "label": "For budget-conscious pet owners",
+      "label": "適合預算有限的寵物飼主",
       "offerId": "wyze-cam-v3",
-      "reason": "Lowest per-camera cost for basic remote viewing; best for households needing to cover multiple rooms cheaply."
+      "reason": "基本遠端觀看的每台攝影機成本最低；最適合需要便宜涵蓋多個房間的家庭。"
     },
     {
-      "label": "For those who want treat delivery without premium pricing",
+      "label": "適合想要零食投放但不想要高階價格的人",
       "offerId": "pawbo-pet-camera",
-      "reason": "Treat dispense and scheduled toss without the Furbo Nanny subscription requirement."
+      "reason": "有拋零食與排程投放，但無 Furbo Nanny 的訂閱要求。"
     }
   ]
 }

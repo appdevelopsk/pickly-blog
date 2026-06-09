@@ -1,5 +1,5 @@
 {
-  "title": "Best Cloud Hosting 2026: 5 platforms tested with the same Next.js app",
+  "title": "Best Cloud Hosting 2026: 5 Tested on One Next.js App",
   "description": "AWS EC2, Google Cloud Compute Engine, Azure VMs, DigitalOcean App Platform, Render — same Next.js + Postgres app, 90 days of production traffic. Cold-start latency, autoscaling, real monthly cost.",
   "lede": "Five cloud platforms. One Next.js app. 90 days production. We deployed the same app to each, measured cold-start latency, autoscaling responsiveness, and the real bill at end of month.",
   "methodology": "Deployed same app (Next.js front + Postgres + Redis cache) to each platform. Mirrored 30% of production traffic. Measured: cold-start latency, p99 response under load, autoscale time to add capacity, and monthly bill at end of 90 days.",

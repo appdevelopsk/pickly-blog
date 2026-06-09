@@ -1,83 +1,83 @@
 {
-  "title": "أفضل المراوح المحمولة 2026: تدفق الهواء ومستويات الضوضاء وسعر Dyson Pure Cool Me لكل ديسيبل",
-  "description": "Dyson Pure Cool Me وVornado Pivot5 وHoneywell HT-900 وPanasonic F-CL2025 وSatechi Dual USB-C Fan مقارنة حسب تدفق CFM وضوضاء dB واستهلاك الطاقة والفرق الحقيقي بين مراوح الكتابة والمراوح الدوارة",
-  "lede": "Portable fan specs look simple until you realize CFM (cubic feet per minute) and dB measurements are taken under controlled conditions that rarely match the room you actually have. The honest question before buying: do you want to feel cooler, or do you want the room to be cooler? Those require different fan designs.",
-  "methodology": "We evaluated each fan on airflow volume at rated speeds, noise levels at low and high settings, physical footprint and portability, power efficiency, and long-term reliability from verified owner experiences. We cross-referenced CFM specs with dB measurements to surface the airflow-per-decibel trade-offs that specs sheets hide.",
+  "title": "أفضل المراوح المحمولة 2026: تدفق وضوضاء واختبار Dyson",
+  "description": "مقارنة بين Dyson Pure Cool Me وVornado Pivot5 وHoneywell HT-900 وPanasonic F-CL2025 ومروحة Satechi Dual USB-C من حيث تدفق الهواء بوحدة CFM والضوضاء بوحدة dB واستهلاك الطاقة والفرق الحقيقي بين مراوح المكتب ومراوح تدوير هواء الغرفة.",
+  "lede": "تبدو مواصفات المراوح المحمولة بسيطة حتى تدرك أن قياسات CFM (القدم المكعبة في الدقيقة) والديسيبل (dB) تؤخذ في ظروف مضبوطة نادرًا ما تطابق الغرفة التي لديك فعليًا. السؤال الصادق قبل الشراء: هل تريد أن تشعر ببرودة أكبر، أم تريد أن تكون الغرفة نفسها أبرد؟ كل من الهدفين يتطلب تصميم مروحة مختلفًا.",
+  "methodology": "قيّمنا كل مروحة من حيث حجم تدفق الهواء عند السرعات المقدّرة، ومستويات الضوضاء على الإعدادين المنخفض والعالي، والحيّز الذي تشغله وسهولة حملها، وكفاءة استهلاك الطاقة، والموثوقية على المدى الطويل استنادًا إلى تجارب مالكين موثّقة. كما قارنّا مواصفات تدفق الهواء (CFM) بقياسات الديسيبل (dB) لإبراز المفاضلات بين تدفق الهواء لكل ديسيبل التي تخفيها أوراق المواصفات عادةً.",
   "recommendedFor": [
     {
-      "label": "For a desk setup where air purification and personal cooling both matter",
+      "label": "لمكتب يهمك فيه كل من تنقية الهواء والتبريد الشخصي",
       "offerId": "portable-fan-dyson-pure-cool-me",
-      "reason": "The Dyson Pure Cool Me pairs HEPA H13 filtration with personal-zone focused airflow — the only pick here with certified air cleaning."
+      "reason": "تجمع Dyson Pure Cool Me بين فلترة HEPA H13 وتدفق هواء مركّز على المنطقة الشخصية — وهي الخيار الوحيد هنا الحاصل على تنقية هواء معتمدة."
     },
     {
-      "label": "For rooms where you need whole-room air circulation, not just a cooling breeze",
+      "label": "للغرف التي تحتاج فيها إلى تدوير هواء الغرفة بأكملها، وليس مجرد نسمة تبريد",
       "offerId": "portable-fan-vornado-pivot5",
-      "reason": "Vornado's vortex airflow circulates the entire room volume rather than creating a breeze in one direction."
+      "reason": "يقوم تدفق الهواء الدوّامي من Vornado بتدوير حجم هواء الغرفة بالكامل بدلًا من إنشاء نسمة في اتجاه واحد."
     },
     {
-      "label": "For a powerful, inexpensive desk or floor fan that doesn't pretend to be anything else",
+      "label": "لمروحة مكتب أو أرضية قوية وزهيدة الثمن لا تدّعي أنها شيء آخر",
       "offerId": "portable-fan-honeywell-htf090",
-      "reason": "The Honeywell HT-900 moves the most air per dollar of any fan here — no smart features, no air purification, just airflow."
+      "reason": "تحرّك Honeywell HT-900 أكبر كمية هواء مقابل كل دولار بين كل مراوح هذه القائمة — بلا ميزات ذكية ولا تنقية هواء، مجرد تدفق هواء."
     },
     {
-      "label": "For Japanese households wanting DC motor efficiency and quiet operation",
+      "label": "للأسر اليابانية التي تريد كفاءة محرك التيار المستمر (DC) وتشغيلًا هادئًا",
       "offerId": "portable-fan-panasonic-dc-jp",
-      "reason": "Panasonic's DC motor fan runs at 8 speed settings down to near-silent operation with substantially lower electricity consumption than AC fans."
+      "reason": "تعمل مروحة Panasonic بمحرك التيار المستمر على 8 إعدادات سرعة وصولًا إلى تشغيل شبه صامت مع استهلاك كهرباء أقل بكثير من مراوح التيار المتردد (AC)."
     },
     {
-      "label": "For USB-C powered desk use where cable flexibility and whisper-quiet operation matter",
+      "label": "للاستخدام المكتبي عبر منفذ USB-C حيث تهم مرونة الكابل والتشغيل الهامس",
       "offerId": "portable-fan-satechi-dual",
-      "reason": "The Satechi draws power from a USB-C port and runs at 35dB — practical for shared offices and library study spaces."
+      "reason": "تستمد Satechi الطاقة من منفذ USB-C وتعمل عند 35 ديسيبل — وهو أمر عملي للمكاتب المشتركة وقاعات المطالعة في المكتبات."
     }
   ],
   "sections": [
     {
-      "heading": "How we compared these fans",
+      "heading": "كيف قارنّا هذه المراوح",
       "paragraphs": [
-        "Fan comparison is genuinely difficult to do rigorously without lab equipment. CFM ratings are measured at specific test distances and conditions that vary between manufacturers, making cross-brand CFM comparisons unreliable. Decibel ratings are measured at specific distances (often 1 meter) and specific speed settings. What this comparison does instead: use the relative performance within each product's specification range, cross-reference against independent reviewer measurements where available, and rely heavily on long-term owner reviews for noise and reliability.",
-        "The most important distinction buyers miss: desk fans and air circulators are different products. A desk fan (Honeywell HT-900, Dyson Pure Cool Me) directs airflow at the person sitting in front of it. An air circulator (Vornado Pivot5) moves the entire volume of room air in a vortex pattern. In a hot room, a desk fan makes you feel cooler immediately; an air circulator actually lowers the room temperature over 20–30 minutes by mixing the cooler floor air with the warmer air near the ceiling. Neither is wrong — they solve different problems."
+        "مقارنة المراوح أمر صعب فعلًا أن يُنجَز بدقة دون معدات مختبرية. تُقاس تقديرات CFM عند مسافات اختبار وظروف محددة تختلف بين المصنّعين، ما يجعل مقارنات CFM بين العلامات التجارية غير موثوقة. وتُقاس تقديرات الديسيبل عند مسافات محددة (غالبًا متر واحد) وعند إعدادات سرعة محددة. وما تفعله هذه المقارنة بدلًا من ذلك: استخدام الأداء النسبي ضمن نطاق مواصفات كل منتج، والمقارنة مع قياسات مراجعين مستقلين حيثما توافرت، والاعتماد بشكل كبير على مراجعات المالكين طويلة الأمد فيما يخص الضوضاء والموثوقية.",
+        "أهم تمييز يغفله المشترون: مراوح المكتب ومراوح تدوير الهواء منتجان مختلفان. توجّه مروحة المكتب (Honeywell HT-900، Dyson Pure Cool Me) تدفق الهواء نحو الشخص الجالس أمامها. أما مروحة تدوير الهواء (Vornado Pivot5) فتحرّك كامل حجم هواء الغرفة بنمط دوّامي. في غرفة حارّة، تجعلك مروحة المكتب تشعر ببرودة فورية؛ بينما تخفض مروحة تدوير الهواء فعليًا درجة حرارة الغرفة خلال 20–30 دقيقة عبر مزج هواء الأرضية الأبرد بالهواء الأدفأ قرب السقف. ولا أحد منهما خاطئ — فكل منهما يحل مشكلة مختلفة."
       ]
     },
     {
-      "heading": "What changed in 2026",
+      "heading": "ما الذي تغيّر في 2026",
       "paragraphs": [
-        "The USB-C portable fan category has matured significantly. In 2023, USB-C fans were mostly underpowered accessories; by 2026, models like the Satechi Dual draw up to 10W from USB-C PD and produce airflow sufficient for personal desk cooling in ambient temperatures up to about 28°C. The practical implication: you can now power a desk fan from the same USB-C hub that charges your laptop, eliminating the dedicated wall outlet. This is genuinely useful in offices with limited desk outlets or in travel contexts.",
-        "DC motor technology has become mainstream in the Japanese fan market at lower price points than in previous years. In 2023, DC motor fans (which draw 3–15W versus 30–60W for AC motor equivalents) were premium products at ¥20,000+. By 2026, Panasonic, Sharp, and Hitachi offer DC motor models starting around ¥15,000, and the electricity savings are real over a summer season: a DC fan running 8 hours daily for 90 days costs roughly ¥1,080–3,240 in electricity (at ¥30/kWh) versus ¥6,480–16,200 for an equivalent AC fan. In Japan's humid summer where fans often run for four months, the savings are meaningful.",
-        "The Dyson Pure Cool Me has held its position as the premium personal fan despite its age because no competitor has matched its combination of HEPA filtration, focused personal airflow, and build quality at a comparable price point. The 2026 landscape has several competitive bladeless fan alternatives from Chinese manufacturers at 40–60% of Dyson's price, but none with certified HEPA filtration."
+        "نضجت فئة المراوح المحمولة بمنفذ USB-C بشكل ملحوظ. في 2023، كانت مراوح USB-C في معظمها ملحقات ضعيفة القدرة؛ وبحلول 2026، صارت طرازات مثل Satechi Dual تسحب حتى 10 واط من USB-C PD وتنتج تدفق هواء يكفي للتبريد الشخصي على المكتب في درجات حرارة محيطة حتى نحو 28 درجة مئوية. والأثر العملي: يمكنك الآن تشغيل مروحة مكتب من نفس موزّع USB-C الذي يشحن حاسوبك المحمول، فتستغني عن منفذ الجدار المخصص. وهذا مفيد فعلًا في المكاتب ذات المنافذ المحدودة على المكتب أو في سياقات السفر.",
+        "أصبحت تقنية محرك التيار المستمر (DC) سائدة في سوق المراوح اليابانية عند أسعار أقل من السنوات السابقة. في 2023، كانت مراوح محرك DC (التي تسحب 3–15 واط مقابل 30–60 واط لمكافئاتها بمحرك AC) منتجات راقية بسعر 20,000 ين فأكثر. وبحلول 2026، تقدّم Panasonic وSharp وHitachi طرازات بمحرك DC تبدأ من نحو 15,000 ين، والتوفير في الكهرباء حقيقي على مدى موسم صيفي: مروحة DC تعمل 8 ساعات يوميًا لمدة 90 يومًا تكلّف نحو 1,080–3,240 ينًا كهرباء (عند 30 ينًا/كيلوواط ساعة) مقابل 6,480–16,200 ينًا لمروحة AC مكافئة. وفي الصيف الياباني الرطب حيث تعمل المراوح غالبًا لأربعة أشهر، يكون التوفير ذا أهمية.",
+        "حافظت Dyson Pure Cool Me على مكانتها كأرقى مروحة شخصية رغم قِدَمها لأن أيًّا من المنافسين لم يضاهِ مزجها بين فلترة HEPA وتدفق الهواء الشخصي المركّز وجودة التصنيع عند نقطة سعر مماثلة. ويضم مشهد 2026 عدة بدائل تنافسية من المراوح بلا شفرات من مصنّعين صينيين بنسبة 40–60% من سعر Dyson، لكن لا يحمل أي منها فلترة HEPA معتمدة."
       ]
     },
     {
-      "heading": "Where each fan fits",
+      "heading": "أين تناسب كل مروحة",
       "paragraphs": [
-        "The Dyson Pure Cool Me belongs on a desk in a home office or bedroom where air quality is genuinely a concern. Allergies, urban particulates, or pet dander are the use cases where the HEPA H13 filtration earns its premium over a standard fan. The focused personal airflow is well-engineered — the dome oscillates to spread airflow over a personal zone rather than just one point. It doesn't move enough air to cool a whole room; it cools the person in front of it. At $300–400, it is at minimum three to four times the price of any other personal desk fan.",
-        "The Vornado Pivot5 solves a different problem: rooms that feel stuffy despite being at an acceptable ambient temperature. The vortex circulation pulls air off the floor (cooler), pushes it toward the ceiling (warmer), and creates a spiral mixing that equilibrates the room temperature more evenly. In a room where the floor is 4°C cooler than the ceiling — common in rooms without central air mixing — the Pivot5 brings the perceived temperature down by equalizing the stratification. The pivoting base is genuinely useful for floor-to-table transitions without a separate mount.",
-        "The Honeywell HT-900 is the fan you buy when you want maximum airflow and minimum price with no requirements beyond 'moves air.' The 7-inch turbo blade design moves significantly more air than its small footprint suggests. At $30–55, it competes with no-name imports on price while having a longer reliability track record. The 90-degree pivot head is stiff — requires two hands to adjust — but stays put once positioned."
+        "تنتمي Dyson Pure Cool Me إلى مكتب في مكتب منزلي أو غرفة نوم حيث تكون جودة الهواء مصدر قلق فعلي. الحساسية، أو الجسيمات الحضرية، أو وبر الحيوانات الأليفة هي حالات الاستخدام التي تستحق فيها فلترة HEPA H13 سعرها الإضافي مقارنةً بمروحة عادية. وتدفق الهواء الشخصي المركّز مصمَّم بإتقان — إذ تتذبذب القبة لتوزيع تدفق الهواء على منطقة شخصية بدلًا من نقطة واحدة. لكنها لا تحرّك ما يكفي من الهواء لتبريد غرفة كاملة؛ بل تبرّد الشخص أمامها. وبسعر 300–400 دولار، فهي على الأقل بثلاثة إلى أربعة أضعاف سعر أي مروحة مكتب شخصية أخرى.",
+        "تحل Vornado Pivot5 مشكلة مختلفة: الغرف التي تبدو خانقة رغم كونها عند درجة حرارة محيطة مقبولة. يسحب التدوير الدوّامي الهواء من الأرضية (الأبرد)، ويدفعه نحو السقف (الأدفأ)، وينشئ مزجًا حلزونيًا يوازن درجة حرارة الغرفة بشكل أكثر تساويًا. في غرفة تكون فيها الأرضية أبرد بـ 4 درجات مئوية من السقف — وهو أمر شائع في الغرف بلا مزج هواء مركزي — تخفض Pivot5 درجة الحرارة المُحسَّة عبر معادلة التطبّق الحراري. والقاعدة الدوّارة مفيدة فعلًا للانتقال من الأرضية إلى الطاولة دون حامل منفصل.",
+        "Honeywell HT-900 هي المروحة التي تشتريها حين تريد أقصى تدفق هواء بأدنى سعر دون أي متطلبات تتجاوز 'تحريك الهواء'. صُمم نصل التوربو مقاس 7 بوصات ليحرّك هواءً أكثر بكثير مما يوحي به حجمه الصغير. وبسعر 30–55 دولارًا، تنافس على السعر مع الواردات مجهولة العلامة مع امتلاكها سجل موثوقية أطول. ورأس الإمالة بزاوية 90 درجة قاسٍ — يتطلب يدين لضبطه — لكنه يثبت في مكانه بمجرد توجيهه."
       ]
     },
     {
-      "heading": "Verdict",
+      "heading": "الحكم النهائي",
       "paragraphs": [
-        "For a desk in a home office or bedroom where you're mostly stationary: Dyson Pure Cool Me if air quality matters, Honeywell HT-900 if it doesn't. The gap between them is $270–350 and a HEPA filter. If allergies or urban particulates are not a concern, the Honeywell moves comparable personal airflow at a fraction of the cost.",
-        "For whole-room air circulation in Japan's summer, where the goal is mixing stratified air: Panasonic F-CL2025 DC fan. The DC motor's 8-speed range (including near-silent low settings) and 60–70% lower electricity consumption than AC fans make it the practical choice for running a fan 8–12 hours daily through a four-month humid season. The Vornado Pivot5 is the equivalent choice for US households.",
-        "The Satechi dual USB-C fan earns its place for travel and shared-office use where power outlet access is limited and noise must be kept below 40dB. It won't cool a room and it won't substitute for a real desk fan in hot conditions, but it's the right tool for the specific problem it solves."
+        "لمكتب في مكتب منزلي أو غرفة نوم تكون فيها ثابتًا في الغالب: Dyson Pure Cool Me إن كانت جودة الهواء تهمك، وHoneywell HT-900 إن لم تكن كذلك. الفارق بينهما 270–350 دولارًا وفلتر HEPA. وإن لم تكن الحساسية أو الجسيمات الحضرية مصدر قلق، فإن Honeywell تحرّك تدفق هواء شخصيًا مماثلًا بجزء بسيط من التكلفة.",
+        "لتدوير هواء الغرفة بأكملها في صيف اليابان، حيث الهدف مزج الهواء المتطبّق حراريًا: مروحة Panasonic F-CL2025 بمحرك DC. نطاق السرعات الثماني لمحرك DC (بما فيها الإعدادات المنخفضة شبه الصامتة) واستهلاكه للكهرباء الأقل بنسبة 60–70% من مراوح AC يجعلانها الخيار العملي لتشغيل مروحة 8–12 ساعة يوميًا طوال موسم رطب يمتد أربعة أشهر. وVornado Pivot5 هي الخيار المكافئ للأسر الأمريكية.",
+        "تستحق مروحة Satechi المزدوجة بمنفذ USB-C مكانها للسفر والاستخدام في المكاتب المشتركة حيث يكون الوصول إلى منافذ الطاقة محدودًا ويجب إبقاء الضوضاء دون 40 ديسيبل. لن تبرّد غرفة ولن تحل محل مروحة مكتب حقيقية في الظروف الحارة، لكنها الأداة المناسبة للمشكلة المحددة التي تحلها."
       ]
     }
   ],
   "products": [
     {
       "offerId": "portable-fan-dyson-pure-cool-me",
-      "badge": "Best Personal Air Purifying Fan",
-      "review": "The Dyson Pure Cool Me is a genuinely unusual product: a personal-zone desk fan with HEPA H13 air filtration built in. The dome-shaped head oscillates to project airflow over a focused personal zone rather than a point, and the 10 speed settings let you dial from near-silent background airflow to a noticeable personal breeze. The HEPA H13 filter captures 99.97% of particles at 0.3 microns — meaningful for allergy sufferers and urban apartment dwellers dealing with outdoor particulates. The filter replacement is annual at typical use (roughly $30–40 per filter). At $300–400, the price requires honest justification: if your only need is a desk fan, the Honeywell HT-900 moves comparable personal airflow at $30–55. The Dyson earns its price when the HEPA filtration is independently valuable, which means a home office with a pet, an urban apartment near a busy road, or a pollen season sufferer who wants their desk air cleaned.",
+      "badge": "أفضل مروحة شخصية منقّية للهواء",
+      "review": "Dyson Pure Cool Me منتج غير اعتيادي فعلًا: مروحة مكتب للمنطقة الشخصية مع فلترة هواء HEPA H13 مدمجة. يتذبذب الرأس القبّي الشكل ليُسقط تدفق الهواء على منطقة شخصية مركّزة بدلًا من نقطة، وتتيح لك إعدادات السرعة العشرة الضبط من تدفق هواء خلفي شبه صامت إلى نسمة شخصية ملحوظة. ويلتقط فلتر HEPA H13 ما نسبته 99.97% من الجسيمات بحجم 0.3 ميكرون — وهو أمر ذو معنى لمن يعانون الحساسية وسكان الشقق الحضرية الذين يتعاملون مع الجسيمات الخارجية. ويُستبدل الفلتر سنويًا عند الاستخدام المعتاد (نحو 30–40 دولارًا للفلتر). وبسعر 300–400 دولار، يتطلب السعر تبريرًا صادقًا: إن كانت حاجتك الوحيدة مروحة مكتب، فإن Honeywell HT-900 تحرّك تدفق هواء شخصيًا مماثلًا بسعر 30–55 دولارًا. تستحق Dyson سعرها حين تكون فلترة HEPA ذات قيمة مستقلة، أي مكتب منزلي به حيوان أليف، أو شقة حضرية قرب طريق مزدحم، أو شخص يعاني موسم اللقاح ويريد تنقية هواء مكتبه.",
       "pros": [
-        "HEPA H13 filtration certified to capture 99.97% of 0.3 micron particles",
-        "Dome oscillation spreads airflow over a personal zone, not just one point",
-        "10 speed settings from near-silent to noticeable personal breeze",
-        "No fast-spinning exposed blades — genuinely safe around children"
+        "فلترة HEPA H13 معتمدة لالتقاط 99.97% من الجسيمات بحجم 0.3 ميكرون",
+        "تذبذب القبة يوزّع تدفق الهواء على منطقة شخصية لا على نقطة واحدة فقط",
+        "10 إعدادات سرعة من شبه صامت إلى نسمة شخصية ملحوظة",
+        "بلا شفرات مكشوفة سريعة الدوران — آمنة فعلًا حول الأطفال"
       ],
       "cons": [
-        "At $300–400, costs 6–10x a capable personal desk fan without air filtration",
-        "Annual filter replacement cost (~$30–40) adds to total ownership cost",
-        "Does not move enough air to cool a full room — personal zone only"
+        "بسعر 300–400 دولار، تكلّف 6–10 أضعاف مروحة مكتب شخصية قادرة بلا فلترة هواء",
+        "تكلفة استبدال الفلتر سنويًا (~30–40 دولارًا) تُضاف إلى تكلفة الملكية الإجمالية",
+        "لا تحرّك ما يكفي من الهواء لتبريد غرفة كاملة — منطقة شخصية فقط"
       ],
       "grade": "A",
       "specs": {
@@ -97,17 +97,17 @@
     },
     {
       "offerId": "portable-fan-vornado-pivot5",
-      "badge": "Best Compact Room Circulator",
-      "review": "The Pivot5 is Vornado's smallest room circulator, designed specifically for desk and floor versatility via its pivoting base. The vortex airflow signature — a spiral of moving air that forces room air into circulation rather than just blowing a directional breeze — makes this more effective for whole-room comfort than a larger directional fan at the same wattage. Four speed settings provide practical range from white-noise-level background airflow to full vortex. The cord wraps into the base for clean storage. At $50–80, it's positioned between a budget directional fan (Honeywell) and a premium purifying fan (Dyson). Its weakness: if you want concentrated personal cooling airflow aimed at your face, the Pivot5's vortex design feels less direct than a traditional desk fan — because it is. It's designed to move the room, not target the person.",
+      "badge": "أفضل مروحة تدوير هواء مدمجة",
+      "review": "Pivot5 هي أصغر مروحة تدوير هواء غرفة من Vornado، مصممة خصيصًا للتنوع بين المكتب والأرضية عبر قاعدتها الدوّارة. وبصمة تدفق الهواء الدوّامي — حلزون من الهواء المتحرك يدفع هواء الغرفة إلى الدوران بدلًا من مجرد إطلاق نسمة موجّهة — تجعلها أكثر فاعلية لراحة الغرفة بأكملها من مروحة موجّهة أكبر بنفس القدرة الكهربائية. وتوفّر إعدادات السرعة الأربعة نطاقًا عمليًا من تدفق هواء خلفي بمستوى الضوضاء البيضاء إلى دوّامة كاملة. ويلتف السلك داخل القاعدة لتخزين أنيق. وبسعر 50–80 دولارًا، فهي تتموضع بين مروحة موجّهة اقتصادية (Honeywell) ومروحة منقّية راقية (Dyson). نقطة ضعفها: إن أردت تدفق هواء تبريد شخصيًا مركّزًا موجّهًا نحو وجهك، فإن تصميم Pivot5 الدوّامي يبدو أقل مباشرة من مروحة مكتب تقليدية — لأنه كذلك. فهي مصممة لتحريك الغرفة لا لاستهداف الشخص.",
       "pros": [
-        "Vortex airflow circulates whole-room air volume, not just a directional breeze",
-        "Pivoting base handles floor and desk use without separate mounting",
-        "Cord wraps into base for portable, tangle-free storage",
-        "Compact footprint for the airflow volume it moves"
+        "تدفق هواء دوّامي يدوّر حجم هواء الغرفة بأكمله، لا مجرد نسمة موجّهة",
+        "القاعدة الدوّارة تتعامل مع الاستخدام الأرضي والمكتبي دون حامل منفصل",
+        "السلك يلتف داخل القاعدة لتخزين محمول خالٍ من التشابك",
+        "حيّز مدمج مقابل حجم تدفق الهواء الذي تحرّكه"
       ],
       "cons": [
-        "Less focused personal airflow than a directional desk fan — designed to move the room",
-        "No remote control, no timer, no smart features"
+        "تدفق هواء شخصي أقل تركيزًا من مروحة مكتب موجّهة — مصممة لتحريك الغرفة",
+        "بلا جهاز تحكم عن بُعد ولا مؤقت ولا ميزات ذكية"
       ],
       "grade": "A",
       "specs": {
@@ -127,17 +127,17 @@
     },
     {
       "offerId": "portable-fan-honeywell-htf090",
-      "badge": "Best Budget Turbo Desk Fan",
-      "review": "The Honeywell HT-900 (also known as HTF090) is the fan that embarrasses expensive competitors on pure airflow per dollar. The 7-inch turbo blade design was engineered specifically for high-velocity focused output from a compact body, and it delivers: at full power, this small fan moves air perceptibly harder than many larger and more expensive desk fans. Three speed settings, 90-degree pivoting head, and that's largely it — no remote, no timer, no smart features. The 90-degree head pivot requires two hands and a firm grip to adjust, but it holds position reliably once set. At $30–55, there is no meaningful competition for pure value-to-airflow in the US market. The noise at full power (~55dB) is comparable to a small office fan — noticeable but not disruptive.",
+      "badge": "أفضل مروحة مكتب توربو اقتصادية",
+      "review": "Honeywell HT-900 (المعروفة أيضًا باسم HTF090) هي المروحة التي تُحرج المنافسين الباهظين على صعيد تدفق الهواء الخالص مقابل كل دولار. صُمم نصل التوربو مقاس 7 بوصات خصيصًا لإخراج مركّز عالي السرعة من جسم مدمج، وهو يفي بذلك: عند القدرة الكاملة، تحرّك هذه المروحة الصغيرة الهواء بقوة محسوسة أكثر من كثير من مراوح المكتب الأكبر والأغلى. ثلاثة إعدادات سرعة، ورأس بإمالة 90 درجة، وهذا كل شيء تقريبًا — بلا تحكم عن بُعد ولا مؤقت ولا ميزات ذكية. يتطلب إمالة الرأس بزاوية 90 درجة يدين وقبضة محكمة للضبط، لكنه يحافظ على موضعه بثبات بمجرد التثبيت. وبسعر 30–55 دولارًا، لا منافسة فعلية على القيمة مقابل تدفق الهواء في السوق الأمريكية. والضوضاء عند القدرة الكاملة (~55 ديسيبل) مماثلة لمروحة مكتب صغيرة — ملحوظة لكن غير مزعجة.",
       "pros": [
-        "7-inch turbo blade moves more air per dollar than any other fan here",
-        "Compact footprint fits on small desks without taking over the surface",
-        "Simple 3-speed operation with no unnecessary features",
-        "Long Honeywell reliability track record in the US market"
+        "نصل توربو مقاس 7 بوصات يحرّك هواءً أكثر مقابل كل دولار من أي مروحة أخرى هنا",
+        "حيّز مدمج يناسب المكاتب الصغيرة دون أن يستحوذ على السطح",
+        "تشغيل بسيط بثلاث سرعات بلا ميزات غير ضرورية",
+        "سجل موثوقية طويل لـ Honeywell في السوق الأمريكية"
       ],
       "cons": [
-        "90-degree head pivot requires two hands to adjust and is stiff",
-        "No remote, no timer, no oscillation — purely directional"
+        "إمالة الرأس بزاوية 90 درجة تتطلب يدين للضبط وهي قاسية",
+        "بلا تحكم عن بُعد ولا مؤقت ولا تذبذب — موجّهة بحتة"
       ],
       "grade": "A",
       "specs": {
@@ -157,17 +157,17 @@
     },
     {
       "offerId": "portable-fan-panasonic-dc-jp",
-      "badge": "Best DC Motor Fan (Japan)",
-      "review": "Panasonic's F-CL2025 DC motor fan is the pick for Japanese households running a fan through the entire four-month humid summer season. The DC motor draws 3–15W depending on speed versus 30–50W for an equivalent AC motor fan — over 90 days at 8 hours daily, that's a real electricity cost difference of roughly ¥5,000–8,000. Eight speed settings let you dial from a barely-perceptible airflow (useful for sleeping) to a full room-cooling breeze. The 40dB at mid-speed is genuinely quiet by fan standards. Nanoe ion technology adds light antibacterial function to the airflow, though the evidence for this beyond Panasonic's own data is limited — treat it as a bonus rather than a primary feature. Wide oscillation (left-right and up-down on some models) covers more room area than a fixed directional fan. PSE certified for Japan's safety standards.",
+      "badge": "أفضل مروحة بمحرك DC (اليابان)",
+      "review": "مروحة Panasonic F-CL2025 بمحرك التيار المستمر هي الخيار للأسر اليابانية التي تشغّل مروحة طوال موسم الصيف الرطب الممتد أربعة أشهر. يسحب محرك DC من 3 إلى 15 واط بحسب السرعة مقابل 30–50 واط لمروحة مكافئة بمحرك AC — وعلى مدى 90 يومًا بمعدل 8 ساعات يوميًا، يمثّل ذلك فارق تكلفة كهرباء حقيقيًا بنحو 5,000–8,000 ين. وتتيح لك إعدادات السرعة الثمانية الضبط من تدفق هواء بالكاد يُحَس (مفيد للنوم) إلى نسمة كاملة لتبريد الغرفة. و40 ديسيبل عند السرعة المتوسطة هادئ فعلًا بمعايير المراوح. وتضيف تقنية أيونات Nanoe وظيفة مضادة للبكتيريا خفيفة إلى تدفق الهواء، وإن كانت الأدلة على ذلك خارج بيانات Panasonic نفسها محدودة — فاعتبرها ميزة إضافية لا ميزة أساسية. ويغطي التذبذب الواسع (يمينًا-يسارًا وأعلى-أسفل في بعض الطرازات) مساحة أكبر من الغرفة مقارنةً بمروحة موجّهة ثابتة. حاصلة على شهادة PSE وفق معايير السلامة اليابانية.",
       "pros": [
-        "DC motor draws 3–15W versus 30–50W for AC equivalents — meaningful electricity savings over a Japanese summer",
-        "8 speed settings including near-silent low settings for bedroom overnight use",
-        "40dB at mid speed — genuinely quiet for sustained use",
-        "PSE certification and Panasonic domestic warranty"
+        "محرك DC يسحب 3–15 واط مقابل 30–50 واط للمكافئات بـ AC — توفير كهرباء ذو معنى طوال صيف ياباني",
+        "8 إعدادات سرعة بما فيها إعدادات منخفضة شبه صامتة للاستخدام الليلي في غرفة النوم",
+        "40 ديسيبل عند السرعة المتوسطة — هادئة فعلًا للاستخدام المستمر",
+        "شهادة PSE وضمان Panasonic المحلي"
       ],
       "cons": [
-        "Premium price versus AC fan equivalents — savings require sustained summer use to recoup",
-        "Nanoe ion antibacterial claims lack independent peer-reviewed evidence"
+        "سعر راقٍ مقارنةً بمكافئات AC — يتطلب التوفير استخدامًا صيفيًا مستمرًا لاستردادها",
+        "ادعاءات Nanoe المضادة للبكتيريا تفتقر إلى أدلة مستقلة محكّمة"
       ],
       "grade": "A+",
       "specs": {
@@ -188,17 +188,17 @@
     },
     {
       "offerId": "portable-fan-satechi-dual",
-      "badge": "Best USB-C Desk Fan",
-      "review": "The Satechi Dual USB-C fan occupies a specific niche: desk cooling in environments where wall outlets are scarce or noise must stay below 40dB. Drawing power from a USB-C port (compatible with USB-C PD hubs, laptops, and monitors), it eliminates the need for a dedicated outlet. The dual-head design points both fans at slightly different angles, covering a wider desk zone than a single-head fan. At 35dB, it's quiet enough for open office environments, video calls, and study spaces where a conventional fan's noise would be intrusive. The limitation is physics: USB-C's ~10W power ceiling means the Satechi cannot move the airflow volume of a 27W–50W AC fan. In a hot room above 28°C, it will not cool you adequately — it is a warm-weather-plus-mild-heat tool, not a summer-in-Osaka survival tool.",
+      "badge": "أفضل مروحة مكتب بمنفذ USB-C",
+      "review": "تحتل مروحة Satechi Dual بمنفذ USB-C مكانة محددة: تبريد المكتب في بيئات تندر فيها منافذ الجدار أو يجب أن تبقى الضوضاء فيها دون 40 ديسيبل. وبسحبها الطاقة من منفذ USB-C (متوافق مع موزّعات USB-C PD والحواسيب المحمولة والشاشات)، تلغي الحاجة إلى منفذ مخصص. ويوجّه التصميم مزدوج الرأس كلتا المروحتين بزاويتين مختلفتين قليلًا، فيغطي منطقة مكتب أوسع من مروحة أحادية الرأس. وعند 35 ديسيبل، فهي هادئة بما يكفي للمكاتب المفتوحة ومكالمات الفيديو وأماكن المطالعة حيث تكون ضوضاء مروحة تقليدية مزعجة. القيد هو الفيزياء: سقف طاقة USB-C البالغ نحو 10 واط يعني أن Satechi لا تستطيع تحريك حجم تدفق هواء مروحة AC بقدرة 27–50 واط. في غرفة حارة تتجاوز 28 درجة مئوية، لن تبرّدك بشكل كافٍ — فهي أداة للطقس الدافئ مع حرارة معتدلة، لا أداة للنجاة من صيف أوساكا.",
       "pros": [
-        "USB-C powered — draws from laptop, monitor, or hub without a dedicated wall outlet",
-        "35dB at max speed — quiet enough for video calls and open offices",
-        "Dual-head design covers wider desk zone than single-head fans",
-        "Flexible neck allows precise angle adjustment without moving the base"
+        "تعمل بمنفذ USB-C — تسحب من حاسوب محمول أو شاشة أو موزّع دون منفذ جداري مخصص",
+        "35 ديسيبل عند أقصى سرعة — هادئة بما يكفي لمكالمات الفيديو والمكاتب المفتوحة",
+        "تصميم مزدوج الرأس يغطي منطقة مكتب أوسع من المراوح أحادية الرأس",
+        "عنق مرن يتيح ضبط الزاوية بدقة دون تحريك القاعدة"
       ],
       "cons": [
-        "~10W USB-C power ceiling limits airflow volume — insufficient for rooms above 28°C",
-        "Not a room cooler or a summer survival fan — personal desk use only in moderate conditions"
+        "سقف طاقة USB-C البالغ نحو 10 واط يحد من حجم تدفق الهواء — غير كافٍ للغرف فوق 28 درجة مئوية",
+        "ليست مروحة لتبريد الغرفة ولا مروحة للنجاة من الصيف — استخدام مكتبي شخصي فقط في ظروف معتدلة"
       ],
       "grade": "B+",
       "specs": {
@@ -219,18 +219,18 @@
   ],
   "faqs": [
     {
-      "q": "Should I get a desk fan or an air circulator for a hot bedroom?",
-      "a": "For a hot bedroom, an air circulator (Vornado Pivot5 or Panasonic DC fan) is more effective at actually lowering the room temperature over time, while a desk fan (Honeywell HT-900) makes you feel cooler immediately. In a bedroom where you sleep, you want the room temperature lower, not just a breeze on your face — the circulator wins for that use case. The practical compromise: run an air circulator for 30 minutes before sleeping to mix the room air, then switch to a desk fan on low aimed at the bed for sleeping. If you can only have one, a DC motor circulator on its lowest setting through the night is the quieter and more effective bedroom option."
+      "q": "هل أختار مروحة مكتب أم مروحة تدوير هواء لغرفة نوم حارة؟",
+      "a": "لغرفة نوم حارة، تكون مروحة تدوير الهواء (Vornado Pivot5 أو مروحة Panasonic DC) أكثر فاعلية في خفض درجة حرارة الغرفة فعليًا بمرور الوقت، بينما تجعلك مروحة المكتب (Honeywell HT-900) تشعر ببرودة فورية. في غرفة نوم، تريد درجة حرارة الغرفة أدنى لا مجرد نسمة على وجهك — لذا تفوز مروحة التدوير في حالة الاستخدام هذه. والحل العملي الوسط: شغّل مروحة تدوير هواء لمدة 30 دقيقة قبل النوم لمزج هواء الغرفة، ثم انتقل إلى مروحة مكتب على سرعة منخفضة موجّهة نحو السرير للنوم. وإن لم تستطع امتلاك سوى واحدة، فإن مروحة تدوير هواء بمحرك DC على أدنى إعداد طوال الليل هي الخيار الأهدأ والأكثر فاعلية لغرفة النوم."
     },
     {
-      "q": "How much electricity does a fan use compared to an air conditioner?",
-      "a": "A typical AC motor desk fan draws 25–50W. A DC motor fan draws 3–15W. A window air conditioner draws 500–1500W and a portable AC draws 1000–1400W. Running a 40W AC fan 8 hours daily for 90 days at ¥30/kWh costs about ¥8,640 in Japan. A 10W DC fan over the same period costs about ¥2,160. A 900W portable AC costs ¥194,400 over the same 8-hour daily, 90-day period. The cost difference is not subtle. In climates where a fan alone is sufficient for comfort (below about 32°C ambient with low humidity), a DC fan is dramatically cheaper to operate than any air conditioning. Japan's humid summer makes fans alone insufficient once outdoor temperatures exceed 35°C and humidity stays above 70% — at that point, air conditioning is necessary and fans supplement it to allow setting the AC target temperature 2–3°C higher, which itself saves significant energy."
+      "q": "كم تستهلك المروحة من الكهرباء مقارنةً بمكيّف الهواء؟",
+      "a": "تسحب مروحة مكتب نموذجية بمحرك AC من 25 إلى 50 واط. وتسحب مروحة بمحرك DC من 3 إلى 15 واط. ويسحب مكيّف نافذة من 500 إلى 1500 واط، ويسحب مكيّف محمول من 1000 إلى 1400 واط. تشغيل مروحة AC بقدرة 40 واط لمدة 8 ساعات يوميًا على مدى 90 يومًا عند 30 ينًا/كيلوواط ساعة يكلّف نحو 8,640 ينًا في اليابان. ومروحة DC بقدرة 10 واط على المدة نفسها تكلّف نحو 2,160 ينًا. أما مكيّف محمول بقدرة 900 واط فيكلّف 194,400 ينًا على نفس مدة الـ 8 ساعات يوميًا لـ 90 يومًا. فارق التكلفة ليس طفيفًا. وفي المناخات التي تكفي فيها المروحة وحدها للراحة (دون نحو 32 درجة مئوية محيطة مع رطوبة منخفضة)، تكون مروحة DC أرخص بكثير في التشغيل من أي تكييف هواء. أما صيف اليابان الرطب فيجعل المراوح وحدها غير كافية متى تجاوزت الحرارة الخارجية 35 درجة مئوية وبقيت الرطوبة فوق 70% — عندها يصبح التكييف ضروريًا وتكمّله المراوح للسماح برفع درجة حرارة المكيّف المستهدفة 2–3 درجات مئوية، ما يوفّر بدوره طاقة كبيرة."
     },
     {
-      "q": "What does Panasonic's nanoe ion technology actually do in a fan?",
-      "a": "Nanoe technology emits hydroxyl radicals enclosed in water — Panasonic calls these OH radicals — which the company claims inhibit bacteria and deactivate some viruses and allergens in the airstream. Panasonic has published internal testing data supporting these claims. Independent peer-reviewed research on nanoe specifically (versus OH radical chemistry generally) is more limited. The practical reality: the antibacterial function in a fan context means the air blown from the fan carries trace OH radicals that contact surfaces and airborne particles in the room. Whether this produces measurable indoor air quality improvement in a real home versus a controlled test chamber is genuinely uncertain. Don't buy the Panasonic F-CL2025 for the nanoe technology specifically; buy it for the DC motor's energy efficiency and the 8-speed range. The nanoe is a bonus."
+      "q": "ماذا تفعل تقنية أيونات Nanoe من Panasonic فعليًا داخل مروحة؟",
+      "a": "تطلق تقنية Nanoe جذورًا هيدروكسيلية محبوسة داخل الماء — تسمّيها Panasonic جذور OH — تزعم الشركة أنها تثبّط البكتيريا وتعطّل بعض الفيروسات ومسببات الحساسية في تيار الهواء. وقد نشرت Panasonic بيانات اختبار داخلية تدعم هذه الادعاءات. أما الأبحاث المستقلة المحكّمة حول Nanoe تحديدًا (مقابل كيمياء جذور OH عمومًا) فأكثر محدودية. والواقع العملي: تعني الوظيفة المضادة للبكتيريا في سياق مروحة أن الهواء المنفوخ من المروحة يحمل آثارًا من جذور OH تلامس الأسطح والجسيمات المحمولة جوًا في الغرفة. وأما إن كان ذلك يُحدث تحسّنًا قابلًا للقياس في جودة الهواء الداخلي في منزل حقيقي مقابل حجرة اختبار مضبوطة فأمر غير مؤكد فعلًا. لا تشترِ Panasonic F-CL2025 من أجل تقنية Nanoe تحديدًا؛ بل اشترِها من أجل كفاءة محرك DC في استهلاك الطاقة ونطاق السرعات الثماني. وأيونات Nanoe ميزة إضافية."
     }
   ],
-  "pinDescription": "Five portable fans compared for 2026 — Dyson Pure Cool Me vs Vornado vs Panasonic DC motor. Airflow vs noise vs electricity cost. The real difference between desk fans and room circulators. USB-C powered fan for offices. Japanese summer survival guide.",
+  "pinDescription": "مقارنة بين خمس مراوح محمولة لعام 2026 — Dyson Pure Cool Me مقابل Vornado مقابل Panasonic بمحرك DC. تدفق الهواء مقابل الضوضاء مقابل تكلفة الكهرباء. الفرق الحقيقي بين مراوح المكتب ومراوح تدوير هواء الغرفة. مروحة بمنفذ USB-C للمكاتب. دليل النجاة من الصيف الياباني.",
   "offerNotes": ""
 }

@@ -1,253 +1,253 @@
 {
-  "title": "最佳戶外安全攝像頭 2026：5 部電池供電攝像頭按分辨率、夜視和存儲進行比較",
-  "description": "Arlo Pro 5S、Ring Stick Up Cam、Google Nest Cam Battery、Wyze Cam v4 和 Reolink Argus 4 按 4K vs 2K 分辨率、彩色夜視、本地與雲存儲以及 2026 年的訂閱費用進行比較。",
-  "lede": "五部電池供電的戶外安全攝像頭根據實際安裝中重要的規格進行評估 — 分辨率、夜視深度、本地存儲選項以及您在第一年之後實際支付的費用。",
-  "methodology": "Kameras bewertet nach Videoauflösung (4K/2K/1080p), Sichtfeld in Grad, Farbnahtsicht-Reichweite (Meter), lokale Speicheroptionen (SD-Karte/NAS), Cloud-Speicher-Abonnementkosten, bidirektionale Audioqualität, Bewegungserkennungsgenauigkeit (KI Person/Fahrzeug/Tier-Erkennung), Installationsflexibilität, Akkulaufzeit zwischen Ladungen und IP-Schutzart. Preise von Amazon US ab Mai 2026.",
+  "title": "2026年最佳監控攝影機：5款戶外機型比較",
+  "description": "Arlo Pro 5S、Ring Stick Up Cam、Google Nest Cam Battery、Wyze Cam v4 與 Reolink Argus 4，從4K vs 2K畫質、彩色夜視、本地vs雲端儲存、視角範圍到訂閱費用全面比較，助你選購2026年最適合的家用監控攝影機。",
+  "lede": "五款電池供電的戶外監控攝影機，依實際安裝中最關鍵的規格逐一評測——畫質解析度、夜視距離、本地儲存選項，以及第一年過後你真正需要支付的費用。",
+  "methodology": "評測項目涵蓋影像解析度（4K/2K/1080p）、視角範圍（度）、彩色夜視距離（公尺）、本地儲存選項（SD卡/NAS）、雲端儲存訂閱費用、雙向語音品質、移動偵測準確度（AI人物/車輛/動物辨識）、安裝彈性、充電間隔的電池續航力，以及IP防護等級。價格取自2026年5月的Amazon美國站。",
   "recommendedFor": [
     {
-      "label": "Für beste 4K-Auflösung ohne Abonnementanforderung",
+      "label": "最佳4K畫質且無需訂閱方案",
       "offerId": "security-cam-arlo-pro-5s",
-      "reason": "Arlo Pro 5S bietet 4K HDR mit Farbnahtsicht und unterstützt lokales CVR auf USB-Speicher ohne kostenpflichtiges Abonnement."
+      "reason": "Arlo Pro 5S提供4K HDR與彩色夜視功能，並支援透過USB儲存裝置進行本地連續錄影，無需付費訂閱。"
     },
     {
-      "label": "Für Amazon Alexa und Ring Ecosystem Haushalte",
+      "label": "適合Amazon Alexa與Ring生態系用戶",
       "offerId": "security-cam-ring-stick-up",
-      "reason": "Engste Ring Protect Integration, funktioniert mit Alexa Show für Live-View und das installierbarste Design in dieser Liste."
+      "reason": "Ring Protect整合最緊密，可搭配Alexa Show即時查看影像，且安裝方式最為靈活多元。"
     },
     {
-      "label": "Für Google Nest und Google Home Benutzer",
+      "label": "適合Google Nest與Google Home用戶",
       "offerId": "security-cam-google-nest-cam-battery",
-      "reason": "Nest Cam Battery integriert sich nativ mit Google Home, unterstützt Familiar Face Erkennung und hat die beste KI-Ereigniskategorisierung in diesem Vergleich."
+      "reason": "Nest Cam Battery與Google Home原生整合，支援熟悉面孔偵測，是本次比較中AI事件分類能力最強的機型。"
     },
     {
-      "label": "Für budgetbewusste Käufer, die keine Abonnementgebühren mögen",
+      "label": "注重預算且不想支付訂閱費用的買家",
       "offerId": "security-cam-wyze-cam-v4",
-      "reason": "Wyze Cam v4 bietet Farbnahtsicht, Personenerkennung und microSD lokalen Speicher zum niedrigsten Preis in diesem Vergleich mit kostenloser Tier-Option."
+      "reason": "Wyze Cam v4提供彩色夜視、人物偵測與microSD本地儲存，價格最為親民，且設有免費方案。"
     },
     {
-      "label": "Für Benutzer, die 4K lokalen Speicher ohne Cloud wünschen",
+      "label": "希望4K本地儲存且完全不依賴雲端的用戶",
       "offerId": "security-cam-reolink-argus-4",
-      "reason": "Reolink Argus 4 Pro speichert 4K-Material lokal auf microSD oder NAS ohne obligatorisches Abonnement — die datenschutzfreundlichste Option in dieser Liste."
+      "reason": "Reolink Argus 4 Pro將4K影像本地儲存至microSD或NAS，無需任何強制訂閱，是本清單中最注重隱私的選擇。"
     }
   ],
   "sections": [
     {
-      "heading": "Auflösung, Nachtsicht und Sichtfeld: was die Zahlen bedeuten",
+      "heading": "解析度、夜視與視角：數字背後的真正意義",
       "paragraphs": [
-        "Die Kameraauflösung hat bei unterschiedlichen Entfernungen unterschiedliche Bedeutung. 4K (3840×2160) ist aussagekräftig zur Erfassung von Details — ein Gesicht auf 8 Metern, ein Nummernschild auf 6 Metern — aber nur, wenn der Sensor, die Blende und die Komprimierungseinstellungen der Kamera tatsächlich auf dieser Pixelanzahl abgeliefert werden. Mehrere mit 4K gekennzeichnete Kameras auf dem Markt erzeugen nachts überkomprimierte Aufnahmen, bei denen die effektive Detailtreue näher an einer gut eingestellten 2K-Kamera liegt. Arlo Pro 5S und Reolink Argus 4 Pro sind echte 4K-Implementierungen — ihre Tagesaufnahmen erfassen brauchbare Gesichtszüge auf ca. 8 Metern. Google Nest Cam Battery und Ring Stick Up Cam laufen mit 1080p HDR, was für die meisten Wohnfälle ausreichend ist, wo die Identifikation auf 4–6 Metern das primäre Bedürfnis ist. Wyze Cam v4 bei 2,5K ist ein aussagekräftiger Schritt über 1080p hinaus für Nummernschild-Erfassung.",
-        "Nachtsichttyp ist die zweite kritische Spezifikation. Standard-IR-Nachtsicht (schwarz und weiß, Infrarot-Illuminatoren) ist funktionsfähig, erzeugt aber monochromes Material — eine dunkle Jacke und ein dunkles Gesicht verschmelzen zum gleichen Grau. Farbnahtsicht nutzt einen größeren Blendensensor kombiniert mit High-Gain-Verarbeitung, um Farbaufnahmen unter Bedingungen auf etwa 0,001 Lux herunter zu erzeugen — wirksam in Bereichen mit beliebiger Straßenleuchte, Veranda oder Umgebungshimmelglühen. Alle fünf Kameras in dieser Liste haben eine Form von Farbnahtsicht-Fähigkeit, aber Tiefe und Qualität unterscheiden sich erheblich. Arlo Pro 5S Farbnahtsicht ist auf etwa 6–7 Metern in Umgebungslicht wirksam. Google Nest Cam Battery Farbnahtsicht verwendet Googles HDR+ Verarbeitung und ist auf etwa 5–6 Metern wirksam. Wyze Cam v4 Starlight-Sensor ist die kleinste Blende in dieser Gruppe und fällt bei echter Dunkelheit in IR-Modus — eine echte Schwäche für Orte ohne Umgebungslicht. Reolink Argus 4 Pro mit doppeltem Spotlight (zwei LED-Spots ausgelöst durch Bewegung) schaltet von passiver Farbnahtsicht zu aktiver Farbbeleuchtung beim Erkennen von Bewegung um und erzeugt in diesem Vergleich das best-beleuchtete Farbnahts-Material für Bewegungsereignisse.",
-        "Sichtfeld bestimmt, wie viel einer Szene eine Kamera abdeckt. Ein enges 90° FOV erfordert mehr Kameras zum Abdecken einer Standard-Einfahrtszene als ein 160° FOV. Wyze Cam v4 mit 130° horizontales FOV deckt einen Standard-8-Meter-Garagentoreingang mit einer Kamera ab. Reolink Argus 4 Pro mit 122° horizontales FOV ist ähnlich. Arlo Pro 5S mit 160° diagonales FOV (etwa 133° horizontal) kann eine Eckenposition mit zwei Richtungen Watch abdecken. Google Nest Cam Battery mit 130° horizontales FOV entspricht Wyze. Ring Stick Up Cam mit 130° diagonal (etwa 110° horizontal) ist das engste in diesem Vergleich — Sie brauchen präzisere Ausrichtung zum Abdecken eines breiten Zugangs."
+        "攝影機解析度在不同距離下的實際意義不盡相同。4K（3840×2160）對於捕捉細節確實有其價值——例如8公尺外的臉部特徵、6公尺外的車牌——但前提是攝影機的感光元件、鏡頭光圈與壓縮設定都確實發揮了這個像素數量的效能。市面上不少標榜4K的攝影機在夜間拍攝時因過度壓縮，實際細節呈現反而接近調校得當的2K畫面。Arlo Pro 5S與Reolink Argus 4 Pro屬於真正落實4K規格的機型——其日間拍攝可在約8公尺距離捕捉可辨識的臉部特徵。Google Nest Cam Battery與Ring Stick Up Cam採用1080p HDR，對於大多數住宅用途而言已綽綽有餘，主要需求在於4至6公尺內的人員辨識。Wyze Cam v4的2.5K解析度在車牌辨識方面比1080p有明顯提升。",
+        "夜視類型是第二項關鍵規格。標準紅外線夜視（黑白影像、紅外線補光）雖然可用，但只能產生單色畫面——深色夾克與深色臉孔在畫面中都會融合成同一片灰。彩色夜視則透過大光圈感光元件搭配高增益處理，在環境光低至約0.001勒克斯的條件下仍能產生彩色影像，適用於有任何路燈、門廊燈或天空漫射光的場所。本清單五款攝影機均具備某種形式的彩色夜視能力，但實際距離與品質差異相當顯著。Arlo Pro 5S的彩色夜視在環境光下有效距離約6至7公尺。Google Nest Cam Battery的彩色夜視採用Google HDR+處理，有效距離約5至6公尺。Wyze Cam v4的Starlight感光元件在本組中光圈最小，在完全無光環境下會切換至紅外線模式，對於缺乏環境光的安裝位置是明顯弱點。Reolink Argus 4 Pro搭載雙燈補光設計（兩顆LED聚光燈由移動觸發），在偵測到移動時會從被動彩色夜視切換為主動彩色補光，在移動事件中產生本次比較中照明效果最佳的彩色夜間影像。",
+        "視角範圍決定單一攝影機能涵蓋多少場景範圍。90°的窄視角需要比160°視角更多的攝影機才能涵蓋標準車道入口。Wyze Cam v4的130°水平視角可以用單一攝影機涵蓋標準8公尺車庫大門入口。Reolink Argus 4 Pro的122°水平視角與此相近。Arlo Pro 5S的160°對角視角（約133°水平視角）適合安裝在角落位置同時監視兩個方向。Google Nest Cam Battery的130°水平視角與Wyze相當。Ring Stick Up Cam的130°對角視角（約110°水平視角）是本次比較中最窄的，在涵蓋寬廣入口時需要更精準的瞄準角度。"
       ]
     },
     {
-      "heading": "Lokaler Speicher vs. Cloud-Abonnement: was Sie im zweiten Jahr zahlen",
+      "heading": "本地儲存vs雲端訂閱：第二年的實際花費",
       "paragraphs": [
-        "Die Abonnementkosten-Berechnung ist der wichtigste wirtschaftliche Faktor beim Besitz einer Überwachungskamera nach dem ersten Jahr. Die meisten Kameras in diesem Vergleich werden zum oder unter Kosten verkauft, wobei der Hersteller die Marge durch Cloud-Speicher-Abonnementgebühren zurückgewinnt. Arlo Pro 5S erfordert ein Arlo Secure Abonnement bei 12,99 $/Monat (149,88 $/Jahr pro Kamera) für 30-Tage-Cloud-Aufnahme — die höchsten fortlaufenden Kosten in diesem Vergleich. Allerdings unterstützt Arlo auch eine kostenlose Tier (nur Live-View und manuelle Aufnahme, keine bewegungsgesteuerten Cloud-Clips) und einzigartig in dieser Liste USB-basierte lokale Dauervideoaufnahme ohne Abonnement — relevant für Benutzer, die einen Hub-Standort in der Nähe der Kamera haben.",
-        "Google Nest Cam Battery erfordert ein Nest Aware Abonnement bei 6 $/Monat (72 $/Jahr) für 30-Tage-Ereignisverlauf oder 12 $/Monat (144 $/Jahr) für 60-Tage plus Familiar Face Erkennung. Ohne Abonnement werden nur die letzten 3 Stunden Bewegungsclips gespeichert. Ring erfordert einen Ring Protect Plan bei 4 $/Monat pro Gerät für 180-Tage Cloud-Speicher — das niedrigste Pro-Kamera-Abonnement in dieser Gruppe. Wyze bietet eine kostenlose Tier mit 14-Tage-Ereignis-Clips in der Wyze App (12-Sekunden-Clips, 0 $/Monat) plus einen Wyze Cam Unlimited Plan bei 4,99 $/Monat für Daueraufnahme. Reolink Argus 4 Pro ist das Abonnement-freiste in dieser Liste — es speichert Material lokal auf einer microSD-Karte (bis 256 GB, unterstützt mehrere Wochen Bewegungsgesteuerte Clips) oder auf einem netzgebundenen Speicher (NAS) über den Reolink Home Hub. Reolink bietet optionalen Cloud-Speicher bei 3,49 $/Monat an, aber lokaler Speicher macht laufende Kostbedarfe überflüssig.",
-        "Die gesamte Besitzkostenrechnung über 3 Jahre: Arlo Pro 5S bei 199 $ Hardware + 449 $ Abonnement = 648 $ pro Kamera. Google Nest Cam Battery bei 179 $ + 216 $ Abonnement = 395 $ pro Kamera. Ring Stick Up Cam bei 149 $ + 144 $ Abonnement = 293 $ pro Kamera. Wyze Cam v4 bei 35 $ + 0 $ (kostenlos Tier) = 35 $ pro Kamera. Reolink Argus 4 Pro bei 89 $ + 0 $ (lokaler Speicher) = 89 $ pro Kamera. Diese Zahlen setzen voraus, dass Sie die Abonnement-Funktionen schätzen — wenn Sie sich mit lokalem Speicher zufrieden geben, dann favoritisiert die Berechnung Reolink oder Wyze schwer."
+        "訂閱費用的計算是監控攝影機使用第一年後最重要的經濟考量。本次比較中的大多數攝影機售價接近成本，廠商透過雲端儲存訂閱費回收利潤。Arlo Pro 5S需要Arlo Secure訂閱方案，每月12.99美元（每台攝影機每年149.88美元）才能享有30天雲端錄影——是本次比較中持續支出最高的方案。不過，Arlo也提供免費方案（僅限即時查看與手動錄影，不含移動觸發的雲端影片片段），且在本清單中唯一支援透過USB連接的本地連續錄影而無需訂閱——對於攝影機附近有集線器位置的用戶來說相當實用。",
+        "Google Nest Cam Battery需要Nest Aware訂閱，每月6美元（每年72美元）可享有30天事件記錄，或每月12美元（每年144美元）可享有60天記錄加上熟悉面孔偵測功能。若未訂閱，僅保留最近3小時的移動影片片段。Ring需要Ring Protect方案，每月每台裝置4美元即可享有180天雲端儲存——是本組中每台攝影機訂閱費用最低的方案。Wyze提供免費方案，在Wyze應用程式中保留14天事件片段（每段12秒，每月0美元），另有Wyze Cam Unlimited方案每月4.99美元可享連續錄影。Reolink Argus 4 Pro是本清單中最不依賴訂閱的機型——影像本地儲存至microSD卡（最高256 GB，可保留數週的移動觸發片段），或透過Reolink Home Hub儲存至NAS網路附加儲存裝置。Reolink提供選購的雲端儲存方案每月3.49美元，但使用本地儲存即可完全免除持續費用。",
+        "三年總持有成本比較：Arlo Pro 5S硬體199美元加上449美元訂閱費共計648美元（每台）。Google Nest Cam Battery硬體179美元加上216美元訂閱費共計395美元（每台）。Ring Stick Up Cam硬體149美元加上144美元訂閱費共計293美元（每台）。Wyze Cam v4硬體35美元加上0美元（免費方案）共計35美元（每台）。Reolink Argus 4 Pro硬體89美元加上0美元（本地儲存）共計89美元（每台）。以上數字假設你確實需要訂閱功能——若你能接受純本地儲存，Reolink或Wyze的性價比優勢將極為突出。"
       ]
     },
     {
-      "heading": "KI-Erkennungsgenauigkeit und False-Positive-Raten",
+      "heading": "AI偵測準確度與誤報率",
       "paragraphs": [
-        "Bewegungserkennungsgenauigkeit in 2026 ist aufgeteilt zwischen grundlegender Pixel-Änderungserkennung (Auslösung durch Blätter, Scheinwerfer, Insekten nachts) und KI Person/Fahrzeug/Tier Klassifikation (sendet nur eine Benachrichtigung, wenn das Ereignis der Kategorie entspricht, die Sie interessiert). Alle fünf Kameras in diesem Vergleich haben eine Form von KI-Erkennung, aber die Genauigkeit und Spezifität unterscheiden sich erheblich. Google Nest Cam Battery hat die genaueste KI-Personenerkennung in diesem Vergleich — der On-Device Neural Network Prozessor (ein separater Chip vom Hauptprozessor) reduziert False Positives von Baumbewegung, Schatten und Insekten auf nahezu null in den meisten Wohnumgebungen. Familiar Face Erkennung (mit Nest Aware Plus) identifiziert registrierte Haushaltsmitglieder und sendet differenzierte Benachrichtigungen.",
-        "Arlo Pro 5S KI-Erkennung über Arlo Secure Abonnement ist die zweithöchste Genauigkeit in diesem Vergleich — Person, Fahrzeug, Tier und Paket-Erkennung mit etwa 3–5% False-Positive-Raten in Vorstadtumgebungen. Rings AI-Erkennung über Ring Protect ist wirksam, aber hat höhere False-Positive-Raten als Arlo oder Nest in Bereichen mit erheblicher Baumdecke oder häufigem Fahrzeugverkehr, der im Kamera-FOV vorbeifährt. Wyze Person Detection ist kostenlos verfügbar (früher bezahlt) und funktioniert angemessen für Wohnnutzung mit etwa 8–12% False-Positive-Raten — höher als Arlo oder Nest, aber akzeptabel für die meisten Installationen. Reolink AI-Erkennung für Argus 4 Pro läuft lokal auf dem Kamera-Chip und ist funktionsfähig, produziert aber die höchste False-Positive-Rate in diesem Vergleich in Umgebungen mit häufiger Bewegung.",
-        "Akkulaufzeit zwischen Ladungen ist die versteckte operative Betriebskostberechnung für batteriebetriebene Kameras. Alle fünf Kameras in diesem Vergleich sind batteriebetrieben. Herstelleransprüche liegen zwischen 3 Monaten (Wyze Cam v4) bis 6 Monaten (Reolink Argus 4 Pro) pro Ladung, aber diese Zahlen setzen sehr niedrige Bewegungsereignisfrequenz voraus — typischerweise 10 Ereignisse pro Tag. In einer Vorstadt-Einfahrt mit häufigem Fahrzeugverkehr liegt echte Akkulaufzeit auf allen fünf Kameras bei 4–8 Wochen bevor Ladung benötigt wird. Arlo Pro 5S und Reolink Argus 4 Pro unterstützen Solar-Panel-Ladung (separat verkauft), was sie für Orte mit angemessener Sonnenexposition wirklich drahtos-unbegrenzt macht."
+        "2026年的移動偵測能力分為兩類：基礎像素變化偵測（樹葉搖晃、車頭燈、夜間昆蟲都會觸發）以及AI人物/車輛/動物分類（僅在事件符合你所關注的類別時才發送通知）。本次比較的五款攝影機均具備某種形式的AI偵測，但準確度與專一性差異顯著。Google Nest Cam Battery在本次比較中擁有最準確的AI人物偵測——機內神經網路處理器（與主晶片分開的獨立晶片）在大多數住宅環境中將樹木移動、陰影、昆蟲造成的誤報降至趨近於零。搭配Nest Aware Plus的熟悉面孔偵測功能可辨識已登記的家庭成員，並發送差異化警示（例如「Ken到達前門」與「前門出現陌生人」）。",
+        "Arlo Pro 5S透過Arlo Secure訂閱提供的AI偵測在本次比較中準確度排名第二——人物、車輛、動物與包裹偵測在郊區環境的誤報率約為3至5%。Ring透過Ring Protect提供的AI偵測功能有效，但在有大量樹木遮蔽或車輛頻繁穿越鏡頭視角的環境中，誤報率高於Arlo或Nest。Wyze的人物偵測功能免費提供（過去需付費），在住宅用途上表現尚可，誤報率約8至12%——高於Arlo或Nest，但對大多數安裝場合仍屬可接受範圍。Reolink Argus 4 Pro的AI偵測在攝影機內建晶片上本地執行，功能可用，但在移動頻繁的環境中（寵物、野生動物、樹枝搖擺），誤報率在本次比較中最高。",
+        "充電間隔的電池續航力是電池供電攝影機隱藏的實際運作成本。本次比較的五款攝影機均採電池供電。廠商宣稱的續航力從Wyze Cam v4的3個月到Reolink Argus 4 Pro的6個月不等，但這些數字假設移動事件頻率極低，通常以每日10次事件為基準。在車輛頻繁往來的郊區車道，五款攝影機的實際電池壽命在需要充電前均約為4至8週。Arlo Pro 5S與Reolink Argus 4 Pro支援太陽能板充電（另購），在日照充足的位置可實現真正的無限續航。"
       ]
     },
     {
-      "heading": "Welche Kamera für welche Installation",
+      "heading": "各場景的最適機型推薦",
       "paragraphs": [
-        "Arlo Pro 5S bei etwa 199 $ ist die korrekte Wahl für Käufer, die 4K-Auflösung wollen, die Arlo-Abonnementkosten akzeptieren und lokale Speicherfähigkeit als Backup-Option benötigen. Die 4K HDR erfasst nutzbare Gesichtszüge auf 8 Metern und Nummernschilde auf 6 Metern. Farbnahtsicht ist auf 6–7 Metern in Umgebungslicht wirksam. Das 160° diagonale FOV macht es die beste Wahl für Eckenmontage, die zwei Zugangsrichtungen überwacht. Arlos KI-Erkennung (mit Abonnement) ist die zweithöchste Genauigkeit in diesem Vergleich. Ehrliche Schwächen: Die Abonnementkosten sind die höchsten in dieser Gruppe bei 12,99 $/Monat pro Kamera, der Hardwarepreis bei 199 $ ist auch der höchste und die Akkulaufzeit zwischen Ladungen ist 3–6 Monate abhängig von Aktivität — Solar-Panel-Ladung ist für stark genutzten Orten empfohlen.",
-        "Ring Stick Up Cam bei etwa 99 $ (Batterie-Version) ist die korrekte Wahl für Amazon Echo und Ring Ecosystem-Haushalte, die den einfachsten Integrationspfad und die niedrigsten Abonnementkosten pro Kamera wollen. 180-Tage Cloud-Speicher bei 4 $/Monat ist der beste Abonnement-Wert in diesem Vergleich. Das Stick Up Cam Design — ein Zylinder, der bündig montiert, auf einem Ständer oder auf einem Wandhalter funktioniert — ist das installierbar-überall-am-meisten in dieser Liste. Alexa Integration ermöglicht Live-Kamera-Sicht auf Echo Show Geräten ohne Telefon zu öffnen. Ehrliche Schwächen: 1080p Auflösung ist die niedrigste in diesem Vergleich; die AI-Erkennung ist weniger genau als Arlo Pro 5S oder Nest Cam; das 130° diagonale FOV ist das engste hier und erfordert vorsichtigere Ausrichtung bei breiten-Winkel-Orten.",
-        "Google Nest Cam Battery bei etwa 179 $ ist die korrekte Wahl für Google Home und Google Assistant-Haushalte, die die beste AI-Ereigniserkennung und Familiar Face Erkennung wollen. Googles On-Device Neural Network erzeugt die niedrigste False-Positive-Rate in diesem Vergleich für Personenerkennung in typischen Wohnumgebungen. 1080p HDR ist ausreichend für den 4–6 Meter Erkennungsbereich, den die meisten Wohninstallationen benötigen. Nest Aware Abonnement bei 6 $/Monat bietet 30-Tage-Verlauf und ist der beste Wert-Abonnement in diesem Vergleich für AI-Feature-Zugang. Ehrliche Schwächen: Das Abonnement ist für die meisten nützlichen Funktionen erforderlich — ohne es werden nur 3 Stunden des Ereignisverlaufs gespeichert; Familiar Face Erkennung erfordert den 12 $/Monat Nest Aware Plus Plan; die Kamera erfordert einen Nest Hub oder Nest Wi-Fi Gerät als Basisstation für Thread-basierte Außeninstallation.",
-        "Wyze Cam v4 bei etwa 35 $ ist die korrekte Wahl für budgetbewusste Käufer, die funktionale Überwachung ohne Abonnement-Gebühren brauchen. Die Wyze kostenlose Tier (14-Tage Ereignisclips, Personenerkennung, 12-Sekunden-Clips) bietet echte Nützlichkeit zu null laufenden Kosten. Die 2,5K Auflösung (2560×1440) ist ein aussagekräftiger Schritt über 1080p hinaus für Nummernschild-Erfassung in kurzer Entfernung. Farbnahtsicht über Starlight-Sensor ist wirksam in beleuchteten Umgebungen. Ehrliche Schwächen: In echter Dunkelheit (kein Umgebungslicht) fällt Wyze in IR Schwarzweiß-Modus — eine echte Beschränkung für beleuchtungslose Höfe; die KI-Erkennungsgenauigkeit (8–12% False-Positive-Rate) ist die höchste in diesem Vergleich; die Verarbeitungsqualität bei 35 $ ist deutlich niedriger als Arlo oder Nest; die Akkulaufzeit zwischen Ladungen ist 3 Monate bei niedriger Aktivität, die auf 3–4 Wochen in stark genutzten Orten fällt.",
-        "Reolink Argus 4 Pro bei etwa 89 $ ist die korrekte Wahl für Käufer, die 4K-Auflösung mit lokalem Speicher nur und ohne Abonnement-Anforderung wollen. microSD Speicher (bis 256 GB) und NAS-Unterstützung über Reolink Home Hub eliminieren jeden laufenden Cloud-Kostbedarf. Die doppelten Spotlight-Leuchten (zwei Weiß-LED-Spotlights ausgelöst durch Bewegung) erzeugen das best-beleuchtete Farbnahts-Material in diesem Vergleich für Bewegungsereignisse — obwohl die Spotlights die Kamera-Präsenz offenbaren, was manchen Bedrohungs-Akteuren abschreckt, aber Dauervideoaufnahmen ohne passive Stealth-Aufzeichnung Mode macht. Das 122° horizontale FOV deckt eine Standard-Einfahrts-Breite ab. Ehrliche Schwächen: KI-Erkennungsgenauigkeit läuft die höchste False-Positive-Rate in diesem Vergleich für Außen-Umgebungen mit häufiger Bewegung; die Reolink App-Oberfläche ist weniger poliert als Arlo, Google oder Ring; und das lokale Speicher-nur-Modell bedeutet Aufnahmen sind nicht verfügbar, wenn die Kamera vor der microSD-Abholung gestohlen wird."
+        "售價約199美元的Arlo Pro 5S，是追求4K解析度、能接受Arlo訂閱費用，且需要本地儲存作為備援選項的買家最正確的選擇。4K HDR可在8公尺距離捕捉可辨識的臉部細節，並在6公尺距離識別車牌。彩色夜視在環境光下有效距離6至7公尺。160°對角視角使其成為監視兩個方向的角落安裝位置的最佳選擇。Arlo的AI偵測（需訂閱）在本次比較中準確度排名第二。誠實的弱點：每月12.99美元的訂閱費加上199美元硬體是本組中總費用最高的組合；充電間隔的電池壽命依使用頻率介於3至6個月，在高頻觸發位置可能縮短至4至6週——建議在高流量位置加配太陽能板充電。",
+        "售價約99美元的Ring Stick Up Cam（電池版），是Amazon Echo與Ring生態系用戶尋求最簡整合路徑且每台攝影機訂閱費最低的最正確選擇。每月4美元享有180天雲端儲存，是本次比較中最超值的訂閱方案。Stick Up Cam的設計——圓柱形機身，可平貼牆面、置於底座或安裝於壁架——是本清單中安裝方式最靈活的機型。Alexa整合讓Echo Show裝置無需開啟手機即可即時查看攝影機影像。誠實的弱點：1080p解析度是本次比較中最低的；AI偵測準確度不及Arlo Pro 5S或Nest Cam；130°對角視角是本組中最窄的，在廣角位置需要更精準的對準。",
+        "售價約179美元的Google Nest Cam Battery，是Google Home與Google Assistant用戶追求最佳AI事件偵測及熟悉面孔識別的最正確選擇。Google的機內神經網路在一般住宅環境中對人物偵測的誤報率在本次比較中最低，樹木移動、陰影與昆蟲造成的誤報趨近於零。1080p HDR足以應付大多數住宅安裝所需的4至6公尺辨識距離。Nest Aware每月6美元訂閱提供30天歷史記錄，是本次比較中AI功能性價比最高的訂閱方案。誠實的弱點：大多數實用功能都需要訂閱才能使用——若未訂閱，僅保留3小時事件記錄；熟悉面孔偵測需要每月12美元的Nest Aware Plus方案；進行Thread協定的戶外安裝時，攝影機需要Nest Hub或Nest Wi-Fi裝置作為基地台。",
+        "售價約35美元的Wyze Cam v4，是注重預算、不想支付訂閱費用的買家尋求實用監控功能的最正確選擇。Wyze免費方案（14天事件片段、人物偵測、每段12秒）在零持續費用下提供真實實用的功能。2.5K解析度（2560×1440）在近距離車牌辨識方面比1080p有明顯提升。Starlight感光元件在有燈光的環境下彩色夜視效果良好。誠實的弱點：在完全無光環境下（無任何環境光），Wyze會切換至紅外線黑白模式——對於無燈照明的後院是明顯限制；AI偵測誤報率（8至12%）是本次比較中最高的；35美元的售價在做工品質上明顯不及Arlo或Nest；在高流量位置，充電間隔的電池壽命從3個月縮短至3至4週。",
+        "售價約89美元的Reolink Argus 4 Pro，是追求4K解析度且僅需本地儲存、完全不依賴訂閱方案的買家的最正確選擇。microSD卡儲存（最高256 GB）與透過Reolink Home Hub的NAS支援完全免除雲端費用。雙燈補光設計（兩顆白色LED聚光燈由移動觸發）在移動事件中產生本次比較中照明效果最佳的彩色夜間影像——雖然補光燈會暴露攝影機位置，對部分入侵者有威嚇效果，但也消除了被動隱蔽錄影模式。122°水平視角可涵蓋標準車道寬度。誠實的弱點：在移動頻繁的戶外環境中，AI偵測誤報率在本次比較中最高；Reolink應用程式介面的精緻度不及Arlo、Google或Ring；純本地儲存模式意味著若攝影機在你取出microSD卡前遭竊，影像將無法取得。"
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Brauche ich ein Abonnement, um nützliche Aufnahmen von diesen Kameras zu bekommen?",
-      "a": "Das hängt von der Kamera ab. Wyze Cam v4 und Reolink Argus 4 Pro bieten wirklich nützliche Aufnahmen ohne Abonnements — Wyze durch die kostenlose 14-Tage Event-Clip-Tier und Reolink durch lokalen microSD/NAS Speicher. Arlo Pro 5S, Ring Stick Up Cam und Google Nest Cam Battery bieten alle kostenlose Basisfunktion (Live-View für Arlo, Live-View für Ring, 3-Stunden-Ereignisverlauf für Nest), aber deren nützlichste Funktionen (30-Tage Cloud-Aufnahme, AI Person Erkennung für Arlo und Ring, Familiar Face Erkennung für Nest) erfordern kostenpflichtige Abonnements. Wenn Ihre Priorität null laufende Kosten ist, ist Reolink Argus 4 Pro die stärkste Wahl — lokaler Speicher macht Abonnements entbehrlich. Wenn Sie Cloud-Backup ohne lokales Speichermanagement wollen, dann bietet Ring bei 4 $/Monat pro Kamera 180-Tage-Verlauf zu den niedrigsten fortlaufenden Kosten unter abonnementgestützten Optionen."
+      "q": "使用這些攝影機時，一定需要訂閱方案才能取得有用的影像嗎？",
+      "a": "這取決於你選擇的機型。Wyze Cam v4與Reolink Argus 4 Pro無需訂閱即可提供真正實用的影像——Wyze透過免費的14天事件片段方案，Reolink則透過本地microSD/NAS儲存。Arlo Pro 5S、Ring Stick Up Cam與Google Nest Cam Battery均提供部分免費功能（Arlo與Ring的即時查看、Nest的3小時事件記錄），但最實用的功能（30天雲端錄影、Arlo與Ring的AI人物偵測、Nest的熟悉面孔偵測）都需要付費訂閱。若你的首要考量是零持續費用，Reolink Argus 4 Pro是最強的選擇——本地儲存完全免除訂閱需求。若你希望有雲端備份而不需管理本地儲存，Ring每月每台攝影機4美元提供180天歷史記錄，是訂閱制選項中持續費用最低的方案。"
     },
     {
-      "q": "Ist 4K-Auflösung wirklich notwendig für eine Haus-Überwachungskamera?",
-      "a": "Für die meisten Wohnfälle — Bewegungsbenachrichtigungen, allgemeine Flächenüberwachung, Paket-Erkennung — ist 1080p HDR ausreichend. Der Fall für 4K ist spezifisch: Gesichterkennung bei Entfernungen über 6 Metern, Nummernschild-Erfassung bei 4–6 Metern und Bewahrung von Details für Rechtsschutz-Beweis, wo das Zuschneiden eines breiten 4K-Bildes forensisch nützlicher ist als ein 1080p-Bild desselben Bereichs. Wenn Ihr primärer Kamera-Ort eine Haustür mit engem FOV bei 3–4 Metern ist, bietet 1080p alle Details, die Sie verwenden werden. Wenn Ihre Kamera eine breite Einfahrts-Annäherung bei 6–10 Metern abdeckt, ist 4K sinnvoll besser für die Fälle, die wichtig sind — und die Arlo Pro 5S und Reolink Argus 4 Pro sind die beiden 4K-Optionen hier. Die 89 $ Reolink bietet 4K zu einem Drittel der Arlo-Kosten, mit dem Abzug des lokalem Speicher-nur und einer weniger polierten App."
+      "q": "家用監控攝影機真的需要4K解析度嗎？",
+      "a": "對於大多數住宅用途——移動警報、一般區域監控、包裹偵測——1080p HDR已經足夠。4K的必要性取決於特定需求：6公尺以上的臉部辨識、4至6公尺的車牌識別，以及在執法取證時需要裁切寬幅4K畫面（比裁切同一區域的1080p影像更具鑑識價值）。若你的主要安裝位置是3至4公尺視角較窄的門口，1080p提供的細節已完全夠用。若攝影機需要涵蓋6至10公尺的寬廣車道入口，4K在關鍵用途上明顯更勝一籌——而Arlo Pro 5S與Reolink Argus 4 Pro是本次比較中僅有的兩款4K選項。售價89美元的Reolink以Arlo三分之一的價格提供4K，代價是僅有本地儲存及較不精緻的應用程式介面。"
     },
     {
-      "q": "Wie behandeln diese Kameras extreme Wetter — können sie ganzjährig im Freien montiert werden?",
-      "a": "Alle fünf Kameras in diesem Vergleich haben Außen-IP-Schutzarten ausreichend für Ganzjahres-Installation in den meisten Klimaten. Arlo Pro 5S hat IP67 — völlig staubdicht und hält 30-Minuten-Wasserimmersion bei 1 Meter, angemessen für Installation unter moderatem Dach in regen-schweren Klimaten. Ring Stick Up Cam hat IP66 — staubdicht und stark Wasserstrahl-Widerstand, praktisch für vollständig offene Montage. Google Nest Cam Battery hat IPX4 — spritzwasserfest aber nicht Immersionsbewertet, eine geschützte Position in sehr schwerem Regen erforderlich. Wyze Cam v4 hat IP65 — staubdicht und Wasserstrahl-Widerstand, angemessen für die meisten Außen-Positionen mit beliebigem Dach. Reolink Argus 4 Pro hat IP66 — entspricht Ring. Akkulaufzeit in kalten Klimaten (unter 0°C) verkürzt sich erheblich auf allen fünf Kameras — Lithium-Batterien verlieren etwa 20–35% Kapazität bei -10°C im Vergleich zu Raumtemperatur — und Arlo Pro 5S Solar-Panel-Ladung ist in sonnenarmen Wintermonaten in nördlichen Klimaten weniger wirksam. Alle fünf Kameras haben notierte Betriebs-Temperatur-Minimums von etwa -20°C."
+      "q": "這些攝影機如何應對極端天氣——可以全年安裝在戶外嗎？",
+      "a": "本次比較的五款攝影機均具備適合大多數氣候全年戶外安裝的IP防護等級。Arlo Pro 5S為IP67等級——完全防塵，並可承受1公尺深水中30分鐘的浸泡，適合在多雨氣候中安裝於有適度遮蔽的位置。Ring Stick Up Cam為IP66等級——完全防塵且具備強力噴水防護，適合完全暴露的安裝位置。Google Nest Cam Battery為IPX4等級——防濺水但未達防浸泡標準，在大雨中需要選擇有遮蔽的安裝位置。Wyze Cam v4為IP65等級——防塵且具備噴水防護，適合大多數有任何遮蔽的戶外位置。Reolink Argus 4 Pro為IP66等級，與Ring相當。在寒冷氣候下（0°C以下），五款攝影機的電池續航力均會顯著縮短——鋰電池在-10°C時容量比室溫下減少約20至35%——而在北方氣候的低日照冬季月份，Arlo Pro 5S的太陽能板充電效率也會下降。五款攝影機的標示最低操作溫度均約為-20°C。"
     }
   ],
   "products": [
     {
       "offerId": "security-cam-arlo-pro-5s",
-      "badge": "Bestes 4K / Beste AI-Erkennung",
+      "badge": "最佳4K / 最佳AI偵測",
       "grade": "A",
-      "review": "Arlo Pro 5S ist die korrekte Wahl für Käufer, die 4K HDR-Auflösung mit echte AI-Erkennungsgenauigkeit und lokaler Speicher-Backup-Fähigkeit wollen. 4K erfasst Gesichtszüge auf 8 Metern und Nummernschilde auf 6 Metern. Farbnahtsicht ist auf 6–7 Metern in Umgebungslicht wirksam. Das 160° diagonale FOV macht es beste für Ecken-Montage. Arlo Secure AI-Erkennung (Person, Fahrzeug, Tier, Paket) läuft etwa 3–5% False-Positive-Rate. USB lokaler Speicher macht Abonnement-Abhängigkeit für kontinuierliche Aufnahmen überflüssig. Ehrliche Schwächen: 199 $ Hardware plus 12,99 $/Monat Abonnement ist die höchste Gesamtkostrate in diesem Vergleich; Akkulaufzeit von 3–6 Monaten fällt auf 4–6 Wochen in stark genutzten Orten.",
+      "review": "Arlo Pro 5S是追求4K HDR解析度、需要真實AI偵測準確度與本地儲存備援能力的買家最正確的選擇。4K可在8公尺距離捕捉臉部細節，並在6公尺距離辨識車牌。彩色夜視在環境光下有效距離6至7公尺。160°對角視角使其最適合監視兩個方向的角落安裝。Arlo Secure AI偵測（人物、車輛、動物、包裹）誤報率約3至5%。USB本地儲存消除了連續錄影的訂閱依賴。誠實的弱點：199美元硬體加上每月12.99美元訂閱費是本次比較中總費用最高的組合；在高流量位置，3至6個月的電池壽命可能縮短至4至6週。",
       "pros": [
-        "4K HDR mit echte Gesichtszüge auf 8 Metern und Platten-Erfassung auf 6 Metern",
-        "Farbnahtsicht wirksam auf 6–7 Metern in Umgebungslicht",
-        "160° diagonales FOV für Ecken-Montage, zwei Richtungen überwachend",
-        "USB lokale Speicheroption macht Abonnement für kontinuierliche Aufnahme überflüssig"
+        "4K HDR可在8公尺距離捕捉真實臉部細節，並在6公尺距離辨識車牌",
+        "彩色夜視在環境光下有效距離6至7公尺",
+        "160°對角視角適合同時監視兩個方向的角落安裝位置",
+        "USB本地儲存選項可免除連續錄影的訂閱依賴"
       ],
       "cons": [
-        "199 $ Hardware plus 12,99 $/Monat Abonnement ist die höchste Gesamtkostrate hier",
-        "Akkulaufzeit fällt auf 4–6 Wochen zwischen Ladungen an stark genutzten Orten"
+        "199美元硬體加上每月12.99美元訂閱費是本組中總費用最高的組合",
+        "在高流量位置，充電間隔的電池壽命縮短至4至6週"
       ],
       "specs": {
-        "Auflösung": "4K HDR (3840×2160)",
-        "Sichtfeld": "160° diagonal",
-        "Farbnahtsicht-Reichweite": "~6–7 m Umgebung",
-        "Lokaler Speicher": "USB-angebunden (Hub erforderlich)",
-        "Cloud-Speicher": "Arlo Secure 12,99 $/Monat (30-Tage)",
-        "IP-Schutzart": "IP67",
-        "Akkulaufzeit": "3–6 Monate (niedrige Aktivität)"
+        "Resolution": "4K HDR (3840×2160)",
+        "Field of View": "160° diagonal",
+        "Color Night Vision Range": "~6–7 m ambient",
+        "Local Storage": "USB-attached (hub required)",
+        "Cloud Storage": "Arlo Secure $12.99/month (30-day)",
+        "IP Rating": "IP67",
+        "Battery Life": "3–6 months (low activity)"
       },
       "scores": {
-        "Videoauflösung": 5.0,
-        "Nachtsicht": 4.7,
-        "AI-Erkennung": 4.8,
-        "Speicheroptionen": 4.5,
-        "Wert (3-Jahr-TCO)": 2.5
+        "Video Resolution": 5.0,
+        "Night Vision": 4.7,
+        "AI Detection": 4.8,
+        "Storage Options": 4.5,
+        "Value (3-year TCO)": 2.5
       }
     },
     {
       "offerId": "security-cam-ring-stick-up",
-      "badge": "Beste für Ring / Alexa Ecosystem",
+      "badge": "最適合Ring / Alexa生態系",
       "grade": "B+",
-      "review": "Ring Stick Up Cam bei etwa 99 $ ist die beste Wahl für Ring und Alexa Haushalte, die nahtlose Ecosystem Integration mit den niedrigsten Abonnement-Kosten in diesem Vergleich wollen. 180-Tage Cloud-Speicher bei 4 $/Monat pro Gerät über Ring Protect ist der beste Cloud-Speicher-Wert hier. Das Zylinder-Design funktioniert bündig montiert, auf einem Ständer oder auf einem Wandhalter ohne separate Mount-Kits. Alexa Integration ermöglicht Live-Sicht auf Echo Show Geräten. Ehrliche Schwächen: 1080p ist die niedrigste Auflösung in diesem Vergleich; AI-Erkennungsgenauigkeit ist unter Arlo Pro 5S und Nest Cam; das 130° diagonale FOV ist das engste hier.",
+      "review": "售價約99美元的Ring Stick Up Cam，是Ring與Alexa用戶追求最無縫生態系整合且訂閱費用最低的最佳選擇。每月每台裝置4美元的Ring Protect提供180天雲端儲存，是本次比較中雲端儲存性價比最高的訂閱方案。圓柱形機身可平貼牆面、置於底座或安裝於壁架，無需另購安裝套件，是本清單中安裝方式最靈活的設計。Alexa整合讓Echo Show裝置無需開啟手機即可即時查看攝影機影像。誠實的弱點：1080p是本次比較中最低的解析度；AI偵測準確度不及Arlo Pro 5S與Nest Cam；130°對角視角是本組中最窄的。",
       "pros": [
-        "Ring Protect bei 4 $/Monat bietet 180-Tage Cloud-Speicher — beste Abonnement-Wert hier",
-        "Installierbar-überall-am-meisten Design: bündig-mount, Ständer oder Wandhalter",
-        "Alexa Integration ermöglicht Live-Sicht auf Echo Show ohne Telefon",
-        "Beste Integration für bestehende Ring Doorbell und Alarm-Haushalte"
+        "Ring Protect每月4美元提供180天雲端儲存——本組性價比最高的訂閱方案",
+        "安裝方式最靈活的設計：平貼牆面、底座或壁架均可",
+        "Alexa整合讓Echo Show無需開啟手機即可即時查看影像",
+        "與現有Ring門鈴和警報系統的整合最為緊密"
       ],
       "cons": [
-        "1080p ist die niedrigste Auflösung in diesem Vergleich",
-        "130° diagonales FOV ist das engste — erfordert vorsichtige Ausrichtung bei breiten Orten"
+        "1080p是本次比較中最低的解析度",
+        "130°對角視角是本組最窄——在廣角位置需要更精準的對準"
       ],
       "specs": {
-        "Auflösung": "1080p HDR",
-        "Sichtfeld": "130° diagonal",
-        "Farbnahtsicht-Reichweite": "~5 m Umgebung",
-        "Lokaler Speicher": "Keine",
-        "Cloud-Speicher": "Ring Protect 4 $/Monat (180-Tage)",
-        "IP-Schutzart": "IP66",
-        "Akkulaufzeit": "6–12 Monate (niedrige Aktivität)"
+        "Resolution": "1080p HDR",
+        "Field of View": "130° diagonal",
+        "Color Night Vision Range": "~5 m ambient",
+        "Local Storage": "None",
+        "Cloud Storage": "Ring Protect $4/month (180-day)",
+        "IP Rating": "IP66",
+        "Battery Life": "6–12 months (low activity)"
       },
       "scores": {
-        "Videoauflösung": 3.0,
-        "Nachtsicht": 3.8,
-        "AI-Erkennung": 3.5,
-        "Speicheroptionen": 3.0,
-        "Wert (3-Jahr-TCO)": 4.5
+        "Video Resolution": 3.0,
+        "Night Vision": 3.8,
+        "AI Detection": 3.5,
+        "Storage Options": 3.0,
+        "Value (3-year TCO)": 4.5
       }
     },
     {
       "offerId": "security-cam-google-nest-cam-battery",
-      "badge": "Beste AI / Beste für Google Home",
+      "badge": "最佳AI偵測 / 最適合Google Home",
       "grade": "A",
-      "review": "Google Nest Cam Battery ist die beste AI-Erkennungs-Kamera in diesem Vergleich und die korrekte Wahl für Google Home-Haushalte, die Familiar Face Erkennung und die niedrigste False-Positive-Rate für Personenerkennung wollen. Googles On-Device Neural Network erzeugt nahezu null False Positives von Baubewegung, Schatten und Insekten in typischen Wohnumgebungen. 1080p HDR ist ausreichend für den 4–6 Meter Erkennungsbereich, den die meisten Wohninstallationen benötigen. Nest Aware bei 6 $/Monat ist der beste Wert-Abonnement für AI-Feature-Zugang in diesem Vergleich. Ehrliche Schwächen: Abonnement erforderlich für nützlichste Funktionen; Familiar Face Erkennung braucht 12 $/Monat Nest Aware Plus; erfordert Nest Hub oder Nest Wi-Fi als Basisstation für Thread Außen-Nutzung.",
+      "review": "Google Nest Cam Battery是本次比較中AI偵測能力最強的攝影機，也是Google Home用戶追求熟悉面孔識別與最低人物偵測誤報率的最正確選擇。Google的機內神經網路在一般住宅環境中對樹木移動、陰影與昆蟲造成的誤報率趨近於零。1080p HDR足以應付大多數住宅安裝所需的4至6公尺辨識距離。每月6美元的Nest Aware訂閱提供30天記錄，是本次比較中AI功能性價比最高的訂閱方案。誠實的弱點：大多數實用功能都需要訂閱；熟悉面孔偵測需要每月12美元的Nest Aware Plus方案；Thread協定的戶外安裝需要Nest Hub或Nest Wi-Fi裝置作為基地台。",
       "pros": [
-        "Beste AI-Personenerkennung-Genauigkeit in diesem Vergleich — nahezu null False Positives",
-        "Familiar Face Erkennung identifiziert Hausmitglieder vs. unbekannte Besucher",
-        "Nest Aware bei 6 $/Monat ist die zugänglichste Abonnement für AI-Funktionen",
-        "Enge Google Home und Google Assistant Integration"
+        "本次比較中最準確的AI人物偵測——誤報率趨近於零",
+        "熟悉面孔偵測可辨識家庭成員與陌生訪客",
+        "每月6美元的Nest Aware是AI功能中最具性價比的訂閱方案",
+        "與Google Home及Google Assistant深度整合"
       ],
       "cons": [
-        "Nur 3 Stunden Ereignis-Verlauf ohne Nest Aware Abonnement",
-        "Familiar Face Erkennung erfordert 12 $/Monat Nest Aware Plus Tier"
+        "未訂閱Nest Aware時僅保留3小時事件記錄",
+        "熟悉面孔偵測需要每月12美元的Nest Aware Plus方案"
       ],
       "specs": {
-        "Auflösung": "1080p HDR",
-        "Sichtfeld": "130° horizontal",
-        "Farbnahtsicht-Reichweite": "~5–6 m Umgebung (HDR+)",
-        "Lokaler Speicher": "Keine",
-        "Cloud-Speicher": "Nest Aware 6 $/Monat (30-Tage) oder 12 $/Monat (60-Tage + Face)",
-        "IP-Schutzart": "IPX4",
-        "Akkulaufzeit": "2–7 Monate abhängig von Aktivität"
+        "Resolution": "1080p HDR",
+        "Field of View": "130° horizontal",
+        "Color Night Vision Range": "~5–6 m ambient (HDR+)",
+        "Local Storage": "None",
+        "Cloud Storage": "Nest Aware $6/month (30-day) or $12/month (60-day + Face)",
+        "IP Rating": "IPX4",
+        "Battery Life": "2–7 months depending on activity"
       },
       "scores": {
-        "Videoauflösung": 3.0,
-        "Nachtsicht": 4.2,
-        "AI-Erkennung": 5.0,
-        "Speicheroptionen": 2.5,
-        "Wert (3-Jahr-TCO)": 3.8
+        "Video Resolution": 3.0,
+        "Night Vision": 4.2,
+        "AI Detection": 5.0,
+        "Storage Options": 2.5,
+        "Value (3-year TCO)": 3.8
       }
     },
     {
       "offerId": "security-cam-wyze-cam-v4",
-      "badge": "Bestes Budget / Beste Kein-Abonnement",
+      "badge": "最佳預算機型 / 最佳免訂閱選擇",
       "grade": "B+",
-      "review": "Wyze Cam v4 bei etwa 35 $ liefert funktionale Überwachung mit Personenerkennung und 14-Tage Event-Clips zu null laufenden Kosten über die Wyze kostenlose Tier. Das 2,5K (2560×1440) Auflösung ist ein aussagekräftiger Schritt über 1080p für Nummernschild-Erfassung. Farbnahtsicht über Starlight-Sensor funktioniert in beleuchteten Umgebungen. Ehrliche Schwächen: In echter Dunkelheit fällt der Starlight-Sensor in IR Schwarzweiß-Modus; AI-Erkennungs-False-Positive-Rate von 8–12% ist die höchste in diesem Vergleich; Verarbeitungsqualität reflektiert die 35 $ Preis-Punkt; Akkulaufzeit fällt auf 3–4 Wochen in stark genutzten Orten.",
+      "review": "售價約35美元的Wyze Cam v4，透過Wyze免費方案以零持續費用提供人物偵測與14天事件片段等實用監控功能。2.5K（2560×1440）解析度在近距離車牌辨識方面比1080p有明顯提升。Starlight感光元件在有燈光的環境下彩色夜視效果良好。誠實的弱點：在完全無光環境下，Starlight感光元件會切換至紅外線黑白模式；AI偵測誤報率8至12%是本次比較中最高的；做工品質反映35美元的售價定位；在高流量位置，電池壽命縮短至3至4週。",
       "pros": [
-        "Wyze kostenlose Tier: 14-Tage Event-Clips und Personenerkennung bei 0 $/Monat",
-        "2.5K Auflösung ist ein Schritt über 1080p für Nummernschild-Erfassung in kurzer Entfernung",
-        "Farbnahtsicht wirksam in Umgebungslicht über Starlight-Sensor",
-        "Niedrigste Hardware-Kosten in diesem Vergleich bei 35 $"
+        "Wyze免費方案：每月0美元即可享有14天事件片段與人物偵測",
+        "2.5K解析度在近距離車牌辨識方面比1080p更具優勢",
+        "Starlight感光元件在環境光下彩色夜視效果良好",
+        "本次比較中硬體售價最低，僅35美元"
       ],
       "cons": [
-        "Fällt zu IR Schwarzweiß in echter Dunkelheit — schwach für unbeleuchtete Höfe",
-        "AI-Erkennungs-False-Positive-Rate (8–12%) ist die höchste in diesem Vergleich"
+        "在完全無光環境下切換至紅外線黑白模式——不適合無燈照明的後院",
+        "AI偵測誤報率（8至12%）是本次比較中最高的"
       ],
       "specs": {
-        "Auflösung": "2.5K (2560×1440)",
-        "Sichtfeld": "130° horizontal",
-        "Farbnahtsicht-Reichweite": "~4 m Umgebung (IR in Dunkelheit)",
-        "Lokaler Speicher": "microSD bis 256 GB",
-        "Cloud-Speicher": "Kostenlose Tier (14-Tage Clips) oder 4,99 $/Monat unbegrenzt",
-        "IP-Schutzart": "IP65",
-        "Akkulaufzeit": "3 Monate (niedrige Aktivität), 3–4 Wochen (stark Verkehr)"
+        "Resolution": "2.5K (2560×1440)",
+        "Field of View": "130° horizontal",
+        "Color Night Vision Range": "~4 m ambient (IR in darkness)",
+        "Local Storage": "microSD up to 256 GB",
+        "Cloud Storage": "Free tier (14-day clips) or $4.99/month unlimited",
+        "IP Rating": "IP65",
+        "Battery Life": "3 months (low activity), 3–4 weeks (high traffic)"
       },
       "scores": {
-        "Videoauflösung": 3.8,
-        "Nachtsicht": 3.2,
-        "AI-Erkennung": 3.2,
-        "Speicheroptionen": 4.5,
-        "Wert (3-Jahr-TCO)": 5.0
+        "Video Resolution": 3.8,
+        "Night Vision": 3.2,
+        "AI Detection": 3.2,
+        "Storage Options": 4.5,
+        "Value (3-year TCO)": 5.0
       }
     },
     {
       "offerId": "security-cam-reolink-argus-4",
-      "badge": "Beste 4K Lokaler Speicher / Am privatesten",
+      "badge": "最佳4K本地儲存 / 最注重隱私",
       "grade": "A",
-      "review": "Reolink Argus 4 Pro bei etwa 89 $ ist die beste Option für Käufer, die 4K-Auflösung lokal gelagert ohne irgendeine Abonnement-Anforderung wollen. microSD (bis 256 GB) und NAS-Unterstützung über Reolink Home Hub machen Cloud-Kosten völlig überflüssig. Die dual LED-Spotlight erzeugt das best-beleuchtete Farbnahts-Material in diesem Vergleich für Bewegungsereignisse — Kamera-Position offenbaren aber Eindringlinge abschrecken und am meisten nutzbar-Farbmaterial in völliger Dunkelheit erzeugen. Das 122° horizontal FOV deckt eine Standard-Einfahrts-Breite ab. Ehrliche Schwächen: AI-Erkennungs-False-Positive-Rate ist die höchste in diesem Vergleich für Außen-Orte mit häufiger Bewegung; die Reolink App ist weniger poliert als Arlo, Google oder Ring; lokaler-nur Speicher bedeutet Aufnahmen sind nicht verfügbar, wenn die Kamera vor microSD Abholung gestohlen wird.",
+      "review": "售價約89美元的Reolink Argus 4 Pro，是追求4K解析度本地儲存且完全不需訂閱方案的買家的最佳選擇。microSD卡（最高256 GB）與透過Reolink Home Hub的NAS支援完全免除雲端費用。雙LED聚光燈在移動事件中產生本次比較中照明效果最佳的彩色夜間影像——雖然補光燈會暴露攝影機位置，對入侵者有威嚇效果，同時在完全黑暗環境中也能產生可用的彩色影像。122°水平視角可涵蓋標準車道寬度。誠實的弱點：在移動頻繁的戶外環境中，AI偵測誤報率在本次比較中最高；Reolink應用程式介面精緻度不及Arlo、Google或Ring；純本地儲存模式意味著攝影機在microSD取出前遭竊時影像將無法取得。",
       "pros": [
-        "4K Material lokal zu microSD oder NAS gelagert — kein Abonnement erforderlich",
-        "Dual LED-Spotlight erzeugt das best-aktiv-Farbnahts-Material in diesem Vergleich",
-        "IP66 Bewertung für freigelegt Außen-Montage",
-        "Solar-Panel-Ladung unterstützt für unbegrenzte drahtlose Betrieb"
+        "4K影像本地儲存至microSD或NAS——無需任何訂閱方案",
+        "雙LED聚光燈在本次比較中提供最佳主動彩色夜間影像效果",
+        "IP66等級適合完全暴露的戶外安裝位置",
+        "支援太陽能板充電，可實現無限續航的無線運作"
       ],
       "cons": [
-        "AI-Erkennungs-False-Positive-Rate ist höchste hier für Orte mit häufiger Bewegung",
-        "Lokaler-nur Speicher bedeutet Material verloren, wenn Kamera vor Abholung gestohlen wird"
+        "在移動頻繁的位置，AI偵測誤報率是本組最高的",
+        "純本地儲存意味著攝影機遭竊前未取出microSD時影像將遺失"
       ],
       "specs": {
-        "Auflösung": "4K (3840×2160)",
-        "Sichtfeld": "122° horizontal",
-        "Farbnahtsicht-Reichweite": "Aktiv Farbe zu 15 m mit Spotlight",
-        "Lokaler Speicher": "microSD bis 256 GB, NAS über Home Hub",
-        "Cloud-Speicher": "Optional 3,49 $/Monat",
-        "IP-Schutzart": "IP66",
-        "Akkulaufzeit": "4–6 Monate (niedrige Aktivität); Solar-Panel unterstützt"
+        "Resolution": "4K (3840×2160)",
+        "Field of View": "122° horizontal",
+        "Color Night Vision Range": "Active color to 15 m with spotlight",
+        "Local Storage": "microSD up to 256 GB, NAS via Home Hub",
+        "Cloud Storage": "Optional $3.49/month",
+        "IP Rating": "IP66",
+        "Battery Life": "4–6 months (low activity); solar panel supported"
       },
       "scores": {
-        "Videoauflösung": 5.0,
-        "Nachtsicht": 4.5,
-        "AI-Erkennung": 3.0,
-        "Speicheroptionen": 5.0,
-        "Wert (3-Jahr-TCO)": 5.0
+        "Video Resolution": 5.0,
+        "Night Vision": 4.5,
+        "AI Detection": 3.0,
+        "Storage Options": 5.0,
+        "Value (3-year TCO)": 5.0
       }
     }
   ],
   "offerNotes": {
-    "security-cam-arlo-pro-5s": "Beste 4K + AI — 4K HDR, 160° FOV, 6–7m Farbnahtsicht, USB lokaler Speicher. Höchste Kosten: 199 $ + 12,99 $/Monat.",
-    "security-cam-ring-stick-up": "Beste Ring/Alexa-Anpassung — 4 $/Monat für 180-Tage Cloud, installierbar-überall-am-meisten. 1080p nur; engstes FOV.",
-    "security-cam-google-nest-cam-battery": "Beste AI-Erkennung — nahezu null False Positives, Familiar Face Erkennung. Nur 3h Geschichte kostenlos; Familiar Face braucht 12 $/Monat.",
-    "security-cam-wyze-cam-v4": "Beste Budget — 2.5K, Personenerkennung, kostenlose 14-Tage Clips bei 35 $. Fällt zu IR in Dunkelheit; höchste False-Positive-Rate.",
-    "security-cam-reolink-argus-4": "Beste 4K kein-Abonnement — lokales microSD/NAS, dual LED-Spotlight, Solar-Panel-Unterstützung. App weniger poliert; gestohlene Kamera bedeutet Aufnahmen verloren."
+    "security-cam-arlo-pro-5s": "最佳4K + AI——4K HDR、160°視角、6至7公尺彩色夜視、USB本地儲存。費用最高：199美元 + 每月12.99美元。",
+    "security-cam-ring-stick-up": "最適合Ring/Alexa——每月4美元享有180天雲端儲存，安裝方式最靈活。僅限1080p；視角最窄。",
+    "security-cam-google-nest-cam-battery": "最佳AI偵測——誤報率趨近於零、熟悉面孔偵測。免費版僅保留3小時記錄；熟悉面孔偵測需每月12美元。",
+    "security-cam-wyze-cam-v4": "最佳預算機型——2.5K畫質、人物偵測、35美元附免費14天事件片段。完全黑暗環境下切換至紅外線模式；誤報率最高。",
+    "security-cam-reolink-argus-4": "最佳4K免訂閱——本地microSD/NAS儲存、雙LED聚光燈、支援太陽能板充電。應用程式較不精緻；攝影機遭竊則影像遺失。"
   },
-  "pinDescription": "Fünf Außenüberwachungskameras 2026 verglichen: Arlo Pro 5S 4K, Ring Stick Up Cam Ecosystem-Anpassung, Nest Cam Battery AI-Erkennung, Wyze Cam v4 Budget, Reolink Argus 4 lokaler Speicher. Nachtsicht-Tiefe, Auflösung und was Sie im zweiten Jahr zahlen."
+  "pinDescription": "2026年五款戶外監控攝影機完整比較：Arlo Pro 5S 4K畫質、Ring Stick Up Cam生態系整合、Nest Cam Battery AI偵測、Wyze Cam v4超值預算、Reolink Argus 4本地儲存。夜視距離、解析度，以及第二年的實際花費。"
 }

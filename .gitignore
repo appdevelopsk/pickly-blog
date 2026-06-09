@@ -37,8 +37,12 @@ yarn-error.log*
 .wrangler/
 .cloudflare/
 
-# Generated
-public/og/*.png
+# Generated — OG images are generated into site/og-dist and uploaded to R2
+# (served from img.pickly.blog), never committed.
+public/og/
+site/public/og/
+og-dist/
+site/og-dist/
 public/sitemap.xml
 public/robots.txt
 

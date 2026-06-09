@@ -1,205 +1,205 @@
 {
   "meta": {
-    "title": "Best Portable Charger 2026: 5 power banks compared for real-world use",
-    "description": "From a 186g commuter-slim Anker PowerCore Slim 10000 to a 140W laptop-charging Anker 737. Five portable chargers compared on mAh capacity, USB-C PD wattage, recharge time, and airline rules — so you carry exactly what you need."
+    "title": "2026 最佳行動電源：5 款實測比較",
+    "description": "從 186 克通勤輕薄的 Anker PowerCore Slim 10000，到能以 140W 充筆電的 Anker 737。五款行動電源就 mAh 容量、USB-C PD 瓦數、回充時間與航空規範一一比較，讓你帶上剛好夠用的那一顆。"
   },
-  "lede": "Five portable chargers priced from around $22 to $100, covering the range from thin pocket-sized 10,000mAh slabs to high-wattage 24,000mAh bricks that charge a MacBook Pro at wall-charger speed. Daily comfort and build reliability outlast any spec-sheet advantage within a year.",
+  "lede": "五款行動電源價格約落在 22 至 100 美元之間，涵蓋從可放進口袋的薄型 10,000mAh 機種，到能以接近壁充速度為 MacBook Pro 充電的高瓦數 24,000mAh 大磚塊。一年之內，日常使用的舒適度與做工的可靠度，遠比任何規格表上的優勢來得重要。",
   "sections": [
     {
-      "heading": "mAh capacity: what the number actually means",
+      "heading": "mAh 容量：這個數字到底代表什麼",
       "paragraphs": [
-        "10,000mAh is the most common portable charger capacity and the right starting point for most people. At 3.7V (the internal cell voltage), 10,000mAh stores 37Wh of energy. A typical iPhone 15 has a 3,349mAh battery at 3.86V — about 12.9Wh. In theory, a 10,000mAh bank stores 2.87 iPhone 15 charges. In practice, you get roughly 1.8 to 2.2 full charges, because DC-to-DC conversion in the bank and the cable loses 20-25% of stored energy as heat, and you rarely start charging from 0%. The honest rule of thumb: a 10,000mAh bank gives you about 2 full iPhone 15 charges, or 1.5 charges of a large Android phone (Samsung Galaxy S24 Ultra, 5,000mAh battery), or 0.3 charges of a 15-inch laptop (MacBook Pro 15-inch has a 99.6Wh battery).",
-        "20,000mAh doubles the count: roughly 4 phone charges, 3 large Android charges, 0.6 MacBook Pro charges. The Anker 737 at 24,000mAh pushes this to about 5 phone charges or 0.7 MacBook Pro charges — more meaningful laptop charging, though still not a full laptop charge from zero. Beyond 27,000mAh (roughly 100Wh at 3.7V, though manufacturers calculate differently), you cross the airline carry-on limit and the bank has to go in checked baggage or stay home. This catches travelers who buy the largest bank they can find without checking the Wh rating — IATA regulations prohibit lithium batteries above 100Wh in carry-on without airline approval, and above 160Wh outright. Both Anker units in this comparison pass at under 100Wh; always verify with your specific airline before flying."
+        "10,000mAh 是最常見的行動電源容量，對多數人來說也是合適的起點。在 3.7V（電芯內部電壓）下，10,000mAh 可儲存 37Wh 的能量。一般的 iPhone 15 配備 3,349mAh、3.86V 的電池——約 12.9Wh。理論上，10,000mAh 的電源可為 iPhone 15 充 2.87 次。但實際上你大概只能充飽 1.8 到 2.2 次，因為電源內部與線材的 DC 對 DC 轉換會以發熱形式損耗 20-25% 的儲存能量，而且你很少是從 0% 開始充。誠實的經驗法則是：一顆 10,000mAh 的電源大約能讓 iPhone 15 充飽 2 次，或讓大型 Android 手機（Samsung Galaxy S24 Ultra，5,000mAh 電池）充飽 1.5 次，或為 15 吋筆電充 0.3 次（15 吋 MacBook Pro 配備 99.6Wh 電池）。",
+        "20,000mAh 把這些次數翻倍：大約可為手機充 4 次、大型 Android 充 3 次、MacBook Pro 充 0.6 次。24,000mAh 的 Anker 737 則把這數字推到約 5 次手機充電或 0.7 次 MacBook Pro 充電——筆電充電的意義更明確，但仍無法從零把筆電充滿。超過 27,000mAh（在 3.7V 下約 100Wh，雖然各家計算方式略有不同）就會跨過航空隨身行李的限制，這顆電源只能放進托運行李或乾脆留在家。許多旅客買了能找到最大容量的電源，卻沒看 Wh 標示，因此踩雷——IATA 規範禁止 100Wh 以上的鋰電池未經航空公司核准帶上機，160Wh 以上更是全面禁止。本次比較的兩款 Anker 都在 100Wh 以下過關；搭機前請務必向你搭乘的航空公司確認。"
       ]
     },
     {
-      "heading": "USB-C PD wattage: why 20W is not the same as 45W",
+      "heading": "USB-C PD 瓦數：為什麼 20W 不等於 45W",
       "paragraphs": [
-        "USB-C Power Delivery wattage determines how fast a device charges, and the gap between low-wattage and high-wattage banks is more significant than the mAh number for many users. At 12W output (the Anker PowerCore Slim 10000 on its USB-C port), an iPhone 15 charges to roughly 50% in an hour — usable but noticeably slower than the 20W Apple USB-C charger. At 20W output, the same iPhone 15 reaches 50% in under 30 minutes, which is what most people expect from 'fast charging.' For Android phones with 25W or 45W fast-charge support, a bank that only outputs 12-15W will feel slow even if the phone's indicator says it's charging.",
-        "For laptops, the wattage requirement jumps significantly. A 13-inch MacBook Air charges adequately at 30W but noticeably faster at 45W — the difference between arriving at a meeting with your laptop recharged versus still at 40%. A 15-inch MacBook Pro needs 67W or higher for full-speed charging; anything below that charges it but slower than it discharges under load, meaning the battery percentage goes down even while plugged into the bank. The Anker 737 at 140W output changes this math entirely: it charges the 15-inch MacBook Pro at approximately wall-charger speed, which is why it exists as a product category despite being twice the weight and price of 65W alternatives. The real-world summary: if your primary device is a phone, 20W output is sufficient. If you regularly charge a laptop from a bank, 45W output is the practical floor, and 100W+ meaningfully compresses charging time on larger laptops."
+        "USB-C Power Delivery 的瓦數決定裝置充電的速度，而對許多使用者來說，低瓦數與高瓦數電源之間的差距，比 mAh 數字更具關鍵性。在 12W 輸出下（Anker PowerCore Slim 10000 的 USB-C 埠），iPhone 15 約一小時可充到 50%——堪用但明顯比 20W 的 Apple USB-C 充電器慢。在 20W 輸出下，同一支 iPhone 15 不到 30 分鐘就能到 50%，這才是多數人對「快充」的期待。對於支援 25W 或 45W 快充的 Android 手機而言，一顆只能輸出 12-15W 的電源即使顯示正在充電，也會讓人覺得很慢。",
+        "對筆電而言，瓦數需求大幅躍升。13 吋 MacBook Air 在 30W 下可充得還算夠用，但 45W 明顯更快——這是抵達會議時筆電已回充，或還停在 40% 的差別。15 吋 MacBook Pro 需要 67W 以上才能全速充電；低於這個數字雖然能充，但比它在負載下的耗電還慢，意味著即使插著電源，電量百分比仍會往下掉。140W 輸出的 Anker 737 徹底改寫了這道算式：它能以接近壁充的速度為 15 吋 MacBook Pro 充電，這也是它儘管重量與價格是 65W 機種兩倍卻仍能自成一類的原因。真實世界的結論是：如果你的主力裝置是手機，20W 輸出就夠了。如果你經常用電源為筆電充電，45W 輸出是實用的底線，而 100W 以上能明顯壓縮較大型筆電的充電時間。"
       ]
     },
     {
-      "heading": "Pass-through charging, recharge time, and the overnight problem",
+      "heading": "邊充邊放、回充時間，以及隔夜充電的難題",
       "paragraphs": [
-        "Pass-through charging means using the power bank to charge your devices while the bank itself is simultaneously charging from a wall outlet. All five banks in this comparison support pass-through, but there are practical limits. Most manufacturers recommend against regular pass-through use — charging while discharging simultaneously generates extra heat inside the battery cells, and sustained heat is the primary factor that degrades lithium ion battery capacity over time. Occasional use (charging in a hotel room while the bank also charges your phone) is fine; using the bank as a permanent pass-through adapter on your desk for months shortens its usable lifespan.",
-        "Recharge time for the bank itself is the spec that most comparison articles skip, and it matters if you need the bank fully charged for a morning departure. The Anker PowerCore Slim 10000 recharges from zero in about 4-5 hours via USB-C at 18W input — acceptable if you plug it in the night before but inconvenient for same-day top-ups. The Anker 737 at 24,000mAh with its dual-port 65W input recharges in about 2.5 hours, which is faster per mAh than the slim unit and makes it practical to top up the bank while working during a 3-hour layover. The INIU 10000mAh with its 18W input recharges in about 4 hours. The Mophie Powerstation PD and Baseus Adaman match the 4-5 hour range. If fast bank recharge matters for your workflow, it's worth checking the input wattage in the spec sheet — banks that accept 30W+ input noticeably shrink the overnight window."
+        "邊充邊放（Pass-through）指的是在電源本身正從壁插座充電的同時，用它為你的裝置充電。本次比較的五款電源都支援邊充邊放，但有實際限制。多數製造商不建議經常使用邊充邊放——同時充放電會在電芯內部產生額外熱量，而持續的熱量正是長期削弱鋰離子電池容量的首要因素。偶爾使用（在飯店房間一邊為電源充電、一邊為手機充電）沒問題；但長達數月把電源當成桌上的常駐邊充邊放轉接器，會縮短它的可用壽命。",
+        "電源本身的回充時間是多數比較文章略過的規格，但若你需要在早晨出發前把電源充滿，它就很重要。Anker PowerCore Slim 10000 透過 18W USB-C 輸入從零回充約需 4-5 小時——前一晚插上電還可接受，但臨時當天補充就不方便。24,000mAh 的 Anker 737 搭配雙埠 65W 輸入約 2.5 小時回充完成，以每 mAh 計比薄型機種更快，使你能在 3 小時轉機時邊工作邊把電源充飽。INIU 10000mAh 以 18W 輸入回充約需 4 小時。Mophie Powerstation PD 與 Baseus Adaman 同樣落在 4-5 小時區間。如果快速回充對你的工作流程很重要，值得查看規格表上的輸入瓦數——能接受 30W 以上輸入的電源，可明顯縮短隔夜充電的時間窗。"
       ]
     },
     {
-      "heading": "Airline carry-on rules: the 100Wh limit explained",
+      "heading": "航空隨身行李規定：100Wh 限制詳解",
       "paragraphs": [
-        "IATA regulations (followed by most airlines worldwide) allow lithium batteries up to 100Wh in carry-on luggage without prior airline approval. Between 100Wh and 160Wh, you need airline approval and are limited to two batteries total. Above 160Wh, portable batteries are prohibited in both carry-on and checked baggage. For checked baggage: loose lithium batteries are prohibited at any capacity — they must be in carry-on. A power bank in checked baggage with no protection against accidental activation is a fire hazard under pressurized cargo conditions, which is why the rules are structured this way.",
-        "The practical translation: 10,000mAh at 3.7V = 37Wh, well under the limit. 20,000mAh at 3.7V = 74Wh, under the limit. 27,027mAh at 3.7V = exactly 100Wh — the mathematical ceiling. In practice, manufacturers round cell voltage slightly differently and their Wh ratings are authoritative; the Anker 737 is rated at 88.8Wh (24,000mAh × 3.7V = 88.8Wh), which clears the limit. Products sold in Japan often display capacity in mAh without the Wh rating prominently; to calculate, multiply mAh by 3.7 and divide by 1000 to get Wh. If you're unsure, carry the bank in your personal item bag and have the Wh spec accessible on your phone — some airlines ask to see it at the security checkpoint."
+        "IATA 規範（全球多數航空公司皆遵循）允許 100Wh 以下的鋰電池無需事先核准即可帶進隨身行李。100Wh 至 160Wh 之間，需要航空公司核准，且總數最多兩顆。超過 160Wh，行動電池在隨身與托運行李中皆禁止攜帶。至於托運行李：任何容量的散裝鋰電池一律禁止——它們必須放在隨身行李。放在托運行李中、毫無防止意外啟動保護的行動電源，在加壓貨艙環境下是火災隱患，這也是規則如此制定的原因。",
+        "實際換算如下：10,000mAh 在 3.7V 下 = 37Wh，遠低於上限。20,000mAh 在 3.7V 下 = 74Wh，低於上限。27,027mAh 在 3.7V 下 = 剛好 100Wh——數學上的天花板。實務上，製造商對電芯電壓的四捨五入略有不同，而以其標示的 Wh 數值為準；Anker 737 標示為 88.8Wh（24,000mAh × 3.7V = 88.8Wh），通過限制。在日本販售的產品常只標示 mAh 容量，而不顯眼標示 Wh；要換算的話，將 mAh 乘以 3.7 再除以 1000 即得 Wh。如果你不確定，請把電源放進隨身個人物品袋，並在手機上備妥 Wh 規格——有些航空公司會在安檢口要求查看。"
       ]
     },
     {
-      "heading": "Form factor: slim and flat versus cylindrical",
+      "heading": "外型：纖薄扁平 vs 圓柱形",
       "paragraphs": [
-        "The Anker PowerCore Slim 10000 and Mophie Powerstation PD are flat slab designs — roughly the size and shape of two stacked iPhones. This form factor fits in a jacket pocket, slides into the back pocket of a laptop bag where a cylindrical bank would roll around, and feels less like carrying dedicated gear. The trade-off is typically lower wattage output (the flat pack geometry limits the heat dissipation that high-wattage circuits require) and slightly lower energy density per gram compared to cylindrical cells. The Anker 737, Baseus Adaman, and INIU use a more compact rectangular form, denser than the slim slab but not cylindrical — the Anker 737 is 86 × 62 × 33mm and 443g, which is noticeably heavier than the 186g slim unit but manageable in a bag.",
-        "The weight difference matters more on long travel days than in daily commuting. The Anker PowerCore Slim 10000 at 186g is nearly unnoticeable in a bag; the Anker 737 at 443g is present in a way you'll notice on a full travel day. For commuters who pack light and need one guaranteed phone charge, the weight-to-utility ratio of a 10,000mAh slim bank is hard to beat. For travelers managing a laptop, phone, earbuds, and a tablet through a 12-hour travel day, the 443g of the Anker 737 is the price of not hunting for outlets."
+        "Anker PowerCore Slim 10000 與 Mophie Powerstation PD 採扁平板狀設計——大致是兩支 iPhone 疊起來的尺寸與形狀。這種外型能放進外套口袋，可滑入筆電包的後側夾層而不像圓柱形電源那樣到處滾動，也比較不像在攜帶專門裝備。代價通常是較低的瓦數輸出（扁平的機身幾何結構限制了高瓦數電路所需的散熱），以及相較圓柱電芯每克略低的能量密度。Anker 737、Baseus Adaman 與 INIU 採用更緊湊的矩形外型，比薄型板狀更密實但非圓柱形——Anker 737 為 86 × 62 × 33mm、443g，明顯比 186g 的薄型機種重，但放在包裡仍可接受。",
+        "重量差異在長途旅行日比在日常通勤時更有感。186g 的 Anker PowerCore Slim 10000 放在包裡幾乎察覺不到；443g 的 Anker 737 則會讓你在整天旅行時感受到它的存在。對於輕裝出門、只需要一次確保有電的手機充電的通勤族，10,000mAh 薄型電源的重量對效用比很難被超越。對於要在 12 小時旅程中同時打理筆電、手機、耳機與平板的旅客，Anker 737 那 443g 就是不必到處找插座的代價。"
       ]
     },
     {
-      "heading": "Where each fits",
+      "heading": "各自適合誰",
       "paragraphs": [
-        "If you commute daily and want one emergency phone charge that fits in a coat pocket, Anker PowerCore Slim 10000 at around $22 is the pick. 10,000mAh in a 186g flat slab — thin enough to forget it's in your pocket. USB-C output at 12W and USB-A at 12W covers most phones adequately, though not at maximum fast-charge speed. Charges in 4-5 hours overnight. The honest limitation: 12W USB-C output is noticeably slower than modern fast chargers; anyone used to 20W+ charging will feel the difference on short charging windows. Also one of the few units in this comparison without a digital display — the LED dots tell you approximate remaining capacity (4 dots = roughly >80%) but not a precise percentage. Right pick for the daily commuter who wants light weight and emergency coverage.",
-        "If you charge a laptop away from outlets and need 140W output, Anker 737 Power Bank (PowerCore 24K) at around $100 is the high-end pick. 24,000mAh in an 88.8Wh package (under airline carry-on limit), dual USB-C ports each capable of 100W, one USB-A port, and a digital display showing percentage rather than LED dots. Charges the 15-inch MacBook Pro at approximately wall-charger speed. Recharges itself in about 2.5 hours via 65W input — faster per mAh than the slim unit. The honest limitation: 443g and 86 × 62 × 33mm, it's a brick that belongs in a bag rather than a pocket. At $100 it's a considered purchase, not an impulse buy. Right pick for remote workers, long-haul travelers, or anyone for whom a dead laptop is a real cost.",
-        "If you want a premium brand with clean aesthetics for travel, Mophie Powerstation PD at around $50 is the lifestyle pick. 10,000mAh in Mophie's signature slim form, USB-C PD output at 18W, single USB-A port, fabric or aluminum finish depending on variant. Mophie's build quality is consistently rated higher than budget alternatives in long-term reviews — fewer reports of rattling, port wobble, or LED failure at the 18-month mark. The honest limitation: 10,000mAh at $50 is twice the price per mAh of the Anker Slim — you're paying for the Mophie brand, the premium finish, and the build quality. Output at 18W is better than the 12W Anker Slim but still below the 20W that enables modern phone fast-charging fully. Right pick if aesthetics and build quality matter alongside function.",
-        "If you want a digital display and 65W output for under $40, Baseus Adaman 65W at around $36 is the value power-user pick. 20,000mAh, USB-C PD at 65W (enough for most thin laptops), USB-A at 18W, and a small LED display showing exact battery percentage. At 65W output, the Baseus Adaman charges a 13-inch MacBook Air at full speed — practically identical to plugging into a wall adapter. The digital display is a real-world improvement over LED dots for users who need to know whether they have 40% or 20% left before a meeting. The honest limitation: Baseus is a Chinese brand that's less established in Japan than Anker; replacement and support infrastructure is thinner, and the long-term (2+ year) quality data is more mixed than for Anker's flagship units. Also 310g, heavier than the slim designs but lighter than the Anker 737. Right pick for someone who wants laptop-charging ability without the Anker 737's price.",
-        "If you want the cheapest option that actually charges a phone quickly, INIU 10000mAh Portable Charger at around $22 is the budget pick. 10,000mAh, USB-C output at 20W (the only sub-$25 unit in this comparison to hit 20W on USB-C), USB-A at 22.5W, LED percentage display. At 20W, it charges an iPhone 15 to 50% in under 30 minutes — genuinely fast, not compromised. The honest limitation: INIU is a newer brand with less long-term quality data than Anker; the 18-month and 3-year failure patterns aren't as well documented. Build quality in short-term reviews is solid, but the durability track record is shorter. At the same price as the Anker Slim, the INIU wins on USB-C wattage (20W vs 12W) but loses on brand confidence. Right pick for budget-conscious users who prioritize charging speed over brand pedigree."
+        "如果你每天通勤，想要一顆能放進大衣口袋的緊急手機充電，售價約 22 美元的 Anker PowerCore Slim 10000 就是首選。10,000mAh 裝在 186g 的扁平板身——薄到你會忘記它在口袋裡。USB-C 輸出 12W、USB-A 輸出 12W，足以應付多數手機，雖非最高快充速度。隔夜 4-5 小時充飽。誠實的限制：12W USB-C 輸出明顯比現代快充慢；習慣 20W 以上充電的人在短充電窗會感受到差異。它也是本次比較中少數沒有數位顯示的機種之一——LED 點只能告訴你大致剩餘容量（4 點 = 約 >80%），無法顯示精確百分比。最適合想要輕量與緊急備援的日常通勤族。",
+        "如果你常在沒插座的地方為筆電充電、需要 140W 輸出，售價約 100 美元的 Anker 737 Power Bank（PowerCore 24K）就是高階首選。24,000mAh 裝在 88.8Wh 的機身（低於航空隨身限制），雙 USB-C 埠各可達 100W，一個 USB-A 埠，以及顯示百分比而非 LED 點的數位螢幕。能以接近壁充的速度為 15 吋 MacBook Pro 充電。透過 65W 輸入約 2.5 小時自我回充——以每 mAh 計比薄型機種更快。誠實的限制：443g、86 × 62 × 33mm，是該放進包裡而非口袋的磚塊。100 美元是需要考慮的採購，而非衝動購買。最適合遠端工作者、長程旅客，或任何「筆電沒電就是真實損失」的人。",
+        "如果你想要外型俐落、適合旅行的高級品牌，售價約 50 美元的 Mophie Powerstation PD 就是生活風格首選。10,000mAh 裝在 Mophie 招牌的薄型機身，USB-C PD 輸出 18W，單一 USB-A 埠，依版本提供織布或鋁質飾面。在長期評測中，Mophie 的做工品質一向比平價替代品評價更高——使用到 18 個月時，鬆動異響、埠口晃動或 LED 故障的回報較少。誠實的限制：10,000mAh 賣 50 美元，每 mAh 的價格是 Anker Slim 的兩倍——你付的是 Mophie 品牌、高級飾面與做工。18W 輸出比 12W 的 Anker Slim 好，但仍低於完整啟用現代手機快充的 20W。如果美感與做工品質和功能一樣重要，這就是對的選擇。",
+        "如果你想要 40 美元以內就有數位顯示與 65W 輸出，售價約 36 美元的 Baseus Adaman 65W 就是高效能玩家的高 CP 值首選。20,000mAh，USB-C PD 65W（足以應付多數薄型筆電），USB-A 18W，以及顯示精確電量百分比的小型 LED 螢幕。在 65W 輸出下，Baseus Adaman 能以全速為 13 吋 MacBook Air 充電——實際上和插上壁充轉接器幾乎相同。對於需要在會議前知道自己還剩 40% 還是 20% 的使用者，數位顯示是相較 LED 點的實際改善。誠實的限制：Baseus 是中國品牌，在日本不如 Anker 普及；維修與支援基礎較薄弱，長期（2 年以上）品質數據也比 Anker 旗艦機種更不一致。另外 310g，比薄型設計重但比 Anker 737 輕。最適合想要筆電充電能力、又不想付 Anker 737 價格的人。",
+        "如果你想要真正能快速為手機充電的最便宜選項，售價約 22 美元的 INIU 10000mAh Portable Charger 就是預算首選。10,000mAh，USB-C 輸出 20W（本次比較中唯一一款 25 美元以下、USB-C 達 20W 的機種），USB-A 22.5W，LED 百分比顯示。在 20W 下，它能讓 iPhone 15 不到 30 分鐘充到 50%——是真正的快，毫不打折。誠實的限制：INIU 是較新的品牌，長期品質數據比 Anker 少；18 個月與 3 年的故障型態尚未有完整記錄。短期評測中的做工品質紮實，但耐用度的實績較短。在與 Anker Slim 相同的價格下，INIU 在 USB-C 瓦數上勝出（20W vs 12W），但在品牌信心上落後。最適合重視充電速度勝過品牌資歷的精打細算使用者。"
       ]
     },
     {
-      "heading": "Verdict",
+      "heading": "結論",
       "paragraphs": [
-        "For most people, the decision splits cleanly by use case. The Anker PowerCore Slim 10000 at $22 handles the daily commute phone-charge scenario at the lightest possible weight — if that's the use case, nothing in this comparison beats the value. The INIU 10000mAh at the same price beats it on charging speed (20W vs 12W USB-C) if fast charging matters more than form-factor slim-ness.",
-        "Step up to the Mophie Powerstation PD at $50 if build quality and aesthetics are real priorities alongside function. Step up to the Baseus Adaman at $36 if 65W laptop charging is needed at half the price of the Anker 737. Step up to the Anker 737 at $100 if 140W output and the best bank recharge speed in this comparison justify the weight and price — the case is solid for remote workers and serious travelers, weak for anyone who only needs phone charging."
+        "對多數人來說，這個決定可依使用情境清楚切分。售價 22 美元的 Anker PowerCore Slim 10000 以最輕的重量處理日常通勤手機充電的情境——如果這就是你的使用情境，本次比較中沒有任何一款能贏過它的價值。同價位的 INIU 10000mAh 在充電速度上勝過它（20W vs 12W USB-C），前提是快充對你比輕薄外型更重要。",
+        "若做工品質與美感和功能一樣是真正的優先項，就升級到 50 美元的 Mophie Powerstation PD。若需要 65W 筆電充電、又只想花 Anker 737 一半的價格，就升級到 36 美元的 Baseus Adaman。若 140W 輸出與本次比較中最佳的電源回充速度足以證明其重量與價格值得，就升級到 100 美元的 Anker 737——對遠端工作者與認真的旅客而言理由充分，對只需要手機充電的人則理由薄弱。"
       ]
     }
   ],
   "faqs": [
     {
-      "q": "How many times will a 10,000mAh power bank charge my phone?",
-      "a": "Roughly 1.8 to 2.2 full charges of a modern smartphone, not the 2.87 the raw math suggests. A 10,000mAh bank stores 37Wh at 3.7V. An iPhone 15 needs about 12.9Wh to charge from 0% to 100%. The 37Wh divided by 12.9Wh is 2.87 in theory. In practice, DC-to-DC conversion in the bank and cable loses 20-25% of stored energy as heat, which reduces the real-world output to about 28-30Wh of usable energy delivered to your phone — approximately 2.1-2.3 iPhone 15 charges. For a Samsung Galaxy S24 Ultra with a 5,000mAh (about 19.3Wh) battery, you get about 1.5 full charges from a 10,000mAh bank. For a 13-inch MacBook Air (52.6Wh battery), you get about 0.5-0.6 charge from a 10,000mAh bank — not enough for a full laptop charge, but enough to extend a work session by 2-3 hours."
+      "q": "一顆 10,000mAh 的行動電源能為我的手機充幾次？",
+      "a": "大約能讓現代智慧型手機充飽 1.8 到 2.2 次，而非單純數學算出的 2.87 次。一顆 10,000mAh 的電源在 3.7V 下儲存 37Wh。iPhone 15 從 0% 充到 100% 約需 12.9Wh。理論上 37Wh 除以 12.9Wh 是 2.87。但實際上，電源與線材的 DC 對 DC 轉換會以發熱形式損耗 20-25% 的儲存能量，使真正送進手機的可用能量降到約 28-30Wh——大約是 iPhone 15 的 2.1-2.3 次充電。對於配備 5,000mAh（約 19.3Wh）電池的 Samsung Galaxy S24 Ultra，一顆 10,000mAh 電源約可充飽 1.5 次。對於 13 吋 MacBook Air（52.6Wh 電池），一顆 10,000mAh 電源約可充 0.5-0.6 次——不足以把筆電充滿，但足以把一次工作時段延長 2-3 小時。"
     },
     {
-      "q": "Can I take a portable charger on a plane?",
-      "a": "Yes, in carry-on luggage, with a capacity limit. IATA regulations allow power banks up to 100Wh in carry-on without prior approval. Between 100-160Wh, you need airline approval and are limited to two batteries per person. Above 160Wh is prohibited in both carry-on and checked baggage. Loose batteries (including power banks) are never allowed in checked baggage regardless of capacity — they must travel in carry-on. To find your bank's Wh rating: multiply the mAh by 3.7 and divide by 1000 (e.g., 20,000mAh × 3.7 / 1000 = 74Wh, safely under the limit). All five banks in this comparison are under 100Wh. Some airlines ask to see the Wh rating at security; have the spec sheet accessible on your phone."
+      "q": "我可以帶行動電源上飛機嗎？",
+      "a": "可以，放在隨身行李，並有容量限制。IATA 規範允許 100Wh 以下的行動電源無需事先核准即可帶進隨身行李。100-160Wh 之間，需要航空公司核准，且每人最多兩顆電池。超過 160Wh 在隨身與托運行李中皆禁止。散裝電池（包括行動電源）無論容量都絕不允許放進托運行李——必須放在隨身行李。要找出你電源的 Wh 數值：將 mAh 乘以 3.7 再除以 1000（例如 20,000mAh × 3.7 / 1000 = 74Wh，安全地低於上限）。本次比較的五款電源都在 100Wh 以下。有些航空公司會在安檢時要求查看 Wh 數值；請在手機上備妥規格表。"
     },
     {
-      "q": "What's the difference between 12W, 20W, and 45W USB-C output?",
-      "a": "It determines how fast your devices charge. At 12W output (basic USB-C), an iPhone 15 charges to about 50% in an hour — workable but slow. At 20W (USB-C PD), the same phone reaches 50% in under 30 minutes, which matches what most people experience from a modern fast charger. For Android phones with 25W or 45W fast-charge support, anything under 20W output will charge the phone but noticeably slower than a wall adapter. For laptops, 30-45W is the practical floor for meaningful charging: at 30W a 13-inch MacBook Air charges about as fast as it discharges under light use; at 45W it charges meaningfully faster. For a 15-inch MacBook Pro that requires 67W+ for full-speed charging, only the Anker 737 at 140W in this comparison delivers wall-charger speed — lower wattage banks will charge it but slower than it discharges under normal use."
+      "q": "12W、20W 與 45W 的 USB-C 輸出有什麼差別？",
+      "a": "它決定你的裝置充電的速度。在 12W 輸出下（基本 USB-C），iPhone 15 約一小時充到 50%——可行但慢。在 20W（USB-C PD）下，同一支手機不到 30 分鐘到 50%，這符合多數人從現代快充器體驗到的速度。對於支援 25W 或 45W 快充的 Android 手機，任何低於 20W 的輸出都能充電，但明顯比壁充轉接器慢。對於筆電，30-45W 是有意義充電的實用底線：在 30W 下，13 吋 MacBook Air 的充電速度約與輕度使用下的耗電相當；在 45W 下則明顯更快。對於需要 67W 以上才能全速充電的 15 吋 MacBook Pro，本次比較中只有 140W 的 Anker 737 能提供壁充速度——較低瓦數的電源雖能為它充電，但比它在一般使用下的耗電還慢。"
     },
     {
-      "q": "Should I leave a power bank plugged in all the time?",
-      "a": "No, and this applies both to leaving the bank plugged into the wall when fully charged, and to leaving your devices plugged into the bank indefinitely. Lithium-ion batteries degrade fastest when kept at 100% charge for extended periods and when kept at very high temperatures. Modern power banks include overcharge protection that stops charging at 100%, but leaving a fully-charged bank on a charger for days still generates low-level maintenance charge cycles that add up over time. The recommended practice: charge the bank to 100%, unplug it, use it, and recharge when it drops to 20-30%. For banks you don't use often, store them at 40-60% charge rather than fully charged or fully depleted. Following this, a quality lithium-ion bank maintains 80%+ of its original capacity for 300-500 charge cycles, which is several years of occasional use."
+      "q": "我應該一直把行動電源插著電嗎？",
+      "a": "不應該，這同時適用於充滿後仍把電源插在牆上，以及無限期把裝置插在電源上。鋰離子電池在長時間維持 100% 電量、以及處於極高溫時，老化最快。現代行動電源內建過充保護，會在 100% 時停止充電，但把充飽的電源放在充電器上數天，仍會產生低度的維持性充電循環，長期累積下來。建議做法是：把電源充到 100%、拔掉、使用，並在掉到 20-30% 時回充。對於不常用的電源，請以 40-60% 電量存放，而非充滿或完全放空。照此做法，一顆優質鋰離子電源能在 300-500 次充電循環中維持原始容量的 80% 以上，這相當於數年的偶爾使用。"
     },
     {
-      "q": "Why does my power bank feel warm while charging my phone?",
-      "a": "DC-to-DC conversion inside the bank generates heat as a byproduct — this is normal and expected. The bank takes energy stored at the cell's internal voltage (3.7V), converts it to the USB output voltage (5V for standard USB, higher for PD), and that conversion is about 80-85% efficient, meaning 15-20% of the stored energy exits as heat. Higher wattage charging generates proportionally more heat, which is why the Anker 737 at 140W output gets noticeably warm during heavy use while the Anker Slim at 12W barely warms at all. Warm is normal; hot to the point of being uncomfortable to hold is not. If a bank gets hot enough to be unpleasant to touch during normal single-device charging, the conversion circuitry or a battery cell may be degrading. Most modern banks have thermal cutoff protection that stops charging if a temperature threshold is exceeded — if your bank repeatedly stops mid-charge without explanation, heat protection triggering is one possible cause."
+      "q": "為什麼我的行動電源在為手機充電時會發熱？",
+      "a": "電源內部的 DC 對 DC 轉換會以發熱作為副產物——這是正常且預期之中的。電源取出以電芯內部電壓（3.7V）儲存的能量，轉換成 USB 輸出電壓（標準 USB 為 5V，PD 更高），而這個轉換約有 80-85% 的效率，意味著 15-20% 的儲存能量以熱的形式散出。較高瓦數的充電會按比例產生更多熱量，這也是為什麼 140W 輸出的 Anker 737 在重度使用時會明顯發熱，而 12W 的 Anker Slim 幾乎不發燙。溫熱是正常的；熱到拿著不舒服則不正常。如果一顆電源在正常單一裝置充電時就熱到讓人不適，可能是轉換電路或某個電芯正在劣化。多數現代電源都有過熱斷電保護，超過溫度門檻時會停止充電——如果你的電源在充電途中反覆無故停止，過熱保護被觸發是一種可能原因。"
     },
     {
-      "q": "Does a higher mAh always mean better?",
-      "a": "Not always — the tradeoff is weight, recharge time, and often price. A 20,000mAh bank is double the weight and typically takes twice as long to recharge as a 10,000mAh bank at the same input wattage. For a daily commuter who needs emergency phone coverage, a 186g 10,000mAh bank that charges in 4 hours overnight is better than a 380g 20,000mAh bank that charges in 8 hours, because the extra capacity sits unused on most days. The right capacity depends on your actual use pattern: 10,000mAh for phone-only day-to-day use, 20,000mAh for multi-device overnight travel, 24,000mAh+ only if you specifically need laptop charging or a multi-day buffer. Also worth checking: beyond about 27,000mAh (100Wh), you cross the airline carry-on limit and the bank can't go in cabin luggage without airline approval."
+      "q": "更高的 mAh 總是更好嗎？",
+      "a": "不一定——取捨在於重量、回充時間，且往往還有價格。在相同輸入瓦數下，一顆 20,000mAh 的電源重量是兩倍，回充時間通常也要兩倍。對於需要緊急手機備援的日常通勤族，一顆 186g、隔夜 4 小時充飽的 10,000mAh 電源，勝過一顆 380g、要 8 小時充飽的 20,000mAh 電源，因為多出的容量在多數日子根本用不到。合適的容量取決於你實際的使用型態：日常只充手機選 10,000mAh，多裝置隔夜旅行選 20,000mAh，唯有特別需要筆電充電或多日緩衝才選 24,000mAh 以上。另外值得查看：超過約 27,000mAh（100Wh）就會跨過航空隨身限制，未經航空公司核准電源便無法帶進客艙行李。"
     }
   ],
   "offerNotes": {
-    "anker-powercore-slim-10000": "Lightest commuter pick — 186g flat slab, 10,000mAh, USB-C + USB-A at 12W. Fits in a jacket pocket. Slow 12W output won't match modern fast chargers; no percentage display, only LED dots.",
-    "anker-737-power-bank": "Best for laptop users — 24,000mAh at 88.8Wh (under airline limit), 140W USB-C, digital display, recharges in 2.5 hours. 443g and $100 price tag; belongs in a bag, not a pocket.",
-    "mophie-powerstation-pd": "Premium build pick — Mophie's slim form with above-average long-term build quality. 10,000mAh, 18W USB-C. You're paying for aesthetics and reliability, not for charging speed or capacity density.",
-    "baseus-adaman-power-bank": "Value power-user pick — 20,000mAh, 65W USB-C (MacBook Air full-speed), digital percentage display, $36. Less brand track record than Anker; 2+ year quality data more mixed. Good if laptop charging matters but $100 Anker 737 is too steep.",
-    "iniu-portable-charger": "Budget fast-charging pick — 10,000mAh, 20W USB-C at the same price as the Anker Slim. Faster charging than the Anker Slim; shorter brand track record. Right pick if charging speed matters more than form factor at sub-$25."
+    "anker-powercore-slim-10000": "最輕的通勤首選——186g 扁平板身，10,000mAh，USB-C + USB-A 各 12W。可放進外套口袋。12W 緩慢輸出比不上現代快充；無百分比顯示，只有 LED 點。",
+    "anker-737-power-bank": "筆電使用者最佳選擇——24,000mAh、88.8Wh（低於航空限制），140W USB-C，數位顯示，2.5 小時回充。443g、100 美元價格；該放進包裡，而非口袋。",
+    "mophie-powerstation-pd": "高級做工首選——Mophie 薄型機身，搭配高於平均的長期做工品質。10,000mAh，18W USB-C。你付的是美感與可靠度，而非充電速度或容量密度。",
+    "baseus-adaman-power-bank": "高效能玩家高 CP 值首選——20,000mAh，65W USB-C（MacBook Air 全速），數位百分比顯示，36 美元。品牌實績不如 Anker；2 年以上品質數據較不一致。若重視筆電充電但 100 美元的 Anker 737 太貴，這是好選擇。",
+    "iniu-portable-charger": "預算快充首選——10,000mAh，20W USB-C，與 Anker Slim 同價。充電比 Anker Slim 快；品牌實績較短。若在 25 美元以下時充電速度比外型更重要，這是對的選擇。"
   },
-  "pinDescription": "5 portable chargers compared for 2026: from 186g commuter-slim Anker to 140W laptop-charging Anker 737. mAh explained, airline rules, USB-C wattage guide — know exactly what to carry.",
-  "methodology": "Each product was evaluated against documented specifications, third-party benchmarks, and verified user reports. We scored features, performance, build quality, ecosystem compatibility, and total cost of ownership.",
+  "pinDescription": "2026 五款行動電源比較：從 186g 通勤輕薄的 Anker，到 140W 充筆電的 Anker 737。mAh 解析、航空規範、USB-C 瓦數指南——讓你清楚知道該帶哪一顆。",
+  "methodology": "我們依據各產品有據可查的規格參數、第三方基準測試以及經查證的使用者回饋進行評估，並針對功能、效能、做工品質、生態系相容性及總體擁有成本逐一評分。",
   "products": [
     {
       "offerId": "anker-powercore-slim-10000",
-      "badge": "Best for Daily Commute",
+      "badge": "日常通勤最佳",
       "grade": "A+",
-      "review": "The Anker PowerCore Slim 10000 is the right pick for the most common use case — daily commute emergency phone charging at the lightest possible weight. The 186g flat slab is roughly the size and shape of two stacked iPhones, slim enough to forget it's in a jacket pocket and able to slide into a laptop bag back pocket where cylindrical banks would roll around. 10,000mAh delivers approximately 2 full iPhone 15 charges or 1.5 charges of a Samsung Galaxy S24 Ultra, with USB-C and USB-A outputs at 12W each and overnight recharge in 4-5 hours via 18W USB-C input. At around 22 USD this is the value benchmark for a daily-carry charger. The honest tradeoffs: 12W USB-C output is noticeably slower than the 20W Apple charger that most modern phones expect, and the remaining-capacity indicator is LED dots only (no precise percentage display).",
+      "review": "Anker PowerCore Slim 10000 是最常見使用情境的正確選擇——以最輕的重量處理日常通勤的緊急手機充電。186g 的扁平板身大致是兩支 iPhone 疊起來的尺寸與形狀，薄到讓你忘記它在外套口袋裡，也能滑進筆電包後側夾層，而圓柱形電源在那裡會到處滾動。10,000mAh 大約可為 iPhone 15 充飽 2 次，或為 Samsung Galaxy S24 Ultra 充飽 1.5 次，USB-C 與 USB-A 輸出各 12W，透過 18W USB-C 輸入隔夜回充 4-5 小時。售價約 22 美元，是日常隨身充電器的價值基準。誠實的取捨：12W USB-C 輸出明顯比多數現代手機期待的 20W Apple 充電器慢，且剩餘容量指示只有 LED 點（無精確百分比顯示）。",
       "pros": [
-        "186g flat slab — disappears in a jacket pocket or bag pocket",
-        "10,000mAh delivers approximately 2 full iPhone 15 charges",
-        "USB-C and USB-A outputs at 12W each cover most phones",
-        "Around 22 USD — the value benchmark in this comparison"
+        "186g 扁平板身——消失在外套口袋或包包夾層中",
+        "10,000mAh 約可為 iPhone 15 充飽 2 次",
+        "USB-C 與 USB-A 各 12W 輸出，足以應付多數手機",
+        "約 22 美元——本次比較中的價值基準"
       ],
       "cons": [
-        "12W USB-C output is slower than modern 20W fast chargers",
-        "LED-dot capacity indicator — no precise percentage display"
+        "12W USB-C 輸出比現代 20W 快充慢",
+        "LED 點容量指示——無精確百分比顯示"
       ]
     },
     {
       "offerId": "anker-737-power-bank",
-      "badge": "Best for Laptops",
+      "badge": "筆電最佳",
       "grade": "A",
-      "review": "The Anker 737 Power Bank (PowerCore 24K) is the high-end pick for buyers who charge a laptop away from outlets. 24,000mAh at 88.8Wh stays under the 100Wh airline carry-on limit, dual USB-C ports each support 100W output, total 140W output charges a 15-inch MacBook Pro at approximately wall-charger speed, and the dual-port 65W input recharges the bank itself in about 2.5 hours — faster per mAh than the slim unit. The digital display shows exact battery percentage rather than LED dots, which matters when planning charge windows during a 3-hour layover. At around 100 USD this is a considered purchase. The honest tradeoffs: 443g and 86 × 62 × 33mm — this is a brick that belongs in a bag rather than a pocket, and the price is roughly five times the value picks for users whose primary need is phone charging.",
+      "review": "Anker 737 Power Bank（PowerCore 24K）是常在沒插座處為筆電充電的買家的高階選擇。24,000mAh、88.8Wh 維持在 100Wh 航空隨身限制以下，雙 USB-C 埠各支援 100W 輸出，140W 總輸出能以接近壁充的速度為 15 吋 MacBook Pro 充電，而雙埠 65W 輸入約 2.5 小時即可為電源本身回充——以每 mAh 計比薄型機種更快。數位顯示秀出精確電量百分比而非 LED 點，這在 3 小時轉機規劃充電時間窗時很重要。售價約 100 美元，是需要考慮的採購。誠實的取捨：443g、86 × 62 × 33mm——這是該放進包裡而非口袋的磚塊，對於主要只需手機充電的使用者，價格約是價值首選的五倍。",
       "pros": [
-        "140W USB-C output charges a 15-inch MacBook Pro at wall-charger speed",
-        "24,000mAh at 88.8Wh stays under the 100Wh airline carry-on limit",
-        "Digital display shows exact battery percentage",
-        "Dual-port 65W input recharges the bank in about 2.5 hours"
+        "140W USB-C 輸出能以壁充速度為 15 吋 MacBook Pro 充電",
+        "24,000mAh、88.8Wh 維持在 100Wh 航空隨身限制以下",
+        "數位顯示秀出精確電量百分比",
+        "雙埠 65W 輸入約 2.5 小時回充電源"
       ],
       "cons": [
-        "443g is a brick that belongs in a bag, not a pocket",
-        "100 USD is roughly five times the value picks for phone-only users"
+        "443g 是該放進包裡而非口袋的磚塊",
+        "100 美元約是只充手機使用者價值首選的五倍"
       ]
     },
     {
       "offerId": "mophie-powerstation-pd",
-      "badge": "Best Premium Build",
+      "badge": "高級做工最佳",
       "grade": "A",
-      "review": "The Mophie Powerstation PD is the premium-build pick for buyers who care about long-term reliability and aesthetics alongside function. 10,000mAh in Mophie's signature slim form with USB-C PD output at 18W and a single USB-A port, finished in fabric or aluminum depending on variant. Mophie's build quality is consistently rated higher than budget alternatives in long-term reviews — fewer reports of rattling, port wobble, or LED failure at the 18-month mark compared to no-name brands at similar capacity. At around 50 USD this is roughly twice the price per mAh of the Anker Slim. The honest tradeoffs: you are paying for Mophie brand and premium finish rather than charging speed or capacity density, the 18W USB-C output is better than the Anker Slim's 12W but still below the 20W threshold that fully enables modern phone fast charging, and at this capacity tier there are faster-charging options at lower prices.",
+      "review": "Mophie Powerstation PD 是重視長期可靠度與美感、同時兼顧功能的買家的高級做工選擇。10,000mAh 裝在 Mophie 招牌的薄型機身，USB-C PD 輸出 18W，單一 USB-A 埠，依版本提供織布或鋁質飾面。在長期評測中，Mophie 的做工品質一向比平價替代品評價更高——相較同容量的無名品牌，使用到 18 個月時，鬆動異響、埠口晃動或 LED 故障的回報較少。售價約 50 美元，每 mAh 的價格約是 Anker Slim 的兩倍。誠實的取捨：你付的是 Mophie 品牌與高級飾面，而非充電速度或容量密度；18W USB-C 輸出比 Anker Slim 的 12W 好，但仍低於完整啟用現代手機快充的 20W 門檻；而在這個容量級距，還有價格更低、充電更快的選項。",
       "pros": [
-        "Mophie signature slim form with fabric or aluminum finish",
-        "Build quality rated higher than budget brands at 18+ month mark",
-        "18W USB-C PD output — faster than the Anker Slim's 12W",
-        "Premium aesthetics suit travel and lifestyle carry"
+        "Mophie 招牌薄型機身，搭配織布或鋁質飾面",
+        "做工品質在 18 個月以上評價高於平價品牌",
+        "18W USB-C PD 輸出——比 Anker Slim 的 12W 快",
+        "高級美感適合旅行與生活風格攜帶"
       ],
       "cons": [
-        "Roughly twice the price per mAh of the Anker Slim",
-        "18W output still below the 20W modern phone fast-charge threshold"
+        "每 mAh 的價格約是 Anker Slim 的兩倍",
+        "18W 輸出仍低於現代手機快充的 20W 門檻"
       ]
     },
     {
       "offerId": "baseus-adaman-power-bank",
-      "badge": "Best Value for Laptops",
+      "badge": "筆電最佳 CP 值",
       "grade": "B+",
-      "review": "The Baseus Adaman 65W is the value pick for buyers who need laptop-charging ability without paying Anker 737 prices. 20,000mAh with USB-C PD at 65W charges a 13-inch MacBook Air at full speed — practically identical to plugging into a wall adapter — and a small LED display shows exact battery percentage rather than LED dots. USB-A at 18W handles phone charging adequately. At around 36 USD this is roughly one-third the Anker 737 price for users whose laptop is a thin Mac or Windows ultrabook rather than a 15-inch power-hungry workstation. The honest tradeoffs: Baseus is a Chinese brand less established in Japan than Anker, replacement and support infrastructure is thinner, long-term (2+ year) quality data is more mixed than Anker flagship units, and 310g is heavier than slim designs but lighter than the Anker 737.",
+      "review": "Baseus Adaman 65W 是需要筆電充電能力、又不想付 Anker 737 價格的買家的高 CP 值選擇。20,000mAh 搭配 65W USB-C PD，能以全速為 13 吋 MacBook Air 充電——實際上與插上壁充轉接器幾乎相同——而小型 LED 螢幕顯示精確電量百分比而非 LED 點。18W 的 USB-A 足以應付手機充電。售價約 36 美元，對於筆電是薄型 Mac 或 Windows 輕薄筆電、而非 15 吋耗電工作站的使用者，價格約是 Anker 737 的三分之一。誠實的取捨：Baseus 是在日本不如 Anker 普及的中國品牌，維修與支援基礎較薄弱，長期（2 年以上）品質數據比 Anker 旗艦機種更不一致，且 310g 比薄型設計重但比 Anker 737 輕。",
       "pros": [
-        "65W USB-C PD charges a 13-inch MacBook Air at wall-charger speed",
-        "20,000mAh capacity at around 36 USD — strong price per Wh",
-        "Digital display shows exact battery percentage",
-        "Lighter than Anker 737 at 310g for thin-laptop travelers"
+        "65W USB-C PD 能以壁充速度為 13 吋 MacBook Air 充電",
+        "20,000mAh 容量約 36 美元——每 Wh 價格強勁",
+        "數位顯示秀出精確電量百分比",
+        "310g 比 Anker 737 輕，適合薄型筆電旅客"
       ],
       "cons": [
-        "Baseus brand support thinner than Anker in Japan",
-        "Long-term quality data more mixed at 2+ years vs Anker flagships"
+        "Baseus 品牌支援在日本不如 Anker",
+        "2 年以上長期品質數據比 Anker 旗艦更不一致"
       ]
     },
     {
       "offerId": "iniu-portable-charger",
-      "badge": "Best Budget Fast Charging",
+      "badge": "預算快充最佳",
       "grade": "B+",
-      "review": "The INIU 10000mAh Portable Charger is the right pick for budget buyers who want genuine fast charging without paying for Mophie's premium finish. 10,000mAh with USB-C output at 20W — the only sub-25 USD unit in this comparison that hits 20W on USB-C — and USB-A at 22.5W handles fast-charge Android phones competently. At 20W the INIU charges an iPhone 15 to 50% in under 30 minutes, genuinely matching wall-adapter speed. LED percentage display improves on the Anker Slim's LED dots. At around 22 USD this matches the Anker Slim price while winning on USB-C wattage (20W vs 12W). The honest tradeoffs: INIU is a newer brand with less long-term quality data than Anker, the 18-month and 3-year failure patterns are not as well documented, and the durability track record is shorter even though short-term build quality reviews are solid.",
+      "review": "INIU 10000mAh Portable Charger 是想要真正快充、又不想付 Mophie 高級飾面價格的預算買家的正確選擇。10,000mAh 搭配 USB-C 20W 輸出——本次比較中唯一一款 25 美元以下、USB-C 達 20W 的機種——而 22.5W 的 USB-A 能稱職應付支援快充的 Android 手機。在 20W 下，INIU 能讓 iPhone 15 不到 30 分鐘充到 50%，真正匹敵壁充轉接器的速度。LED 百分比顯示優於 Anker Slim 的 LED 點。售價約 22 美元，與 Anker Slim 同價，卻在 USB-C 瓦數上勝出（20W vs 12W）。誠實的取捨：INIU 是較新的品牌，長期品質數據比 Anker 少，18 個月與 3 年的故障型態尚未有完整記錄，且耐用度實績較短，儘管短期做工品質評測紮實。",
       "pros": [
-        "20W USB-C output at sub-25 USD price — fast iPhone 15 charging",
-        "USB-A at 22.5W handles fast-charge Android phones",
-        "LED percentage display rather than dots-only indicator",
-        "10,000mAh in compact form at the Anker Slim price"
+        "25 美元以下價格的 20W USB-C 輸出——iPhone 15 快充",
+        "22.5W 的 USB-A 能應付支援快充的 Android 手機",
+        "LED 百分比顯示而非僅有點狀指示",
+        "10,000mAh 緊湊機身，與 Anker Slim 同價"
       ],
       "cons": [
-        "Newer brand with shorter long-term quality track record",
-        "18-month and 3-year failure patterns less well documented than Anker"
+        "較新的品牌，長期品質實績較短",
+        "18 個月與 3 年故障型態的記錄不如 Anker 完整"
       ]
     }
   ],
   "recommendedFor": [
     {
-      "label": "For daily commute and emergency phone charging",
+      "label": "日常通勤與緊急手機充電",
       "offerId": "anker-powercore-slim-10000",
-      "reason": "186g flat slab with 10,000mAh in a 22 USD price covers daily phone-only emergency charging at the lightest possible weight."
+      "reason": "186g 扁平板身、10,000mAh，22 美元價格以最輕的重量涵蓋日常只充手機的緊急充電。"
     },
     {
-      "label": "For laptop charging away from outlets",
+      "label": "在沒插座處為筆電充電",
       "offerId": "anker-737-power-bank",
-      "reason": "140W output and 24,000mAh under the airline carry-on limit charges a 15-inch MacBook Pro at wall-charger speed for remote workers."
+      "reason": "140W 輸出與低於航空隨身限制的 24,000mAh，能以壁充速度為遠端工作者的 15 吋 MacBook Pro 充電。"
     },
     {
-      "label": "For travelers who value premium build and aesthetics",
+      "label": "重視高級做工與美感的旅客",
       "offerId": "mophie-powerstation-pd",
-      "reason": "Mophie's slim aluminum/fabric finish with above-average long-term reliability suits lifestyle and travel carry."
+      "reason": "Mophie 薄型鋁質／織布飾面搭配高於平均的長期可靠度，適合生活風格與旅行攜帶。"
     },
     {
-      "label": "For thin-laptop users who want 65W without Anker 737 pricing",
+      "label": "想要 65W 又不想付 Anker 737 價格的薄型筆電使用者",
       "offerId": "baseus-adaman-power-bank",
-      "reason": "65W USB-C charges a 13-inch MacBook Air at full speed for one-third the Anker 737 price with digital percentage display."
+      "reason": "65W USB-C 以全速為 13 吋 MacBook Air 充電，價格僅 Anker 737 三分之一，並有數位百分比顯示。"
     },
     {
-      "label": "For budget buyers who prioritize charging speed",
+      "label": "重視充電速度的預算買家",
       "offerId": "iniu-portable-charger",
-      "reason": "20W USB-C output at the Anker Slim price beats it on charging speed for buyers who value wattage over brand pedigree."
+      "reason": "與 Anker Slim 同價的 20W USB-C 輸出，對重視瓦數勝過品牌資歷的買家在充電速度上勝出。"
     }
   ]
 }

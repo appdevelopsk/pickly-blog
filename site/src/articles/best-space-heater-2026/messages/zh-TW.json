@@ -1,237 +1,237 @@
 {
-  "title": "Best space heaters 2026: wattage, safety cutoffs, and what Dyson's price premium actually buys",
-  "description": "Dyson Hot+Cool HP07, Vornado VH10, Lasko 5309, Daikin ERFT11WS, and De'Longhi TRD40615E compared on heat output, safety features, noise levels, room coverage, and the real cost of running them daily.",
-  "lede": "Every space heater in this comparison draws between 1200W and 1500W at full output — that's the hard ceiling for a standard 15A household circuit. The real differences are where the heat goes, how quietly it gets there, and whether the safety cutoffs are trustworthy enough to run the unit unattended overnight.",
-  "methodology": "We evaluated each space heater on measured heat output consistency, thermostat accuracy, tip-over and overheat protection reliability, noise levels at full and mid output, and long-term ownership cost including energy consumption. Manufacturer wattage and room coverage specs were cross-checked against verified owner reviews.",
+  "title": "2026最佳電暖器推薦：瓦數、安全與Dyson旗艦機",
+  "description": "Dyson Hot+Cool HP07、Vornado VH10、Lasko 5309、Daikin ERFT11WS 與 De'Longhi TRD40615E 五款電暖器，從發熱量、安全功能、噪音、適用坪數到每日實際電費全面比較。",
+  "lede": "本次比較的每款電暖器在最大輸出時功率介於1200W至1500W之間——這是標準15A家用迴路的硬性上限。真正的差異在於熱能傳遞的方向、傳遞時的噪音大小，以及安全斷電機制是否可靠到讓人放心整夜無人看守地運作。",
+  "methodology": "我們針對每款電暖器，從實測發熱輸出的穩定性、恆溫器精度、傾倒及過熱保護的可靠性、最大與中等輸出時的噪音水準，以及含耗電量在內的長期持有成本等面向進行評測。廠商標示的功率與適用房間面積規格，亦與經驗證的使用者評價進行了交叉比對。",
   "recommendedFor": [
     {
-      "label": "For households wanting air purification alongside heat, year-round",
+      "label": "適合全年同時需要暖氣與空氣淨化的家庭",
       "offerId": "space-heater-dyson-hot-cool",
-      "reason": "Dyson HP07 pairs HEPA H13 air cleaning with 2000W heating and a cool fan — the only pick here that earns its place year-round."
+      "reason": "Dyson HP07 將 HEPA H13 空氣淨化與 2000W 暖氣及冷風扇合而為一——是本次比較中唯一能全年發揮價值的選擇。"
     },
     {
-      "label": "For whole-room heating where coverage across corners matters",
+      "label": "適合需要熱能覆蓋整個房間每個角落的場合",
       "offerId": "space-heater-vornado-vh10",
-      "reason": "Vornado's vortex circulation pushes heat to all four corners of rooms up to 28m², not just directly in front of the unit."
+      "reason": "Vornado 的渦流循環能將熱氣推送至最大28m²房間的四個角落，而不僅是正對機器的區域。"
     },
     {
-      "label": "For a tall living space where a tower heater blends in visually",
+      "label": "適合希望塔式暖氣機能融入高挑客廳視覺的場合",
       "offerId": "space-heater-lasko-cyclonic",
-      "reason": "Lasko's tower design with oscillation and remote control heats vertically rather than directionally at the most affordable price point."
+      "reason": "Lasko 的塔式設計搭配擺頭與遙控功能，以最實惠的價格提供垂直向上而非單方向的加熱效果。"
     },
     {
-      "label": "For Japanese households wanting a trusted domestic brand with humidification",
+      "label": "適合日本家庭選購信賴的本土品牌並附加加濕功能",
       "offerId": "space-heater-daikin-ceramic-jp",
-      "reason": "Daikin's ERFT11WS adds humidification to ceramic fan heating — a genuinely useful combo for Japan's dry winters."
+      "reason": "Daikin ERFT11WS 在陶瓷風扇暖氣基礎上加入加濕功能——對日本乾燥冬季而言是真正實用的組合。"
     },
     {
-      "label": "For bedrooms where silent overnight heat matters more than fast warm-up",
+      "label": "適合臥室使用、無聲整夜供暖比快速升溫更重要的情境",
       "offerId": "space-heater-delonghi-oil-filled",
-      "reason": "De'Longhi oil-filled radiators produce zero fan noise and safe, radiant warmth — the only pick here suitable for all-night bedroom use."
+      "reason": "De'Longhi 充油式電暖器完全沒有風扇噪音，提供安全的輻射暖意——是本次比較中唯一適合整夜在臥室使用的選擇。"
     }
   ],
   "sections": [
     {
-      "heading": "How we compared these space heaters",
+      "heading": "我們如何比較這些電暖器",
       "paragraphs": [
-        "No controlled calorimetry here. Accurately measuring heat output in BTUs, thermostat accuracy in degrees, and room warm-up times requires standardized room volumes and ambient temperatures that a real-world comparison can't control for. Instead, this comparison cross-references manufacturer wattage and room-coverage specs against long-term owner experiences, validates safety certification claims (UL, ETL, CE, PSE for Japan), and investigates the actual failure modes reported for each model's safety cutoffs over multi-year ownership.",
-        "The fundamental constraint every buyer needs to understand before comparing models: all portable space heaters in the US and EU operate on the same physics. A 1500W heater produces roughly 5,100 BTU/hr. A 1500W heater pulling full power on a 15A circuit leaves roughly 3A of headroom before the breaker trips — so running a space heater on the same circuit as other high-draw appliances (hair dryer, vacuum, microwave) is the most common cause of breaker trips and, in older wiring, a fire risk. This is not a product defect: it's a building wiring issue. The only exception to the 1500W ceiling is the Dyson HP07, which is rated at 2000W — it needs a dedicated circuit in homes with 15A breakers."
+        "本次比較並未進行受控量熱實驗。要精確測量BTU發熱量、恆溫器的溫度精確度以及房間升溫時間，需要標準化的空間容積與環境溫度，這是真實環境比較難以控制的條件。因此，本次比較採用交叉比對的方式，將廠商標示的功率與適用面積規格對照長期使用者的實際體驗，驗證安全認證聲明（美規 UL、ETL，歐規 CE，日規 PSE），並深入調查各型號安全斷電機制在多年使用後實際出現的故障模式。",
+        "在比較各款產品前，每位購買者都應了解一個根本限制：美國和歐盟市場的所有可攜式電暖器都受相同物理定律約束。一台1500W的電暖器每小時大約產生5,100 BTU。在15A迴路上滿載運作的1500W電暖器，在跳脫斷路器前只剩約3A的餘裕——因此將電暖器與其他高耗電設備（吹風機、吸塵器、微波爐）接在同一迴路是最常見的跳電原因，在老舊配線環境下更是火災風險。這並非產品瑕疵，而是建築配線問題。唯一例外是額定2000W的Dyson HP07——在配備15A斷路器的住宅中，它需要獨立的迴路。"
       ]
     },
     {
-      "heading": "What changed in 2026",
+      "heading": "2026年有哪些新變化",
       "paragraphs": [
-        "Smart thermostat integration has moved from a marketing feature to genuine utility in the space heater category. The Dyson HP07, already connected to the Dyson Link app, now participates in heating schedules synced with smart home platforms (HomeKit, Google Home, Amazon Alexa). Vornado has not added app control to the VH10, which is increasingly a differentiator in a market where price-sensitive buyers are comparing it to smart competitors. The practical benefit of scheduling remains modest for space heaters — unlike central heating, a portable unit only heats the room it's in, so 'schedule' usually means 'start heating the bedroom 30 minutes before I go to bed.'",
-        "Energy cost awareness is shaping purchase decisions more directly than in previous years. With electricity rates averaging $0.16–0.23 per kWh in the US and ¥25–35 per kWh in Japan, running a 1500W heater for 8 hours costs $1.92–2.76 per day in the US and roughly ¥300–420 in Japan. Over a three-month heating season (90 days), that's $173–248 or ¥27,000–37,800 — numbers that make buyers look seriously at the De'Longhi oil-filled radiator's lower average wattage draw (it cycles between 300W, 700W, and 1500W versus a fan heater running at sustained 1500W) and at the Dyson's justification for its premium buy-in.",
-        "Japanese domestic manufacturers (Daikin, Panasonic, Toyotomi, Corona) have strengthened their share in the ceramic fan heater segment by bundling humidification and nanoe/Plasmacluster ion technology. The Daikin ERFT11WS is the clearest example: ceramic fan heating with an integrated humidification function. The humidification capacity is modest (around 250 mL/hr) but meaningful in Japan's winter where running heating without humidification drops indoor RH below 30% within hours. This bundle is not available in US-market space heaters."
+        "智慧恆溫器整合已從行銷噱頭演變為電暖器類別中真正實用的功能。Dyson HP07本已連接Dyson Link應用程式，現在更可與智慧家居平台（HomeKit、Google Home、Amazon Alexa）同步加熱排程。Vornado尚未為VH10加入應用程式控制功能，在價格敏感的買家開始拿它與具備智慧功能的競品相比的市場中，這日益成為一項差異。對電暖器而言，排程功能的實際效益仍相當有限——不同於中央暖氣系統，可攜式電暖器只能加熱所在的房間，因此「排程」通常只意味著「在我就寢前30分鐘開始加熱臥室」。",
+        "電費意識正比以往更直接地影響購買決策。美國平均電費為每度電0.16至0.23美元，日本為每度電25至35日圓，一台1500W電暖器運作8小時，在美國每天需花費1.92至2.76美元，在日本則約需300至420日圓。以三個月暖氣季（90天）計算，美國共需173至248美元，日本則為27,000至37,800日圓——這些數字促使買家認真考慮De'Longhi充油式電暖器較低的平均耗電量（在300W、700W和1500W之間循環，而非維持1500W持續運作的風扇暖氣機）以及Dyson高售價的合理性。",
+        "日本本土製造商（Daikin、Panasonic、Toyotomi、Corona）透過捆綁加濕功能及nanoe/Plasmacluster離子技術，強化了在陶瓷風扇暖氣機市場的占有率。Daikin ERFT11WS是最典型的例子：陶瓷風扇暖氣搭配整合式加濕功能。加濕能力雖然不大（標準室內環境下約250毫升/小時），但在日本冬季意義重大——暖氣開啟後若未加濕，室內相對濕度往往在數小時內就會降至30%以下。這種組合在美國市場的電暖器中並不存在。"
       ]
     },
     {
-      "heading": "Where each heater fits",
+      "heading": "各款暖氣機的適用情境",
       "paragraphs": [
-        "The Dyson HP07 belongs in a home office or living room where HEPA air purification is independently valuable. The heat and fan functions are good — the airflow is bladeless, quieter at high speeds than most ceramic fans, and the cool fan function makes it earn its floor space in summer. The issue is the math: at $400–550, the Dyson costs four to five times a capable vortex heater. If you already own an air purifier and just want heat, the Dyson cannot justify that gap on heating performance alone. Its justification is the year-round utility of one device doing three jobs (heat, cool, purify) in a space where you want all three.",
-        "The Vornado VH10 is the most underrated heater in this comparison. Vortex circulation — the same aerodynamic principle Vornado uses in its fans — forces heated air out in a spiral that reaches all four corners of a room, not just a cone in front of the unit. This genuinely matters in rooms with furniture: a directional heater pointed at you from across the room heats you; a Vornado VH10 heats the room. At $80–120 with automatic climate control, a 12-hour timer, and a long Vornado reliability track record, it's the value choice for anyone heating a bedroom or medium living room who doesn't need smart-home integration.",
-        "The Lasko 5309 is the choice when visual footprint matters as much as thermal performance. A tower heater that oscillates, has a remote control, and costs $50–80 doesn't heat with Vornado's whole-room efficiency — the tower form means heat rises vertically rather than circulating — but it blends into a living room visually in a way that a box heater on the floor does not. The digital thermostat is accurate to roughly ±2°C, which is acceptable for most use cases."
+        "Dyson HP07適合家庭辦公室或客廳等HEPA空氣淨化本身即具有獨立價值的場所。暖氣和風扇功能表現優秀——無葉片氣流在高速時比大多數陶瓷風扇更安靜，而冷風扇功能讓它在夏季也能物盡其用。問題在於售價：400至550美元的Dyson，在相同供暖效能下，比一台功能出色的渦流暖氣機貴了四到五倍。如果您已有空氣清淨機、只需要暖氣，Dyson光憑暖氣效能根本無法彌補這個價差。它的合理性在於一台設備全年承擔三項工作（暖氣、冷風、淨化）的長期效益，前提是您確實需要這三項功能。",
+        "Vornado VH10是本次比較中最被低估的暖氣機。渦流循環——Vornado風扇所採用的相同空氣動力學原理——將暖空氣以螺旋方式推送至房間的四個角落和地板後再循環，而非僅僅在機器正前方形成一個錐形熱區。這在有傢俱的房間中效果尤為明顯：一台對著您的定向暖氣機只是讓您感到溫暖，但Vornado VH10加熱的是整個房間。在自動氣候控制、12小時計時器和Vornado一貫可靠的口碑加持下，售價80至120美元的它，是任何不需要智慧家居整合而想為臥室或中型客廳供暖的人的性價比之選。",
+        "當視覺存在感與供暖效果同等重要時，Lasko 5309是首選。一台售價50至80美元、具備擺頭功能和遙控器的塔式暖氣機，雖然在全屋暖氣效率上無法與Vornado媲美——塔式設計意味著熱氣向上升而非循環——但它融入客廳的視覺效果是落地式箱型暖氣機無法比擬的。數位恆溫器的精確度約為±2°C，對大多數使用場景來說已綽綽有餘。"
       ]
     },
     {
-      "heading": "Verdict",
+      "heading": "總結",
       "paragraphs": [
-        "For most households: Vornado VH10. The vortex circulation is the genuinely differentiated feature in the price range, the build quality is above average for the segment, and the 12-hour timer handles the most common use case (heat the bedroom until morning) without smart-home complexity. At $80–120 it's the non-overthought answer.",
-        "The De'Longhi oil-filled radiator is the correct answer for anyone who needs to run a heater in a bedroom all night. Zero fan noise, safe radiant heat that doesn't dry out room air as aggressively as a fan heater, and a 24-hour timer. The trade-off is warm-up time: oil radiators take 20–30 minutes to reach steady-state heat output, versus 2–3 minutes for a ceramic fan heater. Plan for a 30-minute pre-heat.",
-        "The Daikin ERFT11WS is the correct answer for Japanese households who want one machine handling heating and basic humidification through a dry winter. The PSE safety certification, domestic warranty, and humidification function are not available in the same package from any import brand. For US buyers, the Daikin is not available; the Vornado and De'Longhi are the primary choices.",
-        "The Dyson HP07 justifies itself only if you would independently buy both a heater and an air purifier for the same room. At that point, the Dyson's year-round utility (heat + cool fan + HEPA purification in one device) genuinely competes with two separate mid-range devices. As a heater alone, it does not."
+        "對大多數家庭而言：Vornado VH10。渦流循環是這個價格帶中真正具有差異化的功能，整體做工品質高於同類產品的平均水準，12小時計時器也足以應付最常見的使用場景（供暖至天亮），無需智慧家居的複雜設定。售價80至120美元，是不需要過度糾結的答案。",
+        "De'Longhi充油式電暖器是任何需要整夜在臥室運行暖氣的人的正確選擇。零風扇噪音、不像風扇暖氣機那樣大量抽乾室內空氣的安全輻射熱，以及24小時計時器。代價是升溫時間：充油式電暖器需要20至30分鐘才能從冷態達到穩定的發熱輸出，而陶瓷風扇暖氣機只需2至3分鐘。請預留30分鐘的預熱時間。",
+        "Daikin ERFT11WS是想要一台機器在乾燥冬季同時處理暖氣和基本加濕需求的日本家庭的正確選擇。PSE安全認證、國內保固和加濕功能，是任何進口品牌無法在同一產品中提供的組合。對美國買家而言，Daikin無法取得；Vornado和De'Longhi是主要選項。",
+        "Dyson HP07只有在您原本就打算為同一個房間獨立購買暖氣機和空氣清淨機的情況下，才能真正體現其價值。在這個前提下，Dyson全年兼顧暖氣、冷風扇與HEPA淨化三項功能的實用性，確實可與兩台獨立的中階設備相抗衡。但若只用來取暖，它的表現並不足以支撐其售價。"
       ]
     }
   ],
   "products": [
     {
       "offerId": "space-heater-dyson-hot-cool",
-      "badge": "Best Air Purifier + Heater Combo",
-      "review": "The Dyson HP07 is the premium-tier pick for a room where heat and air quality are both priorities. HEPA H13 filtration captures 99.97% of particles down to 0.3 microns, the 2000W heat output (note: this requires a dedicated circuit on 15A wiring) uses Dyson's Air Multiplier to distribute heat without a traditional heating element visible, and the cool fan mode runs during summer without switching devices. The Dyson Link app enables scheduling, real-time air quality data from the onboard sensors, and smart-home integration with Alexa, Google, and Siri. At $400–550, the buy-in requires honest justification: if all you need is heat, there are better options at a quarter the price. The Dyson earns its price when the HEPA air purification is genuinely needed — allergies, pets, urban apartments — and the year-round fan function keeps the device in active use through summer.",
+      "badge": "最佳空氣清淨機＋暖氣機組合",
+      "review": "Dyson HP07是同時注重暖氣與空氣品質之房間的頂級選擇。HEPA H13過濾可捕獲99.97%低至0.3微米的微粒；2000W的發熱輸出（注意：在15A配線環境下需要獨立迴路）透過Dyson Air Multiplier技術散布熱氣，無需傳統可見的加熱元件；夏季則可切換至冷風扇模式而無需更換設備。Dyson Link應用程式提供排程設定、機載感測器即時空氣品質數據，以及與Alexa、Google和Siri的智慧家居整合。售價400至550美元，購買前必須誠實評估是否值得：如果只需要暖氣，同等效果的選擇只需四分之一的價格。當HEPA空氣淨化確實有其必要性時——例如過敏體質、養寵物、都市公寓——Dyson才真正物有所值，加上全年風扇功能使設備在夏季也能持續發揮作用。",
       "pros": [
-        "HEPA H13 air purification runs alongside heating or independently as a fan",
-        "Bladeless Air Multiplier is quieter at high speeds than most ceramic fan heaters",
-        "Year-round utility: heating in winter, cool fan and air purification in summer",
-        "Real-time air quality data and smart scheduling via Dyson Link app"
+        "HEPA H13空氣淨化可在加熱同時運作，或單獨作為風扇使用",
+        "無葉片Air Multiplier在高速時比大多數陶瓷風扇暖氣機更安靜",
+        "全年實用：冬季供暖、夏季冷風兼空氣淨化",
+        "透過Dyson Link應用程式提供即時空氣品質數據與智慧排程"
       ],
       "cons": [
-        "2000W rating requires a dedicated 15A circuit — may trip shared circuits",
-        "At $400–550, costs 4–5x a capable vortex heater for heating performance alone"
+        "2000W規格需要獨立的15A迴路——可能導致共用迴路跳電",
+        "售價400至550美元，純就供暖效能而言比一台功能出色的渦流暖氣機貴4至5倍"
       ],
       "grade": "A",
       "specs": {
-        "功率": "2000W (heating), fan-only mode available",
-        "過濾": "HEPA H13 + activated carbon",
-        "覆蓋範圍": "Up to approx. 50m² (fan-only), smaller with efficient heating",
-        "噪音": "~51dB at max speed",
-        "智慧家居": "Alexa, Google Assistant, Siri via Dyson Link app"
+        "Power": "2000W（暖氣模式），另有純風扇模式",
+        "Filtration": "HEPA H13 + 活性碳",
+        "Coverage": "純風扇模式最大約50m²，暖氣模式較小",
+        "Noise": "最高速約51dB",
+        "Smart home": "透過Dyson Link應用程式支援Alexa、Google Assistant、Siri"
       },
       "scores": {
-        "加熱輸出": 4.5,
-        "空氣淨化": 5.0,
-        "性價比": 3.2,
-        "噪音水平": 4.3,
-        "全年實用性": 5.0
+        "Heat output": 4.5,
+        "Air purification": 5.0,
+        "Value for money": 3.2,
+        "Noise level": 4.3,
+        "Year-round utility": 5.0
       }
     },
     {
       "offerId": "space-heater-vornado-vh10",
-      "badge": "Best Whole-Room Value",
-      "review": "The Vornado VH10 heats rooms differently from any other space heater in this comparison. Vortex circulation creates a spiral of warm air that reaches the walls, corners, and floor before cycling back — resulting in more even heat distribution than a directional heater at the same wattage. At 1500W maximum, it's rated for rooms up to 300 sq ft (28m²) which aligns with most single-room residential use. Automatic climate control lets you set a target temperature rather than just a wattage level. The 12-hour timer and two heat settings (750W/1500W) cover the typical use case. Build quality is solidly above-average for the price — Vornado's US-focused manufacturing heritage shows in the unit's longevity in owner reviews. No smart-home integration, no app — which is either a simplicity advantage or a gap depending on your ecosystem.",
+      "badge": "最佳全室供暖性價比",
+      "review": "Vornado VH10的加熱方式與本次比較中其他任何電暖器都不同。渦流循環產生螺旋形暖空氣，在循環回來之前能抵達牆壁、角落和地板——相較於同功率的定向暖氣機，熱能分佈更加均勻。最大功率1500W，額定適用面積達300平方英尺（28m²），符合大多數單室住宅的使用需求。自動氣候控制讓您設定目標溫度而非僅設定功率等級。12小時計時器和兩段加熱設定（750W/1500W）涵蓋典型使用場景。整體做工品質明顯優於同價位產品——Vornado以美國製造為核心的品牌傳承，在使用者長期評價中的耐用性口碑可見一斑。沒有智慧家居整合，也沒有應用程式——根據您的使用生態，這可以是簡單易用的優點，也可以是一項缺口。",
       "pros": [
-        "Vortex circulation heats all four corners of the room, not just the area in front",
-        "Automatic climate control maintains target temperature rather than just output level",
-        "12-hour timer and two heat settings for flexible scheduling",
-        "Above-average build quality and reliability track record at the price"
+        "渦流循環加熱房間四個角落，而非僅加熱正前方區域",
+        "自動氣候控制維持目標溫度，而非只控制輸出功率等級",
+        "12小時計時器和兩段加熱設定，彈性排程更靈活",
+        "同價位中做工品質與可靠性口碑均高於平均水準"
       ],
       "cons": [
-        "No smart-home integration or app control",
-        "No oscillation — fixed vortex direction, though room circulation compensates"
+        "無智慧家居整合或應用程式控制",
+        "無擺頭功能——渦流方向固定，但房間循環效果可彌補此限制"
       ],
       "grade": "A",
       "specs": {
-        "功率": "1500W (high) / 750W (low)",
-        "覆蓋範圍": "Up to 300 sq ft (28m²)",
-        "恆溫器": "Automatic climate control",
-        "計時器": "12 hours",
-        "噪音": "~55dB at max"
+        "Power": "1500W（強）/ 750W（弱）",
+        "Coverage": "最大300平方英尺（28m²）",
+        "Thermostat": "自動氣候控制",
+        "Timer": "12小時",
+        "Noise": "最大速約55dB"
       },
       "scores": {
-        "加熱輸出": 4.7,
-        "房間覆蓋": 4.9,
-        "性價比": 4.8,
-        "噪音水平": 4.0,
-        "構建質量": 4.6
+        "Heat output": 4.7,
+        "Room coverage": 4.9,
+        "Value for money": 4.8,
+        "Noise level": 4.0,
+        "Build quality": 4.6
       }
     },
     {
       "offerId": "space-heater-lasko-cyclonic",
-      "badge": "Best Budget Tower Heater",
-      "review": "The Lasko 5309 is the heater you buy when you need decent warmth in a medium-sized room without spending much, and when the visual footprint of a box heater on the floor feels wrong for the space. Tower form factor, oscillating heat distribution, remote control, and a digital thermostat at $50–80 is a genuinely compelling package for a living room, bedroom, or office. The cyclonic heating element isn't a gimmick — directing air in a circular pattern off the heating element produces slightly more even distribution than a straight-blow fan heater. The limitation is real: tower heaters push heat upward, and warm air rises anyway, so the effective heating zone for a seated or floor-level occupant is the warm column directly in the oscillation path, not the whole room like the Vornado. In a room with high ceilings (above 2.8m), the heat stratification problem becomes more pronounced.",
+      "badge": "最佳平價塔式暖氣機",
+      "review": "Lasko 5309適合在不想花大錢的情況下為中型房間提供適當暖意，同時又不希望箱型暖氣機落地擺放破壞空間視覺感的買家。塔式外型、擺頭式熱風分佈、遙控器和數位恆溫器，售價50至80美元，對客廳、臥室或辦公室而言是一個真正吸引人的組合。旋風式加熱元件並非噱頭——讓氣流以環形方式從加熱元件吹出，確實比直吹式風扇暖氣機產生略微更均勻的分佈。但限制確實存在：塔式暖氣機將熱氣向上推，而暖空氣本來就會上升，因此對坐著或趴在地板上的使用者而言，有效加熱區域只是擺頭路徑中的暖空氣柱，而非像Vornado那樣覆蓋整個房間。在天花板較高（超過2.8公尺）的房間，熱分層問題會更加明顯。",
       "pros": [
-        "Tower form blends into living rooms and bedrooms more naturally than box heaters",
-        "Remote control and digital thermostat at the entry-level price point",
-        "Oscillating heat distribution covers more floor area than a fixed-direction heater",
-        "Cool-touch housing even at full output — safe around children"
+        "塔式外型比箱型暖氣機更自然地融入客廳和臥室",
+        "入門價位即具備遙控器和數位恆溫器",
+        "擺頭式熱風分佈覆蓋的地面面積比固定方向的暖氣機更廣",
+        "即使在最大輸出時外殼仍保持低溫——在有孩子的家庭中更安全"
       ],
       "cons": [
-        "Tower form pushes heat upward — less effective for floor-level heating than vortex designs",
-        "Heat stratification issue worsens in rooms with ceilings above 2.8m"
+        "塔式結構將熱氣向上推——對低層加熱的效果不如渦流設計",
+        "天花板超過2.8公尺的房間熱分層問題更為明顯"
       ],
       "grade": "B+",
       "specs": {
-        "功率": "1500W (high) / 750W (low)",
-        "外形尺寸": "Tower, oscillating",
-        "控制": "Digital thermostat + remote",
-        "安全性": "Overheat protection, tip-over switch",
-        "覆蓋範圍": "Up to approx. 20m²"
+        "Power": "1500W（強）/ 750W（弱）",
+        "Form factor": "塔式，可擺頭",
+        "Controls": "數位恆溫器＋遙控器",
+        "Safety": "過熱保護、傾倒斷電開關",
+        "Coverage": "最大約20m²"
       },
       "scores": {
-        "加熱輸出": 4.2,
-        "房間覆蓋": 3.9,
-        "性價比": 4.9,
-        "噪音水平": 4.1,
-        "設計": 4.5
+        "Heat output": 4.2,
+        "Room coverage": 3.9,
+        "Value for money": 4.9,
+        "Noise level": 4.1,
+        "Design": 4.5
       }
     },
     {
       "offerId": "space-heater-daikin-ceramic-jp",
-      "badge": "Best for Japan (Ceramic + Humidifier)",
-      "review": "The Daikin ERFT11WS solves a uniquely Japanese winter problem: ceramic fan heating dries out the air faster than the heating rate, and running humidification separately adds another appliance. Daikin's answer is an integrated humidification element — about 250 mL/hr at standard room conditions — alongside three-stage ceramic heating output (1200W / 600W / 300W). The 37dB quiet mode is genuinely quiet enough for a bedroom. PSE safety certification and the standard Daikin domestic warranty (1 year parts and labor) are the baseline expectations for Japan-market appliances that imported alternatives can't match. The humidification capacity is not large enough for dry LDKs over 20m² — for large rooms, a separate humidifier remains necessary. But for a 10–16m² bedroom in a Japanese apartment through a dry February, the ERFT11WS handles both jobs adequately.",
+      "badge": "最佳日本市場選擇（陶瓷＋加濕）",
+      "review": "Daikin ERFT11WS解決了日本冬季獨有的問題：陶瓷風扇暖氣機乾燥空氣的速度快過暖氣的加熱速度，而單獨開加濕器又多了一台設備。Daikin的解決方案是整合式加濕元件——標準室內環境下約250毫升/小時——搭配三段式陶瓷發熱輸出（1200W / 600W / 300W）。37dB的靜音模式在臥室使用時確實足夠安靜。PSE安全認證和Daikin標準國內保固（零件與人工各一年）是日本市場家電的基本要求，進口替代品無法達到。加濕能力不足以應付超過20m²的乾燥LDK——大型空間仍需單獨的加濕器。但對日本公寓10至16m²臥室在乾燥的二月而言，ERFT11WS足以同時勝任這兩項工作。",
       "pros": [
-        "Integrated humidification function addresses Japan's dry-winter problem in one unit",
-        "Three-stage output (1200W/600W/300W) for fine-grained temperature control",
-        "37dB quiet mode appropriate for bedroom overnight use",
-        "PSE certification and Daikin domestic warranty"
+        "整合式加濕功能以一台設備解決日本冬季乾燥問題",
+        "三段式輸出（1200W/600W/300W）實現精細溫度控制",
+        "37dB靜音模式適合臥室整夜使用",
+        "PSE認證與Daikin國內保固"
       ],
       "cons": [
-        "250 mL/hr humidification is insufficient for large LDKs over 20m²",
-        "Not available in US market; Japanese-specification 100V only"
+        "250毫升/小時的加濕量對超過20m²的大型LDK來說不足",
+        "美國市場無法購得；僅限日本規格100V電壓"
       ],
       "grade": "A",
       "specs": {
-        "功率": "1200W / 600W / 300W (3-stage)",
-        "加濕": "Approx. 250 mL/hr",
-        "噪音": "~37dB (quiet mode)",
-        "覆蓋範圍": "Up to approx. 12m² (JIS standard)",
-        "電壓": "100V (Japan only)",
-        "認證": "PSE"
+        "Power": "1200W / 600W / 300W（三段式）",
+        "Humidification": "約250毫升/小時",
+        "Noise": "約37dB（靜音模式）",
+        "Coverage": "最大約12m²（JIS標準）",
+        "Voltage": "100V（僅限日本）",
+        "Certification": "PSE"
       },
       "scores": {
-        "加熱輸出": 4.4,
-        "加濕": 4.0,
-        "性價比(JP)": 4.5,
-        "噪音水平": 4.8,
-        "構建質量": 4.7
+        "Heat output": 4.4,
+        "Humidification": 4.0,
+        "Value for money (JP)": 4.5,
+        "Noise level": 4.8,
+        "Build quality": 4.7
       }
     },
     {
       "offerId": "space-heater-delonghi-oil-filled",
-      "badge": "Best Silent Bedroom Heater",
-      "review": "The De'Longhi TRD40615E is the only pick here that produces zero fan noise, because oil-filled radiators have no fan. Thermal fluid is heated inside sealed metal fins and radiates warmth passively, the same principle as a traditional hot-water radiator. The result: genuinely silent heat suitable for sleeping next to. Startup time is the trade-off — the fins take 20–30 minutes to reach steady-state output from cold, versus 2–3 minutes for a ceramic fan heater. The 24-hour programmable timer partially compensates for this: set the radiator to start 30 minutes before you want warmth. At 1500W maximum, it draws the same peak power as a fan heater, but the 300W and 700W intermediate settings mean average power consumption during a thermostat-controlled overnight session is substantially lower than a fan heater cycling between 0W and 1500W at the same thermostat setting. Safe surface temperature (fins reach 60–80°C but the outer housing stays touchable) makes it safer than ceramic fan heaters for homes with young children.",
+      "badge": "最佳靜音臥室暖氣機",
+      "review": "De'Longhi TRD40615E是本次比較中唯一完全沒有風扇噪音的選擇，因為充油式電暖器根本沒有風扇。導熱液在密封金屬散熱片內加熱後，以被動方式輻射暖意，原理與傳統熱水暖氣片相同。結果是：真正的無聲暖氣，適合在旁入睡。代價是啟動時間——散熱片從冷態升至穩定輸出需要20至30分鐘，而陶瓷風扇暖氣機只需2至3分鐘。24小時可程式計時器可部分彌補這個問題：設定暖氣在需要溫暖的30分鐘前開始運作。最大功率1500W，峰值耗電量與風扇暖氣機相同，但300W和700W的中間檔位意味著在恆溫器控制下整夜運作時的平均耗電量，遠低於在相同溫控設定下在0W和1500W之間切換的風扇暖氣機。安全的外殼溫度（散熱片達60至80°C，但外殼可用手觸摸）使其對有小孩的家庭而言比陶瓷風扇暖氣機更安全。",
       "pros": [
-        "Zero fan noise — the only silent heater here, suitable for bedrooms",
-        "Radiant heat doesn't dry room air as aggressively as forced-air fan heating",
-        "Safe surface temperatures despite high fin temperatures",
-        "Lower average wattage during thermostat-modulated use versus sustained fan heaters"
+        "完全無風扇噪音——本次比較中唯一的靜音暖氣機，適合臥室使用",
+        "輻射熱不像強制對流風扇暖氣機那樣大量抽乾室內空氣",
+        "儘管散熱片溫度較高，外殼表面溫度仍維持安全範圍",
+        "在恆溫器調節使用下，平均耗電量低於持續高功率運作的風扇暖氣機"
       ],
       "cons": [
-        "20–30 minute warm-up from cold — needs advance scheduling",
-        "Heavy unit (around 12kg) with limited portability despite wheels"
+        "從冷態升溫需20至30分鐘——需要提前安排排程",
+        "機體較重（約12公斤），儘管附有輪子，攜帶性仍受限"
       ],
       "grade": "A",
       "specs": {
-        "功率": "1500W / 700W / 300W (3-setting)",
-        "加熱類型": "Oil-filled radiant (no fan)",
-        "計時器": "24-hour programmable",
-        "噪音": "0 dB (no fan)",
-        "重量": "Approx. 12 kg",
-        "安全性": "Thermal cutoff, tip-over switch"
+        "Power": "1500W / 700W / 300W（三段設定）",
+        "Heating type": "充油輻射式（無風扇）",
+        "Timer": "24小時可程式",
+        "Noise": "0 dB（無風扇）",
+        "Weight": "約12公斤",
+        "Safety": "熱斷路器、傾倒斷電開關"
       },
       "scores": {
-        "加熱輸出": 4.3,
-        "噪音水平": 5.0,
-        "性價比": 4.4,
-        "安全性": 4.9,
-        "臥室適用性": 5.0
+        "Heat output": 4.3,
+        "Noise level": 5.0,
+        "Value for money": 4.4,
+        "Safety": 4.9,
+        "Bedroom suitability": 5.0
       }
     }
   ],
   "faqs": [
     {
-      "q": "Can I leave a space heater on overnight?",
-      "a": "The safe answer depends on the type. Oil-filled radiators (De'Longhi TRD40615E) are the safest for overnight operation: no fan, passive radiant heat, automatic thermal cutoff if the unit overheats, and no moving parts to fail. Ceramic fan heaters (Vornado VH10, Lasko 5309, Daikin ERFT11WS) can be left on overnight if they have reliable tip-over protection and an auto shut-off timer — use the timer to limit the run time to 8 hours rather than leaving them on indefinitely. The Dyson HP07's safety record for overnight use is good, but at 2000W it should be on a dedicated circuit. Never: run a space heater with an extension cord (fire risk from overheating the cord), place it on carpet or near flammable materials (most heaters specify 1m clearance), or leave it on in a room with unattended children or pets without a timer cutoff."
+      "q": "電暖器可以整夜開著嗎？",
+      "a": "安全與否取決於類型。充油式電暖器（De'Longhi TRD40615E）是整夜使用最安全的選擇：無風扇、被動輻射熱、機體過熱時自動斷電，且無活動部件會失效。陶瓷風扇暖氣機（Vornado VH10、Lasko 5309、Daikin ERFT11WS）若具備可靠的傾倒保護和自動關閉計時器，可以整夜使用——建議使用計時器將運作時間限制在8小時，而非讓機器無限期運作。Dyson HP07的整夜使用安全紀錄良好，但2000W的功率應使用獨立迴路。絕對禁止：以延長線連接電暖器（電線過熱引發火災風險）、將電暖器放在地毯上或靠近易燃材料（大多數暖氣機要求保持1公尺淨空），或在無人看管的孩童或寵物房間內不設計時器關閉而持續運作。"
     },
     {
-      "q": "How much does it cost to run a space heater for 8 hours?",
-      "a": "At 1500W and a US average electricity rate of $0.16/kWh: 1.5 kW × 8 hours × $0.16 = $1.92 per night. In Japan at ¥30/kWh: 1.5 kW × 8 hours × ¥30 = ¥360 per night. Over a 90-day heating season, that's $173 in the US or ¥32,400 in Japan for a heater running at full output all night. The De'Longhi oil-filled radiator typically runs at lower average wattage because its thermostat cycles the heating element — real-world consumption is often 60–70% of nameplate max, bringing seasonal costs closer to $100–120 in the US. Ceramic fan heaters maintain higher average draw because they cycle between full-on and full-off more abruptly. The Dyson HP07 at 2000W costs $2.56/night at US average rates — meaningful over a season."
+      "q": "電暖器開8小時要花多少電費？",
+      "a": "以1500W、美國平均電費0.16美元/度計算：1.5千瓦×8小時×0.16美元=每晚1.92美元。在日本以每度電30日圓計算：1.5千瓦×8小時×30日圓=每晚360日圓。以90天的供暖季計算，美國全季需花費173美元，日本則需32,400日圓（均以整夜最大輸出計算）。De'Longhi充油式電暖器通常以較低的平均功率運作，因為其恆溫器會循環控制加熱元件——實際耗電量通常為額定最大值的60至70%，使全季費用降至美國約100至120美元左右。陶瓷風扇暖氣機的平均耗電量較高，因為它在全開和全關之間的切換更為急促。Dyson HP07以2000W運作，以美國平均電費計算每晚需2.56美元——整季累積下來相當可觀。"
     },
     {
-      "q": "What safety certifications should I look for on a space heater?",
-      "a": "In the US, look for UL (Underwriters Laboratories) or ETL (Intertek) marks — both indicate testing against ANSI/UL 1278 for portable electric heaters. These are meaningful safety certifications, not just compliance stickers. In Japan, PSE (Product Safety Electrical Appliance & Material) mark is the mandatory certification for electrical appliances sold domestically — the Daikin ERFT11WS carries this. The minimum safety features to verify regardless of certification: thermal cutoff (shuts the unit off if the element overheats), tip-over switch (shuts the unit off if the heater falls), and overheat protection on the housing surface. Space heaters labeled as having these features but imported without UL/ETL certification from unknown brands should be treated with skepticism — the certification process verifies that these features actually work under failure conditions, not just that they exist."
+      "q": "選購電暖器應注意哪些安全認證？",
+      "a": "在美國，應尋找UL（保險商實驗室）或ETL（Intertek）標誌——兩者均代表通過可攜式電熱器ANSI/UL 1278標準的測試。這些是有實質意義的安全認證，而非單純的合規標貼。在日本，PSE（電氣用品安全法）標誌是國內銷售電氣設備的強制認證——Daikin ERFT11WS即持有此認證。無論認證為何，都應確認的最基本安全功能包括：熱斷路器（加熱元件過熱時自動關閉）、傾倒斷電開關（電暖器倒下時自動關閉），以及外殼表面的過熱保護。標榜具備這些功能但從不知名品牌進口且未取得UL/ETL認證的電暖器，應抱持懷疑態度——認證程序驗證的是這些功能在故障條件下確實能正常運作，而不只是功能的存在與否。"
     }
   ],
-  "pinDescription": "Five space heaters compared for 2026 — wattage, vortex vs radiant heat, and whether the Dyson HP07's price premium is worth it. Running costs calculated. The only silent overnight heater. Japanese market Daikin with humidifier. Honest trade-offs for every budget.",
+  "pinDescription": "2026年五款電暖器全面比較——瓦數、渦流對比輻射熱，以及Dyson HP07的溢價是否值得。電費計算一目了然。唯一靜音整夜暖氣機。日本市場Daikin附加濕功能。各預算誠實取捨全解析。",
   "offerNotes": ""
 }

@@ -14,6 +14,9 @@ export const metadata: Metadata = {
     siteName: "Pickly",
     type: "website",
   },
+  alternates: {
+    types: { "application/rss+xml": `${process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog"}/feed.xml` },
+  },
   twitter: {
     card: "summary_large_image",
   },
@@ -31,6 +34,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <>
       {children}
+      {/* Analytics (GA4 + Microsoft Clarity) is wired in src/components/Analytics.tsx,
+          rendered from [locale]/layout.tsx — do NOT add a second GA tag here. */}
       {/* Skimlinks — auto-monetize product links (publisher 302910X1790935) */}
       <script
         type="text/javascript"
