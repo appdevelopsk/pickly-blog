@@ -4690,7 +4690,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "golf-glove-footjoy-stasof",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/814OIxDoEiL.jpg",
     "priceMin": "25",
     "priceMax": "32",
     "category": "fitness",
@@ -6877,7 +6877,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "magnesium-doctors-best-high-absorption",
-    "imageUrl": "",
+    "imageUrl": "https://i5.walmartimages.com/asr/3bde0b07-9abb-4a36-b521-f5c0df19b8b3_1.ca10719935ead8d41fdf6bc4955de462.png",
     "priceMin": "16",
     "priceMax": "32",
     "category": "food",
@@ -10777,7 +10777,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "smoothie-maker-breville-the-easy-blend",
-    "imageUrl": "",
+    "imageUrl": "https://houseappliancespro.co.uk/wp-content/uploads/2024/05/811UihvZ3HL._AC_SL1500_.jpg",
     "priceMin": "69",
     "priceMax": "99",
     "category": "food",
@@ -12285,7 +12285,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vitamin-c-serum-obagi",
-    "imageUrl": "",
+    "imageUrl": "https://utahbodyandsoul.com/wp-content/uploads/2022/08/original-69.jpeg",
     "priceMin": "$79",
     "priceMax": "$79",
     "category": "beauty",
@@ -13352,8 +13352,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ridge-aluminum-wallet",
-    "imageUrl": "https://cimages.personalcreations.com/is/image/planetartdmc/PCR_22Z331X_ENVIRO_v4_SQ?$PCRProductImage"id": "ridge-aluminum-wallet",
-    "imageUrl": ""wid=1068&hei=1068",
+    "imageUrl": "https://cimages.personalcreations.com/is/image/planetartdmc/PCR_22Z331X_ENVIRO_v4_SQ?$PCRProductImage$&wid=1068&hei=1068",
     "priceMin": "$75",
     "priceMax": "$115",
     "category": "fashion",
@@ -13665,7 +13664,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "rayban-aviator-classic-polarized",
-    "imageUrl": "",
+    "imageUrl": "https://cdn2.jomashop.com/media/catalog/product/cache/fde19e4197824625333be074956e7640/r/a/ray-ban-aviator-classic-polarized-blue-unisex-sunglasses-rb3025-00302-55-rb3025-00302-55.jpg?width=546&height=546",
     "priceMin": "$203",
     "priceMax": "$236",
     "category": "fashion",
@@ -14757,7 +14756,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "chicco-keyfit-35",
-    "imageUrl": "",
+    "imageUrl": "http://littlecanadian.ca/cdn/shop/products/chicco-keyfit-35-cleartex-infant-car-seat-30094358216789.jpg?v=1674683867",
     "priceMin": "$249",
     "priceMax": "$299",
     "category": "parenting",
@@ -14835,8 +14834,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dr-browns-options-plus",
-    "imageUrl": "https://media.centrepointstores.com/i/centrepoint/166762298-166762298-SS2422102024_01-2100.jpg?fmt=auto&$quality-standard"id": "dr-browns-options-plus",
-    "imageUrl": ""sm=c&$prodimg-m-prt-pdp-2x$",
+    "imageUrl": "https://media.centrepointstores.com/i/centrepoint/166762298-166762298-SS2422102024_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-m-prt-pdp-2x$",
     "priceMin": "$25",
     "priceMax": "$35",
     "category": "parenting",
@@ -16812,8 +16810,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "comrad-knee-high-compression",
-    "imageUrl": "https://images.urbndata.com/is/image/FreePeople/91278424_000_d/?$a15-pdp-detail-shot"id": "comrad-knee-high-compression",
-    "imageUrl": ""fit=constrain&qlt=80&wid=640",
+    "imageUrl": "https://images.urbndata.com/is/image/FreePeople/91278424_000_d/?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=640",
     "priceMin": "$25",
     "priceMax": "$30",
     "category": "travel",
@@ -19777,8 +19774,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "yaheetech-large-bird-cage",
-    "imageUrl": "https://media.diy.com/is/image/KingfisherDigital/yaheetech-black-rolling-black-bird-cage-with-open-playtop-large~5056774904438_01c_MP?$MOB_PREV"id": "yaheetech-large-bird-cage",
-    "imageUrl": ""$width=600&$height=600",
+    "imageUrl": "https://media.diy.com/is/image/KingfisherDigital/yaheetech-black-rolling-black-bird-cage-with-open-playtop-large~5056774904438_01c_MP?$MOB_PREV$&$width=600&$height=600",
     "priceMin": "$130",
     "priceMax": "$170",
     "category": "pets",
@@ -19856,7 +19852,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "midwest-poquito-avian-hotel",
-    "imageUrl": "",
+    "imageUrl": "https://naturallyforpets.com/wp-content/uploads/2023/01/Poquito-Avian-Hotel-1-1024x1024.jpg",
     "priceMin": "$45",
     "priceMax": "$70",
     "category": "pets",
@@ -22092,7 +22088,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "wise-transfer",
-    "imageUrl": "",
+    "imageUrl": "https://www.exiap.com/wp-content/uploads/2023/04/wise-money-transfer-review-1-1024x607.jpg",
     "priceMin": "0.4-1% fee",
     "priceMax": "0.4-1% fee",
     "category": "finance",
@@ -25888,7 +25884,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dockers-signature-khaki",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81chGN8K-nL._AC_SR736,920_.jpg",
     "priceMin": "$58",
     "priceMax": "$78",
     "category": "fashion",
@@ -29762,7 +29758,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "armor-all-aa255w",
-    "imageUrl": "",
+    "imageUrl": "https://extremediy.org/wp-content/uploads/2025/02/armor-all-aa255w-wetdry-utility-vac-review-600x1183.jpg",
     "priceMin": "$30",
     "priceMax": "$50",
     "category": "tech",
@@ -31062,8 +31058,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "asos-design-cowl-mini-dress",
-    "imageUrl": "https://images.asos-media.com/products/asos-design-cowl-mini-dress-with-shoulder-pads-in-black/209408322-1-black?$n_640w"id": "asos-design-cowl-mini-dress",
-    "imageUrl": ""wid=513&fit=constrain",
+    "imageUrl": "https://images.asos-media.com/products/asos-design-cowl-neck-backless-satin-mini-dress-in-brown/208913484-1-brown?$n_640w$&wid=513&fit=constrain",
     "priceMin": "$50",
     "priceMax": "$75",
     "category": "fashion",
@@ -32597,7 +32592,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "honeywell-hcm350-humidifier",
-    "imageUrl": "",
+    "imageUrl": "https://c1.neweggimages.com/ProductImageCompressAll1280/96-113-219-03.jpg",
     "priceMin": "$65",
     "priceMax": "$95",
     "category": "parenting",
@@ -34209,7 +34204,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "marmot-trestles-elite-throw",
-    "imageUrl": "",
+    "imageUrl": "https://media-www.sportchek.ca/product/div-01-hardgoods/dpt-36-camping/sdpt-12-sleeping-bags/334503962/marmot-trestles-elite-eco-30f-1c-lng-s25-f7f02f54-be3e-4ee2-bc0c-e838ab3ca5ee-jpgrendition.jpg?imdensity=1&imwidth=640&impolicy=gZoom",
     "priceMin": "$80",
     "priceMax": "$110",
     "category": "travel",
@@ -37693,7 +37688,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ortho-weed-b-gon-chickweed",
-    "imageUrl": "",
+    "imageUrl": "https://vanputte.com/wp-content/uploads/2021/11/Weed-Killer-ORTHO-WEED-B-GON-CHICKWEED-CLOVER-OXALIS-KILLER-CONCENTRATE-16OZ-1000x1000-1.png",
     "priceMin": " as unknown as AffiliateOffer[]5",
     "priceMax": "$30",
     "category": "home",
@@ -40235,7 +40230,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sally-hansen-miracle-gel",
-    "imageUrl": "",
+    "imageUrl": "https://cdn2.stylecraze.com/wp-content/uploads/product-images/sally-hansen-miracle-gel-nail-polish-shade-mauve-olous-244-packaging-may-vary-244-mauve-olous-05-fl-oz-pack-of-1_afl1241.jpg",
     "category": "beauty",
     "badge": "💎 Best Gel Effect",
     "name": {

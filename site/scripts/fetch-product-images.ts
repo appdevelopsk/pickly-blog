@@ -55,12 +55,11 @@ async function ddgImageSearch(query: string): Promise<string | null> {
     type DdgResult = { image: string; height?: number; width?: number };
     const data = await res.json() as { results?: DdgResult[] };
 
-    for (const r of (data.results ?? []).slice(0, 8)) {
+    for (const r of (data.results ?? []).slice(0, 15)) {
       const url = r.image;
       if (!url || !url.startsWith("http")) continue;
       if (/\.(svg|gif|webp)(\?|$)/i.test(url)) continue;
-      if (url.includes('"')) continue;  // skip URLs with embedded quotes — they corrupt .ts string literals
-      // Skip tiny thumbnails — prefer larger images
+      if (url.includes('"')) continue;  // embedded quotes corrupt .ts string literals
       if (r.width && r.width < 100) continue;
       return url;
     }
@@ -112,12 +111,10 @@ function parseEmptyOffers(content: string): OfferEntry[] {
 }
 
 function applyImageUrl(content: string, id: string, imageUrl: string): string {
-  // The id and imageUrl are on consecutive lines:
-  //   "id": "back-brace-mueller-lumbar",
-  //   "imageUrl": "",
   const before = `"id": "${id}",\n    "imageUrl": ""`;
   const after  = `"id": "${id}",\n    "imageUrl": "${imageUrl}"`;
-  return content.includes(before) ? content.replace(before, after) : content;
+  // Use a function replacement so $ in the URL is never treated as a special pattern
+  return content.includes(before) ? content.replace(before, () => after) : content;
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
@@ -142,9 +139,20 @@ async function main() {
     const label = `[${i + 1}/${total}]`;
     process.stdout.write(`${label} ${id.slice(0, 45).padEnd(45)} `);
 
-    // Search: product name + "product" to bias toward product shots
-    const query = name.length > 5 ? `${name} product` : id.replace(/-/g, " ") + " product";
-    const imageUrl = await ddgImageSearch(query);
+    // Try multiple queries targeting large retail sites that don't block hotlinking
+    const base = name.length > 5 ? name : id.replace(/-/g, " ");
+    const queries = [
+      `${base} product`,
+      `${base} amazon`,
+      `${base} walmart`,
+      `${base}`,
+    ];
+    let imageUrl: string | null = null;
+    for (const q of queries) {
+      imageUrl = await ddgImageSearch(q);
+      if (imageUrl) break;
+      await sleep(600);
+    }
 
     if (!imageUrl) {
       process.stdout.write("✗  no results\n");
