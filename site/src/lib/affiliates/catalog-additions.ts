@@ -2714,7 +2714,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dehumidifier-sharp-jp",
-    "imageUrl": "",
+    "imageUrl": "https://mahajanelectronics.com/cdn/shop/files/716FHVxwbkL._SL1500.jpg?v=1703674634",
     "priceMin": "20000",
     "priceMax": "45000",
     "category": "home",
@@ -10101,7 +10101,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "shower-caddy-zenna-home-expandable",
-    "imageUrl": "",
+    "imageUrl": "https://www.productfrom.com/photos/0108/108385_full.jpg",
     "priceMin": "25",
     "priceMax": "45",
     "category": "home",
@@ -11245,7 +11245,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sports-bra-brooks-dare-crossback",
-    "imageUrl": "",
+    "imageUrl": "https://images.prodirectsport.com/ProductImages/Gallery_4/210637_Gallery_4_0664948.jpg",
     "priceMin": "65",
     "priceMax": "80",
     "category": "fitness",
@@ -15978,7 +15978,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fluval-spec-v-5-gallon",
-    "imageUrl": "",
+    "imageUrl": "https://i5.walmartimages.com/asr/6a57a585-7246-4266-b049-4f5dd5e4f118_1.963bdc1b800a1848b0f4cf36addf81aa.jpeg",
     "priceMin": "$130",
     "priceMax": "$170",
     "category": "pets",
@@ -16706,7 +16706,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ebags-medium-laundry-bag",
-    "imageUrl": "",
+    "imageUrl": "https://tinylivinglife.com/wp-content/uploads/2022/10/0-eBags-Classic-Packing-Cubes-1280x1226.jpg",
     "priceMin": "$12",
     "priceMax": "$18",
     "category": "travel",
@@ -17876,7 +17876,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "capital-one-spark-cash-plus",
-    "imageUrl": "",
+    "imageUrl": "https://d3dyyb154fj95i.cloudfront.net/capital_one_spark_cash_plus_b0afc1dcc2.png",
     "priceMin": "$150/yr",
     "priceMax": "$150/yr",
     "category": "finance",
@@ -26638,7 +26638,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "schwab-schz",
-    "imageUrl": "",
+    "imageUrl": "https://doctorschwabca.com/cdn/shop/products/2705-1_Lip_Rescue_Therapy_1800x.jpg?v=1632850787",
     "priceMin": "0.03% ER",
     "priceMax": "0.03% ER",
     "category": "finance",
@@ -32566,7 +32566,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "levoit-classic-300s-humidifier",
-    "imageUrl": "",
+    "imageUrl": "https://i5.walmartimages.com/seo/Levoit-Classic-300s-Ultrasonic-Smart-Humidifier_0f0e09dc-77a3-47e1-aee1-81ba490caef0.f72db600bb9cba80a9bb1b4bb8bb245f.png",
     "priceMin": "$70",
     "priceMax": "$90",
     "category": "parenting",
@@ -37350,7 +37350,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "mutual-of-omaha-medicare-supplement",
-    "imageUrl": "",
+    "imageUrl": "https://healthplans2go.com/wp-content/uploads/2021/08/Mutual-of-Omaha-Medigap-Plans-1.png",
     "priceMin": " as unknown as AffiliateOffer[]30",
     "priceMax": "$300",
     "category": "finance",
@@ -38052,7 +38052,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "rowenta-pro-compact-ironing-board",
-    "imageUrl": "",
+    "imageUrl": "https://akamai-scene7.frontgate.com/is/image/frontgate/66456_main?$wgbd$",
     "priceMin": "$60",
     "priceMax": "$80",
     "category": "home",
@@ -38810,7 +38810,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "michael-kors-slim-runway-watch",
-    "imageUrl": "",
+    "imageUrl": "https://product-images.therealreal.com/MIC274889_1_enlarged.jpg",
     "priceMin": "$195",
     "priceMax": "$250",
     "category": "fashion",
