@@ -59,6 +59,7 @@ async function ddgImageSearch(query: string): Promise<string | null> {
       const url = r.image;
       if (!url || !url.startsWith("http")) continue;
       if (/\.(svg|gif|webp)(\?|$)/i.test(url)) continue;
+      if (url.includes('"')) continue;  // skip URLs with embedded quotes — they corrupt .ts string literals
       // Skip tiny thumbnails — prefer larger images
       if (r.width && r.width < 100) continue;
       return url;

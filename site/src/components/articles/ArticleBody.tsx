@@ -288,10 +288,18 @@ export function ArticleBody({ meta, content, offers }: Props) {
                   </p>
                 )}
 
-                {/* Review */}
-                {product?.review && (
-                  <p className="mb-5 text-base leading-relaxed text-slate-700">{product.review}</p>
-                )}
+                {/* Review — fall back to catalog description when no per-article review */}
+                {(() => {
+                  const review = product?.review;
+                  const hasNote = !!content.offerNotes?.[o.id];
+                  const fallback = !review && !hasNote
+                    ? ((o.description as Record<string, string>)[locale] ?? (o.description as Record<string, string>).en ?? "")
+                    : "";
+                  const text = review || fallback;
+                  return text
+                    ? <p className="mb-5 text-base leading-relaxed text-slate-700">{text}</p>
+                    : null;
+                })()}
 
                 {/* Pros / Cons */}
                 {(product?.pros?.length || product?.cons?.length) && (
