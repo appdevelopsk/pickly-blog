@@ -110,7 +110,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "back-brace-vive-lumbar",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A164XQT7IPAAIU/c032dd28-f733-4f37-b54f-91bb2a76806e._CR0,0,970,1300_PT0_SX970__.jpg",
     "priceMin": "24",
     "priceMax": "34",
     "category": "fitness",
@@ -448,7 +448,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bcaa-scivation-xtend",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/712DymNVZpL._AC_SL1500_.jpg",
     "priceMin": "30",
     "priceMax": "55",
     "category": "food",
@@ -813,7 +813,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "body-lotion-kiehl-creme-de-corps",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81zoNuxILiL._SL1500_.jpg",
     "priceMin": "¥4,000",
     "priceMax": "¥5,200",
     "category": "beauty",
@@ -1126,7 +1126,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cat-food-wellness-core-indoor",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71YwIA248hL._AC_SX679_.jpg",
     "priceMin": "3200",
     "priceMax": "9800",
     "category": "home",
@@ -1464,7 +1464,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "clothes-steamer-jiffy-steamer-j-2000m",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51VEP-ShwQL._AC_SL1500_.jpg",
     "priceMin": "¥25,000",
     "priceMax": "¥40,000",
     "category": "home",
@@ -2038,7 +2038,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "compression-leggings-adidas-own-the-run",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.idealo.com/folder/Product/204601/3/204601361/s1_produktbild_max/adidas-own-the-run-3-4-leggings-black.jpg",
     "priceMin": "55",
     "priceMax": "75",
     "category": "fitness",
@@ -3910,7 +3910,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "face-mist-tatcha-dewy-skin",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/41RrWLchujL.jpg",
     "priceMin": "¥4,620",
     "priceMax": "¥5,060",
     "category": "beauty",
@@ -5210,7 +5210,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hiking-poles-black-diamond-trail",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/21x9RqG5HdL._SL500_.jpg",
     "priceMin": "90",
     "priceMax": "100",
     "category": "fitness",
@@ -5236,7 +5236,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hiking-poles-leki-micro-vario",
-    "imageUrl": "",
+    "imageUrl": "https://i.pinimg.com/736x/dd/6c/dd/dd6cdd2045f8cca9ef3497d4bfb1d876.jpg",
     "priceMin": "170",
     "priceMax": "185",
     "category": "fitness",
@@ -5340,7 +5340,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hot-choc-ghirardelli-premium",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81IZLSWgPqL._AC_.jpg",
     "priceMin": "6.99",
     "priceMax": "12.99",
     "category": "food",
@@ -6045,7 +6045,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "knife-sharpener-kyocera-diamond",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71U-I8fu2XL._AC_.jpg",
     "priceMin": "¥2,500",
     "priceMax": "¥4,000",
     "category": "home",
@@ -7007,7 +7007,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "memory-foam-pillow-purple-harmony",
-    "imageUrl": "",
+    "imageUrl": "https://i.pinimg.com/originals/cd/87/c3/cd87c3e9d01396e36e455318aaf4b71a.jpg",
     "priceMin": "159",
     "priceMax": "189",
     "category": "home",
@@ -7189,7 +7189,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "monitor-dell-s2722dgm",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71gtGNw6ZlS._AC_SL1500_.jpg",
     "priceMin": "249",
     "priceMax": "329",
     "category": "tech",
@@ -7293,7 +7293,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "monitor-stand-uplift-desk-v2",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61qLirqymFL._AC_SL1500_.jpg",
     "priceMin": "18000",
     "priceMax": "25000",
     "category": "tech",
@@ -7683,7 +7683,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "niacinamide-the-ordinary-10",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61K5tcI6JBL._AC_SL1500_.jpg",
     "priceMin": "$6",
     "priceMax": "$6",
     "category": "beauty",
@@ -8931,7 +8931,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "plant-pot-iris-ohyama-jp",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61UQyQlY3eL._AC_SL1500_.jpg",
     "priceMin": "380",
     "priceMax": "1280",
     "category": "home",
@@ -9503,7 +9503,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ring-light-elgato-ring-light",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Cy-jZG8qL._AC_.jpg",
     "priceMin": "24000",
     "priceMax": "32000",
     "category": "tech",
@@ -10049,7 +10049,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "shower-caddy-umbra-flex",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71UGzNyiU4L._AC_SL1500_.jpg",
     "priceMin": "39",
     "priceMax": "65",
     "category": "home",
@@ -10153,7 +10153,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "shower-head-kohler-forte",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81VO-aSFzGL.jpg",
     "priceMin": "35",
     "priceMax": "60",
     "category": "home",
@@ -12857,7 +12857,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "weighted-blanket-luna",
-    "imageUrl": "",
+    "imageUrl": "https://travelcurator.com/wp-content/uploads/2025/01/luna-weighted-blanket.jpg",
     "priceMin": "65",
     "priceMax": "95",
     "category": "home",
@@ -13170,7 +13170,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "veja-v10-leather",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/613y8+1XZzL._AC_SL1500_.jpg",
     "priceMin": "$155",
     "priceMax": "$170",
     "category": "fashion",
@@ -13716,7 +13716,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "maui-jim-peahi-polarized",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51v6FDpd5oL._AC_SL1500_.jpg",
     "priceMin": "$229",
     "priceMax": "$329",
     "category": "fashion",
@@ -13820,7 +13820,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "citi-double-cash",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.financebuzz.com/images/2024/12/16/citi-double-cash.jpg",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -14054,7 +14054,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "marcus-online-savings",
-    "imageUrl": "",
+    "imageUrl": "https://d187qskirji7ti.cloudfront.net/news/wp-content/uploads/2019/01/marcus-by-goldman-sachs-savings-account.jpg",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -14730,7 +14730,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "britax-willow-s",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/719e+8XYpWL._SL1500_.jpg",
     "priceMin": "$329",
     "priceMax": "$399",
     "category": "parenting",
@@ -14964,7 +14964,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ergobaby-omni-breeze",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81hY4v3mhOL._SL1500_.jpg",
     "priceMin": "$199",
     "priceMax": "$220",
     "category": "parenting",
@@ -15588,7 +15588,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "casa-leo-loo-too",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61nR6ZTs6jL._AC_SL1500_.jpg",
     "priceMin": "$649",
     "priceMax": "$749",
     "category": "pets",
@@ -15952,7 +15952,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "tetra-aquarium-20-gallon",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71v9AY0mOxL._AC_SX679_.jpg",
     "priceMin": "$140",
     "priceMax": "$190",
     "category": "pets",
@@ -16108,7 +16108,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "andis-pulse-zr-ii",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Y0nivPfsL._SL1200_.jpg",
     "priceMin": "$350",
     "priceMax": "$450",
     "category": "pets",
@@ -16290,7 +16290,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "lewis-n-clark-rfid-belt",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Qt1VQOovL._AC_UL1500_.jpg",
     "priceMin": "$18",
     "priceMax": "$25",
     "category": "travel",
@@ -16472,7 +16472,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fjallraven-kanken-classic",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81HwKy0vJsL._AC_SL1500_.jpg",
     "priceMin": "$95",
     "priceMax": "$115",
     "category": "travel",
@@ -16654,7 +16654,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "scrubba-wash-bag",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/812nFnCrWbL._AC_SL1500_.jpg",
     "priceMin": "$55",
     "priceMax": "$75",
     "category": "travel",
@@ -17694,7 +17694,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sofi-personal-loan",
-    "imageUrl": "",
+    "imageUrl": "https://i.ytimg.com/vi/29lepu9TcgY/maxresdefault.jpg",
     "priceMin": "$0 fee",
     "priceMax": "$0 fee",
     "category": "finance",
@@ -18058,7 +18058,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cash-app-taxes",
-    "imageUrl": "",
+    "imageUrl": "https://www.mymillennialguide.com/wp-content/uploads/cash-app-taxes-1024x545.png",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -18864,7 +18864,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fisher-price-deluxe-infant-bouncer",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81rHB42AZ2L._SL1500_.jpg",
     "priceMin": "$50",
     "priceMax": "$70",
     "category": "parenting",
@@ -19046,7 +19046,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "kinsa-quickcare",
-    "imageUrl": "",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61F4Sbo80QL.jpg",
     "priceMin": "$30",
     "priceMax": "$45",
     "category": "parenting",
@@ -19228,7 +19228,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "stella-and-chewys-freeze-dried-treats",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71CPtCUs4sL._AC_SL1500_.jpg",
     "priceMin": "$12",
     "priceMax": "$25",
     "category": "pets",
@@ -19566,7 +19566,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "best-pet-supplies-foam-pet-steps",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/716sxhbUuTL._AC_SL1000_.jpg",
     "priceMin": "$45",
     "priceMax": "$75",
     "category": "pets",
@@ -20502,7 +20502,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vivobarefoot-primus-lite-iii",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/613GzXnb8fL._AC_SL1500_.jpg",
     "priceMin": "$155",
     "priceMax": "$175",
     "category": "travel",
@@ -20658,7 +20658,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "peak-design-travel-tripod-cf",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media/sc/71b7e582-3d81-49cf-9dfc-3803bf51788f.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     "priceMin": "$600",
     "priceMax": "$700",
     "category": "travel",
@@ -20762,7 +20762,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "gitzo-traveler-1-series",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71BVAX+CubL._AC_SL1500_.jpg",
     "priceMin": "$890",
     "priceMax": "$1,100",
     "category": "travel",
@@ -21178,7 +21178,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "suitsupply-jort-blazer",
-    "imageUrl": "",
+    "imageUrl": "https://i.pinimg.com/originals/7f/9c/59/7f9c59891f2a93b5871daaec30eb49e4.jpg",
     "priceMin": "$549",
     "priceMax": "$699",
     "category": "fashion",
@@ -21256,7 +21256,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "thom-browne-classic-blazer",
-    "imageUrl": "",
+    "imageUrl": "https://clothbase.s3.amazonaws.com/uploads/6123c439-7b0c-491e-8902-de82a9a980f4/navy-4-bar-unconstructed-classic-sport-blazer.jpg",
     "priceMin": "$1,990",
     "priceMax": "$2,490",
     "category": "fashion",
@@ -21776,7 +21776,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "chase-mortgage",
-    "imageUrl": "",
+    "imageUrl": "https://a.mktgcdn.com/p/W4lsfJjLMA5NjefeOe7IMDb_8YhYrxsn7PUQby0dXmA/1944x1296.jpg",
     "priceMin": "Varies",
     "priceMax": "Varies",
     "category": "finance",
@@ -21802,7 +21802,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "navy-federal-mortgage",
-    "imageUrl": "",
+    "imageUrl": "https://arizent.brightspotcdn.com/dims4/default/74eeb73/2147483647/strip/true/crop/5591x3727+0+0/resize/1024x682!/quality/90/?url=https:%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F6b%2F2a%2F627e5b0f40beb278924c873f5d9d%2F415911162.jpg",
     "priceMin": "Varies",
     "priceMax": "Varies",
     "category": "finance",
@@ -21958,7 +21958,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "schwab-bank-checking",
-    "imageUrl": "",
+    "imageUrl": "https://www.schwab.com/sites/g/files/eyrktu1401/files/SchwabBank_InvestorChecking.jpg",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -22608,7 +22608,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "babyletto-modo-3-drawer-dresser",
-    "imageUrl": "",
+    "imageUrl": "https://www.hellobabystores.com/cdn/shop/products/image_eea55d05-cf9d-462c-98bc-2172660b4760_1200x1200.jpg?v=1653069827",
     "priceMin": "$450",
     "priceMax": "$550",
     "category": "parenting",
@@ -24194,7 +24194,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ravpower-pd-pioneer",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61GrFkHFSML._AC_SL1500_.jpg",
     "priceMin": "$60",
     "priceMax": "$90",
     "category": "travel",
@@ -24428,7 +24428,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "travelon-anti-theft-classic-backpack",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91+8ZQ3w-uL._AC_SL1500_.jpg",
     "priceMin": "$70",
     "priceMax": "$100",
     "category": "travel",
@@ -25286,7 +25286,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "trupanion-pet-insurance",
-    "imageUrl": "",
+    "imageUrl": "https://elberton-vet.com/wp-content/uploads/2023/11/Trupanion.png",
     "priceMin": "$30",
     "priceMax": "$150",
     "category": "finance",
@@ -26716,7 +26716,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "new-york-529-direct",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.unite529.com/f/248/21630/7d/im.uprinv.com/rc/ny/images/logo2.png",
     "priceMin": "$0 setup",
     "priceMax": "$0 setup",
     "category": "finance",
@@ -26742,7 +26742,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nevada-vanguard-529",
-    "imageUrl": "",
+    "imageUrl": "https://investor.vanguard.com/content/retail/public/us/en/accounts-plans/529-plans/_jcr_content/root/container/container/herospot_copy_copy.coreimg.jpeg/1723747507072/aspot-vanguard-529-plan-phlife-gi.jpeg",
     "priceMin": "$0 setup",
     "priceMax": "$0 setup",
     "category": "finance",
@@ -27002,7 +27002,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "homedics-soundspa-portable",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61C81tdK7HL._AC_SL1500_.jpg",
     "priceMin": "$25",
     "priceMax": "$35",
     "category": "parenting",
@@ -27366,7 +27366,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "summer-infant-multi-use-gate",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/616QIoNm9hS._AC_SL1500_.jpg",
     "priceMin": "$60",
     "priceMax": "$90",
     "category": "parenting",
@@ -29420,7 +29420,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "geico-auto",
-    "imageUrl": "",
+    "imageUrl": "https://www.bergerandgreen.com/wp-content/uploads/2022/02/GEICO-auto-insurance-accident-claims-in-pittsburgh.jpg",
     "priceMin": "$1000",
     "priceMax": "$1600",
     "category": "finance",
@@ -30460,7 +30460,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ryobi-ry142300-2300-psi",
-    "imageUrl": "",
+    "imageUrl": "https://images.thdstatic.com/productImages/bfeddc7f-bd7f-4751-a355-fbb7426696dc/svn/ryobi-electric-pressure-washers-ry142300-sc-40_600.jpg",
     "priceMin": "$180",
     "priceMax": "$240",
     "category": "home",
@@ -31396,7 +31396,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "casio-edifice-efr-303d",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91sJo5siBEL._SL1500_.jpg",
     "priceMin": "$80",
     "priceMax": "$140",
     "category": "fashion",
@@ -31708,7 +31708,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "mefa-student-loan-refi",
-    "imageUrl": "",
+    "imageUrl": "https://www.mefa.org/uploads/og_images/659995_mefas-student-loan-payment-calculator-video.png",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -31760,7 +31760,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "netspend-all-access-prepaid",
-    "imageUrl": "",
+    "imageUrl": "https://i.ytimg.com/vi/xi4CLP2nIKU/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "$5/mo",
     "category": "finance",
@@ -31786,7 +31786,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "walmart-moneycard-prepaid",
-    "imageUrl": "",
+    "imageUrl": "https://i.ytimg.com/vi/VaaX7VlfFKk/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "$5.94/mo",
     "category": "finance",
@@ -31838,7 +31838,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "greenlight-kids-prepaid",
-    "imageUrl": "",
+    "imageUrl": "https://www.wallstreetzen.com/blog/wp-content/uploads/2023/06/81zG6za2LDL.png",
     "priceMin": "$5.99/mo",
     "priceMax": "$14.98/mo",
     "category": "finance",
@@ -32020,7 +32020,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vio-bank-cornerstone-mma",
-    "imageUrl": "",
+    "imageUrl": "https://i.ytimg.com/vi/p-Uac67babU/maxresdefault.jpg",
     "priceMin": "$100",
     "priceMax": "Free",
     "category": "finance",
@@ -32202,7 +32202,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "synchrony-bank-cd",
-    "imageUrl": "",
+    "imageUrl": "https://joinpd.io/wp-content/uploads/2024/12/synchrony-bank-amazon.png",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -32254,7 +32254,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "aura-id-protection-family",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/982fb7f5-74b6-43bb-bfa6-554e27ffc6a3.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
     "priceMin": "$30/mo",
     "priceMax": "$30/mo",
     "category": "finance",
@@ -32306,7 +32306,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "idshield-3bureau-family",
-    "imageUrl": "",
+    "imageUrl": "https://thumbor.forbes.com/thumbor/fit-in/600x300/https://www.forbes.com/advisor/wp-content/uploads/2021/12/IDSLogo-horiz-blue.png",
     "priceMin": "$33/mo",
     "priceMax": "$33/mo",
     "category": "finance",
@@ -33216,7 +33216,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "jw-gripsoft-deluxe-clipper",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/818-gq9QcFL._AC_.jpg",
     "priceMin": "$12",
     "priceMax": "$18",
     "category": "pets",
@@ -33476,7 +33476,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sherpa-original-deluxe-carrier",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71a3IVKi2JL._SL1500_.jpg",
     "priceMin": "$60",
     "priceMax": "$90",
     "category": "pets",
@@ -33502,7 +33502,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "petsfit-expandable-cat-carrier",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71kgXW7Yn4L._AC_SL1500_.jpg",
     "priceMin": "$50",
     "priceMax": "$70",
     "category": "pets",
@@ -33606,7 +33606,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "providence-engraving-brass-tag",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71WhhLLi+9L._AC_SL1500_.jpg",
     "priceMin": "$8",
     "priceMax": "$14",
     "category": "pets",
@@ -34048,7 +34048,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "zojirushi-sm-sa48-stainless-mug",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61a+WsvU8dL._AC_SX569_.jpg",
     "priceMin": "$30",
     "priceMax": "$40",
     "category": "travel",
@@ -34620,7 +34620,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "geico-umbrella",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81XEaUA7Q8L._AC_SL1500_.jpg",
     "priceMin": "$200",
     "priceMax": "$400",
     "category": "finance",
@@ -34646,7 +34646,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "state-farm-umbrella",
-    "imageUrl": "",
+    "imageUrl": "http://apparelsf.com/cdn/shop/files/SF4829_40a719db-dd0e-4fbe-bd4a-8032c2955682.jpg?v=1707750969",
     "priceMin": "$220",
     "priceMax": "$450",
     "category": "finance",
@@ -35244,7 +35244,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "black-decker-corded-hedge-trimmer",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/519-0-QlrcL._AC_SL1000_.jpg",
     "priceMin": "$50",
     "priceMax": "$90",
     "category": "home",
@@ -35868,7 +35868,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "windows-defender-free",
-    "imageUrl": "",
+    "imageUrl": "https://static.vecteezy.com/system/resources/previews/060/100/951/non_2x/windows-defender-logo-free-download-windows-defender-logo-free-png.png",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "tech",
@@ -36700,7 +36700,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vsp-individual-vision",
-    "imageUrl": "",
+    "imageUrl": "https://cahip-norcal.org/wp-content/uploads/2024/08/129635-24-VC-VSPIndividualVisionPlans-EmailHeader.jpg",
     "priceMin": "$13",
     "priceMax": "$40",
     "category": "finance",
@@ -36804,7 +36804,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "warby-parker-direct",
-    "imageUrl": "",
+    "imageUrl": "https://menlovc.com/wp-content/uploads/2022/08/warby_parker_graphic.jpg",
     "priceMin": "$95",
     "priceMax": "$295",
     "category": "finance",
@@ -37272,7 +37272,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "woocommerce-wordpress",
-    "imageUrl": "",
+    "imageUrl": "https://qwebmaster.com/wp-content/uploads/Amazon-Buy-with-Prime-for-WooCommerce.jpg",
     "priceMin": "$0",
     "priceMax": "$200",
     "category": "tech",
@@ -37376,7 +37376,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "aetna-medicare-supplement",
-    "imageUrl": "",
+    "imageUrl": "https://medicarenationwide.com/wp-content/uploads/2022/09/Aetna-Medicare-Supplement-Plans-scaled.jpg",
     "priceMin": " as unknown as AffiliateOffer[]30",
     "priceMax": "$280",
     "category": "finance",
@@ -37428,7 +37428,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "blue-cross-blue-shield-medicare-supplement",
-    "imageUrl": "",
+    "imageUrl": "https://medicarenationwide.com/wp-content/uploads/2022/09/Blue-Cross-Blue-Shield-Medicare-Supplement-Company-Plans-1536x807.jpg",
     "priceMin": " as unknown as AffiliateOffer[]40",
     "priceMax": "$320",
     "category": "finance",
@@ -38004,7 +38004,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "homz-ironing-board",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61yjhrBv6wL._AC_SL1500_.jpg",
     "priceMin": "$40",
     "priceMax": "$55",
     "category": "home",
@@ -38890,7 +38890,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "lack-of-color-wave-hat",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51XhMF-z+kL._AC_SX679_.jpg",
     "priceMin": "$89",
     "priceMax": "$89",
     "category": "fashion",
@@ -39066,7 +39066,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "aritzia-super-puff-coat",
-    "imageUrl": "",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/580cf7ce6b8f5b3576a3da9f/1709484323169-W1HNV0F9S0LLY1YASLCT/Aritzia.png",
     "priceMin": "$275",
     "priceMax": "$395",
     "category": "fashion",
@@ -39331,7 +39331,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "maybelline-fit-me-foundation",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81k7K1NpdoL._SL1500_.jpg",
     "priceMin": "9",
     "priceMax": "9",
     "category": "beauty",

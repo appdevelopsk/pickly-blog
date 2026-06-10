@@ -1,6 +1,6 @@
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import { setRequestLocale } from "next-intl/server";
-import { LOCALES, inferMarketFromLocale } from "@/lib/i18n/locales";
+import { LOCALES, DEFAULT_LOCALE, inferMarketFromLocale } from "@/lib/i18n/locales";
 import { listArticles, getArticle } from "@/lib/articles/registry";
 import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
@@ -10,7 +10,7 @@ import { ArticleCrossLinks } from "@/components/articles/ArticleCrossLinks";
 import { SisterSiteCta } from "@/components/SisterSiteCta";
 import { NewsletterForm } from "@/components/NewsletterForm";
 import { AffiliateClickTracker } from "@/components/AffiliateClickTracker";
-import { loadArticleContent } from "@/lib/i18n/loader";
+import { loadArticleContent, isArticleBodyTranslated } from "@/lib/i18n/loader";
 import type { ArticleContent } from "@/lib/articles/types";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
@@ -55,6 +55,12 @@ export default async function ArticlePage({ params }: Props) {
   setRequestLocale(locale);
   const meta = getArticle(slug);
   if (!meta) notFound();
+
+  // If the article has no translation for this locale, redirect to English.
+  // In static export this generates a meta-refresh redirect HTML (no 404).
+  if (locale !== DEFAULT_LOCALE && !isArticleBodyTranslated(slug, locale)) {
+    redirect(`/${DEFAULT_LOCALE}/articles/${slug}/`);
+  }
 
   // Load only this article's messages (not all 575) — keeps RSC payload small
   const msg = await loadArticleContent(slug, locale);
