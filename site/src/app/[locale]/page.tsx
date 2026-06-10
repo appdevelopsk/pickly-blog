@@ -81,7 +81,10 @@ export default async function HomePage({ params }: Props) {
 
   const allArticles = listArticlesForLocale(locale);
   const articles = allArticles.filter((a) => hasApprovedAds(a, locale));
-  const recent = articles.slice(-16).reverse();
+  // Only surface articles that have a real product image — no icon placeholders on the top page
+  const withImage = articles.filter((a) => getThumbnail(a, locale) !== null);
+  const pool = withImage.length >= 8 ? withImage : articles; // fallback to all if images are scarce
+  const recent = pool.slice(-16).reverse();
   const [featured, ...gridArticles] = recent;
 
   const categoryCounts: Record<string, number> = {};
