@@ -5,10 +5,11 @@
 import { spawnSync } from "node:child_process";
 
 const checks = [
-  { name: "typecheck", cmd: "npm", args: ["run", "typecheck"] },
-  { name: "audit:i18n", cmd: "npm", args: ["run", "audit:i18n"] },
+  { name: "typecheck",       cmd: "npm", args: ["run", "typecheck"] },
+  { name: "audit:i18n",      cmd: "npm", args: ["run", "audit:i18n"] },
   { name: "audit:affiliate", cmd: "npm", args: ["run", "audit:affiliate"] },
-  { name: "audit:content", cmd: "npm", args: ["run", "audit:content"] },
+  { name: "audit:content",   cmd: "npm", args: ["run", "audit:content"] },
+  { name: "audit:images",    cmd: "npm", args: ["run", "audit:images"] },
 ];
 
 let failed = 0;
