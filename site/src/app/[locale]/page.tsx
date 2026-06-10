@@ -393,6 +393,14 @@ export default async function HomePage({ params }: Props) {
         <section className="mt-16 border-t border-slate-100 pt-12">
           <h2 className="mb-6 text-xl font-black text-slate-900">More ways to browse</h2>
           <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {/* By Purpose */}
+            <Link href="/purpose" className="group flex items-start gap-4 rounded-2xl border border-brand-100 bg-brand-50 p-5 transition-all hover:border-brand-300 hover:shadow-md">
+              <span className="shrink-0 text-2xl" aria-hidden>🎯</span>
+              <div>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-brand-700 transition-colors">Browse by purpose</p>
+                <p className="text-xs text-slate-500 leading-relaxed">Gifting · Workout · Skincare · Home office · Cooking · Sleep and more</p>
+              </div>
+            </Link>
             {/* Compare */}
             <Link href="/compare" className="group flex items-start gap-4 rounded-2xl border border-indigo-100 bg-indigo-50 p-5 transition-all hover:border-indigo-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>⚖️</span>

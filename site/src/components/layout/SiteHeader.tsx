@@ -37,6 +37,9 @@ export function SiteHeader() {
           <Link href="/popular" className="text-slate-600 hover:text-slate-900 transition-colors">
             Popular
           </Link>
+          <Link href="/purpose" className="text-slate-600 hover:text-slate-900 transition-colors">
+            🎯 Purpose
+          </Link>
           <Link href="/compare" className="text-slate-600 hover:text-slate-900 transition-colors">
             ⚖️ Compare
           </Link>
@@ -84,6 +87,9 @@ export function SiteHeader() {
       {menuOpen && (
         <div className="border-t border-slate-100 bg-white px-4 py-4 md:hidden">
           <nav className="flex flex-col gap-4 text-sm font-medium">
+            <Link href="/purpose" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
+              🎯 Browse by purpose
+            </Link>
             <Link href="/search" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
               🔍 Search
             </Link>
