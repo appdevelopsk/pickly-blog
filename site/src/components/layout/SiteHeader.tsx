@@ -3,6 +3,7 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/lib/i18n/navigation";
 import { useState } from "react";
+import { LocaleSwitcher } from "@/components/LocaleSwitcher";
 
 const CATEGORY_LINKS = [
   { key: "fitness",   href: "/category/fitness" },
@@ -45,6 +46,7 @@ export function SiteHeader() {
           <Link href="/search" className="flex items-center gap-1.5 rounded-full border border-slate-200 bg-slate-50 px-3.5 py-1.5 text-slate-500 hover:border-brand-300 hover:bg-brand-50 hover:text-brand-600 transition-colors">
             <span aria-hidden>🔍</span> Search
           </Link>
+          <LocaleSwitcher />
         </nav>
 
         {/* Mobile hamburger */}
@@ -103,6 +105,9 @@ export function SiteHeader() {
             <Link href="/disclosure" className="text-slate-400 hover:text-slate-600 transition-colors" onClick={() => setMenuOpen(false)}>
               {t("nav.disclosure")}
             </Link>
+            <div className="pt-1 border-t border-slate-100">
+              <LocaleSwitcher />
+            </div>
           </nav>
         </div>
       )}
