@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { setRequestLocale, getTranslations } from "next-intl/server";
+import { setRequestLocale } from "next-intl/server";
 import { LOCALES, inferMarketFromLocale } from "@/lib/i18n/locales";
 import { listArticles, getArticle } from "@/lib/articles/registry";
 import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
@@ -10,9 +10,29 @@ import { ArticleCrossLinks } from "@/components/articles/ArticleCrossLinks";
 import { SisterSiteCta } from "@/components/SisterSiteCta";
 import { NewsletterForm } from "@/components/NewsletterForm";
 import { AffiliateClickTracker } from "@/components/AffiliateClickTracker";
+import { loadArticleContent } from "@/lib/i18n/loader";
 import type { ArticleContent } from "@/lib/articles/types";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
+
+type RawMessages = Record<string, unknown>;
+
+function safeStr(obj: RawMessages, key: string, fallback = ""): string {
+  const v = obj[key];
+  return typeof v === "string" ? v : fallback;
+}
+
+function safeArr<T>(obj: RawMessages, ...keys: string[]): T[] {
+  for (const k of keys) {
+    if (Array.isArray(obj[k])) return obj[k] as T[];
+  }
+  return [];
+}
+
+function safeObj(obj: RawMessages, key: string): RawMessages | undefined {
+  const v = obj[key];
+  return v && typeof v === "object" && !Array.isArray(v) ? v as RawMessages : undefined;
+}
 
 export function generateStaticParams() {
   const params: { locale: string; slug: string }[] = [];
@@ -30,91 +50,81 @@ interface Props {
   params: Promise<{ locale: string; slug: string }>;
 }
 
-function safeRaw(t: Awaited<ReturnType<typeof getTranslations>>, key: string): unknown {
-  try {
-    const v = t.raw(key);
-    const lastSegment = key.split(".").pop() ?? key;
-    if (typeof v === "string" && (v === key || v === lastSegment)) return undefined;
-    return v;
-  } catch { return undefined; }
-}
-
-function safeT(t: Awaited<ReturnType<typeof getTranslations>>, key: string, fallback = ""): string {
-  try {
-    const v = t(key);
-    // getMessageFallback が key の末尾セグメント ("lede" など) を返すため両方チェック
-    const lastSegment = key.split(".").pop() ?? key;
-    return (v === key || v === lastSegment) ? fallback : v;
-  } catch { return fallback; }
-}
-
 export default async function ArticlePage({ params }: Props) {
   const { locale, slug } = await params;
   setRequestLocale(locale);
   const meta = getArticle(slug);
   if (!meta) notFound();
 
-  const t = await getTranslations();
+  // Load only this article's messages (not all 575) — keeps RSC payload small
+  const msg = await loadArticleContent(slug, locale);
 
-  const rawSections = safeRaw(t, `articles.${slug}.sections`);
+  const rawSections = safeArr<RawMessages>(msg, "sections");
   let sections: ArticleContent["sections"] = [];
   let products: ArticleContent["products"];
 
-  if (Array.isArray(rawSections)) {
-    sections = rawSections.map((s: Record<string, unknown>) => ({
-      heading: (s.heading ?? s.title ?? "") as string,
-      paragraphs: Array.isArray(s.paragraphs)
-        ? (s.paragraphs as string[])
-        : s.body ? [s.body as string] : [],
+  if (rawSections.length > 0) {
+    sections = rawSections.map((s) => ({
+      heading: safeStr(s, "heading") || safeStr(s, "title"),
+      paragraphs: safeArr<string>(s, "paragraphs") || (s.body ? [s.body as string] : []),
       subsections: s.subsections as ArticleContent["sections"][number]["subsections"],
     }));
-  } else {
-    const rawProducts = safeRaw(t, `articles.${slug}.products`) as Record<string, Record<string, string>> | undefined;
-    const rawGuide = safeRaw(t, `articles.${slug}.buyingGuide`) as Record<string, unknown> | undefined;
+  }
 
-    if (rawProducts) {
-      products = Object.entries(rawProducts).map(([id, p]) => ({
-        offerId: id,
-        badge: String(p.badge ?? ""),
-        review: String(p.review ?? ""),
-        pros: Array.isArray((p as unknown as Record<string, unknown>).pros)
-          ? ((p as unknown as Record<string, unknown>).pros as string[])
-          : undefined,
-        cons: Array.isArray((p as unknown as Record<string, unknown>).cons)
-          ? ((p as unknown as Record<string, unknown>).cons as string[])
-          : undefined,
-      }));
+  // Products: array format (new: [{offerId, badge, review, pros, cons}])
+  // or object format (legacy: {"id": {badge, review}}) when no sections
+  const rawProductsArr = Array.isArray(msg.products) ? msg.products as RawMessages[] : null;
+  if (rawProductsArr) {
+    products = rawProductsArr.map((p) => ({
+      offerId: safeStr(p, "offerId"),
+      badge: safeStr(p, "badge"),
+      review: safeStr(p, "review"),
+      pros: safeArr<string>(p, "pros"),
+      cons: safeArr<string>(p, "cons"),
+      grade: safeStr(p, "grade") || undefined,
+    }));
+  } else if (rawSections.length === 0) {
+    const rawProductsObj = safeObj(msg, "products");
+    if (rawProductsObj) {
+      products = Object.entries(rawProductsObj).map(([id, p]) => {
+        const prod = p as RawMessages;
+        return {
+          offerId: id,
+          badge: safeStr(prod, "badge"),
+          review: safeStr(prod, "review"),
+          pros: safeArr<string>(prod, "pros"),
+          cons: safeArr<string>(prod, "cons"),
+        };
+      });
     }
 
+    const rawGuide = safeObj(msg, "buyingGuide");
     if (rawGuide) {
       const factors = rawGuide.factors as Array<{ name: string; detail: string }> | undefined;
       if (Array.isArray(factors) && factors.length > 0) {
         sections.push({
-          heading: (rawGuide.title ?? "") as string,
-          paragraphs: (rawGuide.intro as string) ? [rawGuide.intro as string] : [],
+          heading: safeStr(rawGuide, "title"),
+          paragraphs: rawGuide.intro ? [rawGuide.intro as string] : [],
           subsections: factors.map((f) => ({ heading: f.name, paragraphs: [f.detail] })),
         });
       }
     }
   }
 
-  const rawFaqsNew = safeRaw(t, `articles.${slug}.faqs`);
-  const rawFaqsOld = safeRaw(t, `articles.${slug}.faq`);
-  const rawFaqSource = Array.isArray(rawFaqsNew) ? rawFaqsNew : Array.isArray(rawFaqsOld) ? rawFaqsOld : [];
-  const faqs: ArticleContent["faqs"] = rawFaqSource.map((f: Record<string, unknown>) => ({
-    q: (f.q ?? f.question ?? "") as string,
-    a: (f.a ?? f.answer ?? "") as string,
+  const faqs: ArticleContent["faqs"] = safeArr<RawMessages>(msg, "faqs", "faq").map((f) => ({
+    q: safeStr(f, "q") || safeStr(f, "question"),
+    a: safeStr(f, "a") || safeStr(f, "answer"),
   }));
 
-  const lede = safeT(t, `articles.${slug}.lede`) || safeT(t, `articles.${slug}.intro`);
+  const lede = safeStr(msg, "lede") || safeStr(msg, "intro");
 
-  const conclusion = safeRaw(t, `articles.${slug}.conclusion`) as string | undefined;
+  const conclusion = msg.conclusion;
   if (conclusion && typeof conclusion === "string") {
     sections.push({ heading: "", paragraphs: [conclusion] });
   }
 
-  const title = safeT(t, `articles.${slug}.title`, slug);
-  const description = safeT(t, `articles.${slug}.description`);
+  const title = safeStr(msg, "title") || slug;
+  const description = safeStr(msg, "description");
 
   const content: ArticleContent = {
     title,
@@ -123,7 +133,11 @@ export default async function ArticlePage({ params }: Props) {
     sections,
     faqs,
     products,
-    offerNotes: (safeRaw(t, `articles.${slug}.offerNotes`) ?? {}) as Record<string, string>,
+    offerNotes: (msg.offerNotes ?? {}) as Record<string, string>,
+    methodology: typeof msg.methodology === "string" ? msg.methodology : undefined,
+    recommendedFor: Array.isArray(msg.recommendedFor)
+      ? (msg.recommendedFor as ArticleContent["recommendedFor"])
+      : undefined,
   };
 
   const market = inferMarketFromLocale(locale);
@@ -236,9 +250,9 @@ export async function generateMetadata({ params }: Props) {
   const meta = getArticle(slug);
   if (!meta) return {};
 
-  const t = await getTranslations();
-  const title = safeT(t, `articles.${slug}.title`, slug);
-  const description = safeT(t, `articles.${slug}.description`);
+  const msg = await loadArticleContent(slug, locale);
+  const title = safeStr(msg, "title") || slug;
+  const description = safeStr(msg, "description");
 
   const canonicalUrl = `${SITE_URL}/${locale}/articles/${slug}/`;
   const ogImageUrl = meta.ogImage
