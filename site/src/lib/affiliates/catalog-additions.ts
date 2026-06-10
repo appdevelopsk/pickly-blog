@@ -6,7 +6,7 @@ import type { AffiliateOffer } from "./types";
 export const CATALOG_ADDITIONS = [
   {
     "id": "back-brace-mueller-lumbar",
-    "imageUrl": "",
+    "imageUrl": "https://jeritek.com/wp-content/uploads/2022/04/skvjxdtbfcv2mwet6x3f.jpg",
     "priceMin": "28",
     "priceMax": "40",
     "category": "fitness",
@@ -32,7 +32,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "back-brace-medela-lumbo-form",
-    "imageUrl": "",
+    "imageUrl": "https://www.shop-orthopedics.com/cdn/shop/products/Lumbamed-Facet-Lumbar-Support-medi-1-1000x1000.jpg?v=1698597678",
     "priceMin": "55",
     "priceMax": "80",
     "category": "fitness",
@@ -58,7 +58,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "back-brace-aspen-horizon-627",
-    "imageUrl": "",
+    "imageUrl": "http://zenaptichealth.com/cdn/shop/files/Aspen_Horizon_627_Brace2.jpg?v=1756238564",
     "priceMin": "90",
     "priceMax": "130",
     "category": "fitness",

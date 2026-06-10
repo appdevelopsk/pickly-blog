@@ -16,6 +16,7 @@
     "og:generate": "tsx scripts/generate-og.ts",
     "moshimo:link": "tsx scripts/moshimo-link.ts",
     "catalog:update": "tsx scripts/catalog-update.ts",
+    "images:fetch": "tsx scripts/fetch-product-images.ts",
     "gsc:performance": "tsx scripts/gsc-performance.ts",
     "gsc:submit": "tsx scripts/gsc-submit.ts",
     "gsc:ping": "tsx scripts/gsc-ping-indexing.ts",
