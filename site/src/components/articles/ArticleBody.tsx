@@ -7,6 +7,28 @@ import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
 import { PRICES } from "@/lib/affiliates/prices-override";
 
+const CATEGORY_ICON: Record<string, string> = {
+  fitness: "🏋️", food: "🍳", tech: "💻", beauty: "✨",
+  home: "🏠", fashion: "👗", finance: "💰", travel: "✈️",
+  parenting: "👶", pets: "🐾",
+};
+
+function ProductImagePlaceholder({ category, size }: { category: string; size: "sm" | "lg" }) {
+  const icon = CATEGORY_ICON[category] ?? "🛍️";
+  if (size === "sm") {
+    return (
+      <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded border border-slate-100 bg-slate-50 text-base">
+        {icon}
+      </span>
+    );
+  }
+  return (
+    <div className="flex h-24 w-24 shrink-0 items-center justify-center rounded-xl border border-slate-100 bg-gradient-to-br from-slate-50 to-slate-100 text-4xl">
+      {icon}
+    </div>
+  );
+}
+
 function resolvePrice(o: AffiliateOffer, locale: string): string | null {
   const market = inferMarketFromLocale(locale);
   // 1. Market-specific override (auto-fetched daily)
@@ -132,7 +154,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
                             {(() => { const img = getOfferImageUrl(o); return img ? (
                               // eslint-disable-next-line @next/next/no-img-element
                               <img src={img} alt={name} className="h-8 w-8 shrink-0 rounded object-contain bg-slate-50 border border-slate-100" loading="lazy" />
-                            ) : null; })()}
+                            ) : <ProductImagePlaceholder category={meta.category} size="sm" />; })()}
                             <a href={`#offer-${o.id}`} className="font-semibold text-slate-800 hover:text-brand-600 transition-colors line-clamp-1">
                               {name}
                             </a>
@@ -239,7 +261,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img src={img} alt={name} className="h-full w-full object-contain p-2" loading="lazy" />
                     </div>
-                  ) : null; })()}
+                  ) : <ProductImagePlaceholder category={meta.category} size="lg" />; })()}
                   <div className="flex-1 min-w-0">
                     <div className="flex flex-wrap items-center gap-2 mb-1.5">
                       <span className={`text-4xl font-black leading-none ${isWinner ? "text-amber-500" : "text-brand-600"}`}>
