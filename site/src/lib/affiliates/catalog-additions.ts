@@ -6,7 +6,7 @@ import type { AffiliateOffer } from "./types";
 export const CATALOG_ADDITIONS = [
   {
     "id": "back-brace-mueller-lumbar",
-    "imageUrl": "https://jeritek.com/wp-content/uploads/2022/04/skvjxdtbfcv2mwet6x3f.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/91H-WDen81L._AC_SL1500_.jpg",
     "priceMin": "28",
     "priceMax": "40",
     "category": "fitness",
@@ -32,7 +32,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "back-brace-medela-lumbo-form",
-    "imageUrl": "https://www.shop-orthopedics.com/cdn/shop/products/Lumbamed-Facet-Lumbar-Support-medi-1-1000x1000.jpg?v=1698597678",
+    "imageUrl": "https://m.media-amazon.com/images/I/616TEVTOuIL._AC_SL1500_.jpg",
     "priceMin": "55",
     "priceMax": "80",
     "category": "fitness",
@@ -58,7 +58,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "back-brace-aspen-horizon-627",
-    "imageUrl": "http://zenaptichealth.com/cdn/shop/files/Aspen_Horizon_627_Brace2.jpg?v=1756238564",
+    "imageUrl": "https://supplypt.com/cdn/shop/files/horizontm-627-pro-lumbar-brace-cold-therapy-supply-physical-therapy-aspen-back-back-brace-sports-bracing-4.png?v=1709313183&width=1864",
     "priceMin": "90",
     "priceMax": "130",
     "category": "fitness",
@@ -136,7 +136,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bamboo-pillow-coop-eden",
-    "imageUrl": "https://i5.walmartimages.com/seo/Coop-Home-Goods-Eden-Pillow-King-Medium-Soft-Cooling-Gel-Foam-for-Back-Stomach-Side-Sleepers_f359c3b1-8192-4bf3-b821-ef9ff3dcfbb6.090422217625d25efbb2cdad4cbc417c.png?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+    "imageUrl": "https://www.galorre.com/content/images/2023/06/81h53wKKyoL._AC_SL1500_.jpg",
     "priceMin": "79",
     "priceMax": "99",
     "category": "home",
@@ -370,7 +370,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bath-organizer-organize-it-wall",
-    "imageUrl": "https://i5.walmartimages.com/seo/Bamworld-Bathroom-Shelves-Bathroom-Organizer-Adjustable-3-Tiers-Bamboo-Floating-Shelf-over-the-Toilet-Storage-with-Hanging-Rod-White_9c6f3cf6-44c4-4828-bc22-a70f982c415d.1394c14133a3092abf8cee061f55b816.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81uMCa1yKGL._AC_SL1500_.jpg",
     "priceMin": "28",
     "priceMax": "55",
     "category": "home",
@@ -500,7 +500,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bcaa-evlution-nutrition-evlucein",
-    "imageUrl": "https://i5.walmartimages.com/seo/Evlution-Nutrition-BCAA-Powder-for-Pre-Workout-Muscle-Recovery-30-Servings-Fruit-Punch_3aac1517-b0b6-4e8e-b7d7-5d087f0b1d76.f51056b4a46c57ef9ad4d38e7533ae43.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61ztGcL51CL._AC_SL1000_.jpg",
     "priceMin": "22",
     "priceMax": "42",
     "category": "food",
@@ -631,7 +631,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bento-box-bentgo-fresh",
-    "imageUrl": "https://www.kroger.com/product/images/large/left/0081738702107",
+    "imageUrl": "https://m.media-amazon.com/images/I/71BL1kCdTEL._AC_SL1500_.jpg",
     "priceMin": "27",
     "priceMax": "35",
     "category": "home",
@@ -839,7 +839,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "body-lotion-jergens-ultra-healing",
-    "imageUrl": "https://i5.walmartimages.com/asr/d5725c35-bcf1-4c34-9fd8-873ebdb7d223.6ef9bebadaac7b0a9932a53290e2bdc2.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61bpuYOIqvL._SL1500_.jpg",
     "priceMin": "¥1,200",
     "priceMax": "¥1,800",
     "category": "beauty",
@@ -944,7 +944,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "body-scrub-tree-hut-shea",
-    "imageUrl": "https://i5.walmartimages.com/seo/Tree-Hut-Body-Scrub-Shea-Sugar-Hydrating-Exfoliator-for-Softer-Smoother-Skin-Vanilla-18-oz_9afc264e-2538-420e-84fa-99ea8d1ba80f.ff68dc578e058e5ff1d9ad87269f66cc.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81higV9zmNL.jpg",
     "priceMin": "¥1,980",
     "priceMax": "¥2,750",
     "category": "beauty",
@@ -1074,7 +1074,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cat-food-hills-science-diet-adult",
-    "imageUrl": "https://i5.walmartimages.com/seo/Hill-s-Science-Diet-Adult-Chicken-Recipe-Dry-Cat-Food-16-lb-bag_d22b3f59-a598-4198-b9d7-9144688d4686_1.157e1c7ac20c83339197c1b3a4e42587.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81YYPjcQFrL._AC_.jpg",
     "priceMin": "2500",
     "priceMax": "7800",
     "category": "home",
@@ -1230,7 +1230,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cat-litter-tidy-cats-free-clean",
-    "imageUrl": "https://i5.walmartimages.com/asr/3adbebd9-5253-4791-9e92-0cec77eacae0.7797733cb0faef2fb25e8dce8af0175b.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71NR--XG88L._AC_SL1500_.jpg",
     "priceMin": "2800",
     "priceMax": "6500",
     "category": "home",
@@ -1282,7 +1282,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cat-litter-pretty-litter-health",
-    "imageUrl": "https://i5.walmartimages.com/seo/PrettyLitter-Health-Monitoring-Cat-Litter-8lb_ae04d18a-c124-4b9d-b7fb-429a12ed5fde.278677d260ab0817de7219a9a2b7aa8a.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/61q-BhwDuVL._AC_SX679_.jpg",
     "priceMin": "2800",
     "priceMax": "4500",
     "category": "home",
@@ -1360,7 +1360,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "closet-organizer-rubbermaid-configurations",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7ee49a54-36f1-4dc5-b421-ac94cbbc9bc3.png;maxHeight=1920;maxWidth=900?format=webp",
+    "imageUrl": "https://m.media-amazon.com/images/I/71mpomnu64L._AC_SL1204_.jpg",
     "priceMin": "¥8,000",
     "priceMax": "¥25,000",
     "category": "home",
@@ -1412,7 +1412,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "closet-organizer-whitmor-double",
-    "imageUrl": "https://www.kroger.com/product/images/large/back/0003886107904",
+    "imageUrl": "https://m.media-amazon.com/images/I/91PdVPH0LKL.jpg",
     "priceMin": "¥3,500",
     "priceMax": "¥6,000",
     "category": "home",
@@ -1438,7 +1438,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "clothes-steamer-conair-extreme-steam",
-    "imageUrl": "https://i5.walmartimages.com/asr/0792e491-5a54-4165-b38f-e3eb2bd15874.be295009fb379c4b8418081237b711e6.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61eomi8eFdL._AC_.jpg",
     "priceMin": "¥6,000",
     "priceMax": "¥10,000",
     "category": "home",
@@ -1594,7 +1594,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "coconut-oil-viva-naturals-extra-virgin",
-    "imageUrl": "https://i5.walmartimages.com/seo/Viva-Naturals-Organic-Extra-Virgin-Coconut-Oil-16-fl-oz_add163dd-b670-4e97-9bab-05c22826396d.9a4438307a9c38945db534701569028a.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71vdmopRSEL._SL1500_.jpg",
     "priceMin": "10.99",
     "priceMax": "16.99",
     "category": "food",
@@ -1934,7 +1934,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "composting-bin-fcmp-outdoor",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5ad50b28-01c0-4aee-9238-5a5b92b151ba.jpg;maxHeight=1920;maxWidth=900?format=webp",
+    "imageUrl": "https://m.media-amazon.com/images/I/71KxQqxHK4L._AC_SL1500_.jpg",
     "priceMin": "85",
     "priceMax": "125",
     "category": "home",
@@ -2610,7 +2610,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dehumidifier-frigidaire-50pt",
-    "imageUrl": "https://images.thdstatic.com/productImages/e77e2524-0364-4370-950c-809bcae0f9c1/svn/white-frigidaire-dehumidifiers-ghdd5035w1-64_600.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41I86PZQCdL._AC_SY679_.jpg",
     "priceMin": "220",
     "priceMax": "300",
     "category": "home",
@@ -2870,7 +2870,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dish-rack-simplehuman-steel",
-    "imageUrl": "https://images.thdstatic.com/productImages/29ab5da9-5a81-4b47-b49c-f339d900630e/svn/grey-stainless-steel-simplehuman-dish-racks-kt1181-64_1000.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/716-+EaXy0S._AC_SL1500_.jpg",
     "priceMin": "¥8,000",
     "priceMax": "¥12,000",
     "category": "home",
@@ -3156,7 +3156,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dog-food-hills-science-diet",
-    "imageUrl": "https://i5.walmartimages.com/seo/Hill-s-Science-Diet-7-Senior-Vitality-Chicken-Rice-Dry-Dog-Food-3-5lb-Bag_533fd62a-645c-48e3-8a76-5a76184914df.df6a9838a533c73ee1a7560c0fe44a84.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/810AGNHLk1L.jpg",
     "priceMin": "3500",
     "priceMax": "11000",
     "category": "home",
@@ -3468,7 +3468,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "energy-bar-kind-dark-chocolate",
-    "imageUrl": "https://www.kroger.com/product/images/large/front/0060265267056",
+    "imageUrl": "https://m.media-amazon.com/images/I/81+8iYeejdL._SL1500_.jpg",
     "priceMin": "21",
     "priceMax": "30",
     "category": "food",
@@ -3624,7 +3624,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ergo-mouse-anker-2-4g-vertical",
-    "imageUrl": "https://media.karousell.com/media/photos/products/2020/02/07/anker_24g_wireless_vertical_ergonomic_optical_mouse_1581046111_b307a01eb_progressive",
+    "imageUrl": "https://m.media-amazon.com/images/I/51LhEezp2hL._AC_SL1500_.jpg",
     "priceMin": "2000",
     "priceMax": "3500",
     "category": "tech",
@@ -3806,7 +3806,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "eye-cream-olay-eyes-ultimate",
-    "imageUrl": "https://i5.walmartimages.com/asr/d43bf396-0c37-46a4-b2fc-45498ac0399d.57f72a25bea0a1f5fbdc43cb26a02481.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81c6lvpXxlL._SL1500_.jpg",
     "priceMin": "¥4,500",
     "priceMax": "¥5,800",
     "category": "beauty",
@@ -4248,7 +4248,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "gaming-chair-dxracer-formula-jp",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/854306c4-2e2d-4091-8e69-031aed2bf7ec.png;maxHeight=1920;maxWidth=900?format=webp",
+    "imageUrl": "https://m.media-amazon.com/images/I/61GgaVkY5vL._AC_SL1500_.jpg",
     "priceMin": "35000",
     "priceMax": "55000",
     "category": "tech",
@@ -4326,7 +4326,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "gaming-headset-razer-blackshark-v2-pro",
-    "imageUrl": "https://i5.walmartimages.com/seo/Razer-BlackShark-V2-Pro-Wireless-PC-Gaming-Headset-2-4GHz-BT-HyperSpeed-Wireless-70Hr-Battery-320g-Black_2810111a-1c86-4fe4-919c-51b9fa48cd4a.425eb5fb130f8059899fab21f848df21.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/71ZTXGr2g0L._AC_.jpg",
     "priceMin": "179",
     "priceMax": "199",
     "category": "tech",
@@ -4404,7 +4404,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "gaming-headset-hyperx-cloud-alpha-wireless",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6499/6499569cv15d.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81h57VezuJL._AC_SL1500_.jpg",
     "priceMin": "149",
     "priceMax": "179",
     "category": "tech",
@@ -4638,7 +4638,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ghee-tin-star-foods",
-    "imageUrl": "https://i5.walmartimages.com/seo/Tin-Star-Foods-DEF29-Grassfed-Ghee-Grassfed-Biodynamic-22-5-oz_de625f84-127b-4c4e-abad-105905c0080d.3be0e6a9b25a7548abac6bd6c5b7a3df.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61XmnkWsfkL._SL1500_.jpg",
     "priceMin": "20.99",
     "priceMax": "29.99",
     "category": "food",
@@ -4872,7 +4872,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "green-powder-bloom-greens",
-    "imageUrl": "https://i5.walmartimages.com/seo/Bloom-Nutrition-Greens-Superfoods-Powder-Original-60-Servings_b257ae4e-4d15-4440-8cfa-166525a4f69c.3549229497ebc4f7dbe4db365b906b7d.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/515Y46FZEmL._AC_SL1000_.jpg",
     "priceMin": "25",
     "priceMax": "40",
     "category": "food",
@@ -5915,7 +5915,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "keto-snacks-chomps-beef-sticks",
-    "imageUrl": "https://i5.walmartimages.com/seo/Chomps-Beef-Jerky-Sticks-Original-Beef-Keto-Snack-Meat-Sticks-Paleo-Friendly-Sugar-Free-Grass-Fed-8ct-1-15oz_57fe0c73-1c62-4d76-b52a-b4bf90466e07.1ffa7296d8e9a9afc636ea98db24a22e.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/810Js5Lo9UL._SL1500_.jpg",
     "priceMin": "1.99",
     "priceMax": "2.99",
     "category": "food",
@@ -6253,7 +6253,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "detergent-tide-pods-original",
-    "imageUrl": "https://www.kroger.com/product/images/large/front/0003077220328",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Yw8gFOqoL._AC_SL1500_.jpg",
     "priceMin": "18",
     "priceMax": "32",
     "category": "home",
@@ -6409,7 +6409,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "linen-sheets-brooklinen",
-    "imageUrl": "https://www.refinery29.com/images/11838764.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/71PrTyRC+YL._AC_.jpg",
     "priceMin": "159",
     "priceMax": "269",
     "category": "home",
@@ -6539,7 +6539,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "lip-balm-aquaphor-lip-repair",
-    "imageUrl": "https://i5.walmartimages.com/seo/Aquaphor-Lip-Repair-Stick-Lip-Balm-for-Dry-Chapped-Lips_146203d6-2b6d-4614-91ed-f30c82a69a48.0c743ce98e3f8775b254dd140338c46e.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/712lQEoRSwL._SL1500_.jpg",
     "priceMin": "¥1,100",
     "priceMax": "¥1,540",
     "category": "beauty",
@@ -6591,7 +6591,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "lip-balm-vaseline-lip-therapy",
-    "imageUrl": "https://i5.walmartimages.com/seo/Vaseline-Lip-Therapy-Tinted-Lip-Balm-Mini-Rosy-0-25-oz_6fced36e-5459-449f-9390-f239c379bd6a_1.75276199dfa8877b4d188f032029913f.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71tGZ0Sx3jL.jpg",
     "priceMin": "¥330",
     "priceMax": "¥550",
     "category": "beauty",
@@ -6877,7 +6877,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "magnesium-doctors-best-high-absorption",
-    "imageUrl": "https://i5.walmartimages.com/asr/3bde0b07-9abb-4a36-b521-f5c0df19b8b3_1.ca10719935ead8d41fdf6bc4955de462.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/71jfuR4uptL._AC_SL1500_.jpg",
     "priceMin": "16",
     "priceMax": "32",
     "category": "food",
@@ -6903,7 +6903,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "memory-foam-pillow-tempur-cloud",
-    "imageUrl": "https://i5.walmartimages.com/seo/Tempur-Pedic-TEMPUR-Cloud-Pillow-King_30b568f7-840b-4594-bcc5-4cde5ddb0261.45ce8b48a326ccbb1b8064a0b628e1af.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71U9aNZrF9L._AC_SL1500_.jpg",
     "priceMin": "119",
     "priceMax": "159",
     "category": "home",
@@ -7059,7 +7059,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "moisturizer-cerave-moisturizing-cream",
-    "imageUrl": "https://i5.walmartimages.com/asr/6a2b5b20-cc7a-4890-bf0b-e79023926167.d75c47eed3e27c4691a5c12f346fd529.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61pP5gObVXL._SL1000_.jpg",
     "priceMin": "$18",
     "priceMax": "$18",
     "category": "beauty",
@@ -7137,7 +7137,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "moisturizer-belif-true-cream",
-    "imageUrl": "https://www.refinery29.com/images/11897785.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/611L6UYd1IL._SL1500_.jpg",
     "priceMin": "$52",
     "priceMax": "$52",
     "category": "beauty",
@@ -7735,7 +7735,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "niacinamide-paula-choice-10",
-    "imageUrl": "https://www.refinery29.com/images/11873301.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61zCarwOsmL._SX569_.jpg",
     "priceMin": "$49",
     "priceMax": "$49",
     "category": "beauty",
@@ -7839,7 +7839,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nut-butter-rx-bar-almond",
-    "imageUrl": "https://www.kroger.com/product/images/large/front/1085803000807",
+    "imageUrl": "https://m.media-amazon.com/images/I/71qcBCYicuL._AC_.jpg",
     "priceMin": "8.99",
     "priceMax": "14.99",
     "category": "food",
@@ -7865,7 +7865,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nut-butter-artisana-organics",
-    "imageUrl": "https://www.kroger.com/product/images/xlarge/front/0087000100256",
+    "imageUrl": "https://m.media-amazon.com/images/I/81PCmDGhLgL._SL1500_.jpg",
     "priceMin": "13.99",
     "priceMax": "19.99",
     "category": "food",
@@ -8073,7 +8073,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "oats-quaker-overnight",
-    "imageUrl": "https://i5.walmartimages.com/seo/Quaker-Rolled-Overnight-Oats-Oatmeal-19-oz_3046b69b-2628-4680-acb6-db107f6498e3_1.ca5e7c69c9dbf370c51acae032e9be55.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/91Q-IPhMzZL._SL1500_.jpg",
     "priceMin": "8",
     "priceMax": "14",
     "category": "food",
@@ -8099,7 +8099,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "oats-bob-red-mill-organic",
-    "imageUrl": "https://i5.walmartimages.com/seo/Pack-of-4-Bobs-Red-Mill-Organic-Old-Fashioned-Rolled-Oats-16-oz_b7a8392b-39f7-4f4c-9213-cff4fd16b158.215904513cbb1bb183aa66f870d1f296.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81YajLdms6L._SL1500_.jpg",
     "priceMin": "10",
     "priceMax": "18",
     "category": "food",
@@ -8151,7 +8151,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "oats-kodiak-protein-packed",
-    "imageUrl": "https://i5.walmartimages.com/seo/Kodiak-Protein-Packed-Classic-Rolled-Oats-16-oz-Canister_d8f68335-a484-4a58-bf10-5ae40d999938.dc9390fe251a9ad640aa6e6463d1b15b.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/91y9EX--A5L._AC_.jpg",
     "priceMin": "11",
     "priceMax": "17",
     "category": "food",
@@ -8177,7 +8177,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "oats-trader-joes-organic",
-    "imageUrl": "https://i5.walmartimages.com/seo/Trader-Joe-s-Oven-Toasted-Old-Fashioned-Organic-Oats-18-Oz_59dd0e9f-0991-4262-a47e-753eff101f32.94aa0be7400ee88811f889b59391f838.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+    "imageUrl": "https://m.media-amazon.com/images/I/71YAgT9alqL._SY500_.jpg",
     "priceMin": "4",
     "priceMax": "7",
     "category": "food",
@@ -8905,7 +8905,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "plant-pot-costa-farms-growers",
-    "imageUrl": "https://images.thdstatic.com/productImages/a05ed760-5ae2-4c5e-8887-9e8f2a68d701/svn/costa-farms-house-plants-38angel8pk-64_1000.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/91Vqv1w0jDL._AC_SL1500_.jpg",
     "priceMin": "15",
     "priceMax": "35",
     "category": "home",
@@ -9399,7 +9399,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "retinol-serum-neutrogena-rapid-wrinkle",
-    "imageUrl": "https://i5.walmartimages.com/asr/572e0ebd-e29f-423f-af24-b5cb7c6c760d.7207573de97e13bd1b5316e6588966fa.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81d5Eg9M17L._SL1500_.jpg",
     "priceMin": "$19",
     "priceMax": "$25",
     "category": "beauty",
@@ -9763,7 +9763,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "security-cam-arlo-pro-5s",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/7d4580af-af5d-4197-9dfd-a86b6b419780.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51UrwPSLzIL.jpg",
     "priceMin": "28000",
     "priceMax": "36000",
     "category": "tech",
@@ -9789,7 +9789,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "security-cam-ring-stick-up",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6577/6577802cv11d.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51IAAuNgRqL._SL1000_.jpg",
     "priceMin": "11000",
     "priceMax": "16000",
     "category": "tech",
@@ -10179,7 +10179,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "shower-head-delta-in2ition",
-    "imageUrl": "https://images.thdstatic.com/productImages/bbe8c795-02ef-4193-9d23-a20c70ec1a97/svn/chrome-delta-dual-shower-heads-75652-64_600.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51BfCVN2iHL._AC_SL1500_.jpg",
     "priceMin": "80",
     "priceMax": "130",
     "category": "home",
@@ -11791,7 +11791,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "travel-umbrella-shedrain-windjammer",
-    "imageUrl": "https://www.kroger.com/product/images/large/front/0009180610892",
+    "imageUrl": "https://m.media-amazon.com/images/I/71qqy-45egL._AC_SL1001_.jpg",
     "priceMin": "32",
     "priceMax": "42",
     "category": "travel",
@@ -12623,7 +12623,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "water-filter-brita-standard",
-    "imageUrl": "https://i5.walmartimages.com/asr/966d65d3-8557-49ae-bfb6-98d22bf38fbc.0d18b81a4cdbd26fd9a35571f4a42ce9.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+    "imageUrl": "https://m.media-amazon.com/images/I/71fk-lSZ2qL._AC_SL1500_.jpg",
     "priceMin": "23",
     "priceMax": "30",
     "category": "home",
@@ -12675,7 +12675,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "water-filter-zerowater-10cup",
-    "imageUrl": "https://www.kroger.com/product/images/large/back/0018878100010",
+    "imageUrl": "https://m.media-amazon.com/images/I/51sLMjU09OL._AC_SL1500_.jpg",
     "priceMin": "40",
     "priceMax": "50",
     "category": "home",
@@ -13118,7 +13118,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cuyana-classic-leather-tote",
-    "imageUrl": "https://www.refinery29.com/images/10429742.jpg",
+    "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2023/04/16/643bf4234bf9ff4898be5410/l_643bf42c8d7a3ca4f891f9c2.jpg",
     "priceMin": "$278",
     "priceMax": "$378",
     "category": "fashion",
@@ -13456,7 +13456,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "jcrew-classic-cashmere-crew",
-    "imageUrl": "https://www.refinery29.com/images/10833542.png",
+    "imageUrl": "https://www.travelandleisure.com/thmb/sDhXwRZ1V6p_S_bEsjp66e5Id8I=/fit-in/1500x850/filters:no_upscale():max_bytes(150000):strip_icc()/JCrewCashmereCrewneck-e6ebbb7055624c49a274dcd6278d3a72.jpg",
     "priceMin": "$148",
     "priceMax": "$198",
     "category": "fashion",
@@ -15198,7 +15198,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "earths-best-organic-dairy",
-    "imageUrl": "https://i5.walmartimages.com/seo/Earth-s-Best-Organic-Dairy-Powder-Baby-Formula-with-Iron-DHA-ARA-32-oz-Canister_bb27dc09-5e28-4167-8afc-d3e9d099ded7.5ed4ae15b27f636e79b857176f004e49.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81ru6aUTNAL._AC_SL1500_.jpg",
     "priceMin": "$22",
     "priceMax": "$28",
     "category": "parenting",
@@ -15978,7 +15978,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fluval-spec-v-5-gallon",
-    "imageUrl": "https://i5.walmartimages.com/asr/6a57a585-7246-4266-b049-4f5dd5e4f118_1.963bdc1b800a1848b0f4cf36addf81aa.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81cvTqTbmUL._AC_SL1500_.jpg",
     "priceMin": "$130",
     "priceMax": "$170",
     "category": "pets",
@@ -18318,7 +18318,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fidelity-rollover-ira",
-    "imageUrl": "https://i.ytimg.com/vi/vJ0GHTulGuU/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/Xxlwa91oqeo/maxresdefault.jpg",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -18474,7 +18474,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "graco-soothe-my-way-swing",
-    "imageUrl": "https://goodbuygear.com/cdn/shop/files/f1b5930b-cffa-4725-a15f-05bb76269d9b_1200x1506.png?v=1717447357",
+    "imageUrl": "https://m.media-amazon.com/images/I/71tMisjkSyL.jpg",
     "priceMin": "$130",
     "priceMax": "$170",
     "category": "parenting",
@@ -18500,7 +18500,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fisher-price-deluxe-cradle-swing",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6253/6253689_sd.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Q4rQGow4L.jpg",
     "priceMin": "$170",
     "priceMax": "$200",
     "category": "parenting",
@@ -18734,7 +18734,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fisher-price-laugh-learn-walker",
-    "imageUrl": "https://media.karousell.com/media/photos/products/2024/8/13/fisherprice_laugh__learn_smart_1723509662_32903de2.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61G6GUq4AtL._SL1500_.jpg",
     "priceMin": "$40",
     "priceMax": "$55",
     "category": "parenting",
@@ -18760,7 +18760,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "joovy-spoon-walker",
-    "imageUrl": "http://goodbuygear.com/cdn/shop/products/3fd47e194ac5d9b633c9eb569e2d897e_1024x1024.jpg?v=1659370889",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51G8z6SUEZL.jpg",
     "priceMin": "$70",
     "priceMax": "$110",
     "category": "parenting",
@@ -19280,7 +19280,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "zukes-mini-naturals",
-    "imageUrl": "https://i5.walmartimages.com/asr/b093a2e3-1dbc-4973-bf9d-34cf235e2994.2b662e714526d1f4d31b4f27a619b8bd.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81L1ui4q8sL._AC_SX679_.jpg",
     "priceMin": "$7",
     "priceMax": "$13",
     "category": "pets",
@@ -19332,7 +19332,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "milk-bone-mini-biscuits",
-    "imageUrl": "https://i5.walmartimages.com/asr/96872ebc-b7f3-4d38-8ac4-b948edaea9bd.82d557013434406d12fe9aebfb470ea9.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+    "imageUrl": "https://m.media-amazon.com/images/I/81qEgpacGLL._AC_.jpg",
     "priceMin": "$4",
     "priceMax": "$7",
     "category": "pets",
@@ -19358,7 +19358,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "petlibro-dockstream-fountain",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/80fa72ec-fc9d-456d-a2c7-6ff02da772dc.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/61CgkYAONJL._AC_.jpg",
     "priceMin": "$75",
     "priceMax": "$95",
     "category": "pets",
@@ -19878,7 +19878,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "natures-miracle-stain-odor-remover",
-    "imageUrl": "https://i5.walmartimages.com/asr/b92920de-6723-49ad-910c-4d529463eccf_1.132fdbd5824cbf8f73a27c87c6efc12a.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+    "imageUrl": "https://m.media-amazon.com/images/I/615avexPGnL._AC_SL1500_.jpg",
     "priceMin": "$10",
     "priceMax": "$20",
     "category": "pets",
@@ -20138,7 +20138,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "away-the-large",
-    "imageUrl": "https://www.refinery29.com/images/11197874.png",
+    "imageUrl": "https://pyxis.nymag.com/v1/imgs/4f9/f15/b65d658d827d044cababceab794cbd8434-the-large.rsquare.w600.jpg",
     "priceMin": "$345",
     "priceMax": "$425",
     "category": "travel",
@@ -20736,7 +20736,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ulanzi-mt-44-mini-tripod",
-    "imageUrl": "https://media.karousell.com/media/photos/products/2022/10/24/ulanzi_mt44_extendable_mini_tr_1666613047_8d4372cf",
+    "imageUrl": "https://m.media-amazon.com/images/I/619gPMJK0DS._AC_.jpg",
     "priceMin": "$45",
     "priceMax": "$80",
     "category": "travel",
@@ -22374,7 +22374,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "graco-blossom-6-in-1",
-    "imageUrl": "http://goodbuygear.com/cdn/shop/products/b022a99e-658f-4e34-bef8-70939ba70c3b_1024x1024.png?v=1687919998",
+    "imageUrl": "https://m.media-amazon.com/images/I/811X2O+H37L._AC_SL1500_.jpg",
     "priceMin": "$200",
     "priceMax": "$250",
     "category": "parenting",
@@ -22582,7 +22582,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "delta-eclipse-changing-table",
-    "imageUrl": "https://goodbuygear.com/cdn/shop/files/71hHlAjIN8S._SL1500_1200x1200.jpg?v=1716574080",
+    "imageUrl": "https://m.media-amazon.com/images/I/71hHlAjIN8S._SL1500_.jpg",
     "priceMin": "$120",
     "priceMax": "$180",
     "category": "parenting",
@@ -22712,7 +22712,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "boppy-nursing-pillow",
-    "imageUrl": "https://i5.walmartimages.com/seo/Boppy-Nursing-Pillow-Original-Support-Gray-Green-Koala_af1884db-1dd2-4deb-9de5-3f4c3dd3789d.a50906b11daf993eec0fe280a5980c60.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71q7nmzst8L._AC_.jpg",
     "priceMin": "$40",
     "priceMax": "$60",
     "category": "parenting",
@@ -22738,7 +22738,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "my-brest-friend-pillow",
-    "imageUrl": "https://i5.walmartimages.com/asr/5100dcc8-ba8b-430c-a287-21c1fd648da9_1.f3a3f17fd1c29008ac6927a6f84034ef.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff",
+    "imageUrl": "https://m.media-amazon.com/images/I/61zaC7HKv5L._SL1500_.jpg",
     "priceMin": "$45",
     "priceMax": "$60",
     "category": "parenting",
@@ -22842,7 +22842,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fridababy-4-in-1-grow-with-me",
-    "imageUrl": "https://i5.walmartimages.com/seo/Frida-Baby-4-in-1-Grow-With-Me-Baby-Bath-Tub-for-Newborn-to-Toddler-White_a90ac38c-a283-4cb3-95f9-cb98f5af28ea.83ef11cb20344230f71f72919778ac71.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/617kFzyKL0L.jpg",
     "priceMin": "$45",
     "priceMax": "$65",
     "category": "parenting",
@@ -23102,7 +23102,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "kong-classic-rubber",
-    "imageUrl": "https://i5.walmartimages.com/seo/KONG-Classic-Dog-Toy-Red-XX-Large_45387dbc-e244-4910-b623-1ee518c2079c_1.aaa8ba0595d975478ef0b4a746f1bda7.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61WFOz9XtoL._AC_.jpg",
     "priceMin": "$10",
     "priceMax": "$25",
     "category": "pets",
@@ -24246,7 +24246,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "iniu-portable-charger",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/b8b78aac-d066-4f29-9484-2c5940f532d1.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61letm2cWBL._AC_SL1500_.jpg",
     "priceMin": "$20",
     "priceMax": "$30",
     "category": "travel",
@@ -24766,7 +24766,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "aws-lightsail",
-    "imageUrl": "https://img.youtube.com/vi/fiWMrkAoxxE/maxresdefault.jpg",
+    "imageUrl": "https://us.wordcamp.org/2021/files/2021/09/AWS-Lightsail.png",
     "priceMin": "$5",
     "priceMax": "$160",
     "category": "tech",
@@ -25234,7 +25234,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "audew-1200a-jump-starter",
-    "imageUrl": "https://i5.walmartimages.com/seo/Audew-Andeman-Jump-Starter-1500A-18000mAh-Chargers-12V-Portable-Car-Battery-Jump-Starter-with-Quick-Charge-for-8L-Gas-or-6L-Diesel-Epower-172_9f95e406-fa4d-40a2-8421-b11f1fa4e225.043b8bae60db87f4346810335743e88c.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+    "imageUrl": "https://img.audew.com/audew/images/0C/A8/c09d2bab-e4c3-4e46-9062-e047636ff432.jpg",
     "priceMin": "$75",
     "priceMax": "$100",
     "category": "tech",
@@ -25546,7 +25546,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "anthropologie-somerset-maxi",
-    "imageUrl": "https://www.refinery29.com/images/11540176.png",
+    "imageUrl": "https://s.yimg.com/ny/api/res/1.2/x4vOXpVbacGYbiNMu1l5OQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MA--/https://s.yimg.com/os/creatr-uploaded-images/2023-02/349369b0-ad6d-11ed-bfff-39233ad8d2ca",
     "priceMin": "$168",
     "priceMax": "$198",
     "category": "fashion",
@@ -26014,7 +26014,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "jw-pei-gabbi-bag",
-    "imageUrl": "https://media.karousell.com/media/photos/products/2023/4/27/jw_pei_gabbi_bag_in_ivory_1682611897_261b996b.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/610dCrh9gFL.jpg",
     "priceMin": "$120",
     "priceMax": "$170",
     "category": "fashion",
@@ -26222,7 +26222,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "wealthfront-cash-account",
-    "imageUrl": "https://i.ytimg.com/vi/_lsIY29M2fM/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/7oLdN3HPef8/maxresdefault.jpg",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -26352,7 +26352,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "turbotax-live-full-service",
-    "imageUrl": "https://i.ytimg.com/vi/o9YRHOheErc/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/0cE-aCyzMPQ/maxresdefault.jpg",
     "priceMin": "$200",
     "priceMax": "$400",
     "category": "finance",
@@ -26898,7 +26898,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "usaa-homeowners",
-    "imageUrl": "https://i.ytimg.com/vi/6pSb9opyVIY/maxresdefault.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61zVnwbzLEL._AC_SL1000_.jpg",
     "priceMin": "Varies",
     "priceMax": "Varies",
     "category": "finance",
@@ -27132,7 +27132,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ergobaby-swaddler",
-    "imageUrl": "https://goodbuygear.com/cdn/shop/products/f54fe18ea00b032d05957243bcb9f46e_1200x1715.jpg?v=1651093266",
+    "imageUrl": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/a3b81585-726f-41f0-869a-f6ab6cb40364.jpg",
     "priceMin": "$30",
     "priceMax": "$50",
     "category": "parenting",
@@ -27236,7 +27236,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "baby-brezza-one-step",
-    "imageUrl": "http://goodbuygear.com/cdn/shop/products/038c14ae-4a15-405c-bc5b-f1b1ce7564cb_1024x1024.jpg?v=1677270591",
+    "imageUrl": "https://m.media-amazon.com/images/I/61CG+yAiI8L._AC_SL1500_.jpg",
     "priceMin": "$100",
     "priceMax": "$140",
     "category": "parenting",
@@ -27314,7 +27314,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "magic-bullet-baby-bullet",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2619/2619889cv12d.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/610xofKw6YL._SL1500_.jpg",
     "priceMin": "$50",
     "priceMax": "$75",
     "category": "parenting",
@@ -27496,7 +27496,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nook-pebble-pure",
-    "imageUrl": "https://goodbuygear.com/cdn/shop/products/da17c8ad-590f-4799-ba42-dd988ac2491a_1200x1601.png?v=1676988801",
+    "imageUrl": "https://m.media-amazon.com/images/I/61X2CStakGL._SL1000_.jpg",
     "priceMin": "$200",
     "priceMax": "$280",
     "category": "parenting",
@@ -27548,7 +27548,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "moonlight-slumber-little-dreamer",
-    "imageUrl": "http://goodbuygear.com/cdn/shop/files/9f589cff-20c0-466d-ba37-791efcfe9380_1024x1024.png?v=1726513394",
+    "imageUrl": "https://m.media-amazon.com/images/I/51gp-Zn5y7L._SY355_.jpg",
     "priceMin": "$180",
     "priceMax": "$240",
     "category": "parenting",
@@ -27626,7 +27626,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "huggies-natural-care-sensitive",
-    "imageUrl": "https://i5.walmartimages.com/seo/Huggies-Natural-Care-Sensitive-Baby-Wipes-Unscented-12-Flip-Top-Packs-768-Wipes-Total_8413a641-8464-468e-a514-557971178cd6.e97a95e15eb0c1390b6f279100d4d135.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81FlNgJOeqL._SL1500_.jpg",
     "priceMin": "$15/pack",
     "priceMax": "$25/pack",
     "category": "parenting",
@@ -27678,7 +27678,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "honest-company-wipes",
-    "imageUrl": "https://i5.walmartimages.com/asr/0431ad0c-2dc1-4859-a4c6-5beb77787c92.acbb786120d12ec481dda91e3d35c779.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61AKbF4tImL.jpg",
     "priceMin": "$10/pack",
     "priceMax": "$20/pack",
     "category": "parenting",
@@ -28432,7 +28432,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bissell-pet-hair-eraser-2087",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5890/5890902_sd.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9f5efd98-051f-425b-a88c-469cf72e6f52.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     "priceMin": "$180",
     "priceMax": "$250",
     "category": "pets",
@@ -28562,7 +28562,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bose-quietcomfort-earbuds-ii",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6512/6512517_sd.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61yaB5zlMFL._AC_SL1500_.jpg",
     "priceMin": "$249",
     "priceMax": "$299",
     "category": "travel",
@@ -28614,7 +28614,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "anker-soundcore-liberty-4-nc",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6545/6545164cv13d.jpg",
+    "imageUrl": "https://powermaccenter.com/cdn/shop/files/ANKERSOUNDCORELIBERTY4NC.jpg?v=1709781552&width=1445",
     "priceMin": "$90",
     "priceMax": "$120",
     "category": "travel",
@@ -28666,7 +28666,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "quip-electric-toothbrush",
-    "imageUrl": "https://i5.walmartimages.com/seo/Quip-Adult-Electric-Rechargeable-Toothbrush-Full-Head-Midnight_e7669c9d-a84a-4f14-b173-4d11c0641e88.4f059ec993d38a376afc42aa32746d7d.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Gj09-rvHL.jpg",
     "priceMin": "$40",
     "priceMax": "$55",
     "category": "travel",
@@ -28900,7 +28900,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nikon-monarch-7-8x42",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6356/6356376cv11d.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71PXPEh9lSL._AC_SL1000_.jpg",
     "priceMin": "$450",
     "priceMax": "$550",
     "category": "travel",
@@ -29134,7 +29134,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "gaiam-foldable-yoga-mat",
-    "imageUrl": "https://media.karousell.com/media/photos/products/2023/10/15/gaiam_foldable_yoga_mat_1697373772_d3480c23.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/91HGZrqJ-gL.jpg",
     "priceMin": "$20",
     "priceMax": "$35",
     "category": "travel",
@@ -29186,7 +29186,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "tide-pods-travel-size",
-    "imageUrl": "https://i5.walmartimages.com/seo/Tide-PODS-Laundry-Detergent-Packs-Spring-Meadow-Scent-16-Count_f83e5344-551a-4ff0-9e5c-3e7649b6bdb1.23e1c8180904af487c60895fb1c8c8e3.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+    "imageUrl": "https://m.media-amazon.com/images/I/61IyF+KCHYL._AC_SL1000_.jpg",
     "priceMin": "$10",
     "priceMax": "$15",
     "category": "travel",
@@ -29784,7 +29784,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ridgid-18v-handheld-vacuum",
-    "imageUrl": "https://images.thdstatic.com/productImages/84ecd79d-0329-4eab-8d3a-39e7d001c55e/svn/ridgid-handheld-vacuums-r8609021kn-64_1000.jpg",
+    "imageUrl": "https://powertools.ridgid.com/cdn/shop/files/ridgid-handheld-vacuums-r8609021b-66_1000.jpg?v=1756244191&width=1346",
     "priceMin": "$90",
     "priceMax": "$200",
     "category": "tech",
@@ -29836,7 +29836,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ryobi-40v-hp-brushless",
-    "imageUrl": "https://images.thdstatic.com/productImages/5e30c4a8-87be-4e87-8e52-3d7c09324975/svn/ryobi-electric-self-propelled-lawn-mowers-ry40hplm01k2-ry40hpck201k-64_1000.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Y0TNUb9vL._AC_.jpg",
     "priceMin": "$400",
     "priceMax": "$550",
     "category": "home",
@@ -30616,7 +30616,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ryobi-40v-brushless-whisper",
-    "imageUrl": "https://images.thdstatic.com/productImages/1aab96fd-1dde-40c9-b54d-09c8916dfed0/svn/ryobi-cordless-leaf-blowers-ry404180-64_1000.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61oxRq5V0tL._AC_SL1200_.jpg",
     "priceMin": "$250",
     "priceMax": "$350",
     "category": "home",
@@ -31318,7 +31318,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fishers-finery-100-mulberry",
-    "imageUrl": "https://i5.walmartimages.com/seo/Fishers-Finery-30mm-100-Pure-Mulberry-Silk-Pillowcase-Taupe-Stripe-Standard_a2b7826c-d5a8-4ede-aad3-c6b29e7fffc6.df108b482d03c016486c699f3de9ea65.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/719APKNRL2L._AC_SL1500_.jpg",
     "priceMin": "$99",
     "priceMax": "$140",
     "category": "fashion",
@@ -31344,7 +31344,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "seiko-5-sports-quartz",
-    "imageUrl": "https://media.karousell.com/media/photos/products/2023/7/31/seiko_5_sports_quartz_mens_wat_1690792020_09a83487_progressive",
+    "imageUrl": "https://www.seikocolombia.com/wp-content/uploads/2024/11/SSK035K1.png",
     "priceMin": "$150",
     "priceMax": "$220",
     "category": "fashion",
@@ -31760,7 +31760,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "netspend-all-access-prepaid",
-    "imageUrl": "https://i.ytimg.com/vi/xi4CLP2nIKU/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/Eyq_IbtivGk/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "$5/mo",
     "category": "finance",
@@ -31812,7 +31812,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "paypal-prepaid-mastercard",
-    "imageUrl": "https://www.kroger.com/product/images/xlarge/front/0007675017832",
+    "imageUrl": "https://i.ytimg.com/vi/BiYsWdxyYQA/maxresdefault.jpg",
     "priceMin": "$4.95/mo",
     "priceMax": "$4.95/mo",
     "category": "finance",
@@ -31968,7 +31968,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "chime-credit-builder-card",
-    "imageUrl": "https://www.chime.com/_ctf-img/ao7gxs2zk32d/10Ej9KrmH2FXfuGLvqa7JT/c33b83d0b36c10ccdab5d4cd2ce8d6bc/Get-Your-Cash-Back-Card.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/31qTF1-lBzL.jpg",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -32176,7 +32176,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "capital-one-360-cd",
-    "imageUrl": "https://i.ytimg.com/vi/ARuZDQRnpJs/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/gFZEEMQYSws/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -32514,7 +32514,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vicks-filter-free-humidifier",
-    "imageUrl": "https://i5.walmartimages.com/seo/Vicks-Filter-Free-Cool-Mist-Humidifier-V4600-White_a11a140e-216e-4ad2-a366-6e187373a26a.4bff327ba8dec5cc5208a5e3d97f93ab.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71qtW5yZW3L._AC_SL1500_.jpg",
     "priceMin": "$35",
     "priceMax": "$50",
     "category": "parenting",
@@ -32566,7 +32566,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "levoit-classic-300s-humidifier",
-    "imageUrl": "https://i5.walmartimages.com/seo/Levoit-Classic-300s-Ultrasonic-Smart-Humidifier_0f0e09dc-77a3-47e1-aee1-81ba490caef0.f72db600bb9cba80a9bb1b4bb8bb245f.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/516yX6K8DOL._AC_SL1001_.jpg",
     "priceMin": "$70",
     "priceMax": "$90",
     "category": "parenting",
@@ -32774,7 +32774,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fisher-price-soothing-bassinet",
-    "imageUrl": "https://goodbuygear.com/cdn/shop/products/1e349fd9467ae72347ae741fa646c87d_1024x1024.jpg?v=1666989472",
+    "imageUrl": "https://m.media-amazon.com/images/I/71bmwuZejBS._SL1500_.jpg",
     "priceMin": "$80",
     "priceMax": "$110",
     "category": "parenting",
@@ -32826,7 +32826,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "graco-duet-soothe-swing",
-    "imageUrl": "http://goodbuygear.com/cdn/shop/products/35480282-528c-444c-bd61-31f714da4321_1024x1024.png?v=1694032068",
+    "imageUrl": "https://m.media-amazon.com/images/I/71b6YhWLlJL.jpg",
     "priceMin": "$150",
     "priceMax": "$180",
     "category": "parenting",
@@ -32904,7 +32904,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "baby-einstein-neptune-jumper",
-    "imageUrl": "https://i5.walmartimages.com/seo/Baby-Einstein-Neptune-s-Ocean-Discovery-Activity-Center-Jumper_540f0b16-7f25-4130-96a9-32ae97d37c29.92ca4871bc815ff36f6a12ed2073e92d.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/617D6BQkn6L._AC_SL1280_.jpg",
     "priceMin": "$100",
     "priceMax": "$130",
     "category": "parenting",
@@ -33346,7 +33346,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "master-equipment-grooming-table",
-    "imageUrl": "https://www.kroger.com/product/images/large/front/0072134362041",
+    "imageUrl": "https://m.media-amazon.com/images/I/61TUp4KBLnL._AC_.jpg",
     "priceMin": "$400",
     "priceMax": "$550",
     "category": "pets",
@@ -33398,7 +33398,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "go-pet-club-46-grooming-table",
-    "imageUrl": "https://i5.walmartimages.com/seo/Go-Pet-Club-Pet-Dog-Grooming-Table-with-Arm-Steel_fa04a373-fbe2-45b9-8407-9d90386ae736_1.9ffe4109b0f0c118c38bdecf0f45d481.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+    "imageUrl": "https://www.dogster.com/wp-content/uploads/2022/06/Go-Pet-Club-Dog-Grooming-Table-with-Arm-2024.jpg",
     "priceMin": "$80",
     "priceMax": "$120",
     "category": "pets",
@@ -34230,7 +34230,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bagsmart-hanging-toiletry-bag",
-    "imageUrl": "https://www.drewandjonathan.com/wp-content/uploads/2023/09/black-hanging-travel-toiletry-bag-in-open-and-closed-positions.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71H12h0kn4L._AC_SL1500_.jpg",
     "priceMin": "$25",
     "priceMax": "$35",
     "category": "travel",
@@ -34672,7 +34672,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "usaa-umbrella",
-    "imageUrl": "https://i5.walmartimages.com/seo/Kemp-USAA-6-Vinyl-Reinforced-Nylon-Umbrella-Royal-Blue-White_89226ad9-d517-40c2-9d62-84ceaba57db9.27025a9d686401d7a476784a43fc1406.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+    "imageUrl": "https://m.media-amazon.com/images/I/51qyjiPdm2L._AC_UL320_.jpg",
     "priceMin": "$150",
     "priceMax": "$300",
     "category": "finance",
@@ -35166,7 +35166,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "milwaukee-m18-hedge-trimmer",
-    "imageUrl": "https://images.thdstatic.com/productImages/b4dd4a10-bca5-485e-9581-7db84ac22454/svn/milwaukee-cordless-hedge-trimmers-3034-21-48-11-1881-64_1000.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51RlsaufvpL._AC_SL1000_.jpg",
     "priceMin": "$250",
     "priceMax": "$350",
     "category": "home",
@@ -35192,7 +35192,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ryobi-40v-22inch-hedge",
-    "imageUrl": "https://images.thdstatic.com/productImages/d4298ffe-9c5f-4cf6-995b-a699dfe418aa/svn/ryobi-cordless-hedge-trimmers-p2680-66_600.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51+DXqSChXL._AC_.jpg",
     "priceMin": "$150",
     "priceMax": "$220",
     "category": "home",
@@ -35322,7 +35322,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ariens-deluxe-28",
-    "imageUrl": "https://images.thdstatic.com/productImages/a2f78fba-f7b9-4700-b24d-1cc7755c0784/svn/ariens-gas-snow-blowers-921070-64_1000.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71RcGv8YT7L.jpg",
     "priceMin": "$1400",
     "priceMax": "$1800",
     "category": "home",
@@ -35348,7 +35348,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ryobi-40v-21inch-snow-blower",
-    "imageUrl": "https://images.thdstatic.com/productImages/274d1a0c-9b8d-4855-9f5d-3dd34491ee7a/svn/ryobi-electric-snow-blowers-ry40hpsn02k2-64_1000.jpg",
+    "imageUrl": "https://secondipity.com/cdn/shop/files/Open-Box-RYOBI-40V-HP-21-inch-Brushless-Cordless-Battery-Snow-Blower-Kit-with-_2_-7.5-Ah-Batteries-and-Charger-RYOBI-267223217.jpg?v=1740786996",
     "priceMin": "$500",
     "priceMax": "$700",
     "category": "home",
@@ -35374,7 +35374,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "snow-joe-ion100v",
-    "imageUrl": "https://images.thdstatic.com/productImages/159826fc-18c8-40ab-a26d-2a342e6fd9d6/svn/snow-joe-cordless-snow-blowers-ion100v-24sb-64_1000.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51WuFPmW9bL.jpg",
     "priceMin": "$500",
     "priceMax": "$700",
     "category": "home",
@@ -36830,7 +36830,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "mutual-of-omaha-ltc",
-    "imageUrl": "https://i.ytimg.com/vi/xAxeSbZRkJY/maxresdefault.jpg",
+    "imageUrl": "https://www.longtermcareinsurancepartner.com/assets/mutual-of-omaha-47cf72287ce6f8fa66e168c2ad11e4f28d8d26ed274981b0156c3b11f69ff8b1.png",
     "priceMin": "$150",
     "priceMax": "$800",
     "category": "finance",
@@ -37402,7 +37402,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "humana-medicare-supplement",
-    "imageUrl": "https://i.ytimg.com/vi/fooYiB9K2gg/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/cIoAp2v0fMo/maxresdefault.jpg",
     "priceMin": " as unknown as AffiliateOffer[]30",
     "priceMax": "$300",
     "category": "finance",
@@ -37610,7 +37610,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "roundup-weed-grass-killer",
-    "imageUrl": "https://images.thdstatic.com/productImages/8b83c500-a45b-4781-8a52-3d37149c6aaf/svn/roundup-weed-grass-killer-5324701-64_1000.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61fybp+Uw+L._AC_SX522_.jpg",
     "priceMin": " as unknown as AffiliateOffer[]5",
     "priceMax": "$45",
     "category": "home",
@@ -37636,7 +37636,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "spectracide-weed-stop-lawns",
-    "imageUrl": "https://i5.walmartimages.com/seo/Spectracide-Weed-Stop-for-Lawns-for-St-Augustine-Centipede-Lawns-Concentrate-Kill-Tough-Weed-32-oz_01c24ec2-bdb3-454c-a135-7080f6a695fe.83e562251649fa2c5f3baf5c3fedd26d.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71pAul4RqwL._AC_SL1500_.jpg",
     "priceMin": " as unknown as AffiliateOffer[]0",
     "priceMax": "$30",
     "category": "home",
@@ -38874,7 +38874,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "garmin-lily-2",
-    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5e9cd592-c483-454e-9d15-9f298a231449.jpg;maxHeight=1920;maxWidth=900?format=webp",
+    "imageUrl": "https://m.media-amazon.com/images/I/61fpeZRYhPL.jpg",
     "priceMin": "$249",
     "priceMax": "$249",
     "category": "fashion",
@@ -39146,7 +39146,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "triangl-neoprene-bikini",
-    "imageUrl": "https://media.karousell.com/media/photos/products/2023/10/28/triangl_neoprene_bikini_1698475434_fedd525e.jpg",
+    "imageUrl": "https://triangl.com/cdn/shop/files/1.MICAROQUE_2_05fcd331-f948-4c41-aa10-42e0f1f6a1e2.jpg?v=1765421845&width=2000",
     "priceMin": "$90",
     "priceMax": "$120",
     "category": "fashion",
@@ -39211,7 +39211,7 @@ export const CATALOG_ADDITIONS = [
 ,
   {
     "id": "maybelline-lash-sensational",
-    "imageUrl": "https://i5.walmartimages.com/seo/Maybelline-Lash-Sensational-Washable-Mascara-Very-Black_a499c6b3-3e46-42b6-841f-1e3d0b2d9547.bcb8eb8baaee81c35536ad4c2510c88a.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81pBN7XRSuL._AC_SL1500_.jpg",
     "priceMin": "9",
     "priceMax": "11",
     "category": "beauty",
@@ -39403,7 +39403,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nars-natural-radiant-longwear",
-    "imageUrl": "https://www.refinery29.com/images/10015361.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/513B7DOxIrL._AC_SS450_.jpg",
     "priceMin": "52",
     "priceMax": "52",
     "category": "beauty",
@@ -39547,7 +39547,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "maybelline-instant-age-rewind",
-    "imageUrl": "https://i5.walmartimages.com/seo/Maybelline-Instant-Age-Rewind-Eraser-Treatment-Makeup-SPF-18-Anti-Aging-Concealer-Infused-Goji-Berry-Collagen-Creamy-Ivory-1-Count-C36_3b2d9475-ae3b-4e31-9976-113efe34ae9f.c5e7ed42402bb76ea97f8120acb07916.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/713aIfJzCrL.jpg",
     "priceMin": "11",
     "priceMax": "11",
     "category": "beauty",
@@ -39667,7 +39667,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "elf-brow-pencil",
-    "imageUrl": "https://i5.walmartimages.com/seo/ELF-Instant-Brow-Lift-Pencil-2-Packs-Taupe_a0ee0b4f-2fb8-460a-9eb4-fb5d4770b623.9f5ae18fcc8c54f09da1c6df9562282d.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51nnm3xrl9L.jpg",
     "priceMin": "6",
     "priceMax": "6",
     "category": "beauty",
@@ -39715,7 +39715,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nyx-butter-gloss",
-    "imageUrl": "https://www.refinery29.com/images/11043193.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61XqgXonh6L._SL1500_.jpg",
     "priceMin": "8",
     "priceMax": "8",
     "category": "beauty",
@@ -39739,7 +39739,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "maybelline-lifter-gloss",
-    "imageUrl": "https://i5.walmartimages.com/seo/Maybelline-Lifter-Gloss-Lip-Gloss-with-Hyaluronic-Acid-Bronze_84f230c4-7303-4c54-b51b-9ee7bb426e95.58f4a89759786901c9ea288b139f2449.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81G33hm1ozL._SL1500_.jpg",
     "priceMin": "11",
     "priceMax": "11",
     "category": "beauty",
@@ -40076,7 +40076,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "kerastase-masque-nutritive",
-    "imageUrl": "https://i5.walmartimages.com/asr/1cb7b52f-4266-4e0b-862c-b247b81df113_2.610febcb0cbef43386582824b867e0cf.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+    "imageUrl": "https://m.media-amazon.com/images/I/61El0X71EiL._AC_SL1500_.jpg",
     "category": "beauty",
     "badge": "💧 Best Moisture Retention",
     "name": {
@@ -40098,7 +40098,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "pantene-rescue-shots",
-    "imageUrl": "https://www.kroger.com/product/images/large/front/0008087819248",
+    "imageUrl": "https://m.media-amazon.com/images/I/81lZ-aVIwnL._AC_.jpg",
     "category": "beauty",
     "badge": "⚡ Best Quick-Fix",
     "name": {
@@ -41528,7 +41528,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "gen7pets-natural-step-ramp",
-    imageUrl: "https://m.media-amazon.com/images/I/71Q3WS5SNIL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61+oE0p0f4L._AC_SL1500_.jpg",
     category: "pets",
     name: { en: "Gen7pets Natural Step Ramp" },
     description: { en: "The Gen7Pets Natural Step Ramp is the pick for indoor, in-home use — helping dogs reach beds, sofas, and windows — with a focus on style and a gentle, stair-like design." },
