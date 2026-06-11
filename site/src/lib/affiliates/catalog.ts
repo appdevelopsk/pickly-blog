@@ -21811,7 +21811,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "$4.67",
     links: [
       { network: "amazon-us", productId: "B07X9GBJGD", rawUrl: "https://www.amazon.com/dp/B07X9GBJGD", markets: ["US", "EU", "global"], approved: true },
-      { network: "amazon-jp", productId: "パワーブロック スポーツ アジャスタブル ケトルベル", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%91%E3%83%AF%E3%83%BC%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%20%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%20%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "amazon-jp", productId: "オートリー バリスタ オーツミルク", rawUrl: "https://www.amazon.co.jp/s?k=オートリー+バリスタ+オーツミルク", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21823,7 +21823,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "$3.38",
     links: [
       { network: "amazon-us", productId: "B07YPQF38T", rawUrl: "https://www.amazon.com/dp/B07YPQF38T", markets: ["US", "EU", "global"], approved: true },
-      { network: "amazon-jp", productId: "REP フィットネス アジャスタブル ケトルベル", rawUrl: "https://www.amazon.co.jp/s?k=REP%20%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%20%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "amazon-jp", productId: "プラネットオーツ エクストラクリーミー オーツミルク", rawUrl: "https://www.amazon.co.jp/s?k=プラネットオーツ+オーツミルク", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21835,7 +21835,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "$5.49",
     links: [
       { network: "amazon-us", productId: "B07N8Y2MNX", rawUrl: "https://www.amazon.com/dp/B07N8Y2MNX", markets: ["US", "EU", "global"], approved: true },
-      { network: "amazon-jp", productId: "エーペックス アジャスタブル ケトルボール", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%BC%E3%83%9A%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%20%E3%82%B1%E3%83%88%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "amazon-jp", productId: "カリフィア バリスタ オーツクリーマー", rawUrl: "https://www.amazon.co.jp/s?k=カリフィア+オーツ+バリスタ", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21847,7 +21847,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "$7.58",
     links: [
       { network: "amazon-us", productId: "B07GXWKV5V", rawUrl: "https://www.amazon.com/dp/B07GXWKV5V", markets: ["US", "EU", "global"], approved: true },
-      { network: "amazon-jp", productId: "ケトルグリップ アジャスタブルケトルベル", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%B1%E3%83%88%E3%83%AB%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%20%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%B9%E3%82%BF%E3%83%96%E3%83%AB%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "amazon-jp", productId: "エルムハースト オーツミルク", rawUrl: "https://www.amazon.co.jp/s?k=エルムハースト+オーツミルク", markets: ["JP"], approved: true },
     ],
   },
   // --- batch #261: best-weightlifting-shoes-2026 (fitness) ---
@@ -21860,7 +21860,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "$200.00",
     links: [
       { network: "amazon-us", productId: "B08KY4JL7B", rawUrl: "https://www.amazon.com/dp/B08KY4JL7B", markets: ["US", "EU", "global"], approved: true },
-      { network: "amazon-jp", productId: "オートリー オーツドリンク オリジナル", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%20%E3%82%AA%E3%83%BC%E3%83%84%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "amazon-jp", productId: "ナイキ ロマレオス 4 ウエイトリフティングシューズ", rawUrl: "https://www.amazon.co.jp/s?k=ナイキ+ロマレオス+4+ウエイトリフティング", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21872,7 +21872,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "24mm heel-to-toe drop, TPU heel counter, single strap. Preferred by many national team weightlifters for snatches and clean & jerks.", ja: "24mmヒールドロップ・TPUヒールカウンター・シングルストラップ。スナッチ＆クリーン&ジャークで多くの代表選手に愛用されている。" },
     links: [
       { network: "amazon-us", productId: "B09DZKSHD4", rawUrl: "https://www.amazon.com/dp/B09DZKSHD4", markets: ["US", "EU", "global"], approved: true },
-      { network: "amazon-jp", productId: "オートリー バリスタエディション オーツミルク", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%20%E3%83%90%E3%83%AA%E3%82%B9%E3%82%BF%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%82%AA%E3%83%BC%E3%83%84%E3%83%9F%E3%83%AB%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "amazon-jp", productId: "アディダス アディパワー 3 ウエイトリフティング", rawUrl: "https://www.amazon.co.jp/s?k=アディダス+アディパワー+3+ウエイトリフティング", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21884,7 +21884,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "$220.00",
     links: [
       { network: "amazon-us", productId: "B09D73NVHK", rawUrl: "https://www.amazon.com/dp/B09D73NVHK", markets: ["US", "EU", "global"], approved: true },
-      { network: "amazon-jp", productId: "プラネットオーツ エクストラクリーミー オーツミルク", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88%E3%82%AA%E3%83%BC%E3%83%84%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%BC%20%E3%82%AA%E3%83%BC%E3%83%84%E3%83%9F%E3%83%AB%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "amazon-jp", productId: "リーボック レガシーリフター 3", rawUrl: "https://www.amazon.co.jp/s?k=リーボック+レガシーリフター+3", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21896,7 +21896,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "$210.00",
     links: [
       { network: "amazon-us", productId: "B07FNQFR4S", rawUrl: "https://www.amazon.com/dp/B07FNQFR4S", markets: ["US", "EU", "global"], approved: true },
-      { network: "amazon-jp", productId: "カリフィア ファームズ ベターハーフ オーツクリーマー", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A3%E3%82%A2%20%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%BA%20%E3%83%99%E3%82%BF%E3%83%BC%E3%83%8F%E3%83%BC%E3%83%95%20%E3%82%AA%E3%83%BC%E3%83%84%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%BC", markets: ["JP"], approved: true },
+      { network: "amazon-jp", productId: "イノヴエイト ファストリフト パワー G380", rawUrl: "https://www.amazon.co.jp/s?k=イノヴエイト+ファストリフト+G380", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21908,7 +21908,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "$95.00",
     links: [
       { network: "amazon-us", productId: "B001GBRFZM", rawUrl: "https://www.amazon.com/dp/B001GBRFZM", markets: ["US", "EU", "global"], approved: true },
-      { network: "amazon-jp", productId: "エルムハースト 1925 オーツミルク", rawUrl: "https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%AB%E3%83%A0%E3%83%8F%E3%83%BC%E3%82%B9%E3%83%88%201925%20%E3%82%AA%E3%83%BC%E3%83%84%E3%83%9F%E3%83%AB%E3%82%AF", markets: ["JP"], approved: true },
+      { network: "amazon-jp", productId: "ドゥウィン ウエイトリフティングシューズ", rawUrl: "https://www.amazon.co.jp/s?k=ドゥウィン+ウエイトリフティングシューズ", markets: ["JP"], approved: true },
     ],
   },
   // --- batch #262: best-protein-pancake-mix-2026 (food) ---
