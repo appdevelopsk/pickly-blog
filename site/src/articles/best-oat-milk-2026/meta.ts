@@ -5,7 +5,7 @@ export const meta: ArticleMeta = {
   category: "food",
   type: "comparison",
   publishedAt: "2026-05-11",
-  updatedAt: "2026-06-04",
+  updatedAt: "2026-06-11",
   ogImage: "/og/best-oat-milk-2026",
   locales: ["en","ja","zh-CN","ko","es","pt-BR","fr","de","it"],
   offerIds: [

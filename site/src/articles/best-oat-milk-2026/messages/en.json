@@ -167,5 +167,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Everyday drinking and cereal",
+      "offerId": "oatly-oat-milk-original",
+      "reason": "Consistent flavor, good calcium and B12 fortification, available everywhere. The reference oat milk for general daily use."
+    },
+    {
+      "label": "Home baristas and coffee drinkers",
+      "offerId": "oatly-oat-milk-barista",
+      "reason": "Formulated specifically for steaming — froths into stable microfoam without curdling in espresso. Different product from regular Oatly."
+    },
+    {
+      "label": "Budget-conscious daily users",
+      "offerId": "planet-oat-extra-creamy",
+      "reason": "Lower price than Oatly with a creamy texture that works well in cereal, smoothies, and cold coffee. Best value for non-barista use."
+    },
+    {
+      "label": "Cold brew and iced coffee lovers",
+      "offerId": "califia-oat-milk-barista",
+      "reason": "Oat-and-coconut cream blend adds natural sweetness and a richer body that holds up on ice better than lighter oat milks."
+    },
+    {
+      "label": "Additive-free and clean-ingredient buyers",
+      "offerId": "elmhurst-oat-milk",
+      "reason": "Oats, water, salt — nothing else. No gums, no emulsifiers, no added oils. For buyers who read every ingredient label."
+    }
+  ]
 }
