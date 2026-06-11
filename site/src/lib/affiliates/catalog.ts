@@ -22177,7 +22177,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "marcus-by-goldman-cd",
-    imageUrl: "https://i.ytimg.com/vi/OHkuLrhm5P0/maxresdefault.jpg",
+    imageUrl: "https://cdn-reviews.supermoney.com/businesses/4/marcus-by-goldman-sachs-savings-account-8a30a6df9f2646cff4d8093d7f688bfd_social.png",
     priceMin: "$500",
     priceMax: "$500",
     category: "finance",
