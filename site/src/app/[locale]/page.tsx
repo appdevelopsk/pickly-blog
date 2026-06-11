@@ -145,22 +145,28 @@ export default async function HomePage({ params }: Props) {
 
         {/* ── Hero ──────────────────────────────────────── */}
         <section className="py-14 text-center md:py-20">
-          <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-slate-200 bg-slate-50 px-4 py-1.5 text-xs font-semibold text-slate-500 tracking-wide">
-            <span className="inline-block h-1.5 w-1.5 animate-pulse rounded-full bg-green-500" />
+          <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-slate-200 bg-white px-4 py-1.5 text-xs font-semibold text-slate-500 tracking-wide shadow-sm">
+            <span className="inline-block h-1.5 w-1.5 animate-pulse rounded-full bg-emerald-500" />
             {articles.length} reviews &nbsp;·&nbsp; 17 languages
           </div>
-          <h1 className="mx-auto mb-4 max-w-2xl text-4xl font-black tracking-tight text-slate-900 md:text-5xl lg:text-6xl">
+          <h1 className="mx-auto mb-4 max-w-2xl text-4xl font-black tracking-tight text-slate-900 [word-break:keep-all] md:text-5xl lg:text-6xl">
             {heading}
           </h1>
-          <p className="mx-auto max-w-lg text-lg leading-relaxed text-slate-500">
+          <p className="mx-auto max-w-lg text-base leading-relaxed text-slate-500 md:text-lg">
             {subheading}
           </p>
           <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
             <Link
-              href="/articles"
-              className="inline-flex items-center gap-2 rounded-full bg-brand-600 px-7 py-3 text-sm font-bold text-white shadow-lg shadow-brand-900/20 transition-all hover:-translate-y-0.5 hover:bg-brand-700 hover:shadow-brand-900/30"
+              href="/ranking"
+              className="inline-flex items-center gap-2 rounded-xl bg-brand-600 px-6 py-3 text-sm font-bold text-white shadow-md transition-all hover:-translate-y-0.5 hover:bg-brand-700 hover:shadow-lg"
             >
-              {navArticles} →
+              🏆 Rankings →
+            </Link>
+            <Link
+              href="/articles"
+              className="inline-flex items-center gap-2 rounded-xl border border-slate-200 bg-white px-6 py-3 text-sm font-semibold text-slate-600 shadow-sm transition-all hover:border-brand-300 hover:text-brand-700"
+            >
+              {navArticles}
             </Link>
           </div>
         </section>
