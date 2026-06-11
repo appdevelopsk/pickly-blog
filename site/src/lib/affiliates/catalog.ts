@@ -21798,8 +21798,9 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "The brand that mainstreamed oat milk globally. Clean oat flavor, creamy texture, fortified with calcium and vitamins. The benchmark for the category.", ja: "オーツミルクを世界に広めたブランド。クリーンなオーツ風味・クリーミーな食感・カルシウム＆ビタミン強化。カテゴリーのベンチマーク。" },
     price: "$5.99",
     links: [
-      { network: "amazon-us", productId: "B07PKZNGGR", rawUrl: "https://www.amazon.com/dp/B07PKZNGGR", markets: ["US", "EU", "global"], approved: true },
-      { network: "amazon-jp", productId: "ボウフレックス セレクトテック 840 ケトルベル", rawUrl: "https://www.amazon.co.jp/s?k=%E3%83%9C%E3%82%A6%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%88%E3%83%86%E3%83%83%E3%82%AF%20840%20%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB", markets: ["JP"], approved: true },
+      { network: "amazon-us", productId: "B07PKZNGGR", rawUrl: "https://www.amazon.com/dp/B07PKZNGGR", markets: ["US", "global"], approved: true },
+      { network: "amazon-de", productId: "Oatly Oat Drink Original", rawUrl: "https://www.amazon.de/s?k=Oatly+Haferdrink+Original", markets: ["EU", "FR", "ES", "IT"], approved: true },
+      { network: "amazon-jp", productId: "オートリー オーツドリンク オリジナル", rawUrl: "https://www.amazon.co.jp/s?k=オートリー+オーツドリンク", markets: ["JP"], approved: true },
     ],
   },
   {
@@ -21810,7 +21811,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "High-fat formula designed to steam and froth like dairy. Creates microfoam for lattes. The standard choice in specialty coffee shops.", ja: "乳製品と同様に蒸気泡立てができる高脂肪フォーミュラ。ラテ用のマイクロフォームを生成。スペシャルティコーヒーショップの定番。" },
     price: "$4.67",
     links: [
-      { network: "amazon-us", productId: "B07X9GBJGD", rawUrl: "https://www.amazon.com/dp/B07X9GBJGD", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-us", productId: "B07X9GBJGD", rawUrl: "https://www.amazon.com/dp/B07X9GBJGD", markets: ["US", "global"], approved: true },
+      { network: "amazon-de", productId: "Oatly Barista Edition", rawUrl: "https://www.amazon.de/s?k=Oatly+Barista+Edition", markets: ["EU", "FR", "ES", "IT"], approved: true },
       { network: "amazon-jp", productId: "オートリー バリスタ オーツミルク", rawUrl: "https://www.amazon.co.jp/s?k=オートリー+バリスタ+オーツミルク", markets: ["JP"], approved: true },
     ],
   },
@@ -25501,7 +25503,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Developed by baristas for espresso-based drinks. Steams to thick, glossy microfoam. Slightly richer texture than Oatly Barista. Specialty coffee shops' second choice after Oatly.", ja: "バリスタがエスプレッソ系ドリンク向けに開発。厚みのある光沢あるマイクロフォームに仕上がる。スペシャルティコーヒーショップでオートリーに次ぐ支持。" },
     price: "$5.79",
     links: [
-      { network: "amazon-us", productId: "B08N4GZYMF", rawUrl: "https://www.amazon.com/dp/B08N4GZYMF", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-us", productId: "B08N4GZYMF", rawUrl: "https://www.amazon.com/dp/B08N4GZYMF", markets: ["US", "global"], approved: true },
+      { network: "amazon-de", productId: "Minor Figures Oat Barista", rawUrl: "https://www.amazon.de/s?k=Minor+Figures+Barista+Oat+Milk", markets: ["EU", "FR", "ES", "IT"], approved: true },
       { network: "amazon-jp", productId: "minor-figures-jp", rawUrl: "https://www.amazon.co.jp/s?k=マイナーフィギュアズ+バリスタ+オーツミルク", markets: ["JP"], approved: true },
     ],
   },
