@@ -34,8 +34,8 @@ export function SiteHeader() {
 
         {/* Desktop nav */}
         <nav className="hidden items-center gap-5 text-sm font-medium md:flex">
-          <Link href="/popular" className="text-slate-600 hover:text-slate-900 transition-colors">
-            Popular
+          <Link href="/ranking" className="text-slate-600 hover:text-slate-900 transition-colors">
+            🏆 Rankings
           </Link>
           <Link href="/purpose" className="text-slate-600 hover:text-slate-900 transition-colors">
             🎯 Purpose
@@ -93,8 +93,8 @@ export function SiteHeader() {
             <Link href="/search" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
               🔍 Search
             </Link>
-            <Link href="/popular" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
-              🏆 Popular
+            <Link href="/ranking" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
+              🏆 Rankings
             </Link>
             <Link href="/compare" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
               ⚖️ Compare
