@@ -5,11 +5,29 @@ import path from "path";
 
 type Messages = Record<string, unknown>;
 
+function deepMerge(base: Messages, override: Messages): Messages {
+  const result: Messages = { ...base };
+  for (const key of Object.keys(override)) {
+    const b = base[key];
+    const o = override[key];
+    if (b && o && typeof b === "object" && typeof o === "object" && !Array.isArray(b) && !Array.isArray(o)) {
+      result[key] = deepMerge(b as Messages, o as Messages);
+    } else {
+      result[key] = o;
+    }
+  }
+  return result;
+}
+
 async function loadCommon(locale: string): Promise<Messages> {
+  const en = ((await import(`@/messages/${DEFAULT_LOCALE}.json`)).default) as Messages;
+  if (locale === DEFAULT_LOCALE) return en;
   try {
-    return (await import(`@/messages/${locale}.json`)).default;
+    const loc = ((await import(`@/messages/${locale}.json`)).default) as Messages;
+    // Deep-merge: locale overrides English, English fills any missing keys
+    return deepMerge(en, loc);
   } catch {
-    return (await import(`@/messages/${DEFAULT_LOCALE}.json`)).default;
+    return en;
   }
 }
 

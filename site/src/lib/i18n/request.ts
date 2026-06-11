@@ -20,8 +20,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
       if (error.code === "MISSING_MESSAGE") return;
       console.error(error);
     },
-    getMessageFallback({ key }: { namespace?: string; key: string; error: Error }) {
-      return key.split(".").pop() ?? key;
+    getMessageFallback(_: { namespace?: string; key: string; error: Error }) {
+      return "";
     },
   };
 });
