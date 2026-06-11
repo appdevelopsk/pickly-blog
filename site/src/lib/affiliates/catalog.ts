@@ -21824,7 +21824,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Widely available US brand with a richer body than standard oat milks. Non-GMO, gluten-free certified. Best value in the mainstream oat milk segment.", ja: "豊かなコクを持つ広く入手可能な米国ブランド。Non-GMO・グルテンフリー認証。主流オーツミルクセグメントの最良コスパ。" },
     price: "$3.38",
     links: [
-      { network: "amazon-us", productId: "B07YPQF38T", rawUrl: "https://www.amazon.com/dp/B07YPQF38T", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-us", productId: "B07YPQF38T", rawUrl: "https://www.amazon.com/dp/B07YPQF38T", markets: ["US", "global"], approved: true },
       { network: "amazon-jp", productId: "プラネットオーツ エクストラクリーミー オーツミルク", rawUrl: "https://www.amazon.co.jp/s?k=プラネットオーツ+オーツミルク", markets: ["JP"], approved: true },
     ],
   },
@@ -21836,7 +21836,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Blended oat and coconut cream for a richer, slightly sweeter profile than pure oat milks. Popular for cold coffee drinks and cereal.", ja: "オーツとコナッツクリームをブレンドし、純粋なオーツミルクより濃厚でほんのり甘いプロファイル。コールドコーヒーやシリアルに人気。" },
     price: "$5.49",
     links: [
-      { network: "amazon-us", productId: "B07N8Y2MNX", rawUrl: "https://www.amazon.com/dp/B07N8Y2MNX", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-us", productId: "B07N8Y2MNX", rawUrl: "https://www.amazon.com/dp/B07N8Y2MNX", markets: ["US", "global"], approved: true },
       { network: "amazon-jp", productId: "カリフィア バリスタ オーツクリーマー", rawUrl: "https://www.amazon.co.jp/s?k=カリフィア+オーツ+バリスタ", markets: ["JP"], approved: true },
     ],
   },
@@ -21848,7 +21848,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Minimal ingredients: oats, water, sea salt. No added oils, gums, or emulsifiers. The purist choice for those avoiding additives found in most oat milks.", ja: "最小限の原材料：オーツ・水・海塩。添加油・ガム・乳化剤なし。多くのオーツミルクに含まれる添加物を避けたい純粋主義者の選択。" },
     price: "$7.58",
     links: [
-      { network: "amazon-us", productId: "B07GXWKV5V", rawUrl: "https://www.amazon.com/dp/B07GXWKV5V", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-us", productId: "B07GXWKV5V", rawUrl: "https://www.amazon.com/dp/B07GXWKV5V", markets: ["US", "global"], approved: true },
       { network: "amazon-jp", productId: "エルムハースト オーツミルク", rawUrl: "https://www.amazon.co.jp/s?k=エルムハースト+オーツミルク", markets: ["JP"], approved: true },
     ],
   },
