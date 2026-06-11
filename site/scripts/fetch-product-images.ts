@@ -78,6 +78,29 @@ async function ddgImageSearch(query: string): Promise<string | null> {
       "0701.static.prezi.com", "indocenter.co.id", "www.medisupps.com",
       "tj-gin.oss-us-west-1.aliyuncs.com", "media.istockphoto.com",
       "www.chime.com", "viobank.com", "seniorbenefitclient.com",
+      // Brand CDNs that block hotlinking (detected via Referer 403/406)
+      "lsco.scene7.com", "target.scene7.com", "academy.scene7.com",
+      "dks.scene7.com", "athleta.scene7.com", "hrbent.scene7.com",
+      "lakelandcamel.scene7.com", "s7d1.scene7.com", "totousa.scene7.com",
+      "akamai-scene7.frontgate.com",
+      "www.ugg.com", "ugg.com",
+      "www.stevemadden.com",
+      "images.songmics.com",
+      "img.cupshe.com",
+      "hips.hearstapps.com",
+      "assets.thenorthface.eu", "assets.hermes.com",
+      "bananarepublic.gap.com", "athleta.gap.com",
+      "slimages.macysassets.com",
+      "assets.wsimgs.com", "assets.wfcdn.com", "assets.weimgs.com",
+      // Shopee CDNs (Southeast Asia, block external referers)
+      "down-my.img.susercontent.com", "down-id.img.susercontent.com",
+      "down-ph.img.susercontent.com", "down-th.img.susercontent.com",
+      "down-sg.img.susercontent.com", "down-vn.img.susercontent.com",
+      // Pinterest CDN (no direct hotlinking allowed)
+      "i.pinimg.com",
+      // Other brand/editorial sites known to block
+      "www.nordstrom.com", "assets.nordstromrack.com",
+      "images.containerstore.com",
     ];
 
     for (const r of (data.results ?? []).slice(0, 20)) {
@@ -100,7 +123,8 @@ async function validateImage(url: string): Promise<boolean> {
     const res = await fetch(url, {
       method: "HEAD",
       signal: AbortSignal.timeout(6000),
-      headers: { "User-Agent": UA },
+      // Test with a realistic browser Referer so hotlink-blocking CDNs reject early
+      headers: { "User-Agent": UA, "Referer": "https://pickly.blog/" },
     });
     const ct = res.headers.get("content-type") ?? "";
     return res.ok && ct.startsWith("image/") && !ct.includes("svg");
