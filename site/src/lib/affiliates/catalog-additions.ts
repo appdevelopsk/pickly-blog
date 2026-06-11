@@ -40747,6 +40747,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "gopro-hero13-black",
+    imageUrl: "https://m.media-amazon.com/images/I/615eTO83jLL.jpg",
     category: "tech",
     name: { en: "Gopro Hero13 Black" },
     description: { en: "The GoPro Hero13 Black is the most capable all-rounder backed by the largest accessory ecosystem on earth." },
@@ -40757,6 +40758,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dji-osmo-action-5-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/71pg9H7KEuL.jpg",
     category: "tech",
     name: { en: "Dji Osmo Action 5 Pro" },
     description: { en: "The DJI Osmo Action 5 Pro is the pick when low-light performance and battery life matter most." },
@@ -40767,6 +40769,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "insta360-ace-pro-2",
+    imageUrl: "https://m.media-amazon.com/images/I/61Hzp1j2tDL._AC_SL1400_.jpg",
     category: "tech",
     name: { en: "Insta360 Ace Pro 2" },
     description: { en: "The Insta360 Ace Pro 2 is the image-quality and vlogging specialist." },
@@ -40777,6 +40780,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dji-osmo-action-4",
+    imageUrl: "https://m.media-amazon.com/images/I/81phRn67prL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Dji Osmo Action 4" },
     description: { en: "The DJI Osmo Action 4 is the value play — last year's DJI flagship, still excellent, now sold at a meaningful discount." },
@@ -40787,6 +40791,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "akaso-brave-8-lite",
+    imageUrl: "https://m.media-amazon.com/images/I/71Vsvpa8gTL.jpg",
     category: "tech",
     name: { en: "Akaso Brave 8 Lite" },
     description: { en: "The AKASO Brave 8 Lite is the budget option for casual and first-time users — 4K capture, basic electronic stabilization, a waterproof case, and a generous bundle that typically i…" },
@@ -40797,6 +40802,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "midea-u-shaped-window-ac",
+    imageUrl: "https://m.media-amazon.com/images/I/71Egj4d7IbL._AC_.jpg",
     category: "home",
     name: { en: "Midea U Shaped Window Ac" },
     description: { en: "The Midea U-Shaped reinvented the window AC and is still the one to beat." },
@@ -40807,6 +40813,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "lg-dual-inverter-window-ac",
+    imageUrl: "https://m.media-amazon.com/images/I/71bMASM-+cL._SL1500_.jpg",
     category: "home",
     name: { en: "Lg Dual Inverter Window Ac" },
     description: { en: "The LG Dual Inverter is the pick when maximum efficiency and long-term reliability in a conventional shape are the priority." },
@@ -40817,6 +40824,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frigidaire-gallery-window-ac",
+    imageUrl: "https://m.media-amazon.com/images/I/51MtxI76wYL._AC_SL1000_.jpg",
     category: "home",
     name: { en: "Frigidaire Gallery Window Ac" },
     description: { en: "The Frigidaire Gallery is the dependable mainstream workhorse — a well-built inverter-class window unit with a clean app for scheduling and remote control, an easy-mount design, a…" },
@@ -40827,6 +40835,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "windmill-window-ac",
+    imageUrl: "https://m.media-amazon.com/images/I/71iooZEX04L._AC_SX679_.jpg",
     category: "home",
     name: { en: "Windmill Window Ac" },
     description: { en: "The Windmill AC is the design-conscious choice — an inverter window unit built to look and feel better than the beige boxes, with a clean fascia, side-facing airflow that diffuses…" },
@@ -40837,6 +40846,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "de-longhi-pinguino-portable-ac",
+    imageUrl: "https://m.media-amazon.com/images/I/51fsMC7tF8L.jpg",
     category: "home",
     name: { en: "De Longhi Pinguino Portable Ac" },
     description: { en: "The De'Longhi Pinguino is the answer for rooms a window unit can't serve — casement or sliding windows, rentals that forbid window mounts, or rooms with no suitable window." },
@@ -40847,6 +40857,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ruggable-washable-rug",
+    imageUrl: "https://m.media-amazon.com/images/I/919SeKgc4sL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Ruggable Washable Rug" },
     description: { en: "The Ruggable Washable Rug solves the problem every other rug ignores: when it gets dirty, you throw it in your washing machine." },
@@ -40857,6 +40868,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "safavieh-madison-rug",
+    imageUrl: "https://m.media-amazon.com/images/I/91bl9zdxIjL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Safavieh Madison Rug" },
     description: { en: "The Safavieh Madison is the pick for classic, elegant style and proven durability." },
@@ -40867,6 +40879,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "nuloom-moroccan-rug",
+    imageUrl: "https://m.media-amazon.com/images/I/91x+am3IXYL._AC_SX466_.jpg",
     category: "home",
     name: { en: "Nuloom Moroccan Rug" },
     description: { en: "The nuLOOM Moroccan Rug is the pick for on-trend, contemporary style at an accessible price." },
@@ -40877,6 +40890,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "mohawk-home-rug",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ba3376ec-fa72-41a4-b4d3-d9cf60ebde94.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     category: "home",
     name: { en: "Mohawk Home Rug" },
     description: { en: "The Mohawk Home Rug is the value workhorse — dependable, affordable rugs from a long-established American flooring brand, in a wide range of styles, sizes, and price points." },
@@ -40887,6 +40901,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "jonathan-y-bohemian-rug",
+    imageUrl: "https://m.media-amazon.com/images/I/A1qQLssY0wL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Jonathan Y Bohemian Rug" },
     description: { en: "The Jonathan Y Bohemian Rug is the pick for distinctive, characterful boho and vintage style." },
@@ -40897,6 +40912,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "petlibro-granary-camera-feeder",
+    imageUrl: "https://m.media-amazon.com/images/I/61FnpP1M4IL._AC_SL1500_.jpg",
     category: "pets",
     name: { en: "Petlibro Granary Camera Feeder" },
     description: { en: "The PetLibro Granary Camera Feeder combines reliable, accurate dry-food dispensing with a built-in camera that lets you see and interact with your pet remotely." },
@@ -40907,6 +40923,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "whisker-feeder-robot",
+    imageUrl: "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/68dca599-3c96-47fb-bf5b-dbfb2fc5e097.jpg",
     category: "pets",
     name: { en: "Whisker Feeder Robot" },
     description: { en: "The Whisker Feeder-Robot is the pick when your top priority is a feeder that never jams and dispenses accurately every time." },
@@ -40917,6 +40934,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "petsafe-smart-feed",
+    imageUrl: "https://m.media-amazon.com/images/I/5106MlXp+8L.jpg",
     category: "pets",
     name: { en: "Petsafe Smart Feed" },
     description: { en: "The PetSafe Smart Feed is the well-established, proven smart feeder from a long-trusted pet-tech brand." },
@@ -40927,6 +40945,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "sure-petcare-microchip-feeder",
+    imageUrl: "https://m.media-amazon.com/images/S/abs-image-upload-na/6/AmazonStores/A1F83G8C2ARO7P/cd65c366840fd37741e73ee8018e5644.w1500.h1500._CR0%2C0%2C1500%2C1500_SX1500_SY1500_.jpg",
     category: "pets",
     name: { en: "Sure Petcare Microchip Feeder" },
     description: { en: "The Sure Petcare Microchip Feeder solves a completely different problem: multi-pet households where one pet steals another's food, or a pet on a special diet must not eat the wron…" },
@@ -40937,6 +40956,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "wopet-automatic-feeder",
+    imageUrl: "https://m.media-amazon.com/images/I/61sph4yYO-L._AC_SL1500_.jpg",
     category: "pets",
     name: { en: "Wopet Automatic Feeder" },
     description: { en: "The WOPET Automatic Feeder is the budget champion — a dependable basic automatic feeder at a low price for someone who wants scheduled dry-food feeding without smart-home features…" },
@@ -40947,6 +40967,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "thuma-the-bed",
+    imageUrl: "https://m.media-amazon.com/images/I/51F59fT9PdL._SS400_.jpg",
     category: "home",
     name: { en: "Thuma The Bed" },
     description: { en: "The Thuma The Bed is the best frame for people who want something beautiful and genuinely easy to live with." },
@@ -40957,6 +40978,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "zinus-suzanne-platform",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a56033f8-c311-466d-89f8-10fd6053bc5b.__CR0,0,1464,600_PT0_SX1464_V1___.png",
     category: "home",
     name: { en: "Zinus Suzanne Platform" },
     description: { en: "The Zinus Suzanne is the value champion — a stylish, sturdy platform bed at a fraction of premium prices that made Zinus the default budget bed-frame brand." },
@@ -40967,6 +40989,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ikea-malm-bed-frame",
+    imageUrl: "https://m.media-amazon.com/images/I/51iyy9nGTwL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Ikea Malm Bed Frame" },
     description: { en: "The IKEA Malm is the classic, affordable pick and the best option if under-bed storage matters — many Malm configurations include built-in storage drawers integrated into the fram…" },
@@ -40977,6 +41000,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "floyd-platform-bed",
+    imageUrl: "https://lumberjac.com/wp-content/uploads/2018/03/The-Floyd-Platform-Bed-2LumberJac.jpg",
     category: "home",
     name: { en: "Floyd Platform Bed" },
     description: { en: "The Floyd Platform Bed is the design-icon pick for a modern, minimalist statement frame built to last and move with you." },
@@ -40987,6 +41011,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "nectar-platform-bed-frame",
+    imageUrl: "https://m.media-amazon.com/images/I/81PPFl-wGXL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Nectar Platform Bed Frame" },
     description: { en: "The Nectar Platform Bed Frame is the convenient pick for someone buying a mattress-in-a-box and wanting a matching, no-fuss frame from the same ecosystem." },
@@ -40997,6 +41022,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "nicetown-blackout-curtains",
+    imageUrl: "https://m.media-amazon.com/images/I/7102INl-T1L._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Nicetown Blackout Curtains" },
     description: { en: "The NICETOWN Blackout Curtains hit the sweet spot of genuinely effective light blocking, real thermal insulation, and a huge range of sizes and colours at a fair price." },
@@ -41007,6 +41033,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "sun-zero-grommet-blackout",
+    imageUrl: "https://m.media-amazon.com/images/I/71S6DuUrD2L.jpg",
     category: "home",
     name: { en: "Sun Zero Grommet Blackout" },
     description: { en: "The Sun Zero Grommet Blackout curtains are the pick when you want effective blackout that also looks deliberately stylish, with clean grommet tops that hang in neat, even folds." },
@@ -41017,6 +41044,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "deconovo-blackout-curtains",
+    imageUrl: "https://m.media-amazon.com/images/I/718pg48yOmL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Deconovo Blackout Curtains" },
     description: { en: "The Deconovo Blackout Curtains are a popular value pick balancing decent light blocking, a wide colour range, and an attractive price." },
@@ -41027,6 +41055,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "h-versailtex-blackout",
+    imageUrl: "https://m.media-amazon.com/images/I/61UkrRtkElL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "H Versailtex Blackout" },
     description: { en: "The H.VERSAILTEX is the thermal-insulation specialist for someone whose priority is energy saving and temperature control as much as darkness." },
@@ -41037,6 +41066,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "amazon-basics-blackout-curtains",
+    imageUrl: "https://m.media-amazon.com/images/I/81UIJXGwfLL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Amazon Basics Blackout Curtains" },
     description: { en: "The Amazon Basics Blackout Curtains are the no-frills budget champion — simple, effective room-darkening panels at the lowest price, in the common sizes and a range of basic colou…" },
@@ -41047,6 +41077,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "apple-airtag",
+    imageUrl: "https://m.media-amazon.com/images/I/71gY9E+cTaS._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Apple Airtag" },
     description: { en: "The Apple AirTag is the best tracker for iPhone users because the finding network is everything and Apple's is the largest in the world." },
@@ -41057,6 +41088,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tile-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/612oh35ywsL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Tile Pro" },
     description: { en: "The Tile Pro is the best tracker for the cross-platform world — the pick for Android users or households mixing iPhone and Android, because Tile works fully on both via its own fi…" },
@@ -41067,6 +41099,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "samsung-galaxy-smarttag-2",
+    imageUrl: "https://m.media-amazon.com/images/I/61PzhW9vK4L._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Samsung Galaxy Smarttag 2" },
     description: { en: "The Samsung Galaxy SmartTag 2 is the AirTag-equivalent for Samsung Galaxy owners." },
@@ -41077,6 +41110,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "chipolo-one-spot",
+    imageUrl: "https://m.media-amazon.com/images/I/51Na2YBlJXL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Chipolo One Spot" },
     description: { en: "The Chipolo ONE Spot is the clever pick for iPhone users who want a louder, more practical tag that still uses Apple's network." },
@@ -41087,6 +41121,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tile-mate",
+    imageUrl: "https://m.media-amazon.com/images/I/81lKPB1hFXL.jpg",
     category: "tech",
     name: { en: "Tile Mate" },
     description: { en: "The Tile Mate is the value Tile — the affordable, mainstream version of the Tile Pro with the same full cross-platform iOS-and-Android compatibility and the same Tile finding netw…" },
@@ -41097,6 +41132,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "rare-beauty-soft-pinch-liquid-blush",
+    imageUrl: "https://m.media-amazon.com/images/I/61lZ76JXgKL.jpg",
     category: "beauty",
     name: { en: "Rare Beauty Soft Pinch Liquid Blush" },
     description: { en: "The Rare Beauty Soft Pinch Liquid Blush delivers an incredibly natural, lit-from-within flush that lasts genuinely all day — and the same intense pigmentation that makes it long-w…" },
@@ -41107,6 +41143,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "nars-orgasm-blush",
+    imageUrl: "https://m.media-amazon.com/images/I/71EGGoZiXqL._AC_.jpg",
     category: "beauty",
     name: { en: "Nars Orgasm Blush" },
     description: { en: "The NARS Orgasm Blush is the iconic powder blush and the pick for a universally flattering shimmer-flushed glow." },
@@ -41117,6 +41154,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "milani-baked-blush",
+    imageUrl: "https://m.media-amazon.com/images/I/718PJjgiP3L._SL1497_.jpg",
     category: "beauty",
     name: { en: "Milani Baked Blush" },
     description: { en: "The Milani Baked Blush is the budget champion that genuinely rivals high-end powders." },
@@ -41127,6 +41165,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "benefit-benetint",
+    imageUrl: "https://m.media-amazon.com/images/I/71fwljD33kL._AC_SX679_.jpg",
     category: "beauty",
     name: { en: "Benefit Benetint" },
     description: { en: "The Benefit Benetint is the cult liquid lip-and-cheek tint and the pick for a long-lasting, natural rosy stain." },
@@ -41137,6 +41176,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dior-backstage-rosy-glow",
+    imageUrl: "https://m.media-amazon.com/images/I/71TFiuks1wL.jpg",
     category: "beauty",
     name: { en: "Dior Backstage Rosy Glow" },
     description: { en: "The Dior Backstage Rosy Glow is the luxury pick with a clever colour-adapting twist." },
@@ -41147,6 +41187,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "lululemon-everywhere-belt-bag",
+    imageUrl: "https://m.media-amazon.com/images/I/41qlvJmzlgL._AC_.jpg",
     category: "fashion",
     name: { en: "Lululemon Everywhere Belt Bag" },
     description: { en: "The Lululemon Everywhere Belt Bag earned its cult status." },
@@ -41157,6 +41198,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "coach-tabby-crossbody",
+    imageUrl: "https://m.media-amazon.com/images/I/71AtRn+6FuL._AC_SY695_.jpg",
     category: "fashion",
     name: { en: "Coach Tabby Crossbody" },
     description: { en: "The Coach Tabby is the pick when you want a real leather crossbody that elevates an outfit and lasts for years." },
@@ -41167,6 +41209,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "baggu-crescent-bag",
+    imageUrl: "https://m.media-amazon.com/images/I/71T6QGKVQ4L.__AC_SX395_SY395_QL70_ML2_.jpg",
     category: "fashion",
     name: { en: "Baggu Crescent Bag" },
     description: { en: "The Baggu Crescent Bag is the cool minimalist's choice and the best value-design pick — a soft, slouchy sling in a flattering crescent shape, in Baggu's signature playful colours…" },
@@ -41177,6 +41220,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kate-spade-crossbody",
+    imageUrl: "https://m.media-amazon.com/images/I/71KK1qWQnkL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Kate Spade Crossbody" },
     description: { en: "The Kate Spade Crossbody is the classic, polished pick for someone who wants a recognisably put-together bag at an accessible designer price." },
@@ -41187,6 +41231,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "bandolier-crossbody-phone-case",
+    imageUrl: "https://m.media-amazon.com/images/I/81GcSg7aKNL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Bandolier Crossbody Phone Case" },
     description: { en: "The Bandolier is the tech-forward minimalist pick built around your phone — a crossbody phone case where your phone snaps into a leather case with an attached adjustable strap and…" },
@@ -41197,6 +41242,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "t3-whirl-trio-interchangeable",
+    imageUrl: "https://2.bp.blogspot.com/-g5vn3RyrAqo/V0-vao0LGVI/AAAAAAAAEtM/3uQjvZeaxtI3iBNEcK3rtwIXCI6cx8_jQCLcB/s1600/T3%2BWhirl%2BTrio%2BReview.jpg",
     category: "beauty",
     name: { en: "T3 Whirl Trio Interchangeable" },
     description: { en: "The T3 Whirl Trio is really three tools in one — a single rapid-heating base with interchangeable clip-on barrels (a 1-inch tapered wand for loose waves, a 1.25-inch barrel for cl…" },
@@ -41207,6 +41253,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "beachwaver-s1-rotating",
+    imageUrl: "https://m.media-amazon.com/images/I/41d8XMK2wCL._SX522_.jpg",
     category: "beauty",
     name: { en: "Beachwaver S1 Rotating" },
     description: { en: "The Beachwaver S1 curls your hair for you." },
@@ -41217,6 +41264,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ghd-curve-creative-wand",
+    imageUrl: "https://m.media-amazon.com/images/I/51GwqYwG2eS._AC_SL1000_.jpg",
     category: "beauty",
     name: { en: "Ghd Curve Creative Wand" },
     description: { en: "The GHD Curve Creative Curl Wand is the premium clampless wand for natural, undone waves." },
@@ -41227,6 +41275,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "conair-double-ceramic-curling-iron",
+    imageUrl: "https://m.media-amazon.com/images/I/61TMlV-7DpL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Conair Double Ceramic Curling Iron" },
     description: { en: "The Conair Double Ceramic is the value workhorse — a straightforward 1.25-inch clamp curling iron with a ceramic coating for even heat, multiple heat settings, and fast heat-up, a…" },
@@ -41237,6 +41286,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "bed-head-curlipops-clamp",
+    imageUrl: "https://m.media-amazon.com/images/I/61FkmhcrYYL._SL1500_.jpg",
     category: "beauty",
     name: { en: "Bed Head Curlipops Clamp" },
     description: { en: "The Bed Head Curlipops is the fun, cheap entry point — typically a 1-inch clamp iron with a tourmaline-ceramic barrel and simple heat control, aimed at beginners and occasional us…" },
@@ -41247,6 +41297,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "cuisinart-cdf-200",
+    imageUrl: "https://m.media-amazon.com/images/I/81bbbTMK7pL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Cuisinart Cdf 200" },
     description: { en: "The Cuisinart CDF-200 balances proper capacity, accurate temperature control, and manageable cleanup at a sensible price." },
@@ -41257,6 +41308,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "t-fal-ultimate-ez-clean",
+    imageUrl: "https://m.media-amazon.com/images/I/41QTSd4A8lL._AC_.jpg",
     category: "food",
     name: { en: "T Fal Ultimate Ez Clean" },
     description: { en: "The T-fal Ultimate EZ Clean is built around solving the main objection to deep fryers: the oil cleanup." },
@@ -41267,6 +41319,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "presto-frydaddy",
+    imageUrl: "https://m.media-amazon.com/images/I/71oUMvTYX9L.jpg",
     category: "food",
     name: { en: "Presto Frydaddy" },
     description: { en: "The Presto FryDaddy is the compact, simple, budget pick for small households and occasional frying." },
@@ -41277,6 +41330,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "breville-smart-fryer",
+    imageUrl: "https://m.media-amazon.com/images/I/51EpeSr0+bL._AC_SX679_.jpg",
     category: "food",
     name: { en: "Breville Smart Fryer" },
     description: { en: "The Breville Smart Fryer is the premium pick for precision and quality results above all." },
@@ -41287,6 +41341,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "hamilton-beach-deep-fryer",
+    imageUrl: "https://m.media-amazon.com/images/I/81ADRpBl8hL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Hamilton Beach Deep Fryer" },
     description: { en: "The Hamilton Beach Deep Fryer is the high-capacity value pick for larger households or bigger batches." },
@@ -41297,6 +41352,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ubbi-steel-diaper-pail",
+    imageUrl: "https://m.media-amazon.com/images/I/714L4V1hgML._AC_.jpg",
     category: "parenting",
     name: { en: "Ubbi Steel Diaper Pail" },
     description: { en: "The Ubbi Steel Diaper Pail solves odor differently and frees you from proprietary refills." },
@@ -41307,6 +41363,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "diaper-genie-complete",
+    imageUrl: "https://m.media-amazon.com/images/I/71KXR2Rvu4S._AC_SL1500_.jpg",
     category: "parenting",
     name: { en: "Genie Complete" },
     description: { en: "The Diaper Genie Complete is the benchmark for maximum odor containment and the most popular pail for good reason." },
@@ -41317,6 +41374,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "munchkin-step-diaper-pail",
+    imageUrl: "https://m.media-amazon.com/images/I/71CfMQJJoHL.jpg",
     category: "parenting",
     name: { en: "Munchkin Step Diaper Pail" },
     description: { en: "The Munchkin Step Diaper Pail is the hands-free convenience pick." },
@@ -41327,6 +41385,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dekor-plus-diaper-pail",
+    imageUrl: "https://m.media-amazon.com/images/I/71tBB9Fi7JL.jpg",
     category: "parenting",
     name: { en: "Dekor Plus Diaper Pail" },
     description: { en: "The Dekor Plus is the high-capacity, easy-to-use pick favoured for its hands-free flap and continuous-liner system." },
@@ -41337,6 +41396,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "playtex-diaper-genie-elite",
+    imageUrl: "https://smartcanucks.ca/wp-content/uploads/2015/12/amazon-diaper-genie-elite.png",
     category: "parenting",
     name: { en: "Playtex Diaper Genie Elite" },
     description: { en: "The Diaper Genie Elite is the step-up Diaper Genie for those who want the brand's strong odor sealing with added convenience — a foot-pedal, hands-free version with the same effec…" },
@@ -41347,6 +41407,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "fujitsu-scansnap-ix1600",
+    imageUrl: "https://m.media-amazon.com/images/I/71ANAigae8L._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Fujitsu Scansnap Ix1600" },
     description: { en: "The Fujitsu ScanSnap iX1600 is the gold standard for home and small-office paperless work." },
@@ -41357,6 +41418,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "epson-workforce-es-580w",
+    imageUrl: "https://m.media-amazon.com/images/I/71VqULP-ddL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Epson Workforce Es 580w" },
     description: { en: "The Epson WorkForce ES-580W is the pick for business and higher-volume scanning, with professional-grade speed and capacity." },
@@ -41367,6 +41429,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "brother-ads-1700w",
+    imageUrl: "https://m.media-amazon.com/images/I/61A7pL1AecL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Brother Ads 1700w" },
     description: { en: "The Brother ADS-1700W is the compact all-rounder balancing capability, a small footprint, and value." },
@@ -41377,6 +41440,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "canon-imageformula-r40",
+    imageUrl: "https://m.media-amazon.com/images/I/71SEM0xhQjL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Canon Imageformula R40" },
     description: { en: "The Canon imageFORMULA R40 is the dependable, straightforward pick for reliable duplex document scanning without a premium price or software complexity." },
@@ -41387,6 +41451,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "raven-pro-document-scanner",
+    imageUrl: "https://m.media-amazon.com/images/I/61H8qpP11OL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Raven Pro Document Scanner" },
     description: { en: "The Raven Pro Document Scanner is the pick for a large built-in touchscreen and standalone, computer-free operation." },
@@ -41397,6 +41462,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tractive-gps-dog-tracker",
+    imageUrl: "https://m.media-amazon.com/images/I/71TAY+WrciL._AC_SL1500_.jpg",
     category: "pets",
     name: { en: "Tractive Gps Dog Tracker" },
     description: { en: "The Tractive GPS Dog Tracker does the core job — real-time, unlimited-range location tracking — better and more affordably than anyone." },
@@ -41407,6 +41473,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "fi-series-3-smart-collar",
+    imageUrl: "https://m.media-amazon.com/images/I/71pnXb7zzCL._AC_SL1500_.jpg",
     category: "pets",
     name: { en: "Fi Series 3 Smart Collar" },
     description: { en: "The Fi Series 3 is the pick for GPS tracking built into a premium smart collar with exceptional battery life and top-tier escape detection." },
@@ -41417,6 +41484,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "whistle-go-explore-2",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/095ec84c-9979-4d8d-aa94-57c8dc4bc548.__CR0,0,970,600_PT0_SX970_V1___.png",
     category: "pets",
     name: { en: "Whistle Go Explore 2" },
     description: { en: "The Whistle Go Explore 2 is the strong all-rounder balancing GPS tracking with the most comprehensive health monitoring." },
@@ -41427,6 +41495,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "garmin-alpha-200i",
+    imageUrl: "https://m.media-amazon.com/images/I/61c2zMmoxLL._AC_SL1315_.jpg",
     category: "pets",
     name: { en: "Garmin Alpha 200i" },
     description: { en: "The Garmin Alpha 200i is the no-subscription, no-coverage king for serious users — a completely different and far more expensive category." },
@@ -41437,6 +41506,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "jiobit-smart-tag",
+    imageUrl: "https://people.com/thmb/LFBiueMs92pzTDka_b6YoOzHUzo=/fit-in/1500x1001/filters:no_upscale():max_bytes(150000):strip_icc()/Jiobit-Smart-Tag-9dde340e77fb46dca123929f1f6daa17.jpg",
     category: "pets",
     name: { en: "Jiobit Smart Tag" },
     description: { en: "The Jiobit is the compact hybrid pick — originally designed for tracking kids and vulnerable family members but widely used for small dogs and cats too." },
@@ -41447,6 +41517,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "petsafe-happy-ride-folding-ramp",
+    imageUrl: "https://m.media-amazon.com/images/I/61kviOqic6L._AC_.jpg",
     category: "pets",
     name: { en: "Petsafe Happy Ride Folding Ramp" },
     description: { en: "The PetSafe Happy Ride Folding Ramp balances a high weight capacity, a secure grippy surface, genuine stability, and easy portability at a reasonable price from a trusted brand." },
@@ -41457,6 +41528,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "gen7pets-natural-step-ramp",
+    imageUrl: "",
     category: "pets",
     name: { en: "Gen7pets Natural Step Ramp" },
     description: { en: "The Gen7Pets Natural Step Ramp is the pick for indoor, in-home use — helping dogs reach beds, sofas, and windows — with a focus on style and a gentle, stair-like design." },
@@ -41467,6 +41539,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "petstep-original-ramp",
+    imageUrl: "https://m.media-amazon.com/images/I/81aQyzE2h3L._AC_.jpg",
     category: "pets",
     name: { en: "Petstep Original Ramp" },
     description: { en: "The PetStep Original is the heavy-duty, premium pick built for big dogs, demanding use, and longevity." },
@@ -41477,6 +41550,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "alpha-paw-dog-ramp",
+    imageUrl: "http://www.alphapaw.com/cdn/shop/files/TheDachramp.jpg?v=1699282628",
     category: "pets",
     name: { en: "Alpha Paw Dog Ramp" },
     description: { en: "The Alpha Paw Dog Ramp is the pick for a thoughtfully-designed ramp focused on a gentle incline and ease for senior and recovering dogs." },
@@ -41487,6 +41561,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frisco-foldable-dog-ramp",
+    imageUrl: "https://m.media-amazon.com/images/I/71TQNUkC-TL._AC_UF1000,1000_QL80_.jpg",
     category: "pets",
     name: { en: "Frisco Foldable Dog Ramp" },
     description: { en: "The Frisco Foldable Dog Ramp is the budget champion — a dependable, functional folding ramp at a notably low price for someone who wants the core benefit without spending much." },
@@ -41497,6 +41572,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kindle-paperwhite-2024",
+    imageUrl: "https://comprarmag.com/wp-content/uploads/2025/07/Amazon-Kindle-Paperwhite-16GB-2024-Black-705x705.jpeg",
     category: "tech",
     name: { en: "Kindle Paperwhite" },
     description: { en: "The Kindle Paperwhite (2024) is the best e-reader for most people." },
@@ -41507,6 +41583,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kobo-clara-colour",
+    imageUrl: "https://m.media-amazon.com/images/I/51RQkcge1GL.jpg",
     category: "tech",
     name: { en: "Kobo Clara Colour" },
     description: { en: "The Kobo Clara Colour is the pick for readers who borrow from the library and want store freedom." },
@@ -41517,6 +41594,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kindle-oasis",
+    imageUrl: "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6356/6356804cv14d.jpg",
     category: "tech",
     name: { en: "Kindle Oasis" },
     description: { en: "The Kindle Oasis is the premium Kindle for readers who want physical page-turn buttons and ergonomic one-handed reading." },
@@ -41527,6 +41605,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "boox-palma-2",
+    imageUrl: "https://m.media-amazon.com/images/I/51c-HufyOlL._AC_SL1000_.jpg",
     category: "tech",
     name: { en: "Boox Palma 2" },
     description: { en: "The Boox Palma 2 is the store-agnostic wildcard — a full Android e-reader the size and shape of a smartphone (no SIM) with a 6-inch black-and-white E Ink screen." },
@@ -41537,6 +41616,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kobo-libra-colour",
+    imageUrl: "https://m.media-amazon.com/images/I/71yGp5a5PdL.jpg",
     category: "tech",
     name: { en: "Kobo Libra Colour" },
     description: { en: "The Kobo Libra Colour is the flexible step-up — a larger 7-inch color E Ink screen with physical page-turn buttons, optional stylus support for margin notes and highlights, and th…" },
@@ -41547,6 +41627,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "segway-ninebot-max-g2",
+    imageUrl: "https://m.media-amazon.com/images/I/51nSbrGiQ4L._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Segway Ninebot Max G2" },
     description: { en: "The Segway Ninebot Max G2 is the best commuter scooter, combining genuinely usable long range with the reliability and support of the dominant brand." },
@@ -41557,6 +41638,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "apollo-city",
+    imageUrl: "https://m.media-amazon.com/images/I/814dTMpxOWL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Apollo City" },
     description: { en: "The Apollo City is the pick for riders who prioritise ride comfort and build quality." },
@@ -41567,6 +41649,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "niu-kqi3-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/51kCgjPuooL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Niu Kqi3 Pro" },
     description: { en: "The NIU KQi3 Pro is the stylish, well-balanced mid-range pick." },
@@ -41577,6 +41660,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "gotrax-gxl-v2",
+    imageUrl: "https://m.media-amazon.com/images/I/61PydAGLjQL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Gotrax Gxl V2" },
     description: { en: "The Gotrax GXL V2 is the budget entry point for trying scooter commuting without a big outlay." },
@@ -41587,6 +41671,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "xiaomi-electric-scooter-4-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/61k5iBneZnL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Xiaomi Electric Scooter 4 Pro" },
     description: { en: "The Xiaomi Electric Scooter 4 Pro is the value flagship that competes with the Segway on range and features for often a bit less." },
@@ -41597,6 +41682,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "urban-decay-naked-palette",
+    imageUrl: "https://m.media-amazon.com/images/I/81yqc88khES._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Urban Decay Naked Palette" },
     description: { en: "The Urban Decay Naked palette set the standard for versatile everyday neutrals that genuinely perform." },
@@ -41607,6 +41693,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "anastasia-soft-glam",
+    imageUrl: "https://m.media-amazon.com/images/I/61iPggBRp8L._SL1376_.jpg",
     category: "beauty",
     name: { en: "Anastasia Soft Glam" },
     description: { en: "The Anastasia Soft Glam palette is the pick for polished, defined, glamorous eyes — the warm-neutral aesthetic that dominates wedding, event, and night-out makeup." },
@@ -41617,6 +41704,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "huda-beauty-rose-gold",
+    imageUrl: "https://m.media-amazon.com/images/I/71jDuQyByIL.jpg",
     category: "beauty",
     name: { en: "Huda Beauty Rose Gold" },
     description: { en: "The Huda Beauty Rose Gold palette is the pick for intense colour and dramatic, statement looks." },
@@ -41627,6 +41715,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "natasha-denona-mini",
+    imageUrl: "https://m.media-amazon.com/images/I/61nIiz9xcDL._SL1000_.jpg",
     category: "beauty",
     name: { en: "Natasha Denona Mini" },
     description: { en: "The Natasha Denona Mini palette offers the brand's legendary formula in an accessible, smaller format." },
@@ -41637,6 +41726,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "colourpop-going-coconuts",
+    imageUrl: "https://m.media-amazon.com/images/I/61dZkJKYqvL._SL1500_.jpg",
     category: "beauty",
     name: { en: "Colourpop Going Coconuts" },
     description: { en: "The ColourPop Going Coconuts palette is the budget champion that punches absurdly above its price." },
@@ -41647,6 +41737,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "nanosteamer-3-in-1",
+    imageUrl: "https://m.media-amazon.com/images/I/61ImClcuJCL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Nanosteamer 3 In 1" },
     description: { en: "The NanoSteamer 3-in-1 pairs effective nano-ionic steam with genuine versatility at a fair price." },
@@ -41657,6 +41748,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "vanity-planet-aira",
+    imageUrl: "https://m.media-amazon.com/images/I/51ibWmP6h4L._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Vanity Planet Aira" },
     description: { en: "The Vanity Planet Aira is the pick for an attractive, well-designed nano-ionic steamer that looks good on a counter and is pleasant to use." },
@@ -41667,6 +41759,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dr-dennis-gross-pro-steamer",
+    imageUrl: "https://m.media-amazon.com/images/I/71GmtUM5qBL._SL1500_.jpg",
     category: "beauty",
     name: { en: "Dr Dennis Gross Pro Steamer" },
     description: { en: "The Dr Dennis Gross Pro Facial Steamer is the premium, dermatologist-brand pick for the most refined, spa-grade experience." },
@@ -41677,6 +41770,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "pure-daily-care-nano-ionic",
+    imageUrl: "https://m.media-amazon.com/images/I/71vpvtLCm0L._AC_.jpg",
     category: "beauty",
     name: { en: "Pure Daily Care Nano Ionic" },
     description: { en: "The Pure Daily Care Nano Ionic steamer is a strong value alternative to the NanoSteamer, with a very similar nano-ionic approach, fast heat-up, a good run time, and often a bundle…" },
@@ -41687,6 +41781,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kingdomcares-warm-mist-steamer",
+    imageUrl: "https://m.media-amazon.com/images/I/61sjiAA-2qL._SX679_.jpg",
     category: "beauty",
     name: { en: "Kingdomcares Warm Mist Steamer" },
     description: { en: "The KingdomCares Warm Mist Steamer represents the simple, low-cost end — a basic warm-mist facial steamer that delivers a pleasant hydrating steam at a low price without nano-ioni…" },
@@ -41697,6 +41792,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "patagonia-better-sweater",
+    imageUrl: "https://m.media-amazon.com/images/I/916+oB1D8wL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Patagonia Better Sweater" },
     description: { en: "The Patagonia Better Sweater nails the balance of warmth, style, durability, and versatility — and looks good enough to wear as an everyday jacket, not just on a hike." },
@@ -41707,6 +41803,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "the-north-face-denali",
+    imageUrl: "https://m.media-amazon.com/images/I/51E9+CSDmBL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "The North Face Denali" },
     description: { en: "The North Face Denali is the warmest, most rugged pick — a thick, dense fleece jacket built for serious cold and hard wear." },
@@ -41717,6 +41814,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "columbia-steens-mountain",
+    imageUrl: "https://m.media-amazon.com/images/I/71Og5cS1+pL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Columbia Steens Mountain" },
     description: { en: "The Columbia Steens Mountain is the value workhorse — a soft, warm, comfortable everyday fleece at a fraction of premium prices, and a perennial best-seller." },
@@ -41727,6 +41825,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "l-l-bean-sherpa-fleece",
+    imageUrl: "https://m.media-amazon.com/images/I/71ZtPnbxALL._SX700_.jpg",
     category: "fashion",
     name: { en: "L L Bean Sherpa Fleece" },
     description: { en: "The L.L.Bean Sherpa Fleece is the cosy, comfortable classic for someone who wants maximum softness and that plush teddy-bear feel for casual, everyday warmth." },
@@ -41737,6 +41836,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kuhl-alfpaca-fleece",
+    imageUrl: "https://di2ponv0v5otw.cloudfront.net/posts/2025/11/15/6918ddfc7fc826fe1d16206b/m_6918de5f5919e044375a5dbd.jpeg",
     category: "fashion",
     name: { en: "Kuhl Alfpaca Fleece" },
     description: { en: "The Kühl Alfpaca is the premium technical-and-stylish pick for someone who wants standout fabric, a flattering fit, and a more design-forward look." },
@@ -41747,6 +41847,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "wacom-intuos-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/61kKsUeEMoL._AC_SL1000_.jpg",
     category: "tech",
     name: { en: "Wacom Intuos Pro" },
     description: { en: "The Wacom Intuos Pro is the best screenless tablet and the professional standard." },
@@ -41757,6 +41858,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "xp-pen-deco-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/51OFAw73YqL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Xp Pen Deco Pro" },
     description: { en: "The XP-Pen Deco Pro delivers most of the Wacom screenless experience for a fraction of the price." },
@@ -41767,6 +41869,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "huion-kamvas-13",
+    imageUrl: "https://m.media-amazon.com/images/I/61ChXz7sv1L._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Huion Kamvas 13" },
     description: { en: "The Huion Kamvas 13 is the best value way to draw directly on a screen — a pen display where the image appears on the tablet itself, so you draw right onto your artwork like paper…" },
@@ -41777,6 +41880,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "wacom-one-12",
+    imageUrl: "https://m.media-amazon.com/images/I/71Phsin+iDL._AC_.jpg",
     category: "tech",
     name: { en: "Wacom One 12" },
     description: { en: "The Wacom One 12 is the entry point into Wacom's pen displays — a 12-inch screen tablet bringing Wacom's trusted pen technology, driver reliability, and build quality to direct-on…" },
@@ -41787,6 +41891,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "gaomon-m10k",
+    imageUrl: "https://m.media-amazon.com/images/I/61MYn3yxUyL._AC_SL1000_.jpg",
     category: "tech",
     name: { en: "Gaomon M10k" },
     description: { en: "The GAOMON M10K is the rock-bottom budget pick — a large screenless pen pad with surprisingly capable specs (high pressure sensitivity, tilt on many models, a generous active area…" },
@@ -41797,6 +41902,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "braun-silk-expert-pro-5",
+    imageUrl: "https://m.media-amazon.com/images/I/71tOqXZ5juL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Braun Silk Expert Pro 5" },
     description: { en: "The Braun Silk-expert Pro 5 pairs fast, reliable results with the smartest safety system." },
@@ -41807,6 +41913,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "philips-lumea-prestige",
+    imageUrl: "https://m.media-amazon.com/images/I/81nI-uhl1hL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Philips Lumea Prestige" },
     description: { en: "The Philips Lumea Prestige is the Braun's closest rival and the other premium heavyweight." },
@@ -41817,6 +41924,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ulike-air-3-ipl",
+    imageUrl: "https://m.media-amazon.com/images/I/514wbKNumxL._SL1500_.jpg",
     category: "beauty",
     name: { en: "Ulike Air 3 Ipl" },
     description: { en: "The Ulike Air 3 competes on speed and comfort." },
@@ -41827,6 +41935,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tria-hair-removal-laser-4x",
+    imageUrl: "https://m.media-amazon.com/images/I/71N0vBRtOFL._SL1500_.jpg",
     category: "beauty",
     name: { en: "Tria Hair Removal Laser 4x" },
     description: { en: "The Tria Hair Removal Laser 4X is the outlier because it uses an actual diode laser rather than IPL." },
@@ -41837,6 +41946,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "nood-the-flasher-2-0",
+    imageUrl: "https://m.media-amazon.com/images/I/71J+tc85bfL._SL1500_.jpg",
     category: "beauty",
     name: { en: "Nood The Flasher 2 0" },
     description: { en: "The Nood The Flasher 2.0 is the value and simplicity pick — a clean, minimalist IPL device with unlimited flashes (no cartridge to replace), a straightforward design, and an acces…" },
@@ -41847,6 +41957,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "puro-bt2200s-kids",
+    imageUrl: "https://m.media-amazon.com/images/I/61KDL3mek2L._AC_.jpg",
     category: "parenting",
     name: { en: "Puro Bt2200s Kids" },
     description: { en: "The Puro BT2200s takes hearing protection seriously without compromising sound." },
@@ -41857,6 +41968,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "lilgadgets-untangled-pro",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A3PH2ZZWEREN9B/63bc375a-16a7-41ef-b0ea-d424ba4de70a._CR0,0,1200,1200_PT0_SX300__.png",
     category: "parenting",
     name: { en: "Lilgadgets Untangled Pro" },
     description: { en: "The LilGadgets Untangled Pro is the family-and-sharing pick — a wireless kids' headphone with volume limiting in the safe range, a comfortable padded fit for small heads, and its…" },
@@ -41867,6 +41979,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "jbl-jr310bt-kids",
+    imageUrl: "https://m.media-amazon.com/images/I/619jjtz53JL._AC_SL1500_.jpg",
     category: "parenting",
     name: { en: "Jbl Jr310bt Kids" },
     description: { en: "The JBL JR310 is the value champion and the sensible default for most families — an affordable, durable kids' headphone with a safe ~85 dB limit and JBL's reliable safe-sound tuni…" },
@@ -41877,6 +41990,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "philips-kids-wireless-headphones",
+    imageUrl: "https://m.media-amazon.com/images/I/51aG794jOgL._AC_SL1200_.jpg",
     category: "parenting",
     name: { en: "Philips Kids Wireless Headphones" },
     description: { en: "The Philips Kids Wireless Headphones are the reliable mainstream pick from a trusted electronics brand." },
@@ -41887,6 +42001,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "belkin-soundform-mini-kids",
+    imageUrl: "https://m.media-amazon.com/images/I/61Cfk833tUL._AC_SL1500_.jpg",
     category: "parenting",
     name: { en: "Belkin Soundform Mini Kids" },
     description: { en: "The Belkin SoundForm Mini is the pick for younger children and smaller heads." },
@@ -41897,6 +42012,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "brother-p-touch-cube-plus",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media/vc/ac2dd308-f795-4230-87c6-38f9f59c1489.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
     category: "tech",
     name: { en: "Brother P Touch Cube Plus" },
     description: { en: "The Brother P-touch Cube Plus combines phone-app convenience with the durability of Brother's proven laminated TZe tape." },
@@ -41907,6 +42023,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dymo-labelmanager-160",
+    imageUrl: "https://m.media-amazon.com/images/I/71klxrHsXiL.jpg",
     category: "tech",
     name: { en: "Dymo Labelmanager 160" },
     description: { en: "The DYMO LabelManager 160 is the pick for a simple, self-contained handheld with a built-in keyboard and no app required." },
@@ -41917,6 +42034,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "niimbot-d110",
+    imageUrl: "https://m.media-amazon.com/images/I/61yTtcBKu4L._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Niimbot D110" },
     description: { en: "The NIIMBOT D110 is the trendy, ultra-portable thermal label maker that became hugely popular for home organisation, and its big appeal is no ink and no expensive cartridges." },
@@ -41927,6 +42045,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "brother-pt-d610bt",
+    imageUrl: "https://m.media-amazon.com/images/I/710q0AxSzGL._AC_.jpg",
     category: "tech",
     name: { en: "Brother Pt D610bt" },
     description: { en: "The Brother PT-D610BT is the connected upgrade offering both a built-in keyboard and phone-app design in one device." },
@@ -41937,6 +42056,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dymo-letratag-200b",
+    imageUrl: "https://m.media-amazon.com/images/I/71AJv9aDFKL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Dymo Letratag 200b" },
     description: { en: "The DYMO LetraTag 200B is the budget basic pick — an affordable, simple Bluetooth label maker for light home use." },
@@ -41947,6 +42067,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "charlotte-tilbury-pillow-talk",
+    imageUrl: "https://m.media-amazon.com/images/I/51rVP9lKwgL._SL1000_.jpg",
     category: "beauty",
     name: { en: "Charlotte Tilbury Pillow Talk" },
     description: { en: "The Charlotte Tilbury Matte Revolution in Pillow Talk solves the matte-versus-comfort problem better than almost anything — a sophisticated soft-matte finish that doesn't dry out…" },
@@ -41957,6 +42078,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "mac-matte-lipstick",
+    imageUrl: "https://m.media-amazon.com/images/I/51zNKJoEnJL._AC_.jpg",
     category: "beauty",
     name: { en: "Mac Matte Lipstick" },
     description: { en: "The MAC Matte Lipstick is the industry icon and the pick for the widest shade range and proven, professional-grade colour." },
@@ -41967,6 +42089,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "fenty-stunna-lip-paint",
+    imageUrl: "https://m.media-amazon.com/images/I/510hSXWrRVL._AC_.jpg",
     category: "beauty",
     name: { en: "Fenty Stunna Lip Paint" },
     description: { en: "The Fenty Beauty Stunna Lip Paint is the pick for bold, high-impact colour with long wear that's more comfortable than most liquid mattes." },
@@ -41977,6 +42100,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "maybelline-superstay-matte-ink",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media/vc/09ca1d6f-cad8-4323-8b87-e0dc789f8622.jpg",
     category: "beauty",
     name: { en: "Maybelline Superstay Matte Ink" },
     description: { en: "The Maybelline SuperStay Matte Ink is the longevity champion and the best value, period." },
@@ -41987,6 +42111,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "nars-audacious-lipstick",
+    imageUrl: "https://m.media-amazon.com/images/I/71tCd75gJWL._AC_.jpg",
     category: "beauty",
     name: { en: "Nars Audacious Lipstick" },
     description: { en: "The NARS Audacious Lipstick is the luxury satin pick for someone who prioritises a comfortable, creamy, moisturising feel and a refined satin finish over flat matte or maximum lon…" },
@@ -41997,6 +42122,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "real-techniques-everyday-essentials",
+    imageUrl: "https://m.media-amazon.com/images/I/71Ao5asna-L._SL1500_.jpg",
     category: "beauty",
     name: { en: "Real Techniques Everyday Essentials" },
     description: { en: "The Real Techniques Everyday Essentials set gives you exactly the brushes you use — and nothing you don't — at a genuinely affordable price." },
@@ -42007,6 +42133,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "sigma-essential-brush-kit",
+    imageUrl: "https://m.media-amazon.com/images/I/71di8nSdL1L._AC_SX679_.jpg",
     category: "beauty",
     name: { en: "Sigma Essential Brush Kit" },
     description: { en: "The Sigma Essential Brush Kit is for enthusiasts and professionals who want premium, durable brushes that last for years." },
@@ -42017,6 +42144,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "morphe-set-561",
+    imageUrl: "https://m.media-amazon.com/images/I/81eynGtIa7L._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Morphe Set 561" },
     description: { en: "The Morphe Set 561 is the high-count, high-value pick beloved for getting a large number of brushes for the money." },
@@ -42027,6 +42155,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "eco-tools-starter-kit",
+    imageUrl: "https://m.media-amazon.com/images/I/81WTdZIlZpL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Eco Tools Starter Kit" },
     description: { en: "The EcoTools Starter Kit is the eco-conscious and gentle pick." },
@@ -42037,6 +42166,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "bs-mall-brush-set",
+    imageUrl: "https://m.media-amazon.com/images/I/71Jh34v75iL._AC_.jpg",
     category: "beauty",
     name: { en: "Bs Mall Brush Set" },
     description: { en: "The BS-MALL Brush Set is the maximum-quantity budget bundle — typically a large set of 14 or more brushes at a remarkably low price, in pretty marble or coloured handles." },
@@ -42047,6 +42177,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "simplehuman-sensor-mirror-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/81qrj2pgZLL._AC_.jpg",
     category: "beauty",
     name: { en: "Simplehuman Sensor Mirror Pro" },
     description: { en: "The simplehuman Sensor Mirror Pro nails the thing that matters most: light accuracy." },
@@ -42057,6 +42188,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "fenchilin-hollywood-vanity-mirror",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bbc3755c-837a-42d4-bc07-ce4510efc68c.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     category: "beauty",
     name: { en: "Fenchilin Hollywood Vanity Mirror" },
     description: { en: "The Fenchilin Hollywood Vanity Mirror delivers the glamorous, bulb-lined 'getting ready' look for a fraction of celebrity-mirror prices." },
@@ -42067,6 +42199,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "conair-reflections-led-mirror",
+    imageUrl: "https://m.media-amazon.com/images/I/714150fiGRL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Conair Reflections Led Mirror" },
     description: { en: "The Conair Reflections LED Mirror is the reliable mid-range desktop pick — a double-sided mirror with a true-image side and a magnified side on a stand, ringed with even LED light…" },
@@ -42077,6 +42210,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "deweisn-trifold-lighted-mirror",
+    imageUrl: "https://m.media-amazon.com/images/I/61UWfcD88AL._SL1500_.jpg",
     category: "beauty",
     name: { en: "Deweisn Trifold Lighted Mirror" },
     description: { en: "The DeWeisn Trifold Lighted Mirror is the travel and detail-work specialist." },
@@ -42087,6 +42221,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "amiro-led-makeup-mirror",
+    imageUrl: "https://m.media-amazon.com/images/I/61UQvOHJyaL._AC_SX522_.jpg",
     category: "beauty",
     name: { en: "Amiro Led Makeup Mirror" },
     description: { en: "The Amiro LED Makeup Mirror is the modern smart-design pick, built around accurate, daylight-style LED lighting in a sleek minimalist frame, often with rechargeable operation, ste…" },
@@ -42097,6 +42232,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "saatva-organic-mattress-protector",
+    imageUrl: "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TmrIb.img?w=768&h=768&m=6",
     category: "home",
     name: { en: "Saatva Organic Mattress Protector" },
     description: { en: "The Saatva Organic Mattress Protector delivers genuine waterproof protection without the heat and noise that ruin cheap protectors." },
@@ -42107,6 +42243,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "coop-home-goods-protector",
+    imageUrl: "https://m.media-amazon.com/images/I/61JGjjYLcQL._AC_SL1000_.jpg",
     category: "home",
     name: { en: "Coop Home Goods Protector" },
     description: { en: "The Coop Home Goods Mattress Protector is the well-rounded pick from a trusted sleep brand, balancing reliable waterproofing with breathability and a soft, quiet feel at a sensibl…" },
@@ -42117,6 +42254,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "sureguard-mattress-protector",
+    imageUrl: "https://m.media-amazon.com/images/I/71A2S5XWJfL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Sureguard Mattress Protector" },
     description: { en: "The SureGuard Mattress Protector (zippered encasement version) is the pick for maximum protection, especially against bed bugs, dust mites, and allergens." },
@@ -42127,6 +42265,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "linenspa-zippered-encasement",
+    imageUrl: "https://m.media-amazon.com/images/I/71LTpncmYcL._AC_SX679_.jpg",
     category: "home",
     name: { en: "Linenspa Zippered Encasement" },
     description: { en: "The Linenspa Zippered Encasement is the budget champion — full six-sided zippered encasement protection at a notably low price." },
@@ -42137,6 +42276,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "slumbercloud-dryline-protector",
+    imageUrl: "https://i.ytimg.com/vi/LSjhJ7RtVsM/maxresdefault.jpg",
     category: "home",
     name: { en: "Slumbercloud Dryline Protector" },
     description: { en: "The SlumberCloud Dryline Protector is the pick for hot sleepers, adding active temperature regulation to waterproof protection." },
@@ -42147,6 +42287,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "eero-pro-6e",
+    imageUrl: "https://m.media-amazon.com/images/G/01/kindle/journeys/2BR2B2FWB9Vs8OTH7pEdy82FcLEszlijP4L3FUY1r71tP1Y3D/YWMzOTZkZGUt._CB625639524_.jpg",
     category: "tech",
     name: { en: "Eero Pro 6e" },
     description: { en: "The eero Pro 6E is the best mesh system for most homes, combining the easiest setup in the category with tri-band Wi-Fi 6E performance and a clutter-free design." },
@@ -42157,6 +42298,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tp-link-deco-xe75",
+    imageUrl: "https://m.media-amazon.com/images/I/61UmDYxwd4L.jpg",
     category: "tech",
     name: { en: "Tp Link Deco Xe75" },
     description: { en: "The TP-Link Deco XE75 is the value leader — a tri-band Wi-Fi 6E mesh that covers a large home for noticeably less than eero or Orbi, with a friendly app, easy setup, and multiple…" },
@@ -42167,6 +42309,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "netgear-orbi-rbk763s",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fa98e650-2dea-427b-be89-eea489c5385e.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
     category: "tech",
     name: { en: "Netgear Orbi Rbk763s" },
     description: { en: "The Netgear Orbi RBK763S is the performance and coverage champion for big houses." },
@@ -42177,6 +42320,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "asus-zenwifi-xt9",
+    imageUrl: "https://m.media-amazon.com/images/I/81ahYdW373L._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Asus Zenwifi Xt9" },
     description: { en: "The ASUS ZenWiFi XT9 is the enthusiast's mesh, running AiMesh firmware that exposes the deep controls the consumer-friendly systems hide — granular QoS, VPN server and client, det…" },
@@ -42187,6 +42331,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "amazon-eero-6-plus",
+    imageUrl: "https://m.media-amazon.com/images/I/51j6of8nYIL._SL1000_.jpg",
     category: "tech",
     name: { en: "Amazon Eero 6 Plus" },
     description: { en: "The eero 6+ is the budget entry into the eero ecosystem — a dual-band Wi-Fi 6 system that brings the same effortless setup and seamless handoff to smaller homes and apartments for…" },
@@ -42197,6 +42342,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "toshiba-em131a5c",
+    imageUrl: "https://m.media-amazon.com/images/I/618MeTAoluL.jpg",
     category: "food",
     name: { en: "Toshiba Em131a5c" },
     description: { en: "The Toshiba EM131A5C delivers genuinely useful features at a mid-range price that's excellent value." },
@@ -42207,6 +42353,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "panasonic-nn-sn966s-inverter",
+    imageUrl: "https://m.media-amazon.com/images/I/41n+3ZuChHS._AC_SX679_.jpg",
     category: "food",
     name: { en: "Panasonic Nn Sn966s Inverter" },
     description: { en: "The Panasonic NN-SN966S is the pick for even, gentle cooking and defrosting, because its inverter technology is a genuine functional upgrade." },
@@ -42217,6 +42364,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "breville-combi-wave-3-in-1",
+    imageUrl: "https://m.media-amazon.com/images/I/81pA7bWvAbL.jpg",
     category: "food",
     name: { en: "Breville Combi Wave 3 In 1" },
     description: { en: "The Breville Combi Wave 3-in-1 is the premium pick that replaces three appliances — a microwave, a convection oven, and an air fryer in one." },
@@ -42227,6 +42375,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ge-jes1072shss",
+    imageUrl: "https://m.media-amazon.com/images/I/71eTHpTZ7ZL._AC_.jpg",
     category: "food",
     name: { en: "Ge Jes1072shss" },
     description: { en: "The GE JES1072SHSS is the compact, space-saving pick for small kitchens, dorms, offices, and anywhere counter space is tight." },
@@ -42237,6 +42386,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "commercial-chef-countertop",
+    imageUrl: "https://m.media-amazon.com/images/I/71FTaobH52L._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Commercial Chef Countertop" },
     description: { en: "The Commercial Chef Countertop is the rock-bottom budget pick — a basic, functional microwave at the lowest price for someone who just wants to reheat and defrost without spending…" },
@@ -42247,6 +42397,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "breville-milk-cafe",
+    imageUrl: "https://m.media-amazon.com/images/I/51RjG6URFEL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Breville Milk Cafe" },
     description: { en: "The Breville Milk Café is the best standalone frother because it makes genuine barista-quality microfoam — the silky, pourable milk for actual latte art — not the stiff, dry foam…" },
@@ -42257,6 +42408,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "nespresso-aeroccino-4",
+    imageUrl: "https://m.media-amazon.com/images/I/61ocYSTduVL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Nespresso Aeroccino 4" },
     description: { en: "The Nespresso Aeroccino 4 is the pick for effortless one-touch frothing and the natural companion to a Nespresso machine." },
@@ -42267,6 +42419,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "secura-electric-milk-frother",
+    imageUrl: "https://m.media-amazon.com/images/I/71t3OmELqlL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Secura Electric Milk Frother" },
     description: { en: "The Secura Electric Milk Frother is the value automatic — it delivers one-touch hot dense foam, hot airy foam, hot milk, and cold froth like the Aeroccino at a noticeably lower pr…" },
@@ -42277,6 +42430,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "zulay-handheld-milk-frother",
+    imageUrl: "https://m.media-amazon.com/images/I/71P7nK+YizL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Zulay Handheld Milk Frother" },
     description: { en: "The Zulay handheld milk frother is the $15 answer for minimalists and small spaces." },
@@ -42287,6 +42441,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "instant-milk-frother",
+    imageUrl: "https://m.media-amazon.com/images/I/51ZrZPsnebL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Instant Milk Frother" },
     description: { en: "The Instant Milk Frother is a capable automatic alternative with hot and cold froth settings, a non-stick detachable jug, and dishwasher-safe parts on some models that make cleanu…" },
@@ -42297,6 +42452,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dash-hot-air-popper",
+    imageUrl: "https://m.media-amazon.com/images/I/61NYkSArRjL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Dash Hot Air Popper" },
     description: { en: "The Dash Hot Air Popcorn Maker makes genuinely healthy, oil-free popcorn quickly and simply, in a cute compact design at a low price." },
@@ -42307,6 +42463,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "presto-poplite-air-popper",
+    imageUrl: "https://m.media-amazon.com/images/I/61CmJd8OJfL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Presto Poplite Air Popper" },
     description: { en: "The Presto PopLite is the value hot-air popper and a long-standing best-seller — essentially the Dash's more capacious, proven cousin." },
@@ -42317,6 +42474,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "cuisinart-easypop",
+    imageUrl: "https://m.media-amazon.com/images/I/71K87asuPlL._AC_SY679_.jpg",
     category: "food",
     name: { en: "Cuisinart Easypop" },
     description: { en: "The easiest, lowest-footprint option in this space is a collapsible silicone microwave popcorn maker: a silicone bowl you add kernels to and pop directly in the microwave with lit…" },
@@ -42327,6 +42485,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "west-bend-stir-crazy",
+    imageUrl: "https://m.media-amazon.com/images/I/71XH7pQP2oL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "West Bend Stir Crazy" },
     description: { en: "The West Bend Stir Crazy is the oil-popping pick for that rich, movie-theatre flavour rather than healthy plainness." },
@@ -42337,6 +42496,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "nostalgia-vintage-popcorn-cart",
+    imageUrl: "https://m.media-amazon.com/images/I/816F+oq3FsL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Nostalgia Vintage Popcorn Cart" },
     description: { en: "The Nostalgia Vintage Popcorn Cart is the retro statement pick for someone who wants the fun, the look, and the experience as much as the popcorn." },
@@ -42347,6 +42507,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "asus-zenscreen-mb16ahg",
+    imageUrl: "https://m.media-amazon.com/images/I/61twWqzfe5L._AC_SL1400_.jpg",
     category: "tech",
     name: { en: "Asus Zenscreen Mb16ahg" },
     description: { en: "The ASUS ZenScreen MB16AHG is the best all-round portable monitor because it gets the fundamentals right: a 15.6-inch 1080p IPS panel running at 144 Hz, powered and driven by a si…" },
@@ -42357,6 +42518,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "espresso-display-15-pro",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef566e22-f351-4caf-b257-1cf10bff041e.__CR0,12,1464,600_PT0_SX1464_V1___.png",
     category: "tech",
     name: { en: "Espresso Display 15 Pro" },
     description: { en: "The espresso Display 15 Pro is the premium pick for the Apple ecosystem — an extraordinarily thin (~5.3 mm) aluminium glass touchscreen that matches a MacBook on a desk." },
@@ -42367,6 +42529,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "lepow-c2s-15-6",
+    imageUrl: "https://m.media-amazon.com/images/I/713mRXgD3iL._AC_SY300_SX300_QL70_ML2_.jpg",
     category: "tech",
     name: { en: "Lepow C2s 15 6" },
     description: { en: "The Lepow C2S 15.6-inch is the value benchmark at around $90–$120 — a 1080p IPS panel with two USB-C ports, mini-HDMI, a magnetic smart cover that props it up, and single-cable US…" },
@@ -42377,6 +42540,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "viewsonic-td1655",
+    imageUrl: "https://m.media-amazon.com/images/I/61livaqNmVL.jpg",
     category: "tech",
     name: { en: "Viewsonic Td1655" },
     description: { en: "The ViewSonic TD1655 is the pick when you want touch without paying espresso money — a 15.6-inch 1080p 10-point capacitive touchscreen with a built-in folding stand, dual USB-C, m…" },
@@ -42387,6 +42551,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "uperfect-uplays-x-pro",
+    imageUrl: "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/y/22/cb78ff58-bd7d-454d-b608-8d4cbed873e9.jpg",
     category: "tech",
     name: { en: "Uperfect Uplays X Pro" },
     description: { en: "The UPERFECT UPlays X Pro is a feature-packed value alternative whose standout is a built-in adjustable kickstand — you tilt it to any angle without fishing out a magnetic cover,…" },
@@ -42397,6 +42562,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "jackery-explorer-1000-v2",
+    imageUrl: "https://m.media-amazon.com/images/I/61JVKysP1nL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Jackery Explorer 1000 V2" },
     description: { en: "The Jackery Explorer 1000 v2 pairs the right capacity for most people with modern LiFePO4 chemistry, fast charging, and Jackery's reliability." },
@@ -42407,6 +42573,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ecoflow-river-3-plus",
+    imageUrl: "https://m.media-amazon.com/images/I/61IG+3OJPcL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Ecoflow River 3 Plus" },
     description: { en: "The EcoFlow River 3 Plus is the pick when recharge speed and portability matter most." },
@@ -42417,6 +42584,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "bluetti-ac180",
+    imageUrl: "https://m.media-amazon.com/images/I/71Lg8i251IL.jpg",
     category: "tech",
     name: { en: "Bluetti Ac180" },
     description: { en: "The Bluetti AC180 is the big-capacity value pick, offering more power for the money." },
@@ -42427,6 +42595,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "anker-solix-c1000",
+    imageUrl: "https://m.media-amazon.com/images/I/71MTJMuNQQL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Anker Solix C1000" },
     description: { en: "The Anker SOLIX C1000 is the pick for serious home backup and high-power needs — large 1,000Wh+ capacity, exceptionally high ~1,800W continuous output with a SurgePad feature that…" },
@@ -42437,6 +42606,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "goal-zero-yeti-500",
+    imageUrl: "https://m.media-amazon.com/images/I/61zwtD1YHeL._AC_SY300_SX300_QL70_ML2_.jpg",
     category: "tech",
     name: { en: "Goal Zero Yeti 500" },
     description: { en: "The Goal Zero Yeti 500 is the rugged, trusted classic for portable, outdoor-focused use at a moderate capacity." },
@@ -42447,6 +42617,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "hunter-original-tall",
+    imageUrl: "https://m.media-amazon.com/images/I/71KNgQ4SgNL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Hunter Original Tall" },
     description: { en: "The Hunter Original Tall combines genuine, reliable waterproofing with the iconic, versatile style that's made it a staple for decades." },
@@ -42457,6 +42628,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "bogs-classic-high",
+    imageUrl: "https://m.media-amazon.com/images/I/81e63BNQNoL.jpg",
     category: "fashion",
     name: { en: "Bogs Classic High" },
     description: { en: "The Bogs Classic High is the pick when warmth and serious cold-and-wet conditions matter most." },
@@ -42467,6 +42639,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kamik-heidi",
+    imageUrl: "https://m.media-amazon.com/images/I/719k9SYMZmL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Kamik Heidi" },
     description: { en: "The Kamik Heidi is the value champion — a genuinely good, fully waterproof rain boot at a notably lower price than the iconic brands, from a company that's made weather boots for…" },
@@ -42477,6 +42650,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "joules-molly-welly",
+    imageUrl: "https://m.media-amazon.com/images/I/61bj-Q1AhkL._AC_UL1500_.jpg",
     category: "fashion",
     name: { en: "Joules Molly Welly" },
     description: { en: "The Joules Molly Welly is the pick for style and personality — Joules is famous for cheerful, colourful, often floral or patterned rain boots that bring a bit of joy to a grey day." },
@@ -42487,6 +42661,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "xtratuf-legacy-deck-boot",
+    imageUrl: "http://xtratuf.com/cdn/shop/files/xt_legacyadb_women_xwldb300_singlequarter_16976_G.jpg?v=1758053724",
     category: "fashion",
     name: { en: "Xtratuf Legacy Deck Boot" },
     description: { en: "The Xtratuf Legacy is the rugged, no-nonsense performance boot with serious heritage — originally built for Alaskan fishermen and deckhands, it's renowned for outstanding wet grip." },
@@ -42497,6 +42672,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "arcteryx-beta-jacket",
+    imageUrl: "https://m.media-amazon.com/images/I/61my6EhKTwL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Arcteryx Beta Jacket" },
     description: { en: "The Arc'teryx Beta is the highest-performing all-round hardshell here and the choice if you'll use it hard." },
@@ -42507,6 +42683,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "patagonia-torrentshell-3l",
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/710u6%2BRryXL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Patagonia Torrentshell 3l" },
     description: { en: "The Patagonia Torrentshell 3L is the rain jacket most people should buy." },
@@ -42517,6 +42694,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "columbia-watertight-ii",
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/61UHLkAs0BL._AC_UL1200_.jpg",
     category: "fashion",
     name: { en: "Columbia Watertight Ii" },
     description: { en: "The Columbia Watertight II punches above its price — a 2-layer Omni-Tech jacket with sealed seams, typically around $100 or less, that keeps you dry well for everyday rain: commut…" },
@@ -42527,6 +42705,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "marmot-precip-eco",
+    imageUrl: "https://m.media-amazon.com/images/I/61OHzBsg5hL._AC_UL1500_.jpg",
     category: "fashion",
     name: { en: "Marmot Precip Eco" },
     description: { en: "The Marmot PreCip Eco is the lightweight, packable favourite and a long-time value classic." },
@@ -42537,6 +42716,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "the-north-face-antora",
+    imageUrl: "https://m.media-amazon.com/images/I/8100R5uR8hL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "The North Face Antora" },
     description: { en: "The North Face Antora is the everyday-casual pick with the best style-to-function balance." },
@@ -42547,6 +42727,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "roborock-s8-pro-ultra",
+    imageUrl: "https://m.media-amazon.com/images/I/71d5+PcCDlL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Roborock S8 Pro Ultra" },
     description: { en: "The Roborock S8 Pro Ultra does the two hardest things well: it actually scrubs, and its dock handles everything." },
@@ -42557,6 +42738,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "irobot-roomba-combo-j9",
+    imageUrl: "https://m.media-amazon.com/images/I/71T85eeCRpL._AC_.jpg",
     category: "home",
     name: { en: "Irobot Roomba Combo J9" },
     description: { en: "The iRobot Roomba Combo j9+ is the pick for pet homes and mixed flooring, built around class-leading obstacle avoidance and a clever retractable mop." },
@@ -42567,6 +42749,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "eufy-x10-pro-omni",
+    imageUrl: "https://m.media-amazon.com/images/I/61E63RJCT7L.jpg",
     category: "home",
     name: { en: "Eufy X10 Pro Omni" },
     description: { en: "The Eufy X10 Pro Omni delivers most of the Roborock experience for noticeably less." },
@@ -42577,6 +42760,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ecovacs-deebot-t30s",
+    imageUrl: "https://m.media-amazon.com/images/I/61N5+sX4awL.jpg",
     category: "home",
     name: { en: "Ecovacs Deebot T30s" },
     description: { en: "The Ecovacs Deebot T30S is the budget-conscious flagship alternative — a full-featured robot with a self-washing, hot-air-drying, self-emptying dock, strong suction, and an effect…" },
@@ -42587,6 +42771,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "narwal-freo-x-ultra",
+    imageUrl: "https://m.media-amazon.com/images/I/61BZUKgzTuL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Narwal Freo X Ultra" },
     description: { en: "The Narwal Freo X Ultra is the strong all-rounder focused on mopping quality and clever design." },
@@ -42597,6 +42782,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ugg-tasman-slipper",
+    imageUrl: "https://m.media-amazon.com/images/I/61OH0aaaSJL._AC_SY625_.jpg",
     category: "fashion",
     name: { en: "Ugg Tasman Slipper" },
     description: { en: "The UGG Tasman is a slipper-shoe hybrid with genuine cult status." },
@@ -42607,6 +42793,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "l-l-bean-wicked-good-moccasin",
+    imageUrl: "https://m.media-amazon.com/images/I/71xNoDVAfHL._SX700_.jpg",
     category: "fashion",
     name: { en: "L L Bean Wicked Good Moccasin" },
     description: { en: "The L.L.Bean Wicked Good Moccasins are the warmth-and-durability champions." },
@@ -42617,6 +42804,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "glerups-wool-slipper",
+    imageUrl: "https://m.media-amazon.com/images/I/61u8+xlSUcL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Glerups Wool Slipper" },
     description: { en: "The Glerups Wool Slipper is the breathability and year-round comfort pick." },
@@ -42627,6 +42815,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "acorn-moc-slipper",
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/41h6rSJGBRL._SY395_QL70_.jpg",
     category: "fashion",
     name: { en: "Acorn Moc Slipper" },
     description: { en: "The Acorn Moc Slipper is the pick when you want actual support, not just padding." },
@@ -42637,6 +42826,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "sorel-go-coffee-run-slipper",
+    imageUrl: "https://m.media-amazon.com/images/I/81V2VVdd-uL.jpg",
     category: "fashion",
     name: { en: "Sorel Go Coffee Run Slipper" },
     description: { en: "The Sorel Go Coffee Run is the cosy-casual crossover for someone who wants a slipper that's unmistakably a real shoe outdoors." },
@@ -42647,6 +42837,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "schlage-encode-plus",
+    imageUrl: "https://m.media-amazon.com/images/I/61Dmww5oHAL.jpg",
     category: "home",
     name: { en: "Schlage Encode Plus" },
     description: { en: "The Schlage Encode Plus is the best smart lock for most people because it pairs a genuinely secure deadbolt — Schlage's highest residential security ratings with strong anti-pick…" },
@@ -42657,6 +42848,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "august-wifi-smart-lock",
+    imageUrl: "https://m.media-amazon.com/images/I/61Cl8n+ZOuL._AC_.jpg",
     category: "home",
     name: { en: "August Wifi Smart Lock" },
     description: { en: "The August Wi-Fi Smart Lock is the renter's pick because it's a retrofit — it replaces only the interior thumb-turn of your existing deadbolt, so your keys still work, the exterio…" },
@@ -42667,6 +42859,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "yale-assure-lock-2",
+    imageUrl: "https://m.media-amazon.com/images/I/616cKWfBZOL._AC_SX679_.jpg",
     category: "home",
     name: { en: "Yale Assure Lock 2" },
     description: { en: "The Yale Assure Lock 2 is the most configurable mainstream lock and a keypad standout." },
@@ -42677,6 +42870,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "level-lock-plus",
+    imageUrl: "https://m.media-amazon.com/images/I/61-PzjOyUgL._AC_.jpg",
     category: "home",
     name: { en: "Level Lock Plus" },
     description: { en: "The Level Lock+ is the design and stealth pick." },
@@ -42687,6 +42881,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "eufy-smart-lock-c220",
+    imageUrl: "https://m.media-amazon.com/images/I/61-YNLJG5aL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Eufy Smart Lock C220" },
     description: { en: "The eufy Smart Lock C220 is the value pick, packing features that cost more elsewhere — a fast fingerprint reader that recognises your print in under a second, built-in Wi-Fi, a c…" },
@@ -42697,6 +42892,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "sonos-arc-ultra",
+    imageUrl: "https://m.media-amazon.com/images/I/71vjvsZCiNL._AC_.jpg",
     category: "home",
     name: { en: "Sonos Arc Ultra" },
     description: { en: "The Sonos Arc Ultra is the best single-bar Atmos system you can buy — a 9.1.4 enclosure with fourteen drivers including up-firing height channels and Sonos's new Sound Motion woof…" },
@@ -42707,6 +42903,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "samsung-hw-q990d",
+    imageUrl: "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6570/6570312cv13d.jpg",
     category: "home",
     name: { en: "Samsung Hw Q990d" },
     description: { en: "The Samsung HW-Q990D is the most complete home-theatre-in-a-box here — a true 11.1.4 system with a large wireless subwoofer and two wireless rear speakers that have their own up-f…" },
@@ -42717,6 +42914,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "sonos-beam-gen2",
+    imageUrl: "https://m.media-amazon.com/images/I/51kIR1gKWYL.jpg",
     category: "home",
     name: { en: "Sonos Beam Gen2" },
     description: { en: "The Sonos Beam Gen 2 is the right soundbar for most living rooms at around $500." },
@@ -42727,6 +42925,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "vizio-m-series-elevate",
+    imageUrl: "https://m.media-amazon.com/images/I/71-AtEdH1BL._AC_.jpg",
     category: "home",
     name: { en: "Vizio M Series Elevate" },
     description: { en: "The Vizio M-Series Elevate is the most physical channels per dollar in this comparison and the budget-to-mid Atmos pick, frequently discounted well below its list price." },
@@ -42737,6 +42936,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "yamaha-sr-c30a",
+    imageUrl: "https://m.media-amazon.com/images/I/818MEYucmxL.jpg",
     category: "home",
     name: { en: "Yamaha Sr C30a" },
     description: { en: "The Yamaha SR-C30A is the honest small-room, bedroom, and tight-budget pick." },
@@ -42747,6 +42947,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "bissell-powerfresh-steam-mop",
+    imageUrl: "https://m.media-amazon.com/images/I/71HQgjaxAYL.jpg",
     category: "home",
     name: { en: "Bissell Powerfresh Steam Mop" },
     description: { en: "The Bissell PowerFresh pairs effective, adjustable steam cleaning with thoughtful features at a fair price." },
@@ -42757,6 +42958,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "shark-genius-steam-mop",
+    imageUrl: "https://m.media-amazon.com/images/I/71jgPEG9+8L.jpg",
     category: "home",
     name: { en: "Shark Genius Steam Mop" },
     description: { en: "The Shark Genius is the pick for hands-free convenience and tougher messes." },
@@ -42767,6 +42969,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "o-cedar-microfiber-steam-mop",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A1VS4XBNFDXBYR/B00US9PSKU/vcK7UyXqRdqH._UX970_TTW__.jpg",
     category: "home",
     name: { en: "O Cedar Microfiber Steam Mop" },
     description: { en: "The O-Cedar Microfiber Steam Mop is the value champion for straightforward, effective steam cleaning without spending much." },
@@ -42777,6 +42980,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "light-n-easy-steam-mop",
+    imageUrl: "https://m.media-amazon.com/images/I/61dnukZk6xL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Light N Easy Steam Mop" },
     description: { en: "The Light 'n' Easy Steam Mop is a popular budget-to-mid option that often punches above its price on versatility — many models detach to convert from a floor mop into a handheld s…" },
@@ -42787,6 +42991,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dupray-neat-steam-cleaner",
+    imageUrl: "https://m.media-amazon.com/images/I/81Ltqtobj0L._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Dupray Neat Steam Cleaner" },
     description: { en: "The Dupray Neat is the heavy-duty outlier — not a mop but a full canister steam cleaner with a large boiler that produces high-pressure, high-temperature steam and a wide range of…" },
@@ -42797,6 +43002,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "roku-streaming-stick-4k",
+    imageUrl: "https://m.media-amazon.com/images/I/81xr+BrYBwL._AC_.jpg",
     category: "tech",
     name: { en: "Roku Streaming Stick 4k" },
     description: { en: "The Roku Streaming Stick 4K nails the fundamentals: a genuinely neutral, simple interface that treats every app equally." },
@@ -42807,6 +43013,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "amazon-fire-tv-stick-4k-max",
+    imageUrl: "https://m.media-amazon.com/images/I/518n2Z-ETbL.jpg",
     category: "tech",
     name: { en: "Amazon Fire Tv Stick 4k Max" },
     description: { en: "The Amazon Fire TV Stick 4K Max is the most powerful stick at its price and the best pick for Alexa and Amazon households." },
@@ -42817,6 +43024,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "google-tv-streamer-4k",
+    imageUrl: "https://m.media-amazon.com/images/I/61p1whxnJGL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Google Tv Streamer 4k" },
     description: { en: "The Google TV Streamer 4K is the pick for a content-discovery-first experience and Google smart-home users." },
@@ -42827,6 +43035,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "apple-tv-4k",
+    imageUrl: "https://m.media-amazon.com/images/I/61HGvrbamzL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Apple Tv 4k" },
     description: { en: "The Apple TV 4K is the premium powerhouse and the best overall experience if you don't mind the price." },
@@ -42837,6 +43046,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "nvidia-shield-tv-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/51ZGCIbrgFL.jpg",
     category: "tech",
     name: { en: "Nvidia Shield Tv Pro" },
     description: { en: "The NVIDIA Shield TV Pro is the enthusiast's choice and the most capable Android TV device, beloved for its powerful processor with AI upscaling that genuinely sharpens HD content…" },
@@ -42847,6 +43057,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "apple-ipad-air-m2",
+    imageUrl: "https://m.media-amazon.com/images/G/01/apple/iPad_Air_M2_Product_2024Page_L__en-US_08._CB558418978_.jpg",
     category: "tech",
     name: { en: "Apple Ipad Air M2" },
     description: { en: "The Apple iPad Air with M2 hits the sweet spot of near-pro performance, the best tablet apps, and a price below the Pro." },
@@ -42857,6 +43068,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "samsung-galaxy-tab-s9",
+    imageUrl: "https://m.media-amazon.com/images/I/61TZq2jbAaL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Samsung Galaxy Tab S9" },
     description: { en: "The Samsung Galaxy Tab S9 is the best Android tablet and the pick for the Android/Samsung ecosystem or anyone wanting Android's flexibility." },
@@ -42867,6 +43079,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "apple-ipad-10th-gen",
+    imageUrl: "https://m.media-amazon.com/images/G/01/apple/iPad_10th_generation_Product_Page_L_5G__en-US_01._CB607979524_.jpg",
     category: "tech",
     name: { en: "Apple Ipad 10th Gen" },
     description: { en: "The Apple iPad (10th generation) is the budget Apple pick and the best value for most casual users — it delivers the core iPad experience (the same excellent app ecosystem, a grea…" },
@@ -42877,6 +43090,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "amazon-fire-max-11",
+    imageUrl: "https://m.media-amazon.com/images/I/71wk6xXIzPL.jpg",
     category: "tech",
     name: { en: "Amazon Fire Max 11" },
     description: { en: "The Amazon Fire Max 11 is the budget media-consumption champion for someone whose tablet is mainly for watching, reading, and shopping within Amazon's world." },
@@ -42887,6 +43101,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "lenovo-tab-p12",
+    imageUrl: "https://m.media-amazon.com/images/I/616SXS5m0eL.jpg",
     category: "tech",
     name: { en: "Lenovo Tab P12" },
     description: { en: "The Lenovo Tab P12 is the value Android all-rounder — a large, capable full-Android tablet at a mid-range price below the Galaxy Tab S9." },
@@ -42897,6 +43112,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "breville-smart-oven-air-fryer-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/61ZU+D8yWvL.jpg",
     category: "food",
     name: { en: "Breville Smart Oven Air Fryer Pro" },
     description: { en: "The Breville Smart Oven Air Fryer Pro is the toaster oven that genuinely replaces a second oven." },
@@ -42907,6 +43123,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "cuisinart-toa-70-air-fryer",
+    imageUrl: "https://m.media-amazon.com/images/I/71xs1b4ZKQL._AC_.jpg",
     category: "food",
     name: { en: "Cuisinart Toa 70 Air Fryer" },
     description: { en: "The Cuisinart TOA-70 is the value sweet spot — a capable air-fryer toaster oven that does most of what the Breville does for roughly half the price." },
@@ -42917,6 +43134,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ninja-foodi-sp101",
+    imageUrl: "https://m.media-amazon.com/images/I/71KR41S9RXL._AC_SL1088_.jpg",
     category: "food",
     name: { en: "Ninja Foodi Sp101" },
     description: { en: "The Ninja Foodi SP101 solves the toaster oven's biggest problem — counter space — by flipping up and back to sit flush against the wall when idle, reclaiming most of its footprint." },
@@ -42927,6 +43145,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "breville-smart-oven-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/51RwBfiClcL._AC_.jpg",
     category: "food",
     name: { en: "Breville Smart Oven Pro" },
     description: { en: "The Breville Smart Oven Pro is the pick for bakers who don't need air frying." },
@@ -42937,6 +43156,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "panasonic-flashxpress",
+    imageUrl: "https://m.media-amazon.com/images/I/71oqWYtNpyL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Panasonic Flashxpress" },
     description: { en: "The Panasonic FlashXpress is the compact specialist for people who mainly want excellent toast and fast reheating in a tiny footprint." },
@@ -42947,6 +43167,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dyson-am07-tower-fan",
+    imageUrl: "https://m.media-amazon.com/images/I/61U7jKYrvJL.jpg",
     category: "home",
     name: { en: "Dyson Am07 Tower Fan" },
     description: { en: "The Dyson AM07 is the premium, design-led bladeless tower fan." },
@@ -42957,6 +43178,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "lasko-t42951-wind-curve",
+    imageUrl: "https://m.media-amazon.com/images/I/71Mjq38sx0L._AC_SX425_.jpg",
     category: "home",
     name: { en: "Lasko T42951 Wind Curve" },
     description: { en: "The Lasko Wind Curve is the value benchmark — a genuinely good tower fan at a budget price and a years-long best-seller." },
@@ -42967,6 +43189,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "honeywell-quietset-tower-fan",
+    imageUrl: "https://m.media-amazon.com/images/I/71Z4b9eY0RL._AC_.jpg",
     category: "home",
     name: { en: "Honeywell Quietset Tower Fan" },
     description: { en: "The Honeywell QuietSet is engineered around what matters most in a fan you run all night: noise." },
@@ -42977,6 +43200,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "vornado-atom-tower-fan",
+    imageUrl: "https://m.media-amazon.com/images/I/61pEVebYPxS._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Vornado Atom Tower Fan" },
     description: { en: "The Vornado tower fan takes the opposite philosophy to oscillation: its signature Vortex technology pushes a focused column of air that circulates an entire room's air by bouncing…" },
@@ -42987,6 +43211,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "levoit-tower-fan-36-inch",
+    imageUrl: "https://m.media-amazon.com/images/I/71xvqwacatL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Levoit Tower Fan 36 Inch" },
     description: { en: "The Levoit Tower Fan is the modern smart-and-quiet pick." },
@@ -42997,6 +43222,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "shure-mv7-plus",
+    imageUrl: "https://geartechs.com/cdn/shop/files/shure-mv7plus-white-box.jpg?v=1712687328&width=2048",
     category: "tech",
     name: { en: "Shure Mv7 Plus" },
     description: { en: "The Shure MV7+ is the best USB mic for people who talk for a living." },
@@ -43007,6 +43233,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "elgato-wave-3",
+    imageUrl: "https://m.media-amazon.com/images/I/61N3ca2g5sL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Elgato Wave 3" },
     description: { en: "The Elgato Wave 3 is the pick for streamers who want crisp condenser sound and the best software here." },
@@ -43017,6 +43244,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "blue-yeti-usb",
+    imageUrl: "https://m.media-amazon.com/images/I/71oWZqdk89L._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Blue Yeti Usb" },
     description: { en: "The Blue Yeti is the famous all-rounder and the safe, versatile choice." },
@@ -43027,6 +43255,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "hyperx-quadcast-s",
+    imageUrl: "https://m.media-amazon.com/images/I/61dQJkzRopL._AC_.jpg",
     category: "tech",
     name: { en: "Hyperx Quadcast S" },
     description: { en: "The HyperX QuadCast S is the gamer and streamer favourite, and not just for the RGB." },
@@ -43037,6 +43266,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "rode-podmic-usb",
+    imageUrl: "https://m.media-amazon.com/images/I/61ElAcEsHiL._SL1080_.jpg",
     category: "tech",
     name: { en: "Rode Podmic Usb" },
     description: { en: "The Rode PodMic USB is the value dynamic pick — a broadcast-style dynamic mic with both USB and XLR outputs, excellent room-noise rejection, and Rode's clean, professional sound a…" },
@@ -43047,6 +43277,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "google-nest-doorbell-battery",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/32ed9747-747f-47e0-94a9-d0973914e32a.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     category: "home",
     name: { en: "Google Nest Doorbell Battery" },
     description: { en: "The Google Nest Doorbell (Battery) is the best all-rounder because it does the smartest things on-device and gives you the most for free." },
@@ -43057,6 +43288,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ring-battery-doorbell-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/51M07P4XSUL._SL1500_.jpg",
     category: "home",
     name: { en: "Ring Battery Doorbell Pro" },
     description: { en: "The Ring Battery Doorbell Pro is the pick for Alexa users and existing Ring owners — nothing integrates as smoothly with Echo speakers and displays, and the accessory range is unm…" },
@@ -43067,6 +43299,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "eufy-video-doorbell-e340",
+    imageUrl: "https://m.media-amazon.com/images/I/41EwOF5L3oL.jpg",
     category: "home",
     name: { en: "Eufy Video Doorbell E340" },
     description: { en: "The eufy Video Doorbell E340 is the answer for anyone who refuses a monthly fee." },
@@ -43077,6 +43310,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ring-wired-doorbell-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/617zZbb6OsL._SL1500_.jpg",
     category: "home",
     name: { en: "Ring Wired Doorbell Pro" },
     description: { en: "The Ring Wired Doorbell Pro is the premium pick for homes with existing doorbell wiring that want set-and-forget power." },
@@ -43087,6 +43321,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "arlo-essential-video-doorbell",
+    imageUrl: "https://m.media-amazon.com/images/I/51OXbyHgS+L._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Arlo Essential Video Doorbell" },
     description: { en: "The Arlo Essential Video Doorbell is a solid cross-ecosystem alternative with a head-to-toe view, a built-in siren to deter visitors, colour night vision, and an easy battery inst…" },
@@ -43097,6 +43332,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "asus-rt-ax88u-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/61gpbEsPY4L._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Asus Rt Ax88u Pro" },
     description: { en: "The ASUS RT-AX88U Pro is the best router for most homes — a dual-band AX6000 Wi-Fi 6 unit with a 2.5 Gbps WAN/LAN port for multi-gig plans and eight gigabit LAN ports, more wired…" },
@@ -43107,6 +43343,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tp-link-archer-ax73",
+    imageUrl: "https://m.media-amazon.com/images/I/51rbZCeyyYL._AC_SL1000_.jpg",
     category: "tech",
     name: { en: "Tp Link Archer Ax73" },
     description: { en: "The TP-Link Archer AX73 is the value sweet spot — a dual-band AX5400 Wi-Fi 6 router that covers a typical home and handles a heavy device load for under half the flagship price." },
@@ -43117,6 +43354,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "netgear-nighthawk-rax70",
+    imageUrl: "https://m.media-amazon.com/images/I/51JG3brnqxL.jpg",
     category: "tech",
     name: { en: "Netgear Nighthawk Rax70" },
     description: { en: "The Netgear Nighthawk RAX70 is a tri-band AX6600 Wi-Fi 6 router for device-dense homes." },
@@ -43127,6 +43365,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "asus-rog-rapture-gt-axe11000",
+    imageUrl: "https://m.media-amazon.com/images/I/71eBa0y-vxL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Asus Rog Rapture Gt Axe11000" },
     description: { en: "The ASUS ROG Rapture GT-AXE11000 is the no-compromise enthusiast and gaming router — tri-band Wi-Fi 6E that adds the clean, uncongested 6 GHz band for the lowest latency and inter…" },
@@ -43137,6 +43376,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tp-link-archer-ax21",
+    imageUrl: "",
     category: "tech",
     name: { en: "Tp Link Archer Ax21" },
     description: { en: "The TP-Link Archer AX21 is the budget Wi-Fi 6 entry at around $70 — a dual-band AX1800 router that brings Wi-Fi 6 efficiency and the easy Tether-app setup to small homes and apart…" },
@@ -43147,6 +43387,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "philips-norelco-9000-prestige",
+    imageUrl: "https://m.media-amazon.com/images/I/61vOG+OmtnL._AC_SL1000_.jpg",
     category: "beauty",
     name: { en: "Philips Norelco 9000 Prestige" },
     description: { en: "The Philips Norelco 9000 Prestige combines precise, fine length control with a self-sharpening blade system that cuts cleanly without tugging." },
@@ -43157,6 +43398,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "braun-series-9-beard-trimmer",
+    imageUrl: "https://m.media-amazon.com/images/I/71D1oJuB6mL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Braun Series 9 Beard Trimmer" },
     description: { en: "The Braun Series 9 beard trimmer is the premium alternative for German engineering, sharp durable blades, and reliable precision." },
@@ -43167,6 +43409,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "wahl-stainless-steel-trimmer",
+    imageUrl: "https://m.media-amazon.com/images/I/71Ql5Xvoe+S._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Wahl Stainless Steel Trimmer" },
     description: { en: "The Wahl Stainless Steel Trimmer is the pick for barber-grade cutting and detailing power." },
@@ -43177,6 +43420,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "panasonic-er-gb96",
+    imageUrl: "https://m.media-amazon.com/images/I/81mCHVTwteL.jpg",
     category: "beauty",
     name: { en: "Panasonic Er Gb96" },
     description: { en: "The Panasonic ER-GB96 is the versatile all-rounder and a strong value pick." },
@@ -43187,6 +43431,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "brio-beardscape",
+    imageUrl: "https://m.media-amazon.com/images/I/81GSl+2FN3L.jpg",
     category: "beauty",
     name: { en: "Brio Beardscape" },
     description: { en: "The Brio Beardscape is the budget standout that punches above its price, popular as a capable, well-designed trimmer at a fraction of the premium cost." },
@@ -43197,6 +43442,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dior-sauvage-edp",
+    imageUrl: "https://m.media-amazon.com/images/I/51baPyI73rL._SL1000_.jpg",
     category: "beauty",
     name: { en: "Dior Sauvage Edp" },
     description: { en: "Dior Sauvage (EDP) is the modern crowd-pleaser and one of the world's best-selling men's fragrances: an extremely versatile, widely-loved scent with excellent performance." },
@@ -43207,6 +43453,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "bleu-de-chanel-edp",
+    imageUrl: "https://m.media-amazon.com/images/I/519b7lNw8RS._SL1111_.jpg",
     category: "beauty",
     name: { en: "Bleu De Chanel Edp" },
     description: { en: "Bleu de Chanel (EDP) is the closest thing to a do-everything signature scent — appropriate for office, date, day, or evening in almost any season." },
@@ -43217,6 +43464,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "creed-aventus",
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/61AXYevlGzL._SL1000_.jpg",
     category: "beauty",
     name: { en: "Creed Aventus" },
     description: { en: "Creed Aventus is the iconic splurge and the benchmark 'luxury masculine' scent for many." },
@@ -43227,6 +43475,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "versace-eros-edt",
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/816b-quQsvL._SL1500_.jpg",
     category: "beauty",
     name: { en: "Versace Eros Edt" },
     description: { en: "Versace Eros (EDT) is the value pick for a bold, sexy, crowd-pleasing scent at a noticeably lower price." },
@@ -43237,6 +43486,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ysl-y-edp",
+    imageUrl: "https://m.media-amazon.com/images/I/71GgvTGQoOL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Ysl Y Edp" },
     description: { en: "YSL Y (Eau de Parfum) is the youthful, clean, fresh pick that's also genuinely versatile." },
@@ -43247,6 +43497,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "brightech-litespan-led",
+    imageUrl: "https://m.media-amazon.com/images/I/71nMegzEJ6L._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Brightech Litespan Led" },
     description: { en: "The Brightech LiteSpan delivers bright, comfortable, adjustable light in a slim, versatile design at a sensible price." },
@@ -43257,6 +43508,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dyson-solarcycle-floor",
+    imageUrl: "https://m.media-amazon.com/images/I/514dU+CvurL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Dyson Solarcycle Floor" },
     description: { en: "The Dyson Solarcycle is the premium pick for light quality, eye comfort, and precision." },
@@ -43267,6 +43519,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ikea-holmo-floor-lamp",
+    imageUrl: "https://m.media-amazon.com/images/I/51YN2DvA7CL._AC_SL1080_.jpg",
     category: "home",
     name: { en: "Ikea Holmo Floor Lamp" },
     description: { en: "The IKEA Holmö is the budget pick for affordable, simple, attractive ambient light." },
@@ -43277,6 +43530,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "possini-euro-arc-lamp",
+    imageUrl: "https://m.media-amazon.com/images/I/71LhPbnRIiL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Possini Euro Arc Lamp" },
     description: { en: "The Possini Euro arc floor lamp is the design-statement pick that lights a space from above and to the side." },
@@ -43287,6 +43541,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "globe-electric-torchiere",
+    imageUrl: "https://m.media-amazon.com/images/I/41zcMTdfFML._AC_SX569_.jpg",
     category: "home",
     name: { en: "Globe Electric Torchiere" },
     description: { en: "The Globe Electric torchiere is the bright, affordable up-light pick." },
@@ -43297,6 +43552,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ikea-billy-bookcase",
+    imageUrl: "https://m.media-amazon.com/images/I/71d+vaBZ5lL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Ikea Billy Bookcase" },
     description: { en: "The IKEA Billy is the proven, affordable, endlessly adaptable standard that has furnished bookshelves for decades." },
@@ -43307,6 +43563,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "sauder-5-shelf-bookcase",
+    imageUrl: "https://m.media-amazon.com/images/I/6190FdGDstL.jpg",
     category: "home",
     name: { en: "Sauder 5 Shelf Bookcase" },
     description: { en: "The Sauder 5-Shelf Bookcase is the value workhorse alternative — a tall, generous-capacity bookcase from a long-established American maker, often with a more traditional or woodgr…" },
@@ -43317,6 +43574,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "nathan-james-theo",
+    imageUrl: "https://m.media-amazon.com/images/I/81pVa+wYsoL._AC_.jpg",
     category: "home",
     name: { en: "Nathan James Theo" },
     description: { en: "The Nathan James Theo is the design-forward pick for an attractive open feature rather than just storage." },
@@ -43327,6 +43585,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "walker-edison-ladder-shelf",
+    imageUrl: "https://m.media-amazon.com/images/I/81Y9pe6T27L._AC_SX679_.jpg",
     category: "home",
     name: { en: "Walker Edison Ladder Shelf" },
     description: { en: "The Walker Edison Ladder Shelf is the pick for a stylish, space-conscious leaning or A-frame bookshelf that's as much decorative display as storage." },
@@ -43337,6 +43596,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tribesigns-industrial-bookshelf",
+    imageUrl: "https://m.media-amazon.com/images/I/81n5Rnh+3YL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Tribesigns Industrial Bookshelf" },
     description: { en: "The Tribesigns Industrial Bookshelf is the statement pick for large, open, industrial-style shelving with serious open display capacity." },
@@ -43347,6 +43607,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "bedsure-fleece-throw",
+    imageUrl: "https://m.media-amazon.com/images/I/91LCrCaCu8L._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Bedsure Fleece Throw" },
     description: { en: "The Bedsure Fleece Throw nails the everyday essentials — genuinely soft, warm enough, fully machine washable, and cheap enough to own several — without fuss." },
@@ -43357,6 +43618,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "barefoot-dreams-cozychic",
+    imageUrl: "https://m.media-amazon.com/images/I/71CyApLvjSL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Barefoot Dreams Cozychic" },
     description: { en: "The Barefoot Dreams CozyChic is the luxury pick for unmatched plush softness — the blanket people describe as cloud-like and become obsessed with." },
@@ -43367,6 +43629,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "pendleton-wool-throw",
+    imageUrl: "https://m.media-amazon.com/images/I/71KVS2Kha0L.jpg",
     category: "home",
     name: { en: "Pendleton Wool Throw" },
     description: { en: "The Pendleton Wool Throw is the heritage pick for genuine warmth, durability, and timeless style." },
@@ -43377,6 +43640,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "utopia-flannel-throw",
+    imageUrl: "https://m.media-amazon.com/images/I/71kEKx8232L._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Utopia Flannel Throw" },
     description: { en: "The Utopia Flannel Throw is the rock-bottom value pick — a simple, soft flannel fleece throw at an even lower price than the Bedsure, for cosy, washable warmth at the absolute min…" },
@@ -43387,6 +43651,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "chunky-knit-throw-blanket",
+    imageUrl: "https://m.media-amazon.com/images/I/81aBdJgk78L._AC_.jpg",
     category: "home",
     name: { en: "Chunky Knit Throw Blanket" },
     description: { en: "The chunky knit throw is the trendy decorative pick for a blanket that's a statement piece as much as a functional one." },
@@ -43397,6 +43662,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "caldigit-ts4",
+    imageUrl: "https://m.media-amazon.com/images/I/61RBOqHLI0L._AC_SX569_.jpg",
     category: "tech",
     name: { en: "Caldigit Ts4" },
     description: { en: "The CalDigit TS4 offers the most comprehensive port selection of any Thunderbolt dock with rock-solid reliability." },
@@ -43407,6 +43673,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "anker-575-usb-c-dock",
+    imageUrl: "https://m.media-amazon.com/images/I/71+tsdf15lL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Anker 575 Usb C Dock" },
     description: { en: "The Anker 575 USB-C Dock is the mid-range value pick for a capable, well-rounded dock without paying for Thunderbolt." },
@@ -43417,6 +43684,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dell-wd19s-dock",
+    imageUrl: "https://m.media-amazon.com/images/I/61a67LJMDTL.jpg",
     category: "tech",
     name: { en: "Dell Wd19s Dock" },
     description: { en: "The Dell WD19S is the pick for Dell laptop owners and value-oriented business use." },
@@ -43427,6 +43695,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "plugable-ud-3900",
+    imageUrl: "https://media.plugable.com/images/products/ud-3900/gallery/main-md.jpg",
     category: "tech",
     name: { en: "Plugable Ud" },
     description: { en: "The Plugable UD-3900 is the budget pick and a long-standing best-seller for basic, dependable docking." },
@@ -43437,6 +43706,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "belkin-thunderbolt-4-dock",
+    imageUrl: "https://m.media-amazon.com/images/I/61E0Tt47smL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Belkin Thunderbolt 4 Dock" },
     description: { en: "The Belkin Thunderbolt 4 Dock is the premium alternative for flagship Thunderbolt 4 performance from a major, well-supported brand." },
@@ -43447,6 +43717,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "logitech-mx-keys-s",
+    imageUrl: "https://m.media-amazon.com/images/I/61DRuw6xDqL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Logitech Mx Keys S" },
     description: { en: "The Logitech MX Keys S is the best wireless keyboard for most people, especially productivity, combining excellent typing feel with seamless multi-device control and long battery…" },
@@ -43457,6 +43728,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "apple-magic-keyboard",
+    imageUrl: "https://m.media-amazon.com/images/I/71fYV0JMoYL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Apple Magic Keyboard" },
     description: { en: "The Apple Magic Keyboard is the pick for Mac and iPad users wanting seamless Apple-ecosystem integration and a clean, minimalist design." },
@@ -43467,6 +43739,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "keychron-k8-wireless",
+    imageUrl: "https://m.media-amazon.com/images/I/61SNg63eqgL._AC_.jpg",
     category: "tech",
     name: { en: "Keychron K8 Wireless" },
     description: { en: "The Keychron K8 is the pick for a genuine mechanical keyboard wirelessly." },
@@ -43477,6 +43750,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "logitech-k380",
+    imageUrl: "https://m.media-amazon.com/images/I/71+IrCP058L._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Logitech K380" },
     description: { en: "The Logitech K380 is the budget pick and a brilliant value for multi-device wireless typing." },
@@ -43487,6 +43761,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "microsoft-sculpt-ergonomic",
+    imageUrl: "https://m.media-amazon.com/images/I/51wJoVPREEL.jpg",
     category: "tech",
     name: { en: "Microsoft Sculpt Ergonomic" },
     description: { en: "The Microsoft Sculpt Ergonomic is the pick for reducing wrist and arm strain during long typing." },
@@ -43497,6 +43772,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "iottie-easy-one-touch-5",
+    imageUrl: "https://m.media-amazon.com/images/I/61IKwuO5jpL._AC_SX679_.jpg",
     category: "tech",
     name: { en: "Iottie Easy One Touch 5" },
     description: { en: "The iOttie Easy One Touch 5 nails secure, genuinely one-handed operation with a versatile, rock-solid mount." },
@@ -43507,6 +43783,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "esr-halolock-magsafe-mount",
+    imageUrl: "https://m.media-amazon.com/images/I/71vBTAJEZjL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Esr Halolock Magsafe Mount" },
     description: { en: "The ESR HaloLock MagSafe Mount is the best pick for iPhone users wanting effortless magnetic mounting." },
@@ -43517,6 +43794,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "scosche-magicmount-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/61b7ibGsFNL.jpg",
     category: "tech",
     name: { en: "Scosche Magicmount Pro" },
     description: { en: "The Scosche MagicMount is the best magnetic mount for the universal, any-phone approach (not MagSafe-dependent)." },
@@ -43527,6 +43805,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "beam-electronics-vent-mount",
+    imageUrl: "https://m.media-amazon.com/images/I/61tRW+kQxiL._AC_.jpg",
     category: "tech",
     name: { en: "Beam Electronics Vent Mount" },
     description: { en: "The Beam Electronics Vent Mount is the rock-bottom budget pick for a functional, secure mount for very little money." },
@@ -43537,6 +43816,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "andobil-car-phone-mount",
+    imageUrl: "https://m.media-amazon.com/images/I/717jgKaEEsL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Andobil Car Phone Mount" },
     description: { en: "The andobil Car Phone Mount is the value all-rounder offering near-premium features at a mid-budget price." },
@@ -43547,6 +43827,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "gevi-household-ice-maker",
+    imageUrl: "https://m.media-amazon.com/images/I/61+TcAChx0L._SL1500_.jpg",
     category: "food",
     name: { en: "Gevi Household Ice Maker" },
     description: { en: "The Gevi Household Ice Maker makes ice fast, in useful quantity, in a compact, affordable, no-plumbing package." },
@@ -43557,6 +43838,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frigidaire-efic108",
+    imageUrl: "https://m.media-amazon.com/images/I/7167TN5Y-cL._AC_.jpg",
     category: "food",
     name: { en: "Frigidaire Efic108" },
     description: { en: "The Frigidaire EFIC108 balances reliable performance, a recognisable name, and a compact, often stylish design in fun colours." },
@@ -43567,6 +43849,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "gevi-nugget-ice-maker",
+    imageUrl: "https://m.media-amazon.com/images/I/613Gs9pCtSL._SL1500_.jpg",
     category: "food",
     name: { en: "Gevi Nugget Ice Maker" },
     description: { en: "The Gevi Nugget Ice Maker is the pick for the holy grail of ice — soft, chewable nugget/pebble ice, the kind beloved from Sonic and Chick-fil-A." },
@@ -43577,6 +43860,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "euhomy-countertop-ice-maker",
+    imageUrl: "https://m.media-amazon.com/images/I/81N-EwsJWPL.jpg",
     category: "food",
     name: { en: "Euhomy Countertop Ice Maker" },
     description: { en: "The Euhomy Countertop Ice Maker is the value all-rounder — a popular, well-reviewed bullet-style maker competing closely with the Gevi on fast, abundant ice at an affordable price." },
@@ -43587,6 +43871,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "igloo-portable-ice-maker",
+    imageUrl: "https://m.media-amazon.com/images/I/71B0q8Gwz2L._SL1500_.jpg",
     category: "food",
     name: { en: "Igloo Portable Ice Maker" },
     description: { en: "The Igloo Portable Ice Maker is the budget and portability pick — Igloo (the cooler brand) makes accessible, often very affordable countertop/portable ice makers ideal for taking…" },
@@ -43597,6 +43882,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "presto-22-inch-griddle",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aaab4b2a-6e9f-41f4-b79b-aa38b4dfa076.__CR0,0,970,300_PT0_SX970_V1___.jpg",
     category: "food",
     name: { en: "Presto 22 Inch Griddle" },
     description: { en: "The Presto 22-inch Electric Griddle delivers a large, evenly-heated cooking surface at a remarkably low price, doing the core griddle job reliably without fuss." },
@@ -43607,6 +43893,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "blackstone-electric-griddle",
+    imageUrl: "https://m.media-amazon.com/images/I/51A0Cby5yWL._AC_SL1400_.jpg",
     category: "food",
     name: { en: "Blackstone Electric Griddle" },
     description: { en: "The Blackstone Electric Griddle brings the flat-top searing experience indoors — high, even heat on a steel cooking surface for smash burgers, seared meats, stir-fries, and Teppan…" },
@@ -43617,6 +43904,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "cuisinart-gr-4n-griddler",
+    imageUrl: "https://m.media-amazon.com/images/I/519wH3SIElS._AC_.jpg",
     category: "food",
     name: { en: "Cuisinart Gr 4n Griddler" },
     description: { en: "The Cuisinart Griddler is the versatile combo — a griddle, grill, and panini/sandwich press in one with interchangeable plates." },
@@ -43627,6 +43915,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "hamilton-beach-electric-griddle",
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/1ce40260-ff7f-4acf-ada8-5d5fa683aee2.jpg._CB274069262_.jpg",
     category: "food",
     name: { en: "Hamilton Beach Electric Griddle" },
     description: { en: "The Hamilton Beach Electric Griddle is the value alternative to the Presto — a large, affordable nonstick griddle covering the same family-batch breakfast-and-more duties at a bud…" },
@@ -43637,6 +43926,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "zojirushi-gourmet-sizzler",
+    imageUrl: "https://m.media-amazon.com/images/I/71lgfArdiRL._SL1454_.jpg",
     category: "food",
     name: { en: "Zojirushi Gourmet Sizzler" },
     description: { en: "The Zojirushi Gourmet Sizzler is the premium pick prioritising exceptional even heating, build quality, and a refined cooking experience." },
@@ -43647,6 +43937,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "green-pet-shop-cooling-mat",
+    imageUrl: "https://m.media-amazon.com/images/I/31ySnR9r0-L._SL500_.jpg",
     category: "pets",
     name: { en: "Green Pet Shop Cooling Mat" },
     description: { en: "The Green Pet Shop Cooling Mat uses convenient pressure-activated gel cooling that needs no electricity, water, or refrigeration — it works the moment your dog lies on it." },
@@ -43657,6 +43948,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "k-and-h-coolin-pet-pad",
+    imageUrl: "https://cdn.shoplightspeed.com/shops/652071/files/48804080/800x1024x1/k-h-manufacturing-k-h-manufacturing-coolin-pet-pad.jpg",
     category: "pets",
     name: { en: "K And H Coolin Pet Pad" },
     description: { en: "The K&H Coolin' Pet Pad is the pick for dogs that might chew, because it's a water-filled cooling mat rather than gel — a meaningful safety and durability difference." },
@@ -43667,6 +43959,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "arf-pets-self-cooling-mat",
+    imageUrl: "https://9to5toys.com/wp-content/uploads/sites/5/2018/08/Arf-Pets-Pet-Dog-Self-Cooling-Mat-Pad.jpg?resize=1024,512",
     category: "pets",
     name: { en: "Arf Pets Self Cooling Mat" },
     description: { en: "The Arf Pets Self-Cooling Mat is a popular pressure-activated gel mat positioned as a well-reviewed, often mid-priced option with a focus on a durable cover and a range of sizes." },
@@ -43677,6 +43970,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "chillz-cooling-mat",
+    imageUrl: "https://i6.govx.net/images/10700285_chillz-cooling-gel-mat-for-pets-comfort-relief-for-dogs-and-cats_t600.png?v=LiA6zVvscJPa5jgbrJIR5Q==",
     category: "pets",
     name: { en: "Chillz Cooling Mat" },
     description: { en: "The Chillz Cooling Mat is the budget pick — an affordable, popular pressure-activated gel cooling mat (similar in concept to the Green Pet Shop) at a lower price, for self-cooling…" },
@@ -43687,6 +43981,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frisco-cooling-mat",
+    imageUrl: "https://www.dogster.com/wp-content/uploads/2022/02/Frisco-Cooling-Orthopedic-Dog-Crate-Mat-2024.png",
     category: "pets",
     name: { en: "Frisco Cooling Mat" },
     description: { en: "The Frisco Cooling Mat is the value retailer-brand pick — Frisco (Chewy's house brand) offers affordable, no-nonsense pressure-activated gel cooling mats that do the core self-coo…" },
@@ -43697,6 +43992,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "pendleton-board-shirt",
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/A1zv4vjXSdL._AC_UL1500_.jpg",
     category: "fashion",
     name: { en: "Pendleton Board Shirt" },
     description: { en: "The Pendleton Board Shirt is the heritage, warmest pick — a genuine wool flannel that's the warmest, most premium, and most distinctive option here." },
@@ -43707,6 +44003,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ll-bean-scotch-plaid-flannel",
+    imageUrl: "https://m.media-amazon.com/images/I/81nfHZ18jrL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Ll Bean Scotch Plaid Flannel" },
     description: { en: "The L.L.Bean Scotch Plaid Flannel nails the balance of genuine warmth, softness, durability, and classic style at a fair price, backed by L.L.Bean's legendary guarantee." },
@@ -43717,6 +44014,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "carhartt-rugged-flex-flannel",
+    imageUrl: "https://m.media-amazon.com/images/I/71t-BL3scjL._AC_SL1000_.jpg",
     category: "fashion",
     name: { en: "Carhartt Rugged Flex Flannel" },
     description: { en: "The Carhartt Rugged Flex Flannel is the rugged workwear pick built for durability and real work." },
@@ -43727,6 +44025,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "flint-and-tinder-flannel",
+    imageUrl: "https://m.media-amazon.com/images/I/91qMfK4+4DL._AC_SX342_SY445_QL70_ML2_.jpg",
     category: "fashion",
     name: { en: "Flint And Tinder Flannel" },
     description: { en: "The Flint and Tinder Flannel is the premium-cotton, modern-fit pick for an elevated, well-tailored flannel with quality fabric and contemporary styling." },
@@ -43737,6 +44036,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "eddie-bauer-flannel",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/383fc4e9-17af-40bd-828b-6bb44f63f01b.__CR0,0,1464,600_PT0_SX1464_V1___.png",
     category: "fashion",
     name: { en: "Eddie Bauer Flannel" },
     description: { en: "The Eddie Bauer Flannel is the budget value pick — an affordable, soft, dependable cotton flannel that covers the everyday essentials at a lower price than the premium options." },
@@ -43747,6 +44047,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "revlon-one-step-volumizer",
+    imageUrl: "https://m.media-amazon.com/images/I/717ubYggVJL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Revlon One Step Volumizer" },
     description: { en: "The Revlon One-Step Volumizer delivers a genuinely good, voluminous, blowout-style finish in one step at a remarkably low price — which is exactly why it became a viral cult produ…" },
@@ -43757,6 +44058,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dyson-airwrap",
+    imageUrl: "https://m.media-amazon.com/images/I/614I-XxCGoL._SL1500_.jpg",
     category: "beauty",
     name: { en: "Dyson Airwrap" },
     description: { en: "The Dyson Airwrap is the premium, fundamentally different and more versatile tool." },
@@ -43767,6 +44069,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "shark-flexstyle",
+    imageUrl: "https://m.media-amazon.com/images/I/710sxlkCyUL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Shark Flexstyle" },
     description: { en: "The Shark FlexStyle offers Dyson-Airwrap-style versatility and airflow technology at a notably lower (still premium) price." },
@@ -43777,6 +44080,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "hot-tools-one-step",
+    imageUrl: "https://m.media-amazon.com/images/I/712jWl-tQ9L._SL1500_.jpg",
     category: "beauty",
     name: { en: "Hot Tools One Step" },
     description: { en: "The Hot Tools One-Step is the salon-brand alternative to the Revlon for a one-step dryer brush from a professional hair-tool name." },
@@ -43787,6 +44091,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "l-ange-le-volume-2-in-1",
+    imageUrl: "https://m.media-amazon.com/images/I/81VqyjDOVtL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "L Ange Le Volume 2 In 1" },
     description: { en: "The L'ange Le Volume 2-in-1 is the stylish value alternative — a one-step volumizing hot-air brush from a popular direct-to-consumer hair brand known for attractive, well-reviewed…" },
@@ -43797,6 +44102,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "waterpik-aquarius",
+    imageUrl: "https://m.media-amazon.com/images/I/71UrnA8I3kL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Waterpik Aquarius" },
     description: { en: "The Waterpik Aquarius is the proven, dentist-recommended countertop standard with the power, capacity, and features to make daily use easy and effective." },
@@ -43807,6 +44113,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "waterpik-cordless-advanced",
+    imageUrl: "https://m.media-amazon.com/images/I/71T93tzqVhL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Waterpik Cordless Advanced" },
     description: { en: "The Waterpik Cordless Advanced is the best pick for travel, small bathrooms, or anyone without counter space, delivering effective water flossing in a portable, rechargeable handh…" },
@@ -43817,6 +44124,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "philips-sonicare-power-flosser",
+    imageUrl: "https://m.media-amazon.com/images/I/71Tt2O5cAUL.jpg",
     category: "beauty",
     name: { en: "Philips Sonicare Power Flosser" },
     description: { en: "The Philips Sonicare Power Flosser is the premium connected pick for someone in the Sonicare ecosystem or wanting a more refined, feature-rich experience." },
@@ -43827,6 +44135,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "h2ofloss-water-flosser",
+    imageUrl: "https://m.media-amazon.com/images/I/71ca6HQPBwL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "H2ofloss Water Flosser" },
     description: { en: "The H2ofloss Water Flosser is the value countertop alternative competing closely with the Waterpik on power and features for less money." },
@@ -43837,6 +44146,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "binicare-water-flosser",
+    imageUrl: "https://m.media-amazon.com/images/I/71LkTMUytCL._SL1500_.jpg",
     category: "beauty",
     name: { en: "Binicare Water Flosser" },
     description: { en: "The Binicare Water Flosser is the budget pick — an affordable cordless or compact unit that does the core job (a pressurised water stream to clean between teeth) at a low price, f…" },
@@ -43847,6 +44157,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "black-decker-dustbuster",
+    imageUrl: "https://m.media-amazon.com/images/I/61xlDXfTFcL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Black Decker Dustbuster" },
     description: { en: "The Black+Decker Dustbuster nails the core job — convenient, grab-and-go cordless cleanup of everyday messes — reliably and affordably, which is why it's the original and still mo…" },
@@ -43857,6 +44168,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "shark-wandvac",
+    imageUrl: "https://m.media-amazon.com/images/I/71EB7u6C85L._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Shark Wandvac" },
     description: { en: "The Shark WandVac is the sleek, ultra-portable cordless pick balancing genuinely useful suction with a remarkably slim, light, easy-to-handle design." },
@@ -43867,6 +44179,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dyson-v8-handheld",
+    imageUrl: "https://m.media-amazon.com/images/I/61BhRhkWJ9L._AC_.jpg",
     category: "home",
     name: { en: "Dyson V8 Handheld" },
     description: { en: "The Dyson V8 handheld is the most powerful pick for serious suction in a handheld." },
@@ -43877,6 +44190,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "bissell-pet-hair-eraser-handheld",
+    imageUrl: "https://m.media-amazon.com/images/I/71G-GNHbFXL._AC_.jpg",
     category: "home",
     name: { en: "Bissell Pet Hair Eraser Handheld" },
     description: { en: "The Bissell Pet Hair Eraser handheld is the specialist pick for pet owners, purpose-built to tackle pet hair on furniture, stairs, car interiors, and upholstery." },
@@ -43887,6 +44201,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "hoover-onepwr-handheld",
+    imageUrl: "https://m.media-amazon.com/images/I/71xdJW-tzaL.jpg",
     category: "home",
     name: { en: "Hoover Onepwr Handheld" },
     description: { en: "The Hoover ONEPWR handheld is the value pick for a capable cordless handheld, especially if buying into a battery system." },
@@ -43897,6 +44212,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "brooklinen-classic-percale",
+    imageUrl: "https://people.com/thmb/amkJ2ddbuOGz_wVIciSXUX4QDlM=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/brooklinen-classic-percale-hardcore-sheet-bundle-d81b98ea19794739a188a6ea55ced992.jpg",
     category: "home",
     name: { en: "Brooklinen Classic Percale" },
     description: { en: "The Brooklinen Classic Percale delivers genuinely high-quality, crisp, cool, durable cotton sheets at a fair mid-range price, from the brand that popularised direct-to-consumer qu…" },
@@ -43907,6 +44223,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "parachute-sateen-sheets",
+    imageUrl: "https://www.oursleepguide.com/wp-content/uploads/2020/02/parachute-sateen-duvet-cover-light-grey-000-2.jpg",
     category: "home",
     name: { en: "Parachute Sateen Sheets" },
     description: { en: "The Parachute Sateen is the premium pick for elevated, beautifully-made cotton sheets with a refined feel and aesthetic." },
@@ -43917,6 +44234,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "mellanni-microfiber-sheets",
+    imageUrl: "https://m.media-amazon.com/images/I/71ius0UGOLL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Mellanni Microfiber Sheets" },
     description: { en: "The Mellanni Microfiber Sheets are the budget champion — extremely affordable, soft, wrinkle-resistant, and a perennial best-seller for comfortable sheets at very little money." },
@@ -43927,6 +44245,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "california-design-den-cotton",
+    imageUrl: "https://m.media-amazon.com/images/I/71wq2jYFc7L.jpg",
     category: "home",
     name: { en: "California Design Den Cotton" },
     description: { en: "The California Design Den Cotton Sheets are the value pick for genuine quality cotton (not microfiber) at an affordable price, bridging budget microfiber and premium cotton brands." },
@@ -43937,6 +44256,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "boll-and-branch-signature",
+    imageUrl: "https://m.media-amazon.com/images/I/61l1SB0+A3L._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Boll And Branch Signature" },
     description: { en: "The Boll & Branch Signature is the luxury, organic, ethical pick for the finest sustainable cotton sheets." },
@@ -43947,6 +44267,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "simplehuman-rectangular-step-can",
+    imageUrl: "https://m.media-amazon.com/images/I/81hRE-72wDL._SL1500_.jpg",
     category: "home",
     name: { en: "Simplehuman Rectangular Step Can" },
     description: { en: "The simplehuman Rectangular Step Can is the thoughtfully-engineered standard that gets every detail right and lasts for years." },
@@ -43957,6 +44278,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ninestars-automatic-sensor-can",
+    imageUrl: "https://m.media-amazon.com/images/I/718GN3b5JrL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Ninestars Automatic Sensor Can" },
     description: { en: "The Ninestars Automatic Sensor Can is the best motion-sensor (touchless) trash can for completely hands-free, contactless opening." },
@@ -43967,6 +44289,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "rubbermaid-step-can",
+    imageUrl: "https://m.media-amazon.com/images/I/41l-gsQMleL._AC_SL1000_.jpg",
     category: "home",
     name: { en: "Rubbermaid Step Can" },
     description: { en: "The Rubbermaid Step Can is the budget pick for a reliable, no-frills step-pedal trash can at a low price from a trusted housewares brand." },
@@ -43977,6 +44300,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "glad-stainless-step-can",
+    imageUrl: "https://m.media-amazon.com/images/I/8112s5vWm0L.jpg",
     category: "home",
     name: { en: "Glad Stainless Step Can" },
     description: { en: "The Glad Stainless Step Can is the mainstream value pick that adds nice touches at an accessible price." },
@@ -43987,6 +44311,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "itouchless-sensor-can",
+    imageUrl: "https://m.media-amazon.com/images/I/71uaweqGF5L._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Itouchless Sensor Can" },
     description: { en: "The iTouchless Sensor Can is the value-and-features touchless alternative, a well-reviewed automatic sensor can that often adds useful extras at a competitive price." },
@@ -43997,6 +44322,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "amazon-echo-show-8",
+    imageUrl: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/09/amazon-echo-show-8-2023-1.jpg",
     category: "tech",
     name: { en: "Amazon Echo Show 8" },
     description: { en: "The Amazon Echo Show 8 hits the sweet spot of screen size, sound, features, and price in the dominant Alexa ecosystem." },
@@ -44007,6 +44333,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "google-nest-hub-2nd-gen",
+    imageUrl: "https://m.media-amazon.com/images/I/51tx4G8JuXL._AC_SL1000_.jpg",
     category: "tech",
     name: { en: "Google Nest Hub 2nd Gen" },
     description: { en: "The Google Nest Hub (2nd gen) is the best pick for Google-ecosystem users and those who prefer Google Assistant." },
@@ -44017,6 +44344,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "amazon-echo-show-5",
+    imageUrl: "https://m.media-amazon.com/images/I/51v0tyxYrjL.jpg",
     category: "tech",
     name: { en: "Amazon Echo Show 5" },
     description: { en: "The Amazon Echo Show 5 is the budget and compact pick — a small (~5.5-inch) Alexa display at a low price, ideal as a smart alarm clock on a nightstand, a compact kitchen helper, o…" },
@@ -44027,6 +44355,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "google-nest-hub-max",
+    imageUrl: "https://m.media-amazon.com/images/I/61JRE6wk8+L._AC_SL1416_.jpg",
     category: "tech",
     name: { en: "Google Nest Hub Max" },
     description: { en: "The Google Nest Hub Max is the premium, larger Google smart display for a bigger screen, better sound, and a camera in the Google ecosystem." },
@@ -44037,6 +44366,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "amazon-echo-show-15",
+    imageUrl: "https://images.thdstatic.com/productImages/4d82c702-2d46-4866-9f63-6f3c75ea8aeb/svn/black-amazon-smart-speakers-and-displays-b0c5dpsw5y-64_600.jpg",
     category: "tech",
     name: { en: "Amazon Echo Show 15" },
     description: { en: "The Amazon Echo Show 15 is the large, wall-mountable smart display designed as a family hub and central organiser, not a counter device." },
@@ -44047,6 +44377,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "lg-ultragear-27gp850",
+    imageUrl: "https://m.media-amazon.com/images/I/71g9q4saOcL._AC_.jpg",
     category: "tech",
     name: { en: "Lg Ultragear 27gp850" },
     description: { en: "The LG UltraGear 27GP850 balances the things that matter — fast refresh, sharp resolution, excellent response, and great image quality — at a sensible price." },
@@ -44057,6 +44388,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "samsung-odyssey-g7",
+    imageUrl: "https://m.media-amazon.com/images/I/81hRPhYBV7L._AC_.jpg",
     category: "tech",
     name: { en: "Samsung Odyssey G7" },
     description: { en: "The Samsung Odyssey G7 is the pick for a fast, immersive, curved high-refresh experience with punchy contrast." },
@@ -44067,6 +44399,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "asus-tuf-vg27aq",
+    imageUrl: "https://m.media-amazon.com/images/I/71L4fB4r8rL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Asus Tuf Vg27aq" },
     description: { en: "The ASUS TUF VG27AQ delivers high-refresh 1440p IPS gaming at a more accessible price, from ASUS's reliable gaming line." },
@@ -44077,6 +44410,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "alienware-aw2724dm",
+    imageUrl: "https://m.media-amazon.com/images/I/71wVLtHhC1L._AC_.jpg",
     category: "tech",
     name: { en: "Alienware Aw2724dm" },
     description: { en: "The Alienware AW2724DM is the premium pick for top-tier performance, build quality, and Dell/Alienware's design and support." },
@@ -44087,6 +44421,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "gigabyte-m27q",
+    imageUrl: "https://m.media-amazon.com/images/I/71Wg4PqSFTL.jpg",
     category: "tech",
     name: { en: "Gigabyte M27q" },
     description: { en: "The Gigabyte M27Q crams impressive specs and extras into an affordable 1440p high-refresh monitor." },
@@ -44097,6 +44432,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "anker-nano-ii-65w",
+    imageUrl: "https://m.media-amazon.com/images/I/51n2wJbZIRL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Anker Nano Ii 65w" },
     description: { en: "The Anker Nano II 65W is astonishingly compact, fast enough to charge almost anything, and from the most trusted charging brand at a fair price." },
@@ -44107,6 +44443,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "anker-prime-100w",
+    imageUrl: "https://m.media-amazon.com/images/I/61R3k6I3uvL._AC_.jpg",
     category: "tech",
     name: { en: "Anker Prime 100w" },
     description: { en: "The Anker Prime 100W is the premium multi-port pick for charging several devices fast from one powerful, compact charger." },
@@ -44117,6 +44454,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ugreen-nexode-100w",
+    imageUrl: "https://m.media-amazon.com/images/I/51jo5j8f8GL._AC_.jpg",
     category: "tech",
     name: { en: "Ugreen Nexode 100w" },
     description: { en: "The UGREEN Nexode 100W delivers similar high-power, multi-port GaN charging at a lower price." },
@@ -44127,6 +44465,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "apple-35w-dual-usb-c",
+    imageUrl: "https://m.media-amazon.com/images/I/51c+9J+y7IL.jpg",
     category: "tech",
     name: { en: "Apple 35w Dual Usb C" },
     description: { en: "The Apple 35W Dual USB-C is the pick for Apple users wanting a simple, official two-port charger for charging two devices (like an iPhone and AirPods, or an iPad and iPhone) at on…" },
@@ -44137,6 +44476,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "satechi-165w-gan",
+    imageUrl: "https://images-cdn.ubuy.co.in/634ebfa51ed51e17a1132869-satechi-165w-usb-c-4-port-pd-gan-charger.jpg",
     category: "tech",
     name: { en: "Satechi 165w Gan" },
     description: { en: "The Satechi 165W is the desktop powerhouse for charging many devices, including multiple laptops, from one high-wattage hub." },
@@ -44147,6 +44487,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "stx-turboforce-3000",
+    imageUrl: "https://m.media-amazon.com/images/I/71GRKDswm1L._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Stx Turboforce" },
     description: { en: "The STX Turboforce 3000 offers powerful, fast grinding and a generous attachment set at a value price — the sweet spot of performance and cost." },
@@ -44157,6 +44498,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "lem-big-bite-8",
+    imageUrl: "https://m.media-amazon.com/images/I/71Th-KthwkL.jpg",
     category: "food",
     name: { en: "Lem Big Bite 8" },
     description: { en: "The LEM Big Bite #8 is the heavy-duty pick for serious hunters, sausage-makers, and anyone grinding large quantities who wants a durable, commercial-grade machine built to last." },
@@ -44167,6 +44509,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kitchenaid-grinder-attachment",
+    imageUrl: "https://m.media-amazon.com/images/I/61wFGagBoTL.jpg",
     category: "food",
     name: { en: "Kitchenaid Grinder Attachment" },
     description: { en: "The KitchenAid Grinder Attachment is the pick for someone who already owns a KitchenAid stand mixer and wants to grind meat without a separate appliance." },
@@ -44177,6 +44520,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "gourmia-electric-grinder",
+    imageUrl: "https://m.media-amazon.com/images/I/81AY2T-EGeL._AC_.jpg",
     category: "food",
     name: { en: "Gourmia Electric Grinder" },
     description: { en: "The Gourmia Electric Grinder is the accessible value pick — a capable electric countertop meat grinder at a mid-budget price for grinding meat at home without the cost of the STX…" },
@@ -44187,6 +44531,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "sunmile-electric-grinder",
+    imageUrl: "https://m.media-amazon.com/images/I/61fLrfPyq4L._AC_SL1200_.jpg",
     category: "food",
     name: { en: "Sunmile Electric Grinder" },
     description: { en: "The Sunmile Electric Grinder is the budget standout — an affordable, popular, compact electric meat grinder that does the core job (grinding meat for burgers and basic sausage-mak…" },
@@ -44197,6 +44542,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "oster-cordless-wine-opener",
+    imageUrl: "https://m.media-amazon.com/images/I/71eh1j4Yr1L._AC_SX679_.jpg",
     category: "food",
     name: { en: "Oster Cordless Wine Opener" },
     description: { en: "The Oster Cordless Wine Opener reliably and effortlessly removes corks at the push of a button, opens plenty of bottles per charge, and comes from a trusted brand at a fair price." },
@@ -44207,6 +44553,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "secura-electric-wine-opener",
+    imageUrl: "https://m.media-amazon.com/images/I/71Er0TEZgML._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Secura Electric Wine Opener" },
     description: { en: "The Secura Electric Wine Opener is the value all-rounder that often bundles a complete opening kit at a competitive price." },
@@ -44217,6 +44564,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "cuisinart-cwo-50",
+    imageUrl: "https://cdn.awsli.com.br/2500x2500/775/775875/produto/199835284/tmp43-3680ba550e.jpg",
     category: "food",
     name: { en: "Cuisinart Cwo 50" },
     description: { en: "The Cuisinart CWO-50 is the trusted-brand pick for an electric wine opener from a respected kitchen-appliance name with reliable performance and a quality feel." },
@@ -44227,6 +44575,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ozeri-nouveaux-electric",
+    imageUrl: "https://m.media-amazon.com/images/I/71cg3E9Ac7L._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Ozeri Nouveaux Electric" },
     description: { en: "The Ozeri Nouveaux is the premium-feel, design-forward pick for an electric wine opener that looks elegant on a counter or as a gift." },
@@ -44237,6 +44586,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "brewberry-electric-corkscrew",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A1OXMGBNNDVO3Y/B01GOXW6OE/M77Esn7DS8z._UX300_TTW__.jpg",
     category: "food",
     name: { en: "Brewberry Electric Corkscrew" },
     description: { en: "The Brewberry Electric Corkscrew is the budget pick — an affordable electric wine opener delivering the core one-button cork-removal function at a low price, for effortless openin…" },
@@ -44247,6 +44597,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "outward-hound-fun-feeder",
+    imageUrl: "https://m.media-amazon.com/images/I/812ibfa6VVL._AC_SL1500_.jpg",
     category: "pets",
     name: { en: "Outward Hound Fun Feeder" },
     description: { en: "The Outward Hound Fun Feeder is the original, proven slow-feeder design that genuinely works, in multiple difficulty levels and sizes to match any dog." },
@@ -44257,6 +44608,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "jasgood-slow-feeder",
+    imageUrl: "https://m.media-amazon.com/images/I/51kJx9eGuXL._SY300_SX300_QL70_ML2_.jpg",
     category: "pets",
     name: { en: "Jasgood Slow Feeder" },
     description: { en: "The JASGOOD Slow Feeder is the value pick that delivers an effective slow-feeder maze at a lower price than the Outward Hound." },
@@ -44267,6 +44619,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "neater-pet-slow-feeder",
+    imageUrl: "https://m.media-amazon.com/images/I/715WBDUeIjL._AC_SL1500_.jpg",
     category: "pets",
     name: { en: "Neater Pet Slow Feeder" },
     description: { en: "The Neater Pet Slow Feeder is the pick for slow feeding combined with mess and spill control." },
@@ -44277,6 +44630,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "lorde-slow-feeder-bowl",
+    imageUrl: "https://m.media-amazon.com/images/I/51tEYFxh6tL._AC_SL1000_.jpg",
     category: "pets",
     name: { en: "Lorde Slow Feeder Bowl" },
     description: { en: "The LORDE Slow Feeder Bowl is the pick for a more hygienic or premium-feeling slow feeder, often featuring a stainless-steel maze insert or a more durable design." },
@@ -44287,6 +44641,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frisco-slow-feeder-bowl",
+    imageUrl: "https://articles.hepper.com/wp-content/uploads/2021/11/Frisco-Silicone-Slow-Feeder-Mat-with-Bowl-2024-768x259.jpg",
     category: "pets",
     name: { en: "Frisco Slow Feeder Bowl" },
     description: { en: "The Frisco Slow Feeder Bowl is the house-brand value pick — Chewy's Frisco offers affordable, dependable slow-feeder maze bowls that do the core job at a budget-friendly price, in…" },
@@ -44297,6 +44652,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "the-north-face-etip-gloves",
+    imageUrl: "https://m.media-amazon.com/images/I/81FnIr2AG7L._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "The North Face Etip Gloves" },
     description: { en: "The North Face Etip gloves balance everyday warmth with the touchscreen compatibility and dexterity modern life demands." },
@@ -44307,6 +44663,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "carhartt-insulated-gloves",
+    imageUrl: "https://m.media-amazon.com/images/I/81jemZzeZgL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Carhartt Insulated Gloves" },
     description: { en: "The Carhartt Insulated Gloves are the rugged work pick for warm, durable, protective gloves for outdoor work, manual tasks, or hard winter use." },
@@ -44317,6 +44674,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ozero-thermal-gloves",
+    imageUrl: "https://m.media-amazon.com/images/I/71H6dNOtg5L._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Ozero Thermal Gloves" },
     description: { en: "The OZERO Thermal Gloves deliver warmth, water resistance, and touchscreen compatibility at a low price, for capable everyday winter gloves without spending much." },
@@ -44327,6 +44685,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "hestra-army-leather-gloves",
+    imageUrl: "https://m.media-amazon.com/images/I/81YcWrzYZKL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Hestra Army Leather Gloves" },
     description: { en: "The Hestra Army Leather gloves are the premium pick for the finest quality, warmth, and craftsmanship — genuine leather gloves built to last years." },
@@ -44337,6 +44696,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "180s-tec-touch-gloves",
+    imageUrl: "https://m.media-amazon.com/images/I/91PWewKJRlS._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "180s Tec Touch Gloves" },
     description: { en: "The 180s Tec Touch is the touchscreen-tech and comfort pick for someone who prioritises reliable touchscreen use and a comfortable, performance-oriented everyday glove." },
@@ -44347,6 +44707,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "wahl-elite-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/71wm5KkySzL.jpg",
     category: "beauty",
     name: { en: "Wahl Elite Pro" },
     description: { en: "The Wahl Elite Pro pairs a genuinely powerful motor and self-sharpening precision blades with a complete guard set at a fair price — the best home-haircutting package from the most trusted clipper brand." },
@@ -44357,6 +44718,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "andis-master",
+    imageUrl: "https://m.media-amazon.com/images/I/51roZZaUT1L._SY879_.jpg",
     category: "beauty",
     name: { en: "Andis Master" },
     description: { en: "The Andis Master is the pick for fades, detailing, and barber-grade performance — a professional clipper beloved for precise, clean cuts and fading." },
@@ -44367,6 +44729,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "oster-classic-76",
+    imageUrl: "https://m.media-amazon.com/images/I/81uoEj3v6IL._SL1500_.jpg",
     category: "beauty",
     name: { en: "Oster Classic 76" },
     description: { en: "The Oster Classic 76 is the heavy-duty professional workhorse built for all-day barbershop use and the toughest cutting." },
@@ -44377,6 +44740,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "philips-norelco-multigroom",
+    imageUrl: "https://m.media-amazon.com/images/I/71RPbjV0FiL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Philips Norelco Multigroom" },
     description: { en: "The Philips Norelco Multigroom is the versatile all-in-one pick for trimming hair, beard, body, and detail areas with one device rather than a dedicated head-hair clipper." },
@@ -44387,6 +44751,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "wahl-color-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/61HfweGzmgL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Wahl Color Pro" },
     description: { en: "The Wahl Color Pro is the budget pick — an affordable, complete home haircutting kit that does the core job at a low price, for starting to cut hair at home cheaply." },
@@ -44397,6 +44762,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "beautyblender-original",
+    imageUrl: "https://m.media-amazon.com/images/I/8198m1HCasL._AC_SL1500_.jpg",
     category: "beauty",
     name: { en: "Beautyblender Original" },
     description: { en: "The Beautyblender Original is the cult original that set the standard for a flawless, airbrushed foundation finish, and it still does it best." },
@@ -44407,6 +44773,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "real-techniques-miracle-complexion",
+    imageUrl: "https://m.media-amazon.com/images/I/71QRc8vvy6L.jpg",
     category: "beauty",
     name: { en: "Real Techniques Miracle Complexion" },
     description: { en: "The Real Techniques Miracle Complexion Sponge delivers a blend very close to the Beautyblender at a fraction of the price — one of the most popular and recommended dupes." },
@@ -44417,6 +44784,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "ecotools-perfecting-sponge",
+    imageUrl: "https://m.media-amazon.com/images/I/410CQ7c1x1L._AC_SS450_.jpg",
     category: "beauty",
     name: { en: "Ecotools Perfecting Sponge" },
     description: { en: "The EcoTools Perfecting Blender Sponge is the eco-conscious value pick for a good blending sponge made with sustainable materials at an affordable price." },
@@ -44427,6 +44795,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "aoa-wonder-blender",
+    imageUrl: "https://m.media-amazon.com/images/I/61NvTGruLoL._AC_.jpg",
     category: "beauty",
     name: { en: "Aoa Wonder Blender" },
     description: { en: "The AOA Wonder Blender is the rock-bottom budget pick — an extremely cheap egg-shaped sponge (often sold in multipacks for a tiny price) for functional blending without spending much, or for rotating and replacing sponges frequently." },
@@ -44437,6 +44806,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "juno-co-sponge",
+    imageUrl: "https://m.media-amazon.com/images/I/51U5qpHqLjL._SL1000_.jpg",
     category: "beauty",
     name: { en: "Juno Co Sponge" },
     description: { en: "The juno & co." },
@@ -44447,6 +44817,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "amazon-basics-foldable-rack",
+    imageUrl: "https://media1.popsugar-assets.com/files/thumbor/oNHdu9GMnc2fTRk3yLLEHhqFRQ4/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/11/18/075/n/44100376/192cb3190c209f37_AmazonBasicsfoldinglaundryrack/i/AmazonBasics-Foldable-Laundry-Rack.jpg",
     category: "home",
     name: { en: "Amazon Basics Foldable Rack" },
     description: { en: "The Amazon Basics Foldable Drying Rack offers solid drying capacity, a fully foldable flat design for storage, and dependable stability at a low price." },
@@ -44457,6 +44828,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "honey-can-do-gullwing-rack",
+    imageUrl: "https://m.media-amazon.com/images/I/71MkVzg8FDL.jpg",
     category: "home",
     name: { en: "Honey Can Do Gullwing Rack" },
     description: { en: "The Honey-Can-Do Gullwing Drying Rack is the high-capacity pick for drying a lot of laundry at once." },
@@ -44467,6 +44839,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "brabantia-hangon-rack",
+    imageUrl: "https://m.media-amazon.com/images/I/411L-+99hfL._AC_SL1000_.jpg",
     category: "home",
     name: { en: "Brabantia Hangon Rack" },
     description: { en: "The Brabantia HangOn is the premium pick for superior build quality, stability, thoughtful design, and durability." },
@@ -44477,6 +44850,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "household-essentials-drying-rack",
+    imageUrl: "https://m.media-amazon.com/images/I/716VusCgC-L._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Household Essentials Drying Rack" },
     description: { en: "The Household Essentials Drying Rack covers a range of useful designs — including sturdy tripod, X-frame, and wooden accordion racks — aimed at solid capacity and stability." },
@@ -44487,6 +44861,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "polder-accordion-rack",
+    imageUrl: "https://m.media-amazon.com/images/I/41SJvRZrUTL._SL500_.jpg",
     category: "home",
     name: { en: "Polder Accordion Rack" },
     description: { en: "The Polder Accordion Drying Rack is the compact, space-saving pick for small homes, apartments, and tight spaces." },
@@ -44497,6 +44872,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "seville-classics-shoe-rack",
+    imageUrl: "https://m.media-amazon.com/images/I/81X+Wka7WzL._AC_.jpg",
     category: "home",
     name: { en: "Seville Classics Shoe Rack" },
     description: { en: "The Seville Classics Shoe Rack combines sturdy metal construction, genuine capacity, and a stable, quality build at a fair price." },
@@ -44507,6 +44883,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "simple-houseware-stackable",
+    imageUrl: "https://m.media-amazon.com/images/I/81zh38UCdSL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Simple Houseware Stackable" },
     description: { en: "The SimpleHouseware Stackable Shoe Rack is the pick for flexible, expandable capacity that grows with your collection and fits your space." },
@@ -44517,6 +44894,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "songmics-shoe-rack",
+    imageUrl: "https://m.media-amazon.com/images/I/81gsK3axJ7L._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Songmics Shoe Rack" },
     description: { en: "The SONGMICS Cube Storage is the pick for enclosed, versatile, modular cube storage that hides shoes (and other items) behind a tidy, often door-fronted facade." },
@@ -44527,6 +44905,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "whitmor-shoe-rack",
+    imageUrl: "https://m.media-amazon.com/images/I/91lj2HoQtUL._AC_.jpg",
     category: "home",
     name: { en: "Whitmor Shoe Rack" },
     description: { en: "The Whitmor Shoe Rack covers a range of practical designs aimed at solid capacity and value, including tall multi-tier towers and wider racks for bigger collections." },
@@ -44537,6 +44916,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "amazonbasics-shoe-rack",
+    imageUrl: "https://m.media-amazon.com/images/I/617ZLZdb20L.jpg",
     category: "home",
     name: { en: "Amazonbasics Shoe Rack" },
     description: { en: "The Amazon Basics Shoe Rack is the budget pick — a simple, affordable multi-tier shoe rack that does the core job at a low price, for basic shoe organisation without spending much." },
@@ -44547,6 +44927,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "brooklinen-down-comforter",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6f3487e9-c6d3-42cb-9aba-88ee2beec9d3.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     category: "home",
     name: { en: "Brooklinen Down Comforter" },
     description: { en: "The Brooklinen Down Comforter delivers genuine down warmth and luxury at a fair price, in multiple warmth levels to match your climate and sleep temperature." },
@@ -44557,6 +44938,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "buffy-cloud",
+    imageUrl: "https://m.media-amazon.com/images/I/51sn6jWkFfL._AC_SL1080_.jpg",
     category: "home",
     name: { en: "Buffy Cloud" },
     description: { en: "The Buffy Cloud is the best down-alternative pick — down-like softness and warmth without animal down, ideal for allergy sufferers, vegans, or anyone who prefers synthetic fill or easier care." },
@@ -44567,6 +44949,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "quince-european-down",
+    imageUrl: "https://www.southernliving.com/thmb/oappcTcxzxJdAzQ3GdMJu8UiU3U=/fit-in/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/quince-premium-down-comforter-b04467f99ba84213a56e634772b10b1b.jpg",
     category: "home",
     name: { en: "Quince European Down" },
     description: { en: "The Quince European Down comforter is the luxury pick — premium high-fill-power European white down at a price that undercuts traditional luxury bedding." },
@@ -44577,6 +44960,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "linenspa-down-alternative",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4a01bfc5-bb12-497d-955a-f9836b3f7fc2.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     category: "home",
     name: { en: "Linenspa Down Alternative" },
     description: { en: "The Linenspa Down Alternative Comforter is the value down-alternative pick — soft, warm, hypoallergenic synthetic-fill comfort at a low price, for animal-free, easy-care warmth without spending much." },
@@ -44587,6 +44971,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "utopia-bedding-comforter",
+    imageUrl: "https://m.media-amazon.com/images/I/81ZaX1Dy1tL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Utopia Bedding Comforter" },
     description: { en: "The Utopia Bedding Comforter is the rock-bottom budget pick — an extremely affordable down-alternative comforter (often a perennial best-seller, sometimes sold as a comforter-and-pillow set) for basic, warm, washable bedding at the lowest price." },
@@ -44597,6 +44982,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tp-link-re605x",
+    imageUrl: "https://m.media-amazon.com/images/I/71keRbcWj1L._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Tp Link Re605x" },
     description: { en: "The TP-Link RE605X (AX1800) is a WiFi 6 extender that's genuinely fast, covers a good area, and supports OneMesh so it works as part of a seamless network rather than a separate one — at a reasonable price." },
@@ -44607,6 +44993,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "asus-rp-ax58",
+    imageUrl: "https://webshop.asus.com/media/0e/3b/93/1710714755/f7180376c0fe315a32b03326c7c0e65c.png",
     category: "tech",
     name: { en: "Asus Rp Ax58" },
     description: { en: "The ASUS RP-AX58 (AX3000) is the premium WiFi 6 pick — the fastest, most capable extender here with AiMesh support, ideal for pairing with an ASUS router." },
@@ -44617,6 +45004,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "netgear-ex7300",
+    imageUrl: "https://m.media-amazon.com/images/I/31xGCFFXkVL._AC_.jpg",
     category: "tech",
     name: { en: "Netgear Ex7300" },
     description: { en: "The Netgear EX7300 (Nighthawk Mesh X6S, AC2200) is the high-coverage tri-band pick — strong coverage and a dedicated backhaul band, though it's WiFi 5." },
@@ -44627,6 +45015,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "linksys-re7350",
+    imageUrl: "https://m.media-amazon.com/images/I/61l7Kew5ihL.jpg",
     category: "tech",
     name: { en: "Linksys Re7350" },
     description: { en: "The Linksys RE7350 (AX1800) is a solid value WiFi 6 pick — a WiFi 6 AX1800 extender with good coverage and a gigabit port at a competitive price, for modern WiFi 6 extension without paying premium." },
@@ -44637,6 +45026,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tp-link-re315",
+    imageUrl: "https://m.media-amazon.com/images/I/61+R8IFfkHL.jpg",
     category: "tech",
     name: { en: "Tp Link Re315" },
     description: { en: "The TP-Link RE315 (AC1200) is the budget pick — an inexpensive, reliable WiFi 5 extender that covers a dead zone cheaply, for patching a weak-signal area without spending much." },
@@ -44647,6 +45037,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "samsung-pro-plus",
+    imageUrl: "https://m.media-amazon.com/images/I/61UjpumuDYL.jpg",
     category: "tech",
     name: { en: "Samsung Pro Plus" },
     description: { en: "The Samsung Pro Plus combines fast, reliable read AND write speeds, the right ratings for 4K video and demanding use, strong durability, and Samsung's trusted reliability — at a fair price." },
@@ -44657,6 +45048,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "sandisk-extreme-pro",
+    imageUrl: "https://m.media-amazon.com/images/I/81yxML+5ShL._AC_SX569_.jpg",
     category: "tech",
     name: { en: "Sandisk Extreme Pro" },
     description: { en: "The SanDisk Extreme Pro is the performance pick — the highest sustained write speeds here, ideal for high-bitrate 4K video, action cameras, drones, and demanding cameras." },
@@ -44667,6 +45059,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "samsung-evo-select",
+    imageUrl: "https://m.media-amazon.com/images/I/81axmUuRHrL._AC_.jpg",
     category: "tech",
     name: { en: "Samsung Evo Select" },
     description: { en: "The Samsung EVO Select is the value pick — reliable, good-enough speed for everyday use at a low price, ideal for phones, tablets, the Switch, and general storage." },
@@ -44677,6 +45070,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "lexar-professional-1066x",
+    imageUrl: "https://m.media-amazon.com/images/I/71AGl70xSvL._AC_.jpg",
     category: "tech",
     name: { en: "Lexar Professional 1066x" },
     description: { en: "The Lexar Professional 1066x is a strong alternative for content creators wanting high speed at competitive pricing — for 4K video, action cameras, and cameras." },
@@ -44687,6 +45081,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kingston-canvas-go-plus",
+    imageUrl: "https://m.media-amazon.com/images/I/615TRdTFXIL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Kingston Canvas Go Plus" },
     description: { en: "The Kingston Canvas Go Plus is the budget-performance pick — a fast, capable card at an aggressive price, for 4K-capable speed without paying premium." },
@@ -44697,6 +45092,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tomtoc-360-protective",
+    imageUrl: "https://m.media-amazon.com/images/I/81zEcC3RucL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Tomtoc 360 Protective" },
     description: { en: "The tomtoc 360 Protective sleeve offers genuinely excellent protection — including a patented corner-bumper system and shock-absorbing padding — in a still-slim, well-fitting design at a reasonable price." },
@@ -44707,6 +45103,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "bellroy-laptop-sleeve",
+    imageUrl: "https://m.media-amazon.com/images/I/41bjMaBrChL._AC_SL1200_.jpg",
     category: "tech",
     name: { en: "Bellroy Laptop Sleeve" },
     description: { en: "The Bellroy Laptop Sleeve is the premium style pick — a beautiful, high-quality sleeve that doubles as a stylish accessory, ideal for professionals and design-conscious users." },
@@ -44717,6 +45114,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "native-union-stow",
+    imageUrl: "https://m.media-amazon.com/images/I/61k2IdTUBhL.jpg",
     category: "tech",
     name: { en: "Native Union Stow" },
     description: { en: "The Native Union Stow is the slim, design-led pick — a sleek minimalist sleeve with smart organisation and a touch of luxury, popular with Apple users." },
@@ -44727,6 +45125,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "inateck-laptop-sleeve",
+    imageUrl: "https://m.media-amazon.com/images/I/81PAxr5XpDL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Inateck Laptop Sleeve" },
     description: { en: "The Inateck Laptop Sleeve is the value pick — a well-protected, feature-rich sleeve at a low price, for good protection and useful pockets without spending much." },
@@ -44737,6 +45136,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "mosiso-sleeve",
+    imageUrl: "https://m.media-amazon.com/images/I/61QAgvzZbcL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Mosiso Sleeve" },
     description: { en: "The MOSISO Sleeve is the budget pick — an inexpensive, widely-loved sleeve in a huge range of sizes, colours, and styles, for basic-to-decent protection cheaply with lots of choice." },
@@ -44747,6 +45147,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "dash-rapid-egg-cooker",
+    imageUrl: "https://m.media-amazon.com/images/I/61oYaMCZblL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Dash Rapid Egg Cooker" },
     description: { en: "The Dash Rapid Egg Cooker is astonishingly easy, fast, reliable, and cheap — perfect hard/medium/soft-boiled eggs (plus poached and omelettes) with one button, and a genuine kitchen cult favourite." },
@@ -44757,6 +45158,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "cuisinart-cec-10",
+    imageUrl: "https://m.media-amazon.com/images/I/61bav2pobLL.jpg",
     category: "food",
     name: { en: "Cuisinart Cec 10" },
     description: { en: "The Cuisinart CEC-10 is the premium, larger-capacity pick — more eggs at once with refined controls and build quality." },
@@ -44767,6 +45169,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "hamilton-beach-egg-cooker",
+    imageUrl: "https://m.media-amazon.com/images/I/71Wl1m8vv9L._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Hamilton Beach Egg Cooker" },
     description: { en: "The Hamilton Beach Egg Cooker is the mid-range large-capacity pick — around 7 eggs with versatile functions from a trusted name at a moderate price." },
@@ -44777,6 +45180,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "elite-gourmet-egg-cooker",
+    imageUrl: "https://m.media-amazon.com/images/I/71DypPC2BuL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Elite Gourmet Egg Cooker" },
     description: { en: "The Elite Gourmet Egg Cooker is the value pick — a capable, versatile cooker (often handling 7 eggs) at a low price, for more capacity than the smallest cookers without spending much." },
@@ -44787,6 +45191,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "bella-egg-cooker",
+    imageUrl: "https://m.media-amazon.com/images/I/71xaUkq4h+S._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Bella Egg Cooker" },
     description: { en: "The BELLA Egg Cooker is the budget pick — an inexpensive, simple, reliable cooker for effortless boiled and poached eggs at the lowest price." },
@@ -44797,6 +45202,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "oxo-stainless-bowls",
+    imageUrl: "https://m.media-amazon.com/images/I/717Szc9HwNL._AC_.jpg",
     category: "food",
     name: { en: "Oxo Stainless Bowls" },
     description: { en: "The OXO Good Grips Stainless Steel Mixing Bowls combine stainless steel's practical advantages — lightweight, unbreakable, durable — with OXO's thoughtful design: non-slip bases and easy-grip handles." },
@@ -44807,6 +45213,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "pyrex-glass-mixing-bowls",
+    imageUrl: "https://m.media-amazon.com/images/I/71+ZQBecmoL._AC_.jpg",
     category: "food",
     name: { en: "Pyrex Glass Mixing Bowls" },
     description: { en: "The Pyrex Glass Mixing Bowls are the best glass pick — microwave-, oven-, and dishwasher-safe bowls you can see through, ideal for melting, heating, baking, and storage." },
@@ -44817,6 +45224,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kitchenaid-mixing-bowls",
+    imageUrl: "https://hip2save.com/wp-content/uploads/2023/02/KitchenAid-Classic-Mixing-Bowls-3-Pack1.jpg",
     category: "food",
     name: { en: "Kitchenaid Mixing Bowls" },
     description: { en: "The KitchenAid Mixing Bowls are the premium pick — stylish, high-quality stainless (or coordinating) bowls with a trusted brand and attractive design." },
@@ -44827,6 +45235,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "cuisinart-stainless-bowls",
+    imageUrl: "https://m.media-amazon.com/images/I/71u1TGsxC8S._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Cuisinart Stainless Bowls" },
     description: { en: "The Cuisinart Stainless Steel Bowls are the value stainless pick — a durable, practical nesting set at a low price, for the stainless advantages without the premium cost." },
@@ -44837,6 +45246,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "anchor-hocking-glass-bowls",
+    imageUrl: "https://m.media-amazon.com/images/I/71fF9DQ1GbL._AC_.jpg",
     category: "food",
     name: { en: "Anchor Hocking Glass Bowls" },
     description: { en: "The Anchor Hocking Glass Bowls are the value glass pick — the same glass advantages (microwave-safe, see-through, non-reactive) at a lower price." },
@@ -44847,6 +45257,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "neater-feeder-elevated",
+    imageUrl: "https://m.media-amazon.com/images/I/71LcLKPCS+L._AC_SL1500_.jpg",
     category: "pets",
     name: { en: "Neater Feeder Elevated" },
     description: { en: "The Neater Feeder Elevated solves the two biggest feeding-station problems at once — comfortable elevated height AND mess containment — with a clever two-tier design that catches spilled water and food." },
@@ -44857,6 +45268,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "iris-elevated-feeder",
+    imageUrl: "https://m.media-amazon.com/images/I/61uQAGw9aHL._AC_SL1400_.jpg",
     category: "pets",
     name: { en: "Iris Elevated Feeder" },
     description: { en: "The IRIS Elevated Feeder is the best adjustable pick — change the height as your dog grows or dial in the perfect level, ideal for puppies, multi-dog households, or anyone unsure of the right height." },
@@ -44867,6 +45279,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "petfusion-elevated-feeder",
+    imageUrl: "https://m.media-amazon.com/images/I/81sUJFfRxzL._AC_SL1500_.jpg",
     category: "pets",
     name: { en: "Petfusion Elevated Feeder" },
     description: { en: "The PetFusion Elevated Feeder is the premium pick — a stylish, high-quality, sturdy feeding station that looks good in the home." },
@@ -44877,6 +45290,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frisco-elevated-double-bowl",
+    imageUrl: "https://www.dogster.com/wp-content/uploads/2022/02/Frisco-Elevated-Diamond-Stainless-Steel-Double-Diner-Dog-Cat-Bowl-2024-600x600.jpg",
     category: "pets",
     name: { en: "Frisco Elevated Double Bowl" },
     description: { en: "The Frisco Elevated Double Bowl is the value double-bowl pick — a sturdy, practical raised feeder with two stainless bowls (food and water) at a low price." },
@@ -44887,6 +45301,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "pawfect-raised-bowl",
+    imageUrl: "https://m.media-amazon.com/images/I/71AuqAKs1NL._AC_SL1500_.jpg",
     category: "pets",
     name: { en: "Pawfect Raised Bowl" },
     description: { en: "The Pawfect Raised Bowl is the budget pick — an inexpensive elevated feeder for raising your dog's bowls cheaply." },
@@ -44897,6 +45312,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "fossil-defender-backpack",
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/816FenjpFtL._AC_UL1500_.jpg",
     category: "fashion",
     name: { en: "Fossil Defender Backpack" },
     description: { en: "The Fossil Defender Backpack strikes the ideal balance of quality leather, a versatile professional-yet-modern design, practical laptop-friendly organisation, and an attainable price." },
@@ -44907,6 +45323,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kodiak-leather-backpack",
+    imageUrl: "http://www.schimiggy.com/wp-content/uploads/2023/03/Kodiak-Leather-Huslia-Backpack-Review-luggage-straps.jpg",
     category: "fashion",
     name: { en: "Kodiak Leather Backpack" },
     description: { en: "The Kodiak Leather Backpack is the best full-grain pick — premium, rugged, full-grain leather that ages beautifully and lasts for decades, ideal for those who value heritage quality and a rich patina." },
@@ -44917,6 +45334,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "leatherology-backpack",
+    imageUrl: "https://www.leatherology.com/cdn/shop/files/026135-hover.jpg?v=1759345415&width=1070",
     category: "fashion",
     name: { en: "Leatherology Backpack" },
     description: { en: "The Leatherology Backpack is the refined professional pick — a sleek, polished, premium leather backpack ideal for a modern office or business setting." },
@@ -44927,6 +45345,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "banuce-full-grain-backpack",
+    imageUrl: "https://m.media-amazon.com/images/I/71NpPINT+AL._AC_SX679_.jpg",
     category: "fashion",
     name: { en: "Banuce Full Grain Backpack" },
     description: { en: "The Banuce Full-Grain Backpack is the value full-grain pick — genuine full-grain leather quality at a more accessible price." },
@@ -44937,6 +45356,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kenneth-cole-leather-backpack",
+    imageUrl: "https://m.media-amazon.com/images/I/81m7xm4CSKL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Kenneth Cole Leather Backpack" },
     description: { en: "The Kenneth Cole Leather Backpack is the value pick — a stylish, professional-looking leather backpack from a recognised fashion brand at a more accessible price." },

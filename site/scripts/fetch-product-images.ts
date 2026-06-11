@@ -143,7 +143,8 @@ function parseEmptyOffers(content: string): OfferEntry[] {
   let category: string | null = null;
 
   for (const line of lines) {
-    const idMatch = line.match(/"id":\s*"([^"]+)"/);
+    // Match both quoted ("id": "...") and unquoted (id: "...") key styles
+    const idMatch = line.match(/(?:"id"|id):\s*"([^"]+)"/);
     if (idMatch) { id = idMatch[1]; name = null; category = null; }
 
     if (id && !name) {
@@ -151,11 +152,12 @@ function parseEmptyOffers(content: string): OfferEntry[] {
       if (nameMatch) name = nameMatch[1];
     }
     if (id) {
-      const catMatch = line.match(/"category":\s*"([^"]+)"/);
+      const catMatch = line.match(/(?:"category"|category):\s*"([^"]+)"/);
       if (catMatch) category = catMatch[1];
     }
 
-    if (id && line.includes('"imageUrl": ""')) {
+    // Match both "imageUrl": "" and imageUrl: "",
+    if (id && /(?:"imageUrl"|imageUrl):\s*""/.test(line)) {
       offers.push({ id, name: name ?? id, category: category ?? "" });
       id = null; name = null; category = null;
     }
@@ -164,10 +166,14 @@ function parseEmptyOffers(content: string): OfferEntry[] {
 }
 
 function applyImageUrl(content: string, id: string, imageUrl: string): string {
-  const before = `"id": "${id}",\n    "imageUrl": ""`;
-  const after  = `"id": "${id}",\n    "imageUrl": "${imageUrl}"`;
-  // Use a function replacement so $ in the URL is never treated as a special pattern
-  return content.includes(before) ? content.replace(before, () => after) : content;
+  // Try quoted key format first ("id": "...", "imageUrl": "")
+  const before1 = `"id": "${id}",\n    "imageUrl": ""`;
+  const after1  = `"id": "${id}",\n    "imageUrl": "${imageUrl}"`;
+  if (content.includes(before1)) return content.replace(before1, () => after1);
+  // Try unquoted key format (id: "...", \n    imageUrl: "")
+  const before2 = `id: "${id}",\n    imageUrl: ""`;
+  const after2  = `id: "${id}",\n    imageUrl: "${imageUrl}"`;
+  return content.includes(before2) ? content.replace(before2, () => after2) : content;
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
