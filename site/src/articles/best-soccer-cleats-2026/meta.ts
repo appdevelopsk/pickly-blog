@@ -13,7 +13,7 @@ export const meta: ArticleMeta = {
     "nike-premier-3-sg-pro",
   ],
   publishedAt: "2026-05-10",
-  updatedAt: "2026-05-10",
+  updatedAt: "2026-06-11",
   locales: [...ALL_LOCALES],
   ogImage: "/og/best-soccer-cleats-2026",
 };
