@@ -25445,7 +25445,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   // --- batch #330: best-plant-based-milk-2026 (food) ---
   {
-    id: "silk-unsweetened-almond-milk", imageUrl: "https://m.media-amazon.com/images/I/71FNmRGSZAL._AC_SL1500_.jpg",
+    id: "silk-unsweetened-almond-milk", imageUrl: "https://i5.walmartimages.com/seo/6-Pack-Silk-Pure-Almond-Milk-Unsweetened-32-fl-oz_deaf5654-9861-46d4-9ea4-6aa4c6826a8a.4a8d7916f06b421786d1c0574f7f7669.jpeg",
     category: "food",
     badge: "Best Almond Milk",
     name: { en: "Silk Unsweetened Almond Milk", ja: "シルク 無糖アーモンドミルク", de: "Silk Ungesüßte Mandelmilch", fr: "Lait d'amande non sucré Silk", es: "Leche de almendras sin azúcar Silk", ko: "실크 무가당 아몬드밀크" },
@@ -25457,7 +25457,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
   {
-    id: "silk-soy-milk", imageUrl: "https://m.media-amazon.com/images/I/81HMVKoTZtL._AC_SL1500_.jpg",
+    id: "silk-soy-milk", imageUrl: "https://i5.walmartimages.com/seo/Pack-of-6-Silk-Organic-Shelf-Stable-Unsweetened-Soy-Milk-1-Quart_d2d17ceb-b108-4ac6-957d-1c3c2ad194f1.d9892bb39cd8568a0c6f2104126be815.jpeg",
     category: "food",
     badge: "Best Soy Milk",
     name: { en: "Silk Organic Unsweetened Soymilk", ja: "シルク オーガニック無糖豆乳", de: "Silk Bio-Sojadrink ungesüßt", fr: "Lait de soja bio non sucré Silk", es: "Leche de soja orgánica sin azúcar Silk", ko: "실크 유기농 무가당 두유" },
@@ -25469,7 +25469,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
   {
-    id: "so-delicious-coconut-milk-unsweetened", imageUrl: "https://m.media-amazon.com/images/I/71rfKMQ4RzL._AC_SL1500_.jpg",
+    id: "so-delicious-coconut-milk-unsweetened", imageUrl: "https://i5.walmartimages.com/asr/2f4d1999-8057-4a80-b974-3dc6b007f9fb.3f2a3056b3c8eade5864fc53fcdc5342.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
     category: "food",
     badge: "Best Coconut Milk",
     name: { en: "So Delicious Unsweetened Coconut Milk", ja: "ソー デリシャス 無糖ココナッツミルク", de: "So Delicious Kokosnussmilch ungesüßt", fr: "Lait de coco non sucré So Delicious", es: "Leche de coco sin azúcar So Delicious", ko: "소 딜리셔스 무가당 코코넛밀크" },
@@ -25481,7 +25481,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
   {
-    id: "ripple-pea-milk-original", imageUrl: "https://m.media-amazon.com/images/I/71L1CxRqk7L._AC_SL1500_.jpg",
+    id: "ripple-pea-milk-original", imageUrl: "https://i5.walmartimages.com/seo/Ripple-Non-Dairy-Milk-Original-Vegan-Milk-With-8g-Pea-Protein-Shelf-Stable-Single-Serve-Cartons-On-The-Go-Non-GMO-Plant-Based-Gluten-Free-32-oz-Pack_c22db79f-f4ab-446f-acd0-3d3ec2278bd7.fbb64d177866e3bd6bebdeb5e829fc52.jpeg",
     category: "food",
     badge: "Best Pea Milk",
     name: { en: "Ripple Original Pea Milk", ja: "リップル オリジナル えんどう豆ミルク", de: "Ripple Erbsendrink Original", fr: "Lait de pois Ripple Original", es: "Leche de guisante Ripple Original", ko: "리플 오리지널 완두콩밀크" },
@@ -25494,7 +25494,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   // --- batch #331: best-oat-milk-for-coffee-2026 (food) ---
   {
-    id: "minor-figures-barista-oat-milk", imageUrl: "https://m.media-amazon.com/images/I/71OsHb7gTRL._AC_SL1500_.jpg",
+    id: "minor-figures-barista-oat-milk", imageUrl: "https://m.media-amazon.com/images/I/61Si6DTbojL.jpg",
     category: "food",
     badge: "Best Specialty Barista Oat Milk",
     name: { en: "Minor Figures Oat M*lk Barista", ja: "マイナー フィギュアズ バリスタ オーツミルク", de: "Minor Figures Haferdrink Barista", fr: "Lait d'avoine barista Minor Figures" },
