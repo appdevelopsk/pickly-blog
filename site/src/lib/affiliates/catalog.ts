@@ -367,7 +367,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "oral-b-pro-1000-with-travel-case",
-    imageUrl: "https://cdn11.bigcommerce.com/s-2idmiil7bp/images/stencil/1280x1280/products/437/8823/00300410944411_C1C1_OOP__75764.1760034373.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/51c7Bp2OTZL._SL1000_.jpg",
     priceMin: "$45",
     priceMax: "$70",
     category: "travel",
@@ -384,7 +384,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "burst-sonic-travel-edition",
-    imageUrl: "https://cdn.shopify.com/s/files/1/0270/5923/products/BURST-Sonic-Toothbrush-Black.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71MSuCk1HRL._SL1500_.jpg",
     priceMin: "$45",
     priceMax: "$65",
     category: "travel",
@@ -401,7 +401,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "amazon-basics-electric-toothbrush",
-    imageUrl: "https://m.media-amazon.com/images/I/71vA+KVB+LL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/718NpfZ83kL._AC_SX679_.jpg",
     priceMin: "$15",
     priceMax: "$22",
     category: "travel",
@@ -1225,7 +1225,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "vicks-filter-free-humidifier",
-    imageUrl: "https://m.media-amazon.com/images/I/61+-nBCNYqL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71qtW5yZW3L._AC_SL1500_.jpg",
     category: "parenting",
     badge: "💸",
     price: "$29.99",
@@ -1259,7 +1259,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "frida-baby-3in1-humidifier",
-    imageUrl: "https://m.media-amazon.com/images/I/61Rf2VD0W4L._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71yqsuWtm9L.jpg",
     category: "parenting",
     badge: "🌈",
     price: "$89.99",
@@ -1544,7 +1544,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Beauty / Hair Care Tools (best-hair-care-tools-2026) ─────────
   {
     id: "dyson-airwrap-multi-styler",
-    imageUrl: "https://i03.hsncdn.com/is/image/HomeShoppingNetwork/rocs1200/dyson-airwrap-multi-styler-complete-long-vinca-rose-d-20230508163547143~875082.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/614I-XxCGoL._SL1500_.jpg",
     category: "beauty",
     badge: "🌀",
     name: { en: "Dyson Airwrap Multi-Styler", ja: "ダイソン エアラップ マルチスタイラー" },
@@ -1873,7 +1873,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
   {
-    id: "ninja-foodi-af400", imageUrl: "https://img.appliancesdirect.co.uk/Images/AF400UK_1_16901925_Supersize.jpg?width=750&height=750&v=5",
+    id: "ninja-foodi-af400", imageUrl: "https://m.media-amazon.com/images/I/71SHsWWI78L._AC_SL1500_.jpg",
     category: "home",
     price: "¥34,800",
     badge: "👥",
@@ -3615,7 +3615,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
   {
-    id: "pawbo-pet-camera", imageUrl: "https://petshopaholics.com/cdn/shop/files/61A3iP3inrL.jpg?v=1718279450&width=1946",
+    id: "pawbo-pet-camera", imageUrl: "https://m.media-amazon.com/images/I/61xQWf--kWL._AC_.jpg",
     category: "home",
     price: "$53.51",
     badge: "🎯",
@@ -4438,7 +4438,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "canon-ivy-cliq-plus-2",
-    imageUrl: "https://www.usa.canon.com/content/dam/canon-assets-(no-crop-applied)/newsroom/2020/20200916-printers/ivy_cliq-2b2_rosegold_back.jpg",
+    imageUrl: "https://media.cnn.com/api/v1/images/stellar/prod/canon-ivy-cliq-2.jpg?c=16x9&q=h_720,w_1280,c_fill",
     price: "¥15,000",
     category: "tech",
     badge: "📱",
@@ -5862,7 +5862,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "gaiam-premium-yoga-mat",
-    imageUrl: "https://www.gaiam.com/cdn/shop/products/05-59141_2.jpg?v=1673041556&width=2000",
+    imageUrl: "https://m.media-amazon.com/images/I/81oQh5H8mWL._AC_SL1500_.jpg",
     priceMin: "$30",
     priceMax: "$40",
     category: "fitness",
@@ -6118,7 +6118,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "sonos-era-100",
-    imageUrl: "https://img1.kakaku.k-img.com/images/productimage/fullscale/K0001521170.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71fAeaUTNvL._AC_SL1500_.jpg",
     category: "tech",
     badge: "🔶",
     name: { en: "Sonos Era 100", ja: "Sonos Era 100" },
@@ -6349,7 +6349,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "serta-fleece-electric-blanket",
-    imageUrl: "https://cozywinters.com/graphics/00000001/serta-plush-electric-blanket-LG_A_190x190.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61CtYPdDL4L._AC_SL1500_.jpg",
     priceMin: "$49.99",
     priceMax: "$79.99",
     category: "home",
@@ -7808,7 +7808,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Fitness / Running Watches (best-running-watch-2026) ─────────
   {
     id: "garmin-forerunner-265",
-    imageUrl: "https://www.garmin.com/en-US/newsroom/wp-content/uploads/2023/03/Forerunner-265-Series-for-newsroom-1480x494.jpeg",
+    imageUrl: "https://m.media-amazon.com/images/I/71RKd0UuTTL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Garmin Forerunner 265", ja: "ガーミン フォアランナー 265" },
     description: {
@@ -8368,7 +8368,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Fitness / Pull-Up Bars (best-pull-up-bar-2026) ─────────
   {
     id: "iron-gym-total-body-bar",
-    imageUrl: "https://www.living.fit/cdn/shop/files/Untitleddesign_11_1_535x.png?v=1768185746",
+    imageUrl: "https://i5.walmartimages.com/seo/Iron-Gym-Total-Body-Workout-Bar_f9739bdb-ee67-4026-b0fc-ca97582bd320.549cf9e45112fbc3b9e8019653d11058.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
     category: "fitness",
     name: { en: "Iron Gym Total Upper Body Workout Bar", ja: "Iron Gym トータルアッパーボディワークアウトバー" },
     description: {
@@ -10895,7 +10895,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Fitness / Doorframe Pull-Up Bars (best-pull-up-bar-doorframe-2026) ─────────
   {
     id: "iron-gym-total-upper-body-bar",
-    imageUrl: "https://www.living.fit/cdn/shop/files/Untitleddesign_11_1_535x.png?v=1768185746",
+    imageUrl: "https://m.media-amazon.com/images/I/71UUx5xXwpL._AC_SL1500_.jpg",
     priceMin: "$25",
     priceMax: "$35",
     category: "fitness",
@@ -11545,7 +11545,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Fitness / CrossFit Jump Ropes (best-jump-rope-for-crossfit-2026) ─────────
   {
     id: "rx-smart-gear-elite-evo",
-    imageUrl: "https://rxsmartgear.com/cdn/shop/files/EVO_G2_Speed_Rope_Handles__65008.jpg?v=1742313160",
+    imageUrl: "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2020/12/RX-Smart-Gear-EVO-G2.jpg",
     category: "fitness",
     name: { en: "Rx Smart Gear Elite EVO Jump Rope", ja: "Rx Smart Gear エリートEVO ジャンプロープ" },
     description: {
@@ -12170,7 +12170,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "titan-signature-gold-wrist-wraps",
-    imageUrl: "https://titansupport.com/wp-content/uploads/2016/05/wrist3.jpg",
+    imageUrl: "https://l1ftph.com/cdn/shop/files/1.png?v=1725512048&width=1946",
     category: "fitness",
     name: { en: "Titan Signature Gold Wrist Wrap", ja: "Titan Signature Gold リストラップ" },
     description: {
@@ -12228,7 +12228,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Food / Dutch Ovens (best-dutch-oven-2026) ─────────
   {
     id: "le-creuset-dutch-oven-5qt",
-    imageUrl: "https://www.lecreuset.com/dw/image/v2/BDRT_PRD/on/demandware.static/-/Sites-le-creuset-master/default/dw9e4ffb1b/images/cat_dutch_ovens/provence/provene_rdo_g1.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71HYu66+N0S._AC_SL1500_.jpg",
     priceMin: "¥60,000",
     priceMax: "¥80,000",
     category: "food",
@@ -15522,7 +15522,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "rx-smart-gear-bullet-comp-speed-rope",
-    imageUrl: "https://rxsmartgear.com/cdn/shop/files/EVO_G2_Speed_Rope_Handles__65008.jpg?v=1742313160",
+    imageUrl: "https://m.media-amazon.com/images/I/51PuSLdd2aL.jpg",
     price: "~$55",
     category: "fitness",
     badge: "🏅",
@@ -17632,7 +17632,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ── best-turkish-coffee-maker-2026 ───────────────────────────────────────
   {
     id: "copper-cezve-ibrik-by-shiritek",
-    imageUrl: "https://www.amazon.com/Cezve-Turkish-Coffee-Pot-Traditional/dp/B0BPY5KK1V",
+    imageUrl: "https://m.media-amazon.com/images/I/51wJ9eN6vxL.__AC_SX300_SY300_QL70_ML2_.jpg",
     price: "~$15",
     category: "food",
     badge: "☕",
@@ -17994,7 +17994,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "body-solid-gpr378-power-rack",
-    imageUrl: "https://cdn11.bigcommerce.com/s-2v01ommyhe/products/977/3626/GPR378_0004-Cutout__84700.1735836860.386.513.jpg?c=1",
+    imageUrl: "https://m.media-amazon.com/images/I/51RxGxm8c4L._AC_SY300_SX300_QL70_ML2_.jpg",
     category: "fitness",
     badge: "統合システム",
     name: { en: "Body-Solid GPR378 Power Rack with Lat Pulldown", ja: "Body-Solid GPR378 パワーラック（ラットプルダウン付）" },
@@ -18197,7 +18197,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "titan-fitness-leg-press-v2",
-    imageUrl: "https://titan.fitness/cdn/shop/files/400573_01_ec40682c-bc2a-4869-83bc-ff0550b87f27.jpg",
+    imageUrl: "https://titan.fitness/cdn/shop/files/400485_04_38b9157c-0f8c-452d-a992-7fafadd3e3de.jpg?v=1719501761&width=1100",
     category: "fitness",
     badge: "予算11ゲージ",
     name: { en: "Titan Fitness Leg Press V2", ja: "Titan Fitness レッグプレス V2" },
@@ -18540,7 +18540,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ── Stair Stepper 💪 ──────────────────────────────────────────────────
   {
     id: "stairmaster-gauntlet-stepmill",
-    imageUrl: "https://cdn-cmmnj.nitrocdn.com/hWdqgBUqVSYeeDweoutlDraZjiiHKsDt/assets/images/optimized/rev-1f88792/fitdir.com/wp-content/uploads/2016/11/StairMaster-8Gx-Gauntlet-8-Series-Stepmill.png",
+    imageUrl: "https://m.media-amazon.com/images/I/51+XpVEdVyL._AC_SL1225_.jpg",
     category: "fitness",
     badge: "商業フラッグシップ",
     name: { en: "StairMaster Gauntlet Stepmill", ja: "StairMaster Gauntlet ステップミル" },
@@ -18801,7 +18801,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "everlast-c3-heavy-bag-100lb",
-    imageUrl: "https://www.everlast.com/cdn/shop/files/4768_5.jpg?v=1702973275",
+    imageUrl: "https://m.media-amazon.com/images/I/51urum3qA2L._AC_SL1500_.jpg",
     price: "$130",
     category: "fitness",
     badge: "標準ハンギングバッグ",
@@ -20960,7 +20960,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "adidas-copa-pure-2-tf",
-    imageUrl: "https://www.soccervillage.com/graphics/00000001/1/gw4560_g01.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61qn3T0NsyL._AC_SL1500_.jpg",
     price: "$80",
     category: "fitness",
     badge: "Best for Artificial Turf",
@@ -21622,7 +21622,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   // --- batch #257: best-glute-resistance-bands-2026 (fitness) ---
   {
-    id: "victorem-hip-resistance-bands", imageUrl: "https://outfitocean.com/cdn/shop/products/uk-B074S8LZ7B.jpg?v=1669734383",
+    id: "victorem-hip-resistance-bands", imageUrl: "https://m.media-amazon.com/images/I/81Al-zaz59L._AC_SL1500_.jpg",
     category: "fitness",
     badge: "Best Overall Glute Band",
     name: { en: "Victorem Hip Resistance Bands", ja: "Victorem ヒップレジスタンスバンド" },
@@ -22075,29 +22075,29 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
   // ── Nespresso Vertuo vs Original ───────────────────────────────────────────
-  { id: "nespresso-vertuo-next", category: "food", badge: "Best Vertuo Entry", name: { en: "Nespresso Vertuo Next", ja: "ネスプレッソ ヴァーチュオ ネクスト" }, description: { en: "Entry-level Vertuo machine with centrifusion extraction and Bluetooth connectivity.", ja: "センタリュージョン抽出とBluetooth接続を備えたVertuoシリーズ入門機。" }, price: "$159", imageUrl: "https://www.nespresso.com/shared_res/agility/n-components/pdp/uhp-assets/machines/vertuo-next/AN_B_VN_ENT_D50P_BK_F_high.png", links: [{ network: "amazon-us", productId: "B08BQXNM2N", rawUrl: "https://www.amazon.com/dp/B08BQXNM2N", markets: ["US", "EU", "global"], approved: true }] },
-  { id: "nespresso-vertuo-plus", category: "food", badge: "Best Vertuo Mid-Range", name: { en: "Nespresso Vertuo Plus", ja: "ネスプレッソ ヴァーチュオ プラス" }, description: { en: "Mid-range Vertuo with motorized head and adjustable cup stand.", ja: "電動ヘッドと可動式カップスタンドを備えたVertuoシリーズ中間機。" }, price: "$199", imageUrl: "https://www.nespresso.com/shared_res/agility/n-components/pdp/uhp-assets/machines/vertuo-plus/AN_B_VP_ENT_D50P_BK_F_high.png", links: [{ network: "amazon-us", productId: "B07T1MKZB9", rawUrl: "https://www.amazon.com/dp/B07T1MKZB9", markets: ["US", "EU", "global"], approved: true }] },
-  { id: "nespresso-essenza-mini", category: "food", badge: "Best Original Compact", name: { en: "Nespresso Essenza Mini", ja: "ネスプレッソ エッセンサ ミニ" }, description: { en: "Smallest Original Line machine — 19-bar pump, 25-second warm-up, compact footprint.", ja: "最小のOriginalシリーズ機 — 19バールポンプ、25秒温機、コンパクトなフットプリント。" }, price: "$149", imageUrl: "https://www.nespresso.com/shared_res/agility/n-components/pdp/uhp-assets/machines/essenza-mini/AN_B_EM_ENT_D50_BK_F_high.png", links: [{ network: "amazon-us", productId: "B07G8HHZ77", rawUrl: "https://www.amazon.com/dp/B07G8HHZ77", markets: ["US", "EU", "global"], approved: true }] },
-  { id: "nespresso-pixie", category: "food", badge: "Best Original Mid-Range", name: { en: "Nespresso Pixie", ja: "ネスプレッソ ピクシー" }, description: { en: "Slim Original Line machine with fast heat-up and fold-away drip tray.", ja: "高速加熱と収納式ドリップトレイを備えたスリムなOriginalシリーズ機。" }, price: "$199", imageUrl: "https://www.nespresso.com/shared_res/agility/n-components/pdp/uhp-assets/machines/pixie/AN_B_PX_ENT_D50_TI_F_high.png", links: [{ network: "amazon-us", productId: "B005OOOL7O", rawUrl: "https://www.amazon.com/dp/B005OOOL7O", markets: ["US", "EU", "global"], approved: true }] },
-  { id: "nespresso-lattissima-one", category: "food", badge: "Best with Milk Frother", name: { en: "Nespresso Lattissima One", ja: "ネスプレッソ ラティシマ ワン" }, description: { en: "Original Line machine with built-in one-touch milk frother for lattes and cappuccinos.", ja: "ラテやカプチーノ用のワンタッチミルクフローサーを内蔵したOriginalシリーズ機。" }, price: "$299", imageUrl: "https://www.nespresso.com/shared_res/agility/n-components/pdp/uhp-assets/machines/lattissima-one/AN_B_L1_ENT_D50_BK_F_high.png", links: [{ network: "amazon-us", productId: "B09GZZB8JG", rawUrl: "https://www.amazon.com/dp/B09GZZB8JG", markets: ["US", "EU", "global"], approved: true }] },
+  { id: "nespresso-vertuo-next", category: "food", badge: "Best Vertuo Entry", name: { en: "Nespresso Vertuo Next", ja: "ネスプレッソ ヴァーチュオ ネクスト" }, description: { en: "Entry-level Vertuo machine with centrifusion extraction and Bluetooth connectivity.", ja: "センタリュージョン抽出とBluetooth接続を備えたVertuoシリーズ入門機。" }, price: "$159", imageUrl: "https://m.media-amazon.com/images/I/71pCZhjKpWL._AC_SL1500_.jpg", links: [{ network: "amazon-us", productId: "B08BQXNM2N", rawUrl: "https://www.amazon.com/dp/B08BQXNM2N", markets: ["US", "EU", "global"], approved: true }] },
+  { id: "nespresso-vertuo-plus", category: "food", badge: "Best Vertuo Mid-Range", name: { en: "Nespresso Vertuo Plus", ja: "ネスプレッソ ヴァーチュオ プラス" }, description: { en: "Mid-range Vertuo with motorized head and adjustable cup stand.", ja: "電動ヘッドと可動式カップスタンドを備えたVertuoシリーズ中間機。" }, price: "$199", imageUrl: "https://m.media-amazon.com/images/I/61Tr13OioqL._AC_SL1500_.jpg", links: [{ network: "amazon-us", productId: "B07T1MKZB9", rawUrl: "https://www.amazon.com/dp/B07T1MKZB9", markets: ["US", "EU", "global"], approved: true }] },
+  { id: "nespresso-essenza-mini", category: "food", badge: "Best Original Compact", name: { en: "Nespresso Essenza Mini", ja: "ネスプレッソ エッセンサ ミニ" }, description: { en: "Smallest Original Line machine — 19-bar pump, 25-second warm-up, compact footprint.", ja: "最小のOriginalシリーズ機 — 19バールポンプ、25秒温機、コンパクトなフットプリント。" }, price: "$149", imageUrl: "https://m.media-amazon.com/images/I/51MCOXC8RlL._AC_SL1500_.jpg", links: [{ network: "amazon-us", productId: "B07G8HHZ77", rawUrl: "https://www.amazon.com/dp/B07G8HHZ77", markets: ["US", "EU", "global"], approved: true }] },
+  { id: "nespresso-pixie", category: "food", badge: "Best Original Mid-Range", name: { en: "Nespresso Pixie", ja: "ネスプレッソ ピクシー" }, description: { en: "Slim Original Line machine with fast heat-up and fold-away drip tray.", ja: "高速加熱と収納式ドリップトレイを備えたスリムなOriginalシリーズ機。" }, price: "$199", imageUrl: "https://m.media-amazon.com/images/I/61uphrHkFnL._AC_SL1174_.jpg", links: [{ network: "amazon-us", productId: "B005OOOL7O", rawUrl: "https://www.amazon.com/dp/B005OOOL7O", markets: ["US", "EU", "global"], approved: true }] },
+  { id: "nespresso-lattissima-one", category: "food", badge: "Best with Milk Frother", name: { en: "Nespresso Lattissima One", ja: "ネスプレッソ ラティシマ ワン" }, description: { en: "Original Line machine with built-in one-touch milk frother for lattes and cappuccinos.", ja: "ラテやカプチーノ用のワンタッチミルクフローサーを内蔵したOriginalシリーズ機。" }, price: "$299", imageUrl: "https://m.media-amazon.com/images/I/614R1Ubo3EL.jpg", links: [{ network: "amazon-us", productId: "B09GZZB8JG", rawUrl: "https://www.amazon.com/dp/B09GZZB8JG", markets: ["US", "EU", "global"], approved: true }] },
   // ── Running Shoes for Flat Feet ────────────────────────────────────────────
-  { id: "brooks-adrenaline-gts-24", category: "fitness", badge: "Best Stability Overall", name: { en: "Brooks Adrenaline GTS 24", ja: "ブルックス アドレナリン GTS 24" }, description: { en: "GuideRails support system prevents excess movement — top stability shoe for mild to moderate overpronation.", ja: "GuideRailsサポートシステムで過剰な動きを防止。軽度〜中程度の過回内に最適な安定性シューズ。" }, price: "$140", imageUrl: "https://restart.brooksrunning.com/cdn/shop/files/nwdsksyicdo3apdnekvj_6eae1c93-72f0-40e3-b4ad-82d7efe2c6a7.png", links: [{ network: "amazon-us", productId: "B0B3DVSHJK", rawUrl: "https://www.amazon.com/dp/B0B3DVSHJK", markets: ["US", "EU", "global"], approved: true }] },
+  { id: "brooks-adrenaline-gts-24", category: "fitness", badge: "Best Stability Overall", name: { en: "Brooks Adrenaline GTS 24", ja: "ブルックス アドレナリン GTS 24" }, description: { en: "GuideRails support system prevents excess movement — top stability shoe for mild to moderate overpronation.", ja: "GuideRailsサポートシステムで過剰な動きを防止。軽度〜中程度の過回内に最適な安定性シューズ。" }, price: "$140", imageUrl: "https://m.media-amazon.com/images/I/818U7FxVrIL.jpg", links: [{ network: "amazon-us", productId: "B0B3DVSHJK", rawUrl: "https://www.amazon.com/dp/B0B3DVSHJK", markets: ["US", "EU", "global"], approved: true }] },
   { id: "asics-gel-kayano-31", category: "fitness", badge: "Best for Long Runs", name: { en: "ASICS Gel-Kayano 31", ja: "アシックス ゲルカヤノ 31" }, description: { en: "ASICS' flagship stability shoe with 4D Guidance System and PureGEL cushioning for marathon training.", ja: "4Dガイダンスシステムとピュアゲルクッションを備えたアシックスのフラッグシップ安定性シューズ。" }, price: "$160", imageUrl: "https://images.asics.com/is/image/asics/1011B548_002_SR_RT_GLB?$zoom$&wid=800&hei=800", links: [{ network: "amazon-us", productId: "B0CMYD1KRY", rawUrl: "https://www.amazon.com/dp/B0CMYD1KRY", markets: ["US", "EU", "global"], approved: true }] },
   { id: "new-balance-860v14", category: "fitness", badge: "Best Wide Fit Option", name: { en: "New Balance 860v14", ja: "ニューバランス 860v14" }, description: { en: "Stability trainer with Fresh Foam X midsole, available in 2E and 4E widths — rare for overpronators.", ja: "フレッシュフォームXミッドソールと2E・4Eの幅オプション付きスタビリティトレーナー。" }, price: "$135", imageUrl: "https://nb.scene7.com/is/image/NB/m860n14_nb_02_i?$pdpflexf2$&wid=440&hei=440", links: [{ network: "amazon-us", productId: "B0BJJP7YV5", rawUrl: "https://www.amazon.com/dp/B0BJJP7YV5", markets: ["US", "EU", "global"], approved: true }] },
-  { id: "saucony-guide-17", category: "fitness", badge: "Best Lightweight Stability", name: { en: "Saucony Guide 17", ja: "サッカニー ガイド 17" }, description: { en: "Lighter stability option using PWRRUN cushioning with medial post for overpronation control.", ja: "メディアルポストによる過回内コントロールとPWRRUNクッションを備えた軽量スタビリティシューズ。" }, price: "$130", imageUrl: "https://www.saucony.com/dw/image/v2/AAEY_PRD/on/demandware.static/-/Sites-saucony-master/default/dw92a3b8f1/images/large/S20812-105_large.jpg", links: [{ network: "amazon-us", productId: "B0BT3P1B45", rawUrl: "https://www.amazon.com/dp/B0BT3P1B45", markets: ["US", "EU", "global"], approved: true }] },
-  { id: "hoka-arahi-7", category: "fitness", badge: "Best Motion Control", name: { en: "Hoka Arahi 7", ja: "ホカ アラヒ 7" }, description: { en: "Hoka's motion control shoe — J-Frame technology stabilizes without traditional rigid medial post.", ja: "Jフレームテクノロジーでリジッドなメディアルポストなしに安定性を実現するホカのモーションコントロールシューズ。" }, price: "$145", imageUrl: "https://www.hoka.com/dw/image/v2/AAKX_PRD/on/demandware.static/-/Sites-hoka-master/default/dwa89c31f4/images/pdp/1147850/BBLC/1147850-BBLC_1.png", links: [{ network: "amazon-us", productId: "B0C7JQLB4G", rawUrl: "https://www.amazon.com/dp/B0C7JQLB4G", markets: ["US", "EU", "global"], approved: true }] },
+  { id: "saucony-guide-17", category: "fitness", badge: "Best Lightweight Stability", name: { en: "Saucony Guide 17", ja: "サッカニー ガイド 17" }, description: { en: "Lighter stability option using PWRRUN cushioning with medial post for overpronation control.", ja: "メディアルポストによる過回内コントロールとPWRRUNクッションを備えた軽量スタビリティシューズ。" }, price: "$130", imageUrl: "https://m.media-amazon.com/images/I/71ZCWkENrAL._AC_SL1500_.jpg", links: [{ network: "amazon-us", productId: "B0BT3P1B45", rawUrl: "https://www.amazon.com/dp/B0BT3P1B45", markets: ["US", "EU", "global"], approved: true }] },
+  { id: "hoka-arahi-7", category: "fitness", badge: "Best Motion Control", name: { en: "Hoka Arahi 7", ja: "ホカ アラヒ 7" }, description: { en: "Hoka's motion control shoe — J-Frame technology stabilizes without traditional rigid medial post.", ja: "Jフレームテクノロジーでリジッドなメディアルポストなしに安定性を実現するホカのモーションコントロールシューズ。" }, price: "$145", imageUrl: "https://m.media-amazon.com/images/I/71UrZKvAFsL._AC_SL1500_.jpg", links: [{ network: "amazon-us", productId: "B0C7JQLB4G", rawUrl: "https://www.amazon.com/dp/B0C7JQLB4G", markets: ["US", "EU", "global"], approved: true }] },
   // ── Mattress for Back Pain ─────────────────────────────────────────────────
   { id: "saatva-classic-firm", category: "home", badge: "Best Luxury Innerspring", name: { en: "Saatva Classic (Firm)", ja: "サータバ クラシック（ハード）" }, description: { en: "Dual coil system with lumbar zone quilting — orthopedic design at a luxury price point.", ja: "デュアルコイルシステムとルンバーゾーンキルティング — 高級価格帯の整形外科的設計。" }, price: "$1,795", imageUrl: "https://saatva.imgix.net/products/saatva-classic/lifestyle/standard/11.5/saatva-classic-lifestyle-standard-11.5-3-2.jpg?w=768", links: [{ network: "impact", rawUrl: "https://www.saatva.com/mattresses/saatva-classic/", markets: ["US", "global"], approved: true }] },
-  { id: "tempur-pedic-proadapt-firm", category: "home", badge: "Best Pressure Relief", name: { en: "Tempur-Pedic ProAdapt Firm", ja: "テンピュール プロアダプト ハード" }, description: { en: "TEMPUR-APR material distributes weight evenly — prevents pressure points that cause pain from mattress contact.", ja: "TEMPUR-APR素材で体重を均等に分散。マットレス接触による痛みの原因となる圧力点を防止。" }, price: "$3,199", imageUrl: "https://media.tempurpedic.com/is/image/Tempur/EN_US_tempur-proadapt-firm-mattress-bundle?$hero-large$", links: [{ network: "impact", rawUrl: "https://www.tempurpedic.com/mattresses/tempur-proadapt/", markets: ["US", "global"], approved: true }] },
-  { id: "purple-restore-plus", category: "home", badge: "Best for Hot Sleepers", name: { en: "Purple Restore Plus", ja: "パープル リストア プラス" }, description: { en: "GelFlex Grid adapts to pressure without heat retention — back pain relief without sleeping hot.", ja: "ゲルフレックスグリッドが熱を保持せずに圧力に適応。熱くなることなく腰痛を軽減。" }, price: "$2,299", imageUrl: "https://purple.com/cdn/shop/files/restore-plus-mattress-hero.jpg", links: [{ network: "impact", rawUrl: "https://purple.com/mattresses/purple-restore", markets: ["US", "global"], approved: true }] },
-  { id: "dreamcloud-premier", category: "home", badge: "Best Value Hybrid", name: { en: "DreamCloud Premier", ja: "ドリームクラウド プレミア" }, description: { en: "Cashmere-top hybrid with pocketed coils — firm support for back pain at mid-market price.", ja: "ポケットコイル付きカシミアトップハイブリッド。ミッドマーケット価格で腰痛向けしっかりサポート。" }, price: "$1,099", imageUrl: "https://dcmattress.com/cdn/shop/files/dreamcloud-premier-mattress.jpg", links: [{ network: "amazon-us", productId: "B07PQQV7K9", rawUrl: "https://www.amazon.com/dp/B07PQQV7K9", markets: ["US", "EU", "global"], approved: true }] },
-  { id: "bear-elite-hybrid", category: "home", badge: "Best for Athletes", name: { en: "Bear Elite Hybrid", ja: "ベア エリート ハイブリッド" }, description: { en: "Celliant fiber cover aids overnight recovery — designed for athletic performance and spinal support.", ja: "セリアント繊維カバーで夜間回復をサポート。アスレチックパフォーマンスと脊椎サポート向けに設計。" }, price: "$1,998", imageUrl: "https://bearmattress.com/cdn/shop/products/bear-elite-hybrid-mattress-hero.jpg", links: [{ network: "impact", rawUrl: "https://bearmattress.com/products/bear-elite-hybrid-mattress", markets: ["US", "global"], approved: true }] },
+  { id: "tempur-pedic-proadapt-firm", category: "home", badge: "Best Pressure Relief", name: { en: "Tempur-Pedic ProAdapt Firm", ja: "テンピュール プロアダプト ハード" }, description: { en: "TEMPUR-APR material distributes weight evenly — prevents pressure points that cause pain from mattress contact.", ja: "TEMPUR-APR素材で体重を均等に分散。マットレス接触による痛みの原因となる圧力点を防止。" }, price: "$3,199", imageUrl: "https://m.media-amazon.com/images/I/71jO9X8JCEL._AC_SL1001_.jpg", links: [{ network: "impact", rawUrl: "https://www.tempurpedic.com/mattresses/tempur-proadapt/", markets: ["US", "global"], approved: true }] },
+  { id: "purple-restore-plus", category: "home", badge: "Best for Hot Sleepers", name: { en: "Purple Restore Plus", ja: "パープル リストア プラス" }, description: { en: "GelFlex Grid adapts to pressure without heat retention — back pain relief without sleeping hot.", ja: "ゲルフレックスグリッドが熱を保持せずに圧力に適応。熱くなることなく腰痛を軽減。" }, price: "$2,299", imageUrl: "https://m.media-amazon.com/images/I/61y5EFP4CQL._AC_SL1500_.jpg", links: [{ network: "impact", rawUrl: "https://purple.com/mattresses/purple-restore", markets: ["US", "global"], approved: true }] },
+  { id: "dreamcloud-premier", category: "home", badge: "Best Value Hybrid", name: { en: "DreamCloud Premier", ja: "ドリームクラウド プレミア" }, description: { en: "Cashmere-top hybrid with pocketed coils — firm support for back pain at mid-market price.", ja: "ポケットコイル付きカシミアトップハイブリッド。ミッドマーケット価格で腰痛向けしっかりサポート。" }, price: "$1,099", imageUrl: "https://m.media-amazon.com/images/I/81k0bvkwBFL._AC_SL1500_.jpg", links: [{ network: "amazon-us", productId: "B07PQQV7K9", rawUrl: "https://www.amazon.com/dp/B07PQQV7K9", markets: ["US", "EU", "global"], approved: true }] },
+  { id: "bear-elite-hybrid", category: "home", badge: "Best for Athletes", name: { en: "Bear Elite Hybrid", ja: "ベア エリート ハイブリッド" }, description: { en: "Celliant fiber cover aids overnight recovery — designed for athletic performance and spinal support.", ja: "セリアント繊維カバーで夜間回復をサポート。アスレチックパフォーマンスと脊椎サポート向けに設計。" }, price: "$1,998", imageUrl: "https://m.media-amazon.com/images/I/71oNxIPVJ9L._AC_SL1500_.jpg", links: [{ network: "impact", rawUrl: "https://bearmattress.com/products/bear-elite-hybrid-mattress", markets: ["US", "global"], approved: true }] },
   // ── Protein Powder for Beginners ───────────────────────────────────────────
   { id: "optimum-nutrition-gold-standard-whey", category: "fitness", badge: "Best Overall for Beginners", name: { en: "Optimum Nutrition Gold Standard Whey", ja: "オプティマムニュートリション ゴールドスタンダード ホエイ" }, description: { en: "24g protein per serving, low fat and carbs, 30+ flavors — the benchmark whey beginners are measured against.", ja: "1食あたり24gのタンパク質、低脂肪・低炭水化物、30種類以上のフレーバー。初心者が比較する基準となるホエイ。" }, price: "$34.99", imageUrl: "https://www.optimumnutrition.com/cdn/shop/files/GSW_DRC_2lb_FOP.png?v=1776170438&width=800", links: [{ network: "amazon-us", productId: "B000QSNYGI", rawUrl: "https://www.amazon.com/dp/B000QSNYGI", markets: ["US", "EU", "global"], approved: true }, { network: "amazon-jp", productId: "B000QSNYGI", rawUrl: "https://www.amazon.co.jp/s?k=Optimum+Nutrition+Gold+Standard+Whey", markets: ["JP"], approved: true }] },
-  { id: "myprotein-impact-whey", category: "fitness", badge: "Best Budget Pick", name: { en: "MyProtein Impact Whey Protein", ja: "マイプロテイン インパクト ホエイプロテイン" }, description: { en: "21g protein per serving at one of the lowest cost-per-gram in the market — wide flavor range.", ja: "市場最低水準のコスト/グラムで1食あたり21gのタンパク質。豊富なフレーバーラインナップ。" }, price: "$27.99", imageUrl: "https://images.myprotein.com/productImages/10530943_1000.jpg", links: [{ network: "impact", rawUrl: "https://www.myprotein.com/sports-nutrition/impact-whey-protein/10530943.html", markets: ["US", "EU", "global"], approved: true }] },
+  { id: "myprotein-impact-whey", category: "fitness", badge: "Best Budget Pick", name: { en: "MyProtein Impact Whey Protein", ja: "マイプロテイン インパクト ホエイプロテイン" }, description: { en: "21g protein per serving at one of the lowest cost-per-gram in the market — wide flavor range.", ja: "市場最低水準のコスト/グラムで1食あたり21gのタンパク質。豊富なフレーバーラインナップ。" }, price: "$27.99", imageUrl: "https://m.media-amazon.com/images/I/71Y3w5QRTQL._AC_SL1500_.jpg", links: [{ network: "impact", rawUrl: "https://www.myprotein.com/sports-nutrition/impact-whey-protein/10530943.html", markets: ["US", "EU", "global"], approved: true }] },
   { id: "bsn-syntha-6", category: "fitness", badge: "Best Taste", name: { en: "BSN Syntha-6", ja: "BSN シンサ6" }, description: { en: "Multi-protein blend (whey, casein, egg) designed for taste — milkshake-like texture and flavor.", ja: "味重視で設計されたマルチプロテインブレンド（ホエイ、カゼイン、卵）。ミルクシェイクのような食感と風味。" }, price: "$39.99", imageUrl: "https://www.gobsn.com/cdn/shop/files/S6_Blueberry_FR.png?v=1778595085&width=800", links: [{ network: "amazon-us", productId: "B002DYIZEO", rawUrl: "https://www.amazon.com/dp/B002DYIZEO", markets: ["US", "EU", "global"], approved: true }] },
-  { id: "orgain-organic-protein", category: "fitness", badge: "Best Plant-Based", name: { en: "Orgain Organic Protein", ja: "オルゲイン オーガニックプロテイン" }, description: { en: "21g plant protein from peas, brown rice, and chia — USDA organic, no artificial sweeteners.", ja: "エンドウ豆・玄米・チアからの21gプラントプロテイン。USDA有機認証、人工甘味料不使用。" }, price: "$29.99", imageUrl: "https://www.orgain.com/cdn/shop/products/orgain-organic-protein-chocolate.jpg", links: [{ network: "amazon-us", productId: "B00J074W7E", rawUrl: "https://www.amazon.com/dp/B00J074W7E", markets: ["US", "EU", "global"], approved: true }, { network: "amazon-jp", productId: "B00J074W7E", rawUrl: "https://www.amazon.co.jp/s?k=Orgain+Organic+Protein", markets: ["JP"], approved: true }] },
-  { id: "garden-of-life-sport", category: "fitness", badge: "Best Certified Clean", name: { en: "Garden of Life Sport Organic Protein", ja: "ガーデンオブライフ スポーツ オーガニックプロテイン" }, description: { en: "NSF Certified for Sport and USDA organic — cleanest certification profile in the plant protein category.", ja: "NSFスポーツ認証とUSDA有機認証取得。プラントプロテインカテゴリで最も厳格な認証プロフィール。" }, price: "$44.99", imageUrl: "https://www.gardenoflife.com/cdn/shop/products/sport-organic-protein-vanilla.jpg", links: [{ network: "amazon-us", productId: "B01NADHGJ6", rawUrl: "https://www.amazon.com/dp/B01NADHGJ6", markets: ["US", "EU", "global"], approved: true }] },
+  { id: "orgain-organic-protein", category: "fitness", badge: "Best Plant-Based", name: { en: "Orgain Organic Protein", ja: "オルゲイン オーガニックプロテイン" }, description: { en: "21g plant protein from peas, brown rice, and chia — USDA organic, no artificial sweeteners.", ja: "エンドウ豆・玄米・チアからの21gプラントプロテイン。USDA有機認証、人工甘味料不使用。" }, price: "$29.99", imageUrl: "https://m.media-amazon.com/images/I/710r-SFzF7L._AC_SL1500_.jpg", links: [{ network: "amazon-us", productId: "B00J074W7E", rawUrl: "https://www.amazon.com/dp/B00J074W7E", markets: ["US", "EU", "global"], approved: true }, { network: "amazon-jp", productId: "B00J074W7E", rawUrl: "https://www.amazon.co.jp/s?k=Orgain+Organic+Protein", markets: ["JP"], approved: true }] },
+  { id: "garden-of-life-sport", category: "fitness", badge: "Best Certified Clean", name: { en: "Garden of Life Sport Organic Protein", ja: "ガーデンオブライフ スポーツ オーガニックプロテイン" }, description: { en: "NSF Certified for Sport and USDA organic — cleanest certification profile in the plant protein category.", ja: "NSFスポーツ認証とUSDA有機認証取得。プラントプロテインカテゴリで最も厳格な認証プロフィール。" }, price: "$44.99", imageUrl: "https://m.media-amazon.com/images/I/71nq5RVFbzL._AC_SL1500_.jpg", links: [{ network: "amazon-us", productId: "B01NADHGJ6", rawUrl: "https://www.amazon.com/dp/B01NADHGJ6", markets: ["US", "EU", "global"], approved: true }] },
   // ── Home Gym Under $500 ────────────────────────────────────────────────────
   { id: "powerblock-sport-exp", category: "fitness", badge: "Best Adjustable Dumbbells", name: { en: "PowerBlock Sport EXP", ja: "パワーブロック スポーツ EXP" }, description: { en: "5–90 lb adjustable dumbbell set in 2.5 lb increments — expandable to 90 lb with add-on kits.", ja: "2.5lb刻みで5〜90lbまで対応。アドオンキットで90lbまで拡張可能な調節式ダンベルセット。" }, price: "$329", imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Conditioning/Strength%20Equipment/Dumbbells/PB-503-00099-04/PB-503-00099-04-H_zniw5u.png", links: [{ network: "amazon-us", productId: "B075SBM7TP", rawUrl: "https://www.amazon.com/dp/B075SBM7TP", markets: ["US", "EU", "global"], approved: true }] },
   { id: "trx-home2", category: "fitness", badge: "Best Suspension Trainer", name: { en: "TRX HOME2 System", ja: "TRX ホーム2 システム" }, description: { en: "Complete suspension training system — 300+ exercises, door anchor, outdoor strap, and app access.", ja: "300種類以上のエクササイズ対応。ドアアンカー・屋外ストラップ・アプリ付きサスペンショントレーニングシステム。" }, price: "$199", imageUrl: "https://www.trxtraining.com/cdn/shop/products/TRX_HOME2_System_Hero.jpg", links: [{ network: "amazon-us", productId: "B07BHBJRDZ", rawUrl: "https://www.amazon.com/dp/B07BHBJRDZ", markets: ["US", "EU", "global"], approved: true }] },
@@ -22107,7 +22107,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Parenting / Baby Gates (best-baby-gate-2026) ─────────
   {
     id: "regalo-easy-step-walk-thru",
-    imageUrl: "https://m.media-amazon.com/images/I/71w5KRBA2jL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/91IxCaHGAsL._AC_SL1500_.jpg",
     priceMin: "$29",
     priceMax: "$45",
     category: "parenting",
@@ -22121,7 +22121,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "summer-infant-multi-use-gate",
-    imageUrl: "https://m.media-amazon.com/images/I/71oS9RfEP3L._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/616QIoNm9hS._AC_SL1500_.jpg",
     priceMin: "$55",
     priceMax: "$80",
     category: "parenting",
@@ -22135,7 +22135,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "north-states-supergate",
-    imageUrl: "https://m.media-amazon.com/images/I/71bfHqYBMoL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81PBM6N7mHL._SL1500_.jpg",
     priceMin: "$45",
     priceMax: "$70",
     category: "parenting",
@@ -22149,7 +22149,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "evenflo-secure-step-gate",
-    imageUrl: "https://m.media-amazon.com/images/I/71c7xnUvYoL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media/mg/1d322db6-50bb-4690-9346-133d894b12f6._SR300,300_.jpg",
     priceMin: "$35",
     priceMax: "$55",
     category: "parenting",
@@ -22163,7 +22163,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "munchkin-easy-close-gate",
-    imageUrl: "https://m.media-amazon.com/images/I/71V7ppFCaML._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/51-lmN-0qfL._SL1000_.jpg",
     priceMin: "$35",
     priceMax: "$55",
     category: "parenting",
@@ -22177,7 +22177,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "marcus-by-goldman-cd",
-    imageUrl: "https://logo.clearbit.com/marcus.com",
+    imageUrl: "https://i.ytimg.com/vi/OHkuLrhm5P0/maxresdefault.jpg",
     priceMin: "$500",
     priceMax: "$500",
     category: "finance",
@@ -22190,7 +22190,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "ally-bank-cd",
-    imageUrl: "https://logo.clearbit.com/ally.com",
+    imageUrl: "https://thefinancialbrand.com/wp-content/uploads/2018/03/Ally-Bank-CDs-768x628.jpg",
     priceMin: "$0",
     priceMax: "$0",
     category: "finance",
@@ -22203,7 +22203,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "capital-one-360-cd",
-    imageUrl: "https://logo.clearbit.com/capitalone.com",
+    imageUrl: "https://i.ytimg.com/vi/gFZEEMQYSws/maxresdefault.jpg",
     priceMin: "$0",
     priceMax: "$0",
     category: "finance",
@@ -22216,7 +22216,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "synchrony-bank-cd",
-    imageUrl: "https://logo.clearbit.com/synchronybank.com",
+    imageUrl: "https://joinpd.io/wp-content/uploads/2024/12/synchrony-bank-amazon.png",
     priceMin: "$0",
     priceMax: "$0",
     category: "finance",
@@ -22229,7 +22229,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "discover-bank-cd",
-    imageUrl: "https://logo.clearbit.com/discover.com",
+    imageUrl: "https://i.insider.com/681a5545c6ad288d14802dd0?width=798&format=jpeg",
     priceMin: "$2500",
     priceMax: "$2500",
     category: "finance",
@@ -22247,7 +22247,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Overall",
     priceMin: "$159",
     priceMax: "$199",
-    imageUrl: "https://sleepypod.com/cdn/shop/products/sleepypod-mobile-pet-bed-black.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61u5wFqKPGL._AC_SL1000_.jpg",
     name: {
       en: "Sleepypod Mobile Pet Bed",
       ja: "スリーピーポッド モバイル ペットベッド",
@@ -22281,7 +22281,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best for Flights",
     priceMin: "$55",
     priceMax: "$80",
-    imageUrl: "https://m.media-amazon.com/images/I/71XYlvhvzZL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71a3IVKi2JL._SL1500_.jpg",
     name: {
       en: "Sherpa Original Deluxe Airline-Approved Pet Carrier",
       ja: "シェルパ オリジナル デラックス 航空会社認定 ペットキャリー",
@@ -22314,7 +22314,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Expandable",
     priceMin: "$59",
     priceMax: "$85",
-    imageUrl: "https://m.media-amazon.com/images/I/81LfE2MWKGL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71kgXW7Yn4L._AC_SL1500_.jpg",
     name: {
       en: "Petsfit Expandable Cat Carrier",
       ja: "Petsfit 拡張式キャットキャリー",
@@ -22347,7 +22347,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Budget",
     priceMin: "$30",
     priceMax: "$50",
-    imageUrl: "https://img.chewy.com/is/image/catalog/218831_MAIN._AC_SL1500_V1588367404_.jpg",
+    imageUrl: "https://image.chewy.com/catalog/general/images/frisco-soft-sided-airline-compliant-dog-cat-carrier-black/img-579107._AC_SL1200_QL100_V1_.jpg",
     name: {
       en: "Frisco Soft-Sided Cat Carrier",
       ja: "フリスコ ソフトサイド キャットキャリー",
@@ -22380,7 +22380,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Premium Design",
     priceMin: "$225",
     priceMax: "$275",
-    imageUrl: "https://cdn.awaytravel.com/media/catalog/product/p/e/pet-carrier.jpg",
+    imageUrl: "https://dogsacademy.org/wp-content/uploads/2024/01/Away-The-Pet-Carrier.jpg",
     name: {
       en: "Away The Pet Carrier",
       ja: "アウェイ ペットキャリー",
@@ -22410,7 +22410,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ── Best Credit Monitoring Service 2026 ──────────────────────────────────
   {
     id: "experian-credit-monitoring",
-    imageUrl: "https://logo.clearbit.com/experian.com",
+    imageUrl: "https://i.ytimg.com/vi/ZBC4jC4FwOc/maxresdefault.jpg",
     priceMin: "$0/mo",
     priceMax: "$24.99/mo",
     category: "finance",
@@ -22423,7 +22423,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "credit-karma-free",
-    imageUrl: "https://logo.clearbit.com/creditkarma.com",
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/71LGrlA8RxL.png",
     priceMin: "$0/mo",
     priceMax: "$0/mo",
     category: "finance",
@@ -22436,7 +22436,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "identityforce-credit-monitoring",
-    imageUrl: "https://logo.clearbit.com/identityforce.com",
+    imageUrl: "https://shawnmanaher.com/wp-content/uploads/2022/11/Identity-Force-2-1024x491.png",
     priceMin: "$17.99/mo",
     priceMax: "$34.99/mo",
     category: "finance",
@@ -22449,7 +22449,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "lifelock-ultimate-plus",
-    imageUrl: "https://logo.clearbit.com/lifelock.com",
+    imageUrl: "https://m.media-amazon.com/images/I/71EX+nY6laL._AC_SL1500_.jpg",
     priceMin: "$11.99/mo",
     priceMax: "$34.99/mo",
     category: "finance",
@@ -22462,7 +22462,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "aura-id-protection-family",
-    imageUrl: "https://logo.clearbit.com/aura.com",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/982fb7f5-74b6-43bb-bfa6-554e27ffc6a3.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
     priceMin: "$12/mo",
     priceMax: "$37/mo",
     category: "finance",
@@ -22475,7 +22475,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "identityforce-ultrasecure",
-    imageUrl: "https://logo.clearbit.com/identityforce.com",
+    imageUrl: "https://i.ytimg.com/vi/udE2uuxEHQ8/maxresdefault.jpg",
     priceMin: "$17.99/mo",
     priceMax: "$29.95/mo",
     category: "finance",
@@ -22488,7 +22488,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "idshield-3bureau-family",
-    imageUrl: "https://logo.clearbit.com/idshield.com",
+    imageUrl: "https://thumbor.forbes.com/thumbor/fit-in/600x300/https://www.forbes.com/advisor/wp-content/uploads/2021/12/IDSLogo-horiz-blue.png",
     priceMin: "$14.95/mo",
     priceMax: "$34.95/mo",
     category: "finance",
@@ -22501,7 +22501,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "experian-identityworks-premium",
-    imageUrl: "https://logo.clearbit.com/experian.com",
+    imageUrl: "https://cdn.comparitech.com/wp-content/uploads/2022/09/Experian-IdentityWorks-dashboard.jpg",
     priceMin: "$9.99/mo",
     priceMax: "$29.99/mo",
     category: "finance",
@@ -22514,7 +22514,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "myfico-essentials",
-    imageUrl: "https://logo.clearbit.com/myfico.com",
+    imageUrl: "https://ficoforums.myfico.com/t5/image/serverpage/image-id/86218i8C03C649179C4CAE?v=v2",
     priceMin: "$19.95/mo",
     priceMax: "$39.95/mo",
     category: "finance",
@@ -22528,7 +22528,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Finance / Student Loan Refinance (best-student-loan-refinance-2026) ─────────
   {
     id: "sofi-student-loan-refi",
-    imageUrl: "https://logo.clearbit.com/sofi.com",
+    imageUrl: "https://moneycheck.com/wp-content/uploads/2019/07/sofi-review.jpg",
     priceMin: "5.24% APR",
     priceMax: "9.99% APR",
     category: "finance",
@@ -22541,7 +22541,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "earnest-student-loan-refi",
-    imageUrl: "https://logo.clearbit.com/earnest.com",
+    imageUrl: "https://a-us.storyblok.com/f/1016673/800x356/2cce1e64e0/earnest_banner_sm.jpg",
     priceMin: "5.19% APR",
     priceMax: "9.74% APR",
     category: "finance",
@@ -22554,7 +22554,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "splash-financial-refi",
-    imageUrl: "https://logo.clearbit.com/splashfinancial.com",
+    imageUrl: "https://cdn.biblemoneymatters.com/wp-content/uploads/2020/02/27093429/splash-financial-review-pinterest.jpg",
     priceMin: "5.10% APR",
     priceMax: "10.24% APR",
     category: "finance",
@@ -22567,7 +22567,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "laurel-road-student-refi",
-    imageUrl: "https://logo.clearbit.com/laurelroad.com",
+    imageUrl: "https://cdn.biblemoneymatters.com/wp-content/uploads/2020/03/24140529/laurel-road-refer-a-friend-program.jpg",
     priceMin: "5.49% APR",
     priceMax: "10.09% APR",
     category: "finance",
@@ -22580,7 +22580,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "mefa-student-loan-refi",
-    imageUrl: "https://logo.clearbit.com/mefa.org",
+    imageUrl: "https://www.mefa.org/uploads/og_images/659995_mefas-student-loan-payment-calculator-video.png",
     priceMin: "5.39% APR",
     priceMax: "7.99% APR",
     category: "finance",
@@ -22594,7 +22594,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     // ───────── Pets / Dog Bowls (best-dog-bowl-2026) ─────────
   {
     id: "yeti-boomer-8-dog-bowl",
-    imageUrl: "https://m.media-amazon.com/images/I/61QY5nAKFML._AC_SL1500_.jpg",
+    imageUrl: "https://www.foodandwine.com/thmb/L1ZMZF7Zb96Y9BzQB90vtuYtNtI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/yeti-boomer-8-stainless-steel-043d6f3284764377bbdc7d33e6395b1f.jpg",
     priceMin: "$50",
     priceMax: "$60",
     category: "pets",
@@ -22607,7 +22607,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "outward-hound-fun-feeder-slo-bowl",
-    imageUrl: "https://m.media-amazon.com/images/I/71MabJXHQFL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/812ibfa6VVL._AC_SL1500_.jpg",
     priceMin: "$10",
     priceMax: "$18",
     category: "pets",
@@ -22620,7 +22620,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "petsafe-healthy-pet-simply-feed",
-    imageUrl: "https://m.media-amazon.com/images/I/61aFbQu8RnL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71c90K5UfLL._AC_.jpg",
     priceMin: "$140",
     priceMax: "$180",
     category: "pets",
@@ -22633,7 +22633,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "loving-pets-stainless-steel-bowl",
-    imageUrl: "https://m.media-amazon.com/images/I/71xKdxKqDzL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61rCcfun34L._AC_SL1500_.jpg",
     priceMin: "$10",
     priceMax: "$25",
     category: "pets",
@@ -22646,7 +22646,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "neater-feeder-deluxe",
-    imageUrl: "https://m.media-amazon.com/images/I/71Q4pHyMMRL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71+3ptWwZ6L._AC_.jpg",
     priceMin: "$35",
     priceMax: "$65",
     category: "pets",
@@ -22661,7 +22661,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // --- Pets: Cat Scratching Posts ---
   {
     id: "smartcat-ultimate-scratching-post",
-    imageUrl: "https://m.media-amazon.com/images/I/71zQn7oRfrL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61XQ3+a8VsL._AC_SL1500_.jpg",
     priceMin: "$29",
     priceMax: "$40",
     category: "pets",
@@ -22675,7 +22675,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "petfusion-ambush-interactive-feather-cat-toy",
-    imageUrl: "https://m.media-amazon.com/images/I/71XhJI2LpYL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media/sota/a3efa8fd-5474-4cb7-a4b1-404115924d7e._CR0,0,300,300_PT0_SX300__.jpg",
     priceMin: "$50",
     priceMax: "$75",
     category: "pets",
@@ -22689,7 +22689,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "way-basics-cat-scratching-post",
-    imageUrl: "https://m.media-amazon.com/images/I/71QJjOhxGSL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/915mwAT1trS._AC_SL1500_.jpg",
     priceMin: "$30",
     priceMax: "$45",
     category: "pets",
@@ -22703,7 +22703,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "frisco-21-inch-cat-scratching-post",
-    imageUrl: "https://m.media-amazon.com/images/I/71e9kN9JB4L._AC_SL1500_.jpg",
+    imageUrl: "https://www.omlet.us/images/cache/512/512/tall-omlet-stak-cat-scratching-post.jpg",
     priceMin: "$22",
     priceMax: "$32",
     category: "pets",
@@ -22717,7 +22717,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "amazon-basics-cat-condo-scratcher",
-    imageUrl: "https://m.media-amazon.com/images/I/81V4JTmxfQL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81zHpfd0MVL._AC_.jpg",
     priceMin: "$35",
     priceMax: "$55",
     category: "pets",
@@ -22746,7 +22746,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "smartykat-crackle-chute",
-    imageUrl: "https://m.media-amazon.com/images/I/71w1mMxFu2L._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61qNf75TIgS._AC_.jpg",
     priceMin: "$10",
     priceMax: "$15",
     category: "pets",
@@ -22760,7 +22760,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "kitty-city-large-cat-tunnel",
-    imageUrl: "https://m.media-amazon.com/images/I/81RqKE2oVbL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/918wQtD3wKL._AC_SL1500_.jpg",
     priceMin: "$20",
     priceMax: "$30",
     category: "pets",
@@ -22774,7 +22774,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "rainbow-cat-tunnel-pet-zone",
-    imageUrl: "https://m.media-amazon.com/images/I/81XK0FZmXJL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71+tPX7FrXL._AC_SL1500_.jpg",
     priceMin: "$18",
     priceMax: "$25",
     category: "pets",
@@ -22788,7 +22788,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "kong-naturals-incline-cat-scratcher",
-    imageUrl: "https://m.media-amazon.com/images/I/71A7sJEFtNL._AC_SL1500_.jpg",
+    imageUrl: "http://www.yazoo.ca/uploads/1/2/7/8/127834399/s219845740441147154_p822_i1_w522.jpeg",
     priceMin: "$15",
     priceMax: "$22",
     category: "pets",
@@ -22805,7 +22805,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // --- dog puzzle toys ---
   {
     id: "outward-hound-hide-n-slide",
-    imageUrl: "https://m.media-amazon.com/images/I/81W9Fo2mSFL._AC_SL1500_.jpg",
+    imageUrl: "https://passwird.com/wp-content/uploads/2024/04/814JNnVkcwL._AC_SL1500_1.jpg",
     priceMin: "$13",
     priceMax: "$20",
     category: "pets",
@@ -22818,7 +22818,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "nina-ottosson-dog-tornado",
-    imageUrl: "https://m.media-amazon.com/images/I/71sMqFSiNuL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71LmqqRsGbL._AC_.jpg",
     priceMin: "$25",
     priceMax: "$35",
     category: "pets",
@@ -22831,7 +22831,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "kong-classic-treat-dispenser",
-    imageUrl: "https://m.media-amazon.com/images/I/71JAXV0QnmL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61CdAn30vqL._AC_SY879_.jpg",
     priceMin: "$13",
     priceMax: "$20",
     category: "pets",
@@ -22844,7 +22844,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "trixie-mad-scientist-puzzle",
-    imageUrl: "https://m.media-amazon.com/images/I/81a9VvFpKRL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/41y4CgyfsKL._SL500_.jpg",
     priceMin: "$25",
     priceMax: "$35",
     category: "pets",
@@ -22857,7 +22857,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "pet-zone-iq-treat-ball",
-    imageUrl: "https://m.media-amazon.com/images/I/61J62+pKi9L._AC_SL1500_.jpg",
+    imageUrl: "https://image.chewy.com/catalog/general/images/pet-zone-iq-treat-dispenser-ball-dog-toy-3in/img-194903._AC_SL1200_V1_.jpg",
     priceMin: "$10",
     priceMax: "$15",
     category: "pets",
@@ -22875,7 +22875,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Overall",
     priceMin: "$649",
     priceMax: "$899",
-    imageUrl: "https://m.media-amazon.com/images/I/71Qx2GXjpkL._AC_SL1500_.jpg",
+    imageUrl: "https://www.flyingpiggrooming.com/v/vspfiles/assets/images/Flying%20Pig%20Electric%20Grooming%20Table%20FP200BK%20Black%20(1).jpg",
     name: {
       en: "Flying Pig Electric Lift Dog Grooming Table",
       ja: "フライングピッグ 電動リフト ドッググルーミングテーブル",
@@ -22909,7 +22909,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Hydraulic",
     priceMin: "$399",
     priceMax: "$549",
-    imageUrl: "https://m.media-amazon.com/images/I/71oGZpEIZSL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61TUp4KBLnL._AC_.jpg",
     name: {
       en: "Master Equipment Hydraulic Foot-Pump Grooming Table",
       ja: "マスターエクイップメント 油圧フットポンプ グルーミングテーブル",
@@ -22943,7 +22943,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Electric Under $600",
     priceMin: "$499",
     priceMax: "$699",
-    imageUrl: "https://m.media-amazon.com/images/I/71HxxNQZ7EL._AC_SL1500_.jpg",
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/61iDOFHDfPL.jpg",
     name: {
       en: "Paw Brothers Electric Lift Grooming Table",
       ja: "ポウ・ブラザーズ 電動リフト グルーミングテーブル",
@@ -22977,7 +22977,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Budget",
     priceMin: "$79",
     priceMax: "$119",
-    imageUrl: "https://m.media-amazon.com/images/I/71V0R7GVHKL._AC_SL1500_.jpg",
+    imageUrl: "https://www.dogster.com/wp-content/uploads/2022/06/Go-Pet-Club-Dog-Grooming-Table-with-Arm-2024.jpg",
     name: {
       en: "Go Pet Club 46-Inch Folding Dog Grooming Table",
       ja: "ゴーペットクラブ 46インチ 折りたたみ ドッググルーミングテーブル",
@@ -23011,7 +23011,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Mid-Range",
     priceMin: "$299",
     priceMax: "$399",
-    imageUrl: "https://m.media-amazon.com/images/I/71BkSJrAJML._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71JkShp3f0S.jpg",
     name: {
       en: "SHELANDY Electric Lift Dog Grooming Table",
       ja: "シーランディ 電動リフト ドッググルーミングテーブル",
@@ -23042,7 +23042,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // --- leather gloves ---
   {
     id: "hestra-elegance-hairsheep",
-    imageUrl: "https://m.media-amazon.com/images/I/61Z8rjvfM5L._AC_SL1500_.jpg",
+    imageUrl: "https://cdn.media.amplience.net/i/harryrosen/20163032075?maxW=3840&fmt=auto",
     priceMin: "$155",
     priceMax: "$210",
     category: "fashion",
@@ -23077,7 +23077,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "mujjo-touchscreen-leather",
-    imageUrl: "https://m.media-amazon.com/images/I/61VoiXqTpRL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/514i2DFqrBL._AC_SL1350_.jpg",
     priceMin: "$70",
     priceMax: "$95",
     category: "fashion",
@@ -23112,7 +23112,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "dents-bath-cashmere-lined",
-    imageUrl: "https://m.media-amazon.com/images/I/71Gg3DHXMPL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/51Z0dE95c7L._AC_SL1372_.jpg",
     priceMin: "$185",
     priceMax: "$230",
     category: "fashion",
@@ -23147,7 +23147,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "coach-tech-cashmere-gloves",
-    imageUrl: "https://m.media-amazon.com/images/I/61GqxoECKAL._AC_SL1500_.jpg",
+    imageUrl: "https://images.coach.com/is/image/Coach/cb694_76014_a1",
     priceMin: "$95",
     priceMax: "$135",
     category: "fashion",
@@ -23182,7 +23182,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "ugg-shearling-cuff-gloves",
-    imageUrl: "https://m.media-amazon.com/images/I/71mEzrHGiXL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71Y4lpM9VWL._AC_SX342_SY445_QL70_ML2_.jpg",
     priceMin: "$98",
     priceMax: "$130",
     category: "fashion",
@@ -23219,7 +23219,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ── Best Men's Suit 2026 ─────────────────────────────────────────────────
   {
     id: "suitsupply-napoli-wool",
-    imageUrl: "https://m.media-amazon.com/images/I/71ZQ7j8YZHL._AC_SL1500_.jpg",
+    imageUrl: "https://di2ponv0v5otw.cloudfront.net/posts/2021/10/27/6179f866074d24c88e627999/m_617b53a6941f1744504d42c5.jpeg",
     priceMin: "$499",
     priceMax: "$699",
     category: "fashion",
@@ -23254,7 +23254,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "brooks-brothers-fitzgerald",
-    imageUrl: "https://m.media-amazon.com/images/I/61j8V8zL0FL._AC_SL1500_.jpg",
+    imageUrl: "https://bestlifeonline.com/wp-content/uploads/sites/3/2017/05/20.-Brooks-Brothers.jpg?resize=500",
     priceMin: "$798",
     priceMax: "$1198",
     category: "fashion",
@@ -23289,7 +23289,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "indochino-essential-suit",
-    imageUrl: "https://m.media-amazon.com/images/I/71rGxzqBNtL._AC_SL1500_.jpg",
+    imageUrl: "https://i8.amplience.net/s/indochino/15021335_0_set/brown-solid-design-motta-suit.jpg?$suit-pdp-desk$",
     priceMin: "$299",
     priceMax: "$499",
     category: "fashion",
@@ -23324,7 +23324,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "jcrew-ludlow-suit",
-    imageUrl: "https://m.media-amazon.com/images/I/71aFn2jHL5L._AC_SL1500_.jpg",
+    imageUrl: "https://theadultman.com/wp-content/uploads/2020/10/J.Crew-Ludlow-Suit-Review-800x1200.png",
     priceMin: "$298",
     priceMax: "$498",
     category: "fashion",
@@ -23359,7 +23359,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "hugo-boss-huge-genius",
-    imageUrl: "https://m.media-amazon.com/images/I/61tKVlHlmQL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/91-R0pHNKqL._AC_SL1500_.jpg",
     priceMin: "$695",
     priceMax: "$995",
     category: "fashion",
@@ -23396,7 +23396,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ── Best Home Insurance 2026 ──────────────────────────────────────────────
   {
     id: "lemonade-homeowners",
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Lemonade_Insurance_Logo.svg/1200px-Lemonade_Insurance_Logo.svg.png",
+    imageUrl: "https://m.media-amazon.com/images/I/818UTxzo7AL._SL1500_.jpg",
     priceMin: "$25/mo",
     priceMax: "$100/mo",
     category: "finance",
@@ -23409,7 +23409,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "amica-mutual-homeowners",
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Amica_Mutual_Insurance_logo.svg/1200px-Amica_Mutual_Insurance_logo.svg.png",
+    imageUrl: "https://images.bannerbear.com/direct/4mGpW3zwpg0ZK0AxQw/requests/000/094/634/019/DdWb1LGkNYNkbON3z70OKvRAP/4357e41f6119bec540c47820edf7db39bf38c88a.jpg",
     priceMin: "$80/mo",
     priceMax: "$220/mo",
     category: "finance",
@@ -23422,7 +23422,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "state-farm-homeowners",
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/State_Farm_logo.svg/1200px-State_Farm_logo.svg.png",
+    imageUrl: "https://scpr.brightspotcdn.com/dims4/default/2420273/2147483647/strip/true/crop/1536x806+0+28/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F61%2Fed%2F90899f124963b96908ab8f540120%2F031325-state-farm-pf-getty-01-cm.jpeg",
     priceMin: "$90/mo",
     priceMax: "$250/mo",
     category: "finance",
@@ -23435,7 +23435,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "usaa-homeowners",
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/USAA_logo.svg/1200px-USAA_logo.svg.png",
+    imageUrl: "https://m.media-amazon.com/images/I/71Q4pHyMMRL._AC_SL1500_.jpg",
     priceMin: "$75/mo",
     priceMax: "$200/mo",
     category: "finance",
@@ -23448,7 +23448,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "allstate-homeowners",
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Allstate_Insurance_logo.svg/1200px-Allstate_Insurance_logo.svg.png",
+    imageUrl: "https://cdn.prod.website-files.com/5f18a24d02bace2ac2d05bac/659eaa5966ed33e4a21a0d51_allstate-renters.png",
     priceMin: "$100/mo",
     priceMax: "$280/mo",
     category: "finance",
@@ -23462,7 +23462,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ── Leather Loafers (best-leather-loafers-2026) ──────────────────────────
   {
     id: "gh-bass-weejuns-penny-loafer",
-    imageUrl: "https://m.media-amazon.com/images/I/71cGH5LBCnL._AC_SY695_.jpg",
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/61ciN5JjZCL._AC_UY535_.jpg",
     priceMin: "$175",
     priceMax: "$245",
     category: "fashion",
@@ -23496,7 +23496,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "alden-tassel-loafer-leisure-handsewn",
-    imageUrl: "https://m.media-amazon.com/images/I/71yQjvHFWyL._AC_SY695_.jpg",
+    imageUrl: "https://www.brogueshop.com/cdn/shop/files/kodak-7_e47863b5-cbb2-40da-9b65-416ad9b05994_1024x1024.jpg?v=1724887225",
     priceMin: "$695",
     priceMax: "$895",
     category: "fashion",
@@ -23530,7 +23530,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "tods-gommino-driver",
-    imageUrl: "https://m.media-amazon.com/images/I/71lEPTBpO6L._AC_SY695_.jpg",
+    imageUrl: "https://media.bergdorfgoodman.com/f_auto,q_auto:low,ar_5:7,c_fill,dpr_2.0,w_720/01/bg_4964678_100286_z",
     priceMin: "$595",
     priceMax: "$795",
     category: "fashion",
@@ -23564,7 +23564,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "thursday-mens-loafer",
-    imageUrl: "https://m.media-amazon.com/images/I/71K5a7z0XcL._AC_SY695_.jpg",
+    imageUrl: "https://thursdayboots.com/cdn/shop/files/2800x1080-Men-Lincoln-RichMahogany-092723-1_800x533_crop_right.jpg?v=1696880073",
     priceMin: "$199",
     priceMax: "$249",
     category: "fashion",
@@ -23598,7 +23598,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "cole-haan-pinch-grand-loafer",
-    imageUrl: "https://m.media-amazon.com/images/I/81a8IiBzTIL._AC_SY695_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81kJMR7i9FL._AC_SL1500_.jpg",
     priceMin: "$190",
     priceMax: "$250",
     category: "fashion",
@@ -23637,7 +23637,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Overall",
     priceMin: "$35",
     priceMax: "$45",
-    imageUrl: "https://m.media-amazon.com/images/I/71Y2KeH9bLL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71uiDmNrDJS._AC_SX679_.jpg",
     name: { en: "Dremel 7300-PT Pet Nail Grooming Tool", ja: "ドレメル 7300-PT ペット爪グラインダー", "zh-CN": "Dremel 7300-PT 宠物磨甲工具", "zh-TW": "Dremel 7300-PT 寵物磨甲工具", ko: "드레멜 7300-PT 반려동물 발톱 그라인더", es: "Dremel 7300-PT Kit de uñas para mascotas", "pt-BR": "Dremel 7300-PT Kit para unhas de pets", fr: "Dremel 7300-PT Outil de toilettage pour animaux", de: "Dremel 7300-PT Tierpflege-Schleifgerät", it: "Dremel 7300-PT Strumento per unghie animali", ru: "Dremel 7300-PT Инструмент для когтей питомцев", ar: "Dremel 7300-PT أداة العناية بأظافر الحيوانات الأليفة", hi: "Dremel 7300-PT पालतू नाखून ग्राइंडर", id: "Dremel 7300-PT Alat Kuku Hewan Peliharaan", th: "Dremel 7300-PT เครื่องเจียรเล็บสัตว์เลี้ยง", vi: "Dremel 7300-PT Dụng cụ mài móng thú cưng", tr: "Dremel 7300-PT Evcil Hayvan Tırnak Bakım Aleti" },
     description: { en: "Cordless rotary tool with 2 speeds (6,500 / 13,000 RPM) and 60-grit sanding bands. Runs up to 2 hours on 4 AA batteries. Ideal for dark-nailed dogs where the quick is invisible.", ja: "コードレス回転工具、2段階速度（6,500/13,000 RPM）、60番サンディングバンド。単3電池4本で最大2時間動作。毛細血管が見えにくい黒爪の犬に最適。" },
     links: [
@@ -23651,7 +23651,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best for Groomers",
     priceMin: "$12",
     priceMax: "$18",
-    imageUrl: "https://m.media-amazon.com/images/I/61g3xV0IKLL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61ieUK5OVwL._AC_SL1500_.jpg",
     name: { en: "Safari Professional Nail Trimmer for Dogs", ja: "サファリ プロフェッショナル 犬用爪切り", "zh-CN": "Safari 专业犬用指甲剪", "zh-TW": "Safari 專業犬用指甲剪", ko: "사파리 프로페셔널 반려견 발톱 깎기", es: "Safari Cortaúñas profesional para perros", "pt-BR": "Safari Cortador de unhas profissional para cães", fr: "Safari Coupe-ongles professionnel pour chiens", de: "Safari Professioneller Hundekrallenschneider", it: "Safari Tronchesino professionale per cani", ru: "Safari Профессиональный триммер когтей для собак", ar: "Safari مقص أظافر احترافي للكلاب", hi: "Safari प्रोफेशनल डॉग नेल ट्रिमर", id: "Safari Pemotong Kuku Anjing Profesional", th: "Safari กรรไกรตัดเล็บสุนัขมืออาชีพ", vi: "Safari Kìm cắt móng chó chuyên nghiệp", tr: "Safari Köpekler için Profesyonel Tırnak Kesici" },
     description: { en: "Stainless steel blades with a quick-stop safety guard. Ergonomic non-slip handles. Trusted by professional dog groomers for medium and large breeds.", ja: "ステンレス製ブレード、安全ガード付き。滑り止めエルゴノミックグリップ。中・大型犬向けのプログルーマー愛用品。" },
     links: [
@@ -23665,7 +23665,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Budget",
     priceMin: "$10",
     priceMax: "$15",
-    imageUrl: "https://m.media-amazon.com/images/I/71LcF5dS3ML._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71KgV2JeQlL._AC_SL1500_.jpg",
     name: { en: "Boshel Dog Nail Clippers with Safety Guard", ja: "ボシェル 安全ガード付き犬用爪切り", "zh-CN": "Boshel 带安全挡板狗狗指甲剪", "zh-TW": "Boshel 帶安全擋板狗狗指甲剪", ko: "보쉘 안전 가드가 있는 반려견 발톱 깎기", es: "Boshel Cortaúñas para perros con guarda de seguridad", "pt-BR": "Boshel Cortador de unhas com proteção de segurança", fr: "Boshel Coupe-ongles pour chiens avec garde de sécurité", de: "Boshel Hundekrallenschneider mit Sicherheitswächter", it: "Boshel Tronchesino per cani con guarda di sicurezza", ru: "Boshel Кусачки для когтей с защитой от порезов", ar: "Boshel مقص أظافر الكلاب مع حارس الأمان", hi: "Boshel सुरक्षा गार्ड के साथ डॉग नेल क्लिपर", id: "Boshel Pemotong Kuku Anjing dengan Penjaga Keamanan", th: "Boshel กรรไกรตัดเล็บสุนัขพร้อมแผ่นป้องกัน", vi: "Boshel Kéo cắt móng chó với tấm bảo vệ an toàn", tr: "Boshel Güvenlik Korumalı Köpek Tırnak Makası" },
     description: { en: "Built-in safety blade guard prevents over-cutting. 4.5-star Amazon rating with 40,000+ reviews. Includes a mini nail file in the handle. Most popular budget pick under $15.", ja: "内蔵セーフティブレードガードで切りすぎ防止。Amazonで4.5星・4万件超のレビュー。ハンドル内蔵の爪やすり付き。15ドル以下で最人気のコスパ品。" },
     links: [
@@ -23679,7 +23679,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Quietest Grinder",
     priceMin: "$25",
     priceMax: "$35",
-    imageUrl: "https://m.media-amazon.com/images/I/71UjKPpNKdL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61Gr3cNHR-L._AC_SL1500_.jpg",
     name: { en: "Casfuy Dog Nail Grinder", ja: "キャスフィ 犬用爪グラインダー", "zh-CN": "Casfuy 狗狗磨甲器", "zh-TW": "Casfuy 狗狗磨甲器", ko: "캐스퓨이 반려견 발톱 그라인더", es: "Casfuy Esmeriladora de uñas para perros", "pt-BR": "Casfuy Lixador de unhas para cães", fr: "Casfuy Lime électrique pour les ongles de chien", de: "Casfuy Hundekrallen-Schleifgerät", it: "Casfuy Smerigliatrice per unghie di cane", ru: "Casfuy Шлифовальный инструмент для когтей собак", ar: "Casfuy جهاز طحن أظافر الكلاب", hi: "Casfuy डॉग नेल ग्राइंडर", id: "Casfuy Penggiling Kuku Anjing", th: "Casfuy เครื่องเจียรเล็บสุนัข", vi: "Casfuy Máy mài móng chó", tr: "Casfuy Köpek Tırnak Taşlama Aleti" },
     description: { en: "USB rechargeable with 5-hour battery life. Two speed settings and 3 grinding ports sized for small, medium, and large dogs. Motor runs under 60 dB — quieter than most clippers.", ja: "USB充電式、5時間稼働。2段階スピードと小・中・大型犬対応の3サイズ研削ポート。モーター60dB以下で静音設計。" },
     links: [
@@ -23693,7 +23693,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Vet Approved",
     priceMin: "$9",
     priceMax: "$14",
-    imageUrl: "https://m.media-amazon.com/images/I/71xCqQXCBBL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/818-gq9QcFL._AC_.jpg",
     name: { en: "JW Pet GripSoft Deluxe Nail Clipper", ja: "JWペット グリップソフト デラックス 爪切り", "zh-CN": "JW Pet GripSoft 豪华宠物指甲剪", "zh-TW": "JW Pet GripSoft 豪華寵物指甲剪", ko: "JW Pet 그립소프트 디럭스 발톱 깎기", es: "JW Pet GripSoft Deluxe Cortaúñas", "pt-BR": "JW Pet GripSoft Deluxe Cortador de unhas", fr: "JW Pet GripSoft Deluxe Coupe-ongles", de: "JW Pet GripSoft Deluxe Nagelschneider", it: "JW Pet GripSoft Deluxe Tronchesino", ru: "JW Pet GripSoft Deluxe Когтерез", ar: "JW Pet GripSoft Deluxe قص الأظافر", hi: "JW Pet GripSoft Deluxe नेल क्लिपर", id: "JW Pet GripSoft Deluxe Pemotong Kuku", th: "JW Pet GripSoft Deluxe กรรไกรตัดเล็บ", vi: "JW Pet GripSoft Deluxe Kéo cắt móng", tr: "JW Pet GripSoft Deluxe Tırnak Kesici" },
     description: { en: "Curved stainless steel blade shaped for small to medium dog nails. Thermoplastic non-slip grip. Veterinarian-approved design. Under $14 and widely available in pet stores.", ja: "小〜中型犬の爪に合わせた湾曲ステンレスブレード。熱可塑性エラストマーの滑り止めグリップ。獣医師承認デザイン。14ドル以下、ペットショップで広く入手可能。" },
     links: [
@@ -23705,7 +23705,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Pets / Hamster Cages (best-hamster-cage-2026) ─────────
   {
     id: "kaytee-crittertrail",
-    imageUrl: "https://m.media-amazon.com/images/I/71Z2do4KFIL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/91BJ9O59b5L._AC_SL1500_.jpg",
     priceMin: "$30",
     priceMax: "$55",
     category: "pets",
@@ -23719,7 +23719,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "savic-hamster-heaven-metro",
-    imageUrl: "https://m.media-amazon.com/images/I/71qKQkb7bSL._AC_SL1500_.jpg",
+    imageUrl: "https://images-eu.ssl-images-amazon.com/images/I/61ujXP14iTL.__AC_SY300_QL70_ML2_.jpg",
     priceMin: "$75",
     priceMax: "$110",
     category: "pets",
@@ -23733,7 +23733,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "ikea-detolf-glass-cabinet",
-    imageUrl: "https://m.media-amazon.com/images/I/51Y5tDIa9ZL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/514gi57zhfL._AC_SL1267_.jpg",
     priceMin: "$65",
     priceMax: "$80",
     category: "pets",
@@ -23747,7 +23747,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "prevue-hendryx-hamster-cage",
-    imageUrl: "https://m.media-amazon.com/images/I/71u0q+JDKFL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81x1hjtPu7L._AC_SL1500_.jpg",
     priceMin: "$45",
     priceMax: "$70",
     category: "pets",
@@ -23761,7 +23761,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "midwest-hamster-supreme",
-    imageUrl: "https://m.media-amazon.com/images/I/71gJDBAbFML._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/91BCAnVB7nL._AC_SL1500_.jpg",
     priceMin: "$55",
     priceMax: "$85",
     category: "pets",
@@ -23776,7 +23776,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Pets / Pet ID Tags (best-pet-id-tag-2026) ─────────
   {
     id: "gotags-stainless-steel-tag",
-    imageUrl: "https://m.media-amazon.com/images/I/71sBxWnqh3L._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81XuMHUgOgL._AC_SL1500_.jpg",
     priceMin: "$8",
     priceMax: "$14",
     category: "pets",
@@ -23791,7 +23791,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "providence-engraving-brass-tag",
-    imageUrl: "https://m.media-amazon.com/images/I/61zD5EQLD3L._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71WhhLLi+9L._AC_SL1500_.jpg",
     priceMin: "$12",
     priceMax: "$22",
     category: "pets",
@@ -23806,7 +23806,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "dynotag-smart-id-qr-tag",
-    imageUrl: "https://m.media-amazon.com/images/I/71tz8tRJkRL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61+6dqwkU8L._AC_SS450_.jpg",
     priceMin: "$9",
     priceMax: "$18",
     category: "pets",
@@ -23820,7 +23820,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "quickdraw-tag-shop-tag",
-    imageUrl: "https://m.media-amazon.com/images/I/61mfOFjBHWL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71g03jqAGEL._AC_.jpg",
     priceMin: "$6",
     priceMax: "$11",
     category: "pets",
@@ -23834,7 +23834,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "silenttags-flat-id-tag",
-    imageUrl: "https://m.media-amazon.com/images/I/71VQG-3JUJL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71ZJRCbkQTL._AC_SL1500_.jpg",
     priceMin: "$14",
     priceMax: "$22",
     category: "pets",
@@ -23863,7 +23863,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "philips-sonicare-kids-bluetooth",
-    imageUrl: "https://m.media-amazon.com/images/I/71OxZHf8L8L._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71kqmtaJ+jL._SL1500_.jpg",
     priceMin: "$45",
     priceMax: "$65",
     category: "parenting",
@@ -23877,7 +23877,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "brusheez-kids-electric-set",
-    imageUrl: "https://m.media-amazon.com/images/I/81pHkCCz3EL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81bZPHXe7kL._AC_SL1500_.jpg",
     priceMin: "$18",
     priceMax: "$28",
     category: "parenting",
@@ -23891,7 +23891,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "frida-baby-smilefrida-toothbrush",
-    imageUrl: "https://m.media-amazon.com/images/I/71UXOiCaAkL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61T-QQmyiSL._SL1100_.jpg",
     priceMin: "$7",
     priceMax: "$12",
     category: "parenting",
@@ -23905,7 +23905,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "colgate-kids-manual-batman",
-    imageUrl: "https://m.media-amazon.com/images/I/71dVpBJQaXL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/511ASNHrqSL._SX300_SY300_QL70_ML2_.jpg",
     priceMin: "$5",
     priceMax: "$9",
     category: "parenting",
@@ -23920,7 +23920,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Fashion / Pearl Earrings (best-pearl-earrings-2026) ─────────
   {
     id: "mikimoto-akoya-classic-studs",
-    imageUrl: "https://m.media-amazon.com/images/I/61QGbj0xPVL._AC_SL1500_.jpg",
+    imageUrl: "https://content.thewosgroup.com/productimage/37400903/37400903_1.jpg",
     priceMin: "$430",
     priceMax: "$650",
     category: "fashion",
@@ -23955,7 +23955,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "tiffany-signature-pearl-studs",
-    imageUrl: "https://m.media-amazon.com/images/I/61wKNpaCT8L._AC_SL1500_.jpg",
+    imageUrl: "https://media.tiffany.com/is/image/tco/60126527_ER_MAIN1X1?hei=1256&wid=1256&fmt=webp&op_usm=1,2,6",
     priceMin: "$250",
     priceMax: "$450",
     category: "fashion",
@@ -23990,7 +23990,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "mejuri-pearl-stud-trio",
-    imageUrl: "https://m.media-amazon.com/images/I/61UdRFWo6yL._AC_SL1500_.jpg",
+    imageUrl: "https://stylecaster.com/wp-content/uploads/2022/01/mejuri-pearl-jewelry-pearl-contrast-climber-studs.png",
     priceMin: "$98",
     priceMax: "$148",
     category: "fashion",
@@ -24025,7 +24025,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "kojima-akoya-hanadama-studs",
-    imageUrl: "https://m.media-amazon.com/images/I/61B4tJfP0wL._AC_SL1500_.jpg",
+    imageUrl: "https://www.thepearlsource.com/images/catalog/800x800/akstuds-w-8085-h.jpg",
     priceMin: "$680",
     priceMax: "$950",
     category: "fashion",
@@ -24061,7 +24061,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ── Best Prepaid Debit Card 2026 ─────────────────────────────────────────────
   {
     id: "bluebird-amex-prepaid",
-    imageUrl: "https://m.media-amazon.com/images/I/61wqCqEJoXL._AC_SL1500_.jpg",
+    imageUrl: "https://d187qskirji7ti.cloudfront.net/news/wp-content/uploads/2020/01/amex-bluebird-card.jpg",
     priceMin: "$0/mo",
     priceMax: "$0/mo",
     category: "finance",
@@ -24095,7 +24095,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "netspend-all-access-prepaid",
-    imageUrl: "https://m.media-amazon.com/images/I/61u2qd5rKqL._AC_SL1500_.jpg",
+    imageUrl: "https://i.ytimg.com/vi/Eyq_IbtivGk/maxresdefault.jpg",
     priceMin: "$0/mo",
     priceMax: "$9.95/mo",
     category: "finance",
@@ -24129,7 +24129,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "walmart-moneycard-prepaid",
-    imageUrl: "https://m.media-amazon.com/images/I/71lj6H9xL7L._AC_SL1500_.jpg",
+    imageUrl: "https://i.ytimg.com/vi/VaaX7VlfFKk/maxresdefault.jpg",
     priceMin: "$0/mo",
     priceMax: "$5.94/mo",
     category: "finance",
@@ -24163,7 +24163,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "paypal-prepaid-mastercard",
-    imageUrl: "https://m.media-amazon.com/images/I/51y6tMU4fDL._AC_SL1500_.jpg",
+    imageUrl: "https://i.ytimg.com/vi/BiYsWdxyYQA/maxresdefault.jpg",
     priceMin: "$4.95/mo",
     priceMax: "$4.95/mo",
     category: "finance",
@@ -24197,7 +24197,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "greenlight-kids-prepaid",
-    imageUrl: "https://m.media-amazon.com/images/I/71Tsy5pEFpL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61xjCbdIlRL._AC_SL1000_.jpg",
     priceMin: "$5.99/mo",
     priceMax: "$14.98/mo",
     category: "finance",
@@ -24232,7 +24232,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
 
     {
     id: "blue-nile-freshwater-pearl-studs",
-    imageUrl: "https://m.media-amazon.com/images/I/61p1xZb0rvL._AC_SL1500_.jpg",
+    imageUrl: "https://www.highsnobiety.com/static-assets/dato/1748336430-blue-nile-freshwater-cultured-pearl-stud-earrings-in-14k-white-gold-0.jpg",
     priceMin: "$85",
     priceMax: "$130",
     category: "fashion",
@@ -24269,7 +24269,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ── Best Men's Watch 2026 ─────────────────────────────────────────────────
   {
     id: "seiko-skx007",
-    imageUrl: "https://m.media-amazon.com/images/I/71Y5JH9BYEL._AC_SL1200_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71E4ujpcYiL._AC_SL1500_.jpg",
     priceMin: "$280",
     priceMax: "$450",
     category: "fashion",
@@ -24304,7 +24304,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "rolex-submariner-no-date",
-    imageUrl: "https://content.rolex.com/dam/watches/submariner/family/m124060-0001/product/1.jpg",
+    imageUrl: "https://images.squarespace-cdn.com/content/v1/59ed5acbd7bdce7cce158518/1677462501439-T0HS3BLTQWXU3XJ0JZZD/Rolex+Submariner+No+Date+41mm+124060+-+2022+Watch+Vault+01.JPG",
     priceMin: "$9,200",
     priceMax: "$14,000",
     category: "fashion",
@@ -24338,7 +24338,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "tissot-prx-powermatic-80",
-    imageUrl: "https://m.media-amazon.com/images/I/71pQQrQFJFL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81WIRCdI8HL._AC_SL1500_.jpg",
     priceMin: "$695",
     priceMax: "$895",
     category: "fashion",
@@ -24374,7 +24374,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "casio-g-shock-ga2100",
-    imageUrl: "https://m.media-amazon.com/images/I/71b88xV-w7L._AC_SL1000_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61kr6ZS-i0L.jpg",
     priceMin: "$99",
     priceMax: "$120",
     category: "fashion",
@@ -24412,7 +24412,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Travel / Noise-Cancelling Earbuds (best-noise-cancelling-earbuds-travel-2026) ─────────
   {
     id: "sony-wf-1000xm5",
-    imageUrl: "https://m.media-amazon.com/images/I/51yQoHYuBRL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81RZMfw6UdL._AC_SL1500_.jpg",
     priceMin: "$229",
     priceMax: "$279",
     category: "travel",
@@ -24446,7 +24446,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "bose-quietcomfort-earbuds-ii",
-    imageUrl: "https://m.media-amazon.com/images/I/41WjFaVcQWL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61yaB5zlMFL._AC_SL1500_.jpg",
     priceMin: "$199",
     priceMax: "$279",
     category: "travel",
@@ -24463,7 +24463,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "samsung-galaxy-buds-3-pro",
-    imageUrl: "https://m.media-amazon.com/images/I/61P6VuSFkML._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61Mv3cWzZeL._AC_SL1500_.jpg",
     priceMin: "$199",
     priceMax: "$249",
     category: "travel",
@@ -24480,7 +24480,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "anker-soundcore-liberty-4-nc",
-    imageUrl: "https://m.media-amazon.com/images/I/61TgWTNfngL._AC_SL1500_.jpg",
+    imageUrl: "https://powermaccenter.com/cdn/shop/files/ANKERSOUNDCORELIBERTY4NC.jpg?v=1709781552&width=1445",
     priceMin: "$79",
     priceMax: "$99",
     category: "travel",
@@ -24499,7 +24499,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Pets / Pet Vacuums (best-pet-vacuum-2026) ─────────
   {
     id: "dyson-v15-detect",
-    imageUrl: "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/images/products/feature/446300-01.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61zH8pFvrFL._AC_SL1500_.jpg",
     priceMin: "$649",
     priceMax: "$849",
     category: "pets",
@@ -24567,7 +24567,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "bissell-pet-hair-eraser-2087",
-    imageUrl: "https://m.media-amazon.com/images/I/71G5KZmJMcL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9f5efd98-051f-425b-a88c-469cf72e6f52.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     priceMin: "$99",
     priceMax: "$139",
     category: "pets",
@@ -24601,7 +24601,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "neabot-p1-pro",
-    imageUrl: "https://m.media-amazon.com/images/I/71AumNhgz7L._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71OTUFHwEtL.jpg",
     priceMin: "$199",
     priceMax: "$279",
     category: "pets",
@@ -24637,7 +24637,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Finance / High-Yield Savings Accounts (best-savings-account-2026) ─────────
   {
     id: "ally-bank-savings",
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ally_Financial_logo.svg/320px-Ally_Financial_logo.svg.png",
+    imageUrl: "https://images-cdn.ispot.tv/ad/14kP/default-large.jpg",
     priceMin: "$0/mo",
     priceMax: "$0/mo",
     category: "finance",
@@ -24650,7 +24650,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "marcus-by-goldman-savings",
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Goldman_Sachs.svg/320px-Goldman_Sachs.svg.png",
+    imageUrl: "https://i.ytimg.com/vi/yEJONK8MuYg/maxresdefault.jpg",
     priceMin: "$0/mo",
     priceMax: "$0/mo",
     category: "finance",
@@ -24663,7 +24663,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "wealthfront-cash-account",
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Wealthfront_logo.svg/320px-Wealthfront_logo.svg.png",
+    imageUrl: "https://i.ytimg.com/vi/7oLdN3HPef8/maxresdefault.jpg",
     priceMin: "$1 min",
     priceMax: "$1 min",
     category: "finance",
@@ -24676,7 +24676,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "synchrony-bank-hys",
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Synchrony_Financial_logo.svg/320px-Synchrony_Financial_logo.svg.png",
+    imageUrl: "https://joinpd.io/wp-content/uploads/2024/12/synchrony-bank-amazon.png",
     priceMin: "$0/mo",
     priceMax: "$0/mo",
     category: "finance",
@@ -24689,7 +24689,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "capital-one-360-performance-savings",
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Capital_One_logo.svg/320px-Capital_One_logo.svg.png",
+    imageUrl: "https://i.ytimg.com/vi/gFZEEMQYSws/maxresdefault.jpg",
     priceMin: "$0/mo",
     priceMax: "$0/mo",
     category: "finance",
@@ -24769,7 +24769,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Fashion / Quartz Watches (best-quartz-watch-2026) ─────────
   {
     id: "seiko-5-sports-quartz",
-    imageUrl: "https://m.media-amazon.com/images/I/71fVaH8GRqL._AC_SL1500_.jpg",
+    imageUrl: "https://www.seikocolombia.com/wp-content/uploads/2024/11/SSK035K1.png",
     priceMin: "$150",
     priceMax: "$220",
     category: "fashion",
@@ -24805,7 +24805,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "citizen-eco-drive-corso",
-    imageUrl: "https://m.media-amazon.com/images/I/71g2VnMO7hL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81KFIl9KnGL._AC_SL1500_.jpg",
     priceMin: "$195",
     priceMax: "$295",
     category: "fashion",
@@ -24841,7 +24841,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "casio-edifice-efr-303d",
-    imageUrl: "https://m.media-amazon.com/images/I/81AQ7sJmpML._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/91sJo5siBEL._SL1500_.jpg",
     priceMin: "$80",
     priceMax: "$140",
     category: "fashion",
@@ -24877,7 +24877,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "tissot-prx-quartz-35mm",
-    imageUrl: "https://m.media-amazon.com/images/I/71Hq2P4SJWL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81BYQ3T0pqL._AC_SL1500_.jpg",
     priceMin: "$325",
     priceMax: "$425",
     category: "fashion",
@@ -24913,7 +24913,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "swatch-once-again-gent",
-    imageUrl: "https://m.media-amazon.com/images/I/51HZJhMp8CL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/615fLC1zLXL._AC_SL1280_.jpg",
     priceMin: "$65",
     priceMax: "$80",
     category: "fashion",
@@ -24950,7 +24950,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ── Statement Handbags 2026 ──────────────────────────────────────────────
   {
     id: "bottega-veneta-padded-cassette",
-    imageUrl: "https://images.bottegaveneta.com/is/image/BottegaVeneta/741777VCPP54742-1",
+    imageUrl: "http://www.luxedh.com/cdn/shop/files/Bottega-Veneta-Padded-Cassette_228209_front_0_parent.jpg?v=1738891667&width=2048",
     priceMin: "$3,650",
     priceMax: "$4,500",
     category: "fashion",
@@ -24966,7 +24966,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "loewe-puzzle-bag",
-    imageUrl: "https://cdn.loewe.com/img/bags/puzzle-bag-small/puzzle-bag-small-black.jpg",
+    imageUrl: "https://www.loewe.com/dw/image/v2/BBPC_PRD/on/demandware.static/-/Sites-Loewe_master/default/dw936c14e7/images_rd/A510S21XAY/A510S21XAY-2906/A510S21XAY_2906_1W.jpg?sw=750&q=100",
     priceMin: "$3,150",
     priceMax: "$4,200",
     category: "fashion",
@@ -24982,7 +24982,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "polene-numero-un-mini",
-    imageUrl: "https://en.polene-paris.com/cdn/shop/files/numero-un-mini-taupe-grained.jpg",
+    imageUrl: "https://media.karousell.com/media/photos/products/2022/10/17/polene_numero_un_mini_1666005099_7dd0dafb_progressive.jpg",
     priceMin: "$390",
     priceMax: "$490",
     category: "fashion",
@@ -24998,7 +24998,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "telfar-shopping-bag",
-    imageUrl: "https://telfar.net/cdn/shop/products/telfar-shopping-bag-medium-white.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61QO+Vre3TL._AC_SL1500_.jpg",
     priceMin: "$150",
     priceMax: "$257",
     category: "fashion",
@@ -25014,7 +25014,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "jw-pei-gabbi-bag",
-    imageUrl: "https://us.jwpei.com/cdn/shop/products/gabbi-ruched-hobo-bag-white.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/610dCrh9gFL.jpg",
     priceMin: "$69",
     priceMax: "$99",
     category: "fashion",
@@ -25032,7 +25032,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Travel / Binoculars (best-travel-binoculars-2026) ─────────
   {
     id: "nikon-monarch-7-8x42",
-    imageUrl: "https://m.media-amazon.com/images/I/71VvQhWKKrL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71PXPEh9lSL._AC_SL1000_.jpg",
     priceMin: "$449",
     priceMax: "$549",
     category: "travel",
@@ -25049,7 +25049,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "vortex-diamondback-hd-8x42",
-    imageUrl: "https://m.media-amazon.com/images/I/71Q3wHNi2bL._AC_SL1500_.jpg",
+    imageUrl: "https://cdn.mysagestore.com/48547e8e0481f084b129b3e7ea98edaa/contents/VT-DB-214/vt-db-214.jpg",
     priceMin: "$199",
     priceMax: "$249",
     category: "travel",
@@ -25066,7 +25066,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "celestron-nature-dx-8x42",
-    imageUrl: "https://m.media-amazon.com/images/I/81Lg1WCNiyL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61ylHW5sTfL._AC_.jpg",
     priceMin: "$129",
     priceMax: "$159",
     category: "travel",
@@ -25083,7 +25083,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "occer-12x25-compact",
-    imageUrl: "https://m.media-amazon.com/images/I/71MiCdY7sEL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71ni6tWpQ0L._AC_SL1500_.jpg",
     priceMin: "$29",
     priceMax: "$49",
     category: "travel",
@@ -25100,7 +25100,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "swarovski-cl-pocket-8x25",
-    imageUrl: "https://m.media-amazon.com/images/I/71pKh4KDANL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71ge7MolAgL._AC_SL1200_.jpg",
     priceMin: "$949",
     priceMax: "$1199",
     category: "travel",
@@ -25119,7 +25119,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Fashion / Silk Pajamas (best-silk-pajamas-2026) ─────────
   {
     id: "lunya-washable-silk-set",
-    imageUrl: "https://m.media-amazon.com/images/I/61ZyRK2qWkL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/lunya/lunya300001f141/lunya300001f141_1661204165915_2-0._QL90_UX564_.jpg",
     priceMin: "$298",
     priceMax: "$368",
     category: "fashion",
@@ -25132,7 +25132,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "olivia-von-halle-coco-pj",
-    imageUrl: "https://m.media-amazon.com/images/I/71RXf3BVZAL._AC_SL1500_.jpg",
+    imageUrl: "https://zemalingerie.com/cdn/shop/files/olivia-von-halle-coco-jet-black-silk-pajama-front.jpg?v=1766154343",
     priceMin: "$695",
     priceMax: "$895",
     category: "fashion",
@@ -25145,7 +25145,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "lilysilk-classic-silk-pj",
-    imageUrl: "https://m.media-amazon.com/images/I/71f2FtxKgGL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f2c98613-6f61-45f4-961a-276806917add.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
     priceMin: "$129",
     priceMax: "$179",
     category: "fashion",
@@ -25158,7 +25158,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "papinelle-washable-silk-pj",
-    imageUrl: "https://m.media-amazon.com/images/I/71uLi6K3XFL._AC_SL1500_.jpg",
+    imageUrl: "http://papinelle.us/cdn/shop/files/6057-14_AudreyPureSilkFullLengthPJ_Slate_0001.jpg?v=1716945100",
     priceMin: "$189",
     priceMax: "$249",
     category: "fashion",
@@ -25171,7 +25171,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "fishers-finery-100-mulberry",
-    imageUrl: "https://m.media-amazon.com/images/I/71bVIc8KGKL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/719APKNRL2L._AC_SL1500_.jpg",
     priceMin: "$99",
     priceMax: "$139",
     category: "fashion",
@@ -25184,7 +25184,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "bagsmart-hanging-toiletry-bag",
-    imageUrl: "https://m.media-amazon.com/images/I/81Q7xYZhWdL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71H12h0kn4L._AC_SL1500_.jpg",
     priceMin: "$25",
     priceMax: "$35",
     category: "travel",
@@ -25197,7 +25197,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "lay-n-go-cosmo-makeup-bag",
-    imageUrl: "https://m.media-amazon.com/images/I/71kRkQhiWpL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81UbLRl-q-L._AC_SL1500_.jpg",
     priceMin: "$30",
     priceMax: "$45",
     category: "travel",
@@ -25210,7 +25210,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "beautyspy-travel-makeup-bag",
-    imageUrl: "https://m.media-amazon.com/images/I/71l2GcK8rHL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/714n4Xk2FTL._AC_SX679_.jpg",
     priceMin: "$40",
     priceMax: "$55",
     category: "travel",
@@ -25223,7 +25223,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "ellis-james-designs-toiletries",
-    imageUrl: "https://m.media-amazon.com/images/I/81cBJTi9lKL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71XLwp7ADSL._AC_SL1500_.jpg",
     priceMin: "$50",
     priceMax: "$70",
     category: "travel",
@@ -25236,7 +25236,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "narwey-large-makeup-pouch",
-    imageUrl: "https://m.media-amazon.com/images/I/71SB0X7IwTL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71GBlMUATfL.jpg",
     priceMin: "$12",
     priceMax: "$18",
     category: "travel",
@@ -25250,7 +25250,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Parenting / Toddler Beds (best-toddler-bed-2026) ─────────
   {
     id: "delta-children-canopy-toddler",
-    imageUrl: "https://m.media-amazon.com/images/I/71v0hk8aatL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81hawQHWNKL._SL1500_.jpg",
     priceMin: "$80",
     priceMax: "$110",
     category: "parenting",
@@ -25264,7 +25264,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "dream-on-me-classic-toddler",
-    imageUrl: "https://m.media-amazon.com/images/I/71bB5V4xjML._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71lvXIBRizL._AC_SL1500_.jpg",
     priceMin: "$60",
     priceMax: "$90",
     category: "parenting",
@@ -25278,7 +25278,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "kidkraft-modern-toddler-bed",
-    imageUrl: "https://m.media-amazon.com/images/I/71lW7+szMPL._AC_SL1500_.jpg",
+    imageUrl: "https://www.tlbox.com/wp-content/uploads/2018/11/KidKraft-Modern-Toddler-Bed.jpg",
     priceMin: "$90",
     priceMax: "$130",
     category: "parenting",
@@ -25292,7 +25292,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "ikea-sundvik-toddler-bed",
-    imageUrl: "https://www.ikea.com/us/en/images/products/sundvik-ext-bed-frame-with-slatted-base-white__1121093_pe876093_s5.jpg",
+    imageUrl: "https://www.ikea.com/nl/nl/images/products/sundvik-babybedje-wit__0874827_pe611988_s5.jpg?f=g",
     priceMin: "$129",
     priceMax: "$179",
     category: "parenting",
@@ -25306,7 +25306,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "babyletto-modo-mini-toddler",
-    imageUrl: "https://babyletto.com/cdn/shop/products/GT0811_babyletto_Modo_Toddler_Bed.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71BwjH5MflL._AC_UL140_SR140,140_.jpg",
     priceMin: "$199",
     priceMax: "$249",
     category: "parenting",
@@ -25321,7 +25321,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Travel / Travel Power Strips (best-travel-power-strip-2026) ─────────
   {
     id: "belkin-mini-surge-3outlet",
-    imageUrl: "https://m.media-amazon.com/images/I/71kRaTkfG7L._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/41E03BOjZiL._AC_.jpg",
     priceMin: "$20",
     priceMax: "$28",
     category: "travel",
@@ -25335,7 +25335,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "anker-321-power-strip",
-    imageUrl: "https://m.media-amazon.com/images/I/61rCCZnCH4L._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/614qdgaj21L.jpg",
     priceMin: "$30",
     priceMax: "$40",
     category: "travel",
@@ -25349,7 +25349,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "addtam-flat-plug-strip",
-    imageUrl: "https://m.media-amazon.com/images/I/71Dj-2gX6oL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/51C3DTxRf3L._AC_SL1500_.jpg",
     priceMin: "$16",
     priceMax: "$22",
     category: "travel",
@@ -25363,7 +25363,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "monster-mini-powercenter-travel",
-    imageUrl: "https://m.media-amazon.com/images/I/71L7wR2sTBL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61FdRvMfTbL._AC_.jpg",
     priceMin: "$18",
     priceMax: "$26",
     category: "travel",
@@ -25377,7 +25377,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "ntonpower-international-strip",
-    imageUrl: "https://m.media-amazon.com/images/I/71yLX6mR8AL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/610uHf7ZocL._AC_SL1500_.jpg",
     priceMin: "$30",
     priceMax: "$42",
     category: "travel",
@@ -25393,7 +25393,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Travel / Travel Blankets (best-travel-blanket-2026) ─────────
   {
     id: "rumpl-original-puffy-blanket",
-    imageUrl: "https://m.media-amazon.com/images/I/71w4t0IOCLL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71qET+6fHsL._AC_SL1500_.jpg",
     priceMin: "$99",
     priceMax: "$129",
     category: "travel",
@@ -25407,7 +25407,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "cabeau-fold-n-go-blanket",
-    imageUrl: "https://m.media-amazon.com/images/I/71VzW7JMKZL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71q70vxts7L._AC_SL1500_.jpg",
     priceMin: "$39",
     priceMax: "$55",
     category: "travel",
@@ -25421,7 +25421,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "bearz-outdoor-travel-blanket",
-    imageUrl: "https://m.media-amazon.com/images/I/71s0q9GfZvL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/912FBbnkZbS._AC_SL1500_.jpg",
     priceMin: "$25",
     priceMax: "$35",
     category: "travel",
@@ -25435,7 +25435,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "cocoon-coolmax-travel-blanket",
-    imageUrl: "https://m.media-amazon.com/images/I/61Gy4Kl7MwL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71aOzcVmdNL._AC_SL1500_.jpg",
     priceMin: "$45",
     priceMax: "$60",
     category: "travel",
@@ -25449,7 +25449,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "marmot-trestles-elite-throw",
-    imageUrl: "https://m.media-amazon.com/images/I/61FnLM7OKOL._AC_SL1500_.jpg",
+    imageUrl: "https://media-www.sportchek.ca/product/div-01-hardgoods/dpt-36-camping/sdpt-12-sleeping-bags/334503962/marmot-trestles-elite-eco-30f-1c-lng-s25-f7f02f54-be3e-4ee2-bc0c-e838ab3ca5ee-jpgrendition.jpg?imdensity=1&imwidth=640&impolicy=gZoom",
     priceMin: "$80",
     priceMax: "$110",
     category: "travel",

@@ -139,13 +139,27 @@ interface OfferEntry { id: string; name: string; category: string }
 
 function parseEmptyOffers(content: string): OfferEntry[] {
   const offers: OfferEntry[] = [];
+
+  // ── Pass 1: single-line entries  { id: "...", ..., imageUrl: "", ... }
+  const singleLineRe = /\{[^{}]*\bid:\s*"([^"]+)"[^{}]*\bcategory:\s*"([^"]+)"[^{}]*imageUrl:\s*""[^{}]*\}/g;
+  let m: RegExpExecArray | null;
+  const seenSingle = new Set<string>();
+  while ((m = singleLineRe.exec(content)) !== null) {
+    const id = m[1];
+    const category = m[2];
+    const nameM = m[0].match(/"en":\s*"([^"]+)"/);
+    const name = nameM ? nameM[1] : id;
+    offers.push({ id, name, category });
+    seenSingle.add(id);
+  }
+
+  // ── Pass 2: multi-line entries (line-by-line state machine)
   const lines = content.split("\n");
   let id: string | null = null;
   let name: string | null = null;
   let category: string | null = null;
 
   for (const line of lines) {
-    // Match both quoted ("id": "...") and unquoted (id: "...") key styles
     const idMatch = line.match(/(?:"id"|id):\s*"([^"]+)"/);
     if (idMatch) { id = idMatch[1]; name = null; category = null; }
 
@@ -158,8 +172,7 @@ function parseEmptyOffers(content: string): OfferEntry[] {
       if (catMatch) category = catMatch[1];
     }
 
-    // Match both "imageUrl": "" and imageUrl: "",
-    if (id && /(?:"imageUrl"|imageUrl):\s*""/.test(line)) {
+    if (id && !seenSingle.has(id) && /(?:"imageUrl"|imageUrl):\s*""/.test(line)) {
       offers.push({ id, name: name ?? id, category: category ?? "" });
       id = null; name = null; category = null;
     }
@@ -168,14 +181,18 @@ function parseEmptyOffers(content: string): OfferEntry[] {
 }
 
 function applyImageUrl(content: string, id: string, imageUrl: string): string {
-  // Try quoted key format first ("id": "...", "imageUrl": "")
-  const before1 = `"id": "${id}",\n    "imageUrl": ""`;
-  const after1  = `"id": "${id}",\n    "imageUrl": "${imageUrl}"`;
-  if (content.includes(before1)) return content.replace(before1, () => after1);
-  // Try unquoted key format (id: "...", \n    imageUrl: "")
-  const before2 = `id: "${id}",\n    imageUrl: ""`;
-  const after2  = `id: "${id}",\n    imageUrl: "${imageUrl}"`;
-  return content.includes(before2) ? content.replace(before2, () => after2) : content;
+  const esc = imageUrl.replace(/\$/g, "$$$$");
+  // 1. Quoted multi-line: "id": "...",\n    "imageUrl": ""
+  const b1 = `"id": "${id}",\n    "imageUrl": ""`;
+  if (content.includes(b1)) return content.replace(b1, `"id": "${id}",\n    "imageUrl": "${esc}"`);
+  // 2. Unquoted multi-line: id: "...",\n    imageUrl: ""
+  const b2 = `id: "${id}",\n    imageUrl: ""`;
+  if (content.includes(b2)) return content.replace(b2, `id: "${id}",\n    imageUrl: "${esc}",`);
+  // 3. Single-line: id: "...", ..., imageUrl: "", ...
+  return content.replace(
+    new RegExp(`(\\bid:\\s*"${id.replace(/[-]/g, "\\-")}",(?:[^{}]*?))imageUrl:\\s*""`),
+    `$1imageUrl: "${esc}"`
+  );
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────

@@ -2532,7 +2532,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "creatine-klean-athlete-nsf",
-    "imageUrl": "https://www.vitacost.com/Images/Products/1000/Klean-Athlete/Klean-Athlete-Creatine-NSF-Certified-for-Sport-310539977552.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71vWgvdPCKL._AC_SX569_.jpg",
     "priceMin": "38",
     "priceMax": "58",
     "category": "food",
@@ -6565,7 +6565,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "lip-balm-fresh-sugar",
-    "imageUrl": "https://www.fresh.com/dw/image/v2/BDJQ_PRD/on/demandware.static/-/Sites-fresh_master_catalog/default/dw485dfba5/product_images/H00006232_main_pdp.jpg?sw=1350&sh=900&bgcolor=F7F7F8&sfrm=jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/714lRcbkWeL._AC_.jpg",
     "priceMin": "¥3,850",
     "priceMax": "¥4,510",
     "category": "beauty",
@@ -7241,7 +7241,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "monitor-iiyama-g-master-jp",
-    "imageUrl": "https://www.game.co.uk/images/imgzoom/70/70248969_xxl.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71CxwGtcu7L._AC_SL1500_.jpg",
     "priceMin": "35000",
     "priceMax": "55000",
     "category": "tech",
@@ -8255,7 +8255,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "packing-cubes-osprey-ultralight",
-    "imageUrl": "https://i.stpost.com/osprey-ultralight-packing-cube-set-3-piece-lunar-grey-in-lunar-grey~p~2dfum_01~1500.2.jpg",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81TNY7qB9tL._AC_SL1500_.jpg",
     "priceMin": "45",
     "priceMax": "55",
     "category": "travel",
@@ -8463,7 +8463,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "perfume-chanel-chance-eau-tendre",
-    "imageUrl": "https://www.chanel.com/images/t_one/t_fragrance/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_1920/chance-eau-tendre-eau-de-parfum-spray-5fl-oz--packshot-default-126270-8820439089182.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Hot9PUzLS._SL1200_.jpg",
     "priceMin": "¥10,230",
     "priceMax": "¥20,130",
     "category": "beauty",
@@ -8541,7 +8541,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "perfume-jo-malone-peony",
-    "imageUrl": "https://www.jomalone.co.uk/media/export/cms/products/1000x1000/jo_sku_L3AF01_1000x1000_2.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/5165fFb4iSL._AC_.jpg",
     "priceMin": "¥8,250",
     "priceMax": "¥24,200",
     "category": "beauty",
@@ -9945,7 +9945,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sheet-mask-sk-ii-facial-treatment",
-    "imageUrl": "https://www.sephora.com/productimages/sku/s2765360-main-zoom.jpg?imwidth=630",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Tg7lgSBWL._SL1500_.jpg",
     "priceMin": "¥3,500",
     "priceMax": "¥4,200",
     "category": "beauty",
@@ -10283,7 +10283,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ski-goggles-oakley-flight-deck",
-    "imageUrl": "https://assets2.oakley.com/cdn-record-files-pi/681d8d58-54c0-4927-902f-b21a00d48ea0/f5f732e0-c28c-40b2-b6ac-b28a00e9efeb/0OO7139__713901_030A.png?impolicy=OO_ratio&width=3000",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Q-Oxn5bSL._AC_SL1500_.jpg",
     "priceMin": "175",
     "priceMax": "200",
     "category": "fitness",
@@ -31058,7 +31058,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "asos-design-cowl-mini-dress",
-    "imageUrl": "https://images.asos-media.com/products/asos-design-cowl-neck-backless-satin-mini-dress-in-brown/208913484-1-brown?$n_640w$&wid=513&fit=constrain",
+    "imageUrl": "https://images.asos-media.com/products/asos-design-cowl-bandeau-fringed-mini-dress-in-gold/200859486-1-gold?$n_640w$&wid=513&fit=constrain",
     "priceMin": "$50",
     "priceMax": "$75",
     "category": "fashion",
@@ -33086,7 +33086,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "colgate-kids-manual-batman",
-    "imageUrl": "https://jumra.co.ke/wp-content/uploads/2023/01/Colgate-Kids-Batman-6-Years-Manual-Toothbrush-1-unit.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/511ASNHrqSL._SX300_SY300_QL70_ML2_.jpg",
     "priceMin": "$5",
     "priceMax": "$8",
     "category": "parenting",
@@ -39619,7 +39619,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "maybelline-brow-ultra-slim",
-    "imageUrl": "https://www.bigw.com.au/medias/sys_master/images/images/h5b/h7e/14100810989598.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61xWOFNVBoL._AC_SL1500_.jpg",
     "priceMin": "10",
     "priceMax": "10",
     "category": "beauty",
@@ -39966,7 +39966,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "olaplex-no7-bonding-oil",
-    "imageUrl": "https://www.hair-shop.com/en/media/catalog/product/cache/4/image/1400x1400/9df78eab33525d08d6e5fb8d27136e95/o/l/olaplex-no-7-bonding-oil-30ml.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71yAldlT+WL._SL1500_.jpg",
     "category": "beauty",
     "badge": "🔧 Best for Damaged Hair",
     "name": {
@@ -40274,7 +40274,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "mac-fix-plus",
-    "imageUrl": "https://www.maccosmetics.com/media/export/cms/collections/fix_plus_fy21/site_assets/fix_plus_640x640.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61MYbxJ2M9L._SL1500_.jpg",
     "category": "beauty",
     "badge": "✨ Best for Dry Skin",
     "name": {
@@ -40340,7 +40340,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "morphe-continuous-setting-mist",
-    "imageUrl": "https://www.sephora.com/productimages/sku/s2143113-main-zoom.jpg?imwidth=630",
+    "imageUrl": "https://m.media-amazon.com/images/I/310YgW8eO9L._SY300_SX300_QL70_ML2_.jpg",
     "category": "beauty",
     "badge": "🌀 Best Application Format",
     "name": {
