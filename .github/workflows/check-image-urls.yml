@@ -1,69 +1,104 @@
-name: Check Image URLs
+name: Check & Fix Image URLs
 
 on:
   schedule:
-    # 毎日 09:00 JST (00:00 UTC)
-    - cron: "0 0 * * *"
+    # 毎週月曜 09:00 JST (00:00 UTC) — 日次は不要、週1で十分
+    - cron: "0 0 * * 1"
   workflow_dispatch: {}
 
 jobs:
-  check:
+  fix:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # commit & push
+      issues: write     # create issue if residual failures remain
+
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
           cache: "npm"
-          cache-dependency-path: automation/package-lock.json
+          cache-dependency-path: site/package-lock.json
 
-      - name: Install deps
+      - name: Install site deps
         run: npm ci
-        working-directory: automation
+        working-directory: site
 
-      - name: Check image URLs
+      - name: Check & reset broken imageUrls
         id: check
-        run: npx tsx check-image-urls.ts 2>&1 | tee /tmp/image-check-report.txt
-        working-directory: automation
-        continue-on-error: true
+        run: |
+          npx tsx scripts/check-and-fix-images.ts 2>&1 | tee /tmp/check-report.txt
+          BROKEN=$(grep -oP '(?<=✗ broken: )\d+' /tmp/check-report.txt | paste -sd+ | bc || echo 0)
+          echo "broken=$BROKEN" >> $GITHUB_OUTPUT
+        working-directory: site
 
-      - name: Create issue if broken URLs found
-        if: steps.check.outcome == 'failure'
+      - name: Re-fetch broken images via DDG
+        if: steps.check.outputs.broken != '0'
+        run: npx tsx scripts/fetch-product-images.ts 2>&1 | tee /tmp/fetch-report.txt
+        working-directory: site
+
+      - name: Commit fixed images
+        if: steps.check.outputs.broken != '0'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/src/lib/affiliates/catalog.ts \
+                  site/src/lib/affiliates/catalog-additions.ts \
+                  site/src/lib/affiliates/catalog-additions-basketball.ts
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            FIXED=$(grep -oP '(?<=✓ Success : )\d+' /tmp/fetch-report.txt | paste -sd+ | bc || echo 0)
+            git commit -m "fix: auto-replace ${FIXED} broken product images [skip ci]"
+            git push
+          fi
+
+      - name: Create issue for residual failures
+        if: always()
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
-            const report = fs.readFileSync('/tmp/image-check-report.txt', 'utf8');
-            const today = new Date().toISOString().slice(0, 10);
-            const title = `[Image URL] Broken product images detected — ${today}`;
+            const checkReport = fs.existsSync('/tmp/check-report.txt')
+              ? fs.readFileSync('/tmp/check-report.txt', 'utf8') : '';
+            const fetchReport = fs.existsSync('/tmp/fetch-report.txt')
+              ? fs.readFileSync('/tmp-fetch-report.txt', 'utf8') : '';
 
-            // Close existing open issues with same title prefix
+            // Count residual failures
+            const failMatch = fetchReport.match(/✗ Failed\s*:\s*(\d+)/);
+            const residual = failMatch ? parseInt(failMatch[1], 10) : 0;
+            if (residual === 0) { console.log('No residual failures.'); return; }
+
+            const today = new Date().toISOString().slice(0, 10);
+            const title = `[Image URL] ${residual} images could not be auto-fixed — ${today}`;
+
+            // Close existing open issues
             const existing = await github.rest.issues.listForRepo({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              state: 'open',
-              labels: 'image-url-broken',
+              owner: context.repo.owner, repo: context.repo.repo,
+              state: 'open', labels: 'image-url-broken',
             });
             for (const issue of existing.data) {
               if (issue.title.startsWith('[Image URL]')) {
                 await github.rest.issues.update({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
-                  issue_number: issue.number,
-                  state: 'closed',
+                  owner: context.repo.owner, repo: context.repo.repo,
+                  issue_number: issue.number, state: 'closed',
                 });
               }
             }
 
             await github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
+              owner: context.repo.owner, repo: context.repo.repo,
               title,
-              body: `## Broken product image URLs\n\nDetected by daily check on ${today}.\n\n\`\`\`\n${report}\n\`\`\`\n\nFix: update \`imageUrl\` for affected entries in \`site/src/lib/affiliates/catalog.ts\`, then rebuild and redeploy.`,
+              body: `## ${residual} product images could not be auto-fixed\n\nDate: ${today}\n\nDDG search returned no usable URL. Manual update needed in catalog files.\n\n### Check report\n\`\`\`\n${checkReport.slice(0, 3000)}\n\`\`\`\n\n### Fetch report\n\`\`\`\n${fetchReport.slice(0, 2000)}\n\`\`\``,
               labels: ['image-url-broken'],
             });
 
       - name: Summary
         if: always()
-        run: cat /tmp/image-check-report.txt || echo "No report generated"
+        run: |
+          echo "=== check-and-fix-images ===" && cat /tmp/check-report.txt || true
+          echo "=== fetch-product-images ===" && cat /tmp/fetch-report.txt || true
