@@ -42,6 +42,44 @@
       ]
     },
     {
+      "heading": "Best Almond Butter by Use Case",
+      "paragraphs": [
+        "Different uses have genuinely different requirements. Here's which jar to reach for and why."
+      ],
+      "subsections": [
+        {
+          "heading": "Daily Eating and Toast",
+          "paragraphs": [
+            "Justin's and MaraNatha are the everyday jars. Justin's threads the needle between purity (two ingredients) and convenience (no stirring). MaraNatha is for households where oil separation leads to jars abandoned in the back of the pantry — the emulsified texture is consistent from first spoonful to last."
+          ]
+        },
+        {
+          "heading": "Baking and Cooking",
+          "paragraphs": [
+            "Baking needs predictable texture. Natural butters with oil separation can make cookies or bars greasy if not fully incorporated. Barney Bare's blanched consistency and MaraNatha's emulsified formula give reliable results in cookies, energy balls, and sauces. Avoid flavored varieties in recipes — they introduce sugar and seasoning that throws off ingredient ratios."
+          ]
+        },
+        {
+          "heading": "Sports Nutrition and Training",
+          "paragraphs": [
+            "Justin's squeeze packs are the standout for gym use — portable, portion-controlled, no refrigeration required. For training and recovery, almond butter's fat-and-protein combination is more useful post-workout than pre-workout. The single-ingredient options (Barney Bare, Artisana) give the cleanest nutritional profile without added sugars or oils."
+          ]
+        },
+        {
+          "heading": "Raw Food and Maximum Nutrition",
+          "paragraphs": [
+            "Artisana Raw is the only pick here where almonds were never roasted — preserving higher levels of vitamin E, magnesium, and natural enzyme activity. The flavor is noticeably different: mildly sweet, slightly grassy, without the toasted nuttiness of roasted versions. If you follow a raw food protocol or want the highest-nutrient option, Artisana is the answer."
+          ]
+        },
+        {
+          "heading": "Sustainability and Ethical Sourcing",
+          "paragraphs": [
+            "Palm oil — used in Justin's and MaraNatha — carries deforestation concerns. Wild Friends uses sunflower oil instead, certified organic, with non-GMO almonds. If palm oil sourcing factors into your buying decisions, Wild Friends is the clean-label alternative at a similar price to Justin's."
+          ]
+        }
+      ]
+    },
+    {
       "heading": "Bottom line",
       "paragraphs": [
         "Justin's is the practical anchor — the two-ingredient formula threads the convenience-versus-purity needle perfectly for daily use. Barney Bare is the choice when texture matters most. Artisana is the answer for raw food protocols. For households that just want to open a jar and spread without thinking, MaraNatha delivers that experience reliably."
@@ -147,5 +185,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Everyday snackers and on-the-go eaters",
+      "offerId": "justins-classic-almond-butter",
+      "reason": "Two ingredients, no stirring required, and available in convenient squeeze packs. The daily-driver almond butter for most people."
+    },
+    {
+      "label": "Bakers and recipe users",
+      "offerId": "barney-bare-almond-butter",
+      "reason": "Blanched smooth texture integrates cleanly in cookies, bars, and sauces without adding skin bitterness or unpredictable separation."
+    },
+    {
+      "label": "Palm oil-free and organic shoppers",
+      "offerId": "wild-friends-almond-butter",
+      "reason": "Stone-ground with sunflower oil instead of palm oil, certified organic and non-GMO — the cleaner alternative for environmentally conscious buyers."
+    },
+    {
+      "label": "Raw food and maximum nutrition seekers",
+      "offerId": "artisana-organic-almond-butter",
+      "reason": "Never roasted — preserves higher vitamin E, magnesium, and enzyme content. Single ingredient, certified organic, for raw food protocols."
+    },
+    {
+      "label": "Convenience-first households",
+      "offerId": "maranatha-no-stir-almond-butter",
+      "reason": "Permanently emulsified so it never separates. Consistent texture from first to last use — ideal for households who won't deal with stirring."
+    }
+  ]
 }

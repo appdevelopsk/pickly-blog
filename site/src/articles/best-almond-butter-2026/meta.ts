@@ -5,7 +5,7 @@ export const meta: ArticleMeta = {
   category: "food",
   type: "comparison",
   publishedAt: "2026-05-11",
-  updatedAt: "2026-05-11",
+  updatedAt: "2026-06-11",
   ogImage: "/og/best-almond-butter-2026",
   locales: [...ALL_LOCALES],
   offerIds: [
