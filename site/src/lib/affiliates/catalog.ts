@@ -25443,6 +25443,68 @@ const RAW_CATALOG: AffiliateOffer[] = [
       { network: "moshimo", productId: "rakuten-marmot-trestles-elite-throw", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259E%25E3%2583%25BC%25E3%2583%25A2%25E3%2583%2583%25E3%2583%2588%2F", markets: ["JP"], approved: false },
     ],
   },
+  // --- batch #330: best-plant-based-milk-2026 (food) ---
+  {
+    id: "silk-unsweetened-almond-milk", imageUrl: "https://m.media-amazon.com/images/I/71FNmRGSZAL._AC_SL1500_.jpg",
+    category: "food",
+    badge: "Best Almond Milk",
+    name: { en: "Silk Unsweetened Almond Milk", ja: "シルク 無糖アーモンドミルク", de: "Silk Ungesüßte Mandelmilch", fr: "Lait d'amande non sucré Silk", es: "Leche de almendras sin azúcar Silk", ko: "실크 무가당 아몬드밀크" },
+    description: { en: "The category standard: 30 calories per cup, neutral flavor that doesn't compete with cereal or coffee. Good shelf presence and consistent taste.", ja: "カテゴリーの標準：1カップ30カロリー、シリアルやコーヒーの邪魔をしないニュートラルな風味。安定した味と広い流通。" },
+    price: "$4.29",
+    links: [
+      { network: "amazon-us", productId: "B000Y1WVGA", rawUrl: "https://www.amazon.com/dp/B000Y1WVGA", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "silk-almond-jp", rawUrl: "https://www.amazon.co.jp/s?k=シルク+アーモンドミルク+無糖", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "silk-soy-milk", imageUrl: "https://m.media-amazon.com/images/I/81HMVKoTZtL._AC_SL1500_.jpg",
+    category: "food",
+    badge: "Best Soy Milk",
+    name: { en: "Silk Organic Unsweetened Soymilk", ja: "シルク オーガニック無糖豆乳", de: "Silk Bio-Sojadrink ungesüßt", fr: "Lait de soja bio non sucré Silk", es: "Leche de soja orgánica sin azúcar Silk", ko: "실크 유기농 무가당 두유" },
+    description: { en: "7g protein per cup — the highest of any plant milk. Creamy texture, neutral flavor. Behaves most like dairy in cooking and baking.", ja: "1カップあたり7gのタンパク質—植物性ミルクで最高。クリーミーな食感・ニュートラルな風味。料理やベーキングで最も乳製品に近い挙動。" },
+    price: "$3.89",
+    links: [
+      { network: "amazon-us", productId: "B00RYZQR3G", rawUrl: "https://www.amazon.com/dp/B00RYZQR3G", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "silk-soy-jp", rawUrl: "https://www.amazon.co.jp/s?k=有機+豆乳+無調整", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "so-delicious-coconut-milk-unsweetened", imageUrl: "https://m.media-amazon.com/images/I/71rfKMQ4RzL._AC_SL1500_.jpg",
+    category: "food",
+    badge: "Best Coconut Milk",
+    name: { en: "So Delicious Unsweetened Coconut Milk", ja: "ソー デリシャス 無糖ココナッツミルク", de: "So Delicious Kokosnussmilch ungesüßt", fr: "Lait de coco non sucré So Delicious", es: "Leche de coco sin azúcar So Delicious", ko: "소 딜리셔스 무가당 코코넛밀크" },
+    description: { en: "Mild coconut undertone, 45 calories per cup. Pairing works best with smoothies, tropical recipes, and dessert applications. Not ideal for savory cooking.", ja: "マイルドなコナッツの下味・1カップ45カロリー。スムージー・トロピカルレシピ・デザートに最適。セイボリー料理には不向き。" },
+    price: "$4.49",
+    links: [
+      { network: "amazon-us", productId: "B00BCWRXTI", rawUrl: "https://www.amazon.com/dp/B00BCWRXTI", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "coconut-milk-unsweetened-jp", rawUrl: "https://www.amazon.co.jp/s?k=ソーデリシャス+ココナッツミルク+無糖", markets: ["JP"], approved: true },
+    ],
+  },
+  {
+    id: "ripple-pea-milk-original", imageUrl: "https://m.media-amazon.com/images/I/71L1CxRqk7L._AC_SL1500_.jpg",
+    category: "food",
+    badge: "Best Pea Milk",
+    name: { en: "Ripple Original Pea Milk", ja: "リップル オリジナル えんどう豆ミルク", de: "Ripple Erbsendrink Original", fr: "Lait de pois Ripple Original", es: "Leche de guisante Ripple Original", ko: "리플 오리지널 완두콩밀크" },
+    description: { en: "8g protein, 50% more calcium than dairy. No pea taste — genuinely neutral. Best protein-to-calorie ratio of any tested plant milk.", ja: "8gタンパク質・乳製品の50%多いカルシウム。えんどう豆の味なし—本当にニュートラル。テストした植物性ミルク中で最良のタンパク質/カロリー比。" },
+    price: "$5.99",
+    links: [
+      { network: "amazon-us", productId: "B01MT3FKQV", rawUrl: "https://www.amazon.com/dp/B01MT3FKQV", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "ripple-pea-milk-jp", rawUrl: "https://www.amazon.co.jp/s?k=えんどう豆ミルク+プロテイン", markets: ["JP"], approved: true },
+    ],
+  },
+  // --- batch #331: best-oat-milk-for-coffee-2026 (food) ---
+  {
+    id: "minor-figures-barista-oat-milk", imageUrl: "https://m.media-amazon.com/images/I/71OsHb7gTRL._AC_SL1500_.jpg",
+    category: "food",
+    badge: "Best Specialty Barista Oat Milk",
+    name: { en: "Minor Figures Oat M*lk Barista", ja: "マイナー フィギュアズ バリスタ オーツミルク", de: "Minor Figures Haferdrink Barista", fr: "Lait d'avoine barista Minor Figures" },
+    description: { en: "Developed by baristas for espresso-based drinks. Steams to thick, glossy microfoam. Slightly richer texture than Oatly Barista. Specialty coffee shops' second choice after Oatly.", ja: "バリスタがエスプレッソ系ドリンク向けに開発。厚みのある光沢あるマイクロフォームに仕上がる。スペシャルティコーヒーショップでオートリーに次ぐ支持。" },
+    price: "$5.79",
+    links: [
+      { network: "amazon-us", productId: "B08N4GZYMF", rawUrl: "https://www.amazon.com/dp/B08N4GZYMF", markets: ["US", "EU", "global"], approved: true },
+      { network: "amazon-jp", productId: "minor-figures-jp", rawUrl: "https://www.amazon.co.jp/s?k=マイナーフィギュアズ+バリスタ+オーツミルク", markets: ["JP"], approved: true },
+    ],
+  },
 ] as AffiliateOffer[];
 
 /**

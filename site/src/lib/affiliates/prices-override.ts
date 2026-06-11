@@ -1247,4 +1247,9 @@ export const PRICES: Record<string, Partial<Record<string, string>>> = {
   "zwilling-fresh-save-vacuum-system": { US: "$60" },
   "zyliss-swift-dry-salad-spinner": { US: "$44.95" },
   "zz-plant": { US: "$99.00" },
+  "silk-unsweetened-almond-milk": { US: "$4.29" },
+  "silk-soy-milk": { US: "$3.89" },
+  "so-delicious-coconut-milk-unsweetened": { US: "$4.49" },
+  "ripple-pea-milk-original": { US: "$5.99" },
+  "minor-figures-barista-oat-milk": { US: "$5.79" },
 };
