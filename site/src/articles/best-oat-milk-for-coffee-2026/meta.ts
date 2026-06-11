@@ -7,7 +7,7 @@ export const meta: ArticleMeta = {
   publishedAt: "2026-06-11",
   updatedAt: "2026-06-11",
   ogImage: "/og/best-oat-milk-for-coffee-2026",
-  locales: ["en", "ja", "de", "fr"],
+  locales: ["en", "ja", "zh-CN", "zh-TW", "ko", "es", "pt-BR", "fr", "de", "it", "ru", "ar", "hi", "id", "th", "vi", "tr"],
   offerIds: [
     "oatly-oat-milk-barista",
     "minor-figures-barista-oat-milk",
