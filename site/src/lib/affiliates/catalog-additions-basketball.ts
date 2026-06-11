@@ -4,6 +4,7 @@ import type { AffiliateOffer } from "./types";
 export const CATALOG_ADDITIONS_BASKETBALL = [
   {
     id: "nike-lebron-witness-9",
+    imageUrl: "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/867a68ac-b1e3-469d-b30f-45b4d2fc1f65/LEBRON+WITNESS+IX.png",
     category: "fitness",
     name: { en: "Nike Lebron Witness 9" },
     description: { en: "The LeBron Witness 9 is the value entry into the LeBron support philosophy — a wide, stable base and a supportive mid-to-high collar built for players who want cushioning and lockdown without the signature price." },
@@ -14,6 +15,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "under-armour-spawn-6",
+    imageUrl: "https://image-raw.reversible.com/raw_images/4ad89565197ec677d61b4fd40a3444895cd58d6166c6f6bf1b0c3eae91d465a0",
     category: "fitness",
     name: { en: "Under Armour Spawn 6" },
     description: { en: "The Spawn line is Under Armour's value performance shoe, and the high-top build makes the Spawn 6 a standout for players who want genuine collar support without spending signature money." },
@@ -24,6 +26,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "adidas-dame-certified-2",
+    imageUrl: "https://m.media-amazon.com/images/I/71uE8awca9L._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Adidas Dame Certified 2" },
     description: { en: "The Dame line is built for a quick, shifty guard, and the Certified version brings that performance to a more accessible price." },
@@ -34,6 +37,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "nike-zoom-freak-6",
+    imageUrl: "https://cdn1.basket4ballers.com/254381-thickbox_default/nike-zoom-freak-6-savage-fj7792-601.jpg",
     category: "fitness",
     name: { en: "Nike Zoom Freak 6" },
     description: { en: "The Zoom Freak line is built around Giannis Antetokounmpo's game — explosive, physical, multidirectional — and that makes the Freak 6 a strong support option for wings and forwards who land hard and play through contact." },
@@ -44,6 +48,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "puma-mb-04",
+    imageUrl: "https://m.media-amazon.com/images/I/61ALEcZ07rL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Puma Mb 04" },
     description: { en: "The MB line (LaMelo Ball's signature) is known for bold looks and surprisingly capable performance, and the MB.04 is the lightweight pick for players who want support features without the weight penalty of a heavy high-top." },
@@ -54,6 +59,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "nike-precision-7",
+    imageUrl: "https://m.media-amazon.com/images/I/61iKPoInVJL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Nike Precision 7" },
     description: { en: "The Precision line is Nike's no-frills budget basketball shoe, and it nails exactly what a beginner needs: dependable traction, a supportive mid-cut fit, and light cushioning at a price well under signature models." },
@@ -64,6 +70,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "adidas-ownthegame-3",
+    imageUrl: "https://m.media-amazon.com/images/I/81hnbA4mbjL.jpg",
     category: "fitness",
     name: { en: "Adidas Ownthegame 3" },
     description: { en: "The Ownthegame line is about as affordable as a real basketball shoe gets, which makes it ideal for casual players, kids growing fast, or anyone who isn't sure the sport will stick." },
@@ -74,6 +81,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "under-armour-jet-23",
+    imageUrl: "https://m.media-amazon.com/images/I/61m85LTydwL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Under Armour Jet 23" },
     description: { en: "The Jet is Under Armour's budget basketball line, and it's the pick for beginners with wider feet who find Nike and Adidas signature lines too narrow." },
@@ -84,6 +92,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "puma-court-rider-2",
+    imageUrl: "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/376646/04/sv01/fnd/THA/fmt/png/Court-Rider-2.0-Basketball-Shoes",
     category: "fitness",
     name: { en: "Puma Court Rider 2" },
     description: { en: "The Court Rider is Puma's accessible team-basketball shoe and offers the most comfortable cushioning in this budget group, using Puma's responsive foam to give a softer ride than most shoes at the price." },
@@ -94,6 +103,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "nike-giannis-immortality-4",
+    imageUrl: "https://m.media-amazon.com/images/I/61TLEWtjrXL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Nike Giannis Immortality 4" },
     description: { en: "If you can stretch the budget slightly, the Giannis Immortality 4 is the value step-up that bridges beginner and real performance." },
@@ -104,6 +114,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "nike-kd-trey-5-xi",
+    imageUrl: "https://m.media-amazon.com/images/I/61WsaZkgoZL._AC_SL1100_.jpg",
     category: "fitness",
     name: { en: "Nike Kd Trey 5 Xi" },
     description: { en: "The KD Trey line takes Kevin Durant's signature DNA and delivers it at a team-shoe price, and traction is where it punches well above its cost." },
@@ -114,6 +125,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "adidas-trae-young-3",
+    imageUrl: "https://m.media-amazon.com/images/I/716g0UlJHvL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Adidas Trae Young 3" },
     description: { en: "The Trae Young line is built for a shifty, change-of-direction guard, and the outsole reflects that with an aggressive multidirectional pattern designed to grip on hard plants and sudden direction changes." },
@@ -124,6 +136,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "nike-cosmic-unity-3",
+    imageUrl: "https://m.media-amazon.com/images/I/51IH2jG5v8L._AC_SL1001_.jpg",
     category: "fitness",
     name: { en: "Nike Cosmic Unity 3" },
     description: { en: "The Cosmic Unity is built with a heavier, more durable construction that makes it the most outdoor-friendly traction pick here." },
@@ -134,6 +147,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "under-armour-curry-flow-11",
+    imageUrl: "https://m.media-amazon.com/images/I/61-YT845n+L._AC_SL1010_.jpg",
     category: "fitness",
     name: { en: "Under Armour Curry Flow 11" },
     description: { en: "Under Armour's Curry Flow line is famous for one thing above all: the UA Flow outsole, where the foam doubles as the outsole with no rubber at all." },
@@ -144,6 +158,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "jordan-luka-3",
+    imageUrl: "https://img-sneaksupincommerce.mncdn.com/Content/Images/Thumbs/0209354_jordan-luka-3-fq1284-100.jpeg",
     category: "fitness",
     name: { en: "Jordan Luka 3" },
     description: { en: "The Luka line is built around Luka Doncic's deliberate, footwork-heavy game, and the outsole is tuned for stability and reliable grip on the constant pivots, step-backs, and direction changes that define it." },
@@ -154,6 +169,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "nike-gt-jump-3",
+    imageUrl: "https://m.media-amazon.com/images/I/71aScQcN0IL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Nike Gt Jump 3" },
     description: { en: "The GT Jump line is engineered for one thing: vertical athletes who want maximum energy return on takeoff and impact protection on landing." },
@@ -164,6 +180,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "adidas-ae-1",
+    imageUrl: "https://m.media-amazon.com/images/I/61jswf11yFL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Adidas Ae 1" },
     description: { en: "The AE 1 (Anthony Edwards' signature) pairs a generous Boost-and-Lightstrike cushioning setup with a build versatile enough for explosive guards and wings alike." },
@@ -174,6 +191,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "nike-gt-hustle-3",
+    imageUrl: "https://d3pnpe87i1fkwu.cloudfront.net/IMG/023573-nike-gt-hustle-3-hj9083-100_2048x2048.png",
     category: "fitness",
     name: { en: "Nike Gt Hustle 3" },
     description: { en: "The GT Hustle is the most heavily cushioned shoe in Nike's performance line, combining a large Air unit with foam for maximum impact absorption — built for bigs and heavier players who land hard and need the most landing protection available." },
@@ -184,6 +202,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "jordan-tatum-3",
+    imageUrl: "https://m.media-amazon.com/images/I/71t7JU9BPIL._AC_SL1500_.jpg",
     category: "fitness",
     name: { en: "Jordan Tatum 3" },
     description: { en: "The Tatum line is built for a versatile two-way wing, and its cushioning reflects that — a balanced Formula 23 foam and Zoom setup that protects landings while keeping a responsive, planted feel for all-around play." },
@@ -194,6 +213,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "new-balance-two-wxy-v5",
+    imageUrl: "https://media-www.sportchek.ca/product/div-05-footwear/dpt-80-footwear/sdpt-01-mens/334386675/new-balance-men-s-two-wxy-v5-basketball-shoes-e5550fa5-31c2-42f9-960e-54623df3fdcf-jpgrendition.jpg?imdensity=1&imwidth=1244&impolicy=gZoom",
     category: "fitness",
     name: { en: "New Balance Two Wxy V5" },
     description: { en: "New Balance's Two WXY has quietly become one of the best-cushioned team shoes available, using NB's responsive FuelCell-style foam to deliver springy, comfortable landings in a build that fits wider feet better than most signature lines." },

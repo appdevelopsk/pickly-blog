@@ -2158,6 +2158,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "inputein-whey-1kg",
+    imageUrl: "https://m.media-amazon.com/images/I/71bztxqyh0L.jpg",
     category: "beauty",
     price: "¥4,980",
     badge: "🌱",
@@ -3858,6 +3859,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "funcy-yoga-mat-8mm",
+    imageUrl: "https://m.media-amazon.com/images/I/811wvGxPDVL.jpg",
     category: "beauty",
     price: "¥3,180",
     badge: "💴",
@@ -5686,6 +5688,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "fitletic-posture-corrector",
+    imageUrl: "https://m.media-amazon.com/images/I/71dNRC1t2sL.jpg",
     category: "fitness",
     price: "$30",
     badge: "🏃",
@@ -9434,6 +9437,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "vigor-ground-battle-rope",
+    imageUrl: "https://m.media-amazon.com/images/I/71UGcMdj0fL._AC_UL960_QL65_.jpg",
     category: "fitness",
     priceMin: "$50",
     priceMax: "$100",
@@ -9465,6 +9469,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "zeiser-battle-rope",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2c1bbdfc-7d8f-4bfc-a3c9-67e656c46582.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     category: "fitness",
     priceMin: "$50",
     priceMax: "$120",
@@ -10552,6 +10557,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "mummyfit-dip-belt",
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/856db1ec-2bdd-4a46-be86-26f3a6dc0818.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     category: "fitness",
     price: "$25",
     name: { en: "MummyFit Dip Belt", ja: "MummyFit ディップベルト" },
@@ -13461,6 +13467,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "fitness-reality-universal-dumbbell-rack",
+    imageUrl: "https://m.media-amazon.com/images/I/81gQYcW1pWL._AC_SL1500_.jpg",
     category: "fitness",
     priceMin: "$60",
     priceMax: "$120",
@@ -13560,6 +13567,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "cosori-induction-cooktop-1800w",
+    imageUrl: "https://m.media-amazon.com/images/I/61hQ6FITheL._AC_.jpg",
     category: "food",
     price: "$49.99",
     badge: "portable-pick",
@@ -14306,6 +14314,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Fitness / Push-Up Boards (best-push-up-board-2026) ─────────
   {
     id: "sportneer-push-up-board",
+    imageUrl: "https://m.media-amazon.com/images/I/71Lf9JbxZIL.jpg",
     category: "fitness",
     price: "~$25",
     badge: "🏆",
@@ -14345,6 +14354,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "hashtag-fitness-push-up-board",
+    imageUrl: "https://m.media-amazon.com/images/I/71Lf9JbxZIL.jpg",
     category: "fitness",
     price: "~$25",
     badge: "📐",
@@ -14752,6 +14762,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "bly-yoga-wheel",
+    imageUrl: "https://m.media-amazon.com/images/I/61TH5+BtUFS._AC_UL800_QL65_.jpg",
     category: "fitness",
     price: "~$40",
     badge: "🛋️",
@@ -16170,6 +16181,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "vikingstrength-sandbag",
+    imageUrl: "https://images-cdn.ubuy.co.in/63639e6731f80e6d15320fc6-military-grade-sandbag-workout-bag.jpg",
     category: "fitness",
     price: "~$100",
     badge: "🏋️",
@@ -18164,6 +18176,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "rep-fitness-lp-5000-leg-press",
+    imageUrl: "https://fitness-one.it/wp-content/uploads/2024/12/toorx-lpx-5000-leg-press-calf-raise-2.jpg",
     category: "fitness",
     priceMin: "$700",
     priceMax: "$1,200",
@@ -20431,6 +20444,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "jap-grips-gymnastics",
+    imageUrl: "https://m.media-amazon.com/images/I/81P5b-pVp1L._AC_SX679_.jpg",
     category: "fitness",
     priceMin: "$25",
     priceMax: "$40",
@@ -21977,6 +21991,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // --- best-protein-pancake-mix-2026: Japan-market picks ---
   {
     id: "nisshin-protein-hotcake-mix",
+    imageUrl: "https://m.media-amazon.com/images/I/71emYkYDNAL._AC_SL1146_.jpg",
     category: "food",
     badge: "Best Japan-Market Pick",
     name: { en: "Nisshin Welna Protein Hotcake Mix", ja: "日清製粉ウェルナ プロテインホットケーキミックス" },
@@ -21988,6 +22003,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "finelab-protein-pancake",
+    imageUrl: "https://goodsofjapan.com/cdn/shop/products/51eNKgX3MYL_580x.jpg?v=1615607725",
     category: "food",
     badge: "Best Value (Japan Market)",
     name: { en: "Fine Lab Protein Pancakes", ja: "ファインラボ プロテインパンケーキ" },

@@ -14,6 +14,8 @@ import fs from "node:fs";
 import path from "node:path";
 
 const CATALOG_PATH = path.resolve(__dirname, "../src/lib/affiliates/catalog-additions.ts");
+const CATALOG_BASKETBALL_PATH = path.resolve(__dirname, "../src/lib/affiliates/catalog-additions-basketball.ts");
+const CATALOG_MAIN_PATH = path.resolve(__dirname, "../src/lib/affiliates/catalog.ts");
 const DDG_DELAY_MS = 1500;   // between DDG requests (polite)
 const SAVE_EVERY = 20;        // write file after every N successes
 const DRY_RUN = process.env.DRY_RUN === "1";
@@ -178,16 +180,15 @@ function applyImageUrl(content: string, id: string, imageUrl: string): string {
 
 // ── Main ──────────────────────────────────────────────────────────────────────
 
-async function main() {
-  const original = fs.readFileSync(CATALOG_PATH, "utf-8");
+async function processFile(filePath: string, limit: number): Promise<{ success: number; failed: number }> {
+  const original = fs.readFileSync(filePath, "utf-8");
   const offers = parseEmptyOffers(original);
-  const total = Math.min(offers.length, LIMIT);
+  const total = Math.min(offers.length, limit);
 
-  console.log(`\nPickly — fetch-product-images`);
-  console.log(`Offers with empty imageUrl : ${offers.length}`);
-  console.log(`Processing this run        : ${total}`);
-  if (DRY_RUN) console.log("⚠  DRY RUN — catalog will not be modified\n");
-  else console.log(`Writing to: ${CATALOG_PATH}\n`);
+  console.log(`\n${path.basename(filePath)}: ${offers.length} empty imageUrls`);
+  if (total === 0) return { success: 0, failed: 0 };
+  console.log(`Processing this run: ${total}`);
+  if (!DRY_RUN) console.log(`Writing to: ${filePath}\n`);
 
   let catalog = original;
   let success = 0;
@@ -195,10 +196,8 @@ async function main() {
 
   for (let i = 0; i < total; i++) {
     const { id, name } = offers[i];
-    const label = `[${i + 1}/${total}]`;
-    process.stdout.write(`${label} ${id.slice(0, 45).padEnd(45)} `);
+    process.stdout.write(`[${i + 1}/${total}] ${id.slice(0, 45).padEnd(45)} `);
 
-    // Category-aware query strategy
     const base = name.length > 5 ? name : id.replace(/-/g, " ");
     const queries = offers[i].category === "finance"
       ? [`${base} card`, `${base} logo`, `${base}`, `${base} app`]
@@ -224,7 +223,7 @@ async function main() {
           catalog = applyImageUrl(catalog, id, imageUrl);
           success++;
           if (success % SAVE_EVERY === 0) {
-            fs.writeFileSync(CATALOG_PATH, catalog, "utf-8");
+            fs.writeFileSync(filePath, catalog, "utf-8");
             console.log(`    → saved checkpoint (${success} filled)\n`);
           }
         } else {
@@ -236,20 +235,31 @@ async function main() {
     if (i < total - 1) await sleep(DDG_DELAY_MS);
   }
 
-  // Final save
-  if (!DRY_RUN && catalog !== original) {
-    fs.writeFileSync(CATALOG_PATH, catalog, "utf-8");
+  if (!DRY_RUN && catalog !== original) fs.writeFileSync(filePath, catalog, "utf-8");
+  return { success, failed };
+}
+
+async function main() {
+  console.log(`\nPickly — fetch-product-images`);
+  if (DRY_RUN) console.log("⚠  DRY RUN — catalog will not be modified");
+
+  const files = [CATALOG_MAIN_PATH, CATALOG_PATH, CATALOG_BASKETBALL_PATH];
+  let totalSuccess = 0;
+  let totalFailed = 0;
+
+  for (const f of files) {
+    if (!fs.existsSync(f)) continue;
+    const { success, failed } = await processFile(f, LIMIT);
+    totalSuccess += success;
+    totalFailed += failed;
   }
 
   console.log(`\n─────────────────────────────────────────`);
-  console.log(`✓ Success : ${success}`);
-  console.log(`✗ Failed  : ${failed}`);
-  console.log(`  Total   : ${total}`);
-  if (!DRY_RUN && success > 0) {
-    console.log(`\nNext: commit + push to deploy`);
-    console.log(`  git add site/src/lib/affiliates/catalog-additions.ts`);
-    console.log(`  git commit -m "chore: add product image URLs (${success} offers)"`);
-    console.log(`  git push origin main`);
+  console.log(`✓ Success : ${totalSuccess}`);
+  console.log(`✗ Failed  : ${totalFailed}`);
+  console.log(`  Total   : ${totalSuccess + totalFailed}`);
+  if (!DRY_RUN && totalSuccess > 0) {
+    console.log(`\nNext: git add site/src/lib/affiliates/catalog-additions*.ts && git commit && git push`);
   }
 }
 
