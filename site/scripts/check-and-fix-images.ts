@@ -10,24 +10,33 @@ import fs from "node:fs";
 import path from "node:path";
 
 const DRY_RUN = process.argv.includes("--dry-run");
-const CONCURRENCY = 20;
+const CONCURRENCY = 15;
 const TIMEOUT_MS = 8000;
 const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
+// Simulate cross-origin image load from pickly.blog — this is the referer browsers send
+const SITE_REFERER = "https://pickly.blog/";
 
 const CATALOG_FILES = [
   path.resolve(__dirname, "../src/lib/affiliates/catalog-additions.ts"),
   path.resolve(__dirname, "../src/lib/affiliates/catalog-additions-basketball.ts"),
 ];
 
-// Domains known to block hotlinking — skip HEAD check and treat as broken immediately
+// Domains known to block hotlinking — skip check and treat as broken immediately
 const BLOCKED_DOMAINS = new Set([
   "i5.walmartimages.com", "www.walmart.com",
   "pisces.bbystatic.com", "www.bestbuy.com",
   "www.kroger.com",
-  "i.ytimg.com", "img.youtube.com",
+  "i.ytimg.com", "img.youtube.com",           // YouTube thumbnails — not product images
+  "images-na.ssl-images-amazon.com",           // old Amazon CDN — often 403 from browsers
   "media.karousell.com",
   "www.refinery29.com",
   "goodbuygear.com",
+  "mobileimages.lowes.com", "www.lowes.com",   // Lowe's blocks hotlinking
+  "images.heb.com",                             // H-E-B grocery
+  "media-www.canadiantire.ca",
+  "media-www.sportchek.ca",
+  "product-images.therealreal.com",            // The RealReal
+  "www.instacart.com",
   "www.bhphotovideo.com",
   "media.licdn.com",
   "lookaside.fbsbx.com",
@@ -86,10 +95,11 @@ async function isImageOk(url: string): Promise<{ ok: boolean; reason: string }> 
   try {
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
+    // Use GET (not HEAD) with pickly.blog referer — simulates actual browser cross-origin load
     const res = await fetch(url, {
-      method: "HEAD",
+      method: "GET",
       signal: controller.signal,
-      headers: { "User-Agent": UA, "Referer": "https://www.google.com/" },
+      headers: { "User-Agent": UA, "Referer": SITE_REFERER },
     });
     clearTimeout(timer);
     if (!res.ok) return { ok: false, reason: `HTTP ${res.status}` };

@@ -3312,7 +3312,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dog-harness-kurgo-tru-fit",
-    "imageUrl": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_b6b77de0-ecb2-45fb-a7a8-3f70c616febb.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81lPDfaWtTL._AC_SL1500_.jpg",
     "priceMin": "5500",
     "priceMax": "8000",
     "category": "home",
@@ -3364,7 +3364,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dog-harness-rabbitgoo-no-pull",
-    "imageUrl": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_c7a6db13-b231-4735-b60d-c6c062617867.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Gmdcl6dyL._AC_SL1500_.jpg",
     "priceMin": "2500",
     "priceMax": "4500",
     "category": "home",
@@ -5733,7 +5733,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "juicer-breville-juice-fountain-plus",
-    "imageUrl": "https://media-www.canadiantire.ca/product/living/kitchen/kitchen-appliances/0432270/breville-juice-fountain-plus-d3a75d64-6792-45ed-ab0b-7b4da3389261.png?imwidth=1024",
+    "imageUrl": "https://m.media-amazon.com/images/I/51GtiTNHXrL._AC_SL1080_.jpg",
     "priceMin": "149",
     "priceMax": "199",
     "category": "food",
@@ -5785,7 +5785,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "juicer-hamilton-beach-big-mouth",
-    "imageUrl": "https://images.heb.com/is/image/HEBGrocery/001699292-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/71p29x8q0EL._AC_SL1500_.jpg",
     "priceMin": "59",
     "priceMax": "89",
     "category": "food",
@@ -6279,7 +6279,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "detergent-seventh-generation-free-clear",
-    "imageUrl": "https://images.heb.com/is/image/HEBGrocery/001219594-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/810p+t5zfbL._AC_SL1500_.jpg",
     "priceMin": "14",
     "priceMax": "22",
     "category": "home",
@@ -10205,7 +10205,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "shower-head-hansgrohe-raindance",
-    "imageUrl": "https://mobileimages.lowes.com/productimages/17a3d32c-89de-42e8-a552-1f19a7ff7fe9/44152380.jpg?size=pdhism",
+    "imageUrl": "https://m.media-amazon.com/images/I/71NqAkPS+mL._AC_SL1500_.jpg",
     "priceMin": "150",
     "priceMax": "250",
     "category": "home",
@@ -10257,7 +10257,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "shower-head-moen-engage",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61xdBONfoXL.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61K4HuZxT-L._AC_SL1500_.jpg",
     "priceMin": "60",
     "priceMax": "100",
     "category": "home",
@@ -10335,7 +10335,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ski-goggles-anon-m4",
-    "imageUrl": "https://media-www.sportchek.ca/product/div-01-hardgoods/dpt-24-alpine-skiing/sdpt-22-goggles/334198541/anon-m4-cylindrical-q323-smoke-sunny-onyx-1f2af08e-5c11-47bc-938b-069e3e04314e-jpgrendition.jpg?imdensity=1&imwidth=640&impolicy=gZoom",
+    "imageUrl": "https://m.media-amazon.com/images/I/61jYkSM6zfL._AC_SY300_SX300_QL70_ML2_.jpg",
     "priceMin": "220",
     "priceMax": "240",
     "category": "fitness",
@@ -10595,7 +10595,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "smart-hub-samsung-smartthings",
-    "imageUrl": "https://smarthingx.com/wp-content/uploads/2013/08/ST5.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/614d2lQP0hL._AC_SL1500_.jpg",
     "priceMin": "16800",
     "priceMax": "22000",
     "category": "tech",
@@ -11583,7 +11583,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "trail-shoes-salomon-speedcross-6",
-    "imageUrl": "https://media-www.sportchek.ca/product/div-05-footwear/dpt-80-footwear/sdpt-01-mens/333845763/salomon-men-s-speedcross-6-trail-running-shoes-8ae778b6-ecea-4439-8b69-108012d68b1e-jpgrendition.jpg?imdensity=1&imwidth=640&impolicy=gZoom",
+    "imageUrl": "https://startfitness.co.uk/cdn/shop/files/Salomon-Speedcross-6-GTX-L47465400.jpg?v=1742818451",
     "priceMin": "130",
     "priceMax": "140",
     "category": "fitness",
@@ -11609,7 +11609,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "trail-shoes-hoka-speedgoat-5",
-    "imageUrl": "https://media-www.sportchek.ca/product/div-05-footwear/dpt-80-footwear/sdpt-02-womens/334252040/hoka-women-s-speedgoat-5-mid-gore-tex-trail-running-shoes-39b775d1-bb30-41a0-b9d4-6d87c079cf4f-jpgrendition.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81hgBWsnbfL._AC_SL1500_.jpg",
     "priceMin": "145",
     "priceMax": "155",
     "category": "fitness",
@@ -12649,7 +12649,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "water-filter-pur-plus",
-    "imageUrl": "https://images.heb.com/is/image/HEBGrocery/002085416-1?jpegSize=150&hei=1400&fit=constrain&qlt=75&v=1",
+    "imageUrl": "https://m.media-amazon.com/images/I/71t+1C6l-HL.jpg",
     "priceMin": "28",
     "priceMax": "35",
     "category": "home",
@@ -12909,7 +12909,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "yoga-strap-gaiam-6ft",
-    "imageUrl": "https://media-www.canadiantire.ca/product/playing/exercise/exercise-accessories/1840609/gaiam-yoga-6ft-strap-ffca1770-9017-446f-81f5-3d60b1a61229.png?imwidth=1024",
+    "imageUrl": "https://m.media-amazon.com/images/I/91Fjf3z31jL._SL1500_.jpg",
     "priceMin": "10",
     "priceMax": "14",
     "category": "fitness",
@@ -13508,7 +13508,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "white-warren-cashmere-vneck",
-    "imageUrl": "https://product-images.therealreal.com/WWR48361_1_enlarged.jpg",
+    "imageUrl": "https://cdn.modesens.com/availability/54642179?w=400",
     "priceMin": "$245",
     "priceMax": "$295",
     "category": "fashion",
@@ -15172,7 +15172,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "similac-pure-bliss",
-    "imageUrl": "https://images.heb.com/is/image/HEBGrocery/002070433-1",
+    "imageUrl": "https://m.media-amazon.com/images/I/51-1uuplGKL._AC_SL1300_.jpg",
     "priceMin": "$30",
     "priceMax": "$38",
     "category": "parenting",
@@ -16836,7 +16836,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "physix-gear-sport-compression",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51yYp0EMQSL.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71aiTLaj9CL.jpg",
     "priceMin": "$20",
     "priceMax": "$28",
     "category": "travel",
@@ -18448,7 +18448,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "4moms-mamaroo-multi-motion",
-    "imageUrl": "https://media-www.canadiantire.ca/product/automotive/car-care-accessories/child-travel-baby/0469303/4moms-mamaroo-multi-motion-baby-swing-e49f83c5-4699-41f7-951d-ae840b8c740c-jpgrendition.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71G3Z8Ja05L._AC_SL1500_.jpg",
     "priceMin": "$249",
     "priceMax": "$299",
     "category": "parenting",
@@ -19072,7 +19072,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fridababy-quick-read-thermometer",
-    "imageUrl": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_234712c7-85ca-4b59-a0e7-5bdd6430d34d.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/61iL1-6ha0L._SL1500_.jpg",
     "priceMin": "$30",
     "priceMax": "$40",
     "category": "parenting",
@@ -19202,7 +19202,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "baby-einstein-sea-dreams-soother-playmat",
-    "imageUrl": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_3715caba-5558-4da2-9164-f6938ba5f8ec.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/81cJ0Wy2jLL._SL1500_.jpg",
     "priceMin": "$30",
     "priceMax": "$40",
     "category": "parenting",
@@ -19436,7 +19436,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "veken-stainless-steel-fountain",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61MewRxjatL._UL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61uTNq6HxbL._AC_SL1500_.jpg",
     "priceMin": "$40",
     "priceMax": "$55",
     "category": "pets",
@@ -19800,7 +19800,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vivohome-59-bird-cage",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41xN5hLqz0L._UL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/815W1HM4wiL._AC_SL1500_.jpg",
     "priceMin": "$170",
     "priceMax": "$220",
     "category": "pets",
@@ -19904,7 +19904,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "rocco-roxie-supply-co-stain-eliminator",
-    "imageUrl": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_aa2c290a-33d2-4e7a-af8b-6abd1c9e4c5d.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/71RbenYSqsL._AC_SL1500_.jpg",
     "priceMin": "$20",
     "priceMax": "$30",
     "category": "pets",
@@ -22660,7 +22660,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "graco-solano-changing-table",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81yVx-PNhML.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/718BFtpVaxL.jpg",
     "priceMin": "$280",
     "priceMax": "$380",
     "category": "parenting",
@@ -23024,7 +23024,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nuk-pacifier",
-    "imageUrl": "https://media-www.canadiantire.ca/product/automotive/car-care-accessories/child-travel-safety/0468918/nuk-pacifier-size-2-2pk-205fa082-0d8b-404a-b5bd-49cab6770aee-jpgrendition.jpg?imdensity=1&imwidth=640&impolicy=gZoom",
+    "imageUrl": "https://m.media-amazon.com/images/I/71PoiCV6vZL.jpg",
     "priceMin": "$5",
     "priceMax": "$10",
     "category": "parenting",
@@ -25130,7 +25130,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "noco-boost-gb40-1000a",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71hJgp07X1L.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/913+OdWA3NL._AC_SX466_.jpg",
     "priceMin": "$95",
     "priceMax": "$130",
     "category": "tech",
@@ -25910,7 +25910,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bottega-veneta-padded-cassette",
-    "imageUrl": "https://product-images.therealreal.com/BOT189471_2_enlarged.jpg",
+    "imageUrl": "http://www.luxedh.com/cdn/shop/files/Bottega-Veneta-Padded-Cassette_228209_front_0_parent.jpg?v=1738891667&width=2048",
     "priceMin": "$3,650",
     "priceMax": "$4,290",
     "category": "fashion",
@@ -25962,7 +25962,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "polene-numero-un-mini",
-    "imageUrl": "https://product-images.therealreal.com/WPLNE20942_1_enlarged.jpg",
+    "imageUrl": "https://media.karousell.com/media/photos/products/2022/10/17/polene_numero_un_mini_1666005099_7dd0dafb_progressive.jpg",
     "priceMin": "$390",
     "priceMax": "$490",
     "category": "fashion",
@@ -25988,7 +25988,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "telfar-shopping-bag",
-    "imageUrl": "https://product-images.therealreal.com/WTELG30926_1_enlarged.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61QO+Vre3TL._AC_SL1500_.jpg",
     "priceMin": "$150",
     "priceMax": "$257",
     "category": "fashion",
@@ -26898,7 +26898,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "usaa-homeowners",
-    "imageUrl": "https://m.media-amazon.com/images/I/61zVnwbzLEL._AC_SL1000_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/9/AmazonStores/ATVPDKIKX0DER/2cd0d14d3e83ecbb80c0ceff23d7af70.w800.h400._CR0%2C0%2C800%2C400_SX800_.jpg",
     "priceMin": "Varies",
     "priceMax": "Varies",
     "category": "finance",
@@ -27782,7 +27782,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "wahl-pet-shampoo-friendly",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71rxt0ShYiL.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71OvGWUeZOL._AC_.jpg",
     "priceMin": "$8",
     "priceMax": "$15",
     "category": "pets",
@@ -29160,7 +29160,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sea-to-summit-trek-travel-wash",
-    "imageUrl": "https://media-www.sportchek.ca/product/div-01-hardgoods/dpt-36-camping/sdpt-20-health-safety/333714889/sts-trek-travel-liquid-body-wash-23318fa8-d2c5-46a0-b17c-6de131941283-jpgrendition.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71SUwNS-9TL._AC_SL1500_.jpg",
     "priceMin": "$8",
     "priceMax": "$12",
     "category": "travel",
@@ -29914,7 +29914,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "kobalt-80v-21-mower",
-    "imageUrl": "https://mobileimages.lowes.com/productimages/f6f3499a-95f5-42b3-9e8f-d4ada9c90b96/66694417.jpeg?size=pdhism",
+    "imageUrl": "https://m.media-amazon.com/images/I/71gu4m+ZKUL._AC_SL1500_.jpg",
     "priceMin": "$400",
     "priceMax": "$550",
     "category": "home",
@@ -29940,7 +29940,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "flexzilla-hfzg550yw-50ft",
-    "imageUrl": "https://mobileimages.lowes.com/productimages/d6d128f5-7479-41fd-bd11-53d943e22842/66817402.jpeg?size=pdhism",
+    "imageUrl": "https://m.media-amazon.com/images/I/71TW-e6Y9iL.jpg",
     "priceMin": "$60",
     "priceMax": "$100",
     "category": "home",
@@ -30018,7 +30018,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "expandable-hose-100ft",
-    "imageUrl": "https://media-www.canadiantire.ca/product/seasonal-gardening/outdoor-tools/watering/0591626/x-hose-pro-dac-5-100--28e957f8-3932-4fa5-ac39-ab249e39a9b2-jpgrendition.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/814GqUZOlsL._AC_SL1500_.jpg",
     "priceMin": "$30",
     "priceMax": "$50",
     "category": "home",
@@ -31968,7 +31968,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "chime-credit-builder-card",
-    "imageUrl": "https://m.media-amazon.com/images/I/31qTF1-lBzL.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61j3gSmvJnL._AC_SL1000_.jpg",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -32644,7 +32644,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dream-on-me-classic-toddler",
-    "imageUrl": "https://mobileimages.lowes.com/productimages/b18198d7-a6e7-4c96-98b9-40067236d32c/42576469.jpg?size=pdhism",
+    "imageUrl": "https://m.media-amazon.com/images/I/71lvXIBRizL._AC_SL1500_.jpg",
     "priceMin": "$60",
     "priceMax": "$90",
     "category": "parenting",
@@ -33242,7 +33242,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "petsafe-drinkwell-platinum-fountain",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81ffEVaVILL._SL1500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71oAlF3v-3L.jpg",
     "priceMin": "$60",
     "priceMax": "$85",
     "category": "pets",
@@ -33294,7 +33294,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "petlibro-dockstream-wifi-fountain",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71w1DVwvbQL.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61CgkYAONJL._AC_.jpg",
     "priceMin": "$90",
     "priceMax": "$130",
     "category": "pets",
@@ -33424,7 +33424,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "shelandy-electric-grooming-table",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71JkShp3f0S._UL500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71JkShp3f0S.jpg",
     "priceMin": "$300",
     "priceMax": "$400",
     "category": "pets",
@@ -38726,7 +38726,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "winsome-wood-wine-rack",
-    "imageUrl": "https://mobileimages.lowes.com/productimages/c3f4cbad-5773-4a29-b7cf-beb5b4f6a74a/42264344.jpg?size=pdhism", // TODO: find stable imageUrl
+    "imageUrl": "https://m.media-amazon.com/images/I/71sFwZpaeYL._AC_SY879_.jpg", // TODO: find stable imageUrl
     "category": "home",
     "badge": "🌿 Best Farmhouse Style",
     "name": { "en": "Winsome Wood 6-Bottle Wine Rack", "ja": "ウィンサムウッド 6本用ワインラック" },
@@ -38810,7 +38810,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "michael-kors-slim-runway-watch",
-    "imageUrl": "https://product-images.therealreal.com/MIC274889_1_enlarged.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71SZg4i0rnL._AC_SL1500_.jpg",
     "priceMin": "$195",
     "priceMax": "$250",
     "category": "fashion",
@@ -41528,7 +41528,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "gen7pets-natural-step-ramp",
-    imageUrl: "https://m.media-amazon.com/images/I/61+oE0p0f4L._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61oJTpNTNTL._AC_SL1500_.jpg",
     category: "pets",
     name: { en: "Gen7pets Natural Step Ramp" },
     description: { en: "The Gen7Pets Natural Step Ramp is the pick for indoor, in-home use — helping dogs reach beds, sofas, and windows — with a focus on style and a gentle, stair-like design." },
@@ -43376,7 +43376,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tp-link-archer-ax21",
-    imageUrl: "https://m.media-amazon.com/images/I/71RLzjnVTRL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/614xyWFBJGL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Tp Link Archer Ax21" },
     description: { en: "The TP-Link Archer AX21 is the budget Wi-Fi 6 entry at around $70 — a dual-band AX1800 router that brings Wi-Fi 6 efficiency and the easy Tether-app setup to small homes and apart…" },
