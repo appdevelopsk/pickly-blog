@@ -147,5 +147,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "recommendedFor": [
+    {
+      "label": "Heavy lifters and barbell training",
+      "offerId": "harbinger-pro-wrist-wrap-gloves",
+      "reason": "Integrated wrist wraps add joint support during overhead press and heavy deadlifts — the only pick here that addresses wrist stability."
+    },
+    {
+      "label": "Budget-first gym beginners",
+      "offerId": "trideer-half-finger-gloves",
+      "reason": "Under $20 with solid grip padding — delivers the core protection of more expensive gloves without the upfront cost."
+    },
+    {
+      "label": "High-rep training and bootcamp users",
+      "offerId": "mechanix-wear-gym-gloves",
+      "reason": "Leather palm and double-stitched construction outperform standard gym gloves in abrasion resistance for sustained daily use."
+    },
+    {
+      "label": "Pull-up and gymnastic ring users",
+      "offerId": "bionic-premium-full-finger-gloves",
+      "reason": "Full-finger design protects the full hand during bar work and ring exercises where half-finger gloves leave the knuckles exposed."
+    },
+    {
+      "label": "Lifters who dislike the glove feel",
+      "offerId": "bear-grips-barehand-straps",
+      "reason": "Silicone grip pads cover only the palm — no fabric, no finger coverage, no sweaty glove feeling while still protecting calluses."
+    }
+  ]
 }
