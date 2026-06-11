@@ -5,11 +5,11 @@ import { listArticles, getArticle } from "@/lib/articles/registry";
 import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { ArticleBody } from "@/components/articles/ArticleBody";
-import { RelatedArticles } from "@/components/articles/RelatedArticles";
 import { ArticleCrossLinks } from "@/components/articles/ArticleCrossLinks";
 import { SisterSiteCta } from "@/components/SisterSiteCta";
-import { NewsletterForm } from "@/components/NewsletterForm";
 import { AffiliateClickTracker } from "@/components/AffiliateClickTracker";
+import { ScrollProgress } from "@/components/ScrollProgress";
+import { BackToTop } from "@/components/BackToTop";
 import { loadArticleContent, isArticleBodyTranslated } from "@/lib/i18n/loader";
 import type { ArticleContent } from "@/lib/articles/types";
 
@@ -228,6 +228,8 @@ export default async function ArticlePage({ params }: Props) {
 
   return (
     <>
+      <ScrollProgress />
+      <BackToTop />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       {faqSchema && (
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
@@ -240,10 +242,6 @@ export default async function ArticlePage({ params }: Props) {
       <div className="mx-auto max-w-3xl px-4 sm:px-6">
         {meta.category === "finance" && <SisterSiteCta />}
         <ArticleCrossLinks slug={slug} category={meta.category} />
-        <div className="my-10">
-          <NewsletterForm source="pickly-article" />
-        </div>
-        <RelatedArticles slug={slug} category={meta.category} locale={locale} />
       </div>
       <AffiliateClickTracker slug={slug} />
     </>
