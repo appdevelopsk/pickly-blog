@@ -41528,7 +41528,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "gen7pets-natural-step-ramp",
-    imageUrl: "",
+    imageUrl: "https://m.media-amazon.com/images/I/71Q3WS5SNIL._AC_SL1500_.jpg",
     category: "pets",
     name: { en: "Gen7pets Natural Step Ramp" },
     description: { en: "The Gen7Pets Natural Step Ramp is the pick for indoor, in-home use — helping dogs reach beds, sofas, and windows — with a focus on style and a gentle, stair-like design." },
@@ -43376,7 +43376,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tp-link-archer-ax21",
-    imageUrl: "",
+    imageUrl: "https://m.media-amazon.com/images/I/71RLzjnVTRL._AC_SL1500_.jpg",
     category: "tech",
     name: { en: "Tp Link Archer Ax21" },
     description: { en: "The TP-Link Archer AX21 is the budget Wi-Fi 6 entry at around $70 — a dual-band AX1800 router that brings Wi-Fi 6 efficiency and the easy Tether-app setup to small homes and apart…" },
