@@ -529,7 +529,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "yaman-medi-lift-plus",
-    imageUrl: undefined,
+    imageUrl: "https://www.ya-man.com/Contents/ProductImages/0/rr00630_LL.jpg",
     category: "beauty",
     price: "¥77,000",
     badge: "🇯🇵",
@@ -1889,7 +1889,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "philips-essential-xl-hd9270",
-    imageUrl: "https://m.media-amazon.com/images/P/B08SHR1QFS.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71Ffo+0FULL.jpg",
     category: "home",
     price: "¥29,800",
     badge: "🇳🇱",
@@ -2218,7 +2218,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "at-aroma-pebble",
-    imageUrl: "https://m.media-amazon.com/images/P/B07QTBZ3SC.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81ztDEs-EkL.jpg",
     category: "beauty",
     price: "¥14,300",
     badge: "🪴",
@@ -3002,7 +3002,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "elecom-ucam-cz30fbk",
-    imageUrl: "https://m.media-amazon.com/images/P/B078J9MR75.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61kwW55RnWL.jpg",
     category: "tech",
     price: "¥5,000",
     badge: "🇯🇵",
@@ -3252,7 +3252,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "tiger-acc-a060",
-    imageUrl: "https://m.media-amazon.com/images/P/B00EC5B59O.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71CnlTiYGnL.jpg",
     category: "home",
     price: "¥32,800",
     badge: "🐯",
@@ -3425,7 +3425,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "vitantonio-vbl-100",
-    imageUrl: "https://m.media-amazon.com/images/P/B0149TVR0E.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/419DyOdiB4L.jpg",
     category: "home",
     price: "¥7,500",
     badge: "🍓",
@@ -3455,7 +3455,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "oxo-on-compact-blender",
-    imageUrl: "https://m.media-amazon.com/images/P/B00YEYL8T0.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61HaGmIMOKL.jpg",
     category: "home",
     price: "¥39,800",
     badge: "🇺🇸",
@@ -3706,7 +3706,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "zojirushi-kongari-et-wma22",
-    imageUrl: "https://m.media-amazon.com/images/P/B074V3TXR1.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/6186eGcaXUL.jpg",
     category: "home",
     price: "¥9,900",
     badge: "💴",
@@ -4520,7 +4520,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "kai-wasabi-black-set",
-    imageUrl: "https://m.media-amazon.com/images/P/B002IIECME.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61uNmrK4JlL.jpg",
     category: "food",
     priceMin: "¥15,000",
     priceMax: "¥20,000",
@@ -4583,7 +4583,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "kitchenaid-kfp-0718",
-    imageUrl: "https://m.media-amazon.com/images/P/B07CZ5TF45.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61IqvPsizsL.jpg",
     category: "food",
     price: "¥20,000",
     badge: "🔴",
@@ -4599,7 +4599,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "delonghi-multifry-fp8260",
-    imageUrl: "https://m.media-amazon.com/images/P/B00YCP6OU4.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/91Zk9BCBNNL.jpg",
     category: "food",
     price: "¥20,000",
     badge: "🍲",
@@ -4971,7 +4971,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "cuisinart-csc-800",
-    imageUrl: "https://m.media-amazon.com/images/P/B0053WRWX8.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/41FuZkuKmSL.jpg",
     category: "food",
     badge: "🕐",
     name: { en: "Cuisinart CSC-800 3.5L Slow Cooker", ja: "クイジナート CSC-800 3.5Lスロークッカー" },
@@ -5050,7 +5050,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "bosch-mum5",
-    imageUrl: "https://m.media-amazon.com/images/P/B01B7HVW7O.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71WdxIQDQTL.jpg",
     category: "food",
     priceMin: "$399",
     priceMax: "$499",
@@ -5525,7 +5525,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "muji-organic-cotton-towel",
-    imageUrl: "https://m.media-amazon.com/images/P/B07C5L374F.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61CfCVs020L.jpg",
     category: "home",
     priceMin: "¥1,290",
     priceMax: "¥1,490",
@@ -5557,7 +5557,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "bamboo-bath-towel-set",
-    imageUrl: "https://m.media-amazon.com/images/P/B08WLG34X6.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/91ueNDug2jL.jpg",
     category: "home",
     badge: "🎋",
     name: { en: "Bamboo Bath Towel Set", ja: "竹繊維バスタオルセット" },
@@ -5907,7 +5907,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "fellow-stagg-ekg-kettle",
-    imageUrl: "https://image.biccamera.com/img/00000014129017_A01.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/51MfuBJO2BL.jpg",
     price: "$199.95",
     category: "food",
     badge: "☕",
@@ -5922,7 +5922,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "cuisinart-cpk17-kettle",
-    imageUrl: "https://m.media-amazon.com/images/P/B08CYBHW8K.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/516nUiqB-TL.jpg",
     category: "food",
     price: "$74.95",
     badge: "⚙️",
@@ -6215,12 +6215,12 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Fitness / Protein Shakers (best-protein-shaker-2026) ─────────
   { id: "blenderbottle-classic-v2", imageUrl: "https://www.blenderbottle.com/cdn/shop/files/Classic_V2_Black_Angled-400x600-426df4e_1.png?v=1762439978&width=600", category: "fitness", name: { en: "BlenderBottle Classic V2 Shaker Bottle", ja: "BlenderBottle クラシック V2 シェイカーボトル" }, description: { en: "28oz wire whisk ball shaker with click-lock flip-top lid and smooth BPA-free polypropylene interior. Industry-standard design with 316 stainless steel BlenderBall. Top-rack dishwasher safe.", ja: "ワイヤーボール式28ozシェイカー。カチッとロックするフリップトップ蓋、BPA不使用スムーズ内面ポリプロピレン。316ステンレス製ブレンダーボール採用の業界標準設計。上段食洗機対応。" }, links: [
       { network: "amazon-us", productId: "B01LX3S7TM", rawUrl: "https://www.amazon.com/dp/B01LX3S7TM", markets: ["US"], approved: true },{ network: "moshimo", productId: "rakuten-blenderbottle-classic-v2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBlenderBottle+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
-  { id: "hydra-cup-dual-shaker", imageUrl: "https://m.media-amazon.com/images/P/B011WKK49I.01._SCLZZZZZZZ_.jpg", category: "fitness", name: { en: "Hydra Cup Dual Shaker Bottle", ja: "Hydra Cup デュアルシェイカーボトル" }, description: { en: "Two full-size mixing cups in one unit — separate pre-workout and post-workout compartments, each with a wire whisk ball. For lifters who need both supplements on the same gym trip.", ja: "2つのフルサイズ混合カップが一体化。プレワークアウトとポストワークアウトを別コンパートメントに保管し、それぞれにワイヤーボール付き。同一セッションで両補給を行うリフター向け。" }, links: [
+  { id: "hydra-cup-dual-shaker", imageUrl: "https://m.media-amazon.com/images/I/51SC1AeKkcL.jpg", category: "fitness", name: { en: "Hydra Cup Dual Shaker Bottle", ja: "Hydra Cup デュアルシェイカーボトル" }, description: { en: "Two full-size mixing cups in one unit — separate pre-workout and post-workout compartments, each with a wire whisk ball. For lifters who need both supplements on the same gym trip.", ja: "2つのフルサイズ混合カップが一体化。プレワークアウトとポストワークアウトを別コンパートメントに保管し、それぞれにワイヤーボール付き。同一セッションで両補給を行うリフター向け。" }, links: [
       { network: "amazon-us", productId: "B01D6JWKSE", rawUrl: "https://www.amazon.com/dp/B01D6JWKSE", markets: ["US"], approved: true },{ network: "moshimo", productId: "rakuten-hydra-cup-dual-shaker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHydra+Cup+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
-  { id: "umoro-one-shaker", imageUrl: "https://m.media-amazon.com/images/P/B00NY3OHYA.01._SCLZZZZZZZ_.jpg", category: "fitness", name: { en: "Umoro One 2-in-1 Shaker Bottle", ja: "Umoro One 2-in-1 シェイカーボトル" }, description: { en: "Hidden water/supplement compartment built into the base — keeps the form factor of a standard single shaker while adding a ~150ml secondary chamber for pre-workout concentrate or dry creatine.", ja: "底部に隠し収納コンパートメントを内蔵。標準シェイカーに近いサイズを保ちながら、プレワークアウト濃縮液や乾燥クレアチン用に約150mlのセカンダリーチャンバーを追加。" }, links: [{ network: "moshimo", productId: "rakuten-umoro-one-shaker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUmoro+One+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
-  { id: "smartshake-original", imageUrl: "https://m.media-amazon.com/images/P/B07DJ2H9J5.01._SCLZZZZZZZ_.jpg", category: "fitness", name: { en: "Smartshake Original Shaker Bottle", ja: "Smartshake オリジナル シェイカーボトル" }, description: { en: "Three-compartment shaker: 600ml main mixing cup with disc agitator, mid-section powder storage for one pre-measured serving, and a base pill compartment for 5-8 capsules. Modular design for supplement stacking.", ja: "3コンパートメント設計：600mlメインカップ（ディスクアジテーター）、計量済み1服分のパウダー収納、5〜8粒対応のピルコンパートメント。サプリメントスタッキング向けモジュラー設計。" }, links: [
+  { id: "umoro-one-shaker", imageUrl: "https://m.media-amazon.com/images/I/71Uh6t5tZtL.jpg", category: "fitness", name: { en: "Umoro One 2-in-1 Shaker Bottle", ja: "Umoro One 2-in-1 シェイカーボトル" }, description: { en: "Hidden water/supplement compartment built into the base — keeps the form factor of a standard single shaker while adding a ~150ml secondary chamber for pre-workout concentrate or dry creatine.", ja: "底部に隠し収納コンパートメントを内蔵。標準シェイカーに近いサイズを保ちながら、プレワークアウト濃縮液や乾燥クレアチン用に約150mlのセカンダリーチャンバーを追加。" }, links: [{ network: "moshimo", productId: "rakuten-umoro-one-shaker", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUmoro+One+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
+  { id: "smartshake-original", imageUrl: "https://m.media-amazon.com/images/I/71PE6k-LzKL.jpg", category: "fitness", name: { en: "Smartshake Original Shaker Bottle", ja: "Smartshake オリジナル シェイカーボトル" }, description: { en: "Three-compartment shaker: 600ml main mixing cup with disc agitator, mid-section powder storage for one pre-measured serving, and a base pill compartment for 5-8 capsules. Modular design for supplement stacking.", ja: "3コンパートメント設計：600mlメインカップ（ディスクアジテーター）、計量済み1服分のパウダー収納、5〜8粒対応のピルコンパートメント。サプリメントスタッキング向けモジュラー設計。" }, links: [
       { network: "amazon-us", productId: "B00GLRFWB0", rawUrl: "https://www.amazon.com/dp/B00GLRFWB0", markets: ["US"], approved: true },{ network: "moshimo", productId: "rakuten-smartshake-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSmartshake+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
-  { id: "contigo-shake-go", imageUrl: "https://m.media-amazon.com/images/P/B00LX6VHM0.01._SCLZZZZZZZ_.jpg", category: "fitness", name: { en: "Contigo Shake & Go Fit Shaker Bottle", ja: "Contigo シェイク＆ゴー フィット シェイカーボトル" }, description: { en: "Wide-base vortex-mixing design with no blender ball — autoseal push-button lid closes automatically after each drink. Stable counter mixing, no rattling between shakes. Full lid disassembly required before dishwasher cycling.", ja: "ワイドベース渦流混合設計でブレンダーボール不要。オートシールプッシュボタン蓋が飲む度に自動で閉まる。カウンター上でのシェイクに安定感あり、シェイク間にカチカチ音なし。食洗機前にフタの完全分解が必要。" }, links: [
+  { id: "contigo-shake-go", imageUrl: "https://m.media-amazon.com/images/I/51X9HNjUk8L.jpg", category: "fitness", name: { en: "Contigo Shake & Go Fit Shaker Bottle", ja: "Contigo シェイク＆ゴー フィット シェイカーボトル" }, description: { en: "Wide-base vortex-mixing design with no blender ball — autoseal push-button lid closes automatically after each drink. Stable counter mixing, no rattling between shakes. Full lid disassembly required before dishwasher cycling.", ja: "ワイドベース渦流混合設計でブレンダーボール不要。オートシールプッシュボタン蓋が飲む度に自動で閉まる。カウンター上でのシェイクに安定感あり、シェイク間にカチカチ音なし。食洗機前にフタの完全分解が必要。" }, links: [
       { network: "amazon-us", productId: "B00YCHRV1G", rawUrl: "https://www.amazon.com/dp/B00YCHRV1G", markets: ["US"], approved: true },{ network: "moshimo", productId: "rakuten-contigo-shake-go", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FContigo+%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AB%E3%83%BC%2F", markets: ["JP"], approved: true }] },
   // ───────── Home / Ergonomic Footrests (best-ergonomic-footrest-2026) ─────────
   {
@@ -6450,7 +6450,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   // ───────── Food / Cold Brew Coffee Makers (best-cold-brew-coffee-maker-2026) ─────────
   {
     id: "toddy-cold-brew-system",
-    imageUrl: "https://m.media-amazon.com/images/P/B0006H0JVW.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61B3bQvILCL.jpg",
     category: "food",
     name: { en: "Toddy Cold Brew System", ja: "トッディ コールドブリューシステム" },
     description: {
@@ -6464,7 +6464,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "oxo-brew-compact-cold-brewer",
-    imageUrl: "https://m.media-amazon.com/images/P/B07HB3GH6W.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/51VnZF4qbIL.jpg",
     category: "food",
     price: "$33.93",
     name: { en: "OXO Brew Compact Cold Brewer", ja: "OXO ブリュー コンパクト コールドブリュワー" },
@@ -6491,7 +6491,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "county-line-kitchen-mason-jar",
-    imageUrl: "https://m.media-amazon.com/images/P/B07VJJJ764.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61do9BTzeKL.jpg",
     category: "food",
     name: { en: "County Line Kitchen Cold Brew Coffee Maker", ja: "カウンティライン・キッチン コールドブリューコーヒーメーカー" },
     description: {
@@ -6505,7 +6505,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "takeya-cold-brew-coffee-maker",
-    imageUrl: "https://m.media-amazon.com/images/P/B00FFLY64U.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71s5Zlt6JTL.jpg",
     category: "food",
     name: { en: "Takeya Cold Brew Coffee Maker", ja: "タケヤ コールドブリューコーヒーメーカー" },
     description: {
@@ -6660,7 +6660,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "hotel-collection-bath-rug",
-    imageUrl: "https://m.media-amazon.com/images/P/B00J5FKJ2U.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81WkQWChTyL.jpg",
     category: "home",
     priceMin: "$15",
     priceMax: "$30",
@@ -6703,7 +6703,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "escali-primo-kitchen-scale",
-    imageUrl: "https://m.media-amazon.com/images/P/B0007GAWRS.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/91qJshBauqL.jpg",
     category: "food",
     price: "$25",
     name: { en: "Escali Primo Digital Kitchen Scale", ja: "エスカリ プリモ デジタルキッチンスケール" },
@@ -6717,7 +6717,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "ozeri-pronto-kitchen-scale",
-    imageUrl: "https://m.media-amazon.com/images/P/B004164SRA.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81BD+2irwgL.jpg",
     category: "food",
     price: "$12.22",
     name: { en: "Ozeri Pronto Digital Multifunction Kitchen Scale", ja: "オゼリ プロント デジタル多機能キッチンスケール" },
@@ -6731,7 +6731,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "etekcity-kitchen-scale",
-    imageUrl: "https://m.media-amazon.com/images/P/B0113UZJE2.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/91YrLTBnMcL.jpg",
     category: "food",
     price: "$15.99",
     name: { en: "Etekcity Digital Kitchen Scale", ja: "エテックシティ デジタルキッチンスケール" },
@@ -6745,7 +6745,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "greater-goods-kitchen-scale",
-    imageUrl: "https://m.media-amazon.com/images/P/B07CSBYPGM.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71KtY6H4IlL.jpg",
     category: "food",
     price: "$11.95",
     name: { en: "Greater Goods Digital Kitchen Food Scale", ja: "グレーター・グッズ デジタルキッチンフードスケール" },
@@ -6797,7 +6797,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "satechi-travel-adapter",
-    imageUrl: "https://m.media-amazon.com/images/P/B00EZD5AFI.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/51puKFMTxNL.jpg",
     category: "tech",
     priceMin: "$49.99",
     priceMax: "$79.99",
@@ -6955,7 +6955,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "lodge-cast-iron-skillet",
-    imageUrl: "https://m.media-amazon.com/images/P/B001FSJNRW.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61UMrWB24rL.jpg",
     category: "food",
     price: "$29.90",
     name: { en: "Lodge L10SK3 12-Inch Cast Iron Skillet", ja: "ロッジ 12インチ スキレット" },
@@ -6996,7 +6996,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "camp-chef-cast-iron-skillet",
-    imageUrl: "https://m.media-amazon.com/images/P/B000AL3KGU.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71u6EdKKirL.jpg",
     category: "food",
     price: "$29.99",
     name: { en: "Camp Chef 12-Inch Cast Iron Skillet with Dual Handle", ja: "キャンプシェフ 12インチ ダブルハンドル スキレット" },
@@ -7010,7 +7010,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "victoria-cast-iron-skillet",
-    imageUrl: "https://m.media-amazon.com/images/P/B01726HDY0.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61z4Zv5HmEL.jpg",
     category: "food",
     name: { en: "Victoria 10-Inch Cast Iron Skillet", ja: "ビクトリア 10インチ スキレット" },
     description: {
@@ -7111,7 +7111,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "rubbermaid-brilliance-containers",
-    imageUrl: "https://m.media-amazon.com/images/P/B01JCNEJSO.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61kUvD4h1sL.jpg",
     category: "food",
     price: "$29.99",
     name: { en: "Rubbermaid Brilliance Food Storage Containers", ja: "ラバーメイド ブリリアンス 保存容器セット" },
@@ -7125,7 +7125,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "pyrex-simply-store-set",
-    imageUrl: "https://m.media-amazon.com/images/P/B0157G34AY.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71jpjc4S-uL.jpg",
     category: "food",
     price: "$37.99",
     name: { en: "Pyrex Simply Store Glass Food Storage Set", ja: "パイレックス シンプリーストア ガラス保存容器セット" },
@@ -7139,7 +7139,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "bentgo-glass-prep-set",
-    imageUrl: "https://m.media-amazon.com/images/P/B0BQRY56YX.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61JYHxsX6ZL.jpg",
     category: "food",
     price: "$39.99",
     name: { en: "Bentgo Glass Meal Prep Set with Compartments", ja: "ベントゴー ガラス仕切り付き作り置き容器セット" },
@@ -7153,7 +7153,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "weesprout-glass-containers",
-    imageUrl: "https://m.media-amazon.com/images/P/B08LYNKHYH.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71GBeigcESL.jpg",
     category: "food",
     price: "$29.98",
     name: { en: "WeeSprout Glass Food Storage Containers with Hinge-Lock Lids", ja: "ウィースプラウト ヒンジロック蓋付きガラス保存容器" },
@@ -9355,7 +9355,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "jade-leaf-ceremonial-matcha",
-    imageUrl: "https://www.jadeleafmatcha.com/cdn/shop/files/Teahouse-Tin-Mockup-White-30g-FRONT_1.png",
+    imageUrl: "https://m.media-amazon.com/images/I/61X2Qo2jr2L.jpg",
     price: "$26.99",
     category: "food",
     name: { en: "Jade Leaf Organic Ceremonial Matcha", ja: "Jade Leaf オーガニック抹茶（儀式用グレード）" },
@@ -9627,7 +9627,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "elite-fts-gymnastic-rings",
-    imageUrl: "https://m.media-amazon.com/images/P/B00G8UJZBQ.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81-m-jTH7TL.jpg",
     category: "fitness",
     priceMin: "$30",
     priceMax: "$60",
@@ -10441,7 +10441,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "kevita-acv-tonic",
-    imageUrl: "https://m.media-amazon.com/images/P/B018O4TVVW.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71nYcndQMVL.jpg",
     category: "food",
     price: "$3.99",
     name: { en: "Kevita Apple Cider Vinegar Tonic", ja: "Kevita アップルサイダービネガートニック" },
@@ -13520,7 +13520,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "nuwave-precision-induction-2-cooktop",
-    imageUrl: "https://m.media-amazon.com/images/P/B01N94TD1V.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/91y88JCRr+L.jpg",
     category: "food",
     price: "$69.99",
     badge: "precision-pick",
@@ -13760,7 +13760,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "kitchenaid-salad-spinner-ksgss5",
-    imageUrl: "https://m.media-amazon.com/images/P/B09S6TZ69R.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61MbCWW0mNL.jpg",
     category: "food",
     price: "$69.99",
     badge: "premium-pick",
@@ -16389,7 +16389,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "valor-fitness-bd-62-dip-bar",
-    imageUrl: "https://m.media-amazon.com/images/P/B00B29E0HM.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71kv8hXL2BL.jpg",
     category: "fitness",
     price: "~$80",
     badge: "💪",
@@ -17094,7 +17094,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "fellow-stagg-ekg-kettle",
-    imageUrl: "https://m.media-amazon.com/images/P/B077JBQZPX.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/51MfuBJO2BL.jpg",
     category: "food",
     price: "~$150",
     badge: "☕",
@@ -17377,7 +17377,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "rep-fitness-preacher-curl-bench",
-    imageUrl: "https://m.media-amazon.com/images/P/B00DZ3P9NW.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/71PAWM9gf2L.jpg",
     category: "fitness",
     price: "~$130",
     badge: "💪",
@@ -19071,7 +19071,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "two-leaves-genmaicha",
-    imageUrl: "https://m.media-amazon.com/images/P/B00F9WMXL8.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61w45O10t-L.jpg",
     category: "food",
     price: "$8.99",
     badge: "初心者向け玄米茶",
@@ -19091,7 +19091,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "ippodo-gyokuro",
-    imageUrl: "https://ippodotea.com/cdn/shop/files/ippodo-tea-kanro-gyokuro-winter-package.png?crop=center&height=600&v=1769101452&width=600",
+    imageUrl: "https://m.media-amazon.com/images/I/61ytMlRiUVL.jpg",
     price: "$28",
     category: "food",
     badge: "玉露プレミアム",
@@ -19470,7 +19470,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "jade-leaf-ceremonial-matcha",
-    imageUrl: "https://m.media-amazon.com/images/P/B014LT0712.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61X2Qo2jr2L.jpg",
     category: "food",
     price: "$26.99",
     badge: "Best Value Ceremonial",
@@ -19814,7 +19814,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "ippodo-gyokuro",
-    imageUrl: "https://m.media-amazon.com/images/P/B003KYSO9M.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61ytMlRiUVL.jpg",
     category: "food",
     price: "$28",
     badge: "Best Japanese Green Cold Brew",
@@ -20311,7 +20311,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   {
     id: "choice-organic-peppermint",
-    imageUrl: "https://m.media-amazon.com/images/P/B000FV8KQU.01._SCLZZZZZZZ_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/A10b-932HSL.jpg",
     category: "food",
     price: "$6.89",
     badge: "Best Everyday Organic",

@@ -8801,7 +8801,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "plant-protein-savas-soy-jp",
-    "imageUrl": "",
+    "imageUrl": "https://goodsofjapan.com/cdn/shop/files/81CjPijk3uL._AC_US1500_300x300.jpg",
     "priceMin": "2000",
     "priceMax": "5000",
     "category": "food",
@@ -8983,7 +8983,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "portable-fan-dyson-pure-cool-me",
-    "imageUrl": "",
+    "imageUrl": "https://datavision.com/cdn/shop/products/33ee4650-63cf-474a-b826-801c7c00874d.jpg",
     "priceMin": "300",
     "priceMax": "400",
     "category": "home",
@@ -14028,7 +14028,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "chase-sapphire-reserve",
-    "imageUrl": "",
+    "imageUrl": "https://creditcards.chase.com/content/dam/jpmc-marketplace/card-art/sapphire_reserve_card_Halo.png",
     "priceMin": "$795",
     "priceMax": "$795",
     "category": "finance",
@@ -17564,7 +17564,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hermes-carre-90",
-    "imageUrl": "",
+    "imageUrl": "https://shop.simon.com/cdn/shop/files/d44fa42d474d4a6eb455e6bca2ba4b54_d4e004ec-99b0-48c1-998c-ce20a22f79ee.jpg",
     "priceMin": "$495",
     "priceMax": "$595",
     "category": "fashion",
@@ -18058,7 +18058,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cash-app-taxes",
-    "imageUrl": "",
+    "imageUrl": "https://download.logo.wine/logo/Cash_App/Cash_App-Logo.wine.png",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -31968,7 +31968,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "chime-credit-builder-card",
-    "imageUrl": "",
+    "imageUrl": "https://www.chime.com/_ctf-img/ao7gxs2zk32d/10Ej9KrmH2FXfuGLvqa7JT/c33b83d0b36c10ccdab5d4cd2ce8d6bc/Get-Your-Cash-Back-Card.png",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -35452,7 +35452,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "the-hartford-bop",
-    "imageUrl": "",
+    "imageUrl": "https://1000logos.net/wp-content/uploads/2025/03/Hartford-Insurance-Logo.png",
     "priceMin": "$40",
     "priceMax": "$300",
     "category": "finance",
@@ -36934,7 +36934,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "thrivent-long-term-care",
-    "imageUrl": "",
+    "imageUrl": "https://filecache.mediaroom.com/mr5mr_thrivent/177412/Thrivent-logo-thumbnail.jpg",
     "priceMin": "$100",
     "priceMax": "$600",
     "category": "finance",
