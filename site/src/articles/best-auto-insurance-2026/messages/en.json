@@ -119,5 +119,32 @@
     "usaa-auto": "Quote at usaa.com — eligibility check first. Includes free roadside assistance for select members.",
     "liberty-mutual-auto": "Quote at libertymutual.com. RightTrack telematics is opt-in."
   },
-  "pinDescription": "Best auto insurance 2026: Geico vs Progressive vs State Farm vs USAA vs Liberty Mutual — real quotes for same driver/car across 5 states. #autoinsurance"
+  "pinDescription": "Best auto insurance 2026: Geico vs Progressive vs State Farm vs USAA vs Liberty Mutual — real quotes for same driver/car across 5 states. #autoinsurance",
+  "recommendedFor": [
+    {
+      "label": "Budget-conscious drivers with a clean record",
+      "offerId": "geico-auto",
+      "reason": "Geico's $1,380 average premium is the cheapest mainstream option, and DriveEasy telematics can trim it further for careful drivers."
+    },
+    {
+      "label": "Gig workers and rideshare drivers",
+      "offerId": "progressive-auto",
+      "reason": "Progressive offers the strongest rideshare coverage availability and its Snapshot telematics can cut premiums 10-30% for data-sharing drivers."
+    },
+    {
+      "label": "Homeowners who want to bundle policies",
+      "offerId": "state-farm-auto",
+      "reason": "State Farm's 25% home + auto bundle discount and local agent network make it the clear winner for multi-policy households."
+    },
+    {
+      "label": "Active military members and veterans",
+      "offerId": "usaa-auto",
+      "reason": "USAA's $980 average premium is the lowest in the test, and its JD Power #1 satisfaction rating means fewer headaches at claim time."
+    },
+    {
+      "label": "New drivers nervous about their first accident",
+      "offerId": "liberty-mutual-auto",
+      "reason": "Liberty Mutual includes accident forgiveness and a diminishing deductible at no extra cost, protecting first-time claimants from rate spikes."
+    }
+  ]
 }

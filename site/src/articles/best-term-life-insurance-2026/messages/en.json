@@ -120,5 +120,32 @@
     "fabric-by-gerber-life": "Apply at meetfabric.com. Child rider is an add-on for parents.",
     "policygenius-term-marketplace": "Apply at policygenius.com. Marketplace — they shop 20+ carriers for you."
   },
-  "pinDescription": "Best term life insurance 2026: Haven Life vs Ladder vs Ethos vs Fabric vs Policygenius — same 35yo, real quotes, underwriting speed tested. #termlife #insurance"
+  "pinDescription": "Best term life insurance 2026: Haven Life vs Ladder vs Ethos vs Fabric vs Policygenius — same 35yo, real quotes, underwriting speed tested. #termlife #insurance",
+  "recommendedFor": [
+    {
+      "label": "Young parents who just had their first child",
+      "offerId": "fabric-by-gerber-life",
+      "reason": "Fabric includes a built-in will-writing tool and a child rider add-on, making it purpose-built for new parents securing their family's future."
+    },
+    {
+      "label": "Healthy adults who need coverage fast this week",
+      "offerId": "ladder-life",
+      "reason": "Ladder approves up to $3M instantly with no medical exam, covering you in as little as 24 hours — the fastest application-to-coverage in our test."
+    },
+    {
+      "label": "Budget-conscious earners buying their first policy",
+      "offerId": "ethos-life-insurance",
+      "reason": "At $28/mo for $500k 20-year coverage, Ethos was the cheapest algorithmic option in our test, with instant decisions and no medical exam for healthy applicants."
+    },
+    {
+      "label": "Applicants with diabetes, blood pressure, or prior conditions",
+      "offerId": "policygenius-term-marketplace",
+      "reason": "Policygenius shops 20+ traditional carriers who apply nuanced medical underwriting, giving complex-health applicants the best shot at approval and competitive rates."
+    },
+    {
+      "label": "Professionals wanting a financially rock-solid insurer",
+      "offerId": "haven-life-term",
+      "reason": "Haven Life is backed by MassMutual, one of the highest-rated insurers in the US, combining algorithmic speed with the financial strength of a 170-year-old company."
+    }
+  ]
 }

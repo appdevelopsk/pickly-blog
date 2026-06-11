@@ -97,5 +97,32 @@
     "discover-online-savings": "Sign up via Discover it cardholder for $50 referral bonus.",
     "capital-one-360-performance": "Pair with Capital One 360 Checking for full ecosystem (free wires, no fees)."
   },
-  "pinDescription": "Five high-yield savings accounts compared with $50K. We tracked APY, transfer speeds in/out, and which one's customer service actually answered. Marcus vs. Ally vs. SoFi vs. Discover vs. Capital One 360."
+  "pinDescription": "Five high-yield savings accounts compared with $50K. We tracked APY, transfer speeds in/out, and which one's customer service actually answered. Marcus vs. Ally vs. SoFi vs. Discover vs. Capital One 360.",
+  "recommendedFor": [
+    {
+      "label": "Savers who want maximum yield without hoops",
+      "offerId": "marcus-online-savings",
+      "reason": "Marcus delivers 4.40% APY unconditionally — no direct deposit requirement or qualifying activities to track."
+    },
+    {
+      "label": "Goal-oriented savers managing multiple financial targets",
+      "offerId": "ally-online-savings",
+      "reason": "Ally's Buckets feature lets you label and separate funds for different goals inside one account without opening multiple accounts."
+    },
+    {
+      "label": "Salaried employees with steady direct deposit paycheck",
+      "offerId": "sofi-checking-savings",
+      "reason": "SoFi's 4.60% APY — the highest on this list — is locked in automatically for anyone with a recurring direct deposit, plus a $300 signup bonus."
+    },
+    {
+      "label": "Older savers who prefer phone support over digital help",
+      "offerId": "discover-online-savings",
+      "reason": "Discover's 24/7 US-based phone support means a real person answers any time — no chatbot maze or callback queues."
+    },
+    {
+      "label": "Hybrid bankers who occasionally need in-person service",
+      "offerId": "capital-one-360-performance",
+      "reason": "Capital One 360 is the only HYSA here with physical café branches, so you can walk in when you need face-to-face help without sacrificing online-bank rates."
+    }
+  ]
 }

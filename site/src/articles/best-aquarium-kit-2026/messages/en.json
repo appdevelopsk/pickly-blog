@@ -97,5 +97,32 @@
     "tetra-aquarium-20-gallon": "Upgrade the Whisper 20 filter to a Whisper 40 ($30) for cleaner water in stocked community tanks.",
     "fluval-spec-v-5-gallon": "Add Fluval submersible heater 50W for tropical setups; not needed for ramshorn snails."
   },
-  "pinDescription": "Five aquarium kits set up, cycled, and stocked with fish for six months. Filter noise measured in dB, mortality tracked, LED color quality compared. Here's the kit that survived a community of 15 fish — and the quietest nano tank."
+  "pinDescription": "Five aquarium kits set up, cycled, and stocked with fish for six months. Filter noise measured in dB, mortality tracked, LED color quality compared. Here's the kit that survived a community of 15 fish — and the quietest nano tank.",
+  "recommendedFor": [
+    {
+      "label": "First-time fish keepers on a tight budget",
+      "offerId": "aqueon-led-mini-bow-5",
+      "reason": "At $60-90, the MiniBow 5 lets you test the hobby without a large commitment before upgrading."
+    },
+    {
+      "label": "Remote workers with a fish tank on their desk",
+      "offerId": "marineland-portrait-5-gallon",
+      "reason": "The vertical portrait design and hidden filtration fit a desk corner without cluttering your workspace."
+    },
+    {
+      "label": "Hobbyists who want a serious mid-size community tank",
+      "offerId": "fluval-flex-15-gallon",
+      "reason": "App-controlled LED with sunrise/sunset and zero fish mortality over 6 months makes it the reliable all-rounder."
+    },
+    {
+      "label": "Families setting up a living-room community aquarium",
+      "offerId": "tetra-aquarium-20-gallon",
+      "reason": "The 20-gallon volume comfortably houses 10-15 community fish, and the Whisper filter parts are easy to find anywhere."
+    },
+    {
+      "label": "Shrimp keepers and betta enthusiasts wanting a show tank",
+      "offerId": "fluval-spec-v-5-gallon",
+      "reason": "Etched seamless glass, 7000K LED, and the quietest filter tested (32 dB) make it the premium nano display piece."
+    }
+  ]
 }

@@ -121,5 +121,32 @@
     "blue-cross-blue-shield-medicare-supplement": "Quote at bcbs.com — pricing varies dramatically by state BCBS.",
     "united-healthcare-aarp-medicare-supplement": "Quote at aarpmedicaresupplement.com — AARP endorsement required (AARP membership $16/year)."
   },
-  "pinDescription": "Best Medicare Supplement 2026: Mutual of Omaha vs Aetna vs Humana vs BCBS vs UnitedHealthcare AARP — Plan G quoted across 3 states. #medicaresupplement"
+  "pinDescription": "Best Medicare Supplement 2026: Mutual of Omaha vs Aetna vs Humana vs BCBS vs UnitedHealthcare AARP — Plan G quoted across 3 states. #medicaresupplement",
+  "recommendedFor": [
+    {
+      "label": "Retirees who prioritize long-term premium stability",
+      "offerId": "mutual-of-omaha-medicare-supplement",
+      "reason": "Mutual of Omaha's A+ AM Best rating and mutual company structure make it the safest long-term bet for buyers who plan to hold their policy for decades."
+    },
+    {
+      "label": "Active seniors who exercise and use hearing or vision care",
+      "offerId": "aetna-medicare-supplement",
+      "reason": "Aetna bundles SilverSneakers gym membership plus hearing aid and vision discounts — extras that offset its premium cost for health-conscious seniors."
+    },
+    {
+      "label": "Snowbirds and seniors who travel between multiple states",
+      "offerId": "blue-cross-blue-shield-medicare-supplement",
+      "reason": "BCBS holds the largest provider network in most states, so you'll find in-network doctors whether you're wintering in Florida or spending summers up north."
+    },
+    {
+      "label": "Budget-conscious new Medicare enrollees on fixed income",
+      "offerId": "humana-medicare-supplement",
+      "reason": "Humana's mid-tier pricing ($145-200/mo) and wide state availability make it a reliable entry point without overpaying for bundled extras you may not use."
+    },
+    {
+      "label": "AARP members who want the most recognized national brand",
+      "offerId": "united-healthcare-aarp-medicare-supplement",
+      "reason": "UnitedHealthcare's AARP endorsement, A+ AM Best rating, and Renew Active program appeal to seniors who want a household name with built-in wellness perks."
+    }
+  ]
 }

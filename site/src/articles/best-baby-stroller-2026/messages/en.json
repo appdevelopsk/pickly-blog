@@ -97,5 +97,32 @@
     "mockingbird-single-to-double": "Single-to-double kit ($150) is best bought at purchase — bundled shipping savings.",
     "doona-x-infant-car-seat": "Original Doona is still sold cheaper but X is meaningfully lighter — pay the premium."
   },
-  "pinDescription": "Five baby strollers tested over six months. Fold times measured, gate-checks survived, and tire wear tracked. Here's which stroller actually fits real life — and which one becomes a $1K landfill in 18 months."
+  "pinDescription": "Five baby strollers tested over six months. Fold times measured, gate-checks survived, and tire wear tracked. Here's which stroller actually fits real life — and which one becomes a $1K landfill in 18 months.",
+  "recommendedFor": [
+    {
+      "label": "Parents planning a second child within five years",
+      "offerId": "uppababy-vista-v3",
+      "reason": "The Vista V3 converts to a double or triple stroller with add-on kits, spreading its $1,099 cost across two children and cutting net cost vs. buying separately."
+    },
+    {
+      "label": "Families living on cobblestone streets or unpaved paths",
+      "offerId": "bugaboo-fox-5",
+      "reason": "Foam-filled tires never go flat on rough terrain, and the magnesium chassis absorbs vibration — the only stroller here built for genuinely bad surfaces."
+    },
+    {
+      "label": "First-time parents wanting premium feel on a tight budget",
+      "offerId": "nuna-mixx-next",
+      "reason": "At $800, the Nuna Mixx Next delivers large all-terrain wheels and a clever magnetic harness without crossing the $1K+ threshold of Vista or Bugaboo."
+    },
+    {
+      "label": "Budget-conscious parents who may need a double stroller later",
+      "offerId": "mockingbird-single-to-double",
+      "reason": "Direct-to-consumer pricing saves $400+ over a comparable Vista, and a $150 second-seat kit unlocks the same dual-stroller capability if a sibling arrives."
+    },
+    {
+      "label": "Frequent travelers and Uber-dependent urban parents",
+      "offerId": "doona-x-infant-car-seat",
+      "reason": "The Doona X flips from FAA-approved car seat to stroller in one second, eliminating the need to haul both a seat and a frame through airports or rideshares."
+    }
+  ]
 }

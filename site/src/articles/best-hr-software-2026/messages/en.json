@@ -120,5 +120,32 @@
     "workday-hcm": "Quote at workday.com — requires sales call + implementation partner.",
     "deel-hr": "Sign up at deel.com — instant onboarding for contractors."
   },
-  "pinDescription": "Best HR software 2026: BambooHR vs Rippling vs Gusto vs Workday vs Deel — same 75-person company tested, onboarding speed + cost data. #hr #saas"
+  "pinDescription": "Best HR software 2026: BambooHR vs Rippling vs Gusto vs Workday vs Deel — same 75-person company tested, onboarding speed + cost data. #hr #saas",
+  "recommendedFor": [
+    {
+      "label": "Solo HR managers at growing SMBs under 200 people",
+      "offerId": "bamboohr-essentials",
+      "reason": "BambooHR's best-in-class UX and employee self-service let one HR person manage the full lifecycle without burning out."
+    },
+    {
+      "label": "Tech startups onboarding engineers with software stacks",
+      "offerId": "rippling-platform",
+      "reason": "Rippling auto-provisions Slack, GitHub, and equipment in 25 minutes — eliminating the manual IT coordination burden on every new hire."
+    },
+    {
+      "label": "Small business owners who prioritize payroll accuracy",
+      "offerId": "gusto-hr-plus",
+      "reason": "Gusto bundles payroll and growing HR features at a price point that saves money for teams under 100 where payroll is the core need."
+    },
+    {
+      "label": "HR leaders at enterprises with 500-plus employees",
+      "offerId": "workday-hcm",
+      "reason": "Workday's succession planning, learning management, and advanced analytics justify the $30k+ implementation cost only at true enterprise scale."
+    },
+    {
+      "label": "Remote-first founders hiring contractors across multiple countries",
+      "offerId": "deel-hr",
+      "reason": "Deel handles compliance, contracts, and payroll across 150+ countries, making global hiring legally straightforward without a local entity."
+    }
+  ]
 }

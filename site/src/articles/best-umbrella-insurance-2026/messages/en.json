@@ -118,5 +118,32 @@
     "rli-personal-umbrella": "Quote through independent agents — RLI doesn't sell direct.",
     "chubb-masterpiece-umbrella": "Quote through Chubb advisors. HNW client onboarding."
   },
-  "pinDescription": "Best umbrella insurance 2026: Geico vs State Farm vs USAA vs RLI vs Chubb — same family profile, real $1M-5M quotes. #umbrellainsurance"
+  "pinDescription": "Best umbrella insurance 2026: Geico vs State Farm vs USAA vs RLI vs Chubb — same family profile, real $1M-5M quotes. #umbrellainsurance",
+  "recommendedFor": [
+    {
+      "label": "Cost-conscious families already insured with Geico",
+      "offerId": "geico-umbrella",
+      "reason": "Geico's $200-250/yr $1M premium is the cheapest mainstream rate, rewarding existing Geico auto+home bundlers with the lowest barrier to entry."
+    },
+    {
+      "label": "Homeowners with State Farm auto and home policies",
+      "offerId": "state-farm-umbrella",
+      "reason": "State Farm bundlers get a bundled discount and access to a local agent for claims support, making this the natural add-on to an existing State Farm relationship."
+    },
+    {
+      "label": "Active duty military members and veteran families",
+      "offerId": "usaa-umbrella",
+      "reason": "USAA's $150-200/yr $1M rate is the absolute lowest premium available, combined with JD Power's #1 customer satisfaction rating for those who qualify."
+    },
+    {
+      "label": "Multi-carrier policyholders who won't switch insurers",
+      "offerId": "rli-personal-umbrella",
+      "reason": "RLI is the only standalone umbrella that requires no bundled underlying policies, letting you layer $1M+ coverage on top of any auto or home carrier you already use."
+    },
+    {
+      "label": "High-net-worth individuals with $1M-plus in assets",
+      "offerId": "chubb-masterpiece-umbrella",
+      "reason": "Chubb Masterpiece offers $5M-50M tiers with white-glove claim service and specialized coverages like board liability and defamation that standard umbrellas exclude."
+    }
+  ]
 }

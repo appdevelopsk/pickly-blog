@@ -116,5 +116,32 @@
     "anker-magnetic-magsafe-power-bank": "Available at anker.com, Amazon. The 'MagGo' line supports MagSafe — verify model is MagSafe-compatible.",
     "iniu-portable-charger": "Available at iniushop.com, Amazon. Subscribe & Save discount typically 10-15%."
   },
-  "pinDescription": "Best travel portable charger 2026: Anker 737 vs. Anker 313 vs. RAVPower PD Pioneer vs. Anker MagGo vs. INIU. #portablecharger"
+  "pinDescription": "Best travel portable charger 2026: Anker 737 vs. Anker 313 vs. RAVPower PD Pioneer vs. Anker MagGo vs. INIU. #portablecharger",
+  "recommendedFor": [
+    {
+      "label": "Road warriors who carry laptops on every trip",
+      "offerId": "anker-power-bank-737",
+      "reason": "140W PD output charges a MacBook Pro alongside your phone — one brick replaces your laptop charger entirely."
+    },
+    {
+      "label": "Weekend travelers who want light backup power",
+      "offerId": "anker-power-bank-313",
+      "reason": "Compact enough to pocket with 10,000mAh for 2-3 phone top-ups, all at a $30-50 price that doesn't sting if lost."
+    },
+    {
+      "label": "Long-haul backpackers on multi-day itineraries",
+      "offerId": "ravpower-pd-pioneer",
+      "reason": "26,800mAh squeezes the maximum TSA-legal capacity into one brick, delivering 7+ phone charges before needing a wall outlet."
+    },
+    {
+      "label": "iPhone users who hate fumbling with cables",
+      "offerId": "anker-magnetic-magsafe-power-bank",
+      "reason": "MagSafe magnetically snaps to any iPhone 12+ so you charge wire-free while the phone stays in your hand or pocket."
+    },
+    {
+      "label": "Budget-conscious students studying abroad",
+      "offerId": "iniu-portable-charger",
+      "reason": "At $20-30 with a slim profile and 10,000mAh, it covers daily top-ups without adding weight or blowing a tight travel budget."
+    }
+  ]
 }

@@ -114,5 +114,32 @@
     "tetra-ht-heater": "Available at tetra-fish.com, PetSmart, Petco, Amazon. Pre-set to 78°F — no adjustment.",
     "hygger-titanium-heater": "Available at hyggeraquarium.com, Amazon. Multiple wattages — 300W and 500W are common for medium-large tanks."
   },
-  "pinDescription": "Best fish tank heater 2026: Fluval E Electronic vs. Eheim Jager vs. Aqueon Pro vs. Tetra HT vs. hygger Titanium. #aquariumheater"
+  "pinDescription": "Best fish tank heater 2026: Fluval E Electronic vs. Eheim Jager vs. Aqueon Pro vs. Tetra HT vs. hygger Titanium. #aquariumheater",
+  "recommendedFor": [
+    {
+      "label": "Discus and planted tank hobbyists needing tight temperature control",
+      "offerId": "fluval-e-electronic-heater",
+      "reason": "The 0.5°F precision and real-time LCD display catch drift before sensitive species are stressed."
+    },
+    {
+      "label": "Experienced freshwater keepers who want proven reliability",
+      "offerId": "eheim-jager-200w",
+      "reason": "Decades of German-engineered field use make the Jager the low-drama workhorse for seasoned hobbyists."
+    },
+    {
+      "label": "Mid-budget freshwater aquarists wanting safety features",
+      "offerId": "aqueon-pro-heater",
+      "reason": "Shatter-proof construction and auto-shutoff on low water provide peace of mind without Fluval's price tag."
+    },
+    {
+      "label": "First-time fish owners setting up a community starter tank",
+      "offerId": "tetra-ht-heater",
+      "reason": "Plug-in-and-forget preset 78°F means no dials to misconfigure — ideal for 10-40 gallon beginner setups."
+    },
+    {
+      "label": "Saltwater reef and large-tank keepers prioritizing durability",
+      "offerId": "hygger-titanium-heater",
+      "reason": "Titanium resists salt corrosion and the external controller lets you adjust temperature without reaching into the tank."
+    }
+  ]
 }

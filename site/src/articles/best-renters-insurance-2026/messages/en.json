@@ -122,5 +122,32 @@
     "geico-renters": "Quote at geico.com. Underwriter varies by state — read the actual policy after binding.",
     "usaa-renters": "Quote at usaa.com. Eligibility check first (military/veteran/family)."
   },
-  "pinDescription": "Best renters insurance 2026: Lemonade vs State Farm vs Allstate vs Geico vs USAA — 3 real claims tested, claim speed + payout data. #rentersinsurance #insurance"
+  "pinDescription": "Best renters insurance 2026: Lemonade vs State Farm vs Allstate vs Geico vs USAA — 3 real claims tested, claim speed + payout data. #rentersinsurance #insurance",
+  "recommendedFor": [
+    {
+      "label": "Tech-savvy renters who prefer app-only self-service",
+      "offerId": "lemonade-renters",
+      "reason": "Lemonade's AI claims pay out in 3 days via app — no phone calls, no agents, full digital workflow."
+    },
+    {
+      "label": "Current State Farm or Allstate auto insurance customers",
+      "offerId": "state-farm-renters",
+      "reason": "The 10% bundle discount drops the premium to $15.30/mo, beating standalone competitors while keeping one insurer."
+    },
+    {
+      "label": "Frequent travelers who carry valuables abroad",
+      "offerId": "allstate-renters",
+      "reason": "Allstate paid the full $800 lost-luggage claim with no depreciation cut — the strongest off-premises coverage tested."
+    },
+    {
+      "label": "Budget-conscious renters without an existing auto policy",
+      "offerId": "geico-renters",
+      "reason": "At $14/mo with no auto bundle required, Geico is the cheapest standalone option open to everyone."
+    },
+    {
+      "label": "Active duty military, veterans, and their families",
+      "offerId": "usaa-renters",
+      "reason": "USAA's $11/mo is the lowest premium tested, backed by top customer satisfaction and 5-day claim turnaround."
+    }
+  ]
 }

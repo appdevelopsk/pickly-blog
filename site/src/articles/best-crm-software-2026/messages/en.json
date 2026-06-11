@@ -122,5 +122,32 @@
     "zoho-crm-enterprise": "Sign up at zoho.com — 15-day free trial.",
     "monday-sales-crm": "Sign up at monday.com — free for 2 users."
   },
-  "pinDescription": "Best CRM software 2026: HubSpot vs Salesforce vs Pipedrive vs Zoho vs Monday — same 12-person team tested, adoption + ramp-up data. #crm #sales"
+  "pinDescription": "Best CRM software 2026: HubSpot vs Salesforce vs Pipedrive vs Zoho vs Monday — same 12-person team tested, adoption + ramp-up data. #crm #sales",
+  "recommendedFor": [
+    {
+      "label": "Small business owners wearing every hat",
+      "offerId": "hubspot-crm-pro",
+      "reason": "HubSpot's free tier and unified marketing-sales-service hub let lean teams run campaigns and close deals without switching tools."
+    },
+    {
+      "label": "Enterprise sales ops teams with dedicated admins",
+      "offerId": "salesforce-sales-cloud-pro",
+      "reason": "Salesforce's AppExchange and infinite customization handle complex multi-stage pipelines at 50+ reps where no other platform scales."
+    },
+    {
+      "label": "Outbound SDR teams focused purely on pipeline",
+      "offerId": "pipedrive-advanced",
+      "reason": "Pipedrive's visual drag-and-drop pipeline lets reps log their first deal in under a day, keeping daily active usage at 88%."
+    },
+    {
+      "label": "Cost-conscious startups maximizing features per dollar",
+      "offerId": "zoho-crm-enterprise",
+      "reason": "Zoho Enterprise costs $40/user/mo and matches Salesforce Professional features, plus unlocks 40+ Zoho One apps at no extra cost."
+    },
+    {
+      "label": "Project-driven teams already running Monday.com",
+      "offerId": "monday-sales-crm",
+      "reason": "Monday Sales CRM shares the same visual board workflow, so teams that think in tasks naturally translate that into deal tracking."
+    }
+  ]
 }

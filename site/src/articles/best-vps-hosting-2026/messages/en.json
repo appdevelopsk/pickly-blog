@@ -122,5 +122,32 @@
     "hetzner-cloud-cpx": "Sign up at hetzner.com — KYC verification adds 1-2 days to account approval. EU-based teams will not regret it.",
     "aws-lightsail": "Sign up at aws.amazon.com — free tier for 3 months on smaller plans. Read the bandwidth pricing carefully before going to production."
   },
-  "pinDescription": "Best VPS hosting 2026: DigitalOcean vs Vultr vs Linode vs Hetzner vs AWS Lightsail benchmarked on the same Node.js app for 60 days. Real latency and price-per-spec data. #vps #hosting"
+  "pinDescription": "Best VPS hosting 2026: DigitalOcean vs Vultr vs Linode vs Hetzner vs AWS Lightsail benchmarked on the same Node.js app for 60 days. Real latency and price-per-spec data. #vps #hosting",
+  "recommendedFor": [
+    {
+      "label": "Indie developers shipping their first production SaaS",
+      "offerId": "digitalocean-droplets",
+      "reason": "The mature CLI, one-click app marketplace, and industry-best docs let solo builders go from idea to live app without support tickets."
+    },
+    {
+      "label": "API-heavy startups where milliseconds affect conversion",
+      "offerId": "vultr-cloud-compute",
+      "reason": "Vultr posted the lowest p50 latency (18ms) in 60-day testing, and 32 datacenter locations let you place compute close to your users."
+    },
+    {
+      "label": "EU-based bootstrappers running tight infrastructure budgets",
+      "offerId": "hetzner-cloud-cpx",
+      "reason": "At $14/mo for 4 vCPU/8 GB with 20 TB bandwidth included, Hetzner is 3-5x cheaper than comparable US providers for EU-hosted workloads."
+    },
+    {
+      "label": "Teams running high-traffic apps that need DDoS resilience",
+      "offerId": "linode-shared-cpu",
+      "reason": "Linode runs on the Akamai CDN backbone with free DDoS protection built in, giving consistent network performance under attack traffic."
+    },
+    {
+      "label": "AWS-native teams prototyping before moving to EC2",
+      "offerId": "aws-lightsail",
+      "reason": "Lightsail's fixed monthly billing and native S3/RDS/CloudWatch integration lets AWS teams validate an app cheaply before scaling to EC2."
+    }
+  ]
 }

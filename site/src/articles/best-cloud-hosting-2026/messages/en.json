@@ -118,5 +118,32 @@
     "digitalocean-app-platform": "Sign up at digitalocean.com. $200 free credit on new accounts.",
     "render-cloud": "Sign up at render.com. Free tier for static sites; paid plans start $7/mo."
   },
-  "pinDescription": "Best cloud hosting 2026: AWS EC2 vs GCP vs Azure vs DigitalOcean App Platform vs Render — same Next.js app, real cost + latency data. #cloudhosting"
+  "pinDescription": "Best cloud hosting 2026: AWS EC2 vs GCP vs Azure vs DigitalOcean App Platform vs Render — same Next.js app, real cost + latency data. #cloudhosting",
+  "recommendedFor": [
+    {
+      "label": "Solo developers and small startups shipping fast",
+      "offerId": "render-cloud",
+      "reason": "Render's 4-second cold-starts and zero-config autoscale eliminate DevOps overhead, letting a one-person team ship without tuning infrastructure."
+    },
+    {
+      "label": "Budget-conscious teams with predictable web app traffic",
+      "offerId": "digitalocean-app-platform",
+      "reason": "At $440/mo for the same workload that costs $620+ on AWS, DigitalOcean App Platform delivers the lowest bill with Git-push deploys and managed Postgres included."
+    },
+    {
+      "label": "Engineering teams running ML pipelines or data analytics",
+      "offerId": "google-cloud-compute-engine",
+      "reason": "Native BigQuery and Vertex AI integration makes GCP the natural fit when compute and analytics live on the same platform, with automatic sustained-use discounts."
+    },
+    {
+      "label": "Enterprise teams already deep in the Microsoft ecosystem",
+      "offerId": "azure-virtual-machines",
+      "reason": "Azure Arc hybrid cloud and tight Active Directory / Office 365 integration justify the 10-20% price premium for orgs that run .NET workloads on Windows Server."
+    },
+    {
+      "label": "High-growth SaaS companies scaling beyond 10 instances",
+      "offerId": "aws-ec2-cloud",
+      "reason": "AWS EC2 warm pools cut autoscale time to 60 seconds, and Reserved Instance discounts compound at scale — the only platform that gets cheaper as you grow."
+    }
+  ]
 }

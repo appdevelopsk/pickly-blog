@@ -121,5 +121,32 @@
     "brevo-business": "Sign up at brevo.com — free for 300 emails/day.",
     "activecampaign-plus": "Sign up at activecampaign.com — 14-day free trial."
   },
-  "pinDescription": "Best email marketing platform 2026: Mailchimp vs ConvertKit vs Klaviyo vs Brevo vs ActiveCampaign — same 25k list tested, deliverability + cost data. #emailmarketing"
+  "pinDescription": "Best email marketing platform 2026: Mailchimp vs ConvertKit vs Klaviyo vs Brevo vs ActiveCampaign — same 25k list tested, deliverability + cost data. #emailmarketing",
+  "recommendedFor": [
+    {
+      "label": "Newsletter creators and online course sellers",
+      "offerId": "convertkit-creator-pro",
+      "reason": "Tag-based automation and built-in Sponsor Marketplace are purpose-built for creator monetization workflows."
+    },
+    {
+      "label": "Shopify and WooCommerce store owners",
+      "offerId": "klaviyo-email-sms",
+      "reason": "Deep purchase-history segmentation and RFM scoring drive abandoned-cart and repeat-purchase revenue for e-commerce."
+    },
+    {
+      "label": "High-volume senders on a tight budget",
+      "offerId": "brevo-business",
+      "reason": "Volume-based pricing undercuts Mailchimp significantly past 25k subscribers, saving hundreds per month at scale."
+    },
+    {
+      "label": "B2B marketers running multi-step nurture sequences",
+      "offerId": "activecampaign-plus",
+      "reason": "The visual automation builder with lead scoring and CRM integration handles complex behavioral workflows no other platform matches."
+    },
+    {
+      "label": "Small businesses sending occasional broadcast emails",
+      "offerId": "mailchimp-standard",
+      "reason": "Best-in-class UX, 500-contact free tier, and 300+ integrations make it the lowest-friction starting point for general SMB."
+    }
+  ]
 }

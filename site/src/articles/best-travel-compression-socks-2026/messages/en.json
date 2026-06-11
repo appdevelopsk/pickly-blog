@@ -97,5 +97,32 @@
     "copper-fit-energy-compression": "Copper-infused claims unproven — buy for accessibility, not the copper.",
     "vim-and-vigr-cotton-compression": "Get the cotton blend (better breathing) — nylon is also sold under same brand."
   },
-  "pinDescription": "Five compression sock brands tested across 14 long-haul flights. Calf circumference measured pre and post, sock marks photographed, comfort logged. Here's the merino pick for 14-hour comfort — and the medical-grade option for high-risk travelers."
+  "pinDescription": "Five compression sock brands tested across 14 long-haul flights. Calf circumference measured pre and post, sock marks photographed, comfort logged. Here's the merino pick for 14-hour comfort — and the medical-grade option for high-risk travelers.",
+  "recommendedFor": [
+    {
+      "label": "Long-haul flyers prone to ankle swelling",
+      "offerId": "sockwell-circulator-compression",
+      "reason": "Merino blend stayed comfortable through 14 hours with the second-lowest swelling increase (+0.3 cm), and resists odor on multi-leg journeys."
+    },
+    {
+      "label": "Business travelers who care about professional appearance",
+      "offerId": "vim-and-vigr-cotton-compression",
+      "reason": "Looks like normal dress socks with modern patterns, so they pair with dress shoes and suit trousers without looking medical."
+    },
+    {
+      "label": "Travelers with DVT history or doctor-prescribed compression",
+      "offerId": "physix-gear-sport-compression",
+      "reason": "Medical-grade 20-30 mmHg delivered the lowest swelling increase (+0.2 cm) in testing — the right choice when a doctor has recommended stronger compression."
+    },
+    {
+      "label": "Style-conscious travelers who fly frequently",
+      "offerId": "comrad-knee-high-compression",
+      "reason": "Dozens of colors and patterns at D2C pricing make it easy to match any outfit without looking like you're wearing medical gear."
+    },
+    {
+      "label": "Last-minute packers buying at the airport or drugstore",
+      "offerId": "copper-fit-energy-compression",
+      "reason": "Available at virtually every US drugstore and Walmart, making it the only option you can reliably grab on the day of your flight."
+    }
+  ]
 }

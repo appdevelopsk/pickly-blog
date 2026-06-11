@@ -123,5 +123,32 @@
     "wave-free": "Sign up at waveapps.com — free permanently.",
     "sage-50cloud-pro": "Sign up at sage.com — best for inventory-heavy businesses."
   },
-  "pinDescription": "Best accounting software 2026: QuickBooks vs Xero vs FreshBooks vs Wave vs Sage — same 12-person firm tested, CPA-accepted exports. #accountingsoftware"
+  "pinDescription": "Best accounting software 2026: QuickBooks vs Xero vs FreshBooks vs Wave vs Sage — same 12-person firm tested, CPA-accepted exports. #accountingsoftware",
+  "recommendedFor": [
+    {
+      "label": "US small business owners working with a CPA",
+      "offerId": "quickbooks-online-plus",
+      "reason": "QBO is what most US CPAs are certified in, cutting tax-prep time by 60% and eliminating compatibility headaches."
+    },
+    {
+      "label": "Small business owners in the UK, Australia, or New Zealand",
+      "offerId": "xero-growing",
+      "reason": "Xero dominates outside the US and its unlimited-user plan at $42/mo beats QBO's $90 for teams of any size."
+    },
+    {
+      "label": "Freelancers and agency owners billing by the hour",
+      "offerId": "freshbooks-plus",
+      "reason": "FreshBooks integrates time tracking, project management, and invoicing in one flow — purpose-built for service businesses under 50 clients."
+    },
+    {
+      "label": "Solo founders and side-hustlers on a tight budget",
+      "offerId": "wave-free",
+      "reason": "Wave is permanently free for accounting and invoicing, with no subscription cost — only payment processing fees when you collect money."
+    },
+    {
+      "label": "Manufacturers, distributors, and product retailers",
+      "offerId": "sage-50cloud-pro",
+      "reason": "Sage 50cloud's 30-year-deep inventory management and job costing outclass every cloud-only competitor for product businesses."
+    }
+  ]
 }

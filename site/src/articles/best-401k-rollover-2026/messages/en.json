@@ -123,5 +123,32 @@
     "etrade-rollover-ira": "Initiate at us.etrade.com. Transfer bonuses for $200K+ rollovers are typically $500-600. Bonus is paid 90 days after rollover, conditional on holding assets.",
     "merrill-edge-rollover-ira": "Initiate at merrilledge.com. Highest transfer bonus on $200K ($600) but the best value requires Bank of America Preferred Rewards (need $20K+ across BofA + Merrill)."
   },
-  "pinDescription": "Best 401(k) rollover IRA 2026: Fidelity vs. Schwab vs. Vanguard vs. E*TRADE vs. Merrill Edge — $200K rollover compared. #rollover #retirement"
+  "pinDescription": "Best 401(k) rollover IRA 2026: Fidelity vs. Schwab vs. Vanguard vs. E*TRADE vs. Merrill Edge — $200K rollover compared. #rollover #retirement",
+  "recommendedFor": [
+    {
+      "label": "First-time rollovers who want a simple, low-cost start",
+      "offerId": "fidelity-rollover-ira",
+      "reason": "Fidelity's 24/7 support and FZROX at 0.00% expense ratio remove both process friction and ongoing cost for beginners."
+    },
+    {
+      "label": "Long-term buy-and-hold index fund investors",
+      "offerId": "vanguard-rollover-ira",
+      "reason": "Vanguard's VTI at 0.03% and VXUS at 0.07% deliver the lowest ETF expense ratios available, worth $1,200+ over 30 years on $200K."
+    },
+    {
+      "label": "Active traders and options investors in retirement accounts",
+      "offerId": "etrade-rollover-ira",
+      "reason": "Power E*TRADE provides advanced charting and a strong options platform, plus a $500-600 transfer bonus on a $200K rollover."
+    },
+    {
+      "label": "Bank of America customers consolidating banking and investing",
+      "offerId": "merrill-edge-rollover-ira",
+      "reason": "Existing BofA customers unlock the $600 transfer bonus and Preferred Rewards perks that multiply credit card rewards by up to 75%."
+    },
+    {
+      "label": "Frequent travelers who want banking and brokerage in one place",
+      "offerId": "schwab-rollover-ira",
+      "reason": "Schwab Bank checking offers free ATM withdrawals worldwide and no foreign transaction fees, paired with a no-fee robo-advisor for the rollover balance."
+    }
+  ]
 }

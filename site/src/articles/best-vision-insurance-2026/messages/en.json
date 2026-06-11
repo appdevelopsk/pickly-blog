@@ -124,5 +124,32 @@
     "spirit-vision-no-waiting": "Sign up at spiritdental.com — only pick if you need glasses immediately.",
     "warby-parker-direct": "Buy direct at warbyparker.com — often beats insurance for one pair."
   },
-  "pinDescription": "Best vision insurance 2026: VSP vs EyeMed vs Humana vs Spirit vs Warby Parker — same year tested, when direct beats insurance. #visioninsurance"
+  "pinDescription": "Best vision insurance 2026: VSP vs EyeMed vs Humana vs Spirit vs Warby Parker — same year tested, when direct beats insurance. #visioninsurance",
+  "recommendedFor": [
+    {
+      "label": "People loyal to their longtime family eye doctor",
+      "offerId": "vsp-individual-vision",
+      "reason": "VSP's network covers 3 out of 4 US eye doctors, giving you the best odds your current doctor is already in-network."
+    },
+    {
+      "label": "Suburban shoppers near a mall optical chain",
+      "offerId": "eyemed-bright-individual",
+      "reason": "EyeMed includes LensCrafters, Target Optical, and Pearle Vision, so pickup is easy while doing other errands — at a lower premium than VSP."
+    },
+    {
+      "label": "Existing Humana health insurance members",
+      "offerId": "humana-vision-care",
+      "reason": "Bundling vision with an existing Humana medical plan unlocks a discount, making it the lowest-friction and cheapest path for current Humana customers."
+    },
+    {
+      "label": "Adults switching jobs and need glasses right now",
+      "offerId": "spirit-vision-no-waiting",
+      "reason": "Spirit's zero-waiting-period plan lets you use benefits on day one — critical when you can't afford to wait weeks after a gap in employer coverage."
+    },
+    {
+      "label": "Budget-conscious adults needing one pair yearly",
+      "offerId": "warby-parker-direct",
+      "reason": "At $95 for a single-vision frame and lenses, Warby Parker direct undercuts a full year of insurance premiums for people who only need one pair annually."
+    }
+  ]
 }

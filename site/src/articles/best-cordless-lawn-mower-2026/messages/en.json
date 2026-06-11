@@ -120,5 +120,32 @@
     "dewalt-2x20v-max-21": "Buy at homedepot.com or dewalt.com. Battery interoperability with 20V MAX tool ecosystem.",
     "kobalt-80v-21-mower": "Buy at lowes.com — Lowe's exclusive brand."
   },
-  "pinDescription": "Best cordless lawn mower 2026: EGO vs Ryobi vs Greenworks vs DeWalt vs Kobalt — 1/3-acre tested for one full season. Battery platform comparison. #lawnmower #gardening"
+  "pinDescription": "Best cordless lawn mower 2026: EGO vs Ryobi vs Greenworks vs DeWalt vs Kobalt — 1/3-acre tested for one full season. Battery platform comparison. #lawnmower #gardening",
+  "recommendedFor": [
+    {
+      "label": "Suburban homeowners wanting one battery ecosystem for everything",
+      "offerId": "ego-lm2156sp-21-self-propelled",
+      "reason": "EGO's Power+ platform covers mower, trimmer, blower, and snowblower — one battery family for your entire yard."
+    },
+    {
+      "label": "DIYers with an existing DeWalt power tool collection",
+      "offerId": "dewalt-2x20v-max-21",
+      "reason": "The 2x20V MAX mower runs on the same batteries already in your DeWalt drills and saws, eliminating redundant chargers."
+    },
+    {
+      "label": "Homeowners with sloped yards who mow twice a week",
+      "offerId": "ryobi-40v-hp-brushless",
+      "reason": "60-min runtime and a side-discharge chute handle tall or overgrown grass without bogging down the motor."
+    },
+    {
+      "label": "Time-pressed homeowners who mow on a tight schedule",
+      "offerId": "greenworks-pro-80v-21",
+      "reason": "The 30-minute recharge means you can finish a mow, recharge over lunch, and do a second pass the same afternoon."
+    },
+    {
+      "label": "Budget-conscious Lowe's shoppers upgrading from gas",
+      "offerId": "kobalt-80v-21-mower",
+      "reason": "Kobalt 80V delivers self-propelled, brushless performance at the lowest price in the 80V class, available in-store at Lowe's."
+    }
+  ]
 }

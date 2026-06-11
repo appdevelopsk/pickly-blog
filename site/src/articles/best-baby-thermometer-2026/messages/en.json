@@ -126,5 +126,32 @@
     "kinsa-quickcare": "Available at kinsahealth.com, Target, CVS. The full app functionality requires creating a Kinsa account (free). Data is anonymized for aggregate maps.",
     "fridababy-quick-read-thermometer": "Available at fridababy.com, Target, Amazon. Pair with the Frida Baby 3-in-1 for screening + verification combo."
   },
-  "pinDescription": "Best baby thermometer 2026: Frida Baby 3-in-1 vs. Braun ThermoScan 7 vs. iProven DMT-489 vs. Kinsa QuickCare vs. FridaBaby Quick-Read — tested against clinical reference. #babythermometer #parenting"
+  "pinDescription": "Best baby thermometer 2026: Frida Baby 3-in-1 vs. Braun ThermoScan 7 vs. iProven DMT-489 vs. Kinsa QuickCare vs. FridaBaby Quick-Read — tested against clinical reference. #babythermometer #parenting",
+  "recommendedFor": [
+    {
+      "label": "Parents of newborns under 3 months old",
+      "offerId": "frida-baby-3-in-1-thermometer",
+      "reason": "Rectal mode delivers ±0.1°C accuracy — the gold standard pediatricians require for newborns where a 0.5°C misread can mean an ER visit."
+    },
+    {
+      "label": "Parents tracking multiple children's fever history",
+      "offerId": "kinsa-quickcare",
+      "reason": "Bluetooth app supports multi-child profiles, logs every reading over time, and provides age-based guidance — no manual log needed."
+    },
+    {
+      "label": "Budget-conscious parents wanting one versatile device",
+      "offerId": "iproven-forehead-ear",
+      "reason": "Dual forehead and ear modes in one $25-35 device covers everyday screening and more accurate ear checks without buying two thermometers."
+    },
+    {
+      "label": "Parents of infants 3 to 12 months old",
+      "offerId": "braun-thermoscan-7-ear",
+      "reason": "Age-precision technology automatically adjusts the fever threshold for the child's exact age group, and the pre-warmed tip prevents cold-shock inaccuracy."
+    },
+    {
+      "label": "Caregivers checking on sleeping babies at night",
+      "offerId": "fridababy-quick-read-thermometer",
+      "reason": "Non-contact 1-second reading with silent mode lets you screen a sleeping baby without any touch or beep that would wake them."
+    }
+  ]
 }

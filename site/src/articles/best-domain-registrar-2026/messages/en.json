@@ -119,5 +119,32 @@
     "godaddy-registrar": "Register at godaddy.com — but transfer away within a year.",
     "google-domains-squarespace": "Register at squarespace.com/domains — old Google Domains accounts migrated."
   },
-  "pinDescription": "Best domain registrar 2026: Porkbun vs Namecheap vs Cloudflare vs GoDaddy vs Squarespace — real renewal prices + WHOIS privacy. #domains"
+  "pinDescription": "Best domain registrar 2026: Porkbun vs Namecheap vs Cloudflare vs GoDaddy vs Squarespace — real renewal prices + WHOIS privacy. #domains",
+  "recommendedFor": [
+    {
+      "label": "Indie makers and solo founders registering their first domain",
+      "offerId": "porkbun-registrar",
+      "reason": "Porkbun's $10.37 renewal with zero upsells and free WHOIS privacy keeps costs honest from day one."
+    },
+    {
+      "label": "Small business owners who want a trusted, established registrar",
+      "offerId": "namecheap-registrar",
+      "reason": "Namecheap's transparent pricing and free-forever WHOIS privacy suit businesses that need reliable DNS without surprises."
+    },
+    {
+      "label": "Developers already running sites behind Cloudflare proxy",
+      "offerId": "cloudflare-registrar",
+      "reason": "At-cost $9.77 renewal integrates seamlessly when Cloudflare DNS is already managing your zone."
+    },
+    {
+      "label": "Former Google Domains users looking for a familiar clean interface",
+      "offerId": "google-domains-squarespace",
+      "reason": "Squarespace Domains inherited Google Domains' UX; migrated accounts carry over with free WHOIS privacy intact."
+    },
+    {
+      "label": "GoDaddy customers ready to cut their renewal bill in half",
+      "offerId": "godaddy-registrar",
+      "reason": "GoDaddy's $24.99 renewal and paid WHOIS privacy make it the clearest case for transferring out and saving $15+ per domain yearly."
+    }
+  ]
 }

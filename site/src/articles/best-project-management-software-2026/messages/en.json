@@ -123,5 +123,32 @@
     "notion-business": "Sign up at notion.so — free for personal use.",
     "trello-premium": "Sign up at trello.com — free tier unlimited users."
   },
-  "pinDescription": "Best project management software 2026: Asana vs Monday vs ClickUp vs Notion vs Trello — same 30-person agency tested, sprint velocity data. #projectmanagement"
+  "pinDescription": "Best project management software 2026: Asana vs Monday vs ClickUp vs Notion vs Trello — same 30-person agency tested, sprint velocity data. #projectmanagement",
+  "recommendedFor": [
+    {
+      "label": "Marketing and creative agency teams managing client projects",
+      "offerId": "asana-advanced",
+      "reason": "Asana's best-in-class UX, dependency tracking, and Timeline view give agencies the structure needed for multi-client project work."
+    },
+    {
+      "label": "Operations managers running cross-department workflows",
+      "offerId": "monday-work-management-pro",
+      "reason": "Monday spans PM, CRM, and HR in one platform, letting ops teams consolidate departments without switching tools."
+    },
+    {
+      "label": "Tech-savvy teams wanting to replace multiple SaaS tools",
+      "offerId": "clickup-business",
+      "reason": "ClickUp bundles PM, docs, chat, and CRM at $12/user/mo — the highest feature density per dollar if your team tolerates setup."
+    },
+    {
+      "label": "Knowledge workers who live in documents and wikis",
+      "offerId": "notion-business",
+      "reason": "Notion combines deep documentation with project databases, ideal when your project work is inseparable from written specs."
+    },
+    {
+      "label": "Small teams needing simple Kanban with no learning curve",
+      "offerId": "trello-premium",
+      "reason": "Trello's card-and-list model gets a team running in 15 minutes, with a free unlimited-user tier for teams under 20."
+    }
+  ]
 }

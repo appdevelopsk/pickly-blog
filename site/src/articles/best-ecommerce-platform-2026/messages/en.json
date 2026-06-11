@@ -124,5 +124,32 @@
     "wix-ecommerce-business": "Sign up at wix.com — Business plan from $27/mo.",
     "squarespace-commerce-advanced": "Sign up at squarespace.com — 14-day free trial."
   },
-  "pinDescription": "Best ecommerce platform 2026: Shopify vs BigCommerce vs WooCommerce vs Wix vs Squarespace — same store tested, conversion + total cost data. #ecommerce"
+  "pinDescription": "Best ecommerce platform 2026: Shopify vs BigCommerce vs WooCommerce vs Wix vs Squarespace — same store tested, conversion + total cost data. #ecommerce",
+  "recommendedFor": [
+    {
+      "label": "DTC apparel founders scaling past $1M revenue",
+      "offerId": "shopify-advanced",
+      "reason": "Shop Pay one-click checkout and 10,000+ apps drove the highest conversion rate (2.8%) and lowest transaction fees at $1.2M+ GMV."
+    },
+    {
+      "label": "Wholesale brands running B2B and DTC simultaneously",
+      "offerId": "bigcommerce-pro",
+      "reason": "Multi-storefront capabilities and zero transaction fees let B2B operators manage complex catalogs across separate storefronts without added per-sale cost."
+    },
+    {
+      "label": "Developer-led teams who need full code ownership",
+      "offerId": "woocommerce-wordpress",
+      "reason": "Open-source WordPress integration means no platform lock-in; you control every line of code and plugin choice without monthly platform fees."
+    },
+    {
+      "label": "Solo creators launching a first product under 100 SKUs",
+      "offerId": "wix-ecommerce-business",
+      "reason": "The AI website generator and drag-and-drop editor get a first store live in hours at $27/mo, with no technical background required."
+    },
+    {
+      "label": "Bloggers and photographers adding a small shop to their site",
+      "offerId": "squarespace-commerce-advanced",
+      "reason": "Squarespace's content-and-commerce integration means your editorial site and store share one design system, avoiding a disjointed two-platform setup."
+    }
+  ]
 }

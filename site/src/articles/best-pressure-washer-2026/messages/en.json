@@ -120,5 +120,32 @@
     "dewalt-dwpw2400": "Buy at homedepot.com or dewalt.com. Corded electric model.",
     "greenworks-pro-2300-psi": "Buy at greenworkstools.com or amazon.com. Corded electric model — separate from 80V battery line."
   },
-  "pinDescription": "Best electric pressure washer 2026: Ryobi vs Sun Joe vs Kärcher vs DeWalt vs Greenworks — same dirty driveway, deck, siding. Real cleaning units data. #pressurewasher #cleaning"
+  "pinDescription": "Best electric pressure washer 2026: Ryobi vs Sun Joe vs Kärcher vs DeWalt vs Greenworks — same dirty driveway, deck, siding. Real cleaning units data. #pressurewasher #cleaning",
+  "recommendedFor": [
+    {
+      "label": "Budget-conscious homeowners wanting fastest cleaning results",
+      "offerId": "sun-joe-spx3000",
+      "reason": "Highest cleaning units (3,260 CU) in the test at $150-200 makes it the best value for speed on a tight budget."
+    },
+    {
+      "label": "Cold-climate homeowners who store equipment outdoors",
+      "offerId": "karcher-k5-premium",
+      "reason": "Rubber hose prevents cold-weather kinking and it's the only model that survived 3 freeze cycles without damage."
+    },
+    {
+      "label": "DeWalt tool owners building a single-brand outdoor toolkit",
+      "offerId": "dewalt-dwpw2400",
+      "reason": "Highest stated PSI (2,400) and padded trigger gun fit seamlessly into an existing DeWalt cordless ecosystem."
+    },
+    {
+      "label": "Greenworks 80V battery users expanding their yard equipment",
+      "offerId": "greenworks-pro-2300-psi",
+      "reason": "Pairs directly with Greenworks 80V outdoor tools, letting existing battery owners skip buying a new charger or brand."
+    },
+    {
+      "label": "General homeowners wanting reliable Home Depot brand support",
+      "offerId": "ryobi-ry142300-2300-psi",
+      "reason": "On-board nozzle storage, 35-foot hose, and easy Home Depot returns make it the low-hassle everyday choice."
+    }
+  ]
 }

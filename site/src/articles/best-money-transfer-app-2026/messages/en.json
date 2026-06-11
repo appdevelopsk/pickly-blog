@@ -117,5 +117,32 @@
     "venmo": "Sign up via Venmo mobile app. US-only.",
     "western-union": "Sign up at westernunion.com or visit a branch."
   },
-  "pinDescription": "Best money transfer app 2026: Wise vs. Revolut vs. PayPal vs. Venmo vs. Western Union — for domestic and international. #moneytransfer #fintech"
+  "pinDescription": "Best money transfer app 2026: Wise vs. Revolut vs. PayPal vs. Venmo vs. Western Union — for domestic and international. #moneytransfer #fintech",
+  "recommendedFor": [
+    {
+      "label": "Expats and remote workers sending money abroad regularly",
+      "offerId": "wise-transfer",
+      "reason": "Wise's mid-market rate and 0.4-1% transparent fee save significantly on recurring international transfers compared to bank or PayPal rates."
+    },
+    {
+      "label": "Digital nomads who hold and spend in multiple currencies",
+      "offerId": "revolut",
+      "reason": "Revolut's multi-currency account holds 25+ currencies and includes built-in crypto and stocks, making it a full financial hub on the go."
+    },
+    {
+      "label": "US college students splitting rent and dining bills",
+      "offerId": "venmo",
+      "reason": "Venmo is the de facto standard for US domestic peer-to-peer payments — instant debit transfers and a social feed make splitting easy."
+    },
+    {
+      "label": "Online sellers accepting payments from global buyers",
+      "offerId": "paypal-international",
+      "reason": "PayPal's broad merchant integration and buyer/seller protection make it the expected payment option for e-commerce customers worldwide."
+    },
+    {
+      "label": "People sending money to unbanked family in developing countries",
+      "offerId": "western-union",
+      "reason": "Western Union lets recipients collect cash in person at 200+ country locations without needing a bank account."
+    }
+  ]
 }

@@ -115,5 +115,32 @@
     "state-farm-life": "Connect with a State Farm agent through statefarm.com or local office.",
     "ladder-term-life": "Apply at ladderlife.com. Online process; quote in minutes."
   },
-  "pinDescription": "Best life insurance 2026: Haven Life vs. Northwestern Mutual vs. Policygenius vs. State Farm vs. Ladder — term and whole life compared. #lifeinsurance"
+  "pinDescription": "Best life insurance 2026: Haven Life vs. Northwestern Mutual vs. Policygenius vs. State Farm vs. Ladder — term and whole life compared. #lifeinsurance",
+  "recommendedFor": [
+    {
+      "label": "Young parents with a mortgage and dependents",
+      "offerId": "haven-life",
+      "reason": "Haven Life's no-exam online process gets healthy applicants covered fast — ideal when you need $500K+ term life without agent meetings."
+    },
+    {
+      "label": "High-net-worth individuals planning their estate",
+      "offerId": "northwestern-mutual",
+      "reason": "Northwestern Mutual's whole life builds tax-advantaged cash value and supports complex estate planning with in-person advisor guidance."
+    },
+    {
+      "label": "First-time buyers unsure which insurer to choose",
+      "offerId": "policygenius-marketplace",
+      "reason": "Policygenius compares 20+ insurers in minutes, surfacing the lowest rate for your specific health profile without insurer bias."
+    },
+    {
+      "label": "Homeowners who already have State Farm auto or home",
+      "offerId": "state-farm-life",
+      "reason": "Bundling life with existing State Farm auto or home policies unlocks 10-20% discounts across all premiums with one local agent."
+    },
+    {
+      "label": "Parents whose coverage needs will shrink over time",
+      "offerId": "ladder-term-life",
+      "reason": "Ladder's laddering feature lets you reduce coverage as kids grow or the mortgage shrinks, avoiding overpaying for protection you no longer need."
+    }
+  ]
 }

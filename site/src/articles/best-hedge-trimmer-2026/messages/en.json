@@ -122,5 +122,32 @@
     "stihl-hsa-56-cordless": "Buy at Stihl dealer — no online direct sales.",
     "black-decker-corded-hedge-trimmer": "Buy at amazon.com or blackdecker.com. Outdoor-rated extension cord required."
   },
-  "pinDescription": "Best hedge trimmer 2026: EGO vs Milwaukee vs Ryobi vs Stihl vs Black+Decker — 100 ft privet tested, cut quality + fatigue data. #hedgetrimmer"
+  "pinDescription": "Best hedge trimmer 2026: EGO vs Milwaukee vs Ryobi vs Stihl vs Black+Decker — 100 ft privet tested, cut quality + fatigue data. #hedgetrimmer",
+  "recommendedFor": [
+    {
+      "label": "Homeowners with long hedges and mixed tool needs",
+      "offerId": "ego-power-ht2410-24inch",
+      "reason": "90-min runtime and 24\" blade cover 100+ ft hedges in one charge; broad EGO ecosystem means one battery platform for lawn, blower, and more."
+    },
+    {
+      "label": "Contractors and tradespeople with Milwaukee M18 tools",
+      "offerId": "milwaukee-m18-hedge-trimmer",
+      "reason": "Pro-grade build and M18 battery compatibility let tradespeople reuse batteries they already own without investing in a new ecosystem."
+    },
+    {
+      "label": "DIYers already invested in Ryobi 40V outdoor tools",
+      "offerId": "ryobi-40v-22inch-hedge",
+      "reason": "Shares the same 40V battery as existing Ryobi mowers and blowers, making it the lowest-cost upgrade for existing Ryobi owners."
+    },
+    {
+      "label": "Garden enthusiasts who maintain shaped topiaries and boxwood",
+      "offerId": "stihl-hsa-56-cordless",
+      "reason": "The 18\" blade and 7.7 lb weight give the precision and low fatigue needed for tight corners and detailed shaping work."
+    },
+    {
+      "label": "Budget-conscious renters with small yards near the house",
+      "offerId": "black-decker-corded-hedge-trimmer",
+      "reason": "At $50-80 with unlimited corded runtime, it costs less than a single replacement battery and needs no charging between sessions."
+    }
+  ]
 }

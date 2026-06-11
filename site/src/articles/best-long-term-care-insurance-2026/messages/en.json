@@ -122,5 +122,32 @@
     "brighthouse-smartcare-hybrid": "Quote through Brighthouse advisors. 10-year pay option is the differentiator.",
     "thrivent-long-term-care": "Quote through Thrivent — membership required (Christian community)."
   },
-  "pinDescription": "Best long-term care insurance 2026: Mutual of Omaha vs MassMutual vs NY Life vs Brighthouse vs Thrivent — same 55yo applicant, hybrid vs traditional. #longtermcare"
+  "pinDescription": "Best long-term care insurance 2026: Mutual of Omaha vs MassMutual vs NY Life vs Brighthouse vs Thrivent — same 55yo applicant, hybrid vs traditional. #longtermcare",
+  "recommendedFor": [
+    {
+      "label": "Retirees wanting the lowest annual traditional LTC premium",
+      "offerId": "mutual-of-omaha-ltc",
+      "reason": "At $2,400/yr for a 55-year-old, Mutual of Omaha's traditional plan delivers strong cash benefits at the most affordable ongoing cost among traditional carriers."
+    },
+    {
+      "label": "High-net-worth adults with a lump sum to invest in coverage",
+      "offerId": "mass-mutual-care-choice",
+      "reason": "CareChoice's single-premium structure locks in lifetime coverage with a guaranteed death benefit, so the $50k-200k outlay is never lost if care is never needed."
+    },
+    {
+      "label": "Conservative planners who prioritize carrier financial strength",
+      "offerId": "new-york-life-ltc",
+      "reason": "NY Life's A++ AM Best rating and century-long dividend history make it the safest bet for anyone unwilling to accept carrier default risk over a 30-year horizon."
+    },
+    {
+      "label": "Dual-income couples who prefer spreading hybrid payments over time",
+      "offerId": "brighthouse-smartcare-hybrid",
+      "reason": "The 10-year pay option lets couples fund up to $500k in hybrid LTC coverage without depleting savings in one transaction, while locking the premium forever."
+    },
+    {
+      "label": "Christian community members seeking values-aligned coverage",
+      "offerId": "thrivent-long-term-care",
+      "reason": "Thrivent's member-owned structure returns dividends to policyholders and offers cash benefit LTC at $2,200/yr — the lowest traditional premium in this comparison."
+    }
+  ]
 }

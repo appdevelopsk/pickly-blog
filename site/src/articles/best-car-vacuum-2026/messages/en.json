@@ -122,5 +122,32 @@
     "armor-all-aa255w": "Buy at amazon.com if you must — but reconsider.",
     "ridgid-18v-handheld-vacuum": "Buy at homedepot.com. Tool-only is $90; battery sold separately."
   },
-  "pinDescription": "Best car vacuum 2026: ThisWorx vs Dyson V15 vs Black+Decker vs Armor All vs RIDGID — 6 months of real dirt + pet hair tested. #cargear #carvacuum"
+  "pinDescription": "Best car vacuum 2026: ThisWorx vs Dyson V15 vs Black+Decker vs Armor All vs RIDGID — 6 months of real dirt + pet hair tested. #cargear #carvacuum",
+  "recommendedFor": [
+    {
+      "label": "Dog and cat owners who vacuum their car weekly",
+      "offerId": "dyson-v15-detect-handheld",
+      "reason": "99% pet hair pickup in 30 seconds — no other vacuum in this test comes close for embedded fur."
+    },
+    {
+      "label": "Budget-conscious drivers needing an emergency cleanup tool",
+      "offerId": "thisworx-tw-01-portable",
+      "reason": "At $30-40 with unlimited runtime via the cigarette lighter, it fits in the glove box ready for spills."
+    },
+    {
+      "label": "Parents of young children with crumb-filled back seats",
+      "offerId": "black-decker-bdh2000pl-pivot",
+      "reason": "The pivoting nozzle reaches deep into seat seams and the 25-min runtime covers a full interior clean."
+    },
+    {
+      "label": "Tradespeople and contractors with RIDGID tool batteries",
+      "offerId": "ridgid-18v-handheld-vacuum",
+      "reason": "Uses the same 18V battery pack as RIDGID power tools, adding pro-grade 92% suction at no extra battery cost."
+    },
+    {
+      "label": "Occasional drivers wanting a single plug-and-go solution",
+      "offerId": "armor-all-aa255w",
+      "reason": "Plugs directly into the 12V socket with no charging required — acceptable for light dust between proper cleans."
+    }
+  ]
 }

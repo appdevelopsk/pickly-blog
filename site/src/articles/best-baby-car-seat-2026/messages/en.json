@@ -97,5 +97,32 @@
     "clek-liing": "Liing 2.0 is the current model — check manufacture date sticker, you want 2025+ stock.",
     "evenflo-revolve360": "Revolve360 GOLD adds rotating LATCH — meaningfully easier installation. Worth the +$50."
   },
-  "pinDescription": "Five infant car seats tested for fit across four vehicle types. Installation timed, NHTSA cross-checked, fabric washed three times. Here's which seat fits a compact car — and why the lie-flat one wins for newborns."
+  "pinDescription": "Five infant car seats tested for fit across four vehicle types. Installation timed, NHTSA cross-checked, fabric washed three times. Here's which seat fits a compact car — and why the lie-flat one wins for newborns.",
+  "recommendedFor": [
+    {
+      "label": "Parents of premature or very young newborns",
+      "offerId": "nuna-pipa-rx",
+      "reason": "The NHTSA-approved lie-flat position supports safe airway alignment for babies under 6 weeks, a feature no other seat on this list offers."
+    },
+    {
+      "label": "First-time parents anxious about correct installation",
+      "offerId": "chicco-keyfit-35",
+      "reason": "ReclineSure level indicator and single-hand adjustment cut first-install time to 3 minutes, reducing the guesswork that stresses new parents."
+    },
+    {
+      "label": "Parents with chemically sensitive or eczema-prone babies",
+      "offerId": "clek-liing",
+      "reason": "GREENGUARD Gold certification confirms zero flame retardants or harmful off-gassing, making it the safest material choice for reactive skin."
+    },
+    {
+      "label": "Families who want one seat from birth through booster years",
+      "offerId": "evenflo-revolve360",
+      "reason": "The 360-degree rotating all-in-one carries children to 120 lb, eliminating the cost and hassle of buying multiple seats as the child grows."
+    },
+    {
+      "label": "Parents of heavy-feeding or reflux-prone infants",
+      "offerId": "britax-willow-s",
+      "reason": "SafeWash fabric is fully machine-washable without harness removal, making frequent cleanups from spit-up practical rather than tedious."
+    }
+  ]
 }

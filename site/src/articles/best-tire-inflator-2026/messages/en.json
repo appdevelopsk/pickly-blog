@@ -120,5 +120,32 @@
     "avid-power-cordless-tire-inflator": "Buy at amazon.com. Integrated battery means no extra purchase.",
     "fanttik-x8-apex-tire-inflator": "Buy at amazon.com or fanttik.com. App is free; firmware updates via app."
   },
-  "pinDescription": "Best tire inflator 2026: Ryobi vs Milwaukee vs Viair vs Avid Power vs Fanttik — 100 tire-fillings tested, fill speed + accuracy data. #cargear #tireinflator"
+  "pinDescription": "Best tire inflator 2026: Ryobi vs Milwaukee vs Viair vs Avid Power vs Fanttik — 100 tire-fillings tested, fill speed + accuracy data. #cargear #tireinflator",
+  "recommendedFor": [
+    {
+      "label": "Tradespeople and contractors with existing Milwaukee M12 tools",
+      "offerId": "milwaukee-2475-20-m12-inflator",
+      "reason": "Already on M12 batteries, the Milwaukee fills a tire in 70 seconds with sub-0.5 PSI accuracy — fastest and most precise in test."
+    },
+    {
+      "label": "Weekend DIYers already invested in Ryobi 18V ONE+ tools",
+      "offerId": "ryobi-p737d-cordless-inflator",
+      "reason": "Drops straight into the Ryobi 18V ONE+ battery system; auto-stop prevents overinflation and build quality held up through a full year of testing."
+    },
+    {
+      "label": "Drivers who want a no-fuss emergency backup in the trunk",
+      "offerId": "viair-88p-portable",
+      "reason": "Plugs into any car's 12V cigarette socket — no batteries, no charging — making it the only inflator that works the moment you need it roadside."
+    },
+    {
+      "label": "Occasional users on a budget without existing tool batteries",
+      "offerId": "avid-power-cordless-tire-inflator",
+      "reason": "Built-in 20V battery charged via USB-C means no extra battery purchase; at $60-80 it costs less than two months of gas-station air stops."
+    },
+    {
+      "label": "Tech-savvy car enthusiasts managing multiple vehicles",
+      "offerId": "fanttik-x8-apex-tire-inflator",
+      "reason": "The companion app stores per-vehicle PSI presets, so switching between a sedan and an SUV requires zero manual dial changes."
+    }
+  ]
 }

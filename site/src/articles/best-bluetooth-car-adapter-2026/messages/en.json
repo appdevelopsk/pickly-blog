@@ -122,5 +122,32 @@
     "carlinkit-3-cplay2air-android-auto": "Buy at amazon.com or carlinkitcarplay.com — requires wired CarPlay in car.",
     "ottocast-u2-x-pro-wireless": "Buy at ottocast.com or amazon.com — premium for streaming on car screen."
   },
-  "pinDescription": "Best Bluetooth car adapter 2026: Nulaxy vs Anker vs Doosl vs CarlinKit vs Ottocast — 4 vehicles tested, FM vs aux vs wireless CarPlay. #cargear"
+  "pinDescription": "Best Bluetooth car adapter 2026: Nulaxy vs Anker vs Doosl vs CarlinKit vs Ottocast — 4 vehicles tested, FM vs aux vs wireless CarPlay. #cargear",
+  "recommendedFor": [
+    {
+      "label": "Drivers of older cars with no aux or Bluetooth",
+      "offerId": "nulaxy-km18-bluetooth-fm",
+      "reason": "FM transmitter is the only wireless audio option for pre-2010 cars. The KM18's clear-frequency display makes finding a clean channel fast."
+    },
+    {
+      "label": "Budget-conscious drivers who need USB-C charging daily",
+      "offerId": "anker-roav-smartcharge-f0",
+      "reason": "Two USB-C ports let you charge phone and tablet simultaneously — Anker's build quality justifies the extra $15 over generic FM transmitters."
+    },
+    {
+      "label": "Music lovers with older cars that have aux input",
+      "offerId": "doosl-bluetooth-receiver",
+      "reason": "Bypasses FM entirely for near-CD quality audio at $15-25. Best sound-per-dollar pick for any car with a 3.5mm aux jack."
+    },
+    {
+      "label": "iPhone users tired of untangling the CarPlay cable daily",
+      "offerId": "carlinkit-3-cplay2air-android-auto",
+      "reason": "One-time pairing converts your existing wired CarPlay port to wireless. Every subsequent drive reconnects automatically — no cable needed."
+    },
+    {
+      "label": "Parents on long road trips with kids who need screen entertainment",
+      "offerId": "ottocast-u2-x-pro-wireless",
+      "reason": "Built-in 4G hotspot streams Netflix and YouTube directly to the car's screen, keeping rear-seat passengers entertained without draining phone data."
+    }
+  ]
 }

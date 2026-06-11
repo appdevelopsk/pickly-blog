@@ -122,5 +122,32 @@
     "onpay-payroll": "Sign up at onpay.com — 30-day free trial.",
     "square-payroll": "Sign up at squareup.com/payroll — pairs best with Square POS."
   },
-  "pinDescription": "Best payroll software 2026: Gusto vs ADP vs Paychex vs OnPay vs Square — same 22-person firm tested, 6 months of real payroll runs. #payroll #smallbusiness"
+  "pinDescription": "Best payroll software 2026: Gusto vs ADP vs Paychex vs OnPay vs Square — same 22-person firm tested, 6 months of real payroll runs. #payroll #smallbusiness",
+  "recommendedFor": [
+    {
+      "label": "Small business owners hiring their first employees",
+      "offerId": "gusto-payroll-plus",
+      "reason": "Gusto's best-in-class UX and bundled HR features (PTO, onboarding) let first-time employers run payroll in 8 minutes with zero tax filing errors."
+    },
+    {
+      "label": "Fast-growing startups planning to scale past 50 staff",
+      "offerId": "adp-run",
+      "reason": "ADP RUN scales smoothly from startup to enterprise and has the strongest compliance team for multi-state, multi-jurisdiction complexity."
+    },
+    {
+      "label": "Healthcare and construction firms with 10–100 employees",
+      "offerId": "paychex-flex",
+      "reason": "Paychex Flex includes a dedicated specialist and industry-specific solutions built for regulated trades like healthcare and construction."
+    },
+    {
+      "label": "Budget-conscious restaurant and trades business owners",
+      "offerId": "onpay-payroll",
+      "reason": "OnPay's $40 + $6/employee flat rate includes full tax filing and strong support for hourly-heavy industries like restaurants and trades."
+    },
+    {
+      "label": "Retail and food businesses running Square POS daily",
+      "offerId": "square-payroll",
+      "reason": "Square Payroll integrates directly with Square POS and Banking, making it the lowest-friction payroll choice at $35 + $5/employee for existing Square users."
+    }
+  ]
 }

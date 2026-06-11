@@ -122,5 +122,32 @@
     "taxact-deluxe": "File at taxact.com. The 'Xpert Assist' add-on connects you with a CPA for live help — worth the $35 if you have one unusual question.",
     "cash-app-taxes": "File via cash.app/taxes or the Cash App. Requires a Cash App account. Filing is free; no in-app advertising during the tax flow."
   },
-  "pinDescription": "Best tax software 2026: TurboTax Deluxe vs. H&R Block Deluxe vs. FreeTaxUSA vs. TaxAct Deluxe vs. Cash App Taxes — same return filed through all 5. #taxes #personalfinance"
+  "pinDescription": "Best tax software 2026: TurboTax Deluxe vs. H&R Block Deluxe vs. FreeTaxUSA vs. TaxAct Deluxe vs. Cash App Taxes — same return filed through all 5. #taxes #personalfinance",
+  "recommendedFor": [
+    {
+      "label": "First-time filers anxious about missing deductions",
+      "offerId": "turbotax-deluxe",
+      "reason": "TurboTax's step-by-step interview with 'why?' tooltips explains every question, so nervous filers don't skip deductions they didn't know they had."
+    },
+    {
+      "label": "W-2 employees who want a human backup option",
+      "offerId": "hr-block-deluxe",
+      "reason": "9,000 retail offices let you walk in for in-person help if anything goes wrong — no other software offers this physical safety net."
+    },
+    {
+      "label": "Budget-conscious filers with itemized or self-employment income",
+      "offerId": "freetaxusa",
+      "reason": "At $14.99 total, FreeTaxUSA supports rentals, capital gains, and Schedule C — the same accuracy as TurboTax at one-eighth the price."
+    },
+    {
+      "label": "Filers who want upgraded UX without TurboTax pricing",
+      "offerId": "taxact-deluxe",
+      "reason": "TaxAct Deluxe costs $70 total and includes a CPA add-on for $35, making it the best middle ground between cost and guided support."
+    },
+    {
+      "label": "Simple-return filers who refuse to pay any filing fee",
+      "offerId": "cash-app-taxes",
+      "reason": "Cash App Taxes charges $0 for both federal and state with no upsells, making it the only truly free option for W-2 filers with standard deductions."
+    }
+  ]
 }

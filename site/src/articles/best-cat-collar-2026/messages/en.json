@@ -114,5 +114,32 @@
     "petsafe-deluxe-cat-collar": "Available at petsafe.net, PetSmart, Petco, Chewy, Amazon.",
     "tractive-gps-cat-tracker": "Available at tractive.com. Monthly subscription ($5-15/mo) required for GPS service."
   },
-  "pinDescription": "Best cat collar 2026: Rogz AlleyCat vs. Blueberry Pet vs. Lupine vs. PetSafe Deluxe vs. Tractive GPS — for indoor and outdoor cats. #catcollar"
+  "pinDescription": "Best cat collar 2026: Rogz AlleyCat vs. Blueberry Pet vs. Lupine vs. PetSafe Deluxe vs. Tractive GPS — for indoor and outdoor cats. #catcollar",
+  "recommendedFor": [
+    {
+      "label": "Outdoor cat owners prioritizing escape and snag safety",
+      "offerId": "rogz-alleycat-breakaway-collar",
+      "reason": "Rogz AlleyCat's buckle releases reliably at 5 lb pressure with reflective stitching for low-light visibility."
+    },
+    {
+      "label": "Budget-conscious cat owners with multiple cats",
+      "offerId": "blueberry-pet-cat-collar",
+      "reason": "At $8-14 with breakaway safety and a removable bell, Blueberry Pet lets you collar all cats without overspending."
+    },
+    {
+      "label": "Cat owners with aggressive chewers or rough play habits",
+      "offerId": "lupine-cat-collar",
+      "reason": "Lupine's lifetime guarantee covers chew damage — they replace it free, so heavy chewers are never a problem."
+    },
+    {
+      "label": "First-time cat owners wanting a trusted brand at retail stores",
+      "offerId": "petsafe-deluxe-cat-collar",
+      "reason": "PetSafe's broad availability at PetSmart and Petco with elastic stretch zone makes it easy to find and fit."
+    },
+    {
+      "label": "Free-roaming outdoor cat owners who worry about losing their cat",
+      "offerId": "tractive-gps-cat-tracker",
+      "reason": "Tractive's real-time GPS and geofencing alerts let you locate a lost outdoor cat immediately on your phone."
+    }
+  ]
 }

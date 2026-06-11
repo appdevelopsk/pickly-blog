@@ -121,5 +121,32 @@
     "lemonade-pet-insurance": "Quote at lemonade.com/pet. Bundling with renters/home insurance saves 10%.",
     "spot-pet-insurance": "Quote at spotpetins.com. Underwritten by Crum & Forster; backed by Cesar Millan brand."
   },
-  "pinDescription": "Best pet insurance 2026: Healthy Paws vs Trupanion vs Embrace vs Lemonade vs Spot — 50 real claims tested, reimbursement speed + payout accuracy data. #petinsurance #pets"
+  "pinDescription": "Best pet insurance 2026: Healthy Paws vs Trupanion vs Embrace vs Lemonade vs Spot — 50 real claims tested, reimbursement speed + payout accuracy data. #petinsurance #pets",
+  "recommendedFor": [
+    {
+      "label": "New puppy owners with no prior vet records",
+      "offerId": "healthy-paws-pet-insurance",
+      "reason": "Healthy Paws pays in 4 days with no annual cap — ideal for young, healthy pets with zero pre-existing history."
+    },
+    {
+      "label": "Budget-conscious owners worried about vet cash flow",
+      "offerId": "trupanion-pet-insurance",
+      "reason": "Trupanion pays the vet directly at checkout so you never front thousands of dollars, and premiums never rise after a claim."
+    },
+    {
+      "label": "Owners insuring a rescue or older dog with health history",
+      "offerId": "embrace-pet-insurance",
+      "reason": "Embrace is the only insurer that lets curable pre-existing conditions become covered after 12 symptom-free months."
+    },
+    {
+      "label": "Tech-first pet owners who manage everything on their phone",
+      "offerId": "lemonade-pet-insurance",
+      "reason": "Lemonade's mobile app handles signup, photo-based claim submission, and payment in one place with 5-day turnaround."
+    },
+    {
+      "label": "Pet owners who want routine care and emergencies in one policy",
+      "offerId": "spot-pet-insurance",
+      "reason": "Spot's preventive care add-on covers vaccines, dental cleanings, and heartworm meds alongside accident and illness coverage."
+    }
+  ]
 }

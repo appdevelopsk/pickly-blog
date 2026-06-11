@@ -123,5 +123,32 @@
     "lending-club-personal-loan": "Apply at lendingclub.com. The platform is established and reliable but pricing has become less competitive in 2025-2026. Mostly use this if you've been declined by SoFi and LightStream and the APR is meaningfully below Upgrade.",
     "discover-personal-loan": "Apply at discover.com. Discover does a soft pull for rate quotes. Existing Discover credit-card customers may see slightly better pricing — there's no formal discount but the underwriting is more favorable."
   },
-  "pinDescription": "Best personal loan 2026: SoFi vs. LightStream vs. Upgrade vs. LendingClub vs. Discover — actual APRs offered to 720 FICO and 660 FICO profiles. #personalloan #finance"
+  "pinDescription": "Best personal loan 2026: SoFi vs. LightStream vs. Upgrade vs. LendingClub vs. Discover — actual APRs offered to 720 FICO and 660 FICO profiles. #personalloan #finance",
+  "recommendedFor": [
+    {
+      "label": "Professionals with stable income and prime credit scores",
+      "offerId": "lightstream-personal-loan",
+      "reason": "LightStream's rate-beat program guarantees the lowest APR (from 7.99%) for 700+ FICO borrowers, and same-day funding means no waiting."
+    },
+    {
+      "label": "Workers who fear job loss and want a safety net",
+      "offerId": "sofi-personal-loan",
+      "reason": "SoFi's unemployment protection lets you pause payments for up to 12 months if you lose your job, a unique safety net no other lender here offers."
+    },
+    {
+      "label": "Borrowers with fair credit rebuilding their financial profile",
+      "offerId": "upgrade-personal-loan",
+      "reason": "Upgrade approves down to 640 FICO and funds in 1-4 days, making it the most accessible option when prime lenders decline your application."
+    },
+    {
+      "label": "Credit card holders looking to consolidate high-interest debt",
+      "offerId": "discover-personal-loan",
+      "reason": "Discover pays creditors directly on consolidation loans and charges zero origination fees, cutting both complexity and upfront cost."
+    },
+    {
+      "label": "People who want a co-signer to strengthen their application",
+      "offerId": "lending-club-personal-loan",
+      "reason": "LendingClub is one of the few personal loan platforms that accepts a co-signer, which can unlock approval or a lower rate for thin-credit applicants."
+    }
+  ]
 }

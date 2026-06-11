@@ -120,5 +120,32 @@
     "progressive-commercial": "Quote at progressivecommercial.com — best for vehicles + trades.",
     "thimble-on-demand": "Download Thimble app — perfect for gig workers."
   },
-  "pinDescription": "Best small business insurance 2026: Next vs Hiscox vs The Hartford vs Progressive vs Thimble — same 5-person firm, real BOP quotes. #smallbusinessinsurance"
+  "pinDescription": "Best small business insurance 2026: Next vs Hiscox vs The Hartford vs Progressive vs Thimble — same 5-person firm, real BOP quotes. #smallbusinessinsurance",
+  "recommendedFor": [
+    {
+      "label": "Freelancers and independent contractors needing occasional coverage",
+      "offerId": "thimble-on-demand",
+      "reason": "Thimble's hourly/daily/monthly purchase model means you only pay when you're actively working a project, with no long-term commitment."
+    },
+    {
+      "label": "Early-stage startups wanting fast digital onboarding",
+      "offerId": "next-insurance-bop",
+      "reason": "Next's 10-minute online application and instant proof of insurance get a new business covered same-day without paperwork."
+    },
+    {
+      "label": "Tech consultants and SaaS founders handling client data",
+      "offerId": "hiscox-small-business",
+      "reason": "Hiscox bundles cyber liability directly into its BOP, so tech and consulting businesses get data-breach coverage without a separate policy."
+    },
+    {
+      "label": "Contractors, electricians, and trade businesses with vehicles",
+      "offerId": "progressive-commercial",
+      "reason": "Progressive dominates commercial auto + GL bundles, making it the strongest single-carrier option for trades that run a fleet."
+    },
+    {
+      "label": "Established small businesses with 5+ employees and steady revenue",
+      "offerId": "the-hartford-bop",
+      "reason": "The Hartford's 200+ year track record and broad industry coverage give mature small businesses the institutional-grade protection they've outgrown starter carriers for."
+    }
+  ]
 }

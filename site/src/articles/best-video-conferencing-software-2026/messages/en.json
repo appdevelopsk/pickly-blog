@@ -123,5 +123,32 @@
     "webex-meet-pro": "Sign up at webex.com — best for enterprise security needs.",
     "loom-business": "Sign up at loom.com — Business plan is $12.50/user/mo."
   },
-  "pinDescription": "Best video conferencing 2026: Zoom vs Google Meet vs Teams vs Webex vs Loom — 200 meetings tested, video quality + AI summaries. #videoconferencing"
+  "pinDescription": "Best video conferencing 2026: Zoom vs Google Meet vs Teams vs Webex vs Loom — 200 meetings tested, video quality + AI summaries. #videoconferencing",
+  "recommendedFor": [
+    {
+      "label": "Cross-platform teams with no single vendor ecosystem",
+      "offerId": "zoom-business-pro",
+      "reason": "Zoom's vendor-neutral UX and lowest screen-share latency (200ms) make it ideal for mixed-tool environments."
+    },
+    {
+      "label": "Google Workspace teams managing calendars and shared drives",
+      "offerId": "google-meet-workspace",
+      "reason": "Bundled in Workspace from $6/user/mo, with seamless Calendar, Gmail, and Drive recording integration."
+    },
+    {
+      "label": "Microsoft 365 organizations using Outlook and SharePoint",
+      "offerId": "microsoft-teams-business",
+      "reason": "Teams ships with Microsoft 365 Business and connects natively to Outlook, SharePoint, and OneDrive."
+    },
+    {
+      "label": "Government and regulated-industry IT teams needing compliance",
+      "offerId": "webex-meet-pro",
+      "reason": "Webex holds FedRAMP authorization and end-to-end encryption, meeting strict public-sector security mandates."
+    },
+    {
+      "label": "Remote teams replacing status meetings with recorded walkthroughs",
+      "offerId": "loom-business",
+      "reason": "Loom's async video with AI summaries and viewer analytics eliminates unnecessary live meetings for updates and demos."
+    }
+  ]
 }

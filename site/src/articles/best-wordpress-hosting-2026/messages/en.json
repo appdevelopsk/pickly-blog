@@ -120,5 +120,32 @@
     "bluehost-choice-plus": "Sign up at bluehost.com — but consider SiteGround or Cloudways instead at the same tier.",
     "cloudways-vultr-wp": "Sign up at cloudways.com. Vultr High Frequency is the best underlying choice for most WP sites."
   },
-  "pinDescription": "Best WordPress hosting 2026: Kinsta vs WP Engine vs SiteGround vs Bluehost vs Cloudways — same site, 90 days. Real TTFB and support response data. #wordpress #hosting"
+  "pinDescription": "Best WordPress hosting 2026: Kinsta vs WP Engine vs SiteGround vs Bluehost vs Cloudways — same site, 90 days. Real TTFB and support response data. #wordpress #hosting",
+  "recommendedFor": [
+    {
+      "label": "WooCommerce store owners with growing revenue",
+      "offerId": "kinsta-managed-wp",
+      "reason": "Kinsta's 410ms WooCommerce checkout latency and Cloudflare Enterprise integration directly protect conversion rates as traffic scales."
+    },
+    {
+      "label": "Agency developers managing multiple client sites",
+      "offerId": "wp-engine-managed-wp",
+      "reason": "Smart Plugin Manager auto-tests updates across sites and 4-minute support response means client downtime gets resolved fast."
+    },
+    {
+      "label": "Small business owners on a mid-range budget",
+      "offerId": "siteground-grow-big",
+      "reason": "SiteGround's staging environment and Optimizer plugin give real performance without the $30+/mo premium of managed hosts."
+    },
+    {
+      "label": "Bloggers and hobbyists launching a first site",
+      "offerId": "bluehost-choice-plus",
+      "reason": "At $2.95/mo intro pricing with one-click WordPress install, Bluehost removes all barriers for non-revenue hobby sites."
+    },
+    {
+      "label": "Developers and DevOps engineers wanting infrastructure control",
+      "offerId": "cloudways-vultr-wp",
+      "reason": "Cloudways exposes the underlying VPS with pay-as-you-go billing, delivering Kinsta-tier TTFB at a lower price when paired with Vultr High Frequency."
+    }
+  ]
 }

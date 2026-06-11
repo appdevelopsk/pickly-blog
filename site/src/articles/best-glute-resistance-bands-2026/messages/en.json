@@ -147,5 +147,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "recommendedFor": [
+    {
+      "label": "Home gym lifters progressing on hip thrusts",
+      "offerId": "victorem-hip-resistance-bands",
+      "reason": "Wide fabric stays put during loaded hip thrusts and three resistance levels let you progress without buying a new set."
+    },
+    {
+      "label": "Budget-conscious beginners building a band collection",
+      "offerId": "fit-simplify-resistance-loop-bands",
+      "reason": "Five color-coded bands from extra-light to extra-heavy for under $15 means you can replace the whole set when latex wears out without stressing the cost."
+    },
+    {
+      "label": "Glute-focused lifters who train in leggings daily",
+      "offerId": "peach-bands-fabric-set",
+      "reason": "The hexagonal non-slip pattern is woven into the fabric itself — not a peelable overlay — so it holds on leggings and shorts session after session."
+    },
+    {
+      "label": "People returning to training after hip or knee injury",
+      "offerId": "theraband-resistance-loop",
+      "reason": "Standardized clinical-grade resistance levels match what physical therapists prescribe, making it easy to follow a rehab protocol exactly."
+    },
+    {
+      "label": "Gymshark apparel owners wanting a matching kit",
+      "offerId": "gymshark-resistance-band",
+      "reason": "Knit construction resists fraying and color-matches current Gymshark apparel lines, giving a cohesive look with better durability than most fabric bands."
+    }
+  ]
 }

@@ -117,5 +117,32 @@
     "schwab-intelligent-portfolios": "Sign up at schwab.com. $5K minimum.",
     "facet-wealth": "Sign up at facet.com. Flat fee model — get quote based on complexity."
   },
-  "pinDescription": "Best financial advisor 2026: Vanguard PAS vs. Betterment Premium vs. Fidelity Wealth vs. Schwab Intelligent Portfolios vs. Facet — fees compared. #financialadvisor"
+  "pinDescription": "Best financial advisor 2026: Vanguard PAS vs. Betterment Premium vs. Fidelity Wealth vs. Schwab Intelligent Portfolios vs. Facet — fees compared. #financialadvisor",
+  "recommendedFor": [
+    {
+      "label": "Cost-conscious investors with $500K–$5M portfolios",
+      "offerId": "vanguard-pas",
+      "reason": "Vanguard PAS charges just 0.30% AUM — the lowest rate for human CFP access — saving thousands annually versus competitors."
+    },
+    {
+      "label": "Tech-savvy investors who want automation plus human backup",
+      "offerId": "betterment-premium",
+      "reason": "Betterment Premium combines automated tax-loss harvesting with unlimited CFP access, ideal for hands-off investors who still want expert guidance."
+    },
+    {
+      "label": "Established Fidelity customers seeking a dedicated advisor",
+      "offerId": "fidelity-wealth-services",
+      "reason": "Fidelity Wealth Services assigns a single point of contact and integrates seamlessly with existing Fidelity accounts for $500K+ clients."
+    },
+    {
+      "label": "New investors building wealth under $100K",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Schwab Intelligent Portfolios charges $0 in advisory fees with a $5K minimum, letting beginners grow without fees eating early gains."
+    },
+    {
+      "label": "High-net-worth individuals with $1M or more to invest",
+      "offerId": "facet-wealth",
+      "reason": "Facet's flat $2,400–$6,000/year fee beats AUM pricing at $1M+, saving up to $1,200/year compared to Vanguard's 0.30% on a $2M portfolio."
+    }
+  ]
 }

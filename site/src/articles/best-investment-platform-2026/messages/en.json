@@ -117,5 +117,32 @@
     "robinhood-platform": "Sign up at robinhood.com or the mobile app. Robinhood Gold subscription ($5/mo) adds research tools.",
     "etrade-platform": "Sign up at us.etrade.com. Use Power E*TRADE (separate from consumer app) for advanced features."
   },
-  "pinDescription": "Best investment platform 2026: Fidelity vs. Vanguard vs. Schwab vs. Robinhood vs. E*TRADE — for index investors and active traders. #investing #brokerage"
+  "pinDescription": "Best investment platform 2026: Fidelity vs. Vanguard vs. Schwab vs. Robinhood vs. E*TRADE — for index investors and active traders. #investing #brokerage",
+  "recommendedFor": [
+    {
+      "label": "Long-term retirement savers maximizing every basis point",
+      "offerId": "fidelity-platform",
+      "reason": "Fidelity's FZROX at 0.00% expense ratio is the only true zero-cost fund, saving compounding costs over decades of retirement saving."
+    },
+    {
+      "label": "Passive investors committed to low-cost index fund strategy",
+      "offerId": "vanguard-platform",
+      "reason": "Vanguard's VTI and VXUS carry industry-low 0.03-0.07% expense ratios, and its founder Jack Bogle pioneered the very strategy these investors use."
+    },
+    {
+      "label": "Frequent international travelers managing cash and investments",
+      "offerId": "schwab-platform",
+      "reason": "Schwab Bank checking has zero foreign transaction fees and free ATM withdrawals worldwide, making it the only brokerage where your cash travels as freely as you do."
+    },
+    {
+      "label": "Young first-time investors starting with small amounts",
+      "offerId": "robinhood-platform",
+      "reason": "Robinhood's best-in-class mobile UX and fractional shares let beginners buy into expensive stocks and ETFs with any dollar amount, no minimums required."
+    },
+    {
+      "label": "Active traders running options and multi-leg strategies",
+      "offerId": "etrade-platform",
+      "reason": "Power E*TRADE's advanced charting and options-focused toolset handle complex multi-leg strategies that simpler platforms cannot execute efficiently."
+    }
+  ]
 }

@@ -97,5 +97,32 @@
     "citi-premier-card": "Citi has been rumored to be discontinuing transfer partners — book transfers within 6 months of earning.",
     "chase-sapphire-reserve": "Re-evaluate at year 2 — fee jumped, so the math shifts when credits change."
   },
-  "pinDescription": "Five travel credit cards run through 18 flights and 22 hotel nights. We tracked transfer-partner value, lounge access actually used, and the moment annual-fee math turns positive. Chase vs. Amex vs. Capital One."
+  "pinDescription": "Five travel credit cards run through 18 flights and 22 hotel nights. We tracked transfer-partner value, lounge access actually used, and the moment annual-fee math turns positive. Chase vs. Amex vs. Capital One.",
+  "recommendedFor": [
+    {
+      "label": "Occasional travelers flying four or more times a year",
+      "offerId": "chase-sapphire-preferred",
+      "reason": "The $95 fee pays for itself with the 60K bonus and Hyatt transfer partner, no lounge needed."
+    },
+    {
+      "label": "City dwellers who spend heavily on restaurants and groceries",
+      "offerId": "amex-gold-card",
+      "reason": "4× on US restaurants and supermarkets plus $240+ in dining and Uber credits offsets the $325 fee if you eat out regularly."
+    },
+    {
+      "label": "Couples and families who travel together regularly",
+      "offerId": "capital-one-venture-x",
+      "reason": "Free authorized users each get Priority Pass lounge access, making the $395 fee split across two travelers exceptionally easy to justify."
+    },
+    {
+      "label": "Flexible planners willing to book award flights months ahead",
+      "offerId": "citi-premier-card",
+      "reason": "Singapore Airlines and Turkish Airlines transfers — unavailable on Chase or Amex — unlock the highest per-point redemption ceiling for those who plan 11 months out."
+    },
+    {
+      "label": "High-volume travelers spending over $7,000 on travel annually",
+      "offerId": "chase-sapphire-reserve",
+      "reason": "8× on Chase Travel plus $889 in usable credits and Priority Pass lounges make the $795 fee net-positive for heavy spenders who use lounges 4+ times a year."
+    }
+  ]
 }

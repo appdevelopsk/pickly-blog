@@ -97,5 +97,32 @@
     "similac-pure-bliss": "Sign up for Similac Strong Moms rewards for $400+/year in coupons.",
     "earths-best-organic-dairy": "Organic Dairy is the standard line — Earth's Best also has Sensitivity and Soy variants."
   },
-  "pinDescription": "Five infant formulas compared ingredient-by-ingredient against EU and US standards. We calculated weekly cost, tracked sugar sources, and flagged the legal-but-questionable additives. Bobbie vs. Holle vs. Kendamil vs. Similac vs. Earth's Best."
+  "pinDescription": "Five infant formulas compared ingredient-by-ingredient against EU and US standards. We calculated weekly cost, tracked sugar sources, and flagged the legal-but-questionable additives. Bobbie vs. Holle vs. Kendamil vs. Similac vs. Earth's Best.",
+  "recommendedFor": [
+    {
+      "label": "Parents who want EU-style ingredients without import hassle",
+      "offerId": "bobbie-organic",
+      "reason": "Bobbie matches EU specs and ships direct from a US FDA-regulated facility — no customs delays or gray-market risk."
+    },
+    {
+      "label": "Health-conscious parents seeking the cleanest ingredient list possible",
+      "offerId": "holle-stage-1-organic",
+      "reason": "Holle's Demeter biodynamic certification and zero maltodextrin make it the strictest-standard formula available in the US."
+    },
+    {
+      "label": "Parents transitioning from breastmilk with higher fat content",
+      "offerId": "kendamil-organic",
+      "reason": "Kendamil uses whole milk rather than skim plus vegetable oils, most closely mirroring the fat profile of human breastmilk."
+    },
+    {
+      "label": "Budget-aware families needing organic formula at scale",
+      "offerId": "earths-best-organic-dairy",
+      "reason": "At $35/week, Earth's Best is the most affordable USDA Organic option and is stocked at nearly every major US retailer."
+    },
+    {
+      "label": "Parents who prioritize in-store availability over premium sourcing",
+      "offerId": "similac-pure-bliss",
+      "reason": "Similac Pure Bliss uses lactose-only carbs with no corn syrup and is available at every major US retailer without special ordering."
+    }
+  ]
 }

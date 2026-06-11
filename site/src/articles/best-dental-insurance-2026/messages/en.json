@@ -125,5 +125,32 @@
     "humana-dental-loyalty-plus": "Quote at humana.com — loyalty bonus only if claims-free.",
     "dentemax-discount-plan": "Quote at dentemax.com — verify your dentist participates."
   },
-  "pinDescription": "Best dental insurance 2026: Delta vs Cigna vs Spirit vs Humana vs DenteMax — same scenario tested, real out-of-pocket cost. #dentalinsurance"
+  "pinDescription": "Best dental insurance 2026: Delta vs Cigna vs Spirit vs Humana vs DenteMax — same scenario tested, real out-of-pocket cost. #dentalinsurance",
+  "recommendedFor": [
+    {
+      "label": "Adults who want their current dentist covered",
+      "offerId": "delta-dental-individual",
+      "reason": "Delta's network covers 3 in 4 US dentists, giving you the best odds your existing dentist is already in-network."
+    },
+    {
+      "label": "Health-conscious adults prioritizing preventive care",
+      "offerId": "cigna-dental-1500",
+      "reason": "Cigna covers 100% of cleanings and exams from day one with no waiting period, making it ideal for twice-yearly checkup routines."
+    },
+    {
+      "label": "People with urgent dental work already diagnosed",
+      "offerId": "spirit-dental-no-waiting",
+      "reason": "Zero waiting period on root canals and crowns means you can start major treatment on day one, not after a 12-month wait."
+    },
+    {
+      "label": "Younger adults planning to keep one plan long-term",
+      "offerId": "humana-dental-loyalty-plus",
+      "reason": "Humana's annual max grows from $1,500 to $2,000+ by year three for claims-free members, rewarding those who stay enrolled."
+    },
+    {
+      "label": "Patients with extensive ongoing or multiple dental needs",
+      "offerId": "dentemax-discount-plan",
+      "reason": "No annual maximum means your discounts apply even after $2,000 in services, unlike capped insurance plans that stop paying mid-treatment."
+    }
+  ]
 }

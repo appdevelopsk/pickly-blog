@@ -128,5 +128,32 @@
     "binance-us": "Sign up at binance.us. Available in most US states except New York, Hawaii, Texas, Vermont, and some others — check before signing up.",
     "bitfinex": "Sign up at bitfinex.com. Requires non-US residency. KYC verification is more thorough than US exchanges (expect 3-7 days). Withdrawal limits scale with verification tier."
   },
-  "pinDescription": "Best crypto exchange 2026: Coinbase Advanced vs. Kraken Pro vs. Gemini Active Trader vs. Binance.US vs. Bitfinex — fees on $10K monthly volume. #crypto #exchange"
+  "pinDescription": "Best crypto exchange 2026: Coinbase Advanced vs. Kraken Pro vs. Gemini Active Trader vs. Binance.US vs. Bitfinex — fees on $10K monthly volume. #crypto #exchange",
+  "recommendedFor": [
+    {
+      "label": "First-time crypto buyers in the US",
+      "offerId": "coinbase-advanced",
+      "reason": "Coinbase Advanced's polished UX and FDIC-insured USD balances make the learning curve minimal for newcomers buying and holding their first crypto."
+    },
+    {
+      "label": "Active US traders executing dozens of trades monthly",
+      "offerId": "kraken-pro",
+      "reason": "At 0.26% taker fees — half of Coinbase's — Kraken Pro's savings compound fast for high-frequency traders, and zero hacks since 2011 means no sleepless nights."
+    },
+    {
+      "label": "Security-conscious investors holding crypto on an exchange",
+      "offerId": "gemini-active-trader",
+      "reason": "Gemini's NYDFS BitLicense, SOC 2 Type 2 audit, and Aon-led cold-storage insurance make it the safest exchange custody option if self-custody isn't an option."
+    },
+    {
+      "label": "Cost-sensitive US traders minimizing every basis point",
+      "offerId": "binance-us",
+      "reason": "Binance.US's 0.10% flat taker fee is the lowest among US-regulated exchanges, cutting trading costs to a quarter of Coinbase's for the same volume."
+    },
+    {
+      "label": "Non-US traders who need margin and leverage",
+      "offerId": "bitfinex",
+      "reason": "Bitfinex offers up to 10x margin trading with deep order books — functionality unavailable on US-regulated alternatives — at competitive 0.20% taker fees."
+    }
+  ]
 }

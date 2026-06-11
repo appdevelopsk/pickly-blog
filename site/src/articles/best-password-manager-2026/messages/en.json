@@ -119,5 +119,32 @@
     "apple-passwords-icloud": "Built into iOS/macOS — Settings → Passwords. Free.",
     "lastpass-premium": "Existing users: migrate. Not recommended for new accounts."
   },
-  "pinDescription": "Best password manager 2026: 1Password vs Bitwarden vs Dashlane vs Apple Passwords vs LastPass — 200+ login vault tested. #passwordmanager #security"
+  "pinDescription": "Best password manager 2026: 1Password vs Bitwarden vs Dashlane vs Apple Passwords vs LastPass — 200+ login vault tested. #passwordmanager #security",
+  "recommendedFor": [
+    {
+      "label": "Families sharing logins across multiple devices",
+      "offerId": "1password-families",
+      "reason": "1Password Families covers 5 users for $4.99/mo with Watchtower breach alerts and 96% auto-fill reliability across all platforms."
+    },
+    {
+      "label": "Linux developers and privacy-conscious power users",
+      "offerId": "bitwarden-premium",
+      "reason": "Bitwarden offers a native Linux app, full open-source code you can audit, and self-hosting — all for just $10/year."
+    },
+    {
+      "label": "Remote workers using public Wi-Fi and VPNs",
+      "offerId": "dashlane-premium",
+      "reason": "Dashlane bundles a VPN and dark web monitoring with its password manager, removing the need to pay separately for network security."
+    },
+    {
+      "label": "iPhone and Mac users who never leave the Apple ecosystem",
+      "offerId": "apple-passwords-icloud",
+      "reason": "Apple Passwords is free with your Apple ID and delivers the tightest Safari and iOS 18 integration of any option tested."
+    },
+    {
+      "label": "Existing LastPass users evaluating whether to migrate",
+      "offerId": "lastpass-premium",
+      "reason": "LastPass still works across devices with solid auto-fill, but its 2022 breach record makes it best suited as a temporary bridge before switching."
+    }
+  ]
 }

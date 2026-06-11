@@ -127,5 +127,32 @@
     "amex-business-gold": "Apply at americanexpress.com. The Membership Rewards points transfer to 15+ partners — best redemption value via Aeroplan, ANA, or Avianca LifeMiles for international business class flights.",
     "brex-card": "Apply at brex.com. Brex requires business bank account access (read-only via Plaid) and underwrites based on business cash balance and revenue. Best for VC-backed startups or established small businesses with $50K+ in business bank accounts."
   },
-  "pinDescription": "Best business credit card 2026: Amex Business Platinum vs. Chase Ink Business Preferred vs. Capital One Spark Cash Plus vs. Amex Business Gold vs. Brex Card — net rewards on $250K business spend. #businesscard #smallbusiness"
+  "pinDescription": "Best business credit card 2026: Amex Business Platinum vs. Chase Ink Business Preferred vs. Capital One Spark Cash Plus vs. Amex Business Gold vs. Brex Card — net rewards on $250K business spend. #businesscard #smallbusiness",
+  "recommendedFor": [
+    {
+      "label": "Executives and managers who fly frequently for work",
+      "offerId": "amex-business-platinum",
+      "reason": "Earns 5x points on airfare and provides Centurion lounge access, cutting the effective $695 fee to under $200 when travel credits are used."
+    },
+    {
+      "label": "Small business owners who want straightforward cash back",
+      "offerId": "capital-one-spark-cash-plus",
+      "reason": "Unlimited 2% cash back on every purchase with no category tracking needed — ideal for businesses that want predictable, simple rewards."
+    },
+    {
+      "label": "Digital marketing agencies and e-commerce businesses",
+      "offerId": "amex-business-gold",
+      "reason": "Earns 4x Membership Rewards on advertising spend (auto-selected monthly), delivering 6-8% effective return on ad budgets."
+    },
+    {
+      "label": "Cost-conscious SMB owners who also travel occasionally",
+      "offerId": "chase-ink-business-preferred",
+      "reason": "3x points on travel, shipping, internet, and advertising at just $95/year, with transferable Ultimate Rewards worth up to 1.5-2 cents per point."
+    },
+    {
+      "label": "VC-backed startup founders avoiding personal liability",
+      "offerId": "brex-card",
+      "reason": "No personal guarantee required — underwriting is based on business cash balance, making it the only option for founders who cannot accept personal credit risk."
+    }
+  ]
 }

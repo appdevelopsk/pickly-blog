@@ -177,5 +177,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Busy gym-goers who want a fast weekday breakfast",
+      "offerId": "kodiak-cakes-power-cakes",
+      "reason": "Just-add-water convenience and 14g protein means a complete post-workout meal in under 5 minutes with no measuring eggs or milk."
+    },
+    {
+      "label": "Competitive athletes maximizing daily protein intake",
+      "offerId": "birch-benders-protein-pancake",
+      "reason": "At 18g protein from a just-add-water mix, it delivers the highest protein of any water-only option without the chalky aftertaste that makes other high-protein mixes hard to eat daily."
+    },
+    {
+      "label": "Vegan and dairy-free eaters tracking their macros",
+      "offerId": "bob-red-mill-protein-pancake",
+      "reason": "Pea protein base with certified gluten-free and fully vegan credentials makes it the only pick that fits plant-based and allergen-restricted diets."
+    },
+    {
+      "label": "Bodybuilders and physique competitors on a strict cut",
+      "offerId": "carbon-fire-protein-pancake",
+      "reason": "25g protein and only 5g carbs per serving is purpose-built for people hitting strict daily macro targets where carb minimization is non-negotiable."
+    },
+    {
+      "label": "Japan-based fitness enthusiasts avoiding import markups",
+      "offerId": "nisshin-protein-hotcake-mix",
+      "reason": "30g protein per serving at domestic supermarket prices means no import fees or shipping delays while matching or exceeding the protein of US brands."
+    }
+  ]
 }

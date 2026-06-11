@@ -97,5 +97,32 @@
     "fidelity-go": "Set rebalance frequency to quarterly — annual is too slow at low balances.",
     "vanguard-digital-advisor": "Personal Advisor Services starts at 0.30% for $50K+ and adds a human advisor — worth considering at higher tiers."
   },
-  "pinDescription": "Five robo-advisors audited after 24 months of returns. Same $25K, same 80/20 allocation. Here's which one's hidden costs ate the returns — and which delivered 22.4%."
+  "pinDescription": "Five robo-advisors audited after 24 months of returns. Same $25K, same 80/20 allocation. Here's which one's hidden costs ate the returns — and which delivered 22.4%.",
+  "recommendedFor": [
+    {
+      "label": "First-time investors starting with under $25K",
+      "offerId": "fidelity-go",
+      "reason": "Fidelity Go charges absolutely $0 under $25K with 0% expense Flex funds — genuinely free to start with no fee penalty."
+    },
+    {
+      "label": "High-income earners with taxable brokerage accounts",
+      "offerId": "wealthfront-robo",
+      "reason": "Direct Indexing at $100K+ harvests individual stock losses, generating $380+/year in losses that save $141+ in real taxes for high-bracket filers."
+    },
+    {
+      "label": "Hands-off beginners who need goal-based guidance",
+      "offerId": "betterment-robo",
+      "reason": "Betterment's goal buckets separate retirement from house savings, and tax-loss harvesting starts at $0 with no minimum balance required."
+    },
+    {
+      "label": "Cost-obsessed long-term passive index investors",
+      "offerId": "vanguard-digital-advisor",
+      "reason": "All-in cost of 0.20% includes ETF expenses — the lowest true total cost in the audit, and delivered the best 2-year return at 22.4%."
+    },
+    {
+      "label": "Existing Schwab customers adding automation to their account",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Zero advisory fee works as a free upgrade inside an existing Schwab ecosystem, where the cash drag is offset by other Schwab account benefits."
+    }
+  ]
 }

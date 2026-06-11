@@ -147,5 +147,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later."
+  "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",
+  "recommendedFor": [
+    {
+      "label": "Competitive Olympic weightlifters focused on snatch and clean",
+      "offerId": "adidas-adipower-3-weightlifting",
+      "reason": "The 24mm heel — highest in the category — gives the forward-lean position snatches and clean & jerks demand, with a rigid TPU block that wastes zero force."
+    },
+    {
+      "label": "CrossFit athletes who hate swapping shoes mid-WOD",
+      "offerId": "reebok-legacy-lifter-3",
+      "reason": "Slight lateral flex lets you go from barbell work straight into box jumps without changing shoes, unlike stiffer pure lifting shoes."
+    },
+    {
+      "label": "Serious lifters buying their first dedicated pair",
+      "offerId": "nike-romaleos-4-weightlifting",
+      "reason": "Wide toe box, dual-strap lockdown, and Nike's consistent sizing make it the safest all-around choice with no guesswork on fit."
+    },
+    {
+      "label": "Lifters who travel to competitions with carry-on only",
+      "offerId": "inov8-fastlift-power-g380",
+      "reason": "At 380g per shoe, the graphene outsole sheds significant pack weight compared to TPU alternatives without sacrificing floor rigidity."
+    },
+    {
+      "label": "Beginners testing weightlifting shoes before committing",
+      "offerId": "do-win-weightlifting-shoes",
+      "reason": "Under $80 with a competition-approved wood heel block — proven by US national team members — means you get real performance without a premium gamble."
+    }
+  ]
 }

@@ -97,5 +97,32 @@
     "wahl-show-pro-plus": "Use as secondary clipper for finishing; not as primary clipper.",
     "andis-pulse-zr-ii": "Buy a second battery ($50) for unlimited grooming sessions."
   },
-  "pinDescription": "Five pet grooming clippers tested over 80 grooms across four coat types from Poodle to Husky. Noise measured in dB, blade temperature logged, battery life tracked. Here's the quietest cordless — and the corded one that handled Husky double-coat."
+  "pinDescription": "Five pet grooming clippers tested over 80 grooms across four coat types from Poodle to Husky. Noise measured in dB, blade temperature logged, battery life tracked. Here's the quietest cordless — and the corded one that handled Husky double-coat.",
+  "recommendedFor": [
+    {
+      "label": "Home owners with anxious or noise-sensitive dogs",
+      "offerId": "wahl-bravura-lithium",
+      "reason": "At 54 dB it's the quietest clipper tested — 6–14 dB quieter than rivals, which significantly reduces dog stress."
+    },
+    {
+      "label": "Professional groomers handling multiple coat types daily",
+      "offerId": "andis-proclip-agc2",
+      "reason": "Two-speed corded motor tackles every coat type, and industry-standard parts mean same-day repairs if it goes down."
+    },
+    {
+      "label": "Pet owners wanting a clipper that outlasts their dog",
+      "offerId": "oster-a5-two-speed",
+      "reason": "90-year proven design with replacement parts widely stocked ensures a 20+ year lifespan with basic maintenance."
+    },
+    {
+      "label": "Groomers who do show-dog face and ear finishing work",
+      "offerId": "wahl-show-pro-plus",
+      "reason": "At 12 oz it's the lightest clipper tested, making precision ear and face detailing fatigue-free in tight areas."
+    },
+    {
+      "label": "Mobile groomers needing cordless power for double coats",
+      "offerId": "andis-pulse-zr-ii",
+      "reason": "Swappable lithium batteries give unlimited cordless runtime, and it's the only cordless that handled Husky undercoat."
+    }
+  ]
 }

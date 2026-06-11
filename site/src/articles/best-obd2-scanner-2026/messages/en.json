@@ -121,5 +121,32 @@
     "foxwell-nt301": "Buy at amazon.com. Free lifetime updates via USB.",
     "bafx-products-obd2": "Buy at amazon.com. Torque Pro app (Android, $5) is the recommended pairing."
   },
-  "pinDescription": "Best OBD2 scanner 2026: BlueDriver vs Autel MK808 vs Innova 5610 vs FOXWELL NT301 vs BAFX — tested on 12 vehicles, 90+ codes. ABS, SRS, transmission access reality. #obd2 #cargear"
+  "pinDescription": "Best OBD2 scanner 2026: BlueDriver vs Autel MK808 vs Innova 5610 vs FOXWELL NT301 vs BAFX — tested on 12 vehicles, 90+ codes. ABS, SRS, transmission access reality. #obd2 #cargear",
+  "recommendedFor": [
+    {
+      "label": "Casual drivers who just want to clear warning lights",
+      "offerId": "bafx-products-obd2",
+      "reason": "At $25, the BAFX dongle reads and clears generic engine codes reliably — everything you need for a one-off check-engine light."
+    },
+    {
+      "label": "Non-mechanics who want guided repair advice at home",
+      "offerId": "bluedriver-pro-obdii",
+      "reason": "BlueDriver's Bosch-backed repair reports tell you what the code means and common fixes for your exact vehicle, not just a raw DTC number."
+    },
+    {
+      "label": "DIY mechanics doing brake jobs and transmission service",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "Only the MK808 offers bidirectional control to command the ABS pump during brake bleeding and run EPB retracts without a separate tool."
+    },
+    {
+      "label": "Technicians and shop owners servicing multiple vehicles daily",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "The 7-inch standalone tablet reads all systems across every 1996+ vehicle and gets 2 years of manufacturer-specific software updates included."
+    },
+    {
+      "label": "Weekend mechanics who prefer a handheld over their phone",
+      "offerId": "innova-5610",
+      "reason": "The 5610's glove-friendly color screen and ASE-certified hotline let you diagnose ABS and battery issues without pulling out your smartphone."
+    }
+  ]
 }

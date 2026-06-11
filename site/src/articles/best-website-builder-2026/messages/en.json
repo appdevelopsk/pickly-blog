@@ -118,5 +118,32 @@
     "shopify-builder": "Sign up at shopify.com — 3-day free trial, then $1/mo for 3 months.",
     "carrd-single-page": "Sign up at carrd.co — free tier. Pro at $19/year."
   },
-  "pinDescription": "Best website builder 2026: Squarespace vs Wix vs Webflow vs Shopify vs Carrd — same 8-page site, Lighthouse + export comparison. #websitebuilder"
+  "pinDescription": "Best website builder 2026: Squarespace vs Wix vs Webflow vs Shopify vs Carrd — same 8-page site, Lighthouse + export comparison. #websitebuilder",
+  "recommendedFor": [
+    {
+      "label": "Small business owners wanting a polished brand presence",
+      "offerId": "squarespace-builder",
+      "reason": "Squarespace's Apple-like templates and integrated scheduling mean you get a professional site fast without hiring a designer."
+    },
+    {
+      "label": "Creators and bloggers who want total layout control",
+      "offerId": "wix-builder",
+      "reason": "Wix's drag-and-drop flexibility and 900+ templates let you customize every element without touching code."
+    },
+    {
+      "label": "Web designers and agencies building client sites",
+      "offerId": "webflow-builder",
+      "reason": "Webflow's CSS-level editor and clean HTML/CSS/JS export give designers professional output they can hand off or self-host."
+    },
+    {
+      "label": "Entrepreneurs launching an online store",
+      "offerId": "shopify-builder",
+      "reason": "Shopify's native payment processing and 10,000+ app ecosystem make it the fastest path to a fully operational e-commerce store."
+    },
+    {
+      "label": "Freelancers and solopreneurs building a simple portfolio",
+      "offerId": "carrd-single-page",
+      "reason": "Carrd's $19/year all-features plan and lightning-fast publish time make it ideal for a personal link-in-bio or one-page portfolio."
+    }
+  ]
 }

@@ -97,5 +97,32 @@
     "every-dollar-app": "Premium ($80) unlocks bank sync but EveryDollar's sync quality lags Monarch.",
     "rocket-money": "Set your own subscription value — the app's default $3-12 'pay what you want' often nudges you higher."
   },
-  "pinDescription": "Five budgeting apps tested for 90 days after the Mint shutdown. We tracked categorization accuracy, sync failures, and which one actually changed our grocery spending. YNAB vs. Monarch vs. Copilot vs. EveryDollar vs. Rocket Money."
+  "pinDescription": "Five budgeting apps tested for 90 days after the Mint shutdown. We tracked categorization accuracy, sync failures, and which one actually changed our grocery spending. YNAB vs. Monarch vs. Copilot vs. EveryDollar vs. Rocket Money.",
+  "recommendedFor": [
+    {
+      "label": "People stuck in a paycheck-to-paycheck cycle",
+      "offerId": "ynab-app",
+      "reason": "YNAB's zero-based method assigns every dollar a job before you spend it, which directly breaks the paycheck-to-paycheck pattern."
+    },
+    {
+      "label": "Couples and households sharing finances",
+      "offerId": "monarch-money",
+      "reason": "Monarch's built-in household sharing lets partners view the same accounts and budgets in real time without workarounds."
+    },
+    {
+      "label": "iPhone users who want hands-off tracking",
+      "offerId": "copilot-budgeting",
+      "reason": "Copilot's 94% AI categorization accuracy on iOS means almost zero manual cleanup, and Apple Card syncs natively."
+    },
+    {
+      "label": "Budget-conscious beginners with zero app spend",
+      "offerId": "every-dollar-app",
+      "reason": "EveryDollar's free tier is the only fully usable post-Mint option at $0, requiring just 5 minutes of daily manual entry."
+    },
+    {
+      "label": "Overpayers drowning in forgotten subscriptions",
+      "offerId": "rocket-money",
+      "reason": "Rocket Money automatically surfaces and cancels forgotten subscriptions, finding wasted money without manual review."
+    }
+  ]
 }

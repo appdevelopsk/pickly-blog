@@ -122,5 +122,32 @@
     "windows-defender-free": "Free with Windows 10/11 — no install needed.",
     "kaspersky-total-security": "Buy at kaspersky.com — consider geopolitical risk."
   },
-  "pinDescription": "Best antivirus 2026: Bitdefender vs Norton vs Malwarebytes vs Microsoft Defender vs Kaspersky — 1,000 malware samples tested. #antivirus #security"
+  "pinDescription": "Best antivirus 2026: Bitdefender vs Norton vs Malwarebytes vs Microsoft Defender vs Kaspersky — 1,000 malware samples tested. #antivirus #security",
+  "recommendedFor": [
+    {
+      "label": "Home users who want reliable free protection",
+      "offerId": "windows-defender-free",
+      "reason": "Built into Windows 10/11 with 99.4% detection and the lowest system impact of all five — no install, no cost, no compromises for everyday browsing."
+    },
+    {
+      "label": "Remote workers who use public Wi-Fi regularly",
+      "offerId": "norton-360-deluxe",
+      "reason": "Unlimited VPN is bundled at no extra cost, plus $50k identity theft insurance — critical for anyone logging into work accounts on airport or cafe networks."
+    },
+    {
+      "label": "Power users and developers running many executables",
+      "offerId": "bitdefender-total-security",
+      "reason": "Tied for the lowest false-positive rate (just 1 hit on 500 legitimate files) and minimal system impact, so it won't interrupt builds or flag dev tools."
+    },
+    {
+      "label": "Users who suspect an existing adware or PUP infection",
+      "offerId": "malwarebytes-premium",
+      "reason": "Designed specifically to clean already-infected systems and runs alongside any primary AV, targeting PUPs and adware that other scanners routinely miss."
+    },
+    {
+      "label": "Security researchers outside US federal environments",
+      "offerId": "kaspersky-total-security",
+      "reason": "Best-in-class zero-day detection at 99.1% makes it a top technical choice for threat researchers willing to navigate the geopolitical trade-off."
+    }
+  ]
 }

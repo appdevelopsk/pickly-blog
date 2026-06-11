@@ -118,5 +118,32 @@
     "chase-mortgage": "Apply at chase.com or in-branch. Chase Private Client tier (Total Checking + $250K+) gets rate discounts.",
     "navy-federal-mortgage": "Apply at navyfederal.org. Membership requires military service connection (active, retired, family member, DoD civilian)."
   },
-  "pinDescription": "Best mortgage lender 2026: Rocket vs. Better vs. Ally vs. Chase vs. Navy Federal — for purchase, refi, and VA loans. #mortgage #homebuying"
+  "pinDescription": "Best mortgage lender 2026: Rocket vs. Better vs. Ally vs. Chase vs. Navy Federal — for purchase, refi, and VA loans. #mortgage #homebuying",
+  "recommendedFor": [
+    {
+      "label": "First-time buyers who want a fast online pre-approval",
+      "offerId": "rocket-mortgage",
+      "reason": "Rocket's mobile app and 5-15 minute pre-approval process remove the intimidation of a first purchase, with broad FHA and conventional options."
+    },
+    {
+      "label": "Cost-conscious buyers minimizing closing day expenses",
+      "offerId": "better-mortgage",
+      "reason": "Better's no origination fee policy saves $1,000-$3,000 at closing compared to traditional lenders, with fully online underwriting."
+    },
+    {
+      "label": "Existing homeowners looking to refinance their mortgage",
+      "offerId": "ally-mortgage",
+      "reason": "Ally's strong refinance product lineup and competitive rates make it the top pick for rate-and-term or cash-out refi scenarios."
+    },
+    {
+      "label": "High-net-worth borrowers with existing Chase accounts",
+      "offerId": "chase-mortgage",
+      "reason": "Chase Private Client relationship discounts and in-person branch access reward borrowers with $250K+ already held at Chase."
+    },
+    {
+      "label": "Active-duty military members and veterans buying a home",
+      "offerId": "navy-federal-mortgage",
+      "reason": "Navy Federal's VA loan specialty delivers rates 0.10-0.25% below market with no PMI requirement, exclusively for eligible military families."
+    }
+  ]
 }

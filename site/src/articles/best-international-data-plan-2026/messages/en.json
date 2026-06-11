@@ -115,5 +115,32 @@
     "tmobile-go5g-plus": "Existing T-Mobile customers on Go5G Plus or higher — works automatically abroad.",
     "holafly-esim": "Sign up at esim.holafly.com. Daily plans available, install via eSIM activation."
   },
-  "pinDescription": "Best international data plan 2026: Google Fi vs. Airalo eSIM vs. Verizon TravelPass vs. T-Mobile Go5G vs. Holafly. #internationaltravel"
+  "pinDescription": "Best international data plan 2026: Google Fi vs. Airalo eSIM vs. Verizon TravelPass vs. T-Mobile Go5G vs. Holafly. #internationaltravel",
+  "recommendedFor": [
+    {
+      "label": "Digital nomads living and working across multiple countries",
+      "offerId": "google-fi",
+      "reason": "Google Fi's flat-rate data in 200+ countries eliminates roaming surprises, ideal for people who move between countries constantly."
+    },
+    {
+      "label": "Budget-conscious travelers visiting one country at a time",
+      "offerId": "airalo-esim",
+      "reason": "Airalo lets you pay only for a single-country package, so short-trip visitors aren't locked into ongoing plan fees."
+    },
+    {
+      "label": "Occasional Verizon customers on infrequent short trips abroad",
+      "offerId": "verizon-travelpass",
+      "reason": "At $10/day with no new signup, TravelPass pays off for trips under 10 days using your existing unlimited Verizon plan."
+    },
+    {
+      "label": "T-Mobile subscribers who travel internationally a few times per year",
+      "offerId": "tmobile-go5g-plus",
+      "reason": "Go5G Plus includes 5GB/month in 215+ countries at no extra cost, making international coverage a free perk of your existing plan."
+    },
+    {
+      "label": "Heavy data users streaming video or working remotely abroad",
+      "offerId": "holafly-esim",
+      "reason": "Holafly's truly unlimited data with no throttling is the only option for travelers who stream, video-call, or upload large files daily."
+    }
+  ]
 }

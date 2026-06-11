@@ -97,5 +97,32 @@
     "webull-app": "Use paper trading for 30 days before going live — Webull's advanced features have a learning curve.",
     "etrade-mobile": "Power E*TRADE app is separate from main E*TRADE app — download both."
   },
-  "pinDescription": "Five stock trading apps audited over 12 months. Same 50 trades. Here's how much PFOF costs you on a 1000-share trade, and the broker that delivered $15 in price improvement when Robinhood gave $3."
+  "pinDescription": "Five stock trading apps audited over 12 months. Same 50 trades. Here's how much PFOF costs you on a 1000-share trade, and the broker that delivered $15 in price improvement when Robinhood gave $3.",
+  "recommendedFor": [
+    {
+      "label": "Long-term investors who trade 1,000+ shares at a time",
+      "offerId": "fidelity-mobile",
+      "reason": "No PFOF means real price improvement averaging $0.018/share — that's $15 saved per 1,000-share trade versus Robinhood's $3."
+    },
+    {
+      "label": "Investors who want banking and brokerage in one place",
+      "offerId": "charles-schwab-mobile",
+      "reason": "Schwab combines checking, brokerage, and retirement accounts in a single app with no PFOF on equities and unlimited ATM rebates."
+    },
+    {
+      "label": "First-time investors opening their very first brokerage account",
+      "offerId": "robinhood-app",
+      "reason": "The simplest onboarding in the category lets beginners start investing in 60 seconds with fractional shares and no commission."
+    },
+    {
+      "label": "Active day traders who rely on technical analysis charts",
+      "offerId": "webull-app",
+      "reason": "Pro-level charting with serious indicators, free Level 2 data, and a paper trading mode to test strategies before going live."
+    },
+    {
+      "label": "Options traders wanting analytics without thinkorswim complexity",
+      "offerId": "etrade-mobile",
+      "reason": "Power E*TRADE delivers serious options analytics and Morgan Stanley research without the steep learning curve of pure-pro platforms."
+    }
+  ]
 }

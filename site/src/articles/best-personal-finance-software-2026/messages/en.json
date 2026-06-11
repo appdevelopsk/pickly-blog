@@ -131,5 +131,32 @@
     "empower-personal-dashboard": "Sign up at empower.com. Completely free. You'll receive an introductory phone call from a wealth advisor if you have over $250K in tracked assets — politely decline if you're not interested.",
     "tiller-money": "Sign up at tillerhq.com. 30-day free trial. Annual billing only ($79). Includes access to the template library and the Tiller community Discord."
   },
-  "pinDescription": "Best personal finance software 2026: YNAB vs. Monarch Money vs. Quicken Simplifi vs. Empower vs. Tiller — 12 months after Mint's shutdown. #budgeting #personalfinance"
+  "pinDescription": "Best personal finance software 2026: YNAB vs. Monarch Money vs. Quicken Simplifi vs. Empower vs. Tiller — 12 months after Mint's shutdown. #budgeting #personalfinance",
+  "recommendedFor": [
+    {
+      "label": "Debt-focused people determined to change spending habits",
+      "offerId": "ynab-budgeting",
+      "reason": "YNAB's zero-based method forces every dollar to have a job, driving the behavioral change needed to eliminate debt."
+    },
+    {
+      "label": "Former Mint users looking for a seamless replacement",
+      "offerId": "monarch-money",
+      "reason": "Built by ex-Mint employees with a familiar UX, household sharing, and the best bank sync reliability (99.2%) in our test."
+    },
+    {
+      "label": "Budget-conscious users who want basic budgeting without overpaying",
+      "offerId": "quicken-simplifi",
+      "reason": "At $48/year — the lowest paid-tier price — Simplifi covers essential budgeting and recurring-expense tracking affordably."
+    },
+    {
+      "label": "High-income investors tracking net worth and retirement readiness",
+      "offerId": "empower-personal-dashboard",
+      "reason": "Empower's free investment fee analyzer, asset allocation tools, and retirement planner are unmatched at any price."
+    },
+    {
+      "label": "Spreadsheet power users who want total budgeting control",
+      "offerId": "tiller-money",
+      "reason": "Tiller pipes daily bank data into Google Sheets, letting you build any budgeting system with full formula flexibility."
+    }
+  ]
 }

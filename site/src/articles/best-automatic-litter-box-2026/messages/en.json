@@ -97,5 +97,32 @@
     "litter-robot-3-connect": "Refurbished from Whisker comes with same warranty as new — third-party refurbished does not.",
     "casa-leo-loo-too": "Pair with Casa Leo's stand for stability — base unit can wobble on hardwood."
   },
-  "pinDescription": "Five automatic litter boxes tested with six cats over six months. Cat-acceptance rates measured, 2 AM cycling logged, motor failures tracked. Here's the litter box your cat will actually use — and the one 2/6 rejected."
+  "pinDescription": "Five automatic litter boxes tested with six cats over six months. Cat-acceptance rates measured, 2 AM cycling logged, motor failures tracked. Here's the litter box your cat will actually use — and the one 2/6 rejected.",
+  "recommendedFor": [
+    {
+      "label": "Multi-cat households who want zero litter box drama",
+      "offerId": "litter-robot-4",
+      "reason": "Globe mechanism and triple-redundancy sensors achieved 5/6 cat acceptance — the highest in our test. App tracks each cat's weight and use frequency across multiple cats."
+    },
+    {
+      "label": "Budget-conscious cat owners wanting app control",
+      "offerId": "petkit-pura-x",
+      "reason": "Saves $200 over Litter-Robot while still delivering app monitoring and built-in smell removal — worth it if your cat accepts the drum entry shape."
+    },
+    {
+      "label": "First-time auto-litter buyers testing the concept",
+      "offerId": "petsafe-scoopfree-crystal-pro",
+      "reason": "At $200, it's the lowest barrier to entry for hands-free scooping. Crystal litter also means less odor if a lower upfront cost matters most."
+    },
+    {
+      "label": "Litter-Robot fans who want to save without compromising",
+      "offerId": "litter-robot-3-connect",
+      "reason": "Same globe mechanism and app connectivity as LR4 at ~$200 less via Whisker's certified refurbished store, with the same warranty coverage."
+    },
+    {
+      "label": "Multi-cat owners who want per-cat health monitoring",
+      "offerId": "casa-leo-loo-too",
+      "reason": "Distinguishes individual cats by weight sensor and adds UV sanitization between cycles — ideal for households tracking each cat's bathroom habits separately."
+    }
+  ]
 }
