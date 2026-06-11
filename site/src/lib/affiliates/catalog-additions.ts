@@ -162,7 +162,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bamboo-pillow-eli-earth-luna",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71MkHQVI7-L._AC_.jpg",
     "priceMin": "69",
     "priceMax": "89",
     "category": "home",
@@ -266,7 +266,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bath-organizer-yamazaki-tower-jp",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51G3uVavKAL._AC_SL1001_.jpg",
     "priceMin": "3080",
     "priceMax": "6600",
     "category": "home",
@@ -552,7 +552,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bento-box-lock-lock-3tier",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81hD5VsuuWL._AC_SL1500_.jpg",
     "priceMin": "20",
     "priceMax": "30",
     "category": "home",
@@ -579,7 +579,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bento-box-skater-2tier-jp",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51z3ol3UiBL._AC_SL1000_.jpg",
     "priceMin": "7",
     "priceMax": "13",
     "category": "home",
@@ -605,7 +605,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bento-box-hakoya-japan",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/511NhvUnraS._AC_.jpg",
     "priceMin": "18",
     "priceMax": "35",
     "category": "home",
@@ -1100,7 +1100,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cat-food-ciao-tuna-jp",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71yBqNvQ+KL._AC_SL1497_.jpg",
     "priceMin": "80",
     "priceMax": "500",
     "category": "home",
@@ -1152,7 +1152,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cat-food-ziwi-peak-wet",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81BNvSXsa9L._AC_SL1500_.jpg",
     "priceMin": "350",
     "priceMax": "900",
     "category": "home",
@@ -1178,7 +1178,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cat-litter-dr-elsey-precious-cat",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71yvqBnUtKL._AC_SL1500_.jpg",
     "priceMin": "3500",
     "priceMax": "8500",
     "category": "home",
@@ -1256,7 +1256,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cat-litter-unicharm-des-jp",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Ln3J3Z8IL._AC_SL1100_.jpg",
     "priceMin": "500",
     "priceMax": "2500",
     "category": "home",
@@ -1308,7 +1308,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "closet-organizer-ikea-pax",
-    "imageUrl": "",
+    "imageUrl": "https://www.ikea.com/th/en/images/products/pax-wardrobe-combination-white__0988428_pe818105_s5.jpg?f=g",
     "priceMin": "¥15,000",
     "priceMax": "¥60,000",
     "category": "home",
@@ -1829,7 +1829,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "composting-bin-full-circle-breeze",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71LuzFcv8jL._AC_SX679_.jpg",
     "priceMin": "30",
     "priceMax": "40",
     "category": "home",
@@ -2194,7 +2194,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "compression-socks-feetures-elite",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81RYRotuN4L._AC_SL1500_.jpg",
     "priceMin": "16",
     "priceMax": "20",
     "category": "fitness",
@@ -2974,7 +2974,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dish-rack-yamazaki-tower-jp",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/712cqaoGgFL._AC_SL1500_.jpg",
     "priceMin": "¥3,000",
     "priceMax": "¥5,500",
     "category": "home",
@@ -3676,7 +3676,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ext-ssd-sandisk-extreme-v2",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61zuR3UMnWL._AC_.jpg",
     "priceMin": "69",
     "priceMax": "149",
     "category": "tech",
@@ -3988,7 +3988,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "face-mist-evian-mineral-spray",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61alrnA95QL._SL1500_.jpg",
     "priceMin": "¥770",
     "priceMax": "¥990",
     "category": "beauty",
@@ -4014,7 +4014,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "face-mist-glow-recipe-watermelon",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61x7JaqemrL._AC_SL1500_.jpg",
     "priceMin": "¥4,840",
     "priceMax": "¥5,280",
     "category": "beauty",
@@ -4040,7 +4040,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "food-storage-oxo-good-grips-pop",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media/vc/5927f5c6-2793-4403-bb15-63ba79203323.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     "priceMin": "¥1,500",
     "priceMax": "¥6,000",
     "category": "home",
@@ -4066,7 +4066,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "food-storage-pyrex-simply-store",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/714dVMuFiqL._AC_.jpg",
     "priceMin": "¥2,000",
     "priceMax": "¥5,000",
     "category": "home",
@@ -4118,7 +4118,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "food-storage-iwaki-glass-jp",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61dt2h+GrUL._AC_.jpg",
     "priceMin": "¥800",
     "priceMax": "¥2,500",
     "category": "home",
@@ -5236,7 +5236,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hiking-poles-leki-micro-vario",
-    "imageUrl": "",
+    "imageUrl": "https://weyfarm-outdoors.co.uk/wp-content/uploads/2021/02/micro-vario-carbon-2019-pair-p5338-36937_image.jpg",
     "priceMin": "170",
     "priceMax": "185",
     "category": "fitness",
@@ -5314,7 +5314,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hiking-poles-komperdell-carbon",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51oPvXq7UzL._AC_SL1500_.jpg",
     "priceMin": "105",
     "priceMax": "120",
     "category": "fitness",
@@ -5418,7 +5418,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hot-choc-meiji-cacao-jp",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Va4CpQaYL.jpg",
     "priceMin": "600",
     "priceMax": "900",
     "category": "food",
@@ -5470,7 +5470,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-hada-labo-gokujun",
-    "imageUrl": "",
+    "imageUrl": "https://medias.watsons.co.id/publishing/WTCID-39357-back-zoom.jpg?version=1728590116",
     "priceMin": "¥660",
     "priceMax": "¥660",
     "category": "beauty",
@@ -5548,7 +5548,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-laneige-water-bank",
-    "imageUrl": "",
+    "imageUrl": "https://media.sephora.eu/content/dam/digital/pim/published/L/LANEIGE/795578/388949-media_swatch-0.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
     "priceMin": "$45",
     "priceMax": "$45",
     "category": "beauty",
@@ -6227,7 +6227,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "laptop-stand-moft-z",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61gtvbLWRPL._AC_SL1500_.jpg",
     "priceMin": "6000",
     "priceMax": "10000",
     "category": "tech",
@@ -6383,7 +6383,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "linen-sheets-parachute",
-    "imageUrl": "",
+    "imageUrl": "https://www.bhg.com/thmb/iryhzVrhMTyHekwqVI5JcGMUM3Q=/fit-in/1500x2666/filters:no_upscale():strip_icc()/bhg-linen-sheets-test-parachute-set-dburreson-22-2837b93d45544567b9ef071f24175aea.jpeg",
     "priceMin": "149",
     "priceMax": "249",
     "category": "home",
@@ -6851,7 +6851,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "magnesium-dhc-jp",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71LmjYrkmYL._AC_SL1000_.jpg",
     "priceMin": "800",
     "priceMax": "2000",
     "category": "food",
@@ -6929,7 +6929,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "memory-foam-pillow-saatva-latex",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61-HDwIbluL._AC_SL1500_.jpg",
     "priceMin": "145",
     "priceMax": "175",
     "category": "home",
@@ -7007,7 +7007,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "memory-foam-pillow-purple-harmony",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/5186tVUUfPL._AC_.jpg",
     "priceMin": "159",
     "priceMax": "189",
     "category": "home",
@@ -7111,7 +7111,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "moisturizer-etude-soon-jung",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51u4H-3GzgL._SL1000_.jpg",
     "priceMin": "$20",
     "priceMax": "$25",
     "category": "beauty",
@@ -7215,7 +7215,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "monitor-asus-rog-swift-pg27aqdm",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71tERZyENaL._AC_.jpg",
     "priceMin": "799",
     "priceMax": "999",
     "category": "tech",
@@ -7501,7 +7501,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "muscle-roller-trigger-point-grid",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71WUESEiowL._AC_SL1500_.jpg",
     "priceMin": "28",
     "priceMax": "36",
     "category": "fitness",
@@ -7787,7 +7787,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "niacinamide-some-by-mi",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61SuYmhnwWL._AC_.jpg",
     "priceMin": "$18",
     "priceMax": "$18",
     "category": "beauty",
@@ -8229,7 +8229,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "packing-cubes-away-starter-set",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/714ZJPMSiYL._AC_SL1500_.jpg",
     "priceMin": "55",
     "priceMax": "65",
     "category": "travel",
@@ -8333,7 +8333,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "passport-holder-bellroy-slim",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51NT+GkKj7L._AC_SX679_.jpg",
     "priceMin": "45",
     "priceMax": "55",
     "category": "travel",
@@ -8879,7 +8879,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "plant-pot-mkono-modern-concrete",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61gMOCxbLrL._AC_SL1302_.jpg",
     "priceMin": "22",
     "priceMax": "45",
     "category": "home",
@@ -9009,7 +9009,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "portable-fan-vornado-pivot5",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Za7bDHpML._AC_SL1500_.jpg",
     "priceMin": "50",
     "priceMax": "80",
     "category": "home",
@@ -9061,7 +9061,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "portable-fan-panasonic-dc-jp",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81T8L1d8CgL._AC_SL1500_.jpg",
     "priceMin": "15000",
     "priceMax": "35000",
     "category": "home",
@@ -9321,7 +9321,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "probiotics-fancl-jp",
-    "imageUrl": "",
+    "imageUrl": "https://img06.weeecdn.com/item/image/203/551/19A0532DF074B676.jpeg",
     "priceMin": "1500",
     "priceMax": "3000",
     "category": "food",
@@ -9867,7 +9867,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "security-cam-reolink-argus-4",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61ebCIVU4hL._AC_SL1500_.jpg",
     "priceMin": "11000",
     "priceMax": "16000",
     "category": "tech",
@@ -9893,7 +9893,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sheet-mask-mediheal-nct",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71PWDqi-xGL._AC_.jpg",
     "priceMin": "¥180",
     "priceMax": "¥250",
     "category": "beauty",
@@ -10101,7 +10101,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "shower-caddy-zenna-home-expandable",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91E9ak8P2ML._AC_SL1500_.jpg",
     "priceMin": "25",
     "priceMax": "45",
     "category": "home",
@@ -11011,7 +11011,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "space-heater-daikin-ceramic-jp",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61AFK8dczaL._AC_SL1500_.jpg",
     "priceMin": "20000",
     "priceMax": "50000",
     "category": "home",
@@ -11141,7 +11141,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "spirulina-yamamoto-jp",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71wCqdVGtzL._AC_SL1000_.jpg",
     "priceMin": "1500",
     "priceMax": "4000",
     "category": "food",
@@ -11479,7 +11479,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "toner-kikumasamune-sake",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61wGL-D+7pL._AC_SL1500_.jpg",
     "priceMin": "¥900",
     "priceMax": "¥1,200",
     "category": "beauty",
@@ -11505,7 +11505,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "toner-cosrx-aha-bha",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/6129xvpwnpL._SL1500_.jpg",
     "priceMin": "¥1,200",
     "priceMax": "¥1,800",
     "category": "beauty",
@@ -11531,7 +11531,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "toner-klairs-supple-preparation",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61K2fOs4y-S._SL1080_.jpg",
     "priceMin": "¥2,500",
     "priceMax": "¥3,200",
     "category": "beauty",
@@ -11739,7 +11739,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "travel-umbrella-knirps-x1",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71VRJRYc1pL._AC_SL1500_.jpg",
     "priceMin": "38",
     "priceMax": "48",
     "category": "travel",
@@ -11817,7 +11817,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "travel-umbrella-muji-jp",
-    "imageUrl": "",
+    "imageUrl": "https://cdn11.bigcommerce.com/s-36unquhwg5/images/stencil/1280x1280/products/8474/2372462/4550584128004_01_1260__30676.1732510690.jpg?c=1",
     "priceMin": "990",
     "priceMax": "2990",
     "category": "travel",
@@ -11973,7 +11973,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "tws-sony-wf-1000xm5",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61YgQ4faTaL._AC_SL1500_.jpg",
     "priceMin": "34000",
     "priceMax": "38000",
     "category": "tech",
@@ -12493,7 +12493,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "waist-trainer-squeem-perfect-waist",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Qj8rot+CL._AC_SL1500_.jpg",
     "priceMin": "78",
     "priceMax": "92",
     "category": "fitness",
@@ -12961,7 +12961,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "yoga-strap-lululemon-yoga",
-    "imageUrl": "",
+    "imageUrl": "https://images.lululemon.com/is/image/lululemon/LU9ARLS_0001_2?size=800,800",
     "priceMin": "18",
     "priceMax": "24",
     "category": "fitness",
@@ -13144,7 +13144,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "allbirds-tree-runner",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71HAeWiQ-wL._AC_SL1500_.jpg",
     "priceMin": "$98",
     "priceMax": "$110",
     "category": "fashion",
@@ -13768,7 +13768,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "warby-parker-haskell-polarized",
-    "imageUrl": "",
+    "imageUrl": "https://n.nordstrommedia.com/it/7c716e45-586a-426f-99b6-d0bc129d7680.jpeg?trim=color&w=350&h=536",
     "priceMin": "$145",
     "priceMax": "$175",
     "category": "fashion",
@@ -14210,7 +14210,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "wealthfront-robo",
-    "imageUrl": "",
+    "imageUrl": "https://i.ytimg.com/vi/aVoPmo5ezVM/maxresdefault.jpg",
     "priceMin": "0.25%",
     "priceMax": "0.25%",
     "category": "finance",
@@ -14236,7 +14236,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "schwab-intelligent-portfolios",
-    "imageUrl": "",
+    "imageUrl": "https://greenbusinessonly.com/wp-content/uploads/2024/10/Schwab-Intelligent-Portfolios.jpg",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -14262,7 +14262,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fidelity-go",
-    "imageUrl": "",
+    "imageUrl": "https://altwow.com/wp-content/uploads/2025/09/image-197-1024x617.png",
     "priceMin": "$0",
     "priceMax": "0.35%",
     "category": "finance",
@@ -15250,7 +15250,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "skip-hop-mainframe",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91ueNsRh4GL._AC_SL1500_.jpg",
     "priceMin": "$80",
     "priceMax": "$110",
     "category": "parenting",
@@ -15302,7 +15302,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ju-ju-be-be-right-back",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91CyV8TQFLL._AC_SL1500_.jpg",
     "priceMin": "$170",
     "priceMax": "$200",
     "category": "parenting",
@@ -16264,7 +16264,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "eagle-creek-undercover-belt",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91LgGAZw5nL._AC_SL1500_.jpg",
     "priceMin": "$25",
     "priceMax": "$32",
     "category": "travel",
@@ -16316,7 +16316,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "alpine-rivers-leg-wallet",
-    "imageUrl": "",
+    "imageUrl": "https://beebom.com/wp-content/uploads/2017/08/Alpine-sleeves-KK.jpg?quality=75&strip=all",
     "priceMin": "$20",
     "priceMax": "$28",
     "category": "travel",
@@ -16420,7 +16420,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "peak-design-everyday-15l",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81TKe-9lspL._AC_SL1500_.jpg",
     "priceMin": "$210",
     "priceMax": "$250",
     "category": "travel",
@@ -16992,7 +16992,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "banana-republic-classic-trench",
-    "imageUrl": "",
+    "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2025/11/22/69225cfec71ba1f71aca1b02/m_69225d29c71ba15216ca1c65.jpg",
     "priceMin": "$298",
     "priceMax": "$378",
     "category": "fashion",
@@ -18214,7 +18214,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ynab-budgeting",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81mTyHXc1gL._SL1500_.jpg",
     "priceMin": "$109/yr",
     "priceMax": "$179/yr",
     "category": "finance",
@@ -18786,7 +18786,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "baby-einstein-around-we-go",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81UaO7kjDDL._AC_.jpg",
     "priceMin": "$90",
     "priceMax": "$120",
     "category": "parenting",
@@ -19098,7 +19098,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "skip-hop-silver-lining-cloud-playmat",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71M729OcUcL.jpg",
     "priceMin": "$60",
     "priceMax": "$80",
     "category": "parenting",
@@ -19124,7 +19124,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fisher-price-deluxe-kick-and-play",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71-r3gtk2OL._AC_SL1321_.jpg",
     "priceMin": "$50",
     "priceMax": "$70",
     "category": "parenting",
@@ -19410,7 +19410,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "catit-flower-fountain",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61BhM8Zl27L._AC_SL1500_.jpg",
     "priceMin": "$35",
     "priceMax": "$45",
     "category": "pets",
@@ -20008,7 +20008,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "away-the-carry-on",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61H7MFSadML._AC_SL1500_.jpg",
     "priceMin": "$275",
     "priceMax": "$345",
     "category": "travel",
@@ -20710,7 +20710,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "joby-gorillapod-5k",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81FiahRJUML._AC_SL1500_.jpg",
     "priceMin": "$130",
     "priceMax": "$170",
     "category": "travel",
@@ -20970,7 +20970,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "the-north-face-1996-nuptse",
-    "imageUrl": "",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81D6tH6m56L._AC_UX679_.jpg",
     "priceMin": "$310",
     "priceMax": "$380",
     "category": "fashion",
@@ -21048,7 +21048,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "levis-trucker-jacket",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91XRh+9D-EL._AC_UL1500_.jpg",
     "priceMin": "$85",
     "priceMax": "$130",
     "category": "fashion",
@@ -21100,7 +21100,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "wrangler-cowboy-jacket",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71fXjTl5XOL._AC_SL1500_.jpg",
     "priceMin": "$60",
     "priceMax": "$95",
     "category": "fashion",
@@ -21178,7 +21178,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "suitsupply-jort-blazer",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.suitsupply.com/image/upload/b_rgb:efefef,c_fill,w_2600,h_3597/b_rgb:efefef,c_pad,dpr_1,w_850,h_1176,f_auto,q_auto,fl_progressive/products/Jackets/default/Winter/C25216_102.jpg",
     "priceMin": "$549",
     "priceMax": "$699",
     "category": "fashion",
@@ -21620,7 +21620,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "schwab-platform",
-    "imageUrl": "",
+    "imageUrl": "https://i.ytimg.com/vi/Mzd4t4phSro/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLC7iwIzCwe2TS7d1chIDIbXdxdZvg",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -21828,7 +21828,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "haven-life",
-    "imageUrl": "",
+    "imageUrl": "https://performline.com/wp-content/uploads/2022/09/Haven-Life-logo.png",
     "priceMin": "$15/mo",
     "priceMax": "$200/mo",
     "category": "finance",
@@ -22296,7 +22296,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "facet-wealth",
-    "imageUrl": "",
+    "imageUrl": "https://i.ytimg.com/vi/MqtyA15RJws/maxresdefault.jpg",
     "priceMin": "$2,400/yr",
     "priceMax": "$6,000/yr",
     "category": "finance",
@@ -22946,7 +22946,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "summer-infant-deluxe-baby-bather",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91L3SqBbEML._AC_SL1500_.jpg",
     "priceMin": "$20",
     "priceMax": "$35",
     "category": "parenting",
@@ -23726,7 +23726,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hygger-titanium-heater",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71rM1hJv0HL._AC_SL1500_.jpg",
     "priceMin": "$50",
     "priceMax": "$100",
     "category": "pets",
@@ -24220,7 +24220,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "anker-magnetic-magsafe-power-bank",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61lOM27IfSL._AC_.jpg",
     "priceMin": "$40",
     "priceMax": "$70",
     "category": "travel",
@@ -24272,7 +24272,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hydro-flask-32oz",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61cyXnQLGvL._AC_SL1500_.jpg",
     "priceMin": "$45",
     "priceMax": "$55",
     "category": "travel",
@@ -24298,7 +24298,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "yeti-rambler-26oz-bottle",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/518LgfCiItL._AC_SL1500_.jpg",
     "priceMin": "$45",
     "priceMax": "$55",
     "category": "travel",
@@ -24324,7 +24324,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "owala-freesip",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61rvkaBRxML._AC_SX679_.jpg",
     "priceMin": "$25",
     "priceMax": "$35",
     "category": "travel",
@@ -24376,7 +24376,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "larq-self-cleaning",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71nfk+6bSfL._AC_SX679_.jpg",
     "priceMin": "$95",
     "priceMax": "$135",
     "category": "travel",
@@ -24402,7 +24402,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "pacsafe-venturesafe-x30",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81sEPKoinOL._AC_SY741_.jpg",
     "priceMin": "$140",
     "priceMax": "$180",
     "category": "travel",
@@ -24636,7 +24636,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "minipresso-ns-capsules",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/617KLV5ngJL._AC_SL1001_.jpg",
     "priceMin": "$55",
     "priceMax": "$75",
     "category": "travel",
@@ -24714,7 +24714,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "linode-shared-cpu",
-    "imageUrl": "",
+    "imageUrl": "https://i.ytimg.com/vi/2vAPMBy2rLU/maxresdefault.jpg",
     "priceMin": "$5",
     "priceMax": "$144",
     "category": "tech",
@@ -25078,7 +25078,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "foxwell-nt301",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71JQBkvIl7L._AC_SL1500_.jpg",
     "priceMin": "$30",
     "priceMax": "$50",
     "category": "tech",
@@ -25260,7 +25260,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "healthy-paws-pet-insurance",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/A1nkjH9jExL.png",
     "priceMin": "$25",
     "priceMax": "$120",
     "category": "finance",
@@ -25702,7 +25702,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "athleta-power-train-tight",
-    "imageUrl": "",
+    "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/07/31/62e718dddbb0e7a57c3169b3/l_62e719a2bd66cd0f2c62adef.jpg",
     "priceMin": "$98",
     "priceMax": "$118",
     "category": "fashion",
@@ -26300,7 +26300,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hr-block-in-person-prep",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e255fffe-a772-437a-b7b5-988d8b1127a8.__CR0,0,1250,1667_PT0_SX300_V1___.png",
     "priceMin": "$80",
     "priceMax": "$300",
     "category": "finance",
@@ -26846,7 +26846,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "amica-mutual-homeowners",
-    "imageUrl": "",
+    "imageUrl": "https://images.bannerbear.com/direct/4mGpW3zwpg0ZK0AxQw/requests/000/094/634/019/DdWb1LGkNYNkbON3z70OKvRAP/4357e41f6119bec540c47820edf7db39bf38c88a.jpg",
     "priceMin": "Varies",
     "priceMax": "Varies",
     "category": "finance",
@@ -27288,7 +27288,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nutribullet-baby",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/614bM9yRiXL._AC_.jpg",
     "priceMin": "$80",
     "priceMax": "$120",
     "category": "parenting",
@@ -27418,7 +27418,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "evenflo-secure-step-gate",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91L9N0jS6HL._SL1500_.jpg",
     "priceMin": "$50",
     "priceMax": "$75",
     "category": "parenting",
@@ -27444,7 +27444,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "munchkin-easy-close-gate",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51-lmN-0qfL._SL1000_.jpg",
     "priceMin": "$35",
     "priceMax": "$55",
     "category": "parenting",
@@ -27600,7 +27600,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "waterwipes",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81HRznglKqL._AC_SL1500_.jpg",
     "priceMin": "$5/pack",
     "priceMax": "$10/pack",
     "category": "parenting",
@@ -27808,7 +27808,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "isle-of-dogs-everyday-shampoo",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71QvsDu697L._AC_SL1500_.jpg",
     "priceMin": "$15",
     "priceMax": "$30",
     "category": "pets",
@@ -28198,7 +28198,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "loving-pets-stainless-steel-bowl",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61rCcfun34L._AC_SL1500_.jpg",
     "priceMin": "$10",
     "priceMax": "$25",
     "category": "pets",
@@ -28250,7 +28250,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "yh-poker-cat-tunnel-3-way",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71wewye-iQL._AC_.jpg",
     "priceMin": "$15",
     "priceMax": "$25",
     "category": "pets",
@@ -28328,7 +28328,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "rainbow-cat-tunnel-pet-zone",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71+tPX7FrXL._AC_SL1500_.jpg",
     "priceMin": "$15",
     "priceMax": "$25",
     "category": "pets",
@@ -28484,7 +28484,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "neabot-p1-pro",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71OTUFHwEtL.jpg",
     "priceMin": "$200",
     "priceMax": "$300",
     "category": "pets",
@@ -28978,7 +28978,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "occer-12x25-compact",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71ni6tWpQ0L._AC_SL1500_.jpg",
     "priceMin": "$30",
     "priceMax": "$50",
     "category": "travel",
@@ -29290,7 +29290,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "lemonade-renters",
-    "imageUrl": "",
+    "imageUrl": "https://blakeinsurancegroup.com/wp-content/uploads/2025/05/Lemonade-vs-Progressive-renters-1024x683.png",
     "priceMin": "$10",
     "priceMax": "$25",
     "category": "finance",
@@ -31162,7 +31162,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "jcrew-ludlow-suit",
-    "imageUrl": "",
+    "imageUrl": "https://theadultman.com/wp-content/uploads/2020/10/J.Crew-Ludlow-Suit-Review-800x1200.png",
     "priceMin": "$498",
     "priceMax": "$798",
     "category": "fashion",
@@ -31266,7 +31266,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "lilysilk-classic-silk-pj",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f2c98613-6f61-45f4-961a-276806917add.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
     "priceMin": "$129",
     "priceMax": "$199",
     "category": "fashion",
@@ -31604,7 +31604,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sofi-student-loan-refi",
-    "imageUrl": "",
+    "imageUrl": "https://moneycheck.com/wp-content/uploads/2019/07/sofi-review.jpg",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -32670,7 +32670,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "kidkraft-modern-toddler-bed",
-    "imageUrl": "",
+    "imageUrl": "https://www.tlbox.com/wp-content/uploads/2018/11/KidKraft-Modern-Toddler-Bed.jpg",
     "priceMin": "$130",
     "priceMax": "$170",
     "category": "parenting",
@@ -32800,7 +32800,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ingenuity-cozy-kingdom-swing",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81qZUhwrQ2L._AC_SL1500_.jpg",
     "priceMin": "$70",
     "priceMax": "$85",
     "category": "parenting",
@@ -32878,7 +32878,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "evenflo-exersaucer-jump-learn",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61BcHOiouKL._AC_.jpg",
     "priceMin": "$90",
     "priceMax": "$120",
     "category": "parenting",
@@ -32930,7 +32930,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "skip-hop-explore-jumpscape",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/41b0swm+HkL._SY300_SX300_.jpg",
     "priceMin": "$120",
     "priceMax": "$150",
     "category": "parenting",
@@ -33632,7 +33632,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dynotag-smart-id-qr-tag",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61+6dqwkU8L._AC_SS450_.jpg",
     "priceMin": "$15",
     "priceMax": "$25",
     "category": "pets",
@@ -33788,7 +33788,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "trixie-mad-scientist-puzzle",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/41y4CgyfsKL._SL500_.jpg",
     "priceMin": "$30",
     "priceMax": "$40",
     "category": "pets",
@@ -34022,7 +34022,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "contigo-autoseal-west-loop",
-    "imageUrl": "",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61rxMvX9BKL._AC_SL1500_.jpg",
     "priceMin": "$22",
     "priceMax": "$30",
     "category": "travel",
@@ -34308,7 +34308,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ellis-james-designs-toiletries",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71XLwp7ADSL._AC_SL1500_.jpg",
     "priceMin": "$50",
     "priceMax": "$70",
     "category": "travel",
@@ -34412,7 +34412,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "peak-design-shoe-pouch",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e48abcf5-8245-4fff-8a30-a6f4a22dccad.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     "priceMin": "$30",
     "priceMax": "$40",
     "category": "travel",
@@ -34594,7 +34594,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ntonpower-international-strip",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/610uHf7ZocL._AC_SL1500_.jpg",
     "priceMin": "$30",
     "priceMax": "$40",
     "category": "travel",
@@ -34776,7 +34776,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "principal-individual-disability",
-    "imageUrl": "",
+    "imageUrl": "https://avatars.githubusercontent.com/u/61423976?s=280&v=4",
     "priceMin": "$45",
     "priceMax": "$280",
     "category": "finance",
@@ -34854,7 +34854,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "policygenius-disability-marketplace",
-    "imageUrl": "",
+    "imageUrl": "https://images.ctfassets.net/3uw9cov4u60w/7kqXxmMZuOcYBKceMJVZku/fe49092a68161c01f489f699a5b6436e/Disability-Hero-1800x1432.png?w=1366&h=1087&q=50&fm=png",
     "priceMin": "$40",
     "priceMax": "$300",
     "category": "finance",
@@ -35608,7 +35608,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "humana-dental-loyalty-plus",
-    "imageUrl": "",
+    "imageUrl": "https://greatsenioryears.com/wp-content/uploads/2024/02/senior-dental-insurance-plans-1.jpg",
     "priceMin": "$30",
     "priceMax": "$80",
     "category": "finance",
@@ -36258,7 +36258,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "zoho-crm-enterprise",
-    "imageUrl": "",
+    "imageUrl": "https://blog.zoho.com/sites/zblogs/images/pinned/amazon_connect-4-2017-03.png",
     "priceMin": "$14",
     "priceMax": "$52",
     "category": "tech",
@@ -36544,7 +36544,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "trello-premium",
-    "imageUrl": "",
+    "imageUrl": "https://images.ctfassets.net/rz1oowkt5gyp/4VPoY41PVoBmtKjjiKmIi/e51ad197dc64f6e91f80c1742d237668/webinar_StandardAndPremium_2x.png?w=936",
     "priceMin": "$5",
     "priceMax": "$10",
     "category": "tech",
@@ -36700,7 +36700,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vsp-individual-vision",
-    "imageUrl": "",
+    "imageUrl": "https://cahip-norcal.org/wp-content/uploads/2024/08/129635-24-VC-VSPIndividualVisionPlans-EmailHeader.jpg",
     "priceMin": "$13",
     "priceMax": "$40",
     "category": "finance",
@@ -36856,7 +36856,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "mass-mutual-care-choice",
-    "imageUrl": "",
+    "imageUrl": "https://vegansav.com/wp-content/uploads/2025/08/MassMutual-Life-Insurance.png",
     "priceMin": "$50000",
     "priceMax": "$300000",
     "category": "finance",
@@ -36960,7 +36960,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bamboohr-essentials",
-    "imageUrl": "",
+    "imageUrl": "https://thenewschoolexeter.co.uk/wp-content/upload/2026/03/bamboohr-tutorials.jpg",
     "priceMin": "$99",
     "priceMax": "$500",
     "category": "tech",
@@ -37480,7 +37480,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nulaxy-km18-bluetooth-fm",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1ca33a09-76d8-4b92-bc0c-cea8229be526.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     "priceMin": "$20",
     "priceMax": "$30",
     "category": "tech",
@@ -37506,7 +37506,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "anker-roav-smartcharge-f0",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a1e6d9b4-eeac-4b2e-84e8-ab3c180a4908.__CR0,0,970,300_PT0_SX970_V1___.jpg",
     "priceMin": "$35",
     "priceMax": "$50",
     "category": "tech",
@@ -37584,7 +37584,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ottocast-u2-x-pro-wireless",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61nLCkmOPwL._AC_SL1411_.jpg",
     "priceMin": "$300",
     "priceMax": "$450",
     "category": "tech",
@@ -37740,7 +37740,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "simplehuman-laundry-hamper",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71+b2sJWoDL._AC_SL1500_.jpg",
     "priceMin": "$80",
     "priceMax": "$100",
     "category": "home",
@@ -37764,7 +37764,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "honey-can-do-canvas-hamper",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81HLmX6j9yL._AC_SL1500_.jpg",
     "priceMin": "$20",
     "priceMax": "$30",
     "category": "home",
@@ -37836,7 +37836,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "yamazaki-tower-laundry-basket",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81bYO+362mL._AC_SX522_.jpg",
     "priceMin": "$60",
     "priceMax": "$80",
     "category": "home",
@@ -37932,7 +37932,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "mdesign-deep-drawer-organizer",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51BRrqyokWL._AC_SL1000_.jpg",
     "priceMin": "$20",
     "priceMax": "$30",
     "category": "home",
@@ -37980,7 +37980,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "brabantia-ironing-board-c",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/41CMyOeQ1GL._AC_SL1000_.jpg",
     "priceMin": "$130",
     "priceMax": "$160",
     "category": "home",
@@ -38052,7 +38052,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "rowenta-pro-compact-ironing-board",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/41uMYmxNxJL._AC_SL1001_.jpg",
     "priceMin": "$60",
     "priceMax": "$80",
     "category": "home",
@@ -38100,7 +38100,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "simplehuman-under-sink-caddy",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71gvGLm4h-L._AC_SL1500_.jpg",
     "priceMin": "$55",
     "priceMax": "$75",
     "category": "home",
@@ -38124,7 +38124,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "mdesign-under-sink-organizer",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61abj8PCXvL._AC_.jpg",
     "priceMin": "$25",
     "priceMax": "$35",
     "category": "home",
@@ -38220,7 +38220,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "simplehuman-toilet-brush",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71FXlqlG5rL._AC_SL1500_.jpg",
     "priceMin": "$25",
     "priceMax": "$35",
     "category": "home",
@@ -38244,7 +38244,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "oxo-good-grips-toilet-brush",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71zIQ+P8sDL._AC_.jpg",
     "priceMin": "$15",
     "priceMax": "$20",
     "category": "home",
@@ -38340,7 +38340,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "simplehuman-rechargeable-sensor-pump",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/41kPFA3blnL.jpg",
     "priceMin": "$50",
     "priceMax": "$70",
     "category": "home",
@@ -38388,7 +38388,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "aesop-soap-dispenser-bottle",
-    "imageUrl": "",
+    "imageUrl": "https://media.zenfs.com/en/in_the_know_500/4c2a7a8c08f8f78616b5f7ef56bbf499",
     "priceMin": "$35",
     "priceMax": "$45",
     "category": "home",
@@ -38412,7 +38412,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "oxo-good-grips-soap-dispenser",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media/vc/8346a86c-584b-4591-b614-591082b552c5.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     "priceMin": "$12",
     "priceMax": "$18",
     "category": "home",
@@ -38460,7 +38460,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "google-nest-learning-thermostat",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/417pCyt+K4L._AC_SL1000_.jpg",
     "category": "home",
     "badge": "🌡️ Best Overall",
     "name": { "en": "Google Nest Learning Thermostat (4th Gen)", "ja": "Google Nest 学習サーモスタット（第4世代）" },
@@ -38474,7 +38474,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ecobee-smartthermostat-premium",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51U1jXuTPVL.jpg",
     "category": "home",
     "badge": "🌡️ Best Multi-Room",
     "name": { "en": "ecobee SmartThermostat Premium", "ja": "ecobee スマートサーモスタット プレミアム" },
@@ -38530,7 +38530,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "west-elm-harmony-sofa",
-    "imageUrl": "",
+    "imageUrl": "https://media1.popsugar-assets.com/files/thumbor/Om0cwsjiahH1zqKTjpz76tvcqpY/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2023/01/30/966/n/1922794/e2e1174dc056c485_netimgar3kuY/i/Best-Extra-Deep-Sofa-West-Elm-Harmony-Sofa.jpg",
     "category": "home",
     "badge": "🛋️ Best Mid-Range Design",
     "name": { "en": "West Elm Harmony Sofa", "ja": "ウエストエルム ハーモニーソファ" },
@@ -38544,7 +38544,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "article-sven-sofa",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,w_730/at%2Fshopping%2F2025-05%2Fsven-leather-sofa-article-reviews%2Fleather-sofa",
     "category": "home",
     "badge": "🛋️ Best Leather Value",
     "name": { "en": "Article Sven Sofa (Charme Tan Leather)", "ja": "アーティクル スヴェン ソファ（シャルムタン）" },
@@ -38558,7 +38558,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ikea-kivik-sofa",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81LNKyfmXrL._AC_SL1500_.jpg",
     "category": "home",
     "badge": "👨‍👩‍👧 Best for Families",
     "name": { "en": "IKEA KIVIK 3-Seat Sofa", "ja": "イケア キーヴィク 3人掛けソファ" },
@@ -38572,7 +38572,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "pottery-barn-pb-comfort-sofa",
-    "imageUrl": "",
+    "imageUrl": "https://www.potterybarn.com/pbimgs/rk/images/dp/wcm/201807/0080/pb-comfort-roll-arm-slipcovered-sofa-1-c.jpg",
     "category": "home",
     "badge": "🛋️ Best Deep Seat",
     "name": { "en": "Pottery Barn PB Comfort Sofa", "ja": "ポタリーバーン PBコンフォートソファ" },
@@ -38600,7 +38600,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "saatva-graphite-mattress-topper",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91CtmDSQQxL._AC_SL1500_.jpg",
     "category": "home",
     "badge": "❄️ Best Cooling Premium",
     "name": { "en": "Saatva Graphite Memory Foam Mattress Topper", "ja": "サートヴァ グラファイト メモリーフォームトッパー" },
@@ -38628,7 +38628,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "tempur-pedic-topper-supreme",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media/vc/595d42e8-854d-425d-8fe2-3bdad5060bac.__CR0,0,970,300_PT0_SX970_V1___.jpg",
     "category": "home",
     "badge": "❄️ Best for Cold Sleepers",
     "name": { "en": "Tempur-Pedic Topper Supreme", "ja": "テンピュール トッパースプリーム" },
@@ -38670,7 +38670,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sorbus-wine-rack-12bottle",
-    "imageUrl": "", // TODO: find stable imageUrl
+    "imageUrl": "https://m.media-amazon.com/images/I/81do7abhnxL._AC_SL1500_.jpg", // TODO: find stable imageUrl
     "category": "home",
     "badge": "🍷 Best Countertop Value",
     "name": { "en": "Sorbus 12-Bottle Freestanding Wine Rack", "ja": "ソーバス 12本用フリースタンディングワインラック" },
@@ -38684,7 +38684,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "wine-enthusiast-wall-mounted-rack",
-    "imageUrl": "", // TODO: find stable imageUrl
+    "imageUrl": "https://m.media-amazon.com/images/I/71bMx6YhtqL._AC_SL1500_.jpg", // TODO: find stable imageUrl
     "category": "home",
     "badge": "🍷 Best Wall Storage",
     "name": { "en": "Wine Enthusiast Wall-Mounted Wine Rack", "ja": "ワインエンスージアスト 壁掛けワインラック" },
@@ -38698,7 +38698,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "old-dutch-metal-wine-rack",
-    "imageUrl": "", // TODO: find stable imageUrl
+    "imageUrl": "https://m.media-amazon.com/images/I/619llWvmgBL._AC_SL1000_.jpg", // TODO: find stable imageUrl
     "category": "home",
     "badge": "🍷 Best Decorative",
     "name": { "en": "Old Dutch Antique Copper Scroll Wine Rack", "ja": "オールドダッチ アンティークコッパー スクロールワインラック" },
@@ -38740,7 +38740,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "withings-body-plus-scale",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61jzbR6GHaL._SL1500_.jpg",
     "category": "home",
     "badge": "⚖️ Best Smart Scale",
     "name": { "en": "Withings Body+ Smart Scale", "ja": "ウィジングス ボディプラス スマートスケール" },
@@ -39451,7 +39451,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "tarte-shape-tape-concealer",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51rK9yP1ZuL._SL1080_.jpg",
     "priceMin": "29",
     "priceMax": "29",
     "category": "beauty",
@@ -39643,7 +39643,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nyx-micro-brow-pencil",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/613Jp1NLugL._AC_SL1500_.jpg",
     "priceMin": "11",
     "priceMax": "11",
     "category": "beauty",
@@ -39787,7 +39787,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "rare-beauty-soft-pinch-tinted-gloss",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51dBMfRYrJL._SL1280_.jpg",
     "priceMin": "20",
     "priceMax": "20",
     "category": "beauty",
@@ -40032,7 +40032,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "olaplex-no3-hair-perfector",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61J1mJhNJfL._SL1500_.jpg",
     "category": "beauty",
     "badge": "🔧 Best Bond Repair",
     "name": {
@@ -40362,7 +40362,7 @@ export const CATALOG_ADDITIONS = [
   }  ,
   {
     "id": "steve-madden-ankle-boot",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/814LDGZHLYL._AC_SL1500_.jpg",
     "category": "fashion",
     "badge": "Best Street Style",
     "name": { "en": "Steve Madden Troopa Ankle Boot", "ja": "スティーブ マデン トゥルーパ アンクルブーツ" },
@@ -40373,7 +40373,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sam-edelman-circus-ankle-boot",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71noKywGzRL._AC_SL1500_.jpg",
     "category": "fashion",
     "badge": "Best Day-One Comfort",
     "name": { "en": "Sam Edelman Circus Holt Ankle Boot", "ja": "サム エデルマン サーカス ホルト アンクルブーツ" },
@@ -40384,7 +40384,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dr-martens-1460-ankle-boot",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61nh9CrQ7GL._AC_SL1500_.jpg",
     "category": "fashion",
     "badge": "Best Long-Term Investment",
     "name": { "en": "Dr. Martens 1460 8-Eye Boot", "ja": "ドクターマーチン 1460 8ホールブーツ" },
@@ -40395,7 +40395,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ugg-neumel-chelsea",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/710wk+48t0L._AC_SL1500_.jpg",
     "category": "fashion",
     "badge": "Best Cold-Weather Casual",
     "name": { "en": "UGG Neumel Chelsea Boot", "ja": "UGG ニューメル チェルシーブーツ" },
@@ -40406,7 +40406,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "franco-sarto-waxton-ankle-boot",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71qqe6yK7kL._AC_US1000_.jpg",
     "category": "fashion",
     "badge": "Best Office Boot",
     "name": { "en": "Franco Sarto Waxton Chelsea Boot", "ja": "フランコ サルト ワクストン チェルシーブーツ" },
@@ -40417,7 +40417,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ugg-classic-short-boot",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71fBgIPjZEL._AC_SL1500_.jpg",
     "category": "fashion",
     "badge": "Best Winter Style",
     "name": { "en": "UGG Classic Short Boot", "ja": "UGG クラシック ショートブーツ" },
@@ -40428,7 +40428,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sorel-caribou-boot",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/715A1+nKSFL._AC_SL1500_.jpg",
     "category": "fashion",
     "badge": "Best Cold-Weather Boot",
     "name": { "en": "SOREL Caribou Winter Boot", "ja": "ソレル カリブー ウィンターブーツ" },
@@ -40439,7 +40439,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hunter-original-tall-boot",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71900NLRyYL._AC_SL1500_.jpg",
     "category": "fashion",
     "badge": "Best Rain Boot",
     "name": { "en": "Hunter Original Tall Rain Boot", "ja": "ハンター オリジナル トール レインブーツ" },
@@ -40450,7 +40450,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "columbia-bugaboot-iii",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71GDHLV4SxL._AC_UL1500_.jpg",
     "category": "fashion",
     "badge": "Best Value Winter Boot",
     "name": { "en": "Columbia Bugaboot III Winter Boot", "ja": "コロンビア バガブート III ウィンターブーツ" },
@@ -40461,7 +40461,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "baffin-impact-boot",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Ot7FvjzvL._AC_SL1500_.jpg",
     "category": "fashion",
     "badge": "Best Extreme Cold Boot",
     "name": { "en": "Baffin Impact Winter Boot", "ja": "バフィン インパクト ウィンターブーツ" },
@@ -40472,7 +40472,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "levis-501-womens-jeans",
-    "imageUrl": "",
+    "imageUrl": "https://lscoglobal.scene7.com/is/image/lscoglobal/WB_0036A_GLO_CM_VD?fmt=jpeg&qlt=70&resMode=sharp2&fit=crop,1&op_usm=0.6,0.6,8&wid=2000&hei=2500",
     "category": "fashion",
     "badge": "Best Classic Denim",
     "name": { "en": "Levis 501 Womens Jeans", "ja": "リーバイス 501 ウィメンズジーンズ" },
@@ -40483,7 +40483,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "agolde-90s-pinch-waist-jeans",
-    "imageUrl": "",
+    "imageUrl": "https://www.mytheresa.com/media/1094/1238/100/75/P01111911_b2.jpg",
     "category": "fashion",
     "badge": "Best Premium Fit",
     "name": { "en": "AGOLDE 90s Pinch Waist Jeans", "ja": "アゴルデ 90s ピンチウエスト ジーンズ" },
@@ -40494,7 +40494,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "good-american-good-legs-jeans",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/1381/0415/files/250226_19_GLFCH873TE-B004-A_2547.jpg?v=1741901589&width=2000&height=3000&crop=center",
     "category": "fashion",
     "badge": "Best Size-Inclusive",
     "name": { "en": "Good American Good Legs Jeans", "ja": "グッドアメリカン グッドレッグス ジーンズ" },
@@ -40505,7 +40505,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "mango-straight-jeans",
-    "imageUrl": "",
+    "imageUrl": "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87020449_TM.jpg?ts=1729852443973&imwidth=1024&imdensity=1",
     "category": "fashion",
     "badge": "Best European Cut Value",
     "name": { "en": "Mango Straight Leg Jeans", "ja": "マンゴー ストレートレッグジーンズ" },
@@ -40516,7 +40516,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "everlane-90s-cheeky-straight",
-    "imageUrl": "",
+    "imageUrl": "https://media.everlane.com/image/upload/c_fill,w_3840,ar_1:1,q_auto,dpr_1.0,g_face:center,f_auto,fl_progressive:steep/i/20405084_f854",
     "category": "fashion",
     "badge": "Best Sustainable Pick",
     "name": { "en": "Everlane 90s Cheeky Straight Jean", "ja": "エバーレーン 90s チーキー ストレートジーン" },
@@ -40527,7 +40527,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "levis-511-slim-jeans",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81TBp4pIZNL._AC_SL1500_.jpg",
     "category": "fashion",
     "badge": "Best All-Around Slim",
     "name": { "en": "Levis 511 Slim Jeans", "ja": "リーバイス 511 スリムジーンズ" },
@@ -40549,7 +40549,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "lucky-brand-410-athletic",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61AmH+8fovL._AC_SL1200_.jpg",
     "category": "fashion",
     "badge": "Best for Athletic Builds",
     "name": { "en": "Lucky Brand 410 Athletic Slim Jean", "ja": "ラッキー ブランド 410 アスレチックスリムジーン" },
@@ -40560,7 +40560,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ag-jeans-tellis-slim",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.media.amplience.net/i/harryrosen/20179586046?maxW=3840&fmt=auto",
     "category": "fashion",
     "badge": "Best Color Retention",
     "name": { "en": "AG Jeans Tellis Slim Jean", "ja": "エージー ジーンズ テリス スリムジーン" },
@@ -40571,7 +40571,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nudie-jeans-lean-dean",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91bBMILgJsL._AC_SL1500_.jpg",
     "category": "fashion",
     "badge": "Best Raw Denim",
     "name": { "en": "Nudie Jeans Lean Dean", "ja": "ヌーディージーンズ リーンディーン" },
@@ -40582,7 +40582,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cupshe-one-piece-swimsuit",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81pDDCB1FdL._AC_SL1500_.jpg",
     "category": "fashion",
     "badge": "Best Budget Trendy Pick",
     "name": { "en": "Cupshe One-Piece Swimsuit", "ja": "カップシー ワンピース水着" },
@@ -40593,7 +40593,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "summersalt-sidestroke-swimsuit",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71t4x4l-2qL._AC_SL1500_.jpg",
     "category": "fashion",
     "badge": "Best Cup-Size Fit",
     "name": { "en": "Summersalt Sidestroke One-Piece", "ja": "サマーソルト サイドストローク ワンピース" },
@@ -40604,7 +40604,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "athleta-one-piece-swimsuit",
-    "imageUrl": "",
+    "imageUrl": "https://cf-assets-thredup.thredup.com/assets/716412974/xlarge.jpg",
     "category": "fashion",
     "badge": "Best for Active Swimming",
     "name": { "en": "Athleta Cali One-Piece Swimsuit", "ja": "アスレタ カリ ワンピース水着" },
@@ -40615,7 +40615,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "norma-kamali-mio-swimsuit",
-    "imageUrl": "",
+    "imageUrl": "https://www.net-a-porter.com/variants/images/1647597345390849/in/w2000_a3-4_q60.jpg",
     "category": "fashion",
     "badge": "Best Silhouette",
     "name": { "en": "Norma Kamali Mio One-Piece", "ja": "ノーマ カマリ ミオ ワンピース" },
@@ -40626,7 +40626,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "andie-the-malibu-swimsuit",
-    "imageUrl": "",
+    "imageUrl": "https://images.urbndata.com/is/image/Anthropologie/4142689060060_063_c2?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=640",
     "category": "fashion",
     "badge": "Best Direct-to-Consumer Value",
     "name": { "en": "Andie The Malibu One-Piece", "ja": "アンディ ザ マリブ ワンピース" },
@@ -40637,7 +40637,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "idesign-peva-shower-curtain-liner",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71aiZmvPTsL._AC_SL1500_.jpg",
     "category": "home",
     "badge": "Best Budget Liner",
     "name": { "en": "iDesign PEVA Shower Curtain Liner", "ja": "iDesign PEVAシャワーカーテンライナー" },
@@ -40648,7 +40648,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "maytex-fabric-shower-curtain",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71ZNkC75ozL._AC_SL1500_.jpg",
     "category": "home",
     "badge": "Best Machine-Washable Fabric",
     "name": { "en": "Maytex Smart Curtains Fabric Shower Curtain", "ja": "Maytex スマートカーテン ファブリックシャワーカーテン" },
@@ -40659,7 +40659,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "gorilla-grip-shower-liner",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61tkFnTWdVL._AC_SL1000_.jpg",
     "category": "home",
     "badge": "Best Heavy-Duty Liner",
     "name": { "en": "Gorilla Grip Original Premium Shower Liner", "ja": "ゴリラグリップ プレミアムシャワーライナー" },
@@ -40670,7 +40670,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "threshold-fabric-shower-curtain",
-    "imageUrl": "",
+    "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2023/09/26/6512e648a6bb76defe520ec2/m_6512e6617dfcc2d20904290d.jpeg",
     "category": "home",
     "badge": "Best Value Fabric Curtain",
     "name": { "en": "Threshold Fabric Shower Curtain", "ja": "スレショルド ファブリックシャワーカーテン" },
@@ -40681,7 +40681,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "west-elm-organic-cotton-shower-curtain",
-    "imageUrl": "",
+    "imageUrl": "https://images.dwell.com/photos/6063391372700811264/6843284175222386688/large.jpg",
     "category": "home",
     "badge": "Best Premium Organic",
     "name": { "en": "West Elm Organic Cotton Shower Curtain", "ja": "ウェストエルム オーガニックコットンシャワーカーテン" },
@@ -40692,7 +40692,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "songmics-storage-ottoman",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91+VXk6QR3L._AC_SL1500_.jpg",
     "category": "home",
     "badge": "Best Budget Storage",
     "name": { "en": "SONGMICS Storage Ottoman with Serving Trays", "ja": "SONGMICS 収納オットマン（サービングトレー付き）" },
@@ -40703,7 +40703,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "linon-home-storage-ottoman",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91sZRGSxcrL._AC_SL1500_.jpg",
     "category": "home",
     "badge": "Best Mid-Century Style",
     "name": { "en": "Linon Home Tufted Storage Ottoman", "ja": "リノン ホーム タフテッド収納オットマン" },
@@ -40714,7 +40714,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "christopher-knight-velvet-ottoman",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/813l1K+5BFL._AC_.jpg",
     "category": "home",
     "badge": "Best Velvet Statement Piece",
     "name": { "en": "Christopher Knight Home Velvet Storage Ottoman", "ja": "クリストファー・ナイト ベルベット収納オットマン" },
@@ -40725,7 +40725,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "humble-hues-storage-ottoman",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91AuPDgeKcL._AC_UL400_.jpg",
     "category": "home",
     "badge": "Best Large Capacity",
     "name": { "en": "Humble Hues Large Storage Ottoman", "ja": "ハンブル ヒューズ 大型収納オットマン" },
@@ -40736,7 +40736,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "pottery-barn-comfort-ottoman",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71PxtYS52GL._AC_.jpg",
     "category": "home",
     "badge": "Best Premium Upholstery",
     "name": { "en": "Pottery Barn Comfort Square Storage Ottoman", "ja": "ポタリーバーン コンフォートスクエア収納オットマン" },
