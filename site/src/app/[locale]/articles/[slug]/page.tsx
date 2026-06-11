@@ -158,6 +158,13 @@ export default async function ArticlePage({ params }: Props) {
       : `${SITE_URL}${meta.ogImage}-${locale}.png`
     : null;
 
+  const AUTHOR_PERSON = {
+    "@type": "Person",
+    name: "Pickly Editorial",
+    url: SITE_URL,
+    sameAs: ["https://www.pinterest.com/appdevelopsk/", SITE_URL],
+  };
+
   // JSON-LD: ItemList for comparison articles (ranked product list rich result)
   const itemListSchema = meta.type === "comparison" && offers.length > 0 ? {
     "@context": "https://schema.org",
@@ -183,7 +190,7 @@ export default async function ArticlePage({ params }: Props) {
               "@type": "Review",
               ...(product?.review ? { reviewBody: product.review } : {}),
               ...(o.rating ? { reviewRating: { "@type": "Rating", ratingValue: o.rating, bestRating: 5, worstRating: 1 } } : {}),
-              author: { "@type": "Organization", name: "Pickly", url: SITE_URL },
+              author: AUTHOR_PERSON,
             },
           } : {}),
         },
@@ -201,8 +208,8 @@ export default async function ArticlePage({ params }: Props) {
     dateModified: meta.updatedAt,
     url: canonicalUrl,
     ...(ogImageUrl ? { image: ogImageUrl } : {}),
-    author: { "@type": "Organization", name: "Pickly", url: SITE_URL },
-    publisher: { "@type": "Organization", name: "Pickly", url: SITE_URL },
+    author: AUTHOR_PERSON,
+    publisher: { "@type": "Organization", name: "Pickly", url: SITE_URL, logo: { "@type": "ImageObject", url: `${SITE_URL}/icon.png` } },
     inLanguage: locale,
   };
 
