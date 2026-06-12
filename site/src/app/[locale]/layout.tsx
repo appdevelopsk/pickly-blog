@@ -1,3 +1,4 @@
+import type { Viewport } from "next";
 import { Inter } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
@@ -16,6 +17,11 @@ const inter = Inter({
   display: "swap",
   variable: "--font-inter",
 });
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+};
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
