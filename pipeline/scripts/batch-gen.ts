@@ -1,13 +1,17 @@
 /**
- * Batch article generator (2026-05-19).
- * Reads articles from batch-articles.ts and writes meta.ts + 17 locale JSON
- * files per article, plus appends offer entries to catalog-additions.ts,
- * and emits a registry patch snippet for src/lib/articles/registry.ts.
+ * 記事生成 + 画像生成の統合スクリプト (2026-06-13).
+ * 1. meta.ts + 17ロケールJSON生成
+ * 2. catalog-additions.ts にオファー追記
+ * 3. registry.ts に import/エントリ追記
+ * 4. fetch-product-images.ts で商品画像URL取得
+ * 5. gen-pin-images.ts で Pinterestピン画像(1000x1500)生成
  *
  * Run: npx tsx pipeline/scripts/batch-gen.ts
+ *      SKIP_IMAGES=1 npx tsx pipeline/scripts/batch-gen.ts  # 画像スキップ
  */
 import fs from "node:fs";
 import path from "node:path";
+import { execSync } from "node:child_process";
 import { ARTICLES, NEW_OFFERS, type ArticleDef } from "./batch-articles";
 
 const ROOT = path.resolve(__dirname, "../..");
@@ -173,7 +177,36 @@ function main() {
     writeMessages(a);
   }
   patchRegistry();
-  console.log("done");
+
+  if (process.env.SKIP_IMAGES === "1") {
+    console.log("→ SKIP_IMAGES=1 — 画像生成スキップ");
+    console.log("done");
+    return;
+  }
+
+  const siteDir = path.join(ROOT, "site");
+
+  // Step 4: 商品画像URLを取得（空の imageUrl を埋める）
+  console.log("\n→ 商品画像URLをフェッチ中...");
+  try {
+    execSync("npx tsx scripts/fetch-product-images.ts", { cwd: siteDir, stdio: "inherit" });
+  } catch {
+    console.error("  ⚠ fetch-product-images 失敗 — 後で手動実行: cd site && npx tsx scripts/fetch-product-images.ts");
+  }
+
+  // Step 5: Pinterest ピン画像を生成（新規記事は未承認なので --all で hasApprovedAds をバイパス）
+  const slugs = ARTICLES.map((a) => a.slug);
+  console.log(`\n→ Pinterestピン画像を生成中 (${slugs.length} 記事 × en,ja,de,fr,es)...`);
+  try {
+    execSync(
+      `npx tsx scripts/gen-pin-images.ts --all --locales en,ja,de,fr,es --force`,
+      { cwd: siteDir, stdio: "inherit" },
+    );
+  } catch {
+    console.error("  ⚠ gen-pin-images 失敗 — 後で手動実行: cd site && npx tsx scripts/gen-pin-images.ts --all --force");
+  }
+
+  console.log("\ndone");
 }
 
 main();

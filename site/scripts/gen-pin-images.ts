@@ -41,6 +41,7 @@ const CATEGORY = flag("category");
 const ONLY_SLUG = flag("slug");
 const LIMIT = flag("limit") ? parseInt(flag("limit")!, 10) : Infinity;
 const FORCE = has("force");
+const ALL = has("all"); // bypass hasApprovedAds — use when generating for brand-new articles
 
 const W = 1000;
 const H = 1500;
@@ -121,7 +122,7 @@ function svg(title: string, category: string): string {
 }
 
 // ---- 対象決定 -----------------------------------------------------
-let live = listArticles().filter((a) => a.locales.some((l) => hasApprovedAds(a, l)));
+let live = listArticles().filter((a) => ALL || a.locales.some((l) => hasApprovedAds(a, l)));
 if (ONLY_SLUG) live = live.filter((a) => a.slug === ONLY_SLUG);
 if (CATEGORY) live = live.filter((a) => a.category === CATEGORY);
 live = live.slice(0, LIMIT === Infinity ? live.length : LIMIT);
@@ -131,7 +132,7 @@ fs.mkdirSync(OUT_DIR, { recursive: true });
 let made = 0;
 let skipped = 0;
 for (const a of live as ArticleMeta[]) {
-  const builtLocales = a.locales.filter((l) => hasApprovedAds(a, l));
+  const builtLocales = ALL ? a.locales : a.locales.filter((l) => hasApprovedAds(a, l));
   for (const locale of LOCALES) {
     if (!builtLocales.includes(locale as ArticleMeta["locales"][number])) continue;
     const outPath = path.join(OUT_DIR, `${a.slug}-${locale}-pin.png`);
