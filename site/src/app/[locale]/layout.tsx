@@ -43,6 +43,8 @@ export default async function LocaleLayout({ children, params }: Props) {
   return (
     <html lang={locale} dir={dir}>
       <head>
+        <link rel="preconnect" href="https://fundingchoicesmessages.google.com" />
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
         <link rel="alternate" type="application/rss+xml" title="Pickly — Latest Reviews (EN)" href={`${SITE_URL}/feed.xml`} />
         <link rel="alternate" type="application/rss+xml" title="Pickly — 最新レビュー (日本語)" href={`${SITE_URL}/feed-ja.xml`} />
         <script

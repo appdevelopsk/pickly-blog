@@ -32,7 +32,7 @@ export function SiteFooter() {
           {/* Brand */}
           <div className="md:col-span-1">
             <p className="mb-2 text-xl font-black text-white">{t("site.name")}</p>
-            <p className="text-slate-500 leading-relaxed text-xs">{t("site.footerTagline")}</p>
+            <p className="text-slate-400 leading-relaxed text-xs">{t("site.footerTagline")}</p>
             <div className="mt-4 flex gap-3 text-xs">
               <Link href="/feed.xml" className="flex items-center gap-1 rounded-full border border-slate-700 px-3 py-1 text-slate-400 hover:border-orange-500 hover:text-orange-400 transition-colors">
                 RSS
@@ -45,7 +45,7 @@ export function SiteFooter() {
 
           {/* Categories */}
           <div>
-            <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-500">Categories</p>
+            <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-400">Categories</p>
             <nav className="flex flex-col gap-2">
               {CATEGORIES.slice(0, 5).map(({ key, icon }) => {
                 let label = key;
@@ -60,7 +60,7 @@ export function SiteFooter() {
           </div>
 
           <div>
-            <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-500">&nbsp;</p>
+            <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-400">&nbsp;</p>
             <nav className="flex flex-col gap-2 mt-[1.125rem]">
               {CATEGORIES.slice(5).map(({ key, icon }) => {
                 let label = key;
@@ -76,7 +76,7 @@ export function SiteFooter() {
 
           {/* Discover */}
           <div>
-            <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-500">Discover</p>
+            <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-400">Discover</p>
             <nav className="flex flex-col gap-2">
               <Link href="/ranking"   className="text-slate-400 hover:text-white transition-colors">🏆 Rankings</Link>
               <Link href="/new"       className="text-slate-400 hover:text-white transition-colors">🆕 New reviews</Link>
@@ -93,7 +93,7 @@ export function SiteFooter() {
         </div>
 
         {/* Legal links */}
-        <div className="mb-8 flex flex-wrap gap-x-6 gap-y-2 border-t border-slate-800 pt-6 text-xs text-slate-500">
+        <div className="mb-8 flex flex-wrap gap-x-6 gap-y-2 border-t border-slate-800 pt-6 text-xs text-slate-400">
           <Link href="/disclosure" className="hover:text-slate-300 transition-colors">{t("nav.disclosure")}</Link>
           <Link href="/about"      className="hover:text-slate-300 transition-colors">{t("nav.about")}</Link>
           <Link href="/privacy"    className="hover:text-slate-300 transition-colors">{t("nav.privacy")}</Link>
@@ -103,22 +103,22 @@ export function SiteFooter() {
 
         {/* Sister sites */}
         <div className="mb-6 border-t border-slate-800 pt-6">
-          <p className="mb-3 text-xs font-semibold uppercase tracking-wide text-slate-500">
+          <p className="mb-3 text-xs font-semibold uppercase tracking-wide text-slate-400">
             {t("crossPromo.title")}
           </p>
           <div className="flex flex-col gap-3 sm:flex-row sm:gap-10">
             <a href="https://toolify365.com" className="group">
               <span className="font-bold text-slate-200 group-hover:text-white transition-colors">Toolify365</span>
-              <span className="mt-0.5 block text-xs text-slate-500">{t("crossPromo.toolify")}</span>
+              <span className="mt-0.5 block text-xs text-slate-400">{t("crossPromo.toolify")}</span>
             </a>
             <a href="https://fxea365.com" className="group">
               <span className="font-bold text-slate-200 group-hover:text-white transition-colors">FXEA365</span>
-              <span className="mt-0.5 block text-xs text-slate-500">{t("crossPromo.fxea")}</span>
+              <span className="mt-0.5 block text-xs text-slate-400">{t("crossPromo.fxea")}</span>
             </a>
           </div>
         </div>
 
-        <p className="border-t border-slate-800 pt-5 text-xs text-slate-600">
+        <p className="border-t border-slate-800 pt-5 text-xs text-slate-400">
           © {new Date().getFullYear()} {t("site.name")}. All rights reserved.
         </p>
       </div>

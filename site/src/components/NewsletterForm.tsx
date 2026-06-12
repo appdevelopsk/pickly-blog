@@ -28,7 +28,12 @@ export function NewsletterForm({ source = "pickly" }: { source?: string }) {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email, source, locale }),
       });
-      setState(res.ok ? "ok" : "err");
+      if (res.ok) {
+        setState("ok");
+        (window as { gtag?: (...args: unknown[]) => void }).gtag?.("event", "newsletter_signup", { source, locale });
+      } else {
+        setState("err");
+      }
     } catch {
       setState("err");
     }
@@ -61,7 +66,7 @@ export function NewsletterForm({ source = "pickly" }: { source?: string }) {
             </button>
           </div>
           {state === "err" && <p className="mt-2 text-xs text-red-400">{t("error")}</p>}
-          <p className="mt-2 text-[11px] text-slate-500">
+          <p className="mt-2 text-[11px] text-slate-400">
             {t("privacy")}{" "}
             <Link href="/privacy" className="underline hover:text-slate-300">
               {tn("privacy")}

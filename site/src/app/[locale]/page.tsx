@@ -5,7 +5,7 @@ import { listArticlesForLocale } from "@/lib/articles/registry";
 import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
-import { getOfferImageUrl } from "@/lib/affiliates/images";
+import { getOfferImageUrl, resizeAmazonImageUrl } from "@/lib/affiliates/images";
 import { OG_BASE_URL } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
@@ -185,7 +185,7 @@ export default async function HomePage({ params }: Props) {
                 >
                   {CATEGORY_ICONS[cat] && <span>{CATEGORY_ICONS[cat]}</span>}
                   <span>{label}</span>
-                  <span className="text-xs text-slate-400">({categoryCounts[cat]})</span>
+                  <span className="text-xs text-slate-500">({categoryCounts[cat]})</span>
                 </Link>
               );
             })}
@@ -238,7 +238,8 @@ export default async function HomePage({ params }: Props) {
             {/* ── Featured card ── */}
             {featured && (() => {
               const { title, description, catLabel } = getArticleText(featured);
-              const imgSrc = getThumbnail(featured, locale);
+              const imgSrcRaw = getThumbnail(featured, locale);
+              const imgSrc = imgSrcRaw ? resizeAmazonImageUrl(imgSrcRaw, 800) : null;
               const isProductImg = imgSrc && !imgSrc.includes("/og/");
               const offer = getFirstOffer(featured);
               const badge = offer?.badge;
@@ -258,6 +259,7 @@ export default async function HomePage({ params }: Props) {
                     <ArticleCardImage
                       src={imgSrc}
                       alt={title}
+                      priority
                       className={`h-full w-full transition-transform duration-500 group-hover:scale-105 ${isProductImg ? "object-contain p-6" : "object-cover"}`}
                     >
                       <CategoryPlaceholder category={featured.category} title={title} />
@@ -280,7 +282,7 @@ export default async function HomePage({ params }: Props) {
                       <span className="rounded-full bg-brand-50 border border-brand-200 px-2.5 py-0.5 text-[11px] font-bold text-brand-700 uppercase tracking-wide">
                         Featured
                       </span>
-                      <span className="text-xs text-slate-400">{typeLabel} · {picksCount} picks</span>
+                      <span className="text-xs text-slate-500">{typeLabel} · {picksCount} picks</span>
                     </div>
                     {/* Editor badge */}
                     {badge && (
@@ -308,7 +310,8 @@ export default async function HomePage({ params }: Props) {
             <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {gridArticles.slice(0, 12).map((a) => {
                 const { title, description, catLabel } = getArticleText(a);
-                const imgSrc = getThumbnail(a, locale);
+                const imgSrcRaw = getThumbnail(a, locale);
+                const imgSrc = imgSrcRaw ? resizeAmazonImageUrl(imgSrcRaw) : null;
                 const isProductImg = imgSrc && !imgSrc.includes("/og/");
                 const offer = getFirstOffer(a);
                 const badge = offer?.badge;
@@ -361,13 +364,13 @@ export default async function HomePage({ params }: Props) {
                           {title}
                         </h2>
                         {description && (
-                          <p className="mt-1.5 flex-1 text-xs leading-relaxed text-slate-400 line-clamp-2">
+                          <p className="mt-1.5 flex-1 text-xs leading-relaxed text-slate-500 line-clamp-2">
                             {description}
                           </p>
                         )}
                         {/* Footer meta */}
                         <div className="mt-3 flex items-center justify-between">
-                          <span className="text-[11px] text-slate-400">
+                          <span className="text-[11px] text-slate-500">
                             {typeLabel} · {picksCount} picks
                           </span>
                           <span className="text-[11px] font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">
@@ -471,7 +474,7 @@ export default async function HomePage({ params }: Props) {
           ].map(({ num, label }) => (
             <div key={label}>
               <p className="text-3xl font-black text-slate-900">{num}</p>
-              <p className="mt-0.5 text-xs font-medium text-slate-400 uppercase tracking-wide">{label}</p>
+              <p className="mt-0.5 text-xs font-medium text-slate-500 uppercase tracking-wide">{label}</p>
             </div>
           ))}
         </div>
