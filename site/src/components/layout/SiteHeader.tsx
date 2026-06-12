@@ -3,19 +3,13 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/lib/i18n/navigation";
 import { useState } from "react";
-import { LocaleSwitcher } from "@/components/LocaleSwitcher";
 
 const CATEGORY_LINKS = [
-  { key: "fitness",   href: "/category/fitness" },
-  { key: "food",      href: "/category/food" },
-  { key: "tech",      href: "/category/tech" },
-  { key: "beauty",    href: "/category/beauty" },
-  { key: "home",      href: "/category/home" },
-  { key: "fashion",   href: "/category/fashion" },
-  { key: "finance",   href: "/category/finance" },
-  { key: "travel",    href: "/category/travel" },
-  { key: "parenting", href: "/category/parenting" },
-  { key: "pets",      href: "/category/pets" },
+  { key: "fitness", href: "/articles#fitness" },
+  { key: "food",    href: "/articles#food" },
+  { key: "tech",    href: "/articles#tech" },
+  { key: "beauty",  href: "/articles#beauty" },
+  { key: "home",    href: "/articles#home" },
 ];
 
 export function SiteHeader() {
@@ -33,23 +27,16 @@ export function SiteHeader() {
         </Link>
 
         {/* Desktop nav */}
-        <nav className="hidden items-center gap-5 text-sm font-medium md:flex">
-          <Link href="/ranking" className="text-slate-600 hover:text-slate-900 transition-colors">
-            🏆 Rankings
+        <nav className="hidden items-center gap-8 text-sm font-medium md:flex">
+          <Link href="/articles" className="text-slate-600 hover:text-slate-900 transition-colors">
+            {t("nav.articles")}
           </Link>
-          <Link href="/purpose" className="text-slate-600 hover:text-slate-900 transition-colors">
-            🎯 Purpose
+          <Link
+            href="/disclosure"
+            className="text-slate-500 hover:text-slate-700 transition-colors"
+          >
+            {t("nav.disclosure")}
           </Link>
-          <Link href="/compare" className="text-slate-600 hover:text-slate-900 transition-colors">
-            ⚖️ Compare
-          </Link>
-          <Link href="/gifts" className="text-slate-600 hover:text-slate-900 transition-colors">
-            🎁 Gifts
-          </Link>
-          <Link href="/search" className="flex items-center gap-1.5 rounded-full border border-slate-200 bg-slate-50 px-3.5 py-1.5 text-slate-500 hover:border-brand-300 hover:bg-brand-50 hover:text-brand-600 transition-colors">
-            <span aria-hidden>🔍</span> Search
-          </Link>
-          <LocaleSwitcher />
         </nav>
 
         {/* Mobile hamburger */}
@@ -87,33 +74,12 @@ export function SiteHeader() {
       {menuOpen && (
         <div className="border-t border-slate-100 bg-white px-4 py-4 md:hidden">
           <nav className="flex flex-col gap-4 text-sm font-medium">
-            <Link href="/purpose" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
-              🎯 Browse by purpose
-            </Link>
-            <Link href="/search" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
-              🔍 Search
-            </Link>
-            <Link href="/ranking" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
-              🏆 Rankings
-            </Link>
-            <Link href="/compare" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
-              ⚖️ Compare
-            </Link>
-            <Link href="/gifts" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
-              🎁 Gift guides
-            </Link>
-            <Link href="/tags" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
-              🏷️ Browse tags
-            </Link>
             <Link href="/articles" className="text-slate-700 hover:text-brand-600 transition-colors" onClick={() => setMenuOpen(false)}>
               {t("nav.articles")}
             </Link>
-            <Link href="/disclosure" className="text-slate-400 hover:text-slate-600 transition-colors" onClick={() => setMenuOpen(false)}>
+            <Link href="/disclosure" className="text-slate-500 hover:text-slate-700 transition-colors" onClick={() => setMenuOpen(false)}>
               {t("nav.disclosure")}
             </Link>
-            <div className="pt-1 border-t border-slate-100">
-              <LocaleSwitcher />
-            </div>
           </nav>
         </div>
       )}

@@ -1,9 +1,9 @@
+import fs from "node:fs";
+import path from "node:path";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
-import { loadArticleCardMeta } from "@/lib/i18n/loader";
-import { OG_BASE_URL, ogImageUrl } from "@/lib/og";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
@@ -54,9 +54,15 @@ function isNew(article: ArticleMeta): boolean {
   return new Date(article.publishedAt) >= cutoff;
 }
 
-/** Returns best available thumbnail: product imageUrl → explicit OG → auto OG.
- *  OG images are served from OG_BASE_URL (R2), generated for every article×locale
- *  that renders, so we link unconditionally rather than fs-checking public/og. */
+const OG_DIR = path.join(process.cwd(), "public/og");
+
+function ogPath(slug: string, locale: string): string | null {
+  if (fs.existsSync(path.join(OG_DIR, `${slug}-${locale}.png`))) return `/og/${slug}-${locale}.png`;
+  if (fs.existsSync(path.join(OG_DIR, `${slug}-en.png`))) return `/og/${slug}-en.png`;
+  return null;
+}
+
+/** Returns best available thumbnail: product imageUrl → explicit OG → auto OG */
 function getThumbnail(article: ArticleMeta, locale: string): string | null {
   for (const offerId of article.offerIds) {
     const offer = CATALOG.find((o) => o.id === offerId);
@@ -65,9 +71,9 @@ function getThumbnail(article: ArticleMeta, locale: string): string | null {
     if (img) return img;
   }
   if (article.ogImage && article.ogImage !== "auto") {
-    return `${OG_BASE_URL}${article.ogImage}-${locale}.png`;
+    return `${article.ogImage}-${locale}.png`;
   }
-  return ogImageUrl(article.slug, locale);
+  return ogPath(article.slug, locale);
 }
 
 function ArticleCard({
@@ -133,10 +139,10 @@ function ArticleCard({
           {title}
         </h3>
         {description && (
-          <p className="mt-1.5 flex-1 text-xs leading-relaxed text-slate-400 line-clamp-2">{description}</p>
+          <p className="mt-1.5 flex-1 text-xs leading-relaxed text-slate-500 line-clamp-2">{description}</p>
         )}
         <div className="mt-3 flex items-center justify-between">
-          <span className="text-[11px] text-slate-400">{typeLabel} · {picksCount} picks</span>
+          <span className="text-[11px] text-slate-500">{typeLabel} · {picksCount} picks</span>
           <span className="text-[11px] font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">Read →</span>
         </div>
       </div>
@@ -202,11 +208,14 @@ export default async function ArticlesPage({ params }: Props) {
           <section key={category} id={category} className="mb-14 scroll-mt-6">
             <div className="flex items-baseline gap-3 mb-5 border-b border-slate-200 pb-3">
               <h2 className="text-xl font-black text-slate-900">{catLabel}</h2>
-              <span className="text-sm text-slate-400">{items.length}件</span>
+              <span className="text-sm text-slate-500">{items.length}件</span>
             </div>
             <ul className="grid gap-4 grid-cols-2 sm:grid-cols-3">
               {items.map((a) => {
-                const { title, description } = loadArticleCardMeta(a.slug, locale);
+                let title = a.slug;
+                try { title = t(`articles.${a.slug}.title`); } catch { /* missing */ }
+                let description = "";
+                try { description = t(`articles.${a.slug}.description`); } catch { /* missing */ }
                 return (
                   <li key={a.slug}>
                     <ArticleCard

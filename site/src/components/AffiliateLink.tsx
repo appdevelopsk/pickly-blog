@@ -84,8 +84,8 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       <div className="rounded-lg border border-dashed border-slate-300 bg-slate-50 p-4">
         <p className="mb-2 font-semibold text-slate-700">{name}</p>
         {desc && <p className="mb-3 text-sm text-slate-500">{desc}</p>}
-        {note && <p className="mb-2 text-xs italic text-slate-400">{note}</p>}
-        <p className="mb-2 text-xs text-slate-400">{t("offer.regionFallback")}</p>
+        {note && <p className="mb-2 text-xs italic text-slate-500">{note}</p>}
+        <p className="mb-2 text-xs text-slate-500">{t("offer.regionFallback")}</p>
         <a
           href={fallbackUrl}
           target="_blank"
@@ -157,7 +157,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         {ctaLabel} →
       </a>
     ) : (
-      <span className="text-xs italic text-slate-400">{t("offer.pending")}</span>
+      <span className="text-xs italic text-slate-500">{t("offer.pending")}</span>
     );
   }
 
@@ -200,7 +200,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         </span>
       </div>
       {desc && <p className="mb-3 text-sm leading-relaxed text-slate-600">{desc}</p>}
-      {note && <p className="mb-2 text-xs italic text-slate-400">{note}</p>}
+      {note && <p className="mb-2 text-xs italic text-slate-500">{note}</p>}
       {isApproved ? (
         <a
           href={href}
@@ -212,7 +212,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
           {ctaLabel} →
         </a>
       ) : (
-        <span className="text-xs italic text-slate-400">{t("offer.pending")}</span>
+        <span className="text-xs italic text-slate-500">{t("offer.pending")}</span>
       )}
     </div>
   );

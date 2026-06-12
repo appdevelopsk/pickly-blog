@@ -1,4 +1,3 @@
-import { Suspense } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import type { ArticleContent, ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
@@ -7,32 +6,6 @@ import { Link } from "@/lib/i18n/navigation";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
 import { PRICES } from "@/lib/affiliates/prices-override";
-import { NewsletterForm } from "@/components/NewsletterForm";
-import { RelatedArticles } from "@/components/articles/RelatedArticles";
-
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
-
-const CATEGORY_ICON: Record<string, string> = {
-  fitness: "🏋️", food: "🍳", tech: "💻", beauty: "✨",
-  home: "🏠", fashion: "👗", finance: "💰", travel: "✈️",
-  parenting: "👶", pets: "🐾",
-};
-
-function ProductImagePlaceholder({ category, size }: { category: string; size: "sm" | "lg" }) {
-  const icon = CATEGORY_ICON[category] ?? "🛍️";
-  if (size === "sm") {
-    return (
-      <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded border border-slate-100 bg-slate-50 text-base">
-        {icon}
-      </span>
-    );
-  }
-  return (
-    <div className="flex h-24 w-24 shrink-0 items-center justify-center rounded-xl border border-slate-100 bg-gradient-to-br from-slate-50 to-slate-100 text-4xl">
-      {icon}
-    </div>
-  );
-}
 
 function resolvePrice(o: AffiliateOffer, locale: string): string | null {
   const market = inferMarketFromLocale(locale);
@@ -75,17 +48,6 @@ export function ArticleBody({ meta, content, offers }: Props) {
   const locale = useLocale();
   const isComparison = meta.type === "comparison";
 
-  const readingMinutes = estimateReadingTime(content);
-  const pageUrl = `${SITE_URL}/${locale}/articles/${meta.slug}/`;
-  const ogImageUrl = meta.ogImage
-    ? meta.ogImage === "auto"
-      ? `${SITE_URL}/og/${meta.slug}-${locale}.png`
-      : `${SITE_URL}${meta.ogImage}-${locale}.png`
-    : null;
-  const pinterestUrl = ogImageUrl
-    ? `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&media=${encodeURIComponent(ogImageUrl)}&description=${encodeURIComponent(content.title)}`
-    : null;
-
   // Build TOC entries for comparison articles
   const tocItems = isComparison
     ? offers.map((o, i) => ({
@@ -106,7 +68,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
   return (
     <div className="mx-auto max-w-5xl px-4 py-8">
       {/* Breadcrumb */}
-      <nav className="mb-6 flex items-center gap-1.5 text-xs text-slate-400">
+      <nav className="mb-6 flex items-center gap-1.5 text-xs text-slate-500">
         <Link href="/" className="hover:text-brand-600">Pickly</Link>
         <span>/</span>
         <Link href="/articles" className="hover:text-brand-600">
@@ -122,35 +84,11 @@ export function ArticleBody({ meta, content, offers }: Props) {
           <span className="rounded-full bg-brand-50 px-3 py-0.5 text-xs font-semibold text-brand-600 border border-brand-100">
             {getCategoryLabel(t, meta.category)}
           </span>
-          <span className="text-xs text-slate-400">{t("article.updatedAt", { date: formatDate(meta.updatedAt) })}</span>
+          <span className="text-xs text-slate-500">{t("article.updatedAt", { date: formatDate(meta.updatedAt) })}</span>
         </div>
-        <div className="mb-2 flex flex-wrap items-center gap-3">
-          <h1 className="text-3xl font-black leading-tight text-slate-900 md:text-4xl">
-            {content.title}
-          </h1>
-        </div>
-        <div className="mb-4 flex flex-wrap items-center gap-3">
-          <span className="flex items-center gap-1.5 text-xs text-slate-400">
-            <svg viewBox="0 0 20 20" className="h-3.5 w-3.5 fill-current shrink-0" aria-hidden="true">
-              <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clipRule="evenodd" />
-            </svg>
-            {readingMinutes} min
-          </span>
-          {pinterestUrl && (
-            <a
-              href={pinterestUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-1.5 rounded-full bg-[#E60023] px-3 py-1 text-xs font-semibold text-white hover:bg-[#c8001d] transition-colors"
-              aria-label="Save to Pinterest"
-            >
-              <svg viewBox="0 0 24 24" className="h-3.5 w-3.5 fill-current shrink-0" aria-hidden="true">
-                <path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z" />
-              </svg>
-              Save
-            </a>
-          )}
-        </div>
+        <h1 className="mb-4 text-3xl font-black leading-tight text-slate-900 md:text-4xl">
+          {content.title}
+        </h1>
         {content.lede && (
           <p className="text-base leading-relaxed text-slate-600 border-l-4 border-brand-400 pl-4 bg-slate-50 py-3 pr-4 rounded-r-lg">
             {content.lede}
@@ -194,7 +132,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
                             {(() => { const img = getOfferImageUrl(o); return img ? (
                               // eslint-disable-next-line @next/next/no-img-element
                               <img src={img} alt={name} className="h-8 w-8 shrink-0 rounded object-contain bg-slate-50 border border-slate-100" loading="lazy" />
-                            ) : <ProductImagePlaceholder category={meta.category} size="sm" />; })()}
+                            ) : null; })()}
                             <a href={`#offer-${o.id}`} className="font-semibold text-slate-800 hover:text-brand-600 transition-colors line-clamp-1">
                               {name}
                             </a>
@@ -301,7 +239,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img src={img} alt={name} className="h-full w-full object-contain p-2" loading="lazy" />
                     </div>
-                  ) : <ProductImagePlaceholder category={meta.category} size="lg" />; })()}
+                  ) : null; })()}
                   <div className="flex-1 min-w-0">
                     <div className="flex flex-wrap items-center gap-2 mb-1.5">
                       <span className={`text-4xl font-black leading-none ${isWinner ? "text-amber-500" : "text-brand-600"}`}>
@@ -328,18 +266,10 @@ export function ArticleBody({ meta, content, offers }: Props) {
                   </p>
                 )}
 
-                {/* Review — fall back to catalog description when no per-article review */}
-                {(() => {
-                  const review = product?.review;
-                  const hasNote = !!content.offerNotes?.[o.id];
-                  const fallback = !review && !hasNote
-                    ? ((o.description as Record<string, string>)[locale] ?? (o.description as Record<string, string>).en ?? "")
-                    : "";
-                  const text = review || fallback;
-                  return text
-                    ? <p className="mb-5 text-base leading-relaxed text-slate-700">{text}</p>
-                    : null;
-                })()}
+                {/* Review */}
+                {product?.review && (
+                  <p className="mb-5 text-base leading-relaxed text-slate-700">{product.review}</p>
+                )}
 
                 {/* Pros / Cons */}
                 {(product?.pros?.length || product?.cons?.length) && (
@@ -367,7 +297,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
                         <ul className="space-y-2">
                           {product.cons.map((con, k) => (
                             <li key={k} className="flex items-start gap-2 text-sm text-slate-500">
-                              <span className="mt-0.5 shrink-0 text-slate-400 font-black text-base leading-none">✗</span>
+                              <span className="mt-0.5 shrink-0 text-slate-500 font-black text-base leading-none">✗</span>
                               {con}
                             </li>
                           ))}
@@ -518,23 +448,13 @@ export function ArticleBody({ meta, content, offers }: Props) {
             </section>
           )}
 
-          {/* Newsletter CTA */}
-          <div className="mt-10">
-            <NewsletterForm source="pickly-article" />
-          </div>
-
           {/* Disclosure note */}
-          <div className="mt-6 rounded-xl bg-slate-50 border border-slate-200 px-4 py-3 text-xs text-slate-400">
+          <div className="mt-10 rounded-xl bg-slate-50 border border-slate-200 px-4 py-3 text-xs text-slate-500">
             {t("offer.disclosureBadge")} — {t("offer.disclosureNote")}
             <Link href="/disclosure" className="ml-1 underline hover:text-brand-600">
               {t("nav.disclosure")}
             </Link>
           </div>
-
-          {/* Related articles */}
-          <Suspense fallback={null}>
-            <RelatedArticles slug={meta.slug} category={meta.category} locale={locale} />
-          </Suspense>
         </div>
 
         {/* Sidebar (desktop only) */}
@@ -617,20 +537,4 @@ function getCategoryLabel(
 
 function formatDate(iso: string): string {
   return new Date(iso).toISOString().slice(0, 10);
-}
-
-function estimateReadingTime(content: ArticleContent): number {
-  const text = [
-    content.title,
-    content.lede ?? "",
-    content.methodology ?? "",
-    ...content.sections.flatMap(s => [
-      s.heading,
-      ...s.paragraphs,
-      ...(s.subsections?.flatMap(sub => [sub.heading, ...sub.paragraphs]) ?? []),
-    ]),
-    ...(content.products?.map(p => p.review) ?? []),
-    ...(content.faqs?.flatMap(f => [f.q, f.a]) ?? []),
-  ].join(" ");
-  return Math.max(1, Math.round(text.split(/\s+/).filter(Boolean).length / 200));
 }
