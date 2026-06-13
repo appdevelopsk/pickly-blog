@@ -1,12 +1,12 @@
 {
   "title": "2026 En İyi Hava Kalitesi Monitörü: 5 Modelin Dürüst Karşılaştırması",
   "description": "Awair Element'in 5 sensörlü tüketici kontrol panelinden IQAir AirVisual Node'un araştırma düzeyinde lazer PM2.5 ve CO2'sine kadar. Beş hava kalitesi monitörü sensör türü, ölçüm doğruluğu, akıllı ev entegrasyonu, kalibrasyon kayması ve her fiyat noktasında gerçek değer açısından karşılaştırıldı.",
-  "lede": "Beş hava kalitesi monitörü — Awair Element (~¥30,000, 5 sensör CO2+VOC+PM2.5+nem+sıcaklık, Awair Score kontrol paneli, HomeKit ve Alexa ve Google Home, API erişimi), IQAir AirVisual Node (~¥45,000, lazer PM2.5 ve NDIR CO2, dış mekan AQI katmanı). Oda boyutunuza göre CADR, gerçek dünya performansını tahmin eden tek özellik.",
+  "lede": "Beş hava kalitesi monitörü — Awair Element (5 sensör CO2+VOC+PM2.5+nem+sıcaklık, Awair Score kontrol paneli, HomeKit ve Alexa ve Google Home, API erişimi), IQAir AirVisual Node (lazer PM2.5 ve NDIR CO2, dış mekan AQI katmanı). Oda boyutunuza göre CADR, gerçek dünya performansını tahmin eden tek özellik.",
   "sections": [
     {
       "heading": "Nasıl karşılaştırdık",
       "paragraphs": [
-        "NIST izlenebilir kalibrasyon testleri yapmadık. Bu beş monitörün hiçbirini Federal Equivalent Method (FEM) veya Federal Reference Method (FRM) aleti ile karşılaştırmadık — ¥500,000 ile ¥2,000,000 arasında maliyeti olan ve eğitimli operatörler ile kontrollü örnekleme koşulları gerektiren düzenleyici sınıf ekipman türü.",
+        "NIST izlenebilir kalibrasyon testleri yapmadık. Bu beş monitörün hiçbirini Federal Equivalent Method (FEM) veya Federal Reference Method (FRM) aleti ile karşılaştırmadık — pahalı, eğitimli operatörler ile kontrollü örnekleme koşulları gerektiren düzenleyici sınıf ekipman türü.",
         "Yaptıklarımız: her ürün için üretici tarafından yayımlanan bileşen sensör veri sayfalarını inceledik, tüketici CO2 ve PM2.5 monitörlerini referans aletlerle karşılaştıran akademik kurumların iç mekan hava kalitesi araştırma gruplarının yayımladığı bağımsız sensör değerlendirmeleriyle çapraz referans yaptık ve Amazon Japan, Rakuten Ichiba'da toplanan uzun vadeli sahip raporlarını inceledik.",
         "İki ayrım buradaki analizin neredeyse tamamını şekillendiriyor. Birincisi: CO2 ölçümü ve PM2.5 ölçümü farklı sensör teknolojileri gerektiren fiziksel olarak farklı problemlerdir. İkincisi: ekrandaki sayı odanızdaki kirletici konsantrasyonu değil — üreticinin uyguladığı kalibrasyon algoritması tarafından düzeltilmiş, son kalibrasyondan bu yana sensörün biriktirdiği kaymayla birlikte sensör girişindeki konsantrasyondur."
       ]
@@ -56,9 +56,9 @@
     {
       "heading": "Seçimimiz ve dürüst uyarılar",
       "paragraphs": [
-        "Japonya'daki ilk veya tek hava kalitesi monitörünü arayan çoğu hane için: Kaiterra Laser Egg+ CO2, yaklaşık ¥15,000 fiyatıyla en dengeli seçim.",
-        "Bütçe temel kısıtsa ve CO2 temel endişenizse: yaklaşık ¥5,000'e Inkbird IAM-T1.",
-        "Akıllı ev otomasyonu temel kullanım durumunuzsa: yaklaşık ¥30,000'e Awair Element.",
+        "Japonya'daki ilk veya tek hava kalitesi monitörünü arayan çoğu hane için: Kaiterra Laser Egg+ CO2 en dengeli seçim.",
+        "Bütçe temel kısıtsa ve CO2 temel endişenizse: Inkbird IAM-T1.",
+        "Akıllı ev otomasyonu temel kullanım durumunuzsa: Awair Element.",
         "Tüm beş ürün için geçerli bir uyarı: hava kalitesi monitörleriyle en yaygın hata, birimi nefes aldığınız yeri temsil etmeyen bir konuma yerleştirmektir."
       ]
     },
@@ -100,8 +100,8 @@
   "offerNotes": {
     "awair-element": "Awair Element bu karşılaştırmada en eksiksiz sensör dizisini sunuyor: CO2 (NDIR), VOC (Sensirion SGP40 endeksi), PM2.5 (lazer), sıcaklık ve nem, artı Awair Score bileşik kontrol paneli ve HomeKit/Alexa/Google Home entegrasyonu.",
     "iqair-airvisual-node": "IQAir AirVisual Node bu karşılaştırmada profesyonel sınıf seçenek: lazer PM2.5, NDIR CO2, sıcaklık ve nem; AirVisual küresel izleme ağından gerçek zamanlı dış mekan AQI veri katmanıyla birlikte.",
-    "inkbird-iam-t1": "Inkbird IAM-T1, bu karşılaştırmadaki en düşük fiyatla (~¥5,000) gerçek NDIR CO2 izlemesi sunuyor.",
-    "govee-air-quality-monitor": "Govee Air Quality Monitor H5106, yaklaşık ¥4,000'e CO2, PM2.5, sıcaklık ve nemi kapsıyor — bu karşılaştırmada en iyi sensör sayısı başına yen oranı.",
+    "inkbird-iam-t1": "Inkbird IAM-T1, bu karşılaştırmadaki en düşük fiyatla gerçek NDIR CO2 izlemesi sunuyor.",
+    "govee-air-quality-monitor": "Govee Air Quality Monitor H5106 CO2, PM2.5, sıcaklık ve nemi kapsıyor — bu karşılaştırmada en iyi sensör sayısı başına fiyat oranı.",
     "kaiterra-laser-egg-co2": "Kaiterra Laser Egg+ CO2, bu karşılaştırmada en okunabilir bağımsız monitör: CO2, PM2.5, sıcaklık ve nem uygulama, bulut bağlantısı veya telefon gerektirmeden yumurta şeklindeki birimde açıkça görüntüleniyor."
   },
   "pinDescription": "Japonya 2026 için sıralanan 5 hava kalitesi monitörü — Awair Element 5 sensör ile IQAir AirVisual Node pro sınıf ile Kaiterra Laser Egg bağımsız ekran ile Inkbird bütçe CO2 ile Govee hepsi bir arada. CO2 doğruluk sınırları açıklandı. PM2.5 ve sarı toz mevsimi rehberi.",
@@ -135,7 +135,7 @@
       ],
       "cons": [
         "Hiçbir yerel akıllı ev entegrasyonu yok",
-        "Bu karşılaştırmada yaklaşık ¥45,000 ile en pahalı ürün"
+        "Bu karşılaştırmada en pahalı ürün"
       ],
       "grade": "A"
     },
@@ -144,7 +144,7 @@
       "badge": "En İyi Bütçe CO2 Monitörü",
       "review": "Inkbird IAM-T1 kategoriyi kullanışlı özüne indirgedi: NDIR CO2 sensörü, büyük okunabilir ekran, sıcaklık ve nem ve 6-12 aylık düğme pil çalışma süresi.",
       "pros": [
-        "Bu karşılaştırmada en düşük fiyat (~¥5,000) doğru NDIR CO2 izlemesi için",
+        "Bu karşılaştırmada en düşük fiyat doğru NDIR CO2 izlemesi için",
         "Küçük bir odanın karşısından okunabilecek büyük okunabilir ekran",
         "Güç adaptörü olmadan 6-12 aylık düğme pil çalışma süresi",
         "Açık pencerenin yanında ABC kalibrasyonu otomatik olarak tetikleniyor"
@@ -157,8 +157,8 @@
     },
     {
       "offerId": "govee-air-quality-monitor",
-      "badge": "¥5,000 Altında En İyi Hepsi Bir Arada",
-      "review": "Govee H5106, CO2, PM2.5, sıcaklık ve nemi yaklaşık ¥4,000'e tek bir birimde paketliyor — bu karşılaştırmada en iyi sensör sayısı başına yen oranı.",
+      "badge": "En İyi Uygun Fiyatlı Hepsi Bir Arada",
+      "review": "Govee H5106, CO2, PM2.5, sıcaklık ve nemi tek bir birimde paketliyor — bu karşılaştırmada en iyi sensör sayısı başına fiyat oranı.",
       "pros": [
         "Bu karşılaştırmada CO2 artı PM2.5 sensör kombinasyonunun en düşük maliyeti",
         "Zaten Govee cihazlarınız varsa Govee Home uygulamasına yerel entegrasyon",
@@ -202,12 +202,12 @@
     {
       "label": "Sıkı bütçeyle tek yatak odası veya ev ofisi için",
       "offerId": "inkbird-iam-t1",
-      "reason": "~¥5,000'de okunabilir ekranıyla doğru NDIR CO2 izlemesi sağlıyor — havalandırma kararları için en uygulanabilir sinyal."
+      "reason": "Okunabilir ekranıyla doğru NDIR CO2 izlemesi sağlıyor — havalandırma kararları için en uygulanabilir sinyal."
     },
     {
       "label": "Tek birimde en düşük maliyetli CO2 artı PM2.5 için",
       "offerId": "govee-air-quality-monitor",
-      "reason": "~¥4,000'de Govee'ye özgü ekosistemi ve belgelenmemiş PM2.5 sensörünü kabul ederseniz her iki kirleticiyi izlemenin en ucuz yolu."
+      "reason": "Govee'ye özgü ekosistemi ve belgelenmemiş PM2.5 sensörünü kabul ederseniz her iki kirleticiyi izlemenin en ucuz yolu."
     },
     {
       "label": "Bir bakışta okunabilirliğin en önemli olduğu ikinci monitör için",

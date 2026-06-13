@@ -21,7 +21,7 @@
       "heading": "Cạnh nhau: những con số đáng quan tâm",
       "paragraphs": [
         "Bảng dưới là phiên bản ngắn. Đọc theo chiều ngang để so giá vào, TTFB đo được, kênh hỗ trợ và việc hosting có WordPress một-chạm thật sự dùng được cho người mới hay không.",
-        "| Hosting | Giá vào/tháng | TTFB (Tokyo) | Hỗ trợ | WP một chạm |\n|---|---|---|---|---|\n| ConoHa WING | ¥643 (36 th) | 198 ms | Chat (T2-T6 10-18) | Có (11 phút) |\n| Xserver | ¥990 (12 th) | 268 ms | Điện thoại 24/7 + email | Có (22 phút) |\n| mixhost | ¥968 (12 th) | 215 ms | Chỉ email | Có (15 phút) |\n| Sakura | ¥425 (12 th) | 305 ms | Điện thoại (T2-T6) + email | Không, thủ công | \n| Lolipop | ¥550 (hi-speed) | 312 ms | Chat + email | Có (19 phút) |",
+        "| Hosting | Phân khúc giá | TTFB (Tokyo) | Hỗ trợ | WP một chạm |\n|---|---|---|---|---|\n| ConoHa WING | Phổ thông (gói 36 th) | 198 ms | Chat (T2-T6 10-18) | Có (11 phút) |\n| Xserver | Tầm trung (gói 12 th) | 268 ms | Điện thoại 24/7 + email | Có (22 phút) |\n| mixhost | Tầm trung (gói 12 th) | 215 ms | Chỉ email | Có (15 phút) |\n| Sakura | Nhập môn (gói 12 th) | 305 ms | Điện thoại (T2-T6) + email | Không, thủ công | \n| Lolipop | Phổ thông (hi-speed) | 312 ms | Chat + email | Có (19 phút) |",
         "Điểm chính: ConoHa nhanh nhất và đăng ký mượt nhất; Xserver là nhà duy nhất có điện thoại 24/7; Sakura rẻ nhất nhưng bỏ qua WP một chạm; Lolipop là người em chi phí thấp của ConoHa trong tập đoàn GMO."
       ]
     },
@@ -29,7 +29,7 @@
       "heading": "#1 — ConoHa WING (tốt nhất tổng thể)",
       "paragraphs": [
         "ConoHa WING (GMO) thắng ở ba phép đo cộng hưởng: TTFB 198 ms (nhanh nhất bài thử), 11 phút từ đăng ký tới bài đăng đầu, và bảng quản trị viết bằng tiếng Nhật thật chứ không phải cPanel dịch vụng. Với blogger WordPress lần đầu ở Nhật, ngưỡng ma sát ở đây thấp nhất.",
-        "Giá trung thực miễn là bạn đặt nhắc lịch: ¥643/tháng là giá khuyến mãi 36 tháng, gia hạn lên ¥1.452/tháng. Sao lưu tự động 14 ngày đã cứu một lần xóa nhầm cơ sở dữ liệu trong test — phục hồi bốn phút từ bảng quản trị, không cần ticket.",
+        "Giá trung thực miễn là bạn đặt nhắc lịch: mức rẻ nhất là giá khuyến mãi 36 tháng, còn gia hạn tăng lên hơn gấp đôi. Sao lưu tự động 14 ngày đã cứu một lần xóa nhầm cơ sở dữ liệu trong test — phục hồi bốn phút từ bảng quản trị, không cần ticket.",
         "Yếu điểm: không hỗ trợ điện thoại, bảng quản trị riêng (không di chuyển), và chênh lệch giá khuyến mãi với gia hạn lớn. Chúng tôi đã bao quát máy chủ này sâu hơn trong bài đánh giá riêng (link bên dưới) kèm ảnh chụp từng bước đăng ký."
       ]
     },
@@ -37,7 +37,7 @@
       "heading": "#2 — Xserver (tốt nhất cho việc trọng yếu và lo lắng nửa đêm)",
       "paragraphs": [
         "Xserver là câu trả lời cho một câu hỏi: «Tôi gọi ai lúc 2 giờ sáng khi trang xuống?» Là nhà duy nhất trong bảng có điện thoại 24/7 và là nhà duy nhất có lịch sử uptime kéo dài hơn một thập kỷ không gián đoạn. WordPress được tinh chỉnh KUSANAGI cài sẵn.",
-        "TTFB trung bình 268 ms — chậm hơn ConoHa nhưng nhất quán suốt 30 ngày, không có đột biến. Gói tiêu chuẩn ¥990-1.100/tháng — đắt hơn ConoHa khoảng 10% với cùng cấu hình, phụ phí điện thoại đã tính vào.",
+        "TTFB trung bình 268 ms — chậm hơn ConoHa nhưng nhất quán suốt 30 ngày, không có đột biến. Gói tiêu chuẩn nằm ở phân khúc tầm trung — đắt hơn ConoHa khoảng 10% với cùng cấu hình, phụ phí điện thoại đã tính vào.",
         "Bỏ qua Xserver nếu bạn không quan tâm điện thoại và muốn TTFB nhanh nhất. Bảng quản trị hoạt động nhưng cảm giác cũ hơn của ConoHa; đăng ký mất 22 phút so với 11 phút của ConoHa. Chọn Xserver khi nỗi lo độ tin cậy nặng hơn nhu cầu tốc độ thuần."
       ]
     },
@@ -45,14 +45,14 @@
       "heading": "#3 — mixhost (hiệu năng LiteSpeed tốt nhất)",
       "paragraphs": [
         "mixhost chạy LiteSpeed Web Server với HTTP/3 bật mặc định, và điều này lộ ra trong tình huống burst — trang test 200 kết nối đồng thời phục vụ từ cache giữ TTFB ở 215 ms trong khi các bên khác trượt lên. Quan trọng cho trang có đỉnh traffic.",
-        "Gói tiêu chuẩn ¥968-1.518/tháng kèm tên miền miễn phí và WordPress một chạm trong 15 phút. mixhost là nhà duy nhất trong năm không có chat — chỉ email với SLA 24 giờ. Ổn cho blogger đã quen, kém ấm áp cho người mới.",
+        "Gói tiêu chuẩn nằm ở phân khúc tầm trung, kèm tên miền miễn phí và WordPress một chạm trong 15 phút. mixhost là nhà duy nhất trong năm không có chat — chỉ email với SLA 24 giờ. Ổn cho blogger đã quen, kém ấm áp cho người mới.",
         "Chọn mixhost nếu muốn LiteSpeed/HTTP/3 cụ thể (cache trả nhanh, chịu đỉnh viral tốt hơn) và có thể chờ phản hồi email. Bỏ qua nếu cần được dắt tay trong lần cài WordPress đầu tiên."
       ]
     },
     {
       "heading": "#4 — Sakura Rental Server (tốt nhất cho người thích vọc với ngân sách)",
       "paragraphs": [
-        "Sakura đã chạy từ 1996 và bảng quản trị thể hiện điều đó — cũ hơn của đối thủ và mặc định bạn biết cron và SSH là gì. Gói tiêu chuẩn ¥425-524/tháng, mức vào thấp nhất trong bảng, phần cứng «đủ dùng» (không xuất sắc).",
+        "Sakura đã chạy từ 1996 và bảng quản trị thể hiện điều đó — cũ hơn của đối thủ và mặc định bạn biết cron và SSH là gì. Gói tiêu chuẩn là mức vào thấp nhất trong bảng, phần cứng «đủ dùng» (không xuất sắc).",
         "TTFB trung bình 305 ms từ cùng nguồn Tokyo. Không có trình cài WP kiểu «kantan setup»; bạn cài WordPress thủ công qua trình quản lý tệp hoặc SSH. Với dev hoặc người vọc thích kiểm soát, đó là tính năng; với người mới, đó là bức tường.",
         "Chọn Sakura nếu bạn muốn giá vào thấp nhất và tự do lớn nhất để phá phách, và không cần trình cài một chạm. Bỏ qua nếu muốn host che giấu các bước FTP và tạo cơ sở dữ liệu."
       ]
@@ -60,9 +60,9 @@
     {
       "heading": "#5 — Lolipop (tốt nhất cho blog sở thích)",
       "paragraphs": [
-        "Lolipop là người em chi phí thấp của ConoHa trong gia đình GMO. Gói hi-speed ¥550/tháng — bằng nửa giá gia hạn ConoHa — với trình cài WordPress một chạm tương tự (19 phút so với 11 phút của ConoHa). TTFB trung bình 312 ms, chậm nhất trong bài test này.",
-        "Quy trình đăng ký được thiết kế tốt và UI quản lý dễ tiếp cận; bù lại so với ConoHa là tốc độ thô và bundle tên miền của WINGパック. Tên miền của Lolipop được bán riêng tại registrar anh em với giá ¥1.500-3.000/năm.",
-        "Chọn Lolipop nếu ngân sách thật của bạn dưới ¥600/tháng và chấp nhận TTFB chậm hơn. Nếu ngân sách chạm ¥643-911/tháng cho gói 12 tháng của ConoHa, chênh lệch tốc độ và bundle xứng đáng để nâng cấp."
+        "Lolipop là người em chi phí thấp của ConoHa trong gia đình GMO. Gói hi-speed chỉ khoảng nửa giá gia hạn ConoHa — với trình cài WordPress một chạm tương tự (19 phút so với 11 phút của ConoHa). TTFB trung bình 312 ms, chậm nhất trong bài test này.",
+        "Quy trình đăng ký được thiết kế tốt và UI quản lý dễ tiếp cận; bù lại so với ConoHa là tốc độ thô và bundle tên miền của WINGパック. Tên miền của Lolipop được bán riêng tại registrar anh em.",
+        "Chọn Lolipop nếu ngân sách của bạn eo hẹp nhất và chấp nhận TTFB chậm hơn. Nếu ngân sách đủ cho gói 12 tháng của ConoHa, chênh lệch tốc độ và bundle xứng đáng để nâng cấp."
       ]
     },
     {
@@ -70,14 +70,14 @@
       "paragraphs": [
         "Nếu bạn lập blog WordPress đầu tiên ở Nhật và muốn mọi thứ chạy được: ConoHa WING. Đăng ký 11 phút, TTFB nhanh nhất, tên miền đi kèm khiến mọi cân nhắc khác trở thành thứ yếu ở phân khúc giá này. Bài đánh giá riêng của chúng tôi (link bên dưới) đi qua toàn bộ đăng ký kèm thời gian và ảnh chụp.",
         "Nếu trang có doanh thu hoặc khán giả phụ thuộc vào việc luôn online — bản tin, khóa học trả phí, nội dung kinh doanh trọng yếu: Xserver. Điện thoại lúc 2 giờ sáng là tính năng thật, dù bạn chỉ dùng hai lần trong đời. 10% đắt hơn ConoHa là phí bảo hiểm.",
-        "Nhạy cảm về giá và thích vọc: Sakura ¥425/tháng. Muốn LiteSpeed/HTTP/3 cụ thể: mixhost. Người sở thích với ngân sách hạn hẹp nhất: Lolipop. Không có máy chủ cho mọi người — chọn theo ràng buộc làm bạn đau nhất."
+        "Nhạy cảm về giá và thích vọc: Sakura, lựa chọn nhập môn. Muốn LiteSpeed/HTTP/3 cụ thể: mixhost. Người sở thích với ngân sách hạn hẹp nhất: Lolipop. Không có máy chủ cho mọi người — chọn theo ràng buộc làm bạn đau nhất."
       ]
     }
   ],
   "faqs": [
     {
       "q": "Cứ chọn cái rẻ nhất được không?",
-      "a": "Sakura ¥425/tháng rẻ nhất, nhưng bỏ qua trình cài WordPress một chạm. Nếu chưa từng cài WP thủ công, tiết kiệm ¥218/tháng không đáng nửa ngày bối rối. Mức 12 tháng ¥643 của ConoHa là «rẻ vừa đủ» trung thực hơn."
+      "a": "Sakura rẻ nhất, nhưng bỏ qua trình cài WordPress một chạm. Nếu chưa từng cài WP thủ công, khoản tiết kiệm nhỏ mỗi tháng không đáng nửa ngày bối rối. Mức 12 tháng của ConoHa là «rẻ vừa đủ» trung thực hơn."
     },
     {
       "q": "TTFB có thực sự quan trọng với blog cá nhân?",
@@ -89,7 +89,7 @@
     },
     {
       "q": "Giá khuyến mãi với hợp đồng dài có đáng không?",
-      "a": "Mức 36 tháng của ConoHa ở ¥643/tháng thực sự rẻ hơn 12 tháng ¥911 — nếu bạn ở lại 36 tháng. Nếu có thể bỏ blog trong 6 tháng, chọn gói 12 tháng hoặc dùng đảm bảo hoàn tiền 30 ngày để thử. Tránh trả theo tháng — ¥1.452 là cái bẫy."
+      "a": "Mức 36 tháng của ConoHa thực sự rẻ hơn 12 tháng — nếu bạn ở lại 36 tháng. Nếu có thể bỏ blog trong 6 tháng, chọn gói 12 tháng hoặc dùng đảm bảo hoàn tiền 30 ngày để thử. Tránh trả theo tháng — giá gia hạn là cái bẫy."
     },
     {
       "q": "Loại nào tốt nhất cho khán giả ngoài Nhật?",
@@ -112,7 +112,7 @@
     "conoha-wing": "#1 tổng thể — TTFB nhanh nhất (198 ms), kantan setup 11 phút, tên miền đi kèm. Bài đánh giá riêng dẫn qua màn hình đăng ký từng bước.",
     "xserver": "#2 — nhà duy nhất có điện thoại 24/7. Chọn khi nỗi lo uptime nặng hơn nhu cầu tốc độ thuần.",
     "mixhost": "#3 — lợi thế LiteSpeed/HTTP/3 trong burst. Chỉ hỗ trợ email là điểm trừ thực với người mới.",
-    "sakura-rentalserver": "#4 — vào rẻ nhất ¥425/tháng, nhưng không có WP một chạm. Cho người vọc và dev, không phải người mới.",
+    "sakura-rentalserver": "#4 — vào rẻ nhất trong bảng, nhưng không có WP một chạm. Cho người vọc và dev, không phải người mới.",
     "lolipop-server": "#5 — em họ giá rẻ của ConoHa trong GMO. Một nửa giá gia hạn, TTFB chậm hơn. Chỉ cho blog sở thích và ngân sách eo hẹp."
   },
   "pinDescription": "Năm hosting Nhật thử 30 ngày. ConoHa WING vs Xserver vs mixhost vs Sakura vs Lolipop — xếp hạng theo TTFB, giá và phù hợp với ai.",
@@ -121,13 +121,13 @@
     {
       "offerId": "conoha-wing",
       "badge": "Tốt nhất tổng thể",
-      "review": "ConoHa WING ghi nhận TTFB nhanh nhất ở 198ms và thời gian cài đặt ngắn nhất là 11 phút, với bảng điều khiển tiếng Nhật không đòi hỏi kiến thức hosting trước đó. Khoảng cách giữa giá khuyến mãi (¥643 cho 36 tháng) và giá gia hạn (¥1.452) là điều quan trọng cần lên kế hoạch.",
+      "review": "ConoHa WING ghi nhận TTFB nhanh nhất ở 198ms và thời gian cài đặt ngắn nhất là 11 phút, với bảng điều khiển tiếng Nhật không đòi hỏi kiến thức hosting trước đó. Khoảng cách giữa giá khuyến mãi 36 tháng và giá gia hạn là điều quan trọng cần lên kế hoạch.",
       "pros": ["TTFB nhanh nhất trong bài test: 198ms", "Cài đặt WordPress kantan trong 11 phút", "Tên miền miễn phí + sao lưu tự động 14 ngày"],
       "cons": ["Không có hỗ trợ điện thoại — chỉ chat vào ngày làm việc"],
       "grade": "A+",
       "specs": {
-        "Giá khởi đầu": "¥643/tháng (gói 36 tháng)",
-        "Giá gia hạn": "¥1.452/tháng",
+        "Giá khởi đầu": "Phân khúc phổ thông (gói 36 tháng)",
+        "Giá gia hạn": "Hơn gấp đôi giá khuyến mãi",
         "TTFB (Tokyo)": "Trung bình 198ms",
         "Hỗ trợ": "Chat (Thứ 2–6 10:00–18:00)",
         "WP một nhấp": "Có (11 phút)",
@@ -149,7 +149,7 @@
       "cons": ["TTFB chậm hơn ConoHa (268ms vs 198ms); giao diện bảng điều khiển hơi cũ"],
       "grade": "A",
       "specs": {
-        "Giá khởi đầu": "¥990/tháng (gói 12 tháng)",
+        "Giá khởi đầu": "Tầm trung (gói 12 tháng)",
         "TTFB (Tokyo)": "Trung bình 268ms",
         "Hỗ trợ": "Điện thoại 24/7 + email",
         "WP một nhấp": "Có (22 phút)",
@@ -172,7 +172,7 @@
       "cons": ["Hỗ trợ chỉ qua email — không có chat hay điện thoại cho vấn đề khẩn cấp"],
       "grade": "B+",
       "specs": {
-        "Giá khởi đầu": "¥968/tháng (gói 12 tháng)",
+        "Giá khởi đầu": "Tầm trung (gói 12 tháng)",
         "TTFB (Tokyo)": "Trung bình 215ms",
         "Hỗ trợ": "Chỉ email (SLA 24 giờ)",
         "WP một nhấp": "Có (15 phút)",
@@ -190,12 +190,12 @@
     {
       "offerId": "sakura-rentalserver",
       "badge": "Tốt nhất cho lập trình viên",
-      "review": "Giá khởi đầu của Sakura ở ¥425/tháng là thấp nhất trong bài test, và bảng điều khiển tích hợp SSH/cron phù hợp với lập trình viên muốn kiểm soát. Việc thiếu trình cài đặt WordPress một nhấp là rào cản thực sự với người mới, và TTFB 305ms là kết quả chậm thứ hai.",
-      "pros": ["Giá khởi đầu thấp nhất: ¥425/tháng", "Truy cập SSH và cron ngay từ bảng điều khiển", "Thương hiệu uy tín từ 1996 với lịch sử uptime vững chắc"],
+      "review": "Giá khởi đầu của Sakura là thấp nhất trong bài test, và bảng điều khiển tích hợp SSH/cron phù hợp với lập trình viên muốn kiểm soát. Việc thiếu trình cài đặt WordPress một nhấp là rào cản thực sự với người mới, và TTFB 305ms là kết quả chậm thứ hai.",
+      "pros": ["Giá khởi đầu thấp nhất trong bài test", "Truy cập SSH và cron ngay từ bảng điều khiển", "Thương hiệu uy tín từ 1996 với lịch sử uptime vững chắc"],
       "cons": ["Không có trình cài đặt WP một nhấp — cần cài đặt WordPress thủ công"],
       "grade": "B",
       "specs": {
-        "Giá khởi đầu": "¥425/tháng (gói tiêu chuẩn)",
+        "Giá khởi đầu": "Phân khúc nhập môn (gói tiêu chuẩn)",
         "TTFB (Tokyo)": "Trung bình 305ms",
         "Hỗ trợ": "Điện thoại (Thứ 2–6) + email",
         "WP một nhấp": "Không — cài đặt thủ công",
@@ -213,12 +213,12 @@
     {
       "offerId": "lolipop-server",
       "badge": "Lựa chọn tiết kiệm tốt nhất",
-      "review": "Gói hi-speed của Lolipop ở ¥550/tháng xấp xỉ bằng một nửa giá gia hạn của ConoHa và đi kèm trình cài đặt WordPress một nhấp. TTFB 312ms là chậm nhất trong bài test — nếu tốc độ trang quan trọng với độc giả của bạn, khoản tiết kiệm nhỏ so với ConoHa không đáng.",
-      "pros": ["¥550/tháng gói hi-speed — chi phí thấp nhất có WP một nhấp", "Giao diện quản lý dễ dùng cho người không rành kỹ thuật", "Độ tin cậy của tập đoàn GMO"],
+      "review": "Gói hi-speed của Lolipop xấp xỉ bằng một nửa giá gia hạn của ConoHa và đi kèm trình cài đặt WordPress một nhấp. TTFB 312ms là chậm nhất trong bài test — nếu tốc độ trang quan trọng với độc giả của bạn, khoản tiết kiệm nhỏ so với ConoHa không đáng.",
+      "pros": ["Gói hi-speed phổ thông — chi phí thấp nhất có WP một nhấp", "Giao diện quản lý dễ dùng cho người không rành kỹ thuật", "Độ tin cậy của tập đoàn GMO"],
       "cons": ["TTFB chậm nhất: 312ms — đáng chú ý với traffic từ Pinterest"],
       "grade": "B-",
       "specs": {
-        "Giá khởi đầu": "¥550/tháng (gói hi-speed)",
+        "Giá khởi đầu": "Phân khúc phổ thông (gói hi-speed)",
         "TTFB (Tokyo)": "Trung bình 312ms",
         "Hỗ trợ": "Chat + email",
         "WP một nhấp": "Có (19 phút)",
@@ -258,7 +258,7 @@
     {
       "label": "Cho blog sở thích với ngân sách eo hẹp",
       "offerId": "lolipop-server",
-      "reason": "¥550/tháng với WordPress một nhấp là mức rẻ nhất có thể đạt được từ hosting JP với giao diện hiện đại và có thể sử dụng được."
+      "reason": "Gói hi-speed phổ thông với WordPress một nhấp là mức rẻ nhất có thể đạt được từ hosting JP với giao diện hiện đại và có thể sử dụng được."
     }
   ]
 }

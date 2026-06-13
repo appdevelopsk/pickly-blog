@@ -1,12 +1,12 @@
 {
   "title": "Monitor Kualitas Udara Terbaik 2026: 5 Model Dibandingkan dengan Jujur",
   "description": "Dari dasbor konsumen 5 sensor Awair Element hingga laser PM2.5 dan CO2 tingkat penelitian IQAir AirVisual Node. Lima monitor kualitas udara dibandingkan berdasarkan jenis sensor, akurasi pengukuran, integrasi rumah pintar, pergeseran kalibrasi, dan nilai nyata di setiap titik harga.",
-  "lede": "Lima monitor kualitas udara — Awair Element (~¥30,000, 5 sensor CO2+VOC+PM2.5+kelembaban+suhu, dasbor Awair Score, HomeKit dan Alexa dan Google Home, akses API), IQAir AirVisual Node (~¥45,000, laser PM2.5 dan NDIR CO2, overlay AQI luar ruangan). CADR relatif terhadap ukuran ruangan Anda adalah satu-satunya spesifikasi yang memprediksi kinerja dunia nyata.",
+  "lede": "Lima monitor kualitas udara — Awair Element (5 sensor CO2+VOC+PM2.5+kelembaban+suhu, dasbor Awair Score, HomeKit dan Alexa dan Google Home, akses API), IQAir AirVisual Node (laser PM2.5 dan NDIR CO2, overlay AQI luar ruangan). CADR relatif terhadap ukuran ruangan Anda adalah satu-satunya spesifikasi yang memprediksi kinerja dunia nyata.",
   "sections": [
     {
       "heading": "Bagaimana kami membandingkan",
       "paragraphs": [
-        "Kami tidak melakukan pengujian kalibrasi yang dapat ditelusuri ke NIST. Kami tidak membandingkan satupun dari lima monitor ini dengan instrumen Federal Equivalent Method (FEM) atau Federal Reference Method (FRM) — jenis peralatan tingkat regulasi yang harganya ¥500,000 hingga ¥2,000,000 dan memerlukan operator terlatih serta kondisi pengambilan sampel yang terkontrol.",
+        "Kami tidak melakukan pengujian kalibrasi yang dapat ditelusuri ke NIST. Kami tidak membandingkan satupun dari lima monitor ini dengan instrumen Federal Equivalent Method (FEM) atau Federal Reference Method (FRM) — jenis peralatan tingkat regulasi mahal yang memerlukan operator terlatih serta kondisi pengambilan sampel yang terkontrol.",
         "Yang kami lakukan: meninjau lembar data sensor komponen yang diterbitkan produsen untuk setiap produk, membandingkan silang dengan evaluasi sensor independen yang diterbitkan dari kelompok penelitian kualitas udara dalam ruangan di institusi akademik, dan meninjau laporan pemilik jangka panjang yang teragregasi di Amazon Japan dan Rakuten Ichiba.",
         "Dua perbedaan membentuk hampir semua analisis di sini. Pertama: pengukuran CO2 dan pengukuran PM2.5 adalah masalah fisika yang berbeda yang membutuhkan teknologi sensor berbeda. Kedua: angka pada tampilan bukan konsentrasi polutan di ruangan Anda — itu adalah konsentrasi di inlet sensor, dikoreksi oleh algoritma kalibrasi yang diterapkan produsen."
       ]
@@ -56,9 +56,9 @@
     {
       "heading": "Pilihan kami dan peringatan jujur",
       "paragraphs": [
-        "Untuk sebagian besar rumah tangga di Jepang yang mencari monitor kualitas udara pertama atau satu-satunya: Kaiterra Laser Egg+ CO2 dengan harga sekitar ¥15,000 adalah pilihan yang paling seimbang.",
-        "Jika anggaran adalah kendala utama dan CO2 adalah perhatian utama Anda: Inkbird IAM-T1 dengan harga sekitar ¥5,000.",
-        "Jika otomasi rumah pintar adalah kasus penggunaan utama Anda: Awair Element dengan harga sekitar ¥30,000.",
+        "Untuk sebagian besar rumah tangga di Jepang yang mencari monitor kualitas udara pertama atau satu-satunya: Kaiterra Laser Egg+ CO2 adalah pilihan yang paling seimbang.",
+        "Jika anggaran adalah kendala utama dan CO2 adalah perhatian utama Anda: Inkbird IAM-T1.",
+        "Jika otomasi rumah pintar adalah kasus penggunaan utama Anda: Awair Element.",
         "Satu peringatan yang berlaku untuk semua lima produk: kesalahan paling umum dengan monitor kualitas udara adalah menempatkan unit di lokasi yang tidak mewakili tempat Anda bernapas."
       ]
     },
@@ -100,8 +100,8 @@
   "offerNotes": {
     "awair-element": "Awair Element menyediakan array sensor paling lengkap dalam perbandingan ini: CO2 (NDIR), VOC (indeks Sensirion SGP40), PM2.5 (laser), suhu, dan kelembaban, ditambah dasbor komposit Awair Score dan integrasi HomeKit/Alexa/Google Home.",
     "iqair-airvisual-node": "IQAir AirVisual Node adalah opsi tingkat profesional dalam perbandingan ini: laser PM2.5, NDIR CO2, suhu dan kelembaban, dengan overlay data AQI luar ruangan secara real-time dari jaringan pemantauan global AirVisual.",
-    "inkbird-iam-t1": "Inkbird IAM-T1 menyediakan pemantauan NDIR CO2 yang genuine dengan harga terendah dalam perbandingan ini (~¥5,000).",
-    "govee-air-quality-monitor": "Govee Air Quality Monitor H5106 mencakup CO2, PM2.5, suhu, dan kelembaban dengan harga sekitar ¥4,000 — rasio jumlah sensor per yen terbaik dalam perbandingan ini.",
+    "inkbird-iam-t1": "Inkbird IAM-T1 menyediakan pemantauan NDIR CO2 yang genuine dengan harga terendah dalam perbandingan ini.",
+    "govee-air-quality-monitor": "Govee Air Quality Monitor H5106 mencakup CO2, PM2.5, suhu, dan kelembaban — rasio jumlah sensor per harga terbaik dalam perbandingan ini.",
     "kaiterra-laser-egg-co2": "Kaiterra Laser Egg+ CO2 adalah monitor mandiri yang paling mudah dibaca dalam perbandingan ini: CO2, PM2.5, suhu, dan kelembaban ditampilkan dengan jelas pada unit berbentuk telur tanpa memerlukan aplikasi, koneksi cloud, atau ponsel."
   },
   "pinDescription": "5 monitor kualitas udara peringkat untuk Jepang 2026 — Awair Element 5 sensor vs IQAir AirVisual Node pro-grade vs tampilan mandiri Kaiterra Laser Egg vs Inkbird CO2 anggaran vs Govee all-in-one. Penjelasan batas akurasi CO2. Panduan PM2.5 dan musim debu kuning.",
@@ -135,7 +135,7 @@
       ],
       "cons": [
         "Tidak ada integrasi rumah pintar native sama sekali",
-        "Produk termahal dalam perbandingan ini dengan harga sekitar ¥45,000"
+        "Produk termahal dalam perbandingan ini"
       ],
       "grade": "A"
     },
@@ -144,7 +144,7 @@
       "badge": "Monitor CO2 Anggaran Terbaik",
       "review": "Inkbird IAM-T1 mereduksi kategori ke inti yang berguna: sensor NDIR CO2, tampilan besar yang mudah dibaca, suhu dan kelembaban, dan runtime baterai koin 6-12 bulan.",
       "pros": [
-        "Harga terendah dalam perbandingan ini (~¥5,000) untuk pemantauan NDIR CO2 yang akurat",
+        "Harga terendah dalam perbandingan ini untuk pemantauan NDIR CO2 yang akurat",
         "Tampilan besar yang mudah dibaca dari seberang ruangan kecil",
         "Runtime baterai koin 6-12 bulan tanpa adaptor daya",
         "Kalibrasi ABC dipicu secara otomatis di dekat jendela terbuka"
@@ -157,8 +157,8 @@
     },
     {
       "offerId": "govee-air-quality-monitor",
-      "badge": "Terbaik All-in-One di Bawah ¥5,000",
-      "review": "Govee H5106 mengemas CO2, PM2.5, suhu, dan kelembaban menjadi satu unit dengan harga sekitar ¥4,000 — rasio jumlah sensor per yen terbaik dalam perbandingan ini.",
+      "badge": "Terbaik All-in-One Hemat",
+      "review": "Govee H5106 mengemas CO2, PM2.5, suhu, dan kelembaban menjadi satu unit — rasio jumlah sensor per harga terbaik dalam perbandingan ini.",
       "pros": [
         "Kombinasi sensor CO2 plus PM2.5 berbiaya terendah dalam perbandingan ini",
         "Integrasi native aplikasi Govee Home jika Anda sudah memiliki perangkat Govee",
@@ -202,12 +202,12 @@
     {
       "label": "Untuk kamar tidur atau kantor rumah tunggal dengan anggaran terbatas",
       "offerId": "inkbird-iam-t1",
-      "reason": "Dengan ~¥5,000 ini memberikan pemantauan NDIR CO2 yang akurat dengan tampilan yang mudah dibaca — sinyal yang paling dapat ditindaklanjuti untuk keputusan ventilasi."
+      "reason": "Ini memberikan pemantauan NDIR CO2 yang akurat dengan tampilan yang mudah dibaca — sinyal yang paling dapat ditindaklanjuti untuk keputusan ventilasi."
     },
     {
       "label": "Untuk CO2 plus PM2.5 berbiaya terendah dalam satu unit",
       "offerId": "govee-air-quality-monitor",
-      "reason": "Dengan ~¥4,000 ini adalah cara termurah untuk memantau kedua polutan jika Anda menerima ekosistem khusus Govee dan sensor PM2.5 yang tidak terdokumentasi."
+      "reason": "Ini adalah cara termurah untuk memantau kedua polutan jika Anda menerima ekosistem khusus Govee dan sensor PM2.5 yang tidak terdokumentasi."
     },
     {
       "label": "Untuk monitor kedua di mana keterbacaan pandang sekilas paling penting",

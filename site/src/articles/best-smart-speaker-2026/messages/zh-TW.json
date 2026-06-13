@@ -36,7 +36,7 @@
     {
       "heading": "智慧家庭中樞功能",
       "paragraphs": [
-        "Amazon Echo 第4代內建 Zigbee 中樞。這是大多數智慧家庭文章低估的硬體能力——意味著 Echo 可以直接與 Zigbee 協定裝置通訊（2022年前的許多 Philips Hue 燈泡、IKEA TRADFRI、許多第三方智慧插座和感應器），無需獨立的中樞裝置。若你正在建置智慧家庭且預算有限，以同時充當中樞的 Echo 取代獨立的 Zigbee 中樞（通常4,000–8,000日圓）能節省實際費用。Echo 第4代也支援 Thread 和 Matter，這是取代 Zigbee 和 Z-Wave 的新興互通協定。",
+        "Amazon Echo 第4代內建 Zigbee 中樞。這是大多數智慧家庭文章低估的硬體能力——意味著 Echo 可以直接與 Zigbee 協定裝置通訊（2022年前的許多 Philips Hue 燈泡、IKEA TRADFRI、許多第三方智慧插座和感應器），無需獨立的中樞裝置。若你正在建置智慧家庭且預算有限，以同時充當中樞的 Echo 取代獨立的 Zigbee 中樞能節省實際費用。Echo 第4代也支援 Thread 和 Matter，這是取代 Zigbee 和 Z-Wave 的新興互通協定。",
         "Google Nest Audio 不包含中樞無線電——它完全透過 Wi-Fi 或藍牙連接智慧家庭裝置。對於2026年大多數使用較新 Wi-Fi 裝置（Nest 恆溫器、TP-Link Tapo、SwitchBot、Meross）的智慧家庭設置而言，這並不構成實際限制。但若你已有 Zigbee 裝置，Nest Audio 無法直接與其通訊，你需要單獨的中樞。",
         "Apple HomePod 第2代充當 Thread 邊界路由器和 HomeKit 中樞。它無法原生執行 Zigbee，但 Thread 日益成為新款智慧家庭裝置出廠時採用的協定，HomePod 的 Thread 無線電可在無需其他中樞的情況下控制 Thread 裝置。對於任何使用2024年以後裝置建置新智慧家庭的人，Thread 支援比 Zigbee 支援更具前瞻性。HomePod 也作為遠端 HomeKit 存取的閘道——若家中沒有 HomePod、Apple TV 或 iPad，離家後 HomeKit 自動化便無法執行。",
         "Amazon Echo Studio 和 Sonos Era 100 均不包含 Zigbee 無線電。Echo Studio 具有與 Echo 第4代相同的 Wi-Fi 和藍牙智慧家庭範圍，但沒有 Zigbee 中樞，因此作為智慧家庭中樞的實用性略遜於較便宜的 Echo。Sonos Era 100 完全沒有智慧家庭中樞功能——它是一款將語音指令轉發至 Alexa 或 Google 的音樂音箱。若智慧家庭中樞功能很重要，Echo 第4代是明確的選擇；若需要 Thread 邊界路由器，則選 HomePod 第2代。"
@@ -57,11 +57,11 @@
       "heading": "多房間音訊與立體聲配對",
       "paragraphs": [
         "這些音箱的多房間音訊都需要保持在同一生態系內——你無法將 Echo 和 Nest Audio 分組在同一個房間播放同步音訊。每個平台都有自己的同步協定。",
-        "Amazon 的多房間音訊使用 Amazon Echo 網路。在 Alexa 應用程式中，不到一分鐘就能將兩台 Echo 分組，同步精準到在房間之間走動不會產生可聽見的回聲。兩台 Echo 第4代可配對為立體聲對，實現左右分離，但在典型的 Echo 放置距離（廚房檯面、書架）下，實際立體聲分離度相當有限——音箱往往靠得太近，無法產生令人信服的立體聲像。Echo 第4代立體聲對售價約為13,960日圓。",
-        "Google 的多房間音訊透過 Google Home 運作，支援將 Nest Audio 與其他 Cast 相容音箱（包括內建 Chromecast 的第三方音箱）分組。支援兩台 Nest Audio 的立體聲配對，分離度優於 Echo 第4代組合，因為 Nest Audio 的單一單體設計意味著立體聲像更純粹地依賴聲道分離，而非多個內部單體相互競爭。兩台 Nest Audio 合計29,960日圓。",
-        "Apple 的 HomePod 立體聲對是本次比較中技術上最強的——兩台配對的 HomePod 第2代採用波束成形和空間音訊處理，創造出真正充滿房間的立體聲舞台，可與專用高傳真音響設備相媲美。一對 HomePod 立體聲組合售價78,000日圓，透過其播放 Apple Music 無損內容是截然不同於單台音箱的聆聽體驗。限制在於價格和平台：這只適用於 Apple Music（無損）和 AirPlay 來源；透過 HomePod 組合播放 Spotify 無法受益於空間音訊處理。",
-        "Sonos Era 100 立體聲配對需要兩台，售價79,600日圓，由於每台的張開式高音單體設計，在本次比較中創造了最寬廣的立體聲分離效果。Sonos 多房間音訊是最不依賴平台的——無論你使用哪種串流服務，都可以將 Era 100 與其他 Sonos 音箱（Era 300、Move、Roam）分組。若你想隨時間逐步建立多房間系統而不必綁定 Amazon 或 Apple 生態系，Sonos 是正確的選擇。",
-        "兩個房間配置的實際總費用：Amazon Echo 第4代 x2：13,960日圓。Google Nest Audio x2：29,960日圓。Apple HomePod 第2代 x2：78,000日圓。Amazon Echo Studio x2：59,960日圓。Sonos Era 100 x2：79,600日圓。Amazon Echo 是多房間音訊的入門選項，無需任何前期承諾；Sonos 是高端但最靈活的多房間系統。"
+        "Amazon 的多房間音訊使用 Amazon Echo 網路。在 Alexa 應用程式中，不到一分鐘就能將兩台 Echo 分組，同步精準到在房間之間走動不會產生可聽見的回聲。兩台 Echo 第4代可配對為立體聲對，實現左右分離，但在典型的 Echo 放置距離（廚房檯面、書架）下，實際立體聲分離度相當有限——音箱往往靠得太近，無法產生令人信服的立體聲像。",
+        "Google 的多房間音訊透過 Google Home 運作，支援將 Nest Audio 與其他 Cast 相容音箱（包括內建 Chromecast 的第三方音箱）分組。支援兩台 Nest Audio 的立體聲配對，分離度優於 Echo 第4代組合，因為 Nest Audio 的單一單體設計意味著立體聲像更純粹地依賴聲道分離，而非多個內部單體相互競爭。",
+        "Apple 的 HomePod 立體聲對是本次比較中技術上最強的——兩台配對的 HomePod 第2代採用波束成形和空間音訊處理，創造出真正充滿房間的立體聲舞台，可與專用高傳真音響設備相媲美。透過一對 HomePod 立體聲組合播放 Apple Music 無損內容，是截然不同於單台音箱的聆聽體驗。限制在於價格和平台：這只適用於 Apple Music（無損）和 AirPlay 來源；透過 HomePod 組合播放 Spotify 無法受益於空間音訊處理。",
+        "Sonos Era 100 立體聲配對需要兩台，由於每台的張開式高音單體設計，在本次比較中創造了最寬廣的立體聲分離效果。Sonos 多房間音訊是最不依賴平台的——無論你使用哪種串流服務，都可以將 Era 100 與其他 Sonos 音箱（Era 300、Move、Roam）分組。若你想隨時間逐步建立多房間系統而不必綁定 Amazon 或 Apple 生態系，Sonos 是正確的選擇。",
+        "比較兩個房間配置（每款各兩台）：Amazon Echo 第4代最實惠，其次是 Google Nest Audio、Amazon Echo Studio、Apple HomePod 第2代，Sonos Era 100 則位居高端。Amazon Echo 是多房間音訊的入門選項，無需任何前期承諾；Sonos 是高端但最靈活的多房間系統。"
       ]
     }
   ],
@@ -72,7 +72,7 @@
     },
     {
       "q": "這些音箱可以不訂閱就使用嗎？",
-      "a": "可以，五款音箱的核心語音助理功能——計時器、鬧鐘、智慧家庭控制、天氣、一般查詢——都不需要任何付費訂閱。訂閱問題主要關乎音樂串流。Amazon Echo 不需訂閱即可播放 Amazon Music 免費方案（有廣告，大多數播放清單只能隨機播放）；Amazon Music Unlimited 每月980日圓，可啟用隨選播放。Google Nest Audio 不需訂閱即可播放 YouTube Music 免費方案（有廣告）；YouTube Music Premium 每月980日圓，可移除廣告並啟用離線功能。Apple HomePod 需要每月1,080日圓的 Apple Music 訂閱才能完整無損播放——Apple Music 沒有免費方案。五款音箱都可不訂閱連接 Spotify 免費方案（有廣告，僅限隨機播放）。HomePod 是本清單中唯一需要付費串流訂閱才能充分發揮其音質的音箱。"
+      "a": "可以，五款音箱的核心語音助理功能——計時器、鬧鐘、智慧家庭控制、天氣、一般查詢——都不需要任何付費訂閱。訂閱問題主要關乎音樂串流。Amazon Echo 不需訂閱即可播放 Amazon Music 免費方案（有廣告，大多數播放清單只能隨機播放）；Amazon Music Unlimited 可啟用隨選播放。Google Nest Audio 不需訂閱即可播放 YouTube Music 免費方案（有廣告）；YouTube Music Premium 可移除廣告並啟用離線功能。Apple HomePod 需要 Apple Music 訂閱才能完整無損播放——Apple Music 沒有免費方案。五款音箱都可不訂閱連接 Spotify 免費方案（有廣告，僅限隨機播放）。HomePod 是本清單中唯一需要付費串流訂閱才能充分發揮其音質的音箱。"
     },
     {
       "q": "哪款智慧音箱最適合 Apple 使用者？",
@@ -92,7 +92,7 @@
     }
   ],
   "offerNotes": {
-    "amazon-echo-4th-gen": "Alexa 智慧音箱中最具性價比——360度音效、內建 Zigbee 中樞可直接配對智慧家庭裝置，售價6,980日圓。音質勝任背景音樂，但低頻在80 Hz以下衰減；買它是為了 Alexa 加智慧家庭，而非發燒友聆聽。",
+    "amazon-echo-4th-gen": "Alexa 智慧音箱中最具性價比——360度音效、內建 Zigbee 中樞可直接配對智慧家庭裝置。音質勝任背景音樂，但低頻在80 Hz以下衰減；買它是為了 Alexa 加智慧家庭，而非發燒友聆聽。",
     "google-nest-audio": "以此價位最適合 Google 使用者與音樂品質——75 mm低音單體比 Echo 第4代呈現更溫暖、更飽滿的低頻。無 Zigbee 中樞；搜尋類語音查詢和 Spotify / YouTube Music 整合更為強勁。",
     "apple-homepod-2nd-gen": "比較中空間音訊校正最佳——4吋高行程低音單體搭配五顆高音單體，即時空間音訊調音。需要 Apple Music 才能完整品質；設定和控制需要 iPhone；硬體麥克風關閉提供本清單中最強的隱私預設。",
     "amazon-echo-studio": "Amazon 中最適合認真音樂聆聽的音箱——五組單體、330W 峰值功率、Dolby Atmos 搭配向上高音單體反射天花板。與 Echo 第4代相同的 Alexa 生態系，但無 Zigbee 中樞；若音質很重要，從 Echo 第4代升級的首選。",
@@ -105,7 +105,7 @@
       "offerId": "amazon-echo-4th-gen",
       "badge": "智慧家庭中樞",
       "grade": "A+",
-      "review": "Amazon Echo 第4代是本次比較中智慧家庭的輕鬆推薦，在球形外殼中整合了3.0吋低音單體搭配雙高音單體、內建 Zigbee 無線電，以及 Thread 和 Matter 支援，實現360度音效覆蓋。僅 Zigbee 中樞一項便可取代舊款 Hue、IKEA TRADFRI 和許多第三方裝置所需的4,000–8,000日圓獨立橋接器，這是選擇此款 Echo 而非 Nest Audio 的實際理由。Alexa 的第三方裝置目錄超過14萬條——遠廣於 Google Home 或 HomeKit。音質在廚房背景音樂中表現稱職，但低頻在80 Hz以下衰減，聲場也比 Nest Audio 狹窄。售價約6,980日圓，是多房間語音控制中成本最低的入門選擇，而這正是它最擅長的角色。",
+      "review": "Amazon Echo 第4代是本次比較中智慧家庭的輕鬆推薦，在球形外殼中整合了3.0吋低音單體搭配雙高音單體、內建 Zigbee 無線電，以及 Thread 和 Matter 支援，實現360度音效覆蓋。僅 Zigbee 中樞一項便可取代舊款 Hue、IKEA TRADFRI 和許多第三方裝置所需的獨立橋接器，這是選擇此款 Echo 而非 Nest Audio 的實際理由。Alexa 的第三方裝置目錄超過14萬條——遠廣於 Google Home 或 HomeKit。音質在廚房背景音樂中表現稱職，但低頻在80 Hz以下衰減，聲場也比 Nest Audio 狹窄。它是多房間語音控制中成本最低的入門選擇，而這正是它最擅長的角色。",
       "pros": [
         "內建 Zigbee 中樞，另支援 Thread 和 Matter",
         "第三方智慧家庭裝置目錄最廣，超過14萬條",

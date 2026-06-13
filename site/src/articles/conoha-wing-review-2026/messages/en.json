@@ -16,7 +16,7 @@
       "paragraphs": [
         "First-time bloggers in Japan who want one bill, one dashboard, and a Japanese-language support chat that answers in Japanese. The かんたんセットアップ flow is the only path I have seen that hides every config screen behind a single form.",
         "Existing Xserver or Sakura users who want lower TTFB on the same price tier. ConoHa WING averaged 198ms TTFB over 30 days from a Tokyo origin, against Xserver X10 at 268ms and Lolipop's hi-speed plan at 312ms on the same WordPress build.",
-        "Skip it if you want phone support during a 2 AM incident — chat is 10:00-18:00 weekdays only. Skip it if your budget is genuinely under 500 yen/month — Lolipop will do the same thing slower for half the renewal price."
+        "Skip it if you want phone support during a 2 AM incident — chat is 10:00-18:00 weekdays only. Skip it if you want the rock-bottom budget tier — Lolipop will do the same thing slower for half the renewal price."
       ]
     },
     {
@@ -32,14 +32,14 @@
       "paragraphs": [
         "There is no phone support. All technical contact goes through chat (weekday business hours) or email (24-hour response window). Xserver still wins this one if you have ever needed to call someone at midnight.",
         "The dashboard is custom — not cPanel, not Plesk. If you ever migrate to a server that uses the standard tools, you re-learn the workflow. Most users will not care; engineers who manage multiple hosts might.",
-        "The headline price is a campaign price. WINGパック ベーシック shows '月643円' on the marketing page, which is the 36-month contract paid up front during a campaign. Renewal after that 36-month block is 1,452 yen/month at the time of writing. Set a calendar reminder for month 35."
+        "The headline price is a campaign price. The rate WINGパック ベーシック shows on the marketing page is the 36-month contract paid up front during a campaign. Renewal after that 36-month block jumps to a markedly higher monthly rate at the time of writing. Set a calendar reminder for month 35."
       ]
     },
     {
       "heading": "Pricing in May 2026",
       "paragraphs": [
-        "WINGパック ベーシック runs 643-1,452 yen/month depending on contract length and whether a campaign is live. The campaign window is open more often than not — at the time of writing the 36-month rate is 643 yen/month, the 12-month rate is 911 yen/month, and the monthly rate (no contract) is 1,452 yen.",
-        "A free domain is bundled. That replaces the 1,500-3,000 yen/year you would otherwise pay a registrar, and the domain stays free as long as you keep the WINGパック active. Two domains on the higher plans.",
+        "WINGパック ベーシック pricing depends on contract length and whether a campaign is live. The campaign window is open more often than not — at the time of writing the longest 36-month contract carries the lowest monthly rate, the 12-month contract sits in the middle, and the no-contract monthly plan is the most expensive. Check the live rate on the buy button.",
+        "A free domain is bundled. That replaces the annual fee you would otherwise pay a registrar, and the domain stays free as long as you keep the WINGパック active. Two domains on the higher plans.",
         "There is a 30-day money-back window on WINGパック. Cancel inside 30 days and the WINGパック portion is refunded — domain registration fees are not. In practice this works as a low-risk trial."
       ]
     },
@@ -103,7 +103,7 @@
       "paragraphs": [
         "ConoHa WING is the cleanest path from 'I want a blog' to 'my blog is online' in Japan in 2026. The kantan setup is not a marketing slogan — it is a real, working flow that took me 11 minutes end to end. For a first-time WordPress user, that alone is worth the price of admission.",
         "Watch the renewal price. The campaign rate is genuinely good; the post-campaign rate is ordinary. A 35-month calendar reminder turns this from a trap into a normal hosting cost. Pay attention to that one detail and ConoHa WING is hard to beat for the audience it targets.",
-        "If you fall outside that audience — engineer who wants SSH, hobbyist on a sub-500-yen budget, business that needs phone support at 2 AM — the alternatives in this review (Xserver, Lolipop) exist for a reason. Pick by the constraint that hurts most, not by the marketing page. For a head-to-head with five JP hosts including mixhost and Sakura, see our companion comparison: 'Best JP rental server 2026.'"
+        "If you fall outside that audience — engineer who wants SSH, hobbyist on a rock-bottom budget, business that needs phone support at 2 AM — the alternatives in this review (Xserver, Lolipop) exist for a reason. Pick by the constraint that hurts most, not by the marketing page. For a head-to-head with five JP hosts including mixhost and Sakura, see our companion comparison: 'Best JP rental server 2026.'"
       ]
     }
   ],
@@ -188,14 +188,13 @@
     {
       "offerId": "lolipop-server",
       "badge": "Best Budget",
-      "review": "Lolipop's hi-speed plan at ¥550/month is the cheapest full-featured shared host in Japan, though TTFB at 312ms is the slowest of the three. Same GMO infrastructure as ConoHa WING, but older hardware tier. Ideal for hobby blogs, portfolios, and anyone whose priority is monthly cost over page speed.",
-      "pros": ["Lowest monthly cost — hi-speed plan from ¥550/month", "Same GMO parent as ConoHa WING — reliable infrastructure", "Good starting point for hobby sites and low-traffic blogs"],
+      "review": "Lolipop's hi-speed plan is the cheapest full-featured shared host in Japan, though TTFB at 312ms is the slowest of the three. Same GMO infrastructure as ConoHa WING, but older hardware tier. Ideal for hobby blogs, portfolios, and anyone whose priority is monthly cost over page speed.",
+      "pros": ["Lowest monthly cost — budget-tier hi-speed plan", "Same GMO parent as ConoHa WING — reliable infrastructure", "Good starting point for hobby sites and low-traffic blogs"],
       "cons": ["312ms TTFB — slowest in this comparison by a meaningful margin"],
       "grade": "B+",
       "specs": {
         "TTFB (30-day avg)": "312ms",
-        "Starting price": "¥330/month",
-        "Hi-speed plan": "¥550/month",
+        "Plan tier": "Budget",
         "Free domain": "Yes (hi-speed plan)",
         "SSL": "Free Let's Encrypt",
         "Support": "Chat & email",
@@ -207,6 +206,6 @@
   "recommendedFor": [
     {"label": "For first-time bloggers in Japan", "offerId": "conoha-wing", "reason": "Fastest path from zero to live WordPress — one form, one bill, 11-minute setup."},
     {"label": "For businesses needing 24/7 phone support", "offerId": "xserver", "reason": "Only host in this comparison with around-the-clock phone access for emergency incidents."},
-    {"label": "For hobby sites on a tight budget", "offerId": "lolipop-server", "reason": "Hi-speed plan at ¥550/month covers the basics without overpaying for speed you may not need."}
+    {"label": "For hobby sites on a tight budget", "offerId": "lolipop-server", "reason": "The budget-tier hi-speed plan covers the basics without overpaying for speed you may not need."}
   ]
 }

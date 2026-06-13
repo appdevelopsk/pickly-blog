@@ -7,7 +7,7 @@
       "heading": "비교 방법",
       "paragraphs": [
         "독립적인 충전 시간 테스트를 수행하지 않았습니다. 제어된 주변 온도와 초기 배터리 충전 상태 조건에서 USB 전력 미터로 최대 와트 소비를 측정하지 않았습니다. 지속적인 충전 중 코일과 기기 온도를 매핑하는 열화상 촬영을 수행하지 않았습니다. EMF 출력 수준을 테스트하지 않았습니다. 엄격한 충전 속도 테스트는 표준화된 조건이 필요합니다 — 주변 온도, 케이블 굵기, 어댑터 품질, 폰 케이스 유무, 초기 충전 상태 — 이것들이 실제 사용에서 충분히 다르므로 제어된 설정 없이는 마진 수준의 와트 비교가 신뢰할 수 없습니다. 신뢰할 수 있는 수준의 수치를 생성할 장비를 갖추고 있지 않습니다.",
-        "대신 다음을 수행했습니다: 각 제품의 제조업체 사양 시트와 Apple MFi 프로그램 문서를 소싱하고, 가능한 경우 iFixit 분해 분석을 교차 검증하고, Wireless Power Consortium의 공개 Qi2 사양을 검토하고, Reddit의 r/applehelp 및 r/AndroidQuestions를 포함한 라쿠텐 이치바 및 국제 소비자 전자 커뮤니티에서 장기 사용자 리뷰를 종합하여, 실제 사용 적합성을 결정하는 질문을 중심으로 비교 프레임워크를 구축했습니다: 어댑터 포함(숨겨진 비용), 실제 대 마케팅 와트수, 에코시스템 호환성 제약, 휴대성, 장기 일상 사용에서의 발열 패턴. 모든 제품의 명시적인 약점을 지적합니다 — 15W로 도달하기 위해 별도 ¥3,000 어댑터가 필요하거나, 하나의 특정 폰 모델에서만 최대 15W를 달성하거나, 두꺼운 케이스에서 충전율 제한을 유발할 만큼 충분한 열을 생성하는 충전기의 경우, 마케팅 와트수가 실제 충전 경험을 설명하는 수치가 아니기 때문입니다.",
+        "대신 다음을 수행했습니다: 각 제품의 제조업체 사양 시트와 Apple MFi 프로그램 문서를 소싱하고, 가능한 경우 iFixit 분해 분석을 교차 검증하고, Wireless Power Consortium의 공개 Qi2 사양을 검토하고, Reddit의 r/applehelp 및 r/AndroidQuestions를 포함한 라쿠텐 이치바 및 국제 소비자 전자 커뮤니티에서 장기 사용자 리뷰를 종합하여, 실제 사용 적합성을 결정하는 질문을 중심으로 비교 프레임워크를 구축했습니다: 어댑터 포함(숨겨진 비용), 실제 대 마케팅 와트수, 에코시스템 호환성 제약, 휴대성, 장기 일상 사용에서의 발열 패턴. 모든 제품의 명시적인 약점을 지적합니다 — 15W로 도달하기 위해 별도 어댑터가 필요하거나, 하나의 특정 폰 모델에서만 최대 15W를 달성하거나, 두꺼운 케이스에서 충전율 제한을 유발할 만큼 충분한 열을 생성하는 충전기의 경우, 마케팅 와트수가 실제 충전 경험을 설명하는 수치가 아니기 때문입니다.",
         "이 카테고리에서 가장 중요한 참고 사항: 무선 충전은 동등한 전력에서 항상 유선 충전보다 느립니다. 무선 전력 전송에서의 에너지 변환 효율이 직접 접촉보다 낮고, 대부분의 무선 충전기가 열 임계값에 도달하면 충전율을 조절하기 때문입니다. 올바른 질문은 '어떤 무선 충전기가 가장 빠른가'가 아니라 '어떤 무선 충전기가 실제로 매일 사용할 만큼 내 책상이나 여행 워크플로우에 잘 맞는가'입니다 — 책상 위에 사용하지 않는 유선 충전기는 매일 사용하는 무선 패드보다 느리기 때문입니다."
       ]
     },
@@ -23,7 +23,7 @@
       "heading": "와트수 마케팅 vs 실제 충전 속도",
       "paragraphs": [
         "15W MagSafe는 Apple과 MagSafe 인증 충전기 제조업체가 사용하는 헤드라인 수치입니다. 이 수치가 실제로 의미하는 것: 이상적인 조건 — 실온, 케이스 없음, 패드에서 휴면 중인 폰, 20W 이상 USB-C Power Delivery 어댑터 — 에서 Apple의 자체 MagSafe Charger로 iPhone 15 Pro를 0%에서 100%까지 충전하는 데 약 2시간이 걸립니다. 유선 30W USB-C 고속 충전은 동일한 과정에 약 1.5시간이 걸립니다. 무선 충전은 최대 정격 속도에서도 유선보다 25% 더 오래 걸립니다. 이것은 어떤 충전기에만 해당하는 비판이 아닙니다 — 이것은 무선 전력 전송 효율의 근본적인 특성으로, 직접 접촉의 거의 100%에 비해 Qi2/MagSafe에서 최대 약 85~90%입니다.",
-        "어댑터 상황이 속도 이야기를 더 복잡하게 만듭니다. Apple의 MagSafe Charger는 USB-C 케이블과 함께 출하됩니다. 어댑터는 포함되지 않습니다. 15W에 도달하려면 20W 이상의 USB-C Power Delivery 어댑터가 필요합니다 — Apple 자체 20W 어댑터는 ¥2,780에 판매됩니다. 마케팅된 15W 레이트는 기술적으로 정확하지만, 이미 어댑터를 소유하지 않은 경우 해당 레이트에 도달하기 위한 총 비용은 충전기 가격에 어댑터를 더한 것입니다. Anker의 MagGo 3-in-1은 세 기기를 동시에 전력 공급하기 위해 30W 어댑터가 필요합니다; 어댑터 없이 출하됩니다. Belkin의 BoostCharge Pro는 대부분의 지역 구성에는 어댑터가 포함되지만 전부는 아닙니다 — 구매 전 확인하세요.",
+        "어댑터 상황이 속도 이야기를 더 복잡하게 만듭니다. Apple의 MagSafe Charger는 USB-C 케이블과 함께 출하됩니다. 어댑터는 포함되지 않습니다. 15W에 도달하려면 20W 이상의 USB-C Power Delivery 어댑터가 필요합니다 — Apple 자체 20W 어댑터는 별도로 판매됩니다. 마케팅된 15W 레이트는 기술적으로 정확하지만, 이미 어댑터를 소유하지 않은 경우 해당 레이트에 도달하기 위한 총 비용은 충전기 가격에 어댑터를 더한 것입니다. Anker의 MagGo 3-in-1은 세 기기를 동시에 전력 공급하기 위해 30W 어댑터가 필요합니다; 어댑터 없이 출하됩니다. Belkin의 BoostCharge Pro는 대부분의 지역 구성에는 어댑터가 포함되지만 전부는 아닙니다 — 구매 전 확인하세요.",
         "열 제한은 또 다른 와트수 마케팅 문제입니다. 폰의 온도가 충전율 관리 임계값 — iPhone에서 일반적으로 약 35°C — 을 초과하면 iOS는 배터리 화학을 보호하기 위해 충전율을 줄입니다. 이것은 두꺼운 케이스, 따뜻한 방, 또는 충전 중 폰이 프로세서 집약적인 앱을 실행할 때 더 빨리 발생합니다. 28°C 주변 온도에서 3mm 두꺼운 가죽 케이스의 15W MagSafe 충전기는 폰이 과열을 방지하기 위해 제한하므로 실효 평균 충전율이 10~11W일 수 있습니다. 패드가 불량한 것이 아닙니다; 시스템이 설계대로 작동하는 것입니다. 하지만 스펙 시트의 15W 수치는 해당 조건에서의 실제 충전 세션을 설명하지 않습니다."
       ]
     },
@@ -31,7 +31,7 @@
       "heading": "멀티 디바이스 스테이션: 의미가 있는가?",
       "paragraphs": [
         "3-in-1 충전 스테이션 — 이 비교의 Anker MagGo와 Belkin BoostCharge Pro — 은 하나의 장치에서 iPhone, AirPods, Apple Watch를 충전합니다. 찬성 이유: 벽에 케이블 하나, 책상이나 침대 협탁을 어지럽히는 세 개의 별도 패드와 케이블 없음, Apple Watch 충전기 암이 알람 표시를 위한 Nightstand 모드로 시계를 배치합니다. 매일 동일한 기기를 보는 책상에서 이것은 진정 편리합니다.",
-        "반대 이유: 3-in-1 스테이션은 세 기기를 동시에 실행하기 위해 더 많은 총 와트수가 필요합니다. Anker MagGo는 세 충전 스팟 모두의 전속 작동을 위해 30W 어댑터 요구 사항을 명시합니다. 30W USB-C PD 어댑터가 없으면 ¥2,000~4,000이 듭니다. 스테이션 자체는 Anker MagGo의 경우 ¥8,000~12,000입니다. Apple의 MagSafe Charger ¥4,980에 20W 어댑터 ¥2,780을 합산한 ¥7,760 — 3-in-1 스테이션의 AirPods 스팟이 AirPods를 충전하는 것보다 더 빠르게 iPhone을 충전하는 단일 패드의 총 비용과 비교하세요. 수학은 충전해야 하는 기기 수와 책상 정리 정돈에 가치가 있는지에 따라 달라집니다.",
+        "반대 이유: 3-in-1 스테이션은 세 기기를 동시에 실행하기 위해 더 많은 총 와트수가 필요합니다. Anker MagGo는 세 충전 스팟 모두의 전속 작동을 위해 30W 어댑터 요구 사항을 명시합니다. 30W USB-C PD 어댑터가 없으면 추가 비용이 듭니다. 스테이션 자체는 Anker MagGo의 경우 중간 가격대에 속합니다. Apple의 MagSafe Charger에 20W 어댑터를 더한 것과, 3-in-1 스테이션의 AirPods 스팟이 AirPods를 충전하는 것보다 더 빠르게 iPhone을 충전하는 단일 패드의 총 비용을 비교하세요. 수학은 충전해야 하는 기기 수와 책상 정리 정돈에 가치가 있는지에 따라 달라집니다.",
         "여행의 경우 3-in-1 스테이션은 정당화하기 더 어렵습니다. Anker MagGo는 접이식으로 발자국을 크게 줄이지만, 30W 어댑터가 여전히 필요하며 전체 패키지가 단일 기기 솔루션보다 가방 공간을 더 차지합니다. ESR의 HaloLock 2-in-1 — 접이식 패드에 iPhone과 AirPods 동시 — 은 더 나은 여행 절충안이며, Anker 313 Qi 패드는 MagSafe를 우선시하지 않는 Android 폰이나 구형 iPhone을 가지고 여행하는 경우 가장 가벼운 옵션입니다."
       ]
     },
@@ -46,7 +46,7 @@
     {
       "heading": "2026년의 변화",
       "paragraphs": [
-        "Qi2가 이제 중간 가격대의 기본 표준이 되었습니다. 2024년에는 Qi2 충전기가 ¥4,000~8,000 범위에 집중되어 있었습니다; 2026년 초에는 약 ¥3,000에 Qi2 인증 옵션이 존재하며, 기본 Qi 패드 대비 가격 프리미엄이 예산만이 유일한 제약이 아닌 한 iPhone 사용자에게 Qi 전용 패드를 구매하기 어려울 만큼 좁아졌습니다. ESR HaloLock은 이 공간을 차지합니다 — 약 ¥4,000에 MagSafe 호환 자석이지만, 전체 Qi2 인증이 없어 15W가 아닌 7.5W입니다.",
+        "Qi2가 이제 중간 가격대의 기본 표준이 되었습니다. 2024년에는 Qi2 충전기가 중간 가격대에 집중되어 있었습니다; 2026년 초에는 입문 가격대에 Qi2 인증 옵션이 존재하며, 기본 Qi 패드 대비 가격 프리미엄이 예산만이 유일한 제약이 아닌 한 iPhone 사용자에게 Qi 전용 패드를 구매하기 어려울 만큼 좁아졌습니다. ESR HaloLock은 이 공간을 차지합니다 — 입문 가격대에 MagSafe 호환 자석이지만, 전체 Qi2 인증이 없어 15W가 아닌 7.5W입니다.",
         "Apple Watch Series 10은 2024년 말에 고속 충전을 추가로 개선했습니다: Series 10은 MFi 인증 패드를 통해 최대 5W 고속 충전을 지원하며, Apple의 내부 프로토콜 테스트에서 Series 10은 40분 이내에 0%에서 80%까지 충전됩니다. MFi 고속 충전 요구 사항은 변경되지 않았습니다 — 비인증 패드는 Series 10을 2.5W로 충전합니다. Anker MagGo 3-in-1과 Belkin BoostCharge Pro 모두 MFi 인증 Apple Watch 패드를 포함합니다; ESR HaloLock 2-in-1은 Apple Watch 스팟을 포함하지 않습니다.",
         "Samsung 25W 무선 고속 충전이 2026년에 더 광범위하게 접근 가능해졌습니다. Samsung의 독점 25W 무선 표준 — 호환 Galaxy 폰과 Samsung EP 시리즈 또는 인증된 서드파티 25W 무선 충전기 모두 필요 — 은 이전에 초프리미엄 Galaxy S 시리즈에만 한정되었습니다. Galaxy S25 라인으로 25W 무선 지원이 전 라인업으로 확대되었습니다. 이 비교는 이 기사의 주요 시장이 일본 iPhone 및 혼합 에코시스템 사용자이므로 Samsung 25W 충전기를 포함하지 않지만, Android 주요 독자들에게 Qi2 15W 한계가 Samsung의 에코시스템에 적용되지 않는다는 점을 주목할 가치가 있습니다 — Samsung의 독점 고속 충전 확장이 그보다 위에 있습니다."
       ]
@@ -54,18 +54,18 @@
     {
       "heading": "각 제품이 적합한 곳",
       "paragraphs": [
-        "일상 책상 iPhone 충전, 가능한 가장 빠른 무선 속도, MagSafe 정렬 신뢰성: Apple MagSafe Charger(USB-C, 2m). Apple 자체 충전기는 MagSafe의 기준 구현입니다 — 이 비교에서 가장 긴 케이블(2m, 책상 라우팅에 유용), 자기 정렬이 정확하며, iPhone 12 이상에서 안정적으로 15W를 전달합니다. 2m 케이블 길이는 진정 유용합니다. 라쿠텐과 Apple Japan 직접 구매 가능. 기기 하나만 충전합니다; 15W 레이트는 포함되지 않은 20W 이상 USB-C PD 어댑터가 필요합니다(추가 약 ¥2,780); iPhone이 아닌 기기에는 7.5W만 전달합니다; 약 ¥4,980으로 케이블 전용 액세서리치고는 비싸며, 같은 가격대의 서드파티 Qi2 충전기가 iPhone 13 이상에서 동일한 15W 속도를 맞출 것입니다.",
-        "전체 Apple 에코시스템(iPhone + AirPods + Apple Watch)이 있는 책상이나 침대 협탁, 휴대성보다 편의성: Anker MagGo 3-in-1 Charging Station. 폴더블 설계는 세 개의 별도 충전기보다 책상에서 더 깔끔하고, MagSafe 인증 15W iPhone 스팟은 iPhone 12 이상에서 이 비교에서 가장 빠른 무선 충전을 제공하며, Apple Watch 암이 Nightstand 모드를 위해 시계를 올바르게 배치합니다. 세 기기 동시 전속 충전에 필요한 30W 어댑터는 포함되지 않아 실질 구매 가격에 ¥2,000~4,000이 추가됩니다; Apple이 아닌 기기는 Qi 표준 속도로 충전됩니다(AirPods 5W, Apple Watch 2.5W~5W), 따라서 스테이션은 주로 Apple 에코시스템 사용자에게 최적화됩니다; 접힌 발자국이 단일 패드보다 여전히 크고, 여행에는 ESR HaloLock보다 무겁습니다.",
-        "프리미엄 책상이나 침대 협탁, Apple 에코시스템, Apple Watch 고속 충전이 우선, 검증된 브랜드 선호: Belkin BoostCharge Pro 3-in-1. Belkin의 빌드 품질은 비슷한 가격에서 Anker보다 일관되게 더 프리미엄이고, MFi 인증 고속 충전(Series 7 이상에서 5W)이 있는 Apple Watch 충전 암은 이 비교의 어떤 제품보다 가장 잘 통합된 Apple Watch 스팟이며, AirPods 패드 위치는 책상 배치에 잘 맞게 설계되었습니다. 약 ¥15,000으로 이 비교에서 상당히 가장 비싼 제품입니다; Apple Watch 충전기 암이 위로 돌출되어 있어 여행용 포장이 Anker MagGo의 접이식 암보다 더 불편합니다; 다섯 번째 기기를 동시에 충전하기 위한 USB-C 패스 스루 포트가 없어, 노트북을 동시에 충전하고 싶다면 문제가 됩니다; Anker MagGo와의 가성비 비교는 Belkin이 ¥3,000~5,000 가격 차이를 정당화하기에 충분한 품질 프리미엄을 제공해야 하는데, 이는 모든 사람에게 당연한 것이 아닙니다.",
-        "예산 무선 충전, Android 주요 사용자, 또는 MagSafe 없는 구형 iPhone(iPhone 12 이전): Anker 313 Wireless Charger(Qi, 10W). ¥2,000 미만으로 이 비교에서 가장 저렴한 무선 충전 옵션입니다. 10W Qi 출력은 중간 사양 Android 고속 무선 충전에 경쟁력 있고, USB-A 케이블이 포함되어 있으며(이 가격대에서 드묾), 평평한 패드 설계는 Qi 호환 기기에서 안정적으로 작동합니다. Qi만 — MagSafe 없음, Qi2 없음, 자기 정렬 없음, 안정적인 결합을 위해 폰을 정확하게 배치해야 합니다; iPhone에 7.5W는 이 비교에서 가장 느린 iPhone 무선 충전 속도입니다; 평평한 패드 설계로 충전 중 알림을 힐끗 보기가 스탠드형 충전기보다 불편합니다; 폰이 올바르게 배치되어 충전 중인지 시각적 또는 청각적 확인이 없습니다.",
-        "여행 우선, iPhone + AirPods, 소형 발자국, 적당한 속도 허용: ESR HaloLock 2-in-1 Travel Wireless Charger. 약 ¥4,000으로 이 비교에서 최고의 가치 대비 휴대성 비율입니다. 폴더블 설계는 12mm 두께로 신용카드 발자국으로 접히며, MagSafe 호환 자석이 iPhone을 안정적으로 정렬에 맞추며, 하단 패드의 AirPods Qi 패드는 대부분의 AirPods 케이스에 올바른 위치에 있습니다. iPhone 최대 충전 속도 7.5W — ESR HaloLock이 전체 Qi2 인증 없이 MagSafe 호환 자석을 사용하므로 전체 MagSafe 15W가 아닙니다; AirPods 패드는 5W Qi만입니다; 빌드 품질은 Belkin이나 Anker MagGo보다 눈에 띄게 덜 프리미엄합니다; Apple Watch 스팟이 없어 Apple Watch 사용자는 야간 여행 충전을 위한 별도 케이블이 필요합니다."
+        "일상 책상 iPhone 충전, 가능한 가장 빠른 무선 속도, MagSafe 정렬 신뢰성: Apple MagSafe Charger(USB-C, 2m). Apple 자체 충전기는 MagSafe의 기준 구현입니다 — 이 비교에서 가장 긴 케이블(2m, 책상 라우팅에 유용), 자기 정렬이 정확하며, iPhone 12 이상에서 안정적으로 15W를 전달합니다. 2m 케이블 길이는 진정 유용합니다. 라쿠텐과 Apple Japan 직접 구매 가능. 기기 하나만 충전합니다; 15W 레이트는 포함되지 않은 20W 이상 USB-C PD 어댑터가 필요합니다(추가 비용); iPhone이 아닌 기기에는 7.5W만 전달합니다; 케이블 전용 액세서리치고는 비싸며, 같은 가격대의 서드파티 Qi2 충전기가 iPhone 13 이상에서 동일한 15W 속도를 맞출 것입니다.",
+        "전체 Apple 에코시스템(iPhone + AirPods + Apple Watch)이 있는 책상이나 침대 협탁, 휴대성보다 편의성: Anker MagGo 3-in-1 Charging Station. 폴더블 설계는 세 개의 별도 충전기보다 책상에서 더 깔끔하고, MagSafe 인증 15W iPhone 스팟은 iPhone 12 이상에서 이 비교에서 가장 빠른 무선 충전을 제공하며, Apple Watch 암이 Nightstand 모드를 위해 시계를 올바르게 배치합니다. 세 기기 동시 전속 충전에 필요한 30W 어댑터는 포함되지 않아 실질 구매 가격이 올라갑니다; Apple이 아닌 기기는 Qi 표준 속도로 충전됩니다(AirPods 5W, Apple Watch 2.5W~5W), 따라서 스테이션은 주로 Apple 에코시스템 사용자에게 최적화됩니다; 접힌 발자국이 단일 패드보다 여전히 크고, 여행에는 ESR HaloLock보다 무겁습니다.",
+        "프리미엄 책상이나 침대 협탁, Apple 에코시스템, Apple Watch 고속 충전이 우선, 검증된 브랜드 선호: Belkin BoostCharge Pro 3-in-1. Belkin의 빌드 품질은 비슷한 가격에서 Anker보다 일관되게 더 프리미엄이고, MFi 인증 고속 충전(Series 7 이상에서 5W)이 있는 Apple Watch 충전 암은 이 비교의 어떤 제품보다 가장 잘 통합된 Apple Watch 스팟이며, AirPods 패드 위치는 책상 배치에 잘 맞게 설계되었습니다. 이 비교에서 상당히 가장 비싼 제품입니다; Apple Watch 충전기 암이 위로 돌출되어 있어 여행용 포장이 Anker MagGo의 접이식 암보다 더 불편합니다; 다섯 번째 기기를 동시에 충전하기 위한 USB-C 패스 스루 포트가 없어, 노트북을 동시에 충전하고 싶다면 문제가 됩니다; Anker MagGo와의 가성비 비교는 Belkin이 가격 차이를 정당화하기에 충분한 품질 프리미엄을 제공해야 하는데, 이는 모든 사람에게 당연한 것이 아닙니다.",
+        "예산 무선 충전, Android 주요 사용자, 또는 MagSafe 없는 구형 iPhone(iPhone 12 이전): Anker 313 Wireless Charger(Qi, 10W). 이 비교에서 가장 저렴한 무선 충전 옵션입니다. 10W Qi 출력은 중간 사양 Android 고속 무선 충전에 경쟁력 있고, USB-A 케이블이 포함되어 있으며(이 가격대에서 드묾), 평평한 패드 설계는 Qi 호환 기기에서 안정적으로 작동합니다. Qi만 — MagSafe 없음, Qi2 없음, 자기 정렬 없음, 안정적인 결합을 위해 폰을 정확하게 배치해야 합니다; iPhone에 7.5W는 이 비교에서 가장 느린 iPhone 무선 충전 속도입니다; 평평한 패드 설계로 충전 중 알림을 힐끗 보기가 스탠드형 충전기보다 불편합니다; 폰이 올바르게 배치되어 충전 중인지 시각적 또는 청각적 확인이 없습니다.",
+        "여행 우선, iPhone + AirPods, 소형 발자국, 적당한 속도 허용: ESR HaloLock 2-in-1 Travel Wireless Charger. 이 비교에서 최고의 가치 대비 휴대성 비율입니다. 폴더블 설계는 12mm 두께로 신용카드 발자국으로 접히며, MagSafe 호환 자석이 iPhone을 안정적으로 정렬에 맞추며, 하단 패드의 AirPods Qi 패드는 대부분의 AirPods 케이스에 올바른 위치에 있습니다. iPhone 최대 충전 속도 7.5W — ESR HaloLock이 전체 Qi2 인증 없이 MagSafe 호환 자석을 사용하므로 전체 MagSafe 15W가 아닙니다; AirPods 패드는 5W Qi만입니다; 빌드 품질은 Belkin이나 Anker MagGo보다 눈에 띄게 덜 프리미엄합니다; Apple Watch 스팟이 없어 Apple Watch 사용자는 야간 여행 충전을 위한 별도 케이블이 필요합니다."
       ]
     },
     {
       "heading": "최종 평가",
       "paragraphs": [
         "15W 속도와 자기 정렬이 중요하고 호환 어댑터를 이미 소유한 순수 iPhone 책상 충전기: Apple MagSafe Charger(USB-C, 2m). 2m 케이블, iPhone 12 이상에서 보장된 15W 레이트, Apple 자체의 MagSafe 구현이 이것을 모호함 없는 기준 선택으로 만듭니다. 없다면 동시에 20W 어댑터를 구매하세요.",
-        "전체 Apple 에코시스템 책상이나 침대 협탁 충전 설정: Anker MagGo 3-in-1. 대부분의 사용자에게 Belkin BoostCharge Pro보다 더 나은 가성비 — 15W iPhone 스팟은 동일하고, Apple Watch 고속 충전이 있으며, Belkin과의 ¥3,000~5,000 가격 차이가 일상 사용에서 실질적인 차이로 나타나는 경우가 드뭅니다. 30W 어댑터 예산을 잡으세요.",
+        "전체 Apple 에코시스템 책상이나 침대 협탁 충전 설정: Anker MagGo 3-in-1. 대부분의 사용자에게 Belkin BoostCharge Pro보다 더 나은 가성비 — 15W iPhone 스팟은 동일하고, Apple Watch 고속 충전이 있으며, Belkin과의 가격 차이가 일상 사용에서 실질적인 차이로 나타나는 경우가 드뭅니다. 30W 어댑터 예산을 잡으세요.",
         "Belkin의 빌드 품질과 프리미엄 Apple Watch 암 통합이 가격을 정당화하는 프리미엄 책상 설정: Belkin BoostCharge Pro 3-in-1. Anker의 빌드 품질이 불만족스럽고 BoostCharge Pro의 더 타이트한 설계가 책상에 더 잘 맞는다면 가격만큼의 가치가 있습니다. 여행용으로는 구매하지 마세요.",
         "Android, 예산, 또는 MagSafe 없는 iPhone: Anker 313 Wireless Charger. 이 비교에서 이것보다 더 저렴한 신뢰할 수 있는 무선 충전 옵션이 없으며, 10W Qi 출력이 대부분의 Android 중간 사양 고속 무선 시나리오를 커버합니다.",
         "여행용: ESR HaloLock 2-in-1. Apple Watch 스팟 없이 가장 작은 포장 발자국과 MagSafe 호환 정렬을 위해 7.5W 한계를 받아들이세요. 어차피 항상 여행 중에 시계를 별도로 충전한다면 HaloLock이 올바른 절충안입니다. 야간 여행 키트에 Apple Watch 충전이 포함되어야 한다면, Anker MagGo의 폴더블 설계가 다음 최선 옵션이지만, 더 무겁고 자체 30W 어댑터가 필요하다는 것을 이해하세요.",
@@ -88,7 +88,7 @@
     },
     {
       "q": "이 충전기들 중 어댑터가 포함된 것이 있나요, 아니면 별도 구매해야 하나요?",
-      "a": "Apple MagSafe Charger(USB-C): 어댑터 포함 없음, USB-C 케이블만. 15W 충전을 위해 20W 이상 USB-C PD 어댑터가 필요합니다(Apple 자체 20W 어댑터 약 ¥2,780). Anker MagGo 3-in-1: 표준 포장에 어댑터 포함 없음; 정격 속도로 세 기기를 동시에 고속 충전하려면 30W USB-C PD 어댑터가 필요합니다. Belkin BoostCharge Pro 3-in-1: 대부분의 지역 패키지에 벽면 어댑터가 포함되지만, 라쿠텐에서 판매되는 특정 SKU를 확인하세요 — 일부 수입 버전은 포함 없이 출하됩니다. Anker 313 Wireless Charger: USB-A to Micro-USB 케이블 포함; 표준 USB-A 어댑터(대부분의 가정에 있음) 또는 USB-A 포트 필요. ESR HaloLock 2-in-1: USB-C 케이블 포함; USB-C 어댑터 필요(최소 5W, 하지만 7.5W가 최대 출력 레이트이므로 모든 USB-C 어댑터 작동). 총 비용 계산 시 어댑터 예산을 잡으세요."
+      "a": "Apple MagSafe Charger(USB-C): 어댑터 포함 없음, USB-C 케이블만. 15W 충전을 위해 20W 이상 USB-C PD 어댑터가 필요합니다(Apple 자체 20W 어댑터는 별도 판매). Anker MagGo 3-in-1: 표준 포장에 어댑터 포함 없음; 정격 속도로 세 기기를 동시에 고속 충전하려면 30W USB-C PD 어댑터가 필요합니다. Belkin BoostCharge Pro 3-in-1: 대부분의 지역 패키지에 벽면 어댑터가 포함되지만, 라쿠텐에서 판매되는 특정 SKU를 확인하세요 — 일부 수입 버전은 포함 없이 출하됩니다. Anker 313 Wireless Charger: USB-A to Micro-USB 케이블 포함; 표준 USB-A 어댑터(대부분의 가정에 있음) 또는 USB-A 포트 필요. ESR HaloLock 2-in-1: USB-C 케이블 포함; USB-C 어댑터 필요(최소 5W, 하지만 7.5W가 최대 출력 레이트이므로 모든 USB-C 어댑터 작동). 총 비용 계산 시 어댑터 예산을 잡으세요."
     },
     {
       "q": "공항이나 일본 이외의 나라에서 이 충전기를 사용할 수 있나요?",
@@ -104,63 +104,63 @@
     }
   ],
   "offerNotes": {
-    "apple-magsafe-charger-usb-c": "USB-C 커넥터와 2m 케이블이 있는 Apple 공식 MagSafe Charger — MagSafe의 기준 구현, 20W 이상 USB-C PD 어댑터로 iPhone 12 이상에서 15W, 안정적인 코일 결합을 위한 자기 정렬 링, MFi 인증. 라쿠텐 이치바와 Apple Japan 직접 구매 가능. 케이블만 포함, 어댑터 없음 — 마케팅된 15W 레이트에 도달하려면 별도 구매한 20W 이상 USB-C PD 어댑터가 필요합니다(Apple 자체 20W 어댑터는 약 ¥2,780); 기기 하나만 충전; MagSafe가 아닌 기기나 iPhone이 아닌 기기에는 7.5W Qi만 전달; 약 ¥4,980으로 동일한 15W iPhone 속도를 제공하는 서드파티 Qi2 대안보다 와트당 더 비쌉니다.",
-    "anker-maggo-3in1-station": "폴더블 설계의 Anker MagSafe 인증 3-in-1 충전 스테이션 — 동시 15W MagSafe iPhone 충전, MFi 인증 Apple Watch 고속 충전, 5W AirPods Qi 패드, 책상이나 여행 폼 팩터로 접힘. 라쿠텐 이치바에서 구매 가능. 정격 속도로 세 기기 동시 충전을 위해 필요한 30W USB-C PD 어댑터는 표준 포장에 포함되지 않아 실질 구매 가격에 ¥2,000~4,000이 추가됩니다; Apple이 아닌 에코시스템 기기는 자기 정렬 없이 기본 Qi 속도로 충전됩니다; 접힌 크기가 여행에는 ESR HaloLock보다 여전히 크고 무겁습니다; Apple Watch 충전기 암은 고정 각도로 모든 시계 착용 선호도에 맞는 Nightstand 모드를 지원하지 않을 수 있습니다.",
-    "belkin-boostcharge-pro-3in1": "Belkin MFi MagSafe 3-in-1 충전 스테이션 — 15W MagSafe iPhone, MFi Apple Watch 고속 충전 암(Series 7 이상에서 5W), 5W AirPods Qi 패드, 프리미엄 패브릭 랩과 알루미늄 빌드. 라쿠텐 이치바에서 구매 가능. 약 ¥15,000으로 이 비교에서 상당히 가장 비싼 충전기입니다; Apple Watch 충전기 암이 Anker MagGo의 접이식 암과 비교하여 포장을 더 불편하게 만드는 고정 각도로 위로 돌출됩니다; 추가 기기를 동시에 충전하기 위한 USB-C 패스 스루 포트 없음; Anker MagGo 3-in-1 대비 가격 프리미엄은 주로 빌드 품질과 산업 디자인에 있습니다 — 충전 속도와 MFi 인증은 본질적으로 동일하므로 ¥3,000~5,000 차이는 프리미엄 느낌이 얼마나 중요한지에 따라 달라집니다.",
+    "apple-magsafe-charger-usb-c": "USB-C 커넥터와 2m 케이블이 있는 Apple 공식 MagSafe Charger — MagSafe의 기준 구현, 20W 이상 USB-C PD 어댑터로 iPhone 12 이상에서 15W, 안정적인 코일 결합을 위한 자기 정렬 링, MFi 인증. 라쿠텐 이치바와 Apple Japan 직접 구매 가능. 케이블만 포함, 어댑터 없음 — 마케팅된 15W 레이트에 도달하려면 별도 구매한 20W 이상 USB-C PD 어댑터가 필요합니다(Apple 자체 20W 어댑터는 별도 판매); 기기 하나만 충전; MagSafe가 아닌 기기나 iPhone이 아닌 기기에는 7.5W Qi만 전달; 동일한 15W iPhone 속도를 제공하는 서드파티 Qi2 대안보다 와트당 더 비쌉니다.",
+    "anker-maggo-3in1-station": "폴더블 설계의 Anker MagSafe 인증 3-in-1 충전 스테이션 — 동시 15W MagSafe iPhone 충전, MFi 인증 Apple Watch 고속 충전, 5W AirPods Qi 패드, 책상이나 여행 폼 팩터로 접힘. 라쿠텐 이치바에서 구매 가능. 정격 속도로 세 기기 동시 충전을 위해 필요한 30W USB-C PD 어댑터는 표준 포장에 포함되지 않아 실질 구매 가격이 올라갑니다; Apple이 아닌 에코시스템 기기는 자기 정렬 없이 기본 Qi 속도로 충전됩니다; 접힌 크기가 여행에는 ESR HaloLock보다 여전히 크고 무겁습니다; Apple Watch 충전기 암은 고정 각도로 모든 시계 착용 선호도에 맞는 Nightstand 모드를 지원하지 않을 수 있습니다.",
+    "belkin-boostcharge-pro-3in1": "Belkin MFi MagSafe 3-in-1 충전 스테이션 — 15W MagSafe iPhone, MFi Apple Watch 고속 충전 암(Series 7 이상에서 5W), 5W AirPods Qi 패드, 프리미엄 패브릭 랩과 알루미늄 빌드. 라쿠텐 이치바에서 구매 가능. 이 비교에서 상당히 가장 비싼 충전기입니다; Apple Watch 충전기 암이 Anker MagGo의 접이식 암과 비교하여 포장을 더 불편하게 만드는 고정 각도로 위로 돌출됩니다; 추가 기기를 동시에 충전하기 위한 USB-C 패스 스루 포트 없음; Anker MagGo 3-in-1 대비 가격 프리미엄은 주로 빌드 품질과 산업 디자인에 있습니다 — 충전 속도와 MFi 인증은 본질적으로 동일하므로 가격 차이는 프리미엄 느낌이 얼마나 중요한지에 따라 달라집니다.",
     "anker-313-wireless-charger": "Anker의 예산 Qi 무선 충전 패드 — 호환 Android에서 10W, iPhone에서 7.5W, 5W 범용 Qi, USB-A 케이블 포함 평평한 패드, 미니멀리스트 블랙 고무 표면, LED 충전 표시등. 라쿠텐 이치바에서 구매 가능. 자기 정렬 없이 Qi만 — 안정적인 충전을 위해 코일 결합 영역(일반적으로 지름 30~40mm 스윗 스팟) 내에 폰을 신중하게 배치해야 하며, 알림을 확인하기 위해 폰을 약간 움직이면 청각적 알림 없이 연결이 끊길 수 있습니다; MagSafe 없음, Qi2 없음; iPhone에 7.5W는 이 비교에서 가장 느린 iPhone 무선 충전 속도입니다; 스탠드형 충전기보다 충전 중 폰을 힐끗 보기 불편한 각도 없는 평평한 패드 설계; Apple Watch 충전 기능 없음.",
-    "esr-halolock-2in1-travel": "ESR의 폴더블 MagSafe 호환 2-in-1 여행용 무선 충전기 — iPhone 정렬 스냅을 위한 MagSafe 자석 링, 보조 5W Qi AirPods 패드, 신용카드 발자국으로 약 12mm에 평평하게 접힘, USB-C 입력, 약 ¥4,000. 라쿠텐 이치바에서 구매 가능. iPhone 최대 충전 속도 7.5W, 전체 MagSafe 15W 아님 — ESR HaloLock은 전체 Qi2 인증 없이 MagSafe 호환 자석을 사용하므로 MagSafe처럼 정렬되지만 7.5W로 충전됩니다; AirPods 패드는 AirPods용 MagSafe 정렬 없이 5W Qi만입니다; Apple Watch 충전 스팟 없어 여행 중 별도 Apple Watch 케이블 필요; 빌드 마감이 Belkin이나 Anker MagGo보다 눈에 띄게 덜 프리미엄합니다; ¥4,000 가격은 경쟁력 있지만 2026년에 전체 15W 레이트를 제공하는 유사한 가격의 서드파티 Qi2 인증 옵션이 등장하기 시작했습니다."
+    "esr-halolock-2in1-travel": "ESR의 폴더블 MagSafe 호환 2-in-1 여행용 무선 충전기 — iPhone 정렬 스냅을 위한 MagSafe 자석 링, 보조 5W Qi AirPods 패드, 신용카드 발자국으로 약 12mm에 평평하게 접힘, USB-C 입력, 저가 가격대. 라쿠텐 이치바에서 구매 가능. iPhone 최대 충전 속도 7.5W, 전체 MagSafe 15W 아님 — ESR HaloLock은 전체 Qi2 인증 없이 MagSafe 호환 자석을 사용하므로 MagSafe처럼 정렬되지만 7.5W로 충전됩니다; AirPods 패드는 AirPods용 MagSafe 정렬 없이 5W Qi만입니다; Apple Watch 충전 스팟 없어 여행 중 별도 Apple Watch 케이블 필요; 빌드 마감이 Belkin이나 Anker MagGo보다 눈에 띄게 덜 프리미엄합니다; 가격은 경쟁력 있지만 2026년에 전체 15W 레이트를 제공하는 유사한 가격의 서드파티 Qi2 인증 옵션이 등장하기 시작했습니다."
   },
-  "pinDescription": "2026년 5가지 무선 충전기 비교 — Apple MagSafe vs Qi2 vs 예산 Qi, 솔직하게. MagSafe 15W로 iPhone 15는 2시간. 멀티 기기 스테이션은 미포함 30W 어댑터 필요. 발열과 배터리 건강 팁. ¥4,000 미만 여행 추천. #한국어",
+  "pinDescription": "2026년 5가지 무선 충전기 비교 — Apple MagSafe vs Qi2 vs 예산 Qi, 솔직하게. MagSafe 15W로 iPhone 15는 2시간. 멀티 기기 스테이션은 미포함 30W 어댑터 필요. 발열과 배터리 건강 팁. 저가 여행 추천. #한국어",
   "methodology": "각 충전기를 실제 충전 속도(어댑터 포함 여부 및 열 스로틀링 고려), 생태계 호환성, 장시간 사용 시 발열, 여행 휴대성, 필요한 어댑터를 포함한 총소유비용으로 평가했습니다.",
   "products": [
     {
       "offerId": "apple-magsafe-charger-usb-c",
       "badge": "종합 최고",
-      "review": "Apple의 MagSafe 충전기는 레퍼런스 구현입니다: iPhone 12 이상에서 보장되는 15W, 정밀한 자기 정렬, 대부분의 데스크 설정에 유용한 2m 케이블. 단점은 광고된 15W 속도를 내려면 별도로 구매해야 하는 20W 이상 USB-C PD 어댑터(~2,780엔)가 필요하다는 것입니다.",
+      "review": "Apple의 MagSafe 충전기는 레퍼런스 구현입니다: iPhone 12 이상에서 보장되는 15W, 정밀한 자기 정렬, 대부분의 데스크 설정에 유용한 2m 케이블. 단점은 광고된 15W 속도를 내려면 별도로 구매해야 하는 20W 이상 USB-C PD 어댑터가 필요하다는 것입니다.",
       "pros": ["20W 이상 어댑터로 iPhone 12 이상에서 보장되는 15W", "데스크 케이블 라우팅에 실질적으로 유용한 2m 케이블 길이", "가장 정밀한 MagSafe 자기 정렬"],
-      "cons": ["어댑터 미포함 — 15W에는 20W 이상 PD 어댑터 필요 (~2,780엔 추가)"],
+      "cons": ["어댑터 미포함 — 15W에는 20W 이상 PD 어댑터 필요 (추가 비용)"],
       "grade": "A+",
-      "specs": {"최대 출력": "15W (MagSafe, iPhone 12+)", "케이블 길이": "2m", "커넥터": "USB-C", "어댑터 포함": "없음", "MFi 인증": "있음", "가격": "~4,980엔"},
+      "specs": {"최대 출력": "15W (MagSafe, iPhone 12+)", "케이블 길이": "2m", "커넥터": "USB-C", "어댑터 포함": "없음", "MFi 인증": "있음", "가격": "프리미엄"},
       "scores": {"충전 속도": 4.8, "호환성": 3.8, "빌드 품질": 4.7, "가성비": 3.5, "발열 관리": 4.2}
     },
     {
       "offerId": "anker-maggo-3in1-station",
       "badge": "최고 데스크 스테이션",
-      "review": "Anker MagGo는 하나의 케이블로 iPhone(15W MagSafe), Apple Watch(MFi 고속 충전), AirPods(5W Qi)를 동시에 충전합니다 — 폴더블 디자인이 책상을 깔끔하게 유지합니다. 세 장치 모두를 최대 속도로 동시에 충전하는 데 필요한 30W USB-C 어댑터가 포함되지 않아 실제 비용에 2,000~4,000엔이 추가됩니다.",
+      "review": "Anker MagGo는 하나의 케이블로 iPhone(15W MagSafe), Apple Watch(MFi 고속 충전), AirPods(5W Qi)를 동시에 충전합니다 — 폴더블 디자인이 책상을 깔끔하게 유지합니다. 세 장치 모두를 최대 속도로 동시에 충전하는 데 필요한 30W USB-C 어댑터가 포함되지 않아 실제 비용이 올라갑니다.",
       "pros": ["iPhone + Apple Watch + AirPods 동시 충전", "MagSafe 인증 15W iPhone 충전 스팟", "데스크 또는 여행용 폴더블 디자인"],
-      "cons": ["30W 어댑터 미포함 — 실제 가격에 2,000~4,000엔 추가"],
+      "cons": ["30W 어댑터 미포함 — 실제 가격 상승"],
       "grade": "A",
-      "specs": {"iPhone 출력": "15W MagSafe", "Apple Watch": "MFi 고속 충전 5W", "AirPods": "5W Qi", "필요 어댑터": "30W USB-C PD (미포함)", "폴더블": "있음", "가격": "~8,000~12,000엔"},
+      "specs": {"iPhone 출력": "15W MagSafe", "Apple Watch": "MFi 고속 충전 5W", "AirPods": "5W Qi", "필요 어댑터": "30W USB-C PD (미포함)", "폴더블": "있음", "가격": "중간 가격대"},
       "scores": {"충전 속도": 4.6, "호환성": 4.2, "빌드 품질": 4.3, "가성비": 3.9, "발열 관리": 4.0}
     },
     {
       "offerId": "belkin-boostcharge-pro-3in1",
       "badge": "최고 프리미엄 빌드",
-      "review": "Belkin의 BoostCharge Pro는 MagSafe 속도와 Apple Watch 고속 충전에서 MagGo와 동등하지만 패브릭과 알루미늄 구조로 눈에 띄게 더 프리미엄한 느낌을 줍니다. ~15,000엔으로 이 비교에서 가장 비싼 충전기입니다 — Anker MagGo 대비 가격 차이는 빌드 품질이지 충전 성능이 아닙니다.",
+      "review": "Belkin의 BoostCharge Pro는 MagSafe 속도와 Apple Watch 고속 충전에서 MagGo와 동등하지만 패브릭과 알루미늄 구조로 눈에 띄게 더 프리미엄한 느낌을 줍니다. 이 비교에서 가장 비싼 충전기입니다 — Anker MagGo 대비 가격 차이는 빌드 품질이지 충전 성능이 아닙니다.",
       "pros": ["프리미엄 패브릭-알루미늄 빌드 품질", "MFi MagSafe + Apple Watch 고속 충전 (Series 7+)", "최고로 통합된 Apple Watch 암 위치"],
-      "cons": ["가장 비싼 옵션 (~15,000엔); Apple Watch 암이 여행 패킹을 불편하게 만듦"],
+      "cons": ["가장 비싼 옵션; Apple Watch 암이 여행 패킹을 불편하게 만듦"],
       "grade": "B+",
-      "specs": {"iPhone 출력": "15W MagSafe", "Apple Watch": "MFi 고속 충전 5W (Series 7+)", "AirPods": "5W Qi", "빌드": "패브릭 + 알루미늄", "여행 적합": "없음 (돌출된 암)", "가격": "~15,000엔"},
+      "specs": {"iPhone 출력": "15W MagSafe", "Apple Watch": "MFi 고속 충전 5W (Series 7+)", "AirPods": "5W Qi", "빌드": "패브릭 + 알루미늄", "여행 적합": "없음 (돌출된 암)", "가격": "플래그십"},
       "scores": {"충전 속도": 4.6, "호환성": 4.2, "빌드 품질": 5.0, "가성비": 3.2, "발열 관리": 4.1}
     },
     {
       "offerId": "anker-313-wireless-charger",
       "badge": "최고 저가 Qi",
-      "review": "Anker 313은 2,000엔 미만으로 Android(10W)와 iPhone(7.5W)을 커버하는 기본 Qi 패드입니다. 자기 정렬 없음 — 코일 위에 정확하게 폰을 올려야 합니다 — 7.5W는 이 비교에서 iPhone 충전 속도가 가장 느립니다. MagSafe가 적용되지 않는 Android 사용자나 iPhone 12 이전 기기 소유자에게 올바른 예산 선택입니다.",
-      "pros": ["2,000엔 미만 — 이 비교에서 가장 저렴한 무선 옵션", "호환 Android 기기에 10W Qi", "USB-A 케이블 포함 (이 가격대에서 드묾)"],
+      "review": "Anker 313은 저렴한 가격으로 Android(10W)와 iPhone(7.5W)을 커버하는 기본 Qi 패드입니다. 자기 정렬 없음 — 코일 위에 정확하게 폰을 올려야 합니다 — 7.5W는 이 비교에서 iPhone 충전 속도가 가장 느립니다. MagSafe가 적용되지 않는 Android 사용자나 iPhone 12 이전 기기 소유자에게 올바른 예산 선택입니다.",
+      "pros": ["이 비교에서 가장 저렴한 무선 옵션", "호환 Android 기기에 10W Qi", "USB-A 케이블 포함 (이 가격대에서 드묾)"],
       "cons": ["자기 정렬 없음 — 정밀한 배치 필요; iPhone 7.5W는 비교에서 가장 느림"],
       "grade": "B",
-      "specs": {"최대 출력": "10W Qi (Android)", "iPhone 출력": "7.5W Qi", "정렬": "없음 (수동 배치)", "케이블": "USB-A 포함", "Apple Watch": "없음", "가격": "<2,000엔"},
+      "specs": {"최대 출력": "10W Qi (Android)", "iPhone 출력": "7.5W Qi", "정렬": "없음 (수동 배치)", "케이블": "USB-A 포함", "Apple Watch": "없음", "가격": "저가"},
       "scores": {"충전 속도": 3.2, "호환성": 4.5, "빌드 품질": 3.5, "가성비": 4.9, "발열 관리": 4.4}
     },
     {
       "offerId": "esr-halolock-2in1-travel",
       "badge": "여행 최고",
-      "review": "ESR HaloLock은 iPhone 정렬을 위한 MagSafe 호환 자석과 AirPods용 보조 5W Qi 패드를 갖추고 신용카드 크기(~12mm 두께)로 접힙니다. ~4,000엔으로 이 비교에서 최고의 가치 대비 휴대성 트레이드오프입니다. iPhone 7.5W 상한(Qi2 인증 없는 MagSafe 호환 자석)이 여행 사용 시 유일한 실제 한계입니다.",
+      "review": "ESR HaloLock은 iPhone 정렬을 위한 MagSafe 호환 자석과 AirPods용 보조 5W Qi 패드를 갖추고 신용카드 크기(~12mm 두께)로 접힙니다. 이 비교에서 최고의 가치 대비 휴대성 트레이드오프입니다. iPhone 7.5W 상한(Qi2 인증 없는 MagSafe 호환 자석)이 여행 사용 시 유일한 실제 한계입니다.",
       "pros": ["신용카드 크기로 접힘 — 이 비교에서 가장 가벼운 여행 옵션", "iPhone을 위한 MagSafe 호환 자기 정렬", "같은 접이식에 AirPods Qi 패드"],
       "cons": ["iPhone 최대 7.5W (Qi2 없음; 전체 MagSafe 15W 아님); Apple Watch 스팟 없음"],
       "grade": "B-",
-      "specs": {"iPhone 출력": "7.5W (MagSafe 호환)", "AirPods": "5W Qi", "접힌 두께": "~12mm", "커넥터": "USB-C", "Apple Watch": "없음", "가격": "~4,000엔"},
+      "specs": {"iPhone 출력": "7.5W (MagSafe 호환)", "AirPods": "5W Qi", "접힌 두께": "~12mm", "커넥터": "USB-C", "Apple Watch": "없음", "가격": "저가"},
       "scores": {"충전 속도": 3.5, "호환성": 3.8, "빌드 품질": 3.6, "가성비": 4.5, "발열 관리": 4.3}
     }
   ],
