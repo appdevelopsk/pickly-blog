@@ -168,4 +168,8 @@ async function main() {
   }
 }
 
-main().catch(console.error);
+main().catch((err) => {
+  // CIで握りつぶさず必ず非ゼロ終了させる（invalid_grant等のサイレント失敗を防ぐ）
+  console.error(err);
+  process.exit(1);
+});
