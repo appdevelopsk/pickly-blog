@@ -39,6 +39,7 @@ const has = (n: string) => args.includes(`--${n}`);
 const LOCALES = (flag("locales") ?? "en").split(",").map((s) => s.trim());
 const CATEGORY = flag("category");
 const ONLY_SLUG = flag("slug");
+const SLUGS = flag("slugs")?.split(",").map((s) => s.trim()).filter(Boolean); // comma-separated slug list
 const LIMIT = flag("limit") ? parseInt(flag("limit")!, 10) : Infinity;
 const FORCE = has("force");
 const ALL = has("all"); // bypass hasApprovedAds — use when generating for brand-new articles
@@ -124,6 +125,7 @@ function svg(title: string, category: string): string {
 // ---- 対象決定 -----------------------------------------------------
 let live = listArticles().filter((a) => ALL || a.locales.some((l) => hasApprovedAds(a, l)));
 if (ONLY_SLUG) live = live.filter((a) => a.slug === ONLY_SLUG);
+if (SLUGS) live = live.filter((a) => SLUGS.includes(a.slug));
 if (CATEGORY) live = live.filter((a) => a.category === CATEGORY);
 live = live.slice(0, LIMIT === Infinity ? live.length : LIMIT);
 
