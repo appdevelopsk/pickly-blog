@@ -1,5 +1,3 @@
-import fs from "node:fs";
-import path from "node:path";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
@@ -7,6 +5,7 @@ import { listArticlesForLocale } from "@/lib/articles/registry";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
+import { OG_BASE_URL, ogImageUrl } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
@@ -54,15 +53,10 @@ function isNew(article: ArticleMeta): boolean {
   return new Date(article.publishedAt) >= cutoff;
 }
 
-const OG_DIR = path.join(process.cwd(), "public/og");
-
-function ogPath(slug: string, locale: string): string | null {
-  if (fs.existsSync(path.join(OG_DIR, `${slug}-${locale}.png`))) return `/og/${slug}-${locale}.png`;
-  if (fs.existsSync(path.join(OG_DIR, `${slug}-en.png`))) return `/og/${slug}-en.png`;
-  return null;
-}
-
-/** Returns best available thumbnail: product imageUrl → explicit OG → auto OG */
+/** Returns best available thumbnail: product imageUrl → explicit OG → auto OG.
+ *  OG images are served from R2 (OG_BASE_URL/img.pickly.blog), not the Pages
+ *  origin — public/og is removed before the CI build, so absolute R2 URLs are
+ *  the only ones that resolve. */
 function getThumbnail(article: ArticleMeta, locale: string): string | null {
   for (const offerId of article.offerIds) {
     const offer = CATALOG.find((o) => o.id === offerId);
@@ -71,9 +65,9 @@ function getThumbnail(article: ArticleMeta, locale: string): string | null {
     if (img) return img;
   }
   if (article.ogImage && article.ogImage !== "auto") {
-    return `${article.ogImage}-${locale}.png`;
+    return `${OG_BASE_URL}${article.ogImage}-${locale}.png`;
   }
-  return ogPath(article.slug, locale);
+  return ogImageUrl(article.slug, locale);
 }
 
 function ArticleCard({

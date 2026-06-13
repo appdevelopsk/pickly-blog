@@ -11,6 +11,7 @@ import { AffiliateClickTracker } from "@/components/AffiliateClickTracker";
 import { ScrollProgress } from "@/components/ScrollProgress";
 import { BackToTop } from "@/components/BackToTop";
 import { loadArticleContent, isArticleBodyTranslated } from "@/lib/i18n/loader";
+import { OG_BASE_URL } from "@/lib/og";
 import type { ArticleContent } from "@/lib/articles/types";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
@@ -154,8 +155,8 @@ export default async function ArticlePage({ params }: Props) {
   const canonicalUrl = `${SITE_URL}/${locale}/articles/${slug}/`;
   const ogImageUrl = meta.ogImage
     ? meta.ogImage === "auto"
-      ? `${SITE_URL}/og/${slug}-${locale}.png`
-      : `${SITE_URL}${meta.ogImage}-${locale}.png`
+      ? `${OG_BASE_URL}/og/${slug}-${locale}.png`
+      : `${OG_BASE_URL}${meta.ogImage}-${locale}.png`
     : null;
 
   const AUTHOR_PERSON = {
@@ -268,8 +269,8 @@ export async function generateMetadata({ params }: Props) {
   const canonicalUrl = `${SITE_URL}/${locale}/articles/${slug}/`;
   const ogImageUrl = meta.ogImage
     ? meta.ogImage === "auto"
-      ? `${SITE_URL}/og/${slug}-${locale}.png`
-      : `${SITE_URL}${meta.ogImage}-${locale}.png`
+      ? `${OG_BASE_URL}/og/${slug}-${locale}.png`
+      : `${OG_BASE_URL}${meta.ogImage}-${locale}.png`
     : null;
 
   return {
