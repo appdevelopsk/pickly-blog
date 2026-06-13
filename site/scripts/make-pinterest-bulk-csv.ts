@@ -20,7 +20,10 @@ const SITE = path.resolve(__dirname, "..");
 const ARTICLES_DIR = path.join(SITE, "src/articles");
 const OUT_DIR = path.resolve(SITE, "../manual-pins");
 const SITE_URL = "https://pickly.blog";
-const PIN_BASE = `${SITE_URL}/pins`;
+// Pin image = the article's 1000x1500 OG image already hosted on R2
+// (img.pickly.blog/og/<slug>-<locale>.png). Reusing it costs zero Pages file
+// budget vs. duplicating images under /pins.
+const OG_BASE = process.env.NEXT_PUBLIC_OG_BASE_URL || "https://img.pickly.blog";
 
 const args = process.argv.slice(2);
 const flag = (n: string) => { const i = args.indexOf(`--${n}`); return i >= 0 ? args[i + 1] : undefined; };
@@ -70,7 +73,7 @@ for (const locale of LOCALES) {
     const desc = (c.pinDescription ?? c.description ?? en?.pinDescription ?? en?.description ?? "").slice(0, 500);
     rows.push([
       title,
-      `${PIN_BASE}/${slug}-${locale}-pin.png`,
+      `${OG_BASE}/og/${slug}-${locale}.png`,
       BOARD[cat] ?? cat,
       "",                                   // Thumbnail (video only)
       desc,
@@ -93,4 +96,4 @@ for (const locale of LOCALES) {
   totalRows += rows.length;
 }
 console.log(`\n合計 ${totalRows} ピン  (${SLUGS.length}記事 × ${LOCALES.length}locale)`);
-console.log(`画像URL例: ${PIN_BASE}/${SLUGS[0]}-${LOCALES[0]}-pin.png`);
+console.log(`画像URL例: ${OG_BASE}/og/${SLUGS[0]}-${LOCALES[0]}.png`);
