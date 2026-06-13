@@ -6,6 +6,7 @@ import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
+import { OG_BASE_URL } from "@/lib/og";
 import { SearchUI, type SearchItem } from "@/components/SearchUI";
 import type { ArticleMeta } from "@/lib/articles/types";
 
@@ -27,7 +28,7 @@ function buildSearchItem(a: ArticleMeta, locale: string, catLabel: string): Sear
     if (img) { imgSrc = img; isProductImg = true; break; }
   }
   if (!imgSrc && a.ogImage && a.ogImage !== "auto") {
-    imgSrc = `${a.ogImage}-${locale}.png`;
+    imgSrc = `${OG_BASE_URL}${a.ogImage}-${locale}.png`;
   }
 
   const firstOffer = a.offerIds

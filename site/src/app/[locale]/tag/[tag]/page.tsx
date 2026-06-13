@@ -7,6 +7,7 @@ import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
+import { OG_BASE_URL } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
 import { TAGS, TAG_MAP } from "@/lib/pages/tag-config";
@@ -19,7 +20,7 @@ const TYPE_LABELS: Record<string,string> = { comparison:"Comparison",review:"Rev
 
 function getThumbnail(a: ArticleMeta, locale: string): string | null {
   for (const id of a.offerIds) { const o = CATALOG.find((x) => x.id === id); if (!o) continue; const img = getOfferImageUrl(o); if (img) return img; }
-  if (a.ogImage && a.ogImage !== "auto") return `${a.ogImage}-${locale}.png`;
+  if (a.ogImage && a.ogImage !== "auto") return `${OG_BASE_URL}${a.ogImage}-${locale}.png`;
   return null;
 }
 function firstOffer(a: ArticleMeta): AffiliateOffer | null {
