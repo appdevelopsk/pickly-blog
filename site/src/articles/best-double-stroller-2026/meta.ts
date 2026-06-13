@@ -8,6 +8,6 @@ export const meta: ArticleMeta = {
   offerIds: ["uppababy-vista-v3", "baby-jogger-city-mini-gt2-double", "joovy-caboose-too", "graco-ready2grow-lx", "zoe-xl2-best"],
   publishedAt: "2026-06-13",
   updatedAt: "2026-06-13",
-  locales: [...ALL_LOCALES],
+  locales: ["en", "ja", "de", "fr", "es"],
   ogImage: "auto",
 };

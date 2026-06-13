@@ -8,6 +8,6 @@ export const meta: ArticleMeta = {
   offerIds: ["graco-4ever-dlx", "britax-boulevard-clicktight", "chicco-nextfit-zip", "evenflo-gold-revolve360", "cosco-scenera-next"],
   publishedAt: "2026-06-13",
   updatedAt: "2026-06-13",
-  locales: [...ALL_LOCALES],
+  locales: ["en", "ja", "de", "fr", "es"],
   ogImage: "auto",
 };

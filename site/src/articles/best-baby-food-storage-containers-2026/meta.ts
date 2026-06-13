@@ -8,6 +8,6 @@ export const meta: ArticleMeta = {
   offerIds: ["oxo-tot-glass-baby-blocks", "bbox-freezer-tray", "wean-green-glass-cubes", "mumi-bubi-silicone-pods", "kiddo-feeder-silicone-tray"],
   publishedAt: "2026-06-13",
   updatedAt: "2026-06-13",
-  locales: [...ALL_LOCALES],
+  locales: ["en", "ja", "de", "fr", "es"],
   ogImage: "auto",
 };

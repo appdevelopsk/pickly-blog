@@ -8,6 +8,6 @@ export const meta: ArticleMeta = {
   offerIds: ["nuby-icybite-hard-soft-teether", "sophie-giraffe-teether", "manhattan-toy-winkel", "bam-bam-natural-rubber", "munchkin-twisty-figure8"],
   publishedAt: "2026-06-13",
   updatedAt: "2026-06-13",
-  locales: [...ALL_LOCALES],
+  locales: ["en", "ja", "de", "fr", "es"],
   ogImage: "auto",
 };

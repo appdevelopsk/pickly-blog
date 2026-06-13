@@ -8,6 +8,6 @@ export const meta: ArticleMeta = {
   offerIds: ["bob-revolution-flex-30", "thule-urban-glide-3", "schwinn-interval-jogging", "baby-trend-expedition-jogger", "contours-ridge-jogging"],
   publishedAt: "2026-06-13",
   updatedAt: "2026-06-13",
-  locales: [...ALL_LOCALES],
+  locales: ["en", "ja", "de", "fr", "es"],
   ogImage: "auto",
 };

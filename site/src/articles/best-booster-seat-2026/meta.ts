@@ -8,6 +8,6 @@ export const meta: ArticleMeta = {
   offerIds: ["graco-tranzitions-3in1", "britax-highpoint-belt", "cybex-solution-s2", "chicco-myfit-zip", "bubblebum-inflatable"],
   publishedAt: "2026-06-13",
   updatedAt: "2026-06-13",
-  locales: [...ALL_LOCALES],
+  locales: ["en", "ja", "de", "fr", "es"],
   ogImage: "auto",
 };

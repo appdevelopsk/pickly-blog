@@ -8,6 +8,6 @@ export const meta: ArticleMeta = {
   offerIds: ["pottery-barn-performance-glider", "babyletto-kiwi-glider", "dutailier-ultramotion-glider", "homcom-nursery-rocker-glider", "dorel-living-nursery-glider"],
   publishedAt: "2026-06-13",
   updatedAt: "2026-06-13",
-  locales: [...ALL_LOCALES],
+  locales: ["en", "ja", "de", "fr", "es"],
   ogImage: "auto",
 };

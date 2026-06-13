@@ -8,6 +8,6 @@ export const meta: ArticleMeta = {
   offerIds: ["micro-mini-deluxe-classic", "radio-flyer-lean-n-glide", "globber-primo-foldable", "razor-a5-lux", "yvolution-y-glider-kiwi"],
   publishedAt: "2026-06-13",
   updatedAt: "2026-06-13",
-  locales: [...ALL_LOCALES],
+  locales: ["en", "ja", "de", "fr", "es"],
   ogImage: "auto",
 };

@@ -8,6 +8,6 @@ export const meta: ArticleMeta = {
   offerIds: ["hydro-flask-kids-wide-mouth", "klean-kanteen-kid-kanteen", "nalgene-kids-on-the-fly", "camelbak-eddy-kids", "thermoflask-kids-14oz"],
   publishedAt: "2026-06-13",
   updatedAt: "2026-06-13",
-  locales: [...ALL_LOCALES],
+  locales: ["en", "ja", "de", "fr", "es"],
   ogImage: "auto",
 };

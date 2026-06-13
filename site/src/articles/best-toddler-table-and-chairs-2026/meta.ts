@@ -8,6 +8,6 @@ export const meta: ArticleMeta = {
   offerIds: ["ikea-latt-table-chairs", "melissa-doug-wooden-table", "step2-lifestyle-custom-table", "tot-tutors-kids-table-set", "keter-kids-table-outdoor"],
   publishedAt: "2026-06-13",
   updatedAt: "2026-06-13",
-  locales: [...ALL_LOCALES],
+  locales: ["en", "ja", "de", "fr", "es"],
   ogImage: "auto",
 };
