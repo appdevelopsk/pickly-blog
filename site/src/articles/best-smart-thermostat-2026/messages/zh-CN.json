@@ -1,7 +1,7 @@
 {
   "title": "2026年智能温控器横评：节能效果与真实数据",
   "description": "5款智能温控器，历时3个月，覆盖2线和3线系统的实测数据。真实电费账单、安装时间、App稳定性——非厂商宣传数据。",
-  "lede": "一款温控器让测试者在一个供暖季节省了¥1,750。另一款几乎连购买价格都难以回收。差距在于学习算法——以及你是否有C线。",
+  "lede": "一款温控器让测试者在一个供暖季省下可观电费。另一款几乎连购买价格都难以回收。差距在于学习算法——以及你是否有C线。",
   "methodology": "2026年1月至3月，历时3个月，在两处住宅（130平米燃气热风系统和205平米热泵系统）完成测试。节能效果基于前年同期相同电价方案对比计算，并按供暖度日数进行修正。2线和3线配置均记录了安装时间。",
   "sections": [
     {
@@ -15,15 +15,15 @@
     {
       "heading": "快速对比",
       "paragraphs": [
-        "在深入介绍每款设备之前，先看看在最关键指标上的对比。价格为2026年5月的建议零售价；节能数据为3个月实测值年化后的平均值。",
-        "| 温控器 | 价格 | 年节能 | C线要求 | App评分 |\n|---|---|---|---|---|\n| Nest Learning | ¥2,040 | ¥1,750 | 否（电源借用） | 4.6 ★ |\n| ecobee Premium | ¥1,815 | ¥1,530 | 是 | 4.7 ★ |\n| Honeywell T9 | ¥1,375 | ¥1,165 | 是 | 4.3 ★ |\n| Amazon Smart | ¥545 | ¥655 | 是 | 4.1 ★ |\n| Emerson Sensi | ¥865 | ¥945 | 否（电池） | 4.4 ★ |",
+        "在深入介绍每款设备之前，先看看在最关键指标上的对比。价格档位为2026年5月的定位；节能水平为3个月实测值年化后的相对表现。",
+        "| 温控器 | 价格档位 | 年节能 | C线要求 | App评分 |\n|---|---|---|---|---|\n| Nest Learning | 旗舰 | 最高 | 否（电源借用） | 4.6 ★ |\n| ecobee Premium | 高端 | 较高 | 是 | 4.7 ★ |\n| Honeywell T9 | 中端 | 中等 | 是 | 4.3 ★ |\n| Amazon Smart | 入门 | 偏低 | 是 | 4.1 ★ |\n| Emerson Sensi | 中端 | 中等 | 否（电池） | 4.4 ★ |",
         "此表作为初步筛选，而非最终结论。如果没有C线且无法新布线，5款中有2款直接排除。如果Alexa是唯一的语音助手，Amazon型号就从\"性价比之选\"变成了\"唯一可用选项\"。"
       ]
     },
     {
       "heading": "Google Nest Learning Thermostat — 综合最佳",
       "paragraphs": [
-        "第4代Nest Learning Thermostat售价¥2,040，在我们的燃气系统上10个月即可回本。它通过追踪前7天的出行规律自动构建日程表——你拨动旋钮，它就学习。到第3周，它已能以94%的准确率预测我们的作息。",
+        "第4代Nest Learning Thermostat定位旗舰，在我们的燃气系统上约10个月即可回本。它通过追踪前7天的出行规律自动构建日程表——你拨动旋钮，它就学习。到第3周，它已能以94%的准确率预测我们的作息。",
         "Farsight显示屏会在你走过时自动亮起，一眼展示温度、时间或天气。这是个小功能，但改变了与设备的交互方式。C线问题处理得相当聪明：Nest的\"电源借用\"在没有C线时从冷暖线借用微弱电流。在燃气系统上运行正常。在热泵上偶尔出现风扇抖动——这是Nest从未彻底修复的已知问题。",
         "如果你已在Google生态内，Google Home集成非常顺畅。若是Alexa用户，只有基本控制，深度日程联动无法实现。"
       ]
@@ -31,26 +31,26 @@
     {
       "heading": "ecobee SmartThermostat Premium — 多房间精度最佳",
       "paragraphs": [
-        "ecobee Premium售价¥1,815，盒内附带一个SmartSensor，这个传感器是其差异化关键。大多数温控器只测量一个位置——设备所在走廊——的温度。ecobee对传感器放置位置的读数取平均值，让卧室真正达到目标温度，而不是走廊。",
-        "它还内置Alexa、空气质量监测（App内显示VOC和CO2数值），以及5款中最高的4.7星App评分（基于6.8万条评价）。测试中节能额为每年¥1,530——略低于Nest，因为我们家庭的出行规律不够规律，学习算法无法充分发挥。",
-        "缺点：需要C线，无例外。ecobee单独销售Power Extender Kit（¥138），可为旧系统添加C线，但增加了额外步骤和成本。使用PEK的初次安装耗时52分钟，而Nest只需28分钟。"
+        "ecobee Premium定位高端，盒内附带一个SmartSensor，这个传感器是其差异化关键。大多数温控器只测量一个位置——设备所在走廊——的温度。ecobee对传感器放置位置的读数取平均值，让卧室真正达到目标温度，而不是走廊。",
+        "它还内置Alexa、空气质量监测（App内显示VOC和CO2数值），以及5款中最高的4.7星App评分（基于6.8万条评价）。测试中年节能水平较高——略低于Nest，因为我们家庭的出行规律不够规律，学习算法无法充分发挥。",
+        "缺点：需要C线，无例外。ecobee单独销售Power Extender Kit，可为旧系统添加C线，但增加了额外步骤和成本。使用PEK的初次安装耗时52分钟，而Nest只需28分钟。"
       ]
     },
     {
       "heading": "Honeywell Home T9、Amazon Smart、Emerson Sensi — 中端选择",
       "paragraphs": [
-        "Honeywell T9（¥1,375）是HVAC专业人员的默认推荐。它在市场上已足够久，每位安装工都安装过数十台。房间传感器单独出售（各¥284），费用累加较快，但Android端的地理围栏是5款中最可靠的——在2分钟内检测到我们的离开和到达，而其他产品需要5-8分钟。",
-        "Amazon Smart Thermostat（¥545）是唯一需要Alexa才能运行的产品——设置完全通过Alexa App完成。如果你已是Alexa用户，这很合理。ENERGY STAR认证是真实的：年化节能额为¥655，以¥545的购买价格计算，10个月可回本。App较为基础，日程界面像是5年前的设计。",
-        "Emerson Sensi（¥865）是没有C线的老房子的隐藏之选。它使用AA电池运行，电池模式下功能无任何缩减。设置耗时18分钟——5款中最快。它不会学习你的日程，但手动日程设置界面是这里最直观的。在我们的燃气系统上，每年节能¥945，对这个价位来说相当不错。"
+        "Honeywell T9（中端定位）是HVAC专业人员的默认推荐。它在市场上已足够久，每位安装工都安装过数十台。房间传感器需单独选购，费用累加较快，但Android端的地理围栏是5款中最可靠的——在2分钟内检测到我们的离开和到达，而其他产品需要5-8分钟。",
+        "Amazon Smart Thermostat（入门定位）是唯一需要Alexa才能运行的产品——设置完全通过Alexa App完成。如果你已是Alexa用户，这很合理。ENERGY STAR认证是真实的：年化节能水平偏低但稳定，凭借入门价格约10个月即可回本。App较为基础，日程界面像是5年前的设计。",
+        "Emerson Sensi（中端定位）是没有C线的老房子的隐藏之选。它使用AA电池运行，电池模式下功能无任何缩减。设置耗时18分钟——5款中最快。它不会学习你的日程，但手动日程设置界面是这里最直观的。在我们的燃气系统上，年节能水平中等，对这个价位来说相当不错。"
       ]
     },
     {
       "heading": "如何选择",
       "paragraphs": [
         "有C线且使用Google Home：Nest Learning Thermostat。10个月回本和免手动编程的日程学习，在3年以上的使用周期内表现令人印象深刻。",
-        "有C线且需要最佳多房间精度：ecobee Premium。附带传感器和空气质量数据让¥1,815的价格物有所值。",
+        "有C线且需要最佳多房间精度：ecobee Premium。附带传感器和空气质量数据让其高端定位物有所值。",
         "没有C线且无法布线：Emerson Sensi。电池供电，18分钟安装，节能效果实在。",
-        "Alexa用户且预算有限：Amazon Smart Thermostat，¥545。功能精简但一年内可回本。"
+        "Alexa用户且预算有限：Amazon Smart Thermostat（入门定位）。功能精简但一年内可回本。"
       ]
     }
   ],
@@ -61,7 +61,7 @@
     },
     {
       "q": "智能温控器每年实际能节省多少钱？",
-      "a": "我们3个月的测试年化后，根据温控器型号和出行规律，每年节省¥655至¥1,750不等。ENERGY STAR估计，之前使用手动日程的家庭，供暖可节省8%，制冷可节省15%。如果你本来就已经在执行严格的手动日程，节省效果会更小。"
+      "a": "我们3个月的测试年化后，根据温控器型号和出行规律，每年的节能金额差异明显，最高型号约为最低型号的两倍多。ENERGY STAR估计，之前使用手动日程的家庭，供暖可节省8%，制冷可节省15%。如果你本来就已经在执行严格的手动日程，节省效果会更小。"
     },
     {
       "q": "智能温控器能与热泵一起使用吗？",
@@ -81,7 +81,7 @@
     },
     {
       "q": "房间传感器相比单个温控器能提升多少舒适度？",
-      "a": "主温控器只测量一个位置的温度——通常是气流与卧室不同的走廊。房间传感器让系统对多个房间的读数取平均值。在两层楼的房子里，这能消除单传感器温控器造成的\"一楼22度、二楼28度\"的温差问题。ecobee附带一个传感器；Honeywell T9的传感器单独售价¥284。"
+      "a": "主温控器只测量一个位置的温度——通常是气流与卧室不同的走廊。房间传感器让系统对多个房间的读数取平均值。在两层楼的房子里，这能消除单传感器温控器造成的\"一楼22度、二楼28度\"的温差问题。ecobee附带一个传感器；Honeywell T9的传感器需单独选购。"
     },
     {
       "q": "智能温控器与丙烷和燃油锅炉兼容吗？",
@@ -92,20 +92,20 @@
     {
       "offerId": "google-nest-learning-thermostat",
       "badge": "综合最佳",
-      "review": "第4代Nest Learning Thermostat 7天自动建立日程，在大多数系统上不需要C线，在测试中以¥1,750的年节能额拿下最高分。Farsight显示屏和Google Home集成打磨精良。热泵兼容性在某些机型上有已知的风扇抖动问题——购买前请用Nest的兼容性检测工具确认。",
+      "review": "第4代Nest Learning Thermostat 7天自动建立日程，在大多数系统上不需要C线，在测试中以最高的年节能水平拿下最高分。Farsight显示屏和Google Home集成打磨精良。热泵兼容性在某些机型上有已知的风扇抖动问题——购买前请用Nest的兼容性检测工具确认。",
       "pros": [
         "自学习日程，无需任何手动编程",
         "电源借用，大多数燃气系统无需C线",
-        "实测最高年节能额：¥1,750"
+        "实测年节能水平最高"
       ],
       "cons": [
         "部分热泵安装中偶发风扇抖动"
       ],
       "grade": "A+",
       "specs": {
-        "Price": "¥2,040",
+        "Price": "旗舰",
         "C-wire required": "否（电源借用）",
-        "Annual savings (tested)": "¥1,750",
+        "Annual savings (tested)": "最高",
         "Voice assistants": "Google Assistant、Alexa（基本）",
         "App rating": "4.6 ★（14万条评价）",
         "Install time (first-timer)": "28分钟"
@@ -120,7 +120,7 @@
     {
       "offerId": "ecobee-smartthermostat-premium",
       "badge": "多房间最佳",
-      "review": "ecobee Premium附带的SmartSensor让它在同价位中独树一帜。内置Alexa、空气质量监测、6.8万条评价下4.7星的App评分支撑了¥1,815的定价。需要C线——附带的Power Extender Kit在旧系统上安装额外需要30分钟。",
+      "review": "ecobee Premium附带的SmartSensor让它在同价位中独树一帜。内置Alexa、空气质量监测、6.8万条评价下4.7星的App评分支撑了其高端定位。需要C线——附带的Power Extender Kit在旧系统上安装额外需要30分钟。",
       "pros": [
         "附带房间传感器——对有人房间的温度取平均值",
         "内置Alexa，完整技能支持",
@@ -131,9 +131,9 @@
       ],
       "grade": "A",
       "specs": {
-        "Price": "¥1,815",
+        "Price": "高端",
         "C-wire required": "是（PEK单独出售）",
-        "Annual savings (tested)": "¥1,530",
+        "Annual savings (tested)": "较高",
         "Voice assistants": "Alexa（内置）、Google、Siri",
         "App rating": "4.7 ★（6.8万条评价）",
         "Install time (first-timer)": "52分钟"
@@ -148,20 +148,20 @@
     {
       "offerId": "honeywell-t9-smart-thermostat",
       "badge": "安装商信赖之选",
-      "review": "Honeywell T9是HVAC专业人员的默认推荐，原因显而易见——广泛的兼容性、稳定的地理围栏，以及25年品牌信誉支撑的每次保修服务。房间传感器单售¥284是个痛点。测试中每年节能¥1,165，对¥1,375的价位来说是扎实的表现。",
+      "review": "Honeywell T9是HVAC专业人员的默认推荐，原因显而易见——广泛的兼容性、稳定的地理围栏，以及25年品牌信誉支撑的每次保修服务。房间传感器需单独选购是个痛点。测试中年节能水平中等，对其中端定位来说是扎实的表现。",
       "pros": [
         "最快地理围栏：2分钟内检测到到达/离开",
         "最广泛的专业安装商支持网络",
         "兼容Alexa、Google、Apple HomeKit"
       ],
       "cons": [
-        "房间传感器单售，每个¥284"
+        "房间传感器需单独选购"
       ],
       "grade": "B+",
       "specs": {
-        "Price": "¥1,375",
+        "Price": "中端",
         "C-wire required": "是",
-        "Annual savings (tested)": "¥1,165",
+        "Annual savings (tested)": "中等",
         "Voice assistants": "Alexa、Google、Siri、Cortana",
         "App rating": "4.3 ★（4.2万条评价）",
         "Install time (first-timer)": "35分钟"
@@ -176,9 +176,9 @@
     {
       "offerId": "amazon-smart-thermostat",
       "badge": "最佳预算之选",
-      "review": "¥545的Amazon Smart Thermostat是唯一能在不到一年内回本的产品——在我们燃气系统上年化节能¥655。Alexa不仅推荐使用，更是设置必须。日程界面像2019年的设计，但ENERGY STAR认证意味着底层节能逻辑是可靠的。",
+      "review": "入门定位的Amazon Smart Thermostat是唯一能在不到一年内回本的产品——在我们燃气系统上年化节能虽偏低但稳定。Alexa不仅推荐使用，更是设置必须。日程界面像2019年的设计，但ENERGY STAR认证意味着底层节能逻辑是可靠的。",
       "pros": [
-        "最低售价¥545——不足12个月回本",
+        "价格最低（入门定位）——不足12个月回本",
         "ENERGY STAR认证",
         "完整Alexa日程联动"
       ],
@@ -188,9 +188,9 @@
       ],
       "grade": "B",
       "specs": {
-        "Price": "¥545",
+        "Price": "入门",
         "C-wire required": "是",
-        "Annual savings (tested)": "¥655",
+        "Annual savings (tested)": "偏低",
         "Voice assistants": "仅Alexa",
         "App rating": "4.1 ★（2.8万条评价）",
         "Install time (first-timer)": "30分钟"
@@ -216,9 +216,9 @@
       ],
       "grade": "B",
       "specs": {
-        "Price": "¥865",
+        "Price": "中端",
         "C-wire required": "否（AA电池）",
-        "Annual savings (tested)": "¥945",
+        "Annual savings (tested)": "中等",
         "Voice assistants": "Alexa、Google、Apple HomeKit",
         "App rating": "4.4 ★（1.8万条评价）",
         "Install time (first-timer)": "18分钟"
@@ -235,14 +235,14 @@
     "google-nest-learning-thermostat": "综合最佳——节能最高且自学习日程。大多数燃气系统无需C线。",
     "ecobee-smartthermostat-premium": "多房间最佳——附带传感器和内置Alexa物超所值。",
     "honeywell-t9-smart-thermostat": "专业信赖之选——最广泛的专业支持和最快地理围栏。",
-    "amazon-smart-thermostat": "最佳预算——¥545含ENERGY STAR认证；设置需要Alexa。",
+    "amazon-smart-thermostat": "最佳预算——入门定位含ENERGY STAR认证；设置需要Alexa。",
     "emerson-sensi-thermostat": "无C线房屋最佳——电池供电，18分钟安装。"
   },
   "recommendedFor": [
     {
       "label": "Google Home用户",
       "offerId": "google-nest-learning-thermostat",
-      "reason": "与Google Home集成最深，实测年节能¥1,750居首。"
+      "reason": "与Google Home集成最深，实测年节能水平居首。"
     },
     {
       "label": "有房间过热问题的Alexa用户",
@@ -257,7 +257,7 @@
     {
       "label": "预算有限的纯Alexa用户",
       "offerId": "amazon-smart-thermostat",
-      "reason": "¥545含ENERGY STAR认证，节能回本不超12个月。"
+      "reason": "入门定位含ENERGY STAR认证，节能回本不超12个月。"
     },
     {
       "label": "专业HVAC安装工程",
@@ -265,5 +265,5 @@
       "reason": "最广泛的兼容性和最快的地理围栏——专业安装商的默认推荐自有道理。"
     }
   ],
-  "pinDescription": "5款智能温控器实测3个月，年节能差距达¥1,100。有一款安装只需18分钟且不用动任何电线，有一款连设置都离不开Alexa。数据说话，哪款最值？"
+  "pinDescription": "5款智能温控器实测3个月，年节能差距显著。有一款安装只需18分钟且不用动任何电线，有一款连设置都离不开Alexa。数据说话，哪款最值？"
 }
