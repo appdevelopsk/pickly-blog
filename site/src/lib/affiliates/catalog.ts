@@ -3,6 +3,12 @@ import { inferMarketFromLocale } from "@/lib/i18n/locales";
 import overridesJson from "./catalog-overrides.json";
 import { CATALOG_ADDITIONS } from "./catalog-additions";
 import { CATALOG_ADDITIONS_BASKETBALL } from "./catalog-additions-basketball";
+import { CATALOG_BATCH12_PARENTING } from "./catalog-batch12-parenting";
+import { CATALOG_BATCH12_PETS } from "./catalog-batch12-pets";
+import { CATALOG_BATCH12_TRAVEL } from "./catalog-batch12-travel";
+import { CATALOG_BATCH12_FASHION } from "./catalog-batch12-fashion";
+import { CATALOG_BATCH12_HOME } from "./catalog-batch12-home";
+import { CATALOG_BATCH12_BEAUTY } from "./catalog-batch12-beauty";
 
 type OverridesShape = Record<string, { links?: AspLink[] } | undefined> & {
   _comment?: string;
@@ -22802,6 +22808,12 @@ const RAW_CATALOG: AffiliateOffer[] = [
   },
   ...CATALOG_ADDITIONS,
   ...CATALOG_ADDITIONS_BASKETBALL,
+  ...CATALOG_BATCH12_PARENTING,
+  ...CATALOG_BATCH12_PETS,
+  ...CATALOG_BATCH12_TRAVEL,
+  ...CATALOG_BATCH12_FASHION,
+  ...CATALOG_BATCH12_HOME,
+  ...CATALOG_BATCH12_BEAUTY,
   // --- dog puzzle toys ---
   {
     id: "outward-hound-hide-n-slide",

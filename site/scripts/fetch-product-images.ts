@@ -189,10 +189,28 @@ function applyImageUrl(content: string, id: string, imageUrl: string): string {
   const b2 = `id: "${id}",\n    imageUrl: ""`;
   if (content.includes(b2)) return content.replace(b2, `id: "${id}",\n    imageUrl: "${esc}",`);
   // 3. Single-line: id: "...", ..., imageUrl: "", ...
-  return content.replace(
+  const singleLine = content.replace(
     new RegExp(`(\\bid:\\s*"${id.replace(/[-]/g, "\\-")}",(?:[^{}]*?))imageUrl:\\s*""`),
     `$1imageUrl: "${esc}"`
   );
+  if (singleLine !== content) return singleLine;
+  // 4. Position-independent fallback: imageUrl may sit anywhere in the entry
+  //    (e.g. after name/description objects with nested braces). Anchor on the
+  //    id, then replace the FIRST empty imageUrl that follows it.
+  const idIdx = content.search(new RegExp(`(?:"id"|id):\\s*"${id.replace(/[-]/g, "\\-")}"`));
+  if (idIdx >= 0) {
+    const emptyRe = /(?:"imageUrl"|imageUrl):\s*""/;
+    const after = content.slice(idIdx);
+    const rel = after.search(emptyRe);
+    if (rel >= 0) {
+      const abs = idIdx + rel;
+      const matched = content.slice(abs).match(emptyRe)![0];
+      const quoted = matched.includes('"imageUrl"');
+      const repl = quoted ? `"imageUrl": "${esc}"` : `imageUrl: "${esc}"`;
+      return content.slice(0, abs) + repl + content.slice(abs + matched.length);
+    }
+  }
+  return content;
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
@@ -260,7 +278,13 @@ async function main() {
   console.log(`\nPickly — fetch-product-images`);
   if (DRY_RUN) console.log("⚠  DRY RUN — catalog will not be modified");
 
-  const files = [CATALOG_MAIN_PATH, CATALOG_PATH, CATALOG_BASKETBALL_PATH];
+  // Auto-discover every catalog data file: the main catalog, the additions,
+  // basketball, and any catalog-batch*.ts split files added by batch-gen.
+  const affDir = path.resolve(__dirname, "../src/lib/affiliates");
+  const batchFiles = fs.readdirSync(affDir)
+    .filter((n) => /^catalog-batch.*\.ts$/.test(n))
+    .map((n) => path.join(affDir, n));
+  const files = [CATALOG_MAIN_PATH, CATALOG_PATH, CATALOG_BASKETBALL_PATH, ...batchFiles];
   let totalSuccess = 0;
   let totalFailed = 0;
 
