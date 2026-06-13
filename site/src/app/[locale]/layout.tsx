@@ -12,6 +12,13 @@ import { PageViewTracker } from "@/lib/analytics/pageview";
 
 const SITE_URL = "https://pickly.blog";
 
+// Microsoft Clarity (heatmaps + session replay). Injected directly in <head>
+// because `next/script` afterInteractive INLINE scripts are dropped by Next.js
+// static export (`output: export`) — only external-src scripts survive, so the
+// Analytics.tsx Clarity branch never shipped. A plain head <script> is the
+// canonical Clarity install and is guaranteed to appear in the static HTML.
+const CLARITY_ID = process.env.NEXT_PUBLIC_CLARITY_PROJECT_ID ?? "wqatyufkhb";
+
 const inter = Inter({
   subsets: ["latin", "latin-ext"],
   display: "swap",
@@ -52,6 +59,13 @@ export default async function LocaleLayout({ children, params }: Props) {
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4927026308242118"
           crossOrigin="anonymous"
         />
+        {CLARITY_ID && (
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","${CLARITY_ID}");`,
+            }}
+          />
+        )}
       </head>
       <body className={`${inter.variable} min-h-screen flex flex-col`}>
         <NextIntlClientProvider locale={locale as Locale} messages={messages}>
