@@ -5,7 +5,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   // ── best-dog-car-seat-2026 ────────────────────────────────────────────────
   {
     id: "kurgo-skybox-booster-seat",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/d4dc868d-71d7-4a93-9ffa-05046f26a48b.jpg._CB528348398_.jpg",,
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/d4dc868d-71d7-4a93-9ffa-05046f26a48b.jpg._CB528348398_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Kurgo Skybox Booster Seat", ja: "Kurgo スカイボックス ブースターシート" },
@@ -24,7 +24,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "sleepypod-click-it-sport",
-    imageUrl: "https://m.media-amazon.com/images/I/61YlTn5N1ZL._AC_SL1024_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61YlTn5N1ZL._AC_SL1024_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Sleepypod Click It Sport Harness", ja: "Sleepypod クリックイット スポーツ ハーネス" },
@@ -43,7 +43,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "ruffwear-loadup-harness-seat",
-    imageUrl: "https://m.media-amazon.com/images/I/71vv+GvgURL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71vv+GvgURL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Ruffwear Load Up Harness", ja: "Ruffwear ロードアップ ハーネス" },
@@ -62,7 +62,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "4knines-dog-seat-cover-bucket",
-    imageUrl: "https://4knines.com/cdn/shop/files/4KninesFrontSeatCover1b.jpg?v=1722448667&width=1946",,
+    imageUrl: "https://4knines.com/cdn/shop/files/4KninesFrontSeatCover1b.jpg?v=1722448667&width=1946",
     category: "pets",
     badge: "🐾",
     name: { en: "4Knines Dog Seat Cover Bucket Seat", ja: "4Knines 犬用シートカバー バケットシート" },
@@ -81,7 +81,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "petsfit-portable-booster-seat",
-    imageUrl: "https://m.media-amazon.com/images/I/81mbVpCIkSL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81mbVpCIkSL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Petsfit Portable Dog Booster Seat", ja: "Petsfit ポータブル犬用ブースターシート" },
@@ -102,7 +102,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   // ── best-dog-life-jacket-2026 ─────────────────────────────────────────────
   {
     id: "ruffwear-float-coat-life-jacket",
-    imageUrl: "https://m.media-amazon.com/images/I/71hjXIDmimL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71hjXIDmimL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Ruffwear Float Coat Dog Life Jacket", ja: "Ruffwear フロートコート 犬用ライフジャケット" },
@@ -121,7 +121,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "outward-hound-granby-splash",
-    imageUrl: "https://m.media-amazon.com/images/I/71Gn2oSBSmL._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71Gn2oSBSmL._AC_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Outward Hound Granby Splash Dog Life Jacket", ja: "Outward Hound グランビースプラッシュ 犬用ライフジャケット" },
@@ -140,7 +140,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "ezydog-seadog-life-jacket",
-    imageUrl: "https://m.media-amazon.com/images/I/71GNeRC3BpL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71GNeRC3BpL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "EzyDog SeaDog Life Jacket", ja: "EzyDog シードッグ ライフジャケット" },
@@ -159,7 +159,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "vivaglory-dog-life-jacket",
-    imageUrl: "https://m.media-amazon.com/images/I/81iKdWjBdjL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81iKdWjBdjL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Vivaglory Dog Life Jacket", ja: "Vivaglory 犬用ライフジャケット" },
@@ -178,7 +178,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "kyjen-float-coat-dog",
-    imageUrl: "https://m.media-amazon.com/images/I/71BZuz8wBvL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71BZuz8wBvL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Kyjen Float Coat Dog Life Jacket", ja: "Kyjen フロートコート 犬用ライフジャケット" },
@@ -199,7 +199,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   // ── best-dog-raincoat-2026 ────────────────────────────────────────────────
   {
     id: "ruffwear-sun-shower-raincoat",
-    imageUrl: "https://m.media-amazon.com/images/I/71-RbkWTNTL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71-RbkWTNTL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Ruffwear Sun Shower Rain Jacket", ja: "Ruffwear サンシャワー レインジャケット" },
@@ -218,7 +218,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "kurgo-loft-dog-jacket",
-    imageUrl: "https://m.media-amazon.com/images/I/71PtEZKzeGL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71PtEZKzeGL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Kurgo Loft Dog Jacket", ja: "Kurgo ロフト 犬用ジャケット" },
@@ -237,7 +237,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "hurtta-torrent-coat",
-    imageUrl: "https://m.media-amazon.com/images/I/71tnnM9roIL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71tnnM9roIL.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Hurtta Torrent Coat", ja: "Hurtta トレントコート" },
@@ -256,7 +256,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "eldon-industries-muttluks-raincoat",
-    imageUrl: "https://m.media-amazon.com/images/I/71Djfg1-KOL._AC_UL960_QL65_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71Djfg1-KOL._AC_UL960_QL65_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Muttluks Dog Rain Jacket", ja: "Muttluks 犬用レインジャケット" },
@@ -275,7 +275,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "canada-pooch-torrential-tracker",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/616cC0KxsfL._SL1000_.jpg",,
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/616cC0KxsfL._SL1000_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Canada Pooch Torrential Tracker Rain Jacket", ja: "Canada Pooch トレンシャルトラッカー レインジャケット" },
@@ -296,7 +296,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   // ── best-dog-boots-2026 ───────────────────────────────────────────────────
   {
     id: "ruffwear-grip-trex-boots",
-    imageUrl: "https://m.media-amazon.com/images/I/61OlLZT1NFL._AC_SL1200_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61OlLZT1NFL._AC_SL1200_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Ruffwear Grip Trex Dog Boots", ja: "Ruffwear グリップトレックス 犬用ブーツ" },
@@ -315,7 +315,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "muttluks-fleece-lined-dog-boots",
-    imageUrl: "https://m.media-amazon.com/images/I/81ZLbDFycZL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81ZLbDFycZL.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Muttluks Fleece-Lined Dog Boots", ja: "Muttluks フリースライニング 犬用ブーツ" },
@@ -334,7 +334,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "kurgo-blaze-cross-dog-boot",
-    imageUrl: "https://www.dogster.com/wp-content/uploads/2023/03/Kurgo-Blaze-Cross-Dog-Shoes-2024-1-e1714119991801.jpg",,
+    imageUrl: "https://www.dogster.com/wp-content/uploads/2023/03/Kurgo-Blaze-Cross-Dog-Shoes-2024-1-e1714119991801.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Kurgo Blaze Cross Dog Boot", ja: "Kurgo ブレイズクロス 犬用ブーツ" },
@@ -353,7 +353,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "pawz-rubber-disposable-boots",
-    imageUrl: "https://m.media-amazon.com/images/I/71erHyMsSQL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71erHyMsSQL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Pawz Rubber Disposable Dog Boots", ja: "Pawz ラバーディスポーザブル 犬用ブーツ" },
@@ -372,7 +372,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "hikenture-dog-shoes-anti-slip",
-    imageUrl: "https://m.media-amazon.com/images/I/71Ei+zZbccL._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71Ei+zZbccL._AC_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Hikenture Dog Shoes Anti-Slip", ja: "Hikenture 犬用シューズ 滑り止め" },
@@ -393,7 +393,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   // ── best-dog-brush-2026 ───────────────────────────────────────────────────
   {
     id: "furminator-deshedding-tool-large",
-    imageUrl: "https://m.media-amazon.com/images/I/71v7AZ88e+L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71v7AZ88e+L._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "FURminator deShedding Tool for Large Dogs", ja: "FURminator 大型犬用 換毛ツール" },
@@ -412,7 +412,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "hertzko-self-cleaning-slicker",
-    imageUrl: "https://m.media-amazon.com/images/I/61Bm2HiBBbL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61Bm2HiBBbL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Hertzko Self-Cleaning Slicker Brush", ja: "Hertzko セルフクリーニング スリッカーブラシ" },
@@ -431,7 +431,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "chris-christensen-big-g-slicker",
-    imageUrl: "https://chrischristensenaustralia.com.au/wp-content/uploads/2024/07/Amazon-Teal-BigG-INFO-3-3000x3000__69794.jpg",,
+    imageUrl: "https://chrischristensenaustralia.com.au/wp-content/uploads/2024/07/Amazon-Teal-BigG-INFO-3-3000x3000__69794.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Chris Christensen Big G Slicker Brush", ja: "Chris Christensen ビッグG スリッカーブラシ" },
@@ -450,7 +450,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "andis-premium-pet-pin-brush",
-    imageUrl: "https://www.petmarket.com.my/wp-content/uploads/2025/04/65720-Pin-Large-1.png",,
+    imageUrl: "https://www.petmarket.com.my/wp-content/uploads/2025/04/65720-Pin-Large-1.png",
     category: "pets",
     badge: "🐾",
     name: { en: "Andis Premium Pet Pin Brush", ja: "Andis プレミアムペット ピンブラシ" },
@@ -469,7 +469,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "safari-wire-pin-dog-brush",
-    imageUrl: "https://m.media-amazon.com/images/I/51BGcQAbLhL._AC_SL1100_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51BGcQAbLhL._AC_SL1100_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Safari Wire Pin Dog Brush", ja: "Safari ワイヤーピン 犬用ブラシ" },
@@ -490,7 +490,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   // ── best-dog-poop-bags-2026 ───────────────────────────────────────────────
   {
     id: "earth-rated-lavender-poop-bags",
-    imageUrl: "https://m.media-amazon.com/images/I/71r5zmCbTLL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71r5zmCbTLL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Earth Rated Lavender Dog Poop Bags", ja: "Earth Rated ラベンダー 犬用うんち袋" },
@@ -509,7 +509,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "bags-on-board-poop-bags",
-    imageUrl: "https://m.media-amazon.com/images/I/813YsIZx9lL._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/813YsIZx9lL._AC_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Bags on Board Dog Poop Bags with Dispenser", ja: "Bags on Board 犬用うんち袋 ディスペンサー付き" },
@@ -528,7 +528,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "pet-n-pet-compostable-bags",
-    imageUrl: "https://m.media-amazon.com/images/I/81cCdyntUML._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81cCdyntUML._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Pet N Pet Compostable Dog Poop Bags", ja: "Pet N Pet コンポスタブル 犬用うんち袋" },
@@ -547,7 +547,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "doggy-do-good-compostable",
-    imageUrl: "https://m.media-amazon.com/images/I/61KdD93qAkL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61KdD93qAkL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Doggy Do Good Compostable Dog Bags", ja: "Doggy Do Good コンポスタブル 犬用袋" },
@@ -566,7 +566,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "pogi-poop-bags-large",
-    imageUrl: "https://s.yimg.com/ny/api/res/1.2/YYt5BQ2krrw23socrjKSBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://media.zenfs.com/en/globenewswire.com/bac696be105f2a2e990863541b917f53",,
+    imageUrl: "https://s.yimg.com/ny/api/res/1.2/YYt5BQ2krrw23socrjKSBw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjAw/https://media.zenfs.com/en/globenewswire.com/bac696be105f2a2e990863541b917f53",
     category: "pets",
     badge: "🐾",
     name: { en: "Pogi's Poop Bags Extra Large", ja: "Pogi うんち袋 エクストララージ" },
@@ -587,7 +587,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   // ── best-dog-joint-supplement-2026 ───────────────────────────────────────
   {
     id: "cosequin-ds-plus-msm-chewables",
-    imageUrl: "https://m.media-amazon.com/images/I/71N+jg6kyZS._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71N+jg6kyZS._SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Cosequin DS Plus MSM Chewable Tablets", ja: "Cosequin DS Plus MSM チュワブルタブレット" },
@@ -606,7 +606,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "zesty-paws-mobility-bites",
-    imageUrl: "https://m.media-amazon.com/images/I/51mY6Z2dmoL._SY300_SX300_QL70_ML2_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51mY6Z2dmoL._SY300_SX300_QL70_ML2_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Zesty Paws Mobility Bites Joint Supplement", ja: "Zesty Paws モビリティバイツ 関節サプリ" },
@@ -625,7 +625,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "nutramax-dasuquin-soft-chews",
-    imageUrl: "https://m.media-amazon.com/images/I/71qjkllM+tL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71qjkllM+tL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Nutramax Dasuquin Soft Chews", ja: "Nutramax ダスキン ソフトチュー" },
@@ -644,7 +644,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "vetri-science-glycoflex-3",
-    imageUrl: "https://m.media-amazon.com/images/I/819QVxJuGkL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/819QVxJuGkL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "VetriScience Glycoflex 3 Joint Supplement", ja: "VetriScience グリコフレックス3 関節サプリ" },
@@ -663,7 +663,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "naturvet-senior-joint-health",
-    imageUrl: "https://m.media-amazon.com/images/I/71PuzashkyL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71PuzashkyL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "NaturVet Senior Joint Health Soft Chews", ja: "NaturVet シニア関節ヘルス ソフトチュー" },
@@ -684,7 +684,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   // ── best-cat-window-perch-2026 ────────────────────────────────────────────
   {
     id: "kittylounge-cat-window-perch",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/61he6r72GqL._AC_SL1001_.jpg",,
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/61he6r72GqL._AC_SL1001_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "KittyLounge Cat Window Perch", ja: "KittyLounge 猫用窓パーチ" },
@@ -703,7 +703,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "petpawjoy-cat-window-hammock",
-    imageUrl: "https://m.media-amazon.com/images/I/41e62kwHsLL._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/41e62kwHsLL._AC_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "PetPawJoy Cat Window Hammock", ja: "PetPawJoy 猫用窓ハンモック" },
@@ -722,7 +722,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "boltz-pet-cat-window-seat",
-    imageUrl: "https://m.media-amazon.com/images/I/71GRf6AWRaL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71GRf6AWRaL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Boltz Pet Cat Window Seat", ja: "Boltz Pet 猫用窓シート" },
@@ -741,7 +741,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "kpblis-cat-window-perch-large",
-    imageUrl: "https://m.media-amazon.com/images/I/71cphNUoKuL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71cphNUoKuL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "KPBLIS Large Cat Window Perch", ja: "KPBLIS 大型猫用窓パーチ" },
@@ -760,7 +760,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "k-h-pet-products-ez-mount",
-    imageUrl: "https://m.media-amazon.com/images/I/518bc5QNpgL._SY300_SX300_QL70_ML2_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/518bc5QNpgL._SY300_SX300_QL70_ML2_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "K&H Pet Products EZ Mount Window Bed", ja: "K&H Pet Products EZマウント 窓ベッド" },
@@ -781,7 +781,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   // ── best-aquarium-light-2026 ──────────────────────────────────────────────
   {
     id: "fluval-plant-3-led-light",
-    imageUrl: "https://m.media-amazon.com/images/I/81NHlvu9nEL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81NHlvu9nEL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Fluval Plant 3.0 LED Light", ja: "Fluval プラント3.0 LEDライト" },
@@ -800,7 +800,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "nicrew-classicled-aquarium-light",
-    imageUrl: "https://m.media-amazon.com/images/I/71nHRG3AZXL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71nHRG3AZXL.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "NICREW ClassicLED Aquarium Light", ja: "NICREW クラシックLED 水槽用ライト" },
@@ -819,7 +819,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "finnex-planted-24-7-led",
-    imageUrl: "https://cdn.shopify.com/s/files/1/0918/6377/7570/files/919VtYjD5IL._AC_SX679.jpg?v=1751612877&width=800",,
+    imageUrl: "https://cdn.shopify.com/s/files/1/0918/6377/7570/files/919VtYjD5IL._AC_SX679.jpg?v=1751612877&width=800",
     category: "pets",
     badge: "🐾",
     name: { en: "Finnex Planted+ 24/7 LED Light", ja: "Finnex プランテッド+ 24/7 LEDライト" },
@@ -838,7 +838,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "hygger-24-7-led-aquarium-light",
-    imageUrl: "https://m.media-amazon.com/images/I/715K6OD6GWS._AC_SL1200_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/715K6OD6GWS._AC_SL1200_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Hygger 24/7 LED Aquarium Light", ja: "Hygger 24/7 LEDアクアリウムライト" },
@@ -857,7 +857,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "beamswork-ea-timer-led",
-    imageUrl: "https://m.media-amazon.com/images/I/71zPeUqzgYL._US500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71zPeUqzgYL._US500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Beamswork EA Timer LED Aquarium Light", ja: "Beamswork EAタイマー LEDアクアリウムライト" },
@@ -878,7 +878,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   // ── best-reptile-terrarium-2026 ───────────────────────────────────────────
   {
     id: "exoterra-glass-terrarium-medium",
-    imageUrl: "https://m.media-amazon.com/images/I/91oEqkD0bpL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/91oEqkD0bpL._AC_SL1500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Exo Terra Glass Terrarium Medium", ja: "Exo Terra ガラステラリウム ミディアム" },
@@ -897,7 +897,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "zilla-critter-cage-40gal",
-    imageUrl: "https://m.media-amazon.com/images/I/61r41DQt00L._SL1250_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61r41DQt00L._SL1250_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Zilla Critter Cage 40 Gallon", ja: "Zilla クリッタケージ 40ガロン" },
@@ -916,7 +916,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "reptibreeze-screen-enclosure-xl",
-    imageUrl: "https://m.media-amazon.com/images/I/612HOfKbLWS._AC_SS450_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/612HOfKbLWS._AC_SS450_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "ReptiBreeze Screen Enclosure XL", ja: "ReptiBreeze スクリーンエンクロージャー XL" },
@@ -935,7 +935,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "penn-plax-reptology-40gal",
-    imageUrl: "https://m.media-amazon.com/images/I/41BjU2NcAyL._SL500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/41BjU2NcAyL._SL500_.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Penn-Plax Reptology Glass Terrarium 40 Gallon", ja: "Penn-Plax レプトロジー ガラステラリウム 40ガロン" },
@@ -954,7 +954,7 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
   },
   {
     id: "Carolina-custom-cages-large",
-    imageUrl: "https://carolinadesignerdragons.com/wp-content/uploads/2024/09/Carolina-Custom-Cages-Terrarium-tall-Extra-Extra-Long-Deep-60Lx24Wx24H.jpg",,
+    imageUrl: "https://carolinadesignerdragons.com/wp-content/uploads/2024/09/Carolina-Custom-Cages-Terrarium-tall-Extra-Extra-Long-Deep-60Lx24Wx24H.jpg",
     category: "pets",
     badge: "🐾",
     name: { en: "Carolina Custom Cages Large Reptile Enclosure", ja: "Carolina Custom Cages 大型爬虫類飼育ケース" },

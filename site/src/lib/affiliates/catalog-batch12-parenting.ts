@@ -5,7 +5,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   // === best-convertible-car-seat-2026 ===
   {
     id: "graco-4ever-dlx",
-    imageUrl: "https://m.media-amazon.com/images/I/814LByNL7KL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/814LByNL7KL.jpg",
     priceMin: "199",
     priceMax: "280",
     category: "parenting",
@@ -16,7 +16,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "britax-boulevard-clicktight",
-    imageUrl: "https://m.media-amazon.com/images/I/81B6zKMvf6L._SX679_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81B6zKMvf6L._SX679_.jpg",
     priceMin: "279",
     priceMax: "340",
     category: "parenting",
@@ -27,7 +27,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "chicco-nextfit-zip",
-    imageUrl: "https://m.media-amazon.com/images/I/81A4c1SYY9L._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81A4c1SYY9L._AC_.jpg",
     priceMin: "219",
     priceMax: "260",
     category: "parenting",
@@ -38,7 +38,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "evenflo-gold-revolve360",
-    imageUrl: "https://m.media-amazon.com/images/I/91htsp064HL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/91htsp064HL._SL1500_.jpg",
     priceMin: "349",
     priceMax: "420",
     category: "parenting",
@@ -49,7 +49,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "cosco-scenera-next",
-    imageUrl: "https://m.media-amazon.com/images/I/91QAlNPPliL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/91QAlNPPliL._AC_SL1500_.jpg",
     priceMin: "40",
     priceMax: "55",
     category: "parenting",
@@ -62,7 +62,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   // === best-booster-seat-2026 ===
   {
     id: "graco-tranzitions-3in1",
-    imageUrl: "https://m.media-amazon.com/images/I/71gAXzvKyWL._SX569_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71gAXzvKyWL._SX569_.jpg",
     priceMin: "79",
     priceMax: "110",
     category: "parenting",
@@ -73,7 +73,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "britax-highpoint-belt",
-    imageUrl: "https://m.media-amazon.com/images/I/41zJbVBNVxL._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/41zJbVBNVxL._AC_.jpg",
     priceMin: "159",
     priceMax: "200",
     category: "parenting",
@@ -84,7 +84,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "cybex-solution-s2",
-    imageUrl: "https://m.media-amazon.com/images/I/513vAqrsb9L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/513vAqrsb9L._AC_SL1500_.jpg",
     priceMin: "229",
     priceMax: "280",
     category: "parenting",
@@ -95,7 +95,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "chicco-myfit-zip",
-    imageUrl: "https://m.media-amazon.com/images/I/8166D-dBeBL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/8166D-dBeBL.jpg",
     priceMin: "149",
     priceMax: "185",
     category: "parenting",
@@ -106,7 +106,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "bubblebum-inflatable",
-    imageUrl: "https://m.media-amazon.com/images/I/81c16Yv9ErL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81c16Yv9ErL._SL1500_.jpg",
     priceMin: "39",
     priceMax: "55",
     category: "parenting",
@@ -119,7 +119,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   // === best-double-stroller-2026 ===
   {
     id: "uppababy-vista-v3",
-    imageUrl: "https://m.media-amazon.com/images/I/61uxuZSK2sL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61uxuZSK2sL.jpg",
     priceMin: "999",
     priceMax: "1299",
     category: "parenting",
@@ -130,7 +130,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "baby-jogger-city-mini-gt2-double",
-    imageUrl: "https://m.media-amazon.com/images/I/81qNQ7MhUQL._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81qNQ7MhUQL._AC_.jpg",
     priceMin: "599",
     priceMax: "699",
     category: "parenting",
@@ -141,7 +141,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "joovy-caboose-too",
-    imageUrl: "https://m.media-amazon.com/images/I/51k00EeHhAL._AC_SL1000_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51k00EeHhAL._AC_SL1000_.jpg",
     priceMin: "299",
     priceMax: "349",
     category: "parenting",
@@ -152,7 +152,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "graco-ready2grow-lx",
-    imageUrl: "https://m.media-amazon.com/images/I/91TgbG2SAmL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/91TgbG2SAmL._SL1500_.jpg",
     priceMin: "179",
     priceMax: "229",
     category: "parenting",
@@ -163,7 +163,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "zoe-xl2-best",
-    imageUrl: "",
+    imageUrl: "https://www.just-twins.com/wp-content/uploads/2019/05/51zS6MG2BK7L.jpg",
     priceMin: "349",
     priceMax: "419",
     category: "parenting",
@@ -176,7 +176,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   // === best-jogging-stroller-2026 ===
   {
     id: "bob-revolution-flex-30",
-    imageUrl: "https://m.media-amazon.com/images/I/81tIT-FoM8L._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81tIT-FoM8L._AC_.jpg",
     priceMin: "399",
     priceMax: "479",
     category: "parenting",
@@ -187,7 +187,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "thule-urban-glide-3",
-    imageUrl: "https://www.thule.com/-/p/d1s8Kk8U_kmOKUJY1Gii3xTWKf8Fj_6jun_yjEVvVMQ/rs:fit/h:991/cb:1.4/w:991/plain/approved/std.lang.all/81/35/1568135.png",,
+    imageUrl: "https://www.thule.com/-/p/d1s8Kk8U_kmOKUJY1Gii3xTWKf8Fj_6jun_yjEVvVMQ/rs:fit/h:991/cb:1.4/w:991/plain/approved/std.lang.all/81/35/1568135.png",
     priceMin: "549",
     priceMax: "649",
     category: "parenting",
@@ -198,7 +198,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "schwinn-interval-jogging",
-    imageUrl: "https://m.media-amazon.com/images/I/81oTNtrlfZL._SX679_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81oTNtrlfZL._SX679_.jpg",
     priceMin: "199",
     priceMax: "249",
     category: "parenting",
@@ -209,7 +209,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "baby-trend-expedition-jogger",
-    imageUrl: "https://m.media-amazon.com/images/I/81vXyfe8AwL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81vXyfe8AwL._SL1500_.jpg",
     priceMin: "89",
     priceMax: "119",
     category: "parenting",
@@ -220,7 +220,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "contours-ridge-jogging",
-    imageUrl: "https://m.media-amazon.com/images/I/712KeUZXnQL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/712KeUZXnQL._SL1500_.jpg",
     priceMin: "279",
     priceMax: "329",
     category: "parenting",
@@ -233,7 +233,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   // === best-baby-food-storage-containers-2026 ===
   {
     id: "oxo-tot-glass-baby-blocks",
-    imageUrl: "https://m.media-amazon.com/images/I/810thncX5cL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/810thncX5cL._SL1500_.jpg",
     priceMin: "16",
     priceMax: "28",
     category: "parenting",
@@ -244,7 +244,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "bbox-freezer-tray",
-    imageUrl: "https://m.media-amazon.com/images/I/71LGyzdVZQL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71LGyzdVZQL._AC_SL1500_.jpg",
     priceMin: "18",
     priceMax: "25",
     category: "parenting",
@@ -255,7 +255,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "wean-green-glass-cubes",
-    imageUrl: "https://m.media-amazon.com/images/I/61cph9UA1yL._AC_SY300_SX300_QL70_ML2_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61cph9UA1yL._AC_SY300_SX300_QL70_ML2_.jpg",
     priceMin: "19",
     priceMax: "28",
     category: "parenting",
@@ -266,7 +266,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "mumi-bubi-silicone-pods",
-    imageUrl: "https://www.naturalbabygoods.com/wp-content/uploads/2025/09/mumi_bubi_solids_starter_kit.jpg",,
+    imageUrl: "https://www.naturalbabygoods.com/wp-content/uploads/2025/09/mumi_bubi_solids_starter_kit.jpg",
     priceMin: "29",
     priceMax: "39",
     category: "parenting",
@@ -277,7 +277,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "kiddo-feeder-silicone-tray",
-    imageUrl: "https://m.media-amazon.com/images/I/81TZ5l+b+rL._AC_SS450_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81TZ5l+b+rL._AC_SS450_.jpg",
     priceMin: "12",
     priceMax: "18",
     category: "parenting",
@@ -290,7 +290,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   // === best-kids-water-bottle-2026 ===
   {
     id: "hydro-flask-kids-wide-mouth",
-    imageUrl: "https://m.media-amazon.com/images/I/51KVWTdmIZL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51KVWTdmIZL._AC_SL1500_.jpg",
     priceMin: "29",
     priceMax: "35",
     category: "parenting",
@@ -301,7 +301,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "klean-kanteen-kid-kanteen",
-    imageUrl: "https://m.media-amazon.com/images/I/61VJTa8enFL._AC_SL1494_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61VJTa8enFL._AC_SL1494_.jpg",
     priceMin: "23",
     priceMax: "30",
     category: "parenting",
@@ -312,7 +312,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "nalgene-kids-on-the-fly",
-    imageUrl: "https://m.media-amazon.com/images/I/512kb6ksa1L._AC_SY741_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/512kb6ksa1L._AC_SY741_.jpg",
     priceMin: "13",
     priceMax: "18",
     category: "parenting",
@@ -323,7 +323,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "camelbak-eddy-kids",
-    imageUrl: "https://m.media-amazon.com/images/I/81H4tmk9uML._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81H4tmk9uML._AC_SL1500_.jpg",
     priceMin: "14",
     priceMax: "20",
     category: "parenting",
@@ -334,7 +334,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "thermoflask-kids-14oz",
-    imageUrl: "https://m.media-amazon.com/images/I/61wFTSNrJIL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61wFTSNrJIL._AC_SL1500_.jpg",
     priceMin: "16",
     priceMax: "22",
     category: "parenting",
@@ -347,7 +347,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   // === best-kids-scooter-2026 ===
   {
     id: "micro-mini-deluxe-classic",
-    imageUrl: "https://scooterdojo.com/wp-content/uploads/2023/09/micro-mini-deluxe-scooter-review-1155x770.png",,
+    imageUrl: "https://scooterdojo.com/wp-content/uploads/2023/09/micro-mini-deluxe-scooter-review-1155x770.png",
     priceMin: "89",
     priceMax: "109",
     category: "parenting",
@@ -358,7 +358,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "radio-flyer-lean-n-glide",
-    imageUrl: "https://m.media-amazon.com/images/I/61wVcJreZAL._AC_SX569_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61wVcJreZAL._AC_SX569_.jpg",
     priceMin: "49",
     priceMax: "69",
     category: "parenting",
@@ -369,7 +369,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "globber-primo-foldable",
-    imageUrl: "https://m.media-amazon.com/images/I/61tM7GIW3oL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61tM7GIW3oL._AC_SL1500_.jpg",
     priceMin: "69",
     priceMax: "89",
     category: "parenting",
@@ -380,7 +380,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "razor-a5-lux",
-    imageUrl: "https://m.media-amazon.com/images/S/aplus-media/vc/2a5f4abb-c1a8-425b-b6b1-6fbb5d584b71.__CR0,0,970,300_PT0_SX970_V1___.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media/vc/2a5f4abb-c1a8-425b-b6b1-6fbb5d584b71.__CR0,0,970,300_PT0_SX970_V1___.jpg",
     priceMin: "59",
     priceMax: "79",
     category: "parenting",
@@ -391,7 +391,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "yvolution-y-glider-kiwi",
-    imageUrl: "",
+    imageUrl: "https://m.media-amazon.com/images/I/51AYsq6uLYL._AC_SL1200_.jpg",
     priceMin: "39",
     priceMax: "55",
     category: "parenting",
@@ -404,7 +404,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   // === best-baby-teething-toys-2026 ===
   {
     id: "nuby-icybite-hard-soft-teether",
-    imageUrl: "https://m.media-amazon.com/images/I/91XZRv28ZnL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/91XZRv28ZnL._SL1500_.jpg",
     priceMin: "4",
     priceMax: "8",
     category: "parenting",
@@ -415,7 +415,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "sophie-giraffe-teether",
-    imageUrl: "https://m.media-amazon.com/images/I/71kNKlMxENL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71kNKlMxENL._AC_SL1500_.jpg",
     priceMin: "22",
     priceMax: "28",
     category: "parenting",
@@ -426,7 +426,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "manhattan-toy-winkel",
-    imageUrl: "https://m.media-amazon.com/images/S/aplus-media/vc/6f5abe9c-94bf-4e08-9edd-0c967328961e.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media/vc/6f5abe9c-94bf-4e08-9edd-0c967328961e.jpg",
     priceMin: "14",
     priceMax: "19",
     category: "parenting",
@@ -437,7 +437,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "bam-bam-natural-rubber",
-    imageUrl: "",
+    imageUrl: "https://m.media-amazon.com/images/I/81xxNpO3KML.jpg",
     priceMin: "12",
     priceMax: "18",
     category: "parenting",
@@ -448,7 +448,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "munchkin-twisty-figure8",
-    imageUrl: "https://m.media-amazon.com/images/I/81XpnHEsxxL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81XpnHEsxxL.jpg",
     priceMin: "6",
     priceMax: "10",
     category: "parenting",
@@ -461,7 +461,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   // === best-nursery-glider-2026 ===
   {
     id: "pottery-barn-performance-glider",
-    imageUrl: "https://assets.pkimgs.com/pkimgs/ab/images/dp/wcm/202414/0030/open-box-merritt-slipcovered-swivel-glider-performance-hea-o.jpg",,
+    imageUrl: "https://assets.pkimgs.com/pkimgs/ab/images/dp/wcm/202414/0030/open-box-merritt-slipcovered-swivel-glider-performance-hea-o.jpg",
     priceMin: "699",
     priceMax: "899",
     category: "parenting",
@@ -472,7 +472,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "babyletto-kiwi-glider",
-    imageUrl: "https://m.media-amazon.com/images/I/81vJHl7A4dL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81vJHl7A4dL._AC_SL1500_.jpg",
     priceMin: "599",
     priceMax: "799",
     category: "parenting",
@@ -483,7 +483,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "dutailier-ultramotion-glider",
-    imageUrl: "https://m.media-amazon.com/images/I/817g7GEh6ZS._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/817g7GEh6ZS._SL1500_.jpg",
     priceMin: "499",
     priceMax: "649",
     category: "parenting",
@@ -494,7 +494,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "homcom-nursery-rocker-glider",
-    imageUrl: "https://m.media-amazon.com/images/I/71mu3H-PTOL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71mu3H-PTOL._AC_SL1500_.jpg",
     priceMin: "179",
     priceMax: "229",
     category: "parenting",
@@ -505,7 +505,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "dorel-living-nursery-glider",
-    imageUrl: "https://m.media-amazon.com/images/I/71TKfO+4mDL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71TKfO+4mDL._SL1500_.jpg",
     priceMin: "129",
     priceMax: "169",
     category: "parenting",
@@ -518,7 +518,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   // === best-toddler-table-and-chairs-2026 ===
   {
     id: "ikea-latt-table-chairs",
-    imageUrl: "https://m.media-amazon.com/images/I/51QWsr0lzcL._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51QWsr0lzcL._AC_.jpg",
     priceMin: "29",
     priceMax: "40",
     category: "parenting",
@@ -529,7 +529,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "melissa-doug-wooden-table",
-    imageUrl: "https://m.media-amazon.com/images/I/81hxs6iRQCL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81hxs6iRQCL._AC_SL1500_.jpg",
     priceMin: "89",
     priceMax: "119",
     category: "parenting",
@@ -540,7 +540,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "step2-lifestyle-custom-table",
-    imageUrl: "https://m.media-amazon.com/images/I/81lsRHCL-AL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81lsRHCL-AL._AC_SL1500_.jpg",
     priceMin: "79",
     priceMax: "109",
     category: "parenting",
@@ -551,7 +551,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "tot-tutors-kids-table-set",
-    imageUrl: "https://m.media-amazon.com/images/I/71QQp1BguoL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71QQp1BguoL._AC_SL1500_.jpg",
     priceMin: "49",
     priceMax: "65",
     category: "parenting",
@@ -562,7 +562,7 @@ export const CATALOG_BATCH12_PARENTING: AffiliateOffer[] = [
   },
   {
     id: "keter-kids-table-outdoor",
-    imageUrl: "https://webimg.praktiker.hu/_upload/images/praktiker_catalog/299246/299246_01_asztal-gyerekmonoblock-kids-table.png?version=9f7877db",,
+    imageUrl: "https://webimg.praktiker.hu/_upload/images/praktiker_catalog/299246/299246_01_asztal-gyerekmonoblock-kids-table.png?version=9f7877db",
     priceMin: "69",
     priceMax: "89",
     category: "parenting",

@@ -186,8 +186,10 @@ function applyImageUrl(content: string, id: string, imageUrl: string): string {
   const b1 = `"id": "${id}",\n    "imageUrl": ""`;
   if (content.includes(b1)) return content.replace(b1, `"id": "${id}",\n    "imageUrl": "${esc}"`);
   // 2. Unquoted multi-line: id: "...",\n    imageUrl: ""
+  //    Replace the empty value only — do NOT append a comma (the source line
+  //    already carries its own trailing comma; adding one yields `",,`).
   const b2 = `id: "${id}",\n    imageUrl: ""`;
-  if (content.includes(b2)) return content.replace(b2, `id: "${id}",\n    imageUrl: "${esc}",`);
+  if (content.includes(b2)) return content.replace(b2, `id: "${id}",\n    imageUrl: "${esc}"`);
   // 3. Single-line: id: "...", ..., imageUrl: "", ...
   const singleLine = content.replace(
     new RegExp(`(\\bid:\\s*"${id.replace(/[-]/g, "\\-")}",(?:[^{}]*?))imageUrl:\\s*""`),

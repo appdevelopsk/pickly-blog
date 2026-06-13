@@ -1204,7 +1204,7 @@ export const CATALOG_BATCH12_HOME: AffiliateOffer[] = [
       en: "Budget-accessible bath towel available in Target stores for easy same-day purchase. Standard cotton construction. Multiple colors. Performs adequately for 1–2 years of daily use.",
       ja: "Targetで当日購入可能なバジェット バスタオル。標準コットン施工。複数カラー。1〜2年の毎日の使用に十分な性能。",
     },
-    imageUrl: "",
+    imageUrl: "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_015a1f34-0a37-4706-a2b9-b97c2a948f79.jpeg",
     priceMin: "8",
     priceMax: "14",
     links: [

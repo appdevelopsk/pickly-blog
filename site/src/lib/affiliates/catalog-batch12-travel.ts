@@ -5,7 +5,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   // ── best-travel-fanny-pack-2026 ──────────────────────────────────────────
   {
     id: "osprey-daylite-waist",
-    imageUrl: "https://m.media-amazon.com/images/I/71HcDo-SRDL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71HcDo-SRDL._AC_SL1500_.jpg",
     priceMin: 55,
     priceMax: 70,
     category: "travel",
@@ -19,7 +19,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "patagonia-atom-sling-8l",
-    imageUrl: "https://m.media-amazon.com/images/I/61QFZpJ-+1L._AC_SX679_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61QFZpJ-+1L._AC_SX679_.jpg",
     priceMin: 79,
     priceMax: 89,
     category: "travel",
@@ -33,7 +33,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "lululemon-everywhere-belt-bag",
-    imageUrl: "https://m.media-amazon.com/images/I/51B2Bq18AGL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51B2Bq18AGL._AC_SL1500_.jpg",
     priceMin: 38,
     priceMax: 48,
     category: "travel",
@@ -47,7 +47,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "rei-co-op-trailgate-hip",
-    imageUrl: "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2023/07/IMG_3205.jpeg",,
+    imageUrl: "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2023/07/IMG_3205.jpeg",
     priceMin: 45,
     priceMax: 55,
     category: "travel",
@@ -61,7 +61,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "running-room-flipbelt-classic",
-    imageUrl: "https://m.media-amazon.com/images/I/61LlFwC6CtL._AC_UL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61LlFwC6CtL._AC_UL1500_.jpg",
     priceMin: 25,
     priceMax: 35,
     category: "travel",
@@ -77,7 +77,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   // ── best-travel-garment-bag-2026 ─────────────────────────────────────────
   {
     id: "briggs-riley-baseline-garment",
-    imageUrl: "https://m.media-amazon.com/images/I/91QdrHPgcVL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/91QdrHPgcVL._AC_SL1500_.jpg",
     priceMin: 299,
     priceMax: 349,
     category: "travel",
@@ -91,7 +91,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "travelpro-maxlite-5-garment",
-    imageUrl: "https://m.media-amazon.com/images/I/A1eSTu0H7SL._AC_SX679_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/A1eSTu0H7SL._AC_SX679_.jpg",
     priceMin: 99,
     priceMax: 139,
     category: "travel",
@@ -105,7 +105,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "samsonite-classic-business-garment",
-    imageUrl: "https://m.media-amazon.com/images/I/91W+k1e1BaL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/91W+k1e1BaL._AC_SL1500_.jpg",
     priceMin: 149,
     priceMax: 189,
     category: "travel",
@@ -119,7 +119,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "garment-packing-cube-packsmith",
-    imageUrl: "https://m.media-amazon.com/images/I/91JbGNj0XPL._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/91JbGNj0XPL._AC_.jpg",
     priceMin: 79,
     priceMax: 99,
     category: "travel",
@@ -133,7 +133,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "pb-travel-tri-fold-garment",
-    imageUrl: "https://m.media-amazon.com/images/I/81Uf4mlCw9L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81Uf4mlCw9L._AC_SL1500_.jpg",
     priceMin: 49,
     priceMax: 69,
     category: "travel",
@@ -149,7 +149,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   // ── best-hiking-daypack-2026 ──────────────────────────────────────────────
   {
     id: "osprey-talon-22",
-    imageUrl: "https://m.media-amazon.com/images/I/61Y9hYVdJvL._AC_SL1001_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61Y9hYVdJvL._AC_SL1001_.jpg",
     priceMin: 130,
     priceMax: 160,
     category: "travel",
@@ -163,7 +163,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "gregory-zulu-30",
-    imageUrl: "https://m.media-amazon.com/images/I/81wPK+IWFfL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81wPK+IWFfL._AC_SL1500_.jpg",
     priceMin: 160,
     priceMax: 200,
     category: "travel",
@@ -177,7 +177,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "deuter-speed-lite-24",
-    imageUrl: "https://m.media-amazon.com/images/I/71TGOYqDoUL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71TGOYqDoUL._AC_SL1500_.jpg",
     priceMin: 110,
     priceMax: 140,
     category: "travel",
@@ -191,7 +191,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "rei-co-op-flash-22",
-    imageUrl: "https://bikehikesafari.com/wp-content/uploads/2023/02/REI-Co-op-Flash-22.jpg",,
+    imageUrl: "https://bikehikesafari.com/wp-content/uploads/2023/02/REI-Co-op-Flash-22.jpg",
     priceMin: 79,
     priceMax: 99,
     category: "travel",
@@ -205,7 +205,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "black-diamond-pursuit-30",
-    imageUrl: "https://m.media-amazon.com/images/I/81OYQp4YM8L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81OYQp4YM8L._AC_SL1500_.jpg",
     priceMin: 149,
     priceMax: 179,
     category: "travel",
@@ -221,7 +221,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   // ── best-travel-sleep-mask-2026 ───────────────────────────────────────────
   {
     id: "manta-sleep-mask-pro",
-    imageUrl: "https://m.media-amazon.com/images/I/914LjwsgplL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/914LjwsgplL._AC_SL1500_.jpg",
     priceMin: 79,
     priceMax: 89,
     category: "travel",
@@ -235,7 +235,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "alaska-bear-silk-sleep-mask",
-    imageUrl: "https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A6CQF6TQU15UK/10bb65c5-7e51-4832-bab1-c78388bdf7d4._CR0,0,970,600_PT0_SX970__.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/A6CQF6TQU15UK/10bb65c5-7e51-4832-bab1-c78388bdf7d4._CR0,0,970,600_PT0_SX970__.jpg",
     priceMin: 12,
     priceMax: 18,
     category: "travel",
@@ -249,7 +249,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "tempur-pedic-sleep-mask",
-    imageUrl: "https://m.media-amazon.com/images/I/517-mCaKRyL._AC_SX425_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/517-mCaKRyL._AC_SX425_.jpg",
     priceMin: 25,
     priceMax: 35,
     category: "travel",
@@ -263,7 +263,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "bucky-40-blinks-mask",
-    imageUrl: "https://m.media-amazon.com/images/I/71tMiyyMtqL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71tMiyyMtqL._AC_SL1500_.jpg",
     priceMin: 9,
     priceMax: 14,
     category: "travel",
@@ -277,7 +277,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "drift-to-sleep-contour-mask",
-    imageUrl: "https://m.media-amazon.com/images/I/71XeNnWKV0L._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71XeNnWKV0L._AC_.jpg",
     priceMin: 8,
     priceMax: 13,
     category: "travel",
@@ -293,7 +293,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   // ── best-travel-hair-dryer-2026 ───────────────────────────────────────────
   {
     id: "conair-1600w-dual-voltage",
-    imageUrl: "https://m.media-amazon.com/images/I/61VhgNJTNxL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61VhgNJTNxL._AC_SL1500_.jpg",
     priceMin: 18,
     priceMax: 28,
     category: "travel",
@@ -307,7 +307,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "dyson-supersonic-travel",
-    imageUrl: "https://m.media-amazon.com/images/I/61iexiRP24L._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61iexiRP24L._SL1500_.jpg",
     priceMin: 429,
     priceMax: 499,
     category: "travel",
@@ -321,7 +321,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "remington-d3190-damage-protection",
-    imageUrl: "https://m.media-amazon.com/images/I/71ZyHPCc7wS._AC_SX679_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71ZyHPCc7wS._AC_SX679_.jpg",
     priceMin: 45,
     priceMax: 65,
     category: "travel",
@@ -335,7 +335,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "babyliss-pro-nano-titanium-travel",
-    imageUrl: "https://m.media-amazon.com/images/I/718T8B7PmLL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/718T8B7PmLL._SL1500_.jpg",
     priceMin: 89,
     priceMax: 119,
     category: "travel",
@@ -349,7 +349,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "revlon-one-step-travel",
-    imageUrl: "https://m.media-amazon.com/images/I/71mVFOZHVfL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71mVFOZHVfL._AC_SL1500_.jpg",
     priceMin: 25,
     priceMax: 40,
     category: "travel",
@@ -365,7 +365,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   // ── best-rolling-duffel-bag-2026 ─────────────────────────────────────────
   {
     id: "eagle-creek-cargo-hauler-wheel-duffel-130l",
-    imageUrl: "",
+    imageUrl: "https://media.s-bol.com/Rgz9Px7QBrYK/1200x876.jpg",
     priceMin: 299,
     priceMax: 349,
     category: "travel",
@@ -379,7 +379,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "north-face-rolling-thunder-30",
-    imageUrl: "https://m.media-amazon.com/images/I/61pQTMKZQQL._AC_UX385_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61pQTMKZQQL._AC_UX385_.jpg",
     priceMin: 149,
     priceMax: 179,
     category: "travel",
@@ -393,7 +393,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "patagonia-black-hole-wheeled-duffel-100l",
-    imageUrl: "https://wornwear.patagonia.com/cdn/shop/files/qwbx4ucjcwfh9xac4orm.jpg?v=1724164434",,
+    imageUrl: "https://wornwear.patagonia.com/cdn/shop/files/qwbx4ucjcwfh9xac4orm.jpg?v=1724164434",
     priceMin: 299,
     priceMax: 349,
     category: "travel",
@@ -407,7 +407,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "samsonite-wheeled-duffel-28",
-    imageUrl: "https://m.media-amazon.com/images/I/81GMWncDL7L._AC_SX679_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81GMWncDL7L._AC_SX679_.jpg",
     priceMin: 119,
     priceMax: 149,
     category: "travel",
@@ -421,7 +421,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "travelpro-crew-versapack-rolling-duffel",
-    imageUrl: "https://m.media-amazon.com/images/I/71Fs3-aBB-L._AC_SX569_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71Fs3-aBB-L._AC_SX569_.jpg",
     priceMin: 129,
     priceMax: 169,
     category: "travel",
@@ -437,7 +437,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   // ── best-weekender-bag-2026 ───────────────────────────────────────────────
   {
     id: "away-the-weekender-bag",
-    imageUrl: "https://s.yimg.com/ny/api/res/1.2/zXD6AR_.pB26kH1l3IhPEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD0xMDM1/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-06/36144340-9903-11e9-be7c-bc487beb65a3",,
+    imageUrl: "https://s.yimg.com/ny/api/res/1.2/zXD6AR_.pB26kH1l3IhPEA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD0xMDM1/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2019-06/36144340-9903-11e9-be7c-bc487beb65a3",
     priceMin: 195,
     priceMax: 225,
     category: "travel",
@@ -451,7 +451,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "herschel-novel-duffel-42l",
-    imageUrl: "https://m.media-amazon.com/images/I/61WJY450cWL._AC_SY879_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61WJY450cWL._AC_SY879_.jpg",
     priceMin: 69,
     priceMax: 89,
     category: "travel",
@@ -465,7 +465,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "filson-duffle-medium",
-    imageUrl: "https://m.media-amazon.com/images/I/61U-p+m1kVL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61U-p+m1kVL._AC_SL1500_.jpg",
     priceMin: 395,
     priceMax: 445,
     category: "travel",
@@ -479,7 +479,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "tumi-alpha-bravo-weekender",
-    imageUrl: "https://m.media-amazon.com/images/I/71PBAlZhB3L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71PBAlZhB3L._AC_SL1500_.jpg",
     priceMin: 395,
     priceMax: 445,
     category: "travel",
@@ -493,7 +493,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "everlane-weekend-bag",
-    imageUrl: "https://s.yimg.com/ny/api/res/1.2/ezXG_X5Yl5dHccsrjlNnnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MA--/https://media.zenfs.com/en/travel.travelleisure.com/9e55e91b1a872bc9eec3739ec23f26d5",,
+    imageUrl: "https://s.yimg.com/ny/api/res/1.2/ezXG_X5Yl5dHccsrjlNnnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MA--/https://media.zenfs.com/en/travel.travelleisure.com/9e55e91b1a872bc9eec3739ec23f26d5",
     priceMin: 75,
     priceMax: 95,
     category: "travel",
@@ -509,7 +509,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   // ── best-travel-jewelry-case-2026 ─────────────────────────────────────────
   {
     id: "wolf-cub-single-watch-roll",
-    imageUrl: "https://cdn.shopify.com/s/files/1/0721/9897/9877/files/461106_1_dc3d7106-c10c-47f0-88df-6d8053910da5_1200x.jpg?v=1697556794",,
+    imageUrl: "https://cdn.shopify.com/s/files/1/0721/9897/9877/files/461106_1_dc3d7106-c10c-47f0-88df-6d8053910da5_1200x.jpg?v=1697556794",
     priceMin: 89,
     priceMax: 119,
     category: "travel",
@@ -523,7 +523,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "stackers-travel-jewelry-case",
-    imageUrl: "https://m.media-amazon.com/images/I/81Is0DRw-SL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81Is0DRw-SL._AC_SL1500_.jpg",
     priceMin: 55,
     priceMax: 75,
     category: "travel",
@@ -537,7 +537,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "mele-co-giana-travel-jewelry-roll",
-    imageUrl: "https://m.media-amazon.com/images/I/815hg1iDUBL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/815hg1iDUBL._AC_SL1500_.jpg",
     priceMin: 22,
     priceMax: 32,
     category: "travel",
@@ -551,7 +551,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "bagsmart-jewelry-organizer",
-    imageUrl: "https://m.media-amazon.com/images/I/71uIL82PiZL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71uIL82PiZL._AC_SL1500_.jpg",
     priceMin: 18,
     priceMax: 28,
     category: "travel",
@@ -565,7 +565,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "draka-travel-jewelry-pouch",
-    imageUrl: "https://m.media-amazon.com/images/I/71mFqUk5M6L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71mFqUk5M6L._AC_SL1500_.jpg",
     priceMin: 9,
     priceMax: 15,
     category: "travel",
@@ -581,7 +581,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   // ── best-underwater-camera-2026 ───────────────────────────────────────────
   {
     id: "olympus-tough-tg-7",
-    imageUrl: "https://m.media-amazon.com/images/I/71mwBVnGBsL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71mwBVnGBsL._AC_SL1500_.jpg",
     priceMin: 379,
     priceMax: 429,
     category: "travel",
@@ -595,7 +595,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "gopro-hero13-black",
-    imageUrl: "https://m.media-amazon.com/images/I/615eTO83jLL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/615eTO83jLL.jpg",
     priceMin: 349,
     priceMax: 399,
     category: "travel",
@@ -609,7 +609,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "nikon-coolpix-w300",
-    imageUrl: "https://m.media-amazon.com/images/I/71uJOg99oIL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71uJOg99oIL._AC_SL1500_.jpg",
     priceMin: 299,
     priceMax: 349,
     category: "travel",
@@ -623,7 +623,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "akaso-brave-7-le",
-    imageUrl: "https://m.media-amazon.com/images/I/71JnAbIOeeL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71JnAbIOeeL._AC_SL1500_.jpg",
     priceMin: 129,
     priceMax: 159,
     category: "travel",
@@ -637,7 +637,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "fujifilm-instax-mini-evo-waterproof-case",
-    imageUrl: "https://m.media-amazon.com/images/I/71oY29wCzJL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71oY29wCzJL._AC_SL1500_.jpg",
     priceMin: 149,
     priceMax: 179,
     category: "travel",
@@ -653,7 +653,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   // ── best-travel-clothesline-2026 ─────────────────────────────────────────
   {
     id: "sea-to-summit-clothesline",
-    imageUrl: "https://m.media-amazon.com/images/I/71Rcz5zKgzL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71Rcz5zKgzL._AC_SL1500_.jpg",
     priceMin: 18,
     priceMax: 25,
     category: "travel",
@@ -667,7 +667,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "lewis-n-clark-portable-travel-clothesline",
-    imageUrl: "https://m.media-amazon.com/images/S/aplus-media/vc/f19e6703-e2cf-4fa2-ac87-ea95793b681b.__CR0,0,970,600_PT0_SX970_V1___.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media/vc/f19e6703-e2cf-4fa2-ac87-ea95793b681b.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     priceMin: 8,
     priceMax: 14,
     category: "travel",
@@ -681,7 +681,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "cocoon-travel-clothesline",
-    imageUrl: "https://www.outdoortrends.de/media/9f/ff/fa/1771525881/cocoon-travel-clothesline-waescheleine-coc-tcl1-_1_1771525881455.jpg?ts=1771525881",,
+    imageUrl: "https://www.outdoortrends.de/media/9f/ff/fa/1771525881/cocoon-travel-clothesline-waescheleine-coc-tcl1-_1_1771525881455.jpg?ts=1771525881",
     priceMin: 15,
     priceMax: 22,
     category: "travel",
@@ -695,7 +695,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "nite-ize-gear-tie-clothesline",
-    imageUrl: "https://m.media-amazon.com/images/I/71NGV+wtfzL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71NGV+wtfzL.jpg",
     priceMin: 10,
     priceMax: 16,
     category: "travel",
@@ -709,7 +709,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
   },
   {
     id: "travelon-elastic-travel-clothesline",
-    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0fb0e7a4-a4be-48b4-b180-3bf9521eae29.__CR0,0,970,600_PT0_SX970_V1___.png",,
+    imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0fb0e7a4-a4be-48b4-b180-3bf9521eae29.__CR0,0,970,600_PT0_SX970_V1___.png",
     priceMin: 6,
     priceMax: 10,
     category: "travel",

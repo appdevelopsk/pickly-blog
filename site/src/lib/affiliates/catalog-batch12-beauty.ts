@@ -5,7 +5,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   // ── best-lip-liner-2026 ────────────────────────────────────────────────────
   {
     id: "charlotte-tilbury-lip-cheat",
-    imageUrl: "https://m.media-amazon.com/images/I/61K82e9h3cL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61K82e9h3cL._SL1500_.jpg",
     priceMin: "24",
     priceMax: "28",
     category: "beauty",
@@ -19,7 +19,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "nyx-slim-lip-pencil",
-    imageUrl: "https://m.media-amazon.com/images/I/6148LGpukCL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/6148LGpukCL._AC_SL1500_.jpg",
     priceMin: "4",
     priceMax: "6",
     category: "beauty",
@@ -33,7 +33,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "urban-decay-24-7-glide-on",
-    imageUrl: "https://m.media-amazon.com/images/I/718VgSdJ+aL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/718VgSdJ+aL._SL1500_.jpg",
     priceMin: "22",
     priceMax: "25",
     category: "beauty",
@@ -47,7 +47,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "mac-lip-pencil-brick",
-    imageUrl: "https://m.media-amazon.com/images/I/61R3aHIcj5L._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61R3aHIcj5L._SL1500_.jpg",
     priceMin: "21",
     priceMax: "23",
     category: "beauty",
@@ -61,7 +61,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "elf-no-budge-lip-liner",
-    imageUrl: "https://images.squarespace-cdn.com/content/v1/51d151b1e4b05d425c859fc9/408532c1-85ea-4dc4-a976-0ec414c591eb/A7401603.jpg",,
+    imageUrl: "https://images.squarespace-cdn.com/content/v1/51d151b1e4b05d425c859fc9/408532c1-85ea-4dc4-a976-0ec414c591eb/A7401603.jpg",
     priceMin: "5",
     priceMax: "7",
     category: "beauty",
@@ -77,7 +77,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   // ── best-brow-gel-2026 ────────────────────────────────────────────────────
   {
     id: "anastasia-dipbrow-gel",
-    imageUrl: "https://m.media-amazon.com/images/I/51CpicewVhL._AC_SS450_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51CpicewVhL._AC_SS450_.jpg",
     priceMin: "25",
     priceMax: "28",
     category: "beauty",
@@ -91,7 +91,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "benefit-gimme-brow-plus",
-    imageUrl: "https://m.media-amazon.com/images/I/71xVSKk0F1L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71xVSKk0F1L._AC_SL1500_.jpg",
     priceMin: "26",
     priceMax: "30",
     category: "beauty",
@@ -105,7 +105,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "nyx-control-freak-brow-gel",
-    imageUrl: "https://m.media-amazon.com/images/I/61A86Lb7wuL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61A86Lb7wuL._SL1500_.jpg",
     priceMin: "9",
     priceMax: "11",
     category: "beauty",
@@ -119,7 +119,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "maybelline-brow-fast-sculptor",
-    imageUrl: "https://m.media-amazon.com/images/I/51gqZ3DkZ5L.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51gqZ3DkZ5L.jpg",
     priceMin: "8",
     priceMax: "10",
     category: "beauty",
@@ -133,7 +133,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "e-l-f-brow-lift",
-    imageUrl: "https://m.media-amazon.com/images/I/610qJYb80+L._SY450_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/610qJYb80+L._SY450_.jpg",
     priceMin: "10",
     priceMax: "12",
     category: "beauty",
@@ -149,7 +149,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   // ── best-highlighter-makeup-2026 ─────────────────────────────────────────
   {
     id: "becca-shimmering-skin-perfector",
-    imageUrl: "https://m.media-amazon.com/images/I/71bDqTAtK5L._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71bDqTAtK5L._SL1500_.jpg",
     priceMin: "40",
     priceMax: "46",
     category: "beauty",
@@ -163,7 +163,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "fenty-killawatt-highlighter",
-    imageUrl: "https://m.media-amazon.com/images/I/61WFVXb308L._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61WFVXb308L._AC_.jpg",
     priceMin: "36",
     priceMax: "40",
     category: "beauty",
@@ -177,7 +177,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "charlotte-tilbury-beauty-light-wand",
-    imageUrl: "https://m.media-amazon.com/images/I/51ReIqS6nXL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51ReIqS6nXL._AC_SL1500_.jpg",
     priceMin: "38",
     priceMax: "42",
     category: "beauty",
@@ -191,7 +191,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "nars-highlighting-powder",
-    imageUrl: "https://m.media-amazon.com/images/I/71c4i4KNdzL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71c4i4KNdzL._SL1500_.jpg",
     priceMin: "34",
     priceMax: "38",
     category: "beauty",
@@ -205,7 +205,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "elf-halo-glow-liquid-filter",
-    imageUrl: "https://m.media-amazon.com/images/I/61aFsJghCSL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61aFsJghCSL._SL1500_.jpg",
     priceMin: "14",
     priceMax: "16",
     category: "beauty",
@@ -221,7 +221,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   // ── best-self-tanner-2026 ────────────────────────────────────────────────
   {
     id: "st-tropez-self-tan-express",
-    imageUrl: "https://m.media-amazon.com/images/I/61i0YPYqA4L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61i0YPYqA4L._AC_SL1500_.jpg",
     priceMin: "42",
     priceMax: "50",
     category: "beauty",
@@ -235,7 +235,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "bondi-sands-aero-self-tanner",
-    imageUrl: "https://m.media-amazon.com/images/I/61AwpffSTxS._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61AwpffSTxS._AC_SL1500_.jpg",
     priceMin: "18",
     priceMax: "22",
     category: "beauty",
@@ -249,7 +249,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "jergens-natural-glow-daily",
-    imageUrl: "https://m.media-amazon.com/images/I/61IjlhHKD5L._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61IjlhHKD5L._SL1500_.jpg",
     priceMin: "9",
     priceMax: "12",
     category: "beauty",
@@ -263,7 +263,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "tarte-brazilliance-plus",
-    imageUrl: "https://m.media-amazon.com/images/I/51R1YgmaMPL._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51R1YgmaMPL._AC_.jpg",
     priceMin: "40",
     priceMax: "45",
     category: "beauty",
@@ -277,7 +277,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "isle-of-paradise-drops",
-    imageUrl: "https://m.media-amazon.com/images/I/61XDppNLjQL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61XDppNLjQL._SL1500_.jpg",
     priceMin: "32",
     priceMax: "38",
     category: "beauty",
@@ -293,7 +293,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   // ── best-hand-cream-2026 ─────────────────────────────────────────────────
   {
     id: "neutrogena-norwegian-formula-hand",
-    imageUrl: "https://m.media-amazon.com/images/I/61gKfmA7xBL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61gKfmA7xBL._SL1500_.jpg",
     priceMin: "7",
     priceMax: "10",
     category: "beauty",
@@ -307,7 +307,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "l-occitane-shea-butter-hand",
-    imageUrl: "https://m.media-amazon.com/images/I/81UHVKGxeIL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81UHVKGxeIL._AC_SL1500_.jpg",
     priceMin: "30",
     priceMax: "36",
     category: "beauty",
@@ -321,7 +321,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "aveeno-skin-relief-hand",
-    imageUrl: "https://m.media-amazon.com/images/I/71cniTCy1wL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71cniTCy1wL.jpg",
     priceMin: "8",
     priceMax: "11",
     category: "beauty",
@@ -335,7 +335,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "o-keeffe-working-hands",
-    imageUrl: "https://m.media-amazon.com/images/I/81zTboMmjHL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81zTboMmjHL.jpg",
     priceMin: "9",
     priceMax: "11",
     category: "beauty",
@@ -349,7 +349,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "aquaphor-healing-ointment-hand",
-    imageUrl: "https://m.media-amazon.com/images/I/61Qy33ehgVL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61Qy33ehgVL._AC_SL1500_.jpg",
     priceMin: "10",
     priceMax: "14",
     category: "beauty",
@@ -365,7 +365,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   // ── best-pimple-patches-2026 ─────────────────────────────────────────────
   {
     id: "hero-cosmetics-mighty-patch-original",
-    imageUrl: "https://m.media-amazon.com/images/I/31QUUyeB5lL._SX300_SY300_QL70_ML2_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/31QUUyeB5lL._SX300_SY300_QL70_ML2_.jpg",
     priceMin: "13",
     priceMax: "15",
     category: "beauty",
@@ -379,7 +379,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "cosrx-acne-pimple-master",
-    imageUrl: "https://m.media-amazon.com/images/I/61yiOUb7bNL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61yiOUb7bNL.jpg",
     priceMin: "6",
     priceMax: "9",
     category: "beauty",
@@ -393,7 +393,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "peach-slices-acne-spot-dots",
-    imageUrl: "https://m.media-amazon.com/images/I/61Sss91Y1LL._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61Sss91Y1LL._AC_.jpg",
     priceMin: "5",
     priceMax: "7",
     category: "beauty",
@@ -407,7 +407,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "starface-hydro-stars",
-    imageUrl: "https://m.media-amazon.com/images/I/51vNqQwBy6L._SL1000_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51vNqQwBy6L._SL1000_.jpg",
     priceMin: "22",
     priceMax: "25",
     category: "beauty",
@@ -421,7 +421,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "mighty-patch-invisible-plus",
-    imageUrl: "https://m.media-amazon.com/images/I/51Aa8lq06QL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51Aa8lq06QL.jpg",
     priceMin: "15",
     priceMax: "18",
     category: "beauty",
@@ -437,7 +437,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   // ── best-clay-mask-2026 ──────────────────────────────────────────────────
   {
     id: "aztec-secret-indian-healing-clay",
-    imageUrl: "https://m.media-amazon.com/images/I/71OElrEWgCL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71OElrEWgCL._SL1500_.jpg",
     priceMin: "10",
     priceMax: "14",
     category: "beauty",
@@ -451,7 +451,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "glamglow-supermud-clearing",
-    imageUrl: "https://m.media-amazon.com/images/I/71USrkhN+tL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71USrkhN+tL._AC_SL1500_.jpg",
     priceMin: "52",
     priceMax: "60",
     category: "beauty",
@@ -465,7 +465,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "origins-clear-improvement-charcoal",
-    imageUrl: "https://m.media-amazon.com/images/I/61m-G2mZKCL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61m-G2mZKCL._SL1500_.jpg",
     priceMin: "26",
     priceMax: "30",
     category: "beauty",
@@ -479,7 +479,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "innisfree-super-volcanic-pore",
-    imageUrl: "https://m.media-amazon.com/images/I/71OAKiRewkL._SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71OAKiRewkL._SL1500_.jpg",
     priceMin: "18",
     priceMax: "22",
     category: "beauty",
@@ -493,7 +493,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "freeman-feeling-beautiful-clay",
-    imageUrl: "https://m.media-amazon.com/images/I/91TaT67m2BL._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/91TaT67m2BL._AC_.jpg",
     priceMin: "4",
     priceMax: "6",
     category: "beauty",
@@ -509,7 +509,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   // ── best-eye-patches-2026 ────────────────────────────────────────────────
   {
     id: "peter-thomas-roth-cucumber-gel-eye",
-    imageUrl: "https://m.media-amazon.com/images/I/61fpdK5447L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61fpdK5447L._AC_SL1500_.jpg",
     priceMin: "52",
     priceMax: "58",
     category: "beauty",
@@ -523,7 +523,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "tarte-maracuja-eye-patches",
-    imageUrl: "https://m.media-amazon.com/images/I/51KKGJddB1L._SL1000_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51KKGJddB1L._SL1000_.jpg",
     priceMin: "38",
     priceMax: "44",
     category: "beauty",
@@ -537,7 +537,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "snp-prep-cicaronic-eye-patches",
-    imageUrl: "https://www.pinkland.co.nz/wp-content/uploads/2025/05/sn038-8.jpg",,
+    imageUrl: "https://www.pinkland.co.nz/wp-content/uploads/2025/05/sn038-8.jpg",
     priceMin: "10",
     priceMax: "14",
     category: "beauty",
@@ -551,7 +551,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "skyn-iceland-hydro-cool-firming",
-    imageUrl: "https://m.media-amazon.com/images/I/71od8USmRpL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71od8USmRpL._AC_SL1500_.jpg",
     priceMin: "30",
     priceMax: "36",
     category: "beauty",
@@ -565,7 +565,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "yes-to-cucumber-eye-gel-patches",
-    imageUrl: "https://d1flfk77wl2xk4.cloudfront.net/Assets/76/412/XL_p0087641276.jpg",,
+    imageUrl: "https://d1flfk77wl2xk4.cloudfront.net/Assets/76/412/XL_p0087641276.jpg",
     priceMin: "8",
     priceMax: "10",
     category: "beauty",
@@ -581,7 +581,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   // ── best-hair-growth-serum-2026 ──────────────────────────────────────────
   {
     id: "rogaine-minoxidil-5-percent-foam",
-    imageUrl: "https://m.media-amazon.com/images/I/81gx9e+WbuL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81gx9e+WbuL._AC_SL1500_.jpg",
     priceMin: "38",
     priceMax: "50",
     category: "beauty",
@@ -595,7 +595,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "the-ordinary-multi-peptide-serum",
-    imageUrl: "https://m.media-amazon.com/images/I/51xdLcc7IRL._AC_SL1079_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51xdLcc7IRL._AC_SL1079_.jpg",
     priceMin: "18",
     priceMax: "22",
     category: "beauty",
@@ -609,7 +609,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "nutrafol-edge-hair-serum",
-    imageUrl: "https://m.media-amazon.com/images/I/611uO3papGL._SX679_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/611uO3papGL._SX679_.jpg",
     priceMin: "88",
     priceMax: "98",
     category: "beauty",
@@ -623,7 +623,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "mielle-rosemary-mint-scalp-oil",
-    imageUrl: "https://m.media-amazon.com/images/I/71RNwYyzvxL._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71RNwYyzvxL._AC_.jpg",
     priceMin: "10",
     priceMax: "13",
     category: "beauty",
@@ -637,7 +637,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "vegamour-gro-hair-serum",
-    imageUrl: "https://m.media-amazon.com/images/I/61NL8Ur1FuL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61NL8Ur1FuL._AC_SL1500_.jpg",
     priceMin: "58",
     priceMax: "68",
     category: "beauty",
@@ -653,7 +653,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   // ── best-cream-blush-2026 ────────────────────────────────────────────────
   {
     id: "nars-orgasm-blush-cream",
-    imageUrl: "https://m.media-amazon.com/images/I/611dCm9JkAL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/611dCm9JkAL._AC_SL1500_.jpg",
     priceMin: "36",
     priceMax: "40",
     category: "beauty",
@@ -667,7 +667,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "rare-beauty-soft-pinch-blush",
-    imageUrl: "https://m.media-amazon.com/images/I/61lZ76JXgKL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61lZ76JXgKL.jpg",
     priceMin: "22",
     priceMax: "24",
     category: "beauty",
@@ -681,7 +681,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "milk-makeup-lip-cheek",
-    imageUrl: "https://m.media-amazon.com/images/I/61PJgEt1u9L._AC_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61PJgEt1u9L._AC_.jpg",
     priceMin: "24",
     priceMax: "28",
     category: "beauty",
@@ -695,7 +695,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "benefit-benetint-cheek",
-    imageUrl: "https://m.media-amazon.com/images/I/618BiTifskL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/618BiTifskL.jpg",
     priceMin: "35",
     priceMax: "40",
     category: "beauty",
@@ -709,7 +709,7 @@ export const CATALOG_BATCH12_BEAUTY: AffiliateOffer[] = [
   },
   {
     id: "e-l-f-monochromatic-cream-blush",
-    imageUrl: "https://m.media-amazon.com/images/I/614rBA0ZLmL.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/614rBA0ZLmL.jpg",
     priceMin: "8",
     priceMax: "10",
     category: "beauty",

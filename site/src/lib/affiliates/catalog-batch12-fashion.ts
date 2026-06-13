@@ -5,7 +5,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   // --- best-mens-sneakers-2026 ---
   {
     id: "new-balance-990v6",
-    imageUrl: "https://m.media-amazon.com/images/I/51i-emZa0rL._AC_SL1000_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51i-emZa0rL._AC_SL1000_.jpg",
     priceMin: 185,
     priceMax: 200,
     category: "fashion",
@@ -19,7 +19,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "adidas-samba-og",
-    imageUrl: "https://m.media-amazon.com/images/I/61wYbVMG+-L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61wYbVMG+-L._AC_SL1500_.jpg",
     priceMin: 100,
     priceMax: 110,
     category: "fashion",
@@ -33,7 +33,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "nike-air-max-90",
-    imageUrl: "https://m.media-amazon.com/images/I/61jns0L2RUL._AC_UY625_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61jns0L2RUL._AC_UY625_.jpg",
     priceMin: 110,
     priceMax: 130,
     category: "fashion",
@@ -47,7 +47,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "asics-gel-1130",
-    imageUrl: "https://m.media-amazon.com/images/I/61FaMBWaTwL._AC_SL1425_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61FaMBWaTwL._AC_SL1425_.jpg",
     priceMin: 80,
     priceMax: 95,
     category: "fashion",
@@ -61,7 +61,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "vans-old-skool-36-dx",
-    imageUrl: "https://media.sivasdescalzo.com/media/catalog/product/V/N/VN0A54F3103_sivasdescalzo-Vans-UA_OLD_SKOOL_36_DX-1633358504-2.jpg?quality=70&auto=webp&fit=bounds&width=950",,
+    imageUrl: "https://media.sivasdescalzo.com/media/catalog/product/V/N/VN0A54F3103_sivasdescalzo-Vans-UA_OLD_SKOOL_36_DX-1633358504-2.jpg?quality=70&auto=webp&fit=bounds&width=950",
     priceMin: 75,
     priceMax: 90,
     category: "fashion",
@@ -77,7 +77,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   // --- best-womens-sneakers-2026 ---
   {
     id: "new-balance-574-womens",
-    imageUrl: "https://m.media-amazon.com/images/I/81BrWsS1eTL._AC_UL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81BrWsS1eTL._AC_UL1500_.jpg",
     priceMin: 80,
     priceMax: 90,
     category: "fashion",
@@ -91,7 +91,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "adidas-gazelle-bold-womens",
-    imageUrl: "https://m.media-amazon.com/images/I/714atv1LI2L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/714atv1LI2L._AC_SL1500_.jpg",
     priceMin: 100,
     priceMax: 110,
     category: "fashion",
@@ -105,7 +105,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "nike-cortez-womens",
-    imageUrl: "https://m.media-amazon.com/images/I/51Kq5VVpRoL._AC_SL1100_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51Kq5VVpRoL._AC_SL1100_.jpg",
     priceMin: 75,
     priceMax: 85,
     category: "fashion",
@@ -119,7 +119,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "onitsuka-tiger-mexico-66-womens",
-    imageUrl: "https://images.asics.com/is/image/asics/1183B566_201_SR_RT_GLB?qlt=80&wid=350&hei=300&bgc=255,255,255&resMode=bisharp",,
+    imageUrl: "https://images.asics.com/is/image/asics/1183B566_201_SR_RT_GLB?qlt=80&wid=350&hei=300&bgc=255,255,255&resMode=bisharp",
     priceMin: 120,
     priceMax: 135,
     category: "fashion",
@@ -133,7 +133,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "converse-chuck-70-womens",
-    imageUrl: "https://m.media-amazon.com/images/I/81hUHCY-i1L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81hUHCY-i1L._AC_SL1500_.jpg",
     priceMin: 85,
     priceMax: 95,
     category: "fashion",
@@ -149,7 +149,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   // --- best-ballet-flats-2026 ---
   {
     id: "repetto-cendrillon-ballet-flat",
-    imageUrl: "https://thefrench.com/wp-content/uploads/2023/08/Repetto-cendrillon-flats-IMG_1896.jpg",,
+    imageUrl: "https://thefrench.com/wp-content/uploads/2023/08/Repetto-cendrillon-flats-IMG_1896.jpg",
     priceMin: 245,
     priceMax: 265,
     category: "fashion",
@@ -163,7 +163,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "sam-edelman-felicia-flat",
-    imageUrl: "https://m.media-amazon.com/images/I/51inOIxT1rL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/51inOIxT1rL._AC_SL1500_.jpg",
     priceMin: 60,
     priceMax: 75,
     category: "fashion",
@@ -177,7 +177,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "tieks-by-gavrieli-ballet-flat",
-    imageUrl: "https://tieks.com/media/poppy2019_hp_slide.jpg",,
+    imageUrl: "https://tieks.com/media/poppy2019_hp_slide.jpg",
     priceMin: 195,
     priceMax: 225,
     category: "fashion",
@@ -191,7 +191,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "madewell-the-bowed-ballet-flat",
-    imageUrl: "https://www.madewell.com/images/NN901_BK5229_d4?wid=1400&hei=1779&fmt=jpeg&fit=crop&qlt=75",,
+    imageUrl: "https://www.madewell.com/images/NN901_BK5229_d4?wid=1400&hei=1779&fmt=jpeg&fit=crop&qlt=75",
     priceMin: 128,
     priceMax: 138,
     category: "fashion",
@@ -205,7 +205,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "amazon-essentials-ballet-flat",
-    imageUrl: "https://m.media-amazon.com/images/I/71EI4a3IYsL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71EI4a3IYsL._AC_SL1500_.jpg",
     priceMin: 25,
     priceMax: 38,
     category: "fashion",
@@ -221,7 +221,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   // --- best-wide-leg-pants-2026 ---
   {
     id: "agolde-low-slung-baggy-jeans",
-    imageUrl: "https://is4.revolveassets.com/images/p4/n/z/AGOL-WJ488_V1.jpg",,
+    imageUrl: "https://is4.revolveassets.com/images/p4/n/z/AGOL-WJ488_V1.jpg",
     priceMin: 198,
     priceMax: 228,
     category: "fashion",
@@ -235,7 +235,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "reformation-veda-wide-leg-pant",
-    imageUrl: "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/refor/refor411681071b/refor411681071b_1701204431008_2-0._QL90_UX1128_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/refor/refor411681071b/refor411681071b_1701204431008_2-0._QL90_UX1128_.jpg",
     priceMin: 148,
     priceMax: 178,
     category: "fashion",
@@ -249,7 +249,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "citizens-of-humanity-paloma-wide",
-    imageUrl: "https://www.mytheresa.com/media/1094/1238/100/29/P01115534_d1.jpg",,
+    imageUrl: "https://www.mytheresa.com/media/1094/1238/100/29/P01115534_d1.jpg",
     priceMin: 238,
     priceMax: 258,
     category: "fashion",
@@ -263,7 +263,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "free-people-good-luck-wide-leg",
-    imageUrl: "https://u-mercari-images.mercdn.net/photos/m64331474910_1.jpg",,
+    imageUrl: "https://u-mercari-images.mercdn.net/photos/m64331474910_1.jpg",
     priceMin: 78,
     priceMax: 98,
     category: "fashion",
@@ -277,7 +277,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "target-universal-thread-wide-leg",
-    imageUrl: "https://parade.com/.image/t_share/MjA5NzI3MjQxNDc3Njk1MTQ1/target-universal-thread-high-rise-tailored-wide-leg-jeans-medium-wash.jpg",,
+    imageUrl: "https://parade.com/.image/t_share/MjA5NzI3MjQxNDc3Njk1MTQ1/target-universal-thread-high-rise-tailored-wide-leg-jeans-medium-wash.jpg",
     priceMin: 35,
     priceMax: 45,
     category: "fashion",
@@ -293,7 +293,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   // --- best-linen-shirt-2026 ---
   {
     id: "officine-generale-linen-shirt",
-    imageUrl: "https://cdn.clothbase.com/uploads/535f07e8-864d-4034-bebe-71ed232c12f0/image.jpg",,
+    imageUrl: "https://cdn.clothbase.com/uploads/535f07e8-864d-4034-bebe-71ed232c12f0/image.jpg",
     priceMin: 200,
     priceMax: 280,
     category: "fashion",
@@ -307,7 +307,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "uniqlo-premium-linen-shirt",
-    imageUrl: "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/404406/item/goods_66_404406.jpg?width=2000",,
+    imageUrl: "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/404406/item/goods_66_404406.jpg?width=2000",
     priceMin: 49,
     priceMax: 59,
     category: "fashion",
@@ -321,7 +321,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "everlane-relaxed-linen-shirt",
-    imageUrl: "https://media.everlane.com/image/upload/c_fill,w_3840,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/f0a262be_eb9d",,
+    imageUrl: "https://media.everlane.com/image/upload/c_fill,w_3840,ar_4:5,q_auto,dpr_1.0,f_auto,fl_progressive:steep/i/f0a262be_eb9d",
     priceMin: 88,
     priceMax: 108,
     category: "fashion",
@@ -335,7 +335,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "buck-mason-washed-linen-shirt",
-    imageUrl: "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BW13323.663FSD_CROSSHATCH_LINEN_ARTIST_SHIRT_FLAXSEED.jpg?v=1714585610",,
+    imageUrl: "https://cdn.shopify.com/s/files/1/0123/5065/2473/files/BW13323.663FSD_CROSSHATCH_LINEN_ARTIST_SHIRT_FLAXSEED.jpg?v=1714585610",
     priceMin: 138,
     priceMax: 148,
     category: "fashion",
@@ -349,7 +349,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "h-and-m-linen-shirt",
-    imageUrl: "https://image.hm.com/assets/hm/ed/77/ed7769953b45eae9248ed180990de4e8ce495097.jpg?imwidth=2160",,
+    imageUrl: "https://image.hm.com/assets/hm/ed/77/ed7769953b45eae9248ed180990de4e8ce495097.jpg?imwidth=2160",
     priceMin: 25,
     priceMax: 35,
     category: "fashion",
@@ -365,7 +365,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   // --- best-bomber-jacket-2026 ---
   {
     id: "alpha-industries-ma-1-bomber",
-    imageUrl: "https://m.media-amazon.com/images/I/612KWDDIdaL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/612KWDDIdaL._AC_SL1500_.jpg",
     priceMin: 150,
     priceMax: 185,
     category: "fashion",
@@ -379,7 +379,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "acne-studios-mihara-bomber",
-    imageUrl: "https://www.acnestudios.com/dw/image/v2/AAXV_PRD/on/demandware.static/-/Sites-acne-product-catalog/default/dw7b9e1be5/images/B9/B90864-/2000x/B90864-900_C.jpg?sw=560&sh=840",,
+    imageUrl: "https://www.acnestudios.com/dw/image/v2/AAXV_PRD/on/demandware.static/-/Sites-acne-product-catalog/default/dw7b9e1be5/images/B9/B90864-/2000x/B90864-900_C.jpg?sw=560&sh=840",
     priceMin: 700,
     priceMax: 900,
     category: "fashion",
@@ -393,7 +393,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "topman-satin-bomber-jacket",
-    imageUrl: "https://di2ponv0v5otw.cloudfront.net/posts/2024/02/05/65c1d29f97b5d089f085bbc8/m_65c1d2bd1645f7075779eef3.jpg",,
+    imageUrl: "https://di2ponv0v5otw.cloudfront.net/posts/2024/02/05/65c1d29f97b5d089f085bbc8/m_65c1d2bd1645f7075779eef3.jpg",
     priceMin: 80,
     priceMax: 105,
     category: "fashion",
@@ -407,7 +407,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "levi-bomber-jacket-cotton",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/917DNl8%2B45L._AC_UX425_.jpg",,
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/917DNl8%2B45L._AC_UX425_.jpg",
     priceMin: 110,
     priceMax: 130,
     category: "fashion",
@@ -421,7 +421,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "zara-bomber-jacket-basic",
-    imageUrl: "http://garmisland.com/cdn/shop/products/image_5606602a-0fb6-4315-a84d-8c5a95110388.jpg?v=1668271428",,
+    imageUrl: "http://garmisland.com/cdn/shop/products/image_5606602a-0fb6-4315-a84d-8c5a95110388.jpg?v=1668271428",
     priceMin: 50,
     priceMax: 70,
     category: "fashion",
@@ -437,7 +437,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   // --- best-maxi-dress-2026 ---
   {
     id: "reformation-linen-maxi-dress",
-    imageUrl: "https://cdn.saksfifthavenue.com/is/image/saks/0400022860985_SERENITY_A2?wid=600&hei=800&qlt=90&resMode=sharp2&op_usm=0.9%2C1.0%2C8%2C0",,
+    imageUrl: "https://cdn.saksfifthavenue.com/is/image/saks/0400022860985_SERENITY_A2?wid=600&hei=800&qlt=90&resMode=sharp2&op_usm=0.9%2C1.0%2C8%2C0",
     priceMin: 198,
     priceMax: 278,
     category: "fashion",
@@ -451,7 +451,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "free-people-fp-one-maxi",
-    imageUrl: "https://images.urbndata.com/is/image/FreePeople/97252704_040_a/?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=640",,
+    imageUrl: "https://images.urbndata.com/is/image/FreePeople/97252704_040_a/?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=640",
     priceMin: 128,
     priceMax: 158,
     category: "fashion",
@@ -465,7 +465,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "anthropologie-lenora-maxi",
-    imageUrl: "https://images.urbndata.com/is/image/Anthropologie/4130211620047_031_b?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=640",,
+    imageUrl: "https://images.urbndata.com/is/image/Anthropologie/4130211620047_031_b?$a15-pdp-detail-shot$&fit=constrain&qlt=80&wid=640",
     priceMin: 148,
     priceMax: 188,
     category: "fashion",
@@ -479,7 +479,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "madewell-lucie-maxi-dress",
-    imageUrl: "https://di2ponv0v5otw.cloudfront.net/posts/2023/01/18/63c8605fbd66cdc7dcafc9d3/m_63c8605fbd66cdc7dcafc9d4.jpg",,
+    imageUrl: "https://di2ponv0v5otw.cloudfront.net/posts/2023/01/18/63c8605fbd66cdc7dcafc9d3/m_63c8605fbd66cdc7dcafc9d4.jpg",
     priceMin: 128,
     priceMax: 148,
     category: "fashion",
@@ -493,7 +493,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "amazon-daily-ritual-maxi-dress",
-    imageUrl: "https://m.media-amazon.com/images/I/71WQ4B6s49L._AC_UL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71WQ4B6s49L._AC_UL1500_.jpg",
     priceMin: 30,
     priceMax: 42,
     category: "fashion",
@@ -509,7 +509,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   // --- best-wrap-dress-2026 ---
   {
     id: "diane-von-furstenberg-julian-wrap",
-    imageUrl: "https://m.media-amazon.com/images/I/81ociEfRPuL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/81ociEfRPuL._AC_SL1500_.jpg",
     priceMin: 350,
     priceMax: 498,
     category: "fashion",
@@ -523,7 +523,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "faithfull-the-brand-wrap-dress",
-    imageUrl: "https://is4.revolveassets.com/images/p4/n/z/FAIB-WD179_V1.jpg",,
+    imageUrl: "https://is4.revolveassets.com/images/p4/n/z/FAIB-WD179_V1.jpg",
     priceMin: 165,
     priceMax: 220,
     category: "fashion",
@@ -537,7 +537,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "revolve-astr-wrap-dress",
-    imageUrl: "https://is4.revolveassets.com/images/p4/n/uv/ASTR-WD722_V1.jpg",,
+    imageUrl: "https://is4.revolveassets.com/images/p4/n/uv/ASTR-WD722_V1.jpg",
     priceMin: 98,
     priceMax: 148,
     category: "fashion",
@@ -551,7 +551,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "banana-republic-wrap-midi-dress",
-    imageUrl: "https://bananarepublicfactory.gapfactory.com/webcontent/0027/816/421/cn27816421.jpg",,
+    imageUrl: "https://bananarepublicfactory.gapfactory.com/webcontent/0027/816/421/cn27816421.jpg",
     priceMin: 130,
     priceMax: 180,
     category: "fashion",
@@ -565,7 +565,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "asos-design-wrap-midi-dress",
-    imageUrl: "https://images.asos-media.com/products/asos-design-wrap-tux-midi-dress-with-shoulder-pads-in-black/204176533-1-black?$n_640w$&wid=513&fit=constrain",,
+    imageUrl: "https://images.asos-media.com/products/asos-design-wrap-tux-midi-dress-with-shoulder-pads-in-black/204176533-1-black?$n_640w$&wid=513&fit=constrain",
     priceMin: 40,
     priceMax: 60,
     category: "fashion",
@@ -581,7 +581,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   // --- best-baseball-cap-2026 ---
   {
     id: "new-era-9forty-adjustable-cap",
-    imageUrl: "https://m.media-amazon.com/images/I/71qnRojld6L._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71qnRojld6L._AC_SL1500_.jpg",
     priceMin: 28,
     priceMax: 38,
     category: "fashion",
@@ -595,7 +595,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "carhartt-wip-backley-cap",
-    imageUrl: "https://m.media-amazon.com/images/I/61ZA6f7D-iL._AC_SL1200_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/61ZA6f7D-iL._AC_SL1200_.jpg",
     priceMin: 35,
     priceMax: 45,
     category: "fashion",
@@ -609,7 +609,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "nike-dri-fit-swoosh-cap",
-    imageUrl: "https://m.media-amazon.com/images/I/71ztbxtLMgL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71ztbxtLMgL._AC_SL1500_.jpg",
     priceMin: 25,
     priceMax: 32,
     category: "fashion",
@@ -623,7 +623,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "polo-ralph-lauren-classic-cap",
-    imageUrl: "https://m.media-amazon.com/images/I/615YA7V5CeL._AC_UL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/615YA7V5CeL._AC_UL1500_.jpg",
     priceMin: 40,
     priceMax: 60,
     category: "fashion",
@@ -637,7 +637,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "flexfit-110-pro-formance-cap",
-    imageUrl: "https://m.media-amazon.com/images/I/71y5FplxEtL._AC_SL1500_.jpg",,
+    imageUrl: "https://m.media-amazon.com/images/I/71y5FplxEtL._AC_SL1500_.jpg",
     priceMin: 18,
     priceMax: 28,
     category: "fashion",
@@ -653,7 +653,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   // --- best-hoop-earrings-2026 ---
   {
     id: "mejuri-bold-hoops-14k",
-    imageUrl: "https://cdn.shopify.com/s/files/1/0631/8568/2616/files/0-NEWYEARESSENTIALSREFRESH-PaveDiamondBoldSmallHoops15mm-14K-Angled_053.jpg?v=1722952099",,
+    imageUrl: "https://cdn.shopify.com/s/files/1/0631/8568/2616/files/0-NEWYEARESSENTIALSREFRESH-PaveDiamondBoldSmallHoops15mm-14K-Angled_053.jpg?v=1722952099",
     priceMin: 148,
     priceMax: 248,
     category: "fashion",
@@ -667,7 +667,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "gorjana-power-gemstone-hoops",
-    imageUrl: "https://images.bloomingdalesassets.com/is/image/BLM/products/7/optimized/10822857_fpx.tif?op_sharpen=1&wid=700&fit=fit,1&$filtersm$",,
+    imageUrl: "https://images.bloomingdalesassets.com/is/image/BLM/products/7/optimized/10822857_fpx.tif?op_sharpen=1&wid=700&fit=fit,1&$filtersm$",
     priceMin: 58,
     priceMax: 88,
     category: "fashion",
@@ -681,7 +681,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "pandora-sterling-hoop-earrings",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/71cJQkHF1FL._AC_UL1500_.jpg",,
+    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/71cJQkHF1FL._AC_UL1500_.jpg",
     priceMin: 55,
     priceMax: 85,
     category: "fashion",
@@ -695,7 +695,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "missoma-gold-vermeil-hoops",
-    imageUrl: "https://us.missoma.com/cdn/shop/products/mini-tidal-hoop-earrings-18ct-gold-plated-vermeil-earrings-missoma-631971.jpg?v=1697465984",,
+    imageUrl: "https://us.missoma.com/cdn/shop/products/mini-tidal-hoop-earrings-18ct-gold-plated-vermeil-earrings-missoma-631971.jpg?v=1697465984",
     priceMin: 78,
     priceMax: 128,
     category: "fashion",
@@ -709,7 +709,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
   },
   {
     id: "baublebar-pisa-hoop-earrings",
-    imageUrl: "https://product-images.thecoolhour.com/images/unscaled/baublebar_baublebar_pisa_layered_hoop_earrings.jpg",,
+    imageUrl: "https://product-images.thecoolhour.com/images/unscaled/baublebar_baublebar_pisa_layered_hoop_earrings.jpg",
     priceMin: 28,
     priceMax: 48,
     category: "fashion",
