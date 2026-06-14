@@ -7,7 +7,7 @@
       "heading": "Nasıl karşılaştırdık",
       "paragraphs": [
         "NIST izlenebilir kalibrasyon testleri yapmadık. Bu beş monitörün hiçbirini Federal Equivalent Method (FEM) veya Federal Reference Method (FRM) aleti ile karşılaştırmadık — pahalı, eğitimli operatörler ile kontrollü örnekleme koşulları gerektiren düzenleyici sınıf ekipman türü.",
-        "Yaptıklarımız: her ürün için üretici tarafından yayımlanan bileşen sensör veri sayfalarını inceledik, tüketici CO2 ve PM2.5 monitörlerini referans aletlerle karşılaştıran akademik kurumların iç mekan hava kalitesi araştırma gruplarının yayımladığı bağımsız sensör değerlendirmeleriyle çapraz referans yaptık ve Amazon Japan, Rakuten Ichiba'da toplanan uzun vadeli sahip raporlarını inceledik.",
+        "Yaptıklarımız: her ürün için üretici tarafından yayımlanan bileşen sensör veri sayfalarını inceledik, tüketici CO2 ve PM2.5 monitörlerini referans aletlerle karşılaştıran akademik kurumların iç mekan hava kalitesi araştırma gruplarının yayımladığı bağımsız sensör değerlendirmeleriyle çapraz referans yaptık ve doğrulanmış alıcı yorumlarından toplanan uzun vadeli sahip raporlarını inceledik.",
         "İki ayrım buradaki analizin neredeyse tamamını şekillendiriyor. Birincisi: CO2 ölçümü ve PM2.5 ölçümü farklı sensör teknolojileri gerektiren fiziksel olarak farklı problemlerdir. İkincisi: ekrandaki sayı odanızdaki kirletici konsantrasyonu değil — üreticinin uyguladığı kalibrasyon algoritması tarafından düzeltilmiş, son kalibrasyondan bu yana sensörün biriktirdiği kaymayla birlikte sensör girişindeki konsantrasyondur."
       ]
     },
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "heading": "Japonya piyasa bağlamı",
+      "heading": "Dış hava kalitesi bağlamı",
       "paragraphs": [
         "Japonya'nın dış hava kalitesi mevsime ve coğrafyaya göre önemli ölçüde değişiyor. Çin anakarasındaki endüstriyel kaynaklardan PM2.5'in sınır ötesi taşınması kış ve ilkbaharda en yoğun oluyor.",
         "Sarı toz (黄砂, kosa), PM2.5'ten farklı bir fenomen ama zamansal olarak ilişkili.",
@@ -56,7 +56,7 @@
     {
       "heading": "Seçimimiz ve dürüst uyarılar",
       "paragraphs": [
-        "Japonya'daki ilk veya tek hava kalitesi monitörünü arayan çoğu hane için: Kaiterra Laser Egg+ CO2 en dengeli seçim.",
+        "İlk veya tek hava kalitesi monitörünü arayan çoğu hane için: Kaiterra Laser Egg+ CO2 en dengeli seçim.",
         "Bütçe temel kısıtsa ve CO2 temel endişenizse: Inkbird IAM-T1.",
         "Akıllı ev otomasyonu temel kullanım durumunuzsa: Awair Element.",
         "Tüm beş ürün için geçerli bir uyarı: hava kalitesi monitörleriyle en yaygın hata, birimi nefes aldığınız yeri temsil etmeyen bir konuma yerleştirmektir."
@@ -89,7 +89,7 @@
       "a": "Awair Score gibi bileşik endeksler hızlı kontrol paneli bakışı olarak kullanışlıdır — yüksek puan tüm sensörlerin kabul edilebilir aralıklarda olduğu anlamına gelir, düşük puan bir şeyin dikkat gerektirdiği anlamına gelir. Sınırlama, opaklık."
     },
     {
-      "q": "Japonya'nın ilkbahar PM2.5 ve sarı toz mevsiminde hangi sensör en önemlidir?",
+      "q": "İlkbahar PM2.5 ve sarı toz mevsiminde hangi sensör en önemlidir?",
       "a": "Çin anakarasından sınır ötesi kirlilik olayları (Aralık-Nisan yoğunlaşmış) ve Orta Asya çöllerinden sarı toz (kosa, 黄砂) olayları (Mart-Mayıs) sırasında PM2.5 birincil endişedir."
     },
     {
@@ -104,7 +104,7 @@
     "govee-air-quality-monitor": "Govee Air Quality Monitor H5106 CO2, PM2.5, sıcaklık ve nemi kapsıyor — bu karşılaştırmada en iyi sensör sayısı başına fiyat oranı.",
     "kaiterra-laser-egg-co2": "Kaiterra Laser Egg+ CO2, bu karşılaştırmada en okunabilir bağımsız monitör: CO2, PM2.5, sıcaklık ve nem uygulama, bulut bağlantısı veya telefon gerektirmeden yumurta şeklindeki birimde açıkça görüntüleniyor."
   },
-  "pinDescription": "Japonya 2026 için sıralanan 5 hava kalitesi monitörü — Awair Element 5 sensör ile IQAir AirVisual Node pro sınıf ile Kaiterra Laser Egg bağımsız ekran ile Inkbird bütçe CO2 ile Govee hepsi bir arada. CO2 doğruluk sınırları açıklandı. PM2.5 ve sarı toz mevsimi rehberi.",
+  "pinDescription": "2026 için sıralanan 5 hava kalitesi monitörü — Awair Element 5 sensör ile IQAir AirVisual Node pro sınıf ile Kaiterra Laser Egg bağımsız ekran ile Inkbird bütçe CO2 ile Govee hepsi bir arada. CO2 doğruluk sınırları açıklandı. PM2.5 ve sarı toz mevsimi rehberi.",
   "methodology": "Her ürünü gerçek dünya dayanıklılığı, günlük kullanım kolaylığı, pazarlama iddialarına karşı performans, yapı kalitesi ve uzun vadeli değer açısından değerlendirdik.",
   "products": [
     {

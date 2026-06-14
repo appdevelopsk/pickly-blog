@@ -7,7 +7,7 @@
       "heading": "Bagaimana kami membandingkan",
       "paragraphs": [
         "Kami tidak melakukan pengujian kalibrasi yang dapat ditelusuri ke NIST. Kami tidak membandingkan satupun dari lima monitor ini dengan instrumen Federal Equivalent Method (FEM) atau Federal Reference Method (FRM) — jenis peralatan tingkat regulasi mahal yang memerlukan operator terlatih serta kondisi pengambilan sampel yang terkontrol.",
-        "Yang kami lakukan: meninjau lembar data sensor komponen yang diterbitkan produsen untuk setiap produk, membandingkan silang dengan evaluasi sensor independen yang diterbitkan dari kelompok penelitian kualitas udara dalam ruangan di institusi akademik, dan meninjau laporan pemilik jangka panjang yang teragregasi di Amazon Japan dan Rakuten Ichiba.",
+        "Yang kami lakukan: meninjau lembar data sensor komponen yang diterbitkan produsen untuk setiap produk, membandingkan silang dengan evaluasi sensor independen yang diterbitkan dari kelompok penelitian kualitas udara dalam ruangan di institusi akademik, dan meninjau laporan pemilik jangka panjang yang teragregasi dari ulasan pembeli terverifikasi.",
         "Dua perbedaan membentuk hampir semua analisis di sini. Pertama: pengukuran CO2 dan pengukuran PM2.5 adalah masalah fisika yang berbeda yang membutuhkan teknologi sensor berbeda. Kedua: angka pada tampilan bukan konsentrasi polutan di ruangan Anda — itu adalah konsentrasi di inlet sensor, dikoreksi oleh algoritma kalibrasi yang diterapkan produsen."
       ]
     },
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "heading": "Konteks pasar Jepang",
+      "heading": "Konteks kualitas udara luar ruangan",
       "paragraphs": [
         "Kualitas udara luar Jepang bervariasi secara signifikan menurut musim dan geografi. Transportasi PM2.5 lintas batas dari sumber industri di daratan China paling terkonsentrasi di musim dingin dan semi.",
         "Debu kuning (黄砂, kosa) adalah fenomena yang berbeda dari PM2.5 tetapi terkait dalam waktu.",
@@ -56,7 +56,7 @@
     {
       "heading": "Pilihan kami dan peringatan jujur",
       "paragraphs": [
-        "Untuk sebagian besar rumah tangga di Jepang yang mencari monitor kualitas udara pertama atau satu-satunya: Kaiterra Laser Egg+ CO2 adalah pilihan yang paling seimbang.",
+        "Untuk sebagian besar rumah tangga yang mencari monitor kualitas udara pertama atau satu-satunya: Kaiterra Laser Egg+ CO2 adalah pilihan yang paling seimbang.",
         "Jika anggaran adalah kendala utama dan CO2 adalah perhatian utama Anda: Inkbird IAM-T1.",
         "Jika otomasi rumah pintar adalah kasus penggunaan utama Anda: Awair Element.",
         "Satu peringatan yang berlaku untuk semua lima produk: kesalahan paling umum dengan monitor kualitas udara adalah menempatkan unit di lokasi yang tidak mewakili tempat Anda bernapas."
@@ -89,7 +89,7 @@
       "a": "Indeks komposit seperti Awair Score berguna sebagai tampilan sekilas dasbor yang cepat — skor tinggi berarti semua sensor berada dalam rentang yang dapat diterima, skor rendah berarti sesuatu perlu diperhatikan. Keterbatasannya adalah opasitas."
     },
     {
-      "q": "Sensor mana yang paling penting selama musim PM2.5 musim semi dan debu kuning Jepang?",
+      "q": "Sensor mana yang paling penting selama musim PM2.5 musim semi dan debu kuning?",
       "a": "PM2.5 adalah perhatian utama selama kejadian polusi lintas batas dari daratan China (Desember-April terkonsentrasi) dan kejadian debu kuning (kosa, 黄砂) dari padang pasir Asia Tengah (Maret-Mei)."
     },
     {
@@ -104,7 +104,7 @@
     "govee-air-quality-monitor": "Govee Air Quality Monitor H5106 mencakup CO2, PM2.5, suhu, dan kelembaban — rasio jumlah sensor per harga terbaik dalam perbandingan ini.",
     "kaiterra-laser-egg-co2": "Kaiterra Laser Egg+ CO2 adalah monitor mandiri yang paling mudah dibaca dalam perbandingan ini: CO2, PM2.5, suhu, dan kelembaban ditampilkan dengan jelas pada unit berbentuk telur tanpa memerlukan aplikasi, koneksi cloud, atau ponsel."
   },
-  "pinDescription": "5 monitor kualitas udara peringkat untuk Jepang 2026 — Awair Element 5 sensor vs IQAir AirVisual Node pro-grade vs tampilan mandiri Kaiterra Laser Egg vs Inkbird CO2 anggaran vs Govee all-in-one. Penjelasan batas akurasi CO2. Panduan PM2.5 dan musim debu kuning.",
+  "pinDescription": "5 monitor kualitas udara peringkat untuk 2026 — Awair Element 5 sensor vs IQAir AirVisual Node pro-grade vs tampilan mandiri Kaiterra Laser Egg vs Inkbird CO2 anggaran vs Govee all-in-one. Penjelasan batas akurasi CO2. Panduan PM2.5 dan musim debu kuning.",
   "methodology": "Kami menilai setiap produk berdasarkan ketahanan dunia nyata, kemudahan penggunaan sehari-hari, kinerja terhadap klaim pemasaran, kualitas bangunan, dan nilai jangka panjang.",
   "products": [
     {

@@ -2,7 +2,7 @@
   "title": "2026年最佳真無線耳機：ANC、編解碼器與續航比較",
   "description": "從$79 Anker Soundcore Liberty 4到$249 Apple AirPods Pro 2。五款真無線耳機在ANC降噪深度（dB）、LDAC與aptX編解碼器支援、續航以及通勤族、遠距工作者和視訊通話用戶通話品質方面的實測比較。",
   "lede": "五款專為2026年日常需求打造的真無線耳機——通勤、開放式辦公室與連續視訊通話。ANC降噪深度與編解碼器的實際表現，比規格表上的功能數量更重要。",
-  "methodology": "評測從以下面向評估各款產品：主動降噪的衰減深度（dB，60–300 Hz低頻段）、編解碼器支援（LDAC 990 kbps、aptX Adaptive、AAC）、開啟降噪後的實測續航與廠商宣稱值的比較、來自真實使用者回饋的通話品質、運動時的配戴穩固性，以及含耳塞更換在內的總持有成本。價格取自美國Amazon與日本Amazon，資料截至2026年5月。",
+  "methodology": "評測從以下面向評估各款產品：主動降噪的衰減深度（dB，60–300 Hz低頻段）、編解碼器支援（LDAC 990 kbps、aptX Adaptive、AAC）、開啟降噪後的實測續航與廠商宣稱值的比較、來自真實使用者回饋的通話品質、運動時的配戴穩固性，以及含耳塞更換在內的總持有成本。價格取自主流電商平台，資料截至2026年5月。",
   "recommendedFor": [
     {
       "label": "適合想要高解析音訊的Android通勤族",
@@ -34,7 +34,7 @@
     {
       "heading": "為何ANC的dB降噪深度比功能數量更重要",
       "paragraphs": [
-        "每個耳機品牌都在宣傳ANC。真正有意義的數字，是硬體在60–300 Hz頻段——也就是火車低鳴、飛機艙噪與空調噪音所在的頻段——實際能產生多少分貝的低頻衰減。Sony WF-1000XM5搭配QN2e晶片，採用雙麥克風前饋加反饋陣列，在該頻段可達到約24–26 dB的有效衰減。Apple AirPods Pro 2透過H2晶片的自適應通透模式，根據環境動態調校，可達到約28–30 dB。$79的Anker Soundcore Liberty 4在同一頻段大約落在18–20 dB——在安靜的公車路線上已有感，但在新幹線或787客艙裡就明顯不足。當你需要連續思考三個小時，20 dB與28 dB之間的差距並不細微。",
+        "每個耳機品牌都在宣傳ANC。真正有意義的數字，是硬體在60–300 Hz頻段——也就是火車低鳴、飛機艙噪與空調噪音所在的頻段——實際能產生多少分貝的低頻衰減。Sony WF-1000XM5搭配QN2e晶片，採用雙麥克風前饋加反饋陣列，在該頻段可達到約24–26 dB的有效衰減。Apple AirPods Pro 2透過H2晶片的自適應通透模式，根據環境動態調校，可達到約28–30 dB。$79的Anker Soundcore Liberty 4在同一頻段大約落在18–20 dB——在安靜的公車路線上已有感，但在高速列車或787客艙裡就明顯不足。當你需要連續思考三個小時，20 dB與28 dB之間的差距並不細微。",
         "編解碼器支援是第二道篩選。990 kbps的LDAC是Android上藍牙無損近似串流的上限——這是Sony自家協議，所有搭載Android 9以上版本的Android手機都已採用。本清單五款耳機中有三款支援LDAC：Sony WF-1000XM5、Nothing Ear (2)與Anker Soundcore Liberty 4。Apple AirPods Pro 2在iOS上透過藍牙使用AAC（Apple自家平台的上限），並不相容LDAC——H2晶片的有線無損協議並不延伸至藍牙。Jabra Evolve2 Buds是針對語音清晰度而非音樂播放調校，設計上以SBC和AAC為上限。對於訂閱Amazon Music HD、Apple Music無損或Tidal的Android用戶來說，LDAC支援至關重要。"
       ]
     },
@@ -48,7 +48,7 @@
     {
       "heading": "2026年真無線耳機有哪些改變",
       "paragraphs": [
-        "自適應ANC已從高階功能變成基本期待。到2026年，Sony WF-1000XM5、Apple AirPods Pro 2和Jabra Evolve2 Buds都能根據周遭噪音環境動態重新調校ANC曲線——新幹線車廂與有廣播播放的東京7號月台，會被分別採樣處理。Nothing Ear (2)和Anker Soundcore Liberty 4也有自適應ANC，但採樣頻率較慢，在快速穿越差異很大的聲學環境時才會察覺到差異。",
+        "自適應ANC已從高階功能變成基本期待。到2026年，Sony WF-1000XM5、Apple AirPods Pro 2和Jabra Evolve2 Buds都能根據周遭噪音環境動態重新調校ANC曲線——高速列車車廂與有廣播播放的繁忙車站月台，會被分別採樣處理。Nothing Ear (2)和Anker Soundcore Liberty 4也有自適應ANC，但採樣頻率較慢，在快速穿越差異很大的聲學環境時才會察覺到差異。",
         "空間音訊從噱頭進化為視訊工作的實用功能。Apple透過AirPods Pro 2實現的頭部追蹤空間音訊，是目前最成熟的方案——它採用Dolby Atmos解碼，並利用H2晶片的加速度計，在視訊通話和觀看電影時將音源固定在物理空間中。Sony WF-1000XM5上的360 Reality Audio是Android端的對應方案，支援Tidal和Amazon Music HD。兩種方案對Podcast收聽或一般立體聲音樂都沒有用處——最好在這些情況下關閉，只在空間混音內容時開啟。",
         "單一配對的限制對大多數用戶而言已成過去。到2026年，多點藍牙——同時連接筆電與手機——在本清單所有五款耳機上都可靠運作。實作品質各有差異：Apple透過Apple自身的無縫裝置切換在Apple生態系內（iPhone-iPad-Mac切換無需手動重新配對）處理多點連線；Sony的多點連線可運作，但有時在筆電音訊與電話通話同時競爭時會短暫斷線；Jabra的多點連線在混合作業系統環境中表現最強，Windows筆電加Android手機切換無訊號中斷。Anker和Nothing都實現了多點連線，對大多數用戶在各平台上可靠運作。"
       ]

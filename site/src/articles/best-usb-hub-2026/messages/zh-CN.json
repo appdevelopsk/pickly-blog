@@ -1,8 +1,8 @@
 {
   "title": "最佳USB集线器2026：5款选项对比",
-  "description": "从CalDigit TS4（Thunderbolt 4停靠站、18个端口、包括2.5GbE、98W主机充电、DisplayPort、USB-C 10Gbps、3×USB-A 10Gbps）到Anker 564 USB-C集线器（7合1、USB-C 10Gbps、4K HDMI、85W PD、USB-A 3.0、SD卡读卡器）到Satechi V3多端口适配器（USB-C 10Gbps、4K 60Hz HDMI、100W PD直通、SD/microSD、USB-A 3.0、以太网）到Elecom U3HC-A430BBK（日本市场、4×USB-A 3.1 Gen1、USB-C 60W PD、铝合金、广泛可用）和Plugable UD-6950Z（USB-C/USB-A DisplayLink停靠站、双4K显示器、100W PD、千兆以太网、6×USB-A）。五款集线器在端口数量、USB-C数据速度、Power Delivery瓦数、显示输出功能和日本零售可用性方面进行对比。",
-  "lede": "五款USB集线器和停靠站——从CalDigit TS4这款专业Thunderbolt 4基准产品，到你今天可以在任何Yodobashi买到的Elecom集线器，再到以一小部分价格解决90%需求的Anker 564。集线器和停靠站之间的区别比端口数量更重要。",
-  "methodology": "根据文件规范、第三方基准和经过验证的用户报告对每个产品进行评估。我们评分了端口数量和多样性、USB-C数据吞吐量（USB 3.2 Gen2 vs Thunderbolt 4）、Power Delivery直通瓦数、显示输出功能和日本市场可用性。",
+  "description": "从CalDigit TS4（Thunderbolt 4停靠站、18个端口、包括2.5GbE、98W主机充电、DisplayPort、USB-C 10Gbps、3×USB-A 10Gbps）到Anker 564 USB-C集线器（7合1、USB-C 10Gbps、4K HDMI、85W PD、USB-A 3.0、SD卡读卡器）到Satechi V3多端口适配器（USB-C 10Gbps、4K 60Hz HDMI、100W PD直通、SD/microSD、USB-A 3.0、以太网）到Elecom U3HC-A430BBK（4×USB-A 3.1 Gen1、USB-C 60W PD、铝合金、广泛可用）和Plugable UD-6950Z（USB-C/USB-A DisplayLink停靠站、双4K显示器、100W PD、千兆以太网、6×USB-A）。五款集线器在端口数量、USB-C数据速度、Power Delivery瓦数、显示输出功能和零售可用性方面进行对比。",
+  "lede": "五款USB集线器和停靠站——从CalDigit TS4这款专业Thunderbolt 4基准产品，到你今天可以在线购买的Elecom集线器，再到以一小部分价格解决90%需求的Anker 564。集线器和停靠站之间的区别比端口数量更重要。",
+  "methodology": "根据文件规范、第三方基准和经过验证的用户报告对每个产品进行评估。我们评分了端口数量和多样性、USB-C数据吞吐量（USB 3.2 Gen2 vs Thunderbolt 4）、Power Delivery直通瓦数、显示输出功能和零售可用性。",
   "recommendedFor": [
     {
       "label": "对于需要Thunderbolt 4性能的MacBook Pro用户",
@@ -15,9 +15,9 @@
       "reason": "Anker 564在一个总线供电的便携式外形中涵盖HDMI、USB-A、USB-C数据、SD卡读卡器和85W PD。"
     },
     {
-      "label": "对于需要当天购买集线器的日本买家",
+      "label": "对于需要快速实惠USB-A集线器的买家",
       "offerId": "usb-hub-elecom-jp",
-      "reason": "Elecom U3HC-A430BBK在Yodobashi Camera和Bic Camera有库存，提供可靠的USB-C到USB-A扩展，60W PD。"
+      "reason": "Elecom U3HC-A430BBK在主流网络零售商有售，提供可靠的USB-C到USB-A扩展，60W PD。"
     },
     {
       "label": "对于非Thunderbolt Windows PC上的双显示器设置",
@@ -35,7 +35,7 @@
       "heading": "我们如何进行对比",
       "paragraphs": [
         "我们没有使用标准化文件对所有五个产品独立进行USB数据传输速度基准测试，也没有在负载下测量电源传递瓦数准确性。严格的USB集线器测试需要USB协议分析仪来测量实际数据吞吐量与额定规格，以及精密瓦表来验证持续充电负载下的声称PD瓦数——这两者我们都没有在此复制。",
-        "相反：我们查看了端口数量、USB一代、Power Delivery瓦数和显示输出功能的制造商规格。我们交叉参考了Ars Technica、The Verge和日本科技媒体（Gigazine、PC Watch）发布的基准，这些媒体存在独立传输速度测量。我们汇总了来自Amazon JP、乐天市场和国际来源的长期用户评论——特别是寻求USB带宽共享问题、PD充电故障、集线器在持续负载下过热和Thunderbolt与特定主机笔记本电脑的兼容性问题的报告。",
+        "相反：我们查看了端口数量、USB一代、Power Delivery瓦数和显示输出功能的制造商规格。我们交叉参考了Ars Technica、The Verge和科技媒体（Gigazine、PC Watch）发布的基准，这些媒体存在独立传输速度测量。我们汇总了经验证的买家长期评论和国际来源——特别是寻求USB带宽共享问题、PD充电故障、集线器在持续负载下过热和Thunderbolt与特定主机笔记本电脑的兼容性问题的报告。",
         "集线器与停靠站的区别对这个对比很重要。USB集线器扩展端口数量，没有供电的主机连接——它从USB连接从主机吸取电力，不向主机提供有意义的充电。多端口适配器添加显示输出和卡读卡器，通常带有Power Delivery直通为主机充电。停靠站提供自己的电源，为主机充电，可以独立驱动多个显示器。CalDigit TS4是停靠站。Anker 564和Satechi V3是多端口适配器。Elecom和Plugable UD-6950Z处于中间——带有显示输出功能的供电集线器。在购买前理解你需要哪个类别可以节省退货。"
       ]
     },
@@ -52,8 +52,8 @@
       "paragraphs": [
         "Thunderbolt 4停靠站、18个端口、98W主机充电、2.5GbE、3×USB-A 10Gbps、2×USB-C 10Gbps、DisplayPort、SD卡：CalDigit TS4。TS4是专业Thunderbolt 4停靠站基准。其18个端口包括2.5千兆以太网（在支持它的网络上超过标准千兆），三个USB-A 3.2 Gen 2端口每个10Gbps，两个USB-C 3.2 Gen 2端口，DisplayPort 1.4和SD卡读卡器。它提供98W为MacBook Pro 16英寸在负载下充电。它是这个对比中最昂贵的选项，差距很大。诚实的权衡：价格只在使用大多数18个端口时才合理；它需要主机上的Thunderbolt 4或USB4端口——USB 3.2笔记本电脑会获得USB-C连接但不是完整的40Gbps带宽；它很大（大约175mm高）更适合永久桌面设置而不是旅行包。",
         "7合1总线供电多端口适配器、USB-C 10Gbps数据、4K HDMI、85W PD、USB-A 3.0、SD卡读卡器、紧凑：Anker 564 USB-C集线器。Anker 564是需要一个HDMI显示器、USB-A扩展、SD卡访问和Power Delivery直通的用户在便携式外形中无需自己的电源的答案。总线供电意味着它从笔记本电脑吸取——集线器本身不需要额外的电缆或壁式适配器。85W PD直通适用于MacBook Air和大多数13英寸笔记本电脑在正常负载下（MacBook Pro 14英寸需要96W持续，将缓慢充电）。它是这个对比中旅行的最物美价廉的选项。诚实的权衡：USB-C数据是10Gbps但在所有端口间共享——多个USB-A 3.0端口的同时使用会降低单个吞吐量；无以太网；在某些主机配置上HDMI限制为4K 30Hz而不是60Hz。",
-        "USB-C 10Gbps、4K 60Hz HDMI、100W PD直通、千兆以太网、SD/microSD、USB-A 3.0、纤细铝制：Satechi V3多端口适配器。Satechi V3是简洁桌面多端口适配器——匹配MacBook美学的纤细铝制，100W PD直通（覆盖MacBook Pro 16英寸在负载下），4K 60Hz HDMI、千兆以太网和卡读卡器在总线供电外形中。它属于中等价位。诚实的权衡：Satechi是需要进口到日本的美国品牌——在日本电子产品链中不可用；总线供电意味着它从主机的USB-C控制器吸取，在所有端口同时重度使用下可能导致带宽争用；仅一个HDMI输出。",
-        "日本市场、4×USB-A 3.1 Gen1（每个5Gbps）、USB-C 60W PD直通、铝合金、Yodobashi/Bic Camera有库存：Elecom U3HC-A430BBK。Elecom集线器是日本市场务实的答案，用户需要USB-A扩展加直通充电而不需要显示输出。四个USB-A端口在5Gbps处处理大多数外围设备，包括外部驱动器、键盘和卡读卡器。60W PD直通以全速为MacBook Air和大多数13英寸笔记本电脑充电。它是这个对比中第二便宜的选项。在Yodobashi Camera和Bic Camera可当天购买。诚实的权衡：无HDMI、无以太网、无SD卡读卡器——Elecom集线器是USB-A扩展加充电，仅此而已；60W PD对MacBook Pro 16英寸在完全负载下不足。",
+        "USB-C 10Gbps、4K 60Hz HDMI、100W PD直通、千兆以太网、SD/microSD、USB-A 3.0、纤细铝制：Satechi V3多端口适配器。Satechi V3是简洁桌面多端口适配器——匹配MacBook美学的纤细铝制，100W PD直通（覆盖MacBook Pro 16英寸在负载下），4K 60Hz HDMI、千兆以太网和卡读卡器在总线供电外形中。它属于中等价位。诚实的权衡：Satechi在部分地区的线下电子门店较少有售；总线供电意味着它从主机的USB-C控制器吸取，在所有端口同时重度使用下可能导致带宽争用；仅一个HDMI输出。",
+        "实惠价格、4×USB-A 3.1 Gen1（每个5Gbps）、USB-C 60W PD直通、铝合金、广泛有售：Elecom U3HC-A430BBK。Elecom集线器是务实的答案，用户需要USB-A扩展加直通充电而不需要显示输出。四个USB-A端口在5Gbps处处理大多数外围设备，包括外部驱动器、键盘和卡读卡器。60W PD直通以全速为MacBook Air和大多数13英寸笔记本电脑充电。它是这个对比中第二便宜的选项。在主流网络零售商有售。诚实的权衡：无HDMI、无以太网、无SD卡读卡器——Elecom集线器是USB-A扩展加充电，仅此而已；60W PD对MacBook Pro 16英寸在完全负载下不足。",
         "DisplayLink双4K、USB-C和USB-A兼容、100W PD、千兆以太网、6×USB-A、Windows + macOS：Plugable UD-6950Z。Plugable UD-6950Z使用DisplayLink 6950Z芯片从任何USB-C或USB-A 3.0端口驱动两个4K 60Hz显示器——无需Thunderbolt。这使其成为这个对比中唯一可从MacBook Air（没有Thunderbolt 4端口在较旧一代）或仅使用USB 3.2的Windows机器，以及MacBook Pro在当第二个基于Thunderbolt的停靠站不可用时，可访问的双显示器解决方案。需要DisplayLink驱动程序安装（可用于macOS和Windows）。对于非Thunderbolt停靠站而言它很昂贵。诚实的权衡：DisplayLink驱动程序在活跃双显示器使用时增加5–10%CPU负载（两个4K显示器在60Hz时大约5–10%CPU开销）；延迟和流畅性是办公级别但不适合游戏或高帧率视频编辑；驱动程序更新偶尔引入显示问题，需要等待下一个版本。"
       ]
     },
@@ -63,7 +63,7 @@
         "对于拥有Thunderbolt 4端口且需要在一根电缆中完成所有功能的MacBook Pro 16英寸高级用户：CalDigit TS4。98W主机充电、2.5GbE和18端口数量如果你定期使用外部NVMe驱动器、多个USB外围设备和显示器同时，可以证明其高端价格合理。如果你定期使用少于8个端口，有更便宜的答案。",
         "对于旅行或轻桌面设置，需要一个显示器加USB-A和卡读卡器：Anker 564 USB-C集线器。总线供电，价格实惠，适合夹克口袋。接受MacBook Air用户的85W PD上限和重度同时使用下的共享带宽。",
         "对于桌面绑定的MacBook设置，线缆美学很重要且需要以太网：Satechi V3。100W PD和4K 60Hz HDMI值得进口成本，如果纤细的铝制匹配你的MacBook颜色对你很重要。购买它并接受你在进口。",
-        "对于今天的日本零售购买，无需显示输出：Elecom U3HC-A430BBK。走进Yodobashi Camera。这里最便宜的选项。四个USB-A端口加60W PD。对于MacBook Air用户或仅需要USB-A扩展的任何人，这是完整的答案。",
+        "对于今天的快速购买，无需显示输出：Elecom U3HC-A430BBK。在线下单。这里最便宜的选项。四个USB-A端口加60W PD。对于MacBook Air用户或仅需要USB-A扩展的任何人，这是完整的答案。",
         "对于来自MacBook Air或非Thunderbolt Windows笔记本电脑的双显示器：Plugable UD-6950Z。安装DisplayLink驱动程序，接受5–10%CPU开销，你从缺乏Thunderbolt的USB-C端口拥有两个4K显示器。这是在2026年无Thunderbolt可靠完成此操作的唯一方式。"
       ]
     }
@@ -95,7 +95,7 @@
         "端口数量": 5,
         "USB-C速度": 5,
         "Power Delivery": 5,
-        "日本可用性": 3
+        "可用性": 3
       }
     },
     {
@@ -124,14 +124,14 @@
         "端口数量": 3,
         "USB-C速度": 4,
         "Power Delivery": 3,
-        "日本可用性": 4
+        "可用性": 4
       }
     },
     {
       "offerId": "usb-hub-satechi-v3-multiport",
       "badge": "简洁桌面美学最佳",
       "grade": "A",
-      "review": "Satechi V3多端口适配器提供100W PD直通、4K 60Hz HDMI、千兆以太网、SD/microSD卡读卡器和USB-A 3.0，采用设计以匹配MacBook Pro和MacBook Air颜色变体的纤细铝制外形。在100W PD处它是这个对比中唯一在负载下覆盖MacBook Pro 16英寸的总线供电多端口适配器。千兆以太网是对Anker 564的重要补充，用于有线网络的用户。它属于中等价位。诚实的弱点：美国进口需要——在日本电子产品链中无库存；总线供电与重度同时使用下的共享带宽；单个HDMI输出。",
+      "review": "Satechi V3多端口适配器提供100W PD直通、4K 60Hz HDMI、千兆以太网、SD/microSD卡读卡器和USB-A 3.0，采用设计以匹配MacBook Pro和MacBook Air颜色变体的纤细铝制外形。在100W PD处它是这个对比中唯一在负载下覆盖MacBook Pro 16英寸的总线供电多端口适配器。千兆以太网是对Anker 564的重要补充，用于有线网络的用户。它属于中等价位。诚实的弱点：在部分地区的线下电子门店较少有售；总线供电与重度同时使用下的共享带宽；单个HDMI输出。",
       "pros": [
         "100W PD直通——覆盖MacBook Pro 16英寸在持续负载下",
         "4K 60Hz HDMI输出+千兆以太网在总线供电适配器中",
@@ -139,7 +139,7 @@
         "SD/microSD + USB-A 3.0端口在一个适配器中"
       ],
       "cons": [
-        "美国进口需要——在日本电子零售链中不可用",
+        "在部分地区的线下电子门店较少有售",
         "总线供电带宽在同时重度端口使用下共享"
       ],
       "specs": {
@@ -153,16 +153,16 @@
         "端口数量": 4,
         "USB-C速度": 4,
         "Power Delivery": 5,
-        "日本可用性": 2
+        "可用性": 2
       }
     },
     {
       "offerId": "usb-hub-elecom-jp",
-      "badge": "日本市场最佳",
+      "badge": "最佳实惠USB-A集线器",
       "grade": "B",
-      "review": "Elecom U3HC-A430BBK是日本市场务实的USB集线器：4×USB-A 3.1 Gen1端口在5Gbps处，USB-C 60W PD直通，铝合金构造，在Yodobashi Camera和Bic Camera有库存。对于需要USB-A扩展和笔记本电脑充电而无需显示输出或以太网的用户，它以实惠的价格满足需求，并有当天物理零售可用性。诚实的弱点：无HDMI、无以太网、无SD卡读卡器；60W PD对MacBook Pro 16英寸在完全CPU负载下不足；USB-A端口在5Gbps（USB 3.1 Gen1）而不是高级替代品的10Gbps（Gen2）。",
+      "review": "Elecom U3HC-A430BBK是务实实惠的USB集线器：4×USB-A 3.1 Gen1端口在5Gbps处，USB-C 60W PD直通，铝合金构造，在主流网络零售商广泛有售。对于需要USB-A扩展和笔记本电脑充电而无需显示输出或以太网的用户，它以实惠的价格满足需求，并有广泛的零售供应。诚实的弱点：无HDMI、无以太网、无SD卡读卡器；60W PD对MacBook Pro 16英寸在完全CPU负载下不足；USB-A端口在5Gbps（USB 3.1 Gen1）而不是高级替代品的10Gbps（Gen2）。",
       "pros": [
-        "在Yodobashi Camera和Bic Camera当天可用——无进口需要",
+        "在主流网络零售商广泛有售",
         "4×USB-A 3.1 Gen1（每个5Gbps）+ USB-C 60W PD在一个集线器中",
         "铝合金构造带紧凑外形",
         "价格实惠——对比中最便宜的免进口选项"
@@ -176,13 +176,13 @@
         "主机充电": "60W Power Delivery直通",
         "USB-A端口": "4×USB-A 3.1 Gen1（5Gbps）",
         "显示输出": "无",
-        "零售可用性": "Yodobashi Camera、Bic Camera、Amazon JP"
+        "零售可用性": "主流网络零售商"
       },
       "scores": {
         "端口数量": 3,
         "USB-C速度": 3,
         "Power Delivery": 3,
-        "日本可用性": 5
+        "可用性": 5
       }
     },
     {
@@ -211,7 +211,7 @@
         "端口数量": 5,
         "USB-C速度": 3,
         "Power Delivery": 5,
-        "日本可用性": 3
+        "可用性": 3
       }
     }
   ],
@@ -229,6 +229,6 @@
       "a": "检查你的笔记本电脑附带充电器的瓦数作为起点。MacBook Air 13英寸附带30W充电器——60W PD集线器以全速加余量为其充电。MacBook Air 15英寸附带35W充电器——60W PD覆盖它。MacBook Pro 14英寸附带67W充电器——85W PD集线器覆盖正常使用，但在持续CPU和GPU负载下（重编译、视频渲染），笔记本电脑可以简要超过85W，电池会缓慢放电。MacBook Pro 16英寸附带140W充电器——仅停靠站提供96W+ PD（如CalDigit TS4在98W）覆盖它在完全持续负载下。对于Windows笔记本电脑：检查附带适配器上的瓦数。提供相等或更高PD瓦数的集线器在正常使用下完全充电。提供低于附带充电器瓦数的集线器为笔记本电脑充电但可能在重负载下减速或缓慢放电。"
     }
   ],
-  "pinDescription": "5款USB集线器对比2026——CalDigit TS4 Thunderbolt 4专业停靠站 vs Anker 564旅行总线供电 vs Satechi V3 100W PD以太网 vs Elecom日本可用 vs Plugable双4K无需Thunderbolt。集线器vs停靠站解释。线缆管理从这里开始。",
+  "pinDescription": "5款USB集线器对比2026——CalDigit TS4 Thunderbolt 4专业停靠站 vs Anker 564旅行总线供电 vs Satechi V3 100W PD以太网 vs Elecom实惠USB-A vs Plugable双4K无需Thunderbolt。集线器vs停靠站解释。线缆管理从这里开始。",
   "offerNotes": ""
 }

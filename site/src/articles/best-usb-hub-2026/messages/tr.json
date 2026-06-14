@@ -1,8 +1,8 @@
 {
   "title": "En İyi USB Hub 2026: 5 seçenek karşılaştırılmıştır",
-  "description": "CalDigit TS4'ten (Thunderbolt 4 dock, 18 port dahil 2.5GbE, 98W host şarjı, DisplayPort, USB-C 10Gbps, 3× USB-A 10Gbps) Anker 564 USB-C Hub'a (7-in-1, USB-C 10Gbps, 4K HDMI, 85W PD, USB-A 3.0, SD kart okuyucu) Satechi V3 Multi-Port Adapter'e (USB-C 10Gbps, 4K 60Hz HDMI, 100W PD pass-through, SD/microSD, USB-A 3.0, Ethernet) Elecom U3HC-A430BBK'ye (Japonya pazarı, 4× USB-A 3.1 Gen1, USB-C 60W PD, alüminyum, yaygın olarak mevcuttur) ve Plugable UD-6950Z'ye (USB-C/USB-A DisplayLink dock, dual 4K ekranlar, 100W PD, Gigabit Ethernet, 6× USB-A). Port sayısı, USB-C veri hızı, Power Delivery watt'ı, ekran çıkışı kapasitesi ve Japonya perakende mevcudiyeti üzerinden karşılaştırılan beş hub.",
-  "lede": "CalDigit TS4'ten (profesyonel Thunderbolt 4 benchmark) bugün herhangi bir Yodobashi'de satın alabileceğiniz Elecom hub'a Anker 564'e (ihtiyaçların yüzde 90'ını karşılayan) kadar — beş USB hub ve dock. Hub ile dock arasındaki fark port sayısından daha önemlidir.",
-  "methodology": "Her ürün belgelenmiş spesifikasyonlara, üçüncü taraf kıyaslama verilerine ve doğrulanmış kullanıcı raporlarına göre değerlendirilmiştir. Port sayısı ve çeşitliliği, USB-C veri verimi (USB 3.2 Gen2 vs Thunderbolt 4), Power Delivery pass-through watt'ı, ekran çıkışı kapasitesi ve Japonya pazarı mevcudiyeti puanlandırılmıştır.",
+  "description": "CalDigit TS4'ten (Thunderbolt 4 dock, 18 port dahil 2.5GbE, 98W host şarjı, DisplayPort, USB-C 10Gbps, 3× USB-A 10Gbps) Anker 564 USB-C Hub'a (7-in-1, USB-C 10Gbps, 4K HDMI, 85W PD, USB-A 3.0, SD kart okuyucu) Satechi V3 Multi-Port Adapter'e (USB-C 10Gbps, 4K 60Hz HDMI, 100W PD pass-through, SD/microSD, USB-A 3.0, Ethernet) Elecom U3HC-A430BBK'ye (4× USB-A 3.1 Gen1, USB-C 60W PD, alüminyum, yaygın olarak mevcuttur) ve Plugable UD-6950Z'ye (USB-C/USB-A DisplayLink dock, dual 4K ekranlar, 100W PD, Gigabit Ethernet, 6× USB-A). Port sayısı, USB-C veri hızı, Power Delivery watt'ı, ekran çıkışı kapasitesi ve mağaza bulunabilirliği üzerinden karşılaştırılan beş hub.",
+  "lede": "CalDigit TS4'ten (profesyonel Thunderbolt 4 benchmark) bugün çevrimiçi satın alabileceğiniz Elecom hub'a Anker 564'e (ihtiyaçların yüzde 90'ını karşılayan) kadar — beş USB hub ve dock. Hub ile dock arasındaki fark port sayısından daha önemlidir.",
+  "methodology": "Her ürün belgelenmiş spesifikasyonlara, üçüncü taraf kıyaslama verilerine ve doğrulanmış kullanıcı raporlarına göre değerlendirilmiştir. Port sayısı ve çeşitliliği, USB-C veri verimi (USB 3.2 Gen2 vs Thunderbolt 4), Power Delivery pass-through watt'ı, ekran çıkışı kapasitesi ve mağaza bulunabilirliği puanlandırılmıştır.",
   "recommendedFor": [
     {
       "label": "Thunderbolt 4 performansına ihtiyaç duyan MacBook Pro kullanıcıları için",
@@ -15,9 +15,9 @@
       "reason": "Anker 564, taşınabilir form faktöründe HDMI, USB-A, USB-C verisi, SD kart okuyucu ve 85W PD'yi kapsar."
     },
     {
-      "label": "Aynı gün hub satın almaya ihtiyaç duyan Japonya ile yaşayanlar için",
+      "label": "Hızlı, uygun fiyatlı bir USB-A hub'a ihtiyaç duyanlar için",
       "offerId": "usb-hub-elecom-jp",
-      "reason": "Elecom U3HC-A430BBK, Yodobashi Camera ve Bic Camera'da stoklanmış, güvenilir USB-C'den USB-A'ya 60W PD ile genişleme sağlar."
+      "reason": "Elecom U3HC-A430BBK, büyük çevrimiçi mağazalarda stoklanmış, güvenilir USB-C'den USB-A'ya 60W PD ile genişleme sağlar."
     },
     {
       "label": "Thunderbolt olmayan Windows PC'de dual ekran kurulumları için",
@@ -35,7 +35,7 @@
       "heading": "Nasıl karşılaştırdığımız",
       "paragraphs": [
         "USB veri aktarım hızlarını tüm beş ürün arasında standart dosyalarla bağımsız olarak kıyaslamadık veya yüklü enerji iletim watt'ını doğruluk ile ölçmedik. Katı USB hub testi, gerçek veri verimi ve derecelendirilen spesifikasyonları ölçmek için USB protokol analiziyle ölçmek gerektirir — ikisi de burada yeniden oluşturulmadı.",
-        "Bunun yerine: port sayısı, USB kuşağı, Power Delivery watt'ı ve ekran çıkışı yeteneği için üretici spesifikasyonlarını gözden geçirdik. Bağımsız aktarım hızı ölçümlerinin var olduğu yerlerde Ars Technica, The Verge ve Japonya teknoloji medyasından (Gigazine, PC Watch) yayınlanmış kıyaslama verilerine karşı kontrol ettik. Amazon JP, Rakuten Ichiba ve uluslararası kaynaklardan uzun vadeli kullanıcı incelemelerini bir araya getirdik — özellikle USB bant genişliği paylaşım sorunları, PD şarj arızaları, yoğun yükün altında hub aşırı ısınması ve belirli host dizüstü bilgisayarlarla Thunderbolt uyumluluğu sorunları hakkında raporlar aradık.",
+        "Bunun yerine: port sayısı, USB kuşağı, Power Delivery watt'ı ve ekran çıkışı yeteneği için üretici spesifikasyonlarını gözden geçirdik. Bağımsız aktarım hızı ölçümlerinin var olduğu yerlerde Ars Technica, The Verge ve teknoloji medyasından (Gigazine, PC Watch) yayınlanmış kıyaslama verilerine karşı kontrol ettik. Doğrulanmış uzun vadeli alıcı incelemelerini ve uluslararası kaynakları bir araya getirdik — özellikle USB bant genişliği paylaşım sorunları, PD şarj arızaları, yoğun yükün altında hub aşırı ısınması ve belirli host dizüstü bilgisayarlarla Thunderbolt uyumluluğu sorunları hakkında raporlar aradık.",
         "Hub vs dock ayrımı bu karşılaştırma için önemlidir. Bir USB hub güç girdisi olmadan port sayısını genişletir — işletim gücünü USB bağlantısından alır ve host'a anlamlı şarj sağlamaz. Bir multiport adapter ekran çıkışı ve kart okuyucular ekler, tipik olarak host'u şarj etmek için Power Delivery pass-through ile. Bir dock kendi güç kaynağına sahip, host'u şarj eder ve birden fazla ekranı bağımsız olarak çalıştırabilir. CalDigit TS4 bir dock'tur. Anker 564 ve Satechi V3 multiport adapter'dir. Elecom ve Plugable UD-6950Z ortadaki konumdadır — ekran çıkışı yeteneğine sahip powered hub'lar. İadeler kaydetmek için satın almadan önce hangi kategoriye ihtiyaç duyduğunuzu anlamak önemlidir."
       ]
     },
@@ -52,8 +52,8 @@
       "paragraphs": [
         "Thunderbolt 4 dock, 18 port, 98W host şarjı, 2.5GbE, 3× USB-A 10Gbps, 2× USB-C 10Gbps, DisplayPort, SD kart: CalDigit TS4. TS4 profesyonel Thunderbolt 4 dock benchmark'ıdır. 18 portu 2.5 Gigabit Ethernet (standart Gigabit'i aşan ağlarda), her biri 10Gbps'ye kadar üç USB-A 3.2 Gen 2 port, iki USB-C 3.2 Gen 2 port, DisplayPort 1.4 ve SD kart okuyucu içerir. MacBook Pro 16-inç'i yükün altında şarj etmek için 98W sunar. Bu karşılaştırmada en pahalı seçenektir. Dürüst dengeler: fiyat sadece 18 portun çoğunu kullanıyorsanız haklı gösterilebilir; host'ta Thunderbolt 4 veya USB4 portu gerektirir — USB 3.2 dizüstü bilgisayarlar USB-C bağlantısı alacak ancak tam 40Gbps bant genişliğini almayacaktır; büyüktür (yaklaşık 175mm yüksekliğinde) ve seyahat kiti yerine kalıcı masaüstü kurulumuna daha uygundur.",
         "7-in-1 bus-powered multiport adapter, USB-C 10Gbps verisi, 4K HDMI, 85W PD, USB-A 3.0, SD kart okuyucu, kompakt: Anker 564 USB-C Hub. Anker 564, bir HDMI ekran, USB-A genişleme, SD kart erişimi ve Power Delivery pass-through'a taşınabilir form faktöründe kendi güç kaynağı olmadan ihtiyaç duyan kullanıcılara verilen cevaptır. Bus-powered, dizüstü bilgisayardan çeker — hub'ın kendisi için ek kablo veya duvar adaptörü gerekli değildir. 85W PD pass-through, MacBook Air ve çoğu 13-inç dizüstü bilgisayar için normal yükün altında yeterlidir (MacBook Pro 14-inç yoğun 96W gerektirir, bu yavaş şarj edecektir). Bu karşılaştırmada seyahat için en iyi fiyatlı seçenektir. Dürüst dengeler: USB-C verisi 10Gbps'dir ancak tüm portlar arasında paylaşılır — birden fazla USB-A 3.0 portunun eşzamanlı kullanımı bireysel verimi azaltır; Ethernet yok; HDMI bazı host yapılandırmalarında 60Hz yerine 4K 30Hz ile sınırlı olabilir.",
-        "USB-C 10Gbps, 4K 60Hz HDMI, 100W PD pass-through, Gigabit Ethernet, SD/microSD, USB-A 3.0, slim alüminyum: Satechi V3 Multi-Port Adapter. Satechi V3, temiz masaüstü multiport adapter'idir — MacBook estetiğini eşleştiren slim alüminyum, MacBook Pro 16-inç'i yükün altında kapsan 100W PD pass-through, 4K 60Hz HDMI, Gigabit Ethernet ve kart okuyucular bus-powered form faktöründe. Orta fiyatlıdır. Dürüst dengeler: Satechi ABD markasıdır ve Japonya'ya ithalatı gerektirir — Japonya elektronik zincirlerinde mevcut değildir; bus-powered, host'ın USB-C kontrolörü tarafından çekilir ve tüm portların eşzamanlı ağır kullanımı altında bant genişliği çekişmesi yaşayabilir; sadece bir HDMI çıkışı.",
-        "Japonya pazarı, 4× USB-A 3.1 Gen1 (her biri 5Gbps), USB-C 60W PD pass-through, alüminyum, Yodobashi/Bic Camera stoklanmış: Elecom U3HC-A430BBK. Elecom hub, ekran çıkışı olmadan USB-A genişlemesi ve passthrough şarjına ihtiyaç duyan kullanıcılar için Japonya pazarı pragmatik cevabıdır. Her biri 5Gbps'ye kadar dört USB-A port, çoğu periferik dahil harici sürücüler, klavyeler ve kart okuyucuları kapsar. 60W PD pass-through, MacBook Air ve çoğu 13-inç dizüstü bilgisayarı tam hızda şarj eder. Bu karşılaştırmada en uygun ikinci seçenektir. Yodobashi Camera ve Bic Camera'da aynı gün mevcuttur. Dürüst dengeler: HDMI yok, Ethernet yok, SD kart okuyucu yok — Elecom hub USB-A genişlemesi artı şarjdır, başka bir şey değildir; 60W PD, MacBook Pro 16-inç'in tam yük altında yetersizdir.",
+        "USB-C 10Gbps, 4K 60Hz HDMI, 100W PD pass-through, Gigabit Ethernet, SD/microSD, USB-A 3.0, slim alüminyum: Satechi V3 Multi-Port Adapter. Satechi V3, temiz masaüstü multiport adapter'idir — MacBook estetiğini eşleştiren slim alüminyum, MacBook Pro 16-inç'i yükün altında kapsan 100W PD pass-through, 4K 60Hz HDMI, Gigabit Ethernet ve kart okuyucular bus-powered form faktöründe. Orta fiyatlıdır. Dürüst dengeler: Satechi bazı bölgelerde fiziksel elektronik mağazalarında daha az bulunur; bus-powered, host'ın USB-C kontrolörü tarafından çekilir ve tüm portların eşzamanlı ağır kullanımı altında bant genişliği çekişmesi yaşayabilir; sadece bir HDMI çıkışı.",
+        "Uygun fiyatlı, 4× USB-A 3.1 Gen1 (her biri 5Gbps), USB-C 60W PD pass-through, alüminyum, yaygın olarak stoklanmış: Elecom U3HC-A430BBK. Elecom hub, ekran çıkışı olmadan USB-A genişlemesi ve passthrough şarjına ihtiyaç duyan kullanıcılar için pragmatik cevaptır. Her biri 5Gbps'ye kadar dört USB-A port, çoğu periferik dahil harici sürücüler, klavyeler ve kart okuyucuları kapsar. 60W PD pass-through, MacBook Air ve çoğu 13-inç dizüstü bilgisayarı tam hızda şarj eder. Bu karşılaştırmada en uygun ikinci seçenektir. Büyük çevrimiçi mağazalarda mevcuttur. Dürüst dengeler: HDMI yok, Ethernet yok, SD kart okuyucu yok — Elecom hub USB-A genişlemesi artı şarjdır, başka bir şey değildir; 60W PD, MacBook Pro 16-inç'in tam yük altında yetersizdir.",
         "DisplayLink dual 4K, USB-C ve USB-A uyumlu, 100W PD, Gigabit Ethernet, 6× USB-A, Windows + macOS: Plugable UD-6950Z. Plugable UD-6950Z, herhangi bir USB-C veya USB-A 3.0 portundan Thunderbolt olmadan iki 4K 60Hz ekranı çalıştırmak için DisplayLink 6950Z çipini kullanır — bu karşılaştırmada Thunderbolt olmayan tek dual ekran çözümü. Bu, onu MacBook Air (eski nesillerde Thunderbolt 4 portu olmayan), yalnızca USB 3.2'li Windows makineleri ve ikinci Thunderbolt tabanlı dock mevcut olmadığında MacBook Pro'dan erişilebilir hale getirir. DisplayLink sürücü yüklemesi gerektirir (macOS ve Windows için mevcuttur). Thunderbolt olmayan dock için pahalıdır. Dürüst dengeler: DisplayLink sürücü yüklemesi ve CPU yüküne ekler (iki 4K ekran 60Hz'de yaklaşık yüzde 5–10 CPU ek yükü); gecikme ve düzgünlük ofis uygunudur ancak yüksek çerçeve hızlı video düzenleme veya oyun uygun değildir; sürücü güncelleştirmeleri bazen ekran sorunları tanıtır ki bu sonraki sürüm için beklemek gerekir."
       ]
     },
@@ -63,7 +63,7 @@
         "Thunderbolt 4 portu olan bir MacBook Pro 16-inç güç kullanıcısı için bir kabloda her şeye ihtiyaç duyan: CalDigit TS4. 98W host şarjı, 2.5GbE ve 18 port sayısı, rutin olarak harici NVMe sürücüleri, birden fazla USB periferali ve bir ekranı eşzamanlı olarak kullanırsanız premium fiyatını haklı gösterir. Düzenli olarak 8 portan daha azını kullanıyorsanız daha ucuz cevaplar vardır.",
         "Seyahat etme veya hafif masaüstü kurulumunda bir ekran plus USB-A ve kart okuyucuya ihtiyaç duyduğunuzda: Anker 564 USB-C Hub. Bus-powered, uygun fiyatlı, bir ceket cebine uyar. MacBook Air kullanıcıları için 85W PD tavanını ve ağır eşzamanlı kullanım altında paylaşılan bant genişliğini kabul edin.",
         "Kablo estetiğinin önemli olduğu ve Ethernet'a ihtiyaç duyduğunuz bir masaüstü MacBook kurulumunda: Satechi V3. 100W PD ve 4K 60Hz HDMI, slim alüminyum'un MacBook rengini eşleştirmesi sizin için önemliyse ithalatı satın almaya değer. Satın alın ve ithalatı kabul edin.",
-        "Ekran çıkışı gerekmeden bugün Japonya perakendesi satın alması için: Elecom U3HC-A430BBK. Yodobashi Camera'ya gidin. Buradaki en uygun seçenek. Dört USB-A port plus 60W PD. MacBook Air kullanıcıları veya sadece USB-A genişlemesine ihtiyaç duyanlara, bu tam cevaptır.",
+        "Ekran çıkışı gerekmeden bugün hızlı bir satın alma için: Elecom U3HC-A430BBK. Çevrimiçi sipariş edin. Buradaki en uygun seçenek. Dört USB-A port plus 60W PD. MacBook Air kullanıcıları veya sadece USB-A genişlemesine ihtiyaç duyanlara, bu tam cevaptır.",
         "MacBook Air veya Thunderbolt olmayan Windows dizüstü bilgisayardan dual ekran için: Plugable UD-6950Z. DisplayLink sürücüyü yükleyin, yüzde 5–10 CPU ek yükünü kabul edin ve Thunderbolt olmayan bir USB-C portundan iki 4K monitörü etkinleştirin. 2026'da Thunderbolt olmadan bunu güvenilir yapmanın tek yoludur."
       ]
     }
@@ -95,7 +95,7 @@
         "Port sayısı": 5,
         "USB-C hızı": 5,
         "Power Delivery": 5,
-        "Japonya mevcudiyeti": 3
+        "Bulunabilirlik": 3
       }
     },
     {
@@ -124,14 +124,14 @@
         "Port sayısı": 3,
         "USB-C hızı": 4,
         "Power Delivery": 3,
-        "Japonya mevcudiyeti": 4
+        "Bulunabilirlik": 4
       }
     },
     {
       "offerId": "usb-hub-satechi-v3-multiport",
       "badge": "Temiz Masaüstü Estetiği İçin En İyi",
       "grade": "A",
-      "review": "Satechi V3 Multi-Port Adapter, 100W PD pass-through, 4K 60Hz HDMI, Gigabit Ethernet, SD/microSD kart okuyucuları ve USB-A 3.0 sunar MacBook Pro ve MacBook Air renk çeşitlerini eşleştirmek için tasarlanmış slim alüminyum form faktöründe. 100W PD'de bu karşılaştırmada yükün altında MacBook Pro 16-inç'i kapsan tek bus-powered multiport adapter'dir. Gigabit Ethernet, Anker 564'e kıyasla kablolu ağlardaki kullanıcılar için önemli bir ektir. Orta fiyatlıdır. Dürüst zayıflıklar: ABD ithalatı gereklidir — Japonya elektronik zincirlerinde stoklanmaz; bus-powered ağır eşzamanlı port kullanımı altında bant genişliği paylaşımı; tek HDMI çıkışı.",
+      "review": "Satechi V3 Multi-Port Adapter, 100W PD pass-through, 4K 60Hz HDMI, Gigabit Ethernet, SD/microSD kart okuyucuları ve USB-A 3.0 sunar MacBook Pro ve MacBook Air renk çeşitlerini eşleştirmek için tasarlanmış slim alüminyum form faktöründe. 100W PD'de bu karşılaştırmada yükün altında MacBook Pro 16-inç'i kapsan tek bus-powered multiport adapter'dir. Gigabit Ethernet, Anker 564'e kıyasla kablolu ağlardaki kullanıcılar için önemli bir ektir. Orta fiyatlıdır. Dürüst zayıflıklar: bazı bölgelerde fiziksel elektronik mağazalarında daha az bulunur; bus-powered ağır eşzamanlı port kullanımı altında bant genişliği paylaşımı; tek HDMI çıkışı.",
       "pros": [
         "100W PD pass-through — yoğun yükün altında MacBook Pro 16-inç'i kapsar",
         "4K 60Hz HDMI çıkışı + Gigabit Ethernet bus-powered adapter'de",
@@ -139,7 +139,7 @@
         "Bir adapter'de SD/microSD + USB-A 3.0 port"
       ],
       "cons": [
-        "ABD ithalatı gereklidir — Japonya elektronik perakendesi zincirlerinde mevcut değildir",
+        "Bazı bölgelerde fiziksel elektronik mağazalarında daha az bulunur",
         "Bus-powered ağır eşzamanlı port kullanımı altında bant genişliği paylaşımı"
       ],
       "specs": {
@@ -153,16 +153,16 @@
         "Port sayısı": 4,
         "USB-C hızı": 4,
         "Power Delivery": 5,
-        "Japonya mevcudiyeti": 2
+        "Bulunabilirlik": 2
       }
     },
     {
       "offerId": "usb-hub-elecom-jp",
-      "badge": "Japonya Pazarı İçin En İyi",
+      "badge": "En İyi Uygun Fiyatlı USB-A Hub",
       "grade": "B",
-      "review": "Elecom U3HC-A430BBK, Japonya pazarı pragmatik USB hub'ıdır: her biri 5Gbps'ye kadar 4× USB-A 3.1 Gen1 port, USB-C 60W PD pass-through, alüminyum inşaat, Yodobashi Camera ve Bic Camera'da stoklanmış. Ekran çıkışı veya Ethernet olmadan USB-A genişlemesi ve dizüstü bilgisayar şarjına ihtiyaç duyan kullanıcılar için, bu gereksinimi uygun bir fiyatla aynı gün fiziksel perakende mevcudiyeti ile kapsar. Dürüst zayıflıklar: HDMI yok, Ethernet yok, SD kart okuyucu yok; 60W PD MacBook Pro 16-inç'in tam CPU yükü için yetersizdir; USB-A port 5Gbps'de (USB 3.1 Gen1) premium alternatiflerin 10Gbps'sinden (Gen2) çok değildir.",
+      "review": "Elecom U3HC-A430BBK, uygun fiyatlı, pragmatik USB hub'ıdır: her biri 5Gbps'ye kadar 4× USB-A 3.1 Gen1 port, USB-C 60W PD pass-through, alüminyum inşaat, büyük çevrimiçi mağazalarda yaygın olarak stoklanmış. Ekran çıkışı veya Ethernet olmadan USB-A genişlemesi ve dizüstü bilgisayar şarjına ihtiyaç duyan kullanıcılar için, bu gereksinimi uygun bir fiyatla geniş mağaza bulunabilirliği ile kapsar. Dürüst zayıflıklar: HDMI yok, Ethernet yok, SD kart okuyucu yok; 60W PD MacBook Pro 16-inç'in tam CPU yükü için yetersizdir; USB-A port 5Gbps'de (USB 3.1 Gen1) premium alternatiflerin 10Gbps'sinden (Gen2) çok değildir.",
       "pros": [
-        "Yodobashi Camera ve Bic Camera'da aynı gün mevcuttur — ithalatı gerekli değildir",
+        "Büyük çevrimiçi mağazalarda yaygın olarak mevcuttur",
         "4× USB-A 3.1 Gen1 (her biri 5Gbps) + USB-C 60W PD bir hub'da",
         "Kompakt form faktörü ile alüminyum inşaat",
         "Uygun fiyat — karşılaştırmada ithalatsız en uygun seçenekektirmeyen fiyat"
@@ -176,13 +176,13 @@
         "Host şarjı": "60W Power Delivery pass-through",
         "USB-A port": "4× USB-A 3.1 Gen1 (5Gbps)",
         "Ekran çıkışı": "Yok",
-        "Perakende mevcudiyeti": "Yodobashi Camera, Bic Camera, Amazon JP"
+        "Perakende mevcudiyeti": "Büyük çevrimiçi mağazalar"
       },
       "scores": {
         "Port sayısı": 3,
         "USB-C hızı": 3,
         "Power Delivery": 3,
-        "Japonya mevcudiyeti": 5
+        "Bulunabilirlik": 5
       }
     },
     {
@@ -211,7 +211,7 @@
         "Port sayısı": 5,
         "USB-C hızı": 3,
         "Power Delivery": 5,
-        "Japonya mevcudiyeti": 3
+        "Bulunabilirlik": 3
       }
     }
   ],
@@ -229,6 +229,6 @@
       "a": "Başlangıç noktası olarak dahil edilen şarjcınızın watt'ını kontrol edin. MacBook Air 13-inç 30W şarjcı ile gelir — 60W PD hub'ı tam hızda ve marjı ile şarj eder. MacBook Air 15-inç 35W şarjcı ile gelir — 60W PD onu kapsar. MacBook Pro 14-inç 67W şarjcı ile gelir — 85W PD hub'ı normal kullanımı kapsar, ancak yoğun CPU ve GPU yükü altında (ağır derleme, video oluşturma), dizüstü bilgisayar kısaca 85W aşabilir ve pil yavaş yavaş boşalır. MacBook Pro 16-inç 140W şarjcı ile gelir — yalnızca CalDigit TS4'teki yüzde 98W gibi 96W+ PD sağlayan bir dock tam yoğun yük altında onu kapsar. Windows dizüstü bilgisayarlar için: dahil edilen adaptördeki watt'ı kontrol edin. Hub sağlayan eşit veya daha yüksek PD watt'ı tam olarak normal kullanım altında şarj eder. Daha düşük watt sağlayan hub dizüstü bilgisayarı şarj eder ancak ağır yükün altında yavaşlayabilir veya yavaş yavaş boşalabilir."
     }
   ],
-  "pinDescription": "2026 için 5 USB hub karşılaştırıldı — CalDigit TS4 Thunderbolt 4 pro dock vs Anker 564 seyahat bus-powered vs Satechi V3 100W PD Ethernet vs Elecom Japonya mevcuttur vs Plugable dual 4K Thunderbolt gerekli değildir. Hub vs dock açıklandı. Kablo yönetimi buradan başlar.",
+  "pinDescription": "2026 için 5 USB hub karşılaştırıldı — CalDigit TS4 Thunderbolt 4 pro dock vs Anker 564 seyahat bus-powered vs Satechi V3 100W PD Ethernet vs Elecom uygun fiyatlı USB-A vs Plugable dual 4K Thunderbolt gerekli değildir. Hub vs dock açıklandı. Kablo yönetimi buradan başlar.",
   "offerNotes": ""
 }
