@@ -843,7 +843,7 @@ export const PRICES: Record<string, Partial<Record<string, string>>> = {
   "panasonic-led-desk-lamp-wireless": { JP: "¥18,810" },
   "panasonic-mk-h4": { JP: "¥4,980" },
   "panasonic-mk-k48p": { JP: "¥15,000" },
-  "panasonic-nanocare-eh-hs0e": { US: "$129.99" },
+  "panasonic-nanocare-eh-hs0e": { US: "$110" },
   "panasonic-nanocare-ehna0j": { JP: "¥35,000" },
   "panasonic-sr-mp300": { JP: "¥21,493" },
   "panasonic-sr-v18ba": { JP: "¥150,000" },
