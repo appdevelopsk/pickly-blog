@@ -202,7 +202,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "jordan-tatum-3",
-    imageUrl: "https://m.media-amazon.com/images/I/71t7JU9BPIL._AC_SL1500_.jpg",
+    imageUrl: "",
     category: "fitness",
     name: { en: "Jordan Tatum 3" },
     description: { en: "The Tatum line is built for a versatile two-way wing, and its cushioning reflects that — a balanced Formula 23 foam and Zoom setup that protects landings while keeping a responsive, planted feel for all-around play." },
@@ -213,7 +213,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "new-balance-two-wxy-v5",
-    imageUrl: "https://media-www.sportchek.ca/product/div-05-footwear/dpt-80-footwear/sdpt-01-mens/334386675/new-balance-men-s-two-wxy-v5-basketball-shoes-e5550fa5-31c2-42f9-960e-54623df3fdcf-jpgrendition.jpg?imdensity=1&imwidth=1244&impolicy=gZoom",
+    imageUrl: "",
     category: "fitness",
     name: { en: "New Balance Two Wxy V5" },
     description: { en: "New Balance's Two WXY has quietly become one of the best-cushioned team shoes available, using NB's responsive FuelCell-style foam to deliver springy, comfortable landings in a build that fits wider feet better than most signature lines." },

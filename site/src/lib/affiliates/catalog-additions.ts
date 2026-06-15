@@ -422,7 +422,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bcaa-optimum-nutrition-instantized",
-    "imageUrl": "https://mysupplementbay.com/storage/2023/10/Optimum-Nutrition-Instantized-BCAA-5000-powder.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71n0uAjqepL._AC_SL1500_.jpg",
     "priceMin": "25",
     "priceMax": "45",
     "category": "food",
@@ -918,7 +918,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "body-scrub-frank-body-original",
-    "imageUrl": "https://bellezabh.com/product/63b33ada28027original-coffee-scrub-frankbody-min.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61T5Ec2d5kL._AC_.jpg",
     "priceMin": "¥3,080",
     "priceMax": "¥3,960",
     "category": "beauty",
@@ -970,7 +970,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "body-scrub-tatcha-polished-rice",
-    "imageUrl": "https://theglowgrove.com/wp-content/uploads/2025/10/51WKN9wlbdL._SL500_.jpg",
+    "imageUrl": "https://cdn1.feelunique.com/img/products/181591/tatcha_the_rice_polish_60g_gentle-1714202224.jpg",
     "priceMin": "¥7,920",
     "priceMax": "¥8,580",
     "category": "beauty",
@@ -1204,7 +1204,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cat-litter-worlds-best-multiple-cat",
-    "imageUrl": "https://petopia.ae/wp-content/uploads/2025/08/Petopiav1-2025-08-21T175000.870.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/71MzAH+8H2L._AC_.jpg",
     "priceMin": "4500",
     "priceMax": "12000",
     "category": "home",
@@ -1646,7 +1646,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "coconut-oil-life-extension-coconut",
-    "imageUrl": "https://tropikal.life/wp-content/uploads/2024/05/Organic-Virgin-coconut-oil_copy.jpg",
+    "imageUrl": "",
     "priceMin": "14.99",
     "priceMax": "22.99",
     "category": "food",
@@ -2454,7 +2454,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cooling-pillow-nishikawa-cool-jp",
-    "imageUrl": "https://www.nishikawa-air.in.th/wp-content/uploads/2022/04/Cool-Pad01-2-scaled.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d41f0d8f-83a1-4c82-b0d5-0cb55c925a7c.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     "priceMin": "4990",
     "priceMax": "12000",
     "category": "home",
@@ -2480,7 +2480,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "creatine-optimum-nutrition-micronized",
-    "imageUrl": "https://proteinhouseqa.com/wp-content/uploads/296-2-1024x1024.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/7108FMffTnL._AC_SL1500_.jpg",
     "priceMin": "22",
     "priceMax": "45",
     "category": "food",
@@ -3078,7 +3078,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dog-bed-iris-pet-sofa-jp",
-    "imageUrl": "https://pecpets.com/wp-content/uploads/2025/11/snoozer-pet-products-luxury-overstuffed-dog-sofa-camel-2.jpg",
+    "imageUrl": "https://media1.popsugar-assets.com/files/thumbor/FUy3eLsgS-Uhma9nzsqynClYv2M=/fit-in/792x792/filters:format_auto():upscale()/2024/10/28/569/n/1922243/157af2339f74adee_81QsPDDWmAL._AC_SL1500_.jpg",
     "priceMin": "3500",
     "priceMax": "9800",
     "category": "home",
@@ -3234,7 +3234,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dog-food-orijen-original",
-    "imageUrl": "https://www.petsarea.com.au/wp-content/uploads/2025/01/ORIGINAL-DOG-11.4KG.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61BQiPFIQbL._AC_SL1200_.jpg",
     "priceMin": "8500",
     "priceMax": "18000",
     "category": "home",
@@ -3520,7 +3520,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ergo-mouse-logitech-mx-ergo",
-    "imageUrl": "https://www.takeaseat.sg/wp-content/uploads/2021/03/Logitech-MX-Ergo-Vertical-Wireless-Ergonomic-Mouse-3-1000x1000.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Xsc-lNsXL._AC_.jpg",
     "priceMin": "10000",
     "priceMax": "13000",
     "category": "tech",
@@ -4222,7 +4222,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "gaming-chair-noblechairs-hero",
-    "imageUrl": "https://media.ldlc.com/r1600/ld/products/00/04/97/02/LD0004970215_2.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61ODYHYbOjL._AC_.jpg",
     "priceMin": "399",
     "priceMax": "499",
     "category": "tech",
@@ -4300,7 +4300,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "gaming-headset-steelseries-arctis-nova-pro",
-    "imageUrl": "https://media.ldlc.com/r1600/ld/products/00/06/13/42/LD0006134237_0006134253.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81A28zKdUjL._SL1500_.jpg",
     "priceMin": "249",
     "priceMax": "349",
     "category": "tech",
@@ -4534,7 +4534,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "gaming-kb-logicool-g913-jp",
-    "imageUrl": "https://www1.pcdepot.co.jp/html/upload/save_image/goods/4943765053118/0817130558_64dd9ca66242e.jpg",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71GoVt7G1UL.jpg",
     "priceMin": "25000",
     "priceMax": "35000",
     "category": "tech",
@@ -4612,7 +4612,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ghee-purity-farms-organic",
-    "imageUrl": "https://www.gfifoods.com/media/catalog/product/cache/608c797bf41e8874bcf75172f32fd01b/1/9/19336_oo5ja4k27qf5pajs.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71npzcaAJRL._SL1500_.jpg",
     "priceMin": "14.99",
     "priceMax": "20.99",
     "category": "food",
@@ -4950,7 +4950,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "grow-light-spider-farmer-sf2000",
-    "imageUrl": "https://hydropolis.com/wp-content/uploads/2021/09/41vmuNzZz5L.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61I++PSeCLL._AC_SL1500_.jpg",
     "priceMin": "189",
     "priceMax": "249",
     "category": "home",
@@ -5262,7 +5262,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hiking-poles-rei-co-op-traverse",
-    "imageUrl": "https://www.rei.com/media/2488fbe4-64ef-4cc3-8902-8c68478ace3e?size=784x588",
+    "imageUrl": "",
     "priceMin": "55",
     "priceMax": "65",
     "category": "fitness",
@@ -5392,7 +5392,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hot-choc-cacao-barry-plein-arome",
-    "imageUrl": "https://essentials.my/wp-content/uploads/2023/11/callebaut-new-packaging-plein-arome-cocoa-powder.jpg",
+    "imageUrl": "",
     "priceMin": "12.99",
     "priceMax": "19.99",
     "category": "food",
@@ -7891,7 +7891,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "nut-butter-barney-bare-almond",
-    "imageUrl": "https://eonnutrition.com/wp-content/uploads/2023/03/094922351258_C1N1.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/610SNj0Ex2L._SL1500_.jpg",
     "priceMin": "9.99",
     "priceMax": "14.99",
     "category": "food",
@@ -8203,7 +8203,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "packing-cubes-eagle-creek-pack-it",
-    "imageUrl": "https://www.zigzagging.net/wp-content/uploads/2017/05/Eagle-Creek-Pack-It-Specter-Set-White.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81vGZGo+yrL._AC_SL1500_.jpg",
     "priceMin": "45",
     "priceMax": "75",
     "category": "travel",
@@ -8671,7 +8671,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "pilates-ring-sissel-magic-circle",
-    "imageUrl": "https://www.sisseluk.com/media/catalog/product/cache/80715b400613091e754da11b960c3ee0/v/e/verp_circle.jpg",
+    "imageUrl": "https://www.sissel.fr/25827-large_default/pilates-circle-sissel.jpg",
     "priceMin": "35",
     "priceMax": "45",
     "category": "fitness",
@@ -8697,7 +8697,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "pilates-ring-black-mountain-14",
-    "imageUrl": "https://www.blackmountainproducts.com/wp-content/uploads/2015/10/Pilates-Ring-Black.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81r6Y0ghbQL.jpg",
     "priceMin": "22",
     "priceMax": "30",
     "category": "fitness",
@@ -8853,7 +8853,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "plant-pot-lechuza-classico",
-    "imageUrl": "https://www.pricerunner.com/product/3009776134/Lechuza-Classico-Plastic-Self-Watering-Plant-Pot-40cm-H-x-43cm-W-x-43cm-D.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51h8JiEFQNL._AC_SL1500_.jpg",
     "priceMin": "35",
     "priceMax": "95",
     "category": "home",
@@ -9581,7 +9581,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ring-light-godox-lc500r",
-    "imageUrl": "https://sscamerabd.com/wp-content/uploads/2025/11/45OO6pZIsxn5WnfXGkAT0miRlTy5HZaE5HzUGXOy.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71MjyqnNKgL.jpg",
     "priceMin": "13000",
     "priceMax": "18000",
     "category": "tech",
@@ -9659,7 +9659,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "running-belt-amphipod-airflow-lite",
-    "imageUrl": "https://revelsports.com/wp-content/uploads/2022/05/amphipod-airflow-lite.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61OTrF9EVHL._AC_SL1500_.jpg",
     "priceMin": "35",
     "priceMax": "46",
     "category": "fitness",
@@ -9685,7 +9685,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "running-belt-naked-running-band",
-    "imageUrl": "https://www.sported.ae/product/naked-running-sl-band/SL_band.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/81ug6hWQO5L._AC_SL1500_.jpg",
     "priceMin": "58",
     "priceMax": "72",
     "category": "fitness",
@@ -10491,7 +10491,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "slow-juicer-aobosi-slow-masticating",
-    "imageUrl": "https://techdgadgets.com/wp-content/uploads/2023/11/aobosi-slow-masticating-juicer-review.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71BRLeZaLYL._AC_SX569_.jpg",
     "priceMin": "79",
     "priceMax": "119",
     "category": "food",
@@ -10803,7 +10803,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "snorkel-mask-cressi-big-eyes",
-    "imageUrl": "https://www.underwatersports.com.au/wp-content/uploads/2023/02/big-eyes-alpha-dry-set-pink-e1734133494471.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/719LMSpvCvL._AC_SX569_.jpg",
     "priceMin": "33",
     "priceMax": "40",
     "category": "fitness",
@@ -10829,7 +10829,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "snorkel-mask-ocean-reef-aria",
-    "imageUrl": "https://www.divers-supply.com/media/catalog/product/cache/0d72e8aab34c9bd0640edabe4adc06f4/image/783556fa2/ocean-reef-aria-full-face-snorkeling-mask-with-talkie-bundle.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/715KQQm+hkL._AC_SL1500_.jpg",
     "priceMin": "125",
     "priceMax": "135",
     "category": "fitness",
@@ -10907,7 +10907,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "snorkel-mask-mares-x-vision",
-    "imageUrl": "https://www.divefactorysa.co.za/wp-content/uploads/2016/02/mares-x-vision-liquidskin-dive-mask-2048x1151.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61PCidYqqYL._AC_SL1500_.jpg",
     "priceMin": "42",
     "priceMax": "52",
     "category": "fitness",
@@ -11557,7 +11557,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "toner-pixi-glow",
-    "imageUrl": "https://www.jannysbeauty.com/wp-content/uploads/2017/04/Agenda_Pixi-Glow-Tonic-.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61lw7881TNL._SL1500_.jpg",
     "priceMin": "¥3,500",
     "priceMax": "¥4,200",
     "category": "beauty",
@@ -11661,7 +11661,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "trail-shoes-asics-gel-trabuco-jp",
-    "imageUrl": "https://www.asics.co.in/media/catalog/product/1/0/1011b799_300_sr_rt_glb-base.jpg?auto=webp&format=pjpg&width=960&height=1200&fit=cover",
+    "imageUrl": "https://m.media-amazon.com/images/I/71CIufXreoL._AC_SL1500_.jpg",
     "priceMin": "15000",
     "priceMax": "18000",
     "category": "fitness",
@@ -12077,7 +12077,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "tws-anker-soundcore-liberty-4",
-    "imageUrl": "https://dropshop.com.bd/wp-content/uploads/2023/07/Anker-Soundcore-Liberty-4-TWS-Noise-Cancelling-Earbuds-in-BD.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61c62hulIKL._AC_SL1500_.jpg",
     "priceMin": "8990",
     "priceMax": "11000",
     "category": "tech",
@@ -12155,7 +12155,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "usb-hub-satechi-v3-multiport",
-    "imageUrl": "https://www.appelhoes.nl/Files/3/7000/7181/ProductPhotos/Source/2059856808.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61l-zhaiPXL._AC_SL1500_.jpg",
     "priceMin": "14000",
     "priceMax": "18000",
     "category": "tech",
@@ -12207,7 +12207,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "usb-hub-plugable-ud-6950z",
-    "imageUrl": "https://bvmindia.in/wp-content/uploads/2023/02/Plugable-UD-6950Z.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71BQRKCZWwL._AC_SL1500_.jpg",
     "priceMin": "25000",
     "priceMax": "35000",
     "category": "tech",
@@ -12233,7 +12233,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vitamin-c-serum-melano-cc",
-    "imageUrl": "https://mabahijalkhad.com/wp-content/uploads/2025/06/melano-CC.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/41vUFQpm64L._AC_.jpg",
     "priceMin": "¥880",
     "priceMax": "¥880",
     "category": "beauty",
@@ -12285,7 +12285,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vitamin-c-serum-obagi",
-    "imageUrl": "https://utahbodyandsoul.com/wp-content/uploads/2022/08/original-69.jpeg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61ML2l3aaJL._SL1500_.jpg",
     "priceMin": "$79",
     "priceMax": "$79",
     "category": "beauty",
@@ -12337,7 +12337,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vitamin-c-serum-naturium",
-    "imageUrl": "https://everythingbeautygh.com/wp-content/uploads/3781.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51As4G9l7TL.jpg",
     "priceMin": "$22",
     "priceMax": "$22",
     "category": "beauty",
@@ -12363,7 +12363,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vitamin-d-now-foods-5000iu",
-    "imageUrl": "https://www.byclue.com/product/now-foods-vitamin-d-3-high-potency-5000-iu-120-softgels/8-275.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81rTZG9T3IL._AC_SL1500_.jpg",
     "priceMin": "10",
     "priceMax": "20",
     "category": "food",
@@ -12415,7 +12415,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vitamin-d-nordic-naturals-d3",
-    "imageUrl": "https://allinonevitamins.com/wp-content/uploads/2024/04/71iaqUcNLUL._AC_SL1500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71iaqUcNLUL._AC_SL1500_.jpg",
     "priceMin": "18",
     "priceMax": "35",
     "category": "food",
@@ -12987,7 +12987,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "yoga-strap-liforme-180cm",
-    "imageUrl": "https://www.theyogashop.co.nz/wp-content/uploads/2019/05/products-dsc_5831_1_2.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Lu0eSDQ0L._AC_SL1500_.jpg",
     "priceMin": "22",
     "priceMax": "28",
     "category": "fitness",
@@ -13950,7 +13950,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "amex-gold-card",
-    "imageUrl": "https://investintrepid.com/wp-content/uploads/2025/02/American-Express-Gold-Card.png",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61wUVci7U-L.jpg",
     "priceMin": "$325",
     "priceMax": "$325",
     "category": "finance",
@@ -14080,7 +14080,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ally-online-savings",
-    "imageUrl": "https://moneyconnexion.com/wp-content/uploads/2023/03/Ally-Bank-Online-Savings-Account.jpg",
+    "imageUrl": "",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -16394,7 +16394,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "osprey-daylite-plus",
-    "imageUrl": "https://images.snowleader.com/cdn-cgi/image/f=auto,fit=scale-down,q=85/https://images.snowleader.com/media/catalog/product/cache/1/image/0dc2d03fe217f8c83829496872af24a0/O/S/OSPR01731_01_202412190604.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71zTH0YS8KL._AC_SL1500_.jpg",
     "priceMin": "$75",
     "priceMax": "$85",
     "category": "travel",
@@ -17694,7 +17694,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sofi-personal-loan",
-    "imageUrl": "https://i.ytimg.com/vi/29lepu9TcgY/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/32Sc45wn2t8/maxresdefault.jpg",
     "priceMin": "$0 fee",
     "priceMax": "$0 fee",
     "category": "finance",
@@ -18110,7 +18110,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "kraken-pro",
-    "imageUrl": "https://media.ldlc.com/r1600/ld/products/00/06/17/92/LD0006179225.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61mH1G+od7L._AC_SL1500_.jpg",
     "priceMin": "0.26% taker",
     "priceMax": "0.26% taker",
     "category": "finance",
@@ -18318,7 +18318,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fidelity-rollover-ira",
-    "imageUrl": "https://i.ytimg.com/vi/Xxlwa91oqeo/maxresdefault.jpg",
+    "imageUrl": "https://www.fidelity.com/bin-public/060_www_fidelity_com/images/customer-service/transfer-rollover-ira-screen2.png",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -18344,7 +18344,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "schwab-rollover-ira",
-    "imageUrl": "https://www.brokerage-review.com/images/1/charles/misc/schwab-rollover-ira.jpg",
+    "imageUrl": "",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -18370,7 +18370,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vanguard-rollover-ira",
-    "imageUrl": "https://www.mysolo401k.net/wp-content/uploads/2025/09/Unlocking-the-Backdoor-Roth-IRA-with-Vanguard-How-to-Use-Reverse-Rollovers-to-Avoid-the-Pro-Rata-Rule.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51eMALK2ZwL._SY445_SX342_QL70_ML2_.jpg",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -18396,7 +18396,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "etrade-rollover-ira",
-    "imageUrl": "https://www.brokerage-review.com/images/1/ETRADE/ETRADE-Securities.png",
+    "imageUrl": "",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -18578,7 +18578,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "spectra-s1-plus",
-    "imageUrl": "https://spectrababy.id/assets/detail_produk/sku_2024-06.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61B7pP6VqAL._SL1500_.jpg",
     "priceMin": "$190",
     "priceMax": "$220",
     "category": "parenting",
@@ -18760,7 +18760,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "joovy-spoon-walker",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51G8z6SUEZL.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61FSOgna-LL._AC_.jpg",
     "priceMin": "$70",
     "priceMax": "$110",
     "category": "parenting",
@@ -19384,7 +19384,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "petsafe-drinkwell-360-fountain",
-    "imageUrl": "https://www.petbarn.com.au/media/catalog/product/1/2/127127_5.jpg?optimize=medium&fit=bounds&height=&width=",
+    "imageUrl": "https://m.media-amazon.com/images/I/71iSgVxItfL.jpg",
     "priceMin": "$70",
     "priceMax": "$95",
     "category": "pets",
@@ -19956,7 +19956,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "skout-honor-stain-odor",
-    "imageUrl": "https://naturalpetpantry.com/wp-content/uploads/2025/10/4b9cfae02eab5e58ce42ba035ece94e72c774e7f.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Pfe3Kq3bL._AC_.jpg",
     "priceMin": "$15",
     "priceMax": "$25",
     "category": "pets",
@@ -22270,7 +22270,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fidelity-wealth-services",
-    "imageUrl": "https://topratedfirms.com/images/1/fidelity/wealth/fidelity-wealth-managment-2.jpg",
+    "imageUrl": "https://wealth.fidelity.ca/content/dam/fidelity/images/other/og-images/fidelity-canada-wealth-OG-1200x630-1961961.png",
     "priceMin": "0.50-1.04% AUM",
     "priceMax": "0.50-1.04% AUM",
     "category": "finance",
@@ -22920,7 +22920,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "shnuggle-baby-bath",
-    "imageUrl": "https://kidsalot.co.za/kidsalot/wp-content/uploads/2023/09/Shnuggle-Product-Room-Set-2864-scaled.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51qJUtqtCYL._SL1500_.jpg",
     "priceMin": "$30",
     "priceMax": "$45",
     "category": "parenting",
@@ -23804,7 +23804,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "lupine-cat-collar",
-    "imageUrl": "https://spencersgc.ca/wp-content/uploads/2024/07/01972437-1.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/61eB7JTecPL._AC_.jpg",
     "priceMin": "$10",
     "priceMax": "$18",
     "category": "pets",
@@ -24012,7 +24012,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "google-fi",
-    "imageUrl": "https://greenlitcontent.com/wp-content/uploads/2025/01/Google-Fi-vs.-Verizon.jpg",
+    "imageUrl": "https://cdn.neowin.com/news/images/uploaded/2020/02/1581546013_google_fi_on_amazon.jpg",
     "priceMin": "$20/mo",
     "priceMax": "$80/mo",
     "category": "travel",
@@ -24714,7 +24714,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "linode-shared-cpu",
-    "imageUrl": "https://i.ytimg.com/vi/2vAPMBy2rLU/maxresdefault.jpg",
+    "imageUrl": "https://hostingengines.com/wp-content/uploads/2022/02/Linode-Shared-CPU-Plans-1024x581.jpg",
     "priceMin": "$5",
     "priceMax": "$144",
     "category": "tech",
@@ -24974,7 +24974,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "viofo-a129-pro-duo",
-    "imageUrl": "https://www.sportgps.com.au/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/a/1/a129-duo-dual-4k.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71MRICLErxL.jpg",
     "priceMin": "$200",
     "priceMax": "$240",
     "category": "tech",
@@ -25598,7 +25598,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "uniqlo-rayon-easy-dress",
-    "imageUrl": "https://www.refinery29.com/images/11118239.png",
+    "imageUrl": "https://www.uniqlo.com/ph/en/news/topics/2019071001/img/34T_SC2F190620pGaEun.jpg",
     "priceMin": "$40",
     "priceMax": "$50",
     "category": "fashion",
@@ -25962,7 +25962,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "polene-numero-un-mini",
-    "imageUrl": "https://media.karousell.com/media/photos/products/2022/10/17/polene_numero_un_mini_1666005099_7dd0dafb_progressive.jpg",
+    "imageUrl": "https://thefrench.com/wp-content/uploads/2020/12/Polene-Numero-Un-Mini-Bag-Beige_IMG_2754.jpg",
     "priceMin": "$390",
     "priceMax": "$490",
     "category": "fashion",
@@ -26898,7 +26898,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "usaa-homeowners",
-    "imageUrl": "https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/9/AmazonStores/ATVPDKIKX0DER/2cd0d14d3e83ecbb80c0ceff23d7af70.w800.h400._CR0%2C0%2C800%2C400_SX800_.jpg",
+    "imageUrl": "https://images-cdn.ispot.tv/ad/5ytw/default-large.jpg",
     "priceMin": "Varies",
     "priceMax": "Varies",
     "category": "finance",
@@ -27860,7 +27860,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "smartcat-ultimate-scratching-post",
-    "imageUrl": "https://www.pjpetproducts.co.uk/wp-content/uploads/2022/06/extra-327-1024x1024.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61XQ3+a8VsL._AC_SL1500_.jpg",
     "priceMin": "$45",
     "priceMax": "$65",
     "category": "pets",
@@ -28094,7 +28094,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "midwest-hamster-supreme",
-    "imageUrl": "https://www.zooshop.ch/wp-content/uploads/2023/01/422341.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/91BCAnVB7nL._AC_SL1500_.jpg",
     "priceMin": "$50",
     "priceMax": "$80",
     "category": "pets",
@@ -28458,7 +28458,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "irobot-roomba-j7-plus",
-    "imageUrl": "https://robothutbui.vn/wp-content/uploads/2022/04/irobot_roomba_j7_plus_4225.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71AtA9+vXdL._AC_.jpg",
     "priceMin": "$650",
     "priceMax": "$850",
     "category": "pets",
@@ -28848,7 +28848,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "veken-6-set-packing-cubes",
-    "imageUrl": "https://wiztour.com/wp-content/uploads/2024/05/veken-6-set-packing-cubes-for-suitcases-travel-organizer-bags-in-4-sizes-for-carry-on-luggage-and-essentials-extra-large-890x1024.jpg",
+    "imageUrl": "https://www.travelandleisure.com/thmb/U06br1MeJdUuSyyd2enTiEQ1Rlc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/veken-6-set-packing-cubes-for-suitcases-11c4ea1168e849c1ac1503b89393c2ef.jpg",
     "priceMin": "$25",
     "priceMax": "$35",
     "category": "travel",
@@ -29316,7 +29316,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "state-farm-renters",
-    "imageUrl": "https://www.insuranceoncheap.com/wp-content/uploads/state-farm-renters-insurance-reviews-768x768.png",
+    "imageUrl": "https://assets.reviews.com/uploads/2016/12/08102619/State-Farm-SG.png",
     "priceMin": "$15",
     "priceMax": "$25",
     "category": "finance",
@@ -29758,7 +29758,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "armor-all-aa255w",
-    "imageUrl": "https://extremediy.org/wp-content/uploads/2025/02/armor-all-aa255w-wetdry-utility-vac-review-600x1183.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aea7c424-0f3f-4654-a952-21a4de42b27a.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     "priceMin": "$30",
     "priceMax": "$50",
     "category": "tech",
@@ -29914,7 +29914,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "kobalt-80v-21-mower",
-    "imageUrl": "https://m.media-amazon.com/images/I/71gu4m+ZKUL._AC_SL1500_.jpg",
+    "imageUrl": "https://mobileimages.lowes.com/productimages/3a9ad339-efcc-4b0f-b3ec-2436b57bfbc8/11562880.jpg?size=pdhism",
     "priceMin": "$400",
     "priceMax": "$550",
     "category": "home",
@@ -30252,7 +30252,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "travelex-travel-select",
-    "imageUrl": "https://www.digitalnomadreport.com/wp-content/uploads/2024/11/Travelex-Travel-Select-1-2048x993.jpg",
+    "imageUrl": "",
     "priceMin": "$60",
     "priceMax": "$300",
     "category": "finance",
@@ -30278,7 +30278,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "imglobal-iimat",
-    "imageUrl": "https://imglobal.com.sg/wp-content/uploads/2024/02/IM-global-temp-logo-W-1-1.png",
+    "imageUrl": "",
     "priceMin": "$70",
     "priceMax": "$500",
     "category": "finance",
@@ -30356,7 +30356,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "google-cloud-compute-engine",
-    "imageUrl": "https://cloudcomputinggate.com/wp-content/uploads/2021/10/Google-Cloud-Compute-Engine.png",
+    "imageUrl": "https://cloud-ace.vn/wp-content/uploads/2022/09/Landing-Page-660x400-2.png",
     "priceMin": "$12",
     "priceMax": "$10000",
     "category": "tech",
@@ -30642,7 +30642,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "milwaukee-m18-fuel-blower",
-    "imageUrl": "https://hardwarecity.com.sg/uploads/product/1740449776_M18%20F2BL%20KIT.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/41HttVdsF-L._AC_.jpg",
     "priceMin": "$250",
     "priceMax": "$380",
     "category": "home",
@@ -31344,7 +31344,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "seiko-5-sports-quartz",
-    "imageUrl": "https://www.seikocolombia.com/wp-content/uploads/2024/11/SSK035K1.png",
+    "imageUrl": "",
     "priceMin": "$150",
     "priceMax": "$220",
     "category": "fashion",
@@ -31474,7 +31474,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hestra-elegance-hairsheep",
-    "imageUrl": "https://frejaskind.dk/8484-large_default/Jake-laederhandske-herre-sort-hairsheep-m-uldfoer-Hestra.jpg",
+    "imageUrl": "https://cdn.media.amplience.net/i/harryrosen/20163032075?maxW=3840&fmt=auto",
     "priceMin": "$155",
     "priceMax": "$210",
     "category": "fashion",
@@ -31786,7 +31786,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "walmart-moneycard-prepaid",
-    "imageUrl": "https://i.ytimg.com/vi/VaaX7VlfFKk/maxresdefault.jpg",
+    "imageUrl": "",
     "priceMin": "Free",
     "priceMax": "$5.94/mo",
     "category": "finance",
@@ -31968,7 +31968,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "chime-credit-builder-card",
-    "imageUrl": "https://m.media-amazon.com/images/I/61j3gSmvJnL._AC_SL1000_.jpg",
+    "imageUrl": "",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -32046,7 +32046,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "discover-money-market",
-    "imageUrl": "https://www.slideteam.net/media/catalog/product/cache/1280x720/d/i/discover_money_market_in_powerpoint_and_google_slides_cpb_slide01.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/QMBM66cfBvU/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -32072,7 +32072,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sallie-mae-money-market",
-    "imageUrl": "https://i.ytimg.com/vi/YwU0rybZ7ig/maxresdefault.jpg",
+    "imageUrl": "https://play-lh.googleusercontent.com/-Is9Y89zuQeFE3Pq1cT_O1A3NH-MdtovYLPxcQNmIMqvrCcnhj8v0h7tYOQSlE3xzowx=w526-h296",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -32202,7 +32202,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "synchrony-bank-cd",
-    "imageUrl": "https://joinpd.io/wp-content/uploads/2024/12/synchrony-bank-amazon.png",
+    "imageUrl": "",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -32488,7 +32488,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "crane-droplet-humidifier",
-    "imageUrl": "https://www.moostbrand.com/wp-content/uploads/2020/05/077786-768x768.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61nCSGiY9-L._AC_SL1500_.jpg",
     "priceMin": "$40",
     "priceMax": "$55",
     "category": "parenting",
@@ -33658,7 +33658,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "quickdraw-tag-shop-tag",
-    "imageUrl": "https://www.quickdrawsupplies.com/wp-content/uploads/2024/09/81YZThvTvFL.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71m2VDi2-wL._AC_SL1500_.jpg",
     "priceMin": "$5",
     "priceMax": "$8",
     "category": "pets",
@@ -33970,7 +33970,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "yeti-rambler-20oz-travel-mug",
-    "imageUrl": "https://www.gatesgardencentre.co.uk/wp-content/uploads/yeti-rambler-20oz-travel-mug-seafoam-front.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51IcqwBWweL._AC_SL1500_.jpg",
     "priceMin": "$35",
     "priceMax": "$45",
     "category": "travel",
@@ -34880,7 +34880,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "porkbun-registrar",
-    "imageUrl": "https://nightcloakeddeck.co.uk/wp-content/uploads/2025/08/Gemini_Generated_Image_j4je1bj4je1bj4je-1024x1024.png",
+    "imageUrl": "https://askeustache.com/images/porkbun-registrar-services-review.png",
     "priceMin": "$8",
     "priceMax": "$15",
     "category": "tech",
@@ -35400,7 +35400,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "next-insurance-bop",
-    "imageUrl": "https://www.nextinsurance.com/wp-content/uploads/2023/10/phone3.png",
+    "imageUrl": "https://i.ytimg.com/vi/bJNdbQF5iMI/maxresdefault.jpg",
     "priceMin": "$25",
     "priceMax": "$200",
     "category": "finance",
@@ -35608,7 +35608,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "humana-dental-loyalty-plus",
-    "imageUrl": "https://greatsenioryears.com/wp-content/uploads/2024/02/senior-dental-insurance-plans-1.jpg",
+    "imageUrl": "",
     "priceMin": "$30",
     "priceMax": "$80",
     "category": "finance",
@@ -36570,7 +36570,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "mailchimp-standard",
-    "imageUrl": "https://mywifequitherjob.com/blog/wp-content/uploads/2019/07/standard.jpg",
+    "imageUrl": "https://www.smbguide.com/wp-content/uploads/2024/07/mailchimp-standard-plan.png",
     "priceMin": "$0",
     "priceMax": "$500",
     "category": "tech",
@@ -36700,7 +36700,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vsp-individual-vision",
-    "imageUrl": "https://cahip-norcal.org/wp-content/uploads/2024/08/129635-24-VC-VSPIndividualVisionPlans-EmailHeader.jpg",
+    "imageUrl": "",
     "priceMin": "$13",
     "priceMax": "$40",
     "category": "finance",
@@ -37038,7 +37038,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "workday-hcm",
-    "imageUrl": "https://hkrtrainings.com/storage/photos/809/Workday%20HCM%20Modules.jpg",
+    "imageUrl": "https://connecteam.com/wp-content/uploads/2023/08/www.workday.com_en-us_products_human-capital-management_overview.html-1024x658.png",
     "priceMin": "$8",
     "priceMax": "$30",
     "category": "tech",
@@ -37714,7 +37714,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "preen-mulch-plus-pre-emergent",
-    "imageUrl": "https://mobileimages.lowes.com/product/converted/082567/082567032588xl.jpg",
+    "imageUrl": "http://www.northeastnursery.com/prodcatalogue/product/2511/2511_1.jpg",
     "priceMin": "$25",
     "priceMax": "$50",
     "category": "home",
@@ -38268,7 +38268,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hibbent-silicone-toilet-brush",
-    "imageUrl": "https://www.hibbent.com/wp-content/uploads/2023/03/hibbent-hibbent-silicone-toilet-brush-with-ventilated-drying-holder-floor-standing-wall-mounted-without-drilling-29220262051907.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61xaDnZBRwL._AC_SL1500_.jpg",
     "priceMin": "$20",
     "priceMax": "$28",
     "category": "home",
@@ -39499,7 +39499,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "charlotte-tilbury-magic-away",
-    "imageUrl": "https://www.klarna.com/sac/product/640x640/3001200838/Charlotte-Tilbury-Magic-Away-Liquid-Concealer-10-Tan.jpg?ph=true",
+    "imageUrl": "https://m.media-amazon.com/images/I/51FECeWrTcL._AC_SX522_.jpg",
     "priceMin": "35",
     "priceMax": "35",
     "category": "beauty",
@@ -39523,7 +39523,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "rare-beauty-liquid-touch-concealer",
-    "imageUrl": "https://www.pricerunner.se/product/3004180392/Rare-Beauty-Liquid-Touch-Brightening-Concealer-400W.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/51t8-Ot7viL._AC_SL1500_.jpg",
     "priceMin": "22",
     "priceMax": "22",
     "category": "beauty",
@@ -39878,7 +39878,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "stacked-skincare-roller",
-    "imageUrl": "https://beautyinsider.sg/wp-content/uploads/2018/10/Stacked-Skincare-Micro-Roller.jpg",
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcIUALtueH-yt732WQxUikBD5Pc5ipGykqHaF4l3NeRVBGYob93WJqnovVcm2-oBYOvNHpGVBJ2HCXuo9MCAaIbMCQg0C77QcOJ50hldot4J5dUd4WkBAVLHzb0JEYTyY5rC9jVAkLm1jlIrF7xjqVvwQA0092mZAfnrm1RM2a9S3aJqx55xDTCoxZ/s16000/IMG_8448.jpg",
     "category": "beauty",
     "badge": "💉 Best for Collagen Results",
     "name": {
@@ -40142,7 +40142,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "opi-nail-polish",
-    "imageUrl": "https://www.cherrycosmetics.co.uk/wp-content/uploads/2020/10/OPI20Nail20Polish-1024x1024.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61MqLoG7LGL._SL1500_.jpg",
     "category": "beauty",
     "badge": "💅 Best Shade Range",
     "name": {
@@ -40164,7 +40164,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "essie-nail-polish",
-    "imageUrl": "https://www.cherrycosmetics.co.uk/wp-content/uploads/2021/11/Essie-Nail-Polish.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Jcgb30-IL.jpg",
     "category": "beauty",
     "badge": "🎨 Best for Beginners",
     "name": {
@@ -41000,7 +41000,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "floyd-platform-bed",
-    imageUrl: "https://lumberjac.com/wp-content/uploads/2018/03/The-Floyd-Platform-Bed-2LumberJac.jpg",
+    imageUrl: "",
     category: "home",
     name: { en: "Floyd Platform Bed" },
     description: { en: "The Floyd Platform Bed is the design-icon pick for a modern, minimalist statement frame built to last and move with you." },
@@ -41528,7 +41528,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "gen7pets-natural-step-ramp",
-    imageUrl: "https://m.media-amazon.com/images/I/61oJTpNTNTL._AC_SL1500_.jpg",
+    imageUrl: "https://www.campingworld.com/dw/image/v2/BCJK_PRD/on/demandware.static/-/Sites-global-master-catalog/default/dwcc761ad1/images/large/76605_8.jpg?sw=800&sh=800",
     category: "pets",
     name: { en: "Gen7pets Natural Step Ramp" },
     description: { en: "The Gen7Pets Natural Step Ramp is the pick for indoor, in-home use — helping dogs reach beds, sofas, and windows — with a focus on style and a gentle, stair-like design." },
@@ -42815,7 +42815,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "acorn-moc-slipper",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/41h6rSJGBRL._SY395_QL70_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/81VYZgDtyFL._AC_SL1500_.jpg",
     category: "fashion",
     name: { en: "Acorn Moc Slipper" },
     description: { en: "The Acorn Moc Slipper is the pick when you want actual support, not just padding." },
@@ -43376,7 +43376,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "tp-link-archer-ax21",
-    imageUrl: "https://m.media-amazon.com/images/I/614xyWFBJGL._AC_SL1500_.jpg",
+    imageUrl: "",
     category: "tech",
     name: { en: "Tp Link Archer Ax21" },
     description: { en: "The TP-Link Archer AX21 is the budget Wi-Fi 6 entry at around $70 — a dual-band AX1800 router that brings Wi-Fi 6 efficiency and the easy Tether-app setup to small homes and apart…" },
