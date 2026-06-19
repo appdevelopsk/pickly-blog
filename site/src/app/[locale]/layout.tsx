@@ -3,7 +3,8 @@ import { Inter } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
-import { LOCALES, getDirection, type Locale } from "@/lib/i18n/locales";
+import { LOCALES, getDirection, isIndexedLocale, type Locale } from "@/lib/i18n/locales";
+import type { Metadata } from "next";
 import { SiteHeader } from "@/components/layout/SiteHeader";
 import { SiteFooter } from "@/components/layout/SiteFooter";
 import { Suspense } from "react";
@@ -32,6 +33,25 @@ export const viewport: Viewport = {
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
+}
+
+// 非インデックス対象ロケール（実クリック0の死蔵言語）はサイト全体を noindex。
+// 子ページは robots を上書きしないため、このロケール層の指定が全ページに継承される
+// （follow は維持し内部リンクの評価は流す）。詳細は locales.ts の INDEXED_LOCALES。
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const index = isIndexedLocale(locale);
+  return {
+    robots: {
+      index,
+      follow: true,
+      googleBot: { index, follow: true, "max-image-preview": "large" },
+    },
+  };
 }
 
 interface Props {

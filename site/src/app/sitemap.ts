@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { LOCALES } from "@/lib/i18n/locales";
+import { LOCALES, isIndexedLocale } from "@/lib/i18n/locales";
 import { listArticles } from "@/lib/articles/registry";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { isArticleBodyTranslated } from "@/lib/i18n/loader";
@@ -27,10 +27,12 @@ const CATEGORIES = [
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date().toISOString();
   const out: MetadataRoute.Sitemap = [];
+  // 検索インデックス対象ロケールのみ sitemap / hreflang に載せる（死蔵言語は除外）。
+  const IDX = LOCALES.filter(isIndexedLocale);
 
   // Static pages × 17 locales
   for (const path of STATIC_PATHS) {
-    for (const locale of LOCALES) {
+    for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}${path}/`,
         lastModified: now,
@@ -38,7 +40,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: path === "" ? 1.0 : 0.5,
         alternates: {
           languages: Object.fromEntries(
-            LOCALES.map((l) => [l, `${SITE_URL}/${l}${path}/`]),
+            IDX.map((l) => [l, `${SITE_URL}/${l}${path}/`]),
           ),
         },
       });
@@ -47,7 +49,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Budget pages × 17 locales
   for (const budget of BUDGETS) {
-    for (const locale of LOCALES) {
+    for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/under-${budget}/`,
         lastModified: now,
@@ -55,7 +57,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.7,
         alternates: {
           languages: Object.fromEntries(
-            LOCALES.map((l) => [l, `${SITE_URL}/${l}/under-${budget}/`]),
+            IDX.map((l) => [l, `${SITE_URL}/${l}/under-${budget}/`]),
           ),
         },
       });
@@ -64,85 +66,85 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Gift guide pages × 17 locales
   for (const occ of OCCASIONS) {
-    for (const locale of LOCALES) {
+    for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/gifts/${occ.slug}/`,
         lastModified: now,
         changeFrequency: "monthly",
         priority: 0.8,
-        alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/gifts/${occ.slug}/`])) },
+        alternates: { languages: Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/gifts/${occ.slug}/`])) },
       });
     }
   }
 
   // Use-case pages × 17 locales
   for (const uc of USE_CASES) {
-    for (const locale of LOCALES) {
+    for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/for/${uc.slug}/`,
         lastModified: now,
         changeFrequency: "monthly",
         priority: 0.7,
-        alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/for/${uc.slug}/`])) },
+        alternates: { languages: Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/for/${uc.slug}/`])) },
       });
     }
   }
 
   // Brand pages × 17 locales
   for (const brand of BRANDS) {
-    for (const locale of LOCALES) {
+    for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/brand/${brand.slug}/`,
         lastModified: now,
         changeFrequency: "monthly",
         priority: 0.6,
-        alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/brand/${brand.slug}/`])) },
+        alternates: { languages: Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/brand/${brand.slug}/`])) },
       });
     }
   }
 
   // Sale event pages × 17 locales
   for (const ev of SALE_EVENTS) {
-    for (const locale of LOCALES) {
+    for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/sale/${ev.slug}/`,
         lastModified: now,
         changeFrequency: "monthly" as const,
         priority: 0.7,
-        alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/sale/${ev.slug}/`])) },
+        alternates: { languages: Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/sale/${ev.slug}/`])) },
       });
     }
   }
 
   // Tag pages × 17 locales
   for (const tag of TAGS) {
-    for (const locale of LOCALES) {
+    for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/tag/${tag.slug}/`,
         lastModified: now,
         changeFrequency: "weekly" as const,
         priority: 0.7,
-        alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/tag/${tag.slug}/`])) },
+        alternates: { languages: Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/tag/${tag.slug}/`])) },
       });
     }
   }
 
   // Compare pages × 17 locales
   for (const cmp of COMPARISONS) {
-    for (const locale of LOCALES) {
+    for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/compare/${cmp.slug}/`,
         lastModified: now,
         changeFrequency: "monthly" as const,
         priority: 0.8,
-        alternates: { languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/compare/${cmp.slug}/`])) },
+        alternates: { languages: Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/compare/${cmp.slug}/`])) },
       });
     }
   }
 
   // Category pages × 17 locales
   for (const cat of CATEGORIES) {
-    for (const locale of LOCALES) {
+    for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/category/${cat}/`,
         lastModified: now,
@@ -150,7 +152,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.7,
         alternates: {
           languages: Object.fromEntries(
-            LOCALES.map((l) => [l, `${SITE_URL}/${l}/category/${cat}/`]),
+            IDX.map((l) => [l, `${SITE_URL}/${l}/category/${cat}/`]),
           ),
         },
       });
@@ -164,7 +166,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const article of listArticles()) {
     const indexLocales = article.locales.filter(
       (l) =>
-        LOCALES.includes(l) &&
+        isIndexedLocale(l) &&
         hasApprovedAds(article, l) &&
         isArticleBodyTranslated(article.slug, l),
     );

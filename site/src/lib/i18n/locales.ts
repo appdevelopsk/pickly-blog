@@ -29,6 +29,22 @@ export const LOCALES = LOCALE_DEFS.filter((l) => l.active).map((l) => l.code);
 export const ALL_LOCALES = LOCALE_DEFS.map((l) => l.code);
 export const DEFAULT_LOCALE: Locale = "en";
 
+/**
+ * 検索インデックス対象ロケール（2026-06-19）。Search Console 28日実測で
+ * クリックを生むのはこの8言語のみ（en/de/es/it/ru + 表示のある fr/pt-BR +
+ * 本拠地 ja）。残り9言語（zh-CN/zh-TW/ko/ar/hi/id/th/vi/tr）は28日で
+ * ほぼ0クリックなのに大量の死蔵ページとなり、サイト全体の品質評価(HCU)を
+ * 下げていた（量産7,938ページ中の表示は5.6%のみ）。
+ * → 全言語のページ自体は残す（URL/UI言語切替は不変・内部リンクは follow）が、
+ *   非対象ロケールを noindex + sitemap除外して死蔵在庫を検索から外す。
+ * 再開は本配列に該当コードを戻すだけ（可逆）。
+ */
+export const INDEXED_LOCALES: Locale[] = ["en", "ja", "de", "es", "fr", "it", "ru", "pt-BR"];
+
+export function isIndexedLocale(code: string): boolean {
+  return (INDEXED_LOCALES as readonly string[]).includes(code);
+}
+
 export function getLocaleDef(code: string) {
   return LOCALE_DEFS.find((l) => l.code === code);
 }
