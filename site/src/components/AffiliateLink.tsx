@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { pickLink, pickAllLinks } from "@/lib/affiliates/catalog";
 import { buildAffiliateUrl } from "@/lib/affiliates/asp";
+import { rakutenSearchUrl } from "@/lib/affiliates/rakuten";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
 import type { AffiliateOffer, AspNetwork } from "@/lib/affiliates/types";
 import type { Market } from "@/lib/affiliates/types";
@@ -51,12 +52,28 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
   const name = offer.name[locale as keyof typeof offer.name] ?? offer.name.en ?? offer.id;
   const desc = offer.description[locale as keyof typeof offer.description] ?? offer.description.en ?? "";
 
+  // JP市場では全商品に「楽天で見る」(商品名検索アフィリンク)を追加。カタログに
+  // 楽天個別リンクが無くても成果報酬導線が付く（hgcリダイレクト動作確認済）。
+  const rakutenQuery = offer.name.ja ?? offer.name.en ?? name;
+  const rakutenButton =
+    market === "JP" ? (
+      <a
+        href={rakutenSearchUrl(rakutenQuery)}
+        target="_blank"
+        rel="sponsored noopener noreferrer"
+        data-offer-id={offer.id}
+        className="inline-flex items-center gap-1.5 rounded-lg border border-[#bf0000]/40 bg-white px-4 py-2 text-sm font-semibold text-[#bf0000] hover:bg-[#bf0000]/5 transition-all"
+      >
+        楽天で見る →
+      </a>
+    ) : null;
+
   if (!link) {
     const amazonHost = amazonHostForMarket(market);
     const fallbackUrl = `${amazonHost}/s?k=${encodeURIComponent(name)}`;
 
     if (variant === "button") {
-      return (
+      const amazonBtn = (
         <a
           href={fallbackUrl}
           target="_blank"
@@ -66,6 +83,9 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
           {t("offer.searchOnAmazon")} →
         </a>
       );
+      return rakutenButton ? (
+        <div className="flex flex-wrap items-center gap-2">{amazonBtn}{rakutenButton}</div>
+      ) : amazonBtn;
     }
 
     if (variant === "inline") {
@@ -86,14 +106,17 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         {desc && <p className="mb-3 text-sm text-slate-500">{desc}</p>}
         {note && <p className="mb-2 text-xs italic text-slate-500">{note}</p>}
         <p className="mb-2 text-xs text-slate-500">{t("offer.regionFallback")}</p>
-        <a
-          href={fallbackUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-sm font-medium text-slate-600 underline-offset-2 hover:underline"
-        >
-          {t("offer.searchOnAmazon")} →
-        </a>
+        <div className="flex flex-wrap items-center gap-2">
+          <a
+            href={fallbackUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-sm font-medium text-slate-600 underline-offset-2 hover:underline"
+          >
+            {t("offer.searchOnAmazon")} →
+          </a>
+          {rakutenButton}
+        </div>
       </div>
     );
   }
@@ -114,10 +137,13 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
     if (storeLinks.length === 0) {
       const amazonHost = amazonHostForMarket(market);
       return (
-        <a href={`${amazonHost}/s?k=${encodeURIComponent(name)}`} target="_blank" rel="noopener noreferrer"
-          className="inline-flex items-center gap-1 rounded-md border border-slate-300 px-4 py-2 text-sm font-medium text-slate-600 hover:border-slate-400 transition-colors">
-          {t("offer.searchOnAmazon")} →
-        </a>
+        <div className="flex flex-wrap gap-2">
+          <a href={`${amazonHost}/s?k=${encodeURIComponent(name)}`} target="_blank" rel="noopener noreferrer"
+            className="inline-flex items-center gap-1 rounded-md border border-slate-300 px-4 py-2 text-sm font-medium text-slate-600 hover:border-slate-400 transition-colors">
+            {t("offer.searchOnAmazon")} →
+          </a>
+          {rakutenButton}
+        </div>
       );
     }
     return (
@@ -141,12 +167,13 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
             </a>
           );
         })}
+        {!byLabel.has("楽天") && rakutenButton}
       </div>
     );
   }
 
   if (variant === "button") {
-    return isApproved ? (
+    const mainBtn = isApproved ? (
       <a
         href={href}
         target="_blank"
@@ -159,6 +186,9 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
     ) : (
       <span className="text-xs italic text-slate-500">{t("offer.pending")}</span>
     );
+    return rakutenButton ? (
+      <div className="flex flex-wrap items-center gap-2">{mainBtn}{rakutenButton}</div>
+    ) : mainBtn;
   }
 
   if (variant === "inline") {
@@ -201,19 +231,22 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       </div>
       {desc && <p className="mb-3 text-sm leading-relaxed text-slate-600">{desc}</p>}
       {note && <p className="mb-2 text-xs italic text-slate-500">{note}</p>}
-      {isApproved ? (
-        <a
-          href={href}
-          target="_blank"
-          rel="sponsored noopener noreferrer"
-          data-offer-id={offer.id}
-          className="inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-5 py-2.5 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
-        >
-          {ctaLabel} →
-        </a>
-      ) : (
-        <span className="text-xs italic text-slate-500">{t("offer.pending")}</span>
-      )}
+      <div className="flex flex-wrap items-center gap-2">
+        {isApproved ? (
+          <a
+            href={href}
+            target="_blank"
+            rel="sponsored noopener noreferrer"
+            data-offer-id={offer.id}
+            className="inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-5 py-2.5 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
+          >
+            {ctaLabel} →
+          </a>
+        ) : (
+          <span className="text-xs italic text-slate-500">{t("offer.pending")}</span>
+        )}
+        {rakutenButton}
+      </div>
     </div>
   );
 }
