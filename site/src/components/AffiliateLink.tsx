@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { pickLink, pickAllLinks } from "@/lib/affiliates/catalog";
 import { buildAffiliateUrl } from "@/lib/affiliates/asp";
-import { rakutenSearchUrl } from "@/lib/affiliates/rakuten";
+import { rakutenSearchUrl, rakutenProductMatch } from "@/lib/affiliates/rakuten";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
 import type { AffiliateOffer, AspNetwork } from "@/lib/affiliates/types";
 import type { Market } from "@/lib/affiliates/types";
@@ -55,16 +55,23 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
   // JP市場では全商品に「楽天で見る」(商品名検索アフィリンク)を追加。カタログに
   // 楽天個別リンクが無くても成果報酬導線が付く（hgcリダイレクト動作確認済）。
   const rakutenQuery = offer.name.ja ?? offer.name.en ?? name;
+  // 確信できる実商品マッチがあれば特定商品リンク＋価格、無ければ検索リンク。
+  const rakutenMatch =
+    market === "JP" ? rakutenProductMatch(offer.id, offer.name.en, offer.name.ja) : null;
+  const rakutenHref = rakutenMatch?.url ?? rakutenSearchUrl(rakutenQuery);
+  const rakutenLabel = rakutenMatch?.price
+    ? `楽天 ¥${rakutenMatch.price.toLocaleString("ja-JP")}〜`
+    : "楽天で見る";
   const rakutenButton =
     market === "JP" ? (
       <a
-        href={rakutenSearchUrl(rakutenQuery)}
+        href={rakutenHref}
         target="_blank"
         rel="sponsored noopener noreferrer"
         data-offer-id={offer.id}
         className="inline-flex items-center gap-1.5 rounded-lg border border-[#bf0000]/40 bg-white px-4 py-2 text-sm font-semibold text-[#bf0000] hover:bg-[#bf0000]/5 transition-all"
       >
-        楽天で見る →
+        {rakutenLabel} →
       </a>
     ) : null;
 
