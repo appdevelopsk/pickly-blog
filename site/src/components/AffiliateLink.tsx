@@ -4,7 +4,9 @@ import { useEffect, useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { pickLink, pickAllLinks } from "@/lib/affiliates/catalog";
 import { buildAffiliateUrl } from "@/lib/affiliates/asp";
-import { rakutenSearchUrl, rakutenProductMatch } from "@/lib/affiliates/rakuten";
+import { rakutenSearchUrl, rakutenProductMatch, youtubeReviewSearchUrl } from "@/lib/affiliates/rakuten";
+import { getReviewVideo } from "@/lib/affiliates/youtube";
+import { ReviewVideo } from "@/components/ReviewVideo";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
 import type { AffiliateOffer, AspNetwork } from "@/lib/affiliates/types";
 import type { Market } from "@/lib/affiliates/types";
@@ -89,6 +91,37 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       </a>
     ) : null;
 
+  // 楽天レビュー★評価・件数（社会的証明）と YouTube レビュー動画リンク（購買後押し）。
+  const reviewStars =
+    market === "JP" && rakutenMatch && rakutenMatch.reviewCount > 0 ? (
+      <span className="inline-flex items-center gap-1 text-xs text-amber-600">
+        ★{rakutenMatch.reviewAverage.toFixed(1)}
+        <span className="text-slate-400">（楽天{rakutenMatch.reviewCount.toLocaleString("ja-JP")}件）</span>
+      </span>
+    ) : null;
+  // JPで該当商品のレビュー動画がキャッシュ済みなら埋め込み(facade)。無ければ検索リンク。
+  const reviewVideo = market === "JP" ? getReviewVideo(offer.id) : null;
+  const youtubeLink = !reviewVideo ? (
+    <a
+      href={youtubeReviewSearchUrl(offer.name.en ?? name, locale)}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="inline-flex items-center gap-1 text-xs font-medium text-slate-500 hover:text-[#FF0000] transition-colors"
+    >
+      ▶ {locale === "ja" ? "レビュー動画" : "Video review"}
+    </a>
+  ) : null;
+  const reviewRow =
+    reviewStars || youtubeLink ? (
+      <div className="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1">
+        {reviewStars}
+        {youtubeLink}
+      </div>
+    ) : null;
+  const videoBlock = reviewVideo ? (
+    <ReviewVideo videoId={reviewVideo.videoId} title={reviewVideo.title} />
+  ) : null;
+
   if (!link) {
     const amazonHost = amazonHostForMarket(market);
     const fallbackUrl = `${amazonHost}/s?k=${encodeURIComponent(name)}`;
@@ -168,27 +201,31 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       );
     }
     return (
-      <div className="flex flex-wrap gap-2">
-        {storeLinks.map(([label, l], i) => {
-          const storeHref = buildAffiliateUrl({ link: l, productName: offer.name.en ?? name, market });
-          return (
-            <a
-              key={label}
-              href={storeHref}
-              target="_blank"
-              rel="sponsored noopener noreferrer"
-              data-offer-id={offer.id}
-              className={
-                i === 0
-                  ? "inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-4 py-2 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
-                  : "inline-flex items-center gap-1.5 rounded-lg border border-slate-300 bg-white px-4 py-2 text-sm font-semibold text-slate-700 hover:border-brand-400 hover:text-brand-600 transition-all"
-              }
-            >
-              {label} →
-            </a>
-          );
-        })}
-        {!byLabel.has("楽天") && rakutenButton}
+      <div>
+        <div className="flex flex-wrap gap-2">
+          {storeLinks.map(([label, l], i) => {
+            const storeHref = buildAffiliateUrl({ link: l, productName: offer.name.en ?? name, market });
+            return (
+              <a
+                key={label}
+                href={storeHref}
+                target="_blank"
+                rel="sponsored noopener noreferrer"
+                data-offer-id={offer.id}
+                className={
+                  i === 0
+                    ? "inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-4 py-2 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
+                    : "inline-flex items-center gap-1.5 rounded-lg border border-slate-300 bg-white px-4 py-2 text-sm font-semibold text-slate-700 hover:border-brand-400 hover:text-brand-600 transition-all"
+                }
+              >
+                {label} →
+              </a>
+            );
+          })}
+          {!byLabel.has("楽天") && rakutenButton}
+        </div>
+        {reviewRow}
+        {videoBlock}
       </div>
     );
   }
@@ -268,6 +305,8 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         )}
         {rakutenButton}
       </div>
+      {reviewRow}
+      {videoBlock}
     </div>
   );
 }

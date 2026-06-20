@@ -29,6 +29,8 @@ type CacheEntry = {
   image: string | null;
   shop?: string;
   name?: string; // マッチした楽天商品名（関連性ガード用）
+  reviewAverage?: number; // 楽天レビュー平均(0-5)
+  reviewCount?: number; // 楽天レビュー件数
   fetchedAt: string; // YYYY-MM-DD
 };
 
@@ -105,7 +107,7 @@ async function main() {
   // 価格レンジを後付け。通常: 未取得 or stale。
   const todo = offers.filter((o) => {
     const c = cache[o.id];
-    if (rangesMode) return !!c && !!c.itemUrl && (c.priceMax == null);
+    if (rangesMode) return !!c && !!c.itemUrl && (c.priceMax == null || c.reviewCount == null);
     if (!c) return true;
     if (refresh) return true;
     return daysBetween(c.fetchedAt, today) >= STALE_DAYS;
@@ -144,6 +146,8 @@ async function main() {
             image: picked.top.image,
             shop: picked.top.shop,
             name: picked.top.name,
+            reviewAverage: picked.top.reviewAverage,
+            reviewCount: picked.top.reviewCount,
             fetchedAt: today,
           }
         : { itemUrl: null, price: null, priceMin: null, priceMax: null, image: null, fetchedAt: today };

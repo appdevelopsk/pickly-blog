@@ -36,6 +36,8 @@ type RkEntry = {
   priceMax?: number | null;
   image: string | null;
   name?: string;
+  reviewAverage?: number;
+  reviewCount?: number;
 };
 const RK = rakutenCache as Record<string, RkEntry>;
 
@@ -45,6 +47,14 @@ export interface RakutenProduct {
   priceMin: number | null; // 関連商品の最安（価格レンジ）
   priceMax: number | null; // 関連商品の最高
   image: string | null;
+  reviewAverage: number; // 楽天レビュー平均(0-5)。0=無し
+  reviewCount: number; // 楽天レビュー件数
+}
+
+/** 商品名から YouTube のレビュー動画検索URL（ロケール別の語）。 */
+export function youtubeReviewSearchUrl(query: string, locale: string): string {
+  const term = locale === "ja" ? "レビュー" : "review";
+  return `https://www.youtube.com/results?search_query=${encodeURIComponent(`${query} ${term}`)}`;
 }
 
 function norm(s: string): string {
@@ -87,5 +97,7 @@ export function rakutenProductMatch(
     priceMin: e.priceMin ?? null,
     priceMax: e.priceMax ?? null,
     image: e.image,
+    reviewAverage: e.reviewAverage ?? 0,
+    reviewCount: e.reviewCount ?? 0,
   };
 }

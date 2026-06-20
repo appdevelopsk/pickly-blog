@@ -24,6 +24,8 @@ export interface RakutenItem {
   itemUrl: string; // item.rakuten.co.jp/... （アフィリは呼び出し側で付与）
   image: string | null;
   shop: string;
+  reviewAverage: number; // 楽天レビュー平均(0-5)。0=レビュー無し
+  reviewCount: number; // 楽天レビュー件数
 }
 
 export interface RakutenClientConfig {
@@ -83,6 +85,8 @@ export async function searchItems(
       itemUrl: cleanItemUrl(it.itemUrl),
       image: imageUrlOf(it.mediumImageUrls?.[0]) ?? null,
       shop: it.shopName ?? "",
+      reviewAverage: Number(it.reviewAverage) || 0,
+      reviewCount: Number(it.reviewCount) || 0,
     });
   }
   return out;
@@ -122,5 +126,7 @@ type RawItem = {
   itemPrice?: number | string;
   itemUrl?: string;
   shopName?: string;
+  reviewAverage?: number | string;
+  reviewCount?: number | string;
   mediumImageUrls?: Array<{ imageUrl?: string } | string> & { [i: number]: { imageUrl?: string } | string };
 };
