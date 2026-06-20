@@ -45,11 +45,11 @@ function cfgFromEnv(): RakutenClientConfig {
   return { applicationId, accessKey, origin, affiliateId };
 }
 
-/** キーワードで楽天市場を検索し、最安1件のアイテム情報を返す（無ければ null）。 */
-export async function searchTopItem(
+/** キーワードで楽天市場を検索し、関連性順で最大 hits 件のアイテム配列を返す。 */
+export async function searchItems(
   keyword: string,
-  opts: { sort?: string; config?: RakutenClientConfig } = {},
-): Promise<RakutenItem | null> {
+  opts: { hits?: number; sort?: string; config?: RakutenClientConfig } = {},
+): Promise<RakutenItem[]> {
   const cfg = opts.config ?? cfgFromEnv();
   // ★affiliateId は渡さない: 渡すと itemUrl 自体がAPIのアフィリURL(誤ID)になるため。
   //  生の item.rakuten.co.jp URL を取得し、呼び出し側が自前 hgc(自分のID)で包む。
@@ -57,7 +57,7 @@ export async function searchTopItem(
     applicationId: cfg.applicationId,
     accessKey: cfg.accessKey,
     keyword,
-    hits: "1",
+    hits: String(Math.min(Math.max(opts.hits ?? 1, 1), 30)),
     sort: opts.sort ?? "standard", // 関連性順（最安順だと無関係な激安品にマッチしやすい）
     format: "json",
     imageFlag: "1", // 画像ありを優先
@@ -71,21 +71,30 @@ export async function searchTopItem(
   if (!res.ok) {
     throw new Error(`RWS ${res.status}: ${(await res.text()).slice(0, 200)}`);
   }
-  const data = (await res.json()) as {
-    Items?: Array<{ Item?: RawItem } | RawItem>;
-  };
-  const first = data.Items?.[0];
-  const it: RawItem | undefined = first
-    ? ("Item" in (first as object) ? (first as { Item?: RawItem }).Item : (first as RawItem))
-    : undefined;
-  if (!it || !it.itemUrl) return null;
-  return {
-    name: it.itemName ?? "",
-    price: typeof it.itemPrice === "number" ? it.itemPrice : Number(it.itemPrice) || 0,
-    itemUrl: cleanItemUrl(it.itemUrl),
-    image: imageUrlOf(it.mediumImageUrls?.[0]) ?? null,
-    shop: it.shopName ?? "",
-  };
+  const data = (await res.json()) as { Items?: Array<{ Item?: RawItem } | RawItem> };
+  const out: RakutenItem[] = [];
+  for (const entry of data.Items ?? []) {
+    const it: RawItem | undefined =
+      entry && "Item" in (entry as object) ? (entry as { Item?: RawItem }).Item : (entry as RawItem);
+    if (!it || !it.itemUrl) continue;
+    out.push({
+      name: it.itemName ?? "",
+      price: typeof it.itemPrice === "number" ? it.itemPrice : Number(it.itemPrice) || 0,
+      itemUrl: cleanItemUrl(it.itemUrl),
+      image: imageUrlOf(it.mediumImageUrls?.[0]) ?? null,
+      shop: it.shopName ?? "",
+    });
+  }
+  return out;
+}
+
+/** キーワードで楽天市場を検索し、関連性最上位1件を返す（無ければ null）。 */
+export async function searchTopItem(
+  keyword: string,
+  opts: { sort?: string; config?: RakutenClientConfig } = {},
+): Promise<RakutenItem | null> {
+  const items = await searchItems(keyword, { hits: 1, sort: opts.sort, config: opts.config });
+  return items[0] ?? null;
 }
 
 /** RWSが付ける rafcid 等のトラッキングを外し、素の商品URLにする。 */

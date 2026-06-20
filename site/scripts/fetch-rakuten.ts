@@ -16,25 +16,67 @@ import { writeFileSync, readFileSync, existsSync } from "node:fs";
 import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { CATALOG } from "../src/lib/affiliates/catalog";
-import { searchTopItem } from "../src/lib/rakuten/client";
+import { searchItems, type RakutenItem } from "../src/lib/rakuten/client";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const CACHE_PATH = resolve(HERE, "../src/lib/affiliates/rakuten-cache.json");
 
 type CacheEntry = {
   itemUrl: string | null; // null = 検索ヒット無し（再取得を抑制）
-  price: number | null;
+  price: number | null; // 関連性最上位の価格
+  priceMin?: number | null; // 関連商品の最安（価格レンジ用）
+  priceMax?: number | null; // 関連商品の最高
   image: string | null;
   shop?: string;
   name?: string; // マッチした楽天商品名（関連性ガード用）
   fetchedAt: string; // YYYY-MM-DD
 };
+
+function norm(s: string): string {
+  return s.toLowerCase().replace(/[\s　・,，.。:：()（）[\]【】|/_–—-]+/g, "");
+}
+// 商品名の主要トークン（en先頭語 + ja先頭5字）。関連商品の絞り込みに使う。
+function brandTokens(nameEn?: string, nameJa?: string): string[] {
+  const t: string[] = [];
+  const en = (nameEn ?? "").trim().split(/\s+/)[0] ?? "";
+  if (en.length >= 3) t.push(norm(en));
+  if (nameJa) {
+    const j = norm(nameJa);
+    if (j.length >= 3) t.push(j.slice(0, 5));
+  }
+  return t;
+}
+// 取得した候補から、関連商品(トークン一致)に絞って 最上位/最安/最高 を出す。
+function pickWithRange(
+  items: RakutenItem[],
+  tokens: string[],
+): { top: RakutenItem; priceMin: number | null; priceMax: number | null } | null {
+  if (items.length === 0) return null;
+  const relevant = tokens.length
+    ? items.filter((it) => tokens.some((t) => norm(it.name).includes(t)))
+    : items;
+  const top = relevant[0] ?? items[0];
+  // 外れ値除去: 最上位(代表)価格の 0.6〜1.8倍に収まる関連商品だけで価格レンジを作る。
+  // （アクセサリ=極端に安い / 別モデル・バンドル=極端に高い を排除し、同一商品帯の幅にする）
+  const anchor = top.price > 0 ? top.price : relevant.find((i) => i.price > 0)?.price ?? 0;
+  const band =
+    anchor > 0
+      ? relevant.filter((i) => i.price >= anchor * 0.6 && i.price <= anchor * 1.8)
+      : relevant.filter((i) => i.price > 0);
+  const prices = (band.length ? band : [top]).map((i) => i.price).filter((p) => p > 0);
+  return {
+    top,
+    priceMin: prices.length ? Math.min(...prices) : null,
+    priceMax: prices.length ? Math.max(...prices) : null,
+  };
+}
 type Cache = Record<string, CacheEntry>;
 
 const args = process.argv.slice(2);
 const limit = numFlag("--limit");
 const category = strFlag("--category");
 const refresh = args.includes("--refresh");
+const rangesMode = args.includes("--ranges");
 const STALE_DAYS = Number(process.env.STALE_DAYS ?? "60");
 const today = new Date().toISOString().slice(0, 10);
 
@@ -59,9 +101,11 @@ async function main() {
   let offers = CATALOG;
   if (category) offers = offers.filter((o) => o.category === category);
 
-  // 未取得 or stale を対象に
+  // 対象選定。--ranges: 既存ヒット(itemUrl有)で priceMax 未取得のものだけ再取得して
+  // 価格レンジを後付け。通常: 未取得 or stale。
   const todo = offers.filter((o) => {
     const c = cache[o.id];
+    if (rangesMode) return !!c && !!c.itemUrl && (c.priceMax == null);
     if (!c) return true;
     if (refresh) return true;
     return daysBetween(c.fetchedAt, today) >= STALE_DAYS;
@@ -75,11 +119,12 @@ async function main() {
   let hit = 0;
   for (const offer of batch) {
     const keyword = offer.name.ja ?? offer.name.en ?? offer.id;
+    const tokens = brandTokens(offer.name.en, offer.name.ja);
     try {
-      let item = null;
+      let items: RakutenItem[] = [];
       for (let attempt = 0; attempt < 4; attempt++) {
         try {
-          item = await searchTopItem(keyword);
+          items = await searchItems(keyword, { hits: 30 });
           break;
         } catch (e) {
           if ((e as { rateLimited?: boolean }).rateLimited) {
@@ -89,10 +134,20 @@ async function main() {
           throw e;
         }
       }
-      cache[offer.id] = item
-        ? { itemUrl: item.itemUrl, price: item.price, image: item.image, shop: item.shop, name: item.name, fetchedAt: today }
-        : { itemUrl: null, price: null, image: null, fetchedAt: today };
-      if (item) hit++;
+      const picked = pickWithRange(items, tokens);
+      cache[offer.id] = picked
+        ? {
+            itemUrl: picked.top.itemUrl,
+            price: picked.top.price,
+            priceMin: picked.priceMin,
+            priceMax: picked.priceMax,
+            image: picked.top.image,
+            shop: picked.top.shop,
+            name: picked.top.name,
+            fetchedAt: today,
+          }
+        : { itemUrl: null, price: null, priceMin: null, priceMax: null, image: null, fetchedAt: today };
+      if (picked) hit++;
     } catch (e) {
       console.warn(`  ! ${offer.id} (${keyword}): ${(e as Error).message}`);
     }

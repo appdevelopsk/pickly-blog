@@ -29,12 +29,21 @@ export function rakutenSearchUrl(query: string): string {
 // RWS で事前取得した実商品データ（scripts/fetch-rakuten.ts が生成）。
 // サイトはこのキャッシュを読むだけ＝ビルド時API呼び出し無し。
 import rakutenCache from "./rakuten-cache.json";
-type RkEntry = { itemUrl: string | null; price: number | null; image: string | null; name?: string };
+type RkEntry = {
+  itemUrl: string | null;
+  price: number | null;
+  priceMin?: number | null;
+  priceMax?: number | null;
+  image: string | null;
+  name?: string;
+};
 const RK = rakutenCache as Record<string, RkEntry>;
 
 export interface RakutenProduct {
   url: string; // 自前hgcで包んだ特定商品リンク（自分のID＝計上正常）
-  price: number | null; // 円
+  price: number | null; // 円（関連性最上位）
+  priceMin: number | null; // 関連商品の最安（価格レンジ）
+  priceMax: number | null; // 関連商品の最高
   image: string | null;
 }
 
@@ -72,5 +81,11 @@ export function rakutenProductMatch(
   }
   const confident = tokens.some((t) => t.length >= 3 && itemNorm.includes(t));
   if (!confident) return null;
-  return { url: wrapHgc(e.itemUrl), price: e.price, image: e.image };
+  return {
+    url: wrapHgc(e.itemUrl),
+    price: e.price,
+    priceMin: e.priceMin ?? null,
+    priceMax: e.priceMax ?? null,
+    image: e.image,
+  };
 }

@@ -59,9 +59,23 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
   const rakutenMatch =
     market === "JP" ? rakutenProductMatch(offer.id, offer.name.en, offer.name.ja) : null;
   const rakutenHref = rakutenMatch?.url ?? rakutenSearchUrl(rakutenQuery);
-  const rakutenLabel = rakutenMatch?.price
-    ? `楽天 ¥${rakutenMatch.price.toLocaleString("ja-JP")}〜`
-    : "楽天で見る";
+  const rakutenLabel = (() => {
+    if (!rakutenMatch) return "楽天で見る";
+    const { priceMin, priceMax, price } = rakutenMatch;
+    const yen = (n: number) => `¥${n.toLocaleString("ja-JP")}`;
+    // 関連商品で価格に妥当な幅(最大≤最安×3)があれば「¥X〜¥Y」。
+    // 幅が異常(外れ値混入)なら単一の代表価格にフォールバック。
+    if (
+      priceMin != null &&
+      priceMax != null &&
+      priceMax > priceMin &&
+      priceMax <= priceMin * 3
+    ) {
+      return `楽天 ${yen(priceMin)}〜${yen(priceMax)}`;
+    }
+    const p = price ?? priceMin;
+    return p != null ? `楽天 ${yen(p)}〜` : "楽天で見る";
+  })();
   const rakutenButton =
     market === "JP" ? (
       <a
