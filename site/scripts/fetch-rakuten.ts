@@ -153,7 +153,12 @@ async function main() {
         : { itemUrl: null, price: null, priceMin: null, priceMax: null, image: null, fetchedAt: today };
       if (picked) hit++;
     } catch (e) {
-      console.warn(`  ! ${offer.id} (${keyword}): ${(e as Error).message}`);
+      const msg = (e as Error).message;
+      console.warn(`  ! ${offer.id} (${keyword}): ${msg}`);
+      // 恒久エラー(RWSが弾く無効キーワード等)は no-hit でキャッシュし、毎日の再試行を抑制。
+      if (/keyword is not valid|wrong_parameter|RWS 400/.test(msg)) {
+        cache[offer.id] = { itemUrl: null, price: null, priceMin: null, priceMax: null, image: null, fetchedAt: today };
+      }
     }
     done++;
     if (done % 25 === 0) {
