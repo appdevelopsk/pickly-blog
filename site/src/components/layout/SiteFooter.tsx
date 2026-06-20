@@ -119,6 +119,10 @@ export function SiteFooter() {
               <span className="font-bold text-slate-200 group-hover:text-white transition-colors">nattzy</span>
               <span className="mt-0.5 block text-xs text-slate-400">{t("crossPromo.nattzy")}</span>
             </a>
+            <a href="https://appdevelopsk.com" className="group">
+              <span className="font-bold text-slate-200 group-hover:text-white transition-colors">SK APPS</span>
+              <span className="mt-0.5 block text-xs text-slate-400">{t("crossPromo.sk")}</span>
+            </a>
           </div>
         </div>
 
