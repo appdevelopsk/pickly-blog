@@ -6,6 +6,7 @@ import { pickLink, pickAllLinks } from "@/lib/affiliates/catalog";
 import { buildAffiliateUrl } from "@/lib/affiliates/asp";
 import { rakutenSearchUrl, rakutenProductMatch, youtubeReviewSearchUrl } from "@/lib/affiliates/rakuten";
 import { getReviewVideo } from "@/lib/affiliates/youtube";
+import { getYahooMatch } from "@/lib/affiliates/yahoo";
 import { ReviewVideo } from "@/components/ReviewVideo";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
 import type { AffiliateOffer, AspNetwork } from "@/lib/affiliates/types";
@@ -91,6 +92,29 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       </a>
     ) : null;
 
+  // Yahoo!ショッピング（JP3本目）。確信マッチ時のみ価格レンジ付き、無ければ非表示。
+  // URLは affiliate_type=vc 取得＝VCでYahoo!ショッピング提携承認後に成果計上。
+  const yahooMatch = market === "JP" ? getYahooMatch(offer.id, offer.name.en, offer.name.ja) : null;
+  const yahooButton = yahooMatch ? (
+    <a
+      href={yahooMatch.url}
+      target="_blank"
+      rel="sponsored noopener noreferrer"
+      data-offer-id={offer.id}
+      className="inline-flex items-center gap-1.5 rounded-lg border border-[#FF0033]/40 bg-white px-4 py-2 text-sm font-semibold text-[#FF0033] hover:bg-[#FF0033]/5 transition-all"
+    >
+      {(() => {
+        const { priceMin, priceMax, price } = yahooMatch;
+        const yen = (n: number) => `¥${n.toLocaleString("ja-JP")}`;
+        if (priceMin != null && priceMax != null && priceMax > priceMin && priceMax <= priceMin * 3) {
+          return `Yahoo! ${yen(priceMin)}〜${yen(priceMax)}`;
+        }
+        const p = price ?? priceMin;
+        return p != null ? `Yahoo! ${yen(p)}〜` : "Yahoo!で見る";
+      })()} →
+    </a>
+  ) : null;
+
   // 楽天レビュー★評価・件数（社会的証明）と YouTube レビュー動画リンク（購買後押し）。
   const reviewStars =
     market === "JP" && rakutenMatch && rakutenMatch.reviewCount > 0 ? (
@@ -138,7 +162,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         </a>
       );
       return rakutenButton ? (
-        <div className="flex flex-wrap items-center gap-2">{amazonBtn}{rakutenButton}</div>
+        <div className="flex flex-wrap items-center gap-2">{amazonBtn}{rakutenButton}{yahooButton}</div>
       ) : amazonBtn;
     }
 
@@ -170,6 +194,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
             {t("offer.searchOnAmazon")} →
           </a>
           {rakutenButton}
+          {yahooButton}
         </div>
       </div>
     );
@@ -197,6 +222,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
             {t("offer.searchOnAmazon")} →
           </a>
           {rakutenButton}
+          {yahooButton}
         </div>
       );
     }
@@ -223,6 +249,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
             );
           })}
           {!byLabel.has("楽天") && rakutenButton}
+          {!byLabel.has("Yahoo!") && yahooButton}
         </div>
         {reviewRow}
         {videoBlock}
@@ -245,7 +272,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       <span className="text-xs italic text-slate-500">{t("offer.pending")}</span>
     );
     return rakutenButton ? (
-      <div className="flex flex-wrap items-center gap-2">{mainBtn}{rakutenButton}</div>
+      <div className="flex flex-wrap items-center gap-2">{mainBtn}{rakutenButton}{yahooButton}</div>
     ) : mainBtn;
   }
 
@@ -304,6 +331,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
           <span className="text-xs italic text-slate-500">{t("offer.pending")}</span>
         )}
         {rakutenButton}
+        {yahooButton}
       </div>
       {reviewRow}
       {videoBlock}
