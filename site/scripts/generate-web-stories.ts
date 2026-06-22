@@ -127,7 +127,9 @@ function buildStory(slug: string, locale: string, category: string, publishedAt:
   const desc = esc(clip(m.description || m.pinDescription || m.lede || m.title, 200));
   const tagline = esc(clip(m.pinDescription || m.lede || L.tag, 90));
   const articleUrl = `${SITE_URL}/${locale}/articles/${slug}/`;
-  const storyUrl = `${SITE_URL}/web-stories/${locale}/${slug}.html`;
+  // Cloudflare Pages serves *.html at its extensionless path (308 from .html),
+  // so the canonical / sitemap / hub URLs must be extensionless (the 200 target).
+  const storyUrl = `${SITE_URL}/web-stories/${locale}/${slug}`;
 
   const ld = JSON.stringify({
     "@context": "https://schema.org",
@@ -206,7 +208,7 @@ for (const a of articles) {
     generated.push({
       slug: a.slug,
       locale,
-      url: `${SITE_URL}/web-stories/${locale}/${a.slug}.html`,
+      url: `${SITE_URL}/web-stories/${locale}/${a.slug}`,
       title: m.title!,
       og: ogImageUrl(a.slug, locale),
       updatedAt: a.updatedAt || a.publishedAt,
