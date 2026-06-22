@@ -13,6 +13,7 @@
     "audit:affiliate": "tsx scripts/audit-affiliate.ts",
     "audit:content": "tsx scripts/audit-content.ts",
     "sitemap": "tsx scripts/generate-sitemap.ts",
+    "web-stories": "tsx scripts/generate-web-stories.ts",
     "og:generate": "tsx scripts/generate-og.ts",
     "moshimo:link": "tsx scripts/moshimo-link.ts",
     "catalog:update": "tsx scripts/catalog-update.ts",
