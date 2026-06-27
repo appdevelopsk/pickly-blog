@@ -84,7 +84,14 @@
         "Intensidad del 90% — no apta para comedores casuales de chocolate",
         "Ligero amargor al final"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "ghirardelli-midnight-reverie-86",
@@ -99,7 +106,14 @@
         "Menos complejo que las tabletas de origen único",
         "Tableta más pequeña que la de Lindt"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "green-blacks-organic-dark-85",
@@ -114,7 +128,14 @@
         "Menos intenso que el Lindt 90%",
         "Abastecimiento menos transparente que el bean-to-bar"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "theo-chocolate-organic-85",
@@ -129,7 +150,14 @@
         "3 a 4 veces el precio de Lindt",
         "Disponibilidad limitada fuera de tiendas especializadas"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "alter-eco-deep-dark-blackout-85",
@@ -144,7 +172,14 @@
         "85% — menos extremo que las opciones de 90%+",
         "Textura ligeramente cerosa vs. origen único"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "Evaluamos cada producto según su perfil de sabor, la transparencia del abastecimiento, la relación calidad-precio por porción, la integridad del empaque y su rendimiento en los usos más habituales. Cotejamos las certificaciones documentadas y las reseñas verificadas de usuarios con las afirmaciones publicitarias."

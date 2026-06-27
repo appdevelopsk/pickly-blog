@@ -84,7 +84,14 @@
         "Contiene olio di colza",
         "Prezzo premium rispetto a Planet Oat"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "oatly-oat-milk-barista",
@@ -99,7 +106,14 @@
         "Contenuto di zucchero piu alto della formula originale",
         "Eccessivo per le applicazioni non-caffe"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "planet-oat-extra-creamy",
@@ -114,7 +128,14 @@
         "Sapore meno complesso di Oatly",
         "La versione extra cremosa ha piu calorie"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "califia-oat-milk-barista",
@@ -129,7 +150,14 @@
         "Il sapore di cocco e percepibile — non e neutro",
         "Piu calorico del latte di avena standard"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "elmhurst-oat-milk",
@@ -144,7 +172,14 @@
         "Texture sottile — non fa schiuma per le bevande calde",
         "Il gusto differisce dai latti di avena stabilizzati con gomme"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "Abbiamo valutato ogni prodotto in base al profilo aromatico, alla trasparenza dell'approvvigionamento, al valore per porzione, all'integrità della confezione e alle prestazioni nei casi d'uso più comuni. Le certificazioni documentate e le recensioni verificate degli utenti sono state confrontate con le dichiarazioni di marketing."

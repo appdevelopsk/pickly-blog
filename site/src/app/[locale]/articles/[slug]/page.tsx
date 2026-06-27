@@ -78,13 +78,11 @@ export default async function ArticlePage({ params }: Props) {
     }));
   }
 
-  // Products: array format [{offerId, badge, review, pros, cons, grade, specs}]
+  // Products: array format [{offerId, badge, review, pros, cons, grade, scores, specs}]
   // or object format {"offerId": {...}}. Parsed regardless of whether the article also
   // has a `sections` array — many comparison articles carry both, and the rich per-product
-  // specs table (high-value for AI citation & SEO) was previously dropped.
-  // NOTE: `scores` is intentionally NOT surfaced yet — the authored data uses inconsistent
-  // scales (≈79% /5, 12% /10, 9% out-of-range) and would render broken bars; enable after
-  // a normalization pass.
+  // specs table + per-criteria scores (high-value for AI citation & SEO) were previously
+  // dropped. Score data was normalized to a 0-5 scale (ArticleBody renders score/5).
   const parseProduct = (offerId: string, p: RawMessages): NonNullable<ArticleContent["products"]>[number] => ({
     offerId,
     badge: safeStr(p, "badge"),
@@ -92,6 +90,7 @@ export default async function ArticlePage({ params }: Props) {
     pros: safeArr<string>(p, "pros"),
     cons: safeArr<string>(p, "cons"),
     grade: safeStr(p, "grade") || undefined,
+    scores: safeObj(p, "scores") as Record<string, number> | undefined,
     specs: safeObj(p, "specs") as Record<string, string> | undefined,
   });
   const rawProductsArr = Array.isArray(msg.products) ? msg.products as RawMessages[] : null;

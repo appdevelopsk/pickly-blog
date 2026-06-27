@@ -84,7 +84,14 @@
         "Contient de l'huile de colza",
         "Prix premium par rapport à Planet Oat"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "oatly-oat-milk-barista",
@@ -99,7 +106,14 @@
         "Plus riche en sucre que la formule originale",
         "Surdimensionnée pour les usages autres que le café"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "planet-oat-extra-creamy",
@@ -114,7 +128,14 @@
         "Saveur moins complexe qu'Oatly",
         "La version extra crémeuse est plus calorique"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "califia-oat-milk-barista",
@@ -129,7 +150,14 @@
         "Le goût de coco est perceptible — pas neutre",
         "Plus calorique que le lait d'avoine standard"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "elmhurst-oat-milk",
@@ -144,7 +172,14 @@
         "Texture légère — ne moussera pas pour les boissons chaudes",
         "Le goût diffère des laits d'avoine stabilisés aux gommes"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "Nous avons évalué chaque produit selon son profil gustatif, la transparence de l'approvisionnement, le rapport qualité-prix par portion, l'intégrité de l'emballage et ses performances dans les usages courants. Les certifications documentées et les avis vérifiés des utilisateurs ont été recoupés avec les allégations marketing."

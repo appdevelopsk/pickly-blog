@@ -79,7 +79,11 @@
         "Retinoid Type": "Stabilized retinol",
         "Price (Mild)": "Budget"
       },
-      "scores": {"value": 95, "quality": 85, "price": 95}
+      "scores": {
+        "value": 4.8,
+        "quality": 4.3,
+        "price": 4.8
+      }
     },
     {
       "offerId": "retinol-serum-neutrogena-rapid-wrinkle",
@@ -101,7 +105,11 @@
         "Concentration": "Undisclosed (est. 0.1–0.3%)",
         "Price": "$19–$25"
       },
-      "scores": {"value": 85, "quality": 78, "price": 88}
+      "scores": {
+        "value": 4.3,
+        "quality": 3.9,
+        "price": 4.4
+      }
     },
     {
       "offerId": "retinol-serum-roc-retinol-correxion",
@@ -123,7 +131,11 @@
         "Concentration": "Undisclosed",
         "Price": "$35–$45"
       },
-      "scores": {"value": 78, "quality": 88, "price": 72}
+      "scores": {
+        "value": 3.9,
+        "quality": 4.4,
+        "price": 3.6
+      }
     },
     {
       "offerId": "retinol-serum-paula-choice-bha",
@@ -145,7 +157,11 @@
         "Concentration": "1%",
         "Price": "$72"
       },
-      "scores": {"value": 70, "quality": 90, "price": 58}
+      "scores": {
+        "value": 3.5,
+        "quality": 4.5,
+        "price": 2.9
+      }
     },
     {
       "offerId": "retinol-serum-the-inkey-list",
@@ -167,7 +183,11 @@
         "Concentration": "~0.2% retinol equivalent",
         "Price": "$13"
       },
-      "scores": {"value": 88, "quality": 68, "price": 96}
+      "scores": {
+        "value": 4.4,
+        "quality": 3.4,
+        "price": 4.8
+      }
     }
   ],
   "faqs": [

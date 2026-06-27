@@ -4,11 +4,31 @@
   "lede": "Yeşil toz kategorisi, bileşen adlarını miktarlar olmadan listeleyen markalarla — klinik açıdan ilgili bir dozun alınıp alınmadığını bilmenizi imkânsız kılan — özel karışımlarla doludur. AG1 75'ten fazla bileşen listelemiştir; bunların herhangi birinin terapötik konsantrasyonlarda bulunup bulunmadığı açıklanmamaktadır. Anlamlı bir değerlendirme, formülün kendisi hakkında neyi ortaya koyduğuna, neyi gizlediğine ve sağlık iddialarının gerçek araştırmalara dayalı olup olmadığına bakmayı gerektirir. Bu beş ürün gerçek yelpazesini temsil etmektedir.",
   "methodology": "Her ürün; bileşen listesi şeffaflığı (tam miktarlar - özel karışımlar), ağır metaller ve kontaminasyon için üçüncü taraf testleri, tam gıda alternatiflerine kıyasla besin yoğunluğu, tat ve karışabilirlik ile açıklanan besin değerine karşı porsiyon başına maliyet temelinde değerlendirilmiştir.",
   "recommendedFor": [
-    {"label": "Her şey dahil formül isteyen ve tat ile uyumu önceliklendiren kişiler için", "offerId": "green-powder-athletic-greens-ag1", "reason": "AG1'nin geniş bileşen profili ve mükemmel tadı günlük uyumu kolaylaştırır — ödün, özel karışım opaklığı ve yüksek fiyattır."},
-    {"label": "Fark yaratmadan temel yeşil beslenme isteyen bütçe bilinçli alıcılar için", "offerId": "green-powder-amazing-grass-greens", "reason": "Amazing Grass, premium marka fiyatının çok altında şeffaf bileşen miktarları ve NSF sertifikasyonuyla tam gıda yeşil beslenmesi sunar."},
-    {"label": "Sindirim sağlığı, şişkinlik ve sindirimi desteklemeyi yeşil takviyelerle birleştirmek isteyen kadınlar için", "offerId": "green-powder-bloom-greens", "reason": "Bloom, yeşil karışımını erişilebilir bir fiyatta anlamlı bir sindirim enzimi ve probiyotik karışımıyla birleştiriyor — sindirim desteği bileşeni gerçekten faydalı."},
-    {"label": "Geleneksel Japon formunda aojiru (arpa çimleri) isteyen alıcılar için", "offerId": "green-powder-fancl-aojiru-jp", "reason": "FANCL Aojiru, klorofil için standardize edilmiş genç arpa çimleri kullanan en güvenilir Japon yeşil takviyesidir ve Japonya'nın en güvenilir katkısız markasından temin edilmektedir."},
-    {"label": "Orta düzey bileşen listesiyle USDA organik sertifikası isteyen kişiler için", "offerId": "green-powder-organifi-green-juice", "reason": "Organifi formülü USDA sertifikalı organiktir, adaptojenlerle birlikte tam spektrum spirulina ve chlorella kullanır ve premium kategorinin en temiz özel karışımlarından biridir."}
+    {
+      "label": "Her şey dahil formül isteyen ve tat ile uyumu önceliklendiren kişiler için",
+      "offerId": "green-powder-athletic-greens-ag1",
+      "reason": "AG1'nin geniş bileşen profili ve mükemmel tadı günlük uyumu kolaylaştırır — ödün, özel karışım opaklığı ve yüksek fiyattır."
+    },
+    {
+      "label": "Fark yaratmadan temel yeşil beslenme isteyen bütçe bilinçli alıcılar için",
+      "offerId": "green-powder-amazing-grass-greens",
+      "reason": "Amazing Grass, premium marka fiyatının çok altında şeffaf bileşen miktarları ve NSF sertifikasyonuyla tam gıda yeşil beslenmesi sunar."
+    },
+    {
+      "label": "Sindirim sağlığı, şişkinlik ve sindirimi desteklemeyi yeşil takviyelerle birleştirmek isteyen kadınlar için",
+      "offerId": "green-powder-bloom-greens",
+      "reason": "Bloom, yeşil karışımını erişilebilir bir fiyatta anlamlı bir sindirim enzimi ve probiyotik karışımıyla birleştiriyor — sindirim desteği bileşeni gerçekten faydalı."
+    },
+    {
+      "label": "Geleneksel Japon formunda aojiru (arpa çimleri) isteyen alıcılar için",
+      "offerId": "green-powder-fancl-aojiru-jp",
+      "reason": "FANCL Aojiru, klorofil için standardize edilmiş genç arpa çimleri kullanan en güvenilir Japon yeşil takviyesidir ve Japonya'nın en güvenilir katkısız markasından temin edilmektedir."
+    },
+    {
+      "label": "Orta düzey bileşen listesiyle USDA organik sertifikası isteyen kişiler için",
+      "offerId": "green-powder-organifi-green-juice",
+      "reason": "Organifi formülü USDA sertifikalı organiktir, adaptojenlerle birlikte tam spektrum spirulina ve chlorella kullanır ve premium kategorinin en temiz özel karışımlarından biridir."
+    }
   ],
   "sections": [
     {
@@ -81,8 +101,14 @@
       "offerId": "green-powder-athletic-greens-ag1",
       "badge": "En İyi Hepsi Bir Arada Karışım",
       "review": "AG1'nin 75+ bileşenli formülü herhangi bir rakipten daha iyi tadı vardır ve zahmetsizce karışır — günlük uyum, en güçlü satış noktasıdır. Özel karışım yapısı bireysel dozları gizler, klinik doğrulamayı etiketten imkânsız kılar. Porsiyon başına 10–15 USD'de bileşen şeffaflığı yerine kolaylık ve tat için önemli bir prim ödüyorsunuz.",
-      "pros": ["Kategoride en iyi tat ve karışabilirlik — günlük alışkanlık oluşturmada uyum avantajı gerçek", "Tek porsiyonda probiyotikler, sindirim enzimleri, adaptojenler ve yeşil bitkiler dahil kapsamlı formül", "Yasaklı madde testi için NSF Certified for Sport"],
-      "cons": ["Her yerde özel karışımlar — bireysel bileşen dozları açıklanmamış; terapötik miktarlar doğrulanamaz"],
+      "pros": [
+        "Kategoride en iyi tat ve karışabilirlik — günlük alışkanlık oluşturmada uyum avantajı gerçek",
+        "Tek porsiyonda probiyotikler, sindirim enzimleri, adaptojenler ve yeşil bitkiler dahil kapsamlı formül",
+        "Yasaklı madde testi için NSF Certified for Sport"
+      ],
+      "cons": [
+        "Her yerde özel karışımlar — bireysel bileşen dozları açıklanmamış; terapötik miktarlar doğrulanamaz"
+      ],
       "grade": "A+",
       "specs": {
         "Bileşenler": "75+ (yeşil bitkiler, adaptojenler, probiyotikler, enzimler)",
@@ -92,14 +118,26 @@
         "Alım": "Günlük 1 ölçek (12 g)",
         "Porsiyon başına fiyat": "~10–15 USD abonelikte"
       },
-      "scores": {"Şeffaflık": 40, "Besin yoğunluğu": 82, "Değer": 52, "Tat": 95, "Üçüncü taraf testleri": 90}
+      "scores": {
+        "Şeffaflık": 2,
+        "Besin yoğunluğu": 4.1,
+        "Değer": 2.6,
+        "Tat": 4.8,
+        "Üçüncü taraf testleri": 4.5
+      }
     },
     {
       "offerId": "green-powder-amazing-grass-greens",
       "badge": "En İyi Değer Şeffaf Formül",
       "review": "Amazing Grass, yeşil karışımı için bireysel bileşen miktarlarını açıklar — buğday çimleri 3.000 mg, spirulina 1.000 mg, arpa çimleri 1.000 mg, chlorella 300 mg. NSF sertifikalı. Tat, gerçek yeşil içeriğinin sinyali olan otsu özelliktedir. AG1'den porsiyon başına %60–75 daha düşük maliyetle, ne aldığını bilmek isteyen bütçe bilinçli alıcılar için en savunulabilir günlük yeşil takviyesidir.",
-      "pros": ["Bireysel yeşil miktarları açıklandı — buğday çimleri 3 g, spirulina 1 g, arpa çimleri 1 g, chlorella 300 mg", "NSF sertifikalı ve GMO Projesi Tarafından Doğrulanmış — anlamlı üçüncü taraf saflık onayı", "Karşılaştırılabilir temel yeşil içerik için premium markalardan porsiyon başına %60–75 daha düşük maliyet"],
-      "cons": ["Premium markalardan daha belirgin otsu tat — hassas damaklarda biraz alışma gerektirir"],
+      "pros": [
+        "Bireysel yeşil miktarları açıklandı — buğday çimleri 3 g, spirulina 1 g, arpa çimleri 1 g, chlorella 300 mg",
+        "NSF sertifikalı ve GMO Projesi Tarafından Doğrulanmış — anlamlı üçüncü taraf saflık onayı",
+        "Karşılaştırılabilir temel yeşil içerik için premium markalardan porsiyon başına %60–75 daha düşük maliyet"
+      ],
+      "cons": [
+        "Premium markalardan daha belirgin otsu tat — hassas damaklarda biraz alışma gerektirir"
+      ],
       "grade": "A",
       "specs": {
         "Bileşenler": "Yeşil karışımı + antioksidan karışımı",
@@ -109,14 +147,26 @@
         "Alım": "Günlük 1 ölçek (8 g)",
         "Porsiyon başına fiyat": "~0.75–1.00 USD"
       },
-      "scores": {"Şeffaflık": 88, "Besin yoğunluğu": 78, "Değer": 95, "Tat": 68, "Üçüncü taraf testleri": 85}
+      "scores": {
+        "Şeffaflık": 4.4,
+        "Besin yoğunluğu": 3.9,
+        "Değer": 4.8,
+        "Tat": 3.4,
+        "Üçüncü taraf testleri": 4.3
+      }
     },
     {
       "offerId": "green-powder-bloom-greens",
       "badge": "En İyi Sindirim Destek Formülü",
       "review": "Bloom, standart bir yeşil temele işlevsel bir sindirim enzimi ve probiyotik katmanı (2 milyar CFU) ekler — sindirim destek bileşeni onu saf yeşil tozlardan gerçekten ayırt eder. Meyveli tatlar kategorideki en lezzetliler arasındadır. Orta düzey fiyat. Bazı bileşenler için özel karışım yapısı tam doz doğrulamasını sınırlar, ancak öğün sonrası şişkinlik yaşayan kişiler için sindirim faydası gerçektir.",
-      "pros": ["Sindirim enzimi kompleksi (amilaz, proteaz, lipaz, bromelin, papain) gerçek bağırsak desteği faydası katar", "2 milyar CFU probiyotikler (L. acidophilus, B. longum) yeşil formülü tamamlar", "Sınıfının en iyi tatları (karpuz, mango hindistancevizi) — günlük uyum için en yüksek lezzet"],
-      "cons": ["Çeşitli bileşenler için özel karışım yapısı tam bileşen miktarı doğrulamasını sınırlar"],
+      "pros": [
+        "Sindirim enzimi kompleksi (amilaz, proteaz, lipaz, bromelin, papain) gerçek bağırsak desteği faydası katar",
+        "2 milyar CFU probiyotikler (L. acidophilus, B. longum) yeşil formülü tamamlar",
+        "Sınıfının en iyi tatları (karpuz, mango hindistancevizi) — günlük uyum için en yüksek lezzet"
+      ],
+      "cons": [
+        "Çeşitli bileşenler için özel karışım yapısı tam bileşen miktarı doğrulamasını sınırlar"
+      ],
       "grade": "B+",
       "specs": {
         "Bileşenler": "Yeşil bitkiler + sindirim enzimleri + probiyotikler + adaptojenler",
@@ -126,14 +176,26 @@
         "Alım": "Günlük 1 ölçek",
         "Porsiyon başına fiyat": "~1.25–1.75 USD"
       },
-      "scores": {"Şeffaflık": 65, "Besin yoğunluğu": 75, "Değer": 80, "Tat": 92, "Üçüncü taraf testleri": 72}
+      "scores": {
+        "Şeffaflık": 3.3,
+        "Besin yoğunluğu": 3.8,
+        "Değer": 4,
+        "Tat": 4.6,
+        "Üçüncü taraf testleri": 3.6
+      }
     },
     {
       "offerId": "green-powder-fancl-aojiru-jp",
       "badge": "En İyi Geleneksel Aojiru Yeşil Takviyesi",
       "review": "FANCL'ın Aojiru'su Japonya'nın altın standart genç arpa çimleri takviyesidir — katkısız, klorofil içeriği için standardize edilmiş, taze porsiyonlama için bireysel çubuk poşetlere paketlenmiş. Arpa çimleri üzerine Japon araştırma tabanı, İngilizce konuşulan pazarların fark ettiğinden çok daha kapsamlıdır. Hiçbir koruyucu, yapay renk veya katkı maddesi yoktur. Otantik aojiru arayanlar için kesin seçim.",
-      "pros": ["Klorofil için standardize edilmiş genç arpa çimleri — pik hasat, besinleri korumak için düşük sıcaklıkta kurutulmuş", "Katkısız: koruyucu yok, yapay renk yok, akış ajanı yok (FANCL'ın kurucu kalite standardı)", "Uygun porsiyonlama ve tazelik koruma için bireysel çubuk poşetler"],
-      "cons": ["Sınırlı uluslararası erişilebilirlik — öncelikle büyük çevrimiçi perakendeciler aracılığıyla"],
+      "pros": [
+        "Klorofil için standardize edilmiş genç arpa çimleri — pik hasat, besinleri korumak için düşük sıcaklıkta kurutulmuş",
+        "Katkısız: koruyucu yok, yapay renk yok, akış ajanı yok (FANCL'ın kurucu kalite standardı)",
+        "Uygun porsiyonlama ve tazelik koruma için bireysel çubuk poşetler"
+      ],
+      "cons": [
+        "Sınırlı uluslararası erişilebilirlik — öncelikle büyük çevrimiçi perakendeciler aracılığıyla"
+      ],
       "grade": "B",
       "specs": {
         "Bileşenler": "Genç arpa çimleri (大麦若葉) — birincil",
@@ -143,14 +205,26 @@
         "Alım": "Günlük 1 çubuk poşet",
         "Porsiyon başına fiyat": "Poşet başına giriş seviyesi"
       },
-      "scores": {"Şeffaflık": 82, "Besin yoğunluğu": 72, "Değer": 78, "Tat": 70, "Üçüncü taraf testleri": 75}
+      "scores": {
+        "Şeffaflık": 4.1,
+        "Besin yoğunluğu": 3.6,
+        "Değer": 3.9,
+        "Tat": 3.5,
+        "Üçüncü taraf testleri": 3.8
+      }
     },
     {
       "offerId": "green-powder-organifi-green-juice",
       "badge": "En İyi USDA Organik Formül",
       "review": "Organifi, adaptogen odaklı formülle USDA sertifikalı organik sunar — spirulina ve chlorella'nın yanında ashwagandha, moringa (%4 izosiyanat ile standardize) ve zerdeçal. Hindistancevizi suyundan hafif, doğal olarak tatlı tat. Özel karışım yapısı doz doğrulamasını sınırlar, ancak organik sertifikasyon, genel markaların sağlamadığı tedarik zinciri belgelerini gerektirir. Organik öncelikli alıcılar için bu premium kategorinin kıyaslama noktasıdır.",
-      "pros": ["USDA Sertifikalı Organik — tedarik zinciri belgeleri ve periyodik denetim gereksinimleri", "Adaptojenler (ashwagandha, moringa standardize %4 izosiyanat, zerdeçal) stres yanıtı faydası katar", "Hafif, doğal olarak tatlı tat — hindistancevizi suyu tabanı ek tatlandırıcı olmaksızın içmeyi kolaylaştırır"],
-      "cons": ["Özel karışım — organik sertifikasyona rağmen bireysel bileşen miktarları açıklanmadı"],
+      "pros": [
+        "USDA Sertifikalı Organik — tedarik zinciri belgeleri ve periyodik denetim gereksinimleri",
+        "Adaptojenler (ashwagandha, moringa standardize %4 izosiyanat, zerdeçal) stres yanıtı faydası katar",
+        "Hafif, doğal olarak tatlı tat — hindistancevizi suyu tabanı ek tatlandırıcı olmaksızın içmeyi kolaylaştırır"
+      ],
+      "cons": [
+        "Özel karışım — organik sertifikasyona rağmen bireysel bileşen miktarları açıklanmadı"
+      ],
       "grade": "B-",
       "specs": {
         "Bileşenler": "Yeşil bitkiler + adaptojenler (ashwagandha, moringa, zerdeçal) + hindistancevizi suyu",
@@ -160,7 +234,13 @@
         "Alım": "Günlük 1 ölçek (9 g)",
         "Porsiyon başına fiyat": "~2.00–2.50 USD abonelikte"
       },
-      "scores": {"Şeffaflık": 52, "Besin yoğunluğu": 78, "Değer": 68, "Tat": 85, "Üçüncü taraf testleri": 80}
+      "scores": {
+        "Şeffaflık": 2.6,
+        "Besin yoğunluğu": 3.9,
+        "Değer": 3.4,
+        "Tat": 4.3,
+        "Üçüncü taraf testleri": 4
+      }
     }
   ]
 }

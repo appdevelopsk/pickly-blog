@@ -84,7 +84,14 @@
         "Contiene aceite de palma — preocupación de sostenibilidad para algunos",
         "Sabor a almendra menos intenso que las opciones crudas"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "barney-bare-almond-butter",
@@ -99,7 +106,14 @@
         "La separación del aceite requiere mezclado",
         "Menos disponible en tiendas convencionales"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "wild-friends-almond-butter",
@@ -114,7 +128,14 @@
         "Precio premium",
         "Textura ligeramente granulosa vs. Justin's"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "artisana-organic-almond-butter",
@@ -129,7 +150,14 @@
         "Requiere mezclado a fondo",
         "Precio más alto que las opciones del mercado masivo"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "maranatha-no-stir-almond-butter",
@@ -144,7 +172,14 @@
         "Aceites y sal añadidos en la fórmula",
         "Perfil de ingredientes menos puro que las opciones naturales"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "Evaluamos cada producto según su perfil de sabor, la transparencia del origen, el valor por porción, la integridad del envase y su rendimiento en los usos más habituales. Las certificaciones documentadas y las reseñas verificadas de usuarios se contrastaron con las afirmaciones de marketing."

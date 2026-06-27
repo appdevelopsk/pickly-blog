@@ -84,7 +84,14 @@
         "最大重量リフト用専用リストラップの代替にはならない",
         "夏場は蒸れやすい"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Build quality": 4.7,
+        "Performance": 4.8,
+        "Durability": 4.7,
+        "Comfort": 4.8,
+        "Value": 5
+      }
     },
     {
       "offerId": "trideer-half-finger-gloves",
@@ -99,7 +106,14 @@
         "ハービンジャーよりパッドが薄い",
         "リストサポートなし"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Build quality": 4.4,
+        "Performance": 4,
+        "Durability": 4.4,
+        "Comfort": 4,
+        "Value": 4.7
+      }
     },
     {
       "offerId": "mechanix-wear-gym-gloves",
@@ -114,7 +128,14 @@
         "専用ジムグローブより嵩張る",
         "高強度時の通気性が劣る"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Build quality": 4.6,
+        "Performance": 4.2,
+        "Durability": 4.1,
+        "Comfort": 4.2,
+        "Value": 4.4
+      }
     },
     {
       "offerId": "bionic-premium-full-finger-gloves",
@@ -129,7 +150,14 @@
         "通常のバーベルトレーニングには過剰スペック",
         "高価格帯"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Build quality": 3.8,
+        "Performance": 3.9,
+        "Durability": 3.8,
+        "Comfort": 3.4,
+        "Value": 4.1
+      }
     },
     {
       "offerId": "bear-grips-barehand-straps",
@@ -144,7 +172,14 @@
         "手のひらを保護しない",
         "通常グローブとはサイジングが異なる"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Build quality": 4,
+        "Performance": 3.6,
+        "Durability": 4,
+        "Comfort": 3.6,
+        "Value": 3.8
+      }
     }
   ],
   "methodology": "各製品を5つの基準で評価しました：作りの良さ・通常使用での性能・耐久性・快適性・コストパフォーマンス。12ヶ月後も使い続けられるかという観点から、性能と耐久性を最も重視しています。"

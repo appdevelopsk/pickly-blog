@@ -104,7 +104,14 @@
         "Contains rapeseed oil",
         "Premium price vs. Planet Oat"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "oatly-oat-milk-barista",
@@ -119,7 +126,14 @@
         "Higher sugar content than original formula",
         "Overkill for non-coffee applications"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "planet-oat-extra-creamy",
@@ -134,7 +148,14 @@
         "Less complex flavor than Oatly",
         "Extra creamy version higher in calories"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "califia-oat-milk-barista",
@@ -149,7 +170,14 @@
         "Coconut flavor detectable — not neutral",
         "Higher calorie than standard oat milk"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "elmhurst-oat-milk",
@@ -164,7 +192,14 @@
         "Thin texture — won't foam for hot drinks",
         "Taste differs from gum-stabilized oat milks"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",

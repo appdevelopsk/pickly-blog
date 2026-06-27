@@ -84,7 +84,14 @@
         "Not a substitute for dedicated wrist wraps at max effort",
         "Runs warm in summer training"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Build quality": 4.7,
+        "Performance": 4.8,
+        "Durability": 4.7,
+        "Comfort": 4.8,
+        "Value": 5
+      }
     },
     {
       "offerId": "trideer-half-finger-gloves",
@@ -99,7 +106,14 @@
         "Thinner padding than Harbinger",
         "No wrist support"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Build quality": 4.4,
+        "Performance": 4,
+        "Durability": 4.4,
+        "Comfort": 4,
+        "Value": 4.7
+      }
     },
     {
       "offerId": "mechanix-wear-gym-gloves",
@@ -114,7 +128,14 @@
         "Bulkier than purpose-built gym gloves",
         "Less breathable in intense sessions"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Build quality": 4.6,
+        "Performance": 4.2,
+        "Durability": 4.1,
+        "Comfort": 4.2,
+        "Value": 4.4
+      }
     },
     {
       "offerId": "bionic-premium-full-finger-gloves",
@@ -129,7 +150,14 @@
         "Overkill for standard barbell training",
         "Higher price point"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Build quality": 3.8,
+        "Performance": 3.9,
+        "Durability": 3.8,
+        "Comfort": 3.4,
+        "Value": 4.1
+      }
     },
     {
       "offerId": "bear-grips-barehand-straps",
@@ -144,7 +172,14 @@
         "Doesn't protect the palm",
         "Different sizing from standard gloves"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Build quality": 4,
+        "Performance": 3.6,
+        "Durability": 4,
+        "Comfort": 3.6,
+        "Value": 3.8
+      }
     }
   ],
   "methodology": "Each product was evaluated on five criteria: build quality, performance under typical use, durability over time, comfort, and value per dollar. We weighted performance and durability highest because these determine whether a product is still useful 12 months later.",

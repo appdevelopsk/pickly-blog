@@ -4,11 +4,31 @@
   "lede": "Danh mục bột rau xanh bị chi phối bởi các hỗn hợp độc quyền — các thương hiệu liệt kê tên thành phần mà không có lượng, khiến bạn không thể biết liệu bạn có đang nhận được liều lượng có liên quan lâm sàng hay không. AG1 liệt kê hơn 75 thành phần; liệu bất kỳ thành phần nào trong số đó có xuất hiện ở nồng độ điều trị hay không thì không được tiết lộ. Đánh giá có ý nghĩa đòi hỏi phải xem xét những gì công thức tiết lộ về bản thân, những gì nó ẩn giấu và liệu các tuyên bố về sức khỏe có thể truy nguyên từ nghiên cứu thực tế hay không. Năm sản phẩm này đại diện cho phạm vi thực sự.",
   "methodology": "Mỗi sản phẩm được đánh giá về độ minh bạch danh sách thành phần (lượng đầy đủ so với hỗn hợp độc quyền), thử nghiệm của bên thứ ba về kim loại nặng và ô nhiễm, mật độ dinh dưỡng so với thực phẩm toàn phần thay thế, hương vị và khả năng hòa tan, và chi phí mỗi khẩu phần so với giá trị dinh dưỡng được công bố.",
   "recommendedFor": [
-    {"label": "Dành cho người muốn công thức tất cả trong một và ưu tiên hương vị và sự tuân thủ", "offerId": "green-powder-athletic-greens-ag1", "reason": "Hồ sơ thành phần rộng và hương vị tuyệt vời của AG1 giúp tuân thủ hàng ngày dễ dàng hơn — đánh đổi là độ mờ hỗn hợp độc quyền và giá cao cấp."},
-    {"label": "Dành cho người mua có ý thức về ngân sách muốn dinh dưỡng rau xanh cơ bản không đắt đỏ", "offerId": "green-powder-amazing-grass-greens", "reason": "Amazing Grass cung cấp dinh dưỡng rau xanh thực phẩm toàn phần ở mức giá thấp hơn nhiều so với thương hiệu cao cấp, với lượng thành phần minh bạch và chứng nhận NSF."},
-    {"label": "Dành cho phụ nữ tập trung vào sức khỏe đường ruột, đầy bụng và hỗ trợ tiêu hóa cùng với rau xanh", "offerId": "green-powder-bloom-greens", "reason": "Bloom kết hợp rau xanh với hỗn hợp enzyme tiêu hóa và probiotic có ý nghĩa ở mức giá dễ tiếp cận — thành phần hỗ trợ tiêu hóa thực sự hữu ích."},
-    {"label": "Dành cho người mua muốn aojiru (cỏ lúa mạch) theo hình thức Nhật Bản truyền thống", "offerId": "green-powder-fancl-aojiru-jp", "reason": "FANCL Aojiru là thực phẩm bổ sung rau xanh Nhật Bản đáng tin cậy nhất, sử dụng cỏ lúa mạch non được chuẩn hóa về chlorophyll và có sẵn qua thương hiệu không có chất phụ gia đáng tin cậy nhất Nhật Bản."},
-    {"label": "Dành cho người muốn chứng nhận hữu cơ USDA với danh sách thành phần vừa phải", "offerId": "green-powder-organifi-green-juice", "reason": "Công thức Organifi được chứng nhận hữu cơ USDA, sử dụng spirulina và chlorella phổ đầy đủ cùng với adaptogen, và là một trong những hỗn hợp độc quyền sạch hơn trong danh mục cao cấp."}
+    {
+      "label": "Dành cho người muốn công thức tất cả trong một và ưu tiên hương vị và sự tuân thủ",
+      "offerId": "green-powder-athletic-greens-ag1",
+      "reason": "Hồ sơ thành phần rộng và hương vị tuyệt vời của AG1 giúp tuân thủ hàng ngày dễ dàng hơn — đánh đổi là độ mờ hỗn hợp độc quyền và giá cao cấp."
+    },
+    {
+      "label": "Dành cho người mua có ý thức về ngân sách muốn dinh dưỡng rau xanh cơ bản không đắt đỏ",
+      "offerId": "green-powder-amazing-grass-greens",
+      "reason": "Amazing Grass cung cấp dinh dưỡng rau xanh thực phẩm toàn phần ở mức giá thấp hơn nhiều so với thương hiệu cao cấp, với lượng thành phần minh bạch và chứng nhận NSF."
+    },
+    {
+      "label": "Dành cho phụ nữ tập trung vào sức khỏe đường ruột, đầy bụng và hỗ trợ tiêu hóa cùng với rau xanh",
+      "offerId": "green-powder-bloom-greens",
+      "reason": "Bloom kết hợp rau xanh với hỗn hợp enzyme tiêu hóa và probiotic có ý nghĩa ở mức giá dễ tiếp cận — thành phần hỗ trợ tiêu hóa thực sự hữu ích."
+    },
+    {
+      "label": "Dành cho người mua muốn aojiru (cỏ lúa mạch) theo hình thức Nhật Bản truyền thống",
+      "offerId": "green-powder-fancl-aojiru-jp",
+      "reason": "FANCL Aojiru là thực phẩm bổ sung rau xanh Nhật Bản đáng tin cậy nhất, sử dụng cỏ lúa mạch non được chuẩn hóa về chlorophyll và có sẵn qua thương hiệu không có chất phụ gia đáng tin cậy nhất Nhật Bản."
+    },
+    {
+      "label": "Dành cho người muốn chứng nhận hữu cơ USDA với danh sách thành phần vừa phải",
+      "offerId": "green-powder-organifi-green-juice",
+      "reason": "Công thức Organifi được chứng nhận hữu cơ USDA, sử dụng spirulina và chlorella phổ đầy đủ cùng với adaptogen, và là một trong những hỗn hợp độc quyền sạch hơn trong danh mục cao cấp."
+    }
   ],
   "sections": [
     {
@@ -81,8 +101,14 @@
       "offerId": "green-powder-athletic-greens-ag1",
       "badge": "Hỗn Hợp Tất Cả Trong Một Tốt Nhất",
       "review": "Công thức 75+ thành phần của AG1 có hương vị tốt hơn bất kỳ đối thủ nào và pha trộn dễ dàng — tuân thủ hàng ngày là điểm bán hàng mạnh nhất. Cấu trúc hỗn hợp độc quyền ẩn các liều riêng lẻ, làm cho việc xác minh lâm sàng từ nhãn là không thể. Ở mức 3–4 USD mỗi khẩu phần, bạn đang trả một khoản phí đáng kể cho sự tiện lợi và hương vị hơn là độ minh bạch thành phần.",
-      "pros": ["Hương vị và khả năng pha trộn tốt nhất trong danh mục — lợi thế tuân thủ thực sự cho việc hình thành thói quen hàng ngày", "Công thức toàn diện bao gồm probiotics, enzyme tiêu hóa, adaptogen và rau xanh trong một khẩu phần", "NSF Certified for Sport để kiểm tra chất bị cấm"],
-      "cons": ["Hỗn hợp độc quyền xuyên suốt — liều thành phần riêng lẻ không được tiết lộ; không thể xác minh lượng điều trị"],
+      "pros": [
+        "Hương vị và khả năng pha trộn tốt nhất trong danh mục — lợi thế tuân thủ thực sự cho việc hình thành thói quen hàng ngày",
+        "Công thức toàn diện bao gồm probiotics, enzyme tiêu hóa, adaptogen và rau xanh trong một khẩu phần",
+        "NSF Certified for Sport để kiểm tra chất bị cấm"
+      ],
+      "cons": [
+        "Hỗn hợp độc quyền xuyên suốt — liều thành phần riêng lẻ không được tiết lộ; không thể xác minh lượng điều trị"
+      ],
       "grade": "A+",
       "specs": {
         "Thành phần": "75+ (rau xanh, adaptogen, probiotics, enzyme)",
@@ -92,14 +118,26 @@
         "Khẩu phần": "1 muỗng (12g) hàng ngày",
         "Giá mỗi khẩu phần": "~3–4 USD khi đăng ký"
       },
-      "scores": {"Minh bạch": 40, "Mật độ dinh dưỡng": 82, "Giá trị": 52, "Hương vị": 95, "Kiểm tra bên thứ ba": 90}
+      "scores": {
+        "Minh bạch": 2,
+        "Mật độ dinh dưỡng": 4.1,
+        "Giá trị": 2.6,
+        "Hương vị": 4.8,
+        "Kiểm tra bên thứ ba": 4.5
+      }
     },
     {
       "offerId": "green-powder-amazing-grass-greens",
       "badge": "Công Thức Minh Bạch Giá Trị Tốt Nhất",
       "review": "Amazing Grass tiết lộ lượng thành phần riêng lẻ cho hỗn hợp rau xanh — cỏ lúa mì 3.000mg, spirulina 1.000mg, cỏ lúa mạch 1.000mg, chlorella 300mg. Được chứng nhận NSF. Hương vị có tính cỏ xác thực, báo hiệu hàm lượng rau xanh thực sự. Ở mức thấp hơn 60–75% chi phí mỗi khẩu phần so với AG1, đây là thực phẩm bổ sung rau xanh hàng ngày có thể bảo vệ tốt nhất cho người mua có ý thức về ngân sách muốn biết họ đang uống gì.",
-      "pros": ["Lượng rau xanh riêng lẻ được tiết lộ — cỏ lúa mì 3g, spirulina 1g, cỏ lúa mạch 1g, chlorella 300mg", "Được chứng nhận NSF và xác minh bởi Non-GMO Project — xác nhận độ tinh khiết của bên thứ ba có ý nghĩa", "Thấp hơn 60–75% chi phí mỗi khẩu phần so với các thương hiệu cao cấp cho nội dung rau xanh cốt lõi có thể so sánh"],
-      "cons": ["Hương vị cỏ rõ rệt hơn các thương hiệu cao cấp — cần một số điều chỉnh cho vị giác nhạy cảm"],
+      "pros": [
+        "Lượng rau xanh riêng lẻ được tiết lộ — cỏ lúa mì 3g, spirulina 1g, cỏ lúa mạch 1g, chlorella 300mg",
+        "Được chứng nhận NSF và xác minh bởi Non-GMO Project — xác nhận độ tinh khiết của bên thứ ba có ý nghĩa",
+        "Thấp hơn 60–75% chi phí mỗi khẩu phần so với các thương hiệu cao cấp cho nội dung rau xanh cốt lõi có thể so sánh"
+      ],
+      "cons": [
+        "Hương vị cỏ rõ rệt hơn các thương hiệu cao cấp — cần một số điều chỉnh cho vị giác nhạy cảm"
+      ],
       "grade": "A",
       "specs": {
         "Thành phần": "Hỗn hợp rau xanh + hỗn hợp chống oxy hóa",
@@ -109,14 +147,26 @@
         "Khẩu phần": "1 muỗng (8g) hàng ngày",
         "Giá mỗi khẩu phần": "~0,75–1,00 USD"
       },
-      "scores": {"Minh bạch": 88, "Mật độ dinh dưỡng": 78, "Giá trị": 95, "Hương vị": 68, "Kiểm tra bên thứ ba": 85}
+      "scores": {
+        "Minh bạch": 4.4,
+        "Mật độ dinh dưỡng": 3.9,
+        "Giá trị": 4.8,
+        "Hương vị": 3.4,
+        "Kiểm tra bên thứ ba": 4.3
+      }
     },
     {
       "offerId": "green-powder-bloom-greens",
       "badge": "Công Thức Hỗ Trợ Tiêu Hóa Tốt Nhất",
       "review": "Bloom thêm enzyme tiêu hóa chức năng và lớp probiotic (2 tỷ CFU) vào nền rau xanh tiêu chuẩn — thành phần hỗ trợ tiêu hóa thực sự phân biệt nó với bột rau xanh thuần túy. Các hương vị trái cây nằm trong số dễ uống nhất trong danh mục. Giá tầm trung. Cấu trúc hỗn hợp độc quyền cho một số thành phần giới hạn xác minh liều đầy đủ, nhưng giá trị tiêu hóa là thực sự cho những người bị đầy bụng sau bữa ăn.",
-      "pros": ["Phức hợp enzyme tiêu hóa (amylase, protease, lipase, bromelain, papain) thêm tiện ích hỗ trợ đường ruột thực sự", "2 tỷ CFU probiotics (L. acidophilus, B. longum) bổ sung cho công thức rau xanh", "Các hương vị tốt nhất trong lớp (dưa hấu, xoài dừa) — khả năng uống cao nhất cho tuân thủ hàng ngày"],
-      "cons": ["Cấu trúc hỗn hợp độc quyền cho một số thành phần giới hạn xác minh lượng thành phần đầy đủ"],
+      "pros": [
+        "Phức hợp enzyme tiêu hóa (amylase, protease, lipase, bromelain, papain) thêm tiện ích hỗ trợ đường ruột thực sự",
+        "2 tỷ CFU probiotics (L. acidophilus, B. longum) bổ sung cho công thức rau xanh",
+        "Các hương vị tốt nhất trong lớp (dưa hấu, xoài dừa) — khả năng uống cao nhất cho tuân thủ hàng ngày"
+      ],
+      "cons": [
+        "Cấu trúc hỗn hợp độc quyền cho một số thành phần giới hạn xác minh lượng thành phần đầy đủ"
+      ],
       "grade": "B+",
       "specs": {
         "Thành phần": "Rau xanh + enzyme tiêu hóa + probiotics + adaptogen",
@@ -126,14 +176,26 @@
         "Khẩu phần": "1 muỗng hàng ngày",
         "Giá mỗi khẩu phần": "~1,25–1,75 USD"
       },
-      "scores": {"Minh bạch": 65, "Mật độ dinh dưỡng": 75, "Giá trị": 80, "Hương vị": 92, "Kiểm tra bên thứ ba": 72}
+      "scores": {
+        "Minh bạch": 3.3,
+        "Mật độ dinh dưỡng": 3.8,
+        "Giá trị": 4,
+        "Hương vị": 4.6,
+        "Kiểm tra bên thứ ba": 3.6
+      }
     },
     {
       "offerId": "green-powder-fancl-aojiru-jp",
       "badge": "Rau Xanh Aojiru Truyền Thống Tốt Nhất",
       "review": "Aojiru của FANCL là thực phẩm bổ sung cỏ lúa mạch non tiêu chuẩn vàng của Nhật Bản — không có phụ gia, được chuẩn hóa cho hàm lượng chlorophyll, đóng gói trong các gói que riêng lẻ để phân chia khẩu phần tươi. Cơ sở nghiên cứu của Nhật Bản về cỏ lúa mạch rộng rãi hơn nhiều so với các thị trường nói tiếng Anh nhận ra. Không có chất bảo quản, màu nhân tạo hay phụ gia nào. Lựa chọn dứt khoát cho bất kỳ ai tìm kiếm aojiru chính thống.",
-      "pros": ["Cỏ lúa mạch non được chuẩn hóa cho chlorophyll — thu hoạch đỉnh cao, sấy khô ở nhiệt độ thấp để bảo quản chất dinh dưỡng", "Không có phụ gia: không có chất bảo quản, màu nhân tạo hay chất trợ dòng chảy (tiêu chuẩn chất lượng thành lập của FANCL)", "Gói que riêng lẻ để phân chia khẩu phần thuận tiện và duy trì độ tươi"],
-      "cons": ["Khả năng tiếp cận quốc tế hạn chế — chủ yếu thông qua các nhà bán lẻ trực tuyến lớn"],
+      "pros": [
+        "Cỏ lúa mạch non được chuẩn hóa cho chlorophyll — thu hoạch đỉnh cao, sấy khô ở nhiệt độ thấp để bảo quản chất dinh dưỡng",
+        "Không có phụ gia: không có chất bảo quản, màu nhân tạo hay chất trợ dòng chảy (tiêu chuẩn chất lượng thành lập của FANCL)",
+        "Gói que riêng lẻ để phân chia khẩu phần thuận tiện và duy trì độ tươi"
+      ],
+      "cons": [
+        "Khả năng tiếp cận quốc tế hạn chế — chủ yếu thông qua các nhà bán lẻ trực tuyến lớn"
+      ],
       "grade": "B",
       "specs": {
         "Thành phần": "Cỏ lúa mạch non (大麦若葉) — chính",
@@ -143,14 +205,26 @@
         "Khẩu phần": "1 gói que hàng ngày",
         "Giá mỗi khẩu phần": "Phân khúc phổ thông mỗi gói"
       },
-      "scores": {"Minh bạch": 82, "Mật độ dinh dưỡng": 72, "Giá trị": 78, "Hương vị": 70, "Kiểm tra bên thứ ba": 75}
+      "scores": {
+        "Minh bạch": 4.1,
+        "Mật độ dinh dưỡng": 3.6,
+        "Giá trị": 3.9,
+        "Hương vị": 3.5,
+        "Kiểm tra bên thứ ba": 3.8
+      }
     },
     {
       "offerId": "green-powder-organifi-green-juice",
       "badge": "Công Thức Hữu Cơ USDA Tốt Nhất",
       "review": "Organifi cung cấp USDA được chứng nhận hữu cơ với công thức hướng adaptogen — ashwagandha, moringa (được chuẩn hóa 4% isothiocyanate) và nghệ cùng với spirulina và chlorella. Hương vị nhẹ, ngọt tự nhiên từ nước dừa. Cấu trúc hỗn hợp độc quyền giới hạn xác minh liều, nhưng chứng nhận hữu cơ yêu cầu tài liệu chuỗi cung ứng mà các thương hiệu thông thường không cung cấp. Đối với người mua ưu tiên hữu cơ, đây là tiêu chuẩn đối sánh danh mục cao cấp.",
-      "pros": ["USDA Certified Organic — tài liệu chuỗi cung ứng và yêu cầu kiểm toán định kỳ", "Adaptogen (ashwagandha, moringa chuẩn hóa 4% isothiocyanate, nghệ) thêm tiện ích phản ứng căng thẳng", "Hương vị nhẹ, ngọt tự nhiên — nền nước dừa giúp dễ uống hàng ngày mà không cần thêm chất tạo ngọt"],
-      "cons": ["Hỗn hợp độc quyền — lượng thành phần riêng lẻ không được tiết lộ mặc dù có chứng nhận hữu cơ"],
+      "pros": [
+        "USDA Certified Organic — tài liệu chuỗi cung ứng và yêu cầu kiểm toán định kỳ",
+        "Adaptogen (ashwagandha, moringa chuẩn hóa 4% isothiocyanate, nghệ) thêm tiện ích phản ứng căng thẳng",
+        "Hương vị nhẹ, ngọt tự nhiên — nền nước dừa giúp dễ uống hàng ngày mà không cần thêm chất tạo ngọt"
+      ],
+      "cons": [
+        "Hỗn hợp độc quyền — lượng thành phần riêng lẻ không được tiết lộ mặc dù có chứng nhận hữu cơ"
+      ],
       "grade": "B-",
       "specs": {
         "Thành phần": "Rau xanh + adaptogen (ashwagandha, moringa, nghệ) + nước dừa",
@@ -160,7 +234,13 @@
         "Khẩu phần": "1 muỗng (9g) hàng ngày",
         "Giá mỗi khẩu phần": "~2,00–2,50 USD khi đăng ký"
       },
-      "scores": {"Minh bạch": 52, "Mật độ dinh dưỡng": 78, "Giá trị": 68, "Hương vị": 85, "Kiểm tra bên thứ ba": 80}
+      "scores": {
+        "Minh bạch": 2.6,
+        "Mật độ dinh dưỡng": 3.9,
+        "Giá trị": 3.4,
+        "Hương vị": 4.3,
+        "Kiểm tra bên thứ ba": 4
+      }
     }
   ]
 }

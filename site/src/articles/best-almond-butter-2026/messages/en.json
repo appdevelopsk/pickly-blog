@@ -84,7 +84,14 @@
         "Contains palm oil — sustainability concern for some",
         "Less intense almond flavor than raw options"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "barney-bare-almond-butter",
@@ -99,7 +106,14 @@
         "Oil separation requires stirring",
         "Less available in mainstream stores"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "wild-friends-almond-butter",
@@ -114,7 +128,14 @@
         "Premium price point",
         "Slightly grainy texture vs. Justin's"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "artisana-organic-almond-butter",
@@ -129,7 +150,14 @@
         "Requires thorough stirring",
         "Higher price than mass-market options"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "maranatha-no-stir-almond-butter",
@@ -144,7 +172,14 @@
         "Added oils and salt in the formula",
         "Less pure ingredient profile than natural options"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."

@@ -74,7 +74,14 @@
         "Luxury price",
         "Won't survive a greasy meal like a liquid matte"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Finish": 4.7,
+        "Longevity": 4.8,
+        "Color payoff": 4.7,
+        "Comfort": 4.8,
+        "Value": 5
+      }
     },
     {
       "offerId": "mac-matte-lipstick",
@@ -90,7 +97,14 @@
         "Classic flat matte is less hydrating",
         "Less comfortable than soft-matte or satin"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Finish": 4.4,
+        "Longevity": 4,
+        "Color payoff": 4.4,
+        "Comfort": 4,
+        "Value": 4.7
+      }
     },
     {
       "offerId": "fenty-stunna-lip-paint",
@@ -106,7 +120,14 @@
         "Mid-to-premium price",
         "Liquid finish is less touch-up-friendly than satin"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Finish": 4.6,
+        "Longevity": 4.2,
+        "Color payoff": 4.1,
+        "Comfort": 4.2,
+        "Value": 4.4
+      }
     },
     {
       "offerId": "maybelline-superstay-matte-ink",
@@ -122,7 +143,14 @@
         "Can feel drying over a full day",
         "Hard to touch up once set"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Finish": 4.3,
+        "Longevity": 4.4,
+        "Color payoff": 4.3,
+        "Comfort": 3.9,
+        "Value": 4.6
+      }
     },
     {
       "offerId": "nars-audacious-lipstick",
@@ -138,7 +166,14 @@
         "Fades and transfers faster than mattes",
         "Luxury price"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Finish": 4.5,
+        "Longevity": 4.1,
+        "Color payoff": 4.5,
+        "Comfort": 4.1,
+        "Value": 4.3
+      }
     }
   ],
   "recommendedFor": [

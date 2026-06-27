@@ -4,11 +4,31 @@
   "lede": "The mushroom supplement market has a serious transparency problem. The majority of mushroom powders sold in the US are grown on grain — oats or brown rice — and sold without removing the grain substrate. These products may be 50–80% starch by dry weight, with negligible beta-glucan content. Beta-glucans are the primary bioactive compounds responsible for the immunomodulatory and adaptogenic effects attributed to medicinal mushrooms. Fruiting body products, grown on wood-based substrates and extracted properly, deliver meaningfully higher beta-glucan concentrations. These five represent the spectrum from genuine quality to accessible compromise.",
   "methodology": "Each supplement was evaluated on fruiting body vs. mycelium source, beta-glucan content disclosure and third-party verification, extraction method (dual extraction for compounds that require alcohol and hot water), species diversity and supporting research, and cost per milligram of verified beta-glucans.",
   "recommendedFor": [
-    {"label": "For cognitive performance and nerve growth factor support with lion's mane", "offerId": "mushroom-supp-four-sigmatic-lions-mane", "reason": "Four Sigmatic's Lion's Mane extract is the most accessible single-species cognitive support product with documented extraction process and fruiting body sourcing."},
-    {"label": "For immune support with verified beta-glucan content from multiple species", "offerId": "mushroom-supp-real-mushrooms-5-defenders", "reason": "Real Mushrooms is the gold standard for transparency — fruiting body only, beta-glucan percentage disclosed and third-party verified, no mycelium on grain."},
-    {"label": "For a broad adaptogen stack covering cognitive, immune, and stress response simultaneously", "offerId": "mushroom-supp-om-master-blend", "reason": "Om Mushroom's Master Blend covers 10 functional mushroom species with full-spectrum mycelium and fruiting body combination, USDA organic."},
-    {"label": "For traditional reishi (lingzhi) with FANCL's additive-free quality standard", "offerId": "mushroom-supp-fancl-reishi-jp", "reason": "FANCL Reishi is Japan's most trusted reishi supplement — additive-free, using the dried fruiting body of Ganoderma lucidum with Japanese research backing."},
-    {"label": "For a research-grounded multi-species formula from Paul Stamets' mycology laboratory", "offerId": "mushroom-supp-host-defense-mychillogy", "reason": "Host Defense is Paul Stamets' brand — the most credentialed name in medicinal mycology — with certified organic, full-spectrum mycelium-plus-fruiting-body formulas."}
+    {
+      "label": "For cognitive performance and nerve growth factor support with lion's mane",
+      "offerId": "mushroom-supp-four-sigmatic-lions-mane",
+      "reason": "Four Sigmatic's Lion's Mane extract is the most accessible single-species cognitive support product with documented extraction process and fruiting body sourcing."
+    },
+    {
+      "label": "For immune support with verified beta-glucan content from multiple species",
+      "offerId": "mushroom-supp-real-mushrooms-5-defenders",
+      "reason": "Real Mushrooms is the gold standard for transparency — fruiting body only, beta-glucan percentage disclosed and third-party verified, no mycelium on grain."
+    },
+    {
+      "label": "For a broad adaptogen stack covering cognitive, immune, and stress response simultaneously",
+      "offerId": "mushroom-supp-om-master-blend",
+      "reason": "Om Mushroom's Master Blend covers 10 functional mushroom species with full-spectrum mycelium and fruiting body combination, USDA organic."
+    },
+    {
+      "label": "For traditional reishi (lingzhi) with FANCL's additive-free quality standard",
+      "offerId": "mushroom-supp-fancl-reishi-jp",
+      "reason": "FANCL Reishi is Japan's most trusted reishi supplement — additive-free, using the dried fruiting body of Ganoderma lucidum with Japanese research backing."
+    },
+    {
+      "label": "For a research-grounded multi-species formula from Paul Stamets' mycology laboratory",
+      "offerId": "mushroom-supp-host-defense-mychillogy",
+      "reason": "Host Defense is Paul Stamets' brand — the most credentialed name in medicinal mycology — with certified organic, full-spectrum mycelium-plus-fruiting-body formulas."
+    }
   ],
   "sections": [
     {
@@ -81,8 +101,14 @@
       "offerId": "mushroom-supp-four-sigmatic-lions-mane",
       "badge": "Best Lion's Mane Entry Point",
       "review": "Four Sigmatic's Lion's Mane Elixir is the most accessible single-species cognitive support product, using dual-extracted fruiting body with rhodiola. The evidence for lion's mane hericenones and erinacines stimulating NGF is the strongest cognitive research of any functional mushroom. Transparent enough for an entry-level buyer; the beta-glucan disclosure gap holds it back from the top tier.",
-      "pros": ["Lion's mane — best cognitive human trial evidence of any functional mushroom (Mori et al. RCT)", "Dual extraction process — hot water for beta-glucans, alcohol for hericenones and other compounds", "Accessible price and widely available — lowest friction entry into functional mushroom supplementation"],
-      "cons": ["Specific beta-glucan percentage not always disclosed on label — less transparent than Real Mushrooms"],
+      "pros": [
+        "Lion's mane — best cognitive human trial evidence of any functional mushroom (Mori et al. RCT)",
+        "Dual extraction process — hot water for beta-glucans, alcohol for hericenones and other compounds",
+        "Accessible price and widely available — lowest friction entry into functional mushroom supplementation"
+      ],
+      "cons": [
+        "Specific beta-glucan percentage not always disclosed on label — less transparent than Real Mushrooms"
+      ],
       "grade": "A+",
       "specs": {
         "Species": "Lion's mane (Hericium erinaceus) + rhodiola rosea",
@@ -92,14 +118,26 @@
         "Serving": "1 packet or 2 capsules daily",
         "Form": "Elixir powder or capsules"
       },
-      "scores": {"Beta-glucan quality": 75, "Evidence base": 88, "Transparency": 68, "Value": 78, "Convenience": 90}
+      "scores": {
+        "Beta-glucan quality": 3.8,
+        "Evidence base": 4.4,
+        "Transparency": 3.4,
+        "Value": 3.9,
+        "Convenience": 4.5
+      }
     },
     {
       "offerId": "mushroom-supp-real-mushrooms-5-defenders",
       "badge": "Best Verified Beta-Glucan Content",
       "review": "Real Mushrooms is the transparency benchmark — beta-glucan content disclosed and third-party verified, fruiting body only (no mycelium on grain), certified organic. The 5 Defenders Blend covers chaga, turkey tail, reishi, shiitake, and maitake — the five species with the strongest immune-support research. For buyers who have done research on mushroom supplement quality standards, this is the reference product.",
-      "pros": ["Beta-glucan content third-party verified and disclosed — the transparency gold standard in mushroom supplements", "Fruiting body only — no mycelium on grain substrate; no grain starch diluting the product", "5 species (chaga, turkey tail, reishi, shiitake, maitake) with the strongest immune-support evidence base"],
-      "cons": ["Not the widest retail distribution — primarily available direct and through specialty supplement retailers"],
+      "pros": [
+        "Beta-glucan content third-party verified and disclosed — the transparency gold standard in mushroom supplements",
+        "Fruiting body only — no mycelium on grain substrate; no grain starch diluting the product",
+        "5 species (chaga, turkey tail, reishi, shiitake, maitake) with the strongest immune-support evidence base"
+      ],
+      "cons": [
+        "Not the widest retail distribution — primarily available direct and through specialty supplement retailers"
+      ],
       "grade": "A",
       "specs": {
         "Species": "Chaga, turkey tail, reishi, shiitake, maitake (5 species)",
@@ -109,14 +147,26 @@
         "Serving": "2 capsules (2,000mg) daily",
         "Form": "Capsules or powder"
       },
-      "scores": {"Beta-glucan quality": 97, "Evidence base": 90, "Transparency": 98, "Value": 78, "Convenience": 82}
+      "scores": {
+        "Beta-glucan quality": 4.9,
+        "Evidence base": 4.5,
+        "Transparency": 4.9,
+        "Value": 3.9,
+        "Convenience": 4.1
+      }
     },
     {
       "offerId": "mushroom-supp-om-master-blend",
       "badge": "Best Broad-Spectrum Adaptogen Stack",
       "review": "Om Mushroom's 10-species Master Blend covers the widest species range in this comparison — lion's mane, chaga, reishi, turkey tail, cordyceps, shiitake, maitake, king trumpet, agarikon, himematsutake. USDA organic, domestically grown in California for supply-chain control. The full-spectrum mycelium + fruiting body approach is scientifically defensible. At 200mg per species per serving, depth-per-species is lower than single-species alternatives.",
-      "pros": ["10 functional mushroom species in one serving — the broadest adaptogenic coverage in this comparison", "USDA organic, grown domestically (California) — supply-chain transparency and quality control", "Full-spectrum: combines mycelium and fruiting body for complete compound profile"],
-      "cons": ["200mg per species — below therapeutic dose for any individual species when used independently"],
+      "pros": [
+        "10 functional mushroom species in one serving — the broadest adaptogenic coverage in this comparison",
+        "USDA organic, grown domestically (California) — supply-chain transparency and quality control",
+        "Full-spectrum: combines mycelium and fruiting body for complete compound profile"
+      ],
+      "cons": [
+        "200mg per species — below therapeutic dose for any individual species when used independently"
+      ],
       "grade": "B+",
       "specs": {
         "Species": "10 species including lion's mane, reishi, turkey tail, cordyceps, chaga + 5 more",
@@ -126,14 +176,26 @@
         "Serving": "1 scoop (2,000mg) daily",
         "Form": "Powder or capsules"
       },
-      "scores": {"Beta-glucan quality": 80, "Evidence base": 82, "Transparency": 80, "Value": 80, "Convenience": 85}
+      "scores": {
+        "Beta-glucan quality": 4,
+        "Evidence base": 4.1,
+        "Transparency": 4,
+        "Value": 4,
+        "Convenience": 4.3
+      }
     },
     {
       "offerId": "mushroom-supp-fancl-reishi-jp",
       "badge": "Best Traditional Reishi",
       "review": "FANCL's additive-free reishi supplement is Japan's most trusted lingzhi product — dried Ganoderma lucidum fruiting body, no preservatives or artificial additives, available nationwide across FANCL's retail and online network. The Japanese reishi research base is extensive. Beta-glucan content is not disclosed with the specificity of Real Mushrooms, but FANCL's manufacturing standards are among Japan's highest for supplements.",
-      "pros": ["Reishi (Ganoderma lucidum) fruiting body — 2,000+ years of documented medicinal use, extensive modern research", "Additive-free FANCL standard — no preservatives, artificial colors, or flow agents", "FFC-approved health claims under Japan's Foods with Function Claims regulatory framework"],
-      "cons": ["Beta-glucan content not disclosed with same specificity as Western transparency leaders"],
+      "pros": [
+        "Reishi (Ganoderma lucidum) fruiting body — 2,000+ years of documented medicinal use, extensive modern research",
+        "Additive-free FANCL standard — no preservatives, artificial colors, or flow agents",
+        "FFC-approved health claims under Japan's Foods with Function Claims regulatory framework"
+      ],
+      "cons": [
+        "Beta-glucan content not disclosed with same specificity as Western transparency leaders"
+      ],
       "grade": "B",
       "specs": {
         "Species": "Reishi (Ganoderma lucidum) — single species",
@@ -143,14 +205,26 @@
         "Serving": "Per label (Japan dosing convention)",
         "Form": "Capsules or tablets"
       },
-      "scores": {"Beta-glucan quality": 72, "Evidence base": 85, "Transparency": 65, "Value": 80, "Convenience": 88}
+      "scores": {
+        "Beta-glucan quality": 3.6,
+        "Evidence base": 4.3,
+        "Transparency": 3.3,
+        "Value": 4,
+        "Convenience": 4.4
+      }
     },
     {
       "offerId": "mushroom-supp-host-defense-mychillogy",
       "badge": "Best Research-Backed Brand Pedigree",
       "review": "Host Defense by Paul Stamets carries the most credentialed research pedigree in the US mushroom supplement market. The 17-species Mychillogy formula uses full-spectrum organic mycelium grown in Washington state from Stamets' own strain collection. The mycelium-inclusive approach is scientifically debated vs. fruiting-body-only, but the brand's scientific documentation and strain specificity are unmatched. Certified organic, cGMP facility.",
-      "pros": ["Paul Stamets' mycology research credibility — the most documented scientific pedigree in US mushroom supplements", "17 species, full-spectrum organic mycelium from verified strains — widest coverage in this comparison", "Certified organic, cGMP manufacturing, strain-specific documentation from Stamets' personal collection"],
-      "cons": ["Mycelium-based — scientific debate ongoing vs. fruiting-body-only; beta-glucan % varies by species"],
+      "pros": [
+        "Paul Stamets' mycology research credibility — the most documented scientific pedigree in US mushroom supplements",
+        "17 species, full-spectrum organic mycelium from verified strains — widest coverage in this comparison",
+        "Certified organic, cGMP manufacturing, strain-specific documentation from Stamets' personal collection"
+      ],
+      "cons": [
+        "Mycelium-based — scientific debate ongoing vs. fruiting-body-only; beta-glucan % varies by species"
+      ],
       "grade": "B-",
       "specs": {
         "Species": "17 species including lion's mane, reishi, turkey tail, cordyceps, maitake + 12 more",
@@ -160,7 +234,13 @@
         "Serving": "2–4 capsules daily",
         "Form": "Capsules or tincture"
       },
-      "scores": {"Beta-glucan quality": 75, "Evidence base": 88, "Transparency": 72, "Value": 68, "Convenience": 82}
+      "scores": {
+        "Beta-glucan quality": 3.8,
+        "Evidence base": 4.4,
+        "Transparency": 3.6,
+        "Value": 3.4,
+        "Convenience": 4.1
+      }
     }
   ]
 }

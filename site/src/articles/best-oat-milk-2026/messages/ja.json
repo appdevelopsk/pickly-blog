@@ -84,7 +84,14 @@
         "菜種油が含まれる",
         "プラネットオーツより高価格"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "oatly-oat-milk-barista",
@@ -99,7 +106,14 @@
         "オリジナルより糖分が高い",
         "コーヒー以外の用途にはオーバースペック"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "planet-oat-extra-creamy",
@@ -114,7 +128,14 @@
         "オートリーより風味の複雑さが劣る",
         "エクストラクリーミーはカロリーが高い"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "califia-oat-milk-barista",
@@ -129,7 +150,14 @@
         "ココナッツ風味が感じられる——ニュートラルではない",
         "通常オーツミルクよりカロリーが高い"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "elmhurst-oat-milk",
@@ -144,7 +172,14 @@
         "食感が薄く温かい飲み物のフォームには不向き",
         "ガム安定剤入りオーツミルクとは味が異なる"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "各商品を風味・原料の透明性・1食あたりのコスパ・パッケージ品質・実用面での使い勝手で評価。認証情報やユーザーレビューを宣伝文句と照らし合わせて確認しています。"

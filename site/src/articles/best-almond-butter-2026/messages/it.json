@@ -84,7 +84,14 @@
         "Contiene olio di palma — preoccupazione di sostenibilita per alcuni",
         "Sapore di mandorla meno intenso rispetto alle opzioni crude"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "barney-bare-almond-butter",
@@ -99,7 +106,14 @@
         "La separazione dell'olio richiede di mescolare",
         "Meno disponibile nei negozi della grande distribuzione"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "wild-friends-almond-butter",
@@ -114,7 +128,14 @@
         "Prezzo premium",
         "Consistenza leggermente granulosa rispetto a Justin's"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "artisana-organic-almond-butter",
@@ -129,7 +150,14 @@
         "Richiede di mescolare accuratamente",
         "Prezzo piu alto rispetto alle opzioni di massa"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "maranatha-no-stir-almond-butter",
@@ -144,7 +172,14 @@
         "Oli aggiunti e sale nella formula",
         "Profilo ingredienti meno puro rispetto alle opzioni naturali"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "Abbiamo valutato ogni prodotto in base al profilo aromatico, alla trasparenza dell'approvvigionamento, al rapporto qualità-prezzo per porzione, all'integrità della confezione e alle prestazioni nei più comuni casi d'uso. Le certificazioni documentate e le recensioni verificate degli utenti sono state confrontate con le dichiarazioni di marketing."

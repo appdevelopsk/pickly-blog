@@ -84,7 +84,14 @@
         "Mengandung minyak sawit — kekhawatiran keberlanjutan bagi sebagian orang",
         "Rasa almond kurang intens dibanding pilihan mentah"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "barney-bare-almond-butter",
@@ -99,7 +106,14 @@
         "Pemisahan minyak memerlukan pengadukan",
         "Kurang tersedia di toko umum"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "wild-friends-almond-butter",
@@ -114,7 +128,14 @@
         "Harga premium",
         "Tekstur sedikit lebih kasar dibanding Justin's"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "artisana-organic-almond-butter",
@@ -129,7 +150,14 @@
         "Memerlukan pengadukan menyeluruh",
         "Harga lebih tinggi dari pilihan pasar massal"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "maranatha-no-stir-almond-butter",
@@ -144,7 +172,14 @@
         "Minyak tambahan dan garam dalam formula",
         "Profil bahan kurang murni dibandingkan pilihan alami"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "Kami menilai setiap produk berdasarkan profil rasa, transparansi pengadaan, nilai per sajian, integritas kemasan, dan seberapa baik kinerjanya di seluruh kasus penggunaan umum. Sertifikasi yang terdokumentasi dan ulasan pengguna yang diverifikasi diperiksa silang dengan klaim pemasaran."

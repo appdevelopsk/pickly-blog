@@ -79,7 +79,11 @@
         "Contenance": "170 mL",
         "Prix": "Économique"
       },
-      "scores": {"value": 99, "quality": 92, "price": 99}
+      "scores": {
+        "value": 5,
+        "quality": 4.6,
+        "price": 5
+      }
     },
     {
       "offerId": "ha-serum-neutrogena-hydro-boost",
@@ -101,7 +105,11 @@
         "Contenance": "50 mL",
         "Prix": "€18–€23"
       },
-      "scores": {"value": 80, "quality": 78, "price": 82}
+      "scores": {
+        "value": 4,
+        "quality": 3.9,
+        "price": 4.1
+      }
     },
     {
       "offerId": "ha-serum-the-ordinary-ha",
@@ -123,7 +131,11 @@
         "Contenance": "30 mL",
         "Prix": "$9"
       },
-      "scores": {"value": 92, "quality": 75, "price": 97}
+      "scores": {
+        "value": 4.6,
+        "quality": 3.8,
+        "price": 4.9
+      }
     },
     {
       "offerId": "ha-serum-laneige-water-bank",
@@ -145,7 +157,11 @@
         "Contenance": "30 mL",
         "Prix": "€41"
       },
-      "scores": {"value": 65, "quality": 85, "price": 55}
+      "scores": {
+        "value": 3.3,
+        "quality": 4.3,
+        "price": 2.8
+      }
     },
     {
       "offerId": "ha-serum-cosrx-advanced-snail",
@@ -167,7 +183,11 @@
         "Contenance": "100 mL",
         "Prix": "€18"
       },
-      "scores": {"value": 88, "quality": 80, "price": 90}
+      "scores": {
+        "value": 4.4,
+        "quality": 4,
+        "price": 4.5
+      }
     }
   ],
   "faqs": [

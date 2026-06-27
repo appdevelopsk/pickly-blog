@@ -84,7 +84,14 @@
         "含棕櫚油——對某些人有可持續性疑慮",
         "比生食選項風味不那麼強烈"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "barney-bare-almond-butter",
@@ -99,7 +106,14 @@
         "油脂分層需要攪拌",
         "在主流商店中不那麼容易找到"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "wild-friends-almond-butter",
@@ -114,7 +128,14 @@
         "高端價位",
         "口感比Justin's略顯粗糙"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "artisana-organic-almond-butter",
@@ -129,7 +150,14 @@
         "需要充分攪拌",
         "比大眾市場選項價格更高"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "maranatha-no-stir-almond-butter",
@@ -144,7 +172,14 @@
         "配方中含有添加油脂和鹽",
         "比天然選項成分更不純淨"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "我們根據風味特徵、採購透明度、每份價值、包裝完整性以及在常見使用場景中的表現對每種產品進行評估。記錄在案的認證和經過驗證的用戶評論與行銷主張進行了交叉核查。"

@@ -65,31 +65,66 @@
       "offerId": "nike-lebron-xxii",
       "badge": "Sepatu Basket Premium Terbaik",
       "review": "LeBron XXII dibuat untuk pemain kuat dan big men yang menginginkan bantalan dan dukungan maksimal — unit Air Max di tumit dikombinasikan dengan unit Zoom Air di bagian depan kaki memberikan penyerapan benturan lembut sepanjang siklus langkah. Pola traksi multiarah bekerja baik di hardwood bersih. Bobotnya cukup besar — ini bukan sepatu penjaga cepat.",
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Build quality": 4.7,
+        "Performance": 4.8,
+        "Durability": 4.7,
+        "Comfort": 4.8,
+        "Value": 5
+      }
     },
     {
       "offerId": "adidas-harden-vol-8",
       "badge": "Sepatu Basket Penjaga Terbaik",
       "review": "Harden Vol. 8 dirancang untuk permainan penjaga — khusus untuk gerakan lateral rendah dan akselerasi eksplosif yang dibutuhkan pemain perimeter. Bantalan Lightstrike responsif, bukan mewah, memberikan feel lapangan sambil menyerap benturan cukup. Traksi herringbone adalah salah satu pola sepatu penjaga terbaik untuk hardwood bersih.",
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Build quality": 4.4,
+        "Performance": 4,
+        "Durability": 4.4,
+        "Comfort": 4,
+        "Value": 4.7
+      }
     },
     {
       "offerId": "new-balance-bb550",
       "badge": "Sepatu Lapangan Retro Terbaik",
       "review": "BB550 adalah sepatu basket bernuansa retro yang menjadi favorit gaya hidup dan kasual, tetapi benar-benar bekerja baik di lapangan untuk bermain rekreasional. Outsole herringbone datar memberikan cengkeraman baik di lapangan bersih. Desain low-top mengutamakan kebebasan bergerak.",
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Build quality": 4.6,
+        "Performance": 4.2,
+        "Durability": 4.1,
+        "Comfort": 4.2,
+        "Value": 4.4
+      }
     },
     {
       "offerId": "under-armour-curry-12",
       "badge": "Performa Mid-Range Terbaik",
       "review": "Curry 12 mewakili sweet spot performa untuk basket rekreasional serius dan kompetitif. Bantalan UA Flow memberikan penyerapan benturan dan traksi luar biasa dalam satu unit (tanpa karet outsole = busa adalah outsole). Hasilnya ringan secara mengejutkan.",
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Build quality": 3.8,
+        "Performance": 3.9,
+        "Durability": 3.8,
+        "Comfort": 3.4,
+        "Value": 4.1
+      }
     },
     {
       "offerId": "nike-giannis-immortality-4",
       "badge": "Sepatu Performa Hemat Terbaik",
       "review": "Lini Immortality adalah sepatu basket performa hemat Nike — dirancang untuk pemain serius yang tidak dapat membenarkan harga model signature. Immortality 4 menggunakan bantalan Air Strobel, unit Zoom Air di bagian depan kaki, dan pola traksi herringbone yang diadaptasi dari model kelas atas.",
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Build quality": 4,
+        "Performance": 3.6,
+        "Durability": 4,
+        "Comfort": 3.6,
+        "Value": 3.8
+      }
     }
   ],
   "methodology": "Setiap produk dievaluasi berdasarkan lima kriteria: kualitas bangunan, performa dalam penggunaan tipikal, daya tahan seiring waktu, kenyamanan, dan nilai per dolar. Kami memberi bobot tertinggi pada performa dan daya tahan karena ini menentukan apakah produk masih berguna 12 bulan kemudian.",

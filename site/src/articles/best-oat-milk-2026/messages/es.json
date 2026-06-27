@@ -84,7 +84,14 @@
         "Contiene aceite de colza",
         "Precio premium frente a Planet Oat"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "oatly-oat-milk-barista",
@@ -99,7 +106,14 @@
         "Mayor contenido de azúcar que la fórmula original",
         "Excesiva para aplicaciones que no sean café"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "planet-oat-extra-creamy",
@@ -114,7 +128,14 @@
         "Sabor menos complejo que Oatly",
         "La versión extra cremosa tiene más calorías"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "califia-oat-milk-barista",
@@ -129,7 +150,14 @@
         "El sabor a coco es detectable — no es neutro",
         "Más calorías que la leche de avena estándar"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "elmhurst-oat-milk",
@@ -144,7 +172,14 @@
         "Textura ligera — no hará espuma para bebidas calientes",
         "El sabor difiere de las leches de avena estabilizadas con gomas"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "Evaluamos cada producto según el perfil de sabor, la transparencia del origen, el valor por porción, la integridad del envase y su rendimiento en los usos más habituales. Cotejamos las certificaciones documentadas y las reseñas verificadas de usuarios con las afirmaciones de marketing."

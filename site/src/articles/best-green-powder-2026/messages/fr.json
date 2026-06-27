@@ -4,11 +4,31 @@
   "lede": "La catégorie poudre verte est dominée par les mélanges propriétaires — des marques qui listent les noms d'ingrédients sans quantités, rendant impossible de savoir si vous obtenez une dose cliniquement pertinente de quoi que ce soit. AG1 liste plus de 75 ingrédients ; si l'un d'eux apparaît à des concentrations thérapeutiques n'est pas divulgué. Une évaluation significative nécessite d'examiner ce que la formule révèle sur elle-même, ce qu'elle cache, et si les allégations santé sont traçables à la recherche réelle. Ces cinq représentent la vraie gamme.",
   "methodology": "Chaque produit a été évalué sur la transparence de la liste des ingrédients (montants complets vs. mélanges propriétaires), les tests tiers pour les métaux lourds et la contamination, la densité nutritionnelle par rapport aux alternatives d'aliments entiers, le goût et la miscibilité, et le ratio coût par portion par rapport à la valeur nutritive déclarée.",
   "recommendedFor": [
-    {"label": "Pour les personnes qui veulent une formule tout-en-un et privilégient le goût et l'observance", "offerId": "green-powder-athletic-greens-ag1", "reason": "Le large profil d'ingrédients d'AG1 et son excellent goût facilitent l'observance quotidienne — le compromis est l'opacité du mélange propriétaire et un prix premium."},
-    {"label": "Pour les acheteurs soucieux de leur budget qui veulent une nutrition verte de base sans la majoration", "offerId": "green-powder-amazing-grass-greens", "reason": "Amazing Grass offre une nutrition en greens d'aliments entiers à une fraction du prix de la marque premium, avec des quantités d'ingrédients transparentes et une certification NSF."},
-    {"label": "Pour les femmes axées sur la santé intestinale, les ballonnements et le soutien digestif avec des greens", "offerId": "green-powder-bloom-greens", "reason": "Bloom combine des greens avec un mélange significatif d'enzymes digestives et de probiotiques à un prix accessible — le composant de soutien digestif est genuinement utile."},
-    {"label": "Pour les acheteurs qui veulent de l'aojiru (herbe d'orge) sous forme japonaise traditionnelle", "offerId": "green-powder-fancl-aojiru-jp", "reason": "FANCL Aojiru est le complément vert japonais le plus fiable, utilisant de l'herbe d'orge jeune standardisée pour la chlorophylle de la marque sans additifs la plus fiable du Japon."},
-    {"label": "Pour les personnes qui veulent la certification biologique USDA avec une liste d'ingrédients modérée", "offerId": "green-powder-organifi-green-juice", "reason": "La formule d'Organifi est certifiée biologique USDA, utilise de la spiruline et de la chlorelle à spectre complet avec des adaptogènes, et est l'un des mélanges propriétaires les plus propres de la catégorie premium."}
+    {
+      "label": "Pour les personnes qui veulent une formule tout-en-un et privilégient le goût et l'observance",
+      "offerId": "green-powder-athletic-greens-ag1",
+      "reason": "Le large profil d'ingrédients d'AG1 et son excellent goût facilitent l'observance quotidienne — le compromis est l'opacité du mélange propriétaire et un prix premium."
+    },
+    {
+      "label": "Pour les acheteurs soucieux de leur budget qui veulent une nutrition verte de base sans la majoration",
+      "offerId": "green-powder-amazing-grass-greens",
+      "reason": "Amazing Grass offre une nutrition en greens d'aliments entiers à une fraction du prix de la marque premium, avec des quantités d'ingrédients transparentes et une certification NSF."
+    },
+    {
+      "label": "Pour les femmes axées sur la santé intestinale, les ballonnements et le soutien digestif avec des greens",
+      "offerId": "green-powder-bloom-greens",
+      "reason": "Bloom combine des greens avec un mélange significatif d'enzymes digestives et de probiotiques à un prix accessible — le composant de soutien digestif est genuinement utile."
+    },
+    {
+      "label": "Pour les acheteurs qui veulent de l'aojiru (herbe d'orge) sous forme japonaise traditionnelle",
+      "offerId": "green-powder-fancl-aojiru-jp",
+      "reason": "FANCL Aojiru est le complément vert japonais le plus fiable, utilisant de l'herbe d'orge jeune standardisée pour la chlorophylle de la marque sans additifs la plus fiable du Japon."
+    },
+    {
+      "label": "Pour les personnes qui veulent la certification biologique USDA avec une liste d'ingrédients modérée",
+      "offerId": "green-powder-organifi-green-juice",
+      "reason": "La formule d'Organifi est certifiée biologique USDA, utilise de la spiruline et de la chlorelle à spectre complet avec des adaptogènes, et est l'un des mélanges propriétaires les plus propres de la catégorie premium."
+    }
   ],
   "sections": [
     {
@@ -81,8 +101,14 @@
       "offerId": "green-powder-athletic-greens-ag1",
       "badge": "Meilleur mélange tout-en-un",
       "review": "La formule 75+ ingrédients d'AG1 a meilleur goût que tout concurrent et se mélange sans effort — l'observance quotidienne est son argument de vente le plus fort. La structure du mélange propriétaire cache les doses individuelles, rendant la vérification clinique impossible à partir de l'étiquette. À 3–4 € par portion, vous payez une prime significative pour la commodité et le goût plutôt que la transparence des ingrédients.",
-      "pros": ["Le meilleur goût et miscibilité de la catégorie — l'avantage d'observance pour la formation d'habitudes quotidiennes est réel", "Formule complète comprenant probiotiques, enzymes digestives, adaptogènes et greens en une portion", "NSF Certified for Sport pour les tests de substances interdites"],
-      "cons": ["Mélanges propriétaires tout au long — doses individuelles des ingrédients non divulguées ; quantités thérapeutiques non vérifiables"],
+      "pros": [
+        "Le meilleur goût et miscibilité de la catégorie — l'avantage d'observance pour la formation d'habitudes quotidiennes est réel",
+        "Formule complète comprenant probiotiques, enzymes digestives, adaptogènes et greens en une portion",
+        "NSF Certified for Sport pour les tests de substances interdites"
+      ],
+      "cons": [
+        "Mélanges propriétaires tout au long — doses individuelles des ingrédients non divulguées ; quantités thérapeutiques non vérifiables"
+      ],
       "grade": "A+",
       "specs": {
         "Ingrédients": "75+ (greens, adaptogènes, probiotiques, enzymes)",
@@ -92,14 +118,26 @@
         "Prise": "1 mesure (12 g) par jour",
         "Prix par portion": "~3–4 € en abonnement"
       },
-      "scores": {"Transparence": 40, "Densité nutritionnelle": 82, "Rapport qualité-prix": 52, "Goût": 95, "Tests tiers": 90}
+      "scores": {
+        "Transparence": 2,
+        "Densité nutritionnelle": 4.1,
+        "Rapport qualité-prix": 2.6,
+        "Goût": 4.8,
+        "Tests tiers": 4.5
+      }
     },
     {
       "offerId": "green-powder-amazing-grass-greens",
       "badge": "Meilleure formule transparente et économique",
       "review": "Amazing Grass divulgue les quantités individuelles d'ingrédients pour le mélange de greens — herbe de blé 3 000 mg, spiruline 1 000 mg, herbe d'orge 1 000 mg, chlorelle 300 mg. Certifié NSF. Le goût est authentiquement herbeux, ce qui signale un contenu réel en greens. À 60–75% de coût inférieur par portion à AG1, c'est le complément de greens quotidien le plus défendable pour les acheteurs soucieux du budget qui veulent savoir ce qu'ils prennent.",
-      "pros": ["Quantités individuelles de greens divulguées — herbe de blé 3 g, spiruline 1 g, herbe d'orge 1 g, chlorelle 300 mg", "Certifié NSF et vérifié Non-OGM — confirmation significative de pureté par des tiers", "60–75% de coût inférieur par portion aux marques premium pour un contenu en greens de base comparable"],
-      "cons": ["Saveur plus prononcée d'herbe que les marques premium — nécessite quelques ajustements pour les palais sensibles"],
+      "pros": [
+        "Quantités individuelles de greens divulguées — herbe de blé 3 g, spiruline 1 g, herbe d'orge 1 g, chlorelle 300 mg",
+        "Certifié NSF et vérifié Non-OGM — confirmation significative de pureté par des tiers",
+        "60–75% de coût inférieur par portion aux marques premium pour un contenu en greens de base comparable"
+      ],
+      "cons": [
+        "Saveur plus prononcée d'herbe que les marques premium — nécessite quelques ajustements pour les palais sensibles"
+      ],
       "grade": "A",
       "specs": {
         "Ingrédients": "Mélange de greens + mélange antioxydant",
@@ -109,14 +147,26 @@
         "Prise": "1 mesure (8 g) par jour",
         "Prix par portion": "~0,70–0,95 €"
       },
-      "scores": {"Transparence": 88, "Densité nutritionnelle": 78, "Rapport qualité-prix": 95, "Goût": 68, "Tests tiers": 85}
+      "scores": {
+        "Transparence": 4.4,
+        "Densité nutritionnelle": 3.9,
+        "Rapport qualité-prix": 4.8,
+        "Goût": 3.4,
+        "Tests tiers": 4.3
+      }
     },
     {
       "offerId": "green-powder-bloom-greens",
       "badge": "Meilleure formule de soutien digestif",
       "review": "Bloom ajoute une couche fonctionnelle d'enzymes digestives et de probiotiques (2 milliards d'UFC) à une base de greens standard — le composant de soutien digestif la différencie genuinement des poudres vertes pures. Les saveurs fruitées sont parmi les plus palatables de la catégorie. Prix de gamme intermédiaire. La structure du mélange propriétaire pour certains composants limite la vérification complète des doses, mais l'utilité digestive est réelle pour les personnes souffrant de ballonnements post-repas.",
-      "pros": ["Complexe d'enzymes digestives (amylase, protéase, lipase, bromélaïne, papaïne) ajoute une utilité réelle de soutien intestinal", "2 milliards d'UFC de probiotiques (L. acidophilus, B. longum) complètent la formule de greens", "Meilleures saveurs de la catégorie (pastèque, mangue coco) — meilleure palatabilité pour l'observance quotidienne"],
-      "cons": ["Structure de mélange propriétaire pour plusieurs composants limite la vérification complète des quantités d'ingrédients"],
+      "pros": [
+        "Complexe d'enzymes digestives (amylase, protéase, lipase, bromélaïne, papaïne) ajoute une utilité réelle de soutien intestinal",
+        "2 milliards d'UFC de probiotiques (L. acidophilus, B. longum) complètent la formule de greens",
+        "Meilleures saveurs de la catégorie (pastèque, mangue coco) — meilleure palatabilité pour l'observance quotidienne"
+      ],
+      "cons": [
+        "Structure de mélange propriétaire pour plusieurs composants limite la vérification complète des quantités d'ingrédients"
+      ],
       "grade": "B+",
       "specs": {
         "Ingrédients": "Greens + enzymes digestives + probiotiques + adaptogènes",
@@ -126,14 +176,26 @@
         "Prise": "1 mesure par jour",
         "Prix par portion": "~1,15–1,60 €"
       },
-      "scores": {"Transparence": 65, "Densité nutritionnelle": 75, "Rapport qualité-prix": 80, "Goût": 92, "Tests tiers": 72}
+      "scores": {
+        "Transparence": 3.3,
+        "Densité nutritionnelle": 3.8,
+        "Rapport qualité-prix": 4,
+        "Goût": 4.6,
+        "Tests tiers": 3.6
+      }
     },
     {
       "offerId": "green-powder-fancl-aojiru-jp",
       "badge": "Meilleur greens aojiru traditionnel",
       "review": "L'Aojiru de FANCL est le complément d'herbe d'orge jeune standard or du Japon — sans additifs, standardisé pour la teneur en chlorophylle, emballé dans des sachets-bâton individuels pour un dosage frais. La base de recherche japonaise sur l'herbe d'orge est plus étendue que ce que les marchés anglophones reconnaissent. Sans conservateurs, colorants artificiels ni additifs d'aucune sorte. Le choix définitif pour quiconque recherche de l'aojiru authentique.",
-      "pros": ["Herbe d'orge jeune standardisée pour la chlorophylle — récoltée à son pic, séchée à basse température pour préserver les nutriments", "Sans additifs : sans conservateurs, colorants artificiels ni agents de fluidification (standard de qualité fondateur de FANCL)", "Sachets-bâton individuels pour un dosage pratique et le maintien de la fraîcheur"],
-      "cons": ["Disponibilité internationale limitée — principalement via les principaux détaillants en ligne"],
+      "pros": [
+        "Herbe d'orge jeune standardisée pour la chlorophylle — récoltée à son pic, séchée à basse température pour préserver les nutriments",
+        "Sans additifs : sans conservateurs, colorants artificiels ni agents de fluidification (standard de qualité fondateur de FANCL)",
+        "Sachets-bâton individuels pour un dosage pratique et le maintien de la fraîcheur"
+      ],
+      "cons": [
+        "Disponibilité internationale limitée — principalement via les principaux détaillants en ligne"
+      ],
       "grade": "B",
       "specs": {
         "Ingrédients": "Herbe d'orge jeune (大麦若葉) — principale",
@@ -143,14 +205,26 @@
         "Prise": "1 sachet-bâton par jour",
         "Prix par portion": "Gamme d'entrée par sachet"
       },
-      "scores": {"Transparence": 82, "Densité nutritionnelle": 72, "Rapport qualité-prix": 78, "Goût": 70, "Tests tiers": 75}
+      "scores": {
+        "Transparence": 4.1,
+        "Densité nutritionnelle": 3.6,
+        "Rapport qualité-prix": 3.9,
+        "Goût": 3.5,
+        "Tests tiers": 3.8
+      }
     },
     {
       "offerId": "green-powder-organifi-green-juice",
       "badge": "Meilleure formule biologique USDA",
       "review": "Organifi livre une certification biologique USDA avec une formule orientée adaptogènes — ashwagandha, moringa (standardisée à 4% d'isothiocyanates) et curcuma avec spiruline et chlorelle. Goût doux et naturellement sucré de l'eau de coco. La structure du mélange propriétaire limite la vérification des doses, mais la certification biologique exige une documentation de la chaîne d'approvisionnement que les marques génériques ne fournissent pas. Pour les acheteurs priorisant l'organique, c'est la référence de la catégorie premium.",
-      "pros": ["Certifié biologique USDA — documentation de chaîne d'approvisionnement et exigences d'audit périodique", "Adaptogènes (ashwagandha, moringa standardisée 4% isothiocyanates, curcuma) ajoutent une utilité de réponse au stress", "Goût doux et naturellement sucré — la base d'eau de coco facilite la consommation quotidienne sans édulcorant"],
-      "cons": ["Mélange propriétaire — quantités individuelles des ingrédients non divulguées malgré la certification biologique"],
+      "pros": [
+        "Certifié biologique USDA — documentation de chaîne d'approvisionnement et exigences d'audit périodique",
+        "Adaptogènes (ashwagandha, moringa standardisée 4% isothiocyanates, curcuma) ajoutent une utilité de réponse au stress",
+        "Goût doux et naturellement sucré — la base d'eau de coco facilite la consommation quotidienne sans édulcorant"
+      ],
+      "cons": [
+        "Mélange propriétaire — quantités individuelles des ingrédients non divulguées malgré la certification biologique"
+      ],
       "grade": "B-",
       "specs": {
         "Ingrédients": "Greens + adaptogènes (ashwagandha, moringa, curcuma) + eau de coco",
@@ -160,7 +234,13 @@
         "Prise": "1 mesure (9 g) par jour",
         "Prix par portion": "~1,85–2,30 € en abonnement"
       },
-      "scores": {"Transparence": 52, "Densité nutritionnelle": 78, "Rapport qualité-prix": 68, "Goût": 85, "Tests tiers": 80}
+      "scores": {
+        "Transparence": 2.6,
+        "Densité nutritionnelle": 3.9,
+        "Rapport qualité-prix": 3.4,
+        "Goût": 4.3,
+        "Tests tiers": 4
+      }
     }
   ]
 }

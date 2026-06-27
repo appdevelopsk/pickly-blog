@@ -65,31 +65,66 @@
       "offerId": "nike-lebron-xxii",
       "badge": "En İyi Premium Basketbol Ayakkabısı",
       "review": "LeBron XXII, maksimum yastıklama ve destek isteyen güçlü oyuncular ve büyük adamlar için yapılmıştır — topuktaki Air Max ünitesi, ayak önündeki Zoom Air ünitesiyle birlikte tam adım döngüsü boyunca yumuşak darbe emilimi sağlar. Çok yönlü taban deseni temiz parkede iyi performans gösterir. Ağırlık önemlidir — bunlar hızlı gardın ayakkabısı değildir.",
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Build quality": 4.7,
+        "Performance": 4.8,
+        "Durability": 4.7,
+        "Comfort": 4.8,
+        "Value": 5
+      }
     },
     {
       "offerId": "adidas-harden-vol-8",
       "badge": "En İyi Gard Basketbol Ayakkabısı",
       "review": "Harden Vol. 8, gard oyunu için tasarlanmıştır — özellikle çevre oyuncularının ihtiyaç duyduğu alçak yanal hareket ve patlayıcı ivmelenme için. Lightstrike yastıklama duyarlı, maç süresi boyunca yeterli darbe emilimi sağlarken zemin hissi verir. Balıksırtı tutuşu piyasadaki temiz parke için en iyi gard ayakkabısı desenlerinden biridir.",
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Build quality": 4.4,
+        "Performance": 4,
+        "Durability": 4.4,
+        "Comfort": 4,
+        "Value": 4.7
+      }
     },
     {
       "offerId": "new-balance-bb550",
       "badge": "En İyi Retro Saha Ayakkabısı",
       "review": "BB550, yaşam tarzı ve günlük favori haline gelen retro esinli bir basketbol ayakkabısıdır, ancak rekreasyonel ve düşük yoğunluklu oyun için sahada gerçekten iyi performans gösterir. Düz balıksırtı dış taban temiz sahalarda iyi tutuş sağlar. Düşük bilekli tasarım destek yerine hareket özgürlüğünü önceliklendirir.",
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Build quality": 4.6,
+        "Performance": 4.2,
+        "Durability": 4.1,
+        "Comfort": 4.2,
+        "Value": 4.4
+      }
     },
     {
       "offerId": "under-armour-curry-12",
       "badge": "En İyi Orta Aralık Performansı",
       "review": "Curry 12, ciddi rekreasyonel ve rekabetçi basketbol için performans tatlı noktasını temsil eder. UA Flow yastıklama tek bir ünitede mükemmel darbe emilimi ve tutuş sağlar. Sonuç şaşırtıcı derecede hafiftir.",
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Build quality": 3.8,
+        "Performance": 3.9,
+        "Durability": 3.8,
+        "Comfort": 3.4,
+        "Value": 4.1
+      }
     },
     {
       "offerId": "nike-giannis-immortality-4",
       "badge": "En İyi Bütçe Performans Ayakkabısı",
       "review": "Immortality serisi, Nike'ın değer performans basketbol ayakkabısıdır — imza model fiyatlandırmasını haklı çıkaramayan ciddi oyuncular için tasarlanmıştır. Immortality 4, Air Strobel yastıklama, ayak önünde Zoom Air ünitesi ve üst düzey modellerden uyarlanan balıksırtı taban deseni kullanır.",
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Build quality": 4,
+        "Performance": 3.6,
+        "Durability": 4,
+        "Comfort": 3.6,
+        "Value": 3.8
+      }
     }
   ],
   "methodology": "Her ürün beş kritere göre değerlendirildi: yapı kalitesi, tipik kullanımda performans, zaman içinde dayanıklılık, konfor ve dolar başına değer. Performans ve dayanıklılığa en yüksek ağırlığı verdik çünkü bunlar bir ürünün 12 ay sonra hâlâ kullanışlı olup olmadığını belirler.",

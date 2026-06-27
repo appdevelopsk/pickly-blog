@@ -84,7 +84,14 @@
         "يحتوي على زيت النخيل — مصدر قلق للاستدامة لبعض الأشخاص",
         "نكهة لوز أقل حدة من الخيارات الخام"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "barney-bare-almond-butter",
@@ -99,7 +106,14 @@
         "يتطلب تقليباً لانفصال الزيت",
         "أقل توافراً في المتاجر الرئيسية"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "wild-friends-almond-butter",
@@ -114,7 +128,14 @@
         "نقطة سعر متميزة",
         "قوام أكثر خشونة قليلاً مقارنة بـ Justin's"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "artisana-organic-almond-butter",
@@ -129,7 +150,14 @@
         "يتطلب تقليباً شاملاً",
         "سعر أعلى من خيارات السوق الجماهيري"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "maranatha-no-stir-almond-butter",
@@ -144,7 +172,14 @@
         "زيوت وملح مضافان في الصيغة",
         "ملف مكونات أقل نقاءً من الخيارات الطبيعية"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "قيّمنا كل منتج على أساس ملف الطعم وشفافية المصادر والقيمة لكل حصة وسلامة التغليف ومدى أداء كل منها عبر حالات الاستخدام الشائعة. الشهادات الموثقة والمراجعات الموثقة من المستخدمين تمت مقارنتها مع ادعاءات التسويق."

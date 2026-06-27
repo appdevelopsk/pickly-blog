@@ -84,7 +84,14 @@
         "含菜籽油",
         "价格相比Planet Oat有溢价"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "oatly-oat-milk-barista",
@@ -99,7 +106,14 @@
         "糖分含量高于原味配方",
         "非咖啡用途有些大材小用"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "planet-oat-extra-creamy",
@@ -114,7 +128,14 @@
         "风味复杂度不及Oatly",
         "浓郁奶油款热量更高"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "califia-oat-milk-barista",
@@ -129,7 +150,14 @@
         "椰子风味可以察觉——并非中性口味",
         "热量高于标准燕麦奶"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "elmhurst-oat-milk",
@@ -144,7 +172,14 @@
         "质地稀薄——热饮无法起泡",
         "口感不同于胶体稳定燕麦奶"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "我们从风味表现、原料来源透明度、每份性价比、包装完整性，以及在常见使用场景下的实际表现等方面评估每款产品。我们还将官方认证文件和经过核实的用户评价与品牌宣传说法进行交叉比对。"

@@ -84,7 +84,14 @@
         "Pas un substitut aux bandages de poignet dédiés à effort maximal",
         "Chauffe lors des séances estivales"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Build quality": 4.7,
+        "Performance": 4.8,
+        "Durability": 4.7,
+        "Comfort": 4.8,
+        "Value": 5
+      }
     },
     {
       "offerId": "trideer-half-finger-gloves",
@@ -99,7 +106,14 @@
         "Rembourrage plus fin que Harbinger",
         "Pas de support de poignet"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Build quality": 4.4,
+        "Performance": 4,
+        "Durability": 4.4,
+        "Comfort": 4,
+        "Value": 4.7
+      }
     },
     {
       "offerId": "mechanix-wear-gym-gloves",
@@ -114,7 +128,14 @@
         "Plus volumineux que les gants de salle à usage spécifique",
         "Moins respirants lors des séances intenses"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Build quality": 4.6,
+        "Performance": 4.2,
+        "Durability": 4.1,
+        "Comfort": 4.2,
+        "Value": 4.4
+      }
     },
     {
       "offerId": "bionic-premium-full-finger-gloves",
@@ -129,7 +150,14 @@
         "Excessif pour l'entraînement standard à la barre",
         "Prix plus élevé"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Build quality": 3.8,
+        "Performance": 3.9,
+        "Durability": 3.8,
+        "Comfort": 3.4,
+        "Value": 4.1
+      }
     },
     {
       "offerId": "bear-grips-barehand-straps",
@@ -144,7 +172,14 @@
         "Ne protège pas la paume",
         "Tailles différentes des gants standard"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Build quality": 4,
+        "Performance": 3.6,
+        "Durability": 4,
+        "Comfort": 3.6,
+        "Value": 3.8
+      }
     }
   ],
   "methodology": "Chaque produit a été évalué selon cinq critères : la qualité de fabrication, les performances en utilisation typique, la durabilité dans le temps, le confort et le rapport qualité-prix. Nous avons accordé le plus de poids aux performances et à la durabilité, car ce sont elles qui déterminent si un produit est toujours utile douze mois plus tard."

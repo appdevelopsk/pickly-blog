@@ -84,7 +84,14 @@
         "Contient de l'huile de palme — préoccupation de durabilité pour certains",
         "Saveur d'amande moins intense que les options crues"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "barney-bare-almond-butter",
@@ -99,7 +106,14 @@
         "La séparation de l'huile nécessite de remuer",
         "Moins disponible en magasins classiques"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "wild-friends-almond-butter",
@@ -114,7 +128,14 @@
         "Prix premium",
         "Texture légèrement granuleuse vs. Justin's"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "artisana-organic-almond-butter",
@@ -129,7 +150,14 @@
         "Nécessite de bien remuer",
         "Prix plus élevé que les options du marché de masse"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "maranatha-no-stir-almond-butter",
@@ -144,7 +172,14 @@
         "Huiles et sel ajoutés dans la formule",
         "Profil d'ingrédients moins pur que les options naturelles"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "Nous avons évalué chaque produit sur le profil de saveur, la transparence de l'approvisionnement, le rapport qualité-prix par portion, l'intégrité de l'emballage et ses performances dans les usages courants. Les certifications documentées et les avis vérifiés des utilisateurs ont été recoupés avec les allégations marketing."

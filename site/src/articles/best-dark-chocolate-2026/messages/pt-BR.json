@@ -84,7 +84,14 @@
         "Intensidade de 90% — nao para comedores casuais de chocolate",
         "Leve amargor no final"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "ghirardelli-midnight-reverie-86",
@@ -99,7 +106,14 @@
         "Menos complexo do que barras de origem unica",
         "Barra menor do que a da Lindt"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "green-blacks-organic-dark-85",
@@ -114,7 +128,14 @@
         "Menos intenso do que o Lindt 90%",
         "Abastecimento menos transparente do que bean-to-bar"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "theo-chocolate-organic-85",
@@ -129,7 +150,14 @@
         "3 a 4 vezes o preco da Lindt",
         "Disponibilidade limitada fora de lojas especializadas"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "alter-eco-deep-dark-blackout-85",
@@ -144,7 +172,14 @@
         "85% — menos extremo do que as opcoes de 90%+",
         "Textura ligeiramente cerosa vs. origem unica"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "Avaliamos cada produto pelo perfil de sabor, transparência de abastecimento, custo-benefício por porção, integridade da embalagem e desempenho nos casos de uso mais comuns. Certificações documentadas e avaliações verificadas de usuários foram confrontadas com as alegações de marketing."

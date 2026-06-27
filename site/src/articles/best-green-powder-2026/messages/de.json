@@ -4,11 +4,31 @@
   "lede": "Die Grünpulver-Kategorie wird von proprietären Mischungen dominiert – Marken, die Zutatennamen ohne Mengenangaben auflisten, sodass es unmöglich ist zu wissen, ob man eine klinisch relevante Dosis von irgendetwas bekommt. AG1 listet über 75 Zutaten auf; ob eine davon in therapeutischer Konzentration vorkommt, wird nicht offengelegt. Eine sinnvolle Bewertung erfordert, zu prüfen, was die Formel über sich selbst verrät, was sie verbirgt, und ob die Gesundheitsversprechen auf tatsächliche Forschung zurückführbar sind. Diese fünf repräsentieren die echte Bandbreite.",
   "methodology": "Jedes Produkt wurde bewertet nach Transparenz der Zutatenliste (vollständige Mengen vs. proprietäre Mischungen), Drittanbieter-Tests auf Schwermetalle und Verunreinigungen, Nährstoffdichte im Vergleich zu Vollwert-Alternativen, Geschmack und Löslichkeit sowie Kosten pro Portion im Verhältnis zum offengelegten Nährwert.",
   "recommendedFor": [
-    {"label": "Für Personen, die eine All-in-One-Formel wollen und Geschmack sowie tägliche Einnahme priorisieren", "offerId": "green-powder-athletic-greens-ag1", "reason": "AG1's breites Zutatenspektrum und der ausgezeichnete Geschmack erleichtern die tägliche Einnahme – der Kompromiss ist die Intransparenz der proprietären Mischung und ein Premium-Preis."},
-    {"label": "Für preisbewusste Käufer, die grundlegende Grüns-Ernährung ohne Aufpreis wollen", "offerId": "green-powder-amazing-grass-greens", "reason": "Amazing Grass liefert Vollwert-Grüns-Ernährung zu einem Bruchteil des Premium-Markenpreises, mit transparenten Mengenangaben und NSF-Zertifizierung."},
-    {"label": "Für Frauen, die sich neben Grüns auf Darmgesundheit, Blähungen und Verdauungsunterstützung konzentrieren", "offerId": "green-powder-bloom-greens", "reason": "Bloom kombiniert Grüns mit einer sinnvollen Verdauungsenzym- und Probiotika-Mischung zu einem erschwinglichen Preis – die Verdauungsunterstützung ist wirklich nützlich."},
-    {"label": "Für Käufer, die Aojiru (Gerstengras) in traditioneller japanischer Form wollen", "offerId": "green-powder-fancl-aojiru-jp", "reason": "FANCL Aojiru ist das vertrauenswürdigste japanische Grüns-Supplement, verwendet junges Gerstengras mit standardisiertem Chlorophyllgehalt von Japans vertrauenswürdigster zusatzstofffreien Marke."},
-    {"label": "Für Personen, die USDA-Bio-Zertifizierung mit einem moderaten Zutatenspektrum möchten", "offerId": "green-powder-organifi-green-juice", "reason": "Organifi ist USDA-zertifiziert bio, verwendet Spirulina und Chlorella in voller Wirksamkeit neben Adaptogenen und ist eine der saubereren proprietären Mischungen der Premiumkategorie."}
+    {
+      "label": "Für Personen, die eine All-in-One-Formel wollen und Geschmack sowie tägliche Einnahme priorisieren",
+      "offerId": "green-powder-athletic-greens-ag1",
+      "reason": "AG1's breites Zutatenspektrum und der ausgezeichnete Geschmack erleichtern die tägliche Einnahme – der Kompromiss ist die Intransparenz der proprietären Mischung und ein Premium-Preis."
+    },
+    {
+      "label": "Für preisbewusste Käufer, die grundlegende Grüns-Ernährung ohne Aufpreis wollen",
+      "offerId": "green-powder-amazing-grass-greens",
+      "reason": "Amazing Grass liefert Vollwert-Grüns-Ernährung zu einem Bruchteil des Premium-Markenpreises, mit transparenten Mengenangaben und NSF-Zertifizierung."
+    },
+    {
+      "label": "Für Frauen, die sich neben Grüns auf Darmgesundheit, Blähungen und Verdauungsunterstützung konzentrieren",
+      "offerId": "green-powder-bloom-greens",
+      "reason": "Bloom kombiniert Grüns mit einer sinnvollen Verdauungsenzym- und Probiotika-Mischung zu einem erschwinglichen Preis – die Verdauungsunterstützung ist wirklich nützlich."
+    },
+    {
+      "label": "Für Käufer, die Aojiru (Gerstengras) in traditioneller japanischer Form wollen",
+      "offerId": "green-powder-fancl-aojiru-jp",
+      "reason": "FANCL Aojiru ist das vertrauenswürdigste japanische Grüns-Supplement, verwendet junges Gerstengras mit standardisiertem Chlorophyllgehalt von Japans vertrauenswürdigster zusatzstofffreien Marke."
+    },
+    {
+      "label": "Für Personen, die USDA-Bio-Zertifizierung mit einem moderaten Zutatenspektrum möchten",
+      "offerId": "green-powder-organifi-green-juice",
+      "reason": "Organifi ist USDA-zertifiziert bio, verwendet Spirulina und Chlorella in voller Wirksamkeit neben Adaptogenen und ist eine der saubereren proprietären Mischungen der Premiumkategorie."
+    }
   ],
   "sections": [
     {
@@ -81,8 +101,14 @@
       "offerId": "green-powder-athletic-greens-ag1",
       "badge": "Bestes All-in-One-Blend",
       "review": "AG1s Formel mit 75+ Zutaten schmeckt besser als jeder Konkurrent und löst sich mühelos auf – tägliche Einnahmetreue ist der stärkste Verkaufsargument. Die proprietäre Mischungsstruktur verbirgt individuelle Dosen, macht klinische Verifizierung aus dem Etikett unmöglich. Bei 3–4 € pro Portion zahlt man einen erheblichen Aufpreis für Bequemlichkeit und Geschmack über Zutaten-Transparenz.",
-      "pros": ["Bester Geschmack und Löslichkeit der Kategorie – der Compliance-Vorteil für tägliche Gewohnheitsbildung ist real", "Umfassende Formel mit Probiotika, Verdauungsenzymen, Adaptogenen und Grüns in einer Portion", "NSF Certified for Sport für Dopingsubstanz-Tests"],
-      "cons": ["Proprietäre Mischungen durchgehend – individuelle Zutatenmengen nicht offengelegt; therapeutische Mengen nicht verifizierbar"],
+      "pros": [
+        "Bester Geschmack und Löslichkeit der Kategorie – der Compliance-Vorteil für tägliche Gewohnheitsbildung ist real",
+        "Umfassende Formel mit Probiotika, Verdauungsenzymen, Adaptogenen und Grüns in einer Portion",
+        "NSF Certified for Sport für Dopingsubstanz-Tests"
+      ],
+      "cons": [
+        "Proprietäre Mischungen durchgehend – individuelle Zutatenmengen nicht offengelegt; therapeutische Mengen nicht verifizierbar"
+      ],
       "grade": "A+",
       "specs": {
         "Zutatenanzahl": "75+ (Grüns, Adaptogene, Probiotika, Enzyme)",
@@ -92,14 +118,26 @@
         "Einnahme": "1 Messlöffel (12 g) täglich",
         "Preis pro Portion": "~3–4 € im Abo"
       },
-      "scores": {"Transparenz": 40, "Nährstoffdichte": 82, "Preis-Leistung": 52, "Geschmack": 95, "Drittanbieter-Tests": 90}
+      "scores": {
+        "Transparenz": 2,
+        "Nährstoffdichte": 4.1,
+        "Preis-Leistung": 2.6,
+        "Geschmack": 4.8,
+        "Drittanbieter-Tests": 4.5
+      }
     },
     {
       "offerId": "green-powder-amazing-grass-greens",
       "badge": "Bestes transparentes Preis-Leistungs-Blend",
       "review": "Amazing Grass offenbart individuelle Zutatenmengen für die Grüns-Mischung – Weizengras 3.000 mg, Spirulina 1.000 mg, Gerstengras 1.000 mg, Chlorella 300 mg. NSF-zertifiziert. Geschmack ist authentisch grasig, was echten Grüns-Gehalt signalisiert. Bei 60–75% niedrigeren Kosten pro Portion als AG1 ist es das am besten vertretbare Alltags-Grüns-Supplement für preisbewusste Käufer, die wissen wollen, was sie einnehmen.",
-      "pros": ["Individuelle Grüns-Mengen offengelegt – Weizengras 3 g, Spirulina 1 g, Gerstengras 1 g, Chlorella 300 mg", "NSF-zertifiziert und Non-GMO Project Verified – bedeutsame Drittanbieter-Reinheitsbestätigung", "60–75% niedrigere Kosten pro Portion als Premium-Marken für vergleichbaren Kerngrüns-Gehalt"],
-      "cons": ["Ausgeprägter Grasgeschmack als Premium-Marken – erfordert etwas Gewöhnung für empfindliche Gaumen"],
+      "pros": [
+        "Individuelle Grüns-Mengen offengelegt – Weizengras 3 g, Spirulina 1 g, Gerstengras 1 g, Chlorella 300 mg",
+        "NSF-zertifiziert und Non-GMO Project Verified – bedeutsame Drittanbieter-Reinheitsbestätigung",
+        "60–75% niedrigere Kosten pro Portion als Premium-Marken für vergleichbaren Kerngrüns-Gehalt"
+      ],
+      "cons": [
+        "Ausgeprägter Grasgeschmack als Premium-Marken – erfordert etwas Gewöhnung für empfindliche Gaumen"
+      ],
       "grade": "A",
       "specs": {
         "Zutatenanzahl": "Grüns-Mischung + Antioxidantien-Mischung",
@@ -109,14 +147,26 @@
         "Einnahme": "1 Messlöffel (8 g) täglich",
         "Preis pro Portion": "~0,70–0,95 €"
       },
-      "scores": {"Transparenz": 88, "Nährstoffdichte": 78, "Preis-Leistung": 95, "Geschmack": 68, "Drittanbieter-Tests": 85}
+      "scores": {
+        "Transparenz": 4.4,
+        "Nährstoffdichte": 3.9,
+        "Preis-Leistung": 4.8,
+        "Geschmack": 3.4,
+        "Drittanbieter-Tests": 4.3
+      }
     },
     {
       "offerId": "green-powder-bloom-greens",
       "badge": "Beste Verdauungsunterstützungs-Formel",
       "review": "Bloom fügt einer Standard-Grüns-Basis eine funktionelle Verdauungsenzym- und Probiotika-Schicht (2 Mrd. KBE) hinzu – die Verdauungsunterstützungskomponente unterscheidet es wirklich von reinen Grünpulvern. Fruchtige Geschmacksrichtungen gehören zu den zugänglichsten der Kategorie. Mittlerer Preis. Die proprietäre Mischungsstruktur für einige Komponenten begrenzt die vollständige Dosisverifizierung, aber der Verdauungsnutzen ist real für Menschen mit Blähungen nach dem Essen.",
-      "pros": ["Verdauungsenzym-Komplex (Amylase, Protease, Lipase, Bromelain, Papain) fügt echten Darm-Support-Nutzen hinzu", "2 Milliarden KBE Probiotika (L. acidophilus, B. longum) ergänzen die Grüns-Formel", "Beste Geschmacksrichtungen der Kategorie (Wassermelone, Mango-Kokos) – höchste Verträglichkeit für tägliche Einnahme"],
-      "cons": ["Proprietäre Mischungsstruktur für mehrere Komponenten begrenzt vollständige Zutatenmengen-Verifizierung"],
+      "pros": [
+        "Verdauungsenzym-Komplex (Amylase, Protease, Lipase, Bromelain, Papain) fügt echten Darm-Support-Nutzen hinzu",
+        "2 Milliarden KBE Probiotika (L. acidophilus, B. longum) ergänzen die Grüns-Formel",
+        "Beste Geschmacksrichtungen der Kategorie (Wassermelone, Mango-Kokos) – höchste Verträglichkeit für tägliche Einnahme"
+      ],
+      "cons": [
+        "Proprietäre Mischungsstruktur für mehrere Komponenten begrenzt vollständige Zutatenmengen-Verifizierung"
+      ],
       "grade": "B+",
       "specs": {
         "Zutatenanzahl": "Grüns + Verdauungsenzyme + Probiotika + Adaptogene",
@@ -126,14 +176,26 @@
         "Einnahme": "1 Messlöffel täglich",
         "Preis pro Portion": "~1,15–1,60 €"
       },
-      "scores": {"Transparenz": 65, "Nährstoffdichte": 75, "Preis-Leistung": 80, "Geschmack": 92, "Drittanbieter-Tests": 72}
+      "scores": {
+        "Transparenz": 3.3,
+        "Nährstoffdichte": 3.8,
+        "Preis-Leistung": 4,
+        "Geschmack": 4.6,
+        "Drittanbieter-Tests": 3.6
+      }
     },
     {
       "offerId": "green-powder-fancl-aojiru-jp",
       "badge": "Bestes traditionelles Aojiru-Grüns",
       "review": "FANCLs Aojiru ist Japans Gold-Standard-Junggersten-Gras-Supplement – zusatzstoffrei, auf Chlorophyllgehalt standardisiert, in individuellen Stickstäbchen-Beuteln für frische Portionierung verpackt. Die japanische Forschungsbasis zu Gerstengras ist umfangreicher als englischsprachige Märkte anerkennen. Keine Konservierungsstoffe, künstlichen Farben oder Zusatzstoffe jeglicher Art. Die definitive Wahl für jeden, der authentisches Aojiru sucht.",
-      "pros": ["Junges Gerstengras auf Chlorophyll standardisiert – Spitzenertrag, niedrigtemperaturgetrocknet zur Nährstofferhaltung", "Zusatzstoffrei: keine Konservierungsstoffe, künstlichen Farben oder Fließmittel (FANCLs Gründungs-Qualitätsstandard)", "Individuelle Stickstäbchen-Beutel für bequeme Portionierung und Frischeerhaltung"],
-      "cons": ["Begrenzte internationale Verfügbarkeit – hauptsächlich über große Online-Händler"],
+      "pros": [
+        "Junges Gerstengras auf Chlorophyll standardisiert – Spitzenertrag, niedrigtemperaturgetrocknet zur Nährstofferhaltung",
+        "Zusatzstoffrei: keine Konservierungsstoffe, künstlichen Farben oder Fließmittel (FANCLs Gründungs-Qualitätsstandard)",
+        "Individuelle Stickstäbchen-Beutel für bequeme Portionierung und Frischeerhaltung"
+      ],
+      "cons": [
+        "Begrenzte internationale Verfügbarkeit – hauptsächlich über große Online-Händler"
+      ],
       "grade": "B",
       "specs": {
         "Zutatenanzahl": "Junges Gerstengras (大麦若葉) – primär",
@@ -143,14 +205,26 @@
         "Einnahme": "1 Stickstäbchen täglich",
         "Preis pro Portion": "Einsteiger-Klasse pro Beutel"
       },
-      "scores": {"Transparenz": 82, "Nährstoffdichte": 72, "Preis-Leistung": 78, "Geschmack": 70, "Drittanbieter-Tests": 75}
+      "scores": {
+        "Transparenz": 4.1,
+        "Nährstoffdichte": 3.6,
+        "Preis-Leistung": 3.9,
+        "Geschmack": 3.5,
+        "Drittanbieter-Tests": 3.8
+      }
     },
     {
       "offerId": "green-powder-organifi-green-juice",
       "badge": "Beste USDA Bio-Formel",
       "review": "Organifi liefert USDA-zertifiziert bio mit einer Adaptogen-fokussierten Formel – Ashwagandha, Moringa (standardisiert auf 4% Isothiocyanate) und Kurkuma neben Spirulina und Chlorella. Milder, natürlich süßer Geschmack durch Kokosnusswasser. Proprietäre Mischungsstruktur begrenzt Dosisverifizierung, aber Bio-Zertifizierung erfordert Lieferkettendokumentation, die generische Marken nicht bieten. Für bio-priorisierende Käufer ist dies der Premiumkategorie-Maßstab.",
-      "pros": ["USDA-zertifiziert bio – Lieferkettendokumentation und regelmäßige Auditanforderungen", "Adaptogene (Ashwagandha, Moringa standardisiert 4% Isothiocyanate, Kurkuma) fügen Stressreaktions-Nutzen hinzu", "Milder, natürlich süßer Geschmack – Kokosnusswasser-Basis macht es leicht, ohne Süßstoff zu trinken"],
-      "cons": ["Proprietäre Mischung – individuelle Zutatenmengen trotz Bio-Zertifizierung nicht offengelegt"],
+      "pros": [
+        "USDA-zertifiziert bio – Lieferkettendokumentation und regelmäßige Auditanforderungen",
+        "Adaptogene (Ashwagandha, Moringa standardisiert 4% Isothiocyanate, Kurkuma) fügen Stressreaktions-Nutzen hinzu",
+        "Milder, natürlich süßer Geschmack – Kokosnusswasser-Basis macht es leicht, ohne Süßstoff zu trinken"
+      ],
+      "cons": [
+        "Proprietäre Mischung – individuelle Zutatenmengen trotz Bio-Zertifizierung nicht offengelegt"
+      ],
       "grade": "B-",
       "specs": {
         "Zutatenanzahl": "Grüns + Adaptogene (Ashwagandha, Moringa, Kurkuma) + Kokosnusswasser",
@@ -160,7 +234,13 @@
         "Einnahme": "1 Messlöffel (9 g) täglich",
         "Preis pro Portion": "~1,85–2,30 € im Abo"
       },
-      "scores": {"Transparenz": 52, "Nährstoffdichte": 78, "Preis-Leistung": 68, "Geschmack": 85, "Drittanbieter-Tests": 80}
+      "scores": {
+        "Transparenz": 2.6,
+        "Nährstoffdichte": 3.9,
+        "Preis-Leistung": 3.4,
+        "Geschmack": 4.3,
+        "Drittanbieter-Tests": 4
+      }
     }
   ]
 }

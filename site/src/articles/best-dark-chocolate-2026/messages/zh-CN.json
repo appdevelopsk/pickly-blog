@@ -84,7 +84,14 @@
         "90%强度——不适合普通巧克力爱好者",
         "收尾略带苦味"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "ghirardelli-midnight-reverie-86",
@@ -99,7 +106,14 @@
         "复杂度不及单一产地巧克力",
         "块重小于Lindt"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "green-blacks-organic-dark-85",
@@ -114,7 +128,14 @@
         "强度不及Lindt 90%",
         "供应链透明度不及豆到棒工艺"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "theo-chocolate-organic-85",
@@ -129,7 +150,14 @@
         "价格是Lindt的3-4倍",
         "精品店以外购买渠道有限"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "alter-eco-deep-dark-blackout-85",
@@ -144,7 +172,14 @@
         "85%——强度不及90%以上款式",
         "与单一产地相比，质地略带蜡感"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "我们从风味特征、原料溯源透明度、每份性价比、包装完整性，以及在常见使用场景中的表现等方面评估每款产品。同时将有记录的认证和经过核实的用户评价与营销宣传进行交叉比对。"

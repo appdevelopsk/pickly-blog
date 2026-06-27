@@ -84,7 +84,14 @@
         "90%의 강도 — 캐주얼 초콜릿 소비자에게는 강함",
         "마무리에 약간의 쓴맛"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "ghirardelli-midnight-reverie-86",
@@ -99,7 +106,14 @@
         "싱글 오리진 바보다 복잡성 낮음",
         "Lindt보다 작은 바 크기"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "green-blacks-organic-dark-85",
@@ -114,7 +128,14 @@
         "Lindt 90%보다 강도 낮음",
         "빈-투-바보다 소싱 투명성 낮음"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "theo-chocolate-organic-85",
@@ -129,7 +150,14 @@
         "Lindt보다 3-4배 높은 가격",
         "전문 매장 외 구매 가능성 제한적"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "alter-eco-deep-dark-blackout-85",
@@ -144,7 +172,14 @@
         "85% — 90%+ 옵션보다 덜 극단적",
         "싱글 오리진 대비 약간 왁시한 질감"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "각 제품을 풍미, 원료 투명성, 1회분당 가성비, 포장 품질, 실용성으로 평가했습니다. 인증 정보와 실사용자 리뷰를 광고 문구와 대조 검증했습니다."

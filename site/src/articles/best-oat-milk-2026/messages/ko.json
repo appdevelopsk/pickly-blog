@@ -84,7 +84,14 @@
         "유채씨유 포함",
         "Planet Oat에 비해 프리미엄 가격"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "oatly-oat-milk-barista",
@@ -99,7 +106,14 @@
         "오리지널 포뮬러보다 높은 당 함량",
         "커피 이외 용도에는 과도한 성능"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "planet-oat-extra-creamy",
@@ -114,7 +128,14 @@
         "Oatly보다 복잡성 낮은 풍미",
         "Extra Creamy 버전은 칼로리가 높음"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "califia-oat-milk-barista",
@@ -129,7 +150,14 @@
         "코코넛 풍미 감지 가능 — 중립적이지 않음",
         "표준 오트 밀크보다 높은 칼로리"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "elmhurst-oat-milk",
@@ -144,7 +172,14 @@
         "얇은 질감 — 뜨거운 음료에 거품 내기 어려움",
         "검 안정화 오트 밀크와 다른 맛"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "각 제품을 풍미, 원료 투명성, 1회분당 가성비, 포장 품질, 실용성으로 평가했습니다. 인증 정보와 실사용자 리뷰를 광고 문구와 대조 검증했습니다."

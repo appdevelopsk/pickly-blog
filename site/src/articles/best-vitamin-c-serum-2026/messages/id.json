@@ -79,7 +79,11 @@
         "Ukuran": "20 mL",
         "Harga": "Ekonomis"
       },
-      "scores": {"nilai": 98, "kualitas": 80, "harga": 99}
+      "scores": {
+        "nilai": 4.9,
+        "kualitas": 4,
+        "harga": 5
+      }
     },
     {
       "offerId": "vitamin-c-serum-skinceuticals-ce-ferulic",
@@ -102,7 +106,11 @@
         "pH": "2.5–3.0",
         "Harga": "$166 / 30 mL"
       },
-      "scores": {"nilai": 60, "kualitas": 98, "harga": 40}
+      "scores": {
+        "nilai": 3,
+        "kualitas": 4.9,
+        "harga": 2
+      }
     },
     {
       "offerId": "vitamin-c-serum-obagi",
@@ -124,7 +132,11 @@
         "pH": "~3.0",
         "Harga": "~$79 / 30 mL"
       },
-      "scores": {"nilai": 72, "kualitas": 90, "harga": 65}
+      "scores": {
+        "nilai": 3.6,
+        "kualitas": 4.5,
+        "harga": 3.3
+      }
     },
     {
       "offerId": "vitamin-c-serum-cos-de-baha",
@@ -146,7 +158,11 @@
         "Formula": "Anhidrat",
         "Harga": "~$12 / 30 mL"
       },
-      "scores": {"nilai": 90, "kualitas": 78, "harga": 94}
+      "scores": {
+        "nilai": 4.5,
+        "kualitas": 3.9,
+        "harga": 4.7
+      }
     },
     {
       "offerId": "vitamin-c-serum-naturium",
@@ -168,7 +184,11 @@
         "pH": "Dekat netral",
         "Harga": "~$22 / 30 mL"
       },
-      "scores": {"nilai": 85, "kualitas": 76, "harga": 88}
+      "scores": {
+        "nilai": 4.3,
+        "kualitas": 3.8,
+        "harga": 4.4
+      }
     }
   ],
   "faqs": [

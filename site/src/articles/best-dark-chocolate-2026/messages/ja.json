@@ -84,7 +84,14 @@
         "90%の強度——カジュアル向けではない",
         "フィニッシュにわずかな苦味"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "ghirardelli-midnight-reverie-86",
@@ -99,7 +106,14 @@
         "シングルオリジンより風味の複雑さが劣る",
         "リンツより小さいバーサイズ"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "green-blacks-organic-dark-85",
@@ -114,7 +128,14 @@
         "リンツ90%より強度が低い",
         "ビーントゥバーより産地透明性が低い"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "theo-chocolate-organic-85",
@@ -129,7 +150,14 @@
         "リンツの3〜4倍の価格",
         "専門店以外では入手困難"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "alter-eco-deep-dark-blackout-85",
@@ -144,7 +172,14 @@
         "85%——90%以上の選択肢より強度は低い",
         "シングルオリジンと比べるとわずかにロウ感"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "各商品を風味・原料の透明性・1食あたりのコスパ・パッケージ品質・実用面での使い勝手で評価。認証情報やユーザーレビューを宣伝文句と照らし合わせて確認しています。"

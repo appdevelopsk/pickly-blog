@@ -84,7 +84,14 @@
         "%90 yoğunluğu — rastgele çikolata yiyenler için değil",
         "Bitişte hafif acılık"
       ],
-      "grade": "A+"
+      "grade": "A+",
+      "scores": {
+        "Flavor": 4.7,
+        "Sourcing": 4.8,
+        "Value": 4.7,
+        "Texture": 4.8,
+        "Nutrition": 5
+      }
     },
     {
       "offerId": "ghirardelli-midnight-reverie-86",
@@ -99,7 +106,14 @@
         "Tek kökenli barlardan daha az karmaşık",
         "Lindt'ten daha küçük bar boyutu"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.4,
+        "Sourcing": 4,
+        "Value": 4.4,
+        "Texture": 4,
+        "Nutrition": 4.7
+      }
     },
     {
       "offerId": "green-blacks-organic-dark-85",
@@ -114,7 +128,14 @@
         "Lindt %90'dan daha az yoğun",
         "Bean-to-bar'dan daha az şeffaf kaynak sağlama"
       ],
-      "grade": "A"
+      "grade": "A",
+      "scores": {
+        "Flavor": 4.6,
+        "Sourcing": 4.2,
+        "Value": 4.1,
+        "Texture": 4.2,
+        "Nutrition": 4.4
+      }
     },
     {
       "offerId": "theo-chocolate-organic-85",
@@ -129,7 +150,14 @@
         "Lindt fiyatının 3–4 katı",
         "Uzman mağazalar dışında sınırlı erişilebilirlik"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 3.8,
+        "Sourcing": 3.9,
+        "Value": 3.8,
+        "Texture": 3.4,
+        "Nutrition": 4.1
+      }
     },
     {
       "offerId": "alter-eco-deep-dark-blackout-85",
@@ -144,7 +172,14 @@
         "%85 — %90+ seçeneklerden daha az aşırı",
         "Tek kökenle kıyaslandığında hafif mumsu doku"
       ],
-      "grade": "B+"
+      "grade": "B+",
+      "scores": {
+        "Flavor": 4,
+        "Sourcing": 3.6,
+        "Value": 4,
+        "Texture": 3.6,
+        "Nutrition": 3.8
+      }
     }
   ],
   "methodology": "Her ürünü lezzet profili, kaynak şeffaflığı, porsiyon başına değer, ambalaj bütünlüğü ve yaygın kullanım durumlarındaki performansa göre değerlendirdik. Belgelenmiş sertifikalar ve doğrulanmış kullanıcı yorumları pazarlama iddialarıyla çapraz kontrol edildi."
