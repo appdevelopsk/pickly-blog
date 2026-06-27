@@ -86,7 +86,7 @@ export function ArticleBody({ meta, content, offers }: Props) {
           </span>
           <span className="text-xs text-slate-500">{t("article.updatedAt", { date: formatDate(meta.updatedAt) })}</span>
         </div>
-        <h1 className="mb-4 text-3xl font-black leading-tight text-slate-900 md:text-4xl">
+        <h1 className="mb-4 text-2xl font-black leading-tight text-slate-900 md:text-4xl">
           {content.title}
         </h1>
         {content.lede && (
@@ -105,6 +105,51 @@ export function ArticleBody({ meta, content, offers }: Props) {
       <div className="lg:flex lg:gap-10">
         {/* Main content */}
         <div className="min-w-0 flex-1">
+
+          {/* Above-the-fold #1 pick — low-scroll / AI検索着地層が表に到達する前に
+              トップ推奨と購入ボタンを見られるようにし、収益機会を取りこぼさない */}
+          {isComparison && offers.length > 0 && (() => {
+            const o = offers[0];
+            if (!o) return null;
+            const name = o.name[locale as keyof typeof o.name] ?? o.name.en ?? o.id;
+            const img = getOfferImageUrl(o);
+            const price = resolvePrice(o, locale);
+            return (
+              <div className="mb-8 rounded-2xl border border-amber-300 bg-gradient-to-br from-amber-50 via-white to-white p-5 shadow-md shadow-amber-100 sm:p-6">
+                <div className="mb-3">
+                  <span className="inline-flex items-center gap-1.5 rounded-full bg-amber-400 px-3 py-0.5 text-xs font-black text-amber-900 shadow-sm">
+                    ★ Best Pick
+                  </span>
+                </div>
+                <div className="flex items-center gap-4">
+                  {img && (
+                    <div className="h-20 w-20 shrink-0 overflow-hidden rounded-xl border border-amber-200 bg-slate-50 sm:h-24 sm:w-24">
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img src={img} alt={name} className="h-full w-full object-contain p-2" loading="eager" />
+                    </div>
+                  )}
+                  <div className="min-w-0 flex-1">
+                    <h2 className="mb-1.5 text-lg font-black leading-tight text-slate-900 line-clamp-2 sm:text-xl">{name}</h2>
+                    <div className="flex flex-wrap items-center gap-2">
+                      {o.rating && <StarRating rating={o.rating} label={t("article.ratingLabel", { rating: o.rating.toFixed(1) })} />}
+                      {price && <span className="rounded-md bg-slate-100 px-2 py-0.5 text-sm font-bold text-slate-700">{price}</span>}
+                    </div>
+                  </div>
+                </div>
+                <div className="mt-4">
+                  <AffiliateLink offer={o} variant="button" />
+                </div>
+                {offers.length > 1 && (
+                  <a
+                    href={`#offer-${o.id}`}
+                    className="mt-3 inline-flex items-center gap-1 text-xs font-medium text-slate-500 hover:text-brand-600"
+                  >
+                    {t("article.rankingHeading")} ↓
+                  </a>
+                )}
+              </div>
+            );
+          })()}
 
           {/* Comparison table — only shown when offers have rating or price data */}
           {isComparison && offers.length > 0 && (offers.some(o => o.rating) || offers.some(o => resolvePrice(o, locale))) && (
