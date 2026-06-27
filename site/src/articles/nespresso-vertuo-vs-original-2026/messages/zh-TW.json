@@ -103,56 +103,168 @@
       "offerId": "nespresso-vertuo-next",
       "badge": "最佳 Vertuo 入門款",
       "review": "Vertuo Next 提供由條碼引導的萃取一致性，在可重複性方面勝過任何 Original 機器——每一杯都和上一杯一樣好。取捨在於噪音：7,000 rpm 的離心旋轉明顯比任何 Original 機器吵，且以這個價位來說機身質感偏入門。",
-      "pros": ["條碼萃取消除人為失誤——一致性優於 Original 機器", "5 種杯型，從 40ml 濃縮咖啡到 414ml Alto", "可翻折設計小巧，適合空間有限的廚房"],
-      "cons": ["萃取時比 Vertuo Plus 吵；膠囊生態系為專有，種類相較 Original 有限"],
+      "pros": [
+        "條碼萃取消除人為失誤——一致性優於 Original 機器",
+        "5 種杯型，從 40ml 濃縮咖啡到 414ml Alto",
+        "可翻折設計小巧，適合空間有限的廚房"
+      ],
+      "cons": [
+        "萃取時比 Vertuo Plus 吵；膠囊生態系為專有，種類相較 Original 有限"
+      ],
       "grade": "A+",
-      "specs": {"Extraction": "離心萃取（條碼）", "Cup sizes": "5 種（40–414ml）", "Tank": "37oz（1.1L）", "Heat-up": "約 30 秒", "Connectivity": "藍牙", "Pod format": "僅限 Vertuo", "Price range": "$130–$180"},
-      "scores": {"Capsule variety": 3.0, "Brew quality": 4.5, "Machine cost": 4.5, "Value": 3.5, "Ease of use": 4.9}
+      "specs": {
+        "Extraction": "離心萃取（條碼）",
+        "Cup sizes": "5 種（40–414ml）",
+        "Tank": "37oz（1.1L）",
+        "Heat-up": "約 30 秒",
+        "Connectivity": "藍牙",
+        "Pod format": "僅限 Vertuo",
+        "Price range": "$130–$180"
+      },
+      "scores": {
+        "膠囊多樣性": 3,
+        "沖泡品質": 4.5,
+        "機械成本": 4.5,
+        "性價比": 3.5,
+        "使用便利性": 4.9
+      }
     },
     {
       "offerId": "nespresso-vertuo-plus",
       "badge": "最佳 Vertuo 中階款",
       "review": "Vertuo Plus 修正了 Vertuo Next 最主要的人體工學問題：電動槓桿艙蓋比翻折設計更易單手操作，萃取噪音明顯降低，而且多花 $30-40 後做工質感明顯更好。對於日常 Vertuo 使用，Plus 幾乎每次都是優於 Next 的正確選擇。",
-      "pros": ["電動槓桿艙蓋比 Vertuo Next 翻折設計更安靜、更易操作", "做工優於 Next——質感明顯更高階", "自動關閉艙蓋設計讓每次使用省一個步驟"],
-      "cons": ["無內建奶泡機——製作奶泡飲品需額外購買 Aeroccino"],
+      "pros": [
+        "電動槓桿艙蓋比 Vertuo Next 翻折設計更安靜、更易操作",
+        "做工優於 Next——質感明顯更高階",
+        "自動關閉艙蓋設計讓每次使用省一個步驟"
+      ],
+      "cons": [
+        "無內建奶泡機——製作奶泡飲品需額外購買 Aeroccino"
+      ],
       "grade": "A",
-      "specs": {"Extraction": "離心萃取（條碼）", "Cup sizes": "5 種（40–414ml）", "Tank": "37oz（1.1L）", "Heat-up": "20–25 秒", "Pod head": "電動槓桿", "Pod format": "僅限 Vertuo", "Price range": "$160–$220"},
-      "scores": {"Capsule variety": 3.0, "Brew quality": 4.7, "Machine cost": 3.8, "Value": 3.8, "Ease of use": 4.8}
+      "specs": {
+        "Extraction": "離心萃取（條碼）",
+        "Cup sizes": "5 種（40–414ml）",
+        "Tank": "37oz（1.1L）",
+        "Heat-up": "20–25 秒",
+        "Pod head": "電動槓桿",
+        "Pod format": "僅限 Vertuo",
+        "Price range": "$160–$220"
+      },
+      "scores": {
+        "膠囊多樣性": 3,
+        "沖泡品質": 4.7,
+        "機械成本": 3.8,
+        "性價比": 3.8,
+        "使用便利性": 4.8
+      }
     },
     {
       "offerId": "nespresso-essenza-mini",
       "badge": "最佳 Original 小型款",
       "review": "Essenza Mini 是體積最小的 Nespresso 機器，也是進入 Original 生態系的入門款，具備完整的第三方膠囊相容性。濃縮咖啡品質與任何 Original 機器相同——做功的是膠囊，不是機器。Original 的優勢用一句話說明：第三方膠囊每顆 $0.40–0.80，而 Vertuo 要 $0.90–1.50。",
-      "pros": ["完整的第三方膠囊相容性——Peet's、Starbucks、Lavazza、L'Or 均可使用", "本次比較中機身最小——非常適合小廚房", "新鮮膠囊能產生正宗的二氧化碳驅動奶泡"],
-      "cons": ["只有 40ml 濃縮咖啡和 110ml lungo——無馬克杯或更大容量"],
+      "pros": [
+        "完整的第三方膠囊相容性——Peet's、Starbucks、Lavazza、L'Or 均可使用",
+        "本次比較中機身最小——非常適合小廚房",
+        "新鮮膠囊能產生正宗的二氧化碳驅動奶泡"
+      ],
+      "cons": [
+        "只有 40ml 濃縮咖啡和 110ml lungo——無馬克杯或更大容量"
+      ],
       "grade": "B+",
-      "specs": {"Extraction": "19 巴幫浦壓力", "Cup sizes": "2 種（40ml、110ml）", "Tank": "20oz（590ml）", "Heat-up": "約 25 秒", "Pod format": "Original + 全部第三方", "Weight": "2.2kg", "Price range": "$100–$150"},
-      "scores": {"Capsule variety": 5.0, "Brew quality": 4.3, "Machine cost": 5.0, "Value": 4.8, "Ease of use": 4.7}
+      "specs": {
+        "Extraction": "19 巴幫浦壓力",
+        "Cup sizes": "2 種（40ml、110ml）",
+        "Tank": "20oz（590ml）",
+        "Heat-up": "約 25 秒",
+        "Pod format": "Original + 全部第三方",
+        "Weight": "2.2kg",
+        "Price range": "$100–$150"
+      },
+      "scores": {
+        "膠囊多樣性": 5,
+        "沖泡品質": 4.3,
+        "機械成本": 5,
+        "性價比": 4.8,
+        "使用便利性": 4.7
+      }
     },
     {
       "offerId": "nespresso-pixie",
       "badge": "最佳 Original 中階款",
       "review": "Pixie 介於 Essenza Mini 和 Lattissima One 之間——水箱稍大、加熱更快，且採用細長鋁製機身，放在檯面上更好看。濃縮咖啡品質與 Essenza Mini 相同，因為兩者都使用相同的 19 巴幫浦萃取。若您重視外觀和水箱容量，選 Pixie；若只想要最便宜的 Original 機器，可跳過它。",
-      "pros": ["水箱（800ml）比 Essenza Mini 更大，補水頻率更低", "加熱比 Essenza Mini 更快——對日常速度有實際幫助", "細長鋁製設計——外觀優於塑料機身機型"],
-      "cons": ["濃縮咖啡輸出與更便宜的 Essenza Mini 相同——溢價純粹為了外觀"],
+      "pros": [
+        "水箱（800ml）比 Essenza Mini 更大，補水頻率更低",
+        "加熱比 Essenza Mini 更快——對日常速度有實際幫助",
+        "細長鋁製設計——外觀優於塑料機身機型"
+      ],
+      "cons": [
+        "濃縮咖啡輸出與更便宜的 Essenza Mini 相同——溢價純粹為了外觀"
+      ],
       "grade": "B",
-      "specs": {"Extraction": "19 巴幫浦壓力", "Cup sizes": "2 種（40ml、110ml）", "Tank": "27oz（800ml）", "Heat-up": "約 25 秒", "Body": "鋁製", "Pod format": "Original + 全部第三方", "Price range": "$150–$200"},
-      "scores": {"Capsule variety": 5.0, "Brew quality": 4.3, "Machine cost": 4.0, "Value": 4.0, "Ease of use": 4.7}
+      "specs": {
+        "Extraction": "19 巴幫浦壓力",
+        "Cup sizes": "2 種（40ml、110ml）",
+        "Tank": "27oz（800ml）",
+        "Heat-up": "約 25 秒",
+        "Body": "鋁製",
+        "Pod format": "Original + 全部第三方",
+        "Price range": "$150–$200"
+      },
+      "scores": {
+        "膠囊多樣性": 5,
+        "沖泡品質": 4.3,
+        "機械成本": 4,
+        "性價比": 4,
+        "使用便利性": 4.7
+      }
     },
     {
       "offerId": "nespresso-lattissima-one",
       "badge": "最佳含奶泡機款",
       "review": "Lattissima One 是本次比較中唯一配備整合奶泡系統的機器——且使用 Original 膠囊生態系，保留了完整的第三方膠囊使用權。對於原本就打算另購 Aeroccino 的人，Lattissima One 的整合便利性值得相較中階 Original 機器的額外溢價。",
-      "pros": ["整合一鍵式奶泡機——無需另購 Aeroccino", "Original 膠囊格式保持完整的第三方膠囊生態系開放", "一鍵拿鐵和卡布奇諾——本次比較中最便捷的奶泡操作流程"],
-      "cons": ["專用奶膠囊系統在咖啡膠囊之外又增加了一項耗材成本"],
+      "pros": [
+        "整合一鍵式奶泡機——無需另購 Aeroccino",
+        "Original 膠囊格式保持完整的第三方膠囊生態系開放",
+        "一鍵拿鐵和卡布奇諾——本次比較中最便捷的奶泡操作流程"
+      ],
+      "cons": [
+        "專用奶膠囊系統在咖啡膠囊之外又增加了一項耗材成本"
+      ],
       "grade": "B-",
-      "specs": {"Extraction": "19 巴幫浦壓力", "Milk system": "整合一鍵式", "Cup sizes": "濃縮咖啡、lungo、拿鐵、卡布奇諾", "Tank": "23oz（680ml）", "Pod format": "Original + 全部第三方", "Body": "塑料/鍍鉻", "Price range": "$250–$350"},
-      "scores": {"Capsule variety": 5.0, "Brew quality": 4.4, "Machine cost": 2.5, "Value": 3.5, "Ease of use": 4.9}
+      "specs": {
+        "Extraction": "19 巴幫浦壓力",
+        "Milk system": "整合一鍵式",
+        "Cup sizes": "濃縮咖啡、lungo、拿鐵、卡布奇諾",
+        "Tank": "23oz（680ml）",
+        "Pod format": "Original + 全部第三方",
+        "Body": "塑料/鍍鉻",
+        "Price range": "$250–$350"
+      },
+      "scores": {
+        "膠囊多樣性": 5,
+        "沖泡品質": 4.4,
+        "機械成本": 2.5,
+        "性價比": 3.5,
+        "使用便利性": 4.9
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "適合重視膠囊多樣性的濃縮咖啡愛好者", "offerId": "nespresso-essenza-mini", "reason": "Original 生態系的完整第三方相容性讓膠囊成本維持在每顆 $0.40–0.80，相較 Vertuo 每顆 $0.90–1.50 的專有定價更為划算。"},
-    {"label": "適合拿鐵和卡布奇諾愛好者", "offerId": "nespresso-lattissima-one", "reason": "本次比較中唯一配備整合奶泡機，且保持完整 Original 膠囊生態系開放性的機器。"},
-    {"label": "適合需要大杯量且重視萃取一致性的用戶", "offerId": "nespresso-vertuo-plus", "reason": "條碼引導的離心萃取每次都能以一致的泡沫呈現馬克杯和 Alto 容量——完全排除人為失誤。"}
+    {
+      "label": "適合重視膠囊多樣性的濃縮咖啡愛好者",
+      "offerId": "nespresso-essenza-mini",
+      "reason": "Original 生態系的完整第三方相容性讓膠囊成本維持在每顆 $0.40–0.80，相較 Vertuo 每顆 $0.90–1.50 的專有定價更為划算。"
+    },
+    {
+      "label": "適合拿鐵和卡布奇諾愛好者",
+      "offerId": "nespresso-lattissima-one",
+      "reason": "本次比較中唯一配備整合奶泡機，且保持完整 Original 膠囊生態系開放性的機器。"
+    },
+    {
+      "label": "適合需要大杯量且重視萃取一致性的用戶",
+      "offerId": "nespresso-vertuo-plus",
+      "reason": "條碼引導的離心萃取每次都能以一致的泡沫呈現馬克杯和 Alto 容量——完全排除人為失誤。"
+    }
   ]
 }

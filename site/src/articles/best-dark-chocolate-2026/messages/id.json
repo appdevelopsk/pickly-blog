@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
-        "Texture": 4.8,
-        "Nutrition": 5
+        "Rasa": 4.7,
+        "Pengadaan": 4.8,
+        "Nilai": 4.7,
+        "Tekstur": 4.8,
+        "Nutrisi": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
-        "Texture": 4,
-        "Nutrition": 4.7
+        "Rasa": 4.4,
+        "Pengadaan": 4,
+        "Nilai": 4.4,
+        "Tekstur": 4,
+        "Nutrisi": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
-        "Texture": 4.2,
-        "Nutrition": 4.4
+        "Rasa": 4.6,
+        "Pengadaan": 4.2,
+        "Nilai": 4.1,
+        "Tekstur": 4.2,
+        "Nutrisi": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
-        "Texture": 3.4,
-        "Nutrition": 4.1
+        "Rasa": 3.8,
+        "Pengadaan": 3.9,
+        "Nilai": 3.8,
+        "Tekstur": 3.4,
+        "Nutrisi": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
-        "Texture": 3.6,
-        "Nutrition": 3.8
+        "Rasa": 4,
+        "Pengadaan": 3.6,
+        "Nilai": 4,
+        "Tekstur": 3.6,
+        "Nutrisi": 3.8
       }
     }
   ],
-  "methodology": "Kami menilai setiap produk berdasarkan profil rasa, transparansi pengadaan, nilai per porsi, integritas kemasan, dan seberapa baik kinerjanya di berbagai kasus penggunaan umum. Sertifikasi yang terdokumentasi dan ulasan pengguna yang diverifikasi telah disilang dengan klaim pemasaran."
+  "methodology": "Kami menilai setiap produk berdasarkan profil rasa, transparansi pengadaan, nilai per porsi, integritas kemasan, dan seberapa baik kinerjanya di berbagai kasus penggunaan umum. Sertifikasi yang terdokumentasi dan ulasan pengguna yang diverifikasi telah disilang dengan klaim pemasaran.",
+  "recommendedFor": [
+    {
+      "label": "Untuk puris yang menginginkan intensitas kakao maksimal",
+      "offerId": "lindt-excellence-90-cocoa",
+      "reason": "Terbaik bagi penggemar cokelat hitam berpengalaman yang ingin batang andal berbahan empat dengan akhir pahit yang intens dan bertahan lama."
+    },
+    {
+      "label": "Untuk camilan harian yang hemat",
+      "offerId": "ghirardelli-midnight-reverie-86",
+      "reason": "Ideal bagi pemula cokelat berpersentase tinggi dan untuk memanggang, memadukan kedalaman kakao dengan rasa yang mudah dinikmati."
+    },
+    {
+      "label": "Untuk sumber etis tanpa biaya tambahan",
+      "offerId": "green-blacks-organic-dark-85",
+      "reason": "Cocok bagi yang menginginkan kakao organik Fairtrade dengan profil buah yang lebih lembut, ramah bagi pemula 85%."
+    },
+    {
+      "label": "Untuk pembeli yang peduli seluruh rantai pasok",
+      "offerId": "theo-chocolate-organic-85",
+      "reason": "Sempurna bagi yang menghargai transparansi bean-to-bar dan rasa kompleks kenari serta ceri dari kakao yang dapat dilacak."
+    },
+    {
+      "label": "Untuk pencinta cokelat vegan dan ramah lingkungan",
+      "offerId": "alter-eco-deep-dark-blackout-85",
+      "reason": "Terbaik bagi pembeli vegan dan peduli lingkungan yang ingin cokelat sepenuhnya organik dan Fairtrade, bagus juga untuk memanggang."
+    }
+  ]
 }

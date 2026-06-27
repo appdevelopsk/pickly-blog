@@ -74,58 +74,173 @@
       "offerId": "liquid-death-mountain-water",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "Karbonasi agresif Liquid Death terasa lebih tajam dan lebih bertahan dibanding sebagian besar pesaing — ia mempertahankan sengatannya hingga tegukan terakhir dengan cara yang tidak dilakukan air soda yang lebih ringan. Bersumber dari Pegunungan Alpen Austria dan dikalengkan dalam aluminium, ia memposisikan diri sebagai opsi berkarbonasi tinggi bagi orang yang menganggap Topo Chico dan Perrier terlalu lembut. Harga per ons lebih tinggi dibanding air soda merek toko, tetapi pembelian dus borongan membuatnya lebih masuk akal.",
-      "pros": ["Karbonasi paling agresif dan paling bertahan dalam perbandingan ini", "Kaleng aluminium didaur ulang dengan tingkat lebih tinggi dibanding plastik", "Cocok sebagai campuran koktail premium di mana ketahanan gelembung penting"],
-      "cons": ["Harga per ons tertinggi — perlu pembelian borongan untuk mendekati nilai yang masuk akal"],
+      "pros": [
+        "Karbonasi paling agresif dan paling bertahan dalam perbandingan ini",
+        "Kaleng aluminium didaur ulang dengan tingkat lebih tinggi dibanding plastik",
+        "Cocok sebagai campuran koktail premium di mana ketahanan gelembung penting"
+      ],
+      "cons": [
+        "Harga per ons tertinggi — perlu pembelian borongan untuk mendekati nilai yang masuk akal"
+      ],
       "grade": "A+",
-      "specs": {"Source": "Pegunungan Alpen Austria", "Carbonation": "Sangat tinggi (dipaksa)", "Format": "Kaleng aluminium 16,9 oz", "Calories": "0", "Sodium": "~10mg per kaleng", "Available flavors": "Polos + lini soda berperasa"},
-      "scores": {"Carbonation level": 5.0, "Flavor": 4.3, "Value": 3.5, "Ingredient quality": 4.5, "Convenience": 4.7}
+      "specs": {
+        "Source": "Pegunungan Alpen Austria",
+        "Carbonation": "Sangat tinggi (dipaksa)",
+        "Format": "Kaleng aluminium 16,9 oz",
+        "Calories": "0",
+        "Sodium": "~10mg per kaleng",
+        "Available flavors": "Polos + lini soda berperasa"
+      },
+      "scores": {
+        "Tingkat Karbonan": 5,
+        "Rasa": 4.3,
+        "Nilai": 3.5,
+        "Kualitas Bahan": 4.5,
+        "Kemudahan": 4.7
+      }
     },
     {
       "offerId": "topo-chico-mineral-water",
       "badge": "Terbaik untuk Koktail",
       "review": "Topo Chico telah menjadi campuran andalan para bartender sejak jauh sebelum ia tersedia luas, dan karbonasinya yang tinggi dan rapat — gelembung kecil yang bertahan lama ketimbang gelembung besar yang lembut — itulah yang membuatnya sangat cocok dengan highball mezcal dan tequila. Kandungan mineral alaminya memberi kedalaman gurih ringan yang menambah bodi pada minuman campuran air dan alkohol. Versi botol kaca adalah yang layak dibeli; botol berat tidak praktis untuk portabilitas.",
-      "pros": ["Karbonasi tinggi dan rapat bertahan sepanjang minuman campuran", "Kandungan mineral alami menambah kedalaman gurih pada koktail", "Dibotolkan di mata air Monterrey yang sama sejak 1895 — formula tidak berubah setelah akuisisi Coca-Cola"],
-      "cons": ["Botol kaca berat tidak praktis untuk portabilitas atau penggunaan luar ruangan"],
+      "pros": [
+        "Karbonasi tinggi dan rapat bertahan sepanjang minuman campuran",
+        "Kandungan mineral alami menambah kedalaman gurih pada koktail",
+        "Dibotolkan di mata air Monterrey yang sama sejak 1895 — formula tidak berubah setelah akuisisi Coca-Cola"
+      ],
+      "cons": [
+        "Botol kaca berat tidak praktis untuk portabilitas atau penggunaan luar ruangan"
+      ],
       "grade": "A",
-      "specs": {"Source": "Monterrey, Meksiko (mata air)", "Carbonation": "Tinggi (berkarbonasi alami + diinfuskan)", "Format": "Botol kaca / format kaleng terbatas", "Calories": "0", "Minerals": "Kalsium, magnesium, natrium", "Available flavors": "Polos + Twist of Lime"},
-      "scores": {"Carbonation level": 4.8, "Flavor": 4.5, "Value": 3.8, "Ingredient quality": 4.8, "Convenience": 3.0}
+      "specs": {
+        "Source": "Monterrey, Meksiko (mata air)",
+        "Carbonation": "Tinggi (berkarbonasi alami + diinfuskan)",
+        "Format": "Botol kaca / format kaleng terbatas",
+        "Calories": "0",
+        "Minerals": "Kalsium, magnesium, natrium",
+        "Available flavors": "Polos + Twist of Lime"
+      },
+      "scores": {
+        "Tingkat Karbonan": 4.8,
+        "Rasa": 4.5,
+        "Nilai": 3.8,
+        "Kualitas Bahan": 4.8,
+        "Kemudahan": 3
+      }
     },
     {
       "offerId": "perrier-sparkling-water",
       "badge": "Terbaik untuk Padu Padan Makanan",
       "review": "Profil karbonasi sedang Perrier — lebih dari La Croix, kurang dari Topo Chico atau Liquid Death — membuatnya opsi paling serbaguna untuk dipadukan dengan makanan: cukup kuat untuk menyegarkan lidah di antara hidangan, cukup lembut untuk tidak mendominasi. Botol kaca hijau ikonik tetap menjadi format standar, dan lini berperasa (limau, lemon, jeruk bali) menggunakan rasa buah asli tanpa tambahan pemanis atau asam sitrat.",
-      "pros": ["Karbonasi sedang cocok sebagai penyegar lidah di antara hidangan", "Lini berperasa menggunakan rasa asli tanpa pemanis atau asam sitrat", "Botol yang dikenal secara global cocok untuk penyajian di meja"],
-      "cons": ["Karbonasi menghilang lebih cepat dibanding Topo Chico atau Liquid Death dalam wadah terbuka"],
+      "pros": [
+        "Karbonasi sedang cocok sebagai penyegar lidah di antara hidangan",
+        "Lini berperasa menggunakan rasa asli tanpa pemanis atau asam sitrat",
+        "Botol yang dikenal secara global cocok untuk penyajian di meja"
+      ],
+      "cons": [
+        "Karbonasi menghilang lebih cepat dibanding Topo Chico atau Liquid Death dalam wadah terbuka"
+      ],
       "grade": "B+",
-      "specs": {"Source": "Vergèze, Prancis (mata air alami)", "Carbonation": "Sedang (CO2 ditangkap kembali dan diinfuskan ulang)", "Format": "Botol kaca / kaleng aluminium / plastik", "Calories": "0", "Minerals": "Kalsium, magnesium, natrium", "Available flavors": "Polos + limau, lemon, jeruk bali, stroberi"},
-      "scores": {"Carbonation level": 3.8, "Flavor": 4.5, "Value": 4.0, "Ingredient quality": 4.7, "Convenience": 4.2}
+      "specs": {
+        "Source": "Vergèze, Prancis (mata air alami)",
+        "Carbonation": "Sedang (CO2 ditangkap kembali dan diinfuskan ulang)",
+        "Format": "Botol kaca / kaleng aluminium / plastik",
+        "Calories": "0",
+        "Minerals": "Kalsium, magnesium, natrium",
+        "Available flavors": "Polos + limau, lemon, jeruk bali, stroberi"
+      },
+      "scores": {
+        "Tingkat Karbonan": 3.8,
+        "Rasa": 4.5,
+        "Nilai": 4,
+        "Kualitas Bahan": 4.7,
+        "Kemudahan": 4.2
+      }
     },
     {
       "offerId": "la-croix-sparkling-water",
       "badge": "Terbaik untuk Konsumsi Harian Volume Tinggi",
       "review": "Karbonasi ringan La Croix adalah fitur, bukan cacat, bagi pengguna yang berusaha mencapai target hidrasi harian — kelembutannya berarti Anda bisa minum dalam volume besar tanpa terasa kembung. Lebih dari 20 rasa esens alami mencakup rumah tangga berpreferensi beragam, dan harga per dusnya secara konsisten termasuk yang paling kompetitif di kategori air soda. Ia adalah air paling tidak menarik di daftar ini, tetapi paling praktis sebagai pilihan harian.",
-      "pros": ["Karbonasi ringan memungkinkan konsumsi volume tinggi tanpa kembung", "20+ varian rasa termasuk paket varian untuk rumah tangga berpreferensi beragam", "Harga per dus yang konsisten kompetitif"],
-      "cons": ["Karbonasi cepat tawar dalam minuman campuran — tidak cocok sebagai campuran koktail"],
+      "pros": [
+        "Karbonasi ringan memungkinkan konsumsi volume tinggi tanpa kembung",
+        "20+ varian rasa termasuk paket varian untuk rumah tangga berpreferensi beragam",
+        "Harga per dus yang konsisten kompetitif"
+      ],
+      "cons": [
+        "Karbonasi cepat tawar dalam minuman campuran — tidak cocok sebagai campuran koktail"
+      ],
       "grade": "B",
-      "specs": {"Source": "Air kota (berkarbonasi)", "Carbonation": "Ringan", "Format": "Kaleng aluminium ramping", "Calories": "0", "Sweeteners": "Tidak ada", "Available flavors": "20+ varian esens alami"},
-      "scores": {"Carbonation level": 2.5, "Flavor": 3.8, "Value": 4.8, "Ingredient quality": 4.3, "Convenience": 5.0}
+      "specs": {
+        "Source": "Air kota (berkarbonasi)",
+        "Carbonation": "Ringan",
+        "Format": "Kaleng aluminium ramping",
+        "Calories": "0",
+        "Sweeteners": "Tidak ada",
+        "Available flavors": "20+ varian esens alami"
+      },
+      "scores": {
+        "Tingkat Karbonan": 2.5,
+        "Rasa": 3.8,
+        "Nilai": 4.8,
+        "Kualitas Bahan": 4.3,
+        "Kemudahan": 5
+      }
     },
     {
       "offerId": "spindrift-sparkling-water",
       "badge": "Rasa Buah Asli Terbaik",
       "review": "Spindrift adalah yang berbeda dalam perbandingan ini: jus buah peras asli di setiap kaleng menghasilkan rasa yang terasa jelas seperti buah sungguhan ketimbang tiruan. Varian lemon khususnya terasa jujur — terasa seperti seseorang memeras lemon ke dalam air soda, karena pada dasarnya itulah yang terjadi. Sedikit jumlah kalori (9-17 per kaleng) mendiskualifikasinya sebagai opsi nol kalori, yang merupakan satu-satunya kompromi berarti.",
-      "pros": ["Jus buah peras asli — rasa paling jujur dalam perbandingan ini", "Daftar bahan pendek: air berkarbonasi, jus buah, kadang pure", "Opsi terbaik bersama sarapan di mana asam buah berpadu dengan makanan"],
-      "cons": ["9-17 kalori per kaleng — bukan nol kalori meski kandungan gula minimal"],
+      "pros": [
+        "Jus buah peras asli — rasa paling jujur dalam perbandingan ini",
+        "Daftar bahan pendek: air berkarbonasi, jus buah, kadang pure",
+        "Opsi terbaik bersama sarapan di mana asam buah berpadu dengan makanan"
+      ],
+      "cons": [
+        "9-17 kalori per kaleng — bukan nol kalori meski kandungan gula minimal"
+      ],
       "grade": "B-",
-      "specs": {"Source": "Air kota (berkarbonasi)", "Carbonation": "Sedang-ringan", "Format": "Kaleng aluminium standar", "Calories": "9–17 per kaleng (tergantung rasa)", "Juice content": "Jus buah peras asli", "Available flavors": "Lemon, Grapefruit, Raspberry Lime, Stroberi, lainnya"},
-      "scores": {"Carbonation level": 3.5, "Flavor": 5.0, "Value": 3.8, "Ingredient quality": 5.0, "Convenience": 4.5}
+      "specs": {
+        "Source": "Air kota (berkarbonasi)",
+        "Carbonation": "Sedang-ringan",
+        "Format": "Kaleng aluminium standar",
+        "Calories": "9–17 per kaleng (tergantung rasa)",
+        "Juice content": "Jus buah peras asli",
+        "Available flavors": "Lemon, Grapefruit, Raspberry Lime, Stroberi, lainnya"
+      },
+      "scores": {
+        "Tingkat Karbonan": 3.5,
+        "Rasa": 5,
+        "Nilai": 3.8,
+        "Kualitas Bahan": 5,
+        "Kemudahan": 4.5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk kepuasan karbonasi maksimal", "offerId": "liquid-death-mountain-water", "reason": "Jika Anda menganggap air soda lain terlalu lembut, karbonasi agresif Liquid Death memberikan sengatan paling tajam dan ia bertahan hingga tegukan terakhir."},
-    {"label": "Untuk campuran koktail", "offerId": "topo-chico-mineral-water", "reason": "Gelembung kecil yang bertahan lama dan kedalaman mineral alami bertahan sepanjang minuman campuran penuh — alasan para bartender memilihnya sebelum ia menjadi arus utama."},
-    {"label": "Untuk padu padan makanan di meja", "offerId": "perrier-sparkling-water", "reason": "Karbonasi sedang menyegarkan lidah di antara hidangan tanpa mendominasi, dan botolnya tampil baik di meja makan malam."},
-    {"label": "Untuk hidrasi harian volume tinggi", "offerId": "la-croix-sparkling-water", "reason": "Gelembung ringan, 20+ rasa, dan harga per dus kompetitif menjadikannya pilihan paling praktis saat Anda minum beberapa kaleng per hari."},
-    {"label": "Untuk rasa buah asli tanpa bahan tambahan buatan", "offerId": "spindrift-sparkling-water", "reason": "Jus peras asli menghasilkan rasa buah yang benar-benar jujur — satu-satunya opsi dalam perbandingan ini yang menyelesaikan keluhan 'rasa buatan' sepenuhnya."}
+    {
+      "label": "Untuk kepuasan karbonasi maksimal",
+      "offerId": "liquid-death-mountain-water",
+      "reason": "Jika Anda menganggap air soda lain terlalu lembut, karbonasi agresif Liquid Death memberikan sengatan paling tajam dan ia bertahan hingga tegukan terakhir."
+    },
+    {
+      "label": "Untuk campuran koktail",
+      "offerId": "topo-chico-mineral-water",
+      "reason": "Gelembung kecil yang bertahan lama dan kedalaman mineral alami bertahan sepanjang minuman campuran penuh — alasan para bartender memilihnya sebelum ia menjadi arus utama."
+    },
+    {
+      "label": "Untuk padu padan makanan di meja",
+      "offerId": "perrier-sparkling-water",
+      "reason": "Karbonasi sedang menyegarkan lidah di antara hidangan tanpa mendominasi, dan botolnya tampil baik di meja makan malam."
+    },
+    {
+      "label": "Untuk hidrasi harian volume tinggi",
+      "offerId": "la-croix-sparkling-water",
+      "reason": "Gelembung ringan, 20+ rasa, dan harga per dus kompetitif menjadikannya pilihan paling praktis saat Anda minum beberapa kaleng per hari."
+    },
+    {
+      "label": "Untuk rasa buah asli tanpa bahan tambahan buatan",
+      "offerId": "spindrift-sparkling-water",
+      "reason": "Jus peras asli menghasilkan rasa buah yang benar-benar jujur — satu-satunya opsi dalam perbandingan ini yang menyelesaikan keluhan 'rasa buatan' sepenuhnya."
+    }
   ]
 }

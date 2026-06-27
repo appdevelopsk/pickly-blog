@@ -98,58 +98,170 @@
       "offerId": "bragg-organic-acv",
       "badge": "Terbaik Keseluruhan",
       "review": "Bragg tetap menjadi standar referensi untuk ACV mentah: tak tersaring, USDA Organic, dengan benang induk yang terlihat mengkonfirmasi kultur aktif. Rasa apel tajam memiliki lebih banyak kompleksitas fermentasi dari alternatif supermarket, dan botol 32 ons memiliki harga kompetitif untuk penggunaan tonik harian. Jika Anda tidak yakin, ini adalah yang harus dimulai.",
-      "pros": ["Tak tersaring «dengan induk» — kultur aktif yang terlihat", "USDA Organic dan Non-GMO verified", "Rasa apel tajam dan kompleks yang disukai peminum tonik"],
-      "cons": ["Rasa lebih kuat dari kebanyakan — perlu pengenceran untuk pemula"],
+      "pros": [
+        "Tak tersaring «dengan induk» — kultur aktif yang terlihat",
+        "USDA Organic dan Non-GMO verified",
+        "Rasa apel tajam dan kompleks yang disukai peminum tonik"
+      ],
+      "cons": [
+        "Rasa lebih kuat dari kebanyakan — perlu pengenceran untuk pemula"
+      ],
       "grade": "A+",
-      "specs": {"Size": "16 oz / 32 oz", "Organic": "Sertifikat USDA", "Filtered": "Tidak (dengan induk)", "Acidity": "5%", "Dilution ratio": "1–2 sdm per 8 oz air"},
-      "scores": {"Quality": 4.8, "Taste": 4.2, "Value": 4.0, "Nutrition": 4.5, "Versatility": 4.7}
+      "specs": {
+        "Size": "16 oz / 32 oz",
+        "Organic": "Sertifikat USDA",
+        "Filtered": "Tidak (dengan induk)",
+        "Acidity": "5%",
+        "Dilution ratio": "1–2 sdm per 8 oz air"
+      },
+      "scores": {
+        "Kualitas": 4.8,
+        "Rasa": 4.2,
+        "Nilai": 4,
+        "Nutrisi": 4.5,
+        "Keserbagunaan": 4.7
+      }
     },
     {
       "offerId": "dynamic-health-acv",
       "badge": "Nilai Terbaik",
       "review": "Setara secara fungsional dengan Bragg — USDA Organic, tak tersaring, dengan induk — tetapi biasanya 15-20% lebih murah per ons. Sumber apel kurang spesifik dan rasa sedikit kurang kompleks, tetapi untuk memasak volume tinggi dan tonik harian di mana biaya per ons penting, Dynamic Health menutup kesenjangan tanpa kompromi yang berarti.",
-      "pros": ["Biaya terendah per ons di antara pilihan organik tak tersaring", "USDA Organic, tak tersaring, dengan induk", "Nilai solid untuk penggunaan memasak volume tinggi"],
-      "cons": ["Transparansi sumber lebih sedikit dari Fairchild's atau Bragg"],
+      "pros": [
+        "Biaya terendah per ons di antara pilihan organik tak tersaring",
+        "USDA Organic, tak tersaring, dengan induk",
+        "Nilai solid untuk penggunaan memasak volume tinggi"
+      ],
+      "cons": [
+        "Transparansi sumber lebih sedikit dari Fairchild's atau Bragg"
+      ],
       "grade": "A",
-      "specs": {"Size": "32 oz", "Organic": "Sertifikat USDA", "Filtered": "Tidak (dengan induk)", "Acidity": "5%", "Price vs Bragg": "~15-20% lebih murah per oz"},
-      "scores": {"Quality": 4.2, "Taste": 3.9, "Value": 4.8, "Nutrition": 4.3, "Versatility": 4.4}
+      "specs": {
+        "Size": "32 oz",
+        "Organic": "Sertifikat USDA",
+        "Filtered": "Tidak (dengan induk)",
+        "Acidity": "5%",
+        "Price vs Bragg": "~15-20% lebih murah per oz"
+      },
+      "scores": {
+        "Kualitas": 4.2,
+        "Rasa": 3.9,
+        "Nilai": 4.8,
+        "Nutrisi": 4.3,
+        "Keserbagunaan": 4.4
+      }
     },
     {
       "offerId": "kevita-acv-tonic",
       "badge": "Terbaik untuk Palatabilitas",
       "review": "Kevita adalah minuman ACV berkarbonasi siap minum dengan jahe, lemon, dan stevia yang membuat asupan ACV harian benar-benar menyenangkan. Dosis ACV lebih rendah dari standar cair (sekitar 25mg per botol vs 1-2 sendok makan), dan biaya per sajian lebih tinggi — komprominya adalah orang-orang yang kesulitan dengan ACV langsung benar-benar bertahan dengan itu.",
-      "pros": ["Siap minum — tidak perlu mencampur atau mengencerkan", "Karbonasi dan rasa tambahan membuatnya jauh lebih mudah diminum", "Keasaman lebih rendah mengurangi risiko paparan email gigi"],
-      "cons": ["Dosis ACV lebih rendah dari protokol cair standar", "Biaya per sajian lebih tinggi dari ACV cair"],
+      "pros": [
+        "Siap minum — tidak perlu mencampur atau mengencerkan",
+        "Karbonasi dan rasa tambahan membuatnya jauh lebih mudah diminum",
+        "Keasaman lebih rendah mengurangi risiko paparan email gigi"
+      ],
+      "cons": [
+        "Dosis ACV lebih rendah dari protokol cair standar",
+        "Biaya per sajian lebih tinggi dari ACV cair"
+      ],
       "grade": "B+",
-      "specs": {"Size": "15,2 oz", "Format": "RTD Berkarbonasi", "Added flavors": "Jahe, lemon, stevia", "Sugar": "0g gula tambahan", "ACV dose per bottle": "~25 mg"},
-      "scores": {"Quality": 3.8, "Taste": 4.5, "Value": 3.2, "Nutrition": 3.5, "Versatility": 2.8}
+      "specs": {
+        "Size": "15,2 oz",
+        "Format": "RTD Berkarbonasi",
+        "Added flavors": "Jahe, lemon, stevia",
+        "Sugar": "0g gula tambahan",
+        "ACV dose per bottle": "~25 mg"
+      },
+      "scores": {
+        "Kualitas": 3.8,
+        "Rasa": 4.5,
+        "Nilai": 3.2,
+        "Nutrisi": 3.5,
+        "Keserbagunaan": 2.8
+      }
     },
     {
       "offerId": "goli-acv-gummies",
       "badge": "Terbaik untuk Kepatuhan Harian",
       "review": "Gumi Goli memberikan sekitar satu sendok teh setara ACV per sajian dua gumi — lebih sedikit dari dosis sendok makan standar tetapi jauh lebih mudah dikonsumsi setiap hari. Bersertifikat organik, vegan, Non-GMO, dengan vitamin B9 dan B12 yang ditambahkan. Jika Anda akan melewati cairan tetapi mengonsumsi gumi setiap hari, Goli memberikan hasil dunia nyata yang lebih baik melalui kepatuhan.",
-      "pros": ["Tidak ada rasa tajam, tidak ada pencampuran — kepatuhan format tertinggi", "Vitamin B yang ditambahkan (B9 dan B12)", "Bersertifikat organik, vegan, Non-GMO"],
-      "cons": ["Dosis ACV per sajian lebih rendah dari cair (1 sdt vs 1-2 sdm)", "Biaya lebih tinggi per gram ACV dari opsi cair"],
+      "pros": [
+        "Tidak ada rasa tajam, tidak ada pencampuran — kepatuhan format tertinggi",
+        "Vitamin B yang ditambahkan (B9 dan B12)",
+        "Bersertifikat organik, vegan, Non-GMO"
+      ],
+      "cons": [
+        "Dosis ACV per sajian lebih rendah dari cair (1 sdt vs 1-2 sdm)",
+        "Biaya lebih tinggi per gram ACV dari opsi cair"
+      ],
       "grade": "B",
-      "specs": {"Serving": "2 gumi", "ACV per serving": "~500 mg (~1 sdt)", "Organic": "Ya", "Added vitamins": "B9, B12", "Count": "60 gumi"},
-      "scores": {"Quality": 4.0, "Taste": 4.6, "Value": 3.5, "Nutrition": 3.8, "Versatility": 2.5}
+      "specs": {
+        "Serving": "2 gumi",
+        "ACV per serving": "~500 mg (~1 sdt)",
+        "Organic": "Ya",
+        "Added vitamins": "B9, B12",
+        "Count": "60 gumi"
+      },
+      "scores": {
+        "Kualitas": 4,
+        "Rasa": 4.6,
+        "Nilai": 3.5,
+        "Nutrisi": 3.8,
+        "Keserbagunaan": 2.5
+      }
     },
     {
       "offerId": "fairchilds-organic-acv",
       "badge": "Sumber Kuliner Terbaik",
       "review": "Fairchild's membedakan diri dengan sumber apel Rag Bag Washington State yang eksplisit dan keasaman 5% yang diverifikasi — transparansi yang dihindari kebanyakan merek ACV. Rasanya lebih bersih dan kurang beragi dari Bragg, menjadikannya pilihan yang lebih baik untuk vinaigrette ringan dan minuman cuka di mana Anda menginginkan rasa apel tanpa note fermentasi yang menonjol.",
-      "pros": ["Varietas apel bernama dan negara bagian AS asal — transparansi langka", "Pelabelan keasaman 5% yang eksplisit", "Rasa apel lebih bersih dengan kompleksitas fermentasi lebih sedikit"],
-      "cons": ["Kurang tersedia dari Bragg di pengecer arus utama"],
+      "pros": [
+        "Varietas apel bernama dan negara bagian AS asal — transparansi langka",
+        "Pelabelan keasaman 5% yang eksplisit",
+        "Rasa apel lebih bersih dengan kompleksitas fermentasi lebih sedikit"
+      ],
+      "cons": [
+        "Kurang tersedia dari Bragg di pengecer arus utama"
+      ],
       "grade": "B-",
-      "specs": {"Size": "32 oz", "Organic": "Sertifikat USDA", "Apple source": "Apel Rag Bag WA State", "Acidity": "5% diverifikasi", "Filtered": "Tidak (dengan induk)"},
-      "scores": {"Quality": 4.5, "Taste": 4.3, "Value": 3.8, "Nutrition": 4.3, "Versatility": 4.0}
+      "specs": {
+        "Size": "32 oz",
+        "Organic": "Sertifikat USDA",
+        "Apple source": "Apel Rag Bag WA State",
+        "Acidity": "5% diverifikasi",
+        "Filtered": "Tidak (dengan induk)"
+      },
+      "scores": {
+        "Kualitas": 4.5,
+        "Rasa": 4.3,
+        "Nilai": 3.8,
+        "Nutrisi": 4.3,
+        "Keserbagunaan": 4
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk peminum tonik ACV harian", "offerId": "bragg-organic-acv", "reason": "ACV mentah referensi dengan kualitas konsisten antar batch — pilihan pertama yang jelas untuk kebiasaan tonik harian yang diencerkan."},
-    {"label": "Untuk memasak volume tinggi", "offerId": "dynamic-health-acv", "reason": "15-20% lebih murah per ons dari Bragg dengan sertifikasi organik yang setara — pilihan tepat ketika Anda menghabiskan sebotol seminggu."},
-    {"label": "Untuk pemula ACV", "offerId": "kevita-acv-tonic", "reason": "Berkarbonasi, beraroma, dan sudah diencerkan — hambatan masuk terendah bagi orang yang merasa ACV cair langsung terlalu keras."},
-    {"label": "Untuk pengguna kebiasaan-pertama, dosis-kedua", "offerId": "goli-acv-gummies", "reason": "Jika Anda benar-benar akan mengonsumsi gumi setiap hari tetapi melewati cairan, dosis rendah yang konsisten mengalahkan dosis tinggi yang tidak konsisten."},
-    {"label": "Untuk vinaigrette ringan dan saus salad", "offerId": "fairchilds-organic-acv", "reason": "Rasa apel yang lebih bersih dan transparansi sumber membuat perbedaan nyata dalam resep di mana karakter ACV ada di depan."}
+    {
+      "label": "Untuk peminum tonik ACV harian",
+      "offerId": "bragg-organic-acv",
+      "reason": "ACV mentah referensi dengan kualitas konsisten antar batch — pilihan pertama yang jelas untuk kebiasaan tonik harian yang diencerkan."
+    },
+    {
+      "label": "Untuk memasak volume tinggi",
+      "offerId": "dynamic-health-acv",
+      "reason": "15-20% lebih murah per ons dari Bragg dengan sertifikasi organik yang setara — pilihan tepat ketika Anda menghabiskan sebotol seminggu."
+    },
+    {
+      "label": "Untuk pemula ACV",
+      "offerId": "kevita-acv-tonic",
+      "reason": "Berkarbonasi, beraroma, dan sudah diencerkan — hambatan masuk terendah bagi orang yang merasa ACV cair langsung terlalu keras."
+    },
+    {
+      "label": "Untuk pengguna kebiasaan-pertama, dosis-kedua",
+      "offerId": "goli-acv-gummies",
+      "reason": "Jika Anda benar-benar akan mengonsumsi gumi setiap hari tetapi melewati cairan, dosis rendah yang konsisten mengalahkan dosis tinggi yang tidak konsisten."
+    },
+    {
+      "label": "Untuk vinaigrette ringan dan saus salad",
+      "offerId": "fairchilds-organic-acv",
+      "reason": "Rasa apel yang lebih bersih dan transparansi sumber membuat perbedaan nyata dalam resep di mana karakter ACV ada di depan."
+    }
   ]
 }

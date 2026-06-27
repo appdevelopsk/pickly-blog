@@ -59,8 +59,14 @@
       "offerId": "vital-proteins-collagen",
       "badge": "Genel En İyi",
       "review": "Vital Proteins ana akım kolajen takviyesi kategorisini kurdu ve her ürünün ölçüldüğü referans olmayı sürdürüyor. Porsiyon başına 20g hidrolize bovine kolajen (Tip I ve III) tatmı değiştirmeden soğuk su, sıcak kahve veya smoothie'de tamamen çözünür. Sınırlama gerçektir: NSF veya Informed Sport üçüncü taraf sertifikasyonu yoktur.",
-      "pros": ["Porsiyon başına 20g kolajen soğuk veya sıcak içeceklerde tata etki etmeden tamamen çözünür", "Porsiyon başına 80mg ek Vitamin C vücudun kendi kolajen sentez yolunu destekler", "Geniş erişilebilirlik, on yıllık piyasa varlığında partiler arasında tutarlı kalite"],
-      "cons": ["NSF veya Informed Sport üçüncü taraf sertifikasyonu yok — bağımsız laboratuvar doğrulaması mevcut değil"],
+      "pros": [
+        "Porsiyon başına 20g kolajen soğuk veya sıcak içeceklerde tata etki etmeden tamamen çözünür",
+        "Porsiyon başına 80mg ek Vitamin C vücudun kendi kolajen sentez yolunu destekler",
+        "Geniş erişilebilirlik, on yıllık piyasa varlığında partiler arasında tutarlı kalite"
+      ],
+      "cons": [
+        "NSF veya Informed Sport üçüncü taraf sertifikasyonu yok — bağımsız laboratuvar doğrulaması mevcut değil"
+      ],
       "grade": "A+",
       "specs": {
         "Collagen type": "Tip I ve III (hidrolize bovine)",
@@ -70,14 +76,26 @@
         "Certifications": "Whole30, Paleo, süt ürünleri içermez, gluten içermez",
         "Flavor (unflavored)": "Soğuk su ve kahvede algılanamaz"
       },
-      "scores": {"Efficacy": 4.7, "Value": 4.5, "Taste": 4.9, "Purity": 4.3, "Ease of use": 5.0}
+      "scores": {
+        "Etkinlik": 4.7,
+        "Değer": 4.5,
+        "Tat": 4.9,
+        "Saflık": 4.3,
+        "Kullanım Kolaylığı": 5
+      }
     },
     {
       "offerId": "garden-of-life-collagen",
       "badge": "En İyi Sertifikalı Kalite",
       "review": "Garden of Life bu karşılaştırmadaki tek USDA sertifikalı organik + Spora Yönelik NSF sertifikalı kolajendir — her iki sertifikasyon da üçüncü taraflarca bağımsız olarak doğrulanmıştır. 20g bovine kolajen peptiti, 1,5 milyar CFU probiyotik ve Vitamin C ile birlikte. Tatsız versiyondaki hafif otsu mineral kalitesi düz suda fark edilir ancak smoothie veya meyve suyunda kaybolur.",
-      "pros": ["USDA sertifikalı organik + Spora Yönelik NSF Sertifikalı — bu kategorideki en güçlü üçüncü taraf referansları", "Kombine bağırsak ve eklem desteği için ek probiyotikli (1,5M CFU) 20g kolajen", "Rekabetçi sporcular için ilgili 270'ten fazla yasaklı madde için bağımsız test"],
-      "cons": ["Tatsız versiyondaki hafif otsu mineral tadı düz suda fark edilir — smoothie veya meyve suyunda kaybolur"],
+      "pros": [
+        "USDA sertifikalı organik + Spora Yönelik NSF Sertifikalı — bu kategorideki en güçlü üçüncü taraf referansları",
+        "Kombine bağırsak ve eklem desteği için ek probiyotikli (1,5M CFU) 20g kolajen",
+        "Rekabetçi sporcular için ilgili 270'ten fazla yasaklı madde için bağımsız test"
+      ],
+      "cons": [
+        "Tatsız versiyondaki hafif otsu mineral tadı düz suda fark edilir — smoothie veya meyve suyunda kaybolur"
+      ],
       "grade": "A",
       "specs": {
         "Collagen type": "Tip I ve III (ot beslemeli bovine)",
@@ -87,14 +105,26 @@
         "Certifications": "USDA Organik, Spora Yönelik NSF Sertifikalı, sertifikalı ot beslemeli",
         "Flavor (unflavored)": "Hafif otsu mineral — smoothie'de algılanamaz"
       },
-      "scores": {"Efficacy": 4.7, "Value": 4.0, "Taste": 4.4, "Purity": 5.0, "Ease of use": 4.7}
+      "scores": {
+        "Etkinlik": 4.7,
+        "Değer": 4,
+        "Tat": 4.4,
+        "Saflık": 5,
+        "Kullanım Kolaylığı": 4.7
+      }
     },
     {
       "offerId": "ancient-nutrition-collagen",
       "badge": "En İyi Çok Tipli Formül",
       "review": "Ancient Nutrition bu karşılaştırmada gerçek kemik suyu temeli üzerine inşa edilmiş tek üründür — izole peptitler değil. Karışım dört hayvan kaynağından beş ana kolajen tipini kapsar. Sıcak sıvılarda daha toprak ve belirgin tat gerçektir ancak aromalı versiyonlar bununla başa çıkar; tatsız versiyon smoothie'lerde en iyi kullanılır.",
-      "pros": ["4 hayvan kaynağından 5 kolajen tipi (I, II, III, V, X) — en geniş kapsam formülü", "Kemik suyu temeli, bütün gıda kaynatmadan glisini, glutamini ve diğer amino asitleri korur", "Costco, Walmart ve Target'te geniş erişilebilirlik — yeniden sipariş için en az sürtünme"],
-      "cons": ["Saf kolajen peptitten daha belirgin tat — tatsız versiyon smoothie'lerde en iyi kullanılır"],
+      "pros": [
+        "4 hayvan kaynağından 5 kolajen tipi (I, II, III, V, X) — en geniş kapsam formülü",
+        "Kemik suyu temeli, bütün gıda kaynatmadan glisini, glutamini ve diğer amino asitleri korur",
+        "Costco, Walmart ve Target'te geniş erişilebilirlik — yeniden sipariş için en az sürtünme"
+      ],
+      "cons": [
+        "Saf kolajen peptitten daha belirgin tat — tatsız versiyon smoothie'lerde en iyi kullanılır"
+      ],
       "grade": "B+",
       "specs": {
         "Collagen type": "Tip I, II, III, V, X (çok kolajen)",
@@ -104,14 +134,26 @@
         "Certifications": "SKU'ya göre değişir — mevcut CoA'yı kontrol edin",
         "Flavor (unflavored)": "Toprak, kemik suyu karakteri — smoothie'lerde en iyi"
       },
-      "scores": {"Efficacy": 4.6, "Value": 4.3, "Taste": 3.9, "Purity": 4.2, "Ease of use": 4.5}
+      "scores": {
+        "Etkinlik": 4.6,
+        "Değer": 4.3,
+        "Tat": 3.9,
+        "Saflık": 4.2,
+        "Kullanım Kolaylığı": 4.5
+      }
     },
     {
       "offerId": "sports-research-collagen",
       "badge": "Sertifikasyon ile En İyi Değer",
       "review": "Sports Research değer argümanını en açık biçimde ortaya koyar: BSCG sertifikasyonu Vital Proteins'ten %10-15 daha düşük fiyata. Ölçek başına 11g klinik aralığın alt ucundadır ancak kontrollü çalışmalarda eklem ve cilt faydalarının gözlemlendiği doz içindedir. Çözünürlük mükemmeldir.",
-      "pros": ["BSCG sertifikalı — mevcut en sıkı üçüncü taraf takviye test programlarından biri", "Ölçek başına 11g, kapasit başına daha fazla porsiyon sunar; etkin günlük maliyet çoğu rakipten düşük", "Mükemmel soğuk ve sıcak çözünürlük — kahve veya smoothie'de topaklanma yok"],
-      "cons": ["Porsiyon başına 11g klinik aralığın alt ucundadır; yüksek doz protokolleri çift ölçek gerektirir"],
+      "pros": [
+        "BSCG sertifikalı — mevcut en sıkı üçüncü taraf takviye test programlarından biri",
+        "Ölçek başına 11g, kapasit başına daha fazla porsiyon sunar; etkin günlük maliyet çoğu rakipten düşük",
+        "Mükemmel soğuk ve sıcak çözünürlük — kahve veya smoothie'de topaklanma yok"
+      ],
+      "cons": [
+        "Porsiyon başına 11g klinik aralığın alt ucundadır; yüksek doz protokolleri çift ölçek gerektirir"
+      ],
       "grade": "B",
       "specs": {
         "Collagen type": "Tip I ve III (hidrolize bovine)",
@@ -121,14 +163,26 @@
         "Certifications": "BSCG (Yasaklı Madde Kontrol Grubu) sertifikalı",
         "Flavor (unflavored)": "Kahve ve smoothie'de esasen tatsız"
       },
-      "scores": {"Efficacy": 4.4, "Value": 4.8, "Taste": 4.9, "Purity": 4.8, "Ease of use": 5.0}
+      "scores": {
+        "Etkinlik": 4.4,
+        "Değer": 4.8,
+        "Tat": 4.9,
+        "Saflık": 4.8,
+        "Kullanım Kolaylığı": 5
+      }
     },
     {
       "offerId": "bulletproof-collagen",
       "badge": "Kahve Entegrasyonu için En İyi",
       "review": "Bulletproof Collagen tek bir kullanım durumu için optimize edilmiştir: deneyimi değiştirmeden her gün kahveye karıştırmak. Mera bovine kaynaklarından porsiyon başına 18g, siyah kahveye eklendiğinde bu karşılaştırmadaki herhangi bir üründen en temiz tat profiline sahip. Dürüst sınırlama: NSF veya BSCG sertifikasyonu yoktur ve kolajen eksiksiz bir protein değildir.",
-      "pros": ["Siyah kahvede sıfır algılanabilir tat değişimi — bu karşılaştırmadaki en temiz tatlı tatsız kolajen", "Mera bovine kaynaklarından porsiyon başına 18g, doldurucu veya yapay katkı maddesi yok", "MCT yağı ve tereyağlı Bulletproof tarzı kahveye pıhtılaşmadan karışmak için tasarlanmış"],
-      "cons": ["NSF veya BSCG üçüncü taraf sertifikasyonu yok; kolajen eksiksiz bir protein değil (triptofan içermez)"],
+      "pros": [
+        "Siyah kahvede sıfır algılanabilir tat değişimi — bu karşılaştırmadaki en temiz tatlı tatsız kolajen",
+        "Mera bovine kaynaklarından porsiyon başına 18g, doldurucu veya yapay katkı maddesi yok",
+        "MCT yağı ve tereyağlı Bulletproof tarzı kahveye pıhtılaşmadan karışmak için tasarlanmış"
+      ],
+      "cons": [
+        "NSF veya BSCG üçüncü taraf sertifikasyonu yok; kolajen eksiksiz bir protein değil (triptofan içermez)"
+      ],
       "grade": "B-",
       "specs": {
         "Collagen type": "Tip I ve III (hidrolize bovine)",
@@ -138,14 +192,40 @@
         "Certifications": "Yok (yalnızca marka kalite testi)",
         "Flavor (unflavored)": "Siyah kahvede tamamen algılanamaz — kategorinin en iyisi"
       },
-      "scores": {"Efficacy": 4.3, "Value": 4.1, "Taste": 5.0, "Purity": 4.0, "Ease of use": 5.0}
+      "scores": {
+        "Etkinlik": 4.3,
+        "Değer": 4.1,
+        "Tat": 5,
+        "Saflık": 4,
+        "Kullanım Kolaylığı": 5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Basit bir günlük kolajen alışkanlığı isteyenlerin çoğu için", "offerId": "vital-proteins-collagen", "reason": "Porsiyon başına 20g herhangi bir içecekte görünmez biçimde çözünür — tutarlı günlük kullanım için en az sürtünmeli seçenek."},
-    {"label": "Üçüncü taraf laboratuvar doğrulaması gerektiren sertifikalı sporcular ve alıcılar için", "offerId": "garden-of-life-collagen", "reason": "USDA organik + Spora Yönelik NSF Sertifikalı, kolajen kategorisindeki en güçlü referans kombinasyonudur."},
-    {"label": "Tek üründe kapsamlı kolajen tipi kapsamı isteyenler için", "offerId": "ancient-nutrition-collagen", "reason": "Dört kaynaktan beş kolajen tipi artı kemik suyu temeli — en tam tek ürün formülü."},
-    {"label": "Üçüncü taraf testinden taviz vermeyecek bütçe bilincindeki alıcılar için", "offerId": "sports-research-collagen", "reason": "BSCG sertifikasyonu rakiplerden %10-15 daha düşük maliyetle — belgelenmiş kalite güvencesiyle en iyi değer."},
-    {"label": "Sıfır tat etkisi isteyen günlük kahve içiciler için", "offerId": "bulletproof-collagen", "reason": "Tadı değiştirmeden siyah kahvede çözünmek için özel olarak optimize edilmiş — bu kullanım durumunda eşsiz."}
+    {
+      "label": "Basit bir günlük kolajen alışkanlığı isteyenlerin çoğu için",
+      "offerId": "vital-proteins-collagen",
+      "reason": "Porsiyon başına 20g herhangi bir içecekte görünmez biçimde çözünür — tutarlı günlük kullanım için en az sürtünmeli seçenek."
+    },
+    {
+      "label": "Üçüncü taraf laboratuvar doğrulaması gerektiren sertifikalı sporcular ve alıcılar için",
+      "offerId": "garden-of-life-collagen",
+      "reason": "USDA organik + Spora Yönelik NSF Sertifikalı, kolajen kategorisindeki en güçlü referans kombinasyonudur."
+    },
+    {
+      "label": "Tek üründe kapsamlı kolajen tipi kapsamı isteyenler için",
+      "offerId": "ancient-nutrition-collagen",
+      "reason": "Dört kaynaktan beş kolajen tipi artı kemik suyu temeli — en tam tek ürün formülü."
+    },
+    {
+      "label": "Üçüncü taraf testinden taviz vermeyecek bütçe bilincindeki alıcılar için",
+      "offerId": "sports-research-collagen",
+      "reason": "BSCG sertifikasyonu rakiplerden %10-15 daha düşük maliyetle — belgelenmiş kalite güvencesiyle en iyi değer."
+    },
+    {
+      "label": "Sıfır tat etkisi isteyen günlük kahve içiciler için",
+      "offerId": "bulletproof-collagen",
+      "reason": "Tadı değiştirmeden siyah kahvede çözünmek için özel olarak optimize edilmiş — bu kullanım durumunda eşsiz."
+    }
   ]
 }

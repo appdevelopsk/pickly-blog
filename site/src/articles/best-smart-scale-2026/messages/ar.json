@@ -117,58 +117,173 @@
       "offerId": "withings-body-comp",
       "badge": "الأفضل إجمالاً",
       "review": "يُعدّ Withings Body Comp الميزان الاستهلاكي الوحيد في هذه المقارنة الذي يقيس العمر الوعائي عبر سرعة موجة النبض — وهو مقياس لصحة القلب والأوعية لا تستطيع BIA وحدها توفيره. سياسة تصدير بياناته (تصدير CSV، ووصول API) هي الأكثر انفتاحاً في هذه المجموعة، ومزامنة Apple Health / Google Fit موثوقة. وتشترك BIA من القدم إلى القدم للدهون في فئة الدقة ±3-8٪ نفسها مع موازين أرخص.",
-      "pros": ["الميزان الوحيد الذي يقيس العمر الوعائي (سرعة موجة النبض)", "أفضل سياسة تصدير بيانات — تصدير CSV ووصول API", "مزامنة موثوقة لـApple Health وGoogle Fit"],
-      "cons": ["BIA من القدم إلى القدم تحمل دقة دهون ±3-8٪ نفسها لموازين أرخص"],
+      "pros": [
+        "الميزان الوحيد الذي يقيس العمر الوعائي (سرعة موجة النبض)",
+        "أفضل سياسة تصدير بيانات — تصدير CSV ووصول API",
+        "مزامنة موثوقة لـApple Health وGoogle Fit"
+      ],
+      "cons": [
+        "BIA من القدم إلى القدم تحمل دقة دهون ±3-8٪ نفسها لموازين أرخص"
+      ],
       "grade": "A+",
-      "specs": {"Price": "راقٍ", "BIA type": "Foot-to-foot + PWV sensors", "Users": "8", "Connectivity": "Wi-Fi + Bluetooth", "App": "Withings Health Mate", "Weight resolution": "0.05kg"},
-      "scores": {"Accuracy": 4.3, "App quality": 4.7, "Ease of use": 4.5, "Value": 3.5, "Metrics range": 5.0}
+      "specs": {
+        "Price": "راقٍ",
+        "BIA type": "Foot-to-foot + PWV sensors",
+        "Users": "8",
+        "Connectivity": "Wi-Fi + Bluetooth",
+        "App": "Withings Health Mate",
+        "Weight resolution": "0.05kg"
+      },
+      "scores": {
+        "الدقة": 4.3,
+        "جودة التطبيق": 4.7,
+        "سهولة الاستخدام": 4.5,
+        "القيمة": 3.5,
+        "نطاق المقاييس": 5
+      }
     },
     {
       "offerId": "garmin-index-s2",
       "badge": "الأفضل لمستخدمي Garmin",
       "review": "ميزة منظومة Garmin Index S2 حقيقية ومحددة: تظهر بيانات تكوين الجسم مباشرة في Garmin Connect إلى جانب مقاييس النشاط والنوم وHRV — دون حاجة إلى جسر طرف ثالث. وللأسر ذات الرياضيين المتعددين، دعم 16 مستخدماً مميِّز حقيقي. أما لغير مستخدمي Garmin، فهو ميزان BIA من القدم إلى القدم بالدقة نفسها لـEufy الأرخص.",
-      "pros": ["تكوين الجسم يتزامن مباشرة مع Garmin Connect", "16 مستخدماً متزامناً — الأفضل للأسر متعددة الرياضيين", "لا حاجة إلى جسر طرف ثالث لمنظومة Garmin"],
-      "cons": ["تختفي علاوة المنظومة تماماً إن لم تستخدم أجهزة Garmin"],
+      "pros": [
+        "تكوين الجسم يتزامن مباشرة مع Garmin Connect",
+        "16 مستخدماً متزامناً — الأفضل للأسر متعددة الرياضيين",
+        "لا حاجة إلى جسر طرف ثالث لمنظومة Garmin"
+      ],
+      "cons": [
+        "تختفي علاوة المنظومة تماماً إن لم تستخدم أجهزة Garmin"
+      ],
       "grade": "A",
-      "specs": {"Price": "راقٍ", "BIA type": "Foot-to-foot", "Users": "16", "Connectivity": "Wi-Fi + Bluetooth", "App": "Garmin Connect", "Weight resolution": "0.1kg"},
-      "scores": {"Accuracy": 4.1, "App quality": 4.5, "Ease of use": 4.5, "Value": 3.8, "Metrics range": 4.2}
+      "specs": {
+        "Price": "راقٍ",
+        "BIA type": "Foot-to-foot",
+        "Users": "16",
+        "Connectivity": "Wi-Fi + Bluetooth",
+        "App": "Garmin Connect",
+        "Weight resolution": "0.1kg"
+      },
+      "scores": {
+        "الدقة": 4.1,
+        "جودة التطبيق": 4.5,
+        "سهولة الاستخدام": 4.5,
+        "القيمة": 3.8,
+        "نطاق المقاييس": 4.2
+      }
     },
     {
       "offerId": "tanita-rd-906",
       "badge": "أفضل تقنية BIA",
       "review": "يُعدّ Tanita RD-906 أدق BIA استهلاكي في هذه المقارنة: تقنية أربعة أقطاب متعددة الترددات المرخّصة من InBody تقيس الذراعين والساقين والجذع منفصلاً بدل تقدير تكوين الجزء العلوي من معاوقة القدم إلى القدم. وفي اليابان، تُعدّ مصداقية Tanita السريرية — فالمستشفيات والمرافق الرياضية تستخدم معدّات Tanita الاحترافية — اعتباراً حقيقياً للمستخدمين الذين يراقبون صحتهم إلى جانب مختصّين طبيين.",
-      "pros": ["BIA أربعة أقطاب متعددة الترددات تقيس كل قطاع جسمي مباشرة", "تقنية مرخّصة من InBody — أعلى معيار BIA استهلاكي متاح", "لدى Tanita مصداقية سريرية في اليابان لا تضاهيها أي علامة أجنبية"],
-      "cons": ["يتطلب الإمساك بأقطاب المقبض خلال كل قياس — خطوة إضافية مقابل الموازين القدمية فقط"],
+      "pros": [
+        "BIA أربعة أقطاب متعددة الترددات تقيس كل قطاع جسمي مباشرة",
+        "تقنية مرخّصة من InBody — أعلى معيار BIA استهلاكي متاح",
+        "لدى Tanita مصداقية سريرية في اليابان لا تضاهيها أي علامة أجنبية"
+      ],
+      "cons": [
+        "يتطلب الإمساك بأقطاب المقبض خلال كل قياس — خطوة إضافية مقابل الموازين القدمية فقط"
+      ],
       "grade": "B+",
-      "specs": {"Price": "راقٍ", "BIA type": "Multi-frequency 4-electrode (segmental)", "Users": "5", "Connectivity": "Bluetooth", "App": "Health Planet (Japan-focused)", "Weight resolution": "0.05kg"},
-      "scores": {"Accuracy": 4.8, "App quality": 3.5, "Ease of use": 3.8, "Value": 3.6, "Metrics range": 4.8}
+      "specs": {
+        "Price": "راقٍ",
+        "BIA type": "Multi-frequency 4-electrode (segmental)",
+        "Users": "5",
+        "Connectivity": "Bluetooth",
+        "App": "Health Planet (Japan-focused)",
+        "Weight resolution": "0.05kg"
+      },
+      "scores": {
+        "الدقة": 4.8,
+        "جودة التطبيق": 3.5,
+        "سهولة الاستخدام": 3.8,
+        "القيمة": 3.6,
+        "نطاق المقاييس": 4.8
+      }
     },
     {
       "offerId": "xiaomi-body-composition-scale-2",
       "badge": "أفضل خيار اقتصادي",
       "review": "بسعره الاقتصادي، يقدّم Xiaomi Mi Body Composition Scale 2 بيانات اتجاه دهون مفيدة فعلاً رغم هامش الدقة الواسع — فاتجاه التغير عبر الأسابيع موثوق حتى لو لم يكن الرقم المطلق كذلك. Bluetooth فقط يعني وجوب قرب هاتفك خلال القياس، وسجلّ Xiaomi في إيقاف التطبيقات دون فترات انتقال طويلة خطر مشروع للبيانات عبر سنوات.",
-      "pros": ["الدهون ومؤشر كتلة الجسم وكتلة العضلات وكتلة العظام بسعر اقتصادي", "مزامنة Bluetooth نظيفة مع Mi Fitness", "تتبع اتجاه الدهون يعمل رغم هامش الخطأ الواسع"],
-      "cons": ["Bluetooth فقط — يجب قرب الهاتف خلال الوزن"],
+      "pros": [
+        "الدهون ومؤشر كتلة الجسم وكتلة العضلات وكتلة العظام بسعر اقتصادي",
+        "مزامنة Bluetooth نظيفة مع Mi Fitness",
+        "تتبع اتجاه الدهون يعمل رغم هامش الخطأ الواسع"
+      ],
+      "cons": [
+        "Bluetooth فقط — يجب قرب الهاتف خلال الوزن"
+      ],
       "grade": "B",
-      "specs": {"Price": "اقتصادي", "BIA type": "Foot-to-foot 2-electrode", "Users": "Multiple (app profiles)", "Connectivity": "Bluetooth", "App": "Mi Fitness", "Weight resolution": "0.05kg"},
-      "scores": {"Accuracy": 3.2, "App quality": 3.8, "Ease of use": 4.8, "Value": 5.0, "Metrics range": 3.5}
+      "specs": {
+        "Price": "اقتصادي",
+        "BIA type": "Foot-to-foot 2-electrode",
+        "Users": "Multiple (app profiles)",
+        "Connectivity": "Bluetooth",
+        "App": "Mi Fitness",
+        "Weight resolution": "0.05kg"
+      },
+      "scores": {
+        "الدقة": 3.2,
+        "جودة التطبيق": 3.8,
+        "سهولة الاستخدام": 4.8,
+        "القيمة": 5,
+        "نطاق المقاييس": 3.5
+      }
     },
     {
       "offerId": "anker-eufy-smart-scale-p2-pro",
       "badge": "أفضل قيمة في الفئة المتوسطة",
       "review": "يصيب Anker Eufy Smart Scale P2 Pro النقطة العملية المثلى: مزامنة Wi-Fi (دون اشتراط قرب الهاتف)، وتكامل Apple Health وGoogle Fit، و16 مقياساً جسمياً بربع سعر خياري Withings وTanita. ومعظم تلك المقاييس الـ16 مستمدة من إشارة BIA ثنائية الأقطاب من القدم إلى القدم نفسها — لا قياسات مستقلة — لكن لمتتبّع اللياقة النموذجي، بيانات اتجاه الوزن والدهون هي ما يهم.",
-      "pros": ["مزامنة Wi-Fi — لا حاجة لقرب الهاتف خلال القياس", "تكامل Apple Health وGoogle Fit بسعر متوسط الفئة", "شبكة خدمة Anker في اليابان قوية (متاجر فعلية، دعم مباشر)"],
-      "cons": ["16 مقياساً معظمها مستمد من إشارة BIA نفسها — لا قياسات مستقلة"],
+      "pros": [
+        "مزامنة Wi-Fi — لا حاجة لقرب الهاتف خلال القياس",
+        "تكامل Apple Health وGoogle Fit بسعر متوسط الفئة",
+        "شبكة خدمة Anker في اليابان قوية (متاجر فعلية، دعم مباشر)"
+      ],
+      "cons": [
+        "16 مقياساً معظمها مستمد من إشارة BIA نفسها — لا قياسات مستقلة"
+      ],
       "grade": "B-",
-      "specs": {"Price": "متوسط الفئة", "BIA type": "Foot-to-foot 4-electrode", "Users": "16", "Connectivity": "Wi-Fi + Bluetooth", "App": "Eufy Life", "Weight resolution": "0.05kg"},
-      "scores": {"Accuracy": 4.0, "App quality": 4.1, "Ease of use": 4.7, "Value": 4.6, "Metrics range": 4.0}
+      "specs": {
+        "Price": "متوسط الفئة",
+        "BIA type": "Foot-to-foot 4-electrode",
+        "Users": "16",
+        "Connectivity": "Wi-Fi + Bluetooth",
+        "App": "Eufy Life",
+        "Weight resolution": "0.05kg"
+      },
+      "scores": {
+        "الدقة": 4,
+        "جودة التطبيق": 4.1,
+        "سهولة الاستخدام": 4.7,
+        "القيمة": 4.6,
+        "نطاق المقاييس": 4
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "لمراقبة صحة القلب والأوعية", "offerId": "withings-body-comp", "reason": "سرعة موجة النبض (العمر الوعائي) غير متاحة في أي مكان آخر على المستوى الاستهلاكي — تضيف بُعداً قلبياً وعائياً لا تستطيع موازين BIA الصرفة توفيره."},
-    {"label": "لمستخدمي ساعة Garmin", "offerId": "garmin-index-s2", "reason": "تظهر بيانات تكوين الجسم في Garmin Connect إلى جانب نشاطاتك وHRV دون أي حل بديل أو تطبيق جسر."},
-    {"label": "للمستخدمين الذين يعملون مع مدرّب شخصي", "offerId": "tanita-rd-906", "reason": "يستخدم المدرّبون الشخصيون اليابانيون ومختصّو الطب الرياضي بيانات مرجع Tanita — والقراءات القطاعية على RD-906 تتوافق مع ما يقيسه مدرّبك احترافياً."},
-    {"label": "لتتبع الدهون بميزانية محدودة", "offerId": "xiaomi-body-composition-scale-2", "reason": "بسعره الاقتصادي، بيانات الاتجاه الأسبوعية مفيدة. استخدمها للاتجاه عبر الأشهر، لا للقراءات المطلقة في أي يوم بعينه."},
-    {"label": "لمعظم الأسر التي لا تملك Garmin", "offerId": "anker-eufy-smart-scale-p2-pro", "reason": "مزامنة Wi-Fi وتكامل Apple Health وحضور خدمة Anker في اليابان تقدّم أفضل نسبة ميزات إلى سعر حين لا تحتاج إلى Garmin أو BIA سريري."}
+    {
+      "label": "لمراقبة صحة القلب والأوعية",
+      "offerId": "withings-body-comp",
+      "reason": "سرعة موجة النبض (العمر الوعائي) غير متاحة في أي مكان آخر على المستوى الاستهلاكي — تضيف بُعداً قلبياً وعائياً لا تستطيع موازين BIA الصرفة توفيره."
+    },
+    {
+      "label": "لمستخدمي ساعة Garmin",
+      "offerId": "garmin-index-s2",
+      "reason": "تظهر بيانات تكوين الجسم في Garmin Connect إلى جانب نشاطاتك وHRV دون أي حل بديل أو تطبيق جسر."
+    },
+    {
+      "label": "للمستخدمين الذين يعملون مع مدرّب شخصي",
+      "offerId": "tanita-rd-906",
+      "reason": "يستخدم المدرّبون الشخصيون اليابانيون ومختصّو الطب الرياضي بيانات مرجع Tanita — والقراءات القطاعية على RD-906 تتوافق مع ما يقيسه مدرّبك احترافياً."
+    },
+    {
+      "label": "لتتبع الدهون بميزانية محدودة",
+      "offerId": "xiaomi-body-composition-scale-2",
+      "reason": "بسعره الاقتصادي، بيانات الاتجاه الأسبوعية مفيدة. استخدمها للاتجاه عبر الأشهر، لا للقراءات المطلقة في أي يوم بعينه."
+    },
+    {
+      "label": "لمعظم الأسر التي لا تملك Garmin",
+      "offerId": "anker-eufy-smart-scale-p2-pro",
+      "reason": "مزامنة Wi-Fi وتكامل Apple Health وحضور خدمة Anker في اليابان تقدّم أفضل نسبة ميزات إلى سعر حين لا تحتاج إلى Garmin أو BIA سريري."
+    }
   ]
 }

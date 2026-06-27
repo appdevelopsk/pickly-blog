@@ -64,58 +64,168 @@
       "offerId": "chemex-6-cup-classic",
       "badge": "En İyi Genel",
       "review": "Chemex 6 Fincan Classic, çoğu hane için doğru başlangıç noktasıdır — tahta yaka ve deri kordonlu kum saati şeklinde borosalikatlı cam, 850 ml (3 standart bardak) demler ve hafif kavrulmuş özel kahve için rakipsiz bir fincan berraklığı üretir. Kalın özel filtre, belirleyici özelliği ve süregelen maliyetidir. Fazlalık olmadan Chemex deneyimi isteyen 1–2 kişilik haneler için, seçenek budur.",
-      "pros": ["Olağanüstü fincan berraklığı — kalın filtre yağları ve ince tortuyu giderir", "Borosalikatlı cam, çatlamadan termal şoka dayanır", "850 ml kapasite, 1–2 kişilik hane için idealdir (3 standart bardak)"],
-      "cons": ["Tahta yaka bulaşık makinesine uygun değil — elle bakım gerektirir"],
+      "pros": [
+        "Olağanüstü fincan berraklığı — kalın filtre yağları ve ince tortuyu giderir",
+        "Borosalikatlı cam, çatlamadan termal şoka dayanır",
+        "850 ml kapasite, 1–2 kişilik hane için idealdir (3 standart bardak)"
+      ],
+      "cons": [
+        "Tahta yaka bulaşık makinesine uygun değil — elle bakım gerektirir"
+      ],
       "grade": "A+",
-      "specs": {"Kapasite": "30 oz / 850 ml", "Malzeme": "Borosalikatlı cam", "Filtre türü": "Chemex bonded (özel)", "Sap": "Tahta yaka + deri kordon", "Bulaşık makinesine uygun": "Hayır (tahta yaka)"},
-      "scores": {"Brew quality": 4.9, "Build quality": 4.7, "Ease of use": 4.3, "Value": 4.2, "Versatility": 3.8}
+      "specs": {
+        "Kapasite": "30 oz / 850 ml",
+        "Malzeme": "Borosalikatlı cam",
+        "Filtre türü": "Chemex bonded (özel)",
+        "Sap": "Tahta yaka + deri kordon",
+        "Bulaşık makinesine uygun": "Hayır (tahta yaka)"
+      },
+      "scores": {
+        "Demleme Kalitesi": 4.9,
+        "İnşaat Kalitesi": 4.7,
+        "Kullanım Kolaylığı": 4.3,
+        "Değer": 4.2,
+        "Çok Yönlülük": 3.8
+      }
     },
     {
       "offerId": "chemex-8-cup-classic",
       "badge": "Gruplar İçin En İyi",
       "review": "8 Fincan Classic, 6 Fincan ile özdeş demleme mekaniği ve malzemeleri kullanır ancak 1,1 L'ye kadar demler — 4–5 standart bardak veya tam termos doldurma için yeterli. Tek anlamlı fark yüksekliktir; daha uzun karafe, ekstraksiyonu etkilemeden yaka altında daha fazla hacim tutar. Düzenli olarak 3+ kişi için demliyorsanız veya bir termosa toplu demleme yapıyorsanız, bu doğru boyuttur.",
-      "pros": ["1,1 L kapasite — demleme başına 4–5 standart bardak sunar", "6 Fincan ile aynı borosalikatlı cam ve demleme mekaniği", "Termosa toplu demleme için en iyi"],
-      "cons": ["Daha uzun profil, kalabalık bir tezgahta biraz daha az stabildir"],
+      "pros": [
+        "1,1 L kapasite — demleme başına 4–5 standart bardak sunar",
+        "6 Fincan ile aynı borosalikatlı cam ve demleme mekaniği",
+        "Termosa toplu demleme için en iyi"
+      ],
+      "cons": [
+        "Daha uzun profil, kalabalık bir tezgahta biraz daha az stabildir"
+      ],
       "grade": "A",
-      "specs": {"Kapasite": "40 oz / 1,1 L", "Malzeme": "Borosalikatlı cam", "Filtre türü": "Chemex bonded (özel)", "Sap": "Tahta yaka + deri kordon", "Bulaşık makinesine uygun": "Hayır (tahta yaka)"},
-      "scores": {"Brew quality": 4.9, "Build quality": 4.7, "Ease of use": 4.2, "Value": 4.0, "Versatility": 4.2}
+      "specs": {
+        "Kapasite": "40 oz / 1,1 L",
+        "Malzeme": "Borosalikatlı cam",
+        "Filtre türü": "Chemex bonded (özel)",
+        "Sap": "Tahta yaka + deri kordon",
+        "Bulaşık makinesine uygun": "Hayır (tahta yaka)"
+      },
+      "scores": {
+        "Demleme Kalitesi": 4.9,
+        "İnşaat Kalitesi": 4.7,
+        "Kullanım Kolaylığı": 4.2,
+        "Değer": 4,
+        "Çok Yönlülük": 4.2
+      }
     },
     {
       "offerId": "chemex-glass-handle",
       "badge": "Kolay Temizlik İçin En İyi",
       "review": "Cam Saplı 8 Fincan, tahta yakayı kalıp cam sapla değiştirir — tek yapısal değişiklik, ancak her şeyi bulaşık makinesine koyan herkes için anlamlı. Demleme performansı Classic ile aynıdır; estetik daha düzgün ve daha az zanaatkârdır. Bulaşık makinesi rahatlığı önemliyse ve yine de 8 fincan boyutunu satın alıyorsanız, cam saplı versiyon pratik yükseltmedir.",
-      "pros": ["Tamamen bulaşık makinesine uygun — yaka çıkarmaya gerek yok", "Classic ile aynı demleme performansı", "Daha düzgün estetik — çağdaş mutfak ortamlarında çalışır"],
-      "cons": ["Cam sap estetiği tartışmalıdır — tahta yakanın el işi hissinden yoksundur"],
+      "pros": [
+        "Tamamen bulaşık makinesine uygun — yaka çıkarmaya gerek yok",
+        "Classic ile aynı demleme performansı",
+        "Daha düzgün estetik — çağdaş mutfak ortamlarında çalışır"
+      ],
+      "cons": [
+        "Cam sap estetiği tartışmalıdır — tahta yakanın el işi hissinden yoksundur"
+      ],
       "grade": "B+",
-      "specs": {"Kapasite": "40 oz / 1,1 L", "Malzeme": "Borosalikatlı cam", "Filtre türü": "Chemex bonded (özel)", "Sap": "Kalıp cam (entegre)", "Bulaşık makinesine uygun": "Evet (tamamen)"},
-      "scores": {"Brew quality": 4.9, "Build quality": 4.5, "Ease of use": 4.7, "Value": 3.9, "Versatility": 4.2}
+      "specs": {
+        "Kapasite": "40 oz / 1,1 L",
+        "Malzeme": "Borosalikatlı cam",
+        "Filtre türü": "Chemex bonded (özel)",
+        "Sap": "Kalıp cam (entegre)",
+        "Bulaşık makinesine uygun": "Evet (tamamen)"
+      },
+      "scores": {
+        "Demleme Kalitesi": 4.9,
+        "İnşaat Kalitesi": 4.5,
+        "Kullanım Kolaylığı": 4.7,
+        "Değer": 3.9,
+        "Çok Yönlülük": 4.2
+      }
     },
     {
       "offerId": "chemex-bonded-filters",
       "badge": "Temel Sarf Malzemesi",
       "review": "Chemex bonded filtreler, standart sepet veya koni filtrelerle değiştirilemez — özel kağıt %20–30 daha kalın, Chemex boyun çapı için önceden katlanmıştır ve Chemex'in karakteristik fincan berraklığını üreten daha yavaş akış hızı için özel olarak üretilmiştir. 100'lük pakette satın almak, filtre başına maliyeti yönetilebilir tutar; beyaz ve doğal (ağartılmamış) olarak mevcuttur — her ikisi de uygun ön durulama sonrasında eşit derecede iyi çalışır.",
-      "pros": ["Tüm Chemex demleyiciler için gerekli — ikame mevcut değil", "100'lük paket, filtre başına maliyeti $0,12'nin altında tutar", "Beyaz ve doğal ağartılmamış versiyonlarda mevcut"],
-      "cons": ["Süregelen maliyet — 100 filtre başına yaklaşık $10–15, günlük kullanımda birikir"],
+      "pros": [
+        "Tüm Chemex demleyiciler için gerekli — ikame mevcut değil",
+        "100'lük paket, filtre başına maliyeti $0,12'nin altında tutar",
+        "Beyaz ve doğal ağartılmamış versiyonlarda mevcut"
+      ],
+      "cons": [
+        "Süregelen maliyet — 100 filtre başına yaklaşık $10–15, günlük kullanımda birikir"
+      ],
       "grade": "B",
-      "specs": {"Adet": "100 filtre", "Uyumluluk": "Tüm Chemex demleyiciler", "Tür": "Önceden katlanmış kare veya daire", "Versiyonlar": "Beyaz (ağartılmış) ve doğal (ağartılmamış)", "Filtre başına fiyat": "~$0,10–0,15"},
-      "scores": {"Brew quality": 4.9, "Build quality": 4.0, "Ease of use": 4.5, "Value": 3.8, "Versatility": 2.5}
+      "specs": {
+        "Adet": "100 filtre",
+        "Uyumluluk": "Tüm Chemex demleyiciler",
+        "Tür": "Önceden katlanmış kare veya daire",
+        "Versiyonlar": "Beyaz (ağartılmış) ve doğal (ağartılmamış)",
+        "Filtre başına fiyat": "~$0,10–0,15"
+      },
+      "scores": {
+        "Demleme Kalitesi": 4.9,
+        "İnşaat Kalitesi": 4,
+        "Kullanım Kolaylığı": 4.5,
+        "Değer": 3.8,
+        "Çok Yönlülük": 2.5
+      }
     },
     {
       "offerId": "hario-v60-02",
       "badge": "En İyi Alternatif Demleyici",
       "review": "V60 02, Chemex'in birincil alternatifidir — 60° koniyle tek servislik bir pour-over damlatıcı, spiral kaburgalar ve Chemex'ten daha fazla gövde ve daha hızlı akış üreten daha ince bir filtre. Ayrı bir servis kabı veya bardak gerektirir (Chemex'in hepsi bir arada tasarımından farklı olarak) ve daha tekniğe bağlı bir dökme gerektirir. Chemex'in aşırı berraklığı yerine ekstraksiyon kontrolü ve fincan gövdesi isteyen deneyimli demleyiciler için V60 daha iyi seçimdir.",
-      "pros": ["Chemex'ten daha fazla gövde — daha ince filtre daha fazla yağ tutar", "Daha hızlı akış hızı, ekstraksiyon üzerinde daha fazla kontrol sağlar", "$25–35'teki plastik versiyon neredeyse dayanıklıdır"],
-      "cons": ["Ayrı servis kabı veya bardak gerektirir — Chemex gibi hepsi bir arada kap değildir"],
+      "pros": [
+        "Chemex'ten daha fazla gövde — daha ince filtre daha fazla yağ tutar",
+        "Daha hızlı akış hızı, ekstraksiyon üzerinde daha fazla kontrol sağlar",
+        "$25–35'teki plastik versiyon neredeyse dayanıklıdır"
+      ],
+      "cons": [
+        "Ayrı servis kabı veya bardak gerektirir — Chemex gibi hepsi bir arada kap değildir"
+      ],
       "grade": "B-",
-      "specs": {"Malzeme": "Plastik (02 boyutu)", "Filtre türü": "V60 kağıt (Chemex'ten daha ince)", "Koni açısı": "60°", "Kapasite": "Tek servis (1–2 fincan)", "Uyumlu servis kapları": "Standart bardak, Hario range server"},
-      "scores": {"Brew quality": 4.7, "Build quality": 3.8, "Ease of use": 3.5, "Value": 4.6, "Versatility": 4.8}
+      "specs": {
+        "Malzeme": "Plastik (02 boyutu)",
+        "Filtre türü": "V60 kağıt (Chemex'ten daha ince)",
+        "Koni açısı": "60°",
+        "Kapasite": "Tek servis (1–2 fincan)",
+        "Uyumlu servis kapları": "Standart bardak, Hario range server"
+      },
+      "scores": {
+        "Demleme Kalitesi": 4.7,
+        "İnşaat Kalitesi": 3.8,
+        "Kullanım Kolaylığı": 3.5,
+        "Değer": 4.6,
+        "Çok Yönlülük": 4.8
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "1–2 kişilik haneler için", "offerId": "chemex-6-cup-classic", "reason": "850 ml kapasite iki kişi için tam olarak doğrudur — fazla demleme yoktur ve klasik estetik her mutfakta tutunur."},
-    {"label": "3 veya daha fazla kişilik haneler için", "offerId": "chemex-8-cup-classic", "reason": "1,1 L kapasite, demleme başına 4–5 bardağı karşılar — daha büyük gruplar için iki kez demleme ihtiyacını ortadan kaldırır."},
-    {"label": "Bulaşık makinesine bağımlı haneler için", "offerId": "chemex-glass-handle", "reason": "Tamamen bulaşık makinesine uygun tek Chemex — çıkarılacak yaka yoktur, elle bakım rutini yoktur."},
-    {"label": "Deneyimli pour-over demleyicileri için", "offerId": "hario-v60-02", "reason": "Chemex'ten daha fazla teknik kontrol ve fincan gövdesi — dökme hızına göre ekstraksiyonu ince ayar yapmak isteyenler için doğru araç."},
-    {"label": "Chemex sahipleri için stok yapanlar", "offerId": "chemex-bonded-filters", "reason": "100'lük paketi satın alın — Chemex'te çalışan tek filtredir ve tahmin ettiğinizden daha hızlı tüketirsiniz."}
+    {
+      "label": "1–2 kişilik haneler için",
+      "offerId": "chemex-6-cup-classic",
+      "reason": "850 ml kapasite iki kişi için tam olarak doğrudur — fazla demleme yoktur ve klasik estetik her mutfakta tutunur."
+    },
+    {
+      "label": "3 veya daha fazla kişilik haneler için",
+      "offerId": "chemex-8-cup-classic",
+      "reason": "1,1 L kapasite, demleme başına 4–5 bardağı karşılar — daha büyük gruplar için iki kez demleme ihtiyacını ortadan kaldırır."
+    },
+    {
+      "label": "Bulaşık makinesine bağımlı haneler için",
+      "offerId": "chemex-glass-handle",
+      "reason": "Tamamen bulaşık makinesine uygun tek Chemex — çıkarılacak yaka yoktur, elle bakım rutini yoktur."
+    },
+    {
+      "label": "Deneyimli pour-over demleyicileri için",
+      "offerId": "hario-v60-02",
+      "reason": "Chemex'ten daha fazla teknik kontrol ve fincan gövdesi — dökme hızına göre ekstraksiyonu ince ayar yapmak isteyenler için doğru araç."
+    },
+    {
+      "label": "Chemex sahipleri için stok yapanlar",
+      "offerId": "chemex-bonded-filters",
+      "reason": "100'lük paketi satın alın — Chemex'te çalışan tek filtredir ve tahmin ettiğinizden daha hızlı tüketirsiniz."
+    }
   ]
 }

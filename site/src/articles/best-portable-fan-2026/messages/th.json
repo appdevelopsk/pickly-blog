@@ -88,11 +88,11 @@
         "Filter life": "Annual at typical use"
       },
       "scores": {
-        "Air purification": 5.0,
-        "Personal airflow": 4.5,
-        "Noise level": 4.3,
-        "Value for money": 3.0,
-        "Safety": 5.0
+        "การทำความสะอาดอากาศ": 5,
+        "การไหลของอากาศส่วนบุคคล": 4.5,
+        "ระดับเสียง": 4.3,
+        "ความคุ้มค่าของเงิน": 3,
+        "ความปลอดภัย": 5
       }
     },
     {
@@ -118,11 +118,11 @@
         "Noise": "~45dB at max"
       },
       "scores": {
-        "Room circulation": 5.0,
-        "Personal airflow": 3.8,
-        "Portability": 4.7,
-        "Value for money": 4.6,
-        "Noise level": 4.2
+        "การหมุนเวียนของห้อง": 5,
+        "การไหลของอากาศส่วนบุคคล": 3.8,
+        "ความสามารถในการพกพา": 4.7,
+        "ความคุ้มค่าของเงิน": 4.6,
+        "ระดับเสียง": 4.2
       }
     },
     {
@@ -148,11 +148,11 @@
         "Noise": "~40dB (low) to ~55dB (high)"
       },
       "scores": {
-        "Airflow volume": 4.8,
-        "Value for money": 5.0,
-        "Noise level": 3.8,
-        "Portability": 4.5,
-        "Features": 2.5
+        "ปริมาณการไหลของอากาศ": 4.8,
+        "ความคุ้มค่าของเงิน": 5,
+        "ระดับเสียง": 3.8,
+        "ความสามารถในการพกพา": 4.5,
+        "คุณลักษณะ": 2.5
       }
     },
     {
@@ -179,11 +179,11 @@
         "Voltage": "100V (Japan)"
       },
       "scores": {
-        "Energy efficiency": 5.0,
-        "Noise level": 4.8,
-        "Value (long-term)": 4.7,
-        "Airflow quality": 4.5,
-        "Build quality": 4.7
+        "ประสิทธิภาพด้านพลังงาน": 5,
+        "ระดับเสียง": 4.8,
+        "ความคุ้มค่า (ระยะยาว)": 4.7,
+        "คุณภาพการไหลของอากาศ": 4.5,
+        "คุณภาพการสร้าง": 4.7
       }
     },
     {
@@ -209,11 +209,11 @@
         "Compatibility": "USB-C PD, most laptops and monitors"
       },
       "scores": {
-        "Convenience": 5.0,
-        "Noise level": 4.9,
-        "Airflow volume": 3.2,
-        "Value for money": 4.3,
-        "Portability": 5.0
+        "ความสะดวก": 5,
+        "ระดับเสียง": 4.9,
+        "ปริมาณการไหลของอากาศ": 3.2,
+        "ความคุ้มค่าของเงิน": 4.3,
+        "ความสามารถในการพกพา": 5
       }
     }
   ],

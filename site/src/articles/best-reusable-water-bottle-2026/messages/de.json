@@ -74,8 +74,14 @@
       "offerId": "hydro-flask-standard-mouth-21oz",
       "badge": "Bestes Gesamtpaket",
       "review": "Die Hydro Flask 21oz liefert 24-Stunden-Kälte-Spezifikation mit einem Deckel, der beim Schließen tatsächlich dichtet — das Sport Cap Push-Pull-Ventil ist das zuverlässigste einhändige Trinkventil in diesem Vergleich. Der Kompromiss ist die 38mm-Öffnung: Ein Flaschenbürste erreicht den Boden, aber die Hand nicht, was die Reinigung nach Proteinshakes etwas aufwändiger macht.",
-      "pros": ["TempShield Doppelwand hält Getränke 8–12 Stunden kalt im täglichen Gebrauch", "Sport Cap Push-Pull-Deckel — zuverlässige einhändige Abdichtung", "Kompakte 21oz passen in die meisten Getränkehalter und Taschen-Seitenfächer"],
-      "cons": ["38mm Öffnung erfordert eine Bürste zur Reinigung — kein Handzugang"],
+      "pros": [
+        "TempShield Doppelwand hält Getränke 8–12 Stunden kalt im täglichen Gebrauch",
+        "Sport Cap Push-Pull-Deckel — zuverlässige einhändige Abdichtung",
+        "Kompakte 21oz passen in die meisten Getränkehalter und Taschen-Seitenfächer"
+      ],
+      "cons": [
+        "38mm Öffnung erfordert eine Bürste zur Reinigung — kein Handzugang"
+      ],
       "grade": "A+",
       "specs": {
         "Kapazität": "21oz (621ml)",
@@ -86,19 +92,25 @@
         "Mundöffnung": "38mm"
       },
       "scores": {
-        "Insulation": 4.8,
-        "Leak resistance": 4.9,
-        "Durability": 4.7,
-        "Value": 4.3,
-        "Ease of cleaning": 3.5
+        "Isolierung": 4.8,
+        "Auslaufresistenz": 4.9,
+        "Haltbarkeit": 4.7,
+        "Wert": 4.3,
+        "Reinigungsfreundlichkeit": 3.5
       }
     },
     {
       "offerId": "nalgene-sustain-wide-mouth-32oz",
       "badge": "Bestes leichtes Modell",
       "review": "Mit 180g ist die Nalgene Sustain 40% so leicht wie die Hydro Flask — die richtige Wahl für ultraleichtes Wandern oder Fitnessstudio-Sessions unter 90 Minuten, bei denen Kältehaltung keine Rolle spielt. Aus 50% recyceltem Tritan gefertigt, vollständig spülmaschinenfest, und die 63mm-Weithalsöffnung ermöglicht die Reinigung von Hand ohne Bürste. Die einzige wirkliche Einschränkung ist null Isolierung: Die Flüssigkeit erreicht die Umgebungstemperatur in weniger als 45 Minuten.",
-      "pros": ["180g leer — leichteste Flasche im Vergleich mit großem Abstand", "63mm Weithalsöffnung ermöglicht Handreinigung ohne Bürste", "Vollständig spülmaschinenfest, BPA/BPS-frei aus recyceltem Tritan"],
-      "cons": ["Keine Isolierung — warm in 30–45 Minuten bei Raumtemperatur"],
+      "pros": [
+        "180g leer — leichteste Flasche im Vergleich mit großem Abstand",
+        "63mm Weithalsöffnung ermöglicht Handreinigung ohne Bürste",
+        "Vollständig spülmaschinenfest, BPA/BPS-frei aus recyceltem Tritan"
+      ],
+      "cons": [
+        "Keine Isolierung — warm in 30–45 Minuten bei Raumtemperatur"
+      ],
       "grade": "A",
       "specs": {
         "Kapazität": "32oz (946ml)",
@@ -109,19 +121,25 @@
         "Spülmaschinenfest": "Ja (Oberkorb)"
       },
       "scores": {
-        "Insulation": 1.5,
-        "Leak resistance": 4.8,
-        "Durability": 4.6,
-        "Value": 4.9,
-        "Ease of cleaning": 5.0
+        "Isolierung": 1.5,
+        "Auslaufresistenz": 4.8,
+        "Haltbarkeit": 4.6,
+        "Wert": 4.9,
+        "Reinigungsfreundlichkeit": 5
       }
     },
     {
       "offerId": "camelbak-chute-mag-25oz",
       "badge": "Bestes Deckeldesign",
       "review": "Der magnetische Chute Mag-Deckel löst das praktische Ärgernis der meisten Flaschendeckel — man muss nie danach suchen oder ihn auf einer Oberfläche balancieren. Er rastet an der Rückseite der Flasche ein und bleibt dort. Die Kältehaltung entspricht in der Praxis der Hydro Flask mit 8–12 Stunden. Der geneigte Ausguss erfordert das Kippen zum Trinken statt eines geraden Schlucks, was manche am Schreibtisch als unbequem empfinden.",
-      "pros": ["Magnetischer Deckel parkt an der Flaschenrückseite — kein Deckel-Jonglieren beim Trinken", "25h Kälte-Spez., 8–12h im täglichen Gebrauch vergleichbar mit Hydro Flask", "46mm Öffnung passt eine Flaschenbürste mit Verlängerung für vollständige Reinigung"],
-      "cons": ["Geneigter Ausguss erfordert Kippen — am Schreibtisch weniger praktisch als ein Beißventil"],
+      "pros": [
+        "Magnetischer Deckel parkt an der Flaschenrückseite — kein Deckel-Jonglieren beim Trinken",
+        "25h Kälte-Spez., 8–12h im täglichen Gebrauch vergleichbar mit Hydro Flask",
+        "46mm Öffnung passt eine Flaschenbürste mit Verlängerung für vollständige Reinigung"
+      ],
+      "cons": [
+        "Geneigter Ausguss erfordert Kippen — am Schreibtisch weniger praktisch als ein Beißventil"
+      ],
       "grade": "B+",
       "specs": {
         "Kapazität": "25oz (740ml)",
@@ -132,19 +150,25 @@
         "Mundöffnung": "46mm"
       },
       "scores": {
-        "Insulation": 4.7,
-        "Leak resistance": 4.8,
-        "Durability": 4.5,
-        "Value": 4.2,
-        "Ease of cleaning": 3.8
+        "Isolierung": 4.7,
+        "Auslaufresistenz": 4.8,
+        "Haltbarkeit": 4.5,
+        "Wert": 4.2,
+        "Reinigungsfreundlichkeit": 3.8
       }
     },
     {
       "offerId": "stanley-classic-legendary-36oz",
       "badge": "Bestes für Outdoor",
       "review": "Die Kapazität von 36oz und das Becher-als-Deckel-Design der Stanley Classic Legendary machen sie zur besten Wander- und Campingflasche in diesem Vergleich — 27 Stunden Kälte-Spezifikation, vollständiges Edelstahl-Außengehäuse ohne sichtbare Abplatzungen bei Stürzen, und ein spülmaschinenfester Körper. Der Kompromiss ist das Gewicht: 540g leer ist die schwerste Flasche hier, und das Becher-Deckel-Format erfordert zwei Hände zum Öffnen.",
-      "pros": ["36oz-Kapazität für 3–4 Stunden Wandern ohne Nachfüllen", "27h kalt / 24h warm — längste Spez.-Haltedauer im Vergleich", "Vollständiges Edelstahl-Außengehäuse — kein Pulverlack, der absplittert"],
-      "cons": ["540g leer — schwerste Flasche; Becher-als-Deckel erfordert zwei Hände zum Öffnen"],
+      "pros": [
+        "36oz-Kapazität für 3–4 Stunden Wandern ohne Nachfüllen",
+        "27h kalt / 24h warm — längste Spez.-Haltedauer im Vergleich",
+        "Vollständiges Edelstahl-Außengehäuse — kein Pulverlack, der absplittert"
+      ],
+      "cons": [
+        "540g leer — schwerste Flasche; Becher-als-Deckel erfordert zwei Hände zum Öffnen"
+      ],
       "grade": "B",
       "specs": {
         "Kapazität": "36oz (1,06L)",
@@ -155,19 +179,25 @@
         "Körper spülmaschinenfest": "Ja"
       },
       "scores": {
-        "Insulation": 4.9,
-        "Leak resistance": 4.5,
-        "Durability": 4.9,
-        "Value": 4.6,
-        "Ease of cleaning": 3.9
+        "Isolierung": 4.9,
+        "Auslaufresistenz": 4.5,
+        "Haltbarkeit": 4.9,
+        "Wert": 4.6,
+        "Reinigungsfreundlichkeit": 3.9
       }
     },
     {
       "offerId": "klean-kanteen-classic-27oz",
       "badge": "Bestes für Geschmacksneutralität",
       "review": "Die Klean Kanteen Classic 27oz ist einwandiger 18/8-Edelstahl ohne Isolierung — sie erreicht die Umgebungstemperatur in 1–2 Stunden, genau wie die Nalgene, aber das Edelstahl-Innere nimmt null Geschmack von Kaffee oder Fruchtsaft auf, was Kunststoff über Monate der Nutzung nicht leisten kann. Das richtige Modell, wenn Geschmacksneutralität und einfache Reinigung wichtiger sind als Temperaturhaltung, und das Gewicht von 215g ist das zweitgeringste im Vergleich.",
-      "pros": ["18/8 Edelstahl-Inneres nimmt keinen Geschmack von Kaffee, Saft oder Sportgetränken auf", "215g leer — zweitleichteste im Vergleich", "Körper spülmaschinenfest, null bewegliche Teile am Deckel"],
-      "cons": ["Keine Isolierung — erreicht Umgebungstemperatur in 1–2 Stunden; außen Kondensation bei Feuchtigkeit"],
+      "pros": [
+        "18/8 Edelstahl-Inneres nimmt keinen Geschmack von Kaffee, Saft oder Sportgetränken auf",
+        "215g leer — zweitleichteste im Vergleich",
+        "Körper spülmaschinenfest, null bewegliche Teile am Deckel"
+      ],
+      "cons": [
+        "Keine Isolierung — erreicht Umgebungstemperatur in 1–2 Stunden; außen Kondensation bei Feuchtigkeit"
+      ],
       "grade": "B-",
       "specs": {
         "Kapazität": "27oz (800ml)",
@@ -178,11 +208,11 @@
         "Körper spülmaschinenfest": "Ja"
       },
       "scores": {
-        "Insulation": 1.8,
-        "Leak resistance": 4.7,
-        "Durability": 4.8,
-        "Value": 4.7,
-        "Ease of cleaning": 4.6
+        "Isolierung": 1.8,
+        "Auslaufresistenz": 4.7,
+        "Haltbarkeit": 4.8,
+        "Wert": 4.7,
+        "Reinigungsfreundlichkeit": 4.6
       }
     }
   ],

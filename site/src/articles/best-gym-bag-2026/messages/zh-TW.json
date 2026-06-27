@@ -120,58 +120,164 @@
       "offerId": "nike-brasilia-9-5-training-duffel",
       "badge": "整體最佳",
       "review": "36升中號可容納健身+通勤所需的一套換洗衣物，適合大多數健身房置物櫃，獨立透氣鞋類隔層確實能將鞋子與乾淨裝備分開。600D聚酯纖維承受得了置物櫃地板。不足之處：無泡棉筆電隔層，透氣鞋類隔層會讓部分異味滲透——對健身鞋尚可接受，但不適合和工作服一起放皮鞋。",
-      "pros": ["透氣鞋類隔層真正隔離鞋子", "36升中號適合大多數商業健身房置物櫃", "色彩選擇豐富，尺寸多樣（18–60升）"],
-      "cons": ["標準售價下無泡棉筆電隔層"],
+      "pros": [
+        "透氣鞋類隔層真正隔離鞋子",
+        "36升中號適合大多數商業健身房置物櫃",
+        "色彩選擇豐富，尺寸多樣（18–60升）"
+      ],
+      "cons": [
+        "標準售價下無泡棉筆電隔層"
+      ],
       "grade": "A+",
-      "specs": {"Capacity": "36升（中號）", "Material": "600D聚酯纖維", "Compartments": "鞋類隔層+乾濕物口袋+主隔層", "Dimensions": "51×28×28公分", "Price": "中階"},
-      "scores": {"Durability": 4.5, "Wet/dry separation": 4.3, "Locker fit": 4.5, "Comfort": 4.0, "Value": 4.5}
+      "specs": {
+        "Capacity": "36升（中號）",
+        "Material": "600D聚酯纖維",
+        "Compartments": "鞋類隔層+乾濕物口袋+主隔層",
+        "Dimensions": "51×28×28公分",
+        "Price": "中階"
+      },
+      "scores": {
+        "耐用性": 4.5,
+        "濕乾分離": 4.3,
+        "置物櫃貼身度": 4.5,
+        "舒適度": 4,
+        "性價比": 4.5
+      }
     },
     {
       "offerId": "under-armour-undeniable-5-duffel",
       "badge": "最佳防水性",
       "review": "UA Storm處理在小雨中比未處理聚酯纖維更能防水——對步行/騎車通勤者很有意義。可塑性內隔板讓你可以重新調整隔層結構，比固定佈局的手提袋有真正的優勢。濕物口袋限制：可放鞋子和濕毛巾，但完整的潮濕健身後換洗衣物會超出容量。機器清洗會破壞UA Storm塗層。",
-      "pros": ["UA Storm處理在雨中的表現優於標準聚酯纖維", "可塑性內隔板可靈活整理", "58升容量有充裕的備用空間"],
-      "cons": ["濕物口袋太小，無法容納完整的健身後潮濕換洗衣物"],
+      "pros": [
+        "UA Storm處理在雨中的表現優於標準聚酯纖維",
+        "可塑性內隔板可靈活整理",
+        "58升容量有充裕的備用空間"
+      ],
+      "cons": [
+        "濕物口袋太小，無法容納完整的健身後潮濕換洗衣物"
+      ],
       "grade": "A",
-      "specs": {"Capacity": "58升（中號）", "Material": "UA Storm聚酯纖維", "Compartments": "濕物口袋+可塑性主隔層", "Dimensions": "61×30×30公分", "Price": "中階"},
-      "scores": {"Durability": 4.3, "Wet/dry separation": 4.0, "Locker fit": 4.0, "Comfort": 4.2, "Value": 4.0}
+      "specs": {
+        "Capacity": "58升（中號）",
+        "Material": "UA Storm聚酯纖維",
+        "Compartments": "濕物口袋+可塑性主隔層",
+        "Dimensions": "61×30×30公分",
+        "Price": "中階"
+      },
+      "scores": {
+        "耐用性": 4.3,
+        "濕乾分離": 4,
+        "置物櫃貼身度": 4,
+        "舒適度": 4.2,
+        "性價比": 4
+      }
     },
     {
       "offerId": "gym-shark-everyday-gym-bag",
       "badge": "最佳風格",
       "review": "簡約設計不會顯得像運動裝備——主隔層相容筆電，泡棉肩帶讓通勤時負重更舒適。透氣鞋類袋處理鞋子分離。取捨：無密封濕物隔層，因此真正濕透的游泳後裝備需要在包內放另外的防水袋。",
-      "pros": ["簡約設計讓從健身房到街頭的過渡無縫", "泡棉筆電相容主隔層", "符合人體工學的泡棉肩帶減少通勤肩膀疲勞"],
-      "cons": ["無專屬密封濕物隔層——濕裝備處理僅限透氣鞋類袋"],
+      "pros": [
+        "簡約設計讓從健身房到街頭的過渡無縫",
+        "泡棉筆電相容主隔層",
+        "符合人體工學的泡棉肩帶減少通勤肩膀疲勞"
+      ],
+      "cons": [
+        "無專屬密封濕物隔層——濕裝備處理僅限透氣鞋類袋"
+      ],
       "grade": "B+",
-      "specs": {"Capacity": "約30升", "Material": "聚酯纖維", "Compartments": "鞋類袋+筆電相容主隔層", "Price": "中階"},
-      "scores": {"Durability": 4.0, "Wet/dry separation": 3.3, "Locker fit": 4.3, "Comfort": 4.5, "Value": 4.0}
+      "specs": {
+        "Capacity": "約30升",
+        "Material": "聚酯纖維",
+        "Compartments": "鞋類袋+筆電相容主隔層",
+        "Price": "中階"
+      },
+      "scores": {
+        "耐用性": 4,
+        "濕乾分離": 3.3,
+        "置物櫃貼身度": 4.3,
+        "舒適度": 4.5,
+        "性價比": 4
+      }
     },
     {
       "offerId": "adidas-defender-4-duffel",
       "badge": "通勤族最佳",
       "review": "最突出的功能是緊湊S號手提袋中的泡棉筆電隔層——使其成為這次比較中最實用的健身到辦公室包款。100%再生聚酯纖維與原生聚酯纖維性能相當。較小的濕物隔層是取捨：可放鞋子或濕衣物，但無法同時容納兩者。",
-      "pros": ["緊湊手提袋中的泡棉筆電隔層——這次比較中的獨有功能", "100%再生聚酯纖維，無性能取捨", "前置拉鏈口袋可快速取用物品，無需打開主隔層"],
-      "cons": ["濕物隔層可放鞋子或濕衣物——無法同時舒適容納兩者"],
+      "pros": [
+        "緊湊手提袋中的泡棉筆電隔層——這次比較中的獨有功能",
+        "100%再生聚酯纖維，無性能取捨",
+        "前置拉鏈口袋可快速取用物品，無需打開主隔層"
+      ],
+      "cons": [
+        "濕物隔層可放鞋子或濕衣物——無法同時舒適容納兩者"
+      ],
       "grade": "B",
-      "specs": {"Capacity": "S號（約30升）", "Material": "100%再生聚酯纖維", "Compartments": "鞋類/濕物口袋+泡棉筆電隔層+主隔層", "Price": "入門級"},
-      "scores": {"Durability": 4.0, "Wet/dry separation": 3.5, "Locker fit": 4.5, "Comfort": 3.8, "Value": 4.5}
+      "specs": {
+        "Capacity": "S號（約30升）",
+        "Material": "100%再生聚酯纖維",
+        "Compartments": "鞋類/濕物口袋+泡棉筆電隔層+主隔層",
+        "Price": "入門級"
+      },
+      "scores": {
+        "耐用性": 4,
+        "濕乾分離": 3.5,
+        "置物櫃貼身度": 4.5,
+        "舒適度": 3.8,
+        "性價比": 4.5
+      }
     },
     {
       "offerId": "gold-gym-gym-bag-backpack",
       "badge": "最佳預算",
       "review": "經濟型的Gold's Gym提供耐用聚酯纖維、獨立鞋類隔層和帶內置整理架的大主隔層。無乾濕特化——前提是你每次健身後立即通風。對於直接回家且價格是主要決策因素的買家，它能完成任務。",
-      "pros": ["標誌性健身品牌以入門級定價", "獨立鞋類隔層加內置整理口袋", "大主隔層，無需複雜的純健身打包"],
-      "cons": ["無專業乾濕分離——需要每次健身後立即通風"],
+      "pros": [
+        "標誌性健身品牌以入門級定價",
+        "獨立鞋類隔層加內置整理口袋",
+        "大主隔層，無需複雜的純健身打包"
+      ],
+      "cons": [
+        "無專業乾濕分離——需要每次健身後立即通風"
+      ],
       "grade": "B-",
-      "specs": {"Material": "聚酯纖維", "Compartments": "鞋類隔層+整理架+主隔層", "Price": "經濟型"},
-      "scores": {"Durability": 3.8, "Wet/dry separation": 2.8, "Locker fit": 4.5, "Comfort": 3.5, "Value": 5.0}
+      "specs": {
+        "Material": "聚酯纖維",
+        "Compartments": "鞋類隔層+整理架+主隔層",
+        "Price": "經濟型"
+      },
+      "scores": {
+        "耐用性": 3.8,
+        "濕乾分離": 2.8,
+        "置物櫃貼身度": 4.5,
+        "舒適度": 3.5,
+        "性價比": 5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "健身+通勤帶換洗衣物", "offerId": "nike-brasilia-9-5-training-duffel", "reason": "36升在置物櫃相容和足夠寬敞容納完整通勤裝備之間取得最佳平衡"},
-    {"label": "步行或騎車在雨中通勤", "offerId": "under-armour-undeniable-5-duffel", "reason": "UA Storm處理在這次比較中提供最佳表面防水性"},
-    {"label": "想要街頭風格的健身者", "offerId": "gym-shark-everyday-gym-bag", "reason": "簡約設計和筆電相容性，外觀不像運動包"},
-    {"label": "帶筆電健身到辦公室", "offerId": "adidas-defender-4-duffel", "reason": "這裡唯一以緊湊、置物櫃友好的格式配備泡棉筆電隔層的包款"},
-    {"label": "純健身用途預算選擇", "offerId": "gold-gym-gym-bag-backpack", "reason": "經濟價格即可獲得鞋類隔層和足夠的標準健身裝備主空間"}
+    {
+      "label": "健身+通勤帶換洗衣物",
+      "offerId": "nike-brasilia-9-5-training-duffel",
+      "reason": "36升在置物櫃相容和足夠寬敞容納完整通勤裝備之間取得最佳平衡"
+    },
+    {
+      "label": "步行或騎車在雨中通勤",
+      "offerId": "under-armour-undeniable-5-duffel",
+      "reason": "UA Storm處理在這次比較中提供最佳表面防水性"
+    },
+    {
+      "label": "想要街頭風格的健身者",
+      "offerId": "gym-shark-everyday-gym-bag",
+      "reason": "簡約設計和筆電相容性，外觀不像運動包"
+    },
+    {
+      "label": "帶筆電健身到辦公室",
+      "offerId": "adidas-defender-4-duffel",
+      "reason": "這裡唯一以緊湊、置物櫃友好的格式配備泡棉筆電隔層的包款"
+    },
+    {
+      "label": "純健身用途預算選擇",
+      "offerId": "gold-gym-gym-bag-backpack",
+      "reason": "經濟價格即可獲得鞋類隔層和足夠的標準健身裝備主空間"
+    }
   ]
 }

@@ -64,58 +64,169 @@
       "offerId": "rishi-masala-chai",
       "badge": "Terbaik Keseluruhan",
       "review": "Rishi Masala Chai adalah chai daun lepas masala chai yang menjadi tolok ukur — dasar Assam dengan polong kapulaga, serpihan kayu manis utuh, jahe, lada hitam, dan cengkeh yang diseduh menjadi profil rempah berlapis yang tidak dapat ditiru oleh kantong teh. Sumber langsung dari pertanian terlihat pada dasar teh yang maltis dan tidak sepat. Langkah penyaringan 30 detik adalah satu-satunya hambatan, dan itu sepadan untuk peminum chai yang serius.",
-      "pros": ["Rempah utuh menghasilkan aroma berlapis yang tidak tersedia dalam kantong teh yang sudah digiling", "Dasar Assam langsung dari pertanian — maltis, kompleks, tidak pahit", "18–22 sajian per kantong — biaya sebanding dengan kantong teh berkualitas"],
-      "cons": ["Memerlukan saringan — satu langkah ekstra vs kantong atau konsentrat"],
+      "pros": [
+        "Rempah utuh menghasilkan aroma berlapis yang tidak tersedia dalam kantong teh yang sudah digiling",
+        "Dasar Assam langsung dari pertanian — maltis, kompleks, tidak pahit",
+        "18–22 sajian per kantong — biaya sebanding dengan kantong teh berkualitas"
+      ],
+      "cons": [
+        "Memerlukan saringan — satu langkah ekstra vs kantong atau konsentrat"
+      ],
       "grade": "A+",
-      "specs": {"Format": "Daun lepas", "Dasar teh": "Teh hitam Assam", "Sajian": "18–22 per kantong 2.82 oz", "Rempah dominan": "Kapulaga", "Harga per sajian": "$0.60–0.80"},
-      "scores": {"Taste": 4.9, "Quality": 4.8, "Value": 4.2, "Convenience": 3.2, "Versatility": 4.5}
+      "specs": {
+        "Format": "Daun lepas",
+        "Dasar teh": "Teh hitam Assam",
+        "Sajian": "18–22 per kantong 2.82 oz",
+        "Rempah dominan": "Kapulaga",
+        "Harga per sajian": "$0.60–0.80"
+      },
+      "scores": {
+        "Rasa": 4.9,
+        "Kualitas": 4.8,
+        "Nilai": 4.2,
+        "Kemudahan": 3.2,
+        "Keserbagunaan": 4.5
+      }
     },
     {
       "offerId": "harney-sons-hot-cinnamon-spice",
       "badge": "Teh Hitam Berbumbu Terbaik",
       "review": "Hot Cinnamon Spice bukan masala chai tradisional — ini adalah teh hitam dengan tiga jenis kayu manis, kulit jeruk, dan cengkeh manis. Memahami perbedaan itu penting: jika Anda menginginkan masala chai Asia Selatan, ini adalah produk yang salah. Jika Anda menginginkan teh berbumbu yang hangat dan didominasi kayu manis yang sangat cocok untuk cold brew semalam dalam susu, ini adalah salah satu yang terbaik dalam kategorinya.",
-      "pros": ["Sangat didominasi kayu manis — menyenangkan banyak orang tanpa kompleksitas rempah", "Sangat cocok untuk cold brew semalam dalam susu untuk chai es di pagi hari", "50 kantong per kaleng — nilai kuat di $10–14"],
-      "cons": ["Bukan masala chai tradisional — tidak ada jahe, kapulaga minimal"],
+      "pros": [
+        "Sangat didominasi kayu manis — menyenangkan banyak orang tanpa kompleksitas rempah",
+        "Sangat cocok untuk cold brew semalam dalam susu untuk chai es di pagi hari",
+        "50 kantong per kaleng — nilai kuat di $10–14"
+      ],
+      "cons": [
+        "Bukan masala chai tradisional — tidak ada jahe, kapulaga minimal"
+      ],
       "grade": "A",
-      "specs": {"Format": "Kantong teh (50 buah)", "Dasar teh": "Teh hitam", "Rempah dominan": "Triple kayu manis + kulit jeruk + cengkeh", "Harga per kantong": "$0.20–0.28", "Cold brew": "Ya — sangat cocok"},
-      "scores": {"Taste": 4.7, "Quality": 4.5, "Value": 4.6, "Convenience": 4.8, "Versatility": 4.0}
+      "specs": {
+        "Format": "Kantong teh (50 buah)",
+        "Dasar teh": "Teh hitam",
+        "Rempah dominan": "Triple kayu manis + kulit jeruk + cengkeh",
+        "Harga per kantong": "$0.20–0.28",
+        "Cold brew": "Ya — sangat cocok"
+      },
+      "scores": {
+        "Rasa": 4.7,
+        "Kualitas": 4.5,
+        "Nilai": 4.6,
+        "Kemudahan": 4.8,
+        "Keserbagunaan": 4
+      }
     },
     {
       "offerId": "tazo-chai-concentrate",
       "badge": "Konsentrat Anggaran Terbaik",
       "review": "Tazo Chai Concentrate adalah cara yang terjangkau untuk membuat chai latte di rumah — campur 1:1 dengan susu panas, selesai. Hasil manis-berbumbu yang konsisten dan meniru chai kedai kopi dengan biaya yang jauh lebih rendah. Jauh lebih manis dan kurang kompleks dari daun lepas, tetapi untuk minuman pagi hari yang cepat, ini dapat diandalkan.",
-      "pros": ["Tersedia luas di toko kelontong arus utama", "Rasa manis-berbumbu yang konsisten dan dapat diprediksi setiap saat", "Biaya per sajian rendah di $5–8 per 32 oz"],
-      "cons": ["Kurang bernuansa dari daun lepas — kedalaman rempah terbatas", "Kandungan gula lebih tinggi dibandingkan menyeduh dari daun atau kantong"],
+      "pros": [
+        "Tersedia luas di toko kelontong arus utama",
+        "Rasa manis-berbumbu yang konsisten dan dapat diprediksi setiap saat",
+        "Biaya per sajian rendah di $5–8 per 32 oz"
+      ],
+      "cons": [
+        "Kurang bernuansa dari daun lepas — kedalaman rempah terbatas",
+        "Kandungan gula lebih tinggi dibandingkan menyeduh dari daun atau kantong"
+      ],
       "grade": "B+",
-      "specs": {"Format": "Konsentrat cair (32 oz)", "Rasio campuran": "1:1 dengan susu", "Sajian": "~16 per karton", "Harga per sajian": "$0.31–0.50", "Gula": "Sedang (gula tebu tambahan)"},
-      "scores": {"Taste": 3.9, "Quality": 3.6, "Value": 4.5, "Convenience": 4.9, "Versatility": 3.5}
+      "specs": {
+        "Format": "Konsentrat cair (32 oz)",
+        "Rasio campuran": "1:1 dengan susu",
+        "Sajian": "~16 per karton",
+        "Harga per sajian": "$0.31–0.50",
+        "Gula": "Sedang (gula tebu tambahan)"
+      },
+      "scores": {
+        "Rasa": 3.9,
+        "Kualitas": 3.6,
+        "Nilai": 4.5,
+        "Kemudahan": 4.9,
+        "Keserbagunaan": 3.5
+      }
     },
     {
       "offerId": "oregon-chai-original-concentrate",
       "badge": "Replika Latte Kafe Terbaik",
       "review": "Oregon Chai Original adalah standar pasar untuk konsentrat chai latte — manis, didominasi kapulaga, dirancang untuk terasa seperti chai Starbucks di rumah. Pada rasio penuh 1:1 kemanisannya menonjol (15g gula per sajian); banyak pengguna lebih suka 1:2 konsentrat-ke-susu untuk keseimbangan yang lebih baik. Versi Tanpa Pemanis memungkinkan kontrol pemanis independen untuk cangkir yang lebih dapat disesuaikan.",
-      "pros": ["Replikasi chai latte kedai kopi paling akurat di rumah", "Tersedia luas, termasuk versi tanpa pemanis", "Profil rempah didominasi kapulaga yang disukai peminum latte"],
-      "cons": ["15g gula per sajian pada rasio standar — sesuaikan dengan versi tanpa pemanis"],
+      "pros": [
+        "Replikasi chai latte kedai kopi paling akurat di rumah",
+        "Tersedia luas, termasuk versi tanpa pemanis",
+        "Profil rempah didominasi kapulaga yang disukai peminum latte"
+      ],
+      "cons": [
+        "15g gula per sajian pada rasio standar — sesuaikan dengan versi tanpa pemanis"
+      ],
       "grade": "B",
-      "specs": {"Format": "Konsentrat cair (32 oz)", "Rasio campuran": "1:1 dengan susu (atau 1:2 untuk lebih sedikit manis)", "Sajian": "~16 per karton", "Gula": "15g per sajian (standar)", "Tanpa pemanis": "Tersedia"},
-      "scores": {"Taste": 4.1, "Quality": 3.7, "Value": 4.3, "Convenience": 4.9, "Versatility": 3.8}
+      "specs": {
+        "Format": "Konsentrat cair (32 oz)",
+        "Rasio campuran": "1:1 dengan susu (atau 1:2 untuk lebih sedikit manis)",
+        "Sajian": "~16 per karton",
+        "Gula": "15g per sajian (standar)",
+        "Tanpa pemanis": "Tersedia"
+      },
+      "scores": {
+        "Rasa": 4.1,
+        "Kualitas": 3.7,
+        "Nilai": 4.3,
+        "Kemudahan": 4.9,
+        "Keserbagunaan": 3.8
+      }
     },
     {
       "offerId": "david-rio-elephant-vanilla-chai",
       "badge": "Format Paling Nyaman",
       "review": "Bubuk David Rio Elephant Vanilla Chai adalah format chai yang paling tidak merepotkan: sendok ke dalam susu panas, aduk, selesai — tidak ada penyeduhan, tidak ada konsentrat yang didinginkan, tidak ada pengukusan. Profil yang didominasi vanilla lebih lembut dan lebih manis dari masala chai tradisional, yang membuatnya dapat diakses tetapi tidak autentik. Ideal untuk perjalanan, penggunaan kantor, atau siapa pun yang menginginkan minuman seperti chai dengan nol pengaturan.",
-      "pros": ["Nol persiapan — larut langsung dalam susu panas", "Tidak perlu pendinginan — cocok untuk perjalanan dan kantor", "Profil rempah yang lembut dan didominasi vanilla cocok untuk pemula"],
-      "cons": ["Rasa masala chai paling tidak autentik — vanilla mendominasi keseimbangan rempah tradisional"],
+      "pros": [
+        "Nol persiapan — larut langsung dalam susu panas",
+        "Tidak perlu pendinginan — cocok untuk perjalanan dan kantor",
+        "Profil rempah yang lembut dan didominasi vanilla cocok untuk pemula"
+      ],
+      "cons": [
+        "Rasa masala chai paling tidak autentik — vanilla mendominasi keseimbangan rempah tradisional"
+      ],
       "grade": "B-",
-      "specs": {"Format": "Bubuk (16 oz)", "Sajian": "16–20 per kantong", "Rasa dominan": "Vanilla", "Metode persiapan": "Larutkan dalam susu/air panas", "Harga per sajian": "$0.75–1.25"},
-      "scores": {"Taste": 4.0, "Quality": 3.5, "Value": 3.8, "Convenience": 5.0, "Versatility": 3.2}
+      "specs": {
+        "Format": "Bubuk (16 oz)",
+        "Sajian": "16–20 per kantong",
+        "Rasa dominan": "Vanilla",
+        "Metode persiapan": "Larutkan dalam susu/air panas",
+        "Harga per sajian": "$0.75–1.25"
+      },
+      "scores": {
+        "Rasa": 4,
+        "Kualitas": 3.5,
+        "Nilai": 3.8,
+        "Kemudahan": 5,
+        "Keserbagunaan": 3.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk peminum masala chai tradisional", "offerId": "rishi-masala-chai", "reason": "Daun lepas rempah utuh dengan dasar Assam asli — satu-satunya pilihan di sini yang menghasilkan cangkir yang mendekati tradisi chai Asia Selatan."},
-    {"label": "Untuk penggemar chai es cold brew", "offerId": "harney-sons-hot-cinnamon-spice", "reason": "Sangat didominasi kayu manis dan indah saat cold brew semalam dalam susu — menghasilkan chai es yang manis alami dan halus."},
-    {"label": "Untuk chai latte cepat di hari kerja", "offerId": "tazo-chai-concentrate", "reason": "Konsentrat termurah dan paling tersedia — campur dengan susu panas dalam 60 detik."},
-    {"label": "Untuk meniru chai kedai kopi", "offerId": "oregon-chai-original-concentrate", "reason": "Profil manis kapulaga paling dekat dengan rasa chai latte kafe — gunakan 1:2 jika rasio standar terlalu manis."},
-    {"label": "Untuk perjalanan dan situasi tanpa persiapan", "offerId": "david-rio-elephant-vanilla-chai", "reason": "Bubuk larut dalam susu panas apa pun — tidak perlu pendinginan, tidak perlu penyeduhan, bekerja di mana saja."}
+    {
+      "label": "Untuk peminum masala chai tradisional",
+      "offerId": "rishi-masala-chai",
+      "reason": "Daun lepas rempah utuh dengan dasar Assam asli — satu-satunya pilihan di sini yang menghasilkan cangkir yang mendekati tradisi chai Asia Selatan."
+    },
+    {
+      "label": "Untuk penggemar chai es cold brew",
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "reason": "Sangat didominasi kayu manis dan indah saat cold brew semalam dalam susu — menghasilkan chai es yang manis alami dan halus."
+    },
+    {
+      "label": "Untuk chai latte cepat di hari kerja",
+      "offerId": "tazo-chai-concentrate",
+      "reason": "Konsentrat termurah dan paling tersedia — campur dengan susu panas dalam 60 detik."
+    },
+    {
+      "label": "Untuk meniru chai kedai kopi",
+      "offerId": "oregon-chai-original-concentrate",
+      "reason": "Profil manis kapulaga paling dekat dengan rasa chai latte kafe — gunakan 1:2 jika rasio standar terlalu manis."
+    },
+    {
+      "label": "Untuk perjalanan dan situasi tanpa persiapan",
+      "offerId": "david-rio-elephant-vanilla-chai",
+      "reason": "Bubuk larut dalam susu panas apa pun — tidak perlu pendinginan, tidak perlu penyeduhan, bekerja di mana saja."
+    }
   ]
 }

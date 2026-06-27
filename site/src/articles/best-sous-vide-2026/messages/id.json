@@ -92,58 +92,173 @@
       "offerId": "anova-precision-cooker-pro",
       "badge": "Terbaik Keseluruhan",
       "review": "Anova Precision Cooker Pro menetapkan tolok ukur untuk sous vide rumahan serius: 1200W menangani wadah besar tanpa kesulitan, presisi ±0,1°C penting untuk telur dan ikan, dan unitnya beroperasi sepenuhnya secara manual tanpa memerlukan aplikasi. WiFi menambah pemantauan jarak jauh opsional untuk memasak semalaman — keunggulan praktis saat Anda tidur dan pork shoulder 24 jam masih berjalan.",
-      "pros": ["Motor 1200W menangani wadah hingga 100L tanpa tersendat", "Kontrol manual penuh — bekerja tanpa aplikasi atau WiFi", "Presisi ±0,1°C andal untuk telur dan protein yang sensitif terhadap suhu"],
-      "cons": ["$199 adalah harga tertinggi bersama dalam perbandingan ini"],
+      "pros": [
+        "Motor 1200W menangani wadah hingga 100L tanpa tersendat",
+        "Kontrol manual penuh — bekerja tanpa aplikasi atau WiFi",
+        "Presisi ±0,1°C andal untuk telur dan protein yang sensitif terhadap suhu"
+      ],
+      "cons": [
+        "$199 adalah harga tertinggi bersama dalam perbandingan ini"
+      ],
       "grade": "A+",
-      "specs": {"Power": "1200W", "Temp accuracy": "±0.1°C", "Temp range": "0–92°C", "Container max": "100L", "Connectivity": "WiFi + Bluetooth", "Dimensions": "38cm tall, 490g"},
-      "scores": {"Temperature accuracy": 4.9, "Power": 5.0, "Ease of use": 4.5, "Value": 3.8, "Noise": 4.0}
+      "specs": {
+        "Power": "1200W",
+        "Temp accuracy": "±0.1°C",
+        "Temp range": "0–92°C",
+        "Container max": "100L",
+        "Connectivity": "WiFi + Bluetooth",
+        "Dimensions": "38cm tall, 490g"
+      },
+      "scores": {
+        "Akurasi Suhu": 4.9,
+        "Daya": 5,
+        "Kemudahan Penggunaan": 4.5,
+        "Nilai": 3.8,
+        "Bising": 4
+      }
     },
     {
       "offerId": "breville-joule-turbo",
       "badge": "Desain Kompak Terbaik",
       "review": "Breville Joule Turbo adalah unit berdaya penuh terkecil dalam perbandingan ini pada 28cm dan 281g, dan mode Turbo-nya benar-benar mengurangi waktu pemanasan hingga 30% — berarti untuk memasak hari kerja saat Anda ingin memulai penangas sebelum memotong sayuran. Operasi hanya-aplikasi adalah ketergantungan nyata: jika aplikasi kehilangan dukungan untuk OS ponsel Anda, unitnya menjadi tidak dapat dioperasikan.",
-      "pros": ["Unit berdaya penuh terkecil dan teringan — 28cm, 281g", "Mode Turbo mengurangi waktu pemanasan hingga 30%", "Aplikasi yang dirancang baik dengan waktu memasak terpandu untuk protein umum"],
-      "cons": ["Operasi hanya-aplikasi — tidak ada kontrol manual pada unitnya sendiri"],
+      "pros": [
+        "Unit berdaya penuh terkecil dan teringan — 28cm, 281g",
+        "Mode Turbo mengurangi waktu pemanasan hingga 30%",
+        "Aplikasi yang dirancang baik dengan waktu memasak terpandu untuk protein umum"
+      ],
+      "cons": [
+        "Operasi hanya-aplikasi — tidak ada kontrol manual pada unitnya sendiri"
+      ],
       "grade": "A",
-      "specs": {"Power": "1100W", "Temp accuracy": "±0.1°C", "Temp range": "25–99°C", "Container max": "30L", "Connectivity": "WiFi (required)", "Dimensions": "28cm tall, 281g"},
-      "scores": {"Temperature accuracy": 4.8, "Power": 4.7, "Ease of use": 4.0, "Value": 3.9, "Noise": 4.5}
+      "specs": {
+        "Power": "1100W",
+        "Temp accuracy": "±0.1°C",
+        "Temp range": "25–99°C",
+        "Container max": "30L",
+        "Connectivity": "WiFi (required)",
+        "Dimensions": "28cm tall, 281g"
+      },
+      "scores": {
+        "Akurasi Suhu": 4.8,
+        "Daya": 4.7,
+        "Kemudahan Penggunaan": 4,
+        "Nilai": 3.9,
+        "Bising": 4.5
+      }
     },
     {
       "offerId": "inkbird-isv100w",
       "badge": "Pilihan WiFi Hemat Terbaik",
       "review": "Inkbird ISV-100W menghadirkan konektivitas WiFi dan kontrol fisik manual pada harga yang jauh di bawah Anova dan Breville. Akurasi ±0,5°C memadai untuk steak, ayam, dan babi — ia menjadi keterbatasan hanya untuk telur dan ikan di mana jendela suhu sempit penting. Atur ke titik tengah dari rentang suhu target Anda dan ia berkinerja andal untuk memasak sehari-hari.",
-      "pros": ["Dial dan layar manual — bekerja tanpa ponsel atau WiFi", "WiFi memungkinkan penjadwalan dan pemantauan jarak jauh opsional", "Harga hemat dengan akurasi memadai untuk sebagian besar protein"],
-      "cons": ["Akurasi ±0,5°C meleset dari jendela sempit untuk telur dan ikan halus"],
+      "pros": [
+        "Dial dan layar manual — bekerja tanpa ponsel atau WiFi",
+        "WiFi memungkinkan penjadwalan dan pemantauan jarak jauh opsional",
+        "Harga hemat dengan akurasi memadai untuk sebagian besar protein"
+      ],
+      "cons": [
+        "Akurasi ±0,5°C meleset dari jendela sempit untuk telur dan ikan halus"
+      ],
       "grade": "B+",
-      "specs": {"Power": "1000W", "Temp accuracy": "±0.5°C", "Temp range": "25–99.9°C", "Container max": "12L", "Connectivity": "WiFi + manual controls", "Dimensions": "33cm tall, ~900g"},
-      "scores": {"Temperature accuracy": 4.0, "Power": 4.3, "Ease of use": 4.7, "Value": 4.9, "Noise": 4.2}
+      "specs": {
+        "Power": "1000W",
+        "Temp accuracy": "±0.5°C",
+        "Temp range": "25–99.9°C",
+        "Container max": "12L",
+        "Connectivity": "WiFi + manual controls",
+        "Dimensions": "33cm tall, ~900g"
+      },
+      "scores": {
+        "Akurasi Suhu": 4,
+        "Daya": 4.3,
+        "Kemudahan Penggunaan": 4.7,
+        "Nilai": 4.9,
+        "Bising": 4.2
+      }
     },
     {
       "offerId": "wancle-sous-vide",
       "badge": "Opsi Tanpa Aplikasi Terbaik",
       "review": "Wancle Sous Vide Cooker adalah unit paling sederhana dalam perbandingan ini: putar dial untuk mengatur suhu dan waktu, klip ke panci mana pun, tinggalkan. Tanpa WiFi, tanpa akun cloud, tanpa pembaruan aplikasi yang bisa merusak fungsionalitas. Output 850W memadai untuk memasak satu hidangan dalam panci hingga 15L. Jika Anda tidak percaya peralatan yang bergantung aplikasi, ini adalah alternatif yang lugas.",
-      "pros": ["Tanpa aplikasi, tanpa WiFi, tanpa ketergantungan cloud — sepenuhnya mandiri", "Operasi dial sederhana dengan layar LED", "Andal untuk semua memasak sous vide dasar tanpa kerumitan"],
-      "cons": ["850W kesulitan dengan wadah besar — waktu pemanasan lebih lama daripada unit 1000W+"],
+      "pros": [
+        "Tanpa aplikasi, tanpa WiFi, tanpa ketergantungan cloud — sepenuhnya mandiri",
+        "Operasi dial sederhana dengan layar LED",
+        "Andal untuk semua memasak sous vide dasar tanpa kerumitan"
+      ],
+      "cons": [
+        "850W kesulitan dengan wadah besar — waktu pemanasan lebih lama daripada unit 1000W+"
+      ],
       "grade": "B",
-      "specs": {"Power": "850W", "Temp accuracy": "±0.5°C", "Temp range": "25–99.5°C", "Container max": "15L", "Connectivity": "None", "Dimensions": "30cm tall, ~800g"},
-      "scores": {"Temperature accuracy": 3.8, "Power": 3.5, "Ease of use": 5.0, "Value": 4.7, "Noise": 4.0}
+      "specs": {
+        "Power": "850W",
+        "Temp accuracy": "±0.5°C",
+        "Temp range": "25–99.5°C",
+        "Container max": "15L",
+        "Connectivity": "None",
+        "Dimensions": "30cm tall, ~800g"
+      },
+      "scores": {
+        "Akurasi Suhu": 3.8,
+        "Daya": 3.5,
+        "Kemudahan Penggunaan": 5,
+        "Nilai": 4.7,
+        "Bising": 4
+      }
     },
     {
       "offerId": "polyscience-creative-sous-vide",
       "badge": "Presisi Suhu Terbaik",
       "review": "PolyScience Creative Series adalah satu-satunya unit dalam perbandingan ini dengan garis keturunan dapur profesional dan stabilitas suhu ±0,07°C — presisi yang dibutuhkan dapur restoran untuk reproduktibilitas resep di ratusan batch. Untuk juru masak rumahan yang rutin menyiapkan telur 63°C atau salmon 45°C, presisi ini menghilangkan variansi tekstur yang diperkenalkan unit ±0,5°C. Harganya mencerminkan kualitas bangun kelas profesional.",
-      "pros": ["Stabilitas suhu ±0,07°C — presisi paling ketat dalam perbandingan ini", "Garis keturunan dapur profesional dengan perlindungan percikan ber-rating IP", "Kontrol manual tanpa ketergantungan aplikasi"],
-      "cons": ["Harga $329 sulit dibenarkan kecuali presisi untuk telur atau ikan adalah persyaratan utama"],
+      "pros": [
+        "Stabilitas suhu ±0,07°C — presisi paling ketat dalam perbandingan ini",
+        "Garis keturunan dapur profesional dengan perlindungan percikan ber-rating IP",
+        "Kontrol manual tanpa ketergantungan aplikasi"
+      ],
+      "cons": [
+        "Harga $329 sulit dibenarkan kecuali presisi untuk telur atau ikan adalah persyaratan utama"
+      ],
       "grade": "B-",
-      "specs": {"Power": "1100W", "Temp accuracy": "±0.07°C", "Temp range": "25–99°C", "Flow rate": "11.5L/min", "Connectivity": "None (manual only)", "Build": "Professional, IP-rated"},
-      "scores": {"Temperature accuracy": 5.0, "Power": 4.7, "Ease of use": 4.3, "Value": 3.0, "Noise": 3.8}
+      "specs": {
+        "Power": "1100W",
+        "Temp accuracy": "±0.07°C",
+        "Temp range": "25–99°C",
+        "Flow rate": "11.5L/min",
+        "Connectivity": "None (manual only)",
+        "Build": "Professional, IP-rated"
+      },
+      "scores": {
+        "Akurasi Suhu": 5,
+        "Daya": 4.7,
+        "Kemudahan Penggunaan": 4.3,
+        "Nilai": 3,
+        "Bising": 3.8
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk memasak semalaman dan batch besar", "offerId": "anova-precision-cooker-pro", "reason": "1200W menangani wadah 30L dan pemantauan WiFi memungkinkan Anda memeriksa suhu dari tempat tidur selama memasak pork shoulder 24 jam."},
-    {"label": "Untuk juru masak dapur kecil yang menginginkan pemanasan cepat", "offerId": "breville-joule-turbo", "reason": "Unit berdaya penuh terkecil dengan mode Turbo — pengurangan waktu pemanasan penting saat Anda memulai penangas selama persiapan makan malam hari kerja."},
-    {"label": "Untuk pembeli sous vide pertama kali dengan anggaran terbatas", "offerId": "inkbird-isv100w", "reason": "Pemantauan WiFi plus kontrol cadangan manual pada harga hemat — ±0,5°C cukup akurat untuk steak, ayam, dan pork shoulder."},
-    {"label": "Untuk pembeli yang tidak percaya peralatan yang bergantung aplikasi", "offerId": "wancle-sous-vide", "reason": "Hanya dial dan LED — tidak ada yang perlu diperbarui, tidak ada yang kehilangan konektivitas, tidak ada yang berhenti bekerja saat perusahaan merilis OS baru."},
-    {"label": "Untuk telur, ikan, dan memasak presisi yang dapat direproduksi", "offerId": "polyscience-creative-sous-vide", "reason": "Stabilitas ±0,07°C berarti telur 63°C keluar identik setiap pagi — presisi yang tidak bisa diberikan unit ±0,5°C secara andal."}
+    {
+      "label": "Untuk memasak semalaman dan batch besar",
+      "offerId": "anova-precision-cooker-pro",
+      "reason": "1200W menangani wadah 30L dan pemantauan WiFi memungkinkan Anda memeriksa suhu dari tempat tidur selama memasak pork shoulder 24 jam."
+    },
+    {
+      "label": "Untuk juru masak dapur kecil yang menginginkan pemanasan cepat",
+      "offerId": "breville-joule-turbo",
+      "reason": "Unit berdaya penuh terkecil dengan mode Turbo — pengurangan waktu pemanasan penting saat Anda memulai penangas selama persiapan makan malam hari kerja."
+    },
+    {
+      "label": "Untuk pembeli sous vide pertama kali dengan anggaran terbatas",
+      "offerId": "inkbird-isv100w",
+      "reason": "Pemantauan WiFi plus kontrol cadangan manual pada harga hemat — ±0,5°C cukup akurat untuk steak, ayam, dan pork shoulder."
+    },
+    {
+      "label": "Untuk pembeli yang tidak percaya peralatan yang bergantung aplikasi",
+      "offerId": "wancle-sous-vide",
+      "reason": "Hanya dial dan LED — tidak ada yang perlu diperbarui, tidak ada yang kehilangan konektivitas, tidak ada yang berhenti bekerja saat perusahaan merilis OS baru."
+    },
+    {
+      "label": "Untuk telur, ikan, dan memasak presisi yang dapat direproduksi",
+      "offerId": "polyscience-creative-sous-vide",
+      "reason": "Stabilitas ±0,07°C berarti telur 63°C keluar identik setiap pagi — presisi yang tidak bisa diberikan unit ±0,5°C secara andal."
+    }
   ]
 }

@@ -122,8 +122,14 @@
       "offerId": "conoha-wing",
       "badge": "종합 1위",
       "review": "ConoHa WING은 TTFB 198ms와 11분 만에 WordPress를 공개할 수 있는 최단 셋업을 달성했습니다. 일본어 대시보드는 사전 지식 없이도 사용 가능합니다. 36개월 캠페인 가격과 일반 갱신가의 차이가 크므로 계약 전 반드시 확인하세요.",
-      "pros": ["테스트 최고속 TTFB 198ms", "WordPress 간단 설정 11분 완료", "도메인 무료 제공 + 14일 자동 백업"],
-      "cons": ["전화 지원 없음 — 평일 채팅만 지원"],
+      "pros": [
+        "테스트 최고속 TTFB 198ms",
+        "WordPress 간단 설정 11분 완료",
+        "도메인 무료 제공 + 14일 자동 백업"
+      ],
+      "cons": [
+        "전화 지원 없음 — 평일 채팅만 지원"
+      ],
       "grade": "A+",
       "specs": {
         "초기 요금": "저가대 (36개월 플랜)",
@@ -134,19 +140,25 @@
         "업타임 SLA": "99.99%"
       },
       "scores": {
-        "Performance": 4.9,
-        "Uptime reliability": 4.7,
-        "Value": 4.6,
-        "Support quality": 3.8,
-        "Ease of setup": 4.9
+        "성능": 4.9,
+        "가동 신뢰성": 4.7,
+        "가성비": 4.6,
+        "지지 품질": 3.8,
+        "설정 용이성": 4.9
       }
     },
     {
       "offerId": "xserver",
       "badge": "안정성 1위",
       "review": "Xserver는 이 비교에서 유일하게 24시간 전화 지원을 제공하며 일본 최장 연속 가동 실적을 보유합니다. TTFB 268ms는 30일 내내 안정적이며 스파이크 없음. ConoHa보다 약 10% 비싼 가격은 수익 사이트를 위한 안심 보험료로 납득 가능합니다.",
-      "pros": ["일본 유일의 24시간 전화 지원", "10년 이상의 무중단 가동 실적", "KUSANAGI 튜닝된 WordPress 사전 설치"],
-      "cons": ["TTFB ConoHa보다 느림 (268ms vs 198ms); 관리 패널이 다소 구형"],
+      "pros": [
+        "일본 유일의 24시간 전화 지원",
+        "10년 이상의 무중단 가동 실적",
+        "KUSANAGI 튜닝된 WordPress 사전 설치"
+      ],
+      "cons": [
+        "TTFB ConoHa보다 느림 (268ms vs 198ms); 관리 패널이 다소 구형"
+      ],
       "grade": "A",
       "specs": {
         "초기 요금": "중급 가격대 (12개월 플랜)",
@@ -157,19 +169,25 @@
         "특징": "KUSANAGI WordPress 튜닝"
       },
       "scores": {
-        "Performance": 4.3,
-        "Uptime reliability": 5.0,
-        "Value": 4.1,
-        "Support quality": 5.0,
-        "Ease of setup": 4.2
+        "성능": 4.3,
+        "가동 신뢰성": 5,
+        "가성비": 4.1,
+        "지지 품질": 5,
+        "설정 용이성": 4.2
       }
     },
     {
       "offerId": "mixhost",
       "badge": "LiteSpeed 성능 1위",
       "review": "mixhost의 LiteSpeed + HTTP/3 스택은 200개 동시 접속에서도 TTFB 215ms를 유지합니다. 트래픽 급증 시 성능은 테스트 최우수입니다. 단점은 이메일 전용 지원(24시간 SLA)으로, 초보 블로거에게는 적합하지 않습니다.",
-      "pros": ["LiteSpeed/HTTP/3로 트래픽 급증 시도 안정된 속도 유지", "원클릭 WordPress + 무료 도메인 포함", "TTFB 215ms — ConoHa에 이어 2위"],
-      "cons": ["이메일 지원만 가능 — 긴급 문의 시 채팅·전화 없음"],
+      "pros": [
+        "LiteSpeed/HTTP/3로 트래픽 급증 시도 안정된 속도 유지",
+        "원클릭 WordPress + 무료 도메인 포함",
+        "TTFB 215ms — ConoHa에 이어 2위"
+      ],
+      "cons": [
+        "이메일 지원만 가능 — 긴급 문의 시 채팅·전화 없음"
+      ],
       "grade": "B+",
       "specs": {
         "초기 요금": "중급 가격대 (12개월 플랜)",
@@ -180,19 +198,25 @@
         "업타임 SLA": "99.99%"
       },
       "scores": {
-        "Performance": 4.7,
-        "Uptime reliability": 4.5,
-        "Value": 4.3,
-        "Support quality": 3.2,
-        "Ease of setup": 4.4
+        "성능": 4.7,
+        "가동 신뢰성": 4.5,
+        "가성비": 4.3,
+        "지지 품질": 3.2,
+        "설정 용이성": 4.4
       }
     },
     {
       "offerId": "sakura-rentalserver",
       "badge": "개발자 최적",
       "review": "Sakura의 스탠다드 플랜은 테스트 최저가입니다. SSH·크론 네이티브 대시보드는 제어권을 원하는 개발자에게 적합하지만, WordPress 원클릭 설치가 없어 초보자에게는 높은 장벽입니다. TTFB 305ms는 아래에서 두 번째로 느립니다.",
-      "pros": ["테스트 최저 초기 요금", "대시보드에서 SSH·크론 사용 가능", "1996년 창립의 검증된 브랜드로 안정적인 가동 실적"],
-      "cons": ["WordPress 원클릭 설치 없음 — 수동 설치 필수"],
+      "pros": [
+        "테스트 최저 초기 요금",
+        "대시보드에서 SSH·크론 사용 가능",
+        "1996년 창립의 검증된 브랜드로 안정적인 가동 실적"
+      ],
+      "cons": [
+        "WordPress 원클릭 설치 없음 — 수동 설치 필수"
+      ],
       "grade": "B",
       "specs": {
         "초기 요금": "입문 가격대 (스탠다드 플랜)",
@@ -203,19 +227,25 @@
         "SSH 접근": "가능"
       },
       "scores": {
-        "Performance": 3.7,
-        "Uptime reliability": 4.6,
-        "Value": 4.8,
-        "Support quality": 4.0,
-        "Ease of setup": 2.5
+        "성능": 3.7,
+        "가동 신뢰성": 4.6,
+        "가성비": 4.8,
+        "지지 품질": 4,
+        "설정 용이성": 2.5
       }
     },
     {
       "offerId": "lolipop-server",
       "badge": "예산 최적 선택",
       "review": "Lolipop의 하이스피드 플랜은 ConoHa 갱신가의 약 절반 가격에 원클릭 WordPress를 제공합니다. TTFB 312ms는 테스트 최저 속도이므로, 페이지 속도가 중요한 사이트라면 ConoHa 대비 작은 가격 절감이 이 속도 차이를 정당화하기 어렵습니다.",
-      "pros": ["저가 하이스피드 플랜 — WP 원클릭 포함 최저가", "비기술 사용자도 쉬운 관리 UI", "GMO 그룹의 안정성"],
-      "cons": ["TTFB 312ms 최저 속도 — Pinterest 유입 트래픽에 영향"],
+      "pros": [
+        "저가 하이스피드 플랜 — WP 원클릭 포함 최저가",
+        "비기술 사용자도 쉬운 관리 UI",
+        "GMO 그룹의 안정성"
+      ],
+      "cons": [
+        "TTFB 312ms 최저 속도 — Pinterest 유입 트래픽에 영향"
+      ],
       "grade": "B-",
       "specs": {
         "초기 요금": "저가대 (하이스피드 플랜)",
@@ -226,11 +256,11 @@
         "모회사": "GMO 인터넷 그룹"
       },
       "scores": {
-        "Performance": 3.5,
-        "Uptime reliability": 4.3,
-        "Value": 4.7,
-        "Support quality": 4.1,
-        "Ease of setup": 4.5
+        "성능": 3.5,
+        "가동 신뢰성": 4.3,
+        "가성비": 4.7,
+        "지지 품질": 4.1,
+        "설정 용이성": 4.5
       }
     }
   ],

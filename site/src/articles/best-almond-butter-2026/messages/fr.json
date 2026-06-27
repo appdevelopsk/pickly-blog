@@ -86,9 +86,9 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
+        "Saveur": 4.7,
+        "Approvisionnement": 4.8,
+        "Valeur": 4.7,
         "Texture": 4.8,
         "Nutrition": 5
       }
@@ -108,9 +108,9 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
+        "Saveur": 4.4,
+        "Approvisionnement": 4,
+        "Valeur": 4.4,
         "Texture": 4,
         "Nutrition": 4.7
       }
@@ -130,9 +130,9 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
+        "Saveur": 4.6,
+        "Approvisionnement": 4.2,
+        "Valeur": 4.1,
         "Texture": 4.2,
         "Nutrition": 4.4
       }
@@ -152,9 +152,9 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
+        "Saveur": 3.8,
+        "Approvisionnement": 3.9,
+        "Valeur": 3.8,
         "Texture": 3.4,
         "Nutrition": 4.1
       }
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
+        "Saveur": 4,
+        "Approvisionnement": 3.6,
+        "Valeur": 4,
         "Texture": 3.6,
         "Nutrition": 3.8
       }
     }
   ],
-  "methodology": "Nous avons évalué chaque produit sur le profil de saveur, la transparence de l'approvisionnement, le rapport qualité-prix par portion, l'intégrité de l'emballage et ses performances dans les usages courants. Les certifications documentées et les avis vérifiés des utilisateurs ont été recoupés avec les allégations marketing."
+  "methodology": "Nous avons évalué chaque produit sur le profil de saveur, la transparence de l'approvisionnement, le rapport qualité-prix par portion, l'intégrité de l'emballage et ses performances dans les usages courants. Les certifications documentées et les avis vérifiés des utilisateurs ont été recoupés avec les allégations marketing.",
+  "recommendedFor": [
+    {
+      "label": "Pour tartiner vite au quotidien",
+      "offerId": "justins-classic-almond-butter",
+      "reason": "Idéal pour les foyers pressés qui veulent une pâte crémeuse sans mélange et à seulement deux ingrédients."
+    },
+    {
+      "label": "Pour cuisiner avec une texture lisse",
+      "offerId": "barney-bare-almond-butter",
+      "reason": "Parfait pour qui préfère une pâte plus lisse et douce, facile à intégrer dans des recettes sucrées et salées."
+    },
+    {
+      "label": "Pour ceux qui évitent l'huile de palme",
+      "offerId": "wild-friends-almond-butter",
+      "reason": "Idéal pour qui évite l'huile de palme et veut un pot bio propre, broyé à la meule de pierre."
+    },
+    {
+      "label": "Pour les adeptes du cru",
+      "offerId": "artisana-organic-almond-butter",
+      "reason": "Parfait pour les amateurs d'alimentation crue cherchant une saveur intense et complexe à densité nutritionnelle maximale."
+    },
+    {
+      "label": "Pour un usage quotidien sans effort",
+      "offerId": "maranatha-no-stir-almond-butter",
+      "reason": "Convient à qui veut une pâte homogène et pratique ne nécessitant aucun mélange."
+    }
+  ]
 }

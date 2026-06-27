@@ -44,51 +44,146 @@
       "offerId": "compression-socks-cep-run-4-0",
       "badge": "En İyi Klinik Kompresyon",
       "review": "CEP Run 4.0, medi GmbH'den sertifikalı 20–30 mmHg kademeli kompresyon sunar — tıbbi kompresyon çoraplarıyla aynı klinik standart. 2026 parmak kutusu güncellemesi daha iyi konfor için daha geniş ön ayak sağlar. 65 dolarla buradaki en pahalı seçenektir, ancak 80'den fazla yıkamada kompresyon tutma ve sertifikalı gradient doğruluğu, daha hızlı bozunan ucuz çoraplara kıyasla yıkama başına maliyet oranını rekabetçi kılar.",
-      "pros": ["medi GmbH sertifikalı 20–30 mmHg — bu karşılaştırmada klinik olarak en doğru kompresyon gradienti", "80'den fazla yıkamada kompresyon tutma — buradaki herhangi bir seçenekten daha iyi uzun vadeli dayanıklılık", "2026 daha geniş parmak kutusu güncellemesi ön ayak konforunu artırır"],
-      "cons": ["Çift başına 65 dolar — bu karşılaştırmadaki en yüksek fiyat noktası"],
+      "pros": [
+        "medi GmbH sertifikalı 20–30 mmHg — bu karşılaştırmada klinik olarak en doğru kompresyon gradienti",
+        "80'den fazla yıkamada kompresyon tutma — buradaki herhangi bir seçenekten daha iyi uzun vadeli dayanıklılık",
+        "2026 daha geniş parmak kutusu güncellemesi ön ayak konforunu artırır"
+      ],
+      "cons": [
+        "Çift başına 65 dolar — bu karşılaştırmadaki en yüksek fiyat noktası"
+      ],
       "grade": "A+",
-      "specs": {"Compression": "20–30 mmHg (sertifikalı)", "Fiber": "Naylon/elastan", "Anatomical": "Sol/sağ spesifik", "Toe": "Dikişsiz", "Wash durability": "80'den fazla yıkama", "Price": "$65"},
-      "scores": {"Compression accuracy": 5.0, "Blister resistance": 4.3, "Durability": 5.0, "Comfort": 4.4, "Value": 3.5}
+      "specs": {
+        "Compression": "20–30 mmHg (sertifikalı)",
+        "Fiber": "Naylon/elastan",
+        "Anatomical": "Sol/sağ spesifik",
+        "Toe": "Dikişsiz",
+        "Wash durability": "80'den fazla yıkama",
+        "Price": "$65"
+      },
+      "scores": {
+        "Sıkıştırma Doğruluğu": 5,
+        "Mantar Direnci": 4.3,
+        "Dayanıklılık": 5,
+        "Konfor": 4.4,
+        "Değer": 3.5
+      }
     },
     {
       "offerId": "compression-socks-balega-blister-resist",
       "badge": "En İyi Kabarcık Önleme",
       "review": "Balega'nın mohair/naylon/elastan karışımı, bu karşılaştırmadaki tüm çoraplar arasında en düşük sürtünmeyi sağlar — mohair fiberinin mikroskobik pürüzsüz yüzeyi ayağı tutup kesme yerine üzerinde kayar. Dikişsiz parmak ucu ve ön ayak yanal tampon bölgesiyle birleşince, buradaki en etkili kabarcık önleme çorabıdır. Kompresyon hafiftir (15–20 mmHg), öncelik değil. 2026 genişlik güncellemesi dar kalıp sınırlamasını çözer. Parmak ve ön ayak kabarcığı geçmişi olan koşucular için en iyi seçim.",
-      "pros": ["Mohair fiber karışımı — bu karşılaştırmada en düşük sürtünme malzemesi, kabarcık önlemede benzersiz etkili", "2026 geniş seçenek daha geniş ayaklar için dışlamayı çözer", "Dikişsiz parmak ucu artı ön ayak yanal tampon en yaygın iki kabarcık bölgesini hedefler"],
-      "cons": ["Yalnızca hafif kompresyon (15–20 mmHg) — klinik kompresyon faydası amaçlanıyorsa doğru seçim değil"],
+      "pros": [
+        "Mohair fiber karışımı — bu karşılaştırmada en düşük sürtünme malzemesi, kabarcık önlemede benzersiz etkili",
+        "2026 geniş seçenek daha geniş ayaklar için dışlamayı çözer",
+        "Dikişsiz parmak ucu artı ön ayak yanal tampon en yaygın iki kabarcık bölgesini hedefler"
+      ],
+      "cons": [
+        "Yalnızca hafif kompresyon (15–20 mmHg) — klinik kompresyon faydası amaçlanıyorsa doğru seçim değil"
+      ],
       "grade": "A",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Mohair/naylon/elastan", "Anatomical": "Sol/sağ spesifik", "Toe": "Dikişsiz", "Width": "Standart + geniş (2026)", "Price": "$20"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 5.0, "Durability": 4.3, "Comfort": 4.8, "Value": 4.9}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Mohair/naylon/elastan",
+        "Anatomical": "Sol/sağ spesifik",
+        "Toe": "Dikişsiz",
+        "Width": "Standart + geniş (2026)",
+        "Price": "$20"
+      },
+      "scores": {
+        "Sıkıştırma Doğruluğu": 4,
+        "Mantar Direnci": 5,
+        "Dayanıklılık": 4.3,
+        "Konfor": 4.8,
+        "Değer": 4.9
+      }
     },
     {
       "offerId": "compression-socks-sockwell-pulse",
       "badge": "Değişken Sıcaklık İçin En İyi",
       "review": "Sockwell Pulse, mevsimsel sıcaklık aralıklarında termoregüle eden merino/naylon/spandeks karışımı kullanır — merino içi boş fiber soğukta yalıtır ve sıcakta nemi daha iyi uzaklaştırır. 15–20 mmHg'de kompresyon hafiftir. Isı yönetimi avantajı en net önemli yükseklik değişikliği olan patika koşularında veya sıcaklık dalgalanmalarının yaşandığı erken ve geç sezon yarışlarında görülür. Kompresyon veya kabarcık önleme lideri değil, ama en iyi mevsimsel çok amaçlı çorap.",
-      "pros": ["Merino yünü termoregülasyon — mevsimler genelinde sıcaklığı sentetik fiberlerden daha iyi yönetir", "Nem uzaklaştırma, değişken sıcaklıkta uzun koşularda kabarcık riskini azaltır", "Ortalamanın üzerinde dayanıklılıkla 35 dolarlık orta fiyat noktası"],
-      "cons": ["15–20 mmHg hafif kompresyon — 20–30 mmHg klinik kompresyon faydası gerektiren koşucular için uygun değil"],
+      "pros": [
+        "Merino yünü termoregülasyon — mevsimler genelinde sıcaklığı sentetik fiberlerden daha iyi yönetir",
+        "Nem uzaklaştırma, değişken sıcaklıkta uzun koşularda kabarcık riskini azaltır",
+        "Ortalamanın üzerinde dayanıklılıkla 35 dolarlık orta fiyat noktası"
+      ],
+      "cons": [
+        "15–20 mmHg hafif kompresyon — 20–30 mmHg klinik kompresyon faydası gerektiren koşucular için uygun değil"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Merino yünü/naylon/spandeks", "Anatomical": "Sol/sağ spesifik", "Toe": "Dikişsiz", "Wash durability": "60 yıkamada orta tutma", "Price": "$35"},
-      "scores": {"Compression accuracy": 4.1, "Blister resistance": 4.2, "Durability": 4.4, "Comfort": 4.7, "Value": 4.5}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Merino yünü/naylon/spandeks",
+        "Anatomical": "Sol/sağ spesifik",
+        "Toe": "Dikişsiz",
+        "Wash durability": "60 yıkamada orta tutma",
+        "Price": "$35"
+      },
+      "scores": {
+        "Sıkıştırma Doğruluğu": 4.1,
+        "Mantar Direnci": 4.2,
+        "Dayanıklılık": 4.4,
+        "Konfor": 4.7,
+        "Değer": 4.5
+      }
     },
     {
       "offerId": "compression-socks-tabio-jp",
       "badge": "Japonya Pazarı İçin En İyi",
       "review": "Tabio Racing Fine, anatomik sol/sağ farklılaştırması ile ince denier naylon yapısı kullanır. 2026 güncellemesi güçlendirilmiş topuk ve 60 yıkama boyunca iyileştirilmiş kompresyon tutma ekledi — önceki sürüm 30–40 yıkamada önemli elastikiyet kaybediyordu. İnce denier, Batılı markaların tipik yapısına kıyasla daha düşük sürtünmeli yüzey hissi ve daha hafif ağırlık verir. Hafif kompresyon (15–20 mmHg). Daha hafif ve daha ince çorap hissini tercih eden yol koşucuları için en iyi seçim.",
-      "pros": ["İnce denier naylon yapısı — tipik Batılı koşu çorabından daha hafif ve daha az sürtünmeli", "2026 güçlendirilmiş topuk ve 60 yıkamada iyileştirilmiş kompresyon tutma", "Hassas kalıp için anatomik sol/sağ yapısı"],
-      "cons": ["Japonya dışında sınırlı erişilebilirlik — ağırlıklı olarak Tabio Japan mağazaları ve çevrimiçi"],
+      "pros": [
+        "İnce denier naylon yapısı — tipik Batılı koşu çorabından daha hafif ve daha az sürtünmeli",
+        "2026 güçlendirilmiş topuk ve 60 yıkamada iyileştirilmiş kompresyon tutma",
+        "Hassas kalıp için anatomik sol/sağ yapısı"
+      ],
+      "cons": [
+        "Japonya dışında sınırlı erişilebilirlik — ağırlıklı olarak Tabio Japan mağazaları ve çevrimiçi"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "İnce denier naylon/elastan", "Anatomical": "Sol/sağ spesifik", "Toe": "Dikişsiz", "Market": "Öncelikle Japonya", "Price": "Başlangıç seviyesi"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.3, "Durability": 4.5, "Comfort": 4.6, "Value": 4.8}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "İnce denier naylon/elastan",
+        "Anatomical": "Sol/sağ spesifik",
+        "Toe": "Dikişsiz",
+        "Market": "Öncelikle Japonya",
+        "Price": "Başlangıç seviyesi"
+      },
+      "scores": {
+        "Sıkıştırma Doğruluğu": 4,
+        "Mantar Direnci": 4.3,
+        "Dayanıklılık": 4.5,
+        "Konfor": 4.6,
+        "Değer": 4.8
+      }
     },
     {
       "offerId": "compression-socks-feetures-elite",
       "badge": "Plantar Fasiit İçin En İyi",
       "review": "Feetures Elite, düzgün tampon uygulamak yerine taban yüzeyindeki anatomik basınç noktalarına tampon bölgeleri eşlemek için iWCL sistemini kullanır. Sonuç, tam darbe oluştuğu yerde hedefli koruma olan daha hafif bir çoraptır. 2026 güncellemesi minimalist tarzı ayakkabılar için özellikle orta taban sürtünme bölgesi ekledi. 15–20 mmHg'de kompresyon hafiftir. Plantar fasiit geçmişi olan veya sıfır drop ya da düşük yığınlı ayakkabılarda uzun mesafe koşan koşucular için en güçlü seçim.",
-      "pros": ["iWCL hedefli tampon eşleme — gereksiz ağırlık olmadan taban basınç noktalarında koruma", "2026 orta taban sürtünme bölgesi minimalist ayakkabı kabarcık modelini ele alır", "Hedefli kompresyon bölgeleriyle anatomik kalıp"],
-      "cons": ["15–20 mmHg hafif kompresyon — uzun koşulardan sonra klinik düzey kompresyon faydası için seçim değil"],
+      "pros": [
+        "iWCL hedefli tampon eşleme — gereksiz ağırlık olmadan taban basınç noktalarında koruma",
+        "2026 orta taban sürtünme bölgesi minimalist ayakkabı kabarcık modelini ele alır",
+        "Hedefli kompresyon bölgeleriyle anatomik kalıp"
+      ],
+      "cons": [
+        "15–20 mmHg hafif kompresyon — uzun koşulardan sonra klinik düzey kompresyon faydası için seçim değil"
+      ],
       "grade": "B",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Naylon/elastan", "Cushion": "iWCL bölge eşleme", "Anatomical": "Sol/sağ spesifik", "Toe": "Dikişsiz", "Price": "$18"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.6, "Durability": 4.5, "Comfort": 4.8, "Value": 4.7}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Naylon/elastan",
+        "Cushion": "iWCL bölge eşleme",
+        "Anatomical": "Sol/sağ spesifik",
+        "Toe": "Dikişsiz",
+        "Price": "$18"
+      },
+      "scores": {
+        "Sıkıştırma Doğruluğu": 4,
+        "Mantar Direnci": 4.6,
+        "Dayanıklılık": 4.5,
+        "Konfor": 4.8,
+        "Değer": 4.7
+      }
     }
   ],
   "faqs": [
@@ -106,9 +201,21 @@
     }
   ],
   "recommendedFor": [
-    {"label": "Klinik kompresyon ve uzun vadeli dayanıklılık için", "offerId": "compression-socks-cep-run-4-0", "reason": "medi GmbH sertifikalı 20–30 mmHg gradienti bu karşılaştırmada en doğru; 80'den fazla yıkamada tutma, 65 dolarlık maliyeti kullanım başına rekabetçi kılar."},
-    {"label": "Kabarcık geçmişi olan koşucular için", "offerId": "compression-socks-balega-blister-resist", "reason": "Mohair fiber, ayak-çorap sürtünmesini yalnızca dikişsiz parmak ucu yapısından daha etkili azaltır; 2026 için geniş seçenek mevcut."},
-    {"label": "Plantar fasiit ve minimalist ayakkabı koşucuları için", "offerId": "compression-socks-feetures-elite", "reason": "iWCL bölge eşleme taban basınç noktalarını hedefler; 2026 orta taban sürtünme bölgesi minimalist ayakkabı kabarcık modelini ele alır."}
+    {
+      "label": "Klinik kompresyon ve uzun vadeli dayanıklılık için",
+      "offerId": "compression-socks-cep-run-4-0",
+      "reason": "medi GmbH sertifikalı 20–30 mmHg gradienti bu karşılaştırmada en doğru; 80'den fazla yıkamada tutma, 65 dolarlık maliyeti kullanım başına rekabetçi kılar."
+    },
+    {
+      "label": "Kabarcık geçmişi olan koşucular için",
+      "offerId": "compression-socks-balega-blister-resist",
+      "reason": "Mohair fiber, ayak-çorap sürtünmesini yalnızca dikişsiz parmak ucu yapısından daha etkili azaltır; 2026 için geniş seçenek mevcut."
+    },
+    {
+      "label": "Plantar fasiit ve minimalist ayakkabı koşucuları için",
+      "offerId": "compression-socks-feetures-elite",
+      "reason": "iWCL bölge eşleme taban basınç noktalarını hedefler; 2026 orta taban sürtünme bölgesi minimalist ayakkabı kabarcık modelini ele alır."
+    }
   ],
   "pinDescription": "2026 koşu için kompresyon çorap karşılaştırması — CEP ile Balega ile Sockwell ile Tabio ile Feetures. Uzun mesafe koşucuları ve patika atletleri için mmHg değerleri, kabarcık direnci, fiber yapısı ve yıkama dayanıklılığı açıklandı.",
   "offerNotes": ""

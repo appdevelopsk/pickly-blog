@@ -113,8 +113,14 @@
       "offerId": "hydro-flask-wide-mouth",
       "badge": "Melhor Escolha Geral",
       "review": "A Hydro Flask Wide Mouth estabelece o padrão para garrafas a vácuo premium: o isolamento de parede dupla TempShield mantém bebidas frias 24h e quentes 12h — reproduzível em testes controlados. O Flex Cap é confiável contra vazamentos em quedas, e o revestimento em pó resiste a arranhões após mais de 2 anos de uso cotidiano. O preço de $40+ é mais alto que o Stanley, mas se justifica pelas superiores performances de isolamento comprovadas.",
-      "pros": ["Isolamento TempShield mantém 24h frio e 12h quente, reproduzível", "Revestimento em pó resistente a arranhões no uso cotidiano", "Design de boca larga para cubos de gelo e limpeza fácil"],
-      "cons": ["Preço $40+ claramente mais alto que Nalgene ou CamelBak"],
+      "pros": [
+        "Isolamento TempShield mantém 24h frio e 12h quente, reproduzível",
+        "Revestimento em pó resistente a arranhões no uso cotidiano",
+        "Design de boca larga para cubos de gelo e limpeza fácil"
+      ],
+      "cons": [
+        "Preço $40+ claramente mais alto que Nalgene ou CamelBak"
+      ],
       "grade": "A+",
       "specs": {
         "Capacidade": "32 oz (946 ml)",
@@ -125,19 +131,25 @@
         "Mecanismo da tampa": "Flex Cap rosqueável"
       },
       "scores": {
-        "Insulation": 4.9,
-        "Leak resistance": 4.7,
-        "Durability": 4.9,
-        "Value": 4.2,
-        "Ease of cleaning": 4.5
+        "Isolamento": 4.9,
+        "Resistência a Vazamentos": 4.7,
+        "Durabilidade": 4.9,
+        "Valor": 4.2,
+        "Facilidade de Limpeza": 4.5
       }
     },
     {
       "offerId": "stanley-quencher-tumbler",
       "badge": "Melhor para Uso Diário",
       "review": "O Stanley Quencher H2.0 é um tumbler, não uma garrafa tradicional — isso é tanto sua força quanto sua limitação. O design largo com alça e a tampa com canudo o tornam o companheiro diário mais confortável. O desempenho de isolamento é sólido (24h frio), embora ligeiramente abaixo do Hydro Flask. A limpeza é fácil graças à abertura larga, mas o canudo requer um acessório específico.",
-      "pros": ["Design largo com alça — o mais confortável para uso diário", "Tampa com canudo ideal para escritório e commute", "Sólida retenção de 24h frio a preço razoável"],
-      "cons": ["Forma de tumbler menos portátil que as garrafas padrão"],
+      "pros": [
+        "Design largo com alça — o mais confortável para uso diário",
+        "Tampa com canudo ideal para escritório e commute",
+        "Sólida retenção de 24h frio a preço razoável"
+      ],
+      "cons": [
+        "Forma de tumbler menos portátil que as garrafas padrão"
+      ],
       "grade": "A",
       "specs": {
         "Capacidade": "30 oz (887 ml)",
@@ -148,19 +160,25 @@
         "Mecanismo da tampa": "Tampa com canudo e alça"
       },
       "scores": {
-        "Insulation": 4.7,
-        "Leak resistance": 4.5,
-        "Durability": 4.5,
-        "Value": 4.5,
-        "Ease of cleaning": 3.8
+        "Isolamento": 4.7,
+        "Resistência a Vazamentos": 4.5,
+        "Durabilidade": 4.5,
+        "Valor": 4.5,
+        "Facilidade de Limpeza": 3.8
       }
     },
     {
       "offerId": "yeti-rambler-bottle",
       "badge": "A Mais Resistente",
       "review": "A Yeti Rambler é a garrafa mais robusta do teste: a parede dupla de aço inoxidável 18/8 é mais espessa que a concorrência, e o Chug Cap é o fechamento mais estanque segundo os relatos de proprietários. O desempenho de isolamento é excelente (48h frio segundo o fabricante, 24h+ realista). O preço de $40+ e o peso mais elevado são as únicas limitações reais para uso em trilha.",
-      "pros": ["Aço inoxidável 18/8 mais espesso para resistência máxima a impactos", "Chug Cap o fechamento mais estanque segundo relatos de proprietários", "Excelente desempenho de isolamento — 24h+ frio realista"],
-      "cons": ["Peso mais elevado que as alternativas leves para caminhadas longas"],
+      "pros": [
+        "Aço inoxidável 18/8 mais espesso para resistência máxima a impactos",
+        "Chug Cap o fechamento mais estanque segundo relatos de proprietários",
+        "Excelente desempenho de isolamento — 24h+ frio realista"
+      ],
+      "cons": [
+        "Peso mais elevado que as alternativas leves para caminhadas longas"
+      ],
       "grade": "B+",
       "specs": {
         "Capacidade": "36 oz (1065 ml)",
@@ -171,19 +189,25 @@
         "Mecanismo da tampa": "Chug Cap"
       },
       "scores": {
-        "Insulation": 4.8,
-        "Leak resistance": 4.8,
-        "Durability": 5.0,
-        "Value": 3.5,
-        "Ease of cleaning": 4.3
+        "Isolamento": 4.8,
+        "Resistência a Vazamentos": 4.8,
+        "Durabilidade": 5,
+        "Valor": 3.5,
+        "Facilidade de Limpeza": 4.3
       }
     },
     {
       "offerId": "nalgene-silo-bottle",
       "badge": "Melhor Preço",
       "review": "A Nalgene Silo é a única participante sem isolamento a vácuo — o material Sustain é durável e 100% livre de substâncias químicas nocivas, mas não há efeito garrafa térmica. É a opção mais leve e econômica a $25, e a boca larga permite a limpeza mais fácil de todas. Para isolamento do frio é simplesmente a escolha errada; não deve ser usada para bebidas quentes.",
-      "pros": ["A garrafa mais leve do teste a $25", "Boca larga para a limpeza mais fácil de todas", "Material Sustain durável e livre de substâncias químicas nocivas"],
-      "cons": ["Sem isolamento a vácuo — nenhum efeito garrafa térmica"],
+      "pros": [
+        "A garrafa mais leve do teste a $25",
+        "Boca larga para a limpeza mais fácil de todas",
+        "Material Sustain durável e livre de substâncias químicas nocivas"
+      ],
+      "cons": [
+        "Sem isolamento a vácuo — nenhum efeito garrafa térmica"
+      ],
       "grade": "B",
       "specs": {
         "Capacidade": "48 oz (1420 ml)",
@@ -194,19 +218,25 @@
         "Mecanismo da tampa": "Tampa rosqueável boca larga"
       },
       "scores": {
-        "Insulation": 1.5,
-        "Leak resistance": 4.5,
-        "Durability": 4.8,
-        "Value": 5.0,
-        "Ease of cleaning": 5.0
+        "Isolamento": 1.5,
+        "Resistência a Vazamentos": 4.5,
+        "Durabilidade": 4.8,
+        "Valor": 5,
+        "Facilidade de Limpeza": 5
       }
     },
     {
       "offerId": "camelbak-chute-mag",
       "badge": "Melhor para Trilha",
       "review": "A CamelBak Chute Mag foi projetada especificamente para caminhantes: a tampa magnética articulada fica aberta enquanto você bebe e não pode ser perdida na trilha. A capacidade de 25oz é mais leve que as alternativas de 32oz, mas requer reabastecimentos mais frequentes. O isolamento a vácuo é bom (24h frio), embora não alcance o nível da Hydro Flask. O custo-benefício é justo no contexto da trilha.",
-      "pros": ["Tampa magnética articulada — fica aberta durante o uso, não se perde", "Otimizada para caminhantes com peso reduzido", "Sólida retenção de 24h frio para uso outdoor"],
-      "cons": ["Capacidade de 25oz menor requer reabastecimentos mais frequentes"],
+      "pros": [
+        "Tampa magnética articulada — fica aberta durante o uso, não se perde",
+        "Otimizada para caminhantes com peso reduzido",
+        "Sólida retenção de 24h frio para uso outdoor"
+      ],
+      "cons": [
+        "Capacidade de 25oz menor requer reabastecimentos mais frequentes"
+      ],
       "grade": "B-",
       "specs": {
         "Capacidade": "25 oz (740 ml)",
@@ -217,11 +247,11 @@
         "Uso": "Trilha/Outdoor"
       },
       "scores": {
-        "Insulation": 4.5,
-        "Leak resistance": 4.2,
-        "Durability": 4.5,
-        "Value": 4.5,
-        "Ease of cleaning": 4.0
+        "Isolamento": 4.5,
+        "Resistência a Vazamentos": 4.2,
+        "Durabilidade": 4.5,
+        "Valor": 4.5,
+        "Facilidade de Limpeza": 4
       }
     }
   ],

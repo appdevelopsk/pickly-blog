@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
-        "Texture": 4.8,
-        "Nutrition": 5
+        "Tat": 4.7,
+        "Tedarik": 4.8,
+        "Değer": 4.7,
+        "Doku": 4.8,
+        "Beslenme": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
-        "Texture": 4,
-        "Nutrition": 4.7
+        "Tat": 4.4,
+        "Tedarik": 4,
+        "Değer": 4.4,
+        "Doku": 4,
+        "Beslenme": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
-        "Texture": 4.2,
-        "Nutrition": 4.4
+        "Tat": 4.6,
+        "Tedarik": 4.2,
+        "Değer": 4.1,
+        "Doku": 4.2,
+        "Beslenme": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
-        "Texture": 3.4,
-        "Nutrition": 4.1
+        "Tat": 3.8,
+        "Tedarik": 3.9,
+        "Değer": 3.8,
+        "Doku": 3.4,
+        "Beslenme": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
-        "Texture": 3.6,
-        "Nutrition": 3.8
+        "Tat": 4,
+        "Tedarik": 3.6,
+        "Değer": 4,
+        "Doku": 3.6,
+        "Beslenme": 3.8
       }
     }
   ],
-  "methodology": "Her ürünü aroma profili, kaynak şeffaflığı, porsiyon başına değer, ambalaj bütünlüğü ve yaygın kullanım durumlarındaki performansına göre değerlendirdik. Belgelenmiş sertifikalar ve doğrulanmış kullanıcı incelemeleri, pazarlama iddiaları ile çapraz kontrol edildi."
+  "methodology": "Her ürünü aroma profili, kaynak şeffaflığı, porsiyon başına değer, ambalaj bütünlüğü ve yaygın kullanım durumlarındaki performansına göre değerlendirdik. Belgelenmiş sertifikalar ve doğrulanmış kullanıcı incelemeleri, pazarlama iddiaları ile çapraz kontrol edildi.",
+  "recommendedFor": [
+    {
+      "label": "Her gün hızlı sürmek isteyenlere",
+      "offerId": "justins-classic-almond-butter",
+      "reason": "Karıştırmadan, yalnızca iki malzemeli kremamsı bir sürülebilir isteyen yoğun haneler için ideal."
+    },
+    {
+      "label": "Pürüzsüz dokuyla yemek yapanlara",
+      "offerId": "barney-bare-almond-butter",
+      "reason": "Daha pürüzsüz ve yumuşak, tatlı ve tuzlu tariflere kolayca karışan bir ezme sevenler için en iyisi."
+    },
+    {
+      "label": "Palm yağından kaçınanlara",
+      "offerId": "wild-friends-almond-butter",
+      "reason": "Palm yağından kaçınan ve taş değirmende öğütülmüş temiz, organik bir kavanoz isteyenler için harika."
+    },
+    {
+      "label": "Çiğ beslenme tutkunlarına",
+      "offerId": "artisana-organic-almond-butter",
+      "reason": "Yoğun, karmaşık bir aroma ve maksimum besin yoğunluğu arayan çiğ beslenme severler için mükemmel."
+    },
+    {
+      "label": "Zahmetsiz günlük kullanım için",
+      "offerId": "maranatha-no-stir-almond-butter",
+      "reason": "Hiç karıştırma gerektirmeyen, tutarlı ve pratik bir sürülebilir isteyen herkese uygun."
+    }
+  ]
 }

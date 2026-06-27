@@ -74,8 +74,14 @@
       "offerId": "lmnt-recharge-electrolyte",
       "badge": "Yoğun antrenman ve keto için en iyi",
       "review": "LMNT'nin paket başına 1.000mg sodyumu kategori ayırt edici özelliğidir — gerçek ter kayıplarını yerine koyar. Sıfır şekerli stevia formülü gereksiz glikoz yükünden kaçınır. Raw Unflavored varyantı gerçekten kullanışlıdır: kahve, et suyu veya suya tat profili değiştirmeden elektrolit ekler.",
-      "pros": ["1.000mg sodyum gerçek ağır ter kayıplarıyla örtüşüyor, sembolik bir miktar değil", "Şekersiz — keto, düşük karbonhidrat ve oruç pencereleriyle uyumlu", "Raw Unflavored yiyeceğe veya kahveye tat etki etmeden elektrolit ekler"],
-      "cons": ["Servis başına 1,50–1,80 dolar, bu karşılaştırmadaki en yüksek paket başına fiyat"],
+      "pros": [
+        "1.000mg sodyum gerçek ağır ter kayıplarıyla örtüşüyor, sembolik bir miktar değil",
+        "Şekersiz — keto, düşük karbonhidrat ve oruç pencereleriyle uyumlu",
+        "Raw Unflavored yiyeceğe veya kahveye tat etki etmeden elektrolit ekler"
+      ],
+      "cons": [
+        "Servis başına 1,50–1,80 dolar, bu karşılaştırmadaki en yüksek paket başına fiyat"
+      ],
       "grade": "A+",
       "specs": {
         "Sodium": "1.000 mg",
@@ -87,19 +93,25 @@
         "Price per serving": "yaklaşık $1,50–$1,80"
       },
       "scores": {
-        "Efficacy": 5.0,
-        "Value": 3.5,
-        "Taste": 4.2,
-        "Purity": 4.8,
-        "Ease of use": 4.7
+        "Etkinlik": 5,
+        "Değer": 3.5,
+        "Tat": 4.2,
+        "Saflık": 4.8,
+        "Kullanım Kolaylığı": 4.7
       }
     },
     {
       "offerId": "liquid-iv-hydration-multiplier",
       "badge": "En iyi ana akım hidrasyon",
       "review": "Liquid I.V.'nin CTT formülü, SGLT-1 taşıyıcılarını sade sudan daha hızlı su emilimi için aktive eder. 500mg sodyum orta düzey antrenman için yeterli ve 11g şeker taşıma işlevi görür. Aroma kalitesi sürekli olarak ortalamanın üzerindedir. Sorun her servis başına 11g şekerdir.",
-      "pros": ["WHO ORS bilimine dayanan CTT emilim teknolojisi ölçülebilir şekilde daha hızlı hidrasyon sağlar", "Bu karşılaştırmadaki en iyi aroma kalitesi", "500mg sodyum orta düzey antrenman ve seyahati karşılar"],
-      "cons": ["Servis başına 11g şeker keto veya katı düşük karbonhidrat yaklaşımları için sorun"],
+      "pros": [
+        "WHO ORS bilimine dayanan CTT emilim teknolojisi ölçülebilir şekilde daha hızlı hidrasyon sağlar",
+        "Bu karşılaştırmadaki en iyi aroma kalitesi",
+        "500mg sodyum orta düzey antrenman ve seyahati karşılar"
+      ],
+      "cons": [
+        "Servis başına 11g şeker keto veya katı düşük karbonhidrat yaklaşımları için sorun"
+      ],
       "grade": "A",
       "specs": {
         "Sodium": "500 mg",
@@ -111,19 +123,25 @@
         "Price per serving": "yaklaşık $1,00–$1,25"
       },
       "scores": {
-        "Efficacy": 4.5,
-        "Value": 4.2,
-        "Taste": 4.9,
-        "Purity": 4.0,
-        "Ease of use": 4.8
+        "Etkinlik": 4.5,
+        "Değer": 4.2,
+        "Tat": 4.9,
+        "Saflık": 4,
+        "Kullanım Kolaylığı": 4.8
       }
     },
     {
       "offerId": "nuun-sport-electrolyte-tablets",
       "badge": "En iyi değer ve taşınabilirlik",
       "review": "Nuun'un efervesan tablet formatı eşsiz şekilde taşınabilir — 10 tabletlik tüp cebe sığar ve neredeyse hiç ağırlık taşımaz. Tablet başına 0,70–0,80 dolar ile bu karşılaştırmadaki günlük kullanım için en uygun fiyatlı seçenektir. 300mg sodyum hafif ila orta egzersiz ve genel hidrasyon için yeterlidir.",
-      "pros": ["Tablet formatı bu karşılaştırmadaki en taşınabilir — cep boyutu, hafif", "Servis başına en iyi fiyat 0,70–0,80 dolar", "Su-tablet oranını değiştirerek ayarlanabilir konsantrasyon"],
-      "cons": ["300mg sodyum yoğun ter kayıplarını karşılamaz — 60 dakikadan uzun sıcak antrenman için yetersiz"],
+      "pros": [
+        "Tablet formatı bu karşılaştırmadaki en taşınabilir — cep boyutu, hafif",
+        "Servis başına en iyi fiyat 0,70–0,80 dolar",
+        "Su-tablet oranını değiştirerek ayarlanabilir konsantrasyon"
+      ],
+      "cons": [
+        "300mg sodyum yoğun ter kayıplarını karşılamaz — 60 dakikadan uzun sıcak antrenman için yetersiz"
+      ],
       "grade": "B+",
       "specs": {
         "Sodium": "300 mg",
@@ -135,19 +153,25 @@
         "Price per serving": "yaklaşık $0,70–$0,80"
       },
       "scores": {
-        "Efficacy": 3.8,
-        "Value": 5.0,
-        "Taste": 4.3,
-        "Purity": 4.5,
-        "Ease of use": 5.0
+        "Etkinlik": 3.8,
+        "Değer": 5,
+        "Tat": 4.3,
+        "Saflık": 4.5,
+        "Kullanım Kolaylığı": 5
       }
     },
     {
       "offerId": "dripdrop-ors-powder",
       "badge": "Hastalık iyileşmesi için en iyi",
       "review": "DripDrop, WHO standartlarını karşılayan Oral Rehidrasyon Solüsyonu olarak formüle edilmiştir. 330mg sodyum ve 8g şeker kombinasyonu fizyolojik düzeyde bağırsak emilimini aktive eder. Orijinal Pedialyte gibi klinik ORS alternatiflerinden belirgin biçimde daha lezzetlidir.",
-      "pros": ["WHO standardı ORS formülasyonu bağırsak kotransport emilimini aktive eder", "Benzer sodyum seviyelerinde klinik ORS alternatiflerinden belirgin biçimde daha lezzetli", "Seyahat acil çantasında bulundurmaya değer — paketler uzun süre saklanır"],
-      "cons": ["Günlük antrenman hidrasyonu için doğru araç değil"],
+      "pros": [
+        "WHO standardı ORS formülasyonu bağırsak kotransport emilimini aktive eder",
+        "Benzer sodyum seviyelerinde klinik ORS alternatiflerinden belirgin biçimde daha lezzetli",
+        "Seyahat acil çantasında bulundurmaya değer — paketler uzun süre saklanır"
+      ],
+      "cons": [
+        "Günlük antrenman hidrasyonu için doğru araç değil"
+      ],
       "grade": "B",
       "specs": {
         "Sodium": "330 mg",
@@ -159,19 +183,25 @@
         "Price per serving": "yaklaşık $1,20–$1,50"
       },
       "scores": {
-        "Efficacy": 4.6,
-        "Value": 3.9,
-        "Taste": 4.4,
-        "Purity": 4.7,
-        "Ease of use": 4.5
+        "Etkinlik": 4.6,
+        "Değer": 3.9,
+        "Tat": 4.4,
+        "Saflık": 4.7,
+        "Kullanım Kolaylığı": 4.5
       }
     },
     {
       "offerId": "pedialyte-sport",
       "badge": "En iyi eczane erişilebilirliği",
       "review": "Pedialyte Sport'un yetişkin Sport serisindeki 490mg sodyum ve 380mg potasyum, egzersiz iyileşmesi için doğru şekilde konumlandırılmıştır. Gerçek avantaj eczane her yerde erişilebilirliğidir: gece 2'de biri gıda zehirlenmesi yaşadığında Pedialyte eczane rafındadır. Planlı antrenman hidrasyonu için toz paketler daha pratiktir.",
-      "pros": ["Her saatte eczane ve marketlerde mevcut — önceden planlama gerektirmez", "490mg sodyum + 380mg potasyum orta ila yoğun egzersiz iyileşmesini karşılar", "Üzüm ve meyve suyu aromaları yetişkinler için damak zevkiyle uyumlu"],
-      "cons": ["Önceden karıştırılmış sıvı aktif spor için ağır ve pratik değil"],
+      "pros": [
+        "Her saatte eczane ve marketlerde mevcut — önceden planlama gerektirmez",
+        "490mg sodyum + 380mg potasyum orta ila yoğun egzersiz iyileşmesini karşılar",
+        "Üzüm ve meyve suyu aromaları yetişkinler için damak zevkiyle uyumlu"
+      ],
+      "cons": [
+        "Önceden karıştırılmış sıvı aktif spor için ağır ve pratik değil"
+      ],
       "grade": "B-",
       "specs": {
         "Sodium": "490 mg",
@@ -183,11 +213,11 @@
         "Price per serving": "yaklaşık $0,80–$1,00"
       },
       "scores": {
-        "Efficacy": 4.0,
-        "Value": 4.3,
-        "Taste": 3.8,
-        "Purity": 4.1,
-        "Ease of use": 4.6
+        "Etkinlik": 4,
+        "Değer": 4.3,
+        "Tat": 3.8,
+        "Saflık": 4.1,
+        "Kullanım Kolaylığı": 4.6
       }
     }
   ],

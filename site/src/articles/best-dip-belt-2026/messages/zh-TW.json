@@ -83,58 +83,166 @@
       "offerId": "rogue-dip-belt",
       "badge": "綜合最佳",
       "review": "美國製造，10毫米尼龍織帶配3英寸皮革墊和額定扣環。在重鐵片下——90磅及以上——皮革將負載分散在髖骨上而非集中壓迫，五金件保持圓形不變形。一次性購買的特性是真實的：縫線和鏈條比廉價腰帶耐用多年。",
-      "pros": ["美國製造，所有受力點雙縫線", "皮革墊隨時間貼合身體", "額定扣環承受重負載不變形"],
-      "cons": ["皮革在磨合前幾次訓練時較硬"],
+      "pros": [
+        "美國製造，所有受力點雙縫線",
+        "皮革墊隨時間貼合身體",
+        "額定扣環承受重負載不變形"
+      ],
+      "cons": [
+        "皮革在磨合前幾次訓練時較硬"
+      ],
       "grade": "A+",
-      "specs": {"Material": "10毫米尼龍織帶+皮革墊", "Chain length": "24英寸鋼鏈", "Pad width": "3英寸", "Hardware": "額定鋼扣環", "Origin": "美國"},
-      "scores": {"Build quality": 5.0, "Durability": 5.0, "Comfort": 4.5, "Load capacity": 5.0, "Value": 4.0}
+      "specs": {
+        "Material": "10毫米尼龍織帶+皮革墊",
+        "Chain length": "24英寸鋼鏈",
+        "Pad width": "3英寸",
+        "Hardware": "額定鋼扣環",
+        "Origin": "美國"
+      },
+      "scores": {
+        "組裝品質": 5,
+        "耐用性": 5,
+        "舒適度": 4.5,
+        "負重容量": 5,
+        "性價比": 4
+      }
     },
     {
       "offerId": "dark-iron-fitness-dip-belt",
       "badge": "最佳皮革預算",
       "review": "真皮6英寸墊——比Rogue更寬——使雙槓訓練更舒適，因為重量壓在大腿上部。30英寸鏈條適用標準奧林匹克鐵片，300磅容量超過實際需求。缺點：需要2-3週定期使用才能完全磨合。",
-      "pros": ["6英寸皮革墊比大多數競爭對手更寬", "300磅承重能力標注", "磨合後比尼龍更貼合身體"],
-      "cons": ["初期幾次訓練較硬且不舒適"],
+      "pros": [
+        "6英寸皮革墊比大多數競爭對手更寬",
+        "300磅承重能力標注",
+        "磨合後比尼龍更貼合身體"
+      ],
+      "cons": [
+        "初期幾次訓練較硬且不舒適"
+      ],
       "grade": "A",
-      "specs": {"Material": "真皮", "Chain length": "30英寸鋼鏈", "Pad width": "6英寸", "Weight capacity": "300磅", "Price": "$29.99"},
-      "scores": {"Build quality": 4.2, "Durability": 4.5, "Comfort": 4.3, "Load capacity": 4.8, "Value": 4.8}
+      "specs": {
+        "Material": "真皮",
+        "Chain length": "30英寸鋼鏈",
+        "Pad width": "6英寸",
+        "Weight capacity": "300磅",
+        "Price": "$29.99"
+      },
+      "scores": {
+        "組裝品質": 4.2,
+        "耐用性": 4.5,
+        "舒適度": 4.3,
+        "負重容量": 4.8,
+        "性價比": 4.8
+      }
     },
     {
       "offerId": "harbinger-dip-belt",
       "badge": "最佳預算",
       "review": "重型聚丙烯織帶配30英寸鋼鏈——事實上的健身房標配。增加25-75磅毫無問題。鋼環比20美元以下腰帶的沖壓環明顯更強。在100磅負載下不如皮革舒適，但25美元是在投入高端產品前的明智起點。",
-      "pros": ["大多數商業健身房使用——經過驗證的良好記錄", "鋼環明顯比廉價沖壓環更強", "25美元的實用起點"],
-      "cons": ["聚丙烯織帶在重負載下舒適度不如皮革"],
+      "pros": [
+        "大多數商業健身房使用——經過驗證的良好記錄",
+        "鋼環明顯比廉價沖壓環更強",
+        "25美元的實用起點"
+      ],
+      "cons": [
+        "聚丙烯織帶在重負載下舒適度不如皮革"
+      ],
       "grade": "B+",
-      "specs": {"Material": "聚丙烯織帶", "Chain length": "30英寸鋼鏈", "Price": "$39.99", "Best for": "增加25-75磅重量"},
-      "scores": {"Build quality": 3.8, "Durability": 4.0, "Comfort": 3.5, "Load capacity": 4.0, "Value": 5.0}
+      "specs": {
+        "Material": "聚丙烯織帶",
+        "Chain length": "30英寸鋼鏈",
+        "Price": "$39.99",
+        "Best for": "增加25-75磅重量"
+      },
+      "scores": {
+        "組裝品質": 3.8,
+        "耐用性": 4,
+        "舒適度": 3.5,
+        "負重容量": 4,
+        "性價比": 5
+      }
     },
     {
       "offerId": "fire-team-fit-dip-belt",
       "badge": "最佳舒適度",
       "review": "氯丁橡膠襯墊從第一天就柔軟——無需磨合期。快速釋放扣加速組間切換，36英寸鏈條是這裡最長的，為多個鐵片或厚衝擊板提供空間。額定300磅。氯丁橡膠吸汗，溫熱健身房需要偶爾沖洗。",
-      "pros": ["氯丁橡膠從第一次使用就柔軟——無需磨合", "快速釋放扣加速切換", "36英寸鏈條可容納厚衝擊板"],
-      "cons": ["氯丁橡膠吸汗，需要偶爾沖洗"],
+      "pros": [
+        "氯丁橡膠從第一次使用就柔軟——無需磨合",
+        "快速釋放扣加速切換",
+        "36英寸鏈條可容納厚衝擊板"
+      ],
+      "cons": [
+        "氯丁橡膠吸汗，需要偶爾沖洗"
+      ],
       "grade": "B",
-      "specs": {"Material": "氯丁橡膠", "Chain length": "36英寸鋼鏈", "Pad width": "4英寸", "Weight capacity": "300磅", "Price": "$55.99"},
-      "scores": {"Build quality": 4.0, "Durability": 3.8, "Comfort": 4.8, "Load capacity": 4.5, "Value": 4.3}
+      "specs": {
+        "Material": "氯丁橡膠",
+        "Chain length": "36英寸鋼鏈",
+        "Pad width": "4英寸",
+        "Weight capacity": "300磅",
+        "Price": "$55.99"
+      },
+      "scores": {
+        "組裝品質": 4,
+        "耐用性": 3.8,
+        "舒適度": 4.8,
+        "負重容量": 4.5,
+        "性價比": 4.3
+      }
     },
     {
       "offerId": "mummyfit-dip-belt",
       "badge": "最佳性價比",
       "review": "預算氯丁橡膠配36英寸鏈條——與Fire Team Fit相同鏈條長度，價格約減半。五金件規格比Rogue或Dark Iron更輕，100磅以下沒問題，但如果計劃增加到135磅以上需注意。對於初學者或測試負重健美操的人，物超所值。",
-      "pros": ["30美元以內的36英寸鏈條", "氯丁橡膠襯墊從第一天就柔軟", "加重雙槓的零風險入門"],
-      "cons": ["較輕五金件規格——不適合135磅以上負載"],
+      "pros": [
+        "30美元以內的36英寸鏈條",
+        "氯丁橡膠襯墊從第一天就柔軟",
+        "加重雙槓的零風險入門"
+      ],
+      "cons": [
+        "較輕五金件規格——不適合135磅以上負載"
+      ],
       "grade": "B-",
-      "specs": {"Material": "氯丁橡膠", "Chain length": "36英寸鋼鏈", "Price": "$25", "Best for": "初學者，增加100磅以下重量"},
-      "scores": {"Build quality": 3.3, "Durability": 3.5, "Comfort": 4.2, "Load capacity": 3.5, "Value": 5.0}
+      "specs": {
+        "Material": "氯丁橡膠",
+        "Chain length": "36英寸鋼鏈",
+        "Price": "$25",
+        "Best for": "初學者，增加100磅以下重量"
+      },
+      "scores": {
+        "組裝品質": 3.3,
+        "耐用性": 3.5,
+        "舒適度": 4.2,
+        "負重容量": 3.5,
+        "性價比": 5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "適合增加90磅以上的認真舉重者", "offerId": "rogue-dip-belt", "reason": "美國製造的五金件和皮革，在高負載下不會變形或壓迫"},
-    {"label": "適合預算內皮革舒適度", "offerId": "dark-iron-fitness-dip-belt", "reason": "6英寸皮革墊比Rogue更寬，價格不到一半"},
-    {"label": "適合測試加重雙槓的初學者", "offerId": "harbinger-dip-belt", "reason": "商業健身房標準——25美元經過驗證，再決定是否升級"},
-    {"label": "適合快速組間切換", "offerId": "fire-team-fit-dip-belt", "reason": "快速釋放扣和從第一天就柔軟的氯丁橡膠"},
-    {"label": "適合最低成本入門", "offerId": "mummyfit-dip-belt", "reason": "30美元以內的36英寸鏈條——如果你發現加重雙槓不適合你，損失最小"}
+    {
+      "label": "適合增加90磅以上的認真舉重者",
+      "offerId": "rogue-dip-belt",
+      "reason": "美國製造的五金件和皮革，在高負載下不會變形或壓迫"
+    },
+    {
+      "label": "適合預算內皮革舒適度",
+      "offerId": "dark-iron-fitness-dip-belt",
+      "reason": "6英寸皮革墊比Rogue更寬，價格不到一半"
+    },
+    {
+      "label": "適合測試加重雙槓的初學者",
+      "offerId": "harbinger-dip-belt",
+      "reason": "商業健身房標準——25美元經過驗證，再決定是否升級"
+    },
+    {
+      "label": "適合快速組間切換",
+      "offerId": "fire-team-fit-dip-belt",
+      "reason": "快速釋放扣和從第一天就柔軟的氯丁橡膠"
+    },
+    {
+      "label": "適合最低成本入門",
+      "offerId": "mummyfit-dip-belt",
+      "reason": "30美元以內的36英寸鏈條——如果你發現加重雙槓不適合你，損失最小"
+    }
   ]
 }

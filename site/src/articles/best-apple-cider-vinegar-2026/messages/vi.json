@@ -98,58 +98,170 @@
       "offerId": "bragg-organic-acv",
       "badge": "Tốt Nhất Toàn Diện",
       "review": "Bragg vẫn là tiêu chuẩn tham chiếu cho ACV thô: chưa lọc, USDA Organic, với các sợi «mẹ» nhìn thấy xác nhận các nền nuôi cấy hoạt tính. Hương vị táo gắt có sự phức tạp lên men nhiều hơn so với các lựa chọn thay thế ở cửa hàng tạp hóa, và chai 32 oz được định giá cạnh tranh cho việc sử dụng tonic hàng ngày. Nếu bạn không chắc chắn, đây là loại nên bắt đầu.",
-      "pros": ["Chưa lọc «với mẹ» — nền nuôi cấy hoạt tính nhìn thấy được", "USDA Organic và Non-GMO verified", "Hương vị táo gắt, phức tạp được những người uống tonic ưa thích"],
-      "cons": ["Hương vị mạnh hơn hầu hết — người mới bắt đầu cần pha loãng"],
+      "pros": [
+        "Chưa lọc «với mẹ» — nền nuôi cấy hoạt tính nhìn thấy được",
+        "USDA Organic và Non-GMO verified",
+        "Hương vị táo gắt, phức tạp được những người uống tonic ưa thích"
+      ],
+      "cons": [
+        "Hương vị mạnh hơn hầu hết — người mới bắt đầu cần pha loãng"
+      ],
       "grade": "A+",
-      "specs": {"Size": "16 oz / 32 oz", "Organic": "USDA Certified", "Filtered": "Không (với mẹ)", "Acidity": "5%", "Dilution ratio": "1–2 muỗng canh mỗi 8 oz nước"},
-      "scores": {"Quality": 4.8, "Taste": 4.2, "Value": 4.0, "Nutrition": 4.5, "Versatility": 4.7}
+      "specs": {
+        "Size": "16 oz / 32 oz",
+        "Organic": "USDA Certified",
+        "Filtered": "Không (với mẹ)",
+        "Acidity": "5%",
+        "Dilution ratio": "1–2 muỗng canh mỗi 8 oz nước"
+      },
+      "scores": {
+        "Chất lượng": 4.8,
+        "Vị": 4.2,
+        "Giá trị": 4,
+        "Dinh dưỡng": 4.5,
+        "Tính đa năng": 4.7
+      }
     },
     {
       "offerId": "dynamic-health-acv",
       "badge": "Giá Trị Tốt Nhất",
       "review": "Tương đương chức năng với Bragg — USDA Organic, chưa lọc, với «mẹ» — nhưng thường rẻ hơn 15-20% mỗi oz. Nguồn gốc táo ít cụ thể hơn và hương vị ít phức tạp hơn một chút, nhưng cho nấu ăn khối lượng cao và tonic hàng ngày nơi chi phí mỗi oz quan trọng, Dynamic Health thu hẹp khoảng cách mà không có sự đánh đổi có ý nghĩa.",
-      "pros": ["Chi phí thấp nhất mỗi oz trong số các lựa chọn hữu cơ chưa lọc", "USDA Organic, chưa lọc, với «mẹ»", "Giá trị tốt cho sử dụng nấu ăn khối lượng cao"],
-      "cons": ["Ít tính minh bạch nguồn gốc hơn Fairchild's hoặc Bragg"],
+      "pros": [
+        "Chi phí thấp nhất mỗi oz trong số các lựa chọn hữu cơ chưa lọc",
+        "USDA Organic, chưa lọc, với «mẹ»",
+        "Giá trị tốt cho sử dụng nấu ăn khối lượng cao"
+      ],
+      "cons": [
+        "Ít tính minh bạch nguồn gốc hơn Fairchild's hoặc Bragg"
+      ],
       "grade": "A",
-      "specs": {"Size": "32 oz", "Organic": "USDA Certified", "Filtered": "Không (với mẹ)", "Acidity": "5%", "Price vs Bragg": "~rẻ hơn 15-20% mỗi oz"},
-      "scores": {"Quality": 4.2, "Taste": 3.9, "Value": 4.8, "Nutrition": 4.3, "Versatility": 4.4}
+      "specs": {
+        "Size": "32 oz",
+        "Organic": "USDA Certified",
+        "Filtered": "Không (với mẹ)",
+        "Acidity": "5%",
+        "Price vs Bragg": "~rẻ hơn 15-20% mỗi oz"
+      },
+      "scores": {
+        "Chất lượng": 4.2,
+        "Vị": 3.9,
+        "Giá trị": 4.8,
+        "Dinh dưỡng": 4.3,
+        "Tính đa năng": 4.4
+      }
     },
     {
       "offerId": "kevita-acv-tonic",
       "badge": "Tốt Nhất Về Khả Năng Uống",
       "review": "Kevita là đồ uống ACV có ga sẵn sàng uống với gừng, chanh và stevia khiến việc tiêu thụ ACV hàng ngày thực sự thú vị. Liều ACV thấp hơn tiêu chuẩn lỏng (khoảng 25mg mỗi chai so với 1-2 muỗng canh), và chi phí mỗi khẩu phần cao hơn — sự đánh đổi là những người gặp khó khăn với ACV thẳng thực sự duy trì được.",
-      "pros": ["Sẵn sàng uống — không cần pha trộn hay pha loãng", "Sự hóa ga và hương vị thêm vào làm cho nó ngon miệng hơn nhiều", "Độ axit thấp hơn giảm nguy cơ tiếp xúc men răng"],
-      "cons": ["Liều ACV thấp hơn giao thức lỏng tiêu chuẩn", "Chi phí mỗi khẩu phần cao hơn ACV lỏng"],
+      "pros": [
+        "Sẵn sàng uống — không cần pha trộn hay pha loãng",
+        "Sự hóa ga và hương vị thêm vào làm cho nó ngon miệng hơn nhiều",
+        "Độ axit thấp hơn giảm nguy cơ tiếp xúc men răng"
+      ],
+      "cons": [
+        "Liều ACV thấp hơn giao thức lỏng tiêu chuẩn",
+        "Chi phí mỗi khẩu phần cao hơn ACV lỏng"
+      ],
       "grade": "B+",
-      "specs": {"Size": "15.2 oz", "Format": "RTD Có Ga", "Added flavors": "Gừng, chanh, stevia", "Sugar": "0g đường thêm", "ACV dose per bottle": "~25 mg"},
-      "scores": {"Quality": 3.8, "Taste": 4.5, "Value": 3.2, "Nutrition": 3.5, "Versatility": 2.8}
+      "specs": {
+        "Size": "15.2 oz",
+        "Format": "RTD Có Ga",
+        "Added flavors": "Gừng, chanh, stevia",
+        "Sugar": "0g đường thêm",
+        "ACV dose per bottle": "~25 mg"
+      },
+      "scores": {
+        "Chất lượng": 3.8,
+        "Vị": 4.5,
+        "Giá trị": 3.2,
+        "Dinh dưỡng": 3.5,
+        "Tính đa năng": 2.8
+      }
     },
     {
       "offerId": "goli-acv-gummies",
       "badge": "Tốt Nhất Cho Tuân Thủ Hàng Ngày",
       "review": "Kẹo dẻo Goli cung cấp khoảng một muỗng cà phê tương đương ACV mỗi khẩu phần hai viên — ít hơn liều muỗng canh tiêu chuẩn nhưng dễ uống hàng ngày hơn nhiều. Được chứng nhận hữu cơ, thuần chay, Non-GMO, với vitamin B9 và B12 được thêm vào. Nếu bạn sẽ bỏ qua chất lỏng nhưng uống kẹo dẻo mỗi ngày, Goli mang lại kết quả tốt hơn trong thế giới thực thông qua sự tuân thủ.",
-      "pros": ["Không có mùi vị gắt, không cần pha trộn — tuân thủ định dạng cao nhất", "Vitamin B được thêm (B9 và B12)", "Được chứng nhận hữu cơ, thuần chay, Non-GMO"],
-      "cons": ["Liều ACV mỗi khẩu phần thấp hơn lỏng (1 muỗng cà phê so với 1-2 muỗng canh)", "Chi phí cao hơn mỗi gram ACV so với các lựa chọn lỏng"],
+      "pros": [
+        "Không có mùi vị gắt, không cần pha trộn — tuân thủ định dạng cao nhất",
+        "Vitamin B được thêm (B9 và B12)",
+        "Được chứng nhận hữu cơ, thuần chay, Non-GMO"
+      ],
+      "cons": [
+        "Liều ACV mỗi khẩu phần thấp hơn lỏng (1 muỗng cà phê so với 1-2 muỗng canh)",
+        "Chi phí cao hơn mỗi gram ACV so với các lựa chọn lỏng"
+      ],
       "grade": "B",
-      "specs": {"Serving": "2 viên kẹo dẻo", "ACV per serving": "~500 mg (~1 muỗng cà phê)", "Organic": "Có", "Added vitamins": "B9, B12", "Count": "60 viên"},
-      "scores": {"Quality": 4.0, "Taste": 4.6, "Value": 3.5, "Nutrition": 3.8, "Versatility": 2.5}
+      "specs": {
+        "Serving": "2 viên kẹo dẻo",
+        "ACV per serving": "~500 mg (~1 muỗng cà phê)",
+        "Organic": "Có",
+        "Added vitamins": "B9, B12",
+        "Count": "60 viên"
+      },
+      "scores": {
+        "Chất lượng": 4,
+        "Vị": 4.6,
+        "Giá trị": 3.5,
+        "Dinh dưỡng": 3.8,
+        "Tính đa năng": 2.5
+      }
     },
     {
       "offerId": "fairchilds-organic-acv",
       "badge": "Nguồn Gốc Ẩm Thực Tốt Nhất",
       "review": "Fairchild's tạo sự khác biệt với nguồn gốc táo Rag Bag Washington State rõ ràng và độ axit 5% đã được xác minh — loại tính minh bạch mà hầu hết các thương hiệu ACV tránh né. Hương vị sạch hơn và ít mùi nấm men hơn Bragg, làm cho nó phù hợp hơn cho các vinaigrette nhẹ và giấm uống nơi bạn muốn hương vị táo mà không có các nốt lên men nổi bật.",
-      "pros": ["Tên giống táo và bang Mỹ xuất xứ — tính minh bạch hiếm thấy", "Nhãn độ axit 5% rõ ràng", "Hương vị táo sạch hơn với ít sự phức tạp lên men hơn"],
-      "cons": ["Ít có sẵn hơn Bragg tại các nhà bán lẻ chính thống"],
+      "pros": [
+        "Tên giống táo và bang Mỹ xuất xứ — tính minh bạch hiếm thấy",
+        "Nhãn độ axit 5% rõ ràng",
+        "Hương vị táo sạch hơn với ít sự phức tạp lên men hơn"
+      ],
+      "cons": [
+        "Ít có sẵn hơn Bragg tại các nhà bán lẻ chính thống"
+      ],
       "grade": "B-",
-      "specs": {"Size": "32 oz", "Organic": "USDA Certified", "Apple source": "Táo Rag Bag WA State", "Acidity": "5% verified", "Filtered": "Không (với mẹ)"},
-      "scores": {"Quality": 4.5, "Taste": 4.3, "Value": 3.8, "Nutrition": 4.3, "Versatility": 4.0}
+      "specs": {
+        "Size": "32 oz",
+        "Organic": "USDA Certified",
+        "Apple source": "Táo Rag Bag WA State",
+        "Acidity": "5% verified",
+        "Filtered": "Không (với mẹ)"
+      },
+      "scores": {
+        "Chất lượng": 4.5,
+        "Vị": 4.3,
+        "Giá trị": 3.8,
+        "Dinh dưỡng": 4.3,
+        "Tính đa năng": 4
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Cho người uống tonic ACV hàng ngày", "offerId": "bragg-organic-acv", "reason": "ACV thô tham chiếu với chất lượng nhất quán giữa các lô — lựa chọn đầu tiên rõ ràng cho thói quen tonic pha loãng hàng ngày."},
-    {"label": "Cho nấu ăn khối lượng cao", "offerId": "dynamic-health-acv", "reason": "Rẻ hơn Bragg 15-20% mỗi oz với chứng nhận hữu cơ tương đương — lựa chọn đúng khi bạn dùng hết một chai mỗi tuần."},
-    {"label": "Cho người mới bắt đầu ACV", "offerId": "kevita-acv-tonic", "reason": "Có ga, có hương vị và đã pha loãng trước — rào cản vào thấp nhất cho những người thấy ACV lỏng thẳng quá gắt."},
-    {"label": "Cho người ưu tiên thói quen trước, liều sau", "offerId": "goli-acv-gummies", "reason": "Nếu bạn thực sự sẽ uống kẹo dẻo mỗi ngày nhưng bỏ qua chất lỏng, liều thấp nhất quán tốt hơn liều cao không nhất quán."},
-    {"label": "Cho vinaigrette nhẹ và sốt salad", "offerId": "fairchilds-organic-acv", "reason": "Hương vị táo sạch hơn và tính minh bạch nguồn gốc tạo ra sự khác biệt thực sự trong các công thức nơi tính chất ACV ở phía trước."}
+    {
+      "label": "Cho người uống tonic ACV hàng ngày",
+      "offerId": "bragg-organic-acv",
+      "reason": "ACV thô tham chiếu với chất lượng nhất quán giữa các lô — lựa chọn đầu tiên rõ ràng cho thói quen tonic pha loãng hàng ngày."
+    },
+    {
+      "label": "Cho nấu ăn khối lượng cao",
+      "offerId": "dynamic-health-acv",
+      "reason": "Rẻ hơn Bragg 15-20% mỗi oz với chứng nhận hữu cơ tương đương — lựa chọn đúng khi bạn dùng hết một chai mỗi tuần."
+    },
+    {
+      "label": "Cho người mới bắt đầu ACV",
+      "offerId": "kevita-acv-tonic",
+      "reason": "Có ga, có hương vị và đã pha loãng trước — rào cản vào thấp nhất cho những người thấy ACV lỏng thẳng quá gắt."
+    },
+    {
+      "label": "Cho người ưu tiên thói quen trước, liều sau",
+      "offerId": "goli-acv-gummies",
+      "reason": "Nếu bạn thực sự sẽ uống kẹo dẻo mỗi ngày nhưng bỏ qua chất lỏng, liều thấp nhất quán tốt hơn liều cao không nhất quán."
+    },
+    {
+      "label": "Cho vinaigrette nhẹ và sốt salad",
+      "offerId": "fairchilds-organic-acv",
+      "reason": "Hương vị táo sạch hơn và tính minh bạch nguồn gốc tạo ra sự khác biệt thực sự trong các công thức nơi tính chất ACV ở phía trước."
+    }
   ]
 }

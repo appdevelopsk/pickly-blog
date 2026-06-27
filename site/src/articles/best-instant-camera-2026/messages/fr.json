@@ -115,8 +115,14 @@
       "offerId": "fujifilm-instax-mini-12",
       "badge": "Meilleur Choix Global",
       "review": "L'Instax Mini 12 est l'appareil photo instantané le plus convaincant pour les débutants : exposition entièrement automatique, pas de menu, pas de dépendance à une app. Le tirage halogénure d'argent 62×46mm offre une vraie qualité photographique sans artefacts thermiques. Le miroir selfie et le mode gros plan sont particulièrement utiles pour les instantanés du quotidien. Le seul compromis : le coût par tirage est plus élevé que les impressions numériques, mais c'est le prix de l'expérience photo instantanée authentique.",
-      "pros": ["Exposition entièrement automatique — pas de menu, pas de configuration", "Tirages halogénure d'argent avec vraie qualité photo", "133g en fait l'option la plus portable de la comparaison"],
-      "cons": ["Coût par tirage plus élevé que les alternatives d'impression thermique"],
+      "pros": [
+        "Exposition entièrement automatique — pas de menu, pas de configuration",
+        "Tirages halogénure d'argent avec vraie qualité photo",
+        "133g en fait l'option la plus portable de la comparaison"
+      ],
+      "cons": [
+        "Coût par tirage plus élevé que les alternatives d'impression thermique"
+      ],
       "grade": "A+",
       "specs": {
         "Format de film": "Instax Mini (62×46mm)",
@@ -127,19 +133,25 @@
         "Caractéristiques": "Miroir selfie, mode gros plan"
       },
       "scores": {
-        "Print quality": 4.2,
-        "Film cost": 4.5,
-        "Ease of use": 5.0,
-        "Value": 4.8,
-        "Build quality": 4.0
+        "Qualité d'impression": 4.2,
+        "Coût du film": 4.5,
+        "Facilité d'utilisation": 5,
+        "Valeur": 4.8,
+        "Qualité de construction": 4
       }
     },
     {
       "offerId": "fujifilm-instax-wide-300",
       "badge": "Meilleur pour les Photos de Groupe",
       "review": "L'Instax Wide 300 produit des tirages de 85×54mm — deux fois plus grands que le format Mini — ce qui en fait la seule option de la comparaison pour de vraies photos de groupe. Le procédé halogénure d'argent offre la même qualité que le Mini 12, dans un format bien plus utile pour les paysages et les photos souvenir. Le compromis : l'appareil est encombrant et ne rentre pas dans les petits sacs.",
-      "pros": ["Tirages 85×54mm, deux fois plus grands que le format Mini", "Qualité halogénure d'argent pour de vrais souvenirs photo", "Roue d'exposition pour réglage manuel"],
-      "cons": ["Appareil encombrant — ne rentre pas dans les petits sacs"],
+      "pros": [
+        "Tirages 85×54mm, deux fois plus grands que le format Mini",
+        "Qualité halogénure d'argent pour de vrais souvenirs photo",
+        "Roue d'exposition pour réglage manuel"
+      ],
+      "cons": [
+        "Appareil encombrant — ne rentre pas dans les petits sacs"
+      ],
       "grade": "A",
       "specs": {
         "Format de film": "Instax Wide (85×54mm)",
@@ -150,19 +162,25 @@
         "Caractéristiques": "Plus grand format de film de la comparaison"
       },
       "scores": {
-        "Print quality": 4.5,
-        "Film cost": 4.3,
-        "Ease of use": 4.0,
-        "Value": 4.2,
-        "Build quality": 4.0
+        "Qualité d'impression": 4.5,
+        "Coût du film": 4.3,
+        "Facilité d'utilisation": 4,
+        "Valeur": 4.2,
+        "Qualité de construction": 4
       }
     },
     {
       "offerId": "polaroid-now-plus",
       "badge": "Option la Plus Créative",
       "review": "Le Polaroid Now+ combine l'esthétique nostalgique i-Type de Polaroid avec le contrôle par app Bluetooth, la double exposition, la multi-exposition et la mise au point manuelle. Le résultat est l'appareil instantané le plus créatif du test. Le prix du film est le principal problème : le film i-Type coûte par tirage environ deux fois plus que l'Instax Mini — et le résultat est moins reproductible.",
-      "pros": ["App Bluetooth avec double exposition et retardateur", "Mise au point manuelle pour un contrôle créatif", "Esthétique Polaroid iconique avec des fonctions modernes"],
-      "cons": ["Film i-Type — le plus cher par tirage de la comparaison"],
+      "pros": [
+        "App Bluetooth avec double exposition et retardateur",
+        "Mise au point manuelle pour un contrôle créatif",
+        "Esthétique Polaroid iconique avec des fonctions modernes"
+      ],
+      "cons": [
+        "Film i-Type — le plus cher par tirage de la comparaison"
+      ],
       "grade": "B+",
       "specs": {
         "Format de film": "Polaroid i-Type (88×107mm)",
@@ -173,19 +191,25 @@
         "Caractéristiques": "Double exposition, mise au point manuelle"
       },
       "scores": {
-        "Print quality": 4.3,
-        "Film cost": 2.5,
-        "Ease of use": 3.8,
-        "Value": 3.5,
-        "Build quality": 4.2
+        "Qualité d'impression": 4.3,
+        "Coût du film": 2.5,
+        "Facilité d'utilisation": 3.8,
+        "Valeur": 3.5,
+        "Qualité de construction": 4.2
       }
     },
     {
       "offerId": "kodak-mini-shot-3-retro",
       "badge": "Coût de Fonctionnement le Plus Bas",
       "review": "Le Kodak Mini Shot 3 Retro est le seul hybride du test : imprimez directement depuis l'appareil ou transférez des photos depuis le smartphone via l'app. La sublimation de colorant 4PASS produit des tirages plus durables que le film Instax. Le coût de fonctionnement par tirage est le plus bas de la comparaison. Le compromis : la qualité d'impression est subtilement moins vive que l'halogénure d'argent.",
-      "pros": ["Le coût de fonctionnement par tirage le plus bas de la comparaison", "Mode dual : appareil direct et app smartphone", "Sublimation de colorant 4PASS plus durable que le film halogénure d'argent"],
-      "cons": ["Qualité d'impression subtilement moins vive que le vrai halogénure d'argent"],
+      "pros": [
+        "Le coût de fonctionnement par tirage le plus bas de la comparaison",
+        "Mode dual : appareil direct et app smartphone",
+        "Sublimation de colorant 4PASS plus durable que le film halogénure d'argent"
+      ],
+      "cons": [
+        "Qualité d'impression subtilement moins vive que le vrai halogénure d'argent"
+      ],
       "grade": "B",
       "specs": {
         "Format de film": "Kodak Mini (68×84mm)",
@@ -196,19 +220,25 @@
         "Caractéristiques": "Hybride smartphone"
       },
       "scores": {
-        "Print quality": 4.0,
-        "Film cost": 5.0,
-        "Ease of use": 3.5,
-        "Value": 4.5,
-        "Build quality": 3.8
+        "Qualité d'impression": 4,
+        "Coût du film": 5,
+        "Facilité d'utilisation": 3.5,
+        "Valeur": 4.5,
+        "Qualité de construction": 3.8
       }
     },
     {
       "offerId": "canon-ivy-cliq-plus-2",
       "badge": "Meilleure Intégration Smartphone",
       "review": "Le Canon IVY CLIQ+2 offre l'intégration smartphone la plus profonde : éditez et filtrez avant d'imprimer, ajoutez des effets AR et imprimez directement depuis l'app. Le procédé thermique ZINK élimine complètement le coût du film. La limitation est la taille d'impression : 51×76mm est le plus petit format de la comparaison, et les couleurs ZINK sont moins saturées que l'halogénure d'argent.",
-      "pros": ["L'intégration smartphone la plus profonde avec édition avant impression", "Effets AR et filtres pour personnalisation créative", "Pas besoin de film halogénure d'argent coûteux"],
-      "cons": ["51×76mm le plus petit format d'impression ; couleurs ZINK moins saturées"],
+      "pros": [
+        "L'intégration smartphone la plus profonde avec édition avant impression",
+        "Effets AR et filtres pour personnalisation créative",
+        "Pas besoin de film halogénure d'argent coûteux"
+      ],
+      "cons": [
+        "51×76mm le plus petit format d'impression ; couleurs ZINK moins saturées"
+      ],
       "grade": "B-",
       "specs": {
         "Format de film": "51×76mm (2×3 pouces)",
@@ -219,11 +249,11 @@
         "Caractéristiques": "Édition avant impression, effets AR"
       },
       "scores": {
-        "Print quality": 3.5,
-        "Film cost": 3.5,
-        "Ease of use": 4.2,
-        "Value": 3.3,
-        "Build quality": 4.0
+        "Qualité d'impression": 3.5,
+        "Coût du film": 3.5,
+        "Facilité d'utilisation": 4.2,
+        "Valeur": 3.3,
+        "Qualité de construction": 4
       }
     }
   ],

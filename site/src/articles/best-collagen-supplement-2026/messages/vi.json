@@ -59,8 +59,14 @@
       "offerId": "vital-proteins-collagen",
       "badge": "Tốt Nhất Tổng Thể",
       "review": "Vital Proteins đã xây dựng danh mục thực phẩm bổ sung collagen đại trà và vẫn là tiêu chuẩn. 20g collagen bò thủy phân (Loại I & III) mỗi khẩu phần tan hoàn toàn trong nước lạnh, cà phê nóng hoặc sinh tố mà không thay đổi hương vị. Hạn chế là có thật: không có chứng nhận bên thứ ba NSF hoặc Informed Sport.",
-      "pros": ["20g collagen mỗi khẩu phần tan hoàn toàn trong đồ uống lạnh hoặc nóng mà không ảnh hưởng hương vị", "80mg Vitamin C bổ sung mỗi khẩu phần hỗ trợ con đường tổng hợp collagen của cơ thể", "Có sẵn rộng rãi, chất lượng nhất quán giữa các lô trong một thập kỷ"],
-      "cons": ["Không có chứng nhận bên thứ ba NSF hoặc Informed Sport — xác minh phòng thí nghiệm độc lập không có sẵn"],
+      "pros": [
+        "20g collagen mỗi khẩu phần tan hoàn toàn trong đồ uống lạnh hoặc nóng mà không ảnh hưởng hương vị",
+        "80mg Vitamin C bổ sung mỗi khẩu phần hỗ trợ con đường tổng hợp collagen của cơ thể",
+        "Có sẵn rộng rãi, chất lượng nhất quán giữa các lô trong một thập kỷ"
+      ],
+      "cons": [
+        "Không có chứng nhận bên thứ ba NSF hoặc Informed Sport — xác minh phòng thí nghiệm độc lập không có sẵn"
+      ],
       "grade": "A+",
       "specs": {
         "Collagen type": "Loại I & III (bò thủy phân)",
@@ -70,14 +76,26 @@
         "Certifications": "Whole30, Paleo, không có sữa, không có gluten",
         "Flavor (unflavored)": "Không phát hiện được trong nước lạnh và cà phê"
       },
-      "scores": {"Efficacy": 4.7, "Value": 4.5, "Taste": 4.9, "Purity": 4.3, "Ease of use": 5.0}
+      "scores": {
+        "Hiệu quả": 4.7,
+        "Giá trị": 4.5,
+        "Vị": 4.9,
+        "Độ tinh khiết": 4.3,
+        "Dễ sử dụng": 5
+      }
     },
     {
       "offerId": "garden-of-life-collagen",
       "badge": "Chất Lượng Được Chứng Nhận Tốt Nhất",
       "review": "Garden of Life là loại collagen duy nhất trong so sánh này được chứng nhận USDA hữu cơ + NSF cho thể thao — cả hai chứng nhận đều được xác minh độc lập. 20g peptide collagen bò với 1,5 tỷ CFU probiotic và Vitamin C. Chất lượng khoáng chất cỏ mờ nhạt trong phiên bản không mùi vị dễ nhận thấy trong nước nhưng biến mất trong sinh tố.",
-      "pros": ["USDA hữu cơ + NSF Chứng Nhận cho Thể Thao — thông tin xác thực bên thứ ba mạnh nhất trong danh mục", "20g collagen với probiotic bổ sung (1,5 tỷ CFU) cho hỗ trợ ruột và khớp kết hợp", "Thử nghiệm độc lập với hơn 270 chất bị cấm liên quan đến vận động viên thi đấu"],
-      "cons": ["Hương vị khoáng chất cỏ mờ nhạt trong nước — biến mất trong sinh tố hoặc nước trái cây"],
+      "pros": [
+        "USDA hữu cơ + NSF Chứng Nhận cho Thể Thao — thông tin xác thực bên thứ ba mạnh nhất trong danh mục",
+        "20g collagen với probiotic bổ sung (1,5 tỷ CFU) cho hỗ trợ ruột và khớp kết hợp",
+        "Thử nghiệm độc lập với hơn 270 chất bị cấm liên quan đến vận động viên thi đấu"
+      ],
+      "cons": [
+        "Hương vị khoáng chất cỏ mờ nhạt trong nước — biến mất trong sinh tố hoặc nước trái cây"
+      ],
       "grade": "A",
       "specs": {
         "Collagen type": "Loại I & III (bò ăn cỏ)",
@@ -87,14 +105,26 @@
         "Certifications": "USDA Hữu Cơ, NSF Chứng Nhận cho Thể Thao, chứng nhận ăn cỏ",
         "Flavor (unflavored)": "Khoáng chất cỏ nhẹ — không phát hiện được trong sinh tố"
       },
-      "scores": {"Efficacy": 4.7, "Value": 4.0, "Taste": 4.4, "Purity": 5.0, "Ease of use": 4.7}
+      "scores": {
+        "Hiệu quả": 4.7,
+        "Giá trị": 4,
+        "Vị": 4.4,
+        "Độ tinh khiết": 5,
+        "Dễ sử dụng": 4.7
+      }
     },
     {
       "offerId": "ancient-nutrition-collagen",
       "badge": "Công Thức Đa Loại Tốt Nhất",
       "review": "Ancient Nutrition là sản phẩm duy nhất trong so sánh này được xây dựng trên nền tảng nước hầm xương thực sự — không chỉ là peptide cô lập. Hỗn hợp bao gồm tất cả năm loại collagen chính từ bốn nguồn động vật. Hương vị đất hơn trong chất lỏng nóng là có thật nhưng phiên bản có hương vị xử lý tốt; không mùi vị tốt nhất trong sinh tố.",
-      "pros": ["5 loại collagen (I, II, III, V, X) từ 4 nguồn động vật — công thức bao phủ rộng nhất", "Nền tảng nước hầm xương giữ lại glycine, glutamine và các axit amin khác từ nấu toàn thực phẩm", "Có sẵn rộng rãi tại Costco, Walmart và Target — ít ma sát nhất khi đặt hàng lại"],
-      "cons": ["Hương vị đậm hơn peptide collagen thuần — không mùi vị tốt nhất trong sinh tố"],
+      "pros": [
+        "5 loại collagen (I, II, III, V, X) từ 4 nguồn động vật — công thức bao phủ rộng nhất",
+        "Nền tảng nước hầm xương giữ lại glycine, glutamine và các axit amin khác từ nấu toàn thực phẩm",
+        "Có sẵn rộng rãi tại Costco, Walmart và Target — ít ma sát nhất khi đặt hàng lại"
+      ],
+      "cons": [
+        "Hương vị đậm hơn peptide collagen thuần — không mùi vị tốt nhất trong sinh tố"
+      ],
       "grade": "B+",
       "specs": {
         "Collagen type": "Loại I, II, III, V, X (đa collagen)",
@@ -104,14 +134,26 @@
         "Certifications": "Khác nhau theo SKU — kiểm tra CoA hiện tại",
         "Flavor (unflavored)": "Đặc tính nước hầm xương trái đất — tốt nhất trong sinh tố"
       },
-      "scores": {"Efficacy": 4.6, "Value": 4.3, "Taste": 3.9, "Purity": 4.2, "Ease of use": 4.5}
+      "scores": {
+        "Hiệu quả": 4.6,
+        "Giá trị": 4.3,
+        "Vị": 3.9,
+        "Độ tinh khiết": 4.2,
+        "Dễ sử dụng": 4.5
+      }
     },
     {
       "offerId": "sports-research-collagen",
       "badge": "Giá Trị Tốt Nhất với Chứng Nhận",
       "review": "Sports Research đưa ra lập luận giá trị rõ ràng nhất: chứng nhận BSCG ở mức giá thấp hơn Vital Proteins 10-15%. 11g mỗi thìa ở cuối thấp của phạm vi lâm sàng nhưng trong liều mà lợi ích cho khớp và da đã được quan sát trong các nghiên cứu có đối chứng. Khả năng hòa tan tuyệt vời.",
-      "pros": ["BSCG chứng nhận — một trong những chương trình thử nghiệm thực phẩm bổ sung bên thứ ba nghiêm ngặt nhất", "11g mỗi thìa cung cấp nhiều khẩu phần hơn mỗi hộp; chi phí hàng ngày hiệu quả thấp hơn hầu hết đối thủ", "Khả năng hòa tan lạnh và nóng tuyệt vời — không vón cục trong cà phê hoặc sinh tố"],
-      "cons": ["11g mỗi khẩu phần ở cuối thấp của phạm vi lâm sàng; giao thức liều cao yêu cầu hai thìa"],
+      "pros": [
+        "BSCG chứng nhận — một trong những chương trình thử nghiệm thực phẩm bổ sung bên thứ ba nghiêm ngặt nhất",
+        "11g mỗi thìa cung cấp nhiều khẩu phần hơn mỗi hộp; chi phí hàng ngày hiệu quả thấp hơn hầu hết đối thủ",
+        "Khả năng hòa tan lạnh và nóng tuyệt vời — không vón cục trong cà phê hoặc sinh tố"
+      ],
+      "cons": [
+        "11g mỗi khẩu phần ở cuối thấp của phạm vi lâm sàng; giao thức liều cao yêu cầu hai thìa"
+      ],
       "grade": "B",
       "specs": {
         "Collagen type": "Loại I & III (bò thủy phân)",
@@ -121,14 +163,26 @@
         "Certifications": "BSCG (Nhóm Kiểm Soát Chất Bị Cấm) chứng nhận",
         "Flavor (unflavored)": "Về cơ bản không có vị trong cà phê và sinh tố"
       },
-      "scores": {"Efficacy": 4.4, "Value": 4.8, "Taste": 4.9, "Purity": 4.8, "Ease of use": 5.0}
+      "scores": {
+        "Hiệu quả": 4.4,
+        "Giá trị": 4.8,
+        "Vị": 4.9,
+        "Độ tinh khiết": 4.8,
+        "Dễ sử dụng": 5
+      }
     },
     {
       "offerId": "bulletproof-collagen",
       "badge": "Tốt Nhất cho Tích Hợp Cà Phê",
       "review": "Bulletproof Collagen được tối ưu hóa cho một trường hợp sử dụng: khuấy vào cà phê hàng ngày mà không thay đổi trải nghiệm. 18g mỗi khẩu phần từ nguồn bò chăn thả, với hồ sơ hương vị sạch nhất trong so sánh này khi thêm vào cà phê đen. Hạn chế thành thật: không có chứng nhận NSF hoặc BSCG, và collagen không phải là protein hoàn chỉnh.",
-      "pros": ["Không có sự thay đổi hương vị có thể phát hiện trong cà phê đen — collagen không mùi vị sạch nhất trong so sánh", "18g mỗi khẩu phần từ nguồn bò chăn thả, không có chất độn hoặc phụ gia nhân tạo", "Được thiết kế để tích hợp vào cà phê kiểu Bulletproof với dầu MCT và bơ mà không đông vón"],
-      "cons": ["Không có chứng nhận bên thứ ba NSF hoặc BSCG; collagen không phải là protein hoàn chỉnh (thiếu tryptophan)"],
+      "pros": [
+        "Không có sự thay đổi hương vị có thể phát hiện trong cà phê đen — collagen không mùi vị sạch nhất trong so sánh",
+        "18g mỗi khẩu phần từ nguồn bò chăn thả, không có chất độn hoặc phụ gia nhân tạo",
+        "Được thiết kế để tích hợp vào cà phê kiểu Bulletproof với dầu MCT và bơ mà không đông vón"
+      ],
+      "cons": [
+        "Không có chứng nhận bên thứ ba NSF hoặc BSCG; collagen không phải là protein hoàn chỉnh (thiếu tryptophan)"
+      ],
       "grade": "B-",
       "specs": {
         "Collagen type": "Loại I & III (bò thủy phân)",
@@ -138,14 +192,40 @@
         "Certifications": "Không có (chỉ kiểm tra chất lượng thương hiệu)",
         "Flavor (unflavored)": "Hoàn toàn không phát hiện được trong cà phê đen — tốt nhất trong danh mục"
       },
-      "scores": {"Efficacy": 4.3, "Value": 4.1, "Taste": 5.0, "Purity": 4.0, "Ease of use": 5.0}
+      "scores": {
+        "Hiệu quả": 4.3,
+        "Giá trị": 4.1,
+        "Vị": 5,
+        "Độ tinh khiết": 4,
+        "Dễ sử dụng": 5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Cho hầu hết mọi người muốn thói quen collagen hàng ngày đơn giản", "offerId": "vital-proteins-collagen", "reason": "20g mỗi khẩu phần tan vô hình trong bất kỳ đồ uống nào — lựa chọn ít ma sát nhất cho sử dụng hàng ngày nhất quán."},
-    {"label": "Cho vận động viên được chứng nhận và người mua cần xác minh phòng thí nghiệm bên thứ ba", "offerId": "garden-of-life-collagen", "reason": "USDA hữu cơ + NSF Chứng Nhận cho Thể Thao là sự kết hợp thông tin xác thực mạnh nhất trong danh mục collagen."},
-    {"label": "Cho những người muốn bao phủ toàn diện các loại collagen trong một sản phẩm", "offerId": "ancient-nutrition-collagen", "reason": "Năm loại collagen từ bốn nguồn cộng với nền tảng nước hầm xương — công thức sản phẩm đơn hoàn chỉnh nhất."},
-    {"label": "Cho người mua có ý thức về ngân sách không muốn thỏa hiệp về thử nghiệm bên thứ ba", "offerId": "sports-research-collagen", "reason": "Chứng nhận BSCG với chi phí thấp hơn đối thủ 10-15% — giá trị tốt nhất với đảm bảo chất lượng được ghi lại."},
-    {"label": "Cho người uống cà phê hàng ngày muốn không ảnh hưởng hương vị", "offerId": "bulletproof-collagen", "reason": "Được tối ưu hóa đặc biệt để tan trong cà phê đen mà không thay đổi hương vị — vô song trong trường hợp sử dụng này."}
+    {
+      "label": "Cho hầu hết mọi người muốn thói quen collagen hàng ngày đơn giản",
+      "offerId": "vital-proteins-collagen",
+      "reason": "20g mỗi khẩu phần tan vô hình trong bất kỳ đồ uống nào — lựa chọn ít ma sát nhất cho sử dụng hàng ngày nhất quán."
+    },
+    {
+      "label": "Cho vận động viên được chứng nhận và người mua cần xác minh phòng thí nghiệm bên thứ ba",
+      "offerId": "garden-of-life-collagen",
+      "reason": "USDA hữu cơ + NSF Chứng Nhận cho Thể Thao là sự kết hợp thông tin xác thực mạnh nhất trong danh mục collagen."
+    },
+    {
+      "label": "Cho những người muốn bao phủ toàn diện các loại collagen trong một sản phẩm",
+      "offerId": "ancient-nutrition-collagen",
+      "reason": "Năm loại collagen từ bốn nguồn cộng với nền tảng nước hầm xương — công thức sản phẩm đơn hoàn chỉnh nhất."
+    },
+    {
+      "label": "Cho người mua có ý thức về ngân sách không muốn thỏa hiệp về thử nghiệm bên thứ ba",
+      "offerId": "sports-research-collagen",
+      "reason": "Chứng nhận BSCG với chi phí thấp hơn đối thủ 10-15% — giá trị tốt nhất với đảm bảo chất lượng được ghi lại."
+    },
+    {
+      "label": "Cho người uống cà phê hàng ngày muốn không ảnh hưởng hương vị",
+      "offerId": "bulletproof-collagen",
+      "reason": "Được tối ưu hóa đặc biệt để tan trong cà phê đen mà không thay đổi hương vị — vô song trong trường hợp sử dụng này."
+    }
   ]
 }

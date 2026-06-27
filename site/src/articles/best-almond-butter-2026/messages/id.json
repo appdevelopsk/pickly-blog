@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
-        "Texture": 4.8,
-        "Nutrition": 5
+        "Rasa": 4.7,
+        "Pengadaan": 4.8,
+        "Nilai": 4.7,
+        "Tekstur": 4.8,
+        "Nutrisi": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
-        "Texture": 4,
-        "Nutrition": 4.7
+        "Rasa": 4.4,
+        "Pengadaan": 4,
+        "Nilai": 4.4,
+        "Tekstur": 4,
+        "Nutrisi": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
-        "Texture": 4.2,
-        "Nutrition": 4.4
+        "Rasa": 4.6,
+        "Pengadaan": 4.2,
+        "Nilai": 4.1,
+        "Tekstur": 4.2,
+        "Nutrisi": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
-        "Texture": 3.4,
-        "Nutrition": 4.1
+        "Rasa": 3.8,
+        "Pengadaan": 3.9,
+        "Nilai": 3.8,
+        "Tekstur": 3.4,
+        "Nutrisi": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
-        "Texture": 3.6,
-        "Nutrition": 3.8
+        "Rasa": 4,
+        "Pengadaan": 3.6,
+        "Nilai": 4,
+        "Tekstur": 3.6,
+        "Nutrisi": 3.8
       }
     }
   ],
-  "methodology": "Kami menilai setiap produk berdasarkan profil rasa, transparansi pengadaan, nilai per sajian, integritas kemasan, dan seberapa baik kinerjanya di seluruh kasus penggunaan umum. Sertifikasi yang terdokumentasi dan ulasan pengguna yang diverifikasi diperiksa silang dengan klaim pemasaran."
+  "methodology": "Kami menilai setiap produk berdasarkan profil rasa, transparansi pengadaan, nilai per sajian, integritas kemasan, dan seberapa baik kinerjanya di seluruh kasus penggunaan umum. Sertifikasi yang terdokumentasi dan ulasan pengguna yang diverifikasi diperiksa silang dengan klaim pemasaran.",
+  "recommendedFor": [
+    {
+      "label": "Untuk olesan cepat sehari-hari",
+      "offerId": "justins-classic-almond-butter",
+      "reason": "Ideal untuk rumah tangga sibuk yang ingin olesan creamy tanpa diaduk dengan hanya dua bahan."
+    },
+    {
+      "label": "Untuk memasak dengan tekstur halus",
+      "offerId": "barney-bare-almond-butter",
+      "reason": "Terbaik bagi yang menyukai pasta lebih halus dan ringan yang mudah menyatu dalam resep manis dan gurih."
+    },
+    {
+      "label": "Untuk yang menghindari minyak sawit",
+      "offerId": "wild-friends-almond-butter",
+      "reason": "Cocok bagi yang menghindari minyak sawit dan ingin stoples organik bersih yang digiling batu."
+    },
+    {
+      "label": "Untuk penggemar makanan mentah",
+      "offerId": "artisana-organic-almond-butter",
+      "reason": "Sempurna bagi penggemar raw food yang mencari rasa intens dan kompleks dengan kepadatan nutrisi maksimal."
+    },
+    {
+      "label": "Untuk pemakaian harian tanpa repot",
+      "offerId": "maranatha-no-stir-almond-butter",
+      "reason": "Cocok bagi siapa pun yang ingin olesan konsisten dan praktis tanpa perlu diaduk sama sekali."
+    }
+  ]
 }

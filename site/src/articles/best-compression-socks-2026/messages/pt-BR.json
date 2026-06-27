@@ -44,51 +44,146 @@
       "offerId": "compression-socks-cep-run-4-0",
       "badge": "Melhor Compressão Clínica",
       "review": "CEP Run 4.0 entrega compressão gradual certificada de 20–30 mmHg da medi GmbH — o mesmo padrão clínico que meias de compressão médicas. A atualização do bico de 2026 proporciona um antepé mais largo para maior conforto. A R$325, é a opção mais cara aqui, mas a retenção de compressão em 80+ lavagens e a precisão certificada do gradiente tornam a proporção de custo por lavagem competitiva com meias mais baratas que se degradam mais rápido.",
-      "pros": ["medi GmbH certificada 20–30 mmHg — gradiente de compressão clinicamente mais preciso desta comparação", "Retenção de compressão em 80+ lavagens — melhor durabilidade de longo prazo de qualquer opção aqui", "Atualização 2026 com bico mais largo melhora o conforto do antepé"],
-      "cons": ["R$325 o par — ponto de preço mais alto desta comparação"],
+      "pros": [
+        "medi GmbH certificada 20–30 mmHg — gradiente de compressão clinicamente mais preciso desta comparação",
+        "Retenção de compressão em 80+ lavagens — melhor durabilidade de longo prazo de qualquer opção aqui",
+        "Atualização 2026 com bico mais largo melhora o conforto do antepé"
+      ],
+      "cons": [
+        "R$325 o par — ponto de preço mais alto desta comparação"
+      ],
       "grade": "A+",
-      "specs": {"Compression": "20–30 mmHg (certificado)", "Fiber": "Nylon/elastano", "Anatomical": "Esquerda/direita específico", "Toe": "Sem costura", "Wash durability": "80+ lavagens", "Price": "R$325"},
-      "scores": {"Compression accuracy": 5.0, "Blister resistance": 4.3, "Durability": 5.0, "Comfort": 4.4, "Value": 3.5}
+      "specs": {
+        "Compression": "20–30 mmHg (certificado)",
+        "Fiber": "Nylon/elastano",
+        "Anatomical": "Esquerda/direita específico",
+        "Toe": "Sem costura",
+        "Wash durability": "80+ lavagens",
+        "Price": "R$325"
+      },
+      "scores": {
+        "Precisão de Compressão": 5,
+        "Resistência a Bolhas": 4.3,
+        "Durabilidade": 5,
+        "Conforto": 4.4,
+        "Valor": 3.5
+      }
     },
     {
       "offerId": "compression-socks-balega-blister-resist",
       "badge": "Melhor Antibolhas",
       "review": "A mistura mohair/nylon/elastano da Balega oferece o menor atrito de todas as meias desta comparação — a superfície lisa da fibra de mohair desliza sobre o pé em vez de cortá-lo. Combinada com bico sem costura e amortecimento lateral do antepé, é a meia de prevenção de bolhas mais eficaz aqui. A compressão é leve (15–20 mmHg), não é prioridade. A atualização de largura 2026 resolve a limitação do calce estreito. Melhor para corredores com histórico de bolhas nos dedos e antepé.",
-      "pros": ["Mistura de fibra de mohair — menor atrito desta comparação, excepcionalmente eficaz na prevenção de bolhas", "Opção de largura 2026 resolve a exclusão para pés mais largos", "Bico sem costura mais amortecimento lateral do antepé mira nas duas zonas de bolhas mais comuns"],
-      "cons": ["Apenas compressão leve (15–20 mmHg) — não é a escolha certa se o benefício de compressão clínica é o objetivo"],
+      "pros": [
+        "Mistura de fibra de mohair — menor atrito desta comparação, excepcionalmente eficaz na prevenção de bolhas",
+        "Opção de largura 2026 resolve a exclusão para pés mais largos",
+        "Bico sem costura mais amortecimento lateral do antepé mira nas duas zonas de bolhas mais comuns"
+      ],
+      "cons": [
+        "Apenas compressão leve (15–20 mmHg) — não é a escolha certa se o benefício de compressão clínica é o objetivo"
+      ],
       "grade": "A",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Mohair/nylon/elastano", "Anatomical": "Esquerda/direita específico", "Toe": "Sem costura", "Width": "Padrão + largo (2026)", "Price": "R$100"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 5.0, "Durability": 4.3, "Comfort": 4.8, "Value": 4.9}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Mohair/nylon/elastano",
+        "Anatomical": "Esquerda/direita específico",
+        "Toe": "Sem costura",
+        "Width": "Padrão + largo (2026)",
+        "Price": "R$100"
+      },
+      "scores": {
+        "Precisão de Compressão": 4,
+        "Resistência a Bolhas": 5,
+        "Durabilidade": 4.3,
+        "Conforto": 4.8,
+        "Valor": 4.9
+      }
     },
     {
       "offerId": "compression-socks-sockwell-pulse",
       "badge": "Melhor para Corrida com Temperatura Variável",
       "review": "Sockwell Pulse usa uma mistura merino/nylon/spandex que termorregula em faixas de temperatura sazonais — a fibra oca de merino isola no frio e remove umidade no calor. A 15–20 mmHg, a compressão é leve. A vantagem do gerenciamento térmico aparece com mais clareza em corridas de trilha com mudança de elevação significativa ou em corridas de início e fim de temporada com variações de temperatura. Não é a líder em compressão nem em bolhas, mas o melhor multiuso sazonal.",
-      "pros": ["Termorregulação de lã merino — gerencia temperaturas entre estações melhor que fibras sintéticas", "Remoção de umidade reduz risco de bolhas em corridas longas com temperatura variável", "Preço intermediário a R$175 com durabilidade acima da média"],
-      "cons": ["15–20 mmHg compressão leve — não adequada para corredores que precisam do benefício de compressão clínica de 20–30 mmHg"],
+      "pros": [
+        "Termorregulação de lã merino — gerencia temperaturas entre estações melhor que fibras sintéticas",
+        "Remoção de umidade reduz risco de bolhas em corridas longas com temperatura variável",
+        "Preço intermediário a R$175 com durabilidade acima da média"
+      ],
+      "cons": [
+        "15–20 mmHg compressão leve — não adequada para corredores que precisam do benefício de compressão clínica de 20–30 mmHg"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Lã merino/nylon/spandex", "Anatomical": "Esquerda/direita específico", "Toe": "Sem costura", "Wash durability": "60 lavagens retenção moderada", "Price": "R$175"},
-      "scores": {"Compression accuracy": 4.1, "Blister resistance": 4.2, "Durability": 4.4, "Comfort": 4.7, "Value": 4.5}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Lã merino/nylon/spandex",
+        "Anatomical": "Esquerda/direita específico",
+        "Toe": "Sem costura",
+        "Wash durability": "60 lavagens retenção moderada",
+        "Price": "R$175"
+      },
+      "scores": {
+        "Precisão de Compressão": 4.1,
+        "Resistência a Bolhas": 4.2,
+        "Durabilidade": 4.4,
+        "Conforto": 4.7,
+        "Valor": 4.5
+      }
     },
     {
       "offerId": "compression-socks-tabio-jp",
       "badge": "Melhor para o Mercado Japonês",
       "review": "Tabio Racing Fine usa construção de nylon de denier fino com diferenciação anatômica esquerda/direita. A atualização de 2026 adicionou um reforço de calcanhar e melhoria da retenção de compressão em 60 lavagens — a versão anterior perdia elasticidade significativa em 30–40 lavagens. O denier fino dá uma sensação de superfície de menor atrito e peso mais leve do que construções típicas de marcas ocidentais. Compressão leve (15–20 mmHg). Melhor para corredores de rua que preferem uma meia mais leve e mais slim.",
-      "pros": ["Construção de nylon de denier fino — mais leve e de menor atrito que a meia de corrida ocidental típica", "2026 calcanhar reforçado e melhoria de retenção de compressão em 60 lavagens", "Construção anatômica esquerda/direita para calce preciso"],
-      "cons": ["Disponibilidade limitada fora do Japão — principalmente disponível através das lojas Tabio Japan e online"],
+      "pros": [
+        "Construção de nylon de denier fino — mais leve e de menor atrito que a meia de corrida ocidental típica",
+        "2026 calcanhar reforçado e melhoria de retenção de compressão em 60 lavagens",
+        "Construção anatômica esquerda/direita para calce preciso"
+      ],
+      "cons": [
+        "Disponibilidade limitada fora do Japão — principalmente disponível através das lojas Tabio Japan e online"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Nylon de denier fino/elastano", "Anatomical": "Esquerda/direita específico", "Toe": "Sem costura", "Market": "Principalmente Japão", "Price": "Econômico"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.3, "Durability": 4.5, "Comfort": 4.6, "Value": 4.8}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Nylon de denier fino/elastano",
+        "Anatomical": "Esquerda/direita específico",
+        "Toe": "Sem costura",
+        "Market": "Principalmente Japão",
+        "Price": "Econômico"
+      },
+      "scores": {
+        "Precisão de Compressão": 4,
+        "Resistência a Bolhas": 4.3,
+        "Durabilidade": 4.5,
+        "Conforto": 4.6,
+        "Valor": 4.8
+      }
     },
     {
       "offerId": "compression-socks-feetures-elite",
       "badge": "Melhor para Fasciíte Plantar",
       "review": "Feetures Elite usa o sistema iWCL para mapear zonas de amortecimento em pontos de pressão anatômicos da superfície plantar em vez de aplicar amortecimento uniforme. O resultado é uma meia mais leve com proteção direcionada exatamente onde o impacto ocorre. A atualização de 2026 adicionou uma zona de fricção no mediopé especificamente para calçados minimalistas. A 15–20 mmHg, a compressão é leve. Melhor para corredores com histórico de fasciíte plantar ou que correm longas distâncias em calçados de drop zero ou de stack baixo.",
-      "pros": ["Mapeamento de amortecimento direcionado iWCL — proteção nos pontos de pressão plantar sem peso desnecessário", "Zona de fricção do mediopé 2026 aborda o padrão de bolhas em calçados minimalistas", "Calce anatômico com zoneamento de compressão direcionado"],
-      "cons": ["15–20 mmHg compressão leve — não é a escolha para benefício de compressão de nível clínico após corridas longas"],
+      "pros": [
+        "Mapeamento de amortecimento direcionado iWCL — proteção nos pontos de pressão plantar sem peso desnecessário",
+        "Zona de fricção do mediopé 2026 aborda o padrão de bolhas em calçados minimalistas",
+        "Calce anatômico com zoneamento de compressão direcionado"
+      ],
+      "cons": [
+        "15–20 mmHg compressão leve — não é a escolha para benefício de compressão de nível clínico após corridas longas"
+      ],
       "grade": "B",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Nylon/elastano", "Cushion": "Mapeamento de zonas iWCL", "Anatomical": "Esquerda/direita específico", "Toe": "Sem costura", "Price": "R$90"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.6, "Durability": 4.5, "Comfort": 4.8, "Value": 4.7}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Nylon/elastano",
+        "Cushion": "Mapeamento de zonas iWCL",
+        "Anatomical": "Esquerda/direita específico",
+        "Toe": "Sem costura",
+        "Price": "R$90"
+      },
+      "scores": {
+        "Precisão de Compressão": 4,
+        "Resistência a Bolhas": 4.6,
+        "Durabilidade": 4.5,
+        "Conforto": 4.8,
+        "Valor": 4.7
+      }
     }
   ],
   "faqs": [
@@ -106,9 +201,21 @@
     }
   ],
   "recommendedFor": [
-    {"label": "Para compressão clínica e durabilidade de longo prazo", "offerId": "compression-socks-cep-run-4-0", "reason": "O gradiente certificado medi GmbH de 20–30 mmHg é o mais preciso desta comparação; a retenção em 80+ lavagens torna o custo de R$325 competitivo por uso."},
-    {"label": "Para corredores com histórico de bolhas", "offerId": "compression-socks-balega-blister-resist", "reason": "A fibra de mohair reduz o atrito pé-meia mais eficazmente do que a construção de bico sem costura sozinha; opção de largura disponível para 2026."},
-    {"label": "Para fasciíte plantar e corredores de calçado minimalista", "offerId": "compression-socks-feetures-elite", "reason": "O mapeamento de zonas iWCL mira nos pontos de pressão plantar; a zona de fricção do mediopé 2026 aborda o padrão de bolhas em calçados minimalistas."}
+    {
+      "label": "Para compressão clínica e durabilidade de longo prazo",
+      "offerId": "compression-socks-cep-run-4-0",
+      "reason": "O gradiente certificado medi GmbH de 20–30 mmHg é o mais preciso desta comparação; a retenção em 80+ lavagens torna o custo de R$325 competitivo por uso."
+    },
+    {
+      "label": "Para corredores com histórico de bolhas",
+      "offerId": "compression-socks-balega-blister-resist",
+      "reason": "A fibra de mohair reduz o atrito pé-meia mais eficazmente do que a construção de bico sem costura sozinha; opção de largura disponível para 2026."
+    },
+    {
+      "label": "Para fasciíte plantar e corredores de calçado minimalista",
+      "offerId": "compression-socks-feetures-elite",
+      "reason": "O mapeamento de zonas iWCL mira nos pontos de pressão plantar; a zona de fricção do mediopé 2026 aborda o padrão de bolhas em calçados minimalistas."
+    }
   ],
   "pinDescription": "Meias de compressão para corrida comparadas 2026 — CEP vs Balega vs Sockwell vs Tabio vs Feetures. Classificações de mmHg, resistência a bolhas, construção de fibra e durabilidade à lavagem explicados para corredores de fundo e atletas de trilha.",
   "offerNotes": ""

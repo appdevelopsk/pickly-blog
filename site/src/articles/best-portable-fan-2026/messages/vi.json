@@ -88,11 +88,11 @@
         "Filter life": "Annual at typical use"
       },
       "scores": {
-        "Air purification": 5.0,
-        "Personal airflow": 4.5,
-        "Noise level": 4.3,
-        "Value for money": 3.0,
-        "Safety": 5.0
+        "Lọc không khí": 5,
+        "Dòng khí cá nhân": 4.5,
+        "Mức tiếng ồn": 4.3,
+        "Giá trị tiền bạc": 3,
+        "An toàn": 5
       }
     },
     {
@@ -118,11 +118,11 @@
         "Noise": "~45dB at max"
       },
       "scores": {
-        "Room circulation": 5.0,
-        "Personal airflow": 3.8,
-        "Portability": 4.7,
-        "Value for money": 4.6,
-        "Noise level": 4.2
+        "Lưu thông phòng": 5,
+        "Dòng khí cá nhân": 3.8,
+        "Tính di động": 4.7,
+        "Giá trị tiền bạc": 4.6,
+        "Mức tiếng ồn": 4.2
       }
     },
     {
@@ -148,11 +148,11 @@
         "Noise": "~40dB (low) to ~55dB (high)"
       },
       "scores": {
-        "Airflow volume": 4.8,
-        "Value for money": 5.0,
-        "Noise level": 3.8,
-        "Portability": 4.5,
-        "Features": 2.5
+        "Lưu lượng không khí": 4.8,
+        "Giá trị tiền bạc": 5,
+        "Mức tiếng ồn": 3.8,
+        "Tính di động": 4.5,
+        "Tính năng": 2.5
       }
     },
     {
@@ -179,11 +179,11 @@
         "Voltage": "100V (Japan)"
       },
       "scores": {
-        "Energy efficiency": 5.0,
-        "Noise level": 4.8,
-        "Value (long-term)": 4.7,
-        "Airflow quality": 4.5,
-        "Build quality": 4.7
+        "Hiệu suất năng lượng": 5,
+        "Mức tiếng ồn": 4.8,
+        "Giá trị (dài hạn)": 4.7,
+        "Chất lượng dòng khí": 4.5,
+        "Chất lượng xây dựng": 4.7
       }
     },
     {
@@ -209,11 +209,11 @@
         "Compatibility": "USB-C PD, most laptops and monitors"
       },
       "scores": {
-        "Convenience": 5.0,
-        "Noise level": 4.9,
-        "Airflow volume": 3.2,
-        "Value for money": 4.3,
-        "Portability": 5.0
+        "Tiện lợi": 5,
+        "Mức tiếng ồn": 4.9,
+        "Lưu lượng không khí": 3.2,
+        "Giá trị tiền bạc": 4.3,
+        "Tính di động": 5
       }
     }
   ],

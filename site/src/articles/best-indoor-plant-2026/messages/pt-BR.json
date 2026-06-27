@@ -124,8 +124,14 @@
       "offerId": "pothos-golden",
       "badge": "Melhor Escolha Geral",
       "review": "O Pothos Dourado é a planta de interior mais resistente do grupo: sobrevive com luz artificial de 50 pés-vela onde outras plantas apenas sobreviveriam. O crescimento rápido e visível dá aos iniciantes um retorno positivo imediato, e as trepadeiras pendentes se propagam facilmente por estacas. O único inconveniente real: tóxico para gatos e cães — sem problema para lares sem animais, mas um critério de exclusão para os outros.",
-      "pros": ["Sobrevive tanto à luz artificial quanto ao esquecimento da rega", "O crescimento rápido dá retorno imediato aos iniciantes", "Fácil de propagar por estacas"],
-      "cons": ["Tóxico para gatos e cães — inadequado para lares com animais"],
+      "pros": [
+        "Sobrevive tanto à luz artificial quanto ao esquecimento da rega",
+        "O crescimento rápido dá retorno imediato aos iniciantes",
+        "Fácil de propagar por estacas"
+      ],
+      "cons": [
+        "Tóxico para gatos e cães — inadequado para lares com animais"
+      ],
       "grade": "A+",
       "specs": {
         "Necessidade de luz": "50–250 pés-vela",
@@ -136,19 +142,25 @@
         "Disponibilidade": "Amplamente disponível"
       },
       "scores": {
-        "Low maintenance": 5.0,
-        "Air purification": 3.5,
-        "Aesthetics": 4.2,
-        "Value": 5.0,
-        "Growth rate": 4.8
+        "Baixa Manutenção": 5,
+        "Purificação de Ar": 3.5,
+        "Estética": 4.2,
+        "Valor": 5,
+        "Taxa de Crescimento": 4.8
       }
     },
     {
       "offerId": "monstera-deliciosa",
       "badge": "Melhor Estética",
       "review": "A Monstera deliciosa é a planta de design que dá caráter à maioria das salas de estar — as folhas perfuradas são inconfundíveis e ficam espetaculares com a idade. O problema: ela precisa de luz indireta brilhante real (150–250 pés-vela), não a luz fraca que a maioria dos apartamentos oferece, e cresce frustrantemente devagar com pouca luz. Ideal para quartos grandes com boas janelas.",
-      "pros": ["Aparência inconfundível com folhas perfuradas icônicas", "Torna-se uma verdadeira peça central com o tempo", "Não tóxica para humanos, moderadamente para animais"],
-      "cons": ["Requer luz indireta brilhante real — mal cresce sem ela"],
+      "pros": [
+        "Aparência inconfundível com folhas perfuradas icônicas",
+        "Torna-se uma verdadeira peça central com o tempo",
+        "Não tóxica para humanos, moderadamente para animais"
+      ],
+      "cons": [
+        "Requer luz indireta brilhante real — mal cresce sem ela"
+      ],
       "grade": "A",
       "specs": {
         "Necessidade de luz": "150–250 pés-vela",
@@ -159,19 +171,25 @@
         "Disponibilidade": "Floriculturas, centros de jardinagem"
       },
       "scores": {
-        "Low maintenance": 3.5,
-        "Air purification": 3.8,
-        "Aesthetics": 5.0,
-        "Value": 3.5,
-        "Growth rate": 3.0
+        "Baixa Manutenção": 3.5,
+        "Purificação de Ar": 3.8,
+        "Estética": 5,
+        "Valor": 3.5,
+        "Taxa de Crescimento": 3
       }
     },
     {
       "offerId": "snake-plant-laurentii",
       "badge": "Melhor Purificação do Ar",
       "review": "A Sansevieria trifasciata 'Laurentii' é a única planta do grupo com dados de purificação do ar verificados em estudos revisados por pares. A fixação noturna de CO₂ por fotossíntese CAM a torna ideal para quartos de dormir. Extremamente tolerante à seca — duas semanas sem água não é problema. O compromisso: crescimento muito lento que alguns percebem como estático.",
-      "pros": ["Desempenho de purificação verificado em estudos científicos", "A fotossíntese CAM a torna ideal para quartos de dormir", "Quase indestrutível contra rega excessiva e seca"],
-      "cons": ["Crescimento muito lento — mudança quase imperceptível em meses"],
+      "pros": [
+        "Desempenho de purificação verificado em estudos científicos",
+        "A fotossíntese CAM a torna ideal para quartos de dormir",
+        "Quase indestrutível contra rega excessiva e seca"
+      ],
+      "cons": [
+        "Crescimento muito lento — mudança quase imperceptível em meses"
+      ],
       "grade": "B+",
       "specs": {
         "Necessidade de luz": "25–200 pés-vela",
@@ -182,19 +200,25 @@
         "Disponibilidade": "Amplamente disponível"
       },
       "scores": {
-        "Low maintenance": 5.0,
-        "Air purification": 4.5,
-        "Aesthetics": 4.0,
-        "Value": 4.5,
-        "Growth rate": 2.0
+        "Baixa Manutenção": 5,
+        "Purificação de Ar": 4.5,
+        "Estética": 4,
+        "Valor": 4.5,
+        "Taxa de Crescimento": 2
       }
     },
     {
       "offerId": "zz-plant",
       "badge": "A Mais Fácil de Manter",
       "review": "A ZZ Plant (Zamioculcas zamiifolia) é a planta definitiva para os esquecidos: os rizomas armazenam água para meses de abandono. Prospera com muito pouca luz e é quase indestrutível. O crescimento lento e a estética moderada são seus únicos limites — e o efeito tóxico para humanos e animais deve ser levado em conta.",
-      "pros": ["Os rizomas armazenam água para tolerância extrema à seca", "Prospera com muito pouca luz onde outras morreriam", "Praticamente sem manutenção para lares ocupados"],
-      "cons": ["Crescimento lento — mudança mínima visível em meses"],
+      "pros": [
+        "Os rizomas armazenam água para tolerância extrema à seca",
+        "Prospera com muito pouca luz onde outras morreriam",
+        "Praticamente sem manutenção para lares ocupados"
+      ],
+      "cons": [
+        "Crescimento lento — mudança mínima visível em meses"
+      ],
       "grade": "B",
       "specs": {
         "Necessidade de luz": "25–150 pés-vela",
@@ -205,19 +229,25 @@
         "Disponibilidade": "Floriculturas, online"
       },
       "scores": {
-        "Low maintenance": 5.0,
-        "Air purification": 3.0,
-        "Aesthetics": 4.3,
-        "Value": 4.0,
-        "Growth rate": 1.5
+        "Baixa Manutenção": 5,
+        "Purificação de Ar": 3,
+        "Estética": 4.3,
+        "Valor": 4,
+        "Taxa de Crescimento": 1.5
       }
     },
     {
       "offerId": "peace-lily",
       "badge": "As Flores Mais Belas",
       "review": "O Lírio-da-Paz (Spathiphyllum) é uma das poucas plantas de interior que floresce de forma confiável sob iluminação normal de cômodo — uma vantagem real para lares sem janelas iluminadas. O indicador de rega integrado (murchar e recuperar) é muito prático para iniciantes. Aviso rigoroso: tóxico para gatos, cães e crianças — critério de exclusão absoluto para lares com animais.",
-      "pros": ["Floresce de forma confiável sem luz forte — raro para plantas de interior", "O ciclo de murchar-e-recuperar sinaliza claramente a necessidade de água", "As elegantes flores brancas acrescentam charme ao ambiente"],
-      "cons": ["Tóxico para gatos, cães e crianças — inadequado para lares com animais"],
+      "pros": [
+        "Floresce de forma confiável sem luz forte — raro para plantas de interior",
+        "O ciclo de murchar-e-recuperar sinaliza claramente a necessidade de água",
+        "As elegantes flores brancas acrescentam charme ao ambiente"
+      ],
+      "cons": [
+        "Tóxico para gatos, cães e crianças — inadequado para lares com animais"
+      ],
       "grade": "B-",
       "specs": {
         "Necessidade de luz": "25–150 pés-vela",
@@ -228,11 +258,11 @@
         "Disponibilidade": "Amplamente disponível"
       },
       "scores": {
-        "Low maintenance": 3.8,
-        "Air purification": 4.5,
-        "Aesthetics": 4.5,
-        "Value": 4.3,
-        "Growth rate": 3.5
+        "Baixa Manutenção": 3.8,
+        "Purificação de Ar": 4.5,
+        "Estética": 4.5,
+        "Valor": 4.3,
+        "Taxa de Crescimento": 3.5
       }
     }
   ],

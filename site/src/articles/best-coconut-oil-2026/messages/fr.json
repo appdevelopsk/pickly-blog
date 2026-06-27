@@ -4,11 +4,31 @@
   "lede": "L'huile de coco est l'un de ces ingrédients où les différences d'étiquetage comptent vraiment. Vierge ou raffinée, ce n'est pas du marketing — cela détermine le point de fumée, la saveur et si des nutriments sont encore présents. Ces cinq produits ont été choisis parce qu'ils tiennent leurs promesses, pas parce qu'ils ont le packaging le plus attrayant.",
   "methodology": "Les produits ont été comparés sur la méthode de production (pression à froid vs pression par expulsion vs RBD), le point de fumée, la saveur dans les applications culinaires, la pureté des ingrédients et les certifications. Le statut bio et la transparence de l'origine ont été fortement pondérés.",
   "recommendedFor": [
-    { "label": "Cuisson à haute température (wok, saisie)", "offerId": "coconut-oil-spectrum-organics", "reason": "Raffinée bio avec un point de fumée de 204 °C — saveur neutre, supporte la chaleur sans problème" },
-    { "label": "Café bulletproof et smoothies", "offerId": "coconut-oil-nutiva-organic-virgin", "reason": "La saveur vierge pressée à froid enrichit le café sans le dominer" },
-    { "label": "Cuisine quotidienne économique", "offerId": "coconut-oil-carrington-farms", "reason": "Pressée à froid bio au prix au litre le plus bas des cinq" },
-    { "label": "Soin de la peau et des cheveux", "offerId": "coconut-oil-viva-naturals-extra-virgin", "reason": "Non raffinée, pressée à froid, elle s'absorbe bien sans le côté gras des versions raffinées" },
-    { "label": "Régime keto et MCT", "offerId": "coconut-oil-life-extension-coconut", "reason": "Fractionnée avec un ratio C8/C10 élevé pour la production de cétones" }
+    {
+      "label": "Cuisson à haute température (wok, saisie)",
+      "offerId": "coconut-oil-spectrum-organics",
+      "reason": "Raffinée bio avec un point de fumée de 204 °C — saveur neutre, supporte la chaleur sans problème"
+    },
+    {
+      "label": "Café bulletproof et smoothies",
+      "offerId": "coconut-oil-nutiva-organic-virgin",
+      "reason": "La saveur vierge pressée à froid enrichit le café sans le dominer"
+    },
+    {
+      "label": "Cuisine quotidienne économique",
+      "offerId": "coconut-oil-carrington-farms",
+      "reason": "Pressée à froid bio au prix au litre le plus bas des cinq"
+    },
+    {
+      "label": "Soin de la peau et des cheveux",
+      "offerId": "coconut-oil-viva-naturals-extra-virgin",
+      "reason": "Non raffinée, pressée à froid, elle s'absorbe bien sans le côté gras des versions raffinées"
+    },
+    {
+      "label": "Régime keto et MCT",
+      "offerId": "coconut-oil-life-extension-coconut",
+      "reason": "Fractionnée avec un ratio C8/C10 élevé pour la production de cétones"
+    }
   ],
   "sections": [
     {
@@ -64,10 +84,10 @@
         "Serving size": "1 c. à s. / 14 g"
       },
       "scores": {
-        "Flavor": 5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 3.5
+        "Saveur": 5,
+        "Pureté": 5,
+        "Valeur": 4,
+        "Polyvalence": 3.5
       }
     },
     {
@@ -93,10 +113,10 @@
         "Serving size": "1 c. à s. / 14 g"
       },
       "scores": {
-        "Flavor": 4.5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 4
+        "Saveur": 4.5,
+        "Pureté": 5,
+        "Valeur": 4,
+        "Polyvalence": 4
       }
     },
     {
@@ -122,10 +142,10 @@
         "Serving size": "1 c. à s. / 14 g"
       },
       "scores": {
-        "Flavor": 3,
-        "Purity": 4.5,
-        "Value": 4,
-        "Versatility": 5
+        "Saveur": 3,
+        "Pureté": 4.5,
+        "Valeur": 4,
+        "Polyvalence": 5
       }
     },
     {
@@ -152,10 +172,10 @@
         "MCT content": "~7 g C8/C10 par c. à s."
       },
       "scores": {
-        "Macro quality": 5,
-        "Satiety": 4,
-        "Value": 3.5,
-        "Versatility": 2
+        "Qualité macros": 5,
+        "Satiété": 4,
+        "Valeur": 3.5,
+        "Polyvalence": 2
       }
     },
     {
@@ -181,10 +201,10 @@
         "Serving size": "1 c. à s. / 14 g"
       },
       "scores": {
-        "Flavor": 4,
-        "Purity": 4.5,
-        "Value": 5,
-        "Versatility": 4
+        "Saveur": 4,
+        "Pureté": 4.5,
+        "Valeur": 5,
+        "Polyvalence": 4
       }
     }
   ],

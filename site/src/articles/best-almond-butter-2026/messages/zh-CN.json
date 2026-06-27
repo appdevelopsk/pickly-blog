@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
-        "Texture": 4.8,
-        "Nutrition": 5
+        "风味": 4.7,
+        "采购": 4.8,
+        "价值": 4.7,
+        "质地": 4.8,
+        "营养": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
-        "Texture": 4,
-        "Nutrition": 4.7
+        "风味": 4.4,
+        "采购": 4,
+        "价值": 4.4,
+        "质地": 4,
+        "营养": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
-        "Texture": 4.2,
-        "Nutrition": 4.4
+        "风味": 4.6,
+        "采购": 4.2,
+        "价值": 4.1,
+        "质地": 4.2,
+        "营养": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
-        "Texture": 3.4,
-        "Nutrition": 4.1
+        "风味": 3.8,
+        "采购": 3.9,
+        "价值": 3.8,
+        "质地": 3.4,
+        "营养": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
-        "Texture": 3.6,
-        "Nutrition": 3.8
+        "风味": 4,
+        "采购": 3.6,
+        "价值": 4,
+        "质地": 3.6,
+        "营养": 3.8
       }
     }
   ],
-  "methodology": "我们从风味特征、原料采购透明度、每份性价比、包装完整性，以及在常见使用场景中的实际表现等方面评估每款产品。我们将有据可查的认证和经核实的用户评价与营销宣传进行了交叉比对。"
+  "methodology": "我们从风味特征、原料采购透明度、每份性价比、包装完整性，以及在常见使用场景中的实际表现等方面评估每款产品。我们将有据可查的认证和经核实的用户评价与营销宣传进行了交叉比对。",
+  "recommendedFor": [
+    {
+      "label": "适合每天快速涂抹的人",
+      "offerId": "justins-classic-almond-butter",
+      "reason": "非常适合忙碌家庭，想要无需搅拌、仅含两种配料的顺滑酱。"
+    },
+    {
+      "label": "适合追求顺滑口感下厨的人",
+      "offerId": "barney-bare-almond-butter",
+      "reason": "最适合偏爱更顺滑清淡、易融入甜咸菜肴的酱体的人。"
+    },
+    {
+      "label": "适合避开棕榈油的人",
+      "offerId": "wild-friends-almond-butter",
+      "reason": "适合避开棕榈油、想要石磨研磨、配料干净的有机一罐的人。"
+    },
+    {
+      "label": "适合生食爱好者",
+      "offerId": "artisana-organic-almond-butter",
+      "reason": "完美契合追求浓郁复杂风味与最高营养密度的生食爱好者。"
+    },
+    {
+      "label": "适合零麻烦的日常使用",
+      "offerId": "maranatha-no-stir-almond-butter",
+      "reason": "适合任何想要口感一致、省心、完全无需搅拌的人。"
+    }
+  ]
 }

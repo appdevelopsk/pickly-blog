@@ -4,11 +4,31 @@
   "lede": "코코넛 오일은 라벨의 차이가 실제로 중요한 식재료 중 하나입니다. 버진 대 정제는 마케팅 용어가 아니라 발연점, 풍미, 영양 성분의 유무를 결정합니다. 이 다섯 제품은 가장 인스타그램 친화적인 브랜딩이 아니라 라벨에서 약속한 바를 실제로 이행하기 때문에 선정되었습니다.",
   "methodology": "제조 방법(저온 압착 vs. 익스펠러 압착 vs. RBD 정제), 발연점, 요리 응용 시 풍미, 원료 순도, 인증을 비교했습니다. 코코넛의 잔류 농약 흡수 특성을 고려하여 유기농 인증과 원산지 투명성을 특히 중요하게 평가했습니다.",
   "recommendedFor": [
-    { "label": "고온 요리(볶음, 굽기)", "offerId": "coconut-oil-spectrum-organics", "reason": "발연점 204°C의 유기농 정제 제품 — 코코넛 향 없이 고온에서도 깔끔하게 사용 가능" },
-    { "label": "버터 커피와 스무디", "offerId": "coconut-oil-nutiva-organic-virgin", "reason": "저온 압착 버진 풍미가 커피를 압도하지 않으면서 풍미를 더해 줍니다" },
-    { "label": "일상 요리 가성비 중시", "offerId": "coconut-oil-carrington-farms", "reason": "다섯 제품 중 그램당 가격이 가장 낮은 유기농 저온 압착 제품" },
-    { "label": "스킨케어와 헤어케어", "offerId": "coconut-oil-viva-naturals-extra-virgin", "reason": "비정제 저온 압착으로 정제 버전보다 끈적임 없이 잘 흡수됩니다" },
-    { "label": "케토 및 MCT 집중 관리", "offerId": "coconut-oil-life-extension-coconut", "reason": "케톤 생성을 위해 C8/C10 MCT 비율을 높인 분획 오일" }
+    {
+      "label": "고온 요리(볶음, 굽기)",
+      "offerId": "coconut-oil-spectrum-organics",
+      "reason": "발연점 204°C의 유기농 정제 제품 — 코코넛 향 없이 고온에서도 깔끔하게 사용 가능"
+    },
+    {
+      "label": "버터 커피와 스무디",
+      "offerId": "coconut-oil-nutiva-organic-virgin",
+      "reason": "저온 압착 버진 풍미가 커피를 압도하지 않으면서 풍미를 더해 줍니다"
+    },
+    {
+      "label": "일상 요리 가성비 중시",
+      "offerId": "coconut-oil-carrington-farms",
+      "reason": "다섯 제품 중 그램당 가격이 가장 낮은 유기농 저온 압착 제품"
+    },
+    {
+      "label": "스킨케어와 헤어케어",
+      "offerId": "coconut-oil-viva-naturals-extra-virgin",
+      "reason": "비정제 저온 압착으로 정제 버전보다 끈적임 없이 잘 흡수됩니다"
+    },
+    {
+      "label": "케토 및 MCT 집중 관리",
+      "offerId": "coconut-oil-life-extension-coconut",
+      "reason": "케톤 생성을 위해 C8/C10 MCT 비율을 높인 분획 오일"
+    }
   ],
   "sections": [
     {
@@ -64,10 +84,10 @@
         "Serving size": "1큰술 / 14g"
       },
       "scores": {
-        "Flavor": 5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 3.5
+        "맛": 5,
+        "순도": 5,
+        "가성비": 4,
+        "다용도성": 3.5
       }
     },
     {
@@ -93,10 +113,10 @@
         "Serving size": "1큰술 / 14g"
       },
       "scores": {
-        "Flavor": 4.5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 4
+        "맛": 4.5,
+        "순도": 5,
+        "가성비": 4,
+        "다용도성": 4
       }
     },
     {
@@ -122,10 +142,10 @@
         "Serving size": "1큰술 / 14g"
       },
       "scores": {
-        "Flavor": 3,
-        "Purity": 4.5,
-        "Value": 4,
-        "Versatility": 5
+        "맛": 3,
+        "순도": 4.5,
+        "가성비": 4,
+        "다용도성": 5
       }
     },
     {
@@ -152,10 +172,10 @@
         "MCT content": "1큰술당 C8/C10 약 7g"
       },
       "scores": {
-        "Macro quality": 5,
-        "Satiety": 4,
-        "Value": 3.5,
-        "Versatility": 2
+        "매크로 품질": 5,
+        "포만감": 4,
+        "가성비": 3.5,
+        "다용도성": 2
       }
     },
     {
@@ -181,10 +201,10 @@
         "Serving size": "1큰술 / 14g"
       },
       "scores": {
-        "Flavor": 4,
-        "Purity": 4.5,
-        "Value": 5,
-        "Versatility": 4
+        "맛": 4,
+        "순도": 4.5,
+        "가성비": 5,
+        "다용도성": 4
       }
     }
   ],

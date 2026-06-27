@@ -83,58 +83,166 @@
       "offerId": "rogue-dip-belt",
       "badge": "Tốt Nhất Tổng Thể",
       "review": "Sản xuất tại Mỹ từ dây nilon 10mm với đệm da 3 inch và karabiner được đánh giá. Dưới tạ nặng — 90 lbs trở lên — da phân phối tải trên xương hông thay vì ép, và phần cứng giữ nguyên hình. Tính chất mua một lần là thật: đường may và xích tồn lâu hơn đai rẻ nhiều năm.",
-      "pros": ["Sản xuất tại Mỹ, may đôi tại tất cả điểm chịu lực", "Đệm da định hình theo cơ thể theo thời gian", "Karabiner được đánh giá xử lý tải nghiêm túc không biến dạng"],
-      "cons": ["Da cứng trong vài buổi đầu trước khi định hình"],
+      "pros": [
+        "Sản xuất tại Mỹ, may đôi tại tất cả điểm chịu lực",
+        "Đệm da định hình theo cơ thể theo thời gian",
+        "Karabiner được đánh giá xử lý tải nghiêm túc không biến dạng"
+      ],
+      "cons": [
+        "Da cứng trong vài buổi đầu trước khi định hình"
+      ],
       "grade": "A+",
-      "specs": {"Material": "Dây nilon 10mm + đệm da", "Chain length": "24 inch thép", "Pad width": "3 inch", "Hardware": "Karabiner thép được đánh giá", "Origin": "Mỹ"},
-      "scores": {"Build quality": 5.0, "Durability": 5.0, "Comfort": 4.5, "Load capacity": 5.0, "Value": 4.0}
+      "specs": {
+        "Material": "Dây nilon 10mm + đệm da",
+        "Chain length": "24 inch thép",
+        "Pad width": "3 inch",
+        "Hardware": "Karabiner thép được đánh giá",
+        "Origin": "Mỹ"
+      },
+      "scores": {
+        "Chất lượng xây dựng": 5,
+        "Độ bền": 5,
+        "Sự thoải mái": 4.5,
+        "Dung lượng chịu tải": 5,
+        "Giá trị": 4
+      }
     },
     {
       "offerId": "dark-iron-fitness-dip-belt",
       "badge": "Da Ngân Sách Tốt Nhất",
       "review": "Da thật với đệm 6 inch — rộng hơn Rogue — khiến dip thoải mái hơn cụ thể vì tạ ngồi ở đùi trên. Xích 30 inch xử lý tạ Olympic tiêu chuẩn và sức chứa 300 lbs hơn thực tế. Đánh đổi: cần 2-3 tuần sử dụng thường xuyên để định hình hoàn toàn.",
-      "pros": ["Đệm da 6 inch rộng hơn hầu hết đối thủ", "Đánh giá sức chứa trọng lượng 300 lbs", "Định hình theo cơ thể tốt hơn nilon sau khi quen"],
-      "cons": ["Cứng và không thoải mái trong vài buổi đầu"],
+      "pros": [
+        "Đệm da 6 inch rộng hơn hầu hết đối thủ",
+        "Đánh giá sức chứa trọng lượng 300 lbs",
+        "Định hình theo cơ thể tốt hơn nilon sau khi quen"
+      ],
+      "cons": [
+        "Cứng và không thoải mái trong vài buổi đầu"
+      ],
       "grade": "A",
-      "specs": {"Material": "Da thật", "Chain length": "30 inch thép", "Pad width": "6 inch", "Weight capacity": "300 lbs", "Price": "$29.99"},
-      "scores": {"Build quality": 4.2, "Durability": 4.5, "Comfort": 4.3, "Load capacity": 4.8, "Value": 4.8}
+      "specs": {
+        "Material": "Da thật",
+        "Chain length": "30 inch thép",
+        "Pad width": "6 inch",
+        "Weight capacity": "300 lbs",
+        "Price": "$29.99"
+      },
+      "scores": {
+        "Chất lượng xây dựng": 4.2,
+        "Độ bền": 4.5,
+        "Sự thoải mái": 4.3,
+        "Dung lượng chịu tải": 4.8,
+        "Giá trị": 4.8
+      }
     },
     {
       "offerId": "harbinger-dip-belt",
       "badge": "Ngân Sách Tốt Nhất",
       "review": "Dây polypropylene bền với xích thép 30 inch — tiêu chuẩn thực tế của sàn gym. Hoạt động không than phiền cho thêm 25-75 lbs. Vòng thép mạnh hơn đáng kể so với vòng dập trên đai dưới $20. Không thoải mái như da dưới tải 100 lbs, nhưng ở $25 là điểm khởi đầu hợp lý trước khi cam kết premium.",
-      "pros": ["Dùng ở hầu hết phòng gym thương mại — hồ sơ đã được chứng minh", "Vòng thép mạnh hơn đáng kể so với vòng dập rẻ", "Điểm khởi đầu thực tế ở $25"],
-      "cons": ["Dây polypropylene kém thoải mái hơn da dưới tải nặng"],
+      "pros": [
+        "Dùng ở hầu hết phòng gym thương mại — hồ sơ đã được chứng minh",
+        "Vòng thép mạnh hơn đáng kể so với vòng dập rẻ",
+        "Điểm khởi đầu thực tế ở $25"
+      ],
+      "cons": [
+        "Dây polypropylene kém thoải mái hơn da dưới tải nặng"
+      ],
       "grade": "B+",
-      "specs": {"Material": "Dây polypropylene", "Chain length": "30 inch thép", "Price": "$39.99", "Best for": "Thêm 25-75 lbs"},
-      "scores": {"Build quality": 3.8, "Durability": 4.0, "Comfort": 3.5, "Load capacity": 4.0, "Value": 5.0}
+      "specs": {
+        "Material": "Dây polypropylene",
+        "Chain length": "30 inch thép",
+        "Price": "$39.99",
+        "Best for": "Thêm 25-75 lbs"
+      },
+      "scores": {
+        "Chất lượng xây dựng": 3.8,
+        "Độ bền": 4,
+        "Sự thoải mái": 3.5,
+        "Dung lượng chịu tải": 4,
+        "Giá trị": 5
+      }
     },
     {
       "offerId": "fire-team-fit-dip-belt",
       "badge": "Tốt Nhất Về Sự Thoải Mái",
       "review": "Đệm neoprene mềm từ ngày đầu — không cần thời gian làm quen. Khóa giải phóng nhanh tăng tốc chuyển đổi giữa các hiệp, và xích 36 inch là dài nhất ở đây, tạo không gian cho nhiều tạ hoặc tạ bumper dày. Đánh giá 300 lbs. Neoprene hút mồ hôi vì vậy cần xả nước thỉnh thoảng ở phòng gym ấm.",
-      "pros": ["Neoprene mềm từ lần dùng đầu — không làm quen", "Khóa giải phóng nhanh tăng tốc chuyển đổi", "Xích 36 inch chứa tạ bumper dày"],
-      "cons": ["Neoprene hút mồ hôi; cần xả nước thỉnh thoảng"],
+      "pros": [
+        "Neoprene mềm từ lần dùng đầu — không làm quen",
+        "Khóa giải phóng nhanh tăng tốc chuyển đổi",
+        "Xích 36 inch chứa tạ bumper dày"
+      ],
+      "cons": [
+        "Neoprene hút mồ hôi; cần xả nước thỉnh thoảng"
+      ],
       "grade": "B",
-      "specs": {"Material": "Neoprene", "Chain length": "36 inch thép", "Pad width": "4 inch", "Weight capacity": "300 lbs", "Price": "$55.99"},
-      "scores": {"Build quality": 4.0, "Durability": 3.8, "Comfort": 4.8, "Load capacity": 4.5, "Value": 4.3}
+      "specs": {
+        "Material": "Neoprene",
+        "Chain length": "36 inch thép",
+        "Pad width": "4 inch",
+        "Weight capacity": "300 lbs",
+        "Price": "$55.99"
+      },
+      "scores": {
+        "Chất lượng xây dựng": 4,
+        "Độ bền": 3.8,
+        "Sự thoải mái": 4.8,
+        "Dung lượng chịu tải": 4.5,
+        "Giá trị": 4.3
+      }
     },
     {
       "offerId": "mummyfit-dip-belt",
       "badge": "Giá Trị Tốt Nhất",
       "review": "Neoprene ngân sách với xích 36 inch — cùng chiều dài xích với Fire Team Fit ở khoảng nửa giá. Phần cứng nhẹ hơn Rogue hay Dark Iron, tốt dưới 100 lbs nhưng cần chú ý nếu định làm việc lên 135+ lbs. Cho người mới bắt đầu hoặc ai đang thử calisthenics có tải, giá trị thực sự tốt.",
-      "pros": ["Xích 36 inch dưới $30", "Đệm neoprene mềm từ ngày đầu", "Điểm vào không cam kết cho dip có tải"],
-      "cons": ["Cỡ phần cứng nhẹ hơn — không lý tưởng cho tải 135+ lbs"],
+      "pros": [
+        "Xích 36 inch dưới $30",
+        "Đệm neoprene mềm từ ngày đầu",
+        "Điểm vào không cam kết cho dip có tải"
+      ],
+      "cons": [
+        "Cỡ phần cứng nhẹ hơn — không lý tưởng cho tải 135+ lbs"
+      ],
       "grade": "B-",
-      "specs": {"Material": "Neoprene", "Chain length": "36 inch thép", "Price": "$25", "Best for": "Người mới bắt đầu, thêm tạ <100 lbs"},
-      "scores": {"Build quality": 3.3, "Durability": 3.5, "Comfort": 4.2, "Load capacity": 3.5, "Value": 5.0}
+      "specs": {
+        "Material": "Neoprene",
+        "Chain length": "36 inch thép",
+        "Price": "$25",
+        "Best for": "Người mới bắt đầu, thêm tạ <100 lbs"
+      },
+      "scores": {
+        "Chất lượng xây dựng": 3.3,
+        "Độ bền": 3.5,
+        "Sự thoải mái": 4.2,
+        "Dung lượng chịu tải": 3.5,
+        "Giá trị": 5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Cho người tập nghiêm túc thêm 90+ lbs", "offerId": "rogue-dip-belt", "reason": "Phần cứng sản xuất tại Mỹ và da sẽ không biến dạng hay đào vào ở tải cao"},
-    {"label": "Cho sự thoải mái da với ngân sách hạn chế", "offerId": "dark-iron-fitness-dip-belt", "reason": "Đệm da 6 inch rộng hơn Rogue và giá chưa đến một nửa"},
-    {"label": "Cho người mới thử dip có tải", "offerId": "harbinger-dip-belt", "reason": "Tiêu chuẩn phòng gym thương mại — đã chứng minh ở $25 trước khi cam kết premium"},
-    {"label": "Cho chuyển đổi nhanh giữa các hiệp", "offerId": "fire-team-fit-dip-belt", "reason": "Khóa giải phóng nhanh và neoprene mềm từ ngày đầu"},
-    {"label": "Cho chi phí vào thấp nhất", "offerId": "mummyfit-dip-belt", "reason": "Xích 36 inch dưới $30 — không mất gì nếu bạn quyết định dip có tải không dành cho bạn"}
+    {
+      "label": "Cho người tập nghiêm túc thêm 90+ lbs",
+      "offerId": "rogue-dip-belt",
+      "reason": "Phần cứng sản xuất tại Mỹ và da sẽ không biến dạng hay đào vào ở tải cao"
+    },
+    {
+      "label": "Cho sự thoải mái da với ngân sách hạn chế",
+      "offerId": "dark-iron-fitness-dip-belt",
+      "reason": "Đệm da 6 inch rộng hơn Rogue và giá chưa đến một nửa"
+    },
+    {
+      "label": "Cho người mới thử dip có tải",
+      "offerId": "harbinger-dip-belt",
+      "reason": "Tiêu chuẩn phòng gym thương mại — đã chứng minh ở $25 trước khi cam kết premium"
+    },
+    {
+      "label": "Cho chuyển đổi nhanh giữa các hiệp",
+      "offerId": "fire-team-fit-dip-belt",
+      "reason": "Khóa giải phóng nhanh và neoprene mềm từ ngày đầu"
+    },
+    {
+      "label": "Cho chi phí vào thấp nhất",
+      "offerId": "mummyfit-dip-belt",
+      "reason": "Xích 36 inch dưới $30 — không mất gì nếu bạn quyết định dip có tải không dành cho bạn"
+    }
   ]
 }

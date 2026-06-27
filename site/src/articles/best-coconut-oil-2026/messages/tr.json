@@ -4,11 +4,31 @@
   "lede": "Hindistan cevizi yağı, etiket farklılıklarının gerçekten önem taşıdığı birkaç malzemeden biri. Saf ile rafine arasındaki fark pazarlama değil — duman noktasını, tadı ve besin içeriğinin kalıp kalmadığını belirler. Bu beş ürün, en çekici ambalaja sahip oldukları için değil, kavanozdaki iddiayı gerçekten yerine getirdikleri için seçildi.",
   "methodology": "Ürünler üretim yöntemi (soğuk pres, ekspeller pres, RBD rafinasyon), duman noktası, pişirmede tat, bileşen saflığı ve sertifikalar açısından karşılaştırıldı. Organik statü ve kaynak şeffaflığına özellikle büyük ağırlık verildi.",
   "recommendedFor": [
-    { "label": "Yüksek ısıda pişirme (kavurma, mühürleme)", "offerId": "coconut-oil-spectrum-organics", "reason": "204°C duman noktasıyla organik rafine — hindistan cevizi kokusu yok, yüksek ısıyı sorunsuz kaldırıyor" },
-    { "label": "Bulletproof kahve ve smoothie", "offerId": "coconut-oil-nutiva-organic-virgin", "reason": "Soğuk preslenmiş saf hindistan cevizi tadı kahveye baskın olmadan derinlik katıyor" },
-    { "label": "Günlük ekonomik pişirme", "offerId": "coconut-oil-carrington-farms", "reason": "Beş ürün arasında gram başına en düşük fiyata organik soğuk pres" },
-    { "label": "Cilt ve saç bakımı", "offerId": "coconut-oil-viva-naturals-extra-virgin", "reason": "Rafine edilmemiş, soğuk preslenmiş; rafine versiyonların yağlı hissi olmadan iyi emiyor" },
-    { "label": "Keto ve MCT odağı", "offerId": "coconut-oil-life-extension-coconut", "reason": "Keton üretimi için yüksek C8/C10 MCT oranına sahip fraksiyonlanmış yağ" }
+    {
+      "label": "Yüksek ısıda pişirme (kavurma, mühürleme)",
+      "offerId": "coconut-oil-spectrum-organics",
+      "reason": "204°C duman noktasıyla organik rafine — hindistan cevizi kokusu yok, yüksek ısıyı sorunsuz kaldırıyor"
+    },
+    {
+      "label": "Bulletproof kahve ve smoothie",
+      "offerId": "coconut-oil-nutiva-organic-virgin",
+      "reason": "Soğuk preslenmiş saf hindistan cevizi tadı kahveye baskın olmadan derinlik katıyor"
+    },
+    {
+      "label": "Günlük ekonomik pişirme",
+      "offerId": "coconut-oil-carrington-farms",
+      "reason": "Beş ürün arasında gram başına en düşük fiyata organik soğuk pres"
+    },
+    {
+      "label": "Cilt ve saç bakımı",
+      "offerId": "coconut-oil-viva-naturals-extra-virgin",
+      "reason": "Rafine edilmemiş, soğuk preslenmiş; rafine versiyonların yağlı hissi olmadan iyi emiyor"
+    },
+    {
+      "label": "Keto ve MCT odağı",
+      "offerId": "coconut-oil-life-extension-coconut",
+      "reason": "Keton üretimi için yüksek C8/C10 MCT oranına sahip fraksiyonlanmış yağ"
+    }
   ],
   "sections": [
     {
@@ -64,10 +84,10 @@
         "Serving size": "1 yemek kaşığı / 14 g"
       },
       "scores": {
-        "Flavor": 5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 3.5
+        "Tat": 5,
+        "Saflık": 5,
+        "Değer": 4,
+        "Çok Yönlülük": 3.5
       }
     },
     {
@@ -93,10 +113,10 @@
         "Serving size": "1 yemek kaşığı / 14 g"
       },
       "scores": {
-        "Flavor": 4.5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 4
+        "Tat": 4.5,
+        "Saflık": 5,
+        "Değer": 4,
+        "Çok Yönlülük": 4
       }
     },
     {
@@ -122,10 +142,10 @@
         "Serving size": "1 yemek kaşığı / 14 g"
       },
       "scores": {
-        "Flavor": 3,
-        "Purity": 4.5,
-        "Value": 4,
-        "Versatility": 5
+        "Tat": 3,
+        "Saflık": 4.5,
+        "Değer": 4,
+        "Çok Yönlülük": 5
       }
     },
     {
@@ -152,10 +172,10 @@
         "MCT content": "~7 g C8/C10 yemek kaşığı başına"
       },
       "scores": {
-        "Macro quality": 5,
-        "Satiety": 4,
-        "Value": 3.5,
-        "Versatility": 2
+        "Makro Kalitesi": 5,
+        "Doygunluk": 4,
+        "Değer": 3.5,
+        "Çok Yönlülük": 2
       }
     },
     {
@@ -181,10 +201,10 @@
         "Serving size": "1 yemek kaşığı / 14 g"
       },
       "scores": {
-        "Flavor": 4,
-        "Purity": 4.5,
-        "Value": 5,
-        "Versatility": 4
+        "Tat": 4,
+        "Saflık": 4.5,
+        "Değer": 5,
+        "Çok Yönlülük": 4
       }
     }
   ],

@@ -124,8 +124,14 @@
       "offerId": "pothos-golden",
       "badge": "Beste Gesamtwahl",
       "review": "Goldene Pothos ist die widerstandsfähigste Zimmerpflanze im Test: Sie überlebt bei Kunstlicht von 50 Fußkerzen, wo andere Pflanzen nur überleben würden. Das schnelle, sichtbare Wachstum gibt Anfängern sofortiges positives Feedback, und die herabhängenden Ranken lassen sich einfach durch Steckling vermehren. Der einzige echte Nachteil: giftig für Katzen und Hunde — kein Problem für Haushalte ohne Haustiere, aber ein Ausschlusskriterium für andere.",
-      "pros": ["Überlebt Kunstlicht und vergessene Bewässerung gleichermaßen", "Schnelles Wachstum gibt Anfängern sofortiges Feedback", "Leicht durch Stecklinge vermehrbar"],
-      "cons": ["Giftig für Katzen und Hunde — nicht für Haushalte mit Haustieren geeignet"],
+      "pros": [
+        "Überlebt Kunstlicht und vergessene Bewässerung gleichermaßen",
+        "Schnelles Wachstum gibt Anfängern sofortiges Feedback",
+        "Leicht durch Stecklinge vermehrbar"
+      ],
+      "cons": [
+        "Giftig für Katzen und Hunde — nicht für Haushalte mit Haustieren geeignet"
+      ],
       "grade": "A+",
       "specs": {
         "Lichtbedarf": "50–250 Fußkerzen",
@@ -136,19 +142,25 @@
         "Verfügbarkeit": "Weit verbreitet"
       },
       "scores": {
-        "Low maintenance": 5.0,
-        "Air purification": 3.5,
-        "Aesthetics": 4.2,
-        "Value": 5.0,
-        "Growth rate": 4.8
+        "Wartungsarm": 5,
+        "Luftreinigung": 3.5,
+        "Ästhetik": 4.2,
+        "Wert": 5,
+        "Wachstumsrate": 4.8
       }
     },
     {
       "offerId": "monstera-deliciosa",
       "badge": "Bestes Aussehen",
       "review": "Monstera deliciosa ist die Designerpflanze, die den meisten Wohnzimmern ihren Charakter gibt — die perforierten Blätter sind unverwechselbar und wachsen mit zunehmendem Alter spektakulär. Der Haken: Sie benötigt echtes indirektes helles Licht (150–250 Fußkerzen), nicht das gedämpfte Licht, das die meisten Apartments bieten, und wächst in schlechtem Licht frustrierend langsam. Ideal für große Räume mit guten Fenstern.",
-      "pros": ["Unverwechselbares Aussehen mit ikonischen perforierten Blättern", "Wird mit der Zeit zu einem echten Statement-Piece", "Ungiftig für Menschen, mäßig für Haustiere"],
-      "cons": ["Benötigt echtes helles indirektes Licht — wächst in schlechtem Licht kaum"],
+      "pros": [
+        "Unverwechselbares Aussehen mit ikonischen perforierten Blättern",
+        "Wird mit der Zeit zu einem echten Statement-Piece",
+        "Ungiftig für Menschen, mäßig für Haustiere"
+      ],
+      "cons": [
+        "Benötigt echtes helles indirektes Licht — wächst in schlechtem Licht kaum"
+      ],
       "grade": "A",
       "specs": {
         "Lichtbedarf": "150–250 Fußkerzen",
@@ -159,19 +171,25 @@
         "Verfügbarkeit": "Blumenläden, Gartenmärkte"
       },
       "scores": {
-        "Low maintenance": 3.5,
-        "Air purification": 3.8,
-        "Aesthetics": 5.0,
-        "Value": 3.5,
-        "Growth rate": 3.0
+        "Wartungsarm": 3.5,
+        "Luftreinigung": 3.8,
+        "Ästhetik": 5,
+        "Wert": 3.5,
+        "Wachstumsrate": 3
       }
     },
     {
       "offerId": "snake-plant-laurentii",
       "badge": "Bester Luftreiniger",
       "review": "Sansevieria trifasciata 'Laurentii' ist die einzige Pflanze im Test mit verifizierten Luftreinigungsdaten in peer-reviewten Studien. Nächtliche CO₂-Fixierung durch CAM-Photosynthese macht sie ideal für Schlafzimmer. Extrem trockenheitstolerant — zwei Wochen ohne Wasser ist kein Problem. Der Kompromiss: sehr langsames Wachstum, das manche als statisch empfinden.",
-      "pros": ["Verifizierte Luftreinigungsleistung in wissenschaftlichen Studien", "CAM-Photosynthese macht sie ideal für Schlafzimmer", "Nahezu unverwüstlich bei Überwässerung und Dürre"],
-      "cons": ["Sehr langsames Wachstum — kaum sichtbare Veränderung in Monaten"],
+      "pros": [
+        "Verifizierte Luftreinigungsleistung in wissenschaftlichen Studien",
+        "CAM-Photosynthese macht sie ideal für Schlafzimmer",
+        "Nahezu unverwüstlich bei Überwässerung und Dürre"
+      ],
+      "cons": [
+        "Sehr langsames Wachstum — kaum sichtbare Veränderung in Monaten"
+      ],
       "grade": "B+",
       "specs": {
         "Lichtbedarf": "25–200 Fußkerzen",
@@ -182,19 +200,25 @@
         "Verfügbarkeit": "Weit verbreitet"
       },
       "scores": {
-        "Low maintenance": 5.0,
-        "Air purification": 4.5,
-        "Aesthetics": 4.0,
-        "Value": 4.5,
-        "Growth rate": 2.0
+        "Wartungsarm": 5,
+        "Luftreinigung": 4.5,
+        "Ästhetik": 4,
+        "Wert": 4.5,
+        "Wachstumsrate": 2
       }
     },
     {
       "offerId": "zz-plant",
       "badge": "Am pflegeleichtesten",
       "review": "ZZ Pflanze (Zamioculcas zamiifolia) ist die ultimative Pflanze für Vergessliche: Die Rhizomknollen speichern Wasser für monatelange Vernachlässigung. Sie gedeiht bei sehr wenig Licht und ist nahezu unzerstörbar. Langsames Wachstum und mäßige Ästhetik sind die einzigen Einschränkungen — und die giftige Wirkung für Menschen und Haustiere muss beachtet werden.",
-      "pros": ["Rhizomknollen speichern Wasser für extreme Trockenheitstoleranz", "Gedeiht bei sehr wenig Licht, wo andere sterben würden", "Praktisch wartungsfrei für beschäftigte Haushalte"],
-      "cons": ["Langsames Wachstum — minimal sichtbare Veränderung über Monate"],
+      "pros": [
+        "Rhizomknollen speichern Wasser für extreme Trockenheitstoleranz",
+        "Gedeiht bei sehr wenig Licht, wo andere sterben würden",
+        "Praktisch wartungsfrei für beschäftigte Haushalte"
+      ],
+      "cons": [
+        "Langsames Wachstum — minimal sichtbare Veränderung über Monate"
+      ],
       "grade": "B",
       "specs": {
         "Lichtbedarf": "25–150 Fußkerzen",
@@ -205,19 +229,25 @@
         "Verfügbarkeit": "Blumenläden, Online"
       },
       "scores": {
-        "Low maintenance": 5.0,
-        "Air purification": 3.0,
-        "Aesthetics": 4.3,
-        "Value": 4.0,
-        "Growth rate": 1.5
+        "Wartungsarm": 5,
+        "Luftreinigung": 3,
+        "Ästhetik": 4.3,
+        "Wert": 4,
+        "Wachstumsrate": 1.5
       }
     },
     {
       "offerId": "peace-lily",
       "badge": "Schönste Blüten",
       "review": "Friedenslilie (Spathiphyllum) ist eine der wenigen Zimmerpflanzen, die unter normaler Raumbeleuchtung zuverlässig blüht — ein echter Vorteil für Haushalte ohne helle Fenster. Der eingebaute Bewässerungsindikator (Hängen und Erholen) ist für Anfänger sehr praktisch. Strikte Warnung: giftig für Katzen, Hunde und Kinder — ein absolutes Ausschlusskriterium für Haushalte mit Haustieren.",
-      "pros": ["Blüht zuverlässig ohne helles Licht — selten bei Zimmerpflanzen", "Hängen-und-Erholen-Anzeige zeigt Wasserbedarf deutlich an", "Elegante weiße Blüten erhöhen den Wohnraumcharme"],
-      "cons": ["Giftig für Katzen, Hunde und Kinder — nicht für Haushalte mit Haustieren"],
+      "pros": [
+        "Blüht zuverlässig ohne helles Licht — selten bei Zimmerpflanzen",
+        "Hängen-und-Erholen-Anzeige zeigt Wasserbedarf deutlich an",
+        "Elegante weiße Blüten erhöhen den Wohnraumcharme"
+      ],
+      "cons": [
+        "Giftig für Katzen, Hunde und Kinder — nicht für Haushalte mit Haustieren"
+      ],
       "grade": "B-",
       "specs": {
         "Lichtbedarf": "25–150 Fußkerzen",
@@ -228,11 +258,11 @@
         "Verfügbarkeit": "Weit verbreitet"
       },
       "scores": {
-        "Low maintenance": 3.8,
-        "Air purification": 4.5,
-        "Aesthetics": 4.5,
-        "Value": 4.3,
-        "Growth rate": 3.5
+        "Wartungsarm": 3.8,
+        "Luftreinigung": 4.5,
+        "Ästhetik": 4.5,
+        "Wert": 4.3,
+        "Wachstumsrate": 3.5
       }
     }
   ],

@@ -44,51 +44,154 @@
       "offerId": "hiking-poles-black-diamond-trail",
       "badge": "Tốt nhất tổng thể",
       "review": "Black Diamond Trail (phiên bản khóa chốt 2026) giải quyết vấn đề trượt sức căng ở nhiệt độ lạnh của thiết kế khóa vặn trước đó. Ở 482g mỗi cặp bằng nhôm, không phải lựa chọn nhẹ nhất, nhưng sự kết hợp của cơ chế đáng tin cậy, rổ có thể thay thế và cấu trúc có thể bảo dưỡng ngoài trời làm cho nó trở thành cây gậy bền bỉ nhất về mặt thực tế trong so sánh này.",
-      "pros": ["Khóa chốt giữ sức căng đáng tin cậy trong lạnh — giải quyết vấn đề khóa vặn trước đó", "Rổ và đầu có thể thay thế ngoài trời — bảo dưỡng được trên các tuyến dài không cần dụng cụ chuyên dụng", "Tay cầm EVA hoạt động chấp nhận được trên tay đổ mồ hôi và ướt"],
-      "cons": ["Thiết kế tuyến tính không gập được gói gọn ở 60–70 cm — quá dài cho ngăn hành lý máy bay"],
+      "pros": [
+        "Khóa chốt giữ sức căng đáng tin cậy trong lạnh — giải quyết vấn đề khóa vặn trước đó",
+        "Rổ và đầu có thể thay thế ngoài trời — bảo dưỡng được trên các tuyến dài không cần dụng cụ chuyên dụng",
+        "Tay cầm EVA hoạt động chấp nhận được trên tay đổ mồ hôi và ướt"
+      ],
+      "cons": [
+        "Thiết kế tuyến tính không gập được gói gọn ở 60–70 cm — quá dài cho ngăn hành lý máy bay"
+      ],
       "grade": "A+",
-      "specs": {"Trọng lượng (cặp)": "482g", "Vật liệu": "Nhôm 6061", "Tay cầm": "Xốp EVA", "Cơ chế": "Khóa chốt", "Chiều dài gấp": "60–70 cm", "Rổ": "Rổ trekking kèm theo", "Giá": "$90"},
-      "scores": {"Weight": 3.8, "Packability": 3.2, "Grip comfort": 4.2, "Mechanism reliability": 4.9, "Value": 4.7}
+      "specs": {
+        "Trọng lượng (cặp)": "482g",
+        "Vật liệu": "Nhôm 6061",
+        "Tay cầm": "Xốp EVA",
+        "Cơ chế": "Khóa chốt",
+        "Chiều dài gấp": "60–70 cm",
+        "Rổ": "Rổ trekking kèm theo",
+        "Giá": "$90"
+      },
+      "scores": {
+        "Trọng lượng": 3.8,
+        "Khả năng đóng gói": 3.2,
+        "Sự thoải mái cầm": 4.2,
+        "Độ tin cậy cơ chế": 4.9,
+        "Giá trị": 4.7
+      }
     },
     {
       "offerId": "hiking-poles-leki-micro-vario",
       "badge": "Nhẹ nhất",
       "review": "Ở 236g mỗi gậy (472g mỗi cặp), Leki Micro Vario Carbon là cây gậy nhẹ nhất trong so sánh này với khoảng cách đáng kể. Cấu trúc carbon ba phần gập lại 38 cm — thực sự tương thích với ngăn hành lý máy bay. FlickLock Pro giữ sức căng đáng tin cậy đến -20°C.",
-      "pros": ["236g mỗi gậy — nhẹ nhất trong so sánh này với 88g+ ưu thế so với các lựa chọn nhôm", "38 cm gấp lại — tương thích với hành lý xách tay máy bay", "FlickLock Pro được xếp hạng đến -20°C không có hiện tượng trượt sức căng được ghi nhận"],
-      "cons": ["Tay cầm bần trơn khi ướt — cần găng tay hoặc băng tay trong điều kiện mưa", "Giá $180 yêu cầu mức sử dụng hàng năm cao để biện minh so với các lựa chọn carbon"],
+      "pros": [
+        "236g mỗi gậy — nhẹ nhất trong so sánh này với 88g+ ưu thế so với các lựa chọn nhôm",
+        "38 cm gấp lại — tương thích với hành lý xách tay máy bay",
+        "FlickLock Pro được xếp hạng đến -20°C không có hiện tượng trượt sức căng được ghi nhận"
+      ],
+      "cons": [
+        "Tay cầm bần trơn khi ướt — cần găng tay hoặc băng tay trong điều kiện mưa",
+        "Giá $180 yêu cầu mức sử dụng hàng năm cao để biện minh so với các lựa chọn carbon"
+      ],
       "grade": "A",
-      "specs": {"Trọng lượng (cặp)": "472g", "Vật liệu": "Sợi carbon", "Tay cầm": "Bần", "Cơ chế": "FlickLock Pro", "Chiều dài gấp": "38 cm", "Rổ": "Rổ trekking kèm theo", "Giá": "$180"},
-      "scores": {"Weight": 5.0, "Packability": 5.0, "Grip comfort": 4.6, "Mechanism reliability": 4.9, "Value": 3.8}
+      "specs": {
+        "Trọng lượng (cặp)": "472g",
+        "Vật liệu": "Sợi carbon",
+        "Tay cầm": "Bần",
+        "Cơ chế": "FlickLock Pro",
+        "Chiều dài gấp": "38 cm",
+        "Rổ": "Rổ trekking kèm theo",
+        "Giá": "$180"
+      },
+      "scores": {
+        "Trọng lượng": 5,
+        "Khả năng đóng gói": 5,
+        "Sự thoải mái cầm": 4.6,
+        "Độ tin cậy cơ chế": 4.9,
+        "Giá trị": 3.8
+      }
     },
     {
       "offerId": "hiking-poles-rei-co-op-traverse",
       "badge": "Giá trị tốt nhất",
       "review": "REI Co-op Traverse (phiên bản 2026 với khóa chốt kép) sửa vấn đề trượt sức căng của phiên bản khóa vặn gốc. Ở $60 mỗi cặp bằng nhôm, đây là mức giá dễ tiếp cận nhất trong so sánh này với cơ chế giờ đã đáng tin cậy.",
-      "pros": ["Giá thấp nhất trong so sánh này — $60 mỗi cặp với cơ chế khóa chốt đáng tin cậy sau 2026", "Tay cầm bần thoải mái cho các buổi nhiều giờ vào những ngày khô", "Cấu trúc nhôm chắc chắn chịu được sử dụng khắc nghiệt trên đường mòn không có nguy cơ giòn như carbon"],
-      "cons": ["Gói gọn ở 60–70 cm — không tương thích với hành lý xách tay máy bay", "Tay cầm bần cần sấy khô sau khi dùng trong điều kiện ướt để tránh mốc và mùi"],
+      "pros": [
+        "Giá thấp nhất trong so sánh này — $60 mỗi cặp với cơ chế khóa chốt đáng tin cậy sau 2026",
+        "Tay cầm bần thoải mái cho các buổi nhiều giờ vào những ngày khô",
+        "Cấu trúc nhôm chắc chắn chịu được sử dụng khắc nghiệt trên đường mòn không có nguy cơ giòn như carbon"
+      ],
+      "cons": [
+        "Gói gọn ở 60–70 cm — không tương thích với hành lý xách tay máy bay",
+        "Tay cầm bần cần sấy khô sau khi dùng trong điều kiện ướt để tránh mốc và mùi"
+      ],
       "grade": "B+",
-      "specs": {"Trọng lượng (cặp)": "510g", "Vật liệu": "Nhôm 6061", "Tay cầm": "Bần", "Cơ chế": "Khóa chốt kép (2026)", "Chiều dài gấp": "60–70 cm", "Rổ": "Rổ trekking kèm theo", "Giá": "$60"},
-      "scores": {"Weight": 3.5, "Packability": 3.0, "Grip comfort": 4.4, "Mechanism reliability": 4.5, "Value": 5.0}
+      "specs": {
+        "Trọng lượng (cặp)": "510g",
+        "Vật liệu": "Nhôm 6061",
+        "Tay cầm": "Bần",
+        "Cơ chế": "Khóa chốt kép (2026)",
+        "Chiều dài gấp": "60–70 cm",
+        "Rổ": "Rổ trekking kèm theo",
+        "Giá": "$60"
+      },
+      "scores": {
+        "Trọng lượng": 3.5,
+        "Khả năng đóng gói": 3,
+        "Sự thoải mái cầm": 4.4,
+        "Độ tin cậy cơ chế": 4.5,
+        "Giá trị": 5
+      }
     },
     {
       "offerId": "hiking-poles-montbell-jp",
       "badge": "Chất lượng xây dựng tốt nhất (Nhật Bản)",
       "review": "Gậy Montbell thị trường Nhật sử dụng cấu trúc nhôm 7075 (độ bền kéo cao hơn hợp kim 6061 của đối thủ), và chất lượng xây dựng có thể đo lường tốt hơn gậy nhôm thị trường đại chúng. Vùng tay cầm EVA mở rộng trên thân gậy xử lý tốt việc cắm gậy góc thấp trên đường zigzag xuống dốc.",
-      "pros": ["Cấu trúc nhôm 7075 — độ bền kéo cao hơn 6061 trong các gậy đối thủ", "Vùng tay cầm mở rộng trên thân gậy cho kỹ thuật cắm ngắn trên địa hình dốc", "Kiểm soát chất lượng và dịch vụ bảo hành xuất sắc tại Nhật Bản"],
-      "cons": ["Cơ chế khóa vặn trượt dưới 0°C — thay bằng gậy khóa chốt để leo núi mùa đông"],
+      "pros": [
+        "Cấu trúc nhôm 7075 — độ bền kéo cao hơn 6061 trong các gậy đối thủ",
+        "Vùng tay cầm mở rộng trên thân gậy cho kỹ thuật cắm ngắn trên địa hình dốc",
+        "Kiểm soát chất lượng và dịch vụ bảo hành xuất sắc tại Nhật Bản"
+      ],
+      "cons": [
+        "Cơ chế khóa vặn trượt dưới 0°C — thay bằng gậy khóa chốt để leo núi mùa đông"
+      ],
       "grade": "B+",
-      "specs": {"Trọng lượng (cặp)": "490g", "Vật liệu": "Nhôm 7075", "Tay cầm": "Xốp EVA với vùng thân mở rộng", "Cơ chế": "Khóa vặn", "Chiều dài gấp": "62 cm", "Thị trường": "Nhật Bản chính", "Giá": "$89"},
-      "scores": {"Weight": 3.7, "Packability": 3.1, "Grip comfort": 4.5, "Mechanism reliability": 3.9, "Value": 4.2}
+      "specs": {
+        "Trọng lượng (cặp)": "490g",
+        "Vật liệu": "Nhôm 7075",
+        "Tay cầm": "Xốp EVA với vùng thân mở rộng",
+        "Cơ chế": "Khóa vặn",
+        "Chiều dài gấp": "62 cm",
+        "Thị trường": "Nhật Bản chính",
+        "Giá": "$89"
+      },
+      "scores": {
+        "Trọng lượng": 3.7,
+        "Khả năng đóng gói": 3.1,
+        "Sự thoải mái cầm": 4.5,
+        "Độ tin cậy cơ chế": 3.9,
+        "Giá trị": 4.2
+      }
     },
     {
       "offerId": "hiking-poles-komperdell-carbon",
       "badge": "Giá trị Carbon tốt nhất",
       "review": "Komperdell Carbon C3 Pro cung cấp cấu trúc 100% sợi carbon với $110 mỗi cặp — rẻ hơn đáng kể so với $180 của Leki với cùng vật liệu. Ở 148g mỗi gậy (296g mỗi cặp), tiết kiệm 186g so với cặp nhôm Black Diamond Trail.",
-      "pros": ["100% sợi carbon với $110/cặp — thu hẹp khoảng cách giá với Leki $70", "148g mỗi gậy — nhẹ hơn 93g mỗi gậy so với nhôm Black Diamond", "Tay cầm cao su hoạt động trong điều kiện ướt không có vấn đề trượt của bần"],
-      "cons": ["Tay cầm cao su kém thoải mái hơn bần cho các buổi kéo dài", "Lớp carbon kém chịu va đập hơn Leki — va đập đầu gậy vào đá cần cẩn thận hơn"],
+      "pros": [
+        "100% sợi carbon với $110/cặp — thu hẹp khoảng cách giá với Leki $70",
+        "148g mỗi gậy — nhẹ hơn 93g mỗi gậy so với nhôm Black Diamond",
+        "Tay cầm cao su hoạt động trong điều kiện ướt không có vấn đề trượt của bần"
+      ],
+      "cons": [
+        "Tay cầm cao su kém thoải mái hơn bần cho các buổi kéo dài",
+        "Lớp carbon kém chịu va đập hơn Leki — va đập đầu gậy vào đá cần cẩn thận hơn"
+      ],
       "grade": "B",
-      "specs": {"Trọng lượng (cặp)": "296g", "Vật liệu": "Sợi carbon", "Tay cầm": "Cao su", "Cơ chế": "Khóa chốt", "Chiều dài gấp": "36 cm", "Rổ": "Rổ trekking kèm theo", "Giá": "$110"},
-      "scores": {"Weight": 4.8, "Packability": 4.9, "Grip comfort": 3.8, "Mechanism reliability": 4.6, "Value": 4.5}
+      "specs": {
+        "Trọng lượng (cặp)": "296g",
+        "Vật liệu": "Sợi carbon",
+        "Tay cầm": "Cao su",
+        "Cơ chế": "Khóa chốt",
+        "Chiều dài gấp": "36 cm",
+        "Rổ": "Rổ trekking kèm theo",
+        "Giá": "$110"
+      },
+      "scores": {
+        "Trọng lượng": 4.8,
+        "Khả năng đóng gói": 4.9,
+        "Sự thoải mái cầm": 3.8,
+        "Độ tin cậy cơ chế": 4.6,
+        "Giá trị": 4.5
+      }
     }
   ],
   "faqs": [
@@ -106,9 +209,21 @@
     }
   ],
   "recommendedFor": [
-    {"label": "Cho người đi bộ ngày muốn độ tin cậy tổng thể tốt nhất", "offerId": "hiking-poles-black-diamond-trail", "reason": "Khóa chốt được cập nhật năm 2026, có thể bảo dưỡng ngoài trời, tay cầm EVA xử lý điều kiện hỗn hợp — lựa chọn mặc định an toàn."},
-    {"label": "Cho người đi bộ ba lô khi mỗi gram đều quan trọng", "offerId": "hiking-poles-leki-micro-vario", "reason": "236g mỗi gậy là nhẹ nhất trong so sánh này; chiều dài gấp 38 cm phù hợp với ngăn hành lý máy bay."},
-    {"label": "Cho hiệu suất carbon với ngân sách hạn chế", "offerId": "hiking-poles-komperdell-carbon", "reason": "100% carbon với $110/cặp — rẻ hơn Leki $70 với tiết kiệm trọng lượng tương tự so với nhôm."}
+    {
+      "label": "Cho người đi bộ ngày muốn độ tin cậy tổng thể tốt nhất",
+      "offerId": "hiking-poles-black-diamond-trail",
+      "reason": "Khóa chốt được cập nhật năm 2026, có thể bảo dưỡng ngoài trời, tay cầm EVA xử lý điều kiện hỗn hợp — lựa chọn mặc định an toàn."
+    },
+    {
+      "label": "Cho người đi bộ ba lô khi mỗi gram đều quan trọng",
+      "offerId": "hiking-poles-leki-micro-vario",
+      "reason": "236g mỗi gậy là nhẹ nhất trong so sánh này; chiều dài gấp 38 cm phù hợp với ngăn hành lý máy bay."
+    },
+    {
+      "label": "Cho hiệu suất carbon với ngân sách hạn chế",
+      "offerId": "hiking-poles-komperdell-carbon",
+      "reason": "100% carbon với $110/cặp — rẻ hơn Leki $70 với tiết kiệm trọng lượng tương tự so với nhôm."
+    }
   ],
   "pinDescription": "So sánh gậy leo núi 2026 — carbon siêu nhẹ vs nhôm bền bỉ, khóa chốt vs khóa vặn. Leki vs Black Diamond vs REI vs Komperdell vs Montbell: trọng lượng, tay cầm, khả năng gọn nhẹ cho người leo núi.",
   "offerNotes": ""

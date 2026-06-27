@@ -68,8 +68,14 @@
       "offerId": "le-creuset-dutch-oven-5qt",
       "badge": "En iyi genel",
       "review": "Le Creuset'in kum renkli iç emayesi, kızarma sürecini siyah emayeli rakiplerin eşleşemeyeceği şekilde gerçekten görünür kılar — Maillard gradyantının geliştikçe altın sarısından koyu maun rengine kayışını izleyebilirsiniz. Üç katlı emaye sistemi bu karşılaştırmadaki en kalındır ve Lodge veya Cuisinart'a kıyasla yıllarca normal kullanımdan sonra daha az ağız kırılması gösterir. Premium fiyat gerçektir, ancak ikinci el piyasalardaki yeniden satış değeri genellikle bir on yıllık kullanımdan sonra satın alma fiyatının %40-50'sini geri kazandırır.",
-      "pros": ["Kum renkli iç yüzey kızarmayı ve fond oluşumunu açıkça gösterir", "Üç katlı emaye buradaki herhangi bir rakipten daha iyi kırılmaya karşı koyar", "Üretim hatalarına karşı ömür boyu garanti gerçek ve yerine getirildi"],
-      "cons": ["Yüksek giriş maliyeti ciddi bir finansal taahhüttür"],
+      "pros": [
+        "Kum renkli iç yüzey kızarmayı ve fond oluşumunu açıkça gösterir",
+        "Üç katlı emaye buradaki herhangi bir rakipten daha iyi kırılmaya karşı koyar",
+        "Üretim hatalarına karşı ömür boyu garanti gerçek ve yerine getirildi"
+      ],
+      "cons": [
+        "Yüksek giriş maliyeti ciddi bir finansal taahhüttür"
+      ],
       "grade": "A+",
       "specs": {
         "Capacity": "5.5 qt (5.2 L)",
@@ -81,19 +87,25 @@
         "Weight": "3.6 kg"
       },
       "scores": {
-        "Heat retention": 5.0,
-        "Durability": 4.9,
-        "Ease of use": 4.7,
-        "Value": 3.5,
-        "Versatility": 4.8
+        "Isı Tutma": 5,
+        "Dayanıklılık": 4.9,
+        "Kullanım Kolaylığı": 4.7,
+        "Değer": 3.5,
+        "Çok Yönlülük": 4.8
       }
     },
     {
       "offerId": "staub-cocotte-5qt",
       "badge": "Braise için en iyi",
       "review": "Staub'un çıkıntılı kapağı, yoğuşmayı tüm yüzeye eşit damlalar halinde gıdanın üstüne geri döndürür — düz kapak tasarımlarında kenar birikiminin sorun olduğu uzun braise'lerde ölçülebilir bir avantaj. Mat siyah emaye zamanla kızartmayı giderek daha verimli hale getiren bir pişirme patinası geliştirir. Le Creuset ile fiyat açısından rekabet eder ve aralarındaki seçim gerçekten pişirme tarzı meselesidir: maksimum nem tutma için Staub, görsel geri bildirim için Le Creuset.",
-      "pros": ["Kendi kendine kaplayan çıkıntılı kapak nemi eşit şekilde yiyeceğe geri döndürür", "Mat siyah iç yüzey giderek iyileşen bir pişirme patinası geliştirir", "Ocakta kavurma ve braise için profesyonel mutfak standardı"],
-      "cons": ["Siyah iç yüzey kızarma sürecini görsel olarak izlemeyi zorlaştırır"],
+      "pros": [
+        "Kendi kendine kaplayan çıkıntılı kapak nemi eşit şekilde yiyeceğe geri döndürür",
+        "Mat siyah iç yüzey giderek iyileşen bir pişirme patinası geliştirir",
+        "Ocakta kavurma ve braise için profesyonel mutfak standardı"
+      ],
+      "cons": [
+        "Siyah iç yüzey kızarma sürecini görsel olarak izlemeyi zorlaştırır"
+      ],
       "grade": "A",
       "specs": {
         "Capacity": "5.5 qt (5.2 L)",
@@ -105,19 +117,25 @@
         "Weight": "3.9 kg"
       },
       "scores": {
-        "Heat retention": 5.0,
-        "Durability": 4.8,
-        "Ease of use": 4.5,
-        "Value": 3.6,
-        "Versatility": 4.7
+        "Isı Tutma": 5,
+        "Dayanıklılık": 4.8,
+        "Kullanım Kolaylığı": 4.5,
+        "Değer": 3.6,
+        "Çok Yönlülük": 4.7
       }
     },
     {
       "offerId": "tramontina-enameled-dutch-oven",
       "badge": "En iyi değer yükseltmesi",
       "review": "Tramontina'nın Brezilya yapımı emayesi ekonomik fiyat seviyesini tutarlı biçimde geride bırakır — iç yüzey işlemi Lodge'dan belirgin şekilde daha pürüzsüz ve bu fiyatta başka herhangi bir şeyden daha fazla Le Creuset'in yüzey kalitesine yakın. Kontrollü yan yana pişirme testlerinde ısı tutma ve braise sonuçları Fransız markalarla karşılaştırılabilir. Hiçbiri Fransız markalarının garanti derinliğini taşımaz, ancak lüks fiyatlandırma olmadan gerçek kalite isteyen haftalık aşçılar için Tramontina mantıklı ilk döküm tenceredir.",
-      "pros": ["İç emaye Lodge'dan belirgin şekilde daha pürüzsüz, Le Creuset kalitesine yaklaşıyor", "Geniş renk seçeneği ve rahat sap ergonomisi", "Profesyonel pişirme yayınları tarafından tutarlı olarak öneriliyor"],
-      "cons": ["Le Creuset veya Staub ömür boyu garantileriyle karşılaştırıldığında anlamlı bir garanti yok"],
+      "pros": [
+        "İç emaye Lodge'dan belirgin şekilde daha pürüzsüz, Le Creuset kalitesine yaklaşıyor",
+        "Geniş renk seçeneği ve rahat sap ergonomisi",
+        "Profesyonel pişirme yayınları tarafından tutarlı olarak öneriliyor"
+      ],
+      "cons": [
+        "Le Creuset veya Staub ömür boyu garantileriyle karşılaştırıldığında anlamlı bir garanti yok"
+      ],
       "grade": "B+",
       "specs": {
         "Capacity": "6.5 qt (6.1 L)",
@@ -129,19 +147,25 @@
         "Weight": "4.1 kg"
       },
       "scores": {
-        "Heat retention": 4.5,
-        "Durability": 4.2,
-        "Ease of use": 4.7,
-        "Value": 4.9,
-        "Versatility": 4.5
+        "Isı Tutma": 4.5,
+        "Dayanıklılık": 4.2,
+        "Kullanım Kolaylığı": 4.7,
+        "Değer": 4.9,
+        "Çok Yönlülük": 4.5
       }
     },
     {
       "offerId": "lodge-enameled-dutch-oven-6qt",
       "badge": "En iyi bütçe girişi",
       "review": "Lodge 6 qt, Le Creuset ile özdeş termal kütle ve ısı tutmayı altıda bir fiyata sunar — dökme demir çekirdek aynı işlevsel malzemedir. Anlamlı fark emaye kalınlığıdır: Lodge'un porselen emayesi Fransız markaların üç katlı sistemlerinden daha ince ve özellikle sert kullanımda ağız kırılmalarına daha eğilimlidir. Ahşap veya silikon aletler kullanır ve termal şoktan kaçınırsanız bu tencere yıllarca doğru çalışacaktır. Evinizde mutfak eşyalarına sert davranılıyorsa daha erken kırılır.",
-      "pros": ["Ekonomik fiyatıyla premium markalarla özdeş termal performans", "6 qt kapasite sebzelerle tam 2 kg brisket'i kaldırır", "Başlıca piyasalarda geniş çapta erişilebilir"],
-      "cons": ["Daha ince emaye Fransız markalardan daha fazla ağız kırılmasına eğilimli"],
+      "pros": [
+        "Ekonomik fiyatıyla premium markalarla özdeş termal performans",
+        "6 qt kapasite sebzelerle tam 2 kg brisket'i kaldırır",
+        "Başlıca piyasalarda geniş çapta erişilebilir"
+      ],
+      "cons": [
+        "Daha ince emaye Fransız markalardan daha fazla ağız kırılmasına eğilimli"
+      ],
       "grade": "B",
       "specs": {
         "Capacity": "6 qt (5.7 L)",
@@ -153,19 +177,25 @@
         "Weight": "4.5 kg"
       },
       "scores": {
-        "Heat retention": 4.5,
-        "Durability": 3.7,
-        "Ease of use": 4.5,
-        "Value": 5.0,
-        "Versatility": 4.3
+        "Isı Tutma": 4.5,
+        "Dayanıklılık": 3.7,
+        "Kullanım Kolaylığı": 4.5,
+        "Değer": 5,
+        "Çok Yönlülük": 4.3
       }
     },
     {
       "offerId": "cuisinart-chef-classic-dutch-oven",
       "badge": "Büyük miktarlar için en iyi",
       "review": "Cuisinart 7 qt, dört veya daha fazla kişi için pişirmenin birincil kullanım durumu olduğunda doğru tercihtir — 5,5 qt alanına göre ekstra kapasite, kabı çok doldurmadan tam 2 kg brisket artı sebze ve sıvı yerleştirmenizi sağlar. Emaye kalitesi Lodge ile Fransız premium markalar arasındadır. Tek gerçek zayıflık taban kalınlığıdır: Cuisinart'ın tabanı Le Creuset veya Staub'dan daha ince olup bu, çok yüksek ocak ısısında hafif sıcak noktalar üretebileceği anlamına gelir. Braise sıcaklıklarında bu pratik bir endişe değildir.",
-      "pros": ["7 qt kapasite bu karşılaştırmadaki en büyük", "Orta segment fiyatı, premium maliyet olmaksızın büyük aile porsiyon pişirimini kaldırır", "Geniş halka saplar, dolu iken fırın eldivenlerle güvenli tutma sağlar"],
-      "cons": ["Daha ince taban dökümü, çok yüksek ocak ısısında hafif sıcak noktalar oluşturur"],
+      "pros": [
+        "7 qt kapasite bu karşılaştırmadaki en büyük",
+        "Orta segment fiyatı, premium maliyet olmaksızın büyük aile porsiyon pişirimini kaldırır",
+        "Geniş halka saplar, dolu iken fırın eldivenlerle güvenli tutma sağlar"
+      ],
+      "cons": [
+        "Daha ince taban dökümü, çok yüksek ocak ısısında hafif sıcak noktalar oluşturur"
+      ],
       "grade": "B-",
       "specs": {
         "Capacity": "7 qt (6.6 L)",
@@ -177,11 +207,11 @@
         "Weight": "5.0 kg"
       },
       "scores": {
-        "Heat retention": 4.2,
-        "Durability": 4.0,
-        "Ease of use": 4.4,
-        "Value": 4.3,
-        "Versatility": 4.5
+        "Isı Tutma": 4.2,
+        "Dayanıklılık": 4,
+        "Kullanım Kolaylığı": 4.4,
+        "Değer": 4.3,
+        "Çok Yönlülük": 4.5
       }
     }
   ],

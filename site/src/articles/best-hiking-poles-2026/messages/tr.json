@@ -44,51 +44,154 @@
       "offerId": "hiking-poles-black-diamond-trail",
       "badge": "Genel En İyi",
       "review": "Black Diamond Trail (2026 çıtçıt versiyonu), önceki döner kilit tasarımının soğuk sıcaklık gerilim kayması sorununu çözüyor. Alüminyumda çift başına 482g ile en hafif seçenek değil, ancak güvenilir mekanizma, değiştirilebilir sepetler ve sahada servis yapılabilir yapının kombinasyonu onu bu karşılaştırmadaki en pratik dayanıklı sopa yapıyor.",
-      "pros": ["Çıtçıt kilidi soğukta güvenilir biçimde gerilimi tutar — önceki döner kilit sorununu çözdü", "Sahada değiştirilebilir sepetler ve uçlar — uzun güzergahlarda özel alet olmadan bakım yapılabilir", "EVA sap terli ve ıslak ellerde kabul edilebilir biçimde çalışır"],
-      "cons": ["Katlanmayan doğrusal tasarım 60–70 cm'e paketlenir — uçak bagaj bölmeleri için çok uzun"],
+      "pros": [
+        "Çıtçıt kilidi soğukta güvenilir biçimde gerilimi tutar — önceki döner kilit sorununu çözdü",
+        "Sahada değiştirilebilir sepetler ve uçlar — uzun güzergahlarda özel alet olmadan bakım yapılabilir",
+        "EVA sap terli ve ıslak ellerde kabul edilebilir biçimde çalışır"
+      ],
+      "cons": [
+        "Katlanmayan doğrusal tasarım 60–70 cm'e paketlenir — uçak bagaj bölmeleri için çok uzun"
+      ],
       "grade": "A+",
-      "specs": {"Ağırlık (çift)": "482g", "Malzeme": "Alüminyum 6061", "Sap": "EVA Köpük", "Mekanizma": "Çıtçıt kilit", "Katlanmış uzunluk": "60–70 cm", "Sepet": "Trekking sepeti dahil", "Fiyat": "$90"},
-      "scores": {"Weight": 3.8, "Packability": 3.2, "Grip comfort": 4.2, "Mechanism reliability": 4.9, "Value": 4.7}
+      "specs": {
+        "Ağırlık (çift)": "482g",
+        "Malzeme": "Alüminyum 6061",
+        "Sap": "EVA Köpük",
+        "Mekanizma": "Çıtçıt kilit",
+        "Katlanmış uzunluk": "60–70 cm",
+        "Sepet": "Trekking sepeti dahil",
+        "Fiyat": "$90"
+      },
+      "scores": {
+        "Ağırlık": 3.8,
+        "Paketlenebilirlik": 3.2,
+        "Tutma Rahatlığı": 4.2,
+        "Mekanizm Güvenilirliği": 4.9,
+        "Değer": 4.7
+      }
     },
     {
       "offerId": "hiking-poles-leki-micro-vario",
       "badge": "En İyi Ultra Hafif",
       "review": "Sopa başına 236g (çift başına 472g) ile Leki Micro Vario Carbon, bu karşılaştırmadaki en hafif sopayı önemli bir farkla oluşturuyor. Üç bölümlü karbon yapı 38 cm'ye katlanır — gerçekten kabin bagajıyla uyumlu. FlickLock Pro -20°C'ye kadar güvenilir biçimde gerilimi tutar.",
-      "pros": ["Sopa başına 236g — bu karşılaştırmada alüminyum seçeneklerden 88g+ avantajla en hafif", "38 cm katlanmış — uçak el bagajıyla uyumlu", "FlickLock Pro -20°C'ye kadar gerilim kayması olmadan derecelendirildi"],
-      "cons": ["Mantar sap ıslak olduğunda kayar — yağmur koşullarında eldiven veya sap bandı gerektirir", "$180 fiyatı karbon alternatiflere karşı haklı çıkarmak için yüksek yıllık kullanım gerektirir"],
+      "pros": [
+        "Sopa başına 236g — bu karşılaştırmada alüminyum seçeneklerden 88g+ avantajla en hafif",
+        "38 cm katlanmış — uçak el bagajıyla uyumlu",
+        "FlickLock Pro -20°C'ye kadar gerilim kayması olmadan derecelendirildi"
+      ],
+      "cons": [
+        "Mantar sap ıslak olduğunda kayar — yağmur koşullarında eldiven veya sap bandı gerektirir",
+        "$180 fiyatı karbon alternatiflere karşı haklı çıkarmak için yüksek yıllık kullanım gerektirir"
+      ],
       "grade": "A",
-      "specs": {"Ağırlık (çift)": "472g", "Malzeme": "Karbon fiber", "Sap": "Mantar", "Mekanizma": "FlickLock Pro", "Katlanmış uzunluk": "38 cm", "Sepet": "Trekking sepeti dahil", "Fiyat": "$180"},
-      "scores": {"Weight": 5.0, "Packability": 5.0, "Grip comfort": 4.6, "Mechanism reliability": 4.9, "Value": 3.8}
+      "specs": {
+        "Ağırlık (çift)": "472g",
+        "Malzeme": "Karbon fiber",
+        "Sap": "Mantar",
+        "Mekanizma": "FlickLock Pro",
+        "Katlanmış uzunluk": "38 cm",
+        "Sepet": "Trekking sepeti dahil",
+        "Fiyat": "$180"
+      },
+      "scores": {
+        "Ağırlık": 5,
+        "Paketlenebilirlik": 5,
+        "Tutma Rahatlığı": 4.6,
+        "Mekanizm Güvenilirliği": 4.9,
+        "Değer": 3.8
+      }
     },
     {
       "offerId": "hiking-poles-rei-co-op-traverse",
       "badge": "En İyi Değer",
       "review": "REI Co-op Traverse (çift çıtçıtlı 2026 versiyonu), orijinal döner kilit versiyonunun gerilim kayması sorununu düzeltiyor. Alüminyumda çift başına $60 ile şu anda güvenilir mekanizmasıyla bu karşılaştırmadaki en erişilebilir fiyat noktası.",
-      "pros": ["Bu karşılaştırmadaki en düşük fiyat — 2026 sonrası güvenilir çıtçıt mekanizmalı çift başına $60", "Mantar sap kuru günlerde çok saatlik oturumlar için konforlu", "Sağlam alüminyum yapı karbon kırılganlığı riski olmadan parkur kullanımını kaldırır"],
-      "cons": ["60–70 cm'e paketlenir — uçak kabin bagajıyla uyumlu değil", "Mantar sap küf ve kokuyu önlemek için ıslak kullanım sonrası kurutulmalı"],
+      "pros": [
+        "Bu karşılaştırmadaki en düşük fiyat — 2026 sonrası güvenilir çıtçıt mekanizmalı çift başına $60",
+        "Mantar sap kuru günlerde çok saatlik oturumlar için konforlu",
+        "Sağlam alüminyum yapı karbon kırılganlığı riski olmadan parkur kullanımını kaldırır"
+      ],
+      "cons": [
+        "60–70 cm'e paketlenir — uçak kabin bagajıyla uyumlu değil",
+        "Mantar sap küf ve kokuyu önlemek için ıslak kullanım sonrası kurutulmalı"
+      ],
       "grade": "B+",
-      "specs": {"Ağırlık (çift)": "510g", "Malzeme": "Alüminyum 6061", "Sap": "Mantar", "Mekanizma": "Çift çıtçıt (2026)", "Katlanmış uzunluk": "60–70 cm", "Sepet": "Trekking sepeti dahil", "Fiyat": "$60"},
-      "scores": {"Weight": 3.5, "Packability": 3.0, "Grip comfort": 4.4, "Mechanism reliability": 4.5, "Value": 5.0}
+      "specs": {
+        "Ağırlık (çift)": "510g",
+        "Malzeme": "Alüminyum 6061",
+        "Sap": "Mantar",
+        "Mekanizma": "Çift çıtçıt (2026)",
+        "Katlanmış uzunluk": "60–70 cm",
+        "Sepet": "Trekking sepeti dahil",
+        "Fiyat": "$60"
+      },
+      "scores": {
+        "Ağırlık": 3.5,
+        "Paketlenebilirlik": 3,
+        "Tutma Rahatlığı": 4.4,
+        "Mekanizm Güvenilirliği": 4.5,
+        "Değer": 5
+      }
     },
     {
       "offerId": "hiking-poles-montbell-jp",
       "badge": "En İyi Yapım Kalitesi (Japonya)",
       "review": "Montbell'in Japonya pazarı sopası, alüminyum 7075 yapı kullanır (çoğu rakibin 6061 alaşımından daha yüksek çekme mukavemeti), ve yapım kalitesi toplu pazar alüminyum sopalarından ölçülebilir biçimde daha iyidir. Şaft üzerindeki genişletilmiş EVA kavrama bölgesi, keskin viraj inişlerinde düşük açılı dikmede iyi performans gösterir.",
-      "pros": ["Alüminyum 7075 yapı — rakip sopalardaki 6061'den daha yüksek çekme mukavemeti", "Şafttaki genişletilmiş kavrama bölgesi dik arazide kısa dikme tekniğini karşılar", "Japonya'da olağanüstü kalite kontrolü ve garanti hizmeti"],
-      "cons": ["Döner kilit mekanizması 0°C altında kayar — kış yürüyüşü için çıtçıt kilitli sopalarla değiştirin"],
+      "pros": [
+        "Alüminyum 7075 yapı — rakip sopalardaki 6061'den daha yüksek çekme mukavemeti",
+        "Şafttaki genişletilmiş kavrama bölgesi dik arazide kısa dikme tekniğini karşılar",
+        "Japonya'da olağanüstü kalite kontrolü ve garanti hizmeti"
+      ],
+      "cons": [
+        "Döner kilit mekanizması 0°C altında kayar — kış yürüyüşü için çıtçıt kilitli sopalarla değiştirin"
+      ],
       "grade": "B+",
-      "specs": {"Ağırlık (çift)": "490g", "Malzeme": "Alüminyum 7075", "Sap": "EVA köpük (genişletilmiş şaft bölgesiyle)", "Mekanizma": "Döner kilit", "Katlanmış uzunluk": "62 cm", "Pazar": "Japonya öncelikli", "Fiyat": "$89"},
-      "scores": {"Weight": 3.7, "Packability": 3.1, "Grip comfort": 4.5, "Mechanism reliability": 3.9, "Value": 4.2}
+      "specs": {
+        "Ağırlık (çift)": "490g",
+        "Malzeme": "Alüminyum 7075",
+        "Sap": "EVA köpük (genişletilmiş şaft bölgesiyle)",
+        "Mekanizma": "Döner kilit",
+        "Katlanmış uzunluk": "62 cm",
+        "Pazar": "Japonya öncelikli",
+        "Fiyat": "$89"
+      },
+      "scores": {
+        "Ağırlık": 3.7,
+        "Paketlenebilirlik": 3.1,
+        "Tutma Rahatlığı": 4.5,
+        "Mekanizm Güvenilirliği": 3.9,
+        "Değer": 4.2
+      }
     },
     {
       "offerId": "hiking-poles-komperdell-carbon",
       "badge": "En İyi Karbon Değer",
       "review": "Komperdell Carbon C3 Pro, çift başına $110'a %100 karbon fiber yapı sunuyor — aynı malzemeyle Leki'nin $180'ından önemli ölçüde daha ucuz. Sopa başına 148g (çift başına 296g) ile Black Diamond Trail alüminyum çiftinden 186g tasarruf ediyor.",
-      "pros": ["Çift başına $110'a %100 karbon fiber — Leki'ye göre fiyat farkını $70 kapatıyor", "Sopa başına 148g — Black Diamond alüminyumdan sopa başına 93g daha hafif", "Kauçuk sap, mantar kayma sorunu olmadan ıslak koşullarda çalışıyor"],
-      "cons": ["Kauçuk sap uzun oturumlar için mantar kadar konforlu değil", "Karbon katmanlama Leki'den daha az darbe dirençli — kaya üzerindeki uç darbelerine daha dikkat gerektirir"],
+      "pros": [
+        "Çift başına $110'a %100 karbon fiber — Leki'ye göre fiyat farkını $70 kapatıyor",
+        "Sopa başına 148g — Black Diamond alüminyumdan sopa başına 93g daha hafif",
+        "Kauçuk sap, mantar kayma sorunu olmadan ıslak koşullarda çalışıyor"
+      ],
+      "cons": [
+        "Kauçuk sap uzun oturumlar için mantar kadar konforlu değil",
+        "Karbon katmanlama Leki'den daha az darbe dirençli — kaya üzerindeki uç darbelerine daha dikkat gerektirir"
+      ],
       "grade": "B",
-      "specs": {"Ağırlık (çift)": "296g", "Malzeme": "Karbon fiber", "Sap": "Kauçuk", "Mekanizma": "Çıtçıt kilit", "Katlanmış uzunluk": "36 cm", "Sepet": "Trekking sepeti dahil", "Fiyat": "$110"},
-      "scores": {"Weight": 4.8, "Packability": 4.9, "Grip comfort": 3.8, "Mechanism reliability": 4.6, "Value": 4.5}
+      "specs": {
+        "Ağırlık (çift)": "296g",
+        "Malzeme": "Karbon fiber",
+        "Sap": "Kauçuk",
+        "Mekanizma": "Çıtçıt kilit",
+        "Katlanmış uzunluk": "36 cm",
+        "Sepet": "Trekking sepeti dahil",
+        "Fiyat": "$110"
+      },
+      "scores": {
+        "Ağırlık": 4.8,
+        "Paketlenebilirlik": 4.9,
+        "Tutma Rahatlığı": 3.8,
+        "Mekanizm Güvenilirliği": 4.6,
+        "Değer": 4.5
+      }
     }
   ],
   "faqs": [
@@ -106,9 +209,21 @@
     }
   ],
   "recommendedFor": [
-    {"label": "En iyi genel güvenilirliği isteyen günlük yürüyüşçüler için", "offerId": "hiking-poles-black-diamond-trail", "reason": "2026'da çıtçıt güncellendi, sahada servis yapılabilir, EVA sap karışık koşulları kaldırır — güvenli varsayılan seçim."},
-    {"label": "Her gramın önemli olduğu sırt çantası yürüyüşçüleri için", "offerId": "hiking-poles-leki-micro-vario", "reason": "Sopa başına 236g bu karşılaştırmadaki en hafif; 38 cm paket uzunluğu uçak bagaj bölmelerine sığar."},
-    {"label": "Bütçeyle karbon performansı için", "offerId": "hiking-poles-komperdell-carbon", "reason": "%100 karbon çift başına $110 — alüminyuma göre benzer ağırlık tasarrufu ile Leki'den $70 daha ucuz."}
+    {
+      "label": "En iyi genel güvenilirliği isteyen günlük yürüyüşçüler için",
+      "offerId": "hiking-poles-black-diamond-trail",
+      "reason": "2026'da çıtçıt güncellendi, sahada servis yapılabilir, EVA sap karışık koşulları kaldırır — güvenli varsayılan seçim."
+    },
+    {
+      "label": "Her gramın önemli olduğu sırt çantası yürüyüşçüleri için",
+      "offerId": "hiking-poles-leki-micro-vario",
+      "reason": "Sopa başına 236g bu karşılaştırmadaki en hafif; 38 cm paket uzunluğu uçak bagaj bölmelerine sığar."
+    },
+    {
+      "label": "Bütçeyle karbon performansı için",
+      "offerId": "hiking-poles-komperdell-carbon",
+      "reason": "%100 karbon çift başına $110 — alüminyuma göre benzer ağırlık tasarrufu ile Leki'den $70 daha ucuz."
+    }
   ],
   "pinDescription": "2026 yürüyüş sopası karşılaştırması — ultra hafif karbon vs dayanıklı alüminyum, çıtçıt kilit vs döner kilit. Leki vs Black Diamond vs REI vs Komperdell vs Montbell: ağırlık, sap, taşınabilirlik.",
   "offerNotes": ""

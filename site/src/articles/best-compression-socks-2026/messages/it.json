@@ -44,51 +44,146 @@
       "offerId": "compression-socks-cep-run-4-0",
       "badge": "Migliore Compressione Clinica",
       "review": "CEP Run 4.0 offre compressione graduata certificata 20–30 mmHg di medi GmbH — lo stesso standard clinico delle calze a compressione medicali. L'aggiornamento della punta 2026 offre un avampiede più largo per un maggiore comfort. A 65 €, è l'opzione più costosa qui, ma la ritenzione della compressione a 80+ lavaggi e la precisione certificata del gradiente rendono il rapporto costo per lavaggio competitivo rispetto alle calze più economiche che si degradano più velocemente.",
-      "pros": ["medi GmbH certificato 20–30 mmHg — gradiente di compressione clinicamente più preciso in questo confronto", "Ritenzione della compressione a 80+ lavaggi — migliore durabilità a lungo termine di tutte le opzioni qui", "Aggiornamento 2026 con punta più larga migliora il comfort dell'avampiede"],
-      "cons": ["65 € al paio — prezzo più alto in questo confronto"],
+      "pros": [
+        "medi GmbH certificato 20–30 mmHg — gradiente di compressione clinicamente più preciso in questo confronto",
+        "Ritenzione della compressione a 80+ lavaggi — migliore durabilità a lungo termine di tutte le opzioni qui",
+        "Aggiornamento 2026 con punta più larga migliora il comfort dell'avampiede"
+      ],
+      "cons": [
+        "65 € al paio — prezzo più alto in questo confronto"
+      ],
       "grade": "A+",
-      "specs": {"Compression": "20–30 mmHg (certificato)", "Fiber": "Nylon/elastan", "Anatomical": "Specifico sinistra/destra", "Toe": "Senza cuciture", "Wash durability": "80+ lavaggi", "Price": "65 €"},
-      "scores": {"Compression accuracy": 5.0, "Blister resistance": 4.3, "Durability": 5.0, "Comfort": 4.4, "Value": 3.5}
+      "specs": {
+        "Compression": "20–30 mmHg (certificato)",
+        "Fiber": "Nylon/elastan",
+        "Anatomical": "Specifico sinistra/destra",
+        "Toe": "Senza cuciture",
+        "Wash durability": "80+ lavaggi",
+        "Price": "65 €"
+      },
+      "scores": {
+        "Precisione della compressione": 5,
+        "Resistenza alle vesciche": 4.3,
+        "Durata": 5,
+        "Comfort": 4.4,
+        "Valore": 3.5
+      }
     },
     {
       "offerId": "compression-socks-balega-blister-resist",
       "badge": "Migliore Anti-Vesciche",
       "review": "La miscela mohair/nylon/elastan di Balega offre il minore attrito di tutte le calze in questo confronto — la superficie liscia della fibra di mohair scivola sul piede invece di sfregarlo. Combinata con punta senza cuciture e imbottitura laterale dell'avampiede, è la calza anti-vesciche più efficace qui. La compressione è leggera (15–20 mmHg), non è la priorità. L'aggiornamento della larghezza 2026 risolve il limite della forma stretta. La scelta migliore per runner con storia di vesciche alle dita e all'avampiede.",
-      "pros": ["Miscela di fibre mohair — minore attrito in questo confronto, eccezionalmente efficace nella prevenzione delle vesciche", "Opzione larghezza 2026 risolve l'esclusione per piedi più larghi", "Punta senza cuciture più imbottitura laterale dell'avampiede mira alle due zone di vesciche più comuni"],
-      "cons": ["Solo compressione leggera (15–20 mmHg) — non è la scelta giusta se il beneficio della compressione clinica è l'obiettivo"],
+      "pros": [
+        "Miscela di fibre mohair — minore attrito in questo confronto, eccezionalmente efficace nella prevenzione delle vesciche",
+        "Opzione larghezza 2026 risolve l'esclusione per piedi più larghi",
+        "Punta senza cuciture più imbottitura laterale dell'avampiede mira alle due zone di vesciche più comuni"
+      ],
+      "cons": [
+        "Solo compressione leggera (15–20 mmHg) — non è la scelta giusta se il beneficio della compressione clinica è l'obiettivo"
+      ],
       "grade": "A",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Mohair/nylon/elastan", "Anatomical": "Specifico sinistra/destra", "Toe": "Senza cuciture", "Width": "Standard + largo (2026)", "Price": "19 €"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 5.0, "Durability": 4.3, "Comfort": 4.8, "Value": 4.9}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Mohair/nylon/elastan",
+        "Anatomical": "Specifico sinistra/destra",
+        "Toe": "Senza cuciture",
+        "Width": "Standard + largo (2026)",
+        "Price": "19 €"
+      },
+      "scores": {
+        "Precisione della compressione": 4,
+        "Resistenza alle vesciche": 5,
+        "Durata": 4.3,
+        "Comfort": 4.8,
+        "Valore": 4.9
+      }
     },
     {
       "offerId": "compression-socks-sockwell-pulse",
       "badge": "Migliore per Corsa a Temperatura Variabile",
       "review": "Sockwell Pulse usa una miscela merino/nylon/spandex che termoregola su range di temperatura stagionali — la fibra cava di merino isola nel freddo ed evacua l'umidità nel caldo. A 15–20 mmHg, la compressione è leggera. Il vantaggio della gestione termica emerge più chiaramente nei trail con significativo dislivello o nelle gare di inizio e fine stagione con oscillazioni di temperatura. Non la leader in compressione né in vesciche, ma il miglior tuttofare stagionale.",
-      "pros": ["Termoregolazione lana merino — gestisce le temperature tra le stagioni meglio delle fibre sintetiche", "L'evacuazione dell'umidità riduce il rischio di vesciche nelle lunghe uscite a temperatura variabile", "Prezzo medio a 33 € con durabilità superiore alla media"],
-      "cons": ["15–20 mmHg compressione leggera — non appropriata per i runner che necessitano del beneficio di compressione clinica 20–30 mmHg"],
+      "pros": [
+        "Termoregolazione lana merino — gestisce le temperature tra le stagioni meglio delle fibre sintetiche",
+        "L'evacuazione dell'umidità riduce il rischio di vesciche nelle lunghe uscite a temperatura variabile",
+        "Prezzo medio a 33 € con durabilità superiore alla media"
+      ],
+      "cons": [
+        "15–20 mmHg compressione leggera — non appropriata per i runner che necessitano del beneficio di compressione clinica 20–30 mmHg"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Lana merino/nylon/spandex", "Anatomical": "Specifico sinistra/destra", "Toe": "Senza cuciture", "Wash durability": "60 lavaggi ritenzione moderata", "Price": "33 €"},
-      "scores": {"Compression accuracy": 4.1, "Blister resistance": 4.2, "Durability": 4.4, "Comfort": 4.7, "Value": 4.5}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Lana merino/nylon/spandex",
+        "Anatomical": "Specifico sinistra/destra",
+        "Toe": "Senza cuciture",
+        "Wash durability": "60 lavaggi ritenzione moderata",
+        "Price": "33 €"
+      },
+      "scores": {
+        "Precisione della compressione": 4.1,
+        "Resistenza alle vesciche": 4.2,
+        "Durata": 4.4,
+        "Comfort": 4.7,
+        "Valore": 4.5
+      }
     },
     {
       "offerId": "compression-socks-tabio-jp",
       "badge": "Migliore per il Mercato Giapponese",
       "review": "Tabio Racing Fine usa una costruzione in nylon fine denier con differenziazione anatomica sinistra/destra. L'aggiornamento 2026 ha aggiunto un contrafforte del tallone rinforzato e un miglioramento della ritenzione della compressione attraverso 60 lavaggi — la versione precedente perdeva elasticità significativa a 30–40 lavaggi. Il fine denier conferisce una sensazione di superficie a minore attrito e un peso più leggero rispetto alle costruzioni tipiche delle marche occidentali. Compressione leggera (15–20 mmHg). La scelta migliore per i runner su strada che preferiscono una calza più leggera e sottile.",
-      "pros": ["Costruzione nylon fine denier — più leggera e a minore attrito rispetto alla tipica calza da running occidentale", "2026 tallone rinforzato e miglioramento della ritenzione della compressione a 60 lavaggi", "Costruzione anatomica sinistra/destra per una vestibilità precisa"],
-      "cons": ["Disponibilità limitata fuori dal Giappone — principalmente disponibile nei negozi Tabio Japan e online"],
+      "pros": [
+        "Costruzione nylon fine denier — più leggera e a minore attrito rispetto alla tipica calza da running occidentale",
+        "2026 tallone rinforzato e miglioramento della ritenzione della compressione a 60 lavaggi",
+        "Costruzione anatomica sinistra/destra per una vestibilità precisa"
+      ],
+      "cons": [
+        "Disponibilità limitata fuori dal Giappone — principalmente disponibile nei negozi Tabio Japan e online"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Nylon fine denier/elastan", "Anatomical": "Specifico sinistra/destra", "Toe": "Senza cuciture", "Market": "Principalmente Giappone", "Price": "Base"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.3, "Durability": 4.5, "Comfort": 4.6, "Value": 4.8}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Nylon fine denier/elastan",
+        "Anatomical": "Specifico sinistra/destra",
+        "Toe": "Senza cuciture",
+        "Market": "Principalmente Giappone",
+        "Price": "Base"
+      },
+      "scores": {
+        "Precisione della compressione": 4,
+        "Resistenza alle vesciche": 4.3,
+        "Durata": 4.5,
+        "Comfort": 4.6,
+        "Valore": 4.8
+      }
     },
     {
       "offerId": "compression-socks-feetures-elite",
       "badge": "Migliore per la Fascite Plantare",
       "review": "Feetures Elite usa il sistema iWCL per mappare le zone di imbottitura sui punti di pressione anatomici della superficie plantare invece di applicare un'imbottitura uniforme. Il risultato è una calza più leggera con protezione mirata esattamente dove si verifica l'impatto. L'aggiornamento 2026 ha aggiunto una zona di attrito nel mediopiede specificamente per le scarpe minimaliste. A 15–20 mmHg, la compressione è leggera. La scelta migliore per i runner con storia di fascite plantare o che corrono lunghe distanze in scarpe a drop zero o con stack basso.",
-      "pros": ["Mappatura imbottitura mirata iWCL — protezione nei punti di pressione plantare senza peso inutile", "Zona di attrito mediopiede 2026 affronta il pattern di vesciche nelle scarpe minimaliste", "Vestibilità anatomica con zonazione della compressione mirata"],
-      "cons": ["15–20 mmHg compressione leggera — non la scelta per il beneficio di compressione di livello clinico dopo le lunghe uscite"],
+      "pros": [
+        "Mappatura imbottitura mirata iWCL — protezione nei punti di pressione plantare senza peso inutile",
+        "Zona di attrito mediopiede 2026 affronta il pattern di vesciche nelle scarpe minimaliste",
+        "Vestibilità anatomica con zonazione della compressione mirata"
+      ],
+      "cons": [
+        "15–20 mmHg compressione leggera — non la scelta per il beneficio di compressione di livello clinico dopo le lunghe uscite"
+      ],
       "grade": "B",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Nylon/elastan", "Cushion": "Mappatura zone iWCL", "Anatomical": "Specifico sinistra/destra", "Toe": "Senza cuciture", "Price": "17 €"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.6, "Durability": 4.5, "Comfort": 4.8, "Value": 4.7}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Nylon/elastan",
+        "Cushion": "Mappatura zone iWCL",
+        "Anatomical": "Specifico sinistra/destra",
+        "Toe": "Senza cuciture",
+        "Price": "17 €"
+      },
+      "scores": {
+        "Precisione della compressione": 4,
+        "Resistenza alle vesciche": 4.6,
+        "Durata": 4.5,
+        "Comfort": 4.8,
+        "Valore": 4.7
+      }
     }
   ],
   "faqs": [
@@ -106,9 +201,21 @@
     }
   ],
   "recommendedFor": [
-    {"label": "Per compressione clinica e durabilità a lungo termine", "offerId": "compression-socks-cep-run-4-0", "reason": "Il gradiente certificato medi GmbH di 20–30 mmHg è il più preciso in questo confronto; la ritenzione a 80+ lavaggi rende il costo di 65 € competitivo per utilizzo."},
-    {"label": "Per i runner con storia di vesciche", "offerId": "compression-socks-balega-blister-resist", "reason": "La fibra di mohair riduce l'attrito piede-calza più efficacemente della sola costruzione a punta senza cuciture; opzione larghezza disponibile per il 2026."},
-    {"label": "Per fascite plantare e runner con scarpe minimaliste", "offerId": "compression-socks-feetures-elite", "reason": "La mappatura delle zone iWCL mira ai punti di pressione plantare; la zona di attrito del mediopiede 2026 affronta il pattern di vesciche nelle scarpe minimaliste."}
+    {
+      "label": "Per compressione clinica e durabilità a lungo termine",
+      "offerId": "compression-socks-cep-run-4-0",
+      "reason": "Il gradiente certificato medi GmbH di 20–30 mmHg è il più preciso in questo confronto; la ritenzione a 80+ lavaggi rende il costo di 65 € competitivo per utilizzo."
+    },
+    {
+      "label": "Per i runner con storia di vesciche",
+      "offerId": "compression-socks-balega-blister-resist",
+      "reason": "La fibra di mohair riduce l'attrito piede-calza più efficacemente della sola costruzione a punta senza cuciture; opzione larghezza disponibile per il 2026."
+    },
+    {
+      "label": "Per fascite plantare e runner con scarpe minimaliste",
+      "offerId": "compression-socks-feetures-elite",
+      "reason": "La mappatura delle zone iWCL mira ai punti di pressione plantare; la zona di attrito del mediopiede 2026 affronta il pattern di vesciche nelle scarpe minimaliste."
+    }
   ],
   "pinDescription": "Calze a compressione per la corsa a confronto 2026 — CEP vs Balega vs Sockwell vs Tabio vs Feetures. Rating mmHg, resistenza alle vesciche, costruzione delle fibre e durabilità al lavaggio spiegati per runner di fondo e atleti di trail.",
   "offerNotes": ""

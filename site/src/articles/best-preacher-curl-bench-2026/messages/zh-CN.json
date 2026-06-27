@@ -64,57 +64,175 @@
       "offerId": "body-solid-preacher-curl-bench",
       "badge": "综合最佳",
       "review": "Body-Solid能牢牢锁定上臂，在重量曲杠组下不会出现导致位置偏移的垫面压陷。可调座椅覆盖大多数躯干长度，宽臂垫可支撑双臂而不显拥挤——这也是它在家庭健身房配置中销量超过同类的主要原因。与价格翻倍的REP相比，垫面在3年以上使用后的耐久性偶尔被反映为其弱点。",
-      "pros": ["厚实的高密度泡沫在大重量杠铃负荷下保持形状", "4-5档座椅适合大多数躯干长度", "宽臂垫适用于双臂曲杠训练"],
-      "cons": ["每日使用2-3年后泡沫表皮可能开裂"],
+      "pros": [
+        "厚实的高密度泡沫在大重量杠铃负荷下保持形状",
+        "4-5档座椅适合大多数躯干长度",
+        "宽臂垫适用于双臂曲杠训练"
+      ],
+      "cons": [
+        "每日使用2-3年后泡沫表皮可能开裂"
+      ],
       "grade": "A+",
-      "specs": {"Frame": "厚壁钢材", "Pad angle": "45–50°", "Seat positions": "4–5", "Arm pad width": "约38厘米", "Price range": "$100–150", "Footprint": "约46×56厘米", "Weight capacity": "150公斤"},
-      "scores": {"Stability": 4.8, "Pad quality": 4.5, "Build quality": 4.7, "Value": 4.6, "Adjustability": 4.4}
+      "specs": {
+        "Frame": "厚壁钢材",
+        "Pad angle": "45–50°",
+        "Seat positions": "4–5",
+        "Arm pad width": "约38厘米",
+        "Price range": "$100–150",
+        "Footprint": "约46×56厘米",
+        "Weight capacity": "150公斤"
+      },
+      "scores": {
+        "稳定性": 4.8,
+        "垫子质量": 4.5,
+        "建造质量": 4.7,
+        "价值": 4.6,
+        "可调性": 4.4
+      }
     },
     {
       "offerId": "rep-fitness-preacher-curl-bench",
       "badge": "最佳质量",
       "review": "REP采用商用级衬垫，在大量使用后仍保持坚固、无裂痕，框架对动态负荷的承受能力远胜较轻的同类产品。更多的座椅档位意味着它能舒适地适应185厘米以上的训练者。相对Body-Solid的溢价，只有在你每周练手臂两次或以上时才有意义——休闲用户感受不到差别。",
-      "pros": ["商用级泡沫抗压陷、抗开裂", "本次对比中座椅档位最多的凳子", "厚壁框架可应对加重的绳索附件配置"],
-      "cons": ["130-180美元的价格对于偶尔练手臂的人较难说服自己"],
+      "pros": [
+        "商用级泡沫抗压陷、抗开裂",
+        "本次对比中座椅档位最多的凳子",
+        "厚壁框架可应对加重的绳索附件配置"
+      ],
+      "cons": [
+        "130-180美元的价格对于偶尔练手臂的人较难说服自己"
+      ],
       "grade": "A",
-      "specs": {"Frame": "厚壁钢材", "Pad angle": "45–50°", "Seat positions": "6+", "Arm pad width": "约40厘米", "Price range": "$130–180", "Footprint": "约48×58厘米", "Weight capacity": "180公斤"},
-      "scores": {"Stability": 4.9, "Pad quality": 4.9, "Build quality": 4.9, "Value": 4.0, "Adjustability": 4.8}
+      "specs": {
+        "Frame": "厚壁钢材",
+        "Pad angle": "45–50°",
+        "Seat positions": "6+",
+        "Arm pad width": "约40厘米",
+        "Price range": "$130–180",
+        "Footprint": "约48×58厘米",
+        "Weight capacity": "180公斤"
+      },
+      "scores": {
+        "稳定性": 4.9,
+        "垫子质量": 4.9,
+        "建造质量": 4.9,
+        "价值": 4,
+        "可调性": 4.8
+      }
     },
     {
       "offerId": "valor-fitness-preacher-curl-bench",
       "badge": "最佳中端",
       "review": "Valor填补了Marcy入门级结构与Body-Solid价格之间的空白——焊接明显更干净，泡沫明显比Marcy更厚。它在中等负荷下不会挠曲，座椅调节覆盖大多数标准身高范围。对于非常频繁练手臂的训练者不是合适之选，但对于每周1-2次训练而言是个扎实的选择。",
-      "pros": ["泡沫比入门款更厚", "焊接质量比Marcy更干净", "在中等训练负荷下稳定"],
-      "cons": ["泡沫密度仍低于Body-Solid和REP"],
+      "pros": [
+        "泡沫比入门款更厚",
+        "焊接质量比Marcy更干净",
+        "在中等训练负荷下稳定"
+      ],
+      "cons": [
+        "泡沫密度仍低于Body-Solid和REP"
+      ],
       "grade": "B+",
-      "specs": {"Frame": "中等壁厚钢材", "Pad angle": "45–50°", "Seat positions": "3–4", "Arm pad width": "约36厘米", "Price range": "$80–120", "Footprint": "约44×54厘米", "Weight capacity": "136公斤"},
-      "scores": {"Stability": 4.4, "Pad quality": 4.2, "Build quality": 4.3, "Value": 4.5, "Adjustability": 4.0}
+      "specs": {
+        "Frame": "中等壁厚钢材",
+        "Pad angle": "45–50°",
+        "Seat positions": "3–4",
+        "Arm pad width": "约36厘米",
+        "Price range": "$80–120",
+        "Footprint": "约44×54厘米",
+        "Weight capacity": "136公斤"
+      },
+      "scores": {
+        "稳定性": 4.4,
+        "垫子质量": 4.2,
+        "建造质量": 4.3,
+        "价值": 4.5,
+        "可调性": 4
+      }
     },
     {
       "offerId": "marcy-preacher-curl-bench",
       "badge": "最佳预算",
       "review": "Marcy在30公斤以下负荷和休闲训练频率下可用——它以更低的入门价格做到了牧师椅凳所需的功能。较薄的衬垫和较轻的框架在更大负荷和更高容量下会变得明显，此时垫面压陷会降低拉伸位置的质量。它是一台合理的入门凳，而非认真练手臂的长期解决方案。",
-      "pros": ["独立式牧师椅凳中入门价格最低", "30公斤以下的休闲训练足够用", "购买方便、易于组装"],
-      "cons": ["衬垫较薄，在较大负荷下会压陷", "框架比Body-Solid或Valor更轻"],
+      "pros": [
+        "独立式牧师椅凳中入门价格最低",
+        "30公斤以下的休闲训练足够用",
+        "购买方便、易于组装"
+      ],
+      "cons": [
+        "衬垫较薄，在较大负荷下会压陷",
+        "框架比Body-Solid或Valor更轻"
+      ],
       "grade": "B",
-      "specs": {"Frame": "薄壁钢材", "Pad angle": "45–50°", "Seat positions": "3", "Arm pad width": "约34厘米", "Price range": "$70–100", "Footprint": "约42×52厘米", "Weight capacity": "120公斤"},
-      "scores": {"Stability": 3.8, "Pad quality": 3.5, "Build quality": 3.7, "Value": 4.3, "Adjustability": 3.6}
+      "specs": {
+        "Frame": "薄壁钢材",
+        "Pad angle": "45–50°",
+        "Seat positions": "3",
+        "Arm pad width": "约34厘米",
+        "Price range": "$70–100",
+        "Footprint": "约42×52厘米",
+        "Weight capacity": "120公斤"
+      },
+      "scores": {
+        "稳定性": 3.8,
+        "垫子质量": 3.5,
+        "建造质量": 3.7,
+        "价值": 4.3,
+        "可调性": 3.6
+      }
     },
     {
       "offerId": "adjustable-preacher-curl-attachment",
       "badge": "最佳省空间",
       "review": "该附件把现有的可调凳改造成一个牧师椅工位——不占用额外地面空间，也无需为专用凳额外花钱。稳定性完全取决于它所附着的基础凳的质量；搭配入门凳会晃动，搭配厚重的商用凳则表现尚可。在大重量组中它不如任何独立式牧师椅凳稳定，但当地面空间是硬约束时，它就是正确答案。",
-      "pros": ["除现有凳子外不占用额外地面空间", "约40-80美元，相比独立式100美元以上更便宜", "不用时可收折存放"],
-      "cons": ["稳定性随基础凳质量差异显著", "不适合大重量杠铃牧师椅弯举训练"],
+      "pros": [
+        "除现有凳子外不占用额外地面空间",
+        "约40-80美元，相比独立式100美元以上更便宜",
+        "不用时可收折存放"
+      ],
+      "cons": [
+        "稳定性随基础凳质量差异显著",
+        "不适合大重量杠铃牧师椅弯举训练"
+      ],
       "grade": "B-",
-      "specs": {"Type": "凳子附件", "Compatibility": "标准可调凳", "Pad angle": "45°", "Price range": "$40–80", "Storage": "可折平", "Weight capacity": "取决于基础凳", "Grip width": "单臂或双臂"},
-      "scores": {"Stability": 3.2, "Pad quality": 3.6, "Build quality": 3.4, "Value": 4.7, "Adjustability": 3.0}
+      "specs": {
+        "Type": "凳子附件",
+        "Compatibility": "标准可调凳",
+        "Pad angle": "45°",
+        "Price range": "$40–80",
+        "Storage": "可折平",
+        "Weight capacity": "取决于基础凳",
+        "Grip width": "单臂或双臂"
+      },
+      "scores": {
+        "稳定性": 3.2,
+        "垫子质量": 3.6,
+        "建造质量": 3.4,
+        "价值": 4.7,
+        "可调性": 3
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "适合每周2次的专项手臂训练", "offerId": "rep-fitness-preacher-curl-bench", "reason": "商用级衬垫和额外的座椅档位能经受高频使用而不降低动作质量。"},
-    {"label": "适合大多数家庭健身房配置", "offerId": "body-solid-preacher-curl-bench", "reason": "宽臂垫、坚固框架和多档座椅覆盖全部牧师椅弯举变式，价格也适合经常性使用。"},
-    {"label": "适合预算紧张或偶尔使用", "offerId": "marcy-preacher-curl-bench", "reason": "在较轻负荷和低频率下可用——如果你不确定实际会多频繁使用牧师椅凳，这是合适的入门点。"},
-    {"label": "适合空间有限、已有可调凳的家庭健身房", "offerId": "adjustable-preacher-curl-attachment", "reason": "除你已拥有的凳子外不占用地面空间——如果独立式凳意味着要放弃其他器械，它就很实用。"}
+    {
+      "label": "适合每周2次的专项手臂训练",
+      "offerId": "rep-fitness-preacher-curl-bench",
+      "reason": "商用级衬垫和额外的座椅档位能经受高频使用而不降低动作质量。"
+    },
+    {
+      "label": "适合大多数家庭健身房配置",
+      "offerId": "body-solid-preacher-curl-bench",
+      "reason": "宽臂垫、坚固框架和多档座椅覆盖全部牧师椅弯举变式，价格也适合经常性使用。"
+    },
+    {
+      "label": "适合预算紧张或偶尔使用",
+      "offerId": "marcy-preacher-curl-bench",
+      "reason": "在较轻负荷和低频率下可用——如果你不确定实际会多频繁使用牧师椅凳，这是合适的入门点。"
+    },
+    {
+      "label": "适合空间有限、已有可调凳的家庭健身房",
+      "offerId": "adjustable-preacher-curl-attachment",
+      "reason": "除你已拥有的凳子外不占用地面空间——如果独立式凳意味着要放弃其他器械，它就很实用。"
+    }
   ]
 }

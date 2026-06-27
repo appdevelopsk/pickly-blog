@@ -41,8 +41,14 @@
       "offerId": "luggage-scale-etekcity-digital",
       "badge": "Melhor no geral",
       "review": "A balança de bagagem digital Etekcity é a opção mais vendida nesta categoria por uma razão que resiste ao escrutínio: é precisa a ±100 g na faixa de 0–50 kg, o LCD retroiluminado é legível nas condições de iluminação de um quarto de hotel, e a empunhadura em T de borracha reduz o escorregamento da mão durante a medição. O desligamento automático em 60 segundos dá tempo adequado para pendurar e estabilizar uma mala pesada. A fraqueza honesta: o gancho é adequado mas não de aço forjado — sob uso pesado repetido muito intenso (100+ medições acima de 25 kg) algumas unidades mostram leve deformação do gancho. Ótimo para uso viagem a viagem; potencialmente problemático como ferramenta profissional de serviço de bagagem.",
-      "pros": ["±100 g de precisão verificada em 0–50 kg", "LCD retroiluminado legível com pouca luz", "Desligamento automático de 60 s dá tempo para estabilizar"],
-      "cons": ["Gancho não de aço forjado — pode deformar sob uso pesado extremo repetido"],
+      "pros": [
+        "±100 g de precisão verificada em 0–50 kg",
+        "LCD retroiluminado legível com pouca luz",
+        "Desligamento automático de 60 s dá tempo para estabilizar"
+      ],
+      "cons": [
+        "Gancho não de aço forjado — pode deformar sob uso pesado extremo repetido"
+      ],
       "grade": "A+",
       "specs": {
         "Peso máximo": "50 kg",
@@ -54,18 +60,25 @@
       },
       "scores": {
         "Precisão": 4.5,
-        "Display": 4.5,
-        "Qualidade de construção": 4.0,
+        "Tela": 4.5,
+        "Qualidade de construção": 4,
         "Portabilidade": 4.5,
-        "Custo-benefício": 5.0
+        "Custo-benefício": 5
       }
     },
     {
       "offerId": "luggage-scale-renpho-smart",
       "badge": "Melhores recursos inteligentes",
       "review": "A balança de bagagem inteligente da Renpho conecta via Bluetooth a um app companheiro que registra pesos de malas, permite rastrear o peso total de bagagem em várias malas, e exibe a leitura na tela do seu telefone — sempre bem iluminada e grande o suficiente para ler claramente. A precisão é comparável à Etekcity (±100 g). A fraqueza honesta: a conexão Bluetooth adiciona fricção ao processo de pesagem — você precisa ter o app aberto e pareado antes de cada uso. Para uma verificação rápida de peso na manhã da partida, a etapa de pareamento Bluetooth adiciona 20–30 segundos que uma simples balança digital não requer. Melhor para empacotadores obsessivos que querem um registro de peso de viagem; exagero para pesagem ocasional de uma vez por viagem.",
-      "pros": ["App Bluetooth registra pesos de todas as malas", "Tela do telefone — legível em qualquer luz", "Rastreia peso total de bagagem em várias malas"],
-      "cons": ["Pareamento Bluetooth adiciona etapas vs balanças digitais simples", "Dependência do app — não funciona bem sem telefone"],
+      "pros": [
+        "App Bluetooth registra pesos de todas as malas",
+        "Tela do telefone — legível em qualquer luz",
+        "Rastreia peso total de bagagem em várias malas"
+      ],
+      "cons": [
+        "Pareamento Bluetooth adiciona etapas vs balanças digitais simples",
+        "Dependência do app — não funciona bem sem telefone"
+      ],
       "grade": "A",
       "specs": {
         "Peso máximo": "50 kg",
@@ -77,18 +90,25 @@
       },
       "scores": {
         "Precisão": 4.5,
-        "Display": 5.0,
-        "Qualidade de construção": 4.0,
-        "Portabilidade": 4.0,
-        "Custo-benefício": 4.0
+        "Tela": 5,
+        "Qualidade de construção": 4,
+        "Portabilidade": 4,
+        "Custo-benefício": 4
       }
     },
     {
       "offerId": "luggage-scale-camry-el-gc50",
       "badge": "Melhor precisão de alta capacidade",
       "review": "A Camry EL GC50 é a balança mais precisa nesta comparação a ±50 g (0,05 kg) em sua faixa de 0–50 kg — duas vezes mais precisa que a Etekcity e Renpho. Isso importa na zona de 22,5–23,5 kg onde as taxas de excesso de bagagem entram em jogo: uma balança de ±50 g te diz se você está em 22,7 ou 23,1 kg com um nível de confiança que uma balança de ±100 g não consegue igualar. A Camry é uma balança de viagem de grau profissional usada em alguns serviços de concierge de hotel. A fraqueza honesta: o preço é correspondentemente mais alto, e para uso ocasional a precisão de ±100 g da Etekcity é suficiente.",
-      "pros": ["±50 g de precisão — a mais precisa na comparação", "Capacidade máxima de 50 kg cobre franquias de classe executiva", "Construção de célula de carga de grau profissional"],
-      "cons": ["Preço mais alto que alternativas de uso ocasional", "Precisão excessiva para pesagem de uma vez por viagem"],
+      "pros": [
+        "±50 g de precisão — a mais precisa na comparação",
+        "Capacidade máxima de 50 kg cobre franquias de classe executiva",
+        "Construção de célula de carga de grau profissional"
+      ],
+      "cons": [
+        "Preço mais alto que alternativas de uso ocasional",
+        "Precisão excessiva para pesagem de uma vez por viagem"
+      ],
       "grade": "A",
       "specs": {
         "Peso máximo": "50 kg",
@@ -99,10 +119,10 @@
         "Preço": "R$ 149,95"
       },
       "scores": {
-        "Precisão": 5.0,
-        "Display": 4.5,
-        "Qualidade de construção": 5.0,
-        "Portabilidade": 4.0,
+        "Precisão": 5,
+        "Tela": 4.5,
+        "Qualidade de construção": 5,
+        "Portabilidade": 4,
         "Custo-benefício": 3.5
       }
     },
@@ -110,8 +130,15 @@
       "offerId": "luggage-scale-tarriss-jetsetter",
       "badge": "Melhor empunhadura ergonômica",
       "review": "O Tarriss Jetsetter se diferencia pela ergonomia — o design de alça plana larga distribui a carga de uma mala de 23 kg por toda a palma em vez de concentrá-la nos dedos, tornando o suporte de 5–10 segundos durante a medição significativamente mais confortável para malas pesadas. O display retroiluminado é particularmente brilhante em comparação com os concorrentes. A precisão é ±100 g. A fraqueza honesta: o design de alça plana é menos compacto do que uma empunhadura em T — não enrola tão organizadamente em uma bolsa ou bolso. O preço também é ligeiramente acima da Etekcity sem vantagem significativa de precisão.",
-      "pros": ["Alça larga distribui carga de 23 kg pela palma", "Display retroiluminado excepcionalmente brilhante", "±100 g de precisão"],
-      "cons": ["Alça plana menos compacta que empunhadura em T", "Leve premium de preço sobre a Etekcity com a mesma precisão"],
+      "pros": [
+        "Alça larga distribui carga de 23 kg pela palma",
+        "Display retroiluminado excepcionalmente brilhante",
+        "±100 g de precisão"
+      ],
+      "cons": [
+        "Alça plana menos compacta que empunhadura em T",
+        "Leve premium de preço sobre a Etekcity com a mesma precisão"
+      ],
       "grade": "B+",
       "specs": {
         "Peso máximo": "50 kg",
@@ -123,18 +150,25 @@
       },
       "scores": {
         "Precisão": 4.5,
-        "Display": 5.0,
-        "Qualidade de construção": 4.0,
-        "Portabilidade": 4.0,
-        "Custo-benefício": 4.0
+        "Tela": 5,
+        "Qualidade de construção": 4,
+        "Portabilidade": 4,
+        "Custo-benefício": 4
       }
     },
     {
       "offerId": "luggage-scale-freetoo-portable",
       "badge": "Melhor ultra-compacta",
       "review": "A Freetoo é a menor e mais leve balança de bagagem nesta comparação — dobra para um tamanho que cabe em um bolso de camisa e pesa menos de 60 g. Para viajantes que querem uma balança sempre na bolsa em vez de embalada separadamente, esta é a escolha certa. A precisão é ±100 g, padrão para a categoria. A fraqueza honesta: o desligamento automático de 30 segundos é muito curto para usuários lentos que precisam estabilizar uma mala que balança — uma segunda tentativa pode ser necessária. O gancho é o mais fino nesta comparação, o que levanta questões sobre durabilidade de longo prazo sob uso pesado repetido muito intenso, embora para uso viagem a viagem aguente.",
-      "pros": ["Ultra-compacta — tamanho bolso de camisa a menos de 60 g", "Sempre na bolsa sem penalidade de espaço", "±100 g de precisão — adequada para pesagem de viagem"],
-      "cons": ["Desligamento automático de 30 s muito curto para estabilização lenta", "Gancho mais fino — questão de durabilidade a longo prazo"],
+      "pros": [
+        "Ultra-compacta — tamanho bolso de camisa a menos de 60 g",
+        "Sempre na bolsa sem penalidade de espaço",
+        "±100 g de precisão — adequada para pesagem de viagem"
+      ],
+      "cons": [
+        "Desligamento automático de 30 s muito curto para estabilização lenta",
+        "Gancho mais fino — questão de durabilidade a longo prazo"
+      ],
       "grade": "B",
       "specs": {
         "Peso máximo": "40 kg",
@@ -145,11 +179,11 @@
         "Preço": "R$ 49,95"
       },
       "scores": {
-        "Precisão": 4.0,
-        "Display": 3.0,
-        "Qualidade de construção": 3.0,
-        "Portabilidade": 5.0,
-        "Custo-benefício": 5.0
+        "Precisão": 4,
+        "Tela": 3,
+        "Qualidade de construção": 3,
+        "Portabilidade": 5,
+        "Custo-benefício": 5
       }
     }
   ],

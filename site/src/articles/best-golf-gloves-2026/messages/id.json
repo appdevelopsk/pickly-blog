@@ -4,11 +4,31 @@
   "lede": "Sarung tangan golf membuat satu janji: memegang stik lebih konsisten dari kulit telanjang dalam kondisi panas, lembap, dan kelelahan. Lima sarung tangan dari $16 hingga $35, dibandingkan dari sisi konstruksi cabretta vs sintetis, performa saat tangan berkeringat, dan berapa ronde sebelum telapak aus.",
   "methodology": "Sarung tangan dinilai berdasarkan jenis kulit dan kualitas grip (kulit cabretta vs sintetis vs hibrida), penempatan jahitan telapak tangan relatif terhadap titik tekanan grip, manajemen kelembapan dalam kondisi panas dan basah, perkiraan ketahanan berdasarkan kualitas konstruksi dan pola ulasan pemilik dalam sesi 18–36 lubang, serta akurasi pas untuk berbagai ukuran tangan.",
   "recommendedFor": [
-    {"label": "Untuk rasa maksimal dan kulit cabretta premium", "offerId": "golf-glove-footjoy-stasof", "reason": "Telapak kulit cabretta StaSof dan konstruksi punggung berlubang adalah tolok ukur sarung tangan premium — rasa kulit paling lembut dalam perbandingan ini dengan grip aman selama 18 lubang bahkan dalam kondisi panas."},
-    {"label": "Untuk grip cabretta tingkat turnamen", "offerId": "golf-glove-titleist-players", "reason": "Titleist Players menggunakan kulit cabretta AAA di seluruh telapak dan jari — rasa grip paling konsisten dalam perbandingan ini, disukai pemain handicap rendah yang mengutamakan rasa di atas ketahanan."},
-    {"label": "Untuk bermain saat hujan dan semua kondisi", "offerId": "golf-glove-callaway-weather-spann", "reason": "Konstruksi sintetis Callaway Weather Spann lebih mencengkeram saat basah dibanding sarung tangan kulit cabretta manapun — satu-satunya sarung tangan dalam perbandingan ini yang meningkat saat hujan."},
-    {"label": "Untuk ketahanan sintetis premium dan pas", "offerId": "golf-glove-taylormade-tp", "reason": "Hibrida cabretta-sintetis TaylorMade TP memberikan rasa kulit di telapak dengan ketahanan sintetis di panel belakang yang banyak aus — lebih tahan lama dari cabretta murni di harga serupa."},
-    {"label": "Untuk cuaca panas dan ventilasi tangan", "offerId": "golf-glove-mizuno-comp", "reason": "Konstruksi sintetis berlubang Mizuno Comp adalah sarung tangan paling breathable dalam perbandingan ini — suhu tangan jauh lebih rendah setelah 18 lubang dibanding pilihan kulit telapak padat."}
+    {
+      "label": "Untuk rasa maksimal dan kulit cabretta premium",
+      "offerId": "golf-glove-footjoy-stasof",
+      "reason": "Telapak kulit cabretta StaSof dan konstruksi punggung berlubang adalah tolok ukur sarung tangan premium — rasa kulit paling lembut dalam perbandingan ini dengan grip aman selama 18 lubang bahkan dalam kondisi panas."
+    },
+    {
+      "label": "Untuk grip cabretta tingkat turnamen",
+      "offerId": "golf-glove-titleist-players",
+      "reason": "Titleist Players menggunakan kulit cabretta AAA di seluruh telapak dan jari — rasa grip paling konsisten dalam perbandingan ini, disukai pemain handicap rendah yang mengutamakan rasa di atas ketahanan."
+    },
+    {
+      "label": "Untuk bermain saat hujan dan semua kondisi",
+      "offerId": "golf-glove-callaway-weather-spann",
+      "reason": "Konstruksi sintetis Callaway Weather Spann lebih mencengkeram saat basah dibanding sarung tangan kulit cabretta manapun — satu-satunya sarung tangan dalam perbandingan ini yang meningkat saat hujan."
+    },
+    {
+      "label": "Untuk ketahanan sintetis premium dan pas",
+      "offerId": "golf-glove-taylormade-tp",
+      "reason": "Hibrida cabretta-sintetis TaylorMade TP memberikan rasa kulit di telapak dengan ketahanan sintetis di panel belakang yang banyak aus — lebih tahan lama dari cabretta murni di harga serupa."
+    },
+    {
+      "label": "Untuk cuaca panas dan ventilasi tangan",
+      "offerId": "golf-glove-mizuno-comp",
+      "reason": "Konstruksi sintetis berlubang Mizuno Comp adalah sarung tangan paling breathable dalam perbandingan ini — suhu tangan jauh lebih rendah setelah 18 lubang dibanding pilihan kulit telapak padat."
+    }
   ],
   "sections": [
     {
@@ -67,51 +87,146 @@
       "offerId": "golf-glove-footjoy-stasof",
       "badge": "Rasa Keseluruhan Terbaik",
       "review": "Telapak cabretta berkualitas tinggi StaSof menetapkan tolok ukur rasa sarung tangan premium — koneksi kulit paling lembut dan paling alami ke grip dalam perbandingan ini. Panel belakang berlubang memberikan ventilasi bermakna di hari panas. Opsi ukuran Cadet mengakomodasi pemain dengan telapak lebar dan jari pendek. Keterbatasan: kulit cabretta rusak saat jenuh — bawa sarung tangan kedua di hari hujan.",
-      "pros": ["Telapak cabretta berkualitas tinggi — rasa premium patokan dalam perbandingan ini", "Panel belakang berlubang mengurangi penumpukan panas dalam ronde 18 lubang", "Opsi ukuran Cadet untuk proporsi telapak lebar / jari pendek"],
-      "cons": ["Cabretta rusak saat jenuh — bawa sarung tangan kedua untuk ronde basah"],
+      "pros": [
+        "Telapak cabretta berkualitas tinggi — rasa premium patokan dalam perbandingan ini",
+        "Panel belakang berlubang mengurangi penumpukan panas dalam ronde 18 lubang",
+        "Opsi ukuran Cadet untuk proporsi telapak lebar / jari pendek"
+      ],
+      "cons": [
+        "Cabretta rusak saat jenuh — bawa sarung tangan kedua untuk ronde basah"
+      ],
       "grade": "A+",
-      "specs": {"Jenis kulit": "Cabretta berkualitas tinggi (telapak)", "Material belakang": "Cabretta dengan perforasi", "Penutup": "Tali pergelangan hook-and-loop", "Ukuran": "S, M, ML, L, XL + ukuran Cadet", "Perkiraan ketahanan": "12–15 ronde per sarung tangan", "Harga": "~$28"},
-      "scores": {"Rasa grip": 5.0, "Performa basah": 3.0, "Ketahanan": 3.5, "Breathability": 4.2, "Nilai harga": 4.0}
+      "specs": {
+        "Jenis kulit": "Cabretta berkualitas tinggi (telapak)",
+        "Material belakang": "Cabretta dengan perforasi",
+        "Penutup": "Tali pergelangan hook-and-loop",
+        "Ukuran": "S, M, ML, L, XL + ukuran Cadet",
+        "Perkiraan ketahanan": "12–15 ronde per sarung tangan",
+        "Harga": "~$28"
+      },
+      "scores": {
+        "Rasa grip": 5,
+        "Performa basah": 3,
+        "Ketahanan": 3.5,
+        "Daya Respiras": 4.2,
+        "Nilai harga": 4
+      }
     },
     {
       "offerId": "golf-glove-titleist-players",
       "badge": "Rasa Terbaik",
       "review": "Kulit cabretta AAA Titleist Players di seluruh telapak dan jari memberikan koneksi taktil maksimal ke stik dalam perbandingan ini — disukai pegolf handicap rendah yang mengutamakan rasa di atas ketahanan. Grade kulit lebih lembut dan tipis dari telapak StaSof, yang menurut beberapa pemain menghasilkan umpan balik superior saat impact. Komprominya adalah ketahanan: cabretta AAA grade ini aus lebih cepat dari sarung tangan mana pun dalam grup ini.",
-      "pros": ["Cabretta AAA di seluruh telapak dan jari — umpan balik taktil maksimal", "Profil kulit lebih tipis untuk rasa impact lebih baik vs StaSof", "Spesifikasi pilihan banyak pegolf kompetitif dan handicap rendah"],
-      "cons": ["Ketahanan terpendek dalam perbandingan ini: ~10–12 ronde sebelum telapak menunjukkan keausan"],
+      "pros": [
+        "Cabretta AAA di seluruh telapak dan jari — umpan balik taktil maksimal",
+        "Profil kulit lebih tipis untuk rasa impact lebih baik vs StaSof",
+        "Spesifikasi pilihan banyak pegolf kompetitif dan handicap rendah"
+      ],
+      "cons": [
+        "Ketahanan terpendek dalam perbandingan ini: ~10–12 ronde sebelum telapak menunjukkan keausan"
+      ],
       "grade": "A",
-      "specs": {"Jenis kulit": "Cabretta AAA (telapak penuh dan jari)", "Material belakang": "Cabretta", "Penutup": "Tali pergelangan hook-and-loop", "Ukuran": "S, M, ML, L, XL + ukuran Cadet", "Perkiraan ketahanan": "10–12 ronde per sarung tangan", "Harga": "~$24"},
-      "scores": {"Rasa grip": 5.0, "Performa basah": 2.5, "Ketahanan": 3.0, "Breathability": 3.5, "Nilai harga": 3.8}
+      "specs": {
+        "Jenis kulit": "Cabretta AAA (telapak penuh dan jari)",
+        "Material belakang": "Cabretta",
+        "Penutup": "Tali pergelangan hook-and-loop",
+        "Ukuran": "S, M, ML, L, XL + ukuran Cadet",
+        "Perkiraan ketahanan": "10–12 ronde per sarung tangan",
+        "Harga": "~$24"
+      },
+      "scores": {
+        "Rasa grip": 5,
+        "Performa basah": 2.5,
+        "Ketahanan": 3,
+        "Daya Respiras": 3.5,
+        "Nilai harga": 3.8
+      }
     },
     {
       "offerId": "golf-glove-callaway-weather-spann",
       "badge": "Terbaik untuk Kondisi Basah",
       "review": "Konstruksi sintetis Weather Spann adalah satu-satunya desain dalam perbandingan ini yang lebih baik mencengkeram saat basah daripada kering — koefisien gesekan material meningkat dengan kelembapan daripada menurun seperti kulit. Untuk pegolf di iklim hujan atau yang mengalami keringat tangan berat di tengah ronde, ini adalah pilihan fungsional segala kondisi. Titik harga paling terjangkau dalam perbandingan ini.",
-      "pros": ["Konstruksi sintetis lebih baik saat basah — satu-satunya sarung tangan di sini yang meningkat dalam hujan", "Titik harga paling terjangkau dalam perbandingan ini di $16", "Grip konsisten dalam kondisi kelembapan tinggi di mana cabretta jenuh"],
-      "cons": ["Tidak dapat mereplikasi umpan balik taktil impact cabretta — perbedaan rasa terlihat untuk pegolf berpengalaman"],
+      "pros": [
+        "Konstruksi sintetis lebih baik saat basah — satu-satunya sarung tangan di sini yang meningkat dalam hujan",
+        "Titik harga paling terjangkau dalam perbandingan ini di $16",
+        "Grip konsisten dalam kondisi kelembapan tinggi di mana cabretta jenuh"
+      ],
+      "cons": [
+        "Tidak dapat mereplikasi umpan balik taktil impact cabretta — perbedaan rasa terlihat untuk pegolf berpengalaman"
+      ],
       "grade": "A",
-      "specs": {"Jenis kulit": "Sintetis (tanpa cabretta)", "Material belakang": "Sintetis dengan ventilasi", "Penutup": "Tali pergelangan hook-and-loop", "Ukuran": "S, M, ML, L, XL", "Perkiraan ketahanan": "30–40 ronde", "Harga": "~$16"},
-      "scores": {"Rasa grip": 3.5, "Performa basah": 5.0, "Ketahanan": 4.5, "Breathability": 4.0, "Nilai harga": 5.0}
+      "specs": {
+        "Jenis kulit": "Sintetis (tanpa cabretta)",
+        "Material belakang": "Sintetis dengan ventilasi",
+        "Penutup": "Tali pergelangan hook-and-loop",
+        "Ukuran": "S, M, ML, L, XL",
+        "Perkiraan ketahanan": "30–40 ronde",
+        "Harga": "~$16"
+      },
+      "scores": {
+        "Rasa grip": 3.5,
+        "Performa basah": 5,
+        "Ketahanan": 4.5,
+        "Daya Respiras": 4,
+        "Nilai harga": 5
+      }
     },
     {
       "offerId": "golf-glove-taylormade-tp",
       "badge": "Konstruksi Hibrida Terbaik",
       "review": "Telapak cabretta TaylorMade TP dengan panel belakang dan jari sintetis adalah konstruksi paling praktis untuk pegolf yang menginginkan rasa kulit di mana penting (titik kontak grip telapak) dengan ketahanan sintetis di mana sarung tangan aus paling cepat (panel belakang dan ujung jari). Nilai jangka panjang lebih baik dari cabretta murni di harga serupa.",
-      "pros": ["Telapak cabretta memberikan rasa kulit di titik kontak grip kritis", "Punggung dan jari sintetis memperpanjang ketahanan hingga ~25–30 ronde", "Biaya per ronde lebih baik dari cabretta murni di harga setara"],
-      "cons": ["Transisi jahitan antara cabretta dan sintetis terasa sebagai variasi tekstur di telapak"],
+      "pros": [
+        "Telapak cabretta memberikan rasa kulit di titik kontak grip kritis",
+        "Punggung dan jari sintetis memperpanjang ketahanan hingga ~25–30 ronde",
+        "Biaya per ronde lebih baik dari cabretta murni di harga setara"
+      ],
+      "cons": [
+        "Transisi jahitan antara cabretta dan sintetis terasa sebagai variasi tekstur di telapak"
+      ],
       "grade": "B+",
-      "specs": {"Jenis kulit": "Cabretta (telapak saja)", "Material belakang": "Sintetis", "Material jari": "Sintetis dengan tambalan cabretta", "Penutup": "Tali pergelangan hook-and-loop", "Perkiraan ketahanan": "25–30 ronde", "Harga": "~$22"},
-      "scores": {"Rasa grip": 4.2, "Performa basah": 3.5, "Ketahanan": 4.2, "Breathability": 4.0, "Nilai harga": 4.3}
+      "specs": {
+        "Jenis kulit": "Cabretta (telapak saja)",
+        "Material belakang": "Sintetis",
+        "Material jari": "Sintetis dengan tambalan cabretta",
+        "Penutup": "Tali pergelangan hook-and-loop",
+        "Perkiraan ketahanan": "25–30 ronde",
+        "Harga": "~$22"
+      },
+      "scores": {
+        "Rasa grip": 4.2,
+        "Performa basah": 3.5,
+        "Ketahanan": 4.2,
+        "Daya Respiras": 4,
+        "Nilai harga": 4.3
+      }
     },
     {
       "offerId": "golf-glove-mizuno-comp",
       "badge": "Breathability Terbaik",
       "review": "Konstruksi sintetis berlubang Mizuno Comp memberikan ventilasi tertinggi dari sarung tangan mana pun dalam perbandingan ini — suhu tangan setelah 18 lubang dalam kondisi hangat secara bermakna lebih rendah dari alternatif kulit atau sintetis punggung padat. Rasanya konsisten dengan sintetis berkualitas lainnya. Perforasi menciptakan titik konsentrasi keausan yang mengurangi ketahanan relatif terhadap sintetis padat.",
-      "pros": ["Sarung tangan paling breathable dalam perbandingan ini — keunggulan ventilasi signifikan di cuaca panas", "Grip sintetis konsisten dalam kondisi kering dan cukup lembap", "Nilai bagus untuk pemula dan pemain di iklim panas"],
-      "cons": ["Perforasi mengurangi ketahanan vs sintetis padat — tepi perforasi bisa robek di bawah tekanan grip berulang"],
+      "pros": [
+        "Sarung tangan paling breathable dalam perbandingan ini — keunggulan ventilasi signifikan di cuaca panas",
+        "Grip sintetis konsisten dalam kondisi kering dan cukup lembap",
+        "Nilai bagus untuk pemula dan pemain di iklim panas"
+      ],
+      "cons": [
+        "Perforasi mengurangi ketahanan vs sintetis padat — tepi perforasi bisa robek di bawah tekanan grip berulang"
+      ],
       "grade": "B+",
-      "specs": {"Jenis kulit": "Sintetis (tanpa cabretta)", "Material belakang": "Jaring sintetis berlubang", "Penutup": "Tali pergelangan hook-and-loop", "Ukuran": "S, M, ML, L, XL", "Perkiraan ketahanan": "20–25 ronde", "Harga": "~$20"},
-      "scores": {"Rasa grip": 3.5, "Performa basah": 4.0, "Ketahanan": 3.8, "Breathability": 5.0, "Nilai harga": 4.5}
+      "specs": {
+        "Jenis kulit": "Sintetis (tanpa cabretta)",
+        "Material belakang": "Jaring sintetis berlubang",
+        "Penutup": "Tali pergelangan hook-and-loop",
+        "Ukuran": "S, M, ML, L, XL",
+        "Perkiraan ketahanan": "20–25 ronde",
+        "Harga": "~$20"
+      },
+      "scores": {
+        "Rasa grip": 3.5,
+        "Performa basah": 4,
+        "Ketahanan": 3.8,
+        "Daya Respiras": 5,
+        "Nilai harga": 4.5
+      }
     }
   ]
 }

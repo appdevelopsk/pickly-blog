@@ -72,58 +72,179 @@
       "offerId": "excalibur-9-tray-dehydrator",
       "badge": "Tốt Nhất Tổng Thể",
       "review": "Excalibur 9 khay là tiêu chuẩn mà mọi máy sấy thực phẩm khác được đo lường. Luồng không khí ngang từ phía sau sấy tất cả 9 khay đều nhau mà không cần xoay, và 15 feet vuông không gian sấy xử lý một mẻ thịt khô đầy đủ trong một buổi. Đánh đổi là giá ($200–$300) và diện tích trên quầy bếp.",
-      "pros": ["Quạt gắn sau với luồng không khí ngang — không cần xoay khay", "Dung tích 15 feet vuông trên 9 khay", "Dưới 60 dB và bảo hành 10 năm"],
-      "cons": ["Giá $200–$300 và diện tích lớn trên quầy bếp"],
+      "pros": [
+        "Quạt gắn sau với luồng không khí ngang — không cần xoay khay",
+        "Dung tích 15 feet vuông trên 9 khay",
+        "Dưới 60 dB và bảo hành 10 năm"
+      ],
+      "cons": [
+        "Giá $200–$300 và diện tích lớn trên quầy bếp"
+      ],
       "grade": "A+",
-      "specs": {"Price": "~$200–$300", "Trays": "9 (15 feet vuông)", "Airflow": "Ngang quạt gắn sau", "Temp range": "95–165°F", "Noise": "<60 dB", "Warranty": "10 năm", "Tray material": "Polycarbonate an toàn máy rửa bát"},
-      "scores": {"Drying performance": 4.9, "Capacity": 4.8, "Noise": 4.5, "Value": 4.0, "Ease of use": 4.7}
+      "specs": {
+        "Price": "~$200–$300",
+        "Trays": "9 (15 feet vuông)",
+        "Airflow": "Ngang quạt gắn sau",
+        "Temp range": "95–165°F",
+        "Noise": "<60 dB",
+        "Warranty": "10 năm",
+        "Tray material": "Polycarbonate an toàn máy rửa bát"
+      },
+      "scores": {
+        "Hiệu suất sấy": 4.9,
+        "Dung lượng": 4.8,
+        "Tiếng ồn": 4.5,
+        "Giá trị": 4,
+        "Dễ sử dụng": 4.7
+      }
     },
     {
       "offerId": "cosori-premium-food-dehydrator",
       "badge": "Giá Trị Tốt Nhất",
       "review": "Cosori Premium 6 khay cung cấp luồng không khí ngang với giá $100–$150 — một nửa giá của Excalibur với dung tích nhỏ hơn theo tỷ lệ. Màn hình kỹ thuật số dual-readout (nhiệt độ đặt và thực tế đồng thời) là tính năng thực sự hữu ích để theo dõi chu kỳ. Tốt nhất cho các hộ gia đình sấy khô thỉnh thoảng thay vì số lượng lớn.",
-      "pros": ["Luồng không khí ngang — không cần xoay khay", "Màn hình kỹ thuật số dual-readout hiển thị nhiệt độ đặt và thực tế", "Bộ hẹn giờ 48 giờ với cửa trong suốt"],
-      "cons": ["6 khay so với 9 của Excalibur — dung tích mẻ nhỏ hơn"],
+      "pros": [
+        "Luồng không khí ngang — không cần xoay khay",
+        "Màn hình kỹ thuật số dual-readout hiển thị nhiệt độ đặt và thực tế",
+        "Bộ hẹn giờ 48 giờ với cửa trong suốt"
+      ],
+      "cons": [
+        "6 khay so với 9 của Excalibur — dung tích mẻ nhỏ hơn"
+      ],
       "grade": "A",
-      "specs": {"Price": "~$100–$150", "Trays": "6 (~5.5 feet vuông)", "Airflow": "Ngang", "Temp range": "95–165°F", "Timer": "48 giờ", "Display": "Kỹ thuật số dual-readout", "Door": "Trong suốt"},
-      "scores": {"Drying performance": 4.5, "Capacity": 3.8, "Noise": 4.4, "Value": 4.6, "Ease of use": 4.6}
+      "specs": {
+        "Price": "~$100–$150",
+        "Trays": "6 (~5.5 feet vuông)",
+        "Airflow": "Ngang",
+        "Temp range": "95–165°F",
+        "Timer": "48 giờ",
+        "Display": "Kỹ thuật số dual-readout",
+        "Door": "Trong suốt"
+      },
+      "scores": {
+        "Hiệu suất sấy": 4.5,
+        "Dung lượng": 3.8,
+        "Tiếng ồn": 4.4,
+        "Giá trị": 4.6,
+        "Dễ sử dụng": 4.6
+      }
     },
     {
       "offerId": "nesco-snackmaster-pro",
       "badge": "Có Thể Mở Rộng Tốt Nhất",
       "review": "Nesco Snackmaster Pro là máy sấy được đánh giá nhiều nhất trên Amazon và đã được sản xuất trong nhiều thập kỷ. Ưu điểm độc đáo của nó là khả năng mở rộng — bắt đầu với 5 khay tròn và mở rộng lên 12 mà không cần mua máy mới. Luồng không khí dọc có nghĩa là cần xoay khay để sấy đều, đây là sự đánh đổi chính so với các máy luồng không khí ngang.",
-      "pros": ["Mở rộng từ 5 đến 12 khay mà không cần mua máy mới", "Máy sấy được đánh giá nhiều nhất trên Amazon", "Khay tròn nhỏ gọn dễ lưu trữ"],
-      "cons": ["Luồng không khí dọc cần xoay khay để sấy đều"],
+      "pros": [
+        "Mở rộng từ 5 đến 12 khay mà không cần mua máy mới",
+        "Máy sấy được đánh giá nhiều nhất trên Amazon",
+        "Khay tròn nhỏ gọn dễ lưu trữ"
+      ],
+      "cons": [
+        "Luồng không khí dọc cần xoay khay để sấy đều"
+      ],
       "grade": "B+",
-      "specs": {"Price": "~$60–$90", "Trays": "5 (có thể mở rộng đến 12)", "Airflow": "Dọc phía trên", "Temp range": "95–160°F", "Controls": "Núm xoay analog", "Rotation required": "Có", "Shape": "Khay tròn"},
-      "scores": {"Drying performance": 3.8, "Capacity": 4.2, "Noise": 4.0, "Value": 4.5, "Ease of use": 3.8}
+      "specs": {
+        "Price": "~$60–$90",
+        "Trays": "5 (có thể mở rộng đến 12)",
+        "Airflow": "Dọc phía trên",
+        "Temp range": "95–160°F",
+        "Controls": "Núm xoay analog",
+        "Rotation required": "Có",
+        "Shape": "Khay tròn"
+      },
+      "scores": {
+        "Hiệu suất sấy": 3.8,
+        "Dung lượng": 4.2,
+        "Tiếng ồn": 4,
+        "Giá trị": 4.5,
+        "Dễ sử dụng": 3.8
+      }
     },
     {
       "offerId": "presto-dehydro-digital",
       "badge": "Cấp Nhập Môn Tốt Nhất",
       "review": "Presto Dehydro Digital là điểm vào cho người dùng lần đầu với giá $60–$80. Bộ điều nhiệt kỹ thuật số và bộ hẹn giờ là sự nâng cấp so với núm xoay analog của Nesco. Sáu khay tròn trong ngăn dọc mang lại kết quả đủ nhưng không đều — lên kế hoạch xoay khay. Tốt nhất được sử dụng như mua thử trước khi cam kết với máy luồng không khí ngang.",
-      "pros": ["Bộ điều nhiệt kỹ thuật số và bộ hẹn giờ ở mức giá nhập môn", "Máy sấy đầu tiên tốt để thử nghiệm sở thích", "Diện tích nhỏ gọn"],
-      "cons": ["Luồng không khí dọc tạo ra sấy không đều mà không xoay khay", "Khay tròn hẹp hơn khay chữ nhật"],
+      "pros": [
+        "Bộ điều nhiệt kỹ thuật số và bộ hẹn giờ ở mức giá nhập môn",
+        "Máy sấy đầu tiên tốt để thử nghiệm sở thích",
+        "Diện tích nhỏ gọn"
+      ],
+      "cons": [
+        "Luồng không khí dọc tạo ra sấy không đều mà không xoay khay",
+        "Khay tròn hẹp hơn khay chữ nhật"
+      ],
       "grade": "B",
-      "specs": {"Price": "~$60–$80", "Trays": "6 tròn", "Airflow": "Dọc", "Temp range": "Bộ điều nhiệt kỹ thuật số", "Timer": "Kỹ thuật số", "Rotation required": "Có", "Shape": "Khay tròn"},
-      "scores": {"Drying performance": 3.5, "Capacity": 3.4, "Noise": 3.8, "Value": 4.4, "Ease of use": 4.0}
+      "specs": {
+        "Price": "~$60–$80",
+        "Trays": "6 tròn",
+        "Airflow": "Dọc",
+        "Temp range": "Bộ điều nhiệt kỹ thuật số",
+        "Timer": "Kỹ thuật số",
+        "Rotation required": "Có",
+        "Shape": "Khay tròn"
+      },
+      "scores": {
+        "Hiệu suất sấy": 3.5,
+        "Dung lượng": 3.4,
+        "Tiếng ồn": 3.8,
+        "Giá trị": 4.4,
+        "Dễ sử dụng": 4
+      }
     },
     {
       "offerId": "tribest-sedona-express",
       "badge": "Tốt Nhất Cho Tải Hỗn Hợp",
       "review": "Tribest Sedona Express giải quyết một vấn đề mà Excalibur không thể: sấy khô đồng thời các thực phẩm cần nhiệt độ khác nhau. Hai vùng gia nhiệt của nó (trước và sau có thể kiểm soát độc lập) cho phép bạn chạy thảo mộc ở 95–115°F và thịt khô ở 155–165°F trong cùng một máy cùng một lúc. Dưới 55 dB làm cho nó trở thành yên lặng nhất trong cùng loại. Chi phí nhiều hơn Excalibur với tổng dung tích khay ít hơn.",
-      "pros": ["Hai vùng gia nhiệt độc lập cho tải nhiệt độ hỗn hợp đồng thời", "Dưới 55 dB — máy sấy thực phẩm yên lặng nhất trong so sánh này", "11 khay với tùy chọn thép không gỉ"],
-      "cons": ["Đắt hơn Excalibur với không gian khay ít hơn"],
+      "pros": [
+        "Hai vùng gia nhiệt độc lập cho tải nhiệt độ hỗn hợp đồng thời",
+        "Dưới 55 dB — máy sấy thực phẩm yên lặng nhất trong so sánh này",
+        "11 khay với tùy chọn thép không gỉ"
+      ],
+      "cons": [
+        "Đắt hơn Excalibur với không gian khay ít hơn"
+      ],
       "grade": "B-",
-      "specs": {"Price": "~$250–$350", "Trays": "11", "Airflow": "Ngang hai vùng", "Temp zones": "2 độc lập", "Noise": "<55 dB", "Temp range": "95–167°F", "Controls": "Kỹ thuật số"},
-      "scores": {"Drying performance": 4.7, "Capacity": 4.0, "Noise": 4.8, "Value": 3.5, "Ease of use": 4.2}
+      "specs": {
+        "Price": "~$250–$350",
+        "Trays": "11",
+        "Airflow": "Ngang hai vùng",
+        "Temp zones": "2 độc lập",
+        "Noise": "<55 dB",
+        "Temp range": "95–167°F",
+        "Controls": "Kỹ thuật số"
+      },
+      "scores": {
+        "Hiệu suất sấy": 4.7,
+        "Dung lượng": 4,
+        "Tiếng ồn": 4.8,
+        "Giá trị": 3.5,
+        "Dễ sử dụng": 4.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Cho người dùng sấy khô tại nhà nghiêm túc", "offerId": "excalibur-9-tray-dehydrator", "reason": "Dung tích luồng không khí ngang lớn mà không cần xoay khay và bảo hành 10 năm"},
-    {"label": "Cho sử dụng gia đình thỉnh thoảng", "offerId": "cosori-premium-food-dehydrator", "reason": "Luồng không khí ngang với một nửa giá của Excalibur và màn hình dual-readout hữu ích"},
-    {"label": "Cho người mua muốn mở rộng dung tích", "offerId": "nesco-snackmaster-pro", "reason": "Mở rộng từ 5 đến 12 khay mà không cần thay máy"},
-    {"label": "Cho người dùng sấy khô lần đầu", "offerId": "presto-dehydro-digital", "reason": "Điều khiển kỹ thuật số ở mức giá nhập môn để thử nghiệm sấy khô trước khi cam kết với máy lớn hơn"},
-    {"label": "Cho sấy khô nhiệt độ hỗn hợp", "offerId": "tribest-sedona-express", "reason": "Hai vùng nhiệt độ độc lập cho phép bạn sấy khô thảo mộc và thịt khô đồng thời trong cùng một máy"}
+    {
+      "label": "Cho người dùng sấy khô tại nhà nghiêm túc",
+      "offerId": "excalibur-9-tray-dehydrator",
+      "reason": "Dung tích luồng không khí ngang lớn mà không cần xoay khay và bảo hành 10 năm"
+    },
+    {
+      "label": "Cho sử dụng gia đình thỉnh thoảng",
+      "offerId": "cosori-premium-food-dehydrator",
+      "reason": "Luồng không khí ngang với một nửa giá của Excalibur và màn hình dual-readout hữu ích"
+    },
+    {
+      "label": "Cho người mua muốn mở rộng dung tích",
+      "offerId": "nesco-snackmaster-pro",
+      "reason": "Mở rộng từ 5 đến 12 khay mà không cần thay máy"
+    },
+    {
+      "label": "Cho người dùng sấy khô lần đầu",
+      "offerId": "presto-dehydro-digital",
+      "reason": "Điều khiển kỹ thuật số ở mức giá nhập môn để thử nghiệm sấy khô trước khi cam kết với máy lớn hơn"
+    },
+    {
+      "label": "Cho sấy khô nhiệt độ hỗn hợp",
+      "offerId": "tribest-sedona-express",
+      "reason": "Hai vùng nhiệt độ độc lập cho phép bạn sấy khô thảo mộc và thịt khô đồng thời trong cùng một máy"
+    }
   ]
 }

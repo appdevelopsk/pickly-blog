@@ -44,51 +44,146 @@
       "offerId": "compression-socks-cep-run-4-0",
       "badge": "Nén Lâm Sàng Tốt Nhất",
       "review": "CEP Run 4.0 cung cấp nén theo gradient được chứng nhận 20–30 mmHg từ medi GmbH — cùng tiêu chuẩn lâm sàng như tất cả chân nén y tế. Cập nhật hộp ngón chân 2026 cung cấp phần trước bàn chân rộng hơn để thoải mái hơn. Với giá $65, đây là lựa chọn đắt nhất ở đây, nhưng khả năng giữ nén qua 80+ lần giặt và độ chính xác gradient được chứng nhận khiến tỷ lệ chi phí mỗi lần giặt cạnh tranh với vớ rẻ hơn bị xuống cấp nhanh hơn.",
-      "pros": ["medi GmbH chứng nhận 20–30 mmHg — gradient nén chính xác nhất về mặt lâm sàng trong so sánh này", "Giữ nén 80+ lần giặt — độ bền dài hạn tốt nhất trong bất kỳ lựa chọn nào ở đây", "Cập nhật hộp ngón chân rộng hơn 2026 cải thiện sự thoải mái phần trước bàn chân"],
-      "cons": ["$65 một đôi — mức giá cao nhất trong so sánh này"],
+      "pros": [
+        "medi GmbH chứng nhận 20–30 mmHg — gradient nén chính xác nhất về mặt lâm sàng trong so sánh này",
+        "Giữ nén 80+ lần giặt — độ bền dài hạn tốt nhất trong bất kỳ lựa chọn nào ở đây",
+        "Cập nhật hộp ngón chân rộng hơn 2026 cải thiện sự thoải mái phần trước bàn chân"
+      ],
+      "cons": [
+        "$65 một đôi — mức giá cao nhất trong so sánh này"
+      ],
       "grade": "A+",
-      "specs": {"Compression": "20–30 mmHg (được chứng nhận)", "Fiber": "Nylon/elastan", "Anatomical": "Riêng biệt trái/phải", "Toe": "Không đường may", "Wash durability": "80+ lần giặt", "Price": "$65"},
-      "scores": {"Compression accuracy": 5.0, "Blister resistance": 4.3, "Durability": 5.0, "Comfort": 4.4, "Value": 3.5}
+      "specs": {
+        "Compression": "20–30 mmHg (được chứng nhận)",
+        "Fiber": "Nylon/elastan",
+        "Anatomical": "Riêng biệt trái/phải",
+        "Toe": "Không đường may",
+        "Wash durability": "80+ lần giặt",
+        "Price": "$65"
+      },
+      "scores": {
+        "Độ chính xác nén": 5,
+        "Kháng nước bọt": 4.3,
+        "Độ bền": 5,
+        "Sự thoải mái": 4.4,
+        "Giá trị": 3.5
+      }
     },
     {
       "offerId": "compression-socks-balega-blister-resist",
       "badge": "Chống Phồng Rộp Tốt Nhất",
       "review": "Hỗn hợp mohair/nylon/elastan của Balega cung cấp ma sát thấp nhất trong tất cả vớ trong so sánh này — bề mặt sợi mohair mịn ở mức siêu nhỏ trượt trên bàn chân thay vì bám và cắt vào. Kết hợp với mũi không đường may và vùng đệm bên cạnh phần trước bàn chân, đây là vớ phòng ngừa phồng rộp hiệu quả nhất ở đây. Nén nhẹ (15–20 mmHg), không phải ưu tiên. Cập nhật chiều rộng 2026 giải quyết hạn chế khuôn hẹp. Tốt nhất cho vận động viên có tiền sử phồng rộp ở ngón chân và phần trước bàn chân.",
-      "pros": ["Hỗn hợp sợi mohair — vật liệu ma sát thấp nhất trong so sánh này, đặc biệt hiệu quả trong phòng ngừa phồng rộp", "Tùy chọn chiều rộng 2026 giải quyết tình trạng loại trừ cho bàn chân rộng hơn", "Mũi không đường may cộng đệm bên phần trước bàn chân nhắm vào hai vùng phồng rộp phổ biến nhất"],
-      "cons": ["Chỉ nén nhẹ (15–20 mmHg) — không phải lựa chọn đúng nếu lợi ích nén lâm sàng là mục tiêu"],
+      "pros": [
+        "Hỗn hợp sợi mohair — vật liệu ma sát thấp nhất trong so sánh này, đặc biệt hiệu quả trong phòng ngừa phồng rộp",
+        "Tùy chọn chiều rộng 2026 giải quyết tình trạng loại trừ cho bàn chân rộng hơn",
+        "Mũi không đường may cộng đệm bên phần trước bàn chân nhắm vào hai vùng phồng rộp phổ biến nhất"
+      ],
+      "cons": [
+        "Chỉ nén nhẹ (15–20 mmHg) — không phải lựa chọn đúng nếu lợi ích nén lâm sàng là mục tiêu"
+      ],
       "grade": "A",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Mohair/nylon/elastan", "Anatomical": "Riêng biệt trái/phải", "Toe": "Không đường may", "Width": "Tiêu chuẩn + rộng (2026)", "Price": "$20"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 5.0, "Durability": 4.3, "Comfort": 4.8, "Value": 4.9}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Mohair/nylon/elastan",
+        "Anatomical": "Riêng biệt trái/phải",
+        "Toe": "Không đường may",
+        "Width": "Tiêu chuẩn + rộng (2026)",
+        "Price": "$20"
+      },
+      "scores": {
+        "Độ chính xác nén": 4,
+        "Kháng nước bọt": 5,
+        "Độ bền": 4.3,
+        "Sự thoải mái": 4.8,
+        "Giá trị": 4.9
+      }
     },
     {
       "offerId": "compression-socks-sockwell-pulse",
       "badge": "Tốt Nhất Cho Chạy Nhiệt Độ Biến Đổi",
       "review": "Sockwell Pulse sử dụng hỗn hợp merino/nylon/spandex điều tiết nhiệt trong phạm vi nhiệt độ theo mùa — sợi rỗng merino cách nhiệt trong lạnh và thấm hút độ ẩm trong nóng tốt hơn. Ở mức 15–20 mmHg, nén nhẹ. Lợi thế quản lý nhiệt thể hiện rõ nhất trong chạy trail có thay đổi độ cao đáng kể hoặc trong các cuộc đua đầu và cuối mùa với biến động nhiệt độ. Không dẫn đầu về nén hay phồng rộp, nhưng là vớ đa dụng theo mùa tốt nhất.",
-      "pros": ["Điều tiết nhiệt len merino — quản lý nhiệt độ xuyên mùa tốt hơn sợi tổng hợp", "Thấm hút độ ẩm giảm nguy cơ phồng rộp trong chạy dài nhiệt độ biến đổi", "Mức giá tầm trung $35 với độ bền trên trung bình"],
-      "cons": ["15–20 mmHg nén nhẹ — không phù hợp với vận động viên cần lợi ích nén lâm sàng 20–30 mmHg"],
+      "pros": [
+        "Điều tiết nhiệt len merino — quản lý nhiệt độ xuyên mùa tốt hơn sợi tổng hợp",
+        "Thấm hút độ ẩm giảm nguy cơ phồng rộp trong chạy dài nhiệt độ biến đổi",
+        "Mức giá tầm trung $35 với độ bền trên trung bình"
+      ],
+      "cons": [
+        "15–20 mmHg nén nhẹ — không phù hợp với vận động viên cần lợi ích nén lâm sàng 20–30 mmHg"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Len merino/nylon/spandex", "Anatomical": "Riêng biệt trái/phải", "Toe": "Không đường may", "Wash durability": "60 lần giặt giữ nén vừa", "Price": "$35"},
-      "scores": {"Compression accuracy": 4.1, "Blister resistance": 4.2, "Durability": 4.4, "Comfort": 4.7, "Value": 4.5}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Len merino/nylon/spandex",
+        "Anatomical": "Riêng biệt trái/phải",
+        "Toe": "Không đường may",
+        "Wash durability": "60 lần giặt giữ nén vừa",
+        "Price": "$35"
+      },
+      "scores": {
+        "Độ chính xác nén": 4.1,
+        "Kháng nước bọt": 4.2,
+        "Độ bền": 4.4,
+        "Sự thoải mái": 4.7,
+        "Giá trị": 4.5
+      }
     },
     {
       "offerId": "compression-socks-tabio-jp",
       "badge": "Tốt Nhất Cho Thị Trường Nhật Bản",
       "review": "Tabio Racing Fine sử dụng thiết kế nylon denier mịn với phân biệt giải phẫu trái/phải. Cập nhật 2026 thêm gót được gia cố và cải thiện giữ nén qua 60 lần giặt — phiên bản trước mất độ đàn hồi đáng kể sau 30–40 lần giặt. Denier mịn tạo cảm giác bề mặt ít ma sát hơn và trọng lượng nhẹ hơn thiết kế điển hình của thương hiệu phương Tây. Nén nhẹ (15–20 mmHg). Tốt nhất cho vận động viên chạy đường nhựa ưa vớ nhẹ hơn và mỏng hơn.",
-      "pros": ["Thiết kế nylon denier mịn — nhẹ hơn và ít ma sát hơn vớ chạy phương Tây điển hình", "2026 gót gia cố và cải thiện giữ nén qua 60 lần giặt", "Thiết kế giải phẫu trái/phải cho độ vừa vặn chính xác"],
-      "cons": ["Khả năng tiếp cận hạn chế ngoài Nhật Bản — chủ yếu qua cửa hàng Tabio Japan và trực tuyến"],
+      "pros": [
+        "Thiết kế nylon denier mịn — nhẹ hơn và ít ma sát hơn vớ chạy phương Tây điển hình",
+        "2026 gót gia cố và cải thiện giữ nén qua 60 lần giặt",
+        "Thiết kế giải phẫu trái/phải cho độ vừa vặn chính xác"
+      ],
+      "cons": [
+        "Khả năng tiếp cận hạn chế ngoài Nhật Bản — chủ yếu qua cửa hàng Tabio Japan và trực tuyến"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Nylon denier mịn/elastan", "Anatomical": "Riêng biệt trái/phải", "Toe": "Không đường may", "Market": "Chủ yếu Nhật Bản", "Price": "Phổ thông"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.3, "Durability": 4.5, "Comfort": 4.6, "Value": 4.8}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Nylon denier mịn/elastan",
+        "Anatomical": "Riêng biệt trái/phải",
+        "Toe": "Không đường may",
+        "Market": "Chủ yếu Nhật Bản",
+        "Price": "Phổ thông"
+      },
+      "scores": {
+        "Độ chính xác nén": 4,
+        "Kháng nước bọt": 4.3,
+        "Độ bền": 4.5,
+        "Sự thoải mái": 4.6,
+        "Giá trị": 4.8
+      }
     },
     {
       "offerId": "compression-socks-feetures-elite",
       "badge": "Tốt Nhất Cho Viêm Cân Gan Chân",
       "review": "Feetures Elite sử dụng hệ thống iWCL để lập bản đồ các vùng đệm đến các điểm áp lực giải phẫu trên bề mặt lòng bàn chân thay vì áp dụng đệm đồng đều. Kết quả là vớ nhẹ hơn với sự bảo vệ có mục tiêu chính xác nơi xảy ra va chạm. Cập nhật 2026 thêm vùng ma sát giữa bàn chân dành riêng cho giày kiểu minimalist. Ở mức 15–20 mmHg, nén nhẹ. Tốt nhất cho vận động viên có tiền sử viêm cân gan chân hoặc chạy đường dài bằng giày zero-drop hoặc đế thấp.",
-      "pros": ["Lập bản đồ đệm có mục tiêu iWCL — bảo vệ tại các điểm áp lực lòng bàn chân mà không có trọng lượng thừa", "Vùng ma sát giữa bàn chân 2026 xử lý mô hình phồng rộp của giày minimalist", "Độ vừa vặn giải phẫu với phân vùng nén có mục tiêu"],
-      "cons": ["15–20 mmHg nén nhẹ — không phải lựa chọn cho lợi ích nén cấp lâm sàng sau chạy dài"],
+      "pros": [
+        "Lập bản đồ đệm có mục tiêu iWCL — bảo vệ tại các điểm áp lực lòng bàn chân mà không có trọng lượng thừa",
+        "Vùng ma sát giữa bàn chân 2026 xử lý mô hình phồng rộp của giày minimalist",
+        "Độ vừa vặn giải phẫu với phân vùng nén có mục tiêu"
+      ],
+      "cons": [
+        "15–20 mmHg nén nhẹ — không phải lựa chọn cho lợi ích nén cấp lâm sàng sau chạy dài"
+      ],
       "grade": "B",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Nylon/elastan", "Cushion": "Lập bản đồ vùng iWCL", "Anatomical": "Riêng biệt trái/phải", "Toe": "Không đường may", "Price": "$18"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.6, "Durability": 4.5, "Comfort": 4.8, "Value": 4.7}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Nylon/elastan",
+        "Cushion": "Lập bản đồ vùng iWCL",
+        "Anatomical": "Riêng biệt trái/phải",
+        "Toe": "Không đường may",
+        "Price": "$18"
+      },
+      "scores": {
+        "Độ chính xác nén": 4,
+        "Kháng nước bọt": 4.6,
+        "Độ bền": 4.5,
+        "Sự thoải mái": 4.8,
+        "Giá trị": 4.7
+      }
     }
   ],
   "faqs": [
@@ -106,9 +201,21 @@
     }
   ],
   "recommendedFor": [
-    {"label": "Nén lâm sàng và độ bền dài hạn", "offerId": "compression-socks-cep-run-4-0", "reason": "Gradient được chứng nhận medi GmbH 20–30 mmHg chính xác nhất trong so sánh này; giữ nén 80+ lần giặt khiến chi phí $65 cạnh tranh theo mỗi lần sử dụng."},
-    {"label": "Vận động viên có tiền sử phồng rộp", "offerId": "compression-socks-balega-blister-resist", "reason": "Sợi mohair giảm ma sát chân-vớ hiệu quả hơn mũi không đường may đơn thuần; tùy chọn chiều rộng có sẵn cho năm 2026."},
-    {"label": "Viêm cân gan chân và vận động viên giày minimalist", "offerId": "compression-socks-feetures-elite", "reason": "Lập bản đồ vùng iWCL nhắm vào các điểm áp lực lòng bàn chân; vùng ma sát giữa bàn chân 2026 xử lý mô hình phồng rộp giày minimalist."}
+    {
+      "label": "Nén lâm sàng và độ bền dài hạn",
+      "offerId": "compression-socks-cep-run-4-0",
+      "reason": "Gradient được chứng nhận medi GmbH 20–30 mmHg chính xác nhất trong so sánh này; giữ nén 80+ lần giặt khiến chi phí $65 cạnh tranh theo mỗi lần sử dụng."
+    },
+    {
+      "label": "Vận động viên có tiền sử phồng rộp",
+      "offerId": "compression-socks-balega-blister-resist",
+      "reason": "Sợi mohair giảm ma sát chân-vớ hiệu quả hơn mũi không đường may đơn thuần; tùy chọn chiều rộng có sẵn cho năm 2026."
+    },
+    {
+      "label": "Viêm cân gan chân và vận động viên giày minimalist",
+      "offerId": "compression-socks-feetures-elite",
+      "reason": "Lập bản đồ vùng iWCL nhắm vào các điểm áp lực lòng bàn chân; vùng ma sát giữa bàn chân 2026 xử lý mô hình phồng rộp giày minimalist."
+    }
   ],
   "pinDescription": "So sánh vớ nén chạy bộ 2026 — CEP vs Balega vs Sockwell vs Tabio vs Feetures. Giải thích chỉ số mmHg, khả năng chống phồng rộp, cấu trúc sợi và độ bền giặt cho vận động viên chạy đường dài và chạy trail.",
   "offerNotes": ""

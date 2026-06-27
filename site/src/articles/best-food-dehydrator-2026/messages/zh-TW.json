@@ -72,58 +72,179 @@
       "offerId": "excalibur-9-tray-dehydrator",
       "badge": "綜合最佳",
       "review": "Excalibur 9層是衡量其他所有食物乾燥機的基準。後置水平氣流無需旋轉即可均勻乾燥所有9層，15平方英尺的乾燥空間可在一次操作中處理一整批肉乾。權衡是價格（200-300美元）和檯面佔用空間。",
-      "pros": ["後置風扇水平氣流——無需托盤旋轉", "9層托盤共15平方英尺容量", "低於60分貝和10年保固"],
-      "cons": ["200-300美元的價格標籤和較大的檯面佔用空間"],
+      "pros": [
+        "後置風扇水平氣流——無需托盤旋轉",
+        "9層托盤共15平方英尺容量",
+        "低於60分貝和10年保固"
+      ],
+      "cons": [
+        "200-300美元的價格標籤和較大的檯面佔用空間"
+      ],
       "grade": "A+",
-      "specs": {"Price": "約200-300美元", "Trays": "9層（15平方英尺）", "Airflow": "水平後置風扇", "Temp range": "95-165°F", "Noise": "<60分貝", "Warranty": "10年", "Tray material": "可洗碗機清洗的聚碳酸酯"},
-      "scores": {"Drying performance": 4.9, "Capacity": 4.8, "Noise": 4.5, "Value": 4.0, "Ease of use": 4.7}
+      "specs": {
+        "Price": "約200-300美元",
+        "Trays": "9層（15平方英尺）",
+        "Airflow": "水平後置風扇",
+        "Temp range": "95-165°F",
+        "Noise": "<60分貝",
+        "Warranty": "10年",
+        "Tray material": "可洗碗機清洗的聚碳酸酯"
+      },
+      "scores": {
+        "乾燥表現": 4.9,
+        "容量": 4.8,
+        "噪音": 4.5,
+        "性價比": 4,
+        "使用便利性": 4.7
+      }
     },
     {
       "offerId": "cosori-premium-food-dehydrator",
       "badge": "最佳價值",
       "review": "Cosori Premium 6層以100-150美元提供水平氣流——價格是Excalibur的一半，容量也相應較小。雙讀數數字顯示器（同時顯示設定溫度和實際溫度）是監控週期的真正有用功能。最適合偶爾而非批量脫水的家庭。",
-      "pros": ["水平氣流——無需托盤旋轉", "雙讀數數字顯示器同時顯示設定和實際溫度", "帶透明門的48小時計時器"],
-      "cons": ["6層托盤對比Excalibur的9層——批量容量較小"],
+      "pros": [
+        "水平氣流——無需托盤旋轉",
+        "雙讀數數字顯示器同時顯示設定和實際溫度",
+        "帶透明門的48小時計時器"
+      ],
+      "cons": [
+        "6層托盤對比Excalibur的9層——批量容量較小"
+      ],
       "grade": "A",
-      "specs": {"Price": "約100-150美元", "Trays": "6層（約5.5平方英尺）", "Airflow": "水平", "Temp range": "95-165°F", "Timer": "48小時", "Display": "雙讀數數字", "Door": "透明"},
-      "scores": {"Drying performance": 4.5, "Capacity": 3.8, "Noise": 4.4, "Value": 4.6, "Ease of use": 4.6}
+      "specs": {
+        "Price": "約100-150美元",
+        "Trays": "6層（約5.5平方英尺）",
+        "Airflow": "水平",
+        "Temp range": "95-165°F",
+        "Timer": "48小時",
+        "Display": "雙讀數數字",
+        "Door": "透明"
+      },
+      "scores": {
+        "乾燥表現": 4.5,
+        "容量": 3.8,
+        "噪音": 4.4,
+        "性價比": 4.6,
+        "使用便利性": 4.6
+      }
     },
     {
       "offerId": "nesco-snackmaster-pro",
       "badge": "最佳可擴展",
       "review": "Nesco Snackmaster Pro是亞馬遜上評價最多的乾燥機，已生產數十年。其獨特優勢是可擴展性——從5個圓形托盤開始，無需購買新機器即可擴展至12個。垂直氣流意味著需要旋轉托盤才能均勻乾燥，這是與水平氣流機相比的主要權衡。",
-      "pros": ["無需購買新機器即可從5個擴展至12個托盤", "亞馬遜上評價最多的乾燥機", "圓形托盤儲存緊湊"],
-      "cons": ["垂直氣流需要旋轉托盤才能均勻乾燥"],
+      "pros": [
+        "無需購買新機器即可從5個擴展至12個托盤",
+        "亞馬遜上評價最多的乾燥機",
+        "圓形托盤儲存緊湊"
+      ],
+      "cons": [
+        "垂直氣流需要旋轉托盤才能均勻乾燥"
+      ],
       "grade": "B+",
-      "specs": {"Price": "約60-90美元", "Trays": "5個（可擴展至12個）", "Airflow": "垂直頂置", "Temp range": "95-160°F", "Controls": "模擬轉盤", "Rotation required": "是", "Shape": "圓形托盤"},
-      "scores": {"Drying performance": 3.8, "Capacity": 4.2, "Noise": 4.0, "Value": 4.5, "Ease of use": 3.8}
+      "specs": {
+        "Price": "約60-90美元",
+        "Trays": "5個（可擴展至12個）",
+        "Airflow": "垂直頂置",
+        "Temp range": "95-160°F",
+        "Controls": "模擬轉盤",
+        "Rotation required": "是",
+        "Shape": "圓形托盤"
+      },
+      "scores": {
+        "乾燥表現": 3.8,
+        "容量": 4.2,
+        "噪音": 4,
+        "性價比": 4.5,
+        "使用便利性": 3.8
+      }
     },
     {
       "offerId": "presto-dehydro-digital",
       "badge": "最佳入門級",
       "review": "Presto Dehydro Digital是60-80美元的首次乾燥機用戶的入門點。數字溫控器和計時器比Nesco的模擬轉盤有所提升。六個圓形托盤垂直堆疊產生足夠但不均勻的結果——計劃旋轉托盤。最適合作為試用購買，在購買水平氣流機器前先測試這一愛好。",
-      "pros": ["入門級價格的數字溫控器和計時器", "測試愛好的良好入門乾燥機", "緊湊的佔用空間"],
-      "cons": ["垂直氣流在不旋轉托盤的情況下乾燥不均勻", "圓形托盤比矩形更窄"],
+      "pros": [
+        "入門級價格的數字溫控器和計時器",
+        "測試愛好的良好入門乾燥機",
+        "緊湊的佔用空間"
+      ],
+      "cons": [
+        "垂直氣流在不旋轉托盤的情況下乾燥不均勻",
+        "圓形托盤比矩形更窄"
+      ],
       "grade": "B",
-      "specs": {"Price": "約60-80美元", "Trays": "6個圓形", "Airflow": "垂直", "Temp range": "數字溫控器", "Timer": "數字", "Rotation required": "是", "Shape": "圓形托盤"},
-      "scores": {"Drying performance": 3.5, "Capacity": 3.4, "Noise": 3.8, "Value": 4.4, "Ease of use": 4.0}
+      "specs": {
+        "Price": "約60-80美元",
+        "Trays": "6個圓形",
+        "Airflow": "垂直",
+        "Temp range": "數字溫控器",
+        "Timer": "數字",
+        "Rotation required": "是",
+        "Shape": "圓形托盤"
+      },
+      "scores": {
+        "乾燥表現": 3.5,
+        "容量": 3.4,
+        "噪音": 3.8,
+        "性價比": 4.4,
+        "使用便利性": 4
+      }
     },
     {
       "offerId": "tribest-sedona-express",
       "badge": "最適合混合負載",
       "review": "Tribest Sedona Express解決了Excalibur無法解決的一個問題：同時乾燥需要不同溫度的食物。其雙加熱區（前後獨立可控）讓您可以在同一台機器同時運行95-115°F的草藥和155-165°F的肉乾。低於55分貝使其成為同類中最安靜的。比Excalibur更貴，總托盤容量更少。",
-      "pros": ["獨立雙加熱區用於同時混合溫度負載", "低於55分貝——本次比較中最安靜的食物乾燥機", "11層托盤，可選不鏽鋼"],
-      "cons": ["比Excalibur更貴，托盤空間更少"],
+      "pros": [
+        "獨立雙加熱區用於同時混合溫度負載",
+        "低於55分貝——本次比較中最安靜的食物乾燥機",
+        "11層托盤，可選不鏽鋼"
+      ],
+      "cons": [
+        "比Excalibur更貴，托盤空間更少"
+      ],
       "grade": "B-",
-      "specs": {"Price": "約250-350美元", "Trays": "11層", "Airflow": "水平雙區", "Temp zones": "2個獨立", "Noise": "<55分貝", "Temp range": "95-167°F", "Controls": "數字"},
-      "scores": {"Drying performance": 4.7, "Capacity": 4.0, "Noise": 4.8, "Value": 3.5, "Ease of use": 4.2}
+      "specs": {
+        "Price": "約250-350美元",
+        "Trays": "11層",
+        "Airflow": "水平雙區",
+        "Temp zones": "2個獨立",
+        "Noise": "<55分貝",
+        "Temp range": "95-167°F",
+        "Controls": "數字"
+      },
+      "scores": {
+        "乾燥表現": 4.7,
+        "容量": 4,
+        "噪音": 4.8,
+        "性價比": 3.5,
+        "使用便利性": 4.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "適合認真的家庭脫水機用戶", "offerId": "excalibur-9-tray-dehydrator", "reason": "大容量水平氣流，無需托盤旋轉，10年保固"},
-    {"label": "適合偶爾家庭使用", "offerId": "cosori-premium-food-dehydrator", "reason": "水平氣流，價格是Excalibur的一半，配備有用的雙讀數顯示器"},
-    {"label": "適合想要擴大容量的買家", "offerId": "nesco-snackmaster-pro", "reason": "無需更換機器即可從5個擴展至12個托盤"},
-    {"label": "適合首次脫水機用戶", "offerId": "presto-dehydro-digital", "reason": "入門級價格的數字控制，在購買更大機器前先測試脫水"},
-    {"label": "適合混合溫度乾燥", "offerId": "tribest-sedona-express", "reason": "獨立雙熱區讓您可以在同一台機器中同時乾燥草藥和肉乾"}
+    {
+      "label": "適合認真的家庭脫水機用戶",
+      "offerId": "excalibur-9-tray-dehydrator",
+      "reason": "大容量水平氣流，無需托盤旋轉，10年保固"
+    },
+    {
+      "label": "適合偶爾家庭使用",
+      "offerId": "cosori-premium-food-dehydrator",
+      "reason": "水平氣流，價格是Excalibur的一半，配備有用的雙讀數顯示器"
+    },
+    {
+      "label": "適合想要擴大容量的買家",
+      "offerId": "nesco-snackmaster-pro",
+      "reason": "無需更換機器即可從5個擴展至12個托盤"
+    },
+    {
+      "label": "適合首次脫水機用戶",
+      "offerId": "presto-dehydro-digital",
+      "reason": "入門級價格的數字控制，在購買更大機器前先測試脫水"
+    },
+    {
+      "label": "適合混合溫度乾燥",
+      "offerId": "tribest-sedona-express",
+      "reason": "獨立雙熱區讓您可以在同一台機器中同時乾燥草藥和肉乾"
+    }
   ]
 }

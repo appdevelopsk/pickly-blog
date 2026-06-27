@@ -120,58 +120,164 @@
       "offerId": "nike-brasilia-9-5-training-duffel",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "Medium 36 L mencakup gym-plus-komuter dengan ganti pakaian, masuk ke sebagian besar loker gym, dan kompartemen sepatu berventilasi terpisah benar-benar menjaga sepatu dari perlengkapan bersih. Polyester 600D tahan terhadap lantai loker. Kesenjangan: tidak ada sleeve laptop berbantan, dan kompartemen sepatu berventilasi memungkinkan beberapa transfer bau — dapat diterima untuk sepatu gym, tidak ideal untuk sepatu formal di samping pakaian kerja.",
-      "pros": ["Kompartemen sepatu berventilasi benar-benar mengisolasi alas kaki", "Medium 36 L masuk ke sebagian besar loker gym komersial", "Pilihan warna luas dan berbagai pilihan ukuran (18–60 L)"],
-      "cons": ["Tidak ada sleeve laptop berbantan di titik harga standar"],
+      "pros": [
+        "Kompartemen sepatu berventilasi benar-benar mengisolasi alas kaki",
+        "Medium 36 L masuk ke sebagian besar loker gym komersial",
+        "Pilihan warna luas dan berbagai pilihan ukuran (18–60 L)"
+      ],
+      "cons": [
+        "Tidak ada sleeve laptop berbantan di titik harga standar"
+      ],
       "grade": "A+",
-      "specs": {"Capacity": "36 L (medium)", "Material": "Polyester 600D", "Compartments": "Sepatu + kantong basah/kering + utama", "Dimensions": "51×28×28 cm", "Price": "Kelas menengah"},
-      "scores": {"Durability": 4.5, "Wet/dry separation": 4.3, "Locker fit": 4.5, "Comfort": 4.0, "Value": 4.5}
+      "specs": {
+        "Capacity": "36 L (medium)",
+        "Material": "Polyester 600D",
+        "Compartments": "Sepatu + kantong basah/kering + utama",
+        "Dimensions": "51×28×28 cm",
+        "Price": "Kelas menengah"
+      },
+      "scores": {
+        "Ketahanan": 4.5,
+        "Pemisahan Basah/Kering": 4.3,
+        "Pas Loker": 4.5,
+        "Kenyamanan": 4,
+        "Nilai": 4.5
+      }
     },
     {
       "offerId": "under-armour-undeniable-5-duffel",
       "badge": "Ketahanan Air Terbaik",
       "review": "Lapisan UA Storm menolak hujan ringan lebih baik dari polyester tidak terawat — relevan untuk perjalanan jalan/sepeda. Sekat internal yang dapat dibentuk memungkinkan Anda mengatur ulang struktur kompartemen, keunggulan nyata dibanding duffel dengan tata letak tetap. Batasan kantong basah: menampung sepatu dan handuk basah, tetapi pakaian pasca latihan basah penuh menekan volumenya. Pencucian mesin merusak lapisan UA Storm.",
-      "pros": ["Lapisan UA Storm mengungguli polyester standar di hujan", "Sekat internal yang dapat dibentuk untuk organisasi fleksibel", "Kapasitas 58 L dengan ruang cadangan yang nyaman"],
-      "cons": ["Kantong basah terlalu kecil untuk penggantian pakaian pasca latihan basah penuh"],
+      "pros": [
+        "Lapisan UA Storm mengungguli polyester standar di hujan",
+        "Sekat internal yang dapat dibentuk untuk organisasi fleksibel",
+        "Kapasitas 58 L dengan ruang cadangan yang nyaman"
+      ],
+      "cons": [
+        "Kantong basah terlalu kecil untuk penggantian pakaian pasca latihan basah penuh"
+      ],
       "grade": "A",
-      "specs": {"Capacity": "58 L (MD)", "Material": "Polyester UA Storm", "Compartments": "Kantong basah + utama yang dapat dibentuk", "Dimensions": "61×30×30 cm", "Price": "Kelas menengah"},
-      "scores": {"Durability": 4.3, "Wet/dry separation": 4.0, "Locker fit": 4.0, "Comfort": 4.2, "Value": 4.0}
+      "specs": {
+        "Capacity": "58 L (MD)",
+        "Material": "Polyester UA Storm",
+        "Compartments": "Kantong basah + utama yang dapat dibentuk",
+        "Dimensions": "61×30×30 cm",
+        "Price": "Kelas menengah"
+      },
+      "scores": {
+        "Ketahanan": 4.3,
+        "Pemisahan Basah/Kering": 4,
+        "Pas Loker": 4,
+        "Kenyamanan": 4.2,
+        "Nilai": 4
+      }
     },
     {
       "offerId": "gym-shark-everyday-gym-bag",
       "badge": "Gaya Terbaik",
       "review": "Desain minimalis yang tidak terlihat seperti kit olahraga — kompartemen utama kompatibel laptop, tali berbantan mendistribusikan berat dengan nyaman untuk perjalanan. Kantong sepatu berventilasi menangani pemisahan alas kaki. Trade-off: tidak ada kompartemen basah tersegel, sehingga perlengkapan pasca renang yang benar-benar basah membutuhkan dry bag terpisah di dalamnya.",
-      "pros": ["Desain minimalis bertransisi gym-ke-jalan dengan bersih", "Kompartemen utama kompatibel laptop berbantan", "Tali berbantan ergonomis mengurangi kelelahan bahu saat perjalanan"],
-      "cons": ["Tidak ada kompartemen basah tersegel khusus — penanganan perlengkapan basah terbatas pada kantong sepatu berventilasi"],
+      "pros": [
+        "Desain minimalis bertransisi gym-ke-jalan dengan bersih",
+        "Kompartemen utama kompatibel laptop berbantan",
+        "Tali berbantan ergonomis mengurangi kelelahan bahu saat perjalanan"
+      ],
+      "cons": [
+        "Tidak ada kompartemen basah tersegel khusus — penanganan perlengkapan basah terbatas pada kantong sepatu berventilasi"
+      ],
       "grade": "B+",
-      "specs": {"Capacity": "~30 L", "Material": "Polyester", "Compartments": "Kantong sepatu + utama kompatibel laptop", "Price": "Kelas menengah"},
-      "scores": {"Durability": 4.0, "Wet/dry separation": 3.3, "Locker fit": 4.3, "Comfort": 4.5, "Value": 4.0}
+      "specs": {
+        "Capacity": "~30 L",
+        "Material": "Polyester",
+        "Compartments": "Kantong sepatu + utama kompatibel laptop",
+        "Price": "Kelas menengah"
+      },
+      "scores": {
+        "Ketahanan": 4,
+        "Pemisahan Basah/Kering": 3.3,
+        "Pas Loker": 4.3,
+        "Kenyamanan": 4.5,
+        "Nilai": 4
+      }
     },
     {
       "offerId": "adidas-defender-4-duffel",
       "badge": "Terbaik untuk Komuter",
       "review": "Fitur unggulannya adalah sleeve laptop berbantan dalam duffel ukuran S kompak — menjadikannya tas gym-ke-kantor paling berguna dalam perbandingan ini. 100% polyester daur ulang berkinerja setara dengan polyester virgin. Kompartemen basah yang lebih kecil adalah trade-off: menampung sepatu atau pakaian basah, tidak keduanya sekaligus.",
-      "pros": ["Sleeve laptop berbantan dalam duffel kompak — unik dalam perbandingan ini", "100% polyester daur ulang tanpa trade-off performa", "Kantong resleting depan untuk akses cepat tanpa membuka kompartemen utama"],
-      "cons": ["Kompartemen basah menampung sepatu atau pakaian basah — tidak keduanya dengan nyaman"],
+      "pros": [
+        "Sleeve laptop berbantan dalam duffel kompak — unik dalam perbandingan ini",
+        "100% polyester daur ulang tanpa trade-off performa",
+        "Kantong resleting depan untuk akses cepat tanpa membuka kompartemen utama"
+      ],
+      "cons": [
+        "Kompartemen basah menampung sepatu atau pakaian basah — tidak keduanya dengan nyaman"
+      ],
       "grade": "B",
-      "specs": {"Capacity": "Ukuran S (~30 L)", "Material": "100% polyester daur ulang", "Compartments": "Kantong sepatu/basah + sleeve laptop berbantan + utama", "Price": "Kelas pemula"},
-      "scores": {"Durability": 4.0, "Wet/dry separation": 3.5, "Locker fit": 4.5, "Comfort": 3.8, "Value": 4.5}
+      "specs": {
+        "Capacity": "Ukuran S (~30 L)",
+        "Material": "100% polyester daur ulang",
+        "Compartments": "Kantong sepatu/basah + sleeve laptop berbantan + utama",
+        "Price": "Kelas pemula"
+      },
+      "scores": {
+        "Ketahanan": 4,
+        "Pemisahan Basah/Kering": 3.5,
+        "Pas Loker": 4.5,
+        "Kenyamanan": 3.8,
+        "Nilai": 4.5
+      }
     },
     {
       "offerId": "gold-gym-gym-bag-backpack",
       "badge": "Anggaran Terbaik",
       "review": "Gold's Gym di kelas ekonomis menghadirkan polyester tahan lama, kompartemen sepatu terpisah, dan kompartemen utama besar dengan organizer dalam. Tidak ada spesialisasi basah/kering — asumsinya Anda akan langsung menganginkan setelah setiap sesi. Untuk pembeli yang langsung pulang dari gym dan harga adalah keputusan utama, ini berhasil.",
-      "pros": ["Merek gym ikonik dengan harga tingkat pemula", "Kompartemen sepatu terpisah plus kantong organizer dalam", "Kompartemen utama besar untuk pengemasan gym saja yang sederhana"],
-      "cons": ["Tidak ada pemisahan basah/kering khusus — memerlukan penganginan segera setelah sesi"],
+      "pros": [
+        "Merek gym ikonik dengan harga tingkat pemula",
+        "Kompartemen sepatu terpisah plus kantong organizer dalam",
+        "Kompartemen utama besar untuk pengemasan gym saja yang sederhana"
+      ],
+      "cons": [
+        "Tidak ada pemisahan basah/kering khusus — memerlukan penganginan segera setelah sesi"
+      ],
       "grade": "B-",
-      "specs": {"Material": "Polyester", "Compartments": "Kompartemen sepatu + organizer + utama", "Price": "Ekonomis"},
-      "scores": {"Durability": 3.8, "Wet/dry separation": 2.8, "Locker fit": 4.5, "Comfort": 3.5, "Value": 5.0}
+      "specs": {
+        "Material": "Polyester",
+        "Compartments": "Kompartemen sepatu + organizer + utama",
+        "Price": "Ekonomis"
+      },
+      "scores": {
+        "Ketahanan": 3.8,
+        "Pemisahan Basah/Kering": 2.8,
+        "Pas Loker": 4.5,
+        "Kenyamanan": 3.5,
+        "Nilai": 5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk gym-plus-komuter dengan ganti pakaian", "offerId": "nike-brasilia-9-5-training-duffel", "reason": "36 L mencapai titik manis antara kompatibel loker dan cukup luas untuk kit komuter lengkap"},
-    {"label": "Untuk perjalanan hujan dengan jalan kaki atau sepeda", "offerId": "under-armour-undeniable-5-duffel", "reason": "Lapisan UA Storm menolak air permukaan lebih baik dari tas lain dalam perbandingan ini"},
-    {"label": "Untuk penggemar gym yang menginginkan gaya jalanan", "offerId": "gym-shark-everyday-gym-bag", "reason": "Desain minimalis dan kompatibilitas laptop tanpa terlihat seperti tas olahraga"},
-    {"label": "Untuk gym-ke-kantor dengan laptop", "offerId": "adidas-defender-4-duffel", "reason": "Satu-satunya tas di sini dengan sleeve laptop berbantan dalam format kompak yang ramah loker"},
-    {"label": "Untuk penggunaan gym saja dengan anggaran", "offerId": "gold-gym-gym-bag-backpack", "reason": "Harga ekonomis untuk kompartemen sepatu dan ruang utama yang cukup untuk kit gym standar"}
+    {
+      "label": "Untuk gym-plus-komuter dengan ganti pakaian",
+      "offerId": "nike-brasilia-9-5-training-duffel",
+      "reason": "36 L mencapai titik manis antara kompatibel loker dan cukup luas untuk kit komuter lengkap"
+    },
+    {
+      "label": "Untuk perjalanan hujan dengan jalan kaki atau sepeda",
+      "offerId": "under-armour-undeniable-5-duffel",
+      "reason": "Lapisan UA Storm menolak air permukaan lebih baik dari tas lain dalam perbandingan ini"
+    },
+    {
+      "label": "Untuk penggemar gym yang menginginkan gaya jalanan",
+      "offerId": "gym-shark-everyday-gym-bag",
+      "reason": "Desain minimalis dan kompatibilitas laptop tanpa terlihat seperti tas olahraga"
+    },
+    {
+      "label": "Untuk gym-ke-kantor dengan laptop",
+      "offerId": "adidas-defender-4-duffel",
+      "reason": "Satu-satunya tas di sini dengan sleeve laptop berbantan dalam format kompak yang ramah loker"
+    },
+    {
+      "label": "Untuk penggunaan gym saja dengan anggaran",
+      "offerId": "gold-gym-gym-bag-backpack",
+      "reason": "Harga ekonomis untuk kompartemen sepatu dan ruang utama yang cukup untuk kit gym standar"
+    }
   ]
 }

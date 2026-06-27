@@ -122,8 +122,14 @@
       "offerId": "conoha-wing",
       "badge": "綜合最佳",
       "review": "ConoHa WING以198ms錄得最快TTFB，並在11分鐘內完成最短建站流程，日文操作介面無需任何主機使用經驗。36個月促銷價與續約價之間的差距是使用前最需提前規劃的重點。",
-      "pros": ["測試中最快TTFB：198ms", "WordPress一鍵安裝僅需11分鐘", "免費網域+14天自動備份"],
-      "cons": ["無電話支援——僅工作日線上客服"],
+      "pros": [
+        "測試中最快TTFB：198ms",
+        "WordPress一鍵安裝僅需11分鐘",
+        "免費網域+14天自動備份"
+      ],
+      "cons": [
+        "無電話支援——僅工作日線上客服"
+      ],
       "grade": "A+",
       "specs": {
         "入門價格": "經濟型級距（36個月方案）",
@@ -134,19 +140,25 @@
         "在線率SLA": "99.99%"
       },
       "scores": {
-        "Performance": 4.9,
-        "Uptime reliability": 4.7,
-        "Value": 4.6,
-        "Support quality": 3.8,
-        "Ease of setup": 4.9
+        "表現": 4.9,
+        "運行可靠性": 4.7,
+        "性價比": 4.6,
+        "支撐品質": 3.8,
+        "設置便利性": 4.9
       }
     },
     {
       "offerId": "xserver",
       "badge": "穩定性最佳",
       "review": "Xserver是本次比較中唯一提供24小時電話支援的服務商，擁有日本最長的連續在線紀錄。268ms的TTFB在30天內始終穩定，無異常峰值——比ConoHa高約10%的價格為有收益網站帶來真正的安心保障。",
-      "pros": ["唯一提供24小時電話支援的服務商", "逾十年連續在線紀錄", "預裝KUSANAGI優化WordPress"],
-      "cons": ["TTFB慢於ConoHa（268ms vs 198ms）；管理介面視覺較舊"],
+      "pros": [
+        "唯一提供24小時電話支援的服務商",
+        "逾十年連續在線紀錄",
+        "預裝KUSANAGI優化WordPress"
+      ],
+      "cons": [
+        "TTFB慢於ConoHa（268ms vs 198ms）；管理介面視覺較舊"
+      ],
       "grade": "A",
       "specs": {
         "入門價格": "中端級距（12個月方案）",
@@ -157,19 +169,25 @@
         "特色功能": "KUSANAGI WordPress優化"
       },
       "scores": {
-        "Performance": 4.3,
-        "Uptime reliability": 5.0,
-        "Value": 4.1,
-        "Support quality": 5.0,
-        "Ease of setup": 4.2
+        "表現": 4.3,
+        "運行可靠性": 5,
+        "性價比": 4.1,
+        "支撐品質": 5,
+        "設置便利性": 4.2
       }
     },
     {
       "offerId": "mixhost",
       "badge": "LiteSpeed效能最佳",
       "review": "mixhost的LiteSpeed+HTTP/3架構在200並發連線下仍保持215ms的TTFB，是測試中突發流量表現最優的服務商。缺點是僅支援郵件客服（24小時SLA），不適合需要即時協助的新手部落客。",
-      "pros": ["LiteSpeed/HTTP/3在流量突增時效能依然出色", "一鍵WordPress+免費網域", "TTFB 215ms——僅次於ConoHa"],
-      "cons": ["僅郵件支援——緊急問題無法即時聯繫"],
+      "pros": [
+        "LiteSpeed/HTTP/3在流量突增時效能依然出色",
+        "一鍵WordPress+免費網域",
+        "TTFB 215ms——僅次於ConoHa"
+      ],
+      "cons": [
+        "僅郵件支援——緊急問題無法即時聯繫"
+      ],
       "grade": "B+",
       "specs": {
         "入門價格": "中端級距（12個月方案）",
@@ -180,19 +198,25 @@
         "在線率SLA": "99.99%"
       },
       "scores": {
-        "Performance": 4.7,
-        "Uptime reliability": 4.5,
-        "Value": 4.3,
-        "Support quality": 3.2,
-        "Ease of setup": 4.4
+        "表現": 4.7,
+        "運行可靠性": 4.5,
+        "性價比": 4.3,
+        "支撐品質": 3.2,
+        "設置便利性": 4.4
       }
     },
     {
       "offerId": "sakura-rentalserver",
       "badge": "開發者最佳選擇",
       "review": "Sakura入門價格為測試最低，原生支援SSH和cron的控制介面適合需要自主掌控的開發者。沒有一鍵WordPress安裝程式對新手是實質性的門檻，305ms的TTFB是倒數第二慢的結果。",
-      "pros": ["測試中入門價格最低", "控制介面直接存取SSH和cron", "創立於1996年的老牌品牌，在線紀錄穩健"],
-      "cons": ["無一鍵WP安裝程式——需手動安裝WordPress"],
+      "pros": [
+        "測試中入門價格最低",
+        "控制介面直接存取SSH和cron",
+        "創立於1996年的老牌品牌，在線紀錄穩健"
+      ],
+      "cons": [
+        "無一鍵WP安裝程式——需手動安裝WordPress"
+      ],
       "grade": "B",
       "specs": {
         "入門價格": "入門級級距（標準方案）",
@@ -203,19 +227,25 @@
         "SSH存取": "支援"
       },
       "scores": {
-        "Performance": 3.7,
-        "Uptime reliability": 4.6,
-        "Value": 4.8,
-        "Support quality": 4.0,
-        "Ease of setup": 2.5
+        "表現": 3.7,
+        "運行可靠性": 4.6,
+        "性價比": 4.8,
+        "支撐品質": 4,
+        "設置便利性": 2.5
       }
     },
     {
       "offerId": "lolipop-server",
       "badge": "最佳預算選擇",
       "review": "Lolipop的高速方案約為ConoHa續約價格的一半，並提供一鍵WordPress安裝。312ms的TTFB是測試中最慢的結果——如果頁面速度對你的受眾很重要，與ConoHa相比節省的小額費用並不值得。",
-      "pros": ["經濟型高速方案——含一鍵WP安裝的最低價", "管理介面對非技術用戶友善", "GMO集團的可靠性保障"],
-      "cons": ["TTFB最慢：312ms——對Pinterest流量有明顯影響"],
+      "pros": [
+        "經濟型高速方案——含一鍵WP安裝的最低價",
+        "管理介面對非技術用戶友善",
+        "GMO集團的可靠性保障"
+      ],
+      "cons": [
+        "TTFB最慢：312ms——對Pinterest流量有明顯影響"
+      ],
       "grade": "B-",
       "specs": {
         "入門價格": "經濟型級距（高速方案）",
@@ -226,11 +256,11 @@
         "母公司": "GMO網路集團"
       },
       "scores": {
-        "Performance": 3.5,
-        "Uptime reliability": 4.3,
-        "Value": 4.7,
-        "Support quality": 4.1,
-        "Ease of setup": 4.5
+        "表現": 3.5,
+        "運行可靠性": 4.3,
+        "性價比": 4.7,
+        "支撐品質": 4.1,
+        "設置便利性": 4.5
       }
     }
   ],

@@ -113,8 +113,14 @@
       "offerId": "hydro-flask-wide-mouth",
       "badge": "Migliore Scelta Generale",
       "review": "La Hydro Flask Wide Mouth stabilisce lo standard per le borracce sottovuoto premium: l'isolamento a doppia parete TempShield mantiene le bevande fredde 24h e calde 12h — riproducibile in test controllati. Il Flex Cap è affidabile contro le perdite nelle cadute, e il rivestimento a polvere resiste ai graffi dopo oltre 2 anni di uso quotidiano. Il prezzo di $40+ è più alto di Stanley, ma si giustifica con le superiori prestazioni di isolamento dimostrate.",
-      "pros": ["Isolamento TempShield mantiene 24h freddo e 12h caldo, riproducibile", "Rivestimento a polvere resistente ai graffi nell'uso quotidiano", "Design a bocca larga per cubetti di ghiaccio e pulizia facile"],
-      "cons": ["Prezzo $40+ notevolmente più alto di Nalgene o CamelBak"],
+      "pros": [
+        "Isolamento TempShield mantiene 24h freddo e 12h caldo, riproducibile",
+        "Rivestimento a polvere resistente ai graffi nell'uso quotidiano",
+        "Design a bocca larga per cubetti di ghiaccio e pulizia facile"
+      ],
+      "cons": [
+        "Prezzo $40+ notevolmente più alto di Nalgene o CamelBak"
+      ],
       "grade": "A+",
       "specs": {
         "Capacità": "32 oz (946 ml)",
@@ -125,19 +131,25 @@
         "Meccanismo tappo": "Flex Cap a vite"
       },
       "scores": {
-        "Insulation": 4.9,
-        "Leak resistance": 4.7,
-        "Durability": 4.9,
-        "Value": 4.2,
-        "Ease of cleaning": 4.5
+        "Isolamento": 4.9,
+        "Resistenza alle perdite": 4.7,
+        "Durata": 4.9,
+        "Valore": 4.2,
+        "Facilità di pulizia": 4.5
       }
     },
     {
       "offerId": "stanley-quencher-tumbler",
       "badge": "Migliore per Uso Quotidiano",
       "review": "Lo Stanley Quencher H2.0 è un tumbler, non una borraccia tradizionale — questo è sia il suo punto di forza che il suo limite. Il design largo con manico e il coperchio con cannuccia lo rendono il compagno quotidiano più comodo. Le prestazioni di isolamento sono solide (24h freddo), anche se leggermente inferiori a Hydro Flask. La pulizia è facile grazie alla larga apertura, ma la cannuccia richiede un accessorio specifico.",
-      "pros": ["Design largo con manico — il più comodo per l'uso quotidiano", "Coperchio con cannuccia ideale per ufficio e pendolarismo", "Solida ritenzione 24h freddo a prezzo ragionevole"],
-      "cons": ["Forma tumbler meno portatile delle borracce standard"],
+      "pros": [
+        "Design largo con manico — il più comodo per l'uso quotidiano",
+        "Coperchio con cannuccia ideale per ufficio e pendolarismo",
+        "Solida ritenzione 24h freddo a prezzo ragionevole"
+      ],
+      "cons": [
+        "Forma tumbler meno portatile delle borracce standard"
+      ],
       "grade": "A",
       "specs": {
         "Capacità": "30 oz (887 ml)",
@@ -148,19 +160,25 @@
         "Meccanismo tappo": "Coperchio con cannuccia e manico"
       },
       "scores": {
-        "Insulation": 4.7,
-        "Leak resistance": 4.5,
-        "Durability": 4.5,
-        "Value": 4.5,
-        "Ease of cleaning": 3.8
+        "Isolamento": 4.7,
+        "Resistenza alle perdite": 4.5,
+        "Durata": 4.5,
+        "Valore": 4.5,
+        "Facilità di pulizia": 3.8
       }
     },
     {
       "offerId": "yeti-rambler-bottle",
       "badge": "La Più Robusta",
       "review": "La Yeti Rambler è la borraccia più robusta del test: la doppia parete in acciaio inossidabile 18/8 è più spessa della concorrenza, e il Chug Cap è il tappo più ermetico secondo i rapporti dei proprietari. Le prestazioni di isolamento sono eccellenti (48h freddo secondo il produttore, 24h+ realistico). Il prezzo di $40+ e il peso più elevato sono le uniche vere limitazioni per l'uso escursionistico.",
-      "pros": ["Acciaio inossidabile 18/8 più spesso per la massima resistenza agli urti", "Chug Cap il tappo più ermetico secondo i rapporti dei proprietari", "Eccellenti prestazioni di isolamento — 24h+ freddo realistico"],
-      "cons": ["Peso più elevato rispetto alle alternative leggere per l'escursionismo prolungato"],
+      "pros": [
+        "Acciaio inossidabile 18/8 più spesso per la massima resistenza agli urti",
+        "Chug Cap il tappo più ermetico secondo i rapporti dei proprietari",
+        "Eccellenti prestazioni di isolamento — 24h+ freddo realistico"
+      ],
+      "cons": [
+        "Peso più elevato rispetto alle alternative leggere per l'escursionismo prolungato"
+      ],
       "grade": "B+",
       "specs": {
         "Capacità": "36 oz (1065 ml)",
@@ -171,19 +189,25 @@
         "Meccanismo tappo": "Chug Cap"
       },
       "scores": {
-        "Insulation": 4.8,
-        "Leak resistance": 4.8,
-        "Durability": 5.0,
-        "Value": 3.5,
-        "Ease of cleaning": 4.3
+        "Isolamento": 4.8,
+        "Resistenza alle perdite": 4.8,
+        "Durata": 5,
+        "Valore": 3.5,
+        "Facilità di pulizia": 4.3
       }
     },
     {
       "offerId": "nalgene-silo-bottle",
       "badge": "Miglior Prezzo",
       "review": "La Nalgene Silo è l'unica partecipante senza isolamento sottovuoto — il materiale Sustain è durevole e 100% privo di sostanze chimiche nocive, ma non c'è effetto termos. È l'opzione più leggera ed economica a $25, e la bocca larga consente la pulizia più facile di tutte. Per l'isolamento del freddo è semplicemente la scelta sbagliata; non deve essere usata per le bevande calde.",
-      "pros": ["La borraccia più leggera del test a $25", "Bocca larga per la pulizia più facile di tutte", "Materiale Sustain durevole e privo di sostanze chimiche nocive"],
-      "cons": ["Nessun isolamento sottovuoto — nessun effetto termos"],
+      "pros": [
+        "La borraccia più leggera del test a $25",
+        "Bocca larga per la pulizia più facile di tutte",
+        "Materiale Sustain durevole e privo di sostanze chimiche nocive"
+      ],
+      "cons": [
+        "Nessun isolamento sottovuoto — nessun effetto termos"
+      ],
       "grade": "B",
       "specs": {
         "Capacità": "48 oz (1420 ml)",
@@ -194,19 +218,25 @@
         "Meccanismo tappo": "Tappo a vite bocca larga"
       },
       "scores": {
-        "Insulation": 1.5,
-        "Leak resistance": 4.5,
-        "Durability": 4.8,
-        "Value": 5.0,
-        "Ease of cleaning": 5.0
+        "Isolamento": 1.5,
+        "Resistenza alle perdite": 4.5,
+        "Durata": 4.8,
+        "Valore": 5,
+        "Facilità di pulizia": 5
       }
     },
     {
       "offerId": "camelbak-chute-mag",
       "badge": "Migliore per l'Escursionismo",
       "review": "La CamelBak Chute Mag è stata progettata specificamente per gli escursionisti: il coperchio magnetico a ribaltamento rimane aperto mentre si beve e non può essere perso. La capacità da 25oz è più leggera delle alternative da 32oz, ma richiede rifornimenti più frequenti. L'isolamento sottovuoto è buono (24h freddo), anche se non raggiunge il livello di Hydro Flask. Il rapporto qualità-prezzo è equo nel contesto dell'escursionismo.",
-      "pros": ["Coperchio magnetico a ribaltamento — rimane aperto durante la bevuta, non si perde", "Ottimizzata per gli escursionisti con peso ridotto", "Solida ritenzione 24h freddo per uso outdoor"],
-      "cons": ["Capacità da 25oz più piccola richiede rifornimenti più frequenti"],
+      "pros": [
+        "Coperchio magnetico a ribaltamento — rimane aperto durante la bevuta, non si perde",
+        "Ottimizzata per gli escursionisti con peso ridotto",
+        "Solida ritenzione 24h freddo per uso outdoor"
+      ],
+      "cons": [
+        "Capacità da 25oz più piccola richiede rifornimenti più frequenti"
+      ],
       "grade": "B-",
       "specs": {
         "Capacità": "25 oz (740 ml)",
@@ -217,11 +247,11 @@
         "Uso": "Escursionismo/Outdoor"
       },
       "scores": {
-        "Insulation": 4.5,
-        "Leak resistance": 4.2,
-        "Durability": 4.5,
-        "Value": 4.5,
-        "Ease of cleaning": 4.0
+        "Isolamento": 4.5,
+        "Resistenza alle perdite": 4.2,
+        "Durata": 4.5,
+        "Valore": 4.5,
+        "Facilità di pulizia": 4
       }
     }
   ],

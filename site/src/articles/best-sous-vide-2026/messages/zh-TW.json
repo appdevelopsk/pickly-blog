@@ -92,58 +92,173 @@
       "offerId": "anova-precision-cooker-pro",
       "badge": "綜合最佳",
       "review": "Anova Precision Cooker Pro 為認真的家庭舒肥樹立了標竿：1200W 能輕鬆處理大型容器、±0.1°C 的精度對蛋與魚至關重要，而且機器完全可手動操作、無須依賴 App。WiFi 為過夜烹煮增添了選用的遠端監控，當你熟睡而一塊 24 小時的豬肩肉仍在烹煮時，這是個實際的優勢。",
-      "pros": ["1200W 馬達可處理高達 100L 的容器而不卡頓", "完整手動控制，不需 App 或 WiFi 也能運作", "±0.1°C 精度對蛋與溫度敏感的蛋白質可靠穩定"],
-      "cons": ["$199 是本次比較中並列最高的價格"],
+      "pros": [
+        "1200W 馬達可處理高達 100L 的容器而不卡頓",
+        "完整手動控制，不需 App 或 WiFi 也能運作",
+        "±0.1°C 精度對蛋與溫度敏感的蛋白質可靠穩定"
+      ],
+      "cons": [
+        "$199 是本次比較中並列最高的價格"
+      ],
       "grade": "A+",
-      "specs": {"Power": "1200W", "Temp accuracy": "±0.1°C", "Temp range": "0–92°C", "Container max": "100L", "Connectivity": "WiFi + Bluetooth", "Dimensions": "38cm tall, 490g"},
-      "scores": {"Temperature accuracy": 4.9, "Power": 5.0, "Ease of use": 4.5, "Value": 3.8, "Noise": 4.0}
+      "specs": {
+        "Power": "1200W",
+        "Temp accuracy": "±0.1°C",
+        "Temp range": "0–92°C",
+        "Container max": "100L",
+        "Connectivity": "WiFi + Bluetooth",
+        "Dimensions": "38cm tall, 490g"
+      },
+      "scores": {
+        "溫度準確度": 4.9,
+        "功率": 5,
+        "使用便利性": 4.5,
+        "性價比": 3.8,
+        "噪音": 4
+      }
     },
     {
       "offerId": "breville-joule-turbo",
       "badge": "最佳精巧設計",
       "review": "Breville Joule Turbo 以 28cm、281g 成為本次比較中最小的全功率機型，其 Turbo 模式確實能將升溫時間最多縮短 30%，這對於想在切菜前就先開始加熱水浴的平日晚餐烹飪很有意義。僅限 App 的操作是一項實在的依賴：若 App 失去對你手機作業系統的支援，這台機器就會變得無法使用。",
-      "pros": ["最小最輕的全功率機型，28cm、281g", "Turbo 模式將升溫時間最多縮短 30%", "設計良好的 App，附常見蛋白質的引導烹煮時間"],
-      "cons": ["僅限 App 操作，機身本身沒有手動控制鈕"],
+      "pros": [
+        "最小最輕的全功率機型，28cm、281g",
+        "Turbo 模式將升溫時間最多縮短 30%",
+        "設計良好的 App，附常見蛋白質的引導烹煮時間"
+      ],
+      "cons": [
+        "僅限 App 操作，機身本身沒有手動控制鈕"
+      ],
       "grade": "A",
-      "specs": {"Power": "1100W", "Temp accuracy": "±0.1°C", "Temp range": "25–99°C", "Container max": "30L", "Connectivity": "WiFi (required)", "Dimensions": "28cm tall, 281g"},
-      "scores": {"Temperature accuracy": 4.8, "Power": 4.7, "Ease of use": 4.0, "Value": 3.9, "Noise": 4.5}
+      "specs": {
+        "Power": "1100W",
+        "Temp accuracy": "±0.1°C",
+        "Temp range": "25–99°C",
+        "Container max": "30L",
+        "Connectivity": "WiFi (required)",
+        "Dimensions": "28cm tall, 281g"
+      },
+      "scores": {
+        "溫度準確度": 4.8,
+        "功率": 4.7,
+        "使用便利性": 4,
+        "性價比": 3.9,
+        "噪音": 4.5
+      }
     },
     {
       "offerId": "inkbird-isv100w",
       "badge": "最佳平價 WiFi 之選",
       "review": "Inkbird ISV-100W 以遠低於 Anova 與 Breville 的價格提供 WiFi 連線與手動實體控制。±0.5°C 的精度對牛排、雞肉與豬肉已足夠，只有在溫度區間狹窄的蛋與魚上才會成為限制。把它設定在你目標溫度範圍的中間值，它在日常烹飪中就能可靠表現。",
-      "pros": ["手動旋鈕與顯示螢幕，不需手機或 WiFi 也能運作", "WiFi 啟用選用的排程與遠端監控", "平價，對多數蛋白質有足夠精度"],
-      "cons": ["±0.5°C 的精度無法命中蛋與細緻魚類的狹窄區間"],
+      "pros": [
+        "手動旋鈕與顯示螢幕，不需手機或 WiFi 也能運作",
+        "WiFi 啟用選用的排程與遠端監控",
+        "平價，對多數蛋白質有足夠精度"
+      ],
+      "cons": [
+        "±0.5°C 的精度無法命中蛋與細緻魚類的狹窄區間"
+      ],
       "grade": "B+",
-      "specs": {"Power": "1000W", "Temp accuracy": "±0.5°C", "Temp range": "25–99.9°C", "Container max": "12L", "Connectivity": "WiFi + manual controls", "Dimensions": "33cm tall, ~900g"},
-      "scores": {"Temperature accuracy": 4.0, "Power": 4.3, "Ease of use": 4.7, "Value": 4.9, "Noise": 4.2}
+      "specs": {
+        "Power": "1000W",
+        "Temp accuracy": "±0.5°C",
+        "Temp range": "25–99.9°C",
+        "Container max": "12L",
+        "Connectivity": "WiFi + manual controls",
+        "Dimensions": "33cm tall, ~900g"
+      },
+      "scores": {
+        "溫度準確度": 4,
+        "功率": 4.3,
+        "使用便利性": 4.7,
+        "性價比": 4.9,
+        "噪音": 4.2
+      }
     },
     {
       "offerId": "wancle-sous-vide",
       "badge": "最佳免 App 選項",
       "review": "Wancle Sous Vide Cooker 是本次比較中最簡單的機型：轉動旋鈕設定溫度與時間、夾在任何鍋上、然後走開即可。沒有 WiFi、沒有雲端帳號、沒有可能讓功能失效的 App 更新。850W 的輸出對於高達 15L 鍋具中的單份餐點烹煮已足夠。如果你不信任 App 依賴型家電，這是個直截了當的替代方案。",
-      "pros": ["沒有 App、沒有 WiFi、沒有雲端依賴，完全獨立運作", "簡單的旋鈕操作搭配 LED 顯示", "可靠地完成所有基本舒肥烹飪而不增添複雜度"],
-      "cons": ["850W 應付大型容器吃力，預熱時間比 1000W 以上機型更長"],
+      "pros": [
+        "沒有 App、沒有 WiFi、沒有雲端依賴，完全獨立運作",
+        "簡單的旋鈕操作搭配 LED 顯示",
+        "可靠地完成所有基本舒肥烹飪而不增添複雜度"
+      ],
+      "cons": [
+        "850W 應付大型容器吃力，預熱時間比 1000W 以上機型更長"
+      ],
       "grade": "B",
-      "specs": {"Power": "850W", "Temp accuracy": "±0.5°C", "Temp range": "25–99.5°C", "Container max": "15L", "Connectivity": "None", "Dimensions": "30cm tall, ~800g"},
-      "scores": {"Temperature accuracy": 3.8, "Power": 3.5, "Ease of use": 5.0, "Value": 4.7, "Noise": 4.0}
+      "specs": {
+        "Power": "850W",
+        "Temp accuracy": "±0.5°C",
+        "Temp range": "25–99.5°C",
+        "Container max": "15L",
+        "Connectivity": "None",
+        "Dimensions": "30cm tall, ~800g"
+      },
+      "scores": {
+        "溫度準確度": 3.8,
+        "功率": 3.5,
+        "使用便利性": 5,
+        "性價比": 4.7,
+        "噪音": 4
+      }
     },
     {
       "offerId": "polyscience-creative-sous-vide",
       "badge": "最佳溫度精度",
       "review": "PolyScience Creative Series 是本次比較中唯一具有專業廚房血統、並擁有 ±0.07°C 溫度穩定性的機型，這正是餐廳廚房為了在數百批次間維持食譜可重現性所需的精度。對於經常製作 63°C 蛋或 45°C 鮭魚的家庭料理者而言，這份精度消除了 ±0.5°C 機型所帶來的質地差異。價格反映了專業級的做工品質。",
-      "pros": ["±0.07°C 溫度穩定性，本次比較中最緊密的精度", "專業廚房血統，附 IP 防潑水等級保護", "手動控制，無 App 依賴"],
-      "cons": ["除非蛋或魚的精度是主要需求，否則 $329 的價格難以說服人"],
+      "pros": [
+        "±0.07°C 溫度穩定性，本次比較中最緊密的精度",
+        "專業廚房血統，附 IP 防潑水等級保護",
+        "手動控制，無 App 依賴"
+      ],
+      "cons": [
+        "除非蛋或魚的精度是主要需求，否則 $329 的價格難以說服人"
+      ],
       "grade": "B-",
-      "specs": {"Power": "1100W", "Temp accuracy": "±0.07°C", "Temp range": "25–99°C", "Flow rate": "11.5L/min", "Connectivity": "None (manual only)", "Build": "Professional, IP-rated"},
-      "scores": {"Temperature accuracy": 5.0, "Power": 4.7, "Ease of use": 4.3, "Value": 3.0, "Noise": 3.8}
+      "specs": {
+        "Power": "1100W",
+        "Temp accuracy": "±0.07°C",
+        "Temp range": "25–99°C",
+        "Flow rate": "11.5L/min",
+        "Connectivity": "None (manual only)",
+        "Build": "Professional, IP-rated"
+      },
+      "scores": {
+        "溫度準確度": 5,
+        "功率": 4.7,
+        "使用便利性": 4.3,
+        "性價比": 3,
+        "噪音": 3.8
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "適合過夜與大批量烹煮", "offerId": "anova-precision-cooker-pro", "reason": "1200W 能處理 30L 容器，而 WiFi 監控讓你在 24 小時豬肩肉烹煮期間躺在床上也能查看溫度。"},
-    {"label": "適合想要快速升溫的小廚房料理者", "offerId": "breville-joule-turbo", "reason": "最小的全功率機型搭配 Turbo 模式，當你在平日晚餐備料時開始加熱水浴，縮短升溫時間就很有意義。"},
-    {"label": "適合預算有限的首次舒肥買家", "offerId": "inkbird-isv100w", "reason": "WiFi 監控加上手動備援控制，價格親民，±0.5°C 對牛排、雞肉與豬肩肉已足夠精準。"},
-    {"label": "適合不信任 App 依賴型家電的買家", "offerId": "wancle-sous-vide", "reason": "只有旋鈕與 LED，沒有東西要更新、不會失去連線、也不會在公司推送新作業系統時停止運作。"},
-    {"label": "適合蛋、魚與可重現的精準烹飪", "offerId": "polyscience-creative-sous-vide", "reason": "±0.07°C 的穩定性意味著 63°C 的蛋每天早上都能煮出一模一樣的成果，這是 ±0.5°C 機型無法可靠達成的精度。"}
+    {
+      "label": "適合過夜與大批量烹煮",
+      "offerId": "anova-precision-cooker-pro",
+      "reason": "1200W 能處理 30L 容器，而 WiFi 監控讓你在 24 小時豬肩肉烹煮期間躺在床上也能查看溫度。"
+    },
+    {
+      "label": "適合想要快速升溫的小廚房料理者",
+      "offerId": "breville-joule-turbo",
+      "reason": "最小的全功率機型搭配 Turbo 模式，當你在平日晚餐備料時開始加熱水浴，縮短升溫時間就很有意義。"
+    },
+    {
+      "label": "適合預算有限的首次舒肥買家",
+      "offerId": "inkbird-isv100w",
+      "reason": "WiFi 監控加上手動備援控制，價格親民，±0.5°C 對牛排、雞肉與豬肩肉已足夠精準。"
+    },
+    {
+      "label": "適合不信任 App 依賴型家電的買家",
+      "offerId": "wancle-sous-vide",
+      "reason": "只有旋鈕與 LED，沒有東西要更新、不會失去連線、也不會在公司推送新作業系統時停止運作。"
+    },
+    {
+      "label": "適合蛋、魚與可重現的精準烹飪",
+      "offerId": "polyscience-creative-sous-vide",
+      "reason": "±0.07°C 的穩定性意味著 63°C 的蛋每天早上都能煮出一模一樣的成果，這是 ±0.5°C 機型無法可靠達成的精度。"
+    }
   ]
 }

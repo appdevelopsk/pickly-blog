@@ -4,11 +4,31 @@
   "lede": "壓縮褲分為兩大用途：輕度壓縮、手感柔軟的訓練舒適款，以及具有漸進式醫療級壓縮設計、旨在改善耐力跑步靜脈回流的功能款。本次比較涵蓋$60至$130的五個選項，實測每項產品是否真正兌現其所聲稱的效果。",
   "methodology": "評估標準包括：壓縮等級（輕度/中度/漸進式）、彈性纖維比例及經過多次洗滌後是否維持壓縮效果、運動時腰帶的穩定性、面料重量與透氣性是否符合使用情境，以及平縫或熱壓縫合結構對摩擦風險的影響——評分重點著重於壓縮持久性與耐用度，而非外觀美感。",
   "recommendedFor": [
-    {"label": "日常訓練最舒適之選", "offerId": "compression-leggings-lululemon-align", "reason": "Align的Nulu面料是本次比較中最柔軟的日常訓練褲，「裸感」設計降低長時間訓練的熱疲勞，腰帶貼服不易滑落。"},
-    {"label": "專為跑步打造的性能首選", "offerId": "compression-leggings-nike-epic-fast", "reason": "Epic Fast的網眼拼接設計與緊身壓縮剪裁專為跑步而生，反光元素在低光環境下提升能見度，無需另備反光背心。"},
-    {"label": "耐力跑步的漸進式壓縮首選", "offerId": "compression-leggings-cep-run", "reason": "CEP的20–30 mmHg漸進式壓縮從腳踝延伸至大腿中部，是本次比較中唯一經臨床校準的壓縮產品，適合有靜脈功能不全問題或重視賽後恢復的跑者。"},
-    {"label": "炎熱天氣跑步首選", "offerId": "compression-leggings-adidas-own-the-run", "reason": "AEROREADY布料與側邊透氣面板專為20°C以上的跑步而設計——輕度壓縮等級帶來貼身的穿著感，又不會因熱量累積而在炎熱天氣下過早疲勞。"},
-    {"label": "恢復壓縮與運動科學支持首選", "offerId": "compression-leggings-skins-series-3", "reason": "Skins Series-3的體型測量壓縮技術以個人體型數據校準壓縮強度，而非依據通用尺碼，是除CEP外最接近臨床精度的選擇。"}
+    {
+      "label": "日常訓練最舒適之選",
+      "offerId": "compression-leggings-lululemon-align",
+      "reason": "Align的Nulu面料是本次比較中最柔軟的日常訓練褲，「裸感」設計降低長時間訓練的熱疲勞，腰帶貼服不易滑落。"
+    },
+    {
+      "label": "專為跑步打造的性能首選",
+      "offerId": "compression-leggings-nike-epic-fast",
+      "reason": "Epic Fast的網眼拼接設計與緊身壓縮剪裁專為跑步而生，反光元素在低光環境下提升能見度，無需另備反光背心。"
+    },
+    {
+      "label": "耐力跑步的漸進式壓縮首選",
+      "offerId": "compression-leggings-cep-run",
+      "reason": "CEP的20–30 mmHg漸進式壓縮從腳踝延伸至大腿中部，是本次比較中唯一經臨床校準的壓縮產品，適合有靜脈功能不全問題或重視賽後恢復的跑者。"
+    },
+    {
+      "label": "炎熱天氣跑步首選",
+      "offerId": "compression-leggings-adidas-own-the-run",
+      "reason": "AEROREADY布料與側邊透氣面板專為20°C以上的跑步而設計——輕度壓縮等級帶來貼身的穿著感，又不會因熱量累積而在炎熱天氣下過早疲勞。"
+    },
+    {
+      "label": "恢復壓縮與運動科學支持首選",
+      "offerId": "compression-leggings-skins-series-3",
+      "reason": "Skins Series-3的體型測量壓縮技術以個人體型數據校準壓縮強度，而非依據通用尺碼，是除CEP外最接近臨床精度的選擇。"
+    }
   ],
   "sections": [
     {
@@ -67,51 +87,146 @@
       "offerId": "compression-leggings-lululemon-align",
       "badge": "最佳舒適款",
       "review": "Align的Nulu面料（81%尼龍、19% Lycra）是本次比較中最柔軟的日常訓練褲——壓縮細膩舒緩，瑜珈和輕度訓練均不感到束縛。帶有內部防滑條的高腰腰帶是本次比較中60-90分鐘訓練穩定性最佳的款式。輕度壓縮等級使其不適合需要更強肌肉支撐的高強度跑步。",
-      "pros": ["Nulu面料提供本次比較中最輕盈的裸感體驗", "高腰防滑腰帶在90分鐘訓練中保持平整貼服", "輕度壓縮適合瑜珈、健身房和輕鬆跑步"],
-      "cons": ["輕度壓縮不足以支撐高強度跑步所需的肌肉支撐力"],
+      "pros": [
+        "Nulu面料提供本次比較中最輕盈的裸感體驗",
+        "高腰防滑腰帶在90分鐘訓練中保持平整貼服",
+        "輕度壓縮適合瑜珈、健身房和輕鬆跑步"
+      ],
+      "cons": [
+        "輕度壓縮不足以支撐高強度跑步所需的肌肉支撐力"
+      ],
       "grade": "A+",
-      "specs": {"Compression grade": "輕度（無mmHg規格）", "Fabric": "81%尼龍、19% Lycra（Nulu）", "Spandex equiv.": "約19% Lycra", "Waistband": "高腰，內置防滑條", "Fabric weight": "約143 GSM", "Price": "約NT$3,840"},
-      "scores": {"Compression": 3.5, "Breathability": 4.2, "Waistband stability": 5.0, "Durability": 4.3, "Value": 3.5}
+      "specs": {
+        "Compression grade": "輕度（無mmHg規格）",
+        "Fabric": "81%尼龍、19% Lycra（Nulu）",
+        "Spandex equiv.": "約19% Lycra",
+        "Waistband": "高腰，內置防滑條",
+        "Fabric weight": "約143 GSM",
+        "Price": "約NT$3,840"
+      },
+      "scores": {
+        "壓縮度": 3.5,
+        "透氣性": 4.2,
+        "腰部穩定性": 5,
+        "耐用性": 4.3,
+        "性價比": 3.5
+      }
     },
     {
       "offerId": "compression-leggings-nike-epic-fast",
       "badge": "最佳跑步款",
       "review": "Epic Fast更強的壓縮與網眼拼接設計使其成為本次比較中最符合跑步需求的款式。大腿後側和小腿內側的網眼面板在18°C以上提供實質的氣流改善，同時不犧牲大腿前側的壓縮結構。反光元素對低光環境跑步有實際效用，無需另備反光背心。腰帶穩定性在超過60分鐘的跑步中不及Lululemon Align。",
-      "pros": ["大腿後側和小腿內側網眼面板改善炎熱天氣透氣性", "比Lululemon Align更緊實的跑步專用壓縮", "反光元素適合低光環境戶外跑步"],
-      "cons": ["腰帶穩定性不及Align——60分鐘以上可能需要調整"],
+      "pros": [
+        "大腿後側和小腿內側網眼面板改善炎熱天氣透氣性",
+        "比Lululemon Align更緊實的跑步專用壓縮",
+        "反光元素適合低光環境戶外跑步"
+      ],
+      "cons": [
+        "腰帶穩定性不及Align——60分鐘以上可能需要調整"
+      ],
       "grade": "A",
-      "specs": {"Compression grade": "中度（無mmHg規格）", "Fabric": "83%聚酯纖維、17%彈性纖維加網眼面板", "Mesh coverage": "大腿後側及小腿內側", "Waistband": "中至高腰", "Reflective": "有", "Price": "約NT$2,700"},
-      "scores": {"Compression": 4.0, "Breathability": 4.5, "Waistband stability": 4.0, "Durability": 4.2, "Value": 4.2}
+      "specs": {
+        "Compression grade": "中度（無mmHg規格）",
+        "Fabric": "83%聚酯纖維、17%彈性纖維加網眼面板",
+        "Mesh coverage": "大腿後側及小腿內側",
+        "Waistband": "中至高腰",
+        "Reflective": "有",
+        "Price": "約NT$2,700"
+      },
+      "scores": {
+        "壓縮度": 4,
+        "透氣性": 4.5,
+        "腰部穩定性": 4,
+        "耐用性": 4.2,
+        "性價比": 4.2
+      }
     },
     {
       "offerId": "compression-leggings-cep-run",
       "badge": "最佳漸進式壓縮",
       "review": "CEP Run 3.0的20-30 mmHg漸進式壓縮是本次比較中唯一經臨床校準的壓縮——腳踝壓力最大，向大腿方向遞減——與同行評審恢復研究所採用的規格一致。對於有靜脈功能不全或跑後腫脹問題的跑者，這是有研究支持的規格。尺碼需要腳踝圍和身高數據，而非標準S/M/L。",
-      "pros": ["20–30 mmHg漸進式壓縮符合同行評審恢復研究規格", "臨床校準：腳踝壓力最大，向大腿方向遞減", "研究支持在24–48小時內減輕跑後肌肉痠痛"],
-      "cons": ["需要腳踝圍和身高測量才能選擇正確尺碼——非標準S/M/L"],
+      "pros": [
+        "20–30 mmHg漸進式壓縮符合同行評審恢復研究規格",
+        "臨床校準：腳踝壓力最大，向大腿方向遞減",
+        "研究支持在24–48小時內減輕跑後肌肉痠痛"
+      ],
+      "cons": [
+        "需要腳踝圍和身高測量才能選擇正確尺碼——非標準S/M/L"
+      ],
       "grade": "A",
-      "specs": {"Compression grade": "20–30 mmHg漸進式", "Fabric": "聚醯胺-彈性纖維混紡", "Compression calibration": "腳踝 > 小腿 > 大腿", "Sizing method": "腳踝圍＋身高", "Use case": "跑步＋賽後恢復", "Price": "約NT$3,900"},
-      "scores": {"Compression": 5.0, "Breathability": 3.8, "Waistband stability": 4.2, "Durability": 4.5, "Value": 3.8}
+      "specs": {
+        "Compression grade": "20–30 mmHg漸進式",
+        "Fabric": "聚醯胺-彈性纖維混紡",
+        "Compression calibration": "腳踝 > 小腿 > 大腿",
+        "Sizing method": "腳踝圍＋身高",
+        "Use case": "跑步＋賽後恢復",
+        "Price": "約NT$3,900"
+      },
+      "scores": {
+        "壓縮度": 5,
+        "透氣性": 3.8,
+        "腰部穩定性": 4.2,
+        "耐用性": 4.5,
+        "性價比": 3.8
+      }
     },
     {
       "offerId": "compression-leggings-adidas-own-the-run",
       "badge": "最佳炎熱天氣款",
       "review": "Own The Run的AEROREADY面料和側面通風面板專為20°C以上跑步設計。輕度壓縮等級提供貼合的訓練感，同時避免高壓縮款式的熱量蓄積。腰帶高度低於競品，部分跑者在長距離訓練中覺得支撐感不足。售價是本次比較中最親民的選項。",
-      "pros": ["AEROREADY面料和側面通風設計適合炎熱天氣跑步", "輕度壓縮相比高等級款式減少熱量蓄積", "本次比較中最親民的售價"],
-      "cons": ["輕度壓縮在高強度時肌肉支撐不足；腰帶高度低於競品"],
+      "pros": [
+        "AEROREADY面料和側面通風設計適合炎熱天氣跑步",
+        "輕度壓縮相比高等級款式減少熱量蓄積",
+        "本次比較中最親民的售價"
+      ],
+      "cons": [
+        "輕度壓縮在高強度時肌肉支撐不足；腰帶高度低於競品"
+      ],
       "grade": "B+",
-      "specs": {"Compression grade": "輕度（無mmHg規格）", "Fabric": "AEROREADY聚酯混紡加通風面板", "Spandex": "約20%", "Waistband": "中腰", "Target temp": "18–28°C跑步", "Price": "約NT$1,950"},
-      "scores": {"Compression": 3.2, "Breathability": 4.8, "Waistband stability": 3.8, "Durability": 4.0, "Value": 4.5}
+      "specs": {
+        "Compression grade": "輕度（無mmHg規格）",
+        "Fabric": "AEROREADY聚酯混紡加通風面板",
+        "Spandex": "約20%",
+        "Waistband": "中腰",
+        "Target temp": "18–28°C跑步",
+        "Price": "約NT$1,950"
+      },
+      "scores": {
+        "壓縮度": 3.2,
+        "透氣性": 4.8,
+        "腰部穩定性": 3.8,
+        "耐用性": 4,
+        "性價比": 4.5
+      }
     },
     {
       "offerId": "compression-leggings-skins-series-3",
       "badge": "最佳體型對應剪裁",
       "review": "Skins Series-3依據體型測量（腰圍、臀圍、大腿圍、小腿圍）而非標準尺碼來校準壓縮強度，是訂製壓縮服以外最接近個人化剪裁的選擇。約15-18 mmHg的漸進式壓縮介於一般舒適壓縮與CEP臨床範圍之間。適合重視科學支撐壓縮且希望精確合身的耐力跑者。",
-      "pros": ["體型測量尺碼根據個人腿型校準壓縮", "約15–18 mmHg漸進式壓縮——高於標準舒適壓縮", "為耐力跑步和賽後恢復而設計"],
-      "cons": ["尺碼需要精確體型測量——測量不準確將導致壓縮等級不符"],
+      "pros": [
+        "體型測量尺碼根據個人腿型校準壓縮",
+        "約15–18 mmHg漸進式壓縮——高於標準舒適壓縮",
+        "為耐力跑步和賽後恢復而設計"
+      ],
+      "cons": [
+        "尺碼需要精確體型測量——測量不準確將導致壓縮等級不符"
+      ],
       "grade": "B+",
-      "specs": {"Compression grade": "約15–18 mmHg漸進式", "Fabric": "尼龍-彈性纖維混紡", "Sizing method": "腰、臀、大腿、小腿圍", "Compression profile": "腳踝至大腿漸進式", "Target user": "耐力跑者、鐵人三項運動員", "Price": "約NT$3,300"},
-      "scores": {"Compression": 4.5, "Breathability": 4.0, "Waistband stability": 4.3, "Durability": 4.4, "Value": 3.9}
+      "specs": {
+        "Compression grade": "約15–18 mmHg漸進式",
+        "Fabric": "尼龍-彈性纖維混紡",
+        "Sizing method": "腰、臀、大腿、小腿圍",
+        "Compression profile": "腳踝至大腿漸進式",
+        "Target user": "耐力跑者、鐵人三項運動員",
+        "Price": "約NT$3,300"
+      },
+      "scores": {
+        "壓縮度": 4.5,
+        "透氣性": 4,
+        "腰部穩定性": 4.3,
+        "耐用性": 4.4,
+        "性價比": 3.9
+      }
     }
   ]
 }

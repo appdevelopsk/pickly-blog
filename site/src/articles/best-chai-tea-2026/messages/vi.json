@@ -64,58 +64,169 @@
       "offerId": "rishi-masala-chai",
       "badge": "Tốt Nhất Toàn Diện",
       "review": "Rishi Masala Chai là tiêu chuẩn của chai masala lá rời — nền Assam với hạt cardamom, vụn quế nguyên, gừng, hạt tiêu đen, và đinh hương pha thành hương vị gia vị nhiều lớp mà túi trà không thể tái tạo. Nguồn gốc trực tiếp từ trang trại thể hiện qua nền trà maltis, không chát. Bước lọc 30 giây là rào cản duy nhất, và nó đáng giá với người uống chai nghiêm túc.",
-      "pros": ["Gia vị nguyên tạo ra hương thơm nhiều lớp không có trong túi trà đã xay sẵn", "Nền Assam trực tiếp từ trang trại — maltis, phức tạp, không đắng", "18–22 khẩu phần mỗi túi — chi phí tương đương túi trà chất lượng"],
-      "cons": ["Cần rây — thêm một bước so với túi hoặc cô đặc"],
+      "pros": [
+        "Gia vị nguyên tạo ra hương thơm nhiều lớp không có trong túi trà đã xay sẵn",
+        "Nền Assam trực tiếp từ trang trại — maltis, phức tạp, không đắng",
+        "18–22 khẩu phần mỗi túi — chi phí tương đương túi trà chất lượng"
+      ],
+      "cons": [
+        "Cần rây — thêm một bước so với túi hoặc cô đặc"
+      ],
       "grade": "A+",
-      "specs": {"Hình thức": "Lá rời", "Nền trà": "Trà đen Assam", "Khẩu phần": "18–22 mỗi túi 2.82 oz", "Gia vị chủ đạo": "Cardamom", "Giá mỗi khẩu phần": "$0.60–0.80"},
-      "scores": {"Taste": 4.9, "Quality": 4.8, "Value": 4.2, "Convenience": 3.2, "Versatility": 4.5}
+      "specs": {
+        "Hình thức": "Lá rời",
+        "Nền trà": "Trà đen Assam",
+        "Khẩu phần": "18–22 mỗi túi 2.82 oz",
+        "Gia vị chủ đạo": "Cardamom",
+        "Giá mỗi khẩu phần": "$0.60–0.80"
+      },
+      "scores": {
+        "Vị": 4.9,
+        "Chất lượng": 4.8,
+        "Giá trị": 4.2,
+        "Tiện lợi": 3.2,
+        "Tính đa năng": 4.5
+      }
     },
     {
       "offerId": "harney-sons-hot-cinnamon-spice",
       "badge": "Trà Đen Gia Vị Tốt Nhất",
       "review": "Hot Cinnamon Spice không phải masala chai truyền thống — đây là trà đen với ba loại quế, vỏ cam, và đinh hương ngọt. Hiểu sự khác biệt đó là quan trọng: nếu bạn muốn masala chai Nam Á, đây là sản phẩm sai. Nếu bạn muốn trà gia vị ấm áp, dominat quế mạnh mẽ cold brew đẹp qua đêm trong sữa, đây là một trong những loại tốt nhất trong danh mục đó.",
-      "pros": ["Dominat quế mạnh mẽ — làm hài lòng đám đông mà không cần độ phức tạp gia vị", "Tuyệt vời để cold brew qua đêm trong sữa cho chai đá buổi sáng hôm sau", "50 túi mỗi hộp — giá trị tốt ở $10–14"],
-      "cons": ["Không phải masala chai truyền thống — không có gừng, rất ít cardamom"],
+      "pros": [
+        "Dominat quế mạnh mẽ — làm hài lòng đám đông mà không cần độ phức tạp gia vị",
+        "Tuyệt vời để cold brew qua đêm trong sữa cho chai đá buổi sáng hôm sau",
+        "50 túi mỗi hộp — giá trị tốt ở $10–14"
+      ],
+      "cons": [
+        "Không phải masala chai truyền thống — không có gừng, rất ít cardamom"
+      ],
       "grade": "A",
-      "specs": {"Hình thức": "Túi trà (50 cái)", "Nền trà": "Trà đen", "Gia vị chủ đạo": "Quế ba loại + vỏ cam + đinh hương", "Giá mỗi túi": "$0.20–0.28", "Cold brew": "Có — tuyệt vời"},
-      "scores": {"Taste": 4.7, "Quality": 4.5, "Value": 4.6, "Convenience": 4.8, "Versatility": 4.0}
+      "specs": {
+        "Hình thức": "Túi trà (50 cái)",
+        "Nền trà": "Trà đen",
+        "Gia vị chủ đạo": "Quế ba loại + vỏ cam + đinh hương",
+        "Giá mỗi túi": "$0.20–0.28",
+        "Cold brew": "Có — tuyệt vời"
+      },
+      "scores": {
+        "Vị": 4.7,
+        "Chất lượng": 4.5,
+        "Giá trị": 4.6,
+        "Tiện lợi": 4.8,
+        "Tính đa năng": 4
+      }
     },
     {
       "offerId": "tazo-chai-concentrate",
       "badge": "Cô Đặc Giá Rẻ Tốt Nhất",
       "review": "Tazo Chai Concentrate là cách giá phải chăng để làm chai latte tại nhà — trộn 1:1 với sữa nóng, xong. Kết quả ngọt-gia vị nhất quán và tái tạo chai quán cà phê với chi phí thấp hơn nhiều. Ngọt hơn và ít phức tạp hơn lá rời đáng kể, nhưng cho đồ uống buổi sáng ngày trong tuần nhanh, nó hoạt động đáng tin cậy.",
-      "pros": ["Có sẵn rộng rãi tại siêu thị chính thống", "Hương vị ngọt-gia vị nhất quán, có thể dự đoán mỗi lần", "Chi phí mỗi khẩu phần thấp ở $5–8 mỗi 32 oz"],
-      "cons": ["Ít tinh tế hơn lá rời — độ sâu gia vị bị hạn chế", "Hàm lượng đường cao hơn so với pha từ lá hoặc túi"],
+      "pros": [
+        "Có sẵn rộng rãi tại siêu thị chính thống",
+        "Hương vị ngọt-gia vị nhất quán, có thể dự đoán mỗi lần",
+        "Chi phí mỗi khẩu phần thấp ở $5–8 mỗi 32 oz"
+      ],
+      "cons": [
+        "Ít tinh tế hơn lá rời — độ sâu gia vị bị hạn chế",
+        "Hàm lượng đường cao hơn so với pha từ lá hoặc túi"
+      ],
       "grade": "B+",
-      "specs": {"Hình thức": "Cô đặc lỏng (32 oz)", "Tỷ lệ pha": "1:1 với sữa", "Khẩu phần": "~16 mỗi hộp", "Giá mỗi khẩu phần": "$0.31–0.50", "Đường": "Vừa phải (đường mía thêm vào)"},
-      "scores": {"Taste": 3.9, "Quality": 3.6, "Value": 4.5, "Convenience": 4.9, "Versatility": 3.5}
+      "specs": {
+        "Hình thức": "Cô đặc lỏng (32 oz)",
+        "Tỷ lệ pha": "1:1 với sữa",
+        "Khẩu phần": "~16 mỗi hộp",
+        "Giá mỗi khẩu phần": "$0.31–0.50",
+        "Đường": "Vừa phải (đường mía thêm vào)"
+      },
+      "scores": {
+        "Vị": 3.9,
+        "Chất lượng": 3.6,
+        "Giá trị": 4.5,
+        "Tiện lợi": 4.9,
+        "Tính đa năng": 3.5
+      }
     },
     {
       "offerId": "oregon-chai-original-concentrate",
       "badge": "Nhái Latte Quán Cà Phê Tốt Nhất",
       "review": "Oregon Chai Original là tiêu chuẩn thị trường cho cô đặc chai latte — ngọt, dominat cardamom, được thiết kế để có vị như chai Starbucks tại nhà. Ở tỷ lệ đầy đủ 1:1, độ ngọt nổi bật (15g đường mỗi khẩu phần); nhiều người dùng thích tỷ lệ cô đặc-với-sữa 1:2 để cân bằng tốt hơn. Phiên bản Không Đường cho phép kiểm soát chất tạo ngọt độc lập cho cốc tùy chỉnh hơn.",
-      "pros": ["Tái tạo chai latte quán cà phê chính xác nhất tại nhà", "Có sẵn rộng rãi, bao gồm phiên bản không đường", "Hương vị gia vị dominat cardamom được người uống latte ưa thích"],
-      "cons": ["15g đường mỗi khẩu phần ở tỷ lệ tiêu chuẩn — điều chỉnh với phiên bản không đường"],
+      "pros": [
+        "Tái tạo chai latte quán cà phê chính xác nhất tại nhà",
+        "Có sẵn rộng rãi, bao gồm phiên bản không đường",
+        "Hương vị gia vị dominat cardamom được người uống latte ưa thích"
+      ],
+      "cons": [
+        "15g đường mỗi khẩu phần ở tỷ lệ tiêu chuẩn — điều chỉnh với phiên bản không đường"
+      ],
       "grade": "B",
-      "specs": {"Hình thức": "Cô đặc lỏng (32 oz)", "Tỷ lệ pha": "1:1 với sữa (hoặc 1:2 để ít ngọt hơn)", "Khẩu phần": "~16 mỗi hộp", "Đường": "15g mỗi khẩu phần (tiêu chuẩn)", "Không đường": "Có sẵn"},
-      "scores": {"Taste": 4.1, "Quality": 3.7, "Value": 4.3, "Convenience": 4.9, "Versatility": 3.8}
+      "specs": {
+        "Hình thức": "Cô đặc lỏng (32 oz)",
+        "Tỷ lệ pha": "1:1 với sữa (hoặc 1:2 để ít ngọt hơn)",
+        "Khẩu phần": "~16 mỗi hộp",
+        "Đường": "15g mỗi khẩu phần (tiêu chuẩn)",
+        "Không đường": "Có sẵn"
+      },
+      "scores": {
+        "Vị": 4.1,
+        "Chất lượng": 3.7,
+        "Giá trị": 4.3,
+        "Tiện lợi": 4.9,
+        "Tính đa năng": 3.8
+      }
     },
     {
       "offerId": "david-rio-elephant-vanilla-chai",
       "badge": "Hình Thức Thuận Tiện Nhất",
       "review": "Bột David Rio Elephant Vanilla Chai là hình thức chai ít phiền hà nhất: xúc vào sữa nóng, khuấy, xong — không cần pha, không cần cô đặc làm lạnh, không cần hấp. Hương vị dominat vani nhẹ hơn và ngọt hơn masala chai truyền thống, làm cho nó dễ tiếp cận nhưng không chính thống. Lý tưởng cho du lịch, sử dụng văn phòng, hoặc bất kỳ ai muốn đồ uống tương tự chai với thiết lập bằng không.",
-      "pros": ["Không cần chuẩn bị — tan trực tiếp trong sữa nóng", "Không cần làm lạnh — thân thiện với du lịch và văn phòng", "Hương vị gia vị nhẹ, dominat vani phù hợp với người mới bắt đầu"],
-      "cons": ["Hương vị masala chai ít chính thống nhất — vani chi phối cân bằng gia vị truyền thống"],
+      "pros": [
+        "Không cần chuẩn bị — tan trực tiếp trong sữa nóng",
+        "Không cần làm lạnh — thân thiện với du lịch và văn phòng",
+        "Hương vị gia vị nhẹ, dominat vani phù hợp với người mới bắt đầu"
+      ],
+      "cons": [
+        "Hương vị masala chai ít chính thống nhất — vani chi phối cân bằng gia vị truyền thống"
+      ],
       "grade": "B-",
-      "specs": {"Hình thức": "Bột (16 oz)", "Khẩu phần": "16–20 mỗi túi", "Hương vị chủ đạo": "Vani", "Cách chuẩn bị": "Tan trong sữa/nước nóng", "Giá mỗi khẩu phần": "$0.75–1.25"},
-      "scores": {"Taste": 4.0, "Quality": 3.5, "Value": 3.8, "Convenience": 5.0, "Versatility": 3.2}
+      "specs": {
+        "Hình thức": "Bột (16 oz)",
+        "Khẩu phần": "16–20 mỗi túi",
+        "Hương vị chủ đạo": "Vani",
+        "Cách chuẩn bị": "Tan trong sữa/nước nóng",
+        "Giá mỗi khẩu phần": "$0.75–1.25"
+      },
+      "scores": {
+        "Vị": 4,
+        "Chất lượng": 3.5,
+        "Giá trị": 3.8,
+        "Tiện lợi": 5,
+        "Tính đa năng": 3.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Cho người uống masala chai truyền thống", "offerId": "rishi-masala-chai", "reason": "Lá rời gia vị nguyên với nền Assam thật sự — lựa chọn duy nhất ở đây tạo ra cốc gần với truyền thống chai Nam Á."},
-    {"label": "Cho người hâm mộ chai đá cold brew", "offerId": "harney-sons-hot-cinnamon-spice", "reason": "Dominat quế mạnh mẽ và đẹp khi cold brew qua đêm trong sữa — tạo ra chai đá ngọt tự nhiên, mịn màng."},
-    {"label": "Cho chai latte ngày trong tuần nhanh", "offerId": "tazo-chai-concentrate", "reason": "Cô đặc rẻ nhất, có sẵn nhất — trộn với sữa nóng trong 60 giây."},
-    {"label": "Để tái tạo chai quán cà phê", "offerId": "oregon-chai-original-concentrate", "reason": "Hương vị ngọt cardamom gần nhất với vị chai latte quán cà phê — dùng 1:2 nếu tỷ lệ tiêu chuẩn quá ngọt."},
-    {"label": "Cho du lịch và tình huống không cần chuẩn bị", "offerId": "david-rio-elephant-vanilla-chai", "reason": "Bột tan trong bất kỳ sữa nóng nào — không cần làm lạnh, không cần pha, hoạt động ở bất cứ đâu."}
+    {
+      "label": "Cho người uống masala chai truyền thống",
+      "offerId": "rishi-masala-chai",
+      "reason": "Lá rời gia vị nguyên với nền Assam thật sự — lựa chọn duy nhất ở đây tạo ra cốc gần với truyền thống chai Nam Á."
+    },
+    {
+      "label": "Cho người hâm mộ chai đá cold brew",
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "reason": "Dominat quế mạnh mẽ và đẹp khi cold brew qua đêm trong sữa — tạo ra chai đá ngọt tự nhiên, mịn màng."
+    },
+    {
+      "label": "Cho chai latte ngày trong tuần nhanh",
+      "offerId": "tazo-chai-concentrate",
+      "reason": "Cô đặc rẻ nhất, có sẵn nhất — trộn với sữa nóng trong 60 giây."
+    },
+    {
+      "label": "Để tái tạo chai quán cà phê",
+      "offerId": "oregon-chai-original-concentrate",
+      "reason": "Hương vị ngọt cardamom gần nhất với vị chai latte quán cà phê — dùng 1:2 nếu tỷ lệ tiêu chuẩn quá ngọt."
+    },
+    {
+      "label": "Cho du lịch và tình huống không cần chuẩn bị",
+      "offerId": "david-rio-elephant-vanilla-chai",
+      "reason": "Bột tan trong bất kỳ sữa nóng nào — không cần làm lạnh, không cần pha, hoạt động ở bất cứ đâu."
+    }
   ]
 }

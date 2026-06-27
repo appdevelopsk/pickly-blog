@@ -153,36 +153,107 @@
       "offerId": "conoha-wing",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "ConoHa WING menawarkan onboarding WordPress tercepat di Jepang — 11 menit dari pendaftaran hingga situs HTTPS aktif. TTFB rata-rata 198ms selama 30 hari dari Tokyo, melampaui Xserver dan Lolipop. Kelemahannya: dukungan hanya via chat hari kerja, dan harga promosi berlipat ganda saat perpanjangan.",
-      "pros": ["WordPress aktif dalam 11 menit via かんたんセットアップ", "198ms TTFB — tercepat dalam perbandingan ini", "Backup otomatis harian 14 hari tanpa biaya tambahan"],
-      "cons": ["Dukungan chat hanya Senin–Jumat 10:00–18:00 — tidak ada telepon atau malam"],
+      "pros": [
+        "WordPress aktif dalam 11 menit via かんたんセットアップ",
+        "198ms TTFB — tercepat dalam perbandingan ini",
+        "Backup otomatis harian 14 hari tanpa biaya tambahan"
+      ],
+      "cons": [
+        "Dukungan chat hanya Senin–Jumat 10:00–18:00 — tidak ada telepon atau malam"
+      ],
       "grade": "A+",
-      "specs": {"TTFB (rata-rata 30 hari)": "198ms", "Waktu setup": "11 mnt 04 dtk", "Retensi backup": "14 hari", "Durasi kontrak": "1 / 12 / 36 bulan", "Domain gratis": "Ya (WINGパック)", "SSL": "Let's Encrypt gratis", "Pusat data": "Jepang"},
-      "scores": {"Performance": 4.8, "Value": 4.2, "Support quality": 3.2, "Ease of use": 4.9, "Uptime": 4.7}
+      "specs": {
+        "TTFB (rata-rata 30 hari)": "198ms",
+        "Waktu setup": "11 mnt 04 dtk",
+        "Retensi backup": "14 hari",
+        "Durasi kontrak": "1 / 12 / 36 bulan",
+        "Domain gratis": "Ya (WINGパック)",
+        "SSL": "Let's Encrypt gratis",
+        "Pusat data": "Jepang"
+      },
+      "scores": {
+        "Performa": 4.8,
+        "Nilai": 4.2,
+        "Kualitas Dukungan": 3.2,
+        "Kemudahan Penggunaan": 4.9,
+        "Waktu Aktif": 4.7
+      }
     },
     {
       "offerId": "xserver",
       "badge": "Dukungan Terbaik",
       "review": "Dukungan telepon 24/7 Xserver adalah perbedaan terbesar dari ConoHa WING — jika situs down pukul 2 pagi, Anda bisa menelepon. TTFB rata-rata 268ms dalam pengujian, sekitar 35% lebih lambat dari ConoHa. Harga sebanding, pilihan hampir sepenuhnya bergantung pada preferensi gaya dukungan.",
-      "pros": ["Dukungan telepon 24/7 — tidak ada host lain dalam perbandingan ini yang menawarkannya", "Rekam jejak uptime solid dengan sejarah operasi panjang", "WordPress dioptimalkan KUSANAGI untuk pengguna yang peduli performa"],
-      "cons": ["268ms TTFB — jauh lebih lambat dari ConoHa WING pada paket setara"],
+      "pros": [
+        "Dukungan telepon 24/7 — tidak ada host lain dalam perbandingan ini yang menawarkannya",
+        "Rekam jejak uptime solid dengan sejarah operasi panjang",
+        "WordPress dioptimalkan KUSANAGI untuk pengguna yang peduli performa"
+      ],
+      "cons": [
+        "268ms TTFB — jauh lebih lambat dari ConoHa WING pada paket setara"
+      ],
       "grade": "A",
-      "specs": {"TTFB (rata-rata 30 hari)": "268ms", "Telepon dukungan": "24/7", "Optimasi WordPress": "KUSANAGI", "Durasi kontrak": "1 / 6 / 12 / 24 / 36 bulan", "Domain gratis": "Ya (paket terpilih)", "SSL": "Let's Encrypt gratis", "Pusat data": "Jepang"},
-      "scores": {"Performance": 4.1, "Value": 4.0, "Support quality": 5.0, "Ease of use": 4.3, "Uptime": 4.9}
+      "specs": {
+        "TTFB (rata-rata 30 hari)": "268ms",
+        "Telepon dukungan": "24/7",
+        "Optimasi WordPress": "KUSANAGI",
+        "Durasi kontrak": "1 / 6 / 12 / 24 / 36 bulan",
+        "Domain gratis": "Ya (paket terpilih)",
+        "SSL": "Let's Encrypt gratis",
+        "Pusat data": "Jepang"
+      },
+      "scores": {
+        "Performa": 4.1,
+        "Nilai": 4,
+        "Kualitas Dukungan": 5,
+        "Kemudahan Penggunaan": 4.3,
+        "Waktu Aktif": 4.9
+      }
     },
     {
       "offerId": "lolipop-server",
       "badge": "Anggaran Terbaik",
       "review": "Paket Hi-Speed Lolipop adalah shared hosting lengkap termurah di Jepang, namun dengan TTFB 312ms menjadi yang paling lambat. Infrastruktur GMO yang sama dengan ConoHa WING, tetapi generasi hardware lebih lama. Ideal untuk blog hobi, portofolio, dan siapa pun yang memprioritaskan biaya bulanan di atas kecepatan.",
-      "pros": ["Harga bulanan terendah — paket Hi-Speed kelas ekonomis", "Perusahaan induk GMO yang sama dengan ConoHa WING — infrastruktur andal", "Titik awal yang baik untuk situs hobi dan blog traffic rendah"],
-      "cons": ["312ms TTFB — paling lambat dalam perbandingan dengan selisih yang terasa"],
+      "pros": [
+        "Harga bulanan terendah — paket Hi-Speed kelas ekonomis",
+        "Perusahaan induk GMO yang sama dengan ConoHa WING — infrastruktur andal",
+        "Titik awal yang baik untuk situs hobi dan blog traffic rendah"
+      ],
+      "cons": [
+        "312ms TTFB — paling lambat dalam perbandingan dengan selisih yang terasa"
+      ],
       "grade": "B+",
-      "specs": {"TTFB (rata-rata 30 hari)": "312ms", "Kelas paket": "Ekonomis", "Domain gratis": "Ya (Hi-Speed)", "SSL": "Let's Encrypt gratis", "Dukungan": "Chat & email", "Pusat data": "Jepang"},
-      "scores": {"Performance": 3.5, "Value": 4.9, "Support quality": 3.5, "Ease of use": 4.4, "Uptime": 4.5}
+      "specs": {
+        "TTFB (rata-rata 30 hari)": "312ms",
+        "Kelas paket": "Ekonomis",
+        "Domain gratis": "Ya (Hi-Speed)",
+        "SSL": "Let's Encrypt gratis",
+        "Dukungan": "Chat & email",
+        "Pusat data": "Jepang"
+      },
+      "scores": {
+        "Performa": 3.5,
+        "Nilai": 4.9,
+        "Kualitas Dukungan": 3.5,
+        "Kemudahan Penggunaan": 4.4,
+        "Waktu Aktif": 4.5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk blogger pertama kali di Jepang", "offerId": "conoha-wing", "reason": "Jalur tercepat dari nol ke WordPress aktif — satu formulir, satu tagihan, setup 11 menit."},
-    {"label": "Untuk bisnis yang butuh dukungan telepon 24/7", "offerId": "xserver", "reason": "Satu-satunya host dalam perbandingan ini dengan akses telepon sepanjang waktu untuk insiden darurat."},
-    {"label": "Untuk situs hobi dengan anggaran ketat", "offerId": "lolipop-server", "reason": "Paket Hi-Speed kelas ekonomis mencakup dasar-dasar tanpa membayar lebih untuk kecepatan yang mungkin tidak Anda butuhkan."}
+    {
+      "label": "Untuk blogger pertama kali di Jepang",
+      "offerId": "conoha-wing",
+      "reason": "Jalur tercepat dari nol ke WordPress aktif — satu formulir, satu tagihan, setup 11 menit."
+    },
+    {
+      "label": "Untuk bisnis yang butuh dukungan telepon 24/7",
+      "offerId": "xserver",
+      "reason": "Satu-satunya host dalam perbandingan ini dengan akses telepon sepanjang waktu untuk insiden darurat."
+    },
+    {
+      "label": "Untuk situs hobi dengan anggaran ketat",
+      "offerId": "lolipop-server",
+      "reason": "Paket Hi-Speed kelas ekonomis mencakup dasar-dasar tanpa membayar lebih untuk kecepatan yang mungkin tidak Anda butuhkan."
+    }
   ]
 }

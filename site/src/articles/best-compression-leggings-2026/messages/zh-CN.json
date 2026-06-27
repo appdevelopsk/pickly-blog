@@ -4,11 +4,31 @@
   "lede": "压缩紧身裤分为两类：轻压缩舒适感面料适合日常训练，以及分级医疗压缩专为提升耐力跑中静脉回流而设计。5款选品从入门到旗舰各价位，逐一核实各自承诺是否名副其实。",
   "methodology": "评测维度：压缩等级（轻/中/分级）及洗涤后的保持能力、氨纶含量、运动中腰带稳定性、面料重量与透气性，以及平缝或热压接缝工艺对摩擦风险的影响——以压缩持久性和耐用性为优先权重，外观设计次之。",
   "recommendedFor": [
-    {"label": "日常舒适训练之选", "offerId": "compression-leggings-lululemon-align", "reason": "Align的Nulu面料是本次测评中最柔软的训练紧身裤——「裸感」穿着减少长时间训练的热疲劳，腰带稳固不下移。"},
-    {"label": "专业跑步性能之选", "offerId": "compression-leggings-nike-epic-fast", "reason": "Epic Fast的网眼面板与紧贴式压缩专为跑步设计——反光元件在无需额外反光背心的情况下提升弱光能见度。"},
-    {"label": "耐力跑分级压缩之选", "offerId": "compression-leggings-cep-run", "reason": "CEP从脚踝到大腿中部的20–30 mmHg分级压缩是本次测评中唯一经临床校准的压缩——适合静脉功能不全跑者或跑后恢复需求。"},
-    {"label": "热天跑步之选", "offerId": "compression-leggings-adidas-own-the-run", "reason": "AEROREADY面料和侧边透气面板专为20°C以上的跑步设计——轻度压缩等级带来贴身的穿着感，又不会因热量积聚导致炎热天气下过早疲劳。"},
-    {"label": "运动科学支持的恢复压缩之选", "offerId": "compression-leggings-skins-series-3", "reason": "Skins Series-3的体型映射压缩使用身体测量算法进行个性化校准——在CEP之外最接近临床精度的选择。"}
+    {
+      "label": "日常舒适训练之选",
+      "offerId": "compression-leggings-lululemon-align",
+      "reason": "Align的Nulu面料是本次测评中最柔软的训练紧身裤——「裸感」穿着减少长时间训练的热疲劳，腰带稳固不下移。"
+    },
+    {
+      "label": "专业跑步性能之选",
+      "offerId": "compression-leggings-nike-epic-fast",
+      "reason": "Epic Fast的网眼面板与紧贴式压缩专为跑步设计——反光元件在无需额外反光背心的情况下提升弱光能见度。"
+    },
+    {
+      "label": "耐力跑分级压缩之选",
+      "offerId": "compression-leggings-cep-run",
+      "reason": "CEP从脚踝到大腿中部的20–30 mmHg分级压缩是本次测评中唯一经临床校准的压缩——适合静脉功能不全跑者或跑后恢复需求。"
+    },
+    {
+      "label": "热天跑步之选",
+      "offerId": "compression-leggings-adidas-own-the-run",
+      "reason": "AEROREADY面料和侧边透气面板专为20°C以上的跑步设计——轻度压缩等级带来贴身的穿着感，又不会因热量积聚导致炎热天气下过早疲劳。"
+    },
+    {
+      "label": "运动科学支持的恢复压缩之选",
+      "offerId": "compression-leggings-skins-series-3",
+      "reason": "Skins Series-3的体型映射压缩使用身体测量算法进行个性化校准——在CEP之外最接近临床精度的选择。"
+    }
   ],
   "sections": [
     {
@@ -67,51 +87,146 @@
       "offerId": "compression-leggings-lululemon-align",
       "badge": "最佳舒适感",
       "review": "Align的Nulu面料（尼龙81%，莱卡19%）是本次测评中最柔软的日常训练紧身裤——压缩轻盈到做瑜伽和轻度训练都毫无束缚感。高腰防滑内衬腰带在60–90分钟训练中稳定性最强。轻度压缩等级使其不适合高强度跑步对肌肉支撑的需求。",
-      "pros": ["Nulu面料提供本次测评中最轻柔的裸感体验", "高腰防滑腰带在90分钟训练全程保持平整不移位", "轻度压缩适合瑜伽、健身房和轻松跑"],
-      "cons": ["轻度压缩等级不足以支撑高强度跑步的肌肉需求"],
+      "pros": [
+        "Nulu面料提供本次测评中最轻柔的裸感体验",
+        "高腰防滑腰带在90分钟训练全程保持平整不移位",
+        "轻度压缩适合瑜伽、健身房和轻松跑"
+      ],
+      "cons": [
+        "轻度压缩等级不足以支撑高强度跑步的肌肉需求"
+      ],
       "grade": "A+",
-      "specs": {"Compression grade": "轻度（无mmHg规格）", "Fabric": "尼龙81%，莱卡19%（Nulu）", "Spandex equiv.": "~19%莱卡", "Waistband": "高腰，防滑内衬", "Fabric weight": "~143 GSM", "Price": "旗舰"},
-      "scores": {"Compression": 3.5, "Breathability": 4.2, "Waistband stability": 5.0, "Durability": 4.3, "Value": 3.5}
+      "specs": {
+        "Compression grade": "轻度（无mmHg规格）",
+        "Fabric": "尼龙81%，莱卡19%（Nulu）",
+        "Spandex equiv.": "~19%莱卡",
+        "Waistband": "高腰，防滑内衬",
+        "Fabric weight": "~143 GSM",
+        "Price": "旗舰"
+      },
+      "scores": {
+        "压缩": 3.5,
+        "透气性": 4.2,
+        "腰带稳定性": 5,
+        "耐久性": 4.3,
+        "价值": 3.5
+      }
     },
     {
       "offerId": "compression-leggings-nike-epic-fast",
       "badge": "最佳跑步款",
       "review": "Epic Fast更强的压缩感和网眼面板使其成为本次测评中最专业的跑步紧身裤。大腿背面和内侧小腿的网眼面板在18°C以上提供显著通风改善，同时不影响前侧大腿的压缩结构。反光元素对弱光跑步实用性强。腰带在60分钟以上长跑中稳定性不如Lululemon Align。",
-      "pros": ["大腿后侧和小腿内侧网眼面板提升热天透气性", "比Lululemon Align更强的跑步专用压缩", "反光元素对户外低光跑步有实际价值"],
-      "cons": ["腰带稳定性不如Align——超过60分钟可能需要调整一次"],
+      "pros": [
+        "大腿后侧和小腿内侧网眼面板提升热天透气性",
+        "比Lululemon Align更强的跑步专用压缩",
+        "反光元素对户外低光跑步有实际价值"
+      ],
+      "cons": [
+        "腰带稳定性不如Align——超过60分钟可能需要调整一次"
+      ],
       "grade": "A",
-      "specs": {"Compression grade": "中度（无mmHg规格）", "Fabric": "涤纶83%，氨纶17%，带网眼面板", "Mesh coverage": "大腿后侧 + 小腿内侧", "Waistband": "中高腰", "Reflective": "有", "Price": "中端"},
-      "scores": {"Compression": 4.0, "Breathability": 4.5, "Waistband stability": 4.0, "Durability": 4.2, "Value": 4.2}
+      "specs": {
+        "Compression grade": "中度（无mmHg规格）",
+        "Fabric": "涤纶83%，氨纶17%，带网眼面板",
+        "Mesh coverage": "大腿后侧 + 小腿内侧",
+        "Waistband": "中高腰",
+        "Reflective": "有",
+        "Price": "中端"
+      },
+      "scores": {
+        "压缩": 4,
+        "透气性": 4.5,
+        "腰带稳定性": 4,
+        "耐久性": 4.2,
+        "价值": 4.2
+      }
     },
     {
       "offerId": "compression-leggings-cep-run",
       "badge": "最佳分级压缩",
       "review": "CEP Run 3.0的20–30 mmHg分级压缩是本次测评中唯一经临床校准的压缩——脚踝处压力最大，向大腿逐渐递减——与同行评审恢复研究所用规格一致。对于有静脉功能不全或跑后浮肿的跑者，这是有循证依据的规格。尺码需要脚踝围和身高测量，而非标准S/M/L。",
-      "pros": ["20–30 mmHg分级压缩与同行评审恢复研究规格一致", "临床校准：脚踝压力更大，大腿处递减", "有循证依据：跑后24–48小时肌肉酸痛显著减轻"],
-      "cons": ["需测量脚踝围和身高以确定正确尺码——非标准S/M/L"],
+      "pros": [
+        "20–30 mmHg分级压缩与同行评审恢复研究规格一致",
+        "临床校准：脚踝压力更大，大腿处递减",
+        "有循证依据：跑后24–48小时肌肉酸痛显著减轻"
+      ],
+      "cons": [
+        "需测量脚踝围和身高以确定正确尺码——非标准S/M/L"
+      ],
       "grade": "A",
-      "specs": {"Compression grade": "20–30 mmHg分级", "Fabric": "聚酰胺弹性纤维混纺", "Compression calibration": "脚踝 > 小腿 > 大腿", "Sizing method": "脚踝围 + 身高", "Use case": "跑步 + 跑后恢复", "Price": "高端"},
-      "scores": {"Compression": 5.0, "Breathability": 3.8, "Waistband stability": 4.2, "Durability": 4.5, "Value": 3.8}
+      "specs": {
+        "Compression grade": "20–30 mmHg分级",
+        "Fabric": "聚酰胺弹性纤维混纺",
+        "Compression calibration": "脚踝 > 小腿 > 大腿",
+        "Sizing method": "脚踝围 + 身高",
+        "Use case": "跑步 + 跑后恢复",
+        "Price": "高端"
+      },
+      "scores": {
+        "压缩": 5,
+        "透气性": 3.8,
+        "腰带稳定性": 4.2,
+        "耐久性": 4.5,
+        "价值": 3.8
+      }
     },
     {
       "offerId": "compression-leggings-adidas-own-the-run",
       "badge": "最佳热天款",
       "review": "Own The Run的AEROREADY面料和侧边通风面板专为20°C以上跑步设计。轻度压缩等级在无热量积聚的情况下提供贴合训练感。腰带高度低于竞品，部分跑者觉得长跑舒适性有所欠缺。价格是本次测评中最实惠的。",
-      "pros": ["AEROREADY面料和侧边通风专为热天跑步设计", "轻度压缩减少热量积聚，优于高等级替代品", "本次测评中价格最为亲民"],
-      "cons": ["轻度压缩不足以支撑高强度跑步肌肉需求；腰带位置低于竞品"],
+      "pros": [
+        "AEROREADY面料和侧边通风专为热天跑步设计",
+        "轻度压缩减少热量积聚，优于高等级替代品",
+        "本次测评中价格最为亲民"
+      ],
+      "cons": [
+        "轻度压缩不足以支撑高强度跑步肌肉需求；腰带位置低于竞品"
+      ],
       "grade": "B+",
-      "specs": {"Compression grade": "轻度（无mmHg规格）", "Fabric": "AEROREADY涤纶混纺含通风面板", "Spandex": "~20%", "Waistband": "中腰", "Target temp": "18–28°C跑步", "Price": "入门"},
-      "scores": {"Compression": 3.2, "Breathability": 4.8, "Waistband stability": 3.8, "Durability": 4.0, "Value": 4.5}
+      "specs": {
+        "Compression grade": "轻度（无mmHg规格）",
+        "Fabric": "AEROREADY涤纶混纺含通风面板",
+        "Spandex": "~20%",
+        "Waistband": "中腰",
+        "Target temp": "18–28°C跑步",
+        "Price": "入门"
+      },
+      "scores": {
+        "压缩": 3.2,
+        "透气性": 4.8,
+        "腰带稳定性": 3.8,
+        "耐久性": 4,
+        "价值": 4.5
+      }
     },
     {
       "offerId": "compression-leggings-skins-series-3",
       "badge": "最佳体型映射贴合",
       "review": "Skins Series-3使用身体测量数据（腰围、臀围、大腿围、小腿围）而非标准尺码来校准压缩，以适应每个人的腿型——是量身定制压缩服以外最接近个性化贴合的选择。约15–18 mmHg分级压缩介于普通舒适压缩和CEP临床范围之间。适合重视循证压缩的耐力跑者和铁人三项运动员。",
-      "pros": ["身体测量尺码系统将压缩校准至个人腿型", "约15–18 mmHg分级压缩——高于标准舒适压缩", "专为耐力跑和跑后恢复设计"],
-      "cons": ["需要精确的身体测量——测量有误会导致压缩等级不准确"],
+      "pros": [
+        "身体测量尺码系统将压缩校准至个人腿型",
+        "约15–18 mmHg分级压缩——高于标准舒适压缩",
+        "专为耐力跑和跑后恢复设计"
+      ],
+      "cons": [
+        "需要精确的身体测量——测量有误会导致压缩等级不准确"
+      ],
       "grade": "B+",
-      "specs": {"Compression grade": "~15–18 mmHg分级", "Fabric": "尼龙弹性纤维混纺", "Sizing method": "腰围、臀围、大腿围、小腿围", "Compression profile": "脚踝至大腿分级递减", "Target user": "耐力跑者、铁人三项运动员", "Price": "高端"},
-      "scores": {"Compression": 4.5, "Breathability": 4.0, "Waistband stability": 4.3, "Durability": 4.4, "Value": 3.9}
+      "specs": {
+        "Compression grade": "~15–18 mmHg分级",
+        "Fabric": "尼龙弹性纤维混纺",
+        "Sizing method": "腰围、臀围、大腿围、小腿围",
+        "Compression profile": "脚踝至大腿分级递减",
+        "Target user": "耐力跑者、铁人三项运动员",
+        "Price": "高端"
+      },
+      "scores": {
+        "压缩": 4.5,
+        "透气性": 4,
+        "腰带稳定性": 4.3,
+        "耐久性": 4.4,
+        "价值": 3.9
+      }
     }
   ]
 }

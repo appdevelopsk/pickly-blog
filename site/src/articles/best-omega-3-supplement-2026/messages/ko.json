@@ -97,10 +97,10 @@
         "Certifications": "IFOS 5성"
       },
       "scores": {
-        "Purity": 5.0,
-        "Bioavailability": 4.9,
-        "Value": 3.8,
-        "Certifications": 5.0
+        "순도": 5,
+        "생물이용률": 4.9,
+        "가성비": 3.8,
+        "인증": 5
       }
     },
     {
@@ -125,10 +125,10 @@
         "Certifications": "NSF Certified for Sport"
       },
       "scores": {
-        "Purity": 5.0,
-        "EPA Dose": 5.0,
-        "Value": 3.5,
-        "Certifications": 5.0
+        "순도": 5,
+        "EPA 용량": 5,
+        "가성비": 3.5,
+        "인증": 5
       }
     },
     {
@@ -153,10 +153,10 @@
         "Certifications": "제3자 검사"
       },
       "scores": {
-        "Purity": 4.8,
-        "Freshness": 5.0,
-        "Value": 4.2,
-        "Certifications": 4.0
+        "순도": 4.8,
+        "신선도": 5,
+        "가성비": 4.2,
+        "인증": 4
       }
     },
     {
@@ -180,10 +180,10 @@
         "Supply": "30일"
       },
       "scores": {
-        "Purity": 4.5,
-        "Convenience": 5.0,
-        "Value": 4.3,
-        "Japan Availability": 5.0
+        "순도": 4.5,
+        "편의성": 5,
+        "가성비": 4.3,
+        "일본 가용성": 5
       }
     },
     {
@@ -208,10 +208,10 @@
         "Certifications": "IFOS 5성"
       },
       "scores": {
-        "Purity": 4.8,
-        "Value": 5.0,
-        "Aftertaste": 4.9,
-        "Certifications": 4.8
+        "순도": 4.8,
+        "가성비": 5,
+        "후미": 4.9,
+        "인증": 4.8
       }
     }
   ],

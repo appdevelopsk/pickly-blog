@@ -4,11 +4,31 @@
   "lede": "Legging kompresi terbagi menjadi dua kegunaan: pakaian kompresi ringan berasa lembut untuk kenyamanan latihan, dan pakaian kompresi medis bertahap yang dirancang untuk meningkatkan aliran balik vena saat lari jarak jauh. Lima pilihan dari Rp950.000 hingga Rp2.050.000, dibandingkan berdasarkan janji yang benar-benar terpenuhi.",
   "methodology": "Legging dinilai berdasarkan grade kompresi (ringan/sedang/bertahap), persentase spandex dan cara konstruksi mempertahankan grade tersebut melalui siklus pencucian, stabilitas pinggang saat bergerak, berat kain dan kemampuan bernapas untuk penggunaan yang ditentukan, serta konstruksi jahitan rata atau bonded untuk menilai risiko gesekan — dengan bobot lebih pada integritas kompresi dan ketahanan daripada estetika.",
   "recommendedFor": [
-    {"label": "Untuk latihan harian yang nyaman", "offerId": "compression-leggings-lululemon-align", "reason": "Kain Nulu Align adalah legging latihan paling lembut dalam perbandingan ini — rasa 'telanjang' mengurangi kelelahan termal pada sesi panjang, dan pinggang tetap di posisinya tanpa melorot."},
-    {"label": "Untuk performa lari khusus", "offerId": "compression-leggings-nike-epic-fast", "reason": "Panel mesh dan fit kompresi ketat Epic Fast dirancang khusus untuk berlari — elemen reflektif menambah visibilitas cahaya redup tanpa bobot rompi reflektif terpisah."},
-    {"label": "Untuk kompresi bertahap saat lari jarak jauh", "offerId": "compression-leggings-cep-run", "reason": "Kompresi bertahap 20–30 mmHg CEP dari pergelangan kaki hingga pertengahan paha adalah satu-satunya kompresi yang dikalibrasi secara klinis dalam perbandingan ini."},
-    {"label": "Untuk lari di cuaca panas", "offerId": "compression-leggings-adidas-own-the-run", "reason": "Bahan AEROREADY dan panel ventilasi samping dirancang untuk berlari di atas 20°C — tingkat kompresi ringan memberi rasa pas di tubuh tanpa penumpukan panas yang memicu kelelahan dini saat cuaca panas."},
-    {"label": "Untuk kompresi pemulihan dengan dukungan ilmu olahraga", "offerId": "compression-leggings-skins-series-3", "reason": "Kompresi body-mapping Skins Series-3 menggunakan algoritma pengukuran tubuh untuk mengkalibrasi kompresi secara individual — paling mendekati presisi klinis di luar CEP."}
+    {
+      "label": "Untuk latihan harian yang nyaman",
+      "offerId": "compression-leggings-lululemon-align",
+      "reason": "Kain Nulu Align adalah legging latihan paling lembut dalam perbandingan ini — rasa 'telanjang' mengurangi kelelahan termal pada sesi panjang, dan pinggang tetap di posisinya tanpa melorot."
+    },
+    {
+      "label": "Untuk performa lari khusus",
+      "offerId": "compression-leggings-nike-epic-fast",
+      "reason": "Panel mesh dan fit kompresi ketat Epic Fast dirancang khusus untuk berlari — elemen reflektif menambah visibilitas cahaya redup tanpa bobot rompi reflektif terpisah."
+    },
+    {
+      "label": "Untuk kompresi bertahap saat lari jarak jauh",
+      "offerId": "compression-leggings-cep-run",
+      "reason": "Kompresi bertahap 20–30 mmHg CEP dari pergelangan kaki hingga pertengahan paha adalah satu-satunya kompresi yang dikalibrasi secara klinis dalam perbandingan ini."
+    },
+    {
+      "label": "Untuk lari di cuaca panas",
+      "offerId": "compression-leggings-adidas-own-the-run",
+      "reason": "Bahan AEROREADY dan panel ventilasi samping dirancang untuk berlari di atas 20°C — tingkat kompresi ringan memberi rasa pas di tubuh tanpa penumpukan panas yang memicu kelelahan dini saat cuaca panas."
+    },
+    {
+      "label": "Untuk kompresi pemulihan dengan dukungan ilmu olahraga",
+      "offerId": "compression-leggings-skins-series-3",
+      "reason": "Kompresi body-mapping Skins Series-3 menggunakan algoritma pengukuran tubuh untuk mengkalibrasi kompresi secara individual — paling mendekati presisi klinis di luar CEP."
+    }
   ],
   "sections": [
     {
@@ -67,51 +87,146 @@
       "offerId": "compression-leggings-lululemon-align",
       "badge": "Kenyamanan Terbaik",
       "review": "Kain Nulu Align (nylon 81%, Lycra 19%) adalah legging latihan harian paling lembut dalam perbandingan ini — kompresinya cukup ringan untuk yoga dan latihan ringan tanpa terasa membatasi. Pinggang potongan tinggi dengan interior bergerigi paling stabil di antara semua legging di sini pada sesi 60–90 menit. Grade kompresi ringan membuatnya kurang cocok untuk lari intensitas tinggi.",
-      "pros": ["Kain Nulu memberikan rasa 'telanjang' paling lembut di antara semua legging di sini", "Pinggang tinggi bergerigi tetap rata sepanjang sesi 90 menit", "Kompresi ringan cocok untuk yoga, gym, dan lari santai"],
-      "cons": ["Grade kompresi ringan tidak cukup untuk dukungan otot pada lari intensitas tinggi"],
+      "pros": [
+        "Kain Nulu memberikan rasa 'telanjang' paling lembut di antara semua legging di sini",
+        "Pinggang tinggi bergerigi tetap rata sepanjang sesi 90 menit",
+        "Kompresi ringan cocok untuk yoga, gym, dan lari santai"
+      ],
+      "cons": [
+        "Grade kompresi ringan tidak cukup untuk dukungan otot pada lari intensitas tinggi"
+      ],
       "grade": "A+",
-      "specs": {"Compression grade": "Ringan (tidak ada spesifikasi mmHg)", "Fabric": "Nylon 81%, Lycra 19% (Nulu)", "Spandex equiv.": "~19% Lycra", "Waistband": "Potongan tinggi, interior bergerigi", "Fabric weight": "~143 GSM", "Price": "~Rp2.050.000"},
-      "scores": {"Compression": 3.5, "Breathability": 4.2, "Waistband stability": 5.0, "Durability": 4.3, "Value": 3.5}
+      "specs": {
+        "Compression grade": "Ringan (tidak ada spesifikasi mmHg)",
+        "Fabric": "Nylon 81%, Lycra 19% (Nulu)",
+        "Spandex equiv.": "~19% Lycra",
+        "Waistband": "Potongan tinggi, interior bergerigi",
+        "Fabric weight": "~143 GSM",
+        "Price": "~Rp2.050.000"
+      },
+      "scores": {
+        "Kompresi": 3.5,
+        "Daya Respiras": 4.2,
+        "Stabilitas Ikat Pinggang": 5,
+        "Ketahanan": 4.3,
+        "Nilai": 3.5
+      }
     },
     {
       "offerId": "compression-leggings-nike-epic-fast",
       "badge": "Terbaik untuk Lari",
       "review": "Kompresi lebih kuat dan panel mesh Epic Fast menjadikannya legging paling khusus lari dalam perbandingan ini. Panel mesh di bagian belakang paha dan betis bagian dalam memberikan peningkatan aliran udara nyata di atas 18°C tanpa mengorbankan struktur kompresi depan paha. Elemen reflektif praktis untuk berlari dalam cahaya redup. Pinggang kurang stabil dari Lululemon Align pada lari lebih dari 60 menit.",
-      "pros": ["Panel mesh di paha belakang dan betis dalam meningkatkan kemampuan bernapas di cuaca panas", "Kompresi lari yang lebih kuat dari Lululemon Align", "Elemen reflektif praktis untuk lari outdoor dalam cahaya redup"],
-      "cons": ["Pinggang kurang stabil dari Align — mungkin perlu penyesuaian setelah 60+ menit"],
+      "pros": [
+        "Panel mesh di paha belakang dan betis dalam meningkatkan kemampuan bernapas di cuaca panas",
+        "Kompresi lari yang lebih kuat dari Lululemon Align",
+        "Elemen reflektif praktis untuk lari outdoor dalam cahaya redup"
+      ],
+      "cons": [
+        "Pinggang kurang stabil dari Align — mungkin perlu penyesuaian setelah 60+ menit"
+      ],
       "grade": "A",
-      "specs": {"Compression grade": "Sedang (tidak ada spesifikasi mmHg)", "Fabric": "Polyester 83%, spandex 17% dengan panel mesh", "Mesh coverage": "Paha belakang + betis dalam", "Waistband": "Potongan sedang hingga tinggi", "Reflective": "Ya", "Price": "~Rp1.440.000"},
-      "scores": {"Compression": 4.0, "Breathability": 4.5, "Waistband stability": 4.0, "Durability": 4.2, "Value": 4.2}
+      "specs": {
+        "Compression grade": "Sedang (tidak ada spesifikasi mmHg)",
+        "Fabric": "Polyester 83%, spandex 17% dengan panel mesh",
+        "Mesh coverage": "Paha belakang + betis dalam",
+        "Waistband": "Potongan sedang hingga tinggi",
+        "Reflective": "Ya",
+        "Price": "~Rp1.440.000"
+      },
+      "scores": {
+        "Kompresi": 4,
+        "Daya Respiras": 4.5,
+        "Stabilitas Ikat Pinggang": 4,
+        "Ketahanan": 4.2,
+        "Nilai": 4.2
+      }
     },
     {
       "offerId": "compression-leggings-cep-run",
       "badge": "Kompresi Bertahap Terbaik",
       "review": "Kompresi bertahap 20–30 mmHg CEP Run 3.0 adalah satu-satunya yang dikalibrasi secara klinis dalam perbandingan ini — lebih banyak di pergelangan kaki, semakin berkurang di paha — sesuai dengan spesifikasi yang digunakan dalam penelitian pemulihan peer-reviewed. Untuk pelari yang mengelola insufisiensi vena atau pembengkakan pasca-lari, ini adalah spesifikasi yang didukung penelitian. Penentuan ukuran memerlukan lingkar pergelangan kaki dan tinggi badan, bukan S/M/L standar.",
-      "pros": ["Kompresi bertahap 20–30 mmHg sesuai spesifikasi penelitian pemulihan peer-reviewed", "Kalibrasi klinis: kompresi lebih banyak di pergelangan kaki, lebih sedikit di paha", "Dukungan penelitian untuk pengurangan nyeri otot pada 24–48 jam"],
-      "cons": ["Memerlukan pengukuran lingkar pergelangan kaki dan tinggi badan untuk ukuran yang tepat — bukan S/M/L standar"],
+      "pros": [
+        "Kompresi bertahap 20–30 mmHg sesuai spesifikasi penelitian pemulihan peer-reviewed",
+        "Kalibrasi klinis: kompresi lebih banyak di pergelangan kaki, lebih sedikit di paha",
+        "Dukungan penelitian untuk pengurangan nyeri otot pada 24–48 jam"
+      ],
+      "cons": [
+        "Memerlukan pengukuran lingkar pergelangan kaki dan tinggi badan untuk ukuran yang tepat — bukan S/M/L standar"
+      ],
       "grade": "A",
-      "specs": {"Compression grade": "20–30 mmHg bertahap", "Fabric": "Campuran polyamide-elastane", "Compression calibration": "Pergelangan kaki > betis > paha", "Sizing method": "Lingkar pergelangan kaki + tinggi badan", "Use case": "Lari + pemulihan pasca-lari", "Price": "~Rp2.080.000"},
-      "scores": {"Compression": 5.0, "Breathability": 3.8, "Waistband stability": 4.2, "Durability": 4.5, "Value": 3.8}
+      "specs": {
+        "Compression grade": "20–30 mmHg bertahap",
+        "Fabric": "Campuran polyamide-elastane",
+        "Compression calibration": "Pergelangan kaki > betis > paha",
+        "Sizing method": "Lingkar pergelangan kaki + tinggi badan",
+        "Use case": "Lari + pemulihan pasca-lari",
+        "Price": "~Rp2.080.000"
+      },
+      "scores": {
+        "Kompresi": 5,
+        "Daya Respiras": 3.8,
+        "Stabilitas Ikat Pinggang": 4.2,
+        "Ketahanan": 4.5,
+        "Nilai": 3.8
+      }
     },
     {
       "offerId": "compression-leggings-adidas-own-the-run",
       "badge": "Terbaik untuk Cuaca Panas",
       "review": "Kain AEROREADY dan panel ventilasi samping Own The Run dirancang untuk berlari di suhu di atas 20°C. Grade kompresi ringan memberikan rasa latihan ketat tanpa akumulasi panas dari alternatif kompresi lebih tinggi. Pinggang lebih rendah dari pesaing, yang beberapa pelari anggap kurang nyaman untuk lari panjang. Harganya paling terjangkau dalam perbandingan ini.",
-      "pros": ["Kain AEROREADY dan ventilasi samping untuk lari di cuaca panas", "Kompresi ringan mengurangi akumulasi panas dibanding alternatif grade lebih tinggi", "Harga paling terjangkau dalam perbandingan ini"],
-      "cons": ["Kompresi ringan tidak cukup untuk dukungan otot pada intensitas tinggi; pinggang lebih rendah dari pesaing"],
+      "pros": [
+        "Kain AEROREADY dan ventilasi samping untuk lari di cuaca panas",
+        "Kompresi ringan mengurangi akumulasi panas dibanding alternatif grade lebih tinggi",
+        "Harga paling terjangkau dalam perbandingan ini"
+      ],
+      "cons": [
+        "Kompresi ringan tidak cukup untuk dukungan otot pada intensitas tinggi; pinggang lebih rendah dari pesaing"
+      ],
       "grade": "B+",
-      "specs": {"Compression grade": "Ringan (tidak ada spesifikasi mmHg)", "Fabric": "Campuran polyester AEROREADY dengan panel ventilasi", "Spandex": "~20%", "Waistband": "Potongan sedang", "Target temp": "18–28°C berlari", "Price": "~Rp1.040.000"},
-      "scores": {"Compression": 3.2, "Breathability": 4.8, "Waistband stability": 3.8, "Durability": 4.0, "Value": 4.5}
+      "specs": {
+        "Compression grade": "Ringan (tidak ada spesifikasi mmHg)",
+        "Fabric": "Campuran polyester AEROREADY dengan panel ventilasi",
+        "Spandex": "~20%",
+        "Waistband": "Potongan sedang",
+        "Target temp": "18–28°C berlari",
+        "Price": "~Rp1.040.000"
+      },
+      "scores": {
+        "Kompresi": 3.2,
+        "Daya Respiras": 4.8,
+        "Stabilitas Ikat Pinggang": 3.8,
+        "Ketahanan": 4,
+        "Nilai": 4.5
+      }
     },
     {
       "offerId": "compression-leggings-skins-series-3",
       "badge": "Fit Body-Mapping Terbaik",
       "review": "Skins Series-3 menggunakan pengukuran tubuh (pinggang, pinggul, paha, betis) daripada ukuran standar untuk mengkalibrasi kompresi pada bentuk kaki individual — paling mendekati fit personal di luar pakaian kompresi pesanan. Kompresi bertahap sekitar 15–18 mmHg berada antara kompresi kenyamanan umum dan kisaran klinis CEP. Cocok untuk pelari jarak jauh dan triatlion yang memprioritaskan kompresi berbasis ilmu.",
-      "pros": ["Sistem ukuran pengukuran tubuh mengkalibrasi kompresi pada bentuk kaki individual", "Kompresi bertahap ~15–18 mmHg — di atas kompresi kenyamanan standar", "Dirancang untuk lari jarak jauh dan pemulihan pasca-lari"],
-      "cons": ["Memerlukan pengukuran tubuh yang akurat — pengukuran salah menghasilkan grade kompresi salah"],
+      "pros": [
+        "Sistem ukuran pengukuran tubuh mengkalibrasi kompresi pada bentuk kaki individual",
+        "Kompresi bertahap ~15–18 mmHg — di atas kompresi kenyamanan standar",
+        "Dirancang untuk lari jarak jauh dan pemulihan pasca-lari"
+      ],
+      "cons": [
+        "Memerlukan pengukuran tubuh yang akurat — pengukuran salah menghasilkan grade kompresi salah"
+      ],
       "grade": "B+",
-      "specs": {"Compression grade": "~15–18 mmHg bertahap", "Fabric": "Campuran nylon-elastane", "Sizing method": "Lingkar pinggang, pinggul, paha, betis", "Compression profile": "Bertahap dari pergelangan kaki ke paha", "Target user": "Pelari jarak jauh, triatlion", "Price": "~Rp1.760.000"},
-      "scores": {"Compression": 4.5, "Breathability": 4.0, "Waistband stability": 4.3, "Durability": 4.4, "Value": 3.9}
+      "specs": {
+        "Compression grade": "~15–18 mmHg bertahap",
+        "Fabric": "Campuran nylon-elastane",
+        "Sizing method": "Lingkar pinggang, pinggul, paha, betis",
+        "Compression profile": "Bertahap dari pergelangan kaki ke paha",
+        "Target user": "Pelari jarak jauh, triatlion",
+        "Price": "~Rp1.760.000"
+      },
+      "scores": {
+        "Kompresi": 4.5,
+        "Daya Respiras": 4,
+        "Stabilitas Ikat Pinggang": 4.3,
+        "Ketahanan": 4.4,
+        "Nilai": 3.9
+      }
     }
   ]
 }

@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
+        "Sabor": 4.7,
         "Sourcing": 4.8,
-        "Value": 4.7,
-        "Texture": 4.8,
-        "Nutrition": 5
+        "Valor": 4.7,
+        "Textura": 4.8,
+        "Nutrição": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
+        "Sabor": 4.4,
         "Sourcing": 4,
-        "Value": 4.4,
-        "Texture": 4,
-        "Nutrition": 4.7
+        "Valor": 4.4,
+        "Textura": 4,
+        "Nutrição": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
+        "Sabor": 4.6,
         "Sourcing": 4.2,
-        "Value": 4.1,
-        "Texture": 4.2,
-        "Nutrition": 4.4
+        "Valor": 4.1,
+        "Textura": 4.2,
+        "Nutrição": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
+        "Sabor": 3.8,
         "Sourcing": 3.9,
-        "Value": 3.8,
-        "Texture": 3.4,
-        "Nutrition": 4.1
+        "Valor": 3.8,
+        "Textura": 3.4,
+        "Nutrição": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
+        "Sabor": 4,
         "Sourcing": 3.6,
-        "Value": 4,
-        "Texture": 3.6,
-        "Nutrition": 3.8
+        "Valor": 4,
+        "Textura": 3.6,
+        "Nutrição": 3.8
       }
     }
   ],
-  "methodology": "Avaliamos cada produto pelo perfil de sabor, transparência da procedência, custo-benefício por porção, integridade da embalagem e desempenho nos casos de uso mais comuns. Certificações documentadas e avaliações verificadas de usuários foram comparadas com as alegações de marketing."
+  "methodology": "Avaliamos cada produto pelo perfil de sabor, transparência da procedência, custo-benefício por porção, integridade da embalagem e desempenho nos casos de uso mais comuns. Certificações documentadas e avaliações verificadas de usuários foram comparadas com as alegações de marketing.",
+  "recommendedFor": [
+    {
+      "label": "Para passar rápido no dia a dia",
+      "offerId": "justins-classic-almond-butter",
+      "reason": "Ideal para casas corridas que querem uma pasta cremosa sem mexer e com apenas dois ingredientes."
+    },
+    {
+      "label": "Para cozinhar com textura macia",
+      "offerId": "barney-bare-almond-butter",
+      "reason": "Melhor para quem prefere uma pasta mais lisa e suave, fácil de integrar em receitas doces e salgadas."
+    },
+    {
+      "label": "Para quem evita óleo de palma",
+      "offerId": "wild-friends-almond-butter",
+      "reason": "Ótima para quem evita óleo de palma e quer um pote orgânico limpo moído na pedra."
+    },
+    {
+      "label": "Para fãs de comida crua",
+      "offerId": "artisana-organic-almond-butter",
+      "reason": "Perfeita para amantes de raw food que buscam sabor intenso e complexo com máxima densidade nutricional."
+    },
+    {
+      "label": "Para o uso diário sem complicação",
+      "offerId": "maranatha-no-stir-almond-butter",
+      "reason": "Indicada para quem quer uma pasta uniforme e prática que não precisa ser mexida."
+    }
+  ]
 }

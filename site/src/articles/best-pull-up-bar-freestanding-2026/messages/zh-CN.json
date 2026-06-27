@@ -96,58 +96,178 @@
       "offerId": "fitness-reality-x2-power-tower",
       "badge": "最佳综合",
       "review": "Fitness Reality X2 以 110×130 厘米的占地、能让它成为多数家庭健身房正确起点的价格，提供四个训练站——单杠、臂屈伸站、俯卧撑手柄、带衬垫 VKR。3.8 厘米方管框架在同价位下明显比圆管设计更刚性。228 厘米横杠高度为身高 185 厘米以内的用户提供死悬垂空隙。VKR 臂托和臂屈伸手柄足够用，但在长组中并非最舒适——Weider 在两者上都有改进。",
-      "pros": ["四站设计在一台设备中涵盖单杠、臂屈伸、俯卧撑和 VKR", "3.8 厘米方管框架在该价位档中刚性十足", "228 厘米横杠高度覆盖约 185 厘米以内用户无需屈膝"],
-      "cons": ["VKR 臂托衬垫比 Weider 薄——在长悬垂举腿组中可察觉"],
+      "pros": [
+        "四站设计在一台设备中涵盖单杠、臂屈伸、俯卧撑和 VKR",
+        "3.8 厘米方管框架在该价位档中刚性十足",
+        "228 厘米横杠高度覆盖约 185 厘米以内用户无需屈膝"
+      ],
+      "cons": [
+        "VKR 臂托衬垫比 Weider 薄——在长悬垂举腿组中可察觉"
+      ],
       "grade": "A+",
-      "specs": {"Stations": "4（单杠、臂屈伸、俯卧撑、VKR）", "Base footprint": "110×130 厘米", "Bar height": "约 228 厘米（固定）", "Load capacity": "静态 136 公斤", "Frame": "3.8 厘米方管钢", "Price": "$140", "Assembly time": "约 60–90 分钟"},
-      "scores": {"Stability": 4.5, "Load capacity": 4.4, "Footprint": 3.8, "Value": 4.9, "Versatility": 4.7}
+      "specs": {
+        "Stations": "4（单杠、臂屈伸、俯卧撑、VKR）",
+        "Base footprint": "110×130 厘米",
+        "Bar height": "约 228 厘米（固定）",
+        "Load capacity": "静态 136 公斤",
+        "Frame": "3.8 厘米方管钢",
+        "Price": "$140",
+        "Assembly time": "约 60–90 分钟"
+      },
+      "scores": {
+        "稳定性": 4.5,
+        "负荷容量": 4.4,
+        "占用面积": 3.8,
+        "价值": 4.9,
+        "多功能性": 4.7
+      }
     },
     {
       "offerId": "power-tower-workout-dip-station",
       "badge": "最佳紧凑",
       "review": "Yaheetech 力量塔把与 Fitness Reality X2 相同的四个站塞进 95×110 厘米的占地——本次对比中最小的力量塔。横杠高度通过预设孔可调至 220 厘米，150 公斤额定值为本次对比中最高。VKR 臂托衬垫比 X2 薄，固定宽度的臂屈伸手柄对宽肩用户可能略窄。当房间每一平方厘米都重要时的最佳之选。",
-      "pros": ["本次对比中最小力量塔占地，95×110 厘米", "150 公斤静态承重额定——此处任何设备中最高", "通过预设位置横杠高度可调至 220 厘米"],
-      "cons": ["VKR 臂托衬垫比 Fitness Reality X2 和 Weider 薄"],
+      "pros": [
+        "本次对比中最小力量塔占地，95×110 厘米",
+        "150 公斤静态承重额定——此处任何设备中最高",
+        "通过预设位置横杠高度可调至 220 厘米"
+      ],
+      "cons": [
+        "VKR 臂托衬垫比 Fitness Reality X2 和 Weider 薄"
+      ],
       "grade": "A",
-      "specs": {"Stations": "4（单杠、臂屈伸、俯卧撑、VKR）", "Base footprint": "95×110 厘米", "Bar height": "至约 220 厘米（可调）", "Load capacity": "静态 150 公斤", "Frame": "圆管钢", "Price": "$199.99", "Assembly time": "约 60 分钟"},
-      "scores": {"Stability": 4.3, "Load capacity": 4.7, "Footprint": 4.9, "Value": 4.6, "Versatility": 4.5}
+      "specs": {
+        "Stations": "4（单杠、臂屈伸、俯卧撑、VKR）",
+        "Base footprint": "95×110 厘米",
+        "Bar height": "至约 220 厘米（可调）",
+        "Load capacity": "静态 150 公斤",
+        "Frame": "圆管钢",
+        "Price": "$199.99",
+        "Assembly time": "约 60 分钟"
+      },
+      "scores": {
+        "稳定性": 4.3,
+        "负荷容量": 4.7,
+        "占用面积": 4.9,
+        "价值": 4.6,
+        "多功能性": 4.5
+      }
     },
     {
       "offerId": "cap-barbell-freestanding-pull-up-bar",
       "badge": "最佳纯引体",
       "review": "CAP Barbell 是一台不带臂屈伸或 VKR 的独立单杠站——这使它以 97×60 厘米成为本次对比中深度最小的设备。A 形外伸底座为严格死悬垂引体向上提供比矩形底座力量塔更好的横向稳定性，因为用户悬挂在宽底座的中央，而非窄底座的边缘。218 厘米固定横杠，内置多种握法。如果你想给计划加入臂屈伸或 VKR，则不是它。",
-      "pros": ["深度占地最小，97×60 厘米——可放进力量塔放不下的空间", "A 形底座产生比矩形底座设计更好的横向稳定性", "多种握位：宽距正握和中立位平行"],
-      "cons": ["无臂屈伸站、俯卧撑手柄或 VKR——仅引体向上"],
+      "pros": [
+        "深度占地最小，97×60 厘米——可放进力量塔放不下的空间",
+        "A 形底座产生比矩形底座设计更好的横向稳定性",
+        "多种握位：宽距正握和中立位平行"
+      ],
+      "cons": [
+        "无臂屈伸站、俯卧撑手柄或 VKR——仅引体向上"
+      ],
       "grade": "B+",
-      "specs": {"Stations": "1（仅单杠）", "Base footprint": "约 97×60 厘米", "Bar height": "约 218 厘米（固定）", "Load capacity": "静态 136 公斤", "Base design": "带外伸支脚的 A 形", "Price": "$149.99", "Grip options": "宽距正握、中立位平行"},
-      "scores": {"Stability": 4.6, "Load capacity": 4.4, "Footprint": 4.8, "Value": 4.3, "Versatility": 2.8}
+      "specs": {
+        "Stations": "1（仅单杠）",
+        "Base footprint": "约 97×60 厘米",
+        "Bar height": "约 218 厘米（固定）",
+        "Load capacity": "静态 136 公斤",
+        "Base design": "带外伸支脚的 A 形",
+        "Price": "$149.99",
+        "Grip options": "宽距正握、中立位平行"
+      },
+      "scores": {
+        "稳定性": 4.6,
+        "负荷容量": 4.4,
+        "占用面积": 4.8,
+        "价值": 4.3,
+        "多功能性": 2.8
+      }
     },
     {
       "offerId": "weider-power-tower-200",
       "badge": "最佳高端",
       "review": "Weider Power Tower 200 在训练中最易察觉的两个方面改进了 Fitness Reality X2：更宽的臂屈伸手柄间距和更厚的 VKR 臂托衬垫。两项改动都为频繁使用这些站的运动者改善了舒适度和肩部位置。更厚的框架壁增加了刚性，但也增加了尺寸——115×135 厘米占地为本次对比中最大。如果你定期使用臂屈伸和 VKR 站、并看重长组中的舒适度，则值得相对 X2 的溢价。",
-      "pros": ["更宽的臂屈伸手柄间距改善臂屈伸底部的肩部位置", "更厚的 VKR 臂托衬垫在长组中明显更舒适", "更厚的框架壁比预算型力量塔更刚性"],
-      "cons": ["115×135 厘米占地为本次对比中最大"],
+      "pros": [
+        "更宽的臂屈伸手柄间距改善臂屈伸底部的肩部位置",
+        "更厚的 VKR 臂托衬垫在长组中明显更舒适",
+        "更厚的框架壁比预算型力量塔更刚性"
+      ],
+      "cons": [
+        "115×135 厘米占地为本次对比中最大"
+      ],
       "grade": "B",
-      "specs": {"Stations": "4（单杠、臂屈伸、俯卧撑、VKR）", "Base footprint": "115×135 厘米", "Bar height": "约 228 厘米（固定）", "Load capacity": "静态 136 公斤", "Frame": "厚壁钢", "Price": "$206.09", "Assembly time": "约 90 分钟"},
-      "scores": {"Stability": 4.7, "Load capacity": 4.4, "Footprint": 3.2, "Value": 4.0, "Versatility": 4.6}
+      "specs": {
+        "Stations": "4（单杠、臂屈伸、俯卧撑、VKR）",
+        "Base footprint": "115×135 厘米",
+        "Bar height": "约 228 厘米（固定）",
+        "Load capacity": "静态 136 公斤",
+        "Frame": "厚壁钢",
+        "Price": "$206.09",
+        "Assembly time": "约 90 分钟"
+      },
+      "scores": {
+        "稳定性": 4.7,
+        "负荷容量": 4.4,
+        "占用面积": 3.2,
+        "价值": 4,
+        "多功能性": 4.6
+      }
     },
     {
       "offerId": "ultimate-body-press-freestanding-bar",
       "badge": "高个用户最佳",
       "review": "Ultimate Body Press 是本次对比中唯一带高度调节的独立单杠——193 至 244 厘米分预设档，此处最高的可用档位。正握直杠没有集成的中立位或平行握把。矩形四脚底座在高档位、体重超过 80 公斤的用户做动态动作时，稳定性略逊于 CAP 的 A 形设计；附带的墙锚带解决了这一点。最适合身高超过 185 厘米、与不同身高训练伙伴共用横杠的用户。",
-      "pros": ["高度可调 193–244 厘米——本次对比中最高档位", "附带墙锚配件，在动态负载下增加稳定性", "紧凑矩形底座适配狭窄空间"],
-      "cons": ["仅直杠——无内置中立位或平行握把"],
+      "pros": [
+        "高度可调 193–244 厘米——本次对比中最高档位",
+        "附带墙锚配件，在动态负载下增加稳定性",
+        "紧凑矩形底座适配狭窄空间"
+      ],
+      "cons": [
+        "仅直杠——无内置中立位或平行握把"
+      ],
       "grade": "B-",
-      "specs": {"Stations": "1（仅单杠）", "Base footprint": "约 4 英尺矩形", "Bar height": "193–244 厘米（可调预设）", "Load capacity": "带锚 136 公斤", "Base design": "矩形 4 脚", "Price": "$79.95", "Anchor": "含墙带"},
-      "scores": {"Stability": 3.8, "Load capacity": 4.0, "Footprint": 4.2, "Value": 4.4, "Versatility": 2.6}
+      "specs": {
+        "Stations": "1（仅单杠）",
+        "Base footprint": "约 4 英尺矩形",
+        "Bar height": "193–244 厘米（可调预设）",
+        "Load capacity": "带锚 136 公斤",
+        "Base design": "矩形 4 脚",
+        "Price": "$79.95",
+        "Anchor": "含墙带"
+      },
+      "scores": {
+        "稳定性": 3.8,
+        "负荷容量": 4,
+        "占用面积": 4.2,
+        "价值": 4.4,
+        "多功能性": 2.6
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "适合想要完整上肢训练的多数家庭健身房", "offerId": "fitness-reality-x2-power-tower", "reason": "以最低价格在可控占地内提供四个站——引体、臂屈伸、俯卧撑和 VKR，无需购买单独设备。"},
-    {"label": "适合每一厘米都重要的小房间", "offerId": "power-tower-workout-dip-station", "reason": "本次对比中最小力量塔占地配最高承重额定——当空间是约束条件时的正确之选。"},
-    {"label": "适合不要力量塔体积的纯引体训练", "offerId": "cap-barbell-freestanding-pull-up-bar", "reason": "A 形稳定性和极小深度占地提供引体能力，无需为完整力量塔投入房间空间。"},
-    {"label": "适合追求最大舒适度的频繁臂屈伸和 VKR 用户", "offerId": "weider-power-tower-200", "reason": "更宽的臂屈伸手柄和更厚的 VKR 衬垫，为每周 3 次以上依赖这些站的运动者值回溢价。"},
-    {"label": "适合身高超过 185 厘米、需要高度可调的用户", "offerId": "ultimate-body-press-freestanding-bar", "reason": "本次对比中最高的横杠档位 244 厘米——唯一能容纳极高个用户而无需屈膝悬挂的落地选项。"}
+    {
+      "label": "适合想要完整上肢训练的多数家庭健身房",
+      "offerId": "fitness-reality-x2-power-tower",
+      "reason": "以最低价格在可控占地内提供四个站——引体、臂屈伸、俯卧撑和 VKR，无需购买单独设备。"
+    },
+    {
+      "label": "适合每一厘米都重要的小房间",
+      "offerId": "power-tower-workout-dip-station",
+      "reason": "本次对比中最小力量塔占地配最高承重额定——当空间是约束条件时的正确之选。"
+    },
+    {
+      "label": "适合不要力量塔体积的纯引体训练",
+      "offerId": "cap-barbell-freestanding-pull-up-bar",
+      "reason": "A 形稳定性和极小深度占地提供引体能力，无需为完整力量塔投入房间空间。"
+    },
+    {
+      "label": "适合追求最大舒适度的频繁臂屈伸和 VKR 用户",
+      "offerId": "weider-power-tower-200",
+      "reason": "更宽的臂屈伸手柄和更厚的 VKR 衬垫，为每周 3 次以上依赖这些站的运动者值回溢价。"
+    },
+    {
+      "label": "适合身高超过 185 厘米、需要高度可调的用户",
+      "offerId": "ultimate-body-press-freestanding-bar",
+      "reason": "本次对比中最高的横杠档位 244 厘米——唯一能容纳极高个用户而无需屈膝悬挂的落地选项。"
+    }
   ]
 }

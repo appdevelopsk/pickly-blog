@@ -69,58 +69,173 @@
       "offerId": "tabasco-original-red",
       "badge": "最佳综合",
       "review": "艾弗里岛三年桶陈发酵赋予Tabasco一种工厂生产酱无法复制的尖锐感和一致性。薄而醋味的质地均匀溅在任何食物表面——牡蛎、鸡蛋、披萨——不会积聚。2500-5000 Scoville热度坚定但不构成挑战。真正的权衡：小2盎司瓶装如果每天使用会快速用完，按盎司计算的成本比大容量选项高。",
-      "pros": ["三年发酵创造纯醋酱无法提供的分层风味", "薄质地均匀分布在任何食物上", "无与伦比的全球可用性"],
-      "cons": ["小瓶装与更大格式竞争者相比每盎司价格昂贵"],
+      "pros": [
+        "三年发酵创造纯醋酱无法提供的分层风味",
+        "薄质地均匀分布在任何食物上",
+        "无与伦比的全球可用性"
+      ],
+      "cons": [
+        "小瓶装与更大格式竞争者相比每盎司价格昂贵"
+      ],
       "grade": "A+",
-      "specs": {"Scoville": "2,500–5,000", "Base": "Tabasco辣椒", "Style": "发酵", "Vinegar": "蒸馏", "Sizes available": "2盎司 – 1加仑", "Origin": "路易斯安那州艾弗里岛"},
-      "scores": {"Heat level": 3.8, "Flavor": 4.8, "Value": 4.0, "Versatility": 4.9, "Ingredient quality": 4.7}
+      "specs": {
+        "Scoville": "2,500–5,000",
+        "Base": "Tabasco辣椒",
+        "Style": "发酵",
+        "Vinegar": "蒸馏",
+        "Sizes available": "2盎司 – 1加仑",
+        "Origin": "路易斯安那州艾弗里岛"
+      },
+      "scores": {
+        "热量级别": 3.8,
+        "风味": 4.8,
+        "价值": 4,
+        "多功能性": 4.9,
+        "成分质量": 4.7
+      }
     },
     {
       "offerId": "cholula-original",
       "badge": "最佳风味复杂度",
       "review": "Cholula的小红椒和树椒混合提供比纯卡宴酱更多风味层次——热度背后有水果和土质风味，不仅仅是酸和辣椒。1000-2000 Scoville在热度敏感的客人中也易接受，同时贡献真正的特色。木塞设计很有魅力但翻盖格式在日常使用中更实用。比Crystal或Valentina每盎司稍贵，但风味差异是实在的。",
-      "pros": ["小红椒和树椒混合创造真正的风味深度", "热度级别对混合辣度容限的人群易接受", "标志性木塞设计"],
-      "cons": ["木塞版本不如翻盖版本在日常厨房使用中实用"],
+      "pros": [
+        "小红椒和树椒混合创造真正的风味深度",
+        "热度级别对混合辣度容限的人群易接受",
+        "标志性木塞设计"
+      ],
+      "cons": [
+        "木塞版本不如翻盖版本在日常厨房使用中实用"
+      ],
       "grade": "A",
-      "specs": {"Scoville": "1,000–2,000", "Base": "小红椒和树椒", "Style": "新鲜磨碎混合", "Origin": "墨西哥查帕拉", "Sizes available": "5盎司 – 64盎司", "Vinegar": "苹果醋"},
-      "scores": {"Heat level": 2.8, "Flavor": 4.9, "Value": 4.3, "Versatility": 4.7, "Ingredient quality": 4.5}
+      "specs": {
+        "Scoville": "1,000–2,000",
+        "Base": "小红椒和树椒",
+        "Style": "新鲜磨碎混合",
+        "Origin": "墨西哥查帕拉",
+        "Sizes available": "5盎司 – 64盎司",
+        "Vinegar": "苹果醋"
+      },
+      "scores": {
+        "热量级别": 2.8,
+        "风味": 4.9,
+        "价值": 4.3,
+        "多功能性": 4.7,
+        "成分质量": 4.5
+      }
     },
     {
       "offerId": "valentina-extra-hot",
       "badge": "最佳价值",
       "review": "一瓶大瓶不到3美元——Valentina超辣是工作厨房的主力酱。厚质地紧贴食物而不流出，在涂裹玉米饼或鸡翅时很重要。风味呈土质并在热度（约2100 Scoville）建立前微甜。缺乏Tabasco的发酵复杂度，但以这个价格，这是不合理的期望。在食品储藏室中放一瓶，在餐桌上放一瓶。",
-      "pros": ["每盎司价格异常高——此比较中最佳价值", "厚质地紧贴食物而非滴落", "土质、微甜热度前的风味档案"],
-      "cons": ["复杂度低于发酵酱——较简单的风味档案"],
+      "pros": [
+        "每盎司价格异常高——此比较中最佳价值",
+        "厚质地紧贴食物而非滴落",
+        "土质、微甜热度前的风味档案"
+      ],
+      "cons": [
+        "复杂度低于发酵酱——较简单的风味档案"
+      ],
       "grade": "B+",
-      "specs": {"Scoville": "约2,100", "Base": "干辣椒", "Style": "厚膏状", "Origin": "墨西哥瓜达拉哈拉", "Sizes available": "12.5盎司 – 34盎司", "Vinegar": "蒸馏"},
-      "scores": {"Heat level": 3.5, "Flavor": 4.0, "Value": 5.0, "Versatility": 4.4, "Ingredient quality": 3.8}
+      "specs": {
+        "Scoville": "约2,100",
+        "Base": "干辣椒",
+        "Style": "厚膏状",
+        "Origin": "墨西哥瓜达拉哈拉",
+        "Sizes available": "12.5盎司 – 34盎司",
+        "Vinegar": "蒸馏"
+      },
+      "scores": {
+        "热量级别": 3.5,
+        "风味": 4,
+        "价值": 5,
+        "多功能性": 4.4,
+        "成分质量": 3.8
+      }
     },
     {
       "offerId": "crystal-hot-sauce",
       "badge": "最佳路易斯安那风味",
       "review": "陈年卡宴和蒸馏醋——Crystal是路易斯安那辣酱最清洁的表达。800-1000 Scoville热度足够低，适合大批量烹饪（什锦粥、红豆、鸡翅），需要风味提升而不压倒客人的场景。亮度显著——Crystal增加酸度和辣椒特色而无Tabasco的刺激感。南方厨房的主食，可与更好的营销竞争者相抗衡。",
-      "pros": ["清洁陈年卡宴风味无刺激感", "低热度使其适合大批量烹饪", "12盎司标准规格中的强大价值"],
-      "cons": ["低Scoville无法满足热度追求者"],
+      "pros": [
+        "清洁陈年卡宴风味无刺激感",
+        "低热度使其适合大批量烹饪",
+        "12盎司标准规格中的强大价值"
+      ],
+      "cons": [
+        "低Scoville无法满足热度追求者"
+      ],
       "grade": "B",
-      "specs": {"Scoville": "800–1,000", "Base": "陈年卡宴", "Style": "路易斯安那风格", "Origin": "路易斯安那州新奥尔良", "Sizes available": "6盎司 – 1加仑", "Vinegar": "蒸馏"},
-      "scores": {"Heat level": 2.0, "Flavor": 4.3, "Value": 4.6, "Versatility": 4.5, "Ingredient quality": 4.2}
+      "specs": {
+        "Scoville": "800–1,000",
+        "Base": "陈年卡宴",
+        "Style": "路易斯安那风格",
+        "Origin": "路易斯安那州新奥尔良",
+        "Sizes available": "6盎司 – 1加仑",
+        "Vinegar": "蒸馏"
+      },
+      "scores": {
+        "热量级别": 2,
+        "风味": 4.3,
+        "价值": 4.6,
+        "多功能性": 4.5,
+        "成分质量": 4.2
+      }
     },
     {
       "offerId": "franks-redhot-original",
       "badge": "最适合烹饪",
       "review": "Frank's RedHot是原始水牛鸡翅酱基础，此比较中最温和的选项约450 Scoville。卡宴-醋-黄油组合完美裹住蛋白质并耐受烤箱热度而不分离。读起来更多是\"酸\"而非\"辣\"，这使其成为鸡翅批次、蘸酱和任何热度应补充而不主导的食谱的正确选择。23盎司瓶装容量反映了鸡翅烹饪家庭中消耗的速度。",
-      "pros": ["专门为水牛风味烹饪设计——裹住并粘合完美", "低热度适合热度敏感的客人", "大格式适合批量烹饪"],
-      "cons": ["太温和无法作为独立辣酱供辛辣爱好者使用"],
+      "pros": [
+        "专门为水牛风味烹饪设计——裹住并粘合完美",
+        "低热度适合热度敏感的客人",
+        "大格式适合批量烹饪"
+      ],
+      "cons": [
+        "太温和无法作为独立辣酱供辛辣爱好者使用"
+      ],
       "grade": "B-",
-      "specs": {"Scoville": "约450", "Base": "陈年卡宴", "Style": "水牛风格", "Origin": "密苏里州斯普林菲尔德", "Sizes available": "5盎司 – 1加仑", "Vinegar": "蒸馏"},
-      "scores": {"Heat level": 1.5, "Flavor": 4.0, "Value": 4.5, "Versatility": 4.2, "Ingredient quality": 4.0}
+      "specs": {
+        "Scoville": "约450",
+        "Base": "陈年卡宴",
+        "Style": "水牛风格",
+        "Origin": "密苏里州斯普林菲尔德",
+        "Sizes available": "5盎司 – 1加仑",
+        "Vinegar": "蒸馏"
+      },
+      "scores": {
+        "热量级别": 1.5,
+        "风味": 4,
+        "价值": 4.5,
+        "多功能性": 4.2,
+        "成分质量": 4
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "日常餐桌使用", "offerId": "tabasco-original-red", "reason": "发酵复杂度和薄质地适用于几乎每种食物——通用辣酱。"},
-    {"label": "风味优先的热度爱好者", "offerId": "cholula-original", "reason": "小红椒-树椒混合提供超越热度的深度和特色——当酱风味与Scoville计数同样重要时最佳。"},
-    {"label": "经济食品储藏室储备", "offerId": "valentina-extra-hot", "reason": "此列表中任何酱的最佳每盎司价格，厚紧贴食物的一致性在玉米饼和街头食物上效果很好。"},
-    {"label": "鸡翅之夜和批量烹饪", "offerId": "franks-redhot-original", "reason": "专门为水牛风味鸡翅酱设计——均匀裹住并耐受烤箱热度而不分离。"},
-    {"label": "南方风格烹饪", "offerId": "crystal-hot-sauce", "reason": "清洁陈年卡宴风味提升什锦粥、红豆和炸鸡而不主导菜肴。"}
+    {
+      "label": "日常餐桌使用",
+      "offerId": "tabasco-original-red",
+      "reason": "发酵复杂度和薄质地适用于几乎每种食物——通用辣酱。"
+    },
+    {
+      "label": "风味优先的热度爱好者",
+      "offerId": "cholula-original",
+      "reason": "小红椒-树椒混合提供超越热度的深度和特色——当酱风味与Scoville计数同样重要时最佳。"
+    },
+    {
+      "label": "经济食品储藏室储备",
+      "offerId": "valentina-extra-hot",
+      "reason": "此列表中任何酱的最佳每盎司价格，厚紧贴食物的一致性在玉米饼和街头食物上效果很好。"
+    },
+    {
+      "label": "鸡翅之夜和批量烹饪",
+      "offerId": "franks-redhot-original",
+      "reason": "专门为水牛风味鸡翅酱设计——均匀裹住并耐受烤箱热度而不分离。"
+    },
+    {
+      "label": "南方风格烹饪",
+      "offerId": "crystal-hot-sauce",
+      "reason": "清洁陈年卡宴风味提升什锦粥、红豆和炸鸡而不主导菜肴。"
+    }
   ]
 }

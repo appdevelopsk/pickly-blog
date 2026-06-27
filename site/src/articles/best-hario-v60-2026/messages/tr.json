@@ -65,58 +65,178 @@
       "offerId": "hario-v60-02-ceramic",
       "badge": "En İyi Genel",
       "review": "Hario V60 02 Seramik, çoğu ev demleyicisi için standart önerildir — nötr tat, önceden ısıtıldığında iyi ısı tutma ve onu döküm kültürünün merkezi yapan klasik estetik. Plastikle kıyasla ısı emme farkını ortadan kaldırmak için demleme öncesinde sıcak suyla önceden durulayın. Takas, kırılma riski ve plastik versiyona karşı $25–35 fiyatıdır.",
-      "pros": ["Metal olmayan V60 seçenekleri arasında önceden ısıtıldığında en iyi ısı tutma", "Nötr seramik tat — tat müdahalesi yok", "En fazla demleme kılavuzunun yazıldığı topluluk standardı V60"],
-      "cons": ["Kırılabilir — dikkatli kullanım veya seyahat kılıfı gerektirir"],
+      "pros": [
+        "Metal olmayan V60 seçenekleri arasında önceden ısıtıldığında en iyi ısı tutma",
+        "Nötr seramik tat — tat müdahalesi yok",
+        "En fazla demleme kılavuzunun yazıldığı topluluk standardı V60"
+      ],
+      "cons": [
+        "Kırılabilir — dikkatli kullanım veya seyahat kılıfı gerektirir"
+      ],
       "grade": "A+",
-      "specs": {"Material": "Seramik", "Size": "02 (1–4 fincan)", "Price": "~$25–35", "Heat retention": "İyi (önceden ısıtma gerekli)", "Fragility": "Orta", "Filter size": "V60 02", "Dishwasher safe": "Evet"},
-      "scores": {"Brew clarity": 4.7, "Build quality": 4.5, "Ease of use": 4.5, "Value": 4.4, "Versatility": 4.5}
+      "specs": {
+        "Material": "Seramik",
+        "Size": "02 (1–4 fincan)",
+        "Price": "~$25–35",
+        "Heat retention": "İyi (önceden ısıtma gerekli)",
+        "Fragility": "Orta",
+        "Filter size": "V60 02",
+        "Dishwasher safe": "Evet"
+      },
+      "scores": {
+        "Demleme Açıklığı": 4.7,
+        "İnşaat Kalitesi": 4.5,
+        "Kullanım Kolaylığı": 4.5,
+        "Değer": 4.4,
+        "Çok Yönlülük": 4.5
+      }
     },
     {
       "offerId": "hario-v60-02-plastic",
       "badge": "Yeni Başlayanlar ve Seyahat için En İyi",
       "review": "V60 02 Plastik, V60 tekniğini öğrenmek için en iyi başlangıç noktasıdır. Seramikle işlevsel olarak özdeş — aynı geometri, aynı spiral nervürler, aynı tek delik — ancak plastik demleme suyundan ısı emmez, bu nedenle damıtıcının kendisine ısı kaybı minimaldir. Kırılma riski olmadığı için seyahat ve açık hava kullanımı için idealdir. $8–15'te finansal risk ihmal edilebilir.",
-      "pros": ["$8–15'te seramikle aynı ekstraksiyon geometrisi", "Kırılma riski yok — seyahat ve açık hava kullanımı için ideal", "Seramiğe kıyasla damıtıcıya daha az ısı kaybı (plastik ısı emmez)"],
-      "cons": ["Seramik veya metale kıyasla daha az premium estetik"],
+      "pros": [
+        "$8–15'te seramikle aynı ekstraksiyon geometrisi",
+        "Kırılma riski yok — seyahat ve açık hava kullanımı için ideal",
+        "Seramiğe kıyasla damıtıcıya daha az ısı kaybı (plastik ısı emmez)"
+      ],
+      "cons": [
+        "Seramik veya metale kıyasla daha az premium estetik"
+      ],
       "grade": "A",
-      "specs": {"Material": "Plastik (BPA içermez)", "Size": "02 (1–4 fincan)", "Price": "~$8–15", "Heat retention": "Minimal ısı kaybı", "Fragility": "Yok", "Filter size": "V60 02", "Dishwasher safe": "Evet"},
-      "scores": {"Brew clarity": 4.6, "Build quality": 3.8, "Ease of use": 4.8, "Value": 4.9, "Versatility": 4.7}
+      "specs": {
+        "Material": "Plastik (BPA içermez)",
+        "Size": "02 (1–4 fincan)",
+        "Price": "~$8–15",
+        "Heat retention": "Minimal ısı kaybı",
+        "Fragility": "Yok",
+        "Filter size": "V60 02",
+        "Dishwasher safe": "Evet"
+      },
+      "scores": {
+        "Demleme Açıklığı": 4.6,
+        "İnşaat Kalitesi": 3.8,
+        "Kullanım Kolaylığı": 4.8,
+        "Değer": 4.9,
+        "Çok Yönlülük": 4.7
+      }
     },
     {
       "offerId": "hario-v60-02-glass",
       "badge": "Görsel Öğrenme için En İyi",
       "review": "V60 02 Cam, borosilikat cam kullanır — blomu genişlerken görebileceğiniz ve gerçek zamanlı olarak kahve yatağı boyunca su dağılımını gözlemleyebileceğiniz tam şeffaf. Bu görsel geri bildirim, ekstraksiyon sorunlarını teşhis etmek ve dökme tekniğini öğrenmek için benzersiz şekilde kullanışlıdır. Cam seramikten daha az ısı tutar, bu nedenle önceden ısıtma şarttır. Dört malzeme arasında en kırılgandır.",
-      "pros": ["Şeffaf — gerçek zamanlı olarak blomu ve su dağılımını izleyin", "Ekstraksiyon sorunlarını görsel olarak teşhis etmek için kullanışlı", "Isıya dayanıklı borosilikat yapı"],
-      "cons": ["En kırılgan — en yüksek kırılma riski", "Bu karşılaştırmada en düşük ısı tutma"],
+      "pros": [
+        "Şeffaf — gerçek zamanlı olarak blomu ve su dağılımını izleyin",
+        "Ekstraksiyon sorunlarını görsel olarak teşhis etmek için kullanışlı",
+        "Isıya dayanıklı borosilikat yapı"
+      ],
+      "cons": [
+        "En kırılgan — en yüksek kırılma riski",
+        "Bu karşılaştırmada en düşük ısı tutma"
+      ],
       "grade": "B+",
-      "specs": {"Material": "Borosilikat cam", "Size": "02 (1–4 fincan)", "Price": "~$25–40", "Heat retention": "Düşük (önceden ısıtma şart)", "Fragility": "Yüksek", "Filter size": "V60 02", "Transparency": "Tam"},
-      "scores": {"Brew clarity": 4.7, "Build quality": 3.5, "Ease of use": 4.0, "Value": 4.0, "Versatility": 3.8}
+      "specs": {
+        "Material": "Borosilikat cam",
+        "Size": "02 (1–4 fincan)",
+        "Price": "~$25–40",
+        "Heat retention": "Düşük (önceden ısıtma şart)",
+        "Fragility": "Yüksek",
+        "Filter size": "V60 02",
+        "Transparency": "Tam"
+      },
+      "scores": {
+        "Demleme Açıklığı": 4.7,
+        "İnşaat Kalitesi": 3.5,
+        "Kullanım Kolaylığı": 4,
+        "Değer": 4,
+        "Çok Yönlülük": 3.8
+      }
     },
     {
       "offerId": "hario-v60-02-metal",
       "badge": "Dayanıklılık ve Hediyecilik için En İyi",
       "review": "V60 02 Metal (paslanmaz veya bakır) en dayanıklı seçenektir — asla kırılmaz, hızlı ve eşit ısınır ve bakır versiyon bir kahve aracı olduğu kadar bir sergileme parçasıdır. $60–90'da en pahalı V60 damıtıcısıdır, en iyi hediye veya premium mutfak estetik parçası olarak haklı çıkar. Günlük pratik demleme için seramik, fiyatın üçte birinde karşılaştırılabilir sonuçlar sunar.",
-      "pros": ["Yıkılmaz — yoğun günlük kullanım veya kaza riski olan ortamlar için ideal", "Bakır versiyon premium sergileme kaliteli bir hediyedir", "Hızlı ve eşit ısınır — soğuk nokta yok"],
-      "cons": ["Seramik karşılaştırılabilir performans gösterirken $60–90 bir damıtıcı için pahalıdır"],
+      "pros": [
+        "Yıkılmaz — yoğun günlük kullanım veya kaza riski olan ortamlar için ideal",
+        "Bakır versiyon premium sergileme kaliteli bir hediyedir",
+        "Hızlı ve eşit ısınır — soğuk nokta yok"
+      ],
+      "cons": [
+        "Seramik karşılaştırılabilir performans gösterirken $60–90 bir damıtıcı için pahalıdır"
+      ],
       "grade": "B",
-      "specs": {"Material": "Paslanmaz çelik veya bakır", "Size": "02", "Price": "~$60–90", "Heat retention": "Mükemmel", "Fragility": "Yok", "Filter size": "V60 02", "Aesthetics": "Premium"},
-      "scores": {"Brew clarity": 4.7, "Build quality": 4.9, "Ease of use": 4.3, "Value": 3.5, "Versatility": 4.2}
+      "specs": {
+        "Material": "Paslanmaz çelik veya bakır",
+        "Size": "02",
+        "Price": "~$60–90",
+        "Heat retention": "Mükemmel",
+        "Fragility": "Yok",
+        "Filter size": "V60 02",
+        "Aesthetics": "Premium"
+      },
+      "scores": {
+        "Demleme Açıklığı": 4.7,
+        "İnşaat Kalitesi": 4.9,
+        "Kullanım Kolaylığı": 4.3,
+        "Değer": 3.5,
+        "Çok Yönlülük": 4.2
+      }
     },
     {
       "offerId": "hario-v60-filters-02",
       "badge": "Temel Sarf Malzemesi",
       "review": "Hario V60 Kağıt Filtreler 02, herhangi bir V60 kurulumu için zorunlu devam eden sarf malzemesidir. Hem beyaz hem de doğal (ağartılmamış) versiyonlar iyi çalışır; çoğu demleyici için fark minimaldir. Kalita Wave filtrelerine kıyasla temel pratik avantaj: V60 02 filtreler Starbucks'ta, çoğu market zincirinde ve herhangi bir özel kahve dükkanında satılır — çevrimiçi teslimatı beklerken hafta ortasında bitmezsiniz.",
-      "pros": ["Market, Starbucks ve özel kahve perakendecilerinde mevcut", "100 adet günlük demleyiciler için yaklaşık 3 ay yeter", "Hem beyaz hem de doğal versiyonlar yaygın olarak mevcut"],
-      "cons": ["Düzenli olarak yeniden satın alınmalı — devam eden V60 maliyetine dahil edin"],
+      "pros": [
+        "Market, Starbucks ve özel kahve perakendecilerinde mevcut",
+        "100 adet günlük demleyiciler için yaklaşık 3 ay yeter",
+        "Hem beyaz hem de doğal versiyonlar yaygın olarak mevcut"
+      ],
+      "cons": [
+        "Düzenli olarak yeniden satın alınmalı — devam eden V60 maliyetine dahil edin"
+      ],
       "grade": "B-",
-      "specs": {"Size": "02", "Count": "Paket başına 100 adet", "Price": "~$5–10/100 adet", "Types": "Beyaz (ağartılmış) veya doğal (ağartılmamış)", "Availability": "Ülke genelinde marketler", "Fit": "V60 01, 02, 03"},
-      "scores": {"Brew clarity": 4.6, "Build quality": 4.0, "Ease of use": 4.9, "Value": 4.8, "Versatility": 4.4}
+      "specs": {
+        "Size": "02",
+        "Count": "Paket başına 100 adet",
+        "Price": "~$5–10/100 adet",
+        "Types": "Beyaz (ağartılmış) veya doğal (ağartılmamış)",
+        "Availability": "Ülke genelinde marketler",
+        "Fit": "V60 01, 02, 03"
+      },
+      "scores": {
+        "Demleme Açıklığı": 4.6,
+        "İnşaat Kalitesi": 4,
+        "Kullanım Kolaylığı": 4.9,
+        "Değer": 4.8,
+        "Çok Yönlülük": 4.4
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Çoğu ev demleyicisi için", "offerId": "hario-v60-02-ceramic", "reason": "İyi ısı tutma ve en fazla demleme kılavuzunun yazıldığı topluluk standardı V60"},
-    {"label": "Yeni başlayanlar ve gezginler için", "offerId": "hario-v60-02-plastic", "reason": "Sıfır kırılma riskiyle $8–15'te aynı ekstraksiyon geometrisi"},
-    {"label": "Demleme tekniğini teşhis etmek için", "offerId": "hario-v60-02-glass", "reason": "Tam şeffaflık, gerçek zamanlı olarak blomu ve su dağılımını izlemenizi sağlar"},
-    {"label": "Hediye veya premium estetik için", "offerId": "hario-v60-02-metal", "reason": "Yıkılmaz ve bakır versiyon sergileme kaliteli bir hediyedir"},
-    {"label": "Sarf malzemesi stoklamak için", "offerId": "hario-v60-filters-02", "reason": "Her V60 demlemesi için zorunlu ve bittiğinde markette mevcut"}
+    {
+      "label": "Çoğu ev demleyicisi için",
+      "offerId": "hario-v60-02-ceramic",
+      "reason": "İyi ısı tutma ve en fazla demleme kılavuzunun yazıldığı topluluk standardı V60"
+    },
+    {
+      "label": "Yeni başlayanlar ve gezginler için",
+      "offerId": "hario-v60-02-plastic",
+      "reason": "Sıfır kırılma riskiyle $8–15'te aynı ekstraksiyon geometrisi"
+    },
+    {
+      "label": "Demleme tekniğini teşhis etmek için",
+      "offerId": "hario-v60-02-glass",
+      "reason": "Tam şeffaflık, gerçek zamanlı olarak blomu ve su dağılımını izlemenizi sağlar"
+    },
+    {
+      "label": "Hediye veya premium estetik için",
+      "offerId": "hario-v60-02-metal",
+      "reason": "Yıkılmaz ve bakır versiyon sergileme kaliteli bir hediyedir"
+    },
+    {
+      "label": "Sarf malzemesi stoklamak için",
+      "offerId": "hario-v60-filters-02",
+      "reason": "Her V60 demlemesi için zorunlu ve bittiğinde markette mevcut"
+    }
   ]
 }

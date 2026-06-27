@@ -64,58 +64,173 @@
       "offerId": "comvita-manuka-honey-umf10",
       "badge": "Genel Olarak En İyi",
       "review": "Comvita UMF 10+, piyasada en güvenilir sertifikalı Manuka'dır — UMF sistemi bağımsız olarak hem MGO konsantrasyonunu hem de özgünlük işaretçilerini doğrular, ucuz Manuka etiketlerini dehşet eden dolandırıcılık riskini ortadan kaldırır. 250g için $26-40'da, servis başına fiyat yüksektir, ancak pazarlama değil, belgeli MGO 263+ ve küresel batch izlenebilirliği için ödeme yapıyorsunuz. Dürüst sınırlama, bir 250g kavanozun günlük tatlandırıcı olarak kullanırsanız hızlı kaybolmasıdır.",
-      "pros": ["UMF sertifikasyonu bağımsız olarak MGO ve özgünlüğü doğrular", "Tutarlı batch kalitesiyle küresel kullanılabilirlik", "Genel wellness kullanımı için uygun orta seviye MGO 263+"],
-      "cons": ["250g için $26-40 günlük kullanımı pahalı kılar"],
+      "pros": [
+        "UMF sertifikasyonu bağımsız olarak MGO ve özgünlüğü doğrular",
+        "Tutarlı batch kalitesiyle küresel kullanılabilirlik",
+        "Genel wellness kullanımı için uygun orta seviye MGO 263+"
+      ],
+      "cons": [
+        "250g için $26-40 günlük kullanımı pahalı kılar"
+      ],
       "grade": "A+",
-      "specs": {"Type": "Manuka", "Certification": "UMF 10+", "MGO": "263+", "Weight": "250 g", "Origin": "New Zealand", "Processing": "Raw"},
-      "scores": {"Flavor": 4.7, "Purity": 5.0, "Value": 3.5, "Texture": 4.5, "Versatility": 4.0}
+      "specs": {
+        "Type": "Manuka",
+        "Certification": "UMF 10+",
+        "MGO": "263+",
+        "Weight": "250 g",
+        "Origin": "New Zealand",
+        "Processing": "Raw"
+      },
+      "scores": {
+        "Tat": 4.7,
+        "Saflık": 5,
+        "Değer": 3.5,
+        "Doku": 4.5,
+        "Çok Yönlülük": 4
+      }
     },
     {
       "offerId": "wedderspoon-manuka-kfactor16",
       "badge": "En İyi Ulaşılabilir Manuka",
       "review": "Wedderspoon KFactor 16, polenlerin %75+'sinin Manuka çiçeklerinden geldiğini sertifiye eder, bu bitki kaynağını doğrular ancak MGO içeriğini doğrudan belirtmez — UMF'den anlamlı bir fark. Bu, çoğu UMF sertifikali Manuka'dan daha yumuşak bir fiyatta meşru bir üründür, bu da doğrulanmış Manuka kaynağını UMF priması ödemeden isteyenler için doğru seçimi yapar. KFactor 16'nın doğrudan bir UMF derecelendirmesine dönüştürülemeyeceğini unutmayın.",
-      "pros": ["UMF'den daha düşük fiyatta polen sertifikalı Manuka kaynağı", "11.4 oz çoğu Manuka seçeneğinden daha iyi hacim sağlar", "Ana akım bakkal kanallarında yaygın olarak mevcuttur"],
-      "cons": ["KFactor, MGO seviyesini belirtmez — UMF'den daha az hassastır"],
+      "pros": [
+        "UMF'den daha düşük fiyatta polen sertifikalı Manuka kaynağı",
+        "11.4 oz çoğu Manuka seçeneğinden daha iyi hacim sağlar",
+        "Ana akım bakkal kanallarında yaygın olarak mevcuttur"
+      ],
+      "cons": [
+        "KFactor, MGO seviyesini belirtmez — UMF'den daha az hassastır"
+      ],
       "grade": "A",
-      "specs": {"Type": "Manuka", "Certification": "KFactor 16", "Pollen": "75%+ Manuka", "Weight": "11.4 oz (323 g)", "Origin": "New Zealand", "Processing": "Raw"},
-      "scores": {"Flavor": 4.5, "Purity": 4.3, "Value": 4.2, "Texture": 4.4, "Versatility": 4.0}
+      "specs": {
+        "Type": "Manuka",
+        "Certification": "KFactor 16",
+        "Pollen": "75%+ Manuka",
+        "Weight": "11.4 oz (323 g)",
+        "Origin": "New Zealand",
+        "Processing": "Raw"
+      },
+      "scores": {
+        "Tat": 4.5,
+        "Saflık": 4.3,
+        "Değer": 4.2,
+        "Doku": 4.4,
+        "Çok Yönlülük": 4
+      }
     },
     {
       "offerId": "nature-nates-raw-honey",
       "badge": "En İyi Günlük Çiğ Bal",
       "review": "Nature Nate's günlük kullanım için doğru cevaptır — ABD kaynağı, filtrelenmemiş, ısıtılmamış, bağımsız denetim, 16 oz için $10'un altında. Tat, çay, yoğurt veya sos karışımlarında bal arka plan tatlandırıcı olduğunda tam olarak istediğiniz hafif yonca balıdır. Daha kalın çiğ ballar kadar hızlı kristalleşmez ve sıklaştırma şişesi pratiğtir. Burada hiç egzotik olmayan — bu poenta.",
-      "pros": ["Bağımsız çiğ denetim ile izlenebilir ABD kaynağı", "Hafif yonca tadı geniş mutfak kullanımını uygun hale getirir", "Günlük tüketim için erişilebilir fiyat"],
-      "cons": ["Tekli kökenli veya bölgesel çeşitlerden daha az karmaşık tat"],
+      "pros": [
+        "Bağımsız çiğ denetim ile izlenebilir ABD kaynağı",
+        "Hafif yonca tadı geniş mutfak kullanımını uygun hale getirir",
+        "Günlük tüketim için erişilebilir fiyat"
+      ],
+      "cons": [
+        "Tekli kökenli veya bölgesel çeşitlerden daha az karmaşık tat"
+      ],
       "grade": "B+",
-      "specs": {"Type": "Clover", "Certification": "Raw/Unfiltered", "Weight": "16 oz (454 g)", "Origin": "USA", "Processing": "Unheated, unfiltered", "Container": "Squeeze bottle"},
-      "scores": {"Flavor": 4.0, "Purity": 4.5, "Value": 4.8, "Texture": 4.0, "Versatility": 4.7}
+      "specs": {
+        "Type": "Clover",
+        "Certification": "Raw/Unfiltered",
+        "Weight": "16 oz (454 g)",
+        "Origin": "USA",
+        "Processing": "Unheated, unfiltered",
+        "Container": "Squeeze bottle"
+      },
+      "scores": {
+        "Tat": 4,
+        "Saflık": 4.5,
+        "Değer": 4.8,
+        "Doku": 4,
+        "Çok Yönlülük": 4.7
+      }
     },
     {
       "offerId": "ys-eco-bee-raw-honey",
       "badge": "En İyi Kalın Filtrelenmemiş",
       "review": "Y.S. Eco Bee Farms belirgin bir farklı çiğ bal deneyimi sunar — kalın, opak, minimal işlemeyi doğrulayan görünür propolis ve polen partikülleri. Tat, Nature Nate's'den daha güçlüdür, toprak ve karmaşık olmaya eğilimlidir. Yaklaşık $12-18 için 22 oz USDA organik, sertifikalı çiğ baldaki daha iyi değerlerden biridir. Doksu soğuk hava nedeniyle kaşılanması zor olabilir; çok sert olursa kavanozu hafifçe ılıtın.",
-      "pros": ["Görünür propolis ve polen filtrelenmemiş işlemeyi doğrular", "USDA organik sertifikasyonu", "22 oz boyutu ons başına güçlü değer sunar"],
-      "cons": ["Kalın doku daha soğuk hava koşullarında dökülmesi zor hale gelir"],
+      "pros": [
+        "Görünür propolis ve polen filtrelenmemiş işlemeyi doğrular",
+        "USDA organik sertifikasyonu",
+        "22 oz boyutu ons başına güçlü değer sunar"
+      ],
+      "cons": [
+        "Kalın doku daha soğuk hava koşullarında dökülmesi zor hale gelir"
+      ],
       "grade": "B",
-      "specs": {"Type": "Wildflower blend", "Certification": "USDA Organic, Raw", "Weight": "22 oz (624 g)", "Origin": "USA", "Processing": "Unfiltered, unheated", "Texture": "Thick/paste"},
-      "scores": {"Flavor": 4.4, "Purity": 4.6, "Value": 4.5, "Texture": 3.8, "Versatility": 3.9}
+      "specs": {
+        "Type": "Wildflower blend",
+        "Certification": "USDA Organic, Raw",
+        "Weight": "22 oz (624 g)",
+        "Origin": "USA",
+        "Processing": "Unfiltered, unheated",
+        "Texture": "Thick/paste"
+      },
+      "scores": {
+        "Tat": 4.4,
+        "Saflık": 4.6,
+        "Değer": 4.5,
+        "Doku": 3.8,
+        "Çok Yönlülük": 3.9
+      }
     },
     {
       "offerId": "wholesome-organic-raw-honey",
       "badge": "En İyi Adil-Ticaret Organik",
       "review": "Wholesome Organic belirli bir niş isabet eder: organik sertifikasyonu ve Manuka fiyatları ödemeden çiğ bal içinde adil ticaret kaynağını isteyen alıcılar. Tat, hafif ve temiz — Nature Nate's ile karşılaştırılabilir ancak eklenen kimlik bilgileriyle. $12-18 için 16 oz'da, organk ve adil ticaret yükü için Nature Nate's'ten biraz daha fazla maliyetlidir, bu etik açıdan bilinçli alıcı için makul bir takas. Ağırlık başına en iyi değer değil, ancak birden fazla boyuta sertifikalı.",
-      "pros": ["USDA Organik + adil ticaret sertifikalı eş zamanlı", "Hafif tat çoğu kullanım durumu arasında işe yarar", "Şeffaf sourcing kimlik bilgileri"],
-      "cons": ["Geleneksel çiğ baldan daha yüksek ons başına fiyat premium tat geri ödemesi olmaksızın"],
+      "pros": [
+        "USDA Organik + adil ticaret sertifikalı eş zamanlı",
+        "Hafif tat çoğu kullanım durumu arasında işe yarar",
+        "Şeffaf sourcing kimlik bilgileri"
+      ],
+      "cons": [
+        "Geleneksel çiğ baldan daha yüksek ons başına fiyat premium tat geri ödemesi olmaksızın"
+      ],
       "grade": "B-",
-      "specs": {"Type": "Clover blend", "Certification": "USDA Organic, Fair Trade", "Weight": "16 oz (454 g)", "Origin": "South America", "Processing": "Raw, unfiltered", "Container": "Jar"},
-      "scores": {"Flavor": 4.0, "Purity": 4.7, "Value": 3.8, "Texture": 4.1, "Versatility": 4.2}
+      "specs": {
+        "Type": "Clover blend",
+        "Certification": "USDA Organic, Fair Trade",
+        "Weight": "16 oz (454 g)",
+        "Origin": "South America",
+        "Processing": "Raw, unfiltered",
+        "Container": "Jar"
+      },
+      "scores": {
+        "Tat": 4,
+        "Saflık": 4.7,
+        "Değer": 3.8,
+        "Doku": 4.1,
+        "Çok Yönlülük": 4.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Günlük tatlandırıcı kullanımı için", "offerId": "nature-nates-raw-honey", "reason": "Hafif tat, çiğ sertifikalı ve günlük tüketim için fiyatlandırılmış pişmanlıksız."},
-    {"label": "Doğrulanmış Manuka faydaları için", "offerId": "comvita-manuka-honey-umf10", "reason": "UMF 10+ bağımsız olarak MGO 263+ sertifiye eder — Manuka potansiyası sende önemli ise en güvenilir sertifikasyon."},
-    {"label": "Etik sourcing önceliği için", "offerId": "wholesome-organic-raw-honey", "reason": "USDA Organik ve adil ticaret sertifikalı — sourcing ahlakı tadı kadar önemli olduğunda seç."},
-    {"label": "Bütçe Manuka alıcıları için", "offerId": "wedderspoon-manuka-kfactor16", "reason": "Polen sertifikalı Manuka kaynağı UMF ürünlerinden daha düşük fiyatta — tam UMF priması olmaksızın Manuka giriş noktası."},
-    {"label": "En fazla filtrelenmemiş bal için", "offerId": "ys-eco-bee-raw-honey", "reason": "Kalın, iddialı balta USDA organik sertifikasyonu ile görünür propolis ve polen — bu listenin en 'çiğ' seçeneği."}
+    {
+      "label": "Günlük tatlandırıcı kullanımı için",
+      "offerId": "nature-nates-raw-honey",
+      "reason": "Hafif tat, çiğ sertifikalı ve günlük tüketim için fiyatlandırılmış pişmanlıksız."
+    },
+    {
+      "label": "Doğrulanmış Manuka faydaları için",
+      "offerId": "comvita-manuka-honey-umf10",
+      "reason": "UMF 10+ bağımsız olarak MGO 263+ sertifiye eder — Manuka potansiyası sende önemli ise en güvenilir sertifikasyon."
+    },
+    {
+      "label": "Etik sourcing önceliği için",
+      "offerId": "wholesome-organic-raw-honey",
+      "reason": "USDA Organik ve adil ticaret sertifikalı — sourcing ahlakı tadı kadar önemli olduğunda seç."
+    },
+    {
+      "label": "Bütçe Manuka alıcıları için",
+      "offerId": "wedderspoon-manuka-kfactor16",
+      "reason": "Polen sertifikalı Manuka kaynağı UMF ürünlerinden daha düşük fiyatta — tam UMF priması olmaksızın Manuka giriş noktası."
+    },
+    {
+      "label": "En fazla filtrelenmemiş bal için",
+      "offerId": "ys-eco-bee-raw-honey",
+      "reason": "Kalın, iddialı balta USDA organik sertifikasyonu ile görünür propolis ve polen — bu listenin en 'çiğ' seçeneği."
+    }
   ]
 }

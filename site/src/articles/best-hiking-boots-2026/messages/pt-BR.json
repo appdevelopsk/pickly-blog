@@ -98,8 +98,14 @@
       "offerId": "salomon-x-ultra-4-gtx",
       "badge": "Melhor Escolha Geral",
       "review": "O X Ultra 4 GTX define o padrão para botas de trilha polivalentes com sua forma Contragrip precisa e o sistema de cadarço Quicklace. A sola Contagrip MA oferece aderência confiável em rocha e lama sem ser agressiva demais para uso urbano. O único inconveniente real é o preço: a $200 custa $90 a mais que o Columbia, diferença que só se justifica para quem percorre trilhas técnicas regularmente.",
-      "pros": ["Forma precisa que reduz a fadiga em 10+ km", "Sistema Quicklace permite ajuste fino com um único puxão", "Membrana GTX com excelente relação impermeabilidade/respirabilidade"],
-      "cons": ["Preço premium não justificado para caminhadas ocasionais fáceis"],
+      "pros": [
+        "Forma precisa que reduz a fadiga em 10+ km",
+        "Sistema Quicklace permite ajuste fino com um único puxão",
+        "Membrana GTX com excelente relação impermeabilidade/respirabilidade"
+      ],
+      "cons": [
+        "Preço premium não justificado para caminhadas ocasionais fáceis"
+      ],
       "grade": "A+",
       "specs": {
         "Membrana": "Gore-Tex",
@@ -110,19 +116,25 @@
         "Distância de amolecimento": "~8 km"
       },
       "scores": {
-        "Support": 4.7,
-        "Waterproofing": 4.8,
-        "Traction": 4.7,
-        "Value": 4.3,
-        "Durability": 4.8
+        "Suporte": 4.7,
+        "Impermeabilização": 4.8,
+        "Tração": 4.7,
+        "Valor": 4.3,
+        "Durabilidade": 4.8
       }
     },
     {
       "offerId": "merrell-moab-3-mid-wp",
       "badge": "Melhor Custo-Benefício",
       "review": "O Moab 3 Mid WP oferece a melhor combinação preço-desempenho do grupo: proteção Vibram TC5+ comprovada, membrana M Select DRY e uma forma que se adapta bem a pés médios e largos. Não é tão rígido torsionalmente quanto o Salomon em terreno técnico, mas para 90% dos caminhantes é mais do que suficiente a $45 menos.",
-      "pros": ["Sola Vibram TC5+ com aderência superior em rocha molhada", "Forma larga que se adapta a diversos tipos de pé", "Excelente relação preço-durabilidade a $155"],
-      "cons": ["Menor rigidez torsional em terreno muito técnico"],
+      "pros": [
+        "Sola Vibram TC5+ com aderência superior em rocha molhada",
+        "Forma larga que se adapta a diversos tipos de pé",
+        "Excelente relação preço-durabilidade a $155"
+      ],
+      "cons": [
+        "Menor rigidez torsional em terreno muito técnico"
+      ],
       "grade": "A",
       "specs": {
         "Membrana": "M Select DRY",
@@ -133,19 +145,25 @@
         "Distância de amolecimento": "~5 km"
       },
       "scores": {
-        "Support": 4.3,
-        "Waterproofing": 4.5,
-        "Traction": 4.6,
-        "Value": 4.9,
-        "Durability": 4.4
+        "Suporte": 4.3,
+        "Impermeabilização": 4.5,
+        "Tração": 4.6,
+        "Valor": 4.9,
+        "Durabilidade": 4.4
       }
     },
     {
       "offerId": "hoka-anacapa-mid-gtx",
       "badge": "Melhor Amortecimento",
       "review": "O Anacapa Mid GTX traz a plataforma de amortecimento da Hoka para o trekking com resultados mistos. O amortecimento espesso protege as articulações nas longas saídas e a sola Vibram Megagrip adere surpreendentemente bem. No entanto, a plataforma elevada reduz a propriocepção em trilhas técnicas e o preço de $175 representa um custo adicional em relação ao Merrell.",
-      "pros": ["Amortecimento espesso ideal para dias com mais de 20 km", "Membrana Gore-Tex com boa vedação em chuva intensa", "Vibram Megagrip com excelente tração em todos os terrenos"],
-      "cons": ["Plataforma alta reduz a sensação do solo em percursos técnicos"],
+      "pros": [
+        "Amortecimento espesso ideal para dias com mais de 20 km",
+        "Membrana Gore-Tex com boa vedação em chuva intensa",
+        "Vibram Megagrip com excelente tração em todos os terrenos"
+      ],
+      "cons": [
+        "Plataforma alta reduz a sensação do solo em percursos técnicos"
+      ],
       "grade": "B+",
       "specs": {
         "Membrana": "Gore-Tex",
@@ -156,19 +174,25 @@
         "Distância de amolecimento": "~10 km"
       },
       "scores": {
-        "Support": 4.0,
-        "Waterproofing": 4.7,
-        "Traction": 4.8,
-        "Value": 3.8,
-        "Durability": 4.3
+        "Suporte": 4,
+        "Impermeabilização": 4.7,
+        "Tração": 4.8,
+        "Valor": 3.8,
+        "Durabilidade": 4.3
       }
     },
     {
       "offerId": "la-sportiva-tx4-gtx",
       "badge": "Melhor para Terreno Técnico",
       "review": "A TX4 GTX é o calçado de aproximação mais especializado do grupo, com a sola Vibram Megagrip mais agressiva e a maior rigidez torsional. Domina em rocha seca e molhada onde outras botas escorregam. O preço de $189 é quase igual ao Salomon, e o amolecimento de 20+ km a torna inadequada para caminhantes ocasionais.",
-      "pros": ["Sola Vibram Megagrip com tração perfeita em rocha", "Rigidez torsional máxima para escalada de aproximação", "Gore-Tex com impermeabilidade confiável em condições extremas"],
-      "cons": ["Longo amolecimento (~20 km) e ajuste inicial apertado"],
+      "pros": [
+        "Sola Vibram Megagrip com tração perfeita em rocha",
+        "Rigidez torsional máxima para escalada de aproximação",
+        "Gore-Tex com impermeabilidade confiável em condições extremas"
+      ],
+      "cons": [
+        "Longo amolecimento (~20 km) e ajuste inicial apertado"
+      ],
       "grade": "B",
       "specs": {
         "Membrana": "Gore-Tex",
@@ -179,19 +203,25 @@
         "Distância de amolecimento": "~20 km"
       },
       "scores": {
-        "Support": 4.8,
-        "Waterproofing": 4.6,
-        "Traction": 5.0,
-        "Value": 3.5,
-        "Durability": 4.9
+        "Suporte": 4.8,
+        "Impermeabilização": 4.6,
+        "Tração": 5,
+        "Valor": 3.5,
+        "Durabilidade": 4.9
       }
     },
     {
       "offerId": "columbia-newton-ridge-plus-ii",
       "badge": "Melhor Preço de Entrada",
       "review": "O Newton Ridge Plus II oferece proteção impermeável real e ajuste generoso por apenas $110, tornando-o a melhor introdução ao trekking com bota de corte médio. A sola Omni-Grip e o palmilho mais macio limitam o desempenho em terreno técnico e a durabilidade a 600-800 km. É a escolha certa para caminhadas moderadas em trilha com orçamento limitado sem necessidade de tração especializada.",
-      "pros": ["O preço mais acessível do grupo a $110", "Ajuste largo que acomoda confortavelmente pés largos", "Impermeabilização Omni-Tech genuinamente eficaz com chuva moderada"],
-      "cons": ["Sola e palmilho limitados em terreno técnico exigente"],
+      "pros": [
+        "O preço mais acessível do grupo a $110",
+        "Ajuste largo que acomoda confortavelmente pés largos",
+        "Impermeabilização Omni-Tech genuinamente eficaz com chuva moderada"
+      ],
+      "cons": [
+        "Sola e palmilho limitados em terreno técnico exigente"
+      ],
       "grade": "B-",
       "specs": {
         "Membrana": "Columbia Omni-Tech",
@@ -202,11 +232,11 @@
         "Distância de amolecimento": "~3 km"
       },
       "scores": {
-        "Support": 3.8,
-        "Waterproofing": 4.2,
-        "Traction": 3.8,
-        "Value": 5.0,
-        "Durability": 3.5
+        "Suporte": 3.8,
+        "Impermeabilização": 4.2,
+        "Tração": 3.8,
+        "Valor": 5,
+        "Durabilidade": 3.5
       }
     }
   ],

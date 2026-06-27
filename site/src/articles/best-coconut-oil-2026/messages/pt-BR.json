@@ -4,11 +4,31 @@
   "lede": "O óleo de coco é um daqueles ingredientes em que as diferenças do rótulo realmente importam. Virgem versus refinado não é marketing — determina o ponto de fumaça, o sabor e se ainda há algum teor nutritivo. Esses cinco foram escolhidos por cumprir o que prometem no pote, não por ter o branding mais bonito.",
   "methodology": "Os produtos foram comparados por método de produção (prensagem a frio vs. prensagem por expulsão vs. RBD), ponto de fumaça, sabor em aplicações culinárias, pureza dos ingredientes e certificações. O status orgânico e a transparência de origem foram fortemente ponderados dada a conhecida absorção de pesticidas pelo coco.",
   "recommendedFor": [
-    { "label": "Cozimento em alta temperatura (refogado, selagem)", "offerId": "coconut-oil-spectrum-organics", "reason": "Refinado orgânico com ponto de fumaça de 204 °C — sem sabor de coco, aguenta calor alto sem problema" },
-    { "label": "Café bulletproof e smoothies", "offerId": "coconut-oil-nutiva-organic-virgin", "reason": "O sabor virgem prensado a frio realça o café sem dominar" },
-    { "label": "Cozinha diária econômica", "offerId": "coconut-oil-carrington-farms", "reason": "Prensado a frio orgânico com o menor preço por grama dos cinco" },
-    { "label": "Cuidados com pele e cabelo", "offerId": "coconut-oil-viva-naturals-extra-virgin", "reason": "Não refinado, prensado a frio, absorve bem sem a gordura das versões refinadas" },
-    { "label": "Foco em keto e MCT", "offerId": "coconut-oil-life-extension-coconut", "reason": "Fracionado com proporção elevada de C8/C10 MCT para produção de cetonas" }
+    {
+      "label": "Cozimento em alta temperatura (refogado, selagem)",
+      "offerId": "coconut-oil-spectrum-organics",
+      "reason": "Refinado orgânico com ponto de fumaça de 204 °C — sem sabor de coco, aguenta calor alto sem problema"
+    },
+    {
+      "label": "Café bulletproof e smoothies",
+      "offerId": "coconut-oil-nutiva-organic-virgin",
+      "reason": "O sabor virgem prensado a frio realça o café sem dominar"
+    },
+    {
+      "label": "Cozinha diária econômica",
+      "offerId": "coconut-oil-carrington-farms",
+      "reason": "Prensado a frio orgânico com o menor preço por grama dos cinco"
+    },
+    {
+      "label": "Cuidados com pele e cabelo",
+      "offerId": "coconut-oil-viva-naturals-extra-virgin",
+      "reason": "Não refinado, prensado a frio, absorve bem sem a gordura das versões refinadas"
+    },
+    {
+      "label": "Foco em keto e MCT",
+      "offerId": "coconut-oil-life-extension-coconut",
+      "reason": "Fracionado com proporção elevada de C8/C10 MCT para produção de cetonas"
+    }
   ],
   "sections": [
     {
@@ -64,10 +84,10 @@
         "Serving size": "1 colher de sopa / 14 g"
       },
       "scores": {
-        "Flavor": 5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 3.5
+        "Sabor": 5,
+        "Pureza": 5,
+        "Valor": 4,
+        "Versatilidade": 3.5
       }
     },
     {
@@ -93,10 +113,10 @@
         "Serving size": "1 colher de sopa / 14 g"
       },
       "scores": {
-        "Flavor": 4.5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 4
+        "Sabor": 4.5,
+        "Pureza": 5,
+        "Valor": 4,
+        "Versatilidade": 4
       }
     },
     {
@@ -122,10 +142,10 @@
         "Serving size": "1 colher de sopa / 14 g"
       },
       "scores": {
-        "Flavor": 3,
-        "Purity": 4.5,
-        "Value": 4,
-        "Versatility": 5
+        "Sabor": 3,
+        "Pureza": 4.5,
+        "Valor": 4,
+        "Versatilidade": 5
       }
     },
     {
@@ -152,10 +172,10 @@
         "MCT content": "~7 g C8/C10 por colher de sopa"
       },
       "scores": {
-        "Macro quality": 5,
-        "Satiety": 4,
-        "Value": 3.5,
-        "Versatility": 2
+        "Qualidade de Macro": 5,
+        "Saciedade": 4,
+        "Valor": 3.5,
+        "Versatilidade": 2
       }
     },
     {
@@ -181,10 +201,10 @@
         "Serving size": "1 colher de sopa / 14 g"
       },
       "scores": {
-        "Flavor": 4,
-        "Purity": 4.5,
-        "Value": 5,
-        "Versatility": 4
+        "Sabor": 4,
+        "Pureza": 4.5,
+        "Valor": 5,
+        "Versatilidade": 4
       }
     }
   ],

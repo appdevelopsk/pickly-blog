@@ -74,58 +74,173 @@
       "offerId": "liquid-death-mountain-water",
       "badge": "Tốt Nhất Tổng Thể",
       "review": "Độ ga mạnh mẽ của Liquid Death sắc bén và bền hơn rõ rệt so với hầu hết đối thủ — nó giữ cảm giác cay tê đến ngụm cuối theo cách mà các loại nước có ga nhẹ hơn không làm được. Lấy từ dãy Alps của Áo và đóng lon nhôm, nó định vị mình là lựa chọn thiên về độ ga cho những người thấy Topo Chico và Perrier quá nhạt. Giá theo mỗi ounce cao hơn nước có ga thương hiệu siêu thị, nhưng mua theo thùng số lượng lớn đưa nó về mức hợp lý hơn.",
-      "pros": ["Độ ga mạnh và bền nhất trong so sánh này", "Lon nhôm tái chế với tỷ lệ cao hơn nhựa", "Hoạt động như một nguyên liệu pha cocktail cao cấp nơi độ bền bọt khí quan trọng"],
-      "cons": ["Giá theo mỗi ounce cao nhất — cần mua số lượng lớn để đạt giá trị hợp lý"],
+      "pros": [
+        "Độ ga mạnh và bền nhất trong so sánh này",
+        "Lon nhôm tái chế với tỷ lệ cao hơn nhựa",
+        "Hoạt động như một nguyên liệu pha cocktail cao cấp nơi độ bền bọt khí quan trọng"
+      ],
+      "cons": [
+        "Giá theo mỗi ounce cao nhất — cần mua số lượng lớn để đạt giá trị hợp lý"
+      ],
       "grade": "A+",
-      "specs": {"Source": "Dãy Alps của Áo", "Carbonation": "Rất cao (tạo ga cưỡng bức)", "Format": "Lon nhôm 16.9 oz", "Calories": "0", "Sodium": "~10mg mỗi lon", "Available flavors": "Nguyên bản + các dòng có ga hương vị"},
-      "scores": {"Carbonation level": 5.0, "Flavor": 4.3, "Value": 3.5, "Ingredient quality": 4.5, "Convenience": 4.7}
+      "specs": {
+        "Source": "Dãy Alps của Áo",
+        "Carbonation": "Rất cao (tạo ga cưỡng bức)",
+        "Format": "Lon nhôm 16.9 oz",
+        "Calories": "0",
+        "Sodium": "~10mg mỗi lon",
+        "Available flavors": "Nguyên bản + các dòng có ga hương vị"
+      },
+      "scores": {
+        "Mức cacbonátion": 5,
+        "Hương vị": 4.3,
+        "Giá trị": 3.5,
+        "Chất lượng nguyên liệu": 4.5,
+        "Tiện lợi": 4.7
+      }
     },
     {
       "offerId": "topo-chico-mineral-water",
       "badge": "Tốt Nhất Cho Cocktail",
       "review": "Topo Chico là nguyên liệu ưa thích của bartender từ lâu trước khi nó trở nên phổ biến rộng rãi, và độ ga cao, chặt — những bọt khí nhỏ dai dẳng thay vì bọt lớn mềm — là điều khiến nó hợp đến vậy với highball mezcal và tequila. Hàm lượng khoáng tự nhiên mang lại chiều sâu mằn mặn nhẹ giúp tăng độ đậm cho các loại đồ uống rượu pha nước. Phiên bản chai thủy tinh là loại đáng mua; chai nặng không thực tế cho tính di động.",
-      "pros": ["Độ ga cao, chặt giữ được qua suốt một ly pha chế", "Hàm lượng khoáng tự nhiên thêm chiều sâu mằn mặn cho cocktail", "Đóng chai tại cùng con suối Monterrey từ năm 1895 — công thức không đổi sau khi Coca-Cola mua lại"],
-      "cons": ["Chai thủy tinh nặng không thực tế cho việc mang đi hoặc dùng ngoài trời"],
+      "pros": [
+        "Độ ga cao, chặt giữ được qua suốt một ly pha chế",
+        "Hàm lượng khoáng tự nhiên thêm chiều sâu mằn mặn cho cocktail",
+        "Đóng chai tại cùng con suối Monterrey từ năm 1895 — công thức không đổi sau khi Coca-Cola mua lại"
+      ],
+      "cons": [
+        "Chai thủy tinh nặng không thực tế cho việc mang đi hoặc dùng ngoài trời"
+      ],
       "grade": "A",
-      "specs": {"Source": "Monterrey, Mexico (suối)", "Carbonation": "Cao (tạo ga tự nhiên + bơm thêm)", "Format": "Chai thủy tinh / định dạng lon hạn chế", "Calories": "0", "Minerals": "Canxi, magie, natri", "Available flavors": "Nguyên bản + Twist of Lime"},
-      "scores": {"Carbonation level": 4.8, "Flavor": 4.5, "Value": 3.8, "Ingredient quality": 4.8, "Convenience": 3.0}
+      "specs": {
+        "Source": "Monterrey, Mexico (suối)",
+        "Carbonation": "Cao (tạo ga tự nhiên + bơm thêm)",
+        "Format": "Chai thủy tinh / định dạng lon hạn chế",
+        "Calories": "0",
+        "Minerals": "Canxi, magie, natri",
+        "Available flavors": "Nguyên bản + Twist of Lime"
+      },
+      "scores": {
+        "Mức cacbonátion": 4.8,
+        "Hương vị": 4.5,
+        "Giá trị": 3.8,
+        "Chất lượng nguyên liệu": 4.8,
+        "Tiện lợi": 3
+      }
     },
     {
       "offerId": "perrier-sparkling-water",
       "badge": "Tốt Nhất Kết Hợp Món Ăn",
       "review": "Hồ sơ độ ga trung bình của Perrier — hơn La Croix, kém Topo Chico hay Liquid Death — khiến nó là lựa chọn linh hoạt nhất để kết hợp với thức ăn: đủ mạnh để làm sạch vị giác giữa các món, đủ dịu để không lấn át. Chai thủy tinh xanh biểu tượng vẫn là định dạng tiêu chuẩn, và các dòng hương vị (chanh xanh, chanh vàng, bưởi) dùng hương trái cây thật mà không thêm chất tạo ngọt hay axit citric.",
-      "pros": ["Độ ga trung bình hoạt động như chất làm sạch vị giác giữa các món", "Các dòng hương vị dùng hương thật không chất tạo ngọt hay axit citric", "Chai được công nhận toàn cầu phù hợp để phục vụ trên bàn"],
-      "cons": ["Độ ga tan nhanh hơn Topo Chico hay Liquid Death trong hộp đã mở"],
+      "pros": [
+        "Độ ga trung bình hoạt động như chất làm sạch vị giác giữa các món",
+        "Các dòng hương vị dùng hương thật không chất tạo ngọt hay axit citric",
+        "Chai được công nhận toàn cầu phù hợp để phục vụ trên bàn"
+      ],
+      "cons": [
+        "Độ ga tan nhanh hơn Topo Chico hay Liquid Death trong hộp đã mở"
+      ],
       "grade": "B+",
-      "specs": {"Source": "Vergèze, Pháp (suối tự nhiên)", "Carbonation": "Trung bình (CO2 thu lại và bơm lại)", "Format": "Chai thủy tinh / lon nhôm / nhựa", "Calories": "0", "Minerals": "Canxi, magie, natri", "Available flavors": "Nguyên bản + chanh xanh, chanh vàng, bưởi, dâu tây"},
-      "scores": {"Carbonation level": 3.8, "Flavor": 4.5, "Value": 4.0, "Ingredient quality": 4.7, "Convenience": 4.2}
+      "specs": {
+        "Source": "Vergèze, Pháp (suối tự nhiên)",
+        "Carbonation": "Trung bình (CO2 thu lại và bơm lại)",
+        "Format": "Chai thủy tinh / lon nhôm / nhựa",
+        "Calories": "0",
+        "Minerals": "Canxi, magie, natri",
+        "Available flavors": "Nguyên bản + chanh xanh, chanh vàng, bưởi, dâu tây"
+      },
+      "scores": {
+        "Mức cacbonátion": 3.8,
+        "Hương vị": 4.5,
+        "Giá trị": 4,
+        "Chất lượng nguyên liệu": 4.7,
+        "Tiện lợi": 4.2
+      }
     },
     {
       "offerId": "la-croix-sparkling-water",
       "badge": "Tốt Nhất Cho Uống Nhiều Hằng Ngày",
       "review": "Độ ga nhẹ của La Croix là một ưu điểm, không phải khuyết điểm, với người dùng cố gắng đạt mục tiêu cấp nước hằng ngày — sự dịu nhẹ nghĩa là bạn có thể uống một lượng lớn mà không bị đầy hơi. Hơn 20 hương vị tinh chất tự nhiên bao phủ các gia đình có sở thích khác nhau, và giá theo thùng luôn nằm trong nhóm cạnh tranh nhất ở danh mục nước có ga. Đây là loại nước ít thú vị nhất trong danh sách này, nhưng thực tế nhất như một lựa chọn dùng hằng ngày.",
-      "pros": ["Độ ga nhẹ cho phép uống nhiều mà không bị đầy hơi", "Hơn 20 hương vị bao gồm gói đa dạng cho gia đình có sở thích khác nhau", "Giá theo thùng cạnh tranh ổn định"],
-      "cons": ["Độ ga nhanh chóng mất trong ly pha chế — không phù hợp làm nguyên liệu cocktail"],
+      "pros": [
+        "Độ ga nhẹ cho phép uống nhiều mà không bị đầy hơi",
+        "Hơn 20 hương vị bao gồm gói đa dạng cho gia đình có sở thích khác nhau",
+        "Giá theo thùng cạnh tranh ổn định"
+      ],
+      "cons": [
+        "Độ ga nhanh chóng mất trong ly pha chế — không phù hợp làm nguyên liệu cocktail"
+      ],
       "grade": "B",
-      "specs": {"Source": "Nước đô thị (tạo ga)", "Carbonation": "Nhẹ", "Format": "Lon nhôm mảnh", "Calories": "0", "Sweeteners": "Không có", "Available flavors": "Hơn 20 biến thể tinh chất tự nhiên"},
-      "scores": {"Carbonation level": 2.5, "Flavor": 3.8, "Value": 4.8, "Ingredient quality": 4.3, "Convenience": 5.0}
+      "specs": {
+        "Source": "Nước đô thị (tạo ga)",
+        "Carbonation": "Nhẹ",
+        "Format": "Lon nhôm mảnh",
+        "Calories": "0",
+        "Sweeteners": "Không có",
+        "Available flavors": "Hơn 20 biến thể tinh chất tự nhiên"
+      },
+      "scores": {
+        "Mức cacbonátion": 2.5,
+        "Hương vị": 3.8,
+        "Giá trị": 4.8,
+        "Chất lượng nguyên liệu": 4.3,
+        "Tiện lợi": 5
+      }
     },
     {
       "offerId": "spindrift-sparkling-water",
       "badge": "Hương Trái Cây Thật Tốt Nhất",
       "review": "Spindrift là trường hợp ngoại lệ trong so sánh này: nước ép trái cây vắt thật trong mỗi lon tạo ra hương vị thật sự giống trái cây thực sự chứ không phải sự mô phỏng. Đặc biệt biến thể chanh vàng nổi bật vì sự chân thật — nó có vị như ai đó đã vắt một quả chanh vào nước có ga, vì về cơ bản đó chính là điều đã xảy ra. Lượng calo nhỏ (9-17 mỗi lon) khiến nó không đủ tiêu chuẩn là lựa chọn không calo, đó là sự đánh đổi đáng kể duy nhất.",
-      "pros": ["Nước ép trái cây vắt thật — hương vị chân thật nhất trong so sánh này", "Danh sách thành phần ngắn: nước có ga, nước ép trái cây, đôi khi puree", "Lựa chọn tốt nhất kèm bữa sáng nơi axit trái cây hợp với thức ăn"],
-      "cons": ["9-17 calo mỗi lon — không phải không calo dù hàm lượng đường tối thiểu"],
+      "pros": [
+        "Nước ép trái cây vắt thật — hương vị chân thật nhất trong so sánh này",
+        "Danh sách thành phần ngắn: nước có ga, nước ép trái cây, đôi khi puree",
+        "Lựa chọn tốt nhất kèm bữa sáng nơi axit trái cây hợp với thức ăn"
+      ],
+      "cons": [
+        "9-17 calo mỗi lon — không phải không calo dù hàm lượng đường tối thiểu"
+      ],
       "grade": "B-",
-      "specs": {"Source": "Nước đô thị (tạo ga)", "Carbonation": "Trung bình-nhẹ", "Format": "Lon nhôm tiêu chuẩn", "Calories": "9–17 mỗi lon (tùy hương vị)", "Juice content": "Nước ép trái cây vắt thật", "Available flavors": "Chanh vàng, Bưởi, Raspberry Lime, Dâu tây, và khác"},
-      "scores": {"Carbonation level": 3.5, "Flavor": 5.0, "Value": 3.8, "Ingredient quality": 5.0, "Convenience": 4.5}
+      "specs": {
+        "Source": "Nước đô thị (tạo ga)",
+        "Carbonation": "Trung bình-nhẹ",
+        "Format": "Lon nhôm tiêu chuẩn",
+        "Calories": "9–17 mỗi lon (tùy hương vị)",
+        "Juice content": "Nước ép trái cây vắt thật",
+        "Available flavors": "Chanh vàng, Bưởi, Raspberry Lime, Dâu tây, và khác"
+      },
+      "scores": {
+        "Mức cacbonátion": 3.5,
+        "Hương vị": 5,
+        "Giá trị": 3.8,
+        "Chất lượng nguyên liệu": 5,
+        "Tiện lợi": 4.5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Để thỏa mãn độ ga tối đa", "offerId": "liquid-death-mountain-water", "reason": "Nếu bạn thấy các loại nước có ga khác quá dịu, độ ga mạnh mẽ của Liquid Death mang lại cảm giác sắc bén nhất và giữ được đến ngụm cuối."},
-    {"label": "Để pha cocktail", "offerId": "topo-chico-mineral-water", "reason": "Bọt khí nhỏ, dai dẳng và chiều sâu khoáng tự nhiên giữ vững qua suốt một ly pha chế — lý do các bartender chọn nó trước khi nó trở nên phổ biến."},
-    {"label": "Để kết hợp món ăn trên bàn", "offerId": "perrier-sparkling-water", "reason": "Độ ga trung bình làm sạch vị giác giữa các món mà không lấn át, và chai trông đẹp trên bàn ăn tối."},
-    {"label": "Để cấp nước nhiều hằng ngày", "offerId": "la-croix-sparkling-water", "reason": "Bọt khí nhẹ, hơn 20 hương vị, và giá theo thùng cạnh tranh khiến nó là lựa chọn thực tế nhất khi bạn uống nhiều lon mỗi ngày."},
-    {"label": "Để có hương trái cây thật không phụ gia nhân tạo", "offerId": "spindrift-sparkling-water", "reason": "Nước ép vắt thật tạo ra hương trái cây thật sự chân thật — lựa chọn duy nhất trong so sánh này giải quyết hoàn toàn phàn nàn về 'hương vị nhân tạo'."}
+    {
+      "label": "Để thỏa mãn độ ga tối đa",
+      "offerId": "liquid-death-mountain-water",
+      "reason": "Nếu bạn thấy các loại nước có ga khác quá dịu, độ ga mạnh mẽ của Liquid Death mang lại cảm giác sắc bén nhất và giữ được đến ngụm cuối."
+    },
+    {
+      "label": "Để pha cocktail",
+      "offerId": "topo-chico-mineral-water",
+      "reason": "Bọt khí nhỏ, dai dẳng và chiều sâu khoáng tự nhiên giữ vững qua suốt một ly pha chế — lý do các bartender chọn nó trước khi nó trở nên phổ biến."
+    },
+    {
+      "label": "Để kết hợp món ăn trên bàn",
+      "offerId": "perrier-sparkling-water",
+      "reason": "Độ ga trung bình làm sạch vị giác giữa các món mà không lấn át, và chai trông đẹp trên bàn ăn tối."
+    },
+    {
+      "label": "Để cấp nước nhiều hằng ngày",
+      "offerId": "la-croix-sparkling-water",
+      "reason": "Bọt khí nhẹ, hơn 20 hương vị, và giá theo thùng cạnh tranh khiến nó là lựa chọn thực tế nhất khi bạn uống nhiều lon mỗi ngày."
+    },
+    {
+      "label": "Để có hương trái cây thật không phụ gia nhân tạo",
+      "offerId": "spindrift-sparkling-water",
+      "reason": "Nước ép vắt thật tạo ra hương trái cây thật sự chân thật — lựa chọn duy nhất trong so sánh này giải quyết hoàn toàn phàn nàn về 'hương vị nhân tạo'."
+    }
   ]
 }

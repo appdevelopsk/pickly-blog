@@ -92,58 +92,173 @@
       "offerId": "anova-precision-cooker-pro",
       "badge": "Tốt nhất tổng thể",
       "review": "Anova Precision Cooker Pro đặt ra chuẩn mực cho sous vide tại nhà nghiêm túc: 1200W xử lý vật chứa lớn mà không chật vật, độ chính xác ±0,1°C quan trọng với trứng và cá, và máy vận hành hoàn toàn thủ công mà không cần app. WiFi thêm tùy chọn theo dõi từ xa cho các lần nấu qua đêm — một lợi thế thực tế khi bạn đang ngủ và vai heo nấu 24 giờ vẫn đang chạy.",
-      "pros": ["Động cơ 1200W xử lý vật chứa tới 100L mà không khựng", "Nút điều khiển thủ công đầy đủ — hoạt động không cần app hay WiFi", "Độ chính xác ±0,1°C đáng tin cậy cho trứng và protein nhạy nhiệt độ"],
-      "cons": ["Giá 199$ là cao ngang mức cao nhất trong so sánh này"],
+      "pros": [
+        "Động cơ 1200W xử lý vật chứa tới 100L mà không khựng",
+        "Nút điều khiển thủ công đầy đủ — hoạt động không cần app hay WiFi",
+        "Độ chính xác ±0,1°C đáng tin cậy cho trứng và protein nhạy nhiệt độ"
+      ],
+      "cons": [
+        "Giá 199$ là cao ngang mức cao nhất trong so sánh này"
+      ],
       "grade": "A+",
-      "specs": {"Power": "1200W", "Temp accuracy": "±0,1°C", "Temp range": "0–92°C", "Container max": "100L", "Connectivity": "WiFi + Bluetooth", "Dimensions": "Cao 38cm, 490g"},
-      "scores": {"Temperature accuracy": 4.9, "Power": 5.0, "Ease of use": 4.5, "Value": 3.8, "Noise": 4.0}
+      "specs": {
+        "Power": "1200W",
+        "Temp accuracy": "±0,1°C",
+        "Temp range": "0–92°C",
+        "Container max": "100L",
+        "Connectivity": "WiFi + Bluetooth",
+        "Dimensions": "Cao 38cm, 490g"
+      },
+      "scores": {
+        "Độ chính xác nhiệt độ": 4.9,
+        "Công suất": 5,
+        "Dễ sử dụng": 4.5,
+        "Giá trị": 3.8,
+        "Tiếng ồn": 4
+      }
     },
     {
       "offerId": "breville-joule-turbo",
       "badge": "Thiết kế nhỏ gọn nhất",
       "review": "Breville Joule Turbo là máy đủ công suất nhỏ nhất trong so sánh này với 28cm và 281g, và chế độ Turbo của nó thực sự giảm thời gian làm nóng tới 30% — có ý nghĩa với nấu ăn ngày thường khi bạn muốn khởi động bể nước trước khi cắt rau. Vận hành chỉ qua app là một sự phụ thuộc có thật: nếu app mất hỗ trợ cho hệ điều hành điện thoại của bạn, máy trở nên không thể vận hành.",
-      "pros": ["Máy đủ công suất nhỏ và nhẹ nhất — 28cm, 281g", "Chế độ Turbo giảm thời gian làm nóng tới 30%", "App thiết kế tốt với thời gian nấu hướng dẫn cho các protein phổ biến"],
-      "cons": ["Chỉ vận hành qua app — không có nút điều khiển thủ công trên máy"],
+      "pros": [
+        "Máy đủ công suất nhỏ và nhẹ nhất — 28cm, 281g",
+        "Chế độ Turbo giảm thời gian làm nóng tới 30%",
+        "App thiết kế tốt với thời gian nấu hướng dẫn cho các protein phổ biến"
+      ],
+      "cons": [
+        "Chỉ vận hành qua app — không có nút điều khiển thủ công trên máy"
+      ],
       "grade": "A",
-      "specs": {"Power": "1100W", "Temp accuracy": "±0,1°C", "Temp range": "25–99°C", "Container max": "30L", "Connectivity": "WiFi (bắt buộc)", "Dimensions": "Cao 28cm, 281g"},
-      "scores": {"Temperature accuracy": 4.8, "Power": 4.7, "Ease of use": 4.0, "Value": 3.9, "Noise": 4.5}
+      "specs": {
+        "Power": "1100W",
+        "Temp accuracy": "±0,1°C",
+        "Temp range": "25–99°C",
+        "Container max": "30L",
+        "Connectivity": "WiFi (bắt buộc)",
+        "Dimensions": "Cao 28cm, 281g"
+      },
+      "scores": {
+        "Độ chính xác nhiệt độ": 4.8,
+        "Công suất": 4.7,
+        "Dễ sử dụng": 4,
+        "Giá trị": 3.9,
+        "Tiếng ồn": 4.5
+      }
     },
     {
       "offerId": "inkbird-isv100w",
       "badge": "Lựa chọn WiFi giá rẻ tốt nhất",
       "review": "Inkbird ISV-100W mang lại kết nối WiFi và nút điều khiển vật lý thủ công ở mức giá thấp hơn đáng kể so với Anova và Breville. Độ chính xác ±0,5°C là đủ cho bít tết, gà và heo — nó chỉ trở thành hạn chế với trứng và cá nơi các cửa sổ nhiệt độ hẹp quan trọng. Đặt nó ở điểm giữa của khoảng nhiệt độ mục tiêu và máy hoạt động đáng tin cậy cho nấu ăn hằng ngày.",
-      "pros": ["Núm xoay và màn hình thủ công — hoạt động không cần điện thoại hay WiFi", "WiFi cho phép tùy chọn hẹn giờ và theo dõi từ xa", "Giá rẻ với độ chính xác đủ cho hầu hết các protein"],
-      "cons": ["Độ chính xác ±0,5°C bỏ lỡ cửa sổ hẹp cho trứng và cá mềm"],
+      "pros": [
+        "Núm xoay và màn hình thủ công — hoạt động không cần điện thoại hay WiFi",
+        "WiFi cho phép tùy chọn hẹn giờ và theo dõi từ xa",
+        "Giá rẻ với độ chính xác đủ cho hầu hết các protein"
+      ],
+      "cons": [
+        "Độ chính xác ±0,5°C bỏ lỡ cửa sổ hẹp cho trứng và cá mềm"
+      ],
       "grade": "B+",
-      "specs": {"Power": "1000W", "Temp accuracy": "±0,5°C", "Temp range": "25–99,9°C", "Container max": "12L", "Connectivity": "WiFi + điều khiển thủ công", "Dimensions": "Cao 33cm, ~900g"},
-      "scores": {"Temperature accuracy": 4.0, "Power": 4.3, "Ease of use": 4.7, "Value": 4.9, "Noise": 4.2}
+      "specs": {
+        "Power": "1000W",
+        "Temp accuracy": "±0,5°C",
+        "Temp range": "25–99,9°C",
+        "Container max": "12L",
+        "Connectivity": "WiFi + điều khiển thủ công",
+        "Dimensions": "Cao 33cm, ~900g"
+      },
+      "scores": {
+        "Độ chính xác nhiệt độ": 4,
+        "Công suất": 4.3,
+        "Dễ sử dụng": 4.7,
+        "Giá trị": 4.9,
+        "Tiếng ồn": 4.2
+      }
     },
     {
       "offerId": "wancle-sous-vide",
       "badge": "Lựa chọn không cần app tốt nhất",
       "review": "Wancle Sous Vide Cooker là máy đơn giản nhất trong so sánh này: xoay núm để đặt nhiệt độ và thời gian, kẹp vào bất kỳ nồi nào, rồi đi làm việc khác. Không WiFi, không tài khoản đám mây, không có bản cập nhật app nào có thể làm hỏng chức năng. Công suất 850W là đủ cho nấu một bữa trong nồi tới 15L. Nếu bạn không tin tưởng các thiết bị phụ thuộc app, đây là giải pháp thay thế đơn giản.",
-      "pros": ["Không app, không WiFi, không phụ thuộc đám mây — hoàn toàn độc lập", "Vận hành núm xoay đơn giản với màn hình LED", "Đáng tin cậy cho mọi việc nấu sous vide cơ bản không phức tạp"],
-      "cons": ["850W chật vật với vật chứa lớn — thời gian làm nóng lâu hơn các máy từ 1000W trở lên"],
+      "pros": [
+        "Không app, không WiFi, không phụ thuộc đám mây — hoàn toàn độc lập",
+        "Vận hành núm xoay đơn giản với màn hình LED",
+        "Đáng tin cậy cho mọi việc nấu sous vide cơ bản không phức tạp"
+      ],
+      "cons": [
+        "850W chật vật với vật chứa lớn — thời gian làm nóng lâu hơn các máy từ 1000W trở lên"
+      ],
       "grade": "B",
-      "specs": {"Power": "850W", "Temp accuracy": "±0,5°C", "Temp range": "25–99,5°C", "Container max": "15L", "Connectivity": "Không", "Dimensions": "Cao 30cm, ~800g"},
-      "scores": {"Temperature accuracy": 3.8, "Power": 3.5, "Ease of use": 5.0, "Value": 4.7, "Noise": 4.0}
+      "specs": {
+        "Power": "850W",
+        "Temp accuracy": "±0,5°C",
+        "Temp range": "25–99,5°C",
+        "Container max": "15L",
+        "Connectivity": "Không",
+        "Dimensions": "Cao 30cm, ~800g"
+      },
+      "scores": {
+        "Độ chính xác nhiệt độ": 3.8,
+        "Công suất": 3.5,
+        "Dễ sử dụng": 5,
+        "Giá trị": 4.7,
+        "Tiếng ồn": 4
+      }
     },
     {
       "offerId": "polyscience-creative-sous-vide",
       "badge": "Độ chính xác nhiệt độ tốt nhất",
       "review": "PolyScience Creative Series là máy duy nhất trong so sánh này có dòng dõi bếp chuyên nghiệp và độ ổn định nhiệt độ ±0,07°C — độ chính xác mà bếp nhà hàng cần để tái lập công thức qua hàng trăm mẻ nấu. Với người nấu tại nhà thường xuyên chế biến trứng 63°C hoặc cá hồi 45°C, độ chính xác này loại bỏ sự dao động kết cấu mà các máy ±0,5°C gây ra. Giá phản ánh chất lượng chế tạo cấp chuyên nghiệp.",
-      "pros": ["Độ ổn định nhiệt độ ±0,07°C — độ chính xác chặt nhất trong so sánh này", "Dòng dõi bếp chuyên nghiệp với bảo vệ chống bắn nước đạt chuẩn IP", "Nút điều khiển thủ công không phụ thuộc app"],
-      "cons": ["Giá 329$ khó biện minh trừ khi độ chính xác cho trứng hoặc cá là yêu cầu hàng đầu"],
+      "pros": [
+        "Độ ổn định nhiệt độ ±0,07°C — độ chính xác chặt nhất trong so sánh này",
+        "Dòng dõi bếp chuyên nghiệp với bảo vệ chống bắn nước đạt chuẩn IP",
+        "Nút điều khiển thủ công không phụ thuộc app"
+      ],
+      "cons": [
+        "Giá 329$ khó biện minh trừ khi độ chính xác cho trứng hoặc cá là yêu cầu hàng đầu"
+      ],
       "grade": "B-",
-      "specs": {"Power": "1100W", "Temp accuracy": "±0,07°C", "Temp range": "25–99°C", "Flow rate": "11,5L/phút", "Connectivity": "Không (chỉ thủ công)", "Build": "Chuyên nghiệp, đạt chuẩn IP"},
-      "scores": {"Temperature accuracy": 5.0, "Power": 4.7, "Ease of use": 4.3, "Value": 3.0, "Noise": 3.8}
+      "specs": {
+        "Power": "1100W",
+        "Temp accuracy": "±0,07°C",
+        "Temp range": "25–99°C",
+        "Flow rate": "11,5L/phút",
+        "Connectivity": "Không (chỉ thủ công)",
+        "Build": "Chuyên nghiệp, đạt chuẩn IP"
+      },
+      "scores": {
+        "Độ chính xác nhiệt độ": 5,
+        "Công suất": 4.7,
+        "Dễ sử dụng": 4.3,
+        "Giá trị": 3,
+        "Tiếng ồn": 3.8
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Cho người nấu qua đêm và mẻ lớn", "offerId": "anova-precision-cooker-pro", "reason": "1200W xử lý vật chứa 30L và theo dõi WiFi cho phép bạn kiểm tra nhiệt độ ngay trên giường trong một lần nấu vai heo 24 giờ."},
-    {"label": "Cho người nấu bếp nhỏ muốn làm nóng nhanh", "offerId": "breville-joule-turbo", "reason": "Máy đủ công suất nhỏ nhất với chế độ Turbo — việc giảm thời gian làm nóng có ý nghĩa khi bạn khởi động bể nước trong lúc chuẩn bị bữa tối ngày thường."},
-    {"label": "Cho người mua sous vide lần đầu với ngân sách hạn chế", "offerId": "inkbird-isv100w", "reason": "Theo dõi WiFi cộng với nút điều khiển thủ công dự phòng ở mức giá rẻ — ±0,5°C đủ chính xác cho bít tết, gà và vai heo."},
-    {"label": "Cho người mua không tin tưởng thiết bị phụ thuộc app", "offerId": "wancle-sous-vide", "reason": "Chỉ núm xoay và đèn LED — không có gì để cập nhật, không có gì để mất kết nối, không có gì ngừng hoạt động khi một công ty đẩy hệ điều hành mới."},
-    {"label": "Cho trứng, cá và nấu chính xác tái lập được", "offerId": "polyscience-creative-sous-vide", "reason": "Độ ổn định ±0,07°C nghĩa là trứng 63°C ra giống hệt nhau mỗi sáng — độ chính xác mà các máy ±0,5°C không thể mang lại một cách đáng tin cậy."}
+    {
+      "label": "Cho người nấu qua đêm và mẻ lớn",
+      "offerId": "anova-precision-cooker-pro",
+      "reason": "1200W xử lý vật chứa 30L và theo dõi WiFi cho phép bạn kiểm tra nhiệt độ ngay trên giường trong một lần nấu vai heo 24 giờ."
+    },
+    {
+      "label": "Cho người nấu bếp nhỏ muốn làm nóng nhanh",
+      "offerId": "breville-joule-turbo",
+      "reason": "Máy đủ công suất nhỏ nhất với chế độ Turbo — việc giảm thời gian làm nóng có ý nghĩa khi bạn khởi động bể nước trong lúc chuẩn bị bữa tối ngày thường."
+    },
+    {
+      "label": "Cho người mua sous vide lần đầu với ngân sách hạn chế",
+      "offerId": "inkbird-isv100w",
+      "reason": "Theo dõi WiFi cộng với nút điều khiển thủ công dự phòng ở mức giá rẻ — ±0,5°C đủ chính xác cho bít tết, gà và vai heo."
+    },
+    {
+      "label": "Cho người mua không tin tưởng thiết bị phụ thuộc app",
+      "offerId": "wancle-sous-vide",
+      "reason": "Chỉ núm xoay và đèn LED — không có gì để cập nhật, không có gì để mất kết nối, không có gì ngừng hoạt động khi một công ty đẩy hệ điều hành mới."
+    },
+    {
+      "label": "Cho trứng, cá và nấu chính xác tái lập được",
+      "offerId": "polyscience-creative-sous-vide",
+      "reason": "Độ ổn định ±0,07°C nghĩa là trứng 63°C ra giống hệt nhau mỗi sáng — độ chính xác mà các máy ±0,5°C không thể mang lại một cách đáng tin cậy."
+    }
   ]
 }

@@ -67,58 +67,178 @@
       "offerId": "fage-total-0",
       "badge": "Terbaik Keseluruhan",
       "review": "Fage Total 0% menetapkan standar yogurt Yunani autentik dengan 18-19g protein per 200g dan hanya 2 bahan — tanpa pengental, tanpa pektin, tekstur sepenuhnya dari penyaringan. Rasanya lebih tajam dan lebih asam dari merek Amerika, yang merupakan fitur bukan bug bagi mereka yang menginginkan produk asli.",
-      "pros": ["18-19g protein per 200g — protein non-fat tertinggi di pasar mainstream", "Hanya 2 bahan, tanpa pengental atau aditif", "Tekstur padat yang mempertahankan bentuk ketika sendok"],
-      "cons": ["Rasa asam yang lebih tajam mungkin perlu adaptasi bagi yang terbiasa dengan merek yang lebih lembut"],
+      "pros": [
+        "18-19g protein per 200g — protein non-fat tertinggi di pasar mainstream",
+        "Hanya 2 bahan, tanpa pengental atau aditif",
+        "Tekstur padat yang mempertahankan bentuk ketika sendok"
+      ],
+      "cons": [
+        "Rasa asam yang lebih tajam mungkin perlu adaptasi bagi yang terbiasa dengan merek yang lebih lembut"
+      ],
       "grade": "A+",
-      "specs": {"Serving": "200g", "Protein": "18-19g", "Fat": "0%", "Sugar": "~8g alami", "Ingredients": "2", "Certifications": "Halal", "Price": "~$7.49"},
-      "scores": {"Protein": 4.9, "Taste": 4.5, "Value": 4.3, "Texture": 4.8, "Ingredient quality": 4.9}
+      "specs": {
+        "Serving": "200g",
+        "Protein": "18-19g",
+        "Fat": "0%",
+        "Sugar": "~8g alami",
+        "Ingredients": "2",
+        "Certifications": "Halal",
+        "Price": "~$7.49"
+      },
+      "scores": {
+        "Protein": 4.9,
+        "Rasa": 4.5,
+        "Nilai": 4.3,
+        "Tekstur": 4.8,
+        "Kualitas Bahan": 4.9
+      }
     },
     {
       "offerId": "chobani-plain-nonfat",
       "badge": "Nilai Sehari-hari Terbaik",
       "review": "Chobani Plain Non-Fat adalah andalan kategori — kental tapi tidak padat, keasaman bersih, dan 15g protein per cangkir 150g dengan hanya 3 bahan. Tub 900g adalah nilai terbaik per gram protein di toko bahan makanan mainstream.",
-      "pros": ["Formula 3-bahan tanpa gula tambahan", "Tub 900g memberikan nilai biaya-protein-per-gram yang sangat baik", "Benar-benar serbaguna dalam memasak dan smoothie"],
-      "cons": ["Versi non-fat sedikit lebih tinggi karbohidrat dari 2% karena penghilangan lemak memusatkan gula susu"],
+      "pros": [
+        "Formula 3-bahan tanpa gula tambahan",
+        "Tub 900g memberikan nilai biaya-protein-per-gram yang sangat baik",
+        "Benar-benar serbaguna dalam memasak dan smoothie"
+      ],
+      "cons": [
+        "Versi non-fat sedikit lebih tinggi karbohidrat dari 2% karena penghilangan lemak memusatkan gula susu"
+      ],
       "grade": "A",
-      "specs": {"Serving": "150g", "Protein": "15g", "Fat": "0%", "Sugar": "~6g alami", "Ingredients": "3", "Tub size": "Tersedia 900g", "Price": "~$6.98"},
-      "scores": {"Protein": 4.5, "Taste": 4.4, "Value": 4.8, "Texture": 4.3, "Ingredient quality": 4.6}
+      "specs": {
+        "Serving": "150g",
+        "Protein": "15g",
+        "Fat": "0%",
+        "Sugar": "~6g alami",
+        "Ingredients": "3",
+        "Tub size": "Tersedia 900g",
+        "Price": "~$6.98"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Rasa": 4.4,
+        "Nilai": 4.8,
+        "Tekstur": 4.3,
+        "Kualitas Bahan": 4.6
+      }
     },
     {
       "offerId": "siggis-icelandic-yogurt",
       "badge": "Rendah Gula Terbaik",
       "review": "Yogurt gaya skyr Siggi's memberikan 17g protein per 150g dengan hanya 6g karbohidrat — rasio gula-terhadap-protein terendah dalam perbandingan ini. Teksturnya lebih padat dari yogurt Yunani, hampir bisa dioleskan, dan rasanya lebih asam secara tegas.",
-      "pros": ["Hanya 6g total karbohidrat per cangkir 150g", "17g protein dengan gula tambahan sangat rendah di seluruh lini rasa", "Kepadatan skyr unik berfungsi sebagai pengganti krim keju di atas roti panggang"],
-      "cons": ["Rasa asam yang tegas adalah rasa yang diperoleh"],
+      "pros": [
+        "Hanya 6g total karbohidrat per cangkir 150g",
+        "17g protein dengan gula tambahan sangat rendah di seluruh lini rasa",
+        "Kepadatan skyr unik berfungsi sebagai pengganti krim keju di atas roti panggang"
+      ],
+      "cons": [
+        "Rasa asam yang tegas adalah rasa yang diperoleh"
+      ],
       "grade": "B+",
-      "specs": {"Serving": "150g", "Protein": "17g", "Fat": "0%", "Total carbs": "6g", "Style": "Skyr Islandia", "Sweetener": "Tidak ada (polos)", "Price": "~$6.49"},
-      "scores": {"Protein": 4.7, "Taste": 4.0, "Value": 4.0, "Texture": 4.6, "Ingredient quality": 4.7}
+      "specs": {
+        "Serving": "150g",
+        "Protein": "17g",
+        "Fat": "0%",
+        "Total carbs": "6g",
+        "Style": "Skyr Islandia",
+        "Sweetener": "Tidak ada (polos)",
+        "Price": "~$6.49"
+      },
+      "scores": {
+        "Protein": 4.7,
+        "Rasa": 4,
+        "Nilai": 4,
+        "Tekstur": 4.6,
+        "Kualitas Bahan": 4.7
+      }
     },
     {
       "offerId": "oikos-triple-zero",
       "badge": "Pilihan Rasa Terbaik",
       "review": "Oikos Triple Zero mencapai 15g protein pada 90 kalori dengan nol gula tambahan, nol pemanis buatan, dan nol lemak — menggunakan ekstrak buah biksu dalam varietas rasa. Bagi pelacak makro yang menginginkan yogurt rasa tanpa stevia atau sukralosa, ini adalah satu-satunya pilihan mainstream.",
-      "pros": ["Nol gula tambahan, nol pemanis buatan, nol lemak di lini rasa", "Dimaniskan buah biksu — tanpa stevia atau sukralosa", "15g protein pada 90 kalori"],
-      "cons": ["Beberapa varietas rasa menyertakan serat akar chicory (periksa label jika sensitif)"],
+      "pros": [
+        "Nol gula tambahan, nol pemanis buatan, nol lemak di lini rasa",
+        "Dimaniskan buah biksu — tanpa stevia atau sukralosa",
+        "15g protein pada 90 kalori"
+      ],
+      "cons": [
+        "Beberapa varietas rasa menyertakan serat akar chicory (periksa label jika sensitif)"
+      ],
       "grade": "B",
-      "specs": {"Serving": "150g", "Protein": "15g", "Fat": "0%", "Carbs": "7g", "Added sugar": "0g", "Sweetener": "Buah biksu", "Price": "~$1.49"},
-      "scores": {"Protein": 4.5, "Taste": 4.2, "Value": 4.9, "Texture": 4.1, "Ingredient quality": 4.2}
+      "specs": {
+        "Serving": "150g",
+        "Protein": "15g",
+        "Fat": "0%",
+        "Carbs": "7g",
+        "Added sugar": "0g",
+        "Sweetener": "Buah biksu",
+        "Price": "~$1.49"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Rasa": 4.2,
+        "Nilai": 4.9,
+        "Tekstur": 4.1,
+        "Kualitas Bahan": 4.2
+      }
     },
     {
       "offerId": "stonyfield-organic-greek",
       "badge": "Terbaik untuk Sumber Bahan",
       "review": "Stonyfield Organic adalah pilihan ketika sertifikasi dan sumber bahan penting: bersertifikat USDA organik, susu sapi yang merumput, dan lima strain probiotik hidup bernama di label. Protein 14-15g per sajian sedikit lebih rendah dari Fage, dan rasanya lebih lembut.",
-      "pros": ["Bersertifikat USDA organik dengan sumber susu sapi yang merumput", "5 kultur probiotik hidup bernama tercantum di label", "Rasa lembut cocok bagi yang merasa Fage terlalu asam"],
-      "cons": ["Protein sedikit lebih rendah (14-15g) dan biaya per gram lebih tinggi dari Chobani atau Fage"],
+      "pros": [
+        "Bersertifikat USDA organik dengan sumber susu sapi yang merumput",
+        "5 kultur probiotik hidup bernama tercantum di label",
+        "Rasa lembut cocok bagi yang merasa Fage terlalu asam"
+      ],
+      "cons": [
+        "Protein sedikit lebih rendah (14-15g) dan biaya per gram lebih tinggi dari Chobani atau Fage"
+      ],
       "grade": "B-",
-      "specs": {"Serving": "150g", "Protein": "14-15g", "Certification": "USDA Organik", "Milk source": "Sapi yang merumput", "Probiotics": "5 strain bernama", "Fat": "0%", "Price": "~$7.99"},
-      "scores": {"Protein": 4.2, "Taste": 4.3, "Value": 3.8, "Texture": 4.2, "Ingredient quality": 4.9}
+      "specs": {
+        "Serving": "150g",
+        "Protein": "14-15g",
+        "Certification": "USDA Organik",
+        "Milk source": "Sapi yang merumput",
+        "Probiotics": "5 strain bernama",
+        "Fat": "0%",
+        "Price": "~$7.99"
+      },
+      "scores": {
+        "Protein": 4.2,
+        "Rasa": 4.3,
+        "Nilai": 3.8,
+        "Tekstur": 4.2,
+        "Kualitas Bahan": 4.9
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk protein maksimal per sajian", "offerId": "fage-total-0", "reason": "18-19g protein per 200g dengan hanya 2 bahan dan tanpa pengental"},
-    {"label": "Untuk memasak sehari-hari dan nilai", "offerId": "chobani-plain-nonfat", "reason": "Biaya protein terbaik per gram dalam tub 900g dengan formula 3-bahan yang bersih"},
-    {"label": "Untuk asupan gula yang sangat rendah", "offerId": "siggis-icelandic-yogurt", "reason": "Hanya 6g total karbohidrat per sajian dengan 17g protein — rasio gula-terhadap-protein terendah"},
-    {"label": "Untuk yogurt rasa tanpa pemanis buatan", "offerId": "oikos-triple-zero", "reason": "Dimaniskan buah biksu dengan nol gula tambahan dan tanpa stevia atau sukralosa"},
-    {"label": "Untuk sumber organik dan sapi yang merumput", "offerId": "stonyfield-organic-greek", "reason": "USDA organik, susu sapi yang merumput, dan 5 strain probiotik bernama di label"}
+    {
+      "label": "Untuk protein maksimal per sajian",
+      "offerId": "fage-total-0",
+      "reason": "18-19g protein per 200g dengan hanya 2 bahan dan tanpa pengental"
+    },
+    {
+      "label": "Untuk memasak sehari-hari dan nilai",
+      "offerId": "chobani-plain-nonfat",
+      "reason": "Biaya protein terbaik per gram dalam tub 900g dengan formula 3-bahan yang bersih"
+    },
+    {
+      "label": "Untuk asupan gula yang sangat rendah",
+      "offerId": "siggis-icelandic-yogurt",
+      "reason": "Hanya 6g total karbohidrat per sajian dengan 17g protein — rasio gula-terhadap-protein terendah"
+    },
+    {
+      "label": "Untuk yogurt rasa tanpa pemanis buatan",
+      "offerId": "oikos-triple-zero",
+      "reason": "Dimaniskan buah biksu dengan nol gula tambahan dan tanpa stevia atau sukralosa"
+    },
+    {
+      "label": "Untuk sumber organik dan sapi yang merumput",
+      "offerId": "stonyfield-organic-greek",
+      "reason": "USDA organik, susu sapi yang merumput, dan 5 strain probiotik bernama di label"
+    }
   ]
 }

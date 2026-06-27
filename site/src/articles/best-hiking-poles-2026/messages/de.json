@@ -44,51 +44,154 @@
       "offerId": "hiking-poles-black-diamond-trail",
       "badge": "Bestes Gesamtpaket",
       "review": "Der Black Diamond Trail (2026 Schnellverschluss-Version) löst das Kältetemperatur-Spannungsgleitproblem des vorherigen Drehverschluss-Designs. Mit 482 g pro Paar in Aluminium nicht die leichteste Option, aber die Kombination aus zuverlässigem Mechanismus, austauschbaren Körben und feldtauglicher Konstruktion macht ihn zum praktisch langlebigsten Stock in diesem Vergleich. EVA-Schaumgriff komprimiert nach 18–24 Monaten, funktioniert aber anfänglich gut bei nassen Händen.",
-      "pros": ["Schnellverschluss hält Spannung bei Kälte zuverlässig — löst das frühere Drehverschlussproblem", "Austauschbare Körbe und Spitzen im Feld — ohne Spezialwerkzeug auf langen Routen wartbar", "EVA-Griff funktioniert akzeptabel bei schwitzigen und nassen Händen"],
-      "cons": ["Nicht faltbares Lineardesign packt auf 60–70 cm — zu lang für Flugzeug-Gepäckfächer"],
+      "pros": [
+        "Schnellverschluss hält Spannung bei Kälte zuverlässig — löst das frühere Drehverschlussproblem",
+        "Austauschbare Körbe und Spitzen im Feld — ohne Spezialwerkzeug auf langen Routen wartbar",
+        "EVA-Griff funktioniert akzeptabel bei schwitzigen und nassen Händen"
+      ],
+      "cons": [
+        "Nicht faltbares Lineardesign packt auf 60–70 cm — zu lang für Flugzeug-Gepäckfächer"
+      ],
       "grade": "A+",
-      "specs": {"Gewicht (Paar)": "482g", "Material": "Aluminium 6061", "Griff": "EVA-Schaum", "Mechanismus": "Schnellverschluss", "Packmaß": "60–70 cm", "Korb": "Trekkingkorb inklusive", "Preis": "€83"},
-      "scores": {"Weight": 3.8, "Packability": 3.2, "Grip comfort": 4.2, "Mechanism reliability": 4.9, "Value": 4.7}
+      "specs": {
+        "Gewicht (Paar)": "482g",
+        "Material": "Aluminium 6061",
+        "Griff": "EVA-Schaum",
+        "Mechanismus": "Schnellverschluss",
+        "Packmaß": "60–70 cm",
+        "Korb": "Trekkingkorb inklusive",
+        "Preis": "€83"
+      },
+      "scores": {
+        "Gewicht": 3.8,
+        "Packbarkeit": 3.2,
+        "Griffkomfort": 4.2,
+        "Mechanismuszuverlässigkeit": 4.9,
+        "Wert": 4.7
+      }
     },
     {
       "offerId": "hiking-poles-leki-micro-vario",
       "badge": "Bestes Ultraleicht",
       "review": "Mit 236 g pro Stock (472 g pro Paar) ist der Leki Micro Vario Carbon der leichteste Stock in diesem Vergleich mit deutlichem Abstand. Die Dreifach-Carbon-Konstruktion faltet auf 38 cm — echte Handgepäck-Kompatibilität. FlickLock Pro hält Spannung bis -20 °C zuverlässig. Der Korkgriff ist die beste Trockenhand-Option im Vergleich, aber rutschig bei Nässe ohne Handschuhe. €165 pro Paar rechtfertigt sich für Wanderer mit 50+ Tagen pro Jahr.",
-      "pros": ["236 g pro Stock — leichtester im Vergleich mit 88+ g Vorsprung vor Aluminiumoptionen", "38 cm gefaltet — flugzeug-handgepäcktauglich", "FlickLock Pro bis -20 °C ohne Spannungsgleiten bewertet"],
-      "cons": ["Korkgriff rutschig bei Nässe — Handschuhe oder Griffband bei Regen erforderlich", "€165 erfordert hohe jährliche Nutzung zur Rechtfertigung gegenüber Carbon-Alternativen"],
+      "pros": [
+        "236 g pro Stock — leichtester im Vergleich mit 88+ g Vorsprung vor Aluminiumoptionen",
+        "38 cm gefaltet — flugzeug-handgepäcktauglich",
+        "FlickLock Pro bis -20 °C ohne Spannungsgleiten bewertet"
+      ],
+      "cons": [
+        "Korkgriff rutschig bei Nässe — Handschuhe oder Griffband bei Regen erforderlich",
+        "€165 erfordert hohe jährliche Nutzung zur Rechtfertigung gegenüber Carbon-Alternativen"
+      ],
       "grade": "A",
-      "specs": {"Gewicht (Paar)": "472g", "Material": "Carbonfaser", "Griff": "Kork", "Mechanismus": "FlickLock Pro", "Packmaß": "38 cm", "Korb": "Trekkingkorb inklusive", "Preis": "€165"},
-      "scores": {"Weight": 5.0, "Packability": 5.0, "Grip comfort": 4.6, "Mechanism reliability": 4.9, "Value": 3.8}
+      "specs": {
+        "Gewicht (Paar)": "472g",
+        "Material": "Carbonfaser",
+        "Griff": "Kork",
+        "Mechanismus": "FlickLock Pro",
+        "Packmaß": "38 cm",
+        "Korb": "Trekkingkorb inklusive",
+        "Preis": "€165"
+      },
+      "scores": {
+        "Gewicht": 5,
+        "Packbarkeit": 5,
+        "Griffkomfort": 4.6,
+        "Mechanismuszuverlässigkeit": 4.9,
+        "Wert": 3.8
+      }
     },
     {
       "offerId": "hiking-poles-rei-co-op-traverse",
       "badge": "Bestes Preis-Leistungs-Verhältnis",
       "review": "Der REI Co-op Traverse (2026-Version mit doppeltem Schnellverschluss) korrigiert das Spannungsgleitproblem der originalen Drehverschluss-Version. Bei €55 pro Paar in Aluminium ist er der zugänglichste Preispunkt in diesem Vergleich mit jetzt zuverlässigem Mechanismus. Korkgriff ist angenehm bei Trockenheit. Nicht-faltendes Design packt auf 60–70 cm. Ausreichend für Wochenendwanderer, die einen funktionalen Stock ohne Gewichts- oder Packbarkeitspriorität benötigen.",
-      "pros": ["Niedrigster Preis in diesem Vergleich — €55 pro Paar mit zuverlässigem Schnellverschluss nach 2026", "Korkgriff komfortabel für mehrstündige Sitzungen an trockenen Tagen", "Robuste Aluminiumkonstruktion verkraftet Trail-Missbrauch ohne Sprödheitsrisiko von Carbon"],
-      "cons": ["Packt auf 60–70 cm — nicht flugzeug-handgepäcktauglich", "Korkgriff muss nach Nässe getrocknet werden um Schimmel und Geruch zu vermeiden"],
+      "pros": [
+        "Niedrigster Preis in diesem Vergleich — €55 pro Paar mit zuverlässigem Schnellverschluss nach 2026",
+        "Korkgriff komfortabel für mehrstündige Sitzungen an trockenen Tagen",
+        "Robuste Aluminiumkonstruktion verkraftet Trail-Missbrauch ohne Sprödheitsrisiko von Carbon"
+      ],
+      "cons": [
+        "Packt auf 60–70 cm — nicht flugzeug-handgepäcktauglich",
+        "Korkgriff muss nach Nässe getrocknet werden um Schimmel und Geruch zu vermeiden"
+      ],
       "grade": "B+",
-      "specs": {"Gewicht (Paar)": "510g", "Material": "Aluminium 6061", "Griff": "Kork", "Mechanismus": "Doppelter Schnellverschluss (2026)", "Packmaß": "60–70 cm", "Korb": "Trekkingkorb inklusive", "Preis": "€55"},
-      "scores": {"Weight": 3.5, "Packability": 3.0, "Grip comfort": 4.4, "Mechanism reliability": 4.5, "Value": 5.0}
+      "specs": {
+        "Gewicht (Paar)": "510g",
+        "Material": "Aluminium 6061",
+        "Griff": "Kork",
+        "Mechanismus": "Doppelter Schnellverschluss (2026)",
+        "Packmaß": "60–70 cm",
+        "Korb": "Trekkingkorb inklusive",
+        "Preis": "€55"
+      },
+      "scores": {
+        "Gewicht": 3.5,
+        "Packbarkeit": 3,
+        "Griffkomfort": 4.4,
+        "Mechanismuszuverlässigkeit": 4.5,
+        "Wert": 5
+      }
     },
     {
       "offerId": "hiking-poles-montbell-jp",
       "badge": "Beste Verarbeitungsqualität (Japan)",
       "review": "Montbells Aluminium-7075-Stock verwendet eine höherfeste Legierung als die 6061 der Mitbewerber, und die Verarbeitungsqualität ist messbar besser als bei Massenmarkt-Aluminiumstöcken. Die verlängerte EVA-Griffzone am Schaft bewältigt flache Pflanzungen bei Spitzkehren gut. Der Drehverschlussmechanismus ist der limitierende Faktor — zuverlässig über 10 °C, aber dokumentiertes Gleiten unter null, konsistent mit allen Drehverschluss-Designs.",
-      "pros": ["Aluminium-7075-Konstruktion — höhere Zugfestigkeit als 6061 in konkurrierenden Stöcken", "Verlängerte Griffzone am Schaft für kurze Pflanzungstechnik auf steilem Gelände", "Außergewöhnliche Qualitätskontrolle und Garantieservice in Japan"],
-      "cons": ["Drehverschluss gleitet unter 0 °C — für Winterwandern durch Schnellverschlussstöcke ersetzen"],
+      "pros": [
+        "Aluminium-7075-Konstruktion — höhere Zugfestigkeit als 6061 in konkurrierenden Stöcken",
+        "Verlängerte Griffzone am Schaft für kurze Pflanzungstechnik auf steilem Gelände",
+        "Außergewöhnliche Qualitätskontrolle und Garantieservice in Japan"
+      ],
+      "cons": [
+        "Drehverschluss gleitet unter 0 °C — für Winterwandern durch Schnellverschlussstöcke ersetzen"
+      ],
       "grade": "B+",
-      "specs": {"Gewicht (Paar)": "490g", "Material": "Aluminium 7075", "Griff": "EVA-Schaum mit verlängerter Schaftzone", "Mechanismus": "Drehverschluss", "Packmaß": "62 cm", "Markt": "Japan-primär", "Preis": "Mittelklasse"},
-      "scores": {"Weight": 3.7, "Packability": 3.1, "Grip comfort": 4.5, "Mechanism reliability": 3.9, "Value": 4.2}
+      "specs": {
+        "Gewicht (Paar)": "490g",
+        "Material": "Aluminium 7075",
+        "Griff": "EVA-Schaum mit verlängerter Schaftzone",
+        "Mechanismus": "Drehverschluss",
+        "Packmaß": "62 cm",
+        "Markt": "Japan-primär",
+        "Preis": "Mittelklasse"
+      },
+      "scores": {
+        "Gewicht": 3.7,
+        "Packbarkeit": 3.1,
+        "Griffkomfort": 4.5,
+        "Mechanismuszuverlässigkeit": 3.9,
+        "Wert": 4.2
+      }
     },
     {
       "offerId": "hiking-poles-komperdell-carbon",
       "badge": "Bester Carbon-Wert",
       "review": "Der Komperdell Carbon C3 Pro liefert 100 % Carbonfaserkonstruktion zu €101 pro Paar — deutlich günstiger als Lekis €165 bei gleichem Material. Mit 148 g pro Stock (296 g pro Paar) spart er 186 g gegenüber dem Black Diamond Trail Aluminium-Paar. Der Gummigriff ist bei nassen und trockenen Bedingungen funktional, aber weniger komfortabel als Kork bei Sitzungen über 4 Stunden. Schnellverschlussmechanismus hält gut.",
-      "pros": ["100 % Carbonfaser zu €101/Paar — schließt Preislücke zu Leki um €64", "148 g pro Stock — 93 g leichter pro Stock als Black Diamond Aluminium", "Gummigriff funktioniert bei Nässe ohne Kork-Rutschproblem"],
-      "cons": ["Gummigriff weniger komfortabel als Kork für längere Sitzungen", "Carbon-Aufbau weniger stoßfest als Leki — Spitzenaufschläge auf Fels erfordern mehr Sorgfalt"],
+      "pros": [
+        "100 % Carbonfaser zu €101/Paar — schließt Preislücke zu Leki um €64",
+        "148 g pro Stock — 93 g leichter pro Stock als Black Diamond Aluminium",
+        "Gummigriff funktioniert bei Nässe ohne Kork-Rutschproblem"
+      ],
+      "cons": [
+        "Gummigriff weniger komfortabel als Kork für längere Sitzungen",
+        "Carbon-Aufbau weniger stoßfest als Leki — Spitzenaufschläge auf Fels erfordern mehr Sorgfalt"
+      ],
       "grade": "B",
-      "specs": {"Gewicht (Paar)": "296g", "Material": "Carbonfaser", "Griff": "Gummi", "Mechanismus": "Schnellverschluss", "Packmaß": "36 cm", "Korb": "Trekkingkorb inklusive", "Preis": "€101"},
-      "scores": {"Weight": 4.8, "Packability": 4.9, "Grip comfort": 3.8, "Mechanism reliability": 4.6, "Value": 4.5}
+      "specs": {
+        "Gewicht (Paar)": "296g",
+        "Material": "Carbonfaser",
+        "Griff": "Gummi",
+        "Mechanismus": "Schnellverschluss",
+        "Packmaß": "36 cm",
+        "Korb": "Trekkingkorb inklusive",
+        "Preis": "€101"
+      },
+      "scores": {
+        "Gewicht": 4.8,
+        "Packbarkeit": 4.9,
+        "Griffkomfort": 3.8,
+        "Mechanismuszuverlässigkeit": 4.6,
+        "Wert": 4.5
+      }
     }
   ],
   "faqs": [
@@ -106,9 +209,21 @@
     }
   ],
   "recommendedFor": [
-    {"label": "Für Tageswanderer, die beste Gesamtzuverlässigkeit wollen", "offerId": "hiking-poles-black-diamond-trail", "reason": "Schnellverschluss 2026 aktualisiert, feldwartbar, EVA-Griff für gemischte Bedingungen — die sichere Standardwahl."},
-    {"label": "Für Rucksackreisende, wo jedes Gramm zählt", "offerId": "hiking-poles-leki-micro-vario", "reason": "236 g pro Stock ist der leichteste in diesem Vergleich; 38 cm Packmaß passt in Flugzeug-Gepäckfächer."},
-    {"label": "Für Carbon-Performance im Budget", "offerId": "hiking-poles-komperdell-carbon", "reason": "100 % Carbon zu €101/Paar — €64 günstiger als Leki mit ähnlichen Gewichtseinsparungen gegenüber Aluminium."}
+    {
+      "label": "Für Tageswanderer, die beste Gesamtzuverlässigkeit wollen",
+      "offerId": "hiking-poles-black-diamond-trail",
+      "reason": "Schnellverschluss 2026 aktualisiert, feldwartbar, EVA-Griff für gemischte Bedingungen — die sichere Standardwahl."
+    },
+    {
+      "label": "Für Rucksackreisende, wo jedes Gramm zählt",
+      "offerId": "hiking-poles-leki-micro-vario",
+      "reason": "236 g pro Stock ist der leichteste in diesem Vergleich; 38 cm Packmaß passt in Flugzeug-Gepäckfächer."
+    },
+    {
+      "label": "Für Carbon-Performance im Budget",
+      "offerId": "hiking-poles-komperdell-carbon",
+      "reason": "100 % Carbon zu €101/Paar — €64 günstiger als Leki mit ähnlichen Gewichtseinsparungen gegenüber Aluminium."
+    }
   ],
   "pinDescription": "Trekkingstöcke 2026 verglichen — Ultraleicht-Carbon vs. robustes Aluminium, Schnellverschluss vs. Drehverschluss. Leki vs. Black Diamond vs. REI vs. Komperdell vs. Montbell: Gewicht, Griff, Packmaß für Wanderer.",
   "offerNotes": ""

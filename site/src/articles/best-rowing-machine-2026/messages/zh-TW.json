@@ -59,58 +59,172 @@
       "offerId": "concept2-model-d",
       "badge": "綜合最佳",
       "review": "Concept2 Model D 成為全球標竿自有其道理：風阻隨用力程度無限延伸，因此初學者與奧運級選手在同一台機器上都能得到誠實的訓練。PM5 顯示器的數據準確度受全球教練信賴。真正的取捨在於噪音——風阻划船機很吵，若你與鄰居共用牆面，他們肯定會聽到。",
-      "pros": ["風阻可無限延伸調節", "PM5 顯示器是業界數據標準", "可垂直收折，收納精巧"],
-      "cons": ["高強度拉划時噪音明顯"],
+      "pros": [
+        "風阻可無限延伸調節",
+        "PM5 顯示器是業界數據標準",
+        "可垂直收折，收納精巧"
+      ],
+      "cons": [
+        "高強度拉划時噪音明顯"
+      ],
       "grade": "A+",
-      "specs": {"Resistance type": "風阻", "Monitor": "PM5", "Max user weight": "272 kg", "Seat height": "40 cm", "Folded footprint": "25 × 33 in", "Weight": "57 lbs (rail)", "Price": "~$900"},
-      "scores": {"Resistance feel": 5.0, "Build quality": 4.9, "Noise": 2.5, "Value": 4.5, "Footprint": 4.0}
+      "specs": {
+        "Resistance type": "風阻",
+        "Monitor": "PM5",
+        "Max user weight": "272 kg",
+        "Seat height": "40 cm",
+        "Folded footprint": "25 × 33 in",
+        "Weight": "57 lbs (rail)",
+        "Price": "~$900"
+      },
+      "scores": {
+        "阻力感": 5,
+        "組裝品質": 4.9,
+        "噪音": 2.5,
+        "性價比": 4.5,
+        "佔位": 4
+      }
     },
     {
       "offerId": "hydrow-wave-rower",
       "badge": "連網健身最佳",
       "review": "Wave 將電磁阻力與 16 吋觸控螢幕及確實具激勵性的課程庫結合——手感比風阻更順暢、更安靜，使它成為公寓的更佳選擇。訂閱費用（約每月 44 美元）是真實且持續的支出；購買前請將其計入總持有成本。",
-      "pros": ["比風阻更安靜——適合公寓", "16 吋螢幕提供直播與隨選課程", "精巧收折，節省地板空間"],
-      "cons": ["完整內容需訂閱（約每月 44 美元）"],
+      "pros": [
+        "比風阻更安靜——適合公寓",
+        "16 吋螢幕提供直播與隨選課程",
+        "精巧收折，節省地板空間"
+      ],
+      "cons": [
+        "完整內容需訂閱（約每月 44 美元）"
+      ],
       "grade": "A",
-      "specs": {"Resistance type": "電磁阻力", "Screen": "16 吋觸控螢幕", "Subscription": "~$44/month", "Folds": "可", "Price": "$1,495"},
-      "scores": {"Resistance feel": 4.2, "Build quality": 4.3, "Noise": 4.5, "Value": 3.5, "Footprint": 4.3}
+      "specs": {
+        "Resistance type": "電磁阻力",
+        "Screen": "16 吋觸控螢幕",
+        "Subscription": "~$44/month",
+        "Folds": "可",
+        "Price": "$1,495"
+      },
+      "scores": {
+        "阻力感": 4.2,
+        "組裝品質": 4.3,
+        "噪音": 4.5,
+        "性價比": 3.5,
+        "佔位": 4.3
+      }
     },
     {
       "offerId": "nordictrack-rw900",
       "badge": "最佳螢幕體驗",
       "review": "RW900 的 22 吋旋轉 HD 螢幕是本次比較中最大的，iFIT 的全球路線庫也確實豐富。26 段數位阻力會在教練課程中自動調整。重達 218 磅，一旦擺放就幾乎固定，iFIT 訂閱也增加了持續性費用。",
-      "pros": ["22 吋 HD 旋轉觸控螢幕", "26 段數位阻力自動調整", "iFIT 全球路線庫"],
-      "cons": ["重達 218 磅——擺放位置幾乎固定"],
+      "pros": [
+        "22 吋 HD 旋轉觸控螢幕",
+        "26 段數位阻力自動調整",
+        "iFIT 全球路線庫"
+      ],
+      "cons": [
+        "重達 218 磅——擺放位置幾乎固定"
+      ],
       "grade": "B+",
-      "specs": {"Resistance type": "磁阻/iFIT", "Screen": "22 吋 HD", "Resistance levels": "26", "Weight": "218 lbs", "Subscription": "~$39/month", "Price": "$2,799"},
-      "scores": {"Resistance feel": 4.0, "Build quality": 4.2, "Noise": 4.3, "Value": 3.2, "Footprint": 2.5}
+      "specs": {
+        "Resistance type": "磁阻/iFIT",
+        "Screen": "22 吋 HD",
+        "Resistance levels": "26",
+        "Weight": "218 lbs",
+        "Subscription": "~$39/month",
+        "Price": "$2,799"
+      },
+      "scores": {
+        "阻力感": 4,
+        "組裝品質": 4.2,
+        "噪音": 4.3,
+        "性價比": 3.2,
+        "佔位": 2.5
+      }
     },
     {
       "offerId": "ergatta-rower",
       "badge": "最佳水阻",
       "review": "Ergatta 的水阻飛輪在本組中帶來最自然的划船感受——聲音與阻力都緊密模擬開放水域划船。其以遊戲為基礎的訓練平台，對於覺得教練課程重複的獨自訓練者是真正的激勵。專屬平台也將你侷限於 Ergatta 的生態系。",
-      "pros": ["水阻飛輪＝最逼真的划船手感", "遊戲化訓練激勵獨自訓練者", "17.3 吋觸控螢幕搭配結構化計畫"],
-      "cons": ["平台封閉——無第三方內容"],
+      "pros": [
+        "水阻飛輪＝最逼真的划船手感",
+        "遊戲化訓練激勵獨自訓練者",
+        "17.3 吋觸控螢幕搭配結構化計畫"
+      ],
+      "cons": [
+        "平台封閉——無第三方內容"
+      ],
       "grade": "B",
-      "specs": {"Resistance type": "水阻", "Screen": "17.3 吋觸控螢幕", "Subscription": "~$29/month", "Chassis": "WaterRower", "Price range": "$1,999–$2,499"},
-      "scores": {"Resistance feel": 4.8, "Build quality": 4.5, "Noise": 3.8, "Value": 3.4, "Footprint": 3.5}
+      "specs": {
+        "Resistance type": "水阻",
+        "Screen": "17.3 吋觸控螢幕",
+        "Subscription": "~$29/month",
+        "Chassis": "WaterRower",
+        "Price range": "$1,999–$2,499"
+      },
+      "scores": {
+        "阻力感": 4.8,
+        "組裝品質": 4.5,
+        "噪音": 3.8,
+        "性價比": 3.4,
+        "佔位": 3.5
+      }
     },
     {
       "offerId": "sunny-sf-rw5515",
       "badge": "最佳平價之選",
       "review": "售價約 350 美元的 SF-RW5515 提供 12 段磁阻、安靜的運轉，以及無需訂閱的划船入門。它無法重現風阻或水阻的手感，但對於養成划船習慣，或測試你是否喜歡這項動作，它是這個類別中風險最低的起點。",
-      "pros": ["安靜的磁阻——無需訂閱", "穩固鋁製滑軌上的 12 段阻力", "適合身高至 6 呎 3 吋的使用者"],
-      "cons": ["阻力手感不如風阻或水阻動態"],
+      "pros": [
+        "安靜的磁阻——無需訂閱",
+        "穩固鋁製滑軌上的 12 段阻力",
+        "適合身高至 6 呎 3 吋的使用者"
+      ],
+      "cons": [
+        "阻力手感不如風阻或水阻動態"
+      ],
       "grade": "B-",
-      "specs": {"Resistance type": "磁阻", "Resistance levels": "12", "Rail length": "43.3 inches", "Max user weight": "250 lbs", "Monitor": "基本 LCD", "Price": "~$350"},
-      "scores": {"Resistance feel": 3.0, "Build quality": 3.5, "Noise": 5.0, "Value": 4.8, "Footprint": 4.5}
+      "specs": {
+        "Resistance type": "磁阻",
+        "Resistance levels": "12",
+        "Rail length": "43.3 inches",
+        "Max user weight": "250 lbs",
+        "Monitor": "基本 LCD",
+        "Price": "~$350"
+      },
+      "scores": {
+        "阻力感": 3,
+        "組裝品質": 3.5,
+        "噪音": 5,
+        "性價比": 4.8,
+        "佔位": 4.5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "適合認真的居家運動員", "offerId": "concept2-model-d", "reason": "業界標準的數據準確度與無限阻力延伸，回饋那些想以年為單位（而非月）追蹤真實進步的運動員。"},
-    {"label": "適合公寓住戶", "offerId": "hydrow-wave-rower", "reason": "電磁阻力與可收折機身將噪音與佔地壓得夠低，適合共用牆面的居住環境。"},
-    {"label": "適合內容驅動的動力", "offerId": "nordictrack-rw900", "reason": "22 吋螢幕與 iFIT 課程庫適合需要多樣性與教練督促才能維持規律的人。"},
-    {"label": "適合獨自的競技型運動員", "offerId": "ergatta-rower", "reason": "對於不喜歡團體指導、自我驅動的運動員而言，挑戰個人紀錄的遊戲化競速比課程式內容更有效。"},
-    {"label": "適合預算有限的划船初學者", "offerId": "sunny-sf-rw5515", "reason": "一台安靜、平價、無訂閱承諾的機器，正是測試划船是否適合你日常作息的好工具。"}
+    {
+      "label": "適合認真的居家運動員",
+      "offerId": "concept2-model-d",
+      "reason": "業界標準的數據準確度與無限阻力延伸，回饋那些想以年為單位（而非月）追蹤真實進步的運動員。"
+    },
+    {
+      "label": "適合公寓住戶",
+      "offerId": "hydrow-wave-rower",
+      "reason": "電磁阻力與可收折機身將噪音與佔地壓得夠低，適合共用牆面的居住環境。"
+    },
+    {
+      "label": "適合內容驅動的動力",
+      "offerId": "nordictrack-rw900",
+      "reason": "22 吋螢幕與 iFIT 課程庫適合需要多樣性與教練督促才能維持規律的人。"
+    },
+    {
+      "label": "適合獨自的競技型運動員",
+      "offerId": "ergatta-rower",
+      "reason": "對於不喜歡團體指導、自我驅動的運動員而言，挑戰個人紀錄的遊戲化競速比課程式內容更有效。"
+    },
+    {
+      "label": "適合預算有限的划船初學者",
+      "offerId": "sunny-sf-rw5515",
+      "reason": "一台安靜、平價、無訂閱承諾的機器，正是測試划船是否適合你日常作息的好工具。"
+    }
   ]
 }

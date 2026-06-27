@@ -122,8 +122,14 @@
       "offerId": "conoha-wing",
       "badge": "En İyi Genel Seçim",
       "review": "ConoHa WING, 198ms ile en hızlı TTFB'yi ve 11 dakika ile en kısa kurulum süresini kaydetti; önceden hosting bilgisi gerektirmeyen Japonca bir kontrol paneli sunuyor. 36 aylık kampanya fiyatı ile yenileme fiyatı arasındaki fark, önceden planlanması gereken en önemli nokta.",
-      "pros": ["Testteki en hızlı TTFB: 198ms", "11 dakikada WordPress kantan kurulumu", "Ücretsiz alan adı + 14 günlük otomatik yedekleme"],
-      "cons": ["Telefon desteği yok — yalnızca hafta içi sohbet"],
+      "pros": [
+        "Testteki en hızlı TTFB: 198ms",
+        "11 dakikada WordPress kantan kurulumu",
+        "Ücretsiz alan adı + 14 günlük otomatik yedekleme"
+      ],
+      "cons": [
+        "Telefon desteği yok — yalnızca hafta içi sohbet"
+      ],
       "grade": "A+",
       "specs": {
         "Başlangıç fiyatı": "Ekonomik sınıf (36 aylık plan)",
@@ -134,19 +140,25 @@
         "Uptime SLA": "%99,99"
       },
       "scores": {
-        "Performance": 4.9,
-        "Uptime reliability": 4.7,
-        "Value": 4.6,
-        "Support quality": 3.8,
-        "Ease of setup": 4.9
+        "Performans": 4.9,
+        "Çalışma Süresi Güvenilirliği": 4.7,
+        "Değer": 4.6,
+        "Destek Kalitesi": 3.8,
+        "Kurulum Kolaylığı": 4.9
       }
     },
     {
       "offerId": "xserver",
       "badge": "Güvenilirlik İçin En İyi",
       "review": "Xserver, bu karşılaştırmadaki tek 7/24 telefon desteğine sahip hosting sağlayıcısı ve Japonya'daki en uzun kesintisiz uptime geçmişine sahip. 268ms TTFB, 30 gün boyunca ani artış olmaksızın tutarlı — ConoHa'ya kıyasla %10 fazla fiyat, gelir getiren siteler için gerçek bir gönül rahatlığı satın alıyor.",
-      "pros": ["7/24 telefon desteği sunan tek hosting", "On yıllık kesintisiz uptime rekoru", "KUSANAGI optimize edilmiş WordPress önceden kurulu"],
-      "cons": ["ConoHa'dan daha yavaş TTFB (268ms'ye karşı 198ms); kontrol paneli görsel olarak eski"],
+      "pros": [
+        "7/24 telefon desteği sunan tek hosting",
+        "On yıllık kesintisiz uptime rekoru",
+        "KUSANAGI optimize edilmiş WordPress önceden kurulu"
+      ],
+      "cons": [
+        "ConoHa'dan daha yavaş TTFB (268ms'ye karşı 198ms); kontrol paneli görsel olarak eski"
+      ],
       "grade": "A",
       "specs": {
         "Başlangıç fiyatı": "Orta seviye (12 aylık plan)",
@@ -157,19 +169,25 @@
         "Öne çıkan özellik": "WordPress için KUSANAGI optimizasyonu"
       },
       "scores": {
-        "Performance": 4.3,
-        "Uptime reliability": 5.0,
-        "Value": 4.1,
-        "Support quality": 5.0,
-        "Ease of setup": 4.2
+        "Performans": 4.3,
+        "Çalışma Süresi Güvenilirliği": 5,
+        "Değer": 4.1,
+        "Destek Kalitesi": 5,
+        "Kurulum Kolaylığı": 4.2
       }
     },
     {
       "offerId": "mixhost",
       "badge": "En İyi LiteSpeed Performansı",
       "review": "mixhost'un LiteSpeed + HTTP/3 yığını, 200 eş zamanlı bağlantı altında bile TTFB'yi 215ms'de tuttu — testteki en iyi trafik zirvesi performansı. Dezavantajı, 24 saatlik SLA ile yalnızca e-posta desteği; bu da ilk kez blog kuranlar için uygun değil.",
-      "pros": ["LiteSpeed/HTTP/3, trafik zirvelerinde güçlü performans sağlar", "Ücretsiz alan adıyla birlikte tek tıkla WordPress", "215ms TTFB — yalnızca ConoHa'nın arkasında ikinci"],
-      "cons": ["Yalnızca e-posta desteği — acil durumlar için sohbet veya telefon yok"],
+      "pros": [
+        "LiteSpeed/HTTP/3, trafik zirvelerinde güçlü performans sağlar",
+        "Ücretsiz alan adıyla birlikte tek tıkla WordPress",
+        "215ms TTFB — yalnızca ConoHa'nın arkasında ikinci"
+      ],
+      "cons": [
+        "Yalnızca e-posta desteği — acil durumlar için sohbet veya telefon yok"
+      ],
       "grade": "B+",
       "specs": {
         "Başlangıç fiyatı": "Orta seviye (12 aylık plan)",
@@ -180,19 +198,25 @@
         "Uptime SLA": "%99,99"
       },
       "scores": {
-        "Performance": 4.7,
-        "Uptime reliability": 4.5,
-        "Value": 4.3,
-        "Support quality": 3.2,
-        "Ease of setup": 4.4
+        "Performans": 4.7,
+        "Çalışma Süresi Güvenilirliği": 4.5,
+        "Değer": 4.3,
+        "Destek Kalitesi": 3.2,
+        "Kurulum Kolaylığı": 4.4
       }
     },
     {
       "offerId": "sakura-rentalserver",
       "badge": "Geliştiriciler İçin En İyi",
       "review": "Sakura'nın başlangıç fiyatı testteki en düşük; SSH ve cron yerel kontrol paneli, kontrol isteyen geliştiriciler için ideal. Tek tıkla WordPress yükleyici olmaması yeni başlayanlar için gerçek bir engel; 305ms TTFB de ikinci en yavaş sonuç.",
-      "pros": ["Testteki en düşük başlangıç fiyatı", "Kontrol panelinden SSH ve cron erişimi", "1996'dan bu yana köklü marka, güçlü uptime geçmişi"],
-      "cons": ["Tek tıkla WP yükleyici yok — WordPress manuel kurulum gerektirir"],
+      "pros": [
+        "Testteki en düşük başlangıç fiyatı",
+        "Kontrol panelinden SSH ve cron erişimi",
+        "1996'dan bu yana köklü marka, güçlü uptime geçmişi"
+      ],
+      "cons": [
+        "Tek tıkla WP yükleyici yok — WordPress manuel kurulum gerektirir"
+      ],
       "grade": "B",
       "specs": {
         "Başlangıç fiyatı": "Giriş seviyesi (standart plan)",
@@ -203,19 +227,25 @@
         "SSH erişimi": "Evet"
       },
       "scores": {
-        "Performance": 3.7,
-        "Uptime reliability": 4.6,
-        "Value": 4.8,
-        "Support quality": 4.0,
-        "Ease of setup": 2.5
+        "Performans": 3.7,
+        "Çalışma Süresi Güvenilirliği": 4.6,
+        "Değer": 4.8,
+        "Destek Kalitesi": 4,
+        "Kurulum Kolaylığı": 2.5
       }
     },
     {
       "offerId": "lolipop-server",
       "badge": "En İyi Bütçe Seçimi",
       "review": "Lolipop'un hi-speed planı, ConoHa'nın yenileme fiyatının yaklaşık yarısı ve tek tıkla WordPress yükleyiciyle birlikte geliyor. 312ms TTFB, testteki en yavaş sonuç — hedef kitleniz için sayfa hızı önemliyse ConoHa'ya kıyasla küçük tasarruf değer etmiyor.",
-      "pros": ["Ekonomik hi-speed planı — WP tek tık ile en düşük maliyet", "Teknik olmayan kullanıcılar için kolay yönetim arayüzü", "GMO grubunun güvenilirliği"],
-      "cons": ["En yavaş TTFB: 312ms — Pinterest'ten gelen trafik için fark edilir"],
+      "pros": [
+        "Ekonomik hi-speed planı — WP tek tık ile en düşük maliyet",
+        "Teknik olmayan kullanıcılar için kolay yönetim arayüzü",
+        "GMO grubunun güvenilirliği"
+      ],
+      "cons": [
+        "En yavaş TTFB: 312ms — Pinterest'ten gelen trafik için fark edilir"
+      ],
       "grade": "B-",
       "specs": {
         "Başlangıç fiyatı": "Ekonomik sınıf (hi-speed planı)",
@@ -226,11 +256,11 @@
         "Ana şirket": "GMO Internet Group"
       },
       "scores": {
-        "Performance": 3.5,
-        "Uptime reliability": 4.3,
-        "Value": 4.7,
-        "Support quality": 4.1,
-        "Ease of setup": 4.5
+        "Performans": 3.5,
+        "Çalışma Süresi Güvenilirliği": 4.3,
+        "Değer": 4.7,
+        "Destek Kalitesi": 4.1,
+        "Kurulum Kolaylığı": 4.5
       }
     }
   ],

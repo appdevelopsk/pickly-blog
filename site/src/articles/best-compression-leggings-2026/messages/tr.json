@@ -4,11 +4,31 @@
   "lede": "Kompresyon taytları iki kullanım amacına ayrılır: antrenman konforu için hafif kompresyon ve yumuşak hisli giysiler, ve uzun mesafe koşusunda venöz dönüşü iyileştirmek için tasarlanmış kademeli tıbbi kompresyon giysiler. 60$ ile 130$ arasında beş seçenek, her birinin vaatlerini gerçekten yerine getirip getirmediğine göre karşılaştırıldı.",
   "methodology": "Taytlar kompresyon derecesi (hafif/orta/kademeli), spandeks yüzdesi ve yapının bu dereceyi yıkama döngüleri boyunca koruma biçimi, hareket sırasında bel bandı stabilitesi, belirtilen kullanım amacı için kumaş ağırlığı ve nefes alabilirlik ve sürtünme riskini değerlendirmek için düz dikiş veya yapıştırılmış dikiş yapısı açısından değerlendirildi.",
   "recommendedFor": [
-    {"label": "Rahat günlük antrenman için", "offerId": "compression-leggings-lululemon-align", "reason": "Align'ın Nulu kumaşı bu karşılaştırmadaki en yumuşak günlük antrenman taytıdır — 'çıplak' hissi uzun seansların termal yorgunluğunu azaltır ve bel bandı kaymadan yerinde kalır."},
-    {"label": "Koşu odaklı performans için", "offerId": "compression-leggings-nike-epic-fast", "reason": "Epic Fast'ın file panelleri ve sıkı kompresyon kesimi özellikle koşu için tasarlanmıştır — yansıtıcı unsurlar ayrı bir yansıtıcı yelek olmadan loş ışıkta görünürlük sağlar."},
-    {"label": "Uzun mesafe koşusunda kademeli kompresyon için", "offerId": "compression-leggings-cep-run", "reason": "CEP'in ayak bileğinden uyluk ortasına 20–30 mmHg kademeli kompresyonu bu karşılaştırmadaki tek klinik olarak kalibre edilmiş kompresyondur."},
-    {"label": "Sıcak havada koşmak için", "offerId": "compression-leggings-adidas-own-the-run", "reason": "AEROREADY kumaşı ve yan havalandırma panelleri 20°C üzerinde koşmak için tasarlandı — hafif kompresyon derecesi, sıcak havada erken yorgunluğa yol açan ısı birikmesi olmadan vücuda oturan bir his verir."},
-    {"label": "Spor bilimi desteğiyle toparlanma kompresyonu için", "offerId": "compression-leggings-skins-series-3", "reason": "Skins Series-3'ün vücut haritalama kompresyonu kompresyonu bireysel olarak kalibre etmek için vücut ölçüm algoritmaları kullanır — CEP dışında klinik hassasiyete en yakın seçenek."}
+    {
+      "label": "Rahat günlük antrenman için",
+      "offerId": "compression-leggings-lululemon-align",
+      "reason": "Align'ın Nulu kumaşı bu karşılaştırmadaki en yumuşak günlük antrenman taytıdır — 'çıplak' hissi uzun seansların termal yorgunluğunu azaltır ve bel bandı kaymadan yerinde kalır."
+    },
+    {
+      "label": "Koşu odaklı performans için",
+      "offerId": "compression-leggings-nike-epic-fast",
+      "reason": "Epic Fast'ın file panelleri ve sıkı kompresyon kesimi özellikle koşu için tasarlanmıştır — yansıtıcı unsurlar ayrı bir yansıtıcı yelek olmadan loş ışıkta görünürlük sağlar."
+    },
+    {
+      "label": "Uzun mesafe koşusunda kademeli kompresyon için",
+      "offerId": "compression-leggings-cep-run",
+      "reason": "CEP'in ayak bileğinden uyluk ortasına 20–30 mmHg kademeli kompresyonu bu karşılaştırmadaki tek klinik olarak kalibre edilmiş kompresyondur."
+    },
+    {
+      "label": "Sıcak havada koşmak için",
+      "offerId": "compression-leggings-adidas-own-the-run",
+      "reason": "AEROREADY kumaşı ve yan havalandırma panelleri 20°C üzerinde koşmak için tasarlandı — hafif kompresyon derecesi, sıcak havada erken yorgunluğa yol açan ısı birikmesi olmadan vücuda oturan bir his verir."
+    },
+    {
+      "label": "Spor bilimi desteğiyle toparlanma kompresyonu için",
+      "offerId": "compression-leggings-skins-series-3",
+      "reason": "Skins Series-3'ün vücut haritalama kompresyonu kompresyonu bireysel olarak kalibre etmek için vücut ölçüm algoritmaları kullanır — CEP dışında klinik hassasiyete en yakın seçenek."
+    }
   ],
   "sections": [
     {
@@ -67,51 +87,146 @@
       "offerId": "compression-leggings-lululemon-align",
       "badge": "En İyi Konfor",
       "review": "Align'ın Nulu kumaşı (%81 naylon, %19 Lycra) bu karşılaştırmadaki en yumuşak günlük antrenman taytıdır — kompresyon yoga ve hafif antrenman için kısıtlayıcı hissetmeyecek kadar hafiftir. Tutucu iç bant ile yüksek bel bandı 60–90 dakikalık seanslar için en stabildir. Hafif kompresyon derecesi onu yüksek yoğunluklu koşmak için daha az uygun kılar.",
-      "pros": ["Nulu kumaşı buradaki herhangi bir taytın en yumuşak çıplak hissini sunar", "Yüksek bel tutucu bant 90 dakikalık seanslarda düz kalır", "Yoga, spor salonu ve kolay koşular için uygun hafif kompresyon"],
-      "cons": ["Hafif kompresyon derecesi yüksek yoğunluklu koşmada kas desteği için yetersiz"],
+      "pros": [
+        "Nulu kumaşı buradaki herhangi bir taytın en yumuşak çıplak hissini sunar",
+        "Yüksek bel tutucu bant 90 dakikalık seanslarda düz kalır",
+        "Yoga, spor salonu ve kolay koşular için uygun hafif kompresyon"
+      ],
+      "cons": [
+        "Hafif kompresyon derecesi yüksek yoğunluklu koşmada kas desteği için yetersiz"
+      ],
       "grade": "A+",
-      "specs": {"Compression grade": "Hafif (mmHg özelliği yok)", "Fabric": "%81 naylon, %19 Lycra (Nulu)", "Spandex equiv.": "~%19 Lycra", "Waistband": "Yüksek bel, tutucu iç bant", "Fabric weight": "~143 GSM", "Price": "~$128"},
-      "scores": {"Compression": 3.5, "Breathability": 4.2, "Waistband stability": 5.0, "Durability": 4.3, "Value": 3.5}
+      "specs": {
+        "Compression grade": "Hafif (mmHg özelliği yok)",
+        "Fabric": "%81 naylon, %19 Lycra (Nulu)",
+        "Spandex equiv.": "~%19 Lycra",
+        "Waistband": "Yüksek bel, tutucu iç bant",
+        "Fabric weight": "~143 GSM",
+        "Price": "~$128"
+      },
+      "scores": {
+        "Sıkıştırma": 3.5,
+        "Nefes Alabilirlik": 4.2,
+        "Bel Band Stabilite": 5,
+        "Dayanıklılık": 4.3,
+        "Değer": 3.5
+      }
     },
     {
       "offerId": "compression-leggings-nike-epic-fast",
       "badge": "Koşmak İçin En İyi",
       "review": "Epic Fast'ın daha sert kompresyonu ve file panelleme onu bu karşılaştırmadaki en koşuya özgü tayt yapıyor. Uyluğun arkasındaki ve iç baldırdaki file paneller, ön uyluk kompresyon yapısını tehlikeye atmadan 18°C üzerinde gerçek hava akışı iyileştirmesi sağlıyor. Yansıtıcı unsurlar ayrı bir yelek olmadan loş ışıkta koşmak için pratik. Bel bandı 60 dakikadan uzun koşularda Lululemon Align'dan daha az stabil.",
-      "pros": ["Arka uyluk ve iç baldırdaki file paneller sıcak havada nefes alabilirliği artırır", "Lululemon Align'dan daha sert koşuya özgü kompresyon", "Loş ışıkta açık hava koşusu için pratik yansıtıcı unsurlar"],
-      "cons": ["Bel bandı Align'dan daha az stabil — 60+ dakikada ayarlama gerekebilir"],
+      "pros": [
+        "Arka uyluk ve iç baldırdaki file paneller sıcak havada nefes alabilirliği artırır",
+        "Lululemon Align'dan daha sert koşuya özgü kompresyon",
+        "Loş ışıkta açık hava koşusu için pratik yansıtıcı unsurlar"
+      ],
+      "cons": [
+        "Bel bandı Align'dan daha az stabil — 60+ dakikada ayarlama gerekebilir"
+      ],
       "grade": "A",
-      "specs": {"Compression grade": "Orta (mmHg özelliği yok)", "Fabric": "%83 polyester, %17 spandeks ve file paneller", "Mesh coverage": "Arka uyluk + iç baldır", "Waistband": "Orta-yüksek bel", "Reflective": "Evet", "Price": "~$90"},
-      "scores": {"Compression": 4.0, "Breathability": 4.5, "Waistband stability": 4.0, "Durability": 4.2, "Value": 4.2}
+      "specs": {
+        "Compression grade": "Orta (mmHg özelliği yok)",
+        "Fabric": "%83 polyester, %17 spandeks ve file paneller",
+        "Mesh coverage": "Arka uyluk + iç baldır",
+        "Waistband": "Orta-yüksek bel",
+        "Reflective": "Evet",
+        "Price": "~$90"
+      },
+      "scores": {
+        "Sıkıştırma": 4,
+        "Nefes Alabilirlik": 4.5,
+        "Bel Band Stabilite": 4,
+        "Dayanıklılık": 4.2,
+        "Değer": 4.2
+      }
     },
     {
       "offerId": "compression-leggings-cep-run",
       "badge": "En İyi Kademeli Kompresyon",
       "review": "CEP Run 3.0'ın 20–30 mmHg kademeli kompresyonu bu karşılaştırmadaki tek klinik olarak kalibre edilmiş kompresyon — ayak bileğinde daha fazla, uylukta giderek daha az — hakemli toparlanma araştırmasında kullanılan özellikle eşleşiyor. Venöz yetmezliği veya koşu sonrası şişmeyi yöneten koşucular için, araştırma desteği taşıyan özellik budur. Boyutlandırma, standart S/M/L değil, ayak bileği çevresi ve boy ölçüsü gerektirir.",
-      "pros": ["20–30 mmHg kademeli kompresyon hakemli toparlanma araştırması özelliğiyle eşleşiyor", "Klinik kalibrasyon: ayak bileğinde daha fazla kompresyon, uylukta daha az", "24–48 saatte koşu sonrası ağrı azaltma için araştırma destekli"],
-      "cons": ["Doğru boyutlandırma için ayak bileği çevresi ve boy ölçüsü gerekiyor — standart S/M/L değil"],
+      "pros": [
+        "20–30 mmHg kademeli kompresyon hakemli toparlanma araştırması özelliğiyle eşleşiyor",
+        "Klinik kalibrasyon: ayak bileğinde daha fazla kompresyon, uylukta daha az",
+        "24–48 saatte koşu sonrası ağrı azaltma için araştırma destekli"
+      ],
+      "cons": [
+        "Doğru boyutlandırma için ayak bileği çevresi ve boy ölçüsü gerekiyor — standart S/M/L değil"
+      ],
       "grade": "A",
-      "specs": {"Compression grade": "20–30 mmHg kademeli", "Fabric": "Polyamid-elastan karışımı", "Compression calibration": "Ayak bileği > baldır > uyluk", "Sizing method": "Ayak bileği çevresi + boy", "Use case": "Koşu + koşu sonrası toparlanma", "Price": "~$130"},
-      "scores": {"Compression": 5.0, "Breathability": 3.8, "Waistband stability": 4.2, "Durability": 4.5, "Value": 3.8}
+      "specs": {
+        "Compression grade": "20–30 mmHg kademeli",
+        "Fabric": "Polyamid-elastan karışımı",
+        "Compression calibration": "Ayak bileği > baldır > uyluk",
+        "Sizing method": "Ayak bileği çevresi + boy",
+        "Use case": "Koşu + koşu sonrası toparlanma",
+        "Price": "~$130"
+      },
+      "scores": {
+        "Sıkıştırma": 5,
+        "Nefes Alabilirlik": 3.8,
+        "Bel Band Stabilite": 4.2,
+        "Dayanıklılık": 4.5,
+        "Değer": 3.8
+      }
     },
     {
       "offerId": "compression-leggings-adidas-own-the-run",
       "badge": "Sıcak Hava İçin En İyi",
       "review": "Own The Run'ın AEROREADY kumaşı ve yan havalandırma panelleri 20°C üzerindeki sıcaklıklarda koşmak için tasarlanmıştır. Hafif kompresyon derecesi daha yüksek kompresyon alternatiflerinin termal birikimine gerek kalmadan sıkı antrenman hissi sağlar. Bel bandı rakiplerden daha düşük kesimli. Fiyat bu karşılaştırmadaki en erişilebilir.",
-      "pros": ["Sıcak havada koşmak için AEROREADY kumaşı ve yan havalandırma", "Hafif kompresyon daha yüksek dereceli alternatiflere kıyasla termal birikimi azaltır", "Bu karşılaştırmadaki en erişilebilir fiyat"],
-      "cons": ["Hafif kompresyon yüksek yoğunlukta kas desteği için yetersiz; rakiplerden daha düşük bel bandı"],
+      "pros": [
+        "Sıcak havada koşmak için AEROREADY kumaşı ve yan havalandırma",
+        "Hafif kompresyon daha yüksek dereceli alternatiflere kıyasla termal birikimi azaltır",
+        "Bu karşılaştırmadaki en erişilebilir fiyat"
+      ],
+      "cons": [
+        "Hafif kompresyon yüksek yoğunlukta kas desteği için yetersiz; rakiplerden daha düşük bel bandı"
+      ],
       "grade": "B+",
-      "specs": {"Compression grade": "Hafif (mmHg özelliği yok)", "Fabric": "Havalandırma panelli AEROREADY polyester karışımı", "Spandex": "~%20", "Waistband": "Orta bel", "Target temp": "Koşmak için 18–28°C", "Price": "~$65"},
-      "scores": {"Compression": 3.2, "Breathability": 4.8, "Waistband stability": 3.8, "Durability": 4.0, "Value": 4.5}
+      "specs": {
+        "Compression grade": "Hafif (mmHg özelliği yok)",
+        "Fabric": "Havalandırma panelli AEROREADY polyester karışımı",
+        "Spandex": "~%20",
+        "Waistband": "Orta bel",
+        "Target temp": "Koşmak için 18–28°C",
+        "Price": "~$65"
+      },
+      "scores": {
+        "Sıkıştırma": 3.2,
+        "Nefes Alabilirlik": 4.8,
+        "Bel Band Stabilite": 3.8,
+        "Dayanıklılık": 4,
+        "Değer": 4.5
+      }
     },
     {
       "offerId": "compression-leggings-skins-series-3",
       "badge": "En İyi Vücut Haritalama Kesimi",
       "review": "Skins Series-3, bireysel bacak şekline kompresyonu kalibre etmek için standart boyutlandırma yerine vücut ölçümleri (bel, kalça, uyluk, baldır) kullanır — ısmarlama kompresyon giysisi dışında kişiselleştirilmiş kesime en yakın. Yaklaşık 15–18 mmHg kademeli kompresyon, genel konfor-kompresyon ile CEP'in klinik aralığı arasında yer alır. Bilimsel olarak desteklenmiş kompresyona öncelik veren dayanıklılık koşucuları ve triatletler için uygundur.",
-      "pros": ["Vücut ölçümü boyutlandırma sistemi kompresyonu bireysel bacak şekline kalibre eder", "Yaklaşık 15–18 mmHg kademeli kompresyon — standart konfor-kompresyonun üzerinde", "Dayanıklılık koşusu ve koşu sonrası toparlanma için tasarlanmış"],
-      "cons": ["Kesin vücut ölçümleri gerekli — yanlış ölçümler yanlış kompresyon derecesiyle sonuçlanır"],
+      "pros": [
+        "Vücut ölçümü boyutlandırma sistemi kompresyonu bireysel bacak şekline kalibre eder",
+        "Yaklaşık 15–18 mmHg kademeli kompresyon — standart konfor-kompresyonun üzerinde",
+        "Dayanıklılık koşusu ve koşu sonrası toparlanma için tasarlanmış"
+      ],
+      "cons": [
+        "Kesin vücut ölçümleri gerekli — yanlış ölçümler yanlış kompresyon derecesiyle sonuçlanır"
+      ],
       "grade": "B+",
-      "specs": {"Compression grade": "~15–18 mmHg kademeli", "Fabric": "Naylon-elastan karışımı", "Sizing method": "Bel, kalça, uyluk, baldır çevresi", "Compression profile": "Ayak bileğinden uyluğa kademeli", "Target user": "Dayanıklılık koşucuları, triatletler", "Price": "~$110"},
-      "scores": {"Compression": 4.5, "Breathability": 4.0, "Waistband stability": 4.3, "Durability": 4.4, "Value": 3.9}
+      "specs": {
+        "Compression grade": "~15–18 mmHg kademeli",
+        "Fabric": "Naylon-elastan karışımı",
+        "Sizing method": "Bel, kalça, uyluk, baldır çevresi",
+        "Compression profile": "Ayak bileğinden uyluğa kademeli",
+        "Target user": "Dayanıklılık koşucuları, triatletler",
+        "Price": "~$110"
+      },
+      "scores": {
+        "Sıkıştırma": 4.5,
+        "Nefes Alabilirlik": 4,
+        "Bel Band Stabilite": 4.3,
+        "Dayanıklılık": 4.4,
+        "Değer": 3.9
+      }
     }
   ]
 }

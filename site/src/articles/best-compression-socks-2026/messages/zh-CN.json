@@ -44,51 +44,146 @@
       "offerId": "compression-socks-cep-run-4-0",
       "badge": "最佳临床压缩",
       "review": "CEP Run 4.0提供medi GmbH认证的20–30 mmHg渐进式压缩——与医用压缩长袜相同的临床标准。2026年趾盒更新提供更宽的前脚掌以增加舒适度。旗舰定位是本次比较中最贵的选项，但80次以上洗涤的压缩保持力和认证梯度精度，使其每次洗涤成本优于那些更快退化的廉价袜子。",
-      "pros": ["medi GmbH认证20–30 mmHg——本次比较中临床最精准的压缩梯度", "80次以上洗涤压缩保持力——所有选项中最佳的长期耐用性", "2026年更宽趾盒更新改善前脚掌舒适度"],
-      "cons": ["旗舰定位——本次比较中最高价位"],
+      "pros": [
+        "medi GmbH认证20–30 mmHg——本次比较中临床最精准的压缩梯度",
+        "80次以上洗涤压缩保持力——所有选项中最佳的长期耐用性",
+        "2026年更宽趾盒更新改善前脚掌舒适度"
+      ],
+      "cons": [
+        "旗舰定位——本次比较中最高价位"
+      ],
       "grade": "A+",
-      "specs": {"Compression": "20–30 mmHg（认证）", "Fiber": "尼龙/弹性纤维", "Anatomical": "左右脚区分", "Toe": "无缝", "Wash durability": "80次以上洗涤", "Price": "旗舰"},
-      "scores": {"Compression accuracy": 5.0, "Blister resistance": 4.3, "Durability": 5.0, "Comfort": 4.4, "Value": 3.5}
+      "specs": {
+        "Compression": "20–30 mmHg（认证）",
+        "Fiber": "尼龙/弹性纤维",
+        "Anatomical": "左右脚区分",
+        "Toe": "无缝",
+        "Wash durability": "80次以上洗涤",
+        "Price": "旗舰"
+      },
+      "scores": {
+        "压缩准确度": 5,
+        "抗起泡性": 4.3,
+        "耐久性": 5,
+        "舒适度": 4.4,
+        "价值": 3.5
+      }
     },
     {
       "offerId": "compression-socks-balega-blister-resist",
       "badge": "最佳防起泡",
       "review": "Balega的莫哈尔/尼龙/弹性纤维混合在本次比较中摩擦力最低——莫哈尔纤维光滑的表面在脚上滑动而非摩擦。结合无缝趾部和前脚掌外侧缓冲区，是本次比较中最有效的防起泡袜。压缩为轻度（15–20 mmHg），不是首要功能。2026年宽版更新解决了窄楦的局限性。最适合有脚趾和前脚掌起泡病史的跑者。",
-      "pros": ["莫哈尔纤维混合——本次比较中摩擦力最低的材料，防起泡效果独特", "2026年宽版选项解决了宽脚跑者的排斥问题", "无缝趾部加前脚掌外侧缓冲精准针对最常见的两处起泡区域"],
-      "cons": ["仅轻度压缩（15–20 mmHg）——若追求临床压缩效益则不适合"],
+      "pros": [
+        "莫哈尔纤维混合——本次比较中摩擦力最低的材料，防起泡效果独特",
+        "2026年宽版选项解决了宽脚跑者的排斥问题",
+        "无缝趾部加前脚掌外侧缓冲精准针对最常见的两处起泡区域"
+      ],
+      "cons": [
+        "仅轻度压缩（15–20 mmHg）——若追求临床压缩效益则不适合"
+      ],
       "grade": "A",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "莫哈尔/尼龙/弹性纤维", "Anatomical": "左右脚区分", "Toe": "无缝", "Width": "标准+宽版（2026）", "Price": "入门"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 5.0, "Durability": 4.3, "Comfort": 4.8, "Value": 4.9}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "莫哈尔/尼龙/弹性纤维",
+        "Anatomical": "左右脚区分",
+        "Toe": "无缝",
+        "Width": "标准+宽版（2026）",
+        "Price": "入门"
+      },
+      "scores": {
+        "压缩准确度": 4,
+        "抗起泡性": 5,
+        "耐久性": 4.3,
+        "舒适度": 4.8,
+        "价值": 4.9
+      }
     },
     {
       "offerId": "compression-socks-sockwell-pulse",
       "badge": "温度变化跑步最佳",
       "review": "Sockwell Pulse采用美利奴/尼龙/氨纶混纺，能在季节性温度范围内调节温度——美利奴中空纤维在寒冷中保温、在温暖中排湿。15–20 mmHg压缩为轻度。热管理优势在高度变化较大的越野跑，或温度波动明显的早晚季赛事中最为明显。不是压缩或防起泡领域的领先者，但是最佳的全季通用选择。",
-      "pros": ["美利奴羊毛温度调节——跨季节温度管理优于合成纤维", "排湿功能降低温度变化长跑中的起泡风险", "中端价位配以高于平均水平的耐用性"],
-      "cons": ["15–20 mmHg轻度压缩——不适合需要20–30 mmHg临床压缩效益的跑者"],
+      "pros": [
+        "美利奴羊毛温度调节——跨季节温度管理优于合成纤维",
+        "排湿功能降低温度变化长跑中的起泡风险",
+        "中端价位配以高于平均水平的耐用性"
+      ],
+      "cons": [
+        "15–20 mmHg轻度压缩——不适合需要20–30 mmHg临床压缩效益的跑者"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "美利奴羊毛/尼龙/氨纶", "Anatomical": "左右脚区分", "Toe": "无缝", "Wash durability": "60次洗涤中等保持力", "Price": "中端"},
-      "scores": {"Compression accuracy": 4.1, "Blister resistance": 4.2, "Durability": 4.4, "Comfort": 4.7, "Value": 4.5}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "美利奴羊毛/尼龙/氨纶",
+        "Anatomical": "左右脚区分",
+        "Toe": "无缝",
+        "Wash durability": "60次洗涤中等保持力",
+        "Price": "中端"
+      },
+      "scores": {
+        "压缩准确度": 4.1,
+        "抗起泡性": 4.2,
+        "耐久性": 4.4,
+        "舒适度": 4.7,
+        "价值": 4.5
+      }
     },
     {
       "offerId": "compression-socks-tabio-jp",
       "badge": "日本市场最佳",
       "review": "Tabio Racing Fine采用细旦尼龙结构，具有左右脚解剖学区分。2026年更新新增加固后跟保护，并改善了60次洗涤的压缩保持力——旧版在30–40次洗涤后会显著失去弹性。细旦结构比西方品牌的典型设计摩擦力更低、重量更轻，部分跑者在公路赛中更为青睐。轻度压缩（15–20 mmHg）。最适合偏好更轻、更贴身袜子感觉的公路赛跑者。",
-      "pros": ["细旦尼龙结构——比典型西方跑袜更轻、摩擦力更低", "2026年加固后跟，60次洗涤压缩保持力显著提升", "左右脚解剖学结构提供精准贴合"],
-      "cons": ["日本以外地区购买渠道有限——主要通过Tabio日本门店和线上渠道"],
+      "pros": [
+        "细旦尼龙结构——比典型西方跑袜更轻、摩擦力更低",
+        "2026年加固后跟，60次洗涤压缩保持力显著提升",
+        "左右脚解剖学结构提供精准贴合"
+      ],
+      "cons": [
+        "日本以外地区购买渠道有限——主要通过Tabio日本门店和线上渠道"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "细旦尼龙/弹性纤维", "Anatomical": "左右脚区分", "Toe": "无缝", "Market": "以日本市场为主", "Price": "入门"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.3, "Durability": 4.5, "Comfort": 4.6, "Value": 4.8}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "细旦尼龙/弹性纤维",
+        "Anatomical": "左右脚区分",
+        "Toe": "无缝",
+        "Market": "以日本市场为主",
+        "Price": "入门"
+      },
+      "scores": {
+        "压缩准确度": 4,
+        "抗起泡性": 4.3,
+        "耐久性": 4.5,
+        "舒适度": 4.6,
+        "价值": 4.8
+      }
     },
     {
       "offerId": "compression-socks-feetures-elite",
       "badge": "足底筋膜炎最佳",
       "review": "Feetures Elite采用iWCL系统，将缓冲区精确映射至脚底解剖压力点，而非均匀分布。结果是一双更轻的袜子，在冲击发生处提供精准保护。2026年更新专为极简跑鞋增加了足弓摩擦区。15–20 mmHg压缩为轻度。最适合有足底筋膜炎病史的跑者，或穿零落差、低堆叠量跑鞋长距离跑步者。",
-      "pros": ["iWCL定向缓冲映射——在脚底压力点提供保护，不增加额外重量", "2026年足弓摩擦区针对极简跑鞋的起泡模式", "解剖学贴合配合定向压缩分区"],
-      "cons": ["15–20 mmHg轻度压缩——不适合追求长跑后临床级压缩效益的跑者"],
+      "pros": [
+        "iWCL定向缓冲映射——在脚底压力点提供保护，不增加额外重量",
+        "2026年足弓摩擦区针对极简跑鞋的起泡模式",
+        "解剖学贴合配合定向压缩分区"
+      ],
+      "cons": [
+        "15–20 mmHg轻度压缩——不适合追求长跑后临床级压缩效益的跑者"
+      ],
       "grade": "B",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "尼龙/弹性纤维", "Cushion": "iWCL区域映射", "Anatomical": "左右脚区分", "Toe": "无缝", "Price": "入门"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.6, "Durability": 4.5, "Comfort": 4.8, "Value": 4.7}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "尼龙/弹性纤维",
+        "Cushion": "iWCL区域映射",
+        "Anatomical": "左右脚区分",
+        "Toe": "无缝",
+        "Price": "入门"
+      },
+      "scores": {
+        "压缩准确度": 4,
+        "抗起泡性": 4.6,
+        "耐久性": 4.5,
+        "舒适度": 4.8,
+        "价值": 4.7
+      }
     }
   ],
   "faqs": [
@@ -106,9 +201,21 @@
     }
   ],
   "recommendedFor": [
-    {"label": "追求临床压缩精度和长期耐用性", "offerId": "compression-socks-cep-run-4-0", "reason": "medi GmbH认证的20–30 mmHg梯度是本次比较中最精准的；80次以上洗涤保持力使其旗舰定价具有每次使用竞争力。"},
-    {"label": "有起泡病史的跑者", "offerId": "compression-socks-balega-blister-resist", "reason": "莫哈尔纤维减少脚与袜子摩擦的效果优于单纯的无缝趾部结构；2026年宽版可选。"},
-    {"label": "足底筋膜炎和极简跑鞋跑者", "offerId": "compression-socks-feetures-elite", "reason": "iWCL区域映射针对脚底压力点；2026年足弓摩擦区解决极简跑鞋的起泡模式。"}
+    {
+      "label": "追求临床压缩精度和长期耐用性",
+      "offerId": "compression-socks-cep-run-4-0",
+      "reason": "medi GmbH认证的20–30 mmHg梯度是本次比较中最精准的；80次以上洗涤保持力使其旗舰定价具有每次使用竞争力。"
+    },
+    {
+      "label": "有起泡病史的跑者",
+      "offerId": "compression-socks-balega-blister-resist",
+      "reason": "莫哈尔纤维减少脚与袜子摩擦的效果优于单纯的无缝趾部结构；2026年宽版可选。"
+    },
+    {
+      "label": "足底筋膜炎和极简跑鞋跑者",
+      "offerId": "compression-socks-feetures-elite",
+      "reason": "iWCL区域映射针对脚底压力点；2026年足弓摩擦区解决极简跑鞋的起泡模式。"
+    }
   ],
   "pinDescription": "2026年跑步压缩袜对比——CEP vs Balega vs Sockwell vs Tabio vs Feetures，mmHg等级、防起泡性能、纤维结构与洗涤耐用性全解析，专为长跑爱好者和越野运动员打造。",
   "offerNotes": ""

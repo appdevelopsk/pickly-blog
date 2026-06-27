@@ -88,11 +88,11 @@
         "Filter life": "Annual at typical use"
       },
       "scores": {
-        "Air purification": 5.0,
-        "Personal airflow": 4.5,
-        "Noise level": 4.3,
-        "Value for money": 3.0,
-        "Safety": 5.0
+        "Hava Temizleme": 5,
+        "Kişisel Hava Akışı": 4.5,
+        "Gürültü Seviyesi": 4.3,
+        "Fiyat Performansı": 3,
+        "Güvenlik": 5
       }
     },
     {
@@ -118,11 +118,11 @@
         "Noise": "~45dB at max"
       },
       "scores": {
-        "Room circulation": 5.0,
-        "Personal airflow": 3.8,
-        "Portability": 4.7,
-        "Value for money": 4.6,
-        "Noise level": 4.2
+        "Oda Dolaşımı": 5,
+        "Kişisel Hava Akışı": 3.8,
+        "Taşınabilirlik": 4.7,
+        "Fiyat Performansı": 4.6,
+        "Gürültü Seviyesi": 4.2
       }
     },
     {
@@ -148,11 +148,11 @@
         "Noise": "~40dB (low) to ~55dB (high)"
       },
       "scores": {
-        "Airflow volume": 4.8,
-        "Value for money": 5.0,
-        "Noise level": 3.8,
-        "Portability": 4.5,
-        "Features": 2.5
+        "Hava Akışı Hacmi": 4.8,
+        "Fiyat Performansı": 5,
+        "Gürültü Seviyesi": 3.8,
+        "Taşınabilirlik": 4.5,
+        "Özellikler": 2.5
       }
     },
     {
@@ -179,11 +179,11 @@
         "Voltage": "100V (Japan)"
       },
       "scores": {
-        "Energy efficiency": 5.0,
-        "Noise level": 4.8,
-        "Value (long-term)": 4.7,
-        "Airflow quality": 4.5,
-        "Build quality": 4.7
+        "Enerji Verimliliği": 5,
+        "Gürültü Seviyesi": 4.8,
+        "Değer (Uzun Vadeli)": 4.7,
+        "Hava Akışı Kalitesi": 4.5,
+        "İnşaat Kalitesi": 4.7
       }
     },
     {
@@ -209,11 +209,11 @@
         "Compatibility": "USB-C PD, most laptops and monitors"
       },
       "scores": {
-        "Convenience": 5.0,
-        "Noise level": 4.9,
-        "Airflow volume": 3.2,
-        "Value for money": 4.3,
-        "Portability": 5.0
+        "Kolaylık": 5,
+        "Gürültü Seviyesi": 4.9,
+        "Hava Akışı Hacmi": 3.2,
+        "Fiyat Performansı": 4.3,
+        "Taşınabilirlik": 5
       }
     }
   ],

@@ -72,58 +72,179 @@
       "offerId": "excalibur-9-tray-dehydrator",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "Excalibur 9-nampan adalah tolok ukur yang digunakan untuk mengukur setiap dehidrator makanan lainnya. Aliran udara horizontal belakang mengeringkan semua 9 nampan secara merata tanpa rotasi, dan 15 kaki persegi ruang pengeringan menangani satu batch penuh daging kering dalam satu sesi. Komprominya adalah harga ($200–$300) dan jejak di meja.",
-      "pros": ["Kipas belakang dengan aliran udara horizontal — tidak perlu rotasi nampan", "Kapasitas 15 kaki persegi di 9 nampan", "Di bawah 60 dB dan garansi 10 tahun"],
-      "cons": ["Harga $200–$300 dan jejak meja yang besar"],
+      "pros": [
+        "Kipas belakang dengan aliran udara horizontal — tidak perlu rotasi nampan",
+        "Kapasitas 15 kaki persegi di 9 nampan",
+        "Di bawah 60 dB dan garansi 10 tahun"
+      ],
+      "cons": [
+        "Harga $200–$300 dan jejak meja yang besar"
+      ],
       "grade": "A+",
-      "specs": {"Price": "~$200–$300", "Trays": "9 (15 kaki persegi)", "Airflow": "Horizontal kipas belakang", "Temp range": "95–165°F", "Noise": "<60 dB", "Warranty": "10 tahun", "Tray material": "Polikarbonat aman mesin cuci piring"},
-      "scores": {"Drying performance": 4.9, "Capacity": 4.8, "Noise": 4.5, "Value": 4.0, "Ease of use": 4.7}
+      "specs": {
+        "Price": "~$200–$300",
+        "Trays": "9 (15 kaki persegi)",
+        "Airflow": "Horizontal kipas belakang",
+        "Temp range": "95–165°F",
+        "Noise": "<60 dB",
+        "Warranty": "10 tahun",
+        "Tray material": "Polikarbonat aman mesin cuci piring"
+      },
+      "scores": {
+        "Performa Pengeringan": 4.9,
+        "Kapasitas": 4.8,
+        "Bising": 4.5,
+        "Nilai": 4,
+        "Kemudahan Penggunaan": 4.7
+      }
     },
     {
       "offerId": "cosori-premium-food-dehydrator",
       "badge": "Nilai Terbaik",
       "review": "Cosori Premium 6-nampan memberikan aliran udara horizontal dengan harga $100–$150 — setengah harga Excalibur dengan kapasitas yang lebih kecil secara proporsional. Tampilan digital dual-readout (suhu yang ditetapkan dan suhu sebenarnya secara bersamaan) adalah fitur yang benar-benar berguna untuk memantau siklus. Terbaik untuk rumah tangga yang mendehidrasi sesekali daripada dalam jumlah besar.",
-      "pros": ["Aliran udara horizontal — tidak perlu rotasi nampan", "Tampilan digital dual-readout menampilkan suhu yang ditetapkan dan sebenarnya", "Timer 48 jam dengan pintu transparan"],
-      "cons": ["6 nampan vs 9 Excalibur — kapasitas batch lebih kecil"],
+      "pros": [
+        "Aliran udara horizontal — tidak perlu rotasi nampan",
+        "Tampilan digital dual-readout menampilkan suhu yang ditetapkan dan sebenarnya",
+        "Timer 48 jam dengan pintu transparan"
+      ],
+      "cons": [
+        "6 nampan vs 9 Excalibur — kapasitas batch lebih kecil"
+      ],
       "grade": "A",
-      "specs": {"Price": "~$100–$150", "Trays": "6 (~5.5 kaki persegi)", "Airflow": "Horizontal", "Temp range": "95–165°F", "Timer": "48 jam", "Display": "Digital dual-readout", "Door": "Transparan"},
-      "scores": {"Drying performance": 4.5, "Capacity": 3.8, "Noise": 4.4, "Value": 4.6, "Ease of use": 4.6}
+      "specs": {
+        "Price": "~$100–$150",
+        "Trays": "6 (~5.5 kaki persegi)",
+        "Airflow": "Horizontal",
+        "Temp range": "95–165°F",
+        "Timer": "48 jam",
+        "Display": "Digital dual-readout",
+        "Door": "Transparan"
+      },
+      "scores": {
+        "Performa Pengeringan": 4.5,
+        "Kapasitas": 3.8,
+        "Bising": 4.4,
+        "Nilai": 4.6,
+        "Kemudahan Penggunaan": 4.6
+      }
     },
     {
       "offerId": "nesco-snackmaster-pro",
       "badge": "Terbaik yang Dapat Diperluas",
       "review": "Nesco Snackmaster Pro adalah dehidrator yang paling banyak diulas di Amazon dan telah diproduksi selama beberapa dekade. Keunggulan uniknya adalah kemampuan ekspansi — mulai dengan 5 nampan melingkar dan perluas hingga 12 tanpa membeli mesin baru. Aliran udara vertikal berarti rotasi nampan diperlukan untuk pengeringan yang merata, yang merupakan trade-off kunci dibandingkan unit aliran udara horizontal.",
-      "pros": ["Diperluas dari 5 hingga 12 nampan tanpa membeli mesin baru", "Dehidrator paling banyak diulas di Amazon", "Nampan melingkar yang ringkas mudah disimpan"],
-      "cons": ["Aliran udara vertikal memerlukan rotasi nampan untuk pengeringan yang merata"],
+      "pros": [
+        "Diperluas dari 5 hingga 12 nampan tanpa membeli mesin baru",
+        "Dehidrator paling banyak diulas di Amazon",
+        "Nampan melingkar yang ringkas mudah disimpan"
+      ],
+      "cons": [
+        "Aliran udara vertikal memerlukan rotasi nampan untuk pengeringan yang merata"
+      ],
       "grade": "B+",
-      "specs": {"Price": "~$60–$90", "Trays": "5 (dapat diperluas hingga 12)", "Airflow": "Vertikal atas", "Temp range": "95–160°F", "Controls": "Tombol putar analog", "Rotation required": "Ya", "Shape": "Nampan melingkar"},
-      "scores": {"Drying performance": 3.8, "Capacity": 4.2, "Noise": 4.0, "Value": 4.5, "Ease of use": 3.8}
+      "specs": {
+        "Price": "~$60–$90",
+        "Trays": "5 (dapat diperluas hingga 12)",
+        "Airflow": "Vertikal atas",
+        "Temp range": "95–160°F",
+        "Controls": "Tombol putar analog",
+        "Rotation required": "Ya",
+        "Shape": "Nampan melingkar"
+      },
+      "scores": {
+        "Performa Pengeringan": 3.8,
+        "Kapasitas": 4.2,
+        "Bising": 4,
+        "Nilai": 4.5,
+        "Kemudahan Penggunaan": 3.8
+      }
     },
     {
       "offerId": "presto-dehydro-digital",
       "badge": "Terbaik Tingkat Pemula",
       "review": "Presto Dehydro Digital adalah titik masuk untuk pengguna pertama kali dengan harga $60–$80. Termostat digital dan timer merupakan peningkatan dari tombol putar analog Nesco. Enam nampan melingkar dalam tumpukan vertikal memberikan hasil yang cukup tetapi tidak merata — rencanakan rotasi nampan. Terbaik digunakan sebagai pembelian percobaan sebelum berkomitmen pada mesin aliran udara horizontal.",
-      "pros": ["Termostat digital dan timer dengan harga tingkat pemula", "Dehidrator pertama yang baik untuk menguji hobi", "Jejak yang ringkas"],
-      "cons": ["Aliran udara vertikal menghasilkan pengeringan yang tidak merata tanpa rotasi nampan", "Nampan melingkar lebih sempit dari persegi panjang"],
+      "pros": [
+        "Termostat digital dan timer dengan harga tingkat pemula",
+        "Dehidrator pertama yang baik untuk menguji hobi",
+        "Jejak yang ringkas"
+      ],
+      "cons": [
+        "Aliran udara vertikal menghasilkan pengeringan yang tidak merata tanpa rotasi nampan",
+        "Nampan melingkar lebih sempit dari persegi panjang"
+      ],
       "grade": "B",
-      "specs": {"Price": "~$60–$80", "Trays": "6 melingkar", "Airflow": "Vertikal", "Temp range": "Termostat digital", "Timer": "Digital", "Rotation required": "Ya", "Shape": "Nampan melingkar"},
-      "scores": {"Drying performance": 3.5, "Capacity": 3.4, "Noise": 3.8, "Value": 4.4, "Ease of use": 4.0}
+      "specs": {
+        "Price": "~$60–$80",
+        "Trays": "6 melingkar",
+        "Airflow": "Vertikal",
+        "Temp range": "Termostat digital",
+        "Timer": "Digital",
+        "Rotation required": "Ya",
+        "Shape": "Nampan melingkar"
+      },
+      "scores": {
+        "Performa Pengeringan": 3.5,
+        "Kapasitas": 3.4,
+        "Bising": 3.8,
+        "Nilai": 4.4,
+        "Kemudahan Penggunaan": 4
+      }
     },
     {
       "offerId": "tribest-sedona-express",
       "badge": "Terbaik untuk Beban Campuran",
       "review": "Tribest Sedona Express memecahkan satu masalah yang tidak dapat dilakukan Excalibur: mengeringkan makanan yang membutuhkan suhu berbeda secara bersamaan. Zona pemanas gandanya (depan dan belakang yang dapat dikontrol secara independen) memungkinkan Anda menjalankan bumbu pada 95–115°F dan daging kering pada 155–165°F dalam mesin yang sama pada waktu yang sama. Di bawah 55 dB menjadikannya yang paling senyap di kelasnya. Biayanya lebih mahal dari Excalibur dengan total kapasitas nampan yang lebih sedikit.",
-      "pros": ["Zona pemanas ganda independen untuk beban suhu campuran secara bersamaan", "Di bawah 55 dB — dehidrator makanan paling senyap dalam perbandingan ini", "11 nampan dengan opsi baja tahan karat"],
-      "cons": ["Lebih mahal dari Excalibur dengan ruang nampan yang lebih sedikit"],
+      "pros": [
+        "Zona pemanas ganda independen untuk beban suhu campuran secara bersamaan",
+        "Di bawah 55 dB — dehidrator makanan paling senyap dalam perbandingan ini",
+        "11 nampan dengan opsi baja tahan karat"
+      ],
+      "cons": [
+        "Lebih mahal dari Excalibur dengan ruang nampan yang lebih sedikit"
+      ],
       "grade": "B-",
-      "specs": {"Price": "~$250–$350", "Trays": "11", "Airflow": "Horizontal dual-zone", "Temp zones": "2 independen", "Noise": "<55 dB", "Temp range": "95–167°F", "Controls": "Digital"},
-      "scores": {"Drying performance": 4.7, "Capacity": 4.0, "Noise": 4.8, "Value": 3.5, "Ease of use": 4.2}
+      "specs": {
+        "Price": "~$250–$350",
+        "Trays": "11",
+        "Airflow": "Horizontal dual-zone",
+        "Temp zones": "2 independen",
+        "Noise": "<55 dB",
+        "Temp range": "95–167°F",
+        "Controls": "Digital"
+      },
+      "scores": {
+        "Performa Pengeringan": 4.7,
+        "Kapasitas": 4,
+        "Bising": 4.8,
+        "Nilai": 3.5,
+        "Kemudahan Penggunaan": 4.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk pengguna dehidrator rumahan serius", "offerId": "excalibur-9-tray-dehydrator", "reason": "Kapasitas aliran udara horizontal besar tanpa rotasi nampan dan garansi 10 tahun"},
-    {"label": "Untuk penggunaan rumah tangga sesekali", "offerId": "cosori-premium-food-dehydrator", "reason": "Aliran udara horizontal dengan setengah harga Excalibur dan tampilan dual-readout yang berguna"},
-    {"label": "Untuk pembeli yang ingin memperluas kapasitas", "offerId": "nesco-snackmaster-pro", "reason": "Perluas dari 5 hingga 12 nampan tanpa mengganti mesin"},
-    {"label": "Untuk pengguna dehidrator pertama kali", "offerId": "presto-dehydro-digital", "reason": "Kontrol digital dengan harga tingkat pemula untuk menguji dehidrasi sebelum berkomitmen pada mesin yang lebih besar"},
-    {"label": "Untuk pengeringan suhu campuran", "offerId": "tribest-sedona-express", "reason": "Zona panas ganda yang independen memungkinkan Anda mengeringkan bumbu dan daging kering secara bersamaan dalam satu mesin"}
+    {
+      "label": "Untuk pengguna dehidrator rumahan serius",
+      "offerId": "excalibur-9-tray-dehydrator",
+      "reason": "Kapasitas aliran udara horizontal besar tanpa rotasi nampan dan garansi 10 tahun"
+    },
+    {
+      "label": "Untuk penggunaan rumah tangga sesekali",
+      "offerId": "cosori-premium-food-dehydrator",
+      "reason": "Aliran udara horizontal dengan setengah harga Excalibur dan tampilan dual-readout yang berguna"
+    },
+    {
+      "label": "Untuk pembeli yang ingin memperluas kapasitas",
+      "offerId": "nesco-snackmaster-pro",
+      "reason": "Perluas dari 5 hingga 12 nampan tanpa mengganti mesin"
+    },
+    {
+      "label": "Untuk pengguna dehidrator pertama kali",
+      "offerId": "presto-dehydro-digital",
+      "reason": "Kontrol digital dengan harga tingkat pemula untuk menguji dehidrasi sebelum berkomitmen pada mesin yang lebih besar"
+    },
+    {
+      "label": "Untuk pengeringan suhu campuran",
+      "offerId": "tribest-sedona-express",
+      "reason": "Zona panas ganda yang independen memungkinkan Anda mengeringkan bumbu dan daging kering secara bersamaan dalam satu mesin"
+    }
   ]
 }

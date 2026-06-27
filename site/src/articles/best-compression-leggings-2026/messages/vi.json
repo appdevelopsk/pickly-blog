@@ -4,11 +4,31 @@
   "lede": "Quần legging nén chia thành hai trường hợp sử dụng: trang phục có lực nén nhẹ và cảm giác mềm mại để thoải mái khi tập luyện, và trang phục có lực nén y tế dần dần được thiết kế để cải thiện tuần hoàn tĩnh mạch trong khi chạy sức bền. Năm lựa chọn từ khoảng 1.500.000 đến 3.200.000 VND, được so sánh dựa trên lời hứa mà mỗi sản phẩm thực sự mang lại.",
   "methodology": "Các quần legging được đánh giá về mức độ nén (nhẹ/trung bình/dần dần), tỷ lệ spandex và cách cấu trúc duy trì mức độ đó qua các chu kỳ giặt, độ ổn định của cạp khi vận động, trọng lượng vải và khả năng thoáng khí cho trường hợp sử dụng đã nêu, và cấu trúc đường may phẳng hoặc dán nhiệt để đánh giá nguy cơ cọ sát — ưu tiên tính toàn vẹn nén và độ bền hơn tính thẩm mỹ.",
   "recommendedFor": [
-    {"label": "Để tập luyện hàng ngày thoải mái", "offerId": "compression-leggings-lululemon-align", "reason": "Vải Nulu của Align là quần legging tập luyện mềm nhất trong bài so sánh này — cảm giác 'trần trụi' giảm mệt mỏi nhiệt trong các buổi dài, và cạp duy trì vị trí mà không bị trượt xuống."},
-    {"label": "Để đạt hiệu suất chạy chuyên biệt", "offerId": "compression-leggings-nike-epic-fast", "reason": "Các tấm lưới và vừa vặn nén chặt của Epic Fast được thiết kế đặc biệt cho việc chạy — các yếu tố phản quang thêm khả năng hiển thị trong ánh sáng yếu mà không cần áo phản quang riêng."},
-    {"label": "Để nén dần dần khi chạy sức bền", "offerId": "compression-leggings-cep-run", "reason": "Lực nén dần dần 20–30 mmHg của CEP từ mắt cá chân đến giữa đùi là lực nén duy nhất được hiệu chỉnh lâm sàng trong bài so sánh này."},
-    {"label": "Để chạy trong thời tiết nóng", "offerId": "compression-leggings-adidas-own-the-run", "reason": "Vải AEROREADY và các tấm thông gió hai bên được thiết kế để chạy ở nhiệt độ trên 20°C — mức nén nhẹ mang lại cảm giác ôm sát cơ thể mà không tích nhiệt, thứ gây mệt mỏi sớm khi trời nóng."},
-    {"label": "Để nén phục hồi có hỗ trợ khoa học thể thao", "offerId": "compression-leggings-skins-series-3", "reason": "Lực nén body-mapping của Skins Series-3 sử dụng thuật toán đo cơ thể để hiệu chỉnh lực nén cho từng cá nhân — gần nhất với độ chính xác lâm sàng ngoài CEP."}
+    {
+      "label": "Để tập luyện hàng ngày thoải mái",
+      "offerId": "compression-leggings-lululemon-align",
+      "reason": "Vải Nulu của Align là quần legging tập luyện mềm nhất trong bài so sánh này — cảm giác 'trần trụi' giảm mệt mỏi nhiệt trong các buổi dài, và cạp duy trì vị trí mà không bị trượt xuống."
+    },
+    {
+      "label": "Để đạt hiệu suất chạy chuyên biệt",
+      "offerId": "compression-leggings-nike-epic-fast",
+      "reason": "Các tấm lưới và vừa vặn nén chặt của Epic Fast được thiết kế đặc biệt cho việc chạy — các yếu tố phản quang thêm khả năng hiển thị trong ánh sáng yếu mà không cần áo phản quang riêng."
+    },
+    {
+      "label": "Để nén dần dần khi chạy sức bền",
+      "offerId": "compression-leggings-cep-run",
+      "reason": "Lực nén dần dần 20–30 mmHg của CEP từ mắt cá chân đến giữa đùi là lực nén duy nhất được hiệu chỉnh lâm sàng trong bài so sánh này."
+    },
+    {
+      "label": "Để chạy trong thời tiết nóng",
+      "offerId": "compression-leggings-adidas-own-the-run",
+      "reason": "Vải AEROREADY và các tấm thông gió hai bên được thiết kế để chạy ở nhiệt độ trên 20°C — mức nén nhẹ mang lại cảm giác ôm sát cơ thể mà không tích nhiệt, thứ gây mệt mỏi sớm khi trời nóng."
+    },
+    {
+      "label": "Để nén phục hồi có hỗ trợ khoa học thể thao",
+      "offerId": "compression-leggings-skins-series-3",
+      "reason": "Lực nén body-mapping của Skins Series-3 sử dụng thuật toán đo cơ thể để hiệu chỉnh lực nén cho từng cá nhân — gần nhất với độ chính xác lâm sàng ngoài CEP."
+    }
   ],
   "sections": [
     {
@@ -67,51 +87,146 @@
       "offerId": "compression-leggings-lululemon-align",
       "badge": "Thoải Mái Nhất",
       "review": "Vải Nulu của Align (nylon 81%, Lycra 19%) là quần legging tập luyện hàng ngày mềm nhất trong bài so sánh này — lực nén nhẹ nhàng đủ cho yoga và tập luyện nhẹ mà không cảm thấy bó buộc. Cạp cao với nội thất bám giữ là ổn định nhất trong tất cả quần legging ở đây trong các buổi 60–90 phút. Mức độ nén nhẹ khiến nó kém phù hợp hơn cho chạy cường độ cao.",
-      "pros": ["Vải Nulu mang lại cảm giác trần trụi nhất trong tất cả quần legging ở đây", "Cạp cao bám giữ duy trì phẳng trong các buổi 90 phút", "Lực nén nhẹ phù hợp cho yoga, phòng gym, và chạy nhẹ"],
-      "cons": ["Mức độ nén nhẹ không đủ để hỗ trợ cơ bắp khi chạy cường độ cao"],
+      "pros": [
+        "Vải Nulu mang lại cảm giác trần trụi nhất trong tất cả quần legging ở đây",
+        "Cạp cao bám giữ duy trì phẳng trong các buổi 90 phút",
+        "Lực nén nhẹ phù hợp cho yoga, phòng gym, và chạy nhẹ"
+      ],
+      "cons": [
+        "Mức độ nén nhẹ không đủ để hỗ trợ cơ bắp khi chạy cường độ cao"
+      ],
       "grade": "A+",
-      "specs": {"Compression grade": "Nhẹ (không có thông số mmHg)", "Fabric": "Nylon 81%, Lycra 19% (Nulu)", "Spandex equiv.": "~19% Lycra", "Waistband": "Cạp cao, nội thất bám giữ", "Fabric weight": "~143 GSM", "Price": "~3.000.000 VND"},
-      "scores": {"Compression": 3.5, "Breathability": 4.2, "Waistband stability": 5.0, "Durability": 4.3, "Value": 3.5}
+      "specs": {
+        "Compression grade": "Nhẹ (không có thông số mmHg)",
+        "Fabric": "Nylon 81%, Lycra 19% (Nulu)",
+        "Spandex equiv.": "~19% Lycra",
+        "Waistband": "Cạp cao, nội thất bám giữ",
+        "Fabric weight": "~143 GSM",
+        "Price": "~3.000.000 VND"
+      },
+      "scores": {
+        "Nén": 3.5,
+        "Tính thông thoáng": 4.2,
+        "Độ ổn định thắt lưng": 5,
+        "Độ bền": 4.3,
+        "Giá trị": 3.5
+      }
     },
     {
       "offerId": "compression-leggings-nike-epic-fast",
       "badge": "Tốt Nhất Để Chạy",
       "review": "Lực nén chắc hơn và các tấm lưới của Epic Fast khiến nó trở thành quần legging chuyên chạy nhất trong bài so sánh này. Các tấm lưới ở phần sau đùi và bắp chân trong cung cấp cải thiện luồng không khí thực sự ở trên 18°C mà không ảnh hưởng đến cấu trúc nén phía trước đùi. Các yếu tố phản quang thực dụng để chạy trong ánh sáng yếu. Cạp kém ổn định hơn Lululemon Align khi chạy trên 60 phút.",
-      "pros": ["Tấm lưới ở đùi sau và bắp chân trong cải thiện khả năng thoáng khí trong thời tiết ấm", "Lực nén chạy chắc hơn Lululemon Align", "Yếu tố phản quang thực dụng cho chạy ngoài trời trong ánh sáng yếu"],
-      "cons": ["Cạp kém ổn định hơn Align — có thể cần điều chỉnh ở 60+ phút"],
+      "pros": [
+        "Tấm lưới ở đùi sau và bắp chân trong cải thiện khả năng thoáng khí trong thời tiết ấm",
+        "Lực nén chạy chắc hơn Lululemon Align",
+        "Yếu tố phản quang thực dụng cho chạy ngoài trời trong ánh sáng yếu"
+      ],
+      "cons": [
+        "Cạp kém ổn định hơn Align — có thể cần điều chỉnh ở 60+ phút"
+      ],
       "grade": "A",
-      "specs": {"Compression grade": "Trung bình (không có thông số mmHg)", "Fabric": "Polyester 83%, spandex 17% với tấm lưới", "Mesh coverage": "Đùi sau + bắp chân trong", "Waistband": "Cạp trung-cao", "Reflective": "Có", "Price": "~2.100.000 VND"},
-      "scores": {"Compression": 4.0, "Breathability": 4.5, "Waistband stability": 4.0, "Durability": 4.2, "Value": 4.2}
+      "specs": {
+        "Compression grade": "Trung bình (không có thông số mmHg)",
+        "Fabric": "Polyester 83%, spandex 17% với tấm lưới",
+        "Mesh coverage": "Đùi sau + bắp chân trong",
+        "Waistband": "Cạp trung-cao",
+        "Reflective": "Có",
+        "Price": "~2.100.000 VND"
+      },
+      "scores": {
+        "Nén": 4,
+        "Tính thông thoáng": 4.5,
+        "Độ ổn định thắt lưng": 4,
+        "Độ bền": 4.2,
+        "Giá trị": 4.2
+      }
     },
     {
       "offerId": "compression-leggings-cep-run",
       "badge": "Nén Dần Dần Tốt Nhất",
       "review": "Lực nén dần dần 20–30 mmHg của CEP Run 3.0 là lực nén duy nhất được hiệu chỉnh lâm sàng trong bài so sánh này — nhiều hơn ở mắt cá chân, ít dần ở đùi — phù hợp với thông số được sử dụng trong nghiên cứu phục hồi được bình duyệt. Đối với vận động viên chạy quản lý suy tĩnh mạch hoặc phù sau chạy, đây là thông số có hỗ trợ nghiên cứu. Xác định kích thước yêu cầu chu vi mắt cá chân và chiều cao, không phải S/M/L tiêu chuẩn.",
-      "pros": ["Nén dần dần 20–30 mmHg phù hợp thông số nghiên cứu phục hồi được bình duyệt", "Hiệu chỉnh lâm sàng: nhiều nén hơn ở mắt cá chân, ít hơn ở đùi", "Hỗ trợ nghiên cứu để giảm đau nhức cơ ở 24–48 giờ"],
-      "cons": ["Yêu cầu đo chu vi mắt cá chân và chiều cao để xác định kích cỡ đúng — không phải S/M/L tiêu chuẩn"],
+      "pros": [
+        "Nén dần dần 20–30 mmHg phù hợp thông số nghiên cứu phục hồi được bình duyệt",
+        "Hiệu chỉnh lâm sàng: nhiều nén hơn ở mắt cá chân, ít hơn ở đùi",
+        "Hỗ trợ nghiên cứu để giảm đau nhức cơ ở 24–48 giờ"
+      ],
+      "cons": [
+        "Yêu cầu đo chu vi mắt cá chân và chiều cao để xác định kích cỡ đúng — không phải S/M/L tiêu chuẩn"
+      ],
       "grade": "A",
-      "specs": {"Compression grade": "20–30 mmHg dần dần", "Fabric": "Hỗn hợp polyamide-elastane", "Compression calibration": "Mắt cá chân > bắp chân > đùi", "Sizing method": "Chu vi mắt cá chân + chiều cao", "Use case": "Chạy + phục hồi sau chạy", "Price": "~3.200.000 VND"},
-      "scores": {"Compression": 5.0, "Breathability": 3.8, "Waistband stability": 4.2, "Durability": 4.5, "Value": 3.8}
+      "specs": {
+        "Compression grade": "20–30 mmHg dần dần",
+        "Fabric": "Hỗn hợp polyamide-elastane",
+        "Compression calibration": "Mắt cá chân > bắp chân > đùi",
+        "Sizing method": "Chu vi mắt cá chân + chiều cao",
+        "Use case": "Chạy + phục hồi sau chạy",
+        "Price": "~3.200.000 VND"
+      },
+      "scores": {
+        "Nén": 5,
+        "Tính thông thoáng": 3.8,
+        "Độ ổn định thắt lưng": 4.2,
+        "Độ bền": 4.5,
+        "Giá trị": 3.8
+      }
     },
     {
       "offerId": "compression-leggings-adidas-own-the-run",
       "badge": "Tốt Nhất Khi Trời Nóng",
       "review": "Vải AEROREADY và các tấm thông gió bên của Own The Run được thiết kế cho chạy ở nhiệt độ trên 20°C. Mức độ nén nhẹ mang lại cảm giác tập luyện vừa vặn mà không tích tụ nhiệt từ các lựa chọn nén cao hơn. Cạp thấp hơn đối thủ cạnh tranh. Giá cả tiếp cận được nhất trong bài so sánh này.",
-      "pros": ["Vải AEROREADY và thông gió bên cho chạy trong thời tiết nóng", "Lực nén nhẹ giảm tích tụ nhiệt so với các lựa chọn cấp độ cao hơn", "Giá tiếp cận được nhất trong bài so sánh này"],
-      "cons": ["Lực nén nhẹ không đủ để hỗ trợ cơ bắp ở cường độ cao; cạp thấp hơn đối thủ"],
+      "pros": [
+        "Vải AEROREADY và thông gió bên cho chạy trong thời tiết nóng",
+        "Lực nén nhẹ giảm tích tụ nhiệt so với các lựa chọn cấp độ cao hơn",
+        "Giá tiếp cận được nhất trong bài so sánh này"
+      ],
+      "cons": [
+        "Lực nén nhẹ không đủ để hỗ trợ cơ bắp ở cường độ cao; cạp thấp hơn đối thủ"
+      ],
       "grade": "B+",
-      "specs": {"Compression grade": "Nhẹ (không có thông số mmHg)", "Fabric": "Hỗn hợp polyester AEROREADY với tấm thông gió", "Spandex": "~20%", "Waistband": "Cạp trung", "Target temp": "18–28°C khi chạy", "Price": "~1.500.000 VND"},
-      "scores": {"Compression": 3.2, "Breathability": 4.8, "Waistband stability": 3.8, "Durability": 4.0, "Value": 4.5}
+      "specs": {
+        "Compression grade": "Nhẹ (không có thông số mmHg)",
+        "Fabric": "Hỗn hợp polyester AEROREADY với tấm thông gió",
+        "Spandex": "~20%",
+        "Waistband": "Cạp trung",
+        "Target temp": "18–28°C khi chạy",
+        "Price": "~1.500.000 VND"
+      },
+      "scores": {
+        "Nén": 3.2,
+        "Tính thông thoáng": 4.8,
+        "Độ ổn định thắt lưng": 3.8,
+        "Độ bền": 4,
+        "Giá trị": 4.5
+      }
     },
     {
       "offerId": "compression-leggings-skins-series-3",
       "badge": "Vừa Vặn Body-Mapping Tốt Nhất",
       "review": "Skins Series-3 sử dụng số đo cơ thể (eo, hông, đùi, bắp chân) thay vì kích thước tiêu chuẩn để hiệu chỉnh lực nén cho hình dáng chân từng cá nhân — gần nhất với vừa vặn cá nhân hóa ngoài trang phục nén may đo. Lực nén dần dần khoảng 15–18 mmHg nằm giữa nén thoải mái chung và phạm vi lâm sàng của CEP. Phù hợp cho vận động viên chạy sức bền và ba môn phối hợp ưu tiên nén có cơ sở khoa học.",
-      "pros": ["Hệ thống kích thước đo cơ thể hiệu chỉnh lực nén cho hình dáng chân từng cá nhân", "Nén dần dần ~15–18 mmHg — cao hơn nén thoải mái tiêu chuẩn", "Được thiết kế cho chạy sức bền và phục hồi sau chạy"],
-      "cons": ["Yêu cầu số đo cơ thể chính xác — số đo sai dẫn đến mức nén sai"],
+      "pros": [
+        "Hệ thống kích thước đo cơ thể hiệu chỉnh lực nén cho hình dáng chân từng cá nhân",
+        "Nén dần dần ~15–18 mmHg — cao hơn nén thoải mái tiêu chuẩn",
+        "Được thiết kế cho chạy sức bền và phục hồi sau chạy"
+      ],
+      "cons": [
+        "Yêu cầu số đo cơ thể chính xác — số đo sai dẫn đến mức nén sai"
+      ],
       "grade": "B+",
-      "specs": {"Compression grade": "~15–18 mmHg dần dần", "Fabric": "Hỗn hợp nylon-elastane", "Sizing method": "Chu vi eo, hông, đùi, bắp chân", "Compression profile": "Dần dần từ mắt cá chân đến đùi", "Target user": "Vận động viên chạy sức bền, ba môn phối hợp", "Price": "~2.600.000 VND"},
-      "scores": {"Compression": 4.5, "Breathability": 4.0, "Waistband stability": 4.3, "Durability": 4.4, "Value": 3.9}
+      "specs": {
+        "Compression grade": "~15–18 mmHg dần dần",
+        "Fabric": "Hỗn hợp nylon-elastane",
+        "Sizing method": "Chu vi eo, hông, đùi, bắp chân",
+        "Compression profile": "Dần dần từ mắt cá chân đến đùi",
+        "Target user": "Vận động viên chạy sức bền, ba môn phối hợp",
+        "Price": "~2.600.000 VND"
+      },
+      "scores": {
+        "Nén": 4.5,
+        "Tính thông thoáng": 4,
+        "Độ ổn định thắt lưng": 4.3,
+        "Độ bền": 4.4,
+        "Giá trị": 3.9
+      }
     }
   ]
 }

@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
+        "Sapore": 4.7,
+        "Approvvigionamento": 4.8,
+        "Valore": 4.7,
         "Texture": 4.8,
-        "Nutrition": 5
+        "Nutrizione": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
+        "Sapore": 4.4,
+        "Approvvigionamento": 4,
+        "Valore": 4.4,
         "Texture": 4,
-        "Nutrition": 4.7
+        "Nutrizione": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
+        "Sapore": 4.6,
+        "Approvvigionamento": 4.2,
+        "Valore": 4.1,
         "Texture": 4.2,
-        "Nutrition": 4.4
+        "Nutrizione": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
+        "Sapore": 3.8,
+        "Approvvigionamento": 3.9,
+        "Valore": 3.8,
         "Texture": 3.4,
-        "Nutrition": 4.1
+        "Nutrizione": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
+        "Sapore": 4,
+        "Approvvigionamento": 3.6,
+        "Valore": 4,
         "Texture": 3.6,
-        "Nutrition": 3.8
+        "Nutrizione": 3.8
       }
     }
   ],
-  "methodology": "Abbiamo valutato ogni prodotto in base al profilo aromatico, alla trasparenza dell'approvvigionamento, al rapporto qualità-prezzo per porzione, all'integrità della confezione e alle prestazioni nei più comuni casi d'uso. Le certificazioni documentate e le recensioni verificate degli utenti sono state confrontate con le dichiarazioni di marketing."
+  "methodology": "Abbiamo valutato ogni prodotto in base al profilo aromatico, alla trasparenza dell'approvvigionamento, al rapporto qualità-prezzo per porzione, all'integrità della confezione e alle prestazioni nei più comuni casi d'uso. Le certificazioni documentate e le recensioni verificate degli utenti sono state confrontate con le dichiarazioni di marketing.",
+  "recommendedFor": [
+    {
+      "label": "Per spalmare in fretta ogni giorno",
+      "offerId": "justins-classic-almond-butter",
+      "reason": "Ideale per famiglie indaffarate che vogliono una crema senza mescolare con soli due ingredienti."
+    },
+    {
+      "label": "Per cucinare con texture vellutata",
+      "offerId": "barney-bare-almond-butter",
+      "reason": "Ottima per chi preferisce una pasta più liscia e delicata, facile da integrare in ricette dolci e salate."
+    },
+    {
+      "label": "Per chi evita l'olio di palma",
+      "offerId": "wild-friends-almond-butter",
+      "reason": "Perfetta per chi evita l'olio di palma e vuole un barattolo biologico pulito macinato a pietra."
+    },
+    {
+      "label": "Per gli amanti del crudo",
+      "offerId": "artisana-organic-almond-butter",
+      "reason": "Perfetta per gli appassionati di crudismo in cerca di un sapore intenso e complesso ad alta densità nutritiva."
+    },
+    {
+      "label": "Per l'uso quotidiano senza pensieri",
+      "offerId": "maranatha-no-stir-almond-butter",
+      "reason": "Adatta a chi vuole una crema omogenea e pratica che non richiede alcuna mescolatura."
+    }
+  ]
 }

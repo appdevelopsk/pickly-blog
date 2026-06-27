@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
-        "Texture": 4.8,
-        "Nutrition": 5
+        "Tat": 4.7,
+        "Tedarik": 4.8,
+        "Değer": 4.7,
+        "Doku": 4.8,
+        "Beslenme": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
-        "Texture": 4,
-        "Nutrition": 4.7
+        "Tat": 4.4,
+        "Tedarik": 4,
+        "Değer": 4.4,
+        "Doku": 4,
+        "Beslenme": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
-        "Texture": 4.2,
-        "Nutrition": 4.4
+        "Tat": 4.6,
+        "Tedarik": 4.2,
+        "Değer": 4.1,
+        "Doku": 4.2,
+        "Beslenme": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
-        "Texture": 3.4,
-        "Nutrition": 4.1
+        "Tat": 3.8,
+        "Tedarik": 3.9,
+        "Değer": 3.8,
+        "Doku": 3.4,
+        "Beslenme": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
-        "Texture": 3.6,
-        "Nutrition": 3.8
+        "Tat": 4,
+        "Tedarik": 3.6,
+        "Değer": 4,
+        "Doku": 3.6,
+        "Beslenme": 3.8
       }
     }
   ],
-  "methodology": "Her ürünü lezzet profili, kaynak şeffaflığı, porsiyon başına değer, ambalaj bütünlüğü ve yaygın kullanım durumlarındaki performansa göre değerlendirdik. Belgelenmiş sertifikalar ve doğrulanmış kullanıcı yorumları pazarlama iddialarıyla çapraz kontrol edildi."
+  "methodology": "Her ürünü lezzet profili, kaynak şeffaflığı, porsiyon başına değer, ambalaj bütünlüğü ve yaygın kullanım durumlarındaki performansa göre değerlendirdik. Belgelenmiş sertifikalar ve doğrulanmış kullanıcı yorumları pazarlama iddialarıyla çapraz kontrol edildi.",
+  "recommendedFor": [
+    {
+      "label": "Maksimum kakao yoğunluğu isteyen safçılar için",
+      "offerId": "lindt-excellence-90-cocoa",
+      "reason": "Güvenilir, dört malzemeli bir tablet ve uzun süren yoğun acı bir bitiş isteyen deneyimli bitter çikolata severler için en iyisi."
+    },
+    {
+      "label": "Günlük, ekonomik atıştırmalıklar için",
+      "offerId": "ghirardelli-midnight-reverie-86",
+      "reason": "Yüksek oranlı çikolataya yeni başlayanlar ve pişirme için ideal; kakao derinliğini kolay tüketilebilir bir tatla birleştirir."
+    },
+    {
+      "label": "Fazla ödemeden etik kaynak için",
+      "offerId": "green-blacks-organic-dark-85",
+      "reason": "Meyvemsi, daha yumuşak profilli Fairtrade organik kakao isteyenler için harika; %85'e yeni başlayanlara da uygun."
+    },
+    {
+      "label": "Tüm tedarik zincirini önemseyen alıcılar için",
+      "offerId": "theo-chocolate-organic-85",
+      "reason": "Çekirdekten tablete şeffaflığı ve izlenebilir kakaodan gelen karmaşık ceviz-kiraz aromasını önemseyenler için mükemmel."
+    },
+    {
+      "label": "Vegan ve çevre bilincine sahip çikolata severler için",
+      "offerId": "alter-eco-deep-dark-blackout-85",
+      "reason": "Tamamen organik, Fairtrade çikolata isteyen vegan ve çevre bilinçli alıcılar için en iyisi; pişirmede de başarılı."
+    }
+  ]
 }

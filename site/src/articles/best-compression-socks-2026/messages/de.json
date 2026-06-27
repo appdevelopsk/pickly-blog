@@ -44,51 +44,146 @@
       "offerId": "compression-socks-cep-run-4-0",
       "badge": "Beste Klinische Kompression",
       "review": "CEP Run 4.0 liefert zertifizierte 20–30 mmHg graduierte Kompression von medi GmbH — denselben klinischen Standard wie medizinische Kompressionsstrümpfe. Das 2026-Zehenkastenupdate bietet einen breiteren Vorfuß für besseren Komfort. Mit 65 € ist sie die teuerste Option hier, aber die 80+-Waschgang-Kompressionserhaltung und zertifizierte Gradientengenauigkeit machen das Preis-pro-Waschgang-Verhältnis kompetitiv gegenüber günstigeren Socken, die schneller nachlassen.",
-      "pros": ["medi GmbH-zertifiziert 20–30 mmHg — präzisester Kompressionsgradient in diesem Vergleich", "80+ Waschgänge Kompressionserhaltung — beste Langzeitbeständigkeit aller Optionen hier", "2026-breiterer Zehenkasten verbessert den Vorfußkomfort"],
-      "cons": ["65 € pro Paar — höchster Preis in diesem Vergleich"],
+      "pros": [
+        "medi GmbH-zertifiziert 20–30 mmHg — präzisester Kompressionsgradient in diesem Vergleich",
+        "80+ Waschgänge Kompressionserhaltung — beste Langzeitbeständigkeit aller Optionen hier",
+        "2026-breiterer Zehenkasten verbessert den Vorfußkomfort"
+      ],
+      "cons": [
+        "65 € pro Paar — höchster Preis in diesem Vergleich"
+      ],
       "grade": "A+",
-      "specs": {"Compression": "20–30 mmHg (zertifiziert)", "Fiber": "Nylon/Elastan", "Anatomical": "Links/rechts spezifisch", "Toe": "Nahtlos", "Wash durability": "80+ Waschgänge", "Price": "65 €"},
-      "scores": {"Compression accuracy": 5.0, "Blister resistance": 4.3, "Durability": 5.0, "Comfort": 4.4, "Value": 3.5}
+      "specs": {
+        "Compression": "20–30 mmHg (zertifiziert)",
+        "Fiber": "Nylon/Elastan",
+        "Anatomical": "Links/rechts spezifisch",
+        "Toe": "Nahtlos",
+        "Wash durability": "80+ Waschgänge",
+        "Price": "65 €"
+      },
+      "scores": {
+        "Kompressionsgenauigkeit": 5,
+        "Blasenresistenz": 4.3,
+        "Haltbarkeit": 5,
+        "Komfort": 4.4,
+        "Wert": 3.5
+      }
     },
     {
       "offerId": "compression-socks-balega-blister-resist",
       "badge": "Bester Blasenschutz",
       "review": "Balegas Mohair/Nylon/Elastan-Mischung bietet die geringste Reibung aller Socken in diesem Vergleich — Mohairs glatte Faseroberfläche gleitet am Fuß statt zu scheuern. Kombiniert mit nahtlosem Zehenbereich und lateraler Vorfußpolsterung ist sie die effektivste Blasenschutzsocke hier. Kompression ist leicht (15–20 mmHg), keine Priorität. Das 2026-Breitenupdate löst die Einschränkung bei schmalen Leisten. Beste Wahl für Läufer mit Zeh- und Vorfußblasengeschichte.",
-      "pros": ["Mohair-Fasermischung — geringste Reibung in diesem Vergleich, einzigartig effektiver Blasenschutz", "2026-Breitenversion löst die Einschränkung für breitere Füße", "Nahtloses Zehenbereich plus laterale Vorfußpolsterung zielt auf die zwei häufigsten Blasenzonen"],
-      "cons": ["Nur leichte Kompression (15–20 mmHg) — falsche Wahl, wenn klinischer Kompressionsvorteil das Ziel ist"],
+      "pros": [
+        "Mohair-Fasermischung — geringste Reibung in diesem Vergleich, einzigartig effektiver Blasenschutz",
+        "2026-Breitenversion löst die Einschränkung für breitere Füße",
+        "Nahtloses Zehenbereich plus laterale Vorfußpolsterung zielt auf die zwei häufigsten Blasenzonen"
+      ],
+      "cons": [
+        "Nur leichte Kompression (15–20 mmHg) — falsche Wahl, wenn klinischer Kompressionsvorteil das Ziel ist"
+      ],
       "grade": "A",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Mohair/Nylon/Elastan", "Anatomical": "Links/rechts spezifisch", "Toe": "Nahtlos", "Width": "Standard + breit (2026)", "Price": "19 €"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 5.0, "Durability": 4.3, "Comfort": 4.8, "Value": 4.9}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Mohair/Nylon/Elastan",
+        "Anatomical": "Links/rechts spezifisch",
+        "Toe": "Nahtlos",
+        "Width": "Standard + breit (2026)",
+        "Price": "19 €"
+      },
+      "scores": {
+        "Kompressionsgenauigkeit": 4,
+        "Blasenresistenz": 5,
+        "Haltbarkeit": 4.3,
+        "Komfort": 4.8,
+        "Wert": 4.9
+      }
     },
     {
       "offerId": "compression-socks-sockwell-pulse",
       "badge": "Beste für Temperaturwechsel",
       "review": "Sockwell Pulse verwendet eine Merino/Nylon/Spandex-Mischung, die über saisonale Temperaturbereiche thermoreguliert — die Merino-Hohlfaser isoliert in der Kälte und transportiert Feuchtigkeit bei Wärme. Bei 15–20 mmHg ist die Kompression leicht. Der Wärmeregelungsvorteil zeigt sich am deutlichsten bei Trailläufen mit erheblichem Höhenunterschied oder früh- und spätsaisonalem Rennen mit Temperaturschwankungen. Nicht der Kompressions- oder Blasenschutzführer, aber der beste ganzjährige Allrounder.",
-      "pros": ["Merino-Thermoregulierung — bewältigt Temperaturen saisonübergreifend besser als Synthetikfasern", "Feuchtigkeitstransport reduziert Blasenrisiko bei langen temperaturschwankenden Läufen", "Mittelpreisig bei 33 € mit überdurchschnittlicher Haltbarkeit"],
-      "cons": ["15–20 mmHg leichte Kompression — nicht geeignet für Läufer, die 20–30 mmHg klinischen Kompressionsvorteil benötigen"],
+      "pros": [
+        "Merino-Thermoregulierung — bewältigt Temperaturen saisonübergreifend besser als Synthetikfasern",
+        "Feuchtigkeitstransport reduziert Blasenrisiko bei langen temperaturschwankenden Läufen",
+        "Mittelpreisig bei 33 € mit überdurchschnittlicher Haltbarkeit"
+      ],
+      "cons": [
+        "15–20 mmHg leichte Kompression — nicht geeignet für Läufer, die 20–30 mmHg klinischen Kompressionsvorteil benötigen"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Merinowolle/Nylon/Spandex", "Anatomical": "Links/rechts spezifisch", "Toe": "Nahtlos", "Wash durability": "60 Waschgänge moderate Erhaltung", "Price": "33 €"},
-      "scores": {"Compression accuracy": 4.1, "Blister resistance": 4.2, "Durability": 4.4, "Comfort": 4.7, "Value": 4.5}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Merinowolle/Nylon/Spandex",
+        "Anatomical": "Links/rechts spezifisch",
+        "Toe": "Nahtlos",
+        "Wash durability": "60 Waschgänge moderate Erhaltung",
+        "Price": "33 €"
+      },
+      "scores": {
+        "Kompressionsgenauigkeit": 4.1,
+        "Blasenresistenz": 4.2,
+        "Haltbarkeit": 4.4,
+        "Komfort": 4.7,
+        "Wert": 4.5
+      }
     },
     {
       "offerId": "compression-socks-tabio-jp",
       "badge": "Beste Japan-Markt-Wahl",
       "review": "Tabio Racing Fine verwendet feindenier Nylon-Konstruktion mit anatomischer Links-/Rechts-Differenzierung. Das 2026-Update fügte einen verstärkten Fersenrahmen und verbesserte Kompressionserhaltung über 60 Waschgänge hinzu — die Vorgängerversion verlor bei 30–40 Wäschen erheblich an Elastizität. Der feine Denier verleiht eine reibungsärmere Oberflächenanmutung und leichteres Gewicht als typische westliche Laufsocken. Leichte Kompression (15–20 mmHg). Beste Wahl für Straßenläufer, die ein leichteres, schlankeres Sockengefühl bevorzugen.",
-      "pros": ["Feindenier-Nylon-Konstruktion — leichter und reibungsärmer als typische westliche Laufsocken", "2026 verstärkte Ferse und verbesserte Kompressionserhaltung über 60 Waschgänge", "Anatomische Links-/Rechts-Konstruktion für präzisen Sitz"],
-      "cons": ["Begrenzte Verfügbarkeit außerhalb Japans — hauptsächlich über Tabio Japan-Läden und online"],
+      "pros": [
+        "Feindenier-Nylon-Konstruktion — leichter und reibungsärmer als typische westliche Laufsocken",
+        "2026 verstärkte Ferse und verbesserte Kompressionserhaltung über 60 Waschgänge",
+        "Anatomische Links-/Rechts-Konstruktion für präzisen Sitz"
+      ],
+      "cons": [
+        "Begrenzte Verfügbarkeit außerhalb Japans — hauptsächlich über Tabio Japan-Läden und online"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Feindenier-Nylon/Elastan", "Anatomical": "Links/rechts spezifisch", "Toe": "Nahtlos", "Market": "Japan-primär", "Price": "Einsteiger"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.3, "Durability": 4.5, "Comfort": 4.6, "Value": 4.8}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Feindenier-Nylon/Elastan",
+        "Anatomical": "Links/rechts spezifisch",
+        "Toe": "Nahtlos",
+        "Market": "Japan-primär",
+        "Price": "Einsteiger"
+      },
+      "scores": {
+        "Kompressionsgenauigkeit": 4,
+        "Blasenresistenz": 4.3,
+        "Haltbarkeit": 4.5,
+        "Komfort": 4.6,
+        "Wert": 4.8
+      }
     },
     {
       "offerId": "compression-socks-feetures-elite",
       "badge": "Beste bei Plantarfaszitis",
       "review": "Feetures Elite verwendet das iWCL-System, um Polsterzonen auf Druckpunkte der Plantarfläche zu kartieren statt gleichmäßig zu polstern. Das Ergebnis ist eine leichtere Socke mit gezieltem Schutz genau dort, wo Aufprall stattfindet. Das 2026-Update fügte eine Mittelfußreibungszone speziell für minimalistische Schuhe hinzu. Bei 15–20 mmHg ist die Kompression leicht. Beste Wahl für Läufer mit Plantarfaszitis-Geschichte oder für Langläufer in Null-Drop- oder Niedrigstapelschuhen.",
-      "pros": ["iWCL-zielgerichtetes Polster-Mapping — Schutz an Druckpunkten ohne unnötiges Gewicht", "2026-Mittelfußreibungszone adressiert Blasenmuster bei minimalistischen Schuhen", "Anatomischer Sitz mit zielgerichtetem Kompressionszoning"],
-      "cons": ["15–20 mmHg leichte Kompression — nicht die Wahl für klinischen Kompressionsvorteil nach langen Läufen"],
+      "pros": [
+        "iWCL-zielgerichtetes Polster-Mapping — Schutz an Druckpunkten ohne unnötiges Gewicht",
+        "2026-Mittelfußreibungszone adressiert Blasenmuster bei minimalistischen Schuhen",
+        "Anatomischer Sitz mit zielgerichtetem Kompressionszoning"
+      ],
+      "cons": [
+        "15–20 mmHg leichte Kompression — nicht die Wahl für klinischen Kompressionsvorteil nach langen Läufen"
+      ],
       "grade": "B",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Nylon/Elastan", "Cushion": "iWCL-Zonen-Mapping", "Anatomical": "Links/rechts spezifisch", "Toe": "Nahtlos", "Price": "17 €"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.6, "Durability": 4.5, "Comfort": 4.8, "Value": 4.7}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Nylon/Elastan",
+        "Cushion": "iWCL-Zonen-Mapping",
+        "Anatomical": "Links/rechts spezifisch",
+        "Toe": "Nahtlos",
+        "Price": "17 €"
+      },
+      "scores": {
+        "Kompressionsgenauigkeit": 4,
+        "Blasenresistenz": 4.6,
+        "Haltbarkeit": 4.5,
+        "Komfort": 4.8,
+        "Wert": 4.7
+      }
     }
   ],
   "faqs": [
@@ -106,9 +201,21 @@
     }
   ],
   "recommendedFor": [
-    {"label": "Für klinische Kompression und Langzeitbeständigkeit", "offerId": "compression-socks-cep-run-4-0", "reason": "medi GmbH-zertifizierter 20–30-mmHg-Gradient ist der präziseste in diesem Vergleich; 80+-Waschgang-Erhaltung macht die 65-€-Kosten pro Tragedauer wettbewerbsfähig."},
-    {"label": "Für Läufer mit Blasengeschichte", "offerId": "compression-socks-balega-blister-resist", "reason": "Mohair-Faser reduziert Fuß-zu-Socke-Reibung effektiver als nahtlose Zehenkonstruktion allein; Breitenversion für 2026 verfügbar."},
-    {"label": "Für Plantarfaszitis und Minimalschuhläufer", "offerId": "compression-socks-feetures-elite", "reason": "iWCL-Zonen-Mapping zielt auf Plantardruckpunkte; 2026-Mittelfußreibungszone adressiert Blasenmuster bei minimalistischen Schuhen."}
+    {
+      "label": "Für klinische Kompression und Langzeitbeständigkeit",
+      "offerId": "compression-socks-cep-run-4-0",
+      "reason": "medi GmbH-zertifizierter 20–30-mmHg-Gradient ist der präziseste in diesem Vergleich; 80+-Waschgang-Erhaltung macht die 65-€-Kosten pro Tragedauer wettbewerbsfähig."
+    },
+    {
+      "label": "Für Läufer mit Blasengeschichte",
+      "offerId": "compression-socks-balega-blister-resist",
+      "reason": "Mohair-Faser reduziert Fuß-zu-Socke-Reibung effektiver als nahtlose Zehenkonstruktion allein; Breitenversion für 2026 verfügbar."
+    },
+    {
+      "label": "Für Plantarfaszitis und Minimalschuhläufer",
+      "offerId": "compression-socks-feetures-elite",
+      "reason": "iWCL-Zonen-Mapping zielt auf Plantardruckpunkte; 2026-Mittelfußreibungszone adressiert Blasenmuster bei minimalistischen Schuhen."
+    }
   ],
   "pinDescription": "Kompressionssocken fürs Laufen 2026 im Vergleich — CEP vs Balega vs Sockwell vs Tabio vs Feetures. mmHg-Werte, Blasenschutz, Faseraufbau und Waschbeständigkeit erklärt für Langstreckenläufer und Trailläufer.",
   "offerNotes": ""

@@ -72,58 +72,179 @@
       "offerId": "excalibur-9-tray-dehydrator",
       "badge": "综合最佳",
       "review": "Excalibur 9层是衡量其他所有食物脱水机的基准。后置水平气流无需旋转即可均匀干燥所有9层，15平方英尺的干燥空间可在一次操作中处理一整批肉干。权衡是价格（200-300美元）和台面占用空间。",
-      "pros": ["后置风扇水平气流——无需托盘旋转", "9层托盘共15平方英尺容量", "低于60分贝和10年保修"],
-      "cons": ["200-300美元的价格标签和较大的台面占用空间"],
+      "pros": [
+        "后置风扇水平气流——无需托盘旋转",
+        "9层托盘共15平方英尺容量",
+        "低于60分贝和10年保修"
+      ],
+      "cons": [
+        "200-300美元的价格标签和较大的台面占用空间"
+      ],
       "grade": "A+",
-      "specs": {"Price": "约200-300美元", "Trays": "9层（15平方英尺）", "Airflow": "水平后置风扇", "Temp range": "95-165°F", "Noise": "<60分贝", "Warranty": "10年", "Tray material": "可洗碗机清洗的聚碳酸酯"},
-      "scores": {"Drying performance": 4.9, "Capacity": 4.8, "Noise": 4.5, "Value": 4.0, "Ease of use": 4.7}
+      "specs": {
+        "Price": "约200-300美元",
+        "Trays": "9层（15平方英尺）",
+        "Airflow": "水平后置风扇",
+        "Temp range": "95-165°F",
+        "Noise": "<60分贝",
+        "Warranty": "10年",
+        "Tray material": "可洗碗机清洗的聚碳酸酯"
+      },
+      "scores": {
+        "干燥性能": 4.9,
+        "容量": 4.8,
+        "噪音": 4.5,
+        "价值": 4,
+        "易用性": 4.7
+      }
     },
     {
       "offerId": "cosori-premium-food-dehydrator",
       "badge": "最佳价值",
       "review": "Cosori Premium 6层以100-150美元提供水平气流——价格是Excalibur的一半，容量也相应较小。双读数数字显示器（同时显示设定温度和实际温度）是监控周期的真正有用功能。最适合偶尔而非批量脱水的家庭。",
-      "pros": ["水平气流——无需托盘旋转", "双读数数字显示器同时显示设定和实际温度", "带透明门的48小时计时器"],
-      "cons": ["6层托盘对比Excalibur的9层——批量容量较小"],
+      "pros": [
+        "水平气流——无需托盘旋转",
+        "双读数数字显示器同时显示设定和实际温度",
+        "带透明门的48小时计时器"
+      ],
+      "cons": [
+        "6层托盘对比Excalibur的9层——批量容量较小"
+      ],
       "grade": "A",
-      "specs": {"Price": "约100-150美元", "Trays": "6层（约5.5平方英尺）", "Airflow": "水平", "Temp range": "95-165°F", "Timer": "48小时", "Display": "双读数数字", "Door": "透明"},
-      "scores": {"Drying performance": 4.5, "Capacity": 3.8, "Noise": 4.4, "Value": 4.6, "Ease of use": 4.6}
+      "specs": {
+        "Price": "约100-150美元",
+        "Trays": "6层（约5.5平方英尺）",
+        "Airflow": "水平",
+        "Temp range": "95-165°F",
+        "Timer": "48小时",
+        "Display": "双读数数字",
+        "Door": "透明"
+      },
+      "scores": {
+        "干燥性能": 4.5,
+        "容量": 3.8,
+        "噪音": 4.4,
+        "价值": 4.6,
+        "易用性": 4.6
+      }
     },
     {
       "offerId": "nesco-snackmaster-pro",
       "badge": "最佳可扩展",
       "review": "Nesco Snackmaster Pro是亚马逊上评价最多的脱水机，已生产数十年。其独特优势是可扩展性——从5个圆形托盘开始，无需购买新机器即可扩展至12个。垂直气流意味着需要旋转托盘才能均匀干燥，这是与水平气流机相比的主要权衡。",
-      "pros": ["无需购买新机器即可从5个扩展至12个托盘", "亚马逊上评价最多的脱水机", "圆形托盘存储紧凑"],
-      "cons": ["垂直气流需要旋转托盘才能均匀干燥"],
+      "pros": [
+        "无需购买新机器即可从5个扩展至12个托盘",
+        "亚马逊上评价最多的脱水机",
+        "圆形托盘存储紧凑"
+      ],
+      "cons": [
+        "垂直气流需要旋转托盘才能均匀干燥"
+      ],
       "grade": "B+",
-      "specs": {"Price": "约60-90美元", "Trays": "5个（可扩展至12个）", "Airflow": "垂直顶置", "Temp range": "95-160°F", "Controls": "模拟转盘", "Rotation required": "是", "Shape": "圆形托盘"},
-      "scores": {"Drying performance": 3.8, "Capacity": 4.2, "Noise": 4.0, "Value": 4.5, "Ease of use": 3.8}
+      "specs": {
+        "Price": "约60-90美元",
+        "Trays": "5个（可扩展至12个）",
+        "Airflow": "垂直顶置",
+        "Temp range": "95-160°F",
+        "Controls": "模拟转盘",
+        "Rotation required": "是",
+        "Shape": "圆形托盘"
+      },
+      "scores": {
+        "干燥性能": 3.8,
+        "容量": 4.2,
+        "噪音": 4,
+        "价值": 4.5,
+        "易用性": 3.8
+      }
     },
     {
       "offerId": "presto-dehydro-digital",
       "badge": "最佳入门级",
       "review": "Presto Dehydro Digital是60-80美元的首次脱水机用户的入门点。数字温控器和计时器比Nesco的模拟转盘有所提升。六个圆形托盘垂直堆叠产生足够但不均匀的结果——计划旋转托盘。最适合作为试用购买，在购买水平气流机器前先测试这一爱好。",
-      "pros": ["入门级价格的数字温控器和计时器", "测试爱好的良好入门脱水机", "紧凑的占用空间"],
-      "cons": ["垂直气流在不旋转托盘的情况下干燥不均匀", "圆形托盘比矩形更窄"],
+      "pros": [
+        "入门级价格的数字温控器和计时器",
+        "测试爱好的良好入门脱水机",
+        "紧凑的占用空间"
+      ],
+      "cons": [
+        "垂直气流在不旋转托盘的情况下干燥不均匀",
+        "圆形托盘比矩形更窄"
+      ],
       "grade": "B",
-      "specs": {"Price": "约60-80美元", "Trays": "6个圆形", "Airflow": "垂直", "Temp range": "数字温控器", "Timer": "数字", "Rotation required": "是", "Shape": "圆形托盘"},
-      "scores": {"Drying performance": 3.5, "Capacity": 3.4, "Noise": 3.8, "Value": 4.4, "Ease of use": 4.0}
+      "specs": {
+        "Price": "约60-80美元",
+        "Trays": "6个圆形",
+        "Airflow": "垂直",
+        "Temp range": "数字温控器",
+        "Timer": "数字",
+        "Rotation required": "是",
+        "Shape": "圆形托盘"
+      },
+      "scores": {
+        "干燥性能": 3.5,
+        "容量": 3.4,
+        "噪音": 3.8,
+        "价值": 4.4,
+        "易用性": 4
+      }
     },
     {
       "offerId": "tribest-sedona-express",
       "badge": "最适合混合负载",
       "review": "Tribest Sedona Express解决了Excalibur无法解决的一个问题：同时干燥需要不同温度的食物。其双加热区（前后独立可控）让您可以在同一台机器同时运行95-115°F的草药和155-165°F的肉干。低于55分贝使其成为同类中最安静的。比Excalibur更贵，总托盘容量更少。",
-      "pros": ["独立双加热区用于同时混合温度负载", "低于55分贝——本次比较中最安静的食物脱水机", "11层托盘，可选不锈钢"],
-      "cons": ["比Excalibur更贵，托盘空间更少"],
+      "pros": [
+        "独立双加热区用于同时混合温度负载",
+        "低于55分贝——本次比较中最安静的食物脱水机",
+        "11层托盘，可选不锈钢"
+      ],
+      "cons": [
+        "比Excalibur更贵，托盘空间更少"
+      ],
       "grade": "B-",
-      "specs": {"Price": "约250-350美元", "Trays": "11层", "Airflow": "水平双区", "Temp zones": "2个独立", "Noise": "<55分贝", "Temp range": "95-167°F", "Controls": "数字"},
-      "scores": {"Drying performance": 4.7, "Capacity": 4.0, "Noise": 4.8, "Value": 3.5, "Ease of use": 4.2}
+      "specs": {
+        "Price": "约250-350美元",
+        "Trays": "11层",
+        "Airflow": "水平双区",
+        "Temp zones": "2个独立",
+        "Noise": "<55分贝",
+        "Temp range": "95-167°F",
+        "Controls": "数字"
+      },
+      "scores": {
+        "干燥性能": 4.7,
+        "容量": 4,
+        "噪音": 4.8,
+        "价值": 3.5,
+        "易用性": 4.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "适合认真的家庭脱水机用户", "offerId": "excalibur-9-tray-dehydrator", "reason": "大容量水平气流，无需托盘旋转，10年保修"},
-    {"label": "适合偶尔家庭使用", "offerId": "cosori-premium-food-dehydrator", "reason": "水平气流，价格是Excalibur的一半，配备有用的双读数显示器"},
-    {"label": "适合想要扩大容量的买家", "offerId": "nesco-snackmaster-pro", "reason": "无需更换机器即可从5个扩展至12个托盘"},
-    {"label": "适合首次脱水机用户", "offerId": "presto-dehydro-digital", "reason": "入门级价格的数字控制，在购买更大机器前先测试脱水"},
-    {"label": "适合混合温度干燥", "offerId": "tribest-sedona-express", "reason": "独立双热区让您可以在同一台机器中同时干燥草药和肉干"}
+    {
+      "label": "适合认真的家庭脱水机用户",
+      "offerId": "excalibur-9-tray-dehydrator",
+      "reason": "大容量水平气流，无需托盘旋转，10年保修"
+    },
+    {
+      "label": "适合偶尔家庭使用",
+      "offerId": "cosori-premium-food-dehydrator",
+      "reason": "水平气流，价格是Excalibur的一半，配备有用的双读数显示器"
+    },
+    {
+      "label": "适合想要扩大容量的买家",
+      "offerId": "nesco-snackmaster-pro",
+      "reason": "无需更换机器即可从5个扩展至12个托盘"
+    },
+    {
+      "label": "适合首次脱水机用户",
+      "offerId": "presto-dehydro-digital",
+      "reason": "入门级价格的数字控制，在购买更大机器前先测试脱水"
+    },
+    {
+      "label": "适合混合温度干燥",
+      "offerId": "tribest-sedona-express",
+      "reason": "独立双热区让您可以在同一台机器中同时干燥草药和肉干"
+    }
   ]
 }

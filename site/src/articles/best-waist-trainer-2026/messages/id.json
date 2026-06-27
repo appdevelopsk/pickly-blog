@@ -4,11 +4,31 @@
   "lede": "Waist trainer dikenakan untuk dua alasan yang berbeda: dukungan inti dan kesadaran postur selama latihan, atau keyakinan bahwa penggunaan yang konsisten akan secara permanen mengurangi lingkar pinggang. Bukti mendukung penggunaan pertama. Yang kedua tidak didukung oleh penelitian. Lima waist trainer dari $28 hingga $85, dibandingkan jujur pada apa yang benar-benar mereka lakukan.",
   "methodology": "Waist trainer dinilai pada jenis boning (baja vs plastik — menentukan integritas struktural dan bagaimana garmen menahan bentuk di bawah gerakan), tingkat kompresi dan konstruksi kain, dukungan inti selama olahraga, pernapasan dan sifat termal, daya tahan melalui penggunaan berulang, dan kenyamanan untuk penggunaan yang diperpanjang — dengan penilaian eksplisit atas klaim yang dibuat untuk setiap produk relatif terhadap bukti yang tersedia.",
   "recommendedFor": [
-    {"label": "Untuk dukungan inti selama angkat berat", "offerId": "waist-trainer-squeem-perfect-waist", "reason": "Boning baja ganda Squeem (9 tulang) dan inti karet alami memberikan dukungan tekanan intra-abdominal yang tulus selama mengangkat senyawa — lebih dekat pada fungsi ikat pinggang angkat daripada garmen fashion."},
-    {"label": "Untuk kesadaran postur selama aktivitas sehari-hari", "offerId": "waist-trainer-ann-chery-classic", "reason": "Penutupan hook-and-eye 3-baris Ann Chery dan struktur 9-tulang memberikan kompresi yang dapat disesuaikan yang berfungsi sebagai isyarat postur proprioceptif tanpa intensitas termal desain neoprene."},
-    {"label": "Untuk keringatan termogenik selama kardio", "offerId": "waist-trainer-chumian-neoprene", "reason": "Konstruksi neoprene Chumian menghasilkan suhu kulit lokal tertinggi dari sabuk apa pun dalam perbandingan ini — jika tujuan Anda adalah peningkatan output keringat lokal selama sesi kardio, ini adalah desain untuk tujuan spesifik itu."},
-    {"label": "Untuk dukungan punggung bawah selama latihan", "offerId": "waist-trainer-sweet-sweat-band", "reason": "Desain neoprene lebar Sweet Sweat mencakup dari iga bawah ke pinggul, memberikan dukungan punggung bawah dan oblique di area lebih luas daripada desain cincher yang lebih sempit."},
-    {"label": "Untuk dukungan kinerja gym tanpa kompresi ekstrem", "offerId": "waist-trainer-nebbia-power", "reason": "Kompresi sedang Nebbia Power dan konstruksi kain yang dapat bernapas memberikan dukungan inti tanpa tekanan yang membatasi sirkulasi dari desain baja-bertulang lateks — lebih sesuai untuk penggunaan gym yang diperpanjang."}
+    {
+      "label": "Untuk dukungan inti selama angkat berat",
+      "offerId": "waist-trainer-squeem-perfect-waist",
+      "reason": "Boning baja ganda Squeem (9 tulang) dan inti karet alami memberikan dukungan tekanan intra-abdominal yang tulus selama mengangkat senyawa — lebih dekat pada fungsi ikat pinggang angkat daripada garmen fashion."
+    },
+    {
+      "label": "Untuk kesadaran postur selama aktivitas sehari-hari",
+      "offerId": "waist-trainer-ann-chery-classic",
+      "reason": "Penutupan hook-and-eye 3-baris Ann Chery dan struktur 9-tulang memberikan kompresi yang dapat disesuaikan yang berfungsi sebagai isyarat postur proprioceptif tanpa intensitas termal desain neoprene."
+    },
+    {
+      "label": "Untuk keringatan termogenik selama kardio",
+      "offerId": "waist-trainer-chumian-neoprene",
+      "reason": "Konstruksi neoprene Chumian menghasilkan suhu kulit lokal tertinggi dari sabuk apa pun dalam perbandingan ini — jika tujuan Anda adalah peningkatan output keringat lokal selama sesi kardio, ini adalah desain untuk tujuan spesifik itu."
+    },
+    {
+      "label": "Untuk dukungan punggung bawah selama latihan",
+      "offerId": "waist-trainer-sweet-sweat-band",
+      "reason": "Desain neoprene lebar Sweet Sweat mencakup dari iga bawah ke pinggul, memberikan dukungan punggung bawah dan oblique di area lebih luas daripada desain cincher yang lebih sempit."
+    },
+    {
+      "label": "Untuk dukungan kinerja gym tanpa kompresi ekstrem",
+      "offerId": "waist-trainer-nebbia-power",
+      "reason": "Kompresi sedang Nebbia Power dan konstruksi kain yang dapat bernapas memberikan dukungan inti tanpa tekanan yang membatasi sirkulasi dari desain baja-bertulang lateks — lebih sesuai untuk penggunaan gym yang diperpanjang."
+    }
   ],
   "sections": [
     {
@@ -76,8 +96,21 @@
         "Inti latex tidak dapat bernapas — akumulasi panas signifikan setelah 45 menit"
       ],
       "grade": "A+",
-      "specs": {"Boning": "9 steel bones (flat + spiral)", "Core material": "Natural rubber (latex)", "Outer fabric": "Cotton", "Closure": "Hook-and-eye, 3 rows", "Compression level": "High", "Price": "~$85"},
-      "scores": {"Core support": 5.0, "Breathability": 2.5, "Durability": 4.5, "Comfort": 3.5, "Value": 3.8}
+      "specs": {
+        "Boning": "9 steel bones (flat + spiral)",
+        "Core material": "Natural rubber (latex)",
+        "Outer fabric": "Cotton",
+        "Closure": "Hook-and-eye, 3 rows",
+        "Compression level": "High",
+        "Price": "~$85"
+      },
+      "scores": {
+        "Dukungan Inti": 5,
+        "Daya Respiras": 2.5,
+        "Ketahanan": 4.5,
+        "Kenyamanan": 3.5,
+        "Nilai": 3.8
+      }
     },
     {
       "offerId": "waist-trainer-ann-chery-classic",
@@ -92,8 +125,21 @@
         "Inti latex: berbagi keterbatasan pernapasan Squeem — akumulasi panas selama olahraga yang berinisiatif"
       ],
       "grade": "A",
-      "specs": {"Boning": "9 steel bones", "Core material": "Latex", "Outer fabric": "Cotton/polyester blend", "Closure": "3-hook-and-eye (3 compression levels)", "Compression level": "High", "Price": "~$55"},
-      "scores": {"Core support": 4.5, "Breathability": 2.8, "Durability": 4.3, "Comfort": 3.8, "Value": 4.2}
+      "specs": {
+        "Boning": "9 steel bones",
+        "Core material": "Latex",
+        "Outer fabric": "Cotton/polyester blend",
+        "Closure": "3-hook-and-eye (3 compression levels)",
+        "Compression level": "High",
+        "Price": "~$55"
+      },
+      "scores": {
+        "Dukungan Inti": 4.5,
+        "Daya Respiras": 2.8,
+        "Ketahanan": 4.3,
+        "Kenyamanan": 3.8,
+        "Nilai": 4.2
+      }
     },
     {
       "offerId": "waist-trainer-chumian-neoprene",
@@ -108,8 +154,21 @@
         "Peningkatan keringat adalah kehilangan air, bukan kehilangan lemak — tidak ada efek pengurangan spot"
       ],
       "grade": "B+",
-      "specs": {"Boning": "None", "Material": "Neoprene", "Closure": "Velcro", "Compression level": "Medium (no boning)", "Thermal effect": "High (neoprene insulation)", "Price": "~$28"},
-      "scores": {"Core support": 3.0, "Breathability": 3.0, "Durability": 3.8, "Comfort": 3.5, "Value": 4.8}
+      "specs": {
+        "Boning": "None",
+        "Material": "Neoprene",
+        "Closure": "Velcro",
+        "Compression level": "Medium (no boning)",
+        "Thermal effect": "High (neoprene insulation)",
+        "Price": "~$28"
+      },
+      "scores": {
+        "Dukungan Inti": 3,
+        "Daya Respiras": 3,
+        "Ketahanan": 3.8,
+        "Kenyamanan": 3.5,
+        "Nilai": 4.8
+      }
     },
     {
       "offerId": "waist-trainer-sweet-sweat-band",
@@ -124,8 +183,21 @@
         "Gel Sweet Sweat (dijual terpisah) tidak memiliki bukti klinis untuk pengurangan lemak tambahan"
       ],
       "grade": "B+",
-      "specs": {"Boning": "None", "Material": "Neoprene", "Coverage": "Lower rib to hip", "Closure": "Velcro", "Width": "Wider than standard cincher", "Price": "~$35"},
-      "scores": {"Core support": 3.5, "Breathability": 2.8, "Durability": 4.0, "Comfort": 3.8, "Value": 4.5}
+      "specs": {
+        "Boning": "None",
+        "Material": "Neoprene",
+        "Coverage": "Lower rib to hip",
+        "Closure": "Velcro",
+        "Width": "Wider than standard cincher",
+        "Price": "~$35"
+      },
+      "scores": {
+        "Dukungan Inti": 3.5,
+        "Daya Respiras": 2.8,
+        "Ketahanan": 4,
+        "Kenyamanan": 3.8,
+        "Nilai": 4.5
+      }
     },
     {
       "offerId": "waist-trainer-nebbia-power",
@@ -140,8 +212,21 @@
         "Kompresi terendah dalam perbandingan ini — tidak cukup untuk dukungan angkat berat"
       ],
       "grade": "B",
-      "specs": {"Boning": "Minimal / none", "Material": "Polyester-elastane blend", "Closure": "Hook-and-eye", "Compression level": "Moderate", "Breathability": "High (no thermal insulation)", "Price": "~$45"},
-      "scores": {"Core support": 3.2, "Breathability": 4.5, "Durability": 3.8, "Comfort": 4.3, "Value": 4.2}
+      "specs": {
+        "Boning": "Minimal / none",
+        "Material": "Polyester-elastane blend",
+        "Closure": "Hook-and-eye",
+        "Compression level": "Moderate",
+        "Breathability": "High (no thermal insulation)",
+        "Price": "~$45"
+      },
+      "scores": {
+        "Dukungan Inti": 3.2,
+        "Daya Respiras": 4.5,
+        "Ketahanan": 3.8,
+        "Kenyamanan": 4.3,
+        "Nilai": 4.2
+      }
     }
   ]
 }

@@ -120,58 +120,164 @@
       "offerId": "nike-brasilia-9-5-training-duffel",
       "badge": "Genel Olarak En İyi",
       "review": "36 L orta, değişim kıyafetiyle spor salonu+ulaşımı karşılar, çoğu spor salonu dolabına sığar ve ayrı havalandırmalı ayakkabı bölmesi gerçekten ayakkabıları temiz ekipmandan uzak tutar. 600D polyester dolap tabanlarına dayanır. Eksiklik: yastıklı dizüstü bilgisayar bölmesi yok ve havalandırmalı ayakkabı bölmesi bir miktar koku aktarımına izin veriyor; spor ayakkabıları için kabul edilebilir, iş kıyafetinin yanında elbise ayakkabıları için ideal değil.",
-      "pros": ["Havalandırmalı ayakkabı bölmesi ayakkabı giysileri gerçekten izole eder", "36 L orta, çoğu ticari spor salonu dolabına sığar", "Geniş renk seçimi ve çok sayıda boyut seçeneği (18–60 L)"],
-      "cons": ["Standart fiyat noktasında yastıklı dizüstü bilgisayar bölmesi yok"],
+      "pros": [
+        "Havalandırmalı ayakkabı bölmesi ayakkabı giysileri gerçekten izole eder",
+        "36 L orta, çoğu ticari spor salonu dolabına sığar",
+        "Geniş renk seçimi ve çok sayıda boyut seçeneği (18–60 L)"
+      ],
+      "cons": [
+        "Standart fiyat noktasında yastıklı dizüstü bilgisayar bölmesi yok"
+      ],
       "grade": "A+",
-      "specs": {"Capacity": "36 L (orta)", "Material": "600D polyester", "Compartments": "Ayakkabı + ıslak/kuru cep + ana", "Dimensions": "51×28×28 cm", "Price": "Orta segment"},
-      "scores": {"Durability": 4.5, "Wet/dry separation": 4.3, "Locker fit": 4.5, "Comfort": 4.0, "Value": 4.5}
+      "specs": {
+        "Capacity": "36 L (orta)",
+        "Material": "600D polyester",
+        "Compartments": "Ayakkabı + ıslak/kuru cep + ana",
+        "Dimensions": "51×28×28 cm",
+        "Price": "Orta segment"
+      },
+      "scores": {
+        "Dayanıklılık": 4.5,
+        "Islak/Kuru Ayrışma": 4.3,
+        "Dolaplar Uyumu": 4.5,
+        "Konfor": 4,
+        "Değer": 4.5
+      }
     },
     {
       "offerId": "under-armour-undeniable-5-duffel",
       "badge": "En İyi Su Direnci",
       "review": "UA Storm kaplaması, işlenmemiş polyesterden daha iyi hafif yağmuru iter; yürüme/bisiklet yolculuğu için geçerli. Şekillendirilebilir iç bölücüler, bölme yapısını yeniden düzenlemenize izin verir; sabit düzenli duffel'lara göre gerçek bir avantaj. Islak cep sınırlaması: ayakkabılar ve ıslak bir havlu sığar, ancak tam ıslak egzersiz sonrası kıyafet değişimi hacmini zorlar. Makine yıkama UA Storm kaplamasını bozar.",
-      "pros": ["UA Storm kaplaması yağmurda standart polyesteri geride bırakır", "Esnek organizasyon için şekillendirilebilir iç bölücüler", "Yedek kapasitesiyle 58 L rahat alan"],
-      "cons": ["Islak cep, tam ıslak egzersiz sonrası kıyafet değişimi için çok küçük"],
+      "pros": [
+        "UA Storm kaplaması yağmurda standart polyesteri geride bırakır",
+        "Esnek organizasyon için şekillendirilebilir iç bölücüler",
+        "Yedek kapasitesiyle 58 L rahat alan"
+      ],
+      "cons": [
+        "Islak cep, tam ıslak egzersiz sonrası kıyafet değişimi için çok küçük"
+      ],
       "grade": "A",
-      "specs": {"Capacity": "58 L (MD)", "Material": "UA Storm polyester", "Compartments": "Islak cep + şekillendirilebilir ana", "Dimensions": "61×30×30 cm", "Price": "Orta segment"},
-      "scores": {"Durability": 4.3, "Wet/dry separation": 4.0, "Locker fit": 4.0, "Comfort": 4.2, "Value": 4.0}
+      "specs": {
+        "Capacity": "58 L (MD)",
+        "Material": "UA Storm polyester",
+        "Compartments": "Islak cep + şekillendirilebilir ana",
+        "Dimensions": "61×30×30 cm",
+        "Price": "Orta segment"
+      },
+      "scores": {
+        "Dayanıklılık": 4.3,
+        "Islak/Kuru Ayrışma": 4,
+        "Dolaplar Uyumu": 4,
+        "Konfor": 4.2,
+        "Değer": 4
+      }
     },
     {
       "offerId": "gym-shark-everyday-gym-bag",
       "badge": "En İyi Stil",
       "review": "Spor ekipmanı gibi bağırmayan minimalist tasarım; ana bölme dizüstü bilgisayar uyumlu, yastıklı askılar yolculuk için yükü rahatça dağıtıyor. Havalandırmalı ayakkabı kesesi ayakkabı ayrımını halleder. Değiş tokuş: mühürlü ıslak bölme yok, bu yüzden gerçekten ıslak yüzme sonrası ekipmanın içinde ayrı kuru torba gerektirir.",
-      "pros": ["Minimalist tasarım, spor salonundan sokağa temiz biçimde geçiş sağlar", "Yastıklı dizüstü bilgisayar uyumlu ana bölme", "Ergonomik yastıklı askılar yolculuklarda omuz yorgunluğunu azaltır"],
-      "cons": ["Özel mühürlü ıslak bölme yok; ıslak ekipman kullanımı havalandırmalı ayakkabı kesesiyle sınırlı"],
+      "pros": [
+        "Minimalist tasarım, spor salonundan sokağa temiz biçimde geçiş sağlar",
+        "Yastıklı dizüstü bilgisayar uyumlu ana bölme",
+        "Ergonomik yastıklı askılar yolculuklarda omuz yorgunluğunu azaltır"
+      ],
+      "cons": [
+        "Özel mühürlü ıslak bölme yok; ıslak ekipman kullanımı havalandırmalı ayakkabı kesesiyle sınırlı"
+      ],
       "grade": "B+",
-      "specs": {"Capacity": "~30 L", "Material": "Polyester", "Compartments": "Ayakkabı kesesi + dizüstü bilgisayar uyumlu ana", "Price": "Orta segment"},
-      "scores": {"Durability": 4.0, "Wet/dry separation": 3.3, "Locker fit": 4.3, "Comfort": 4.5, "Value": 4.0}
+      "specs": {
+        "Capacity": "~30 L",
+        "Material": "Polyester",
+        "Compartments": "Ayakkabı kesesi + dizüstü bilgisayar uyumlu ana",
+        "Price": "Orta segment"
+      },
+      "scores": {
+        "Dayanıklılık": 4,
+        "Islak/Kuru Ayrışma": 3.3,
+        "Dolaplar Uyumu": 4.3,
+        "Konfor": 4.5,
+        "Değer": 4
+      }
     },
     {
       "offerId": "adidas-defender-4-duffel",
       "badge": "Yolcular İçin En İyi",
       "review": "Öne çıkan özellik, kompakt S boyutlu duffel'daki yastıklı dizüstü bilgisayar bölmesidir; bu da onu bu karşılaştırmadaki en kullanışlı spor salonu-ofis çantası yapar. %100 geri dönüştürülmüş polyester, birincil polyesterle eşdeğer performans gösterir. Daha küçük ıslak bölme değiş tokuştur: ayakkabıları veya ıslak kıyafetleri barındırır, ikisini birden değil.",
-      "pros": ["Kompakt duffel'da yastıklı dizüstü bilgisayar bölmesi; bu karşılaştırmada benzersiz", "%100 geri dönüştürülmüş polyester, performans değiş tokuşu olmadan", "Ana bölmeyi açmadan hızlı erişim için ön fermuarlı cep"],
-      "cons": ["Islak bölme ayakkabıları veya ıslak kıyafetleri barındırır; her ikisini rahatça değil"],
+      "pros": [
+        "Kompakt duffel'da yastıklı dizüstü bilgisayar bölmesi; bu karşılaştırmada benzersiz",
+        "%100 geri dönüştürülmüş polyester, performans değiş tokuşu olmadan",
+        "Ana bölmeyi açmadan hızlı erişim için ön fermuarlı cep"
+      ],
+      "cons": [
+        "Islak bölme ayakkabıları veya ıslak kıyafetleri barındırır; her ikisini rahatça değil"
+      ],
       "grade": "B",
-      "specs": {"Capacity": "S boyut (~30 L)", "Material": "%100 geri dönüştürülmüş polyester", "Compartments": "Ayakkabı/ıslak cep + yastıklı dizüstü bilgisayar bölmesi + ana", "Price": "Giriş seviyesi"},
-      "scores": {"Durability": 4.0, "Wet/dry separation": 3.5, "Locker fit": 4.5, "Comfort": 3.8, "Value": 4.5}
+      "specs": {
+        "Capacity": "S boyut (~30 L)",
+        "Material": "%100 geri dönüştürülmüş polyester",
+        "Compartments": "Ayakkabı/ıslak cep + yastıklı dizüstü bilgisayar bölmesi + ana",
+        "Price": "Giriş seviyesi"
+      },
+      "scores": {
+        "Dayanıklılık": 4,
+        "Islak/Kuru Ayrışma": 3.5,
+        "Dolaplar Uyumu": 4.5,
+        "Konfor": 3.8,
+        "Değer": 4.5
+      }
     },
     {
       "offerId": "gold-gym-gym-bag-backpack",
       "badge": "En İyi Bütçe",
       "review": "Ekonomik segmentteki Gold's Gym, dayanıklı polyester, ayrı ayakkabı bölmesi ve iç düzenleyicili büyük ana bölme sunar. Islak/kuru uzmanlaşması yok; varsayım, her seans sonrasında hemen havalandıracağınız yönündedir. Doğrudan spor salonundan eve giden ve fiyat birincil karar olan alıcılar için işe yarıyor.",
-      "pros": ["İkonik spor salonu markası giriş seviyesi fiyatlandırmasında", "Ayrı ayakkabı bölmesi ile iç düzenleyici cep", "Basit yalnızca spor salonu paketlemesi için büyük ana bölme"],
-      "cons": ["Özel ıslak/kuru ayrımı yok; seanslardan sonra hemen havalandırma gerektirir"],
+      "pros": [
+        "İkonik spor salonu markası giriş seviyesi fiyatlandırmasında",
+        "Ayrı ayakkabı bölmesi ile iç düzenleyici cep",
+        "Basit yalnızca spor salonu paketlemesi için büyük ana bölme"
+      ],
+      "cons": [
+        "Özel ıslak/kuru ayrımı yok; seanslardan sonra hemen havalandırma gerektirir"
+      ],
       "grade": "B-",
-      "specs": {"Material": "Polyester", "Compartments": "Ayakkabı bölmesi + düzenleyici + ana", "Price": "Ekonomik"},
-      "scores": {"Durability": 3.8, "Wet/dry separation": 2.8, "Locker fit": 4.5, "Comfort": 3.5, "Value": 5.0}
+      "specs": {
+        "Material": "Polyester",
+        "Compartments": "Ayakkabı bölmesi + düzenleyici + ana",
+        "Price": "Ekonomik"
+      },
+      "scores": {
+        "Dayanıklılık": 3.8,
+        "Islak/Kuru Ayrışma": 2.8,
+        "Dolaplar Uyumu": 4.5,
+        "Konfor": 3.5,
+        "Değer": 5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Değişim kıyafetiyle spor salonu+ulaşım için", "offerId": "nike-brasilia-9-5-training-duffel", "reason": "36 L, dolap uyumluluğu ile tam yolcu kiti için yeterli alan arasındaki tatlı noktaya ulaşır"},
-    {"label": "Yürüyerek veya bisikletle yağmurlu yolculuk için", "offerId": "under-armour-undeniable-5-duffel", "reason": "UA Storm kaplaması bu karşılaştırmadaki diğer çantalardan daha iyi yüzey suyu iter"},
-    {"label": "Sokak stili isteyen spor salonu kullanıcıları için", "offerId": "gym-shark-everyday-gym-bag", "reason": "Spor çantası görünümü olmadan minimalist tasarım ve dizüstü bilgisayar uyumluluğu"},
-    {"label": "Dizüstü bilgisayarla spor salonu-ofis için", "offerId": "adidas-defender-4-duffel", "reason": "Burada kompakt, dolap dostu formatta yastıklı dizüstü bilgisayar bölmesi olan tek çanta"},
-    {"label": "Bütçeli yalnızca spor salonu kullanımı için", "offerId": "gold-gym-gym-bag-backpack", "reason": "Ekonomik fiyatla standart spor salonu kiti için ayakkabı bölmesi ve yeterli ana alan"}
+    {
+      "label": "Değişim kıyafetiyle spor salonu+ulaşım için",
+      "offerId": "nike-brasilia-9-5-training-duffel",
+      "reason": "36 L, dolap uyumluluğu ile tam yolcu kiti için yeterli alan arasındaki tatlı noktaya ulaşır"
+    },
+    {
+      "label": "Yürüyerek veya bisikletle yağmurlu yolculuk için",
+      "offerId": "under-armour-undeniable-5-duffel",
+      "reason": "UA Storm kaplaması bu karşılaştırmadaki diğer çantalardan daha iyi yüzey suyu iter"
+    },
+    {
+      "label": "Sokak stili isteyen spor salonu kullanıcıları için",
+      "offerId": "gym-shark-everyday-gym-bag",
+      "reason": "Spor çantası görünümü olmadan minimalist tasarım ve dizüstü bilgisayar uyumluluğu"
+    },
+    {
+      "label": "Dizüstü bilgisayarla spor salonu-ofis için",
+      "offerId": "adidas-defender-4-duffel",
+      "reason": "Burada kompakt, dolap dostu formatta yastıklı dizüstü bilgisayar bölmesi olan tek çanta"
+    },
+    {
+      "label": "Bütçeli yalnızca spor salonu kullanımı için",
+      "offerId": "gold-gym-gym-bag-backpack",
+      "reason": "Ekonomik fiyatla standart spor salonu kiti için ayakkabı bölmesi ve yeterli ana alan"
+    }
   ]
 }

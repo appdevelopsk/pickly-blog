@@ -67,58 +67,178 @@
       "offerId": "fage-total-0",
       "badge": "最佳总体",
       "review": "Fage Total 0%以每7盎司份18-19克蛋白质和仅2种成分——无增稠剂、无果胶、质地完全来自过滤——为正宗希腊酸奶设定了标准。对于想要真正产品的人来说，风味比美国品牌更尖锐、更酸涩，这是特点而非缺陷。取舍是较强的酸味需要适应。",
-      "pros": ["每7盎司18-19克蛋白质——主流市场中最高的非脂肪蛋白质", "仅2种成分，无增稠剂或添加剂", "勺起时保持形状的致密质地"],
-      "cons": ["更尖锐的酸味对习惯温和品牌的人可能需要适应"],
+      "pros": [
+        "每7盎司18-19克蛋白质——主流市场中最高的非脂肪蛋白质",
+        "仅2种成分，无增稠剂或添加剂",
+        "勺起时保持形状的致密质地"
+      ],
+      "cons": [
+        "更尖锐的酸味对习惯温和品牌的人可能需要适应"
+      ],
       "grade": "A+",
-      "specs": {"Serving": "7盎司", "Protein": "18-19克", "Fat": "0%", "Sugar": "约8克天然", "Ingredients": "2种", "Certifications": "清真认证", "Price": "约$7.49"},
-      "scores": {"Protein": 4.9, "Taste": 4.5, "Value": 4.3, "Texture": 4.8, "Ingredient quality": 4.9}
+      "specs": {
+        "Serving": "7盎司",
+        "Protein": "18-19克",
+        "Fat": "0%",
+        "Sugar": "约8克天然",
+        "Ingredients": "2种",
+        "Certifications": "清真认证",
+        "Price": "约$7.49"
+      },
+      "scores": {
+        "蛋白质": 4.9,
+        "味道": 4.5,
+        "价值": 4.3,
+        "质地": 4.8,
+        "成分质量": 4.9
+      }
     },
     {
       "offerId": "chobani-plain-nonfat",
       "badge": "最佳日常性价比",
       "review": "Chobani原味脱脂是该品类的主力——浓稠但不致密，干净的酸味，每5.3盎司杯含15克蛋白质，仅3种成分。32盎司装在主流杂货店中每克蛋白质性价比最高。由于去除脂肪浓缩了乳糖，脱脂版本碳水化合物略高于2%版本。",
-      "pros": ["3成分配方，无添加糖", "32盎司装提供极佳的每克蛋白质价格", "在烹饪和冰沙中真正多才多艺"],
-      "cons": ["由于去除脂肪浓缩乳糖，脱脂版本碳水化合物略高于2%版本"],
+      "pros": [
+        "3成分配方，无添加糖",
+        "32盎司装提供极佳的每克蛋白质价格",
+        "在烹饪和冰沙中真正多才多艺"
+      ],
+      "cons": [
+        "由于去除脂肪浓缩乳糖，脱脂版本碳水化合物略高于2%版本"
+      ],
       "grade": "A",
-      "specs": {"Serving": "5.3盎司", "Protein": "15克", "Fat": "0%", "Sugar": "约6克天然", "Ingredients": "3种", "Tub size": "有32盎司装", "Price": "约$6.98"},
-      "scores": {"Protein": 4.5, "Taste": 4.4, "Value": 4.8, "Texture": 4.3, "Ingredient quality": 4.6}
+      "specs": {
+        "Serving": "5.3盎司",
+        "Protein": "15克",
+        "Fat": "0%",
+        "Sugar": "约6克天然",
+        "Ingredients": "3种",
+        "Tub size": "有32盎司装",
+        "Price": "约$6.98"
+      },
+      "scores": {
+        "蛋白质": 4.5,
+        "味道": 4.4,
+        "价值": 4.8,
+        "质地": 4.3,
+        "成分质量": 4.6
+      }
     },
     {
       "offerId": "siggis-icelandic-yogurt",
       "badge": "最低糖",
       "review": "Siggi's skyr风格酸奶每5.3盎司提供17克蛋白质，只有6克碳水化合物——是本次对比中最低的糖蛋白比。质地比希腊酸奶更致密，几乎可以涂抹，口味明显酸涩。调味系列的添加糖总量低于9克，在该品类中真的很少见。",
-      "pros": ["每5.3盎司杯只有6克总碳水化合物", "17克蛋白质，调味系列中添加糖非常低", "独特的Skyr密度可作为吐司上的奶油奶酪替代"],
-      "cons": ["明显酸涩的风味需要培养"],
+      "pros": [
+        "每5.3盎司杯只有6克总碳水化合物",
+        "17克蛋白质，调味系列中添加糖非常低",
+        "独特的Skyr密度可作为吐司上的奶油奶酪替代"
+      ],
+      "cons": [
+        "明显酸涩的风味需要培养"
+      ],
       "grade": "B+",
-      "specs": {"Serving": "5.3盎司", "Protein": "17克", "Fat": "0%", "Total carbs": "6克", "Style": "冰岛Skyr", "Sweetener": "无（原味）", "Price": "约$6.49"},
-      "scores": {"Protein": 4.7, "Taste": 4.0, "Value": 4.0, "Texture": 4.6, "Ingredient quality": 4.7}
+      "specs": {
+        "Serving": "5.3盎司",
+        "Protein": "17克",
+        "Fat": "0%",
+        "Total carbs": "6克",
+        "Style": "冰岛Skyr",
+        "Sweetener": "无（原味）",
+        "Price": "约$6.49"
+      },
+      "scores": {
+        "蛋白质": 4.7,
+        "味道": 4,
+        "价值": 4,
+        "质地": 4.6,
+        "成分质量": 4.7
+      }
     },
     {
       "offerId": "oikos-triple-zero",
       "badge": "最佳调味选择",
       "review": "Oikos Triple Zero在90卡路里中含有15克蛋白质，零添加糖、零人工甜味剂、零脂肪——调味品种使用罗汉果提取物。对于想要没有甜叶菊或蔗糖素的调味酸奶的宏量追踪者，这是唯一的主流选择。一些调味品种添加菊苣根纤维，对某些人影响消化。",
-      "pros": ["调味系列零添加糖、零人工甜味剂、零脂肪", "罗汉果甜味——无甜叶菊或蔗糖素", "90卡路里含15克蛋白质"],
-      "cons": ["一些调味品种含有菊苣根纤维（如有敏感请查看标签）"],
+      "pros": [
+        "调味系列零添加糖、零人工甜味剂、零脂肪",
+        "罗汉果甜味——无甜叶菊或蔗糖素",
+        "90卡路里含15克蛋白质"
+      ],
+      "cons": [
+        "一些调味品种含有菊苣根纤维（如有敏感请查看标签）"
+      ],
       "grade": "B",
-      "specs": {"Serving": "5.3盎司", "Protein": "15克", "Fat": "0%", "Carbs": "7克", "Added sugar": "0克", "Sweetener": "罗汉果", "Price": "约$1.49"},
-      "scores": {"Protein": 4.5, "Taste": 4.2, "Value": 4.9, "Texture": 4.1, "Ingredient quality": 4.2}
+      "specs": {
+        "Serving": "5.3盎司",
+        "Protein": "15克",
+        "Fat": "0%",
+        "Carbs": "7克",
+        "Added sugar": "0克",
+        "Sweetener": "罗汉果",
+        "Price": "约$1.49"
+      },
+      "scores": {
+        "蛋白质": 4.5,
+        "味道": 4.2,
+        "价值": 4.9,
+        "质地": 4.1,
+        "成分质量": 4.2
+      }
     },
     {
       "offerId": "stonyfield-organic-greek",
       "badge": "最佳来源认证",
       "review": "Stonyfield有机是认证和来源重要时的选择：USDA有机、草饲牛奶，标签上列出五种具名活性益生菌菌株。每份蛋白质14-15克略低于Fage，风味更温和——对于觉得Fage太酸涩的人更合适。每盎司价格略高。",
-      "pros": ["USDA认证有机，草饲奶源", "标签上列出5种具名活性益生菌培养物", "温和风味适合觉得Fage太酸涩的人"],
-      "cons": ["蛋白质略低（14-15克）且每盎司成本高于Chobani或Fage"],
+      "pros": [
+        "USDA认证有机，草饲奶源",
+        "标签上列出5种具名活性益生菌培养物",
+        "温和风味适合觉得Fage太酸涩的人"
+      ],
+      "cons": [
+        "蛋白质略低（14-15克）且每盎司成本高于Chobani或Fage"
+      ],
       "grade": "B-",
-      "specs": {"Serving": "5.3盎司", "Protein": "14-15克", "Certification": "USDA有机", "Milk source": "草饲", "Probiotics": "5种具名菌株", "Fat": "0%", "Price": "约$7.99"},
-      "scores": {"Protein": 4.2, "Taste": 4.3, "Value": 3.8, "Texture": 4.2, "Ingredient quality": 4.9}
+      "specs": {
+        "Serving": "5.3盎司",
+        "Protein": "14-15克",
+        "Certification": "USDA有机",
+        "Milk source": "草饲",
+        "Probiotics": "5种具名菌株",
+        "Fat": "0%",
+        "Price": "约$7.99"
+      },
+      "scores": {
+        "蛋白质": 4.2,
+        "味道": 4.3,
+        "价值": 3.8,
+        "质地": 4.2,
+        "成分质量": 4.9
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "最大每份蛋白质", "offerId": "fage-total-0", "reason": "每7盎司18-19克蛋白质，仅2种成分，无增稠剂"},
-    {"label": "日常烹饪和性价比", "offerId": "chobani-plain-nonfat", "reason": "32盎司装中每克蛋白质成本最佳，干净3成分配方"},
-    {"label": "极低糖摄入", "offerId": "siggis-icelandic-yogurt", "reason": "每份仅6克总碳水化合物，含17克蛋白质——最低糖蛋白比"},
-    {"label": "无人工甜味剂的调味酸奶", "offerId": "oikos-triple-zero", "reason": "罗汉果甜味，零添加糖，无甜叶菊或蔗糖素"},
-    {"label": "有机和草饲来源", "offerId": "stonyfield-organic-greek", "reason": "USDA有机，草饲牛奶，标签上列5种具名益生菌菌株"}
+    {
+      "label": "最大每份蛋白质",
+      "offerId": "fage-total-0",
+      "reason": "每7盎司18-19克蛋白质，仅2种成分，无增稠剂"
+    },
+    {
+      "label": "日常烹饪和性价比",
+      "offerId": "chobani-plain-nonfat",
+      "reason": "32盎司装中每克蛋白质成本最佳，干净3成分配方"
+    },
+    {
+      "label": "极低糖摄入",
+      "offerId": "siggis-icelandic-yogurt",
+      "reason": "每份仅6克总碳水化合物，含17克蛋白质——最低糖蛋白比"
+    },
+    {
+      "label": "无人工甜味剂的调味酸奶",
+      "offerId": "oikos-triple-zero",
+      "reason": "罗汉果甜味，零添加糖，无甜叶菊或蔗糖素"
+    },
+    {
+      "label": "有机和草饲来源",
+      "offerId": "stonyfield-organic-greek",
+      "reason": "USDA有机，草饲牛奶，标签上列5种具名益生菌菌株"
+    }
   ]
 }

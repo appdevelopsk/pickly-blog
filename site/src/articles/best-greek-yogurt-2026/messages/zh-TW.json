@@ -67,58 +67,178 @@
       "offerId": "fage-total-0",
       "badge": "最佳總體",
       "review": "Fage Total 0%以每7盎司份18-19克蛋白質和僅2種成分為正宗希臘優格設定了標準。無增稠劑、無果膠，質地完全來自過濾。對於想要真正產品的人來說，風味比美國品牌更尖銳、更酸澀，這是特點而非缺陷。",
-      "pros": ["每7盎司18-19克蛋白質——主流市場中最高的非脂肪蛋白質", "僅2種成分，無增稠劑或添加劑", "湯匙舀起時保持形狀的致密質地"],
-      "cons": ["更尖銳的酸味對習慣溫和品牌的人可能需要適應"],
+      "pros": [
+        "每7盎司18-19克蛋白質——主流市場中最高的非脂肪蛋白質",
+        "僅2種成分，無增稠劑或添加劑",
+        "湯匙舀起時保持形狀的致密質地"
+      ],
+      "cons": [
+        "更尖銳的酸味對習慣溫和品牌的人可能需要適應"
+      ],
       "grade": "A+",
-      "specs": {"Serving": "7盎司", "Protein": "18-19克", "Fat": "0%", "Sugar": "約8克天然", "Ingredients": "2種", "Certifications": "清真認證", "Price": "約$7.49"},
-      "scores": {"Protein": 4.9, "Taste": 4.5, "Value": 4.3, "Texture": 4.8, "Ingredient quality": 4.9}
+      "specs": {
+        "Serving": "7盎司",
+        "Protein": "18-19克",
+        "Fat": "0%",
+        "Sugar": "約8克天然",
+        "Ingredients": "2種",
+        "Certifications": "清真認證",
+        "Price": "約$7.49"
+      },
+      "scores": {
+        "蛋白質": 4.9,
+        "味道": 4.5,
+        "性價比": 4.3,
+        "質地": 4.8,
+        "成分品質": 4.9
+      }
     },
     {
       "offerId": "chobani-plain-nonfat",
       "badge": "最佳日常性價比",
       "review": "Chobani原味脫脂是該品類的主力——濃稠但不致密，乾淨的酸味，每5.3盎司杯含15克蛋白質，僅3種成分。32盎司裝在主流雜貨店中每克蛋白質性價比最高。",
-      "pros": ["3成分配方，無添加糖", "32盎司裝提供極佳的每克蛋白質價格", "在烹飪和冰沙中真正多才多藝"],
-      "cons": ["由於去除脂肪濃縮乳糖，脫脂版本碳水化合物略高於2%版本"],
+      "pros": [
+        "3成分配方，無添加糖",
+        "32盎司裝提供極佳的每克蛋白質價格",
+        "在烹飪和冰沙中真正多才多藝"
+      ],
+      "cons": [
+        "由於去除脂肪濃縮乳糖，脫脂版本碳水化合物略高於2%版本"
+      ],
       "grade": "A",
-      "specs": {"Serving": "5.3盎司", "Protein": "15克", "Fat": "0%", "Sugar": "約6克天然", "Ingredients": "3種", "Tub size": "有32盎司裝", "Price": "約$6.98"},
-      "scores": {"Protein": 4.5, "Taste": 4.4, "Value": 4.8, "Texture": 4.3, "Ingredient quality": 4.6}
+      "specs": {
+        "Serving": "5.3盎司",
+        "Protein": "15克",
+        "Fat": "0%",
+        "Sugar": "約6克天然",
+        "Ingredients": "3種",
+        "Tub size": "有32盎司裝",
+        "Price": "約$6.98"
+      },
+      "scores": {
+        "蛋白質": 4.5,
+        "味道": 4.4,
+        "性價比": 4.8,
+        "質地": 4.3,
+        "成分品質": 4.6
+      }
     },
     {
       "offerId": "siggis-icelandic-yogurt",
       "badge": "最低糖",
       "review": "Siggi's skyr風格優格每5.3盎司提供17克蛋白質，只有6克碳水化合物——是本次對比中最低的糖蛋白比。質地比希臘優格更致密，幾乎可以塗抹，口味明顯酸澀。調味系列的添加糖總量低於9克，在該品類中真的很少見。",
-      "pros": ["每5.3盎司杯只有6克總碳水化合物", "17克蛋白質，調味系列中添加糖非常低", "獨特的Skyr密度可作為吐司上的奶油乳酪替代"],
-      "cons": ["明顯酸澀的風味需要培養"],
+      "pros": [
+        "每5.3盎司杯只有6克總碳水化合物",
+        "17克蛋白質，調味系列中添加糖非常低",
+        "獨特的Skyr密度可作為吐司上的奶油乳酪替代"
+      ],
+      "cons": [
+        "明顯酸澀的風味需要培養"
+      ],
       "grade": "B+",
-      "specs": {"Serving": "5.3盎司", "Protein": "17克", "Fat": "0%", "Total carbs": "6克", "Style": "冰島Skyr", "Sweetener": "無（原味）", "Price": "約$6.49"},
-      "scores": {"Protein": 4.7, "Taste": 4.0, "Value": 4.0, "Texture": 4.6, "Ingredient quality": 4.7}
+      "specs": {
+        "Serving": "5.3盎司",
+        "Protein": "17克",
+        "Fat": "0%",
+        "Total carbs": "6克",
+        "Style": "冰島Skyr",
+        "Sweetener": "無（原味）",
+        "Price": "約$6.49"
+      },
+      "scores": {
+        "蛋白質": 4.7,
+        "味道": 4,
+        "性價比": 4,
+        "質地": 4.6,
+        "成分品質": 4.7
+      }
     },
     {
       "offerId": "oikos-triple-zero",
       "badge": "最佳調味選擇",
       "review": "Oikos Triple Zero在90卡路里中含有15克蛋白質，零添加糖、零人工甜味劑、零脂肪——調味品種使用羅漢果提取物。對於想要沒有甜菊糖或蔗糖素的調味優格的巨量追蹤者，這是唯一的主流選擇。",
-      "pros": ["調味系列零添加糖、零人工甜味劑、零脂肪", "羅漢果甜味——無甜菊糖或蔗糖素", "90卡路里含15克蛋白質"],
-      "cons": ["一些調味品種含有菊苣根纖維（如有敏感請查看標籤）"],
+      "pros": [
+        "調味系列零添加糖、零人工甜味劑、零脂肪",
+        "羅漢果甜味——無甜菊糖或蔗糖素",
+        "90卡路里含15克蛋白質"
+      ],
+      "cons": [
+        "一些調味品種含有菊苣根纖維（如有敏感請查看標籤）"
+      ],
       "grade": "B",
-      "specs": {"Serving": "5.3盎司", "Protein": "15克", "Fat": "0%", "Carbs": "7克", "Added sugar": "0克", "Sweetener": "羅漢果", "Price": "約$1.49"},
-      "scores": {"Protein": 4.5, "Taste": 4.2, "Value": 4.9, "Texture": 4.1, "Ingredient quality": 4.2}
+      "specs": {
+        "Serving": "5.3盎司",
+        "Protein": "15克",
+        "Fat": "0%",
+        "Carbs": "7克",
+        "Added sugar": "0克",
+        "Sweetener": "羅漢果",
+        "Price": "約$1.49"
+      },
+      "scores": {
+        "蛋白質": 4.5,
+        "味道": 4.2,
+        "性價比": 4.9,
+        "質地": 4.1,
+        "成分品質": 4.2
+      }
     },
     {
       "offerId": "stonyfield-organic-greek",
       "badge": "最佳來源認證",
       "review": "Stonyfield有機是認證和來源重要時的選擇：USDA有機、草飼牛奶，標籤上列出五種具名活性益生菌菌株。每份蛋白質14-15克略低於Fage，風味更溫和。每盎司價格略高。",
-      "pros": ["USDA認證有機，草飼奶源", "標籤上列出5種具名活性益生菌培養物", "溫和風味適合覺得Fage太酸澀的人"],
-      "cons": ["蛋白質略低（14-15克）且每盎司成本高於Chobani或Fage"],
+      "pros": [
+        "USDA認證有機，草飼奶源",
+        "標籤上列出5種具名活性益生菌培養物",
+        "溫和風味適合覺得Fage太酸澀的人"
+      ],
+      "cons": [
+        "蛋白質略低（14-15克）且每盎司成本高於Chobani或Fage"
+      ],
       "grade": "B-",
-      "specs": {"Serving": "5.3盎司", "Protein": "14-15克", "Certification": "USDA有機", "Milk source": "草飼", "Probiotics": "5種具名菌株", "Fat": "0%", "Price": "約$7.99"},
-      "scores": {"Protein": 4.2, "Taste": 4.3, "Value": 3.8, "Texture": 4.2, "Ingredient quality": 4.9}
+      "specs": {
+        "Serving": "5.3盎司",
+        "Protein": "14-15克",
+        "Certification": "USDA有機",
+        "Milk source": "草飼",
+        "Probiotics": "5種具名菌株",
+        "Fat": "0%",
+        "Price": "約$7.99"
+      },
+      "scores": {
+        "蛋白質": 4.2,
+        "味道": 4.3,
+        "性價比": 3.8,
+        "質地": 4.2,
+        "成分品質": 4.9
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "最大每份蛋白質", "offerId": "fage-total-0", "reason": "每7盎司18-19克蛋白質，僅2種成分，無增稠劑"},
-    {"label": "日常烹飪和性價比", "offerId": "chobani-plain-nonfat", "reason": "32盎司裝中每克蛋白質成本最佳，乾淨3成分配方"},
-    {"label": "極低糖攝入", "offerId": "siggis-icelandic-yogurt", "reason": "每份僅6克總碳水化合物，含17克蛋白質——最低糖蛋白比"},
-    {"label": "無人工甜味劑的調味優格", "offerId": "oikos-triple-zero", "reason": "羅漢果甜味，零添加糖，無甜菊糖或蔗糖素"},
-    {"label": "有機和草飼來源", "offerId": "stonyfield-organic-greek", "reason": "USDA有機，草飼牛奶，標籤上列5種具名益生菌菌株"}
+    {
+      "label": "最大每份蛋白質",
+      "offerId": "fage-total-0",
+      "reason": "每7盎司18-19克蛋白質，僅2種成分，無增稠劑"
+    },
+    {
+      "label": "日常烹飪和性價比",
+      "offerId": "chobani-plain-nonfat",
+      "reason": "32盎司裝中每克蛋白質成本最佳，乾淨3成分配方"
+    },
+    {
+      "label": "極低糖攝入",
+      "offerId": "siggis-icelandic-yogurt",
+      "reason": "每份僅6克總碳水化合物，含17克蛋白質——最低糖蛋白比"
+    },
+    {
+      "label": "無人工甜味劑的調味優格",
+      "offerId": "oikos-triple-zero",
+      "reason": "羅漢果甜味，零添加糖，無甜菊糖或蔗糖素"
+    },
+    {
+      "label": "有機和草飼來源",
+      "offerId": "stonyfield-organic-greek",
+      "reason": "USDA有機，草飼牛奶，標籤上列5種具名益生菌菌株"
+    }
   ]
 }

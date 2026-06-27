@@ -83,58 +83,166 @@
       "offerId": "rogue-dip-belt",
       "badge": "En İyi Genel",
       "review": "3 inçlik deri ped ve derecelendirilmiş karabinalı 10mm naylon kayıştan ABD'de üretilmiştir. Ağır plakalar altında — 90 lb ve üzeri — deri yükü kalça kemikleri üzerine dağıtır, bastırmaz ve donanım şeklini korur. Tek seferlik satın alma niteliği gerçektir: dikiş ve zincir ucuz kemerlerden yıllarca daha uzun sürer.",
-      "pros": ["ABD yapımı, tüm stres noktalarında çift dikiş", "Deri ped zamanla vücuda şekillenir", "Derecelendirilmiş karabina deforme olmadan ciddi yükü kaldırır"],
-      "cons": ["Deri alışmadan önce ilk birkaç seans serttir"],
+      "pros": [
+        "ABD yapımı, tüm stres noktalarında çift dikiş",
+        "Deri ped zamanla vücuda şekillenir",
+        "Derecelendirilmiş karabina deforme olmadan ciddi yükü kaldırır"
+      ],
+      "cons": [
+        "Deri alışmadan önce ilk birkaç seans serttir"
+      ],
       "grade": "A+",
-      "specs": {"Material": "10mm naylon kayış + deri ped", "Chain length": "24 inç çelik", "Pad width": "3 inç", "Hardware": "Derecelendirilmiş çelik karabina", "Origin": "ABD"},
-      "scores": {"Build quality": 5.0, "Durability": 5.0, "Comfort": 4.5, "Load capacity": 5.0, "Value": 4.0}
+      "specs": {
+        "Material": "10mm naylon kayış + deri ped",
+        "Chain length": "24 inç çelik",
+        "Pad width": "3 inç",
+        "Hardware": "Derecelendirilmiş çelik karabina",
+        "Origin": "ABD"
+      },
+      "scores": {
+        "İnşaat Kalitesi": 5,
+        "Dayanıklılık": 5,
+        "Konfor": 4.5,
+        "Yük Kapasitesi": 5,
+        "Değer": 4
+      }
     },
     {
       "offerId": "dark-iron-fitness-dip-belt",
       "badge": "En İyi Bütçe Deri",
       "review": "Gerçek deri 6 inçlik ped — Rogue'dan daha geniş — bu da ağırlık üst uyluklara oturduğundan dip'i özellikle daha rahat yapar. 30 inçlik zincir standart olimpik plakaları kaldırır ve 300 lb kapasitesi gerçekçinin ötesindedir. Ödünleşim: tamamen alışmak için 2-3 hafta düzenli kullanım gerekir.",
-      "pros": ["6 inçlik deri ped çoğu rakipten daha geniş", "300 lb ağırlık kapasitesi derecelendirmesi", "Alıştıktan sonra nalona göre vücuda daha iyi şekillenir"],
-      "cons": ["İlk birkaç seans için sert ve rahatsız"],
+      "pros": [
+        "6 inçlik deri ped çoğu rakipten daha geniş",
+        "300 lb ağırlık kapasitesi derecelendirmesi",
+        "Alıştıktan sonra nalona göre vücuda daha iyi şekillenir"
+      ],
+      "cons": [
+        "İlk birkaç seans için sert ve rahatsız"
+      ],
       "grade": "A",
-      "specs": {"Material": "Gerçek deri", "Chain length": "30 inç çelik", "Pad width": "6 inç", "Weight capacity": "300 lb", "Price": "$29.99"},
-      "scores": {"Build quality": 4.2, "Durability": 4.5, "Comfort": 4.3, "Load capacity": 4.8, "Value": 4.8}
+      "specs": {
+        "Material": "Gerçek deri",
+        "Chain length": "30 inç çelik",
+        "Pad width": "6 inç",
+        "Weight capacity": "300 lb",
+        "Price": "$29.99"
+      },
+      "scores": {
+        "İnşaat Kalitesi": 4.2,
+        "Dayanıklılık": 4.5,
+        "Konfor": 4.3,
+        "Yük Kapasitesi": 4.8,
+        "Değer": 4.8
+      }
     },
     {
       "offerId": "harbinger-dip-belt",
       "badge": "En İyi Bütçe",
       "review": "30 inçlik çelik zincirli ağır hizmet polipropilen kayış — spor salonu zemininin fiili standardı. 25-75 lb ekleme için şikayetsiz çalışır. Çelik halka 20 doların altındaki kemerlerdeki damgalı halkalardan belirgin biçimde daha güçlüdür. 100 lb yük altında deri kadar rahat değil ama 25 dolara premium'a bağlanmadan önce mantıklı başlangıç noktasıdır.",
-      "pros": ["Çoğu ticari spor salonunda kullanılır — kanıtlanmış geçmiş", "Çelik halka ucuz damgalı halkalardan belirgin biçimde daha güçlü", "25 dolara pratik başlangıç noktası"],
-      "cons": ["Polipropilen kayış ağır yük altında deriden daha az rahat"],
+      "pros": [
+        "Çoğu ticari spor salonunda kullanılır — kanıtlanmış geçmiş",
+        "Çelik halka ucuz damgalı halkalardan belirgin biçimde daha güçlü",
+        "25 dolara pratik başlangıç noktası"
+      ],
+      "cons": [
+        "Polipropilen kayış ağır yük altında deriden daha az rahat"
+      ],
       "grade": "B+",
-      "specs": {"Material": "Polipropilen kayış", "Chain length": "30 inç çelik", "Price": "$39.99", "Best for": "25-75 lb eklenen ağırlık"},
-      "scores": {"Build quality": 3.8, "Durability": 4.0, "Comfort": 3.5, "Load capacity": 4.0, "Value": 5.0}
+      "specs": {
+        "Material": "Polipropilen kayış",
+        "Chain length": "30 inç çelik",
+        "Price": "$39.99",
+        "Best for": "25-75 lb eklenen ağırlık"
+      },
+      "scores": {
+        "İnşaat Kalitesi": 3.8,
+        "Dayanıklılık": 4,
+        "Konfor": 3.5,
+        "Yük Kapasitesi": 4,
+        "Değer": 5
+      }
     },
     {
       "offerId": "fire-team-fit-dip-belt",
       "badge": "En İyi Konfor",
       "review": "Neopren dolgu birinci günden yumuşak — alışma süresi yok. Hızlı açma tokası setler arası geçişleri hızlandırır ve 36 inçlik zincir buradaki en uzunudur, birden fazla plaka veya kalın tampon plakalar için yer sağlar. 300 lb derecelendirilmiştir. Neopren teri emer bu yüzden sıcak spor salonlarında zaman zaman durulamak gerekir.",
-      "pros": ["Neopren ilk kullanımdan yumuşak — alışma yok", "Hızlı açma tokası geçişleri hızlandırır", "36 inçlik zincir kalın tampon plakaları barındırır"],
-      "cons": ["Neopren teri emer; zaman zaman durulanması gerekir"],
+      "pros": [
+        "Neopren ilk kullanımdan yumuşak — alışma yok",
+        "Hızlı açma tokası geçişleri hızlandırır",
+        "36 inçlik zincir kalın tampon plakaları barındırır"
+      ],
+      "cons": [
+        "Neopren teri emer; zaman zaman durulanması gerekir"
+      ],
       "grade": "B",
-      "specs": {"Material": "Neopren", "Chain length": "36 inç çelik", "Pad width": "4 inç", "Weight capacity": "300 lb", "Price": "$55.99"},
-      "scores": {"Build quality": 4.0, "Durability": 3.8, "Comfort": 4.8, "Load capacity": 4.5, "Value": 4.3}
+      "specs": {
+        "Material": "Neopren",
+        "Chain length": "36 inç çelik",
+        "Pad width": "4 inç",
+        "Weight capacity": "300 lb",
+        "Price": "$55.99"
+      },
+      "scores": {
+        "İnşaat Kalitesi": 4,
+        "Dayanıklılık": 3.8,
+        "Konfor": 4.8,
+        "Yük Kapasitesi": 4.5,
+        "Değer": 4.3
+      }
     },
     {
       "offerId": "mummyfit-dip-belt",
       "badge": "En İyi Değer",
       "review": "Bütçe neopren 36 inçlik zincirle — Fire Team Fit ile aynı zincir uzunluğu yaklaşık yarı fiyata. Donanım Rogue veya Dark Iron'dan daha hafif ayardadır, 100 lb altında sorun değil ama 135+ lb'a ulaşmayı planlıyorsanız dikkat edilecek bir şey. Başlangıç yapanlar veya yüklü kalisteniklereri test eden herkes için değer gerçekten iyidir.",
-      "pros": ["30 doların altında 36 inçlik zincir", "Neopren dolgu birinci günden yumuşak", "Ağırlıklı dip için taahhütsüz giriş noktası"],
-      "cons": ["Daha hafif donanım ayarı — 135+ lb yükler için ideal değil"],
+      "pros": [
+        "30 doların altında 36 inçlik zincir",
+        "Neopren dolgu birinci günden yumuşak",
+        "Ağırlıklı dip için taahhütsüz giriş noktası"
+      ],
+      "cons": [
+        "Daha hafif donanım ayarı — 135+ lb yükler için ideal değil"
+      ],
       "grade": "B-",
-      "specs": {"Material": "Neopren", "Chain length": "36 inç çelik", "Price": "$25", "Best for": "Acemiler, <100 lb eklenen ağırlık"},
-      "scores": {"Build quality": 3.3, "Durability": 3.5, "Comfort": 4.2, "Load capacity": 3.5, "Value": 5.0}
+      "specs": {
+        "Material": "Neopren",
+        "Chain length": "36 inç çelik",
+        "Price": "$25",
+        "Best for": "Acemiler, <100 lb eklenen ağırlık"
+      },
+      "scores": {
+        "İnşaat Kalitesi": 3.3,
+        "Dayanıklılık": 3.5,
+        "Konfor": 4.2,
+        "Yük Kapasitesi": 3.5,
+        "Değer": 5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "90+ lb ekleyen ciddi sporcular için", "offerId": "rogue-dip-belt", "reason": "Yüksek yüklerde deforme olmayan veya basmayan ABD yapımı donanım ve deri"},
-    {"label": "Bütçede deri konforu için", "offerId": "dark-iron-fitness-dip-belt", "reason": "6 inçlik deri ped Rogue'dan daha geniş ve yarısından az fiyata"},
-    {"label": "Ağırlıklı dip deneyen acemiler için", "offerId": "harbinger-dip-belt", "reason": "Ticari spor salonu standardı — premium'a bağlanmadan önce 25 dolara kanıtlanmış"},
-    {"label": "Hızlı set geçişleri için", "offerId": "fire-team-fit-dip-belt", "reason": "Hızlı açma tokası ve birinci günden yumuşak neopren"},
-    {"label": "En düşük giriş maliyeti için", "offerId": "mummyfit-dip-belt", "reason": "30 doların altında 36 inçlik zincir — ağırlıklı dip'in sizin için olmadığına karar verirseniz kayıp yok"}
+    {
+      "label": "90+ lb ekleyen ciddi sporcular için",
+      "offerId": "rogue-dip-belt",
+      "reason": "Yüksek yüklerde deforme olmayan veya basmayan ABD yapımı donanım ve deri"
+    },
+    {
+      "label": "Bütçede deri konforu için",
+      "offerId": "dark-iron-fitness-dip-belt",
+      "reason": "6 inçlik deri ped Rogue'dan daha geniş ve yarısından az fiyata"
+    },
+    {
+      "label": "Ağırlıklı dip deneyen acemiler için",
+      "offerId": "harbinger-dip-belt",
+      "reason": "Ticari spor salonu standardı — premium'a bağlanmadan önce 25 dolara kanıtlanmış"
+    },
+    {
+      "label": "Hızlı set geçişleri için",
+      "offerId": "fire-team-fit-dip-belt",
+      "reason": "Hızlı açma tokası ve birinci günden yumuşak neopren"
+    },
+    {
+      "label": "En düşük giriş maliyeti için",
+      "offerId": "mummyfit-dip-belt",
+      "reason": "30 doların altında 36 inçlik zincir — ağırlıklı dip'in sizin için olmadığına karar verirseniz kayıp yok"
+    }
   ]
 }

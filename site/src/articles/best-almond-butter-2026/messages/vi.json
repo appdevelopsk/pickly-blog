@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
-        "Texture": 4.8,
-        "Nutrition": 5
+        "Hương vị": 4.7,
+        "Lấy nguồn": 4.8,
+        "Giá trị": 4.7,
+        "Kết cấu": 4.8,
+        "Dinh dưỡng": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
-        "Texture": 4,
-        "Nutrition": 4.7
+        "Hương vị": 4.4,
+        "Lấy nguồn": 4,
+        "Giá trị": 4.4,
+        "Kết cấu": 4,
+        "Dinh dưỡng": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
-        "Texture": 4.2,
-        "Nutrition": 4.4
+        "Hương vị": 4.6,
+        "Lấy nguồn": 4.2,
+        "Giá trị": 4.1,
+        "Kết cấu": 4.2,
+        "Dinh dưỡng": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
-        "Texture": 3.4,
-        "Nutrition": 4.1
+        "Hương vị": 3.8,
+        "Lấy nguồn": 3.9,
+        "Giá trị": 3.8,
+        "Kết cấu": 3.4,
+        "Dinh dưỡng": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
-        "Texture": 3.6,
-        "Nutrition": 3.8
+        "Hương vị": 4,
+        "Lấy nguồn": 3.6,
+        "Giá trị": 4,
+        "Kết cấu": 3.6,
+        "Dinh dưỡng": 3.8
       }
     }
   ],
-  "methodology": "Chúng tôi đánh giá từng sản phẩm dựa trên hồ sơ hương vị, tính minh bạch về nguồn gốc, giá trị mỗi khẩu phần, tính toàn vẹn của bao bì và mức độ hoạt động tốt trong các trường hợp sử dụng phổ biến. Các chứng nhận đã ghi lại và đánh giá của người dùng đã được xác minh được kiểm tra chéo với các tuyên bố tiếp thị."
+  "methodology": "Chúng tôi đánh giá từng sản phẩm dựa trên hồ sơ hương vị, tính minh bạch về nguồn gốc, giá trị mỗi khẩu phần, tính toàn vẹn của bao bì và mức độ hoạt động tốt trong các trường hợp sử dụng phổ biến. Các chứng nhận đã ghi lại và đánh giá của người dùng đã được xác minh được kiểm tra chéo với các tuyên bố tiếp thị.",
+  "recommendedFor": [
+    {
+      "label": "Cho người phết nhanh mỗi ngày",
+      "offerId": "justins-classic-almond-butter",
+      "reason": "Lý tưởng cho gia đình bận rộn muốn loại bơ mịn không cần khuấy chỉ với hai nguyên liệu."
+    },
+    {
+      "label": "Cho người nấu ăn cần kết cấu mịn",
+      "offerId": "barney-bare-almond-butter",
+      "reason": "Tốt nhất cho ai thích loại bơ mịn và nhẹ hơn, dễ hòa vào các món ngọt lẫn mặn."
+    },
+    {
+      "label": "Cho người tránh dầu cọ",
+      "offerId": "wild-friends-almond-butter",
+      "reason": "Tuyệt vời cho ai tránh dầu cọ và muốn một hũ hữu cơ sạch xay bằng cối đá."
+    },
+    {
+      "label": "Cho tín đồ thực phẩm sống",
+      "offerId": "artisana-organic-almond-butter",
+      "reason": "Hoàn hảo cho người mê đồ ăn sống tìm hương vị đậm đà, phức hợp với mật độ dinh dưỡng tối đa."
+    },
+    {
+      "label": "Cho dùng hằng ngày không rắc rối",
+      "offerId": "maranatha-no-stir-almond-butter",
+      "reason": "Phù hợp với bất kỳ ai muốn loại bơ đồng nhất, tiện lợi mà không cần khuấy chút nào."
+    }
+  ]
 }

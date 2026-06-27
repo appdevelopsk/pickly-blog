@@ -64,57 +64,175 @@
       "offerId": "body-solid-preacher-curl-bench",
       "badge": "綜合最佳",
       "review": "Body-Solid 能牢牢鎖定上臂，在重 EZ 槓組時不會因墊面壓縮而位移。可調座椅涵蓋多數軀幹長度，寬手臂墊能支撐雙臂而不擁擠——這是它在家庭健身房配置中比同類更暢銷的主因。墊料在使用 3 年以上後的耐久度，偶爾被回報為相對於兩倍價格的 REP 的弱點。",
-      "pros": ["厚實 HD 泡棉在重槓鈴負荷下仍維持形狀", "4–5 段座椅適合多數軀幹長度", "寬手臂墊適用雙手 EZ 彎舉槓動作"],
-      "cons": ["泡棉表皮在每日使用 2–3 年後可能龜裂"],
+      "pros": [
+        "厚實 HD 泡棉在重槓鈴負荷下仍維持形狀",
+        "4–5 段座椅適合多數軀幹長度",
+        "寬手臂墊適用雙手 EZ 彎舉槓動作"
+      ],
+      "cons": [
+        "泡棉表皮在每日使用 2–3 年後可能龜裂"
+      ],
       "grade": "A+",
-      "specs": {"Frame": "重規格鋼材", "Pad angle": "45–50°", "Seat positions": "4–5", "Arm pad width": "~38 cm", "Price range": "$100–150", "Footprint": "~46×56 cm", "Weight capacity": "150 kg"},
-      "scores": {"Stability": 4.8, "Pad quality": 4.5, "Build quality": 4.7, "Value": 4.6, "Adjustability": 4.4}
+      "specs": {
+        "Frame": "重規格鋼材",
+        "Pad angle": "45–50°",
+        "Seat positions": "4–5",
+        "Arm pad width": "~38 cm",
+        "Price range": "$100–150",
+        "Footprint": "~46×56 cm",
+        "Weight capacity": "150 kg"
+      },
+      "scores": {
+        "穩定性": 4.8,
+        "墊片品質": 4.5,
+        "組裝品質": 4.7,
+        "性價比": 4.6,
+        "可調整性": 4.4
+      }
     },
     {
       "offerId": "rep-fitness-preacher-curl-bench",
       "badge": "品質最佳",
       "review": "REP 採用商用級墊料，重度使用後仍保持紮實且無裂痕，框架對動態負荷的耐受度也遠勝較輕的替代品。更多的座椅段數意味著它能舒適容納身高超過 185 公分的訓練者。相對於 Body-Solid 的溢價，只有在你每週練手臂兩次以上時才有意義——休閒使用者感受不到差異。",
-      "pros": ["商用級泡棉抗壓縮、抗龜裂", "本次比較中座椅段數最多的一張", "重規格框架可承受加重的滑輪配件配置"],
-      "cons": ["$130–180 的價格對偶爾練手臂者較難說服自己"],
+      "pros": [
+        "商用級泡棉抗壓縮、抗龜裂",
+        "本次比較中座椅段數最多的一張",
+        "重規格框架可承受加重的滑輪配件配置"
+      ],
+      "cons": [
+        "$130–180 的價格對偶爾練手臂者較難說服自己"
+      ],
       "grade": "A",
-      "specs": {"Frame": "重規格鋼材", "Pad angle": "45–50°", "Seat positions": "6+", "Arm pad width": "~40 cm", "Price range": "$130–180", "Footprint": "~48×58 cm", "Weight capacity": "180 kg"},
-      "scores": {"Stability": 4.9, "Pad quality": 4.9, "Build quality": 4.9, "Value": 4.0, "Adjustability": 4.8}
+      "specs": {
+        "Frame": "重規格鋼材",
+        "Pad angle": "45–50°",
+        "Seat positions": "6+",
+        "Arm pad width": "~40 cm",
+        "Price range": "$130–180",
+        "Footprint": "~48×58 cm",
+        "Weight capacity": "180 kg"
+      },
+      "scores": {
+        "穩定性": 4.9,
+        "墊片品質": 4.9,
+        "組裝品質": 4.9,
+        "性價比": 4,
+        "可調整性": 4.8
+      }
     },
     {
       "offerId": "valor-fitness-preacher-curl-bench",
       "badge": "中階最佳",
       "review": "Valor 位於 Marcy 的平價結構與 Body-Solid 的價格之間——焊接明顯比 Marcy 更乾淨、泡棉明顯更厚。它在中等負荷下不會彎曲，座椅調整涵蓋多數標準身高範圍。對於非常頻繁練手臂的訓練者並非正確選擇，但作為每週 1–2 次訓練的紮實之選。",
-      "pros": ["泡棉比平價替代品更厚", "焊接品質比 Marcy 更乾淨", "在中等訓練負荷下穩定"],
-      "cons": ["泡棉密度仍低於 Body-Solid 與 REP"],
+      "pros": [
+        "泡棉比平價替代品更厚",
+        "焊接品質比 Marcy 更乾淨",
+        "在中等訓練負荷下穩定"
+      ],
+      "cons": [
+        "泡棉密度仍低於 Body-Solid 與 REP"
+      ],
       "grade": "B+",
-      "specs": {"Frame": "中規格鋼材", "Pad angle": "45–50°", "Seat positions": "3–4", "Arm pad width": "~36 cm", "Price range": "$80–120", "Footprint": "~44×54 cm", "Weight capacity": "136 kg"},
-      "scores": {"Stability": 4.4, "Pad quality": 4.2, "Build quality": 4.3, "Value": 4.5, "Adjustability": 4.0}
+      "specs": {
+        "Frame": "中規格鋼材",
+        "Pad angle": "45–50°",
+        "Seat positions": "3–4",
+        "Arm pad width": "~36 cm",
+        "Price range": "$80–120",
+        "Footprint": "~44×54 cm",
+        "Weight capacity": "136 kg"
+      },
+      "scores": {
+        "穩定性": 4.4,
+        "墊片品質": 4.2,
+        "組裝品質": 4.3,
+        "性價比": 4.5,
+        "可調整性": 4
+      }
     },
     {
       "offerId": "marcy-preacher-curl-bench",
       "badge": "平價最佳",
       "review": "Marcy 在 30 公斤以下的負荷與休閒訓練頻率下是可用的——它以較低的入門價格做到牧師椅該做的事。較薄的墊料與較輕的框架在更重的負荷與更高的訓練量下會變得明顯，此時墊面壓縮會降低伸展位置的品質。是一張合理的入門椅，而非認真手臂訓練的長期解方。",
-      "pros": ["獨立式牧師椅中最低的入門價格", "足以應付 30 公斤以下的休閒訓練", "普遍易購得且容易組裝"],
-      "cons": ["薄墊料在較重負荷下會壓縮", "框架比 Body-Solid 或 Valor 更輕"],
+      "pros": [
+        "獨立式牧師椅中最低的入門價格",
+        "足以應付 30 公斤以下的休閒訓練",
+        "普遍易購得且容易組裝"
+      ],
+      "cons": [
+        "薄墊料在較重負荷下會壓縮",
+        "框架比 Body-Solid 或 Valor 更輕"
+      ],
       "grade": "B",
-      "specs": {"Frame": "輕規格鋼材", "Pad angle": "45–50°", "Seat positions": "3", "Arm pad width": "~34 cm", "Price range": "$70–100", "Footprint": "~42×52 cm", "Weight capacity": "120 kg"},
-      "scores": {"Stability": 3.8, "Pad quality": 3.5, "Build quality": 3.7, "Value": 4.3, "Adjustability": 3.6}
+      "specs": {
+        "Frame": "輕規格鋼材",
+        "Pad angle": "45–50°",
+        "Seat positions": "3",
+        "Arm pad width": "~34 cm",
+        "Price range": "$70–100",
+        "Footprint": "~42×52 cm",
+        "Weight capacity": "120 kg"
+      },
+      "scores": {
+        "穩定性": 3.8,
+        "墊片品質": 3.5,
+        "組裝品質": 3.7,
+        "性價比": 4.3,
+        "可調整性": 3.6
+      }
     },
     {
       "offerId": "adjustable-preacher-curl-attachment",
       "badge": "省空間最佳",
       "review": "這款配件把既有的可調椅變成牧師訓練站——不額外佔地，也不必為專用椅額外花錢。穩定性完全取決於它所安裝的底座椅品質；搭配平價椅會晃動，搭配重型商用椅則表現尚可。在重組訓練上不如任何獨立式牧師椅穩定，但當地面空間是關鍵限制時，這就是正確答案。",
-      "pros": ["除既有椅子外不額外佔地", "約 $40–80，相對於獨立式的 $100 以上", "不用時可收折收納"],
-      "cons": ["穩定性隨底座椅品質有很大差異", "不適合重槓鈴牧師彎舉動作"],
+      "pros": [
+        "除既有椅子外不額外佔地",
+        "約 $40–80，相對於獨立式的 $100 以上",
+        "不用時可收折收納"
+      ],
+      "cons": [
+        "穩定性隨底座椅品質有很大差異",
+        "不適合重槓鈴牧師彎舉動作"
+      ],
       "grade": "B-",
-      "specs": {"Type": "椅子配件", "Compatibility": "標準可調椅", "Pad angle": "45°", "Price range": "$40–80", "Storage": "可收折平放", "Weight capacity": "取決於底座椅", "Grip width": "單臂或雙臂"},
-      "scores": {"Stability": 3.2, "Pad quality": 3.6, "Build quality": 3.4, "Value": 4.7, "Adjustability": 3.0}
+      "specs": {
+        "Type": "椅子配件",
+        "Compatibility": "標準可調椅",
+        "Pad angle": "45°",
+        "Price range": "$40–80",
+        "Storage": "可收折平放",
+        "Weight capacity": "取決於底座椅",
+        "Grip width": "單臂或雙臂"
+      },
+      "scores": {
+        "穩定性": 3.2,
+        "墊片品質": 3.6,
+        "組裝品質": 3.4,
+        "性價比": 4.7,
+        "可調整性": 3
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "每週 2 次的專注手臂訓練", "offerId": "rep-fitness-preacher-curl-bench", "reason": "商用級墊料與額外的座椅段數能承受高頻率使用而不影響動作品質。"},
-    {"label": "多數家庭健身房配置", "offerId": "body-solid-preacher-curl-bench", "reason": "寬手臂墊、紮實框架與多段座椅涵蓋完整的牧師彎舉變化，價格也適合規律使用。"},
-    {"label": "預算吃緊或偶爾使用", "offerId": "marcy-preacher-curl-bench", "reason": "在較輕負荷與低頻率下可用——如果你還不確定實際會多常用牧師椅，這是合適的入門點。"},
-    {"label": "空間有限且已有可調椅的家庭健身房", "offerId": "adjustable-preacher-curl-attachment", "reason": "除你已擁有的椅子外不佔地面空間——若獨立椅意味著得放棄其他器材，這就很實際。"}
+    {
+      "label": "每週 2 次的專注手臂訓練",
+      "offerId": "rep-fitness-preacher-curl-bench",
+      "reason": "商用級墊料與額外的座椅段數能承受高頻率使用而不影響動作品質。"
+    },
+    {
+      "label": "多數家庭健身房配置",
+      "offerId": "body-solid-preacher-curl-bench",
+      "reason": "寬手臂墊、紮實框架與多段座椅涵蓋完整的牧師彎舉變化，價格也適合規律使用。"
+    },
+    {
+      "label": "預算吃緊或偶爾使用",
+      "offerId": "marcy-preacher-curl-bench",
+      "reason": "在較輕負荷與低頻率下可用——如果你還不確定實際會多常用牧師椅，這是合適的入門點。"
+    },
+    {
+      "label": "空間有限且已有可調椅的家庭健身房",
+      "offerId": "adjustable-preacher-curl-attachment",
+      "reason": "除你已擁有的椅子外不佔地面空間——若獨立椅意味著得放棄其他器材，這就很實際。"
+    }
   ]
 }

@@ -74,8 +74,14 @@
       "offerId": "lmnt-recharge-electrolyte",
       "badge": "Terbaik untuk latihan berat dan keto",
       "review": "1.000mg sodium per sachet LMNT adalah pembeda kategori — menggantikan kehilangan keringat aktual. Formula bebas gula dengan stevia menghindari beban glukosa yang tidak perlu. Varian Raw Unflavored berguna untuk menambahkan elektrolit ke kopi, kaldu, atau air tanpa mengubah profil rasa.",
-      "pros": ["1.000mg sodium sesuai kehilangan keringat berat yang sebenarnya", "Bebas gula — kompatibel dengan keto, rendah karbohidrat, dan jendela puasa", "Raw Unflavored menambahkan elektrolit ke makanan atau kopi tanpa dampak rasa"],
-      "cons": ["$1,50–$1,80 per sajian, harga tertinggi per sachet dalam perbandingan ini"],
+      "pros": [
+        "1.000mg sodium sesuai kehilangan keringat berat yang sebenarnya",
+        "Bebas gula — kompatibel dengan keto, rendah karbohidrat, dan jendela puasa",
+        "Raw Unflavored menambahkan elektrolit ke makanan atau kopi tanpa dampak rasa"
+      ],
+      "cons": [
+        "$1,50–$1,80 per sajian, harga tertinggi per sachet dalam perbandingan ini"
+      ],
       "grade": "A+",
       "specs": {
         "Sodium": "1.000 mg",
@@ -87,19 +93,25 @@
         "Price per serving": "sekitar $1,50–$1,80"
       },
       "scores": {
-        "Efficacy": 5.0,
-        "Value": 3.5,
-        "Taste": 4.2,
-        "Purity": 4.8,
-        "Ease of use": 4.7
+        "Efikasi": 5,
+        "Nilai": 3.5,
+        "Rasa": 4.2,
+        "Kemurnian": 4.8,
+        "Kemudahan Penggunaan": 4.7
       }
     },
     {
       "offerId": "liquid-iv-hydration-multiplier",
       "badge": "Hidrasi arus utama terbaik",
       "review": "Formula CTT Liquid I.V. mengaktifkan transporter SGLT-1 untuk penyerapan air lebih cepat dari air biasa. 500mg sodium memadai untuk latihan sedang dan 11g gula melayani fungsi transport. Kualitas rasa secara konsisten di atas rata-rata.",
-      "pros": ["Teknologi penyerapan CTT berbasis ilmu ORS WHO memberikan hidrasi lebih cepat", "Kualitas rasa terbaik dalam perbandingan ini", "500mg sodium mencakup latihan sedang dan perjalanan"],
-      "cons": ["11g gula per sajian adalah hambatan untuk pendekatan keto atau rendah karbohidrat ketat"],
+      "pros": [
+        "Teknologi penyerapan CTT berbasis ilmu ORS WHO memberikan hidrasi lebih cepat",
+        "Kualitas rasa terbaik dalam perbandingan ini",
+        "500mg sodium mencakup latihan sedang dan perjalanan"
+      ],
+      "cons": [
+        "11g gula per sajian adalah hambatan untuk pendekatan keto atau rendah karbohidrat ketat"
+      ],
       "grade": "A",
       "specs": {
         "Sodium": "500 mg",
@@ -111,19 +123,25 @@
         "Price per serving": "sekitar $1,00–$1,25"
       },
       "scores": {
-        "Efficacy": 4.5,
-        "Value": 4.2,
-        "Taste": 4.9,
-        "Purity": 4.0,
-        "Ease of use": 4.8
+        "Efikasi": 4.5,
+        "Nilai": 4.2,
+        "Rasa": 4.9,
+        "Kemurnian": 4,
+        "Kemudahan Penggunaan": 4.8
       }
     },
     {
       "offerId": "nuun-sport-electrolyte-tablets",
       "badge": "Nilai terbaik dan portabilitas",
       "review": "Format tablet effervescent Nuun sangat portabel — tabung berisi 10 tablet muat di saku. Dengan $0,70–$0,80 per tablet ini adalah yang paling terjangkau untuk penggunaan sehari-hari. 300mg sodium memadai untuk olahraga ringan hingga sedang.",
-      "pros": ["Format tablet paling portabel dalam perbandingan ini", "Harga terbaik per sajian $0,70–$0,80", "Konsentrasi yang dapat disesuaikan dengan mengubah rasio air-ke-tablet"],
-      "cons": ["300mg sodium tidak mencakup kehilangan keringat berat — tidak memadai untuk latihan panas di atas 60 menit"],
+      "pros": [
+        "Format tablet paling portabel dalam perbandingan ini",
+        "Harga terbaik per sajian $0,70–$0,80",
+        "Konsentrasi yang dapat disesuaikan dengan mengubah rasio air-ke-tablet"
+      ],
+      "cons": [
+        "300mg sodium tidak mencakup kehilangan keringat berat — tidak memadai untuk latihan panas di atas 60 menit"
+      ],
       "grade": "B+",
       "specs": {
         "Sodium": "300 mg",
@@ -135,19 +153,25 @@
         "Price per serving": "sekitar $0,70–$0,80"
       },
       "scores": {
-        "Efficacy": 3.8,
-        "Value": 5.0,
-        "Taste": 4.3,
-        "Purity": 4.5,
-        "Ease of use": 5.0
+        "Efikasi": 3.8,
+        "Nilai": 5,
+        "Rasa": 4.3,
+        "Kemurnian": 4.5,
+        "Kemudahan Penggunaan": 5
       }
     },
     {
       "offerId": "dripdrop-ors-powder",
       "badge": "Terbaik untuk pemulihan dari sakit",
       "review": "DripDrop diformulasikan sebagai Oral Rehydration Solution standar WHO. Kombinasi 330mg sodium dan 8g gula mengaktifkan penyerapan usus pada level fisiologis. Rasanya jauh lebih baik dari alternatif ORS klinis. Pemosisian medis membuatnya paling relevan untuk pemulihan dari sakit.",
-      "pros": ["Formulasi ORS standar WHO mengaktifkan penyerapan kotransport usus", "Rasa jauh lebih baik dari alternatif ORS klinis pada kadar sodium serupa", "Layak disimpan dalam kit darurat perjalanan — sachet tahan lama"],
-      "cons": ["Bukan alat yang tepat untuk hidrasi latihan harian"],
+      "pros": [
+        "Formulasi ORS standar WHO mengaktifkan penyerapan kotransport usus",
+        "Rasa jauh lebih baik dari alternatif ORS klinis pada kadar sodium serupa",
+        "Layak disimpan dalam kit darurat perjalanan — sachet tahan lama"
+      ],
+      "cons": [
+        "Bukan alat yang tepat untuk hidrasi latihan harian"
+      ],
       "grade": "B",
       "specs": {
         "Sodium": "330 mg",
@@ -159,19 +183,25 @@
         "Price per serving": "sekitar $1,20–$1,50"
       },
       "scores": {
-        "Efficacy": 4.6,
-        "Value": 3.9,
-        "Taste": 4.4,
-        "Purity": 4.7,
-        "Ease of use": 4.5
+        "Efikasi": 4.6,
+        "Nilai": 3.9,
+        "Rasa": 4.4,
+        "Kemurnian": 4.7,
+        "Kemudahan Penggunaan": 4.5
       }
     },
     {
       "offerId": "pedialyte-sport",
       "badge": "Ketersediaan apotek terbaik",
       "review": "490mg sodium dan 380mg kalium Pedialyte Sport dalam lini Sport dewasa memposisikannya dengan tepat untuk pemulihan olahraga. Keunggulan nyata adalah ketersediaan di apotek: pada pukul 2 pagi saat seseorang keracunan makanan, Pedialyte ada di rak. Untuk hidrasi latihan terencana, paket bubuk lebih praktis.",
-      "pros": ["Tersedia di apotek dan toko kelontong kapan saja", "490mg sodium + 380mg kalium mencakup pemulihan olahraga sedang hingga berat", "Rasa anggur dan fruit punch dapat diterima orang dewasa"],
-      "cons": ["Cairan premix berat dan tidak praktis untuk olahraga aktif"],
+      "pros": [
+        "Tersedia di apotek dan toko kelontong kapan saja",
+        "490mg sodium + 380mg kalium mencakup pemulihan olahraga sedang hingga berat",
+        "Rasa anggur dan fruit punch dapat diterima orang dewasa"
+      ],
+      "cons": [
+        "Cairan premix berat dan tidak praktis untuk olahraga aktif"
+      ],
       "grade": "B-",
       "specs": {
         "Sodium": "490 mg",
@@ -183,11 +213,11 @@
         "Price per serving": "sekitar $0,80–$1,00"
       },
       "scores": {
-        "Efficacy": 4.0,
-        "Value": 4.3,
-        "Taste": 3.8,
-        "Purity": 4.1,
-        "Ease of use": 4.6
+        "Efikasi": 4,
+        "Nilai": 4.3,
+        "Rasa": 3.8,
+        "Kemurnian": 4.1,
+        "Kemudahan Penggunaan": 4.6
       }
     }
   ],

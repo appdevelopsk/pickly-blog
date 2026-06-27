@@ -122,8 +122,14 @@
       "offerId": "conoha-wing",
       "badge": "Miglior scelta assoluta",
       "review": "ConoHa WING ha registrato il TTFB più rapido a 198ms e il tempo di configurazione più breve in 11 minuti, con un pannello in giapponese che non richiede conoscenze pregresse di hosting. Il divario tra il prezzo promozionale a 36 mesi e quello di rinnovo è il principale aspetto da pianificare.",
-      "pros": ["TTFB più rapido del test: 198ms", "Configurazione WordPress kantan in 11 minuti", "Dominio incluso e backup automatico a 14 giorni"],
-      "cons": ["Nessun supporto telefonico — solo chat nei giorni feriali"],
+      "pros": [
+        "TTFB più rapido del test: 198ms",
+        "Configurazione WordPress kantan in 11 minuti",
+        "Dominio incluso e backup automatico a 14 giorni"
+      ],
+      "cons": [
+        "Nessun supporto telefonico — solo chat nei giorni feriali"
+      ],
       "grade": "A+",
       "specs": {
         "Prezzo d'ingresso": "Fascia economica (piano 36 mesi)",
@@ -134,19 +140,25 @@
         "SLA uptime": "99,99%"
       },
       "scores": {
-        "Performance": 4.9,
-        "Uptime reliability": 4.7,
-        "Value": 4.6,
-        "Support quality": 3.8,
-        "Ease of setup": 4.9
+        "Prestazioni": 4.9,
+        "Affidabilità del tempo di attività": 4.7,
+        "Valore": 4.6,
+        "Qualità del supporto": 3.8,
+        "Facilità di configurazione": 4.9
       }
     },
     {
       "offerId": "xserver",
       "badge": "Migliore per l'affidabilità",
       "review": "Xserver è l'unico hosting del confronto con supporto telefonico 24/7 e il più lungo track record di uptime continuo in Giappone. Il TTFB di 268ms è costante per tutti i 30 giorni senza picchi — il 10% di costo aggiuntivo rispetto a ConoHa offre vera serenità per siti con entrate.",
-      "pros": ["Unico hosting con supporto telefonico 24/7", "Un decennio di uptime ininterrotto", "WordPress pre-installato con ottimizzazione KUSANAGI"],
-      "cons": ["TTFB più lento di ConoHa (268ms vs 198ms); pannello visivamente datato"],
+      "pros": [
+        "Unico hosting con supporto telefonico 24/7",
+        "Un decennio di uptime ininterrotto",
+        "WordPress pre-installato con ottimizzazione KUSANAGI"
+      ],
+      "cons": [
+        "TTFB più lento di ConoHa (268ms vs 198ms); pannello visivamente datato"
+      ],
       "grade": "A",
       "specs": {
         "Prezzo d'ingresso": "Fascia media (piano 12 mesi)",
@@ -157,19 +169,25 @@
         "Caratteristica notevole": "Ottimizzazione KUSANAGI per WordPress"
       },
       "scores": {
-        "Performance": 4.3,
-        "Uptime reliability": 5.0,
-        "Value": 4.1,
-        "Support quality": 5.0,
-        "Ease of setup": 4.2
+        "Prestazioni": 4.3,
+        "Affidabilità del tempo di attività": 5,
+        "Valore": 4.1,
+        "Qualità del supporto": 5,
+        "Facilità di configurazione": 4.2
       }
     },
     {
       "offerId": "mixhost",
       "badge": "Miglior performance LiteSpeed",
       "review": "Lo stack LiteSpeed + HTTP/3 di mixhost mantiene il TTFB a 215ms anche sotto 200 connessioni simultanee — la migliore performance in picchi di traffico del test. Il compromesso è il supporto solo via email con SLA di 24 ore, inadatto ai blogger principianti.",
-      "pros": ["LiteSpeed/HTTP/3 garantisce ottime performance nei picchi di traffico", "WordPress un clic con dominio gratuito incluso", "TTFB di 215ms — secondo solo a ConoHa"],
-      "cons": ["Supporto solo email — nessun chat o telefono per urgenze"],
+      "pros": [
+        "LiteSpeed/HTTP/3 garantisce ottime performance nei picchi di traffico",
+        "WordPress un clic con dominio gratuito incluso",
+        "TTFB di 215ms — secondo solo a ConoHa"
+      ],
+      "cons": [
+        "Supporto solo email — nessun chat o telefono per urgenze"
+      ],
       "grade": "B+",
       "specs": {
         "Prezzo d'ingresso": "Fascia media (piano 12 mesi)",
@@ -180,19 +198,25 @@
         "SLA uptime": "99,99%"
       },
       "scores": {
-        "Performance": 4.7,
-        "Uptime reliability": 4.5,
-        "Value": 4.3,
-        "Support quality": 3.2,
-        "Ease of setup": 4.4
+        "Prestazioni": 4.7,
+        "Affidabilità del tempo di attività": 4.5,
+        "Valore": 4.3,
+        "Qualità del supporto": 3.2,
+        "Facilità di configurazione": 4.4
       }
     },
     {
       "offerId": "sakura-rentalserver",
       "badge": "Migliore per sviluppatori",
       "review": "Il prezzo d'ingresso di Sakura è il più basso del test, e il pannello nativo con SSH e cron è ideale per sviluppatori che vogliono controllo. L'assenza di un installer WordPress un clic è un ostacolo reale per i principianti, e il TTFB di 305ms è il secondo più lento.",
-      "pros": ["Prezzo d'ingresso più basso del test", "Accesso SSH e cron dal pannello", "Brand consolidato dal 1996 con solido storico di uptime"],
-      "cons": ["Nessun installer WP un clic — installazione manuale di WordPress richiesta"],
+      "pros": [
+        "Prezzo d'ingresso più basso del test",
+        "Accesso SSH e cron dal pannello",
+        "Brand consolidato dal 1996 con solido storico di uptime"
+      ],
+      "cons": [
+        "Nessun installer WP un clic — installazione manuale di WordPress richiesta"
+      ],
       "grade": "B",
       "specs": {
         "Prezzo d'ingresso": "Fascia base (piano standard)",
@@ -203,19 +227,25 @@
         "Accesso SSH": "Sì"
       },
       "scores": {
-        "Performance": 3.7,
-        "Uptime reliability": 4.6,
-        "Value": 4.8,
-        "Support quality": 4.0,
-        "Ease of setup": 2.5
+        "Prestazioni": 3.7,
+        "Affidabilità del tempo di attività": 4.6,
+        "Valore": 4.8,
+        "Qualità del supporto": 4,
+        "Facilità di configurazione": 2.5
       }
     },
     {
       "offerId": "lolipop-server",
       "badge": "Migliore offerta economica",
       "review": "Il piano hi-speed di Lolipop è circa la metà del prezzo di rinnovo di ConoHa e include un installer WordPress un clic. Il TTFB di 312ms è il più lento del test — se la velocità conta per il tuo pubblico, il piccolo risparmio rispetto a ConoHa non vale.",
-      "pros": ["Piano hi-speed economico — il meno costoso con WP un clic", "Interfaccia di gestione accessibile ai non tecnici", "Affidabilità del gruppo GMO"],
-      "cons": ["TTFB più lento: 312ms — percettibile per traffico da Pinterest"],
+      "pros": [
+        "Piano hi-speed economico — il meno costoso con WP un clic",
+        "Interfaccia di gestione accessibile ai non tecnici",
+        "Affidabilità del gruppo GMO"
+      ],
+      "cons": [
+        "TTFB più lento: 312ms — percettibile per traffico da Pinterest"
+      ],
       "grade": "B-",
       "specs": {
         "Prezzo d'ingresso": "Fascia economica (piano hi-speed)",
@@ -226,11 +256,11 @@
         "Società madre": "GMO Internet Group"
       },
       "scores": {
-        "Performance": 3.5,
-        "Uptime reliability": 4.3,
-        "Value": 4.7,
-        "Support quality": 4.1,
-        "Ease of setup": 4.5
+        "Prestazioni": 3.5,
+        "Affidabilità del tempo di attività": 4.3,
+        "Valore": 4.7,
+        "Qualità del supporto": 4.1,
+        "Facilità di configurazione": 4.5
       }
     }
   ],

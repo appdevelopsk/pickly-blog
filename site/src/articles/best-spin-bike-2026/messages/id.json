@@ -98,8 +98,14 @@
       "offerId": "peloton-bike",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "Peloton Bike meraih status unggulannya melalui perangkat keras dan konten secara bersamaan — flywheel 16 kg dan resistansi magnetik presisi menghadirkan kadensi yang benar-benar halus yang menyaingi sepeda gym komersial, dan 50.000+ kelas dengan instruktur langsung menyediakan arsitektur motivasi yang benar-benar menjaga pengendara konsisten. Kompromi: All-Access Membership $44/bulan tidak opsional jika Anda menginginkan pengalaman penuh; Peloton tanpa langganan adalah sepeda dasar yang mahal.",
-      "pros": ["Layar sentuh HD 21,5 inci dengan 50.000+ kelas sesuai permintaan dan langsung", "Flywheel 16 kg untuk momentum halus pada resistansi sedang", "Resistansi magnetik senyap — aman untuk apartemen"],
-      "cons": ["Langganan $44/bulan diperlukan untuk membenarkan harga perangkat keras"],
+      "pros": [
+        "Layar sentuh HD 21,5 inci dengan 50.000+ kelas sesuai permintaan dan langsung",
+        "Flywheel 16 kg untuk momentum halus pada resistansi sedang",
+        "Resistansi magnetik senyap — aman untuk apartemen"
+      ],
+      "cons": [
+        "Langganan $44/bulan diperlukan untuk membenarkan harga perangkat keras"
+      ],
       "grade": "A+",
       "specs": {
         "Flywheel weight": "16 kg",
@@ -111,19 +117,25 @@
         "Subscription": "$44/bulan All-Access"
       },
       "scores": {
-        "Resistance feel": 4.8,
-        "Build quality": 4.8,
-        "Comfort": 4.5,
-        "Value": 3.8,
-        "Noise": 4.9
+        "Rasa Ketahanan": 4.8,
+        "Kualitas Konstruksi": 4.8,
+        "Kenyamanan": 4.5,
+        "Nilai": 3.8,
+        "Bising": 4.9
       }
     },
     {
       "offerId": "schwinn-ic4",
       "badge": "Nilai Terbaik Terhubung",
       "review": "Flywheel 18 kg Schwinn IC4 lebih berat daripada 16 kg Peloton Bike — spesifikasi yang kurang dihargai yang menghasilkan kadensi sedikit lebih halus di bawah beban. Penyesuaian sadel dan setang empat arah penuh menjadikannya paling mengakomodasi untuk penggunaan rumah tangga bersama. Bluetooth terhubung ke aplikasi Peloton, Zwift, dan Apple Fitness+ tanpa layar bawaan, memberi Anda fleksibilitas platform yang tidak ditawarkan sepeda lain di sini. Kompromi: tanpa layar bawaan berarti Anda menyediakan tablet sendiri.",
-      "pros": ["Flywheel 18 kg — lebih berat daripada Peloton", "Penyesuaian empat arah penuh untuk penggunaan bersama", "Kompatibilitas Bluetooth dengan Peloton, Zwift, Apple Fitness+"],
-      "cons": ["Tanpa layar bawaan — memerlukan tablet eksternal"],
+      "pros": [
+        "Flywheel 18 kg — lebih berat daripada Peloton",
+        "Penyesuaian empat arah penuh untuk penggunaan bersama",
+        "Kompatibilitas Bluetooth dengan Peloton, Zwift, Apple Fitness+"
+      ],
+      "cons": [
+        "Tanpa layar bawaan — memerlukan tablet eksternal"
+      ],
       "grade": "A",
       "specs": {
         "Flywheel weight": "18 kg",
@@ -135,19 +147,25 @@
         "Subscription": "Pilihan pengguna (Peloton, Zwift, gratis)"
       },
       "scores": {
-        "Resistance feel": 4.7,
-        "Build quality": 4.6,
-        "Comfort": 4.4,
-        "Value": 4.6,
-        "Noise": 4.8
+        "Rasa Ketahanan": 4.7,
+        "Kualitas Konstruksi": 4.6,
+        "Kenyamanan": 4.4,
+        "Nilai": 4.6,
+        "Bising": 4.8
       }
     },
     {
       "offerId": "nordictrack-s22i",
       "badge": "Terbaik untuk Latihan Medan",
       "review": "Rentang kemiringan bermotor -10 hingga +20% S22i adalah satu-satunya fitur dalam perbandingan ini yang secara berarti mensimulasikan pendakian dan turunan luar ruangan — iFit secara otomatis menyesuaikan resistansi dan kemiringan selama kursus yang dipandu instruktur, menciptakan replikasi medan yang sebenarnya. Layar putar 22 inci juga berfungsi untuk latihan kekuatan tubuh bagian atas di luar sepeda. Kompromi: ini adalah sepeda terbesar dan terberat di sini pada 64 kg dan area 56 × 137 cm, dan langganan iFit pada $39/bulan diperlukan untuk membuka fitur pembeda utama.",
-      "pros": ["Kemiringan bermotor -10 hingga +20% untuk simulasi medan", "Layar sentuh putar 22 inci untuk latihan di/luar sepeda", "Sinkronisasi resistansi dan kemiringan otomatis iFit"],
-      "cons": ["Area terbesar dalam perbandingan; iFit $39/bulan diperlukan untuk fitur utama"],
+      "pros": [
+        "Kemiringan bermotor -10 hingga +20% untuk simulasi medan",
+        "Layar sentuh putar 22 inci untuk latihan di/luar sepeda",
+        "Sinkronisasi resistansi dan kemiringan otomatis iFit"
+      ],
+      "cons": [
+        "Area terbesar dalam perbandingan; iFit $39/bulan diperlukan untuk fitur utama"
+      ],
       "grade": "B+",
       "specs": {
         "Flywheel weight": "Sekitar 16 kg",
@@ -159,19 +177,25 @@
         "Subscription": "$39/bulan iFit (paket keluarga)"
       },
       "scores": {
-        "Resistance feel": 4.7,
-        "Build quality": 4.5,
-        "Comfort": 4.4,
-        "Value": 3.9,
-        "Noise": 4.5
+        "Rasa Ketahanan": 4.7,
+        "Kualitas Konstruksi": 4.5,
+        "Kenyamanan": 4.4,
+        "Nilai": 3.9,
+        "Bising": 4.5
       }
     },
     {
       "offerId": "bowflex-velocore-16",
       "badge": "Terbaik untuk Aktivasi Inti",
       "review": "Condong samping kiri-kanan 25 derajat VeloCore adalah pembeda fungsional sejati — mengaktifkan penstabil lateral dan mengurangi kelelahan punggung bawah yang muncul dari posisi berkendara statis dalam sesi panjang. Aplikasi JRNY berharga $20/bulan, harga langganan terendah di antara sepeda terhubung di sini. Kompromi: layar 16 inci terasa jauh lebih kecil daripada 21,5 inci Peloton atau 22 inci NordicTrack, dan mekanisme condong butuh 2-3 sesi untuk terasa alami.",
-      "pros": ["Condong 25 derajat melibatkan otot inti dan penstabil lateral", "Biaya langganan terendah di antara sepeda terhubung ($20/bulan)", "Area ringkas pada 53 × 61 cm"],
-      "cons": ["Layar 16 inci lebih kecil daripada pesaing; condong butuh adaptasi"],
+      "pros": [
+        "Condong 25 derajat melibatkan otot inti dan penstabil lateral",
+        "Biaya langganan terendah di antara sepeda terhubung ($20/bulan)",
+        "Area ringkas pada 53 × 61 cm"
+      ],
+      "cons": [
+        "Layar 16 inci lebih kecil daripada pesaing; condong butuh adaptasi"
+      ],
       "grade": "B",
       "specs": {
         "Flywheel weight": "15 kg",
@@ -183,19 +207,25 @@
         "Subscription": "$20/bulan JRNY"
       },
       "scores": {
-        "Resistance feel": 4.4,
-        "Build quality": 4.3,
-        "Comfort": 4.6,
-        "Value": 4.2,
-        "Noise": 4.7
+        "Rasa Ketahanan": 4.4,
+        "Kualitas Konstruksi": 4.3,
+        "Kenyamanan": 4.6,
+        "Nilai": 4.2,
+        "Bising": 4.7
       }
     },
     {
       "offerId": "sunny-health-sf-b1002",
       "badge": "Hemat Biaya Terbaik",
       "review": "Resistansi magnetik pada titik harga hemat biaya adalah keunggulan utama Sunny Health — operasi bebas perawatan yang biasanya berharga lebih. Flywheel 8 kg adalah kompromi yang jujur: pada resistansi sedang, kayuhan pedal terasa lebih tersendat daripada sepeda dengan flywheel lebih berat, yang menjadi terasa selama interval sprint. Roda transportasi memungkinkan pemindahan satu orang — satu-satunya sepeda di sini yang dapat Anda pindahkan antarruangan sendirian. Kompromi: tidak cocok untuk latihan zona daya terstruktur atau protokol interval intens.",
-      "pros": ["Resistansi magnetik pada harga hemat — tanpa perawatan", "Roda transportasi untuk pemindahan satu orang", "Area terkecil dan bobot terendah dalam perbandingan"],
-      "cons": ["Flywheel 8 kg menghasilkan rasa tersendat pada resistansi sedang saat sprint"],
+      "pros": [
+        "Resistansi magnetik pada harga hemat — tanpa perawatan",
+        "Roda transportasi untuk pemindahan satu orang",
+        "Area terkecil dan bobot terendah dalam perbandingan"
+      ],
+      "cons": [
+        "Flywheel 8 kg menghasilkan rasa tersendat pada resistansi sedang saat sprint"
+      ],
       "grade": "B-",
       "specs": {
         "Flywheel weight": "8 kg",
@@ -207,11 +237,11 @@
         "Subscription": "Tidak ada"
       },
       "scores": {
-        "Resistance feel": 3.6,
-        "Build quality": 3.8,
-        "Comfort": 3.9,
-        "Value": 4.7,
-        "Noise": 4.6
+        "Rasa Ketahanan": 3.6,
+        "Kualitas Konstruksi": 3.8,
+        "Kenyamanan": 3.9,
+        "Nilai": 4.7,
+        "Bising": 4.6
       }
     }
   ],

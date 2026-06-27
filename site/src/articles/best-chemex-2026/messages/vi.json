@@ -64,58 +64,168 @@
       "offerId": "chemex-6-cup-classic",
       "badge": "Tốt Nhất Tổng Thể",
       "review": "Chemex 6 Cốc Classic là điểm khởi đầu phù hợp cho hầu hết các hộ gia đình — thủy tinh borosilicate hình đồng hồ cát với vòng gỗ và dây da, pha 850 ml (3 ly tiêu chuẩn), và tạo ra độ trong của tách cà phê vô song cho cà phê đặc sản rang nhẹ. Bộ lọc dày độc quyền là đặc điểm nổi bật và chi phí liên tục của nó. Với hộ gia đình 1–2 người muốn trải nghiệm Chemex mà không có phần dư thừa, đây là lựa chọn.",
-      "pros": ["Độ trong của tách cà phê xuất sắc — bộ lọc dày loại bỏ dầu và cặn mịn", "Thủy tinh borosilicate chịu được sốc nhiệt mà không nứt", "Dung tích 850 ml lý tưởng cho hộ gia đình 1–2 người (3 ly tiêu chuẩn)"],
-      "cons": ["Vòng gỗ không rửa được bằng máy rửa bát — cần vệ sinh bằng tay"],
+      "pros": [
+        "Độ trong của tách cà phê xuất sắc — bộ lọc dày loại bỏ dầu và cặn mịn",
+        "Thủy tinh borosilicate chịu được sốc nhiệt mà không nứt",
+        "Dung tích 850 ml lý tưởng cho hộ gia đình 1–2 người (3 ly tiêu chuẩn)"
+      ],
+      "cons": [
+        "Vòng gỗ không rửa được bằng máy rửa bát — cần vệ sinh bằng tay"
+      ],
       "grade": "A+",
-      "specs": {"Dung tích": "30 oz / 850 ml", "Vật liệu": "Thủy tinh borosilicate", "Loại bộ lọc": "Chemex bonded (độc quyền)", "Tay cầm": "Vòng gỗ + dây da", "Rửa máy được": "Không (vòng gỗ)"},
-      "scores": {"Brew quality": 4.9, "Build quality": 4.7, "Ease of use": 4.3, "Value": 4.2, "Versatility": 3.8}
+      "specs": {
+        "Dung tích": "30 oz / 850 ml",
+        "Vật liệu": "Thủy tinh borosilicate",
+        "Loại bộ lọc": "Chemex bonded (độc quyền)",
+        "Tay cầm": "Vòng gỗ + dây da",
+        "Rửa máy được": "Không (vòng gỗ)"
+      },
+      "scores": {
+        "Chất lượng nước pha": 4.9,
+        "Chất lượng xây dựng": 4.7,
+        "Dễ sử dụng": 4.3,
+        "Giá trị": 4.2,
+        "Tính đa năng": 3.8
+      }
     },
     {
       "offerId": "chemex-8-cup-classic",
       "badge": "Tốt Nhất Cho Nhóm",
       "review": "8 Cốc Classic sử dụng cơ chế pha và vật liệu giống hệt 6 Cốc nhưng pha được tới 1,1 L — đủ cho 4–5 ly tiêu chuẩn hoặc đổ đầy bình giữ nhiệt. Sự khác biệt duy nhất có ý nghĩa là chiều cao; bình cao hơn chứa thể tích nhiều hơn bên dưới vòng đệm mà không ảnh hưởng đến chiết xuất. Nếu bạn thường xuyên pha cho 3+ người hoặc batch-brew vào bình giữ nhiệt, đây là kích thước đúng.",
-      "pros": ["Dung tích 1,1 L — phục vụ 4–5 ly tiêu chuẩn mỗi lần pha", "Cùng thủy tinh borosilicate và cơ chế pha như 6 Cốc", "Tốt nhất để batch-brew vào bình giữ nhiệt"],
-      "cons": ["Hình dáng cao hơn ít ổn định hơn một chút trên quầy đông đồ đạc"],
+      "pros": [
+        "Dung tích 1,1 L — phục vụ 4–5 ly tiêu chuẩn mỗi lần pha",
+        "Cùng thủy tinh borosilicate và cơ chế pha như 6 Cốc",
+        "Tốt nhất để batch-brew vào bình giữ nhiệt"
+      ],
+      "cons": [
+        "Hình dáng cao hơn ít ổn định hơn một chút trên quầy đông đồ đạc"
+      ],
       "grade": "A",
-      "specs": {"Dung tích": "40 oz / 1,1 L", "Vật liệu": "Thủy tinh borosilicate", "Loại bộ lọc": "Chemex bonded (độc quyền)", "Tay cầm": "Vòng gỗ + dây da", "Rửa máy được": "Không (vòng gỗ)"},
-      "scores": {"Brew quality": 4.9, "Build quality": 4.7, "Ease of use": 4.2, "Value": 4.0, "Versatility": 4.2}
+      "specs": {
+        "Dung tích": "40 oz / 1,1 L",
+        "Vật liệu": "Thủy tinh borosilicate",
+        "Loại bộ lọc": "Chemex bonded (độc quyền)",
+        "Tay cầm": "Vòng gỗ + dây da",
+        "Rửa máy được": "Không (vòng gỗ)"
+      },
+      "scores": {
+        "Chất lượng nước pha": 4.9,
+        "Chất lượng xây dựng": 4.7,
+        "Dễ sử dụng": 4.2,
+        "Giá trị": 4,
+        "Tính đa năng": 4.2
+      }
     },
     {
       "offerId": "chemex-glass-handle",
       "badge": "Tốt Nhất Để Vệ Sinh Dễ Dàng",
       "review": "Glass Handle 8 Cốc thay vòng gỗ bằng tay cầm kính đúc — thay đổi cấu trúc duy nhất, nhưng có ý nghĩa với bất kỳ ai cho tất cả mọi thứ vào máy rửa bát. Hiệu suất pha giống hệt Classic; thẩm mỹ gọn gàng hơn và ít thủ công hơn. Nếu sự tiện lợi của máy rửa bát quan trọng và bạn mua kích thước 8 cốc dù sao, phiên bản tay cầm kính là bản nâng cấp thực tế.",
-      "pros": ["Hoàn toàn có thể rửa bằng máy rửa bát — không cần tháo vòng đệm", "Hiệu suất pha giống hệt Classic", "Thẩm mỹ gọn gàng hơn — phù hợp với phong cách nhà bếp hiện đại"],
-      "cons": ["Thẩm mỹ tay cầm kính gây tranh cãi — thiếu vẻ thủ công của vòng gỗ"],
+      "pros": [
+        "Hoàn toàn có thể rửa bằng máy rửa bát — không cần tháo vòng đệm",
+        "Hiệu suất pha giống hệt Classic",
+        "Thẩm mỹ gọn gàng hơn — phù hợp với phong cách nhà bếp hiện đại"
+      ],
+      "cons": [
+        "Thẩm mỹ tay cầm kính gây tranh cãi — thiếu vẻ thủ công của vòng gỗ"
+      ],
       "grade": "B+",
-      "specs": {"Dung tích": "40 oz / 1,1 L", "Vật liệu": "Thủy tinh borosilicate", "Loại bộ lọc": "Chemex bonded (độc quyền)", "Tay cầm": "Kính đúc (tích hợp)", "Rửa máy được": "Có (hoàn toàn)"},
-      "scores": {"Brew quality": 4.9, "Build quality": 4.5, "Ease of use": 4.7, "Value": 3.9, "Versatility": 4.2}
+      "specs": {
+        "Dung tích": "40 oz / 1,1 L",
+        "Vật liệu": "Thủy tinh borosilicate",
+        "Loại bộ lọc": "Chemex bonded (độc quyền)",
+        "Tay cầm": "Kính đúc (tích hợp)",
+        "Rửa máy được": "Có (hoàn toàn)"
+      },
+      "scores": {
+        "Chất lượng nước pha": 4.9,
+        "Chất lượng xây dựng": 4.5,
+        "Dễ sử dụng": 4.7,
+        "Giá trị": 3.9,
+        "Tính đa năng": 4.2
+      }
     },
     {
       "offerId": "chemex-bonded-filters",
       "badge": "Vật Tư Tiêu Hao Thiết Yếu",
       "review": "Bộ lọc bonded Chemex không thể hoán đổi với bộ lọc rổ hoặc hình nón tiêu chuẩn — giấy độc quyền dày hơn 20–30%, được gấp sẵn cho đường kính cổ Chemex và được thiết kế đặc biệt cho tốc độ dòng chảy chậm hơn tạo ra độ trong đặc trưng của tách Chemex. Mua theo gói 100 tờ giữ chi phí mỗi bộ lọc ở mức hợp lý; có trong màu trắng và tự nhiên (không tẩy trắng) — cả hai đều hoạt động tốt như nhau sau khi rửa sơ đúng cách.",
-      "pros": ["Bắt buộc cho tất cả máy pha Chemex — không có sản phẩm thay thế", "Gói 100 tờ giữ chi phí mỗi bộ lọc dưới $0,12", "Có trong phiên bản trắng và tự nhiên không tẩy trắng"],
-      "cons": ["Chi phí liên tục — khoảng $10–15 mỗi 100 bộ lọc tích lũy khi dùng hàng ngày"],
+      "pros": [
+        "Bắt buộc cho tất cả máy pha Chemex — không có sản phẩm thay thế",
+        "Gói 100 tờ giữ chi phí mỗi bộ lọc dưới $0,12",
+        "Có trong phiên bản trắng và tự nhiên không tẩy trắng"
+      ],
+      "cons": [
+        "Chi phí liên tục — khoảng $10–15 mỗi 100 bộ lọc tích lũy khi dùng hàng ngày"
+      ],
       "grade": "B",
-      "specs": {"Số lượng": "100 bộ lọc", "Tính tương thích": "Tất cả máy pha Chemex", "Loại": "Hình vuông hoặc tròn gấp sẵn", "Phiên bản": "Trắng (tẩy trắng) và tự nhiên (không tẩy trắng)", "Giá mỗi bộ lọc": "~$0,10–0,15"},
-      "scores": {"Brew quality": 4.9, "Build quality": 4.0, "Ease of use": 4.5, "Value": 3.8, "Versatility": 2.5}
+      "specs": {
+        "Số lượng": "100 bộ lọc",
+        "Tính tương thích": "Tất cả máy pha Chemex",
+        "Loại": "Hình vuông hoặc tròn gấp sẵn",
+        "Phiên bản": "Trắng (tẩy trắng) và tự nhiên (không tẩy trắng)",
+        "Giá mỗi bộ lọc": "~$0,10–0,15"
+      },
+      "scores": {
+        "Chất lượng nước pha": 4.9,
+        "Chất lượng xây dựng": 4,
+        "Dễ sử dụng": 4.5,
+        "Giá trị": 3.8,
+        "Tính đa năng": 2.5
+      }
     },
     {
       "offerId": "hario-v60-02",
       "badge": "Máy Pha Thay Thế Tốt Nhất",
       "review": "V60 02 là lựa chọn thay thế chính của Chemex — dripper pour-over một phần với hình nón 60°, gân xoắn và bộ lọc mỏng hơn tạo ra thân vị nhiều hơn và dòng chảy nhanh hơn Chemex. Nó cần server hoặc ly riêng (không giống thiết kế tất-trong-một của Chemex), và cách đổ phụ thuộc vào kỹ thuật nhiều hơn. Với người pha có kinh nghiệm muốn kiểm soát chiết xuất và thân vị tách cà phê hơn độ trong cực cao của Chemex, V60 là lựa chọn tốt hơn.",
-      "pros": ["Thân vị nhiều hơn Chemex — bộ lọc mỏng hơn giữ lại nhiều dầu hơn", "Tốc độ dòng chảy nhanh hơn tạo ra nhiều kiểm soát chiết xuất hơn", "Phiên bản nhựa $25–35 gần như không thể phá hủy"],
-      "cons": ["Cần server hoặc ly riêng — không phải bình tất-trong-một như Chemex"],
+      "pros": [
+        "Thân vị nhiều hơn Chemex — bộ lọc mỏng hơn giữ lại nhiều dầu hơn",
+        "Tốc độ dòng chảy nhanh hơn tạo ra nhiều kiểm soát chiết xuất hơn",
+        "Phiên bản nhựa $25–35 gần như không thể phá hủy"
+      ],
+      "cons": [
+        "Cần server hoặc ly riêng — không phải bình tất-trong-một như Chemex"
+      ],
       "grade": "B-",
-      "specs": {"Vật liệu": "Nhựa (kích thước 02)", "Loại bộ lọc": "Giấy V60 (mỏng hơn Chemex)", "Góc hình nón": "60°", "Dung tích": "Một phần (1–2 cốc)", "Server tương thích": "Ly tiêu chuẩn, Hario range server"},
-      "scores": {"Brew quality": 4.7, "Build quality": 3.8, "Ease of use": 3.5, "Value": 4.6, "Versatility": 4.8}
+      "specs": {
+        "Vật liệu": "Nhựa (kích thước 02)",
+        "Loại bộ lọc": "Giấy V60 (mỏng hơn Chemex)",
+        "Góc hình nón": "60°",
+        "Dung tích": "Một phần (1–2 cốc)",
+        "Server tương thích": "Ly tiêu chuẩn, Hario range server"
+      },
+      "scores": {
+        "Chất lượng nước pha": 4.7,
+        "Chất lượng xây dựng": 3.8,
+        "Dễ sử dụng": 3.5,
+        "Giá trị": 4.6,
+        "Tính đa năng": 4.8
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Cho hộ gia đình 1–2 người", "offerId": "chemex-6-cup-classic", "reason": "Dung tích 850 ml vừa đúng cho hai người — không có cà phê thừa, và thẩm mỹ cổ điển phù hợp với bất kỳ nhà bếp nào."},
-    {"label": "Cho hộ gia đình 3 người trở lên", "offerId": "chemex-8-cup-classic", "reason": "Dung tích 1,1 L đủ cho 4–5 ly mỗi lần pha — loại bỏ nhu cầu pha hai lần cho nhóm đông hơn."},
-    {"label": "Cho hộ gia đình phụ thuộc vào máy rửa bát", "offerId": "chemex-glass-handle", "reason": "Chemex duy nhất hoàn toàn có thể rửa bằng máy rửa bát — không cần tháo vòng đệm, không có thói quen vệ sinh bằng tay."},
-    {"label": "Cho người pha pour-over có kinh nghiệm", "offerId": "hario-v60-02", "reason": "Kiểm soát kỹ thuật và thân vị tách nhiều hơn Chemex — công cụ phù hợp cho những ai muốn tinh chỉnh chiết xuất theo tốc độ đổ."},
-    {"label": "Cho chủ Chemex tích trữ vật tư", "offerId": "chemex-bonded-filters", "reason": "Mua gói 100 tờ — đó là bộ lọc duy nhất hoạt động trong Chemex và bạn sẽ dùng hết nhanh hơn bạn nghĩ."}
+    {
+      "label": "Cho hộ gia đình 1–2 người",
+      "offerId": "chemex-6-cup-classic",
+      "reason": "Dung tích 850 ml vừa đúng cho hai người — không có cà phê thừa, và thẩm mỹ cổ điển phù hợp với bất kỳ nhà bếp nào."
+    },
+    {
+      "label": "Cho hộ gia đình 3 người trở lên",
+      "offerId": "chemex-8-cup-classic",
+      "reason": "Dung tích 1,1 L đủ cho 4–5 ly mỗi lần pha — loại bỏ nhu cầu pha hai lần cho nhóm đông hơn."
+    },
+    {
+      "label": "Cho hộ gia đình phụ thuộc vào máy rửa bát",
+      "offerId": "chemex-glass-handle",
+      "reason": "Chemex duy nhất hoàn toàn có thể rửa bằng máy rửa bát — không cần tháo vòng đệm, không có thói quen vệ sinh bằng tay."
+    },
+    {
+      "label": "Cho người pha pour-over có kinh nghiệm",
+      "offerId": "hario-v60-02",
+      "reason": "Kiểm soát kỹ thuật và thân vị tách nhiều hơn Chemex — công cụ phù hợp cho những ai muốn tinh chỉnh chiết xuất theo tốc độ đổ."
+    },
+    {
+      "label": "Cho chủ Chemex tích trữ vật tư",
+      "offerId": "chemex-bonded-filters",
+      "reason": "Mua gói 100 tờ — đó là bộ lọc duy nhất hoạt động trong Chemex và bạn sẽ dùng hết nhanh hơn bạn nghĩ."
+    }
   ]
 }

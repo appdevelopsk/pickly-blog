@@ -98,58 +98,170 @@
       "offerId": "bragg-organic-acv",
       "badge": "最佳整体",
       "review": "Bragg仍然是生苹果醋的参考标准：未过滤、美国农业部有机认证，带有确认活性培养物的可见母体菌丝。尖锐以苹果为主的风味比杂货店替代品更具发酵复杂性，32盎司瓶装对日常饮品使用价格有竞争力。如果你拿不定主意，这是首选。",
-      "pros": ["未过滤「含母体」——可见活性培养物", "美国农业部有机认证和非转基因认证", "饮品爱好者偏爱的尖锐复杂苹果风味"],
-      "cons": ["风味比大多数更浓——初学者需要稀释"],
+      "pros": [
+        "未过滤「含母体」——可见活性培养物",
+        "美国农业部有机认证和非转基因认证",
+        "饮品爱好者偏爱的尖锐复杂苹果风味"
+      ],
+      "cons": [
+        "风味比大多数更浓——初学者需要稀释"
+      ],
       "grade": "A+",
-      "specs": {"Size": "16盎司 / 32盎司", "Organic": "美国农业部认证", "Filtered": "否（含母体）", "Acidity": "5%", "Dilution ratio": "每8盎司水1-2汤匙"},
-      "scores": {"Quality": 4.8, "Taste": 4.2, "Value": 4.0, "Nutrition": 4.5, "Versatility": 4.7}
+      "specs": {
+        "Size": "16盎司 / 32盎司",
+        "Organic": "美国农业部认证",
+        "Filtered": "否（含母体）",
+        "Acidity": "5%",
+        "Dilution ratio": "每8盎司水1-2汤匙"
+      },
+      "scores": {
+        "质量": 4.8,
+        "味道": 4.2,
+        "价值": 4,
+        "营养": 4.5,
+        "多功能性": 4.7
+      }
     },
     {
       "offerId": "dynamic-health-acv",
       "badge": "最佳价值",
       "review": "功能上与Bragg等同——美国农业部有机认证，未过滤，含母体——但通常每盎司便宜15-20%。苹果来源不太具体，风味复杂性略低，但对于每盎司成本重要的大量烹饪和日常饮品，Dynamic Health缩小了差距，没有实质性的权衡。",
-      "pros": ["有机未过滤选项中每盎司成本最低", "美国农业部有机认证，未过滤，含母体", "大量烹饪使用的实惠选择"],
-      "cons": ["采购透明度低于Fairchild's或Bragg"],
+      "pros": [
+        "有机未过滤选项中每盎司成本最低",
+        "美国农业部有机认证，未过滤，含母体",
+        "大量烹饪使用的实惠选择"
+      ],
+      "cons": [
+        "采购透明度低于Fairchild's或Bragg"
+      ],
       "grade": "A",
-      "specs": {"Size": "32盎司", "Organic": "美国农业部认证", "Filtered": "否（含母体）", "Acidity": "5%", "Price vs Bragg": "每盎司约便宜15-20%"},
-      "scores": {"Quality": 4.2, "Taste": 3.9, "Value": 4.8, "Nutrition": 4.3, "Versatility": 4.4}
+      "specs": {
+        "Size": "32盎司",
+        "Organic": "美国农业部认证",
+        "Filtered": "否（含母体）",
+        "Acidity": "5%",
+        "Price vs Bragg": "每盎司约便宜15-20%"
+      },
+      "scores": {
+        "质量": 4.2,
+        "味道": 3.9,
+        "价值": 4.8,
+        "营养": 4.3,
+        "多功能性": 4.4
+      }
     },
     {
       "offerId": "kevita-acv-tonic",
       "badge": "最适合适口性",
       "review": "Kevita是一款含有姜、柠檬和甜菊糖的即饮碳酸苹果醋饮料，使每日苹果醋摄入真正令人愉快。苹果醋剂量低于液态标准（每瓶约25mg对比1-2汤匙），每份成本更高——权衡是那些难以接受直接苹果醋的人实际上坚持了下来。",
-      "pros": ["即饮——无需混合或稀释", "碳酸化和添加口味使其更易饮用", "较低酸度降低牙釉质暴露风险"],
-      "cons": ["苹果醋剂量低于标准液态方案", "每份成本高于液态苹果醋"],
+      "pros": [
+        "即饮——无需混合或稀释",
+        "碳酸化和添加口味使其更易饮用",
+        "较低酸度降低牙釉质暴露风险"
+      ],
+      "cons": [
+        "苹果醋剂量低于标准液态方案",
+        "每份成本高于液态苹果醋"
+      ],
       "grade": "B+",
-      "specs": {"Size": "15.2盎司", "Format": "碳酸即饮", "Added flavors": "姜、柠檬、甜菊糖", "Sugar": "0g添加糖", "ACV dose per bottle": "约25mg"},
-      "scores": {"Quality": 3.8, "Taste": 4.5, "Value": 3.2, "Nutrition": 3.5, "Versatility": 2.8}
+      "specs": {
+        "Size": "15.2盎司",
+        "Format": "碳酸即饮",
+        "Added flavors": "姜、柠檬、甜菊糖",
+        "Sugar": "0g添加糖",
+        "ACV dose per bottle": "约25mg"
+      },
+      "scores": {
+        "质量": 3.8,
+        "味道": 4.5,
+        "价值": 3.2,
+        "营养": 3.5,
+        "多功能性": 2.8
+      }
     },
     {
       "offerId": "goli-acv-gummies",
       "badge": "最适合日常依从性",
       "review": "Goli软糖每两粒份量提供约一茶匙苹果醋当量，少于标准汤匙剂量，但每日服用容易得多。通过有机、纯素、非转基因认证，添加了B9和B12维生素。如果你会跳过液体但每天服用软糖，Goli通过依从性提供更好的实际效果。",
-      "pros": ["无刺激性味道，无需混合——最高格式依从性", "添加B族维生素（B9和B12）", "通过有机、纯素、非转基因认证"],
-      "cons": ["每份苹果醋剂量低于液态（1茶匙对比1-2汤匙）", "每克苹果醋成本高于液态选项"],
+      "pros": [
+        "无刺激性味道，无需混合——最高格式依从性",
+        "添加B族维生素（B9和B12）",
+        "通过有机、纯素、非转基因认证"
+      ],
+      "cons": [
+        "每份苹果醋剂量低于液态（1茶匙对比1-2汤匙）",
+        "每克苹果醋成本高于液态选项"
+      ],
       "grade": "B",
-      "specs": {"Serving": "2粒软糖", "ACV per serving": "约500mg（约1茶匙）", "Organic": "是", "Added vitamins": "B9、B12", "Count": "60粒软糖"},
-      "scores": {"Quality": 4.0, "Taste": 4.6, "Value": 3.5, "Nutrition": 3.8, "Versatility": 2.5}
+      "specs": {
+        "Serving": "2粒软糖",
+        "ACV per serving": "约500mg（约1茶匙）",
+        "Organic": "是",
+        "Added vitamins": "B9、B12",
+        "Count": "60粒软糖"
+      },
+      "scores": {
+        "质量": 4,
+        "味道": 4.6,
+        "价值": 3.5,
+        "营养": 3.8,
+        "多功能性": 2.5
+      }
     },
     {
       "offerId": "fairchilds-organic-acv",
       "badge": "最佳烹饪采购",
       "review": "Fairchild's以明确的华盛顿州Rag Bag苹果采购和经认证的5%酸度脱颖而出——这是大多数苹果醋品牌避免的透明度。风味比Bragg更清爽、酵母味更少，使其更适合轻盈油醋汁和饮品醋，在那里你想要苹果风味而无明显发酵味。",
-      "pros": ["注明苹果品种和美国产地——罕见透明度", "明确5%酸度标注", "更清爽的苹果风味，发酵复杂性更低"],
-      "cons": ["在主流零售商的可用性低于Bragg"],
+      "pros": [
+        "注明苹果品种和美国产地——罕见透明度",
+        "明确5%酸度标注",
+        "更清爽的苹果风味，发酵复杂性更低"
+      ],
+      "cons": [
+        "在主流零售商的可用性低于Bragg"
+      ],
       "grade": "B-",
-      "specs": {"Size": "32盎司", "Organic": "美国农业部认证", "Apple source": "华盛顿州Rag Bag苹果", "Acidity": "经验证5%", "Filtered": "否（含母体）"},
-      "scores": {"Quality": 4.5, "Taste": 4.3, "Value": 3.8, "Nutrition": 4.3, "Versatility": 4.0}
+      "specs": {
+        "Size": "32盎司",
+        "Organic": "美国农业部认证",
+        "Apple source": "华盛顿州Rag Bag苹果",
+        "Acidity": "经验证5%",
+        "Filtered": "否（含母体）"
+      },
+      "scores": {
+        "质量": 4.5,
+        "味道": 4.3,
+        "价值": 3.8,
+        "营养": 4.3,
+        "多功能性": 4
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "日常苹果醋饮品用户", "offerId": "bragg-organic-acv", "reason": "批次间质量一致的参考生苹果醋——日常稀释饮品习惯的明显首选。"},
-    {"label": "大量烹饪", "offerId": "dynamic-health-acv", "reason": "比Bragg每盎司便宜15-20%，有机认证等同——每周用掉一瓶时的正确选择。"},
-    {"label": "苹果醋初学者", "offerId": "kevita-acv-tonic", "reason": "碳酸化、有口味且已预稀释——对觉得直接液态苹果醋太刺激的人门槛最低。"},
-    {"label": "习惯优先、剂量其次的用户", "offerId": "goli-acv-gummies", "reason": "如果你每天都会服用软糖但会跳过液体，一致的较低剂量优于不一致的较高剂量。"},
-    {"label": "轻盈油醋汁和沙拉酱", "offerId": "fairchilds-organic-acv", "reason": "在苹果醋特性处于前景的食谱中，更清爽的苹果风味和采购透明度确实有所不同。"}
+    {
+      "label": "日常苹果醋饮品用户",
+      "offerId": "bragg-organic-acv",
+      "reason": "批次间质量一致的参考生苹果醋——日常稀释饮品习惯的明显首选。"
+    },
+    {
+      "label": "大量烹饪",
+      "offerId": "dynamic-health-acv",
+      "reason": "比Bragg每盎司便宜15-20%，有机认证等同——每周用掉一瓶时的正确选择。"
+    },
+    {
+      "label": "苹果醋初学者",
+      "offerId": "kevita-acv-tonic",
+      "reason": "碳酸化、有口味且已预稀释——对觉得直接液态苹果醋太刺激的人门槛最低。"
+    },
+    {
+      "label": "习惯优先、剂量其次的用户",
+      "offerId": "goli-acv-gummies",
+      "reason": "如果你每天都会服用软糖但会跳过液体，一致的较低剂量优于不一致的较高剂量。"
+    },
+    {
+      "label": "轻盈油醋汁和沙拉酱",
+      "offerId": "fairchilds-organic-acv",
+      "reason": "在苹果醋特性处于前景的食谱中，更清爽的苹果风味和采购透明度确实有所不同。"
+    }
   ]
 }

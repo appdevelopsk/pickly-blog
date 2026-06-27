@@ -92,58 +92,173 @@
       "offerId": "anova-precision-cooker-pro",
       "badge": "综合最佳",
       "review": "Anova Precision Cooker Pro 为认真的家庭低温慢煮树立了标杆：1200W 应对大容器毫不吃力，±0.1°C 的精度对鸡蛋和鱼类很重要，而且这台机器无需 App 即可完全手动运行。WiFi 为过夜烹饪增添了可选的远程监控——当你在睡觉而一锅24小时的猪肩肉还在运行时，这是个实用的优势。",
-      "pros": ["1200W 电机应对最大100L的容器也不会卡顿", "完整手动控制——无需 App 或 WiFi 即可工作", "±0.1°C 的精度对鸡蛋和温度敏感的蛋白质可靠稳定"],
-      "cons": ["199美元是本次对比中并列最高的价格"],
+      "pros": [
+        "1200W 电机应对最大100L的容器也不会卡顿",
+        "完整手动控制——无需 App 或 WiFi 即可工作",
+        "±0.1°C 的精度对鸡蛋和温度敏感的蛋白质可靠稳定"
+      ],
+      "cons": [
+        "199美元是本次对比中并列最高的价格"
+      ],
       "grade": "A+",
-      "specs": {"Power": "1200W", "Temp accuracy": "±0.1°C", "Temp range": "0–92°C", "Container max": "100L", "Connectivity": "WiFi + Bluetooth", "Dimensions": "38cm tall, 490g"},
-      "scores": {"Temperature accuracy": 4.9, "Power": 5.0, "Ease of use": 4.5, "Value": 3.8, "Noise": 4.0}
+      "specs": {
+        "Power": "1200W",
+        "Temp accuracy": "±0.1°C",
+        "Temp range": "0–92°C",
+        "Container max": "100L",
+        "Connectivity": "WiFi + Bluetooth",
+        "Dimensions": "38cm tall, 490g"
+      },
+      "scores": {
+        "温度准确度": 4.9,
+        "功率": 5,
+        "易用性": 4.5,
+        "价值": 3.8,
+        "噪音": 4
+      }
     },
     {
       "offerId": "breville-joule-turbo",
       "badge": "最佳紧凑设计",
       "review": "Breville Joule Turbo 以28厘米、281克成为本次对比中最小的全功率机型，其 Turbo 模式确实能将升温时间最多缩短30%——当你想在切菜之前就开始加热水浴时，这对工作日烹饪很有意义。仅限 App 的操作是一种实实在在的依赖：如果 App 不再支持你手机的操作系统，这台机器就会无法操作。",
-      "pros": ["最小最轻的全功率机型——28cm、281g", "Turbo 模式将升温时间最多缩短30%", "App 设计精良，为常见蛋白质提供引导式烹饪时间"],
-      "cons": ["仅限 App 操作——机身上没有手动控制"],
+      "pros": [
+        "最小最轻的全功率机型——28cm、281g",
+        "Turbo 模式将升温时间最多缩短30%",
+        "App 设计精良，为常见蛋白质提供引导式烹饪时间"
+      ],
+      "cons": [
+        "仅限 App 操作——机身上没有手动控制"
+      ],
       "grade": "A",
-      "specs": {"Power": "1100W", "Temp accuracy": "±0.1°C", "Temp range": "25–99°C", "Container max": "30L", "Connectivity": "WiFi (required)", "Dimensions": "28cm tall, 281g"},
-      "scores": {"Temperature accuracy": 4.8, "Power": 4.7, "Ease of use": 4.0, "Value": 3.9, "Noise": 4.5}
+      "specs": {
+        "Power": "1100W",
+        "Temp accuracy": "±0.1°C",
+        "Temp range": "25–99°C",
+        "Container max": "30L",
+        "Connectivity": "WiFi (required)",
+        "Dimensions": "28cm tall, 281g"
+      },
+      "scores": {
+        "温度准确度": 4.8,
+        "功率": 4.7,
+        "易用性": 4,
+        "价值": 3.9,
+        "噪音": 4.5
+      }
     },
     {
       "offerId": "inkbird-isv100w",
       "badge": "最佳平价 WiFi 之选",
       "review": "Inkbird ISV-100W 以远低于 Anova 和 Breville 的价格提供 WiFi 连接和手动物理控制。±0.5°C 的精度对牛排、鸡肉和猪肉足够用——只有在鸡蛋和鱼这类温度窗口狭窄的场合才会成为局限。把它设到目标温度区间的中点，它在日常烹饪中表现可靠。",
-      "pros": ["手动旋钮和显示屏——无需手机或 WiFi 即可工作", "WiFi 可实现可选的定时与远程监控", "平价，且对大多数蛋白质精度足够"],
-      "cons": ["±0.5°C 的精度达不到鸡蛋和娇嫩鱼类所需的狭窄窗口"],
+      "pros": [
+        "手动旋钮和显示屏——无需手机或 WiFi 即可工作",
+        "WiFi 可实现可选的定时与远程监控",
+        "平价，且对大多数蛋白质精度足够"
+      ],
+      "cons": [
+        "±0.5°C 的精度达不到鸡蛋和娇嫩鱼类所需的狭窄窗口"
+      ],
       "grade": "B+",
-      "specs": {"Power": "1000W", "Temp accuracy": "±0.5°C", "Temp range": "25–99.9°C", "Container max": "12L", "Connectivity": "WiFi + manual controls", "Dimensions": "33cm tall, ~900g"},
-      "scores": {"Temperature accuracy": 4.0, "Power": 4.3, "Ease of use": 4.7, "Value": 4.9, "Noise": 4.2}
+      "specs": {
+        "Power": "1000W",
+        "Temp accuracy": "±0.5°C",
+        "Temp range": "25–99.9°C",
+        "Container max": "12L",
+        "Connectivity": "WiFi + manual controls",
+        "Dimensions": "33cm tall, ~900g"
+      },
+      "scores": {
+        "温度准确度": 4,
+        "功率": 4.3,
+        "易用性": 4.7,
+        "价值": 4.9,
+        "噪音": 4.2
+      }
     },
     {
       "offerId": "wancle-sous-vide",
       "badge": "最佳无 App 选项",
       "review": "Wancle Sous Vide Cooker 是本次对比中最简单的机型：转动旋钮设定温度和时间，夹在任何锅上，然后走开。无 WiFi、无云账户、不会有破坏功能的 App 更新。850W 的输出对于最大15L锅中的单餐烹饪足够用。如果你不信任依赖 App 的家电，这是个直截了当的替代品。",
-      "pros": ["无 App、无 WiFi、无云依赖——完全独立运行", "简单的旋钮操作配 LED 显示屏", "用于一切基础低温慢煮可靠稳定，毫不复杂"],
-      "cons": ["850W 应对大容器吃力——预热时间比1000W以上的机型更长"],
+      "pros": [
+        "无 App、无 WiFi、无云依赖——完全独立运行",
+        "简单的旋钮操作配 LED 显示屏",
+        "用于一切基础低温慢煮可靠稳定，毫不复杂"
+      ],
+      "cons": [
+        "850W 应对大容器吃力——预热时间比1000W以上的机型更长"
+      ],
       "grade": "B",
-      "specs": {"Power": "850W", "Temp accuracy": "±0.5°C", "Temp range": "25–99.5°C", "Container max": "15L", "Connectivity": "None", "Dimensions": "30cm tall, ~800g"},
-      "scores": {"Temperature accuracy": 3.8, "Power": 3.5, "Ease of use": 5.0, "Value": 4.7, "Noise": 4.0}
+      "specs": {
+        "Power": "850W",
+        "Temp accuracy": "±0.5°C",
+        "Temp range": "25–99.5°C",
+        "Container max": "15L",
+        "Connectivity": "None",
+        "Dimensions": "30cm tall, ~800g"
+      },
+      "scores": {
+        "温度准确度": 3.8,
+        "功率": 3.5,
+        "易用性": 5,
+        "价值": 4.7,
+        "噪音": 4
+      }
     },
     {
       "offerId": "polyscience-creative-sous-vide",
       "badge": "最佳温度精度",
       "review": "PolyScience Creative Series 是本次对比中唯一拥有专业厨房血统、温度稳定性达±0.07°C的机型——这是餐厅厨房在数百批次间实现食谱可复现性所需的精度。对于经常制作63°C鸡蛋或45°C三文鱼的家庭厨师，这种精度消除了±0.5°C机型带来的质感波动。它的价格反映了专业级的做工。",
-      "pros": ["±0.07°C 的温度稳定性——本次对比中最严苛的精度", "专业厨房血统，配 IP 等级防溅保护", "手动控制，无 App 依赖"],
-      "cons": ["329美元的价格难以证明其合理，除非鸡蛋或鱼的精度是首要需求"],
+      "pros": [
+        "±0.07°C 的温度稳定性——本次对比中最严苛的精度",
+        "专业厨房血统，配 IP 等级防溅保护",
+        "手动控制，无 App 依赖"
+      ],
+      "cons": [
+        "329美元的价格难以证明其合理，除非鸡蛋或鱼的精度是首要需求"
+      ],
       "grade": "B-",
-      "specs": {"Power": "1100W", "Temp accuracy": "±0.07°C", "Temp range": "25–99°C", "Flow rate": "11.5L/min", "Connectivity": "None (manual only)", "Build": "Professional, IP-rated"},
-      "scores": {"Temperature accuracy": 5.0, "Power": 4.7, "Ease of use": 4.3, "Value": 3.0, "Noise": 3.8}
+      "specs": {
+        "Power": "1100W",
+        "Temp accuracy": "±0.07°C",
+        "Temp range": "25–99°C",
+        "Flow rate": "11.5L/min",
+        "Connectivity": "None (manual only)",
+        "Build": "Professional, IP-rated"
+      },
+      "scores": {
+        "温度准确度": 5,
+        "功率": 4.7,
+        "易用性": 4.3,
+        "价值": 3,
+        "噪音": 3.8
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "适合过夜和大批量烹饪", "offerId": "anova-precision-cooker-pro", "reason": "1200W 应对30L容器，WiFi 监控让你在24小时的猪肩肉烹饪过程中躺在床上就能查看温度。"},
-    {"label": "适合想要快速升温的小厨房厨师", "offerId": "breville-joule-turbo", "reason": "最小的全功率机型，配 Turbo 模式——当你在工作日晚餐准备时开始加热水浴，升温时间的缩短就很重要。"},
-    {"label": "适合预算有限的低温慢煮新手", "offerId": "inkbird-isv100w", "reason": "WiFi 监控加手动备用控制，价格亲民——±0.5°C 对牛排、鸡肉和猪肩肉足够精确。"},
-    {"label": "适合不信任依赖 App 家电的买家", "offerId": "wancle-sous-vide", "reason": "只有旋钮和 LED——没有东西要更新、没有连接会丢失、不会因公司推送新系统而停止工作。"},
-    {"label": "适合鸡蛋、鱼类和可复现的精准烹饪", "offerId": "polyscience-creative-sous-vide", "reason": "±0.07°C 的稳定性意味着63°C的鸡蛋每天早上都能做出完全一致的效果——这是±0.5°C机型无法可靠交付的精度。"}
+    {
+      "label": "适合过夜和大批量烹饪",
+      "offerId": "anova-precision-cooker-pro",
+      "reason": "1200W 应对30L容器，WiFi 监控让你在24小时的猪肩肉烹饪过程中躺在床上就能查看温度。"
+    },
+    {
+      "label": "适合想要快速升温的小厨房厨师",
+      "offerId": "breville-joule-turbo",
+      "reason": "最小的全功率机型，配 Turbo 模式——当你在工作日晚餐准备时开始加热水浴，升温时间的缩短就很重要。"
+    },
+    {
+      "label": "适合预算有限的低温慢煮新手",
+      "offerId": "inkbird-isv100w",
+      "reason": "WiFi 监控加手动备用控制，价格亲民——±0.5°C 对牛排、鸡肉和猪肩肉足够精确。"
+    },
+    {
+      "label": "适合不信任依赖 App 家电的买家",
+      "offerId": "wancle-sous-vide",
+      "reason": "只有旋钮和 LED——没有东西要更新、没有连接会丢失、不会因公司推送新系统而停止工作。"
+    },
+    {
+      "label": "适合鸡蛋、鱼类和可复现的精准烹饪",
+      "offerId": "polyscience-creative-sous-vide",
+      "reason": "±0.07°C 的稳定性意味着63°C的鸡蛋每天早上都能做出完全一致的效果——这是±0.5°C机型无法可靠交付的精度。"
+    }
   ]
 }

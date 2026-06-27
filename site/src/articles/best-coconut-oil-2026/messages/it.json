@@ -4,11 +4,31 @@
   "lede": "L'olio di cocco è uno di quegli ingredienti in cui le differenze sull'etichetta contano davvero. Vergine o raffinato non è marketing — determina il punto di fumo, il sapore e se siano rimasti nutrienti. Questi cinque sono stati scelti perché mantengono le promesse del barattolo, non perché abbiano il packaging più attraente.",
   "methodology": "I prodotti sono stati confrontati su metodo di produzione (pressatura a freddo vs. pressatura per espulsione vs. RBD), punto di fumo, sapore nelle applicazioni culinarie, purezza degli ingredienti e certificazioni. Lo status biologico e la trasparenza dell'origine sono stati ponderati fortemente.",
   "recommendedFor": [
-    { "label": "Cottura ad alta temperatura (salto in padella, rosolatura)", "offerId": "coconut-oil-spectrum-organics", "reason": "Raffinato biologico con punto di fumo a 204 °C — sapore neutro, regge il calore senza problemi" },
-    { "label": "Caffè bulletproof e smoothie", "offerId": "coconut-oil-nutiva-organic-virgin", "reason": "Il sapore vergine pressato a freddo esalta il caffè senza sovrastarlo" },
-    { "label": "Cucina quotidiana economica", "offerId": "coconut-oil-carrington-farms", "reason": "Pressato a freddo biologico al prezzo per grammo più basso dei cinque" },
-    { "label": "Cura della pelle e dei capelli", "offerId": "coconut-oil-viva-naturals-extra-virgin", "reason": "Non raffinato, pressato a freddo, si assorbe bene senza l'effetto unto delle versioni raffinate" },
-    { "label": "Focus keto e MCT", "offerId": "coconut-oil-life-extension-coconut", "reason": "Frazionato con rapporto C8/C10 elevato per la produzione di chetoni" }
+    {
+      "label": "Cottura ad alta temperatura (salto in padella, rosolatura)",
+      "offerId": "coconut-oil-spectrum-organics",
+      "reason": "Raffinato biologico con punto di fumo a 204 °C — sapore neutro, regge il calore senza problemi"
+    },
+    {
+      "label": "Caffè bulletproof e smoothie",
+      "offerId": "coconut-oil-nutiva-organic-virgin",
+      "reason": "Il sapore vergine pressato a freddo esalta il caffè senza sovrastarlo"
+    },
+    {
+      "label": "Cucina quotidiana economica",
+      "offerId": "coconut-oil-carrington-farms",
+      "reason": "Pressato a freddo biologico al prezzo per grammo più basso dei cinque"
+    },
+    {
+      "label": "Cura della pelle e dei capelli",
+      "offerId": "coconut-oil-viva-naturals-extra-virgin",
+      "reason": "Non raffinato, pressato a freddo, si assorbe bene senza l'effetto unto delle versioni raffinate"
+    },
+    {
+      "label": "Focus keto e MCT",
+      "offerId": "coconut-oil-life-extension-coconut",
+      "reason": "Frazionato con rapporto C8/C10 elevato per la produzione di chetoni"
+    }
   ],
   "sections": [
     {
@@ -64,10 +84,10 @@
         "Serving size": "1 cucchiaio / 14 g"
       },
       "scores": {
-        "Flavor": 5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 3.5
+        "Sapore": 5,
+        "Purezza": 5,
+        "Valore": 4,
+        "Versatilità": 3.5
       }
     },
     {
@@ -93,10 +113,10 @@
         "Serving size": "1 cucchiaio / 14 g"
       },
       "scores": {
-        "Flavor": 4.5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 4
+        "Sapore": 4.5,
+        "Purezza": 5,
+        "Valore": 4,
+        "Versatilità": 4
       }
     },
     {
@@ -122,10 +142,10 @@
         "Serving size": "1 cucchiaio / 14 g"
       },
       "scores": {
-        "Flavor": 3,
-        "Purity": 4.5,
-        "Value": 4,
-        "Versatility": 5
+        "Sapore": 3,
+        "Purezza": 4.5,
+        "Valore": 4,
+        "Versatilità": 5
       }
     },
     {
@@ -152,10 +172,10 @@
         "MCT content": "~7 g C8/C10 per cucchiaio"
       },
       "scores": {
-        "Macro quality": 5,
-        "Satiety": 4,
-        "Value": 3.5,
-        "Versatility": 2
+        "Qualità dei macro": 5,
+        "Sazietà": 4,
+        "Valore": 3.5,
+        "Versatilità": 2
       }
     },
     {
@@ -181,10 +201,10 @@
         "Serving size": "1 cucchiaio / 14 g"
       },
       "scores": {
-        "Flavor": 4,
-        "Purity": 4.5,
-        "Value": 5,
-        "Versatility": 4
+        "Sapore": 4,
+        "Purezza": 4.5,
+        "Valore": 5,
+        "Versatilità": 4
       }
     }
   ],

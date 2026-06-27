@@ -96,58 +96,178 @@
       "offerId": "fitness-reality-x2-power-tower",
       "badge": "Best Overall",
       "review": "Fitness Reality X2 在 110×130 公分的佔地內提供四個訓練站——引體向上槓、雙槓站、伏地挺身握把、附護墊 VKR——其價格使它成為多數家庭健身房的正確起點。3.8 公分方管框架在同價位下明顯比圓管設計更剛硬。228 公分橫槓高度可為身高 185 公分以內的使用者提供死懸淨空。VKR 臂托與雙槓握把尚可，但在長組數時並非最舒適——Weider 在這兩點上都有改善。",
-      "pros": ["四站設計在一台機器內涵蓋引體向上、雙槓、伏地挺身與 VKR", "3.8 公分方管框架以此價位而言相當剛硬", "228 公分橫槓高度可涵蓋身高約 185 公分以內使用者而不需屈膝"],
-      "cons": ["VKR 臂托護墊比 Weider 薄——在長組數懸吊舉腿時較明顯"],
+      "pros": [
+        "四站設計在一台機器內涵蓋引體向上、雙槓、伏地挺身與 VKR",
+        "3.8 公分方管框架以此價位而言相當剛硬",
+        "228 公分橫槓高度可涵蓋身高約 185 公分以內使用者而不需屈膝"
+      ],
+      "cons": [
+        "VKR 臂托護墊比 Weider 薄——在長組數懸吊舉腿時較明顯"
+      ],
       "grade": "A+",
-      "specs": {"Stations": "4（引體向上、雙槓、伏地挺身、VKR）", "Base footprint": "110×130 公分", "Bar height": "約 228 公分（固定）", "Load capacity": "136 公斤靜態", "Frame": "3.8 公分方管鋼材", "Price": "$140", "Assembly time": "約 60–90 分鐘"},
-      "scores": {"Stability": 4.5, "Load capacity": 4.4, "Footprint": 3.8, "Value": 4.9, "Versatility": 4.7}
+      "specs": {
+        "Stations": "4（引體向上、雙槓、伏地挺身、VKR）",
+        "Base footprint": "110×130 公分",
+        "Bar height": "約 228 公分（固定）",
+        "Load capacity": "136 公斤靜態",
+        "Frame": "3.8 公分方管鋼材",
+        "Price": "$140",
+        "Assembly time": "約 60–90 分鐘"
+      },
+      "scores": {
+        "穩定性": 4.5,
+        "負重容量": 4.4,
+        "佔位": 3.8,
+        "性價比": 4.9,
+        "多功能性": 4.7
+      }
     },
     {
       "offerId": "power-tower-workout-dip-station",
       "badge": "Best Compact",
       "review": "Yaheetech 力量塔把與 Fitness Reality X2 相同的四個訓練站塞進 95×110 公分的佔地——本次比較中最小的力量塔。橫槓高度可透過預設孔位調至 220 公分，而 150 公斤的額定承重是本次比較中最高。VKR 臂托護墊比 X2 薄，固定寬度的雙槓握把對寬肩使用者可能略窄。當房間每一平方公分都重要時，這是最佳選擇。",
-      "pros": ["本次比較中最小的力量塔佔地，95×110 公分", "150 公斤靜態承重——此處所有機型中最高", "橫槓高度可透過預設位置調至 220 公分"],
-      "cons": ["VKR 臂托護墊比 Fitness Reality X2 與 Weider 薄"],
+      "pros": [
+        "本次比較中最小的力量塔佔地，95×110 公分",
+        "150 公斤靜態承重——此處所有機型中最高",
+        "橫槓高度可透過預設位置調至 220 公分"
+      ],
+      "cons": [
+        "VKR 臂托護墊比 Fitness Reality X2 與 Weider 薄"
+      ],
       "grade": "A",
-      "specs": {"Stations": "4（引體向上、雙槓、伏地挺身、VKR）", "Base footprint": "95×110 公分", "Bar height": "最高約 220 公分（可調）", "Load capacity": "150 公斤靜態", "Frame": "圓管鋼材", "Price": "$199.99", "Assembly time": "約 60 分鐘"},
-      "scores": {"Stability": 4.3, "Load capacity": 4.7, "Footprint": 4.9, "Value": 4.6, "Versatility": 4.5}
+      "specs": {
+        "Stations": "4（引體向上、雙槓、伏地挺身、VKR）",
+        "Base footprint": "95×110 公分",
+        "Bar height": "最高約 220 公分（可調）",
+        "Load capacity": "150 公斤靜態",
+        "Frame": "圓管鋼材",
+        "Price": "$199.99",
+        "Assembly time": "約 60 分鐘"
+      },
+      "scores": {
+        "穩定性": 4.3,
+        "負重容量": 4.7,
+        "佔位": 4.9,
+        "性價比": 4.6,
+        "多功能性": 4.5
+      }
     },
     {
       "offerId": "cap-barbell-freestanding-pull-up-bar",
       "badge": "Best Pull-Up Only",
       "review": "CAP Barbell 是一台沒有雙槓或 VKR 的單機引體向上站——這讓它以 97×60 公分成為本次比較中深度最小的設備。A 字型外伸底座在嚴格死懸引體向上時提供比矩形底座力量塔更佳的側向穩定性，因為使用者懸吊在寬底座的中央，而非窄底座的邊緣。固定橫槓 218 公分並內建多種握法。若你想在課表中加入雙槓或 VKR，它就不是你的選擇。",
-      "pros": ["97×60 公分深度佔地最小——能放進力量塔放不下的空間", "A 字型底座產生比矩形底座設計更佳的側向穩定性", "多種握位：寬距正握與中立式平行"],
-      "cons": ["無雙槓站、伏地挺身握把或 VKR——僅引體向上"],
+      "pros": [
+        "97×60 公分深度佔地最小——能放進力量塔放不下的空間",
+        "A 字型底座產生比矩形底座設計更佳的側向穩定性",
+        "多種握位：寬距正握與中立式平行"
+      ],
+      "cons": [
+        "無雙槓站、伏地挺身握把或 VKR——僅引體向上"
+      ],
       "grade": "B+",
-      "specs": {"Stations": "1（僅引體向上）", "Base footprint": "約 97×60 公分", "Bar height": "約 218 公分（固定）", "Load capacity": "136 公斤靜態", "Base design": "A 字型搭配外伸支腳", "Price": "$149.99", "Grip options": "寬距正握、中立式平行"},
-      "scores": {"Stability": 4.6, "Load capacity": 4.4, "Footprint": 4.8, "Value": 4.3, "Versatility": 2.8}
+      "specs": {
+        "Stations": "1（僅引體向上）",
+        "Base footprint": "約 97×60 公分",
+        "Bar height": "約 218 公分（固定）",
+        "Load capacity": "136 公斤靜態",
+        "Base design": "A 字型搭配外伸支腳",
+        "Price": "$149.99",
+        "Grip options": "寬距正握、中立式平行"
+      },
+      "scores": {
+        "穩定性": 4.6,
+        "負重容量": 4.4,
+        "佔位": 4.8,
+        "性價比": 4.3,
+        "多功能性": 2.8
+      }
     },
     {
       "offerId": "weider-power-tower-200",
       "badge": "Best Premium",
       "review": "Weider Power Tower 200 在訓練時最明顯的兩個面向上改善了 Fitness Reality X2：更寬的雙槓握把間距與更厚的 VKR 臂托護墊。這兩項改變都為頻繁使用這些訓練站的運動者改善了舒適度與肩部定位。更厚的框架規格提升了剛性但也增加了尺寸——115×135 公分佔地是本次比較中最大的。若你規律使用雙槓與 VKR 站並重視長組數時的舒適度，值得比 X2 多花這筆錢。",
-      "pros": ["更寬的雙槓握把間距改善雙槓最低點的肩部定位", "更厚的 VKR 臂托護墊在長組數時明顯更舒適", "更厚的框架規格比平價力量塔更剛硬"],
-      "cons": ["115×135 公分佔地是本次比較中最大的"],
+      "pros": [
+        "更寬的雙槓握把間距改善雙槓最低點的肩部定位",
+        "更厚的 VKR 臂托護墊在長組數時明顯更舒適",
+        "更厚的框架規格比平價力量塔更剛硬"
+      ],
+      "cons": [
+        "115×135 公分佔地是本次比較中最大的"
+      ],
       "grade": "B",
-      "specs": {"Stations": "4（引體向上、雙槓、伏地挺身、VKR）", "Base footprint": "115×135 公分", "Bar height": "約 228 公分（固定）", "Load capacity": "136 公斤靜態", "Frame": "厚規格鋼材", "Price": "$206.09", "Assembly time": "約 90 分鐘"},
-      "scores": {"Stability": 4.7, "Load capacity": 4.4, "Footprint": 3.2, "Value": 4.0, "Versatility": 4.6}
+      "specs": {
+        "Stations": "4（引體向上、雙槓、伏地挺身、VKR）",
+        "Base footprint": "115×135 公分",
+        "Bar height": "約 228 公分（固定）",
+        "Load capacity": "136 公斤靜態",
+        "Frame": "厚規格鋼材",
+        "Price": "$206.09",
+        "Assembly time": "約 90 分鐘"
+      },
+      "scores": {
+        "穩定性": 4.7,
+        "負重容量": 4.4,
+        "佔位": 3.2,
+        "性價比": 4,
+        "多功能性": 4.6
+      }
     },
     {
       "offerId": "ultimate-body-press-freestanding-bar",
       "badge": "Best for Tall Users",
       "review": "Ultimate Body Press 是本次比較中唯一可調高度的單機引體向上架——193 至 244 公分分段預設，是此處可用的最高設定。直式正握橫槓沒有整合的中立式或平行握把。四腳矩形底座在高設定、體重超過 80 公斤的使用者做動態動作時，比 CAP 的 A 字型設計略不穩定；隨附的牆面錨固繩帶可解決此問題。最適合身高超過 185 公分、與不同身高訓練夥伴共用橫槓的使用者。",
-      "pros": ["可調高度 193–244 公分——本次比較中最高設定", "隨附牆面錨固零件以在動態負載下增加穩定性", "精巧矩形底座可放進狹窄空間"],
-      "cons": ["僅直式橫槓——未內建中立式或平行握把"],
+      "pros": [
+        "可調高度 193–244 公分——本次比較中最高設定",
+        "隨附牆面錨固零件以在動態負載下增加穩定性",
+        "精巧矩形底座可放進狹窄空間"
+      ],
+      "cons": [
+        "僅直式橫槓——未內建中立式或平行握把"
+      ],
       "grade": "B-",
-      "specs": {"Stations": "1（僅引體向上）", "Base footprint": "約 4 呎矩形", "Bar height": "193–244 公分（可調預設）", "Load capacity": "搭配錨固 136 公斤", "Base design": "矩形 4 呎", "Price": "$79.95", "Anchor": "隨附牆面繩帶"},
-      "scores": {"Stability": 3.8, "Load capacity": 4.0, "Footprint": 4.2, "Value": 4.4, "Versatility": 2.6}
+      "specs": {
+        "Stations": "1（僅引體向上）",
+        "Base footprint": "約 4 呎矩形",
+        "Bar height": "193–244 公分（可調預設）",
+        "Load capacity": "搭配錨固 136 公斤",
+        "Base design": "矩形 4 呎",
+        "Price": "$79.95",
+        "Anchor": "隨附牆面繩帶"
+      },
+      "scores": {
+        "穩定性": 3.8,
+        "負重容量": 4,
+        "佔位": 4.2,
+        "性價比": 4.4,
+        "多功能性": 2.6
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "適合想要完整上半身訓練的多數家庭健身房", "offerId": "fitness-reality-x2-power-tower", "reason": "以最低價格在可控佔地內提供四個訓練站——引體向上、雙槓、伏地挺身與 VKR，無需另購設備。"},
-    {"label": "適合每一公分都得計較的小房間", "offerId": "power-tower-workout-dip-station", "reason": "本次比較中最小的力量塔佔地，搭配最高承重——當空間是關鍵限制時的正確選擇。"},
-    {"label": "適合只想做引體向上、不要力量塔體積的人", "offerId": "cap-barbell-freestanding-pull-up-bar", "reason": "A 字型穩定性與極小深度佔地提供引體向上能力，無需付出完整力量塔的空間代價。"},
-    {"label": "適合頻繁使用雙槓與 VKR、追求最大舒適度的人", "offerId": "weider-power-tower-200", "reason": "更寬的雙槓握把與更厚的 VKR 護墊，對每週倚賴這些訓練站 3 次以上的運動者而言值得加價。"},
-    {"label": "適合身高超過 185 公分、需要可調高度的使用者", "offerId": "ultimate-body-press-freestanding-bar", "reason": "本次比較中最高的橫槓設定 244 公分——唯一能讓非常高的使用者不需屈膝懸吊的獨立式選項。"}
+    {
+      "label": "適合想要完整上半身訓練的多數家庭健身房",
+      "offerId": "fitness-reality-x2-power-tower",
+      "reason": "以最低價格在可控佔地內提供四個訓練站——引體向上、雙槓、伏地挺身與 VKR，無需另購設備。"
+    },
+    {
+      "label": "適合每一公分都得計較的小房間",
+      "offerId": "power-tower-workout-dip-station",
+      "reason": "本次比較中最小的力量塔佔地，搭配最高承重——當空間是關鍵限制時的正確選擇。"
+    },
+    {
+      "label": "適合只想做引體向上、不要力量塔體積的人",
+      "offerId": "cap-barbell-freestanding-pull-up-bar",
+      "reason": "A 字型穩定性與極小深度佔地提供引體向上能力，無需付出完整力量塔的空間代價。"
+    },
+    {
+      "label": "適合頻繁使用雙槓與 VKR、追求最大舒適度的人",
+      "offerId": "weider-power-tower-200",
+      "reason": "更寬的雙槓握把與更厚的 VKR 護墊，對每週倚賴這些訓練站 3 次以上的運動者而言值得加價。"
+    },
+    {
+      "label": "適合身高超過 185 公分、需要可調高度的使用者",
+      "offerId": "ultimate-body-press-freestanding-bar",
+      "reason": "本次比較中最高的橫槓設定 244 公分——唯一能讓非常高的使用者不需屈膝懸吊的獨立式選項。"
+    }
   ]
 }

@@ -98,58 +98,178 @@
       "offerId": "iron-gym-total-body-bar",
       "badge": "綜合最佳",
       "review": "Iron Gym 的跨門槓桿設計，幾乎適用於任何標準門框且無須工具——使用者越重，固定就越緊。多種握把位置在一支桿上涵蓋寬正手、中性平行與窄反手變化。主要限制是安裝高度受門框飾條限制（通常 200 至 210 公分），以及在動態擺盪負載下穩定性降低，這使它無法用於 CrossFit 式的課表。",
-      "pros": ["免工具、免鑽孔——30 秒內即可裝在任何標準門框上", "一支即具備寬、中性與窄握把位置", "136 公斤靜態承重涵蓋大多數徒手使用者"],
-      "cons": ["未針對擺盪或動態負載做額定標示——僅限嚴格死掛引體向上"],
+      "pros": [
+        "免工具、免鑽孔——30 秒內即可裝在任何標準門框上",
+        "一支即具備寬、中性與窄握把位置",
+        "136 公斤靜態承重涵蓋大多數徒手使用者"
+      ],
+      "cons": [
+        "未針對擺盪或動態負載做額定標示——僅限嚴格死掛引體向上"
+      ],
       "grade": "A+",
-      "specs": {"Mount type": "跨門槓桿", "Load capacity": "靜態 136 公斤", "Grip positions": "寬正手、中性、窄反手", "Installation": "免工具", "Bar height": "約 200–210 公分（門框高度）", "Price": "$29.99", "Weight": "約 1.8 公斤"},
-      "scores": {"Stability": 4.2, "Load capacity": 4.2, "Ease of install": 5.0, "Value": 4.9, "Grip comfort": 4.5}
+      "specs": {
+        "Mount type": "跨門槓桿",
+        "Load capacity": "靜態 136 公斤",
+        "Grip positions": "寬正手、中性、窄反手",
+        "Installation": "免工具",
+        "Bar height": "約 200–210 公分（門框高度）",
+        "Price": "$29.99",
+        "Weight": "約 1.8 公斤"
+      },
+      "scores": {
+        "穩定性": 4.2,
+        "負重容量": 4.2,
+        "安裝便利性": 5,
+        "性價比": 4.9,
+        "握感舒適性": 4.5
+      }
     },
     {
       "offerId": "fitness-reality-810xlt",
       "badge": "最佳壁掛款",
       "review": "Fitness Reality 810XLT 鎖入結構骨架的龍骨——與任何跨門式桿是從根本上不同的穩定度下限。單一站上具備寬、中性與窄握把位置，作為安裝系統額定承重 300 磅，比任何門框選項更能承受負重引體與動態負載。代價是一次性的安裝承諾：龍骨可及、鑽孔與正確的長螺栓五金件都是必要條件。",
-      "pros": ["龍骨錨定的穩定性在動態負載下勝過所有門框桿", "三種握把位置：寬正手、中性、窄反手", "作為安裝系統額定承重 136 公斤——可承受負重引體"],
-      "cons": ["需要龍骨可及、導孔與長螺栓——免鑽孔的方案被排除"],
+      "pros": [
+        "龍骨錨定的穩定性在動態負載下勝過所有門框桿",
+        "三種握把位置：寬正手、中性、窄反手",
+        "作為安裝系統額定承重 136 公斤——可承受負重引體"
+      ],
+      "cons": [
+        "需要龍骨可及、導孔與長螺栓——免鑽孔的方案被排除"
+      ],
       "grade": "A",
-      "specs": {"Mount type": "龍骨錨定壁掛", "Load capacity": "安裝後 136 公斤（300 磅）", "Grip positions": "寬、中性、窄", "Installation": "需鑽孔", "Bar height": "依安裝高度可調", "Price": "$329", "Steel gauge": "重型管材"},
-      "scores": {"Stability": 4.9, "Load capacity": 4.8, "Ease of install": 2.8, "Value": 4.2, "Grip comfort": 4.7}
+      "specs": {
+        "Mount type": "龍骨錨定壁掛",
+        "Load capacity": "安裝後 136 公斤（300 磅）",
+        "Grip positions": "寬、中性、窄",
+        "Installation": "需鑽孔",
+        "Bar height": "依安裝高度可調",
+        "Price": "$329",
+        "Steel gauge": "重型管材"
+      },
+      "scores": {
+        "穩定性": 4.9,
+        "負重容量": 4.8,
+        "安裝便利性": 2.8,
+        "性價比": 4.2,
+        "握感舒適性": 4.7
+      }
     },
     {
       "offerId": "rogue-matador-pull-up-bar",
       "badge": "性能型健身房最佳",
       "review": "Rogue Matador 接裝於 Rogue 的 3 英吋安裝系統——深蹲架、訓練架或牆面橫樑——使其承重上限高於任何獨立桿所能提供的。額定可做擺盪式引體向上、負重漸進與屈伸上訓練，這類動作的瞬間作用力經常超過體重的 2 倍。並非獨立桿：Rogue 基礎設施是必要前提，這使它僅限於已在打造以架為核心配置的運動員。",
-      "pros": ["額定可做擺盪、負重引體與屈伸上訓練", "整合進 Rogue 的深蹲架生態系", "承重上限超越任何獨立壁掛或門框桿"],
-      "cons": ["需要既有的 Rogue 3 英吋安裝基礎設施——非獨立桿"],
+      "pros": [
+        "額定可做擺盪、負重引體與屈伸上訓練",
+        "整合進 Rogue 的深蹲架生態系",
+        "承重上限超越任何獨立壁掛或門框桿"
+      ],
+      "cons": [
+        "需要既有的 Rogue 3 英吋安裝基礎設施——非獨立桿"
+      ],
       "grade": "B+",
-      "specs": {"Mount type": "Rogue 3 英吋安裝系統", "Load capacity": "擺盪／動態額定", "Grip positions": "直桿（寬與反手）", "Installation": "需 Rogue 架或牆面橫樑", "Price": "$105.00", "Compatibility": "Rogue 深蹲架與訓練架", "Material": "鋼材"},
-      "scores": {"Stability": 5.0, "Load capacity": 5.0, "Ease of install": 2.5, "Value": 3.8, "Grip comfort": 4.4}
+      "specs": {
+        "Mount type": "Rogue 3 英吋安裝系統",
+        "Load capacity": "擺盪／動態額定",
+        "Grip positions": "直桿（寬與反手）",
+        "Installation": "需 Rogue 架或牆面橫樑",
+        "Price": "$105.00",
+        "Compatibility": "Rogue 深蹲架與訓練架",
+        "Material": "鋼材"
+      },
+      "scores": {
+        "穩定性": 5,
+        "負重容量": 5,
+        "安裝便利性": 2.5,
+        "性價比": 3.8,
+        "握感舒適性": 4.4
+      }
     },
     {
       "offerId": "prosourcefit-doorway-chinup",
       "badge": "最佳預算款",
       "review": "ProsourceFit 以更低的價格做與 Iron Gym 相同的工作——跨門安裝、免鑽孔、相容標準門框。標示的 120 公斤靜態額定值略低於 Iron Gym 的 136 公斤，這對體重較重的使用者會變得有意義。對於 100 公斤以下、輕度訓練頻率的嚴格徒手引體，它的表現相當。握把位置比 Iron Gym 少。",
-      "pros": ["功能型門框引體向上桿中價格最低", "免鑽孔、免工具——一分鐘內裝好", "120 公斤靜態承重涵蓋多數徒手使用者"],
-      "cons": ["握把位置比 Iron Gym 少——訓練多樣性較窄"],
+      "pros": [
+        "功能型門框引體向上桿中價格最低",
+        "免鑽孔、免工具——一分鐘內裝好",
+        "120 公斤靜態承重涵蓋多數徒手使用者"
+      ],
+      "cons": [
+        "握把位置比 Iron Gym 少——訓練多樣性較窄"
+      ],
       "grade": "B",
-      "specs": {"Mount type": "跨門槓桿", "Load capacity": "靜態 120 公斤（265 磅）", "Grip positions": "寬正手、窄", "Installation": "免工具", "Bar height": "約 200–210 公分", "Price": "$19.99", "Weight": "約 1.4 公斤"},
-      "scores": {"Stability": 4.0, "Load capacity": 3.8, "Ease of install": 5.0, "Value": 5.0, "Grip comfort": 4.1}
+      "specs": {
+        "Mount type": "跨門槓桿",
+        "Load capacity": "靜態 120 公斤（265 磅）",
+        "Grip positions": "寬正手、窄",
+        "Installation": "免工具",
+        "Bar height": "約 200–210 公分",
+        "Price": "$19.99",
+        "Weight": "約 1.4 公斤"
+      },
+      "scores": {
+        "穩定性": 4,
+        "負重容量": 3.8,
+        "安裝便利性": 5,
+        "性價比": 5,
+        "握感舒適性": 4.1
+      }
     },
     {
       "offerId": "gorilla-bow-pull-up-station",
       "badge": "租屋者最佳",
       "review": "Gorilla Bow 是本次比較中唯一不需要牆面、門框或天花板的選項——只要有足夠頭頂淨空的平坦處，它就能立起。在動態負載下，其穩定性低於任何壁掛桿，因為落地底座無法像牆面錨定那樣抵抗水平擺盪力。彈力帶整合對已經在用彈力帶訓練的買家是加分項，但如果你的空間允許，這並不構成捨棄壁掛桿而選它的理由。",
-      "pros": ["無須改裝房產——適用於公寓與租屋空間", "彈力帶整合，可做輔助引體漸進", "可重新擺放到任何平坦地面位置"],
-      "cons": ["穩定性低於任何壁掛桿——並非為擺盪或動態負載而設計"],
+      "pros": [
+        "無須改裝房產——適用於公寓與租屋空間",
+        "彈力帶整合，可做輔助引體漸進",
+        "可重新擺放到任何平坦地面位置"
+      ],
+      "cons": [
+        "穩定性低於任何壁掛桿——並非為擺盪或動態負載而設計"
+      ],
       "grade": "B-",
-      "specs": {"Mount type": "落地式框架", "Load capacity": "未針對動態負載額定", "Grip positions": "直桿", "Installation": "僅組裝、免鑽孔", "Footprint": "約 90×90 公分", "Price": "$199.00", "Band integration": "是"},
-      "scores": {"Stability": 3.4, "Load capacity": 3.2, "Ease of install": 4.8, "Value": 3.5, "Grip comfort": 4.0}
+      "specs": {
+        "Mount type": "落地式框架",
+        "Load capacity": "未針對動態負載額定",
+        "Grip positions": "直桿",
+        "Installation": "僅組裝、免鑽孔",
+        "Footprint": "約 90×90 公分",
+        "Price": "$199.00",
+        "Band integration": "是"
+      },
+      "scores": {
+        "穩定性": 3.4,
+        "負重容量": 3.2,
+        "安裝便利性": 4.8,
+        "性價比": 3.5,
+        "握感舒適性": 4
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "適合租屋者或首次購買者", "offerId": "iron-gym-total-body-bar", "reason": "免工具、不損壞、立即可用於任何標準門框——對於還沒有永久健身配置就想起步的人，這是恰當的引體向上桿。"},
-    {"label": "適合每週練引體 3 次以上的居家健身房擁有者", "offerId": "fitness-reality-810xlt", "reason": "龍骨錨定的穩定性與三種握把位置，使一次性的安裝投資對規律、高訓練量的引體訓練物有所值。"},
-    {"label": "適合預算有限的初學者", "offerId": "prosourcefit-doorway-chinup", "reason": "與 Iron Gym 相同的跨門概念而價格更低——對 100 公斤以下的嚴格徒手引體堪用。"},
-    {"label": "適合安排動態動作的 Rogue 架擁有者", "offerId": "rogue-matador-pull-up-bar", "reason": "整合進既有的 Rogue 基礎設施，是這裡唯一額定可做擺盪式引體向上與屈伸上訓練的選項。"},
-    {"label": "適合不能鑽孔或無法使用門框的公寓住戶", "offerId": "gorilla-bow-pull-up-station", "reason": "當居住狀況同時排除了壁掛與門框安裝時，落地式設計是唯一可行的選項。"}
+    {
+      "label": "適合租屋者或首次購買者",
+      "offerId": "iron-gym-total-body-bar",
+      "reason": "免工具、不損壞、立即可用於任何標準門框——對於還沒有永久健身配置就想起步的人，這是恰當的引體向上桿。"
+    },
+    {
+      "label": "適合每週練引體 3 次以上的居家健身房擁有者",
+      "offerId": "fitness-reality-810xlt",
+      "reason": "龍骨錨定的穩定性與三種握把位置，使一次性的安裝投資對規律、高訓練量的引體訓練物有所值。"
+    },
+    {
+      "label": "適合預算有限的初學者",
+      "offerId": "prosourcefit-doorway-chinup",
+      "reason": "與 Iron Gym 相同的跨門概念而價格更低——對 100 公斤以下的嚴格徒手引體堪用。"
+    },
+    {
+      "label": "適合安排動態動作的 Rogue 架擁有者",
+      "offerId": "rogue-matador-pull-up-bar",
+      "reason": "整合進既有的 Rogue 基礎設施，是這裡唯一額定可做擺盪式引體向上與屈伸上訓練的選項。"
+    },
+    {
+      "label": "適合不能鑽孔或無法使用門框的公寓住戶",
+      "offerId": "gorilla-bow-pull-up-station",
+      "reason": "當居住狀況同時排除了壁掛與門框安裝時，落地式設計是唯一可行的選項。"
+    }
   ]
 }

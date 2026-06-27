@@ -117,58 +117,173 @@
       "offerId": "withings-body-comp",
       "badge": "綜合最佳",
       "review": "Withings Body Comp 是本次比較中唯一透過脈搏波速度測量血管年齡的消費級體脂計——這是 BIA 本身無法提供的心血管健康指標。它的資料匯出政策（CSV 匯出、API 存取）在這群中最開放，且 Apple Health／Google Fit 同步可靠。用於體脂的足對足 BIA 與較便宜的體脂計屬同一 ±3-8% 準確度等級。",
-      "pros": ["唯一測量血管年齡（脈搏波速度）的體脂計", "最佳資料匯出政策——CSV 匯出與 API 存取", "可靠的 Apple Health 與 Google Fit 同步"],
-      "cons": ["足對足 BIA 體脂準確度與較便宜體脂計同為 ±3-8%"],
+      "pros": [
+        "唯一測量血管年齡（脈搏波速度）的體脂計",
+        "最佳資料匯出政策——CSV 匯出與 API 存取",
+        "可靠的 Apple Health 與 Google Fit 同步"
+      ],
+      "cons": [
+        "足對足 BIA 體脂準確度與較便宜體脂計同為 ±3-8%"
+      ],
       "grade": "A+",
-      "specs": {"Price": "高階", "BIA type": "足對足 + PWV 感測器", "Users": "8", "Connectivity": "Wi-Fi + 藍牙", "App": "Withings Health Mate", "Weight resolution": "0.05kg"},
-      "scores": {"Accuracy": 4.3, "App quality": 4.7, "Ease of use": 4.5, "Value": 3.5, "Metrics range": 5.0}
+      "specs": {
+        "Price": "高階",
+        "BIA type": "足對足 + PWV 感測器",
+        "Users": "8",
+        "Connectivity": "Wi-Fi + 藍牙",
+        "App": "Withings Health Mate",
+        "Weight resolution": "0.05kg"
+      },
+      "scores": {
+        "準確度": 4.3,
+        "應用品質": 4.7,
+        "使用便利性": 4.5,
+        "性價比": 3.5,
+        "指標範圍": 5
+      }
     },
     {
       "offerId": "garmin-index-s2",
       "badge": "Garmin 使用者最佳",
       "review": "Garmin Index S2 的生態系優勢真實且具體：身體組成數據直接出現在 Garmin Connect，與活動、睡眠及 HRV 指標並列——無需第三方橋接。對有多名運動員的家庭，支援 16 位使用者是真正的差異化。對非 Garmin 使用者，它是一台足對足 BIA 體脂計，準確度與更便宜的 Eufy 相同。",
-      "pros": ["身體組成直接同步至 Garmin Connect", "16 位同時使用者——最適合多運動員家庭", "Garmin 生態系無需第三方橋接"],
-      "cons": ["若不使用 Garmin 裝置，生態系溢價將完全消失"],
+      "pros": [
+        "身體組成直接同步至 Garmin Connect",
+        "16 位同時使用者——最適合多運動員家庭",
+        "Garmin 生態系無需第三方橋接"
+      ],
+      "cons": [
+        "若不使用 Garmin 裝置，生態系溢價將完全消失"
+      ],
       "grade": "A",
-      "specs": {"Price": "高階", "BIA type": "足對足", "Users": "16", "Connectivity": "Wi-Fi + 藍牙", "App": "Garmin Connect", "Weight resolution": "0.1kg"},
-      "scores": {"Accuracy": 4.1, "App quality": 4.5, "Ease of use": 4.5, "Value": 3.8, "Metrics range": 4.2}
+      "specs": {
+        "Price": "高階",
+        "BIA type": "足對足",
+        "Users": "16",
+        "Connectivity": "Wi-Fi + 藍牙",
+        "App": "Garmin Connect",
+        "Weight resolution": "0.1kg"
+      },
+      "scores": {
+        "準確度": 4.1,
+        "應用品質": 4.5,
+        "使用便利性": 4.5,
+        "性價比": 3.8,
+        "指標範圍": 4.2
+      }
     },
     {
       "offerId": "tanita-rd-906",
       "badge": "最佳 BIA 技術",
       "review": "Tanita RD-906 是本次比較中最嚴謹的消費級 BIA：InBody 授權的多頻四電極技術分別測量手臂、腿部與軀幹，而非從足對足阻抗估算上半身組成。在日本，Tanita 的臨床公信力——醫院與運動設施使用 Tanita 專業器材——對與醫療專業人員一同監測健康的使用者是真正的考量。",
-      "pros": ["多頻四電極 BIA 直接測量各身體部位", "InBody 授權技術——市面上最高的消費級 BIA 標準", "Tanita 在日本具備外國品牌無法匹敵的臨床公信力"],
-      "cons": ["每次測量都需握住手把電極——相較足部專用體脂計多一個步驟"],
+      "pros": [
+        "多頻四電極 BIA 直接測量各身體部位",
+        "InBody 授權技術——市面上最高的消費級 BIA 標準",
+        "Tanita 在日本具備外國品牌無法匹敵的臨床公信力"
+      ],
+      "cons": [
+        "每次測量都需握住手把電極——相較足部專用體脂計多一個步驟"
+      ],
       "grade": "B+",
-      "specs": {"Price": "高階", "BIA type": "多頻四電極（分段）", "Users": "5", "Connectivity": "藍牙", "App": "Health Planet（以日本為主）", "Weight resolution": "0.05kg"},
-      "scores": {"Accuracy": 4.8, "App quality": 3.5, "Ease of use": 3.8, "Value": 3.6, "Metrics range": 4.8}
+      "specs": {
+        "Price": "高階",
+        "BIA type": "多頻四電極（分段）",
+        "Users": "5",
+        "Connectivity": "藍牙",
+        "App": "Health Planet（以日本為主）",
+        "Weight resolution": "0.05kg"
+      },
+      "scores": {
+        "準確度": 4.8,
+        "應用品質": 3.5,
+        "使用便利性": 3.8,
+        "性價比": 3.6,
+        "指標範圍": 4.8
+      }
     },
     {
       "offerId": "xiaomi-body-composition-scale-2",
       "badge": "最佳預算之選",
       "review": "在親民價位，Xiaomi Mi Body Composition Scale 2 提供的體脂趨勢數據儘管誤差範圍寬，仍真正有用——即使絕對數字不可靠，數週間的變化方向是可信的。僅藍牙意味著測量時手機必須在附近，而 Xiaomi 在沒有長過渡期下停掉 App 的紀錄，是個合理的多年資料風險。",
-      "pros": ["體脂、BMI、肌肉量、骨量，價格親民", "乾淨俐落地藍牙同步至 Mi Fitness", "儘管誤差範圍寬，體脂趨勢追蹤仍有效"],
-      "cons": ["僅藍牙——量測時手機必須在附近"],
+      "pros": [
+        "體脂、BMI、肌肉量、骨量，價格親民",
+        "乾淨俐落地藍牙同步至 Mi Fitness",
+        "儘管誤差範圍寬，體脂趨勢追蹤仍有效"
+      ],
+      "cons": [
+        "僅藍牙——量測時手機必須在附近"
+      ],
       "grade": "B",
-      "specs": {"Price": "入門級", "BIA type": "足對足雙電極", "Users": "多人（App 設定檔）", "Connectivity": "藍牙", "App": "Mi Fitness", "Weight resolution": "0.05kg"},
-      "scores": {"Accuracy": 3.2, "App quality": 3.8, "Ease of use": 4.8, "Value": 5.0, "Metrics range": 3.5}
+      "specs": {
+        "Price": "入門級",
+        "BIA type": "足對足雙電極",
+        "Users": "多人（App 設定檔）",
+        "Connectivity": "藍牙",
+        "App": "Mi Fitness",
+        "Weight resolution": "0.05kg"
+      },
+      "scores": {
+        "準確度": 3.2,
+        "應用品質": 3.8,
+        "使用便利性": 4.8,
+        "性價比": 5,
+        "指標範圍": 3.5
+      }
     },
     {
       "offerId": "anker-eufy-smart-scale-p2-pro",
       "badge": "最佳中階性價比",
       "review": "Anker Eufy Smart Scale P2 Pro 命中務實的甜蜜點：Wi-Fi 同步（無需手機在附近）、Apple Health 與 Google Fit 整合，以及 16 項身體指標，成本僅為 Withings 與 Tanita 選項的四分之一。那 16 項指標多數來自同一組雙電極足對足 BIA 訊號——並非獨立測量——但對典型的健身追蹤者而言，體重與體脂趨勢數據才是重點。",
-      "pros": ["Wi-Fi 同步——量測時無需手機在附近", "以中階價格即具 Apple Health 與 Google Fit 整合", "Anker 在日本服務網絡強大（實體門市、直接支援）"],
-      "cons": ["16 項指標多數來自同一組 BIA 訊號——並非獨立測量"],
+      "pros": [
+        "Wi-Fi 同步——量測時無需手機在附近",
+        "以中階價格即具 Apple Health 與 Google Fit 整合",
+        "Anker 在日本服務網絡強大（實體門市、直接支援）"
+      ],
+      "cons": [
+        "16 項指標多數來自同一組 BIA 訊號——並非獨立測量"
+      ],
       "grade": "B-",
-      "specs": {"Price": "中階", "BIA type": "足對足四電極", "Users": "16", "Connectivity": "Wi-Fi + 藍牙", "App": "Eufy Life", "Weight resolution": "0.05kg"},
-      "scores": {"Accuracy": 4.0, "App quality": 4.1, "Ease of use": 4.7, "Value": 4.6, "Metrics range": 4.0}
+      "specs": {
+        "Price": "中階",
+        "BIA type": "足對足四電極",
+        "Users": "16",
+        "Connectivity": "Wi-Fi + 藍牙",
+        "App": "Eufy Life",
+        "Weight resolution": "0.05kg"
+      },
+      "scores": {
+        "準確度": 4,
+        "應用品質": 4.1,
+        "使用便利性": 4.7,
+        "性價比": 4.6,
+        "指標範圍": 4
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "適合心血管健康監測", "offerId": "withings-body-comp", "reason": "脈搏波速度（血管年齡）在消費級層面別處皆無——它增添了純 BIA 體脂計無法提供的心血管面向。"},
-    {"label": "適合 Garmin 手錶使用者", "offerId": "garmin-index-s2", "reason": "身體組成數據出現在 Garmin Connect，與你的活動及 HRV 並列，無需任何變通做法或橋接 App。"},
-    {"label": "適合與個人教練合作的使用者", "offerId": "tanita-rd-906", "reason": "日本的個人教練與運動醫學專業人員使用 Tanita 參考數據——RD-906 上的分段讀數與你的教練專業測量的結果一致。"},
-    {"label": "適合預算型體脂追蹤", "offerId": "xiaomi-body-composition-scale-2", "reason": "在親民價位，每週趨勢數據是有用的。請用它看數月的方向，而非任何特定一天的絕對讀數。"},
-    {"label": "適合多數沒有 Garmin 的家庭", "offerId": "anker-eufy-smart-scale-p2-pro", "reason": "Wi-Fi 同步、Apple Health 整合與 Anker 在日本的服務據點，在你不需要 Garmin 或臨床級 BIA 時提供最佳的功能價格比。"}
+    {
+      "label": "適合心血管健康監測",
+      "offerId": "withings-body-comp",
+      "reason": "脈搏波速度（血管年齡）在消費級層面別處皆無——它增添了純 BIA 體脂計無法提供的心血管面向。"
+    },
+    {
+      "label": "適合 Garmin 手錶使用者",
+      "offerId": "garmin-index-s2",
+      "reason": "身體組成數據出現在 Garmin Connect，與你的活動及 HRV 並列，無需任何變通做法或橋接 App。"
+    },
+    {
+      "label": "適合與個人教練合作的使用者",
+      "offerId": "tanita-rd-906",
+      "reason": "日本的個人教練與運動醫學專業人員使用 Tanita 參考數據——RD-906 上的分段讀數與你的教練專業測量的結果一致。"
+    },
+    {
+      "label": "適合預算型體脂追蹤",
+      "offerId": "xiaomi-body-composition-scale-2",
+      "reason": "在親民價位，每週趨勢數據是有用的。請用它看數月的方向，而非任何特定一天的絕對讀數。"
+    },
+    {
+      "label": "適合多數沒有 Garmin 的家庭",
+      "offerId": "anker-eufy-smart-scale-p2-pro",
+      "reason": "Wi-Fi 同步、Apple Health 整合與 Anker 在日本的服務據點，在你不需要 Garmin 或臨床級 BIA 時提供最佳的功能價格比。"
+    }
   ]
 }

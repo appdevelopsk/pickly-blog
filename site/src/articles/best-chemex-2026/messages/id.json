@@ -64,58 +64,168 @@
       "offerId": "chemex-6-cup-classic",
       "badge": "Pilihan Terbaik",
       "review": "Chemex 6 Cangkir Classic adalah titik awal yang tepat untuk sebagian besar rumah tangga — kaca borosilikat berbentuk jam pasir dengan kerah kayu dan tali kulit, menyeduh 850 ml (3 mug standar), dan menghasilkan kejernihan cangkir yang tidak tertandingi untuk kopi spesialti light roast. Filter eksklusif yang tebal adalah fitur utama sekaligus biaya berkelanjutannya. Untuk rumah tangga 1–2 orang yang menginginkan pengalaman Chemex tanpa kelebihan, inilah pilihannya.",
-      "pros": ["Kejernihan cangkir yang luar biasa — filter tebal menghilangkan minyak dan sedimen halus", "Kaca borosilikat tahan terhadap guncangan termal tanpa retak", "Kapasitas 850 ml ideal untuk rumah tangga 1–2 orang (3 mug standar)"],
-      "cons": ["Kerah kayu tidak aman untuk mesin cuci piring — memerlukan perawatan tangan"],
+      "pros": [
+        "Kejernihan cangkir yang luar biasa — filter tebal menghilangkan minyak dan sedimen halus",
+        "Kaca borosilikat tahan terhadap guncangan termal tanpa retak",
+        "Kapasitas 850 ml ideal untuk rumah tangga 1–2 orang (3 mug standar)"
+      ],
+      "cons": [
+        "Kerah kayu tidak aman untuk mesin cuci piring — memerlukan perawatan tangan"
+      ],
       "grade": "A+",
-      "specs": {"Kapasitas": "30 oz / 850 ml", "Material": "Kaca borosilikat", "Jenis filter": "Chemex bonded (eksklusif)", "Pegangan": "Kerah kayu + tali kulit", "Aman mesin cuci piring": "Tidak (kerah kayu)"},
-      "scores": {"Brew quality": 4.9, "Build quality": 4.7, "Ease of use": 4.3, "Value": 4.2, "Versatility": 3.8}
+      "specs": {
+        "Kapasitas": "30 oz / 850 ml",
+        "Material": "Kaca borosilikat",
+        "Jenis filter": "Chemex bonded (eksklusif)",
+        "Pegangan": "Kerah kayu + tali kulit",
+        "Aman mesin cuci piring": "Tidak (kerah kayu)"
+      },
+      "scores": {
+        "Kualitas Seduhan": 4.9,
+        "Kualitas Konstruksi": 4.7,
+        "Kemudahan Penggunaan": 4.3,
+        "Nilai": 4.2,
+        "Keserbagunaan": 3.8
+      }
     },
     {
       "offerId": "chemex-8-cup-classic",
       "badge": "Terbaik untuk Kelompok",
       "review": "8 Cangkir Classic menggunakan mekanik penyeduhan dan material yang identik dengan 6 Cangkir tetapi menyeduh hingga 1,1 L — cukup untuk 4–5 mug standar atau pengisian termos penuh. Satu-satunya perbedaan berarti adalah tinggi; karafe yang lebih tinggi menampung lebih banyak volume di bawah kerah tanpa memengaruhi ekstraksi. Jika Anda secara rutin menyeduh untuk 3+ orang atau batch-brew ke dalam termos, ini adalah ukuran yang tepat.",
-      "pros": ["Kapasitas 1,1 L — menyajikan 4–5 mug standar per seduhan", "Kaca borosilikat dan mekanik penyeduhan sama dengan 6 Cangkir", "Terbaik untuk batch brewing ke dalam termos"],
-      "cons": ["Profil lebih tinggi sedikit kurang stabil di meja yang penuh"],
+      "pros": [
+        "Kapasitas 1,1 L — menyajikan 4–5 mug standar per seduhan",
+        "Kaca borosilikat dan mekanik penyeduhan sama dengan 6 Cangkir",
+        "Terbaik untuk batch brewing ke dalam termos"
+      ],
+      "cons": [
+        "Profil lebih tinggi sedikit kurang stabil di meja yang penuh"
+      ],
       "grade": "A",
-      "specs": {"Kapasitas": "40 oz / 1,1 L", "Material": "Kaca borosilikat", "Jenis filter": "Chemex bonded (eksklusif)", "Pegangan": "Kerah kayu + tali kulit", "Aman mesin cuci piring": "Tidak (kerah kayu)"},
-      "scores": {"Brew quality": 4.9, "Build quality": 4.7, "Ease of use": 4.2, "Value": 4.0, "Versatility": 4.2}
+      "specs": {
+        "Kapasitas": "40 oz / 1,1 L",
+        "Material": "Kaca borosilikat",
+        "Jenis filter": "Chemex bonded (eksklusif)",
+        "Pegangan": "Kerah kayu + tali kulit",
+        "Aman mesin cuci piring": "Tidak (kerah kayu)"
+      },
+      "scores": {
+        "Kualitas Seduhan": 4.9,
+        "Kualitas Konstruksi": 4.7,
+        "Kemudahan Penggunaan": 4.2,
+        "Nilai": 4,
+        "Keserbagunaan": 4.2
+      }
     },
     {
       "offerId": "chemex-glass-handle",
       "badge": "Terbaik untuk Kemudahan Pembersihan",
       "review": "Glass Handle 8 Cangkir menggantikan kerah kayu dengan pegangan kaca cetakan — satu-satunya perubahan struktural, tetapi bermakna bagi siapa pun yang mencuci segalanya di mesin cuci piring. Performa penyeduhan identik dengan Classic; estetika lebih ramping dan kurang berkesan artisan. Jika kenyamanan mesin cuci piring penting dan Anda bagaimanapun membeli ukuran 8 cangkir, versi pegangan kaca adalah upgrade praktis.",
-      "pros": ["Sepenuhnya aman untuk mesin cuci piring — tidak perlu melepas kerah", "Performa penyeduhan identik dengan Classic", "Estetika lebih ramping — cocok di pengaturan dapur kontemporer"],
-      "cons": ["Estetika pegangan kaca kontroversial — kurang memiliki nuansa kerajinan dari kerah kayu"],
+      "pros": [
+        "Sepenuhnya aman untuk mesin cuci piring — tidak perlu melepas kerah",
+        "Performa penyeduhan identik dengan Classic",
+        "Estetika lebih ramping — cocok di pengaturan dapur kontemporer"
+      ],
+      "cons": [
+        "Estetika pegangan kaca kontroversial — kurang memiliki nuansa kerajinan dari kerah kayu"
+      ],
       "grade": "B+",
-      "specs": {"Kapasitas": "40 oz / 1,1 L", "Material": "Kaca borosilikat", "Jenis filter": "Chemex bonded (eksklusif)", "Pegangan": "Kaca cetakan (terintegrasi)", "Aman mesin cuci piring": "Ya (sepenuhnya)"},
-      "scores": {"Brew quality": 4.9, "Build quality": 4.5, "Ease of use": 4.7, "Value": 3.9, "Versatility": 4.2}
+      "specs": {
+        "Kapasitas": "40 oz / 1,1 L",
+        "Material": "Kaca borosilikat",
+        "Jenis filter": "Chemex bonded (eksklusif)",
+        "Pegangan": "Kaca cetakan (terintegrasi)",
+        "Aman mesin cuci piring": "Ya (sepenuhnya)"
+      },
+      "scores": {
+        "Kualitas Seduhan": 4.9,
+        "Kualitas Konstruksi": 4.5,
+        "Kemudahan Penggunaan": 4.7,
+        "Nilai": 3.9,
+        "Keserbagunaan": 4.2
+      }
     },
     {
       "offerId": "chemex-bonded-filters",
       "badge": "Konsumabel Esensial",
       "review": "Filter bonded Chemex tidak bisa dipertukarkan dengan filter keranjang atau kerucut standar — kertas eksklusif 20–30% lebih tebal, dilipat terlebih dahulu untuk diameter leher Chemex, dan dirancang khusus untuk laju aliran lebih lambat yang menghasilkan kejernihan cangkir khas Chemex. Membeli dalam kemasan 100 lembar menjaga biaya per filter tetap terjangkau; tersedia dalam putih dan alami (tidak diputihkan) — keduanya bekerja sama-sama baik setelah bilas yang tepat.",
-      "pros": ["Diperlukan untuk semua pembuat kopi Chemex — tidak ada pengganti yang ada", "Kemasan 100 lembar menjaga biaya per filter di bawah $0,12", "Tersedia dalam versi putih dan alami tidak diputihkan"],
-      "cons": ["Biaya berkelanjutan — sekitar $10–15 per 100 filter bertambah dengan penggunaan harian"],
+      "pros": [
+        "Diperlukan untuk semua pembuat kopi Chemex — tidak ada pengganti yang ada",
+        "Kemasan 100 lembar menjaga biaya per filter di bawah $0,12",
+        "Tersedia dalam versi putih dan alami tidak diputihkan"
+      ],
+      "cons": [
+        "Biaya berkelanjutan — sekitar $10–15 per 100 filter bertambah dengan penggunaan harian"
+      ],
       "grade": "B",
-      "specs": {"Jumlah": "100 filter", "Kompatibilitas": "Semua pembuat kopi Chemex", "Jenis": "Persegi atau lingkaran yang dilipat terlebih dahulu", "Versi": "Putih (diputihkan) dan alami (tidak diputihkan)", "Harga per filter": "~$0,10–0,15"},
-      "scores": {"Brew quality": 4.9, "Build quality": 4.0, "Ease of use": 4.5, "Value": 3.8, "Versatility": 2.5}
+      "specs": {
+        "Jumlah": "100 filter",
+        "Kompatibilitas": "Semua pembuat kopi Chemex",
+        "Jenis": "Persegi atau lingkaran yang dilipat terlebih dahulu",
+        "Versi": "Putih (diputihkan) dan alami (tidak diputihkan)",
+        "Harga per filter": "~$0,10–0,15"
+      },
+      "scores": {
+        "Kualitas Seduhan": 4.9,
+        "Kualitas Konstruksi": 4,
+        "Kemudahan Penggunaan": 4.5,
+        "Nilai": 3.8,
+        "Keserbagunaan": 2.5
+      }
     },
     {
       "offerId": "hario-v60-02",
       "badge": "Pembuat Kopi Alternatif Terbaik",
       "review": "V60 02 adalah alternatif utama Chemex — dripper pour-over untuk satu sajian dengan kerucut 60°, rusuk spiral, dan filter lebih tipis yang menghasilkan lebih banyak body dan aliran lebih cepat dari Chemex. Memerlukan server atau mug terpisah (tidak seperti desain all-in-one Chemex), dan penuangan yang lebih bergantung pada teknik. Untuk penyeduh berpengalaman yang menginginkan kontrol ekstraksi dan body cangkir di atas kejernihan ekstrem Chemex, V60 adalah pilihan yang lebih baik.",
-      "pros": ["Lebih banyak body dari Chemex — filter lebih tipis mempertahankan lebih banyak minyak", "Laju aliran lebih cepat memberikan lebih banyak kontrol atas ekstraksi", "Versi plastik seharga $25–35 hampir tidak bisa hancur"],
-      "cons": ["Memerlukan server atau mug terpisah — bukan wadah all-in-one seperti Chemex"],
+      "pros": [
+        "Lebih banyak body dari Chemex — filter lebih tipis mempertahankan lebih banyak minyak",
+        "Laju aliran lebih cepat memberikan lebih banyak kontrol atas ekstraksi",
+        "Versi plastik seharga $25–35 hampir tidak bisa hancur"
+      ],
+      "cons": [
+        "Memerlukan server atau mug terpisah — bukan wadah all-in-one seperti Chemex"
+      ],
       "grade": "B-",
-      "specs": {"Material": "Plastik (ukuran 02)", "Jenis filter": "Kertas V60 (lebih tipis dari Chemex)", "Sudut kerucut": "60°", "Kapasitas": "Satu sajian (1–2 cangkir)", "Server kompatibel": "Mug standar, server range Hario"},
-      "scores": {"Brew quality": 4.7, "Build quality": 3.8, "Ease of use": 3.5, "Value": 4.6, "Versatility": 4.8}
+      "specs": {
+        "Material": "Plastik (ukuran 02)",
+        "Jenis filter": "Kertas V60 (lebih tipis dari Chemex)",
+        "Sudut kerucut": "60°",
+        "Kapasitas": "Satu sajian (1–2 cangkir)",
+        "Server kompatibel": "Mug standar, server range Hario"
+      },
+      "scores": {
+        "Kualitas Seduhan": 4.7,
+        "Kualitas Konstruksi": 3.8,
+        "Kemudahan Penggunaan": 3.5,
+        "Nilai": 4.6,
+        "Keserbagunaan": 4.8
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk rumah tangga 1–2 orang", "offerId": "chemex-6-cup-classic", "reason": "Kapasitas 850 ml tepat untuk dua orang — tidak ada seduhan berlebih, dan estetika klasik cocok di dapur mana pun."},
-    {"label": "Untuk rumah tangga 3 orang atau lebih", "offerId": "chemex-8-cup-classic", "reason": "Kapasitas 1,1 L mencakup 4–5 mug per seduhan — menghilangkan kebutuhan untuk menyeduh dua kali bagi kelompok lebih besar."},
-    {"label": "Untuk rumah tangga yang bergantung pada mesin cuci piring", "offerId": "chemex-glass-handle", "reason": "Satu-satunya Chemex yang sepenuhnya aman untuk mesin cuci piring — tidak ada kerah yang perlu dilepas, tidak ada rutinitas perawatan tangan."},
-    {"label": "Untuk penyeduh pour-over berpengalaman", "offerId": "hario-v60-02", "reason": "Lebih banyak kontrol teknik dan body cangkir dibandingkan Chemex — alat yang tepat bagi mereka yang ingin menyempurnakan ekstraksi berdasarkan laju penuangan."},
-    {"label": "Untuk pemilik Chemex yang menimbun stok", "offerId": "chemex-bonded-filters", "reason": "Beli kemasan 100 lembar — ini adalah satu-satunya filter yang bekerja di Chemex dan Anda akan menggunakannya lebih cepat dari yang Anda perkirakan."}
+    {
+      "label": "Untuk rumah tangga 1–2 orang",
+      "offerId": "chemex-6-cup-classic",
+      "reason": "Kapasitas 850 ml tepat untuk dua orang — tidak ada seduhan berlebih, dan estetika klasik cocok di dapur mana pun."
+    },
+    {
+      "label": "Untuk rumah tangga 3 orang atau lebih",
+      "offerId": "chemex-8-cup-classic",
+      "reason": "Kapasitas 1,1 L mencakup 4–5 mug per seduhan — menghilangkan kebutuhan untuk menyeduh dua kali bagi kelompok lebih besar."
+    },
+    {
+      "label": "Untuk rumah tangga yang bergantung pada mesin cuci piring",
+      "offerId": "chemex-glass-handle",
+      "reason": "Satu-satunya Chemex yang sepenuhnya aman untuk mesin cuci piring — tidak ada kerah yang perlu dilepas, tidak ada rutinitas perawatan tangan."
+    },
+    {
+      "label": "Untuk penyeduh pour-over berpengalaman",
+      "offerId": "hario-v60-02",
+      "reason": "Lebih banyak kontrol teknik dan body cangkir dibandingkan Chemex — alat yang tepat bagi mereka yang ingin menyempurnakan ekstraksi berdasarkan laju penuangan."
+    },
+    {
+      "label": "Untuk pemilik Chemex yang menimbun stok",
+      "offerId": "chemex-bonded-filters",
+      "reason": "Beli kemasan 100 lembar — ini adalah satu-satunya filter yang bekerja di Chemex dan Anda akan menggunakannya lebih cepat dari yang Anda perkirakan."
+    }
   ]
 }

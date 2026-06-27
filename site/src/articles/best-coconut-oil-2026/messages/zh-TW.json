@@ -4,11 +4,31 @@
   "lede": "椰子油是少數標籤差異真正重要的食材之一。初榨對比精製不是行銷術語，它決定了發煙點、風味，以及是否還保有任何營養成分。這五款產品入選的理由是它們確實兌現了包裝上的承諾，而非擁有最上鏡的品牌形象。",
   "methodology": "從生產方式（冷壓 vs 機械壓榨 vs RBD精製）、發煙點、烹飪風味、原料純度及認證等維度進行比較，並重點考察有機認證和產地透明度——椰子易吸收農藥殘留，這一特性使產地透明度格外關鍵。",
   "recommendedFor": [
-    { "label": "高溫烹飪（大火翻炒、煎製）", "offerId": "coconut-oil-spectrum-organics", "reason": "有機精製，發煙點204°C，無椰子味，高溫下表現穩定" },
-    { "label": "防彈咖啡和冰沙", "offerId": "coconut-oil-nutiva-organic-virgin", "reason": "冷壓初榨風味烘托咖啡而不掩蓋" },
-    { "label": "日常烹飪性價比之選", "offerId": "coconut-oil-carrington-farms", "reason": "五款中每克售價最低的有機冷壓產品" },
-    { "label": "護膚與護髮", "offerId": "coconut-oil-viva-naturals-extra-virgin", "reason": "非精製冷壓，吸收好，無精製版本的油膩感" },
-    { "label": "生酮與MCT專注", "offerId": "coconut-oil-life-extension-coconut", "reason": "分餾型，C8/C10 MCT比例高，適合生酮代謝" }
+    {
+      "label": "高溫烹飪（大火翻炒、煎製）",
+      "offerId": "coconut-oil-spectrum-organics",
+      "reason": "有機精製，發煙點204°C，無椰子味，高溫下表現穩定"
+    },
+    {
+      "label": "防彈咖啡和冰沙",
+      "offerId": "coconut-oil-nutiva-organic-virgin",
+      "reason": "冷壓初榨風味烘托咖啡而不掩蓋"
+    },
+    {
+      "label": "日常烹飪性價比之選",
+      "offerId": "coconut-oil-carrington-farms",
+      "reason": "五款中每克售價最低的有機冷壓產品"
+    },
+    {
+      "label": "護膚與護髮",
+      "offerId": "coconut-oil-viva-naturals-extra-virgin",
+      "reason": "非精製冷壓，吸收好，無精製版本的油膩感"
+    },
+    {
+      "label": "生酮與MCT專注",
+      "offerId": "coconut-oil-life-extension-coconut",
+      "reason": "分餾型，C8/C10 MCT比例高，適合生酮代謝"
+    }
   ],
   "sections": [
     {
@@ -64,10 +84,10 @@
         "Serving size": "1湯匙 / 14克"
       },
       "scores": {
-        "Flavor": 5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 3.5
+        "風味": 5,
+        "純度": 5,
+        "性價比": 4,
+        "多功能性": 3.5
       }
     },
     {
@@ -93,10 +113,10 @@
         "Serving size": "1湯匙 / 14克"
       },
       "scores": {
-        "Flavor": 4.5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 4
+        "風味": 4.5,
+        "純度": 5,
+        "性價比": 4,
+        "多功能性": 4
       }
     },
     {
@@ -122,10 +142,10 @@
         "Serving size": "1湯匙 / 14克"
       },
       "scores": {
-        "Flavor": 3,
-        "Purity": 4.5,
-        "Value": 4,
-        "Versatility": 5
+        "風味": 3,
+        "純度": 4.5,
+        "性價比": 4,
+        "多功能性": 5
       }
     },
     {
@@ -152,10 +172,10 @@
         "MCT content": "每湯匙約7克C8/C10"
       },
       "scores": {
-        "Macro quality": 5,
-        "Satiety": 4,
-        "Value": 3.5,
-        "Versatility": 2
+        "巨量營養品質": 5,
+        "飽足感": 4,
+        "性價比": 3.5,
+        "多功能性": 2
       }
     },
     {
@@ -181,10 +201,10 @@
         "Serving size": "1湯匙 / 14克"
       },
       "scores": {
-        "Flavor": 4,
-        "Purity": 4.5,
-        "Value": 5,
-        "Versatility": 4
+        "風味": 4,
+        "純度": 4.5,
+        "性價比": 5,
+        "多功能性": 4
       }
     }
   ],

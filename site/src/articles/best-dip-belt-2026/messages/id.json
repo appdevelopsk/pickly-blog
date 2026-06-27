@@ -83,58 +83,166 @@
       "offerId": "rogue-dip-belt",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "Dibuat di Amerika dari webbing nilon 10mm dengan bantalan kulit 3 inci dan karabiner berrating. Di bawah piringan berat — 90 lbs ke atas — kulit mendistribusikan beban di tulang pinggul daripada menekan, dan hardware tetap bulat. Sifat pembelian sekali seumur hidup nyata: jahitan dan rantai bertahan bertahun-tahun lebih lama dari sabuk murah.",
-      "pros": ["Dibuat di Amerika, jahitan ganda di semua titik stres", "Bantalan kulit menyesuaikan dengan tubuh dari waktu ke waktu", "Karabiner berrating menangani beban serius tanpa berubah bentuk"],
-      "cons": ["Kulit kaku untuk beberapa sesi pertama sebelum menyesuaikan diri"],
+      "pros": [
+        "Dibuat di Amerika, jahitan ganda di semua titik stres",
+        "Bantalan kulit menyesuaikan dengan tubuh dari waktu ke waktu",
+        "Karabiner berrating menangani beban serius tanpa berubah bentuk"
+      ],
+      "cons": [
+        "Kulit kaku untuk beberapa sesi pertama sebelum menyesuaikan diri"
+      ],
       "grade": "A+",
-      "specs": {"Material": "Webbing nilon 10mm + bantalan kulit", "Chain length": "24 inci baja", "Pad width": "3 inci", "Hardware": "Karabiner baja berrating", "Origin": "Amerika"},
-      "scores": {"Build quality": 5.0, "Durability": 5.0, "Comfort": 4.5, "Load capacity": 5.0, "Value": 4.0}
+      "specs": {
+        "Material": "Webbing nilon 10mm + bantalan kulit",
+        "Chain length": "24 inci baja",
+        "Pad width": "3 inci",
+        "Hardware": "Karabiner baja berrating",
+        "Origin": "Amerika"
+      },
+      "scores": {
+        "Kualitas Konstruksi": 5,
+        "Ketahanan": 5,
+        "Kenyamanan": 4.5,
+        "Kapasitas Beban": 5,
+        "Nilai": 4
+      }
     },
     {
       "offerId": "dark-iron-fitness-dip-belt",
       "badge": "Kulit Anggaran Terbaik",
       "review": "Kulit asli dengan bantalan 6 inci — lebih lebar dari Rogue — yang membuat dip lebih nyaman karena berat duduk di paha atas. Rantai 30 inci menangani piringan Olimpik standar dan kapasitas 300 lbs lebih dari cukup. Pertukaran: membutuhkan 2-3 minggu penggunaan rutin untuk sepenuhnya menyesuaikan diri.",
-      "pros": ["Bantalan kulit 6 inci lebih lebar dari kebanyakan pesaing", "Rating kapasitas berat 300 lbs", "Menyesuaikan dengan tubuh lebih baik dari nilon setelah menyesuaikan diri"],
-      "cons": ["Kaku dan tidak nyaman untuk beberapa sesi pertama"],
+      "pros": [
+        "Bantalan kulit 6 inci lebih lebar dari kebanyakan pesaing",
+        "Rating kapasitas berat 300 lbs",
+        "Menyesuaikan dengan tubuh lebih baik dari nilon setelah menyesuaikan diri"
+      ],
+      "cons": [
+        "Kaku dan tidak nyaman untuk beberapa sesi pertama"
+      ],
       "grade": "A",
-      "specs": {"Material": "Kulit asli", "Chain length": "30 inci baja", "Pad width": "6 inci", "Weight capacity": "300 lbs", "Price": "$29.99"},
-      "scores": {"Build quality": 4.2, "Durability": 4.5, "Comfort": 4.3, "Load capacity": 4.8, "Value": 4.8}
+      "specs": {
+        "Material": "Kulit asli",
+        "Chain length": "30 inci baja",
+        "Pad width": "6 inci",
+        "Weight capacity": "300 lbs",
+        "Price": "$29.99"
+      },
+      "scores": {
+        "Kualitas Konstruksi": 4.2,
+        "Ketahanan": 4.5,
+        "Kenyamanan": 4.3,
+        "Kapasitas Beban": 4.8,
+        "Nilai": 4.8
+      }
     },
     {
       "offerId": "harbinger-dip-belt",
       "badge": "Anggaran Terbaik",
       "review": "Webbing polipropilen berkualitas tinggi dengan rantai baja 30 inci — standar de facto lantai gym. Bekerja tanpa keluhan untuk penambahan 25-75 lbs. Ring baja jauh lebih kuat dari ring stamped pada sabuk di bawah $20. Tidak senyaman kulit di bawah beban 100 lbs, tetapi seharga $25 ini adalah titik awal yang masuk akal sebelum berkomitmen pada premium.",
-      "pros": ["Digunakan di sebagian besar gym komersial — rekam jejak terbukti", "Ring baja jauh lebih kuat dari ring stamped murah", "Titik awal praktis seharga $25"],
-      "cons": ["Webbing polipropilen kurang nyaman dari kulit di bawah beban berat"],
+      "pros": [
+        "Digunakan di sebagian besar gym komersial — rekam jejak terbukti",
+        "Ring baja jauh lebih kuat dari ring stamped murah",
+        "Titik awal praktis seharga $25"
+      ],
+      "cons": [
+        "Webbing polipropilen kurang nyaman dari kulit di bawah beban berat"
+      ],
       "grade": "B+",
-      "specs": {"Material": "Webbing polipropilen", "Chain length": "30 inci baja", "Price": "$39.99", "Best for": "Penambahan 25-75 lbs"},
-      "scores": {"Build quality": 3.8, "Durability": 4.0, "Comfort": 3.5, "Load capacity": 4.0, "Value": 5.0}
+      "specs": {
+        "Material": "Webbing polipropilen",
+        "Chain length": "30 inci baja",
+        "Price": "$39.99",
+        "Best for": "Penambahan 25-75 lbs"
+      },
+      "scores": {
+        "Kualitas Konstruksi": 3.8,
+        "Ketahanan": 4,
+        "Kenyamanan": 3.5,
+        "Kapasitas Beban": 4,
+        "Nilai": 5
+      }
     },
     {
       "offerId": "fire-team-fit-dip-belt",
       "badge": "Terbaik untuk Kenyamanan",
       "review": "Bantalan neoprene lembut sejak hari pertama — tidak perlu periode penyesuaian. Gesper quick-release mempercepat transisi antara set, dan rantai 36 inci adalah yang terpanjang di sini, memberi ruang untuk beberapa piringan atau piringan bumper tebal. Berrating 300 lbs. Neoprene menyerap keringat jadi perlu dibilas sesekali di gym yang hangat.",
-      "pros": ["Neoprene lembut dari penggunaan pertama — tanpa penyesuaian", "Gesper quick-release mempercepat transisi", "Rantai 36 inci menampung piringan bumper tebal"],
-      "cons": ["Neoprene menyerap keringat; perlu pembilasan sesekali"],
+      "pros": [
+        "Neoprene lembut dari penggunaan pertama — tanpa penyesuaian",
+        "Gesper quick-release mempercepat transisi",
+        "Rantai 36 inci menampung piringan bumper tebal"
+      ],
+      "cons": [
+        "Neoprene menyerap keringat; perlu pembilasan sesekali"
+      ],
       "grade": "B",
-      "specs": {"Material": "Neoprene", "Chain length": "36 inci baja", "Pad width": "4 inci", "Weight capacity": "300 lbs", "Price": "$55.99"},
-      "scores": {"Build quality": 4.0, "Durability": 3.8, "Comfort": 4.8, "Load capacity": 4.5, "Value": 4.3}
+      "specs": {
+        "Material": "Neoprene",
+        "Chain length": "36 inci baja",
+        "Pad width": "4 inci",
+        "Weight capacity": "300 lbs",
+        "Price": "$55.99"
+      },
+      "scores": {
+        "Kualitas Konstruksi": 4,
+        "Ketahanan": 3.8,
+        "Kenyamanan": 4.8,
+        "Kapasitas Beban": 4.5,
+        "Nilai": 4.3
+      }
     },
     {
       "offerId": "mummyfit-dip-belt",
       "badge": "Nilai Terbaik",
       "review": "Neoprene anggaran dengan rantai 36 inci — panjang rantai yang sama dengan Fire Team Fit dengan harga sekitar setengahnya. Hardware lebih ringan dari Rogue atau Dark Iron, yang baik-baik saja di bawah 100 lbs tetapi perlu diperhatikan jika berencana mencapai 135+ lbs. Untuk pemula atau siapa saja yang menguji kalistenik berbeban, nilainya benar-benar bagus.",
-      "pros": ["Rantai 36 inci di bawah harga $30", "Bantalan neoprene lembut sejak hari pertama", "Titik masuk tanpa komitmen untuk dip berbobot"],
-      "cons": ["Hardware lebih ringan — tidak ideal untuk beban 135+ lbs"],
+      "pros": [
+        "Rantai 36 inci di bawah harga $30",
+        "Bantalan neoprene lembut sejak hari pertama",
+        "Titik masuk tanpa komitmen untuk dip berbobot"
+      ],
+      "cons": [
+        "Hardware lebih ringan — tidak ideal untuk beban 135+ lbs"
+      ],
       "grade": "B-",
-      "specs": {"Material": "Neoprene", "Chain length": "36 inci baja", "Price": "$25", "Best for": "Pemula, penambahan berat <100 lbs"},
-      "scores": {"Build quality": 3.3, "Durability": 3.5, "Comfort": 4.2, "Load capacity": 3.5, "Value": 5.0}
+      "specs": {
+        "Material": "Neoprene",
+        "Chain length": "36 inci baja",
+        "Price": "$25",
+        "Best for": "Pemula, penambahan berat <100 lbs"
+      },
+      "scores": {
+        "Kualitas Konstruksi": 3.3,
+        "Ketahanan": 3.5,
+        "Kenyamanan": 4.2,
+        "Kapasitas Beban": 3.5,
+        "Nilai": 5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk lifter serius yang menambahkan 90+ lbs", "offerId": "rogue-dip-belt", "reason": "Hardware buatan Amerika dan kulit yang tidak berubah bentuk atau menekan pada beban tinggi"},
-    {"label": "Untuk kenyamanan kulit dengan anggaran terbatas", "offerId": "dark-iron-fitness-dip-belt", "reason": "Bantalan kulit 6 inci lebih lebar dari Rogue dan harganya kurang dari setengah"},
-    {"label": "Untuk pemula yang menguji dip berbobot", "offerId": "harbinger-dip-belt", "reason": "Standar gym komersial — terbukti seharga $25 sebelum berkomitmen pada premium"},
-    {"label": "Untuk transisi cepat antar set", "offerId": "fire-team-fit-dip-belt", "reason": "Gesper quick-release dan neoprene lembut sejak hari pertama"},
-    {"label": "Untuk biaya masuk terendah", "offerId": "mummyfit-dip-belt", "reason": "Rantai 36 inci di bawah $30 — tanpa kerugian jika Anda memutuskan dip berbobot bukan untuk Anda"}
+    {
+      "label": "Untuk lifter serius yang menambahkan 90+ lbs",
+      "offerId": "rogue-dip-belt",
+      "reason": "Hardware buatan Amerika dan kulit yang tidak berubah bentuk atau menekan pada beban tinggi"
+    },
+    {
+      "label": "Untuk kenyamanan kulit dengan anggaran terbatas",
+      "offerId": "dark-iron-fitness-dip-belt",
+      "reason": "Bantalan kulit 6 inci lebih lebar dari Rogue dan harganya kurang dari setengah"
+    },
+    {
+      "label": "Untuk pemula yang menguji dip berbobot",
+      "offerId": "harbinger-dip-belt",
+      "reason": "Standar gym komersial — terbukti seharga $25 sebelum berkomitmen pada premium"
+    },
+    {
+      "label": "Untuk transisi cepat antar set",
+      "offerId": "fire-team-fit-dip-belt",
+      "reason": "Gesper quick-release dan neoprene lembut sejak hari pertama"
+    },
+    {
+      "label": "Untuk biaya masuk terendah",
+      "offerId": "mummyfit-dip-belt",
+      "reason": "Rantai 36 inci di bawah $30 — tanpa kerugian jika Anda memutuskan dip berbobot bukan untuk Anda"
+    }
   ]
 }

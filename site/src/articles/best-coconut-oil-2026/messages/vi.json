@@ -4,11 +4,31 @@
   "lede": "Dầu dừa là một trong những nguyên liệu mà sự khác biệt trên nhãn thực sự quan trọng. Nguyên chất so với tinh luyện không phải là marketing — nó quyết định điểm khói, hương vị và liệu còn lại bất kỳ hàm lượng dinh dưỡng nào không. Năm sản phẩm này được chọn vì chúng thực sự làm những gì ghi trên hũ, không phải vì có thương hiệu đẹp nhất.",
   "methodology": "Sản phẩm được so sánh về phương pháp sản xuất (ép lạnh vs. ép đùn vs. tinh luyện RBD), điểm khói, hương vị trong ứng dụng nấu ăn, độ tinh khiết thành phần và chứng nhận. Tình trạng hữu cơ và tính minh bạch nguồn gốc được đánh giá cao do đặc tính hấp thụ thuốc trừ sâu của dừa.",
   "recommendedFor": [
-    { "label": "Nấu ăn nhiệt độ cao (xào, áp chảo)", "offerId": "coconut-oil-spectrum-organics", "reason": "Tinh luyện hữu cơ với điểm khói 204°C — không có vị dừa, xử lý nhiệt cao tốt" },
-    { "label": "Cà phê bulletproof và sinh tố", "offerId": "coconut-oil-nutiva-organic-virgin", "reason": "Hương vị nguyên chất ép lạnh làm tôn lên cà phê mà không lấn át" },
-    { "label": "Nấu ăn hàng ngày tiết kiệm", "offerId": "coconut-oil-carrington-farms", "reason": "Ép lạnh hữu cơ với giá mỗi gram thấp nhất trong năm sản phẩm" },
-    { "label": "Chăm sóc da và tóc", "offerId": "coconut-oil-viva-naturals-extra-virgin", "reason": "Chưa tinh luyện, ép lạnh, hấp thụ tốt mà không có cảm giác nhờn của phiên bản tinh luyện" },
-    { "label": "Keto và tập trung MCT", "offerId": "coconut-oil-life-extension-coconut", "reason": "Phân đoạn với tỷ lệ C8/C10 MCT cao cho sản xuất ketone" }
+    {
+      "label": "Nấu ăn nhiệt độ cao (xào, áp chảo)",
+      "offerId": "coconut-oil-spectrum-organics",
+      "reason": "Tinh luyện hữu cơ với điểm khói 204°C — không có vị dừa, xử lý nhiệt cao tốt"
+    },
+    {
+      "label": "Cà phê bulletproof và sinh tố",
+      "offerId": "coconut-oil-nutiva-organic-virgin",
+      "reason": "Hương vị nguyên chất ép lạnh làm tôn lên cà phê mà không lấn át"
+    },
+    {
+      "label": "Nấu ăn hàng ngày tiết kiệm",
+      "offerId": "coconut-oil-carrington-farms",
+      "reason": "Ép lạnh hữu cơ với giá mỗi gram thấp nhất trong năm sản phẩm"
+    },
+    {
+      "label": "Chăm sóc da và tóc",
+      "offerId": "coconut-oil-viva-naturals-extra-virgin",
+      "reason": "Chưa tinh luyện, ép lạnh, hấp thụ tốt mà không có cảm giác nhờn của phiên bản tinh luyện"
+    },
+    {
+      "label": "Keto và tập trung MCT",
+      "offerId": "coconut-oil-life-extension-coconut",
+      "reason": "Phân đoạn với tỷ lệ C8/C10 MCT cao cho sản xuất ketone"
+    }
   ],
   "sections": [
     {
@@ -64,10 +84,10 @@
         "Serving size": "1 muỗng canh / 14 g"
       },
       "scores": {
-        "Flavor": 5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 3.5
+        "Hương vị": 5,
+        "Độ tinh khiết": 5,
+        "Giá trị": 4,
+        "Tính đa năng": 3.5
       }
     },
     {
@@ -93,10 +113,10 @@
         "Serving size": "1 muỗng canh / 14 g"
       },
       "scores": {
-        "Flavor": 4.5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 4
+        "Hương vị": 4.5,
+        "Độ tinh khiết": 5,
+        "Giá trị": 4,
+        "Tính đa năng": 4
       }
     },
     {
@@ -122,10 +142,10 @@
         "Serving size": "1 muỗng canh / 14 g"
       },
       "scores": {
-        "Flavor": 3,
-        "Purity": 4.5,
-        "Value": 4,
-        "Versatility": 5
+        "Hương vị": 3,
+        "Độ tinh khiết": 4.5,
+        "Giá trị": 4,
+        "Tính đa năng": 5
       }
     },
     {
@@ -152,10 +172,10 @@
         "MCT content": "~7 g C8/C10 mỗi muỗng canh"
       },
       "scores": {
-        "Macro quality": 5,
-        "Satiety": 4,
-        "Value": 3.5,
-        "Versatility": 2
+        "Chất lượng macro": 5,
+        "Cảm giác no": 4,
+        "Giá trị": 3.5,
+        "Tính đa năng": 2
       }
     },
     {
@@ -181,10 +201,10 @@
         "Serving size": "1 muỗng canh / 14 g"
       },
       "scores": {
-        "Flavor": 4,
-        "Purity": 4.5,
-        "Value": 5,
-        "Versatility": 4
+        "Hương vị": 4,
+        "Độ tinh khiết": 4.5,
+        "Giá trị": 5,
+        "Tính đa năng": 4
       }
     }
   ],

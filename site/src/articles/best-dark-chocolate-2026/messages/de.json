@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
-        "Texture": 4.8,
-        "Nutrition": 5
+        "Geschmack": 4.7,
+        "Beschaffung": 4.8,
+        "Wert": 4.7,
+        "Textur": 4.8,
+        "Ernährung": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
-        "Texture": 4,
-        "Nutrition": 4.7
+        "Geschmack": 4.4,
+        "Beschaffung": 4,
+        "Wert": 4.4,
+        "Textur": 4,
+        "Ernährung": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
-        "Texture": 4.2,
-        "Nutrition": 4.4
+        "Geschmack": 4.6,
+        "Beschaffung": 4.2,
+        "Wert": 4.1,
+        "Textur": 4.2,
+        "Ernährung": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
-        "Texture": 3.4,
-        "Nutrition": 4.1
+        "Geschmack": 3.8,
+        "Beschaffung": 3.9,
+        "Wert": 3.8,
+        "Textur": 3.4,
+        "Ernährung": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
-        "Texture": 3.6,
-        "Nutrition": 3.8
+        "Geschmack": 4,
+        "Beschaffung": 3.6,
+        "Wert": 4,
+        "Textur": 3.6,
+        "Ernährung": 3.8
       }
     }
   ],
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Für Puristen, die maximale Kakaointensität wollen",
+      "offerId": "lindt-excellence-90-cocoa",
+      "reason": "Ideal für erfahrene Liebhaber dunkler Schokolade, die eine zuverlässige Tafel mit vier Zutaten und anhaltend intensivem, bitterem Abgang suchen."
+    },
+    {
+      "label": "Für den günstigen Alltagsgenuss",
+      "offerId": "ghirardelli-midnight-reverie-86",
+      "reason": "Perfekt für Einsteiger in hochprozentige Schokolade und zum Backen, mit dunkler Kakaotiefe und zugleich angenehmer Zugänglichkeit."
+    },
+    {
+      "label": "Für ethische Herkunft ohne Aufpreis",
+      "offerId": "green-blacks-organic-dark-85",
+      "reason": "Großartig für alle, die Fairtrade-Bio-Kakao mit fruchtigem, weicherem Profil suchen, das 85%-Einsteigern entgegenkommt."
+    },
+    {
+      "label": "Für Käufer, denen die gesamte Lieferkette wichtig ist",
+      "offerId": "theo-chocolate-organic-85",
+      "reason": "Perfekt für alle, die Bean-to-Bar-Transparenz und ein komplexes Aroma aus Walnuss und Kirsche aus rückverfolgbarem Kakao schätzen."
+    },
+    {
+      "label": "Für vegane und umweltbewusste Schokoladenliebhaber",
+      "offerId": "alter-eco-deep-dark-blackout-85",
+      "reason": "Am besten für vegane, umweltbewusste Käufer, die vollständig biologische Fairtrade-Schokolade wollen, die auch beim Backen glänzt."
+    }
+  ]
 }

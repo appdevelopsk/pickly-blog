@@ -64,58 +64,169 @@
       "offerId": "rishi-masala-chai",
       "badge": "En İyi Genel",
       "review": "Rishi Masala Chai kıyaslama noktası yaprak masala chai'dir — kakule baklaları, bütün tarçın kırıkları, zencefil, karabiber ve karanfille Assam tabanından, poşet çayın tekrarlayamadığı katmanlı baharat profili. Çiftlik kaynaklı temin, maltlı, burukluk içermeyen çay tabanında kendini gösteriyor. 30 saniyelik süzme adımı tek engeldir ve ciddi chai içiciler için buna değer.",
-      "pros": ["Bütün baharatlar, önceden öğütülmüş poşet çaylarda bulunmayan katmanlı aromalar üretir", "Çiftlik kaynaklı Assam tabanı — maltlı, karmaşık, acı değil", "Poşet başına 18–22 porsiyon — kaliteli poşet çayla karşılaştırılabilir maliyet"],
-      "cons": ["Süzgeç gerektirir — poşet veya konsantreye kıyasla bir ekstra adım"],
+      "pros": [
+        "Bütün baharatlar, önceden öğütülmüş poşet çaylarda bulunmayan katmanlı aromalar üretir",
+        "Çiftlik kaynaklı Assam tabanı — maltlı, karmaşık, acı değil",
+        "Poşet başına 18–22 porsiyon — kaliteli poşet çayla karşılaştırılabilir maliyet"
+      ],
+      "cons": [
+        "Süzgeç gerektirir — poşet veya konsantreye kıyasla bir ekstra adım"
+      ],
       "grade": "A+",
-      "specs": {"Format": "Yaprak çay", "Çay tabanı": "Assam siyah çay", "Porsiyonlar": "2.82 oz poşet başına 18–22", "Baskın baharat": "Kakule", "Porsiyon başına fiyat": "$0.60–0.80"},
-      "scores": {"Taste": 4.9, "Quality": 4.8, "Value": 4.2, "Convenience": 3.2, "Versatility": 4.5}
+      "specs": {
+        "Format": "Yaprak çay",
+        "Çay tabanı": "Assam siyah çay",
+        "Porsiyonlar": "2.82 oz poşet başına 18–22",
+        "Baskın baharat": "Kakule",
+        "Porsiyon başına fiyat": "$0.60–0.80"
+      },
+      "scores": {
+        "Tat": 4.9,
+        "Kalite": 4.8,
+        "Değer": 4.2,
+        "Kolaylık": 3.2,
+        "Çok Yönlülük": 4.5
+      }
     },
     {
       "offerId": "harney-sons-hot-cinnamon-spice",
       "badge": "En İyi Baharatlı Siyah Çay",
       "review": "Hot Cinnamon Spice geleneksel masala chai değildir — üç çeşit tarçın, portakal kabuğu ve tatlı karanfille hazırlanmış siyah çaydır. Bu farkı anlamak önemlidir: Güney Asya masala chai istiyorsanız bu yanlış üründür. Sütte bir gecede güzelce soğuk demlenen ısıtıcı, yoğun tarçın ağırlıklı baharatlı çay istiyorsanız, kendi kategorisindeki en iyilerden biridir.",
-      "pros": ["Yoğun tarçın ağırlıklı — baharat karmaşıklığı olmadan kalabalığı memnun eder", "Sabah buzlu chai için sütte bir gecede soğuk demleme için mükemmel", "Kutu başına 50 poşet — $10–14'te güçlü değer"],
-      "cons": ["Geleneksel masala chai değil — zencefil yok, minimal kakule"],
+      "pros": [
+        "Yoğun tarçın ağırlıklı — baharat karmaşıklığı olmadan kalabalığı memnun eder",
+        "Sabah buzlu chai için sütte bir gecede soğuk demleme için mükemmel",
+        "Kutu başına 50 poşet — $10–14'te güçlü değer"
+      ],
+      "cons": [
+        "Geleneksel masala chai değil — zencefil yok, minimal kakule"
+      ],
       "grade": "A",
-      "specs": {"Format": "Poşet çay (50 adet)", "Çay tabanı": "Siyah çay", "Baskın baharat": "Üçlü tarçın + portakal kabuğu + karanfil", "Poşet başına fiyat": "$0.20–0.28", "Soğuk demleme": "Evet — mükemmel"},
-      "scores": {"Taste": 4.7, "Quality": 4.5, "Value": 4.6, "Convenience": 4.8, "Versatility": 4.0}
+      "specs": {
+        "Format": "Poşet çay (50 adet)",
+        "Çay tabanı": "Siyah çay",
+        "Baskın baharat": "Üçlü tarçın + portakal kabuğu + karanfil",
+        "Poşet başına fiyat": "$0.20–0.28",
+        "Soğuk demleme": "Evet — mükemmel"
+      },
+      "scores": {
+        "Tat": 4.7,
+        "Kalite": 4.5,
+        "Değer": 4.6,
+        "Kolaylık": 4.8,
+        "Çok Yönlülük": 4
+      }
     },
     {
       "offerId": "tazo-chai-concentrate",
       "badge": "En İyi Bütçe Konsantresi",
       "review": "Tazo Chai Concentrate, evde chai latte yapmanın bütçe dostu yoludur — sıcak sütle 1:1 karıştırın, bitti. Tatlı-baharatlı sonuç tutarlıdır ve çok daha düşük maliyetle kahveci chai'yi yaklaştırır. Yaprak çaydan belirgin şekilde daha tatlı ve daha az karmaşık, ancak hızlı hafta içi sabah içeceği için güvenilir biçimde işe yarar.",
-      "pros": ["Ana akım marketlerde yaygın olarak bulunur", "Her seferinde tutarlı, öngörülebilir tatlı-baharatlı lezzet", "32 oz için $5–8'de düşük porsiyon başına maliyet"],
-      "cons": ["Yaprak çaydan daha az nüanslı — baharat derinliği sınırlı", "Yaprak veya poşetten demlemekten daha yüksek şeker içeriği"],
+      "pros": [
+        "Ana akım marketlerde yaygın olarak bulunur",
+        "Her seferinde tutarlı, öngörülebilir tatlı-baharatlı lezzet",
+        "32 oz için $5–8'de düşük porsiyon başına maliyet"
+      ],
+      "cons": [
+        "Yaprak çaydan daha az nüanslı — baharat derinliği sınırlı",
+        "Yaprak veya poşetten demlemekten daha yüksek şeker içeriği"
+      ],
       "grade": "B+",
-      "specs": {"Format": "Sıvı konsantre (32 oz)", "Karışım oranı": "Sütle 1:1", "Porsiyonlar": "Kutu başına ~16", "Porsiyon başına fiyat": "$0.31–0.50", "Şeker": "Orta (ilave şeker kamışı)"},
-      "scores": {"Taste": 3.9, "Quality": 3.6, "Value": 4.5, "Convenience": 4.9, "Versatility": 3.5}
+      "specs": {
+        "Format": "Sıvı konsantre (32 oz)",
+        "Karışım oranı": "Sütle 1:1",
+        "Porsiyonlar": "Kutu başına ~16",
+        "Porsiyon başına fiyat": "$0.31–0.50",
+        "Şeker": "Orta (ilave şeker kamışı)"
+      },
+      "scores": {
+        "Tat": 3.9,
+        "Kalite": 3.6,
+        "Değer": 4.5,
+        "Kolaylık": 4.9,
+        "Çok Yönlülük": 3.5
+      }
     },
     {
       "offerId": "oregon-chai-original-concentrate",
       "badge": "En İyi Kafe Latte Replikası",
       "review": "Oregon Chai Original, chai latte konsantreleri için piyasa standardıdır — tatlı, kakule ağırlıklı, evde Starbucks chai gibi tatması için tasarlanmış. Tam 1:1 oranında tatlılık belirgindir (servis başına 15g şeker); pek çok kullanıcı daha iyi denge için 1:2 konsantre-süt oranını tercih eder. Daha özelleştirilebilir bir bardak için bağımsız tatlandırıcı kontrolüne olanak tanıyan Şekersiz versiyon mevcuttur.",
-      "pros": ["Evde en doğru kahveci chai latte replikasyonu", "Şekersiz versiyon dahil yaygın olarak bulunur", "Latte içicilerin tercih ettiği kakule ağırlıklı baharat profili"],
-      "cons": ["Standart oranda servis başına 15g şeker — şekersiz versiyonla ayarlayın"],
+      "pros": [
+        "Evde en doğru kahveci chai latte replikasyonu",
+        "Şekersiz versiyon dahil yaygın olarak bulunur",
+        "Latte içicilerin tercih ettiği kakule ağırlıklı baharat profili"
+      ],
+      "cons": [
+        "Standart oranda servis başına 15g şeker — şekersiz versiyonla ayarlayın"
+      ],
       "grade": "B",
-      "specs": {"Format": "Sıvı konsantre (32 oz)", "Karışım oranı": "Sütle 1:1 (veya daha az tatlı için 1:2)", "Porsiyonlar": "Kutu başına ~16", "Şeker": "Servis başına 15g (standart)", "Şekersiz": "Mevcut"},
-      "scores": {"Taste": 4.1, "Quality": 3.7, "Value": 4.3, "Convenience": 4.9, "Versatility": 3.8}
+      "specs": {
+        "Format": "Sıvı konsantre (32 oz)",
+        "Karışım oranı": "Sütle 1:1 (veya daha az tatlı için 1:2)",
+        "Porsiyonlar": "Kutu başına ~16",
+        "Şeker": "Servis başına 15g (standart)",
+        "Şekersiz": "Mevcut"
+      },
+      "scores": {
+        "Tat": 4.1,
+        "Kalite": 3.7,
+        "Değer": 4.3,
+        "Kolaylık": 4.9,
+        "Çok Yönlülük": 3.8
+      }
     },
     {
       "offerId": "david-rio-elephant-vanilla-chai",
       "badge": "En Pratik Format",
       "review": "David Rio Elephant Vanilla Chai tozu en zahmetsiz chai formatıdır: sıcak süte kaşık kadar koyun, karıştırın, bitti — demleme yok, soğutulmuş konsantre yok, buharlama yok. Vanilya ağırlıklı profil, geleneksel masala chai'den daha yumuşak ve daha tatlıdır, bu da erişilebilir ama otantik olmayan yapar. Seyahat, ofis kullanımı veya sıfır kurulumla chai benzeri içecek isteyen herkes için ideal.",
-      "pros": ["Sıfır hazırlık — doğrudan sıcak sütte çözünür", "Soğutma gerekmez — seyahat ve ofis dostu", "Daha yumuşak, vanilya ağırlıklı baharat profili yeni başlayanlar için uygundur"],
-      "cons": ["En az otantik masala chai lezzeti — vanilya geleneksel baharat dengesine hâkim olur"],
+      "pros": [
+        "Sıfır hazırlık — doğrudan sıcak sütte çözünür",
+        "Soğutma gerekmez — seyahat ve ofis dostu",
+        "Daha yumuşak, vanilya ağırlıklı baharat profili yeni başlayanlar için uygundur"
+      ],
+      "cons": [
+        "En az otantik masala chai lezzeti — vanilya geleneksel baharat dengesine hâkim olur"
+      ],
       "grade": "B-",
-      "specs": {"Format": "Toz (16 oz)", "Porsiyonlar": "Poşet başına 16–20", "Baskın lezzet": "Vanilya", "Hazırlama yöntemi": "Sıcak süt/suda çözün", "Porsiyon başına fiyat": "$0.75–1.25"},
-      "scores": {"Taste": 4.0, "Quality": 3.5, "Value": 3.8, "Convenience": 5.0, "Versatility": 3.2}
+      "specs": {
+        "Format": "Toz (16 oz)",
+        "Porsiyonlar": "Poşet başına 16–20",
+        "Baskın lezzet": "Vanilya",
+        "Hazırlama yöntemi": "Sıcak süt/suda çözün",
+        "Porsiyon başına fiyat": "$0.75–1.25"
+      },
+      "scores": {
+        "Tat": 4,
+        "Kalite": 3.5,
+        "Değer": 3.8,
+        "Kolaylık": 5,
+        "Çok Yönlülük": 3.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Geleneksel masala chai içiciler için", "offerId": "rishi-masala-chai", "reason": "Gerçek Assam tabanlı bütün baharat yaprak çayı — burada Güney Asya chai geleneğine yakın bir bardak üretebilen tek seçenek."},
-    {"label": "Soğuk demlemeli buzlu chai severleri için", "offerId": "harney-sons-hot-cinnamon-spice", "reason": "Yoğun tarçın ağırlıklı ve sütte bir gecede soğuk demlendiğinde güzel — doğal tatlı, pürüzsüz buzlu chai üretir."},
-    {"label": "Hızlı hafta içi chai latte için", "offerId": "tazo-chai-concentrate", "reason": "En ucuz, en erişilebilir konsantre — 60 saniyede sıcak sütle karıştırın."},
-    {"label": "Kahveci chai'yi taklit etmek için", "offerId": "oregon-chai-original-concentrate", "reason": "Kakule-tatlı profil, kafe chai latte tadına en yakın — standart oran çok tatlıysa 1:2 kullanın."},
-    {"label": "Seyahat ve sıfır hazırlık durumları için", "offerId": "david-rio-elephant-vanilla-chai", "reason": "Toz herhangi bir sıcak sütte çözünür — soğutma yok, demleme yok, her yerde işe yarar."}
+    {
+      "label": "Geleneksel masala chai içiciler için",
+      "offerId": "rishi-masala-chai",
+      "reason": "Gerçek Assam tabanlı bütün baharat yaprak çayı — burada Güney Asya chai geleneğine yakın bir bardak üretebilen tek seçenek."
+    },
+    {
+      "label": "Soğuk demlemeli buzlu chai severleri için",
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "reason": "Yoğun tarçın ağırlıklı ve sütte bir gecede soğuk demlendiğinde güzel — doğal tatlı, pürüzsüz buzlu chai üretir."
+    },
+    {
+      "label": "Hızlı hafta içi chai latte için",
+      "offerId": "tazo-chai-concentrate",
+      "reason": "En ucuz, en erişilebilir konsantre — 60 saniyede sıcak sütle karıştırın."
+    },
+    {
+      "label": "Kahveci chai'yi taklit etmek için",
+      "offerId": "oregon-chai-original-concentrate",
+      "reason": "Kakule-tatlı profil, kafe chai latte tadına en yakın — standart oran çok tatlıysa 1:2 kullanın."
+    },
+    {
+      "label": "Seyahat ve sıfır hazırlık durumları için",
+      "offerId": "david-rio-elephant-vanilla-chai",
+      "reason": "Toz herhangi bir sıcak sütte çözünür — soğutma yok, demleme yok, her yerde işe yarar."
+    }
   ]
 }

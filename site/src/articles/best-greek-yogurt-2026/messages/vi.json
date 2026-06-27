@@ -67,58 +67,178 @@
       "offerId": "fage-total-0",
       "badge": "Tốt Nhất Tổng Thể",
       "review": "Fage Total 0% thiết lập tiêu chuẩn cho sữa chua Hy Lạp chính thống với 18-19g protein mỗi 200g và chỉ 2 thành phần — không chất làm đặc, không pectin, kết cấu hoàn toàn từ lọc. Hương vị chua và sắc hơn các thương hiệu Mỹ, đây là đặc điểm chứ không phải nhược điểm đối với những ai muốn sản phẩm thực sự.",
-      "pros": ["18-19g protein mỗi 200g — protein không béo cao nhất trên thị trường phổ thông", "Chỉ 2 thành phần, không chất làm đặc hoặc phụ gia", "Kết cấu đặc giữ nguyên hình dạng khi múc"],
-      "cons": ["Vị chua sắc hơn có thể cần điều chỉnh cho những ai quen với thương hiệu nhẹ hơn"],
+      "pros": [
+        "18-19g protein mỗi 200g — protein không béo cao nhất trên thị trường phổ thông",
+        "Chỉ 2 thành phần, không chất làm đặc hoặc phụ gia",
+        "Kết cấu đặc giữ nguyên hình dạng khi múc"
+      ],
+      "cons": [
+        "Vị chua sắc hơn có thể cần điều chỉnh cho những ai quen với thương hiệu nhẹ hơn"
+      ],
       "grade": "A+",
-      "specs": {"Serving": "200g", "Protein": "18-19g", "Fat": "0%", "Sugar": "~8g tự nhiên", "Ingredients": "2", "Certifications": "Halal", "Price": "~$7.49"},
-      "scores": {"Protein": 4.9, "Taste": 4.5, "Value": 4.3, "Texture": 4.8, "Ingredient quality": 4.9}
+      "specs": {
+        "Serving": "200g",
+        "Protein": "18-19g",
+        "Fat": "0%",
+        "Sugar": "~8g tự nhiên",
+        "Ingredients": "2",
+        "Certifications": "Halal",
+        "Price": "~$7.49"
+      },
+      "scores": {
+        "Protein": 4.9,
+        "Vị": 4.5,
+        "Giá trị": 4.3,
+        "Kết cấu": 4.8,
+        "Chất lượng nguyên liệu": 4.9
+      }
     },
     {
       "offerId": "chobani-plain-nonfat",
       "badge": "Giá Trị Hàng Ngày Tốt Nhất",
       "review": "Chobani Plain Non-Fat là lựa chọn chính của danh mục — đặc nhưng không quá dày, vị chua sạch, và 15g protein mỗi cốc 150g với chỉ 3 thành phần. Hộp 900g là giá trị protein tốt nhất mỗi gram trong cửa hàng tạp hóa phổ thông.",
-      "pros": ["Công thức 3 thành phần không có đường thêm", "Hộp 900g mang lại giá trị chi phí protein trên gram xuất sắc", "Thực sự đa năng trong nấu ăn và sinh tố"],
-      "cons": ["Phiên bản không béo có carbohydrate cao hơn một chút so với 2% do loại bỏ chất béo tập trung đường sữa"],
+      "pros": [
+        "Công thức 3 thành phần không có đường thêm",
+        "Hộp 900g mang lại giá trị chi phí protein trên gram xuất sắc",
+        "Thực sự đa năng trong nấu ăn và sinh tố"
+      ],
+      "cons": [
+        "Phiên bản không béo có carbohydrate cao hơn một chút so với 2% do loại bỏ chất béo tập trung đường sữa"
+      ],
       "grade": "A",
-      "specs": {"Serving": "150g", "Protein": "15g", "Fat": "0%", "Sugar": "~6g tự nhiên", "Ingredients": "3", "Tub size": "Có hộp 900g", "Price": "~$6.98"},
-      "scores": {"Protein": 4.5, "Taste": 4.4, "Value": 4.8, "Texture": 4.3, "Ingredient quality": 4.6}
+      "specs": {
+        "Serving": "150g",
+        "Protein": "15g",
+        "Fat": "0%",
+        "Sugar": "~6g tự nhiên",
+        "Ingredients": "3",
+        "Tub size": "Có hộp 900g",
+        "Price": "~$6.98"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Vị": 4.4,
+        "Giá trị": 4.8,
+        "Kết cấu": 4.3,
+        "Chất lượng nguyên liệu": 4.6
+      }
     },
     {
       "offerId": "siggis-icelandic-yogurt",
       "badge": "Ít Đường Nhất",
       "review": "Sữa chua kiểu skyr của Siggi's cung cấp 17g protein mỗi 150g với chỉ 6g carbohydrate — tỷ lệ đường trên protein thấp nhất trong so sánh này. Kết cấu đặc hơn sữa chua Hy Lạp, gần như có thể phết, và hương vị chua hơn rõ rệt.",
-      "pros": ["Chỉ 6g tổng carbohydrate mỗi cốc 150g", "17g protein với đường thêm rất thấp trong toàn bộ dòng có hương vị", "Mật độ skyr độc đáo hoạt động như chất thay thế kem phô mai trên bánh mì nướng"],
-      "cons": ["Hương vị chua rõ rệt là khẩu vị cần phải học"],
+      "pros": [
+        "Chỉ 6g tổng carbohydrate mỗi cốc 150g",
+        "17g protein với đường thêm rất thấp trong toàn bộ dòng có hương vị",
+        "Mật độ skyr độc đáo hoạt động như chất thay thế kem phô mai trên bánh mì nướng"
+      ],
+      "cons": [
+        "Hương vị chua rõ rệt là khẩu vị cần phải học"
+      ],
       "grade": "B+",
-      "specs": {"Serving": "150g", "Protein": "17g", "Fat": "0%", "Total carbs": "6g", "Style": "Skyr Iceland", "Sweetener": "Không có (tự nhiên)", "Price": "~$6.49"},
-      "scores": {"Protein": 4.7, "Taste": 4.0, "Value": 4.0, "Texture": 4.6, "Ingredient quality": 4.7}
+      "specs": {
+        "Serving": "150g",
+        "Protein": "17g",
+        "Fat": "0%",
+        "Total carbs": "6g",
+        "Style": "Skyr Iceland",
+        "Sweetener": "Không có (tự nhiên)",
+        "Price": "~$6.49"
+      },
+      "scores": {
+        "Protein": 4.7,
+        "Vị": 4,
+        "Giá trị": 4,
+        "Kết cấu": 4.6,
+        "Chất lượng nguyên liệu": 4.7
+      }
     },
     {
       "offerId": "oikos-triple-zero",
       "badge": "Lựa Chọn Có Hương Vị Tốt Nhất",
       "review": "Oikos Triple Zero đạt 15g protein ở 90 calo với không đường thêm, không chất tạo ngọt nhân tạo, và không béo — sử dụng chiết xuất quả monk trong các loại có hương vị. Đối với những người theo dõi macro muốn sữa chua có hương vị mà không có stevia hay sucralose, đây là lựa chọn phổ thông duy nhất.",
-      "pros": ["Không đường thêm, không chất tạo ngọt nhân tạo, không béo trong dòng có hương vị", "Được làm ngọt bằng quả monk — không stevia hay sucralose", "15g protein ở 90 calo"],
-      "cons": ["Một số loại có hương vị bao gồm chất xơ từ rễ chicory (kiểm tra nhãn nếu nhạy cảm)"],
+      "pros": [
+        "Không đường thêm, không chất tạo ngọt nhân tạo, không béo trong dòng có hương vị",
+        "Được làm ngọt bằng quả monk — không stevia hay sucralose",
+        "15g protein ở 90 calo"
+      ],
+      "cons": [
+        "Một số loại có hương vị bao gồm chất xơ từ rễ chicory (kiểm tra nhãn nếu nhạy cảm)"
+      ],
       "grade": "B",
-      "specs": {"Serving": "150g", "Protein": "15g", "Fat": "0%", "Carbs": "7g", "Added sugar": "0g", "Sweetener": "Quả monk", "Price": "~$1.49"},
-      "scores": {"Protein": 4.5, "Taste": 4.2, "Value": 4.9, "Texture": 4.1, "Ingredient quality": 4.2}
+      "specs": {
+        "Serving": "150g",
+        "Protein": "15g",
+        "Fat": "0%",
+        "Carbs": "7g",
+        "Added sugar": "0g",
+        "Sweetener": "Quả monk",
+        "Price": "~$1.49"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Vị": 4.2,
+        "Giá trị": 4.9,
+        "Kết cấu": 4.1,
+        "Chất lượng nguyên liệu": 4.2
+      }
     },
     {
       "offerId": "stonyfield-organic-greek",
       "badge": "Tốt Nhất về Nguồn Gốc",
       "review": "Stonyfield Organic là lựa chọn khi chứng nhận và nguồn gốc quan trọng: được chứng nhận hữu cơ USDA, sữa từ bò chăn thả, và năm chủng probiotic sống được đặt tên trên nhãn. Protein 14-15g mỗi khẩu phần thấp hơn một chút so với Fage, và hương vị nhẹ hơn.",
-      "pros": ["Được chứng nhận hữu cơ USDA với nguồn sữa từ bò chăn thả", "5 vi khuẩn probiotic sống được đặt tên liệt kê trên nhãn", "Hương vị nhẹ hấp dẫn những ai thấy Fage quá chua"],
-      "cons": ["Protein thấp hơn một chút (14-15g) và chi phí mỗi gram cao hơn Chobani hoặc Fage"],
+      "pros": [
+        "Được chứng nhận hữu cơ USDA với nguồn sữa từ bò chăn thả",
+        "5 vi khuẩn probiotic sống được đặt tên liệt kê trên nhãn",
+        "Hương vị nhẹ hấp dẫn những ai thấy Fage quá chua"
+      ],
+      "cons": [
+        "Protein thấp hơn một chút (14-15g) và chi phí mỗi gram cao hơn Chobani hoặc Fage"
+      ],
       "grade": "B-",
-      "specs": {"Serving": "150g", "Protein": "14-15g", "Certification": "USDA Hữu cơ", "Milk source": "Bò chăn thả", "Probiotics": "5 chủng được đặt tên", "Fat": "0%", "Price": "~$7.99"},
-      "scores": {"Protein": 4.2, "Taste": 4.3, "Value": 3.8, "Texture": 4.2, "Ingredient quality": 4.9}
+      "specs": {
+        "Serving": "150g",
+        "Protein": "14-15g",
+        "Certification": "USDA Hữu cơ",
+        "Milk source": "Bò chăn thả",
+        "Probiotics": "5 chủng được đặt tên",
+        "Fat": "0%",
+        "Price": "~$7.99"
+      },
+      "scores": {
+        "Protein": 4.2,
+        "Vị": 4.3,
+        "Giá trị": 3.8,
+        "Kết cấu": 4.2,
+        "Chất lượng nguyên liệu": 4.9
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Cho protein tối đa mỗi khẩu phần", "offerId": "fage-total-0", "reason": "18-19g protein mỗi 200g với chỉ 2 thành phần và không chất làm đặc"},
-    {"label": "Cho nấu ăn hàng ngày và giá trị", "offerId": "chobani-plain-nonfat", "reason": "Chi phí protein tốt nhất mỗi gram trong hộp 900g với công thức 3 thành phần sạch"},
-    {"label": "Cho lượng đường rất thấp", "offerId": "siggis-icelandic-yogurt", "reason": "Chỉ 6g tổng carbohydrate mỗi khẩu phần với 17g protein — tỷ lệ đường trên protein thấp nhất"},
-    {"label": "Cho sữa chua có hương vị không có chất tạo ngọt nhân tạo", "offerId": "oikos-triple-zero", "reason": "Được làm ngọt bằng quả monk với không đường thêm và không stevia hay sucralose"},
-    {"label": "Cho nguồn gốc hữu cơ và bò chăn thả", "offerId": "stonyfield-organic-greek", "reason": "USDA hữu cơ, sữa bò chăn thả, và 5 chủng probiotic được đặt tên trên nhãn"}
+    {
+      "label": "Cho protein tối đa mỗi khẩu phần",
+      "offerId": "fage-total-0",
+      "reason": "18-19g protein mỗi 200g với chỉ 2 thành phần và không chất làm đặc"
+    },
+    {
+      "label": "Cho nấu ăn hàng ngày và giá trị",
+      "offerId": "chobani-plain-nonfat",
+      "reason": "Chi phí protein tốt nhất mỗi gram trong hộp 900g với công thức 3 thành phần sạch"
+    },
+    {
+      "label": "Cho lượng đường rất thấp",
+      "offerId": "siggis-icelandic-yogurt",
+      "reason": "Chỉ 6g tổng carbohydrate mỗi khẩu phần với 17g protein — tỷ lệ đường trên protein thấp nhất"
+    },
+    {
+      "label": "Cho sữa chua có hương vị không có chất tạo ngọt nhân tạo",
+      "offerId": "oikos-triple-zero",
+      "reason": "Được làm ngọt bằng quả monk với không đường thêm và không stevia hay sucralose"
+    },
+    {
+      "label": "Cho nguồn gốc hữu cơ và bò chăn thả",
+      "offerId": "stonyfield-organic-greek",
+      "reason": "USDA hữu cơ, sữa bò chăn thả, và 5 chủng probiotic được đặt tên trên nhãn"
+    }
   ]
 }

@@ -122,8 +122,14 @@
       "offerId": "conoha-wing",
       "badge": "Tốt nhất tổng thể",
       "review": "ConoHa WING ghi nhận TTFB nhanh nhất ở 198ms và thời gian cài đặt ngắn nhất là 11 phút, với bảng điều khiển tiếng Nhật không đòi hỏi kiến thức hosting trước đó. Khoảng cách giữa giá khuyến mãi 36 tháng và giá gia hạn là điều quan trọng cần lên kế hoạch.",
-      "pros": ["TTFB nhanh nhất trong bài test: 198ms", "Cài đặt WordPress kantan trong 11 phút", "Tên miền miễn phí + sao lưu tự động 14 ngày"],
-      "cons": ["Không có hỗ trợ điện thoại — chỉ chat vào ngày làm việc"],
+      "pros": [
+        "TTFB nhanh nhất trong bài test: 198ms",
+        "Cài đặt WordPress kantan trong 11 phút",
+        "Tên miền miễn phí + sao lưu tự động 14 ngày"
+      ],
+      "cons": [
+        "Không có hỗ trợ điện thoại — chỉ chat vào ngày làm việc"
+      ],
       "grade": "A+",
       "specs": {
         "Giá khởi đầu": "Phân khúc phổ thông (gói 36 tháng)",
@@ -134,19 +140,25 @@
         "SLA uptime": "99,99%"
       },
       "scores": {
-        "Performance": 4.9,
-        "Uptime reliability": 4.7,
-        "Value": 4.6,
-        "Support quality": 3.8,
-        "Ease of setup": 4.9
+        "Hiệu suất": 4.9,
+        "Độ tin cậy thời gian hoạt động": 4.7,
+        "Giá trị": 4.6,
+        "Chất lượng hỗ trợ": 3.8,
+        "Dễ cài đặt": 4.9
       }
     },
     {
       "offerId": "xserver",
       "badge": "Tốt nhất về độ tin cậy",
       "review": "Xserver là nhà cung cấp duy nhất trong so sánh này có hỗ trợ điện thoại 24/7 và lịch sử uptime liên tục dài nhất tại Nhật Bản. TTFB 268ms ổn định trong suốt 30 ngày không có đột biến — chi phí cao hơn ConoHa ~10% mang lại sự an tâm thực sự cho các site tạo ra doanh thu.",
-      "pros": ["Nhà cung cấp duy nhất có hỗ trợ điện thoại 24/7", "Một thập kỷ uptime không gián đoạn", "WordPress được cài sẵn với tối ưu KUSANAGI"],
-      "cons": ["TTFB chậm hơn ConoHa (268ms vs 198ms); giao diện bảng điều khiển hơi cũ"],
+      "pros": [
+        "Nhà cung cấp duy nhất có hỗ trợ điện thoại 24/7",
+        "Một thập kỷ uptime không gián đoạn",
+        "WordPress được cài sẵn với tối ưu KUSANAGI"
+      ],
+      "cons": [
+        "TTFB chậm hơn ConoHa (268ms vs 198ms); giao diện bảng điều khiển hơi cũ"
+      ],
       "grade": "A",
       "specs": {
         "Giá khởi đầu": "Tầm trung (gói 12 tháng)",
@@ -157,19 +169,25 @@
         "Tính năng nổi bật": "Tối ưu KUSANAGI cho WordPress"
       },
       "scores": {
-        "Performance": 4.3,
-        "Uptime reliability": 5.0,
-        "Value": 4.1,
-        "Support quality": 5.0,
-        "Ease of setup": 4.2
+        "Hiệu suất": 4.3,
+        "Độ tin cậy thời gian hoạt động": 5,
+        "Giá trị": 4.1,
+        "Chất lượng hỗ trợ": 5,
+        "Dễ cài đặt": 4.2
       }
     },
     {
       "offerId": "mixhost",
       "badge": "Hiệu năng LiteSpeed tốt nhất",
       "review": "Stack LiteSpeed + HTTP/3 của mixhost duy trì TTFB ở 215ms ngay cả dưới 200 kết nối đồng thời — hiệu năng tốt nhất khi traffic tăng đột biến trong bài test. Đánh đổi là hỗ trợ chỉ qua email với SLA 24 giờ, không phù hợp cho blogger mới.",
-      "pros": ["LiteSpeed/HTTP/3 mang lại hiệu năng xuất sắc khi traffic tăng vọt", "WordPress một nhấp kèm tên miền miễn phí", "TTFB 215ms — chỉ đứng sau ConoHa"],
-      "cons": ["Hỗ trợ chỉ qua email — không có chat hay điện thoại cho vấn đề khẩn cấp"],
+      "pros": [
+        "LiteSpeed/HTTP/3 mang lại hiệu năng xuất sắc khi traffic tăng vọt",
+        "WordPress một nhấp kèm tên miền miễn phí",
+        "TTFB 215ms — chỉ đứng sau ConoHa"
+      ],
+      "cons": [
+        "Hỗ trợ chỉ qua email — không có chat hay điện thoại cho vấn đề khẩn cấp"
+      ],
       "grade": "B+",
       "specs": {
         "Giá khởi đầu": "Tầm trung (gói 12 tháng)",
@@ -180,19 +198,25 @@
         "SLA uptime": "99,99%"
       },
       "scores": {
-        "Performance": 4.7,
-        "Uptime reliability": 4.5,
-        "Value": 4.3,
-        "Support quality": 3.2,
-        "Ease of setup": 4.4
+        "Hiệu suất": 4.7,
+        "Độ tin cậy thời gian hoạt động": 4.5,
+        "Giá trị": 4.3,
+        "Chất lượng hỗ trợ": 3.2,
+        "Dễ cài đặt": 4.4
       }
     },
     {
       "offerId": "sakura-rentalserver",
       "badge": "Tốt nhất cho lập trình viên",
       "review": "Giá khởi đầu của Sakura là thấp nhất trong bài test, và bảng điều khiển tích hợp SSH/cron phù hợp với lập trình viên muốn kiểm soát. Việc thiếu trình cài đặt WordPress một nhấp là rào cản thực sự với người mới, và TTFB 305ms là kết quả chậm thứ hai.",
-      "pros": ["Giá khởi đầu thấp nhất trong bài test", "Truy cập SSH và cron ngay từ bảng điều khiển", "Thương hiệu uy tín từ 1996 với lịch sử uptime vững chắc"],
-      "cons": ["Không có trình cài đặt WP một nhấp — cần cài đặt WordPress thủ công"],
+      "pros": [
+        "Giá khởi đầu thấp nhất trong bài test",
+        "Truy cập SSH và cron ngay từ bảng điều khiển",
+        "Thương hiệu uy tín từ 1996 với lịch sử uptime vững chắc"
+      ],
+      "cons": [
+        "Không có trình cài đặt WP một nhấp — cần cài đặt WordPress thủ công"
+      ],
       "grade": "B",
       "specs": {
         "Giá khởi đầu": "Phân khúc nhập môn (gói tiêu chuẩn)",
@@ -203,19 +227,25 @@
         "Truy cập SSH": "Có"
       },
       "scores": {
-        "Performance": 3.7,
-        "Uptime reliability": 4.6,
-        "Value": 4.8,
-        "Support quality": 4.0,
-        "Ease of setup": 2.5
+        "Hiệu suất": 3.7,
+        "Độ tin cậy thời gian hoạt động": 4.6,
+        "Giá trị": 4.8,
+        "Chất lượng hỗ trợ": 4,
+        "Dễ cài đặt": 2.5
       }
     },
     {
       "offerId": "lolipop-server",
       "badge": "Lựa chọn tiết kiệm tốt nhất",
       "review": "Gói hi-speed của Lolipop xấp xỉ bằng một nửa giá gia hạn của ConoHa và đi kèm trình cài đặt WordPress một nhấp. TTFB 312ms là chậm nhất trong bài test — nếu tốc độ trang quan trọng với độc giả của bạn, khoản tiết kiệm nhỏ so với ConoHa không đáng.",
-      "pros": ["Gói hi-speed phổ thông — chi phí thấp nhất có WP một nhấp", "Giao diện quản lý dễ dùng cho người không rành kỹ thuật", "Độ tin cậy của tập đoàn GMO"],
-      "cons": ["TTFB chậm nhất: 312ms — đáng chú ý với traffic từ Pinterest"],
+      "pros": [
+        "Gói hi-speed phổ thông — chi phí thấp nhất có WP một nhấp",
+        "Giao diện quản lý dễ dùng cho người không rành kỹ thuật",
+        "Độ tin cậy của tập đoàn GMO"
+      ],
+      "cons": [
+        "TTFB chậm nhất: 312ms — đáng chú ý với traffic từ Pinterest"
+      ],
       "grade": "B-",
       "specs": {
         "Giá khởi đầu": "Phân khúc phổ thông (gói hi-speed)",
@@ -226,11 +256,11 @@
         "Công ty mẹ": "GMO Internet Group"
       },
       "scores": {
-        "Performance": 3.5,
-        "Uptime reliability": 4.3,
-        "Value": 4.7,
-        "Support quality": 4.1,
-        "Ease of setup": 4.5
+        "Hiệu suất": 3.5,
+        "Độ tin cậy thời gian hoạt động": 4.3,
+        "Giá trị": 4.7,
+        "Chất lượng hỗ trợ": 4.1,
+        "Dễ cài đặt": 4.5
       }
     }
   ],

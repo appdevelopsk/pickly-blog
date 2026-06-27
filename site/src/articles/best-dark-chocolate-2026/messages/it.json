@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
+        "Sapore": 4.7,
+        "Approvvigionamento": 4.8,
+        "Valore": 4.7,
         "Texture": 4.8,
-        "Nutrition": 5
+        "Nutrizione": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
+        "Sapore": 4.4,
+        "Approvvigionamento": 4,
+        "Valore": 4.4,
         "Texture": 4,
-        "Nutrition": 4.7
+        "Nutrizione": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
+        "Sapore": 4.6,
+        "Approvvigionamento": 4.2,
+        "Valore": 4.1,
         "Texture": 4.2,
-        "Nutrition": 4.4
+        "Nutrizione": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
+        "Sapore": 3.8,
+        "Approvvigionamento": 3.9,
+        "Valore": 3.8,
         "Texture": 3.4,
-        "Nutrition": 4.1
+        "Nutrizione": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
+        "Sapore": 4,
+        "Approvvigionamento": 3.6,
+        "Valore": 4,
         "Texture": 3.6,
-        "Nutrition": 3.8
+        "Nutrizione": 3.8
       }
     }
   ],
-  "methodology": "Abbiamo valutato ogni prodotto in base al profilo di sapore, alla trasparenza dell'approvvigionamento, al rapporto qualità-prezzo per porzione, all'integrità della confezione e alle prestazioni nei casi d'uso più comuni. Le certificazioni documentate e le recensioni verificate degli utenti sono state confrontate con le affermazioni di marketing."
+  "methodology": "Abbiamo valutato ogni prodotto in base al profilo di sapore, alla trasparenza dell'approvvigionamento, al rapporto qualità-prezzo per porzione, all'integrità della confezione e alle prestazioni nei casi d'uso più comuni. Le certificazioni documentate e le recensioni verificate degli utenti sono state confrontate con le affermazioni di marketing.",
+  "recommendedFor": [
+    {
+      "label": "Per i puristi che vogliono la massima intensità di cacao",
+      "offerId": "lindt-excellence-90-cocoa",
+      "reason": "Ideale per gli amanti esperti del cioccolato fondente in cerca di una tavoletta affidabile a quattro ingredienti con un finale amaro intenso e persistente."
+    },
+    {
+      "label": "Per uno spuntino quotidiano senza spendere troppo",
+      "offerId": "ghirardelli-midnight-reverie-86",
+      "reason": "Perfetto per chi si avvicina al cioccolato ad alta percentuale e per la pasticceria, con profondità di cacao e grande accessibilità."
+    },
+    {
+      "label": "Per un approvvigionamento etico senza sovrapprezzo",
+      "offerId": "green-blacks-organic-dark-85",
+      "reason": "Ottimo per chi cerca cacao biologico equosolidale dal profilo fruttato e più morbido, adatto ai principianti dell'85%."
+    },
+    {
+      "label": "Per chi tiene a tutta la filiera produttiva",
+      "offerId": "theo-chocolate-organic-85",
+      "reason": "Perfetto per chi apprezza la trasparenza bean-to-bar e un aroma complesso di noce e ciliegia da cacao tracciabile."
+    },
+    {
+      "label": "Per gli amanti del cioccolato vegani ed ecologici",
+      "offerId": "alter-eco-deep-dark-blackout-85",
+      "reason": "Il migliore per acquirenti vegani ed ecologici che vogliono cioccolato totalmente biologico ed equosolidale, ottimo anche in cucina."
+    }
+  ]
 }

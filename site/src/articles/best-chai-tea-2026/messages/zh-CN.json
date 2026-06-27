@@ -64,58 +64,169 @@
       "offerId": "rishi-masala-chai",
       "badge": "总体最佳",
       "review": "Rishi Masala Chai是标杆散叶masala chai——Assam底配豆蔻荚、整块肉桂片、生姜、黑胡椒和丁香，冲泡出茶包无法复制的分层香料风味。农场直供体现在麦芽味、非涩口的茶底上。30秒的过滤步骤是唯一的障碍，对于认真的chai饮者来说非常值得。",
-      "pros": ["整块香料产生预磨茶包所没有的分层芳香", "农场直供Assam底——麦芽味浓郁、复杂、不苦涩", "每袋18-22份——与优质茶包成本相当"],
-      "cons": ["需要过滤器——比茶包或浓缩液多一步"],
+      "pros": [
+        "整块香料产生预磨茶包所没有的分层芳香",
+        "农场直供Assam底——麦芽味浓郁、复杂、不苦涩",
+        "每袋18-22份——与优质茶包成本相当"
+      ],
+      "cons": [
+        "需要过滤器——比茶包或浓缩液多一步"
+      ],
       "grade": "A+",
-      "specs": {"Format": "散叶茶", "Tea base": "Assam红茶", "Servings": "每2.82盎司袋18-22份", "Dominant spice": "豆蔻", "Price per serving": "0.60-0.80美元"},
-      "scores": {"Taste": 4.9, "Quality": 4.8, "Value": 4.2, "Convenience": 3.2, "Versatility": 4.5}
+      "specs": {
+        "Format": "散叶茶",
+        "Tea base": "Assam红茶",
+        "Servings": "每2.82盎司袋18-22份",
+        "Dominant spice": "豆蔻",
+        "Price per serving": "0.60-0.80美元"
+      },
+      "scores": {
+        "味道": 4.9,
+        "质量": 4.8,
+        "价值": 4.2,
+        "便利性": 3.2,
+        "多功能性": 4.5
+      }
     },
     {
       "offerId": "harney-sons-hot-cinnamon-spice",
       "badge": "最佳香料红茶",
       "review": "Hot Cinnamon Spice不是传统masala chai——它是加了三种肉桂、橙皮和甜丁香的红茶。理解这一区别很重要：如果你想要南亚masala chai，这是错误的产品。如果你想要一种在牛奶中隔夜冷泡效果绝佳的温暖、浓郁肉桂风味香料茶，它是该品类中的佼佼者。",
-      "pros": ["浓郁肉桂风味——大众喜爱，无需香料复杂性", "在牛奶中隔夜冷泡，第二天早晨做成冰chai效果绝佳", "每盒50包——10-14美元性价比高"],
-      "cons": ["不是传统masala chai——无生姜，豆蔻极少"],
+      "pros": [
+        "浓郁肉桂风味——大众喜爱，无需香料复杂性",
+        "在牛奶中隔夜冷泡，第二天早晨做成冰chai效果绝佳",
+        "每盒50包——10-14美元性价比高"
+      ],
+      "cons": [
+        "不是传统masala chai——无生姜，豆蔻极少"
+      ],
       "grade": "A",
-      "specs": {"Format": "茶包（50包）", "Tea base": "红茶", "Dominant spice": "三重肉桂+橙皮+丁香", "Price per bag": "0.20-0.28美元", "Cold brew": "是——效果绝佳"},
-      "scores": {"Taste": 4.7, "Quality": 4.5, "Value": 4.6, "Convenience": 4.8, "Versatility": 4.0}
+      "specs": {
+        "Format": "茶包（50包）",
+        "Tea base": "红茶",
+        "Dominant spice": "三重肉桂+橙皮+丁香",
+        "Price per bag": "0.20-0.28美元",
+        "Cold brew": "是——效果绝佳"
+      },
+      "scores": {
+        "味道": 4.7,
+        "质量": 4.5,
+        "价值": 4.6,
+        "便利性": 4.8,
+        "多功能性": 4
+      }
     },
     {
       "offerId": "tazo-chai-concentrate",
       "badge": "最佳经济浓缩液",
       "review": "Tazo Chai浓缩液是在家制作chai拿铁最经济实惠的方式——与热牛奶1:1混合，完成。香甜的结果稳定，以低得多的成本近似咖啡馆chai。比散叶茶明显更甜、层次感更少，但作为快速的工作日早晨饮品，它可靠稳定。",
-      "pros": ["在主流杂货店广泛可得", "每次稳定、可预期的香甜风味", "32盎司5-8美元，每份成本低"],
-      "cons": ["不如散叶茶精细——香料深度有限", "比用叶子或茶包冲泡含糖量更高"],
+      "pros": [
+        "在主流杂货店广泛可得",
+        "每次稳定、可预期的香甜风味",
+        "32盎司5-8美元，每份成本低"
+      ],
+      "cons": [
+        "不如散叶茶精细——香料深度有限",
+        "比用叶子或茶包冲泡含糖量更高"
+      ],
       "grade": "B+",
-      "specs": {"Format": "液体浓缩液（32盎司）", "Mix ratio": "与牛奶1:1", "Servings": "每箱约16份", "Price per serving": "0.31-0.50美元", "Sugar": "中等（添加蔗糖）"},
-      "scores": {"Taste": 3.9, "Quality": 3.6, "Value": 4.5, "Convenience": 4.9, "Versatility": 3.5}
+      "specs": {
+        "Format": "液体浓缩液（32盎司）",
+        "Mix ratio": "与牛奶1:1",
+        "Servings": "每箱约16份",
+        "Price per serving": "0.31-0.50美元",
+        "Sugar": "中等（添加蔗糖）"
+      },
+      "scores": {
+        "味道": 3.9,
+        "质量": 3.6,
+        "价值": 4.5,
+        "便利性": 4.9,
+        "多功能性": 3.5
+      }
     },
     {
       "offerId": "oregon-chai-original-concentrate",
       "badge": "最佳咖啡馆拿铁复刻",
       "review": "Oregon Chai Original是chai拿铁浓缩液的市场标准——甜润、以豆蔻为主，设计成在家品尝星巴克chai的味道。在全1:1比例下，甜度突出（每份15克糖）；许多用户偏好1:2的浓缩液与牛奶比例以获得更好的平衡。无糖版本允许独立控制甜味剂，杯中更可定制。",
-      "pros": ["在家最准确地复制咖啡馆chai拿铁", "广泛可得，包括无糖版本", "拿铁饮者偏爱的以豆蔻为主的香料风味"],
-      "cons": ["标准比例每份含15克糖——可用无糖版本调整"],
+      "pros": [
+        "在家最准确地复制咖啡馆chai拿铁",
+        "广泛可得，包括无糖版本",
+        "拿铁饮者偏爱的以豆蔻为主的香料风味"
+      ],
+      "cons": [
+        "标准比例每份含15克糖——可用无糖版本调整"
+      ],
       "grade": "B",
-      "specs": {"Format": "液体浓缩液（32盎司）", "Mix ratio": "与牛奶1:1（或1:2少甜）", "Servings": "每箱约16份", "Sugar": "每份15克（标准）", "Unsweetened": "有售"},
-      "scores": {"Taste": 4.1, "Quality": 3.7, "Value": 4.3, "Convenience": 4.9, "Versatility": 3.8}
+      "specs": {
+        "Format": "液体浓缩液（32盎司）",
+        "Mix ratio": "与牛奶1:1（或1:2少甜）",
+        "Servings": "每箱约16份",
+        "Sugar": "每份15克（标准）",
+        "Unsweetened": "有售"
+      },
+      "scores": {
+        "味道": 4.1,
+        "质量": 3.7,
+        "价值": 4.3,
+        "便利性": 4.9,
+        "多功能性": 3.8
+      }
     },
     {
       "offerId": "david-rio-elephant-vanilla-chai",
       "badge": "最方便的形式",
       "review": "David Rio Elephant Vanilla Chai粉末是最省事的chai形式：舀入热牛奶，搅拌，完成——无需冲泡，无需冷藏浓缩液，无需蒸汽加热。以香草为主的风味比传统masala chai更柔和、更甜，使其易于接受但并不正宗。非常适合旅行、办公室使用，或任何想要零准备香料茶饮品的人。",
-      "pros": ["零准备——直接溶于热牛奶", "无需冷藏——旅行和办公室友好", "柔和的香草为主香料风味适合初学者"],
-      "cons": ["masala chai正宗感最低——香草主导传统香料平衡"],
+      "pros": [
+        "零准备——直接溶于热牛奶",
+        "无需冷藏——旅行和办公室友好",
+        "柔和的香草为主香料风味适合初学者"
+      ],
+      "cons": [
+        "masala chai正宗感最低——香草主导传统香料平衡"
+      ],
       "grade": "B-",
-      "specs": {"Format": "粉末（16盎司）", "Servings": "每袋16-20份", "Dominant flavor": "香草", "Prep method": "溶于热牛奶/水", "Price per serving": "0.75-1.25美元"},
-      "scores": {"Taste": 4.0, "Quality": 3.5, "Value": 3.8, "Convenience": 5.0, "Versatility": 3.2}
+      "specs": {
+        "Format": "粉末（16盎司）",
+        "Servings": "每袋16-20份",
+        "Dominant flavor": "香草",
+        "Prep method": "溶于热牛奶/水",
+        "Price per serving": "0.75-1.25美元"
+      },
+      "scores": {
+        "味道": 4,
+        "质量": 3.5,
+        "价值": 3.8,
+        "便利性": 5,
+        "多功能性": 3.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "传统masala chai饮者", "offerId": "rishi-masala-chai", "reason": "整块香料散叶茶配正宗Assam底——这里唯一能冲泡出接近南亚chai传统的选项。"},
-    {"label": "冷泡冰chai爱好者", "offerId": "harney-sons-hot-cinnamon-spice", "reason": "浓郁肉桂风味，在牛奶中隔夜冷泡效果极佳——产生自然甜润、顺滑的冰chai。"},
-    {"label": "快速工作日chai拿铁", "offerId": "tazo-chai-concentrate", "reason": "最便宜、最易得的浓缩液——60秒与热牛奶混合即可。"},
-    {"label": "复刻咖啡馆chai", "offerId": "oregon-chai-original-concentrate", "reason": "豆蔻甜味风味最接近咖啡馆chai拿铁的味道——如果标准比例太甜，使用1:2比例。"},
-    {"label": "旅行及零准备场合", "offerId": "david-rio-elephant-vanilla-chai", "reason": "粉末溶于任何热牛奶——无需冷藏，无需冲泡，随处可用。"}
+    {
+      "label": "传统masala chai饮者",
+      "offerId": "rishi-masala-chai",
+      "reason": "整块香料散叶茶配正宗Assam底——这里唯一能冲泡出接近南亚chai传统的选项。"
+    },
+    {
+      "label": "冷泡冰chai爱好者",
+      "offerId": "harney-sons-hot-cinnamon-spice",
+      "reason": "浓郁肉桂风味，在牛奶中隔夜冷泡效果极佳——产生自然甜润、顺滑的冰chai。"
+    },
+    {
+      "label": "快速工作日chai拿铁",
+      "offerId": "tazo-chai-concentrate",
+      "reason": "最便宜、最易得的浓缩液——60秒与热牛奶混合即可。"
+    },
+    {
+      "label": "复刻咖啡馆chai",
+      "offerId": "oregon-chai-original-concentrate",
+      "reason": "豆蔻甜味风味最接近咖啡馆chai拿铁的味道——如果标准比例太甜，使用1:2比例。"
+    },
+    {
+      "label": "旅行及零准备场合",
+      "offerId": "david-rio-elephant-vanilla-chai",
+      "reason": "粉末溶于任何热牛奶——无需冷藏，无需冲泡，随处可用。"
+    }
   ]
 }

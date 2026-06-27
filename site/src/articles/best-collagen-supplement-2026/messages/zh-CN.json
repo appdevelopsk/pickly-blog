@@ -59,8 +59,14 @@
       "offerId": "vital-proteins-collagen",
       "badge": "综合最佳",
       "review": "Vital Proteins建立了主流胶原蛋白补充剂类别，仍然是衡量所有其他产品的基准。每份20克水解牛胶原蛋白（I型和III型）完全溶于冷水、热咖啡或冰沙，不改变味道——这种几乎无感融入日常习惯的特性是产品最重要的功能。限制是真实的：没有NSF或Informed Sport第三方认证。",
-      "pros": ["每份20克胶原蛋白在冷热饮料中完全溶解，不影响味道", "每份添加80毫克维生素C，支持机体自身胶原蛋白合成途径", "广泛供应，十年来批次间质量稳定"],
-      "cons": ["无NSF或Informed Sport第三方认证——无法提供独立实验室验证"],
+      "pros": [
+        "每份20克胶原蛋白在冷热饮料中完全溶解，不影响味道",
+        "每份添加80毫克维生素C，支持机体自身胶原蛋白合成途径",
+        "广泛供应，十年来批次间质量稳定"
+      ],
+      "cons": [
+        "无NSF或Informed Sport第三方认证——无法提供独立实验室验证"
+      ],
       "grade": "A+",
       "specs": {
         "Collagen type": "I型和III型（水解牛）",
@@ -70,14 +76,26 @@
         "Certifications": "Whole30、旧石器、不含乳制品、不含麸质",
         "Flavor (unflavored)": "在冷水和咖啡中无味"
       },
-      "scores": {"Efficacy": 4.7, "Value": 4.5, "Taste": 4.9, "Purity": 4.3, "Ease of use": 5.0}
+      "scores": {
+        "有效性": 4.7,
+        "价值": 4.5,
+        "味道": 4.9,
+        "纯度": 4.3,
+        "易用性": 5
+      }
     },
     {
       "offerId": "garden-of-life-collagen",
       "badge": "最佳认证质量",
       "review": "Garden of Life是此比较中唯一获得USDA认证有机+NSF运动认证的胶原蛋白——两种认证均由第三方独立验证。20克牛胶原肽加15亿CFU益生菌和来自水果混合物的维生素C。无味版本在白水中有轻微草香矿物感，但在冰沙或果汁中完全消失。比Vital Proteins高出20-30%的价格溢价，如果独立认证对您重要，理由是直接的。",
-      "pros": ["USDA认证有机+NSF运动认证——该类别中最强大的第三方资质", "含益生菌（15亿CFU）的20克胶原蛋白，兼顾肠道和关节支持", "针对270+违禁物质的独立检测，与竞技运动员相关"],
-      "cons": ["无味版在白水中有轻微草香矿物味——在冰沙或果汁中消失"],
+      "pros": [
+        "USDA认证有机+NSF运动认证——该类别中最强大的第三方资质",
+        "含益生菌（15亿CFU）的20克胶原蛋白，兼顾肠道和关节支持",
+        "针对270+违禁物质的独立检测，与竞技运动员相关"
+      ],
+      "cons": [
+        "无味版在白水中有轻微草香矿物味——在冰沙或果汁中消失"
+      ],
       "grade": "A",
       "specs": {
         "Collagen type": "I型和III型（草饲牛）",
@@ -87,14 +105,26 @@
         "Certifications": "USDA有机、NSF运动认证、认证草饲",
         "Flavor (unflavored)": "轻微草香矿物感——在冰沙中不可察觉"
       },
-      "scores": {"Efficacy": 4.7, "Value": 4.0, "Taste": 4.4, "Purity": 5.0, "Ease of use": 4.7}
+      "scores": {
+        "有效性": 4.7,
+        "价值": 4,
+        "味道": 4.4,
+        "纯度": 5,
+        "易用性": 4.7
+      }
     },
     {
       "offerId": "ancient-nutrition-collagen",
       "badge": "最佳多类型配方",
       "review": "Ancient Nutrition是此比较中唯一建立在真实骨汤基础上的产品——不仅仅是分离肽。混合物涵盖来自四种动物来源的所有五种主要胶原蛋白类型，在纸面上是最全面的配方。热液体中较浓重的味道是真实存在的，但风味版本可处理；无味版本最适合冰沙。",
-      "pros": ["来自4种动物来源的5种胶原蛋白类型（I、II、III、V、X型）——最广泛的覆盖配方", "骨汤基础保留了全食品慢炖中的甘氨酸、谷氨酰胺和其他氨基酸", "在Costco、沃尔玛和Target均可购买——重复购买摩擦最低"],
-      "cons": ["比纯胶原肽味道更浓重——无味版本最适合冰沙"],
+      "pros": [
+        "来自4种动物来源的5种胶原蛋白类型（I、II、III、V、X型）——最广泛的覆盖配方",
+        "骨汤基础保留了全食品慢炖中的甘氨酸、谷氨酰胺和其他氨基酸",
+        "在Costco、沃尔玛和Target均可购买——重复购买摩擦最低"
+      ],
+      "cons": [
+        "比纯胶原肽味道更浓重——无味版本最适合冰沙"
+      ],
       "grade": "B+",
       "specs": {
         "Collagen type": "I、II、III、V、X型（多类型胶原蛋白）",
@@ -104,14 +134,26 @@
         "Certifications": "因SKU而异——查阅当前CoA",
         "Flavor (unflavored)": "土味、骨汤特色——最适合冰沙"
       },
-      "scores": {"Efficacy": 4.6, "Value": 4.3, "Taste": 3.9, "Purity": 4.2, "Ease of use": 4.5}
+      "scores": {
+        "有效性": 4.6,
+        "价值": 4.3,
+        "味道": 3.9,
+        "纯度": 4.2,
+        "易用性": 4.5
+      }
     },
     {
       "offerId": "sports-research-collagen",
       "badge": "最佳认证性价比",
       "review": "Sports Research最清楚地提出价值论点：BSCG认证（最严格的第三方补充剂检测项目之一），价格比Vital Proteins低10-15%。每勺11克在临床范围的较低端，但在已观察到关节和皮肤效益的剂量内。溶解性极好——在咖啡和冰沙中与Vital Proteins表现相同。",
-      "pros": ["BSCG认证——可用的最严格第三方补充剂检测项目之一", "每勺11克，每容器份量更多；每日有效成本低于大多数竞品", "冷热溶解性极好——在咖啡或冰沙中不结块"],
-      "cons": ["每份11克在临床范围较低端；高剂量方案需要双勺"],
+      "pros": [
+        "BSCG认证——可用的最严格第三方补充剂检测项目之一",
+        "每勺11克，每容器份量更多；每日有效成本低于大多数竞品",
+        "冷热溶解性极好——在咖啡或冰沙中不结块"
+      ],
+      "cons": [
+        "每份11克在临床范围较低端；高剂量方案需要双勺"
+      ],
       "grade": "B",
       "specs": {
         "Collagen type": "I型和III型（水解牛）",
@@ -121,14 +163,26 @@
         "Certifications": "BSCG（违禁物质控制集团）认证",
         "Flavor (unflavored)": "在咖啡和冰沙中基本无味"
       },
-      "scores": {"Efficacy": 4.4, "Value": 4.8, "Taste": 4.9, "Purity": 4.8, "Ease of use": 5.0}
+      "scores": {
+        "有效性": 4.4,
+        "价值": 4.8,
+        "味道": 4.9,
+        "纯度": 4.8,
+        "易用性": 5
+      }
     },
     {
       "offerId": "bulletproof-collagen",
       "badge": "最佳咖啡融合",
       "review": "Bulletproof胶原蛋白为一个用例优化：每天加入咖啡而不改变体验。来自放牧牛来源的每份18克，是此比较中加入黑咖啡时口感最纯净的产品。诚实的限制：没有NSF或BSCG认证，生酮定位意味着您应该了解胶原蛋白不是完全蛋白质。",
-      "pros": ["在黑咖啡中零可察觉味道变化——此比较中口感最纯净的无味胶原蛋白", "来自放牧牛来源的每份18克，无填充剂或人工添加剂", "专为融入Bulletproof风格咖啡（含MCT油和黄油）而设计，不凝固"],
-      "cons": ["无NSF或BSCG第三方认证；胶原蛋白不是完全蛋白质（缺乏色氨酸）"],
+      "pros": [
+        "在黑咖啡中零可察觉味道变化——此比较中口感最纯净的无味胶原蛋白",
+        "来自放牧牛来源的每份18克，无填充剂或人工添加剂",
+        "专为融入Bulletproof风格咖啡（含MCT油和黄油）而设计，不凝固"
+      ],
+      "cons": [
+        "无NSF或BSCG第三方认证；胶原蛋白不是完全蛋白质（缺乏色氨酸）"
+      ],
       "grade": "B-",
       "specs": {
         "Collagen type": "I型和III型（水解牛）",
@@ -138,14 +192,40 @@
         "Certifications": "无（仅品牌质量检测）",
         "Flavor (unflavored)": "在黑咖啡中完全不可察觉——该类别最佳"
       },
-      "scores": {"Efficacy": 4.3, "Value": 4.1, "Taste": 5.0, "Purity": 4.0, "Ease of use": 5.0}
+      "scores": {
+        "有效性": 4.3,
+        "价值": 4.1,
+        "味道": 5,
+        "纯度": 4,
+        "易用性": 5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "对大多数想要简单日常胶原蛋白习惯的人", "offerId": "vital-proteins-collagen", "reason": "每份20克在任何饮料中无感溶解——日常坚持使用摩擦最低的选择。"},
-    {"label": "需要第三方实验室验证的认证运动员和买家", "offerId": "garden-of-life-collagen", "reason": "USDA有机+NSF运动认证是胶原蛋白类别中最强的资质组合。"},
-    {"label": "想要一款产品涵盖全面胶原蛋白类型的人", "offerId": "ancient-nutrition-collagen", "reason": "来自四种来源的五种胶原蛋白类型加骨汤基础——最完整的单产品配方。"},
-    {"label": "不妥协第三方检测的注重预算买家", "offerId": "sports-research-collagen", "reason": "BSCG认证，成本比竞品低10-15%——具有记录质量保证的最佳性价比。"},
-    {"label": "想要零味道影响的每日咖啡饮用者", "offerId": "bulletproof-collagen", "reason": "专门优化为溶于黑咖啡而不改变味道——在此用例中无可比拟。"}
+    {
+      "label": "对大多数想要简单日常胶原蛋白习惯的人",
+      "offerId": "vital-proteins-collagen",
+      "reason": "每份20克在任何饮料中无感溶解——日常坚持使用摩擦最低的选择。"
+    },
+    {
+      "label": "需要第三方实验室验证的认证运动员和买家",
+      "offerId": "garden-of-life-collagen",
+      "reason": "USDA有机+NSF运动认证是胶原蛋白类别中最强的资质组合。"
+    },
+    {
+      "label": "想要一款产品涵盖全面胶原蛋白类型的人",
+      "offerId": "ancient-nutrition-collagen",
+      "reason": "来自四种来源的五种胶原蛋白类型加骨汤基础——最完整的单产品配方。"
+    },
+    {
+      "label": "不妥协第三方检测的注重预算买家",
+      "offerId": "sports-research-collagen",
+      "reason": "BSCG认证，成本比竞品低10-15%——具有记录质量保证的最佳性价比。"
+    },
+    {
+      "label": "想要零味道影响的每日咖啡饮用者",
+      "offerId": "bulletproof-collagen",
+      "reason": "专门优化为溶于黑咖啡而不改变味道——在此用例中无可比拟。"
+    }
   ]
 }

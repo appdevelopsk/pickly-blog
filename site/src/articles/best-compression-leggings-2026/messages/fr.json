@@ -4,11 +4,31 @@
   "lede": "Les leggings de compression se répartissent en deux usages : des modèles à compression légère et au toucher doux pour le confort à l'entraînement, et des modèles à compression médicale graduée conçus pour améliorer le retour veineux lors de courses d'endurance. Cinq options de 60 € à 130 €, comparées selon que chacune tient vraiment ses promesses.",
   "methodology": "Les leggings ont été évaluées sur le niveau de compression (légère/moyenne/graduée), le pourcentage de spandex et la façon dont la construction maintient ce niveau après plusieurs lavages, la stabilité de la ceinture en mouvement, le poids et la respirabilité du tissu pour l'usage annoncé, et la construction à coutures plates ou thermocollées pour évaluer le risque de frottements — avec une pondération en faveur de l'intégrité de compression et de la durabilité plutôt que de l'esthétique.",
   "recommendedFor": [
-    {"label": "Pour un entraînement quotidien confortable", "offerId": "compression-leggings-lululemon-align", "reason": "Le tissu Nulu d'Align est la legging d'entraînement la plus douce de cette comparaison — la sensation 'seconde peau' réduit la fatigue thermique lors des longues séances et la ceinture se maintient sans rouler."},
-    {"label": "Pour la performance spécifique à la course", "offerId": "compression-leggings-nike-epic-fast", "reason": "Les panneaux mesh et l'ajustement serré d'Epic Fast sont conçus spécifiquement pour la course — les éléments réfléchissants ajoutent de la visibilité en faible luminosité sans le volume d'un gilet réfléchissant séparé."},
-    {"label": "Pour une compression graduée en course d'endurance", "offerId": "compression-leggings-cep-run", "reason": "La compression graduée 20–30 mmHg de CEP de la cheville à mi-cuisse est la seule compression cliniquement calibrée de cette comparaison — pertinente pour les coureurs gérant une insuffisance veineuse ou une récupération post-course."},
-    {"label": "Pour la course par temps chaud", "offerId": "compression-leggings-adidas-own-the-run", "reason": "Le tissu AEROREADY et les panneaux de ventilation latéraux sont conçus pour courir au-dessus de 20 °C — le faible niveau de compression offre un maintien près du corps sans l'accumulation de chaleur qui provoque une fatigue précoce par temps chaud."},
-    {"label": "Pour la compression récupération avec bases scientifiques", "offerId": "compression-leggings-skins-series-3", "reason": "La compression body-mapping de Skins Series-3 utilise des algorithmes de mesure corporelle pour calibrer la compression individuellement — la plus proche de la précision clinique hors CEP."}
+    {
+      "label": "Pour un entraînement quotidien confortable",
+      "offerId": "compression-leggings-lululemon-align",
+      "reason": "Le tissu Nulu d'Align est la legging d'entraînement la plus douce de cette comparaison — la sensation 'seconde peau' réduit la fatigue thermique lors des longues séances et la ceinture se maintient sans rouler."
+    },
+    {
+      "label": "Pour la performance spécifique à la course",
+      "offerId": "compression-leggings-nike-epic-fast",
+      "reason": "Les panneaux mesh et l'ajustement serré d'Epic Fast sont conçus spécifiquement pour la course — les éléments réfléchissants ajoutent de la visibilité en faible luminosité sans le volume d'un gilet réfléchissant séparé."
+    },
+    {
+      "label": "Pour une compression graduée en course d'endurance",
+      "offerId": "compression-leggings-cep-run",
+      "reason": "La compression graduée 20–30 mmHg de CEP de la cheville à mi-cuisse est la seule compression cliniquement calibrée de cette comparaison — pertinente pour les coureurs gérant une insuffisance veineuse ou une récupération post-course."
+    },
+    {
+      "label": "Pour la course par temps chaud",
+      "offerId": "compression-leggings-adidas-own-the-run",
+      "reason": "Le tissu AEROREADY et les panneaux de ventilation latéraux sont conçus pour courir au-dessus de 20 °C — le faible niveau de compression offre un maintien près du corps sans l'accumulation de chaleur qui provoque une fatigue précoce par temps chaud."
+    },
+    {
+      "label": "Pour la compression récupération avec bases scientifiques",
+      "offerId": "compression-leggings-skins-series-3",
+      "reason": "La compression body-mapping de Skins Series-3 utilise des algorithmes de mesure corporelle pour calibrer la compression individuellement — la plus proche de la précision clinique hors CEP."
+    }
   ],
   "sections": [
     {
@@ -67,51 +87,146 @@
       "offerId": "compression-leggings-lululemon-align",
       "badge": "Meilleur Confort",
       "review": "Le tissu Nulu d'Align (81 % nylon, 19 % Lycra) est la legging d'entraînement quotidien la plus douce de cette comparaison — la compression est assez légère pour le yoga et l'entraînement léger sans sensation restrictive. La ceinture taille haute avec intérieur adhérent est la plus stable de toutes les leggings ici lors de séances de 60–90 minutes. Le niveau de compression légère la rend moins appropriée pour la course à haute intensité.",
-      "pros": ["Le tissu Nulu offre la sensation seconde peau la plus douce de toutes les leggings ici", "La ceinture haute adhérente reste plate sur des séances de 90 minutes", "Compression légère appropriée pour le yoga, la gym et les courses faciles"],
-      "cons": ["Niveau de compression légère insuffisant pour le soutien musculaire en course à haute intensité"],
+      "pros": [
+        "Le tissu Nulu offre la sensation seconde peau la plus douce de toutes les leggings ici",
+        "La ceinture haute adhérente reste plate sur des séances de 90 minutes",
+        "Compression légère appropriée pour le yoga, la gym et les courses faciles"
+      ],
+      "cons": [
+        "Niveau de compression légère insuffisant pour le soutien musculaire en course à haute intensité"
+      ],
       "grade": "A+",
-      "specs": {"Compression grade": "Légère (pas de spécification mmHg)", "Fabric": "81 % nylon, 19 % Lycra (Nulu)", "Spandex equiv.": "~19 % Lycra", "Waistband": "Taille haute, intérieur adhérent", "Fabric weight": "~143 GSM", "Price": "~€128"},
-      "scores": {"Compression": 3.5, "Breathability": 4.2, "Waistband stability": 5.0, "Durability": 4.3, "Value": 3.5}
+      "specs": {
+        "Compression grade": "Légère (pas de spécification mmHg)",
+        "Fabric": "81 % nylon, 19 % Lycra (Nulu)",
+        "Spandex equiv.": "~19 % Lycra",
+        "Waistband": "Taille haute, intérieur adhérent",
+        "Fabric weight": "~143 GSM",
+        "Price": "~€128"
+      },
+      "scores": {
+        "Compression": 3.5,
+        "Respirabilité": 4.2,
+        "Stabilité de la ceinture": 5,
+        "Durabilité": 4.3,
+        "Valeur": 3.5
+      }
     },
     {
       "offerId": "compression-leggings-nike-epic-fast",
       "badge": "Meilleure pour la Course",
       "review": "La compression plus ferme et les panneaux mesh d'Epic Fast en font la legging la plus spécifique à la course de cette comparaison. Les panneaux mesh à l'arrière de la cuisse et au mollet interne offrent une amélioration réelle de la ventilation au-dessus de 18 °C sans compromettre la structure de compression frontale. Les éléments réfléchissants sont pratiques pour courir en faible luminosité. La ceinture est moins stable que la Lululemon Align sur les courses de plus de 60 minutes.",
-      "pros": ["Panneaux mesh sur cuisse arrière et mollet interne améliorent la respirabilité par temps chaud", "Compression ferme spécifique à la course supérieure à Lululemon Align", "Éléments réfléchissants pratiques pour la course de plein air en faible luminosité"],
-      "cons": ["Ceinture moins stable qu'Align — peut nécessiter un ajustement à 60+ minutes"],
+      "pros": [
+        "Panneaux mesh sur cuisse arrière et mollet interne améliorent la respirabilité par temps chaud",
+        "Compression ferme spécifique à la course supérieure à Lululemon Align",
+        "Éléments réfléchissants pratiques pour la course de plein air en faible luminosité"
+      ],
+      "cons": [
+        "Ceinture moins stable qu'Align — peut nécessiter un ajustement à 60+ minutes"
+      ],
       "grade": "A",
-      "specs": {"Compression grade": "Moyen (pas de spécification mmHg)", "Fabric": "83 % polyester, 17 % spandex avec panneaux mesh", "Mesh coverage": "Cuisse arrière + mollet interne", "Waistband": "Taille moyenne à haute", "Reflective": "Oui", "Price": "~€90"},
-      "scores": {"Compression": 4.0, "Breathability": 4.5, "Waistband stability": 4.0, "Durability": 4.2, "Value": 4.2}
+      "specs": {
+        "Compression grade": "Moyen (pas de spécification mmHg)",
+        "Fabric": "83 % polyester, 17 % spandex avec panneaux mesh",
+        "Mesh coverage": "Cuisse arrière + mollet interne",
+        "Waistband": "Taille moyenne à haute",
+        "Reflective": "Oui",
+        "Price": "~€90"
+      },
+      "scores": {
+        "Compression": 4,
+        "Respirabilité": 4.5,
+        "Stabilité de la ceinture": 4,
+        "Durabilité": 4.2,
+        "Valeur": 4.2
+      }
     },
     {
       "offerId": "compression-leggings-cep-run",
       "badge": "Meilleure Compression Graduée",
       "review": "La compression graduée 20–30 mmHg de CEP Run 3.0 est la seule compression cliniquement calibrée de cette comparaison — plus à la cheville, progressivement moins à la cuisse — correspondant à la spécification utilisée dans les études de récupération évaluées par des pairs. Pour les coureurs gérant une insuffisance veineuse ou un gonflement post-course, c'est la spécification bénéficiant du soutien de la recherche. Le dimensionnement nécessite la circonférence de cheville et la taille, pas le S/M/L standard.",
-      "pros": ["Compression graduée 20–30 mmHg correspond à la spécification des études de récupération", "Calibration clinique : plus de compression à la cheville, moins à la cuisse", "Bénéfice scientifique pour la réduction des courbatures à 24–48 heures"],
-      "cons": ["Nécessite la mesure de la circonférence de cheville et la taille pour un bon dimensionnement — pas de S/M/L standard"],
+      "pros": [
+        "Compression graduée 20–30 mmHg correspond à la spécification des études de récupération",
+        "Calibration clinique : plus de compression à la cheville, moins à la cuisse",
+        "Bénéfice scientifique pour la réduction des courbatures à 24–48 heures"
+      ],
+      "cons": [
+        "Nécessite la mesure de la circonférence de cheville et la taille pour un bon dimensionnement — pas de S/M/L standard"
+      ],
       "grade": "A",
-      "specs": {"Compression grade": "20–30 mmHg graduée", "Fabric": "Mélange polyamide-élasthanne", "Compression calibration": "Cheville > mollet > cuisse", "Sizing method": "Circonférence de cheville + taille", "Use case": "Course + récupération post-course", "Price": "~€130"},
-      "scores": {"Compression": 5.0, "Breathability": 3.8, "Waistband stability": 4.2, "Durability": 4.5, "Value": 3.8}
+      "specs": {
+        "Compression grade": "20–30 mmHg graduée",
+        "Fabric": "Mélange polyamide-élasthanne",
+        "Compression calibration": "Cheville > mollet > cuisse",
+        "Sizing method": "Circonférence de cheville + taille",
+        "Use case": "Course + récupération post-course",
+        "Price": "~€130"
+      },
+      "scores": {
+        "Compression": 5,
+        "Respirabilité": 3.8,
+        "Stabilité de la ceinture": 4.2,
+        "Durabilité": 4.5,
+        "Valeur": 3.8
+      }
     },
     {
       "offerId": "compression-leggings-adidas-own-the-run",
       "badge": "Meilleure par Temps Chaud",
       "review": "Le tissu AEROREADY et les panneaux de ventilation latéraux d'Own The Run sont conçus pour courir par températures supérieures à 20 °C. Le niveau de compression légère offre une sensation d'entraînement ajustée sans accumulation de chaleur. La ceinture est plus basse que chez les concurrents. Le prix est le plus accessible de cette comparaison.",
-      "pros": ["Tissu AEROREADY et ventilation latérale pour la course par temps chaud", "Compression légère réduit l'accumulation de chaleur par rapport aux alternatives plus compressives", "Prix le plus accessible de cette comparaison"],
-      "cons": ["Compression légère insuffisante pour le soutien musculaire à haute intensité ; ceinture plus basse que les concurrentes"],
+      "pros": [
+        "Tissu AEROREADY et ventilation latérale pour la course par temps chaud",
+        "Compression légère réduit l'accumulation de chaleur par rapport aux alternatives plus compressives",
+        "Prix le plus accessible de cette comparaison"
+      ],
+      "cons": [
+        "Compression légère insuffisante pour le soutien musculaire à haute intensité ; ceinture plus basse que les concurrentes"
+      ],
       "grade": "B+",
-      "specs": {"Compression grade": "Légère (pas de spécification mmHg)", "Fabric": "Mélange polyester AEROREADY avec panneaux de ventilation", "Spandex": "~20 %", "Waistband": "Taille moyenne", "Target temp": "18–28 °C en course", "Price": "~€65"},
-      "scores": {"Compression": 3.2, "Breathability": 4.8, "Waistband stability": 3.8, "Durability": 4.0, "Value": 4.5}
+      "specs": {
+        "Compression grade": "Légère (pas de spécification mmHg)",
+        "Fabric": "Mélange polyester AEROREADY avec panneaux de ventilation",
+        "Spandex": "~20 %",
+        "Waistband": "Taille moyenne",
+        "Target temp": "18–28 °C en course",
+        "Price": "~€65"
+      },
+      "scores": {
+        "Compression": 3.2,
+        "Respirabilité": 4.8,
+        "Stabilité de la ceinture": 3.8,
+        "Durabilité": 4,
+        "Valeur": 4.5
+      }
     },
     {
       "offerId": "compression-leggings-skins-series-3",
       "badge": "Meilleur Ajustement Body-Mapping",
       "review": "Skins Series-3 utilise des mesures corporelles (taille, hanches, cuisse, mollet) plutôt que des tailles standard pour calibrer la compression à la forme individuelle de la jambe — le plus proche d'un ajustement personnalisé en dehors d'un vêtement de compression sur mesure. La compression graduée d'environ 15–18 mmHg se situe entre la compression confort générale et la plage clinique de CEP. Appropriée pour les coureurs d'endurance et les triathlètes qui privilégient une compression scientifiquement étayée.",
-      "pros": ["Le système de tailles par mesures corporelles calibre la compression à la forme individuelle de la jambe", "Compression graduée d'environ 15–18 mmHg — au-dessus de la compression confort standard", "Conçue pour la course d'endurance et la récupération post-course"],
-      "cons": ["Nécessite des mesures corporelles précises — des mesures incorrectes entraînent un mauvais niveau de compression"],
+      "pros": [
+        "Le système de tailles par mesures corporelles calibre la compression à la forme individuelle de la jambe",
+        "Compression graduée d'environ 15–18 mmHg — au-dessus de la compression confort standard",
+        "Conçue pour la course d'endurance et la récupération post-course"
+      ],
+      "cons": [
+        "Nécessite des mesures corporelles précises — des mesures incorrectes entraînent un mauvais niveau de compression"
+      ],
       "grade": "B+",
-      "specs": {"Compression grade": "~15–18 mmHg graduée", "Fabric": "Mélange nylon-élasthanne", "Sizing method": "Circonférence taille, hanches, cuisse, mollet", "Compression profile": "Graduée de la cheville à la cuisse", "Target user": "Coureurs d'endurance, triathlètes", "Price": "~€110"},
-      "scores": {"Compression": 4.5, "Breathability": 4.0, "Waistband stability": 4.3, "Durability": 4.4, "Value": 3.9}
+      "specs": {
+        "Compression grade": "~15–18 mmHg graduée",
+        "Fabric": "Mélange nylon-élasthanne",
+        "Sizing method": "Circonférence taille, hanches, cuisse, mollet",
+        "Compression profile": "Graduée de la cheville à la cuisse",
+        "Target user": "Coureurs d'endurance, triathlètes",
+        "Price": "~€110"
+      },
+      "scores": {
+        "Compression": 4.5,
+        "Respirabilité": 4,
+        "Stabilité de la ceinture": 4.3,
+        "Durabilité": 4.4,
+        "Valeur": 3.9
+      }
     }
   ]
 }

@@ -182,5 +182,32 @@
       }
     }
   ],
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "For busy everyday spreaders",
+      "offerId": "justins-classic-almond-butter",
+      "reason": "Ideal for busy households wanting a creamy, no-stir spread with a clean two-ingredient list."
+    },
+    {
+      "label": "For smooth-texture recipe cooks",
+      "offerId": "barney-bare-almond-butter",
+      "reason": "Best for those who prefer a smoother, milder paste that blends easily into sweet and savory recipes."
+    },
+    {
+      "label": "For palm-oil-free shoppers",
+      "offerId": "wild-friends-almond-butter",
+      "reason": "Great for shoppers avoiding palm oil who want a clean, stone-ground, organic jar."
+    },
+    {
+      "label": "For raw-food enthusiasts",
+      "offerId": "artisana-organic-almond-butter",
+      "reason": "Perfect for raw-food fans seeking an intense, complex flavor with maximum nutrient density."
+    },
+    {
+      "label": "For zero-fuss daily use",
+      "offerId": "maranatha-no-stir-almond-butter",
+      "reason": "Suited to anyone wanting a consistent, hassle-free spread that needs no stirring at all."
+    }
+  ]
 }

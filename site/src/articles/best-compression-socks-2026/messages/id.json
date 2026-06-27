@@ -44,51 +44,146 @@
       "offerId": "compression-socks-cep-run-4-0",
       "badge": "Kompresi Klinis Terbaik",
       "review": "CEP Run 4.0 memberikan kompresi bertahap bersertifikat 20–30 mmHg dari medi GmbH — standar klinis yang sama dengan kaos kaki kompresi medis. Pembaruan kotak jari kaki 2026 memberikan kaki depan yang lebih lebar untuk kenyamanan yang lebih baik. Dengan harga $65, ini adalah pilihan termahal di sini, tetapi retensi kompresi 80+ cuci dan akurasi gradien bersertifikat membuat rasio biaya per cucian kompetitif dengan kaos kaki lebih murah yang terdegradasi lebih cepat.",
-      "pros": ["medi GmbH bersertifikat 20–30 mmHg — gradien kompresi paling akurat secara klinis dalam perbandingan ini", "Retensi kompresi 80+ cuci — daya tahan jangka panjang terbaik dari pilihan manapun di sini", "Pembaruan kotak jari kaki yang lebih lebar 2026 meningkatkan kenyamanan kaki depan"],
-      "cons": ["$65 per pasang — titik harga tertinggi dalam perbandingan ini"],
+      "pros": [
+        "medi GmbH bersertifikat 20–30 mmHg — gradien kompresi paling akurat secara klinis dalam perbandingan ini",
+        "Retensi kompresi 80+ cuci — daya tahan jangka panjang terbaik dari pilihan manapun di sini",
+        "Pembaruan kotak jari kaki yang lebih lebar 2026 meningkatkan kenyamanan kaki depan"
+      ],
+      "cons": [
+        "$65 per pasang — titik harga tertinggi dalam perbandingan ini"
+      ],
       "grade": "A+",
-      "specs": {"Compression": "20–30 mmHg (bersertifikat)", "Fiber": "Nilon/elastan", "Anatomical": "Spesifik kiri/kanan", "Toe": "Tanpa jahitan", "Wash durability": "80+ kali cuci", "Price": "$65"},
-      "scores": {"Compression accuracy": 5.0, "Blister resistance": 4.3, "Durability": 5.0, "Comfort": 4.4, "Value": 3.5}
+      "specs": {
+        "Compression": "20–30 mmHg (bersertifikat)",
+        "Fiber": "Nilon/elastan",
+        "Anatomical": "Spesifik kiri/kanan",
+        "Toe": "Tanpa jahitan",
+        "Wash durability": "80+ kali cuci",
+        "Price": "$65"
+      },
+      "scores": {
+        "Akurasi Kompresi": 5,
+        "Ketahanan Lecet": 4.3,
+        "Ketahanan": 5,
+        "Kenyamanan": 4.4,
+        "Nilai": 3.5
+      }
     },
     {
       "offerId": "compression-socks-balega-blister-resist",
       "badge": "Anti-Lecet Terbaik",
       "review": "Campuran mohair/nilon/elastan Balega memberikan gesekan paling rendah dari semua kaos kaki dalam perbandingan ini — permukaan serat mohair yang halus meluncur pada kaki daripada menggeseknya. Dikombinasikan dengan ujung kaki tanpa jahitan dan bantalan sisi kaki depan, ini adalah kaos kaki pencegah lecet paling efektif di sini. Kompresi ringan (15–20 mmHg), bukan prioritas. Pembaruan lebar 2026 mengatasi keterbatasan lest sempit. Terbaik untuk pelari dengan riwayat lecet jari kaki dan kaki depan.",
-      "pros": ["Campuran serat mohair — material gesekan terendah dalam perbandingan ini, efektif unik dalam pencegahan lecet", "Opsi lebar 2026 mengatasi eksklusi untuk kaki yang lebih lebar", "Ujung kaki tanpa jahitan ditambah bantalan sisi kaki depan menargetkan dua zona lecet paling umum"],
-      "cons": ["Hanya kompresi ringan (15–20 mmHg) — bukan pilihan yang tepat jika manfaat kompresi klinis adalah tujuannya"],
+      "pros": [
+        "Campuran serat mohair — material gesekan terendah dalam perbandingan ini, efektif unik dalam pencegahan lecet",
+        "Opsi lebar 2026 mengatasi eksklusi untuk kaki yang lebih lebar",
+        "Ujung kaki tanpa jahitan ditambah bantalan sisi kaki depan menargetkan dua zona lecet paling umum"
+      ],
+      "cons": [
+        "Hanya kompresi ringan (15–20 mmHg) — bukan pilihan yang tepat jika manfaat kompresi klinis adalah tujuannya"
+      ],
       "grade": "A",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Mohair/nilon/elastan", "Anatomical": "Spesifik kiri/kanan", "Toe": "Tanpa jahitan", "Width": "Standar + lebar (2026)", "Price": "$20"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 5.0, "Durability": 4.3, "Comfort": 4.8, "Value": 4.9}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Mohair/nilon/elastan",
+        "Anatomical": "Spesifik kiri/kanan",
+        "Toe": "Tanpa jahitan",
+        "Width": "Standar + lebar (2026)",
+        "Price": "$20"
+      },
+      "scores": {
+        "Akurasi Kompresi": 4,
+        "Ketahanan Lecet": 5,
+        "Ketahanan": 4.3,
+        "Kenyamanan": 4.8,
+        "Nilai": 4.9
+      }
     },
     {
       "offerId": "compression-socks-sockwell-pulse",
       "badge": "Terbaik untuk Lari Suhu Variabel",
       "review": "Sockwell Pulse menggunakan campuran merino/nilon/spandeks yang mengatur suhu di berbagai rentang suhu musiman — serat berongga merino mengisolasi dalam dingin dan menyerap kelembaban dalam panas. Pada 15–20 mmHg, kompresinya ringan. Keunggulan manajemen termal paling jelas terlihat pada lari trail dengan perubahan ketinggian signifikan atau balap awal dan akhir musim dengan fluktuasi suhu. Bukan pemimpin kompresi atau anti-lecet, tetapi kaos kaki serba bisa musiman terbaik.",
-      "pros": ["Pengaturan suhu wol merino — mengelola suhu lintas musim lebih baik dari serat sintetis", "Penyerapan kelembaban mengurangi risiko lecet pada lari jauh dengan variasi suhu", "Harga menengah $35 dengan daya tahan di atas rata-rata"],
-      "cons": ["15–20 mmHg kompresi ringan — tidak tepat untuk pelari yang membutuhkan manfaat kompresi klinis 20–30 mmHg"],
+      "pros": [
+        "Pengaturan suhu wol merino — mengelola suhu lintas musim lebih baik dari serat sintetis",
+        "Penyerapan kelembaban mengurangi risiko lecet pada lari jauh dengan variasi suhu",
+        "Harga menengah $35 dengan daya tahan di atas rata-rata"
+      ],
+      "cons": [
+        "15–20 mmHg kompresi ringan — tidak tepat untuk pelari yang membutuhkan manfaat kompresi klinis 20–30 mmHg"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Wol merino/nilon/spandeks", "Anatomical": "Spesifik kiri/kanan", "Toe": "Tanpa jahitan", "Wash durability": "60 cuci retensi sedang", "Price": "$35"},
-      "scores": {"Compression accuracy": 4.1, "Blister resistance": 4.2, "Durability": 4.4, "Comfort": 4.7, "Value": 4.5}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Wol merino/nilon/spandeks",
+        "Anatomical": "Spesifik kiri/kanan",
+        "Toe": "Tanpa jahitan",
+        "Wash durability": "60 cuci retensi sedang",
+        "Price": "$35"
+      },
+      "scores": {
+        "Akurasi Kompresi": 4.1,
+        "Ketahanan Lecet": 4.2,
+        "Ketahanan": 4.4,
+        "Kenyamanan": 4.7,
+        "Nilai": 4.5
+      }
     },
     {
       "offerId": "compression-socks-tabio-jp",
       "badge": "Terbaik untuk Pasar Jepang",
       "review": "Tabio Racing Fine menggunakan konstruksi nilon denier halus dengan diferensiasi anatomis kiri/kanan. Pembaruan 2026 menambahkan pelindung tumit yang diperkuat dan peningkatan retensi kompresi hingga 60 kali cuci — versi sebelumnya kehilangan elastisitas secara signifikan pada 30–40 kali cuci. Denier yang halus memberikan nuansa permukaan yang lebih rendah gesekannya dan bobot yang lebih ringan dari konstruksi tipikal merek barat. Kompresi ringan (15–20 mmHg). Terbaik untuk pelari jalan raya yang memilih kaos kaki yang lebih ringan dan ramping.",
-      "pros": ["Konstruksi nilon denier halus — lebih ringan dan gesekan lebih rendah dari kaos kaki lari barat tipikal", "2026 tumit diperkuat dan retensi kompresi ditingkatkan hingga 60 kali cuci", "Konstruksi anatomis kiri/kanan untuk kecocokan yang presisi"],
-      "cons": ["Ketersediaan terbatas di luar Jepang — terutama tersedia melalui toko Tabio Japan dan online"],
+      "pros": [
+        "Konstruksi nilon denier halus — lebih ringan dan gesekan lebih rendah dari kaos kaki lari barat tipikal",
+        "2026 tumit diperkuat dan retensi kompresi ditingkatkan hingga 60 kali cuci",
+        "Konstruksi anatomis kiri/kanan untuk kecocokan yang presisi"
+      ],
+      "cons": [
+        "Ketersediaan terbatas di luar Jepang — terutama tersedia melalui toko Tabio Japan dan online"
+      ],
       "grade": "B+",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Nilon denier halus/elastan", "Anatomical": "Spesifik kiri/kanan", "Toe": "Tanpa jahitan", "Market": "Utamanya Jepang", "Price": "Pemula"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.3, "Durability": 4.5, "Comfort": 4.6, "Value": 4.8}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Nilon denier halus/elastan",
+        "Anatomical": "Spesifik kiri/kanan",
+        "Toe": "Tanpa jahitan",
+        "Market": "Utamanya Jepang",
+        "Price": "Pemula"
+      },
+      "scores": {
+        "Akurasi Kompresi": 4,
+        "Ketahanan Lecet": 4.3,
+        "Ketahanan": 4.5,
+        "Kenyamanan": 4.6,
+        "Nilai": 4.8
+      }
     },
     {
       "offerId": "compression-socks-feetures-elite",
       "badge": "Terbaik untuk Plantar Fasciitis",
       "review": "Feetures Elite menggunakan sistem iWCL untuk memetakan zona bantalan ke titik tekanan anatomis pada permukaan plantar daripada menerapkan bantalan seragam. Hasilnya adalah kaos kaki yang lebih ringan dengan perlindungan terarah tepat di mana dampak terjadi. Pembaruan 2026 menambahkan zona gesekan tengah kaki khusus untuk sepatu gaya minimalis. Pada 15–20 mmHg, kompresinya ringan. Terbaik untuk pelari dengan riwayat plantar fasciitis atau yang berlari jarak jauh dengan sepatu zero-drop atau stack rendah.",
-      "pros": ["Pemetaan bantalan terarah iWCL — perlindungan di titik tekanan plantar tanpa bobot yang tidak perlu", "Zona gesekan tengah kaki 2026 mengatasi pola lecet sepatu minimalis", "Kecocokan anatomis dengan zona kompresi terarah"],
-      "cons": ["15–20 mmHg kompresi ringan — bukan pilihan untuk manfaat kompresi tingkat klinis setelah lari jauh"],
+      "pros": [
+        "Pemetaan bantalan terarah iWCL — perlindungan di titik tekanan plantar tanpa bobot yang tidak perlu",
+        "Zona gesekan tengah kaki 2026 mengatasi pola lecet sepatu minimalis",
+        "Kecocokan anatomis dengan zona kompresi terarah"
+      ],
+      "cons": [
+        "15–20 mmHg kompresi ringan — bukan pilihan untuk manfaat kompresi tingkat klinis setelah lari jauh"
+      ],
       "grade": "B",
-      "specs": {"Compression": "15–20 mmHg", "Fiber": "Nilon/elastan", "Cushion": "Pemetaan zona iWCL", "Anatomical": "Spesifik kiri/kanan", "Toe": "Tanpa jahitan", "Price": "$18"},
-      "scores": {"Compression accuracy": 4.0, "Blister resistance": 4.6, "Durability": 4.5, "Comfort": 4.8, "Value": 4.7}
+      "specs": {
+        "Compression": "15–20 mmHg",
+        "Fiber": "Nilon/elastan",
+        "Cushion": "Pemetaan zona iWCL",
+        "Anatomical": "Spesifik kiri/kanan",
+        "Toe": "Tanpa jahitan",
+        "Price": "$18"
+      },
+      "scores": {
+        "Akurasi Kompresi": 4,
+        "Ketahanan Lecet": 4.6,
+        "Ketahanan": 4.5,
+        "Kenyamanan": 4.8,
+        "Nilai": 4.7
+      }
     }
   ],
   "faqs": [
@@ -106,9 +201,21 @@
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk kompresi klinis dan daya tahan jangka panjang", "offerId": "compression-socks-cep-run-4-0", "reason": "Gradien bersertifikat medi GmbH 20–30 mmHg adalah yang paling akurat dalam perbandingan ini; retensi 80+ cuci membuat biaya $65 kompetitif per pemakaian."},
-    {"label": "Untuk pelari dengan riwayat lecet", "offerId": "compression-socks-balega-blister-resist", "reason": "Serat mohair mengurangi gesekan kaki-ke-kaos kaki lebih efektif dari konstruksi ujung kaki tanpa jahitan saja; opsi lebar tersedia untuk 2026."},
-    {"label": "Untuk plantar fasciitis dan pelari sepatu minimalis", "offerId": "compression-socks-feetures-elite", "reason": "Pemetaan zona iWCL menargetkan titik tekanan plantar; zona gesekan tengah kaki 2026 mengatasi pola lecet sepatu minimalis."}
+    {
+      "label": "Untuk kompresi klinis dan daya tahan jangka panjang",
+      "offerId": "compression-socks-cep-run-4-0",
+      "reason": "Gradien bersertifikat medi GmbH 20–30 mmHg adalah yang paling akurat dalam perbandingan ini; retensi 80+ cuci membuat biaya $65 kompetitif per pemakaian."
+    },
+    {
+      "label": "Untuk pelari dengan riwayat lecet",
+      "offerId": "compression-socks-balega-blister-resist",
+      "reason": "Serat mohair mengurangi gesekan kaki-ke-kaos kaki lebih efektif dari konstruksi ujung kaki tanpa jahitan saja; opsi lebar tersedia untuk 2026."
+    },
+    {
+      "label": "Untuk plantar fasciitis dan pelari sepatu minimalis",
+      "offerId": "compression-socks-feetures-elite",
+      "reason": "Pemetaan zona iWCL menargetkan titik tekanan plantar; zona gesekan tengah kaki 2026 mengatasi pola lecet sepatu minimalis."
+    }
   ],
   "pinDescription": "Perbandingan kaos kaki kompresi untuk lari 2026 — CEP vs Balega vs Sockwell vs Tabio vs Feetures. Rating mmHg, ketahanan lecet, konstruksi serat, dan daya tahan cucian dijelaskan untuk pelari jarak jauh dan atlet trail.",
   "offerNotes": ""

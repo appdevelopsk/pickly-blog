@@ -182,5 +182,32 @@
       }
     }
   ],
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "For purists who want maximum cocoa intensity",
+      "offerId": "lindt-excellence-90-cocoa",
+      "reason": "Best for experienced dark-chocolate fans who want a reliable, four-ingredient bar with a sustained, intense bitter finish."
+    },
+    {
+      "label": "For everyday snacking on a budget",
+      "offerId": "ghirardelli-midnight-reverie-86",
+      "reason": "Ideal for newcomers to high-percentage chocolate and for baking, balancing dark cocoa depth with smooth approachability."
+    },
+    {
+      "label": "For ethical sourcing without the premium",
+      "offerId": "green-blacks-organic-dark-85",
+      "reason": "Great for those wanting Fairtrade organic cacao with a fruity, softer profile that's gentle on 85% beginners."
+    },
+    {
+      "label": "For buyers who care about the full supply chain",
+      "offerId": "theo-chocolate-organic-85",
+      "reason": "Perfect for those who value bean-to-bar transparency and a complex walnut-and-cherry flavor from traceable cacao."
+    },
+    {
+      "label": "For vegan and eco-conscious chocolate lovers",
+      "offerId": "alter-eco-deep-dark-blackout-85",
+      "reason": "Best for vegan, eco-conscious buyers wanting fully organic, Fairtrade chocolate that also shines in baking."
+    }
+  ]
 }

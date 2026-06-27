@@ -44,51 +44,154 @@
       "offerId": "hiking-poles-black-diamond-trail",
       "badge": "Mejor en general",
       "review": "El Black Diamond Trail (versión palanca 2026) resuelve el problema de deslizamiento de tensión en bajas temperaturas del diseño anterior de rosca. A 482 g por par en aluminio, no es la opción más ligera, pero la combinación de mecanismo fiable, canastas reemplazables y construcción reparable en campo lo hace el bastón más prácticamente duradero en esta comparación. La empuñadura de espuma EVA se comprime después de 18–24 meses pero funciona bien inicialmente en manos mojadas.",
-      "pros": ["La palanca mantiene la tensión fiablemente en el frío — resuelve el problema anterior de rosca", "Canastas y puntas reemplazables en campo — mantenibles en rutas largas sin herramientas especiales", "La empuñadura EVA funciona aceptablemente en manos sudorosas y mojadas"],
-      "cons": ["El diseño lineal no plegable se compacta a 60–70 cm — demasiado largo para compartimentos de avión"],
+      "pros": [
+        "La palanca mantiene la tensión fiablemente en el frío — resuelve el problema anterior de rosca",
+        "Canastas y puntas reemplazables en campo — mantenibles en rutas largas sin herramientas especiales",
+        "La empuñadura EVA funciona aceptablemente en manos sudorosas y mojadas"
+      ],
+      "cons": [
+        "El diseño lineal no plegable se compacta a 60–70 cm — demasiado largo para compartimentos de avión"
+      ],
       "grade": "A+",
-      "specs": {"Peso (par)": "482g", "Material": "Aluminio 6061", "Empuñadura": "Espuma EVA", "Mecanismo": "Cierre de palanca", "Longitud plegada": "60–70 cm", "Canasta": "Canasta de trekking incluida", "Precio": "€83"},
-      "scores": {"Weight": 3.8, "Packability": 3.2, "Grip comfort": 4.2, "Mechanism reliability": 4.9, "Value": 4.7}
+      "specs": {
+        "Peso (par)": "482g",
+        "Material": "Aluminio 6061",
+        "Empuñadura": "Espuma EVA",
+        "Mecanismo": "Cierre de palanca",
+        "Longitud plegada": "60–70 cm",
+        "Canasta": "Canasta de trekking incluida",
+        "Precio": "€83"
+      },
+      "scores": {
+        "Peso": 3.8,
+        "Embalabilidad": 3.2,
+        "Comodidad del agarre": 4.2,
+        "Confiabilidad del mecanismo": 4.9,
+        "Valor": 4.7
+      }
     },
     {
       "offerId": "hiking-poles-leki-micro-vario",
       "badge": "Mejor ultraligero",
       "review": "A 236 g por bastón (472 g por par), el Leki Micro Vario Carbon es el bastón más ligero de esta comparación por un margen significativo. La construcción de carbono en tres secciones se pliega a 38 cm — genuinamente compatible con compartimentos de avión. FlickLock Pro mantiene tensión fiablemente hasta -20 °C. El grip de corcho es la mejor opción de mano seca en la comparación, pero resbaladizo cuando está mojado sin guantes. €165 por par se justifica para excursionistas con 50+ días al año.",
-      "pros": ["236 g por bastón — el más ligero en esta comparación con 88+ g de ventaja sobre opciones de aluminio", "38 cm plegado — compatible con equipaje de mano de avión", "FlickLock Pro homologado hasta -20 °C sin deslizamiento de tensión documentado"],
-      "cons": ["Grip de corcho resbaladizo cuando está mojado — se requieren guantes o cinta de agarre en lluvia", "€165 requiere uso anual elevado para justificar frente a alternativas de carbono"],
+      "pros": [
+        "236 g por bastón — el más ligero en esta comparación con 88+ g de ventaja sobre opciones de aluminio",
+        "38 cm plegado — compatible con equipaje de mano de avión",
+        "FlickLock Pro homologado hasta -20 °C sin deslizamiento de tensión documentado"
+      ],
+      "cons": [
+        "Grip de corcho resbaladizo cuando está mojado — se requieren guantes o cinta de agarre en lluvia",
+        "€165 requiere uso anual elevado para justificar frente a alternativas de carbono"
+      ],
       "grade": "A",
-      "specs": {"Peso (par)": "472g", "Material": "Fibra de carbono", "Empuñadura": "Corcho", "Mecanismo": "FlickLock Pro", "Longitud plegada": "38 cm", "Canasta": "Canasta de trekking incluida", "Precio": "€165"},
-      "scores": {"Weight": 5.0, "Packability": 5.0, "Grip comfort": 4.6, "Mechanism reliability": 4.9, "Value": 3.8}
+      "specs": {
+        "Peso (par)": "472g",
+        "Material": "Fibra de carbono",
+        "Empuñadura": "Corcho",
+        "Mecanismo": "FlickLock Pro",
+        "Longitud plegada": "38 cm",
+        "Canasta": "Canasta de trekking incluida",
+        "Precio": "€165"
+      },
+      "scores": {
+        "Peso": 5,
+        "Embalabilidad": 5,
+        "Comodidad del agarre": 4.6,
+        "Confiabilidad del mecanismo": 4.9,
+        "Valor": 3.8
+      }
     },
     {
       "offerId": "hiking-poles-rei-co-op-traverse",
       "badge": "Mejor relación calidad-precio",
       "review": "El REI Co-op Traverse (versión 2026 con doble palanca) corrige el problema de deslizamiento de tensión de la versión original de rosca. A €55 por par en aluminio, es el precio más accesible en esta comparación con un mecanismo ahora fiable. El grip de corcho es agradable cuando está seco. El diseño no plegable se compacta a 60–70 cm — una limitación para viajes. Adecuado para excursionistas de fin de semana que necesitan un bastón funcional sin priorizar peso o compacidad.",
-      "pros": ["Precio más bajo en esta comparación — €55 por par con mecanismo de palanca fiable post-2026", "Grip de corcho cómodo para sesiones de varias horas en días secos", "Construcción de aluminio sólida aguanta el uso duro del sendero sin riesgo de fragilidad del carbono"],
-      "cons": ["Se compacta a 60–70 cm — no compatible con equipaje de mano de avión", "El grip de corcho necesita secado después del uso en mojado para evitar moho y olores"],
+      "pros": [
+        "Precio más bajo en esta comparación — €55 por par con mecanismo de palanca fiable post-2026",
+        "Grip de corcho cómodo para sesiones de varias horas en días secos",
+        "Construcción de aluminio sólida aguanta el uso duro del sendero sin riesgo de fragilidad del carbono"
+      ],
+      "cons": [
+        "Se compacta a 60–70 cm — no compatible con equipaje de mano de avión",
+        "El grip de corcho necesita secado después del uso en mojado para evitar moho y olores"
+      ],
       "grade": "B+",
-      "specs": {"Peso (par)": "510g", "Material": "Aluminio 6061", "Empuñadura": "Corcho", "Mecanismo": "Doble palanca (2026)", "Longitud plegada": "60–70 cm", "Canasta": "Canasta de trekking incluida", "Precio": "€55"},
-      "scores": {"Weight": 3.5, "Packability": 3.0, "Grip comfort": 4.4, "Mechanism reliability": 4.5, "Value": 5.0}
+      "specs": {
+        "Peso (par)": "510g",
+        "Material": "Aluminio 6061",
+        "Empuñadura": "Corcho",
+        "Mecanismo": "Doble palanca (2026)",
+        "Longitud plegada": "60–70 cm",
+        "Canasta": "Canasta de trekking incluida",
+        "Precio": "€55"
+      },
+      "scores": {
+        "Peso": 3.5,
+        "Embalabilidad": 3,
+        "Comodidad del agarre": 4.4,
+        "Confiabilidad del mecanismo": 4.5,
+        "Valor": 5
+      }
     },
     {
       "offerId": "hiking-poles-montbell-jp",
       "badge": "Mejor calidad de fabricación (Japón)",
       "review": "El bastón Montbell del mercado japonés usa construcción de aluminio 7075 (mayor resistencia a la tracción que la aleación 6061 de los competidores), y la calidad de fabricación es mensurablemente mejor que los bastones de aluminio de mercado masivo. La zona de agarre EVA extendida en el eje maneja bien las plantaciones en ángulo bajo en descensos en zigzag. El mecanismo de rosca es el factor limitante — fiable por encima de 10 °C pero con deslizamientos documentados bajo cero.",
-      "pros": ["Construcción de aluminio 7075 — mayor resistencia a la tracción que el 6061 en bastones competidores", "Zona de agarre extendida en el eje para técnica de plantación corta en terreno empinado", "Control de calidad y servicio de garantía excepcionales en Japón"],
-      "cons": ["El mecanismo de rosca se desliza por debajo de 0 °C — reemplazar con bastones de palanca para senderismo invernal"],
+      "pros": [
+        "Construcción de aluminio 7075 — mayor resistencia a la tracción que el 6061 en bastones competidores",
+        "Zona de agarre extendida en el eje para técnica de plantación corta en terreno empinado",
+        "Control de calidad y servicio de garantía excepcionales en Japón"
+      ],
+      "cons": [
+        "El mecanismo de rosca se desliza por debajo de 0 °C — reemplazar con bastones de palanca para senderismo invernal"
+      ],
       "grade": "B+",
-      "specs": {"Peso (par)": "490g", "Material": "Aluminio 7075", "Empuñadura": "Espuma EVA con zona de eje extendida", "Mecanismo": "Rosca", "Longitud plegada": "62 cm", "Mercado": "Japón principalmente", "Precio": "Gama media"},
-      "scores": {"Weight": 3.7, "Packability": 3.1, "Grip comfort": 4.5, "Mechanism reliability": 3.9, "Value": 4.2}
+      "specs": {
+        "Peso (par)": "490g",
+        "Material": "Aluminio 7075",
+        "Empuñadura": "Espuma EVA con zona de eje extendida",
+        "Mecanismo": "Rosca",
+        "Longitud plegada": "62 cm",
+        "Mercado": "Japón principalmente",
+        "Precio": "Gama media"
+      },
+      "scores": {
+        "Peso": 3.7,
+        "Embalabilidad": 3.1,
+        "Comodidad del agarre": 4.5,
+        "Confiabilidad del mecanismo": 3.9,
+        "Valor": 4.2
+      }
     },
     {
       "offerId": "hiking-poles-komperdell-carbon",
       "badge": "Mejor valor en carbono",
       "review": "El Komperdell Carbon C3 Pro entrega construcción de fibra de carbono 100% a €101 por par — significativamente más barato que los €165 de Leki con el mismo material. A 148 g por bastón (296 g por par), ahorra 186 g sobre el par de aluminio Black Diamond Trail. El grip de goma es funcional en condiciones húmedas y secas, pero menos cómodo que el corcho en sesiones de 4+ horas. El mecanismo de palanca sujeta bien.",
-      "pros": ["100% fibra de carbono a €101/par — cierra la brecha de precio vs Leki en €64", "148 g por bastón — 93 g más ligero por bastón que el aluminio Black Diamond", "El grip de goma funciona en condiciones húmedas sin el problema de resbalamiento del corcho"],
-      "cons": ["Grip de goma menos cómodo que el corcho para sesiones largas", "La laminación de carbono es menos resistente a los impactos que Leki — los impactos de punta en roca requieren más cuidado"],
+      "pros": [
+        "100% fibra de carbono a €101/par — cierra la brecha de precio vs Leki en €64",
+        "148 g por bastón — 93 g más ligero por bastón que el aluminio Black Diamond",
+        "El grip de goma funciona en condiciones húmedas sin el problema de resbalamiento del corcho"
+      ],
+      "cons": [
+        "Grip de goma menos cómodo que el corcho para sesiones largas",
+        "La laminación de carbono es menos resistente a los impactos que Leki — los impactos de punta en roca requieren más cuidado"
+      ],
       "grade": "B",
-      "specs": {"Peso (par)": "296g", "Material": "Fibra de carbono", "Empuñadura": "Goma", "Mecanismo": "Cierre de palanca", "Longitud plegada": "36 cm", "Canasta": "Canasta de trekking incluida", "Precio": "€101"},
-      "scores": {"Weight": 4.8, "Packability": 4.9, "Grip comfort": 3.8, "Mechanism reliability": 4.6, "Value": 4.5}
+      "specs": {
+        "Peso (par)": "296g",
+        "Material": "Fibra de carbono",
+        "Empuñadura": "Goma",
+        "Mecanismo": "Cierre de palanca",
+        "Longitud plegada": "36 cm",
+        "Canasta": "Canasta de trekking incluida",
+        "Precio": "€101"
+      },
+      "scores": {
+        "Peso": 4.8,
+        "Embalabilidad": 4.9,
+        "Comodidad del agarre": 3.8,
+        "Confiabilidad del mecanismo": 4.6,
+        "Valor": 4.5
+      }
     }
   ],
   "faqs": [
@@ -106,9 +209,21 @@
     }
   ],
   "recommendedFor": [
-    {"label": "Para excursionistas de día que quieren la mejor fiabilidad general", "offerId": "hiking-poles-black-diamond-trail", "reason": "Palanca actualizada en 2026, reparable en campo, empuñadura EVA para condiciones mixtas — la elección segura por defecto."},
-    {"label": "Para mochileros donde cada gramo cuenta", "offerId": "hiking-poles-leki-micro-vario", "reason": "236 g por bastón es el más ligero en esta comparación; 38 cm plegado cabe en compartimentos de avión."},
-    {"label": "Para rendimiento de carbono con presupuesto ajustado", "offerId": "hiking-poles-komperdell-carbon", "reason": "100% carbono a €101/par — €64 más barato que Leki con ahorros de peso similares sobre aluminio."}
+    {
+      "label": "Para excursionistas de día que quieren la mejor fiabilidad general",
+      "offerId": "hiking-poles-black-diamond-trail",
+      "reason": "Palanca actualizada en 2026, reparable en campo, empuñadura EVA para condiciones mixtas — la elección segura por defecto."
+    },
+    {
+      "label": "Para mochileros donde cada gramo cuenta",
+      "offerId": "hiking-poles-leki-micro-vario",
+      "reason": "236 g por bastón es el más ligero en esta comparación; 38 cm plegado cabe en compartimentos de avión."
+    },
+    {
+      "label": "Para rendimiento de carbono con presupuesto ajustado",
+      "offerId": "hiking-poles-komperdell-carbon",
+      "reason": "100% carbono a €101/par — €64 más barato que Leki con ahorros de peso similares sobre aluminio."
+    }
   ],
   "pinDescription": "Bastones de senderismo 2026 comparados — carbono ultraligero vs aluminio duradero, palanca vs rosca. Leki vs Black Diamond vs REI vs Komperdell vs Montbell: peso, grip, compacidad para senderistas.",
   "offerNotes": ""

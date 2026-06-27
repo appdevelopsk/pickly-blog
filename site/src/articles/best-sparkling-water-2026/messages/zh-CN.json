@@ -74,58 +74,173 @@
       "offerId": "liquid-death-mountain-water",
       "badge": "综合最佳",
       "review": "Liquid Death强劲的碳酸气泡明显比大多数竞品更尖锐、更持久——那股劲儿一直保持到最后一口，这是较轻气泡水所不具备的。水源来自奥地利阿尔卑斯山，铝罐灌装，是为那些觉得Topo Chico和Perrier过于温和的消费者量身打造的强碳酸之选。每盎司价格高于超市自有品牌气泡水，但整箱购买后价格会更合理。",
-      "pros": ["本次比较中碳酸最强劲、最持久", "铝罐回收率远高于塑料", "气泡持久性出色，适合用作高端鸡尾酒调配底料"],
-      "cons": ["每盎司价格最高——需批量购买才能接近合理价位"],
+      "pros": [
+        "本次比较中碳酸最强劲、最持久",
+        "铝罐回收率远高于塑料",
+        "气泡持久性出色，适合用作高端鸡尾酒调配底料"
+      ],
+      "cons": [
+        "每盎司价格最高——需批量购买才能接近合理价位"
+      ],
       "grade": "A+",
-      "specs": {"Source": "奥地利阿尔卑斯山", "Carbonation": "极高（强制充气）", "Format": "16.9盎司铝罐", "Calories": "0", "Sodium": "每罐约10mg", "Available flavors": "原味+调味气泡水系列"},
-      "scores": {"Carbonation level": 5.0, "Flavor": 4.3, "Value": 3.5, "Ingredient quality": 4.5, "Convenience": 4.7}
+      "specs": {
+        "Source": "奥地利阿尔卑斯山",
+        "Carbonation": "极高（强制充气）",
+        "Format": "16.9盎司铝罐",
+        "Calories": "0",
+        "Sodium": "每罐约10mg",
+        "Available flavors": "原味+调味气泡水系列"
+      },
+      "scores": {
+        "汽泡程度": 5,
+        "风味": 4.3,
+        "价值": 3.5,
+        "成分质量": 4.5,
+        "便利性": 4.7
+      }
     },
     {
       "offerId": "topo-chico-mineral-water",
       "badge": "调酒最佳",
       "review": "Topo Chico早在广泛普及之前就已是调酒师的调酒首选，其高度紧致的碳酸——细密持续的小气泡而非大而松软的气泡——正是与梅斯卡尔和龙舌兰highball完美契合的关键。天然矿物质含量赋予其略带咸鲜的深度，为烈酒加水类饮品增添了层次感。值得购买的是玻璃瓶版本；厚重的瓶身使其便携性欠佳。",
-      "pros": ["高度紧致的碳酸在整杯混合饮品中持续保持", "天然矿物质含量为鸡尾酒增添咸鲜深度", "自1895年起在同一蒙特雷泉水处装瓶——可口可乐收购后配方未变"],
-      "cons": ["厚重玻璃瓶便携性差，不适合户外使用"],
+      "pros": [
+        "高度紧致的碳酸在整杯混合饮品中持续保持",
+        "天然矿物质含量为鸡尾酒增添咸鲜深度",
+        "自1895年起在同一蒙特雷泉水处装瓶——可口可乐收购后配方未变"
+      ],
+      "cons": [
+        "厚重玻璃瓶便携性差，不适合户外使用"
+      ],
       "grade": "A",
-      "specs": {"Source": "墨西哥蒙特雷（天然泉水）", "Carbonation": "高（天然含气+充气）", "Format": "玻璃瓶/限量铝罐", "Calories": "0", "Minerals": "钙、镁、钠", "Available flavors": "原味+青柠风味"},
-      "scores": {"Carbonation level": 4.8, "Flavor": 4.5, "Value": 3.8, "Ingredient quality": 4.8, "Convenience": 3.0}
+      "specs": {
+        "Source": "墨西哥蒙特雷（天然泉水）",
+        "Carbonation": "高（天然含气+充气）",
+        "Format": "玻璃瓶/限量铝罐",
+        "Calories": "0",
+        "Minerals": "钙、镁、钠",
+        "Available flavors": "原味+青柠风味"
+      },
+      "scores": {
+        "汽泡程度": 4.8,
+        "风味": 4.5,
+        "价值": 3.8,
+        "成分质量": 4.8,
+        "便利性": 3
+      }
     },
     {
       "offerId": "perrier-sparkling-water",
       "badge": "餐搭最佳",
       "review": "Perrier中等碳酸强度——比La Croix强，比Topo Chico或Liquid Death弱——使其成为餐搭最灵活的选择：足够清洁餐间味蕾，又不至于喧宾夺主。标志性的绿色玻璃瓶依然是标准规格，调味系列（青柠、柠檬、葡萄柚）采用真实风味，不添加甜味剂或柠檬酸。",
-      "pros": ["中等碳酸强度适合餐间味觉清洁", "调味系列采用真实风味，无甜味剂及柠檬酸", "全球知名瓶型适合桌面服务展示"],
-      "cons": ["开瓶后碳酸消散速度快于Topo Chico或Liquid Death"],
+      "pros": [
+        "中等碳酸强度适合餐间味觉清洁",
+        "调味系列采用真实风味，无甜味剂及柠檬酸",
+        "全球知名瓶型适合桌面服务展示"
+      ],
+      "cons": [
+        "开瓶后碳酸消散速度快于Topo Chico或Liquid Death"
+      ],
       "grade": "B+",
-      "specs": {"Source": "法国韦尔热兹（天然泉水）", "Carbonation": "中等（CO2回捕后回注）", "Format": "玻璃瓶/铝罐/塑料瓶", "Calories": "0", "Minerals": "钙、镁、钠", "Available flavors": "原味+青柠、柠檬、葡萄柚、草莓"},
-      "scores": {"Carbonation level": 3.8, "Flavor": 4.5, "Value": 4.0, "Ingredient quality": 4.7, "Convenience": 4.2}
+      "specs": {
+        "Source": "法国韦尔热兹（天然泉水）",
+        "Carbonation": "中等（CO2回捕后回注）",
+        "Format": "玻璃瓶/铝罐/塑料瓶",
+        "Calories": "0",
+        "Minerals": "钙、镁、钠",
+        "Available flavors": "原味+青柠、柠檬、葡萄柚、草莓"
+      },
+      "scores": {
+        "汽泡程度": 3.8,
+        "风味": 4.5,
+        "价值": 4,
+        "成分质量": 4.7,
+        "便利性": 4.2
+      }
     },
     {
       "offerId": "la-croix-sparkling-water",
       "badge": "日常大量补水最佳",
       "review": "La Croix的轻盈碳酸对于追求每日补水目标的用户而言是优点而非缺陷——轻柔气泡意味着大量饮用也不会感到胀气。超过20种天然香精口味覆盖口味各异的家庭，整箱定价在气泡水品类中始终名列前茅。它是这份榜单上最不令人激动的水，但作为日常饮用水最为实用。",
-      "pros": ["轻盈碳酸支持大量饮用而不胀气", "20+种口味含混合装，适合口味各异的家庭", "整箱定价持续具有竞争力"],
-      "cons": ["在混合饮品中碳酸迅速消散——不适合作为鸡尾酒调配底料"],
+      "pros": [
+        "轻盈碳酸支持大量饮用而不胀气",
+        "20+种口味含混合装，适合口味各异的家庭",
+        "整箱定价持续具有竞争力"
+      ],
+      "cons": [
+        "在混合饮品中碳酸迅速消散——不适合作为鸡尾酒调配底料"
+      ],
       "grade": "B",
-      "specs": {"Source": "市政水（充气）", "Carbonation": "轻", "Format": "修长铝罐", "Calories": "0", "Sweeteners": "无", "Available flavors": "20+种天然香精口味"},
-      "scores": {"Carbonation level": 2.5, "Flavor": 3.8, "Value": 4.8, "Ingredient quality": 4.3, "Convenience": 5.0}
+      "specs": {
+        "Source": "市政水（充气）",
+        "Carbonation": "轻",
+        "Format": "修长铝罐",
+        "Calories": "0",
+        "Sweeteners": "无",
+        "Available flavors": "20+种天然香精口味"
+      },
+      "scores": {
+        "汽泡程度": 2.5,
+        "风味": 3.8,
+        "价值": 4.8,
+        "成分质量": 4.3,
+        "便利性": 5
+      }
     },
     {
       "offerId": "spindrift-sparkling-water",
       "badge": "真实果味最佳",
       "review": "Spindrift是本次比较中的异类：每罐真实鲜榨果汁带来的口感，货真价实地像真正的水果，而非近似模仿。尤其是柠檬口味格外诚实——喝起来就像有人把柠檬挤进了气泡水，因为本质上确实如此。少量热量（每罐9–17卡路里）使其无法归入零卡选项，这是唯一有实质意义的取舍。",
-      "pros": ["真实鲜榨果汁——本次比较中最诚实的风味", "配料表简短：碳酸水、果汁，有时加果泥", "早餐搭配最佳，果酸与食物相得益彰"],
-      "cons": ["每罐9–17卡路里——尽管含糖量极低，仍非零卡选项"],
+      "pros": [
+        "真实鲜榨果汁——本次比较中最诚实的风味",
+        "配料表简短：碳酸水、果汁，有时加果泥",
+        "早餐搭配最佳，果酸与食物相得益彰"
+      ],
+      "cons": [
+        "每罐9–17卡路里——尽管含糖量极低，仍非零卡选项"
+      ],
       "grade": "B-",
-      "specs": {"Source": "市政水（充气）", "Carbonation": "中轻", "Format": "标准铝罐", "Calories": "每罐9–17卡（因口味而异）", "Juice content": "真实鲜榨果汁", "Available flavors": "柠檬、葡萄柚、覆盆子青柠、草莓等"},
-      "scores": {"Carbonation level": 3.5, "Flavor": 5.0, "Value": 3.8, "Ingredient quality": 5.0, "Convenience": 4.5}
+      "specs": {
+        "Source": "市政水（充气）",
+        "Carbonation": "中轻",
+        "Format": "标准铝罐",
+        "Calories": "每罐9–17卡（因口味而异）",
+        "Juice content": "真实鲜榨果汁",
+        "Available flavors": "柠檬、葡萄柚、覆盆子青柠、草莓等"
+      },
+      "scores": {
+        "汽泡程度": 3.5,
+        "风味": 5,
+        "价值": 3.8,
+        "成分质量": 5,
+        "便利性": 4.5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "追求极致碳酸满足感", "offerId": "liquid-death-mountain-water", "reason": "如果你觉得其他气泡水太过温柔，Liquid Death强劲的碳酸能带来最尖锐的口感，而且一直保持到最后一口。"},
-    {"label": "鸡尾酒调配", "offerId": "topo-chico-mineral-water", "reason": "细密持续的气泡和天然矿物深度在整杯混合饮品中始终在线——这正是调酒师在它普及之前就选择它的原因。"},
-    {"label": "餐桌美食搭配", "offerId": "perrier-sparkling-water", "reason": "中等碳酸强度清洁餐间味蕾而不喧宾夺主，瓶型也在餐桌上颇为得体。"},
-    {"label": "日常大量补水", "offerId": "la-croix-sparkling-water", "reason": "轻盈气泡、20+种口味和具有竞争力的整箱定价，使其成为每天饮用多罐时最实用的选择。"},
-    {"label": "追求真实果味、拒绝人工添加剂", "offerId": "spindrift-sparkling-water", "reason": "真实鲜榨果汁带来货真价实的水果风味——是本次比较中唯一彻底解决「人工香料」问题的选择。"}
+    {
+      "label": "追求极致碳酸满足感",
+      "offerId": "liquid-death-mountain-water",
+      "reason": "如果你觉得其他气泡水太过温柔，Liquid Death强劲的碳酸能带来最尖锐的口感，而且一直保持到最后一口。"
+    },
+    {
+      "label": "鸡尾酒调配",
+      "offerId": "topo-chico-mineral-water",
+      "reason": "细密持续的气泡和天然矿物深度在整杯混合饮品中始终在线——这正是调酒师在它普及之前就选择它的原因。"
+    },
+    {
+      "label": "餐桌美食搭配",
+      "offerId": "perrier-sparkling-water",
+      "reason": "中等碳酸强度清洁餐间味蕾而不喧宾夺主，瓶型也在餐桌上颇为得体。"
+    },
+    {
+      "label": "日常大量补水",
+      "offerId": "la-croix-sparkling-water",
+      "reason": "轻盈气泡、20+种口味和具有竞争力的整箱定价，使其成为每天饮用多罐时最实用的选择。"
+    },
+    {
+      "label": "追求真实果味、拒绝人工添加剂",
+      "offerId": "spindrift-sparkling-water",
+      "reason": "真实鲜榨果汁带来货真价实的水果风味——是本次比较中唯一彻底解决「人工香料」问题的选择。"
+    }
   ]
 }

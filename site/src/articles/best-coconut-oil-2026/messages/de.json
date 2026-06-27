@@ -4,11 +4,31 @@
   "lede": "Kokosöl ist eines der wenigen Lebensmittel, bei denen die Unterschiede auf dem Etikett wirklich zählen. Nativ versus raffiniert ist kein Marketingbegriff — es bestimmt Rauchpunkt, Aroma und ob noch Nährstoffe vorhanden sind. Hier wurden fünf Produkte ausgewählt, die genau das halten, was auf dem Glas steht — nicht weil sie das schönste Branding haben.",
   "methodology": "Verglichen wurden Herstellungsmethode (kaltgepresst vs. expellergepresst vs. RBD-raffiniert), Rauchpunkt, Geschmack in Kochanwendungen, Reinheit der Zutaten und Zertifizierungen. Biostatus und Transparenz zur Herkunft wurden stark gewichtet.",
   "recommendedFor": [
-    { "label": "Hochtemperaturkochen (Braten, Anbraten)", "offerId": "coconut-oil-spectrum-organics", "reason": "Raffiniertes Bio-Öl mit 204 °C Rauchpunkt — neutraler Geschmack, hält Hitze problemlos stand" },
-    { "label": "Bulletproof-Kaffee und Smoothies", "offerId": "coconut-oil-nutiva-organic-virgin", "reason": "Kaltgepresstes natives Aroma bereichert den Kaffee ohne zu überlagern" },
-    { "label": "Günstiges Alltagskochen", "offerId": "coconut-oil-carrington-farms", "reason": "Bio-kaltgepresst zum niedrigsten Preis pro 100 ml der fünf Kandidaten" },
-    { "label": "Haut- und Haarpflege", "offerId": "coconut-oil-viva-naturals-extra-virgin", "reason": "Unraffiniert, kaltgepresst — zieht gut ein ohne das Fettgefühl raffinierter Varianten" },
-    { "label": "Keto- und MCT-Fokus", "offerId": "coconut-oil-life-extension-coconut", "reason": "Fraktioniert mit erhöhtem C8/C10-MCT-Verhältnis für die Ketonproduktion" }
+    {
+      "label": "Hochtemperaturkochen (Braten, Anbraten)",
+      "offerId": "coconut-oil-spectrum-organics",
+      "reason": "Raffiniertes Bio-Öl mit 204 °C Rauchpunkt — neutraler Geschmack, hält Hitze problemlos stand"
+    },
+    {
+      "label": "Bulletproof-Kaffee und Smoothies",
+      "offerId": "coconut-oil-nutiva-organic-virgin",
+      "reason": "Kaltgepresstes natives Aroma bereichert den Kaffee ohne zu überlagern"
+    },
+    {
+      "label": "Günstiges Alltagskochen",
+      "offerId": "coconut-oil-carrington-farms",
+      "reason": "Bio-kaltgepresst zum niedrigsten Preis pro 100 ml der fünf Kandidaten"
+    },
+    {
+      "label": "Haut- und Haarpflege",
+      "offerId": "coconut-oil-viva-naturals-extra-virgin",
+      "reason": "Unraffiniert, kaltgepresst — zieht gut ein ohne das Fettgefühl raffinierter Varianten"
+    },
+    {
+      "label": "Keto- und MCT-Fokus",
+      "offerId": "coconut-oil-life-extension-coconut",
+      "reason": "Fraktioniert mit erhöhtem C8/C10-MCT-Verhältnis für die Ketonproduktion"
+    }
   ],
   "sections": [
     {
@@ -64,10 +84,10 @@
         "Serving size": "1 EL / 14 g"
       },
       "scores": {
-        "Flavor": 5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 3.5
+        "Geschmack": 5,
+        "Reinheit": 5,
+        "Wert": 4,
+        "Vielseitigkeit": 3.5
       }
     },
     {
@@ -93,10 +113,10 @@
         "Serving size": "1 EL / 14 g"
       },
       "scores": {
-        "Flavor": 4.5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 4
+        "Geschmack": 4.5,
+        "Reinheit": 5,
+        "Wert": 4,
+        "Vielseitigkeit": 4
       }
     },
     {
@@ -122,10 +142,10 @@
         "Serving size": "1 EL / 14 g"
       },
       "scores": {
-        "Flavor": 3,
-        "Purity": 4.5,
-        "Value": 4,
-        "Versatility": 5
+        "Geschmack": 3,
+        "Reinheit": 4.5,
+        "Wert": 4,
+        "Vielseitigkeit": 5
       }
     },
     {
@@ -152,10 +172,10 @@
         "MCT content": "~7 g C8/C10 pro EL"
       },
       "scores": {
-        "Macro quality": 5,
-        "Satiety": 4,
-        "Value": 3.5,
-        "Versatility": 2
+        "Makroqualität": 5,
+        "Sättigung": 4,
+        "Wert": 3.5,
+        "Vielseitigkeit": 2
       }
     },
     {
@@ -181,10 +201,10 @@
         "Serving size": "1 EL / 14 g"
       },
       "scores": {
-        "Flavor": 4,
-        "Purity": 4.5,
-        "Value": 5,
-        "Versatility": 4
+        "Geschmack": 4,
+        "Reinheit": 4.5,
+        "Wert": 5,
+        "Vielseitigkeit": 4
       }
     }
   ],

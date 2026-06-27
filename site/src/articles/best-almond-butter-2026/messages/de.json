@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
-        "Texture": 4.8,
-        "Nutrition": 5
+        "Geschmack": 4.7,
+        "Beschaffung": 4.8,
+        "Wert": 4.7,
+        "Textur": 4.8,
+        "Ernährung": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
-        "Texture": 4,
-        "Nutrition": 4.7
+        "Geschmack": 4.4,
+        "Beschaffung": 4,
+        "Wert": 4.4,
+        "Textur": 4,
+        "Ernährung": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
-        "Texture": 4.2,
-        "Nutrition": 4.4
+        "Geschmack": 4.6,
+        "Beschaffung": 4.2,
+        "Wert": 4.1,
+        "Textur": 4.2,
+        "Ernährung": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
-        "Texture": 3.4,
-        "Nutrition": 4.1
+        "Geschmack": 3.8,
+        "Beschaffung": 3.9,
+        "Wert": 3.8,
+        "Textur": 3.4,
+        "Ernährung": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
-        "Texture": 3.6,
-        "Nutrition": 3.8
+        "Geschmack": 4,
+        "Beschaffung": 3.6,
+        "Wert": 4,
+        "Textur": 3.6,
+        "Ernährung": 3.8
       }
     }
   ],
-  "methodology": "Wir haben jedes Produkt anhand von Geschmacksprofil, Transparenz der Beschaffung, Preis-Leistungs-Verhältnis pro Portion, Verpackungsqualität und seiner Eignung für gängige Anwendungszwecke bewertet. Dokumentierte Zertifizierungen und verifizierte Nutzerbewertungen wurden mit den Marketingaussagen abgeglichen."
+  "methodology": "Wir haben jedes Produkt anhand von Geschmacksprofil, Transparenz der Beschaffung, Preis-Leistungs-Verhältnis pro Portion, Verpackungsqualität und seiner Eignung für gängige Anwendungszwecke bewertet. Dokumentierte Zertifizierungen und verifizierte Nutzerbewertungen wurden mit den Marketingaussagen abgeglichen.",
+  "recommendedFor": [
+    {
+      "label": "Für den schnellen Alltag",
+      "offerId": "justins-classic-almond-butter",
+      "reason": "Ideal für vielbeschäftigte Haushalte, die einen cremigen, rührfreien Aufstrich mit nur zwei Zutaten wollen."
+    },
+    {
+      "label": "Für cremige Textur beim Kochen",
+      "offerId": "barney-bare-almond-butter",
+      "reason": "Am besten für alle, die eine feinere, mildere Paste bevorzugen, die sich leicht in süße und herzhafte Rezepte einfügt."
+    },
+    {
+      "label": "Für Käufer ohne Palmöl",
+      "offerId": "wild-friends-almond-butter",
+      "reason": "Ideal für alle, die Palmöl meiden und ein sauberes, steingemahlenes Bio-Glas suchen."
+    },
+    {
+      "label": "Für Rohkost-Fans",
+      "offerId": "artisana-organic-almond-butter",
+      "reason": "Perfekt für Rohkost-Liebhaber, die intensiven, komplexen Geschmack und maximale Nährstoffdichte suchen."
+    },
+    {
+      "label": "Für müheloses tägliches Genießen",
+      "offerId": "maranatha-no-stir-almond-butter",
+      "reason": "Geeignet für alle, die einen gleichmäßigen, unkomplizierten Aufstrich ganz ohne Umrühren wollen."
+    }
+  ]
 }

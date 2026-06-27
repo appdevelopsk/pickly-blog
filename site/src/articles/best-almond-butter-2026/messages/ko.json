@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
-        "Texture": 4.8,
-        "Nutrition": 5
+        "맛": 4.7,
+        "소싱": 4.8,
+        "가성비": 4.7,
+        "텍스처": 4.8,
+        "영양": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
-        "Texture": 4,
-        "Nutrition": 4.7
+        "맛": 4.4,
+        "소싱": 4,
+        "가성비": 4.4,
+        "텍스처": 4,
+        "영양": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
-        "Texture": 4.2,
-        "Nutrition": 4.4
+        "맛": 4.6,
+        "소싱": 4.2,
+        "가성비": 4.1,
+        "텍스처": 4.2,
+        "영양": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
-        "Texture": 3.4,
-        "Nutrition": 4.1
+        "맛": 3.8,
+        "소싱": 3.9,
+        "가성비": 3.8,
+        "텍스처": 3.4,
+        "영양": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
-        "Texture": 3.6,
-        "Nutrition": 3.8
+        "맛": 4,
+        "소싱": 3.6,
+        "가성비": 4,
+        "텍스처": 3.6,
+        "영양": 3.8
       }
     }
   ],
-  "methodology": "각 제품을 풍미, 원료 투명성, 1회분당 가성비, 포장 품질, 실용성으로 평가했습니다. 인증 정보와 실사용자 리뷰를 광고 문구와 대조 검증했습니다."
+  "methodology": "각 제품을 풍미, 원료 투명성, 1회분당 가성비, 포장 품질, 실용성으로 평가했습니다. 인증 정보와 실사용자 리뷰를 광고 문구와 대조 검증했습니다.",
+  "recommendedFor": [
+    {
+      "label": "매일 빠르게 발라 먹는 분께",
+      "offerId": "justins-classic-almond-butter",
+      "reason": "휘저을 필요 없이 크리미하고 재료가 두 가지뿐인 스프레드를 원하는 바쁜 가정에 안성맞춤."
+    },
+    {
+      "label": "부드러운 식감으로 요리하는 분께",
+      "offerId": "barney-bare-almond-butter",
+      "reason": "더 부드럽고 순한 페이스트를 선호하며 단 요리와 짭짤한 요리에 쉽게 어울리길 원하는 분께 최적."
+    },
+    {
+      "label": "팜유를 피하는 분께",
+      "offerId": "wild-friends-almond-butter",
+      "reason": "팜유를 피하고 돌로 간 깔끔한 유기농 한 병을 원하는 분께 추천."
+    },
+    {
+      "label": "생식 애호가께",
+      "offerId": "artisana-organic-almond-butter",
+      "reason": "진하고 복합적인 풍미와 최대한의 영양 밀도를 찾는 생식 애호가에게 완벽."
+    },
+    {
+      "label": "번거로움 없이 매일 쓰는 분께",
+      "offerId": "maranatha-no-stir-almond-butter",
+      "reason": "전혀 휘저을 필요 없이 일정하고 간편한 스프레드를 원하는 누구에게나 적합."
+    }
+  ]
 }

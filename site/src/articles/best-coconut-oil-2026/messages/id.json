@@ -4,11 +4,31 @@
   "lede": "Minyak kelapa adalah salah satu bahan yang perbedaan labelnya benar-benar penting. Virgin versus refined bukan sekadar istilah pemasaran — itu menentukan titik asap, rasa, dan apakah masih ada kandungan gizi yang tersisa. Kelima produk ini dipilih karena memenuhi apa yang tertulis di kemasannya, bukan karena memiliki branding paling menarik.",
   "methodology": "Produk dibandingkan berdasarkan metode produksi (cold-pressed vs. expeller-pressed vs. RBD), titik asap, rasa dalam aplikasi memasak, kemurnian bahan, dan sertifikasi. Status organik dan transparansi asal diberikan bobot tinggi mengingat kemampuan kelapa menyerap pestisida.",
   "recommendedFor": [
-    { "label": "Memasak suhu tinggi (tumis, panggang)", "offerId": "coconut-oil-spectrum-organics", "reason": "Refined organik dengan titik asap 204°C — rasa netral, menangani panas tinggi dengan baik" },
-    { "label": "Kopi bulletproof dan smoothie", "offerId": "coconut-oil-nutiva-organic-virgin", "reason": "Rasa virgin cold-pressed meningkatkan kopi tanpa mendominasi" },
-    { "label": "Memasak sehari-hari yang hemat", "offerId": "coconut-oil-carrington-farms", "reason": "Cold-pressed organik dengan harga per gram terendah dari kelima produk" },
-    { "label": "Perawatan kulit dan rambut", "offerId": "coconut-oil-viva-naturals-extra-virgin", "reason": "Unrefined, cold-pressed, menyerap dengan baik tanpa rasa berminyak dari versi refined" },
-    { "label": "Fokus keto dan MCT", "offerId": "coconut-oil-life-extension-coconut", "reason": "Terfraksinasi dengan rasio C8/C10 MCT tinggi untuk produksi keton" }
+    {
+      "label": "Memasak suhu tinggi (tumis, panggang)",
+      "offerId": "coconut-oil-spectrum-organics",
+      "reason": "Refined organik dengan titik asap 204°C — rasa netral, menangani panas tinggi dengan baik"
+    },
+    {
+      "label": "Kopi bulletproof dan smoothie",
+      "offerId": "coconut-oil-nutiva-organic-virgin",
+      "reason": "Rasa virgin cold-pressed meningkatkan kopi tanpa mendominasi"
+    },
+    {
+      "label": "Memasak sehari-hari yang hemat",
+      "offerId": "coconut-oil-carrington-farms",
+      "reason": "Cold-pressed organik dengan harga per gram terendah dari kelima produk"
+    },
+    {
+      "label": "Perawatan kulit dan rambut",
+      "offerId": "coconut-oil-viva-naturals-extra-virgin",
+      "reason": "Unrefined, cold-pressed, menyerap dengan baik tanpa rasa berminyak dari versi refined"
+    },
+    {
+      "label": "Fokus keto dan MCT",
+      "offerId": "coconut-oil-life-extension-coconut",
+      "reason": "Terfraksinasi dengan rasio C8/C10 MCT tinggi untuk produksi keton"
+    }
   ],
   "sections": [
     {
@@ -64,10 +84,10 @@
         "Serving size": "1 sdm / 14 g"
       },
       "scores": {
-        "Flavor": 5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 3.5
+        "Rasa": 5,
+        "Kemurnian": 5,
+        "Nilai": 4,
+        "Keserbagunaan": 3.5
       }
     },
     {
@@ -93,10 +113,10 @@
         "Serving size": "1 sdm / 14 g"
       },
       "scores": {
-        "Flavor": 4.5,
-        "Purity": 5,
-        "Value": 4,
-        "Versatility": 4
+        "Rasa": 4.5,
+        "Kemurnian": 5,
+        "Nilai": 4,
+        "Keserbagunaan": 4
       }
     },
     {
@@ -122,10 +142,10 @@
         "Serving size": "1 sdm / 14 g"
       },
       "scores": {
-        "Flavor": 3,
-        "Purity": 4.5,
-        "Value": 4,
-        "Versatility": 5
+        "Rasa": 3,
+        "Kemurnian": 4.5,
+        "Nilai": 4,
+        "Keserbagunaan": 5
       }
     },
     {
@@ -152,10 +172,10 @@
         "MCT content": "~7 g C8/C10 per sdm"
       },
       "scores": {
-        "Macro quality": 5,
-        "Satiety": 4,
-        "Value": 3.5,
-        "Versatility": 2
+        "Kualitas Makro": 5,
+        "Kepuasan": 4,
+        "Nilai": 3.5,
+        "Keserbagunaan": 2
       }
     },
     {
@@ -181,10 +201,10 @@
         "Serving size": "1 sdm / 14 g"
       },
       "scores": {
-        "Flavor": 4,
-        "Purity": 4.5,
-        "Value": 5,
-        "Versatility": 4
+        "Rasa": 4,
+        "Kemurnian": 4.5,
+        "Nilai": 5,
+        "Keserbagunaan": 4
       }
     }
   ],

@@ -64,58 +64,174 @@
       "offerId": "rogue-tb-2-trap-bar",
       "badge": "Beste Gesamtleistung",
       "review": "Der Rogue TB-2 ist der Maßstab für Premium-Trap-Bars: 11-Gauge-Stahl, scharfe Rändelung auf beiden Griffen, 16,25-Zoll-Hülsen für schweres Plattenladen und eine 1.000 lb Nennlastkapazität die jedes realistische Heimgymnastikprogramm übertrifft. Bei 300-350 USD ist der Aufpreis gegenüber Budgetalternativen erheblich — aber für Athleten die konsequent 500+ lbs ziehen ist es die richtige Langzeitinvestition.",
-      "pros": ["11-Gauge-Stahlkonstruktion mit 1.000 lb Nennlastkapazität", "Scharfe Doppelgriff-Rändelung bietet sicheren Grip unter Maximallasten", "16,25-Zoll-Hülsen nehmen genüg Platten für 500+ lb Gesamtlasten auf"],
-      "cons": ["300-350 USD Aufpreis ist erheblich gegenüber CAP oder Titan für Athleten die mit mäßigen Lasten heben"],
+      "pros": [
+        "11-Gauge-Stahlkonstruktion mit 1.000 lb Nennlastkapazität",
+        "Scharfe Doppelgriff-Rändelung bietet sicheren Grip unter Maximallasten",
+        "16,25-Zoll-Hülsen nehmen genüg Platten für 500+ lb Gesamtlasten auf"
+      ],
+      "cons": [
+        "300-350 USD Aufpreis ist erheblich gegenüber CAP oder Titan für Athleten die mit mäßigen Lasten heben"
+      ],
       "grade": "A+",
-      "specs": {"Stahlstärke": "11-Gauge", "Lastkapazitaet": "1.000 lb", "Huelsenlaenge": "16,25 Zoll", "Bargewicht": "~27 kg", "Grifftyp": "Dual Hoch/Niedrig Gerändelt", "Preis": "~300-350 USD"},
-      "scores": {"Load capacity": 5.0, "Handle comfort": 4.8, "Build quality": 5.0, "Value": 3.5, "Knurling quality": 5.0}
+      "specs": {
+        "Stahlstärke": "11-Gauge",
+        "Lastkapazitaet": "1.000 lb",
+        "Huelsenlaenge": "16,25 Zoll",
+        "Bargewicht": "~27 kg",
+        "Grifftyp": "Dual Hoch/Niedrig Gerändelt",
+        "Preis": "~300-350 USD"
+      },
+      "scores": {
+        "Tragfähigkeit": 5,
+        "Griff-Komfort": 4.8,
+        "Verarbeitungsqualität": 5,
+        "Wert": 3.5,
+        "Rifflung-Qualität": 5
+      }
     },
     {
       "offerId": "rep-fitness-hd-trap-bar",
       "badge": "Bestes Preis-Leistungs-Premium",
       "review": "Die REP Fitness HD Trap Bar füllt die Lücke zwischen Budget-Hex-Bars und dem Rogue TB-2 — schwereres Gauge als CAP und Titan, bessere Rändelung und längere Hülsen für Athleten die 300-400 lbs laden ohne den vollen Rogue-Aufpreis zu zahlen. Die richtige Wahl für Athleten die die Budgetqualität überwunden haben ohne einen wettkampftauglichen Barren zu benötigen.",
-      "pros": ["Schwereres Gauge als Budgetalternativen mit deutlich besserer Rändelung", "Längere Hülsen als CAP/Titan für mehr Plattenladen bei höheren Gewichten", "REP-Konstruktionsqualität in einem Mittelpreissegment"],
-      "cons": ["150-200 USD kostet mehr als Titan ohne 11-Gauge und 1.000 lb Spezifikation von Rogue zu erreichen"],
+      "pros": [
+        "Schwereres Gauge als Budgetalternativen mit deutlich besserer Rändelung",
+        "Längere Hülsen als CAP/Titan für mehr Plattenladen bei höheren Gewichten",
+        "REP-Konstruktionsqualität in einem Mittelpreissegment"
+      ],
+      "cons": [
+        "150-200 USD kostet mehr als Titan ohne 11-Gauge und 1.000 lb Spezifikation von Rogue zu erreichen"
+      ],
       "grade": "A",
-      "specs": {"Stahlstärke": "Schwer (Mittelbereich)", "Lastkapazitaet": "~700 lb Nennlast", "Huelsenlaenge": "Länger als Budget", "Bargewicht": "~25 kg", "Grifftyp": "Dual Hoch/Niedrig Gerändelt", "Preis": "~150-200 USD"},
-      "scores": {"Load capacity": 4.2, "Handle comfort": 4.5, "Build quality": 4.5, "Value": 4.5, "Knurling quality": 4.5}
+      "specs": {
+        "Stahlstärke": "Schwer (Mittelbereich)",
+        "Lastkapazitaet": "~700 lb Nennlast",
+        "Huelsenlaenge": "Länger als Budget",
+        "Bargewicht": "~25 kg",
+        "Grifftyp": "Dual Hoch/Niedrig Gerändelt",
+        "Preis": "~150-200 USD"
+      },
+      "scores": {
+        "Tragfähigkeit": 4.2,
+        "Griff-Komfort": 4.5,
+        "Verarbeitungsqualität": 4.5,
+        "Wert": 4.5,
+        "Rifflung-Qualität": 4.5
+      }
     },
     {
       "offerId": "titan-fitness-hex-trap-bar",
       "badge": "Bester Mittelklasse",
       "review": "Die Titan Fitness Hex Trap Bar ist der bedeutungsvolle Schritt hoch von CAP — bessere Rändelung, eine etwas schwerere Bar mit ~52 lbs und verbesserte Hülsenqualität für Athleten die regelmäßig 250+ lbs ziehen und die milde Rändelung von CAP bei schweren Sätzen rutschen spüren. Bei 100-150 USD ist es die richtige Wahl wenn CAP-Qualität nicht ausreicht aber Rogue-Preise außer Reichweite sind.",
-      "pros": ["Bessere Rändelung als CAP für sicheren Grip bei 250-400 lb Lasten", "~52 lb Bargewicht bietet gute Stabilität im Hex-Rahmen", "Verbesserte Hülsenqualität gegenüber Budgetalternativen"],
-      "cons": ["100-150 USD kauft Verbesserung gegenüber CAP aber nicht das Gauge oder die Kapazität von REP oder Rogue"],
+      "pros": [
+        "Bessere Rändelung als CAP für sicheren Grip bei 250-400 lb Lasten",
+        "~52 lb Bargewicht bietet gute Stabilität im Hex-Rahmen",
+        "Verbesserte Hülsenqualität gegenüber Budgetalternativen"
+      ],
+      "cons": [
+        "100-150 USD kauft Verbesserung gegenüber CAP aber nicht das Gauge oder die Kapazität von REP oder Rogue"
+      ],
       "grade": "B+",
-      "specs": {"Stahlstärke": "Mittelbereich", "Lastkapazitaet": "~700 lb Nennlast", "Bargewicht": "~52 lb", "Huelsenlaenge": "Standard", "Grifftyp": "Dual Hoch/Niedrig Gerändelt", "Preis": "~100-150 USD"},
-      "scores": {"Load capacity": 3.8, "Handle comfort": 4.2, "Build quality": 4.2, "Value": 4.7, "Knurling quality": 4.2}
+      "specs": {
+        "Stahlstärke": "Mittelbereich",
+        "Lastkapazitaet": "~700 lb Nennlast",
+        "Bargewicht": "~52 lb",
+        "Huelsenlaenge": "Standard",
+        "Grifftyp": "Dual Hoch/Niedrig Gerändelt",
+        "Preis": "~100-150 USD"
+      },
+      "scores": {
+        "Tragfähigkeit": 3.8,
+        "Griff-Komfort": 4.2,
+        "Verarbeitungsqualität": 4.2,
+        "Wert": 4.7,
+        "Rifflung-Qualität": 4.2
+      }
     },
     {
       "offerId": "cap-barbell-trap-bar",
       "badge": "Bestes Budget",
       "review": "Die CAP Barbell Hex Trap Bar ist die richtige Einstiegsoption für Heimgymnastik-Athleten die bereits olympische Platten besitzen und Trap Bar Kreuzheben ohne große Investition hinzufügen wollen. Bei 80-120 USD handhabt sie Lasten unter 300-400 lbs angemessen — die milde Rändelung ist die primäre Einschränkung und wird bei schweren Sätzen mit schwitzenden Händen rutschig.",
-      "pros": ["80-120 USD Einstiegspreis macht Trap Bar Kreuzheben für Heimgymnastiken zugänglich", "Standard 2-Zoll-Olympisch-Hülsen passen zu jeder vorhandenen Plattensammlung", "Doppelgriffe Hoch/Niedrig decken sowohl Anfänger- als auch Fortgeschrittenen-Griffpositionen ab"],
-      "cons": ["Milde Rändelung wird bei schweren schwitzenden Sätzen über 300 lbs rutschig", "500 lb Nennlastkapazität begrenzt den Einsatz für starke Athleten die zu höheren Lasten fortschreiten"],
+      "pros": [
+        "80-120 USD Einstiegspreis macht Trap Bar Kreuzheben für Heimgymnastiken zugänglich",
+        "Standard 2-Zoll-Olympisch-Hülsen passen zu jeder vorhandenen Plattensammlung",
+        "Doppelgriffe Hoch/Niedrig decken sowohl Anfänger- als auch Fortgeschrittenen-Griffpositionen ab"
+      ],
+      "cons": [
+        "Milde Rändelung wird bei schweren schwitzenden Sätzen über 300 lbs rutschig",
+        "500 lb Nennlastkapazität begrenzt den Einsatz für starke Athleten die zu höheren Lasten fortschreiten"
+      ],
       "grade": "B",
-      "specs": {"Stahlstärke": "Standard", "Lastkapazitaet": "500 lb Nennlast", "Bargewicht": "~45 lb", "Hülsengröße": "2-Zoll Olympisch", "Grifftyp": "Dual Hoch/Niedrig", "Preis": "~80-120 USD"},
-      "scores": {"Load capacity": 3.0, "Handle comfort": 3.8, "Build quality": 3.5, "Value": 5.0, "Knurling quality": 3.0}
+      "specs": {
+        "Stahlstärke": "Standard",
+        "Lastkapazitaet": "500 lb Nennlast",
+        "Bargewicht": "~45 lb",
+        "Hülsengröße": "2-Zoll Olympisch",
+        "Grifftyp": "Dual Hoch/Niedrig",
+        "Preis": "~80-120 USD"
+      },
+      "scores": {
+        "Tragfähigkeit": 3,
+        "Griff-Komfort": 3.8,
+        "Verarbeitungsqualität": 3.5,
+        "Wert": 5,
+        "Rifflung-Qualität": 3
+      }
     },
     {
       "offerId": "valor-fitness-ob-hx-trap-bar",
       "badge": "Beste Budget-Alternative",
       "review": "Die Valor Fitness Trap Bar ist eine funktionale Alternative zu Titan wenn der Bestand begrenzt ist — vergleichbare Konstruktion in einem ähnlichen Preissegment mit Doppelgriffen und Standard-Olympisch-Hülsen. Es gibt keine bedeutsame Leistungsdifferenzierung gegenüber Titan und die Wahl zwischen den beiden hängt oft von Verfügbarkeit und Preis am Kauftag ab.",
-      "pros": ["Vergleichbar mit Titan zum ähnlichen Preis — gute Verfügbarkeitsalternative", "Doppelgriffe Hoch/Niedrig und Standard-Olympisch-Hülsen", "Mittelbereich-Konstruktion ausreichend für Heimgymnastiklasten unter 300-400 lbs"],
-      "cons": ["Kein bedeutsamer Leistungsvorteil gegenüber Titan — Wahl hängt primär von Bestand und Preis ab"],
+      "pros": [
+        "Vergleichbar mit Titan zum ähnlichen Preis — gute Verfügbarkeitsalternative",
+        "Doppelgriffe Hoch/Niedrig und Standard-Olympisch-Hülsen",
+        "Mittelbereich-Konstruktion ausreichend für Heimgymnastiklasten unter 300-400 lbs"
+      ],
+      "cons": [
+        "Kein bedeutsamer Leistungsvorteil gegenüber Titan — Wahl hängt primär von Bestand und Preis ab"
+      ],
       "grade": "B-",
-      "specs": {"Stahlstärke": "Mittelbereich", "Lastkapazitaet": "~500-600 lb Nennlast", "Bargewicht": "~48 lb", "Hülsengröße": "2-Zoll Olympisch", "Grifftyp": "Dual Hoch/Niedrig", "Preis": "~90-130 USD"},
-      "scores": {"Load capacity": 3.2, "Handle comfort": 3.8, "Build quality": 3.8, "Value": 4.5, "Knurling quality": 3.5}
+      "specs": {
+        "Stahlstärke": "Mittelbereich",
+        "Lastkapazitaet": "~500-600 lb Nennlast",
+        "Bargewicht": "~48 lb",
+        "Hülsengröße": "2-Zoll Olympisch",
+        "Grifftyp": "Dual Hoch/Niedrig",
+        "Preis": "~90-130 USD"
+      },
+      "scores": {
+        "Tragfähigkeit": 3.2,
+        "Griff-Komfort": 3.8,
+        "Verarbeitungsqualität": 3.8,
+        "Wert": 4.5,
+        "Rifflung-Qualität": 3.5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Für Ernsthaft-Lifter die 500+ lbs ziehen", "offerId": "rogue-tb-2-trap-bar", "reason": "11-Gauge-Stahl und 1.000 lb Nennlastkapazität ist die einzige Baukonstruktion die einem langfristigen ernsthaften Liftprogramm vorausbleibt."},
-    {"label": "Für Fortgeschrittene die über Budget-Bars hinauswachsen", "offerId": "rep-fitness-hd-trap-bar", "reason": "Bessere Rändelung und längere Hülsen als CAP oder Titan zu einem Preis der kein Rogue-Level-Engagement erfordert."},
-    {"label": "Für Athleten die regelmäßig 250-400 lbs heben", "offerId": "titan-fitness-hex-trap-bar", "reason": "Die Rändelungsverbesserung gegenüber CAP ist bei Lasten bedeutsam wo der milde Grip von CAP bei schweren Sätzen zu rutschen beginnt."},
-    {"label": "Für Heimgymnastik-Einsteiger mit Olympischen Platten", "offerId": "cap-barbell-trap-bar", "reason": "Bei 80-120 USD mit Standard-2-Zoll-Hülsen ist es der reibungsloseste Einstiegspunkt um Trap Bar Kreuzheben zu einem vorhandenen Heimgymnastik-Setup hinzuzufügen."},
-    {"label": "Für Lifter wenn Titan nicht vorratig ist", "offerId": "valor-fitness-ob-hx-trap-bar", "reason": "Funktional vergleichbar mit Titan zum ähnlichen Preis — die richtige Entscheidung wenn Titan-Verfügbarkeit begrenzt ist."}
+    {
+      "label": "Für Ernsthaft-Lifter die 500+ lbs ziehen",
+      "offerId": "rogue-tb-2-trap-bar",
+      "reason": "11-Gauge-Stahl und 1.000 lb Nennlastkapazität ist die einzige Baukonstruktion die einem langfristigen ernsthaften Liftprogramm vorausbleibt."
+    },
+    {
+      "label": "Für Fortgeschrittene die über Budget-Bars hinauswachsen",
+      "offerId": "rep-fitness-hd-trap-bar",
+      "reason": "Bessere Rändelung und längere Hülsen als CAP oder Titan zu einem Preis der kein Rogue-Level-Engagement erfordert."
+    },
+    {
+      "label": "Für Athleten die regelmäßig 250-400 lbs heben",
+      "offerId": "titan-fitness-hex-trap-bar",
+      "reason": "Die Rändelungsverbesserung gegenüber CAP ist bei Lasten bedeutsam wo der milde Grip von CAP bei schweren Sätzen zu rutschen beginnt."
+    },
+    {
+      "label": "Für Heimgymnastik-Einsteiger mit Olympischen Platten",
+      "offerId": "cap-barbell-trap-bar",
+      "reason": "Bei 80-120 USD mit Standard-2-Zoll-Hülsen ist es der reibungsloseste Einstiegspunkt um Trap Bar Kreuzheben zu einem vorhandenen Heimgymnastik-Setup hinzuzufügen."
+    },
+    {
+      "label": "Für Lifter wenn Titan nicht vorratig ist",
+      "offerId": "valor-fitness-ob-hx-trap-bar",
+      "reason": "Funktional vergleichbar mit Titan zum ähnlichen Preis — die richtige Entscheidung wenn Titan-Verfügbarkeit begrenzt ist."
+    }
   ]
 }

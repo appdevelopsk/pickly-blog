@@ -65,58 +65,178 @@
       "offerId": "hario-v60-02-ceramic",
       "badge": "Tốt nhất tổng thể",
       "review": "Hario V60 02 gốm sứ là khuyến nghị tiêu chuẩn cho hầu hết người pha tại nhà — hương vị trung tính, giữ nhiệt tốt khi làm ấm trước, và thẩm mỹ cổ điển đã làm cho nó trở thành trung tâm của văn hóa pour-over. Tráng bằng nước nóng trước khi pha để loại bỏ sự khác biệt hấp thụ nhiệt so với nhựa. Đánh đổi là rủi ro vỡ và giá $25–35 so với phiên bản nhựa.",
-      "pros": ["Giữ nhiệt tốt nhất khi làm ấm trước trong số các tùy chọn V60 không phải kim loại", "Hương vị gốm sứ trung tính — không can thiệp hương vị", "V60 tiêu chuẩn cộng đồng với nhiều hướng dẫn pha nhất được viết cho nó"],
-      "cons": ["Dễ vỡ — cần xử lý cẩn thận hoặc hộp đựng khi đi du lịch"],
+      "pros": [
+        "Giữ nhiệt tốt nhất khi làm ấm trước trong số các tùy chọn V60 không phải kim loại",
+        "Hương vị gốm sứ trung tính — không can thiệp hương vị",
+        "V60 tiêu chuẩn cộng đồng với nhiều hướng dẫn pha nhất được viết cho nó"
+      ],
+      "cons": [
+        "Dễ vỡ — cần xử lý cẩn thận hoặc hộp đựng khi đi du lịch"
+      ],
       "grade": "A+",
-      "specs": {"Material": "Gốm sứ", "Size": "02 (1–4 tách)", "Price": "~$25–35", "Heat retention": "Tốt (cần làm ấm trước)", "Fragility": "Trung bình", "Filter size": "V60 02", "Dishwasher safe": "Có"},
-      "scores": {"Brew clarity": 4.7, "Build quality": 4.5, "Ease of use": 4.5, "Value": 4.4, "Versatility": 4.5}
+      "specs": {
+        "Material": "Gốm sứ",
+        "Size": "02 (1–4 tách)",
+        "Price": "~$25–35",
+        "Heat retention": "Tốt (cần làm ấm trước)",
+        "Fragility": "Trung bình",
+        "Filter size": "V60 02",
+        "Dishwasher safe": "Có"
+      },
+      "scores": {
+        "Độ trong của nước pha": 4.7,
+        "Chất lượng xây dựng": 4.5,
+        "Dễ sử dụng": 4.5,
+        "Giá trị": 4.4,
+        "Tính đa năng": 4.5
+      }
     },
     {
       "offerId": "hario-v60-02-plastic",
       "badge": "Tốt nhất cho người mới bắt đầu và du lịch",
       "review": "V60 02 nhựa là điểm khởi đầu tốt nhất để học kỹ thuật V60. Về mặt chức năng giống hệt gốm sứ — cùng hình học, cùng gân xoắn ốc, cùng một lỗ — nhưng nhựa không hấp thụ nhiệt từ nước pha, vì vậy thất thoát nhiệt vào chính dripper là tối thiểu. Không có rủi ro vỡ làm cho nó lý tưởng cho du lịch và sử dụng ngoài trời. Ở mức $8–15, rủi ro tài chính là không đáng kể.",
-      "pros": ["Hình học chiết xuất giống gốm sứ ở $8–15", "Không có rủi ro vỡ — lý tưởng cho du lịch và sử dụng ngoài trời", "Thất thoát nhiệt ít hơn vào dripper so với gốm sứ (nhựa không hấp thụ nhiệt)"],
-      "cons": ["Thẩm mỹ kém sang hơn gốm sứ hoặc kim loại"],
+      "pros": [
+        "Hình học chiết xuất giống gốm sứ ở $8–15",
+        "Không có rủi ro vỡ — lý tưởng cho du lịch và sử dụng ngoài trời",
+        "Thất thoát nhiệt ít hơn vào dripper so với gốm sứ (nhựa không hấp thụ nhiệt)"
+      ],
+      "cons": [
+        "Thẩm mỹ kém sang hơn gốm sứ hoặc kim loại"
+      ],
       "grade": "A",
-      "specs": {"Material": "Nhựa (không có BPA)", "Size": "02 (1–4 tách)", "Price": "~$8–15", "Heat retention": "Thất thoát nhiệt tối thiểu", "Fragility": "Không có", "Filter size": "V60 02", "Dishwasher safe": "Có"},
-      "scores": {"Brew clarity": 4.6, "Build quality": 3.8, "Ease of use": 4.8, "Value": 4.9, "Versatility": 4.7}
+      "specs": {
+        "Material": "Nhựa (không có BPA)",
+        "Size": "02 (1–4 tách)",
+        "Price": "~$8–15",
+        "Heat retention": "Thất thoát nhiệt tối thiểu",
+        "Fragility": "Không có",
+        "Filter size": "V60 02",
+        "Dishwasher safe": "Có"
+      },
+      "scores": {
+        "Độ trong của nước pha": 4.6,
+        "Chất lượng xây dựng": 3.8,
+        "Dễ sử dụng": 4.8,
+        "Giá trị": 4.9,
+        "Tính đa năng": 4.7
+      }
     },
     {
       "offerId": "hario-v60-02-glass",
       "badge": "Tốt nhất cho học bằng hình ảnh",
       "review": "V60 02 thủy tinh sử dụng thủy tinh borosilicate — hoàn toàn trong suốt để bạn có thể xem bloom nở và quan sát sự phân bố nước qua lớp cà phê theo thời gian thực. Phản hồi trực quan này đặc biệt hữu ích để chẩn đoán các vấn đề chiết xuất và học kỹ thuật rót. Thủy tinh giữ ít nhiệt hơn gốm sứ, vì vậy làm ấm trước là cần thiết. Dễ vỡ nhất trong bốn chất liệu.",
-      "pros": ["Trong suốt — xem bloom và sự phân bố nước theo thời gian thực", "Hữu ích để chẩn đoán trực quan các vấn đề chiết xuất", "Cấu trúc borosilicate chịu nhiệt"],
-      "cons": ["Dễ vỡ nhất — rủi ro vỡ cao nhất", "Giữ nhiệt kém nhất trong bảng so sánh này"],
+      "pros": [
+        "Trong suốt — xem bloom và sự phân bố nước theo thời gian thực",
+        "Hữu ích để chẩn đoán trực quan các vấn đề chiết xuất",
+        "Cấu trúc borosilicate chịu nhiệt"
+      ],
+      "cons": [
+        "Dễ vỡ nhất — rủi ro vỡ cao nhất",
+        "Giữ nhiệt kém nhất trong bảng so sánh này"
+      ],
       "grade": "B+",
-      "specs": {"Material": "Thủy tinh borosilicate", "Size": "02 (1–4 tách)", "Price": "~$25–40", "Heat retention": "Thấp (cần làm ấm trước)", "Fragility": "Cao", "Filter size": "V60 02", "Transparency": "Hoàn toàn"},
-      "scores": {"Brew clarity": 4.7, "Build quality": 3.5, "Ease of use": 4.0, "Value": 4.0, "Versatility": 3.8}
+      "specs": {
+        "Material": "Thủy tinh borosilicate",
+        "Size": "02 (1–4 tách)",
+        "Price": "~$25–40",
+        "Heat retention": "Thấp (cần làm ấm trước)",
+        "Fragility": "Cao",
+        "Filter size": "V60 02",
+        "Transparency": "Hoàn toàn"
+      },
+      "scores": {
+        "Độ trong của nước pha": 4.7,
+        "Chất lượng xây dựng": 3.5,
+        "Dễ sử dụng": 4,
+        "Giá trị": 4,
+        "Tính đa năng": 3.8
+      }
     },
     {
       "offerId": "hario-v60-02-metal",
       "badge": "Tốt nhất về độ bền và làm quà tặng",
       "review": "V60 02 kim loại (thép không gỉ hoặc đồng) là tùy chọn bền nhất — không bao giờ vỡ, nóng lên nhanh và đều, và phiên bản đồng là vật trưng bày cũng như công cụ pha cà phê. Ở mức $60–90, đây là dripper V60 đắt nhất, phù hợp nhất như quà tặng hoặc vật trang trí nhà bếp cao cấp. Đối với việc pha thực tế hàng ngày, gốm sứ cho kết quả tương đương với một phần ba giá.",
-      "pros": ["Bất khả hủy — lý tưởng cho sử dụng hàng ngày nhiều hoặc môi trường dễ xảy ra tai nạn", "Phiên bản đồng là quà tặng chất lượng trưng bày cao cấp", "Nóng lên nhanh và đều — không có điểm lạnh"],
-      "cons": ["$60–90 đắt cho một dripper khi gốm sứ cho hiệu suất tương đương"],
+      "pros": [
+        "Bất khả hủy — lý tưởng cho sử dụng hàng ngày nhiều hoặc môi trường dễ xảy ra tai nạn",
+        "Phiên bản đồng là quà tặng chất lượng trưng bày cao cấp",
+        "Nóng lên nhanh và đều — không có điểm lạnh"
+      ],
+      "cons": [
+        "$60–90 đắt cho một dripper khi gốm sứ cho hiệu suất tương đương"
+      ],
       "grade": "B",
-      "specs": {"Material": "Thép không gỉ hoặc đồng", "Size": "02", "Price": "~$60–90", "Heat retention": "Xuất sắc", "Fragility": "Không có", "Filter size": "V60 02", "Aesthetics": "Cao cấp"},
-      "scores": {"Brew clarity": 4.7, "Build quality": 4.9, "Ease of use": 4.3, "Value": 3.5, "Versatility": 4.2}
+      "specs": {
+        "Material": "Thép không gỉ hoặc đồng",
+        "Size": "02",
+        "Price": "~$60–90",
+        "Heat retention": "Xuất sắc",
+        "Fragility": "Không có",
+        "Filter size": "V60 02",
+        "Aesthetics": "Cao cấp"
+      },
+      "scores": {
+        "Độ trong của nước pha": 4.7,
+        "Chất lượng xây dựng": 4.9,
+        "Dễ sử dụng": 4.3,
+        "Giá trị": 3.5,
+        "Tính đa năng": 4.2
+      }
     },
     {
       "offerId": "hario-v60-filters-02",
       "badge": "Vật tư tiêu hao thiết yếu",
       "review": "Giấy lọc Hario V60 02 là vật tư tiêu hao bắt buộc cho bất kỳ bộ thiết lập V60 nào. Cả hai phiên bản trắng và tự nhiên (chưa tẩy trắng) đều hoạt động tốt; sự khác biệt là tối thiểu với hầu hết người pha. Lợi thế thực tế chính so với bộ lọc Kalita Wave: bộ lọc V60 02 được bán tại Starbucks, hầu hết các chuỗi siêu thị và bất kỳ quán cà phê đặc sản nào — bạn sẽ không hết giữa tuần phải chờ giao hàng trực tuyến.",
-      "pros": ["Có bán tại siêu thị, Starbucks và nhà bán lẻ cà phê đặc sản", "100 cái kéo dài khoảng 3 tháng cho người pha hàng ngày", "Cả hai phiên bản trắng và tự nhiên đều có bán rộng rãi"],
-      "cons": ["Phải mua lại thường xuyên — tính vào chi phí V60 liên tục"],
+      "pros": [
+        "Có bán tại siêu thị, Starbucks và nhà bán lẻ cà phê đặc sản",
+        "100 cái kéo dài khoảng 3 tháng cho người pha hàng ngày",
+        "Cả hai phiên bản trắng và tự nhiên đều có bán rộng rãi"
+      ],
+      "cons": [
+        "Phải mua lại thường xuyên — tính vào chi phí V60 liên tục"
+      ],
       "grade": "B-",
-      "specs": {"Size": "02", "Count": "100 cái mỗi gói", "Price": "~$5–10 cho 100 cái", "Types": "Trắng (tẩy trắng) hoặc tự nhiên (chưa tẩy trắng)", "Availability": "Siêu thị toàn quốc", "Fit": "V60 01, 02, 03"},
-      "scores": {"Brew clarity": 4.6, "Build quality": 4.0, "Ease of use": 4.9, "Value": 4.8, "Versatility": 4.4}
+      "specs": {
+        "Size": "02",
+        "Count": "100 cái mỗi gói",
+        "Price": "~$5–10 cho 100 cái",
+        "Types": "Trắng (tẩy trắng) hoặc tự nhiên (chưa tẩy trắng)",
+        "Availability": "Siêu thị toàn quốc",
+        "Fit": "V60 01, 02, 03"
+      },
+      "scores": {
+        "Độ trong của nước pha": 4.6,
+        "Chất lượng xây dựng": 4,
+        "Dễ sử dụng": 4.9,
+        "Giá trị": 4.8,
+        "Tính đa năng": 4.4
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Cho hầu hết người pha tại nhà", "offerId": "hario-v60-02-ceramic", "reason": "V60 tiêu chuẩn cộng đồng với giữ nhiệt tốt và nhiều hướng dẫn pha nhất được viết cho nó"},
-    {"label": "Cho người mới bắt đầu và du khách", "offerId": "hario-v60-02-plastic", "reason": "Cùng hình học chiết xuất ở $8–15 với không có rủi ro vỡ"},
-    {"label": "Để chẩn đoán kỹ thuật pha", "offerId": "hario-v60-02-glass", "reason": "Độ trong suốt hoàn toàn cho phép bạn xem bloom và sự phân bố nước theo thời gian thực"},
-    {"label": "Cho quà tặng hoặc thẩm mỹ cao cấp", "offerId": "hario-v60-02-metal", "reason": "Bất khả hủy và phiên bản đồng là quà tặng chất lượng trưng bày"},
-    {"label": "Để tích trữ vật tư tiêu hao", "offerId": "hario-v60-filters-02", "reason": "Bắt buộc cho mọi lần pha V60 và có bán tại siêu thị khi hết"}
+    {
+      "label": "Cho hầu hết người pha tại nhà",
+      "offerId": "hario-v60-02-ceramic",
+      "reason": "V60 tiêu chuẩn cộng đồng với giữ nhiệt tốt và nhiều hướng dẫn pha nhất được viết cho nó"
+    },
+    {
+      "label": "Cho người mới bắt đầu và du khách",
+      "offerId": "hario-v60-02-plastic",
+      "reason": "Cùng hình học chiết xuất ở $8–15 với không có rủi ro vỡ"
+    },
+    {
+      "label": "Để chẩn đoán kỹ thuật pha",
+      "offerId": "hario-v60-02-glass",
+      "reason": "Độ trong suốt hoàn toàn cho phép bạn xem bloom và sự phân bố nước theo thời gian thực"
+    },
+    {
+      "label": "Cho quà tặng hoặc thẩm mỹ cao cấp",
+      "offerId": "hario-v60-02-metal",
+      "reason": "Bất khả hủy và phiên bản đồng là quà tặng chất lượng trưng bày"
+    },
+    {
+      "label": "Để tích trữ vật tư tiêu hao",
+      "offerId": "hario-v60-filters-02",
+      "reason": "Bắt buộc cho mọi lần pha V60 và có bán tại siêu thị khi hết"
+    }
   ]
 }

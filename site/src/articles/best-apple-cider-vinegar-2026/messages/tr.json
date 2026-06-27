@@ -98,58 +98,170 @@
       "offerId": "bragg-organic-acv",
       "badge": "Genel En İyi",
       "review": "Bragg, ham ACV için referans standart olmayı sürdürür: filtresiz, USDA Organik, aktif kültürleri doğrulayan görünür ana madde iplikleriyle. Keskin elma öne çıkanlı tat, bakkaliye alternatiflerinden daha fazla fermantasyon karmaşıklığına sahip ve 32 oz şişe, günlük tonik kullanımı için rekabetçi fiyatlıdır. Kararsızsanız, başlamanız gereken budur.",
-      "pros": ["Filtresiz «ana maddeli» — görünür aktif kültürler", "USDA Organik ve Non-GMO Verified", "Tonik içenlerin tercih ettiği keskin, karmaşık elma tadı"],
-      "cons": ["Çoğundan daha güçlü tat — yeni başlayanlar için seyreltme gerekli"],
+      "pros": [
+        "Filtresiz «ana maddeli» — görünür aktif kültürler",
+        "USDA Organik ve Non-GMO Verified",
+        "Tonik içenlerin tercih ettiği keskin, karmaşık elma tadı"
+      ],
+      "cons": [
+        "Çoğundan daha güçlü tat — yeni başlayanlar için seyreltme gerekli"
+      ],
       "grade": "A+",
-      "specs": {"Size": "16 oz / 32 oz", "Organic": "USDA Sertifikalı", "Filtered": "Hayır (ana maddeli)", "Acidity": "%5", "Dilution ratio": "8 oz suda 1–2 yemek kaşığı"},
-      "scores": {"Quality": 4.8, "Taste": 4.2, "Value": 4.0, "Nutrition": 4.5, "Versatility": 4.7}
+      "specs": {
+        "Size": "16 oz / 32 oz",
+        "Organic": "USDA Sertifikalı",
+        "Filtered": "Hayır (ana maddeli)",
+        "Acidity": "%5",
+        "Dilution ratio": "8 oz suda 1–2 yemek kaşığı"
+      },
+      "scores": {
+        "Kalite": 4.8,
+        "Tat": 4.2,
+        "Değer": 4,
+        "Beslenme": 4.5,
+        "Çok Yönlülük": 4.7
+      }
     },
     {
       "offerId": "dynamic-health-acv",
       "badge": "En İyi Değer",
       "review": "Bragg ile işlevsel eşdeğer — USDA Organik, filtresiz, ana maddeli — ama genellikle ons başına %15-20 daha ucuz. Elma kaynağı daha az spesifik ve tat biraz daha az karmaşık; ancak ons başına maliyetin önemli olduğu yüksek hacimli pişirme ve günlük tonikler için Dynamic Health, anlamlı ödünleşimler olmaksızın aradaki boşluğu kapatır.",
-      "pros": ["Organik filtresiz seçenekler arasında en düşük ons başına maliyet", "USDA Organik, filtresiz, ana maddeli", "Yüksek hacimli mutfak kullanımı için sağlam değer"],
-      "cons": ["Fairchild's veya Bragg'dan daha az kaynak şeffaflığı"],
+      "pros": [
+        "Organik filtresiz seçenekler arasında en düşük ons başına maliyet",
+        "USDA Organik, filtresiz, ana maddeli",
+        "Yüksek hacimli mutfak kullanımı için sağlam değer"
+      ],
+      "cons": [
+        "Fairchild's veya Bragg'dan daha az kaynak şeffaflığı"
+      ],
       "grade": "A",
-      "specs": {"Size": "32 oz", "Organic": "USDA Sertifikalı", "Filtered": "Hayır (ana maddeli)", "Acidity": "%5", "Price vs Bragg": "~ons başına %15-20 daha ucuz"},
-      "scores": {"Quality": 4.2, "Taste": 3.9, "Value": 4.8, "Nutrition": 4.3, "Versatility": 4.4}
+      "specs": {
+        "Size": "32 oz",
+        "Organic": "USDA Sertifikalı",
+        "Filtered": "Hayır (ana maddeli)",
+        "Acidity": "%5",
+        "Price vs Bragg": "~ons başına %15-20 daha ucuz"
+      },
+      "scores": {
+        "Kalite": 4.2,
+        "Tat": 3.9,
+        "Değer": 4.8,
+        "Beslenme": 4.3,
+        "Çok Yönlülük": 4.4
+      }
     },
     {
       "offerId": "kevita-acv-tonic",
       "badge": "İçilebilirlik İçin En İyi",
       "review": "Kevita, zencefil, limon ve stevia ile birlikte günlük ACV alımını gerçekten keyifli kılan hazır içmeye hazır karbonatlı bir ACV içeceğidir. ACV dozu sıvı standarttan düşük (şişe başına yaklaşık 25mg vs 1-2 yemek kaşığı) ve porsiyon başına maliyet daha yüksek — ödünleşim, doğrudan ACV ile güçlük çekenlerin gerçekten buna bağlı kaldığıdır.",
-      "pros": ["İçmeye hazır — karıştırma veya seyreltme yok", "Karbonasyon ve eklenen tatlar onu çok daha içilebilir kılar", "Daha düşük asitlik diş minesi maruziyeti riskini azaltır"],
-      "cons": ["ACV dozu standart sıvı protokolünden düşük", "Sıvı ACV'ye kıyasla porsiyon başına daha yüksek maliyet"],
+      "pros": [
+        "İçmeye hazır — karıştırma veya seyreltme yok",
+        "Karbonasyon ve eklenen tatlar onu çok daha içilebilir kılar",
+        "Daha düşük asitlik diş minesi maruziyeti riskini azaltır"
+      ],
+      "cons": [
+        "ACV dozu standart sıvı protokolünden düşük",
+        "Sıvı ACV'ye kıyasla porsiyon başına daha yüksek maliyet"
+      ],
       "grade": "B+",
-      "specs": {"Size": "15,2 oz", "Format": "Karbonatlı RTD", "Added flavors": "Zencefil, limon, stevia", "Sugar": "0g eklenmiş şeker", "ACV dose per bottle": "~25 mg"},
-      "scores": {"Quality": 3.8, "Taste": 4.5, "Value": 3.2, "Nutrition": 3.5, "Versatility": 2.8}
+      "specs": {
+        "Size": "15,2 oz",
+        "Format": "Karbonatlı RTD",
+        "Added flavors": "Zencefil, limon, stevia",
+        "Sugar": "0g eklenmiş şeker",
+        "ACV dose per bottle": "~25 mg"
+      },
+      "scores": {
+        "Kalite": 3.8,
+        "Tat": 4.5,
+        "Değer": 3.2,
+        "Beslenme": 3.5,
+        "Çok Yönlülük": 2.8
+      }
     },
     {
       "offerId": "goli-acv-gummies",
       "badge": "Günlük Uyum İçin En İyi",
       "review": "Goli gummileri, iki gummilik porsiyon başına yaklaşık bir çay kaşığı ACV eşdeğeri sağlar — standart yemek kaşığı dozundan az ama her gün almak çok daha kolay. Organik, vegan, Non-GMO sertifikalı, B9 ve B12 vitaminleri eklenmiş. Sıvıyı atlayacak ama her gün gummi alacaksanız, Goli uyum yoluyla daha iyi gerçek dünya sonuçları sunar.",
-      "pros": ["Keskin tat yok, karıştırma yok — en yüksek format uyumu", "Eklenen B vitaminleri (B9 ve B12)", "Organik, vegan, Non-GMO sertifikalı"],
-      "cons": ["Porsiyon başına ACV dozu sıvıdan düşük (1 çay kaşığı vs 1-2 yemek kaşığı)", "Sıvı seçeneklere kıyasla ACV gramı başına daha yüksek maliyet"],
+      "pros": [
+        "Keskin tat yok, karıştırma yok — en yüksek format uyumu",
+        "Eklenen B vitaminleri (B9 ve B12)",
+        "Organik, vegan, Non-GMO sertifikalı"
+      ],
+      "cons": [
+        "Porsiyon başına ACV dozu sıvıdan düşük (1 çay kaşığı vs 1-2 yemek kaşığı)",
+        "Sıvı seçeneklere kıyasla ACV gramı başına daha yüksek maliyet"
+      ],
       "grade": "B",
-      "specs": {"Serving": "2 gummi", "ACV per serving": "~500 mg (~1 çay kaşığı)", "Organic": "Evet", "Added vitamins": "B9, B12", "Count": "60 gummi"},
-      "scores": {"Quality": 4.0, "Taste": 4.6, "Value": 3.5, "Nutrition": 3.8, "Versatility": 2.5}
+      "specs": {
+        "Serving": "2 gummi",
+        "ACV per serving": "~500 mg (~1 çay kaşığı)",
+        "Organic": "Evet",
+        "Added vitamins": "B9, B12",
+        "Count": "60 gummi"
+      },
+      "scores": {
+        "Kalite": 4,
+        "Tat": 4.6,
+        "Değer": 3.5,
+        "Beslenme": 3.8,
+        "Çok Yönlülük": 2.5
+      }
     },
     {
       "offerId": "fairchilds-organic-acv",
       "badge": "En İyi Mutfak Kaynağı",
       "review": "Fairchild's, açık Washington Eyaleti Rag Bag elma kaynağı ve doğrulanmış %5 asitlikle öne çıkar — çoğu ACV markasının kaçındığı şeffaflık türü. Tat Bragg'dan daha temiz ve daha az maya aromalı; bu da onu belirgin fermantasyon notaları olmadan elma tadı istediğiniz hafif vinaigrette'ler ve içme sirkeleri için daha iyi bir uyum haline getirir.",
-      "pros": ["Elma çeşidi ve ABD eyaleti menşei belirtilmiş — nadir şeffaflık", "Açık %5 asitlik etiketi", "Daha az fermantasyon karmaşıklığıyla daha temiz elma tadı"],
-      "cons": ["Ana akım perakendecilerde Bragg'dan daha az mevcut"],
+      "pros": [
+        "Elma çeşidi ve ABD eyaleti menşei belirtilmiş — nadir şeffaflık",
+        "Açık %5 asitlik etiketi",
+        "Daha az fermantasyon karmaşıklığıyla daha temiz elma tadı"
+      ],
+      "cons": [
+        "Ana akım perakendecilerde Bragg'dan daha az mevcut"
+      ],
       "grade": "B-",
-      "specs": {"Size": "32 oz", "Organic": "USDA Sertifikalı", "Apple source": "WA Eyaleti Rag Bag elmaları", "Acidity": "%5 doğrulanmış", "Filtered": "Hayır (ana maddeli)"},
-      "scores": {"Quality": 4.5, "Taste": 4.3, "Value": 3.8, "Nutrition": 4.3, "Versatility": 4.0}
+      "specs": {
+        "Size": "32 oz",
+        "Organic": "USDA Sertifikalı",
+        "Apple source": "WA Eyaleti Rag Bag elmaları",
+        "Acidity": "%5 doğrulanmış",
+        "Filtered": "Hayır (ana maddeli)"
+      },
+      "scores": {
+        "Kalite": 4.5,
+        "Tat": 4.3,
+        "Değer": 3.8,
+        "Beslenme": 4.3,
+        "Çok Yönlülük": 4
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Günlük ACV tonik içenler için", "offerId": "bragg-organic-acv", "reason": "Partiler arasında tutarlı kaliteyle referans ham ACV — günlük seyreltilmiş tonik alışkanlığı için açık ilk seçim."},
-    {"label": "Yüksek hacimli pişirme için", "offerId": "dynamic-health-acv", "reason": "Eşdeğer organik sertifikayla Bragg'dan ons başına %15-20 daha ucuz — haftada bir şişe tüketiyorsanız doğru seçim."},
-    {"label": "ACV'ye yeni başlayanlar için", "offerId": "kevita-acv-tonic", "reason": "Karbonatlı, aromalı ve önceden seyreltilmiş — doğrudan sıvı ACV'yi çok sert bulanlar için en düşük giriş engeli."},
-    {"label": "Alışkanlık önce, doz sonra olan kullanıcılar için", "offerId": "goli-acv-gummies", "reason": "Sıvıyı atlayacak ama her gün gummi alacaksanız, tutarlı düşük doz, tutarsız yüksek dozdan iyidir."},
-    {"label": "Hafif vinaigrette'ler ve salata sosları için", "offerId": "fairchilds-organic-acv", "reason": "ACV karakterinin ön planda olduğu tariflerde daha temiz elma tadı ve kaynak şeffaflığı gerçek bir fark yaratır."}
+    {
+      "label": "Günlük ACV tonik içenler için",
+      "offerId": "bragg-organic-acv",
+      "reason": "Partiler arasında tutarlı kaliteyle referans ham ACV — günlük seyreltilmiş tonik alışkanlığı için açık ilk seçim."
+    },
+    {
+      "label": "Yüksek hacimli pişirme için",
+      "offerId": "dynamic-health-acv",
+      "reason": "Eşdeğer organik sertifikayla Bragg'dan ons başına %15-20 daha ucuz — haftada bir şişe tüketiyorsanız doğru seçim."
+    },
+    {
+      "label": "ACV'ye yeni başlayanlar için",
+      "offerId": "kevita-acv-tonic",
+      "reason": "Karbonatlı, aromalı ve önceden seyreltilmiş — doğrudan sıvı ACV'yi çok sert bulanlar için en düşük giriş engeli."
+    },
+    {
+      "label": "Alışkanlık önce, doz sonra olan kullanıcılar için",
+      "offerId": "goli-acv-gummies",
+      "reason": "Sıvıyı atlayacak ama her gün gummi alacaksanız, tutarlı düşük doz, tutarsız yüksek dozdan iyidir."
+    },
+    {
+      "label": "Hafif vinaigrette'ler ve salata sosları için",
+      "offerId": "fairchilds-organic-acv",
+      "reason": "ACV karakterinin ön planda olduğu tariflerde daha temiz elma tadı ve kaynak şeffaflığı gerçek bir fark yaratır."
+    }
   ]
 }

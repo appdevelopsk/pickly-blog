@@ -74,58 +74,173 @@
       "offerId": "liquid-death-mountain-water",
       "badge": "Bestes Gesamtpaket",
       "review": "Die aggressive Kohlensäure von Liquid Death ist deutlich schärfer und anhaltender als die meisten Konkurrenten — sie behält ihren Biss bis zum letzten Schluck auf eine Art, die leichtere Sprudelwässer nicht können. Aus den österreichischen Alpen stammend und in Aluminium abgefüllt, positioniert es sich als die kohlensäurestarke Option für Menschen, die Topo Chico und Perrier zu mild finden. Der Preis pro Unze liegt höher als bei Supermarktmarken, aber Großeinkäufe bringen es in einen vernünftigen Bereich.",
-      "pros": ["Aggressivste und anhaltendste Kohlensäure in diesem Vergleich", "Aluminiumdose recycelt mit höherem Raten als Plastik", "Funktioniert als Premium-Cocktail-Mixer wo Blasenpersistenz wichtig ist"],
-      "cons": ["Höchster Preis pro Unze — Großeinkauf erforderlich für vernünftiges Preis-Leistungs-Verhältnis"],
+      "pros": [
+        "Aggressivste und anhaltendste Kohlensäure in diesem Vergleich",
+        "Aluminiumdose recycelt mit höherem Raten als Plastik",
+        "Funktioniert als Premium-Cocktail-Mixer wo Blasenpersistenz wichtig ist"
+      ],
+      "cons": [
+        "Höchster Preis pro Unze — Großeinkauf erforderlich für vernünftiges Preis-Leistungs-Verhältnis"
+      ],
       "grade": "A+",
-      "specs": {"Quelle": "Österreichische Alpen", "Kohlensäure": "Sehr stark (forciert)", "Format": "16,9 oz Aludose", "Kalorien": "0", "Natrium": "~10mg pro Dose", "Verfügbare Sorten": "Natur + aromatisierte Sprudellinien"},
-      "scores": {"Carbonation level": 5.0, "Flavor": 4.3, "Value": 3.5, "Ingredient quality": 4.5, "Convenience": 4.7}
+      "specs": {
+        "Quelle": "Österreichische Alpen",
+        "Kohlensäure": "Sehr stark (forciert)",
+        "Format": "16,9 oz Aludose",
+        "Kalorien": "0",
+        "Natrium": "~10mg pro Dose",
+        "Verfügbare Sorten": "Natur + aromatisierte Sprudellinien"
+      },
+      "scores": {
+        "Kohlensäuregehalt": 5,
+        "Geschmack": 4.3,
+        "Wert": 3.5,
+        "Zutatenqualität": 4.5,
+        "Benutzerfreundlichkeit": 4.7
+      }
     },
     {
       "offerId": "topo-chico-mineral-water",
       "badge": "Bestes für Cocktails",
       "review": "Topo Chico ist seit langem der bevorzugte Mixer von Bartendern, lange bevor er weit verbreitet war, und die hohe, enge Kohlensäure — kleine, anhaltende Blasen statt große, weiche — ist das, was es so gut mit Mezcal und Tequila-Highballs macht. Der natürliche Mineralgehalt verleiht ihm eine leichte herzhafte Tiefe, die Geist-und-Wasser-Getränken Körper hinzufügt. Die Glasflaschenvariante ist die kaufenswerte; die schwere Flasche ist unpraktisch für den Transport.",
-      "pros": ["Hohe, enge Kohlensäure hält durch ein ganzes gemischtes Getränk", "Natürlicher Mineralgehalt fügt Cocktails herzhafte Tiefe hinzu", "Seit 1895 an derselben Monterrey-Quelle abgefüllt — Formel nach Coca-Cola-Übernahme unverändert"],
-      "cons": ["Schwere Glasflasche unpraktisch für Portabilität oder den Außenbereich"],
+      "pros": [
+        "Hohe, enge Kohlensäure hält durch ein ganzes gemischtes Getränk",
+        "Natürlicher Mineralgehalt fügt Cocktails herzhafte Tiefe hinzu",
+        "Seit 1895 an derselben Monterrey-Quelle abgefüllt — Formel nach Coca-Cola-Übernahme unverändert"
+      ],
+      "cons": [
+        "Schwere Glasflasche unpraktisch für Portabilität oder den Außenbereich"
+      ],
       "grade": "A",
-      "specs": {"Quelle": "Monterrey, Mexiko (Quelle)", "Kohlensäure": "Stark (natürlich + infundiert)", "Format": "Glasflasche / begrenztes Dosenformat", "Kalorien": "0", "Mineralien": "Kalzium, Magnesium, Natrium", "Verfügbare Sorten": "Natur + Lime-Twist"},
-      "scores": {"Carbonation level": 4.8, "Flavor": 4.5, "Value": 3.8, "Ingredient quality": 4.8, "Convenience": 3.0}
+      "specs": {
+        "Quelle": "Monterrey, Mexiko (Quelle)",
+        "Kohlensäure": "Stark (natürlich + infundiert)",
+        "Format": "Glasflasche / begrenztes Dosenformat",
+        "Kalorien": "0",
+        "Mineralien": "Kalzium, Magnesium, Natrium",
+        "Verfügbare Sorten": "Natur + Lime-Twist"
+      },
+      "scores": {
+        "Kohlensäuregehalt": 4.8,
+        "Geschmack": 4.5,
+        "Wert": 3.8,
+        "Zutatenqualität": 4.8,
+        "Benutzerfreundlichkeit": 3
+      }
     },
     {
       "offerId": "perrier-sparkling-water",
       "badge": "Bestes für Speisebegleitung",
       "review": "Perrierrs mittelstarkes Kohlensäureprofil — mehr als La Croix, weniger als Topo Chico oder Liquid Death — macht es zur vielseitigsten Option für die Speisebegleitung: stark genug, um den Gaumen zwischen Gängen zu reinigen, sanft genug, um nicht zu dominieren. Die ikonische grüne Glasflasche bleibt das Standardformat, und die aromatisierten Linien (Limette, Zitrone, Grapefruit) verwenden echten Fruchtgeschmack ohne zugesetzte Süßstoffe oder Zitronensäure.",
-      "pros": ["Mittlere Kohlensäure als Gaumenreiniger zwischen Gängen", "Aromatisierte Linien verwenden echten Geschmack ohne Süßstoffe oder Zitronensäure", "Weltbekannte Flasche für Tischservice geeignet"],
-      "cons": ["Kohlensäure entweicht schneller als bei Topo Chico oder Liquid Death in offener Flasche"],
+      "pros": [
+        "Mittlere Kohlensäure als Gaumenreiniger zwischen Gängen",
+        "Aromatisierte Linien verwenden echten Geschmack ohne Süßstoffe oder Zitronensäure",
+        "Weltbekannte Flasche für Tischservice geeignet"
+      ],
+      "cons": [
+        "Kohlensäure entweicht schneller als bei Topo Chico oder Liquid Death in offener Flasche"
+      ],
       "grade": "B+",
-      "specs": {"Quelle": "Vergeze, Frankreich (natürliche Quelle)", "Kohlensäure": "Mittel (CO2 wiedergewonnen und reinfundiert)", "Format": "Glasflasche / Aludose / Plastik", "Kalorien": "0", "Mineralien": "Kalzium, Magnesium, Natrium", "Verfügbare Sorten": "Natur + Limette, Zitrone, Grapefruit, Erdbeere"},
-      "scores": {"Carbonation level": 3.8, "Flavor": 4.5, "Value": 4.0, "Ingredient quality": 4.7, "Convenience": 4.2}
+      "specs": {
+        "Quelle": "Vergeze, Frankreich (natürliche Quelle)",
+        "Kohlensäure": "Mittel (CO2 wiedergewonnen und reinfundiert)",
+        "Format": "Glasflasche / Aludose / Plastik",
+        "Kalorien": "0",
+        "Mineralien": "Kalzium, Magnesium, Natrium",
+        "Verfügbare Sorten": "Natur + Limette, Zitrone, Grapefruit, Erdbeere"
+      },
+      "scores": {
+        "Kohlensäuregehalt": 3.8,
+        "Geschmack": 4.5,
+        "Wert": 4,
+        "Zutatenqualität": 4.7,
+        "Benutzerfreundlichkeit": 4.2
+      }
     },
     {
       "offerId": "la-croix-sparkling-water",
       "badge": "Bestes für täglichen Hochvolumengenuss",
       "review": "La Croixs leichte Kohlensäure ist ein Merkmal, kein Makel, für Benutzer, die tägliche Hydrationsziele erreichen möchten — die Sanftheit bedeutet, dass Sie große Mengen trinken können, ohne sich aufgeblähen zu fühlen. Ueber 20 natürliche Geschmacksrichtungen decken Haushalte mit gemischten Präferenzen ab, und der Kistenpreis ist durchgängig einer der wettbewerbsfähigsten in der Sprudelwasserkategorie. Es ist das am wenigsten aufregende Wasser auf dieser Liste, aber das Praktischste als täglicher Begleiter.",
-      "pros": ["Leichte Kohlensäure erlaubt Hochvolumengenuss ohne Aufgeblähtsein", "20+ Geschmacksrichtungen inkl. Sortimentspakete für gemischte Haushaltspräferenzen", "Durchgängig wettbewerbsfähiger Kistenpreis"],
-      "cons": ["Kohlensäure entweicht schnell in einem gemischten Getränk — nicht geeignet als Cocktail-Mixer"],
+      "pros": [
+        "Leichte Kohlensäure erlaubt Hochvolumengenuss ohne Aufgeblähtsein",
+        "20+ Geschmacksrichtungen inkl. Sortimentspakete für gemischte Haushaltspräferenzen",
+        "Durchgängig wettbewerbsfähiger Kistenpreis"
+      ],
+      "cons": [
+        "Kohlensäure entweicht schnell in einem gemischten Getränk — nicht geeignet als Cocktail-Mixer"
+      ],
       "grade": "B",
-      "specs": {"Quelle": "Leitungswasser (karbonisiert)", "Kohlensäure": "Leicht", "Format": "Schlanke Aludose", "Kalorien": "0", "Süßstoffe": "Keine", "Verfügbare Sorten": "20+ natürliche Geschmacksrichtungen"},
-      "scores": {"Carbonation level": 2.5, "Flavor": 3.8, "Value": 4.8, "Ingredient quality": 4.3, "Convenience": 5.0}
+      "specs": {
+        "Quelle": "Leitungswasser (karbonisiert)",
+        "Kohlensäure": "Leicht",
+        "Format": "Schlanke Aludose",
+        "Kalorien": "0",
+        "Süßstoffe": "Keine",
+        "Verfügbare Sorten": "20+ natürliche Geschmacksrichtungen"
+      },
+      "scores": {
+        "Kohlensäuregehalt": 2.5,
+        "Geschmack": 3.8,
+        "Wert": 4.8,
+        "Zutatenqualität": 4.3,
+        "Benutzerfreundlichkeit": 5
+      }
     },
     {
       "offerId": "spindrift-sparkling-water",
       "badge": "Bester echter Fruchtgeschmack",
       "review": "Spindrift ist der Ausreißer in diesem Vergleich: echter gepresster Fruchtsaft in jeder Dose erzeugt Geschmack, der unverkennbar nach echtem Obst schmeckt, nicht nach einer Annäherung. Die Zitronenvariante ist besonders ehrlich — sie schmeckt, als hätte jemand eine Zitrone in Sprudelwasser gepresst, denn das ist im Wesentlichen passiert. Die geringe Kalorienzahl (9-17 pro Dose) schließt sie als Null-Kalorien-Option aus, was der einzige bedeutende Kompromiss ist.",
-      "pros": ["Echter gepresster Fruchtsaft — der ehrlichste Geschmack in diesem Vergleich", "Kurze Zutatenliste: karbonisiertes Wasser, Fruchtsaft, manchmal Puree", "Beste Option zum Frühstück, wo Fruchtsäure zum Essen passt"],
-      "cons": ["9-17 Kalorien pro Dose — kein Null-Kalorien-Getränk trotz minimalem Zuckergehalt"],
+      "pros": [
+        "Echter gepresster Fruchtsaft — der ehrlichste Geschmack in diesem Vergleich",
+        "Kurze Zutatenliste: karbonisiertes Wasser, Fruchtsaft, manchmal Puree",
+        "Beste Option zum Frühstück, wo Fruchtsäure zum Essen passt"
+      ],
+      "cons": [
+        "9-17 Kalorien pro Dose — kein Null-Kalorien-Getränk trotz minimalem Zuckergehalt"
+      ],
       "grade": "B-",
-      "specs": {"Quelle": "Leitungswasser (karbonisiert)", "Kohlensäure": "Mittel-leicht", "Format": "Standard-Aludose", "Kalorien": "9–17 pro Dose (sortenabhängig)", "Saftgehalt": "Echter gepresster Fruchtsaft", "Verfügbare Sorten": "Zitrone, Grapefruit, Himbeer-Limette, Erdbeere, andere"},
-      "scores": {"Carbonation level": 3.5, "Flavor": 5.0, "Value": 3.8, "Ingredient quality": 5.0, "Convenience": 4.5}
+      "specs": {
+        "Quelle": "Leitungswasser (karbonisiert)",
+        "Kohlensäure": "Mittel-leicht",
+        "Format": "Standard-Aludose",
+        "Kalorien": "9–17 pro Dose (sortenabhängig)",
+        "Saftgehalt": "Echter gepresster Fruchtsaft",
+        "Verfügbare Sorten": "Zitrone, Grapefruit, Himbeer-Limette, Erdbeere, andere"
+      },
+      "scores": {
+        "Kohlensäuregehalt": 3.5,
+        "Geschmack": 5,
+        "Wert": 3.8,
+        "Zutatenqualität": 5,
+        "Benutzerfreundlichkeit": 4.5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Für maximale Kohlensäure-Befriedigung", "offerId": "liquid-death-mountain-water", "reason": "Wenn Sie andere Sprudelwässer zu sanft finden, bietet Liquid Deathrs aggressive Kohlensäure den schärfsten Biss und hält ihn bis zum letzten Schluck."},
-    {"label": "Für Cocktail-Mixen", "offerId": "topo-chico-mineral-water", "reason": "Kleine, anhaltende Blasen und natürliche mineralische Tiefe halten durch ein ganzes gemischtes Getränk — der Grund, warum Bartender dies vor dem Mainstream wählten."},
-    {"label": "Für Speisebegleitung am Tisch", "offerId": "perrier-sparkling-water", "reason": "Mittlere Kohlensäure reinigt den Gaumen zwischen Gängen ohne zu dominieren, und die Flasche macht am Abendtisch eine gute Figur."},
-    {"label": "Für tägliche Hochvolumen-Hydratation", "offerId": "la-croix-sparkling-water", "reason": "Leichte Blasen, 20+ Sorten und wettbewerbsfähiger Kistenpreis machen es zur praktischsten Wahl, wenn Sie mehrere Dosen pro Tag trinken."},
-    {"label": "Für echten Fruchtgeschmack ohne künstliche Zusätze", "offerId": "spindrift-sparkling-water", "reason": "Echter gepresster Saft erzeugt genuinen Fruchtgeschmack — die einzige Option in diesem Vergleich, die die 'künstlicher Geschmack'-Beschwerde völlig behebt."}
+    {
+      "label": "Für maximale Kohlensäure-Befriedigung",
+      "offerId": "liquid-death-mountain-water",
+      "reason": "Wenn Sie andere Sprudelwässer zu sanft finden, bietet Liquid Deathrs aggressive Kohlensäure den schärfsten Biss und hält ihn bis zum letzten Schluck."
+    },
+    {
+      "label": "Für Cocktail-Mixen",
+      "offerId": "topo-chico-mineral-water",
+      "reason": "Kleine, anhaltende Blasen und natürliche mineralische Tiefe halten durch ein ganzes gemischtes Getränk — der Grund, warum Bartender dies vor dem Mainstream wählten."
+    },
+    {
+      "label": "Für Speisebegleitung am Tisch",
+      "offerId": "perrier-sparkling-water",
+      "reason": "Mittlere Kohlensäure reinigt den Gaumen zwischen Gängen ohne zu dominieren, und die Flasche macht am Abendtisch eine gute Figur."
+    },
+    {
+      "label": "Für tägliche Hochvolumen-Hydratation",
+      "offerId": "la-croix-sparkling-water",
+      "reason": "Leichte Blasen, 20+ Sorten und wettbewerbsfähiger Kistenpreis machen es zur praktischsten Wahl, wenn Sie mehrere Dosen pro Tag trinken."
+    },
+    {
+      "label": "Für echten Fruchtgeschmack ohne künstliche Zusätze",
+      "offerId": "spindrift-sparkling-water",
+      "reason": "Echter gepresster Saft erzeugt genuinen Fruchtgeschmack — die einzige Option in diesem Vergleich, die die 'künstlicher Geschmack'-Beschwerde völlig behebt."
+    }
   ]
 }

@@ -86,9 +86,9 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
+        "Saveur": 4.7,
+        "Approvisionnement": 4.8,
+        "Valeur": 4.7,
         "Texture": 4.8,
         "Nutrition": 5
       }
@@ -108,9 +108,9 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
+        "Saveur": 4.4,
+        "Approvisionnement": 4,
+        "Valeur": 4.4,
         "Texture": 4,
         "Nutrition": 4.7
       }
@@ -130,9 +130,9 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
+        "Saveur": 4.6,
+        "Approvisionnement": 4.2,
+        "Valeur": 4.1,
         "Texture": 4.2,
         "Nutrition": 4.4
       }
@@ -152,9 +152,9 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
+        "Saveur": 3.8,
+        "Approvisionnement": 3.9,
+        "Valeur": 3.8,
         "Texture": 3.4,
         "Nutrition": 4.1
       }
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
+        "Saveur": 4,
+        "Approvisionnement": 3.6,
+        "Valeur": 4,
         "Texture": 3.6,
         "Nutrition": 3.8
       }
     }
   ],
-  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims."
+  "methodology": "We assessed each product on flavor profile, sourcing transparency, value per serving, packaging integrity, and how well it performed across common use cases. Documented certifications and verified user reviews were cross-checked against marketing claims.",
+  "recommendedFor": [
+    {
+      "label": "Pour les puristes qui veulent une intensité de cacao maximale",
+      "offerId": "lindt-excellence-90-cocoa",
+      "reason": "Idéal pour les amateurs avertis de chocolat noir cherchant une tablette fiable à quatre ingrédients, à la finale amère intense et durable."
+    },
+    {
+      "label": "Pour grignoter au quotidien sans se ruiner",
+      "offerId": "ghirardelli-midnight-reverie-86",
+      "reason": "Parfait pour s'initier au chocolat à fort pourcentage et pour la pâtisserie, alliant profondeur de cacao et accessibilité."
+    },
+    {
+      "label": "Pour un approvisionnement éthique sans surcoût",
+      "offerId": "green-blacks-organic-dark-85",
+      "reason": "Excellent pour qui recherche un cacao bio équitable au profil fruité et plus doux, accessible aux débutants du 85%."
+    },
+    {
+      "label": "Pour les acheteurs attentifs à toute la chaîne d'approvisionnement",
+      "offerId": "theo-chocolate-organic-85",
+      "reason": "Parfait pour qui valorise la transparence bean-to-bar et un arôme complexe de noix et de cerise issu d'un cacao traçable."
+    },
+    {
+      "label": "Pour les amateurs de chocolat végans et écoresponsables",
+      "offerId": "alter-eco-deep-dark-blackout-85",
+      "reason": "Idéal pour les acheteurs végans et écoresponsables voulant un chocolat 100% bio et équitable, excellent aussi en pâtisserie."
+    }
+  ]
 }

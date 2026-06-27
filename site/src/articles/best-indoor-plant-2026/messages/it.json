@@ -124,8 +124,14 @@
       "offerId": "pothos-golden",
       "badge": "Migliore Scelta Generale",
       "review": "Il Pothos Dorato è la pianta da interno più resistente del gruppo: sopravvive a una luce artificiale di 50 piedi-candele dove le altre piante si limiterebbero a sopravvivere. La crescita rapida e visibile dà ai principianti un riscontro positivo immediato, e le liane ricadenti si propagano facilmente per talea. L'unico vero svantaggio: tossico per gatti e cani — nessun problema per le famiglie senza animali, ma un criterio di esclusione per le altre.",
-      "pros": ["Sopravvive sia alla luce artificiale che alle annaffiature dimenticate", "La crescita rapida dà ai principianti un riscontro immediato", "Facile da propagare per talea"],
-      "cons": ["Tossico per gatti e cani — inadatto alle famiglie con animali domestici"],
+      "pros": [
+        "Sopravvive sia alla luce artificiale che alle annaffiature dimenticate",
+        "La crescita rapida dà ai principianti un riscontro immediato",
+        "Facile da propagare per talea"
+      ],
+      "cons": [
+        "Tossico per gatti e cani — inadatto alle famiglie con animali domestici"
+      ],
       "grade": "A+",
       "specs": {
         "Fabbisogno luminoso": "50–250 piedi-candele",
@@ -136,19 +142,25 @@
         "Disponibilità": "Ampiamente disponibile"
       },
       "scores": {
-        "Low maintenance": 5.0,
-        "Air purification": 3.5,
-        "Aesthetics": 4.2,
-        "Value": 5.0,
-        "Growth rate": 4.8
+        "Bassa manutenzione": 5,
+        "Purificazione dell'aria": 3.5,
+        "Estetica": 4.2,
+        "Valore": 5,
+        "Tasso di crescita": 4.8
       }
     },
     {
       "offerId": "monstera-deliciosa",
       "badge": "Migliore Estetica",
       "review": "La Monstera deliciosa è la pianta di design che caratterizza la maggior parte dei salotti — le foglie perforate sono inconfondibili e diventano spettacolari con l'età. Il problema: ha bisogno di vera luce indiretta brillante (150–250 piedi-candele), non la luce fioca che offrono la maggior parte degli appartamenti, e cresce in modo frustrante con poca luce. Ideale per le stanze grandi con buone finestre.",
-      "pros": ["Aspetto inconfondibile con le foglie perforate iconiche", "Diventa un vero pezzo forte nel tempo", "Non tossica per l'uomo, moderatamente per gli animali"],
-      "cons": ["Richiede vera luce indiretta brillante — cresce appena senza"],
+      "pros": [
+        "Aspetto inconfondibile con le foglie perforate iconiche",
+        "Diventa un vero pezzo forte nel tempo",
+        "Non tossica per l'uomo, moderatamente per gli animali"
+      ],
+      "cons": [
+        "Richiede vera luce indiretta brillante — cresce appena senza"
+      ],
       "grade": "A",
       "specs": {
         "Fabbisogno luminoso": "150–250 piedi-candele",
@@ -159,19 +171,25 @@
         "Disponibilità": "Fioristi, centri di giardinaggio"
       },
       "scores": {
-        "Low maintenance": 3.5,
-        "Air purification": 3.8,
-        "Aesthetics": 5.0,
-        "Value": 3.5,
-        "Growth rate": 3.0
+        "Bassa manutenzione": 3.5,
+        "Purificazione dell'aria": 3.8,
+        "Estetica": 5,
+        "Valore": 3.5,
+        "Tasso di crescita": 3
       }
     },
     {
       "offerId": "snake-plant-laurentii",
       "badge": "Migliore per la Purificazione dell'Aria",
       "review": "La Sansevieria trifasciata 'Laurentii' è l'unica pianta del gruppo con dati verificati di purificazione dell'aria in studi peer-reviewed. La fissazione notturna di CO₂ tramite fotosintesi CAM la rende ideale per le camere da letto. Estremamente tollerante alla siccità — due settimane senz'acqua non è un problema. Il compromesso: crescita molto lenta che alcuni percepiscono come statica.",
-      "pros": ["Prestazioni di purificazione verificate in studi scientifici", "La fotosintesi CAM la rende ideale per le camere da letto", "Quasi indistruttibile contro il sovra-annaffiamento e la siccità"],
-      "cons": ["Crescita molto lenta — cambiamento appena visibile in mesi"],
+      "pros": [
+        "Prestazioni di purificazione verificate in studi scientifici",
+        "La fotosintesi CAM la rende ideale per le camere da letto",
+        "Quasi indistruttibile contro il sovra-annaffiamento e la siccità"
+      ],
+      "cons": [
+        "Crescita molto lenta — cambiamento appena visibile in mesi"
+      ],
       "grade": "B+",
       "specs": {
         "Fabbisogno luminoso": "25–200 piedi-candele",
@@ -182,19 +200,25 @@
         "Disponibilità": "Ampiamente disponibile"
       },
       "scores": {
-        "Low maintenance": 5.0,
-        "Air purification": 4.5,
-        "Aesthetics": 4.0,
-        "Value": 4.5,
-        "Growth rate": 2.0
+        "Bassa manutenzione": 5,
+        "Purificazione dell'aria": 4.5,
+        "Estetica": 4,
+        "Valore": 4.5,
+        "Tasso di crescita": 2
       }
     },
     {
       "offerId": "zz-plant",
       "badge": "La Più Facile da Mantenere",
       "review": "La ZZ Plant (Zamioculcas zamiifolia) è la pianta definitiva per i distratti: i rizomi immagazzinano acqua per mesi di abbandono. Prospera con pochissima luce ed è quasi indistruttibile. La crescita lenta e l'estetica moderata sono i suoi unici limiti — e l'effetto tossico per l'uomo e per gli animali va tenuto in considerazione.",
-      "pros": ["I rizomi immagazzinano acqua per una tolleranza estrema alla siccità", "Prospera con pochissima luce dove le altre morirebbero", "Praticamente senza manutenzione per le famiglie occupate"],
-      "cons": ["Crescita lenta — cambiamento minimo visibile in mesi"],
+      "pros": [
+        "I rizomi immagazzinano acqua per una tolleranza estrema alla siccità",
+        "Prospera con pochissima luce dove le altre morirebbero",
+        "Praticamente senza manutenzione per le famiglie occupate"
+      ],
+      "cons": [
+        "Crescita lenta — cambiamento minimo visibile in mesi"
+      ],
       "grade": "B",
       "specs": {
         "Fabbisogno luminoso": "25–150 piedi-candele",
@@ -205,19 +229,25 @@
         "Disponibilità": "Fioristi, online"
       },
       "scores": {
-        "Low maintenance": 5.0,
-        "Air purification": 3.0,
-        "Aesthetics": 4.3,
-        "Value": 4.0,
-        "Growth rate": 1.5
+        "Bassa manutenzione": 5,
+        "Purificazione dell'aria": 3,
+        "Estetica": 4.3,
+        "Valore": 4,
+        "Tasso di crescita": 1.5
       }
     },
     {
       "offerId": "peace-lily",
       "badge": "I Fiori Più Belli",
       "review": "Lo Spatifillo (Spathiphyllum) è una delle poche piante da interno che fiorisce in modo affidabile in condizioni di normale illuminazione ambientale — un vero vantaggio per le famiglie senza finestre luminose. L'indicatore di irrigazione integrato (abbassarsi e riprendersi) è molto pratico per i principianti. Avviso rigoroso: tossico per gatti, cani e bambini — criterio di esclusione assoluto per le famiglie con animali.",
-      "pros": ["Fiorisce in modo affidabile senza luce brillante — raro per le piante da interno", "Il ciclo di abbassamento-ripresa segnala chiaramente il bisogno d'acqua", "Gli eleganti fiori bianchi aggiungono fascino agli interni"],
-      "cons": ["Tossico per gatti, cani e bambini — inadatto alle famiglie con animali"],
+      "pros": [
+        "Fiorisce in modo affidabile senza luce brillante — raro per le piante da interno",
+        "Il ciclo di abbassamento-ripresa segnala chiaramente il bisogno d'acqua",
+        "Gli eleganti fiori bianchi aggiungono fascino agli interni"
+      ],
+      "cons": [
+        "Tossico per gatti, cani e bambini — inadatto alle famiglie con animali"
+      ],
       "grade": "B-",
       "specs": {
         "Fabbisogno luminoso": "25–150 piedi-candele",
@@ -228,11 +258,11 @@
         "Disponibilità": "Ampiamente disponibile"
       },
       "scores": {
-        "Low maintenance": 3.8,
-        "Air purification": 4.5,
-        "Aesthetics": 4.5,
-        "Value": 4.3,
-        "Growth rate": 3.5
+        "Bassa manutenzione": 3.8,
+        "Purificazione dell'aria": 4.5,
+        "Estetica": 4.5,
+        "Valore": 4.3,
+        "Tasso di crescita": 3.5
       }
     }
   ],

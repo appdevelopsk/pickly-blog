@@ -86,11 +86,11 @@
       ],
       "grade": "A+",
       "scores": {
-        "Flavor": 4.7,
-        "Sourcing": 4.8,
-        "Value": 4.7,
-        "Texture": 4.8,
-        "Nutrition": 5
+        "Hương vị": 4.7,
+        "Lấy nguồn": 4.8,
+        "Giá trị": 4.7,
+        "Kết cấu": 4.8,
+        "Dinh dưỡng": 5
       }
     },
     {
@@ -108,11 +108,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.4,
-        "Sourcing": 4,
-        "Value": 4.4,
-        "Texture": 4,
-        "Nutrition": 4.7
+        "Hương vị": 4.4,
+        "Lấy nguồn": 4,
+        "Giá trị": 4.4,
+        "Kết cấu": 4,
+        "Dinh dưỡng": 4.7
       }
     },
     {
@@ -130,11 +130,11 @@
       ],
       "grade": "A",
       "scores": {
-        "Flavor": 4.6,
-        "Sourcing": 4.2,
-        "Value": 4.1,
-        "Texture": 4.2,
-        "Nutrition": 4.4
+        "Hương vị": 4.6,
+        "Lấy nguồn": 4.2,
+        "Giá trị": 4.1,
+        "Kết cấu": 4.2,
+        "Dinh dưỡng": 4.4
       }
     },
     {
@@ -152,11 +152,11 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 3.8,
-        "Sourcing": 3.9,
-        "Value": 3.8,
-        "Texture": 3.4,
-        "Nutrition": 4.1
+        "Hương vị": 3.8,
+        "Lấy nguồn": 3.9,
+        "Giá trị": 3.8,
+        "Kết cấu": 3.4,
+        "Dinh dưỡng": 4.1
       }
     },
     {
@@ -174,13 +174,40 @@
       ],
       "grade": "B+",
       "scores": {
-        "Flavor": 4,
-        "Sourcing": 3.6,
-        "Value": 4,
-        "Texture": 3.6,
-        "Nutrition": 3.8
+        "Hương vị": 4,
+        "Lấy nguồn": 3.6,
+        "Giá trị": 4,
+        "Kết cấu": 3.6,
+        "Dinh dưỡng": 3.8
       }
     }
   ],
-  "methodology": "Chúng tôi đánh giá từng sản phẩm dựa trên hồ sơ hương vị, độ minh bạch của nguồn gốc, giá trị mỗi khẩu phần, tính toàn vẹn của bao bì và hiệu suất trong các trường hợp sử dụng phổ biến. Các chứng nhận đã được ghi lại và đánh giá người dùng đã được xác minh được kiểm tra chéo với các tuyên bố tiếp thị."
+  "methodology": "Chúng tôi đánh giá từng sản phẩm dựa trên hồ sơ hương vị, độ minh bạch của nguồn gốc, giá trị mỗi khẩu phần, tính toàn vẹn của bao bì và hiệu suất trong các trường hợp sử dụng phổ biến. Các chứng nhận đã được ghi lại và đánh giá người dùng đã được xác minh được kiểm tra chéo với các tuyên bố tiếp thị.",
+  "recommendedFor": [
+    {
+      "label": "Dành cho người thuần túy muốn độ đậm ca cao tối đa",
+      "offerId": "lindt-excellence-90-cocoa",
+      "reason": "Tốt nhất cho người sành sô cô la đen muốn một thanh đáng tin cậy với bốn nguyên liệu và hậu vị đắng đậm kéo dài."
+    },
+    {
+      "label": "Cho món ăn vặt hằng ngày tiết kiệm",
+      "offerId": "ghirardelli-midnight-reverie-86",
+      "reason": "Lý tưởng cho người mới làm quen sô cô la tỷ lệ cao và để làm bánh, cân bằng độ sâu ca cao với hương vị dễ thưởng thức."
+    },
+    {
+      "label": "Cho nguồn gốc có đạo đức mà không đắt đỏ",
+      "offerId": "green-blacks-organic-dark-85",
+      "reason": "Tuyệt vời cho người muốn ca cao hữu cơ Fairtrade với hương trái cây mềm mại, thân thiện với người mới dùng loại 85%."
+    },
+    {
+      "label": "Cho người mua quan tâm toàn bộ chuỗi cung ứng",
+      "offerId": "theo-chocolate-organic-85",
+      "reason": "Hoàn hảo cho người coi trọng tính minh bạch từ hạt đến thanh và hương vị óc chó, anh đào phức hợp từ ca cao truy xuất được."
+    },
+    {
+      "label": "Cho tín đồ sô cô la thuần chay và thân thiện môi trường",
+      "offerId": "alter-eco-deep-dark-blackout-85",
+      "reason": "Tốt nhất cho người mua thuần chay, quan tâm môi trường muốn sô cô la hoàn toàn hữu cơ, Fairtrade, cũng tuyệt khi làm bánh."
+    }
+  ]
 }
