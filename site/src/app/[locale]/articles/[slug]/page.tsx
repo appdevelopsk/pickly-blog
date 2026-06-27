@@ -78,33 +78,34 @@ export default async function ArticlePage({ params }: Props) {
     }));
   }
 
-  // Products: array format (new: [{offerId, badge, review, pros, cons}])
-  // or object format (legacy: {"id": {badge, review}}) when no sections
+  // Products: array format [{offerId, badge, review, pros, cons, grade, specs}]
+  // or object format {"offerId": {...}}. Parsed regardless of whether the article also
+  // has a `sections` array — many comparison articles carry both, and the rich per-product
+  // specs table (high-value for AI citation & SEO) was previously dropped.
+  // NOTE: `scores` is intentionally NOT surfaced yet — the authored data uses inconsistent
+  // scales (≈79% /5, 12% /10, 9% out-of-range) and would render broken bars; enable after
+  // a normalization pass.
+  const parseProduct = (offerId: string, p: RawMessages): NonNullable<ArticleContent["products"]>[number] => ({
+    offerId,
+    badge: safeStr(p, "badge"),
+    review: safeStr(p, "review"),
+    pros: safeArr<string>(p, "pros"),
+    cons: safeArr<string>(p, "cons"),
+    grade: safeStr(p, "grade") || undefined,
+    specs: safeObj(p, "specs") as Record<string, string> | undefined,
+  });
   const rawProductsArr = Array.isArray(msg.products) ? msg.products as RawMessages[] : null;
   if (rawProductsArr) {
-    products = rawProductsArr.map((p) => ({
-      offerId: safeStr(p, "offerId"),
-      badge: safeStr(p, "badge"),
-      review: safeStr(p, "review"),
-      pros: safeArr<string>(p, "pros"),
-      cons: safeArr<string>(p, "cons"),
-      grade: safeStr(p, "grade") || undefined,
-    }));
-  } else if (rawSections.length === 0) {
+    products = rawProductsArr.map((p) => parseProduct(safeStr(p, "offerId"), p));
+  } else {
     const rawProductsObj = safeObj(msg, "products");
     if (rawProductsObj) {
-      products = Object.entries(rawProductsObj).map(([id, p]) => {
-        const prod = p as RawMessages;
-        return {
-          offerId: id,
-          badge: safeStr(prod, "badge"),
-          review: safeStr(prod, "review"),
-          pros: safeArr<string>(prod, "pros"),
-          cons: safeArr<string>(prod, "cons"),
-        };
-      });
+      products = Object.entries(rawProductsObj).map(([id, p]) => parseProduct(id, p as RawMessages));
     }
+  }
 
+  // buyingGuide → synthesized section, only when the article has no explicit sections
+  if (rawSections.length === 0) {
     const rawGuide = safeObj(msg, "buyingGuide");
     if (rawGuide) {
       const factors = rawGuide.factors as Array<{ name: string; detail: string }> | undefined;
