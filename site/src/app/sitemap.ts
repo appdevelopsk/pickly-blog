@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { LOCALES, isIndexedLocale } from "@/lib/i18n/locales";
 import { listArticles } from "@/lib/articles/registry";
+import { isDeindexed } from "@/lib/articles/deindexed-slugs";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { isArticleBodyTranslated } from "@/lib/i18n/loader";
 import { ogImageUrl } from "@/lib/og";
@@ -164,6 +165,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // body (a thin, mixed-language page); those are noindex'd in the page's
   // metadata, so they must stay out of the sitemap and the hreflang cluster too.
   for (const article of listArticles()) {
+    // 厳選(2026-06-29): 死蔵記事は noindex 済みなので sitemap / hreflang からも除外。
+    if (isDeindexed(article.slug)) continue;
     const indexLocales = article.locales.filter(
       (l) =>
         isIndexedLocale(l) &&

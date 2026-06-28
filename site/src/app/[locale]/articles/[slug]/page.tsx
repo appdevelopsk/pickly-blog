@@ -2,6 +2,7 @@ import { notFound, redirect } from "next/navigation";
 import { setRequestLocale } from "next-intl/server";
 import { LOCALES, DEFAULT_LOCALE, inferMarketFromLocale } from "@/lib/i18n/locales";
 import { listArticles, getArticle } from "@/lib/articles/registry";
+import { isDeindexed } from "@/lib/articles/deindexed-slugs";
 import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { ArticleBody } from "@/components/articles/ArticleBody";
@@ -276,6 +277,9 @@ export async function generateMetadata({ params }: Props) {
   return {
     title,
     description,
+    // 厳選(2026-06-29): 需要ゼロ〜微小の死蔵記事は noindex,follow でサイト全体の
+    // 品質評価(AdSense低価値/HCU)から外す。ページ自体はライブ維持(Pinterest用)。可逆。
+    ...(isDeindexed(slug) ? { robots: { index: false, follow: true } } : {}),
     alternates: {
       canonical: canonicalUrl,
       languages: Object.fromEntries(
