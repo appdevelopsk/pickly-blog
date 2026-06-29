@@ -2350,7 +2350,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cooling-pillow-purple-cloud",
-    "imageUrl": "https://cdn.trendhunterstatic.com/thumbs/454/purple-twincloud-pillow.jpeg",
+    "imageUrl": "",
     "priceMin": "129",
     "priceMax": "159",
     "category": "home",
@@ -2558,7 +2558,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "creatine-dhc-jp",
-    "imageUrl": "https://images.activesportsnutrition.co.uk/products/2864/jp-creatine.jpg?auto=format",
+    "imageUrl": "https://tbjpwholesale.co.uk/cdn/shop/products/Creatine300g_vegan.png?v=1691246521",
     "priceMin": "1200",
     "priceMax": "2500",
     "category": "food",
@@ -4534,7 +4534,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "gaming-kb-logicool-g913-jp",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71GoVt7G1UL.jpg",
+    "imageUrl": "https://asset.watch.impress.co.jp/img/gmw/docs/1482/190/009_l.jpg",
     "priceMin": "25000",
     "priceMax": "35000",
     "category": "tech",
@@ -5470,7 +5470,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-hada-labo-gokujun",
-    "imageUrl": "https://medias.watsons.co.id/publishing/WTCID-39357-back-zoom.jpg?version=1728590116",
+    "imageUrl": "https://rohto.co.id/assets/uploads/product/20240212102147.png",
     "priceMin": "¥660",
     "priceMax": "¥660",
     "category": "beauty",
@@ -9997,7 +9997,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sheet-mask-elizavecca-milky-piggy",
-    "imageUrl": "https://www.masksheets.com/cdn/shop/products/elizavecca-milky-piggy-carbonated-bubblle-clay-mask_1024x1024.jpg?v=1601061628",
+    "imageUrl": "https://m.media-amazon.com/images/I/71URNDQafKL._AC_.jpg",
     "priceMin": "¥600",
     "priceMax": "¥900",
     "category": "beauty",
@@ -13378,7 +13378,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ekster-parliament-leather",
-    "imageUrl": "https://cdn-s3.touchofmodern.com/products/002/774/533/0ba193f11be8b8ef0d83d7d8930956ac_large.jpg?1718914826",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/16410096-f624-456f-977e-dad51cfb307f.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     "priceMin": "$89",
     "priceMax": "$119",
     "category": "fashion",
@@ -14470,7 +14470,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "charles-schwab-mobile",
-    "imageUrl": "https://welcome.schwab.com/sites/g/files/eyrktu906/files/Schwab_Mobile_Screens_3.jpeg",
+    "imageUrl": "https://www.schwab.com/sites/g/files/eyrktu1401/files/Branch.png",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -17694,7 +17694,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sofi-personal-loan",
-    "imageUrl": "https://i.ytimg.com/vi/32Sc45wn2t8/maxresdefault.jpg",
+    "imageUrl": "https://moneycheck.com/wp-content/uploads/2019/07/sofi-review-1024x683.jpg",
     "priceMin": "$0 fee",
     "priceMax": "$0 fee",
     "category": "finance",
@@ -18812,7 +18812,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hape-wonder-walker",
-    "imageUrl": "https://www.bigw.com.au/medias/sys_master/images/images/h69/h2b/44719690055710.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Z-9qTszEL._AC_SL1500_.jpg",
     "priceMin": "$65",
     "priceMax": "$80",
     "category": "parenting",
@@ -19722,7 +19722,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "seachem-tidal-110-power-filter",
-    "imageUrl": "https://www.bigw.com.au/medias/sys_master/images/images/h52/h20/102110262722590.jpg",
+    "imageUrl": "https://kensfish.com/cdn/shop/products/6502-Tidal-110-box.png?v=1545533491&width=1946",
     "priceMin": "$130",
     "priceMax": "$170",
     "category": "pets",
@@ -20060,7 +20060,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "rimowa-essential-cabin",
-    "imageUrl": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw2c75b354/images/large/84256311_2.png",
+    "imageUrl": "",
     "priceMin": "$925",
     "priceMax": "$1,125",
     "category": "travel",
@@ -20970,7 +20970,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "the-north-face-1996-nuptse",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81D6tH6m56L._AC_SL1500_.jpg",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81D6tH6m56L._AC_UL1500_.jpg",
     "priceMin": "$310",
     "priceMax": "$380",
     "category": "fashion",
@@ -26352,7 +26352,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "turbotax-live-full-service",
-    "imageUrl": "https://i.ytimg.com/vi/0cE-aCyzMPQ/maxresdefault.jpg",
+    "imageUrl": "https://digitalasset.intuit.com/content/dam/intuit/cg/en_us/marketing/ty24/ty24biztaxpages/Img-BiztaxUnlim-all.png",
     "priceMin": "$200",
     "priceMax": "$400",
     "category": "finance",
@@ -26482,7 +26482,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "identityforce-credit-monitoring",
-    "imageUrl": "https://www.creditmonitoringservice.org/wp-content/uploads/2023/03/identity-force-review.png",
+    "imageUrl": "",
     "priceMin": "$34.99/mo",
     "priceMax": "$34.99/mo",
     "category": "finance",
@@ -28640,7 +28640,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "philips-sonicare-power-2-series",
-    "imageUrl": "https://www.costco.com.au/medias/sys_master/images/hfc/h53/50990566604830.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71vBgDEoc+L._AC_SL1500_.jpg",
     "priceMin": "$30",
     "priceMax": "$45",
     "category": "travel",
@@ -31136,7 +31136,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "indochino-essential-suit",
-    "imageUrl": "",
+    "imageUrl": "https://www.justinmichaelemmanuel.com/wp-content/uploads/2023/10/indochino-suit-024ktx-1-800x800.jpg",
     "priceMin": "$399",
     "priceMax": "$699",
     "category": "fashion",
@@ -31760,7 +31760,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "netspend-all-access-prepaid",
-    "imageUrl": "https://i.ytimg.com/vi/Eyq_IbtivGk/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/xi4CLP2nIKU/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "$5/mo",
     "category": "finance",
@@ -31786,7 +31786,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "walmart-moneycard-prepaid",
-    "imageUrl": "https://i.ytimg.com/vi/VaaX7VlfFKk/maxresdefault.jpg",
+    "imageUrl": "https://paydaysay.com/wp-content/uploads/walmart-moneycard.jpg",
     "priceMin": "Free",
     "priceMax": "$5.94/mo",
     "category": "finance",
@@ -32176,7 +32176,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "capital-one-360-cd",
-    "imageUrl": "https://i.ytimg.com/vi/MEgzhoFlQAM/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/gFZEEMQYSws/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -34204,7 +34204,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "marmot-trestles-elite-throw",
-    "imageUrl": "https://media-www.sportchek.ca/product/div-01-hardgoods/dpt-36-camping/sdpt-12-sleeping-bags/334503962/marmot-trestles-elite-eco-30f-1c-lng-s25-f7f02f54-be3e-4ee2-bc0c-e838ab3ca5ee-jpgrendition.jpg?imdensity=1&imwidth=640&impolicy=gZoom",
+    "imageUrl": "",
     "priceMin": "$80",
     "priceMax": "$110",
     "category": "travel",
@@ -35426,7 +35426,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hiscox-small-business",
-    "imageUrl": "https://i.ytimg.com/vi/CXTiWDVj-Bk/maxresdefault.jpg",
+    "imageUrl": "",
     "priceMin": "$35",
     "priceMax": "$250",
     "category": "finance",
@@ -36336,7 +36336,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "adp-run",
-    "imageUrl": "https://www.adp.com/-/media/adp/refresh2025/images/what-we-offer/products/run/wwo_run_hero_620w_en.png?rev=7b47ddf76a3a40f88277f92d45192ad1&la=en&h=394&w=620&hash=672C2B4EC8DC5F2958DCDDD59D8AED95",
+    "imageUrl": "",
     "priceMin": "$60",
     "priceMax": "$300",
     "category": "tech",
@@ -37402,7 +37402,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "humana-medicare-supplement",
-    "imageUrl": "https://i.ytimg.com/vi/cIoAp2v0fMo/maxresdefault.jpg",
+    "imageUrl": "https://mymedicaresupplementplan.org/wp-content/uploads/2018/07/humana-medicare-supplemetnal-insurance.png",
     "priceMin": " as unknown as AffiliateOffer[]30",
     "priceMax": "$300",
     "category": "finance",
@@ -38768,7 +38768,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "eufy-smart-scale-p2-pro",
-    "imageUrl": "https://www.virginmegastore.qa/medias/827840-main.jpg?context=bWFzdGVyfHJvb3R8NzU2MDF8aW1hZ2UvanBlZ3xhRE5oTDJnNFlpOHhNREUxTlRZNU5qRTJNRGM1T0M4NE1qYzROREJmWDIxaGFXNHVhbkJufDM4MTc4ZGJhODM0MDYxYTJhNGZhOTFjZjQ0ZDZhMGNhM2RlZDUxOTEwMTZlMzQ1NTc2MTA5OWNiODg2NmE1OGQ", // TODO: find stable imageUrl
+    "imageUrl": "https://m.media-amazon.com/images/I/61uw40JzeqL._SL1500_.jpg", // TODO: find stable imageUrl
     "category": "home",
     "badge": "📊 Best Dual-Frequency BIA",
     "name": { "en": "Eufy Smart Scale P2 Pro", "ja": "Eufy スマートスケール P2 Pro" },
@@ -38970,7 +38970,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "coach-tabby-shoulder-bag",
-    "imageUrl": "https://cdn-images.farfetch-contents.com/19/65/97/83/19659783_43950689_1000.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Y6N+agC2L._AC_SL1500_.jpg",
     "priceMin": "$350",
     "priceMax": "$450",
     "category": "fashion",
@@ -42683,7 +42683,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "patagonia-torrentshell-3l",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/710u6%2BRryXL._AC_SL1500_.jpg",
+    imageUrl: "https://www.patagonia.com.hk/cdn/shop/files/WBF25_85241_MRLB_BC1.jpg?v=1753236171&width=1800",
     category: "fashion",
     name: { en: "Patagonia Torrentshell 3l" },
     description: { en: "The Patagonia Torrentshell 3L is the rain jacket most people should buy." },
@@ -42694,7 +42694,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "columbia-watertight-ii",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/61UHLkAs0BL._AC_UL1200_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61MQZ0cKpfL._SL1100_.jpg",
     category: "fashion",
     name: { en: "Columbia Watertight Ii" },
     description: { en: "The Columbia Watertight II punches above its price — a 2-layer Omni-Tech jacket with sealed seams, typically around $100 or less, that keeps you dry well for everyday rain: commut…" },
@@ -42903,7 +42903,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "samsung-hw-q990d",
-    imageUrl: "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6570/6570312cv13d.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61bgG0GUvLL._AC_SL1500_.jpg",
     category: "home",
     name: { en: "Samsung Hw Q990d" },
     description: { en: "The Samsung HW-Q990D is the most complete home-theatre-in-a-box here — a true 11.1.4 system with a large wireless subwoofer and two wireless rear speakers that have their own up-f…" },
@@ -43915,7 +43915,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "hamilton-beach-electric-griddle",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/1ce40260-ff7f-4acf-ada8-5d5fa683aee2.jpg._CB274069262_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/615BcGK5mdL._AC_SL1500_.jpg",
     category: "food",
     name: { en: "Hamilton Beach Electric Griddle" },
     description: { en: "The Hamilton Beach Electric Griddle is the value alternative to the Presto — a large, affordable nonstick griddle covering the same family-batch breakfast-and-more duties at a bud…" },
@@ -45290,7 +45290,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frisco-elevated-double-bowl",
-    imageUrl: "",
+    imageUrl: "https://www.rd.com/wp-content/uploads/2022/10/frisco-diamond-dog-cat-double-bowl-ecomm-via-chewy.com_.png?w=700?fit=140%2C140",
     category: "pets",
     name: { en: "Frisco Elevated Double Bowl" },
     description: { en: "The Frisco Elevated Double Bowl is the value double-bowl pick — a sturdy, practical raised feeder with two stainless bowls (food and water) at a low price." },
@@ -45301,7 +45301,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "pawfect-raised-bowl",
-    imageUrl: "https://m.media-amazon.com/images/I/71AuqAKs1NL._AC_SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/712Qh+GFEvL._AC_.jpg",
     category: "pets",
     name: { en: "Pawfect Raised Bowl" },
     description: { en: "The Pawfect Raised Bowl is the budget pick — an inexpensive elevated feeder for raising your dog's bowls cheaply." },

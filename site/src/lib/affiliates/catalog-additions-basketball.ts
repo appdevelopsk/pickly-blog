@@ -213,7 +213,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "new-balance-two-wxy-v5",
-    imageUrl: "https://media-www.sportchek.ca/product/div-05-footwear/dpt-80-footwear/sdpt-01-mens/334386675/new-balance-men-s-two-wxy-v5-basketball-shoes-e5550fa5-31c2-42f9-960e-54623df3fdcf-jpgrendition.jpg?imdensity=1&imwidth=1244&impolicy=gZoom",
+    imageUrl: "https://cdn.runrepeat.com/storage/gallery/product_content/40522/new-balance-two-wxy-v-5-outdoor-01-22133223-1440.jpg",
     category: "fitness",
     name: { en: "New Balance Two Wxy V5" },
     description: { en: "New Balance's Two WXY has quietly become one of the best-cushioned team shoes available, using NB's responsive FuelCell-style foam to deliver springy, comfortable landings in a build that fits wider feet better than most signature lines." },
