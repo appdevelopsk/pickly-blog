@@ -42553,7 +42553,7 @@ export const CATALOG_ADDITIONS = [
     id: "uperfect-uplays-x-pro",
     imageUrl: "https://img4.dhresource.com/webp/m/0x0/f3/albu/jc/y/22/cb78ff58-bd7d-454d-b608-8d4cbed873e9.jpg",
     category: "tech",
-    name: { en: "Uperfect Uplays X Pro" },
+    name: { en: "UPERFECT X Pro (4K Lapdock)" },
     description: { en: "The UPERFECT UPlays X Pro is a feature-packed value alternative whose standout is a built-in adjustable kickstand — you tilt it to any angle without fishing out a magnetic cover,…" },
     links: [
       { network: "amazon-us", productId: "uperfect-uplays-x-pro", rawUrl: "https://www.amazon.com/s?k=portable%20monitor%20uperfect%20uplays%20x%20pro", markets: ["US", "EU", "UK", "global"], approved: true },
@@ -45116,7 +45116,7 @@ export const CATALOG_ADDITIONS = [
     id: "native-union-stow",
     imageUrl: "https://m.media-amazon.com/images/I/61k2IdTUBhL.jpg",
     category: "tech",
-    name: { en: "Native Union Stow" },
+    name: { en: "Native Union Stow Slim" },
     description: { en: "The Native Union Stow is the slim, design-led pick — a sleek minimalist sleeve with smart organisation and a touch of luxury, popular with Apple users." },
     links: [
       { network: "amazon-us", productId: "native-union-stow", rawUrl: "https://www.amazon.com/s?k=laptop%20sleeve%20native%20union%20stow", markets: ["US", "EU", "UK", "global"], approved: true },
