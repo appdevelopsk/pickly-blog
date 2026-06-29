@@ -7,12 +7,12 @@ import { specLabel, SPEC_UNITS } from "./spec-labels";
 export type SpecEntry = {
   confirmedProduct?: string;
   fields: Record<string, string | null>;
-  sources?: Record<string, string>;
+  sources?: Record<string, string | null>;
   verifiedAt?: string;
   notes?: string;
 };
 
-const CACHE = rawCache as Record<string, SpecEntry>;
+const CACHE = rawCache as unknown as Record<string, SpecEntry>;
 
 /** 検証済みspecがあれば {ローカライズ済みラベル: 値+単位} を返す。なければ undefined。 */
 export function getVerifiedSpecs(offerId: string, locale: string): Record<string, string> | undefined {
