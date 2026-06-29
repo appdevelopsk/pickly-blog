@@ -1935,7 +1935,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "¥17,800",
     category: "home",
     badge: "🍟",
-    name: { en: "COSORI Pro II 6.4L", ja: "COSORI Pro II 6.4L" },
+    name: { en: "COSORI Pro II (5.5 L, CP358-AF)", ja: "COSORI Pro II (5.5 L, CP358-AF)" },
     description: {
       en: "2-4 person daily-driver. 6.4L square basket, 75-230°C range that genuinely crisps frozen items, 13 presets you'll mostly ignore. 5.4 kg unit needs stable counter space; basket non-stick shows wear by year 3 on daily use.",
       ja: "17,800円の2-4人世帯毎日使い本命。6.4Lスクエアバスケット、温度範囲75-230°Cで冷凍食品を本気でカリッとさせ、プリセット13種(初週以降ほぼ使わない)。本体5.4kgは安定カウンタースペースが必要、毎日使用でバスケット非粘着加工は3年目に摩耗が出る。",
@@ -2813,7 +2813,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     priceMax: "$49.99",
     category: "tech",
     badge: "✈️",
-    name: { en: "ESR HaloLock 2-in-1 Travel Wireless Charger", ja: "ESR HaloLock 2in1 旅行用ワイヤレス充電器" },
+    name: { en: "ESR HaloLock 2-in-1 Magnetic Wireless Charger (iPhone + AirPods)", ja: "ESR HaloLock 2in1 マグネット式ワイヤレス充電器（iPhone+AirPods）" },
     description: {
       en: "Foldable MagSafe-compatible 2-in-1 travel wireless charger. MagSafe magnet ring for iPhone alignment, secondary 5W Qi AirPods pad, folds to credit-card footprint at ~12mm, USB-C input, ~¥4,000. Weakness: 7.5W iPhone only (not full 15W MagSafe — uses compatible magnets without Qi2 certification); AirPods pad is 5W Qi only; no Apple Watch spot; build quality less premium than Belkin or Anker MagGo.",
       ja: "折りたたみ式MagSafe互換2in1旅行用ワイヤレス充電器。iPhoneアライメント用MagSafe磁石リング・5W AirPods Qiサブパッド・クレジットカードサイズに折りたたみ（厚さ約12mm）・USB-C入力・約4,000円。弱点：iPhone最大7.5W（Qi2認証なしのMagSafe互換磁石のため15W MagSafeではない）；AirPodsパッドは5W Qiのみ；Apple Watchスポットなし；ビルドクオリティがBelkinやAnker MagGoより劣る。",
@@ -11350,7 +11350,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "bodylastics-stackable-bands",
     imageUrl: "https://m.media-amazon.com/images/I/61DsxYxtQdL._AC_SL1500_.jpg",
     category: "fitness",
-    name: { en: "Bodylastics Stackable Tube Resistance Bands (Set of 12)", ja: "Bodylastics スタッカブルチューブ レジスタンスバンド 12本セット" },
+    name: { en: "Bodylastics Stackable Tube Resistance Bands (12-piece kit incl. 5 bands)", ja: "Bodylastics スタッカブルチューブ レジスタンスバンド（12点キット・バンド5本）" },
     description: {
       en: "12-tube stackable system covering 3–25 lbs per tube, stackable to 96 lbs combined. Defining feature: internal bungee safety cord in each tube that catches the load if latex snaps, preventing whip-back injury. Color-coded carabiner clips attach to shared foam handles. Includes 2 door anchors, 2 ankle straps, and carry bag. Best for home gym users who want the widest stackable range with genuine safety engineering — the anti-snap cord is absent in most competitor tube sets.",
       ja: "チューブ1本あたり3〜25lbs、合計最大96lbsまでスタック可能な12本チューブシステム。最大の特徴はラテックス破断時に跳ね返りを防ぐインターナルバンジーセーフティコード。色分けカラビナクリップで共通フォームハンドルに装着。ドアアンカー2本・アンクルストラップ2本・キャリーバッグ付属。最も広いスタッカブルレンジと安全設計を求めるホームジムユーザーに最適——アンチスナップコードは多くの競合チューブセットにない機能。",
@@ -15859,7 +15859,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "~$55",
     category: "fitness",
     badge: "🏅",
-    name: { en: "RX Smart Gear Bullet Comp Speed Rope", ja: "RX Smart Gear Bullet Comp スピードロープ" },
+    name: { en: "Elite Jumps Bullet COMP Speed Rope", ja: "Elite Jumps Bullet COMP スピードロープ" },
     description: {
       en: "~$55-65. Sealed ball bearings, 2.5 mm PVC cable, 5-inch aluminum handles. Best for advanced athletes optimizing double-under speed and consistency. Competition standard in CrossFit.",
       ja: "約5千5百〜6千5百円。密封ボールベアリング、2.5mm PVCケーブル、13cmアルミニウムハンドル。ダブルアンダーの速度と一貫性を最適化する上級アスリートに最適。CrossFitの競技標準。",
@@ -16939,7 +16939,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     price: "~$100",
     badge: "💪",
-    name: { en: "Prime Fitness Flat Bench", ja: "Prime Fitness フラットベンチ" },
+    name: { en: "PRIME Fitness Adjustable Bench", ja: "PRIME Fitness アジャスタブルベンチ" },
     description: {
       en: "~$100-150. Commercial-style flat bench, 1000+ lb capacity, 2.5-inch firm foam. Best flat bench for the price — outperforms budget adjustable benches for flat pressing. Narrow footprint fits inside power racks.",
       ja: "約1万5千〜2万円。商業スタイルフラットベンチ、450kg+耐荷重、2.5インチ硬質フォーム。価格に対して最高のフラットベンチ——フラットプレス安定性で予算調整可能ベンチを超える。狭いフットプリントでパワーラック内に収まる。",
@@ -20539,7 +20539,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://cdn11.bigcommerce.com/s-21x65e8kfn/images/stencil/original/products/16558/46669/INO1549_1000_1__95448.1688149286.jpg",
     category: "fitness",
     badge: "Best for Olympic Lifting",
-    name: { en: "Inov-8 Fastlift 370", ja: "イノヴェイト ファストリフト 370" },
+    name: { en: "Inov-8 Fastlift 370 BOA", ja: "イノヴェイト ファストリフト 370 BOA" },
     description: { en: "Hybrid CrossFit trainer with 4mm heel elevation for Olympic lifting stability while retaining trainer flexibility", ja: "リフティング安定性のための4mmヒール挙上とトレーナー柔軟性を兼ね備えたハイブリッド" },
     price: "$170.00",
     links: [
@@ -20643,7 +20643,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://www.heatherstummycare.com/images/products/TEAS_PMINT-CAN-BAGS_large.jpg",
     category: "food",
     badge: "Best Medical-Grade Peppermint",
-    name: { en: "Heather's Tummy Tamer Peppermint", ja: "Heather's Tummy Tamer ペパーミント" },
+    name: { en: "Heather's Tummy Teas Organic Peppermint", ja: "Heather's Tummy Teas Organic ペパーミント" },
     description: { en: "Extra-high menthol peppermint tea formulated for digestive comfort and IBS relief", ja: "消化器系の快適さとIBS緩和のために特別配合された超高メントールペパーミントティー" },
     price: "$14.99",
     links: [
@@ -20711,7 +20711,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://www.bigelowtea.com/cdn/shop/files/fzcrvorlmvyc8di2mzor.jpg?v=1776753835&width=1080",
     category: "food",
     badge: "Best Budget Peppermint",
-    name: { en: "Bigelow Benefits Peppermint", ja: "Bigelow Benefits ペパーミント" },
+    name: { en: "Bigelow Peppermint Herbal Tea", ja: "Bigelow ペパーミント ハーバルティー" },
     description: { en: "Widely available grocery store peppermint in individually foil-wrapped bags for freshness", ja: "個別アルミホイル包装で鮮度を保つ広く流通するスーパーマーケットペパーミントティー" },
     price: "$3.52",
     links: [
@@ -22092,7 +22092,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "powerblock-sport-kettlebell", imageUrl: "https://powerblock.com/cdn/shop/files/light-adjustable-kettlebell-_540-00183-01_main-web_393e2c25-e99b-438f-b3fe-c5b38525268a.jpg?v=1776454465",
     category: "fitness",
     badge: "Best Compact Adjustable Kettlebell",
-    name: { en: "PowerBlock Sport Adjustable Kettlebell", ja: "パワーブロック スポーツ アジャスタブル ケトルベル" },
+    name: { en: "PowerBlock Pro Adjustable Kettlebell", ja: "パワーブロック プロ アジャスタブル ケトルベル" },
     description: { en: "Block-style design replaces 8 kettlebells. 35 lbs total adjustable. Perforated steel shell, square base doesn't roll.", ja: "8個のケトルベルを代替するブロックスタイル。合計35lbs調整可能。穿孔スチールシェル・転がらない正方形ベース。" },
     price: "$199.00",
     links: [
@@ -24110,7 +24110,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     priceMax: "$85",
     category: "pets",
     badge: "All-Rounder",
-    name: { en: "MidWest Homes Hamster Supreme", ja: "ミッドウェストホームズ ハムスタースプリーム", "zh-CN": "MidWest Homes 仓鼠至尊笼", "zh-TW": "MidWest Homes 倉鼠至尊籠", ko: "미드웨스트 홈즈 햄스터 슈프림 케이지", es: "Jaula MidWest Homes Hamster Supreme", "pt-BR": "Gaiola MidWest Homes Hamster Supreme", fr: "Cage MidWest Homes Hamster Supreme", de: "MidWest Homes Hamster Supreme Kafig", it: "Gabbia MidWest Homes Hamster Supreme", ru: "Клетка MidWest Homes Hamster Supreme", ar: "قفص MidWest Homes Hamster Supreme", hi: "MidWest Homes Hamster Supreme केज", id: "Kandang Hamster MidWest Homes Supreme", th: "กรงหนูแฮมสเตอร์ MidWest Homes Supreme", vi: "Long hamster MidWest Homes Supreme", tr: "MidWest Homes Hamster Supreme Kafesi" },
+    name: { en: "MidWest Homes Hamster Nation", ja: "ミッドウェストホームズ ハムスタースプリーム", "zh-CN": "MidWest Homes 仓鼠至尊笼", "zh-TW": "MidWest Homes 倉鼠至尊籠", ko: "미드웨스트 홈즈 햄스터 슈프림 케이지", es: "Jaula MidWest Homes Hamster Nation", "pt-BR": "Gaiola MidWest Homes Hamster Nation", fr: "Cage MidWest Homes Hamster Nation", de: "MidWest Homes Hamster Nation Kafig", it: "Gabbia MidWest Homes Hamster Nation", ru: "Клетка MidWest Homes Hamster Nation", ar: "قفص MidWest Homes Hamster Nation", hi: "MidWest Homes Hamster Nation केज", id: "Kandang Hamster MidWest Homes Supreme", th: "กรงหนูแฮมสเตอร์ MidWest Homes Supreme", vi: "Long hamster MidWest Homes Supreme", tr: "MidWest Homes Hamster Nation Kafesi" },
     description: { en: "Dual-level wire and plastic cage with two ramps, exercise wheel, water bottle, and food dish. 23.6 x 14.4 x 21.5 inches; floor space ~340 sq in per level. Removable base tray snaps out for spot cleaning.", ja: "2段式ワイヤー&プラスチックケージ。スロープ2本、回し車、水ボトル、餌皿付き。サイズ23.6x14.4x21.5インチ、各階床面積約340平方インチ。" },
     links: [
       { network: "amazon-us", productId: "B0007KAYNE", rawUrl: "https://www.amazon.com/dp/B0007KAYNE", markets: ["US", "global"], approved: true },

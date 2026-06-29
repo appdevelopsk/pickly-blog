@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-protein-powder-2026",
   type: "comparison",
-  category: "beauty",
+  category: "food",
   offerIds: [
     "optimum-gold-standard-2270g",
     "myprotein-impact-whey-2500g",
