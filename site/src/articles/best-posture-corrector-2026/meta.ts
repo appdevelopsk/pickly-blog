@@ -8,7 +8,6 @@ export const meta: ArticleMeta = {
   offerIds: [
     "upright-go-2",
     "comfymed-posture-brace",
-    "fitletic-posture-corrector",
     "truweo-posture-corrector",
     "back-brace-posture-corrector",
   ],

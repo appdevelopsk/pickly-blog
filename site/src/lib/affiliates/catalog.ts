@@ -8064,7 +8064,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "la-sportiva-tx4-gtx",
     imageUrl: "https://www.lasportivausa.com/cdn/shop/files/37B_900322_TX4_Evo_Carbon_Cherry_Tomato_1_c30b621e-bc2c-4b25-8b70-fadf1b659281.jpg",
     category: "fitness",
-    name: { en: "La Sportiva TX4 GTX", ja: "ラ スポルティバ TX4 GTX" },
+    name: { en: "La Sportiva TX4 Mid GTX", ja: "ラ スポルティバ TX4 GTX" },
     description: {
       en: "Best approach and technical hiking boot — FriXion AT climbing rubber rand, Vibram Megagrip outsole, precision fit for rock scrambling and via ferrata",
       ja: "アプローチ・テクニカルハイキング最強 — FriXion ATクライミングラバーランド、Vibram Megagripアウトソール、岩場スクランブルとビアフェラータに対応",

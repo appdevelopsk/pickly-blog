@@ -84,7 +84,6 @@
   "offerNotes": {
     "upright-go-2": "Active biofeedback pick — adhesive sensor trains posture via vibration, app tracks progress over time. Does not address lower back or neck position; adhesive pad can irritate sensitive skin; unreliable during walking or physical activity.",
     "comfymed-posture-brace": "Low-cost figure-8 shoulder brace for short proprioceptive sessions. Highest muscle dependency risk of the five — physically holds the position without recruiting postural muscles; armpit strap can dig into skin during prolonged wear; sizing instructions are unclear.",
-    "fitletic-posture-corrector": "Lightweight elastic design, most comfortable passive brace for active use under clothing. Lighter construction means reduced pulling force — insufficient for significant thoracic kyphosis; elastic degrades with washing over 3-6 months; muscle dependency concern applies as with all passive braces.",
     "truweo-posture-corrector": "Most adjustable passive brace — dual velcro system allows fine-tuning tension. Velcro snags on clothing and hair; over-tightening can cause arm tingling from nerve compression; start at loosest setting; same muscle dependency risk as other passive braces.",
     "back-brace-posture-corrector": "Full lumbar support brace for standing and loading — different problem from desk-posture thoracic rounding. Too bulky for seated office use; addresses lower back only, not shoulder or neck posture; muscle dependency applies to spinal erector muscles with prolonged use."
   },
@@ -143,33 +142,6 @@
         "Ketertarikan": 4.2,
         "Nilai": 4.8,
         "Kemudahan Penggunaan": 4.6
-      }
-    },
-    {
-      "offerId": "fitletic-posture-corrector",
-      "badge": "Best for Active Wear",
-      "review": "The Fitletic's lightweight elastic construction makes it the most comfortable passive option for active use — wearable during walks, errands, or light activity without restricting movement. The lighter construction also means less pulling force, making it insufficient for significant thoracic kyphosis. Elastic degrades with repeated washing within 3–6 months.",
-      "pros": [
-        "Lightest and most comfortable passive brace for active movement",
-        "Low profile fits under any clothing",
-        "Appropriate for mild posture awareness during daily activity"
-      ],
-      "cons": [
-        "Light construction provides insufficient force for significant thoracic kyphosis"
-      ],
-      "grade": "B+",
-      "specs": {
-        "Type": "Passive elastic shoulder brace",
-        "Construction": "Lightweight elastic",
-        "Lifespan": "~3–6 months with regular washing",
-        "Price (US)": "~$30"
-      },
-      "scores": {
-        "Efektivitas Koreksi": 3.5,
-        "Kenyamanan": 4.6,
-        "Ketertarikan": 4.7,
-        "Nilai": 4.4,
-        "Kemudahan Penggunaan": 4.8
       }
     },
     {
@@ -237,11 +209,6 @@
       "label": "For short proprioceptive reminder sessions (20–30 min)",
       "offerId": "comfymed-posture-brace",
       "reason": "Strong tactile feedback at the lowest price — effective when used briefly as a cue, not as a structural support."
-    },
-    {
-      "label": "For active daily use during movement and errands",
-      "offerId": "fitletic-posture-corrector",
-      "reason": "Lightest passive option — comfortable for walking and light activity without restricting movement."
     },
     {
       "label": "For users who want a precisely adjustable brace",

@@ -13,6 +13,5 @@ export const meta: ArticleMeta = {
     "trideer-half-finger-gloves",
     "mechanix-wear-gym-gloves",
     "bionic-premium-full-finger-gloves",
-    "bear-grips-barehand-straps",
   ],
 };

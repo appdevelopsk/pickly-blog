@@ -7,8 +7,6 @@ export const meta: ArticleMeta = {
   category: "beauty",
   offerIds: [
     "currentbody-skin-led",
-    "yaman-medi-lift-plus",
-    "dr-arrivo-zeus-2",
     "aduro-7-plus-1",
     "omnilux-contour-face",
   ],

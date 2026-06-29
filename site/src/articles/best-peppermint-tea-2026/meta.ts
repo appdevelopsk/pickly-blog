@@ -8,7 +8,6 @@ export const meta: ArticleMeta = {
   offerIds: [
     "heathers-tummy-tamer-peppermint",
     "choice-organic-peppermint",
-    "numi-organic-peppermint-tea",
     "republic-of-tea-peppermint",
     "bigelow-benefits-peppermint",
   ],
