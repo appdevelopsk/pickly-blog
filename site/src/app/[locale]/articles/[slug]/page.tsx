@@ -3,6 +3,7 @@ import { setRequestLocale } from "next-intl/server";
 import { LOCALES, DEFAULT_LOCALE, inferMarketFromLocale } from "@/lib/i18n/locales";
 import { listArticles, getArticle } from "@/lib/articles/registry";
 import { isDeindexed } from "@/lib/articles/deindexed-slugs";
+import { getVerifiedSpecs } from "@/lib/articles/specs";
 import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { ArticleBody } from "@/components/articles/ArticleBody";
@@ -92,7 +93,8 @@ export default async function ArticlePage({ params }: Props) {
     cons: safeArr<string>(p, "cons"),
     grade: safeStr(p, "grade") || undefined,
     scores: safeObj(p, "scores") as Record<string, number> | undefined,
-    specs: safeObj(p, "specs") as Record<string, string> | undefined,
+    // 検証済み実spec(出典付き)を最優先。無い商品は従来の未検証specにフォールバック（厳選展開で順次置換）。
+    specs: getVerifiedSpecs(offerId, locale) ?? (safeObj(p, "specs") as Record<string, string> | undefined),
   });
   const rawProductsArr = Array.isArray(msg.products) ? msg.products as RawMessages[] : null;
   if (rawProductsArr) {

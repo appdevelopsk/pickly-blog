@@ -1,0 +1,34 @@
+// offerId キーで Web一次情報から検証済みの製品スペックを引く。
+// サイトは specs-cache.json を読むだけ（ビルド時 API/取得なし）。値ごとに出典URLを保持。
+// 表示は spec-labels.ts でロケール化。確証の取れなかったフィールドは null = 表示しない。
+import rawCache from "./specs-cache.json";
+import { specLabel, SPEC_UNITS } from "./spec-labels";
+
+export type SpecEntry = {
+  confirmedProduct?: string;
+  fields: Record<string, string | null>;
+  sources?: Record<string, string>;
+  verifiedAt?: string;
+  notes?: string;
+};
+
+const CACHE = rawCache as Record<string, SpecEntry>;
+
+/** 検証済みspecがあれば {ローカライズ済みラベル: 値+単位} を返す。なければ undefined。 */
+export function getVerifiedSpecs(offerId: string, locale: string): Record<string, string> | undefined {
+  const e = CACHE[offerId];
+  if (!e?.fields) return undefined;
+  const out: Record<string, string> = {};
+  for (const [key, val] of Object.entries(e.fields)) {
+    if (val == null || val === "") continue; // 未検証/該当なしは出さない
+    const unit = SPEC_UNITS[key] ?? "";
+    // 既に値側に単位が含まれていれば二重付与しない
+    const display = unit && !String(val).includes(unit.trim()) ? `${val}${unit}` : String(val);
+    out[specLabel(key, locale)] = display;
+  }
+  return Object.keys(out).length ? out : undefined;
+}
+
+export function hasVerifiedSpecs(offerId: string): boolean {
+  return !!CACHE[offerId]?.fields;
+}

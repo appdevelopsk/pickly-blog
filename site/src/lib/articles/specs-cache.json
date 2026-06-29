@@ -1,0 +1,86 @@
+{
+  "oatly-oat-milk-original": {
+    "confirmedProduct": "Oatly Original Oatmilk (US 32 oz)",
+    "fields": {
+      "servingSize": "1 cup (240 ml)",
+      "calories": "120",
+      "protein_g": "3",
+      "totalFat_g": "5",
+      "sugars_g": "7",
+      "base_oil": "Rapeseed (canola) oil",
+      "certifications": "Gluten-Free, Non-GMO, Vegan, Kosher"
+    },
+    "sources": { "all": "https://www.oatly.com/en-us/products/oatmilk/oatmilk-32-oz" },
+    "verifiedAt": "2026-06-29",
+    "notes": "US official panel. EU 'Oat Drink Original' differs slightly."
+  },
+  "oatly-oat-milk-barista": {
+    "confirmedProduct": "Oatly Oatmilk Barista Edition (US 32 oz)",
+    "fields": {
+      "servingSize": "1 cup (240 ml)",
+      "calories": "140",
+      "protein_g": "3",
+      "totalFat_g": "7",
+      "sugars_g": "7",
+      "base_oil": "Rapeseed (canola) oil",
+      "certifications": "Gluten-Free, Non-GMO, Vegan, Kosher"
+    },
+    "sources": { "all": "https://www.oatly.com/en-us/products/oatmilk/oatmilk-barista-edition-32-oz" },
+    "verifiedAt": "2026-06-29",
+    "notes": "US official panel. Sugars naturally occurring from oats."
+  },
+  "planet-oat-extra-creamy": {
+    "confirmedProduct": "Planet Oat Extra Creamy Oatmilk (Original)",
+    "fields": {
+      "servingSize": "1 cup (240 ml)",
+      "calories": "120",
+      "protein_g": "2",
+      "totalFat_g": "3.5",
+      "sugars_g": "5",
+      "base_oil": "Sunflower oil",
+      "certifications": "Gluten-Free, Non-GMO, Vegan, Dairy-Free, Soy-Free"
+    },
+    "sources": {
+      "claims": "https://planetoat.com/products/extra-creamy-oatmilk/",
+      "values": "https://www.nutritionvalue.org/Original_extra_creamy_oatmilk%2C_original_by_PLANET_OAT_700946_nutritional_value.html"
+    },
+    "verifiedAt": "2026-06-29",
+    "notes": "Brand panel is a label image; values from nutrition DB mirroring the label, claims from official page. Distinct from the 'Unsweetened Extra Creamy' SKU (70 kcal, 0 g sugar)."
+  },
+  "califia-oat-milk-barista": {
+    "confirmedProduct": "Califia Farms Oat Barista Blend (Oatmilk)",
+    "fields": {
+      "servingSize": "8 fl oz (240 ml)",
+      "calories": "130",
+      "protein_g": "1",
+      "totalFat_g": "7",
+      "sugars_g": "3",
+      "base_oil": "Sunflower oil",
+      "certifications": "Gluten-Free, Dairy-Free, Vegan, Non-GMO, Soy-Free"
+    },
+    "sources": {
+      "claims": "https://www.califiafarms.com/products/oat-barista-blend/",
+      "values": "https://www.eatthismuch.com/calories/oatmilk-oat-barista-blend-1712308"
+    },
+    "verifiedAt": "2026-06-29",
+    "notes": "IDENTITY CORRECTION: catalog name 'Better Half Oat Creamer' is wrong; real product is Oat Barista Blend oatmilk. Brand panel is a label image; calories cross-confirmed at 130."
+  },
+  "elmhurst-oat-milk": {
+    "confirmedProduct": "Elmhurst 1925 Unsweetened Milked Oats",
+    "fields": {
+      "servingSize": "8 fl oz (240 ml)",
+      "calories": "100",
+      "protein_g": "3",
+      "totalFat_g": "2",
+      "sugars_g": "1",
+      "base_oil": "None (oil-free, 3-ingredient formula)",
+      "certifications": "Gluten-Free, Non-GMO, Glyphosate-Free, Dairy-Free, Vegan, Kosher"
+    },
+    "sources": {
+      "claims": "https://elmhurst1925.com/products/unsweetened-milked-oats",
+      "values": "https://foods.fatsecret.com/calories-nutrition/elmhurst/milked-oats-unsweetened"
+    },
+    "verifiedAt": "2026-06-29",
+    "notes": "Official page confirms 100 kcal and oil-free formula; fat/protein/sugar cross-confirmed via fatsecret. CalorieKing outlier (80 kcal) rejected as older formulation."
+  }
+}
