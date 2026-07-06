@@ -48,6 +48,26 @@
     {
       "q": "Do I need a touchscreen portable monitor?",
       "a": "Only for specific jobs. Touch is genuinely useful for point-of-sale and signature capture, kiosk and trade-show displays, presentations where you annotate on screen, and people who want tablet-style scrolling. For ordinary desk work — a second screen for email, documents, and reference material — touch adds cost and a glossier, more reflective surface for no real benefit, since you'll use your laptop's keyboard and trackpad anyway. If you don't have a concrete reason to touch the screen, save the money and buy a brighter matte panel instead."
+    },
+    {
+      "q": "Can I run a portable monitor from my phone or a game console like the Nintendo Switch or PS5?",
+      "a": "A phone works only if its USB-C port outputs video (DisplayPort Alt Mode) — many Samsung Galaxy and other Android flagships do, most iPhones with USB-C are limited, and cheaper phones often don't output video at all. Consoles are the bigger catch: the Nintendo Switch outputs video over USB-C but usually can't supply enough power to run the screen, and a PS5 or Xbox needs the monitor's HDMI input, not USB-C. In both cases you'll use the monitor's second USB-C port connected to a charger or power bank. The ASUS ZenScreen MB16AHG and the budget panels here all have that extra USB-C port plus a mini-HDMI input, so console and phone use is possible — just plan on carrying a power source and, for consoles, an HDMI cable."
+    },
+    {
+      "q": "Will using a portable monitor drain my laptop battery faster?",
+      "a": "Yes, noticeably, if the monitor draws both video and power from the laptop over one cable. You're asking the laptop to render a second display and feed it several watts, so unplugged runtime drops — how much depends on the monitor's brightness and your laptop's battery. The fix is simple: plug the monitor's second USB-C port into a charger or power bank so it powers itself, and if possible run the laptop from wall power too. Higher-refresh and brighter panels like the ASUS pull more than a dim budget screen at low brightness. If you'll work untethered for hours, factor in a power bank rather than assuming single-cable operation is free — check each monitor's rated power draw in its spec if battery life is critical."
+    },
+    {
+      "q": "Are these portable monitors bright enough to use outdoors?",
+      "a": "For true direct sunlight, no — none of these are sunlight-readable. The budget panels (Lepow C2S, ViewSonic TD1655) sit at typical indoor brightness and wash out badly near a window or outside. The ASUS ZenScreen is brighter and usable in shade, and the espresso's glass is bright but its glossy surface throws reflections that hurt outdoors. If you genuinely need to work in a sunny café patio or outdoors, prioritise the brightest matte panel you can afford and still expect to seek shade; check the nits figure in each model's spec. For indoor desks, hotel rooms, and shaded spots, all five are fine, and paying for extra brightness you won't use is wasted money."
+    },
+    {
+      "q": "How do I stand or mount a portable monitor at a comfortable height?",
+      "a": "It varies a lot by model, and it matters more than people expect since a screen sitting flat on the desk forces you to look down. The Lepow C2S and ASUS ZenScreen use a magnetic smart cover that folds into a stand at a few fixed angles — convenient but limited in range. The ViewSonic TD1655 and UPERFECT UPlays X Pro have built-in folding kickstands, so there's nothing separate to unfold. The espresso relies on its excellent but separately-purchased magnetic stand. For an eye-level setup, look for a tripod or VESA mount: the ASUS includes a rear tripod thread. If ergonomics matter, favour a built-in adjustable stand or a model with a tripod mount over a cover that only props to preset angles."
+    },
+    {
+      "q": "Who should NOT buy a portable monitor, and what are the alternatives?",
+      "a": "Skip it if the screen mostly lives in one place — a fixed desk is better served by a cheaper, larger 24–27-inch standing monitor that's brighter, higher-resolution, and easier on your neck. Skip it too if your laptop's USB-C port is data-only and it has no HDMI-out, since you'll fight cables and power for every session. Photo and video editors who pixel-peep will find 1080p at 15.6 inches limiting and should look at pricier 4K portables or a proper desktop display. And if you only ever need to mirror to show someone something occasionally, a tablet you already own may cover it. Buy a portable monitor specifically when you regularly work in changing locations — travel, hotels, cafés — and want a real second screen that fits in a bag."
     }
   ],
   "offerNotes": {
