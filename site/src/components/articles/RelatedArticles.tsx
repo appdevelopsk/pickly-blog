@@ -1,37 +1,10 @@
-import fs from "fs";
-import path from "path";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/lib/i18n/navigation";
 import { getRelatedArticles } from "@/lib/articles/registry";
 import { loadArticleCardMeta } from "@/lib/i18n/loader";
-import { CATALOG } from "@/lib/affiliates/catalog";
-import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
-import type { ArticleMeta } from "@/lib/articles/types";
-
-function getThumbnail(article: ArticleMeta, locale: string): string | null {
-  // 1. Catalog product imageUrl
-  for (const offerId of article.offerIds) {
-    const offer = CATALOG.find((o) => o.id === offerId);
-    if (!offer) continue;
-    const img = getOfferImageUrl(offer);
-    if (img) return img;
-  }
-
-  // 2. Article ogImage field (if set and not "auto")
-  if (article.ogImage && article.ogImage !== "auto") {
-    return `${article.ogImage}-${locale}.png`;
-  }
-
-  // 3. Check if /og/<slug>-<locale>.png exists on disk
-  const ogFile = path.join(process.cwd(), "public", "og", `${article.slug}-${locale}.png`);
-  if (fs.existsSync(ogFile)) {
-    return `/og/${article.slug}-${locale}.png`;
-  }
-
-  return null;
-}
+import { getThumbnail } from "./related-data";
 
 interface Props {
   slug: string;

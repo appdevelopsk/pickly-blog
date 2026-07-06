@@ -1,6 +1,7 @@
 import { useLocale, useTranslations } from "next-intl";
 import type { ArticleContent, ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
+import type { RelatedCard } from "./related-data";
 import { AffiliateLink } from "@/components/AffiliateLink";
 import { Link } from "@/lib/i18n/navigation";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
@@ -41,9 +42,10 @@ interface Props {
   meta: ArticleMeta;
   content: ArticleContent;
   offers: AffiliateOffer[];
+  related?: RelatedCard[];
 }
 
-export function ArticleBody({ meta, content, offers }: Props) {
+export function ArticleBody({ meta, content, offers, related = [] }: Props) {
   const t = useTranslations();
   const locale = useLocale();
   const isComparison = meta.type === "comparison";
@@ -239,6 +241,52 @@ export function ArticleBody({ meta, content, offers }: Props) {
                   </li>
                 ))}
               </ol>
+            </div>
+          )}
+
+          {/* 本文中「次に読む」導線 — 浅いスクロール/AI検索着地層でも届く位置(比較表直後)に
+              文脈連動の関連ガイドを差し込み、行き止まり(PV/session≈1.0)を回遊へ変える。
+              主要CTA(#1ヒーロー/比較表)より下・深掘りセクションより上。 */}
+          {related.length > 0 && (
+            <div className="mb-10 rounded-2xl border border-slate-200 bg-slate-50/70 p-5">
+              <p className="mb-3 flex items-center gap-1.5 text-xs font-bold uppercase tracking-widest text-slate-500">
+                <span aria-hidden>📚</span> {t("article.related")}
+              </p>
+              <div className="-mx-1 flex gap-3 overflow-x-auto px-1 pb-1 sm:grid sm:grid-cols-3 sm:overflow-visible">
+                {related.slice(0, 3).map((r) => (
+                  <Link
+                    key={r.slug}
+                    href={`/articles/${r.slug}`}
+                    className="group flex w-44 shrink-0 flex-col overflow-hidden rounded-xl border border-slate-200 bg-white transition-all hover:border-brand-300 hover:shadow-md sm:w-auto"
+                  >
+                    <div className="relative aspect-[4/3] overflow-hidden bg-slate-50">
+                      {r.thumb ? (
+                        // eslint-disable-next-line @next/next/no-img-element
+                        <img
+                          src={r.thumb}
+                          alt={r.title}
+                          loading="lazy"
+                          className="h-full w-full object-contain p-2 transition-transform duration-300 group-hover:scale-105"
+                        />
+                      ) : (
+                        <div className="flex h-full w-full items-center justify-center bg-gradient-to-br from-brand-50 to-slate-100 text-center text-[11px] font-bold text-slate-400">
+                          {getCategoryLabel(t, r.category)}
+                        </div>
+                      )}
+                    </div>
+                    <div className="flex flex-1 flex-col gap-1 p-3">
+                      <p className="line-clamp-2 text-xs font-bold leading-snug text-slate-900 transition-colors group-hover:text-brand-600">
+                        {r.title}
+                      </p>
+                      {r.count > 1 && (
+                        <span className="mt-auto inline-flex w-fit items-center gap-1 rounded-full bg-brand-50 px-2 py-0.5 text-[10px] font-bold text-brand-600">
+                          {getCategoryLabel(t, r.category)} · {r.count}
+                        </span>
+                      )}
+                    </div>
+                  </Link>
+                ))}
+              </div>
             </div>
           )}
 

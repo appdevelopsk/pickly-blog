@@ -8,6 +8,8 @@ import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { ArticleBody } from "@/components/articles/ArticleBody";
 import { ArticleCrossLinks } from "@/components/articles/ArticleCrossLinks";
+import { RelatedArticles } from "@/components/articles/RelatedArticles";
+import { getRelatedCards } from "@/components/articles/related-data";
 import { SisterSiteCta } from "@/components/SisterSiteCta";
 import { AffiliateClickTracker } from "@/components/AffiliateClickTracker";
 import { ScrollProgress } from "@/components/ScrollProgress";
@@ -237,6 +239,9 @@ export default async function ArticlePage({ params }: Props) {
     ],
   };
 
+  // 回遊導線用の関連ガイド（本文中インライン=上位3件 / 末尾グリッド=全件）を1回だけ解決。
+  const relatedCards = getRelatedCards(slug, meta.category, locale, 4);
+
   return (
     <>
       <ScrollProgress />
@@ -249,10 +254,11 @@ export default async function ArticlePage({ params }: Props) {
       {itemListSchema && (
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
       )}
-      <ArticleBody meta={meta} content={content} offers={offers} />
+      <ArticleBody meta={meta} content={content} offers={offers} related={relatedCards} />
       <div className="mx-auto max-w-3xl px-4 sm:px-6">
         {meta.category === "finance" && <SisterSiteCta />}
         <ArticleCrossLinks slug={slug} category={meta.category} />
+        <RelatedArticles slug={slug} category={meta.category} locale={locale} />
       </div>
       <AffiliateClickTracker slug={slug} />
     </>
