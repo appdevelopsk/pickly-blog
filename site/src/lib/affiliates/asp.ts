@@ -58,12 +58,13 @@ const AMAZON_HOSTS: Partial<Record<AspNetwork, string>> = {
 // アフィリタグは全アウトバウンドリンクに露出する公開値なのでソースに持って良い(RakutenのaffiliateIdと同方式)。
 // AffiliateLinkはclient componentのため process.env(非NEXT_PUBLIC)はクライアントでundefined→
 // ここにデフォルトを置くことで server(SSG)/client 双方で確実にタグが付く。env で上書き可。
-// ※ IT/ES(pickly06-21 / pickly07-21)はどちらがどのマーケットか未確定のため保留(誤タグは計上されないため)。
 const AMAZON_TAG_DEFAULTS: Partial<Record<AspNetwork, string>> = {
   "amazon-us": "pickly091-20",
   "amazon-uk": "pickly0fd-21",
   "amazon-de": "pickly01-21",
   "amazon-fr": "picklyfr21-21",
+  "amazon-it": "pickly06-21",  // ユーザー確認済(2026-07-07): 06=イタリア
+  "amazon-es": "pickly07-21",  // 消去法(対象ユーロ市場はDE/FR/IT/ESのみ・06=ITなので07=ES)
   "amazon-jp": "pickly-22",
 };
 
