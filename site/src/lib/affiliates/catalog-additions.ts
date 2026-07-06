@@ -2350,7 +2350,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cooling-pillow-purple-cloud",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.trendhunterstatic.com/thumbs/454/purple-twincloud-pillow.jpeg",
     "priceMin": "129",
     "priceMax": "159",
     "category": "home",
@@ -2766,7 +2766,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "desk-pad-grovemade-leather",
-    "imageUrl": "https://thegadgetflow.com/wp-content/uploads/2021/03/Grovemade-Leather-Desk-Pad-Protector-prevents-your-mouse-and-keyboard-from-sliding-04-1200x900.jpg",
+    "imageUrl": "",
     "priceMin": "18000",
     "priceMax": "25000",
     "category": "tech",
@@ -5028,7 +5028,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "grow-light-ts-telos-0010",
-    "imageUrl": "https://www.growpackage.com/cdn/shop/products/Telos-0010-slide_600x.png?v=1581065314",
+    "imageUrl": "https://m.media-amazon.com/images/I/51brKUWuZAL._AC_SX679_.jpg",
     "priceMin": "249",
     "priceMax": "329",
     "category": "home",
@@ -5392,7 +5392,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hot-choc-cacao-barry-plein-arome",
-    "imageUrl": "https://essentials.my/wp-content/uploads/2023/11/callebaut-new-packaging-plein-arome-cocoa-powder.jpg",
+    "imageUrl": "",
     "priceMin": "12.99",
     "priceMax": "19.99",
     "category": "food",
@@ -5470,7 +5470,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-hada-labo-gokujun",
-    "imageUrl": "https://rohto.co.id/assets/uploads/product/20240212102147.png",
+    "imageUrl": "",
     "priceMin": "¥660",
     "priceMax": "¥660",
     "category": "beauty",
@@ -6825,7 +6825,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "magnesium-klean-athlete-glycinate",
-    "imageUrl": "https://vitabase.com/wp-content/uploads/2024/10/c54348a0-ada1-4533-8c81-1fd0ce0d2f18.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/71MlrfSyBHL._AC_.jpg",
     "priceMin": "32",
     "priceMax": "55",
     "category": "food",
@@ -8255,7 +8255,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "packing-cubes-osprey-ultralight",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81TNY7qB9tL._AC_SL1500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61IqwYx5tfL._AC_SL1500_.jpg",
     "priceMin": "45",
     "priceMax": "55",
     "category": "travel",
@@ -9035,7 +9035,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "portable-fan-honeywell-htf090",
-    "imageUrl": "https://inzoshop.com/wp-content/uploads/pics01/1032267_4.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71V4+0xMSiL.jpg",
     "priceMin": "30",
     "priceMax": "55",
     "category": "home",
@@ -20060,7 +20060,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "rimowa-essential-cabin",
-    "imageUrl": "",
+    "imageUrl": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd3f81b30/images/large/83253691_1.png",
     "priceMin": "$925",
     "priceMax": "$1,125",
     "category": "travel",
@@ -20970,7 +20970,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "the-north-face-1996-nuptse",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81D6tH6m56L._AC_UL1500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81D6tH6m56L._AC_UL1500_.jpg",
     "priceMin": "$310",
     "priceMax": "$380",
     "category": "fashion",
@@ -26482,7 +26482,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "identityforce-credit-monitoring",
-    "imageUrl": "",
+    "imageUrl": "https://shawnmanaher.com/wp-content/uploads/2022/11/Identity-Force-2.png",
     "priceMin": "$34.99/mo",
     "priceMax": "$34.99/mo",
     "category": "finance",
@@ -30252,7 +30252,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "travelex-travel-select",
-    "imageUrl": "https://www.digitalnomadreport.com/wp-content/uploads/2024/11/Travelex-Travel-Select-1-2048x993.jpg",
+    "imageUrl": "",
     "priceMin": "$60",
     "priceMax": "$300",
     "category": "finance",
@@ -30694,7 +30694,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "greenworks-pro-80v-blower",
-    "imageUrl": "https://inzoshop.com/wp-content/uploads/pics01/1073443_1.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71sile9h5cL.jpg",
     "priceMin": "$200",
     "priceMax": "$300",
     "category": "home",
@@ -31760,7 +31760,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "netspend-all-access-prepaid",
-    "imageUrl": "https://i.ytimg.com/vi/xi4CLP2nIKU/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/s97INDNgt6s/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "$5/mo",
     "category": "finance",
@@ -32176,7 +32176,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "capital-one-360-cd",
-    "imageUrl": "https://i.ytimg.com/vi/gFZEEMQYSws/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/MEgzhoFlQAM/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -33398,7 +33398,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "go-pet-club-46-grooming-table",
-    "imageUrl": "https://www.putproductreviews.com/wp-content/uploads/2019/12/1.-Go-Pet-Club-Dog-Grooming-Table-1-1140x1086.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/410BdVWKllL._SL500_.jpg",
     "priceMin": "$80",
     "priceMax": "$120",
     "category": "pets",
@@ -34568,7 +34568,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "monster-mini-powercenter-travel",
-    "imageUrl": "https://pixy.org/src/551/5510918.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61OMTAJne5L._AC_SX679_.jpg",
     "priceMin": "$22",
     "priceMax": "$30",
     "category": "travel",
@@ -35348,7 +35348,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ryobi-40v-21inch-snow-blower",
-    "imageUrl": "https://secondipity.com/cdn/shop/files/Open-Box-RYOBI-40V-HP-21-inch-Brushless-Cordless-Battery-Snow-Blower-Kit-with-_2_-7.5-Ah-Batteries-and-Charger-RYOBI-267223217.jpg?v=1740786996",
+    "imageUrl": "",
     "priceMin": "$500",
     "priceMax": "$700",
     "category": "home",
@@ -35426,7 +35426,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hiscox-small-business",
-    "imageUrl": "",
+    "imageUrl": "https://i0.wp.com/www.officialtop5review.com/wp-content/uploads/2020/03/Hiscox-Small-Business-Insurance-Review-Featured-Image.jpg",
     "priceMin": "$35",
     "priceMax": "$250",
     "category": "finance",
@@ -35608,7 +35608,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "humana-dental-loyalty-plus",
-    "imageUrl": "https://greatsenioryears.com/wp-content/uploads/2024/02/senior-dental-insurance-plans-1.jpg",
+    "imageUrl": "https://files.constantcontact.com/2163b36e001/655e51de-bfdc-41b0-8aef-e5430339366e.png",
     "priceMin": "$30",
     "priceMax": "$80",
     "category": "finance",
@@ -36700,7 +36700,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vsp-individual-vision",
-    "imageUrl": "https://cahip-norcal.org/wp-content/uploads/2024/08/129635-24-VC-VSPIndividualVisionPlans-EmailHeader.jpg",
+    "imageUrl": "",
     "priceMin": "$13",
     "priceMax": "$40",
     "category": "finance",
@@ -43464,7 +43464,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "creed-aventus",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/61AXYevlGzL._SL1000_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/61AXYevlGzL._SL1000_.jpg",
     category: "beauty",
     name: { en: "Creed Aventus" },
     description: { en: "Creed Aventus is the iconic splurge and the benchmark 'luxury masculine' scent for many." },
@@ -43981,7 +43981,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frisco-cooling-mat",
-    imageUrl: "",
+    imageUrl: "https://www.dogster.com/wp-content/uploads/2022/02/Frisco-Cooling-Orthopedic-Dog-Crate-Mat-2024.png",
     category: "pets",
     name: { en: "Frisco Cooling Mat" },
     description: { en: "The Frisco Cooling Mat is the value retailer-brand pick — Frisco (Chewy's house brand) offers affordable, no-nonsense pressure-activated gel cooling mats that do the core self-coo…" },
@@ -43992,7 +43992,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "pendleton-board-shirt",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/A1zv4vjXSdL._AC_UL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/91HZpvVUDEL._AC_UL1500_.jpg",
     category: "fashion",
     name: { en: "Pendleton Board Shirt" },
     description: { en: "The Pendleton Board Shirt is the heritage, warmest pick — a genuine wool flannel that's the warmest, most premium, and most distinctive option here." },
@@ -44641,7 +44641,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frisco-slow-feeder-bowl",
-    imageUrl: "",
+    imageUrl: "https://www.dogster.com/wp-content/uploads/2022/03/Frisco-Bone-Shaped-Ridges-Slow-Feeder.png",
     category: "pets",
     name: { en: "Frisco Slow Feeder Bowl" },
     description: { en: "The Frisco Slow Feeder Bowl is the house-brand value pick — Chewy's Frisco offers affordable, dependable slow-feeder maze bowls that do the core job at a budget-friendly price, in…" },
