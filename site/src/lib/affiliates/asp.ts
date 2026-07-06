@@ -54,6 +54,19 @@ const AMAZON_HOSTS: Partial<Record<AspNetwork, string>> = {
   "amazon-ca": "amazon.ca",
 };
 
+// Amazonアソシエイト 公開トラッキングID(=StoreID)のデフォルト。
+// アフィリタグは全アウトバウンドリンクに露出する公開値なのでソースに持って良い(RakutenのaffiliateIdと同方式)。
+// AffiliateLinkはclient componentのため process.env(非NEXT_PUBLIC)はクライアントでundefined→
+// ここにデフォルトを置くことで server(SSG)/client 双方で確実にタグが付く。env で上書き可。
+// ※ IT/ES(pickly06-21 / pickly07-21)はどちらがどのマーケットか未確定のため保留(誤タグは計上されないため)。
+const AMAZON_TAG_DEFAULTS: Partial<Record<AspNetwork, string>> = {
+  "amazon-us": "pickly091-20",
+  "amazon-uk": "pickly0fd-21",
+  "amazon-de": "pickly01-21",
+  "amazon-fr": "picklyfr21-21",
+  "amazon-jp": "pickly-22",
+};
+
 // EU amazon-de リンクを訪問者のロケールに応じて各国 Amazon にリマップ
 const EU_REMAP: Partial<Record<Market, AspNetwork>> = {
   "FR": "amazon-fr",
@@ -71,14 +84,19 @@ export function buildAffiliateUrl({ link, productName, market, env = defaultEnv 
   const amazonHost = AMAZON_HOSTS[effectiveNetwork];
 
   if (tagEnvKey && amazonHost) {
-    const tag = env(tagEnvKey);
+    const tag = env(tagEnvKey) ?? AMAZON_TAG_DEFAULTS[effectiveNetwork];
+    const q = encodeURIComponent(productName ?? effectiveLink.productId);
     if (tag) {
-      // タグあり → ASINリンクにタグを注入
-      const base = effectiveLink.rawUrl ?? `https://www.${amazonHost}/dp/${effectiveLink.productId}`;
+      // タグあり → 成果計上できるURLにタグを注入。
+      // ①rawUrl(dp/検索どちらでも)があれば最優先 ②productIdが実ASIN(英数10桁)なら/dpリンク
+      // ③それ以外(productIdが商品名)は /dp/名前=404 になるためタグ付き検索URLにフォールバック
+      let base;
+      if (effectiveLink.rawUrl) base = effectiveLink.rawUrl;
+      else if (/^[A-Z0-9]{10}$/.test(effectiveLink.productId)) base = `https://www.${amazonHost}/dp/${effectiveLink.productId}`;
+      else base = `https://www.${amazonHost}/s?k=${q}`;
       return injectAmazonTag(base, tag);
     }
     // タグなし → ASIN URLは404リスクがあるため商品名検索にフォールバック
-    const q = encodeURIComponent(productName ?? effectiveLink.productId);
     return `https://www.${amazonHost}/s?k=${q}`;
   }
 
