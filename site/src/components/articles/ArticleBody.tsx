@@ -116,6 +116,11 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
             const name = o.name[locale as keyof typeof o.name] ?? o.name.en ?? o.id;
             const img = getOfferImageUrl(o);
             const price = resolvePrice(o, locale);
+            // 「なぜベストか」の結論(既存reviewの冒頭1-2文)。AIが最も引用しやすい抽出可能な要約。
+            const topProduct = content.products?.find((p) => p.offerId === o.id);
+            const verdict = topProduct?.review
+              ? topProduct.review.split(/(?<=[.!?。！？])\s+/).slice(0, 2).join(" ").trim()
+              : null;
             return (
               <div className="mb-8 rounded-2xl border border-amber-300 bg-gradient-to-br from-amber-50 via-white to-white p-5 shadow-md shadow-amber-100 sm:p-6">
                 <div className="mb-3">
@@ -138,6 +143,12 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
                     </div>
                   </div>
                 </div>
+                {verdict && (
+                  <p className="mt-3 border-t border-amber-200/60 pt-3 text-sm leading-relaxed text-slate-700">
+                    {topProduct?.badge && <span className="font-bold text-amber-700">{topProduct.badge}: </span>}
+                    {verdict}
+                  </p>
+                )}
                 <div className="mt-4">
                   <AffiliateLink offer={o} variant="button" />
                 </div>
