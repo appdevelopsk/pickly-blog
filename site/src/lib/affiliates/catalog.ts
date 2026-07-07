@@ -60,7 +60,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "111カ国に6,400台以上のサーバー。Threat Protectionで広告とトラッカーをブロック。Meshnetは無料開放。",
     },
     links: [
-      { network: "direct", productId: "https://nordvpn.com/", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "awin", rawUrl: "https://www.awin1.com/cread.php?awinmid=15132&awinaffid=2887303&ued=https%3A%2F%2Fnordvpn.com%2F", markets: ["US", "CA"], approved: true },
+      { network: "direct", productId: "https://nordvpn.com/", markets: ["EU", "UK", "global"], approved: true },
       { network: "impact", productId: "nordvpn-2026", markets: ["US", "EU", "UK", "global"], approved: false },
       { network: "a8", productId: "nordvpn-jp-2026", rawUrl: "https://px.a8.net/svt/ejp?a8mat=4B3OQX+CY6FG2+3YFI+61Z81", markets: ["JP"], approved: true },
     ],
@@ -95,7 +96,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "1アカウントで端末数無制限。CleanWebでマルウェア対策。月$3.99の高コスパ。",
     },
     links: [
-      { network: "direct", productId: "https://surfshark.com/", markets: ["US", "EU", "UK", "global"], approved: true },
+      { network: "awin", rawUrl: "https://www.awin1.com/cread.php?awinmid=21749&awinaffid=2887303&ued=https%3A%2F%2Fsurfshark.com%2F", markets: ["EU"], approved: true },
+      { network: "direct", productId: "https://surfshark.com/", markets: ["US", "UK", "global"], approved: true },
       { network: "cj", productId: "surfshark-2026", markets: ["US", "EU", "UK", "global"], approved: false },
       { network: "a8", productId: "surfshark-jp", rawUrl: "https://px.a8.net/svt/ejp?a8mat=4B3OQX+C210S2+4LSW+BYLJL", markets: ["JP"], approved: true },
     ],
