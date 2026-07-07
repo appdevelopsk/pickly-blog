@@ -24911,6 +24911,14 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
+        "network": "awin",
+        "rawUrl": "https://www.awin1.com/cread.php?awinmid=89935&awinaffid=2887303&ued=https%3A%2F%2Fwww.cloudways.com%2F",
+        "markets": [
+          "US", "EU", "UK", "global"
+        ],
+        "approved": true
+      },
+      {
         "network": "direct",
         "productId": "https://www.cloudways.com/",
         "markets": [
@@ -37598,6 +37606,14 @@ export const CATALOG_ADDITIONS = [
       "ja": "ワイヤレスCarPlay＋Android Auto＋4Gホットスポット経由のNetflix／YouTubeストリーミング内蔵。プレミアム$300-400。"
     },
     "links": [
+      {
+        "network": "awin",
+        "rawUrl": "https://www.awin1.com/cread.php?awinmid=96499&awinaffid=2887303&ued=https%3A%2F%2Fwww.ottocast.com%2F",
+        "markets": [
+          "US", "EU", "UK", "global"
+        ],
+        "approved": true
+      },
       {
         "network": "direct",
         "productId": "https://www.ottocast.com/",
