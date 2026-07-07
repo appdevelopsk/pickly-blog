@@ -46,7 +46,7 @@ export async function searchReviewVideos(
     videoEmbeddable: "true", // 埋め込み可能な動画だけ
     order: "relevance",
     key: opts.key ?? apiKey(),
-    ...(locale === "ja" ? { relevanceLanguage: "ja", regionCode: "JP" } : {}),
+    ...(locale === "ja" ? { relevanceLanguage: "ja", regionCode: "JP" } : { relevanceLanguage: "en" }),
   });
   const res = await fetch(`${SEARCH}?${params.toString()}`);
   // クォータ超過は 403 または 429 で返る（どちらも graceful 停止）。

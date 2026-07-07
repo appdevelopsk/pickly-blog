@@ -124,7 +124,8 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       </span>
     ) : null;
   // JPで該当商品のレビュー動画がキャッシュ済みなら埋め込み(facade)。無ければ検索リンク。
-  const reviewVideo = market === "JP" ? getReviewVideo(offer.id) : null;
+  // 動画=最大の滞留レバー。JP=日本語動画 / 非JP=英語動画(youtube-cache-en)。
+  const reviewVideo = getReviewVideo(offer.id, market === "JP" ? "ja" : "en");
   const youtubeLink = !reviewVideo ? (
     <a
       href={youtubeReviewSearchUrl(offer.name.en ?? name, locale)}

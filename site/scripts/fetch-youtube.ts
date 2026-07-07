@@ -20,7 +20,8 @@ import { CATALOG } from "../src/lib/affiliates/catalog";
 import { searchReviewVideos } from "../src/lib/youtube/client";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
-const CACHE_PATH = resolve(HERE, "../src/lib/affiliates/youtube-cache.json");
+const CACHE_PATH_JA = resolve(HERE, "../src/lib/affiliates/youtube-cache.json");
+const CACHE_PATH_EN = resolve(HERE, "../src/lib/affiliates/youtube-cache-en.json");
 const RK_PATH = resolve(HERE, "../src/lib/affiliates/rakuten-cache.json");
 
 type Entry = { videoId: string | null; title?: string; channel?: string; fetchedAt: string };
@@ -29,6 +30,12 @@ type Cache = Record<string, Entry>;
 const args = process.argv.slice(2);
 const limit = numFlag("--limit") ?? 90;
 const category = strFlag("--category");
+// --lang en: 英語圏向け動画を別キャッシュ(youtube-cache-en.json)に取得。
+// 既存jaキャッシュは日本語動画中心のため、非JP market にはEN動画を出し分ける(AffiliateLink)。
+const lang = (strFlag("--lang") ?? "ja") as "ja" | "en";
+const CACHE_PATH = lang === "en" ? CACHE_PATH_EN : CACHE_PATH_JA;
+// --ids-file <path>: 改行区切りofferIdの優先リスト(上位流入記事の商品から取得する用)
+const idsFile = strFlag("--ids-file");
 const onlyMatched = process.env.ONLY_MATCHED === "1";
 const today = new Date().toISOString().slice(0, 10);
 
@@ -68,6 +75,13 @@ async function main() {
   if (category) offers = offers.filter((o) => o.category === category);
   // 楽天マッチ済(実在確度が高い)商品を優先すると無駄打ちが減る
   if (onlyMatched) offers = offers.filter((o) => rk[o.id]?.itemUrl);
+  if (lang === "en") offers = offers.filter((o) => o.name.en); // EN検索はen名必須
+  if (idsFile && existsSync(idsFile)) {
+    // ids-file の記載順を優先順位として尊重する(filterだとCATALOG順に戻ってしまう)
+    const pri = readFileSync(idsFile, "utf-8").split(/\r?\n/).filter(Boolean);
+    const rank = new Map(pri.map((id, i) => [id, i]));
+    offers = [...offers].sort((x, y) => (rank.get(x.id) ?? 1e9) - (rank.get(y.id) ?? 1e9));
+  }
 
   const todo = offers.filter((o) => !cache[o.id]).slice(0, limit);
   console.log(`対象 ${todo.length} 件（キャッシュ済${Object.keys(cache).length}）`);
@@ -75,9 +89,9 @@ async function main() {
   let done = 0;
   let hit = 0;
   for (const offer of todo) {
-    const query = offer.name.ja ?? offer.name.en ?? offer.id;
+    const query = lang === "en" ? (offer.name.en as string) : (offer.name.ja ?? offer.name.en ?? offer.id);
     const tks = tokens(offer.name.en, offer.name.ja);
-    const result = await searchReviewVideos(query, { locale: "ja", max: 5 });
+    const result = await searchReviewVideos(query, { locale: lang, max: 5 });
     if ("quotaExceeded" in result) {
       console.log(`! クォータ超過で停止（${done}件処理済・翌日/枠拡大後に再実行で続き）`);
       break;
@@ -85,6 +99,8 @@ async function main() {
     // 関連性ガード: 動画タイトルに商品トークンが含まれる最初の動画を採用
     const match = result.find((v) => {
       const tn = norm(v.title);
+      // EN動画では日本語タイトルを除外(EN読者に日本語レビューを出さない)
+      if (lang === "en" && /[぀-ヿ一-鿿]/.test(v.title)) return false;
       return tks.some((t) => t.length >= 3 && tn.includes(t));
     });
     cache[offer.id] = match
