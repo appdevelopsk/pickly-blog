@@ -1,0 +1,54 @@
+{
+ "src/app/[locale]/author/page.tsx": [
+  "Affiliate disclosure",
+  "Editorial team",
+  "How we work",
+  "What we cover",
+  "[aria-label] breadcrumb"
+ ],
+ "src/app/[locale]/category/[category]/page.tsx": [
+  "[aria-label] breadcrumb",
+  "[aria-label] categories"
+ ],
+ "src/app/[locale]/gifts/[occasion]/page.tsx": [
+  "[aria-label] Other occasions"
+ ],
+ "src/app/[locale]/new/page.tsx": [
+  "= monthAgo && new Date(a.publishedAt)",
+  "new Date(a.publishedAt)"
+ ],
+ "src/app/[locale]/popular/page.tsx": [
+  "[aria-label] breadcrumb"
+ ],
+ "src/app/[locale]/ranking/page.tsx": [
+  "[aria-label] breadcrumb"
+ ],
+ "src/app/[locale]/search/page.tsx": [
+  "[aria-label] breadcrumb"
+ ],
+ "src/app/not-found.tsx": [
+  "Page not found"
+ ],
+ "src/components/AffiliateLink.tsx": [
+  "priceMin && priceMax"
+ ],
+ "src/components/BackToTop.tsx": [
+  "[aria-label] Back to top"
+ ],
+ "src/components/LocaleSwitcher.tsx": [
+  "[aria-label] Change language"
+ ],
+ "src/components/articles/ArticleBody.tsx": [
+  "o.rating) &&",
+  "o2.rating) && (",
+  "resolvePrice(o, locale)) &&",
+  "resolvePrice(o, locale))) && (",
+  "resolvePrice(o2, locale)) && ("
+ ],
+ "src/components/layout/SiteFooter.tsx": [
+  "&nbsp;"
+ ],
+ "src/components/layout/SiteHeader.tsx": [
+  "[aria-label] menu"
+ ]
+}

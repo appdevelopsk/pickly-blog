@@ -124,7 +124,7 @@ export default async function Best2026Page({ params }: Props) {
         <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">
           <Link href="/" className="hover:text-slate-600 transition-colors">{siteName}</Link>
           <span>/</span>
-          <span className="text-slate-600 font-medium">Best of 2026</span>
+          <span className="text-slate-600 font-medium">{tt("home.bestofTitle", "Best of 2026")}</span>
         </nav>
 
         <section className="py-10 md:py-14">

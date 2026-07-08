@@ -108,7 +108,7 @@ export default async function ComparePage({ params }: Props) {
           ].map(({ art, meta, offer, img, label }) => {
             if (!art || !meta) return (
               <div key={label} className="flex items-center justify-center rounded-2xl border-2 border-dashed border-slate-200 bg-slate-50 p-10 text-center">
-                <p className="text-sm text-slate-400">Not available in this language yet.</p>
+                <p className="text-sm text-slate-400">{tt("pages.notInLanguage", "Not available in this language yet.")}</p>
               </div>
             );
             const isProductImg = img && !img.includes("/og/");
@@ -144,7 +144,7 @@ export default async function ComparePage({ params }: Props) {
 
         {/* Quick verdict */}
         <div className="mb-12 rounded-2xl border border-indigo-100 bg-indigo-50 p-6 md:p-8">
-          <h2 className="mb-4 text-lg font-black text-slate-900">How to decide</h2>
+          <h2 className="mb-4 text-lg font-black text-slate-900">{tt("pages.howToDecide", "How to decide")}</h2>
           <div className="grid gap-4 md:grid-cols-2">
             {artA && metaA && (
               <div className="rounded-xl border border-indigo-200 bg-white p-4">
@@ -173,7 +173,7 @@ export default async function ComparePage({ params }: Props) {
 
         {/* Other comparisons */}
         <section>
-          <h2 className="mb-4 text-lg font-black text-slate-900">More comparisons</h2>
+          <h2 className="mb-4 text-lg font-black text-slate-900">{tt("pages.moreComparisons", "More comparisons")}</h2>
           <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
             {COMPARISONS.filter((c) => c.slug !== pair).slice(0, 6).map((c) => (
               <Link key={c.slug} href={`/compare/${c.slug}`}

@@ -98,7 +98,7 @@ export function SearchUI({ items, totalCount }: Props) {
         <div className="rounded-2xl border border-slate-200 bg-slate-50 p-12 text-center">
           <p className="text-2xl mb-3">🔍</p>
           <p className="font-semibold text-slate-700">Nothing found for "{query}"</p>
-          <p className="mt-1 text-sm text-slate-400">Try a broader term, like "coffee" or "fitness".</p>
+          <p className="mt-1 text-sm text-slate-400">{tt("pages.searchHint", "Try a broader term, like \u201ccoffee\u201d or \u201cfitness\u201d.")}</p>
         </div>
       ) : (
         <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
