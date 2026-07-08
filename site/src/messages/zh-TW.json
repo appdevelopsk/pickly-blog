@@ -14,7 +14,34 @@
   "home": {
     "heading": "真實評測,絕無灌水。",
     "subheading": "由真人挑選、為讀者撰寫的比較與選購指南。",
-    "empty": "文章準備中,敬請期待。"
+    "empty": "文章準備中,敬請期待。",
+    "featured": "精選",
+    "typeComparison": "比較",
+    "typeReview": "評測",
+    "typeGuide": "指南",
+    "picks": "{count} 款精選",
+    "readReview": "閱讀評測 →",
+    "read": "閱讀 →",
+    "heroStats": "{count} 篇評測 · {languages} 種語言",
+    "moreWays": "更多瀏覽方式",
+    "purposeTitle": "依用途瀏覽",
+    "purposeDesc": "送禮 · 健身 · 保養 · 居家辦公 · 烹飪 · 睡眠等",
+    "compareTitle": "產品比較",
+    "compareMore": "{list} 及另外 {count} 項",
+    "giftsTitle": "禮物指南",
+    "giftsDesc": "生日、紀念日、節日等各種場合",
+    "tagsTitle": "依標籤瀏覽",
+    "tagsMore": "{list} 等",
+    "budgetTitle": "$100 以下精選",
+    "budgetDesc": "小預算高價值 — 另有 $50、$200、$500 以下精選",
+    "bestofTitle": "2026 年度精選",
+    "bestofDesc": "依類別整理的年度最佳推薦",
+    "popularTitle": "最受歡迎",
+    "popularDesc": "讀者一再回訪的熱門評測",
+    "statReviews": "嚴選評測",
+    "statLanguages": "支援語言",
+    "statAsps": "監測的聯盟平台",
+    "siteDesc": "涵蓋 17 種語言的嚴選評測與比較。"
   },
   "category": {
     "tech": "3C",
@@ -224,5 +251,19 @@
     "success": "感謝訂閱！",
     "error": "訂閱失敗，請稍後再試。",
     "privacy": "我們尊重您的隱私，可隨時取消訂閱。"
+  },
+  "discover": {
+    "categories": "分類",
+    "heading": "探索",
+    "rankings": "排行榜",
+    "newReviews": "最新評測",
+    "bestOf": "2026 年度精選",
+    "gifts": "禮物指南",
+    "compare": "比較",
+    "tags": "標籤",
+    "under50": "$50 以下",
+    "under100": "$100 以下",
+    "brands": "品牌",
+    "search": "搜尋"
   }
 }

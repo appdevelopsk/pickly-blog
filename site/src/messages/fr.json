@@ -14,7 +14,34 @@
   "home": {
     "heading": "Des avis vrais, sans remplissage.",
     "subheading": "Comparatifs et guides d'achat choisis par des humains, écrits pour des humains.",
-    "empty": "Les articles arrivent bientôt. Revenez nous voir."
+    "empty": "Les articles arrivent bientôt. Revenez nous voir.",
+    "featured": "À la une",
+    "typeComparison": "Comparatif",
+    "typeReview": "Test",
+    "typeGuide": "Guide",
+    "picks": "{count} sélections",
+    "readReview": "Lire le test →",
+    "read": "Lire →",
+    "heroStats": "{count} tests · {languages} langues",
+    "moreWays": "Plus de façons d'explorer",
+    "purposeTitle": "Parcourir par usage",
+    "purposeDesc": "Cadeaux · Sport · Soins de la peau · Télétravail · Cuisine · Sommeil et plus",
+    "compareTitle": "Comparatifs en face-à-face",
+    "compareMore": "{list} et {count} autres",
+    "giftsTitle": "Guides cadeaux",
+    "giftsDesc": "Pour toutes les occasions : anniversaire, fêtes et plus encore",
+    "tagsTitle": "Parcourir par tag",
+    "tagsMore": "{list} et plus",
+    "budgetTitle": "Le meilleur à moins de $100",
+    "budgetDesc": "Valeur maximale, dépense minimale — aussi : moins de $50, $200, $500",
+    "bestofTitle": "Le meilleur de 2026",
+    "bestofDesc": "Nos meilleures sélections de l'année, classées par catégorie",
+    "popularTitle": "Les plus populaires",
+    "popularDesc": "Les tests que les lecteurs consultent encore et encore",
+    "statReviews": "Tests sélectionnés",
+    "statLanguages": "Langues",
+    "statAsps": "Plateformes d'affiliation suivies",
+    "siteDesc": "Tests et comparatifs sélectionnés en 17 langues."
   },
   "category": {
     "tech": "Tech",
@@ -224,5 +251,19 @@
     "success": "Merci de votre inscription !",
     "error": "Inscription impossible. Réessayez plus tard.",
     "privacy": "Nous respectons votre vie privée. Désabonnement à tout moment."
+  },
+  "discover": {
+    "categories": "Catégories",
+    "heading": "Découvrir",
+    "rankings": "Classements",
+    "newReviews": "Nouveaux tests",
+    "bestOf": "Le meilleur de 2026",
+    "gifts": "Guides cadeaux",
+    "compare": "Comparer",
+    "tags": "Tags",
+    "under50": "Moins de $50",
+    "under100": "Moins de $100",
+    "brands": "Marques",
+    "search": "Rechercher"
   }
 }

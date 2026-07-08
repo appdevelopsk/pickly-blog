@@ -78,6 +78,15 @@ export default async function HomePage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
+  // ローカライズ済みUI文字列(キー欠落ロケールでも英語フォールバックで壊れない)
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const typeLabels: Record<string, string> = {
+    comparison: tt("home.typeComparison", "Comparison"),
+    review: tt("home.typeReview", "Review"),
+    guide: tt("home.typeGuide", "Guide"),
+  };
 
   const allArticles = listArticlesForLocale(locale);
   const articles = allArticles.filter((a) => hasApprovedAds(a, locale));
@@ -104,7 +113,7 @@ export default async function HomePage({ params }: Props) {
         "@id": `${SITE_URL}/#website`,
         name: "Pickly",
         url: SITE_URL,
-        description: "Curated reviews and comparisons across 17 languages.",
+        description: tt("home.siteDesc", "Curated reviews and comparisons across 17 languages."),
         publisher: { "@id": `${SITE_URL}/#organization` },
         potentialAction: {
           "@type": "SearchAction",
@@ -117,7 +126,7 @@ export default async function HomePage({ params }: Props) {
         "@id": `${SITE_URL}/#organization`,
         name: "Pickly",
         url: SITE_URL,
-        description: "Curated reviews and comparisons across 17 languages.",
+        description: tt("home.siteDesc", "Curated reviews and comparisons across 17 languages."),
         sameAs: ["https://www.pinterest.com/appdevelopsk/"],
       },
     ],
@@ -147,7 +156,7 @@ export default async function HomePage({ params }: Props) {
         <section className="py-14 text-center md:py-20">
           <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-slate-200 bg-white px-4 py-1.5 text-xs font-semibold text-slate-500 tracking-wide shadow-sm">
             <span className="inline-block h-1.5 w-1.5 animate-pulse rounded-full bg-emerald-500" />
-            {articles.length} reviews &nbsp;·&nbsp; 17 languages
+            {tt("home.heroStats", `${articles.length} reviews · 17 languages`, { count: articles.length, languages: 17 })}
           </div>
           <h1 className="mx-auto mb-4 max-w-2xl text-4xl font-black tracking-tight text-slate-900 [word-break:keep-all] md:text-5xl lg:text-6xl">
             {heading}
@@ -244,7 +253,7 @@ export default async function HomePage({ params }: Props) {
               const offer = getFirstOffer(featured);
               const badge = offer?.badge;
               const price = offer?.price;
-              const typeLabel = TYPE_LABELS[featured.type] ?? featured.type;
+              const typeLabel = typeLabels[featured.type] ?? featured.type;
               const picksCount = featured.offerIds.length;
               return (
                 <Link
@@ -280,9 +289,9 @@ export default async function HomePage({ params }: Props) {
                     {/* Type + picks meta */}
                     <div className="mb-3 flex items-center gap-2">
                       <span className="rounded-full bg-brand-50 border border-brand-200 px-2.5 py-0.5 text-[11px] font-bold text-brand-700 uppercase tracking-wide">
-                        Featured
+                        {tt("home.featured", "Featured")}
                       </span>
-                      <span className="text-xs text-slate-500">{typeLabel} · {picksCount} picks</span>
+                      <span className="text-xs text-slate-500">{typeLabel} · {tt("home.picks", `${picksCount} picks`, { count: picksCount })}</span>
                     </div>
                     {/* Editor badge */}
                     {badge && (
@@ -299,7 +308,7 @@ export default async function HomePage({ params }: Props) {
                       </p>
                     )}
                     <p className="mt-5 text-sm font-semibold text-brand-600 group-hover:underline">
-                      Read review →
+                      {tt("home.readReview", "Read review →")}
                     </p>
                   </div>
                 </Link>
@@ -317,7 +326,7 @@ export default async function HomePage({ params }: Props) {
                 const badge = offer?.badge;
                 const price = offer?.price;
                 const picksCount = a.offerIds.length;
-                const typeLabel = TYPE_LABELS[a.type] ?? a.type;
+                const typeLabel = typeLabels[a.type] ?? a.type;
                 const newArticle = isNew(a);
                 return (
                   <li key={a.slug}>
@@ -371,10 +380,10 @@ export default async function HomePage({ params }: Props) {
                         {/* Footer meta */}
                         <div className="mt-3 flex items-center justify-between">
                           <span className="text-[11px] text-slate-500">
-                            {typeLabel} · {picksCount} picks
+                            {typeLabel} · {tt("home.picks", `${picksCount} picks`, { count: picksCount })}
                           </span>
                           <span className="text-[11px] font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">
-                            Read →
+                            {tt("home.read", "Read →")}
                           </span>
                         </div>
                       </div>
@@ -400,23 +409,23 @@ export default async function HomePage({ params }: Props) {
 
         {/* ── Ways to browse ────────────────────────────── */}
         <section className="mt-16 border-t border-slate-100 pt-12">
-          <h2 className="mb-6 text-xl font-black text-slate-900">More ways to browse</h2>
+          <h2 className="mb-6 text-xl font-black text-slate-900">{tt("home.moreWays", "More ways to browse")}</h2>
           <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
             {/* By Purpose */}
             <Link href="/purpose" className="group flex items-start gap-4 rounded-2xl border border-brand-100 bg-brand-50 p-5 transition-all hover:border-brand-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>🎯</span>
               <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-brand-700 transition-colors">Browse by purpose</p>
-                <p className="text-xs text-slate-500 leading-relaxed">Gifting · Workout · Skincare · Home office · Cooking · Sleep and more</p>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-brand-700 transition-colors">{tt("home.purposeTitle", "Browse by purpose")}</p>
+                <p className="text-xs text-slate-500 leading-relaxed">{tt("home.purposeDesc", "Gifting · Workout · Skincare · Home office · Cooking · Sleep and more")}</p>
               </div>
             </Link>
             {/* Compare */}
             <Link href="/compare" className="group flex items-start gap-4 rounded-2xl border border-indigo-100 bg-indigo-50 p-5 transition-all hover:border-indigo-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>⚖️</span>
               <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-indigo-700 transition-colors">Head-to-head comparisons</p>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-indigo-700 transition-colors">{tt("home.compareTitle", "Head-to-head comparisons")}</p>
                 <p className="text-xs text-slate-500 leading-relaxed">
-                  {COMPARISONS.slice(0, 2).map((c) => c.title).join(" · ")} and {COMPARISONS.length - 2} more
+                  {tt("home.compareMore", `${COMPARISONS.slice(0, 2).map((c) => c.title).join(" · ")} and ${COMPARISONS.length - 2} more`, { list: COMPARISONS.slice(0, 2).map((c) => c.title).join(" · "), count: COMPARISONS.length - 2 })}
                 </p>
               </div>
             </Link>
@@ -424,17 +433,17 @@ export default async function HomePage({ params }: Props) {
             <Link href="/gifts" className="group flex items-start gap-4 rounded-2xl border border-pink-100 bg-pink-50 p-5 transition-all hover:border-pink-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>🎁</span>
               <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-pink-700 transition-colors">Gift guides</p>
-                <p className="text-xs text-slate-500 leading-relaxed">For every occasion — birthday, anniversary, holiday, and more</p>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-pink-700 transition-colors">{tt("home.giftsTitle", "Gift guides")}</p>
+                <p className="text-xs text-slate-500 leading-relaxed">{tt("home.giftsDesc", "For every occasion — birthday, anniversary, holiday, and more")}</p>
               </div>
             </Link>
             {/* Tags */}
             <Link href="/tags" className="group flex items-start gap-4 rounded-2xl border border-teal-100 bg-teal-50 p-5 transition-all hover:border-teal-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>🏷️</span>
               <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-teal-700 transition-colors">Browse by tag</p>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-teal-700 transition-colors">{tt("home.tagsTitle", "Browse by tag")}</p>
                 <p className="text-xs text-slate-500 leading-relaxed">
-                  {TAGS.slice(0, 4).map((t) => t.label).join(" · ")} and more
+                  {tt("home.tagsMore", `${TAGS.slice(0, 4).map((x) => x.label).join(" · ")} and more`, { list: TAGS.slice(0, 4).map((x) => x.label).join(" · ") })}
                 </p>
               </div>
             </Link>
@@ -442,24 +451,24 @@ export default async function HomePage({ params }: Props) {
             <Link href="/under-100" className="group flex items-start gap-4 rounded-2xl border border-green-100 bg-green-50 p-5 transition-all hover:border-green-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>💰</span>
               <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-green-700 transition-colors">Best under $100</p>
-                <p className="text-xs text-slate-500 leading-relaxed">Max value, minimal spend — also available: under $50, $200, $500</p>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-green-700 transition-colors">{tt("home.budgetTitle", "Best under $100")}</p>
+                <p className="text-xs text-slate-500 leading-relaxed">{tt("home.budgetDesc", "Max value, minimal spend — also available: under $50, $200, $500")}</p>
               </div>
             </Link>
             {/* Best of 2026 */}
             <Link href="/best-2026" className="group flex items-start gap-4 rounded-2xl border border-amber-100 bg-amber-50 p-5 transition-all hover:border-amber-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>✨</span>
               <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-amber-700 transition-colors">Best of 2026</p>
-                <p className="text-xs text-slate-500 leading-relaxed">Our top picks for the year, organized by category</p>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-amber-700 transition-colors">{tt("home.bestofTitle", "Best of 2026")}</p>
+                <p className="text-xs text-slate-500 leading-relaxed">{tt("home.bestofDesc", "Our top picks for the year, organized by category")}</p>
               </div>
             </Link>
             {/* Popular */}
             <Link href="/popular" className="group flex items-start gap-4 rounded-2xl border border-purple-100 bg-purple-50 p-5 transition-all hover:border-purple-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>🏆</span>
               <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-purple-700 transition-colors">Most popular</p>
-                <p className="text-xs text-slate-500 leading-relaxed">The reviews readers keep coming back to</p>
+                <p className="mb-1 font-black text-slate-900 group-hover:text-purple-700 transition-colors">{tt("home.popularTitle", "Most popular")}</p>
+                <p className="text-xs text-slate-500 leading-relaxed">{tt("home.popularDesc", "The reviews readers keep coming back to")}</p>
               </div>
             </Link>
           </div>
@@ -468,9 +477,9 @@ export default async function HomePage({ params }: Props) {
         {/* ── Trust strip ───────────────────────────────── */}
         <div className="mt-20 flex flex-wrap justify-center gap-8 border-t border-slate-100 pt-10 text-center">
           {[
-            { num: articles.length.toString(), label: "Curated reviews" },
-            { num: "17", label: "Languages" },
-            { num: "5+", label: "ASPs monitored" },
+            { num: articles.length.toString(), label: tt("home.statReviews", "Curated reviews") },
+            { num: "17", label: tt("home.statLanguages", "Languages") },
+            { num: "5+", label: tt("home.statAsps", "ASPs monitored") },
           ].map(({ num, label }) => (
             <div key={label}>
               <p className="text-3xl font-black text-slate-900">{num}</p>

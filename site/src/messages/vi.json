@@ -14,7 +14,34 @@
   "home": {
     "heading": "Đánh giá thật, không nói lan man.",
     "subheading": "So sánh và hướng dẫn mua sắm do con người chọn, viết cho con người.",
-    "empty": "Bài viết đang được chuẩn bị. Hẹn gặp lại sớm."
+    "empty": "Bài viết đang được chuẩn bị. Hẹn gặp lại sớm.",
+    "featured": "Nổi bật",
+    "typeComparison": "So sánh",
+    "typeReview": "Đánh giá",
+    "typeGuide": "Cẩm nang",
+    "picks": "{count} lựa chọn",
+    "readReview": "Đọc bài đánh giá →",
+    "read": "Đọc →",
+    "heroStats": "{count} bài đánh giá · {languages} ngôn ngữ",
+    "moreWays": "Nhiều cách khám phá khác",
+    "purposeTitle": "Duyệt theo mục đích",
+    "purposeDesc": "Quà tặng · Tập luyện · Chăm sóc da · Văn phòng tại nhà · Nấu ăn · Giấc ngủ và hơn thế nữa",
+    "compareTitle": "So sánh trực tiếp",
+    "compareMore": "{list} và {count} mục khác",
+    "giftsTitle": "Cẩm nang quà tặng",
+    "giftsDesc": "Cho mọi dịp — sinh nhật, kỷ niệm, lễ Tết và hơn thế nữa",
+    "tagsTitle": "Duyệt theo thẻ",
+    "tagsMore": "{list} và nhiều hơn",
+    "budgetTitle": "Tốt nhất dưới $100",
+    "budgetDesc": "Giá trị tối đa, chi tiêu tối thiểu — còn có: dưới $50, $200, $500",
+    "bestofTitle": "Xuất sắc nhất 2026",
+    "bestofDesc": "Những lựa chọn hàng đầu của năm, sắp xếp theo danh mục",
+    "popularTitle": "Phổ biến nhất",
+    "popularDesc": "Những bài đánh giá được độc giả quay lại đọc nhiều nhất",
+    "statReviews": "Bài đánh giá chọn lọc",
+    "statLanguages": "Ngôn ngữ",
+    "statAsps": "Mạng liên kết được theo dõi",
+    "siteDesc": "Đánh giá và so sánh chọn lọc bằng 17 ngôn ngữ."
   },
   "category": {
     "tech": "Công nghệ",
@@ -224,5 +251,19 @@
     "success": "Cảm ơn bạn đã đăng ký!",
     "error": "Không thể đăng ký. Vui lòng thử lại sau.",
     "privacy": "Chúng tôi tôn trọng quyền riêng tư của bạn. Hủy bất cứ lúc nào."
+  },
+  "discover": {
+    "categories": "Danh mục",
+    "heading": "Khám phá",
+    "rankings": "Bảng xếp hạng",
+    "newReviews": "Đánh giá mới",
+    "bestOf": "Xuất sắc nhất 2026",
+    "gifts": "Cẩm nang quà tặng",
+    "compare": "So sánh",
+    "tags": "Thẻ",
+    "under50": "Dưới $50",
+    "under100": "Dưới $100",
+    "brands": "Thương hiệu",
+    "search": "Tìm kiếm"
   }
 }

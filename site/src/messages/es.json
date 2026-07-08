@@ -14,7 +14,34 @@
   "home": {
     "heading": "Reseñas reales, sin paja.",
     "subheading": "Comparativas y guías de compra elegidas por personas, escritas para personas.",
-    "empty": "Estamos preparando los artículos. Vuelve pronto."
+    "empty": "Estamos preparando los artículos. Vuelve pronto.",
+    "featured": "Destacados",
+    "typeComparison": "Comparativa",
+    "typeReview": "Reseña",
+    "typeGuide": "Guía",
+    "picks": "{count} selecciones",
+    "readReview": "Leer reseña →",
+    "read": "Leer →",
+    "heroStats": "{count} reseñas · {languages} idiomas",
+    "moreWays": "Más formas de explorar",
+    "purposeTitle": "Explora por propósito",
+    "purposeDesc": "Regalos · Ejercicio · Cuidado de la piel · Oficina en casa · Cocina · Sueño y más",
+    "compareTitle": "Comparativas cara a cara",
+    "compareMore": "{list} y {count} más",
+    "giftsTitle": "Guías de regalos",
+    "giftsDesc": "Para cada ocasión: cumpleaños, aniversarios, fiestas y más",
+    "tagsTitle": "Explora por etiqueta",
+    "tagsMore": "{list} y más",
+    "budgetTitle": "Lo mejor por menos de $100",
+    "budgetDesc": "Máximo valor, mínimo gasto — también por menos de $50, $200 y $500",
+    "bestofTitle": "Lo mejor de 2026",
+    "bestofDesc": "Nuestras mejores selecciones del año, organizadas por categoría",
+    "popularTitle": "Lo más popular",
+    "popularDesc": "Las reseñas a las que los lectores siempre vuelven",
+    "statReviews": "Reseñas seleccionadas",
+    "statLanguages": "Idiomas",
+    "statAsps": "Redes de afiliados monitorizadas",
+    "siteDesc": "Reseñas y comparativas seleccionadas en 17 idiomas."
   },
   "category": {
     "tech": "Tecnología",
@@ -224,5 +251,19 @@
     "success": "¡Gracias por suscribirte!",
     "error": "No se pudo suscribir. Inténtalo más tarde.",
     "privacy": "Respetamos tu privacidad. Cancela cuando quieras."
+  },
+  "discover": {
+    "categories": "Categorías",
+    "heading": "Descubre",
+    "rankings": "Rankings",
+    "newReviews": "Reseñas nuevas",
+    "bestOf": "Lo mejor de 2026",
+    "gifts": "Guías de regalos",
+    "compare": "Comparar",
+    "tags": "Etiquetas",
+    "under50": "Menos de $50",
+    "under100": "Menos de $100",
+    "brands": "Marcas",
+    "search": "Buscar"
   }
 }

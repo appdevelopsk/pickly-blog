@@ -14,7 +14,34 @@
   "home": {
     "heading": "真实评测,拒绝水文。",
     "subheading": "由人工挑选、为读者撰写的对比与购买指南。",
-    "empty": "文章正在准备中,敬请期待。"
+    "empty": "文章正在准备中,敬请期待。",
+    "featured": "精选",
+    "typeComparison": "对比",
+    "typeReview": "评测",
+    "typeGuide": "指南",
+    "picks": "{count} 款精选",
+    "readReview": "阅读评测 →",
+    "read": "阅读 →",
+    "heroStats": "{count} 篇评测 · {languages} 种语言",
+    "moreWays": "更多浏览方式",
+    "purposeTitle": "按用途浏览",
+    "purposeDesc": "送礼 · 健身 · 护肤 · 居家办公 · 烹饪 · 睡眠等",
+    "compareTitle": "产品对比",
+    "compareMore": "{list} 及另外 {count} 项",
+    "giftsTitle": "礼物指南",
+    "giftsDesc": "生日、纪念日、节日等各种场合",
+    "tagsTitle": "按标签浏览",
+    "tagsMore": "{list} 等",
+    "budgetTitle": "$100 以下精选",
+    "budgetDesc": "花小钱办大事 — 另有 $50、$200、$500 以下精选",
+    "bestofTitle": "2026 年度精选",
+    "bestofDesc": "按类别整理的年度最佳推荐",
+    "popularTitle": "最受欢迎",
+    "popularDesc": "读者反复回访的热门评测",
+    "statReviews": "精选评测",
+    "statLanguages": "支持语言",
+    "statAsps": "监测的联盟平台",
+    "siteDesc": "覆盖 17 种语言的精选评测与对比。"
   },
   "category": {
     "tech": "数码",
@@ -224,5 +251,19 @@
     "success": "感谢订阅！",
     "error": "订阅失败，请稍后再试。",
     "privacy": "我们尊重您的隐私，可随时取消订阅。"
+  },
+  "discover": {
+    "categories": "分类",
+    "heading": "发现",
+    "rankings": "排行榜",
+    "newReviews": "最新评测",
+    "bestOf": "2026 年度精选",
+    "gifts": "礼物指南",
+    "compare": "对比",
+    "tags": "标签",
+    "under50": "$50 以下",
+    "under100": "$100 以下",
+    "brands": "品牌",
+    "search": "搜索"
   }
 }

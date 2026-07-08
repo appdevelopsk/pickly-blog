@@ -14,7 +14,34 @@
   "home": {
     "heading": "Dürüst incelemeler, dolgu yok.",
     "subheading": "İnsanlar tarafından seçilmiş, insanlar için yazılmış karşılaştırmalar ve satın alma rehberleri.",
-    "empty": "Yazılar hazırlanıyor. Yakında tekrar uğra."
+    "empty": "Yazılar hazırlanıyor. Yakında tekrar uğra.",
+    "featured": "Öne çıkanlar",
+    "typeComparison": "Karşılaştırma",
+    "typeReview": "İnceleme",
+    "typeGuide": "Rehber",
+    "picks": "{count} seçki",
+    "readReview": "İncelemeyi oku →",
+    "read": "Oku →",
+    "heroStats": "{count} inceleme · {languages} dil",
+    "moreWays": "Keşfetmenin diğer yolları",
+    "purposeTitle": "Amaca göre keşfet",
+    "purposeDesc": "Hediye · Antrenman · Cilt bakımı · Ev ofis · Yemek · Uyku ve daha fazlası",
+    "compareTitle": "Birebir karşılaştırmalar",
+    "compareMore": "{list} ve {count} tane daha",
+    "giftsTitle": "Hediye rehberleri",
+    "giftsDesc": "Her özel gün için — doğum günü, yıl dönümü, bayram ve daha fazlası",
+    "tagsTitle": "Etikete göre keşfet",
+    "tagsMore": "{list} ve daha fazlası",
+    "budgetTitle": "$100 altı en iyiler",
+    "budgetDesc": "Az harcama, maksimum değer — $50, $200 ve $500 altı da mevcut",
+    "bestofTitle": "2026'nın en iyileri",
+    "bestofDesc": "Yılın en iyi seçkilerimiz, kategorilere göre düzenlenmiş",
+    "popularTitle": "En popülerler",
+    "popularDesc": "Okurların dönüp dönüp okuduğu incelemeler",
+    "statReviews": "Özenle seçilmiş inceleme",
+    "statLanguages": "Dil",
+    "statAsps": "Takip edilen satış ortaklığı ağı",
+    "siteDesc": "17 dilde özenle seçilmiş inceleme ve karşılaştırmalar."
   },
   "category": {
     "tech": "Teknoloji",
@@ -224,5 +251,19 @@
     "success": "Abone olduğunuz için teşekkürler!",
     "error": "Abone olunamadı. Lütfen daha sonra tekrar deneyin.",
     "privacy": "Gizliliğinize saygı duyuyoruz. İstediğiniz zaman abonelikten çıkın."
+  },
+  "discover": {
+    "categories": "Kategoriler",
+    "heading": "Keşfet",
+    "rankings": "Sıralamalar",
+    "newReviews": "Yeni incelemeler",
+    "bestOf": "2026'nın en iyileri",
+    "gifts": "Hediye rehberleri",
+    "compare": "Karşılaştır",
+    "tags": "Etiketler",
+    "under50": "$50 altı",
+    "under100": "$100 altı",
+    "brands": "Markalar",
+    "search": "Ara"
   }
 }

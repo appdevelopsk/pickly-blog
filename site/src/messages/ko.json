@@ -14,7 +14,34 @@
   "home": {
     "heading": "솔직한 리뷰, 군더더기 없이.",
     "subheading": "사람이 직접 고르고, 사람을 위해 쓴 비교와 구매 가이드.",
-    "empty": "글을 준비 중입니다. 곧 만나요."
+    "empty": "글을 준비 중입니다. 곧 만나요.",
+    "featured": "추천",
+    "typeComparison": "비교",
+    "typeReview": "리뷰",
+    "typeGuide": "가이드",
+    "picks": "{count}개 추천",
+    "readReview": "리뷰 보기 →",
+    "read": "보기 →",
+    "heroStats": "리뷰 {count}개 · {languages}개 언어",
+    "moreWays": "다른 탐색 방법",
+    "purposeTitle": "목적별 탐색",
+    "purposeDesc": "선물 · 운동 · 스킨케어 · 홈오피스 · 요리 · 수면 등",
+    "compareTitle": "제품 비교",
+    "compareMore": "{list} 외 {count}건",
+    "giftsTitle": "선물 가이드",
+    "giftsDesc": "생일, 기념일, 명절 등 모든 순간을 위해",
+    "tagsTitle": "태그별 탐색",
+    "tagsMore": "{list} 등",
+    "budgetTitle": "$100 이하 베스트",
+    "budgetDesc": "최소 지출로 최대 가치 — $50, $200, $500 이하도 준비되어 있습니다",
+    "bestofTitle": "2026 베스트",
+    "bestofDesc": "카테고리별로 정리한 올해의 추천 제품",
+    "popularTitle": "인기 리뷰",
+    "popularDesc": "독자들이 계속 다시 찾는 리뷰",
+    "statReviews": "엄선된 리뷰",
+    "statLanguages": "지원 언어",
+    "statAsps": "모니터링 중인 제휴 네트워크",
+    "siteDesc": "17개 언어로 제공되는 엄선된 리뷰와 비교."
   },
   "category": {
     "tech": "테크",
@@ -224,5 +251,19 @@
     "success": "구독해 주셔서 감사합니다!",
     "error": "구독에 실패했습니다. 잠시 후 다시 시도해 주세요.",
     "privacy": "개인정보를 존중합니다. 언제든 구독을 해지할 수 있습니다."
+  },
+  "discover": {
+    "categories": "카테고리",
+    "heading": "둘러보기",
+    "rankings": "랭킹",
+    "newReviews": "새 리뷰",
+    "bestOf": "2026 베스트",
+    "gifts": "선물 가이드",
+    "compare": "비교",
+    "tags": "태그",
+    "under50": "$50 이하",
+    "under100": "$100 이하",
+    "brands": "브랜드",
+    "search": "검색"
   }
 }

@@ -45,7 +45,7 @@ export function SiteFooter() {
 
           {/* Categories */}
           <div>
-            <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-400">Categories</p>
+            <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-400">{t("discover.categories")}</p>
             <nav className="flex flex-col gap-2">
               {CATEGORIES.slice(0, 5).map(({ key, icon }) => {
                 let label = key;
@@ -76,18 +76,18 @@ export function SiteFooter() {
 
           {/* Discover */}
           <div>
-            <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-400">Discover</p>
+            <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-400">{t("discover.heading")}</p>
             <nav className="flex flex-col gap-2">
-              <Link href="/ranking"   className="text-slate-400 hover:text-white transition-colors">🏆 Rankings</Link>
-              <Link href="/new"       className="text-slate-400 hover:text-white transition-colors">🆕 New reviews</Link>
-              <Link href="/best-2026" className="text-slate-400 hover:text-white transition-colors">✨ Best of 2026</Link>
-              <Link href="/gifts"     className="text-slate-400 hover:text-white transition-colors">🎁 Gift guides</Link>
-              <Link href="/compare"   className="text-slate-400 hover:text-white transition-colors">⚖️ Compare</Link>
-              <Link href="/tags"      className="text-slate-400 hover:text-white transition-colors">🏷️ Tags</Link>
-              <Link href="/under-50"  className="text-slate-400 hover:text-white transition-colors">💰 Under $50</Link>
-              <Link href="/under-100" className="text-slate-400 hover:text-white transition-colors">💰 Under $100</Link>
-              <Link href="/brands"    className="text-slate-400 hover:text-white transition-colors">🎯 Brands</Link>
-              <Link href="/search"    className="text-slate-400 hover:text-white transition-colors">🔍 Search</Link>
+              <Link href="/ranking"   className="text-slate-400 hover:text-white transition-colors">🏆 {t("discover.rankings")}</Link>
+              <Link href="/new"       className="text-slate-400 hover:text-white transition-colors">🆕 {t("discover.newReviews")}</Link>
+              <Link href="/best-2026" className="text-slate-400 hover:text-white transition-colors">✨ {t("discover.bestOf")}</Link>
+              <Link href="/gifts"     className="text-slate-400 hover:text-white transition-colors">🎁 {t("discover.gifts")}</Link>
+              <Link href="/compare"   className="text-slate-400 hover:text-white transition-colors">⚖️ {t("discover.compare")}</Link>
+              <Link href="/tags"      className="text-slate-400 hover:text-white transition-colors">🏷️ {t("discover.tags")}</Link>
+              <Link href="/under-50"  className="text-slate-400 hover:text-white transition-colors">💰 {t("discover.under50")}</Link>
+              <Link href="/under-100" className="text-slate-400 hover:text-white transition-colors">💰 {t("discover.under100")}</Link>
+              <Link href="/brands"    className="text-slate-400 hover:text-white transition-colors">🎯 {t("discover.brands")}</Link>
+              <Link href="/search"    className="text-slate-400 hover:text-white transition-colors">🔍 {t("discover.search")}</Link>
             </nav>
           </div>
         </div>
