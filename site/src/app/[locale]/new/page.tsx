@@ -50,6 +50,9 @@ export default async function NewPage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const all = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
 
@@ -116,7 +119,7 @@ export default async function NewPage({ params }: Props) {
                   <div className="mt-3 flex items-center justify-between">
                     <span className="text-[11px] text-slate-400">
                       {CATEGORY_ICONS[a.category]} &nbsp;
-                      {TYPE_LABELS[a.type] ?? a.type} · {a.offerIds.length} picks
+                      {tt(`home.type${a.type.charAt(0).toUpperCase()}${a.type.slice(1)}`, TYPE_LABELS[a.type] ?? a.type)} · {tt("home.picks", `${a.offerIds.length} picks`, { count: a.offerIds.length })}
                     </span>
                     <span className="text-xs text-slate-300">{a.publishedAt}</span>
                   </div>
@@ -141,13 +144,13 @@ export default async function NewPage({ params }: Props) {
 
       <section className="py-10 md:py-12">
         <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-green-50 border border-green-200 px-4 py-1.5 text-xs font-bold text-green-700">
-          🆕 Latest reviews
+          🆕 {tt("pages.latestBadge", "Latest reviews")}
         </div>
         <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
-          New this month
+          {tt("pages.newTitle", "New this month")}
         </h1>
         <p className="mt-2 text-base text-slate-500">
-          Recently published reviews and comparisons — {all.length} total across 10 categories.
+          {tt("pages.newDesc", `Recently published reviews and comparisons — ${all.length} total across 10 categories.`, { count: all.length, categories: 10 })}
         </p>
       </section>
 
@@ -155,7 +158,7 @@ export default async function NewPage({ params }: Props) {
         <section className="mb-10">
           <h2 className="mb-4 flex items-center gap-2 text-lg font-black text-slate-900">
             <span className="inline-block h-2 w-2 rounded-full bg-green-500 animate-pulse" />
-            This week
+            {tt("pages.thisWeek", "This week")}
             <span className="text-sm font-normal text-slate-400">({thisWeek.length})</span>
           </h2>
           <Grid articles={thisWeek} rank />
@@ -165,7 +168,7 @@ export default async function NewPage({ params }: Props) {
       {thisMonth.length > 0 && (
         <section className="mb-10">
           <h2 className="mb-4 text-lg font-black text-slate-900">
-            This month
+            {tt("pages.thisMonth", "This month")}
             <span className="ml-2 text-sm font-normal text-slate-400">({thisMonth.length})</span>
           </h2>
           <Grid articles={thisMonth} />

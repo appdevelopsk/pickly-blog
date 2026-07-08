@@ -47,6 +47,7 @@ function buildSearchItem(a: ArticleMeta, locale: string, catLabel: string): Sear
     badge: firstOffer?.badge ?? null,
     offerCount: a.offerIds.length,
     typeLabel: TYPE_LABELS[a.type] ?? a.type,
+    type: a.type,
   };
 }
 
@@ -62,6 +63,9 @@ export default async function SearchPage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const articles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
 
@@ -94,10 +98,10 @@ export default async function SearchPage({ params }: Props) {
       {/* Header */}
       <section className="py-10 md:py-12">
         <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
-          Search reviews
+          {tt("pages.searchHeading", "Search reviews")}
         </h1>
         <p className="mt-2 text-base text-slate-500">
-          {articles.length} reviews across 10 categories — find what you're looking for.
+          {tt("pages.searchDesc", `${articles.length} reviews across 10 categories — find what you\u2019re looking for.`, { count: articles.length, categories: 10 })}
         </p>
       </section>
 

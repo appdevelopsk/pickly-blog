@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import { useTranslations } from "next-intl";
 import Fuse from "fuse.js";
 import { Link } from "@/lib/i18n/navigation";
 
@@ -16,6 +17,7 @@ export interface SearchItem {
   isProductImg: boolean;
   offerCount: number;
   typeLabel: string;
+  type?: string;
 }
 
 const CATEGORY_ICONS: Record<string, string> = {
@@ -29,6 +31,10 @@ interface Props {
 }
 
 export function SearchUI({ items, totalCount }: Props) {
+  const t = useTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
   const [query, setQuery] = useState("");
 
   const fuse = useMemo(
@@ -82,9 +88,9 @@ export function SearchUI({ items, totalCount }: Props) {
       <p className="mb-4 text-sm text-slate-400">
         {query.trim().length >= 2
           ? results.length === 0
-            ? `No results for "${query}"`
-            : `${results.length} result${results.length === 1 ? "" : "s"} for "${query}"`
-          : `Showing recent reviews — start typing to search`}
+            ? tt("pages.noResults", `No results for \"${query}\"`, { query })
+            : tt("pages.resultsFor", `${results.length} results for \"${query}\"`, { count: results.length, query })
+          : tt("pages.searchEmpty", "Showing recent reviews — start typing to search")}
       </p>
 
       {/* Grid */}
@@ -139,7 +145,7 @@ export function SearchUI({ items, totalCount }: Props) {
                   )}
                   <div className="mt-3 flex items-center justify-between">
                     <span className="text-[11px] text-slate-400">
-                      {item.typeLabel} · {item.offerCount} picks
+                      {item.type ? tt(`home.type${item.type.charAt(0).toUpperCase()}${item.type.slice(1)}`, item.typeLabel) : item.typeLabel} · {tt("home.picks", `${item.offerCount} picks`, { count: item.offerCount })}
                     </span>
                     <span className="text-[11px] font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">
                       Read →

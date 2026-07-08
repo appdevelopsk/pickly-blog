@@ -43,6 +43,9 @@ export default async function TagPage({ params }: Props) {
   const config = TAG_MAP[tagSlug];
   if (!config) notFound();
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const all = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
   const articles = all
@@ -88,26 +91,26 @@ export default async function TagPage({ params }: Props) {
 
         <section className="py-10 md:py-14">
           <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-teal-50 border border-teal-200 px-4 py-1.5 text-xs font-bold text-teal-700">
-            {config.icon} {config.label}
+            {config.icon} {tt(`tagPages.${tagSlug}.label`, config.label)}
           </div>
           <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
-            Best {config.label.toLowerCase()} products 2026
+            {tt("pages.bestTagProducts", `Best ${config.label.toLowerCase()} products 2026`, { tag: tt(`tagPages.${tagSlug}.label`, config.label) })}
           </h1>
-          <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">{config.description}</p>
+          <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">{tt(`tagPages.${tagSlug}.description`, config.description)}</p>
         </section>
 
         {/* Other tags */}
         <nav className="mb-10 flex flex-wrap gap-2">
           {TAGS.filter((tg) => tg.slug !== tagSlug).map((tg) => (
             <Link key={tg.slug} href={`/tag/${tg.slug}`} className="flex items-center gap-1.5 rounded-full border border-slate-200 bg-white px-4 py-1.5 text-sm font-medium text-slate-500 hover:border-teal-300 hover:bg-teal-50 hover:text-teal-700 transition-colors">
-              {tg.icon} {tg.label}
+              {tg.icon} {tt(`tagPages.${tg.slug}.label`, tg.label)}
             </Link>
           ))}
         </nav>
 
         {articles.length === 0 ? (
           <div className="rounded-2xl border border-slate-200 bg-slate-50 p-12 text-center">
-            <p className="font-semibold text-slate-700">No articles found for this tag yet.</p>
+            <p className="font-semibold text-slate-700">{tt("pages.noTagArticles", "No articles found for this tag yet.")}</p>
           </div>
         ) : (
           <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
@@ -135,7 +138,7 @@ export default async function TagPage({ params }: Props) {
                       <h2 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-2">{title}</h2>
                       {description && <p className="mt-1.5 flex-1 text-xs text-slate-400 line-clamp-2">{description}</p>}
                       <div className="mt-3 flex items-center justify-between">
-                        <span className="text-[11px] text-slate-400">{TYPE_LABELS[a.type] ?? a.type} · {a.offerIds.length} picks</span>
+                        <span className="text-[11px] text-slate-400">{tt(`home.type${a.type.charAt(0).toUpperCase()}${a.type.slice(1)}`, TYPE_LABELS[a.type] ?? a.type)} · {tt("home.picks", `${a.offerIds.length} picks`, { count: a.offerIds.length })}</span>
                         <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">Read →</span>
                       </div>
                     </div>

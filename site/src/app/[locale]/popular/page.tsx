@@ -78,6 +78,9 @@ export default async function PopularPage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const allArticles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
   const articleMap = new Map(allArticles.map((a) => [a.slug, a]));
@@ -135,10 +138,10 @@ export default async function PopularPage({ params }: Props) {
         {/* Hero */}
         <section className="py-10 md:py-14">
           <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-amber-50 border border-amber-200 px-4 py-1.5 text-xs font-bold text-amber-700">
-            🏆 Editor's picks
+            🏆 {tt("pages.editorsPicks", "Editor\u2019s picks")}
           </div>
           <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
-            Most popular reviews
+            {tt("pages.popularSub", "Most popular reviews")}
           </h1>
           <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">
             Our highest-rated comparisons — chosen for depth of testing, breadth of options, and real-world usefulness.
@@ -174,7 +177,7 @@ export default async function PopularPage({ params }: Props) {
                     </ArticleCardImage>
                   </div>
                   <div className="flex flex-1 flex-col p-4">
-                    {badge && <p className="mb-1 text-[11px] font-semibold text-amber-600 truncate">🏆 {badge}</p>}
+                    {badge && !/^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(badge) && <p className="mb-1 text-[11px] font-semibold text-amber-600 truncate">🏆 {badge}</p>}
                     <h2 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-700 line-clamp-2 transition-colors">
                       {title}
                     </h2>

@@ -56,6 +56,9 @@ export default async function BrandPage({ params }: Props) {
   if (!config) notFound();
 
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   // Find all offer IDs that match this brand's prefixes
   const brandOfferIds = new Set(
@@ -106,23 +109,23 @@ export default async function BrandPage({ params }: Props) {
         <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">
           <Link href="/" className="hover:text-slate-600 transition-colors">{siteName}</Link>
           <span>/</span>
-          <Link href="/brands" className="hover:text-slate-600 transition-colors">Brands</Link>
+          <Link href="/brands" className="hover:text-slate-600 transition-colors">{t("discover.brands")}</Link>
           <span>/</span>
           <span className="text-slate-600 font-medium">{config.name}</span>
         </nav>
 
         <section className="py-10 md:py-12">
           <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-slate-100 border border-slate-200 px-4 py-1.5 text-xs font-bold text-slate-600">
-            Brand reviews
+            {tt("pages.brandBadge", "Brand reviews")}
           </div>
           <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
-            Best {config.name} products 2026
+            {tt("pages.bestBrandProducts", `Best ${config.name} products 2026`, { brand: config.name })}
           </h1>
           <p className="mt-2 text-sm text-slate-400">
-            {brandOfferCount} {config.name} products reviewed · {articles.length} comparison articles
+            {tt("pages.brandStats", `${brandOfferCount} ${config.name} products reviewed · ${articles.length} comparison articles`, { products: brandOfferCount, brand: config.name, articles: articles.length })}
           </p>
           <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">
-            {config.description} We've tested {config.name} products across multiple categories to find which ones are worth buying.
+            {tt(`brandPages.${brandSlug}.description`, config.description)} {tt("pages.brandTested", `We've tested ${config.name} products across multiple categories to find which ones are worth buying.`, { brand: config.name })}
           </p>
         </section>
 
@@ -171,12 +174,12 @@ export default async function BrandPage({ params }: Props) {
                       )}
                     </div>
                     <div className="flex flex-1 flex-col p-4">
-                      {offer?.badge && <p className="mb-1 text-[11px] font-semibold text-amber-600 truncate">🏆 {offer.badge}</p>}
+                      {offer?.badge && !/^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(offer.badge) && <p className="mb-1 text-[11px] font-semibold text-amber-600 truncate">🏆 {offer.badge}</p>}
                       <h2 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-2">{title}</h2>
                       {description && <p className="mt-1.5 flex-1 text-xs text-slate-400 line-clamp-2">{description}</p>}
                       <div className="mt-3 flex items-center justify-between">
-                        <span className="text-[11px] text-slate-400">{TYPE_LABELS[a.type] ?? a.type} · {a.offerIds.length} picks</span>
-                        <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">Read →</span>
+                        <span className="text-[11px] text-slate-400">{tt(`home.type${a.type.charAt(0).toUpperCase()}${a.type.slice(1)}`, TYPE_LABELS[a.type] ?? a.type)} · {tt("home.picks", `${a.offerIds.length} picks`, { count: a.offerIds.length })}</span>
+                        <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">{tt("home.read", "Read →")}</span>
                       </div>
                     </div>
                   </Link>

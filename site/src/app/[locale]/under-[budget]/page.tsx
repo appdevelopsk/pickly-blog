@@ -91,6 +91,9 @@ export default async function UnderBudgetPage({ params }: Props) {
   if (!VALID_BUDGETS.includes(budget as Budget)) notFound();
 
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
   const threshold = parseInt(budget, 10);
   const label = BUDGET_LABELS[budget as Budget];
 
@@ -165,7 +168,7 @@ export default async function UnderBudgetPage({ params }: Props) {
         {articles.length === 0 ? (
           <div className="rounded-2xl border border-slate-200 bg-slate-50 p-12 text-center">
             <p className="text-2xl mb-3">💸</p>
-            <p className="font-semibold text-slate-700">No results in this budget range yet.</p>
+            <p className="font-semibold text-slate-700">{tt("pages.noBudgetResults", "No results in this budget range yet.")}</p>
           </div>
         ) : (
           <div>
@@ -204,14 +207,14 @@ export default async function UnderBudgetPage({ params }: Props) {
                               )}
                             </div>
                             <div className="flex flex-1 flex-col p-4">
-                              {offer?.badge && <p className="mb-1 truncate text-[11px] font-semibold text-amber-600">🏆 {offer.badge}</p>}
+                              {offer?.badge && !/^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(offer.badge) && <p className="mb-1 truncate text-[11px] font-semibold text-amber-600">🏆 {offer.badge}</p>}
                               <h3 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-2">
                                 {title}
                               </h3>
                               {description && <p className="mt-1.5 flex-1 text-xs text-slate-400 line-clamp-2">{description}</p>}
                               <div className="mt-3 flex items-center justify-between">
-                                <span className="text-[11px] text-slate-400">{TYPE_LABELS[a.type] ?? a.type} · {a.offerIds.length} picks</span>
-                                <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">Read →</span>
+                                <span className="text-[11px] text-slate-400">{tt(`home.type${a.type.charAt(0).toUpperCase()}${a.type.slice(1)}`, TYPE_LABELS[a.type] ?? a.type)} · {tt("home.picks", `${a.offerIds.length} picks`, { count: a.offerIds.length })}</span>
+                                <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">{tt("home.read", "Read →")}</span>
                               </div>
                             </div>
                           </Link>

@@ -66,6 +66,9 @@ export default async function Best2026Page({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const allArticles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
   const articleMap = new Map(allArticles.map((a) => [a.slug, a]));
@@ -126,13 +129,13 @@ export default async function Best2026Page({ params }: Props) {
 
         <section className="py-10 md:py-14">
           <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-brand-50 border border-brand-200 px-4 py-1.5 text-xs font-bold text-brand-700">
-            ✨ Annual guide
+            ✨ {tt("pages.annualGuide", "Annual guide")}
           </div>
           <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl lg:text-5xl">
-            Best products of 2026
+            {tt("pages.bestofSub", "Best products of 2026")}
           </h1>
           <p className="mt-3 max-w-2xl text-base text-slate-500 leading-relaxed">
-            Our top-tested picks across all 10 categories — updated as products launch and rankings shift throughout 2026.
+            {tt("pages.bestofLead", "Our top-tested picks across all 10 categories — updated as products launch and rankings shift throughout 2026.")}
           </p>
         </section>
 
@@ -164,7 +167,7 @@ export default async function Best2026Page({ params }: Props) {
                 <div>
                   <h2 className="text-xl font-black text-slate-900">{catLabel}</h2>
                   <Link href={`/category/${cat}`} className="text-xs text-brand-600 hover:underline">
-                    All {catLabel} reviews →
+                    {tt("pages.allCatReviews", `All ${catLabel} reviews →`, { cat: catLabel })}
                   </Link>
                 </div>
               </div>
@@ -180,16 +183,16 @@ export default async function Best2026Page({ params }: Props) {
                     <CategoryPlaceholder category={topPick.category} title={topMeta.title} />
                   </ArticleCardImage>
                   <span className="absolute left-3 top-3 rounded-full bg-brand-600 px-3 py-1 text-xs font-black text-white shadow">
-                    #1 Pick
+                    {tt("pages.no1Pick", "#1 Pick")}
                   </span>
                   {topOffer?.price && (
                     <span className="absolute bottom-3 right-3 rounded-full bg-white/95 border border-slate-200 px-3 py-1 text-xs font-bold text-slate-800 shadow-sm">
-                      from {topOffer.price}
+                      {tt("pages.fromPrice", `from ${topOffer.price}`, { price: topOffer.price })}
                     </span>
                   )}
                 </div>
                 <div className="flex flex-1 flex-col justify-center p-6 sm:p-8">
-                  {topOffer?.badge && (
+                  {topOffer?.badge && !/^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(topOffer.badge) && (
                     <p className="mb-1.5 text-xs font-semibold text-amber-600">🏆 {topOffer.badge}</p>
                   )}
                   <h3 className="mb-3 text-lg font-black leading-snug text-slate-900 group-hover:text-brand-700 transition-colors sm:text-xl">

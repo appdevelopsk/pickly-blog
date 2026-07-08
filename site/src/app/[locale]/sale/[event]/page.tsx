@@ -39,6 +39,9 @@ export default async function SalePage({ params }: Props) {
   const config = SALE_EVENT_MAP[eventSlug];
   if (!config) notFound();
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const all = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
   const articles = all
@@ -83,15 +86,15 @@ export default async function SalePage({ params }: Props) {
         <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">
           <Link href="/" className="hover:text-slate-600 transition-colors">{siteName}</Link>
           <span>/</span>
-          <span className="text-slate-600 font-medium">{config.icon} {config.title}</span>
+          <span className="text-slate-600 font-medium">{config.icon} {tt(`salePages.${eventSlug}.title`, config.title)}</span>
         </nav>
 
         <section className="py-10 md:py-14">
           <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-orange-50 border border-orange-200 px-4 py-1.5 text-xs font-bold text-orange-700">
-            {config.icon} Sale guide
+            {config.icon} {tt("crossLinks.saleGuide", "Sale guide")}
           </div>
-          <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">{config.title}</h1>
-          <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">{config.description}</p>
+          <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">{tt(`salePages.${eventSlug}.title`, config.title)}</h1>
+          <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">{tt(`salePages.${eventSlug}.description`, config.description)}</p>
         </section>
 
         {/* Jump nav */}
@@ -109,10 +112,10 @@ export default async function SalePage({ params }: Props) {
 
         {/* Other events */}
         <div className="mb-10 flex flex-wrap gap-2 rounded-xl border border-slate-100 bg-slate-50 p-4">
-          <span className="text-xs font-semibold text-slate-400 self-center">Other events:</span>
+          <span className="text-xs font-semibold text-slate-400 self-center">{tt("pages.otherEvents", "Other events:")}</span>
           {SALE_EVENTS.filter((e) => e.slug !== eventSlug).map((e) => (
             <Link key={e.slug} href={`/sale/${e.slug}`} className="rounded-full border border-slate-200 bg-white px-3 py-1 text-xs font-medium text-slate-500 hover:border-orange-300 hover:text-orange-700 transition-colors">
-              {e.icon} {e.title.replace(" 2026","").replace(" Deals","").replace(" Picks","").replace(" Sale","")}
+              {e.icon} {tt(`salePages.${e.slug}.title`, e.title).replace(" 2026","").replace(" Deals","").replace(" Picks","").replace(" Sale","")}
             </Link>
           ))}
         </div>
@@ -143,11 +146,11 @@ export default async function SalePage({ params }: Props) {
                           {offer?.price && <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-bold text-slate-800 shadow-sm">{offer.price}</span>}
                         </div>
                         <div className="flex flex-1 flex-col p-4">
-                          {offer?.badge && <p className="mb-1 truncate text-[11px] font-semibold text-amber-600">🏆 {offer.badge}</p>}
+                          {offer?.badge && !/^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(offer.badge) && <p className="mb-1 truncate text-[11px] font-semibold text-amber-600">🏆 {offer.badge}</p>}
                           <h3 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-2">{title}</h3>
                           {description && <p className="mt-1.5 flex-1 text-xs text-slate-400 line-clamp-2">{description}</p>}
                           <div className="mt-3 flex items-center justify-between">
-                            <span className="text-[11px] text-slate-400">{TYPE_LABELS[a.type] ?? a.type} · {a.offerIds.length} picks</span>
+                            <span className="text-[11px] text-slate-400">{tt(`home.type${a.type.charAt(0).toUpperCase()}${a.type.slice(1)}`, TYPE_LABELS[a.type] ?? a.type)} · {tt("home.picks", `${a.offerIds.length} picks`, { count: a.offerIds.length })}</span>
                             <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">Read →</span>
                           </div>
                         </div>

@@ -251,7 +251,8 @@ export default async function HomePage({ params }: Props) {
               const imgSrc = imgSrcRaw ? resizeAmazonImageUrl(imgSrcRaw, 800) : null;
               const isProductImg = imgSrc && !imgSrc.includes("/og/");
               const offer = getFirstOffer(featured);
-              const badge = offer?.badge;
+              const rawBadge = offer?.badge;
+                const badge = rawBadge && /^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(rawBadge) ? null : rawBadge; // 生スラッグ(top-pick等)は非表示
               const price = offer?.price;
               const typeLabel = typeLabels[featured.type] ?? featured.type;
               const picksCount = featured.offerIds.length;
@@ -323,7 +324,8 @@ export default async function HomePage({ params }: Props) {
                 const imgSrc = imgSrcRaw ? resizeAmazonImageUrl(imgSrcRaw) : null;
                 const isProductImg = imgSrc && !imgSrc.includes("/og/");
                 const offer = getFirstOffer(a);
-                const badge = offer?.badge;
+                const rawBadge = offer?.badge;
+                const badge = rawBadge && /^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(rawBadge) ? null : rawBadge; // 生スラッグ(top-pick等)は非表示
                 const price = offer?.price;
                 const picksCount = a.offerIds.length;
                 const typeLabel = typeLabels[a.type] ?? a.type;
@@ -425,7 +427,7 @@ export default async function HomePage({ params }: Props) {
               <div>
                 <p className="mb-1 font-black text-slate-900 group-hover:text-indigo-700 transition-colors">{tt("home.compareTitle", "Head-to-head comparisons")}</p>
                 <p className="text-xs text-slate-500 leading-relaxed">
-                  {tt("home.compareMore", `${COMPARISONS.slice(0, 2).map((c) => c.title).join(" · ")} and ${COMPARISONS.length - 2} more`, { list: COMPARISONS.slice(0, 2).map((c) => c.title).join(" · "), count: COMPARISONS.length - 2 })}
+                  {tt("home.compareMore", `${COMPARISONS.slice(0, 2).map((c) => tt(`comparePages.${c.slug}.title`, c.title)).join(" · ")} and ${COMPARISONS.length - 2} more`, { list: COMPARISONS.slice(0, 2).map((c) => tt(`comparePages.${c.slug}.title`, c.title)).join(" · "), count: COMPARISONS.length - 2 })}
                 </p>
               </div>
             </Link>
@@ -443,7 +445,7 @@ export default async function HomePage({ params }: Props) {
               <div>
                 <p className="mb-1 font-black text-slate-900 group-hover:text-teal-700 transition-colors">{tt("home.tagsTitle", "Browse by tag")}</p>
                 <p className="text-xs text-slate-500 leading-relaxed">
-                  {tt("home.tagsMore", `${TAGS.slice(0, 4).map((x) => x.label).join(" · ")} and more`, { list: TAGS.slice(0, 4).map((x) => x.label).join(" · ") })}
+                  {tt("home.tagsMore", `${TAGS.slice(0, 4).map((x) => tt(`tagPages.${x.slug}.label`, x.label)).join(" · ")} and more`, { list: TAGS.slice(0, 4).map((x) => tt(`tagPages.${x.slug}.label`, x.label)).join(" · ") })}
                 </p>
               </div>
             </Link>

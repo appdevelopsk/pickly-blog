@@ -56,6 +56,9 @@ export default async function GiftPage({ params }: Props) {
   if (!config) notFound();
 
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const allArticles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
   const articleMap = new Map(allArticles.map((a) => [a.slug, a]));
@@ -116,9 +119,9 @@ export default async function GiftPage({ params }: Props) {
         <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">
           <Link href="/" className="hover:text-slate-600 transition-colors">{siteName}</Link>
           <span>/</span>
-          <Link href="/gifts" className="hover:text-slate-600 transition-colors">Gift guides</Link>
+          <Link href="/gifts" className="hover:text-slate-600 transition-colors">{tt("home.giftsTitle", "Gift guides")}</Link>
           <span>/</span>
-          <span className="text-slate-600 font-medium">{config.icon} {config.title.replace(" 2026","")}</span>
+          <span className="text-slate-600 font-medium">{config.icon} {tt(`giftPages.${occasionSlug}.title`, config.title).replace(" 2026","")}</span>
         </nav>
 
         {/* Hero */}
@@ -127,10 +130,10 @@ export default async function GiftPage({ params }: Props) {
             {config.icon} Gift guide
           </div>
           <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl lg:text-5xl">
-            {config.title}
+            {tt(`giftPages.${occasionSlug}.title`, config.title)}
           </h1>
           <p className="mt-4 max-w-2xl text-base text-slate-500 leading-relaxed">
-            {config.description}
+            {tt(`giftPages.${occasionSlug}.description`, config.description)}
           </p>
         </section>
 
@@ -175,10 +178,10 @@ export default async function GiftPage({ params }: Props) {
                       )}
                     </div>
                     <div className="flex flex-1 flex-col p-4">
-                      {offer?.badge && <p className="mb-1 text-[11px] font-semibold text-amber-600 truncate">🏆 {offer.badge}</p>}
+                      {offer?.badge && !/^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(offer.badge) && <p className="mb-1 text-[11px] font-semibold text-amber-600 truncate">🏆 {offer.badge}</p>}
                       <h2 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-2">{title}</h2>
                       {description && <p className="mt-1.5 flex-1 text-xs text-slate-400 line-clamp-2">{description}</p>}
-                      <p className="mt-3 text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">Read review →</p>
+                      <p className="mt-3 text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">{tt("home.readReview", "Read review →")}</p>
                     </div>
                   </Link>
                 );
@@ -218,12 +221,12 @@ export default async function GiftPage({ params }: Props) {
                         )}
                       </div>
                       <div className="flex flex-1 flex-col p-4">
-                        {offer?.badge && <p className="mb-1 text-[11px] font-semibold text-amber-600 truncate">🏆 {offer.badge}</p>}
+                        {offer?.badge && !/^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(offer.badge) && <p className="mb-1 text-[11px] font-semibold text-amber-600 truncate">🏆 {offer.badge}</p>}
                         <h3 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-2">{title}</h3>
                         {description && <p className="mt-1.5 flex-1 text-xs text-slate-400 line-clamp-2">{description}</p>}
                         <div className="mt-3 flex items-center justify-between">
-                          <span className="text-[11px] text-slate-400">{TYPE_LABELS[a.type] ?? a.type} · {a.offerIds.length} picks</span>
-                          <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">Read →</span>
+                          <span className="text-[11px] text-slate-400">{tt(`home.type${a.type.charAt(0).toUpperCase()}${a.type.slice(1)}`, TYPE_LABELS[a.type] ?? a.type)} · {tt("home.picks", `${a.offerIds.length} picks`, { count: a.offerIds.length })}</span>
+                          <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">{tt("home.read", "Read →")}</span>
                         </div>
                       </div>
                     </Link>

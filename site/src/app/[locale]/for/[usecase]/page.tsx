@@ -63,6 +63,9 @@ export default async function UseCasePage({ params }: Props) {
   if (!config) notFound();
 
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const allArticles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
   const keywords = config.slugKeywords ?? [];
@@ -105,7 +108,7 @@ export default async function UseCasePage({ params }: Props) {
         <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">
           <Link href="/" className="hover:text-slate-600 transition-colors">{siteName}</Link>
           <span>/</span>
-          <span className="text-slate-600 font-medium">{config.icon} {config.title}</span>
+          <span className="text-slate-600 font-medium">{config.icon} {tt(`usecasePages.${usecase}.title`, config.title)}</span>
         </nav>
 
         <section className="py-10 md:py-14">
@@ -113,10 +116,10 @@ export default async function UseCasePage({ params }: Props) {
             {config.icon} Curated for you
           </div>
           <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
-            {config.title}
+            {tt(`usecasePages.${usecase}.title`, config.title)}
           </h1>
           <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">
-            {config.description}
+            {tt(`usecasePages.${usecase}.description`, config.description)}
           </p>
         </section>
 
@@ -132,7 +135,7 @@ export default async function UseCasePage({ params }: Props) {
 
         {articles.length === 0 ? (
           <div className="rounded-2xl border border-slate-200 bg-slate-50 p-12 text-center">
-            <p className="font-semibold text-slate-700">No articles found for this use case yet.</p>
+            <p className="font-semibold text-slate-700">{tt("pages.noUsecaseArticles", "No articles found for this use case yet.")}</p>
           </div>
         ) : (
           <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
@@ -166,8 +169,8 @@ export default async function UseCasePage({ params }: Props) {
                       <h2 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-2">{title}</h2>
                       {description && <p className="mt-1.5 flex-1 text-xs text-slate-400 line-clamp-2">{description}</p>}
                       <div className="mt-3 flex items-center justify-between">
-                        <span className="text-[11px] text-slate-400">{TYPE_LABELS[a.type] ?? a.type} · {a.offerIds.length} picks</span>
-                        <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">Read →</span>
+                        <span className="text-[11px] text-slate-400">{tt(`home.type${a.type.charAt(0).toUpperCase()}${a.type.slice(1)}`, TYPE_LABELS[a.type] ?? a.type)} · {tt("home.picks", `${a.offerIds.length} picks`, { count: a.offerIds.length })}</span>
+                        <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">{tt("home.read", "Read →")}</span>
                       </div>
                     </div>
                   </Link>

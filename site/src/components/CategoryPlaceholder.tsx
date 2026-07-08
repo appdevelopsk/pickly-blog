@@ -1,3 +1,4 @@
+import { useTranslations } from "next-intl";
 import type { ArticleCategory } from "@/lib/articles/types";
 
 const CATEGORY_GRADIENTS: Partial<Record<ArticleCategory | string, { from: string; to: string }>> = {
@@ -33,6 +34,9 @@ interface Props {
 }
 
 export function CategoryPlaceholder({ category, title, className = "" }: Props) {
+  const t = useTranslations();
+  let catLabel: string = category;
+  try { catLabel = t(`category.${category}`); } catch { /* raw */ }
   const g = CATEGORY_GRADIENTS[category] ?? { from: "#475569", to: "#1e293b" };
   const icon = CATEGORY_ICONS[category] ?? "📋";
   return (
@@ -53,7 +57,7 @@ export function CategoryPlaceholder({ category, title, className = "" }: Props) 
       {/* Content */}
       <span className="relative mb-2 text-4xl drop-shadow-sm" aria-hidden="true">{icon}</span>
       <p className="relative mb-1.5 text-[10px] font-bold uppercase tracking-[0.2em] text-white/50">
-        {category}
+        {catLabel}
       </p>
       {title && (
         <p className="relative max-w-[80%] px-2 text-center text-sm font-bold leading-snug text-white/90 line-clamp-2">

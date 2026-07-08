@@ -1,3 +1,4 @@
+import { useTranslations } from "next-intl";
 import { Link } from "@/lib/i18n/navigation";
 import { COMPARISONS } from "@/lib/pages/compare-config";
 import { TAGS } from "@/lib/pages/tag-config";
@@ -10,6 +11,11 @@ interface Props {
 }
 
 export function ArticleCrossLinks({ slug, category }: Props) {
+  const t = useTranslations();
+  // config英語へのフォールバック付きローカライズ(キー欠落ロケールでも壊れない)
+  const tt = (key: string, fallback: string): string => {
+    try { return t(key); } catch { return fallback; }
+  };
   // Find a comparison that involves this article
   const relatedCompare = COMPARISONS.find(
     (c) => c.slugA === slug || c.slugB === slug
@@ -34,9 +40,9 @@ export function ArticleCrossLinks({ slug, category }: Props) {
         >
           <span className="shrink-0 text-2xl" aria-hidden>⚖️</span>
           <div className="flex-1 min-w-0">
-            <p className="text-xs font-bold text-indigo-500 uppercase tracking-wide mb-0.5">Head-to-head</p>
+            <p className="text-xs font-bold text-indigo-500 uppercase tracking-wide mb-0.5">{tt("crossLinks.headToHead", "Head-to-head")}</p>
             <p className="text-sm font-black text-slate-900 group-hover:text-indigo-700 transition-colors truncate">
-              {relatedCompare.title}
+              {tt(`comparePages.${relatedCompare.slug}.title`, relatedCompare.title)}
             </p>
           </div>
           <span className="shrink-0 text-xs font-bold text-indigo-600 group-hover:underline">Compare →</span>
@@ -52,7 +58,7 @@ export function ArticleCrossLinks({ slug, category }: Props) {
               href={`/tag/${tag.slug}`}
               className="flex items-center gap-1.5 rounded-full border border-teal-200 bg-teal-50 px-3.5 py-1.5 text-xs font-bold text-teal-700 hover:border-teal-400 hover:bg-teal-100 transition-colors"
             >
-              {tag.icon} {tag.label}
+              {tag.icon} {tt(`tagPages.${tag.slug}.label`, tag.label)}
             </Link>
           ))}
           <Link
@@ -72,12 +78,12 @@ export function ArticleCrossLinks({ slug, category }: Props) {
         >
           <span className="shrink-0 text-2xl" aria-hidden>{relatedSale.icon}</span>
           <div className="flex-1 min-w-0">
-            <p className="text-xs font-bold text-orange-500 uppercase tracking-wide mb-0.5">Sale guide</p>
+            <p className="text-xs font-bold text-orange-500 uppercase tracking-wide mb-0.5">{tt("crossLinks.saleGuide", "Sale guide")}</p>
             <p className="text-sm font-black text-slate-900 group-hover:text-orange-700 transition-colors truncate">
-              {relatedSale.title}
+              {tt(`salePages.${relatedSale.slug}.title`, relatedSale.title)}
             </p>
           </div>
-          <span className="shrink-0 text-xs font-bold text-orange-600 group-hover:underline">See deals →</span>
+          <span className="shrink-0 text-xs font-bold text-orange-600 group-hover:underline">{tt("crossLinks.seeDeals", "See deals →")}</span>
         </Link>
       )}
     </div>

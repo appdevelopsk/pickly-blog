@@ -38,6 +38,9 @@ export default async function ComparePage({ params }: Props) {
   if (!config) notFound();
 
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const allArticles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
   const articleMap = new Map(allArticles.map((a) => [a.slug, a]));
@@ -92,9 +95,9 @@ export default async function ComparePage({ params }: Props) {
             ⚖️ Head-to-head
           </div>
           <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
-            {config.title}
+            {tt(`comparePages.${pair}.title`, config.title)}
           </h1>
-          <p className="mt-3 max-w-2xl text-base text-slate-500 leading-relaxed">{config.description}</p>
+          <p className="mt-3 max-w-2xl text-base text-slate-500 leading-relaxed">{tt(`comparePages.${pair}.description`, config.description)}</p>
         </section>
 
         {/* Side-by-side hero */}
@@ -123,7 +126,7 @@ export default async function ComparePage({ params }: Props) {
                   <h2 className="mb-2 text-base font-black leading-snug text-slate-900 group-hover:text-brand-700 transition-colors">{meta.title}</h2>
                   {meta.description && <p className="flex-1 text-sm text-slate-500 leading-relaxed line-clamp-3">{meta.description}</p>}
                   <div className="mt-4 flex items-center justify-between">
-                    <span className="text-xs text-slate-400">{art.offerIds.length} picks reviewed</span>
+                    <span className="text-xs text-slate-400">{tt("pages.picksReviewed", `${art.offerIds.length} picks reviewed`, { count: art.offerIds.length })}</span>
                     <span className="text-xs font-semibold text-brand-600 group-hover:underline">Full review →</span>
                   </div>
                 </div>

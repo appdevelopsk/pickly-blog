@@ -265,5 +265,355 @@
     "under100": "Di bawah $100",
     "brands": "Merek",
     "search": "Cari"
+  },
+  "tagPages": {
+    "wireless": {
+      "label": "Nirkabel",
+      "description": "Bebas tanpa kabel — headphone, charger, keyboard, speaker, dan perangkat rumah nirkabel terbaik."
+    },
+    "smart-home": {
+      "label": "Smart Home",
+      "description": "Kontrol suara, terhubung aplikasi, dan serba otomatis — perangkat smart home terbaik untuk 2026."
+    },
+    "beginner-friendly": {
+      "label": "Ramah Pemula",
+      "description": "Mudah untuk memulai dan tetap memadai seiring waktu — produk terbaik untuk yang baru memulai."
+    },
+    "compact": {
+      "label": "Ringkas & Hemat Tempat",
+      "description": "Ukuran kecil, fungsi lengkap — peralatan, gadget, dan perlengkapan ringkas terbaik untuk ruang sempit."
+    },
+    "eco-friendly": {
+      "label": "Ramah Lingkungan",
+      "description": "Dibuat secara berkelanjutan, tahan lama, dan minim limbah — produk ramah lingkungan terbaik."
+    },
+    "cordless": {
+      "label": "Tanpa Kabel",
+      "description": "Kebebasan bertenaga baterai untuk rumah Anda — vacuum, bor, dan peralatan tanpa kabel terbaik."
+    },
+    "ergonomic": {
+      "label": "Ergonomis",
+      "description": "Dirancang untuk tubuh Anda — kursi, keyboard, mouse, dan alat kesehatan ergonomis terbaik."
+    },
+    "budget": {
+      "label": "Pilihan Hemat",
+      "description": "Nilai maksimal untuk setiap rupiah — produk terbaik yang performanya melebihi harganya."
+    },
+    "premium": {
+      "label": "Premium",
+      "description": "Yang terbaik dari yang terbaik — produk premium yang harga lebihnya benar-benar sepadan."
+    },
+    "travel-friendly": {
+      "label": "Ramah Perjalanan",
+      "description": "Ringkas, awet, dan lolos pemeriksaan bandara — produk terbaik yang dibuat untuk bepergian."
+    },
+    "gifting": {
+      "label": "Untuk Hadiah",
+      "description": "Pilihan yang disukai semua orang dan berkesan — untuk ulang tahun, hari jadi, hari raya, dan lainnya."
+    },
+    "work-from-home": {
+      "label": "Kerja dari Rumah",
+      "description": "Semua yang Anda butuhkan untuk kantor rumah yang produktif — kursi, monitor, keyboard, pencahayaan, dan alat bantu fokus."
+    },
+    "gym-workout": {
+      "label": "Gym & Latihan",
+      "description": "Perlengkapan yang memberi hasil — alat, suplemen, dan pakaian terbaik untuk latihan serius."
+    },
+    "outdoor-sports": {
+      "label": "Outdoor & Olahraga",
+      "description": "Tahan segala cuaca — trekking pole, perlengkapan lari, jaket tahan air, dan perlengkapan petualangan."
+    },
+    "cooking-kitchen": {
+      "label": "Masak & Dapur",
+      "description": "Tingkatkan level dapur Anda — peralatan masak, gadget, pisau, dan alat dapur yang benar-benar terpakai."
+    },
+    "skincare-beauty": {
+      "label": "Skincare & Kecantikan",
+      "description": "Berbasis sains dan disetujui editor — serum, pelembap, dan alat kecantikan terbaik."
+    },
+    "better-sleep": {
+      "label": "Tidur Lebih Nyenyak",
+      "description": "Optimalkan istirahat Anda — bantal, kasur, selimut berpemberat, dan aksesori tidur terbaik."
+    },
+    "for-pets": {
+      "label": "Untuk Hewan Peliharaan",
+      "description": "Camilan, mainan, dan kebutuhan yang akan disukai peliharaan Anda — perlengkapan terbaik untuk anjing, kucing, dan lainnya."
+    },
+    "for-parents": {
+      "label": "Untuk Orang Tua",
+      "description": "Perlengkapan bayi yang bisa dipercaya — car seat, gendongan, kebutuhan menyusui, dan solusi tidur."
+    },
+    "health-wellness": {
+      "label": "Kesehatan & Kebugaran",
+      "description": "Produk pendukung kesehatan jangka panjang — suplemen, alat pemulihan, dan kebiasaan sehat."
+    },
+    "home-organization": {
+      "label": "Penataan Rumah",
+      "description": "Rapikan dan sederhanakan — solusi penyimpanan, organizer, dan sistem yang benar-benar berhasil."
+    }
+  },
+  "salePages": {
+    "prime-day": {
+      "title": "Promo Amazon Prime Day 2026",
+      "description": "Produk terbaik untuk dibeli saat Prime Day — pilihan teknologi, rumah, kebugaran, dan kecantikan yang layak dibeli bahkan dengan harga penuh."
+    },
+    "black-friday": {
+      "title": "Promo Black Friday 2026",
+      "description": "Pilihan Black Friday yang layak dibeli — produk teruji di setiap kategori dengan diskon yang benar-benar berarti."
+    },
+    "cyber-monday": {
+      "title": "Promo Cyber Monday 2026",
+      "description": "Promo Cyber Monday terbaik untuk teknologi, software, dan elektronik — produk yang sudah kami uji dan rekomendasikan berapa pun harganya."
+    },
+    "mothers-day-deals": {
+      "title": "Pilihan Promo Hari Ibu 2026",
+      "description": "Produk kecantikan, kebugaran, rumah, dan makanan yang cocok jadi hadiah Hari Ibu — dan sering diskon di bulan Mei."
+    },
+    "holiday-deals": {
+      "title": "Pilihan Promo Musim Liburan 2026",
+      "description": "Promo liburan terbaik di semua kategori — produk yang layak dibeli selama musim diskon November–Desember."
+    }
+  },
+  "comparePages": {
+    "air-fryer-vs-instant-pot": {
+      "title": "Air Fryer vs Instant Pot",
+      "description": "Multi-cooker mana yang unggul untuk masakan sehari-hari? Kami membandingkan air fryer dan Instant Pot terbaik dari sisi kecepatan, keserbagunaan, dan nilai."
+    },
+    "robot-vacuum-vs-stick-vacuum": {
+      "title": "Robot Vacuum vs Stick Vacuum",
+      "description": "Kepraktisan otomatis vs kontrol penuh di tangan — tipe vacuum mana yang cocok dengan gaya bersih-bersih dan rumah Anda?"
+    },
+    "espresso-machine-vs-drip-coffee": {
+      "title": "Mesin Espresso vs Drip Coffee Maker",
+      "description": "Espresso ala barista di rumah vs kopi drip andalan harian — setup kopi mana yang tepat untuk Anda?"
+    },
+    "treadmill-vs-stationary-bike": {
+      "title": "Treadmill vs Sepeda Statis",
+      "description": "Lari di rumah vs bersepeda indoor — kami membandingkan treadmill dan sepeda olahraga terbaik untuk kardio, sendi, dan ruang."
+    },
+    "noise-cancelling-vs-open-back-headphones": {
+      "title": "Headphone Noise-Cancelling vs Open-Back",
+      "description": "Isolasi dan portabilitas vs soundstage dan akurasi — tipe headphone mana yang cocok dengan gaya mendengarkan Anda?"
+    },
+    "standing-desk-vs-ergonomic-chair": {
+      "title": "Standing Desk vs Kursi Ergonomis",
+      "description": "Lebih banyak berdiri vs duduk lebih baik — upgrade kantor rumah mana yang lebih berharga untuk punggung dan produktivitas Anda?"
+    },
+    "protein-powder-vs-protein-bars": {
+      "title": "Protein Bubuk vs Protein Bar",
+      "description": "Diseduh atau langsung dibuka — membandingkan protein bubuk dan protein bar terbaik dari sisi kepraktisan, rasa, dan nutrisi."
+    },
+    "yoga-mat-vs-foam-roller": {
+      "title": "Matras Yoga vs Foam Roller",
+      "description": "Fleksibilitas dan kekuatan vs pemulihan dan mobilitas — membandingkan aksesori fitness lantai paling serbaguna."
+    },
+    "smart-watch-vs-fitness-tracker": {
+      "title": "Smartwatch vs Fitness Tracker",
+      "description": "Fitur pintar lengkap vs pelacakan kesehatan yang fokus — perangkat pergelangan mana yang sesuai tujuan dan gaya hidup Anda?"
+    },
+    "blender-vs-food-processor": {
+      "title": "Blender vs Food Processor",
+      "description": "Smoothie dan sup vs mencacah dan menguleni — Anda butuh blender, food processor, atau keduanya?"
+    },
+    "air-purifier-vs-humidifier": {
+      "title": "Air Purifier vs Humidifier",
+      "description": "Membersihkan udara vs menambah kelembapan — perangkat mana yang menyelesaikan masalah kualitas udara di rumah Anda?"
+    },
+    "massage-gun-vs-foam-roller": {
+      "title": "Massage Gun vs Foam Roller",
+      "description": "Terapi perkusi vs pelepasan miofasial manual — alat pemulihan mana yang layak masuk rutinitas Anda?"
+    }
+  },
+  "giftPages": {
+    "christmas": {
+      "title": "Ide Kado Natal 2026",
+      "description": "Pilihan kado teruji di setiap kategori — ada sesuatu untuk semua orang di daftar Anda."
+    },
+    "mothers-day": {
+      "title": "Ide Kado Hari Ibu 2026",
+      "description": "Kado penuh perhatian dan teruji untuk ibu — pilihan kecantikan, rumah, kebugaran, dan makanan yang pasti disukainya."
+    },
+    "fathers-day": {
+      "title": "Ide Kado Hari Ayah 2026",
+      "description": "Kado praktis dan teruji untuk ayah — pilihan teknologi, kebugaran, dapur, dan outdoor."
+    },
+    "graduation": {
+      "title": "Ide Kado Kelulusan 2026",
+      "description": "Kado untuk lulusan baru yang memulai babak berikutnya — kebutuhan teknologi, fashion, dan finansial."
+    },
+    "valentines": {
+      "title": "Ide Kado Hari Valentine 2026",
+      "description": "Pilihan kado romantis dan personal — kecantikan, makanan, fashion, dan rumah."
+    },
+    "housewarming": {
+      "title": "Ide Kado Rumah Baru 2026",
+      "description": "Kado berguna dan berkualitas untuk rumah baru — peralatan dapur, dekorasi rumah, dan teknologi pintar."
+    },
+    "birthday": {
+      "title": "Ide Kado Ulang Tahun 2026",
+      "description": "Kado ulang tahun yang disukai semua orang untuk setiap minat — teruji dan diperingkat."
+    },
+    "baby-shower": {
+      "title": "Ide Kado Baby Shower 2026",
+      "description": "Kado bayi praktis dan teruji keamanannya yang benar-benar akan dipakai orang tua baru."
+    },
+    "anniversary": {
+      "title": "Ide Kado Anniversary 2026",
+      "description": "Kado anniversary yang bermakna — pilihan kecantikan, rumah, fashion, dan makanan untuk setiap momen penting."
+    },
+    "back-to-school": {
+      "title": "Perlengkapan Kembali ke Sekolah 2026",
+      "description": "Pilihan teknologi, rumah, kebugaran, dan fashion untuk pelajar yang kembali bersekolah di 2026."
+    }
+  },
+  "brandPages": {
+    "nike": {
+      "description": "Sepatu performa, pakaian, dan peralatan olahraga."
+    },
+    "adidas": {
+      "description": "Sepatu atletik, pakaian, dan perlengkapan olahraga."
+    },
+    "dyson": {
+      "description": "Peralatan rumah premium — vacuum, air purifier, perawatan rambut."
+    },
+    "philips": {
+      "description": "Elektronik, alat grooming, dan produk kesehatan."
+    },
+    "anker": {
+      "description": "Produk pengisian daya, audio, dan daya portabel."
+    },
+    "apple": {
+      "description": "iPhone, AirPods, Apple Watch, dan aksesori Mac."
+    },
+    "kitchenaid": {
+      "description": "Stand mixer, blender, dan peralatan dapur."
+    },
+    "garmin": {
+      "description": "Fitness tracker GPS, smartwatch, dan perangkat navigasi."
+    },
+    "breville": {
+      "description": "Peralatan dapur premium — mesin espresso, air fryer."
+    },
+    "nespresso": {
+      "description": "Mesin kopi kapsul dan sistem espresso."
+    },
+    "panasonic": {
+      "description": "Elektronik konsumen, peralatan rumah, dan alat grooming."
+    },
+    "cuisinart": {
+      "description": "Peralatan dapur — food processor, coffee maker, dan lainnya."
+    },
+    "rogue": {
+      "description": "Alat fitness kelas profesional — barbell, rack, plate."
+    },
+    "bowflex": {
+      "description": "Dumbbell adjustable, home gym, dan alat kardio."
+    },
+    "oxo": {
+      "description": "Alat dapur dan penyimpanan yang dirancang untuk pemakaian sehari-hari."
+    },
+    "lodge": {
+      "description": "Peralatan masak dan wajan cast iron buatan Amerika Serikat."
+    },
+    "hario": {
+      "description": "Peralatan seduh kopi Jepang — V60, ketel, timbangan."
+    }
+  },
+  "usecasePages": {
+    "home-office": {
+      "title": "Setup Home Office Terbaik 2026",
+      "description": "Semua yang dibutuhkan untuk membangun kantor rumah yang produktif — monitor, kursi, keyboard, pencahayaan, dan lainnya."
+    },
+    "college-students": {
+      "title": "Produk Terbaik untuk Mahasiswa 2026",
+      "description": "Pilihan hemat untuk kehidupan kos dan asrama — teknologi, perlengkapan dapur, alat kebugaran, dan fashion dasar."
+    },
+    "travelers": {
+      "title": "Perlengkapan Travel Terbaik 2026",
+      "description": "Perlengkapan teruji untuk segala jenis perjalanan — koper, teknologi, kebugaran, dan fashion yang benar-benar nyaman dibawa."
+    },
+    "fitness-beginners": {
+      "title": "Alat Fitness Terbaik untuk Pemula 2026",
+      "description": "Pilihan fitness yang tidak bikin bingung untuk yang baru mulai — alat, nutrisi, dan alat pelacak."
+    },
+    "small-apartments": {
+      "title": "Produk Terbaik untuk Apartemen Kecil 2026",
+      "description": "Pilihan ringkas dan hemat tempat untuk hunian kecil — peralatan multifungsi, penyimpanan cerdas, dan teknologi pintar."
+    },
+    "pet-owners": {
+      "title": "Produk Terbaik untuk Pemilik Hewan Peliharaan 2026",
+      "description": "Semua kebutuhan peliharaan Anda — pilihan makanan, kesehatan, kenyamanan, dan mainan yang diuji pada hewan sungguhan."
+    },
+    "new-parents": {
+      "title": "Produk Terbaik untuk Orang Tua Baru 2026",
+      "description": "Pilihan wajib untuk tahun pertama — perlengkapan keselamatan, alat bantu tidur, kebutuhan menyusui, dan penyelamat di masa sibuk."
+    },
+    "remote-workers": {
+      "title": "Produk Terbaik untuk Pekerja Remote 2026",
+      "description": "Pilihan produktivitas dan kenyamanan untuk gaya hidup remote penuh waktu — dari ergonomi hingga konektivitas."
+    }
+  },
+  "pages": {
+    "rankingTitle": "Peringkat",
+    "rankingSub": "Yang terbaik di setiap kategori",
+    "rankingDesc": "Pilihan teratas diperingkat berdasarkan kedalaman perbandingan — {reviews} ulasan di {categories} kategori.",
+    "picksCompared": "{count} pilihan dibandingkan",
+    "moreCount": "+{count} lagi",
+    "browseAll": "Jelajahi semua",
+    "newTitle": "Baru bulan ini",
+    "newDesc": "Ulasan dan perbandingan yang baru terbit — total {count} di {categories} kategori.",
+    "thisWeek": "Minggu ini",
+    "thisMonth": "Bulan ini",
+    "bestofSub": "Produk terbaik 2026",
+    "all": "Semua",
+    "no1Pick": "Pilihan #1",
+    "fromPrice": "mulai {price}",
+    "popularTitle": "Populer",
+    "popularSub": "Ulasan terpopuler",
+    "purposeHeading": "Jelajahi Berdasarkan Kebutuhan",
+    "purposeLead": "Bingung mulai dari mana? Temukan produk yang tepat sesuai kebutuhan Anda.",
+    "otherFilters": "Jelajahi dengan filter lain",
+    "tagsHeading": "Jelajahi Berdasarkan Tag",
+    "compareHeading": "Bandingkan Produk",
+    "giftsSub": "Ide kado untuk setiap momen",
+    "brandsSub": "Ulasan per merek",
+    "reviewsCount": "{count} ulasan",
+    "seeArrow": "Lihat →",
+    "searchHeading": "Cari ulasan",
+    "searchDesc": "{count} ulasan di {categories} kategori — temukan yang Anda cari.",
+    "searchEmpty": "Menampilkan ulasan terbaru — mulai ketik untuk mencari",
+    "otherEvents": "Acara lainnya:",
+    "articlesStats": "{count} ulasan & perbandingan · {categories} kategori",
+    "latestBadge": "Ulasan terbaru",
+    "annualGuide": "Panduan tahunan",
+    "editorsPicks": "Pilihan editor",
+    "bestofLead": "Pilihan terbaik kami yang telah diuji di seluruh 10 kategori — diperbarui seiring peluncuran produk baru dan perubahan peringkat sepanjang 2026.",
+    "allCatReviews": "Semua ulasan {cat} →",
+    "moreCatReviews": "+{count} ulasan {cat} lainnya →",
+    "browseAllReviews": "Jelajahi semua {count} ulasan →",
+    "tagsLead": "Temukan produk berdasarkan gaya, kebutuhan, atau fitur — dari nirkabel hingga ramah lingkungan, dari hemat hingga premium.",
+    "browseTag": "Jelajahi {tag} →",
+    "seeRecs": "Lihat rekomendasi →",
+    "compareLead": "Bingung memilih? Perbandingan berdampingan kami membantu Anda memilih produk yang tepat tanpa menebak-nebak.",
+    "compareNow": "Bandingkan sekarang →",
+    "bestTagProducts": "Produk {tag} terbaik 2026",
+    "noTagArticles": "Belum ada artikel untuk tag ini.",
+    "viewAll": "Lihat semua →",
+    "seeBrandReviews": "Lihat ulasan {brand} →",
+    "brandBadge": "Ulasan merek",
+    "noResults": "Tidak ada hasil untuk \"{query}\"",
+    "resultsFor": "{count} hasil untuk \"{query}\"",
+    "picksReviewed": "{count} pilihan telah diulas",
+    "bestBrandProducts": "Produk {brand} terbaik 2026",
+    "brandStats": "{products} produk {brand} diulas · {articles} artikel perbandingan",
+    "brandTested": "Kami telah menguji produk {brand} di berbagai kategori untuk menemukan mana yang layak dibeli.",
+    "noBudgetResults": "Belum ada hasil di rentang anggaran ini.",
+    "noUsecaseArticles": "Belum ada artikel untuk kebutuhan ini."
+  },
+  "crossLinks": {
+    "headToHead": "Adu langsung",
+    "saleGuide": "Panduan promo",
+    "moreTags": "Tag lainnya →",
+    "seeDeals": "Lihat penawaran →"
   }
 }

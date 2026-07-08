@@ -38,7 +38,7 @@ export function SiteFooter() {
                 RSS
               </Link>
               <Link href="/author" className="flex items-center gap-1 rounded-full border border-slate-700 px-3 py-1 text-slate-400 hover:border-slate-400 hover:text-slate-200 transition-colors">
-                About us
+                {t("nav.about")}
               </Link>
             </div>
           </div>

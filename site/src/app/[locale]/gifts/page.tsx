@@ -15,6 +15,9 @@ export default async function GiftsIndexPage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   let siteName = "Pickly";
   try { siteName = t("site.name"); } catch { /* missing */ }
@@ -24,15 +27,15 @@ export default async function GiftsIndexPage({ params }: Props) {
       <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">
         <Link href="/" className="hover:text-slate-600 transition-colors">{siteName}</Link>
         <span>/</span>
-        <span className="text-slate-600 font-medium">Gift guides</span>
+        <span className="text-slate-600 font-medium">{tt("home.giftsTitle", "Gift guides")}</span>
       </nav>
 
       <section className="py-10 md:py-14">
         <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-rose-50 border border-rose-200 px-4 py-1.5 text-xs font-bold text-rose-700">
-          🎁 Gift guides
+          🎁 {tt("home.giftsTitle", "Gift guides")}
         </div>
         <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
-          Gift ideas for every occasion
+          {tt("pages.giftsSub", "Gift ideas for every occasion")}
         </h1>
         <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">
           Tested, honest gift picks for every occasion — Christmas, birthdays, Mother's Day, and more. No filler, no sponsored placements.
@@ -48,10 +51,10 @@ export default async function GiftsIndexPage({ params }: Props) {
           >
             <span className="mb-3 text-3xl" aria-hidden>{o.icon}</span>
             <h2 className="mb-2 text-base font-black text-slate-900 group-hover:text-brand-700 transition-colors">
-              {o.title}
+              {tt(`giftPages.${o.slug}.title`, o.title)}
             </h2>
             <p className="flex-1 text-sm text-slate-400 leading-relaxed line-clamp-2">
-              {o.description}
+              {tt(`giftPages.${o.slug}.description`, o.description)}
             </p>
             <p className="mt-4 text-sm font-semibold text-rose-600 opacity-0 group-hover:opacity-100 transition-opacity">
               See picks →

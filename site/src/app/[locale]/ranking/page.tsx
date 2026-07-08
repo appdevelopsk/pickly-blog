@@ -44,6 +44,9 @@ export default async function RankingPage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const allArticles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
 
@@ -93,19 +96,19 @@ export default async function RankingPage({ params }: Props) {
         <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400" aria-label="breadcrumb">
           <Link href="/" className="hover:text-slate-600 transition-colors">{t("site.name")}</Link>
           <span>/</span>
-          <span className="text-slate-600 font-medium">Rankings</span>
+          <span className="text-slate-600 font-medium">{tt("pages.rankingTitle", "Rankings")}</span>
         </nav>
 
         {/* Hero */}
         <section className="py-10 md:py-14">
           <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-brand-50 border border-brand-200 px-4 py-1.5 text-xs font-bold text-brand-700">
-            🏆 Rankings
+            🏆 {tt("pages.rankingTitle", "Rankings")}
           </div>
           <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
-            Best of every category
+            {tt("pages.rankingSub", "Best of every category")}
           </h1>
           <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">
-            Top picks ranked by depth of comparison — {allArticles.length} reviews across {CATEGORY_ORDER.filter(c => byCategory[c]?.length).length} categories.
+            {tt("pages.rankingDesc", `Top picks ranked by depth of comparison — ${allArticles.length} reviews across ${CATEGORY_ORDER.filter(c => byCategory[c]?.length).length} categories.`, { reviews: allArticles.length, categories: CATEGORY_ORDER.filter(c => byCategory[c]?.length).length })}
           </p>
         </section>
 
@@ -133,7 +136,7 @@ export default async function RankingPage({ params }: Props) {
                     href={`/category/${cat}`}
                     className="text-xs font-semibold text-brand-600 hover:text-brand-700 transition-colors"
                   >
-                    View all →
+                    {tt("pages.viewAll", "View all →")}
                   </Link>
                 </div>
 
@@ -173,10 +176,10 @@ export default async function RankingPage({ params }: Props) {
                           )}
                           <div className="mt-3 flex items-center justify-between">
                             <span className="text-[10px] text-slate-400 font-medium">
-                              {a.offerIds.length} picks compared
+                              {tt("pages.picksCompared", `${a.offerIds.length} picks compared`, { count: a.offerIds.length })}
                             </span>
                             <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">
-                              Read →
+                              {tt("home.read", "Read →")}
                             </span>
                           </div>
                         </div>
@@ -214,7 +217,7 @@ export default async function RankingPage({ params }: Props) {
                               <p className="text-sm font-bold text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-1">
                                 {title}
                               </p>
-                              <p className="text-[10px] text-slate-400 mt-0.5">{a.offerIds.length} picks</p>
+                              <p className="text-[10px] text-slate-400 mt-0.5">{tt("home.picks", `${a.offerIds.length} picks`, { count: a.offerIds.length })}</p>
                             </div>
                             <span className="shrink-0 text-xs font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">→</span>
                           </Link>
@@ -227,7 +230,7 @@ export default async function RankingPage({ params }: Props) {
                           href={`/category/${cat}`}
                           className="flex items-center justify-center px-4 py-3 text-xs font-semibold text-brand-600 hover:bg-brand-50 transition-colors"
                         >
-                          +{articles.length - 6} more {catLabel} reviews →
+                          {tt("pages.moreCatReviews", `+${articles.length - 6} more ${catLabel} reviews →`, { count: articles.length - 6, cat: catLabel })}
                         </Link>
                       </li>
                     )}
@@ -244,7 +247,7 @@ export default async function RankingPage({ params }: Props) {
             href="/articles"
             className="inline-flex items-center gap-2 rounded-full border-2 border-brand-600 px-8 py-3 text-sm font-bold text-brand-600 transition-all hover:bg-brand-600 hover:text-white"
           >
-            Browse all {allArticles.length} reviews →
+            {tt("pages.browseAllReviews", `Browse all ${allArticles.length} reviews →`, { count: allArticles.length })}
           </Link>
         </div>
       </div>

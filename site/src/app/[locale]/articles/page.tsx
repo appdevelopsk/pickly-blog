@@ -71,12 +71,13 @@ function getThumbnail(article: ArticleMeta, locale: string): string | null {
 }
 
 function ArticleCard({
-  article,
+  tt, article,
   locale,
   title,
   description,
   catLabel,
 }: {
+  tt: (key: string, fallback: string, values?: Record<string, string | number>) => string;
   article: ArticleMeta;
   locale: string;
   title: string;
@@ -87,7 +88,8 @@ function ArticleCard({
   const imgSrc = getThumbnail(article, locale);
   const isProductImg = imgSrc && !imgSrc.includes("/og/");
   const offer = getFirstOffer(article);
-  const badge = offer?.badge;
+  const rawBadge = offer?.badge;
+  const badge = rawBadge && /^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(rawBadge) ? null : rawBadge;
   const price = offer?.price;
   const newArticle = isNew(article);
   const typeLabel = TYPE_LABELS[article.type] ?? article.type;
@@ -136,7 +138,7 @@ function ArticleCard({
           <p className="mt-1.5 flex-1 text-xs leading-relaxed text-slate-500 line-clamp-2">{description}</p>
         )}
         <div className="mt-3 flex items-center justify-between">
-          <span className="text-[11px] text-slate-500">{typeLabel} · {picksCount} picks</span>
+          <span className="text-[11px] text-slate-500">{tt(`home.type${article.type.charAt(0).toUpperCase()}${article.type.slice(1)}`, typeLabel)} · {tt("home.picks", `${picksCount} picks`, { count: picksCount })}</span>
           <span className="text-[11px] font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">Read →</span>
         </div>
       </div>
@@ -148,6 +150,9 @@ export default async function ArticlesPage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
   const articles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
 
   const byCategory = articles.reduce<Record<string, typeof articles>>(
@@ -169,7 +174,7 @@ export default async function ArticlesPage({ params }: Props) {
       <div className="mb-8">
         <h1 className="text-3xl font-black text-slate-900 mb-2">{pageTitle}</h1>
         <p className="text-slate-500">
-          {articles.length} reviews &amp; comparisons · {sortedCategories.length} categories
+          {tt("pages.articlesStats", `${articles.length} reviews & comparisons · ${sortedCategories.length} categories`, { count: articles.length, categories: sortedCategories.length })}
         </p>
       </div>
 
@@ -212,7 +217,7 @@ export default async function ArticlesPage({ params }: Props) {
                 try { description = t(`articles.${a.slug}.description`); } catch { /* missing */ }
                 return (
                   <li key={a.slug}>
-                    <ArticleCard
+                    <ArticleCard tt={tt}
                       article={a}
                       locale={locale}
                       title={title}

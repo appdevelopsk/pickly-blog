@@ -265,5 +265,355 @@
     "under100": "$100 altı",
     "brands": "Markalar",
     "search": "Ara"
+  },
+  "tagPages": {
+    "wireless": {
+      "label": "Kablosuz",
+      "description": "Kablosuz özgürlük — en iyi kablosuz kulaklıklar, şarj cihazları, klavyeler, hoparlörler ve ev cihazları."
+    },
+    "smart-home": {
+      "label": "Akıllı Ev",
+      "description": "Sesle kontrol, uygulama bağlantısı ve otomasyon — 2026'nın en iyi akıllı ev cihazları."
+    },
+    "beginner-friendly": {
+      "label": "Yeni Başlayanlara Uygun",
+      "description": "Başlaması kolay, uzun süre yeten — işe yeni başlayanlar için en iyi ürünler."
+    },
+    "compact": {
+      "label": "Kompakt ve Yerden Tasarruflu",
+      "description": "Küçük boyut, tam işlev — dar alanlar için en iyi kompakt ev aletleri, cihazlar ve ekipmanlar."
+    },
+    "eco-friendly": {
+      "label": "Çevre Dostu",
+      "description": "Sürdürülebilir üretim, uzun ömür ve az atık — çevreye duyarlı en iyi ürünler."
+    },
+    "cordless": {
+      "label": "Şarjlı",
+      "description": "Evinizde pil gücüyle özgürlük — en iyi şarjlı süpürgeler, matkaplar ve ev aletleri."
+    },
+    "ergonomic": {
+      "label": "Ergonomik",
+      "description": "Vücudunuza göre tasarlandı — en iyi ergonomik sandalyeler, klavyeler, fareler ve sağlıklı yaşam ürünleri."
+    },
+    "budget": {
+      "label": "Bütçe Dostu Seçimler",
+      "description": "Her kuruşun karşılığı — fiyat etiketinin ötesinde performans sunan en iyi ürünler."
+    },
+    "premium": {
+      "label": "Premium",
+      "description": "İyilerin en iyisi — fazladan ödemeye gerçekten değen premium ürünler."
+    },
+    "travel-friendly": {
+      "label": "Seyahate Uygun",
+      "description": "Kompakt, dayanıklı ve havalimanı güvenlik kurallarına uygun — seyahat için üretilmiş en iyi ürünler."
+    },
+    "gifting": {
+      "label": "Hediyelik",
+      "description": "Herkesin beğeneceği, akılda kalan seçimler — doğum günleri, yıl dönümleri, bayramlar ve daha fazlası için."
+    },
+    "work-from-home": {
+      "label": "Evden Çalışma",
+      "description": "Verimli bir ev ofisi için gereken her şey — sandalyeler, monitörler, klavyeler, aydınlatma ve odak araçları."
+    },
+    "gym-workout": {
+      "label": "Spor Salonu ve Antrenman",
+      "description": "Sonuç getiren ekipmanlar — ciddi antrenman için en iyi aletler, takviyeler ve giyim."
+    },
+    "outdoor-sports": {
+      "label": "Outdoor ve Spor",
+      "description": "Doğa koşullarına dayanıklı — trekking batonları, koşu ekipmanları, su geçirmez katmanlar ve macera temelleri."
+    },
+    "cooking-kitchen": {
+      "label": "Yemek ve Mutfak",
+      "description": "Mutfağınızı bir üst seviyeye taşıyın — gerçekten kullanılan tencereler, aletler, bıçaklar ve cihazlar."
+    },
+    "skincare-beauty": {
+      "label": "Cilt Bakımı ve Güzellik",
+      "description": "Bilimsel temelli ve editör onaylı — en iyi serumlar, nemlendiriciler ve güzellik aletleri."
+    },
+    "better-sleep": {
+      "label": "Daha İyi Uyku",
+      "description": "Dinlenmenizi optimize edin — en iyi yastıklar, yataklar, ağırlıklı battaniyeler ve uyku aksesuarları."
+    },
+    "for-pets": {
+      "label": "Evcil Hayvanlar İçin",
+      "description": "Dostunuzun bayılacağı ödüller, oyuncaklar ve temel ihtiyaçlar — köpekler, kediler ve daha fazlası için en iyi ürünler."
+    },
+    "for-parents": {
+      "label": "Ebeveynler İçin",
+      "description": "Güvenebileceğiniz bebek ürünleri — oto koltukları, kanguru taşıyıcılar, beslenme temelleri ve uyku çözümleri."
+    },
+    "health-wellness": {
+      "label": "Sağlık ve Wellness",
+      "description": "Uzun vadeli sağlığınızı destekleyen ürünler — takviyeler, toparlanma araçları ve sağlıklı alışkanlıklar."
+    },
+    "home-organization": {
+      "label": "Ev Düzenleme",
+      "description": "Dağınıklıktan kurtulun ve sadeleşin — gerçekten işe yarayan saklama çözümleri, düzenleyiciler ve sistemler."
+    }
+  },
+  "salePages": {
+    "prime-day": {
+      "title": "Amazon Prime Day Fırsatları 2026",
+      "description": "Prime Day'de alınacak en iyi ürünler — tam fiyatına bile değecek teknoloji, ev, fitness ve güzellik seçimleri."
+    },
+    "black-friday": {
+      "title": "Black Friday Fırsatları 2026",
+      "description": "Almaya değer Black Friday seçimleri — indirimin gerçekten anlamlı olduğu her kategoride test edilmiş ürünler."
+    },
+    "cyber-monday": {
+      "title": "Cyber Monday Fırsatları 2026",
+      "description": "Teknoloji, yazılım ve elektronikte en iyi Cyber Monday fırsatları — test ettiğimiz ve her fiyata önerdiğimiz ürünler."
+    },
+    "mothers-day-deals": {
+      "title": "Anneler Günü İndirim Seçimleri 2026",
+      "description": "Anneler Günü için harika hediye olan güzellik, wellness, ev ve gıda ürünleri — üstelik mayısta sık sık indirime girerler."
+    },
+    "holiday-deals": {
+      "title": "Tatil Sezonu İndirim Seçimleri 2026",
+      "description": "Her kategoride en iyi sezon fırsatları — kasım–aralık indirim döneminde almaya değer ürünler."
+    }
+  },
+  "comparePages": {
+    "air-fryer-vs-instant-pot": {
+      "title": "Airfryer mı, Instant Pot mu?",
+      "description": "Günlük yemeklerde hangi çok amaçlı pişirici kazanıyor? En iyi airfryer'ları ve Instant Pot'ları hız, çok yönlülük ve fiyat/performans açısından karşılaştırıyoruz."
+    },
+    "robot-vacuum-vs-stick-vacuum": {
+      "title": "Robot Süpürge mi, Dikey Süpürge mi?",
+      "description": "Otomatik rahatlık mı, elle tam kontrol mü — hangi süpürge tipi temizlik tarzınıza ve evinize uyuyor?"
+    },
+    "espresso-machine-vs-drip-coffee": {
+      "title": "Espresso Makinesi mi, Filtre Kahve Makinesi mi?",
+      "description": "Evde barista kalitesinde espresso mu, her gün güvenilir filtre kahve mi — hangi kahve düzeni size göre?"
+    },
+    "treadmill-vs-stationary-bike": {
+      "title": "Koşu Bandı mı, Kondisyon Bisikleti mi?",
+      "description": "Evde koşmak mı, içeride pedal çevirmek mi — en iyi koşu bantlarını ve kondisyon bisikletlerini kardiyo, eklemler ve alan açısından karşılaştırıyoruz."
+    },
+    "noise-cancelling-vs-open-back-headphones": {
+      "title": "Gürültü Engelleyici mi, Açık Arkalı Kulaklık mı?",
+      "description": "İzolasyon ve taşınabilirlik mi, sahneleme ve doğruluk mu — hangi kulaklık tipi dinleme tarzınıza uyuyor?"
+    },
+    "standing-desk-vs-ergonomic-chair": {
+      "title": "Ayakta Çalışma Masası mı, Ergonomik Sandalye mi?",
+      "description": "Daha çok ayakta durmak mı, daha iyi oturmak mı — hangi ev ofisi yatırımı beliniz ve verimliliğiniz için daha değerli?"
+    },
+    "protein-powder-vs-protein-bars": {
+      "title": "Protein Tozu mu, Protein Barı mı?",
+      "description": "Karıştır ya da paketini aç — en iyi protein tozlarını ve barlarını pratiklik, lezzet ve besin değeri açısından karşılaştırıyoruz."
+    },
+    "yoga-mat-vs-foam-roller": {
+      "title": "Yoga Matı mı, Foam Roller mı?",
+      "description": "Esneklik ve güç mü, toparlanma ve hareketlilik mi — en çok yönlü zemin fitness aksesuarlarını karşılaştırıyoruz."
+    },
+    "smart-watch-vs-fitness-tracker": {
+      "title": "Akıllı Saat mi, Akıllı Bileklik mi?",
+      "description": "Tam akıllı özellikler mi, odaklı sağlık takibi mi — hangi bilek cihazı hedeflerinize ve yaşam tarzınıza uyuyor?"
+    },
+    "blender-vs-food-processor": {
+      "title": "Blender mı, Mutfak Robotu mu?",
+      "description": "Smoothie ve çorba mı, doğrama ve hamur mu — blender mı, mutfak robotu mu, yoksa ikisi birden mi lazım?"
+    },
+    "air-purifier-vs-humidifier": {
+      "title": "Hava Temizleyici mi, Nemlendirici mi?",
+      "description": "Havayı temizlemek mi, nem eklemek mi — evinizdeki hava kalitesi sorununu hangi cihaz çözer?"
+    },
+    "massage-gun-vs-foam-roller": {
+      "title": "Masaj Tabancası mı, Foam Roller mı?",
+      "description": "Perküsyon terapisi mi, elle miyofasyal gevşetme mi — hangi toparlanma aracı rutininize eklemeye değer?"
+    }
+  },
+  "giftPages": {
+    "christmas": {
+      "title": "Yılbaşı Hediye Fikirleri 2026",
+      "description": "Her kategoride test edilmiş hediye seçimleri — listenizdeki herkese uygun bir şey var."
+    },
+    "mothers-day": {
+      "title": "Anneler Günü Hediye Fikirleri 2026",
+      "description": "Anneler için özenle seçilmiş, test edilmiş hediyeler — seveceği güzellik, ev, wellness ve gıda seçimleri."
+    },
+    "fathers-day": {
+      "title": "Babalar Günü Hediye Fikirleri 2026",
+      "description": "Babalar için pratik, test edilmiş hediyeler — teknoloji, fitness, mutfak ve outdoor seçimleri."
+    },
+    "graduation": {
+      "title": "Mezuniyet Hediyesi Fikirleri 2026",
+      "description": "Yeni bir sayfa açan mezunlara hediyeler — teknoloji, moda ve finansal temel ihtiyaçlar."
+    },
+    "valentines": {
+      "title": "Sevgililer Günü Hediye Fikirleri 2026",
+      "description": "Romantik ve kişisel hediye seçimleri — güzellik, gıda, moda ve ev."
+    },
+    "housewarming": {
+      "title": "Yeni Ev Hediyesi Fikirleri 2026",
+      "description": "Yeni bir ev için kullanışlı, kaliteli hediyeler — mutfak aletleri, ev dekorasyonu ve akıllı teknoloji."
+    },
+    "birthday": {
+      "title": "Doğum Günü Hediye Fikirleri 2026",
+      "description": "Her ilgi alanına hitap eden, herkesin seveceği doğum günü hediyeleri — test edildi ve sıralandı."
+    },
+    "baby-shower": {
+      "title": "Baby Shower Hediye Fikirleri 2026",
+      "description": "Yeni ebeveynlerin gerçekten kullanacağı, güvenlik testinden geçmiş pratik bebek hediyeleri."
+    },
+    "anniversary": {
+      "title": "Yıl Dönümü Hediye Fikirleri 2026",
+      "description": "Anlamlı yıl dönümü hediyeleri — her dönüm noktası için güzellik, ev, moda ve gıda seçimleri."
+    },
+    "back-to-school": {
+      "title": "Okula Dönüş İhtiyaçları 2026",
+      "description": "2026'da okula dönen öğrenciler için teknoloji, ev, fitness ve moda seçimleri."
+    }
+  },
+  "brandPages": {
+    "nike": {
+      "description": "Performans odaklı ayakkabılar, giyim ve spor ekipmanları."
+    },
+    "adidas": {
+      "description": "Spor ayakkabıları, giyim ve spor malzemeleri."
+    },
+    "dyson": {
+      "description": "Premium ev aletleri — süpürgeler, hava temizleyiciler, saç bakımı."
+    },
+    "philips": {
+      "description": "Elektronik, kişisel bakım ve sağlık ürünleri."
+    },
+    "anker": {
+      "description": "Şarj, ses ve taşınabilir güç ürünleri."
+    },
+    "apple": {
+      "description": "iPhone'lar, AirPods, Apple Watch ve Mac aksesuarları."
+    },
+    "kitchenaid": {
+      "description": "Stand mikserler, blenderlar ve mutfak aletleri."
+    },
+    "garmin": {
+      "description": "GPS'li fitness takipçileri, akıllı saatler ve navigasyon cihazları."
+    },
+    "breville": {
+      "description": "Premium mutfak aletleri — espresso makineleri, airfryer'lar."
+    },
+    "nespresso": {
+      "description": "Kapsül kahve makineleri ve espresso sistemleri."
+    },
+    "panasonic": {
+      "description": "Tüketici elektroniği, ev aletleri ve kişisel bakım."
+    },
+    "cuisinart": {
+      "description": "Mutfak aletleri — mutfak robotları, kahve makineleri ve daha fazlası."
+    },
+    "rogue": {
+      "description": "Profesyonel sınıf fitness ekipmanları — halter barları, rack'ler, ağırlık plakaları."
+    },
+    "bowflex": {
+      "description": "Ayarlanabilir dambıllar, ev tipi spor aletleri ve kardiyo ekipmanları."
+    },
+    "oxo": {
+      "description": "Günlük kullanım için tasarlanmış mutfak gereçleri ve saklama ürünleri."
+    },
+    "lodge": {
+      "description": "ABD'de üretilen döküm demir tencereler ve tavalar."
+    },
+    "hario": {
+      "description": "Japon kahve demleme ekipmanları — V60, kettle'lar, teraziler."
+    }
+  },
+  "usecasePages": {
+    "home-office": {
+      "title": "En İyi Ev Ofisi Kurulumu 2026",
+      "description": "Verimli bir ev ofisi kurmak için gereken her şey — monitörler, sandalyeler, klavyeler, aydınlatma ve daha fazlası."
+    },
+    "college-students": {
+      "title": "Üniversite Öğrencileri İçin En İyi Ürünler 2026",
+      "description": "Yurt hayatı için bütçe dostu seçimler — teknoloji, mutfak temelleri, fitness ekipmanları ve temel moda parçaları."
+    },
+    "travelers": {
+      "title": "En İyi Seyahat Ekipmanları 2026",
+      "description": "Her tür yolculuk için test edilmiş ekipmanlar — gerçekten yola dayanıklı valizler, teknoloji, fitness ve moda seçimleri."
+    },
+    "fitness-beginners": {
+      "title": "Yeni Başlayanlar İçin En İyi Fitness Ekipmanları 2026",
+      "description": "Yeni başlayanlar için kafa karıştırmayan fitness seçimleri — ekipman, beslenme ve takip araçları."
+    },
+    "small-apartments": {
+      "title": "Küçük Daireler İçin En İyi Ürünler 2026",
+      "description": "Küçük yaşam alanları için kompakt, yerden tasarruflu seçimler — çok amaçlı aletler, akıllı depolama ve zekice teknoloji."
+    },
+    "pet-owners": {
+      "title": "Evcil Hayvan Sahipleri İçin En İyi Ürünler 2026",
+      "description": "Dostunuzun ihtiyacı olan her şey — gerçek hayvanlarla test edilmiş mama, sağlık, konfor ve oyun seçimleri."
+    },
+    "new-parents": {
+      "title": "Yeni Ebeveynler İçin En İyi Ürünler 2026",
+      "description": "İlk yıl için olmazsa olmazlar — güvenlik ekipmanları, uyku yardımcıları, beslenme temelleri ve hayat kurtaranlar."
+    },
+    "remote-workers": {
+      "title": "Uzaktan Çalışanlar İçin En İyi Ürünler 2026",
+      "description": "Tam zamanlı uzaktan çalışma hayatı için verimlilik ve konfor seçimleri — ergonomiden bağlantıya."
+    }
+  },
+  "pages": {
+    "rankingTitle": "Sıralamalar",
+    "rankingSub": "Her kategorinin en iyisi",
+    "rankingDesc": "Karşılaştırma derinliğine göre sıralanmış en iyi seçimler — {categories} kategoride {reviews} inceleme.",
+    "picksCompared": "{count} ürün karşılaştırıldı",
+    "moreCount": "+{count} daha",
+    "browseAll": "Tümüne göz at",
+    "newTitle": "Bu ay yeni",
+    "newDesc": "Yeni yayımlanan incelemeler ve karşılaştırmalar — {categories} kategoride toplam {count}.",
+    "thisWeek": "Bu hafta",
+    "thisMonth": "Bu ay",
+    "bestofSub": "2026'nın en iyi ürünleri",
+    "all": "Tümü",
+    "no1Pick": "1 Numaralı Seçim",
+    "fromPrice": "{price} ve üzeri",
+    "popularTitle": "Popüler",
+    "popularSub": "En popüler incelemeler",
+    "purposeHeading": "Amaca Göre Keşfet",
+    "purposeLead": "Nereden başlayacağınızdan emin değil misiniz? Kullanım amacınıza göre doğru ürünleri bulun.",
+    "otherFilters": "Diğer filtrelerle keşfet",
+    "tagsHeading": "Etikete Göre Keşfet",
+    "compareHeading": "Ürünleri Karşılaştır",
+    "giftsSub": "Her durum için hediye fikirleri",
+    "brandsSub": "Markaya göre incelemeler",
+    "reviewsCount": "{count} inceleme",
+    "seeArrow": "Gör →",
+    "searchHeading": "İncelemelerde ara",
+    "searchDesc": "{categories} kategoride {count} inceleme — aradığınızı bulun.",
+    "searchEmpty": "Son incelemeler gösteriliyor — aramak için yazmaya başlayın",
+    "otherEvents": "Diğer etkinlikler:",
+    "articlesStats": "{count} inceleme ve karşılaştırma · {categories} kategori",
+    "latestBadge": "En yeni incelemeler",
+    "annualGuide": "Yıllık rehber",
+    "editorsPicks": "Editörün seçimi",
+    "bestofLead": "10 kategorinin tamamında test ettiğimiz en iyi seçimler — 2026 boyunca yeni ürünler çıktıkça ve sıralamalar değiştikçe güncellenir.",
+    "allCatReviews": "Tüm {cat} incelemeleri →",
+    "moreCatReviews": "+{count} {cat} incelemesi daha →",
+    "browseAllReviews": "Tüm {count} incelemeye göz atın →",
+    "tagsLead": "Ürünleri stile, ihtiyaca veya özelliğe göre bulun — kablosuzdan çevre dostuna, ekonomikten premiuma.",
+    "browseTag": "{tag} etiketine göz at →",
+    "seeRecs": "Önerileri gör →",
+    "compareLead": "Hangisini seçeceğinizden emin değil misiniz? Yan yana karşılaştırmalarımız, tahmin yürütmeden doğru ürünü seçmenize yardımcı olur.",
+    "compareNow": "Şimdi karşılaştır →",
+    "bestTagProducts": "2026'nın en iyi {tag} ürünleri",
+    "noTagArticles": "Bu etiket için henüz makale yok.",
+    "viewAll": "Tümünü gör →",
+    "seeBrandReviews": "{brand} incelemelerini gör →",
+    "brandBadge": "Marka incelemeleri",
+    "noResults": "\"{query}\" için sonuç bulunamadı",
+    "resultsFor": "\"{query}\" için {count} sonuç",
+    "picksReviewed": "{count} seçim incelendi",
+    "bestBrandProducts": "2026'nın en iyi {brand} ürünleri",
+    "brandStats": "{products} {brand} ürünü incelendi · {articles} karşılaştırma yazısı",
+    "brandTested": "Hangilerinin almaya değer olduğunu bulmak için {brand} ürünlerini birçok kategoride test ettik.",
+    "noBudgetResults": "Bu bütçe aralığında henüz sonuç yok.",
+    "noUsecaseArticles": "Bu kullanım amacına yönelik henüz yazı yok."
+  },
+  "crossLinks": {
+    "headToHead": "Birebir karşılaştırma",
+    "saleGuide": "İndirim rehberi",
+    "moreTags": "Daha fazla etiket →",
+    "seeDeals": "Fırsatları gör →"
   }
 }

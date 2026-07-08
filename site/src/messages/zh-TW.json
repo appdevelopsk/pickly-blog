@@ -265,5 +265,355 @@
     "under100": "$100 以下",
     "brands": "品牌",
     "search": "搜尋"
+  },
+  "tagPages": {
+    "wireless": {
+      "label": "無線",
+      "description": "擺脫線材束縛——精選最佳無線耳機、充電器、鍵盤、喇叭與居家裝置。"
+    },
+    "smart-home": {
+      "label": "智慧家庭",
+      "description": "語音控制、App 連動、全自動——2026 年最值得入手的智慧家庭裝置。"
+    },
+    "beginner-friendly": {
+      "label": "新手友善",
+      "description": "容易上手、久用不膩——最適合初學者的產品精選。"
+    },
+    "compact": {
+      "label": "輕巧省空間",
+      "description": "體積小、功能齊全——適合小空間的最佳輕巧家電、3C 與用品。"
+    },
+    "eco-friendly": {
+      "label": "環保",
+      "description": "永續製造、經久耐用、低浪費——精選最佳環保產品。"
+    },
+    "cordless": {
+      "label": "無線免插電",
+      "description": "電池供電,居家使用更自由——最佳無線吸塵器、電鑽與家電。"
+    },
+    "ergonomic": {
+      "label": "人體工學",
+      "description": "為你的身體而設計——最佳人體工學椅、鍵盤、滑鼠與健康小物。"
+    },
+    "budget": {
+      "label": "高CP值",
+      "description": "每一分錢都花在刀口上——表現超越價格的最佳產品。"
+    },
+    "premium": {
+      "label": "頂級",
+      "description": "精品中的精品——多花的錢真的值得的頂級產品。"
+    },
+    "travel-friendly": {
+      "label": "旅行友善",
+      "description": "輕巧耐用、可通過安檢——專為旅行打造的最佳產品。"
+    },
+    "gifting": {
+      "label": "送禮首選",
+      "description": "人人都喜歡、令人難忘的禮物——適合生日、週年紀念、節日等場合。"
+    },
+    "work-from-home": {
+      "label": "在家工作",
+      "description": "打造高效居家辦公室的一切——座椅、螢幕、鍵盤、照明與專注工具。"
+    },
+    "gym-workout": {
+      "label": "健身訓練",
+      "description": "有效的裝備——為認真訓練的你精選最佳器材、補給品與運動服飾。"
+    },
+    "outdoor-sports": {
+      "label": "戶外運動",
+      "description": "經得起風吹雨打——登山杖、跑步裝備、防水衣物與探險必備品。"
+    },
+    "cooking-kitchen": {
+      "label": "烹飪廚房",
+      "description": "讓廚房升級——真正用得到的鍋具、小工具、刀具與家電。"
+    },
+    "skincare-beauty": {
+      "label": "保養美妝",
+      "description": "有科學根據、經編輯實測——最佳精華液、乳霜與美容工具。"
+    },
+    "better-sleep": {
+      "label": "一夜好眠",
+      "description": "讓休息更有品質——最佳枕頭、床墊、重力毯與助眠好物。"
+    },
+    "for-pets": {
+      "label": "寵物用品",
+      "description": "毛孩會愛上的零食、玩具與必需品——為狗狗、貓咪等寵物精選好物。"
+    },
+    "for-parents": {
+      "label": "爸媽必備",
+      "description": "值得信賴的嬰兒用品——汽車安全座椅、揹巾、餵養必備與哄睡方案。"
+    },
+    "health-wellness": {
+      "label": "健康養生",
+      "description": "支持長期健康的產品——保健食品、恢復工具與健康習慣好物。"
+    },
+    "home-organization": {
+      "label": "居家收納",
+      "description": "斷捨離、更簡單——真正好用的收納方案、整理盒與收納系統。"
+    }
+  },
+  "salePages": {
+    "prime-day": {
+      "title": "2026 Amazon Prime Day 優惠精選",
+      "description": "Prime Day 最值得買的產品——即使原價也值得入手的 3C、居家、健身與美妝好物。"
+    },
+    "black-friday": {
+      "title": "2026 Black Friday 優惠精選",
+      "description": "真正值得買的 Black Friday 好物——涵蓋各類別、折扣有感的實測產品。"
+    },
+    "cyber-monday": {
+      "title": "2026 Cyber Monday 優惠精選",
+      "description": "3C、軟體與電子產品的最佳 Cyber Monday 優惠——我們實測過、任何價位都推薦的產品。"
+    },
+    "mothers-day-deals": {
+      "title": "2026 母親節優惠精選",
+      "description": "適合當母親節禮物的美妝、健康、居家與美食產品——五月常有特價。"
+    },
+    "holiday-deals": {
+      "title": "2026 年末購物季精選",
+      "description": "各類別最佳節慶優惠——11 至 12 月購物季最值得入手的產品。"
+    }
+  },
+  "comparePages": {
+    "air-fryer-vs-instant-pot": {
+      "title": "氣炸鍋 vs Instant Pot",
+      "description": "日常料理哪種多功能鍋勝出?我們從速度、多樣性與 CP 值比較最佳氣炸鍋與 Instant Pot。"
+    },
+    "robot-vacuum-vs-stick-vacuum": {
+      "title": "掃地機器人 vs 直立式吸塵器",
+      "description": "自動省事還是手動精準——哪種吸塵器更適合你的打掃習慣與居家環境?"
+    },
+    "espresso-machine-vs-drip-coffee": {
+      "title": "義式咖啡機 vs 美式滴漏咖啡機",
+      "description": "在家做出咖啡師級義式濃縮,還是每天一杯穩定的美式——哪種咖啡組合適合你?"
+    },
+    "treadmill-vs-stationary-bike": {
+      "title": "跑步機 vs 飛輪健身車",
+      "description": "在家跑步還是室內騎車——我們從有氧效果、關節負擔與空間需求比較最佳跑步機與健身車。"
+    },
+    "noise-cancelling-vs-open-back-headphones": {
+      "title": "降噪耳機 vs 開放式耳機",
+      "description": "隔音與便攜,還是音場與精準——哪種耳機更符合你的聆聽風格?"
+    },
+    "standing-desk-vs-ergonomic-chair": {
+      "title": "升降桌 vs 人體工學椅",
+      "description": "站多一點還是坐得更好——哪項居家辦公升級對腰背與生產力更有價值?"
+    },
+    "protein-powder-vs-protein-bars": {
+      "title": "蛋白粉 vs 蛋白棒",
+      "description": "沖一杯還是拆一條——從方便性、口味與營養比較最佳蛋白粉與蛋白棒。"
+    },
+    "yoga-mat-vs-foam-roller": {
+      "title": "瑜珈墊 vs 按摩滾筒",
+      "description": "柔軟度與肌力,還是恢復與活動度——比較最百搭的兩款地面健身配件。"
+    },
+    "smart-watch-vs-fitness-tracker": {
+      "title": "智慧手錶 vs 運動手環",
+      "description": "完整智慧功能還是專注健康追蹤——哪種腕上裝置更符合你的目標與生活型態?"
+    },
+    "blender-vs-food-processor": {
+      "title": "果汁機 vs 食物調理機",
+      "description": "打果昔煮湯,還是切碎揉麵——你需要果汁機、食物調理機,還是兩者都要?"
+    },
+    "air-purifier-vs-humidifier": {
+      "title": "空氣清淨機 vs 加濕機",
+      "description": "淨化空氣還是增加濕度——哪種裝置能解決你家的室內空氣問題?"
+    },
+    "massage-gun-vs-foam-roller": {
+      "title": "筋膜槍 vs 按摩滾筒",
+      "description": "震動按摩還是手動筋膜放鬆——哪種恢復工具值得加入你的日常?"
+    }
+  },
+  "giftPages": {
+    "christmas": {
+      "title": "2026 聖誕禮物推薦",
+      "description": "各類別實測好禮精選——清單上的每個人都找得到適合的。"
+    },
+    "mothers-day": {
+      "title": "2026 母親節禮物推薦",
+      "description": "送給媽媽的貼心實測好禮——她會喜歡的美妝、居家、健康與美食精選。"
+    },
+    "fathers-day": {
+      "title": "2026 父親節禮物推薦",
+      "description": "送給爸爸的實用實測好禮——3C、健身、廚房與戶外精選。"
+    },
+    "graduation": {
+      "title": "2026 畢業禮物推薦",
+      "description": "送給展開人生新篇章的畢業生——3C、時尚與理財必備。"
+    },
+    "valentines": {
+      "title": "2026 情人節禮物推薦",
+      "description": "浪漫又貼心的禮物精選——美妝、美食、時尚與居家。"
+    },
+    "housewarming": {
+      "title": "2026 喬遷禮物推薦",
+      "description": "實用有質感的新居好禮——廚房家電、居家佈置與智慧產品。"
+    },
+    "birthday": {
+      "title": "2026 生日禮物推薦",
+      "description": "涵蓋各種興趣、人人喜歡的生日禮物——經實測並排名。"
+    },
+    "baby-shower": {
+      "title": "2026 迎嬰派對禮物推薦",
+      "description": "新手爸媽真正用得到、通過安全測試的嬰兒好禮。"
+    },
+    "anniversary": {
+      "title": "2026 週年紀念禮物推薦",
+      "description": "有心意的週年紀念禮物——適合每個重要時刻的美妝、居家、時尚與美食精選。"
+    },
+    "back-to-school": {
+      "title": "2026 開學必備清單",
+      "description": "為 2026 年開學學生精選的 3C、居家、健身與時尚好物。"
+    }
+  },
+  "brandPages": {
+    "nike": {
+      "description": "高性能運動鞋、服飾與運動器材。"
+    },
+    "adidas": {
+      "description": "運動鞋、運動服飾與體育用品。"
+    },
+    "dyson": {
+      "description": "頂級家電——吸塵器、空氣清淨機、美髮護理。"
+    },
+    "philips": {
+      "description": "電子產品、個人修容與健康照護產品。"
+    },
+    "anker": {
+      "description": "充電、音訊與行動電源產品。"
+    },
+    "apple": {
+      "description": "iPhone、AirPods、Apple Watch 與 Mac 配件。"
+    },
+    "kitchenaid": {
+      "description": "桌上型攪拌機、果汁機與廚房家電。"
+    },
+    "garmin": {
+      "description": "GPS 運動手錶、智慧手錶與導航裝置。"
+    },
+    "breville": {
+      "description": "頂級廚房家電——義式咖啡機、氣炸鍋。"
+    },
+    "nespresso": {
+      "description": "膠囊咖啡機與義式濃縮系統。"
+    },
+    "panasonic": {
+      "description": "消費電子、家電與個人修容產品。"
+    },
+    "cuisinart": {
+      "description": "廚房家電——食物調理機、咖啡機等。"
+    },
+    "rogue": {
+      "description": "專業級健身器材——槓鈴、蹲舉架、槓片。"
+    },
+    "bowflex": {
+      "description": "可調式啞鈴、家庭健身房與有氧器材。"
+    },
+    "oxo": {
+      "description": "為日常使用設計的廚房工具與收納用品。"
+    },
+    "lodge": {
+      "description": "美國製造的鑄鐵鍋具與平底鍋。"
+    },
+    "hario": {
+      "description": "日本咖啡沖煮器材——V60、手沖壺、電子秤。"
+    }
+  },
+  "usecasePages": {
+    "home-office": {
+      "title": "2026 最佳居家辦公配置",
+      "description": "打造高效居家辦公室所需的一切——螢幕、座椅、鍵盤、照明等。"
+    },
+    "college-students": {
+      "title": "2026 大學生好物推薦",
+      "description": "適合宿舍生活的精打細算之選——3C、廚房必備、健身裝備與基本穿搭。"
+    },
+    "travelers": {
+      "title": "2026 最佳旅行裝備",
+      "description": "適合各種旅程的實測裝備——真正經得起旅途考驗的行李箱、3C、健身與時尚好物。"
+    },
+    "fitness-beginners": {
+      "title": "2026 健身新手裝備推薦",
+      "description": "為剛起步的你精選不燒腦的健身好物——器材、營養與追蹤工具。"
+    },
+    "small-apartments": {
+      "title": "2026 小坪數好物推薦",
+      "description": "為小空間精選的省空間好物——多功能家電、聰明收納與實用科技。"
+    },
+    "pet-owners": {
+      "title": "2026 毛孩爸媽好物推薦",
+      "description": "寵物所需的一切——經真實動物檢驗的食品、健康、舒適與玩樂好物。"
+    },
+    "new-parents": {
+      "title": "2026 新手爸媽好物推薦",
+      "description": "寶寶第一年的必備好物——安全裝備、助眠用品、餵養必備與育兒神器。"
+    },
+    "remote-workers": {
+      "title": "2026 遠端工作者好物推薦",
+      "description": "為全職遠端生活準備的效率與舒適好物——從人體工學到網路連線。"
+    }
+  },
+  "pages": {
+    "rankingTitle": "排行榜",
+    "rankingSub": "各類別最佳",
+    "rankingDesc": "依比較深度排名的精選好物——{reviews} 篇評測,涵蓋 {categories} 個類別。",
+    "picksCompared": "已比較 {count} 款產品",
+    "moreCount": "還有 {count} 個",
+    "browseAll": "瀏覽全部",
+    "newTitle": "本月新增",
+    "newDesc": "最新發布的評測與比較——共 {count} 篇,涵蓋 {categories} 個類別。",
+    "thisWeek": "本週",
+    "thisMonth": "本月",
+    "bestofSub": "2026 年度最佳產品",
+    "all": "全部",
+    "no1Pick": "第一名",
+    "fromPrice": "{price} 起",
+    "popularTitle": "熱門",
+    "popularSub": "最受歡迎的評測",
+    "purposeHeading": "依用途瀏覽",
+    "purposeLead": "不知道從哪開始?依照使用需求找到適合你的產品。",
+    "otherFilters": "依其他條件瀏覽",
+    "tagsHeading": "依標籤瀏覽",
+    "compareHeading": "產品比較",
+    "giftsSub": "各種場合的送禮靈感",
+    "brandsSub": "依品牌看評測",
+    "reviewsCount": "{count} 篇評測",
+    "seeArrow": "查看 →",
+    "searchHeading": "搜尋評測",
+    "searchDesc": "{count} 篇評測,涵蓋 {categories} 個類別——找到你想要的。",
+    "searchEmpty": "顯示最新評測中——輸入關鍵字開始搜尋",
+    "otherEvents": "其他活動:",
+    "articlesStats": "{count} 篇評測與比較 · {categories} 個類別",
+    "latestBadge": "最新評測",
+    "annualGuide": "年度指南",
+    "editorsPicks": "編輯精選",
+    "bestofLead": "我們在全部 10 個類別中經過實測的首選產品——隨著 2026 年新品推出與排名變動持續更新。",
+    "allCatReviews": "全部{cat}評測 →",
+    "moreCatReviews": "另有 {count} 篇{cat}評測 →",
+    "browseAllReviews": "瀏覽全部 {count} 篇評測 →",
+    "tagsLead": "依風格、需求或功能尋找產品——從無線到環保，從平價到高階。",
+    "browseTag": "瀏覽{tag} →",
+    "seeRecs": "查看推薦 →",
+    "compareLead": "不知道選哪款？我們的並列比較幫你輕鬆挑出合適的產品，不必再猜測。",
+    "compareNow": "立即比較 →",
+    "bestTagProducts": "2026 年最佳{tag}產品",
+    "noTagArticles": "此標籤下尚無文章。",
+    "viewAll": "查看全部 →",
+    "seeBrandReviews": "查看{brand}評測 →",
+    "brandBadge": "品牌評測",
+    "noResults": "找不到「{query}」的結果",
+    "resultsFor": "「{query}」的 {count} 筆結果",
+    "picksReviewed": "已評測 {count} 個精選好物",
+    "bestBrandProducts": "2026年最佳{brand}產品",
+    "brandStats": "已評測 {products} 款{brand}產品 · {articles} 篇比較文章",
+    "brandTested": "我們跨多個類別測試了{brand}的產品，幫你找出真正值得購買的款式。",
+    "noBudgetResults": "此預算範圍暫無結果。",
+    "noUsecaseArticles": "暫無符合此用途的文章。"
+  },
+  "crossLinks": {
+    "headToHead": "一對一比較",
+    "saleGuide": "優惠指南",
+    "moreTags": "更多標籤 →",
+    "seeDeals": "查看優惠 →"
   }
 }

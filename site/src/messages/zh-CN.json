@@ -265,5 +265,355 @@
     "under100": "$100 以下",
     "brands": "品牌",
     "search": "搜索"
+  },
+  "tagPages": {
+    "wireless": {
+      "label": "无线",
+      "description": "摆脱线缆束缚——精选最佳无线耳机、充电器、键盘、音箱和家用设备。"
+    },
+    "smart-home": {
+      "label": "智能家居",
+      "description": "语音控制、App互联、全自动——2026年最值得买的智能家居设备。"
+    },
+    "beginner-friendly": {
+      "label": "新手友好",
+      "description": "上手容易、久用不腻——最适合入门新手的产品精选。"
+    },
+    "compact": {
+      "label": "小巧省空间",
+      "description": "占地小、功能全——适合小空间的最佳紧凑型家电、数码产品和装备。"
+    },
+    "eco-friendly": {
+      "label": "环保",
+      "description": "可持续生产、经久耐用、低浪费——精选最佳环保产品。"
+    },
+    "cordless": {
+      "label": "无绳",
+      "description": "电池供电,家中随处可用——最佳无绳吸尘器、电钻和家电。"
+    },
+    "ergonomic": {
+      "label": "人体工学",
+      "description": "为你的身体而设计——最佳人体工学椅、键盘、鼠标和健康好物。"
+    },
+    "budget": {
+      "label": "高性价比",
+      "description": "每一分钱都花在刀刃上——表现超越价格的最佳产品。"
+    },
+    "premium": {
+      "label": "高端",
+      "description": "精品中的精品——多花的钱真正物有所值的高端产品。"
+    },
+    "travel-friendly": {
+      "label": "旅行友好",
+      "description": "小巧耐用、符合安检要求——专为旅行打造的最佳产品。"
+    },
+    "gifting": {
+      "label": "送礼佳选",
+      "description": "人人都喜欢的走心好礼——适合生日、纪念日、节日等各种场合。"
+    },
+    "work-from-home": {
+      "label": "居家办公",
+      "description": "打造高效家庭办公室的一切——座椅、显示器、键盘、照明和专注工具。"
+    },
+    "gym-workout": {
+      "label": "健身训练",
+      "description": "见效的装备——为认真训练的你精选最佳器械、补剂和运动服饰。"
+    },
+    "outdoor-sports": {
+      "label": "户外运动",
+      "description": "经得起风吹日晒——登山杖、跑步装备、防水衣物和探险必备。"
+    },
+    "cooking-kitchen": {
+      "label": "烹饪厨房",
+      "description": "让厨房更上一层楼——真正用得上的锅具、小工具、刀具和厨电。"
+    },
+    "skincare-beauty": {
+      "label": "护肤美妆",
+      "description": "有科学依据、经编辑实测——最佳精华、面霜和美容工具。"
+    },
+    "better-sleep": {
+      "label": "优质睡眠",
+      "description": "优化你的休息——最佳枕头、床垫、重力毯和助眠好物。"
+    },
+    "for-pets": {
+      "label": "宠物用品",
+      "description": "毛孩子喜欢的零食、玩具和必需品——为狗狗、猫咪等宠物精选好物。"
+    },
+    "for-parents": {
+      "label": "父母必备",
+      "description": "值得信赖的母婴用品——安全座椅、背带、喂养必备和哄睡方案。"
+    },
+    "health-wellness": {
+      "label": "健康养生",
+      "description": "守护长期健康的好物——补剂、恢复工具和健康习惯用品。"
+    },
+    "home-organization": {
+      "label": "家居收纳",
+      "description": "断舍离,更简单——真正好用的收纳方案、整理盒和收纳系统。"
+    }
+  },
+  "salePages": {
+    "prime-day": {
+      "title": "2026 Amazon Prime Day 好物精选",
+      "description": "Prime Day 最值得买的产品——即使原价也值得入手的数码、家居、健身和美妆好物。"
+    },
+    "black-friday": {
+      "title": "2026 Black Friday 折扣精选",
+      "description": "真正值得买的 Black Friday 好物——覆盖各品类、折扣力度实打实的实测产品。"
+    },
+    "cyber-monday": {
+      "title": "2026 Cyber Monday 折扣精选",
+      "description": "数码、软件和电子产品的最佳 Cyber Monday 优惠——我们实测过、任何价位都推荐的产品。"
+    },
+    "mothers-day-deals": {
+      "title": "2026 母亲节特惠精选",
+      "description": "适合做母亲节礼物的美妆、健康、家居和美食好物——五月常有折扣。"
+    },
+    "holiday-deals": {
+      "title": "2026 年末大促精选",
+      "description": "各品类最佳节日折扣——11月至12月大促季最值得入手的产品。"
+    }
+  },
+  "comparePages": {
+    "air-fryer-vs-instant-pot": {
+      "title": "空气炸锅 vs Instant Pot",
+      "description": "日常做饭哪种多功能锅更胜一筹?我们从速度、多样性和性价比对比最佳空气炸锅和 Instant Pot。"
+    },
+    "robot-vacuum-vs-stick-vacuum": {
+      "title": "扫地机器人 vs 推杆式吸尘器",
+      "description": "自动省心还是手动可控——哪种吸尘器更适合你的清洁习惯和居住环境?"
+    },
+    "espresso-machine-vs-drip-coffee": {
+      "title": "意式咖啡机 vs 滴滤咖啡机",
+      "description": "在家做出咖啡师级意式浓缩,还是每天一杯稳定的滴滤——哪种咖啡方案适合你?"
+    },
+    "treadmill-vs-stationary-bike": {
+      "title": "跑步机 vs 动感单车",
+      "description": "在家跑步还是室内骑行——我们从有氧效果、关节保护和占地面积对比最佳跑步机和健身单车。"
+    },
+    "noise-cancelling-vs-open-back-headphones": {
+      "title": "降噪耳机 vs 开放式耳机",
+      "description": "隔音便携还是声场精准——哪种耳机更符合你的听音风格?"
+    },
+    "standing-desk-vs-ergonomic-chair": {
+      "title": "升降桌 vs 人体工学椅",
+      "description": "多站一会儿还是坐得更好——哪种家庭办公升级对腰背和效率更有价值?"
+    },
+    "protein-powder-vs-protein-bars": {
+      "title": "蛋白粉 vs 蛋白棒",
+      "description": "冲一杯还是拆一根——从便捷性、口味和营养对比最佳蛋白粉和蛋白棒。"
+    },
+    "yoga-mat-vs-foam-roller": {
+      "title": "瑜伽垫 vs 泡沫轴",
+      "description": "柔韧与力量,还是恢复与放松——对比最百搭的两件地面健身装备。"
+    },
+    "smart-watch-vs-fitness-tracker": {
+      "title": "智能手表 vs 运动手环",
+      "description": "全能智能功能还是专注健康监测——哪种腕上设备更契合你的目标和生活方式?"
+    },
+    "blender-vs-food-processor": {
+      "title": "搅拌机 vs 食物料理机",
+      "description": "打奶昔煮汤,还是切碎和面——你需要搅拌机、食物料理机,还是两个都要?"
+    },
+    "air-purifier-vs-humidifier": {
+      "title": "空气净化器 vs 加湿器",
+      "description": "净化空气还是增加湿度——哪种设备能解决你家的室内空气问题?"
+    },
+    "massage-gun-vs-foam-roller": {
+      "title": "筋膜枪 vs 泡沫轴",
+      "description": "振动按摩还是手动筋膜放松——哪种恢复工具值得加入你的日常?"
+    }
+  },
+  "giftPages": {
+    "christmas": {
+      "title": "2026 圣诞礼物指南",
+      "description": "各品类实测好礼精选——清单上的每个人都能找到合适的。"
+    },
+    "mothers-day": {
+      "title": "2026 母亲节礼物指南",
+      "description": "送给妈妈的走心实测好礼——她会喜欢的美妆、家居、健康和美食精选。"
+    },
+    "fathers-day": {
+      "title": "2026 父亲节礼物指南",
+      "description": "送给爸爸的实用实测好礼——数码、健身、厨房和户外精选。"
+    },
+    "graduation": {
+      "title": "2026 毕业礼物指南",
+      "description": "送给开启人生新篇章的毕业生——数码、时尚和理财必备。"
+    },
+    "valentines": {
+      "title": "2026 情人节礼物指南",
+      "description": "浪漫又贴心的礼物精选——美妆、美食、时尚和家居。"
+    },
+    "housewarming": {
+      "title": "2026 乔迁礼物指南",
+      "description": "实用优质的新居好礼——厨房电器、家居装饰和智能设备。"
+    },
+    "birthday": {
+      "title": "2026 生日礼物指南",
+      "description": "覆盖各种兴趣、人人喜欢的生日礼物——经实测并排名。"
+    },
+    "baby-shower": {
+      "title": "2026 迎婴礼物指南",
+      "description": "新手爸妈真正用得上、通过安全测试的婴儿好礼。"
+    },
+    "anniversary": {
+      "title": "2026 纪念日礼物指南",
+      "description": "有心意的纪念日礼物——适合每个重要时刻的美妆、家居、时尚和美食精选。"
+    },
+    "back-to-school": {
+      "title": "2026 开学必备清单",
+      "description": "为2026年返校学生精选的数码、家居、健身和时尚好物。"
+    }
+  },
+  "brandPages": {
+    "nike": {
+      "description": "高性能运动鞋、服饰和运动装备。"
+    },
+    "adidas": {
+      "description": "运动鞋、运动服饰和体育装备。"
+    },
+    "dyson": {
+      "description": "高端家电——吸尘器、空气净化器、美发护理。"
+    },
+    "philips": {
+      "description": "电子产品、个人护理和健康产品。"
+    },
+    "anker": {
+      "description": "充电、音频和便携电源产品。"
+    },
+    "apple": {
+      "description": "iPhone、AirPods、Apple Watch 和 Mac 配件。"
+    },
+    "kitchenaid": {
+      "description": "厨师机、搅拌机和厨房电器。"
+    },
+    "garmin": {
+      "description": "GPS 运动手表、智能手表和导航设备。"
+    },
+    "breville": {
+      "description": "高端厨房电器——意式咖啡机、空气炸锅。"
+    },
+    "nespresso": {
+      "description": "胶囊咖啡机和意式浓缩系统。"
+    },
+    "panasonic": {
+      "description": "消费电子、家用电器和个人护理产品。"
+    },
+    "cuisinart": {
+      "description": "厨房电器——食物料理机、咖啡机等。"
+    },
+    "rogue": {
+      "description": "专业级健身器材——杠铃、深蹲架、杠铃片。"
+    },
+    "bowflex": {
+      "description": "可调节哑铃、家庭健身房和有氧器械。"
+    },
+    "oxo": {
+      "description": "为日常使用设计的厨房工具和收纳用品。"
+    },
+    "lodge": {
+      "description": "美国制造的铸铁锅具和煎锅。"
+    },
+    "hario": {
+      "description": "日本咖啡冲煮器具——V60、手冲壶、电子秤。"
+    }
+  },
+  "usecasePages": {
+    "home-office": {
+      "title": "2026 最佳居家办公配置",
+      "description": "打造高效家庭办公室所需的一切——显示器、座椅、键盘、照明等。"
+    },
+    "college-students": {
+      "title": "2026 大学生好物推荐",
+      "description": "适合宿舍生活的高性价比之选——数码、厨房必备、健身装备和基础穿搭。"
+    },
+    "travelers": {
+      "title": "2026 最佳旅行装备",
+      "description": "适合各种旅程的实测装备——真正经得起旅途考验的行李箱、数码、健身和时尚好物。"
+    },
+    "fitness-beginners": {
+      "title": "2026 健身新手装备推荐",
+      "description": "为刚起步的你精选不纠结的健身好物——器械、营养和记录工具。"
+    },
+    "small-apartments": {
+      "title": "2026 小户型好物推荐",
+      "description": "为小空间精选的省地好物——多功能家电、聪明收纳和实用科技。"
+    },
+    "pet-owners": {
+      "title": "2026 养宠人士好物推荐",
+      "description": "宠物所需的一切——经真实动物检验的食品、健康、舒适和玩乐好物。"
+    },
+    "new-parents": {
+      "title": "2026 新手爸妈好物推荐",
+      "description": "宝宝第一年的必备好物——安全装备、哄睡用品、喂养必备和省心神器。"
+    },
+    "remote-workers": {
+      "title": "2026 远程办公好物推荐",
+      "description": "为全职远程生活准备的效率与舒适好物——从人体工学到网络连接。"
+    }
+  },
+  "pages": {
+    "rankingTitle": "排行榜",
+    "rankingSub": "各品类最佳",
+    "rankingDesc": "按对比深度排名的优选好物——{reviews}篇评测,覆盖{categories}个品类。",
+    "picksCompared": "已对比{count}款产品",
+    "moreCount": "还有{count}个",
+    "browseAll": "浏览全部",
+    "newTitle": "本月新增",
+    "newDesc": "最新发布的评测与对比——共{count}篇,覆盖{categories}个品类。",
+    "thisWeek": "本周",
+    "thisMonth": "本月",
+    "bestofSub": "2026年度最佳产品",
+    "all": "全部",
+    "no1Pick": "首选",
+    "fromPrice": "{price}起",
+    "popularTitle": "热门",
+    "popularSub": "最受欢迎的评测",
+    "purposeHeading": "按用途浏览",
+    "purposeLead": "不知从哪开始?按照使用需求找到适合你的产品。",
+    "otherFilters": "按其他条件浏览",
+    "tagsHeading": "按标签浏览",
+    "compareHeading": "产品对比",
+    "giftsSub": "各种场合的礼物灵感",
+    "brandsSub": "按品牌看评测",
+    "reviewsCount": "{count}篇评测",
+    "seeArrow": "查看 →",
+    "searchHeading": "搜索评测",
+    "searchDesc": "{count}篇评测,覆盖{categories}个品类——快来找你想要的。",
+    "searchEmpty": "正在显示最新评测——输入关键词开始搜索",
+    "otherEvents": "其他活动:",
+    "articlesStats": "{count}篇评测与对比 · {categories}个品类",
+    "latestBadge": "最新评测",
+    "annualGuide": "年度指南",
+    "editorsPicks": "编辑精选",
+    "bestofLead": "我们在全部 10 个类别中经过实测的首选产品——随着 2026 年新品发布和排名变化持续更新。",
+    "allCatReviews": "全部{cat}评测 →",
+    "moreCatReviews": "另有 {count} 篇{cat}评测 →",
+    "browseAllReviews": "浏览全部 {count} 篇评测 →",
+    "tagsLead": "按风格、需求或功能查找产品——从无线到环保，从平价到高端。",
+    "browseTag": "浏览{tag} →",
+    "seeRecs": "查看推荐 →",
+    "compareLead": "不知道选哪款？我们的对比评测帮你轻松选出合适的产品，不必再纠结。",
+    "compareNow": "立即对比 →",
+    "bestTagProducts": "2026 年最佳{tag}产品",
+    "noTagArticles": "该标签下暂无文章。",
+    "viewAll": "查看全部 →",
+    "seeBrandReviews": "查看{brand}评测 →",
+    "brandBadge": "品牌评测",
+    "noResults": "未找到与“{query}”相关的结果",
+    "resultsFor": "“{query}”的 {count} 条结果",
+    "picksReviewed": "已评测 {count} 个精选好物",
+    "bestBrandProducts": "2026年最佳{brand}产品",
+    "brandStats": "已评测 {products} 款{brand}产品 · {articles} 篇对比文章",
+    "brandTested": "我们跨多个品类测试了{brand}的产品，帮你找出真正值得购买的款式。",
+    "noBudgetResults": "该预算范围暂无结果。",
+    "noUsecaseArticles": "暂无与该用途相关的文章。"
+  },
+  "crossLinks": {
+    "headToHead": "一对一对比",
+    "saleGuide": "促销指南",
+    "moreTags": "更多标签 →",
+    "seeDeals": "查看优惠 →"
   }
 }

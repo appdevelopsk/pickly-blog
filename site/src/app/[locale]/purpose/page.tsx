@@ -1,4 +1,4 @@
-import { setRequestLocale } from "next-intl/server";
+import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
@@ -16,6 +16,10 @@ interface Props { params: Promise<{ locale: string }> }
 export default async function PurposePage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
+  const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const allArticles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
 
@@ -23,10 +27,10 @@ export default async function PurposePage({ params }: Props) {
     <div className="mx-auto max-w-5xl px-4 pb-20">
       <section className="py-10 md:py-14">
         <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
-          Browse by Purpose
+          {tt("pages.purposeHeading", "Browse by Purpose")}
         </h1>
         <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">
-          Not sure where to start? Find the right products by what you need them for.
+          {tt("pages.purposeLead", "Not sure where to start? Find the right products by what you need them for.")}
         </p>
       </section>
 
@@ -48,20 +52,20 @@ export default async function PurposePage({ params }: Props) {
                 <span className="text-3xl" aria-hidden>{tag.icon}</span>
                 {count > 0 && (
                   <span className="rounded-full bg-slate-100 px-2.5 py-0.5 text-xs font-semibold text-slate-500">
-                    {count} reviews
+                    {tt("pages.reviewsCount", `${count} reviews`, { count })}
                   </span>
                 )}
               </div>
               <div>
                 <h2 className="text-base font-black text-slate-900 group-hover:text-brand-700 transition-colors">
-                  {tag.label}
+                  {tt(`tagPages.${tag.slug}.label`, tag.label)}
                 </h2>
                 <p className="mt-1.5 text-sm text-slate-500 leading-relaxed line-clamp-2">
-                  {tag.description}
+                  {tt(`tagPages.${tag.slug}.description`, tag.description)}
                 </p>
               </div>
               <span className="mt-auto text-xs font-semibold text-brand-600 group-hover:underline">
-                See recommendations →
+                {tt("pages.seeRecs", "See recommendations →")}
               </span>
             </Link>
           );
@@ -69,7 +73,7 @@ export default async function PurposePage({ params }: Props) {
       </div>
 
       <div className="mt-16 border-t border-slate-100 pt-10">
-        <h2 className="mb-6 text-lg font-black text-slate-900">Browse by other filters</h2>
+        <h2 className="mb-6 text-lg font-black text-slate-900">{tt("pages.otherFilters", "Browse by other filters")}</h2>
         <div className="flex flex-wrap gap-2">
           {(["wireless","smart-home","beginner-friendly","compact","eco-friendly","ergonomic","budget","premium","travel-friendly"] as const).map((slug) => (
             <Link
@@ -77,7 +81,7 @@ export default async function PurposePage({ params }: Props) {
               href={`/tag/${slug}`}
               className="rounded-full border border-slate-200 bg-white px-4 py-1.5 text-sm font-medium text-slate-600 transition-colors hover:border-brand-300 hover:bg-brand-50 hover:text-brand-700"
             >
-              {slug.replace(/-/g, " ")}
+              {tt(`tagPages.${slug}.label`, slug.replace(/-/g, " "))}
             </Link>
           ))}
         </div>

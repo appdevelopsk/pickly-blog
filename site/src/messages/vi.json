@@ -265,5 +265,355 @@
     "under100": "Dưới $100",
     "brands": "Thương hiệu",
     "search": "Tìm kiếm"
+  },
+  "tagPages": {
+    "wireless": {
+      "label": "Không dây",
+      "description": "Tự do không dây cáp — tai nghe, sạc, bàn phím, loa và thiết bị gia đình không dây tốt nhất."
+    },
+    "smart-home": {
+      "label": "Nhà thông minh",
+      "description": "Điều khiển giọng nói, kết nối ứng dụng và tự động hóa — những thiết bị nhà thông minh tốt nhất cho 2026."
+    },
+    "beginner-friendly": {
+      "label": "Thân thiện với người mới",
+      "description": "Dễ bắt đầu, dùng lâu vẫn tốt — những sản phẩm tốt nhất cho người mới bắt đầu."
+    },
+    "compact": {
+      "label": "Nhỏ gọn & tiết kiệm không gian",
+      "description": "Kích thước nhỏ, đầy đủ tính năng — thiết bị, đồ gia dụng và phụ kiện nhỏ gọn tốt nhất cho không gian hẹp."
+    },
+    "eco-friendly": {
+      "label": "Thân thiện môi trường",
+      "description": "Sản xuất bền vững, bền bỉ và ít rác thải — những sản phẩm vì môi trường tốt nhất."
+    },
+    "cordless": {
+      "label": "Chạy pin",
+      "description": "Tự do nhờ pin cho ngôi nhà của bạn — máy hút bụi, máy khoan và thiết bị không dây tốt nhất."
+    },
+    "ergonomic": {
+      "label": "Công thái học",
+      "description": "Thiết kế cho cơ thể bạn — ghế, bàn phím, chuột công thái học và dụng cụ chăm sóc sức khỏe tốt nhất."
+    },
+    "budget": {
+      "label": "Lựa chọn tiết kiệm",
+      "description": "Tối đa giá trị cho từng đồng — những sản phẩm tốt nhất vượt xa mức giá của chúng."
+    },
+    "premium": {
+      "label": "Cao cấp",
+      "description": "Tốt nhất trong những thứ tốt nhất — sản phẩm cao cấp mà khoản tiền thêm thực sự xứng đáng."
+    },
+    "travel-friendly": {
+      "label": "Tiện cho du lịch",
+      "description": "Nhỏ gọn, bền bỉ và đạt chuẩn an ninh sân bay — những sản phẩm sinh ra để đi cùng bạn."
+    },
+    "gifting": {
+      "label": "Để làm quà",
+      "description": "Những món quà ai cũng thích và đáng nhớ — cho sinh nhật, kỷ niệm, lễ tết và hơn thế nữa."
+    },
+    "work-from-home": {
+      "label": "Làm việc tại nhà",
+      "description": "Mọi thứ bạn cần cho văn phòng tại nhà hiệu quả — ghế, màn hình, bàn phím, đèn và công cụ hỗ trợ tập trung."
+    },
+    "gym-workout": {
+      "label": "Gym & tập luyện",
+      "description": "Đồ tập mang lại kết quả — thiết bị, thực phẩm bổ sung và trang phục tốt nhất cho việc tập luyện nghiêm túc."
+    },
+    "outdoor-sports": {
+      "label": "Ngoài trời & thể thao",
+      "description": "Sinh ra để đương đầu thời tiết — gậy leo núi, đồ chạy bộ, áo chống nước và những món đồ phượt thiết yếu."
+    },
+    "cooking-kitchen": {
+      "label": "Nấu nướng & nhà bếp",
+      "description": "Nâng cấp căn bếp của bạn — nồi chảo, dụng cụ, dao và thiết bị thực sự được dùng đến."
+    },
+    "skincare-beauty": {
+      "label": "Chăm sóc da & làm đẹp",
+      "description": "Dựa trên khoa học và được biên tập viên kiểm chứng — serum, kem dưỡng ẩm và dụng cụ làm đẹp tốt nhất."
+    },
+    "better-sleep": {
+      "label": "Ngủ ngon hơn",
+      "description": "Tối ưu giấc nghỉ của bạn — gối, nệm, chăn trọng lực và phụ kiện ngủ tốt nhất."
+    },
+    "for-pets": {
+      "label": "Cho thú cưng",
+      "description": "Đồ ăn vặt, đồ chơi và vật dụng thiết yếu thú cưng sẽ mê — đồ tốt nhất cho chó, mèo và hơn thế."
+    },
+    "for-parents": {
+      "label": "Cho bố mẹ",
+      "description": "Đồ dùng cho bé đáng tin cậy — ghế ô tô, địu, đồ ăn dặm thiết yếu và giải pháp cho giấc ngủ."
+    },
+    "health-wellness": {
+      "label": "Sức khỏe & thể chất",
+      "description": "Sản phẩm hỗ trợ sức khỏe lâu dài — thực phẩm bổ sung, dụng cụ phục hồi và thói quen lành mạnh."
+    },
+    "home-organization": {
+      "label": "Sắp xếp nhà cửa",
+      "description": "Dọn gọn và đơn giản hóa — giải pháp lưu trữ, hộp sắp xếp và những hệ thống thực sự hiệu quả."
+    }
+  },
+  "salePages": {
+    "prime-day": {
+      "title": "Ưu đãi Amazon Prime Day 2026",
+      "description": "Những sản phẩm đáng mua nhất dịp Prime Day — công nghệ, gia dụng, thể hình và làm đẹp đáng tiền ngay cả khi mua nguyên giá."
+    },
+    "black-friday": {
+      "title": "Ưu đãi Black Friday 2026",
+      "description": "Những món đáng mua dịp Black Friday — sản phẩm đã được thử nghiệm ở mọi danh mục với mức giảm giá thực sự đáng kể."
+    },
+    "cyber-monday": {
+      "title": "Ưu đãi Cyber Monday 2026",
+      "description": "Ưu đãi Cyber Monday tốt nhất cho công nghệ, phần mềm và điện tử — những sản phẩm chúng tôi đã thử và khuyên dùng ở bất kỳ mức giá nào."
+    },
+    "mothers-day-deals": {
+      "title": "Gợi ý ưu đãi Ngày của Mẹ 2026",
+      "description": "Sản phẩm làm đẹp, sức khỏe, gia dụng và ẩm thực làm quà Ngày của Mẹ tuyệt vời — và thường giảm giá vào tháng 5."
+    },
+    "holiday-deals": {
+      "title": "Gợi ý ưu đãi mùa lễ hội 2026",
+      "description": "Ưu đãi mùa lễ tốt nhất ở mọi danh mục — những sản phẩm đáng mua trong mùa giảm giá tháng 11–12."
+    }
+  },
+  "comparePages": {
+    "air-fryer-vs-instant-pot": {
+      "title": "Nồi chiên không dầu vs Instant Pot",
+      "description": "Chiếc nồi đa năng nào thắng cho bữa ăn hằng ngày? Chúng tôi so sánh những nồi chiên không dầu và Instant Pot tốt nhất về tốc độ, độ đa dụng và giá trị."
+    },
+    "robot-vacuum-vs-stick-vacuum": {
+      "title": "Robot hút bụi vs máy hút bụi cầm tay",
+      "description": "Tiện lợi tự động hay tự tay kiểm soát — loại máy hút bụi nào hợp với phong cách dọn dẹp và ngôi nhà của bạn?"
+    },
+    "espresso-machine-vs-drip-coffee": {
+      "title": "Máy pha espresso vs máy pha cà phê nhỏ giọt",
+      "description": "Espresso chuẩn barista tại nhà hay ly cà phê nhỏ giọt đáng tin mỗi ngày — lựa chọn cà phê nào dành cho bạn?"
+    },
+    "treadmill-vs-stationary-bike": {
+      "title": "Máy chạy bộ vs xe đạp tập",
+      "description": "Chạy bộ tại nhà hay đạp xe trong nhà — chúng tôi so sánh máy chạy bộ và xe đạp tập tốt nhất về cardio, khớp và không gian."
+    },
+    "noise-cancelling-vs-open-back-headphones": {
+      "title": "Tai nghe chống ồn vs tai nghe open-back",
+      "description": "Cách âm và cơ động hay âm trường và độ chính xác — loại tai nghe nào hợp với gu nghe của bạn?"
+    },
+    "standing-desk-vs-ergonomic-chair": {
+      "title": "Bàn đứng vs ghế công thái học",
+      "description": "Đứng nhiều hơn hay ngồi đúng hơn — nâng cấp văn phòng tại nhà nào đáng giá hơn cho lưng và năng suất của bạn?"
+    },
+    "protein-powder-vs-protein-bars": {
+      "title": "Bột protein vs thanh protein",
+      "description": "Pha uống hay bóc ăn liền — so sánh những loại bột protein và thanh protein tốt nhất về tiện lợi, hương vị và dinh dưỡng."
+    },
+    "yoga-mat-vs-foam-roller": {
+      "title": "Thảm yoga vs con lăn xốp",
+      "description": "Dẻo dai và sức mạnh hay phục hồi và linh hoạt — so sánh những phụ kiện tập luyện trên sàn đa năng nhất."
+    },
+    "smart-watch-vs-fitness-tracker": {
+      "title": "Smartwatch vs vòng đeo theo dõi sức khỏe",
+      "description": "Đầy đủ tính năng thông minh hay chuyên theo dõi sức khỏe — thiết bị đeo tay nào hợp với mục tiêu và lối sống của bạn?"
+    },
+    "blender-vs-food-processor": {
+      "title": "Máy xay sinh tố vs máy chế biến thực phẩm",
+      "description": "Sinh tố và súp hay băm nhỏ và nhồi bột — bạn cần máy xay, máy chế biến thực phẩm hay cả hai?"
+    },
+    "air-purifier-vs-humidifier": {
+      "title": "Máy lọc không khí vs máy tạo ẩm",
+      "description": "Làm sạch không khí hay bổ sung độ ẩm — thiết bị nào giải quyết đúng vấn đề chất lượng không khí trong nhà bạn?"
+    },
+    "massage-gun-vs-foam-roller": {
+      "title": "Súng massage vs con lăn xốp",
+      "description": "Trị liệu rung gõ hay tự lăn giãn cơ — dụng cụ phục hồi nào đáng thêm vào thói quen của bạn?"
+    }
+  },
+  "giftPages": {
+    "christmas": {
+      "title": "Gợi ý quà Giáng sinh 2026",
+      "description": "Quà đã được thử nghiệm ở mọi danh mục — có món phù hợp cho từng người trong danh sách của bạn."
+    },
+    "mothers-day": {
+      "title": "Gợi ý quà Ngày của Mẹ 2026",
+      "description": "Những món quà chu đáo, đã kiểm chứng dành cho mẹ — làm đẹp, gia dụng, sức khỏe và ẩm thực mẹ sẽ thích."
+    },
+    "fathers-day": {
+      "title": "Gợi ý quà Ngày của Cha 2026",
+      "description": "Quà thiết thực, đã kiểm chứng cho bố — công nghệ, thể hình, nhà bếp và dã ngoại."
+    },
+    "graduation": {
+      "title": "Gợi ý quà tốt nghiệp 2026",
+      "description": "Quà cho tân cử nhân bước vào chặng đường mới — đồ công nghệ, thời trang và tài chính thiết yếu."
+    },
+    "valentines": {
+      "title": "Gợi ý quà Valentine 2026",
+      "description": "Những món quà lãng mạn, mang dấu ấn cá nhân — làm đẹp, ẩm thực, thời trang và nhà cửa."
+    },
+    "housewarming": {
+      "title": "Gợi ý quà tân gia 2026",
+      "description": "Quà hữu ích, chất lượng cho tổ ấm mới — thiết bị nhà bếp, đồ trang trí và công nghệ thông minh."
+    },
+    "birthday": {
+      "title": "Gợi ý quà sinh nhật 2026",
+      "description": "Quà sinh nhật ai cũng thích cho mọi sở thích — đã thử nghiệm và xếp hạng."
+    },
+    "baby-shower": {
+      "title": "Gợi ý quà baby shower 2026",
+      "description": "Quà cho bé thiết thực, đã kiểm định an toàn mà bố mẹ mới thực sự sẽ dùng."
+    },
+    "anniversary": {
+      "title": "Gợi ý quà kỷ niệm 2026",
+      "description": "Quà kỷ niệm ý nghĩa — làm đẹp, nhà cửa, thời trang và ẩm thực cho mọi cột mốc."
+    },
+    "back-to-school": {
+      "title": "Đồ thiết yếu mùa tựu trường 2026",
+      "description": "Công nghệ, gia dụng, thể hình và thời trang cho học sinh, sinh viên trở lại trường năm 2026."
+    }
+  },
+  "brandPages": {
+    "nike": {
+      "description": "Giày, trang phục và dụng cụ thể thao hiệu năng cao."
+    },
+    "adidas": {
+      "description": "Giày thể thao, trang phục và đồ tập luyện."
+    },
+    "dyson": {
+      "description": "Gia dụng cao cấp — máy hút bụi, máy lọc không khí, chăm sóc tóc."
+    },
+    "philips": {
+      "description": "Đồ điện tử, chăm sóc cá nhân và sản phẩm sức khỏe."
+    },
+    "anker": {
+      "description": "Sản phẩm sạc, âm thanh và nguồn điện di động."
+    },
+    "apple": {
+      "description": "iPhone, AirPods, Apple Watch và phụ kiện Mac."
+    },
+    "kitchenaid": {
+      "description": "Máy trộn đứng, máy xay và thiết bị nhà bếp."
+    },
+    "garmin": {
+      "description": "Thiết bị theo dõi thể chất GPS, smartwatch và thiết bị định vị."
+    },
+    "breville": {
+      "description": "Thiết bị nhà bếp cao cấp — máy pha espresso, nồi chiên không dầu."
+    },
+    "nespresso": {
+      "description": "Máy pha cà phê viên nén và hệ thống espresso."
+    },
+    "panasonic": {
+      "description": "Điện tử tiêu dùng, gia dụng và chăm sóc cá nhân."
+    },
+    "cuisinart": {
+      "description": "Thiết bị nhà bếp — máy chế biến thực phẩm, máy pha cà phê và hơn thế."
+    },
+    "rogue": {
+      "description": "Dụng cụ thể hình chuẩn chuyên nghiệp — đòn tạ, giá đỡ, bánh tạ."
+    },
+    "bowflex": {
+      "description": "Tạ tay điều chỉnh, giàn tập tại nhà và thiết bị cardio."
+    },
+    "oxo": {
+      "description": "Dụng cụ nhà bếp và đồ lưu trữ thiết kế cho sử dụng hằng ngày."
+    },
+    "lodge": {
+      "description": "Nồi chảo gang sản xuất tại Mỹ."
+    },
+    "hario": {
+      "description": "Dụng cụ pha cà phê Nhật Bản — V60, ấm rót, cân."
+    }
+  },
+  "usecasePages": {
+    "home-office": {
+      "title": "Góc làm việc tại nhà tốt nhất 2026",
+      "description": "Mọi thứ để dựng một văn phòng tại nhà hiệu quả — màn hình, ghế, bàn phím, đèn và hơn thế."
+    },
+    "college-students": {
+      "title": "Sản phẩm tốt nhất cho sinh viên 2026",
+      "description": "Lựa chọn hợp túi tiền cho đời sống ký túc xá — công nghệ, đồ bếp thiết yếu, dụng cụ thể hình và thời trang cơ bản."
+    },
+    "travelers": {
+      "title": "Đồ du lịch tốt nhất 2026",
+      "description": "Đồ đã thử nghiệm cho mọi chuyến đi — vali, công nghệ, thể hình và thời trang thực sự hợp để mang theo."
+    },
+    "fitness-beginners": {
+      "title": "Dụng cụ thể hình tốt nhất cho người mới 2026",
+      "description": "Lựa chọn thể hình không gây choáng ngợp cho người mới bắt đầu — thiết bị, dinh dưỡng và công cụ theo dõi."
+    },
+    "small-apartments": {
+      "title": "Sản phẩm tốt nhất cho căn hộ nhỏ 2026",
+      "description": "Lựa chọn nhỏ gọn, tiết kiệm không gian cho nhà nhỏ — thiết bị đa năng, lưu trữ thông minh và công nghệ khéo léo."
+    },
+    "pet-owners": {
+      "title": "Sản phẩm tốt nhất cho người nuôi thú cưng 2026",
+      "description": "Mọi thứ thú cưng của bạn cần — đồ ăn, sức khỏe, sự thoải mái và đồ chơi, được thử nghiệm trên thú cưng thật."
+    },
+    "new-parents": {
+      "title": "Sản phẩm tốt nhất cho bố mẹ mới 2026",
+      "description": "Những món phải có cho năm đầu đời — đồ an toàn, hỗ trợ giấc ngủ, đồ ăn dặm thiết yếu và cứu tinh cho bố mẹ."
+    },
+    "remote-workers": {
+      "title": "Sản phẩm tốt nhất cho người làm việc từ xa 2026",
+      "description": "Lựa chọn năng suất và thoải mái cho lối sống làm việc từ xa toàn thời gian — từ công thái học đến kết nối."
+    }
+  },
+  "pages": {
+    "rankingTitle": "Bảng xếp hạng",
+    "rankingSub": "Tốt nhất ở mọi danh mục",
+    "rankingDesc": "Những lựa chọn hàng đầu xếp hạng theo độ sâu so sánh — {reviews} bài đánh giá trong {categories} danh mục.",
+    "picksCompared": "Đã so sánh {count} lựa chọn",
+    "moreCount": "+{count} nữa",
+    "browseAll": "Xem tất cả",
+    "newTitle": "Mới trong tháng",
+    "newDesc": "Bài đánh giá và so sánh mới đăng — tổng cộng {count} trong {categories} danh mục.",
+    "thisWeek": "Tuần này",
+    "thisMonth": "Tháng này",
+    "bestofSub": "Sản phẩm tốt nhất 2026",
+    "all": "Tất cả",
+    "no1Pick": "Lựa chọn số 1",
+    "fromPrice": "từ {price}",
+    "popularTitle": "Phổ biến",
+    "popularSub": "Bài đánh giá được xem nhiều nhất",
+    "purposeHeading": "Duyệt theo mục đích",
+    "purposeLead": "Chưa biết bắt đầu từ đâu? Tìm đúng sản phẩm theo nhu cầu của bạn.",
+    "otherFilters": "Duyệt theo bộ lọc khác",
+    "tagsHeading": "Duyệt theo thẻ",
+    "compareHeading": "So sánh sản phẩm",
+    "giftsSub": "Gợi ý quà cho mọi dịp",
+    "brandsSub": "Đánh giá theo thương hiệu",
+    "reviewsCount": "{count} bài đánh giá",
+    "seeArrow": "Xem →",
+    "searchHeading": "Tìm bài đánh giá",
+    "searchDesc": "{count} bài đánh giá trong {categories} danh mục — tìm thứ bạn cần.",
+    "searchEmpty": "Đang hiển thị bài đánh giá gần đây — gõ để bắt đầu tìm kiếm",
+    "otherEvents": "Sự kiện khác:",
+    "articlesStats": "{count} bài đánh giá & so sánh · {categories} danh mục",
+    "latestBadge": "Đánh giá mới nhất",
+    "annualGuide": "Cẩm nang thường niên",
+    "editorsPicks": "Lựa chọn của biên tập viên",
+    "bestofLead": "Những lựa chọn hàng đầu đã được chúng tôi thử nghiệm trong cả 10 danh mục — cập nhật liên tục khi sản phẩm mới ra mắt và bảng xếp hạng thay đổi trong suốt năm 2026.",
+    "allCatReviews": "Tất cả đánh giá {cat} →",
+    "moreCatReviews": "Thêm {count} đánh giá {cat} →",
+    "browseAllReviews": "Xem tất cả {count} đánh giá →",
+    "tagsLead": "Tìm sản phẩm theo phong cách, nhu cầu hoặc tính năng — từ không dây đến thân thiện với môi trường, từ giá rẻ đến cao cấp.",
+    "browseTag": "Xem {tag} →",
+    "seeRecs": "Xem gợi ý →",
+    "compareLead": "Chưa biết chọn sản phẩm nào? Các bảng so sánh trực quan của chúng tôi giúp bạn chọn đúng sản phẩm mà không phải phỏng đoán.",
+    "compareNow": "So sánh ngay →",
+    "bestTagProducts": "Sản phẩm {tag} tốt nhất 2026",
+    "noTagArticles": "Chưa có bài viết nào cho thẻ này.",
+    "viewAll": "Xem tất cả →",
+    "seeBrandReviews": "Xem đánh giá {brand} →",
+    "brandBadge": "Đánh giá thương hiệu",
+    "noResults": "Không có kết quả cho \"{query}\"",
+    "resultsFor": "{count} kết quả cho \"{query}\"",
+    "picksReviewed": "Đã đánh giá {count} lựa chọn",
+    "bestBrandProducts": "Sản phẩm {brand} tốt nhất 2026",
+    "brandStats": "Đã đánh giá {products} sản phẩm {brand} · {articles} bài so sánh",
+    "brandTested": "Chúng tôi đã thử nghiệm sản phẩm {brand} ở nhiều danh mục để tìm ra những sản phẩm đáng mua.",
+    "noBudgetResults": "Chưa có kết quả trong khoảng ngân sách này.",
+    "noUsecaseArticles": "Chưa có bài viết cho nhu cầu này."
+  },
+  "crossLinks": {
+    "headToHead": "Đối đầu trực tiếp",
+    "saleGuide": "Cẩm nang săn sale",
+    "moreTags": "Thêm thẻ →",
+    "seeDeals": "Xem ưu đãi →"
   }
 }

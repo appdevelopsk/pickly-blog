@@ -275,5 +275,355 @@
     "under100": "$100以下",
     "brands": "ブランド",
     "search": "検索"
+  },
+  "tagPages": {
+    "wireless": {
+      "label": "ワイヤレス",
+      "description": "ケーブル不要の自由 — ワイヤレスのヘッドホン・充電器・キーボード・スピーカー・スマート家電のおすすめ。"
+    },
+    "smart-home": {
+      "label": "スマートホーム",
+      "description": "音声操作・アプリ連携・自動化 — 2026年のおすすめスマートホームデバイス。"
+    },
+    "beginner-friendly": {
+      "label": "初心者向け",
+      "description": "始めやすく、長く使える — これから始める人にぴったりのおすすめ製品。"
+    },
+    "compact": {
+      "label": "コンパクト・省スペース",
+      "description": "小さくても機能はフル装備 — 狭いスペースに収まるおすすめのコンパクト家電・ガジェット・グッズ。"
+    },
+    "eco-friendly": {
+      "label": "エコフレンドリー",
+      "description": "サステナブルな作りで長持ち、ごみも少ない — 環境に配慮したおすすめ製品。"
+    },
+    "cordless": {
+      "label": "コードレス",
+      "description": "バッテリー駆動で家中どこでも自由に — おすすめのコードレス掃除機・ドリル・家電。"
+    },
+    "ergonomic": {
+      "label": "エルゴノミクス",
+      "description": "体にやさしい設計 — おすすめのエルゴノミクスチェア・キーボード・マウス・ウェルネスツール。"
+    },
+    "budget": {
+      "label": "お手頃価格",
+      "description": "コスパ最重視 — 価格以上の実力を持つおすすめ製品。"
+    },
+    "premium": {
+      "label": "プレミアム",
+      "description": "最高峰の逸品 — 高くても本当に価値のあるプレミアム製品。"
+    },
+    "travel-friendly": {
+      "label": "旅行向け",
+      "description": "コンパクトで丈夫、機内持ち込みもOK — 旅のために作られたおすすめ製品。"
+    },
+    "gifting": {
+      "label": "ギフト向け",
+      "description": "誰に贈っても喜ばれる、記憶に残るプレゼント — 誕生日・記念日・ホリデーシーズンなどに。"
+    },
+    "work-from-home": {
+      "label": "在宅ワーク",
+      "description": "快適なホームオフィスに必要なものすべて — チェア、モニター、キーボード、照明、集中グッズ。"
+    },
+    "gym-workout": {
+      "label": "ジム・トレーニング",
+      "description": "結果につながるギア — 本気で鍛える人のためのおすすめ器具・サプリ・ウェア。"
+    },
+    "outdoor-sports": {
+      "label": "アウトドア・スポーツ",
+      "description": "過酷な環境にも耐える — トレッキングポール、ランニンググッズ、防水ウェア、アドベンチャー必需品。"
+    },
+    "cooking-kitchen": {
+      "label": "料理・キッチン",
+      "description": "キッチンをレベルアップ — 本当に使い続けられる調理器具・便利グッズ・包丁・家電。"
+    },
+    "skincare-beauty": {
+      "label": "スキンケア・美容",
+      "description": "科学的根拠と編集部のお墨付き — おすすめの美容液・保湿剤・美容ツール。"
+    },
+    "better-sleep": {
+      "label": "快眠",
+      "description": "睡眠の質を高める — おすすめの枕・マットレス・加重ブランケット・睡眠グッズ。"
+    },
+    "for-pets": {
+      "label": "ペット向け",
+      "description": "ペットが喜ぶおやつ・おもちゃ・必需品 — 犬・猫、その他の動物のためのおすすめグッズ。"
+    },
+    "for-parents": {
+      "label": "子育てファミリー向け",
+      "description": "信頼できるベビー用品 — チャイルドシート、抱っこ紐、授乳・離乳食グッズ、寝かしつけアイテム。"
+    },
+    "health-wellness": {
+      "label": "健康・ウェルネス",
+      "description": "長く続く健康をサポートする製品 — サプリメント、リカバリーツール、健康習慣グッズ。"
+    },
+    "home-organization": {
+      "label": "収納・整理整頓",
+      "description": "片付けてシンプルに — 本当に機能する収納グッズ・オーガナイザー・整理システム。"
+    }
+  },
+  "salePages": {
+    "prime-day": {
+      "title": "Amazon Prime Day セール 2026",
+      "description": "Prime Dayに買うべきおすすめ製品 — 定価でも買う価値のあるテック・ホーム・フィットネス・美容アイテムを厳選。"
+    },
+    "black-friday": {
+      "title": "Black Friday セール 2026",
+      "description": "買って損なしのBlack Friday厳選アイテム — 割引が本当にお得な、全カテゴリーのテスト済み製品。"
+    },
+    "cyber-monday": {
+      "title": "Cyber Monday セール 2026",
+      "description": "テック・ソフトウェア・家電のCyber Mondayおすすめセール — どんな価格でも推せる、実際にテストした製品。"
+    },
+    "mothers-day-deals": {
+      "title": "母の日セールおすすめ 2026",
+      "description": "母の日ギフトにぴったりの美容・ウェルネス・ホーム・グルメ製品 — 5月にセールになることも多数。"
+    },
+    "holiday-deals": {
+      "title": "ホリデーセールおすすめ 2026",
+      "description": "全カテゴリーのおすすめホリデーセール — 11〜12月のセールシーズンに買う価値のある製品。"
+    }
+  },
+  "comparePages": {
+    "air-fryer-vs-instant-pot": {
+      "title": "エアフライヤー vs インスタントポット",
+      "description": "毎日の料理に強いのはどっち? おすすめのエアフライヤーとInstant Potを、スピード・多用途性・コスパで比較します。"
+    },
+    "robot-vacuum-vs-stick-vacuum": {
+      "title": "ロボット掃除機 vs スティック掃除機",
+      "description": "自動のラクさか、自分で操る確実さか — あなたの掃除スタイルと住まいに合うのはどっち?"
+    },
+    "espresso-machine-vs-drip-coffee": {
+      "title": "エスプレッソマシン vs ドリップコーヒーメーカー",
+      "description": "自宅で本格エスプレッソか、毎日安定のドリップか — あなたに合うコーヒー環境はどっち?"
+    },
+    "treadmill-vs-stationary-bike": {
+      "title": "ルームランナー vs フィットネスバイク",
+      "description": "家で走るか、室内で漕ぐか — 有酸素効果・関節への負担・設置スペースの観点でおすすめのルームランナーとフィットネスバイクを比較。"
+    },
+    "noise-cancelling-vs-open-back-headphones": {
+      "title": "ノイズキャンセリング vs 開放型ヘッドホン",
+      "description": "遮音性と携帯性か、音場と正確さか — あなたのリスニングスタイルに合うヘッドホンはどっち?"
+    },
+    "standing-desk-vs-ergonomic-chair": {
+      "title": "スタンディングデスク vs エルゴノミクスチェア",
+      "description": "立って働くか、正しく座るか — 腰と生産性により効くホームオフィス投資はどっち?"
+    },
+    "protein-powder-vs-protein-bars": {
+      "title": "プロテインパウダー vs プロテインバー",
+      "description": "シェイクするか、開けてすぐ食べるか — 手軽さ・味・栄養でおすすめのプロテインパウダーとプロテインバーを比較。"
+    },
+    "yoga-mat-vs-foam-roller": {
+      "title": "ヨガマット vs フォームローラー",
+      "description": "柔軟性と筋力か、リカバリーと可動域か — 万能なフロア系フィットネスアイテムを徹底比較。"
+    },
+    "smart-watch-vs-fitness-tracker": {
+      "title": "スマートウォッチ vs フィットネストラッカー",
+      "description": "フル機能のスマートさか、健康記録への特化か — あなたの目標とライフスタイルに合う手首デバイスはどっち?"
+    },
+    "blender-vs-food-processor": {
+      "title": "ブレンダー vs フードプロセッサー",
+      "description": "スムージーとスープか、みじん切りと生地作りか — 必要なのはブレンダー、フードプロセッサー、それとも両方?"
+    },
+    "air-purifier-vs-humidifier": {
+      "title": "空気清浄機 vs 加湿器",
+      "description": "空気をきれいにするか、潤いを足すか — あなたの部屋の空気の悩みを解決するのはどっち?"
+    },
+    "massage-gun-vs-foam-roller": {
+      "title": "マッサージガン vs フォームローラー",
+      "description": "振動マッサージか、手動の筋膜リリースか — ルーティンに加える価値のあるリカバリーツールはどっち?"
+    }
+  },
+  "giftPages": {
+    "christmas": {
+      "title": "クリスマスプレゼントのアイデア 2026",
+      "description": "全カテゴリーから検証済みのギフトを厳選 — 贈る相手を選ばないラインナップ。"
+    },
+    "mothers-day": {
+      "title": "母の日ギフトのアイデア 2026",
+      "description": "お母さんに喜ばれる、心のこもった検証済みギフト — 美容・ホーム・ウェルネス・グルメを厳選。"
+    },
+    "fathers-day": {
+      "title": "父の日ギフトのアイデア 2026",
+      "description": "お父さんに贈りたい実用的な検証済みギフト — テック・フィットネス・キッチン・アウトドアを厳選。"
+    },
+    "graduation": {
+      "title": "卒業祝いのアイデア 2026",
+      "description": "新しい一歩を踏み出す卒業生への贈り物 — テック・ファッション・マネー関連の必需品。"
+    },
+    "valentines": {
+      "title": "バレンタインギフトのアイデア 2026",
+      "description": "ロマンチックでパーソナルなギフト — 美容・グルメ・ファッション・ホーム。"
+    },
+    "housewarming": {
+      "title": "新築・引越し祝いのアイデア 2026",
+      "description": "新居で役立つ上質なギフト — キッチン家電、インテリア雑貨、スマート家電。"
+    },
+    "birthday": {
+      "title": "誕生日プレゼントのアイデア 2026",
+      "description": "どんな趣味の人にも喜ばれる誕生日ギフト — テスト済み&ランキング形式。"
+    },
+    "baby-shower": {
+      "title": "出産祝い・ベビーシャワーのアイデア 2026",
+      "description": "新米パパママが本当に使える、安全性を確認したベビーギフト。"
+    },
+    "anniversary": {
+      "title": "記念日ギフトのアイデア 2026",
+      "description": "想いが伝わる記念日ギフト — 節目ごとに選べる美容・ホーム・ファッション・グルメ。"
+    },
+    "back-to-school": {
+      "title": "新学期の必需品 2026",
+      "description": "2026年の新学期を迎える学生のためのテック・ホーム・フィットネス・ファッション。"
+    }
+  },
+  "brandPages": {
+    "nike": {
+      "description": "パフォーマンス重視のシューズ、ウェア、スポーツ用品。"
+    },
+    "adidas": {
+      "description": "アスレチックシューズ、ウェア、スポーツギア。"
+    },
+    "dyson": {
+      "description": "プレミアム家電 — 掃除機、空気清浄機、ヘアケア。"
+    },
+    "philips": {
+      "description": "家電、グルーミング、ヘルスケア製品。"
+    },
+    "anker": {
+      "description": "充電、オーディオ、ポータブル電源製品。"
+    },
+    "apple": {
+      "description": "iPhone、AirPods、Apple Watch、Macアクセサリー。"
+    },
+    "kitchenaid": {
+      "description": "スタンドミキサー、ブレンダー、キッチン家電。"
+    },
+    "garmin": {
+      "description": "GPSフィットネストラッカー、スマートウォッチ、ナビゲーション機器。"
+    },
+    "breville": {
+      "description": "プレミアムキッチン家電 — エスプレッソマシン、エアフライヤー。"
+    },
+    "nespresso": {
+      "description": "カプセル式コーヒーメーカーとエスプレッソシステム。"
+    },
+    "panasonic": {
+      "description": "AV機器、生活家電、グルーミング製品。"
+    },
+    "cuisinart": {
+      "description": "キッチン家電 — フードプロセッサー、コーヒーメーカーなど。"
+    },
+    "rogue": {
+      "description": "プロ仕様のフィットネス器具 — バーベル、ラック、プレート。"
+    },
+    "bowflex": {
+      "description": "可変式ダンベル、ホームジム、有酸素マシン。"
+    },
+    "oxo": {
+      "description": "毎日使いやすく設計されたキッチンツールと収納用品。"
+    },
+    "lodge": {
+      "description": "アメリカ製の鋳鉄調理器具・スキレット。"
+    },
+    "hario": {
+      "description": "日本のコーヒー抽出器具 — V60、ケトル、スケール。"
+    }
+  },
+  "usecasePages": {
+    "home-office": {
+      "title": "ホームオフィス構築おすすめ 2026",
+      "description": "快適で生産的なホームオフィス作りに必要なものすべて — モニター、チェア、キーボード、照明など。"
+    },
+    "college-students": {
+      "title": "大学生におすすめの製品 2026",
+      "description": "一人暮らし・学生生活にちょうどいいコスパ重視の厳選アイテム — テック、キッチン必需品、フィットネスギア、ファッションの定番。"
+    },
+    "travelers": {
+      "title": "トラベルグッズおすすめ 2026",
+      "description": "あらゆる旅のためのテスト済みギア — 本当に旅先で使えるスーツケース、テック、フィットネス、ファッション。"
+    },
+    "fitness-beginners": {
+      "title": "初心者向けフィットネスギアおすすめ 2026",
+      "description": "これから始める人が迷わないフィットネス選び — 器具、栄養、記録ツール。"
+    },
+    "small-apartments": {
+      "title": "狭い部屋・一人暮らしにおすすめの製品 2026",
+      "description": "省スペースで暮らしを快適に — 多用途家電、賢い収納、気の利いたテック。"
+    },
+    "pet-owners": {
+      "title": "ペットオーナーにおすすめの製品 2026",
+      "description": "ペットに必要なものすべて — 実際の動物でテストしたフード・健康・快適・遊びのアイテム。"
+    },
+    "new-parents": {
+      "title": "新米パパママにおすすめの製品 2026",
+      "description": "最初の1年のマストアイテム — 安全グッズ、寝かしつけ、授乳必需品、育児をラクにする道具。"
+    },
+    "remote-workers": {
+      "title": "リモートワーカーにおすすめの製品 2026",
+      "description": "フルリモート生活のための生産性&快適アイテム — エルゴノミクスから通信環境まで。"
+    }
+  },
+  "pages": {
+    "rankingTitle": "ランキング",
+    "rankingSub": "カテゴリー別ベスト",
+    "rankingDesc": "比較の深さでランク付けしたトップピック — 全{categories}カテゴリー・{reviews}本のレビューから。",
+    "picksCompared": "{count}製品を比較",
+    "moreCount": "ほか{count}件",
+    "browseAll": "すべて見る",
+    "newTitle": "今月の新着",
+    "newDesc": "新着のレビューと比較 — 全{categories}カテゴリーで計{count}本。",
+    "thisWeek": "今週",
+    "thisMonth": "今月",
+    "bestofSub": "2026年のベスト製品",
+    "all": "すべて",
+    "no1Pick": "#1ピック",
+    "fromPrice": "{price}〜",
+    "popularTitle": "人気",
+    "popularSub": "人気のレビュー",
+    "purposeHeading": "目的から探す",
+    "purposeLead": "どこから始めるか迷ったら——使う目的からぴったりの製品を見つけましょう。",
+    "otherFilters": "その他の絞り込み",
+    "tagsHeading": "タグから探す",
+    "compareHeading": "製品を比較",
+    "giftsSub": "あらゆるシーンのギフトアイデア",
+    "brandsSub": "ブランド別レビュー",
+    "reviewsCount": "{count}件のレビュー",
+    "seeArrow": "見る →",
+    "searchHeading": "レビューを検索",
+    "searchDesc": "全{categories}カテゴリー・{count}本のレビューから検索できます。",
+    "searchEmpty": "最近のレビューを表示中 — 入力して検索",
+    "otherEvents": "他のセールイベント:",
+    "articlesStats": "レビュー・比較 {count}本 · {categories}カテゴリー",
+    "latestBadge": "最新レビュー",
+    "annualGuide": "年間ガイド",
+    "editorsPicks": "編集部のおすすめ",
+    "bestofLead": "全10カテゴリーで徹底テストしたトップピック — 2026年を通じて新製品の登場や順位の変動に合わせて更新します。",
+    "allCatReviews": "{cat}のレビューをすべて見る →",
+    "moreCatReviews": "ほか{count}件の{cat}レビュー →",
+    "browseAllReviews": "全{count}本のレビューを見る →",
+    "tagsLead": "スタイル・ニーズ・特徴から製品を探す — ワイヤレスからエコ、予算重視からプレミアムまで。",
+    "browseTag": "{tag}を見る →",
+    "seeRecs": "おすすめを見る →",
+    "compareLead": "どちらを選ぶか迷ったら——並べて比較して、迷わず正しい製品を選べます。",
+    "compareNow": "今すぐ比較 →",
+    "bestTagProducts": "{tag}のおすすめ製品 2026",
+    "noTagArticles": "このタグの記事はまだありません。",
+    "viewAll": "すべて見る →",
+    "seeBrandReviews": "{brand}のレビューを見る →",
+    "brandBadge": "ブランドレビュー",
+    "noResults": "「{query}」に一致する結果はありません",
+    "resultsFor": "「{query}」の検索結果 {count}件",
+    "picksReviewed": "{count}製品をレビュー",
+    "bestBrandProducts": "{brand}のおすすめ製品 2026",
+    "brandStats": "{brand}製品{products}点をレビュー · 比較記事{articles}本",
+    "brandTested": "複数カテゴリーで{brand}製品を実際にテストし、買う価値のあるものを見極めました。",
+    "noBudgetResults": "この価格帯の製品はまだありません。",
+    "noUsecaseArticles": "この用途の記事はまだありません。"
+  },
+  "crossLinks": {
+    "headToHead": "1対1比較",
+    "saleGuide": "セールガイド",
+    "moreTags": "タグをもっと見る →",
+    "seeDeals": "セールを見る →"
   }
 }

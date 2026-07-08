@@ -87,6 +87,9 @@ export default async function CategoryPage({ params }: Props) {
   if (!VALID_CATEGORIES.includes(category as ArticleCategory)) notFound();
 
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const allInCat = listArticlesForLocale(locale).filter((a) => a.category === category);
   const articles = allInCat.filter((a) => hasApprovedAds(a, locale));
@@ -224,7 +227,7 @@ export default async function CategoryPage({ params }: Props) {
                     <div className="flex flex-1 flex-col p-4">
                       {badge && (
                         <p className="mb-1 truncate text-[11px] font-semibold text-amber-600">
-                          🏆 {badge}
+                          {badge && !/^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(badge) ? <>🏆 {badge}</> : null}
                         </p>
                       )}
                       <h2 className="text-sm font-bold leading-snug text-slate-900 transition-colors group-hover:text-brand-700 line-clamp-2">
@@ -237,7 +240,7 @@ export default async function CategoryPage({ params }: Props) {
                       )}
                       <div className="mt-3 flex items-center justify-between">
                         <span className="text-[11px] text-slate-400">
-                          {typeLabel} · {picksCount} picks
+                          {tt(`home.type${a.type.charAt(0).toUpperCase()}${a.type.slice(1)}`, typeLabel)} · {tt("home.picks", `${picksCount} picks`, { count: picksCount })}
                         </span>
                         <span className="text-[11px] font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">
                           Read →

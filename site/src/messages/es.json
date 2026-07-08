@@ -265,5 +265,355 @@
     "under100": "Menos de $100",
     "brands": "Marcas",
     "search": "Buscar"
+  },
+  "tagPages": {
+    "wireless": {
+      "label": "Inalámbrico",
+      "description": "Libertad sin cables: los mejores auriculares, cargadores, teclados, altavoces y dispositivos inalámbricos para el hogar."
+    },
+    "smart-home": {
+      "label": "Hogar inteligente",
+      "description": "Control por voz, conexión con apps y automatización: los mejores dispositivos de hogar inteligente para 2026."
+    },
+    "beginner-friendly": {
+      "label": "Para principiantes",
+      "description": "Fáciles de usar desde el primer día y pensados para durar: los mejores productos para quienes empiezan."
+    },
+    "compact": {
+      "label": "Compacto y ahorra espacio",
+      "description": "Tamaño mínimo, funcionalidad completa: los mejores electrodomésticos, gadgets y accesorios compactos para espacios reducidos."
+    },
+    "eco-friendly": {
+      "label": "Ecológico",
+      "description": "Fabricación sostenible, larga vida útil y pocos residuos: los mejores productos respetuosos con el medio ambiente."
+    },
+    "cordless": {
+      "label": "Sin cables",
+      "description": "Libertad a batería para tu hogar: las mejores aspiradoras, taladros y electrodomésticos sin cables."
+    },
+    "ergonomic": {
+      "label": "Ergonómico",
+      "description": "Diseñados para tu cuerpo: las mejores sillas, teclados, ratones y accesorios ergonómicos de bienestar."
+    },
+    "budget": {
+      "label": "Opciones económicas",
+      "description": "Máximo valor por tu dinero: los mejores productos que rinden por encima de su precio."
+    },
+    "premium": {
+      "label": "Premium",
+      "description": "Lo mejor de lo mejor: productos premium en los que el gasto extra realmente merece la pena."
+    },
+    "travel-friendly": {
+      "label": "Ideal para viajar",
+      "description": "Compactos, resistentes y aptos para el equipaje de mano: los mejores productos hechos para viajar."
+    },
+    "gifting": {
+      "label": "Para regalar",
+      "description": "Aciertos seguros que se convierten en regalos memorables: para cumpleaños, aniversarios, fiestas y más."
+    },
+    "work-from-home": {
+      "label": "Teletrabajo",
+      "description": "Todo lo que necesitas para una oficina en casa productiva: sillas, monitores, teclados, iluminación y herramientas de concentración."
+    },
+    "gym-workout": {
+      "label": "Gimnasio y entrenamiento",
+      "description": "Equipamiento que da resultados: los mejores aparatos, suplementos y ropa para entrenar en serio."
+    },
+    "outdoor-sports": {
+      "label": "Aire libre y deporte",
+      "description": "Preparado para los elementos: bastones de senderismo, equipo de running, capas impermeables y esenciales de aventura."
+    },
+    "cooking-kitchen": {
+      "label": "Cocina",
+      "description": "Lleva tu cocina al siguiente nivel: utensilios, gadgets, cuchillos y electrodomésticos que de verdad se usan."
+    },
+    "skincare-beauty": {
+      "label": "Cuidado de la piel y belleza",
+      "description": "Con respaldo científico y aprobados por la redacción: los mejores sérums, hidratantes y herramientas de belleza."
+    },
+    "better-sleep": {
+      "label": "Dormir mejor",
+      "description": "Optimiza tu descanso: las mejores almohadas, colchones, mantas pesadas y accesorios para dormir."
+    },
+    "for-pets": {
+      "label": "Para mascotas",
+      "description": "Premios, juguetes y esenciales que tu mascota adorará: los mejores productos para perros, gatos y más."
+    },
+    "for-parents": {
+      "label": "Para padres",
+      "description": "Artículos de bebé en los que puedes confiar: sillas de coche, portabebés, esenciales de alimentación y soluciones para dormir."
+    },
+    "health-wellness": {
+      "label": "Salud y bienestar",
+      "description": "Productos que cuidan tu bienestar a largo plazo: suplementos, herramientas de recuperación y hábitos saludables."
+    },
+    "home-organization": {
+      "label": "Organización del hogar",
+      "description": "Despeja y simplifica: soluciones de almacenaje, organizadores y sistemas que funcionan de verdad."
+    }
+  },
+  "salePages": {
+    "prime-day": {
+      "title": "Ofertas de Amazon Prime Day 2026",
+      "description": "Los mejores productos para comprar en el Prime Day: tecnología, hogar, fitness y belleza que merecen la pena incluso a precio completo."
+    },
+    "black-friday": {
+      "title": "Ofertas de Black Friday 2026",
+      "description": "Compras de Black Friday que merecen la pena: productos probados de todas las categorías donde los descuentos son realmente significativos."
+    },
+    "cyber-monday": {
+      "title": "Ofertas de Cyber Monday 2026",
+      "description": "Las mejores ofertas de Cyber Monday en tecnología, software y electrónica: productos que hemos probado y recomendamos a cualquier precio."
+    },
+    "mothers-day-deals": {
+      "title": "Ofertas del Día de la Madre 2026",
+      "description": "Productos de belleza, bienestar, hogar y gastronomía perfectos para regalar el Día de la Madre, y que suelen estar rebajados en mayo."
+    },
+    "holiday-deals": {
+      "title": "Ofertas navideñas 2026",
+      "description": "Las mejores ofertas festivas de todas las categorías: productos que merece la pena comprar durante la temporada de rebajas de noviembre y diciembre."
+    }
+  },
+  "comparePages": {
+    "air-fryer-vs-instant-pot": {
+      "title": "Freidora de aire vs Instant Pot",
+      "description": "¿Qué multicocina gana en el día a día? Comparamos las mejores freidoras de aire e Instant Pots en rapidez, versatilidad y precio."
+    },
+    "robot-vacuum-vs-stick-vacuum": {
+      "title": "Robot aspirador vs aspiradora escoba",
+      "description": "Comodidad automática o control manual: ¿qué tipo de aspiradora encaja con tu estilo de limpieza y tu hogar?"
+    },
+    "espresso-machine-vs-drip-coffee": {
+      "title": "Cafetera espresso vs cafetera de goteo",
+      "description": "Espresso de barista en casa o un café de goteo fiable a diario: ¿qué opción de café te conviene?"
+    },
+    "treadmill-vs-stationary-bike": {
+      "title": "Cinta de correr vs bicicleta estática",
+      "description": "Correr en casa o pedalear bajo techo: comparamos las mejores cintas y bicicletas estáticas en cardio, articulaciones y espacio."
+    },
+    "noise-cancelling-vs-open-back-headphones": {
+      "title": "Auriculares con cancelación de ruido vs abiertos",
+      "description": "Aislamiento y portabilidad frente a escena sonora y precisión: ¿qué tipo de auriculares va con tu forma de escuchar?"
+    },
+    "standing-desk-vs-ergonomic-chair": {
+      "title": "Escritorio de pie vs silla ergonómica",
+      "description": "Estar más de pie o sentarte mejor: ¿qué mejora de tu oficina en casa aporta más a tu espalda y a tu productividad?"
+    },
+    "protein-powder-vs-protein-bars": {
+      "title": "Proteína en polvo vs barritas de proteína",
+      "description": "Mezclar o desenvolver: comparamos las mejores proteínas en polvo y barritas en comodidad, sabor y nutrición."
+    },
+    "yoga-mat-vs-foam-roller": {
+      "title": "Esterilla de yoga vs rodillo de espuma",
+      "description": "Flexibilidad y fuerza frente a recuperación y movilidad: comparamos los accesorios de suelo más versátiles para entrenar."
+    },
+    "smart-watch-vs-fitness-tracker": {
+      "title": "Smartwatch vs pulsera de actividad",
+      "description": "Funciones inteligentes completas o seguimiento de salud especializado: ¿qué dispositivo de muñeca encaja con tus metas y estilo de vida?"
+    },
+    "blender-vs-food-processor": {
+      "title": "Batidora vs procesador de alimentos",
+      "description": "Smoothies y cremas frente a picar y amasar: ¿necesitas una batidora, un procesador de alimentos o ambos?"
+    },
+    "air-purifier-vs-humidifier": {
+      "title": "Purificador de aire vs humidificador",
+      "description": "Limpiar el aire o añadir humedad: ¿qué aparato resuelve el problema concreto de calidad del aire de tu casa?"
+    },
+    "massage-gun-vs-foam-roller": {
+      "title": "Pistola de masaje vs rodillo de espuma",
+      "description": "Terapia de percusión o liberación miofascial manual: ¿qué herramienta de recuperación merece un sitio en tu rutina?"
+    }
+  },
+  "giftPages": {
+    "christmas": {
+      "title": "Ideas de regalos de Navidad 2026",
+      "description": "Regalos probados de todas las categorías: hay algo para cada persona de tu lista."
+    },
+    "mothers-day": {
+      "title": "Ideas de regalos para el Día de la Madre 2026",
+      "description": "Regalos probados y con detalle para mamás: belleza, hogar, bienestar y gastronomía que le encantarán."
+    },
+    "fathers-day": {
+      "title": "Ideas de regalos para el Día del Padre 2026",
+      "description": "Regalos prácticos y probados para papás: tecnología, fitness, cocina y aire libre."
+    },
+    "graduation": {
+      "title": "Ideas de regalos de graduación 2026",
+      "description": "Regalos para recién graduados que empiezan una nueva etapa: tecnología, moda y esenciales financieros."
+    },
+    "valentines": {
+      "title": "Ideas de regalos para San Valentín 2026",
+      "description": "Regalos románticos y personales: belleza, gastronomía, moda y hogar."
+    },
+    "housewarming": {
+      "title": "Ideas de regalos de inauguración de casa 2026",
+      "description": "Regalos útiles y de calidad para un nuevo hogar: pequeños electrodomésticos, decoración y tecnología inteligente."
+    },
+    "birthday": {
+      "title": "Ideas de regalos de cumpleaños 2026",
+      "description": "Regalos de cumpleaños que aciertan con cualquier gusto: probados y clasificados."
+    },
+    "baby-shower": {
+      "title": "Ideas de regalos para baby shower 2026",
+      "description": "Regalos de bebé prácticos y con seguridad probada que los nuevos padres usarán de verdad."
+    },
+    "anniversary": {
+      "title": "Ideas de regalos de aniversario 2026",
+      "description": "Regalos de aniversario con significado: belleza, hogar, moda y gastronomía para cada etapa."
+    },
+    "back-to-school": {
+      "title": "Esenciales para la vuelta al cole 2026",
+      "description": "Tecnología, hogar, fitness y moda para estudiantes que vuelven a clase en 2026."
+    }
+  },
+  "brandPages": {
+    "nike": {
+      "description": "Calzado de rendimiento, ropa y equipamiento deportivo."
+    },
+    "adidas": {
+      "description": "Calzado deportivo, ropa y accesorios para el deporte."
+    },
+    "dyson": {
+      "description": "Electrodomésticos premium: aspiradoras, purificadores de aire y cuidado del cabello."
+    },
+    "philips": {
+      "description": "Electrónica, afeitado y cuidado personal, y productos de salud."
+    },
+    "anker": {
+      "description": "Productos de carga, audio y energía portátil."
+    },
+    "apple": {
+      "description": "iPhone, AirPods, Apple Watch y accesorios para Mac."
+    },
+    "kitchenaid": {
+      "description": "Batidoras amasadoras, batidoras de vaso y electrodomésticos de cocina."
+    },
+    "garmin": {
+      "description": "Pulseras de actividad con GPS, smartwatches y dispositivos de navegación."
+    },
+    "breville": {
+      "description": "Electrodomésticos de cocina premium: cafeteras espresso y freidoras de aire."
+    },
+    "nespresso": {
+      "description": "Cafeteras de cápsulas y sistemas de espresso."
+    },
+    "panasonic": {
+      "description": "Electrónica de consumo, electrodomésticos y cuidado personal."
+    },
+    "cuisinart": {
+      "description": "Electrodomésticos de cocina: procesadores de alimentos, cafeteras y más."
+    },
+    "rogue": {
+      "description": "Equipamiento de fitness de nivel profesional: barras, racks y discos."
+    },
+    "bowflex": {
+      "description": "Mancuernas ajustables, gimnasios en casa y máquinas de cardio."
+    },
+    "oxo": {
+      "description": "Utensilios de cocina y almacenaje diseñados para el uso diario."
+    },
+    "lodge": {
+      "description": "Utensilios y sartenes de hierro fundido fabricados en EE. UU."
+    },
+    "hario": {
+      "description": "Equipo japonés para preparar café: V60, hervidores y básculas."
+    }
+  },
+  "usecasePages": {
+    "home-office": {
+      "title": "La mejor oficina en casa 2026",
+      "description": "Todo lo que necesitas para montar una oficina en casa productiva: monitores, sillas, teclados, iluminación y más."
+    },
+    "college-students": {
+      "title": "Los mejores productos para universitarios 2026",
+      "description": "Compras inteligentes para la vida de estudiante: tecnología, esenciales de cocina, equipo de fitness y básicos de moda."
+    },
+    "travelers": {
+      "title": "El mejor equipo de viaje 2026",
+      "description": "Equipo probado para cualquier tipo de viaje: maletas, tecnología, fitness y moda que de verdad viajan bien."
+    },
+    "fitness-beginners": {
+      "title": "El mejor equipo de fitness para principiantes 2026",
+      "description": "Selección sin agobios para quienes empiezan a entrenar: aparatos, nutrición y herramientas de seguimiento."
+    },
+    "small-apartments": {
+      "title": "Los mejores productos para pisos pequeños 2026",
+      "description": "Opciones compactas que ahorran espacio: electrodomésticos multiusos, almacenaje inteligente y tecnología ingeniosa."
+    },
+    "pet-owners": {
+      "title": "Los mejores productos para dueños de mascotas 2026",
+      "description": "Todo lo que tu mascota necesita: alimentación, salud, confort y juego, probado con animales de verdad."
+    },
+    "new-parents": {
+      "title": "Los mejores productos para padres primerizos 2026",
+      "description": "Imprescindibles para el primer año: seguridad, ayudas para dormir, esenciales de alimentación y salvavidas del día a día."
+    },
+    "remote-workers": {
+      "title": "Los mejores productos para trabajar en remoto 2026",
+      "description": "Productividad y confort para el teletrabajo a tiempo completo: de la ergonomía a la conectividad."
+    }
+  },
+  "pages": {
+    "rankingTitle": "Rankings",
+    "rankingSub": "Lo mejor de cada categoría",
+    "rankingDesc": "Selecciones clasificadas por profundidad de comparación: {reviews} reseñas en {categories} categorías.",
+    "picksCompared": "{count} productos comparados",
+    "moreCount": "+{count} más",
+    "browseAll": "Ver todo",
+    "newTitle": "Novedades del mes",
+    "newDesc": "Reseñas y comparativas recién publicadas: {count} en total en {categories} categorías.",
+    "thisWeek": "Esta semana",
+    "thisMonth": "Este mes",
+    "bestofSub": "Los mejores productos de 2026",
+    "all": "Todo",
+    "no1Pick": "Elección n.º 1",
+    "fromPrice": "desde {price}",
+    "popularTitle": "Popular",
+    "popularSub": "Las reseñas más populares",
+    "purposeHeading": "Explorar por propósito",
+    "purposeLead": "¿No sabes por dónde empezar? Encuentra los productos adecuados según para qué los necesitas.",
+    "otherFilters": "Explorar con otros filtros",
+    "tagsHeading": "Explorar por etiqueta",
+    "compareHeading": "Comparar productos",
+    "giftsSub": "Ideas de regalo para cada ocasión",
+    "brandsSub": "Reseñas por marca",
+    "reviewsCount": "{count} reseñas",
+    "seeArrow": "Ver →",
+    "searchHeading": "Buscar reseñas",
+    "searchDesc": "{count} reseñas en {categories} categorías: encuentra lo que buscas.",
+    "searchEmpty": "Mostrando reseñas recientes: escribe para buscar",
+    "otherEvents": "Otros eventos:",
+    "articlesStats": "{count} reseñas y comparativas · {categories} categorías",
+    "latestBadge": "Últimas reseñas",
+    "annualGuide": "Guía anual",
+    "editorsPicks": "Selección del editor",
+    "bestofLead": "Nuestras mejores elecciones probadas en las 10 categorías — actualizadas a medida que se lanzan productos y cambian los rankings a lo largo de 2026.",
+    "allCatReviews": "Todas las reseñas de {cat} →",
+    "moreCatReviews": "+{count} reseñas más de {cat} →",
+    "browseAllReviews": "Ver las {count} reseñas →",
+    "tagsLead": "Encuentra productos por estilo, necesidad o característica — de inalámbrico a ecológico, de económico a premium.",
+    "browseTag": "Explorar {tag} →",
+    "seeRecs": "Ver recomendaciones →",
+    "compareLead": "¿No sabes cuál elegir? Nuestras comparativas lado a lado te ayudan a elegir el producto adecuado sin adivinar.",
+    "compareNow": "Comparar ahora →",
+    "bestTagProducts": "Mejores productos de {tag} 2026",
+    "noTagArticles": "Aún no hay artículos para esta etiqueta.",
+    "viewAll": "Ver todo →",
+    "seeBrandReviews": "Ver reseñas de {brand} →",
+    "brandBadge": "Reseñas de marca",
+    "noResults": "Sin resultados para \"{query}\"",
+    "resultsFor": "{count} resultados para \"{query}\"",
+    "picksReviewed": "{count} selecciones analizadas",
+    "bestBrandProducts": "Los mejores productos {brand} de 2026",
+    "brandStats": "{products} productos {brand} analizados · {articles} artículos comparativos",
+    "brandTested": "Hemos probado productos {brand} en varias categorías para descubrir cuáles merecen la pena.",
+    "noBudgetResults": "Aún no hay resultados en este rango de presupuesto.",
+    "noUsecaseArticles": "Aún no hay artículos para este caso de uso."
+  },
+  "crossLinks": {
+    "headToHead": "Cara a cara",
+    "saleGuide": "Guía de ofertas",
+    "moreTags": "Más etiquetas →",
+    "seeDeals": "Ver ofertas →"
   }
 }

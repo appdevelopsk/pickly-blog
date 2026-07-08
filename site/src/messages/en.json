@@ -275,5 +275,355 @@
     "under100": "Under $100",
     "brands": "Brands",
     "search": "Search"
+  },
+  "tagPages": {
+    "wireless": {
+      "label": "Wireless",
+      "description": "No-cable freedom — the best wireless headphones, chargers, keyboards, speakers, and home devices."
+    },
+    "smart-home": {
+      "label": "Smart Home",
+      "description": "Voice-controlled, app-connected, and automated — the best smart home devices for 2026."
+    },
+    "beginner-friendly": {
+      "label": "Beginner Friendly",
+      "description": "Easy to start, hard to outgrow — the best products for people just getting started."
+    },
+    "compact": {
+      "label": "Compact & Space-Saving",
+      "description": "Small footprint, full functionality — the best compact appliances, gadgets, and gear for tight spaces."
+    },
+    "eco-friendly": {
+      "label": "Eco-Friendly",
+      "description": "Sustainably made, long-lasting, and low-waste — the best environmentally conscious products."
+    },
+    "cordless": {
+      "label": "Cordless",
+      "description": "Battery-powered freedom for your home — the best cordless vacuums, drills, and appliances."
+    },
+    "ergonomic": {
+      "label": "Ergonomic",
+      "description": "Built for your body — the best ergonomic chairs, keyboards, mice, and wellness tools."
+    },
+    "budget": {
+      "label": "Budget Picks",
+      "description": "Maximum value per dollar — the best products that outperform their price tag."
+    },
+    "premium": {
+      "label": "Premium",
+      "description": "The best of the best — premium products where the extra cost is genuinely worth it."
+    },
+    "travel-friendly": {
+      "label": "Travel Friendly",
+      "description": "Compact, durable, and TSA-compliant — the best products built to travel."
+    },
+    "gifting": {
+      "label": "For Gifting",
+      "description": "Crowd-pleasing picks that make memorable presents — for birthdays, anniversaries, holidays, and more."
+    },
+    "work-from-home": {
+      "label": "Work From Home",
+      "description": "Everything you need for a productive home office — chairs, monitors, keyboards, lighting, and focus tools."
+    },
+    "gym-workout": {
+      "label": "Gym & Workout",
+      "description": "Gear that gets results — the best equipment, supplements, and apparel for serious training."
+    },
+    "outdoor-sports": {
+      "label": "Outdoor & Sports",
+      "description": "Built for the elements — hiking poles, running gear, waterproof layers, and adventure essentials."
+    },
+    "cooking-kitchen": {
+      "label": "Cooking & Kitchen",
+      "description": "Level up your kitchen — cookware, gadgets, knives, and appliances that actually get used."
+    },
+    "skincare-beauty": {
+      "label": "Skincare & Beauty",
+      "description": "Science-backed and editor-approved — the best serums, moisturizers, and beauty tools."
+    },
+    "better-sleep": {
+      "label": "Better Sleep",
+      "description": "Optimize your rest — the best pillows, mattresses, weighted blankets, and sleep accessories."
+    },
+    "for-pets": {
+      "label": "For Pets",
+      "description": "Treats, toys, and essentials your pet will love — the best gear for dogs, cats, and beyond."
+    },
+    "for-parents": {
+      "label": "For Parents",
+      "description": "Baby gear you can trust — car seats, carriers, feeding essentials, and sleep solutions."
+    },
+    "health-wellness": {
+      "label": "Health & Wellness",
+      "description": "Products that support your long-term wellbeing — supplements, recovery tools, and healthy habits."
+    },
+    "home-organization": {
+      "label": "Home Organization",
+      "description": "Declutter and simplify — storage solutions, organizers, and systems that actually work."
+    }
+  },
+  "salePages": {
+    "prime-day": {
+      "title": "Amazon Prime Day Deals 2026",
+      "description": "The best products to buy on Prime Day — tech, home, fitness, and beauty picks that are genuinely worth buying even at full price."
+    },
+    "black-friday": {
+      "title": "Black Friday Deals 2026",
+      "description": "Black Friday picks worth buying — tested products across every category where the discounts are actually meaningful."
+    },
+    "cyber-monday": {
+      "title": "Cyber Monday Deals 2026",
+      "description": "The best Cyber Monday deals on tech, software, and electronics — products we've tested and recommend at any price."
+    },
+    "mothers-day-deals": {
+      "title": "Mother's Day Sale Picks 2026",
+      "description": "Beauty, wellness, home, and food products that make great Mother's Day gifts — and often go on sale in May."
+    },
+    "holiday-deals": {
+      "title": "Holiday Sale Picks 2026",
+      "description": "The best holiday deals across every category — products worth buying during the November–December sale season."
+    }
+  },
+  "comparePages": {
+    "air-fryer-vs-instant-pot": {
+      "title": "Air Fryer vs Instant Pot",
+      "description": "Which multi-cooker wins for everyday cooking? We compare the best air fryers and Instant Pots on speed, versatility, and value."
+    },
+    "robot-vacuum-vs-stick-vacuum": {
+      "title": "Robot Vacuum vs Stick Vacuum",
+      "description": "Automated convenience vs hands-on control — which vacuum type fits your cleaning style and home?"
+    },
+    "espresso-machine-vs-drip-coffee": {
+      "title": "Espresso Machine vs Drip Coffee Maker",
+      "description": "Barista-level espresso at home vs a reliable daily drip — which coffee setup is right for you?"
+    },
+    "treadmill-vs-stationary-bike": {
+      "title": "Treadmill vs Stationary Bike",
+      "description": "Running at home vs cycling indoors — we compare the best treadmills and exercise bikes for cardio, joints, and space."
+    },
+    "noise-cancelling-vs-open-back-headphones": {
+      "title": "Noise-Cancelling vs Open-Back Headphones",
+      "description": "Isolation and portability vs soundstage and accuracy — which headphone type suits your listening style?"
+    },
+    "standing-desk-vs-ergonomic-chair": {
+      "title": "Standing Desk vs Ergonomic Chair",
+      "description": "Stand more vs sit better — which home office upgrade delivers more value for your back and productivity?"
+    },
+    "protein-powder-vs-protein-bars": {
+      "title": "Protein Powder vs Protein Bars",
+      "description": "Mix it or unwrap it — comparing the best protein powders and protein bars for convenience, taste, and nutrition."
+    },
+    "yoga-mat-vs-foam-roller": {
+      "title": "Yoga Mat vs Foam Roller",
+      "description": "Flexibility and strength vs recovery and mobility — comparing the most versatile fitness floor accessories."
+    },
+    "smart-watch-vs-fitness-tracker": {
+      "title": "Smartwatch vs Fitness Tracker",
+      "description": "Full smart features vs focused health tracking — which wrist device matches your goals and lifestyle?"
+    },
+    "blender-vs-food-processor": {
+      "title": "Blender vs Food Processor",
+      "description": "Smoothies and soups vs chopping and dough — do you need a blender, a food processor, or both?"
+    },
+    "air-purifier-vs-humidifier": {
+      "title": "Air Purifier vs Humidifier",
+      "description": "Clean the air vs add moisture — which home air device solves your specific indoor air quality issue?"
+    },
+    "massage-gun-vs-foam-roller": {
+      "title": "Massage Gun vs Foam Roller",
+      "description": "Percussive therapy vs manual myofascial release — which recovery tool is worth adding to your routine?"
+    }
+  },
+  "giftPages": {
+    "christmas": {
+      "title": "Christmas Gift Ideas 2026",
+      "description": "Tested gift picks across every category — something for everyone on your list."
+    },
+    "mothers-day": {
+      "title": "Mother's Day Gift Ideas 2026",
+      "description": "Thoughtful, tested gifts for moms — beauty, home, wellness, and food picks she'll love."
+    },
+    "fathers-day": {
+      "title": "Father's Day Gift Ideas 2026",
+      "description": "Practical, tested gifts for dads — tech, fitness, kitchen, and outdoor picks."
+    },
+    "graduation": {
+      "title": "Graduation Gift Ideas 2026",
+      "description": "Gifts for new graduates starting their next chapter — tech, fashion, and financial essentials."
+    },
+    "valentines": {
+      "title": "Valentine's Day Gift Ideas 2026",
+      "description": "Romantic, personal gift picks — beauty, food, fashion, and home."
+    },
+    "housewarming": {
+      "title": "Housewarming Gift Ideas 2026",
+      "description": "Useful, quality gifts for a new home — kitchen appliances, home décor, and smart tech."
+    },
+    "birthday": {
+      "title": "Birthday Gift Ideas 2026",
+      "description": "Crowd-pleasing birthday gifts across every interest — tested and ranked."
+    },
+    "baby-shower": {
+      "title": "Baby Shower Gift Ideas 2026",
+      "description": "Practical, safety-tested baby gifts new parents will actually use."
+    },
+    "anniversary": {
+      "title": "Anniversary Gift Ideas 2026",
+      "description": "Meaningful anniversary gifts — beauty, home, fashion, and food picks for every milestone."
+    },
+    "back-to-school": {
+      "title": "Back to School Essentials 2026",
+      "description": "Tech, home, fitness, and fashion picks for students heading back in 2026."
+    }
+  },
+  "brandPages": {
+    "nike": {
+      "description": "Performance footwear, apparel, and sports equipment."
+    },
+    "adidas": {
+      "description": "Athletic footwear, apparel, and sports gear."
+    },
+    "dyson": {
+      "description": "Premium home appliances — vacuums, air purifiers, hair care."
+    },
+    "philips": {
+      "description": "Electronics, grooming, and healthcare products."
+    },
+    "anker": {
+      "description": "Charging, audio, and portable power products."
+    },
+    "apple": {
+      "description": "iPhones, AirPods, Apple Watch, and Mac accessories."
+    },
+    "kitchenaid": {
+      "description": "Stand mixers, blenders, and kitchen appliances."
+    },
+    "garmin": {
+      "description": "GPS fitness trackers, smartwatches, and navigation devices."
+    },
+    "breville": {
+      "description": "Premium kitchen appliances — espresso machines, air fryers."
+    },
+    "nespresso": {
+      "description": "Capsule coffee machines and espresso systems."
+    },
+    "panasonic": {
+      "description": "Consumer electronics, home appliances, and grooming."
+    },
+    "cuisinart": {
+      "description": "Kitchen appliances — food processors, coffee makers, and more."
+    },
+    "rogue": {
+      "description": "Professional-grade fitness equipment — barbells, racks, plates."
+    },
+    "bowflex": {
+      "description": "Adjustable dumbbells, home gyms, and cardio equipment."
+    },
+    "oxo": {
+      "description": "Kitchen tools and storage designed for everyday use."
+    },
+    "lodge": {
+      "description": "Cast iron cookware and skillets made in the USA."
+    },
+    "hario": {
+      "description": "Japanese coffee brewing equipment — V60, kettles, scales."
+    }
+  },
+  "usecasePages": {
+    "home-office": {
+      "title": "Best Home Office Setup 2026",
+      "description": "Everything you need to build a productive home office — monitors, chairs, keyboards, lighting, and more."
+    },
+    "college-students": {
+      "title": "Best Products for College Students 2026",
+      "description": "Budget-smart picks for dorm life — tech, kitchen essentials, fitness gear, and fashion basics."
+    },
+    "travelers": {
+      "title": "Best Travel Gear 2026",
+      "description": "Tested gear for every kind of trip — luggage, tech, fitness, and fashion picks that actually travel well."
+    },
+    "fitness-beginners": {
+      "title": "Best Fitness Gear for Beginners 2026",
+      "description": "No-overwhelm fitness picks for people just starting out — equipment, nutrition, and tracking tools."
+    },
+    "small-apartments": {
+      "title": "Best Products for Small Apartments 2026",
+      "description": "Compact, space-saving picks for small living — multi-use appliances, smart storage, and clever tech."
+    },
+    "pet-owners": {
+      "title": "Best Products for Pet Owners 2026",
+      "description": "Everything your pet needs — food, health, comfort, and play picks tested for real animals."
+    },
+    "new-parents": {
+      "title": "Best Products for New Parents 2026",
+      "description": "Must-have picks for the first year — safety gear, sleep aids, feeding essentials, and sanity-savers."
+    },
+    "remote-workers": {
+      "title": "Best Products for Remote Workers 2026",
+      "description": "Productivity and comfort picks for the full-time remote lifestyle — from ergonomics to connectivity."
+    }
+  },
+  "pages": {
+    "rankingTitle": "Rankings",
+    "rankingSub": "Best of every category",
+    "rankingDesc": "Top picks ranked by depth of comparison — {reviews} reviews across {categories} categories.",
+    "picksCompared": "{count} picks compared",
+    "moreCount": "+{count} more",
+    "browseAll": "Browse all",
+    "newTitle": "New this month",
+    "newDesc": "Recently published reviews and comparisons — {count} total across {categories} categories.",
+    "thisWeek": "This week",
+    "thisMonth": "This month",
+    "bestofSub": "Best products of 2026",
+    "all": "All",
+    "no1Pick": "#1 Pick",
+    "fromPrice": "from {price}",
+    "popularTitle": "Popular",
+    "popularSub": "Most popular reviews",
+    "purposeHeading": "Browse by Purpose",
+    "purposeLead": "Not sure where to start? Find the right products by what you need them for.",
+    "otherFilters": "Browse by other filters",
+    "tagsHeading": "Browse by Tag",
+    "compareHeading": "Compare Products",
+    "giftsSub": "Gift ideas for every occasion",
+    "brandsSub": "Reviews by brand",
+    "reviewsCount": "{count} reviews",
+    "seeArrow": "See →",
+    "searchHeading": "Search reviews",
+    "searchDesc": "{count} reviews across {categories} categories — find what you're looking for.",
+    "searchEmpty": "Showing recent reviews — start typing to search",
+    "otherEvents": "Other events:",
+    "articlesStats": "{count} reviews & comparisons · {categories} categories",
+    "latestBadge": "Latest reviews",
+    "annualGuide": "Annual guide",
+    "editorsPicks": "Editor’s picks",
+    "bestofLead": "Our top-tested picks across all 10 categories — updated as products launch and rankings shift throughout 2026.",
+    "allCatReviews": "All {cat} reviews →",
+    "moreCatReviews": "+{count} more {cat} reviews →",
+    "browseAllReviews": "Browse all {count} reviews →",
+    "tagsLead": "Find products by style, need, or feature — from wireless to eco-friendly, budget to premium.",
+    "browseTag": "Browse {tag} →",
+    "seeRecs": "See recommendations →",
+    "compareLead": "Not sure which to choose? Our side-by-side comparisons help you pick the right product without the guesswork.",
+    "compareNow": "Compare now →",
+    "bestTagProducts": "Best {tag} products 2026",
+    "noTagArticles": "No articles found for this tag yet.",
+    "viewAll": "View all →",
+    "seeBrandReviews": "See {brand} reviews →",
+    "brandBadge": "Brand reviews",
+    "noResults": "No results for \"{query}\"",
+    "resultsFor": "{count} results for \"{query}\"",
+    "picksReviewed": "{count} picks reviewed",
+    "bestBrandProducts": "Best {brand} products 2026",
+    "brandStats": "{products} {brand} products reviewed · {articles} comparison articles",
+    "brandTested": "We've tested {brand} products across multiple categories to find which ones are worth buying.",
+    "noBudgetResults": "No results in this budget range yet.",
+    "noUsecaseArticles": "No articles found for this use case yet."
+  },
+  "crossLinks": {
+    "headToHead": "Head-to-head",
+    "saleGuide": "Sale guide",
+    "moreTags": "More tags →",
+    "seeDeals": "See deals →"
   }
 }

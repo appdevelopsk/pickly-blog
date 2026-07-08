@@ -18,6 +18,9 @@ export default async function BrandsIndexPage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
 
   const allArticles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
 
@@ -37,15 +40,15 @@ export default async function BrandsIndexPage({ params }: Props) {
       <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">
         <Link href="/" className="hover:text-slate-600 transition-colors">{siteName}</Link>
         <span>/</span>
-        <span className="text-slate-600 font-medium">Brands</span>
+        <span className="text-slate-600 font-medium">{t("discover.brands")}</span>
       </nav>
 
       <section className="py-10 md:py-12">
         <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-slate-100 border border-slate-200 px-4 py-1.5 text-xs font-bold text-slate-600">
-          🏷️ Brand reviews
+          🏷️ {tt("pages.brandBadge", "Brand reviews")}
         </div>
         <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
-          Reviews by brand
+          {tt("pages.brandsSub", "Reviews by brand")}
         </h1>
         <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">
           Browse our product reviews organized by manufacturer — find out which brands consistently deliver and which ones to skip.
@@ -68,10 +71,10 @@ export default async function BrandsIndexPage({ params }: Props) {
               </span>
             </div>
             <p className="flex-1 text-sm text-slate-400 leading-relaxed line-clamp-2">
-              {b.description}
+              {tt(`brandPages.${b.slug}.description`, b.description)}
             </p>
             <p className="mt-4 text-sm font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">
-              See {b.name} reviews →
+              {tt("pages.seeBrandReviews", `See ${b.name} reviews →`, { brand: b.name })}
             </p>
           </Link>
         ))}
