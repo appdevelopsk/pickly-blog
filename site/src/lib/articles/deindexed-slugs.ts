@@ -358,7 +358,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-pet-insurance-2026",
   "best-pet-stain-remover-2026",
   "best-pet-stairs-2026",
-  "best-pet-vacuum-2026",
   "best-pet-water-fountain-2026",
   "best-pimple-patches-2026",
   "best-plant-based-milk-2026",
