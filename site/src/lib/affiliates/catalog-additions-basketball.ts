@@ -202,7 +202,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "jordan-tatum-3",
-    imageUrl: "",
+    imageUrl: "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c33acc6e-ccf8-4393-96cd-f2419e96b1a1/JORDAN+TATUM+3.png",
     category: "fitness",
     name: { en: "Jordan Tatum 3" },
     description: { en: "The Tatum line is built for a versatile two-way wing, and its cushioning reflects that — a balanced Formula 23 foam and Zoom setup that protects landings while keeping a responsive, planted feel for all-around play." },

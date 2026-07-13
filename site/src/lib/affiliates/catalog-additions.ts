@@ -1855,7 +1855,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "composting-bin-bamboozle-food",
-    "imageUrl": "https://wormskillwaste.com/wp-content/uploads/2023/09/Bamboozle-Food-Compost-Bin.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61xTpMXPRHL._AC_SL1500_.jpg",
     "priceMin": "35",
     "priceMax": "45",
     "category": "home",
@@ -25606,7 +25606,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "uniqlo-rayon-easy-dress",
-    "imageUrl": "",
+    "imageUrl": "https://www.refinery29.com/images/11118239.png",
     "priceMin": "$40",
     "priceMax": "$50",
     "category": "fashion",
@@ -30182,7 +30182,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "policygenius-term-marketplace",
-    "imageUrl": "https://iireporter.com/wp-content/uploads/2020/06/Policygenius-Brighthouse-Financial-540x360.png",
+    "imageUrl": "https://insurtechanalyst.com/wp-content/uploads/2019/12/1.jpg",
     "priceMin": "$20",
     "priceMax": "$150",
     "category": "finance",
@@ -32184,7 +32184,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "capital-one-360-cd",
-    "imageUrl": "https://i.ytimg.com/vi/gFZEEMQYSws/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/MEgzhoFlQAM/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -33380,7 +33380,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "paw-bros-electric-grooming-table",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61iDOFHDfPL.jpg",
+    "imageUrl": "https://groomerspro.com/media/catalog/product/cache/e725de89028991824c70c1b0c78b9455/p/b/pbp89363_1.default_1__65415.jpg",
     "priceMin": "$500",
     "priceMax": "$700",
     "category": "pets",
@@ -35356,7 +35356,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ryobi-40v-21inch-snow-blower",
-    "imageUrl": "",
+    "imageUrl": "https://homedepot.scene7.com/is/image/homedepotcanada/p_1001343893.jpg?wid=1000&hei=1000&op_sharpen=1",
     "priceMin": "$500",
     "priceMax": "$700",
     "category": "home",
@@ -36032,7 +36032,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sage-50cloud-pro",
-    "imageUrl": "https://myexcol.com/wp-content/uploads/2021/01/Sage-Software-Sage-50cloud-Pro-Accounting-2020-U.S.-One-Year-Subscription-1.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61J25rEGaEL._AC_SL1000_.jpg",
     "priceMin": "$60",
     "priceMax": "$200",
     "category": "tech",
