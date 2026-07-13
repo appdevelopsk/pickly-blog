@@ -44,7 +44,7 @@ jobs:
           git add GROWTH_REPORT.md 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "chore: weekly GA4 growth report [skip ci]"
-            git push
+            n=0; until git push; do n=$((n+1)); [ $n -ge 3 ] && exit 1; git pull --rebase; sleep $((n*5)); done
           else
             echo "no report change (not configured or no data)"
           fi

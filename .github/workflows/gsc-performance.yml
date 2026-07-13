@@ -48,5 +48,5 @@ jobs:
             echo "No new GSC data."
           else
             git commit -m "chore: gsc snapshot $(date +%Y-%m-%d) [skip ci]"
-            git push
+            n=0; until git push; do n=$((n+1)); [ $n -ge 3 ] && exit 1; git pull --rebase; sleep $((n*5)); done
           fi

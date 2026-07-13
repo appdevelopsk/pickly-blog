@@ -54,7 +54,7 @@ jobs:
           else
             FIXED=$(grep -oP '(?<=✓ Success : )\d+' /tmp/fetch-report.txt | paste -sd+ | bc || echo 0)
             git commit -m "fix: auto-replace ${FIXED} broken product images [skip ci]"
-            git push
+            n=0; until git push; do n=$((n+1)); [ $n -ge 3 ] && exit 1; git pull --rebase; sleep $((n*5)); done
           fi
 
       - name: Create issue for residual failures
