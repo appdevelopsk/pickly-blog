@@ -9,6 +9,7 @@ import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { ArticleBody } from "@/components/articles/ArticleBody";
 import { ArticleCrossLinks } from "@/components/articles/ArticleCrossLinks";
 import { RelatedArticles } from "@/components/articles/RelatedArticles";
+import { Comments } from "@/components/articles/Comments";
 import { getRelatedCards } from "@/components/articles/related-data";
 import { SisterSiteCta } from "@/components/SisterSiteCta";
 import { AffiliateClickTracker } from "@/components/AffiliateClickTracker";
@@ -258,6 +259,7 @@ export default async function ArticlePage({ params }: Props) {
       <div className="mx-auto max-w-3xl px-4 sm:px-6">
         {meta.category === "finance" && <SisterSiteCta />}
         <ArticleCrossLinks slug={slug} category={meta.category} />
+        <Comments slug={slug} locale={locale} />
         <RelatedArticles slug={slug} category={meta.category} locale={locale} />
       </div>
       <AffiliateClickTracker slug={slug} />
