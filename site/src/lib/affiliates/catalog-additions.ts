@@ -2766,7 +2766,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "desk-pad-grovemade-leather",
-    "imageUrl": "",
+    "imageUrl": "https://theawesomer.com/photos/2020/04/grovemade_leather_desk_pads_3.jpg",
     "priceMin": "18000",
     "priceMax": "25000",
     "category": "tech",
@@ -4924,7 +4924,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "green-powder-organifi-green-juice",
-    "imageUrl": "https://www.serendnight.com/image/cache/images/2020-12-11/75d8a4/feea7ce1fb9421fed7fec3554e1270808b6c90d9_101-1000x1000.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61aNerxgcNL._SL1024_.jpg",
     "priceMin": "60",
     "priceMax": "80",
     "category": "food",
@@ -5392,7 +5392,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hot-choc-cacao-barry-plein-arome",
-    "imageUrl": "",
+    "imageUrl": "https://essentials.my/wp-content/uploads/2023/11/callebaut-new-packaging-plein-arome-cocoa-powder.jpg",
     "priceMin": "12.99",
     "priceMax": "19.99",
     "category": "food",
@@ -5470,7 +5470,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-hada-labo-gokujun",
-    "imageUrl": "",
+    "imageUrl": "https://mail.rohto.co.id/assets/uploads/product/20240212102735.png",
     "priceMin": "¥660",
     "priceMax": "¥660",
     "category": "beauty",
@@ -16030,7 +16030,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "andis-proclip-agc2",
-    "imageUrl": "https://www.trisap.com/image/cache/images/2024-05-29/9c2ac1/e901c523ef28936fbb38b3db019a78d6ee6297be_101-1000x1000.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/818PmRP67wL._AC_SL1500_.jpg",
     "priceMin": "$170",
     "priceMax": "$220",
     "category": "pets",
@@ -25606,7 +25606,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "uniqlo-rayon-easy-dress",
-    "imageUrl": "https://www.uniqlo.com/ph/en/news/topics/2019071001/img/34T_SC2F190620pGaEun.jpg",
+    "imageUrl": "",
     "priceMin": "$40",
     "priceMax": "$50",
     "category": "fashion",
@@ -26178,7 +26178,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ally-bank-savings",
-    "imageUrl": "https://www.ally.com/content/ally/en/content-hub/save/use-spending-and-savings-buckets-to-pay-off-debt/_jcr_content/root/main/article/section_913494029/row/column/image.img.png/1683572755378/savings-bucket-phone-in-line1.png",
+    "imageUrl": "",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -30260,7 +30260,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "travelex-travel-select",
-    "imageUrl": "",
+    "imageUrl": "https://www.digitalnomadreport.com/wp-content/uploads/2024/11/Travelex-Travel-Select-1-2048x993.jpg",
     "priceMin": "$60",
     "priceMax": "$300",
     "category": "finance",
@@ -31768,7 +31768,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "netspend-all-access-prepaid",
-    "imageUrl": "https://i.ytimg.com/vi/s97INDNgt6s/maxresdefault.jpg",
+    "imageUrl": "https://www.netspend.com/_next/image?url=https:%2F%2Fnetspendprd.wpenginepowered.com%2Fwp-content%2Fuploads%2F2024%2F05%2Fnetspend-3card-packages.png&w=3840&q=90",
     "priceMin": "Free",
     "priceMax": "$5/mo",
     "category": "finance",
@@ -32184,7 +32184,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "capital-one-360-cd",
-    "imageUrl": "https://i.ytimg.com/vi/MEgzhoFlQAM/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/gFZEEMQYSws/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -33068,7 +33068,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "frida-baby-smilefrida-toothbrush",
-    "imageUrl": "https://www.mumzworld.com/media/catalog/product/cache/8bf0fdee44d330ce9e3c910273b66bb2/t/c/tc-092b-frida-baby-smilefrida-toothhugger-kids-toothbrush-blue-1603591782.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61T-QQmyiSL._SL1100_.jpg",
     "priceMin": "$8",
     "priceMax": "$12",
     "category": "parenting",
@@ -34212,7 +34212,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "marmot-trestles-elite-throw",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71w+D6YUG3L._AC_SL1500_.jpg",
     "priceMin": "$80",
     "priceMax": "$110",
     "category": "travel",
@@ -36968,7 +36968,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "bamboohr-essentials",
-    "imageUrl": "https://thenewschoolexeter.co.uk/wp-content/upload/2026/03/bamboohr-tutorials.jpg",
+    "imageUrl": "http://swag.bamboohr.net/cdn/shop/files/Bamboo_HR_Essential_Bookbound_Journal_28572830-7024-4535-9d60-6c8d68766692.png?v=1722438810",
     "priceMin": "$99",
     "priceMax": "$500",
     "category": "tech",
@@ -41610,7 +41610,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "kindle-oasis",
-    imageUrl: "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6356/6356804cv14d.jpg",
+    imageUrl: "https://images.fonearena.com/blog/wp-content/uploads/2016/04/amazon_kindle_oasis_unboxing_1-1024x576.jpg",
     category: "tech",
     name: { en: "Kindle Oasis" },
     description: { en: "The Kindle Oasis is the premium Kindle for readers who want physical page-turn buttons and ergonomic one-handed reading." },
