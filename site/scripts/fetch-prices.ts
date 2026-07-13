@@ -62,15 +62,15 @@ function extractJpPrice(html: string): string | null {
   return null;
 }
 
-function formatUsd(raw: string | undefined): string | null {
-  if (!raw) return null;
-  const m = raw.match(/\$[\d.,]+/);
+function formatUsd(raw: string | number | undefined): string | null {
+  if (raw == null) return null;
+  const m = String(raw).match(/\$[\d.,]+/);
   return m ? m[0] : null;
 }
 
-function formatJpy(raw: string | undefined): string | null {
-  if (!raw) return null;
-  const m = raw.match(/¥[\d,]+/);
+function formatJpy(raw: string | number | undefined): string | null {
+  if (raw == null) return null;
+  const m = String(raw).match(/¥[\d,]+/);
   return m ? m[0] : null;
 }
 
