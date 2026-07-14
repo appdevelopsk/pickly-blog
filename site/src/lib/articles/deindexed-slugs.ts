@@ -481,7 +481,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-travel-credit-card-2026",
   "best-travel-day-pack-2026",
   "best-travel-document-organizer-2026",
-  "best-travel-fanny-pack-2026",
   "best-travel-first-aid-kit-2026",
   "best-travel-garment-bag-2026",
   "best-travel-hair-dryer-2026",
