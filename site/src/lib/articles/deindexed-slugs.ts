@@ -303,7 +303,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-pacifier-2026",
   "best-packing-cubes-2026",
   "best-parallette-bars-2026",
-  "best-passport-holder-2026",
   "best-password-manager-2026",
   "best-payroll-software-2026",
   "best-pearl-earrings-2026",
