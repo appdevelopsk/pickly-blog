@@ -2246,7 +2246,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cookware-set-hexclad-hybrid",
-    "imageUrl": "https://www.spincompetitions.co.uk/wp-content/uploads/2024/07/7-Piece-HexClad-Hybrid-Cookware-Set-product-1.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/61VC2776rCL._AC_SL1153_.jpg",
     "priceMin": "499",
     "priceMax": "549",
     "category": "home",
@@ -2948,7 +2948,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dish-rack-muji-acrylic-jp",
-    "imageUrl": "https://media.karousell.com/media/photos/products/2024/10/25/japanese_muji_2_layer_dish_rac_1729873372_83117253_progressive.jpg",
+    "imageUrl": "https://media.karousell.com/media/photos/products/2023/7/27/muji_dish_drying_rack_1690421510_efe66f10_progressive.jpg",
     "priceMin": "¥2,500",
     "priceMax": "¥4,000",
     "category": "home",
@@ -5392,7 +5392,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hot-choc-cacao-barry-plein-arome",
-    "imageUrl": "https://essentials.my/wp-content/uploads/2023/11/callebaut-new-packaging-plein-arome-cocoa-powder.jpg",
+    "imageUrl": "https://www.gosupps.com/media/catalog/product/cache/25/small_image/1500x1650/9df78eab33525d08d6e5fb8d27136e95/v/o/vol2512part251216251216300imagesbig1.webp_3a20ce2cc8.jpg",
     "priceMin": "12.99",
     "priceMax": "19.99",
     "category": "food",
@@ -5470,7 +5470,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-hada-labo-gokujun",
-    "imageUrl": "https://mail.rohto.co.id/assets/uploads/product/20240212102735.png",
+    "imageUrl": "",
     "priceMin": "¥660",
     "priceMax": "¥660",
     "category": "beauty",
@@ -20398,7 +20398,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "allbirds-tree-dasher-2",
-    "imageUrl": "https://www.rerun.allbirds.com/cdn/shop/files/m6k1fpgw1xu6tkjeyxrx.png?v=1733873182&width=1946",
+    "imageUrl": "https://m.media-amazon.com/images/I/71YFTqfMDoL._AC_SL1500_.jpg",
     "priceMin": "$135",
     "priceMax": "$145",
     "category": "travel",
@@ -21152,7 +21152,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "uniqlo-denim-jacket",
-    "imageUrl": "https://www.refinery29.com/images/9448351.jpg",
+    "imageUrl": "https://auctions.afimg.jp/r1038178580/ya/image/r1038178580.1.jpg",
     "priceMin": "$50",
     "priceMax": "$70",
     "category": "fashion",
@@ -21204,7 +21204,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "spier-mackay-flannel-blazer",
-    "imageUrl": "https://spierandmackay.com/files/catalog/PRODUCT_IMAGES/9767-DBZ1-model-1633x2643-(1).jpg",
+    "imageUrl": "",
     "priceMin": "$359",
     "priceMax": "$429",
     "category": "fashion",
@@ -25606,7 +25606,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "uniqlo-rayon-easy-dress",
-    "imageUrl": "https://www.refinery29.com/images/11118239.png",
+    "imageUrl": "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/476758/item/eugoods_09_476758_3x4.jpg",
     "priceMin": "$40",
     "priceMax": "$50",
     "category": "fashion",
@@ -31976,7 +31976,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "chime-credit-builder-card",
-    "imageUrl": "https://www.theappflow.com/wp-content/uploads/2025/06/credit-card-builder-min-700x287.png",
+    "imageUrl": "https://images.ctfassets.net/ao7gxs2zk32d/5SJIk6cbOhFmPZMCjKsXEl/0fca2ff615391e5340acc146589ce62b/New-Header.png?fm=webp&w=1920&q=75",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -36344,7 +36344,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "adp-run",
-    "imageUrl": "",
+    "imageUrl": "https://i.ytimg.com/vi/1mpaltw5nW8/maxresdefault.jpg",
     "priceMin": "$60",
     "priceMax": "$300",
     "category": "tech",
@@ -40026,7 +40026,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "argan-oil-100-pure",
-    "imageUrl": "https://www.queenofoil.com/wp-content/uploads/2021/05/5-min.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/71KBu1ePJwL.jpg",
     "category": "beauty",
     "badge": "🌿 Best Single-Ingredient Value",
     "name": {
@@ -40521,7 +40521,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "mango-straight-jeans",
-    "imageUrl": "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87020449_TM.jpg?ts=1729852443973&imwidth=1024&imdensity=1",
+    "imageUrl": "",
     "category": "fashion",
     "badge": "Best European Cut Value",
     "name": { "en": "Mango Straight Leg Jeans", "ja": "マンゴー ストレートレッグジーンズ" },
