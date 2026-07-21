@@ -82,9 +82,12 @@ jobs:
         uses: actions/cache@v6
         with:
           path: site/og-dist
-          key: og-v1-${{ hashFiles('site/src/articles/**/messages/**', 'site/scripts/generate-og.ts') }}
+          # og-v2: Top-N 製品リスト入りテンプレ（2026-07-21）。世代を上げると旧キャッシュを
+          # 復元しなくなり、全画像が新テンプレで再生成される（restore-keysが旧世代を
+          # 拾うと OG_FORCE 無しでは既存分がスキップされるため、テンプレ変更時は世代を上げること）。
+          key: og-v2-${{ hashFiles('site/src/articles/**/messages/**', 'site/scripts/generate-og.ts') }}
           restore-keys: |
-            og-v1-
+            og-v2-
 
       - name: Generate OG images (incremental)
         run: npm run og:generate

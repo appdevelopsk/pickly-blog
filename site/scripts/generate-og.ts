@@ -12,9 +12,13 @@ import fs from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 import { Resvg } from "@resvg/resvg-js";
+import { CATALOG } from "../src/lib/affiliates/catalog";
 
 const ROOT = path.resolve(__dirname, "..");
 const ARTICLES_DIR = path.join(ROOT, "src/articles");
+
+// offerId → offer。ピン下部の Top-N 製品リスト描画に使う。
+const OFFER_MAP = new Map(CATALOG.map((o) => [o.id, o]));
 // Output dir is OUTSIDE public/ so the ~9.8k PNGs are NOT copied into the static
 // export (`out/`) — they're uploaded to R2 instead, keeping the Cloudflare Pages
 // deploy under the Free-plan 20,000-file limit. Override with OG_OUT_DIR.
@@ -22,6 +26,8 @@ const OUT_DIR = process.env.OG_OUT_DIR
   ? path.resolve(process.env.OG_OUT_DIR)
   : path.join(ROOT, "og-dist");
 const ONLY_LOCALE = process.argv.find((a) => a.startsWith("--locale="))?.split("=")[1] ?? "";
+// --slug=<slug> で特定記事のみ生成（テンプレ変更のデバッグ用）
+const ONLY_SLUG = process.argv.find((a) => a.startsWith("--slug="))?.split("=")[1] ?? "";
 // Skip images that already exist (fast incremental runs with a CI cache).
 // Set OG_FORCE=1 to regenerate everything (e.g. after a template change).
 const FORCE = process.env.OG_FORCE === "1";
@@ -155,12 +161,17 @@ async function main() {
       continue;
     }
 
+    if (ONLY_SLUG && slug !== ONLY_SLUG) continue;
+
     let category = "default";
+    let offerIds: string[] = [];
     try {
       const metaPath = path.join(ARTICLES_DIR, slug, "meta.ts");
       const metaContent = await fs.readFile(metaPath, "utf8");
       const m = metaContent.match(/category:\s*["']([^"']+)["']/);
       if (m && m[1]) category = m[1];
+      const ids = metaContent.match(/offerIds:\s*\[([\s\S]*?)\]/);
+      if (ids && ids[1]) offerIds = [...ids[1].matchAll(/["']([^"']+)["']/g)].map((x) => x[1]);
     } catch (_e) { void 0; }
 
     for (const file of locales) {
@@ -174,12 +185,23 @@ async function main() {
         await fs.readFile(path.join(messagesDir, file), "utf8"),
       ) as ArticleMessages;
 
+      // Top-N 製品リスト（カタログの locale 名。無い locale は en にフォールバック）
+      const products = offerIds
+        .map((id) => OFFER_MAP.get(id))
+        .filter((o): o is NonNullable<typeof o> => !!o)
+        .slice(0, 5)
+        .map((o) => ({
+          name: o.name[locale] ?? o.name.en ?? Object.values(o.name)[0] ?? o.id,
+          price: o.price ?? "",
+        }));
+
       const svg = renderSvg({
         title: json.title ?? json.meta?.title ?? slug,
         slug,
         locale,
         category,
         subtitle: json.pinDescription,
+        products,
       });
 
       const resvg = new Resvg(svg, {
@@ -212,16 +234,19 @@ function renderSvg(opts: {
   locale: string;
   category: string;
   subtitle?: string;
+  products?: { name: string; price: string }[];
 }): string {
   const colors = COLOR_SCHEMES[opts.category] ?? COLOR_SCHEMES.default;
   const safeLocale = escapeXml(opts.locale.toUpperCase());
   const isRtl = opts.locale === "ar";
+  const products = opts.products ?? [];
 
   // Title wrap: weight per char (ASCII=1, CJK/Hangul/Fullwidth=2, others≈1.2)
   // Cap at ~18 weight units per line for the 92px font on 880px usable width.
   // 18 fits ~9 CJK chars or ~17 narrow Latin chars (Helvetica avg ≈48px/char).
   const titleLines = wrapWeighted(opts.title, 18, 5);
-  const titleStartY = 420;
+  // 製品リストがある時はタイトルを上に寄せ、下半分をリストに使う
+  const titleStartY = products.length >= 2 ? 300 : 420;
   const titleLineHeight = 110;
 
   const subtitleText = opts.subtitle ?? "";
@@ -231,6 +256,31 @@ function renderSvg(opts: {
 
   const titleAnchor = isRtl ? "end" : "start";
   const titleX = isRtl ? 940 : 60;
+
+  // ── Top-N 製品リスト（空白だった下半分を「中身の予告」で埋める）──
+  // 収まる行数だけ描画。2行未満しか入らないならリスト自体を省略（旧レイアウト）。
+  const listHeadY = subtitleStartY + subtitleLines.length * subtitleLineHeight + 60;
+  const rowH = 96;
+  const footerY = 1410;
+  const fitRows = Math.floor((footerY - 50 - (listHeadY + 50)) / rowH);
+  const listRows = fitRows >= 2 ? products.slice(0, Math.min(5, fitRows)) : [];
+  const listSvg = listRows.length
+    ? `
+  <!-- Top products list -->
+  <text x="60" y="${listHeadY}" font-family="${FONT_STACK}" font-size="26" fill="${colors.accent}" font-weight="800" letter-spacing="3">TOP ${listRows.length}</text>
+  <rect x="60" y="${listHeadY + 14}" width="880" height="2" fill="rgba(255,255,255,0.18)"/>
+  ${listRows.map((p, i) => {
+    const y = listHeadY + 50 + i * rowH;
+    const name = escapeXml(truncWeighted(p.name, p.price ? 30 : 40));
+    const price = p.price ? `<text x="940" y="${y + 40}" font-family="${FONT_STACK}" font-size="28" fill="rgba(255,255,255,0.75)" font-weight="600" text-anchor="end">${escapeXml(p.price)}</text>` : "";
+    const divider = i < listRows.length - 1 ? `<rect x="120" y="${y + 72}" width="820" height="1" fill="rgba(255,255,255,0.10)"/>` : "";
+    return `<circle cx="88" cy="${y + 30}" r="26" fill="${colors.accent}"/>
+  <text x="88" y="${y + 40}" font-family="${FONT_STACK}" font-size="28" fill="#ffffff" font-weight="800" text-anchor="middle">${i + 1}</text>
+  <text x="140" y="${y + 40}" font-family="${FONT_STACK}" font-size="33" fill="#ffffff" font-weight="700">${name}</text>
+  ${price}
+  ${divider}`;
+  }).join("\n  ")}`
+    : "";
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500"${isRtl ? ' direction="rtl"' : ""}>
@@ -268,6 +318,7 @@ function renderSvg(opts: {
     const y = subtitleStartY + i * subtitleLineHeight;
     return `<text x="${titleX}" y="${y}" font-family="${FONT_STACK}" font-size="32" fill="rgba(255,255,255,0.85)" font-weight="400" text-anchor="${titleAnchor}">${safe}</text>`;
   }).join("\n  ")}
+${listSvg}
 
   <!-- Footer brand -->
   <rect x="0" y="1410" width="1000" height="90" fill="rgba(0,0,0,0.4)"/>
@@ -298,6 +349,19 @@ function strWeight(s: string): number {
   let w = 0;
   for (const ch of s) w += charWeight(ch);
   return w;
+}
+
+/** 1行に収まる weight 上限で切り、超えた場合は「…」を付ける。 */
+function truncWeighted(s: string, maxWeight: number): string {
+  let w = 0;
+  let out = "";
+  for (const ch of s) {
+    const cw = charWeight(ch);
+    if (w + cw > maxWeight) return out.replace(/[([{,;:·\-–—\s]+$/u, "") + "…";
+    out += ch;
+    w += cw;
+  }
+  return out;
 }
 
 /**
