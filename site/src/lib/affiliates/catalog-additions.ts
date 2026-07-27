@@ -5470,7 +5470,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-hada-labo-gokujun",
-    "imageUrl": "",
+    "imageUrl": "https://rohto.co.id/assets/uploads/product/20240212102735.png",
     "priceMin": "¥660",
     "priceMax": "¥660",
     "category": "beauty",
@@ -5574,7 +5574,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-cosrx-advanced-snail",
-    "imageUrl": "https://auraglow.pk/wp-content/uploads/2024/01/advanced-snail-96-mucin.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71CEjwLxS1L.jpg",
     "priceMin": "$20",
     "priceMax": "$20",
     "category": "beauty",
@@ -22010,7 +22010,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "chase-total-checking",
-    "imageUrl": "https://i.ytimg.com/vi/P7BCz7AuegA/maxresdefault.jpg",
+    "imageUrl": "https://www.xiaojeff.com/wp-content/uploads/2021/06/chase-total-checking-banner-1024x538.png",
     "priceMin": "$0",
     "priceMax": "$12/mo",
     "category": "finance",
@@ -25710,7 +25710,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "athleta-power-train-tight",
-    "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2022/07/31/62e718dddbb0e7a57c3169b3/l_62e719a2bd66cd0f2c62adef.jpg",
+    "imageUrl": "https://di2ponv0v5otw.cloudfront.net/posts/2023/10/12/65289e481645f788012d78a0/m_65289e62253a8c770b99167c.jpg",
     "priceMin": "$98",
     "priceMax": "$118",
     "category": "fashion",
@@ -26178,7 +26178,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ally-bank-savings",
-    "imageUrl": "",
+    "imageUrl": "https://images-cdn.ispot.tv/ad/14kP/default-large.jpg",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
@@ -29922,7 +29922,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "kobalt-80v-21-mower",
-    "imageUrl": "https://kobalt.toolstopreview.com/wp-content/uploads/sites/2/2025/01/Kobalt-80V-Max-21-Inch-Brushless-Cordless-Push-Lawn-Mower.png",
+    "imageUrl": "",
     "priceMin": "$400",
     "priceMax": "$550",
     "category": "home",
@@ -31898,7 +31898,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "capital-one-platinum-secured",
-    "imageUrl": "https://www.cnet.com/a/img/resize/9460af006c654a46fe86ec6ed0316c5bfd8dcb6f/hub/2022/01/05/1757cfc4-dac9-4318-b68c-a70a254b197d/capital-one-platinum-secured-credit-card.png?auto=webp&fit=crop&height=630&width=1200",
+    "imageUrl": "https://cdn.wallethub.com/common/product/images/creditcards/500/capital-one-secured-credit-card-1323383c.png",
     "priceMin": "$49",
     "priceMax": "$200",
     "category": "finance",
@@ -32054,7 +32054,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "discover-money-market",
-    "imageUrl": "https://i.ytimg.com/vi/zsFf5z-2jiQ/maxresdefault.jpg",
+    "imageUrl": "https://images.moneycontrol.com/static-mcnews/2020/10/2-how-amazon-earns-money.jpg",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -32184,7 +32184,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "capital-one-360-cd",
-    "imageUrl": "https://i.ytimg.com/vi/MEgzhoFlQAM/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/gFZEEMQYSws/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -35954,7 +35954,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "xero-growing",
-    "imageUrl": "https://www.linktly.com/wp-content/uploads/2025/12/xero-growing-business-2026.jpg",
+    "imageUrl": "https://ecloud-experts.com/wp-content/uploads/How-Amazon-Xero-and-QuickBooks-Work-Together.png",
     "priceMin": "$32",
     "priceMax": "$78",
     "category": "tech",
@@ -36344,7 +36344,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "adp-run",
-    "imageUrl": "https://i.ytimg.com/vi/1mpaltw5nW8/maxresdefault.jpg",
+    "imageUrl": "",
     "priceMin": "$60",
     "priceMax": "$300",
     "category": "tech",
@@ -36682,7 +36682,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "activecampaign-plus",
-    "imageUrl": "https://launchsherpas.com/wp-content/uploads/2023/06/Activecampaign-Plus.png",
+    "imageUrl": "",
     "priceMin": "$29",
     "priceMax": "$400",
     "category": "tech",
@@ -36708,7 +36708,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vsp-individual-vision",
-    "imageUrl": "",
+    "imageUrl": "https://healthyamericainsurance.com/images/plansquare_2022_vspindividual.jpg",
     "priceMin": "$13",
     "priceMax": "$40",
     "category": "finance",
