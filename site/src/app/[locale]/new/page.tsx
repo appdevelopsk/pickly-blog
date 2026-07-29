@@ -191,7 +191,7 @@ export default async function NewPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "New Reviews 2026 | Pickly";
+  const title = "New Reviews 2026";
   const description = "Recently published product reviews and comparisons — updated regularly across fitness, tech, home, beauty, and more.";
   const url = `${SITE_URL}/${locale}/new`;
   return {

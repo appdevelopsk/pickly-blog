@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { LOCALES, isIndexedLocale } from "@/lib/i18n/locales";
+import { LOCALES, isIndexedLocale, DEFAULT_LOCALE } from "@/lib/i18n/locales";
 import { listArticles } from "@/lib/articles/registry";
 import { isDeindexed } from "@/lib/articles/deindexed-slugs";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
@@ -16,7 +16,7 @@ export const dynamic = "force-static";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
-const STATIC_PATHS = ["", "/articles", "/popular", "/new", "/best-2026", "/search", "/author", "/gifts", "/brands", "/tags", "/compare", "/about", "/privacy", "/terms", "/contact", "/disclosure"];
+const STATIC_PATHS = ["", "/articles", "/popular", "/new", "/best-2026", "/search", "/author", "/gifts", "/brands", "/tags", "/compare", "/about", "/privacy", "/terms", "/contact", "/disclosure", "/purpose", "/ranking"];
 
 const BUDGETS = ["50", "100", "200", "500"];
 
@@ -40,9 +40,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: path === "" ? "daily" : "monthly",
         priority: path === "" ? 1.0 : 0.5,
         alternates: {
-          languages: Object.fromEntries(
-            IDX.map((l) => [l, `${SITE_URL}/${l}${path}/`]),
-          ),
+          languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}${path}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}${path}/` },
         },
       });
     }
@@ -52,14 +50,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const budget of BUDGETS) {
     for (const locale of IDX) {
       out.push({
-        url: `${SITE_URL}/${locale}/under-${budget}/`,
+        url: `${SITE_URL}/${locale}/under/${budget}/`,
         lastModified: now,
         changeFrequency: "weekly",
         priority: 0.7,
         alternates: {
-          languages: Object.fromEntries(
-            IDX.map((l) => [l, `${SITE_URL}/${l}/under-${budget}/`]),
-          ),
+          languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/under/${budget}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/under/${budget}/` },
         },
       });
     }
@@ -73,7 +69,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency: "monthly",
         priority: 0.8,
-        alternates: { languages: Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/gifts/${occ.slug}/`])) },
+        alternates: { languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/gifts/${occ.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/gifts/${occ.slug}/` } },
       });
     }
   }
@@ -86,7 +82,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency: "monthly",
         priority: 0.7,
-        alternates: { languages: Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/for/${uc.slug}/`])) },
+        alternates: { languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/for/${uc.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/for/${uc.slug}/` } },
       });
     }
   }
@@ -99,7 +95,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency: "monthly",
         priority: 0.6,
-        alternates: { languages: Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/brand/${brand.slug}/`])) },
+        alternates: { languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/brand/${brand.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/brand/${brand.slug}/` } },
       });
     }
   }
@@ -112,7 +108,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency: "monthly" as const,
         priority: 0.7,
-        alternates: { languages: Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/sale/${ev.slug}/`])) },
+        alternates: { languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/sale/${ev.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/sale/${ev.slug}/` } },
       });
     }
   }
@@ -125,7 +121,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency: "weekly" as const,
         priority: 0.7,
-        alternates: { languages: Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/tag/${tag.slug}/`])) },
+        alternates: { languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/tag/${tag.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/tag/${tag.slug}/` } },
       });
     }
   }
@@ -138,7 +134,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency: "monthly" as const,
         priority: 0.8,
-        alternates: { languages: Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/compare/${cmp.slug}/`])) },
+        alternates: { languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/compare/${cmp.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/compare/${cmp.slug}/` } },
       });
     }
   }
@@ -152,9 +148,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: "weekly",
         priority: 0.7,
         alternates: {
-          languages: Object.fromEntries(
-            IDX.map((l) => [l, `${SITE_URL}/${l}/category/${cat}/`]),
-          ),
+          languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/category/${cat}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/category/${cat}/` },
         },
       });
     }

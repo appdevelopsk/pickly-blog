@@ -197,7 +197,7 @@ export async function generateMetadata({ params }: Props) {
   const { locale, brand } = await params;
   const config = BRAND_MAP[brand];
   if (!config) return {};
-  const title = `Best ${config.name} Products 2026 | Pickly`;
+  const title = `Best ${config.name} Products 2026`;
   const description = `${config.description} We've tested ${config.name} products across multiple categories — find out which ones are actually worth buying in 2026.`;
   const url = `${SITE_URL}/${locale}/brand/${brand}`;
   return {

@@ -171,7 +171,7 @@ export async function generateMetadata({ params }: Props) {
   const { locale, event } = await params;
   const config = SALE_EVENT_MAP[event];
   if (!config) return {};
-  const title = `${config.title} | Pickly`;
+  const title = `${config.title}`;
   const url = `${SITE_URL}/${locale}/sale/${event}`;
   return {
     title, description: config.description,

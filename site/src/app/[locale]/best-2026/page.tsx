@@ -250,7 +250,7 @@ export default async function Best2026Page({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Best Products of 2026 | Pickly";
+  const title = "Best Products of 2026";
   const description = "Our top-tested picks across fitness, tech, home, beauty, food, fashion, finance, travel, parenting, and pets — the definitive 2026 buying guide.";
   const url = `${SITE_URL}/${locale}/best-2026`;
   return {

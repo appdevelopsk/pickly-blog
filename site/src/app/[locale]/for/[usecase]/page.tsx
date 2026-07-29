@@ -188,7 +188,7 @@ export async function generateMetadata({ params }: Props) {
   const { locale, usecase } = await params;
   const config = USE_CASE_MAP[usecase];
   if (!config) return {};
-  const title = `${config.title} | Pickly`;
+  const title = `${config.title}`;
   const description = config.description;
   const url = `${SITE_URL}/${locale}/for/${usecase}`;
   return {

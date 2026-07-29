@@ -260,7 +260,7 @@ export default async function PopularPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Most Popular Reviews 2026 | Pickly";
+  const title = "Most Popular Reviews 2026";
   const description = "Our highest-rated product comparisons — tested, curated, and updated for 2026.";
   const canonicalUrl = `${SITE_URL}/${locale}/popular`;
   return {

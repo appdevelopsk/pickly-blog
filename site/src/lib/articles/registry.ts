@@ -1,4 +1,5 @@
 import type { ArticleMeta } from "./types";
+import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { meta as bestVpn2026 } from "@/articles/best-vpn-2026/meta";
 import { meta as bestCoffeeGrinder2026 } from "@/articles/best-coffee-grinder-2026/meta";
 import { meta as bestElectricToothbrush2026 } from "@/articles/best-electric-toothbrush-2026/meta";
@@ -838,8 +839,13 @@ export function getRelatedArticles(
   const selfTokens = slugTokens(slug);
   const selfOffers = new Set(self?.offerIds ?? []);
 
+  // ★hasApprovedAds まで見ないと「生成されないページ」へリンクしてしまう。
+  // articles/[slug] の generateStaticParams は locales と hasApprovedAds の両方で
+  // 絞っているのに、ここは locales しか見ていなかったため、関連記事モジュールが
+  // 未生成URLを参照して内部404を752本(134スラッグ・79は全ロケール)生んでいた。
+  // 生成条件と完全に一致させる (2026-07-29)。
   const candidates = REGISTRY.filter(
-    (a) => a.slug !== slug && a.locales.includes(loc),
+    (a) => a.slug !== slug && a.locales.includes(loc) && hasApprovedAds(a, locale),
   );
 
   function score(a: ArticleMeta): number {

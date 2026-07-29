@@ -88,14 +88,22 @@ export default async function UnderBudgetPage({ params }: Props) {
   const { locale, budget } = await params;
   setRequestLocale(locale);
 
-  if (!VALID_BUDGETS.includes(budget as Budget)) notFound();
+  // 旧ルートは `under-[budget]` という「部分的な動的セグメント」だった。Next 15 は
+  // generateStaticParams からのパス生成(=/en/under-50/ の出力)はできるのに、
+  // リクエスト時に params.budget を undefined で渡す。その結果 VALID_BUDGETS の判定が
+  // 必ず落ちて notFound() → 静的エクスポートでは「HTTP 200 なのに中身は404ページ」という
+  // ソフト404を全ロケール分(8×4=32URL)書き出し、しかもsitemapとフッターが全ページから
+  // それを参照していた。ルートを `under/[budget]` の正規セグメントに作り直して根治
+  // (2026-07-29)。旧URLは _redirects で301。
+  const budgetKey = budget.replace(/^under-/, "");
+  if (!VALID_BUDGETS.includes(budgetKey as Budget)) notFound();
 
   const t = await getTranslations();
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
     try { return t(key, values); } catch { return fallback; }
   };
-  const threshold = parseInt(budget, 10);
-  const label = BUDGET_LABELS[budget as Budget];
+  const threshold = parseInt(budgetKey, 10);
+  const label = BUDGET_LABELS[budgetKey as Budget];
 
   const all = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
   const articles = all
@@ -120,7 +128,7 @@ export default async function UnderBudgetPage({ params }: Props) {
     "@context": "https://schema.org",
     "@type": "ItemList",
     name: `Best Products ${label}`,
-    url: `${SITE_URL}/${locale}/under-${budget}`,
+    url: `${SITE_URL}/${locale}/under/${budgetKey}`,
     numberOfItems: articles.length,
     itemListElement: articles.slice(0, 10).map((a, i) => {
       const { title } = loadArticleCardMeta(a.slug, locale);
@@ -148,16 +156,16 @@ export default async function UnderBudgetPage({ params }: Props) {
             Best products {label}
           </h1>
           <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">
-            {articles.length} reviews where the top-ranked option costs less than ${budget}. Sorted by price, lowest first.
+            {articles.length} reviews where the top-ranked option costs less than ${budgetKey}. Sorted by price, lowest first.
           </p>
         </section>
 
         {/* Other budget links */}
         <nav className="mb-10 flex flex-wrap gap-2">
-          {VALID_BUDGETS.filter((b) => b !== budget).map((b) => (
+          {VALID_BUDGETS.filter((b) => b !== budgetKey).map((b) => (
             <Link
               key={b}
-              href={`/under-${b}`}
+              href={`/under/${b}`}
               className="rounded-full border border-slate-200 bg-white px-4 py-1.5 text-sm font-medium text-slate-500 hover:border-brand-300 hover:bg-brand-50 hover:text-brand-700 transition-colors"
             >
               {BUDGET_LABELS[b as Budget]}
@@ -235,14 +243,15 @@ export default async function UnderBudgetPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale, budget } = await params;
-  if (!VALID_BUDGETS.includes(budget as Budget)) return {};
-  const label = BUDGET_LABELS[budget as Budget];
-  const title = `Best Products ${label} in 2026 | Pickly`;
-  const description = `Tested product reviews where top picks cost less than $${budget}. Fitness, tech, home, beauty, and more — all ${label}.`;
-  const url = `${SITE_URL}/${locale}/under-${budget}`;
+  const budgetKey = budget.replace(/^under-/, "");
+  if (!VALID_BUDGETS.includes(budgetKey as Budget)) return {};
+  const label = BUDGET_LABELS[budgetKey as Budget];
+  const title = `Best Products ${label} in 2026`;
+  const description = `Tested product reviews where top picks cost less than $${budgetKey}. Fitness, tech, home, beauty, and more — all ${label}.`;
+  const url = `${SITE_URL}/${locale}/under/${budgetKey}`;
   return {
     title, description,
-    alternates: { canonical: url, languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/under-${budget}`])) },
+    alternates: { canonical: url, languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/under/${budgetKey}`])) },
     openGraph: { type: "website", title, description, url, siteName: "Pickly" },
     twitter: { card: "summary", title, description },
   };

@@ -157,7 +157,7 @@ export async function generateMetadata({ params }: Props) {
   const { locale, tag } = await params;
   const config = TAG_MAP[tag];
   if (!config) return {};
-  const title = `Best ${config.label} Products 2026 | Pickly`;
+  const title = `Best ${config.label} Products 2026`;
   const url = `${SITE_URL}/${locale}/tag/${tag}`;
   return {
     title, description: config.description,

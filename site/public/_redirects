@@ -17,5 +17,12 @@
 /images/* /images/:splat 200
 /web-stories/* /web-stories/:splat 200
 
+# 旧 /:locale/under-<N>/ は部分動的セグメントのバグでソフト404だった(2026-07-29修正)。
+# 正規ルート /:locale/under/<N>/ へ301。
+/:locale/under-50 /:locale/under/50/ 301
+/:locale/under-100 /:locale/under/100/ 301
+/:locale/under-200 /:locale/under/200/ 301
+/:locale/under-500 /:locale/under/500/ 301
+
 # Strip trailing-slash duplicates handled by Next config; this catches edges.
 /:locale /:locale/ 301

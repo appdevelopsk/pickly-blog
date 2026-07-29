@@ -85,7 +85,7 @@ export default async function BrandsIndexPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Product Reviews by Brand 2026 | Pickly";
+  const title = "Product Reviews by Brand 2026";
   const description = "Browse tested product reviews organized by brand — Nike, Dyson, Apple, Philips, Anker, KitchenAid, and more.";
   const url = `${SITE_URL}/${locale}/brands`;
   return {

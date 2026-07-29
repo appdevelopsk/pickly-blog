@@ -450,7 +450,7 @@ export default async function HomePage({ params }: Props) {
               </div>
             </Link>
             {/* Budget */}
-            <Link href="/under-100" className="group flex items-start gap-4 rounded-2xl border border-green-100 bg-green-50 p-5 transition-all hover:border-green-300 hover:shadow-md">
+            <Link href="/under/100" className="group flex items-start gap-4 rounded-2xl border border-green-100 bg-green-50 p-5 transition-all hover:border-green-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>💰</span>
               <div>
                 <p className="mb-1 font-black text-slate-900 group-hover:text-green-700 transition-colors">{tt("home.budgetTitle", "Best under $100")}</p>

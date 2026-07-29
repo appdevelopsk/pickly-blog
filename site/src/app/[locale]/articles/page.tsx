@@ -244,7 +244,9 @@ export async function generateMetadata({ params }: Props) {
   let siteName = "Pickly";
   try { siteName = t("site.name"); } catch { /* missing */ }
   return {
-    title: `${title} | ${siteName}`,
+    // ルート layout の template:"%s | Pickly" が既にブランドを付けるため、
+    // ここで付けると「… | Pickly | Pickly」と二重になる (2026-07-29)
+    title,
     description: `Browse all reviews and comparisons on ${siteName}.`,
   };
 }

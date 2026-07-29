@@ -49,7 +49,7 @@ export default async function TagsIndexPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Browse by Tag | Pickly";
+  const title = "Browse by Tag";
   const description = "Find the best products by tag — wireless, eco-friendly, budget, premium, compact, and more.";
   const url = `${SITE_URL}/${locale}/tags`;
   return {

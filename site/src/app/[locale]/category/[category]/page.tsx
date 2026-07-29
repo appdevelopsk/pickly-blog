@@ -271,7 +271,7 @@ export async function generateMetadata({ params }: Props) {
   let catLabel = category;
   try { catLabel = t(`category.${category}`); } catch { /* missing */ }
 
-  const title = `Best ${catLabel} Products 2026 | Pickly`;
+  const title = `Best ${catLabel} Products 2026`;
   const description = CATEGORY_DESCRIPTIONS[category] ?? `Best ${catLabel} products reviewed.`;
   const canonicalUrl = `${SITE_URL}/${locale}/category/${category}`;
 

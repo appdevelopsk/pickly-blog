@@ -93,7 +93,7 @@ export default async function PurposePage({ params }: Props) {
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
-  const title = "Browse by Purpose | Pickly";
+  const title = "Browse by Purpose";
   const description = "Find the right products by what you need them for — gifting, workout, skincare, home office, cooking, and more.";
   const url = `${SITE_URL}/${locale}/purpose`;
   return {

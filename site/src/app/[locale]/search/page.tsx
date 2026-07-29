@@ -114,7 +114,7 @@ export default async function SearchPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Search Product Reviews | Pickly";
+  const title = "Search Product Reviews";
   const description = "Search hundreds of product reviews and comparisons across fitness, tech, home, beauty, food, and more.";
   const canonicalUrl = `${SITE_URL}/${locale}/search`;
   return {

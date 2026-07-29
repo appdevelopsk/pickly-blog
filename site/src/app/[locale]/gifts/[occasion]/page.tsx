@@ -245,7 +245,7 @@ export async function generateMetadata({ params }: Props) {
   const { locale, occasion } = await params;
   const config = OCCASION_MAP[occasion];
   if (!config) return {};
-  const title = `${config.title} | Pickly`;
+  const title = `${config.title}`;
   const description = config.description;
   const url = `${SITE_URL}/${locale}/gifts/${occasion}`;
   return {

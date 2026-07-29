@@ -84,8 +84,8 @@ export function SiteFooter() {
               <Link href="/gifts"     className="text-slate-400 hover:text-white transition-colors">🎁 {t("discover.gifts")}</Link>
               <Link href="/compare"   className="text-slate-400 hover:text-white transition-colors">⚖️ {t("discover.compare")}</Link>
               <Link href="/tags"      className="text-slate-400 hover:text-white transition-colors">🏷️ {t("discover.tags")}</Link>
-              <Link href="/under-50"  className="text-slate-400 hover:text-white transition-colors">💰 {t("discover.under50")}</Link>
-              <Link href="/under-100" className="text-slate-400 hover:text-white transition-colors">💰 {t("discover.under100")}</Link>
+              <Link href="/under/50"  className="text-slate-400 hover:text-white transition-colors">💰 {t("discover.under50")}</Link>
+              <Link href="/under/100" className="text-slate-400 hover:text-white transition-colors">💰 {t("discover.under100")}</Link>
               <Link href="/brands"    className="text-slate-400 hover:text-white transition-colors">🎯 {t("discover.brands")}</Link>
               <Link href="/search"    className="text-slate-400 hover:text-white transition-colors">🔍 {t("discover.search")}</Link>
             </nav>

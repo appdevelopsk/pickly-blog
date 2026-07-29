@@ -1,4 +1,4 @@
-import { notFound, redirect } from "next/navigation";
+import { notFound } from "next/navigation";
 import { setRequestLocale } from "next-intl/server";
 import { LOCALES, DEFAULT_LOCALE, inferMarketFromLocale } from "@/lib/i18n/locales";
 import { listArticles, getArticle } from "@/lib/articles/registry";
@@ -62,10 +62,28 @@ export default async function ArticlePage({ params }: Props) {
   const meta = getArticle(slug);
   if (!meta) notFound();
 
-  // If the article has no translation for this locale, redirect to English.
-  // In static export this generates a meta-refresh redirect HTML (no 404).
+  // 未翻訳ロケールは英語版へ送る。
+  // ★ここは元々 redirect() を呼んでいたが、**静的エクスポートでは meta-refresh にならず**、
+  // NEXT_REDIRECT が処理されずに「HTTP 200 なのに中身は __next_error__ ページ」という
+  // ソフト404を書き出していた(全ロケール計1104URL。うちja/de/es/fr/it/pt-BR/ruは
+  // インデックス対象なので実害大)。コメントが述べていた本来の意図どおり、
+  // meta-refresh を自前で描画する。canonicalとrobotsは generateMetadata 側で英語に寄せる。
+  // (2026-07-29)
   if (locale !== DEFAULT_LOCALE && !isArticleBodyTranslated(slug, locale)) {
-    redirect(`/${DEFAULT_LOCALE}/articles/${slug}/`);
+    const target = `/${DEFAULT_LOCALE}/articles/${slug}/`;
+    return (
+      <>
+        <meta httpEquiv="refresh" content={`0; url=${target}`} />
+        <div className="mx-auto max-w-2xl px-4 py-20 text-center">
+          <p className="text-slate-600">
+            Redirecting to the English version…{" "}
+            <a href={target} className="underline">
+              Continue
+            </a>
+          </p>
+        </div>
+      </>
+    );
   }
 
   // Load only this article's messages (not all 575) — keeps RSC payload small
@@ -158,7 +176,12 @@ export default async function ArticlePage({ params }: Props) {
     .filter((o) => meta.offerIds.includes(o.id) && pickLink(o, market) !== null)
     .sort((a, b) => meta.offerIds.indexOf(a.id) - meta.offerIds.indexOf(b.id));
 
-  const canonicalUrl = `${SITE_URL}/${locale}/articles/${slug}/`;
+  // 未翻訳ロケールは英語版の複製(meta-refreshで送る)なので、canonicalを英語に寄せて
+  // noindexにする。放置すると重複＋言語ミスマッチとして評価される。
+  const untranslated = locale !== DEFAULT_LOCALE && !isArticleBodyTranslated(slug, locale);
+  const canonicalUrl = untranslated
+    ? `${SITE_URL}/${DEFAULT_LOCALE}/articles/${slug}/`
+    : `${SITE_URL}/${locale}/articles/${slug}/`;
   const ogImageUrl = meta.ogImage
     ? meta.ogImage === "auto"
       ? `${OG_BASE_URL}/og/${slug}-${locale}.png`
@@ -277,7 +300,12 @@ export async function generateMetadata({ params }: Props) {
   const title = safeStr(msg, "title") || slug;
   const description = safeStr(msg, "description");
 
-  const canonicalUrl = `${SITE_URL}/${locale}/articles/${slug}/`;
+  // 未翻訳ロケールは英語版の複製(meta-refreshで送る)なので、canonicalを英語に寄せて
+  // noindexにする。放置すると重複＋言語ミスマッチとして評価される。
+  const untranslated = locale !== DEFAULT_LOCALE && !isArticleBodyTranslated(slug, locale);
+  const canonicalUrl = untranslated
+    ? `${SITE_URL}/${DEFAULT_LOCALE}/articles/${slug}/`
+    : `${SITE_URL}/${locale}/articles/${slug}/`;
   const ogImageUrl = meta.ogImage
     ? meta.ogImage === "auto"
       ? `${OG_BASE_URL}/og/${slug}-${locale}.png`
@@ -289,11 +317,16 @@ export async function generateMetadata({ params }: Props) {
     description,
     // 厳選(2026-06-29): 需要ゼロ〜微小の死蔵記事は noindex,follow でサイト全体の
     // 品質評価(AdSense低価値/HCU)から外す。ページ自体はライブ維持(Pinterest用)。可逆。
-    ...(isDeindexed(slug) ? { robots: { index: false, follow: true } } : {}),
+    ...(isDeindexed(slug) || untranslated ? { robots: { index: false, follow: true } } : {}),
     alternates: {
       canonical: canonicalUrl,
+      // hreflang は「実際に本文が翻訳されているロケール」だけを宣言する。
+      // 以前は meta.locales 全部を出していたため、本文が無く英語へ飛ぶだけのURLを
+      // alternate として宣言し、hreflangクラスタの過半が無効になっていた。
       languages: Object.fromEntries(
-        meta.locales.map((l) => [l, `${SITE_URL}/${l}/articles/${slug}/`]),
+        meta.locales
+          .filter((l) => l === DEFAULT_LOCALE || isArticleBodyTranslated(slug, l))
+          .map((l) => [l, `${SITE_URL}/${l}/articles/${slug}/`]),
       ),
     },
     openGraph: {

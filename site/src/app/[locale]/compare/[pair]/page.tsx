@@ -26,7 +26,20 @@ function firstOffer(a: ArticleMeta): AffiliateOffer | null {
 }
 
 export function generateStaticParams() {
-  return LOCALES.flatMap((locale) => COMPARISONS.map((c) => ({ locale, pair: c.slug })));
+  // 比較対象2記事のどちらもそのロケールで出せない組み合わせは、本文側で notFound() に
+  // なる＝静的エクスポートでは「HTTP 200 なのに中身は404ページ」というソフト404になる。
+  // 生成条件を本文の判定(listArticlesForLocale × hasApprovedAds)と一致させ、
+  // 出せない組み合わせは最初から生成しない(=素直に404になる) (2026-07-29)。
+  return LOCALES.flatMap((locale) => {
+    const available = new Set(
+      listArticlesForLocale(locale)
+        .filter((a) => hasApprovedAds(a, locale))
+        .map((a) => a.slug),
+    );
+    return COMPARISONS.filter(
+      (c) => available.has(c.slugA) || available.has(c.slugB),
+    ).map((c) => ({ locale, pair: c.slug }));
+  });
 }
 
 interface Props { params: Promise<{ locale: string; pair: string }> }
@@ -194,7 +207,7 @@ export async function generateMetadata({ params }: Props) {
   const { locale, pair } = await params;
   const config = COMPARISON_MAP[pair];
   if (!config) return {};
-  const title = `${config.title}: Which Is Better? | Pickly`;
+  const title = `${config.title}: Which Is Better?`;
   const url = `${SITE_URL}/${locale}/compare/${pair}`;
   return {
     title, description: config.description,

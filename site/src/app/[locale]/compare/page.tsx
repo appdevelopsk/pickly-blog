@@ -50,7 +50,7 @@ export default async function CompareIndexPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Product Comparisons | Pickly";
+  const title = "Product Comparisons";
   const description = "Side-by-side product comparisons — air fryer vs Instant Pot, robot vacuum vs stick vacuum, and more. Make confident buying decisions.";
   const url = `${SITE_URL}/${locale}/compare`;
   return {
