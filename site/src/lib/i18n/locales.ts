@@ -39,7 +39,16 @@ export const DEFAULT_LOCALE: Locale = "en";
  *   非対象ロケールを noindex + sitemap除外して死蔵在庫を検索から外す。
  * 再開は本配列に該当コードを戻すだけ（可逆）。
  */
-export const INDEXED_LOCALES: Locale[] = ["en", "ja", "de", "es", "fr", "it", "ru", "pt-BR"];
+// ★2026-07-30 追加: zh-TW / zh-CN / ko を index に戻した。
+// 上の「ほぼ0クリック」判断は **Google のクリック数だけ** を見て決めていたが、
+// pickly の実流入は Google ではなく Bing / AI。Bing Webmaster API の実測(71日)では
+//   総クリック 222 のうち **noindex にしていた言語が 32 (14.4%)**、
+//   中でも中国語は 26クリック/87表示 = CTR 30% で **英語(14.6%)の2倍**。
+// つまり「死蔵」判定は、実際に稼いでいる面積を Google の物差しで切っていた。
+// 抑制の元々の目的(AdSense低価値回避/HCU対策)も、AdSense垢は2026-07-28に無効化され、
+// Google からの実流入は 0 なので、守る対象そのものが無い。
+// 残る ar/hi/id/th/tr/vi は Bing クリックが 0〜1 なので今回は据え置き(効果を見てから)。
+export const INDEXED_LOCALES: Locale[] = ["en", "ja", "de", "es", "fr", "it", "ru", "pt-BR", "zh-TW", "zh-CN", "ko"];
 
 export function isIndexedLocale(code: string): boolean {
   return (INDEXED_LOCALES as readonly string[]).includes(code);
