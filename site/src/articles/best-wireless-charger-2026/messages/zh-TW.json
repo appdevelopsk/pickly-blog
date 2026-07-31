@@ -1,0 +1,289 @@
+{
+  "title": "2026 最佳無線充電器：5 款橫向比較",
+  "description": "從 Apple 原廠 MagSafe 充電器（USB-C，15W 磁吸對齊）、Anker MagGo 三合一可折疊充電座、Belkin BoostCharge Pro 三合一，到平價的 Anker 313 Qi 充電盤與 ESR HaloLock 二合一旅行充電器。五款無線充電器，從實際充電速度與行銷瓦數的落差、MagSafe 與 Qi2 與 Qi 的技術差異、是否附贈充電器、發熱與電池壽命、旅行攜帶性，以及 2026 年真正改變了什麼來比較。我們並未自行進行充電時間、發熱或電磁波實測。",
+  "lede": "五款無線充電器 —— Apple MagSafe 充電器 USB-C 2 公尺版（Apple 原廠 15W MagSafe，磁吸對齊、通過 MFi 認證，需另購 20W 以上充電器）、Anker MagGo 3-in-1 Charging Statio。日常使用的順手程度與做工可靠度，一年之內就會勝過任何規格表上的領先。",
+  "sections": [
+    {
+      "heading": "我們如何比較",
+      "paragraphs": [
+        "我們並未自行進行充電時間實測。我們沒有在受控的環境溫度與起始電量條件下，以 USB 電力計測量峰值瓦數。我們沒有用熱像儀繪製持續充電過程中線圈與裝置的溫度分布。我們也沒有測試電磁波輻射量。嚴謹的充電速度測試需要標準化條件 —— 環境溫度、線材線徑、充電器品質、是否裝殼、起始電量 —— 而這些條件在實際使用中的變異，大到讓沒有受控環境的邊際瓦數比較變得不可信。我們沒有能力產出足以令人信賴的數字。",
+        "取而代之的做法是：我們蒐集了各產品的原廠規格表與 Apple MFi 計畫文件，交叉比對已公開的 iFixit 拆解分析，檢視無線充電聯盟（WPC）公布的 Qi2 規範，閱讀各大線上通路與國際消費電子社群（包含 Reddit 的 r/applehelp 與 r/AndroidQuestions）上長期累積的使用者評價，並圍繞真正決定合不合用的問題建立比較框架：是否附贈充電器（隱藏成本）、實際瓦數與行銷瓦數的落差、生態系相容性限制、攜帶性，以及長時間日常使用下的發熱模式。我們會明確指出每一款產品的弱點，因為一款必須另購充電器才能達到標示速度、或只有搭配特定手機型號才跑得到 15W、或裝上厚殼就熱到觸發降速的無線充電器 —— 它行銷的瓦數並不能描述你實際的充電體驗。",
+        "這個品類最重要的認知前提是：在同等功率下，無線充電永遠比有線慢，因為無線電力傳輸的能量轉換效率低於直接接觸，而且多數無線充電器一碰到溫度門檻就會降低充電速率。真正該問的不是「哪一款無線充電器最快」，而是「哪一款無線充電器夠貼合我的桌面或旅行動線，讓我真的會天天用它」—— 因為擺在桌上卻沒在用的有線充電器，比每天都在用的無線充電盤還慢。"
+      ]
+    },
+    {
+      "heading": "MagSafe、Qi2 與 Qi 的真正差異",
+      "paragraphs": [
+        "MagSafe 是 Apple 專屬的磁吸無線充電系統，2020 年隨 iPhone 12 推出。它在 iPhone 內建一圈磁鐵，與充電器線圈上對應的磁環吸附對位，確保線圈對齊可靠 —— 由於線圈偏移會降低效率並產生更多熱量，精準對位讓充電功率得以安全地提高到 15W。MagSafe 透過 MFi（Made for iPhone）計畫取得 Apple 認證。未經 MFi 認證但帶磁鐵的充電器也能吸附 iPhone 12 以後的機種，但對 iPhone 只能以 Qi 上限的 7.5W 充電，而非 15W。MagSafe 這個名稱與 15W 這個速率，兩者都需要 Apple 認證。",
+        "Qi2 是無線充電聯盟在 2023 年推出的開放標準，納入了 Apple 為 MagSafe 開發、並授權給 WPC 的同一套磁吸對位環設計。取得 Qi2 認證的充電器，可以對 Qi2 相容裝置（包含 iOS 16 以上的 iPhone 13 及後續機種）提供 15W 充電，而不必負擔 Apple 的 MFi 認證成本。實務上，Qi2 就是不必背負 Apple 認證開銷的 MagSafe 級充電速度。本次比較中的 ESR HaloLock 屬於 Qi2 相容（採用 MagSafe 相容磁鐵），但對 iPhone 的實際輸出是 7.5W 而非完整 15W —— 它使用 MagSafe 相容磁鐵，卻未取得完整 Qi2 認證，這在規格層面是個有意義的區別。",
+        "Qi 是無線充電聯盟最初的標準，目前版本為 1.3。基本款 Qi 不使用磁吸對位，充電器與手機的線圈必須手動擺放到足夠靠近（通常在 5mm 以內）才能耦合，偏移就會降低效率與速率。Qi 對 iPhone 的上限是 7.5W；對 Android 的上限則因廠牌而異：多數 Android 手機在 10W Qi 充電盤上可達 10W，但部分三星機種支援 15W 或 25W 的 Samsung 快速無線充電 —— 那是疊加在 Qi 之上的專屬延伸規格（既不是 MagSafe，也不是 Qi2）。本次比較中的 Anker 313 只支援 Qi：相容 Android 10W、iPhone 7.5W，沒有磁吸對位。結論：MagSafe＝Apple 專屬磁吸＋認證裝置 15W；Qi2＝採用 MagSafe 磁吸技術的開放標準，相容裝置 15W，不需 Apple 認證；Qi＝基本款，5～10W（專屬快充有時更高），無磁鐵。"
+      ]
+    },
+    {
+      "heading": "行銷瓦數 vs 實際充電速度",
+      "paragraphs": [
+        "15W MagSafe 是 Apple 與 MagSafe 認證廠商主打的數字。這個數字在實務上代表什麼：iPhone 15 Pro 用 Apple 原廠 MagSafe 充電器從 0% 充到 100%，在理想條件下約需 2 小時 —— 室溫、不裝殼、手機閒置在充電盤上、搭配 20W 以上的 USB-C PD 充電器。同樣的一趟，有線 30W USB-C 快充約需 1.5 小時。即使跑在標示的最高速率，無線充電仍比有線多花 25% 的時間。這不是針對哪一款產品的批評，而是無線電力傳輸效率的本質限制 —— Qi2／MagSafe 的效率上限約在 85～90%，而直接接觸接近 100%。",
+        "充電器（變壓器）的問題讓速度這件事更複雜。Apple MagSafe 充電器只附一條 USB-C 線，不含充電頭。要跑到 15W，你需要 20W 以上的 USB-C PD 充電器 —— Apple 自家 20W 充電器是分開販售的。標示的 15W 技術上沒錯，但如果你手上沒有現成的充電頭，達到這個速率的總成本就是充電盤加上充電頭。Anker MagGo 三合一要同時供應三台裝置需要 30W 充電器，同樣不附贈。Belkin BoostCharge Pro 在多數地區版本會附充電頭，但並非全部 —— 購買前請先確認。",
+        "另一個行銷瓦數問題是高溫降速。當手機溫度超過充電速率管理門檻（iPhone 通常在 35°C 上下），iOS 會降低充電速率以保護電池化學結構。裝厚殼、房間偏熱，或充電時同時跑吃處理器的 App，都會讓這件事更快發生。在 28°C 環境、套著 3mm 厚皮革殼的情況下，一台 15W MagSafe 充電器的實際平均充電功率可能只有 10～11W，因為手機為了避免過熱而降速。這不是充電盤故障，系統就是這樣設計的。但在那樣的條件下，規格表上的 15W 並不能描述你真實的充電過程。"
+      ]
+    },
+    {
+      "heading": "多裝置充電座值得買嗎？",
+      "paragraphs": [
+        "三合一充電座 —— 本次比較中的 Anker MagGo 與 Belkin BoostCharge Pro —— 能用單一機體同時為 iPhone、AirPods 與 Apple Watch 充電。支持它們的理由是：只需要一條線接牆插，桌面或床頭櫃不必被三組充電盤與線材佔滿，而 Apple Watch 的充電支臂還能把手錶擺成床頭鐘模式顯示鬧鐘。對於每天都是同樣幾台裝置的辦公桌，這確實方便。",
+        "反對的理由是：三合一充電座要同時餵飽三台裝置，需要更高的總功率。Anker MagGo 標明三個充電位要全速運作需搭配 30W 充電器；如果你沒有 30W USB-C PD 充電頭，那就是額外支出。Anker MagGo 本身落在中價位帶。相比之下，Apple MagSafe 充電器加一顆 20W 充電頭，雖然只有一個充電位，但為 iPhone 充電的速度比三合一充電座的 AirPods 位替 AirPods 充電還快。這筆帳怎麼算，取決於你有幾台裝置要充，以及桌面整潔對你值多少錢。",
+        "以旅行而言，三合一充電座就比較難說服人。Anker MagGo 可折疊，收起來體積確實小很多，但它仍需要那顆 30W 充電器，整包東西佔的行李空間還是比單裝置方案多。ESR HaloLock 二合一 —— 可折疊充電盤上同時放 iPhone 與 AirPods —— 是更好的旅行折衷；如果你帶的是 Android 手機或不需要 MagSafe 的舊款 iPhone，Anker 313 Qi 充電盤則是最輕的選擇。"
+      ]
+    },
+    {
+      "heading": "發熱與電池健康度",
+      "paragraphs": [
+        "在同等功率下，無線充電比有線充電產生更多熱量，因為感應線圈耦合的能量轉換效率較低（通常 80～90%），而轉換損耗產生的熱量會累積在線圈上，再經由手機機身與充電器表面散出。在 15W MagSafe 下，多數 iPhone 於室溫環境放在充電盤上 30 分鐘後，摸起來都會明顯溫熱；在 7.5W Qi 下，同一台手機會涼得多。",
+        "電池健康度是長期的代價。鋰電池容量在高溫下衰退得更快 —— 電化學中的阿瑞尼烏斯關係意味著工作溫度持續升高 10°C，容量損失速率大致會加倍。每天都把手機充到 100%，並讓它一直放在無線充電盤上維持滿電（很常見的整夜充電習慣），等於同時疊加兩個電池壓力因子：高電量狀態（鋰電池化學壓力最大的狀態）與無線線圈持續補電造成的高溫。延長電池壽命的建議：避免每天都充到 100%（若你的作息穩定，iOS 的「最佳化電池充電」會自動處理）；充電時如果手機發燙，把厚殼取下；若要讓手機在盤上放 6～8 小時整夜充電，選 Anker 313 Qi 充電盤這類較低瓦數的方案（iPhone 7.5W），會比全速 15W MagSafe 更妥當。",
+        "Apple MagSafe 充電器（USB-C）與 Belkin BoostCharge Pro 的手錶充電位都支援 Apple Watch 快速充電（Apple Watch Series 7 以後機種，搭配 MFi 認證快充盤為 5W）。Apple Watch 快充可讓手錶從 0% 充到 80% 約需 45 分鐘，相較標準 2.5W 磁吸充電器約需 90 分鐘。這項功能取決於 MFi 認證 —— 未取得 Apple Watch 快充 MFi 認證的第三方充電器，無論產品頁怎麼寫，都只會以較慢的 2.5W 為手錶充電。"
+      ]
+    },
+    {
+      "heading": "2026 年有什麼改變",
+      "paragraphs": [
+        "Qi2 已成為中價位帶的預設標準。2024 年時，Qi2 充電器還集中在中價位；到了 2026 年初，入門價位也買得到 Qi2 認證產品，與基本款 Qi 充電盤的價差已縮小到 —— 除非預算是唯一考量，否則 iPhone 使用者很難再說服自己買純 Qi 充電盤。ESR HaloLock 正好落在這個位置：入門價格搭配 MagSafe 相容磁鐵，但因缺少 Qi2 認證，速度是 7.5W 而非完整 15W。",
+        "Apple Watch Series 10 在 2024 年底進一步改良了快充：Series 10 透過 MFi 認證充電盤最高支援 5W 快充，在 Apple 內部測試協定下，Series 10 從 0% 充到 80% 不到 40 分鐘。MFi 快充的要求則沒有改變 —— 未認證的充電盤對 Series 10 仍只有 2.5W。Anker MagGo 三合一與 Belkin BoostCharge Pro 都配備 MFi 認證的 Apple Watch 充電位；ESR HaloLock 二合一則沒有 Apple Watch 充電位。",
+        "Samsung 25W 無線快充在 2026 年變得更普及。三星專屬的 25W 無線標準（需要相容的 Galaxy 手機，以及三星 EP 系列或通過認證的第三方 25W 無線充電器）過去僅限於超高階的 Galaxy S 系列；到了 Galaxy S25 系列，25W 無線支援已擴展到整個產品線。本次比較未納入三星 25W 充電器，因為本文的主要讀者是 iPhone 與混合生態系使用者；不過對以 Android 為主的讀者值得一提：Qi2 的 15W 天花板不適用於三星生態系 —— 三星的專屬快充延伸規格在那之上。"
+      ]
+    },
+    {
+      "heading": "各自適合誰",
+      "paragraphs": [
+        "每天在桌上為 iPhone 充電、要最快的無線速度、重視 MagSafe 對位可靠度：Apple MagSafe 充電器（USB-C，2 公尺）。Apple 自家充電器就是 MagSafe 的標準範本 —— 它擁有本次比較中最長的線材（2 公尺，方便桌面走線），磁吸對位精準，並能在 iPhone 12 以後機種上穩定提供 15W。2 公尺的線長確實實用。各大線上通路與 Apple 官方皆有販售。缺點：只能充一台裝置；15W 需要另購 20W 以上的 USB-C PD 充電器（額外成本）；對非 iPhone 裝置只有 7.5W；以一條線材配件而言價格偏高，同價位的第三方 Qi2 充電器對 iPhone 13 以後機種同樣能跑到 15W。",
+        "桌面或床頭櫃、完整 Apple 生態系（iPhone＋AirPods＋Apple Watch）、方便性優先於攜帶性：Anker MagGo 三合一充電座。可折疊設計比三個獨立充電器更清爽，MagSafe 認證的 15W iPhone 充電位是本次比較中對 iPhone 12 以後機種最快的無線充電，Apple Watch 支臂也能把手錶擺到適合床頭鐘模式的角度。缺點：三裝置同時全速充電所需的 30W 充電器並未附贈，實質購買成本因此提高；非 Apple 裝置只能以 Qi 標準速度充電（AirPods 5W、Apple Watch 2.5～5W），所以這台主要是為 Apple 生態系使用者最佳化；折起後的體積仍比單一充電盤大，旅行攜帶也比 ESR HaloLock 重。",
+        "高階桌面或床頭櫃、Apple 生態系、把 Apple Watch 快充當作重點、偏好老牌廠商：Belkin BoostCharge Pro 三合一。Belkin 的做工在同價位帶一貫比 Anker 更有質感，搭載 MFi 認證快充（5W，Series 7 以後）的 Apple Watch 充電支臂，是本次比較中整合度最好的手錶充電位，AirPods 充電盤的位置配置也很適合桌面擺放。缺點：它是本次比較中明顯最貴的一台；Apple Watch 支臂突出的造型讓旅行打包很麻煩；沒有 USB-C 直通埠可再充第五台裝置，若你想同時替筆電補電就有影響；與 Anker MagGo 的 CP 值比較，取決於 Belkin 的質感溢價是否足以說服你 —— 這對每個人來說並非理所當然。",
+        "預算取向的無線充電、以 Android 為主，或沒有 MagSafe 的舊款 iPhone（iPhone 12 之前）：Anker 313 無線充電器（Qi，10W）。它是本次比較中最平價的無線充電選項。10W 的 Qi 輸出足以與中階 Android 快速無線充電相比，附贈 USB-A 線材（在這個價位很少見），平盤設計對任何 Qi 相容裝置都能穩定運作。缺點：只有 Qi —— 沒有 MagSafe、沒有 Qi2、沒有磁吸對位，必須精準擺放手機才能穩定耦合；iPhone 的 7.5W 甚至比基本 MagSafe 還慢；平盤沒有立架角度，充電時要瞄一眼通知遠不如立架式充電器舒服；也沒有任何視覺或聲音提示告訴你手機是否擺對、是否正在充電。",
+        "旅行優先、iPhone 加 AirPods、體積要小、速度中等可接受：ESR HaloLock 二合一旅行無線充電器。它是本次比較中價值與攜帶性平衡得最好的一台。折疊後大約只有信用卡的面積、厚度 12mm，MagSafe 相容磁鐵能穩定把 iPhone 吸到定位，下方的 AirPods Qi 充電盤位置也適合多數 AirPods 保護殼。缺點：iPhone 最高只有 7.5W —— 因為 ESR HaloLock 採用 MagSafe 相容磁鐵但未取得完整 Qi2 認證，所以不是完整的 15W MagSafe；AirPods 充電盤只有 5W Qi；做工質感明顯不如 Belkin，甚至不如 Anker MagGo；沒有 Apple Watch 充電位，手錶使用者旅行過夜還得另外帶一條線。"
+      ]
+    },
+    {
+      "heading": "結論",
+      "paragraphs": [
+        "如果你要的是純 iPhone 的桌面充電器，在意 15W 速度與磁吸對位，而且手邊已有相容充電頭：Apple MagSafe 充電器（USB-C，2 公尺）。2 公尺線長、iPhone 12 以後機種保證 15W，加上 Apple 自家的 MagSafe 實作，讓它成為毫無疑義的基準選擇。如果沒有充電頭，請一併把 20W 充電器買齊。",
+        "如果你要的是完整 Apple 生態系的桌面或床頭充電配置：Anker MagGo 三合一。對多數人而言比 Belkin BoostCharge Pro 更划算 —— 15W iPhone 充電位完全相同、Apple Watch 快充一樣有，而它與 Belkin 之間的價差，鮮少換來日常使用上摸得到的差別。記得把 30W 充電器列入預算。",
+        "如果你要的是高階桌面配置，而 Belkin 的做工與精緻的 Apple Watch 支臂整合值回票價：Belkin BoostCharge Pro 三合一。當你覺得 Anker 的做工不夠滿意，而 BoostCharge Pro 更緊緻的設計更貼合你的桌面時，它就對得起這個價格。但不要為了旅行買它。",
+        "如果你用 Android、預算有限，或手上是沒有 MagSafe 的 iPhone：Anker 313 無線充電器。本次比較中找不到比它更便宜又可靠的無線充電選項，10W 的 Qi 輸出也涵蓋了多數 Android 中階快速無線充電的情境。",
+        "如果你重視旅行：ESR HaloLock 二合一。接受 7.5W 的天花板與沒有 Apple Watch 充電位，換來最小的收納體積與 MagSafe 相容的對位。如果你旅行時本來就會另外充手錶，HaloLock 就是正確的折衷。如果你的過夜行李一定要包含 Apple Watch 充電，那麼 Anker MagGo 的折疊設計是次佳選擇 —— 前提是接受它比較重，而且要自備 30W 充電器。",
+        "有一點適用於這五款：無線充電的方便，是以速度（相對有線）與發熱（相對更慢的無線與有線）為代價換來的。如果你習慣整夜充電、醒來時手機本來就是滿的，那麼 7.5W 與 15W 之間的差距根本不影響你的生活 —— 這五款當中任何一台，都能在遠低於一般 7～8 小時整夜充電的時間內，把 iPhone 15 從 0% 充到 100%。它們之間真正有意義的差別在於桌面配置（單裝置或多裝置）、旅行攜帶性、生態系相容性與充電頭成本。請照這些面向選，而不是照瓦數數字。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "這些充電器隔著手機殼還能用嗎？",
+      "a": "五款充電器都相容於一般塑膠殼、TPU 殼與薄款皮革殼（約 3mm 以下）。MagSafe 與 Qi2 充電器能隔著殼維持磁吸對位，因為 iPhone 內的磁環會吸附充電器的磁環，與殼的材質無關 —— 只要不是金屬殼即可。金屬殼與吸附在手機背面的金屬卡夾會完全阻斷無線充電，金屬會形成法拉第屏蔽，讓磁場無法與手機線圈耦合。厚殼（超過 3mm 的厚矽膠殼或軍規防摔殼）會降低無線充電效率並增加發熱，因為線圈間距變大會提高電阻損耗。用厚殼的人請預期實際充電速度較慢、機身較溫熱 —— 在同樣的厚殼情境下，Anker 313 Qi 充電盤（iPhone 7.5W）的發熱會比 15W MagSafe 方案來得低。"
+    },
+    {
+      "q": "每天晚上都用無線充電整夜充，安全嗎？",
+      "a": "就「手機不會受損、經認證的充電器也不會有火災風險」而言是安全的 —— 本次比較的五款產品都採用經認證的線圈與溫控硬體，充飽後會停止供電並防止過熱。電池健康度則是另一個問題，與安全性分開來看。讓手機長時間維持在 100% 電量（整夜 6～8 小時放在會持續補電的無線充電盤上），對電池化學的負擔比充到 80% 就停止更大。iOS 的「最佳化電池充電」（設定 > 電池 > 電池健康度）會學習你的作息，把最後充到 100% 的階段延後到你通常起床前不久，這能顯著減輕負擔。想追求長期電池健康：開啟「最佳化電池充電」、整夜充電時使用中等瓦數的充電器（7.5W Qi 優於 15W MagSafe），並取下會蓄熱的厚殼。"
+    },
+    {
+      "q": "這些充電器只能用在 iPhone，還是 Android 手機也能用？",
+      "a": "Anker 313 無線充電器（Qi，10W）可為任何 Qi 相容的 Android 手機提供最高 10W 充電，是本次比較中通用性最高的選項。MagSafe 認證充電器（Apple MagSafe、Anker MagGo 三合一、Belkin BoostCharge Pro）也能為 Qi 相容的 Android 手機以 Qi 標準速度（通常 5～10W）充電，但沒有磁吸對位，因為 MagSafe 磁鐵是 iPhone 專屬設計。磁吸對位對 Android 手機沒有幫助，MagSafe 的 15W 也僅限 iPhone。ESR HaloLock 同樣是以標準 Qi 5W 為 Android 充電。如果你的主力機是 Android（尤其是三星 Galaxy），MagSafe 與 Qi2 的速率都與你無關，選擇一般 Qi 或三星專屬的快速無線充電器才是更合適的搭配。"
+    },
+    {
+      "q": "這些充電器有附充電頭嗎？還是要另外買？",
+      "a": "Apple MagSafe 充電器（USB-C）：不附充電頭，只附 USB-C 線。要跑 15W 需要 20W 以上的 USB-C PD 充電器（Apple 自家 20W 充電器另售）。Anker MagGo 三合一：標準包裝不附充電頭；三裝置同時全速充電需要 30W USB-C PD 充電器。Belkin BoostCharge Pro 三合一：多數地區版本通常會附壁插充電頭，但請向通路確認實際販售的型號 —— 部分平行輸入版本不含充電頭。Anker 313 無線充電器：附 USB-A 轉 Micro-USB 線，需搭配一般 USB-A 充電頭（多數家庭都有）或 USB-A 埠。ESR HaloLock 二合一：附 USB-C 線，需搭配 USB-C 充電頭（最低 5W，不過因為最高輸出只有 7.5W，任何 USB-C 充電頭都可以）。計算總成本時，請把充電頭一併算進去。"
+    },
+    {
+      "q": "這些充電器可以在機場或其他國家使用嗎？",
+      "a": "五款充電器的線圈都支援全球通用電壓輸入（100～240V，50/60Hz），只要搭配轉接插頭就能在世界各地使用。Apple MagSafe 充電器與 ESR HaloLock 使用 USB-C 線材，可搭配全球任何 USB-C PD 充電頭。Anker MagGo 三合一與 Belkin BoostCharge Pro 同樣採 USB-C 輸入。Anker 313 使用 USB-A，通用性高，但沒有 USB-C PD 就只能以較低速度充電。機場安檢方面：在多數國家，無線充電盤不需要從隨身行李中取出（它們不是獨立的行動電源）。如果你同時攜帶充電盤與另一顆 USB-C 充電頭，充電頭照一般流程過安檢即可。以體積與重量而言，ESR HaloLock 二合一是最好的旅行夥伴；若比起速度你更看重極簡，Anker 313 則是最輕的選擇。"
+    },
+    {
+      "q": "在這些充電盤上，Apple Watch 快充與標準充電差在哪裡？",
+      "a": "Apple Watch 使用專屬的磁吸充電圓盤（Series 7 起改為 USB-C 接頭）。標準 Apple Watch 充電為 2.5W，從 0% 充到 100% 約需 90 分鐘。Apple Watch 快速充電（Series 7 以後機種適用）則是透過 MFi 認證的 Apple Watch 快充盤提供 5W，讓 0% 到 80% 縮短到約 45 分鐘。本次比較的五款當中，Anker MagGo 三合一與 Belkin BoostCharge Pro 內建取得 MFi 快充認證的 Apple Watch 充電位。Apple MagSafe 充電器（USB-C，2 公尺）在本次比較中僅供 iPhone 使用，不能為 Apple Watch 充電。ESR HaloLock 二合一沒有 Apple Watch 充電位。Anker 313 Qi 充電盤不支援 Apple Watch（Apple Watch 不使用 Qi）。如果 Apple Watch 快充對你的早晨作息很重要，本次比較中只有 Anker MagGo 與 Belkin BoostCharge Pro 提供這項功能。"
+    },
+    {
+      "q": "長期使用 MagSafe 充電會傷 iPhone 電池嗎？",
+      "a": "MagSafe 充電本身並不會造成損害，真正的疑慮是熱。15W 無線充電比 7.5W Qi 或有線 20W 充電產生更多熱量，因為能量轉換效率較低，而且熱量累積在機身而非線材上。充電過程中持續的高溫會加速鋰電池容量衰退。實際的緩解做法：使用 iOS 的「最佳化電池充電」（它會把充到 100% 的階段延後到你平常起床的時間，縮短處於滿電狀態的時間）；充電時取下會蓄熱的厚殼；日常充電考慮充到 80% 而非 100%（iOS 17 起，電池設定中有充電上限選項）。Apple 自家的 MagSafe 規格與溫控機制，會在溫度達到真正有害的程度之前先行降速 —— 單次充電並不會傷害電池，但每天高溫充電累積 18～24 個月後，與低發熱充電方式相比，容量衰退速率的差異是量測得出來的。"
+    }
+  ],
+  "offerNotes": {
+    "apple-magsafe-charger-usb-c": "Apple 原廠 MagSafe 充電器，USB-C 接頭、2 公尺線長 —— MagSafe 的標準範本，搭配 20W 以上 USB-C PD 充電器可對 iPhone 12 以後機種提供 15W，磁吸對位環確保線圈穩定耦合，通過 MFi 認證。各大線上通路與 Apple 官方皆有販售。缺點：僅附線材、不含充電頭 —— 要達到標示的 15W 必須另購 20W 以上的 USB-C PD 充電器；一次只能充一台裝置；對非 iPhone 或非 MagSafe 裝置只有 7.5W Qi；以每瓦價格計算，比同樣能提供 15W iPhone 速度的第三方 Qi2 產品更貴。",
+    "anker-maggo-3in1-station": "Anker 通過 MagSafe 認證的三合一充電座，採可折疊設計 —— 可同時提供 15W MagSafe iPhone 充電、MFi 認證的 Apple Watch 快充，以及 5W AirPods Qi 充電盤，收折後兼顧桌面與旅行型態。各大線上通路均有販售。缺點：三裝置同時以標示速度全速充電所需的 30W USB-C PD 充電器並未隨附於標準包裝，實質購買成本因此提高；非 Apple 生態系裝置只能以基本 Qi 速率充電且無磁吸對位；折疊後的體積與重量仍大於旅行用的 ESR HaloLock；Apple Watch 充電支臂為固定角度，未必符合所有人對床頭鐘模式的配戴與擺放偏好。",
+    "belkin-boostcharge-pro-3in1": "Belkin 通過 MFi MagSafe 認證的三合一充電座 —— 15W MagSafe iPhone 充電、MFi Apple Watch 快充支臂（5W，Series 7 以後）、5W AirPods Qi 充電盤，採高質感織布包覆與鋁合金機身。各大線上通路均有販售。缺點：它是本次比較中明顯最貴的一款；Apple Watch 充電支臂以固定角度向上突出，旅行打包比 Anker MagGo 的可折疊支臂麻煩許多；沒有 USB-C 直通埠可同時為其他裝置充電；相對 Anker MagGo 三合一的價格溢價，主要買的是做工與工業設計 —— 充電速度與 MFi 認證幾乎完全相同，所以這筆價差值不值得，取決於高級質感對你有多重要。",
+    "anker-313-wireless-charger": "Anker 的平價 Qi 無線充電盤 —— 相容 Android 10W、iPhone 7.5W、通用 Qi 5W，平盤設計、附 USB-A 線材、極簡黑色橡膠表面、附 LED 充電指示燈。各大線上通路均有販售。缺點：僅支援 Qi 且無磁吸對位 —— 手機必須小心擺放在線圈耦合區內（通常是直徑 30～40mm 的甜蜜點）才能穩定充電，而拿起手機看通知時稍微移位就可能中斷連線且沒有提示音；沒有 MagSafe、沒有 Qi2；iPhone 的 7.5W 是本次比較中最慢的 iPhone 無線充電速率；平盤設計沒有立架角度，充電時瞄一眼手機遠不如立架式充電器舒服；不支援 Apple Watch 充電。",
+    "esr-halolock-2in1-travel": "ESR 可折疊的 MagSafe 相容二合一旅行無線充電器 —— 以 MagSafe 磁環讓 iPhone 一吸即定位，另備 5W Qi AirPods 充電盤，折平後僅約信用卡面積、厚度約 12mm，USB-C 輸入，屬平價價位帶。各大線上通路均有販售。缺點：iPhone 最高只有 7.5W，並非完整 15W MagSafe —— ESR HaloLock 採用 MagSafe 相容磁鐵但未取得完整 Qi2 認證，所以吸附體驗接近 MagSafe，充電速度卻是 7.5W；AirPods 充電盤僅 5W Qi，且沒有為 AirPods 提供磁吸對位；沒有 Apple Watch 充電位，旅行時仍需另帶一條 Apple Watch 線；做工質感明顯不如 Belkin 或 Anker MagGo；價格雖具競爭力，但 2026 年已陸續出現價位相近、卻能提供完整 15W 的第三方 Qi2 認證產品。"
+  },
+  "pinDescription": "2026 無線充電器怎麼選？MagSafe、Qi2 與平價 Qi 一次看懂：15W 幫 iPhone 15 充滿要 2 小時、三合一充電座還得自備 30W 充電頭。附發熱與電池保養重點、旅行輕巧首選與桌面收納提案。",
+  "methodology": "每款充電器的評估面向包含：實際充電速度（納入是否附充電頭與高溫降速的影響）、生態系相容性、長時間使用下的發熱表現、旅行攜帶性，以及含必要充電頭在內的總持有成本。",
+  "products": [
+    {
+      "offerId": "apple-magsafe-charger-usb-c",
+      "badge": "綜合最佳",
+      "review": "Apple 原廠 MagSafe 充電器就是標準範本：iPhone 12 以後機種保證 15W、磁吸對位精準，2 公尺線長對多數桌面配置都有幫助。要注意的是，標示的 15W 需要另購 20W 以上的 USB-C PD 充電器 —— 購買時請把它一併列入預算。",
+      "pros": [
+        "搭配 20W 以上充電器，iPhone 12 以後機種保證 15W",
+        "2 公尺線長對桌面走線相當實用",
+        "MagSafe 磁吸對位最精準"
+      ],
+      "cons": [
+        "不附充電頭 —— 15W 需另購 20W 以上 PD 充電器（額外成本）"
+      ],
+      "grade": "A+",
+      "specs": {
+        "最大輸出": "15W（MagSafe，iPhone 12 以後）",
+        "線長": "2 公尺",
+        "接頭": "USB-C",
+        "是否附充電頭": "否",
+        "MFi 認證": "是",
+        "價位": "高價位"
+      },
+      "scores": {
+        "充電速度": 4.8,
+        "相容性": 3.8,
+        "做工質感": 4.7,
+        "性價比": 3.5,
+        "溫控表現": 4.2
+      }
+    },
+    {
+      "offerId": "anker-maggo-3in1-station",
+      "badge": "桌面充電座首選",
+      "review": "Anker MagGo 只用一條線就能同時為 iPhone（15W MagSafe）、Apple Watch（MFi 快充）與 AirPods（5W Qi）充電，可折疊設計讓桌面保持清爽。三裝置同時全速充電所需的 30W USB-C 充電器並未隨附，會墊高實質成本。",
+      "pros": [
+        "iPhone、Apple Watch 與 AirPods 可同時充電",
+        "通過 MagSafe 認證的 15W iPhone 充電位",
+        "可折疊設計，桌面或旅行皆適用"
+      ],
+      "cons": [
+        "未附 30W 充電頭 —— 實際花費因此提高"
+      ],
+      "grade": "A",
+      "specs": {
+        "iPhone 輸出": "15W MagSafe",
+        "Apple Watch": "MFi 快充 5W",
+        "AirPods": "5W Qi",
+        "所需充電頭": "30W USB-C PD（未隨附）",
+        "可折疊": "是",
+        "價位": "中價位"
+      },
+      "scores": {
+        "充電速度": 4.6,
+        "相容性": 4.2,
+        "做工質感": 4.3,
+        "性價比": 3.9,
+        "溫控表現": 4
+      }
+    },
+    {
+      "offerId": "belkin-boostcharge-pro-3in1",
+      "badge": "最佳質感做工",
+      "review": "Belkin BoostCharge Pro 在 MagSafe 速度與 Apple Watch 快充上與 MagGo 打平，但以織布包覆與鋁合金結構包裝，質感明顯更好。它是本次比較中最貴的一款 —— 相對 Anker MagGo 的價格溢價買的是做工，不是充電效能。",
+      "pros": [
+        "織布包覆＋鋁合金，做工質感出色",
+        "MFi MagSafe＋Apple Watch 快充（Series 7 以後）",
+        "Apple Watch 支臂位置整合度最佳"
+      ],
+      "cons": [
+        "最貴的一款；Apple Watch 支臂讓旅行打包不便"
+      ],
+      "grade": "B+",
+      "specs": {
+        "iPhone 輸出": "15W MagSafe",
+        "Apple Watch": "MFi 快充 5W（Series 7 以後）",
+        "AirPods": "5W Qi",
+        "機身用料": "織布包覆＋鋁合金",
+        "旅行友善度": "否（支臂突出）",
+        "價位": "旗艦價位"
+      },
+      "scores": {
+        "充電速度": 4.6,
+        "相容性": 4.2,
+        "做工質感": 5,
+        "性價比": 3.2,
+        "溫控表現": 4.1
+      }
+    },
+    {
+      "offerId": "anker-313-wireless-charger",
+      "badge": "平價 Qi 首選",
+      "review": "Anker 313 是不玩花樣的 Qi 充電盤，以平價涵蓋 Android（10W）與 iPhone（7.5W）。它沒有磁吸對位 —— 手機必須精準擺在線圈正上方 —— 而 7.5W 是本次比較中最慢的 iPhone 無線速率。對於 MagSafe 派不上用場的 Android 使用者或 iPhone 12 之前的機主，這是正確的平價選擇。",
+      "pros": [
+        "本次比較中最平價的無線充電選項",
+        "相容 Android 裝置可達 10W Qi",
+        "附 USB-A 線材（這個價位少見）"
+      ],
+      "cons": [
+        "無磁吸對位 —— 手機必須精準擺放；iPhone 7.5W 是本次比較中最慢"
+      ],
+      "grade": "B",
+      "specs": {
+        "最大輸出": "10W Qi（Android）",
+        "iPhone 輸出": "7.5W Qi",
+        "對位方式": "無（手動擺放）",
+        "線材": "附 USB-A",
+        "Apple Watch": "不支援",
+        "價位": "平價"
+      },
+      "scores": {
+        "充電速度": 3.2,
+        "相容性": 4.5,
+        "做工質感": 3.5,
+        "性價比": 4.9,
+        "溫控表現": 4.4
+      }
+    },
+    {
+      "offerId": "esr-halolock-2in1-travel",
+      "badge": "旅行攜帶首選",
+      "review": "ESR HaloLock 折疊後只有信用卡大小（厚度約 12mm），以 MagSafe 相容磁鐵為 iPhone 對位，另備 5W Qi 充電盤供 AirPods 使用。它是本次比較中價值與攜帶性平衡得最好的一款。iPhone 7.5W 的上限（MagSafe 相容磁鐵但無 Qi2 認證）是旅行使用上唯一真正的限制。",
+      "pros": [
+        "折疊後僅信用卡大小 —— 本次比較中最輕的旅行選項",
+        "MagSafe 相容磁吸對位，適用 iPhone",
+        "同一折疊面上即有 AirPods Qi 充電盤"
+      ],
+      "cons": [
+        "iPhone 僅 7.5W（非完整 15W MagSafe，無 Qi2 認證）；無 Apple Watch 充電位"
+      ],
+      "grade": "B-",
+      "specs": {
+        "iPhone 輸出": "7.5W（MagSafe 相容）",
+        "AirPods": "5W Qi",
+        "折疊後厚度": "約 12mm",
+        "接頭": "USB-C",
+        "Apple Watch": "不支援",
+        "價位": "平價"
+      },
+      "scores": {
+        "充電速度": 3.5,
+        "相容性": 3.8,
+        "做工質感": 3.6,
+        "性價比": 4.5,
+        "溫控表現": 4.3
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "想在桌上以全速為 iPhone 充電",
+      "offerId": "apple-magsafe-charger-usb-c",
+      "reason": "MagSafe 的標準範本，附 2 公尺線材 —— 請同時把 20W 充電頭一起買齊。"
+    },
+    {
+      "label": "完整 Apple 生態系的桌面配置",
+      "offerId": "anker-maggo-3in1-station",
+      "reason": "一條線搞定 iPhone＋Apple Watch＋AirPods；充電規格相近，卻比 Belkin 更划算。"
+    },
+    {
+      "label": "Android 或 iPhone 12 之前機種的平價充電",
+      "offerId": "anker-313-wireless-charger",
+      "reason": "10W Qi 涵蓋多數 Android 快速無線充電情境，價格也是本次比較中最低。"
+    },
+    {
+      "label": "帶著 iPhone 與 AirPods 出門旅行",
+      "offerId": "esr-halolock-2in1-travel",
+      "reason": "信用卡大小的收納體積搭配 MagSafe 相容對位 —— 以 7.5W 上限換取行李極簡。"
+    },
+    {
+      "label": "追求桌面高級質感",
+      "offerId": "belkin-boostcharge-pro-3in1",
+      "reason": "若你覺得 Anker 的做工不夠滿意，織布包覆與鋁合金機身值回價差 —— 充電效能其實相同。"
+    }
+  ]
+}
