@@ -61,8 +61,11 @@ docs/
    - `pipeline/prompts/03_image.md` → Pinterest用画像生成プロンプト
 3. `cd site && npm run validate` で型/ i18n / アフィリリンクチェック
 4. `npm run build` で全ビルド成功確認
-5. PRマージで Cloudflare Pages 自動デプロイ
-6. `cd automation/pinterest && npm run post` で新規記事のPinterestピン投稿
+5. `git push origin main` → Cloudflare Pages が自動ビルド・公開
+   （project `pickly-blog` / build `cd site && npm install && npm run build`）
+   ※ `deploy/deploy.sh`(VPS rsync) は**本番に反映されない**。詳細は `docs/DEPLOY.md` 冒頭
+6. `node 00_集客統合/growth/indexnow.mjs pickly` で新URLを IndexNow 送信
+7. `cd automation/pinterest && npm run post` で新規記事のPinterestピン投稿
 
 ## チェックスクリプト
 

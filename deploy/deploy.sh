@@ -1,6 +1,23 @@
 #!/usr/bin/env bash
 # =============================================================================
-# Pickly.blog - Local build + rsync deploy to XServer VPS
+# ⚠️ 非推奨 — このスクリプトは本番に反映されません (2026-07-31 確認)
+# =============================================================================
+# pickly.blog の本番は **Cloudflare Pages** (project: pickly-blog / production
+# branch: main / build: `cd site && npm install && npm run build`)。
+# デプロイは **`git push origin main`** だけで、Pages が自動ビルドする。
+#
+# 実測: VPS の /var/www/pickly.blog/ に置いたファイルはオリジン直叩きでは 200 を
+# 返すが、pickly.blog(=Cloudflare) 経由では 404。つまり CDN はこの VPS を見て
+# いない。ここへ rsync しても本番は 1 バイトも変わらない。
+#
+# しかも `rsync --delete` の除外は .DS_Store だけなので、実行すると VPS 上の
+# OG 画像 18,498 件が消える (OG は R2 配信・out/og は .gitignore 済みのため
+# ローカルビルドに含まれない)。**実行しないこと。**
+#
+# 残してある理由: VPS 構成へ戻す判断をした場合の出発点として。その時は
+# --exclude='og/' の追加を検討すること。
+# =============================================================================
+# Pickly.blog - Local build + rsync deploy to XServer VPS (レガシー)
 # =============================================================================
 # Prerequisites:
 #   - SSH config for "pickly-vps" set up in ~/.ssh/config (see DEPLOY.md)
@@ -12,6 +29,21 @@
 #   ./deploy/deploy.sh --no-build  # skip build, just sync existing out/
 # =============================================================================
 set -euo pipefail
+
+# 誤爆防止。本番は Cloudflare Pages なので、このスクリプトは通常使わない。
+if [[ "${PICKLY_ALLOW_VPS_DEPLOY:-}" != "1" ]]; then
+  cat >&2 <<'WARN'
+⚠️  停止しました: このスクリプトは本番(pickly.blog)に反映されません。
+
+  本番は Cloudflare Pages です。デプロイは:
+      git push origin main
+
+  それでも VPS へ rsync したい場合のみ:
+      PICKLY_ALLOW_VPS_DEPLOY=1 ./deploy/deploy.sh
+  (--delete で VPS 上の OG 画像 18,498 件が消えます。--exclude='og/' を検討)
+WARN
+  exit 1
+fi
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 SITE="$ROOT/site"
