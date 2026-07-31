@@ -12,6 +12,7 @@
     "audit:i18n": "tsx scripts/audit-i18n.ts",
     "audit:affiliate": "tsx scripts/audit-affiliate.ts",
     "audit:content": "tsx scripts/audit-content.ts",
+    "audit:images": "tsx scripts/audit-images.ts",
     "sitemap": "tsx scripts/generate-sitemap.ts",
     "web-stories": "tsx scripts/generate-web-stories.ts",
     "og:generate": "tsx scripts/generate-og.ts",
