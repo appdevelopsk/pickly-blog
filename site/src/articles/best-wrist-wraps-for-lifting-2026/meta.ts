@@ -6,6 +6,6 @@ export const meta: ArticleMeta = {
   offerIds: ["schiek-wrist-wraps-24inch", "harbinger-21525-wrist-wraps", "titan-signature-gold-wrist-wraps", "rogue-wrist-wraps", "sbd-wrist-wraps-competition"],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
+  locales: ["en", "ja", "ko", "es", "pt-BR", "fr", "de", "it", "zh-CN"],
   ogImage: "auto",
 };

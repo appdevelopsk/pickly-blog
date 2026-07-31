@@ -6,6 +6,6 @@ export const meta: ArticleMeta = {
   offerIds: ["inzer-forever-lever-belt-10mm", "rogue-ohio-lifting-belt", "sbd-lever-belt-13mm", "dark-iron-fitness-leather-belt", "harbinger-foam-core-belt"],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
+  locales: ["en", "ja", "ko", "es", "pt-BR", "fr", "de", "it", "zh-CN"],
   ogImage: "auto",
 };

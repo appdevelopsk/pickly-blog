@@ -12,6 +12,6 @@ export const meta: ArticleMeta = {
   ],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en", "ja", "ko", "es", "pt-BR", "fr", "de", "it", "id"],
+  locales: ["en", "ja", "ko", "es", "pt-BR", "fr", "de", "it", "id", "zh-CN"],
   ogImage: "/og/best-stair-stepper-2026",
 };

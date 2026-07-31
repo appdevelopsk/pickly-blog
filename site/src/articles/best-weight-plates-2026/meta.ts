@@ -6,6 +6,6 @@ export const meta: ArticleMeta = {
   offerIds: ["rogue-calibrated-kg-plates", "rep-fitness-cast-iron-plates", "cap-barbell-olympic-plates", "rogue-hi-temp-bumper-plates", "fringe-sport-bumper-plates"],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
+  locales: ["en", "ja", "ko", "es", "pt-BR", "fr", "de", "it", "zh-CN"],
   ogImage: "auto",
 };

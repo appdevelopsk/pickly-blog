@@ -6,6 +6,6 @@ export const meta: ArticleMeta = {
   offerIds: ["titin-force-weighted-shirt", "rogue-dog-collar-vest", "hyperwear-hyper-vest-pro", "cap-barbell-weight-vest", "511-tactical-tactec-vest"],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
+  locales: ["en", "ja", "ko", "es", "pt-BR", "fr", "de", "it", "zh-CN"],
   ogImage: "auto",
 };

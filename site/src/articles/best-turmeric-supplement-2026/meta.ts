@@ -6,6 +6,6 @@ export const meta: ArticleMeta = {
   offerIds: ["thorne-meriva-curcumin", "life-extension-bio-curcumin", "qunol-turmeric-1000mg", "gaia-herbs-turmeric", "garden-of-life-turmeric"],
   publishedAt: "2026-05-10",
   updatedAt: "2026-05-10",
-  locales: ["en","ja","ko","es","pt-BR","fr","de","it"],
+  locales: ["en", "ja", "ko", "es", "pt-BR", "fr", "de", "it", "zh-CN"],
   ogImage: "auto",
 };
