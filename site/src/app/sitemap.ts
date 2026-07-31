@@ -177,12 +177,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
         // Surface the 1000x1500 OG image in Google Images (image sitemap).
         images: [ogImageUrl(article.slug, locale)],
         alternates: {
-          languages: Object.fromEntries(
-            indexLocales.map((l) => [
-              l,
-              `${SITE_URL}/${l}/articles/${article.slug}/`,
-            ]),
-          ),
+          languages: {
+            ...Object.fromEntries(
+              indexLocales.map((l) => [
+                l,
+                `${SITE_URL}/${l}/articles/${article.slug}/`,
+              ]),
+            ),
+            // 記事ブロックだけ x-default が抜けていて、sitemap 3722件のうち
+            // 記事 2567件で未指定だった(他のページ種別には全部付いている)。
+            // 既定は en だが、en を配信していない記事もあるので実在するロケールを選ぶ。
+            "x-default": `${SITE_URL}/${
+              indexLocales.includes(DEFAULT_LOCALE) ? DEFAULT_LOCALE : indexLocales[0]
+            }/articles/${article.slug}/`,
+          },
         },
       });
     }
