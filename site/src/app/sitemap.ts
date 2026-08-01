@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 import { LOCALES, isIndexedLocale, DEFAULT_LOCALE } from "@/lib/i18n/locales";
-import { listArticles } from "@/lib/articles/registry";
+import { listArticles, listArticlesForLocale } from "@/lib/articles/registry";
 import { isDeindexed } from "@/lib/articles/deindexed-slugs";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { isArticleBodyTranslated } from "@/lib/i18n/loader";
@@ -126,15 +126,29 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // Compare pages × 17 locales
+  // Compare pages。生成条件は compare/[pair] の generateStaticParams と同一にする。
+  // 以前は COMPARISONS × IDX を無条件に出していたため、比較対象2記事のどちらも
+  // そのロケールで出せない組み合わせ(=ページが生成されない)まで sitemap に載り、
+  // 404 を指すURLが8件あった (2026-08-01)。
+  const compareAvailable = (locale: string) =>
+    new Set(
+      listArticlesForLocale(locale)
+        .filter((a) => hasApprovedAds(a, locale))
+        .map((a) => a.slug),
+    );
+  const compareLocales = new Map(IDX.map((l) => [l, compareAvailable(l)]));
   for (const cmp of COMPARISONS) {
-    for (const locale of IDX) {
+    const locales = IDX.filter((l) => {
+      const av = compareLocales.get(l);
+      return !!av && (av.has(cmp.slugA) || av.has(cmp.slugB));
+    });
+    for (const locale of locales) {
       out.push({
         url: `${SITE_URL}/${locale}/compare/${cmp.slug}/`,
         lastModified: now,
         changeFrequency: "monthly" as const,
         priority: 0.8,
-        alternates: { languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/compare/${cmp.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/compare/${cmp.slug}/` } },
+        alternates: { languages: { ...Object.fromEntries(locales.map((l) => [l, `${SITE_URL}/${l}/compare/${cmp.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/compare/${cmp.slug}/` } },
       });
     }
   }
