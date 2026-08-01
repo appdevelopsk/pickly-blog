@@ -257,7 +257,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-leather-belt-2026",
   "best-leather-gloves-2026",
   "best-leather-jacket-2026",
-  "best-leather-loafers-2026",
   "best-leather-tote-bag-2026",
   "best-life-insurance-2026",
   "best-linen-shirt-2026",
