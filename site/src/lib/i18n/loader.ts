@@ -106,27 +106,70 @@ export function loadArticleCardMeta(
   return { title: slug, description: "" };
 }
 
+/** Collect every string value in a messages tree (used for the body-translation check). */
+function collectStrings(node: unknown, out: string[]): void {
+  if (typeof node === "string") {
+    out.push(node);
+  } else if (Array.isArray(node)) {
+    for (const v of node) collectStrings(v, out);
+  } else if (node && typeof node === "object") {
+    for (const v of Object.values(node as Messages)) collectStrings(v, out);
+  }
+}
+
+function readArticleMessages(slug: string, locale: string): Messages | null {
+  try {
+    const filePath = path.join(process.cwd(), "src", "articles", slug, "messages", `${locale}.json`);
+    return normalizeArticleMessages(JSON.parse(fs.readFileSync(filePath, "utf-8")) as Messages, slug);
+  } catch {
+    return null;
+  }
+}
+
+/** sitemap は article×locale で1万回以上呼ぶのでメモ化する。 */
+const translatedCache = new Map<string, boolean>();
+
 /**
- * Returns true if the article has a translated title for the given locale.
- * Used by sitemap.ts to exclude untranslated pages from the sitemap.
+ * Returns true if the article body is actually translated for the given locale.
+ *
+ * 以前はタイトルの有無しか見ておらず（`return !!msg.title`）、タイトルだけ翻訳されて
+ * 本文が英語のままのページを「翻訳済み」と判定していた。その結果、英語本文が
+ * 各ロケールURLで self-canonical + index + sitemap 掲載され、重複コンテンツに
+ * なっていた（2026-08-01 の全数調査で本文が en と同一のファイルが612件、
+ * うち index 対象で実際に露出していたのが ko 5 + ru 7 の12ページ）。
+ *
+ * 判定: 40文字以上の英語側の文字列のうち、ロケール側に「そのままの文字列」として
+ * 残っているものが半数以上なら未翻訳とみなす。固有名詞や短い語は言語をまたいで
+ * 一致しうるので、長い文字列だけを対象にする。
  */
 export function isArticleBodyTranslated(slug: string, locale: string): boolean {
   if (locale === DEFAULT_LOCALE) return true;
-  try {
-    const filePath = path.join(
-      process.cwd(),
-      "src",
-      "articles",
-      slug,
-      "messages",
-      `${locale}.json`,
-    );
-    const raw = JSON.parse(fs.readFileSync(filePath, "utf-8")) as Messages;
-    const msg = normalizeArticleMessages(raw, slug);
-    return !!(msg.title as string | undefined);
-  } catch {
-    return false;
-  }
+  const cacheKey = `${slug}|${locale}`;
+  const cached = translatedCache.get(cacheKey);
+  if (cached !== undefined) return cached;
+
+  const compute = (): boolean => {
+    const msg = readArticleMessages(slug, locale);
+    if (!msg?.title) return false;
+
+    const en = readArticleMessages(slug, DEFAULT_LOCALE);
+    if (!en) return true; // 比較対象が無ければ従来どおりタイトル有無で判定
+
+    const enStrings: string[] = [];
+    collectStrings(en, enStrings);
+    const enLong = enStrings.filter((s) => s.length >= 40);
+    if (enLong.length === 0) return true;
+
+    const localized: string[] = [];
+    collectStrings(msg, localized);
+    const localizedSet = new Set(localized);
+    const identical = enLong.filter((s) => localizedSet.has(s)).length;
+    return identical / enLong.length < 0.5;
+  };
+
+  const result = compute();
+  translatedCache.set(cacheKey, result);
+  return result;
 }
 
 /**
