@@ -10,6 +10,7 @@ import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
+import { localeAlternates } from "@/lib/i18n/alternates";
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -248,5 +249,7 @@ export async function generateMetadata({ params }: Props) {
     // ここで付けると「… | Pickly | Pickly」と二重になる (2026-07-29)
     title,
     description: `Browse all reviews and comparisons on ${siteName}.`,
+    // canonical / hreflang が無く、11ロケール分が無シグナルの重複になっていた (2026-08-01)
+    alternates: localeAlternates("/articles", locale),
   };
 }
