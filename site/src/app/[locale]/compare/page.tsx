@@ -2,6 +2,8 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { COMPARISONS } from "@/lib/pages/compare-config";
+import { listArticlesForLocale } from "@/lib/articles/registry";
+import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -14,6 +16,18 @@ interface Props { params: Promise<{ locale: string }> }
 export default async function CompareIndexPage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
+
+  // 詳細ページは compare/[pair] の generateStaticParams で「比較対象2記事のどちらかが
+  // そのロケールで出せる場合」のみ生成される。一覧が COMPARISONS 全件を貼っていたため、
+  // 生成されない組み合わせへのリンクが 14種125箇所の内部404になっていた (2026-08-01)。
+  const availableSlugs = new Set(
+    listArticlesForLocale(locale)
+      .filter((a) => hasApprovedAds(a, locale))
+      .map((a) => a.slug),
+  );
+  const available = COMPARISONS.filter(
+    (c) => availableSlugs.has(c.slugA) || availableSlugs.has(c.slugB),
+  );
   const t = await getTranslations();
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
     try { return t(key, values); } catch { return fallback; }
@@ -32,7 +46,7 @@ export default async function CompareIndexPage({ params }: Props) {
       </section>
 
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {COMPARISONS.map((c) => (
+        {available.map((c) => (
           <Link key={c.slug} href={`/compare/${c.slug}`}
             className="group flex flex-col gap-3 rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition-all hover:border-indigo-300 hover:shadow-md">
             <div className="flex items-center gap-2">

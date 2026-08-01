@@ -47,6 +47,20 @@ interface Props { params: Promise<{ locale: string; pair: string }> }
 export default async function ComparePage({ params }: Props) {
   const { locale, pair } = await params;
   setRequestLocale(locale);
+
+  // 「More comparisons」も生成条件と揃える。COMPARISONS 全件から選んでいたため、
+  // そのロケールで生成されない比較ページへの内部404リンクを量産していた
+  // (14種125箇所のうち111箇所がここ由来) (2026-08-01)。
+  const availableSlugsForLocale = new Set(
+    listArticlesForLocale(locale)
+      .filter((a) => hasApprovedAds(a, locale))
+      .map((a) => a.slug),
+  );
+  const moreComparisons = COMPARISONS.filter(
+    (c) =>
+      c.slug !== pair &&
+      (availableSlugsForLocale.has(c.slugA) || availableSlugsForLocale.has(c.slugB)),
+  ).slice(0, 6);
   const config = COMPARISON_MAP[pair];
   if (!config) notFound();
 
@@ -188,7 +202,7 @@ export default async function ComparePage({ params }: Props) {
         <section>
           <h2 className="mb-4 text-lg font-black text-slate-900">{tt("pages.moreComparisons", "More comparisons")}</h2>
           <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-            {COMPARISONS.filter((c) => c.slug !== pair).slice(0, 6).map((c) => (
+            {moreComparisons.map((c) => (
               <Link key={c.slug} href={`/compare/${c.slug}`}
                 className="group flex items-center gap-3 rounded-xl border border-slate-200 bg-white p-4 transition-all hover:border-indigo-200 hover:shadow-md">
                 <span className="shrink-0 text-lg" aria-hidden>⚖️</span>
