@@ -313,7 +313,10 @@ export async function generateMetadata({ params }: Props) {
     : null;
 
   return {
-    title,
+    // ルートlayoutの template "%s | Pickly" を記事ページでは外す(2026-08-01)。
+    // タイトルを60字に収めても接尾辞9字ぶんが足されてSERPで切れ、しかも切れる先が
+    // 無名ブランド名という最悪の形になっていた。absolute で本文タイトルに全枠を使う。
+    title: { absolute: title },
     description,
     // 厳選(2026-06-29): 需要ゼロ〜微小の死蔵記事は noindex,follow でサイト全体の
     // 品質評価(AdSense低価値/HCU)から外す。ページ自体はライブ維持(Pinterest用)。可逆。

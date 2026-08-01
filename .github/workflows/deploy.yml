@@ -21,6 +21,15 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      og_force:
+        description: "OG画像を既存でも作り直す (タイトル変更後はこれを付けないと古い文字のまま)"
+        type: boolean
+        default: false
+      og_locale:
+        description: "OG再生成をこのロケールだけに絞る (例: it。空なら全ロケール=約50分)"
+        type: string
+        default: ""
   schedule:
     # Daily ~03:17 UTC: the price-fetch job commits with [skip ci] (which does
     # not trigger push workflows), so a scheduled deploy keeps live prices fresh
@@ -89,10 +98,18 @@ jobs:
           restore-keys: |
             og-v2-
 
-      - name: Generate OG images (incremental)
-        run: npm run og:generate
-        # Set OG_FORCE=1 here (or run the workflow manually after bumping the
-        # cache key) to force a full regeneration after a template change.
+      # 既定は incremental（既存PNGはスキップ）。記事タイトルを変えても本文が同じだと
+      # ファイル名が変わらないため、既存スキップのままだと OG は古い文字を焼いたままになる。
+      # タイトル変更後は workflow_dispatch から og_force=true（必要なら og_locale=it 等で
+      # 対象を絞る）で再生成すること。全ロケール強制は約50分。
+      - name: Generate OG images
+        env:
+          OG_FORCE: ${{ inputs.og_force && '1' || '' }}
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.og_locale }}" ]; then ARGS="--locale=${{ inputs.og_locale }}"; fi
+          echo "OG_FORCE=${OG_FORCE:-0} ARGS=${ARGS:-(none)}"
+          npm run og:generate -- $ARGS
 
       - name: Upload OG images to R2 (rclone, S3 via derived creds)
         env:
