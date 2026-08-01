@@ -1,5 +1,5 @@
 {
-  "title": "VPSホスティング 2026年比較：同じNode.jsアプリで5社をベンチマーク",
+  "title": "VPSホスティング2026：同一アプリで5社を比較",
   "description": "DigitalOcean、Vultr、Linode、Hetzner Cloud、AWS Lightsailの5社に同じNode.js + Postgresアプリを60日間デプロイ。価格・レイテンシ・運用負荷で各社がどこで勝つか実測した。",
   "lede": "VPS 5社。Node.jsアプリ1本。本番トラフィック60日。レスポンスレイテンシ、CPUスチール、外向き帯域コスト、サインアップからコンテナ起動までの分数を実測。",
   "methodology": "各社4 vCPU / 8 GBプランに同じExpress + Postgresアプリをデプロイ。実トラフィックの20%を各社にルーティング。p50/p99レイテンシ、CPUスチール、ingress/egressコスト、新規サインアップからデプロイまでの所要分数を測定。",
