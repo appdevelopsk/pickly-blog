@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { setRequestLocale } from "next-intl/server";
-import { LOCALES, DEFAULT_LOCALE, inferMarketFromLocale } from "@/lib/i18n/locales";
+import { LOCALES, DEFAULT_LOCALE, inferMarketFromLocale, isIndexedLocale } from "@/lib/i18n/locales";
 import { listArticles, getArticle } from "@/lib/articles/registry";
 import { isDeindexed } from "@/lib/articles/deindexed-slugs";
 import { getVerifiedSpecs } from "@/lib/articles/specs";
@@ -323,14 +323,24 @@ export async function generateMetadata({ params }: Props) {
     ...(isDeindexed(slug) || untranslated ? { robots: { index: false, follow: true } } : {}),
     alternates: {
       canonical: canonicalUrl,
-      // hreflang は「実際に本文が翻訳されているロケール」だけを宣言する。
-      // 以前は meta.locales 全部を出していたため、本文が無く英語へ飛ぶだけのURLを
-      // alternate として宣言し、hreflangクラスタの過半が無効になっていた。
-      languages: Object.fromEntries(
-        meta.locales
-          .filter((l) => l === DEFAULT_LOCALE || isArticleBodyTranslated(slug, l))
-          .map((l) => [l, `${SITE_URL}/${l}/articles/${slug}/`]),
-      ),
+      // hreflang は sitemap.ts と完全に同じ3条件で絞る(2026-08-01)。
+      // 以前は isArticleBodyTranslated だけで絞っていたため、
+      //   ・hasApprovedAds を通らず生成されないURL → 404 を指す alternate 2,326件
+      //   ・isIndexedLocale 外(ar/hi/id/th/vi/tr、layoutでサイト全体noindex)  → 8,695件
+      // が宣言され、全33,403件のうち33%が無効という sitemap との三者不一致になっていた。
+      languages: {
+        ...Object.fromEntries(
+          meta.locales
+            .filter(
+              (l) =>
+                isIndexedLocale(l) &&
+                hasApprovedAds(meta, l) &&
+                isArticleBodyTranslated(slug, l),
+            )
+            .map((l) => [l, `${SITE_URL}/${l}/articles/${slug}/`]),
+        ),
+        "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/articles/${slug}/`,
+      },
     },
     openGraph: {
       type: "article",
