@@ -2,6 +2,7 @@ import type { AffiliateOffer, AffiliatePolicy, AspLink, Market } from "./types";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
 import overridesJson from "./catalog-overrides.json";
 import { CATALOG_ADDITIONS } from "./catalog-additions";
+import { CATALOG_ADDITIONS_SMARTRINGS } from "./catalog-additions-smartrings";
 import { CATALOG_ADDITIONS_BASKETBALL } from "./catalog-additions-basketball";
 import { CATALOG_BATCH12_PARENTING } from "./catalog-batch12-parenting";
 import { CATALOG_BATCH12_PETS } from "./catalog-batch12-pets";
@@ -23144,6 +23145,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     ],
   },
   ...CATALOG_ADDITIONS,
+  ...CATALOG_ADDITIONS_SMARTRINGS,
   ...CATALOG_ADDITIONS_BASKETBALL,
   ...CATALOG_BATCH12_PARENTING,
   ...CATALOG_BATCH12_PETS,
