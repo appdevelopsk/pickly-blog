@@ -3,6 +3,7 @@ import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
+import { localeAlternates } from "@/lib/i18n/alternates";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -165,7 +166,7 @@ export async function generateMetadata({ params }: Props) {
     description,
     alternates: {
       canonical: canonicalUrl,
-      languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/author`])),
+      languages: localeAlternates("/author", locale).languages,
     },
     openGraph: { type: "profile", title, description, url: canonicalUrl, siteName: "Pickly" },
     twitter: { card: "summary", title, description },

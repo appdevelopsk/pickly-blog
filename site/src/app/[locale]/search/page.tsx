@@ -9,6 +9,7 @@ import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { OG_BASE_URL } from "@/lib/og";
 import { SearchUI, type SearchItem } from "@/components/SearchUI";
 import type { ArticleMeta } from "@/lib/articles/types";
+import { localeAlternates } from "@/lib/i18n/alternates";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -122,7 +123,7 @@ export async function generateMetadata({ params }: Props) {
     description,
     alternates: {
       canonical: canonicalUrl,
-      languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/search`])),
+      languages: localeAlternates("/search", locale).languages,
     },
     openGraph: { type: "website", title, description, url: canonicalUrl, siteName: "Pickly" },
     twitter: { card: "summary", title, description },

@@ -13,6 +13,7 @@ import { ArticleCardImage } from "@/components/ArticleCardImage";
 import { TAGS, TAG_MAP } from "@/lib/pages/tag-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
+import { localeAlternates } from "@/lib/i18n/alternates";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 const CATEGORY_ICONS: Record<string,string> = { fitness:"🏋️",food:"🍳",tech:"💻",beauty:"✨",home:"🏠",fashion:"👗",finance:"💰",travel:"✈️",parenting:"👶",pets:"🐾" };
@@ -161,7 +162,7 @@ export async function generateMetadata({ params }: Props) {
   const url = `${SITE_URL}/${locale}/tag/${tag}`;
   return {
     title, description: config.description,
-    alternates: { canonical: url, languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/tag/${tag}`])) },
+    alternates: localeAlternates(`/tag/${tag}`, locale),
     openGraph: { type: "website", title, description: config.description, url, siteName: "Pickly" },
   };
 }

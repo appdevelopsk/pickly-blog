@@ -2,6 +2,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { OCCASIONS } from "@/lib/pages/gift-config";
+import { localeAlternates } from "@/lib/i18n/alternates";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -73,7 +74,7 @@ export async function generateMetadata({ params }: Props) {
   const url = `${SITE_URL}/${locale}/gifts`;
   return {
     title, description,
-    alternates: { canonical: url, languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/gifts`])) },
+    alternates: localeAlternates("/gifts", locale),
     openGraph: { type: "website", title, description, url, siteName: "Pickly" },
     twitter: { card: "summary_large_image", title, description },
   };

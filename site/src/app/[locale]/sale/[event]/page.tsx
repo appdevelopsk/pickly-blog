@@ -13,6 +13,7 @@ import { ArticleCardImage } from "@/components/ArticleCardImage";
 import { SALE_EVENTS, SALE_EVENT_MAP } from "@/lib/pages/sale-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
+import { localeAlternates } from "@/lib/i18n/alternates";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 const CATEGORY_ICONS: Record<string,string> = { fitness:"🏋️",food:"🍳",tech:"💻",beauty:"✨",home:"🏠",fashion:"👗",finance:"💰",travel:"✈️",parenting:"👶",pets:"🐾" };
@@ -175,7 +176,7 @@ export async function generateMetadata({ params }: Props) {
   const url = `${SITE_URL}/${locale}/sale/${event}`;
   return {
     title, description: config.description,
-    alternates: { canonical: url, languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/sale/${event}`])) },
+    alternates: localeAlternates(`/sale/${event}`, locale),
     openGraph: { type: "website", title, description: config.description, url, siteName: "Pickly" },
     twitter: { card: "summary_large_image", title, description: config.description },
   };

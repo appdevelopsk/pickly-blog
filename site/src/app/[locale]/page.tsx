@@ -13,6 +13,7 @@ import { COMPARISONS } from "@/lib/pages/compare-config";
 import { TAGS } from "@/lib/pages/tag-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
+import { localeAlternates } from "@/lib/i18n/alternates";
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -512,7 +513,7 @@ export async function generateMetadata({ params }: Props) {
     description,
     alternates: {
       canonical: canonicalUrl,
-      languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/`])),
+      languages: localeAlternates("", locale).languages,
     },
     openGraph: {
       type: "website",

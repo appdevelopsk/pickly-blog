@@ -13,6 +13,7 @@ import { ArticleCardImage } from "@/components/ArticleCardImage";
 import { OCCASIONS, OCCASION_MAP } from "@/lib/pages/gift-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
+import { localeAlternates } from "@/lib/i18n/alternates";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -250,7 +251,7 @@ export async function generateMetadata({ params }: Props) {
   const url = `${SITE_URL}/${locale}/gifts/${occasion}`;
   return {
     title, description,
-    alternates: { canonical: url, languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/gifts/${occasion}`])) },
+    alternates: localeAlternates(`/gifts/${occasion}`, locale),
     openGraph: { type: "website", title, description, url, siteName: "Pickly" },
     twitter: { card: "summary_large_image", title, description },
   };

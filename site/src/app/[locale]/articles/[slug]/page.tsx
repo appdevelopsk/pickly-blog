@@ -333,19 +333,22 @@ export async function generateMetadata({ params }: Props) {
       //   ・hasApprovedAds を通らず生成されないURL → 404 を指す alternate 2,326件
       //   ・isIndexedLocale 外(ar/hi/id/th/vi/tr、layoutでサイト全体noindex)  → 8,695件
       // が宣言され、全33,403件のうち33%が無効という sitemap との三者不一致になっていた。
-      languages: {
-        ...Object.fromEntries(
-          meta.locales
-            .filter(
-              (l) =>
-                isIndexedLocale(l) &&
-                hasApprovedAds(meta, l) &&
-                isArticleBodyTranslated(slug, l),
-            )
-            .map((l) => [l, `${SITE_URL}/${l}/articles/${slug}/`]),
-        ),
-        "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/articles/${slug}/`,
-      },
+      languages: (() => {
+        const ls = meta.locales.filter(
+          (l) =>
+            isIndexedLocale(l) &&
+            hasApprovedAds(meta, l) &&
+            isArticleBodyTranslated(slug, l),
+        );
+        return {
+          ...Object.fromEntries(ls.map((l) => [l, `${SITE_URL}/${l}/articles/${slug}/`])),
+          // 英語版が生成されない記事(ja限定など)で x-default を出すと 404 を指す。
+          // 実際に出せる場合だけ宣言する (2026-08-02、3記事で発生していた)。
+          ...(ls.includes(DEFAULT_LOCALE)
+            ? { "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/articles/${slug}/` }
+            : {}),
+        };
+      })(),
     },
     openGraph: {
       type: "article",

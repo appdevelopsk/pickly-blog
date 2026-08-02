@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import { setRequestLocale, getTranslations } from "next-intl/server";
-import { LOCALES } from "@/lib/i18n/locales";
+import { LOCALES, INDEXED_LOCALES, DEFAULT_LOCALE, type Locale } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import { loadArticleCardMeta } from "@/lib/i18n/loader";
@@ -221,11 +221,29 @@ export async function generateMetadata({ params }: Props) {
   const { locale, pair } = await params;
   const config = COMPARISON_MAP[pair];
   if (!config) return {};
+  const metaLocales = INDEXED_LOCALES.filter((l: Locale) => {
+    const av = new Set(
+      listArticlesForLocale(l)
+        .filter((a) => hasApprovedAds(a, l))
+        .map((a) => a.slug),
+    );
+    return av.has(config.slugA) || av.has(config.slugB);
+  });
   const title = `${config.title}: Which Is Better?`;
   const url = `${SITE_URL}/${locale}/compare/${pair}`;
   return {
     title, description: config.description,
-    alternates: { canonical: url, languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/compare/${pair}`])) },
+    // hreflang は生成される組み合わせだけ宣言する。以前は LOCALES 全17件を出しており、
+    // 生成されないロケールを指す 404 が 118件あった。末尾スラッシュも揃える (2026-08-02)。
+    alternates: {
+      canonical: `${url}/`,
+      languages: {
+        ...Object.fromEntries(metaLocales.map((l: Locale) => [l, `${SITE_URL}/${l}/compare/${pair}/`])),
+        ...(metaLocales.includes(DEFAULT_LOCALE)
+          ? { "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/compare/${pair}/` }
+          : {}),
+      },
+    },
     openGraph: { type: "article", title, description: config.description, url, siteName: "Pickly" },
     twitter: { card: "summary_large_image", title, description: config.description },
   };

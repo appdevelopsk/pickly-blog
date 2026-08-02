@@ -4,6 +4,7 @@ import { Link } from "@/lib/i18n/navigation";
 import { COMPARISONS } from "@/lib/pages/compare-config";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
+import { localeAlternates } from "@/lib/i18n/alternates";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -69,7 +70,7 @@ export async function generateMetadata({ params }: Props) {
   const url = `${SITE_URL}/${locale}/compare`;
   return {
     title, description,
-    alternates: { canonical: url, languages: Object.fromEntries(LOCALES.map((l) => [l, `${SITE_URL}/${l}/compare`])) },
+    alternates: localeAlternates("/compare", locale),
     openGraph: { type: "website", title, description, url, siteName: "Pickly" },
   };
 }

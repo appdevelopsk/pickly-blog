@@ -13,6 +13,7 @@ import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import type { ArticleCategory } from "@/lib/articles/types";
+import { localeAlternates } from "@/lib/i18n/alternates";
 
 // ── Constants ─────────────────────────────────────────────────────────────────
 
@@ -278,12 +279,7 @@ export async function generateMetadata({ params }: Props) {
   return {
     title,
     description,
-    alternates: {
-      canonical: canonicalUrl,
-      languages: Object.fromEntries(
-        LOCALES.map((l) => [l, `${SITE_URL}/${l}/category/${category}`])
-      ),
-    },
+    alternates: localeAlternates(`/category/${category}`, locale),
     openGraph: {
       type: "website",
       title,
