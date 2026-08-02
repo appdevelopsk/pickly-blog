@@ -70,15 +70,12 @@ export default async function LocaleLayout({ children, params }: Props) {
   return (
     <html lang={locale} dir={dir}>
       <head>
-        <link rel="preconnect" href="https://fundingchoicesmessages.google.com" />
-        <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
+        {/* AdSense アカウントは 2026-07-28 に無効トラフィックで無効化された。
+            配信タグを残すと、無効化されたアカウントに対して閲覧・クロールのたびに
+            広告リクエストが発生し続ける。再審査の申立てでも「全サイトからタグを撤去済み」
+            と説明する以上、実体を合わせておく必要がある。復活したら戻す (2026-08-02)。 */}
         <link rel="alternate" type="application/rss+xml" title="Pickly — Latest Reviews (EN)" href={`${SITE_URL}/feed.xml`} />
         <link rel="alternate" type="application/rss+xml" title="Pickly — 最新レビュー (日本語)" href={`${SITE_URL}/feed-ja.xml`} />
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4927026308242118"
-          crossOrigin="anonymous"
-        />
         {CLARITY_ID && (
           <script
             dangerouslySetInnerHTML={{
