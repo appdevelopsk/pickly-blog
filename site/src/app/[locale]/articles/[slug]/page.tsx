@@ -69,7 +69,11 @@ export default async function ArticlePage({ params }: Props) {
   // インデックス対象なので実害大)。コメントが述べていた本来の意図どおり、
   // meta-refresh を自前で描画する。canonicalとrobotsは generateMetadata 側で英語に寄せる。
   // (2026-07-29)
-  if (locale !== DEFAULT_LOCALE && !isArticleBodyTranslated(slug, locale)) {
+  // 英語版が生成されないと meta-refresh 先が404になる。英語で出せる場合だけ飛ばし、
+  // 出せない場合は(noindexのまま)その場で本文を表示する (2026-08-02)。
+  const enAvailable =
+    meta.locales.includes(DEFAULT_LOCALE as never) && hasApprovedAds(meta, DEFAULT_LOCALE);
+  if (locale !== DEFAULT_LOCALE && !isArticleBodyTranslated(slug, locale) && enAvailable) {
     const target = `/${DEFAULT_LOCALE}/articles/${slug}/`;
     return (
       <>
@@ -179,9 +183,14 @@ export default async function ArticlePage({ params }: Props) {
   // 未翻訳ロケールは英語版の複製(meta-refreshで送る)なので、canonicalを英語に寄せて
   // noindexにする。放置すると重複＋言語ミスマッチとして評価される。
   const untranslated = locale !== DEFAULT_LOCALE && !isArticleBodyTranslated(slug, locale);
-  const canonicalUrl = untranslated
-    ? `${SITE_URL}/${DEFAULT_LOCALE}/articles/${slug}/`
-    : `${SITE_URL}/${locale}/articles/${slug}/`;
+  // canonical も同じ理由で、英語版が生成される場合だけ英語に寄せる。
+  // 生成されない英語URLを canonical にすると 404 を正規URLとして宣言してしまう。
+  const enCanonical =
+    meta.locales.includes(DEFAULT_LOCALE as never) && hasApprovedAds(meta, DEFAULT_LOCALE);
+  const canonicalUrl =
+    untranslated && enCanonical
+      ? `${SITE_URL}/${DEFAULT_LOCALE}/articles/${slug}/`
+      : `${SITE_URL}/${locale}/articles/${slug}/`;
   const ogImageUrl = meta.ogImage
     ? meta.ogImage === "auto"
       ? `${OG_BASE_URL}/og/${slug}-${locale}.png`
@@ -303,14 +312,19 @@ export async function generateMetadata({ params }: Props) {
   // 未翻訳ロケールは英語版の複製(meta-refreshで送る)なので、canonicalを英語に寄せて
   // noindexにする。放置すると重複＋言語ミスマッチとして評価される。
   const untranslated = locale !== DEFAULT_LOCALE && !isArticleBodyTranslated(slug, locale);
-  const canonicalUrl = untranslated
-    ? `${SITE_URL}/${DEFAULT_LOCALE}/articles/${slug}/`
-    : `${SITE_URL}/${locale}/articles/${slug}/`;
+  // 英語版が生成されない記事で canonical を /en/ に寄せると 404 を正規URLとして
+  // 宣言してしまう。出せる場合だけ英語に寄せる (2026-08-02)。
+  const enCanonical =
+    meta.locales.includes(DEFAULT_LOCALE as never) && hasApprovedAds(meta, DEFAULT_LOCALE);
+  const canonicalUrl =
+    untranslated && enCanonical
+      ? `${SITE_URL}/${DEFAULT_LOCALE}/articles/${slug}/`
+      : `${SITE_URL}/${locale}/articles/${slug}/`;
   // OG画像は messages/<locale>.json が存在するぶんしか生成されない。未翻訳ロケールは
   // 本文も英語で英語版へ meta-refresh するので、カードも英語版の画像を指す。
   // (以前は存在しない <slug>-<locale>.png を指し、1,058ページで og:image が404だった。
   //  いずれも noindex ページだが、URLを共有された際にカードが壊れる) (2026-08-01)
-  const ogLocale = untranslated ? DEFAULT_LOCALE : locale;
+  const ogLocale = untranslated && enCanonical ? DEFAULT_LOCALE : locale;
   const ogImageUrl = meta.ogImage
     ? meta.ogImage === "auto"
       ? `${OG_BASE_URL}/og/${slug}-${ogLocale}.png`
