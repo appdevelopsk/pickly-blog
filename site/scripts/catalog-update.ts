@@ -86,6 +86,23 @@ function buildLinkForInput(input: UpdateInput): { link: AspLink; pending: boolea
       pending,
     };
   }
+  // rakuten-affiliate は productId(=楽天の itemUrl) を asp.ts が
+  // AFFILIATE_RAKUTEN_AFFILIATE_ID で hgc ラップするため rawUrl は不要。
+  // むしろ rawUrl に完成URLを焼き込むとアフィリIDが JSON に固定されてしまうので、
+  // productId だけを保存して生成は実行時に任せる (2026-08-02)。
+  if (input.network === "rakuten-affiliate" && !input.rawUrl) {
+    const itemUrl = input.merchantOrProductId;
+    const isRealItem = /^https?:\/\/item\.rakuten\.co\.jp\//i.test(itemUrl);
+    return {
+      link: {
+        network: "rakuten-affiliate",
+        productId: itemUrl,
+        markets: input.markets ?? ["JP"],
+        approved: isRealItem,
+      },
+      pending: !isRealItem,
+    };
+  }
   // Non-moshimo: rawUrl is the source of truth
   if (!input.rawUrl) {
     throw new Error(
