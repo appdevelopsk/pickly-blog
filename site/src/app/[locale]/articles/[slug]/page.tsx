@@ -306,10 +306,15 @@ export async function generateMetadata({ params }: Props) {
   const canonicalUrl = untranslated
     ? `${SITE_URL}/${DEFAULT_LOCALE}/articles/${slug}/`
     : `${SITE_URL}/${locale}/articles/${slug}/`;
+  // OG画像は messages/<locale>.json が存在するぶんしか生成されない。未翻訳ロケールは
+  // 本文も英語で英語版へ meta-refresh するので、カードも英語版の画像を指す。
+  // (以前は存在しない <slug>-<locale>.png を指し、1,058ページで og:image が404だった。
+  //  いずれも noindex ページだが、URLを共有された際にカードが壊れる) (2026-08-01)
+  const ogLocale = untranslated ? DEFAULT_LOCALE : locale;
   const ogImageUrl = meta.ogImage
     ? meta.ogImage === "auto"
-      ? `${OG_BASE_URL}/og/${slug}-${locale}.png`
-      : `${OG_BASE_URL}${meta.ogImage}-${locale}.png`
+      ? `${OG_BASE_URL}/og/${slug}-${ogLocale}.png`
+      : `${OG_BASE_URL}${meta.ogImage}-${ogLocale}.png`
     : null;
 
   return {
