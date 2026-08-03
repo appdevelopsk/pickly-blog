@@ -29,6 +29,12 @@
 //    あった(206本)。物理商品カテゴリのオファーに amazon-us の検索URL(既存の既定パターン・
 //    1,851件で使用中)を補完し25本を生成可能にした。うち需要100以上の3本を Set から外す。
 //    finance 44本(需要27,242)とソフト/SaaS 19本(需要9,143)は Amazon で扱えないので対象外。
+// ── 2026-08-04: 日本語の購買意図クエリ「◯◯ おすすめ」で需要を実測した(347本)。
+//    裸の商品名(「マットレス」280,713)は情報検索の巨大ワードで pickly が勝てる帯ではないため、
+//    比較記事が実際に競合する「おすすめ」付きで測り直した。
+//    勝てる中規模帯(200〜3,000)は82本・需要68,684。うち noindex のまま止まっていた
+//    10本(需要7,232)を Set から外す。防犯カメラ2,148 / 加湿器831 / バスタオル822 ほか。
+//    計測器: 00_集客統合/growth/snapshots/bing-demand-ja-intent.json
 export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-401k-rollover-2026",
   "best-529-plan-2026",
@@ -58,9 +64,7 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-baseball-cap-2026",
   "best-basketball-shoes-for-beginners-2026",
   "best-basketball-shoes-for-traction-2026",
-  "best-bath-towel-2026",
   "best-bcaa-supplement-2026",
-  "best-bento-box-2026",
   "best-bidet-seat-2026",
   "best-bluetooth-car-adapter-2026",
   "best-bluetooth-tracker-2026",
@@ -136,7 +140,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-espresso-machine-under-200-2026",
   "best-estate-planning-software-2026",
   "best-etf-for-beginners-2026",
-  "best-external-ssd-2026",
   "best-financial-advisor-2026",
   "best-fish-tank-beginners-2026",
   "best-flannel-shirt-2026",
@@ -158,9 +161,7 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-hoop-earrings-2026",
   "best-hot-chocolate-mix-2026",
   "best-hr-software-2026",
-  "best-humidifier-2026",
   "best-index-fund-2026",
-  "best-indoor-plant-2026",
   "best-instant-camera-2026",
   "best-investment-platform-2026",
   "best-jogger-pants-2026",
@@ -208,7 +209,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-pearl-earrings-2026",
   "best-personal-finance-software-2026",
   "best-personal-loan-2026",
-  "best-pet-camera-2026",
   "best-pet-first-aid-kit-2026",
   "best-pet-insurance-2026",
   "best-pet-water-fountain-2026",
@@ -235,7 +235,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-rooibos-tea-2026",
   "best-roth-ira-account-2026",
   "best-runner-rug-2026",
-  "best-security-camera-2026",
   "best-senior-cat-food-2026",
   "best-sheet-mask-2026",
   "best-shower-caddy-2026",
@@ -246,7 +245,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-smart-home-hub-2026",
   "best-sneaker-cleaning-kit-2026",
   "best-soap-dispenser-2026",
-  "best-sous-vide-2026",
   "best-space-heater-2026",
   "best-statement-handbag-2026",
   "best-stock-trading-app-2026",
@@ -264,7 +262,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-toddler-potty-2026",
   "best-toddler-shoes-2026",
   "best-toddler-table-and-chairs-2026",
-  "best-toner-2026",
   "best-trap-bar-2026",
   "best-travel-adapter-2026",
   "best-travel-binoculars-2026",
@@ -281,7 +278,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-travel-jewelry-case-2026",
   "best-travel-lock-2026",
   "best-travel-makeup-bag-2026",
-  "best-travel-mug-2026",
   "best-travel-power-strip-2026",
   "best-travel-shoe-bag-2026",
   "best-travel-sleep-mask-2026",
