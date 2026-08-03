@@ -3,7 +3,7 @@
     "title": "Beste Smart Rings 2026: Oura vs. Leep vs. Galaxy Ring",
     "description": "Fünf Smart Rings im Test – Oura Ring 4, Leep Ring 1, Ultrahuman, RingConn Gen 2 & Galaxy Ring: Schlafgenauigkeit, Akku, Komfort und echte Gesamtkosten."
   },
-  "lede": "Smart Rings stehen inzwischen für über 75 % des Wachstums bei Wearable-Ringen in den USA – und 2026 ist das erste Jahr mit echtem Preiswettbewerb: Der britische Newcomer Leep Ring 1 unterbietet Oura um die Hälfte und verzichtet komplett auf Abogebühren. Wir haben fünf Ringe bei Schlafgenauigkeit, Akkulaufzeit, Tragekomfort und den tatsächlichen Kosten über drei Jahre verglichen – denn der Kaufpreis ist nur die halbe Wahrheit.",
+  "lede": "Dieser Ratgeber vergleicht 5 Modelle anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests — ohne eigene Praxistests.",
   "sections": [
     {
       "heading": "Warum ein Ring statt einer Uhr fürs Schlaftracking",
@@ -114,51 +114,167 @@
       "offerId": "oura-ring-4",
       "badge": "Testsieger",
       "review": "Immer noch der kompletteste Smart Ring: der am besten validierte Schlafalgorithmus, die beste Readiness-Beratung und über vier Generationen verfeinerte Hardware. Die Abo-Pflicht ist das ehrliche Sternchen – aus $349 werden über drei Jahre rund $565 (ca. 520 €), und ohne zu zahlen hält der Ring das meiste zurück, was ihn gut macht.",
-      "pros": ["Am besten validierte Schlafphasen-Erkennung der Kategorie", "Readiness-Score liefert wirklich umsetzbare Empfehlungen", "Größte Auswahl an Größen (4–15) und Finishes", "Versenkte Sensoren – kein störender Buckel"],
-      "cons": ["Mitgliedschaft für 5,99 $/Monat für fast alle Auswertungen nötig", "Höchste Drei-Jahres-Kosten im Feld (ca. $565)", "Workout-Tracking bleibt schwach"],
+      "pros": [
+        "Am besten validierte Schlafphasen-Erkennung der Kategorie",
+        "Readiness-Score liefert wirklich umsetzbare Empfehlungen",
+        "Größte Auswahl an Größen (4–15) und Finishes",
+        "Versenkte Sensoren – kein störender Buckel"
+      ],
+      "cons": [
+        "Mitgliedschaft für 5,99 $/Monat für fast alle Auswertungen nötig",
+        "Höchste Drei-Jahres-Kosten im Feld (ca. $565)",
+        "Workout-Tracking bleibt schwach"
+      ],
       "grade": "A",
-      "specs": {"Preis": "$349–499", "Abo": "5,99 $/Monat (erforderlich)", "Akku": "5–7 Tage", "Gewicht": "3,3–5,2 g", "Material": "Titan", "Wasserdichtigkeit": "100 m", "Kompatibilität": "iOS / Android"},
-      "scores": {"Schlaftracking": 4.9, "Akku": 3.8, "Tragekomfort": 4.5, "App & Analysen": 4.9, "Preis-Leistung": 3.2}
+      "specs": {
+        "Preis": "$349–499",
+        "Abo": "5,99 $/Monat (erforderlich)",
+        "Akku": "5–7 Tage",
+        "Gewicht": "3,3–5,2 g",
+        "Material": "Titan",
+        "Wasserdichtigkeit": "100 m",
+        "Kompatibilität": "iOS / Android"
+      },
+      "scores": {
+        "Schlaftracking": 4.9,
+        "Akku": 3.8,
+        "Tragekomfort": 4.5,
+        "App & Analysen": 4.9,
+        "Preis-Leistung": 3.2
+      }
     },
     {
       "offerId": "leep-ring-1",
       "badge": "Preis-Leistungs-Sieger",
       "review": "Der Ring, der 2026 die Preise der Kategorie gesprengt hat. Schlaf- und Stresstracking, das laut unabhängigen Testern mit doppelt so teuren Ringen mithält, ein Ladecase, das kein Konkurrent bietet, und null Abo – für $199 (ca. 185 €). Das App-Ökosystem ist jung und das Aktivitätstracking basic, aber als Sleep-first-Kauf ist er die einfachste Empfehlung dieser Liste.",
-      "pros": ["£169/$199 – halber Preis aller Konkurrenten", "Kein Abo, niemals", "8 Tage Akku plus Ladecase für 60 Tage", "Schlafgenauigkeit nachweislich nah an Premium-Rivalen", "2,6 mm dünnes Titan – verschwindet am Finger"],
-      "cons": ["Marke erst seit Januar 2026 – junges App-Ökosystem", "Einfaches Aktivitäts-/Workout-Tracking", "Bislang wenige Drittanbieter-Integrationen"],
+      "pros": [
+        "£169/$199 – halber Preis aller Konkurrenten",
+        "Kein Abo, niemals",
+        "8 Tage Akku plus Ladecase für 60 Tage",
+        "Schlafgenauigkeit nachweislich nah an Premium-Rivalen",
+        "2,6 mm dünnes Titan – verschwindet am Finger"
+      ],
+      "cons": [
+        "Marke erst seit Januar 2026 – junges App-Ökosystem",
+        "Einfaches Aktivitäts-/Workout-Tracking",
+        "Bislang wenige Drittanbieter-Integrationen"
+      ],
       "grade": "A",
-      "specs": {"Preis": "£169 / $199", "Abo": "Keins", "Akku": "8 Tage + 60-Tage-Case", "Material": "Titan, hypoallergene Innenseite", "Dicke": "2,6 mm", "Wasserdichtigkeit": "50 m", "Kompatibilität": "iOS / Android"},
-      "scores": {"Schlaftracking": 4.6, "Akku": 4.7, "Tragekomfort": 4.7, "App & Analysen": 4.0, "Preis-Leistung": 5.0}
+      "specs": {
+        "Preis": "£169 / $199",
+        "Abo": "Keins",
+        "Akku": "8 Tage + 60-Tage-Case",
+        "Material": "Titan, hypoallergene Innenseite",
+        "Dicke": "2,6 mm",
+        "Wasserdichtigkeit": "50 m",
+        "Kompatibilität": "iOS / Android"
+      },
+      "scores": {
+        "Schlaftracking": 4.6,
+        "Akku": 4.7,
+        "Tragekomfort": 4.7,
+        "App & Analysen": 4.0,
+        "Preis-Leistung": 5.0
+      }
     },
     {
       "offerId": "ringconn-gen-2",
       "badge": "Akku-König",
       "review": "Zehn bis zwölf Tage pro Ladung beenden jede Diskussion über Ladestress, und die Schlafapnoe-Erkennung ist ein Feature, das die Premium-Marken bis heute nicht bieten. Die App liefert saubere, genaue Daten und überlässt dir die Interpretation – gut für Selbstentscheider, dünn für alle, die Coaching wollen.",
-      "pros": ["10–12 Tage Akku – Bestwert der Kategorie", "Schlafapnoe-Erkennung", "Kein Abo, $299", "Squircle-Form rollt nicht weg"],
-      "cons": ["App berichtet mehr, als sie interpretiert", "Keine automatische Workout-Erkennung", "Support antwortet mitunter langsam"],
+      "pros": [
+        "10–12 Tage Akku – Bestwert der Kategorie",
+        "Schlafapnoe-Erkennung",
+        "Kein Abo, $299",
+        "Squircle-Form rollt nicht weg"
+      ],
+      "cons": [
+        "App berichtet mehr, als sie interpretiert",
+        "Keine automatische Workout-Erkennung",
+        "Support antwortet mitunter langsam"
+      ],
       "grade": "A-",
-      "specs": {"Preis": "$299", "Abo": "Keins", "Akku": "10–12 Tage", "Gewicht": "2–3 g", "Material": "Titan", "Wasserdichtigkeit": "100 m", "Kompatibilität": "iOS / Android"},
-      "scores": {"Schlaftracking": 4.3, "Akku": 5.0, "Tragekomfort": 4.4, "App & Analysen": 3.8, "Preis-Leistung": 4.5}
+      "specs": {
+        "Preis": "$299",
+        "Abo": "Keins",
+        "Akku": "10–12 Tage",
+        "Gewicht": "2–3 g",
+        "Material": "Titan",
+        "Wasserdichtigkeit": "100 m",
+        "Kompatibilität": "iOS / Android"
+      },
+      "scores": {
+        "Schlaftracking": 4.3,
+        "Akku": 5.0,
+        "Tragekomfort": 4.4,
+        "App & Analysen": 3.8,
+        "Preis-Leistung": 4.5
+      }
     },
     {
       "offerId": "ultrahuman-ring-air",
       "badge": "Für Biohacker",
       "review": "Bei 2,4 Gramm vergisst du, dass du ihn trägst, und an sein Stoffwechsel-Toolkit kommt kein Rivale heran – Koffein-Fenster, zirkadiane Phase, Experimente zur Nahrungsreaktion. Der Preis dafür: 4–6 Tage Akku, eine App, die das Signal in Datendichte begräbt, und PowerPlug-Add-ons, die genau die Zahlfrust zurückbringen, dem das Kein-Abo-Versprechen zu entkommen schien.",
-      "pros": ["Leichtester Ring am Markt (2,4 g)", "Einzigartige Stoffwechsel- und Zirkadian-Tools", "Kein Pflicht-Abo", "Starke HRV- und Recovery-Analysen"],
-      "cons": ["Schwächster Akku im Feld (4–6 Tage)", "App ist dicht und unübersichtlich", "Einige Funktionen sind kostenpflichtige PowerPlug-Add-ons"],
+      "pros": [
+        "Leichtester Ring am Markt (2,4 g)",
+        "Einzigartige Stoffwechsel- und Zirkadian-Tools",
+        "Kein Pflicht-Abo",
+        "Starke HRV- und Recovery-Analysen"
+      ],
+      "cons": [
+        "Schwächster Akku im Feld (4–6 Tage)",
+        "App ist dicht und unübersichtlich",
+        "Einige Funktionen sind kostenpflichtige PowerPlug-Add-ons"
+      ],
       "grade": "B+",
-      "specs": {"Preis": "$349", "Abo": "Keins (optionale kostenpflichtige Add-ons)", "Akku": "4–6 Tage", "Gewicht": "2,4 g", "Material": "Titan", "Wasserdichtigkeit": "100 m", "Kompatibilität": "iOS / Android"},
-      "scores": {"Schlaftracking": 4.2, "Akku": 3.3, "Tragekomfort": 4.9, "App & Analysen": 4.1, "Preis-Leistung": 3.9}
+      "specs": {
+        "Preis": "$349",
+        "Abo": "Keins (optionale kostenpflichtige Add-ons)",
+        "Akku": "4–6 Tage",
+        "Gewicht": "2,4 g",
+        "Material": "Titan",
+        "Wasserdichtigkeit": "100 m",
+        "Kompatibilität": "iOS / Android"
+      },
+      "scores": {
+        "Schlaftracking": 4.2,
+        "Akku": 3.3,
+        "Tragekomfort": 4.9,
+        "App & Analysen": 4.1,
+        "Preis-Leistung": 3.9
+      }
     },
     {
       "offerId": "samsung-galaxy-ring",
       "badge": "Für Samsung-Nutzer",
       "review": "Im Galaxy-Ökosystem ist er die reibungsloseste Wahl – Ring-, Watch- und Smartphone-Daten landen alle in Samsung Health, Gesten steuern die Kamera, und der Energy Score ist ein ernstzunehmender Readiness-Rivale. Außerhalb dieses Ökosystems existiert er schlicht nicht: keine iOS-App, Samsung-exklusive Funktionen und mit $399 der höchste Preis unter den Abo-freien Optionen.",
-      "pros": ["Tiefste Smartphone-Ökosystem-Integration der Kategorie", "Kein Abo", "Gestensteuerung und Zyklustracking", "Daten verschmelzen mit der Galaxy Watch in Samsung Health"],
-      "cons": ["Nur Android – überhaupt keine iOS-App", "Kernfunktionen erfordern ein Samsung-Smartphone", "$399 – teuerste Abo-freie Option"],
+      "pros": [
+        "Tiefste Smartphone-Ökosystem-Integration der Kategorie",
+        "Kein Abo",
+        "Gestensteuerung und Zyklustracking",
+        "Daten verschmelzen mit der Galaxy Watch in Samsung Health"
+      ],
+      "cons": [
+        "Nur Android – überhaupt keine iOS-App",
+        "Kernfunktionen erfordern ein Samsung-Smartphone",
+        "$399 – teuerste Abo-freie Option"
+      ],
       "grade": "B+",
-      "specs": {"Preis": "$399", "Abo": "Keins", "Akku": "6–7 Tage", "Gewicht": "2,3–3 g", "Material": "Titan", "Wasserdichtigkeit": "100 m / IP68", "Kompatibilität": "Nur Android (am besten mit Samsung)"},
-      "scores": {"Schlaftracking": 4.2, "Akku": 4.2, "Tragekomfort": 4.5, "App & Analysen": 4.3, "Preis-Leistung": 3.6}
+      "specs": {
+        "Preis": "$399",
+        "Abo": "Keins",
+        "Akku": "6–7 Tage",
+        "Gewicht": "2,3–3 g",
+        "Material": "Titan",
+        "Wasserdichtigkeit": "100 m / IP68",
+        "Kompatibilität": "Nur Android (am besten mit Samsung)"
+      },
+      "scores": {
+        "Schlaftracking": 4.2,
+        "Akku": 4.2,
+        "Tragekomfort": 4.5,
+        "App & Analysen": 4.3,
+        "Preis-Leistung": 3.6
+      }
     }
   ],
   "recommendedFor": [

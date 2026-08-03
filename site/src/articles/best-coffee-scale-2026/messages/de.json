@@ -58,14 +58,20 @@
     "coffee-gator-pour-over-scale": "0,1-g-Auflösung, 1–2-Sekunden-Reaktionszeit, AA-Batterien, Timer. $25–40. Budget-Einstiegsoption — bietet Timer und Messung zum günstigsten Preis. Langsamere Reaktionszeit begrenzt die Präzision. Richtig für Einsteiger, die Messung in ihre Pour-over-Routine einführen möchten."
   },
   "pinDescription": "Kaffeewaage 2026: Acaia Pearl vs. Timemore Black Mirror vs. Hario V60 vs. Felicita Incline — warum Reaktionszeit wichtiger als Auflösung ist, integrierter Timer erklärt, Anforderungen an Espresso- vs. Pour-over-Waagen und die beste Kaffeewaage in jeder Preisklasse.",
-  "methodology": "Wir haben jede Waage nach Reaktionszeit, Auflösung, Timer-Integration, Praktikabilität der Stromquelle, Verarbeitungsqualität und Eignung für Espresso- und Pour-over-Workflows bewertet — die Reaktionszeit wurde am stärksten gewichtet, da sie den größten realen Einfluss auf die Präzision hat.",
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen. Wir haben die Produkte nicht selbst getestet.",
   "products": [
     {
       "offerId": "acaia-pearl-coffee-scale",
       "badge": "Bestes Gesamtpaket",
       "review": "Die Acaia Pearl ist die Referenz-Kaffeewaage — 0,1-g-Auflösung, 300 ms Reaktionszeit, Bluetooth-App für Brühprotokolle und ein wiederaufladbarer Akku in einem Aluminiumgehäuse, das bei normalem Gebrauch 5–10 Jahre hält. Der Preis von 150–220 € rechtfertigt sich durch Langlebigkeit und Präzision, nicht durch Features: Sie macht einfach alles richtig, jedes Mal. Die Bluetooth-App ist genuinen Nutzen für die Rezeptentwicklung.",
-      "pros": ["300 ms Reaktionszeit — schnellste aller getesteten Waagen", "Bluetooth-App protokolliert Dosis, Ausbeute und Zeit über mehrere Brühungen", "Aluminiumgehäuse mit Akku — keine Batteriewechsel nötig"],
-      "cons": ["150–220 € sind eine erhebliche Investition — überdimensioniert für Gelegenheitsbrüher"],
+      "pros": [
+        "300 ms Reaktionszeit — schnellste aller getesteten Waagen",
+        "Bluetooth-App protokolliert Dosis, Ausbeute und Zeit über mehrere Brühungen",
+        "Aluminiumgehäuse mit Akku — keine Batteriewechsel nötig"
+      ],
+      "cons": [
+        "150–220 € sind eine erhebliche Investition — überdimensioniert für Gelegenheitsbrüher"
+      ],
       "grade": "A+",
       "specs": {
         "Auflösung": "0,1 g",
@@ -86,8 +92,14 @@
       "offerId": "timemore-black-mirror-scale",
       "badge": "Bestes Preis-Leistungs-Verhältnis",
       "review": "Das Timemore Black Mirror Basic+ ist die Standardempfehlung für Heimbrüher, die alle wesentlichen Kaffeewaagen-Funktionen ohne den Acaia-Aufpreis wollen: 0,1-g-Auflösung, 500 ms Reaktionszeit, integrierter Timer und AA-Batterien. Die 500 ms sind schneller als Harios 1 Sekunde und für die meisten Rezepte ausreichend. AA-Batterien sind auf Reisen praktischer als Akkus. Das Kunststoffgehäuse ist leichter und weniger hochwertig, aber funktional ausreichend.",
-      "pros": ["Alle wesentlichen Kaffeewaagen-Funktionen für 40–60 € — der Preis-Leistungs-Maßstab", "AA-Batterien — reisepraktisch, kein Laden nötig", "Ein-Knopf-Timer — minimale Ablenkung beim Brühen"],
-      "cons": ["500 ms Reaktionszeit ist langsamer als Acaias 300 ms — kleiner Nachteil bei exakter Rezeptbefolgung"],
+      "pros": [
+        "Alle wesentlichen Kaffeewaagen-Funktionen für 40–60 € — der Preis-Leistungs-Maßstab",
+        "AA-Batterien — reisepraktisch, kein Laden nötig",
+        "Ein-Knopf-Timer — minimale Ablenkung beim Brühen"
+      ],
+      "cons": [
+        "500 ms Reaktionszeit ist langsamer als Acaias 300 ms — kleiner Nachteil bei exakter Rezeptbefolgung"
+      ],
       "grade": "A",
       "specs": {
         "Auflösung": "0,1 g",
@@ -108,8 +120,14 @@
       "offerId": "hario-v60-drip-scale",
       "badge": "Beste Wahl für V60-Nutzer",
       "review": "Die Hario V60 Drip Scale ist für das V60-Ökosystem konzipiert und betont Einfachheit: Ein Knopf startet den Timer, 80 Stunden Akkulaufzeit mit AA-Batterien, 0,1-g-Auflösung mit ca. 1 Sekunde Reaktionszeit. Die Reaktionszeit ist langsamer als bei Timemore und Acaia, aber die Akkulaufzeit ist die beste aller hier getesteten Waagen. Für V60-Nutzer, die selten aufladen möchten, ist die Hario-Waage der natürliche Begleiter — obwohl Timemore eine bessere Reaktionszeit bei ähnlichem Preis bietet.",
-      "pros": ["80 Stunden Laufzeit mit AA-Batterien — die längste hier", "Für V60-Ökosystem konzipiert — visuell stimmig", "Einfache Ein-Knopf-Bedienung minimiert Ablenkung beim Brühen"],
-      "cons": ["1 Sekunde Reaktionszeit — die langsamste unter den Kaffeewaagen — beeinträchtigt Präzision am Zielgewicht"],
+      "pros": [
+        "80 Stunden Laufzeit mit AA-Batterien — die längste hier",
+        "Für V60-Ökosystem konzipiert — visuell stimmig",
+        "Einfache Ein-Knopf-Bedienung minimiert Ablenkung beim Brühen"
+      ],
+      "cons": [
+        "1 Sekunde Reaktionszeit — die langsamste unter den Kaffeewaagen — beeinträchtigt Präzision am Zielgewicht"
+      ],
       "grade": "B+",
       "specs": {
         "Auflösung": "0,1 g",
@@ -130,8 +148,14 @@
       "offerId": "felicita-incline-coffee-scale",
       "badge": "Beste Wahl für Espresso",
       "review": "Felicitas Incline hat ein einzigartiges, 10 Grad geneigtes Display, das über einem Siebträger oder Espresso-Drip-Tray zum Nutzer zeigt — und damit ablesbar ist, ohne sich vorzubeugen. USB-C aufladbar mit Auto-Start-Timer, der bei Gewichtserkennung aktiviert wird. Mit 200–300 ms Reaktionszeit entspricht es der Acaia-Geschwindigkeit zu einem niedrigeren Preis (80–120 €). Das Neigungsdesign ist je nach Setup entweder nützlich oder ein Gimmick; für Espresso-Nutzer mit versenkten Drip-Trays ist es genuinen praktischen Nutzen.",
-      "pros": ["10-Grad-Neigungsdisplay — über dem Siebträger ohne Vorbeugen ablesbar", "Auto-Start-Timer bei Gewichtserkennung — handsfree", "200–300 ms Reaktionszeit — entspricht Acaia bei geringerem Preis"],
-      "cons": ["Geneigtes Display ist nur für Espresso-Setups nützlich — beim Pour-over weniger relevant"],
+      "pros": [
+        "10-Grad-Neigungsdisplay — über dem Siebträger ohne Vorbeugen ablesbar",
+        "Auto-Start-Timer bei Gewichtserkennung — handsfree",
+        "200–300 ms Reaktionszeit — entspricht Acaia bei geringerem Preis"
+      ],
+      "cons": [
+        "Geneigtes Display ist nur für Espresso-Setups nützlich — beim Pour-over weniger relevant"
+      ],
       "grade": "B",
       "specs": {
         "Auflösung": "0,1 g",
@@ -152,8 +176,14 @@
       "offerId": "coffee-gator-pour-over-scale",
       "badge": "Bester Einstieg",
       "review": "Die Coffee Gator Pour-Over Scale ist der Einstiegspunkt — sie fügt Timer und 0,1-g-Messung zur Pour-over-Routine zum günstigsten Preis (25–40 €) hinzu. Die 1–2-Sekunden-Reaktionszeit ist die langsamste hier und führt bei präzisen Zielgewichten zu konstantem Überschießen, aber für Einsteiger zählen Timer- und Messgewohnheiten mehr als Millisekunden-Präzision. Ein sinnvolles Upgrade gegenüber jeder Küchenwaage.",
-      "pros": ["Niedrigster Preis unter den Kaffeewaagen — 25–40 €", "Integrierter Timer für essenzielle Brühzeitmessung", "Echter Fortschritt gegenüber einer Küchenwaage für Pour-over"],
-      "cons": ["1–2 Sekunden Reaktionszeit führt beim Gießen auf präzise Gewichtsziele zum Überschießen"],
+      "pros": [
+        "Niedrigster Preis unter den Kaffeewaagen — 25–40 €",
+        "Integrierter Timer für essenzielle Brühzeitmessung",
+        "Echter Fortschritt gegenüber einer Küchenwaage für Pour-over"
+      ],
+      "cons": [
+        "1–2 Sekunden Reaktionszeit führt beim Gießen auf präzise Gewichtsziele zum Überschießen"
+      ],
       "grade": "B-",
       "specs": {
         "Auflösung": "0,1 g",

@@ -3,7 +3,7 @@
     "title": "Meilleures bagues connectées 2026 : Oura, Leep, Galaxy",
     "description": "Oura Ring 4, Leep Ring 1, Ultrahuman, RingConn Gen 2 et Galaxy Ring comparées : précision du sommeil, autonomie, confort et coût réel sur trois ans."
   },
-  "lede": "Les bagues connectées représentent désormais plus de 75 % de la croissance des ventes d'anneaux connectés aux États-Unis, et 2026 est la première année où la catégorie connaît une vraie concurrence sur les prix : la nouvelle venue britannique Leep Ring 1 casse le tarif d'Oura de moitié, tout en renonçant complètement à l'abonnement. Nous avons comparé cinq bagues sur la précision du suivi du sommeil, l'autonomie, le confort et le coût réel sur trois ans — parce que le prix affiché ne raconte que la moitié de l'histoire.",
+  "lede": "Ce guide compare 5 options à partir des spécifications publiées, de la documentation constructeur et de tests indépendants — sans test pratique de notre part.",
   "sections": [
     {
       "heading": "Pourquoi une bague plutôt qu'une montre pour suivre le sommeil",
@@ -114,51 +114,167 @@
       "offerId": "oura-ring-4",
       "badge": "Meilleur choix global",
       "review": "Toujours la bague connectée la plus complète : l'algorithme de sommeil le plus validé, le meilleur guidage de préparation, et un matériel affiné sur quatre générations. L'abonnement obligatoire est l'astérisque qu'il faut assumer — 349 $ deviennent environ 565 $ (env. 520 €) sur trois ans, et sans payer, la bague retient l'essentiel de ce qui fait sa valeur.",
-      "pros": ["Les phases de sommeil les plus validées de la catégorie", "Un score de préparation réellement actionnable", "Le plus large choix de tailles (4-15) et de finitions", "Capteurs encastrés — aucune bosse inconfortable"],
-      "cons": ["Abonnement à 5,99 $/mois requis pour presque toutes les analyses", "Le coût sur trois ans le plus élevé ici (~565 $)", "Suivi d'entraînement toujours faible"],
+      "pros": [
+        "Les phases de sommeil les plus validées de la catégorie",
+        "Un score de préparation réellement actionnable",
+        "Le plus large choix de tailles (4-15) et de finitions",
+        "Capteurs encastrés — aucune bosse inconfortable"
+      ],
+      "cons": [
+        "Abonnement à 5,99 $/mois requis pour presque toutes les analyses",
+        "Le coût sur trois ans le plus élevé ici (~565 $)",
+        "Suivi d'entraînement toujours faible"
+      ],
       "grade": "A",
-      "specs": {"Prix": "349-499 $", "Abonnement": "5,99 $/mois (requis)", "Autonomie": "5-7 jours", "Poids": "3,3-5,2 g", "Matériau": "Titane", "Étanchéité": "100 m", "Compatibilité": "iOS / Android"},
-      "scores": {"Suivi du sommeil": 4.9, "Autonomie": 3.8, "Confort": 4.5, "App & analyses": 4.9, "Rapport qualité-prix": 3.2}
+      "specs": {
+        "Prix": "349-499 $",
+        "Abonnement": "5,99 $/mois (requis)",
+        "Autonomie": "5-7 jours",
+        "Poids": "3,3-5,2 g",
+        "Matériau": "Titane",
+        "Étanchéité": "100 m",
+        "Compatibilité": "iOS / Android"
+      },
+      "scores": {
+        "Suivi du sommeil": 4.9,
+        "Autonomie": 3.8,
+        "Confort": 4.5,
+        "App & analyses": 4.9,
+        "Rapport qualité-prix": 3.2
+      }
     },
     {
       "offerId": "leep-ring-1",
       "badge": "Meilleur rapport qualité-prix",
       "review": "La bague qui a cassé les prix de la catégorie en 2026. Un suivi du sommeil et du stress vérifié par des testeurs indépendants au niveau de bagues deux fois plus chères, un étui de charge qu'aucune rivale ne propose, et zéro abonnement — pour 199 $ (env. 185 €). L'écosystème applicatif est jeune et le suivi d'activité basique, mais comme achat centré sur le sommeil, c'est la recommandation la plus facile de cette liste.",
-      "pros": ["£169/199 $ — moitié prix de toutes ses rivales", "Aucun abonnement, jamais", "8 jours d'autonomie plus un étui de charge de 60 jours", "Précision du sommeil vérifiée proche des rivales premium", "Titane de 2,6 mm d'épaisseur — se fait oublier au doigt"],
-      "cons": ["Marque lancée en janvier 2026 — écosystème applicatif jeune", "Suivi d'activité et d'entraînement basique", "Encore peu d'intégrations tierces"],
+      "pros": [
+        "£169/199 $ — moitié prix de toutes ses rivales",
+        "Aucun abonnement, jamais",
+        "8 jours d'autonomie plus un étui de charge de 60 jours",
+        "Précision du sommeil vérifiée proche des rivales premium",
+        "Titane de 2,6 mm d'épaisseur — se fait oublier au doigt"
+      ],
+      "cons": [
+        "Marque lancée en janvier 2026 — écosystème applicatif jeune",
+        "Suivi d'activité et d'entraînement basique",
+        "Encore peu d'intégrations tierces"
+      ],
       "grade": "A",
-      "specs": {"Prix": "£169 / 199 $ (env. 185 €)", "Abonnement": "Aucun", "Autonomie": "8 jours + étui 60 jours", "Matériau": "Titane, intérieur hypoallergénique", "Épaisseur": "2,6 mm", "Étanchéité": "50 m", "Compatibilité": "iOS / Android"},
-      "scores": {"Suivi du sommeil": 4.6, "Autonomie": 4.7, "Confort": 4.7, "App & analyses": 4.0, "Rapport qualité-prix": 5.0}
+      "specs": {
+        "Prix": "£169 / 199 $ (env. 185 €)",
+        "Abonnement": "Aucun",
+        "Autonomie": "8 jours + étui 60 jours",
+        "Matériau": "Titane, intérieur hypoallergénique",
+        "Épaisseur": "2,6 mm",
+        "Étanchéité": "50 m",
+        "Compatibilité": "iOS / Android"
+      },
+      "scores": {
+        "Suivi du sommeil": 4.6,
+        "Autonomie": 4.7,
+        "Confort": 4.7,
+        "App & analyses": 4.0,
+        "Rapport qualité-prix": 5.0
+      }
     },
     {
       "offerId": "ringconn-gen-2",
       "badge": "Meilleure autonomie",
       "review": "Dix à douze jours par charge closent le débat sur l'angoisse de la recharge, et la détection de l'apnée du sommeil est une fonction que les marques premium ne proposent toujours pas. L'application livre des données propres et exactes et vous laisse l'interprétation — parfait pour les autonomes, léger pour ceux qui veulent un coaching.",
-      "pros": ["10-12 jours d'autonomie — la meilleure de la catégorie", "Détection de l'apnée du sommeil", "Sans abonnement, 299 $", "La forme « squircle » empêche de rouler"],
-      "cons": ["L'application restitue plus qu'elle n'interprète", "Pas de détection automatique d'entraînement", "Support parfois lent à répondre"],
+      "pros": [
+        "10-12 jours d'autonomie — la meilleure de la catégorie",
+        "Détection de l'apnée du sommeil",
+        "Sans abonnement, 299 $",
+        "La forme « squircle » empêche de rouler"
+      ],
+      "cons": [
+        "L'application restitue plus qu'elle n'interprète",
+        "Pas de détection automatique d'entraînement",
+        "Support parfois lent à répondre"
+      ],
       "grade": "A-",
-      "specs": {"Prix": "299 $ (env. 275 €)", "Abonnement": "Aucun", "Autonomie": "10-12 jours", "Poids": "2-3 g", "Matériau": "Titane", "Étanchéité": "100 m", "Compatibilité": "iOS / Android"},
-      "scores": {"Suivi du sommeil": 4.3, "Autonomie": 5.0, "Confort": 4.4, "App & analyses": 3.8, "Rapport qualité-prix": 4.5}
+      "specs": {
+        "Prix": "299 $ (env. 275 €)",
+        "Abonnement": "Aucun",
+        "Autonomie": "10-12 jours",
+        "Poids": "2-3 g",
+        "Matériau": "Titane",
+        "Étanchéité": "100 m",
+        "Compatibilité": "iOS / Android"
+      },
+      "scores": {
+        "Suivi du sommeil": 4.3,
+        "Autonomie": 5.0,
+        "Confort": 4.4,
+        "App & analyses": 3.8,
+        "Rapport qualité-prix": 4.5
+      }
     },
     {
       "offerId": "ultrahuman-ring-air",
       "badge": "Pour les biohackers",
       "review": "À 2,4 grammes, on oublie qu'on la porte, et aucune rivale n'approche sa boîte à outils métabolique — fenêtres de caféine, phase circadienne, expériences de réponse alimentaire. Le prix à payer : 4 à 6 jours d'autonomie, une application qui noie le signal dans la densité, et des options PowerPlug qui réintroduisent la friction de paiement que la promesse sans abonnement laissait croire évitée.",
-      "pros": ["La bague la plus légère du marché (2,4 g)", "Outils métaboliques et circadiens uniques", "Pas d'abonnement obligatoire", "Solides analyses de VFC et de récupération"],
-      "cons": ["La plus faible autonomie ici (4-6 jours)", "Application dense et encombrée", "Certaines fonctions sont des options payantes PowerPlug"],
+      "pros": [
+        "La bague la plus légère du marché (2,4 g)",
+        "Outils métaboliques et circadiens uniques",
+        "Pas d'abonnement obligatoire",
+        "Solides analyses de VFC et de récupération"
+      ],
+      "cons": [
+        "La plus faible autonomie ici (4-6 jours)",
+        "Application dense et encombrée",
+        "Certaines fonctions sont des options payantes PowerPlug"
+      ],
       "grade": "B+",
-      "specs": {"Prix": "349 $ (env. 320 €)", "Abonnement": "Aucun (options payantes facultatives)", "Autonomie": "4-6 jours", "Poids": "2,4 g", "Matériau": "Titane", "Étanchéité": "100 m", "Compatibilité": "iOS / Android"},
-      "scores": {"Suivi du sommeil": 4.2, "Autonomie": 3.3, "Confort": 4.9, "App & analyses": 4.1, "Rapport qualité-prix": 3.9}
+      "specs": {
+        "Prix": "349 $ (env. 320 €)",
+        "Abonnement": "Aucun (options payantes facultatives)",
+        "Autonomie": "4-6 jours",
+        "Poids": "2,4 g",
+        "Matériau": "Titane",
+        "Étanchéité": "100 m",
+        "Compatibilité": "iOS / Android"
+      },
+      "scores": {
+        "Suivi du sommeil": 4.2,
+        "Autonomie": 3.3,
+        "Confort": 4.9,
+        "App & analyses": 4.1,
+        "Rapport qualité-prix": 3.9
+      }
     },
     {
       "offerId": "samsung-galaxy-ring",
       "badge": "Pour utilisateurs Samsung",
       "review": "Au sein de l'écosystème Galaxy, c'est le choix sans friction — les données de la bague, de la montre et du téléphone convergent dans Samsung Health, les gestes pilotent l'appareil photo, et l'Energy Score est un rival crédible du score de préparation. Hors de cet écosystème, elle n'existe tout simplement pas : aucune application iOS, des fonctions réservées à Samsung, et le prix sans abonnement le plus élevé à 399 $ (env. 370 €).",
-      "pros": ["L'intégration téléphone-écosystème la plus profonde de la catégorie", "Sans abonnement", "Commandes gestuelles et suivi du cycle", "Les données fusionnent avec la Galaxy Watch dans Samsung Health"],
-      "cons": ["Android uniquement — aucune application iOS", "Des fonctions clés exigent un téléphone Samsung", "399 $ — l'option sans abonnement la plus chère"],
+      "pros": [
+        "L'intégration téléphone-écosystème la plus profonde de la catégorie",
+        "Sans abonnement",
+        "Commandes gestuelles et suivi du cycle",
+        "Les données fusionnent avec la Galaxy Watch dans Samsung Health"
+      ],
+      "cons": [
+        "Android uniquement — aucune application iOS",
+        "Des fonctions clés exigent un téléphone Samsung",
+        "399 $ — l'option sans abonnement la plus chère"
+      ],
       "grade": "B+",
-      "specs": {"Prix": "399 $ (env. 370 €)", "Abonnement": "Aucun", "Autonomie": "6-7 jours", "Poids": "2,3-3 g", "Matériau": "Titane", "Étanchéité": "100 m / IP68", "Compatibilité": "Android uniquement (optimal avec Samsung)"},
-      "scores": {"Suivi du sommeil": 4.2, "Autonomie": 4.2, "Confort": 4.5, "App & analyses": 4.3, "Rapport qualité-prix": 3.6}
+      "specs": {
+        "Prix": "399 $ (env. 370 €)",
+        "Abonnement": "Aucun",
+        "Autonomie": "6-7 jours",
+        "Poids": "2,3-3 g",
+        "Matériau": "Titane",
+        "Étanchéité": "100 m / IP68",
+        "Compatibilité": "Android uniquement (optimal avec Samsung)"
+      },
+      "scores": {
+        "Suivi du sommeil": 4.2,
+        "Autonomie": 4.2,
+        "Confort": 4.5,
+        "App & analyses": 4.3,
+        "Rapport qualité-prix": 3.6
+      }
     }
   ],
   "recommendedFor": [

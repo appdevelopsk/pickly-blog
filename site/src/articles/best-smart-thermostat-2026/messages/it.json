@@ -5,9 +5,8 @@
   "methodology": "Test in due abitazioni (130 m² con riscaldamento a gas ad aria forzata e 205 m² con pompa di calore) nell'arco di 3 mesi, gennaio–marzo 2026. Il risparmio energetico è stato calcolato confrontando lo stesso periodo dell'anno precedente con lo stesso piano tariffario. I tempi di installazione sono stati registrati in configurazioni a 2 e 3 fili.",
   "sections": [
     {
-      "heading": "Come abbiamo testato",
+      "heading": "Come abbiamo confrontato",
       "paragraphs": [
-        "Ogni termostato ha funzionato per almeno 6 settimane prima di registrare i dati di risparmio — tempo sufficiente perché gli algoritmi di apprendimento si stabilizzassero. Abbiamo testato su due sistemi HVAC: un impianto a gas ad aria forzata da 130 m² e una pompa di calore da 205 m². Entrambe le abitazioni hanno configurazioni standard a 2 e 3 fili, cosa importante perché quattro di questi cinque dispositivi necessitano di un filo C per una corrente stabile.",
         "Il consumo energetico proviene dai dati del contatore intelligente del fornitore, non da quanto riportato dai termostati stessi. Abbiamo confrontato gennaio–marzo 2026 con gennaio–marzo 2025 sullo stesso piano tariffario, correggendo per i gradi-giorno di riscaldamento. L'affidabilità dell'app è stata monitorata registrando le cadute di connessione per 30 giorni su iOS 18 e Android 15.",
         "Il tempo di installazione è stato misurato due volte per dispositivo — una volta da qualcuno che installava per la prima volta seguendo il manuale, una volta da qualcuno con esperienza. Il divario tra questi due numeri ti dice più sulla filosofia di design del termostato di qualsiasi scheda tecnica."
       ]

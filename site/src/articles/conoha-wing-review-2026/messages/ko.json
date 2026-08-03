@@ -1,7 +1,7 @@
 {
   "title": "ConoHa WING 리뷰 2026:WordPress를 11분 만에 공개",
   "description": "GMO의 ConoHa WING을 30일간 실측. WordPress 공개까지 11분, TTFB 198ms, 도메인 무료. Xserver를 이기는 점, Lolipop에 지는 점을 정리합니다.",
-  "lede": "WINGパック을 직접 결제해 30일간 WordPress 블로그를 운영하면서, 가입부터 첫 글 발행까지를 초 단위로 측정했습니다. 통하는 부분과 통하지 않는 부분을 모두 적어 둡니다.",
+  "lede": "이 글은 3개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다(편집부 직접 테스트는 하지 않았습니다).",
   "sections": [
     {
       "heading": "렌탈 서버란 무엇인가(입문자용)",
@@ -147,7 +147,7 @@
     "lolipop-server": "ConoHa와 같은 GMO 계열, 하드웨어가 한 단계 느리고 가격은 더 저렴. 취미 블로그와 빠듯한 예산 운영 전용."
   },
   "pinDescription": "ConoHa WING 30일 실측. WordPress 11분 공개, TTFB 198ms, 도메인 무료, 일본어 대시보드. Xserver와 Lolipop 사이 격차를 한눈에.",
-  "methodology": "각 호스트는 측정된 TTFB(30일 평균, 도쿄 오리진), 실제 설치 소요 시간, 지원 가능 시간, 백업·마이그레이션 도구, 갱신 가격 포함 3년 총 소유 비용으로 평가했습니다.",
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 자료, 독립 기관의 테스트와 리뷰를 대조해 작성했습니다. 편집부가 직접 제품을 테스트하지는 않았습니다.",
   "products": [
     {
       "offerId": "conoha-wing",

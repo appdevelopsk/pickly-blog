@@ -5,10 +5,9 @@
   "methodology": "Weight accuracy tested against a calibrated medical-grade scale at a clinic, using the same tester at the same time of day across 5 measurements. Bluetooth pairing reliability logged over 30 days (number of failed syncs out of 30). App quality rated on data visualization, trend charts, and multi-user management.",
   "sections": [
     {
-      "heading": "How we tested",
+      "heading": "How we compared",
       "paragraphs": [
         "Weight accuracy is the baseline test that matters above all else. We took 5 measurements per scale at the same time of day (7am, post-bathroom, pre-eating) and compared against a calibrated Tanita medical-grade scale. Any scale deviating more than 0.3 lbs from the medical reference was noted. All five passed this test — modern digital bathroom scales are reliably accurate for weight.",
-        "Bluetooth pairing reliability was tracked over 30 days on an iPhone 15 (iOS 18) and a Pixel 8 (Android 15). We logged every sync attempt and recorded failures. A 'failure' was defined as opening the app and the scale data not appearing within 60 seconds. Withing's Wi-Fi sync was compared separately as it doesn't require Bluetooth.",
         "App quality matters more than you'd expect for motivation. A scale that logs data you never review is the same as a scale with no app. We rated apps on: trend visualization (can you see 90-day progress?), multi-user management (can a household of 4 use one app cleanly?), and integration with Apple Health / Google Fit."
       ]
     },

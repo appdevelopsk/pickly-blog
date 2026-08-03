@@ -5,14 +5,6 @@
   "methodology": "Tests in zwei Wohnungen (130 m² mit Gasgebläseheizung und 205 m² mit Wärmepumpe) über 3 Monate, Januar–März 2026. Energieeinsparungen wurden durch Vergleich mit dem gleichen Zeitraum des Vorjahres bei gleichem Tarif berechnet. Installationszeiten wurden für 2-Draht- und 3-Draht-Konfigurationen erfasst.",
   "sections": [
     {
-      "heading": "Wie wir getestet haben",
-      "paragraphs": [
-        "Jeder Thermostat lief mindestens 6 Wochen, bevor wir Einspardaten aufgezeichnet haben — lang genug, damit sich die Lernalgorithmen stabilisieren konnten. Wir haben an zwei HVAC-Systemen getestet: einer 130 m² Erdgas-Gebläseheizung und einer 205 m² Wärmepumpe. Beide Wohnungen haben Standard-2-Draht- und 3-Draht-Konfigurationen, was wichtig ist, da vier dieser fünf Geräte für eine stabile Stromversorgung einen N-Leiter benötigen.",
-        "Der Energieverbrauch stammt aus den Smart-Meter-Daten des Energieversorgers, nicht aus den Selbstberichten der Thermostate. Wir haben Januar–März 2026 mit Januar–März 2025 beim gleichen Tarif verglichen und nach Heizgradtagen korrigiert. Die App-Zuverlässigkeit wurde durch das Erfassen von Verbindungsabbrüchen über 30 Tage auf iOS 18 und Android 15 verfolgt.",
-        "Die Installationszeit wurde zweimal pro Gerät gemessen — einmal von jemandem, der erstmals installierte und dabei dem Handbuch folgte, und einmal von jemandem mit vorheriger Erfahrung. Der Unterschied zwischen diesen beiden Zahlen verrät mehr über die Designphilosophie eines Thermostaten als jedes Datenblatt."
-      ]
-    },
-    {
       "heading": "Schnellvergleich",
       "paragraphs": [
         "Bevor wir auf jedes Gerät eingehen, hier ein Überblick über die wichtigsten Kennzahlen. Der Preis ist die unverbindliche Preisempfehlung von Mai 2026; die Einsparungen sind unsere auf 3 Monate gemessenen Durchschnittswerte, hochgerechnet auf das Jahr.",

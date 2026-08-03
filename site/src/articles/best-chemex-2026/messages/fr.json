@@ -58,14 +58,20 @@
     "hario-v60-02": "Filtre pour-over individuel, rainures en spirale, grand trou unique. $25-35 (plastique). Alternative au Chemex avec filtre plus fin -- plus de corps, flux plus rapide, plus de controle de technique. Necessite un serveur ou mug separe. Meilleur pour les baristas experimentes qui priorisent le controle d'extraction."
   },
   "pinDescription": "Chemex vs Hario V60 2026 : 6 tasses vs 8 tasses, manche en verre vs anneau en bois, ce que le filtre epais du Chemex fait vraiment a la clarte de la tasse, et quel pour-over choisir pour votre cuisine. #chemex #pourover #cafedespecie #français",
-  "methodology": "Nous avons évalué chaque cafetière sur la clarté de la tasse, la qualité de fabrication, la facilité de nettoyage, la compatibilité des filtres, la précision de la capacité et l'adéquation avec différents profils de torréfaction — le V60 a été testé en parallèle comme principale alternative au Chemex.",
+  "methodology": "Cette comparaison repose sur une recherche documentaire : spécifications publiées, documentation constructeur, tests et avis indépendants. Nous n'avons pas testé ces produits nous-mêmes.",
   "products": [
     {
       "offerId": "chemex-6-cup-classic",
       "badge": "Meilleur choix global",
       "review": "Le modèle classique Chemex en verre borosilicaté en forme de sablier avec collier en bois. Avec 850 ml, il est idéal pour 1 à 2 personnes, et les filtres propriétaires éliminent les huiles et les fines particules pour faire ressortir les notes fruitées et florales des torréfactions claires. Sans poignée, il peut sembler difficile à tenir — mais la clarté de la tasse est inégalée dans cette catégorie.",
-      "pros": ["Clarté de tasse incomparable", "Carafe en verre borosilicaté résistant à la chaleur", "850 ml idéal pour 1 à 2 personnes"],
-      "cons": ["Le collier en bois n'est pas compatible lave-vaisselle"],
+      "pros": [
+        "Clarté de tasse incomparable",
+        "Carafe en verre borosilicaté résistant à la chaleur",
+        "850 ml idéal pour 1 à 2 personnes"
+      ],
+      "cons": [
+        "Le collier en bois n'est pas compatible lave-vaisselle"
+      ],
       "grade": "A+",
       "specs": {
         "Capacité": "30 oz / 850 ml",
@@ -86,8 +92,14 @@
       "offerId": "chemex-8-cup-classic",
       "badge": "Meilleur pour les groupes",
       "review": "Le modèle 8 tasses est idéal pour les foyers de 3 personnes ou plus et les bureaux à domicile, permettant de préparer jusqu'à 4 à 5 tasses à la fois avec 1,2 l de capacité. La qualité d'infusion est identique au 6 tasses, seule la capacité diffère. Pour 1 à 2 personnes, il sera surdimensionné.",
-      "pros": ["Jusqu'à 4 à 5 tasses à la fois", "Même qualité d'infusion que le 6 tasses", "Idéal pour les groupes et routines matinales"],
-      "cons": ["Trop grand pour une utilisation solo"],
+      "pros": [
+        "Jusqu'à 4 à 5 tasses à la fois",
+        "Même qualité d'infusion que le 6 tasses",
+        "Idéal pour les groupes et routines matinales"
+      ],
+      "cons": [
+        "Trop grand pour une utilisation solo"
+      ],
       "grade": "A",
       "specs": {
         "Capacité": "40 oz / 1,2 L",
@@ -108,8 +120,14 @@
       "offerId": "chemex-glass-handle",
       "badge": "Meilleur pour le nettoyage facile",
       "review": "Ce modèle remplace le collier en bois par une poignée en verre intégrée, rendant l'ensemble compatible lave-vaisselle — son principal avantage. La clarté d'infusion est équivalente au 6 tasses classique, idéal pour ceux qui lavent plusieurs fois par jour. La poignée en verre peut chauffer légèrement ; un torchon est recommandé.",
-      "pros": ["Entièrement compatible lave-vaisselle", "Même qualité d'infusion que le 6 tasses", "Verre intégré pour une hygiène optimale"],
-      "cons": ["La poignée peut chauffer à haute température"],
+      "pros": [
+        "Entièrement compatible lave-vaisselle",
+        "Même qualité d'infusion que le 6 tasses",
+        "Verre intégré pour une hygiène optimale"
+      ],
+      "cons": [
+        "La poignée peut chauffer à haute température"
+      ],
       "grade": "B+",
       "specs": {
         "Capacité": "34 oz / 1 L",
@@ -130,8 +148,14 @@
       "offerId": "chemex-bonded-filters",
       "badge": "Consommable indispensable",
       "review": "Les filtres bonded Chemex en boîte de 100 sont 20 à 30 % plus épais que les filtres standards et éliminent les huiles et fines particules efficacement. Utiliser d'autres filtres dans une cafetière Chemex dégrade considérablement la clarté — ce n'est pas un accessoire, c'est une nécessité. Il est conseillé d'en avoir 2 à 3 boîtes d'avance.",
-      "pros": ["Clarté optimale grâce au design dédié Chemex", "Pack de 100 avec bon rapport qualité-prix", "Matériaux certifiés écologiques"],
-      "cons": ["Compatible uniquement avec les cafetières Chemex"],
+      "pros": [
+        "Clarté optimale grâce au design dédié Chemex",
+        "Pack de 100 avec bon rapport qualité-prix",
+        "Matériaux certifiés écologiques"
+      ],
+      "cons": [
+        "Compatible uniquement avec les cafetières Chemex"
+      ],
       "grade": "B",
       "specs": {
         "Quantité": "100 filtres",
@@ -151,8 +175,14 @@
       "offerId": "hario-v60-02",
       "badge": "Meilleure cafetière alternative",
       "review": "Le Hario V60 02 utilise des filtres plus fins et offre plus de corps, un débit plus rapide et un meilleur contrôle de l'extraction que le Chemex. Un serveur séparé est nécessaire, mais les nervures en spirale permettent un flux d'air libre pour un versement précis — adapté aussi aux torréfactions sombres. Pour les utilisateurs expérimentés qui privilégient le corps à la clarté.",
-      "pros": ["Plus de corps et de contrôle d'extraction", "Adapté aux torréfactions claires à sombres", "Compact et portable"],
-      "cons": ["Nécessite un serveur ou mug séparé"],
+      "pros": [
+        "Plus de corps et de contrôle d'extraction",
+        "Adapté aux torréfactions claires à sombres",
+        "Compact et portable"
+      ],
+      "cons": [
+        "Nécessite un serveur ou mug séparé"
+      ],
       "grade": "B-",
       "specs": {
         "Matériau": "Plastique (résistant à la chaleur)",

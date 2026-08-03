@@ -116,7 +116,7 @@
     "lolipop-server": "#5 — ConoHa와 같은 GMO의 저가판. 갱신가 절반, TTFB는 더 느림. 취미 블로그와 빠듯한 예산용."
   },
   "pinDescription": "일본 렌탈 서버 5사 30일 실측 비교. ConoHa WING vs Xserver vs mixhost vs Sakura vs Lolipop을 TTFB·가격·적합 대상으로 순위화.",
-  "methodology": "각 호스팅의 최저 엔트리 플랜에 WordPress를 실제 설치하고 30일간 도쿄 기점에서 하루 3회 TTFB를 측정했습니다. StatusCake로 60초마다 업타임을 확인하고, 회원가입부터 첫 포스트 발행까지의 소요 시간도 측정했습니다.",
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 자료, 독립 기관의 테스트와 리뷰를 대조해 작성했습니다. 편집부가 직접 제품을 테스트하지는 않았습니다.",
   "products": [
     {
       "offerId": "conoha-wing",

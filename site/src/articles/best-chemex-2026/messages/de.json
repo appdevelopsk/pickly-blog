@@ -58,14 +58,20 @@
     "hario-v60-02": "Einzelportions-Pour-Over-Filterhalter, Spiralrippen, großes einzelnes Loch. $25-35 (Plastik). Chemex-Alternative mit dünnerem Filter -- mehr Körper, schnellerer Fluss, mehr Technikkontrolle. Erfordert separaten Server oder Becher. Am besten für erfahrene Brüher, die Extraktionskontrolle priorisieren."
   },
   "pinDescription": "Chemex vs Hario V60 2026: 6-Tassen vs 8-Tassen, Glasgriff vs Holzring, was der dicke Chemex-Filter wirklich mit der Tassenklarheit macht, und welcher Pour-Over-Brüher der richtige für Ihre Küche ist. #Chemex #Pourover #Spezialkaffe #deutsch",
-  "methodology": "Wir bewerteten jeden Brüher nach Tassenklarheit, Verarbeitungsqualität, Reinigungskomfort, Filterkompatibilität, Kapazitätsgenauigkeit und Eignung für verschiedene Röstgrade — der V60 wurde parallel als Hauptalternative zum Chemex getestet.",
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen. Wir haben die Produkte nicht selbst getestet.",
   "products": [
     {
       "offerId": "chemex-6-cup-classic",
       "badge": "Bestes Gesamtpaket",
       "review": "Das klassische Chemex-Modell mit Sanduhrglas aus Borosilikat und Holzring. Mit 850 ml ist es ideal für 1–2 Personen, und die proprietären Filter entfernen Öle und Feinstpartikel gründlich, um die Frucht- und Blumennoten von Hellröstungen herauszuarbeiten. Wer keinen Griff bevorzugt, findet es etwas unhandlich — die Tassenklarheit ist aber in dieser Kategorie unübertroffen.",
-      "pros": ["Unübertroffene Tassenklarheit", "Hitzebeständiges Borosilika-Glas-Karaffe", "850 ml ideal für 1–2 Personen"],
-      "cons": ["Holzring nicht spülmaschinengeeignet"],
+      "pros": [
+        "Unübertroffene Tassenklarheit",
+        "Hitzebeständiges Borosilika-Glas-Karaffe",
+        "850 ml ideal für 1–2 Personen"
+      ],
+      "cons": [
+        "Holzring nicht spülmaschinengeeignet"
+      ],
       "grade": "A+",
       "specs": {
         "Kapazität": "30 oz / 850 ml",
@@ -86,8 +92,14 @@
       "offerId": "chemex-8-cup-classic",
       "badge": "Bestes für Gruppen",
       "review": "Das 8-Tassen-Modell eignet sich optimal für Haushalte mit 3+ Personen oder das Heimbüro und ermöglicht mit 1,2 l bis zu 4–5 Tassen auf einmal. Die Brühqualität ist identisch mit dem 6-Tassen-Modell, nur die Kapazität unterscheidet sich. Für 1–2 Personen ist es überdimensioniert.",
-      "pros": ["Bis zu 4–5 Tassen auf einmal", "Gleiche Brühqualität wie 6-Tassen", "Ideal für Gruppen und Morgenroutinen"],
-      "cons": ["Zu groß für wenige Personen"],
+      "pros": [
+        "Bis zu 4–5 Tassen auf einmal",
+        "Gleiche Brühqualität wie 6-Tassen",
+        "Ideal für Gruppen und Morgenroutinen"
+      ],
+      "cons": [
+        "Zu groß für wenige Personen"
+      ],
       "grade": "A",
       "specs": {
         "Kapazität": "40 oz / 1,2 L",
@@ -108,8 +120,14 @@
       "offerId": "chemex-glass-handle",
       "badge": "Bestes für einfache Reinigung",
       "review": "Dieses Modell ersetzt den Holzring durch einen integrierten Glasgriff und ist dadurch vollständig spülmaschinengeeignet. Die Brühklarheit entspricht dem 6-Tassen-Klassiker — ideal für alle, die täglich mehrfach reinigen. Der Glasgriff kann bei sehr heißem Inhalt warm werden; ein Küchentuch empfiehlt sich.",
-      "pros": ["Vollständig spülmaschinengeeignet", "Gleiche Brühqualität wie 6-Tassen", "Einteiliges Glas für optimale Hygiene"],
-      "cons": ["Griff kann bei hohen Temperaturen heiß werden"],
+      "pros": [
+        "Vollständig spülmaschinengeeignet",
+        "Gleiche Brühqualität wie 6-Tassen",
+        "Einteiliges Glas für optimale Hygiene"
+      ],
+      "cons": [
+        "Griff kann bei hohen Temperaturen heiß werden"
+      ],
       "grade": "B+",
       "specs": {
         "Kapazität": "34 oz / 1 L",
@@ -130,8 +148,14 @@
       "offerId": "chemex-bonded-filters",
       "badge": "Unverzichtbares Verbrauchsmaterial",
       "review": "Die Chemex Bonded Filter im 100er-Pack sind 20–30 % dicker als Standardfilter und entfernen Öle und Feinstpartikel zuverlässig. Ohne diese proprietären Filter leidet die Tassenklarheit erheblich — sie sind kein Zubehör, sondern eine Notwendigkeit. Vorrat von 2–3 Packungen empfehlenswert.",
-      "pros": ["Optimale Tassenklarheit durch Chemex-spezifisches Design", "100er-Pack mit gutem Preis-Leistung", "Umweltzertifizierte Materialien"],
-      "cons": ["Nur mit Chemex-Brühern kompatibel"],
+      "pros": [
+        "Optimale Tassenklarheit durch Chemex-spezifisches Design",
+        "100er-Pack mit gutem Preis-Leistung",
+        "Umweltzertifizierte Materialien"
+      ],
+      "cons": [
+        "Nur mit Chemex-Brühern kompatibel"
+      ],
       "grade": "B",
       "specs": {
         "Menge": "100 Stück",
@@ -151,8 +175,14 @@
       "offerId": "hario-v60-02",
       "badge": "Bester alternativer Brüher",
       "review": "Der Hario V60 02 verwendet dünnere Filter und bietet dadurch mehr Körper, schnelleren Durchlauf und feinere Extraktionskontrolle als der Chemex. Ein separater Server ist erforderlich, aber die Spiralrippen ermöglichen freien Luftfluss für präzises Eingießen — auch für Dunkelröstungen geeignet. Für Erfahrene, die Körper über Klarheit stellen.",
-      "pros": ["Mehr Körper und Extraktionskontrolle", "Geeignet für helle bis dunkle Röstungen", "Kompakt und tragbar"],
-      "cons": ["Erfordert separaten Server oder Becher"],
+      "pros": [
+        "Mehr Körper und Extraktionskontrolle",
+        "Geeignet für helle bis dunkle Röstungen",
+        "Kompakt und tragbar"
+      ],
+      "cons": [
+        "Erfordert separaten Server oder Becher"
+      ],
       "grade": "B-",
       "specs": {
         "Material": "Kunststoff (hitzebeständig)",

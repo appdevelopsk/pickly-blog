@@ -5,9 +5,8 @@
   "methodology": "Testes em duas residências (130 m² com gás de ar forçado e 205 m² com bomba de calor) por 3 meses, janeiro–março de 2026. A economia de energia foi calculada comparando o mesmo período do ano anterior no mesmo plano tarifário. Os tempos de instalação foram registrados em configurações de 2 e 3 fios.",
   "sections": [
     {
-      "heading": "Como testamos",
+      "heading": "Como comparamos",
       "paragraphs": [
-        "Cada termostato funcionou por pelo menos 6 semanas antes de registrarmos os dados de economia — tempo suficiente para os algoritmos de aprendizado estabilizarem. Testamos em dois sistemas de HVAC: um sistema de gás de ar forçado em 130 m² e uma bomba de calor em 205 m². Ambas as residências têm configurações padrão de 2 e 3 fios, o que importa porque quatro desses cinco dispositivos precisam de um fio C para alimentação estável.",
         "O consumo de energia veio dos dados do medidor inteligente da concessionária, não do que os próprios termostatos reportam. Comparamos janeiro–março de 2026 com janeiro–março de 2025 no mesmo plano tarifário, ajustando pelos graus-dia de aquecimento. A confiabilidade do app foi rastreada registrando quedas de conexão por 30 dias no iOS 18 e Android 15.",
         "O tempo de instalação foi medido duas vezes por dispositivo: uma vez por alguém instalando pela primeira vez seguindo o manual, e uma vez por alguém com experiência prévia. A diferença entre esses dois números diz mais sobre a filosofia de design do termostato do que qualquer especificação."
       ]
