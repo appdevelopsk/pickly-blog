@@ -145,6 +145,25 @@ jobs:
           NEXT_PUBLIC_OG_BASE_URL: ${{ vars.OG_BASE_URL }}
         run: npm run build
 
+      # Cloudflare Pages は1デプロイ20,000ファイルまで。記事の解放でこれを超えて
+      # デプロイが落ちた(2026-08-03: 20,361ファイル)。Next の静的エクスポートは
+      # ページごとに index.html と index.txt(クライアント遷移用のRSCペイロード)を
+      # 出すので、noindexロケールの .txt だけ落として枠を空ける。
+      # 検索に出ないページのソフト遷移が失敗してもハードナビゲーションに
+      # フォールバックするだけで、表示は壊れない。
+      - name: Trim RSC payloads for noindex locales
+        run: |
+          before=$(find out -type f | wc -l)
+          for loc in ar hi id th tr vi; do
+            [ -d "out/$loc" ] && find "out/$loc" -name '*.txt' -delete
+          done
+          after=$(find out -type f | wc -l)
+          echo "files: $before -> $after (Pages limit 20000)"
+          if [ "$after" -ge 20000 ]; then
+            echo "::error::static export still has $after files (>=20000). Pages deploy will fail."
+            exit 1
+          fi
+
       - name: Deploy to Cloudflare Pages
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
