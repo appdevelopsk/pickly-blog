@@ -25,6 +25,10 @@
 //    「需要100以上 かつ 既にページが生成できている(=承認オファーがある)」70本を Set から外す。
 //    需要合計 55,153。needs-offer の31本(保険/クレカ/銀行など・需要32,039)は案件が無く未生成なので対象外。
 //    計測器: 00_集客統合/growth/bing-demand.mjs / snapshots/bing-demand-en.json
+//    2026-08-03 追記: en 側にも JP と同じ「承認オファーが無くページが生成されない」穴が
+//    あった(206本)。物理商品カテゴリのオファーに amazon-us の検索URL(既存の既定パターン・
+//    1,851件で使用中)を補完し25本を生成可能にした。うち需要100以上の3本を Set から外す。
+//    finance 44本(需要27,242)とソフト/SaaS 19本(需要9,143)は Amazon で扱えないので対象外。
 export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-401k-rollover-2026",
   "best-529-plan-2026",
@@ -124,7 +128,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-domain-registrar-2026",
   "best-double-stroller-2026",
   "best-drawer-organizer-2026",
-  "best-dry-shampoo-2026",
   "best-ecommerce-platform-2026",
   "best-electric-blanket-2026",
   "best-elevated-dog-bowl-2026",
@@ -218,7 +221,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-protein-pancake-mix-2026",
   "best-pull-up-bar-2026",
   "best-punching-bag-2026",
-  "best-puppy-food-2026",
   "best-rain-boots-2026",
   "best-rain-jacket-2026",
   "best-rental-server-jp-2026",
@@ -267,7 +269,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-travel-adapter-2026",
   "best-travel-binoculars-2026",
   "best-travel-blanket-2026",
-  "best-travel-camera-2026",
   "best-travel-clothesline-2026",
   "best-travel-credit-card-2026",
   "best-travel-document-organizer-2026",
