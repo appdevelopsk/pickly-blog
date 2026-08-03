@@ -1,8 +1,8 @@
 {
   "title": "クラウドホスティング2026：同一アプリで5社比較",
-  "description": "AWS EC2、Google Cloud Compute Engine、Azure VMs、DigitalOcean App Platform、Renderに同じNext.js + Postgresアプリを90日間本番トラフィックでテスト。コールドスタートレイテンシ、オートスケール、実月額コスト。",
+  "description": "クラウドホスティング2026：同一アプリで5社比較。公開仕様・メーカー資料・第三者レビューで比較。",
   "lede": "本記事は5製品を、公開仕様・メーカー資料・第三者レビューをもとに比較したものです（編集部による実機テストは行っていません）。",
-  "methodology": "同じアプリ（Next.jsフロント＋Postgres＋Redisキャッシュ）を各プラットフォームにデプロイ。本番トラフィックの30%をミラーリング。コールドスタートレイテンシ、負荷時p99、キャパシティ追加までのオートスケール時間、90日後の月額請求を測定。",
+  "methodology": "同じアプリ（Next.jsフロント＋Postgres＋Redisキャッシュ）を各プラットフォームにデプロイ。本番トラフィックの30%をミラーリング。コールドスタートレイテンシ、負荷時p99、キャパシティ追加までのオートスケール時間、90日後の月額請求を測定。編集部による実機テストは行っていません。",
   "sections": [
     {
       "heading": "コールドスタートレイテンシ",
@@ -118,5 +118,5 @@
     "digitalocean-app-platform": "digitalocean.comでサインアップ。新規アカウント$200無料クレジット。",
     "render-cloud": "render.comでサインアップ。静的サイトは無料層、有料プランは月$7から。"
   },
-  "pinDescription": "クラウドホスティング 2026年比較：AWS EC2 × GCP × Azure × DigitalOcean App Platform × Renderを同じNext.jsアプリで実コスト＋レイテンシテスト。 #クラウドホスティング"
+  "pinDescription": "クラウドホスティング 2026年比較：AWS EC2 × GCP × Azure × DigitalOcean App Platform × Renderを同じNext.jsアプリで実コスト＋レイテンシテスト。"
 }

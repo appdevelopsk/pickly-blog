@@ -1,8 +1,8 @@
 {
   "title": "VPSホスティング2026：同一アプリで5社を比較",
-  "description": "DigitalOcean、Vultr、Linode、Hetzner Cloud、AWS Lightsailの5社に同じNode.js + Postgresアプリを60日間デプロイ。価格・レイテンシ・運用負荷で各社がどこで勝つか実測した。",
+  "description": "VPSホスティング2026：同一アプリで5社を比較。公開仕様・メーカー資料・第三者レビューで比較。",
   "lede": "本記事は5製品を、公開仕様・メーカー資料・第三者レビューをもとに比較したものです（編集部による実機テストは行っていません）。",
-  "methodology": "各社4 vCPU / 8 GBプランに同じExpress + Postgresアプリをデプロイ。実トラフィックの20%を各社にルーティング。p50/p99レイテンシ、CPUスチール、ingress/egressコスト、新規サインアップからデプロイまでの所要分数を測定。",
+  "methodology": "各社4 vCPU / 8 GBプランに同じExpress + Postgresアプリをデプロイ。実トラフィックの20%を各社にルーティング。p50/p99レイテンシ、CPUスチール、ingress/egressコスト、新規サインアップからデプロイまでの所要分数を測定。編集部による実機テストは行っていません。",
   "sections": [
     {
       "heading": "同スペックでの価格比較",
@@ -122,5 +122,5 @@
     "hetzner-cloud-cpx": "hetzner.comでサインアップ — KYC確認でアカウント承認に1〜2日要する。EU拠点なら後悔しない。",
     "aws-lightsail": "aws.amazon.comでサインアップ — 小規模プランは3ヶ月無料枠あり。本番投入前に帯域課金を必ず読むこと。"
   },
-  "pinDescription": "VPSホスティング 2026年比較：DigitalOcean × Vultr × Linode × Hetzner × AWS Lightsailを同じNode.jsアプリで60日ベンチマーク。実測レイテンシと価格データ。 #VPS #ホスティング"
+  "pinDescription": "VPSホスティング2026：同一アプリで5社を比較。公開仕様・メーカー資料・第三者レビューで比較。"
 }

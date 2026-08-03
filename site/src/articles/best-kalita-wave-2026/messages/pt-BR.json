@@ -57,15 +57,21 @@
     "kalita-wave-filters-185": "Filtros de papel ondulados em formato de onda para Wave 185. ~$10-15 por 100 unidades. Obrigatório — não intercambiável com outros drippers. Compre em quantidade. Cria espaço de ar entre o filtro e as paredes do dripper, permitindo extração uniforme.",
     "fellow-stagg-ekg-kettle": "Bico de pescoço de ganso, temperatura variável 57-100°C, função de manutenção, 0,9 L. $150-170. A melhor chaleira para pour-over — controle preciso de fluxo, configuração de temperatura exata, manutenção de 60 min. A combinação certa para Kalita Wave, V60 e Chemex."
   },
-  "pinDescription": "Kalita Wave pour-over 2026: 185 vs 155, inox vs cerâmica vs vidro, como o design de fundo plano torna o pour-over mais indulgente do que a V60, e com qual chaleira de bico longo combinar. #KalitaWave #CafePourOver #português",
-  "methodology": "Cada dripper foi avaliado na consistência de extração com diferentes técnicas de derramamento, impacto do material na retenção de calor, durabilidade, facilidade de limpeza e adequação tanto para baristas iniciantes quanto experientes.",
+  "pinDescription": "Kalita Wave pour-over 2026: 185 vs 155, inox vs cerâmica vs vidro, como o design de fundo plano torna o pour-over mais indulgente do que a V60, e com qual chaleira de bico longo combinar.",
+  "methodology": "Cada dripper foi avaliado na consistência de extração com diferentes técnicas de derramamento, impacto do material na retenção de calor, durabilidade, facilidade de limpeza e adequação tanto para baristas iniciantes quanto experientes. Não testamos estes produtos pessoalmente.",
   "products": [
     {
       "offerId": "kalita-wave-185-stainless",
       "badge": "Melhor no geral",
       "review": "O Wave 185 de inox é a versão mais robusta do dripper: indestrutível, compatível com lava-louças e com melhor retenção de calor do que o vidro. O único inconveniente real é um leve gosto metálico em unidades novas que desaparece após os primeiros 5 a 10 usos.",
-      "pros": ["Indestrutível e compatível com lava-louças", "Melhor retenção de calor do que o vidro", "Dura anos com uso diário intenso"],
-      "cons": ["Leve gosto metálico em unidades novas até os primeiros usos"],
+      "pros": [
+        "Indestrutível e compatível com lava-louças",
+        "Melhor retenção de calor do que o vidro",
+        "Dura anos com uso diário intenso"
+      ],
+      "cons": [
+        "Leve gosto metálico em unidades novas até os primeiros usos"
+      ],
       "grade": "A+",
       "specs": {
         "Material": "Aço inox",
@@ -87,8 +93,14 @@
       "offerId": "kalita-wave-155-ceramic",
       "badge": "Melhor para porção individual",
       "review": "O Wave 155 de cerâmica é otimizado para a profundidade do leito de uma única xícara: o diâmetro menor concentra o café moído de forma que a saturação seja mais uniforme do que um 185 com a mesma dose. A cerâmica adiciona um sabor limpo sem rastro metálico, embora seja necessário cuidado com impactos.",
-      "pros": ["Profundidade de leito otimizada para 1 xícara", "A cerâmica não transmite sabores", "Toque e peso premium"],
-      "cons": ["Frágil — um impacto forte pode quebrá-lo"],
+      "pros": [
+        "Profundidade de leito otimizada para 1 xícara",
+        "A cerâmica não transmite sabores",
+        "Toque e peso premium"
+      ],
+      "cons": [
+        "Frágil — um impacto forte pode quebrá-lo"
+      ],
       "grade": "A",
       "specs": {
         "Material": "Cerâmica",
@@ -110,8 +122,14 @@
       "offerId": "kalita-wave-185-glass",
       "badge": "Melhor para aprender técnica",
       "review": "O Wave 185 de vidro é o melhor professor: ver o bloom se expandir, observar a taxa de drenagem e detectar o channeling visualmente acelera o aprendizado mais do que qualquer guia. A menor retenção de calor em comparação à cerâmica ou ao inox é real — pré-aqueça o dripper.",
-      "pros": ["Corpo transparente para feedback visual completo", "Vidro resistente ao calor", "A experiência visual melhora a técnica"],
-      "cons": ["Menor retenção de calor e é a opção mais frágil"],
+      "pros": [
+        "Corpo transparente para feedback visual completo",
+        "Vidro resistente ao calor",
+        "A experiência visual melhora a técnica"
+      ],
+      "cons": [
+        "Menor retenção de calor e é a opção mais frágil"
+      ],
       "grade": "B+",
       "specs": {
         "Material": "Vidro borossilicato",
@@ -133,8 +151,14 @@
       "offerId": "kalita-wave-filters-185",
       "badge": "Consumível essencial",
       "review": "Os filtros Wave são o componente que faz o sistema funcionar: as dobras em forma de onda criam um espaço de ar entre o papel e as paredes do dripper, eliminando o contato direto e permitindo um fluxo uniforme. Não são intercambiáveis com V60, Chemex ou qualquer outro filtro.",
-      "pros": ["O espaço de ar garante extração uniforme", "100 unidades por ~$10-15 (baixo custo por xícara)", "Disponíveis na Amazon com entrega rápida"],
-      "cons": ["Funcionam apenas com drippers Kalita Wave — não intercambiáveis"],
+      "pros": [
+        "O espaço de ar garante extração uniforme",
+        "100 unidades por ~$10-15 (baixo custo por xícara)",
+        "Disponíveis na Amazon com entrega rápida"
+      ],
+      "cons": [
+        "Funcionam apenas com drippers Kalita Wave — não intercambiáveis"
+      ],
       "grade": "B",
       "specs": {
         "Compatibilidade": "Kalita Wave 185",
@@ -155,8 +179,14 @@
       "offerId": "fellow-stagg-ekg-kettle",
       "badge": "Melhor chaleira complementar",
       "review": "O Stagg EKG tem o bico pescoço de ganso mais controlável do mercado pour-over: a vazão é previsível, a temperatura variável vai de 57 a 100°C com precisão de um grau, e a função de manutenção de 60 minutos evita que a água esfrie entre os derramamentos. O preço de $150-170 é a única objeção real.",
-      "pros": ["Controle da vazão de derramamento com máxima precisão", "Função de manutenção de temperatura por 60 minutos", "Projetado especificamente para pour-over"],
-      "cons": ["Preço premium de $150-170 difícil de justificar se já tiver uma boa chaleira"],
+      "pros": [
+        "Controle da vazão de derramamento com máxima precisão",
+        "Função de manutenção de temperatura por 60 minutos",
+        "Projetado especificamente para pour-over"
+      ],
+      "cons": [
+        "Preço premium de $150-170 difícil de justificar se já tiver uma boa chaleira"
+      ],
       "grade": "B-",
       "specs": {
         "Tipo de bico": "Pescoço de ganso",

@@ -61,64 +61,174 @@
     "bare-bones-broth": "4 içerikli temiz formül, otla beslenen dana, kadın markalı"
   },
   "pinDescription": "Protein, kolajen ve kaynaklarına göre sıralanan en iyi 5 kemik suyu — günlük raf stabilitesinden premium cam şişeye. Bağırsak sağlığı, eklemler veya pişirme için doğru seçimi bulun.",
-  "methodology": "Her ürünü tat profili, kaynak şeffaflığı, porsiyon başına değer, ambalaj bütünlüğü ve yaygın kullanım durumlarındaki performans açısından değerlendirdik. Belgelenmiş sertifikalar ve doğrulanmış kullanıcı incelemeleri pazarlama iddiaları ile çapraz kontrolden geçirildi.",
+  "methodology": "Her ürünü tat profili, kaynak şeffaflığı, porsiyon başına değer, ambalaj bütünlüğü ve yaygın kullanım durumlarındaki performans açısından değerlendirdik. Belgelenmiş sertifikalar ve doğrulanmış kullanıcı incelemeleri pazarlama iddiaları ile çapraz kontrolden geçirildi. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "kettle-fire-beef-broth",
       "badge": "Genel En İyi",
       "review": "Kettle & Fire günlük kullanım için en iyi raf stabil kemik suyudur: otla beslenen dana kemiği, porsiyon başına 10g protein, kısa içerik listesi ve mutfak dolabınızda yaşayan Tetra Pak karton. Tadı lezzetli ve temiz — içmek için yeterince hafif, haşlama tabanı olarak yeterince ağır. UHT işlemi taze seçeneklere kıyasla bazı amino asitleri hafifçe azaltabilir, ancak kolaylık değiş tokuşu gerçek ve anlamlıdır.",
-      "pros": ["Raf stabil — buzdolabı alanı gerekmiyor", "Otla beslenen kemiklerden porsiyon başına 10g protein", "Organik sebzelerle kısa, tanıdık içerik listesi"],
-      "cons": ["UHT işlemi soğutulmuş seçeneklere kıyasla bazı amino asit konsantrasyonlarını azaltabilir"],
+      "pros": [
+        "Raf stabil — buzdolabı alanı gerekmiyor",
+        "Otla beslenen kemiklerden porsiyon başına 10g protein",
+        "Organik sebzelerle kısa, tanıdık içerik listesi"
+      ],
+      "cons": [
+        "UHT işlemi soğutulmuş seçeneklere kıyasla bazı amino asit konsantrasyonlarını azaltabilir"
+      ],
       "grade": "A+",
-      "specs": {"Protein": "Porsiyon başına 10g", "Format": "Tetra Pak (raf stabil)", "Kemik": "Otla beslenen dana", "Porsiyon büyüklüğü": "1 su bardağı (240 ml)", "Organik sebze": "Evet"},
-      "scores": {"Kalite": 4.5, "Tat": 4.3, "Değer": 4.4, "Beslenme": 4.4, "Kolaylık": 4.9}
+      "specs": {
+        "Protein": "Porsiyon başına 10g",
+        "Format": "Tetra Pak (raf stabil)",
+        "Kemik": "Otla beslenen dana",
+        "Porsiyon büyüklüğü": "1 su bardağı (240 ml)",
+        "Organik sebze": "Evet"
+      },
+      "scores": {
+        "Kalite": 4.5,
+        "Tat": 4.3,
+        "Değer": 4.4,
+        "Beslenme": 4.4,
+        "Kolaylık": 4.9
+      }
     },
     {
       "offerId": "fond-bone-broth",
       "badge": "En İyi Premium",
       "review": "FOND, her etiketi okuyanlar için kemik suyudur: mer'a hayvanları, organik sertifikalı, cam şişeler, soğutulmuş sevkiyat. Soğutulduğunda sert jöleye dönüşüyor — gerçekten yüksek jelatin içeriğinin güvenilir göstergesi. Yavaş pişirilmiş kekik, biberiye ve defneden gelen ot ağırlıklı tat, tamamlanmış konsomé olarak kullanmaya yetecek kadar zengin, bu da nötr pişirme uygulamalarını bastırabilir. Kolajen içeriği önemliyse premium değer.",
-      "pros": ["Soğutulduğunda sert pıhtılaşma — yüksek jelatin ve kolajen içeriğini doğrulur", "Cam şişeler — ısıtıldığında plastik sızıntısı yok", "Mer'a hayvanları, organik sertifikalı kaynak"],
-      "cons": ["Kettle & Fire'ın yaklaşık iki katı fiyat — sadece soğutulmuş sevkiyat"],
+      "pros": [
+        "Soğutulduğunda sert pıhtılaşma — yüksek jelatin ve kolajen içeriğini doğrulur",
+        "Cam şişeler — ısıtıldığında plastik sızıntısı yok",
+        "Mer'a hayvanları, organik sertifikalı kaynak"
+      ],
+      "cons": [
+        "Kettle & Fire'ın yaklaşık iki katı fiyat — sadece soğutulmuş sevkiyat"
+      ],
       "grade": "A",
-      "specs": {"Protein": "~9–10g porsiyon başına", "Format": "Cam şişe (soğutulmuş)", "Kemik": "Mer'a hayvanları, organik sertifikalı", "Jelatin": "Soğutulduğunda sert pıhtılaşma", "Pişirme": "Otlarla yavaş pişirme"},
-      "scores": {"Kalite": 4.9, "Tat": 4.7, "Değer": 3.2, "Beslenme": 4.8, "Kolaylık": 3.5}
+      "specs": {
+        "Protein": "~9–10g porsiyon başına",
+        "Format": "Cam şişe (soğutulmuş)",
+        "Kemik": "Mer'a hayvanları, organik sertifikalı",
+        "Jelatin": "Soğutulduğunda sert pıhtılaşma",
+        "Pişirme": "Otlarla yavaş pişirme"
+      },
+      "scores": {
+        "Kalite": 4.9,
+        "Tat": 4.7,
+        "Değer": 3.2,
+        "Beslenme": 4.8,
+        "Kolaylık": 3.5
+      }
     },
     {
       "offerId": "pacific-foods-bone-broth",
       "badge": "En İyi Günlük Değer",
       "review": "Pacific Foods, Costco veya Target'tan planlama yapmadan alabileceğiniz kemik suyudur — USDA Organik sertifikalı, 32 oz karton başına yaklaşık $5–7. Porsiyon başına protein 9–10g ve tadı temiz ve nötr, bu da onu FOND'dan daha iyi yapıyor ot karmaşıklığının rekabet edeceği pişirme uygulamaları için. Jelatin içeriği daha düşük (soğutulduğunda sertleşmiyor), bu yüzden özel bağırsak iyileştirme protokolleri için daha az uygun.",
-      "pros": ["Ana perakende fiyatlarında USDA Organik", "Costco, Target ve çoğu market zincirinde geniş erişim", "Pişirme uygulamaları için ideal nötr tat"],
-      "cons": ["Soğutulduğunda pıhtılaşmaz — premium alternatiflere kıyasla daha düşük jelatin konsantrasyonu"],
+      "pros": [
+        "Ana perakende fiyatlarında USDA Organik",
+        "Costco, Target ve çoğu market zincirinde geniş erişim",
+        "Pişirme uygulamaları için ideal nötr tat"
+      ],
+      "cons": [
+        "Soğutulduğunda pıhtılaşmaz — premium alternatiflere kıyasla daha düşük jelatin konsantrasyonu"
+      ],
       "grade": "B+",
-      "specs": {"Protein": "9–10g porsiyon başına", "Format": "Tetra Pak (raf stabil)", "Sertifikasyon": "USDA Organik", "Perakende": "Geniş erişim", "Düşük sodyum": "Seçenek mevcut"},
-      "scores": {"Kalite": 3.9, "Tat": 3.8, "Değer": 4.7, "Beslenme": 3.9, "Kolaylık": 4.8}
+      "specs": {
+        "Protein": "9–10g porsiyon başına",
+        "Format": "Tetra Pak (raf stabil)",
+        "Sertifikasyon": "USDA Organik",
+        "Perakende": "Geniş erişim",
+        "Düşük sodyum": "Seçenek mevcut"
+      },
+      "scores": {
+        "Kalite": 3.9,
+        "Tat": 3.8,
+        "Değer": 4.7,
+        "Beslenme": 3.9,
+        "Kolaylık": 4.8
+      }
     },
     {
       "offerId": "ancient-nutrition-bone-broth",
       "badge": "Kolajen Dozu için En İyi",
       "review": "Ancient Nutrition farklı bir yaklaşım benimsiyor — toz format, sığır, tavuk, balık ve yumurta akı kaynaklarından porsiyon başına 20g kolajen proteini sunuyor; çoğu sıvı kemik suyunun 7–12g'ına karşı. Sıcak veya soğuk sıvılarda temizce çözülüyor. Dürüst sınırlama: bu kemik suyu marka çatısı altında paketlenmiş bir kolajen takviyesidir, tat derinliği veya aromatiklerle birlikte bir kemik suyu değil.",
-      "pros": ["Porsiyon başına 20g kolajen proteini — buradaki herhangi bir seçeneğin en yükseği", "Çok kaynaklı kolajen (sığır, tavuk, balık, yumurta akı)", "Sıcak veya soğuk sıvılarda topak oluşturmadan çözülüyor"],
-      "cons": ["Kemik suyu tadı, aromatik veya pişirme kullanımı yok — bu bir takviyedir, kemik suyu değil"],
+      "pros": [
+        "Porsiyon başına 20g kolajen proteini — buradaki herhangi bir seçeneğin en yükseği",
+        "Çok kaynaklı kolajen (sığır, tavuk, balık, yumurta akı)",
+        "Sıcak veya soğuk sıvılarda topak oluşturmadan çözülüyor"
+      ],
+      "cons": [
+        "Kemik suyu tadı, aromatik veya pişirme kullanımı yok — bu bir takviyedir, kemik suyu değil"
+      ],
       "grade": "B",
-      "specs": {"Protein": "Porsiyon başına 20g kolajen", "Format": "Toz", "Kolajen kaynakları": "Sığır, tavuk, balık, yumurta akı", "Tat seçenekleri": "Tatsız, çikolata, vanilya", "Erişilebilirlik": "Costco, Walmart, takviye perakendecileri"},
-      "scores": {"Kalite": 4.2, "Tat": 3.5, "Değer": 4.0, "Beslenme": 4.9, "Kolaylık": 4.5}
+      "specs": {
+        "Protein": "Porsiyon başına 20g kolajen",
+        "Format": "Toz",
+        "Kolajen kaynakları": "Sığır, tavuk, balık, yumurta akı",
+        "Tat seçenekleri": "Tatsız, çikolata, vanilya",
+        "Erişilebilirlik": "Costco, Walmart, takviye perakendecileri"
+      },
+      "scores": {
+        "Kalite": 4.2,
+        "Tat": 3.5,
+        "Değer": 4.0,
+        "Beslenme": 4.9,
+        "Kolaylık": 4.5
+      }
     },
     {
       "offerId": "bare-bones-broth",
       "badge": "En İyi Temiz Etiket",
       "review": "Bare Bones dört içerikli bir formül kullanıyor — kemikler, su, elma sirkesi, deniz tuzu — doğal aromalar, maya özü veya stabilizörler yok. %100 otla beslenen dana, soğutulduğunda yumuşak jöle (gerçek jelatin içeriğini doğrular), porsiyon başına 10g protein. Kemik suyu ağır olmadan doğrudan ve dana ağırlıklı, içmek ve pişirmeye eşit derecede uygun. Fiyat kitlesel pazar seçenekleri ile FOND arasında.",
-      "pros": ["4 içerikli formül — doğal aromalar veya stabilizörler yok", "Soğutulduğunda yumuşak jöle — anlamlı jelatin içeriği", "Kadın sahipli, misyon odaklı takip edilebilir kaynakla marka"],
-      "cons": ["Pacific Foods veya Kettle & Fire'dan daha az geniş dağıtım"],
+      "pros": [
+        "4 içerikli formül — doğal aromalar veya stabilizörler yok",
+        "Soğutulduğunda yumuşak jöle — anlamlı jelatin içeriği",
+        "Kadın sahipli, misyon odaklı takip edilebilir kaynakla marka"
+      ],
+      "cons": [
+        "Pacific Foods veya Kettle & Fire'dan daha az geniş dağıtım"
+      ],
       "grade": "B-",
-      "specs": {"Protein": "Porsiyon başına 10g", "Format": "Tetra Pak (raf stabil) + dondurulmuş kese", "Kemik": "%100 otla beslenen dana", "İçerikler": "4 (kemikler, su, ACV, deniz tuzu)", "Jelatin": "Soğutulduğunda yumuşak jöleye dönüşüyor"},
-      "scores": {"Kalite": 4.6, "Tat": 4.4, "Değer": 3.8, "Beslenme": 4.6, "Kolaylık": 4.2}
+      "specs": {
+        "Protein": "Porsiyon başına 10g",
+        "Format": "Tetra Pak (raf stabil) + dondurulmuş kese",
+        "Kemik": "%100 otla beslenen dana",
+        "İçerikler": "4 (kemikler, su, ACV, deniz tuzu)",
+        "Jelatin": "Soğutulduğunda yumuşak jöleye dönüşüyor"
+      },
+      "scores": {
+        "Kalite": 4.6,
+        "Tat": 4.4,
+        "Değer": 3.8,
+        "Beslenme": 4.6,
+        "Kolaylık": 4.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Mutfak rafı kolaylığı için", "offerId": "kettle-fire-beef-broth", "reason": "Raf stabil, tutarlı ve online koli ile sipariş edilebilir — günlük içme veya hafta içi pişirme için pratik varsayılan."},
-    {"label": "Bağırsak iyileştirme protokolleri için", "offerId": "fond-bone-broth", "reason": "Soğutulduğunda sert pıhtılaşma, soğutulmuş sevkiyat, en yüksek jelatin içeriği — kolajen ve glisin içeriği gerçekten önemliyse, bu premium değer."},
-    {"label": "Toplu pişirme için", "offerId": "pacific-foods-bone-broth", "reason": "Costco fiyatlarında USDA Organik — kemik suyu bir pişirme malzemesi olduğunda, ana etkinlik olmadığında doğru seçim."},
-    {"label": "Maksimum kolajen alımı için", "offerId": "ancient-nutrition-bone-broth", "reason": "Ölçek başına 20g çok kaynaklı kolajen — sabah smoothiesi veya kahvesine kolajen eklemek için en verimli yol."},
-    {"label": "Etiket okuyanlar ve temiz içerik arayanlar için", "offerId": "bare-bones-broth", "reason": "Dört içerik, katkı maddesi yok, otla beslenen — kategorideki en temiz standart formatlı kemik suyu."}
+    {
+      "label": "Mutfak rafı kolaylığı için",
+      "offerId": "kettle-fire-beef-broth",
+      "reason": "Raf stabil, tutarlı ve online koli ile sipariş edilebilir — günlük içme veya hafta içi pişirme için pratik varsayılan."
+    },
+    {
+      "label": "Bağırsak iyileştirme protokolleri için",
+      "offerId": "fond-bone-broth",
+      "reason": "Soğutulduğunda sert pıhtılaşma, soğutulmuş sevkiyat, en yüksek jelatin içeriği — kolajen ve glisin içeriği gerçekten önemliyse, bu premium değer."
+    },
+    {
+      "label": "Toplu pişirme için",
+      "offerId": "pacific-foods-bone-broth",
+      "reason": "Costco fiyatlarında USDA Organik — kemik suyu bir pişirme malzemesi olduğunda, ana etkinlik olmadığında doğru seçim."
+    },
+    {
+      "label": "Maksimum kolajen alımı için",
+      "offerId": "ancient-nutrition-bone-broth",
+      "reason": "Ölçek başına 20g çok kaynaklı kolajen — sabah smoothiesi veya kahvesine kolajen eklemek için en verimli yol."
+    },
+    {
+      "label": "Etiket okuyanlar ve temiz içerik arayanlar için",
+      "offerId": "bare-bones-broth",
+      "reason": "Dört içerik, katkı maddesi yok, otla beslenen — kategorideki en temiz standart formatlı kemik suyu."
+    }
   ]
 }

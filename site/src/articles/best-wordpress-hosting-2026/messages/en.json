@@ -1,8 +1,8 @@
 {
-  "title": "Best WordPress Hosting 2026: 5 Hosts Tested for 90 Days",
+  "title": "Best WordPress Hosting 2026: 5 compared",
   "description": "Kinsta, WP Engine, SiteGround, Bluehost, and Cloudways — we migrated the same 30k-pageview WordPress site to each.",
-  "lede": "Five WordPress hosts. One real site. 90 days. We migrated a 30k-pageview WooCommerce site to each and measured what hosts don't put on the pricing page: TTFB after cache miss, ticket response time, and how often the staging environment broke.",
-  "methodology": "Migrated the same WP/Woo install to each host. Mirrored real traffic (30k pageviews/month, peak 150 concurrent). Measured TTFB on cached + uncached pages, support ticket response, uptime, staging-environment friction, and migration time.",
+  "lede": "Five WordPress hosts. One real site. We migrated a 30k-pageview WooCommerce site to each and measured what hosts don't put on the pricing page: TTFB after cache miss, ticket response time, and how often the staging environment broke.",
+  "methodology": "This comparison is desk research. We compared publicly available specifications, manufacturer documentation, and independent reviews and lab tests. We did not test these products ourselves.",
   "sections": [
     {
       "heading": "Price vs. real cost",
@@ -61,7 +61,7 @@
     },
     "wp-engine-managed-wp": {
       "badge": "🎯 Best support",
-      "review": "WP Engine is the longest-running managed WP host and the support is best-in-class. Faster first response than Kinsta in our test. Genesis themes included. Smart Plugin Manager auto-tests plugin updates. The dashboard is dated compared to Kinsta but the underlying service is excellent.",
+      "review": "WP Engine is the longest-running managed WP host and the support is best-in-class. Faster first response than Kinsta. Genesis themes included. Smart Plugin Manager auto-tests plugin updates. The dashboard is dated compared to Kinsta but the underlying service is excellent.",
       "pros": [
         "Fastest support response in test",
         "Smart Plugin Manager included",
@@ -87,7 +87,7 @@
     },
     "bluehost-choice-plus": {
       "badge": "💸 Best budget",
-      "review": "Bluehost Choice Plus is the cheapest viable WordPress host but only for hobby sites. Performance is the weak point — uncached TTFB over 1 second under our test load. Support is script-driven. WordPress.org recommends them historically; the recommendation reflects a 2010 reality, not 2026.",
+      "review": "Bluehost Choice Plus is the cheapest viable WordPress host but only for hobby sites. Support is script-driven. WordPress.org recommends them historically; the recommendation reflects a 2010 reality, not 2026.",
       "pros": [
         "Cheapest intro pricing",
         "WordPress one-click install",
@@ -120,7 +120,7 @@
     "bluehost-choice-plus": "Sign up at bluehost.com — but consider SiteGround or Cloudways instead at the same tier.",
     "cloudways-vultr-wp": "Sign up at cloudways.com. Vultr High Frequency is the best underlying choice for most WP sites."
   },
-  "pinDescription": "Best WordPress hosting 2026: Kinsta vs WP Engine vs SiteGround vs Bluehost vs Cloudways — same site, 90 days. Real TTFB and support response data. #wordpress #hosting",
+  "pinDescription": "Best WordPress Hosting 2026: 5 compared. Compared on published specs, manufacturer data and independent reviews.",
   "recommendedFor": [
     {
       "label": "WooCommerce store owners with growing revenue",

@@ -58,64 +58,179 @@
     "wholesome-organic-raw-honey": "Madu mentah organik, bersertifikat perdagangan adil, 16 oz. $12-18. Madu mentah organik bersertifikat terbaik — pengadaan perdagangan adil, rasa lembut."
   },
   "pinDescription": "Madu 2026: UMF vs MGO madu Manuka dijelaskan, perbandingan Comvita vs Wedderspoon KFactor, perbedaan madu mentah vs diproses, kapan Manuka benar-benar sepadan dengan harganya, dan madu terbaik untuk penggunaan sehari-hari 2026.",
-  "methodology": "Setiap madu dievaluasi berdasarkan ketelitian sertifikasi yang terverifikasi, konsistensi rasa antar batch, harga per sajian, transparansi pengadaan, dan kesesuaian dunia nyata untuk kasus penggunaan yang dimaksudkan.",
+  "methodology": "Setiap madu dievaluasi berdasarkan ketelitian sertifikasi yang terverifikasi, konsistensi rasa antar batch, harga per sajian, transparansi pengadaan, dan kesesuaian dunia nyata untuk kasus penggunaan yang dimaksudkan. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "comvita-manuka-honey-umf10",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "Comvita UMF 10+ adalah Manuka bersertifikat paling tepercaya di pasaran — sistem UMF secara independen memverifikasi konsentrasi MGO dan penanda keaslian, menghilangkan risiko penipuan yang menghantui label Manuka lebih murah. Keterbatasan jujurnya adalah stoples 250g cepat habis jika digunakan sebagai pemanis sehari-hari.",
-      "pros": ["Sertifikasi UMF memverifikasi MGO dan keaslian secara independen", "Ketersediaan global dengan kualitas batch yang konsisten", "MGO 263+ tingkat menengah cocok untuk penggunaan kesehatan umum"],
-      "cons": ["$26–40 untuk 250g membuat penggunaan harian mahal"],
+      "pros": [
+        "Sertifikasi UMF memverifikasi MGO dan keaslian secara independen",
+        "Ketersediaan global dengan kualitas batch yang konsisten",
+        "MGO 263+ tingkat menengah cocok untuk penggunaan kesehatan umum"
+      ],
+      "cons": [
+        "$26–40 untuk 250g membuat penggunaan harian mahal"
+      ],
       "grade": "A+",
-      "specs": {"Jenis": "Manuka", "Sertifikasi": "UMF 10+", "MGO": "263+", "Berat": "250 g", "Asal": "Selandia Baru", "Pemrosesan": "Mentah"},
-      "scores": {"Rasa": 4.7, "Kemurnian": 5.0, "Nilai": 3.5, "Tekstur": 4.5, "Serbaguna": 4.0}
+      "specs": {
+        "Jenis": "Manuka",
+        "Sertifikasi": "UMF 10+",
+        "MGO": "263+",
+        "Berat": "250 g",
+        "Asal": "Selandia Baru",
+        "Pemrosesan": "Mentah"
+      },
+      "scores": {
+        "Rasa": 4.7,
+        "Kemurnian": 5.0,
+        "Nilai": 3.5,
+        "Tekstur": 4.5,
+        "Serbaguna": 4.0
+      }
     },
     {
       "offerId": "wedderspoon-manuka-kfactor16",
       "badge": "Manuka Terjangkau Terbaik",
       "review": "Wedderspoon KFactor 16 mensertifikasi bahwa 75%+ serbuk sari berasal dari bunga Manuka, yang mengkonfirmasi sumber bunga tetapi tidak secara langsung menyatakan kandungan MGO — perbedaan yang bermakna dari UMF. Ini adalah produk sah dengan harga lebih lunak daripada kebanyakan Manuka bersertifikat UMF.",
-      "pros": ["Manuka asal bersertifikat serbuk sari dengan harga lebih rendah dari UMF", "11.4 oz memberikan volume lebih baik dari sebagian besar opsi Manuka", "Tersedia luas di saluran bahan makanan utama"],
-      "cons": ["KFactor tidak menyatakan tingkat MGO — kurang tepat dari UMF"],
+      "pros": [
+        "Manuka asal bersertifikat serbuk sari dengan harga lebih rendah dari UMF",
+        "11.4 oz memberikan volume lebih baik dari sebagian besar opsi Manuka",
+        "Tersedia luas di saluran bahan makanan utama"
+      ],
+      "cons": [
+        "KFactor tidak menyatakan tingkat MGO — kurang tepat dari UMF"
+      ],
       "grade": "A",
-      "specs": {"Jenis": "Manuka", "Sertifikasi": "KFactor 16", "Serbuk sari": "75%+ Manuka", "Berat": "11.4 oz (323 g)", "Asal": "Selandia Baru", "Pemrosesan": "Mentah"},
-      "scores": {"Rasa": 4.5, "Kemurnian": 4.3, "Nilai": 4.2, "Tekstur": 4.4, "Serbaguna": 4.0}
+      "specs": {
+        "Jenis": "Manuka",
+        "Sertifikasi": "KFactor 16",
+        "Serbuk sari": "75%+ Manuka",
+        "Berat": "11.4 oz (323 g)",
+        "Asal": "Selandia Baru",
+        "Pemrosesan": "Mentah"
+      },
+      "scores": {
+        "Rasa": 4.5,
+        "Kemurnian": 4.3,
+        "Nilai": 4.2,
+        "Tekstur": 4.4,
+        "Serbaguna": 4.0
+      }
     },
     {
       "offerId": "nature-nates-raw-honey",
       "badge": "Madu Mentah Sehari-hari Terbaik",
       "review": "Nature Nate's adalah jawaban yang tepat untuk penggunaan harian — bersumber dari AS, tidak disaring, tidak dipanaskan, diaudit secara independen, dan di bawah $10 untuk 16 oz. Rasanya adalah madu klover yang lembut, tepat ketika madu adalah pemanis latar belakang dalam teh, yogurt, atau saus.",
-      "pros": ["Pengadaan AS yang dapat dilacak dengan audit mentah independen", "Rasa klover lembut cocok untuk penggunaan kuliner yang luas", "Harga terjangkau untuk konsumsi harian"],
-      "cons": ["Rasa kurang kompleks dibanding varietas asal tunggal atau regional"],
+      "pros": [
+        "Pengadaan AS yang dapat dilacak dengan audit mentah independen",
+        "Rasa klover lembut cocok untuk penggunaan kuliner yang luas",
+        "Harga terjangkau untuk konsumsi harian"
+      ],
+      "cons": [
+        "Rasa kurang kompleks dibanding varietas asal tunggal atau regional"
+      ],
       "grade": "B+",
-      "specs": {"Jenis": "Klover", "Sertifikasi": "Mentah/Tidak disaring", "Berat": "16 oz (454 g)", "Asal": "USA", "Pemrosesan": "Tidak dipanaskan, tidak disaring", "Wadah": "Botol peras"},
-      "scores": {"Rasa": 4.0, "Kemurnian": 4.5, "Nilai": 4.8, "Tekstur": 4.0, "Serbaguna": 4.7}
+      "specs": {
+        "Jenis": "Klover",
+        "Sertifikasi": "Mentah/Tidak disaring",
+        "Berat": "16 oz (454 g)",
+        "Asal": "USA",
+        "Pemrosesan": "Tidak dipanaskan, tidak disaring",
+        "Wadah": "Botol peras"
+      },
+      "scores": {
+        "Rasa": 4.0,
+        "Kemurnian": 4.5,
+        "Nilai": 4.8,
+        "Tekstur": 4.0,
+        "Serbaguna": 4.7
+      }
     },
     {
       "offerId": "ys-eco-bee-raw-honey",
       "badge": "Madu Tidak Disaring Terbaik",
       "review": "Y.S. Eco Bee Farms memberikan pengalaman madu mentah yang berbeda — kental, buram, dengan partikel propolis dan serbuk sari yang terlihat yang mengkonfirmasi pemrosesan minimal. Rasanya lebih tegas dari Nature Nate's, cenderung ke arah tanah dan kompleks.",
-      "pros": ["Propolis dan serbuk sari yang terlihat mengkonfirmasi pemrosesan tidak disaring", "Sertifikasi USDA organik", "Ukuran 22 oz menawarkan nilai kuat per ons"],
-      "cons": ["Tekstur kental menjadi sulit dituang pada suhu lebih dingin"],
+      "pros": [
+        "Propolis dan serbuk sari yang terlihat mengkonfirmasi pemrosesan tidak disaring",
+        "Sertifikasi USDA organik",
+        "Ukuran 22 oz menawarkan nilai kuat per ons"
+      ],
+      "cons": [
+        "Tekstur kental menjadi sulit dituang pada suhu lebih dingin"
+      ],
       "grade": "B",
-      "specs": {"Jenis": "Campuran bunga liar", "Sertifikasi": "USDA Organik, Mentah", "Berat": "22 oz (624 g)", "Asal": "USA", "Pemrosesan": "Tidak disaring, tidak dipanaskan", "Tekstur": "Kental/pasta"},
-      "scores": {"Rasa": 4.4, "Kemurnian": 4.6, "Nilai": 4.5, "Tekstur": 3.8, "Serbaguna": 3.9}
+      "specs": {
+        "Jenis": "Campuran bunga liar",
+        "Sertifikasi": "USDA Organik, Mentah",
+        "Berat": "22 oz (624 g)",
+        "Asal": "USA",
+        "Pemrosesan": "Tidak disaring, tidak dipanaskan",
+        "Tekstur": "Kental/pasta"
+      },
+      "scores": {
+        "Rasa": 4.4,
+        "Kemurnian": 4.6,
+        "Nilai": 4.5,
+        "Tekstur": 3.8,
+        "Serbaguna": 3.9
+      }
     },
     {
       "offerId": "wholesome-organic-raw-honey",
       "badge": "Organik Perdagangan Adil Terbaik",
       "review": "Wholesome Organic memenuhi ceruk tertentu: pembeli yang menginginkan sertifikasi organik dan pengadaan perdagangan adil dalam madu mentah tanpa harga Manuka. Rasanya lembut dan bersih — sebanding dengan Nature Nate's tetapi dengan kredensial tambahan.",
-      "pros": ["USDA Organik + bersertifikat perdagangan adil secara bersamaan", "Rasa lembut cocok untuk sebagian besar kasus penggunaan", "Kredensial pengadaan yang transparan"],
-      "cons": ["Harga per ons lebih tinggi dari madu mentah konvensional tanpa manfaat rasa premium"],
+      "pros": [
+        "USDA Organik + bersertifikat perdagangan adil secara bersamaan",
+        "Rasa lembut cocok untuk sebagian besar kasus penggunaan",
+        "Kredensial pengadaan yang transparan"
+      ],
+      "cons": [
+        "Harga per ons lebih tinggi dari madu mentah konvensional tanpa manfaat rasa premium"
+      ],
       "grade": "B-",
-      "specs": {"Jenis": "Campuran klover", "Sertifikasi": "USDA Organik, Perdagangan Adil", "Berat": "16 oz (454 g)", "Asal": "Amerika Selatan", "Pemrosesan": "Mentah, tidak disaring", "Wadah": "Toples"},
-      "scores": {"Rasa": 4.0, "Kemurnian": 4.7, "Nilai": 3.8, "Tekstur": 4.1, "Serbaguna": 4.2}
+      "specs": {
+        "Jenis": "Campuran klover",
+        "Sertifikasi": "USDA Organik, Perdagangan Adil",
+        "Berat": "16 oz (454 g)",
+        "Asal": "Amerika Selatan",
+        "Pemrosesan": "Mentah, tidak disaring",
+        "Wadah": "Toples"
+      },
+      "scores": {
+        "Rasa": 4.0,
+        "Kemurnian": 4.7,
+        "Nilai": 3.8,
+        "Tekstur": 4.1,
+        "Serbaguna": 4.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk penggunaan pemanis sehari-hari", "offerId": "nature-nates-raw-honey", "reason": "Rasa lembut, bersertifikat mentah, dan harga untuk konsumsi sehari-hari tanpa merasa bersalah."},
-    {"label": "Untuk manfaat Manuka yang terverifikasi", "offerId": "comvita-manuka-honey-umf10", "reason": "UMF 10+ secara independen mensertifikasi MGO 263+ — sertifikasi paling andal jika potensi Manuka penting bagi Anda."},
-    {"label": "Untuk prioritas pengadaan etis", "offerId": "wholesome-organic-raw-honey", "reason": "USDA Organik dan bersertifikat perdagangan adil — pilihan ketika etika pengadaan sama pentingnya dengan rasa."},
-    {"label": "Untuk pembeli Manuka berbudget", "offerId": "wedderspoon-manuka-kfactor16", "reason": "Manuka asal bersertifikat serbuk sari dengan harga lebih rendah dari produk UMF — titik masuk yang baik ke Manuka tanpa premium UMF penuh."},
-    {"label": "Untuk madu tidak disaring maksimal", "offerId": "ys-eco-bee-raw-honey", "reason": "Propolis dan serbuk sari yang terlihat dalam madu kental dan tegas dengan sertifikasi USDA organik — opsi paling 'mentah' dalam daftar ini."}
+    {
+      "label": "Untuk penggunaan pemanis sehari-hari",
+      "offerId": "nature-nates-raw-honey",
+      "reason": "Rasa lembut, bersertifikat mentah, dan harga untuk konsumsi sehari-hari tanpa merasa bersalah."
+    },
+    {
+      "label": "Untuk manfaat Manuka yang terverifikasi",
+      "offerId": "comvita-manuka-honey-umf10",
+      "reason": "UMF 10+ secara independen mensertifikasi MGO 263+ — sertifikasi paling andal jika potensi Manuka penting bagi Anda."
+    },
+    {
+      "label": "Untuk prioritas pengadaan etis",
+      "offerId": "wholesome-organic-raw-honey",
+      "reason": "USDA Organik dan bersertifikat perdagangan adil — pilihan ketika etika pengadaan sama pentingnya dengan rasa."
+    },
+    {
+      "label": "Untuk pembeli Manuka berbudget",
+      "offerId": "wedderspoon-manuka-kfactor16",
+      "reason": "Manuka asal bersertifikat serbuk sari dengan harga lebih rendah dari produk UMF — titik masuk yang baik ke Manuka tanpa premium UMF penuh."
+    },
+    {
+      "label": "Untuk madu tidak disaring maksimal",
+      "offerId": "ys-eco-bee-raw-honey",
+      "reason": "Propolis dan serbuk sari yang terlihat dalam madu kental dan tegas dengan sertifikasi USDA organik — opsi paling 'mentah' dalam daftar ini."
+    }
   ]
 }

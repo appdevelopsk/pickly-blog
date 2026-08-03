@@ -1,6 +1,6 @@
 {
   "title": "2026年最佳空氣品質監測儀：5款誠實比較",
-  "description": "從Awair Element的5感測器消費者儀表板到IQAir AirVisual Node的研究級激光PM2.5和CO2。五款空氣品質監測儀在感測器類型、測量精度、智慧家居整合、校準漂移和各價位真實價值方面的比較。我們未進行NIST可追溯校準測試。",
+  "description": "從Awair Element的5感測器消費者儀表板到IQAir AirVisual Node的研究級激光PM2.5和CO2。五款空氣品質監測儀在感測器類型、測量精度、智慧家居整合、校準漂移和各價位真實價值方面的比較。",
   "lede": "五款空氣品質監測儀——Awair Element（CO2+VOC+PM2.5+濕度+溫度5感測器，Awair Score儀表板，HomeKit和Alexa和Google Home，API存取），IQAir AirVisual Node（激光PM2.5和NDIR CO2，戶外AQI疊加）。房間面積相對CADR是唯一能預測真實表現的規格。",
   "sections": [
     {
@@ -105,8 +105,8 @@
     "govee-air-quality-monitor": "Govee Air Quality Monitor H5106覆蓋CO2、PM2.5、溫度和濕度——本次比較中最佳感測器數量/價格比。如果您已使用Govee智慧家居產品（Govee燈、溫度計），它在Govee Home應用程式中整合得很好。可在主要線上零售商購買。沒有HomeKit、沒有Google Home、沒有Alexa——整合完全在Govee生態系統內；PM2.5精度在用戶報告的差異比Awair或Kaiterra感測器更大，且特定感測器組件數據表未公佈；顯示器較小，比Inkbird或Kaiterra從遠處更難讀取；超出名義範圍的CO2和PM2.5精度規格未由Govee公開記錄。",
     "kaiterra-laser-egg-co2": "Kaiterra Laser Egg+ CO2是本次比較中最易讀的獨立監測儀：無需應用程式、雲端連接或手機即可在蛋形設備上清晰顯示CO2、PM2.5、溫度和濕度。日語顯示和菜單。緊湊的外形。可在主要線上零售商購買。HomeKit整合依賴雲端（Kaiterra的橋接伺服器，而非本地HAP），並在Kaiterra狀態頁面上有記錄的定期中斷；如果您主要通過手機查看讀數而不是直視設備，價格難以與Govee相比較；沒有VOC感測器；儘管使用與Awair Element相同類型的Plantower感測器，PM2.5校準算法未公開記錄。"
   },
-  "pinDescription": "2026年5款空氣品質監測儀排名——Awair Element 5感測器 vs IQAir AirVisual Node專業級 vs Kaiterra Laser Egg獨立顯示 vs Inkbird預算CO2 vs Govee多合一。解釋CO2精度限制。PM2.5和黃沙季節指南。智慧家居整合實況",
-  "methodology": "我們根據真實世界耐用性、日常使用便利性、與行銷主張的性能對比、做工品質和長期價值對每種產品進行評估。製造商規格已針對驗證的用戶評論進行驗證。",
+  "pinDescription": "2026年5款空氣品質監測儀排名——Awair Element 5感測器 vs IQAir AirVisual Node專業級 vs Kaiterra Laser Egg獨立顯示 vs Inkbird預算CO2 vs Govee多合一。解釋CO2精度限制。PM2.5和黃沙季節指南。",
+  "methodology": "我們根據真實世界耐用性、日常使用便利性、與行銷主張的性能對比、做工品質和長期價值對每種產品進行評估。製造商規格已針對驗證的用戶評論進行驗證。我們並未實際測試這些產品。",
   "products": [
     {
       "offerId": "awair-element",

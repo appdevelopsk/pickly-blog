@@ -3,7 +3,7 @@
   "description": "Lima timbangan koper dibandingkan berdasarkan kapasitas maksimal (kg), akurasi (gram), jenis layar, dan keandalan nyata di check-in bandara. Etekcity, Renpho, Camry, Tarriss, dan Freetoo — mana yang membuat Anda tetap di bawah batas.",
   "pinDescription": "5 timbangan koper terbaik 2026 — Etekcity, Renpho, Camry, Tarriss, Freetoo. Mana yang memberikan pembacaan akurat agar tidak pernah membayar biaya bagasi berlebih?",
   "lede": "Timbangan koper yang menunjukkan 22,8 kg ketika konter maskapai menunjukkan 23,4 kg menghabiskan lebih banyak biaya kelebihan berat dari nilai timbangan itu sendiri. Akurasi dalam rentang 20–25 kg lebih penting dari spesifikasi lainnya.",
-  "methodology": "Setiap timbangan dievaluasi berdasarkan: kapasitas penimbangan maksimal (kg), akurasi yang dinyatakan dalam gram (dan diverifikasi dari laporan pemilik di konter bandara), jenis layar (LCD vs LED vs app), waktu mati otomatis, dan ketahanan pengait dan mekanisme tali di bawah penggunaan berat berulang.",
+  "methodology": "Setiap timbangan dievaluasi berdasarkan: kapasitas penimbangan maksimal (kg), akurasi yang dinyatakan dalam gram (dan diverifikasi dari laporan pemilik di konter bandara), jenis layar (LCD vs LED vs app), waktu mati otomatis, dan ketahanan pengait dan mekanisme tali di bawah penggunaan berat berulang. We did not test these products ourselves.",
   "sections": [
     {
       "heading": "Mengapa akurasi timbangan koper lebih penting dari fitur",
@@ -41,8 +41,14 @@
       "offerId": "luggage-scale-etekcity-digital",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "Timbangan koper digital Etekcity adalah pilihan terlaris dalam kategori ini karena alasan yang tahan pengujian: akurat ±100 g di rentang 0-50 kg, LCD berlatar belakang cahaya dapat dibaca dalam kondisi pencahayaan kamar hotel, dan pegangan T-bar karet mengurangi slip pegangan selama pengukuran. Mati otomatis dalam 60 detik memberikan waktu yang cukup untuk menggantung dan menstabilkan tas berat. Kelemahan jujur: pengait memadai tetapi bukan baja tempa — dalam penggunaan berat berulang yang sangat banyak (100+ pengukuran pada 25+ kg) beberapa unit menunjukkan deformasi pengait ringan.",
-      "pros": ["Akurasi ±100 g diverifikasi pada 0-50 kg", "LCD berlatar belakang cahaya dapat dibaca dalam cahaya rendah", "Mati otomatis 60 detik memberi waktu untuk menstabilkan"],
-      "cons": ["Pengait bukan baja tempa — dapat berubah bentuk dengan penggunaan berat berulang ekstrem"],
+      "pros": [
+        "Akurasi ±100 g diverifikasi pada 0-50 kg",
+        "LCD berlatar belakang cahaya dapat dibaca dalam cahaya rendah",
+        "Mati otomatis 60 detik memberi waktu untuk menstabilkan"
+      ],
+      "cons": [
+        "Pengait bukan baja tempa — dapat berubah bentuk dengan penggunaan berat berulang ekstrem"
+      ],
       "grade": "A+",
       "specs": {
         "Berat maksimal": "50 kg",
@@ -64,8 +70,15 @@
       "offerId": "luggage-scale-renpho-smart",
       "badge": "Fitur Pintar Terbaik",
       "review": "Timbangan koper pintar Renpho terhubung melalui Bluetooth ke aplikasi pendamping yang mencatat berat tas, memungkinkan pelacakan total berat bagasi di beberapa tas, dan menampilkan pembacaan di layar telepon. Akurasinya sebanding dengan Etekcity (±100 g). Kelemahan jujur: koneksi Bluetooth menambah gesekan pada proses penimbangan — Anda perlu membuka aplikasi dan dipasangkan sebelum setiap penggunaan.",
-      "pros": ["Aplikasi Bluetooth mencatat berat semua tas", "Layar telepon — dapat dibaca dalam cahaya apapun", "Melacak total berat bagasi di beberapa tas"],
-      "cons": ["Pemasangan Bluetooth menambah langkah vs timbangan digital sederhana", "Ketergantungan aplikasi — tidak berfungsi baik tanpa telepon"],
+      "pros": [
+        "Aplikasi Bluetooth mencatat berat semua tas",
+        "Layar telepon — dapat dibaca dalam cahaya apapun",
+        "Melacak total berat bagasi di beberapa tas"
+      ],
+      "cons": [
+        "Pemasangan Bluetooth menambah langkah vs timbangan digital sederhana",
+        "Ketergantungan aplikasi — tidak berfungsi baik tanpa telepon"
+      ],
       "grade": "A",
       "specs": {
         "Berat maksimal": "50 kg",
@@ -87,8 +100,15 @@
       "offerId": "luggage-scale-camry-el-gc50",
       "badge": "Akurasi Kapasitas Tinggi Terbaik",
       "review": "Camry EL GC50 adalah timbangan paling akurat dalam perbandingan ini pada ±50 g (0,05 kg) di rentang 0-50 kg — dua kali akurasi Etekcity dan Renpho. Ini penting di zona 22,5-23,5 kg di mana biaya kelebihan bagasi berlaku: timbangan ±50 g memberi tahu apakah Anda berada di 22,7 atau 23,1 kg dengan tingkat kepercayaan yang tidak bisa ditandingi timbangan ±100 g.",
-      "pros": ["Akurasi ±50 g — paling presisi dalam perbandingan", "Kapasitas maksimal 50 kg mencakup jatah kelas bisnis", "Konstruksi strain gauge kelas profesional"],
-      "cons": ["Harga lebih tinggi dari alternatif penggunaan sesekali", "Akurasi berlebihan untuk penimbangan sekali per perjalanan"],
+      "pros": [
+        "Akurasi ±50 g — paling presisi dalam perbandingan",
+        "Kapasitas maksimal 50 kg mencakup jatah kelas bisnis",
+        "Konstruksi strain gauge kelas profesional"
+      ],
+      "cons": [
+        "Harga lebih tinggi dari alternatif penggunaan sesekali",
+        "Akurasi berlebihan untuk penimbangan sekali per perjalanan"
+      ],
       "grade": "A",
       "specs": {
         "Berat maksimal": "50 kg",
@@ -110,8 +130,15 @@
       "offerId": "luggage-scale-tarriss-jetsetter",
       "badge": "Pegangan Ergonomis Terbaik",
       "review": "Tarriss Jetsetter membedakan diri pada ergonomi — desain tali datar lebar mendistribusikan beban tas 23 kg di seluruh telapak tangan daripada memusatkannya di jari-jari, membuat pegangan 5-10 detik selama pengukuran jauh lebih nyaman untuk tas berat. Layar berlatar belakang cahaya sangat terang dibanding pesaing. Akurasi ±100 g.",
-      "pros": ["Tali lebar mendistribusikan beban 23 kg di telapak tangan", "Layar berlatar belakang cahaya sangat terang", "Akurasi ±100 g"],
-      "cons": ["Tali datar kurang ringkas dari pegangan T-bar", "Premi harga ringan atas Etekcity dengan akurasi sama"],
+      "pros": [
+        "Tali lebar mendistribusikan beban 23 kg di telapak tangan",
+        "Layar berlatar belakang cahaya sangat terang",
+        "Akurasi ±100 g"
+      ],
+      "cons": [
+        "Tali datar kurang ringkas dari pegangan T-bar",
+        "Premi harga ringan atas Etekcity dengan akurasi sama"
+      ],
       "grade": "B+",
       "specs": {
         "Berat maksimal": "50 kg",
@@ -133,8 +160,15 @@
       "offerId": "luggage-scale-freetoo-portable",
       "badge": "Ultra-Kompak Terbaik",
       "review": "Freetoo adalah timbangan koper terkecil dan teringan dalam perbandingan ini — terlipat ke ukuran yang muat di saku kemeja dan beratnya di bawah 60 g. Untuk pelancong yang ingin timbangan selalu ada di tas daripada dikemas terpisah, inilah pilihan yang tepat. Akurasi ±100 g, standar untuk kategori ini. Kelemahan jujur: mati otomatis 30 detik terlalu singkat untuk pengguna lambat yang perlu menstabilkan tas yang berayun.",
-      "pros": ["Ultra-kompak — ukuran saku kemeja di bawah 60 g", "Selalu-di-tas tanpa penalti ruang", "Akurasi ±100 g — memadai untuk penimbangan perjalanan"],
-      "cons": ["Mati otomatis 30 detik terlalu singkat untuk stabilisasi lambat", "Pengait tertipis — pertanyaan ketahanan jangka panjang"],
+      "pros": [
+        "Ultra-kompak — ukuran saku kemeja di bawah 60 g",
+        "Selalu-di-tas tanpa penalti ruang",
+        "Akurasi ±100 g — memadai untuk penimbangan perjalanan"
+      ],
+      "cons": [
+        "Mati otomatis 30 detik terlalu singkat untuk stabilisasi lambat",
+        "Pengait tertipis — pertanyaan ketahanan jangka panjang"
+      ],
       "grade": "B",
       "specs": {
         "Berat maksimal": "40 kg",

@@ -52,15 +52,21 @@
     "a7-bar-grip-knee-sleeves": "5mm, não aprovadas pela IPF, exterior com grip de silicone, ideal para CrossFit",
     "rogue-knee-sleeves-5mm": "5mm, não aprovadas pela IPF, vendidas em pares, melhor para treinamento geral"
   },
-  "pinDescription": "7mm ou 5mm, aprovadas pela IPF ou não -- a joelheira certa depende de como você agacha. Estas 5 opções cobrem competição de powerlifting, CrossFit e treinamento de musculação cotidiano sem sobreposição desnecessária. #Joelheiras #Powerlifting #português",
-  "methodology": "Cada produto foi avaliado por cinco critérios: qualidade de construção, desempenho em uso típico, durabilidade, conforto e custo-benefício. Desempenho e durabilidade tiveram maior peso porque determinam se um produto ainda é útil 12 meses depois.",
+  "pinDescription": "7mm ou 5mm, aprovadas pela IPF ou não -- a joelheira certa depende de como você agacha. Estas 5 opções cobrem competição de powerlifting, CrossFit e treinamento de musculação cotidiano sem sobreposição desnecessária.",
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes. Não testamos estes produtos pessoalmente.",
   "products": [
     {
       "offerId": "sbd-knee-sleeves-7mm",
       "badge": "Melhor opção geral",
       "review": "O neoprene de dupla camada de 7mm da SBD é aprovado pela IPF e usado em mais campeonatos mundiais do que qualquer outra marca. As duplas costuras nas bordas superior e inferior evitam o deslizamento. O dimensionamento pela circunferência da coxa é crítico: uma joelheira levemente grande não fornece a compressão nem o retorno que justifica o 7mm sobre o 5mm.",
-      "pros": ["Aprovada pela IPF para competição", "Duplas costuras anti-deslizamento", "Melhor retorno ao sair do ponto mais baixo no 7mm"],
-      "cons": ["Muito quente para aquecimentos — reservada para séries de trabalho a 80%+"],
+      "pros": [
+        "Aprovada pela IPF para competição",
+        "Duplas costuras anti-deslizamento",
+        "Melhor retorno ao sair do ponto mais baixo no 7mm"
+      ],
+      "cons": [
+        "Muito quente para aquecimentos — reservada para séries de trabalho a 80%+"
+      ],
       "grade": "A+",
       "specs": {
         "Espessura": "7mm neoprene dupla camada",
@@ -81,8 +87,14 @@
       "offerId": "rehband-rx-knee-sleeve-7mm",
       "badge": "Melhor para conforto",
       "review": "O corte cônico anatômico da Rehband — mais largo em cima, mais estreito na base da patela — mantém a joelheira centralizada melhor durante agachamentos profundos. Não aprovada pela IPF mas compressão e retorno comparáveis à SBD para treino. Venda individual para testar um joelho antes de comprar o par.",
-      "pros": ["Corte cônico anatômico permanece centralizado em agachamentos profundos", "Venda individual para testar um joelho primeiro", "Mais quente para academias frias"],
-      "cons": ["Não aprovada pela IPF — inválida para competição"],
+      "pros": [
+        "Corte cônico anatômico permanece centralizado em agachamentos profundos",
+        "Venda individual para testar um joelho primeiro",
+        "Mais quente para academias frias"
+      ],
+      "cons": [
+        "Não aprovada pela IPF — inválida para competição"
+      ],
       "grade": "A",
       "specs": {
         "Espessura": "7mm neoprene",
@@ -103,8 +115,14 @@
       "offerId": "stoic-strength-knee-sleeves",
       "badge": "Melhor custo-benefício",
       "review": "As joelheiras 7mm IPF da Stoic oferecem compressão de nível competitivo pela metade do preço da SBD. A costura traseira reforçada aborda o ponto de falha mais comum de joelheiras baratas. Tamanho ligeiramente menor que a Rehband — subir um tamanho se estiver entre tamanhos.",
-      "pros": ["Aprovada IPF à metade do preço da SBD", "Costura traseira reforçada para durabilidade", "Retorno funcional sem período de adaptação"],
-      "cons": ["Tamanho ligeiramente pequeno — subir um tamanho"],
+      "pros": [
+        "Aprovada IPF à metade do preço da SBD",
+        "Costura traseira reforçada para durabilidade",
+        "Retorno funcional sem período de adaptação"
+      ],
+      "cons": [
+        "Tamanho ligeiramente pequeno — subir um tamanho"
+      ],
       "grade": "B+",
       "specs": {
         "Espessura": "7mm neoprene",
@@ -125,8 +143,15 @@
       "offerId": "a7-bar-grip-knee-sleeves",
       "badge": "Melhor para CrossFit",
       "review": "As joelheiras 5mm da A7 têm um padrão de aderência de barra impresso em silicone no exterior que evita a migração durante agachamentos, box jumps e thrusters. A 5mm o neoprene permite amplitude completa em wall balls e pistol squats onde o 7mm altera a mecânica. Projetadas para CrossFit, não aprovadas pela IPF.",
-      "pros": ["Exterior de silicone evita migração em movimentos dinâmicos", "5mm permite amplitude completa para CrossFit", "Vendidas em pares"],
-      "cons": ["Não aprovada pela IPF", "Suplemento de 15–20% sobre opções 5mm padrão"],
+      "pros": [
+        "Exterior de silicone evita migração em movimentos dinâmicos",
+        "5mm permite amplitude completa para CrossFit",
+        "Vendidas em pares"
+      ],
+      "cons": [
+        "Não aprovada pela IPF",
+        "Suplemento de 15–20% sobre opções 5mm padrão"
+      ],
       "grade": "B",
       "specs": {
         "Espessura": "5mm neoprene",
@@ -147,8 +172,14 @@
       "offerId": "rogue-knee-sleeves-5mm",
       "badge": "Melhor para treino geral",
       "review": "As joelheiras 5mm da Rogue são para atletas que agacham, empurram e puxam na mesma sessão sem removê-las entre os movimentos. Menos retorno que o 7mm — decisão de design intencional. Calor constante sem desconforto em sessões de 60–90 minutos.",
-      "pros": ["Usáveis a sessão inteira sem remoção", "Calor constante sem superaquecimento", "Sistema de tamanho simples Rogue"],
-      "cons": ["Menos retorno que 7mm — não para agachamentos máximos em powerlifting"],
+      "pros": [
+        "Usáveis a sessão inteira sem remoção",
+        "Calor constante sem superaquecimento",
+        "Sistema de tamanho simples Rogue"
+      ],
+      "cons": [
+        "Menos retorno que 7mm — não para agachamentos máximos em powerlifting"
+      ],
       "grade": "B-",
       "specs": {
         "Espessura": "5mm neoprene camada única",
@@ -167,10 +198,30 @@
     }
   ],
   "recommendedFor": [
-    {"label": "Para competição IPF", "offerId": "sbd-knee-sleeves-7mm", "reason": "Aprovada IPF, usada por campeões mundiais, confiável na intensidade de competição"},
-    {"label": "Para quem prioriza conforto", "offerId": "rehband-rx-knee-sleeve-7mm", "reason": "Corte anatômico permanece centralizado, venda individual permite testar um joelho primeiro"},
-    {"label": "Para powerlifters com orçamento limitado", "offerId": "stoic-strength-knee-sleeves", "reason": "Aprovada IPF à metade do preço da SBD com compressão de nível competitivo"},
-    {"label": "Para atletas de CrossFit", "offerId": "a7-bar-grip-knee-sleeves", "reason": "Grip silicone evita migração em box jumps, thrusters e movimentos WOD repetitivos"},
-    {"label": "Para treino de academia geral", "offerId": "rogue-knee-sleeves-5mm", "reason": "Usáveis a sessão inteira através de todos os movimentos sem remoção entre séries"}
+    {
+      "label": "Para competição IPF",
+      "offerId": "sbd-knee-sleeves-7mm",
+      "reason": "Aprovada IPF, usada por campeões mundiais, confiável na intensidade de competição"
+    },
+    {
+      "label": "Para quem prioriza conforto",
+      "offerId": "rehband-rx-knee-sleeve-7mm",
+      "reason": "Corte anatômico permanece centralizado, venda individual permite testar um joelho primeiro"
+    },
+    {
+      "label": "Para powerlifters com orçamento limitado",
+      "offerId": "stoic-strength-knee-sleeves",
+      "reason": "Aprovada IPF à metade do preço da SBD com compressão de nível competitivo"
+    },
+    {
+      "label": "Para atletas de CrossFit",
+      "offerId": "a7-bar-grip-knee-sleeves",
+      "reason": "Grip silicone evita migração em box jumps, thrusters e movimentos WOD repetitivos"
+    },
+    {
+      "label": "Para treino de academia geral",
+      "offerId": "rogue-knee-sleeves-5mm",
+      "reason": "Usáveis a sessão inteira através de todos os movimentos sem remoção entre séries"
+    }
   ]
 }

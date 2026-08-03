@@ -92,65 +92,175 @@
     "wine-access-subscription": "Am besten für ernsthafte Enthusiasten — Premium-Kuration zu $30-100+/Flasche mit den besten Verkostungsnotizen und Weinbildung in der Kategorie. Redaktionelle Auswahl deckt eine breite Palette inklusive Natur- und konventioneller Weine ab. Am besten für Weinenthusiasten, die neben ihrer Sammlung Wissen aufbauen wollen. Einschränkung: Preispunkt schließt es als Alltagstrank-Abonnement aus.",
     "bright-cellars-subscription": "Am besten für Weinanfänger — strukturierte Gaumenentwicklung mit Geschmacksrad-Archetyp-System, $22/Flasche (4 Flaschen zu $88/Monat). Expliziter Lehrrahmen auf jeder Flasche, wie sie deinen Gaumen erweitert. Am besten für neue Weintrinker, die einen geführten Lernpfad wollen. Einschränkung: Erfahrene Trinker finden das Gerüst unnötig; Kündigung erfordert Support-Kontakt statt Selbstbedienungsportal."
   },
-  "pinDescription": "5 Wein-Abonnements verglichen für 2026: Winc vs Firstleaf vs Naked Wines vs Wine Access vs BRIGHT Cellars. Personalisierung, Wert pro Flasche, Naturwein-Optionen — finde das Abonnement, das wirklich zu deiner Trinkweise passt. #WeinAbonnement #Naturwein #deutsch",
-  "methodology": "Jedes Abo wurde nach geliefertem Preis pro Flasche, Algorithmus-Personalisierungsgenauigkeit nach drei Lieferungen, Selbstbedienungskomfort für Skip/Pause, Naturwein-Verfügbarkeit und Bildungstiefe der Verkostungsnotizen bewertet.",
+  "pinDescription": "5 Wein-Abonnements verglichen für 2026: Winc vs Firstleaf vs Naked Wines vs Wine Access vs BRIGHT Cellars. Personalisierung, Wert pro Flasche, Naturwein-Optionen — finde das Abonnement, das wirklich zu deiner Trinkweise passt.",
+  "methodology": "Jedes Abo wurde nach geliefertem Preis pro Flasche, Algorithmus-Personalisierungsgenauigkeit nach drei Lieferungen, Selbstbedienungskomfort für Skip/Pause, Naturwein-Verfügbarkeit und Bildungstiefe der Verkostungsnotizen bewertet. Wir haben die Produkte nicht selbst getestet.",
   "products": [
     {
       "offerId": "winc-subscription",
       "badge": "Gesamt-Testsieger",
       "review": "Wincs algorithmusbasierte Auswahl zu $13–20 pro Flasche mit kostenlosem Versand ab vier Flaschen macht es zum reibungslosesten Alltags-Weinabo. Die Bewertungs-Feedback-Schleife verbessert die Personalisierung nach drei bis vier Lieferungen spürbar. Der Kompromiss: Wincs eigene Labels dominieren die unteren Preissegmente und begrenzen die Qualitätsobergrenze gegenüber unabhängigen Kuratierungsdiensten.",
-      "pros": ["Algorithmus verbessert sich messbar nach konsistenten Bewertungen", "Kostenloser Versand ab 4 Flaschen", "Selbstbedienung Skip/Pause in zwei Klicks"],
-      "cons": ["Eigene Label begrenzen Qualitätsobergrenze gegenüber Kuratierungsdiensten"],
+      "pros": [
+        "Algorithmus verbessert sich messbar nach konsistenten Bewertungen",
+        "Kostenloser Versand ab 4 Flaschen",
+        "Selbstbedienung Skip/Pause in zwei Klicks"
+      ],
+      "cons": [
+        "Eigene Label begrenzen Qualitätsobergrenze gegenüber Kuratierungsdiensten"
+      ],
       "grade": "A+",
-      "specs": {"Preis pro Flasche": "$13–20", "Liefergröße": "4 Fl./Monat", "Versand": "Kostenlos ab 4 Fl.", "Skip-Policy": "Selbstbedienung, 24h Vorankündigung", "Zertifizierung": "US-Basis, eigenes Label"},
-      "scores": {"Weinqualität": 4.2, "Preis-Leistung": 4.5, "Vielfalt": 4.0, "Personalisierung": 4.3, "Lieferzuverlässigkeit": 4.6}
+      "specs": {
+        "Preis pro Flasche": "$13–20",
+        "Liefergröße": "4 Fl./Monat",
+        "Versand": "Kostenlos ab 4 Fl.",
+        "Skip-Policy": "Selbstbedienung, 24h Vorankündigung",
+        "Zertifizierung": "US-Basis, eigenes Label"
+      },
+      "scores": {
+        "Weinqualität": 4.2,
+        "Preis-Leistung": 4.5,
+        "Vielfalt": 4.0,
+        "Personalisierung": 4.3,
+        "Lieferzuverlässigkeit": 4.6
+      }
     },
     {
       "offerId": "firstleaf-subscription",
       "badge": "Bester Einstiegswert",
       "review": "Sechs Flaschen für $39,95 bei der ersten Lieferung ist der beste Einsteiger-Rabatt in dieser Kategorie. Der Algorithmus kalibriert sich gut, sobald man drei oder vier Lieferungen konsistent bewertet hat. Die Kündigung erfordert einen Retention-Flow statt eines einzelnen Klicks – der größte Reibungspunkt.",
-      "pros": ["Bester Ersteinstiegsrabatt ($39,95 für 6 Flaschen)", "Breites Weinguts-Netzwerk für Vielfalt", "Algorithmus verbessert sich nach 3–4 Lieferungen"],
-      "cons": ["Kündigung erfordert Retention-Flow, kein Ein-Klick-Prozess"],
+      "pros": [
+        "Bester Ersteinstiegsrabatt ($39,95 für 6 Flaschen)",
+        "Breites Weinguts-Netzwerk für Vielfalt",
+        "Algorithmus verbessert sich nach 3–4 Lieferungen"
+      ],
+      "cons": [
+        "Kündigung erfordert Retention-Flow, kein Ein-Klick-Prozess"
+      ],
       "grade": "A",
-      "specs": {"Einstandspreis": "$39,95/6 Fl.", "Laufender Preis": "~$15–25/Fl.", "Liefergröße": "6 Fl.", "Skip-Policy": "Selbstbedienung, bis 2 Monate Pause", "Weinguts-Netzwerk": "International"},
-      "scores": {"Weinqualität": 4.0, "Preis-Leistung": 4.6, "Vielfalt": 4.2, "Personalisierung": 3.9, "Lieferzuverlässigkeit": 4.3}
+      "specs": {
+        "Einstandspreis": "$39,95/6 Fl.",
+        "Laufender Preis": "~$15–25/Fl.",
+        "Liefergröße": "6 Fl.",
+        "Skip-Policy": "Selbstbedienung, bis 2 Monate Pause",
+        "Weinguts-Netzwerk": "International"
+      },
+      "scores": {
+        "Weinqualität": 4.0,
+        "Preis-Leistung": 4.6,
+        "Vielfalt": 4.2,
+        "Personalisierung": 3.9,
+        "Lieferzuverlässigkeit": 4.3
+      }
     },
     {
       "offerId": "naked-wines-subscription",
       "badge": "Bester für Sparfüchse",
       "review": "Die Angel-Mitgliedschaft von Naked Wines legt monatlich $40 als Guthaben an und schaltet 30–50 % unter dem Einzelhandelspreis bei unabhängigen Erzeugern frei. Die Ersparnisse sind unabhängig nachprüfbar. Das bedarfsorientierte Modell ohne automatische Lieferungen ist das flexibelste der fünf, aber die $40-Verpflichtung läuft auch in Monaten ohne Kauf.",
-      "pros": ["30–50 % verifizierbarer Rabatt gegenüber dem Einzelhandel", "Keine erzwungenen automatischen Lieferungen", "Breiter Zugang zu unabhängigen Weinerzeugern"],
-      "cons": ["$40/Monat Verpflichtung unabhängig von der Kaufaktivität"],
+      "pros": [
+        "30–50 % verifizierbarer Rabatt gegenüber dem Einzelhandel",
+        "Keine erzwungenen automatischen Lieferungen",
+        "Breiter Zugang zu unabhängigen Weinerzeugern"
+      ],
+      "cons": [
+        "$40/Monat Verpflichtung unabhängig von der Kaufaktivität"
+      ],
       "grade": "B+",
-      "specs": {"Monatliches Guthaben": "$40", "Angel-Rabatt": "30–50 % auf Einzelhandel", "Liefertyp": "Bedarfsorientiert (kein Auto-Versand)", "Kündigung": "Selbstbedienung", "Erzeuger-Fokus": "Unabhängige Weinmacher"},
-      "scores": {"Weinqualität": 4.3, "Preis-Leistung": 4.4, "Vielfalt": 3.8, "Personalisierung": 3.5, "Lieferzuverlässigkeit": 4.1}
+      "specs": {
+        "Monatliches Guthaben": "$40",
+        "Angel-Rabatt": "30–50 % auf Einzelhandel",
+        "Liefertyp": "Bedarfsorientiert (kein Auto-Versand)",
+        "Kündigung": "Selbstbedienung",
+        "Erzeuger-Fokus": "Unabhängige Weinmacher"
+      },
+      "scores": {
+        "Weinqualität": 4.3,
+        "Preis-Leistung": 4.4,
+        "Vielfalt": 3.8,
+        "Personalisierung": 3.5,
+        "Lieferzuverlässigkeit": 4.1
+      }
     },
     {
       "offerId": "wine-access-subscription",
       "badge": "Bester für Enthusiasten",
       "review": "Wine Access liefert die besten Verkostungsnotizen und die tiefste redaktionelle Kuration dieser Kategorie — Produktionskontext, regionale Typizität und Geschmackserwartungen, verfasst von Weinprofis. Zu $30–100+ pro Flasche eignet es sich nicht für den Alltagsgebrauch, aber die Qualität und Bildungstiefe rechtfertigen den Aufpreis für ernsthafte Sammler.",
-      "pros": ["Beste Verkostungsnotizen und Weinbildung mit Abstand", "Deckt Naturwein und konventionellen Wein gleichermaßen ab", "Sommelierqualität bei Kuration und Auswahl"],
-      "cons": ["Preis ($30–100+/Fl.) macht es als Alltagsabo ungeeignet"],
+      "pros": [
+        "Beste Verkostungsnotizen und Weinbildung mit Abstand",
+        "Deckt Naturwein und konventionellen Wein gleichermaßen ab",
+        "Sommelierqualität bei Kuration und Auswahl"
+      ],
+      "cons": [
+        "Preis ($30–100+/Fl.) macht es als Alltagsabo ungeeignet"
+      ],
       "grade": "B",
-      "specs": {"Preis pro Flasche": "$30–100+", "Kurationsstil": "Redaktionell/Sommelier", "Naturwein": "Ja, neben konventionellem", "Verkostungsnotizen": "Produktionskontext + regionale Typizität", "Kündigung": "Selbstbedienung"},
-      "scores": {"Weinqualität": 4.9, "Preis-Leistung": 3.2, "Vielfalt": 4.5, "Personalisierung": 3.6, "Lieferzuverlässigkeit": 4.4}
+      "specs": {
+        "Preis pro Flasche": "$30–100+",
+        "Kurationsstil": "Redaktionell/Sommelier",
+        "Naturwein": "Ja, neben konventionellem",
+        "Verkostungsnotizen": "Produktionskontext + regionale Typizität",
+        "Kündigung": "Selbstbedienung"
+      },
+      "scores": {
+        "Weinqualität": 4.9,
+        "Preis-Leistung": 3.2,
+        "Vielfalt": 4.5,
+        "Personalisierung": 3.6,
+        "Lieferzuverlässigkeit": 4.4
+      }
     },
     {
       "offerId": "bright-cellars-subscription",
       "badge": "Bester für Anfänger",
       "review": "Das Geschmacksrad-Archetyp-System von BRIGHT Cellars erstellt ein Gaumen-Profil und fügt jeder Lieferung bewusst eine Flasche außerhalb der Komfortzone hinzu. Die Lernrahmung auf jeder Flasche ist für Weineinsteiger wirklich nützlich. Zu $22/Flasche ($88/Monat für vier) ist der Preis fair für die Lernstruktur. Erfahrene Trinker finden das Gerüst überflüssig, und die Kündigung erfordert einen Support-Kontakt.",
-      "pros": ["Einzigartiges Geschmacksrad-Gaumenentwicklungssystem in der Kategorie", "Lehrreiche Notiz auf jeder Flasche erklärt den Lerninhalt", "Strukturierter Fortschritt zu breiterem Weinwissen"],
-      "cons": ["Kündigung erfordert Support-Kontakt (kein Selbstbedienungsportal)"],
+      "pros": [
+        "Einzigartiges Geschmacksrad-Gaumenentwicklungssystem in der Kategorie",
+        "Lehrreiche Notiz auf jeder Flasche erklärt den Lerninhalt",
+        "Strukturierter Fortschritt zu breiterem Weinwissen"
+      ],
+      "cons": [
+        "Kündigung erfordert Support-Kontakt (kein Selbstbedienungsportal)"
+      ],
       "grade": "B-",
-      "specs": {"Preis pro Flasche": "$22", "Liefergröße": "4 Fl./Monat", "Monatliche Kosten": "$88", "Kündigung": "Support-Kontakt erforderlich", "Lernsystem": "Geschmacksrad-Archetyp"},
-      "scores": {"Weinqualität": 3.8, "Preis-Leistung": 3.7, "Vielfalt": 3.6, "Personalisierung": 4.0, "Lieferzuverlässigkeit": 4.2}
+      "specs": {
+        "Preis pro Flasche": "$22",
+        "Liefergröße": "4 Fl./Monat",
+        "Monatliche Kosten": "$88",
+        "Kündigung": "Support-Kontakt erforderlich",
+        "Lernsystem": "Geschmacksrad-Archetyp"
+      },
+      "scores": {
+        "Weinqualität": 3.8,
+        "Preis-Leistung": 3.7,
+        "Vielfalt": 3.6,
+        "Personalisierung": 4.0,
+        "Lieferzuverlässigkeit": 4.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Für unkomplizierte Alltagstrinker", "offerId": "winc-subscription", "reason": "Algorithmusbasierte Auswahl wird fahrplanmäßig geliefert — Skip und Pause in zwei Klicks ohne Aufwand."},
-    {"label": "Für Erstabonnenten", "offerId": "firstleaf-subscription", "reason": "Bester Einsteiger-Rabatt in der Kategorie; der Algorithmus kalibriert sich nach ein paar bewerteten Lieferungen."},
-    {"label": "Für unabhängige Weinunterstützer", "offerId": "naked-wines-subscription", "reason": "Angel-Guthaben finanziert unabhängige Weinmacher direkt und schaltet 30–50 % Ersparnis frei, die gegen Einzelhandelspreise geprüft werden kann."},
-    {"label": "Für ernsthafte Sammler", "offerId": "wine-access-subscription", "reason": "Sommelierbasierte Auswahl in Premiumsegmenten mit den besten Verkostungsnotizen und Weinbildung im Abo-Format."},
-    {"label": "Für absolute Weinanfänger", "offerId": "bright-cellars-subscription", "reason": "Das Geschmacksrad-Archetyp-System schafft einen geführten Gaumenentwicklungsweg, den kein anderer Dienst in diesem Vergleich bietet."}
+    {
+      "label": "Für unkomplizierte Alltagstrinker",
+      "offerId": "winc-subscription",
+      "reason": "Algorithmusbasierte Auswahl wird fahrplanmäßig geliefert — Skip und Pause in zwei Klicks ohne Aufwand."
+    },
+    {
+      "label": "Für Erstabonnenten",
+      "offerId": "firstleaf-subscription",
+      "reason": "Bester Einsteiger-Rabatt in der Kategorie; der Algorithmus kalibriert sich nach ein paar bewerteten Lieferungen."
+    },
+    {
+      "label": "Für unabhängige Weinunterstützer",
+      "offerId": "naked-wines-subscription",
+      "reason": "Angel-Guthaben finanziert unabhängige Weinmacher direkt und schaltet 30–50 % Ersparnis frei, die gegen Einzelhandelspreise geprüft werden kann."
+    },
+    {
+      "label": "Für ernsthafte Sammler",
+      "offerId": "wine-access-subscription",
+      "reason": "Sommelierbasierte Auswahl in Premiumsegmenten mit den besten Verkostungsnotizen und Weinbildung im Abo-Format."
+    },
+    {
+      "label": "Für absolute Weinanfänger",
+      "offerId": "bright-cellars-subscription",
+      "reason": "Das Geschmacksrad-Archetyp-System schafft einen geführten Gaumenentwicklungsweg, den kein anderer Dienst in diesem Vergleich bietet."
+    }
   ]
 }

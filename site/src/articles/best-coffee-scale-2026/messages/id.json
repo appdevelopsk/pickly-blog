@@ -58,64 +58,174 @@
     "coffee-gator-pour-over-scale": "Resolusi 0,1g, respons 1–2 detik, baterai AA, timer. $25–40. Pilihan anggaran tingkat pemula — timer dan pengukuran dengan biaya terendah. Respons lambat membatasi presisi. Tepat untuk pemula yang menambahkan pengukuran ke rutinitas pour-over."
   },
   "pinDescription": "Timbangan kopi 2026: Acaia Pearl vs Timemore Black Mirror vs Hario V60 vs Felicita Incline — mengapa waktu respons lebih penting dari resolusi, timer bawaan dijelaskan, persyaratan timbangan espresso vs pour-over, dan timbangan kopi terbaik di setiap titik harga.",
-  "methodology": "Kami mengevaluasi setiap timbangan berdasarkan waktu respons, resolusi, integrasi timer, kepraktisan sumber daya, kualitas bangunan, dan kesesuaian untuk alur kerja espresso dan pour-over — waktu respons diberi bobot paling besar karena memiliki dampak nyata terbesar pada presisi.",
+  "methodology": "Kami mengevaluasi setiap timbangan berdasarkan waktu respons, resolusi, integrasi timer, kepraktisan sumber daya, kualitas bangunan, dan kesesuaian untuk alur kerja espresso dan pour-over — waktu respons diberi bobot paling besar karena memiliki dampak nyata terbesar pada presisi. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "acaia-pearl-coffee-scale",
       "badge": "Terbaik Keseluruhan",
       "review": "Acaia Pearl adalah timbangan kopi referensi — resolusi 0,1g, waktu respons 300ms, konektivitas aplikasi Bluetooth untuk mencatat seduhan, dan bodi aluminium dengan baterai yang dapat diisi ulang yang bertahan 5–10 tahun dengan penggunaan normal. Pearl membenarkan harga $150–220 melalui ketahanan dan presisi, bukan fitur: ia hanya melakukan segalanya dengan benar, setiap saat. Aplikasi Bluetooth benar-benar berguna untuk mengiterasi resep.",
-      "pros": ["Respons 300ms — tercepat dari semua timbangan yang direview di sini", "Aplikasi Bluetooth mencatat dosis, hasil, dan waktu di berbagai seduhan", "Bodi aluminium dengan baterai yang dapat diisi ulang — tidak perlu berlari ke toko"],
-      "cons": ["$150–220 adalah investasi signifikan — berlebihan untuk pembuat kopi rumahan kasual"],
+      "pros": [
+        "Respons 300ms — tercepat dari semua timbangan yang direview di sini",
+        "Aplikasi Bluetooth mencatat dosis, hasil, dan waktu di berbagai seduhan",
+        "Bodi aluminium dengan baterai yang dapat diisi ulang — tidak perlu berlari ke toko"
+      ],
+      "cons": [
+        "$150–220 adalah investasi signifikan — berlebihan untuk pembuat kopi rumahan kasual"
+      ],
       "grade": "A+",
-      "specs": {"Resolusi": "0,1g", "Waktu respons": "~300ms", "Daya": "Dapat diisi ulang (USB)", "Konektivitas": "Bluetooth (aplikasi Acaia)", "Ukuran platform": "18cm × 18cm (Pearl) / 14cm × 14cm (Pearl S)"},
-      "scores": {"Kualitas bangunan": 5.0, "Kualitas seduhan": 4.9, "Kemudahan penggunaan": 4.5, "Nilai": 3.2, "Keserbagunaan": 4.8}
+      "specs": {
+        "Resolusi": "0,1g",
+        "Waktu respons": "~300ms",
+        "Daya": "Dapat diisi ulang (USB)",
+        "Konektivitas": "Bluetooth (aplikasi Acaia)",
+        "Ukuran platform": "18cm × 18cm (Pearl) / 14cm × 14cm (Pearl S)"
+      },
+      "scores": {
+        "Kualitas bangunan": 5.0,
+        "Kualitas seduhan": 4.9,
+        "Kemudahan penggunaan": 4.5,
+        "Nilai": 3.2,
+        "Keserbagunaan": 4.8
+      }
     },
     {
       "offerId": "timemore-black-mirror-scale",
       "badge": "Nilai Terbaik",
       "review": "Timemore Black Mirror Basic+ adalah rekomendasi standar untuk pembuat kopi rumahan yang menginginkan semua fitur timbangan kopi esensial tanpa premi Acaia: resolusi 0,1g, waktu respons 500ms, timer bawaan, dan baterai AA. Respons 500ms lebih cepat dari 1 detik Hario dan bisa digunakan untuk sebagian besar resep. Baterai AA lebih praktis dari yang dapat diisi ulang untuk perjalanan. Bodi plastik lebih ringan dan kurang premium, tetapi fungsional memadai.",
-      "pros": ["Semua fitur timbangan kopi esensial seharga $40–60 — tolok ukur nilai", "Baterai AA — nyaman untuk perjalanan, tidak perlu pengisian", "Tombol tunggal untuk memulai timer — gesekan minimal saat seduh"],
-      "cons": ["Respons 500ms lebih lambat dari 300ms Acaia — penalti kecil untuk kepatuhan resep yang tepat"],
+      "pros": [
+        "Semua fitur timbangan kopi esensial seharga $40–60 — tolok ukur nilai",
+        "Baterai AA — nyaman untuk perjalanan, tidak perlu pengisian",
+        "Tombol tunggal untuk memulai timer — gesekan minimal saat seduh"
+      ],
+      "cons": [
+        "Respons 500ms lebih lambat dari 300ms Acaia — penalti kecil untuk kepatuhan resep yang tepat"
+      ],
       "grade": "A",
-      "specs": {"Resolusi": "0,1g", "Waktu respons": "~500ms", "Daya": "Baterai AA", "Timer": "Bawaan, tombol tunggal", "Bodi": "Plastik + platform logam"},
-      "scores": {"Kualitas bangunan": 3.8, "Kualitas seduhan": 4.5, "Kemudahan penggunaan": 4.6, "Nilai": 4.9, "Keserbagunaan": 4.5}
+      "specs": {
+        "Resolusi": "0,1g",
+        "Waktu respons": "~500ms",
+        "Daya": "Baterai AA",
+        "Timer": "Bawaan, tombol tunggal",
+        "Bodi": "Plastik + platform logam"
+      },
+      "scores": {
+        "Kualitas bangunan": 3.8,
+        "Kualitas seduhan": 4.5,
+        "Kemudahan penggunaan": 4.6,
+        "Nilai": 4.9,
+        "Keserbagunaan": 4.5
+      }
     },
     {
       "offerId": "hario-v60-drip-scale",
       "badge": "Terbaik untuk Pengguna V60",
       "review": "Hario V60 Drip Scale dirancang untuk ekosistem V60 dan menekankan kesederhanaan: satu tombol memulai timer, daya tahan baterai AA 80 jam, resolusi 0,1g dengan respons sekitar 1 detik. Waktu respons lebih lambat dari Timemore dan Acaia, tetapi daya tahan baterai adalah yang terbaik di antara semua timbangan di sini. Untuk pengguna V60 yang menginginkan setup yang kohesif dan jarang perlu mengisi ulang, timbangan Hario adalah pelengkap alami — meskipun Timemore memberikan respons lebih baik dengan harga serupa.",
-      "pros": ["Daya tahan 80 jam pada AA — runtime terpanjang dari timbangan mana pun di sini", "Dirancang untuk ekosistem V60 — kohesi visual", "Operasi tombol tunggal sederhana meminimalkan gangguan saat seduh"],
-      "cons": ["Waktu respons 1 detik adalah yang paling lambat di antara timbangan kopi khusus — memengaruhi presisi pada berat target"],
+      "pros": [
+        "Daya tahan 80 jam pada AA — runtime terpanjang dari timbangan mana pun di sini",
+        "Dirancang untuk ekosistem V60 — kohesi visual",
+        "Operasi tombol tunggal sederhana meminimalkan gangguan saat seduh"
+      ],
+      "cons": [
+        "Waktu respons 1 detik adalah yang paling lambat di antara timbangan kopi khusus — memengaruhi presisi pada berat target"
+      ],
       "grade": "B+",
-      "specs": {"Resolusi": "0,1g", "Waktu respons": "~1 detik", "Daya": "Baterai AA", "Daya tahan baterai": "~80 jam", "Timer": "Bawaan, satu tombol"},
-      "scores": {"Kualitas bangunan": 4.2, "Kualitas seduhan": 4.2, "Kemudahan penggunaan": 4.7, "Nilai": 4.3, "Keserbagunaan": 4.0}
+      "specs": {
+        "Resolusi": "0,1g",
+        "Waktu respons": "~1 detik",
+        "Daya": "Baterai AA",
+        "Daya tahan baterai": "~80 jam",
+        "Timer": "Bawaan, satu tombol"
+      },
+      "scores": {
+        "Kualitas bangunan": 4.2,
+        "Kualitas seduhan": 4.2,
+        "Kemudahan penggunaan": 4.7,
+        "Nilai": 4.3,
+        "Keserbagunaan": 4.0
+      }
     },
     {
       "offerId": "felicita-incline-coffee-scale",
       "badge": "Terbaik untuk Espresso",
       "review": "Felicita Incline memiliki tampilan miring unik 10 derajat yang menghadap pengguna di atas portafilter atau nampan tetes espresso — membuatnya benar-benar dapat dibaca tanpa membungkuk ke depan. USB-C yang dapat diisi ulang dengan timer mulai otomatis yang diaktifkan saat berat terdeteksi. Pada respons 200–300ms, menyamai kecepatan Acaia dengan harga lebih murah ($80–120). Desain miring berguna atau gimikik tergantung setup Anda; untuk pengguna espresso dengan nampan tetes tersembunyi, ini benar-benar praktis.",
-      "pros": ["Tampilan miring 10 derajat — dapat dibaca di atas portafilter tanpa membungkuk", "Timer mulai otomatis diaktifkan saat berat terdeteksi — bebas tangan", "Respons 200–300ms — menyamai Acaia dengan harga lebih murah"],
-      "cons": ["Tampilan miring hanya berguna untuk setup espresso — kurang relevan untuk pour-over"],
+      "pros": [
+        "Tampilan miring 10 derajat — dapat dibaca di atas portafilter tanpa membungkuk",
+        "Timer mulai otomatis diaktifkan saat berat terdeteksi — bebas tangan",
+        "Respons 200–300ms — menyamai Acaia dengan harga lebih murah"
+      ],
+      "cons": [
+        "Tampilan miring hanya berguna untuk setup espresso — kurang relevan untuk pour-over"
+      ],
       "grade": "B",
-      "specs": {"Resolusi": "0,1g", "Waktu respons": "~200–300ms", "Daya": "Pengisian USB-C", "Tampilan": "Kemiringan 10 derajat", "Timer": "Mulai otomatis saat berat terdeteksi"},
-      "scores": {"Kualitas bangunan": 4.3, "Kualitas seduhan": 4.7, "Kemudahan penggunaan": 4.4, "Nilai": 4.0, "Keserbagunaan": 3.8}
+      "specs": {
+        "Resolusi": "0,1g",
+        "Waktu respons": "~200–300ms",
+        "Daya": "Pengisian USB-C",
+        "Tampilan": "Kemiringan 10 derajat",
+        "Timer": "Mulai otomatis saat berat terdeteksi"
+      },
+      "scores": {
+        "Kualitas bangunan": 4.3,
+        "Kualitas seduhan": 4.7,
+        "Kemudahan penggunaan": 4.4,
+        "Nilai": 4.0,
+        "Keserbagunaan": 3.8
+      }
     },
     {
       "offerId": "coffee-gator-pour-over-scale",
       "badge": "Terbaik Tingkat Pemula",
       "review": "Coffee Gator Pour-Over Scale adalah titik masuk — menambahkan timer dan pengukuran 0,1g ke rutinitas pour-over dasar dengan biaya terendah ($25–40). Waktu respons 1–2 detik adalah yang paling lambat di sini dan akan menyebabkan overshoot yang konsisten saat menuang ke target berat tepat, tetapi untuk pemula yang mempelajari ritual, kebiasaan timer dan pengukuran lebih penting dari presisi milidetik. Ini adalah peningkatan berarti dari timbangan dapur mana pun.",
-      "pros": ["Harga terendah di antara timbangan kopi khusus — $25–40", "Timer bawaan menambahkan pelacakan waktu seduh esensial", "Peningkatan nyata dari timbangan dapur untuk penggunaan pour-over"],
-      "cons": ["Respons 1–2 detik menyebabkan overshoot berat saat menuang ke target tepat"],
+      "pros": [
+        "Harga terendah di antara timbangan kopi khusus — $25–40",
+        "Timer bawaan menambahkan pelacakan waktu seduh esensial",
+        "Peningkatan nyata dari timbangan dapur untuk penggunaan pour-over"
+      ],
+      "cons": [
+        "Respons 1–2 detik menyebabkan overshoot berat saat menuang ke target tepat"
+      ],
       "grade": "B-",
-      "specs": {"Resolusi": "0,1g", "Waktu respons": "1–2 detik", "Daya": "Baterai AA", "Timer": "Bawaan", "Target pengguna": "Pemula / pour-over kasual"},
-      "scores": {"Kualitas bangunan": 3.3, "Kualitas seduhan": 3.5, "Kemudahan penggunaan": 4.5, "Nilai": 4.8, "Keserbagunaan": 3.8}
+      "specs": {
+        "Resolusi": "0,1g",
+        "Waktu respons": "1–2 detik",
+        "Daya": "Baterai AA",
+        "Timer": "Bawaan",
+        "Target pengguna": "Pemula / pour-over kasual"
+      },
+      "scores": {
+        "Kualitas bangunan": 3.3,
+        "Kualitas seduhan": 3.5,
+        "Kemudahan penggunaan": 4.5,
+        "Nilai": 4.8,
+        "Keserbagunaan": 3.8
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk pembuat kopi rumahan yang serius", "offerId": "acaia-pearl-coffee-scale", "reason": "Standar referensi — respons 300ms, pencatatan Bluetooth, dan kualitas bangunan yang melampaui timbangan lebih murah selama bertahun-tahun."},
-    {"label": "Untuk sebagian besar setup pour-over rumahan", "offerId": "timemore-black-mirror-scale", "reason": "Semua fitur timbangan kopi esensial seharga $40–60 — rekomendasi default yang mencakup 80% pengguna."},
-    {"label": "Untuk setup espresso", "offerId": "felicita-incline-coffee-scale", "reason": "Tampilan miring benar-benar dapat dibaca di atas portafilter — satu-satunya keunggulan ergonomis yang penting khusus untuk espresso."},
-    {"label": "Untuk pengguna ekosistem V60", "offerId": "hario-v60-drip-scale", "reason": "Daya tahan 80 jam dan kesederhanaan satu tombol melengkapi seduh V60 — dan kohesi visual adalah bonus."},
-    {"label": "Untuk pemula pour-over", "offerId": "coffee-gator-pour-over-scale", "reason": "Seharga $25–40 memperkenalkan kebiasaan timer dan pengukuran tanpa memerlukan investasi serius sebelum Anda tahu apakah akan bertahan."}
+    {
+      "label": "Untuk pembuat kopi rumahan yang serius",
+      "offerId": "acaia-pearl-coffee-scale",
+      "reason": "Standar referensi — respons 300ms, pencatatan Bluetooth, dan kualitas bangunan yang melampaui timbangan lebih murah selama bertahun-tahun."
+    },
+    {
+      "label": "Untuk sebagian besar setup pour-over rumahan",
+      "offerId": "timemore-black-mirror-scale",
+      "reason": "Semua fitur timbangan kopi esensial seharga $40–60 — rekomendasi default yang mencakup 80% pengguna."
+    },
+    {
+      "label": "Untuk setup espresso",
+      "offerId": "felicita-incline-coffee-scale",
+      "reason": "Tampilan miring benar-benar dapat dibaca di atas portafilter — satu-satunya keunggulan ergonomis yang penting khusus untuk espresso."
+    },
+    {
+      "label": "Untuk pengguna ekosistem V60",
+      "offerId": "hario-v60-drip-scale",
+      "reason": "Daya tahan 80 jam dan kesederhanaan satu tombol melengkapi seduh V60 — dan kohesi visual adalah bonus."
+    },
+    {
+      "label": "Untuk pemula pour-over",
+      "offerId": "coffee-gator-pour-over-scale",
+      "reason": "Seharga $25–40 memperkenalkan kebiasaan timer dan pengukuran tanpa memerlukan investasi serius sebelum Anda tahu apakah akan bertahan."
+    }
   ]
 }

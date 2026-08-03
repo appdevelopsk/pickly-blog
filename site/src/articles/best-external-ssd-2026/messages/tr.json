@@ -1,8 +1,8 @@
 {
   "title": "2026 En İyi Harici SSD: 5 Seçeneğin Karşılaştırması",
-  "description": "Samsung T9 (2.000/1.950 MB/s USB 3.2 Gen 2x2, TBW 600 TB, 4 TB'a kadar, ~$90/1TB) vs SanDisk Extreme V2 (1.050/1.000 MB/s USB 3.2 Gen 2, IP65, dövme alüminyum, ~$70/1TB) vs WD My Passport SSD (1.050/1.000 MB/s, AES 256-bit şifreleme, ~$60/1TB) vs Crucial X9 Pro (1.050/1.000 MB/s, IP55, TBW 600 TB, alüminyum, ~$70/1TB) vs Seagate One Touch SSD (1.030/1.000 MB/s, Seagate Toolkit yedekleme, ~$50/500GB). Okuma/yazma hızı, TBW dayanıklılığı, form faktörü ve USB arayüz gerçekliği dürüstçe karşılaştırıldı.",
+  "description": "Okuma/yazma hızı, TBW dayanıklılığı, form faktörü ve USB arayüz gerçekliği dürüstçe karşılaştırıldı.",
   "lede": "Uygun fiyatlıdan premium seviyeye beş taşınabilir SSD — USB arayüz sınırına mı yoksa gerçek NAND flash sınırına mı ulaştığını belirleyen hız ve dayanıklılık özelliklerine göre karşılaştırıldı; pek çok kablonun karşılayamadığı pazarlama vaatleri değil.",
-  "methodology": "Teknik özellikler üretici tarafından yayınlanan veri sayfalarından alındı. Bağımsız sıralı okuma/yazma hızı testleri veya dayanıklılık testleri yapılmadı. Hız değerleri, USB 3.2 Gen 2x2 veya Gen 2 uyumlu kablolar kullanıldığında ideal koşullar altında üretici özelliklerini yansıtmaktadır. Gerçek dünyadaki sürekli hızlar ana denetleyiciye, kablo kalitesine, termal kısıtlamaya ve dosya iş yükü türüne göre farklılık gösterebilir.",
+  "methodology": "Teknik özellikler üretici tarafından yayınlanan veri sayfalarından alındı. Bağımsız sıralı okuma/yazma hızı testleri veya dayanıklılık testleri yapılmadı. Hız değerleri, USB 3.2 Gen 2x2 veya Gen 2 uyumlu kablolar kullanıldığında ideal koşullar altında üretici özelliklerini yansıtmaktadır. Gerçek dünyadaki sürekli hızlar ana denetleyiciye, kablo kalitesine, termal kısıtlamaya ve dosya iş yükü türüne göre farklılık gösterebilir. We did not test these products ourselves.",
   "recommendedFor": [
     {
       "label": "USB 3.2 Gen 2x2 ana bağlantı noktasına sahip ve büyük dosya iş akışı olan kullanıcılar için",
@@ -263,5 +263,5 @@
     "ext-ssd-crucial-x9-pro": "600 TB TBW rakamları 2 TB model için geçerlidir — 1 TB modelin TBW'si daha düşüktür; belirli kapasite TBW derecelendirmesi için ürün sayfasını kontrol edin.",
     "ext-ssd-seagate-one-touch": "Seagate Toolkit Windows ve macOS için kullanılabilir; macOS'ta Time Machine uyumluluğu ek yazılım gerektirmeden desteklenir."
   },
-  "pinDescription": "2026 için 5 harici SSD karşılaştırması — Samsung T9 2000MB/s Gen2x2 vs SanDisk Extreme IP65 sağlam vs WD My Passport AES şifreli vs Crucial X9 Pro 600TB TBW vs Seagate One Touch bütçe dostu. USB gerçeği, TBW gerçekleri, hız sınırı gerçekliği."
+  "pinDescription": "USB gerçeği, TBW gerçekleri, hız sınırı gerçekliği."
 }

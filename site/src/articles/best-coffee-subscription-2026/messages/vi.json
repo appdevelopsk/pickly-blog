@@ -93,14 +93,20 @@
     "peets-coffee-subscription": "Gói đăng ký cà phê xay phổ thông tốt nhất — Major Dickason's Blend ở mức ~12-15 đô/12 ounce, vận chuyển miễn phí, không có đường cong học. Rang đậm nhất quán, được yêu thích rộng rãi vì tính có thể đoán trước. Tốt nhất cho người uống muốn cùng một tách đáng tin cậy mỗi sáng. Giới hạn: không có sự đa dạng."
   },
   "pinDescription": "So sánh 5 gói đăng ký cà phê cho năm 2026: Trade Coffee so với Atlas Coffee Club so với Onyx so với Angels' Cup so với Peet's. Độ tươi, giá mỗi ounce, cá nhân hóa — tìm gói đăng ký phù hợp trước khi hết túi tiếp theo.",
-  "methodology": "Mỗi gói đăng ký được đánh giá dựa trên độ tươi theo ngày rang khi giao hàng, độ chính xác cá nhân hóa sau 3+ đơn hàng, giá mỗi ounce được chuẩn hóa theo kích thước túi, tùy chọn xay và sự dễ dàng tạm dừng hoặc bỏ qua các lô hàng.",
+  "methodology": "Mỗi gói đăng ký được đánh giá dựa trên độ tươi theo ngày rang khi giao hàng, độ chính xác cá nhân hóa sau 3+ đơn hàng, giá mỗi ounce được chuẩn hóa theo kích thước túi, tùy chọn xay và sự dễ dàng tạm dừng hoặc bỏ qua các lô hàng. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "trade-coffee-subscription",
       "badge": "Tốt Nhất Tổng Thể",
       "review": "Thuật toán khớp sở thích của Trade Coffee lấy từ hơn 60 nhà rang độc lập và giao hàng trong 1-3 ngày sau khi rang — kết hợp sự đa dạng và độ tươi mà không có gói đăng ký một nhà rang nào có thể sánh được. Sự đánh đổi thực tế: thuật toán cần 3-5 đơn hàng để hiệu chỉnh, vì vậy các túi đầu tiên có thể không chính xác.",
-      "pros": ["Mạng lưới 60+ nhà rang bao gồm nhiều loại xuất xứ và phong cách", "Ngày rang in trên mỗi túi — minh bạch hoàn toàn về độ tươi", "Vòng phản hồi đánh giá liên tục tinh chỉnh các kết quả khớp trong tương lai"],
-      "cons": ["Các lần giao hàng đầu tiên có thể không khớp với khẩu vị cho đến khi thuật toán học được đánh giá của bạn"],
+      "pros": [
+        "Mạng lưới 60+ nhà rang bao gồm nhiều loại xuất xứ và phong cách",
+        "Ngày rang in trên mỗi túi — minh bạch hoàn toàn về độ tươi",
+        "Vòng phản hồi đánh giá liên tục tinh chỉnh các kết quả khớp trong tương lai"
+      ],
+      "cons": [
+        "Các lần giao hàng đầu tiên có thể không khớp với khẩu vị cho đến khi thuật toán học được đánh giá của bạn"
+      ],
       "grade": "A+",
       "specs": {
         "Mạng lưới nhà rang": "60+ nhà rang độc lập",
@@ -110,14 +116,26 @@
         "Tùy chọn xay": "Hạt nguyên vẹn + 4 loại xay sẵn",
         "Linh hoạt đăng ký": "Hàng tuần đến mỗi 8 tuần"
       },
-      "scores": {"Độ tươi": 4.9, "Hương vị": 4.7, "Giá trị": 4.3, "Sự tiện lợi": 4.5, "Cá nhân hóa": 4.8}
+      "scores": {
+        "Độ tươi": 4.9,
+        "Hương vị": 4.7,
+        "Giá trị": 4.3,
+        "Sự tiện lợi": 4.5,
+        "Cá nhân hóa": 4.8
+      }
     },
     {
       "offerId": "atlas-coffee-club",
       "badge": "Tốt Nhất Cho Người Khám Phá",
       "review": "Atlas Coffee Club giao một quốc gia sản xuất khác nhau mỗi tháng với túi in ngày rang và bưu thiếp giáo dục — định dạng tốt nhất cho người uống cà phê theo cách người yêu rượu vang tiếp cận khám phá vùng. Không có cá nhân hóa nghĩa là bạn nhận được lựa chọn biên tập của Atlas.",
-      "pros": ["Quốc gia xuất xứ mới mỗi tháng với sự đa dạng địa lý thực sự", "In ngày rang, giao hàng trong vài ngày sau khi rang", "Bưu thiếp xuất xứ với ghi chú hương vị và chi tiết phương pháp chế biến"],
-      "cons": ["Không có cá nhân hóa — không thể chỉ định sở thích hương vị hoặc loại trừ các loại quy trình"],
+      "pros": [
+        "Quốc gia xuất xứ mới mỗi tháng với sự đa dạng địa lý thực sự",
+        "In ngày rang, giao hàng trong vài ngày sau khi rang",
+        "Bưu thiếp xuất xứ với ghi chú hương vị và chi tiết phương pháp chế biến"
+      ],
+      "cons": [
+        "Không có cá nhân hóa — không thể chỉ định sở thích hương vị hoặc loại trừ các loại quy trình"
+      ],
       "grade": "A",
       "specs": {
         "Mô hình tìm nguồn": "Single origin, quốc gia xoay vòng hàng tháng",
@@ -127,14 +145,26 @@
         "Tùy chọn xay": "Hạt nguyên vẹn (xay theo yêu cầu)",
         "Linh hoạt đăng ký": "Bỏ qua, tạm dừng hoặc hủy bất cứ lúc nào"
       },
-      "scores": {"Độ tươi": 4.7, "Hương vị": 4.6, "Giá trị": 4.5, "Sự tiện lợi": 4.4, "Cá nhân hóa": 2.5}
+      "scores": {
+        "Độ tươi": 4.7,
+        "Hương vị": 4.6,
+        "Giá trị": 4.5,
+        "Sự tiện lợi": 4.4,
+        "Cá nhân hóa": 2.5
+      }
     },
     {
       "offerId": "onyx-coffee-lab-subscription",
       "badge": "Trần Chất Lượng Tốt Nhất",
       "review": "Onyx rang theo đơn hàng và giao hàng trong 24-48 giờ sau khi rang — nằm trong số nhanh nhất trong danh mục — và nguồn cung của họ nhắm vào các lô điểm cao, process-forward mà bạn sẽ không tìm thấy ở bán lẻ. Thẩm mỹ hẹp (rang nhạt hơn, trái cây) là điểm mạnh cho người mua đã biết họ muốn gì.",
-      "pros": ["Rang theo đơn, giao hàng trong 24-48 giờ — giao hàng tươi nhanh nhất được thử nghiệm", "Tìm nguồn cung ứng chất lượng cao nhất quán: lô cấp độ thi đấu và tính minh bạch của quy trình", "Chiết khấu đăng ký làm cho giá cao cấp bền vững hơn"],
-      "cons": ["Thẩm mỹ rang hẹp — không phù hợp với sở thích rang đậm hoặc pha trộn"],
+      "pros": [
+        "Rang theo đơn, giao hàng trong 24-48 giờ — giao hàng tươi nhanh nhất được thử nghiệm",
+        "Tìm nguồn cung ứng chất lượng cao nhất quán: lô cấp độ thi đấu và tính minh bạch của quy trình",
+        "Chiết khấu đăng ký làm cho giá cao cấp bền vững hơn"
+      ],
+      "cons": [
+        "Thẩm mỹ rang hẹp — không phù hợp với sở thích rang đậm hoặc pha trộn"
+      ],
       "grade": "B+",
       "specs": {
         "Mô hình tìm nguồn": "Nhà rang đơn (rang của chính Onyx)",
@@ -144,14 +174,26 @@
         "Tùy chọn xay": "Chỉ hạt nguyên vẹn",
         "Linh hoạt đăng ký": "Bảng điều khiển tự phục vụ, có tùy chọn tạm dừng/bỏ qua"
       },
-      "scores": {"Độ tươi": 5.0, "Hương vị": 4.8, "Giá trị": 3.8, "Sự tiện lợi": 4.2, "Cá nhân hóa": 2.0}
+      "scores": {
+        "Độ tươi": 5.0,
+        "Hương vị": 4.8,
+        "Giá trị": 3.8,
+        "Sự tiện lợi": 4.2,
+        "Cá nhân hóa": 2.0
+      }
     },
     {
       "offerId": "angels-cup-subscription",
       "badge": "Bộ Huấn Luyện Khẩu Vị Tốt Nhất",
       "review": "Angels' Cup gửi các gói mẫu được đánh số và không có nhãn được thiết kế để nếm mù trước khi tiết lộ xuất xứ — một định dạng thực sự độc đáo xây dựng kỹ năng nếm thử hơn là thói quen. Chi phí mỗi ounce là cao nhất trong năm, và định dạng này không hoạt động như nguồn cung cà phê hàng ngày chính.",
-      "pros": ["Định dạng nếm mù loại bỏ thiên kiến xuất xứ và phát triển đánh giá khẩu vị chính xác", "Giao hàng trong 1-5 ngày sau khi rang với bao bì mẫu được đánh số", "Thành viên tiết lộ chi tiết xuất xứ sau khi nếm để học có cấu trúc"],
-      "cons": ["Định dạng mẫu không thực tế như nguồn cung cà phê hàng ngày chính — chi phí mỗi ounce cao"],
+      "pros": [
+        "Định dạng nếm mù loại bỏ thiên kiến xuất xứ và phát triển đánh giá khẩu vị chính xác",
+        "Giao hàng trong 1-5 ngày sau khi rang với bao bì mẫu được đánh số",
+        "Thành viên tiết lộ chi tiết xuất xứ sau khi nếm để học có cấu trúc"
+      ],
+      "cons": [
+        "Định dạng mẫu không thực tế như nguồn cung cà phê hàng ngày chính — chi phí mỗi ounce cao"
+      ],
       "grade": "B",
       "specs": {
         "Mô hình tìm nguồn": "Bộ mẫu nếm mù đa nhà rang",
@@ -161,14 +203,26 @@
         "Tùy chọn xay": "Mẫu xay sẵn; hạt nguyên vẹn trong gói đăng ký túi",
         "Linh hoạt đăng ký": "Hủy trực tuyến và bỏ qua từ cổng thành viên"
       },
-      "scores": {"Độ tươi": 4.6, "Hương vị": 4.5, "Giá trị": 3.5, "Sự tiện lợi": 3.8, "Cá nhân hóa": 3.0}
+      "scores": {
+        "Độ tươi": 4.6,
+        "Hương vị": 4.5,
+        "Giá trị": 3.5,
+        "Sự tiện lợi": 3.8,
+        "Cá nhân hóa": 3.0
+      }
     },
     {
       "offerId": "peets-coffee-subscription",
       "badge": "Lựa Chọn Tốt Nhất Không Rắc Rối",
       "review": "Gói đăng ký Peet's Major Dickason's Blend cung cấp chất lượng rang đậm nhất quán ở giá mỗi ounce thấp nhất trong năm, với vận chuyển miễn phí và không có đường cong học. Đây là câu trả lời đúng cho bất kỳ ai muốn cùng một tách đáng tin cậy mỗi sáng — và hoàn toàn sai cho bất kỳ ai quan tâm đến rang specialty hoặc sự đa dạng.",
-      "pros": ["Giá mỗi ounce thấp nhất với vận chuyển miễn phí", "Đặc tính rang đậm nhất quán — không có bất ngờ hay giống cây xoay vòng", "Tùy chọn xay sẵn có sẵn rộng rãi — không cần máy xay"],
-      "cons": ["Không có sự đa dạng; hồ sơ rang đậm sẽ không thỏa mãn người uống cà phê specialty rang nhạt"],
+      "pros": [
+        "Giá mỗi ounce thấp nhất với vận chuyển miễn phí",
+        "Đặc tính rang đậm nhất quán — không có bất ngờ hay giống cây xoay vòng",
+        "Tùy chọn xay sẵn có sẵn rộng rãi — không cần máy xay"
+      ],
+      "cons": [
+        "Không có sự đa dạng; hồ sơ rang đậm sẽ không thỏa mãn người uống cà phê specialty rang nhạt"
+      ],
       "grade": "B-",
       "specs": {
         "Hỗn hợp": "Major Dickason's Blend (rang đậm)",
@@ -178,14 +232,40 @@
         "Tùy chọn xay": "Hạt nguyên vẹn và tất cả các loại xay",
         "Linh hoạt đăng ký": "Bỏ qua và tạm dừng qua cổng Peet's"
       },
-      "scores": {"Độ tươi": 4.2, "Hương vị": 4.0, "Giá trị": 4.8, "Sự tiện lợi": 4.9, "Cá nhân hóa": 1.0}
+      "scores": {
+        "Độ tươi": 4.2,
+        "Hương vị": 4.0,
+        "Giá trị": 4.8,
+        "Sự tiện lợi": 4.9,
+        "Cá nhân hóa": 1.0
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Cho người uống tò mò muốn đa dạng mà không cần nghiên cứu", "offerId": "trade-coffee-subscription", "reason": "Thuật toán sở thích xử lý việc khám phá nhà rang; bạn chỉ cần đánh giá những gì bạn nhận được."},
-    {"label": "Cho người khám phá cà phê được thúc đẩy bởi địa lý", "offerId": "atlas-coffee-club", "reason": "Một quốc gia khác mỗi tháng với bối cảnh xuất xứ — có hệ thống và mang tính giáo dục."},
-    {"label": "Cho người mua đã thích cà phê specialty nhạt, process-forward", "offerId": "onyx-coffee-lab-subscription", "reason": "Rang theo đơn với thời gian giao hàng nhanh nhất và không có thỏa hiệp về cấp chất lượng."},
-    {"label": "Cho những người muốn phát triển khẩu vị qua việc nếm mù", "offerId": "angels-cup-subscription", "reason": "Gói đăng ký duy nhất cấu trúc khám phá như bài tập nếm thử hơn là nguồn cung hàng ngày."},
-    {"label": "Cho bất kỳ ai chỉ muốn cà phê xay đậm đáng tin cậy được giao", "offerId": "peets-coffee-subscription", "reason": "Nhất quán, giá phải chăng, xay sẵn — không có đường cong học, không có bất ngờ."}
+    {
+      "label": "Cho người uống tò mò muốn đa dạng mà không cần nghiên cứu",
+      "offerId": "trade-coffee-subscription",
+      "reason": "Thuật toán sở thích xử lý việc khám phá nhà rang; bạn chỉ cần đánh giá những gì bạn nhận được."
+    },
+    {
+      "label": "Cho người khám phá cà phê được thúc đẩy bởi địa lý",
+      "offerId": "atlas-coffee-club",
+      "reason": "Một quốc gia khác mỗi tháng với bối cảnh xuất xứ — có hệ thống và mang tính giáo dục."
+    },
+    {
+      "label": "Cho người mua đã thích cà phê specialty nhạt, process-forward",
+      "offerId": "onyx-coffee-lab-subscription",
+      "reason": "Rang theo đơn với thời gian giao hàng nhanh nhất và không có thỏa hiệp về cấp chất lượng."
+    },
+    {
+      "label": "Cho những người muốn phát triển khẩu vị qua việc nếm mù",
+      "offerId": "angels-cup-subscription",
+      "reason": "Gói đăng ký duy nhất cấu trúc khám phá như bài tập nếm thử hơn là nguồn cung hàng ngày."
+    },
+    {
+      "label": "Cho bất kỳ ai chỉ muốn cà phê xay đậm đáng tin cậy được giao",
+      "offerId": "peets-coffee-subscription",
+      "reason": "Nhất quán, giá phải chăng, xay sẵn — không có đường cong học, không có bất ngờ."
+    }
   ]
 }

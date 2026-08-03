@@ -61,64 +61,174 @@
     "bare-bones-broth": "Formula bersih 4 bahan, sapi makan rumput, merek milik perempuan"
   },
   "pinDescription": "5 kaldu tulang terbaik berdasarkan protein, kolagen, dan sumber bahan — dari simpan lama sehari-hari hingga botol kaca premium. Temukan pilihan yang tepat untuk kesehatan usus, sendi, atau memasak.",
-  "methodology": "Kami menilai setiap produk berdasarkan profil rasa, transparansi sumber bahan, nilai per sajian, integritas kemasan, dan seberapa baik kinerjanya di berbagai kasus penggunaan umum. Sertifikasi yang terdokumentasi dan ulasan pengguna yang terverifikasi diperiksa silang dengan klaim pemasaran.",
+  "methodology": "Kami menilai setiap produk berdasarkan profil rasa, transparansi sumber bahan, nilai per sajian, integritas kemasan, dan seberapa baik kinerjanya di berbagai kasus penggunaan umum. Sertifikasi yang terdokumentasi dan ulasan pengguna yang terverifikasi diperiksa silang dengan klaim pemasaran. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "kettle-fire-beef-broth",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "Kettle & Fire adalah kaldu tulang simpan lama terbaik untuk penggunaan sehari-hari: tulang sapi makan rumput, 10g protein per sajian, daftar bahan singkat, dan karton Tetra Pak yang hidup di dapur Anda. Rasanya gurih dan bersih — cukup lembut untuk diminum, cukup kaya sebagai dasar braising. Pemrosesan UHT sedikit mengurangi beberapa asam amino versus opsi segar, tetapi keuntungan kemudahannya nyata dan bermakna.",
-      "pros": ["Simpan lama — tidak perlu ruang kulkas", "10g protein per sajian dari tulang makan rumput", "Daftar bahan singkat dan mudah dikenali dengan sayuran organik"],
-      "cons": ["Pemrosesan UHT mungkin mengurangi beberapa konsentrasi asam amino vs. opsi dingin"],
+      "pros": [
+        "Simpan lama — tidak perlu ruang kulkas",
+        "10g protein per sajian dari tulang makan rumput",
+        "Daftar bahan singkat dan mudah dikenali dengan sayuran organik"
+      ],
+      "cons": [
+        "Pemrosesan UHT mungkin mengurangi beberapa konsentrasi asam amino vs. opsi dingin"
+      ],
       "grade": "A+",
-      "specs": {"Protein": "10g per sajian", "Format": "Tetra Pak (simpan lama)", "Tulang": "Sapi makan rumput", "Ukuran sajian": "1 cangkir (240 ml)", "Sayuran organik": "Ya"},
-      "scores": {"Kualitas": 4.5, "Rasa": 4.3, "Nilai": 4.4, "Nutrisi": 4.4, "Kemudahan": 4.9}
+      "specs": {
+        "Protein": "10g per sajian",
+        "Format": "Tetra Pak (simpan lama)",
+        "Tulang": "Sapi makan rumput",
+        "Ukuran sajian": "1 cangkir (240 ml)",
+        "Sayuran organik": "Ya"
+      },
+      "scores": {
+        "Kualitas": 4.5,
+        "Rasa": 4.3,
+        "Nilai": 4.4,
+        "Nutrisi": 4.4,
+        "Kemudahan": 4.9
+      }
     },
     {
       "offerId": "fond-bone-broth",
       "badge": "Terbaik Premium",
       "review": "FOND adalah kaldu tulang untuk mereka yang telah membaca setiap label: diternakkan di padang, bersertifikat organik, botol kaca, dikirim dingin. Mengeras menjadi jeli padat saat didinginkan — indikator andal kandungan gelatin tinggi yang sebenarnya. Rasa herba kaya dari thyme, rosemary, dan daun salam yang direbus perlahan cukup kaya untuk digunakan sebagai consommé, yang dapat mengalahkan aplikasi memasak netral. Layak premium jika kandungan kolagen adalah poinnya.",
-      "pros": ["Mengeras padat saat dingin — mengonfirmasi kandungan gelatin dan kolagen tinggi", "Botol kaca — tidak ada pencucian plastik saat dipanaskan", "Sumber bahan diternakkan di padang, bersertifikat organik"],
-      "cons": ["Kira-kira dua kali harga Kettle & Fire — hanya pengiriman dingin"],
+      "pros": [
+        "Mengeras padat saat dingin — mengonfirmasi kandungan gelatin dan kolagen tinggi",
+        "Botol kaca — tidak ada pencucian plastik saat dipanaskan",
+        "Sumber bahan diternakkan di padang, bersertifikat organik"
+      ],
+      "cons": [
+        "Kira-kira dua kali harga Kettle & Fire — hanya pengiriman dingin"
+      ],
       "grade": "A",
-      "specs": {"Protein": "~9–10g per sajian", "Format": "Botol kaca (dingin)", "Tulang": "Diternakkan di padang, bersertifikat organik", "Gelatin": "Mengeras padat saat didinginkan", "Rebusan": "Direbus lambat dengan rempah"},
-      "scores": {"Kualitas": 4.9, "Rasa": 4.7, "Nilai": 3.2, "Nutrisi": 4.8, "Kemudahan": 3.5}
+      "specs": {
+        "Protein": "~9–10g per sajian",
+        "Format": "Botol kaca (dingin)",
+        "Tulang": "Diternakkan di padang, bersertifikat organik",
+        "Gelatin": "Mengeras padat saat didinginkan",
+        "Rebusan": "Direbus lambat dengan rempah"
+      },
+      "scores": {
+        "Kualitas": 4.9,
+        "Rasa": 4.7,
+        "Nilai": 3.2,
+        "Nutrisi": 4.8,
+        "Kemudahan": 3.5
+      }
     },
     {
       "offerId": "pacific-foods-bone-broth",
       "badge": "Nilai Harian Terbaik",
       "review": "Pacific Foods adalah kaldu tulang yang bisa Anda ambil di Costco atau Target tanpa perencanaan — bersertifikat USDA Organik, sekitar $5–7 per karton 32 oz. Protein 9–10g per sajian dan rasanya bersih dan netral, membuatnya lebih baik dari FOND untuk aplikasi memasak di mana kompleksitas herba akan bersaing. Kandungan gelatin lebih rendah (tidak mengeras saat dingin), sehingga kurang cocok untuk protokol penyembuhan usus yang khusus.",
-      "pros": ["USDA Organik dengan harga ritel umum", "Tersedia luas di Costco, Target, dan sebagian besar jaringan toko kelontong", "Rasa netral ideal untuk aplikasi memasak"],
-      "cons": ["Tidak mengeras saat dingin — konsentrasi gelatin lebih rendah dari alternatif premium"],
+      "pros": [
+        "USDA Organik dengan harga ritel umum",
+        "Tersedia luas di Costco, Target, dan sebagian besar jaringan toko kelontong",
+        "Rasa netral ideal untuk aplikasi memasak"
+      ],
+      "cons": [
+        "Tidak mengeras saat dingin — konsentrasi gelatin lebih rendah dari alternatif premium"
+      ],
       "grade": "B+",
-      "specs": {"Protein": "9–10g per sajian", "Format": "Tetra Pak (simpan lama)", "Sertifikasi": "USDA Organik", "Ritel": "Tersedia luas", "Sodium rendah": "Opsi tersedia"},
-      "scores": {"Kualitas": 3.9, "Rasa": 3.8, "Nilai": 4.7, "Nutrisi": 3.9, "Kemudahan": 4.8}
+      "specs": {
+        "Protein": "9–10g per sajian",
+        "Format": "Tetra Pak (simpan lama)",
+        "Sertifikasi": "USDA Organik",
+        "Ritel": "Tersedia luas",
+        "Sodium rendah": "Opsi tersedia"
+      },
+      "scores": {
+        "Kualitas": 3.9,
+        "Rasa": 3.8,
+        "Nilai": 4.7,
+        "Nutrisi": 3.9,
+        "Kemudahan": 4.8
+      }
     },
     {
       "offerId": "ancient-nutrition-bone-broth",
       "badge": "Terbaik untuk Dosis Kolagen",
       "review": "Ancient Nutrition mengambil pendekatan berbeda — format bubuk memberikan 20g protein kolagen per sajian dari sumber sapi, ayam, ikan, dan putih telur, versus 7–12g dari kebanyakan kaldu cair. Larut sempurna dalam cairan panas atau dingin. Keterbatasan jujur: ini adalah suplemen kolagen yang dikemas di bawah payung merek kaldu tulang, bukan kaldu dengan kedalaman rasa atau bahan aromatik.",
-      "pros": ["20g protein kolagen per sajian — tertinggi dari opsi mana pun di sini", "Kolagen multi-sumber (sapi, ayam, ikan, putih telur)", "Larut tanpa menggumpal dalam cairan panas atau dingin"],
-      "cons": ["Tidak ada rasa kaldu, bahan aromatik, atau kegunaan memasak — ini suplemen, bukan kaldu"],
+      "pros": [
+        "20g protein kolagen per sajian — tertinggi dari opsi mana pun di sini",
+        "Kolagen multi-sumber (sapi, ayam, ikan, putih telur)",
+        "Larut tanpa menggumpal dalam cairan panas atau dingin"
+      ],
+      "cons": [
+        "Tidak ada rasa kaldu, bahan aromatik, atau kegunaan memasak — ini suplemen, bukan kaldu"
+      ],
       "grade": "B",
-      "specs": {"Protein": "20g kolagen per sajian", "Format": "Bubuk", "Sumber kolagen": "Sapi, ayam, ikan, putih telur", "Pilihan rasa": "Tanpa rasa, cokelat, vanilla", "Ketersediaan": "Costco, Walmart, pengecer suplemen"},
-      "scores": {"Kualitas": 4.2, "Rasa": 3.5, "Nilai": 4.0, "Nutrisi": 4.9, "Kemudahan": 4.5}
+      "specs": {
+        "Protein": "20g kolagen per sajian",
+        "Format": "Bubuk",
+        "Sumber kolagen": "Sapi, ayam, ikan, putih telur",
+        "Pilihan rasa": "Tanpa rasa, cokelat, vanilla",
+        "Ketersediaan": "Costco, Walmart, pengecer suplemen"
+      },
+      "scores": {
+        "Kualitas": 4.2,
+        "Rasa": 3.5,
+        "Nilai": 4.0,
+        "Nutrisi": 4.9,
+        "Kemudahan": 4.5
+      }
     },
     {
       "offerId": "bare-bones-broth",
       "badge": "Label Bersih Terbaik",
       "review": "Bare Bones menggunakan formula empat bahan — tulang, air, cuka sari apel, garam laut — tanpa perisa alami, ekstrak ragi, atau penstabil. Sapi makan rumput 100%, jeli lembut saat didinginkan (memastikan kandungan gelatin nyata), 10g protein per sajian. Kaldu langsung dan penuh daging tanpa terasa berat, cocok untuk diminum dan dimasak. Harga berada di antara pasar massal dan FOND.",
-      "pros": ["Formula 4 bahan — tidak ada perisa alami atau penstabil", "Jeli lembut saat didinginkan — kandungan gelatin yang bermakna", "Merek milik perempuan, berbasis misi dengan sumber bahan yang dapat dilacak"],
-      "cons": ["Distribusi kurang luas dibandingkan Pacific Foods atau Kettle & Fire"],
+      "pros": [
+        "Formula 4 bahan — tidak ada perisa alami atau penstabil",
+        "Jeli lembut saat didinginkan — kandungan gelatin yang bermakna",
+        "Merek milik perempuan, berbasis misi dengan sumber bahan yang dapat dilacak"
+      ],
+      "cons": [
+        "Distribusi kurang luas dibandingkan Pacific Foods atau Kettle & Fire"
+      ],
       "grade": "B-",
-      "specs": {"Protein": "10g per sajian", "Format": "Tetra Pak (simpan lama) + kantong beku", "Tulang": "100% sapi makan rumput", "Bahan": "4 (tulang, air, ACV, garam laut)", "Gelatin": "Mengeras menjadi jeli lembut saat didinginkan"},
-      "scores": {"Kualitas": 4.6, "Rasa": 4.4, "Nilai": 3.8, "Nutrisi": 4.6, "Kemudahan": 4.2}
+      "specs": {
+        "Protein": "10g per sajian",
+        "Format": "Tetra Pak (simpan lama) + kantong beku",
+        "Tulang": "100% sapi makan rumput",
+        "Bahan": "4 (tulang, air, ACV, garam laut)",
+        "Gelatin": "Mengeras menjadi jeli lembut saat didinginkan"
+      },
+      "scores": {
+        "Kualitas": 4.6,
+        "Rasa": 4.4,
+        "Nilai": 3.8,
+        "Nutrisi": 4.6,
+        "Kemudahan": 4.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk kemudahan dapur", "offerId": "kettle-fire-beef-broth", "reason": "Simpan lama, konsisten, dan tersedia online per koli — standar praktis untuk minum sehari-hari atau memasak malam hari."},
-    {"label": "Untuk protokol penyembuhan usus", "offerId": "fond-bone-broth", "reason": "Mengeras padat saat dingin, dikirim dingin, kandungan gelatin tertinggi — jika kolagen dan glisin adalah poinnya, ini layak mendapat premium."},
-    {"label": "Untuk memasak dalam jumlah besar", "offerId": "pacific-foods-bone-broth", "reason": "USDA Organik dengan harga Costco — pilihan tepat saat kaldu tulang adalah bahan memasak, bukan acara utama."},
-    {"label": "Untuk asupan kolagen maksimum", "offerId": "ancient-nutrition-bone-broth", "reason": "20g kolagen multi-sumber per sendok — cara paling efisien untuk menambahkan kolagen ke smoothie atau kopi pagi."},
-    {"label": "Untuk pembaca label dan pencari bahan bersih", "offerId": "bare-bones-broth", "reason": "Empat bahan, tanpa aditif, makan rumput — kaldu tulang format standar paling bersih dalam kategori ini."}
+    {
+      "label": "Untuk kemudahan dapur",
+      "offerId": "kettle-fire-beef-broth",
+      "reason": "Simpan lama, konsisten, dan tersedia online per koli — standar praktis untuk minum sehari-hari atau memasak malam hari."
+    },
+    {
+      "label": "Untuk protokol penyembuhan usus",
+      "offerId": "fond-bone-broth",
+      "reason": "Mengeras padat saat dingin, dikirim dingin, kandungan gelatin tertinggi — jika kolagen dan glisin adalah poinnya, ini layak mendapat premium."
+    },
+    {
+      "label": "Untuk memasak dalam jumlah besar",
+      "offerId": "pacific-foods-bone-broth",
+      "reason": "USDA Organik dengan harga Costco — pilihan tepat saat kaldu tulang adalah bahan memasak, bukan acara utama."
+    },
+    {
+      "label": "Untuk asupan kolagen maksimum",
+      "offerId": "ancient-nutrition-bone-broth",
+      "reason": "20g kolagen multi-sumber per sendok — cara paling efisien untuk menambahkan kolagen ke smoothie atau kopi pagi."
+    },
+    {
+      "label": "Untuk pembaca label dan pencari bahan bersih",
+      "offerId": "bare-bones-broth",
+      "reason": "Empat bahan, tanpa aditif, makan rumput — kaldu tulang format standar paling bersih dalam kategori ini."
+    }
   ]
 }

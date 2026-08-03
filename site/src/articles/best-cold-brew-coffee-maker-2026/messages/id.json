@@ -92,14 +92,20 @@
     "county-line-mason-jar-cold-brew": "Titik masuk biaya terendah — keranjang jaring baja tahan karat untuk toples Mason bermulut lebar. Jaring metal memungkinkan endapan; saring melalui kertas jika kejernihan penting. Terbaik sebagai percobaan tanpa komitmen atau pengaturan batch bervolume tinggi 1 galon."
   },
   "pinDescription": "5 pembuat cold brew coffee dibandingkan untuk 2026: menara tetes lambat OXO, filter felt Toddy, karaf kaca Primula Burke, karaf kompak Takeya, dan kit toples Mason County Line. Perendaman vs tetes lambat, jenis filter, waktu perendaman, dan rasio konsentrat dijelaskan.",
-  "methodology": "Setiap pembuat minuman dievaluasi berdasarkan metode ekstraksi (perendaman vs tetes lambat), jenis filter dan output endapan, kesesuaian kapasitas batch vs penggunaan harian, waktu pembersihan setelah sesi seduh nyata, dan apakah kualitas konstruksi membenarkan harga pada 12 bulan penggunaan mingguan.",
+  "methodology": "Setiap pembuat minuman dievaluasi berdasarkan metode ekstraksi (perendaman vs tetes lambat), jenis filter dan output endapan, kesesuaian kapasitas batch vs penggunaan harian, waktu pembersihan setelah sesi seduh nyata, dan apakah kualitas konstruksi membenarkan harga pada 12 bulan penggunaan mingguan. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "oxo-brew-compact-cold-brew",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "OXO Brew Compact adalah satu-satunya menara tetes lambat dalam perbandingan ini, yang berarti air segar selalu bersentuhan dengan bubuk kopi — tidak ada keseimbangan ekstraksi, lebih banyak kecerahan yang terjaga, terutama terlihat dengan biji single-origin panggang ringan. Pertukaran itu nyata: 12–16 oz per batch bukan sistem volume rumah tangga, dan harga $34 adalah yang tertinggi di sini untuk apa yang pada dasarnya adalah pembuat minuman harian 1–2 cangkir.",
-      "pros": ["Metode tetes lambat menjaga keasaman dan aroma lebih baik dari pembuat perendaman mana pun", "Karaf aluminium teranodisasi dan kaca borosilikat — perangkat keras terbaik dalam perbandingan ini", "Kenop kecepatan tetes yang dapat disesuaikan untuk kontrol ekstraksi yang tepat; filter kertas pra-filter menghasilkan output bersih bebas minyak"],
-      "cons": ["Hanya 12–16 oz per batch — tidak memadai untuk rumah tangga yang minum lebih dari 2 cangkir sehari"],
+      "pros": [
+        "Metode tetes lambat menjaga keasaman dan aroma lebih baik dari pembuat perendaman mana pun",
+        "Karaf aluminium teranodisasi dan kaca borosilikat — perangkat keras terbaik dalam perbandingan ini",
+        "Kenop kecepatan tetes yang dapat disesuaikan untuk kontrol ekstraksi yang tepat; filter kertas pra-filter menghasilkan output bersih bebas minyak"
+      ],
+      "cons": [
+        "Hanya 12–16 oz per batch — tidak memadai untuk rumah tangga yang minum lebih dari 2 cangkir sehari"
+      ],
       "grade": "A+",
       "specs": {
         "Metode seduh": "Menara tetes lambat",
@@ -109,14 +115,26 @@
         "Jenis filter": "Filter kertas pra-filter + ruang kaca",
         "Pembersihan": "Bilas karaf dan ruang — 5 menit"
       },
-      "scores": {"Rasa": 4.9, "Nilai": 4.0, "Kenyamanan": 4.3, "Kualitas": 4.8, "Kesegaran": 4.7}
+      "scores": {
+        "Rasa": 4.9,
+        "Nilai": 4.0,
+        "Kenyamanan": 4.3,
+        "Kualitas": 4.8,
+        "Kesegaran": 4.7
+      }
     },
     {
       "offerId": "toddy-cold-brew-home",
       "badge": "Terbaik untuk Batch Mingguan",
       "review": "Filtrasi bantalan felt tebal Toddy telah mendefinisikan standar referensi untuk konsentrat cold brew endapan rendah sejak 1964. Bantalan felt yang dikondisikan dengan benar menghasilkan output yang lebih mendekati kejernihan espresso daripada alternatif jaring metal. Pertukaran jujur: pengondisian bantalan felt dan penggantian setiap 2–3 bulan penggunaan mingguan adalah komitmen perawatan nyata yang pengguna yang melewatinya pada akhirnya akan perhatikan di cangkir mereka.",
-      "pros": ["Filtrasi bantalan felt adalah yang paling bersih dari semua sistem cold brew konsumen yang diuji — hampir nol endapan", "Kapasitas batch 1,5L mencakup persediaan seminggu penuh untuk 1–2 orang", "Dekanter kaca menyimpan konsentrat dengan bersih hingga 2 minggu"],
-      "cons": ["Bantalan felt memerlukan pengondisian sebelum setiap penggunaan dan penggantian setiap 2–3 bulan — biaya perawatan berkelanjutan"],
+      "pros": [
+        "Filtrasi bantalan felt adalah yang paling bersih dari semua sistem cold brew konsumen yang diuji — hampir nol endapan",
+        "Kapasitas batch 1,5L mencakup persediaan seminggu penuh untuk 1–2 orang",
+        "Dekanter kaca menyimpan konsentrat dengan bersih hingga 2 minggu"
+      ],
+      "cons": [
+        "Bantalan felt memerlukan pengondisian sebelum setiap penggunaan dan penggantian setiap 2–3 bulan — biaya perawatan berkelanjutan"
+      ],
       "grade": "A",
       "specs": {
         "Metode seduh": "Perendaman dengan filter bantalan felt",
@@ -126,14 +144,26 @@
         "Jenis filter": "Bantalan felt tebal",
         "Pembersihan": "Saluran gravitasi 30–45 menit + bilas; bantalan disimpan terendam"
       },
-      "scores": {"Rasa": 4.7, "Nilai": 4.5, "Kenyamanan": 3.8, "Kualitas": 4.9, "Kesegaran": 4.5}
+      "scores": {
+        "Rasa": 4.7,
+        "Nilai": 4.5,
+        "Kenyamanan": 3.8,
+        "Kualitas": 4.9,
+        "Kesegaran": 4.5
+      }
     },
     {
       "offerId": "primula-burke-cold-brew-carafe",
       "badge": "Karaf Kaca Harian Terbaik",
       "review": "Filter baja tahan karat jaring halus yang bisa dilepas dari Primula Burke dan karaf kaca borosilikat mencapai titik manis yang praktis: tidak ada bantalan felt untuk dikondisikan, tidak ada rakitan saluran, kaca aman mesin cuci piring, dan kapasitas 1,6L untuk penyeduhan setiap 2–3 hari. Output jaring halus memiliki lebih banyak endapan daripada felt Toddy tetapi lebih sedikit daripada keranjang County Line — tuangkan dari 85% atas dan itu cukup bersih untuk aplikasi apa pun.",
-      "pros": ["Filter yang bisa dilepas terangkat bersih — tidak perlu tunggu saluran gravitasi, tidak perlu kondisikan bantalan felt", "Karaf kaca borosilikat aman untuk mesin cuci piring dan tahan goresan", "Kapasitas 1,6L cocok untuk siklus seduh 2–3 hari untuk 1–2 orang"],
-      "cons": ["15% bawah konsentrat memiliki endapan halus — tuangkan dengan hati-hati atau kehilangan sedikit"],
+      "pros": [
+        "Filter yang bisa dilepas terangkat bersih — tidak perlu tunggu saluran gravitasi, tidak perlu kondisikan bantalan felt",
+        "Karaf kaca borosilikat aman untuk mesin cuci piring dan tahan goresan",
+        "Kapasitas 1,6L cocok untuk siklus seduh 2–3 hari untuk 1–2 orang"
+      ],
+      "cons": [
+        "15% bawah konsentrat memiliki endapan halus — tuangkan dengan hati-hati atau kehilangan sedikit"
+      ],
       "grade": "B+",
       "specs": {
         "Metode seduh": "Perendaman dengan filter jaring halus baja tahan karat",
@@ -143,14 +173,26 @@
         "Jenis filter": "Jaring baja tahan karat halus, bisa dilepas",
         "Pembersihan": "Angkat filter, bilas — 2 menit"
       },
-      "scores": {"Rasa": 4.5, "Nilai": 4.6, "Kenyamanan": 4.8, "Kualitas": 4.4, "Kesegaran": 4.4}
+      "scores": {
+        "Rasa": 4.5,
+        "Nilai": 4.6,
+        "Kenyamanan": 4.8,
+        "Kualitas": 4.4,
+        "Kesegaran": 4.4
+      }
     },
     {
       "offerId": "takeya-deluxe-cold-brew",
       "badge": "Terbaik untuk Penyimpanan Pintu Lemari Es",
       "review": "Fitur penentu Takeya Deluxe adalah faktor bentuk rak pintu lemari esnya: kapasitas 1L dalam karaf kaca berprofil sempit yang muat di mana wadah yang lebih lebar tidak bisa. Untuk rumah tangga 1–2 orang yang lebih suka batch kecil segar daripada persiapan batch mingguan, siklus seduh harian atau setiap dua hari bekerja secara alami dengan desain kompak. Tutup jaring halus dua lapis menyaring dengan cukup — tidak sebersih felt Toddy, tetapi lebih bersih dari keranjang County Line.",
-      "pros": ["Profil sempit muat di rak pintu lemari es — tidak perlu penataan ulang", "Tutup jaring halus dua lapis, tidak perlu komponen filter pengganti", "Kaca borosilikat tebal, aman untuk mesin cuci piring"],
-      "cons": ["Kapasitas 1L memerlukan penyeduhan yang sering (setiap hari atau setiap dua hari) untuk dua orang"],
+      "pros": [
+        "Profil sempit muat di rak pintu lemari es — tidak perlu penataan ulang",
+        "Tutup jaring halus dua lapis, tidak perlu komponen filter pengganti",
+        "Kaca borosilikat tebal, aman untuk mesin cuci piring"
+      ],
+      "cons": [
+        "Kapasitas 1L memerlukan penyeduhan yang sering (setiap hari atau setiap dua hari) untuk dua orang"
+      ],
       "grade": "B",
       "specs": {
         "Metode seduh": "Perendaman dengan tutup jaring halus dua lapis",
@@ -160,14 +202,26 @@
         "Jenis filter": "Jaring baja tahan karat halus dua lapis",
         "Pembersihan": "Lepas tutup, bilas — 2 menit"
       },
-      "scores": {"Rasa": 4.4, "Nilai": 4.5, "Kenyamanan": 4.7, "Kualitas": 4.3, "Kesegaran": 4.3}
+      "scores": {
+        "Rasa": 4.4,
+        "Nilai": 4.5,
+        "Kenyamanan": 4.7,
+        "Kualitas": 4.3,
+        "Kesegaran": 4.3
+      }
     },
     {
       "offerId": "county-line-mason-jar-cold-brew",
       "badge": "Terbaik Anggaran Terjangkau",
       "review": "Keranjang jaring baja tahan karat yang dipasang di toples Mason bermulut lebar standar — cara paling terjangkau untuk mencoba cold brew dan satu-satunya sistem dalam perbandingan ini yang dapat diskalakan ke batch 1 galon. Output jaring yang lebih kasar memiliki lebih banyak endapan daripada pembuat minuman khusus mana pun di sini, tetapi menyaring melalui filter kertas setelah menyeduh menyelesaikan masalah kejernihan dengan biaya satu langkah tambahan.",
-      "pros": ["Biaya total terendah — keranjang metal ditambah toples Mason jauh di bawah pembuat minuman khusus mana pun", "Kapasitas toples 1 galon melebihi pembuat minuman khusus mana pun dalam perbandingan ini", "Tidak ada suku cadang proprietary — gunakan toples Mason bermulut lebar mana pun"],
-      "cons": ["Jaring metal memungkinkan partikel halus dan minyak kopi melewatinya — diperlukan penyaringan filter kertas untuk kejernihan"],
+      "pros": [
+        "Biaya total terendah — keranjang metal ditambah toples Mason jauh di bawah pembuat minuman khusus mana pun",
+        "Kapasitas toples 1 galon melebihi pembuat minuman khusus mana pun dalam perbandingan ini",
+        "Tidak ada suku cadang proprietary — gunakan toples Mason bermulut lebar mana pun"
+      ],
+      "cons": [
+        "Jaring metal memungkinkan partikel halus dan minyak kopi melewatinya — diperlukan penyaringan filter kertas untuk kejernihan"
+      ],
       "grade": "B-",
       "specs": {
         "Metode seduh": "Perendaman dengan keranjang jaring baja tahan karat kasar",
@@ -177,14 +231,40 @@
         "Jenis filter": "Keranjang jaring baja tahan karat kasar",
         "Pembersihan": "Angkat keranjang, bilas — 2 menit; saringan kertas opsional"
       },
-      "scores": {"Rasa": 4.3, "Nilai": 4.9, "Kenyamanan": 4.4, "Kualitas": 3.9, "Kesegaran": 4.2}
+      "scores": {
+        "Rasa": 4.3,
+        "Nilai": 4.9,
+        "Kenyamanan": 4.4,
+        "Kualitas": 3.9,
+        "Kesegaran": 4.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk penggemar kopi spesialti yang menginginkan rasa terbaik dari biji single-origin", "offerId": "oxo-brew-compact-cold-brew", "reason": "Ekstraksi tetes lambat menjaga kecerahan dan aroma yang diratakan oleh sistem perendaman."},
-    {"label": "Untuk rumah tangga yang menyeduh sekali seminggu dan menginginkan nol endapan", "offerId": "toddy-cold-brew-home", "reason": "Filtrasi bantalan felt menghasilkan konsentrat paling bersih dari sistem mana pun di sini — sepadan dengan perawatannya."},
-    {"label": "Untuk kesederhanaan karaf kaca sehari-hari tanpa perawatan bantalan felt", "offerId": "primula-burke-cold-brew-carafe", "reason": "Tidak ada rakitan saluran, tidak ada bantalan felt, aman mesin cuci piring — pilihan kaca perawatan terendah."},
-    {"label": "Untuk rumah tangga 1–2 orang dengan ruang lemari es terbatas", "offerId": "takeya-deluxe-cold-brew", "reason": "Satu-satunya pembuat minuman yang dirancang untuk muat di rak pintu lemari es tanpa penataan ulang."},
-    {"label": "Untuk pemula atau siapa pun yang membutuhkan kapasitas batch 1 galon", "offerId": "county-line-mason-jar-cold-brew", "reason": "Titik masuk biaya terendah; dapat diskalakan ke batch galon yang lebih besar dari pembuat minuman khusus mana pun."}
+    {
+      "label": "Untuk penggemar kopi spesialti yang menginginkan rasa terbaik dari biji single-origin",
+      "offerId": "oxo-brew-compact-cold-brew",
+      "reason": "Ekstraksi tetes lambat menjaga kecerahan dan aroma yang diratakan oleh sistem perendaman."
+    },
+    {
+      "label": "Untuk rumah tangga yang menyeduh sekali seminggu dan menginginkan nol endapan",
+      "offerId": "toddy-cold-brew-home",
+      "reason": "Filtrasi bantalan felt menghasilkan konsentrat paling bersih dari sistem mana pun di sini — sepadan dengan perawatannya."
+    },
+    {
+      "label": "Untuk kesederhanaan karaf kaca sehari-hari tanpa perawatan bantalan felt",
+      "offerId": "primula-burke-cold-brew-carafe",
+      "reason": "Tidak ada rakitan saluran, tidak ada bantalan felt, aman mesin cuci piring — pilihan kaca perawatan terendah."
+    },
+    {
+      "label": "Untuk rumah tangga 1–2 orang dengan ruang lemari es terbatas",
+      "offerId": "takeya-deluxe-cold-brew",
+      "reason": "Satu-satunya pembuat minuman yang dirancang untuk muat di rak pintu lemari es tanpa penataan ulang."
+    },
+    {
+      "label": "Untuk pemula atau siapa pun yang membutuhkan kapasitas batch 1 galon",
+      "offerId": "county-line-mason-jar-cold-brew",
+      "reason": "Titik masuk biaya terendah; dapat diskalakan ke batch galon yang lebih besar dari pembuat minuman khusus mana pun."
+    }
   ]
 }

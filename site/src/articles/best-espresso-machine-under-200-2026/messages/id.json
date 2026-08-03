@@ -53,64 +53,186 @@
     "hamilton-beach-40792-espresso": "Sekitar $50. Mesin espresso berpompa termurah dalam perbandingan ini. Pompa 15 bar, pemanasan 60 detik, menerima kopi bubuk dan kapsul ESE, steam wand tabung terbuka. Kualitas build paling ringan; pemanasan terlama; steam wand membutuhkan teknik terbanyak untuk digunakan dengan baik."
   },
   "pinDescription": "Lima mesin espresso di bawah $200 dibandingkan tahun 2026: De'Longhi EC155M, Breville Bambino, Nespresso Essenza Mini, Mr. Coffee ECMP50, dan Hamilton Beach 40792. Penjelasan tekanan pompa, perbandingan frothing susu, dan mesin mana yang benar-benar layak dibeli untuk dapur rumah.",
-  "methodology": "Setiap mesin dievaluasi berdasarkan kualitas shot espresso (konsistensi tekanan, crema, kerataan ekstraksi), waktu pemanasan, kemampuan frothing susu, kualitas build, dan total biaya kepemilikan termasuk bahan habis pakai.",
+  "methodology": "Setiap mesin dievaluasi berdasarkan kualitas shot espresso (konsistensi tekanan, crema, kerataan ekstraksi), waktu pemanasan, kemampuan frothing susu, kualitas build, dan total biaya kepemilikan termasuk bahan habis pakai. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "breville-bambino-bes450",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "Sistem pemanas ThermoJet Bambino mencapai 93°C dalam 3 detik — tidak ada mesin lain di bawah $200 yang mendekati kecepatan pemanasannya. Portafilter 54mm dan keranjang non-bertekanan yang disertakan memberikan jalur nyata menuju espresso berkualitas seiring berkembangnya teknik Anda. Komprominya adalah harga: $170 merupakan yang termahal dalam perbandingan ini.",
-      "pros": ["Pemanasan ThermoJet 3 detik, tercepat di kelasnya", "Portafilter berdiameter komersial 54mm", "Keranjang bertekanan dan tidak bertekanan keduanya disertakan"],
-      "cons": ["$170 mendekati batas atas kisaran di bawah $200"],
+      "pros": [
+        "Pemanasan ThermoJet 3 detik, tercepat di kelasnya",
+        "Portafilter berdiameter komersial 54mm",
+        "Keranjang bertekanan dan tidak bertekanan keduanya disertakan"
+      ],
+      "cons": [
+        "$170 mendekati batas atas kisaran di bawah $200"
+      ],
       "grade": "A+",
-      "specs": {"Harga": "~$170", "Pompa": "15 bar", "Pemanasan": "3 detik", "Portafilter": "54mm", "Boiler": "ThermoJet", "Steam wand": "Manual", "Berat": "4,5 kg"},
-      "scores": {"Kualitas espresso": 4.7, "Kemudahan penggunaan": 4.2, "Kualitas build": 4.6, "Nilai": 4.0, "Kekuatan steam": 4.3}
+      "specs": {
+        "Harga": "~$170",
+        "Pompa": "15 bar",
+        "Pemanasan": "3 detik",
+        "Portafilter": "54mm",
+        "Boiler": "ThermoJet",
+        "Steam wand": "Manual",
+        "Berat": "4,5 kg"
+      },
+      "scores": {
+        "Kualitas espresso": 4.7,
+        "Kemudahan penggunaan": 4.2,
+        "Kualitas build": 4.6,
+        "Nilai": 4.0,
+        "Kekuatan steam": 4.3
+      }
     },
     {
       "offerId": "delonghi-ec155m-espresso",
       "badge": "Nilai Terbaik",
       "review": "Dengan harga ~$80, EC155M menghadirkan espresso nyata dengan fleksibilitas kapsul ESE dan kopi bubuk. Wand Panarello menyuntikkan udara secara otomatis, membuat busa pemula jauh lebih mudah dibanding ujung steam terbuka. Batas kualitas dibatasi oleh keranjang bertekanan dan pergeseran suhu thermoblock dalam sesi multi-shot.",
-      "pros": ["Menerima kapsul ESE dan kopi bubuk", "Wand Panarello memudahkan busa untuk pemula", "Nilai kuat di ~$80"],
-      "cons": ["Keranjang bertekanan membatasi batas kualitas untuk pengguna mahir"],
+      "pros": [
+        "Menerima kapsul ESE dan kopi bubuk",
+        "Wand Panarello memudahkan busa untuk pemula",
+        "Nilai kuat di ~$80"
+      ],
+      "cons": [
+        "Keranjang bertekanan membatasi batas kualitas untuk pengguna mahir"
+      ],
       "grade": "A",
-      "specs": {"Harga": "~$80", "Pompa": "15 bar", "Pemanasan": "45 detik", "Portafilter": "51mm", "Boiler": "Thermoblock", "Steam wand": "Panarello", "Berat": "2,5 kg"},
-      "scores": {"Kualitas espresso": 3.9, "Kemudahan penggunaan": 4.4, "Kualitas build": 3.8, "Nilai": 4.7, "Kekuatan steam": 3.6}
+      "specs": {
+        "Harga": "~$80",
+        "Pompa": "15 bar",
+        "Pemanasan": "45 detik",
+        "Portafilter": "51mm",
+        "Boiler": "Thermoblock",
+        "Steam wand": "Panarello",
+        "Berat": "2,5 kg"
+      },
+      "scores": {
+        "Kualitas espresso": 3.9,
+        "Kemudahan penggunaan": 4.4,
+        "Kualitas build": 3.8,
+        "Nilai": 4.7,
+        "Kekuatan steam": 3.6
+      }
     },
     {
       "offerId": "nespresso-essenza-mini-d30",
       "badge": "Terbaik untuk Kemudahan",
       "review": "Essenza Mini menghilangkan semua variabel: lebar 8 cm, pemanasan 25 detik, dan crema konsisten setiap kali dengan kapsul OriginalLine. Komprominya adalah ketergantungan kapsul di $0,70–$1,00 per kapsul dan tidak ada steam wand — frother Aeroccino adalah tambahan seharga $50.",
-      "pros": ["Jejak 8 cm — muat di mana saja", "Pompa 19 bar dengan crema konsisten setiap shot", "Tidak memerlukan keahlian"],
-      "cons": ["Tidak ada steam wand bawaan", "Kapsul proprietary seharga $0,70–$1,00 masing-masing"],
+      "pros": [
+        "Jejak 8 cm — muat di mana saja",
+        "Pompa 19 bar dengan crema konsisten setiap shot",
+        "Tidak memerlukan keahlian"
+      ],
+      "cons": [
+        "Tidak ada steam wand bawaan",
+        "Kapsul proprietary seharga $0,70–$1,00 masing-masing"
+      ],
       "grade": "B+",
-      "specs": {"Harga": "~$100", "Pompa": "19 bar", "Pemanasan": "25 detik", "Format": "Kapsul OriginalLine", "Lebar": "8 cm", "Steam wand": "Tidak ada", "Berat": "2,2 kg"},
-      "scores": {"Kualitas espresso": 3.8, "Kemudahan penggunaan": 4.9, "Kualitas build": 3.7, "Nilai": 3.5, "Kekuatan steam": 1.0}
+      "specs": {
+        "Harga": "~$100",
+        "Pompa": "19 bar",
+        "Pemanasan": "25 detik",
+        "Format": "Kapsul OriginalLine",
+        "Lebar": "8 cm",
+        "Steam wand": "Tidak ada",
+        "Berat": "2,2 kg"
+      },
+      "scores": {
+        "Kualitas espresso": 3.8,
+        "Kemudahan penggunaan": 4.9,
+        "Kualitas build": 3.7,
+        "Nilai": 3.5,
+        "Kekuatan steam": 1.0
+      }
     },
     {
       "offerId": "mr-coffee-ecmp50-espresso",
       "badge": "Terbaik untuk Minuman Susu",
       "review": "ECMP50 adalah satu-satunya mesin di sini dengan frother susu otomatis satu tombol terintegrasi — Anda mendapatkan latte dan cappuccino tanpa menyentuh steam wand. Pemanasan 40–45 detik dan keranjang bertekanan menangani kopi pra-giling dengan baik. Bukan jalur untuk espresso tingkat lanjut, namun tak tertandingi untuk minuman susu mudah di ~$85.",
-      "pros": ["Frother susu otomatis bawaan — tidak perlu teknik steam wand", "Output ganda: steam wand khusus plus auto-frother", "Harga ~$85"],
-      "cons": ["Keranjang bertekanan membatasi batas kualitas espresso"],
+      "pros": [
+        "Frother susu otomatis bawaan — tidak perlu teknik steam wand",
+        "Output ganda: steam wand khusus plus auto-frother",
+        "Harga ~$85"
+      ],
+      "cons": [
+        "Keranjang bertekanan membatasi batas kualitas espresso"
+      ],
       "grade": "B",
-      "specs": {"Harga": "~$85", "Pompa": "15 bar", "Pemanasan": "40–45 detik", "Frother": "Otomatis bawaan", "Steam wand": "Ya", "Portafilter": "Bertekanan", "Berat": "2,8 kg"},
-      "scores": {"Kualitas espresso": 3.5, "Kemudahan penggunaan": 4.6, "Kualitas build": 3.6, "Nilai": 4.3, "Kekuatan steam": 4.0}
+      "specs": {
+        "Harga": "~$85",
+        "Pompa": "15 bar",
+        "Pemanasan": "40–45 detik",
+        "Frother": "Otomatis bawaan",
+        "Steam wand": "Ya",
+        "Portafilter": "Bertekanan",
+        "Berat": "2,8 kg"
+      },
+      "scores": {
+        "Kualitas espresso": 3.5,
+        "Kemudahan penggunaan": 4.6,
+        "Kualitas build": 3.6,
+        "Nilai": 4.3,
+        "Kekuatan steam": 4.0
+      }
     },
     {
       "offerId": "hamilton-beach-40792-espresso",
       "badge": "Terbaik untuk Anggaran Terbatas",
       "review": "Dengan ~$50, 40792 adalah mesin espresso berpompa nyata termurah dalam perbandingan ini — bukan tekanan uap, melainkan pompa 15 bar yang nyata. Pemanasan membutuhkan 60 detik dan steam wand tabung terbuka membutuhkan teknik terbanyak dari semua mesin di sini, namun menghasilkan kopi bergaya espresso yang dikenali dan risiko finansialnya minimal untuk pembelian pertama.",
-      "pros": ["~$50 mesin espresso berpompa termurah", "Menerima kopi bubuk dan kapsul ESE", "Risiko finansial rendah untuk pembelian espresso pertama"],
-      "cons": ["Pemanasan 60 detik — terlama dalam perbandingan ini", "Steam wand tabung terbuka membutuhkan teknik terbanyak"],
+      "pros": [
+        "~$50 mesin espresso berpompa termurah",
+        "Menerima kopi bubuk dan kapsul ESE",
+        "Risiko finansial rendah untuk pembelian espresso pertama"
+      ],
+      "cons": [
+        "Pemanasan 60 detik — terlama dalam perbandingan ini",
+        "Steam wand tabung terbuka membutuhkan teknik terbanyak"
+      ],
       "grade": "B-",
-      "specs": {"Harga": "~$50", "Pompa": "15 bar", "Pemanasan": "60 detik", "Portafilter": "Bertekanan", "Steam wand": "Tabung terbuka", "Berat": "2,0 kg", "Kompatibel pod": "Kapsul ESE"},
-      "scores": {"Kualitas espresso": 3.2, "Kemudahan penggunaan": 3.8, "Kualitas build": 3.0, "Nilai": 4.8, "Kekuatan steam": 2.8}
+      "specs": {
+        "Harga": "~$50",
+        "Pompa": "15 bar",
+        "Pemanasan": "60 detik",
+        "Portafilter": "Bertekanan",
+        "Steam wand": "Tabung terbuka",
+        "Berat": "2,0 kg",
+        "Kompatibel pod": "Kapsul ESE"
+      },
+      "scores": {
+        "Kualitas espresso": 3.2,
+        "Kemudahan penggunaan": 3.8,
+        "Kualitas build": 3.0,
+        "Nilai": 4.8,
+        "Kekuatan steam": 2.8
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk barista rumahan yang bercita-cita tinggi", "offerId": "breville-bambino-bes450", "reason": "Pemanasan ThermoJet dan diameter portafilter komersial memberikan ruang nyata untuk mengembangkan teknik"},
-    {"label": "Untuk nilai terbaik di ~$80", "offerId": "delonghi-ec155m-espresso", "reason": "Fleksibilitas kapsul ESE + kopi bubuk dengan steam wand ramah pemula"},
-    {"label": "Untuk kemudahan kapsul", "offerId": "nespresso-essenza-mini-d30", "reason": "Nol variabel, jejak kecil, crema konsisten — tidak perlu teknik apapun"},
-    {"label": "Untuk minuman susu yang mudah", "offerId": "mr-coffee-ecmp50-espresso", "reason": "Frother otomatis bawaan menghasilkan latte tanpa latihan steam wand"},
-    {"label": "Untuk pemula mutlak dengan anggaran terbatas", "offerId": "hamilton-beach-40792-espresso", "reason": "Mesin espresso berpompa termurah dengan risiko finansial minimal"}
+    {
+      "label": "Untuk barista rumahan yang bercita-cita tinggi",
+      "offerId": "breville-bambino-bes450",
+      "reason": "Pemanasan ThermoJet dan diameter portafilter komersial memberikan ruang nyata untuk mengembangkan teknik"
+    },
+    {
+      "label": "Untuk nilai terbaik di ~$80",
+      "offerId": "delonghi-ec155m-espresso",
+      "reason": "Fleksibilitas kapsul ESE + kopi bubuk dengan steam wand ramah pemula"
+    },
+    {
+      "label": "Untuk kemudahan kapsul",
+      "offerId": "nespresso-essenza-mini-d30",
+      "reason": "Nol variabel, jejak kecil, crema konsisten — tidak perlu teknik apapun"
+    },
+    {
+      "label": "Untuk minuman susu yang mudah",
+      "offerId": "mr-coffee-ecmp50-espresso",
+      "reason": "Frother otomatis bawaan menghasilkan latte tanpa latihan steam wand"
+    },
+    {
+      "label": "Untuk pemula mutlak dengan anggaran terbatas",
+      "offerId": "hamilton-beach-40792-espresso",
+      "reason": "Mesin espresso berpompa termurah dengan risiko finansial minimal"
+    }
   ]
 }

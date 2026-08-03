@@ -61,64 +61,174 @@
     "bare-bones-broth": "Công thức sạch 4 thành phần, thịt bò ăn cỏ, thương hiệu nữ"
   },
   "pinDescription": "5 loại nước dùng xương tốt nhất được xếp hạng theo protein, collagen và nguồn gốc — từ bảo quản ở nhiệt độ phòng hàng ngày đến chai thủy tinh cao cấp. Tìm lựa chọn phù hợp cho sức khỏe đường ruột, khớp hoặc nấu ăn.",
-  "methodology": "Chúng tôi đánh giá từng sản phẩm dựa trên hồ sơ hương vị, tính minh bạch nguồn gốc, giá trị mỗi khẩu phần, tính toàn vẹn bao bì và hiệu suất trong các trường hợp sử dụng phổ biến. Các chứng nhận được ghi lại và đánh giá người dùng đã xác minh được đối chiếu với các tuyên bố tiếp thị.",
+  "methodology": "Chúng tôi đánh giá từng sản phẩm dựa trên hồ sơ hương vị, tính minh bạch nguồn gốc, giá trị mỗi khẩu phần, tính toàn vẹn bao bì và hiệu suất trong các trường hợp sử dụng phổ biến. Các chứng nhận được ghi lại và đánh giá người dùng đã xác minh được đối chiếu với các tuyên bố tiếp thị. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "kettle-fire-beef-broth",
       "badge": "Tốt Nhất Toàn Diện",
       "review": "Kettle & Fire là nước dùng xương bảo quản ở nhiệt độ phòng tốt nhất cho sử dụng hàng ngày: xương bò ăn cỏ, 10g protein mỗi khẩu phần, danh sách thành phần ngắn gọn, và hộp Tetra Pak để trong tủ bếp. Hương vị đậm đà và sạch — đủ nhẹ để uống, đủ đậm làm nền hầm. Xử lý UHT có thể giảm nhẹ một số axit amin so với các lựa chọn tươi, nhưng lợi ích tiện lợi là thực tế và có ý nghĩa.",
-      "pros": ["Bảo quản ở nhiệt độ phòng — không cần không gian tủ lạnh", "10g protein mỗi khẩu phần từ xương ăn cỏ", "Danh sách thành phần ngắn gọn, dễ nhận biết với rau hữu cơ"],
-      "cons": ["Xử lý UHT có thể giảm nồng độ một số axit amin so với các lựa chọn lạnh"],
+      "pros": [
+        "Bảo quản ở nhiệt độ phòng — không cần không gian tủ lạnh",
+        "10g protein mỗi khẩu phần từ xương ăn cỏ",
+        "Danh sách thành phần ngắn gọn, dễ nhận biết với rau hữu cơ"
+      ],
+      "cons": [
+        "Xử lý UHT có thể giảm nồng độ một số axit amin so với các lựa chọn lạnh"
+      ],
       "grade": "A+",
-      "specs": {"Protein": "10g mỗi khẩu phần", "Dạng": "Tetra Pak (bảo quản nhiệt độ phòng)", "Xương": "Bò ăn cỏ", "Kích thước khẩu phần": "1 cốc (240 ml)", "Rau hữu cơ": "Có"},
-      "scores": {"Chất lượng": 4.5, "Hương vị": 4.3, "Giá trị": 4.4, "Dinh dưỡng": 4.4, "Tiện lợi": 4.9}
+      "specs": {
+        "Protein": "10g mỗi khẩu phần",
+        "Dạng": "Tetra Pak (bảo quản nhiệt độ phòng)",
+        "Xương": "Bò ăn cỏ",
+        "Kích thước khẩu phần": "1 cốc (240 ml)",
+        "Rau hữu cơ": "Có"
+      },
+      "scores": {
+        "Chất lượng": 4.5,
+        "Hương vị": 4.3,
+        "Giá trị": 4.4,
+        "Dinh dưỡng": 4.4,
+        "Tiện lợi": 4.9
+      }
     },
     {
       "offerId": "fond-bone-broth",
       "badge": "Cao Cấp Tốt Nhất",
       "review": "FOND là nước dùng xương dành cho những người đã đọc từng nhãn: chăn thả tự do, chứng nhận hữu cơ, chai thủy tinh, vận chuyển lạnh. Đông thành thạch cứng khi làm lạnh — chỉ báo đáng tin cậy về hàm lượng gelatin thực sự cao. Hương vị thảo mộc phong phú từ húng tây, hương thảo và nguyệt quế hầm chậm đủ đậm để dùng như consommé, có thể áp đảo các ứng dụng nấu ăn trung tính. Xứng đáng với giá cao nếu hàm lượng collagen là điều quan trọng.",
-      "pros": ["Đông cứng khi lạnh — xác nhận hàm lượng gelatin và collagen cao", "Chai thủy tinh — không rò rỉ nhựa khi đun nóng", "Nguồn gốc chăn thả tự do, chứng nhận hữu cơ"],
-      "cons": ["Giá gần gấp đôi Kettle & Fire — chỉ vận chuyển lạnh"],
+      "pros": [
+        "Đông cứng khi lạnh — xác nhận hàm lượng gelatin và collagen cao",
+        "Chai thủy tinh — không rò rỉ nhựa khi đun nóng",
+        "Nguồn gốc chăn thả tự do, chứng nhận hữu cơ"
+      ],
+      "cons": [
+        "Giá gần gấp đôi Kettle & Fire — chỉ vận chuyển lạnh"
+      ],
       "grade": "A",
-      "specs": {"Protein": "~9–10g mỗi khẩu phần", "Dạng": "Chai thủy tinh (lạnh)", "Xương": "Chăn thả tự do, chứng nhận hữu cơ", "Gelatin": "Đông cứng khi làm lạnh", "Nấu": "Hầm chậm với thảo mộc"},
-      "scores": {"Chất lượng": 4.9, "Hương vị": 4.7, "Giá trị": 3.2, "Dinh dưỡng": 4.8, "Tiện lợi": 3.5}
+      "specs": {
+        "Protein": "~9–10g mỗi khẩu phần",
+        "Dạng": "Chai thủy tinh (lạnh)",
+        "Xương": "Chăn thả tự do, chứng nhận hữu cơ",
+        "Gelatin": "Đông cứng khi làm lạnh",
+        "Nấu": "Hầm chậm với thảo mộc"
+      },
+      "scores": {
+        "Chất lượng": 4.9,
+        "Hương vị": 4.7,
+        "Giá trị": 3.2,
+        "Dinh dưỡng": 4.8,
+        "Tiện lợi": 3.5
+      }
     },
     {
       "offerId": "pacific-foods-bone-broth",
       "badge": "Giá Trị Hàng Ngày Tốt Nhất",
       "review": "Pacific Foods là nước dùng xương bạn có thể lấy ở Costco hoặc Target không cần lên kế hoạch — chứng nhận USDA Organic, khoảng $5–7 mỗi hộp 32 oz. Protein 9–10g mỗi khẩu phần và hương vị sạch và trung tính, làm cho nó tốt hơn FOND cho các ứng dụng nấu ăn mà độ phức tạp của thảo mộc sẽ cạnh tranh. Hàm lượng gelatin thấp hơn (không đông khi lạnh), vì vậy ít phù hợp hơn cho các giao thức chữa lành đường ruột chuyên dụng.",
-      "pros": ["USDA Organic ở mức giá bán lẻ phổ thông", "Phân phối rộng rãi tại Costco, Target và hầu hết chuỗi tạp hóa", "Hương vị trung tính lý tưởng cho ứng dụng nấu ăn"],
-      "cons": ["Không đông khi lạnh — nồng độ gelatin thấp hơn các lựa chọn cao cấp"],
+      "pros": [
+        "USDA Organic ở mức giá bán lẻ phổ thông",
+        "Phân phối rộng rãi tại Costco, Target và hầu hết chuỗi tạp hóa",
+        "Hương vị trung tính lý tưởng cho ứng dụng nấu ăn"
+      ],
+      "cons": [
+        "Không đông khi lạnh — nồng độ gelatin thấp hơn các lựa chọn cao cấp"
+      ],
       "grade": "B+",
-      "specs": {"Protein": "9–10g mỗi khẩu phần", "Dạng": "Tetra Pak (bảo quản nhiệt độ phòng)", "Chứng nhận": "USDA Organic", "Bán lẻ": "Phân phối rộng rãi", "Ít natri": "Có tùy chọn"},
-      "scores": {"Chất lượng": 3.9, "Hương vị": 3.8, "Giá trị": 4.7, "Dinh dưỡng": 3.9, "Tiện lợi": 4.8}
+      "specs": {
+        "Protein": "9–10g mỗi khẩu phần",
+        "Dạng": "Tetra Pak (bảo quản nhiệt độ phòng)",
+        "Chứng nhận": "USDA Organic",
+        "Bán lẻ": "Phân phối rộng rãi",
+        "Ít natri": "Có tùy chọn"
+      },
+      "scores": {
+        "Chất lượng": 3.9,
+        "Hương vị": 3.8,
+        "Giá trị": 4.7,
+        "Dinh dưỡng": 3.9,
+        "Tiện lợi": 4.8
+      }
     },
     {
       "offerId": "ancient-nutrition-bone-broth",
       "badge": "Tốt Nhất Cho Liều Collagen",
       "review": "Ancient Nutrition tiếp cận theo cách khác — dạng bột cung cấp 20g protein collagen mỗi khẩu phần từ nguồn bò, gà, cá và lòng trắng trứng, so với 7–12g từ hầu hết nước dùng lỏng. Tan tốt trong chất lỏng nóng hoặc lạnh. Hạn chế thành thật: đây là chất bổ sung collagen được đóng gói dưới thương hiệu nước dùng xương, không phải nước dùng có chiều sâu hương vị hay hương thơm.",
-      "pros": ["20g protein collagen mỗi khẩu phần — cao nhất trong các lựa chọn ở đây", "Collagen đa nguồn (bò, gà, cá, lòng trắng trứng)", "Tan không vón cục trong chất lỏng nóng hoặc lạnh"],
-      "cons": ["Không có hương vị nước dùng, hương thơm hay giá trị nấu ăn — đây là chất bổ sung, không phải nước dùng"],
+      "pros": [
+        "20g protein collagen mỗi khẩu phần — cao nhất trong các lựa chọn ở đây",
+        "Collagen đa nguồn (bò, gà, cá, lòng trắng trứng)",
+        "Tan không vón cục trong chất lỏng nóng hoặc lạnh"
+      ],
+      "cons": [
+        "Không có hương vị nước dùng, hương thơm hay giá trị nấu ăn — đây là chất bổ sung, không phải nước dùng"
+      ],
       "grade": "B",
-      "specs": {"Protein": "20g collagen mỗi khẩu phần", "Dạng": "Bột", "Nguồn collagen": "Bò, gà, cá, lòng trắng trứng", "Tùy chọn hương vị": "Không hương vị, chocolate, vani", "Tình trạng có hàng": "Costco, Walmart, nhà bán lẻ thực phẩm bổ sung"},
-      "scores": {"Chất lượng": 4.2, "Hương vị": 3.5, "Giá trị": 4.0, "Dinh dưỡng": 4.9, "Tiện lợi": 4.5}
+      "specs": {
+        "Protein": "20g collagen mỗi khẩu phần",
+        "Dạng": "Bột",
+        "Nguồn collagen": "Bò, gà, cá, lòng trắng trứng",
+        "Tùy chọn hương vị": "Không hương vị, chocolate, vani",
+        "Tình trạng có hàng": "Costco, Walmart, nhà bán lẻ thực phẩm bổ sung"
+      },
+      "scores": {
+        "Chất lượng": 4.2,
+        "Hương vị": 3.5,
+        "Giá trị": 4.0,
+        "Dinh dưỡng": 4.9,
+        "Tiện lợi": 4.5
+      }
     },
     {
       "offerId": "bare-bones-broth",
       "badge": "Nhãn Sạch Tốt Nhất",
       "review": "Bare Bones sử dụng công thức bốn thành phần — xương, nước, giấm táo, muối biển — không có hương liệu tự nhiên, chiết xuất nấm men hay chất ổn định. Bò ăn cỏ 100%, thạch mềm khi làm lạnh (xác nhận hàm lượng gelatin thực), 10g protein mỗi khẩu phần. Nước dùng thẳng thắn và đậm vị bò mà không nặng nề, phù hợp cả uống và nấu ăn. Giá cả nằm giữa đại trà và FOND.",
-      "pros": ["Công thức 4 thành phần — không có hương liệu tự nhiên hay chất ổn định", "Thạch mềm khi làm lạnh — hàm lượng gelatin có ý nghĩa", "Thương hiệu nữ, hướng sứ mệnh với nguồn gốc có thể truy xuất"],
-      "cons": ["Phân phối ít rộng rãi hơn Pacific Foods hay Kettle & Fire"],
+      "pros": [
+        "Công thức 4 thành phần — không có hương liệu tự nhiên hay chất ổn định",
+        "Thạch mềm khi làm lạnh — hàm lượng gelatin có ý nghĩa",
+        "Thương hiệu nữ, hướng sứ mệnh với nguồn gốc có thể truy xuất"
+      ],
+      "cons": [
+        "Phân phối ít rộng rãi hơn Pacific Foods hay Kettle & Fire"
+      ],
       "grade": "B-",
-      "specs": {"Protein": "10g mỗi khẩu phần", "Dạng": "Tetra Pak (bảo quản nhiệt độ phòng) + túi đông lạnh", "Xương": "Bò ăn cỏ 100%", "Thành phần": "4 (xương, nước, ACV, muối biển)", "Gelatin": "Đông thành thạch mềm khi làm lạnh"},
-      "scores": {"Chất lượng": 4.6, "Hương vị": 4.4, "Giá trị": 3.8, "Dinh dưỡng": 4.6, "Tiện lợi": 4.2}
+      "specs": {
+        "Protein": "10g mỗi khẩu phần",
+        "Dạng": "Tetra Pak (bảo quản nhiệt độ phòng) + túi đông lạnh",
+        "Xương": "Bò ăn cỏ 100%",
+        "Thành phần": "4 (xương, nước, ACV, muối biển)",
+        "Gelatin": "Đông thành thạch mềm khi làm lạnh"
+      },
+      "scores": {
+        "Chất lượng": 4.6,
+        "Hương vị": 4.4,
+        "Giá trị": 3.8,
+        "Dinh dưỡng": 4.6,
+        "Tiện lợi": 4.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Cho sự tiện lợi tủ bếp", "offerId": "kettle-fire-beef-broth", "reason": "Bảo quản nhiệt độ phòng, nhất quán và có thể đặt mua trực tuyến cả thùng — mặc định thực tế cho uống hàng ngày hoặc nấu ăn buổi tối."},
-    {"label": "Cho giao thức chữa lành đường ruột", "offerId": "fond-bone-broth", "reason": "Đông cứng khi lạnh, vận chuyển lạnh, hàm lượng gelatin cao nhất — nếu hàm lượng collagen và glycine thực sự quan trọng, giá cao này đáng giá."},
-    {"label": "Để nấu ăn số lượng lớn", "offerId": "pacific-foods-bone-broth", "reason": "USDA Organic với giá Costco — lựa chọn đúng khi nước dùng xương là nguyên liệu nấu ăn, không phải sự kiện chính."},
-    {"label": "Để hấp thụ collagen tối đa", "offerId": "ancient-nutrition-bone-broth", "reason": "20g collagen đa nguồn mỗi muỗng — cách hiệu quả nhất để thêm collagen vào sinh tố hoặc cà phê buổi sáng."},
-    {"label": "Cho người đọc nhãn và tìm kiếm thành phần sạch", "offerId": "bare-bones-broth", "reason": "Bốn thành phần, không phụ gia, ăn cỏ — nước dùng xương định dạng chuẩn sạch nhất trong danh mục này."}
+    {
+      "label": "Cho sự tiện lợi tủ bếp",
+      "offerId": "kettle-fire-beef-broth",
+      "reason": "Bảo quản nhiệt độ phòng, nhất quán và có thể đặt mua trực tuyến cả thùng — mặc định thực tế cho uống hàng ngày hoặc nấu ăn buổi tối."
+    },
+    {
+      "label": "Cho giao thức chữa lành đường ruột",
+      "offerId": "fond-bone-broth",
+      "reason": "Đông cứng khi lạnh, vận chuyển lạnh, hàm lượng gelatin cao nhất — nếu hàm lượng collagen và glycine thực sự quan trọng, giá cao này đáng giá."
+    },
+    {
+      "label": "Để nấu ăn số lượng lớn",
+      "offerId": "pacific-foods-bone-broth",
+      "reason": "USDA Organic với giá Costco — lựa chọn đúng khi nước dùng xương là nguyên liệu nấu ăn, không phải sự kiện chính."
+    },
+    {
+      "label": "Để hấp thụ collagen tối đa",
+      "offerId": "ancient-nutrition-bone-broth",
+      "reason": "20g collagen đa nguồn mỗi muỗng — cách hiệu quả nhất để thêm collagen vào sinh tố hoặc cà phê buổi sáng."
+    },
+    {
+      "label": "Cho người đọc nhãn và tìm kiếm thành phần sạch",
+      "offerId": "bare-bones-broth",
+      "reason": "Bốn thành phần, không phụ gia, ăn cỏ — nước dùng xương định dạng chuẩn sạch nhất trong danh mục này."
+    }
   ]
 }

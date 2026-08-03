@@ -58,64 +58,175 @@
     "zico-natural-coconut-water": "Tiệt trùng, không đường thêm, 16.9 oz. $2.50-3.50. Nước dừa hồ sơ khô tốt nhất — ít ngọt hơn Vita Coco một chút, được vận động viên ưa thích."
   },
   "pinDescription": "Nước dừa 2026: Vita Coco vs Harmless Harvest vs ZICO vs Taste Nirvana — nguyên chất vs tiệt trùng vs cô đặc giải thích, tại sao Harmless Harvest có màu hồng, so sánh điện giải nước dừa vs đồ uống thể thao, và nước dừa tốt nhất để cung cấp nước hàng ngày.",
-  "methodology": "Chúng tôi đánh giá từng sản phẩm về hồ sơ hương vị, tính minh bạch về nguồn gốc, giá trị mỗi khẩu phần, tính toàn vẹn của bao bì và hiệu suất trên các trường hợp sử dụng phổ biến.",
+  "methodology": "Chúng tôi đánh giá từng sản phẩm về hồ sơ hương vị, tính minh bạch về nguồn gốc, giá trị mỗi khẩu phần, tính toàn vẹn của bao bì và hiệu suất trên các trường hợp sử dụng phổ biến. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "vita-coco-original",
       "badge": "Tốt Nhất Tổng Thể",
       "review": "Vita Coco Original là mặc định thực tế cho nước dừa chủ đạo — tiệt trùng, không đường thêm, 670mg kali mỗi khẩu phần trong Tetra Pak ổn định có mặt khắp nơi.",
-      "pros": ["Có mặt tại hầu hết mọi chuỗi siêu thị và nhà bán lẻ trực tuyến", "Không đường thêm — chỉ có điện giải tự nhiên", "Tetra Pak ổn định ở nhiệt độ phòng — không cần không gian tủ lạnh"],
-      "cons": ["Tiệt trùng tạo ra hương vị ngọt hơn, ít phức tạp hơn nước dừa nguyên chất"],
+      "pros": [
+        "Có mặt tại hầu hết mọi chuỗi siêu thị và nhà bán lẻ trực tuyến",
+        "Không đường thêm — chỉ có điện giải tự nhiên",
+        "Tetra Pak ổn định ở nhiệt độ phòng — không cần không gian tủ lạnh"
+      ],
+      "cons": [
+        "Tiệt trùng tạo ra hương vị ngọt hơn, ít phức tạp hơn nước dừa nguyên chất"
+      ],
       "grade": "A+",
-      "specs": {"Kích thước": "Tetra Pak 16.9 oz", "Chế biến": "Tiệt trùng", "Đường thêm": "Không", "Kali": "~670mg mỗi khẩu phần", "Từ nước cô đặc": "Không"},
-      "scores": {"Hương vị": 3.9, "Giá trị": 4.7, "Dinh dưỡng": 4.3, "Tiện lợi": 5.0, "Chất lượng": 4.0}
+      "specs": {
+        "Kích thước": "Tetra Pak 16.9 oz",
+        "Chế biến": "Tiệt trùng",
+        "Đường thêm": "Không",
+        "Kali": "~670mg mỗi khẩu phần",
+        "Từ nước cô đặc": "Không"
+      },
+      "scores": {
+        "Hương vị": 3.9,
+        "Giá trị": 4.7,
+        "Dinh dưỡng": 4.3,
+        "Tiện lợi": 5.0,
+        "Chất lượng": 4.0
+      }
     },
     {
       "offerId": "harmless-harvest-raw",
       "badge": "Tốt Nhất Nguyên Chất / Cao Cấp",
       "review": "Harmless Harvest là sản phẩm tham chiếu cho chất lượng nước dừa nguyên chất tại Mỹ — không bao giờ đun nóng, chế biến chuỗi lạnh từ Thái Lan, với màu hồng nhạt từ chất chống oxy hóa chỉ xuất hiện ở nước dừa nguyên chất thực sự.",
-      "pros": ["Không bao giờ đun nóng — hương vị gần nhất với nước dừa tươi có ở bán lẻ", "Hồng tự nhiên từ chất chống oxy hóa — chỉ số chất lượng, không phải khiếm khuyết", "Chế biến chuỗi lạnh với chuỗi cung ứng ngắn hơn và minh bạch hơn"],
-      "cons": ["Chỉ lạnh — cần không gian tủ lạnh và hạn sử dụng ngắn hơn", "Khoảng 2× giá mỗi ounce so với Vita Coco"],
+      "pros": [
+        "Không bao giờ đun nóng — hương vị gần nhất với nước dừa tươi có ở bán lẻ",
+        "Hồng tự nhiên từ chất chống oxy hóa — chỉ số chất lượng, không phải khiếm khuyết",
+        "Chế biến chuỗi lạnh với chuỗi cung ứng ngắn hơn và minh bạch hơn"
+      ],
+      "cons": [
+        "Chỉ lạnh — cần không gian tủ lạnh và hạn sử dụng ngắn hơn",
+        "Khoảng 2× giá mỗi ounce so với Vita Coco"
+      ],
       "grade": "A",
-      "specs": {"Kích thước": "10–16 oz (lạnh)", "Chế biến": "Nguyên chất (không bao giờ đun nóng)", "Màu sắc": "Trong suốt đến hồng nhạt (oxy hóa chất chống oxy hóa)", "Kali": "~470–600mg mỗi khẩu phần", "Từ nước cô đặc": "Không"},
-      "scores": {"Hương vị": 4.9, "Giá trị": 3.2, "Dinh dưỡng": 4.7, "Tiện lợi": 3.5, "Chất lượng": 4.9}
+      "specs": {
+        "Kích thước": "10–16 oz (lạnh)",
+        "Chế biến": "Nguyên chất (không bao giờ đun nóng)",
+        "Màu sắc": "Trong suốt đến hồng nhạt (oxy hóa chất chống oxy hóa)",
+        "Kali": "~470–600mg mỗi khẩu phần",
+        "Từ nước cô đặc": "Không"
+      },
+      "scores": {
+        "Hương vị": 4.9,
+        "Giá trị": 3.2,
+        "Dinh dưỡng": 4.7,
+        "Tiện lợi": 3.5,
+        "Chất lượng": 4.9
+      }
     },
     {
       "offerId": "taste-nirvana-coconut-water",
       "badge": "Giá Trị Trung Gian Tốt Nhất",
       "review": "Taste Nirvana thu hẹp khoảng cách giữa khả năng tiếp cận chủ đạo của Vita Coco và chất lượng nguyên chất của Harmless Harvest — tiệt trùng nhưng không từ nước cô đặc, nguồn trực tiếp từ Thái Lan.",
-      "pros": ["Không từ nước cô đặc — hương vị gần tươi hơn Vita Coco", "Tùy chọn chai thủy tinh giữ nguyên hương vị tốt hơn hộp carton", "Giá tương đương Vita Coco — chất lượng trên mức trung bình cho mức giá"],
-      "cons": ["Phân phối ít rộng rãi hơn Vita Coco — chủ yếu trực tuyến và siêu thị châu Á"],
+      "pros": [
+        "Không từ nước cô đặc — hương vị gần tươi hơn Vita Coco",
+        "Tùy chọn chai thủy tinh giữ nguyên hương vị tốt hơn hộp carton",
+        "Giá tương đương Vita Coco — chất lượng trên mức trung bình cho mức giá"
+      ],
+      "cons": [
+        "Phân phối ít rộng rãi hơn Vita Coco — chủ yếu trực tuyến và siêu thị châu Á"
+      ],
       "grade": "B+",
-      "specs": {"Kích thước": "Lon hoặc chai thủy tinh 9.5 oz", "Chế biến": "Tiệt trùng", "Nguồn gốc": "Thái Lan (trực tiếp)", "Từ nước cô đặc": "Không", "Kali": "~430mg mỗi khẩu phần"},
-      "scores": {"Hương vị": 4.3, "Giá trị": 4.4, "Dinh dưỡng": 4.2, "Tiện lợi": 4.2, "Chất lượng": 4.3}
+      "specs": {
+        "Kích thước": "Lon hoặc chai thủy tinh 9.5 oz",
+        "Chế biến": "Tiệt trùng",
+        "Nguồn gốc": "Thái Lan (trực tiếp)",
+        "Từ nước cô đặc": "Không",
+        "Kali": "~430mg mỗi khẩu phần"
+      },
+      "scores": {
+        "Hương vị": 4.3,
+        "Giá trị": 4.4,
+        "Dinh dưỡng": 4.2,
+        "Tiện lợi": 4.2,
+        "Chất lượng": 4.3
+      }
     },
     {
       "offerId": "c2o-pure-coconut-water",
       "badge": "Định Dạng Lon Tốt Nhất",
       "review": "Định dạng lon của C2O cung cấp rào cản ánh sáng có ý nghĩa mà hộp Tetra Pak thiếu — ánh sáng làm suy giảm các hợp chất hương vị trong nước dừa theo thời gian, và lon nhôm giảm thiểu điều này.",
-      "pros": ["Lon chặn ánh sáng — giữ nguyên hương vị tốt hơn Tetra Pak trong suốt thời hạn sử dụng", "Kích thước 17.5 oz lớn hơn mỗi lon", "Không từ nước cô đặc, nguồn Thái Lan"],
-      "cons": ["Ít sẵn có hơn Vita Coco — chủ yếu siêu thị châu Á và trực tuyến"],
+      "pros": [
+        "Lon chặn ánh sáng — giữ nguyên hương vị tốt hơn Tetra Pak trong suốt thời hạn sử dụng",
+        "Kích thước 17.5 oz lớn hơn mỗi lon",
+        "Không từ nước cô đặc, nguồn Thái Lan"
+      ],
+      "cons": [
+        "Ít sẵn có hơn Vita Coco — chủ yếu siêu thị châu Á và trực tuyến"
+      ],
       "grade": "B",
-      "specs": {"Kích thước": "Lon 17.5 oz", "Chế biến": "Tiệt trùng", "Hộp đựng": "Lon nhôm (rào cản ánh sáng)", "Nguồn gốc": "Thái Lan", "Từ nước cô đặc": "Không"},
-      "scores": {"Hương vị": 4.2, "Giá trị": 4.3, "Dinh dưỡng": 4.1, "Tiện lợi": 4.3, "Chất lượng": 4.2}
+      "specs": {
+        "Kích thước": "Lon 17.5 oz",
+        "Chế biến": "Tiệt trùng",
+        "Hộp đựng": "Lon nhôm (rào cản ánh sáng)",
+        "Nguồn gốc": "Thái Lan",
+        "Từ nước cô đặc": "Không"
+      },
+      "scores": {
+        "Hương vị": 4.2,
+        "Giá trị": 4.3,
+        "Dinh dưỡng": 4.1,
+        "Tiện lợi": 4.3,
+        "Chất lượng": 4.2
+      }
     },
     {
       "offerId": "zico-natural-coconut-water",
       "badge": "Tốt Nhất Cho Vận Động Viên",
       "review": "ZICO có hồ sơ hương vị khô hơn, ít ngọt hơn Vita Coco — khiến nó trở thành lựa chọn ưa thích của các vận động viên thấy độ ngọt của Vita Coco quá nổi bật trong và sau khi tập.",
-      "pros": ["Hồ sơ hương vị khô hơn — ít ngọt hơn Vita Coco, nhiều vận động viên ưa thích", "Hàm lượng điện giải tương đương Vita Coco", "Không đường thêm, ổn định khi bảo quản"],
-      "cons": ["Phân phối hạn chế từ khi Coca-Cola ngừng sản xuất và tái ra mắt năm 2020 — kiểm tra tình trạng hàng"],
+      "pros": [
+        "Hồ sơ hương vị khô hơn — ít ngọt hơn Vita Coco, nhiều vận động viên ưa thích",
+        "Hàm lượng điện giải tương đương Vita Coco",
+        "Không đường thêm, ổn định khi bảo quản"
+      ],
+      "cons": [
+        "Phân phối hạn chế từ khi Coca-Cola ngừng sản xuất và tái ra mắt năm 2020 — kiểm tra tình trạng hàng"
+      ],
       "grade": "B-",
-      "specs": {"Kích thước": "16.9 oz", "Chế biến": "Tiệt trùng", "Đường thêm": "Không", "Kali": "~600mg mỗi khẩu phần", "Hồ sơ hương vị": "Khô / ít ngọt"},
-      "scores": {"Hương vị": 4.0, "Giá trị": 4.2, "Dinh dưỡng": 4.3, "Tiện lợi": 4.1, "Chất lượng": 4.0}
+      "specs": {
+        "Kích thước": "16.9 oz",
+        "Chế biến": "Tiệt trùng",
+        "Đường thêm": "Không",
+        "Kali": "~600mg mỗi khẩu phần",
+        "Hồ sơ hương vị": "Khô / ít ngọt"
+      },
+      "scores": {
+        "Hương vị": 4.0,
+        "Giá trị": 4.2,
+        "Dinh dưỡng": 4.3,
+        "Tiện lợi": 4.1,
+        "Chất lượng": 4.0
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Để cung cấp nước hàng ngày với ngân sách", "offerId": "vita-coco-original", "reason": "Có mặt khắp nơi, ổn định khi bảo quản và giá hợp lý để mua số lượng lớn — mặc định đáng tin cậy không có bất ngờ."},
-    {"label": "Để có trải nghiệm gần nhất với tươi", "offerId": "harmless-harvest-raw", "reason": "Nguyên chất, không bao giờ đun nóng, hồng tự nhiên — hương vị phức tạp hơn đáng kể so với bất kỳ tùy chọn tiệt trùng nào. Đáng giá phí cao hơn nếu hương vị là mục tiêu."},
-    {"label": "Để có chất lượng trên mức trung bình mà không có phí cao cấp nguyên chất", "offerId": "taste-nirvana-coconut-water", "reason": "Không từ nước cô đặc, nguồn trực tiếp từ Thái Lan, có chai thủy tinh — tốt hơn Vita Coco mà không có giá Harmless Harvest."},
-    {"label": "Cho vận động viên sau tập", "offerId": "zico-natural-coconut-water", "reason": "Hương vị khô hơn, ít ngọt hơn được các vận động viên ưa thích khi họ thấy Vita Coco quá ngọt trong và sau khi tập."},
-    {"label": "Để lưu trữ lâu dài ưu tiên hương vị", "offerId": "c2o-pure-coconut-water", "reason": "Rào cản ánh sáng của lon nhôm bảo quản các hợp chất hương vị tốt hơn bao bì hộp carton trong thời hạn sử dụng kéo dài."}
+    {
+      "label": "Để cung cấp nước hàng ngày với ngân sách",
+      "offerId": "vita-coco-original",
+      "reason": "Có mặt khắp nơi, ổn định khi bảo quản và giá hợp lý để mua số lượng lớn — mặc định đáng tin cậy không có bất ngờ."
+    },
+    {
+      "label": "Để có trải nghiệm gần nhất với tươi",
+      "offerId": "harmless-harvest-raw",
+      "reason": "Nguyên chất, không bao giờ đun nóng, hồng tự nhiên — hương vị phức tạp hơn đáng kể so với bất kỳ tùy chọn tiệt trùng nào. Đáng giá phí cao hơn nếu hương vị là mục tiêu."
+    },
+    {
+      "label": "Để có chất lượng trên mức trung bình mà không có phí cao cấp nguyên chất",
+      "offerId": "taste-nirvana-coconut-water",
+      "reason": "Không từ nước cô đặc, nguồn trực tiếp từ Thái Lan, có chai thủy tinh — tốt hơn Vita Coco mà không có giá Harmless Harvest."
+    },
+    {
+      "label": "Cho vận động viên sau tập",
+      "offerId": "zico-natural-coconut-water",
+      "reason": "Hương vị khô hơn, ít ngọt hơn được các vận động viên ưa thích khi họ thấy Vita Coco quá ngọt trong và sau khi tập."
+    },
+    {
+      "label": "Để lưu trữ lâu dài ưu tiên hương vị",
+      "offerId": "c2o-pure-coconut-water",
+      "reason": "Rào cản ánh sáng của lon nhôm bảo quản các hợp chất hương vị tốt hơn bao bì hộp carton trong thời hạn sử dụng kéo dài."
+    }
   ]
 }

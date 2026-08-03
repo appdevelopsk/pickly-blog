@@ -53,64 +53,186 @@
     "hamilton-beach-40792-espresso": "Khoảng $50. Máy espresso bơm rẻ nhất trong so sánh này. Bơm 15 bar, làm nóng 60 giây, chấp nhận cà phê xay và viên nang ESE, đầu hơi ống trần. Chất lượng xây dựng nhẹ nhất; làm nóng lâu nhất; đầu hơi cần nhiều kỹ thuật nhất để sử dụng tốt."
   },
   "pinDescription": "So sánh năm máy espresso dưới $200 năm 2026: De'Longhi EC155M, Breville Bambino, Nespresso Essenza Mini, Mr. Coffee ECMP50 và Hamilton Beach 40792. Giải thích áp suất bơm, so sánh tạo bọt sữa và máy nào thực sự đáng mua cho căn bếp gia đình.",
-  "methodology": "Mỗi máy được đánh giá về chất lượng shot espresso (tính nhất quán áp suất, crema, độ đồng đều chiết xuất), thời gian làm nóng, khả năng tạo bọt sữa, chất lượng xây dựng và tổng chi phí sở hữu bao gồm vật tư tiêu hao.",
+  "methodology": "Mỗi máy được đánh giá về chất lượng shot espresso (tính nhất quán áp suất, crema, độ đồng đều chiết xuất), thời gian làm nóng, khả năng tạo bọt sữa, chất lượng xây dựng và tổng chi phí sở hữu bao gồm vật tư tiêu hao. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "breville-bambino-bes450",
       "badge": "Tốt Nhất Toàn Diện",
       "review": "Hệ thống sưởi ThermoJet của Bambino đạt 93°C trong 3 giây — không có máy nào khác dưới $200 gần được về tốc độ làm nóng. Portafilter 54mm và giỏ không áp suất đi kèm mang lại con đường thực sự đến espresso chất lượng khi kỹ thuật cải thiện. Đánh đổi là giá: $170 là đắt nhất trong so sánh này.",
-      "pros": ["Làm nóng ThermoJet 3 giây, nhanh nhất trong phân khúc", "Portafilter đường kính thương mại 54mm", "Cả giỏ có áp suất và không áp suất đều đi kèm"],
-      "cons": ["$170 gần đến giới hạn trên của phân khúc dưới $200"],
+      "pros": [
+        "Làm nóng ThermoJet 3 giây, nhanh nhất trong phân khúc",
+        "Portafilter đường kính thương mại 54mm",
+        "Cả giỏ có áp suất và không áp suất đều đi kèm"
+      ],
+      "cons": [
+        "$170 gần đến giới hạn trên của phân khúc dưới $200"
+      ],
       "grade": "A+",
-      "specs": {"Giá": "~$170", "Bơm": "15 bar", "Làm nóng": "3 giây", "Portafilter": "54mm", "Nồi hơi": "ThermoJet", "Đầu hơi": "Thủ công", "Trọng lượng": "4,5 kg"},
-      "scores": {"Chất lượng espresso": 4.7, "Dễ sử dụng": 4.2, "Chất lượng xây dựng": 4.6, "Giá trị": 4.0, "Sức mạnh hơi": 4.3}
+      "specs": {
+        "Giá": "~$170",
+        "Bơm": "15 bar",
+        "Làm nóng": "3 giây",
+        "Portafilter": "54mm",
+        "Nồi hơi": "ThermoJet",
+        "Đầu hơi": "Thủ công",
+        "Trọng lượng": "4,5 kg"
+      },
+      "scores": {
+        "Chất lượng espresso": 4.7,
+        "Dễ sử dụng": 4.2,
+        "Chất lượng xây dựng": 4.6,
+        "Giá trị": 4.0,
+        "Sức mạnh hơi": 4.3
+      }
     },
     {
       "offerId": "delonghi-ec155m-espresso",
       "badge": "Giá Trị Tốt Nhất",
       "review": "Ở ~$80, EC155M mang lại espresso thực sự với tính linh hoạt của viên nang ESE và cà phê xay. Đầu Panarello tự động bơm không khí, giúp bọt dễ dàng hơn nhiều so với đầu hơi trần. Giới hạn chất lượng bị hạn chế bởi giỏ có áp suất và sự thay đổi nhiệt độ thermoblock trong các phiên nhiều shot.",
-      "pros": ["Chấp nhận cả viên nang ESE và cà phê xay", "Đầu Panarello giúp bọt dễ dàng cho người mới", "Giá trị mạnh ở ~$80"],
-      "cons": ["Giỏ có áp suất giới hạn trần chất lượng cho người dùng nâng cao"],
+      "pros": [
+        "Chấp nhận cả viên nang ESE và cà phê xay",
+        "Đầu Panarello giúp bọt dễ dàng cho người mới",
+        "Giá trị mạnh ở ~$80"
+      ],
+      "cons": [
+        "Giỏ có áp suất giới hạn trần chất lượng cho người dùng nâng cao"
+      ],
       "grade": "A",
-      "specs": {"Giá": "~$80", "Bơm": "15 bar", "Làm nóng": "45 giây", "Portafilter": "51mm", "Nồi hơi": "Thermoblock", "Đầu hơi": "Panarello", "Trọng lượng": "2,5 kg"},
-      "scores": {"Chất lượng espresso": 3.9, "Dễ sử dụng": 4.4, "Chất lượng xây dựng": 3.8, "Giá trị": 4.7, "Sức mạnh hơi": 3.6}
+      "specs": {
+        "Giá": "~$80",
+        "Bơm": "15 bar",
+        "Làm nóng": "45 giây",
+        "Portafilter": "51mm",
+        "Nồi hơi": "Thermoblock",
+        "Đầu hơi": "Panarello",
+        "Trọng lượng": "2,5 kg"
+      },
+      "scores": {
+        "Chất lượng espresso": 3.9,
+        "Dễ sử dụng": 4.4,
+        "Chất lượng xây dựng": 3.8,
+        "Giá trị": 4.7,
+        "Sức mạnh hơi": 3.6
+      }
     },
     {
       "offerId": "nespresso-essenza-mini-d30",
       "badge": "Tốt Nhất Về Tiện Lợi",
       "review": "Essenza Mini loại bỏ mọi biến số: rộng 8 cm, làm nóng 25 giây và crema nhất quán mỗi lần với viên nang OriginalLine. Đánh đổi là sự phụ thuộc viên nang ở $0,70–$1,00 mỗi viên và không có đầu hơi — máy tạo bọt Aeroccino là phụ kiện $50.",
-      "pros": ["Diện tích 8 cm — đặt được ở bất cứ đâu", "Bơm 19 bar với crema nhất quán mỗi shot", "Không cần kỹ năng"],
-      "cons": ["Không có đầu hơi tích hợp", "Viên nang độc quyền ở $0,70–$1,00 mỗi viên"],
+      "pros": [
+        "Diện tích 8 cm — đặt được ở bất cứ đâu",
+        "Bơm 19 bar với crema nhất quán mỗi shot",
+        "Không cần kỹ năng"
+      ],
+      "cons": [
+        "Không có đầu hơi tích hợp",
+        "Viên nang độc quyền ở $0,70–$1,00 mỗi viên"
+      ],
       "grade": "B+",
-      "specs": {"Giá": "~$100", "Bơm": "19 bar", "Làm nóng": "25 giây", "Định dạng": "Viên nang OriginalLine", "Chiều rộng": "8 cm", "Đầu hơi": "Không", "Trọng lượng": "2,2 kg"},
-      "scores": {"Chất lượng espresso": 3.8, "Dễ sử dụng": 4.9, "Chất lượng xây dựng": 3.7, "Giá trị": 3.5, "Sức mạnh hơi": 1.0}
+      "specs": {
+        "Giá": "~$100",
+        "Bơm": "19 bar",
+        "Làm nóng": "25 giây",
+        "Định dạng": "Viên nang OriginalLine",
+        "Chiều rộng": "8 cm",
+        "Đầu hơi": "Không",
+        "Trọng lượng": "2,2 kg"
+      },
+      "scores": {
+        "Chất lượng espresso": 3.8,
+        "Dễ sử dụng": 4.9,
+        "Chất lượng xây dựng": 3.7,
+        "Giá trị": 3.5,
+        "Sức mạnh hơi": 1.0
+      }
     },
     {
       "offerId": "mr-coffee-ecmp50-espresso",
       "badge": "Tốt Nhất Cho Đồ Uống Sữa",
       "review": "ECMP50 là máy duy nhất ở đây với máy tạo bọt sữa tự động tích hợp một nút — bạn có latte và cappuccino mà không cần chạm vào đầu hơi. Làm nóng 40–45 giây và giỏ có áp suất xử lý cà phê xay sẵn tốt. Không phải con đường đến espresso nâng cao, nhưng không gì sánh được cho đồ uống sữa dễ dàng ở ~$85.",
-      "pros": ["Máy tạo bọt sữa tự động tích hợp — không cần kỹ thuật đầu hơi", "Đầu ra kép: đầu hơi chuyên dụng cộng máy tạo bọt tự động", "Mức giá ~$85"],
-      "cons": ["Giỏ có áp suất giới hạn trần chất lượng espresso"],
+      "pros": [
+        "Máy tạo bọt sữa tự động tích hợp — không cần kỹ thuật đầu hơi",
+        "Đầu ra kép: đầu hơi chuyên dụng cộng máy tạo bọt tự động",
+        "Mức giá ~$85"
+      ],
+      "cons": [
+        "Giỏ có áp suất giới hạn trần chất lượng espresso"
+      ],
       "grade": "B",
-      "specs": {"Giá": "~$85", "Bơm": "15 bar", "Làm nóng": "40–45 giây", "Máy tạo bọt": "Tự động tích hợp", "Đầu hơi": "Có", "Portafilter": "Có áp suất", "Trọng lượng": "2,8 kg"},
-      "scores": {"Chất lượng espresso": 3.5, "Dễ sử dụng": 4.6, "Chất lượng xây dựng": 3.6, "Giá trị": 4.3, "Sức mạnh hơi": 4.0}
+      "specs": {
+        "Giá": "~$85",
+        "Bơm": "15 bar",
+        "Làm nóng": "40–45 giây",
+        "Máy tạo bọt": "Tự động tích hợp",
+        "Đầu hơi": "Có",
+        "Portafilter": "Có áp suất",
+        "Trọng lượng": "2,8 kg"
+      },
+      "scores": {
+        "Chất lượng espresso": 3.5,
+        "Dễ sử dụng": 4.6,
+        "Chất lượng xây dựng": 3.6,
+        "Giá trị": 4.3,
+        "Sức mạnh hơi": 4.0
+      }
     },
     {
       "offerId": "hamilton-beach-40792-espresso",
       "badge": "Tốt Nhất Cho Ngân Sách",
       "review": "Ở ~$50, 40792 là máy espresso bơm thực sự rẻ nhất trong so sánh này — không phải áp suất hơi, mà là bơm 15 bar thực sự. Làm nóng mất 60 giây và đầu hơi ống trần đòi hỏi kỹ thuật nhiều nhất trong số các máy ở đây, nhưng tạo ra cà phê theo phong cách espresso dễ nhận biết và rủi ro tài chính là tối thiểu cho lần mua đầu tiên.",
-      "pros": ["~$50 máy espresso bơm rẻ nhất", "Chấp nhận cà phê xay và viên nang ESE", "Rủi ro tài chính thấp cho lần mua espresso đầu tiên"],
-      "cons": ["Làm nóng 60 giây — lâu nhất trong so sánh này", "Đầu hơi ống trần đòi hỏi kỹ thuật nhiều nhất"],
+      "pros": [
+        "~$50 máy espresso bơm rẻ nhất",
+        "Chấp nhận cà phê xay và viên nang ESE",
+        "Rủi ro tài chính thấp cho lần mua espresso đầu tiên"
+      ],
+      "cons": [
+        "Làm nóng 60 giây — lâu nhất trong so sánh này",
+        "Đầu hơi ống trần đòi hỏi kỹ thuật nhiều nhất"
+      ],
       "grade": "B-",
-      "specs": {"Giá": "~$50", "Bơm": "15 bar", "Làm nóng": "60 giây", "Portafilter": "Có áp suất", "Đầu hơi": "Ống trần", "Trọng lượng": "2,0 kg", "Tương thích pod": "Viên nang ESE"},
-      "scores": {"Chất lượng espresso": 3.2, "Dễ sử dụng": 3.8, "Chất lượng xây dựng": 3.0, "Giá trị": 4.8, "Sức mạnh hơi": 2.8}
+      "specs": {
+        "Giá": "~$50",
+        "Bơm": "15 bar",
+        "Làm nóng": "60 giây",
+        "Portafilter": "Có áp suất",
+        "Đầu hơi": "Ống trần",
+        "Trọng lượng": "2,0 kg",
+        "Tương thích pod": "Viên nang ESE"
+      },
+      "scores": {
+        "Chất lượng espresso": 3.2,
+        "Dễ sử dụng": 3.8,
+        "Chất lượng xây dựng": 3.0,
+        "Giá trị": 4.8,
+        "Sức mạnh hơi": 2.8
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Cho barista gia đình đầy tham vọng", "offerId": "breville-bambino-bes450", "reason": "Làm nóng ThermoJet và đường kính portafilter thương mại cho không gian thực sự để phát triển kỹ thuật"},
-    {"label": "Cho giá trị tốt nhất ở ~$80", "offerId": "delonghi-ec155m-espresso", "reason": "Tính linh hoạt viên nang ESE + cà phê xay với đầu hơi thân thiện người mới"},
-    {"label": "Cho sự tiện lợi viên nang", "offerId": "nespresso-essenza-mini-d30", "reason": "Không có biến số, diện tích nhỏ, crema nhất quán — không cần kỹ thuật"},
-    {"label": "Cho đồ uống sữa dễ dàng", "offerId": "mr-coffee-ecmp50-espresso", "reason": "Máy tạo bọt tự động tích hợp tạo latte mà không cần luyện tập đầu hơi"},
-    {"label": "Cho người mới tuyệt đối với ngân sách hạn chế", "offerId": "hamilton-beach-40792-espresso", "reason": "Máy espresso bơm rẻ nhất với rủi ro tài chính tối thiểu"}
+    {
+      "label": "Cho barista gia đình đầy tham vọng",
+      "offerId": "breville-bambino-bes450",
+      "reason": "Làm nóng ThermoJet và đường kính portafilter thương mại cho không gian thực sự để phát triển kỹ thuật"
+    },
+    {
+      "label": "Cho giá trị tốt nhất ở ~$80",
+      "offerId": "delonghi-ec155m-espresso",
+      "reason": "Tính linh hoạt viên nang ESE + cà phê xay với đầu hơi thân thiện người mới"
+    },
+    {
+      "label": "Cho sự tiện lợi viên nang",
+      "offerId": "nespresso-essenza-mini-d30",
+      "reason": "Không có biến số, diện tích nhỏ, crema nhất quán — không cần kỹ thuật"
+    },
+    {
+      "label": "Cho đồ uống sữa dễ dàng",
+      "offerId": "mr-coffee-ecmp50-espresso",
+      "reason": "Máy tạo bọt tự động tích hợp tạo latte mà không cần luyện tập đầu hơi"
+    },
+    {
+      "label": "Cho người mới tuyệt đối với ngân sách hạn chế",
+      "offerId": "hamilton-beach-40792-espresso",
+      "reason": "Máy espresso bơm rẻ nhất với rủi ro tài chính tối thiểu"
+    }
   ]
 }

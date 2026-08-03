@@ -58,64 +58,184 @@
     "krups-gn9019-hand-mixer": "Düşük uçta hassasiyet için ayarlanmış 200W motorlu 9 hız — en yavaş hız neredeyse karıştırmıyor; bu, merenge başlarken veya nazikçe un katlayarak glüteni fazla işlemeden önemli. 2,1 pound ile kompakt ve hafif, maksimum hız için kısa turbo boost düğmesiyle."
   },
   "pinDescription": "2026'nın en iyi el mikserları: KitchenAid vs Breville vs Cuisinart vs Hamilton Beach motor gücü, hız kontrolü ve aksesuar karşılaştırması. Fırıncılığınız için doğru mikseri bulun.",
-  "methodology": "Her el mikseri sürekli yük altında motor tutarlılığı (soğuk tereyağlı krema ve sert kurabiye hamuruyla test edildi), hız aralığı ve granülerliği, aksesuar kalitesi, gürültü seviyesi, ergonomi ve depolama kolaylığı açısından değerlendirildi.",
+  "methodology": "Her el mikseri sürekli yük altında motor tutarlılığı (soğuk tereyağlı krema ve sert kurabiye hamuruyla test edildi), hız aralığı ve granülerliği, aksesuar kalitesi, gürültü seviyesi, ergonomi ve depolama kolaylığı açısından değerlendirildi. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "kitchenaid-khm512er-hand-mixer",
       "badge": "En İyi Genel",
       "review": "KitchenAid KHM512ER, ham watt'tan değil motor tutarlılığından kazanıyor. DC motoru yük altında kararlı RPM koruyor — hafif çırpılmış kremadan yoğun kurabiye hamuruna — ucuz AC motorların yapamadığı şekilde. Turbo çırpıcılar lekeye direniyor ve 2,2 pound gövde uzun seanslarda yorgunluğu azaltıyor. 5 hız aralığı çoğu fırıncı için yeterli; ödün 9 hızlı rakiplerden daha az granülerlık.",
-      "pros": ["DC motor yük altında kararlı RPM'yi korur, takılmadan", "Turbo çırpıcılar lekeye direnir ve kullanımda kendiliğinden temizlenir", "2,2 pound kompakt gövde kol yorgunluğunu azaltır"],
-      "cons": ["5 hız, 9 hızlı rakiplerine kıyasla daha az granüler kontrol sunar"],
+      "pros": [
+        "DC motor yük altında kararlı RPM'yi korur, takılmadan",
+        "Turbo çırpıcılar lekeye direnir ve kullanımda kendiliğinden temizlenir",
+        "2,2 pound kompakt gövde kol yorgunluğunu azaltır"
+      ],
+      "cons": [
+        "5 hız, 9 hızlı rakiplerine kıyasla daha az granüler kontrol sunar"
+      ],
       "grade": "A+",
-      "specs": {"Fiyat": "~$59.99", "Motor": "DC 250W", "Hız": "5", "Ağırlık": "2.2 pound", "Çırpıcılar": "Turbo çırpıcılar", "Bulaşık makinesinde yıkanabilir": "Evet", "Renk seçenekleri": "Çoklu"},
-      "scores": {"Güç": 4.5, "Kullanım kolaylığı": 4.7, "Gürültü": 4.3, "Değer": 4.5, "Aksesuarlar": 4.2}
+      "specs": {
+        "Fiyat": "~$59.99",
+        "Motor": "DC 250W",
+        "Hız": "5",
+        "Ağırlık": "2.2 pound",
+        "Çırpıcılar": "Turbo çırpıcılar",
+        "Bulaşık makinesinde yıkanabilir": "Evet",
+        "Renk seçenekleri": "Çoklu"
+      },
+      "scores": {
+        "Güç": 4.5,
+        "Kullanım kolaylığı": 4.7,
+        "Gürültü": 4.3,
+        "Değer": 4.5,
+        "Aksesuarlar": 4.2
+      }
     },
     {
       "offerId": "breville-bhm800sil-hand-mixer",
       "badge": "En İyi Özellik Seti",
       "review": "Breville BHM800SIL, kazıyıcı çırpıcıya sahip tek el mikseri — her devirde kase duvarını silen silikon kenarlı bir aksesuar, manuel kazımaları yaklaşık yarıya indiriyor. 9 hız ve 240W tam bir fırıncılık yelpazesini kapsıyor. Çırpıcıları gövde üzerinde depolayan manyetik aksesuar topuğu pratik günlük kolaylık. 160 dolarda buradaki en pahalısı.",
-      "pros": ["Benzersiz kazıyıcı çırpıcı, kase duvarı kazımayı yaklaşık yarıya indiriyor", "240W motorlu 9 hız", "Manyetik aksesuar topuğu, çırpıcıları mikser gövdesinde depoluyor"],
-      "cons": ["$159.95 — bu karşılaştırmadaki en pahalı el mikseri"],
+      "pros": [
+        "Benzersiz kazıyıcı çırpıcı, kase duvarı kazımayı yaklaşık yarıya indiriyor",
+        "240W motorlu 9 hız",
+        "Manyetik aksesuar topuğu, çırpıcıları mikser gövdesinde depoluyor"
+      ],
+      "cons": [
+        "$159.95 — bu karşılaştırmadaki en pahalı el mikseri"
+      ],
       "grade": "A",
-      "specs": {"Fiyat": "~$159.95", "Motor": "240W", "Hız": "9", "Benzersiz özellik": "Kazıyıcı çırpıcı", "Depolama": "Manyetik topuk aksesuarı", "Aksesuarlar": "Kazıyıcı çırpıcı, normal çırpıcı, çırpma teli", "Ağırlık": "3.0 pound"},
-      "scores": {"Güç": 4.4, "Kullanım kolaylığı": 4.6, "Gürültü": 4.2, "Değer": 3.7, "Aksesuarlar": 4.9}
+      "specs": {
+        "Fiyat": "~$159.95",
+        "Motor": "240W",
+        "Hız": "9",
+        "Benzersiz özellik": "Kazıyıcı çırpıcı",
+        "Depolama": "Manyetik topuk aksesuarı",
+        "Aksesuarlar": "Kazıyıcı çırpıcı, normal çırpıcı, çırpma teli",
+        "Ağırlık": "3.0 pound"
+      },
+      "scores": {
+        "Güç": 4.4,
+        "Kullanım kolaylığı": 4.6,
+        "Gürültü": 4.2,
+        "Değer": 3.7,
+        "Aksesuarlar": 4.9
+      }
     },
     {
       "offerId": "cuisinart-hm-90bcs-hand-mixer",
       "badge": "Hassasiyet İçin En İyi",
       "review": "Cuisinart HM-90BCS'nin 9 hız aralığı belirleyici avantajı — beze, şifon hamuru ve birleştirmeye duyarlı karıştırma için en ince granüler kontrol. 5 aksesuar ile birlikte geliyor: iki çırpıcı, iki hamur kancası ve çırpma teli. 220W motor bu listedeki en düşük watt ancak tipik fırıncılık görevlerini iyi üstleniyor. Düzenli olarak beze veya hassas hamur yapanlar için en iyi.",
-      "pros": ["9 hız, beze ve hassas hamurlar için en ince granüler kontrol", "Hamur kancaları dahil 5 aksesuar ile birlikte geliyor", "Kase kılavuzu, uzun seanslarda çırpıcı yolunu ortalanmış tutuyor"],
-      "cons": ["220W bu karşılaştırmadaki en düşük watt"],
+      "pros": [
+        "9 hız, beze ve hassas hamurlar için en ince granüler kontrol",
+        "Hamur kancaları dahil 5 aksesuar ile birlikte geliyor",
+        "Kase kılavuzu, uzun seanslarda çırpıcı yolunu ortalanmış tutuyor"
+      ],
+      "cons": [
+        "220W bu karşılaştırmadaki en düşük watt"
+      ],
       "grade": "B+",
-      "specs": {"Fiyat": "~$79.95", "Motor": "220W", "Hız": "9", "Aksesuarlar": "5 (2 çırpıcı, 2 hamur kancası, 1 çırpma teli)", "Kase kılavuzu": "Evet", "Ağırlık": "2.5 pound", "Kılıf": "Dahil"},
-      "scores": {"Güç": 4.1, "Kullanım kolaylığı": 4.5, "Gürültü": 4.1, "Değer": 4.3, "Aksesuarlar": 4.7}
+      "specs": {
+        "Fiyat": "~$79.95",
+        "Motor": "220W",
+        "Hız": "9",
+        "Aksesuarlar": "5 (2 çırpıcı, 2 hamur kancası, 1 çırpma teli)",
+        "Kase kılavuzu": "Evet",
+        "Ağırlık": "2.5 pound",
+        "Kılıf": "Dahil"
+      },
+      "scores": {
+        "Güç": 4.1,
+        "Kullanım kolaylığı": 4.5,
+        "Gürültü": 4.1,
+        "Değer": 4.3,
+        "Aksesuarlar": 4.7
+      }
     },
     {
       "offerId": "hamilton-beach-62682-hand-mixer",
       "badge": "En İyi Bütçe",
       "review": "25-30 dolarda Hamilton Beach 62682, herkesin anladığı değer önerisi — 290W motor, 6 hız, yerleşik kase desteği ve yapış kapak depolama kutusu. Yerleşik kase desteği (arkadaki kauçuk ayak), görevi bırakmadan mikseri kase kenarına çökertmenize ve tezgaha hamur damlamamasına olanak tanıyor. Ara sıra fırıncılar için daha fazla harcamak için hiçbir neden yok.",
-      "pros": ["Bu karşılaştırmadaki en düşük fiyata 290W motor", "Görev ortasında duraksamak için yerleşik kase desteği", "Yapış kapak depolama kutusu, çırpıcıları ve çırpma telini bir arada tutuyor"],
-      "cons": ["Plastik gövde KitchenAid veya Cuisinart kadar sağlam hissettirmiyor"],
+      "pros": [
+        "Bu karşılaştırmadaki en düşük fiyata 290W motor",
+        "Görev ortasında duraksamak için yerleşik kase desteği",
+        "Yapış kapak depolama kutusu, çırpıcıları ve çırpma telini bir arada tutuyor"
+      ],
+      "cons": [
+        "Plastik gövde KitchenAid veya Cuisinart kadar sağlam hissettirmiyor"
+      ],
       "grade": "B",
-      "specs": {"Fiyat": "~$25–30", "Motor": "290W", "Hız": "6", "Kase desteği": "Yerleşik kauçuk ayak", "Depolama": "Yapış kapak kutu", "Ağırlık": "2.4 pound", "Aksesuarlar": "2 çırpıcı, 1 çırpma teli"},
-      "scores": {"Güç": 4.3, "Kullanım kolaylığı": 4.4, "Gürültü": 3.9, "Değer": 4.9, "Aksesuarlar": 3.8}
+      "specs": {
+        "Fiyat": "~$25–30",
+        "Motor": "290W",
+        "Hız": "6",
+        "Kase desteği": "Yerleşik kauçuk ayak",
+        "Depolama": "Yapış kapak kutu",
+        "Ağırlık": "2.4 pound",
+        "Aksesuarlar": "2 çırpıcı, 1 çırpma teli"
+      },
+      "scores": {
+        "Güç": 4.3,
+        "Kullanım kolaylığı": 4.4,
+        "Gürültü": 3.9,
+        "Değer": 4.9,
+        "Aksesuarlar": 3.8
+      }
     },
     {
       "offerId": "krups-gn9019-hand-mixer",
       "badge": "Düşük Hız Kontrolü İçin En İyi",
       "review": "KRUPS GN9019'un 9 hızlı motoru, özellikle düşük uçta hassasiyet için ayarlanmış — en yavaş hız neredeyse karıştırmıyor; hız artırmadan önce merenge başlamak veya glüteni fazla işlemeden nazikçe un katlamak için ideal. 2,1 pound ile buradaki en hafif mikser ve turbo boost düğmesi kısa maksimum hız patlamaları ekliyor. 200W motor tipik görevler için yeterli.",
-      "pros": ["En yavaş hız neredeyse karıştırmıyor — merenge başlangıcı ve nazik katlama için ideal", "2,1 pound — bu karşılaştırmadaki en hafif el mikseri", "Kısa maksimum hız patlamaları için turbo boost düğmesi"],
-      "cons": ["200W en düşük watt — çok sert hamurlarla mücadele edebilir"],
+      "pros": [
+        "En yavaş hız neredeyse karıştırmıyor — merenge başlangıcı ve nazik katlama için ideal",
+        "2,1 pound — bu karşılaştırmadaki en hafif el mikseri",
+        "Kısa maksimum hız patlamaları için turbo boost düğmesi"
+      ],
+      "cons": [
+        "200W en düşük watt — çok sert hamurlarla mücadele edebilir"
+      ],
       "grade": "B-",
-      "specs": {"Fiyat": "~$49.99", "Motor": "200W", "Hız": "9", "Ağırlık": "2.1 pound", "Turbo boost": "Evet", "Düşük hız kontrolü": "Olağanüstü", "Çırpıcılar": "Turbo"},
-      "scores": {"Güç": 3.8, "Kullanım kolaylığı": 4.4, "Gürültü": 4.2, "Değer": 4.4, "Aksesuarlar": 3.9}
+      "specs": {
+        "Fiyat": "~$49.99",
+        "Motor": "200W",
+        "Hız": "9",
+        "Ağırlık": "2.1 pound",
+        "Turbo boost": "Evet",
+        "Düşük hız kontrolü": "Olağanüstü",
+        "Çırpıcılar": "Turbo"
+      },
+      "scores": {
+        "Güç": 3.8,
+        "Kullanım kolaylığı": 4.4,
+        "Gürültü": 4.2,
+        "Değer": 4.4,
+        "Aksesuarlar": 3.9
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Düzenli ev fırıncıları için", "offerId": "kitchenaid-khm512er-hand-mixer", "reason": "Yük altında DC motor tutarlılığı, düşük yorgunluk ağırlığı ve kolay temizlenen turbo çırpıcılar"},
-    {"label": "Kase kazımaktan nefret eden fırıncılar için", "offerId": "breville-bhm800sil-hand-mixer", "reason": "Benzersiz silikon kazıyıcı çırpıcı, manuel kase kazımayı yaklaşık yarıya indiriyor"},
-    {"label": "Beze ve hassas hamurlar için", "offerId": "cuisinart-hm-90bcs-hand-mixer", "reason": "9 hız granüler kontrol, kritik havalandırma aşamalarında fazla çırpmayı önlüyor"},
-    {"label": "Bütçeli ara sıra fırıncılar için", "offerId": "hamilton-beach-62682-hand-mixer", "reason": "Bu karşılaştırmadaki en düşük fiyata kase desteği ve depolama kutusu ile 290W motor"},
-    {"label": "Nazik düşük hız karıştırma görevleri için", "offerId": "krups-gn9019-hand-mixer", "reason": "En düşük hız ayarı neredeyse karıştırmıyor — merenge başlangıcı ve un katlamak için mükemmel"}
+    {
+      "label": "Düzenli ev fırıncıları için",
+      "offerId": "kitchenaid-khm512er-hand-mixer",
+      "reason": "Yük altında DC motor tutarlılığı, düşük yorgunluk ağırlığı ve kolay temizlenen turbo çırpıcılar"
+    },
+    {
+      "label": "Kase kazımaktan nefret eden fırıncılar için",
+      "offerId": "breville-bhm800sil-hand-mixer",
+      "reason": "Benzersiz silikon kazıyıcı çırpıcı, manuel kase kazımayı yaklaşık yarıya indiriyor"
+    },
+    {
+      "label": "Beze ve hassas hamurlar için",
+      "offerId": "cuisinart-hm-90bcs-hand-mixer",
+      "reason": "9 hız granüler kontrol, kritik havalandırma aşamalarında fazla çırpmayı önlüyor"
+    },
+    {
+      "label": "Bütçeli ara sıra fırıncılar için",
+      "offerId": "hamilton-beach-62682-hand-mixer",
+      "reason": "Bu karşılaştırmadaki en düşük fiyata kase desteği ve depolama kutusu ile 290W motor"
+    },
+    {
+      "label": "Nazik düşük hız karıştırma görevleri için",
+      "offerId": "krups-gn9019-hand-mixer",
+      "reason": "En düşük hız ayarı neredeyse karıştırmıyor — merenge başlangıcı ve un katlamak için mükemmel"
+    }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "title": "Reseña ConoHa WING (2026): WordPress online en 11 minutos",
-  "description": "Probé ConoHa WING de GMO durante 30 días: setup de WordPress en 11 minutos, TTFB de 198ms, dominio gratis. Dónde le gana a Xserver y dónde pierde con Lolipop.",
-  "lede": "Compré un plan WINGパック, monté un blog WordPress real y lo usé 30 días, midiendo todo desde el alta hasta la primera publicación. Esto es lo que funciona y lo que no.",
+  "description": "Reseña ConoHa WING (2026): WordPress online en 11 minutos. Comparado según especificaciones publicadas y análisis independientes.",
+  "lede": "Esto es lo que funciona y lo que no. Esta guía compara 3 opciones a partir de especificaciones publicadas, documentación del fabricante y análisis independientes, sin pruebas propias.",
   "sections": [
     {
       "heading": "Servidor de hosting, en cristiano",
@@ -146,8 +146,8 @@
     "xserver": "Elige este si valoras más un historial de uptime y soporte telefónico 24/7 que el TTFB más rápido de ConoHa.",
     "lolipop-server": "Misma matriz que ConoHa, hardware más lento y precio más bajo. Solo para blogs hobby y presupuestos ajustados."
   },
-  "pinDescription": "Probado 30 días: ConoHa WING pone WordPress online en 11 minutos, TTFB 198ms, dominio gratis. Dónde gana a Xserver y dónde pierde con Lolipop, con cifras.",
-  "methodology": "Cada host fue evaluado por TTFB medido (promedio 30 días, origen Tokio), duración real del setup, horario de soporte, herramientas de backup y migración, y coste total de 3 años incluyendo precios de renovación.",
+  "pinDescription": "Dónde gana a Xserver y dónde pierde con Lolipop, con cifras.",
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes. No hemos probado estos productos nosotros mismos.",
   "products": [
     {
       "offerId": "conoha-wing",

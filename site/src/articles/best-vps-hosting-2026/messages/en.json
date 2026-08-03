@@ -1,8 +1,8 @@
 {
   "title": "Best VPS Hosting 2026: 5 Providers Benchmarked",
-  "description": "DigitalOcean, Vultr, Linode, Hetzner Cloud, and AWS Lightsail — we deployed the same Node.js + Postgres app to each for 60 days. Here's where each one wins on price, latency, and operator pain.",
+  "description": "Best VPS Hosting 2026: 5 Providers Benchmarked. Compared on published specs, manufacturer data and independent reviews.",
   "lede": "This guide compares 5 options using published specifications, manufacturer documentation and independent reviews — not hands-on testing.",
-  "methodology": "Deployed the same Express + Postgres app to a 4 vCPU / 8 GB plan on each provider. Routed 20% of real traffic to each. Measured p50/p99 latency, CPU steal, ingress/egress costs, and minutes-to-deploy from clean signup.",
+  "methodology": "This comparison is desk research. We compared publicly available specifications, manufacturer documentation, and independent reviews and lab tests. We did not test these products ourselves.",
   "sections": [
     {
       "heading": "Price-per-spec at the same tier",
@@ -122,7 +122,7 @@
     "hetzner-cloud-cpx": "Sign up at hetzner.com — KYC verification adds 1-2 days to account approval. EU-based teams will not regret it.",
     "aws-lightsail": "Sign up at aws.amazon.com — free tier for 3 months on smaller plans. Read the bandwidth pricing carefully before going to production."
   },
-  "pinDescription": "Best VPS hosting 2026: DigitalOcean vs Vultr vs Linode vs Hetzner vs AWS Lightsail benchmarked on the same Node.js app for 60 days. Real latency and price-per-spec data. #vps #hosting",
+  "pinDescription": "Best VPS Hosting 2026: 5 Providers Benchmarked. Compared on published specs, manufacturer data and independent reviews.",
   "recommendedFor": [
     {
       "label": "Indie developers shipping their first production SaaS",

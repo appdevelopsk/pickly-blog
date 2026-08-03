@@ -93,64 +93,179 @@
     "twinbird-ep-4694": "Compact 2-quart manual slow cooker — High, Low, and Warm on a simple dial with a removable stoneware crock. No timer or probe; best for dips, sides, and small batches."
   },
   "pinDescription": "Five slow cookers compared in 2026 — Crock-Pot 6-Quart, Instant Pot Duo 7-in-1, Cuisinart CSC-800, Hamilton Beach Set & Forget 33967, and the Crock-Pot 2-Quart Mini. Which one handles overnight stews, large roasts, and small-batch sides without babysitting?",
-  "methodology": "Each slow cooker was evaluated on actual heat distribution consistency across the insert, programmable timer reliability, capacity accuracy against stated volume, ease of cleaning the ceramic or stainless insert, and long-term owner reports on lid seal and heating element longevity.",
+  "methodology": "Each slow cooker was evaluated on actual heat distribution consistency across the insert, programmable timer reliability, capacity accuracy against stated volume, ease of cleaning the ceramic or stainless insert, and long-term owner reports on lid seal and heating element longevity. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "crock-pot-sccpvl610-s",
       "badge": "Best Overall",
       "review": "The Crock-Pot SCCPVL610-S has not meaningfully changed in forty years because the core design works: a 6-quart ceramic insert, even heat distribution, and a three-setting dial that is impossible to operate incorrectly. The absence of a programmable timer means food cooks until you manually switch it — a real constraint if your schedule is unpredictable.",
-      "pros": ["6-quart ceramic insert handles whole chickens and large roasts", "Three-setting dial is foolproof", "Dishwasher-safe pot and lid"],
-      "cons": ["No programmable timer — cannot auto-switch to Warm when cook time ends"],
+      "pros": [
+        "6-quart ceramic insert handles whole chickens and large roasts",
+        "Three-setting dial is foolproof",
+        "Dishwasher-safe pot and lid"
+      ],
+      "cons": [
+        "No programmable timer — cannot auto-switch to Warm when cook time ends"
+      ],
       "grade": "A+",
-      "specs": {"Capacity": "6 quarts (5.7L)", "Power": "200W (Low) / 300W (High)", "Timer": "None", "Insert": "Ceramic", "Lid": "Glass, no lock", "Dimensions": "~35×25×28cm"},
-      "scores": {"Heat distribution": 4.7, "Capacity": 4.9, "Ease of use": 5.0, "Value": 4.9, "Programmability": 1.0}
+      "specs": {
+        "Capacity": "6 quarts (5.7L)",
+        "Power": "200W (Low) / 300W (High)",
+        "Timer": "None",
+        "Insert": "Ceramic",
+        "Lid": "Glass, no lock",
+        "Dimensions": "~35×25×28cm"
+      },
+      "scores": {
+        "Heat distribution": 4.7,
+        "Capacity": 4.9,
+        "Ease of use": 5.0,
+        "Value": 4.9,
+        "Programmability": 1.0
+      }
     },
     {
       "offerId": "instant-pot-duo-7in1",
       "badge": "Best Versatile Cooker",
       "review": "The Instant Pot Duo 7-in-1 earns its place by combining a pressure cooker that cuts a 6-hour braise to 35 minutes with a programmable slow cooker for all-day cooks. The well-documented caveat is that its slow cooker Low setting runs hotter than a traditional Crock-Pot Low — existing slow-cooker recipes need time reduction or more liquid.",
-      "pros": ["Pressure cooker mode reduces long braises to under 45 minutes", "Slow cooker mode has programmable timer and auto Keep Warm", "Locking lid prevents spills during transport"],
-      "cons": ["Slow cooker Low runs hotter than traditional units — recipe adjustment required"],
+      "pros": [
+        "Pressure cooker mode reduces long braises to under 45 minutes",
+        "Slow cooker mode has programmable timer and auto Keep Warm",
+        "Locking lid prevents spills during transport"
+      ],
+      "cons": [
+        "Slow cooker Low runs hotter than traditional units — recipe adjustment required"
+      ],
       "grade": "A",
-      "specs": {"Capacity": "6 quarts (5.7L)", "Power": "1000W", "Timer": "Yes (up to 24h + delay start)", "Insert": "Stainless steel", "Lid": "Locking pressure lid", "Modes": "7 (pressure, slow, sauté, steam, rice, warm, yogurt)"},
-      "scores": {"Heat distribution": 4.2, "Capacity": 4.8, "Ease of use": 3.5, "Value": 4.5, "Programmability": 4.8}
+      "specs": {
+        "Capacity": "6 quarts (5.7L)",
+        "Power": "1000W",
+        "Timer": "Yes (up to 24h + delay start)",
+        "Insert": "Stainless steel",
+        "Lid": "Locking pressure lid",
+        "Modes": "7 (pressure, slow, sauté, steam, rice, warm, yogurt)"
+      },
+      "scores": {
+        "Heat distribution": 4.2,
+        "Capacity": 4.8,
+        "Ease of use": 3.5,
+        "Value": 4.5,
+        "Programmability": 4.8
+      }
     },
     {
       "offerId": "cuisinart-csc-800",
       "badge": "Best for Small Households",
       "review": "The Cuisinart CSC-800's 3.5-liter capacity is calibrated for small apartments and 1-2 person households — it fits on a compact counter alongside a rice cooker and produces portions that don't force days of leftovers. The 24-hour timer with auto Keep Warm is the feature that justifies the price over a manual small slow cooker.",
-      "pros": ["3.5L compact size right for 1-2 person households", "24-hour programmable timer with auto Keep Warm", "Attractive stainless and glass design"],
-      "cons": ["Import-only in Japan — warranty service through importer with 2-4 week part delays"],
+      "pros": [
+        "3.5L compact size right for 1-2 person households",
+        "24-hour programmable timer with auto Keep Warm",
+        "Attractive stainless and glass design"
+      ],
+      "cons": [
+        "Import-only in Japan — warranty service through importer with 2-4 week part delays"
+      ],
       "grade": "B+",
-      "specs": {"Capacity": "3.5 litres", "Power": "200W", "Timer": "Yes (up to 24h)", "Insert": "Ceramic bowl", "Lid": "Glass", "Market": "Import (no Japan domestic service)"},
-      "scores": {"Heat distribution": 4.3, "Capacity": 3.5, "Ease of use": 4.5, "Value": 3.9, "Programmability": 4.5}
+      "specs": {
+        "Capacity": "3.5 litres",
+        "Power": "200W",
+        "Timer": "Yes (up to 24h)",
+        "Insert": "Ceramic bowl",
+        "Lid": "Glass",
+        "Market": "Import (no Japan domestic service)"
+      },
+      "scores": {
+        "Heat distribution": 4.3,
+        "Capacity": 3.5,
+        "Ease of use": 4.5,
+        "Value": 3.9,
+        "Programmability": 4.5
+      }
     },
     {
       "offerId": "panasonic-sr-mp300",
       "badge": "Best for Precise Long Cooks",
       "review": "The Hamilton Beach Set & Forget 33967 is built around a clip-in temperature probe that switches the cooker to Keep Warm the moment food reaches a target internal temperature. For roasts and large cuts where doneness matters more than elapsed time, that removes the main source of slow-cooker error. It also runs conventional programmable cook times on High or Low.",
-      "pros": ["Temperature probe holds food to a set internal temperature", "Programmable timer transitions to Keep Warm automatically", "6-quart crock with a clip-tight lid for transport"],
-      "cons": ["Probe and programs add steps over a plain three-dial cooker"],
+      "pros": [
+        "Temperature probe holds food to a set internal temperature",
+        "Programmable timer transitions to Keep Warm automatically",
+        "6-quart crock with a clip-tight lid for transport"
+      ],
+      "cons": [
+        "Probe and programs add steps over a plain three-dial cooker"
+      ],
       "grade": "B",
-      "specs": {"Capacity": "6 quarts", "Probe": "Yes (temperature)", "Timer": "Yes (programmable)", "Insert": "Stoneware crock", "Lid": "Clip-tight", "Keep Warm": "Automatic"},
-      "scores": {"Heat distribution": 4.6, "Capacity": 4.5, "Ease of use": 4.0, "Value": 4.0, "Programmability": 4.6}
+      "specs": {
+        "Capacity": "6 quarts",
+        "Probe": "Yes (temperature)",
+        "Timer": "Yes (programmable)",
+        "Insert": "Stoneware crock",
+        "Lid": "Clip-tight",
+        "Keep Warm": "Automatic"
+      },
+      "scores": {
+        "Heat distribution": 4.6,
+        "Capacity": 4.5,
+        "Ease of use": 4.0,
+        "Value": 4.0,
+        "Programmability": 4.6
+      }
     },
     {
       "offerId": "twinbird-ep-4694",
       "badge": "Best Compact Budget Pick",
       "review": "The Crock-Pot 2-Quart Mini (SCCPMC225) occupies a narrow niche: a small-batch slow cooker for dips, side dishes, and meals for one or two at a price well below a full-size unit. The removable stoneware crock lifts out for serving and cleanup, and a simple High/Low/Warm dial keeps it foolproof. The absence of any timer or probe is the reason most buyers who need precision choose the Hamilton Beach 33967 instead.",
-      "pros": ["Compact 2-quart footprint for small kitchens", "Removable stoneware crock for easy serving and cleanup", "Simple High, Low, and Warm dial"],
-      "cons": ["No timer or temperature probe — manual on/off only"],
+      "pros": [
+        "Compact 2-quart footprint for small kitchens",
+        "Removable stoneware crock for easy serving and cleanup",
+        "Simple High, Low, and Warm dial"
+      ],
+      "cons": [
+        "No timer or temperature probe — manual on/off only"
+      ],
       "grade": "B-",
-      "specs": {"Capacity": "2 quarts", "Settings": "High / Low / Warm", "Timer": "None", "Insert": "Stoneware crock", "Lid": "Glass", "Control": "Manual dial"},
-      "scores": {"Heat distribution": 4.0, "Capacity": 2.5, "Ease of use": 4.8, "Value": 4.5, "Programmability": 1.0}
+      "specs": {
+        "Capacity": "2 quarts",
+        "Settings": "High / Low / Warm",
+        "Timer": "None",
+        "Insert": "Stoneware crock",
+        "Lid": "Glass",
+        "Control": "Manual dial"
+      },
+      "scores": {
+        "Heat distribution": 4.0,
+        "Capacity": 2.5,
+        "Ease of use": 4.8,
+        "Value": 4.5,
+        "Programmability": 1.0
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "For families of 4 or batch cooks", "offerId": "crock-pot-sccpvl610-s", "reason": "The 6-quart ceramic insert handles whole chickens and large roasts, and the simple dial means nothing can go wrong."},
-    {"label": "For busy weeknight cooks", "offerId": "instant-pot-duo-7in1", "reason": "Pressure mode cuts a 6-hour braise to 35 minutes — the only option when you need dinner fast, not dinner tomorrow."},
-    {"label": "For small apartment kitchens", "offerId": "cuisinart-csc-800", "reason": "The 3.5L footprint fits beside a rice cooker, and the timer means food is warm whenever you get home."},
-    {"label": "For precise roasts and large cuts", "offerId": "panasonic-sr-mp300", "reason": "The temperature probe holds food to a set internal temperature and switches to Keep Warm on its own, so doneness no longer depends on the clock."},
-    {"label": "For small batches and sides", "offerId": "twinbird-ep-4694", "reason": "The 2-quart crock is the lowest-cost, lowest-hassle entry into slow cooking for dips, sauces, and meals for one or two."}
+    {
+      "label": "For families of 4 or batch cooks",
+      "offerId": "crock-pot-sccpvl610-s",
+      "reason": "The 6-quart ceramic insert handles whole chickens and large roasts, and the simple dial means nothing can go wrong."
+    },
+    {
+      "label": "For busy weeknight cooks",
+      "offerId": "instant-pot-duo-7in1",
+      "reason": "Pressure mode cuts a 6-hour braise to 35 minutes — the only option when you need dinner fast, not dinner tomorrow."
+    },
+    {
+      "label": "For small apartment kitchens",
+      "offerId": "cuisinart-csc-800",
+      "reason": "The 3.5L footprint fits beside a rice cooker, and the timer means food is warm whenever you get home."
+    },
+    {
+      "label": "For precise roasts and large cuts",
+      "offerId": "panasonic-sr-mp300",
+      "reason": "The temperature probe holds food to a set internal temperature and switches to Keep Warm on its own, so doneness no longer depends on the clock."
+    },
+    {
+      "label": "For small batches and sides",
+      "offerId": "twinbird-ep-4694",
+      "reason": "The 2-quart crock is the lowest-cost, lowest-hassle entry into slow cooking for dips, sauces, and meals for one or two."
+    }
   ]
 }

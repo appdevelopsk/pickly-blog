@@ -58,64 +58,174 @@
     "coffee-gator-pour-over-scale": "0,1g çözünürlük, 1-2 saniye tepki, AA pil, zamanlayıcı. $25-40. Bütçe giriş seviyesi seçenek — en düşük maliyette zamanlayıcı ve ölçüm sağlar. Yavaş tepki hassasiyeti sınırlar. Pour-over rutinine ölçüm ekleyen yeni başlayanlar için doğru seçim."
   },
   "pinDescription": "Kahve terazisi 2026: Acaia Pearl vs Timemore Black Mirror vs Hario V60 vs Felicita Incline — tepki süresinin çözünürlükten neden daha önemli olduğu, dahili zamanlayıcı açıklaması, espresso ve pour-over terazi gereksinimleri ve her fiyat noktasında en iyi kahve terazisi.",
-  "methodology": "Her teraziyi tepki süresi, çözünürlük, zamanlayıcı entegrasyonu, güç kaynağı pratikliği, yapım kalitesi ve hem espresso hem pour-over iş akışlarına uygunluk açısından değerlendirdik — tepki süresi gerçek dünya hassasiyeti üzerindeki en büyük etkiye sahip olduğu için en ağır şekilde ağırlıklandırıldı.",
+  "methodology": "Her teraziyi tepki süresi, çözünürlük, zamanlayıcı entegrasyonu, güç kaynağı pratikliği, yapım kalitesi ve hem espresso hem pour-over iş akışlarına uygunluk açısından değerlendirdik — tepki süresi gerçek dünya hassasiyeti üzerindeki en büyük etkiye sahip olduğu için en ağır şekilde ağırlıklandırıldı. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "acaia-pearl-coffee-scale",
       "badge": "Genel En İyi",
       "review": "Acaia Pearl referans kahve terazisidir — 0,1g çözünürlük, 300ms tepki süresi, demleme kayıtları için Bluetooth uygulama bağlantısı ve normal kullanımla 5-10 yıl dayanan alüminyum yapıda şarj edilebilir pil. Pearl, $150-220 fiyatını özelliklerle değil uzun ömür ve hassasiyetle haklı kılar: her seferinde her şeyi doğru yapar. Bluetooth uygulaması tarifler üzerinde iyileştirme yapmak için gerçekten kullanışlıdır.",
-      "pros": ["300ms tepki süresi — burada incelenen herhangi bir terazinin en hızlısı", "Bluetooth uygulaması demlemeler genelinde doz, verim ve süreyi kaydeder", "Şarj edilebilir pilli alüminyum yapı — mağazaya pil almaya koşmaya gerek yok"],
-      "cons": ["$150-220 önemli bir yatırımdır — gündelik ev demleyicileri için gereğinden fazla"],
+      "pros": [
+        "300ms tepki süresi — burada incelenen herhangi bir terazinin en hızlısı",
+        "Bluetooth uygulaması demlemeler genelinde doz, verim ve süreyi kaydeder",
+        "Şarj edilebilir pilli alüminyum yapı — mağazaya pil almaya koşmaya gerek yok"
+      ],
+      "cons": [
+        "$150-220 önemli bir yatırımdır — gündelik ev demleyicileri için gereğinden fazla"
+      ],
       "grade": "A+",
-      "specs": {"Çözünürlük": "0,1g", "Tepki süresi": "~300ms", "Güç": "Şarj edilebilir (USB)", "Bağlantı": "Bluetooth (Acaia uygulaması)", "Platform boyutu": "18cm × 18cm (Pearl) / 14cm × 14cm (Pearl S)"},
-      "scores": {"Yapım kalitesi": 5.0, "Demleme kalitesi": 4.9, "Kullanım kolaylığı": 4.5, "Değer": 3.2, "Çok yönlülük": 4.8}
+      "specs": {
+        "Çözünürlük": "0,1g",
+        "Tepki süresi": "~300ms",
+        "Güç": "Şarj edilebilir (USB)",
+        "Bağlantı": "Bluetooth (Acaia uygulaması)",
+        "Platform boyutu": "18cm × 18cm (Pearl) / 14cm × 14cm (Pearl S)"
+      },
+      "scores": {
+        "Yapım kalitesi": 5.0,
+        "Demleme kalitesi": 4.9,
+        "Kullanım kolaylığı": 4.5,
+        "Değer": 3.2,
+        "Çok yönlülük": 4.8
+      }
     },
     {
       "offerId": "timemore-black-mirror-scale",
       "badge": "En İyi Değer",
       "review": "Timemore Black Mirror Basic+, Acaia priması olmadan tüm temel kahve terazisi özelliklerini isteyen ev pour-over demleyicileri için standart tavsiyedir: 0,1g çözünürlük, 500ms tepki süresi, dahili zamanlayıcı ve AA piller. 500ms tepki, Hario'nun 1 saniyesinden daha hızlıdır ve çoğu tarif için kullanılabilir. AA piller seyahat için şarj edilebilirden daha pratik bir avantajdır. Plastik yapı daha hafif ve daha az premium hissettiriyor, ancak işlevsel olarak yeterli.",
-      "pros": ["$40-60'ta tüm temel kahve terazisi özellikleri — değer standardı", "AA piller — seyahat için kullanışlı, şarj gerekmez", "Tek düğmeli zamanlayıcı başlatma — demleme sırasında minimum sürtüşme"],
-      "cons": ["500ms tepki, Acaia'nın 300ms'sinden yavaştır — hassas tarife uyum için küçük ceza"],
+      "pros": [
+        "$40-60'ta tüm temel kahve terazisi özellikleri — değer standardı",
+        "AA piller — seyahat için kullanışlı, şarj gerekmez",
+        "Tek düğmeli zamanlayıcı başlatma — demleme sırasında minimum sürtüşme"
+      ],
+      "cons": [
+        "500ms tepki, Acaia'nın 300ms'sinden yavaştır — hassas tarife uyum için küçük ceza"
+      ],
       "grade": "A",
-      "specs": {"Çözünürlük": "0,1g", "Tepki süresi": "~500ms", "Güç": "AA piller", "Zamanlayıcı": "Dahili, tek düğme", "Yapı": "Plastik gövde + metal platform"},
-      "scores": {"Yapım kalitesi": 3.8, "Demleme kalitesi": 4.5, "Kullanım kolaylığı": 4.6, "Değer": 4.9, "Çok yönlülük": 4.5}
+      "specs": {
+        "Çözünürlük": "0,1g",
+        "Tepki süresi": "~500ms",
+        "Güç": "AA piller",
+        "Zamanlayıcı": "Dahili, tek düğme",
+        "Yapı": "Plastik gövde + metal platform"
+      },
+      "scores": {
+        "Yapım kalitesi": 3.8,
+        "Demleme kalitesi": 4.5,
+        "Kullanım kolaylığı": 4.6,
+        "Değer": 4.9,
+        "Çok yönlülük": 4.5
+      }
     },
     {
       "offerId": "hario-v60-drip-scale",
       "badge": "V60 Kullanıcıları İçin En İyi",
       "review": "Hario V60 Drip Scale, V60 ekosistemi için tasarlanmıştır ve sadeliği vurgular: bir düğme zamanlayıcıyı başlatır, 80 saatlik AA pil ömrü, yaklaşık 1 saniyelik tepki süresiyle 0,1g çözünürlük. Tepki süresi Timemore ve Acaia'dan daha yavaştır, ancak pil ömrü buradaki herhangi bir terazinin en iyisidir. Tutarlı bir düzenek isteyen ve nadiren şarj etmesi gereken V60 kullanıcıları için Hario terazisi doğal tamamlayıcıdır — ancak Timemore benzer fiyatta daha iyi tepki sağlar.",
-      "pros": ["AA'da 80 saatlik pil ömrü — buradaki herhangi bir terazinin en uzun çalışma süresi", "V60 ekosistemi için tasarlanmış — görsel uyum", "Tek düğmeli basit kullanım, demleme sırasında dikkati dağıtmayı en aza indirir"],
-      "cons": ["1 saniyelik tepki süresi, özel kahve terazileri arasında en yavaştır — hedef ağırlıkta hassasiyeti etkiler"],
+      "pros": [
+        "AA'da 80 saatlik pil ömrü — buradaki herhangi bir terazinin en uzun çalışma süresi",
+        "V60 ekosistemi için tasarlanmış — görsel uyum",
+        "Tek düğmeli basit kullanım, demleme sırasında dikkati dağıtmayı en aza indirir"
+      ],
+      "cons": [
+        "1 saniyelik tepki süresi, özel kahve terazileri arasında en yavaştır — hedef ağırlıkta hassasiyeti etkiler"
+      ],
       "grade": "B+",
-      "specs": {"Çözünürlük": "0,1g", "Tepki süresi": "~1 saniye", "Güç": "AA piller", "Pil ömrü": "~80 saat", "Zamanlayıcı": "Dahili, bir düğme"},
-      "scores": {"Yapım kalitesi": 4.2, "Demleme kalitesi": 4.2, "Kullanım kolaylığı": 4.7, "Değer": 4.3, "Çok yönlülük": 4.0}
+      "specs": {
+        "Çözünürlük": "0,1g",
+        "Tepki süresi": "~1 saniye",
+        "Güç": "AA piller",
+        "Pil ömrü": "~80 saat",
+        "Zamanlayıcı": "Dahili, bir düğme"
+      },
+      "scores": {
+        "Yapım kalitesi": 4.2,
+        "Demleme kalitesi": 4.2,
+        "Kullanım kolaylığı": 4.7,
+        "Değer": 4.3,
+        "Çok yönlülük": 4.0
+      }
     },
     {
       "offerId": "felicita-incline-coffee-scale",
       "badge": "Espresso İçin En İyi",
       "review": "Felicita'nın Incline'ı, portafiltre veya espresso damla tepsisi üzerinden kullanıcıya bakan benzersiz 10 derecelik eğimli ekrana sahiptir — öne eğilmek zorunda kalmadan gerçekten okunabilir. Ağırlık algılandığında etkinleşen otomatik başlatma zamanlayıcısıyla USB-C şarjlı. 200-300ms tepki süresinde Acaia'nın hızına daha düşük fiyatla ($80-120) ulaşır. Eğim tasarımı, düzeneğinize bağlı olarak kullanışlı veya gereksiz olabilir; gizli damla tepsili espresso kullanıcıları için gerçekten pratik.",
-      "pros": ["10 derecelik eğimli ekran — öne eğilmeden portafiltre üzerinden okunabilir", "Otomatik başlatma zamanlayıcısı ağırlık algılandığında etkinleşir — elleri serbest bırakır", "200-300ms tepki — daha düşük maliyetle Acaia'nın hızına ulaşır"],
-      "cons": ["Eğimli ekran yalnızca espresso düzenekleri için kullanışlıdır — pour-over için daha az ilgili"],
+      "pros": [
+        "10 derecelik eğimli ekran — öne eğilmeden portafiltre üzerinden okunabilir",
+        "Otomatik başlatma zamanlayıcısı ağırlık algılandığında etkinleşir — elleri serbest bırakır",
+        "200-300ms tepki — daha düşük maliyetle Acaia'nın hızına ulaşır"
+      ],
+      "cons": [
+        "Eğimli ekran yalnızca espresso düzenekleri için kullanışlıdır — pour-over için daha az ilgili"
+      ],
       "grade": "B",
-      "specs": {"Çözünürlük": "0,1g", "Tepki süresi": "~200-300ms", "Güç": "USB-C şarjlı", "Ekran": "10 derece eğim", "Zamanlayıcı": "Ağırlık algılandığında otomatik başlatma"},
-      "scores": {"Yapım kalitesi": 4.3, "Demleme kalitesi": 4.7, "Kullanım kolaylığı": 4.4, "Değer": 4.0, "Çok yönlülük": 3.8}
+      "specs": {
+        "Çözünürlük": "0,1g",
+        "Tepki süresi": "~200-300ms",
+        "Güç": "USB-C şarjlı",
+        "Ekran": "10 derece eğim",
+        "Zamanlayıcı": "Ağırlık algılandığında otomatik başlatma"
+      },
+      "scores": {
+        "Yapım kalitesi": 4.3,
+        "Demleme kalitesi": 4.7,
+        "Kullanım kolaylığı": 4.4,
+        "Değer": 4.0,
+        "Çok yönlülük": 3.8
+      }
     },
     {
       "offerId": "coffee-gator-pour-over-scale",
       "badge": "Yeni Başlayanlar İçin En İyi",
       "review": "Coffee Gator Pour-Over Scale giriş noktasıdır — en düşük maliyetle ($25-40) temel pour-over rutinine zamanlayıcı ve 0,1g ölçüm ekler. 1-2 saniyelik tepki süresi buradaki en yavaştır ve tam ağırlık hedeflerine dökerken tutarlı aşmaya neden olur, ancak ritüeli öğrenen yeni başlayanlar için zamanlayıcı ve ölçüm alışkanlığı milisaniye hassasiyetinden daha önemlidir. Herhangi bir mutfak terazisine göre anlamlı bir yükseltmedir.",
-      "pros": ["Özel kahve terazileri arasında en düşük fiyat — $25-40", "Dahili zamanlayıcı temel demleme süresi takibini ekler", "Pour-over kullanımı için mutfak terazisine göre gerçek bir adım"],
-      "cons": ["1-2 saniyelik tepki, hassas hedeflere dökerken ağırlık aşmasına neden olur"],
+      "pros": [
+        "Özel kahve terazileri arasında en düşük fiyat — $25-40",
+        "Dahili zamanlayıcı temel demleme süresi takibini ekler",
+        "Pour-over kullanımı için mutfak terazisine göre gerçek bir adım"
+      ],
+      "cons": [
+        "1-2 saniyelik tepki, hassas hedeflere dökerken ağırlık aşmasına neden olur"
+      ],
       "grade": "B-",
-      "specs": {"Çözünürlük": "0,1g", "Tepki süresi": "1-2 saniye", "Güç": "AA piller", "Zamanlayıcı": "Dahili", "Hedef kullanıcılar": "Yeni başlayanlar / gündelik pour-over"},
-      "scores": {"Yapım kalitesi": 3.3, "Demleme kalitesi": 3.5, "Kullanım kolaylığı": 4.5, "Değer": 4.8, "Çok yönlülük": 3.8}
+      "specs": {
+        "Çözünürlük": "0,1g",
+        "Tepki süresi": "1-2 saniye",
+        "Güç": "AA piller",
+        "Zamanlayıcı": "Dahili",
+        "Hedef kullanıcılar": "Yeni başlayanlar / gündelik pour-over"
+      },
+      "scores": {
+        "Yapım kalitesi": 3.3,
+        "Demleme kalitesi": 3.5,
+        "Kullanım kolaylığı": 4.5,
+        "Değer": 4.8,
+        "Çok yönlülük": 3.8
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Ciddi ev demleyicileri için", "offerId": "acaia-pearl-coffee-scale", "reason": "Referans standardı — 300ms tepki, Bluetooth kayıt ve herhangi bir ucuz teraziden yıllarca üstün yapım kalitesi."},
-    {"label": "Çoğu ev pour-over düzeneği için", "offerId": "timemore-black-mirror-scale", "reason": "$40-60'ta tüm temel kahve terazisi özellikleri — kullanıcıların %80'ini kapsayan varsayılan tavsiye."},
-    {"label": "Espresso düzenekleri için", "offerId": "felicita-incline-coffee-scale", "reason": "Eğimli ekran portafiltre üzerinden gerçekten okunabilir — özellikle espresso için önemli olan tek ergonomik avantaj."},
-    {"label": "V60 ekosistemi kullanıcıları için", "offerId": "hario-v60-drip-scale", "reason": "80 saatlik pil ve tek düğme sadeliği V60 demlemeyi tamamlar — ve görsel uyum bir bonus."},
-    {"label": "Pour-over yeni başlayanları için", "offerId": "coffee-gator-pour-over-scale", "reason": "$25-40'ta, devam edip etmeyeceğinizi bilmeden önce taahhütlü bir yatırım gerektirmeksizin zamanlayıcı ve ölçüm alışkanlıklarını tanıtır."}
+    {
+      "label": "Ciddi ev demleyicileri için",
+      "offerId": "acaia-pearl-coffee-scale",
+      "reason": "Referans standardı — 300ms tepki, Bluetooth kayıt ve herhangi bir ucuz teraziden yıllarca üstün yapım kalitesi."
+    },
+    {
+      "label": "Çoğu ev pour-over düzeneği için",
+      "offerId": "timemore-black-mirror-scale",
+      "reason": "$40-60'ta tüm temel kahve terazisi özellikleri — kullanıcıların %80'ini kapsayan varsayılan tavsiye."
+    },
+    {
+      "label": "Espresso düzenekleri için",
+      "offerId": "felicita-incline-coffee-scale",
+      "reason": "Eğimli ekran portafiltre üzerinden gerçekten okunabilir — özellikle espresso için önemli olan tek ergonomik avantaj."
+    },
+    {
+      "label": "V60 ekosistemi kullanıcıları için",
+      "offerId": "hario-v60-drip-scale",
+      "reason": "80 saatlik pil ve tek düğme sadeliği V60 demlemeyi tamamlar — ve görsel uyum bir bonus."
+    },
+    {
+      "label": "Pour-over yeni başlayanları için",
+      "offerId": "coffee-gator-pour-over-scale",
+      "reason": "$25-40'ta, devam edip etmeyeceğinizi bilmeden önce taahhütlü bir yatırım gerektirmeksizin zamanlayıcı ve ölçüm alışkanlıklarını tanıtır."
+    }
   ]
 }

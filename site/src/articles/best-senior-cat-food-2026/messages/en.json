@@ -69,48 +69,108 @@
       "offerId": "hills-science-diet-senior-cat",
       "badge": "Best overall 11+",
       "review": "Hill's Science Diet 11+ is formulated around the specific metabolic shifts that happen in the last phase of a cat's life: reduced phosphorus, controlled sodium, and easy-to-digest protein from chicken as the first ingredient. The formula has decades of feeding trial data behind it and is recommended by a high percentage of veterinary nutritionists. The 7-lb bag at $29 works out to a reasonable per-meal cost. Palatability tends to be good even for picky senior cats, likely because of the fat content and kibble texture.",
-      "pros": ["Extensively research-backed", "Reduced phosphorus for kidney support", "High palatability"],
-      "cons": ["Contains some corn ingredients", "Price per pound higher than grocery brands"],
-      "specs": { "Life stage": "11+", "Protein (min)": "32.5%", "Format": "Dry", "Price": "$29/7lb" },
+      "pros": [
+        "Extensively research-backed",
+        "Reduced phosphorus for kidney support",
+        "High palatability"
+      ],
+      "cons": [
+        "Contains some corn ingredients",
+        "Price per pound higher than grocery brands"
+      ],
+      "specs": {
+        "Life stage": "11+",
+        "Protein (min)": "32.5%",
+        "Format": "Dry",
+        "Price": "$29/7lb"
+      },
       "grade": "A"
     },
     {
       "offerId": "royal-canin-aging-12",
       "badge": "Best for cats 12+",
       "review": "Royal Canin's Aging 12+ is the most specialized formula in this group — designed specifically for cats in their final life stage where declining appetite, reduced digestion, and tooth sensitivity are practical daily challenges. The kibble shape is engineered for easier chewing by cats with dental issues. Protein levels are elevated specifically to compensate for reduced absorption efficiency. This is the formula a geriatric care vet is most likely to recommend for a 13-year-old cat showing weight loss.",
-      "pros": ["Kibble designed for dental sensitivity", "Elevated protein for muscle maintenance", "Tailored for very old cats"],
-      "cons": ["Most expensive at $35/7lb", "Ingredient list includes several additives"],
-      "specs": { "Life stage": "12+", "Protein (min)": "34%", "Format": "Dry", "Price": "$35/7lb" },
+      "pros": [
+        "Kibble designed for dental sensitivity",
+        "Elevated protein for muscle maintenance",
+        "Tailored for very old cats"
+      ],
+      "cons": [
+        "Most expensive at $35/7lb",
+        "Ingredient list includes several additives"
+      ],
+      "specs": {
+        "Life stage": "12+",
+        "Protein (min)": "34%",
+        "Format": "Dry",
+        "Price": "$35/7lb"
+      },
       "grade": "A"
     },
     {
       "offerId": "purina-pro-plan-senior-7",
       "badge": "Best for early seniors",
       "review": "Pro Plan Senior 7+ uses real chicken as the first ingredient and a high overall protein content that holds up well against significantly more expensive competitors. The formula includes live probiotics for digestive health and glucosamine/EPA for joint support. At $24 for 7 lb it's the best price-per-gram of protein in this comparison. Works well for the 7-10 age range before more specialized late-senior formulas become relevant.",
-      "pros": ["Real chicken as first ingredient", "Live probiotics included", "Best value protein quality"],
-      "cons": ["Less targeted for 11+ needs", "Contains some artificial additives"],
-      "specs": { "Life stage": "7+", "Protein (min)": "40%", "Format": "Dry", "Price": "$24/7lb" },
+      "pros": [
+        "Real chicken as first ingredient",
+        "Live probiotics included",
+        "Best value protein quality"
+      ],
+      "cons": [
+        "Less targeted for 11+ needs",
+        "Contains some artificial additives"
+      ],
+      "specs": {
+        "Life stage": "7+",
+        "Protein (min)": "40%",
+        "Format": "Dry",
+        "Price": "$24/7lb"
+      },
       "grade": "A-"
     },
     {
       "offerId": "iams-proactive-senior-cat",
       "badge": "Best budget pick",
       "review": "IAMS Proactive Senior delivers a solid macronutrient profile at the lowest price in this group. Chicken is the first ingredient, and the protein-to-fat ratio is appropriate for a cat in reduced-activity senior years. It won't match Hill's or Royal Canin for specialized senior support ingredients, but for owners managing costs or feeding a cat that transitioned easily and isn't showing specific health markers, it's a legitimate choice with a long track record.",
-      "pros": ["Most affordable option", "Chicken as first ingredient", "Widely available"],
-      "cons": ["Less targeted senior nutrition", "Contains corn meal and by-product meal"],
-      "specs": { "Life stage": "7+", "Protein (min)": "32%", "Format": "Dry", "Price": "$20/7lb" },
+      "pros": [
+        "Most affordable option",
+        "Chicken as first ingredient",
+        "Widely available"
+      ],
+      "cons": [
+        "Less targeted senior nutrition",
+        "Contains corn meal and by-product meal"
+      ],
+      "specs": {
+        "Life stage": "7+",
+        "Protein (min)": "32%",
+        "Format": "Dry",
+        "Price": "$20/7lb"
+      },
       "grade": "B+"
     },
     {
       "offerId": "wellness-complete-senior-cat",
       "badge": "Best clean ingredient list",
       "review": "Wellness Complete Senior stands out for what it leaves out: no corn, wheat, soy, artificial colors, flavors, or preservatives. Deboned turkey is the first ingredient, and the ingredient list is shorter and cleaner than any other pick here. The 11-lb bag at $32 makes it the best value per pound. Cats with food sensitivities or owners who prioritize minimal-processing formulas will find this the most appealing option. The lower carbohydrate content also suits cats prone to blood sugar issues.",
-      "pros": ["No corn, wheat, or soy", "Clean ingredient list", "Best value per pound"],
-      "cons": ["Less kidney-specific phosphorus restriction than Hill's or Royal Canin", "Smaller brand with fewer research studies"],
-      "specs": { "Life stage": "Senior", "Protein (min)": "34%", "Format": "Dry", "Price": "$32/11lb" },
+      "pros": [
+        "No corn, wheat, or soy",
+        "Clean ingredient list",
+        "Best value per pound"
+      ],
+      "cons": [
+        "Less kidney-specific phosphorus restriction than Hill's or Royal Canin",
+        "Smaller brand with fewer research studies"
+      ],
+      "specs": {
+        "Life stage": "Senior",
+        "Protein (min)": "34%",
+        "Format": "Dry",
+        "Price": "$32/11lb"
+      },
       "grade": "A-"
     }
   ],
-  "methodology": "Formulas were evaluated on protein quality and source, phosphorus content relative to kidney health recommendations, caloric density for senior weight management, presence of joint support ingredients (glucosamine, EPA/DHA), and price per pound. Veterinary nutritional guidance from WSAVA and AAFCO standards informed evaluation criteria.",
-  "pinDescription": "Is your cat 7+? These 5 senior cat foods ranked by kidney support, protein quality, and value — because aging cats deserve more than a label change. #SeniorCat #CatFood #CatHealth"
+  "methodology": "Formulas were evaluated on protein quality and source, phosphorus content relative to kidney health recommendations, caloric density for senior weight management, presence of joint support ingredients (glucosamine, EPA/DHA), and price per pound. Veterinary nutritional guidance from WSAVA and AAFCO standards informed evaluation criteria. We did not test these products ourselves.",
+  "pinDescription": "Is your cat 7+? These 5 senior cat foods ranked by kidney support, protein quality, and value — because aging cats deserve more than a label change."
 }

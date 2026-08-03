@@ -57,15 +57,21 @@
     "kalita-wave-filters-185": "Filtros de papel ondulados con forma de onda para Wave 185. ~$10-15 por 100 unidades. Obligatorio — no intercambiable con otros drippers. Compra a granel. Crea un espacio de aire entre el filtro y las paredes del dripper, permitiendo una extracción uniforme.",
     "fellow-stagg-ekg-kettle": "Pitorro de cuello de ganso, temperatura variable 57-100°C, función de mantenimiento, 0,9 L. $150-170. El mejor hervidor para pour-over — control preciso del flujo, configuración de temperatura exacta, mantenimiento de 60 min. La combinación correcta para Kalita Wave, V60 y Chemex."
   },
-  "pinDescription": "Kalita Wave pour-over 2026: 185 vs 155, acero inoxidable vs cerámica vs vidrio, cómo el diseño de fondo plano hace el pour-over más indulgente que la V60, y con qué hervidor de cuello de ganso combinarlo. #KalitaWave #CaféPourOver #español",
-  "methodology": "Cada dripper fue evaluado en la consistencia de extracción con distintas técnicas de vertido, el impacto del material en la retención de calor, durabilidad, facilidad de limpieza y adecuación tanto para baristas principiantes como experimentados.",
+  "pinDescription": "Kalita Wave pour-over 2026: 185 vs 155, acero inoxidable vs cerámica vs vidrio, cómo el diseño de fondo plano hace el pour-over más indulgente que la V60, y con qué hervidor de cuello de ganso combinarlo.",
+  "methodology": "Cada dripper fue evaluado en la consistencia de extracción con distintas técnicas de vertido, el impacto del material en la retención de calor, durabilidad, facilidad de limpieza y adecuación tanto para baristas principiantes como experimentados. No hemos probado estos productos nosotros mismos.",
   "products": [
     {
       "offerId": "kalita-wave-185-stainless",
       "badge": "Mejor en general",
       "review": "El Wave 185 de acero inoxidable es la versión más robusta del dripper: irrompible, apta para lavavajillas y con mejor retención de calor que el vidrio. El único inconveniente real es un ligero sabor metálico en unidades nuevas que desaparece tras los primeros 5-10 usos.",
-      "pros": ["Irrompible y apto para lavavajillas", "Mejor retención de calor que el vidrio", "Dura años con uso diario intenso"],
-      "cons": ["Ligero sabor metálico en unidades nuevas hasta los primeros usos"],
+      "pros": [
+        "Irrompible y apto para lavavajillas",
+        "Mejor retención de calor que el vidrio",
+        "Dura años con uso diario intenso"
+      ],
+      "cons": [
+        "Ligero sabor metálico en unidades nuevas hasta los primeros usos"
+      ],
       "grade": "A+",
       "specs": {
         "Material": "Acero inoxidable",
@@ -87,8 +93,14 @@
       "offerId": "kalita-wave-155-ceramic",
       "badge": "Mejor para una sola porción",
       "review": "El Wave 155 de cerámica está optimizado para la profundidad del lecho de una sola taza: el diámetro más pequeño concentra el café molido de forma que la saturación es más uniforme que en un 185 con la misma dosis. La cerámica añade un sabor limpio sin ningún rastro metálico, aunque hay que tener cuidado con los golpes.",
-      "pros": ["Profundidad del lecho optimizada para 1 taza", "La cerámica no transmite sabores", "Tacto y peso premium"],
-      "cons": ["Frágil — un golpe fuerte puede romperla"],
+      "pros": [
+        "Profundidad del lecho optimizada para 1 taza",
+        "La cerámica no transmite sabores",
+        "Tacto y peso premium"
+      ],
+      "cons": [
+        "Frágil — un golpe fuerte puede romperla"
+      ],
       "grade": "A",
       "specs": {
         "Material": "Cerámica",
@@ -110,8 +122,14 @@
       "offerId": "kalita-wave-185-glass",
       "badge": "Mejor para aprender técnica",
       "review": "El Wave 185 de vidrio es el mejor profesor: ver el bloom expandirse, observar la tasa de drenaje y detectar el canalizado visualmente acelera el aprendizaje más que cualquier guía. La menor retención de calor respecto a cerámica o acero inoxidable es real, así que precalienta el dripper.",
-      "pros": ["Cuerpo transparente para retroalimentación visual completa", "Vidrio resistente al calor", "La experiencia visual mejora la técnica"],
-      "cons": ["Menor retención de calor y es la opción más frágil"],
+      "pros": [
+        "Cuerpo transparente para retroalimentación visual completa",
+        "Vidrio resistente al calor",
+        "La experiencia visual mejora la técnica"
+      ],
+      "cons": [
+        "Menor retención de calor y es la opción más frágil"
+      ],
       "grade": "B+",
       "specs": {
         "Material": "Vidrio borosilicato",
@@ -133,8 +151,14 @@
       "offerId": "kalita-wave-filters-185",
       "badge": "Consumible esencial",
       "review": "Los filtros Wave son el componente que hace que el sistema funcione: las pliegues en forma de onda crean un espacio de aire entre el papel y las paredes del dripper, lo que elimina el contacto directo y permite un flujo uniforme. No son intercambiables con V60, Chemex ni ningún otro filtro.",
-      "pros": ["El espacio de aire garantiza una extracción uniforme", "100 unidades por ~$10-15 (coste por taza bajo)", "Disponibles en Amazon con entrega rápida"],
-      "cons": ["Solo funcionan con drippers Kalita Wave — no intercambiables"],
+      "pros": [
+        "El espacio de aire garantiza una extracción uniforme",
+        "100 unidades por ~$10-15 (coste por taza bajo)",
+        "Disponibles en Amazon con entrega rápida"
+      ],
+      "cons": [
+        "Solo funcionan con drippers Kalita Wave — no intercambiables"
+      ],
       "grade": "B",
       "specs": {
         "Compatibilidad": "Kalita Wave 185",
@@ -155,8 +179,14 @@
       "offerId": "fellow-stagg-ekg-kettle",
       "badge": "Mejor hervidor complementario",
       "review": "El Stagg EKG tiene el cuello de ganso más controlable del mercado pour-over: el caudal es predecible, la temperatura variable va de 57 a 100°C con un grado de precisión, y la función de mantenimiento de 60 minutos evita que el agua se enfríe entre vertidos. El precio de $150-170 es la única objeción real.",
-      "pros": ["Control del caudal de vertido con precisión máxima", "Función de mantenimiento de temperatura 60 minutos", "Diseñado específicamente para pour-over"],
-      "cons": ["Precio premium de $150-170 que no se justifica si ya tienes un hervidor decente"],
+      "pros": [
+        "Control del caudal de vertido con precisión máxima",
+        "Función de mantenimiento de temperatura 60 minutos",
+        "Diseñado específicamente para pour-over"
+      ],
+      "cons": [
+        "Precio premium de $150-170 que no se justifica si ya tienes un hervidor decente"
+      ],
       "grade": "B-",
       "specs": {
         "Tipo de boquilla": "Cuello de ganso",

@@ -1,7 +1,7 @@
 {
-  "title": "Test ConoHa WING (2026) : WordPress en ligne en 11 minutes",
-  "description": "ConoHa WING de GMO testé 30 jours : installation WordPress en 11 minutes, TTFB 198ms, domaine offert. Où il bat Xserver, où Lolipop l'emporte.",
-  "lede": "J'ai pris un plan WINGパック, fait tourner un vrai blog WordPress 30 jours, et chronométré chaque étape, de l'inscription à la première publication. Voici ce qui marche, et ce qui ne marche pas.",
+  "title": "ConoHa WING (2026) : WordPress en ligne en 11 minutes",
+  "description": "ConoHa WING (2026) : WordPress en ligne en 11 minutes. Comparaison d'après les spécifications publiées et des tests indépendants.",
+  "lede": "Voici ce qui marche, et ce qui ne marche pas. Ce guide compare 3 options à partir des spécifications publiées, de la documentation constructeur et de tests indépendants — sans test pratique de notre part.",
   "sections": [
     {
       "heading": "L'hébergement, en français simple",
@@ -146,7 +146,7 @@
     "xserver": "À privilégier si historique de disponibilité et support téléphonique 24/7 priment sur le TTFB plus rapide de ConoHa.",
     "lolipop-server": "Même maison-mère que ConoHa, matériel plus lent, prix plus bas. Pour blogs hobby et budgets serrés uniquement."
   },
-  "pinDescription": "ConoHa WING testé 30 jours : WordPress en ligne en 11 minutes, TTFB 198ms, domaine offert. Où il bat Xserver, où Lolipop gagne. Chiffres à l'appui.",
+  "pinDescription": "Où il bat Xserver, où Lolipop gagne. Chiffres à l'appui.",
   "methodology": "Cette comparaison repose sur une recherche documentaire : spécifications publiées, documentation constructeur, tests et avis indépendants. Nous n'avons pas testé ces produits nous-mêmes.",
   "products": [
     {

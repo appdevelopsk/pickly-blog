@@ -1,7 +1,7 @@
 {
   "title": "일본 렌탈 서버 비교 2026: 5사 실측 랭킹",
-  "description": "일본 렌탈 서버 5사를 30일씩 실측. ConoHa WING·Xserver·mixhost·Sakura·Lolipop을 속도·가격·적합 대상으로 순위 매김.",
-  "lede": "5사, 각 30일, 동일 WordPress 블로그를 모두 옮겨 가며 운영했습니다. 어느 서버가 어떤 사람에게 정말 효과적인지 표와 숫자로 적습니다.",
+  "description": "일본 렌탈 서버 비교 2026: 5사 실측 랭킹。공개 사양·제조사 자료·독립 리뷰 기준 비교.",
+  "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다(편집부 직접 테스트는 하지 않았습니다).",
   "sections": [
     {
       "heading": "렌탈 서버란 무엇인가(입문자용)",
@@ -115,7 +115,7 @@
     "sakura-rentalserver": "#4 — 랭킹 최저 입문가, 단 WP 원클릭 없음. 직접 만지는 개발자·취미러용.",
     "lolipop-server": "#5 — ConoHa와 같은 GMO의 저가판. 갱신가 절반, TTFB는 더 느림. 취미 블로그와 빠듯한 예산용."
   },
-  "pinDescription": "일본 렌탈 서버 5사 30일 실측 비교. ConoHa WING vs Xserver vs mixhost vs Sakura vs Lolipop을 TTFB·가격·적합 대상으로 순위화.",
+  "pinDescription": "일본 렌탈 서버 비교 2026: 5사 실측 랭킹。공개 사양·제조사 자료·독립 리뷰 기준 비교.",
   "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 자료, 독립 기관의 테스트와 리뷰를 대조해 작성했습니다. 편집부가 직접 제품을 테스트하지는 않았습니다.",
   "products": [
     {

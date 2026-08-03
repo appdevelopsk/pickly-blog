@@ -93,14 +93,20 @@
     "peets-coffee-subscription": "Langganan kopi giling mainstream terbaik — Major Dickason's Blend seharga ~$12-15/12 ons, pengiriman gratis, tanpa kurva belajar. Roasting gelap yang konsisten, dicintai karena prediktabilitasnya. Terbaik untuk peminum yang menginginkan cangkir andalan yang sama setiap pagi. Keterbatasan: variasi nol."
   },
   "pinDescription": "5 langganan kopi dibandingkan untuk 2026: Trade Coffee vs Atlas Coffee Club vs Onyx vs Angels' Cup vs Peet's. Kesegaran, harga per ons, personalisasi — temukan langganan yang tepat sebelum kantong berikutnya habis.",
-  "methodology": "Setiap langganan dievaluasi berdasarkan kesegaran tanggal roasting saat pengiriman, akurasi personalisasi setelah 3+ pesanan, harga per ons yang dinormalisasi di seluruh ukuran kantong, opsi gilingan, dan kemudahan menjeda atau melewati pengiriman.",
+  "methodology": "Setiap langganan dievaluasi berdasarkan kesegaran tanggal roasting saat pengiriman, akurasi personalisasi setelah 3+ pesanan, harga per ons yang dinormalisasi di seluruh ukuran kantong, opsi gilingan, dan kemudahan menjeda atau melewati pengiriman. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "trade-coffee-subscription",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "Algoritma pencocokan preferensi Trade Coffee menarik dari lebih dari 60 roaster independen dan mengirim dalam 1-3 hari setelah roasting — kombinasi variasi dan kesegaran yang tidak dapat ditandingi langganan single-roaster mana pun. Pertukaran jujur: algoritma membutuhkan 3-5 pesanan untuk kalibrasi, sehingga kantong awal mungkin tidak tepat sasaran.",
-      "pros": ["Jaringan 60+ roaster mencakup berbagai asal dan gaya", "Tanggal roasting tercetak di setiap kantong — transparansi kesegaran penuh", "Loop umpan balik penilaian terus menyempurnakan kecocokan mendatang"],
-      "cons": ["Pengiriman awal mungkin tidak cocok dengan selera Anda hingga algoritma mempelajari penilaian Anda"],
+      "pros": [
+        "Jaringan 60+ roaster mencakup berbagai asal dan gaya",
+        "Tanggal roasting tercetak di setiap kantong — transparansi kesegaran penuh",
+        "Loop umpan balik penilaian terus menyempurnakan kecocokan mendatang"
+      ],
+      "cons": [
+        "Pengiriman awal mungkin tidak cocok dengan selera Anda hingga algoritma mempelajari penilaian Anda"
+      ],
       "grade": "A+",
       "specs": {
         "Jaringan roaster": "60+ roaster independen",
@@ -110,14 +116,26 @@
         "Opsi gilingan": "Biji utuh + 4 jenis pra-giling",
         "Fleksibilitas langganan": "Mingguan hingga setiap 8 minggu"
       },
-      "scores": {"Kesegaran": 4.9, "Rasa": 4.7, "Nilai": 4.3, "Kenyamanan": 4.5, "Personalisasi": 4.8}
+      "scores": {
+        "Kesegaran": 4.9,
+        "Rasa": 4.7,
+        "Nilai": 4.3,
+        "Kenyamanan": 4.5,
+        "Personalisasi": 4.8
+      }
     },
     {
       "offerId": "atlas-coffee-club",
       "badge": "Terbaik untuk Penjelajah",
       "review": "Atlas Coffee Club mengantarkan negara penghasil yang berbeda setiap bulan dengan kantong bercetak tanggal roasting dan kartu pos edukatif — format terbaik untuk peminum yang mendekati kopi seperti pecinta anggur mendekati eksplorasi regional. Tidak ada personalisasi berarti Anda mendapatkan pilihan editorial Atlas.",
-      "pros": ["Negara asal baru setiap bulan dengan keragaman geografis nyata", "Bercetak tanggal roasting, dikirim dalam beberapa hari setelah roasting", "Kartu pos asal dengan catatan rasa dan detail metode pemrosesan"],
-      "cons": ["Tidak ada personalisasi — tidak dapat menentukan preferensi rasa atau mengecualikan jenis proses"],
+      "pros": [
+        "Negara asal baru setiap bulan dengan keragaman geografis nyata",
+        "Bercetak tanggal roasting, dikirim dalam beberapa hari setelah roasting",
+        "Kartu pos asal dengan catatan rasa dan detail metode pemrosesan"
+      ],
+      "cons": [
+        "Tidak ada personalisasi — tidak dapat menentukan preferensi rasa atau mengecualikan jenis proses"
+      ],
       "grade": "A",
       "specs": {
         "Model sourcing": "Single origin, rotasi negara bulanan",
@@ -127,14 +145,26 @@
         "Opsi gilingan": "Biji utuh (giling atas permintaan)",
         "Fleksibilitas langganan": "Lewati, jeda, atau batalkan kapan saja"
       },
-      "scores": {"Kesegaran": 4.7, "Rasa": 4.6, "Nilai": 4.5, "Kenyamanan": 4.4, "Personalisasi": 2.5}
+      "scores": {
+        "Kesegaran": 4.7,
+        "Rasa": 4.6,
+        "Nilai": 4.5,
+        "Kenyamanan": 4.4,
+        "Personalisasi": 2.5
+      }
     },
     {
       "offerId": "onyx-coffee-lab-subscription",
       "badge": "Langit-langit Kualitas Terbaik",
       "review": "Onyx memanggang sesuai pesanan dan mengirim dalam 24-48 jam setelah roasting — termasuk yang tercepat dalam kategori — dan sourcing mereka menargetkan lot bernilai tinggi dan process-forward yang tidak akan Anda temukan di ritel. Estetika sempit (roasting lebih ringan, buah-buahan) adalah kekuatan bagi pembeli yang sudah tahu apa yang mereka inginkan.",
-      "pros": ["Panggang sesuai pesanan, kirim dalam 24-48 jam — pengiriman segar tercepat yang diuji", "Sourcing berkualitas tinggi yang konsisten: lot tingkat kompetisi dan transparansi proses", "Diskon langganan membuat harga premium lebih berkelanjutan"],
-      "cons": ["Estetika roasting sempit — tidak cocok untuk preferensi roasting gelap atau blend"],
+      "pros": [
+        "Panggang sesuai pesanan, kirim dalam 24-48 jam — pengiriman segar tercepat yang diuji",
+        "Sourcing berkualitas tinggi yang konsisten: lot tingkat kompetisi dan transparansi proses",
+        "Diskon langganan membuat harga premium lebih berkelanjutan"
+      ],
+      "cons": [
+        "Estetika roasting sempit — tidak cocok untuk preferensi roasting gelap atau blend"
+      ],
       "grade": "B+",
       "specs": {
         "Model sourcing": "Roaster tunggal (roasting Onyx sendiri)",
@@ -144,14 +174,26 @@
         "Opsi gilingan": "Biji utuh saja",
         "Fleksibilitas langganan": "Dashboard layanan mandiri, jeda/lewati tersedia"
       },
-      "scores": {"Kesegaran": 5.0, "Rasa": 4.8, "Nilai": 3.8, "Kenyamanan": 4.2, "Personalisasi": 2.0}
+      "scores": {
+        "Kesegaran": 5.0,
+        "Rasa": 4.8,
+        "Nilai": 3.8,
+        "Kenyamanan": 4.2,
+        "Personalisasi": 2.0
+      }
     },
     {
       "offerId": "angels-cup-subscription",
       "badge": "Pelatih Selera Terbaik",
       "review": "Angels' Cup mengirimkan paket sampel bernomor dan tidak berlabel yang dirancang untuk blind tasting sebelum mengungkapkan asal — format yang benar-benar unik yang membangun keterampilan mencicipi daripada kebiasaan. Biaya per ons adalah yang tertinggi dari lima, dan format ini tidak bekerja sebagai pasokan kopi harian utama.",
-      "pros": ["Format blind tasting menghilangkan bias asal dan mengembangkan penilaian selera yang akurat", "Dikirim dalam 1-5 hari setelah roasting dengan kemasan sampel bernomor", "Keanggotaan mengungkapkan detail asal pasca-pencicipan untuk pembelajaran terstruktur"],
-      "cons": ["Format sampel tidak praktis sebagai pasokan kopi harian utama — biaya per ons tinggi"],
+      "pros": [
+        "Format blind tasting menghilangkan bias asal dan mengembangkan penilaian selera yang akurat",
+        "Dikirim dalam 1-5 hari setelah roasting dengan kemasan sampel bernomor",
+        "Keanggotaan mengungkapkan detail asal pasca-pencicipan untuk pembelajaran terstruktur"
+      ],
+      "cons": [
+        "Format sampel tidak praktis sebagai pasokan kopi harian utama — biaya per ons tinggi"
+      ],
       "grade": "B",
       "specs": {
         "Model sourcing": "Set sampel blind multi-roaster",
@@ -161,14 +203,26 @@
         "Opsi gilingan": "Sampel pra-giling; biji utuh dalam langganan kantong",
         "Fleksibilitas langganan": "Batalkan online dan lewati dari portal anggota"
       },
-      "scores": {"Kesegaran": 4.6, "Rasa": 4.5, "Nilai": 3.5, "Kenyamanan": 3.8, "Personalisasi": 3.0}
+      "scores": {
+        "Kesegaran": 4.6,
+        "Rasa": 4.5,
+        "Nilai": 3.5,
+        "Kenyamanan": 3.8,
+        "Personalisasi": 3.0
+      }
     },
     {
       "offerId": "peets-coffee-subscription",
       "badge": "Pilihan Terbaik Tanpa Repot",
       "review": "Langganan Peet's Major Dickason's Blend menawarkan kualitas roasting gelap yang konsisten dengan harga per ons terendah dari lima, dengan pengiriman gratis dan tanpa kurva belajar. Ini adalah jawaban yang tepat untuk siapa pun yang menginginkan cangkir andalan yang sama setiap pagi — dan benar-benar salah bagi siapa pun yang tertarik dengan roasting specialty atau variasi.",
-      "pros": ["Harga per ons terendah dengan pengiriman gratis", "Karakter roasting gelap yang konsisten — tanpa kejutan atau varietal berputar", "Opsi pra-giling yang tersedia luas — tidak perlu penggiling"],
-      "cons": ["Variasi nol; profil roasting gelap tidak akan memuaskan peminum kopi specialty roasting ringan"],
+      "pros": [
+        "Harga per ons terendah dengan pengiriman gratis",
+        "Karakter roasting gelap yang konsisten — tanpa kejutan atau varietal berputar",
+        "Opsi pra-giling yang tersedia luas — tidak perlu penggiling"
+      ],
+      "cons": [
+        "Variasi nol; profil roasting gelap tidak akan memuaskan peminum kopi specialty roasting ringan"
+      ],
       "grade": "B-",
       "specs": {
         "Blend": "Major Dickason's Blend (roasting gelap)",
@@ -178,14 +232,40 @@
         "Opsi gilingan": "Biji utuh dan semua jenis gilingan",
         "Fleksibilitas langganan": "Lewati dan jeda melalui portal Peet's"
       },
-      "scores": {"Kesegaran": 4.2, "Rasa": 4.0, "Nilai": 4.8, "Kenyamanan": 4.9, "Personalisasi": 1.0}
+      "scores": {
+        "Kesegaran": 4.2,
+        "Rasa": 4.0,
+        "Nilai": 4.8,
+        "Kenyamanan": 4.9,
+        "Personalisasi": 1.0
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk peminum yang penasaran ingin variasi tanpa penelitian", "offerId": "trade-coffee-subscription", "reason": "Algoritma preferensi menangani penemuan roaster; Anda hanya perlu menilai yang Anda terima."},
-    {"label": "Untuk penjelajah kopi yang didorong geografi", "offerId": "atlas-coffee-club", "reason": "Negara berbeda setiap bulan dengan konteks asal — sistematis dan edukatif."},
-    {"label": "Untuk pembeli yang sudah lebih suka kopi specialty ringan dan process-forward", "offerId": "onyx-coffee-lab-subscription", "reason": "Panggang sesuai pesanan dengan waktu pengiriman tercepat dan tanpa kompromi pada tingkat kualitas."},
-    {"label": "Untuk mereka yang ingin mengembangkan selera melalui blind tasting", "offerId": "angels-cup-subscription", "reason": "Satu-satunya langganan yang menyusun penemuan sebagai latihan mencicipi daripada pasokan harian."},
-    {"label": "Untuk siapa pun yang hanya ingin kopi giling gelap yang andal dikirim", "offerId": "peets-coffee-subscription", "reason": "Konsisten, terjangkau, pra-giling — tanpa kurva belajar, tanpa kejutan."}
+    {
+      "label": "Untuk peminum yang penasaran ingin variasi tanpa penelitian",
+      "offerId": "trade-coffee-subscription",
+      "reason": "Algoritma preferensi menangani penemuan roaster; Anda hanya perlu menilai yang Anda terima."
+    },
+    {
+      "label": "Untuk penjelajah kopi yang didorong geografi",
+      "offerId": "atlas-coffee-club",
+      "reason": "Negara berbeda setiap bulan dengan konteks asal — sistematis dan edukatif."
+    },
+    {
+      "label": "Untuk pembeli yang sudah lebih suka kopi specialty ringan dan process-forward",
+      "offerId": "onyx-coffee-lab-subscription",
+      "reason": "Panggang sesuai pesanan dengan waktu pengiriman tercepat dan tanpa kompromi pada tingkat kualitas."
+    },
+    {
+      "label": "Untuk mereka yang ingin mengembangkan selera melalui blind tasting",
+      "offerId": "angels-cup-subscription",
+      "reason": "Satu-satunya langganan yang menyusun penemuan sebagai latihan mencicipi daripada pasokan harian."
+    },
+    {
+      "label": "Untuk siapa pun yang hanya ingin kopi giling gelap yang andal dikirim",
+      "offerId": "peets-coffee-subscription",
+      "reason": "Konsisten, terjangkau, pra-giling — tanpa kurva belajar, tanpa kejutan."
+    }
   ]
 }

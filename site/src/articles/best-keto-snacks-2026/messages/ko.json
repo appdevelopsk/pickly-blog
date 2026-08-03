@@ -2,13 +2,33 @@
   "title": "2026 키토 스낵 추천: 포만감 있는 저탄수 5종",
   "description": "키토 친화적 스낵 검증 추천 — 프로틴 칩, 팻 밤, 비프 스틱, 1회 제공량당 순탄수 5g 이하 쿠키.",
   "lede": "키토 스낵에는 신뢰성 문제가 있습니다. 진열대의 제품 절반은 순탄수 12g짜리에 '키토' 라벨을 붙이고 끝냅니다. 여기서 소개하는 다섯 가지 제품은 더 엄격한 기준을 통과했습니다: 순탄수 5g 이하, 합리적인 성분 목록, 다음 식사까지 실제로 배를 채울 수 있는 단백질 또는 지방 함량. 어느 것도 판지 맛이 나지 않습니다.",
-  "methodology": "각 제품은 1회 제공량당 순탄수 함량, 단백질 및 지방 함량, 성분 품질, 맛, 포만감 주장이 실제로 유효한지 기준으로 평가했습니다. 영양 성분 패널은 제조사 데이터와 대조 검증했습니다.",
+  "methodology": "각 제품은 1회 제공량당 순탄수 함량, 단백질 및 지방 함량, 성분 품질, 맛, 포만감 주장이 실제로 유효한지 기준으로 평가했습니다. 영양 성분 패널은 제조사 데이터와 대조 검증했습니다.이 비교는 문헌 조사입니다. 공개된 사양, 제조사 자료, 독립 리뷰를 대조해 작성했습니다. 편집부가 직접 제품을 테스트하지는 않았습니다.",
   "recommendedFor": [
-    { "label": "운동 후 스낵", "offerId": "keto-snacks-quest-protein-chips", "reason": "순탄수 4g에 단백질 21g — 이 카테고리에서 최고의 단백질 대 탄수화물 비율" },
-    { "label": "이동 중 단백질 보충", "offerId": "keto-snacks-chomps-beef-sticks", "reason": "냉장 불필요, 최소한의 성분, 상온 보관 가능" },
-    { "label": "키토 중 단것이 당길 때", "offerId": "keto-snacks-fat-snax-cookies", "reason": "순탄수 0g의 쿠키 식감 — 탄수화물 없이 진짜 쿠키에 가장 가까운 맛" },
-    { "label": "식사 대용 스낵", "offerId": "keto-snacks-perfect-keto-bars", "reason": "지방 13g + MCT 오일로 혈당 스파이크 없이 지속적인 에너지 공급" },
-    { "label": "고지방 매크로 보충", "offerId": "keto-snacks-keto-farms-fat-bomb", "reason": "칼로리의 90%가 지방 — 초기 키토에서 지방 적응을 목표로 하는 분들에게" }
+    {
+      "label": "운동 후 스낵",
+      "offerId": "keto-snacks-quest-protein-chips",
+      "reason": "순탄수 4g에 단백질 21g — 이 카테고리에서 최고의 단백질 대 탄수화물 비율"
+    },
+    {
+      "label": "이동 중 단백질 보충",
+      "offerId": "keto-snacks-chomps-beef-sticks",
+      "reason": "냉장 불필요, 최소한의 성분, 상온 보관 가능"
+    },
+    {
+      "label": "키토 중 단것이 당길 때",
+      "offerId": "keto-snacks-fat-snax-cookies",
+      "reason": "순탄수 0g의 쿠키 식감 — 탄수화물 없이 진짜 쿠키에 가장 가까운 맛"
+    },
+    {
+      "label": "식사 대용 스낵",
+      "offerId": "keto-snacks-perfect-keto-bars",
+      "reason": "지방 13g + MCT 오일로 혈당 스파이크 없이 지속적인 에너지 공급"
+    },
+    {
+      "label": "고지방 매크로 보충",
+      "offerId": "keto-snacks-keto-farms-fat-bomb",
+      "reason": "칼로리의 90%가 지방 — 초기 키토에서 지방 적응을 목표로 하는 분들에게"
+    }
   ],
   "sections": [
     {

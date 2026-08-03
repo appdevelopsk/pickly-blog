@@ -3,7 +3,7 @@
   "description": "So sánh năm cân hành lý về trọng lượng tối đa (kg), độ chính xác (gam), loại màn hình và độ tin cậy thực tế tại quầy check-in. Etekcity, Renpho, Camry, Tarriss và Freetoo — cái nào giúp bạn ở dưới giới hạn.",
   "pinDescription": "5 cân hành lý tốt nhất 2026 — Etekcity, Renpho, Camry, Tarriss, Freetoo. Cái nào cho số đo chính xác để không bao giờ phải trả phí hành lý vượt mức?",
   "lede": "Cân hành lý hiển thị 22,8 kg trong khi quầy hãng bay báo 23,4 kg sẽ khiến bạn mất nhiều tiền phí hành lý vượt mức hơn giá trị của chiếc cân. Độ chính xác trong khoảng 20–25 kg quan trọng hơn bất kỳ thông số kỹ thuật nào khác.",
-  "methodology": "Mỗi cân được đánh giá theo: trọng lượng cân tối đa (kg), độ chính xác đã công bố tính bằng gam (và được xác minh từ báo cáo của chủ sở hữu tại quầy sân bay), loại màn hình (LCD vs LED vs ứng dụng), thời gian tắt tự động và độ bền của móc và cơ chế dây đai khi sử dụng nặng liên tục.",
+  "methodology": "Mỗi cân được đánh giá theo: trọng lượng cân tối đa (kg), độ chính xác đã công bố tính bằng gam (và được xác minh từ báo cáo của chủ sở hữu tại quầy sân bay), loại màn hình (LCD vs LED vs ứng dụng), thời gian tắt tự động và độ bền của móc và cơ chế dây đai khi sử dụng nặng liên tục. We did not test these products ourselves.",
   "sections": [
     {
       "heading": "Tại sao độ chính xác của cân hành lý quan trọng hơn tính năng",
@@ -41,8 +41,14 @@
       "offerId": "luggage-scale-etekcity-digital",
       "badge": "Tốt nhất tổng thể",
       "review": "Cân hành lý kỹ thuật số Etekcity là lựa chọn bán chạy nhất trong danh mục này vì lý do đứng vững trước kiểm tra: chính xác ±100 g trong phạm vi 0-50 kg, LCD có đèn nền đọc được trong điều kiện ánh sáng phòng khách sạn và tay cầm T-bar cao su hóa giảm trượt tay khi đo. Tắt tự động sau 60 giây cho đủ thời gian treo và ổn định túi nặng. Điểm yếu thành thật: móc đủ tốt nhưng không phải thép rèn.",
-      "pros": ["Độ chính xác ±100 g xác minh trong 0-50 kg", "LCD đèn nền đọc được trong ánh sáng yếu", "Tắt tự động 60 giây cho thời gian ổn định"],
-      "cons": ["Móc không phải thép rèn — có thể biến dạng khi sử dụng nặng liên tục cực độ"],
+      "pros": [
+        "Độ chính xác ±100 g xác minh trong 0-50 kg",
+        "LCD đèn nền đọc được trong ánh sáng yếu",
+        "Tắt tự động 60 giây cho thời gian ổn định"
+      ],
+      "cons": [
+        "Móc không phải thép rèn — có thể biến dạng khi sử dụng nặng liên tục cực độ"
+      ],
       "grade": "A+",
       "specs": {
         "Trọng lượng tối đa": "50 kg",
@@ -64,8 +70,15 @@
       "offerId": "luggage-scale-renpho-smart",
       "badge": "Tính năng thông minh tốt nhất",
       "review": "Cân hành lý thông minh của Renpho kết nối qua Bluetooth với ứng dụng ghi lại trọng lượng túi, cho phép theo dõi tổng trọng lượng hành lý trên nhiều túi và hiển thị số đo trên màn hình điện thoại. Độ chính xác tương đương Etekcity (±100 g). Điểm yếu thành thật: kết nối Bluetooth thêm ma sát vào quá trình cân.",
-      "pros": ["Ứng dụng Bluetooth ghi lại trọng lượng tất cả các túi", "Màn hình điện thoại — đọc được trong bất kỳ ánh sáng nào", "Theo dõi tổng trọng lượng hành lý trên nhiều túi"],
-      "cons": ["Ghép đôi Bluetooth thêm bước so với cân kỹ thuật số đơn giản", "Phụ thuộc vào ứng dụng — không hoạt động tốt khi không có điện thoại"],
+      "pros": [
+        "Ứng dụng Bluetooth ghi lại trọng lượng tất cả các túi",
+        "Màn hình điện thoại — đọc được trong bất kỳ ánh sáng nào",
+        "Theo dõi tổng trọng lượng hành lý trên nhiều túi"
+      ],
+      "cons": [
+        "Ghép đôi Bluetooth thêm bước so với cân kỹ thuật số đơn giản",
+        "Phụ thuộc vào ứng dụng — không hoạt động tốt khi không có điện thoại"
+      ],
       "grade": "A",
       "specs": {
         "Trọng lượng tối đa": "50 kg",
@@ -87,8 +100,15 @@
       "offerId": "luggage-scale-camry-el-gc50",
       "badge": "Độ chính xác cao nhất cho dung lượng lớn",
       "review": "Camry EL GC50 là cân chính xác nhất trong so sánh này ở ±50 g (0,05 kg) trong phạm vi 0-50 kg — chính xác gấp đôi Etekcity và Renpho. Điều này quan trọng ở vùng 22,5-23,5 kg nơi phí hành lý vượt mức bắt đầu: cân ±50 g cho bạn biết bạn đang ở 22,7 hay 23,1 kg với mức độ tin cậy mà cân ±100 g không thể sánh được.",
-      "pros": ["Độ chính xác ±50 g — chính xác nhất trong so sánh", "Dung lượng tối đa 50 kg bao gồm phụ cấp hạng thương gia", "Cấu trúc cảm biến lực cấp chuyên nghiệp"],
-      "cons": ["Giá cao hơn các lựa chọn sử dụng thỉnh thoảng", "Độ chính xác dư thừa cho cân một lần mỗi chuyến"],
+      "pros": [
+        "Độ chính xác ±50 g — chính xác nhất trong so sánh",
+        "Dung lượng tối đa 50 kg bao gồm phụ cấp hạng thương gia",
+        "Cấu trúc cảm biến lực cấp chuyên nghiệp"
+      ],
+      "cons": [
+        "Giá cao hơn các lựa chọn sử dụng thỉnh thoảng",
+        "Độ chính xác dư thừa cho cân một lần mỗi chuyến"
+      ],
       "grade": "A",
       "specs": {
         "Trọng lượng tối đa": "50 kg",
@@ -110,8 +130,15 @@
       "offerId": "luggage-scale-tarriss-jetsetter",
       "badge": "Tay cầm ergonomic tốt nhất",
       "review": "Tarriss Jetsetter khác biệt ở tính công thái học — thiết kế dây đai phẳng rộng phân phối tải trọng túi 23 kg trên lòng bàn tay thay vì tập trung ở ngón tay, khiến việc cầm trong 5-10 giây đo lường với túi nặng thoải mái hơn đáng kể. Màn hình đèn nền đặc biệt sáng so với các đối thủ. Độ chính xác ±100 g.",
-      "pros": ["Dây đai rộng phân phối tải 23 kg trên lòng bàn tay", "Màn hình đèn nền đặc biệt sáng", "Độ chính xác ±100 g"],
-      "cons": ["Dây đai phẳng ít gọn gàng hơn tay cầm T-bar", "Giá cao hơn Etekcity một chút với cùng độ chính xác"],
+      "pros": [
+        "Dây đai rộng phân phối tải 23 kg trên lòng bàn tay",
+        "Màn hình đèn nền đặc biệt sáng",
+        "Độ chính xác ±100 g"
+      ],
+      "cons": [
+        "Dây đai phẳng ít gọn gàng hơn tay cầm T-bar",
+        "Giá cao hơn Etekcity một chút với cùng độ chính xác"
+      ],
       "grade": "B+",
       "specs": {
         "Trọng lượng tối đa": "50 kg",
@@ -133,8 +160,15 @@
       "offerId": "luggage-scale-freetoo-portable",
       "badge": "Nhỏ gọn nhất",
       "review": "Freetoo là cân hành lý nhỏ nhất và nhẹ nhất trong so sánh này — gấp gọn vừa túi áo sơ mi và nặng dưới 60 g. Với những du khách muốn luôn có cân trong túi thay vì đóng gói riêng, đây là lựa chọn đúng đắn. Độ chính xác ±100 g, tiêu chuẩn cho danh mục. Điểm yếu thành thật: tắt tự động 30 giây quá ngắn với người dùng chậm cần ổn định túi đang lắc.",
-      "pros": ["Siêu nhỏ gọn — kích thước túi áo dưới 60 g", "Luôn trong túi không tốn không gian", "Độ chính xác ±100 g — đủ dùng cho cân khi đi du lịch"],
-      "cons": ["Tắt tự động 30 giây quá ngắn cho ổn định chậm", "Móc mỏng nhất — câu hỏi về độ bền lâu dài"],
+      "pros": [
+        "Siêu nhỏ gọn — kích thước túi áo dưới 60 g",
+        "Luôn trong túi không tốn không gian",
+        "Độ chính xác ±100 g — đủ dùng cho cân khi đi du lịch"
+      ],
+      "cons": [
+        "Tắt tự động 30 giây quá ngắn cho ổn định chậm",
+        "Móc mỏng nhất — câu hỏi về độ bền lâu dài"
+      ],
       "grade": "B",
       "specs": {
         "Trọng lượng tối đa": "40 kg",

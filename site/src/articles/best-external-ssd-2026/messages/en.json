@@ -1,6 +1,6 @@
 {
   "title": "Best External SSD 2026: 5 options compared",
-  "description": "Samsung T9 (2,000/1,950 MB/s USB 3.2 Gen 2x2, TBW 600 TB, up to 4 TB, ~$90/1TB) vs SanDisk Extreme V2 (1,050/1,000 MB/s USB 3.2 Gen 2, IP65, forged aluminum, ~$70/1TB) vs WD My Passport SSD (1,050/1,000 MB/s, AES 256-bit encryption, ~$60/1TB) vs Crucial X9 Pro (1,050/1,000 MB/s, IP55, TBW 600 TB, aluminum, ~$70/1TB) vs Seagate One Touch SSD (1,030/1,000 MB/s, Seagate Toolkit backup, ~$50/500GB). Read/write speed, TBW endurance, form factor, and interface reality compared honestly.",
+  "description": "Read/write speed, TBW endurance, form factor, and interface reality compared honestly.",
   "lede": "Five portable SSDs from budget to premium — compared on the speed and endurance specifications that determine whether you hit USB interface limits or actual NAND flash limits, not on the marketing speed claims that many cables cannot deliver.",
   "methodology": "Specifications sourced from manufacturer published datasheets. We did not conduct independent sequential read/write speed tests or endurance testing. Speed claims reflect manufacturer specifications under ideal conditions using USB 3.2 Gen 2x2 or Gen 2 compliant cables — real-world sustained speeds may differ based on host controller, cable quality, thermal throttling, and file workload type.",
   "recommendedFor": [
@@ -263,5 +263,5 @@
     "ext-ssd-crucial-x9-pro": "600 TB TBW figures are for the 2 TB model — 1 TB model TBW is lower; check product page for specific capacity TBW rating.",
     "ext-ssd-seagate-one-touch": "Seagate Toolkit available for Windows and macOS; Time Machine compatibility on macOS is supported without additional software."
   },
-  "pinDescription": "5 external SSDs compared for 2026 — Samsung T9 2000MB/s Gen2x2 vs SanDisk Extreme IP65 rugged vs WD My Passport AES encrypted vs Crucial X9 Pro 600TB TBW vs Seagate One Touch budget. USB interface truth, TBW endurance facts, speed limit reality."
+  "pinDescription": "USB interface truth, TBW endurance facts, speed limit reality."
 }

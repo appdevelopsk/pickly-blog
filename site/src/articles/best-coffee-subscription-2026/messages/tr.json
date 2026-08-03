@@ -93,14 +93,20 @@
     "peets-coffee-subscription": "En iyi ana akım öğütülmüş kahve aboneliği — Major Dickason's Blend ~12-15 $/12 oz, ücretsiz nakliye, öğrenme eğrisi yok. Tutarlı koyu kavurma, öngörülebilirliğiyle yaygın beğeni kazanmış. Her sabah aynı güvenilir fincana isteyen içiciler için en iyi seçenek. Sınırlama: sıfır çeşitlilik."
   },
   "pinDescription": "2026 için karşılaştırılan 5 kahve aboneliği: Trade Coffee - Atlas Coffee Club - Onyx - Angels' Cup - Peet's. Tazelik, ons başına fiyat, kişiselleştirme — bir sonraki çantanız bitmeden doğru aboneliği bulun.",
-  "methodology": "Her abonelik, teslimat anında kavurma tarihi tazeliği, 3 veya daha fazla siparişten sonra kişiselleştirme doğruluğu, çanta boyutları arasında normalize edilmiş ons başına fiyat, öğütme seçenekleri ve gönderilerin duraklatılması veya atlanması kolaylığı açısından değerlendirildi.",
+  "methodology": "Her abonelik, teslimat anında kavurma tarihi tazeliği, 3 veya daha fazla siparişten sonra kişiselleştirme doğruluğu, çanta boyutları arasında normalize edilmiş ons başına fiyat, öğütme seçenekleri ve gönderilerin duraklatılması veya atlanması kolaylığı açısından değerlendirildi. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "trade-coffee-subscription",
       "badge": "Genel En İyi",
       "review": "Trade Coffee'nin tercih eşleştirme algoritması 60'tan fazla bağımsız kavurucudan çekiyor ve kavurmadan 1-3 gün içinde gönderiyor — hiçbir tek kavurucu aboneliğinin aynı anda eşleştiremeyeceği çeşitlilik ve tazelik kombinasyonu. Dürüst değiş tokuş: algoritmanın kalibre edilmesi 3-5 sipariş gerektirir.",
-      "pros": ["60'tan fazla kavurucu ağı geniş köken ve stil yelpazesini kapsar", "Her çantada kavurma tarihi baskılı — tam tazelik şeffaflığı", "Puan geri bildirim döngüsü gelecekteki eşleşmeleri sürekli olarak iyileştirir"],
-      "cons": ["Erken teslimatlar, algoritma puanlarınızı öğrenene kadar damağınızla örtüşmeyebilir"],
+      "pros": [
+        "60'tan fazla kavurucu ağı geniş köken ve stil yelpazesini kapsar",
+        "Her çantada kavurma tarihi baskılı — tam tazelik şeffaflığı",
+        "Puan geri bildirim döngüsü gelecekteki eşleşmeleri sürekli olarak iyileştirir"
+      ],
+      "cons": [
+        "Erken teslimatlar, algoritma puanlarınızı öğrenene kadar damağınızla örtüşmeyebilir"
+      ],
       "grade": "A+",
       "specs": {
         "Kavurucu ağı": "60'tan fazla bağımsız kavurucu",
@@ -110,14 +116,26 @@
         "Öğütme seçenekleri": "Bütün çekirdek + 4 önceden öğütülmüş tür",
         "Abonelik esnekliği": "Haftadan her 8 haftada bire"
       },
-      "scores": {"Tazelik": 4.9, "Lezzet": 4.7, "Değer": 4.3, "Kolaylık": 4.5, "Kişiselleştirme": 4.8}
+      "scores": {
+        "Tazelik": 4.9,
+        "Lezzet": 4.7,
+        "Değer": 4.3,
+        "Kolaylık": 4.5,
+        "Kişiselleştirme": 4.8
+      }
     },
     {
       "offerId": "atlas-coffee-club",
       "badge": "Kaşifler İçin En İyi",
       "review": "Atlas Coffee Club her ay kavurma tarihli çantalar ve eğitici kartpostal ile farklı bir üretici ülkeden kahve sunar — kahveye şarap tutkunusunun bölgesel keşfe yaklaştığı gibi yaklaşan içiciler için en iyi format. Kişiselleştirme yok, yani Atlas'ın editöryal seçimlerini alırsınız.",
-      "pros": ["Her ay yeni köken ülkesi — gerçek coğrafi çeşitlilik", "Kavurma tarihi baskılı, kavurmadan günler içinde gönderilir", "Tadım notları ve işleme yöntemi ayrıntılarını içeren köken kartpostalları"],
-      "cons": ["Kişiselleştirme yok — lezzet tercihleri belirtilemez veya işleme türleri dışlanamaz"],
+      "pros": [
+        "Her ay yeni köken ülkesi — gerçek coğrafi çeşitlilik",
+        "Kavurma tarihi baskılı, kavurmadan günler içinde gönderilir",
+        "Tadım notları ve işleme yöntemi ayrıntılarını içeren köken kartpostalları"
+      ],
+      "cons": [
+        "Kişiselleştirme yok — lezzet tercihleri belirtilemez veya işleme türleri dışlanamaz"
+      ],
       "grade": "A",
       "specs": {
         "Tedarik modeli": "Tek çekirdekli, aylık dönen ülke",
@@ -127,14 +145,26 @@
         "Öğütme seçenekleri": "Bütün çekirdek (istek üzerine öğütülmüş)",
         "Abonelik esnekliği": "İstediğiniz zaman atlama, durdurma veya iptal"
       },
-      "scores": {"Tazelik": 4.7, "Lezzet": 4.6, "Değer": 4.5, "Kolaylık": 4.4, "Kişiselleştirme": 2.5}
+      "scores": {
+        "Tazelik": 4.7,
+        "Lezzet": 4.6,
+        "Değer": 4.5,
+        "Kolaylık": 4.4,
+        "Kişiselleştirme": 2.5
+      }
     },
     {
       "offerId": "onyx-coffee-lab-subscription",
       "badge": "En Yüksek Kalite Tavanı",
       "review": "Onyx siparişe göre kavurur ve kavurmadan 24-48 saat içinde gönderir — kategoride en hızlılar arasında — ve tedariki, perakende satışta bulamayacağınız yüksek puanlı, süreç odaklı lotları hedefler. Dar estetik (daha açık kavurmalar, meyve) istediğini zaten bilen alıcılar için bir avantajdır.",
-      "pros": ["Siparişe göre kavurur, 24-48 saat içinde gönderir — test edilen en hızlı taze teslimat", "Tutarlı yüksek kaliteli tedarik: yarışma düzeyinde lotlar ve süreç şeffaflığı", "Abonelik indirimi premium fiyatlandırmayı daha sürdürülebilir kılar"],
-      "cons": ["Dar kavurma estetiği — koyu kavurma veya blend tercihleri için uygun değil"],
+      "pros": [
+        "Siparişe göre kavurur, 24-48 saat içinde gönderir — test edilen en hızlı taze teslimat",
+        "Tutarlı yüksek kaliteli tedarik: yarışma düzeyinde lotlar ve süreç şeffaflığı",
+        "Abonelik indirimi premium fiyatlandırmayı daha sürdürülebilir kılar"
+      ],
+      "cons": [
+        "Dar kavurma estetiği — koyu kavurma veya blend tercihleri için uygun değil"
+      ],
       "grade": "B+",
       "specs": {
         "Tedarik modeli": "Tek kavurucu (Onyx'in kendi kavurmaları)",
@@ -144,14 +174,26 @@
         "Öğütme seçenekleri": "Yalnızca bütün çekirdek",
         "Abonelik esnekliği": "Self-servis pano, durdurma/atlama mevcut"
       },
-      "scores": {"Tazelik": 5.0, "Lezzet": 4.8, "Değer": 3.8, "Kolaylık": 4.2, "Kişiselleştirme": 2.0}
+      "scores": {
+        "Tazelik": 5.0,
+        "Lezzet": 4.8,
+        "Değer": 3.8,
+        "Kolaylık": 4.2,
+        "Kişiselleştirme": 2.0
+      }
     },
     {
       "offerId": "angels-cup-subscription",
       "badge": "En İyi Damak Eğiticisi",
       "review": "Angels' Cup, kökeni açıklamadan önce kör tadım için tasarlanmış numaralandırılmış, etiketsiz numune paketleri gönderir — alışkanlık yerine tadım becerisi oluşturan gerçekten eşsiz bir format. Ons başına maliyet beşli arasında en yüksektir ve format birincil günlük kahve kaynağı olarak çalışmaz.",
-      "pros": ["Kör tadım formatı köken önyargısını ortadan kaldırır ve doğru damak değerlendirmesi geliştirir", "Numaralandırılmış numune ambalajıyla kavurmadan 1-5 gün içinde gönderilir", "Üyelik, yapılandırılmış öğrenme için tadım sonrası köken ayrıntılarını açıklar"],
-      "cons": ["Numune formatı birincil günlük kahve kaynağı olarak pratik değil — yüksek ons başına maliyet"],
+      "pros": [
+        "Kör tadım formatı köken önyargısını ortadan kaldırır ve doğru damak değerlendirmesi geliştirir",
+        "Numaralandırılmış numune ambalajıyla kavurmadan 1-5 gün içinde gönderilir",
+        "Üyelik, yapılandırılmış öğrenme için tadım sonrası köken ayrıntılarını açıklar"
+      ],
+      "cons": [
+        "Numune formatı birincil günlük kahve kaynağı olarak pratik değil — yüksek ons başına maliyet"
+      ],
       "grade": "B",
       "specs": {
         "Tedarik modeli": "Çok kavuruculu kör numune setleri",
@@ -161,14 +203,26 @@
         "Öğütme seçenekleri": "Önceden öğütülmüş numuneler; çanta aboneliklerinde bütün çekirdek",
         "Abonelik esnekliği": "Çevrimiçi iptal ve üye portalından atlama"
       },
-      "scores": {"Tazelik": 4.6, "Lezzet": 4.5, "Değer": 3.5, "Kolaylık": 3.8, "Kişiselleştirme": 3.0}
+      "scores": {
+        "Tazelik": 4.6,
+        "Lezzet": 4.5,
+        "Değer": 3.5,
+        "Kolaylık": 3.8,
+        "Kişiselleştirme": 3.0
+      }
     },
     {
       "offerId": "peets-coffee-subscription",
       "badge": "En İyi Zahmetsiz Seçim",
       "review": "Peet's Major Dickason's Blend aboneliği, ücretsiz nakliye ve öğrenme eğrisi olmaksızın beşli arasında en düşük ons başına fiyatla tutarlı koyu kavurma kalitesi sunar. Her sabah aynı güvenilir fincana isteyen herkes için doğru yanıttır — specialty kavurmalar veya çeşitlilikle ilgilenen herkes için ise tamamen yanlış.",
-      "pros": ["Ücretsiz nakliye dahil en düşük ons başına fiyat", "Tutarlı koyu kavurma karakteri — sürpriz veya dönen çeşitler yok", "Geniş çaplı önceden öğütülmüş seçenekler — öğütücü gerekmez"],
-      "cons": ["Sıfır çeşitlilik; koyu kavurma profili açık kavrulmuş specialty kahve içicilerini memnun etmez"],
+      "pros": [
+        "Ücretsiz nakliye dahil en düşük ons başına fiyat",
+        "Tutarlı koyu kavurma karakteri — sürpriz veya dönen çeşitler yok",
+        "Geniş çaplı önceden öğütülmüş seçenekler — öğütücü gerekmez"
+      ],
+      "cons": [
+        "Sıfır çeşitlilik; koyu kavurma profili açık kavrulmuş specialty kahve içicilerini memnun etmez"
+      ],
       "grade": "B-",
       "specs": {
         "Blend": "Major Dickason's Blend (koyu kavurma)",
@@ -178,14 +232,40 @@
         "Öğütme seçenekleri": "Bütün çekirdek ve tüm öğütme türleri",
         "Abonelik esnekliği": "Peet's portalı üzerinden atlama ve durdurma"
       },
-      "scores": {"Tazelik": 4.2, "Lezzet": 4.0, "Değer": 4.8, "Kolaylık": 4.9, "Kişiselleştirme": 1.0}
+      "scores": {
+        "Tazelik": 4.2,
+        "Lezzet": 4.0,
+        "Değer": 4.8,
+        "Kolaylık": 4.9,
+        "Kişiselleştirme": 1.0
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Araştırma yapmadan çeşitlilik isteyen meraklı içiciler için", "offerId": "trade-coffee-subscription", "reason": "Tercih algoritması kavurucu keşfini yönetir; yalnızca aldıklarınızı puanlamanız yeterli."},
-    {"label": "Coğrafya odaklı kahve kaşifi için", "offerId": "atlas-coffee-club", "reason": "Köken bağlamıyla her ay farklı bir ülke — sistematik ve eğitici."},
-    {"label": "Zaten açık, süreç odaklı specialty kahveyi tercih eden alıcılar için", "offerId": "onyx-coffee-lab-subscription", "reason": "Siparişe göre kavurma, en hızlı gönderim süresi ve kalite katmanında ödün vermeme."},
-    {"label": "Kör tadım yoluyla damağını geliştirmek isteyenler için", "offerId": "angels-cup-subscription", "reason": "Keşfi günlük ikmal yerine tadım egzersizi olarak yapılandıran tek abonelik."},
-    {"label": "Yalnızca güvenilir koyu öğütülmüş kahve teslimatı isteyen herkes için", "offerId": "peets-coffee-subscription", "reason": "Tutarlı, uygun fiyatlı, önceden öğütülmüş — öğrenme eğrisi yok, sürpriz yok."}
+    {
+      "label": "Araştırma yapmadan çeşitlilik isteyen meraklı içiciler için",
+      "offerId": "trade-coffee-subscription",
+      "reason": "Tercih algoritması kavurucu keşfini yönetir; yalnızca aldıklarınızı puanlamanız yeterli."
+    },
+    {
+      "label": "Coğrafya odaklı kahve kaşifi için",
+      "offerId": "atlas-coffee-club",
+      "reason": "Köken bağlamıyla her ay farklı bir ülke — sistematik ve eğitici."
+    },
+    {
+      "label": "Zaten açık, süreç odaklı specialty kahveyi tercih eden alıcılar için",
+      "offerId": "onyx-coffee-lab-subscription",
+      "reason": "Siparişe göre kavurma, en hızlı gönderim süresi ve kalite katmanında ödün vermeme."
+    },
+    {
+      "label": "Kör tadım yoluyla damağını geliştirmek isteyenler için",
+      "offerId": "angels-cup-subscription",
+      "reason": "Keşfi günlük ikmal yerine tadım egzersizi olarak yapılandıran tek abonelik."
+    },
+    {
+      "label": "Yalnızca güvenilir koyu öğütülmüş kahve teslimatı isteyen herkes için",
+      "offerId": "peets-coffee-subscription",
+      "reason": "Tutarlı, uygun fiyatlı, önceden öğütülmüş — öğrenme eğrisi yok, sürpriz yok."
+    }
   ]
 }

@@ -107,65 +107,185 @@
     "zojirushi-keep-warm-pot": "Elektro-Schwanenhals mit Temperaturvoreinstellungen -- Cosori Elektro-Schwanenhalskocher mit fünf Temperaturvoreinstellungen, 60-Minuten-Warmhalten, gebürstetem Edelstahlgehäuse, 1200-W-Basis und Temperaturanzeige auf der Basis, mit 0,8 L für Einzeltassen-Tee und Pour-Over dimensioniert. Kleinste Kapazität in diesem Vergleich -- 0,8 L ist nicht zum Füllen für drei oder vier Personen auf einmal geeignet; das 60-Minuten-Warmhalten schaltet sich nach der Haltephase ab und ist keine ganztägige Heißwasserlösung; die elektrische Basis braucht eine Steckdose, aber die Voreinstellungen entfernen das Aufkochen-und-Warten-Schätzen.",
     "fellow-stagg-ekg": "Präzisions-Pour-Over-Elektro-Schwanenhals-Benchmark -- Fellow Stagg EKG 0,9-L-Elektrokocher mit ausgeglichenem Griff, kontinuierlichem Temperaturdial (ungefähr 60-100°C), 60-minütigem Warmhalten, mattem schwarzem Finish. Importprodukt; Verfügbarkeit bei japanischen Einzelhändlern ist uneinheitlich mit gelegentlichen mehrwöchigen Ausverkaufs-Situationen."
   },
-  "pinDescription": "Fünf Wasserkocher verglichen 2026 -- vom Bonavita Schwanenhals-Herdkocher (1,0 L, kontrollierter Ausguss, keine Elektronik) über den Cosori Elektro-Schwanenhalskocher mit Temperaturvoreinstellungen bis zum Fellow Stagg EKG Präzisions-Pour-Over-Benchmark. Schwanenhals vs Breitausguss ehrlich erklärt, Temperatur für Grünentee und Kaffee, Kapazität für 1-4 Personen. #Wasserkocher #PourOverKaffee #Grünentee #Küche2026 #deutsch",
-  "methodology": "Jeder Wasserkocher wurde bewertet auf Ausgusstyp und Gießbogenkontrolle für Pour-over und Teezeremonie, Temperaturregelungsgenauigkeit für Grünentee und Kaffeeextraktion, Kapazitätseignung für 1-4 Personen Haushalte und realistische Lebensdauer basierend auf dominanten Fehlerbildern aus Langzeit-Eigentümerbewertungen.",
+  "pinDescription": "Fünf Wasserkocher verglichen 2026 -- vom Bonavita Schwanenhals-Herdkocher (1,0 L, kontrollierter Ausguss, keine Elektronik) über den Cosori Elektro-Schwanenhalskocher mit Temperaturvoreinstellungen bis zum Fellow Stagg EKG Präzisions-Pour-Over-Benchmark. Schwanenhals vs Breitausguss ehrlich erklärt, Temperatur für Grünentee und Kaffee, Kapazität für 1-4 Personen.",
+  "methodology": "Jeder Wasserkocher wurde bewertet auf Ausgusstyp und Gießbogenkontrolle für Pour-over und Teezeremonie, Temperaturregelungsgenauigkeit für Grünentee und Kaffeeextraktion, Kapazitätseignung für 1-4 Personen Haushalte und realistische Lebensdauer basierend auf dominanten Fehlerbildern aus Langzeit-Eigentümerbewertungen. Wir haben die Produkte nicht selbst getestet.",
   "products": [
     {
       "offerId": "fellow-stagg-ekg",
       "badge": "Bestes Gesamtprodukt",
       "review": "Der ausgeglichene Griff und das stufenlose Temperaturrad des Fellow Stagg EKG machen ihn zum präzisesten Pour-over-Kocher in dieser Gruppe — auf 93 °C einstellen und 60 Minuten lang halten, ohne einen Herd zu verwalten. Das 0,9-L-Fassungsvermögen ist für aufeinanderfolgende Brühvorgänge eng, und die Verfügbarkeit in Japan schwankt mit mehrwöchigen Lieferengpässen.",
-      "pros": ["Stufenloses Temperaturrad von ca. 60 bis 100 °C", "60 Minuten Warmhaltefunktion hält Pour-over-Temperatur ohne manuelle Eingriffe", "Ausgeglichener Griff ermöglicht langsames präzises Schwanenhals-Gießen"],
-      "cons": ["0,9 L erfordert nachfüllen für Haushalte die mehrere Tassen hintereinander brauen", "Importpreis in Japan 20-40% über US-MSRP mit gelegentlichen Lieferengpässen"],
+      "pros": [
+        "Stufenloses Temperaturrad von ca. 60 bis 100 °C",
+        "60 Minuten Warmhaltefunktion hält Pour-over-Temperatur ohne manuelle Eingriffe",
+        "Ausgeglichener Griff ermöglicht langsames präzises Schwanenhals-Gießen"
+      ],
+      "cons": [
+        "0,9 L erfordert nachfüllen für Haushalte die mehrere Tassen hintereinander brauen",
+        "Importpreis in Japan 20-40% über US-MSRP mit gelegentlichen Lieferengpässen"
+      ],
       "grade": "A+",
-      "specs": {"Fassungsvermoegen": "0,9 L", "Ausguss": "Schwanenhals", "Temperaturregelung": "Stufenloses Rad ca. 60-100 °C", "Warmhalten": "60 Min", "Heizung": "Elektrisch", "Preis": "US$165+ (Import)"},
-      "scores": {"Aufheizgeschwindigkeit": 4.3, "Temperaturregelung": 5.0, "Verarbeitungsqualität": 4.9, "Preis-Leistung": 3.5, "Fassungsvermoegen": 3.2}
+      "specs": {
+        "Fassungsvermoegen": "0,9 L",
+        "Ausguss": "Schwanenhals",
+        "Temperaturregelung": "Stufenloses Rad ca. 60-100 °C",
+        "Warmhalten": "60 Min",
+        "Heizung": "Elektrisch",
+        "Preis": "US$165+ (Import)"
+      },
+      "scores": {
+        "Aufheizgeschwindigkeit": 4.3,
+        "Temperaturregelung": 5.0,
+        "Verarbeitungsqualität": 4.9,
+        "Preis-Leistung": 3.5,
+        "Fassungsvermoegen": 3.2
+      }
     },
     {
       "offerId": "balmuda-the-pot",
       "badge": "Bestes Design",
       "review": "Der Bonavita Schwanenhals-Herdkocher ist der sauberste Gießkocher in diesem Vergleich und ehrlich über seine Grenzen — 1,0 L, keine Temperaturregelung, keine Warmhaltefunktion, nur ein matter Edelstahl-Schwanenhals der richtig auf einer Arbeitsplatte aussieht und kontrolliert gießt. Man wählt ihn für den Ausgussbogen und die Herd-Einfachheit, nicht für digitale Funktionen.",
-      "pros": ["Sauberes mattes Edelstahldesign das seinen Platz auf der Arbeitsplatte verdient", "Ultraschmaler Ausguss bietet langsame kontrollierte Gießbogenkontrolle", "Gas- und elektroherdkompatibel ohne digitale Bauteile die versagen können"],
-      "cons": ["1,0 L erfordert Nachfüllen zum Füllen von drei oder vier Tassen auf einmal", "Keine Temperaturregelung und kein Warmhalten erfordert die Kochen-und-Warten-Methode"],
+      "pros": [
+        "Sauberes mattes Edelstahldesign das seinen Platz auf der Arbeitsplatte verdient",
+        "Ultraschmaler Ausguss bietet langsame kontrollierte Gießbogenkontrolle",
+        "Gas- und elektroherdkompatibel ohne digitale Bauteile die versagen können"
+      ],
+      "cons": [
+        "1,0 L erfordert Nachfüllen zum Füllen von drei oder vier Tassen auf einmal",
+        "Keine Temperaturregelung und kein Warmhalten erfordert die Kochen-und-Warten-Methode"
+      ],
       "grade": "A",
-      "specs": {"Fassungsvermoegen": "1,0 L", "Ausguss": "Ultraschmaler Schwanenhals", "Temperaturregelung": "Keine", "Warmhalten": "Keine", "Heizung": "Gas-/Elektroherd", "Preis": "ca. $60"},
-      "scores": {"Aufheizgeschwindigkeit": 3.8, "Temperaturregelung": 1.0, "Verarbeitungsqualität": 4.5, "Preis-Leistung": 4.2, "Fassungsvermoegen": 3.5}
+      "specs": {
+        "Fassungsvermoegen": "1,0 L",
+        "Ausguss": "Ultraschmaler Schwanenhals",
+        "Temperaturregelung": "Keine",
+        "Warmhalten": "Keine",
+        "Heizung": "Gas-/Elektroherd",
+        "Preis": "ca. $60"
+      },
+      "scores": {
+        "Aufheizgeschwindigkeit": 3.8,
+        "Temperaturregelung": 1.0,
+        "Verarbeitungsqualität": 4.5,
+        "Preis-Leistung": 4.2,
+        "Fassungsvermoegen": 3.5
+      }
     },
     {
       "offerId": "hario-v60-buono-kettle",
       "badge": "Bester Herdkocher",
       "review": "Der Hario V60 Drip Kettle Buono ist der Kocher auf den sich die Pour-over-Gemeinde standardisiert hat — 1,2 L Edelstahl, präziser Schwanenhals und ein Gießbogen dem die Specialty-Coffee-Welt seit über einem Jahrzehnt vertraut. Keine elektrische Warmhaltefunktion bedeutet Herdbedienung selbst, und der Griff erhitzt sich an Gasherden schneller als erwartet.",
-      "pros": ["1,2 L deckt zwei bis drei Pour-over-Portionen ohne Nachfüllen ab", "Bewährter Schwanenhals-Gießbogen für V60, Chemex und Kalita Wave", "Vollständig rostfreies Inneres ist inert und leicht zu reinigen"],
-      "cons": ["Keine Warmhaltefunktion — Herdbedienung während einer Pour-over-Sitzung erforderlich", "Griff erhitzt sich an Gasherden und benötigt nach längerem Einsatz einen Topflappen"],
+      "pros": [
+        "1,2 L deckt zwei bis drei Pour-over-Portionen ohne Nachfüllen ab",
+        "Bewährter Schwanenhals-Gießbogen für V60, Chemex und Kalita Wave",
+        "Vollständig rostfreies Inneres ist inert und leicht zu reinigen"
+      ],
+      "cons": [
+        "Keine Warmhaltefunktion — Herdbedienung während einer Pour-over-Sitzung erforderlich",
+        "Griff erhitzt sich an Gasherden und benötigt nach längerem Einsatz einen Topflappen"
+      ],
       "grade": "B+",
-      "specs": {"Fassungsvermoegen": "1,2 L", "Ausguss": "Schwanenhals", "Temperaturregelung": "Keine (nur Herdkontrolle)", "Warmhalten": "Keine", "Heizung": "IH/Gasherd", "Preis": "ca. $65"},
-      "scores": {"Aufheizgeschwindigkeit": 3.5, "Temperaturregelung": 2.0, "Verarbeitungsqualität": 4.5, "Preis-Leistung": 4.7, "Fassungsvermoegen": 4.2}
+      "specs": {
+        "Fassungsvermoegen": "1,2 L",
+        "Ausguss": "Schwanenhals",
+        "Temperaturregelung": "Keine (nur Herdkontrolle)",
+        "Warmhalten": "Keine",
+        "Heizung": "IH/Gasherd",
+        "Preis": "ca. $65"
+      },
+      "scores": {
+        "Aufheizgeschwindigkeit": 3.5,
+        "Temperaturregelung": 2.0,
+        "Verarbeitungsqualität": 4.5,
+        "Preis-Leistung": 4.7,
+        "Fassungsvermoegen": 4.2
+      }
     },
     {
       "offerId": "zojirushi-keep-warm-pot",
       "badge": "Beste Temperaturvoreinstellungen",
       "review": "Der Cosori Elektro-Schwanenhalskocher ist die Einstellen-und-Gießen-Wahl — befüllen, eine von fünf Temperaturvoreinstellungen wählen, und die 1200-W-Basis heizt und hält sie bis zu 60 Minuten. Die Voreinstellungen und die Basis-Anzeige machen ihn ideal für Einzeltassen-Grünentee und Pour-Over, mit 0,8 L ist er jedoch das kleinste Gießgefäß hier.",
-      "pros": ["Fünf Temperaturvoreinstellungen für Grünentee, Schwarztee und Pour-Over", "60-Minuten-Warmhalten hält Temperatur für aufeinanderfolgende Aufgüsse", "Gebürstetes Edelstahlinneres mit Temperaturanzeige auf der Basis"],
-      "cons": ["0,8 L ist die kleinste Kapazität hier — nicht zum Füllen von drei oder vier Tassen auf einmal", "Elektrische Basis braucht eine Steckdose und bleibt am Platz statt zum Tisch zu wandern"],
+      "pros": [
+        "Fünf Temperaturvoreinstellungen für Grünentee, Schwarztee und Pour-Over",
+        "60-Minuten-Warmhalten hält Temperatur für aufeinanderfolgende Aufgüsse",
+        "Gebürstetes Edelstahlinneres mit Temperaturanzeige auf der Basis"
+      ],
+      "cons": [
+        "0,8 L ist die kleinste Kapazität hier — nicht zum Füllen von drei oder vier Tassen auf einmal",
+        "Elektrische Basis braucht eine Steckdose und bleibt am Platz statt zum Tisch zu wandern"
+      ],
       "grade": "B",
-      "specs": {"Fassungsvermoegen": "0,8 L", "Ausguss": "Schwanenhals", "Temperatureinstellungen": "5 Voreinstellungen", "Warmhalten": "60 Min", "Heizung": "Elektrisch 1200 W", "Preis": "ca. $70"},
-      "scores": {"Aufheizgeschwindigkeit": 4.2, "Temperaturregelung": 4.5, "Verarbeitungsqualität": 4.3, "Preis-Leistung": 4.4, "Fassungsvermoegen": 3.0}
+      "specs": {
+        "Fassungsvermoegen": "0,8 L",
+        "Ausguss": "Schwanenhals",
+        "Temperatureinstellungen": "5 Voreinstellungen",
+        "Warmhalten": "60 Min",
+        "Heizung": "Elektrisch 1200 W",
+        "Preis": "ca. $70"
+      },
+      "scores": {
+        "Aufheizgeschwindigkeit": 4.2,
+        "Temperaturregelung": 4.5,
+        "Verarbeitungsqualität": 4.3,
+        "Preis-Leistung": 4.4,
+        "Fassungsvermoegen": 3.0
+      }
     },
     {
       "offerId": "delonghi-icona-vintage-kettle",
       "badge": "Bester für große Haushalte",
       "review": "Der De'Longhi Icona Vintage kocht 1,7 L schnell, sitzt auf einer 360°-kabellosen Basis und sieht in einer Mid-Century-Küche richtig aus. Er ist die unkomplizierte Wahl für Haushalte mit drei oder vier Personen die schnelles Kochen und einen breiten Ausguss wollen — nur nicht für Pour-over-Kaffee oder präzisen Tee.",
-      "pros": ["1,7 L deckt vier Tassen in einer Füllung ab", "360° kabellose Basis und tropffreier Breitausguss", "Schnellkochfunktion mit automatischer Abschaltung"],
-      "cons": ["Breiter Ausguss ist zu schnell für Pour-over-Kaffee oder präzise Zubereitung", "Bei voller Füllung schwer (~2,5 kg); Kunststoffinneres setzt in Hartwassergebieten schneller Kalk an"],
+      "pros": [
+        "1,7 L deckt vier Tassen in einer Füllung ab",
+        "360° kabellose Basis und tropffreier Breitausguss",
+        "Schnellkochfunktion mit automatischer Abschaltung"
+      ],
+      "cons": [
+        "Breiter Ausguss ist zu schnell für Pour-over-Kaffee oder präzise Zubereitung",
+        "Bei voller Füllung schwer (~2,5 kg); Kunststoffinneres setzt in Hartwassergebieten schneller Kalk an"
+      ],
       "grade": "B-",
-      "specs": {"Fassungsvermoegen": "1,7 L", "Ausguss": "Breit (tropffrei)", "Temperaturregelung": "Keine", "Warmhalten": "Keine", "Heizung": "Elektrisch 360° kabellos", "Preis": "$89,99"},
-      "scores": {"Aufheizgeschwindigkeit": 4.8, "Temperaturregelung": 1.0, "Verarbeitungsqualität": 3.8, "Preis-Leistung": 4.0, "Fassungsvermoegen": 4.8}
+      "specs": {
+        "Fassungsvermoegen": "1,7 L",
+        "Ausguss": "Breit (tropffrei)",
+        "Temperaturregelung": "Keine",
+        "Warmhalten": "Keine",
+        "Heizung": "Elektrisch 360° kabellos",
+        "Preis": "$89,99"
+      },
+      "scores": {
+        "Aufheizgeschwindigkeit": 4.8,
+        "Temperaturregelung": 1.0,
+        "Verarbeitungsqualität": 3.8,
+        "Preis-Leistung": 4.0,
+        "Fassungsvermoegen": 4.8
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Für Pour-over-Kaffeeliebhaber", "offerId": "fellow-stagg-ekg", "reason": "Stufenloses Temperaturrad und 60 Minuten Warmhalten lassen Sie 93 °C einstellen und während einer vollständigen Pour-over-Sitzung aufrechterhalten ohne den Herd zu beobachten."},
-    {"label": "Für Herd-Schwanenhals-Puristen", "offerId": "balmuda-the-pot", "reason": "Der matte Edelstahl-Schwanenhals gießt kontrolliert auf dem eigenen Herd — wählen Sie ihn für den Ausgussbogen und ein sauberes Aussehen ohne Elektronik, die versagen kann."},
-    {"label": "Für Herd-Pour-over-Brauerliebhaber", "offerId": "hario-v60-buono-kettle", "reason": "Der Referenz-Schwanenhalskocher der Specialty-Coffee-Gemeinde zu einem Bruchteil der elektrischen Alternativen — lässt Budget für einen besseren Mahlkopf übrig."},
-    {"label": "Für Tee und Pour-Over mit Temperaturvoreinstellungen", "offerId": "zojirushi-keep-warm-pot", "reason": "Fünf Temperaturvoreinstellungen und ein 60-Minuten-Warmhalten lassen Sie 80 °C Grünentee oder 93 °C Pour-Over einstellen und gießen, ohne ein Thermometer zu beobachten."},
-    {"label": "Für Familien mit drei oder vier Personen", "offerId": "delonghi-icona-vintage-kettle", "reason": "1,7 L Schnellkochen deckt vier Tassen in einer Füllung ab ohne Nachfüllen, zu einem unkomplizierten Preis für allgemeinen Heißwasserbedarf."}
+    {
+      "label": "Für Pour-over-Kaffeeliebhaber",
+      "offerId": "fellow-stagg-ekg",
+      "reason": "Stufenloses Temperaturrad und 60 Minuten Warmhalten lassen Sie 93 °C einstellen und während einer vollständigen Pour-over-Sitzung aufrechterhalten ohne den Herd zu beobachten."
+    },
+    {
+      "label": "Für Herd-Schwanenhals-Puristen",
+      "offerId": "balmuda-the-pot",
+      "reason": "Der matte Edelstahl-Schwanenhals gießt kontrolliert auf dem eigenen Herd — wählen Sie ihn für den Ausgussbogen und ein sauberes Aussehen ohne Elektronik, die versagen kann."
+    },
+    {
+      "label": "Für Herd-Pour-over-Brauerliebhaber",
+      "offerId": "hario-v60-buono-kettle",
+      "reason": "Der Referenz-Schwanenhalskocher der Specialty-Coffee-Gemeinde zu einem Bruchteil der elektrischen Alternativen — lässt Budget für einen besseren Mahlkopf übrig."
+    },
+    {
+      "label": "Für Tee und Pour-Over mit Temperaturvoreinstellungen",
+      "offerId": "zojirushi-keep-warm-pot",
+      "reason": "Fünf Temperaturvoreinstellungen und ein 60-Minuten-Warmhalten lassen Sie 80 °C Grünentee oder 93 °C Pour-Over einstellen und gießen, ohne ein Thermometer zu beobachten."
+    },
+    {
+      "label": "Für Familien mit drei oder vier Personen",
+      "offerId": "delonghi-icona-vintage-kettle",
+      "reason": "1,7 L Schnellkochen deckt vier Tassen in einer Füllung ab ohne Nachfüllen, zu einem unkomplizierten Preis für allgemeinen Heißwasserbedarf."
+    }
   ]
 }

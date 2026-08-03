@@ -1,7 +1,7 @@
 {
-  "title": "日本租用伺服器比較2026:5家實測排名",
-  "description": "5家日本租用伺服器各實測30天:ConoHa WING、Xserver、mixhost、Sakura、Lolipop按速度、價格與適用場景排名。",
-  "lede": "5家伺服器,各30天,同一WordPress部落格全部搬遷一輪。哪家真的贏、對哪類人贏,本文用表格與數字說清楚。",
+  "title": "日本租用伺服器比較2026：5家排名",
+  "description": "日本租用伺服器比較2026：5家排名。依官方規格、原廠文件與第三方評測比較。",
+  "lede": "哪家真的贏、對哪類人贏,本文用表格與數字說清楚。本文依據官方公布規格、原廠文件與第三方評測比較5款產品，並未實際測試。",
   "sections": [
     {
       "heading": "什麼是租用伺服器(給新手)",
@@ -115,8 +115,8 @@
     "sakura-rentalserver": "#4 — 榜單最低入門價,但無WP一鍵。愛折騰的開發者/愛好者向。",
     "lolipop-server": "#5 — 與ConoHa同屬GMO的低價版。續約價只有一半,TTFB更慢。僅適合興趣部落格與最緊預算。"
   },
-  "pinDescription": "5家日本租用伺服器30天實測比較。ConoHa WING vs Xserver vs mixhost vs Sakura vs Lolipop 按TTFB、價格、適用場景排名。",
-  "methodology": "每家主機服務商均在其最低入門方案上運行真實WordPress安裝，持續30天，從東京節點測量TTFB（每天3次），每60秒檢測在線率，並計時從註冊到第一篇文章發布的完整流程。",
+  "pinDescription": "ConoHa WING vs Xserver vs mixhost vs Sakura vs Lolipop 按TTFB、價格、適用場景排名。",
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。我們並未實際測試這些產品。",
   "products": [
     {
       "offerId": "conoha-wing",

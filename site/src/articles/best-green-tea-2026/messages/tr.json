@@ -58,64 +58,184 @@
     "harney-sons-dragon-well": "Çin Dragon Well (Longjing) gevşek yaprak, 4oz. $12-18. En iyi Çin yeşil çayı — tavada kavurulmuş, tatlı-aromatik, Japon yeşillerinden daha az bitkisel. Japon yeşil çayını çok yoğun tuzlu bulan içiciler için doğru."
   },
   "pinDescription": "Yeşil çay 2026: Japon senchası vs gyokuro vs genmaicha vs Çin Dragon Well — neden sıcaklık önemli (asla kaynamış su kullanmayın), gölgede yetiştirme açıklandı, yeşil çayı soğuk demlemek, ve günlük içme için en iyi yeşil çay 2026.",
-  "methodology": "Her çay, lezzet karmaşıklığı, kaynak şeffaflığı ve izlenebilirlik, gram başına değer, tazelik göstergeleri, ambalaj bütünlüğü ve sıcak demleme, soğuk demleme ve yeniden demleme dahil olmak üzere demleme yöntemleri arasındaki uygunluk açısından değerlendirildi.",
+  "methodology": "Her çay, lezzet karmaşıklığı, kaynak şeffaflığı ve izlenebilirlik, gram başına değer, tazelik göstergeleri, ambalaj bütünlüğü ve sıcak demleme, soğuk demleme ve yeniden demleme dahil olmak üzere demleme yöntemleri arasındaki uygunluk açısından değerlendirildi. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "ippodo-sencha-ummon",
       "badge": "En İyi Genel",
       "review": "Ippodo'nun Ummon Senchası bu karşılaştırmadaki referans kalitesinde Japon senchasıdır — Japonya'nın en eski çay dükkanından doğrudan Uji kaynağıyla parlak yeşil, otsu ve temiz. 80g için $18-25 süpermarket senchasından daha pahalıdır, ancak kalite tutarlılığı istisnaîdir. 70-75°C su gerektirir; kaynamış su acılık getirir.",
-      "pros": ["1717'de kurulmuş Japonya'nın en eski çay dükkanından doğrudan Uji kaynağı", "Parti parti tutarlı kalitesiyle parlak, temiz otsu tat", "Aynı yapraklardan 2-3 kez yeniden demlenir"],
-      "cons": ["Sıcaklık kontrolü gerektirir — kaynamış su fincanı mahveder"],
+      "pros": [
+        "1717'de kurulmuş Japonya'nın en eski çay dükkanından doğrudan Uji kaynağı",
+        "Parti parti tutarlı kalitesiyle parlak, temiz otsu tat",
+        "Aynı yapraklardan 2-3 kez yeniden demlenir"
+      ],
+      "cons": [
+        "Sıcaklık kontrolü gerektirir — kaynamış su fincanı mahveder"
+      ],
       "grade": "A+",
-      "specs": {"Köken": "Uji, Japonya", "Ağırlık": "80g", "Fiyat": "~$18-25", "Demleme sıcaklığı": "70-75°C", "Demleme süresi": "1 dak", "Stil": "Sencha gevşek yaprak", "Yeniden demleme": "2-3x"},
-      "scores": {"Lezzet": 4.8, "Kalite": 4.9, "Değer": 4.1, "Çok yönlülük": 4.3, "Tazelik": 4.9}
+      "specs": {
+        "Köken": "Uji, Japonya",
+        "Ağırlık": "80g",
+        "Fiyat": "~$18-25",
+        "Demleme sıcaklığı": "70-75°C",
+        "Demleme süresi": "1 dak",
+        "Stil": "Sencha gevşek yaprak",
+        "Yeniden demleme": "2-3x"
+      },
+      "scores": {
+        "Lezzet": 4.8,
+        "Kalite": 4.9,
+        "Değer": 4.1,
+        "Çok yönlülük": 4.3,
+        "Tazelik": 4.9
+      }
     },
     {
       "offerId": "harney-sons-japanese-sencha",
       "badge": "En Erişilebilir",
       "review": "Harney & Sons Japanese Sencha pratik günlük seçenektir — Whole Foods'ta satılır, $8-12 fiyatla ve günlük içme için tutarlı şekilde iyidir. Gevşek yaprak versiyonu, daha iyi yaprak kesimi nedeniyle poşet versiyonundan belirgin şekilde daha iyi performans gösterir. Karmaşıklık açısından Ippodo'nun açıkça bir adım gerisinde, ancak uzmanlık mağazası fiyatlandırması olmadan Japon senchasına sağlam bir giriş.",
-      "pros": ["Whole Foods'ta ve geniş çevrimiçi mevcut", "Gevşek yaprak versiyonu $8-12'de iyi günlük kalite sağlar", "Özel kaynak olmadan Japon senchasına erişilebilir giriş noktası"],
-      "cons": ["Ippodo'dan daha az karmaşık — belirgin şekilde daha basit lezzet profili"],
+      "pros": [
+        "Whole Foods'ta ve geniş çevrimiçi mevcut",
+        "Gevşek yaprak versiyonu $8-12'de iyi günlük kalite sağlar",
+        "Özel kaynak olmadan Japon senchasına erişilebilir giriş noktası"
+      ],
+      "cons": [
+        "Ippodo'dan daha az karmaşık — belirgin şekilde daha basit lezzet profili"
+      ],
       "grade": "A",
-      "specs": {"Köken": "Japonya", "Ağırlık": "4 oz / 20 poşet", "Fiyat": "~$8-12", "Demleme sıcaklığı": "75-80°C", "Demleme süresi": "1-2 dak", "Stil": "Sencha gevşek yaprak veya poşet", "Erişilebilirlik": "Whole Foods"},
-      "scores": {"Lezzet": 4.2, "Kalite": 4.1, "Değer": 4.7, "Çok yönlülük": 4.4, "Tazelik": 4.2}
+      "specs": {
+        "Köken": "Japonya",
+        "Ağırlık": "4 oz / 20 poşet",
+        "Fiyat": "~$8-12",
+        "Demleme sıcaklığı": "75-80°C",
+        "Demleme süresi": "1-2 dak",
+        "Stil": "Sencha gevşek yaprak veya poşet",
+        "Erişilebilirlik": "Whole Foods"
+      },
+      "scores": {
+        "Lezzet": 4.2,
+        "Kalite": 4.1,
+        "Değer": 4.7,
+        "Çok yönlülük": 4.4,
+        "Tazelik": 4.2
+      }
     },
     {
       "offerId": "two-leaves-genmaicha",
       "badge": "Yeni Başlayanlar İçin En İyi",
       "review": "Two Leaves Genmaicha, senchai kavurulmuş pirinçle karıştırır ve bu fındıksı, aromatik katman tam olarak yeşil çay yenileri için erişilebilir kılan şeydir — kavurulmuş pirinç otsu tadı dengeler ve fincanı daha az yoğun bitkisel yapar. Saf senchadan 80°C'de daha bağışlayıcı. Siyah çaydan geçiş yapan içiciler için en iyi giriş çayı.",
-      "pros": ["Kavurulmuş pirinç saf yeşil çayın otsu tadını dengeler", "Saf senchadan daha bağışlayıcı demleme sıcaklığı (80°C)", "Düşük kafein seçeneği — pirinç çay içeriğini seyreltir"],
-      "cons": ["Saf yüksek kaliteli senchadan daha az rafine lezzet profili"],
+      "pros": [
+        "Kavurulmuş pirinç saf yeşil çayın otsu tadını dengeler",
+        "Saf senchadan daha bağışlayıcı demleme sıcaklığı (80°C)",
+        "Düşük kafein seçeneği — pirinç çay içeriğini seyreltir"
+      ],
+      "cons": [
+        "Saf yüksek kaliteli senchadan daha az rafine lezzet profili"
+      ],
       "grade": "B+",
-      "specs": {"Köken": "Japonya", "Ağırlık": "3 oz", "Fiyat": "~$8-14", "Demleme sıcaklığı": "80°C", "Demleme süresi": "1-2 dak", "Stil": "Genmaicha gevşek yaprak", "Kafein": "Saf senchadan düşük"},
-      "scores": {"Lezzet": 4.0, "Kalite": 4.0, "Değer": 4.5, "Çok yönlülük": 4.6, "Tazelik": 4.0}
+      "specs": {
+        "Köken": "Japonya",
+        "Ağırlık": "3 oz",
+        "Fiyat": "~$8-14",
+        "Demleme sıcaklığı": "80°C",
+        "Demleme süresi": "1-2 dak",
+        "Stil": "Genmaicha gevşek yaprak",
+        "Kafein": "Saf senchadan düşük"
+      },
+      "scores": {
+        "Lezzet": 4.0,
+        "Kalite": 4.0,
+        "Değer": 4.5,
+        "Çok yönlülük": 4.6,
+        "Tazelik": 4.0
+      }
     },
     {
       "offerId": "ippodo-gyokuro",
       "badge": "En İyi Premium",
       "review": "Ippodo Gyokuro, Japon yeşil çayının zirvesindedir — Uji'de gölgede yetiştirilmiş, 50-60°C'de demlenmiş ve ortaya çıkan fincan yoğun umami-tatlı, neredeyse et suyuna benzer. Bu günlük sıradan bir çay değil: sıcaklık kontrollü kettle ve sabır gerektirir. Japon çay kültürünün gyokuru neden diğer her şeyin üzerine koyduğunu anlamak isteyen herkes için bir demleme öğreticidir.",
-      "pros": ["Gölge yetiştiriciliği yoğun umami tatlılığı için L-theanine'i konsantre eder", "3+ kez yeniden demlenir — gram başına yüksek fiyata rağmen ekonomik", "Eşsiz lezzet — kaliteli gyokuro gibi başka hiçbir şey tatmaz"],
-      "cons": ["50-60°C'de sıcaklık kontrolü ve hassas demleme tekniği gerektirir"],
+      "pros": [
+        "Gölge yetiştiriciliği yoğun umami tatlılığı için L-theanine'i konsantre eder",
+        "3+ kez yeniden demlenir — gram başına yüksek fiyata rağmen ekonomik",
+        "Eşsiz lezzet — kaliteli gyokuro gibi başka hiçbir şey tatmaz"
+      ],
+      "cons": [
+        "50-60°C'de sıcaklık kontrolü ve hassas demleme tekniği gerektirir"
+      ],
       "grade": "B",
-      "specs": {"Köken": "Uji, Japonya", "Ağırlık": "40g", "Fiyat": "~$28-50", "Demleme sıcaklığı": "50-60°C", "Demleme süresi": "90 sn", "Stil": "Gölgede yetiştirilmiş gyokuro", "Yeniden demleme": "3+"},
-      "scores": {"Lezzet": 4.9, "Kalite": 4.9, "Değer": 3.5, "Çok yönlülük": 3.0, "Tazelik": 4.8}
+      "specs": {
+        "Köken": "Uji, Japonya",
+        "Ağırlık": "40g",
+        "Fiyat": "~$28-50",
+        "Demleme sıcaklığı": "50-60°C",
+        "Demleme süresi": "90 sn",
+        "Stil": "Gölgede yetiştirilmiş gyokuro",
+        "Yeniden demleme": "3+"
+      },
+      "scores": {
+        "Lezzet": 4.9,
+        "Kalite": 4.9,
+        "Değer": 3.5,
+        "Çok yönlülük": 3.0,
+        "Tazelik": 4.8
+      }
     },
     {
       "offerId": "harney-sons-dragon-well",
       "badge": "En İyi Çin Yeşil Çayı",
       "review": "Harney & Sons Dragon Well (Longjing), bu karşılaştırmadaki en iyi Çin yeşil çayıdır — tavada kavurulmuş, tatlı-aromatik ve Japon senchasından belirgin şekilde daha az bitkisel. Japon yeşillerini çok yoğun tuzlu veya otsu bulan içiciler için ideal tercih. 80-85°C'de iyi demler ve gyokurodan daha bağışlayıcıdır.",
-      "pros": ["Tavada kavurma işlemi Japon yeşillerinden farklı tatlı-aromatik karakter yaratır", "Daha az bitkisel ve yeşil çaya yeni içiciler için daha erişilebilir", "Daha bağışlayıcı 80-85°C'de demler"],
-      "cons": ["Benzer kalite katmanı için Harney senchasından gram başına daha yüksek fiyat"],
+      "pros": [
+        "Tavada kavurma işlemi Japon yeşillerinden farklı tatlı-aromatik karakter yaratır",
+        "Daha az bitkisel ve yeşil çaya yeni içiciler için daha erişilebilir",
+        "Daha bağışlayıcı 80-85°C'de demler"
+      ],
+      "cons": [
+        "Benzer kalite katmanı için Harney senchasından gram başına daha yüksek fiyat"
+      ],
       "grade": "B-",
-      "specs": {"Köken": "Hangzhou, Çin", "Ağırlık": "4 oz", "Fiyat": "~$12-38", "Demleme sıcaklığı": "80-85°C", "Demleme süresi": "2 dak", "Stil": "Dragon Well gevşek yaprak", "İşleme": "Tavada kavurulmuş"},
-      "scores": {"Lezzet": 4.3, "Kalite": 4.2, "Değer": 3.8, "Çok yönlülük": 4.5, "Tazelik": 4.1}
+      "specs": {
+        "Köken": "Hangzhou, Çin",
+        "Ağırlık": "4 oz",
+        "Fiyat": "~$12-38",
+        "Demleme sıcaklığı": "80-85°C",
+        "Demleme süresi": "2 dak",
+        "Stil": "Dragon Well gevşek yaprak",
+        "İşleme": "Tavada kavurulmuş"
+      },
+      "scores": {
+        "Lezzet": 4.3,
+        "Kalite": 4.2,
+        "Değer": 3.8,
+        "Çok yönlülük": 4.5,
+        "Tazelik": 4.1
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Ciddi yeşil çay içicileri için", "offerId": "ippodo-sencha-ummon", "reason": "Japonya'nın en eski çay dükkanından mükemmel parti tutarlılığıyla doğrudan Uji kaynağı"},
-    {"label": "Günlük erişilebilir sencha için", "offerId": "harney-sons-japanese-sencha", "reason": "Özel sipariş olmadan Whole Foods'ta mevcut, $8-12'de iyi kalite"},
-    {"label": "Yeşil çay yenileri için", "offerId": "two-leaves-genmaicha", "reason": "Kavurulmuş pirinç otsu tadı keser ve fincanı siyah çay içicileri için erişilebilir kılar"},
-    {"label": "Premium Japon çay deneyimi için", "offerId": "ippodo-gyokuro", "reason": "Başka hiçbir çaya benzemeyen yoğun umami tatlılığıyla gölgede yetiştirilmiş Uji gyokuru"},
-    {"label": "Japon çayını çok bitkisel bulanlar için", "offerId": "harney-sons-dragon-well", "reason": "Tatlı-aromatik karakteriyle ve daha az otsu lezzetiyle tavada kavurulmuş Çin Longjing"}
+    {
+      "label": "Ciddi yeşil çay içicileri için",
+      "offerId": "ippodo-sencha-ummon",
+      "reason": "Japonya'nın en eski çay dükkanından mükemmel parti tutarlılığıyla doğrudan Uji kaynağı"
+    },
+    {
+      "label": "Günlük erişilebilir sencha için",
+      "offerId": "harney-sons-japanese-sencha",
+      "reason": "Özel sipariş olmadan Whole Foods'ta mevcut, $8-12'de iyi kalite"
+    },
+    {
+      "label": "Yeşil çay yenileri için",
+      "offerId": "two-leaves-genmaicha",
+      "reason": "Kavurulmuş pirinç otsu tadı keser ve fincanı siyah çay içicileri için erişilebilir kılar"
+    },
+    {
+      "label": "Premium Japon çay deneyimi için",
+      "offerId": "ippodo-gyokuro",
+      "reason": "Başka hiçbir çaya benzemeyen yoğun umami tatlılığıyla gölgede yetiştirilmiş Uji gyokuru"
+    },
+    {
+      "label": "Japon çayını çok bitkisel bulanlar için",
+      "offerId": "harney-sons-dragon-well",
+      "reason": "Tatlı-aromatik karakteriyle ve daha az otsu lezzetiyle tavada kavurulmuş Çin Longjing"
+    }
   ]
 }

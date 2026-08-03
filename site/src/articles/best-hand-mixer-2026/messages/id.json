@@ -58,64 +58,184 @@
     "krups-gn9019-hand-mixer": "9 kecepatan dengan motor 200W disetel untuk presisi di ujung rendah — kecepatan paling lambat hampir tidak mengaduk, yang penting saat memulai meringue atau melipat tepung dengan lembut. Kompak dan ringan pada 2,1 pon, dengan tombol turbo boost untuk semburan singkat kecepatan maksimum."
   },
   "pinDescription": "Mixer tangan terbaik 2026: KitchenAid vs Breville vs Cuisinart vs Hamilton Beach dibandingkan dari tenaga motor, kontrol kecepatan, dan aksesori. Temukan mixer yang tepat untuk memanggang Anda.",
-  "methodology": "Setiap mixer tangan dievaluasi dari konsistensi motor di bawah beban berkelanjutan (diuji pada buttercream mentega dingin dan adonan kue kering keras), rentang dan granularitas kecepatan, kualitas aksesori, tingkat kebisingan, ergonomi, dan kemudahan penyimpanan.",
+  "methodology": "Setiap mixer tangan dievaluasi dari konsistensi motor di bawah beban berkelanjutan (diuji pada buttercream mentega dingin dan adonan kue kering keras), rentang dan granularitas kecepatan, kualitas aksesori, tingkat kebisingan, ergonomi, dan kemudahan penyimpanan. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "kitchenaid-khm512er-hand-mixer",
       "badge": "Terbaik Secara Keseluruhan",
       "review": "KitchenAid KHM512ER menang atas konsistensi motor, bukan watt mentah. Motor DC-nya mempertahankan RPM stabil di bawah beban — dari krim kocok ringan hingga adonan kue kering yang padat — dengan cara yang tidak dapat dilakukan motor AC murah. Turbo beater tahan noda dan badan 2,2 pon mengurangi kelelahan selama sesi panjang. Rentang 5 kecepatan cukup untuk sebagian besar pembuat kue; komprominya adalah granularitas yang lebih sedikit daripada pesaing 9 kecepatan.",
-      "pros": ["Motor DC mempertahankan RPM stabil di bawah beban tanpa tersendak", "Turbo beater tahan noda dan membersihkan diri selama penggunaan", "Badan kompak 2,2 pon mengurangi kelelahan tangan"],
-      "cons": ["5 kecepatan menawarkan kontrol granular yang lebih sedikit daripada pesaing 9 kecepatan"],
+      "pros": [
+        "Motor DC mempertahankan RPM stabil di bawah beban tanpa tersendak",
+        "Turbo beater tahan noda dan membersihkan diri selama penggunaan",
+        "Badan kompak 2,2 pon mengurangi kelelahan tangan"
+      ],
+      "cons": [
+        "5 kecepatan menawarkan kontrol granular yang lebih sedikit daripada pesaing 9 kecepatan"
+      ],
       "grade": "A+",
-      "specs": {"Harga": "~$59.99", "Motor": "DC 250W", "Kecepatan": "5", "Berat": "2.2 pon", "Beater": "Turbo beater", "Aman mesin cuci piring": "Ya", "Pilihan warna": "Banyak"},
-      "scores": {"Tenaga": 4.5, "Kemudahan penggunaan": 4.7, "Kebisingan": 4.3, "Nilai": 4.5, "Aksesori": 4.2}
+      "specs": {
+        "Harga": "~$59.99",
+        "Motor": "DC 250W",
+        "Kecepatan": "5",
+        "Berat": "2.2 pon",
+        "Beater": "Turbo beater",
+        "Aman mesin cuci piring": "Ya",
+        "Pilihan warna": "Banyak"
+      },
+      "scores": {
+        "Tenaga": 4.5,
+        "Kemudahan penggunaan": 4.7,
+        "Kebisingan": 4.3,
+        "Nilai": 4.5,
+        "Aksesori": 4.2
+      }
     },
     {
       "offerId": "breville-bhm800sil-hand-mixer",
       "badge": "Fitur Terbaik",
       "review": "Breville BHM800SIL adalah satu-satunya mixer tangan dengan beater pengikis — aksesori bertepi silikon yang mengusap dinding mangkuk setiap kali berputar, mengurangi pengikisan manual sekitar setengahnya. 9 kecepatan dan 240W menangani berbagai tugas memanggang. Tumit aksesori magnetik yang menyimpan beater di badan adalah kemudahan sehari-hari yang praktis. Seharga $160, ini yang paling mahal di sini.",
-      "pros": ["Beater pengikis unik mengurangi pengikisan dinding mangkuk sekitar setengahnya", "9 kecepatan dengan motor 240W", "Tumit aksesori magnetik menyimpan beater di badan mixer"],
-      "cons": ["$159.95 — mixer tangan termahal dalam perbandingan ini"],
+      "pros": [
+        "Beater pengikis unik mengurangi pengikisan dinding mangkuk sekitar setengahnya",
+        "9 kecepatan dengan motor 240W",
+        "Tumit aksesori magnetik menyimpan beater di badan mixer"
+      ],
+      "cons": [
+        "$159.95 — mixer tangan termahal dalam perbandingan ini"
+      ],
       "grade": "A",
-      "specs": {"Harga": "~$159.95", "Motor": "240W", "Kecepatan": "9", "Fitur unik": "Beater pengikis", "Penyimpanan": "Tumit aksesori magnetik", "Aksesori": "Beater pengikis, beater biasa, kocokan", "Berat": "3.0 pon"},
-      "scores": {"Tenaga": 4.4, "Kemudahan penggunaan": 4.6, "Kebisingan": 4.2, "Nilai": 3.7, "Aksesori": 4.9}
+      "specs": {
+        "Harga": "~$159.95",
+        "Motor": "240W",
+        "Kecepatan": "9",
+        "Fitur unik": "Beater pengikis",
+        "Penyimpanan": "Tumit aksesori magnetik",
+        "Aksesori": "Beater pengikis, beater biasa, kocokan",
+        "Berat": "3.0 pon"
+      },
+      "scores": {
+        "Tenaga": 4.4,
+        "Kemudahan penggunaan": 4.6,
+        "Kebisingan": 4.2,
+        "Nilai": 3.7,
+        "Aksesori": 4.9
+      }
     },
     {
       "offerId": "cuisinart-hm-90bcs-hand-mixer",
       "badge": "Terbaik untuk Presisi",
       "review": "Rentang 9 kecepatan Cuisinart HM-90BCS adalah keunggulan utamanya — kontrol granular paling halus untuk meringue, adonan chiffon, dan pencampuran yang sensitif terhadap inkorporasi. Hadir dengan 5 aksesori: dua beater, dua pengait adonan, dan kocokan. Motor 220W adalah watt terendah dalam daftar ini tetapi menangani tugas memanggang khas dengan baik. Terbaik untuk pembuat kue yang secara rutin membuat meringue atau adonan yang lembut.",
-      "pros": ["9 kecepatan untuk kontrol granular paling halus atas meringue dan adonan lembut", "Hadir dengan 5 aksesori termasuk pengait adonan", "Pemandu mangkuk menjaga jalur beater terpusat selama sesi panjang"],
-      "cons": ["220W adalah watt terendah dalam perbandingan ini"],
+      "pros": [
+        "9 kecepatan untuk kontrol granular paling halus atas meringue dan adonan lembut",
+        "Hadir dengan 5 aksesori termasuk pengait adonan",
+        "Pemandu mangkuk menjaga jalur beater terpusat selama sesi panjang"
+      ],
+      "cons": [
+        "220W adalah watt terendah dalam perbandingan ini"
+      ],
       "grade": "B+",
-      "specs": {"Harga": "~$79.95", "Motor": "220W", "Kecepatan": "9", "Aksesori": "5 (2 beater, 2 pengait adonan, 1 kocokan)", "Pemandu mangkuk": "Ya", "Berat": "2.5 pon", "Kotak": "Disertakan"},
-      "scores": {"Tenaga": 4.1, "Kemudahan penggunaan": 4.5, "Kebisingan": 4.1, "Nilai": 4.3, "Aksesori": 4.7}
+      "specs": {
+        "Harga": "~$79.95",
+        "Motor": "220W",
+        "Kecepatan": "9",
+        "Aksesori": "5 (2 beater, 2 pengait adonan, 1 kocokan)",
+        "Pemandu mangkuk": "Ya",
+        "Berat": "2.5 pon",
+        "Kotak": "Disertakan"
+      },
+      "scores": {
+        "Tenaga": 4.1,
+        "Kemudahan penggunaan": 4.5,
+        "Kebisingan": 4.1,
+        "Nilai": 4.3,
+        "Aksesori": 4.7
+      }
     },
     {
       "offerId": "hamilton-beach-62682-hand-mixer",
       "badge": "Terbaik Anggaran",
       "review": "Seharga $25-30, Hamilton Beach 62682 adalah proposisi nilai yang semua orang pahami — motor 290W, 6 kecepatan, tempat istirahat mangkuk bawaan, dan kotak penyimpanan snap-on. Tempat istirahat mangkuk bawaan (kaki karet di belakang) memungkinkan Anda meletakkan mixer di atas tepi mangkuk di tengah tugas tanpa meneteskan adonan di meja. Tidak ada pembenaran untuk menghabiskan lebih banyak bagi pembuat kue sesekali.",
-      "pros": ["Motor 290W dengan harga terendah dalam perbandingan ini", "Tempat istirahat mangkuk bawaan untuk jeda di tengah tugas", "Kotak penyimpanan snap-on menyimpan beater dan kocokan bersama"],
-      "cons": ["Casing plastik terasa kurang solid dari KitchenAid atau Cuisinart"],
+      "pros": [
+        "Motor 290W dengan harga terendah dalam perbandingan ini",
+        "Tempat istirahat mangkuk bawaan untuk jeda di tengah tugas",
+        "Kotak penyimpanan snap-on menyimpan beater dan kocokan bersama"
+      ],
+      "cons": [
+        "Casing plastik terasa kurang solid dari KitchenAid atau Cuisinart"
+      ],
       "grade": "B",
-      "specs": {"Harga": "~$25–30", "Motor": "290W", "Kecepatan": "6", "Tempat istirahat mangkuk": "Kaki karet bawaan", "Penyimpanan": "Kotak snap-on", "Berat": "2.4 pon", "Aksesori": "2 beater, 1 kocokan"},
-      "scores": {"Tenaga": 4.3, "Kemudahan penggunaan": 4.4, "Kebisingan": 3.9, "Nilai": 4.9, "Aksesori": 3.8}
+      "specs": {
+        "Harga": "~$25–30",
+        "Motor": "290W",
+        "Kecepatan": "6",
+        "Tempat istirahat mangkuk": "Kaki karet bawaan",
+        "Penyimpanan": "Kotak snap-on",
+        "Berat": "2.4 pon",
+        "Aksesori": "2 beater, 1 kocokan"
+      },
+      "scores": {
+        "Tenaga": 4.3,
+        "Kemudahan penggunaan": 4.4,
+        "Kebisingan": 3.9,
+        "Nilai": 4.9,
+        "Aksesori": 3.8
+      }
     },
     {
       "offerId": "krups-gn9019-hand-mixer",
       "badge": "Terbaik untuk Kontrol Kecepatan Rendah",
       "review": "Motor 9 kecepatan KRUPS GN9019 secara khusus disetel untuk presisi di ujung rendah — kecepatan paling lambat hampir tidak mengaduk, ideal untuk memulai meringue sebelum menambah kecepatan atau melipat tepung dengan lembut tanpa terlalu mengerjakan gluten. Pada 2,1 pon, ini adalah mixer paling ringan di sini, dan tombol turbo boost menambahkan semburan singkat kecepatan maksimum. Motor 200W memadai untuk tugas tipikal.",
-      "pros": ["Kecepatan paling lambat hampir tidak mengaduk — ideal untuk awal meringue dan pelipatan lembut", "2,1 pon — mixer tangan paling ringan dalam perbandingan ini", "Tombol turbo boost untuk semburan singkat kecepatan maksimum"],
-      "cons": ["200W adalah watt terendah — mungkin kesulitan dengan adonan yang sangat keras"],
+      "pros": [
+        "Kecepatan paling lambat hampir tidak mengaduk — ideal untuk awal meringue dan pelipatan lembut",
+        "2,1 pon — mixer tangan paling ringan dalam perbandingan ini",
+        "Tombol turbo boost untuk semburan singkat kecepatan maksimum"
+      ],
+      "cons": [
+        "200W adalah watt terendah — mungkin kesulitan dengan adonan yang sangat keras"
+      ],
       "grade": "B-",
-      "specs": {"Harga": "~$49.99", "Motor": "200W", "Kecepatan": "9", "Berat": "2.1 pon", "Turbo boost": "Ya", "Kontrol kecepatan rendah": "Luar biasa", "Beater": "Turbo"},
-      "scores": {"Tenaga": 3.8, "Kemudahan penggunaan": 4.4, "Kebisingan": 4.2, "Nilai": 4.4, "Aksesori": 3.9}
+      "specs": {
+        "Harga": "~$49.99",
+        "Motor": "200W",
+        "Kecepatan": "9",
+        "Berat": "2.1 pon",
+        "Turbo boost": "Ya",
+        "Kontrol kecepatan rendah": "Luar biasa",
+        "Beater": "Turbo"
+      },
+      "scores": {
+        "Tenaga": 3.8,
+        "Kemudahan penggunaan": 4.4,
+        "Kebisingan": 4.2,
+        "Nilai": 4.4,
+        "Aksesori": 3.9
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Untuk pembuat kue rumahan yang rutin", "offerId": "kitchenaid-khm512er-hand-mixer", "reason": "Konsistensi motor DC di bawah beban dengan berat yang tidak melelahkan dan turbo beater yang mudah dibersihkan"},
-    {"label": "Untuk pembuat kue yang benci mengikis mangkuk", "offerId": "breville-bhm800sil-hand-mixer", "reason": "Beater pengikis silikon unik mengurangi pengikisan mangkuk manual sekitar setengahnya"},
-    {"label": "Untuk meringue dan adonan lembut", "offerId": "cuisinart-hm-90bcs-hand-mixer", "reason": "Kontrol granular 9 kecepatan mencegah terlalu mengocok pada tahap aerasi kritis"},
-    {"label": "Untuk pembuat kue sesekali dengan anggaran terbatas", "offerId": "hamilton-beach-62682-hand-mixer", "reason": "Motor 290W dengan tempat istirahat mangkuk dan kotak penyimpanan dengan harga terendah dalam perbandingan ini"},
-    {"label": "Untuk tugas pencampuran kecepatan rendah yang lembut", "offerId": "krups-gn9019-hand-mixer", "reason": "Pengaturan kecepatan terendah hampir tidak mengaduk — sempurna untuk awal meringue dan melipat tepung"}
+    {
+      "label": "Untuk pembuat kue rumahan yang rutin",
+      "offerId": "kitchenaid-khm512er-hand-mixer",
+      "reason": "Konsistensi motor DC di bawah beban dengan berat yang tidak melelahkan dan turbo beater yang mudah dibersihkan"
+    },
+    {
+      "label": "Untuk pembuat kue yang benci mengikis mangkuk",
+      "offerId": "breville-bhm800sil-hand-mixer",
+      "reason": "Beater pengikis silikon unik mengurangi pengikisan mangkuk manual sekitar setengahnya"
+    },
+    {
+      "label": "Untuk meringue dan adonan lembut",
+      "offerId": "cuisinart-hm-90bcs-hand-mixer",
+      "reason": "Kontrol granular 9 kecepatan mencegah terlalu mengocok pada tahap aerasi kritis"
+    },
+    {
+      "label": "Untuk pembuat kue sesekali dengan anggaran terbatas",
+      "offerId": "hamilton-beach-62682-hand-mixer",
+      "reason": "Motor 290W dengan tempat istirahat mangkuk dan kotak penyimpanan dengan harga terendah dalam perbandingan ini"
+    },
+    {
+      "label": "Untuk tugas pencampuran kecepatan rendah yang lembut",
+      "offerId": "krups-gn9019-hand-mixer",
+      "reason": "Pengaturan kecepatan terendah hampir tidak mengaduk — sempurna untuk awal meringue dan melipat tepung"
+    }
   ]
 }

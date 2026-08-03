@@ -69,48 +69,108 @@
       "offerId": "iprimio-ultimate-cat-litter-mat",
       "badge": "Best dual-layer overall",
       "review": "iPrimio Ultimate uses a dual-layer honeycomb design where litter falls through the top layer into a sealed bottom tray. The hole sizing is calibrated for standard clumping clay litter specifically — not so small it clogs, not so large it lets pieces pass through uncaptured. The tray holds a surprisingly large volume before needing to be emptied. At 24x15 inches the coverage area is adequate for most standard litter boxes. The mat stays flat on hard floors without the corners lifting.",
-      "pros": ["Effective dual-layer trapping", "Tray holds significant volume", "Stays flat on hard floors"],
-      "cons": ["Less effective with fine crystal litter", "Bottom tray can be fiddly to reassemble after washing"],
-      "specs": { "Size": "24x15\"", "Design": "Dual-layer honeycomb", "Material": "EVA foam", "Price": "$25" },
+      "pros": [
+        "Effective dual-layer trapping",
+        "Tray holds significant volume",
+        "Stays flat on hard floors"
+      ],
+      "cons": [
+        "Less effective with fine crystal litter",
+        "Bottom tray can be fiddly to reassemble after washing"
+      ],
+      "specs": {
+        "Size": "24x15\"",
+        "Design": "Dual-layer honeycomb",
+        "Material": "EVA foam",
+        "Price": "$25"
+      },
       "grade": "A"
     },
     {
       "offerId": "gorilla-grip-cat-mat",
       "badge": "Best floor grip",
       "review": "Gorilla Grip makes the strongest non-slip claim in the category and largely delivers on it. The thick rubber backing anchors on both hardwood and tile without shifting under active cats. The top surface uses a tightly spaced nub pattern that catches litter effectively for a single-layer design. It's machine washable and the construction doesn't break down after repeated cycles. At $30 it's priced above the iPrimio but the single-piece construction makes it simpler to wash and store.",
-      "pros": ["Exceptional floor grip", "Machine washable single piece", "Durable rubber construction"],
-      "cons": ["Single-layer traps less than dual-layer", "Heavier to handle when wet"],
-      "specs": { "Size": "24x17\"", "Design": "Single-layer nub", "Material": "Rubber + microfiber", "Price": "$30" },
+      "pros": [
+        "Exceptional floor grip",
+        "Machine washable single piece",
+        "Durable rubber construction"
+      ],
+      "cons": [
+        "Single-layer traps less than dual-layer",
+        "Heavier to handle when wet"
+      ],
+      "specs": {
+        "Size": "24x17\"",
+        "Design": "Single-layer nub",
+        "Material": "Rubber + microfiber",
+        "Price": "$30"
+      },
       "grade": "A-"
     },
     {
       "offerId": "blackhole-cat-litter-mat",
       "badge": "Best for multiple cats",
       "review": "Blackhole Cat Mat's key differentiator is capacity — the lower tray is deeper and wider than iPrimio's, making it more suitable for multi-cat households with high daily litter volume. The two-piece design separates cleanly for washing and the upper honeycomb layer is stiffer, which means it holds shape better under repeated traffic. At $32 it's the most expensive single mat here but earns it through durability and capacity.",
-      "pros": ["Largest tray capacity", "Sturdy upper layer", "Durable two-piece construction"],
-      "cons": ["Priciest option", "Large footprint may not suit small spaces"],
-      "specs": { "Size": "30x23\"", "Design": "Dual-layer honeycomb", "Material": "EVA + TPR", "Price": "$32" },
+      "pros": [
+        "Largest tray capacity",
+        "Sturdy upper layer",
+        "Durable two-piece construction"
+      ],
+      "cons": [
+        "Priciest option",
+        "Large footprint may not suit small spaces"
+      ],
+      "specs": {
+        "Size": "30x23\"",
+        "Design": "Dual-layer honeycomb",
+        "Material": "EVA + TPR",
+        "Price": "$32"
+      },
       "grade": "A"
     },
     {
       "offerId": "easyology-cat-litter-mat",
       "badge": "Best budget dual-layer",
       "review": "Easyology Premium delivers the dual-layer honeycomb design at the lowest price point in this group. The tray is shallower than iPrimio or Blackhole, which means more frequent emptying for heavy-traffic boxes, but the core function — trapping litter above the floor — works properly. The material is slightly softer underfoot than the stiffer EVA competitors, which some cats prefer. Good starting point for owners trying a dual-layer mat for the first time.",
-      "pros": ["Lowest price dual-layer option", "Softer material some cats prefer", "Good starter option"],
-      "cons": ["Shallower tray needs more frequent emptying", "Edges can curl over time"],
-      "specs": { "Size": "24x16\"", "Design": "Dual-layer honeycomb", "Material": "TPR foam", "Price": "$22" },
+      "pros": [
+        "Lowest price dual-layer option",
+        "Softer material some cats prefer",
+        "Good starter option"
+      ],
+      "cons": [
+        "Shallower tray needs more frequent emptying",
+        "Edges can curl over time"
+      ],
+      "specs": {
+        "Size": "24x16\"",
+        "Design": "Dual-layer honeycomb",
+        "Material": "TPR foam",
+        "Price": "$22"
+      },
       "grade": "B+"
     },
     {
       "offerId": "petlinks-cat-litter-mat",
       "badge": "Best for texture-sensitive cats",
       "review": "PetLinks Pounce is a single-layer microfiber mat that prioritizes softness over mechanical trapping. Cats that refuse to walk on harder honeycomb surfaces often accept this one without hesitation. Litter is captured in the microfiber pile rather than falling through holes, which means shaking it out over the box is the primary cleaning method rather than emptying a tray. At $20 it's priced reasonably, though it won't trap scatter as comprehensively as the dual-layer options.",
-      "pros": ["Soft — accepted by texture-sensitive cats", "Machine washable", "Budget-friendly"],
-      "cons": ["Less effective scatter trapping than dual-layer", "Litter sits on surface rather than contained below"],
-      "specs": { "Size": "22x15\"", "Design": "Single-layer microfiber", "Material": "Microfiber + rubber backing", "Price": "$20" },
+      "pros": [
+        "Soft — accepted by texture-sensitive cats",
+        "Machine washable",
+        "Budget-friendly"
+      ],
+      "cons": [
+        "Less effective scatter trapping than dual-layer",
+        "Litter sits on surface rather than contained below"
+      ],
+      "specs": {
+        "Size": "22x15\"",
+        "Design": "Single-layer microfiber",
+        "Material": "Microfiber + rubber backing",
+        "Price": "$20"
+      },
       "grade": "B"
     }
   ],
-  "methodology": "Mats were evaluated using standard clumping clay litter with a high-kicking cat for 30-day trial periods. Criteria: scatter containment (measured by litter found beyond the mat per exit), ease of cleaning, non-slip performance on hardwood and tile, durability after 10+ wash cycles, and value at price point.",
-  "pinDescription": "Tired of litter everywhere? These 5 cat litter mats ranked by scatter-trapping power — dual-layer honeycomb vs. microfiber vs. rubber. Your floors will thank you. #CatLitter #LitterMat #CatHacks"
+  "methodology": "This comparison is desk research. We compared publicly available specifications, manufacturer documentation, and independent reviews and lab tests. We did not test these products ourselves.",
+  "pinDescription": "Tired of litter everywhere? These 5 cat litter mats ranked by scatter-trapping power — dual-layer honeycomb vs. microfiber vs. rubber. Your floors will thank you."
 }

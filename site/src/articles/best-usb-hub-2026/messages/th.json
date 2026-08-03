@@ -1,8 +1,8 @@
 {
   "title": "USB Hub ที่ดีที่สุด 2026: เปรียบเทียบ 5 ตัวเลือก",
-  "description": "จาก CalDigit TS4 (Thunderbolt 4 dock, 18 พอร์ต รวม 2.5GbE, ชาร์จโฮสต์ 98W, DisplayPort, USB-C 10Gbps, 3× USB-A 10Gbps) ไปจนถึง Anker 564 USB-C Hub (7-in-1, USB-C 10Gbps, HDMI 4K, PD 85W, USB-A 3.0, SD card reader) ไปจนถึง Satechi V3 Multi-Port Adapter (USB-C 10Gbps, HDMI 4K 60Hz, 100W PD pass-through, SD/microSD, USB-A 3.0, Ethernet) ไปจนถึง Elecom U3HC-A430BBK (4× USB-A 3.1 Gen1, USB-C 60W PD, อลูมิเนียม, พร้อมใช้ได้ทั่วไป) และ Plugable UD-6950Z (DisplayLink dock USB-C/USB-A, ดิสเพลย์ 4K แบบคู่, PD 100W, Gigabit Ethernet, 6× USB-A) เปรียบเทียบ 5 hub ในเรื่องจำนวนพอร์ต ความเร็ว USB-C data, Power Delivery wattage, ความสามารถในการส่งออกดิสเพลย์ และความพร้อมจำหน่ายในร้านค้า",
-  "lede": "USB hub และ dock ห้าตัว — จาก CalDigit TS4 ที่เป็นมาตรฐานเสียงของ Thunderbolt 4 มืออาชีพ ไปจนถึง Elecom hub ที่คุณสามารถซื้อออนไลน์ได้วันนี้ ไปจนถึง Anker 564 ที่ครอบคลุมความต้องการ 90% ในส่วนของราคา ความแตกต่างระหว่าง hub และ dock นั้นสำคัญกว่าจำนวนพอร์ต",
-  "methodology": "ผลิตภัณฑ์แต่ละชิ้นได้รับการประเมินจากสเปคที่มีเอกสาร, เกณฑ์มาตรฐานจากบุคคลที่สาม และรายงานผู้ใช้ที่ยืนยัน เราให้คะแนนจำนวนพอร์ตและความหลากหลาย, USB-C data throughput (USB 3.2 Gen2 กับ Thunderbolt 4), Power Delivery pass-through wattage, ความสามารถในการส่งออกดิสเพลย์ และความพร้อมจำหน่ายในร้านค้า",
+  "description": "USB Hub ที่ดีที่สุด 2026: เปรียบเทียบ 5 ตัวเลือก. Compared on published specs, manufacturer data and independent reviews.",
+  "lede": "USB Hub ที่ดีที่สุด 2026: เปรียบเทียบ 5 ตัวเลือก. Compared on published specs, manufacturer data and independent reviews.",
+  "methodology": "ผลิตภัณฑ์แต่ละชิ้นได้รับการประเมินจากสเปคที่มีเอกสาร, เกณฑ์มาตรฐานจากบุคคลที่สาม และรายงานผู้ใช้ที่ยืนยัน เราให้คะแนนจำนวนพอร์ตและความหลากหลาย, USB-C data throughput (USB 3.2 Gen2 กับ Thunderbolt 4), Power Delivery pass-through wattage, ความสามารถในการส่งออกดิสเพลย์ และความพร้อมจำหน่ายในร้านค้า We did not test these products ourselves.",
   "recommendedFor": [
     {
       "label": "สำหรับผู้ใช้ MacBook Pro ที่ต้อง Thunderbolt 4 performance",
@@ -229,6 +229,6 @@
       "a": "เช็ค charger ที่รวมอยู่ของแล็ปท็อปของคุณ wattage เป็นจุดเริ่มต้น MacBook Air 13-inch มาพร้อม charger 30W — hub 60W PD ชาร์จด้วยความเร็วเต็ม with margin MacBook Air 15-inch มาพร้อม charger 35W — PD 60W ครอบคลุม MacBook Pro 14-inch มาพร้อม charger 67W — hub 85W PD ครอบคลุมการใช้งานปกติ, แต่ภายใต้ CPU และ GPU load ยั่งยืน (compilation หนัก, video rendering), แล็ปท็อปสามารถเกินกว่า 85W ชั่วขณะและแบตเตอรี่จะดึงช้า MacBook Pro 16-inch มาพร้อม charger 140W — เพียง dock ให้ PD 96W+ (เช่น CalDigit TS4 ที่ 98W) ครอบคลุมภายใต้โหลด sustained เต็ม สำหรับแล็ปท็อป Windows: เช็ค wattage บน adapter ที่รวมอยู่ Hub ให้ PD wattage เท่ากับหรือสูงกว่า charger ที่รวมอยู่ ชาร์จแล็ปท็อปเต็มที่ภายใต้การใช้งานปกติ Hub ให้ wattage ต่ำกว่า charger ที่รวมอยู่ ชาร์จแล็ปท็อป แต่อาจชะลอตัวหรือดึงช้า ๆ ภายใต้โหลดหนัก"
     }
   ],
-  "pinDescription": "เปรียบเทียบ USB hub 5 ตัวสำหรับ 2026 — CalDigit TS4 Thunderbolt 4 pro dock กับ Anker 564 travel bus-powered กับ Satechi V3 100W PD Ethernet กับ Elecom Japan available กับ Plugable dual 4K ไม่จำเป็นต้องใช้ Thunderbolt Hub ทำกับ dock อธิบาย การจัดการสายเริ่มต้นที่นี่",
+  "pinDescription": "USB Hub ที่ดีที่สุด 2026: เปรียบเทียบ 5 ตัวเลือก. Compared on published specs, manufacturer data and independent reviews.",
   "offerNotes": ""
 }

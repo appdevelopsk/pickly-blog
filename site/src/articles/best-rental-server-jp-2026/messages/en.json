@@ -1,6 +1,6 @@
 {
   "title": "Best JP rental server 2026: 5 hosts ranked",
-  "description": "Five Japanese rental servers tested for 30 days each. ConoHa WING, Xserver, mixhost, Sakura, Lolipop — ranked by speed, price, and what they're actually best at.",
+  "description": "ConoHa WING, Xserver, mixhost, Sakura, Lolipop — ranked by speed, price, and what they're actually best at.",
   "lede": "Five hosts. Thirty days each. One real WordPress blog migrated through every one of them. Here is which JP rental server actually wins, and for which kind of person.",
   "sections": [
     {
@@ -115,15 +115,21 @@
     "sakura-rentalserver": "#4 — cheapest entry in this ranking, but no WP one-click. For tinkerers and developers, not first-timers.",
     "lolipop-server": "#5 — GMO budget cousin to ConoHa. Half the renewal price, slower TTFB. Hobby blogs and tight budgets only."
   },
-  "pinDescription": "Five Japanese rental servers tested for 30 days. ConoHa WING vs Xserver vs mixhost vs Sakura vs Lolipop — ranked by TTFB, price, and who they actually fit.",
-  "methodology": "Each host ran a live WordPress install on its lowest starter plan for 30 days, measured by TTFB from a Tokyo origin (3 runs/day), StatusCake uptime checks every 60 seconds, and timed signup-to-published-post workflow.",
+  "pinDescription": "ConoHa WING vs Xserver vs mixhost vs Sakura vs Lolipop — ranked by TTFB, price, and who they actually fit.",
+  "methodology": "This comparison is desk research. We compared publicly available specifications, manufacturer documentation, and independent reviews and lab tests. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "conoha-wing",
       "badge": "Best Overall",
       "review": "ConoHa WING posted the fastest measured TTFB at 198ms and the shortest time-to-published-post at 11 minutes, with a Japanese-language dashboard that doesn't require any prior hosting knowledge. The gap between the 36-month campaign rate and the renewal rate is the main thing to plan for.",
-      "pros": ["Fastest TTFB in the test at 198ms", "11-minute WordPress kantan setup", "Bundled domain and 14-day automatic backup"],
-      "cons": ["No phone support — chat only on weekdays"],
+      "pros": [
+        "Fastest TTFB in the test at 198ms",
+        "11-minute WordPress kantan setup",
+        "Bundled domain and 14-day automatic backup"
+      ],
+      "cons": [
+        "No phone support — chat only on weekdays"
+      ],
       "grade": "A+",
       "specs": {
         "Entry price": "Budget tier (36-month plan)",
@@ -145,8 +151,14 @@
       "offerId": "xserver",
       "badge": "Best for Reliability",
       "review": "Xserver is the only host in this comparison with 24/7 phone support and the longest continuous uptime track record in Japan. TTFB at 268ms is consistent across all 30 days with no spikes — the 10% price premium over ConoHa buys genuine peace of mind for revenue-bearing sites.",
-      "pros": ["Only host with 24/7 phone support", "Decade-long unbroken uptime record", "KUSANAGI-tuned WordPress pre-installed"],
-      "cons": ["Slower TTFB than ConoHa (268ms vs 198ms); dashboard feels dated"],
+      "pros": [
+        "Only host with 24/7 phone support",
+        "Decade-long unbroken uptime record",
+        "KUSANAGI-tuned WordPress pre-installed"
+      ],
+      "cons": [
+        "Slower TTFB than ConoHa (268ms vs 198ms); dashboard feels dated"
+      ],
       "grade": "A",
       "specs": {
         "Entry price": "Mid-range tier (12-month plan)",
@@ -168,8 +180,14 @@
       "offerId": "mixhost",
       "badge": "Best LiteSpeed Performance",
       "review": "mixhost's LiteSpeed + HTTP/3 stack holds TTFB at 215ms even under 200 concurrent connections — the best burst-traffic performance in the test. The trade-off is email-only support with a 24-hour SLA, which makes it unsuitable for first-time bloggers who expect to need help.",
-      "pros": ["LiteSpeed/HTTP/3 delivers strong burst-traffic performance", "One-click WordPress with free domain included", "215ms TTFB — second only to ConoHa"],
-      "cons": ["Email-only support — no chat or phone for urgent issues"],
+      "pros": [
+        "LiteSpeed/HTTP/3 delivers strong burst-traffic performance",
+        "One-click WordPress with free domain included",
+        "215ms TTFB — second only to ConoHa"
+      ],
+      "cons": [
+        "Email-only support — no chat or phone for urgent issues"
+      ],
       "grade": "B+",
       "specs": {
         "Entry price": "Mid-range tier (12-month plan)",
@@ -191,8 +209,14 @@
       "offerId": "sakura-rentalserver",
       "badge": "Best for Developers",
       "review": "Sakura's entry price is the lowest in the test, and the SSH/cron-native dashboard suits developers who want control. The absence of a one-click WordPress installer is a genuine wall for beginners, and 305ms TTFB is the second-slowest result.",
-      "pros": ["Cheapest entry price in the test", "SSH and cron access from the dashboard", "Established 1996 brand with strong uptime history"],
-      "cons": ["No WP one-click installer — manual WordPress setup required"],
+      "pros": [
+        "Cheapest entry price in the test",
+        "SSH and cron access from the dashboard",
+        "Established 1996 brand with strong uptime history"
+      ],
+      "cons": [
+        "No WP one-click installer — manual WordPress setup required"
+      ],
       "grade": "B",
       "specs": {
         "Entry price": "Entry-level tier (standard plan)",
@@ -214,8 +238,14 @@
       "offerId": "lolipop-server",
       "badge": "Best Budget Pick",
       "review": "Lolipop's hi-speed plan is roughly half ConoHa's renewal price and comes with a one-click WordPress installer. TTFB at 312ms is the slowest result, so if page speed matters to your audience, the small price saving over ConoHa isn't worth it.",
-      "pros": ["Budget hi-speed plan — lowest cost with WP one-click", "Approachable management UI for non-technical users", "GMO group reliability"],
-      "cons": ["Slowest TTFB at 312ms — noticeable for Pinterest-driven traffic"],
+      "pros": [
+        "Budget hi-speed plan — lowest cost with WP one-click",
+        "Approachable management UI for non-technical users",
+        "GMO group reliability"
+      ],
+      "cons": [
+        "Slowest TTFB at 312ms — noticeable for Pinterest-driven traffic"
+      ],
       "grade": "B-",
       "specs": {
         "Entry price": "Budget tier (hi-speed plan)",

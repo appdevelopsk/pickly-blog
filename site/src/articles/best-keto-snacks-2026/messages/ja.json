@@ -2,13 +2,33 @@
   "title": "ケトスナック2026：低糖質で満足できる5製品",
   "description": "ケトフレンドリーなスナックを徹底比較。プロテインチップス・ファットボム・ビーフスティック・クッキーをネット糖質・食材の質・満腹感で評価。",
   "lede": "ケトスナックには信頼性の問題がある。棚に並ぶ製品の半分は、ネット糖質12gのものに「ケト対応」とラベルを貼っているだけだ。ここで紹介する5製品はより厳しい基準で選んでいる——1食あたりネット糖質5g以下、妥当な原材料リスト、そして次の食事まで本当に空腹をしのげるだけのタンパク質か脂質を含むこと。どれもボール紙のような味はしない。",
-  "methodology": "各製品は1食あたりのネット糖質量、タンパク質・脂質含量、原材料の質、風味、満腹感の持続時間で評価。栄養成分表はメーカーデータと照合して確認した。",
+  "methodology": "各製品は1食あたりのネット糖質量、タンパク質・脂質含量、原材料の質、風味、満腹感の持続時間で評価。栄養成分表はメーカーデータと照合して確認した。編集部による実機テストは行っていません。",
   "recommendedFor": [
-    { "label": "ワークアウト後のスナック", "offerId": "keto-snacks-quest-protein-chips", "reason": "1袋あたり21gのタンパク質でネット糖質わずか4g——このカテゴリー最高のタンパク質対糖質比" },
-    { "label": "外出先でのタンパク質補給", "offerId": "keto-snacks-chomps-beef-sticks", "reason": "冷蔵不要、原材料がシンプル、常温保存可能" },
-    { "label": "ケト中の甘いもの欲", "offerId": "keto-snacks-fat-snax-cookies", "reason": "ネット糖質0gのクッキーテクスチャー——糖質なしで本物のクッキーに最も近い" },
-    { "label": "食事代わりのスナック", "offerId": "keto-snacks-perfect-keto-bars", "reason": "脂質13g＋MCTオイルで、血糖スパイクなしに持続するエネルギーを供給" },
-    { "label": "高脂質マクロの補完", "offerId": "keto-snacks-keto-farms-fat-bomb", "reason": "カロリーの90%が脂質——ケト初期の脂質適応を目指す人向け" }
+    {
+      "label": "ワークアウト後のスナック",
+      "offerId": "keto-snacks-quest-protein-chips",
+      "reason": "1袋あたり21gのタンパク質でネット糖質わずか4g——このカテゴリー最高のタンパク質対糖質比"
+    },
+    {
+      "label": "外出先でのタンパク質補給",
+      "offerId": "keto-snacks-chomps-beef-sticks",
+      "reason": "冷蔵不要、原材料がシンプル、常温保存可能"
+    },
+    {
+      "label": "ケト中の甘いもの欲",
+      "offerId": "keto-snacks-fat-snax-cookies",
+      "reason": "ネット糖質0gのクッキーテクスチャー——糖質なしで本物のクッキーに最も近い"
+    },
+    {
+      "label": "食事代わりのスナック",
+      "offerId": "keto-snacks-perfect-keto-bars",
+      "reason": "脂質13g＋MCTオイルで、血糖スパイクなしに持続するエネルギーを供給"
+    },
+    {
+      "label": "高脂質マクロの補完",
+      "offerId": "keto-snacks-keto-farms-fat-bomb",
+      "reason": "カロリーの90%が脂質——ケト初期の脂質適応を目指す人向け"
+    }
   ],
   "sections": [
     {

@@ -3,7 +3,7 @@
   "description": "Maksimum ağırlık (kg), doğruluk (gram), ekran tipi ve havalimanı check-in güvenilirliğine göre karşılaştırılan beş bavul terazisi. Etekcity, Renpho, Camry, Tarriss ve Freetoo — hangisi sizi sınır altında tutar.",
   "pinDescription": "2026 gezginleri için 5 bavul terazisi — Etekcity, Renpho, Camry, Tarriss, Freetoo. Hangisi fazla bagaj ücreti ödememenizi sağlar?",
   "lede": "Havayolu sayacı 23,4 kg gösterirken 22,8 kg gösteren bir bavul terazisi, terazinin değerinden daha fazlasına fazla bagaj ücretine mal olur. 20–25 kg aralığındaki doğruluk, diğer tüm özelliklerden daha önemlidir.",
-  "methodology": "Her terazi şu kriterlere göre değerlendirildi: maksimum tartı kapasitesi (kg), beyan edilen doğruluk (gram) (ve havalimanı sayaçlarındaki sahip raporlarıyla doğrulandı), ekran tipi (LCD vs LED vs uygulama), otomatik kapanma süresi ve ağır tekrarlı kullanımda kanca ve kayış mekanizmasının dayanıklılığı.",
+  "methodology": "Her terazi şu kriterlere göre değerlendirildi: maksimum tartı kapasitesi (kg), beyan edilen doğruluk (gram) (ve havalimanı sayaçlarındaki sahip raporlarıyla doğrulandı), ekran tipi (LCD vs LED vs uygulama), otomatik kapanma süresi ve ağır tekrarlı kullanımda kanca ve kayış mekanizmasının dayanıklılığı. We did not test these products ourselves.",
   "sections": [
     {
       "heading": "Bavul terazisi doğruluğu özelliklere neden daha önemli",
@@ -41,8 +41,14 @@
       "offerId": "luggage-scale-etekcity-digital",
       "badge": "Genel En İyi",
       "review": "Etekcity dijital bavul terazisi bu kategoride en çok satan seçenek olmayı hak ediyor: 0-50 kg aralığında ±100 g doğruluk, arka ışıklı LCD otel odası ışık koşullarında okunabilir ve kauçuk T-çubuk tutma ölçüm sırasında kavrama kaymasını azaltır. 60 saniyelik otomatik kapanma, ağır bir çantayı asmak ve sabitlemek için yeterli zaman sağlar. Dürüst zayıflık: Kanca yeterlidir ancak dövme çelik değildir.",
-      "pros": ["0-50 kg'da ±100 g doğruluk doğrulandı", "Düşük ışıkta okunabilir arka ışıklı LCD", "60 saniyelik otomatik kapanma stabilizasyon için zaman tanır"],
-      "cons": ["Kanca dövme çelik değil — aşırı tekrarlanan ağır kullanımda şekil bozukluğuna uğrayabilir"],
+      "pros": [
+        "0-50 kg'da ±100 g doğruluk doğrulandı",
+        "Düşük ışıkta okunabilir arka ışıklı LCD",
+        "60 saniyelik otomatik kapanma stabilizasyon için zaman tanır"
+      ],
+      "cons": [
+        "Kanca dövme çelik değil — aşırı tekrarlanan ağır kullanımda şekil bozukluğuna uğrayabilir"
+      ],
       "grade": "A+",
       "specs": {
         "Maksimum ağırlık": "50 kg",
@@ -64,8 +70,15 @@
       "offerId": "luggage-scale-renpho-smart",
       "badge": "En İyi Akıllı Özellikler",
       "review": "Renpho'nun akıllı bavul terazisi Bluetooth aracılığıyla çanta ağırlıklarını kaydeden, birden fazla çantada toplam bagaj ağırlığını takip etmenizi sağlayan ve okumayı telefon ekranınızda gösteren bir yardımcı uygulamaya bağlanır. Doğruluk Etekcity ile karşılaştırılabilir (±100 g). Dürüst zayıflık: Bluetooth bağlantısı tartma sürecine sürtünme ekler.",
-      "pros": ["Bluetooth uygulaması tüm çantaların ağırlıklarını kaydeder", "Telefon ekranı — herhangi bir ışıkta okunabilir", "Birden fazla çantada toplam bagaj ağırlığını takip eder"],
-      "cons": ["Bluetooth eşleşme, basit dijital terazilere kıyasla adım ekler", "Uygulama bağımlılığı — telefonsuz iyi çalışmaz"],
+      "pros": [
+        "Bluetooth uygulaması tüm çantaların ağırlıklarını kaydeder",
+        "Telefon ekranı — herhangi bir ışıkta okunabilir",
+        "Birden fazla çantada toplam bagaj ağırlığını takip eder"
+      ],
+      "cons": [
+        "Bluetooth eşleşme, basit dijital terazilere kıyasla adım ekler",
+        "Uygulama bağımlılığı — telefonsuz iyi çalışmaz"
+      ],
       "grade": "A",
       "specs": {
         "Maksimum ağırlık": "50 kg",
@@ -87,8 +100,15 @@
       "offerId": "luggage-scale-camry-el-gc50",
       "badge": "En İyi Yüksek Kapasiteli Doğruluk",
       "review": "Camry EL GC50, 0-50 kg aralığında ±50 g (0,05 kg) ile bu karşılaştırmada en doğru terazidir — Etekcity ve Renpho'nun iki katı doğruluk. Bu, fazla bagaj ücretlerinin başladığı 22,5-23,5 kg bölgesinde önemlidir: ±50 g terazi, 22,7 mi yoksa 23,1 kg mı olduğunuzu ±100 g terazinin eşleştiremeyeceği bir güven düzeyiyle söyler.",
-      "pros": ["±50 g doğruluk — karşılaştırmada en hassas", "50 kg maksimum kapasite business class ödeneklerini karşılar", "Profesyonel sınıf zorlanma ölçer yapısı"],
-      "cons": ["Ara sıra kullanım alternatiflerinden daha yüksek fiyat", "Seyahat başına tek tartım için aşırı doğruluk"],
+      "pros": [
+        "±50 g doğruluk — karşılaştırmada en hassas",
+        "50 kg maksimum kapasite business class ödeneklerini karşılar",
+        "Profesyonel sınıf zorlanma ölçer yapısı"
+      ],
+      "cons": [
+        "Ara sıra kullanım alternatiflerinden daha yüksek fiyat",
+        "Seyahat başına tek tartım için aşırı doğruluk"
+      ],
       "grade": "A",
       "specs": {
         "Maksimum ağırlık": "50 kg",
@@ -110,8 +130,15 @@
       "offerId": "luggage-scale-tarriss-jetsetter",
       "badge": "En İyi Ergonomik Kavrama",
       "review": "Tarriss Jetsetter ergonomiyle farklılaşır — geniş düz kayış tasarımı 23 kg çantanın yükünü parmaklara yoğunlaştırmak yerine avuç içine dağıtır, bu da ağır çantalar için ölçüm sırasında 5-10 saniyelik tutmayı önemli ölçüde daha rahat kılar. Arka ışıklı ekran rakiplere kıyasla özellikle parlaktır. Doğruluk ±100 g'dır.",
-      "pros": ["Geniş kayış 23 kg yükü avuç içine dağıtır", "İstisnai derecede parlak arka ışıklı ekran", "±100 g doğruluk"],
-      "cons": ["Düz kayış T-çubuk tutmadan daha az kompakt", "Aynı doğrulukta Etekcity'ye göre hafif fiyat farkı"],
+      "pros": [
+        "Geniş kayış 23 kg yükü avuç içine dağıtır",
+        "İstisnai derecede parlak arka ışıklı ekran",
+        "±100 g doğruluk"
+      ],
+      "cons": [
+        "Düz kayış T-çubuk tutmadan daha az kompakt",
+        "Aynı doğrulukta Etekcity'ye göre hafif fiyat farkı"
+      ],
       "grade": "B+",
       "specs": {
         "Maksimum ağırlık": "50 kg",
@@ -133,8 +160,15 @@
       "offerId": "luggage-scale-freetoo-portable",
       "badge": "En İyi Ultra Kompakt",
       "review": "Freetoo bu karşılaştırmada en küçük ve en hafif bavul terazidir — gömlek cebine sığacak boyuta katlanır ve 60 g altında ağırlık taşır. Terazi ayrı paketlemek yerine her zaman çantalarında taşımak isteyen gezginler için bu doğru seçimdir. Doğruluk ±100 g, kategori standardı. Dürüst zayıflık: 30 saniyelik otomatik kapanma, sallanan bir çantayı stabilize etmesi gereken yavaş kullanıcılar için çok kısadır.",
-      "pros": ["Ultra kompakt — 60 g altında gömlek cebi boyutu", "Alan cezası olmadan her zaman çantada taşıma", "±100 g doğruluk — seyahat tartımı için yeterli"],
-      "cons": ["30 saniyelik otomatik kapanma yavaş stabilizasyon için çok kısa", "En ince kanca — uzun vadeli dayanıklılık sorusu"],
+      "pros": [
+        "Ultra kompakt — 60 g altında gömlek cebi boyutu",
+        "Alan cezası olmadan her zaman çantada taşıma",
+        "±100 g doğruluk — seyahat tartımı için yeterli"
+      ],
+      "cons": [
+        "30 saniyelik otomatik kapanma yavaş stabilizasyon için çok kısa",
+        "En ince kanca — uzun vadeli dayanıklılık sorusu"
+      ],
       "grade": "B",
       "specs": {
         "Maksimum ağırlık": "40 kg",

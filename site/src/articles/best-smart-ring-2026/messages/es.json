@@ -108,57 +108,173 @@
     "samsung-galaxy-ring": "La apuesta de ecosistema: titanio, batería de 6-7 días, Energy Score, seguimiento del ciclo y controles por gestos, todo integrado directamente en Samsung Health. Emparejado con un teléfono Galaxy es la experiencia más fluida de la categoría — sin silos de apps separadas, y los datos del reloj y del anillo se fusionan. Pero es solo para Android, sin ningún soporte para iOS, varias funciones exigen específicamente un teléfono Samsung y, a 399 $ (unos 370 €), es la opción sin suscripción más cara. Si tienes un Galaxy: excelente. Si no, busca en otra parte."
   },
   "pinDescription": "¿Anillo inteligente sin suscripción y a mitad de precio que Oura? Existe. Comparamos los 5 mejores de 2026: precisión del sueño, batería y coste real a 3 años. Descubre cuál merece tu dedo antes de gastar de más.",
-  "methodology": "La clasificación da el mayor peso a la precisión y consistencia del seguimiento del sueño, seguidas de la autonomía en uso real, la comodidad, la calidad de los análisis de la app y el coste de propiedad a tres años, suscripciones incluidas. Fuentes: estudios de validación publicados, pruebas de uso con varios dispositivos publicadas por medios consolidados de wearables y especificaciones del fabricante verificadas con reseñas independientes.",
+  "methodology": "La clasificación da el mayor peso a la precisión y consistencia del seguimiento del sueño, seguidas de la autonomía en uso real, la comodidad, la calidad de los análisis de la app y el coste de propiedad a tres años, suscripciones incluidas. Fuentes: estudios de validación publicados, pruebas de uso con varios dispositivos publicadas por medios consolidados de wearables y especificaciones del fabricante verificadas con reseñas independientes. No hemos probado estos productos nosotros mismos.",
   "products": [
     {
       "offerId": "oura-ring-4",
       "badge": "Mejor en general",
       "review": "Sigue siendo el anillo inteligente más completo: el algoritmo de sueño más validado, la mejor orientación de preparación y un hardware refinado a lo largo de cuatro generaciones. La membresía obligatoria es el asterisco honesto: 349 $ (unos 320 €) se convierten en unos 565 $ a tres años, y si no pagas, el anillo se guarda la mayor parte de lo que lo hace bueno.",
-      "pros": ["Las fases del sueño más validadas de la categoría", "La puntuación de preparación ofrece consejos realmente accionables", "La mayor gama de tallas (4-15) y acabados", "Sensores empotrados: sin bulto incómodo"],
-      "cons": ["Membresía de 5,99 $/mes obligatoria para casi todos los análisis", "El mayor coste a tres años de la lista (~565 $)", "El registro de entrenamientos sigue siendo flojo"],
+      "pros": [
+        "Las fases del sueño más validadas de la categoría",
+        "La puntuación de preparación ofrece consejos realmente accionables",
+        "La mayor gama de tallas (4-15) y acabados",
+        "Sensores empotrados: sin bulto incómodo"
+      ],
+      "cons": [
+        "Membresía de 5,99 $/mes obligatoria para casi todos los análisis",
+        "El mayor coste a tres años de la lista (~565 $)",
+        "El registro de entrenamientos sigue siendo flojo"
+      ],
       "grade": "A",
-      "specs": {"Precio": "349-499 $", "Suscripción": "5,99 $/mes (obligatoria)", "Batería": "5-7 días", "Peso": "3,3-5,2 g", "Material": "Titanio", "Resistencia al agua": "100 m", "Compatibilidad": "iOS / Android"},
-      "scores": {"Seguimiento del sueño": 4.9, "Batería": 3.8, "Comodidad": 4.5, "App y análisis": 4.9, "Relación calidad-precio": 3.2}
+      "specs": {
+        "Precio": "349-499 $",
+        "Suscripción": "5,99 $/mes (obligatoria)",
+        "Batería": "5-7 días",
+        "Peso": "3,3-5,2 g",
+        "Material": "Titanio",
+        "Resistencia al agua": "100 m",
+        "Compatibilidad": "iOS / Android"
+      },
+      "scores": {
+        "Seguimiento del sueño": 4.9,
+        "Batería": 3.8,
+        "Comodidad": 4.5,
+        "App y análisis": 4.9,
+        "Relación calidad-precio": 3.2
+      }
     },
     {
       "offerId": "leep-ring-1",
       "badge": "Mejor calidad-precio",
       "review": "El anillo que rompió los precios de la categoría en 2026. Seguimiento del sueño y del estrés verificado por analistas independientes a la altura de anillos que cuestan el doble, un estuche de carga que ningún rival ofrece y cero suscripción — por 199 $ (unos 185 €). El ecosistema de la app es joven y el registro de actividad es básico, pero como compra centrada en el sueño es la recomendación más fácil de esta lista.",
-      "pros": ["£169 (unos 195 €) / 199 $: la mitad que cualquier rival", "Sin suscripción, nunca", "8 días de batería más estuche de carga de 60 días", "Precisión del sueño verificada, cercana a los rivales premium", "Titanio de 2,6 mm de grosor: desaparece en el dedo"],
-      "cons": ["Marca lanzada en enero de 2026: ecosistema de app joven", "Registro de actividad y entrenamientos básico", "Aún pocas integraciones de terceros"],
+      "pros": [
+        "£169 (unos 195 €) / 199 $: la mitad que cualquier rival",
+        "Sin suscripción, nunca",
+        "8 días de batería más estuche de carga de 60 días",
+        "Precisión del sueño verificada, cercana a los rivales premium",
+        "Titanio de 2,6 mm de grosor: desaparece en el dedo"
+      ],
+      "cons": [
+        "Marca lanzada en enero de 2026: ecosistema de app joven",
+        "Registro de actividad y entrenamientos básico",
+        "Aún pocas integraciones de terceros"
+      ],
       "grade": "A",
-      "specs": {"Precio": "£169 (unos 195 €) / 199 $", "Suscripción": "Ninguna", "Batería": "8 días + estuche de 60 días", "Material": "Titanio, interior hipoalergénico", "Grosor": "2,6 mm", "Resistencia al agua": "50 m", "Compatibilidad": "iOS / Android"},
-      "scores": {"Seguimiento del sueño": 4.6, "Batería": 4.7, "Comodidad": 4.7, "App y análisis": 4.0, "Relación calidad-precio": 5.0}
+      "specs": {
+        "Precio": "£169 (unos 195 €) / 199 $",
+        "Suscripción": "Ninguna",
+        "Batería": "8 días + estuche de 60 días",
+        "Material": "Titanio, interior hipoalergénico",
+        "Grosor": "2,6 mm",
+        "Resistencia al agua": "50 m",
+        "Compatibilidad": "iOS / Android"
+      },
+      "scores": {
+        "Seguimiento del sueño": 4.6,
+        "Batería": 4.7,
+        "Comodidad": 4.7,
+        "App y análisis": 4.0,
+        "Relación calidad-precio": 5.0
+      }
     },
     {
       "offerId": "ringconn-gen-2",
       "badge": "Mejor batería",
       "review": "Entre diez y doce días por carga zanjan la conversación sobre la ansiedad de cargar, y la detección de apnea del sueño es una función que las marcas premium todavía no ofrecen. La app te da datos limpios y precisos y te deja la interpretación a ti: perfecto para usuarios autónomos, escaso para quien busca coaching.",
-      "pros": ["Batería de 10-12 días: la mejor de la categoría", "Detección de apnea del sueño", "Sin suscripción, 299 $ (unos 275 €)", "La forma 'squircle' evita que ruede"],
-      "cons": ["La app informa más de lo que interpreta", "Sin detección automática de entrenamientos", "El soporte puede tardar en responder"],
+      "pros": [
+        "Batería de 10-12 días: la mejor de la categoría",
+        "Detección de apnea del sueño",
+        "Sin suscripción, 299 $ (unos 275 €)",
+        "La forma 'squircle' evita que ruede"
+      ],
+      "cons": [
+        "La app informa más de lo que interpreta",
+        "Sin detección automática de entrenamientos",
+        "El soporte puede tardar en responder"
+      ],
       "grade": "A-",
-      "specs": {"Precio": "299 $ (unos 275 €)", "Suscripción": "Ninguna", "Batería": "10-12 días", "Peso": "2-3 g", "Material": "Titanio", "Resistencia al agua": "100 m", "Compatibilidad": "iOS / Android"},
-      "scores": {"Seguimiento del sueño": 4.3, "Batería": 5.0, "Comodidad": 4.4, "App y análisis": 3.8, "Relación calidad-precio": 4.5}
+      "specs": {
+        "Precio": "299 $ (unos 275 €)",
+        "Suscripción": "Ninguna",
+        "Batería": "10-12 días",
+        "Peso": "2-3 g",
+        "Material": "Titanio",
+        "Resistencia al agua": "100 m",
+        "Compatibilidad": "iOS / Android"
+      },
+      "scores": {
+        "Seguimiento del sueño": 4.3,
+        "Batería": 5.0,
+        "Comodidad": 4.4,
+        "App y análisis": 3.8,
+        "Relación calidad-precio": 4.5
+      }
     },
     {
       "offerId": "ultrahuman-ring-air",
       "badge": "Para biohackers",
       "review": "Con 2,4 gramos te olvidas de que lo llevas, y ningún rival se acerca a su arsenal metabólico: ventanas de cafeína, fase circadiana, experimentos de respuesta a los alimentos. El coste es una batería de 4-6 días, una app que entierra la señal entre tanta densidad y unos extras PowerPlug que reintroducen la fricción de pago de la que el discurso sin suscripción parecía librarte.",
-      "pros": ["El anillo más ligero disponible (2,4 g)", "Herramientas metabólicas y circadianas únicas", "Sin suscripción obligatoria", "Buen análisis de VFC y recuperación"],
-      "cons": ["La batería más floja de la lista (4-6 días)", "App densa y recargada", "Algunas funciones son extras PowerPlug de pago"],
+      "pros": [
+        "El anillo más ligero disponible (2,4 g)",
+        "Herramientas metabólicas y circadianas únicas",
+        "Sin suscripción obligatoria",
+        "Buen análisis de VFC y recuperación"
+      ],
+      "cons": [
+        "La batería más floja de la lista (4-6 días)",
+        "App densa y recargada",
+        "Algunas funciones son extras PowerPlug de pago"
+      ],
       "grade": "B+",
-      "specs": {"Precio": "349 $ (unos 320 €)", "Suscripción": "Ninguna (extras de pago opcionales)", "Batería": "4-6 días", "Peso": "2,4 g", "Material": "Titanio", "Resistencia al agua": "100 m", "Compatibilidad": "iOS / Android"},
-      "scores": {"Seguimiento del sueño": 4.2, "Batería": 3.3, "Comodidad": 4.9, "App y análisis": 4.1, "Relación calidad-precio": 3.9}
+      "specs": {
+        "Precio": "349 $ (unos 320 €)",
+        "Suscripción": "Ninguna (extras de pago opcionales)",
+        "Batería": "4-6 días",
+        "Peso": "2,4 g",
+        "Material": "Titanio",
+        "Resistencia al agua": "100 m",
+        "Compatibilidad": "iOS / Android"
+      },
+      "scores": {
+        "Seguimiento del sueño": 4.2,
+        "Batería": 3.3,
+        "Comodidad": 4.9,
+        "App y análisis": 4.1,
+        "Relación calidad-precio": 3.9
+      }
     },
     {
       "offerId": "samsung-galaxy-ring",
       "badge": "Para usuarios Samsung",
       "review": "Dentro del ecosistema Galaxy es la elección sin fricciones: los datos del anillo, el reloj y el teléfono aterrizan en Samsung Health, los gestos controlan la cámara y el Energy Score es un rival creíble de la puntuación de preparación. Fuera de ese ecosistema, sencillamente no existe: sin app para iOS, con funciones exclusivas de Samsung y el precio sin suscripción más alto, 399 $ (unos 370 €).",
-      "pros": ["La integración con el ecosistema del teléfono más profunda de la categoría", "Sin suscripción", "Controles por gestos y seguimiento del ciclo", "Los datos se fusionan con el Galaxy Watch en Samsung Health"],
-      "cons": ["Solo Android: no hay app para iOS", "Funciones clave exigen un teléfono Samsung", "399 $: la opción sin suscripción más cara"],
+      "pros": [
+        "La integración con el ecosistema del teléfono más profunda de la categoría",
+        "Sin suscripción",
+        "Controles por gestos y seguimiento del ciclo",
+        "Los datos se fusionan con el Galaxy Watch en Samsung Health"
+      ],
+      "cons": [
+        "Solo Android: no hay app para iOS",
+        "Funciones clave exigen un teléfono Samsung",
+        "399 $: la opción sin suscripción más cara"
+      ],
       "grade": "B+",
-      "specs": {"Precio": "399 $ (unos 370 €)", "Suscripción": "Ninguna", "Batería": "6-7 días", "Peso": "2,3-3 g", "Material": "Titanio", "Resistencia al agua": "100 m / IP68", "Compatibilidad": "Solo Android (mejor con Samsung)"},
-      "scores": {"Seguimiento del sueño": 4.2, "Batería": 4.2, "Comodidad": 4.5, "App y análisis": 4.3, "Relación calidad-precio": 3.6}
+      "specs": {
+        "Precio": "399 $ (unos 370 €)",
+        "Suscripción": "Ninguna",
+        "Batería": "6-7 días",
+        "Peso": "2,3-3 g",
+        "Material": "Titanio",
+        "Resistencia al agua": "100 m / IP68",
+        "Compatibilidad": "Solo Android (mejor con Samsung)"
+      },
+      "scores": {
+        "Seguimiento del sueño": 4.2,
+        "Batería": 4.2,
+        "Comodidad": 4.5,
+        "App y análisis": 4.3,
+        "Relación calidad-precio": 3.6
+      }
     }
   ],
   "recommendedFor": [

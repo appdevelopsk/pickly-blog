@@ -92,62 +92,174 @@
     "columbia-newton-ridge-plus-ii": "最實惠的入門價格，具有真正防水性和能適應寬腳的貼合。對於在預算範圍內中等步道健行的正確選擇。"
   },
   "pinDescription": "2026年登山靴比較——從110美元預算入門到200美元技術接近靴的防水中筒選項。Salomon vs Merrell vs Hoka vs La Sportiva vs Columbia：哪種外底、哪種防水以及哪種貼合適合你的步道。",
-  "methodology": "每款靴子在五項越野特定標準上評分：踝關節和扭轉支撐、防水膜類型及透氣性權衡、外底鞋紋圖案和牽引力、額定壽命每公里價格，以及來自用戶報告的磨合距離。",
+  "methodology": "每款靴子在五項越野特定標準上評分：踝關節和扭轉支撐、防水膜類型及透氣性權衡、外底鞋紋圖案和牽引力、額定壽命每公里價格，以及來自用戶報告的磨合距離。我們並未實際測試這些產品。",
   "products": [
     {
       "offerId": "salomon-x-ultra-4-gtx",
       "badge": "綜合最佳",
       "review": "X Ultra 4 GTX是本次比較中最乾淨的全能型——Gore-Tex Extended Comfort膜、Contagrip MA外底和Advanced Chassis TPU。快速磨合（20-30公里）和寬泛的地形能力使其成為日間健行的預設選擇。注意：前掌窄，腳寬者應試穿後再買。",
-      "pros": ["Gore-Tex Extended Comfort比標準Gore-Tex更好地平衡防水性和透氣性", "Advanced Chassis TPU扭轉穩定性，沒有登山靴的僵硬感", "20-30公里磨合——本次比較中最短"],
-      "cons": ["前掌窄——腳寬者應在購買前到店驗證貼合度"],
+      "pros": [
+        "Gore-Tex Extended Comfort比標準Gore-Tex更好地平衡防水性和透氣性",
+        "Advanced Chassis TPU扭轉穩定性，沒有登山靴的僵硬感",
+        "20-30公里磨合——本次比較中最短"
+      ],
+      "cons": [
+        "前掌窄——腳寬者應在購買前到店驗證貼合度"
+      ],
       "grade": "A+",
-      "specs": {"防水": "Gore-Tex Extended Comfort", "外底": "Contagrip MA", "中底": "Advanced Chassis TPU", "高度": "中筒", "磨合期": "20–30 km", "重量（一雙）": "約760g (男US9)", "價格": "$160"},
-      "scores": {"支撐": 4.7, "防水": 4.8, "抓地力": 4.7, "性價比": 4.3, "耐久性": 4.8}
+      "specs": {
+        "防水": "Gore-Tex Extended Comfort",
+        "外底": "Contagrip MA",
+        "中底": "Advanced Chassis TPU",
+        "高度": "中筒",
+        "磨合期": "20–30 km",
+        "重量（一雙）": "約760g (男US9)",
+        "價格": "$160"
+      },
+      "scores": {
+        "支撐": 4.7,
+        "防水": 4.8,
+        "抓地力": 4.7,
+        "性價比": 4.3,
+        "耐久性": 4.8
+      }
     },
     {
       "offerId": "merrell-moab-3-mid-wp",
       "badge": "性價比最佳",
       "review": "Moab 3 Mid WP以遠低於Salomon或Hoka的價格提供Vibram TC5+外底性能。M-Select DRY膜對大多數越野條件足夠。寬版選項覆蓋了Salomon窄楦所排除的腳形，這是最大的實際差異化因素。",
-      "pros": ["Vibram TC5+外底——該價位段濕岩石牽引力更優", "寬版尺碼可選——覆蓋Salomon窄楦排除的腳形", "開箱即穿舒適——本次比較中所有靴子中磨合時間最少"],
-      "cons": ["M-Select DRY膜在長時間溫暖天氣健行中比Gore-Tex EC透氣性略差"],
+      "pros": [
+        "Vibram TC5+外底——該價位段濕岩石牽引力更優",
+        "寬版尺碼可選——覆蓋Salomon窄楦排除的腳形",
+        "開箱即穿舒適——本次比較中所有靴子中磨合時間最少"
+      ],
+      "cons": [
+        "M-Select DRY膜在長時間溫暖天氣健行中比Gore-Tex EC透氣性略差"
+      ],
       "grade": "A",
-      "specs": {"防水": "M-Select DRY", "外底": "Vibram TC5+", "寬度選項": "D, W, XW", "高度": "中筒", "磨合期": "10–20 km", "重量（一雙）": "約820g (男US9)", "價格": "$150"},
-      "scores": {"支撐": 4.3, "防水": 4.5, "抓地力": 4.6, "性價比": 4.9, "耐久性": 4.4}
+      "specs": {
+        "防水": "M-Select DRY",
+        "外底": "Vibram TC5+",
+        "寬度選項": "D, W, XW",
+        "高度": "中筒",
+        "磨合期": "10–20 km",
+        "重量（一雙）": "約820g (男US9)",
+        "價格": "$150"
+      },
+      "scores": {
+        "支撐": 4.3,
+        "防水": 4.5,
+        "抓地力": 4.6,
+        "性價比": 4.9,
+        "耐久性": 4.4
+      }
     },
     {
       "offerId": "hoka-anacapa-mid-gtx",
       "badge": "舒適度最佳",
       "review": "Anacapa Mid GTX將Hoka的最大緩衝中底與Vibram Megagrip外底和Gore-Tex防水結合。最適合高里程日（15公里以上）、老年健行者或有關節敏感性的人。尺碼偏大——下單前需驗證貼合度。",
-      "pros": ["最大緩衝中底——高里程日本次比較中最佳腳部疲勞減少", "Vibram Megagrip外底——在濕岩石和多變地形上更優牽引力", "Gore-Tex防水，具有可靠的接縫完整性聲譽"],
-      "cons": ["疊高升高導致初始不穩定——需要3-5次適應性健行；尺碼偏大"],
+      "pros": [
+        "最大緩衝中底——高里程日本次比較中最佳腳部疲勞減少",
+        "Vibram Megagrip外底——在濕岩石和多變地形上更優牽引力",
+        "Gore-Tex防水，具有可靠的接縫完整性聲譽"
+      ],
+      "cons": [
+        "疊高升高導致初始不穩定——需要3-5次適應性健行；尺碼偏大"
+      ],
       "grade": "B+",
-      "specs": {"防水": "Gore-Tex", "外底": "Vibram Megagrip", "中底": "Hoka最大緩衝", "高度": "中筒", "磨合期": "30–50 km（適應）", "重量（一雙）": "約880g (男US9)", "價格": "$195"},
-      "scores": {"支撐": 4.0, "防水": 4.7, "抓地力": 4.8, "性價比": 3.8, "耐久性": 4.3}
+      "specs": {
+        "防水": "Gore-Tex",
+        "外底": "Vibram Megagrip",
+        "中底": "Hoka最大緩衝",
+        "高度": "中筒",
+        "磨合期": "30–50 km（適應）",
+        "重量（一雙）": "約880g (男US9)",
+        "價格": "$195"
+      },
+      "scores": {
+        "支撐": 4.0,
+        "防水": 4.7,
+        "抓地力": 4.8,
+        "性價比": 3.8,
+        "耐久性": 4.3
+      }
     },
     {
       "offerId": "la-sportiva-tx4-gtx",
       "badge": "技術性最佳",
       "review": "TX4 Mid GTX是本次比較中唯一專為岩石攀爬和途經攀登設計的靴子——FriXion AT橡膠護圍允許岩石摩擦接觸，Vibram Megagrip外底處理垂直地形。需要最長磨合期（50-80公里），緊窄貼合對休閒健行者不合適。",
-      "pros": ["FriXion AT攀登橡膠護圍——支持岩石摩擦和途經攀登能力", "本次比較中唯一能應對技術性地形和鐵索攀登使用的靴子", "Vibram Megagrip外底處理垂直和摩擦依賴地形"],
-      "cons": ["緊窄楦——最長磨合期（50-80公里）；不適合休閒步道健行的錯誤選擇"],
+      "pros": [
+        "FriXion AT攀登橡膠護圍——支持岩石摩擦和途經攀登能力",
+        "本次比較中唯一能應對技術性地形和鐵索攀登使用的靴子",
+        "Vibram Megagrip外底處理垂直和摩擦依賴地形"
+      ],
+      "cons": [
+        "緊窄楦——最長磨合期（50-80公里）；不適合休閒步道健行的錯誤選擇"
+      ],
       "grade": "B",
-      "specs": {"防水": "Gore-Tex", "外底": "Vibram Megagrip", "護圍": "FriXion AT攀登橡膠", "高度": "中筒", "磨合期": "50–80 km", "地形": "技術性+途經", "價格": "$179"},
-      "scores": {"支撐": 4.8, "防水": 4.6, "抓地力": 5.0, "性價比": 3.5, "耐久性": 4.9}
+      "specs": {
+        "防水": "Gore-Tex",
+        "外底": "Vibram Megagrip",
+        "護圍": "FriXion AT攀登橡膠",
+        "高度": "中筒",
+        "磨合期": "50–80 km",
+        "地形": "技術性+途經",
+        "價格": "$179"
+      },
+      "scores": {
+        "支撐": 4.8,
+        "防水": 4.6,
+        "抓地力": 5.0,
+        "性價比": 3.5,
+        "耐久性": 4.9
+      }
     },
     {
       "offerId": "columbia-newton-ridge-plus-ii",
       "badge": "預算最佳",
       "review": "Newton Ridge Plus II是具有真正越野能力的防水登山靴的入門點——Omni-Tech防水、Omni-Grip外底，以及能適應寬腳的寬鬆貼合。壽命較短（600-800公里），技術性地形性能有限。對於預算範圍內中等步道健行，性價比無可匹敵。",
-      "pros": ["本次比較中最低價格——100美元的真正防水和越野抓地力", "寬鬆貼合無需訂購寬版就能適應寬腳", "Omni-Tech防水在中等越野條件下表現足夠"],
-      "cons": ["壽命600-800公里——比Salomon或La Sportiva短；技術性地形性能有限"],
+      "pros": [
+        "本次比較中最低價格——100美元的真正防水和越野抓地力",
+        "寬鬆貼合無需訂購寬版就能適應寬腳",
+        "Omni-Tech防水在中等越野條件下表現足夠"
+      ],
+      "cons": [
+        "壽命600-800公里——比Salomon或La Sportiva短；技術性地形性能有限"
+      ],
       "grade": "B-",
-      "specs": {"防水": "Columbia Omni-Tech", "外底": "Omni-Grip", "高度": "中筒", "磨合期": "15–25 km", "壽命": "600–800 km", "貼合": "寬鬆/寬腳友好", "價格": "$100"},
-      "scores": {"支撐": 3.8, "防水": 4.2, "抓地力": 3.8, "性價比": 5.0, "耐久性": 3.5}
+      "specs": {
+        "防水": "Columbia Omni-Tech",
+        "外底": "Omni-Grip",
+        "高度": "中筒",
+        "磨合期": "15–25 km",
+        "壽命": "600–800 km",
+        "貼合": "寬鬆/寬腳友好",
+        "價格": "$100"
+      },
+      "scores": {
+        "支撐": 3.8,
+        "防水": 4.2,
+        "抓地力": 3.8,
+        "性價比": 5.0,
+        "耐久性": 3.5
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "適合尋求最佳全能型的日間健行者", "offerId": "salomon-x-ultra-4-gtx", "reason": "Gore-Tex EC、Contagrip MA和Advanced Chassis合為一體，本次比較中磨合期最短。"},
-    {"label": "適合高里程日和腳部疲勞減少", "offerId": "hoka-anacapa-mid-gtx", "reason": "最大緩衝中底加Vibram Megagrip是15公里以上日行最有效的疲勞減少組合。"},
-    {"label": "適合技術性地形和岩石攀爬", "offerId": "la-sportiva-tx4-gtx", "reason": "FriXion AT護圍和Megagrip支持本次比較中其他靴子無法匹敵的途經攀登能力。"}
+    {
+      "label": "適合尋求最佳全能型的日間健行者",
+      "offerId": "salomon-x-ultra-4-gtx",
+      "reason": "Gore-Tex EC、Contagrip MA和Advanced Chassis合為一體，本次比較中磨合期最短。"
+    },
+    {
+      "label": "適合高里程日和腳部疲勞減少",
+      "offerId": "hoka-anacapa-mid-gtx",
+      "reason": "最大緩衝中底加Vibram Megagrip是15公里以上日行最有效的疲勞減少組合。"
+    },
+    {
+      "label": "適合技術性地形和岩石攀爬",
+      "offerId": "la-sportiva-tx4-gtx",
+      "reason": "FriXion AT護圍和Megagrip支持本次比較中其他靴子無法匹敵的途經攀登能力。"
+    }
   ]
 }

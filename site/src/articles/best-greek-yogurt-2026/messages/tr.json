@@ -61,64 +61,184 @@
     "siggis-icelandic-yogurt": "Skyr tarzı — çoğu Yunan yoğurdundan daha yoğun ve daha az şekerli"
   },
   "pinDescription": "En iyi 5 Yunan yoğurdu protein, şeker ve dokuya göre sıralandı — yoğun Fage'den düşük şekerli Siggi's'e. Kahvaltı, pişirme veya egzersiz sonrası için sizin eşinizi bulun.",
-  "methodology": "Her yoğurt servis başına protein içeriği, şeker seviyeleri (doğal ve eklenmiş), içerik listesi uzunluğu ve kalitesi, doku tutarlılığı, tat profili, kaynak şeffaflığı ve protein gramı başına fiyat açısından değerlendirildi.",
+  "methodology": "Her yoğurt servis başına protein içeriği, şeker seviyeleri (doğal ve eklenmiş), içerik listesi uzunluğu ve kalitesi, doku tutarlılığı, tat profili, kaynak şeffaflığı ve protein gramı başına fiyat açısından değerlendirildi. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "fage-total-0",
       "badge": "En İyi Genel",
       "review": "Fage Total 0%, 7 oz servis başına 18–19g protein ve sadece 2 içerikle — koyulaştırıcısız, pektinsiz, doku tamamen süzmeden — otantik Yunan yoğurdunun standardını belirler. Lezzet Amerikan markalarından daha keskin ve ekşidir; bu gerçeği isteyen kişiler için bir kusur değil, özelliktir. Ödünleşim, alışmayı gerektiren daha güçlü bir asitliktir.",
-      "pros": ["7 oz'da 18–19g protein — ana akım pazardaki en yüksek yağsız protein", "Sadece 2 içerik, koyulaştırıcı veya katkı maddesi yok", "Kaşıklandığında şeklini koruyan yoğun doku"],
-      "cons": ["Daha hafif markalara alışık olanlar için keskin ekşi lezzet alışma gerektirebilir"],
+      "pros": [
+        "7 oz'da 18–19g protein — ana akım pazardaki en yüksek yağsız protein",
+        "Sadece 2 içerik, koyulaştırıcı veya katkı maddesi yok",
+        "Kaşıklandığında şeklini koruyan yoğun doku"
+      ],
+      "cons": [
+        "Daha hafif markalara alışık olanlar için keskin ekşi lezzet alışma gerektirebilir"
+      ],
       "grade": "A+",
-      "specs": {"Servis": "7 oz", "Protein": "18–19g", "Yağ": "%0", "Şeker": "~8g doğal", "İçerikler": "2", "Sertifikalar": "Kosher", "Fiyat": "~$7,49"},
-      "scores": {"Protein": 4.9, "Tat": 4.5, "Değer": 4.3, "Doku": 4.8, "İçerik kalitesi": 4.9}
+      "specs": {
+        "Servis": "7 oz",
+        "Protein": "18–19g",
+        "Yağ": "%0",
+        "Şeker": "~8g doğal",
+        "İçerikler": "2",
+        "Sertifikalar": "Kosher",
+        "Fiyat": "~$7,49"
+      },
+      "scores": {
+        "Protein": 4.9,
+        "Tat": 4.5,
+        "Değer": 4.3,
+        "Doku": 4.8,
+        "İçerik kalitesi": 4.9
+      }
     },
     {
       "offerId": "chobani-plain-nonfat",
       "badge": "En İyi Günlük Değer",
       "review": "Chobani Sade Yağsız, kategorinin çalışkanıdır — yoğun ama sert değil, temiz asitlik ve sadece 3 içerikle 5,3 oz bardakta 15g protein. 32 oz'luk büyük kap, ana akım bakkalda protein gramı başına en iyi değerdir. Yağ çıkarmanın süt şekerlerini konsantre etmesi nedeniyle yağsız versiyon %2'ye kıyasla biraz daha fazla karbonhidrat içerir.",
-      "pros": ["Eklenmiş şeker olmayan 3 içerik formülü", "32 oz'luk büyük kap mükemmel protein gramı başına maliyet değeri sunar", "Pişirme ve smoothielerde gerçekten çok yönlü"],
-      "cons": ["Yağ çıkarmanın süt şekerlerini konsantre etmesi nedeniyle yağsız versiyon %2'den biraz daha yüksek karbonhidrat"],
+      "pros": [
+        "Eklenmiş şeker olmayan 3 içerik formülü",
+        "32 oz'luk büyük kap mükemmel protein gramı başına maliyet değeri sunar",
+        "Pişirme ve smoothielerde gerçekten çok yönlü"
+      ],
+      "cons": [
+        "Yağ çıkarmanın süt şekerlerini konsantre etmesi nedeniyle yağsız versiyon %2'den biraz daha yüksek karbonhidrat"
+      ],
       "grade": "A",
-      "specs": {"Servis": "5,3 oz", "Protein": "15g", "Yağ": "%0", "Şeker": "~6g doğal", "İçerikler": "3", "Büyük kap boyutu": "32 oz mevcut", "Fiyat": "~$6,98"},
-      "scores": {"Protein": 4.5, "Tat": 4.4, "Değer": 4.8, "Doku": 4.3, "İçerik kalitesi": 4.6}
+      "specs": {
+        "Servis": "5,3 oz",
+        "Protein": "15g",
+        "Yağ": "%0",
+        "Şeker": "~6g doğal",
+        "İçerikler": "3",
+        "Büyük kap boyutu": "32 oz mevcut",
+        "Fiyat": "~$6,98"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Tat": 4.4,
+        "Değer": 4.8,
+        "Doku": 4.3,
+        "İçerik kalitesi": 4.6
+      }
     },
     {
       "offerId": "siggis-icelandic-yogurt",
       "badge": "En İyi Düşük Şekerli",
       "review": "Siggi's skyr tarzı yoğurt, sadece 6g karbonhidratla 5,3 oz'da 17g protein sunar — bu karşılaştırmadaki en düşük şeker-protein oranı. Doku Yunan yoğurdundan daha yoğundur, neredeyse yayılabilir ve lezzet belirgin şekilde ekşidir. Lezzetli seri, toplam eklenmiş şekeri 9g'ın altında tutar; bu kategori için gerçekten nadirdir.",
-      "pros": ["5,3 oz bardakta sadece 6g toplam karbonhidrat", "Lezzetli seride çok düşük eklenmiş şekerle 17g protein", "Benzersiz skyr yoğunluğu tost üzerinde krem peynir yedeği olarak işe yarar"],
-      "cons": ["Belirgin ekşi lezzet alışılması gereken bir tattır"],
+      "pros": [
+        "5,3 oz bardakta sadece 6g toplam karbonhidrat",
+        "Lezzetli seride çok düşük eklenmiş şekerle 17g protein",
+        "Benzersiz skyr yoğunluğu tost üzerinde krem peynir yedeği olarak işe yarar"
+      ],
+      "cons": [
+        "Belirgin ekşi lezzet alışılması gereken bir tattır"
+      ],
       "grade": "B+",
-      "specs": {"Servis": "5,3 oz", "Protein": "17g", "Yağ": "%0", "Toplam karbonhidrat": "6g", "Stil": "İzlanda skyr", "Tatlandırıcı": "Yok (sade)", "Fiyat": "~$6,49"},
-      "scores": {"Protein": 4.7, "Tat": 4.0, "Değer": 4.0, "Doku": 4.6, "İçerik kalitesi": 4.7}
+      "specs": {
+        "Servis": "5,3 oz",
+        "Protein": "17g",
+        "Yağ": "%0",
+        "Toplam karbonhidrat": "6g",
+        "Stil": "İzlanda skyr",
+        "Tatlandırıcı": "Yok (sade)",
+        "Fiyat": "~$6,49"
+      },
+      "scores": {
+        "Protein": 4.7,
+        "Tat": 4.0,
+        "Değer": 4.0,
+        "Doku": 4.6,
+        "İçerik kalitesi": 4.7
+      }
     },
     {
       "offerId": "oikos-triple-zero",
       "badge": "En İyi Lezzetli Seçim",
       "review": "Oikos Triple Zero, monk meyvesi ekstresi içeren lezzetli çeşitlerle sıfır eklenmiş şeker, sıfır yapay tatlandırıcı ve sıfır yağ olarak 90 kaloriye 15g protein düşürür. Stevia veya sukroloz olmadan lezzetli yoğurt isteyen makro takipçiler için bu tek ana akım seçenektir. Bazı lezzetli çeşitler hindiba kök lifi içerir; bu bazı kişilerin sindirimini etkiler.",
-      "pros": ["Lezzetli seride sıfır eklenmiş şeker, sıfır yapay tatlandırıcı, sıfır yağ", "Monk meyvesiyle tatlandırılmış — stevia veya sukroloz yok", "90 kaloriye 15g protein"],
-      "cons": ["Bazı lezzetli çeşitler hindiba kök lifi içerir (hassassanız etiketi kontrol edin)"],
+      "pros": [
+        "Lezzetli seride sıfır eklenmiş şeker, sıfır yapay tatlandırıcı, sıfır yağ",
+        "Monk meyvesiyle tatlandırılmış — stevia veya sukroloz yok",
+        "90 kaloriye 15g protein"
+      ],
+      "cons": [
+        "Bazı lezzetli çeşitler hindiba kök lifi içerir (hassassanız etiketi kontrol edin)"
+      ],
       "grade": "B",
-      "specs": {"Servis": "5,3 oz", "Protein": "15g", "Yağ": "%0", "Karbonhidrat": "7g", "Eklenmiş şeker": "0g", "Tatlandırıcı": "Monk meyvesi", "Fiyat": "~$1,49"},
-      "scores": {"Protein": 4.5, "Tat": 4.2, "Değer": 4.9, "Doku": 4.1, "İçerik kalitesi": 4.2}
+      "specs": {
+        "Servis": "5,3 oz",
+        "Protein": "15g",
+        "Yağ": "%0",
+        "Karbonhidrat": "7g",
+        "Eklenmiş şeker": "0g",
+        "Tatlandırıcı": "Monk meyvesi",
+        "Fiyat": "~$1,49"
+      },
+      "scores": {
+        "Protein": 4.5,
+        "Tat": 4.2,
+        "Değer": 4.9,
+        "Doku": 4.1,
+        "İçerik kalitesi": 4.2
+      }
     },
     {
       "offerId": "stonyfield-organic-greek",
       "badge": "Kaynak Açısından En İyi",
       "review": "Stonyfield Organik, sertifikasyon ve kaynak önemli olduğunda tercih edilir: USDA organik, çimen beslemeli süt ve etiket üzerinde beş adlandırılmış canlı probiyotik suş. Servis başına 14–15g protein, Fage'den biraz düşüktür ve lezzet daha hafiftir — Fage'yi çok keskin bulan kişilere hitap eden nazik asitlik. Ons başına biraz daha pahalıya mal olur.",
-      "pros": ["Çimen beslemeli süt kaynağıyla USDA sertifikalı organik", "Etiket üzerinde listelenen 5 adlandırılmış canlı probiyotik kültür", "Fage'yi çok ekşi bulanlar için hafif lezzet çekici"],
-      "cons": ["Biraz daha düşük protein (14–15g) ve Chobani veya Fage'den ons başına daha yüksek maliyet"],
+      "pros": [
+        "Çimen beslemeli süt kaynağıyla USDA sertifikalı organik",
+        "Etiket üzerinde listelenen 5 adlandırılmış canlı probiyotik kültür",
+        "Fage'yi çok ekşi bulanlar için hafif lezzet çekici"
+      ],
+      "cons": [
+        "Biraz daha düşük protein (14–15g) ve Chobani veya Fage'den ons başına daha yüksek maliyet"
+      ],
       "grade": "B-",
-      "specs": {"Servis": "5,3 oz", "Protein": "14–15g", "Sertifikasyon": "USDA Organik", "Süt kaynağı": "Çimen beslemeli", "Probiyotikler": "5 adlandırılmış suş", "Yağ": "%0", "Fiyat": "~$7,99"},
-      "scores": {"Protein": 4.2, "Tat": 4.3, "Değer": 3.8, "Doku": 4.2, "İçerik kalitesi": 4.9}
+      "specs": {
+        "Servis": "5,3 oz",
+        "Protein": "14–15g",
+        "Sertifikasyon": "USDA Organik",
+        "Süt kaynağı": "Çimen beslemeli",
+        "Probiyotikler": "5 adlandırılmış suş",
+        "Yağ": "%0",
+        "Fiyat": "~$7,99"
+      },
+      "scores": {
+        "Protein": 4.2,
+        "Tat": 4.3,
+        "Değer": 3.8,
+        "Doku": 4.2,
+        "İçerik kalitesi": 4.9
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Servis başına maksimum protein için", "offerId": "fage-total-0", "reason": "Sadece 2 içerik ve koyulaştırıcı olmadan 7 oz'da 18–19g protein"},
-    {"label": "Günlük pişirme ve değer için", "offerId": "chobani-plain-nonfat", "reason": "Temiz 3 içerik formülüyle 32 oz'luk büyük kapta protein gramı başına en iyi maliyet"},
-    {"label": "Çok düşük şeker alımı için", "offerId": "siggis-icelandic-yogurt", "reason": "17g proteinle servis başına sadece 6g toplam karbonhidrat — buradaki en düşük şeker-protein oranı"},
-    {"label": "Yapay tatlandırıcısız lezzetli yoğurt için", "offerId": "oikos-triple-zero", "reason": "Sıfır eklenmiş şeker ve stevia veya sukroloz olmadan monk meyvesiyle tatlandırılmış"},
-    {"label": "Organik ve çimen beslemeli kaynak için", "offerId": "stonyfield-organic-greek", "reason": "USDA organik, çimen beslemeli süt ve etiket üzerinde 5 adlandırılmış probiyotik suş"}
+    {
+      "label": "Servis başına maksimum protein için",
+      "offerId": "fage-total-0",
+      "reason": "Sadece 2 içerik ve koyulaştırıcı olmadan 7 oz'da 18–19g protein"
+    },
+    {
+      "label": "Günlük pişirme ve değer için",
+      "offerId": "chobani-plain-nonfat",
+      "reason": "Temiz 3 içerik formülüyle 32 oz'luk büyük kapta protein gramı başına en iyi maliyet"
+    },
+    {
+      "label": "Çok düşük şeker alımı için",
+      "offerId": "siggis-icelandic-yogurt",
+      "reason": "17g proteinle servis başına sadece 6g toplam karbonhidrat — buradaki en düşük şeker-protein oranı"
+    },
+    {
+      "label": "Yapay tatlandırıcısız lezzetli yoğurt için",
+      "offerId": "oikos-triple-zero",
+      "reason": "Sıfır eklenmiş şeker ve stevia veya sukroloz olmadan monk meyvesiyle tatlandırılmış"
+    },
+    {
+      "label": "Organik ve çimen beslemeli kaynak için",
+      "offerId": "stonyfield-organic-greek",
+      "reason": "USDA organik, çimen beslemeli süt ve etiket üzerinde 5 adlandırılmış probiyotik suş"
+    }
   ]
 }

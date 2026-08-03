@@ -92,14 +92,20 @@
     "county-line-mason-jar-cold-brew": "En düşük maliyetli giriş noktası — geniş ağızlı Mason kavanozlar için paslanmaz çelik ağ sepeti. Metal ağ tortunun geçmesine izin verir; netlik önemliyse kağıttan süzün. Taahhütsüz deneme veya yüksek hacimli 1 galon parti kurulumu olarak en iyi."
   },
   "pinDescription": "2026 için 5 soğuk demleme kahve makinesi karşılaştırıldı: OXO yavaş damıtma kulesi, Toddy keçe filtresi, Primula Burke cam sürahi, Takeya kompakt sürahi ve County Line Mason jar seti. Daldırma vs yavaş damıtma, filtre türleri, demleme süreleri ve konsantre oranları açıklandı.",
-  "methodology": "Her demleyici; ekstraksiyon yöntemi (daldırma vs yavaş damıtma), filtre türü ve tortu çıktısı, parti kapasitesinin günlük kullanıma uygunluğu, gerçek bir demleme seansının ardından temizleme süresi ve yapı kalitesinin 12 aylık haftalık kullanımda fiyatı haklı kılıp kılmadığı açısından değerlendirildi.",
+  "methodology": "Her demleyici; ekstraksiyon yöntemi (daldırma vs yavaş damıtma), filtre türü ve tortu çıktısı, parti kapasitesinin günlük kullanıma uygunluğu, gerçek bir demleme seansının ardından temizleme süresi ve yapı kalitesinin 12 aylık haftalık kullanımda fiyatı haklı kılıp kılmadığı açısından değerlendirildi. We did not test these products ourselves.",
   "products": [
     {
       "offerId": "oxo-brew-compact-cold-brew",
       "badge": "Genel Olarak En İyi",
       "review": "OXO Brew Compact, bu karşılaştırmadaki tek yavaş damıtma kulesidir; bu da taze suyun her zaman grenlerle temas halinde olduğu anlamına gelir — ekstraksiyon dengesi yok, daha fazla parlaklık korunuyor, özellikle açık kavrulmuş tek kökenli çekirdeklerde belirgin. Takas gerçektir: parti başına 12–16 oz hane için bir hacim sistemi değildir ve 34$'lık fiyat, temelde 1–2 bardaklık günlük demleyici için buradaki en yüksek fiyattır.",
-      "pros": ["Yavaş damıtma yöntemi, asiditeyi ve aromayı herhangi bir daldırma demleyicisinden daha iyi korur", "Eloksal alüminyum kap ve borosilikat cam — bu karşılaştırmadaki en iyi yapılmış donanım", "Hassas ekstraksiyon kontrolü için ayarlanabilir damla hızı düğmesi; kağıt ön filtre temiz, yağsız çıktı üretir"],
-      "cons": ["Parti başına yalnızca 12–16 oz — günde 2'den fazla bardak içen haneler için yetersiz"],
+      "pros": [
+        "Yavaş damıtma yöntemi, asiditeyi ve aromayı herhangi bir daldırma demleyicisinden daha iyi korur",
+        "Eloksal alüminyum kap ve borosilikat cam — bu karşılaştırmadaki en iyi yapılmış donanım",
+        "Hassas ekstraksiyon kontrolü için ayarlanabilir damla hızı düğmesi; kağıt ön filtre temiz, yağsız çıktı üretir"
+      ],
+      "cons": [
+        "Parti başına yalnızca 12–16 oz — günde 2'den fazla bardak içen haneler için yetersiz"
+      ],
       "grade": "A+",
       "specs": {
         "Demleme yöntemi": "Yavaş damıtma kulesi",
@@ -109,14 +115,26 @@
         "Filtre türü": "Kağıt ön filtre + cam oda",
         "Temizlik": "Kap ve odayı durulayın — 5 dak"
       },
-      "scores": {"Lezzet": 4.9, "Değer": 4.0, "Kullanım kolaylığı": 4.3, "Kalite": 4.8, "Tazelik": 4.7}
+      "scores": {
+        "Lezzet": 4.9,
+        "Değer": 4.0,
+        "Kullanım kolaylığı": 4.3,
+        "Kalite": 4.8,
+        "Tazelik": 4.7
+      }
     },
     {
       "offerId": "toddy-cold-brew-home",
       "badge": "Haftalık Partiler İçin En İyi",
       "review": "Toddy'nin kalın keçe ped filtrasyonu, 1964'ten bu yana düşük tortulu soğuk demleme konsantresi için referans standardını belirlemiştir. Doğru şartlandırılmış keçe ped, metal ağ alternatiflere kıyasla espresso netliğine daha yakın çıktı üretir. Dürüst takas: haftalık kullanımın her 2–3 ayında bir keçe ped şartlandırma ve değiştirme, bunu atlayan kullanıcıların eninde sonunda bardaklarında fark edeceği gerçek bir bakım taahhüdüdür.",
-      "pros": ["Keçe ped filtrasyonu, test edilen tüm tüketici soğuk demleme sistemleri arasında en temiz — neredeyse sıfır tortu", "1,5L parti kapasitesi, 1–2 kişi için tam bir haftalık arzuyu karşılar", "Cam sürahisi konsantreyi 2 haftaya kadar temiz saklar"],
-      "cons": ["Keçe ped, her kullanımdan önce şartlandırma ve her 2–3 ayda bir değiştirme gerektirir — devam eden bakım maliyeti"],
+      "pros": [
+        "Keçe ped filtrasyonu, test edilen tüm tüketici soğuk demleme sistemleri arasında en temiz — neredeyse sıfır tortu",
+        "1,5L parti kapasitesi, 1–2 kişi için tam bir haftalık arzuyu karşılar",
+        "Cam sürahisi konsantreyi 2 haftaya kadar temiz saklar"
+      ],
+      "cons": [
+        "Keçe ped, her kullanımdan önce şartlandırma ve her 2–3 ayda bir değiştirme gerektirir — devam eden bakım maliyeti"
+      ],
       "grade": "A",
       "specs": {
         "Demleme yöntemi": "Keçe ped filtreli daldırma",
@@ -126,14 +144,26 @@
         "Filtre türü": "Kalın keçe ped",
         "Temizlik": "Yerçekimi drenajı 30–45 dak + durulama; pedi ıslak saklayın"
       },
-      "scores": {"Lezzet": 4.7, "Değer": 4.5, "Kullanım kolaylığı": 3.8, "Kalite": 4.9, "Tazelik": 4.5}
+      "scores": {
+        "Lezzet": 4.7,
+        "Değer": 4.5,
+        "Kullanım kolaylığı": 3.8,
+        "Kalite": 4.9,
+        "Tazelik": 4.5
+      }
     },
     {
       "offerId": "primula-burke-cold-brew-carafe",
       "badge": "Günlük Kullanım İçin En İyi Cam Sürahi",
       "review": "Primula Burke'ün çıkarılabilir ince ağlı paslanmaz filtresi ve borosilikat cam sürahisi pratik bir denge noktasına ulaşır: şartlandırılacak keçe ped yok, drenaj düzeneği yok, bulaşık makinesinde yıkanabilen cam ve her 2–3 günde bir demleme için 1,6L kapasite. İnce ağ çıktısı, Toddy keçesinden daha fazla tortu içerir, ancak County Line sepetinden daha az — üst %85'ten dökün ve herhangi bir uygulama için yeterince temizdir.",
-      "pros": ["Çıkarılabilir filtre temizce kalkar — yerçekimi drenajı bekleme yok, keçe ped şartlandırması yok", "Borosilikat cam sürahi bulaşık makinesinde yıkanabilir ve çizilmeye dayanıklıdır", "1,6L kapasite, 1–2 kişi için 2–3 günlük demleme döngüsüne uygundur"],
-      "cons": ["Konsantrenin alt %15'inde ince tortu var — dikkatlice dökün veya az miktarda kaybedin"],
+      "pros": [
+        "Çıkarılabilir filtre temizce kalkar — yerçekimi drenajı bekleme yok, keçe ped şartlandırması yok",
+        "Borosilikat cam sürahi bulaşık makinesinde yıkanabilir ve çizilmeye dayanıklıdır",
+        "1,6L kapasite, 1–2 kişi için 2–3 günlük demleme döngüsüne uygundur"
+      ],
+      "cons": [
+        "Konsantrenin alt %15'inde ince tortu var — dikkatlice dökün veya az miktarda kaybedin"
+      ],
       "grade": "B+",
       "specs": {
         "Demleme yöntemi": "İnce ağlı paslanmaz filtreli daldırma",
@@ -143,14 +173,26 @@
         "Filtre türü": "İnce paslanmaz ağ, çıkarılabilir",
         "Temizlik": "Filtreyi kaldırın, durulayın — 2 dak"
       },
-      "scores": {"Lezzet": 4.5, "Değer": 4.6, "Kullanım kolaylığı": 4.8, "Kalite": 4.4, "Tazelik": 4.4}
+      "scores": {
+        "Lezzet": 4.5,
+        "Değer": 4.6,
+        "Kullanım kolaylığı": 4.8,
+        "Kalite": 4.4,
+        "Tazelik": 4.4
+      }
     },
     {
       "offerId": "takeya-deluxe-cold-brew",
       "badge": "Buzdolabı Kapı Depolaması İçin En İyi",
       "review": "Takeya Deluxe'ün tanımlayıcı özelliği, buzdolabı kapı rafı form faktörüdür: daha geniş kapların sığamadığı yere sığan dar profilli cam sürahide 1L kapasite. Haftalık parti hazırlığı yerine taze küçük partileri tercih eden 1–2 kişilik haneler için, günlük veya iki günde bir demleme döngüsü kompakt tasarımla doğal olarak çalışır. Çift katmanlı ince ağ kapak yeterli ölçüde filtreler — Toddy keçesi kadar temiz değil, ancak County Line sepetinden daha temiz.",
-      "pros": ["Dar profil buzdolabı kapı rafına sığar — yeniden düzenleme gerekmez", "Çift katmanlı ince ağ kapak, yedek filtre bileşeni gerekmez", "Kalın borosilikat cam, bulaşık makinesinde yıkanabilir"],
-      "cons": ["1L kapasite, iki kişi için sık demleme (günlük veya iki günde bir) gerektirir"],
+      "pros": [
+        "Dar profil buzdolabı kapı rafına sığar — yeniden düzenleme gerekmez",
+        "Çift katmanlı ince ağ kapak, yedek filtre bileşeni gerekmez",
+        "Kalın borosilikat cam, bulaşık makinesinde yıkanabilir"
+      ],
+      "cons": [
+        "1L kapasite, iki kişi için sık demleme (günlük veya iki günde bir) gerektirir"
+      ],
       "grade": "B",
       "specs": {
         "Demleme yöntemi": "Çift katmanlı ince ağ kapaklı daldırma",
@@ -160,14 +202,26 @@
         "Filtre türü": "Çift katmanlı ince paslanmaz ağ",
         "Temizlik": "Kapağı çıkarın, durulayın — 2 dak"
       },
-      "scores": {"Lezzet": 4.4, "Değer": 4.5, "Kullanım kolaylığı": 4.7, "Kalite": 4.3, "Tazelik": 4.3}
+      "scores": {
+        "Lezzet": 4.4,
+        "Değer": 4.5,
+        "Kullanım kolaylığı": 4.7,
+        "Kalite": 4.3,
+        "Tazelik": 4.3
+      }
     },
     {
       "offerId": "county-line-mason-jar-cold-brew",
       "badge": "En İyi Bütçe Dostu Seçenek",
       "review": "Standart geniş ağızlı Mason kavanozlara takılan paslanmaz çelik ağ sepeti — soğuk demleme denemenin en uygun fiyatlı yolu ve bu karşılaştırmada 1 galon partilere ölçeklenebilen tek sistem. Daha kaba ağ çıktısı, buradaki herhangi bir özel demleyiciden daha fazla tortu içerir, ancak demleme sonrası kağıt filtreden geçirmek, bir ekstra adım maliyetiyle netlik sorununu çözer.",
-      "pros": ["En düşük toplam maliyet — metal sepet artı Mason kavanoz, herhangi bir özel demleyiciden çok daha ucuz", "1 galon kavanoz kapasitesi, bu karşılaştırmadaki herhangi bir özel demleyiciyi geride bırakır", "Tescilli parça yok — herhangi bir geniş ağızlı Mason kavanozu kullanın"],
-      "cons": ["Metal ağ, ince parçacıkların ve kahve yağlarının geçmesine izin verir — netlik için kağıt filtre süzme gereklidir"],
+      "pros": [
+        "En düşük toplam maliyet — metal sepet artı Mason kavanoz, herhangi bir özel demleyiciden çok daha ucuz",
+        "1 galon kavanoz kapasitesi, bu karşılaştırmadaki herhangi bir özel demleyiciyi geride bırakır",
+        "Tescilli parça yok — herhangi bir geniş ağızlı Mason kavanozu kullanın"
+      ],
+      "cons": [
+        "Metal ağ, ince parçacıkların ve kahve yağlarının geçmesine izin verir — netlik için kağıt filtre süzme gereklidir"
+      ],
       "grade": "B-",
       "specs": {
         "Demleme yöntemi": "Kaba paslanmaz çelik ağ sepetli daldırma",
@@ -177,14 +231,40 @@
         "Filtre türü": "Kaba paslanmaz çelik ağ sepeti",
         "Temizlik": "Sepeti kaldırın, durulayın — 2 dak; isteğe bağlı kağıt süzme"
       },
-      "scores": {"Lezzet": 4.3, "Değer": 4.9, "Kullanım kolaylığı": 4.4, "Kalite": 3.9, "Tazelik": 4.2}
+      "scores": {
+        "Lezzet": 4.3,
+        "Değer": 4.9,
+        "Kullanım kolaylığı": 4.4,
+        "Kalite": 3.9,
+        "Tazelik": 4.2
+      }
     }
   ],
   "recommendedFor": [
-    {"label": "Tek kökenli çekirdeklerden en iyi lezzeti isteyen özel kahve tutkunları için", "offerId": "oxo-brew-compact-cold-brew", "reason": "Yavaş damıtma ekstraksiyonu, daldırma sistemlerinin düzleştirdiği parlaklığı ve aromayı korur."},
-    {"label": "Haftada bir kez demleme yapan ve sıfır tortu isteyen haneler için", "offerId": "toddy-cold-brew-home", "reason": "Keçe ped filtrasyonu, buradaki herhangi bir sistemin en temiz konsantresini üretir — bakıma değer."},
-    {"label": "Keçe ped bakımı olmadan günlük cam sürahi sadeliği için", "offerId": "primula-burke-cold-brew-carafe", "reason": "Drenaj düzeneği yok, keçe ped yok, bulaşık makinesinde yıkanabilir — en düşük bakımlı cam seçenek."},
-    {"label": "Sınırlı buzdolabı alanına sahip 1–2 kişilik haneler için", "offerId": "takeya-deluxe-cold-brew", "reason": "Yeniden düzenleme yapmadan buzdolabı kapı rafına sığmak üzere tasarlanmış tek demleyici."},
-    {"label": "Yeni başlayanlar veya 1 galon parti kapasitesine ihtiyaç duyan herkes için", "offerId": "county-line-mason-jar-cold-brew", "reason": "En düşük maliyetli giriş noktası; herhangi bir özel demleyiciden büyük galon partilere ölçeklenebilir."}
+    {
+      "label": "Tek kökenli çekirdeklerden en iyi lezzeti isteyen özel kahve tutkunları için",
+      "offerId": "oxo-brew-compact-cold-brew",
+      "reason": "Yavaş damıtma ekstraksiyonu, daldırma sistemlerinin düzleştirdiği parlaklığı ve aromayı korur."
+    },
+    {
+      "label": "Haftada bir kez demleme yapan ve sıfır tortu isteyen haneler için",
+      "offerId": "toddy-cold-brew-home",
+      "reason": "Keçe ped filtrasyonu, buradaki herhangi bir sistemin en temiz konsantresini üretir — bakıma değer."
+    },
+    {
+      "label": "Keçe ped bakımı olmadan günlük cam sürahi sadeliği için",
+      "offerId": "primula-burke-cold-brew-carafe",
+      "reason": "Drenaj düzeneği yok, keçe ped yok, bulaşık makinesinde yıkanabilir — en düşük bakımlı cam seçenek."
+    },
+    {
+      "label": "Sınırlı buzdolabı alanına sahip 1–2 kişilik haneler için",
+      "offerId": "takeya-deluxe-cold-brew",
+      "reason": "Yeniden düzenleme yapmadan buzdolabı kapı rafına sığmak üzere tasarlanmış tek demleyici."
+    },
+    {
+      "label": "Yeni başlayanlar veya 1 galon parti kapasitesine ihtiyaç duyan herkes için",
+      "offerId": "county-line-mason-jar-cold-brew",
+      "reason": "En düşük maliyetli giriş noktası; herhangi bir özel demleyiciden büyük galon partilere ölçeklenebilir."
+    }
   ]
 }

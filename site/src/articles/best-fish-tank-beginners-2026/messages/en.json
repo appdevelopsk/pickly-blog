@@ -69,48 +69,108 @@
       "offerId": "aqueon-10-gallon-starter",
       "badge": "Best overall starter kit",
       "review": "The Aqueon 10 Gallon Starter Kit is the most complete, accessible beginner package in this roundup. The included QuietFlow 10 filter is a proper HOB unit that runs quietly and is easy to service when you need to change media. The LED hood provides adequate lighting for fish keeping and basic plant growth. At $80 for a kit that requires only gravel, a heater, and fish to get started, the value is hard to dispute. The 10-gallon size is the sweet spot for beginners — big enough to maintain stable water, small enough to fit on most furniture.",
-      "pros": ["Complete kit needs only heater and fish", "Proper HOB filter included", "Widely available accessories"],
-      "cons": ["LED light not ideal for demanding plants", "Heater sold separately"],
-      "specs": { "Size": "10 gallons", "Filter": "QuietFlow HOB", "Lighting": "LED", "Price": "$80" },
+      "pros": [
+        "Complete kit needs only heater and fish",
+        "Proper HOB filter included",
+        "Widely available accessories"
+      ],
+      "cons": [
+        "LED light not ideal for demanding plants",
+        "Heater sold separately"
+      ],
+      "specs": {
+        "Size": "10 gallons",
+        "Filter": "QuietFlow HOB",
+        "Lighting": "LED",
+        "Price": "$80"
+      },
       "grade": "A"
     },
     {
       "offerId": "marineland-portrait-5g",
       "badge": "Best desktop/betta tank",
       "review": "Marineland Portrait's curved glass and vertical proportions make it the most aesthetically appealing option in this group. The hidden rear filtration chamber keeps the viewing area uncluttered, and the three-stage filter (mechanical, chemical, biological) is genuinely effective for a 5-gallon tank. The sliding glass canopy keeps jumping fish contained. Purpose-built for a single betta or a small nano fish/shrimp setup. At $60 it's priced higher per gallon than the Aqueon but the design quality justifies it.",
-      "pros": ["Sleek curved glass design", "Hidden rear filter chamber", "Sliding glass top"],
-      "cons": ["5 gallons limits stocking", "Small size means more frequent water changes"],
-      "specs": { "Size": "5 gallons", "Filter": "3-stage rear chamber", "Lighting": "LED with brightness control", "Price": "$60" },
+      "pros": [
+        "Sleek curved glass design",
+        "Hidden rear filter chamber",
+        "Sliding glass top"
+      ],
+      "cons": [
+        "5 gallons limits stocking",
+        "Small size means more frequent water changes"
+      ],
+      "specs": {
+        "Size": "5 gallons",
+        "Filter": "3-stage rear chamber",
+        "Lighting": "LED with brightness control",
+        "Price": "$60"
+      },
       "grade": "A-"
     },
     {
       "offerId": "fluval-spec-v-5g",
       "badge": "Best premium 5-gallon",
       "review": "Fluval Spec V is built to a noticeably higher standard than most kits at this size. The aluminum trim, thick glass, and powerful circulation pump make it feel like a product that will last years rather than months. The 37-LED light is strong enough to grow a wide range of low-to-medium light plants, making it the best choice for a planted betta tank. At $140 it's the most expensive option here and nearly double the cost of the Marineland Portrait — worth it for buyers who want to grow into the hobby rather than replace equipment.",
-      "pros": ["Premium build quality", "Strong plant-capable LED", "Long-term upgrade path"],
-      "cons": ["Most expensive option", "5-gallon limit remains regardless of quality"],
-      "specs": { "Size": "5 gallons", "Filter": "Circulation pump + 3-stage", "Lighting": "37-LED", "Price": "$140" },
+      "pros": [
+        "Premium build quality",
+        "Strong plant-capable LED",
+        "Long-term upgrade path"
+      ],
+      "cons": [
+        "Most expensive option",
+        "5-gallon limit remains regardless of quality"
+      ],
+      "specs": {
+        "Size": "5 gallons",
+        "Filter": "Circulation pump + 3-stage",
+        "Lighting": "37-LED",
+        "Price": "$140"
+      },
       "grade": "A+"
     },
     {
       "offerId": "tetra-10-gallon-complete",
       "badge": "Best budget 10-gallon",
       "review": "Tetra's 10 Gallon Aquarium Kit gets the job done at the lowest price for a full 10-gallon setup. The included Tetra Whisper filter is a reliable HOB unit, and the LED lighting works for fish keeping. The acrylic top scratches more easily than glass alternatives, and the filter's impeller is louder than Aqueon's QuietFlow. But at $65 the core function — a working, adequately filtered 10-gallon tank — is delivered. A good choice if the Aqueon is out of stock or budget is the primary constraint.",
-      "pros": ["Lowest price complete 10-gallon kit", "Reliable Whisper filter", "Widely available"],
-      "cons": ["Acrylic top scratches easily", "Filter slightly louder than competitors"],
-      "specs": { "Size": "10 gallons", "Filter": "Whisper HOB", "Lighting": "LED", "Price": "$65" },
+      "pros": [
+        "Lowest price complete 10-gallon kit",
+        "Reliable Whisper filter",
+        "Widely available"
+      ],
+      "cons": [
+        "Acrylic top scratches easily",
+        "Filter slightly louder than competitors"
+      ],
+      "specs": {
+        "Size": "10 gallons",
+        "Filter": "Whisper HOB",
+        "Lighting": "LED",
+        "Price": "$65"
+      },
       "grade": "B+"
     },
     {
       "offerId": "penn-plax-tank-20g",
       "badge": "Best for community setups",
       "review": "Penn Plax's 20-gallon starter is the choice for beginners who know from the start they want a community fish setup. The additional volume compared to 10-gallon kits makes stocking multiple species practical and gives a much longer window to catch and correct water quality issues before fish are affected. The included curved glass front provides a wider viewing angle. The filter and lighting are starter-grade but functional. At $90 it's a fair entry price for 20 gallons of usable volume.",
-      "pros": ["20-gallon volume for community fish", "Curved glass front panel", "Reasonable price for size"],
-      "cons": ["Starter-grade included filter may need upgrading", "Larger footprint needs dedicated furniture"],
-      "specs": { "Size": "20 gallons", "Filter": "Internal HOB", "Lighting": "LED", "Price": "$90" },
+      "pros": [
+        "20-gallon volume for community fish",
+        "Curved glass front panel",
+        "Reasonable price for size"
+      ],
+      "cons": [
+        "Starter-grade included filter may need upgrading",
+        "Larger footprint needs dedicated furniture"
+      ],
+      "specs": {
+        "Size": "20 gallons",
+        "Filter": "Internal HOB",
+        "Lighting": "LED",
+        "Price": "$90"
+      },
       "grade": "B+"
     }
   ],
-  "methodology": "Tanks were evaluated on completeness of kit contents, filter quality and type, lighting adequacy for basic plant growth, build quality relative to price, and suitability for the most common beginner fish species. Water volume was weighted heavily as it directly correlates with stability and beginner success rates.",
-  "pinDescription": "Starting a fish tank? These 5 beginner aquariums ranked from 5 to 20 gallons — with filters, lighting, and everything you need to not kill your fish. #FishTank #AquariumBeginners #Fishkeeping"
+  "methodology": "Tanks were evaluated on completeness of kit contents, filter quality and type, lighting adequacy for basic plant growth, build quality relative to price, and suitability for the most common beginner fish species. Water volume was weighted heavily as it directly correlates with stability and beginner success rates. We did not test these products ourselves.",
+  "pinDescription": "Starting a fish tank? These 5 beginner aquariums ranked from 5 to 20 gallons — with filters, lighting, and everything you need to not kill your fish."
 }
