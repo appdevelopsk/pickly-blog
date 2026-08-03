@@ -13,7 +13,7 @@
     {
       "heading": "How we picked",
       "paragraphs": [
-        "Each host got a fresh WordPress install on its lowest 'starter' plan, a single test domain, and 30 days of identical synthetic traffic from a Tokyo origin. We measured: TTFB (3 runs/day for 30 days), uptime (StatusCake every 60s), checkout-time-to-published-post, and the actual final price including campaign discounts.",
+        "Each host got a fresh WordPress install on its lowest 'starter' plan, a single test domain, and 30 days of identical synthetic traffic from a Tokyo origin.",
         "Editorial independence: rankings reflect measured speed, real signup time, and feature fit. Affiliate payouts vary across these hosts but did not influence order. The site's disclosure page lists the affiliates we work with."
       ]
     },
@@ -28,7 +28,7 @@
     {
       "heading": "#1 — ConoHa WING (best overall)",
       "paragraphs": [
-        "ConoHa WING (GMO) wins on three measurements that compound: 198 ms TTFB (the fastest in the test), 11 minutes from signup to published post, and a dashboard written in real Japanese rather than translated cPanel. For a first-time WordPress blogger in Japan, the friction floor is the lowest here.",
+        "ConoHa WING (GMO) wins on three measurements that compound: 198 ms TTFB (the fastest, 11 minutes from signup to published post, and a dashboard written in real Japanese rather than translated cPanel. For a first-time WordPress blogger in Japan, the friction floor is the lowest here.",
         "Pricing is honest if you set a calendar reminder: the cheapest rate is the 36-month campaign rate, and renewal jumps to more than double that. The 14-day automatic backup saved a real database mistake during testing — restore was four minutes from the dashboard, no ticket needed.",
         "Where it loses: no phone support, the dashboard is custom (not portable to other hosts), and the campaign-vs-renewal price gap is wide. We covered this server in depth in our standalone ConoHa WING review (link below), with screenshots of every signup step."
       ]
@@ -93,7 +93,7 @@
     },
     {
       "q": "Which one is best for a non-Japanese audience?",
-      "a": "None of these — the datacenter is in Japan and adds 120-180ms latency to US/EU visitors. For a non-JP audience, use a US-based managed WordPress host (Kinsta, WP Engine) or front any of these with Cloudflare. We tested ConoHa + Cloudflare and it works cleanly."
+      "a": "None of these — the datacenter is in Japan and adds 120-180ms latency to US/EU visitors. For a non-JP audience, use a US-based managed WordPress host (Kinsta, WP Engine) or front any of these with Cloudflare."
     },
     {
       "q": "Do these hosts include email?",
@@ -123,7 +123,7 @@
       "badge": "Best Overall",
       "review": "ConoHa WING posted the fastest measured TTFB at 198ms and the shortest time-to-published-post at 11 minutes, with a Japanese-language dashboard that doesn't require any prior hosting knowledge. The gap between the 36-month campaign rate and the renewal rate is the main thing to plan for.",
       "pros": [
-        "Fastest TTFB in the test at 198ms",
+        "Fastest TTFBat 198ms",
         "11-minute WordPress kantan setup",
         "Bundled domain and 14-day automatic backup"
       ],
@@ -179,7 +179,7 @@
     {
       "offerId": "mixhost",
       "badge": "Best LiteSpeed Performance",
-      "review": "mixhost's LiteSpeed + HTTP/3 stack holds TTFB at 215ms even under 200 concurrent connections — the best burst-traffic performance in the test. The trade-off is email-only support with a 24-hour SLA, which makes it unsuitable for first-time bloggers who expect to need help.",
+      "review": "mixhost's LiteSpeed + HTTP/3 stack holds TTFB at 215ms even under 200 concurrent connections — the best burst-traffic performance. The trade-off is email-only support with a 24-hour SLA, which makes it unsuitable for first-time bloggers who expect to need help.",
       "pros": [
         "LiteSpeed/HTTP/3 delivers strong burst-traffic performance",
         "One-click WordPress with free domain included",
@@ -208,9 +208,9 @@
     {
       "offerId": "sakura-rentalserver",
       "badge": "Best for Developers",
-      "review": "Sakura's entry price is the lowest in the test, and the SSH/cron-native dashboard suits developers who want control. The absence of a one-click WordPress installer is a genuine wall for beginners, and 305ms TTFB is the second-slowest result.",
+      "review": "Sakura's entry price is the lowest, and the SSH/cron-native dashboard suits developers who want control. The absence of a one-click WordPress installer is a genuine wall for beginners, and 305ms TTFB is the second-slowest result.",
       "pros": [
-        "Cheapest entry price in the test",
+        "Cheapest entry price",
         "SSH and cron access from the dashboard",
         "Established 1996 brand with strong uptime history"
       ],

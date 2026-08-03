@@ -13,7 +13,7 @@
     {
       "heading": "Como escolhemos",
       "paragraphs": [
-        "Cada host recebeu uma instalação nova do WordPress no plano starter mais baixo, um domínio de teste e 30 dias do mesmo tráfego sintético com origem em Tóquio. Medimos: TTFB (3 leituras/dia por 30 dias), uptime (StatusCake a cada 60s), tempo do cadastro até o primeiro post publicado e o preço final real com descontos de campanha.",
+        "Cada host recebeu uma instalação nova do WordPress no plano starter mais baixo, um domínio de teste e 30 dias do mesmo tráfego sintético com origem em Tóquio.",
         "Independência editorial: a ordem reflete velocidade medida, tempo real de cadastro e adequação de recursos. As comissões variam entre os hosts mas não influenciaram a ordem. A página /disclosure lista os afiliados com os quais trabalhamos."
       ]
     },
@@ -93,7 +93,7 @@
     },
     {
       "q": "Qual é melhor para audiência fora do Japão?",
-      "a": "Nenhum desses — o datacenter é no Japão e adiciona 120-180 ms de latência para visitantes US/EU. Pra audiência não-JP, use host gerenciado WordPress nos EUA (Kinsta, WP Engine) ou ponha Cloudflare na frente de qualquer um deles. Testamos ConoHa + Cloudflare e funciona limpo."
+      "a": "Nenhum desses — o datacenter é no Japão e adiciona 120-180 ms de latência para visitantes US/EU. Pra audiência não-JP, use host gerenciado WordPress nos EUA (Kinsta, WP Engine) ou ponha Cloudflare na frente de qualquer um deles."
     },
     {
       "q": "Eles incluem email?",

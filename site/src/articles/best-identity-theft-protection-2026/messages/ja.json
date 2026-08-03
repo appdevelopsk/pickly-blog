@@ -72,7 +72,7 @@
     },
     {
       "q": "これらのサービスはどのくらい早く漏洩を検知しますか？",
-      "a": "合成情報を使った実測では：Auraが4時間以内、IDShieldが約6時間、LifeLockが11時間、IdentityForceが14時間、Experianが18時間で検知しました。検知速度は、サービスが監視するデータソースの数と、漏洩通知データベースと直接提携しているかどうかによって変わります。"
+      "a": "検知速度は、サービスが監視するデータソースの数と、漏洩通知データベースと直接提携しているかどうかによって変わります。"
     },
     {
       "q": "LifeLockはNorton 360と同じものですか？",
@@ -97,7 +97,7 @@
   ],
   "offerNotes": {
     "lifelock-ultimate-plus": "Norton 360（VPN＋5台分ウイルス対策）付き；約450万円の賠償保障；SNSなりすましアカウント監視",
-    "aura-id-protection-family": "最大5名まで月額約5,550円（1人あたり約1,110円）；約750万円の賠償上限；実測で最速のダークウェブ検知（4時間以内）",
+    "aura-id-protection-family": null,
     "identityforce-ultrasecure": "月額3,600円以下の最高コスパ；銀行口座乗っ取りモニタリング；米国内の復旧担当者が対応",
     "idshield-3bureau-family": "認定民間調査員による復旧相談が付く唯一のサービス；未成年の子ども人数無制限；約450万円の賠償保障",
     "experian-identityworks-premium": "3社すべてからのリアルFICOスコア更新；Experian直接モニタリング；Experian Boostでスコア改善も可能"

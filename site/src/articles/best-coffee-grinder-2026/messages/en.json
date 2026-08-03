@@ -4,10 +4,10 @@
   "lede": "A flagship pro grinder against a budget manual. Particle distribution, brew time, and what your tongue actually notices.",
   "sections": [
     {
-      "heading": "How we tested",
+      "heading": "How we compared",
       "paragraphs": [
         "We ground 20g of medium roast at the same target setting on each grinder, then measured grind weight by sieve (400-600 micron range), brew time on a V60 dripper at 90C, and TDS on the resulting cup. Three repetitions per machine.",
-        "Cost figures are the median price on major online retailers in May 2026. Manual grinders were timed by a single operator with a metronome to keep cranking pace consistent."
+        "Cost figures are the median price on major online retailers in May 2026."
       ]
     },
     {
@@ -63,7 +63,7 @@
   "offerNotes": {
     "timemore-c2": "Best overall — go here unless you have a specific reason not to.",
     "hario-v60-ceramic-slim": "Cheapest viable entry — buy this only if you're testing whether you'll stick with manual brewing.",
-    "melitta-vario-e": "Best mid-range electric — quietest in our test, espresso-capable.",
+    "melitta-vario-e": "Best mid-range electric — quietest, espresso-capable.",
     "delonghi-kg79j": "Best budget electric — drip-only, but the cheapest electric we'd recommend.",
     "fuji-royal-r220": "Cafe-grade — overkill for 1-2 cups a day, but lasts a decade and feeds a household."
   },
@@ -73,7 +73,7 @@
     {
       "offerId": "timemore-c2",
       "badge": "Best Overall",
-      "review": "The Timemore C2 is the grinder we keep coming back to for daily V60 and Aeropress brewing. The stainless conical burr produces a tighter particle distribution than every entry-to-mid-range electric we tested, and the aluminum body with a knurled grip is comfortable enough to crank through 20 g of medium roast in about 45 seconds without slipping. Adjustment is by numbered clicks on a stepped collar, which makes returning to a known setting trivial. There is no electricity, no noise, and no wear part to replace for several years of household use. For one or two cups a day, this is the highest-leverage upgrade in this entire price bracket.",
+      "review": "The Timemore C2 is the grinder we keep coming back to for daily V60 and Aeropress brewing. Adjustment is by numbered clicks on a stepped collar, which makes returning to a known setting trivial. There is no electricity, no noise, and no wear part to replace for several years of household use. For one or two cups a day, this is the highest-leverage upgrade in this entire price bracket.",
       "pros": [
         "Particle uniformity beats every entry-to-mid-range electric",
         "Stepped adjustment makes settings repeatable",
@@ -165,7 +165,7 @@
     {
       "label": "The morning-electric user",
       "offerId": "melitta-vario-e",
-      "reason": "Quiet enough for an early-morning shared apartment and the only non-flagship grinder we tested that actually handles espresso."
+      "reason": null
     },
     {
       "label": "The budget electric buyer",
