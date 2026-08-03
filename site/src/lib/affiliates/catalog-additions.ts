@@ -2714,7 +2714,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dehumidifier-sharp-jp",
-    "imageUrl": "https://mahajanelectronics.com/cdn/shop/files/716FHVxwbkL._SL1500.jpg?v=1703674634",
+    "imageUrl": "https://m.media-amazon.com/images/I/71pC4-O-T9L._AC_.jpg",
     "priceMin": "20000",
     "priceMax": "45000",
     "category": "home",
@@ -3572,7 +3572,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ergo-mouse-evoluent-vertical-4",
-    "imageUrl": "https://cdn.shopify.com/s/files/1/1210/9280/products/evoluent_VM4RW_spo_1024x1024.jpg?v=1503452897",
+    "imageUrl": "https://m.media-amazon.com/images/I/71mwgFVQCgL.jpg",
     "priceMin": "8000",
     "priceMax": "12000",
     "category": "tech",
@@ -7267,7 +7267,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "monitor-benq-pd2705ua",
-    "imageUrl": "https://adsstore.in/wp-content/uploads/2026/03/BenQ-PD2705UA-1024x1024.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71nQR1CIX2L._AC_SS450_.jpg",
     "priceMin": "479",
     "priceMax": "599",
     "category": "tech",
@@ -11089,7 +11089,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "spirulina-earthrise-naturals",
-    "imageUrl": "https://www.perfumestore.sg/wp-content/uploads/2022/03/4-150.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81k-0VHygeS._AC_SL1500_.jpg",
     "priceMin": "20",
     "priceMax": "35",
     "category": "food",
@@ -16004,7 +16004,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "wahl-bravura-lithium",
-    "imageUrl": "https://ca.wahl.com/cdn/shop/files/59177BravuraBlue-7.png?v=1731092147&width=1445",
+    "imageUrl": "https://m.media-amazon.com/images/I/513ELmjKQmL._AC_SL1000_.jpg",
     "priceMin": "$150",
     "priceMax": "$200",
     "category": "pets",
@@ -29922,7 +29922,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "kobalt-80v-21-mower",
-    "imageUrl": "",
+    "imageUrl": "https://mobileimages.lowes.com/productimages/f6f3499a-95f5-42b3-9e8f-d4ada9c90b96/66694417.jpeg?size=pdhism",
     "priceMin": "$400",
     "priceMax": "$550",
     "category": "home",
@@ -30468,7 +30468,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ryobi-ry142300-2300-psi",
-    "imageUrl": "https://resources.claroshop.com/medios-plazavip/mkt/6215b86df331c_3jpg.jpg?scale=50&qlty=75",
+    "imageUrl": "https://resources.claroshop.com/medios-plazavip/mkt/6215b84d614ba_6jpg.jpg?scale=50&qlty=75",
     "priceMin": "$180",
     "priceMax": "$240",
     "category": "home",
@@ -34030,7 +34030,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "contigo-autoseal-west-loop",
-    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61rxMvX9BKL._AC_SL1500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81ovAyOs1tL._AC_SL1500_.jpg",
     "priceMin": "$22",
     "priceMax": "$30",
     "category": "travel",
@@ -36682,7 +36682,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "activecampaign-plus",
-    "imageUrl": "",
+    "imageUrl": "https://www.softwareglimpse.com/wp-content/uploads/2023/06/activecampaign-crm-review.jpg?is-pending-load=1",
     "priceMin": "$29",
     "priceMax": "$400",
     "category": "tech",
@@ -43491,7 +43491,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "versace-eros-edt",
-    imageUrl: "https://images-na.ssl-images-amazon.com/images/I/816b-quQsvL._SL1500_.jpg",
+    imageUrl: "https://m.media-amazon.com/images/I/615iuz0R+EL.jpg",
     category: "beauty",
     name: { en: "Versace Eros Edt" },
     description: { en: "Versace Eros (EDT) is the value pick for a bold, sexy, crowd-pleasing scent at a noticeably lower price." },
