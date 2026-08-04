@@ -145,6 +145,13 @@ jobs:
           NEXT_PUBLIC_OG_BASE_URL: ${{ vars.OG_BASE_URL }}
         run: npm run build
 
+      # ★出力に対する門番。ソースを読んでも分からない不具合を止める (2026-08-04):
+      #   アフィリタグの無い Amazon リンク625本(クリックしても1円にならない)、
+      #   全ロケールで英語のままの <title> 971ページ、「Pickly | Pickly」の二重ブランド。
+      #   いずれも画面上は正常に見えるので、出来上がった HTML を検査するしかない。
+      - name: Gate the built output
+        run: npm run check:output
+
       # Cloudflare Pages は1デプロイ20,000ファイルまで。記事の解放でこれを超えて
       # デプロイが落ちた(2026-08-03: 20,361ファイル)。Next の静的エクスポートは
       # ページごとに index.html と index.txt(クライアント遷移用のRSCペイロード)を

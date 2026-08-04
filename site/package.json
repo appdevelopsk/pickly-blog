@@ -25,7 +25,8 @@
     "indexnow": "tsx scripts/indexnow-submit.ts",
     "bing:submit": "tsx scripts/bing-submit.ts",
     "audit:hardcoded": "node scripts/check-hardcoded-ui.mjs",
-    "prebuild": "node scripts/check-hardcoded-ui.mjs"
+    "prebuild": "node scripts/check-hardcoded-ui.mjs",
+    "check:output": "node scripts/check-built-output.mjs"
   },
   "dependencies": {
     "fuse.js": "^7.4.2",
