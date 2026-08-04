@@ -151,8 +151,10 @@ export default async function ArticlesPage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
+  // ★同上。空文字が返るので catch では拾えない。
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
-    try { return t(key, values); } catch { return fallback; }
+    const v = t(key, values);
+    return v ? v : fallback;
   };
   const articles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
 

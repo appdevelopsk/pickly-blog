@@ -58,8 +58,10 @@ export default async function GiftPage({ params }: Props) {
   if (!config) notFound();
 
   const t = await getTranslations();
+  // ★同上。空文字が返るので catch では拾えない。
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
-    try { return t(key, values); } catch { return fallback; }
+    const v = t(key, values);
+    return v ? v : fallback;
   };
 
   const allArticles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
@@ -250,8 +252,10 @@ export async function generateMetadata({ params }: Props) {
   // ★本文はこの翻訳を 17 言語で出しているのに、metadata だけ英語直書きだった。
   //   SERP に出るのは metadata の方なので、本文と同じキーを引く (2026-08-04)。
   const t = await getTranslations({ locale });
+  // ★同上。空文字が返るので catch では拾えない。
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
-    try { return t(key, values); } catch { return fallback; }
+    const v = t(key, values);
+    return v ? v : fallback;
   };
   const title = tt(`giftPages.${occasion}.title`, config.title);
   const description = tt(`giftPages.${occasion}.description`, config.description);

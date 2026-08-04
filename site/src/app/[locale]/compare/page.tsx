@@ -31,8 +31,10 @@ export default async function CompareIndexPage({ params }: Props) {
     (c) => availableSlugs.has(c.slugA) || availableSlugs.has(c.slugB),
   );
   const t = await getTranslations();
+  // ★同上。空文字が返るので catch では拾えない。
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
-    try { return t(key, values); } catch { return fallback; }
+    const v = t(key, values);
+    return v ? v : fallback;
   };
 
   return (
@@ -69,8 +71,11 @@ export async function generateMetadata({ params }: Props) {
   // ★本文は pages.compareHeading / pages.compareLead を 17 言語で出しているのに、
   //   metadata だけ英語直書きだった。SERP に出るのは metadata の方なので、そこを揃える。
   const t = await getTranslations({ locale });
+  // ★t() は throw しない。request.ts の getMessageFallback が空文字を返す設計なので
+  //   catch は永久に発火せず、キーが欠けるとタイトルが空になる。空なら未翻訳と判定する。
   const tt = (key: string, fallback: string): string => {
-    try { return t(key); } catch { return fallback; }
+    const v = t(key);
+    return v ? v : fallback;
   };
   const title = tt("pages.compareHeading", "Compare Products");
   const description = tt("pages.compareLead",

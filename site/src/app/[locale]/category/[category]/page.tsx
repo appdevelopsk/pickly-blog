@@ -88,8 +88,10 @@ export default async function CategoryPage({ params }: Props) {
   if (!VALID_CATEGORIES.includes(category as ArticleCategory)) notFound();
 
   const t = await getTranslations();
+  // ★同上。空文字が返るので catch では拾えない。
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
-    try { return t(key, values); } catch { return fallback; }
+    const v = t(key, values);
+    return v ? v : fallback;
   };
 
   const allInCat = listArticlesForLocale(locale).filter((a) => a.category === category);

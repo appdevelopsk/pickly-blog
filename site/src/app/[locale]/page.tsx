@@ -80,8 +80,10 @@ export default async function HomePage({ params }: Props) {
   setRequestLocale(locale);
   const t = await getTranslations();
   // ローカライズ済みUI文字列(キー欠落ロケールでも英語フォールバックで壊れない)
+  // ★同上。空文字が返るので catch では拾えない。
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
-    try { return t(key, values); } catch { return fallback; }
+    const v = t(key, values);
+    return v ? v : fallback;
   };
   const typeLabels: Record<string, string> = {
     comparison: tt("home.typeComparison", "Comparison"),

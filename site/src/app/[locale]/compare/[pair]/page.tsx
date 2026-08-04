@@ -66,8 +66,10 @@ export default async function ComparePage({ params }: Props) {
   if (!config) notFound();
 
   const t = await getTranslations();
+  // ★同上。空文字が返るので catch では拾えない。
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
-    try { return t(key, values); } catch { return fallback; }
+    const v = t(key, values);
+    return v ? v : fallback;
   };
 
   const allArticles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
@@ -234,8 +236,11 @@ export async function generateMetadata({ params }: Props) {
   //   結果 /ja/compare/... の <title> が英語のまま SERP に出ていた(全135ページ)。
   //   本文と同じ翻訳を引き、足りなければ英語へ落ちる。
   const t = await getTranslations({ locale });
+  // ★t() は throw しない。request.ts の getMessageFallback が空文字を返す設計なので
+  //   catch は永久に発火せず、キーが欠けるとタイトルが空になる。空なら未翻訳と判定する。
   const tt = (key: string, fallback: string): string => {
-    try { return t(key); } catch { return fallback; }
+    const v = t(key);
+    return v ? v : fallback;
   };
   const base = tt(`comparePages.${pair}.title`, config.title);
   const suffix = tt("compareTitleSuffix", ": Which Is Better?");

@@ -101,8 +101,10 @@ export default async function UnderBudgetPage({ params }: Props) {
   if (!VALID_BUDGETS.includes(budgetKey as Budget)) notFound();
 
   const t = await getTranslations();
+  // ★同上。空文字が返るので catch では拾えない。
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
-    try { return t(key, values); } catch { return fallback; }
+    const v = t(key, values);
+    return v ? v : fallback;
   };
   const threshold = parseInt(budgetKey, 10);
   const label = BUDGET_LABELS[budgetKey as Budget];
@@ -250,8 +252,10 @@ export async function generateMetadata({ params }: Props) {
   const label = BUDGET_LABELS[budgetKey as Budget];
   // ★本文は 17 言語で出しているのに metadata だけ英語直書きだった (2026-08-04)。
   const t = await getTranslations({ locale });
+  // ★同上。空文字が返るので catch では拾えない。
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
-    try { return t(key, values); } catch { return fallback; }
+    const v = t(key, values);
+    return v ? v : fallback;
   };
   const title = tt("pages.underTitle", `Best Products ${label} in 2026`, { budget: budgetKey });
   const description = tt("pages.underDesc", `Tested product reviews where every top pick stays ${label}.`, { budget: budgetKey });
