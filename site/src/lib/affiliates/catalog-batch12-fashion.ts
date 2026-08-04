@@ -215,7 +215,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
       en: "Affordable faux-leather ballet flat in a clean silhouette. Available in wide size range including wide widths. Suitable for office and casual wear.",
       ja: "クリーンなシルエットの手頃な価格のフェイクレザーバレエフラット。ワイドサイズを含む幅広いサイズ展開。オフィスとカジュアル着用に対応。",
     },
-    links: [{ network: "direct", productId: "https://www.amazon.com/s?k=amazon+essentials+women+ballet+flat", markets: ["global"], approved: true }],
+    links: [{ network: "amazon-us", productId: "amazon essentials women ballet flat", markets: ["global"], approved: true }],
   },
 
   // --- best-wide-leg-pants-2026 ---
@@ -503,7 +503,7 @@ export const CATALOG_BATCH12_FASHION: AffiliateOffer[] = [
       en: "Affordable soft jersey maxi in clean cut. Washes well without losing shape. Available in wide size range including plus sizes for casual and beach wear.",
       ja: "クリーンなカットの手頃な価格の柔らかいジャージーマキシ。洗濯後も形を保つ。カジュアルとビーチ着用向けにプラスサイズを含む幅広いサイズ展開。",
     },
-    links: [{ network: "direct", productId: "https://www.amazon.com/s?k=daily+ritual+maxi+dress", markets: ["global"], approved: true }],
+    links: [{ network: "amazon-us", productId: "daily ritual maxi dress", markets: ["global"], approved: true }],
   },
 
   // --- best-wrap-dress-2026 ---

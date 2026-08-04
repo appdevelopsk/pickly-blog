@@ -91,8 +91,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Petsfit+portable+dog+booster+seat",
+        network: "amazon-us",
+        productId: "Petsfit portable dog booster seat",
         markets: ["global"],
         approved: true,
       },
@@ -169,8 +169,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Vivaglory+dog+life+jacket",
+        network: "amazon-us",
+        productId: "Vivaglory dog life jacket",
         markets: ["global"],
         approved: true,
       },
@@ -188,8 +188,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Kyjen+float+coat+dog+life+jacket",
+        network: "amazon-us",
+        productId: "Kyjen float coat dog life jacket",
         markets: ["global"],
         approved: true,
       },
@@ -382,8 +382,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Hikenture+dog+shoes+anti-slip",
+        network: "amazon-us",
+        productId: "Hikenture dog shoes anti-slip",
         markets: ["global"],
         approved: true,
       },
@@ -422,8 +422,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Hertzko+self+cleaning+slicker+brush",
+        network: "amazon-us",
+        productId: "Hertzko self cleaning slicker brush",
         markets: ["global"],
         approved: true,
       },
@@ -479,8 +479,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Safari+wire+pin+dog+brush",
+        network: "amazon-us",
+        productId: "Safari wire pin dog brush",
         markets: ["global"],
         approved: true,
       },
@@ -519,8 +519,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Bags+on+Board+dog+poop+bags+dispenser",
+        network: "amazon-us",
+        productId: "Bags on Board dog poop bags dispenser",
         markets: ["global"],
         approved: true,
       },
@@ -538,8 +538,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Pet+N+Pet+compostable+dog+poop+bags",
+        network: "amazon-us",
+        productId: "Pet N Pet compostable dog poop bags",
         markets: ["global"],
         approved: true,
       },
@@ -557,8 +557,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Doggy+Do+Good+compostable+dog+bags",
+        network: "amazon-us",
+        productId: "Doggy Do Good compostable dog bags",
         markets: ["global"],
         approved: true,
       },
@@ -576,8 +576,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Pogis+poop+bags+extra+large",
+        network: "amazon-us",
+        productId: "Pogis poop bags extra large",
         markets: ["global"],
         approved: true,
       },
@@ -694,8 +694,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=KittyLounge+cat+window+perch",
+        network: "amazon-us",
+        productId: "KittyLounge cat window perch",
         markets: ["global"],
         approved: true,
       },
@@ -713,8 +713,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=PetPawJoy+cat+window+hammock",
+        network: "amazon-us",
+        productId: "PetPawJoy cat window hammock",
         markets: ["global"],
         approved: true,
       },
@@ -732,8 +732,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Boltz+pet+cat+window+seat",
+        network: "amazon-us",
+        productId: "Boltz pet cat window seat",
         markets: ["global"],
         approved: true,
       },
@@ -751,8 +751,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=KPBLIS+large+cat+window+perch",
+        network: "amazon-us",
+        productId: "KPBLIS large cat window perch",
         markets: ["global"],
         approved: true,
       },
@@ -810,8 +810,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=NICREW+ClassicLED+aquarium+light",
+        network: "amazon-us",
+        productId: "NICREW ClassicLED aquarium light",
         markets: ["global"],
         approved: true,
       },
@@ -848,8 +848,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Hygger+24+7+LED+aquarium+light",
+        network: "amazon-us",
+        productId: "Hygger 24 7 LED aquarium light",
         markets: ["global"],
         approved: true,
       },
@@ -867,8 +867,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Beamswork+EA+Timer+LED+aquarium+light",
+        network: "amazon-us",
+        productId: "Beamswork EA Timer LED aquarium light",
         markets: ["global"],
         approved: true,
       },
@@ -926,8 +926,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=ReptiBreeze+screen+enclosure+XL",
+        network: "amazon-us",
+        productId: "ReptiBreeze screen enclosure XL",
         markets: ["global"],
         approved: true,
       },
@@ -945,8 +945,8 @@ export const CATALOG_BATCH12_PETS: AffiliateOffer[] = [
     },
     links: [
       {
-        network: "direct",
-        productId: "https://www.amazon.com/s?k=Penn-Plax+Reptology+glass+terrarium+40+gallon",
+        network: "amazon-us",
+        productId: "Penn-Plax Reptology glass terrarium 40 gallon",
         markets: ["global"],
         approved: true,
       },

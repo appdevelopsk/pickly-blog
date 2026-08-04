@@ -99,8 +99,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Doctor%27s+Choice+6+Panel+Back+Brace",
+        "network": "amazon-us",
+        "productId": "Doctor's Choice 6 Panel Back Brace",
         "markets": [
           "global"
         ],
@@ -203,8 +203,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Xtreme+Comforts+bamboo+pillow",
+        "network": "amazon-us",
+        "productId": "Xtreme Comforts bamboo pillow",
         "markets": [
           "global"
         ],
@@ -255,8 +255,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Beckham+Hotel+Collection+bamboo+pillow",
+        "network": "amazon-us",
+        "productId": "Beckham Hotel Collection bamboo pillow",
         "markets": [
           "global"
         ],
@@ -281,8 +281,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=山崎実業+タワー+バスルーム+オーガナイザー",
+        "network": "amazon-jp",
+        "productId": "山崎実業 タワー バスルーム オーガナイザー",
         "markets": [
           "global"
         ],
@@ -385,8 +385,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=organize+it+wall+mount+bathroom+caddy",
+        "network": "amazon-us",
+        "productId": "organize it wall mount bathroom caddy",
         "markets": [
           "global"
         ],
@@ -411,8 +411,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Scivation+XTEND+Original+BCAA",
+        "network": "amazon-us",
+        "productId": "Scivation XTEND Original BCAA",
         "markets": [
           "global"
         ],
@@ -437,8 +437,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Optimum+Nutrition+Instantized+BCAA",
+        "network": "amazon-us",
+        "productId": "Optimum Nutrition Instantized BCAA",
         "markets": [
           "global"
         ],
@@ -463,8 +463,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=XTEND+Pro+BCAA+Powder+NSF",
+        "network": "amazon-us",
+        "productId": "XTEND Pro BCAA Powder NSF",
         "markets": [
           "global"
         ],
@@ -489,8 +489,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=DHC+BCAA",
+        "network": "amazon-jp",
+        "productId": "DHC BCAA",
         "markets": [
           "JP"
         ],
@@ -515,8 +515,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=EVLution+Nutrition+BCAA+Energy",
+        "network": "amazon-us",
+        "productId": "EVLution Nutrition BCAA Energy",
         "markets": [
           "global"
         ],
@@ -672,8 +672,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=TOTO+SW3084+WASHLET+C5",
+        "network": "amazon-us",
+        "productId": "TOTO SW3084 WASHLET C5",
         "markets": [
           "global"
         ],
@@ -698,8 +698,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Brondell+Swash+300+bidet+seat",
+        "network": "amazon-us",
+        "productId": "Brondell Swash 300 bidet seat",
         "markets": [
           "global"
         ],
@@ -724,8 +724,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Bio+Bidet+Discovery+DLS",
+        "network": "amazon-us",
+        "productId": "Bio Bidet Discovery DLS",
         "markets": [
           "global"
         ],
@@ -750,8 +750,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=TOTO+ウォシュレット+S7A+TCF37723",
+        "network": "amazon-jp",
+        "productId": "TOTO ウォシュレット S7A TCF37723",
         "markets": [
           "JP"
         ],
@@ -776,8 +776,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=INAX+LIXIL+SATI+CW-EA22",
+        "network": "amazon-jp",
+        "productId": "INAX LIXIL SATI CW-EA22",
         "markets": [
           "JP"
         ],
@@ -959,8 +959,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=tree+hut+shea+sugar+scrub",
+        "network": "amazon-jp",
+        "productId": "tree hut shea sugar scrub",
         "markets": [
           "JP"
         ],
@@ -1011,8 +1011,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=bliss+lemon+sage+salty+scrub",
+        "network": "amazon-jp",
+        "productId": "bliss lemon sage salty scrub",
         "markets": [
           "JP"
         ],
@@ -1557,8 +1557,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=travel+clothes+steamer",
+        "network": "amazon-us",
+        "productId": "travel clothes steamer",
         "markets": [
           "global"
         ],
@@ -1583,8 +1583,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Nutiva+Organic+Virgin+Coconut+Oil",
+        "network": "amazon-us",
+        "productId": "Nutiva Organic Virgin Coconut Oil",
         "markets": [
           "global"
         ],
@@ -1609,8 +1609,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Viva+Naturals+Extra+Virgin+Coconut+Oil",
+        "network": "amazon-us",
+        "productId": "Viva Naturals Extra Virgin Coconut Oil",
         "markets": [
           "global"
         ],
@@ -1635,8 +1635,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Spectrum+Organics+Refined+Coconut+Oil",
+        "network": "amazon-us",
+        "productId": "Spectrum Organics Refined Coconut Oil",
         "markets": [
           "global"
         ],
@@ -1661,8 +1661,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Life+Extension+Fractionated+Coconut+Oil",
+        "network": "amazon-us",
+        "productId": "Life Extension Fractionated Coconut Oil",
         "markets": [
           "global"
         ],
@@ -1687,8 +1687,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Carrington+Farms+Organic+Coconut+Oil",
+        "network": "amazon-us",
+        "productId": "Carrington Farms Organic Coconut Oil",
         "markets": [
           "global"
         ],
@@ -2417,8 +2417,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Beckham+Luxury+gel+pillow",
+        "network": "amazon-us",
+        "productId": "Beckham Luxury gel pillow",
         "markets": [
           "global"
         ],
@@ -2495,8 +2495,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Optimum+Nutrition+Micronized+Creatine+Monohydrate",
+        "network": "amazon-us",
+        "productId": "Optimum Nutrition Micronized Creatine Monohydrate",
         "markets": [
           "global"
         ],
@@ -2521,8 +2521,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Thorne+Creatine+NSF+Certified",
+        "network": "amazon-us",
+        "productId": "Thorne Creatine NSF Certified",
         "markets": [
           "global"
         ],
@@ -2547,8 +2547,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Klean+Athlete+Klean+Creatine+NSF",
+        "network": "amazon-us",
+        "productId": "Klean Athlete Klean Creatine NSF",
         "markets": [
           "global"
         ],
@@ -2573,8 +2573,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=DHC+クレアチン",
+        "network": "amazon-jp",
+        "productId": "DHC クレアチン",
         "markets": [
           "JP"
         ],
@@ -2599,8 +2599,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=MyProtein+Creatine+Monohydrate",
+        "network": "amazon-us",
+        "productId": "MyProtein Creatine Monohydrate",
         "markets": [
           "global"
         ],
@@ -2625,8 +2625,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Frigidaire+FGAC5044W1+dehumidifier",
+        "network": "amazon-us",
+        "productId": "Frigidaire FGAC5044W1 dehumidifier",
         "markets": [
           "global"
         ],
@@ -2651,8 +2651,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Hisense+DH7019KP1WG+dehumidifier",
+        "network": "amazon-us",
+        "productId": "Hisense DH7019KP1WG dehumidifier",
         "markets": [
           "global"
         ],
@@ -2677,8 +2677,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Midea+MAD30C1AWS+dehumidifier",
+        "network": "amazon-us",
+        "productId": "Midea MAD30C1AWS dehumidifier",
         "markets": [
           "global"
         ],
@@ -2703,8 +2703,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=パナソニック+F-YHRX120+除湿機",
+        "network": "amazon-jp",
+        "productId": "パナソニック F-YHRX120 除湿機",
         "markets": [
           "JP"
         ],
@@ -2729,8 +2729,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=シャープ+CV-J120-W+除湿機",
+        "network": "amazon-jp",
+        "productId": "シャープ CV-J120-W 除湿機",
         "markets": [
           "JP"
         ],
@@ -3379,8 +3379,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=rabbitgoo+no+pull+dog+harness",
+        "network": "amazon-us",
+        "productId": "rabbitgoo no pull dog harness",
         "markets": [
           "global"
         ],
@@ -3405,8 +3405,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=RXBAR+Chocolate+Sea+Salt+12+pack",
+        "network": "amazon-us",
+        "productId": "RXBAR Chocolate Sea Salt 12 pack",
         "markets": [
           "global"
         ],
@@ -3431,8 +3431,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Larabar+Apple+Pie+16+pack",
+        "network": "amazon-us",
+        "productId": "Larabar Apple Pie 16 pack",
         "markets": [
           "global"
         ],
@@ -3457,8 +3457,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Clif+Bar+Chocolate+Chip+12+pack",
+        "network": "amazon-us",
+        "productId": "Clif Bar Chocolate Chip 12 pack",
         "markets": [
           "global"
         ],
@@ -3483,8 +3483,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=KIND+Dark+Chocolate+Nuts+Sea+Salt+12+pack",
+        "network": "amazon-us",
+        "productId": "KIND Dark Chocolate Nuts Sea Salt 12 pack",
         "markets": [
           "global"
         ],
@@ -3509,8 +3509,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Pure+Organic+Dark+Cherry+Cashew+bar+12+pack",
+        "network": "amazon-us",
+        "productId": "Pure Organic Dark Cherry Cashew bar 12 pack",
         "markets": [
           "global"
         ],
@@ -4003,8 +4003,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=evian+mineral+spray",
+        "network": "amazon-jp",
+        "productId": "evian mineral spray",
         "markets": [
           "JP"
         ],
@@ -4159,8 +4159,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=ジップロック+ツイストンロック",
+        "network": "amazon-jp",
+        "productId": "ジップロック ツイストンロック",
         "markets": [
           "global"
         ],
@@ -4575,8 +4575,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Ancient+Organics+Ghee",
+        "network": "amazon-us",
+        "productId": "Ancient Organics Ghee",
         "markets": [
           "global"
         ],
@@ -4601,8 +4601,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Fourth+and+Heart+Ghee",
+        "network": "amazon-us",
+        "productId": "Fourth and Heart Ghee",
         "markets": [
           "global"
         ],
@@ -4627,8 +4627,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Purity+Farms+Organic+Ghee",
+        "network": "amazon-us",
+        "productId": "Purity Farms Organic Ghee",
         "markets": [
           "global"
         ],
@@ -4653,8 +4653,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Tin+Star+Foods+Ghee",
+        "network": "amazon-us",
+        "productId": "Tin Star Foods Ghee",
         "markets": [
           "global"
         ],
@@ -4679,8 +4679,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Organic+Valley+Cultured+Ghee",
+        "network": "amazon-us",
+        "productId": "Organic Valley Cultured Ghee",
         "markets": [
           "global"
         ],
@@ -4861,8 +4861,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Amazing-Grass-Greens-Blend/dp/B001E5E0Y2",
+        "network": "amazon-us",
+        "productId": "B001E5E0Y2",
         "markets": [
           "global"
         ],
@@ -4887,8 +4887,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Bloom-Nutrition-Superfoods-Smoothie/dp/B09B4SJQKM",
+        "network": "amazon-us",
+        "productId": "B09B4SJQKM",
         "markets": [
           "global"
         ],
@@ -4939,8 +4939,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Organifi-Green-Juice-Supplement/dp/B00WT4EB5O",
+        "network": "amazon-us",
+        "productId": "B00WT4EB5O",
         "markets": [
           "global"
         ],
@@ -5043,8 +5043,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=thinkgrow+telos+0010+led+grow+light",
+        "network": "amazon-us",
+        "productId": "thinkgrow telos 0010 led grow light",
         "markets": [
           "global"
         ],
@@ -5173,8 +5173,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=baimei+jade+gua+sha",
+        "network": "amazon-jp",
+        "productId": "baimei jade gua sha",
         "markets": [
           "JP"
         ],
@@ -5199,8 +5199,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=jade+flat+board+gua+sha",
+        "network": "amazon-jp",
+        "productId": "jade flat board gua sha",
         "markets": [
           "JP"
         ],
@@ -5355,8 +5355,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Ghirardelli+Premium+Hot+Cocoa",
+        "network": "amazon-us",
+        "productId": "Ghirardelli Premium Hot Cocoa",
         "markets": [
           "global"
         ],
@@ -5381,8 +5381,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Valrhona+Drinking+Chocolate+Powder",
+        "network": "amazon-us",
+        "productId": "Valrhona Drinking Chocolate Powder",
         "markets": [
           "global"
         ],
@@ -5407,8 +5407,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Cacao+Barry+Plein+Arome",
+        "network": "amazon-us",
+        "productId": "Cacao Barry Plein Arome",
         "markets": [
           "global"
         ],
@@ -5433,8 +5433,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=明治+高カカオ+ピュアカカオパウダー",
+        "network": "amazon-jp",
+        "productId": "明治 高カカオ ピュアカカオパウダー",
         "markets": [
           "global"
         ],
@@ -5459,8 +5459,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Equal+Exchange+Organic+Hot+Chocolate",
+        "network": "amazon-us",
+        "productId": "Equal Exchange Organic Hot Chocolate",
         "markets": [
           "global"
         ],
@@ -5667,8 +5667,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=baimei+jade+roller",
+        "network": "amazon-jp",
+        "productId": "baimei jade roller",
         "markets": [
           "JP",
           "global"
@@ -5694,8 +5694,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=esarora+face+roller+set",
+        "network": "amazon-jp",
+        "productId": "esarora face roller set",
         "markets": [
           "JP",
           "global"
@@ -5721,8 +5721,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=natural+rose+quartz+roller",
+        "network": "amazon-jp",
+        "productId": "natural rose quartz roller",
         "markets": [
           "JP",
           "global"
@@ -5748,8 +5748,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Breville+Juice+Fountain+Plus+BJE200XL",
+        "network": "amazon-us",
+        "productId": "Breville Juice Fountain Plus BJE200XL",
         "markets": [
           "global"
         ],
@@ -5774,8 +5774,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Cuisinart+CJE-1000+Juice+Extractor",
+        "network": "amazon-us",
+        "productId": "Cuisinart CJE-1000 Juice Extractor",
         "markets": [
           "global"
         ],
@@ -5800,8 +5800,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Hamilton+Beach+Big+Mouth+Juicer",
+        "network": "amazon-us",
+        "productId": "Hamilton Beach Big Mouth Juicer",
         "markets": [
           "global"
         ],
@@ -5826,8 +5826,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=ヒューロム+HP+スロージューサー",
+        "network": "amazon-jp",
+        "productId": "ヒューロム HP スロージューサー",
         "markets": [
           "JP"
         ],
@@ -5852,8 +5852,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Omega+J8006HDX+Nutrition+Center",
+        "network": "amazon-us",
+        "productId": "Omega J8006HDX Nutrition Center",
         "markets": [
           "global"
         ],
@@ -5878,8 +5878,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Quest+Protein+Chips",
+        "network": "amazon-us",
+        "productId": "Quest Protein Chips",
         "markets": [
           "global"
         ],
@@ -5904,8 +5904,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Perfect+Keto+Bar",
+        "network": "amazon-us",
+        "productId": "Perfect Keto Bar",
         "markets": [
           "global"
         ],
@@ -5930,8 +5930,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Chomps+Beef+Sticks",
+        "network": "amazon-us",
+        "productId": "Chomps Beef Sticks",
         "markets": [
           "global"
         ],
@@ -5956,8 +5956,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Fat+Snax+Cookies",
+        "network": "amazon-us",
+        "productId": "Fat Snax Cookies",
         "markets": [
           "global"
         ],
@@ -5982,8 +5982,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Keto+Farms+Fat+Bomb",
+        "network": "amazon-us",
+        "productId": "Keto Farms Fat Bomb",
         "markets": [
           "global"
         ],
@@ -6138,8 +6138,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Nexstand+K2+laptop+stand",
+        "network": "amazon-us",
+        "productId": "Nexstand K2 laptop stand",
         "markets": [
           "global"
         ],
@@ -6268,8 +6268,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=tide+pods+original+72+count",
+        "network": "amazon-us",
+        "productId": "tide pods original 72 count",
         "markets": [
           "global"
         ],
@@ -6346,8 +6346,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=アリエール+液体+洗濯洗剤",
+        "network": "amazon-jp",
+        "productId": "アリエール 液体 洗濯洗剤",
         "markets": [
           "global"
         ],
@@ -6554,8 +6554,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=aquaphor+lip+repair",
+        "network": "amazon-jp",
+        "productId": "aquaphor lip repair",
         "markets": [
           "JP"
         ],
@@ -6606,8 +6606,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=vaseline+lip+therapy",
+        "network": "amazon-jp",
+        "productId": "vaseline lip therapy",
         "markets": [
           "JP"
         ],
@@ -6632,8 +6632,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=eos+sphere+lip+balm",
+        "network": "amazon-jp",
+        "productId": "eos sphere lip balm",
         "markets": [
           "JP"
         ],
@@ -6658,8 +6658,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=etekcity+digital+luggage+scale",
+        "network": "amazon-us",
+        "productId": "etekcity digital luggage scale",
         "markets": [
           "global"
         ],
@@ -6684,8 +6684,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=renpho+smart+luggage+scale",
+        "network": "amazon-us",
+        "productId": "renpho smart luggage scale",
         "markets": [
           "global"
         ],
@@ -6710,8 +6710,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=camry+el+gc50+luggage+scale",
+        "network": "amazon-us",
+        "productId": "camry el gc50 luggage scale",
         "markets": [
           "global"
         ],
@@ -6736,8 +6736,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=tarriss+jetsetter+luggage+scale",
+        "network": "amazon-us",
+        "productId": "tarriss jetsetter luggage scale",
         "markets": [
           "global"
         ],
@@ -6762,8 +6762,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=freetoo+portable+luggage+scale",
+        "network": "amazon-us",
+        "productId": "freetoo portable luggage scale",
         "markets": [
           "global"
         ],
@@ -6788,8 +6788,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Pure+Encapsulations+Magnesium+Glycinate",
+        "network": "amazon-us",
+        "productId": "Pure Encapsulations Magnesium Glycinate",
         "markets": [
           "global"
         ],
@@ -6814,8 +6814,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Thorne+Magnesium+Bisglycinate+NSF",
+        "network": "amazon-us",
+        "productId": "Thorne Magnesium Bisglycinate NSF",
         "markets": [
           "global"
         ],
@@ -6840,8 +6840,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Klean+Athlete+Magnesium+NSF",
+        "network": "amazon-us",
+        "productId": "Klean Athlete Magnesium NSF",
         "markets": [
           "global"
         ],
@@ -6866,8 +6866,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=DHC+マグネシウム",
+        "network": "amazon-jp",
+        "productId": "DHC マグネシウム",
         "markets": [
           "JP"
         ],
@@ -6892,8 +6892,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Doctor%27s+Best+High+Absorption+Magnesium",
+        "network": "amazon-us",
+        "productId": "Doctor's Best High Absorption Magnesium",
         "markets": [
           "global"
         ],
@@ -7542,8 +7542,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Epitomie+Fitness+Muscle+Roller+Stick",
+        "network": "amazon-us",
+        "productId": "Epitomie Fitness Muscle Roller Stick",
         "markets": [
           "global"
         ],
@@ -7568,8 +7568,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Four-Sigmatic-Lions-Mane-Mushroom/dp/B01LYNZA6C",
+        "network": "amazon-us",
+        "productId": "B01LYNZA6C",
         "markets": [
           "global"
         ],
@@ -7594,8 +7594,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Real-Mushrooms-5-Defenders-Capsules/dp/B07CLWTHDS",
+        "network": "amazon-us",
+        "productId": "B07CLWTHDS",
         "markets": [
           "global"
         ],
@@ -7620,8 +7620,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Om-Organic-Mushroom-Nutrition-Powder/dp/B07YYKVMQ3",
+        "network": "amazon-us",
+        "productId": "B07YYKVMQ3",
         "markets": [
           "global"
         ],
@@ -7672,8 +7672,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Host-Defense-MyCommunity-Capsules/dp/B003J3OI4I",
+        "network": "amazon-us",
+        "productId": "B003J3OI4I",
         "markets": [
           "global"
         ],
@@ -7828,8 +7828,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Justin%27s+Classic+Almond+Butter",
+        "network": "amazon-us",
+        "productId": "Justin's Classic Almond Butter",
         "markets": [
           "global"
         ],
@@ -7854,8 +7854,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=RXBAR+Almond+Butter",
+        "network": "amazon-us",
+        "productId": "RXBAR Almond Butter",
         "markets": [
           "global"
         ],
@@ -7880,8 +7880,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Artisana+Organics+Raw+Almond+Butter",
+        "network": "amazon-us",
+        "productId": "Artisana Organics Raw Almond Butter",
         "markets": [
           "global"
         ],
@@ -7906,8 +7906,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Barney+Butter+Bare+Almond+Butter",
+        "network": "amazon-us",
+        "productId": "Barney Butter Bare Almond Butter",
         "markets": [
           "global"
         ],
@@ -7932,8 +7932,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Once+Again+Organic+Almond+Butter",
+        "network": "amazon-us",
+        "productId": "Once Again Organic Almond Butter",
         "markets": [
           "global"
         ],
@@ -7958,8 +7958,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Nordic+Naturals+Ultimate+Omega",
+        "network": "amazon-us",
+        "productId": "Nordic Naturals Ultimate Omega",
         "markets": [
           "global"
         ],
@@ -7984,8 +7984,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Thorne+Super+EPA+NSF",
+        "network": "amazon-us",
+        "productId": "Thorne Super EPA NSF",
         "markets": [
           "global"
         ],
@@ -8010,8 +8010,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Carlson+Elite+Omega-3+Gems",
+        "network": "amazon-us",
+        "productId": "Carlson Elite Omega-3 Gems",
         "markets": [
           "global"
         ],
@@ -8036,8 +8036,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=ファンケル+EPA+DHA",
+        "network": "amazon-jp",
+        "productId": "ファンケル EPA DHA",
         "markets": [
           "JP"
         ],
@@ -8062,8 +8062,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Sports+Research+Triple+Strength+Omega-3",
+        "network": "amazon-us",
+        "productId": "Sports Research Triple Strength Omega-3",
         "markets": [
           "global"
         ],
@@ -8088,8 +8088,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Quaker+Overnight+Oats+variety+pack",
+        "network": "amazon-us",
+        "productId": "Quaker Overnight Oats variety pack",
         "markets": [
           "global"
         ],
@@ -8114,8 +8114,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Bob%27s+Red+Mill+Organic+Old+Fashioned+Rolled+Oats",
+        "network": "amazon-us",
+        "productId": "Bob's Red Mill Organic Old Fashioned Rolled Oats",
         "markets": [
           "global"
         ],
@@ -8140,8 +8140,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Purely+Elizabeth+Pumpkin+Cinnamon+Overnight+Oats",
+        "network": "amazon-us",
+        "productId": "Purely Elizabeth Pumpkin Cinnamon Overnight Oats",
         "markets": [
           "global"
         ],
@@ -8166,8 +8166,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Kodiak+Protein+Packed+Oatmeal+Cups",
+        "network": "amazon-us",
+        "productId": "Kodiak Protein Packed Oatmeal Cups",
         "markets": [
           "global"
         ],
@@ -8296,8 +8296,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=ヒデオワカマツ+パッキングキューブ",
+        "network": "amazon-jp",
+        "productId": "ヒデオワカマツ パッキングキューブ",
         "markets": [
           "global"
         ],
@@ -8322,8 +8322,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=gonex+compression+packing+cubes",
+        "network": "amazon-us",
+        "productId": "gonex compression packing cubes",
         "markets": [
           "global"
         ],
@@ -8374,8 +8374,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=zoppen+rfid+passport+holder",
+        "network": "amazon-us",
+        "productId": "zoppen rfid passport holder",
         "markets": [
           "global"
         ],
@@ -8400,8 +8400,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=travelambo+rfid+passport+holder",
+        "network": "amazon-us",
+        "productId": "travelambo rfid passport holder",
         "markets": [
           "global"
         ],
@@ -8426,8 +8426,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=ヒデオワカマツ+パスポートケース",
+        "network": "amazon-jp",
+        "productId": "ヒデオワカマツ パスポートケース",
         "markets": [
           "global"
         ],
@@ -8452,8 +8452,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=cotton+field+passport+holder",
+        "network": "amazon-us",
+        "productId": "cotton field passport holder",
         "markets": [
           "global"
         ],
@@ -8712,8 +8712,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Black+Mountain+Pilates+Ring+14+inch",
+        "network": "amazon-us",
+        "productId": "Black Mountain Pilates Ring 14 inch",
         "markets": [
           "global"
         ],
@@ -8738,8 +8738,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Orgain-Organic-Plant-Based-Protein/dp/B00J075LKC",
+        "network": "amazon-us",
+        "productId": "B00J075LKC",
         "markets": [
           "global"
         ],
@@ -8764,8 +8764,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Vega-Sport-Premium-Protein/dp/B078BTC4GY",
+        "network": "amazon-us",
+        "productId": "B078BTC4GY",
         "markets": [
           "global"
         ],
@@ -8790,8 +8790,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Garden-Life-Sport-Organic-Protein/dp/B07L5GJJ3C",
+        "network": "amazon-us",
+        "productId": "B07L5GJJ3C",
         "markets": [
           "global"
         ],
@@ -8816,8 +8816,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/明治-ザバス-ソイプロテイン100/dp/B001E5F5ME",
+        "network": "amazon-jp",
+        "productId": "B001E5F5ME",
         "markets": [
           "global"
         ],
@@ -8842,8 +8842,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Naked-Pea-Protein-Powder/dp/B00N8JDKKA",
+        "network": "amazon-us",
+        "productId": "B00N8JDKKA",
         "markets": [
           "global"
         ],
@@ -8894,8 +8894,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=mkono+modern+concrete+planter",
+        "network": "amazon-us",
+        "productId": "mkono modern concrete planter",
         "markets": [
           "global"
         ],
@@ -8920,8 +8920,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=costa+farms+growers+nursery+pot",
+        "network": "amazon-us",
+        "productId": "costa farms growers nursery pot",
         "markets": [
           "global"
         ],
@@ -8946,8 +8946,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=アイリスオーヤマ+プランター",
+        "network": "amazon-jp",
+        "productId": "アイリスオーヤマ プランター",
         "markets": [
           "global"
         ],
@@ -8972,8 +8972,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=fabric+grow+bag+3+gallon+5+gallon",
+        "network": "amazon-us",
+        "productId": "fabric grow bag 3 gallon 5 gallon",
         "markets": [
           "global"
         ],
@@ -8998,8 +8998,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Dyson+Pure+Cool+Me",
+        "network": "amazon-us",
+        "productId": "Dyson Pure Cool Me",
         "markets": [
           "global"
         ],
@@ -9024,8 +9024,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Vornado+Pivot5+fan",
+        "network": "amazon-us",
+        "productId": "Vornado Pivot5 fan",
         "markets": [
           "global"
         ],
@@ -9050,8 +9050,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Honeywell+HT-900+TurboForce",
+        "network": "amazon-us",
+        "productId": "Honeywell HT-900 TurboForce",
         "markets": [
           "global"
         ],
@@ -9076,8 +9076,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=パナソニック+DCファン+F-CL2025",
+        "network": "amazon-jp",
+        "productId": "パナソニック DCファン F-CL2025",
         "markets": [
           "JP"
         ],
@@ -9102,8 +9102,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Satechi+Dual+USB-C+Fan",
+        "network": "amazon-us",
+        "productId": "Satechi Dual USB-C Fan",
         "markets": [
           "global"
         ],
@@ -9128,8 +9128,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/dp/B09VPHVT2Z",
+        "network": "amazon-jp",
+        "productId": "B09VPHVT2Z",
         "markets": [
           "global"
         ],
@@ -9154,8 +9154,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/dp/B09NN3YVQV",
+        "network": "amazon-jp",
+        "productId": "B09NN3YVQV",
         "markets": [
           "global"
         ],
@@ -9180,8 +9180,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/dp/B08H2GZH1Z",
+        "network": "amazon-us",
+        "productId": "B08H2GZH1Z",
         "markets": [
           "global"
         ],
@@ -9232,8 +9232,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/dp/B0C5JM8R4Y",
+        "network": "amazon-jp",
+        "productId": "B0C5JM8R4Y",
         "markets": [
           "global"
         ],
@@ -9258,8 +9258,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Garden-Life-Dr-Formulated-Probiotics/dp/B00TH6MMBO",
+        "network": "amazon-us",
+        "productId": "B00TH6MMBO",
         "markets": [
           "global"
         ],
@@ -9284,8 +9284,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Culturelle-Digestive-Probiotic-Capsules-Lactobacillus/dp/B00GWWUHO0",
+        "network": "amazon-us",
+        "productId": "B00GWWUHO0",
         "markets": [
           "global"
         ],
@@ -9362,8 +9362,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Align-Probiotic-Supplement-Capsules/dp/B004FZLDXI",
+        "network": "amazon-us",
+        "productId": "B004FZLDXI",
         "markets": [
           "global"
         ],
@@ -9544,8 +9544,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/dp/B01LXDNNBW",
+        "network": "amazon-us",
+        "productId": "B01LXDNNBW",
         "markets": [
           "global"
         ],
@@ -9622,8 +9622,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/dp/B07FMHXNSP",
+        "network": "amazon-us",
+        "productId": "B07FMHXNSP",
         "markets": [
           "global"
         ],
@@ -10090,8 +10090,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=山崎実業+タワー+シャワーキャディ+マグネット",
+        "network": "amazon-jp",
+        "productId": "山崎実業 タワー シャワーキャディ マグネット",
         "markets": [
           "global"
         ],
@@ -10116,8 +10116,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=zenna+home+expandable+tension+shower+caddy",
+        "network": "amazon-us",
+        "productId": "zenna home expandable tension shower caddy",
         "markets": [
           "global"
         ],
@@ -10142,8 +10142,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=interdesign+forma+suction+shower+caddy",
+        "network": "amazon-us",
+        "productId": "interdesign forma suction shower caddy",
         "markets": [
           "global"
         ],
@@ -10168,8 +10168,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Kohler+Forte+Showerhead",
+        "network": "amazon-us",
+        "productId": "Kohler Forte Showerhead",
         "markets": [
           "global"
         ],
@@ -10194,8 +10194,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Delta+In2ition+shower",
+        "network": "amazon-us",
+        "productId": "Delta In2ition shower",
         "markets": [
           "global"
         ],
@@ -10220,8 +10220,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Hansgrohe+Raindance+Select+S150",
+        "network": "amazon-us",
+        "productId": "Hansgrohe Raindance Select S150",
         "markets": [
           "global"
         ],
@@ -10246,8 +10246,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=TOTO+シャワーヘッド+TBW01006J",
+        "network": "amazon-jp",
+        "productId": "TOTO シャワーヘッド TBW01006J",
         "markets": [
           "JP"
         ],
@@ -10272,8 +10272,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Moen+Engage+Magnetix+26100",
+        "network": "amazon-us",
+        "productId": "Moen Engage Magnetix 26100",
         "markets": [
           "global"
         ],
@@ -10428,8 +10428,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=ヒューロム+H200",
+        "network": "amazon-jp",
+        "productId": "ヒューロム H200",
         "markets": [
           "JP"
         ],
@@ -10454,8 +10454,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Kuvings+Whole+Slow+Juicer+B6000",
+        "network": "amazon-us",
+        "productId": "Kuvings Whole Slow Juicer B6000",
         "markets": [
           "global"
         ],
@@ -10480,8 +10480,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Omega+NC900HDC+Juicer",
+        "network": "amazon-us",
+        "productId": "Omega NC900HDC Juicer",
         "markets": [
           "global"
         ],
@@ -10506,8 +10506,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Aobosi+Slow+Masticating+Juicer",
+        "network": "amazon-us",
+        "productId": "Aobosi Slow Masticating Juicer",
         "markets": [
           "global"
         ],
@@ -10532,8 +10532,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Tribest+Greenstar+Elite+Twin+Gear+Juicer",
+        "network": "amazon-us",
+        "productId": "Tribest Greenstar Elite Twin Gear Juicer",
         "markets": [
           "global"
         ],
@@ -10558,8 +10558,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/dp/B0BW3HKGS8",
+        "network": "amazon-jp",
+        "productId": "B0BW3HKGS8",
         "markets": [
           "global"
         ],
@@ -10610,8 +10610,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/dp/B0BYBJ2GZY",
+        "network": "amazon-jp",
+        "productId": "B0BYBJ2GZY",
         "markets": [
           "global"
         ],
@@ -10688,8 +10688,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=NutriBullet+Pro+900",
+        "network": "amazon-us",
+        "productId": "NutriBullet Pro 900",
         "markets": [
           "global"
         ],
@@ -10714,8 +10714,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Ninja+QB3001SS+Personal+Blender",
+        "network": "amazon-us",
+        "productId": "Ninja QB3001SS Personal Blender",
         "markets": [
           "global"
         ],
@@ -10740,8 +10740,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=BlendJet+2+Portable+Blender",
+        "network": "amazon-us",
+        "productId": "BlendJet 2 Portable Blender",
         "markets": [
           "global"
         ],
@@ -10766,8 +10766,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Vitamix+S30+Personal+Blender",
+        "network": "amazon-us",
+        "productId": "Vitamix S30 Personal Blender",
         "markets": [
           "global"
         ],
@@ -10792,8 +10792,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Breville+the+Easy+Blend+BBL620",
+        "network": "amazon-us",
+        "productId": "Breville the Easy Blend BBL620",
         "markets": [
           "global"
         ],
@@ -10948,8 +10948,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Dyson+Hot+Cool+HP07",
+        "network": "amazon-us",
+        "productId": "Dyson Hot Cool HP07",
         "markets": [
           "global"
         ],
@@ -10974,8 +10974,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Vornado+VH10+heater",
+        "network": "amazon-us",
+        "productId": "Vornado VH10 heater",
         "markets": [
           "global"
         ],
@@ -11000,8 +11000,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Lasko+5309+cyclonic+heater",
+        "network": "amazon-us",
+        "productId": "Lasko 5309 cyclonic heater",
         "markets": [
           "global"
         ],
@@ -11026,8 +11026,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=ダイキン+セラミックファンヒーター+ERFT11WS",
+        "network": "amazon-jp",
+        "productId": "ダイキン セラミックファンヒーター ERFT11WS",
         "markets": [
           "JP"
         ],
@@ -11052,8 +11052,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=DeLonghi+TRD40615E+oil+radiator",
+        "network": "amazon-us",
+        "productId": "DeLonghi TRD40615E oil radiator",
         "markets": [
           "global"
         ],
@@ -11078,8 +11078,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Nutrex-Hawaii-Hawaiian-Spirulina-Pacifica/dp/B001OYMFWY",
+        "network": "amazon-us",
+        "productId": "B001OYMFWY",
         "markets": [
           "global"
         ],
@@ -11104,8 +11104,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Earthrise-Spirulina-Natural-Powder/dp/B001GAOHTS",
+        "network": "amazon-us",
+        "productId": "B001GAOHTS",
         "markets": [
           "global"
         ],
@@ -11130,8 +11130,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/NOW-Supplements-Spirulina-Organic/dp/B0019GW3G8",
+        "network": "amazon-us",
+        "productId": "B0019GW3G8",
         "markets": [
           "global"
         ],
@@ -11156,8 +11156,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/山本漢方-スピルリナ/dp/B001EFKN7K",
+        "network": "amazon-jp",
+        "productId": "B001EFKN7K",
         "markets": [
           "global"
         ],
@@ -11182,8 +11182,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/Pure-Synergy-Super-Spirulina-Plus/dp/B0016BH5GW",
+        "network": "amazon-us",
+        "productId": "B0016BH5GW",
         "markets": [
           "global"
         ],
@@ -11728,8 +11728,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=repel+windproof+travel+umbrella",
+        "network": "amazon-us",
+        "productId": "repel windproof travel umbrella",
         "markets": [
           "global"
         ],
@@ -11936,8 +11936,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=zero+grid+neck+wallet",
+        "network": "amazon-us",
+        "productId": "zero grid neck wallet",
         "markets": [
           "global"
         ],
@@ -11988,8 +11988,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/dp/B0C29MXJ4T",
+        "network": "amazon-jp",
+        "productId": "B0C29MXJ4T",
         "markets": [
           "global"
         ],
@@ -12014,8 +12014,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/dp/B0BDHB9Y8H",
+        "network": "amazon-jp",
+        "productId": "B0BDHB9Y8H",
         "markets": [
           "global"
         ],
@@ -12092,8 +12092,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/dp/B0BM1SNVK7",
+        "network": "amazon-jp",
+        "productId": "B0BM1SNVK7",
         "markets": [
           "global"
         ],
@@ -12378,8 +12378,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=NOW+Foods+Vitamin+D3+5000+IU",
+        "network": "amazon-us",
+        "productId": "NOW Foods Vitamin D3 5000 IU",
         "markets": [
           "global"
         ],
@@ -12404,8 +12404,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Thorne+Vitamin+D+K2+Liquid+NSF",
+        "network": "amazon-us",
+        "productId": "Thorne Vitamin D K2 Liquid NSF",
         "markets": [
           "global"
         ],
@@ -12430,8 +12430,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Nordic+Naturals+Vitamin+D3",
+        "network": "amazon-us",
+        "productId": "Nordic Naturals Vitamin D3",
         "markets": [
           "global"
         ],
@@ -12456,8 +12456,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.co.jp/s?k=DHC+ビタミンD",
+        "network": "amazon-jp",
+        "productId": "DHC ビタミンD",
         "markets": [
           "JP"
         ],
@@ -12482,8 +12482,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=Garden+of+Life+Vitamin+D3+Organic",
+        "network": "amazon-us",
+        "productId": "Garden of Life Vitamin D3 Organic",
         "markets": [
           "global"
         ],
@@ -12560,8 +12560,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=chumian+waist+trainer",
+        "network": "amazon-us",
+        "productId": "chumian waist trainer",
         "markets": [
           "global"
         ],
@@ -12820,8 +12820,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/s?k=YnM+weighted+blanket",
+        "network": "amazon-us",
+        "productId": "YnM weighted blanket",
         "markets": [
           "global"
         ],
@@ -17163,8 +17163,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Amazon Essentials Faux Leather Moto",
         "markets": [
           "global"
         ],
@@ -20127,8 +20127,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Amazon Basics Hardshell Carry-On",
         "markets": [
           "global"
         ],
@@ -20543,8 +20543,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Zoppen RFID Blocking Passport Wallet",
         "markets": [
           "global"
         ],
@@ -20647,8 +20647,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "WALNEW RFID Family Passport Holder",
         "markets": [
           "global"
         ],
@@ -21037,8 +21037,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Amazon Essentials Mid-Weight Puffer Jacket",
         "markets": [
           "global"
         ],
@@ -23429,8 +23429,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Amazon Basics Pet Playpen",
         "markets": [
           "global"
         ],
@@ -24001,8 +24001,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Amazon Basics Memory Foam Travel Pillow",
         "markets": [
           "global"
         ],
@@ -24521,8 +24521,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Amazon Basics Anti-Theft Travel Backpack",
         "markets": [
           "global"
         ],
@@ -25777,8 +25777,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Amazon Essentials Running Tights",
         "markets": [
           "global"
         ],
@@ -27987,8 +27987,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Amazon Basics Cat Condo Scratching Post",
         "markets": [
           "global"
         ],
@@ -28273,8 +28273,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Yh Poker Cat Tunnel 3-Way",
         "markets": [
           "global"
         ],
@@ -28767,8 +28767,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Amazon Basics Travel Electric Toothbrush",
         "markets": [
           "global"
         ],
@@ -29001,8 +29001,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Occer 12x25 Compact Binoculars",
         "markets": [
           "global"
         ],
@@ -29651,8 +29651,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Avid Power Cordless Tire Inflator",
         "markets": [
           "global"
         ],
@@ -29703,8 +29703,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "ThisWorx TW-01 Car Vacuum",
         "markets": [
           "global"
         ],
@@ -29781,8 +29781,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Armor All AA255W Car Vacuum",
         "markets": [
           "global"
         ],
@@ -30041,8 +30041,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Expandable 100ft Garden Hose",
         "markets": [
           "global"
         ],
@@ -31341,8 +31341,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Fishers Finery 100% Mulberry Silk PJ",
         "markets": [
           "global"
         ],
@@ -32459,8 +32459,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Papablic Baby Nail Trimmer",
         "markets": [
           "global"
         ],
@@ -32485,8 +32485,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Fanwer Baby Electric Nail Trimmer",
         "markets": [
           "global"
         ],
@@ -33187,8 +33187,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Boshel Dog Nail Clipper",
         "markets": [
           "global"
         ],
@@ -33213,8 +33213,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Casfuy Rechargeable Dog Nail Grinder",
         "markets": [
           "global"
         ],
@@ -33291,8 +33291,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Veken 3L Pet Fountain",
         "markets": [
           "global"
         ],
@@ -33421,8 +33421,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Go Pet Club 46-inch Grooming Table",
         "markets": [
           "global"
         ],
@@ -33447,8 +33447,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "SHELANDY Electric Pet Grooming Table",
         "markets": [
           "global"
         ],
@@ -33525,8 +33525,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Petsfit Expandable Cat Carrier",
         "markets": [
           "global"
         ],
@@ -33941,8 +33941,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Hilife Handheld Travel Steamer",
         "markets": [
           "global"
         ],
@@ -34305,8 +34305,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "BeautySpy Travel Makeup Bag",
         "markets": [
           "global"
         ],
@@ -34357,8 +34357,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Narwey Large Makeup Pouch",
         "markets": [
           "global"
         ],
@@ -34409,8 +34409,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Perfectto Shoe Travel Bag 4-Set",
         "markets": [
           "global"
         ],
@@ -34565,8 +34565,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Addtam Flat Plug Power Strip",
         "markets": [
           "global"
         ],
@@ -37503,8 +37503,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Nulaxy KM18 Bluetooth FM Transmitter",
         "markets": [
           "global"
         ],
@@ -37555,8 +37555,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Doosl Bluetooth 5.0 Receiver",
         "markets": [
           "global"
         ],
@@ -37693,8 +37693,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/",
+        "network": "amazon-us",
+        "productId": "Natural Armor Organic Weed Killer (Vinegar)",
         "markets": [
           "global"
         ],
@@ -37915,8 +37915,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/stores/Decomil",
+        network: "amazon-us",
+        productId: "Decomil", rawUrl: "https://www.amazon.com/stores/Decomil",
         "markets": ["global"],
         "approved": false
       }
@@ -38179,8 +38179,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/stores/Soelueer",
+        network: "amazon-us",
+        productId: "Soelueer", rawUrl: "https://www.amazon.com/stores/Soelueer",
         "markets": ["global"],
         "approved": false
       }
@@ -38227,8 +38227,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/stores/WOWLIVE",
+        network: "amazon-us",
+        productId: "WOWLIVE", rawUrl: "https://www.amazon.com/stores/WOWLIVE",
         "markets": ["global"],
         "approved": false
       }
@@ -38347,8 +38347,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/stores/Amazer",
+        network: "amazon-us",
+        productId: "Amazer", rawUrl: "https://www.amazon.com/stores/Amazer",
         "markets": ["global"],
         "approved": false
       }
@@ -38527,7 +38527,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "ENERGY STAR認証で$75。12ヶ月以内に元が取れる。セットアップにAlexa必須。"
     },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/dp/B08QTN3KLV", "markets": ["us"], "approved": true }
+      { "network": "amazon-us", "productId": "B08QTN3KLV", "rawUrl": "https://www.amazon.com/dp/B08QTN3KLV", "markets": ["us"], "approved": true }
     ]
   },
   {
@@ -38681,7 +38681,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "ジェル注入+換気チャンネル、コーナーストラップ付属。$325サートヴァに匹敵する冷却性で$99。"
     },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/dp/B0043TSOL6", "markets": ["us"], "approved": true }
+      { "network": "amazon-us", "productId": "B0043TSOL6", "rawUrl": "https://www.amazon.com/dp/B0043TSOL6", "markets": ["us"], "approved": true }
     ]
   },
   {
@@ -38695,7 +38695,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "工具不要のクロームスチールラック、5分以内に組立可能。積み重ね可能で24本収納。$28。"
     },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/dp/B01LYLP06G", "markets": ["us"], "approved": true }
+      { "network": "amazon-us", "productId": "B01LYLP06G", "rawUrl": "https://www.amazon.com/dp/B01LYLP06G", "markets": ["us"], "approved": true }
     ]
   },
   {
@@ -38723,7 +38723,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "手塗りアンティーク銅仕上げ鍛鉄製12本ラック。組立不要、安定性テストで動きなし。"
     },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/dp/B000UVEJBW", "markets": ["global"], "approved": true }
+      { "network": "amazon-us", "productId": "B000UVEJBW", "rawUrl": "https://www.amazon.com/dp/B000UVEJBW", "markets": ["global"], "approved": true }
     ]
   },
   {
@@ -38737,7 +38737,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "無垢マンゴーウッド製30本以上対応密閉キャビネット。温度変動を12°Fから4°Fに低減。"
     },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/dp/B07PFCXL8B", "markets": ["global"], "approved": true }
+      { "network": "amazon-us", "productId": "B07PFCXL8B", "rawUrl": "https://www.amazon.com/dp/B07PFCXL8B", "markets": ["global"], "approved": true }
     ]
   },
   {
@@ -38751,7 +38751,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "天然パイン材6本ラック、アングル表示。ファームハウス調デザイン、工具不要。"
     },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/dp/B00009O8VP", "markets": ["global"], "approved": true }
+      { "network": "amazon-us", "productId": "B00009O8VP", "rawUrl": "https://www.amazon.com/dp/B00009O8VP", "markets": ["global"], "approved": true }
     ]
   },
   {
@@ -39885,8 +39885,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/dp/B07D5ZQL6Q",
+        "network": "amazon-us",
+        "productId": "B07D5ZQL6Q",
         "markets": ["global"],
         "approved": false
       }
@@ -39929,8 +39929,8 @@ export const CATALOG_ADDITIONS = [
     },
     "links": [
       {
-        "network": "direct",
-        "productId": "https://www.amazon.com/dp/B07Q5RFP6L",
+        "network": "amazon-us",
+        "productId": "B07Q5RFP6L",
         "markets": ["global"],
         "approved": false
       }
@@ -40659,7 +40659,7 @@ export const CATALOG_ADDITIONS = [
     "name": { "en": "iDesign PEVA Shower Curtain Liner", "ja": "iDesign PEVAシャワーカーテンライナー" },
     "description": { "en": "100% PEVA (PVC-free) liner with rust-proof grommets and 12 rings included. 72x72in standard size.", "ja": "PVCフリーPEVA素材、錆びないグロメット付き。72×72インチ標準サイズ。" },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/iDesign-Shower-Curtain-Liner/dp/B00B1RPHAU", "markets": ["global"], "approved": true }
+      { "network": "amazon-us", "productId": "B00B1RPHAU", "rawUrl": "https://www.amazon.com/iDesign-Shower-Curtain-Liner/dp/B00B1RPHAU", "markets": ["global"], "approved": true }
     ]
   },
   {
@@ -40670,7 +40670,7 @@ export const CATALOG_ADDITIONS = [
     "name": { "en": "Maytex Smart Curtains Fabric Shower Curtain", "ja": "Maytex スマートカーテン ファブリックシャワーカーテン" },
     "description": { "en": "100% polyester, machine washable, antimicrobial treatment. 70x72in, multiple patterns available.", "ja": "100%ポリエステル、洗濯機洗い可、抗菌加工。複数パターンあり。" },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/Maytex-Fabric-Shower-Curtain/dp/B00A4VK8DI", "markets": ["global"], "approved": true }
+      { "network": "amazon-us", "productId": "B00A4VK8DI", "rawUrl": "https://www.amazon.com/Maytex-Fabric-Shower-Curtain/dp/B00A4VK8DI", "markets": ["global"], "approved": true }
     ]
   },
   {
@@ -40681,7 +40681,7 @@ export const CATALOG_ADDITIONS = [
     "name": { "en": "Gorilla Grip Original Premium Shower Liner", "ja": "ゴリラグリップ プレミアムシャワーライナー" },
     "description": { "en": "Heavy gauge PEVA (0.15mm) with weighted magnets at hem to seal against tub. Rust-proof grommets, mold-resistant.", "ja": "厚手PEVA（0.15mm）、裾に重さつきマグネット搭載。錆びないグロメット、カビ防止加工。" },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/Gorilla-Grip-Original-Premium-Shower/dp/B074MP2WCT", "markets": ["global"], "approved": true }
+      { "network": "amazon-us", "productId": "B074MP2WCT", "rawUrl": "https://www.amazon.com/Gorilla-Grip-Original-Premium-Shower/dp/B074MP2WCT", "markets": ["global"], "approved": true }
     ]
   },
   {
@@ -40714,7 +40714,7 @@ export const CATALOG_ADDITIONS = [
     "name": { "en": "SONGMICS Storage Ottoman with Serving Trays", "ja": "SONGMICS 収納オットマン（サービングトレー付き）" },
     "description": { "en": "Removable lid doubles as coffee table top, includes 2 serving trays, 42L capacity. Assembly required.", "ja": "取り外し可能な蓋がコーヒーテーブルになる、サービングトレー2枚付属、容量42L。" },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/SONGMICS-Storage-Ottoman-Bench/dp/B07BFZQ8JT", "markets": ["global"], "approved": true }
+      { "network": "amazon-us", "productId": "B07BFZQ8JT", "rawUrl": "https://www.amazon.com/SONGMICS-Storage-Ottoman-Bench/dp/B07BFZQ8JT", "markets": ["global"], "approved": true }
     ]
   },
   {
@@ -40725,7 +40725,7 @@ export const CATALOG_ADDITIONS = [
     "name": { "en": "Linon Home Tufted Storage Ottoman", "ja": "リノン ホーム タフテッド収納オットマン" },
     "description": { "en": "Button-tufted microfiber, hinged lid with 88L storage capacity, solid wood legs, mid-century modern design.", "ja": "ボタンタフト マイクロファイバー、ヒンジ蓋で88Lの収納、無垢材脚、ミッドセンチュリーデザイン。" },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/Linon-Home-Storage-Ottoman/dp/B00FXDIPVO", "markets": ["global"], "approved": true }
+      { "network": "amazon-us", "productId": "B00FXDIPVO", "rawUrl": "https://www.amazon.com/Linon-Home-Storage-Ottoman/dp/B00FXDIPVO", "markets": ["global"], "approved": true }
     ]
   },
   {
@@ -40736,7 +40736,7 @@ export const CATALOG_ADDITIONS = [
     "name": { "en": "Christopher Knight Home Velvet Storage Ottoman", "ja": "クリストファー・ナイト ベルベット収納オットマン" },
     "description": { "en": "Velvet fabric, 30L storage capacity, 16in height, available in multiple colors including emerald and blush.", "ja": "ベルベット素材、収納30L、高さ16インチ、エメラルドやブラッシュなど複数カラー展開。" },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/Christopher-Knight-Home-Storage-Ottoman/dp/B08KGDL9G1", "markets": ["global"], "approved": true }
+      { "network": "amazon-us", "productId": "B08KGDL9G1", "rawUrl": "https://www.amazon.com/Christopher-Knight-Home-Storage-Ottoman/dp/B08KGDL9G1", "markets": ["global"], "approved": true }
     ]
   },
   {
@@ -40747,7 +40747,7 @@ export const CATALOG_ADDITIONS = [
     "name": { "en": "Humble Hues Large Storage Ottoman", "ja": "ハンブル ヒューズ 大型収納オットマン" },
     "description": { "en": "Faux leather, waterproof wipe-clean surface, 120L capacity with coffee table top, 4 sturdy legs.", "ja": "フェイクレザー、防水拭き取り可、容量120L、コーヒーテーブルトップ付き、4脚。" },
     "links": [
-      { "network": "direct", "productId": "https://www.amazon.com/Humble-Hues-Storage-Ottoman/dp/B08N5LRQZ7", "markets": ["global"], "approved": true }
+      { "network": "amazon-us", "productId": "B08N5LRQZ7", "rawUrl": "https://www.amazon.com/Humble-Hues-Storage-Ottoman/dp/B08N5LRQZ7", "markets": ["global"], "approved": true }
     ]
   },
   {

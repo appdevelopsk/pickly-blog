@@ -245,7 +245,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
       en: "19-momme mulberry silk flat sleep mask with adjustable strap, lightweight and temperature regulating. Best flat-foam experience.",
       ja: "19匁桑シルク製フラットアイマスク。調整可能ストラップ付き、軽量で体温調節素材。フラット系最高の肌触り。",
     },
-    links: [{ network: "direct", productId: "https://www.amazon.com/s?k=Alaska+Bear+Natural+Silk+Sleep+Mask", markets: ["global"], approved: true }],
+    links: [{ network: "amazon-us", productId: "Alaska Bear Natural Silk Sleep Mask", markets: ["global"], approved: true }],
   },
   {
     id: "tempur-pedic-sleep-mask",
@@ -287,7 +287,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
       en: "Soft fabric contoured sleep mask with included nose bridge foam insert for improved light blocking. Ultralight and packable.",
       ja: "ノーズブリッジフォームインサート同梱の柔らかい布立体アイマスク。超軽量で収納性高い。",
     },
-    links: [{ network: "direct", productId: "https://www.amazon.com/s?k=Drift+to+Sleep+Contour+Sleep+Mask", markets: ["global"], approved: true }],
+    links: [{ network: "amazon-us", productId: "Drift to Sleep Contour Sleep Mask", markets: ["global"], approved: true }],
   },
 
   // ── best-travel-hair-dryer-2026 ───────────────────────────────────────────
@@ -575,7 +575,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
       en: "Minimalist fabric jewelry pouch that packs nearly flat, suitable for light jewelry travelers carrying 1-3 pieces.",
       ja: "ほぼフラットに収納できるミニマリスト布ジュエリーポーチ。1〜3点程度の軽いジュエリー旅行者に適切。",
     },
-    links: [{ network: "direct", productId: "https://www.amazon.com/s?k=draka+travel+jewelry+pouch", markets: ["global"], approved: true }],
+    links: [{ network: "amazon-us", productId: "draka travel jewelry pouch", markets: ["global"], approved: true }],
   },
 
   // ── best-underwater-camera-2026 ───────────────────────────────────────────
@@ -677,7 +677,7 @@ export const CATALOG_BATCH12_TRAVEL: AffiliateOffer[] = [
       en: "3-meter travel clothesline with large beginner-friendly plastic hooks, includes separate clothespins for heavier items.",
       ja: "初心者でも操作しやすい大型プラスチックフック・重いアイテム用洗濯バサミ同梱の3mトラベルクロースライン。",
     },
-    links: [{ network: "direct", productId: "https://www.amazon.com/s?k=Lewis+N+Clark+Travel+Clothesline", markets: ["global"], approved: true }],
+    links: [{ network: "amazon-us", productId: "Lewis N Clark Travel Clothesline", markets: ["global"], approved: true }],
   },
   {
     id: "cocoon-travel-clothesline",
