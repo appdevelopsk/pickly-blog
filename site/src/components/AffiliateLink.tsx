@@ -50,7 +50,13 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
   const t = useTranslations();
   const localeMarket = inferMarketFromLocale(locale);
   const market = useMarket(localeMarket);
-  const link = pickLink(offer, market, { onlyApproved: false });
+  // ★承認済みを先に探す。onlyApproved:false だけで引くと、承認前の案件
+  //   (impact/cj 等の placeholder) が先に当たり、その商品は href="#" の
+  //   「準備中」カードになる。実際に踏めるリンクを持っているのに踏めない状態で、
+  //   日本語記事では 24枚中 2枚しか買い口が無かった (2026-08-05 実測)。
+  //   承認済みが1つも無いときだけ、従来どおり準備中表示にフォールバックする。
+  const link =
+    pickLink(offer, market) ?? pickLink(offer, market, { onlyApproved: false });
   // ★rel="sponsored" は「金銭的対価のあるリンク」に付けるもの。
   //   network:"direct" はメーカー公式への素リンクで報酬が発生しないため、
   //   sponsored を付けると検索エンジンにも読者にも事実と異なる申告になる

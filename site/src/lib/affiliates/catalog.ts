@@ -1,4 +1,4 @@
-import type { AffiliateOffer, AffiliatePolicy, AspLink, Market } from "./types";
+import type { AffiliateOffer, AffiliatePolicy, AspLink, AspNetwork, Market } from "./types";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
 import overridesJson from "./catalog-overrides.json";
 import { CATALOG_ADDITIONS } from "./catalog-additions";
@@ -25958,8 +25958,50 @@ export function pickLink(
     (euFallback ? candidates.find((l) => l.markets.includes(euFallback)) : null) ??
     candidates.find((l) => l.markets.includes("global")) ??
     (market === "global" ? candidates.find((l) => l.markets.includes("US")) : null) ??
+    localAmazonFallback(offer, market, candidates) ??
     null
   );
+}
+
+/** market → その国の Amazon ネットワーク。EU は amazon-de（EU_REMAP が FR/ES/IT に振り直す）。 */
+const LOCAL_AMAZON: Partial<Record<Market, AspNetwork>> = {
+  JP: "amazon-jp",
+  US: "amazon-us",
+  UK: "amazon-uk",
+  CA: "amazon-ca",
+  EU: "amazon-de",
+  FR: "amazon-fr",
+  ES: "amazon-es",
+  IT: "amazon-it",
+  global: "amazon-us",
+};
+
+/**
+ * どの market 指定にも当たらなかった Amazon 商品を、その国の Amazon 検索リンクとして拾う。
+ *
+ * なぜ必要か (2026-08-05):
+ *   pickLink が null を返すと getOffersFor はその商品を**一覧ごと落とす**。
+ *   同じ記事(best-air-fryer-2026)の実測で en=11本に対し de/fr/es 等=6本、
+ *   **ja=2本**、zh=3本しか買い口が出ていなかった。JP/UK/CA には
+ *   EU のようなフォールバックが無く、US リンクしか持たない商品が
+ *   日本語読者には存在しないことになっていた。
+ *
+ *   ASIN は国をまたぐと 404 になることがあるので、**商品名で渡す**。
+ *   buildAffiliateUrl は productId が実ASIN(英数10桁)でなければ
+ *   `/s?k=<商品名>` にタグを付けて返すので、必ず着地する URL になる。
+ *   Amazon 以外(直接提携・A8等)は勝手に国を跨げないので対象外。
+ */
+function localAmazonFallback(
+  offer: AffiliateOffer,
+  market: Market,
+  candidates: AspLink[],
+): AspLink | null {
+  const network = LOCAL_AMAZON[market];
+  if (!network) return null;
+  if (!candidates.some((l) => l.network.startsWith("amazon-"))) return null;
+  const name = offer.name.en ?? Object.values(offer.name)[0];
+  if (!name) return null;
+  return { network, productId: name, markets: [market], approved: true };
 }
 
 /** Returns all approved links relevant to the given market, deduped by network, in priority order. */
@@ -25984,6 +26026,12 @@ export function pickAllLinks(
   if (euFallback) add(candidates.filter((l) => l.markets.includes(euFallback)));
   add(candidates.filter((l) => l.markets.includes("global")));
   if (market === "global") add(candidates.filter((l) => l.markets.includes("US")));
+
+  // どの market 指定にも当たらなかった Amazon 商品を自国 Amazon の検索で拾う
+  if (result.length === 0) {
+    const fb = localAmazonFallback(offer, market, candidates);
+    if (fb) add([fb]);
+  }
 
   return result;
 }
