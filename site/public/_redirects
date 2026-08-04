@@ -1,7 +1,9 @@
 # Cloudflare Pages redirects.
-# Route bare "/" to /en/ until we add Accept-Language detection.
-# Status 302 (temporary) so we can adopt locale auto-detection later.
-/ /en/ 302
+# Route bare "/" to /en/.
+# ★302だとGoogleが「/ が正、/en/ は重複」と解釈し、ホームの canonical を
+#   / に選んでいた(URL Inspection APIで確認 2026-08-04)。301で /en/ を確定させる。
+#   locale自動判定を将来入れる場合もCDN側の書き換えで対応できる。
+/ /en/ 301
 
 # Exclude static files from locale redirect (must come before /:locale rule)
 /sitemap.xml /sitemap.xml 200
