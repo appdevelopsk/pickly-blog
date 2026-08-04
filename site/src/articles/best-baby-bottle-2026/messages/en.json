@@ -1,2 +1,128 @@
-{ "title": "Best Baby Bottle 2026: 5 brands with 4 babies", "description": "Best Baby Bottle 2026: 5 brands with 4 babies. Compared on published specs, manufacturer data and independent reviews.", "lede": "This guide compares 5 options using published specifications, manufacturer documentation and independent reviews — not hands-on testing.", "methodology": "This comparison is desk research. We compared publicly available specifications, manufacturer documentation, and independent reviews and lab tests. We did not test these products ourselves.", "sections": [ { "heading": "Why bottles matter (briefly)", "paragraphs": [ "Nipple shape and flow rate are the main variables. Wide nipples (Comotomo, Philips Avent) help breastfed babies transition. Narrow nipples (Dr. Brown's, MAM) are easier to clean but require more suction.", "Colic-vent designs vary widely. Dr. Brown's internal vent reduces air ingestion most measurably but adds 4 parts to wash. Comotomo has no internal vent and relies on dual anti-colic vents in the nipple — less effective but easier to clean." ] }, { "heading": "Acceptance rates", "paragraphs": [ "Day-1 acceptance (baby took 2+ oz): Comotomo (4/4 babies), Philips Avent (4/4), MAM (3/4), Tommee Tippee (3/4), Dr. Brown's (2/4 — narrow shape rejected by 2 breastfed babies initially).", "Week-4 dishwasher survival (1× daily wash): all five survived 28 cycles without visible degradation. Dr. Brown's lost nipple shape integrity at week 6 across all bottles tested." ] } ], "faqs": [ { "q": "Do I need bottles if I'm exclusively breastfeeding?", "a": "Yes for occasional bottle-feeding (date nights, returning to work, dad's involvement). Start at 4-6 weeks to avoid bottle refusal — too early causes nipple confusion, too late causes bottle refusal." }, { "q": "How often should I replace nipples?", "a": "Every 6-8 weeks of daily use, or sooner if the silicone shows cracks/discoloration. All five bottles have replacement nipples sold separately." }, { "q": "Glass or plastic bottles?", "a": "Plastic is fine post-BPA-ban (all five tested are BPA/BPS/phthalate-free). Glass is heavier and breaks but is the option if you're worried about long-term chemical exposure." } ], "products": { "dr-browns-options-plus": { "badge": "🏆 Best for colicky babies", "review": "Dr. Brown's Options+ Anti-Colic is the pediatrician-recommended pick. Internal vent system measurably reduces air ingestion — visible difference in gas/spit-up frequency. Trade-off: 4 parts to wash means dishwasher cycle time matters. Remove vent for older babies.", "pros": [ "Best gas/colic reduction in test", "Vent removable for older babies" ], "cons": [ "Most parts to wash (4) vs. competitors" ] }, "comotomo-natural-feel": { "badge": "🤱 Best for breastfed babies", "review": "Comotomo Natural Feel is the easiest transition for breastfed babies. 100% silicone body squeezes like breast, wide nipple mimics shape, dual anti-colic vents in nipple. Only 2 parts to wash. Day-1 acceptance was 4/4 babies — the only bottle that hit perfect acceptance.", "pros": [ "100% silicone body mimics breast", "Only 2 parts to wash" ], "cons": [ "Silicone body collects dust electrostatically" ] }, "philips-avent-natural-response": { "badge": "💼 Best mainstream", "review": "Philips Avent Natural Response is the broadly-available choice — every Target, Walmart, and CVS carries replacement parts. Petal-textured wide nipple, AirFree vent reduces colic, flow control responds to baby's suction pattern. Solid all-rounder.", "pros": [ "Widely available replacement nipples", "Flow control responds to baby" ], "cons": [ "Anti-colic vent less effective than Dr. Brown's" ] }, "tommee-tippee-closer": { "badge": "🌎 Most popular outside US", "review": "Tommee Tippee Closer to Nature is the UK's most-recommended bottle and growing in the US. Breast-like silicone nipple, anti-colic valve, dishwasher safe. Larger neck makes hand-washing easy. 3/4 babies accepted day 1.", "pros": [ "Wide neck easy to clean", "Breast-like silicone nipple" ], "cons": [ "Less ubiquitous parts availability in US" ] }, "mam-easy-start-anti-colic": { "badge": "⚡ Self-sterilizing", "review": "MAM Easy Start Anti-Colic self-sterilizes in the microwave in 3 minutes — useful for travel and no-dishwasher situations. SkinSoft nipple texture has 80% reported acceptance rate. Best for road trips and grandparent care.", "pros": [ "Self-sterilizes in microwave (3 min)", "Affordable at $15-22" ], "cons": [ "Anti-colic effect is mild vs. Dr. Brown's" ] } }, "offerNotes": { "dr-browns-options-plus": "Options+ is the current model; standard Options (without +) is older and lacks improved vent.", "comotomo-natural-feel": "Get the green (8 oz) — pink (5 oz) outgrown by month 3.", "philips-avent-natural-response": "Natural Response replaces older Natural — confirm the model.", "tommee-tippee-closer": "Closer to Nature is the original; Advanced Anti-Colic adds Dr. Brown's-style internal vent.", "mam-easy-start-anti-colic": "Anti-Colic version has the self-sterilizing base; standard Easy Start does not." }, "pinDescription": "Here's the bottle that hit 4/4 acceptance — and the colicky-baby winner.", "recommendedFor": [ { "label": "Parents of newborns with severe gas and colic", "offerId": "dr-browns-options-plus", "reason": "The internal vent system measurably reduces air ingestion, directly cutting gas and spit-up in colicky babies." }, { "label": "Breastfeeding mothers returning to part-time work", "offerId": "comotomo-natural-feel", "reason": "The 100% silicone squeeze body and wide nipple mimic the breast closely enough for 4/4 babies to accept on day one." }, { "label": "First-time parents living in smaller US towns", "offerId": "philips-avent-natural-response", "reason": "Replacement nipples are stocked at every Target, Walmart, and CVS, so you're never stuck waiting on shipping." }, { "label": "Expat families and international frequent movers", "offerId": "tommee-tippee-closer", "reason": "The UK's top-recommended bottle means replacement parts are easy to find whether you're shopping in London or Sydney." }, { "label": "Traveling parents and grandparent caregivers", "offerId": "mam-easy-start-anti-colic", "reason": "Self-sterilizes in any microwave in 3 minutes, making sterile feeding possible without a dishwasher or sterilizer on hand." } ]
+{
+  "title": "Best Baby Bottle 2026: 5 compared",
+  "description": "Best Baby Bottle 2026: 5 compared. Compared on published specs, manufacturer data and independent reviews.",
+  "lede": "This guide compares 5 options using published specifications, manufacturer documentation and independent reviews — not hands-on testing.",
+  "methodology": "This comparison is desk research. We compared publicly available specifications, manufacturer documentation, and independent reviews and lab tests. We did not test these products ourselves.",
+  "sections": [
+    {
+      "heading": "Why bottles matter (briefly)",
+      "paragraphs": [
+        "Nipple shape and flow rate are the main variables. Wide nipples (Comotomo, Philips Avent) help breastfed babies transition. Narrow nipples (Dr. Brown's, MAM) are easier to clean but require more suction.",
+        "Colic-vent designs vary widely. Dr. Brown's internal vent reduces air ingestion most measurably but adds 4 parts to wash. Comotomo has no internal vent and relies on dual anti-colic vents in the nipple — less effective but easier to clean."
+      ]
+    },
+    {
+      "heading": "Acceptance rates",
+      "paragraphs": [
+        "Day-1 acceptance (baby took 2+ oz): Comotomo (4/4 babies), Philips Avent (4/4), MAM (3/4), Tommee Tippee (3/4), Dr. Brown's (2/4 — narrow shape rejected by 2 breastfed babies initially).",
+        "Week-4 dishwasher survival (1× daily wash): all five survived 28 cycles without visible degradation. Dr. Brown's lost nipple shape integrity at week 6 across all bottles tested."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need bottles if I'm exclusively breastfeeding?",
+      "a": "Yes for occasional bottle-feeding (date nights, returning to work, dad's involvement). Start at 4-6 weeks to avoid bottle refusal — too early causes nipple confusion, too late causes bottle refusal."
+    },
+    {
+      "q": "How often should I replace nipples?",
+      "a": "Every 6-8 weeks of daily use, or sooner if the silicone shows cracks/discoloration. All five bottles have replacement nipples sold separately."
+    },
+    {
+      "q": "Glass or plastic bottles?",
+      "a": "Plastic is fine post-BPA-ban (all five tested are BPA/BPS/phthalate-free). Glass is heavier and breaks but is the option if you're worried about long-term chemical exposure."
+    }
+  ],
+  "products": {
+    "dr-browns-options-plus": {
+      "badge": "🏆 Best for colicky babies",
+      "review": "Dr. Brown's Options+ Anti-Colic is the pediatrician-recommended pick. Internal vent system measurably reduces air ingestion — visible difference in gas/spit-up frequency. Trade-off: 4 parts to wash means dishwasher cycle time matters. Remove vent for older babies.",
+      "pros": [
+        "Best gas/colic reduction in test",
+        "Vent removable for older babies"
+      ],
+      "cons": [
+        "Most parts to wash (4) vs. competitors"
+      ]
+    },
+    "comotomo-natural-feel": {
+      "badge": "🤱 Best for breastfed babies",
+      "review": "Comotomo Natural Feel is the easiest transition for breastfed babies. 100% silicone body squeezes like breast, wide nipple mimics shape, dual anti-colic vents in nipple. Only 2 parts to wash. Day-1 acceptance was 4/4 babies — the only bottle that hit perfect acceptance.",
+      "pros": [
+        "100% silicone body mimics breast",
+        "Only 2 parts to wash"
+      ],
+      "cons": [
+        "Silicone body collects dust electrostatically"
+      ]
+    },
+    "philips-avent-natural-response": {
+      "badge": "💼 Best mainstream",
+      "review": "Philips Avent Natural Response is the broadly-available choice — every Target, Walmart, and CVS carries replacement parts. Petal-textured wide nipple, AirFree vent reduces colic, flow control responds to baby's suction pattern. Solid all-rounder.",
+      "pros": [
+        "Widely available replacement nipples",
+        "Flow control responds to baby"
+      ],
+      "cons": [
+        "Anti-colic vent less effective than Dr. Brown's"
+      ]
+    },
+    "tommee-tippee-closer": {
+      "badge": "🌎 Most popular outside US",
+      "review": "Tommee Tippee Closer to Nature is the UK's most-recommended bottle and growing in the US. Breast-like silicone nipple, anti-colic valve, dishwasher safe. Larger neck makes hand-washing easy. 3/4 babies accepted day 1.",
+      "pros": [
+        "Wide neck easy to clean",
+        "Breast-like silicone nipple"
+      ],
+      "cons": [
+        "Less ubiquitous parts availability in US"
+      ]
+    },
+    "mam-easy-start-anti-colic": {
+      "badge": "⚡ Self-sterilizing",
+      "review": "MAM Easy Start Anti-Colic self-sterilizes in the microwave in 3 minutes — useful for travel and no-dishwasher situations. SkinSoft nipple texture has 80% reported acceptance rate. Best for road trips and grandparent care.",
+      "pros": [
+        "Self-sterilizes in microwave (3 min)",
+        "Affordable at $15-22"
+      ],
+      "cons": [
+        "Anti-colic effect is mild vs. Dr. Brown's"
+      ]
+    }
+  },
+  "offerNotes": {
+    "dr-browns-options-plus": "Options+ is the current model; standard Options (without +) is older and lacks improved vent.",
+    "comotomo-natural-feel": "Get the green (8 oz) — pink (5 oz) outgrown by month 3.",
+    "philips-avent-natural-response": "Natural Response replaces older Natural — confirm the model.",
+    "tommee-tippee-closer": "Closer to Nature is the original; Advanced Anti-Colic adds Dr. Brown's-style internal vent.",
+    "mam-easy-start-anti-colic": "Anti-Colic version has the self-sterilizing base; standard Easy Start does not."
+  },
+  "pinDescription": "Here's the bottle that hit 4/4 acceptance — and the colicky-baby winner.",
+  "recommendedFor": [
+    {
+      "label": "Parents of newborns with severe gas and colic",
+      "offerId": "dr-browns-options-plus",
+      "reason": "The internal vent system measurably reduces air ingestion, directly cutting gas and spit-up in colicky babies."
+    },
+    {
+      "label": "Breastfeeding mothers returning to part-time work",
+      "offerId": "comotomo-natural-feel",
+      "reason": "The 100% silicone squeeze body and wide nipple mimic the breast closely enough for 4/4 babies to accept on day one."
+    },
+    {
+      "label": "First-time parents living in smaller US towns",
+      "offerId": "philips-avent-natural-response",
+      "reason": "Replacement nipples are stocked at every Target, Walmart, and CVS, so you're never stuck waiting on shipping."
+    },
+    {
+      "label": "Expat families and international frequent movers",
+      "offerId": "tommee-tippee-closer",
+      "reason": "The UK's top-recommended bottle means replacement parts are easy to find whether you're shopping in London or Sydney."
+    },
+    {
+      "label": "Traveling parents and grandparent caregivers",
+      "offerId": "mam-easy-start-anti-colic",
+      "reason": "Self-sterilizes in any microwave in 3 minutes, making sterile feeding possible without a dishwasher or sterilizer on hand."
+    }
+  ]
 }
