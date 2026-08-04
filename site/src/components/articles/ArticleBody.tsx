@@ -46,6 +46,11 @@ interface Props {
 }
 
 export function ArticleBody({ meta, content, offers, related = [] }: Props) {
+  // 開示文は「報酬が発生しうるリンクがある記事」にだけ出す。
+  // Skimlinks(全リンクをクリック時にアフィリ化していた)は 2026-08-04 に
+  // アカウント無効化が判明して撤去したため、network:"direct" のみの記事は
+  // 実際に非収益。そこで「アフィリエイトリンクを含む」と書くのは不正確。
+  const hasMonetisedLink = offers.some((o) => o.links?.some((l) => l.network !== "direct"));
   const t = useTranslations();
   const locale = useLocale();
   const isComparison = meta.type === "comparison";
@@ -552,15 +557,15 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
             </section>
           )}
 
-          {/* Disclosure note — Skimlinks が全ページで外部リンクをクリック時に
-              アフィリエイトへ書き換えるため(root layout の skimlinks.js)、
-              direct リンクのみの記事でも報酬が発生しうる。開示は常時表示する。 */}
-          <div className="mt-10 rounded-xl bg-slate-50 border border-slate-200 px-4 py-3 text-xs text-slate-500">
-            {t("offer.disclosureBadge")} — {t("offer.disclosureNote")}
-            <Link href="/disclosure" className="ml-1 underline hover:text-brand-600">
-              {t("nav.disclosure")}
-            </Link>
-          </div>
+          {/* Disclosure note — 報酬が発生しうるリンクがある記事のみ */}
+          {hasMonetisedLink && (
+            <div className="mt-10 rounded-xl bg-slate-50 border border-slate-200 px-4 py-3 text-xs text-slate-500">
+              {t("offer.disclosureBadge")} — {t("offer.disclosureNote")}
+              <Link href="/disclosure" className="ml-1 underline hover:text-brand-600">
+                {t("nav.disclosure")}
+              </Link>
+            </div>
+          )}
         </div>
 
         {/* Sidebar (desktop only) */}

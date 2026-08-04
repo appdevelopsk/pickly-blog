@@ -37,11 +37,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       {/* Analytics (GA4 + Microsoft Clarity) is wired in src/components/Analytics.tsx,
           rendered from [locale]/layout.tsx — do NOT add a second GA tag here. */}
       {/* Skimlinks — auto-monetize product links (publisher 302910X1790935) */}
-      <script
-        type="text/javascript"
-        src="https://s.skimresources.com/js/302910X1790935.skimlinks.js"
-        async
-      />
+        {/* Skimlinks(302910)は2026-08-04にアカウント無効化を確認し撤去。
+            復活させる場合はアカウント再有効化を確認してから戻すこと。 */}
     </>
   );
 }
