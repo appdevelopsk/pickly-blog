@@ -158,12 +158,16 @@ jobs:
       # 出すので、noindexロケールの .txt だけ落として枠を空ける。
       # 検索に出ないページのソフト遷移が失敗してもハードナビゲーションに
       # フォールバックするだけで、表示は壊れない。
-      - name: Trim RSC payloads for noindex locales
+      # 2026-08-05: 6ロケールぶんでは足りなくなった。マーケットに合わせた買い口を
+      # 出せるようにすると +約4,000ページ増え、25,012ファイルで再び落ちた。
+      # .txt は「クライアント遷移を速くするための複製」であって、ページの中身は
+      # index.html に全部入っている。落としても検索にも表示にも影響しない
+      # (ソフト遷移がハードナビゲーションに戻るだけ)。**コンテンツを削るより先に
+      # ここを削る** — 記事やロケールを畳むのは元に戻せない判断なので後回しにする。
+      - name: Trim RSC payloads
         run: |
           before=$(find out -type f | wc -l)
-          for loc in ar hi id th tr vi; do
-            [ -d "out/$loc" ] && find "out/$loc" -name '*.txt' -delete
-          done
+          find out -name '*.txt' ! -name 'robots.txt' -delete
           after=$(find out -type f | wc -l)
           echo "files: $before -> $after (Pages limit 20000)"
           if [ "$after" -ge 20000 ]; then
