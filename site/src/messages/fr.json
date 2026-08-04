@@ -92,7 +92,7 @@
     "lastUpdatedLabel": "Dernière mise à jour : {date}",
     "about": {
       "heading": "À propos de Pickly",
-      "lede": "Nous testons des produits, comparons en toute honnêteté et publions le résultat dans 17 langues.",
+      "lede": "Nous comparons les produits à partir de données publiées, les classons honnêtement et publions le résultat en 17 langues.",
       "sections": [
         {
           "heading": "Qui est derrière",
@@ -111,7 +111,7 @@
         {
           "heading": "Standards éditoriaux",
           "paragraphs": [
-            "Chaque produit recommandé a soit été testé directement, soit évalué sur la base de spécifications documentées, de benchmarks indépendants et de retours utilisateurs vérifiés. Les produits que nous ne pouvons recommander honnêtement sont écartés, peu importe la commission.",
+            "Chaque produit recommandé a soit été comparé directement, soit évalué sur la base de spécifications documentées, de benchmarks indépendants et de retours utilisateurs vérifiés. Les produits que nous ne pouvons recommander honnêtement sont écartés, peu importe la commission.",
             "Nous indiquons au moins une faiblesse pour chaque produit. Aucun produit n'est parfait, et un avis qui dit le contraire n'est pas un avis."
           ]
         },
@@ -359,11 +359,11 @@
     },
     "black-friday": {
       "title": "Bons plans Black Friday 2026",
-      "description": "Des achats Black Friday qui en valent la peine — des produits testés dans toutes les catégories, avec des remises vraiment intéressantes."
+      "description": "Des achats Black Friday qui en valent la peine — des produits comparés dans toutes les catégories, avec des remises vraiment intéressantes."
     },
     "cyber-monday": {
       "title": "Bons plans Cyber Monday 2026",
-      "description": "Les meilleures offres Cyber Monday en tech, logiciels et électronique — des produits testés que nous recommandons à n'importe quel prix."
+      "description": "Les meilleures offres Cyber Monday en tech, logiciels et électronique — des produits comparés que nous recommandons à n'importe quel prix."
     },
     "mothers-day-deals": {
       "title": "Sélection fête des Mères 2026",
@@ -427,15 +427,15 @@
   "giftPages": {
     "christmas": {
       "title": "Idées cadeaux de Noël 2026",
-      "description": "Des cadeaux testés dans toutes les catégories — de quoi faire plaisir à chacun sur votre liste."
+      "description": "Des cadeaux comparés dans toutes les catégories — de quoi faire plaisir à chacun sur votre liste."
     },
     "mothers-day": {
       "title": "Idées cadeaux fête des Mères 2026",
-      "description": "Des cadeaux attentionnés et testés pour les mamans — beauté, maison, bien-être et gastronomie qu'elle va adorer."
+      "description": "Des cadeaux attentionnés et comparés pour les mamans — beauté, maison, bien-être et gastronomie qu'elle va adorer."
     },
     "fathers-day": {
       "title": "Idées cadeaux fête des Pères 2026",
-      "description": "Des cadeaux pratiques et testés pour les papas — tech, fitness, cuisine et plein air."
+      "description": "Des cadeaux pratiques et comparés pour les papas — tech, fitness, cuisine et plein air."
     },
     "graduation": {
       "title": "Idées cadeaux de remise de diplôme 2026",
@@ -451,11 +451,11 @@
     },
     "birthday": {
       "title": "Idées cadeaux d'anniversaire 2026",
-      "description": "Des cadeaux d'anniversaire qui plaisent à coup sûr, quel que soit le profil — testés et classés."
+      "description": "Des cadeaux d'anniversaire qui plaisent à coup sûr, quel que soit le profil — comparés et classés."
     },
     "baby-shower": {
       "title": "Idées cadeaux baby shower 2026",
-      "description": "Des cadeaux de naissance pratiques, testés côté sécurité, que les jeunes parents utiliseront vraiment."
+      "description": "Des cadeaux de naissance pratiques, comparés côté sécurité, que les jeunes parents utiliseront vraiment."
     },
     "anniversary": {
       "title": "Idées cadeaux d'anniversaire de mariage 2026",
@@ -530,7 +530,7 @@
     },
     "travelers": {
       "title": "Le meilleur équipement de voyage 2026",
-      "description": "De l'équipement testé pour tous les types de voyage — bagages, tech, fitness et mode qui voyagent vraiment bien."
+      "description": "De l'équipement comparé pour tous les types de voyage — bagages, tech, fitness et mode qui voyagent vraiment bien."
     },
     "fitness-beginners": {
       "title": "Le meilleur équipement fitness pour débutants 2026",
@@ -542,7 +542,7 @@
     },
     "pet-owners": {
       "title": "Les meilleurs produits pour propriétaires d'animaux 2026",
-      "description": "Tout ce qu'il faut à votre animal — alimentation, santé, confort et jeu, testé avec de vrais animaux."
+      "description": "Tout ce qu'il faut à votre animal — alimentation, santé, confort et jeu, sélectionnés sur des données publiées."
     },
     "new-parents": {
       "title": "Les meilleurs produits pour jeunes parents 2026",
@@ -587,7 +587,7 @@
     "latestBadge": "Derniers tests",
     "annualGuide": "Guide annuel",
     "editorsPicks": "Choix de la rédaction",
-    "bestofLead": "Nos meilleurs choix testés dans les 10 catégories — mis à jour au fil des lancements de produits et des évolutions des classements tout au long de 2026.",
+    "bestofLead": "Nos meilleurs choix comparés dans les 10 catégories — mis à jour au fil des lancements de produits et des évolutions des classements tout au long de 2026.",
     "allCatReviews": "Tous les tests {cat} →",
     "moreCatReviews": "+{count} autres tests {cat} →",
     "browseAllReviews": "Parcourir les {count} tests →",
@@ -603,10 +603,10 @@
     "brandBadge": "Tests de marque",
     "noResults": "Aucun résultat pour « {query} »",
     "resultsFor": "{count} résultats pour « {query} »",
-    "picksReviewed": "{count} sélections testées",
+    "picksReviewed": "{count} sélections comparées",
     "bestBrandProducts": "Meilleurs produits {brand} 2026",
-    "brandStats": "{products} produits {brand} testés · {articles} articles comparatifs",
-    "brandTested": "Nous avons testé des produits {brand} dans plusieurs catégories pour identifier ceux qui valent vraiment l'achat.",
+    "brandStats": "{products} produits {brand} comparés · {articles} articles comparatifs",
+    "brandTested": "Nous avons comparé des produits {brand} dans plusieurs catégories pour identifier ceux qui valent vraiment l'achat.",
     "noBudgetResults": "Aucun résultat dans cette gamme de budget pour le moment.",
     "noUsecaseArticles": "Aucun article pour ce cas d'usage pour le moment.",
     "notInLanguage": "Pas encore disponible dans cette langue.",

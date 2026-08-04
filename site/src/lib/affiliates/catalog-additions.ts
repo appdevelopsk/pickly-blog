@@ -13814,7 +13814,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -13840,7 +13840,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -13866,7 +13866,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -13892,7 +13892,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -13918,7 +13918,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -13944,7 +13944,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -13970,7 +13970,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -13996,7 +13996,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14022,7 +14022,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14048,7 +14048,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14074,7 +14074,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14100,7 +14100,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14126,7 +14126,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14152,7 +14152,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14178,7 +14178,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14204,7 +14204,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14230,7 +14230,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14256,7 +14256,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14282,7 +14282,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14308,7 +14308,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14334,7 +14334,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14360,7 +14360,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14386,7 +14386,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14412,7 +14412,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14438,7 +14438,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14464,7 +14464,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14490,7 +14490,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14516,7 +14516,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14542,7 +14542,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -14568,7 +14568,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -17714,7 +17714,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -17740,7 +17740,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -17766,7 +17766,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -17792,7 +17792,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -17818,7 +17818,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -17844,7 +17844,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -17870,7 +17870,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -17896,7 +17896,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -17922,7 +17922,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -17948,7 +17948,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -17974,7 +17974,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18000,7 +18000,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18026,7 +18026,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18052,7 +18052,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18078,7 +18078,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18104,7 +18104,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18130,7 +18130,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18156,7 +18156,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18182,7 +18182,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18208,7 +18208,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18234,7 +18234,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18260,7 +18260,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18286,7 +18286,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18312,7 +18312,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18338,7 +18338,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18364,7 +18364,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18390,7 +18390,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18416,7 +18416,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -18442,7 +18442,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21588,7 +21588,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21614,7 +21614,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21640,7 +21640,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21666,7 +21666,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21692,7 +21692,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21718,7 +21718,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21744,7 +21744,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21770,7 +21770,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21796,7 +21796,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21822,7 +21822,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21848,7 +21848,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21874,7 +21874,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21900,7 +21900,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21926,7 +21926,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21952,7 +21952,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -21978,7 +21978,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22004,7 +22004,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22030,7 +22030,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22056,7 +22056,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22082,7 +22082,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22108,7 +22108,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22134,7 +22134,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22160,7 +22160,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22186,7 +22186,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22212,7 +22212,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22238,7 +22238,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22264,7 +22264,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22290,7 +22290,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -22316,7 +22316,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -24682,7 +24682,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -24708,7 +24708,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -24734,7 +24734,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -24760,7 +24760,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -24786,7 +24786,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -25288,7 +25288,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -25314,7 +25314,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -25340,7 +25340,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -25366,7 +25366,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -25392,7 +25392,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -26588,7 +26588,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -26614,7 +26614,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -26640,7 +26640,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -26666,7 +26666,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -26692,7 +26692,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -26718,7 +26718,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -26744,7 +26744,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -26770,7 +26770,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -26796,7 +26796,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -26822,7 +26822,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -29318,7 +29318,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -29344,7 +29344,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -29370,7 +29370,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -29396,7 +29396,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -29422,7 +29422,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -29448,7 +29448,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -29474,7 +29474,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -29500,7 +29500,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -29526,7 +29526,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -29552,7 +29552,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30098,7 +30098,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30124,7 +30124,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30150,7 +30150,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30176,7 +30176,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30202,7 +30202,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30228,7 +30228,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30254,7 +30254,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30280,7 +30280,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30306,7 +30306,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30332,7 +30332,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30358,7 +30358,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30384,7 +30384,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30410,7 +30410,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30436,7 +30436,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -30462,7 +30462,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34648,7 +34648,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34674,7 +34674,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34700,7 +34700,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34726,7 +34726,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34752,7 +34752,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34778,7 +34778,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34804,7 +34804,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34830,7 +34830,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34856,7 +34856,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34882,7 +34882,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34908,7 +34908,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34934,7 +34934,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34960,7 +34960,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -34986,7 +34986,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35012,7 +35012,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35038,7 +35038,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35064,7 +35064,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35090,7 +35090,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35116,7 +35116,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35142,7 +35142,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35428,7 +35428,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35454,7 +35454,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35480,7 +35480,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35506,7 +35506,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35532,7 +35532,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35558,7 +35558,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35584,7 +35584,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35610,7 +35610,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35636,7 +35636,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35662,7 +35662,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35688,7 +35688,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35714,7 +35714,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35740,7 +35740,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35766,7 +35766,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35792,7 +35792,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35818,7 +35818,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35844,7 +35844,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35870,7 +35870,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35896,7 +35896,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35922,7 +35922,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35948,7 +35948,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -35974,7 +35974,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36000,7 +36000,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36026,7 +36026,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36052,7 +36052,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36208,7 +36208,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36234,7 +36234,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36260,7 +36260,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36286,7 +36286,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36312,7 +36312,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36338,7 +36338,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36364,7 +36364,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36390,7 +36390,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36416,7 +36416,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36442,7 +36442,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36468,7 +36468,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36494,7 +36494,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36520,7 +36520,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36546,7 +36546,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36572,7 +36572,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36598,7 +36598,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36624,7 +36624,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36650,7 +36650,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36676,7 +36676,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36702,7 +36702,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36728,7 +36728,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36754,7 +36754,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36780,7 +36780,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36806,7 +36806,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36832,7 +36832,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36858,7 +36858,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36884,7 +36884,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36910,7 +36910,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36936,7 +36936,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36962,7 +36962,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -36988,7 +36988,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37014,7 +37014,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37040,7 +37040,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37066,7 +37066,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37092,7 +37092,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37118,7 +37118,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37144,7 +37144,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37170,7 +37170,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37196,7 +37196,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37222,7 +37222,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37378,7 +37378,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37404,7 +37404,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37430,7 +37430,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37456,7 +37456,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -37482,7 +37482,7 @@ export const CATALOG_ADDITIONS = [
         "markets": [
           "global"
         ],
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -45382,31 +45382,31 @@ export const CATALOG_ADDITIONS = [
     ],
   },
   // Finance: Roth IRA / Index Funds / ETFs / HSA
-  { id: "fidelity-roth-ira", imageUrl: "https://i.ytimg.com/vi/Kc2C6Pi7Ioc/maxresdefault.jpg", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Fidelity Roth IRA", ja: "フィデリティ ロスIRA" }, description: { en: "No account fees, no minimums, and access to thousands of funds. Includes fractional shares and a robust mobile app.", ja: "口座手数料なし・最低残高なし、数千のファンドにアクセス可能。端株取引と充実したモバイルアプリ付き。" }, links: [{ network: "direct", productId: "https://www.fidelity.com/retirement-ira/roth-ira", markets: ["global"], approved: false }] },
-  { id: "schwab-roth-ira", imageUrl: "https://www.uscreditcardguide.com/wp-content/uploads/schwab_title.png?anything", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Charles Schwab Roth IRA", ja: "チャールズ・シュワブ ロスIRA" }, description: { en: "No minimums, $0 trades, and access to Schwab's index funds with 0.03% expense ratios. 24/7 customer support.", ja: "最低残高なし・取引手数料$0、0.03%経費率のインデックスファンドにアクセス可能。24時間サポート。" }, links: [{ network: "direct", productId: "https://www.schwab.com/ira/roth-ira", markets: ["global"], approved: false }] },
-  { id: "vanguard-roth-ira", imageUrl: "https://i.ytimg.com/vi/IndkSTP55Fg/maxresdefault.jpg", priceMin: "0", priceMax: "20", category: "finance", badge: "💰", name: { en: "Vanguard Roth IRA", ja: "バンガード ロスIRA" }, description: { en: "Home of the world's lowest-cost index funds. $1,000 minimum for most funds; $20/yr fee waived with e-delivery.", ja: "世界最低水準の低コストインデックスファンド。大半のファンドは最低$1,000、電子配信で$20/年の手数料免除。" }, links: [{ network: "direct", productId: "https://investor.vanguard.com/ira/roth-ira", markets: ["global"], approved: false }] },
-  { id: "betterment-roth-ira", imageUrl: "https://www.mysolo401k.net/wp-content/uploads/2025/06/Betterment-Mega-Backdoor-Roth-IRA-How-to-Contribute-70k-to-Roth-IRA-in-2025.jpg", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Betterment Roth IRA", ja: "ベターメント ロスIRA" }, description: { en: "Robo-advisor with automated rebalancing, tax-loss harvesting, and goal-based investing. 0.25%/yr AUM fee.", ja: "自動リバランス・税損失収穫・目標ベース投資のロボアドバイザー。年率0.25%のAUM手数料。" }, links: [{ network: "direct", productId: "https://www.betterment.com/roth-ira", markets: ["global"], approved: false }] },
-  { id: "wealthfront-roth-ira", imageUrl: "https://media1.moneywise.com/topic/investing/reviews/wealthfront-ira-481/Screen%20Shot%202023-07-26%20at%202.43.53%20PM-1690397057.png", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Wealthfront Roth IRA", ja: "ウェルスフロント ロスIRA" }, description: { en: "Automated investing with direct indexing for accounts over $100K. 0.25%/yr management fee, no trading commissions.", ja: "10万ドル超でダイレクトインデクシング対応の自動投資。年率0.25%の管理手数料、売買手数料なし。" }, links: [{ network: "direct", productId: "https://www.wealthfront.com/roth-ira", markets: ["global"], approved: false }] },
-  { id: "vti-vanguard-total-market", imageUrl: "https://i.ytimg.com/vi/bNNq-w9_Y5Q/maxresdefault.jpg", priceMin: "0.03", priceMax: "0.03", category: "finance", badge: "💰", name: { en: "Vanguard Total Stock Market ETF (VTI)", ja: "バンガード 全米株式ETF（VTI）" }, description: { en: "Covers the entire U.S. equity market — large, mid, small, and micro-cap. 0.03% expense ratio. One of the largest ETFs globally.", ja: "大型・中型・小型・マイクロキャップを含む米国株式市場全体をカバー。経費率0.03%。世界最大級のETF。" }, links: [{ network: "direct", productId: "https://investor.vanguard.com/investment-products/etfs/profile/vti", markets: ["global"], approved: false }] },
-  { id: "fzrox-fidelity-zero", imageUrl: "https://www.personalfinanceclub.com/wp-content/uploads/2020/07/2019-07-10-Fidelity-Zero-Fee-Funds-1024x1024.jpg", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Fidelity ZERO Total Market Index Fund (FZROX)", ja: "フィデリティ ZERO 全米株式インデックスファンド（FZROX）" }, description: { en: "Zero expense ratio, zero minimum investment. Tracks Fidelity's proprietary U.S. total market index. Only available at Fidelity.", ja: "経費率ゼロ・最低投資額ゼロ。フィデリティ独自の全米株式インデックスに連動。フィデリティ専用ファンド。" }, links: [{ network: "direct", productId: "https://fundresearch.fidelity.com/mutual-funds/summary/31635T708", markets: ["global"], approved: false }] },
-  { id: "voo-vanguard-sp500", imageUrl: "https://imgv2-1-f.scribdassets.com/img/document/818294999/original/770e0bf435/1?v=1", priceMin: "0.03", priceMax: "0.03", category: "finance", badge: "💰", name: { en: "Vanguard S&P 500 ETF (VOO)", ja: "バンガード S&P500 ETF（VOO）" }, description: { en: "Tracks the S&P 500 index with a 0.03% expense ratio. One of the most-held ETFs in the world. Pays quarterly dividends.", ja: "0.03%経費率でS&P500インデックスに連動。世界で最も保有者の多いETFの一つ。四半期配当あり。" }, links: [{ network: "direct", productId: "https://investor.vanguard.com/investment-products/etfs/profile/voo", markets: ["global"], approved: false }] },
-  { id: "ivv-ishares-sp500", imageUrl: "https://imgv2-2-f.scribdassets.com/img/document/803282992/original/93b6cee218/1?v=1", priceMin: "0.03", priceMax: "0.03", category: "finance", badge: "💰", name: { en: "iShares Core S&P 500 ETF (IVV)", ja: "iシェアーズ コア S&P500 ETF（IVV）" }, description: { en: "BlackRock's S&P 500 tracker at 0.03% expense ratio. Highly liquid with tight bid-ask spreads. Over $500B in assets.", ja: "0.03%経費率のブラックロックのS&P500追跡ETF。流動性が高くスプレッドが小さい。5,000億ドル超の資産。" }, links: [{ network: "direct", productId: "https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf", markets: ["global"], approved: false }] },
-  { id: "qqq-invesco-nasdaq", imageUrl: "https://www.tradingnews.com/Warehouse/content/pics/pic_38937_a_f3d46acd-fb0f-4129-b045-22d4da14f925.jpg?1=1", priceMin: "0.20", priceMax: "0.20", category: "finance", badge: "💰", name: { en: "Invesco QQQ Trust (QQQ)", ja: "インベスコ QQQ トラスト（QQQ）" }, description: { en: "Tracks the Nasdaq-100 — top 100 non-financial Nasdaq companies. Heavy tech weighting. 0.20% expense ratio.", ja: "Nasdaq上場上位100の非金融企業を追跡。テクノロジーに偏重。経費率0.20%。" }, links: [{ network: "direct", productId: "https://www.invesco.com/qqq-etf/en/home.html", markets: ["global"], approved: false }] },
-  { id: "bnd-vanguard-total-bond", imageUrl: "https://i.ytimg.com/vi/BlkRF3rPp9M/maxresdefault.jpg", priceMin: "0.03", priceMax: "0.03", category: "finance", badge: "💰", name: { en: "Vanguard Total Bond Market ETF (BND)", ja: "バンガード 米国総合債券市場ETF（BND）" }, description: { en: "Broad exposure to U.S. investment-grade bonds. 0.03% expense ratio. Includes government, corporate, and mortgage-backed bonds.", ja: "米国投資適格債券への幅広いエクスポージャー。経費率0.03%。国債・社債・モーゲージ担保証券を含む。" }, links: [{ network: "direct", productId: "https://investor.vanguard.com/investment-products/etfs/profile/bnd", markets: ["global"], approved: false }] },
+  { id: "fidelity-roth-ira", imageUrl: "https://i.ytimg.com/vi/Kc2C6Pi7Ioc/maxresdefault.jpg", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Fidelity Roth IRA", ja: "フィデリティ ロスIRA" }, description: { en: "No account fees, no minimums, and access to thousands of funds. Includes fractional shares and a robust mobile app.", ja: "口座手数料なし・最低残高なし、数千のファンドにアクセス可能。端株取引と充実したモバイルアプリ付き。" }, links: [{ network: "direct", productId: "https://www.fidelity.com/retirement-ira/roth-ira", markets: ["global"], approved: true }] },
+  { id: "schwab-roth-ira", imageUrl: "https://www.uscreditcardguide.com/wp-content/uploads/schwab_title.png?anything", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Charles Schwab Roth IRA", ja: "チャールズ・シュワブ ロスIRA" }, description: { en: "No minimums, $0 trades, and access to Schwab's index funds with 0.03% expense ratios. 24/7 customer support.", ja: "最低残高なし・取引手数料$0、0.03%経費率のインデックスファンドにアクセス可能。24時間サポート。" }, links: [{ network: "direct", productId: "https://www.schwab.com/ira/roth-ira", markets: ["global"], approved: true }] },
+  { id: "vanguard-roth-ira", imageUrl: "https://i.ytimg.com/vi/IndkSTP55Fg/maxresdefault.jpg", priceMin: "0", priceMax: "20", category: "finance", badge: "💰", name: { en: "Vanguard Roth IRA", ja: "バンガード ロスIRA" }, description: { en: "Home of the world's lowest-cost index funds. $1,000 minimum for most funds; $20/yr fee waived with e-delivery.", ja: "世界最低水準の低コストインデックスファンド。大半のファンドは最低$1,000、電子配信で$20/年の手数料免除。" }, links: [{ network: "direct", productId: "https://investor.vanguard.com/ira/roth-ira", markets: ["global"], approved: true }] },
+  { id: "betterment-roth-ira", imageUrl: "https://www.mysolo401k.net/wp-content/uploads/2025/06/Betterment-Mega-Backdoor-Roth-IRA-How-to-Contribute-70k-to-Roth-IRA-in-2025.jpg", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Betterment Roth IRA", ja: "ベターメント ロスIRA" }, description: { en: "Robo-advisor with automated rebalancing, tax-loss harvesting, and goal-based investing. 0.25%/yr AUM fee.", ja: "自動リバランス・税損失収穫・目標ベース投資のロボアドバイザー。年率0.25%のAUM手数料。" }, links: [{ network: "direct", productId: "https://www.betterment.com/roth-ira", markets: ["global"], approved: true }] },
+  { id: "wealthfront-roth-ira", imageUrl: "https://media1.moneywise.com/topic/investing/reviews/wealthfront-ira-481/Screen%20Shot%202023-07-26%20at%202.43.53%20PM-1690397057.png", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Wealthfront Roth IRA", ja: "ウェルスフロント ロスIRA" }, description: { en: "Automated investing with direct indexing for accounts over $100K. 0.25%/yr management fee, no trading commissions.", ja: "10万ドル超でダイレクトインデクシング対応の自動投資。年率0.25%の管理手数料、売買手数料なし。" }, links: [{ network: "direct", productId: "https://www.wealthfront.com/", markets: ["global"], approved: true }] },
+  { id: "vti-vanguard-total-market", imageUrl: "https://i.ytimg.com/vi/bNNq-w9_Y5Q/maxresdefault.jpg", priceMin: "0.03", priceMax: "0.03", category: "finance", badge: "💰", name: { en: "Vanguard Total Stock Market ETF (VTI)", ja: "バンガード 全米株式ETF（VTI）" }, description: { en: "Covers the entire U.S. equity market — large, mid, small, and micro-cap. 0.03% expense ratio. One of the largest ETFs globally.", ja: "大型・中型・小型・マイクロキャップを含む米国株式市場全体をカバー。経費率0.03%。世界最大級のETF。" }, links: [{ network: "direct", productId: "https://investor.vanguard.com/investment-products/etfs/profile/vti", markets: ["global"], approved: true }] },
+  { id: "fzrox-fidelity-zero", imageUrl: "https://www.personalfinanceclub.com/wp-content/uploads/2020/07/2019-07-10-Fidelity-Zero-Fee-Funds-1024x1024.jpg", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Fidelity ZERO Total Market Index Fund (FZROX)", ja: "フィデリティ ZERO 全米株式インデックスファンド（FZROX）" }, description: { en: "Zero expense ratio, zero minimum investment. Tracks Fidelity's proprietary U.S. total market index. Only available at Fidelity.", ja: "経費率ゼロ・最低投資額ゼロ。フィデリティ独自の全米株式インデックスに連動。フィデリティ専用ファンド。" }, links: [{ network: "direct", productId: "https://fundresearch.fidelity.com/mutual-funds/summary/31635T708", markets: ["global"], approved: true }] },
+  { id: "voo-vanguard-sp500", imageUrl: "https://imgv2-1-f.scribdassets.com/img/document/818294999/original/770e0bf435/1?v=1", priceMin: "0.03", priceMax: "0.03", category: "finance", badge: "💰", name: { en: "Vanguard S&P 500 ETF (VOO)", ja: "バンガード S&P500 ETF（VOO）" }, description: { en: "Tracks the S&P 500 index with a 0.03% expense ratio. One of the most-held ETFs in the world. Pays quarterly dividends.", ja: "0.03%経費率でS&P500インデックスに連動。世界で最も保有者の多いETFの一つ。四半期配当あり。" }, links: [{ network: "direct", productId: "https://investor.vanguard.com/investment-products/etfs/profile/voo", markets: ["global"], approved: true }] },
+  { id: "ivv-ishares-sp500", imageUrl: "https://imgv2-2-f.scribdassets.com/img/document/803282992/original/93b6cee218/1?v=1", priceMin: "0.03", priceMax: "0.03", category: "finance", badge: "💰", name: { en: "iShares Core S&P 500 ETF (IVV)", ja: "iシェアーズ コア S&P500 ETF（IVV）" }, description: { en: "BlackRock's S&P 500 tracker at 0.03% expense ratio. Highly liquid with tight bid-ask spreads. Over $500B in assets.", ja: "0.03%経費率のブラックロックのS&P500追跡ETF。流動性が高くスプレッドが小さい。5,000億ドル超の資産。" }, links: [{ network: "direct", productId: "https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf", markets: ["global"], approved: true }] },
+  { id: "qqq-invesco-nasdaq", imageUrl: "https://www.tradingnews.com/Warehouse/content/pics/pic_38937_a_f3d46acd-fb0f-4129-b045-22d4da14f925.jpg?1=1", priceMin: "0.20", priceMax: "0.20", category: "finance", badge: "💰", name: { en: "Invesco QQQ Trust (QQQ)", ja: "インベスコ QQQ トラスト（QQQ）" }, description: { en: "Tracks the Nasdaq-100 — top 100 non-financial Nasdaq companies. Heavy tech weighting. 0.20% expense ratio.", ja: "Nasdaq上場上位100の非金融企業を追跡。テクノロジーに偏重。経費率0.20%。" }, links: [{ network: "direct", productId: "https://www.invesco.com/qqq-etf/en/home.html", markets: ["global"], approved: true }] },
+  { id: "bnd-vanguard-total-bond", imageUrl: "https://i.ytimg.com/vi/BlkRF3rPp9M/maxresdefault.jpg", priceMin: "0.03", priceMax: "0.03", category: "finance", badge: "💰", name: { en: "Vanguard Total Bond Market ETF (BND)", ja: "バンガード 米国総合債券市場ETF（BND）" }, description: { en: "Broad exposure to U.S. investment-grade bonds. 0.03% expense ratio. Includes government, corporate, and mortgage-backed bonds.", ja: "米国投資適格債券への幅広いエクスポージャー。経費率0.03%。国債・社債・モーゲージ担保証券を含む。" }, links: [{ network: "direct", productId: "https://investor.vanguard.com/investment-products/etfs/profile/bnd", markets: ["global"], approved: true }] },
   // HSA accounts
-  { id: "fidelity-hsa", imageUrl: "https://i.ytimg.com/vi/zO-7Tn_yYdg/maxresdefault.jpg", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Fidelity HSA", ja: "フィデリティ HSA" }, description: { en: "No fees, no minimums, and access to Fidelity's full investment lineup including index funds. Top-rated HSA for investors.", ja: "手数料なし・最低残高なし、フィデリティの全ファンドラインナップにアクセス可能。投資家向けHSAのトップ評価。" }, links: [{ network: "direct", productId: "https://www.fidelity.com/go/hsa/overview", markets: ["global"], approved: false }] },
-  { id: "optum-bank-hsa", imageUrl: "https://www.optum.com/content/dam/optum4/images/business/financial/1080x720/1080x720-optum-hsa-fsa-payment-card.png", priceMin: "2.75", priceMax: "2.75", category: "finance", badge: "💰", name: { en: "Optum Bank HSA", ja: "オプタムバンク HSA" }, description: { en: "Widely offered through employer benefits. $2.75/mo fee for investment accounts. Integrates with UnitedHealth Group ecosystem.", ja: "雇用主の福利厚生で広く提供。投資口座は月$2.75の手数料。UnitedHealthグループエコシステムと連携。" }, links: [{ network: "direct", productId: "https://www.optumbank.com/health-savings-accounts.html", markets: ["global"], approved: false }] },
-  { id: "lively-hsa", imageUrl: "https://images.squarespace-cdn.com/content/v1/584cc5bebe6594f675630dae/1536295860801-3B1OTIU07EI1T19SYW9R/ke17ZwdGBToddI8pDm48kERdfmgsgrUkXmYk69ixTY0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc970c3gQXO0Y8d3sEVrEmKA004so32aD0LSxZ5OMIUxnOMPRYyB1Xm5GX-Nplb3Hf/debitcard.png", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Lively HSA", ja: "ライブリー HSA" }, description: { en: "Free for individuals, fee-based for employers. Invests through TD Ameritrade. Clean interface and no hidden fees.", ja: "個人無料・雇用主向け有料。TD Ameritradeで投資。クリーンなインターフェースで隠れた手数料なし。" }, links: [{ network: "direct", productId: "https://livelyme.com/hsa/", markets: ["global"], approved: false }] },
+  { id: "fidelity-hsa", imageUrl: "https://i.ytimg.com/vi/zO-7Tn_yYdg/maxresdefault.jpg", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Fidelity HSA", ja: "フィデリティ HSA" }, description: { en: "No fees, no minimums, and access to Fidelity's full investment lineup including index funds. Top-rated HSA for investors.", ja: "手数料なし・最低残高なし、フィデリティの全ファンドラインナップにアクセス可能。投資家向けHSAのトップ評価。" }, links: [{ network: "direct", productId: "https://www.fidelity.com/go/hsa/overview", markets: ["global"], approved: true }] },
+  { id: "optum-bank-hsa", imageUrl: "https://www.optum.com/content/dam/optum4/images/business/financial/1080x720/1080x720-optum-hsa-fsa-payment-card.png", priceMin: "2.75", priceMax: "2.75", category: "finance", badge: "💰", name: { en: "Optum Bank HSA", ja: "オプタムバンク HSA" }, description: { en: "Widely offered through employer benefits. $2.75/mo fee for investment accounts. Integrates with UnitedHealth Group ecosystem.", ja: "雇用主の福利厚生で広く提供。投資口座は月$2.75の手数料。UnitedHealthグループエコシステムと連携。" }, links: [{ network: "direct", productId: "https://www.optumbank.com/health-savings-accounts.html", markets: ["global"], approved: true }] },
+  { id: "lively-hsa", imageUrl: "https://images.squarespace-cdn.com/content/v1/584cc5bebe6594f675630dae/1536295860801-3B1OTIU07EI1T19SYW9R/ke17ZwdGBToddI8pDm48kERdfmgsgrUkXmYk69ixTY0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc970c3gQXO0Y8d3sEVrEmKA004so32aD0LSxZ5OMIUxnOMPRYyB1Xm5GX-Nplb3Hf/debitcard.png", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Lively HSA", ja: "ライブリー HSA" }, description: { en: "Free for individuals, fee-based for employers. Invests through TD Ameritrade. Clean interface and no hidden fees.", ja: "個人無料・雇用主向け有料。TD Ameritradeで投資。クリーンなインターフェースで隠れた手数料なし。" }, links: [{ network: "direct", productId: "https://livelyme.com/hsa/", markets: ["global"], approved: true }] },
   // Credit cards
-  { id: "wells-fargo-reflect-card", imageUrl: "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v6-3-26/images/Products/Reflect/Reflect_homepage.png", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Wells Fargo Reflect Card", ja: "ウェルズ・ファーゴ リフレクト カード" }, description: { en: "0% intro APR for 21 months on purchases and qualifying balance transfers. No annual fee. Cell phone protection included.", ja: "購入・残高振替に21ヶ月間0%導入APR。年会費なし。携帯電話保護付き。" }, links: [{ network: "direct", productId: "https://creditcards.wellsfargo.com/reflect-visa-credit-card", markets: ["global"], approved: false }] },
-  { id: "citi-double-cash-card", imageUrl: "https://frequentmiler.com/wp-content/uploads/2022/01/Citi-Double-Cash-Card-2022.jpg", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Citi Double Cash Card", ja: "シティ ダブルキャッシュ カード" }, description: { en: "2% cash back on everything — 1% when you buy, 1% when you pay. 0% intro APR on balance transfers for 18 months.", ja: "全購入で2%キャッシュバック（購入時1%＋支払時1%）。残高振替に18ヶ月間0%導入APR。" }, links: [{ network: "direct", productId: "https://www.citi.com/credit-cards/citi-double-cash-credit-card", markets: ["global"], approved: false }] },
-  { id: "chase-sapphire-preferred-rewards", imageUrl: "https://www.forbes.com/advisor/wp-content/uploads/2025/02/Chase-Sapphire-Preferred-Credit-Card-Review-2025_-Low-Cost-High-Value-Travel-Rewards.jpg", priceMin: "95", priceMax: "95", category: "finance", badge: "💰", name: { en: "Chase Sapphire Preferred Card", ja: "チェイス サファイア プリファード カード" }, description: { en: "$95/yr annual fee. 3x on dining, 2x on travel. 60,000-point sign-up bonus. Points transfer to 14+ airline and hotel partners.", ja: "年会費$95。外食3倍・旅行2倍ポイント。6万ポイントの入会ボーナス。14社以上の航空・ホテルへポイント移行可。" }, links: [{ network: "direct", productId: "https://creditcards.chase.com/travel-credit-cards/sapphire/preferred", markets: ["global"], approved: false }] },
-  { id: "ledger-nano-x", imageUrl: "https://cdn.shopify.com/s/files/1/2974/4858/products/01_4f10d168-302a-47b3-b79f-e0a6b6da7a48.png?v=1644216184", priceMin: "149", priceMax: "149", category: "finance", badge: "💰", name: { en: "Ledger Nano X Hardware Wallet", ja: "レジャー ナノX ハードウェアウォレット" }, description: { en: "Bluetooth-enabled cold storage for 5,500+ cryptocurrencies. Certified secure element chip (CC EAL5+). Manages up to 100 apps simultaneously.", ja: "5,500以上の暗号通貨に対応するBluetooth対応コールドストレージ。認定セキュアエレメントチップ（CC EAL5+）。最大100アプリ同時管理。" }, links: [{ network: "direct", productId: "https://shop.ledger.com/products/ledger-nano-x", markets: ["global"], approved: false }] },
-  { id: "trezor-model-t", imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Trezor_Model_T.jpg/1280px-Trezor_Model_T.jpg", priceMin: "179", priceMax: "179", category: "finance", badge: "💰", name: { en: "Trezor Model T Hardware Wallet", ja: "トレザー モデルT ハードウェアウォレット" }, description: { en: "Touchscreen cold wallet supporting 1,800+ coins. Open-source firmware. Shamir backup (SLIP39) for advanced recovery options.", ja: "1,800以上のコインに対応するタッチスクリーン型コールドウォレット。オープンソースファームウェア。シャミア・バックアップ（SLIP39）対応。" }, links: [{ network: "direct", productId: "https://trezor.io/trezor-model-t", markets: ["global"], approved: false }] },
-  { id: "sofi-debt-consolidation", imageUrl: "https://coverager.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-28-at-1.50.13-PM-scaled.jpg", priceMin: "8.99", priceMax: "29.99", category: "finance", badge: "💰", name: { en: "SoFi Personal Loan (Debt Consolidation)", ja: "SoFi パーソナルローン（債務整理）" }, description: { en: "No origination fees, no prepayment penalties. APR 8.99–29.99%. Loan amounts $5K–$100K. Unemployment protection feature.", ja: "手数料なし・繰上返済ペナルティなし。APR 8.99〜29.99%。$5,000〜$100,000。失業時保護機能付き。" }, links: [{ network: "direct", productId: "https://www.sofi.com/personal-loans/debt-consolidation/", markets: ["global"], approved: false }] },
-  { id: "lightstream-debt-consolidation", imageUrl: "https://i.ytimg.com/vi/QAxQOJDHDDg/maxresdefault.jpg", priceMin: "7.49", priceMax: "25.49", category: "finance", badge: "💰", name: { en: "LightStream Personal Loan", ja: "ライトストリーム パーソナルローン" }, description: { en: "Rate beat program: 0.1% below competitor's rate. Same-day funding available. No fees of any kind. APR 7.49–25.49%.", ja: "レート・ビートプログラム：競合他社より0.1%低い金利を保証。当日資金調達も可能。一切手数料なし。APR 7.49〜25.49%。" }, links: [{ network: "direct", productId: "https://www.lightstream.com/personal-loans", markets: ["global"], approved: false }] },
-  { id: "bluevine-business-line-credit", imageUrl: "https://www.bluevine.com/images/business-credit-card/bluevine_credit_card.png", priceMin: "6.2", priceMax: "78", category: "finance", badge: "💰", name: { en: "BlueVine Business Line of Credit", ja: "ブルーバイン ビジネス信用枠" }, description: { en: "Revolving credit line up to $250K for small businesses. Approvals in minutes, funding within hours. 6.2–78% APR.", ja: "中小企業向け最大$250,000の回転信用枠。数分で承認・数時間以内に資金調達。APR 6.2〜78%。" }, links: [{ network: "direct", productId: "https://www.bluevine.com/business-line-of-credit/", markets: ["global"], approved: false }] },
-  { id: "trust-will-estate", imageUrl: "https://www.revityfcu.org/wp-content/uploads/WillHeader.jpg", priceMin: "199", priceMax: "499", category: "finance", badge: "💰", name: { en: "Trust and Will Estate Planning", ja: "トラスト・アンド・ウィル 遺産計画" }, description: { en: "Online estate planning starting at $159 for wills. Living trusts from $399. Attorney-reviewed templates in all 50 states.", ja: "遺言書から$159で始められるオンライン遺産計画。生前信託は$399〜。全50州で弁護士監修テンプレート使用。" }, links: [{ network: "direct", productId: "https://trustandwill.com/", markets: ["global"], approved: false }] },
+  { id: "wells-fargo-reflect-card", imageUrl: "https://creditcards.wellsfargo.com/W-Card-MarketPlace/v6-3-26/images/Products/Reflect/Reflect_homepage.png", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Wells Fargo Reflect Card", ja: "ウェルズ・ファーゴ リフレクト カード" }, description: { en: "0% intro APR for 21 months on purchases and qualifying balance transfers. No annual fee. Cell phone protection included.", ja: "購入・残高振替に21ヶ月間0%導入APR。年会費なし。携帯電話保護付き。" }, links: [{ network: "direct", productId: "https://creditcards.wellsfargo.com/reflect-visa-credit-card", markets: ["global"], approved: true }] },
+  { id: "citi-double-cash-card", imageUrl: "https://frequentmiler.com/wp-content/uploads/2022/01/Citi-Double-Cash-Card-2022.jpg", priceMin: "0", priceMax: "0", category: "finance", badge: "💰", name: { en: "Citi Double Cash Card", ja: "シティ ダブルキャッシュ カード" }, description: { en: "2% cash back on everything — 1% when you buy, 1% when you pay. 0% intro APR on balance transfers for 18 months.", ja: "全購入で2%キャッシュバック（購入時1%＋支払時1%）。残高振替に18ヶ月間0%導入APR。" }, links: [{ network: "direct", productId: "https://www.citi.com/credit-cards/citi-double-cash-credit-card", markets: ["global"], approved: true }] },
+  { id: "chase-sapphire-preferred-rewards", imageUrl: "https://www.forbes.com/advisor/wp-content/uploads/2025/02/Chase-Sapphire-Preferred-Credit-Card-Review-2025_-Low-Cost-High-Value-Travel-Rewards.jpg", priceMin: "95", priceMax: "95", category: "finance", badge: "💰", name: { en: "Chase Sapphire Preferred Card", ja: "チェイス サファイア プリファード カード" }, description: { en: "$95/yr annual fee. 3x on dining, 2x on travel. 60,000-point sign-up bonus. Points transfer to 14+ airline and hotel partners.", ja: "年会費$95。外食3倍・旅行2倍ポイント。6万ポイントの入会ボーナス。14社以上の航空・ホテルへポイント移行可。" }, links: [{ network: "direct", productId: "https://creditcards.chase.com/rewards-credit-cards/sapphire/preferred", markets: ["global"], approved: true }] },
+  { id: "ledger-nano-x", imageUrl: "https://cdn.shopify.com/s/files/1/2974/4858/products/01_4f10d168-302a-47b3-b79f-e0a6b6da7a48.png?v=1644216184", priceMin: "149", priceMax: "149", category: "finance", badge: "💰", name: { en: "Ledger Nano X Hardware Wallet", ja: "レジャー ナノX ハードウェアウォレット" }, description: { en: "Bluetooth-enabled cold storage for 5,500+ cryptocurrencies. Certified secure element chip (CC EAL5+). Manages up to 100 apps simultaneously.", ja: "5,500以上の暗号通貨に対応するBluetooth対応コールドストレージ。認定セキュアエレメントチップ（CC EAL5+）。最大100アプリ同時管理。" }, links: [{ network: "direct", productId: "https://shop.ledger.com/products/ledger-nano-x", markets: ["global"], approved: true }] },
+  { id: "trezor-model-t", imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Trezor_Model_T.jpg/1280px-Trezor_Model_T.jpg", priceMin: "179", priceMax: "179", category: "finance", badge: "💰", name: { en: "Trezor Model T Hardware Wallet", ja: "トレザー モデルT ハードウェアウォレット" }, description: { en: "Touchscreen cold wallet supporting 1,800+ coins. Open-source firmware. Shamir backup (SLIP39) for advanced recovery options.", ja: "1,800以上のコインに対応するタッチスクリーン型コールドウォレット。オープンソースファームウェア。シャミア・バックアップ（SLIP39）対応。" }, links: [{ network: "direct", productId: "https://trezor.io/trezor-model-t", markets: ["global"], approved: true }] },
+  { id: "sofi-debt-consolidation", imageUrl: "https://coverager.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-28-at-1.50.13-PM-scaled.jpg", priceMin: "8.99", priceMax: "29.99", category: "finance", badge: "💰", name: { en: "SoFi Personal Loan (Debt Consolidation)", ja: "SoFi パーソナルローン（債務整理）" }, description: { en: "No origination fees, no prepayment penalties. APR 8.99–29.99%. Loan amounts $5K–$100K. Unemployment protection feature.", ja: "手数料なし・繰上返済ペナルティなし。APR 8.99〜29.99%。$5,000〜$100,000。失業時保護機能付き。" }, links: [{ network: "direct", productId: "https://www.sofi.com/personal-loans/debt-consolidation/", markets: ["global"], approved: true }] },
+  { id: "lightstream-debt-consolidation", imageUrl: "https://i.ytimg.com/vi/QAxQOJDHDDg/maxresdefault.jpg", priceMin: "7.49", priceMax: "25.49", category: "finance", badge: "💰", name: { en: "LightStream Personal Loan", ja: "ライトストリーム パーソナルローン" }, description: { en: "Rate beat program: 0.1% below competitor's rate. Same-day funding available. No fees of any kind. APR 7.49–25.49%.", ja: "レート・ビートプログラム：競合他社より0.1%低い金利を保証。当日資金調達も可能。一切手数料なし。APR 7.49〜25.49%。" }, links: [{ network: "direct", productId: "https://www.lightstream.com/personal-loans", markets: ["global"], approved: true }] },
+  { id: "bluevine-business-line-credit", imageUrl: "https://www.bluevine.com/images/business-credit-card/bluevine_credit_card.png", priceMin: "6.2", priceMax: "78", category: "finance", badge: "💰", name: { en: "BlueVine Business Line of Credit", ja: "ブルーバイン ビジネス信用枠" }, description: { en: "Revolving credit line up to $250K for small businesses. Approvals in minutes, funding within hours. 6.2–78% APR.", ja: "中小企業向け最大$250,000の回転信用枠。数分で承認・数時間以内に資金調達。APR 6.2〜78%。" }, links: [{ network: "direct", productId: "https://www.bluevine.com/business-line-of-credit/", markets: ["global"], approved: true }] },
+  { id: "trust-will-estate", imageUrl: "https://www.revityfcu.org/wp-content/uploads/WillHeader.jpg", priceMin: "199", priceMax: "499", category: "finance", badge: "💰", name: { en: "Trust and Will Estate Planning", ja: "トラスト・アンド・ウィル 遺産計画" }, description: { en: "Online estate planning starting at $159 for wills. Living trusts from $399. Attorney-reviewed templates in all 50 states.", ja: "遺言書から$159で始められるオンライン遺産計画。生前信託は$399〜。全50州で弁護士監修テンプレート使用。" }, links: [{ network: "direct", productId: "https://trustandwill.com/", markets: ["global"], approved: true }] },
   // Travel: Backpacks / Cameras / Gear
   { id: "osprey-fairview-40", imageUrl: "https://m.media-amazon.com/images/I/6126WrPXmUL._AC_SL1000_.jpg", priceMin: "190", priceMax: "190", category: "travel", badge: "✈️", name: { en: "Osprey Fairview 40 Pack", ja: "オスプレー フェアビュー40パック" }, description: { en: "Women's 40L carry-on travel pack with a U-shaped suitcase-style opening, lockable zippers, and harness that stows away. Fits most airline overhead bins.", ja: "U字型スーツケース式開口部・ロック可能ジッパー・収納式ハーネス付き女性向け40L機内持ち込みパック。大半の航空会社の頭上収納棚に収まる。" }, links: [{ network: "direct", productId: "https://www.osprey.com/us/en/product/fairview-40-pack", markets: ["global"], approved: false }] },
   { id: "cotopaxi-allpa-42l", imageUrl: "https://m.media-amazon.com/images/I/81jjg99syRL._AC_SL1500_.jpg", priceMin: "270", priceMax: "270", category: "travel", badge: "✈️", name: { en: "Cotopaxi Allpa 42L Travel Pack", ja: "コトパクシ アルパ42Lトラベルパック" }, description: { en: "Clamshell opening with organized interior and lockable YKK zippers. Padded laptop sleeve, external compression straps. BLUESIGN certified materials.", ja: "整理された内部とロック可能なYKKジッパー付きクラムシェル開口部。パッド入りラップトップスリーブと外部圧縮ストラップ。BLUESIGN認定素材使用。" }, links: [{ network: "direct", productId: "https://www.cotopaxi.com/products/allpa-42l-travel-pack", markets: ["global"], approved: false }] },
@@ -45417,7 +45417,7 @@ export const CATALOG_ADDITIONS = [
   { id: "grayl-ultrapress", imageUrl: "https://m.media-amazon.com/images/I/511lR6pkV7L._AC_SL1500_.jpg", priceMin: "90", priceMax: "90", category: "travel", badge: "✈️", name: { en: "GRAYL UltraPress Water Purifier Bottle", ja: "グレイル ウルトラプレス 浄水ボトル" }, description: { en: "Press-to-purify design removes viruses, bacteria, protozoa, and chemicals in one step. 16.9 oz capacity. Airport-safe for carry-on.", ja: "プレスするだけでウイルス・細菌・原生動物・化学物質を一括除去。500ml容量。空港での機内持ち込み可能。" }, links: [{ network: "direct", productId: "https://grayl.com/products/ultrapress-purifier-bottle", markets: ["global"], approved: false }] },
   { id: "arcteryx-beta-lt", imageUrl: "https://m.media-amazon.com/images/I/61tiecqWa+S._AC_UL1500_.jpg", priceMin: "375", priceMax: "375", category: "travel", badge: "✈️", name: { en: "Arcteryx Beta LT Rain Jacket", ja: "アークテリクス ベータ LT レインジャケット" }, description: { en: "GORE-TEX 3-layer construction, packable to its own pocket. Helmet-compatible StormHood, pit zips for ventilation. 365g weight.", ja: "GORE-TEX 3層構造・自身のポケットに収納可能。ヘルメット対応StormHood・換気用ピットジップ付き。重量365g。" }, links: [{ network: "direct", productId: "https://arcteryx.com/us/en/shop/mens/beta-lt-jacket", markets: ["global"], approved: false }] },
   { id: "garmin-inreach-mini-2", imageUrl: "https://m.media-amazon.com/images/I/71Du-KoEoSL._AC_SL1500_.jpg", priceMin: "350", priceMax: "350", category: "travel", badge: "✈️", name: { en: "Garmin inReach Mini 2 Satellite Communicator", ja: "ガーミン inReach ミニ2 衛星通信機" }, description: { en: "Two-way texting via Iridium satellite network anywhere on Earth. SOS with 24/7 response center. Tracks GPS coordinates. 14-day battery in tracking mode.", ja: "地球上どこでもイリジウム衛星ネットワーク経由で双方向テキスト。24時間対応センターへのSOS送信可能。GPS座標追跡。追跡モードで14日間バッテリー持続。" }, links: [{ network: "direct", productId: "https://www.garmin.com/en-US/p/843987", markets: ["global"], approved: false }] },
-  { id: "allianz-onetrip-prime", imageUrl: "https://travellersworldwide.com/wp-content/uploads/2023/01/Screenshot-of-the-main-page-of-Allianz-Travel-one-of-the-best-travel-insurance-plans-768x480.png", priceMin: "42", priceMax: "200", category: "travel", badge: "✈️", name: { en: "Allianz OneTrip Prime Travel Insurance", ja: "アリアンツ ワントリッププライム 旅行保険" }, description: { en: "Trip cancellation up to $100K, medical up to $50K, emergency evacuation up to $500K. Covers pre-existing conditions with waiver.", ja: "旅行キャンセル最大$100,000・医療最大$50,000・緊急避難最大$500,000。既往症免除付き。" }, links: [{ network: "direct", productId: "https://www.allianztravelinsurance.com/travel/insurance-plans/onetrip-prime-plan.htm", markets: ["global"], approved: false }] },
+  { id: "allianz-onetrip-prime", imageUrl: "https://travellersworldwide.com/wp-content/uploads/2023/01/Screenshot-of-the-main-page-of-Allianz-Travel-one-of-the-best-travel-insurance-plans-768x480.png", priceMin: "42", priceMax: "200", category: "travel", badge: "✈️", name: { en: "Allianz OneTrip Prime Travel Insurance", ja: "アリアンツ ワントリッププライム 旅行保険" }, description: { en: "Trip cancellation up to $100K, medical up to $50K, emergency evacuation up to $500K. Covers pre-existing conditions with waiver.", ja: "旅行キャンセル最大$100,000・医療最大$50,000・緊急避難最大$500,000。既往症免除付き。" }, links: [{ network: "direct", productId: "https://www.allianztravelinsurance.com/travel/insurance-plans/onetrip-prime-plan.htm", markets: ["global"], approved: true }] },
   // Pets: GPS / Training / Food / Care
   { id: "fi-series-3-collar", imageUrl: "https://m.media-amazon.com/images/I/71pnXb7zzCL._AC_SL1500_.jpg", priceMin: "149", priceMax: "149", category: "pets", badge: "🐾", name: { en: "Fi Series 3 Smart Dog Collar GPS Tracker", ja: "Fi シリーズ3 スマートドッグカラー GPS トラッカー" }, description: { en: "GPS + cellular + Wi-Fi location tracking. Escape alerts in real-time. Activity tracking with step goals. 3-month battery life on average.", ja: "GPS＋セルラー＋Wi-Fiで位置追跡。リアルタイム脱走アラート。歩数目標付き活動量計。平均3ヶ月のバッテリー持続。" }, links: [{ network: "direct", productId: "https://tryfi.com/", markets: ["global"], approved: false }] },
   { id: "tractive-gps-dog-tracker", imageUrl: "https://m.media-amazon.com/images/I/71TAY+WrciL._AC_SL1500_.jpg", priceMin: "50", priceMax: "50", category: "pets", badge: "🐾", name: { en: "Tractive GPS Dog Tracker", ja: "トラクティブ GPS ドッグトラッカー" }, description: { en: "Lightweight 35g device attaches to any collar. Live GPS tracking with 3-second update option. Works in 175+ countries. Subscription from $6/mo.", ja: "どのカラーにも取り付け可能な35gの軽量デバイス。3秒更新オプション付きのリアルタイムGPS追跡。175ヶ国以上対応。月$6〜のサブスク。" }, links: [{ network: "direct", productId: "https://tractive.com/en/dog", markets: ["global"], approved: false }] },

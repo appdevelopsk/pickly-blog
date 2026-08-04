@@ -39,7 +39,7 @@ export default async function GiftsIndexPage({ params }: Props) {
           {tt("pages.giftsSub", "Gift ideas for every occasion")}
         </h1>
         <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">
-          Tested, honest gift picks for every occasion — Christmas, birthdays, Mother's Day, and more. No filler, no sponsored placements.
+          Honest, independent gift picks for every occasion — Christmas, birthdays, Mother's Day, and more. No filler, no sponsored placements.
         </p>
       </section>
 
@@ -70,7 +70,7 @@ export default async function GiftsIndexPage({ params }: Props) {
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
   const title = "Gift Guides 2026";
-  const description = "Tested gift ideas for every occasion — Christmas, Mother's Day, birthdays, graduations, and more. Honest picks, no filler.";
+  const description = "Curated gift ideas for every occasion — Christmas, Mother's Day, birthdays, graduations, and more. Honest picks, no filler.";
   const url = `${SITE_URL}/${locale}/gifts`;
   return {
     title, description,

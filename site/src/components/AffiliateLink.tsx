@@ -51,6 +51,12 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
   const localeMarket = inferMarketFromLocale(locale);
   const market = useMarket(localeMarket);
   const link = pickLink(offer, market, { onlyApproved: false });
+  // ★rel="sponsored" は「金銭的対価のあるリンク」に付けるもの。
+  //   network:"direct" はメーカー公式への素リンクで報酬が発生しないため、
+  //   sponsored を付けると検索エンジンにも読者にも事実と異なる申告になる
+  //   (2026-08-04: 金融/SaaS 55記事を公式リンクで公開したときに顕在化)。
+  const isMonetised = link != null && link.network !== "direct";
+  const linkRel = isMonetised ? "sponsored noopener noreferrer" : "noopener noreferrer";
 
   const name = offer.name[locale as keyof typeof offer.name] ?? offer.name.en ?? offer.id;
   const desc = offer.description[locale as keyof typeof offer.description] ?? offer.description.en ?? "";
@@ -237,7 +243,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
                 key={label}
                 href={storeHref}
                 target="_blank"
-                rel="sponsored noopener noreferrer"
+                rel={l.network === "direct" ? "noopener noreferrer" : "sponsored noopener noreferrer"}
                 data-offer-id={offer.id}
                 className={
                   i === 0
@@ -263,7 +269,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       <a
         href={href}
         target="_blank"
-        rel="sponsored noopener noreferrer"
+        rel={linkRel}
         data-offer-id={offer.id}
         className="inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-4 py-2 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
       >
@@ -282,7 +288,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       <a
         href={href}
         target="_blank"
-        rel="sponsored noopener noreferrer"
+        rel={linkRel}
         data-offer-id={offer.id}
         className="font-medium text-brand-600 underline-offset-2 hover:underline"
       >
@@ -322,7 +328,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
           <a
             href={href}
             target="_blank"
-            rel="sponsored noopener noreferrer"
+            rel={linkRel}
             data-offer-id={offer.id}
             className="inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-5 py-2.5 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
           >

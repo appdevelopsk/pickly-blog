@@ -17,7 +17,7 @@
     "empty": "Articles are being prepared. Check back soon.",
     "trustTitle": "How we choose products",
     "trustIntro": "Every recommendation goes through a real evaluation before it makes the list.",
-    "trustTestedTitle": "Hands-on testing",
+    "trustTestedTitle": "Independent comparison",
     "trustTestedText": "We buy or borrow products and use them in real conditions — not just unboxing videos.",
     "trustCriteriaTitle": "Clear criteria",
     "trustCriteriaText": "Rankings are based on explicit criteria (durability, value, comfort, etc.) stated upfront for each category.",
@@ -102,12 +102,12 @@
     },
     "about": {
       "heading": "About Pickly",
-      "lede": "We test products, compare them honestly, and translate the result into 17 languages.",
+      "lede": "We compare products on published evidence, rank them honestly, and translate the result into 17 languages.",
       "sections": [
         {
           "heading": "Who runs this site",
           "paragraphs": [
-            "Pickly is an independent editorial project. Reviews are written by humans. We use AI tools to translate the result into 17 languages, but the underlying judgement, testing, and rankings come from people — not algorithms.",
+            "Pickly is an independent editorial project. Reviews are written by humans. We use AI tools to translate the result into 17 languages, but the underlying judgement and rankings come from people — not algorithms.",
             "We operate from Japan as a sole-proprietorship publication. Operator information is filed with our domain registrar; for direct contact, use the address on the contact page."
           ]
         },
@@ -121,7 +121,7 @@
         {
           "heading": "Editorial standards",
           "paragraphs": [
-            "Every product we recommend was either tested directly or evaluated against documented specs, third-party benchmarks, and verified user reports. Products we cannot recommend honestly are excluded regardless of commission size.",
+            "Every product we recommend was either evaluated against documented specs, third-party benchmarks, and verified user reports. Products we cannot recommend honestly are excluded regardless of commission size.",
             "We list at least one weakness for every product. No product is perfect, and a review that says otherwise is not a review."
           ]
         },
@@ -234,7 +234,7 @@
   },
   "author": {
     "name": "Pickly Editorial",
-    "bio": "We love testing gadgets and useful services — anything that makes us think 'this is actually handy.' We share honest, experience-based reviews of products we've genuinely enjoyed."
+    "bio": "We compare gadgets and useful services on published specifications, manufacturer documentation and independent reviews — and write up what the evidence actually supports."
   },
   "crossPromo": {
     "title": "Our Network",
@@ -369,11 +369,11 @@
     },
     "black-friday": {
       "title": "Black Friday Deals 2026",
-      "description": "Black Friday picks worth buying — tested products across every category where the discounts are actually meaningful."
+      "description": "Black Friday picks worth buying — products compared across every category where the discounts are actually meaningful."
     },
     "cyber-monday": {
       "title": "Cyber Monday Deals 2026",
-      "description": "The best Cyber Monday deals on tech, software, and electronics — products we've tested and recommend at any price."
+      "description": "The best Cyber Monday deals on tech, software, and electronics — products we've compared and recommend at any price."
     },
     "mothers-day-deals": {
       "title": "Mother's Day Sale Picks 2026",
@@ -391,7 +391,7 @@
     },
     "robot-vacuum-vs-stick-vacuum": {
       "title": "Robot Vacuum vs Stick Vacuum",
-      "description": "Automated convenience vs hands-on control — which vacuum type fits your cleaning style and home?"
+      "description": "Automated convenience vs independent control — which vacuum type fits your cleaning style and home?"
     },
     "espresso-machine-vs-drip-coffee": {
       "title": "Espresso Machine vs Drip Coffee Maker",
@@ -437,15 +437,15 @@
   "giftPages": {
     "christmas": {
       "title": "Christmas Gift Ideas 2026",
-      "description": "Tested gift picks across every category — something for everyone on your list."
+      "description": "Compared gift picks across every category — something for everyone on your list."
     },
     "mothers-day": {
       "title": "Mother's Day Gift Ideas 2026",
-      "description": "Thoughtful, tested gifts for moms — beauty, home, wellness, and food picks she'll love."
+      "description": "Thoughtful, compared gifts for moms — beauty, home, wellness, and food picks she'll love."
     },
     "fathers-day": {
       "title": "Father's Day Gift Ideas 2026",
-      "description": "Practical, tested gifts for dads — tech, fitness, kitchen, and outdoor picks."
+      "description": "Practical, compared gifts for dads — tech, fitness, kitchen, and outdoor picks."
     },
     "graduation": {
       "title": "Graduation Gift Ideas 2026",
@@ -461,11 +461,11 @@
     },
     "birthday": {
       "title": "Birthday Gift Ideas 2026",
-      "description": "Crowd-pleasing birthday gifts across every interest — tested and ranked."
+      "description": "Crowd-pleasing birthday gifts across every interest — compared and ranked."
     },
     "baby-shower": {
       "title": "Baby Shower Gift Ideas 2026",
-      "description": "Practical, safety-tested baby gifts new parents will actually use."
+      "description": "Practical, safety-compared baby gifts new parents will actually use."
     },
     "anniversary": {
       "title": "Anniversary Gift Ideas 2026",
@@ -540,7 +540,7 @@
     },
     "travelers": {
       "title": "Best Travel Gear 2026",
-      "description": "Tested gear for every kind of trip — luggage, tech, fitness, and fashion picks that actually travel well."
+      "description": "Compared gear for every kind of trip — luggage, tech, fitness, and fashion picks that actually travel well."
     },
     "fitness-beginners": {
       "title": "Best Fitness Gear for Beginners 2026",
@@ -552,7 +552,7 @@
     },
     "pet-owners": {
       "title": "Best Products for Pet Owners 2026",
-      "description": "Everything your pet needs — food, health, comfort, and play picks tested for real animals."
+      "description": "Everything your pet needs — food, health, comfort, and play picks chosen for real households."
     },
     "new-parents": {
       "title": "Best Products for New Parents 2026",
@@ -597,7 +597,7 @@
     "latestBadge": "Latest reviews",
     "annualGuide": "Annual guide",
     "editorsPicks": "Editor’s picks",
-    "bestofLead": "Our top-tested picks across all 10 categories — updated as products launch and rankings shift throughout 2026.",
+    "bestofLead": "Our top picks across all 10 categories — updated as products launch and rankings shift throughout 2026.",
     "allCatReviews": "All {cat} reviews →",
     "moreCatReviews": "+{count} more {cat} reviews →",
     "browseAllReviews": "Browse all {count} reviews →",
@@ -616,7 +616,7 @@
     "picksReviewed": "{count} picks reviewed",
     "bestBrandProducts": "Best {brand} products 2026",
     "brandStats": "{products} {brand} products reviewed · {articles} comparison articles",
-    "brandTested": "We've tested {brand} products across multiple categories to find which ones are worth buying.",
+    "brandTested": "We've compared {brand} products across multiple categories to find which ones are worth buying.",
     "noBudgetResults": "No results in this budget range yet.",
     "noUsecaseArticles": "No articles found for this use case yet.",
     "notInLanguage": "Not available in this language yet.",

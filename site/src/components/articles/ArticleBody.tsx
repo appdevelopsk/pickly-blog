@@ -46,6 +46,11 @@ interface Props {
 }
 
 export function ArticleBody({ meta, content, offers, related = [] }: Props) {
+  // ★開示文は「実際に報酬が発生するリンクがある記事」にだけ出す。
+  //   network:"direct"(メーカー公式への素リンク)しか無い記事で
+  //   「アフィリエイトリンクを含む」と書くのは事実と異なる
+  //   (2026-08-04: 金融/SaaS 55記事を公式リンクで公開したときに顕在化)。
+  const hasMonetisedLink = offers.some((o) => o.links?.some((l) => l.network !== "direct"));
   const t = useTranslations();
   const locale = useLocale();
   const isComparison = meta.type === "comparison";
@@ -552,13 +557,15 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
             </section>
           )}
 
-          {/* Disclosure note */}
-          <div className="mt-10 rounded-xl bg-slate-50 border border-slate-200 px-4 py-3 text-xs text-slate-500">
-            {t("offer.disclosureBadge")} — {t("offer.disclosureNote")}
-            <Link href="/disclosure" className="ml-1 underline hover:text-brand-600">
-              {t("nav.disclosure")}
-            </Link>
-          </div>
+          {/* Disclosure note — 報酬が発生するリンクがある記事のみ */}
+          {hasMonetisedLink && (
+            <div className="mt-10 rounded-xl bg-slate-50 border border-slate-200 px-4 py-3 text-xs text-slate-500">
+              {t("offer.disclosureBadge")} — {t("offer.disclosureNote")}
+              <Link href="/disclosure" className="ml-1 underline hover:text-brand-600">
+                {t("nav.disclosure")}
+              </Link>
+            </div>
+          )}
         </div>
 
         {/* Sidebar (desktop only) */}

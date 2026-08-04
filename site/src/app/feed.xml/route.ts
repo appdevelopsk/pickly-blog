@@ -42,7 +42,7 @@ export function GET() {
   <channel>
     <title>Pickly — Product Reviews &amp; Comparisons</title>
     <link>${SITE_URL}/en/</link>
-    <description>Hands-on product comparisons, reviews, and buyer's guides across home, kitchen, fitness, food, beauty, fashion, finance, and tech.</description>
+    <description>Independent product comparisons, reviews, and buyer's guides across home, kitchen, fitness, food, beauty, fashion, finance, and tech.</description>
     <language>en</language>
     <atom:link href="${SITE_URL}/feed.xml" rel="self" type="application/rss+xml" />
 ${items}

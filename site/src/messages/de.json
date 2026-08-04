@@ -92,7 +92,7 @@
     "lastUpdatedLabel": "Zuletzt aktualisiert: {date}",
     "about": {
       "heading": "Über Pickly",
-      "lede": "Wir testen Produkte, vergleichen ehrlich und veröffentlichen das Ergebnis in 17 Sprachen.",
+      "lede": "Wir vergleichen Produkte anhand veröffentlichter Belege, bewerten sie ehrlich und übersetzen das Ergebnis in 17 Sprachen.",
       "sections": [
         {
           "heading": "Wer dahintersteht",
@@ -111,7 +111,7 @@
         {
           "heading": "Redaktionelle Standards",
           "paragraphs": [
-            "Jedes empfohlene Produkt wurde entweder direkt getestet oder anhand offizieller Spezifikationen, unabhängiger Benchmarks und verifizierter Nutzerberichte bewertet. Produkte, die wir nicht ehrlich empfehlen können, schließen wir unabhängig von der Provision aus.",
+            "Jedes empfohlene Produkt wurde entweder direkt verglichen oder anhand offizieller Spezifikationen, unabhängiger Benchmarks und verifizierter Nutzerberichte bewertet. Produkte, die wir nicht ehrlich empfehlen können, schließen wir unabhängig von der Provision aus.",
             "Wir nennen für jedes Produkt mindestens eine Schwäche. Kein Produkt ist perfekt — eine Rezension, die das behauptet, ist keine Rezension."
           ]
         },
@@ -224,7 +224,7 @@
   },
   "author": {
     "name": "Pickly Redaktion",
-    "bio": "Wir testen gerne Gadgets und nützliche Dienste und teilen ehrliche, erfahrungsbasierte Bewertungen von Produkten, die wir wirklich mögen."
+    "bio": "Wir vergleichen Gadgets und nützliche Dienste anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests — und schreiben auf, was die Belege tatsächlich hergeben."
   },
   "crossPromo": {
     "title": "Unser Netzwerk",
@@ -363,7 +363,7 @@
     },
     "cyber-monday": {
       "title": "Cyber Monday Deals 2026",
-      "description": "Die besten Cyber-Monday-Angebote für Technik, Software und Elektronik — Produkte, die wir getestet haben und zu jedem Preis empfehlen."
+      "description": "Die besten Cyber-Monday-Angebote für Technik, Software und Elektronik — Produkte, die wir verglichen haben und zu jedem Preis empfehlen."
     },
     "mothers-day-deals": {
       "title": "Muttertags-Angebote 2026",
@@ -451,7 +451,7 @@
     },
     "birthday": {
       "title": "Geschenkideen zum Geburtstag 2026",
-      "description": "Geburtstagsgeschenke, die bei jedem Geschmack ankommen — getestet und gerankt."
+      "description": "Geburtstagsgeschenke, die bei jedem Geschmack ankommen — verglichen und gerankt."
     },
     "baby-shower": {
       "title": "Geschenkideen zur Babyparty 2026",
@@ -542,7 +542,7 @@
     },
     "pet-owners": {
       "title": "Die besten Produkte für Haustierbesitzer 2026",
-      "description": "Alles, was dein Haustier braucht — Futter, Gesundheit, Komfort und Spiel, getestet mit echten Tieren."
+      "description": "Alles, was dein Haustier braucht — Futter, Gesundheit, Komfort und Spiel, ausgewählt für echte Haushalte."
     },
     "new-parents": {
       "title": "Die besten Produkte für frischgebackene Eltern 2026",
@@ -603,10 +603,10 @@
     "brandBadge": "Marken-Tests",
     "noResults": "Keine Ergebnisse für „{query}“",
     "resultsFor": "{count} Ergebnisse für „{query}“",
-    "picksReviewed": "{count} Empfehlungen getestet",
+    "picksReviewed": "{count} Empfehlungen verglichen",
     "bestBrandProducts": "Die besten {brand}-Produkte 2026",
-    "brandStats": "{products} {brand}-Produkte getestet · {articles} Vergleichsartikel",
-    "brandTested": "Wir haben {brand}-Produkte in mehreren Kategorien getestet, um herauszufinden, welche sich wirklich lohnen.",
+    "brandStats": "{products} {brand}-Produkte verglichen · {articles} Vergleichsartikel",
+    "brandTested": "Wir haben {brand}-Produkte in mehreren Kategorien verglichen, um herauszufinden, welche sich wirklich lohnen.",
     "noBudgetResults": "In diesem Budgetbereich gibt es noch keine Ergebnisse.",
     "noUsecaseArticles": "Für diesen Anwendungsfall gibt es noch keine Artikel.",
     "notInLanguage": "In dieser Sprache noch nicht verfügbar.",

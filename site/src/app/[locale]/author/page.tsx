@@ -13,7 +13,7 @@ const CATEGORY_ICONS: Record<string, string> = {
 };
 
 const EXPERTISE = [
-  { icon: "🧪", title: "Hands-on testing",        text: "We test products personally or analyze verified purchase reviews from 500+ real users before making any pick." },
+  { icon: "📚", title: "Desk research",            text: "We compare published specifications, manufacturer documentation, independent lab tests and verified owner reviews. We do not test products ourselves." },
   { icon: "📊", title: "Structured criteria",      text: "Each category uses 4–6 specific scoring dimensions. Fitness shoes are judged differently from espresso machines." },
   { icon: "🔄", title: "Regular updates",          text: "Rankings are revisited when manufacturers refresh products or stronger competitors launch. Dates are honest." },
   { icon: "🔍", title: "Transparent affiliates",   text: "We earn a commission when you buy through our links. Rankings reflect real performance — not commission rates." },
@@ -47,7 +47,7 @@ export default async function AuthorPage({ params }: Props) {
     "@type": "Organization",
     name: "Pickly Editorial Team",
     url: `${SITE_URL}/${locale}/author`,
-    description: "A multilingual product review team testing and comparing consumer goods across 10 categories and 17 languages.",
+    description: "A multilingual product research team comparing consumer goods across 10 categories and 17 languages, using published specs and independent reviews.",
     sameAs: [
       `${SITE_URL}`,
     ],
@@ -88,10 +88,10 @@ export default async function AuthorPage({ params }: Props) {
             </div>
           </div>
           <p className="text-base text-slate-600 leading-relaxed">
-            We're a product research team focused on one goal: helping people buy the right thing the first time. We research, test, and compare consumer products across 10 categories — writing in 17 languages so our findings reach readers worldwide.
+            We're a product research team focused on one goal: helping people buy the right thing the first time. We compare consumer products across 10 categories using published specifications, manufacturer documentation and independent reviews — writing in 17 languages so our findings reach readers worldwide.
           </p>
           <p className="mt-3 text-base text-slate-600 leading-relaxed">
-            We don't accept payment for placement. If we can't recommend something honestly, we leave it out. If a product is dominant in its category, it's because our testing confirmed it — not because the brand paid us.
+            We don't accept payment for placement. If we can't recommend something honestly, we leave it out. If a product leads its category here, it's because the published evidence supports it — not because the brand paid us.
           </p>
         </section>
 
