@@ -13,6 +13,7 @@ import { ArticleCardImage } from "@/components/ArticleCardImage";
 import { COMPARISONS, COMPARISON_MAP } from "@/lib/pages/compare-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -229,10 +230,25 @@ export async function generateMetadata({ params }: Props) {
     );
     return av.has(config.slugA) || av.has(config.slugB);
   });
-  const title = `${config.title}: Which Is Better?`;
+  // ★本文は comparePages.<pair> の翻訳を使っているのに、ここだけ英語直書きだった。
+  //   結果 /ja/compare/... の <title> が英語のまま SERP に出ていた(全135ページ)。
+  //   本文と同じ翻訳を引き、足りなければ英語へ落ちる。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string): string => {
+    try { return t(key); } catch { return fallback; }
+  };
+  const base = tt(`comparePages.${pair}.title`, config.title);
+  const suffix = tt("compareTitleSuffix", ": Which Is Better?");
+  // 表示幅60を超えるなら接尾辞を落とす。全角は2幅なので CJK は文字数では測れない。
+  const width = (x: string) => [...x].reduce((n, c) => n + (/[\u1100-\u115F\u2E80-\uA4CF\uAC00-\uD7A3\uF900-\uFAFF\uFE30-\uFE4F\uFF00-\uFF60\uFFE0-\uFFE6]/.test(c) ? 2 : 1), 0);
+  const withSuffix = `${base}${suffix}`;
+  const title = width(withSuffix) <= 60 ? withSuffix : base;
+  const description = tt(`comparePages.${pair}.description`, config.description);
   const url = `${SITE_URL}/${locale}/compare/${pair}`;
   return {
-    title, description: config.description,
+    // absolute にしないと root layout の `%s | Pickly` が付いて 9 幅ぶん切れる
+    // (記事ページは 2026-08-01 に同じ対処済み)。
+    title: serpTitle(title), description,
     // hreflang は生成される組み合わせだけ宣言する。以前は LOCALES 全17件を出しており、
     // 生成されないロケールを指す 404 が 118件あった。末尾スラッシュも揃える (2026-08-02)。
     alternates: {
@@ -244,7 +260,7 @@ export async function generateMetadata({ params }: Props) {
           : {}),
       },
     },
-    openGraph: { type: "article", title, description: config.description, url, siteName: "Pickly" },
-    twitter: { card: "summary_large_image", title, description: config.description },
+    openGraph: { type: "article", title, description, url, siteName: "Pickly" },
+    twitter: { card: "summary_large_image", title, description },
   };
 }

@@ -12,6 +12,7 @@ import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -261,11 +262,16 @@ export default async function PopularPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Most Popular Reviews 2026";
-  const description = "Our highest-rated product comparisons — tested, curated, and updated for 2026.";
+  // ★本文は 17 言語で出しているのに metadata だけ英語直書きだった (2026-08-04)。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const title = tt("pages.popularSub", "Most popular reviews");
+  const description = tt("pages.popularDesc", "Our highest-rated product comparisons — tested, curated, and updated for 2026.");
   const canonicalUrl = `${SITE_URL}/${locale}/popular`;
   return {
-    title,
+    title: serpTitle(title),
     description,
     alternates: {
       canonical: canonicalUrl,

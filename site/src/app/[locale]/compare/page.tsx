@@ -5,6 +5,7 @@ import { COMPARISONS } from "@/lib/pages/compare-config";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -65,11 +66,18 @@ export default async function CompareIndexPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Product Comparisons";
-  const description = "Side-by-side product comparisons — air fryer vs Instant Pot, robot vacuum vs stick vacuum, and more. Make confident buying decisions.";
+  // ★本文は pages.compareHeading / pages.compareLead を 17 言語で出しているのに、
+  //   metadata だけ英語直書きだった。SERP に出るのは metadata の方なので、そこを揃える。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string): string => {
+    try { return t(key); } catch { return fallback; }
+  };
+  const title = tt("pages.compareHeading", "Compare Products");
+  const description = tt("pages.compareLead",
+    "Side-by-side product comparisons — air fryer vs Instant Pot, robot vacuum vs stick vacuum, and more. Make confident buying decisions.");
   const url = `${SITE_URL}/${locale}/compare`;
   return {
-    title, description,
+    title: serpTitle(title), description,
     alternates: localeAlternates("/compare", locale),
     openGraph: { type: "website", title, description, url, siteName: "Pickly" },
   };

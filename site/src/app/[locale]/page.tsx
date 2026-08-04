@@ -501,15 +501,21 @@ export async function generateMetadata({ params }: Props) {
   const t = await getTranslations();
   const articles = listArticlesForLocale(locale);
 
-  let title = "Pickly";
+  // ★site.name だけを返すと root layout の `%s | Pickly` が付いて
+  //   <title> が「Pickly | Pickly」になっていた(全17ロケール)。
+  //   absolute でテンプレートを外し、ロケールごとの見出しを添える (2026-08-04)。
+  let siteName = "Pickly";
+  let tagline = "Real reviews, no filler.";
   let description = "Curated reviews and comparisons across 17 languages.";
-  try { title = t("site.name"); } catch { /* missing */ }
+  try { siteName = t("site.name"); } catch { /* missing */ }
+  try { tagline = t("home.heading"); } catch { /* missing */ }
   try { description = `${t("home.heading")} ${t("home.subheading")}`; } catch { /* missing */ }
+  const title = `${siteName} — ${tagline}`;
 
   const canonicalUrl = `${SITE_URL}/${locale}/`;
 
   return {
-    title,
+    title: { absolute: title },
     description,
     alternates: {
       canonical: canonicalUrl,

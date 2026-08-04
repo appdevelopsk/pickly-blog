@@ -10,6 +10,7 @@ import { OG_BASE_URL } from "@/lib/og";
 import { SearchUI, type SearchItem } from "@/components/SearchUI";
 import type { ArticleMeta } from "@/lib/articles/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -115,11 +116,23 @@ export default async function SearchPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Search Product Reviews";
-  const description = "Search hundreds of product reviews and comparisons across fitness, tech, home, beauty, food, and more.";
+  // ★本文は 17 言語で出しているのに metadata だけ英語直書きだった (2026-08-04)。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const title = tt("pages.searchHeading", "Search reviews");
+  // searchDesc は {count} と {categories} を要求する。渡さないと FORMATTING_ERROR に
+  // なって英語のフォールバックへ落ちる (ビルドログにだけ出るので気づきにくい)。
+  const indexed = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
+  const description = tt(
+    "pages.searchDesc",
+    `${indexed.length} reviews across 10 categories — find what you're looking for.`,
+    { count: indexed.length, categories: 10 },
+  );
   const canonicalUrl = `${SITE_URL}/${locale}/search`;
   return {
-    title,
+    title: serpTitle(title),
     description,
     alternates: {
       canonical: canonicalUrl,

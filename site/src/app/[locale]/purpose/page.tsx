@@ -5,6 +5,7 @@ import { listArticlesForLocale } from "@/lib/articles/registry";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { PURPOSE_TAGS } from "@/lib/pages/tag-config";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -94,11 +95,16 @@ export default async function PurposePage({ params }: Props) {
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
-  const title = "Browse by Purpose";
-  const description = "Find the right products by what you need them for — gifting, workout, skincare, home office, cooking, and more.";
+  // ★本文は 17 言語で出しているのに metadata だけ英語直書きだった (2026-08-04)。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const title = tt("pages.purposeHeading", "Browse by Purpose");
+  const description = tt("pages.purposeLead", "Find the right products by what you need them for.");
   const url = `${SITE_URL}/${locale}/purpose`;
   return {
-    title,
+    title: serpTitle(title),
     description,
     alternates: {
       canonical: url,

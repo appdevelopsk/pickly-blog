@@ -10,6 +10,7 @@ import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -258,11 +259,24 @@ export default async function RankingPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Best of Every Category 2026 | Pickly Rankings";
-  const description = "Top-ranked product comparisons across fitness, tech, home, beauty, food, fashion, travel, and more — sorted by depth of testing.";
+  // ★本文は 17 言語で出しているのに metadata だけ英語直書きだった (2026-08-04)。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const title = tt("pages.rankingSub", "Best of every category");
+  // rankingDesc は {reviews} と {categories} を要求する。渡さないと FORMATTING_ERROR で
+  // 英語フォールバックに落ちる (ビルドログにしか出ない)。
+  const ranked = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
+  const categoryCount = new Set(ranked.map((a) => a.category)).size;
+  const description = tt(
+    "pages.rankingDesc",
+    "Top picks ranked by depth of comparison.",
+    { reviews: ranked.length, categories: categoryCount },
+  );
   const canonicalUrl = `${SITE_URL}/${locale}/ranking`;
   return {
-    title,
+    title: serpTitle(title),
     description,
     alternates: {
       canonical: canonicalUrl,

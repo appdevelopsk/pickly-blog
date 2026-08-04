@@ -6,6 +6,7 @@ import { listArticlesForLocale } from "@/lib/articles/registry";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -86,11 +87,16 @@ export default async function BrandsIndexPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Product Reviews by Brand 2026";
-  const description = "Browse tested product reviews organized by brand — Nike, Dyson, Apple, Philips, Anker, KitchenAid, and more.";
+  // ★本文は 17 言語で出しているのに metadata だけ英語直書きだった (2026-08-04)。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const title = tt("pages.brandsSub", "Reviews by brand");
+  const description = tt("pages.brandsDesc", "Tested product reviews organised by brand.");
   const url = `${SITE_URL}/${locale}/brands`;
   return {
-    title, description,
+    title: serpTitle(title), description,
     alternates: localeAlternates("/brands", locale),
     openGraph: { type: "website", title, description, url, siteName: "Pickly" },
   };

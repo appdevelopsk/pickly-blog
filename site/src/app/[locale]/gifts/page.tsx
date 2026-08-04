@@ -3,6 +3,7 @@ import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { OCCASIONS } from "@/lib/pages/gift-config";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -69,11 +70,16 @@ export default async function GiftsIndexPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Gift Guides 2026";
-  const description = "Curated gift ideas for every occasion — Christmas, Mother's Day, birthdays, graduations, and more. Honest picks, no filler.";
+  // ★本文は 17 言語で出しているのに metadata だけ英語直書きだった (2026-08-04)。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const title = tt("pages.giftsSub", "Gift ideas for every occasion");
+  const description = tt("pages.giftsDesc", "Curated gift ideas for every occasion. Honest picks, no filler.");
   const url = `${SITE_URL}/${locale}/gifts`;
   return {
-    title, description,
+    title: serpTitle(title), description,
     alternates: localeAlternates("/gifts", locale),
     openGraph: { type: "website", title, description, url, siteName: "Pickly" },
     twitter: { card: "summary_large_image", title, description },

@@ -14,6 +14,7 @@ import { BRANDS, BRAND_MAP } from "@/lib/pages/brand-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -198,11 +199,17 @@ export async function generateMetadata({ params }: Props) {
   const { locale, brand } = await params;
   const config = BRAND_MAP[brand];
   if (!config) return {};
-  const title = `Best ${config.name} Products 2026`;
-  const description = `${config.description} We've tested ${config.name} products across multiple categories — find out which ones are actually worth buying in 2026.`;
+  // ★本文はこの翻訳を 17 言語で出しているのに、metadata だけ英語直書きだった。
+  //   SERP に出るのは metadata の方なので、本文と同じキーを引く (2026-08-04)。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const title = tt("pages.bestBrandProducts", `Best ${config.name} Products 2026`, { brand: config.name });
+  const description = `${tt(`brandPages.${brand}.description`, config.description)} ${tt("pages.brandTested", `We've tested ${config.name} products across multiple categories.`, { brand: config.name })}`;
   const url = `${SITE_URL}/${locale}/brand/${brand}`;
   return {
-    title, description,
+    title: serpTitle(title), description,
     alternates: localeAlternates(`/brand/${brand}`, locale),
     openGraph: { type: "website", title, description, url, siteName: "Pickly" },
     twitter: { card: "summary", title, description },

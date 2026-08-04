@@ -13,6 +13,7 @@ import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -247,11 +248,16 @@ export async function generateMetadata({ params }: Props) {
   const budgetKey = budget.replace(/^under-/, "");
   if (!VALID_BUDGETS.includes(budgetKey as Budget)) return {};
   const label = BUDGET_LABELS[budgetKey as Budget];
-  const title = `Best Products ${label} in 2026`;
-  const description = `Tested product reviews where top picks cost less than $${budgetKey}. Fitness, tech, home, beauty, and more — all ${label}.`;
+  // ★本文は 17 言語で出しているのに metadata だけ英語直書きだった (2026-08-04)。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const title = tt("pages.underTitle", `Best Products ${label} in 2026`, { budget: budgetKey });
+  const description = tt("pages.underDesc", `Tested product reviews where every top pick stays ${label}.`, { budget: budgetKey });
   const url = `${SITE_URL}/${locale}/under/${budgetKey}`;
   return {
-    title, description,
+    title: serpTitle(title), description,
     alternates: localeAlternates(`/under/${budgetKey}`, locale),
     openGraph: { type: "website", title, description, url, siteName: "Pickly" },
     twitter: { card: "summary", title, description },

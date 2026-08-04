@@ -12,6 +12,7 @@ import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -192,11 +193,22 @@ export default async function NewPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "New Reviews 2026";
-  const description = "Recently published product reviews and comparisons — updated regularly across fitness, tech, home, beauty, and more.";
+  // ★本文は 17 言語で出しているのに metadata だけ英語直書きだった (2026-08-04)。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const title = tt("pages.newTitle", "New this month");
+  // newDesc は {count} と {categories} を要求する (未指定だと FORMATTING_ERROR で英語へ落ちる)。
+  const published = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
+  const description = tt(
+    "pages.newDesc",
+    "Recently published product reviews and comparisons, updated regularly.",
+    { count: published.length, categories: new Set(published.map((a) => a.category)).size },
+  );
   const url = `${SITE_URL}/${locale}/new`;
   return {
-    title, description,
+    title: serpTitle(title), description,
     alternates: localeAlternates("/new", locale),
     openGraph: { type: "website", title, description, url, siteName: "Pickly" },
   };

@@ -14,6 +14,7 @@ import { TAGS, TAG_MAP } from "@/lib/pages/tag-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 const CATEGORY_ICONS: Record<string,string> = { fitness:"🏋️",food:"🍳",tech:"💻",beauty:"✨",home:"🏠",fashion:"👗",finance:"💰",travel:"✈️",parenting:"👶",pets:"🐾" };
@@ -158,11 +159,19 @@ export async function generateMetadata({ params }: Props) {
   const { locale, tag } = await params;
   const config = TAG_MAP[tag];
   if (!config) return {};
-  const title = `Best ${config.label} Products 2026`;
+  // ★本文はこの翻訳を 17 言語で出しているのに、metadata だけ英語直書きだった。
+  //   SERP に出るのは metadata の方なので、本文と同じキーを引く (2026-08-04)。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const label = tt(`tagPages.${tag}.label`, config.label);
+  const title = tt("pages.bestTagProducts", `Best ${config.label} Products 2026`, { tag: label });
+  const description = tt(`tagPages.${tag}.description`, config.description);
   const url = `${SITE_URL}/${locale}/tag/${tag}`;
   return {
-    title, description: config.description,
+    title: serpTitle(title), description,
     alternates: localeAlternates(`/tag/${tag}`, locale),
-    openGraph: { type: "website", title, description: config.description, url, siteName: "Pickly" },
+    openGraph: { type: "website", title, description, url, siteName: "Pickly" },
   };
 }

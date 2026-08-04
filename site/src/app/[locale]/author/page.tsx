@@ -4,6 +4,7 @@ import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -158,11 +159,16 @@ export default async function AuthorPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Pickly Editorial Team | About Our Reviews";
-  const description = "Meet the Pickly editorial team — how we test products, our scoring criteria, and our affiliate disclosure policy.";
+  // ★本文は 17 言語で出しているのに metadata だけ英語直書きだった (2026-08-04)。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const title = tt("pages.authorTitle", "The Pickly editorial team");
+  const description = tt("pages.authorDesc", "How we test products, how we score them, and how we disclose affiliate links.");
   const canonicalUrl = `${SITE_URL}/${locale}/author`;
   return {
-    title,
+    title: serpTitle(title),
     description,
     alternates: {
       canonical: canonicalUrl,

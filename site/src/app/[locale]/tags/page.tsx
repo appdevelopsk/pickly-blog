@@ -3,6 +3,7 @@ import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { TAGS } from "@/lib/pages/tag-config";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { serpTitle } from "@/lib/seo/title";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -50,11 +51,16 @@ export default async function TagsIndexPage({ params }: Props) {
 
 export async function generateMetadata({ params }: Props) {
   const { locale } = await params;
-  const title = "Browse by Tag";
-  const description = "Find the best products by tag — wireless, eco-friendly, budget, premium, compact, and more.";
+  // ★本文は 17 言語で出しているのに metadata だけ英語直書きだった (2026-08-04)。
+  const t = await getTranslations({ locale });
+  const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
+    try { return t(key, values); } catch { return fallback; }
+  };
+  const title = tt("pages.tagsHeading", "Browse by Tag");
+  const description = tt("pages.tagsLead", "Find products by style, need, or feature.");
   const url = `${SITE_URL}/${locale}/tags`;
   return {
-    title, description,
+    title: serpTitle(title), description,
     alternates: localeAlternates("/tags", locale),
     openGraph: { type: "website", title, description, url, siteName: "Pickly" },
   };
