@@ -10,3 +10,20 @@
 
 /og/*
   Cache-Control: public, max-age=86400
+
+# HTML をエッジでキャッシュする。
+#
+# なぜ (2026-08-04): Cloudflare Pages は HTML に既定で
+# `max-age=0, must-revalidate` を付けるため `cf-cache-status: DYNAMIC` となり、
+# **全ページリクエストがオリジンまで往復していた**。Bing のクロールは直近7日で
+# 7,597ページ、うち 5xx が 4,667件（増加傾向・インデックスは4,700中2,853で頭打ち）。
+# ブラウザ側は据え置き(max-age=0)で常に検証し、CDN 側だけ s-maxage で持たせる。
+# Pages は新しいデプロイでキャッシュを破棄するので、公開の遅れは起きない。
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate, s-maxage=600, stale-while-revalidate=86400
+
+/
+  Cache-Control: public, max-age=0, must-revalidate, s-maxage=600, stale-while-revalidate=86400
+
+/*/
+  Cache-Control: public, max-age=0, must-revalidate, s-maxage=600, stale-while-revalidate=86400
