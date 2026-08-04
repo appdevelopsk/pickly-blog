@@ -84,7 +84,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-cat-litter-mat-2026",
   "best-cat-scratching-post-2026",
   "best-cat-tunnel-2026",
-  "best-cat-window-perch-2026",
   "best-chemex-2026",
   "best-clay-mask-2026",
   "best-cloud-hosting-2026",
