@@ -25947,9 +25947,14 @@ export function getOffersFor(
 export function pickLink(
   offer: AffiliateOffer,
   market: Market,
-  opts: { onlyApproved?: boolean } = {},
+  opts: { onlyApproved?: boolean; allowFallback?: boolean } = {},
 ) {
   const approved = opts.onlyApproved ?? true;
+  // 自国Amazon検索へのフォールバックは「実際の提携がある」ことを意味しない。
+  // ページを生成するかどうかの判断(hasApprovedAds)には数えない —
+  // 数えると静的書き出しが 25,012 ファイルに増え、Cloudflare Pages の
+  // 20,000 上限を超えてデプロイが落ちる(2026-08-05 に実際に落ちた)。
+  const allowFallback = opts.allowFallback ?? true;
   const candidates = offer.links.filter((l) => (approved ? l.approved : true));
   // FR/ES/IT は EU フォールバック（amazon-de が amazon-fr/es/it にリマップされる）
   const euFallback = (["FR", "ES", "IT"] as Market[]).includes(market) ? "EU" : null;
@@ -25958,7 +25963,7 @@ export function pickLink(
     (euFallback ? candidates.find((l) => l.markets.includes(euFallback)) : null) ??
     candidates.find((l) => l.markets.includes("global")) ??
     (market === "global" ? candidates.find((l) => l.markets.includes("US")) : null) ??
-    localAmazonFallback(offer, market, candidates) ??
+    (allowFallback ? localAmazonFallback(offer, market, candidates) : null) ??
     null
   );
 }
