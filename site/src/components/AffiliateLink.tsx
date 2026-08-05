@@ -9,6 +9,7 @@ import { getReviewVideo } from "@/lib/affiliates/youtube";
 import { getYahooMatch } from "@/lib/affiliates/yahoo";
 import { ReviewVideo } from "@/components/ReviewVideo";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
+import { inferGeoMarket } from "@/lib/affiliates/geo-market";
 import type { AffiliateOffer, AspNetwork } from "@/lib/affiliates/types";
 import type { Market } from "@/lib/affiliates/types";
 
@@ -17,10 +18,28 @@ const GEO_MARKETS = new Set<Market>(["UK", "CA"]);
 function useMarket(localeMarket: Market): Market {
   const [market, setMarket] = useState<Market>(localeMarket);
   useEffect(() => {
+    // cookie は「サーバ側で geo を確定できる環境」用の上書き経路として残すが、
+    // ★静的エクスポートの本サイトには cookie を設定する処理が存在しない。
+    //   実際の判定はタイムゾーン+ブラウザ言語のクライアント推定で行う
+    //   (2026-08-06 まで UK 訪問者に amazon.com が出続けていた)。
     const match = document.cookie.match(/(?:^|;\s*)x-market=([^;]+)/);
-    const geo = match?.[1] as Market | undefined;
-    if (geo && GEO_MARKETS.has(geo)) setMarket(geo);
-  }, []);
+    const cookieGeo = match?.[1] as Market | undefined;
+    if (cookieGeo && GEO_MARKETS.has(cookieGeo)) {
+      setMarket(cookieGeo);
+      return;
+    }
+    // 推定は「en ページ(=US市場)」でのみ行う。/ja/ を読む在英者の Amazon を
+    // 勝手に UK に振らない(その読者は日本語商品情報を求めており、リンク先の
+    // 品揃えが変わると本文と食い違う)。
+    if (localeMarket !== "US") return;
+    const inferred = inferGeoMarket(
+      navigator.languages ?? [navigator.language],
+      Intl.DateTimeFormat().resolvedOptions().timeZone,
+    );
+    // ★CA は amazon-ca のタグ未取得のため当面適用しない(タグ無し=0円確定で
+    //   現状の US タグ付き amazon.com より悪化する)。タグ取得後に外す。
+    if (inferred === "UK") setMarket("UK");
+  }, [localeMarket]);
   return market;
 }
 
