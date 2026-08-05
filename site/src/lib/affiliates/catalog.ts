@@ -25968,6 +25968,12 @@ export function pickLink(
   );
 }
 
+// Amazon で実際に買えるカテゴリ。ここに無いもの(finance / travel)は
+// 提携が無くても Amazon 検索へ送らない。
+const PHYSICAL_CATEGORIES = new Set([
+  "tech", "home", "beauty", "fashion", "fitness", "food", "parenting", "pets",
+]);
+
 /** market → その国の Amazon ネットワーク。EU は amazon-de（EU_REMAP が FR/ES/IT に振り直す）。 */
 const LOCAL_AMAZON: Partial<Record<Market, AspNetwork>> = {
   JP: "amazon-jp",
@@ -26003,7 +26009,14 @@ function localAmazonFallback(
 ): AspLink | null {
   const network = LOCAL_AMAZON[market];
   if (!network) return null;
-  if (!candidates.some((l) => l.network.startsWith("amazon-"))) return null;
+  // Amazon 提携が元から付いている商品はそのまま国だけ振り替える。
+  // 付いていない商品は「Amazon で売っている種類のものか」で判断する。
+  // finance / travel（銀行口座・保険・航空券）を Amazon 検索に送るのは
+  // 読者にとって無意味なので除く。逆に fashion / beauty は公式サイトへの
+  // 素リンク(network:"direct")しか無く、踏まれても1円にもならなかった
+  // （best-jeans-for-women-2026 / best-lip-gloss-2026 など39記事・365ページ）。
+  const hasAmazon = candidates.some((l) => l.network.startsWith("amazon-"));
+  if (!hasAmazon && !PHYSICAL_CATEGORIES.has(offer.category)) return null;
   const name = offer.name.en ?? Object.values(offer.name)[0];
   if (!name) return null;
   return { network, productId: name, markets: [market], approved: true };
@@ -26032,8 +26045,12 @@ export function pickAllLinks(
   add(candidates.filter((l) => l.markets.includes("global")));
   if (market === "global") add(candidates.filter((l) => l.markets.includes("US")));
 
-  // どの market 指定にも当たらなかった Amazon 商品を自国 Amazon の検索で拾う
-  if (result.length === 0) {
+  // ★Amazon の購入先が1つも無いなら、自国 Amazon の検索を足す。
+  //   「1つも無い」は空のときだけではない。fashion / beauty の商品は
+  //   `network:"direct"`(ブランド公式への素リンク)を持っているせいで
+  //   result が空にならず、**踏まれても1円にもならない**状態だった
+  //   (39記事・365ページ)。公式リンクは残したまま、報酬になる購入先を並べる。
+  if (!result.some((l) => l.network.startsWith("amazon-"))) {
     const fb = localAmazonFallback(offer, market, candidates);
     if (fb) add([fb]);
   }

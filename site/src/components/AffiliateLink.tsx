@@ -160,15 +160,19 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
   ) : null;
 
   if (!link) {
-    const amazonHost = amazonHostForMarket(market);
-    const fallbackUrl = `${amazonHost}/s?k=${encodeURIComponent(name)}`;
+    const fallbackUrl = buildAffiliateUrl({
+      link: { network: amazonNetworkForMarket(market), productId: name,
+              markets: [market], approved: true },
+      productName: offer.name.en ?? name,
+      market,
+    });
 
     if (variant === "button") {
       const amazonBtn = (
         <a
           href={fallbackUrl}
           target="_blank"
-          rel="noopener noreferrer"
+          rel="sponsored noopener noreferrer"
           className="inline-flex items-center gap-1 rounded-md border border-slate-300 px-4 py-2 text-sm font-medium text-slate-600 hover:border-slate-400 transition-colors"
         >
           {t("offer.searchOnAmazon")} →
@@ -184,7 +188,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         <a
           href={fallbackUrl}
           target="_blank"
-          rel="noopener noreferrer"
+          rel="sponsored noopener noreferrer"
           className="font-medium text-slate-600 underline-offset-2 hover:underline"
         >
           {name}
@@ -230,7 +234,13 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       const amazonHost = amazonHostForMarket(market);
       return (
         <div className="flex flex-wrap gap-2">
-          <a href={`${amazonHost}/s?k=${encodeURIComponent(name)}`} target="_blank" rel="noopener noreferrer"
+          {/* ★タグを必ず通す。ここは素の検索URLを直接組み立てていて、
+              踏まれても報酬にならない導線だった (2026-08-05)。 */}
+          <a href={buildAffiliateUrl({
+                link: { network: amazonNetworkForMarket(market), productId: name,
+                        markets: [market], approved: true },
+                productName: offer.name.en ?? name, market })}
+            target="_blank" rel="sponsored noopener noreferrer"
             className="inline-flex items-center gap-1 rounded-md border border-slate-300 px-4 py-2 text-sm font-medium text-slate-600 hover:border-slate-400 transition-colors">
             {t("offer.searchOnAmazon")} →
           </a>
@@ -350,6 +360,23 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       {videoBlock}
     </div>
   );
+}
+
+/** market → その国の Amazon ASP。素の検索URLを組み立てる代わりにこれを通して
+ *  buildAffiliateUrl に渡すと、必ずアフィリエイトタグが付く。
+ *  ★ここを通さない素の `${host}/s?k=...` が3箇所あり、踏まれても報酬に
+ *    ならない導線になっていた (2026-08-05)。 */
+function amazonNetworkForMarket(market: string): AspNetwork {
+  switch (market) {
+    case "JP": return "amazon-jp";
+    case "UK": return "amazon-uk";
+    case "EU": return "amazon-de";
+    case "FR": return "amazon-fr";
+    case "ES": return "amazon-es";
+    case "IT": return "amazon-it";
+    case "CA": return "amazon-ca";
+    default:   return "amazon-us";
+  }
 }
 
 function amazonHostForMarket(market: string): string {
