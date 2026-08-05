@@ -170,6 +170,34 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
             );
           })()}
 
+          {/* 用途別の近道。
+              ★「Which one is right for you?」(recommendedFor) は全比較記事に
+                17言語で存在するのに、**本文の45%地点**に置かれていた。
+                平均滞在13秒・90%スクロール到達21%の読者には無いのと同じ。
+                着地した読者の質問は「自分の場合はどれか」なので、その答えへの
+                アンカーをファーストビュー直下に圧縮して置く。中身は既存データを
+                そのまま使う(新しい文言・翻訳は不要)。詳細版は従来位置に残る。 */}
+          {isComparison && content.recommendedFor && content.recommendedFor.length > 0 && (
+            <nav aria-label={t("article.recommendedFor")} className="mb-8 flex flex-wrap gap-2">
+              {content.recommendedFor.slice(0, 6).map((item, i) => {
+                const offer = offers.find((o) => o.id === item.offerId);
+                if (!offer) return null;
+                const offerName = offer.name[locale as keyof typeof offer.name] ?? offer.name.en ?? item.offerId;
+                return (
+                  <a
+                    key={i}
+                    href={`#offer-${item.offerId}`}
+                    className="inline-flex max-w-full items-baseline gap-1.5 rounded-full border border-slate-200 bg-white px-3.5 py-1.5 text-xs shadow-sm hover:border-brand-400 hover:shadow transition-all"
+                  >
+                    <span className="shrink-0 font-medium text-slate-500">{item.label}:</span>
+                    <span className="truncate font-bold text-slate-800">{offerName}</span>
+                    <span className="shrink-0 text-slate-400">↓</span>
+                  </a>
+                );
+              })}
+            </nav>
+          )}
+
           {/* Comparison table — only shown when offers have rating or price data */}
           {isComparison && offers.length > 0 && (offers.some(o => o.rating) || offers.some(o => resolvePrice(o, locale))) && (
             <div className="mb-8 overflow-x-auto rounded-2xl border border-slate-200 shadow-sm">
