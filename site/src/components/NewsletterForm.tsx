@@ -11,7 +11,15 @@ import { Link } from "@/lib/i18n/navigation";
  */
 const ENDPOINT = "https://fxea365.com/api/leads/subscribe";
 
-export function NewsletterForm({ source = "pickly" }: { source?: string }) {
+/** 置き場所によって配色を変える。
+ *  footer = 濃い背景のフッター用（従来）/ inline = 記事本文中の明るい背景用。
+ *  ★フッターにしか置いていなかったため、記事の最下部＝**誰も到達しない位置**に
+ *    あった。実測で 90%スクロール到達は21%、平均滞在13秒。リード獲得は累計0件。 */
+export function NewsletterForm({
+  source = "pickly",
+  variant = "footer",
+}: { source?: string; variant?: "footer" | "inline" }) {
+  const dark = variant === "footer";
   const t = useTranslations("newsletter");
   const tn = useTranslations("nav");
   const locale = useLocale();
@@ -40,11 +48,13 @@ export function NewsletterForm({ source = "pickly" }: { source?: string }) {
   }
 
   return (
-    <div className="rounded-xl border border-slate-700 bg-slate-800/50 p-5">
-      <p className="font-bold text-white">{t("title")}</p>
-      <p className="mt-1 text-xs text-slate-400">{t("desc")}</p>
+    <div className={dark
+      ? "rounded-xl border border-slate-700 bg-slate-800/50 p-5"
+      : "rounded-xl border border-brand-200 bg-brand-50/60 p-5"}>
+      <p className={dark ? "font-bold text-white" : "font-bold text-slate-900"}>{t("title")}</p>
+      <p className={dark ? "mt-1 text-xs text-slate-400" : "mt-1 text-xs text-slate-600"}>{t("desc")}</p>
       {state === "ok" ? (
-        <p className="mt-3 text-sm font-medium text-emerald-400">{t("success")}</p>
+        <p className={dark ? "mt-3 text-sm font-medium text-emerald-400" : "mt-3 text-sm font-medium text-emerald-700"}>{t("success")}</p>
       ) : (
         <form onSubmit={onSubmit} className="mt-3">
           <div className="flex flex-col gap-2 sm:flex-row">
@@ -55,7 +65,9 @@ export function NewsletterForm({ source = "pickly" }: { source?: string }) {
               onChange={(e) => setEmail(e.target.value)}
               placeholder={t("placeholder")}
               aria-label={t("placeholder")}
-              className="min-w-0 flex-1 rounded-md border border-slate-600 bg-slate-900 px-3 py-2 text-sm text-white placeholder:text-slate-500"
+              className={dark
+                ? "min-w-0 flex-1 rounded-md border border-slate-600 bg-slate-900 px-3 py-2 text-sm text-white placeholder:text-slate-500"
+                : "min-w-0 flex-1 rounded-md border border-slate-300 bg-white px-3 py-2 text-sm text-slate-900 placeholder:text-slate-400"}
             />
             <button
               type="submit"
@@ -65,10 +77,10 @@ export function NewsletterForm({ source = "pickly" }: { source?: string }) {
               {state === "sending" ? t("sending") : t("button")}
             </button>
           </div>
-          {state === "err" && <p className="mt-2 text-xs text-red-400">{t("error")}</p>}
-          <p className="mt-2 text-[11px] text-slate-400">
+          {state === "err" && <p className={dark ? "mt-2 text-xs text-red-400" : "mt-2 text-xs text-red-600"}>{t("error")}</p>}
+          <p className={dark ? "mt-2 text-[11px] text-slate-400" : "mt-2 text-[11px] text-slate-500"}>
             {t("privacy")}{" "}
-            <Link href="/privacy" className="underline hover:text-slate-300">
+            <Link href="/privacy" className={dark ? "underline hover:text-slate-300" : "underline hover:text-slate-700"}>
               {tn("privacy")}
             </Link>
           </p>

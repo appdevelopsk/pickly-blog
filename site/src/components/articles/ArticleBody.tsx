@@ -3,6 +3,7 @@ import type { ArticleContent, ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import type { RelatedCard } from "./related-data";
 import { AffiliateLink } from "@/components/AffiliateLink";
+import { NewsletterForm } from "@/components/NewsletterForm";
 import { Link } from "@/lib/i18n/navigation";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
@@ -307,11 +308,26 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
           )}
 
           {/* Comparison: product sections */}
+          {/* 本文の途中に置くメール登録。
+              ★フッターにしか無かったため、記事の最下部＝**到達しない位置**だった
+                (90%スクロール到達は21%・平均滞在13秒・リード獲得は累計0件)。
+                FAQ の手前だと76%地点で、やはり多くの読者は届かない。
+                かといって最初の買いリンクより上に置くと収益動線を邪魔する。
+                **3件目の商品を読み終えた辺り**＝買う気のある読者が一巡した位置に置く。 */}
           {isComparison && offers.map((o, i) => {
             const product = content.products?.find((p) => p.offerId === o.id);
             const name = o.name[locale as keyof typeof o.name] ?? o.name.en ?? o.id;
             const isWinner = i === 0;
-            return (
+            const withForm = (node: React.ReactNode) =>
+              i === 2 ? (
+                <div key={`${o.id}-wrap`}>
+                  {node}
+                  <section className="mb-10">
+                    <NewsletterForm source="pickly-article" variant="inline" />
+                  </section>
+                </div>
+              ) : node;
+            return withForm(
               <section
                 key={o.id}
                 id={`offer-${o.id}`}
