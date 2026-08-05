@@ -80,6 +80,9 @@ export function SiteFooter() {
             <nav className="flex flex-col gap-2">
               <Link href="/ranking"   className="text-slate-400 hover:text-white transition-colors">🏆 {t("discover.rankings")}</Link>
               <Link href="/new"       className="text-slate-400 hover:text-white transition-colors">🆕 {t("discover.newReviews")}</Link>
+              {/* /web-stories/ ハブは被リンク0の孤立ページだった(2026-08-05 全数監査)。
+                  Link(ロケール付与)ではなく素の a で、ロケール外の実URLへ張る。 */}
+              <a href="/web-stories/" className="text-slate-400 hover:text-white transition-colors">📱 Web Stories</a>
               <Link href="/best-2026" className="text-slate-400 hover:text-white transition-colors">✨ {t("discover.bestOf")}</Link>
               <Link href="/gifts"     className="text-slate-400 hover:text-white transition-colors">🎁 {t("discover.gifts")}</Link>
               <Link href="/compare"   className="text-slate-400 hover:text-white transition-colors">⚖️ {t("discover.compare")}</Link>

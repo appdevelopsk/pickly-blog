@@ -28,6 +28,15 @@ const CATEGORIES = [
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date().toISOString();
   const out: MetadataRoute.Sitemap = [];
+  // /web-stories/ ハブ。全数監査(2026-08-05)で「index対象なのにサイトマップ未収録
+  // かつ被リンク0」だった唯一のページ。個々のストーリーは専用サイトマップ
+  // (/web-stories/sitemap.xml) にあるが、ハブ自体はどこからも辿れなかった。
+  out.push({
+    url: `${SITE_URL}/web-stories/`,
+    lastModified: now,
+    changeFrequency: "weekly",
+    priority: 0.4,
+  });
   // 検索インデックス対象ロケールのみ sitemap / hreflang に載せる（死蔵言語は除外）。
   const IDX = LOCALES.filter(isIndexedLocale);
 
