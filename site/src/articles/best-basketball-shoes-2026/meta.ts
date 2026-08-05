@@ -13,7 +13,7 @@ export const meta: ArticleMeta = {
     "nike-giannis-immortality-4",
   ],
   publishedAt: "2026-05-10",
-  updatedAt: "2026-06-11",
+  updatedAt: "2026-08-05",
   locales: [...ALL_LOCALES],
   ogImage: "/og/best-basketball-shoes-2026",
 };

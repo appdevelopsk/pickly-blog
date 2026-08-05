@@ -96,7 +96,13 @@ export default async function HomePage({ params }: Props) {
   // Only surface articles that have a real product image — no icon placeholders on the top page
   const withImage = articles.filter((a) => getThumbnail(a, locale) !== null);
   const pool = withImage.length >= 8 ? withImage : articles; // fallback to all if images are scarce
-  const recent = pool.slice(-16).reverse();
+  // 「最近更新した記事」を先頭に出す。
+  // ★従来はレジストリの末尾16件(=追加順)固定で、記事を改善しても
+  //   トップページからのリンクは一切変わらなかった。更新日順にすることで、
+  //   手を入れた記事へ内部リンクが自動で集まり、鮮度もトップに反映される。
+  const recent = [...pool]
+    .sort((a, b) => (b.updatedAt ?? b.publishedAt).localeCompare(a.updatedAt ?? a.publishedAt))
+    .slice(0, 16);
   const [featured, ...gridArticles] = recent;
 
   const categoryCounts: Record<string, number> = {};
