@@ -1,8 +1,9 @@
 # Cloudflare Pages redirects.
-# ★www→apex は最上段に置く。下の「/ /en/ 301」等のパス規則はホスト無差別に
-#   マッチするため、後ろに置くと www でも先にパス規則が勝って絶対URL規則まで
-#   到達しない(2026-08-05 実測: www/ が /en/ に相対リダイレクトされた)。
-https://www.pickly.blog/* https://pickly.blog/:splat 301
+# ★www→apex の 301 はここでは書けない。絶対URL(ホスト跨ぎ)ソースの規則は
+#   末尾でも最上段でも無視された(2026-08-05 に両方実測)。www は Pages の
+#   カスタムドメインとして登録済みで 200 を返し、全ページの canonical が
+#   apex を指すので検索上の統合は成立している。301 に寄せたい場合は
+#   ダッシュボードの Redirect Rules / Bulk Redirects で行う(ゾーン権限が要る)。
 
 # Route bare "/" to /en/.
 # ★302だとGoogleが「/ が正、/en/ は重複」と解釈し、ホームの canonical を
