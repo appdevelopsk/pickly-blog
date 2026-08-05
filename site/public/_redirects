@@ -1,4 +1,9 @@
 # Cloudflare Pages redirects.
+# ★www→apex は最上段に置く。下の「/ /en/ 301」等のパス規則はホスト無差別に
+#   マッチするため、後ろに置くと www でも先にパス規則が勝って絶対URL規則まで
+#   到達しない(2026-08-05 実測: www/ が /en/ に相対リダイレクトされた)。
+https://www.pickly.blog/* https://pickly.blog/:splat 301
+
 # Route bare "/" to /en/.
 # ★302だとGoogleが「/ が正、/en/ は重複」と解釈し、ホームの canonical を
 #   / に選んでいた(URL Inspection APIで確認 2026-08-04)。301で /en/ を確定させる。
@@ -40,4 +45,4 @@
 # 単調増加していた真犯人はこれで、WAF ではない (2026-08-05 に CF Analytics の
 # bingbot 実応答で確定: 403ゼロ・522が日次54〜111件、全部 www 宛て)。
 # Pages に www を登録した上で、正規ホストの apex へ 301 で寄せる。
-https://www.pickly.blog/* https://pickly.blog/:splat 301
+
