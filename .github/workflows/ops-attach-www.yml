@@ -1,0 +1,26 @@
+# 一度きりの運用ワークフロー: www.pickly.blog を Pages プロジェクトに登録する。
+#
+# なぜ (2026-08-05): www は DNS(CNAME→apex, proxied)だけ存在し、Pages プロジェクトに
+# カスタムドメインとして未登録だった。その結果 Host: www への全リクエストが 522。
+# Bing が7月から積み上げてきた 5xx の正体で、実ユーザー(iPhone)も踏んでいた。
+# ローカルには Pages Write のトークンが無いため、CI のシークレットで実行する。
+name: ops attach www domain
+on: workflow_dispatch
+jobs:
+  attach:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Attach www.pickly.blog to the Pages project
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          PROJECT: ${{ vars.CLOUDFLARE_PROJECT_NAME }}
+        run: |
+          echo "現在のドメイン一覧:"
+          curl -s -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/pages/projects/$PROJECT/domains" \
+            | python3 -c 'import json,sys; [print(" -",d["name"],d.get("status")) for d in json.load(sys.stdin)["result"]]'
+          echo "www を追加:"
+          curl -s -X POST -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json" \
+            "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/pages/projects/$PROJECT/domains" \
+            -d '{"name":"www.pickly.blog"}' | head -c 400

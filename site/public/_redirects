@@ -34,3 +34,10 @@
 
 # Strip trailing-slash duplicates handled by Next config; this catches edges.
 /:locale /:locale/ 301
+
+# www は DNS(CNAME→apex)だけあって Pages に未登録だったため、全リクエストが
+# 522 (オリジン接続タイムアウト) になっていた。Bing の 5xx カウンタが 7月から
+# 単調増加していた真犯人はこれで、WAF ではない (2026-08-05 に CF Analytics の
+# bingbot 実応答で確定: 403ゼロ・522が日次54〜111件、全部 www 宛て)。
+# Pages に www を登録した上で、正規ホストの apex へ 301 で寄せる。
+https://www.pickly.blog/* https://pickly.blog/:splat 301
