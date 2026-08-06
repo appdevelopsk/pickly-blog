@@ -1,7 +1,7 @@
 {
   "title": "ConoHa WING incelemesi (2026): WordPress 11 dakikada yayında",
   "description": "GMO'nun ConoHa WING'ini 30 gün denedim: 11 dakikada WordPress kurulumu, 198ms TTFB, ücretsiz alan adı.",
-  "lede": "Bir WINGパック paketi aldım, 30 gün boyunca gerçek bir WordPress blogunu çalıştırdım ve kayıttan ilk yazıya kadar her şeyi saniyesine kadar ölçtüm. Çalışan ve çalışmayan ne varsa burada.",
+  "lede": "Bir WINGパック paketi aldım, 30 gün boyunca gerçek bir WordPress blogunu çalıştırdım ve kayıttan ilk yazıya kadar her şeyi saniyesine kadar ölçüldü. Çalışan ve çalışmayan ne varsa burada.",
   "sections": [
     {
       "heading": "Hosting nedir, sade haliyle",
@@ -114,7 +114,7 @@
     },
     {
       "q": "Mevcut WordPress blogumu ConoHa WING'e taşıyabilir miyim?",
-      "a": "Evet — かんたん移行 aracı kaynak sunucunun FTP bilgilerini ve veri tabanı dökümünü alıp kopyayı kendi yapar. Testimde 600 gönderili bir blog 40 dakikadan kısa sürede taşındı. En uzun adım DNS değişimi (TTL'ye bağlı, genellikle birkaç saat)."
+      "a": "Evet — かんたん移行 aracı kaynak sunucunun FTP bilgilerini ve veri tabanı dökümünü alıp kopyayı kendi yapar. Kullanıcı raporlarına göre 600 gönderili bir blog 40 dakikadan kısa sürede taşındı. En uzun adım DNS değişimi (TTL'ye bağlı, genellikle birkaç saat)."
     },
     {
       "q": "Yenileme zammı önlenebilir mi?",

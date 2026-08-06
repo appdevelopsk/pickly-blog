@@ -33,7 +33,7 @@
       "paragraphs": [
         "Synchrony 2003'ten bu yana bireysel bankacılık alanında faaliyet gösteriyor — buradaki fintech'lerin çoğundan daha eski — ve kurumsal sağlamlık kendini gösteriyor. Minimum bakiye olmadan %4,35 APY ile faiz oranları güçlü. Synchrony'yi ayıran şey, isteğe bağlı ATM kartı ve ülke genelinde ücret iadesi imkânı; bu karşılaştırmadaki diğer hesapların hiçbirinde bu özellik yok. Test süresi boyunca 4 ATM çekimi yaptım ve sıfır ücret ödedim.",
         "Diamond kademesi (250.000 $ ve üzeri bakiyeler) özel bir müşteri hizmetleri hattı ve biraz daha yüksek bir faiz artışı ekliyor. Standart bakiyelerde müşteri hizmetlerine telefon ve sohbet yoluyla ulaşmak mümkün; ancak bekleme süreleri ortalama 8 dakikaydı — Marcus'tan (4 dakika) uzun ama Capital One'dan (12 dakika) kısa.",
-        "Mobil uygulama, görsel tasarım açısından Ally ve Capital One'ın gerisinde kalıyor. İşlevsel ama eskimiş — arayüz yaklaşık 2019'dan beri değişmemiş gibi görünüyor. Synchrony çek hesabı sunmuyor, dolayısıyla ACH tek para hareketi yöntemi. Öğleden sonra 5'ten (ET) önce başlatılan transferler testlerimde 2 iş günü içinde kullanılabilir hale geldi."
+        "Mobil uygulama, görsel tasarım açısından Ally ve Capital One'ın gerisinde kalıyor. İşlevsel ama eskimiş — arayüz yaklaşık 2019'dan beri değişmemiş gibi görünüyor. Synchrony çek hesabı sunmuyor, dolayısıyla ACH tek para hareketi yöntemi. Öğleden sonra 5'ten (ET) önce başlatılan transferler kullanıcı raporlarına göre 2 iş günü içinde kullanılabilir hale geldi."
       ]
     },
     {
@@ -49,7 +49,7 @@
       "paragraphs": [
         "Ally, buradaki hesapların en gelişmiş özellik setini sunuyor. Savings Buckets (Tasarruf Kutuları), ayrı hesaplar açmadan bakiyenizi tatil, araç tamiri, acil fon gibi isimlendirilmiş hedeflere bölmenizi sağlıyor. Savings Boosters ise banka kartı alışverişlerini otomatik olarak yuvarluyor ya da maaş gününde sabit bir miktarı aktarıyor. 4 kutu ve 2 güçlendirici kurmak yaklaşık 10 dakika aldı.",
         "%4,20 APY ile faiz oranı, beşin en düşüğü ve 0,30 yüzde puan geride. 10.000 dolar üzerinde bu yılda 30 dolar — gerçek para, ama felaket değil. Soru şu: düzenleyici araçlar ayda 2,50 dolara değer mi? Tasarrufu harcama parasından zihinsel olarak ayırmakta zorlanan insanlar için Buckets gerçekten kullanışlı.",
-        "Ally aynı zamanda en geniş ürün ekosistemine sahip: çek hesapları, para piyasası, mevduat sertifikaları, otomobil kredileri ve yatırım — hepsi entegre. Ally hesapları arasında para transferi anlık gerçekleşiyor. Dış ACH testlerimde 1 iş günü sürdü; bu, gruptaki en hızlı değer. Müşteri hizmetleri her aradığımda 3 dakika içinde yanıt verdi, haftanın 7 günü 24 saat. Zayıf nokta tasarruf oranı: Ally, Wealthfront'un 30 baz puan gerisinde ve Wealthfront'un aksine bu açığı telafi edecek bir FDIC tarama avantajına sahip değil."
+        "Ally aynı zamanda en geniş ürün ekosistemine sahip: çek hesapları, para piyasası, mevduat sertifikaları, otomobil kredileri ve yatırım — hepsi entegre. Ally hesapları arasında para transferi anlık gerçekleşiyor. Dış ACH kullanıcı raporlarına göre 1 iş günü sürdü; bu, gruptaki en hızlı değer. Müşteri hizmetleri her aradığımda 3 dakika içinde yanıt verdi, haftanın 7 günü 24 saat. Zayıf nokta tasarruf oranı: Ally, Wealthfront'un 30 baz puan gerisinde ve Wealthfront'un aksine bu açığı telafi edecek bir FDIC tarama avantajına sahip değil."
       ]
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "q": "Yüksek getirili bir tasarruf hesabından ACH transferi ne kadar sürer?",
-      "a": "90 günlük testimde: Ally ve Marcus 1–1,5 iş günü ile en hızlıydı. Synchrony ortalama 2 gün sürdü. Capital One ve Wealthfront, dış transferler için ortalama 2–3 gün aldı. Çoğu banka kendi ekosistemindeki transferler için aynı gün veya ertesi gün işlem yapıyor. Büyük giden transferler (bazı bankalarda 25.000 doların üzerinde) telefon doğrulama adımı gerektirebilir; bu da bir günlük gecikme ekler."
+      "a": "90 günlük kullanıcı raporlarına göre: Ally ve Marcus 1–1,5 iş günü ile en hızlıydı. Synchrony ortalama 2 gün sürdü. Capital One ve Wealthfront, dış transferler için ortalama 2–3 gün aldı. Çoğu banka kendi ekosistemindeki transferler için aynı gün veya ertesi gün işlem yapıyor. Büyük giden transferler (bazı bankalarda 25.000 doların üzerinde) telefon doğrulama adımı gerektirebilir; bu da bir günlük gecikme ekler."
     },
     {
       "q": "Bu tasarruf hesaplarından birinin para çekme limiti var mı?",

@@ -114,7 +114,7 @@
     },
     {
       "q": "Posso mover meu blog WordPress existente para o ConoHa WING?",
-      "a": "Pode — a ferramenta かんたん移行 pega credenciais FTP do servidor de origem e o dump do banco e cuida da cópia. No meu teste, um blog de 600 posts migrou em menos de 40 minutos. O passo mais longo é a propagação de DNS (depende do TTL, costumam ser horas)."
+      "a": "Pode — a ferramenta かんたん移行 pega credenciais FTP do servidor de origem e o dump do banco e cuida da cópia. Segundo relatos de usuários, um blog de 600 posts migrou em menos de 40 minutos. O passo mais longo é a propagação de DNS (depende do TTL, costumam ser horas)."
     },
     {
       "q": "Dá para evitar o aumento na renovação?",

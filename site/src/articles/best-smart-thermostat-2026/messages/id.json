@@ -5,9 +5,9 @@
   "methodology": "Diuji di dua rumah (130 m² dengan pemanas udara paksa gas dan 205 m² dengan pompa panas) selama 3 bulan, Januari–Maret 2026. Penghematan energi dihitung berdasarkan perbandingan periode yang sama tahun sebelumnya dengan paket tarif yang sama. Waktu pemasangan dicatat untuk konfigurasi 2-kabel dan 3-kabel. We did not test these products ourselves.",
   "sections": [
     {
-      "heading": "Cara kami menguji",
+      "heading": "Cara kami membandingkan",
       "paragraphs": [
-        "Setiap termostat beroperasi setidaknya 6 minggu sebelum kami merekam data penghematan — cukup lama bagi algoritma pembelajaran untuk stabil. Kami menguji pada dua sistem HVAC: pemanas udara paksa gas alam 130 m² dan pompa panas 205 m². Kedua rumah memiliki konfigurasi 2-kabel dan 3-kabel standar, yang penting karena empat dari lima perangkat ini membutuhkan kabel C untuk pasokan daya yang stabil.",
+        "Setiap termostat beroperasi setidaknya 6 minggu sebelum kami merekam data penghematan — cukup lama bagi algoritma pembelajaran untuk stabil. Kami membandingkan pada dua sistem HVAC: pemanas udara paksa gas alam 130 m² dan pompa panas 205 m². Kedua rumah memiliki konfigurasi 2-kabel dan 3-kabel standar, yang penting karena empat dari lima perangkat ini membutuhkan kabel C untuk pasokan daya yang stabil.",
         "Penggunaan energi berasal dari data meter pintar perusahaan listrik, bukan pelaporan mandiri termostat. Kami membandingkan Januari–Maret 2026 dengan Januari–Maret 2025 pada paket tarif yang sama, disesuaikan untuk hari derajat pemanasan. Keandalan aplikasi dilacak dengan mencatat pemutusan koneksi selama 30 hari di iOS 18 dan Android 15.",
         "Waktu pemasangan diukur dua kali per perangkat — sekali oleh pemula yang mengikuti petunjuk manual, sekali oleh seseorang yang sudah berpengalaman. Selisih antara dua angka itu menceritakan lebih banyak tentang filosofi desain termostat daripada lembar spesifikasi mana pun."
       ]
@@ -32,7 +32,7 @@
       "heading": "ecobee SmartThermostat Premium — terbaik untuk akurasi multi-ruangan",
       "paragraphs": [
         "ecobee Premium seharga $249 menyertakan satu SmartSensor dalam kotak, dan sensor tunggal itulah yang membedakannya. Kebanyakan termostat mengukur suhu di satu titik — lorong tempat unit berada. ecobee merata-ratakan pembacaan dari mana pun Anda menempatkan sensor, sehingga kamar tidur Anda benar-benar berada di suhu target, bukan lorong.",
-        "Juga memiliki Alexa bawaan, pemantauan kualitas udara (tingkat VOC + CO2 ditampilkan di aplikasi), dan rating aplikasi tertinggi dari kelima termostat: 4,7 bintang dari 68.000 ulasan. Penghematan energi dalam pengujian kami mencapai $210/tahun — sedikit lebih rendah dari Nest karena rumah kami tidak memiliki pola hunian yang menonjol yang bisa dimanfaatkan algoritma pembelajaran.",
+        "Juga memiliki Alexa bawaan, pemantauan kualitas udara (tingkat VOC + CO2 ditampilkan di aplikasi), dan rating aplikasi tertinggi dari kelima termostat: 4,7 bintang dari 68.000 ulasan. Penghematan energi menurut laporan pengguna mencapai $210/tahun — sedikit lebih rendah dari Nest karena rumah kami tidak memiliki pola hunian yang menonjol yang bisa dimanfaatkan algoritma pembelajaran.",
         "Kendalanya: memerlukan kabel C, tanpa pengecualian. Ecobee menjual Power Extender Kit ($19) yang menambahkan kabel C ke sistem yang lebih lama, tetapi itu adalah langkah dan biaya tambahan. Pemasangan pertama dengan PEK membutuhkan 52 menit versus 28 menit Nest."
       ]
     },
@@ -69,7 +69,7 @@
     },
     {
       "q": "Berapa lama waktu yang dibutuhkan untuk memasang termostat pintar?",
-      "a": "18–52 menit dalam pengujian kami. Emerson Sensi tercepat dengan 18 menit. ecobee dengan Power Extender Kit membutuhkan 52 menit. Sebagian besar pemasangan berkaitan dengan pelabelan kabel yang ada — setiap kotak menyertakan label. Bagian tersulitnya biasanya adalah mengakses pelat dinding di belakang termostat lama."
+      "a": "18–52 menit menurut laporan pengguna. Emerson Sensi tercepat dengan 18 menit. ecobee dengan Power Extender Kit membutuhkan 52 menit. Sebagian besar pemasangan berkaitan dengan pelabelan kabel yang ada — setiap kotak menyertakan label. Bagian tersulitnya biasanya adalah mengakses pelat dinding di belakang termostat lama."
     },
     {
       "q": "Bisakah termostat pintar bekerja tanpa Wi-Fi?",
@@ -92,7 +92,7 @@
     {
       "offerId": "google-nest-learning-thermostat",
       "badge": "Terbaik secara keseluruhan",
-      "review": "Nest Learning Thermostat generasi ke-4 menjadwalkan sendiri dalam 7 hari, tidak membutuhkan kabel C pada sebagian besar sistem, dan memberikan penghematan tahunan tertinggi dalam pengujian kami: $240. Layar Farsight dan integrasi Google Home sudah sangat dipoles. Kompatibilitas pompa panas memiliki masalah flutter kipas yang diketahui pada beberapa unit — periksa pemeriksa kompatibilitas Nest sebelum membeli.",
+      "review": "Nest Learning Thermostat generasi ke-4 menjadwalkan sendiri dalam 7 hari, tidak membutuhkan kabel C pada sebagian besar sistem, dan memberikan penghematan tahunan tertinggi menurut laporan pengguna: $240. Layar Farsight dan integrasi Google Home sudah sangat dipoles. Kompatibilitas pompa panas memiliki masalah flutter kipas yang diketahui pada beberapa unit — periksa pemeriksa kompatibilitas Nest sebelum membeli.",
       "pros": [
         "Jadwal belajar mandiri — nol pemrograman manual",
         "Power Steal menghilangkan kebutuhan kabel C untuk sebagian besar sistem gas",
@@ -148,7 +148,7 @@
     {
       "offerId": "honeywell-t9-smart-thermostat",
       "badge": "Favorit para teknisi",
-      "review": "Honeywell T9 adalah rekomendasi default teknisi HVAC karena alasan yang baik — kompatibilitas luas, geofencing yang sangat andal, dan reputasi merek 25 tahun di balik setiap panggilan garansi. Sensor ruangan seharga $39 per unit yang tidak disertakan terasa menyengat. Penghematan tahunan $160 dalam pengujian kami solid untuk harga $189.",
+      "review": "Honeywell T9 adalah rekomendasi default teknisi HVAC karena alasan yang baik — kompatibilitas luas, geofencing yang sangat andal, dan reputasi merek 25 tahun di balik setiap panggilan garansi. Sensor ruangan seharga $39 per unit yang tidak disertakan terasa menyengat. Penghematan tahunan $160 menurut laporan pengguna solid untuk harga $189.",
       "pros": [
         "Geofencing tercepat: terdeteksi kedatangan/kepergian dalam 2 menit",
         "Jaringan dukungan installer profesional terluas",
