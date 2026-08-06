@@ -7,7 +7,7 @@ export const meta: ArticleMeta = {
   category: "tech",
   offerIds: ["nordvpn", "expressvpn", "surfshark", "protonvpn", "mullvad"],
   publishedAt: "2026-05-07",
-  updatedAt: "2026-05-07",
+  updatedAt: "2026-08-06",
   locales: [...ALL_LOCALES],
   ogImage: "auto",
 };
