@@ -36,9 +36,9 @@ function useMarket(localeMarket: Market): Market {
       navigator.languages ?? [navigator.language],
       Intl.DateTimeFormat().resolvedOptions().timeZone,
     );
-    // ★CA は amazon-ca のタグ未取得のため当面適用しない(タグ無し=0円確定で
-    //   現状の US タグ付き amazon.com より悪化する)。タグ取得後に外す。
-    if (inferred === "UK") setMarket("UK");
+    // CA は当初「タグ未取得」として見送ったが、アカウントは実在した
+    //   (pickly056-20・2026-08-06 ダッシュボード実確認)。UK と同様に適用する。
+    if (inferred === "UK" || inferred === "CA") setMarket(inferred);
   }, [localeMarket]);
   return market;
 }

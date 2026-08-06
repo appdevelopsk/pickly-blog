@@ -59,13 +59,22 @@ const AMAZON_HOSTS: Partial<Record<AspNetwork, string>> = {
 // AffiliateLinkはclient componentのため process.env(非NEXT_PUBLIC)はクライアントでundefined→
 // ここにデフォルトを置くことで server(SSG)/client 双方で確実にタグが付く。env で上書き可。
 const AMAZON_TAG_DEFAULTS: Partial<Record<AspNetwork, string>> = {
-  "amazon-us": "pickly091-20",
+  // ★2026-08-06 差し替え: pickly091-20 は 7/24 に審査却下された別口の仮ID
+  //   (却下理由=当時サイトにあったタグ無しリンク625本。8/4に修正済)。
+  //   US アカウント本体(app.develop.sk@gmail.com)は生きており、有効な Store ID は
+  //   pickly07-20(ダッシュボード実確認)。死にタグのままだと US クリックが全て
+  //   無計上になる — 実際、有効側のダッシュボードは直近30日クリック0だった。
+  "amazon-us": "pickly07-20",
   "amazon-uk": "pickly0fd-21",
   "amazon-de": "pickly01-21",
   "amazon-fr": "picklyfr21-21",
   "amazon-it": "pickly06-21",  // ユーザー確認済(2026-07-07): 06=イタリア
   "amazon-es": "pickly07-21",  // 消去法(対象ユーロ市場はDE/FR/IT/ESのみ・06=ITなので07=ES)
   "amazon-jp": "pickly-22",
+  // 2026-08-06: CA アカウントは実在した(ダッシュボード実確認・Store ID pickly056-20)。
+  // 「CAタグ未取得」という前提で geo 切替を見送っていたが誤りだった。
+  // ※CA側は税務情報が未提出で支払いが保留される(計上はされる)。要ユーザー提出。
+  "amazon-ca": "pickly056-20",
 };
 
 // EU amazon-de リンクを訪問者のロケールに応じて各国 Amazon にリマップ

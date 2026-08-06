@@ -13,10 +13,8 @@ import type { Market } from "./types";
  *   1. IANA タイムゾーン (Europe/London は UK 居住のほぼ確実な証拠)
  *   2. ブラウザ言語 (en-GB / en-CA は設定嗜好なので弱いが、単独でも十分)
  *
- * ★CA は判定はするが、呼び出し側は当面 UK だけ採用する。amazon-ca の
- *   アソシエイトタグが未取得で、タグ無し amazon.ca に振ると現状の
- *   「USタグ付き amazon.com」より悪化する(0円確定)ため。CA タグを取得したら
- *   AMAZON_TAG_DEFAULTS に追加した上で呼び出し側の制限を外すこと。
+ * CA も適用済み(2026-08-06)。当初「タグ未取得」として見送ったが、
+ * アカウントは実在した(pickly056-20)。前提を確かめずにガードを書いた教訓。
  */
 
 const UK_ZONES = new Set(["Europe/London", "Europe/Belfast", "Europe/Guernsey", "Europe/Jersey", "Europe/Isle_of_Man"]);
