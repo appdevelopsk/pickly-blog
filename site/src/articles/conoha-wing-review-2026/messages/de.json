@@ -20,10 +20,10 @@
       ]
     },
     {
-      "heading": "Was im 30-Tage-Test funktioniert hat",
+      "heading": "Was in der Praxis funktioniert",
       "paragraphs": [
         "Das Versprechen von かんたんセットアップ wurde gehalten. Vom Klick auf «Bewerben» bis zum Hello-World-Post: 11 Minuten und 04 Sekunden, inklusive 4 Minuten Wartezeit auf die SSL-Ausstellung. Der gleiche Ablauf hat mich auf Xserver 22 Minuten gekostet und auf Lolipop 19.",
-        "Das Auto-Backup hat mich an Tag 9 gerettet. Ich habe meine eigene Datenbank beim Testen einer Plugin-Migration gelöscht und in 4 Minuten aus dem Snapshot vom Vortag wiederhergestellt — direkt im WING-Dashboard. Kein Ticket, kein Warten. 14 Tage tägliche Backups sind ohne Aufpreis dabei.",
+        "Das Auto-Backup ist der Rettungsanker: Wer beim Testen einer Plugin-Migration die eigene Datenbank löscht, stellt sie in Minuten aus dem Snapshot des Vortags wieder her — direkt im WING-Dashboard. Kein Ticket, kein Warten. 14 Tage tägliche Backups sind ohne Aufpreis dabei.",
         "Das Dashboard ist in echtem Japanisch, nicht in maschinenübersetztem. Jedes Label benutzt die Begriffe, die japanische Hosting-Kunden tatsächlich verwenden (サイト管理, ドメイン, メール) statt unbeholfener cPanel-Übersetzungen. Kleine Sache, spart aber Zeit beim Menüsuchen."
       ]
     },
@@ -114,7 +114,7 @@
     },
     {
       "q": "Kann ich meinen bestehenden WordPress-Blog zu ConoHa WING umziehen?",
-      "a": "Ja — das Tool かんたん移行 nimmt FTP-Zugang und DB-Export der Quelle und kopiert selbst. In meinem Test wanderten 600 Posts in unter 40 Minuten um. Der längste Schritt ist die DNS-Umstellung (TTL-abhängig, meist Stunden)."
+      "a": "Ja — das Tool かんたん移行 nimmt FTP-Zugang und DB-Export der Quelle und kopiert selbst. Nutzerberichten zufolge wandern mehrere hundert Beiträge in unter einer Stunde um. Der längste Schritt ist die DNS-Umstellung (TTL-abhängig, meist Stunden)."
     },
     {
       "q": "Lässt sich der Preisanstieg bei der Verlängerung umgehen?",
