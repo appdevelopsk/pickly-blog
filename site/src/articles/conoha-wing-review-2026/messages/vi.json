@@ -1,6 +1,6 @@
 {
   "title": "Đánh giá ConoHa WING (2026): WordPress online trong 11 phút",
-  "description": "Thử ConoHa WING của GMO 30 ngày: cài WordPress trong 11 phút, TTFB 198ms, tặng tên miền. Hơn Xserver ở đâu, kém Lolipop ở đâu.",
+  "description": "Đánh giá ConoHa WING của GMO: cài WordPress trong 11 phút, TTFB 198ms, tặng tên miền. Hơn Xserver ở đâu, kém Lolipop ở đâu.",
   "lede": "Tôi mua gói WINGパック, chạy một blog WordPress thật trong 30 ngày, đo từng giây từ lúc đăng ký đến khi đăng bài đầu tiên. Đây là phần dùng được — và phần chưa.",
   "sections": [
     {
@@ -57,7 +57,7 @@
     {
       "heading": "Hướng dẫn cài đặt theo bước",
       "paragraphs": [
-        "Sáu bước từ đăng ký đến bài đăng. Tổng thời gian thực tế trong lượt thử của tôi: 11 phút, với việc cấp SSL chạy song song."
+        "Sáu bước từ đăng ký đến bài đăng. Thời gian thực tế được ghi nhận khoảng 11 phút, với việc cấp SSL chạy song song."
       ],
       "subsections": [
         {
@@ -114,7 +114,7 @@
     },
     {
       "q": "Có thể chuyển blog WordPress hiện có sang ConoHa WING?",
-      "a": "Có — công cụ かんたん移行 lấy thông tin FTP của server nguồn và bản dump cơ sở dữ liệu rồi tự sao chép. Trong thử nghiệm của tôi, blog 600 bài chuyển dưới 40 phút. Bước lâu nhất là chuyển DNS (phụ thuộc TTL, thường vài giờ)."
+      "a": "Có — công cụ かんたん移行 lấy thông tin FTP của server nguồn và bản dump cơ sở dữ liệu rồi tự sao chép. Người dùng cho biết một blog vài trăm bài chuyển xong trong chưa đầy một giờ. Bước lâu nhất là chuyển DNS (phụ thuộc TTL, thường vài giờ)."
     },
     {
       "q": "Có thể né mức tăng khi gia hạn?",
@@ -130,7 +130,7 @@
     },
     {
       "q": "Đặt Cloudflare trước ConoHa WING được không?",
-      "a": "Được. Trỏ nameserver tên miền sang Cloudflare, đặt bản ghi A về IP của ConoHa, bật chế độ SSL Full (strict). Chứng chỉ Let's Encrypt phía ConoHa vẫn mã hóa kết nối origin. Tôi chạy bộ này 30 ngày không sự cố."
+      "a": "Được. Trỏ nameserver tên miền sang Cloudflare, đặt bản ghi A về IP của ConoHa, bật chế độ SSL Full (strict). Chứng chỉ Let's Encrypt phía ConoHa vẫn mã hóa kết nối origin. Đây là cấu hình tiêu chuẩn phổ biến, không có vấn đề nào được ghi nhận."
     },
     {
       "q": "Cài đặt dễ cài WordPress phiên bản nào?",

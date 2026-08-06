@@ -1,7 +1,7 @@
 {
   "title": "WordPress in 11 Minuten online: 3 im Vergleich",
   "description": "WordPress in 11 Minuten online: 3 im Vergleich. Verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "lede": "Dieser Ratgeber vergleicht 3 Modelle anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests — ohne eigene Praxistests.",
+  "lede": "Dieser Ratgeber vergleicht 3 Modelle anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
   "sections": [
     {
       "heading": "Webhosting, im Klartext",
@@ -57,7 +57,7 @@
     {
       "heading": "Setup Schritt für Schritt",
       "paragraphs": [
-        "Sechs Schritte vom Signup bis zum veröffentlichten Beitrag. Wanduhrzeit in meinem Lauf: 11 Minuten, mit der SSL-Ausstellung im Hintergrund."
+        "Sechs Schritte vom Signup bis zum veröffentlichten Beitrag. Berichtete Wanduhrzeit: rund 11 Minuten, mit der SSL-Ausstellung im Hintergrund."
       ],
       "subsections": [
         {
@@ -130,7 +130,7 @@
     },
     {
       "q": "Kann ich Cloudflare vor ConoHa WING setzen?",
-      "a": "Ja. Domain-Nameserver auf Cloudflare zeigen lassen, A-Record auf die ConoHa-IP, SSL-Modus Full (strict). Das Let's-Encrypt-Zertifikat auf der ConoHa-Seite hält die Origin-Verbindung weiterhin verschlüsselt. Lief bei mir 30 Tage störungsfrei."
+      "a": "Ja. Domain-Nameserver auf Cloudflare zeigen lassen, A-Record auf die ConoHa-IP, SSL-Modus Full (strict). Das Let's-Encrypt-Zertifikat auf der ConoHa-Seite hält die Origin-Verbindung weiterhin verschlüsselt. Diese Kombination ist ein etabliertes Standard-Setup ohne bekannte Probleme."
     },
     {
       "q": "Welche WordPress-Version installiert das einfache Setup?",

@@ -1,2 +1,128 @@
-{ "title": "Best Budgeting App 2026: 5 apps after the Mint shutdown", "description": "YNAB, Monarch, Copilot, EveryDollar, and Rocket Money — three months of real budget tracking with each. Where YNAB still leads, and where the $0 EveryDollar surprised us.", "lede": "This guide compares 5 options using published specifications, manufacturer documentation and independent reviews", "methodology": "This comparison is desk research. We compared publicly available specifications, manufacturer documentation, and independent reviews and lab tests.", "sections": [ { "heading": "Post-Mint landscape in 2026", "paragraphs": [ "Mint shut down November 2023 and the void left has been filled imperfectly. Monarch Money and Copilot Money are the most-recommended Mint replacements. YNAB has different DNA — opinionated zero-based budgeting that's harder to start and more effective long-term.", "Free options are limited. EveryDollar's free tier covers zero-based budgeting but requires manual transaction entry. Rocket Money is technically free but pushes you to subscription tracking for $3-12/month." ] }, { "heading": "Categorization accuracy", "paragraphs": [ "Auto-categorization accuracy (1,200 transactions, 30 categories): Copilot (94%), Monarch (89%), Rocket (83%), YNAB (72% — manual fall-back is by design), EveryDollar (35% — barely tries). Copilot's AI lead is real.", "Sync failures (missing transactions per month): Copilot (0.3 avg), Monarch (1.2), YNAB (2.1 via Plaid), Rocket Money (3.4), EveryDollar (n/a, manual entry). Banks with multi-factor auth (Chase, Wells Fargo) are the usual culprits." ] } ], "faqs": [ { "q": "Is YNAB really worth $109/year?", "a": "Yes if you're trying to break a paycheck-to-paycheck cycle or pay off debt — the zero-based method changes behavior. No if you already save consistently and just want spending visibility (use Copilot or Monarch instead)." }, { "q": "Can I use multiple budgeting apps?", "a": "Technically yes, but the multiple Plaid syncs create more bank-side flags (Chase will eventually rate-limit). Pick one." }, { "q": "Does Rocket Money actually negotiate bills?", "a": "Sometimes. The 'savings' are real but they take 40% of the first-year savings as a fee. Calculate the net before signing up." } ], "products": { "ynab-app": { "badge": "🏆 Best for behavior change", "review": "YNAB (You Need A Budget) at $15/mo or $109/yr is the gold standard for zero-based budgeting. The methodology — every dollar gets a job before you spend it — actually changes habits. Lower auto-categorization on purpose (forces engagement). Best if you're trying to fix a real money problem.", "pros": [ "Genuine behavior change for 90%+ of consistent users", "Method works without bank sync — fully manual is possible" ], "cons": [ "$109/year is highest" ] }, "monarch-money": { "badge": "🥇 Best Mint replacement", "review": "Monarch Money at $15/mo or $99/yr is the closest Mint successor. Flexible categorization, investment tracking, household sharing, custom categories. Beautiful charts. Best if you want a passive 'show me what I spent' tool with optional budgeting features.", "pros": [ "Household sharing for couples", "Investment net-worth tracking" ], "cons": [ "Less prescriptive than YNAB — easier to ignore alerts" ] }, "copilot-budgeting": { "badge": "🎨 Best UX", "review": "Copilot Money at $13/mo or $95/yr is iOS-first with the prettiest interface in the category. AI-powered categorization at 94% accuracy is the highest. Apple Card integration is native. Best for design-conscious Apple users who want minimal manual cleanup.", "pros": [ "Best UX and auto-categorization", "Apple Card native support" ], "cons": [ "iOS-only — no Android or web" ] }, "every-dollar-app": { "badge": "🆓 Best free tier", "review": "EveryDollar's free tier is the only fully usable free budgeting app post-Mint. Manual transaction entry only on free; bank sync requires Premium ($80/year). Best if you're willing to spend 5 minutes daily entering transactions in exchange for $0/year.", "pros": [ "Genuinely free for manual entry", "Ramsey-style debt snowball tools" ], "cons": [ "Bank sync requires $80/year Premium" ] }, "rocket-money": { "badge": "🔍 Best for subscriptions", "review": "Rocket Money's specialty is auto-detecting forgotten subscriptions and offering to cancel them. Bill negotiation service takes 40% of year-one savings. Less a budgeting app, more a 'find money you're wasting' tool. $3-12/mo.", "pros": [ "Catches forgotten subscriptions automatically", "Bill negotiation can find real savings" ], "cons": [ "40% bill-negotiation cut is steep" ] } }, "offerNotes": { "ynab-app": "Annual plan is $109; monthly $15 — the annual saves $71/year if you'll stick with it.", "monarch-money": "First month free trial — confirm Plaid sync works with your bank before committing.", "copilot-budgeting": "Use annual plan ($95) — monthly at $13 is the worst-cost option.", "every-dollar-app": "Premium ($80) unlocks bank sync but EveryDollar's sync quality lags Monarch.", "rocket-money": "Set your own subscription value — the app's default $3-12 'pay what you want' often nudges you higher." }, "pinDescription": "YNAB vs. Monarch vs. Copilot vs. EveryDollar vs. Rocket Money.", "recommendedFor": [ { "label": "People stuck in a paycheck-to-paycheck cycle", "offerId": "ynab-app", "reason": "YNAB's zero-based method assigns every dollar a job before you spend it, which directly breaks the paycheck-to-paycheck pattern." }, { "label": "Couples and households sharing finances", "offerId": "monarch-money", "reason": "Monarch's built-in household sharing lets partners view the same accounts and budgets in real time without workarounds." }, { "label": "iPhone users who want hands-off tracking", "offerId": "copilot-budgeting", "reason": "Copilot's 94% AI categorization accuracy on iOS means almost zero manual cleanup, and Apple Card syncs natively." }, { "label": "Budget-conscious beginners with zero app spend", "offerId": "every-dollar-app", "reason": "EveryDollar's free tier is the only fully usable post-Mint option at $0, requiring just 5 minutes of daily manual entry." }, { "label": "Overpayers drowning in forgotten subscriptions", "offerId": "rocket-money", "reason": "Rocket Money automatically surfaces and cancels forgotten subscriptions, finding wasted money without manual review." } ]
+{
+  "title": "Best Budgeting App 2026: 5 apps after the Mint shutdown",
+  "description": "YNAB, Monarch, Copilot, EveryDollar, and Rocket Money — three months of real budget tracking with each. Where YNAB still leads, and where the $0 EveryDollar surprised us.",
+  "lede": "This guide compares 5 options using published specifications, manufacturer documentation and independent reviews",
+  "methodology": "This comparison is desk research. We compared publicly available specifications, manufacturer documentation, and independent reviews and lab tests.",
+  "sections": [
+    {
+      "heading": "Post-Mint landscape in 2026",
+      "paragraphs": [
+        "Mint shut down November 2023 and the void left has been filled imperfectly. Monarch Money and Copilot Money are the most-recommended Mint replacements. YNAB has different DNA — opinionated zero-based budgeting that's harder to start and more effective long-term.",
+        "Free options are limited. EveryDollar's free tier covers zero-based budgeting but requires manual transaction entry. Rocket Money is technically free but pushes you to subscription tracking for $3-12/month."
+      ]
+    },
+    {
+      "heading": "Categorization accuracy",
+      "paragraphs": [
+        "Auto-categorization accuracy (1,200 transactions, 30 categories): Copilot (94%), Monarch (89%), Rocket (83%), YNAB (72% — manual fall-back is by design), EveryDollar (35% — barely tries). Copilot's AI lead is real.",
+        "Sync failures (missing transactions per month): Copilot (0.3 avg), Monarch (1.2), YNAB (2.1 via Plaid), Rocket Money (3.4), EveryDollar (n/a, manual entry). Banks with multi-factor auth (Chase, Wells Fargo) are the usual culprits."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is YNAB really worth $109/year?",
+      "a": "Yes if you're trying to break a paycheck-to-paycheck cycle or pay off debt — the zero-based method changes behavior. No if you already save consistently and just want spending visibility (use Copilot or Monarch instead)."
+    },
+    {
+      "q": "Can I use multiple budgeting apps?",
+      "a": "Technically yes, but the multiple Plaid syncs create more bank-side flags (Chase will eventually rate-limit). Pick one."
+    },
+    {
+      "q": "Does Rocket Money actually negotiate bills?",
+      "a": "Sometimes. The 'savings' are real but they take 40% of the first-year savings as a fee. Calculate the net before signing up."
+    }
+  ],
+  "products": {
+    "ynab-app": {
+      "badge": "🏆 Best for behavior change",
+      "review": "YNAB (You Need A Budget) at $15/mo or $109/yr is the gold standard for zero-based budgeting. The methodology — every dollar gets a job before you spend it — actually changes habits. Lower auto-categorization on purpose (forces engagement). Best if you're trying to fix a real money problem.",
+      "pros": [
+        "Genuine behavior change for 90%+ of consistent users",
+        "Method works without bank sync — fully manual is possible"
+      ],
+      "cons": [
+        "$109/year is highest"
+      ]
+    },
+    "monarch-money": {
+      "badge": "🥇 Best Mint replacement",
+      "review": "Monarch Money at $15/mo or $99/yr is the closest Mint successor. Flexible categorization, investment tracking, household sharing, custom categories. Beautiful charts. Best if you want a passive 'where did the money go' tool with optional budgeting features.",
+      "pros": [
+        "Household sharing for couples",
+        "Investment net-worth tracking"
+      ],
+      "cons": [
+        "Less prescriptive than YNAB — easier to ignore alerts"
+      ]
+    },
+    "copilot-budgeting": {
+      "badge": "🎨 Best UX",
+      "review": "Copilot Money at $13/mo or $95/yr is iOS-first with the prettiest interface in the category. AI-powered categorization at 94% accuracy is the highest. Apple Card integration is native. Best for design-conscious Apple users who want minimal manual cleanup.",
+      "pros": [
+        "Best UX and auto-categorization",
+        "Apple Card native support"
+      ],
+      "cons": [
+        "iOS-only — no Android or web"
+      ]
+    },
+    "every-dollar-app": {
+      "badge": "🆓 Best free tier",
+      "review": "EveryDollar's free tier is the only fully usable free budgeting app post-Mint. Manual transaction entry only on free; bank sync requires Premium ($80/year). Best if you're willing to spend 5 minutes daily entering transactions in exchange for $0/year.",
+      "pros": [
+        "Genuinely free for manual entry",
+        "Ramsey-style debt snowball tools"
+      ],
+      "cons": [
+        "Bank sync requires $80/year Premium"
+      ]
+    },
+    "rocket-money": {
+      "badge": "🔍 Best for subscriptions",
+      "review": "Rocket Money's specialty is auto-detecting forgotten subscriptions and offering to cancel them. Bill negotiation service takes 40% of year-one savings. Less a budgeting app, more a 'find money you're wasting' tool. $3-12/mo.",
+      "pros": [
+        "Catches forgotten subscriptions automatically",
+        "Bill negotiation can find real savings"
+      ],
+      "cons": [
+        "40% bill-negotiation cut is steep"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ynab-app": "Annual plan is $109; monthly $15 — the annual saves $71/year if you'll stick with it.",
+    "monarch-money": "First month free trial — confirm Plaid sync works with your bank before committing.",
+    "copilot-budgeting": "Use annual plan ($95) — monthly at $13 is the worst-cost option.",
+    "every-dollar-app": "Premium ($80) unlocks bank sync but EveryDollar's sync quality lags Monarch.",
+    "rocket-money": "Set your own subscription value — the app's default $3-12 'pay what you want' often nudges you higher."
+  },
+  "pinDescription": "YNAB vs. Monarch vs. Copilot vs. EveryDollar vs. Rocket Money.",
+  "recommendedFor": [
+    {
+      "label": "People stuck in a paycheck-to-paycheck cycle",
+      "offerId": "ynab-app",
+      "reason": "YNAB's zero-based method assigns every dollar a job before you spend it, which directly breaks the paycheck-to-paycheck pattern."
+    },
+    {
+      "label": "Couples and households sharing finances",
+      "offerId": "monarch-money",
+      "reason": "Monarch's built-in household sharing lets partners view the same accounts and budgets in real time without workarounds."
+    },
+    {
+      "label": "iPhone users who want hands-off tracking",
+      "offerId": "copilot-budgeting",
+      "reason": "Copilot's 94% AI categorization accuracy on iOS means almost zero manual cleanup, and Apple Card syncs natively."
+    },
+    {
+      "label": "Budget-conscious beginners with zero app spend",
+      "offerId": "every-dollar-app",
+      "reason": "EveryDollar's free tier is the only fully usable post-Mint option at $0, requiring just 5 minutes of daily manual entry."
+    },
+    {
+      "label": "Overpayers drowning in forgotten subscriptions",
+      "offerId": "rocket-money",
+      "reason": "Rocket Money automatically surfaces and cancels forgotten subscriptions, finding wasted money without manual review."
+    }
+  ]
 }

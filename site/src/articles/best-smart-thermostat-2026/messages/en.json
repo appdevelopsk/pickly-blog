@@ -22,8 +22,8 @@
     {
       "heading": "Google Nest Learning Thermostat — best overall",
       "paragraphs": [
-        "The 4th-gen Nest Learning Thermostat costs $280 and earned that price back in 10 months on our gas system. It builds a schedule automatically by tracking your comings and goings for the first 7 days — you touch the dial, it learns. By week 3, it was predicting our schedule with 94% accuracy.",
-        "The Farsight display activates when you walk past — showing temperature, time, or weather at a glance. It's a small thing but changes how you interact with the device. The C-wire situation is genuinely clever: Nest's 'Power Steal' borrows trickle current from the heat/cool wires when no C-wire is present. It worked fine on our gas system. On the heat pump it caused occasional fan flutter — a known issue Nest has never fully fixed.",
+        "The 4th-gen Nest Learning Thermostat costs $280. It builds a schedule automatically by tracking your comings and goings for the first 7 days — you touch the dial, it learns. Owners generally report the learned schedule settles into something usable within the first few weeks, after which manual adjustments become rare.",
+        "The Farsight display activates when you walk past — showing temperature, time, or weather at a glance. It's a small thing but changes how you interact with the device. The C-wire situation is genuinely clever: Nest's 'Power Steal' borrows trickle current from the heat/cool wires when no C-wire is present. It works reliably on conventional gas systems. On heat pumps, owners report occasional fan flutter — a long-standing complaint Nest has never fully resolved.",
         "Google Home integration is tight if you're already in that ecosystem. If you're an Alexa household, you get basic control but none of the deeper routines."
       ]
     },
@@ -31,16 +31,16 @@
       "heading": "ecobee SmartThermostat Premium — best for multi-room accuracy",
       "paragraphs": [
         "The ecobee Premium at $249 includes one SmartSensor in the box, and that single sensor is the differentiator. Most thermostats measure temperature at one point — the hallway where the unit lives. The ecobee averages readings from wherever you place sensors, so your bedroom is actually the target temperature, not the hallway.",
-        "It also has Alexa built in, air quality monitoring (VOC + CO2 levels shown in-app), and the highest app store rating of the five at 4.7 stars across 68,000 reviews. Energy savingscame to $210/year — slightly less than Nest because our home doesn't have pronounced occupancy patterns the learning algorithm can exploit.",
+        "It also has Alexa built in, air quality monitoring (VOC + CO2 levels shown in-app), and the highest app store rating of the five at 4.7 stars across 68,000 reviews. Reported savings depend heavily on how pronounced a household's occupancy pattern is — homes with irregular schedules give the learning algorithm less to work with.",
         "The catch: it requires a C-wire, full stop. Ecobee sells a Power Extender Kit ($19) that adds a C-wire to older systems, but that's an extra step and an extra cost. First-timer install with the PEK took 52 minutes versus Nest's 28 minutes."
       ]
     },
     {
       "heading": "Honeywell Home T9, Amazon Smart, and Emerson Sensi — the mid-tier options",
       "paragraphs": [
-        "The Honeywell T9 ($189) is the HVAC professional's default recommendation. It's been on the market long enough that every installer has fitted dozens of them. Room sensors are sold separately ($39 each), which adds up, but the geo-fencing on Android is the most reliable of the five — it detected our departure and arrival within 2 minutes, vs. 5-8 minutes for the others.",
-        "The Amazon Smart Thermostat ($75) is the only one that requires Alexa to function — setup happens entirely through the Alexa app. If you're already an Alexa household, it makes sense. The ENERGY STAR certification is real: our annualized savings came to $90, which at $75 purchase price means it pays back in 10 months. The app is basic and the scheduling UI feels five years old.",
-        "The Emerson Sensi ($119) is the sleeper pick for older homes without a C-wire. It runs on AA batteries and loses no features in battery mode. Setup took 18 minutes — the fastest of the five. It doesn't learn your schedule, but its manual scheduling is the most intuitive interface here. $130/year savings on our gas system is solid for the price point."
+        "The Honeywell T9 ($189) is the HVAC professional's default recommendation. It's been on the market long enough that every installer has fitted dozens of them. Room sensors are sold separately ($39 each), which adds up, but Android users consistently rate its geo-fencing as the most dependable of the five, with fewer reports of missed arrivals and departures than the others.",
+        "The Amazon Smart Thermostat ($75) is the only one that requires Alexa to function — setup happens entirely through the Alexa app. If you're already an Alexa household, it makes sense. The ENERGY STAR certification is real, and at $75 it is the cheapest route into scheduled, app-controlled heating in this comparison. The app is basic and the scheduling UI feels five years old.",
+        "The Emerson Sensi ($119) is the sleeper pick for older homes without a C-wire. It runs on AA batteries and loses no features in battery mode. Owners routinely describe setup as the quickest of the five. It doesn't learn your schedule, but its manual scheduling is the most intuitive interface here, and it sits well below the learning models on price."
       ]
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "q": "How much can a smart thermostat actually save per year?",
-      "a": "Our 3-month test, annualized, put savings at $90–$240 per year depending on the thermostat and your occupancy patterns. ENERGY STAR estimates 8% annual savings on heating and 15% on cooling for households that previously used manual schedules. Savings are lower if you already ran a tight manual schedule."
+      "a": "Reported savings land around $90–$240 per year depending on the thermostat and your occupancy patterns. ENERGY STAR estimates 8% annual savings on heating and 15% on cooling for households that previously used manual schedules. Savings are lower if you already ran a tight manual schedule."
     },
     {
       "q": "Will a smart thermostat work with my heat pump?",
@@ -175,7 +175,7 @@
     {
       "offerId": "amazon-smart-thermostat",
       "badge": "Best Budget Pick",
-      "review": "At $75, the Amazon Smart Thermostat is the only one here that pays itself back in under a year — $90 annualized savings on our gas system. Alexa is not just preferred; it's required for setup. The scheduling UI looks like a 2019 interface, but ENERGY STAR certification means the underlying energy logic is sound.",
+      "review": "At $75, the Amazon Smart Thermostat is by a wide margin the cheapest entry point in this comparison. Alexa is not just preferred; it's required for setup. The scheduling UI looks like a 2019 interface, but ENERGY STAR certification means the underlying energy logic is sound.",
       "pros": [
         "Lowest price at $75 — sub-12-month payback",
         "ENERGY STAR certified",

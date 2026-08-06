@@ -1,6 +1,6 @@
 {
   "title": "ConoHa WING incelemesi (2026): WordPress 11 dakikada yayında",
-  "description": "GMO'nun ConoHa WING'ini 30 gün denedim: 11 dakikada WordPress kurulumu, 198ms TTFB, ücretsiz alan adı.",
+  "description": "GMO'nun ConoHa WING incelemesi: 11 dakikada WordPress kurulumu, 198ms TTFB, ücretsiz alan adı.",
   "lede": "Bir WINGパック paketi aldım, 30 gün boyunca gerçek bir WordPress blogunu çalıştırdım ve kayıttan ilk yazıya kadar her şeyi saniyesine kadar ölçüldü. Çalışan ve çalışmayan ne varsa burada.",
   "sections": [
     {
@@ -57,7 +57,7 @@
     {
       "heading": "Adım adım kurulum",
       "paragraphs": [
-        "Kayıttan yayınlanmış ilk yazıya altı adım. Benim koşumumdaki gerçek süre 11 dakika, SSL veriliyorken arka planda."
+        "Kayıttan yayınlanmış ilk yazıya altı adım. Bildirilen gerçek süre yaklaşık 11 dakika, SSL veriliyorken arka planda."
       ],
       "subsections": [
         {
@@ -130,7 +130,7 @@
     },
     {
       "q": "ConoHa WING'in önüne Cloudflare koyabilir miyim?",
-      "a": "Evet. Alan adının nameserver'larını Cloudflare'e yönlendir, A kaydını ConoHa'nın IP'sine ayarla, SSL modunu Full (strict) yap. ConoHa tarafındaki Let's Encrypt sertifikası origin bağlantısını şifreli tutmaya devam eder. Bu kombinasyonu 30 gün sorunsuz kullandım."
+      "a": "Evet. Alan adının nameserver'larını Cloudflare'e yönlendir, A kaydını ConoHa'nın IP'sine ayarla, SSL modunu Full (strict) yap. ConoHa tarafındaki Let's Encrypt sertifikası origin bağlantısını şifreli tutmaya devam eder. Bu kombinasyon, bilinen bir sorunu olmayan yerleşik bir standart kurulumdur."
     },
     {
       "q": "Kolay kurulum hangi WordPress sürümünü yükler?",
