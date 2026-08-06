@@ -13,7 +13,7 @@ export const meta: ArticleMeta = {
     "matcha-love-unsweetened",
   ],
   publishedAt: "2026-05-10",
-  updatedAt: "2026-05-10",
+  updatedAt: "2026-08-06",
   locales: ALL_LOCALES,
   ogImage: "/og/best-matcha-powder-2026",
 };

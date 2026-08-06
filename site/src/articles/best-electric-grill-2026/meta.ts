@@ -11,7 +11,7 @@ export const meta: ArticleMeta = {
     "george-foreman-gfo201r",
   ],
   publishedAt: "2026-05-09",
-  updatedAt: "2026-05-09",
+  updatedAt: "2026-08-06",
   locales: [...ALL_LOCALES],
   ogImage: "auto",
 };

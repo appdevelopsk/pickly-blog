@@ -6,7 +6,7 @@ export const meta: ArticleMeta = {
   category: "food",
   offerIds: ["tabasco-original-red", "cholula-original", "valentina-extra-hot", "crystal-hot-sauce", "franks-redhot-original"],
   publishedAt: "2026-05-10",
-  updatedAt: "2026-05-10",
+  updatedAt: "2026-08-06",
   locales: ALL_LOCALES,
   ogImage: "auto",
 };

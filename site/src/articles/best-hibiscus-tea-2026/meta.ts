@@ -13,7 +13,7 @@ export const meta: ArticleMeta = {
     "republic-of-tea-hibiscus-superflower",
   ],
   publishedAt: "2026-05-10",
-  updatedAt: "2026-05-10",
+  updatedAt: "2026-08-06",
   locales: [...ALL_LOCALES],
   ogImage: "/og/best-hibiscus-tea-2026",
 };

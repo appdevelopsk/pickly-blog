@@ -13,7 +13,7 @@ export const meta: ArticleMeta = {
     "harney-sons-dragon-well",
   ],
   publishedAt: "2026-05-10",
-  updatedAt: "2026-05-10",
+  updatedAt: "2026-08-06",
   locales: [...ALL_LOCALES],
   ogImage: "/og/best-green-tea-2026",
 };

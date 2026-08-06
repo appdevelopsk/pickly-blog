@@ -13,7 +13,7 @@ export const meta: ArticleMeta = {
     "cascadian-farm-organic-oats-honey-granola",
   ],
   publishedAt: "2026-05-11",
-  updatedAt: "2026-05-11",
+  updatedAt: "2026-08-06",
   locales: [...ALL_LOCALES],
   ogImage: "/og/best-granola-2026",
 };

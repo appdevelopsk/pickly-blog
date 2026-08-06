@@ -6,7 +6,7 @@ export const meta: ArticleMeta = {
   category: "food",
   offerIds: ["quest-bar", "rxbar-protein", "clif-builder-bar", "one-protein-bar", "kind-protein-bar"],
   publishedAt: "2026-05-10",
-  updatedAt: "2026-05-10",
+  updatedAt: "2026-08-06",
   locales: [...ALL_LOCALES],
   ogImage: "auto",
 };
