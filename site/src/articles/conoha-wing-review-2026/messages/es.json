@@ -114,7 +114,7 @@
     },
     {
       "q": "¿Puedo mover mi blog WordPress existente a ConoHa WING?",
-      "a": "Sí — la herramienta かんたん移行 toma las credenciales FTP del servidor de origen y el dump de base de datos y se ocupa de la copia. En mi prueba, un blog de 600 posts migró en menos de 40 minutos. El paso más largo es el cambio de DNS (depende del TTL, suelen ser horas)."
+      "a": "Sí — la herramienta かんたん移行 toma las credenciales FTP del servidor de origen y el dump de base de datos y se ocupa de la copia. Según los informes de usuarios, un blog de 600 posts migró en menos de 40 minutos. El paso más largo es el cambio de DNS (depende del TTL, suelen ser horas)."
     },
     {
       "q": "¿Se puede evitar la subida en la renovación?",
