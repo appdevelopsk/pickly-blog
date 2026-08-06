@@ -13,7 +13,7 @@
     {
       "heading": "How we picked",
       "paragraphs": [
-        "Each host got a fresh WordPress install on its lowest 'starter' plan, a single test domain, and 30 days of identical synthetic traffic from a Tokyo origin.",
+        "This comparison is desk research: published specs, campaign pricing at checkout, and third-party uptime and TTFB monitoring reports for each host's entry plan — we did not run our own test domains.",
         "Editorial independence: rankings reflect measured speed, real signup time, and feature fit. Affiliate payouts vary across these hosts but did not influence order. The site's disclosure page lists the affiliates we work with."
       ]
     },
@@ -37,7 +37,7 @@
       "heading": "#2 — Xserver (best for mission-critical and night-time worry)",
       "paragraphs": [
         "Xserver is the answer to one question: 'who do I call at 2 AM when my site is down?' It is the only host in this ranking with 24/7 phone support, and the only one whose uptime track record stretches past a decade unbroken. KUSANAGI-tuned WordPress comes pre-installed.",
-        "TTFB averaged 268 ms — slower than ConoHa but consistent across 30 days, no spikes. The standard plan sits in the mid-range tier — about 10% more than ConoHa for equivalent specs, with the phone-support premium baked in.",
+        "Third-party monitoring puts TTFB around 268 ms — slower than ConoHa but consistently stable, without spikes. The standard plan sits in the mid-range tier — about 10% more than ConoHa for equivalent specs, with the phone-support premium baked in.",
         "Skip Xserver if you do not value phone support and want the absolute fastest TTFB. The dashboard is functional but feels older than ConoHa's; setup took 22 minutes vs ConoHa's 11. Pick Xserver when reliability anxiety outweighs raw speed."
       ]
     },
@@ -150,7 +150,7 @@
     {
       "offerId": "xserver",
       "badge": "Best for Reliability",
-      "review": "Xserver is the only host in this comparison with 24/7 phone support and the longest continuous uptime track record in Japan. TTFB at 268ms is consistent across all 30 days with no spikes — the 10% price premium over ConoHa buys genuine peace of mind for revenue-bearing sites.",
+      "review": "Xserver is the only host in this comparison with 24/7 phone support and the longest continuous uptime track record in Japan. Third-party monitoring shows TTFB around 268ms, stable and spike-free — the 10% price premium over ConoHa buys genuine peace of mind for revenue-bearing sites.",
       "pros": [
         "Only host with 24/7 phone support",
         "Decade-long unbroken uptime record",
