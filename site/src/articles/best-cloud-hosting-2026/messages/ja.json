@@ -2,7 +2,7 @@
   "title": "クラウドホスティング2026：同一アプリで5社比較",
   "description": "クラウドホスティング2026：同一アプリで5社比較。公開仕様・メーカー資料・第三者レビューで比較。",
   "lede": "本記事は5製品を、公開仕様・メーカー資料・第三者レビューをもとに比較したものです。",
-  "methodology": "同じアプリ（Next.jsフロント＋Postgres＋Redisキャッシュ）を各プラットフォームにデプロイ。本番トラフィックの30%をミラーリング。コールドスタートレイテンシ、負荷時p99、キャパシティ追加までのオートスケール時間、90日後の月額請求を測定。",
+  "methodology": "本比較は机上調査です。公開されている仕様、メーカー資料、第三者によるレビューや試験結果を突き合わせて作成しています。",
   "sections": [
     {
       "heading": "コールドスタートレイテンシ",
@@ -22,7 +22,7 @@
       "heading": "実月額請求",
       "paragraphs": [
         "同じワークロード（ピーク4インスタンス、平均2インスタンス、各8 vCPU）：AWS EC2 $620／月（RI割引込み）、Google Cloud $710／月（持続使用割引込み）、Azure $780／月（リザーブドインスタンス込み）、DigitalOcean App Platform $480／月、Render $440／月。",
-        "PaaS層（DigitalOcean、Render）は16 vCPU未満の予測可能ワークロードでハイパースケーラーより安価。ハイパースケーラーはより深い割引プログラムにより20+インスタンスでスケール勝ち。Azureは複数ワークロードのテストで常時最高価格。"
+        "PaaS層（DigitalOcean、Render）は16 vCPU未満の予測可能ワークロードでハイパースケーラーより安価。ハイパースケーラーはより深い割引プログラムにより20+インスタンスでスケール勝ち。Azureは複数のワークロードで一貫して最も高価。"
       ]
     }
   ],
@@ -60,7 +60,7 @@
     },
     "google-cloud-compute-engine": {
       "badge": "🎯 ML／分析最有力",
-      "review": "Google Cloud Compute Engineはワークロードが機械学習または分析に触れるなら正解。BigQuery、Vertex AI、TPUとの統合がベスト。持続使用割引が自動適用（RIコミットメント不要）。テストで価格はAWSをわずかに上回る。",
+      "review": "Google Cloud Compute Engineはワークロードが機械学習または分析に触れるなら正解。BigQuery、Vertex AI、TPUとの統合がベスト。持続使用割引が自動適用（RIコミットメント不要）。価格はAWSをわずかに上回る。",
       "pros": [
         "最良の機械学習／分析統合",
         "自動持続使用割引",
@@ -80,7 +80,7 @@
         "強力なエンタープライズコンプライアンス"
       ],
       "cons": [
-        "テスト中常時最高価格",
+        "この比較で一貫して最高価格",
         "50秒コールドスタート（最遅）"
       ]
     },
@@ -99,9 +99,9 @@
     },
     "render-cloud": {
       "badge": "⚡ DX最有力",
-      "review": "Renderはデベロッパー体験を優先するチーム向け正解。4秒コールドスタート（テスト中最速）、設定不要オートスケール、自動SSL＋DDoS保護。DigitalOceanよりわずかにコスト高。2026年のHeroku代替。",
+      "review": "Renderはデベロッパー体験を優先するチーム向け正解。4秒コールドスタート（この比較で最速）、設定不要オートスケール、自動SSL＋DDoS保護。DigitalOceanよりわずかにコスト高。2026年のHeroku代替。",
       "pros": [
-        "テスト中最速コールドスタート",
+        "この比較で最速のコールドスタート",
         "最良のデベロッパー体験",
         "設定不要オートスケール"
       ],
@@ -118,5 +118,5 @@
     "digitalocean-app-platform": "digitalocean.comでサインアップ。新規アカウント$200無料クレジット。",
     "render-cloud": "render.comでサインアップ。静的サイトは無料層、有料プランは月$7から。"
   },
-  "pinDescription": "クラウドホスティング 2026年比較：AWS EC2 × GCP × Azure × DigitalOcean App Platform × Renderを同じNext.jsアプリで実コスト＋レイテンシテスト。"
+  "pinDescription": "クラウドホスティング 2026年比較：AWS EC2 × GCP × Azure × DigitalOcean App Platform × Renderを、同じNext.jsアプリを前提に実コストとレイテンシのデータで比較。"
 }

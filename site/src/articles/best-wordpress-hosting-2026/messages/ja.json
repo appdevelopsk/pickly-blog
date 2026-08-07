@@ -1,8 +1,8 @@
 {
   "title": "WordPressホスティング2026：5製品を比較",
-  "description": "Kinsta、WP Engine、SiteGround、Bluehost、Cloudwaysに月間3万PVの同じサイトを移行。",
-  "lede": "本記事は5製品を、公開仕様・メーカー資料・第三者レビューをもとに比較したものです。",
-  "methodology": "同一WP／Wooインストールを各社に移行。実トラフィック（月間3万PV、ピーク同時150）をミラーリング。キャッシュ有無のTTFB、サポート応答、稼働率、ステージング摩擦、移行所要時間を測定。",
+  "description": "Kinsta、WP Engine、SiteGround、Bluehost、Cloudways — 月間3万PVのWordPressサイトを前提に、速度・サポート・移行・価格で比較。",
+  "lede": "5つのWordPressホスティングを、料金ページには書かれていない部分で比較しました。キャッシュミス後のTTFB、各社が実際に約束しているサポート応答時間、ステージングの安定性、そして初回契約が終わったあとの更新料金 — 月間3万PV規模のサイトを想定しています。",
+  "methodology": "本比較は机上調査です。公開されている仕様、メーカー資料、第三者によるレビューや試験結果を突き合わせて作成しています。",
   "sections": [
     {
       "heading": "価格と実質コスト",
@@ -61,9 +61,9 @@
     },
     "wp-engine-managed-wp": {
       "badge": "🎯 サポート最有力",
-      "review": "WP Engineは最長運営のマネージドWPホスト、サポートは業界最良。テスト中の初動応答はKinstaより速い。Genesisテーマ込み。Smart Plugin Managerがプラグイン更新を自動テスト。ダッシュボードはKinsta比で古く感じるが基盤サービスは優秀。",
+      "review": "WP Engineは最長運営のマネージドWPホスト、サポートは業界最良。初動応答はKinstaより速い。Genesisテーマ込み。Smart Plugin Managerがプラグイン更新を自動テスト。ダッシュボードはKinsta比で古く感じるが基盤サービスは優秀。",
       "pros": [
-        "テスト中最速のサポート応答",
+        "この比較でもっとも速いサポート応答",
         "Smart Plugin Manager込み",
         "長い実績（2010年から）"
       ],
@@ -87,7 +87,7 @@
     },
     "bluehost-choice-plus": {
       "badge": "💸 バジェット最有力",
-      "review": "Bluehost Choice Plusは生きてる最安WPホストだが趣味サイト限定。テスト負荷でキャッシュなしTTFBが1秒超 — ここが弱点。サポートはスクリプトベース。WordPress.orgが歴史的に推奨するが、それは2010年の現実で2026年ではない。",
+      "review": "Bluehost Choice Plusは生きてる最安WPホストだが趣味サイト限定。サポートはスクリプトベース。WordPress.orgが歴史的に推奨するが、それは2010年の現実で2026年ではない。",
       "pros": [
         "最安の導入価格",
         "WordPressワンクリックインストール",

@@ -2,7 +2,7 @@
   "title": "電動ブロワー 2026年比較：秋の落ち葉で5機種",
   "description": "EGO Power+ 650 CFM、Ryobi 40V Brushless Whisper、Milwaukee M18 Fuel、Worx WG591 Turbine、Greenworks Pro 80Vを1/2エーカーの湿った秋の落ち葉で比較。CFM対MPH（本当の指標）、稼働時間、土曜朝に使えるほど静かなのは。",
   "lede": "実秋条件：乾いた葉、湿った葉、低木下のびしょびしょマット。本記事は5製品を、公開仕様・メーカー資料・第三者レビューをもとに比較したものです。",
-  "methodology": "同じ1/2エーカー庭、乾き＋湿り落ち葉混合。4セッションで清掃。清掃時間、ノズルでのCFM／MPH（工場仕様ではない）、操作者耳元デシベル、バッテリー切れまでの稼働時間、バッテリー込み重量を測定。",
+  "methodology": "本比較は机上調査です。公開されている仕様、メーカー資料、第三者によるレビューや試験結果を突き合わせて作成しています。",
   "sections": [
     {
       "heading": "CFM vs MPH — 本当の仕様",
@@ -51,7 +51,7 @@
       "badge": "🏆 総合最有力",
       "review": "EGO Power+ 650 CFMは多くのホームオーナー向け正解。650 CFM／180 MPH、最大時35分稼働、バランス良いエルゴノミクス。EGO Power+エコシステムはコードレスアウトドアパワーで最完全。プレミアム価格だが稼働時間＋パワーの組合せで正当化。",
       "pros": [
-        "テスト中最良の清掃速度",
+        "この比較で最良の清掃速度",
         "強力なEGO Power+エコシステム",
         "35分稼働"
       ],
@@ -62,9 +62,9 @@
     },
     "ryobi-40v-brushless-whisper": {
       "badge": "🤫 低騒音最有力",
-      "review": "Ryobi 40V Brushless Whisperは厳しい騒音ルールあるHOAホーム向け正解。操作者耳元64 dB（テスト中で7+ dB低い）。Ryobi 40Vアウトドアラインナップと連携。",
+      "review": "Ryobi 40V Brushless Whisperは厳しい騒音ルールあるHOAホーム向け正解。操作者耳元64 dBは、5機の公称値の中で7 dB以上低い数字。公称680 CFMで性能も競争力あり。Ryobi 40Vアウトドアラインナップと連携。",
       "pros": [
-        "テスト中最静ブロワー（64 dB）",
+        "5機中で最も低い公称騒音値（64 dB）",
         "Ryobi 40Vエコシステム"
       ],
       "cons": [
@@ -87,7 +87,7 @@
     },
     "worx-wg591-turbine": {
       "badge": "💸 バジェット最有力",
-      "review": "Worx WG591 Turbineはバジェットコードレス向け正解。タービンブーストで固着した葉用の短いMPHバースト。600 CFM／145 MPH、22分稼働 — テスト中最短。プレミアム稼働時間が不要なら$150-200のピック。",
+      "review": "Worx WG591 Turbineはバジェットコードレス向け正解。タービンブーストで固着した葉用の短いMPHバースト。600 CFM／145 MPH、22分稼働 — この比較で最短。プレミアム稼働時間が不要なら$150-200のピック。",
       "pros": [
         "最安プレミアム風オプション",
         "タービンブーストモード",
@@ -100,14 +100,14 @@
     },
     "greenworks-pro-80v-blower": {
       "badge": "⚡ Greenworks最有力",
-      "review": "Greenworks Pro 80VはGreenworks 80Vバッテリーツールを持っているなら正解。730 CFM（同率最高）、170 MPH、30分稼働。総合的に強いがテスト中最大音（75 dB）。Greenworks 80V芝刈機／トリマーと連携。",
+      "review": "Greenworks Pro 80VはGreenworks 80Vバッテリーツールを持っているなら正解。730 CFM（同率最高）、170 MPH、30分稼働。総合的に強いが、5機中で最も高い公称騒音値（75 dB）。Greenworks 80V芝刈機／トリマーと連携。",
       "pros": [
         "同率最高CFM（730）",
         "Greenworks 80Vエコシステム",
         "湿った葉に強い"
       ],
       "cons": [
-        "テスト中最大音（75 dB）",
+        "5機中で最も高い公称騒音値（75 dB）",
         "Ryobiより重い"
       ]
     }
@@ -119,5 +119,5 @@
     "worx-wg591-turbine": "worx.comまたはamazon.comで購入。タービンブーストボタンがトリガー内。",
     "greenworks-pro-80v-blower": "greenworkstools.comまたはamazon.comで購入。秋セールでバッテリー＋充電器バンドル注目。"
   },
-  "pinDescription": "電動ブロワー 2026年比較：EGO × Ryobi Whisper × Milwaukee × Worx × Greenworksを1/2エーカーで実CFM＋dB測定。"
+  "pinDescription": "電動ブロワー 2026年比較：EGO × Ryobi Whisper × Milwaukee × Worx × Greenworksを公開仕様・メーカー資料・第三者レビューで比較。"
 }

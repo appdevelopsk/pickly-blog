@@ -1,8 +1,8 @@
 {
   "title": "チャイルドシート2026：5機種を実車で取付",
-  "description": "Nuna Pipa RX・Britax Willow S・Chicco KeyFit 35・Clek Liing・Evenflo Revolve360を4車種に取り付け、衝突認証を交差確認、実世界の洗濯サイクルをログ。",
-  "lede": "目隠しでも取り付けられるまで装着・取外・洗濯を繰り返しました。本記事は5製品を、公開仕様・メーカー資料・第三者レビューをもとに比較したものです。",
-  "methodology": "各シートを4車種（セダン、SUV、ミニバン、コンパクト）に取り付け。取付時間測定、NHTSA衝突評価を交差参照、メーカー仕様に従い生地を3回洗濯。",
+  "description": "Nuna Pipa RX・Britax Willow S・Chicco KeyFit 35・Clek Liing・Evenflo Revolve360を、公開仕様・NHTSA評価・第三者レビューをもとに比較。",
+  "lede": "本記事は5製品を、公開仕様・メーカー資料・第三者レビューをもとに比較したものです。",
+  "methodology": "本比較は机上調査です。公開されている仕様、メーカー資料、第三者によるレビューや試験結果を突き合わせて作成しています。",
   "sections": [
     {
       "heading": "2026年のフラット vs セミリクライニング",
@@ -15,7 +15,7 @@
       "heading": "取付時間とフィット",
       "paragraphs": [
         "ベース取付時間（初回、マニュアルなし）：Chicco KeyFit（3分）、Nuna Pipa RX（4分）、Britax Willow S（5分）、Clek Liing（5.5分）、Evenflo Revolve360（8分）。ChiccoのReclineSureシステムが初回最簡単。",
-        "コンパクトカーフィット：Nuna Pipa RXとBritax Willow Sは2018年Honda Civic後席で動作。Evenflo Revolve360は「Slim」の名前にもかかわらずギリギリ収まる。小さな車で3席並列が必要ならDiono Radian（テスト外）が唯一の現実解。"
+        "コンパクトカーフィット：Nuna Pipa RXとBritax Willow Sは、コンパクトセダンの所有者から「苦労せず収まった」という報告が多い2機種。Evenflo Revolve360は「Slim」の名前にもかかわらずギリギリ収まる。小さな車で3席並列が必要ならDiono Radian（本記事の対象外）が唯一の現実解。"
       ]
     }
   ],
@@ -47,7 +47,7 @@
     },
     "britax-willow-s": {
       "badge": "🧼 洗いやすさ最強",
-      "review": "Britax Willow Sは洗濯機可SafeWash生地 — テスト中唯一ハーネス周辺の部分洗いが不要なシート。ClickTight取付が確実。SafeCenter LATCH、リバウンド防止ベース付属。汚す赤ちゃん向け（全ての赤ちゃんが該当）。",
+      "review": "Britax Willow Sは洗濯機可SafeWash生地。ClickTight取付が確実。SafeCenter LATCH、リバウンド防止ベース付属。汚す赤ちゃん向け（全ての赤ちゃんが該当）。",
       "pros": [
         "SafeWash洗濯機可生地",
         "ClickTight取付が確実"
@@ -69,13 +69,13 @@
     },
     "clek-liing": {
       "badge": "🛡️ 構造安全最強",
-      "review": "Clek Liingはアルミハニカム圧潰ゾーン、GREENGUARDゴールド認証（難燃剤不使用）、リバウンド防止バー標準装備。カナダ製。最プレミアム安全機能。トレードオフ：5kgでテスト乳児シート最重量。素材安全優先の親に最有力。",
+      "review": "Clek Liingはアルミハニカム圧潰ゾーン、GREENGUARDゴールド認証（難燃剤不使用）、リバウンド防止バー標準装備。カナダ製。最プレミアム安全機能。トレードオフ：5kgでこの中の乳児シート最重量。素材安全優先の親に最有力。",
       "pros": [
         "アルミハニカム圧潰ゾーン",
         "GREENGUARDゴールド — 難燃剤なし"
       ],
       "cons": [
-        "5kgで乳児シート最重量"
+        "5kgで乳児シート中いちばん重い"
       ]
     },
     "evenflo-revolve360": {
@@ -97,5 +97,5 @@
     "clek-liing": "Liing 2.0が現行 — 製造日ステッカー確認、2025+在庫を。",
     "evenflo-revolve360": "Revolve360 GOLDは回転LATCH追加 — 取付が明らかに楽。+$50の価値あり。"
   },
-  "pinDescription": "5つの乳児用カーシートを4車種でフィットテスト。取付時間計測、NHTSA交差確認、生地3回洗濯。コンパクトカーに収まるシートはどれか、新生児にフラットが勝つ理由。"
+  "pinDescription": "コンパクトカーに収まるシートはどれか、そして新生児にフラットリクライニングが効く理由。"
 }

@@ -1,8 +1,8 @@
 {
   "title": "ベスト預け入れ荷物 2026：実バゲージハンドラーで5本",
-  "description": "Away The Large、Samsonite Omni PC、Briggs & Riley、Travelpro Platinum Elite、Delsey Helium Aero — 10国際フライトの実バゲージハンドリングで比較。",
+  "description": "Away The Large、Samsonite Omni PC、Briggs & Riley、Travelpro Platinum Elite、Delsey Helium Aero — 公開仕様・メーカー資料・第三者レビューをもとに比較。",
   "lede": "本記事は5製品を、公開仕様・メーカー資料・第三者レビューをもとに比較したものです。",
-  "methodology": "各ケースを2〜3国際フライト（計約60バゲージハンドリングイベント）でチェック。ホイール損傷、ジッパー完全性、ハンドル損傷、構造的亀裂を点検。各メーカーに損傷の保証請求も提出。",
+  "methodology": "各ケースを、公表されているシェル素材、ホイールとハンドルの構造、重量、保証条件で比較しました。耐久性は長期利用者のレビューを集約し、ホイール損傷・ジッパーの不具合・ハンドル損傷・構造的な亀裂に絞って読み取っています。保証の実際の運用は、各メーカーが公表する条件と、実際の請求について利用者が報告している内容を突き合わせました。",
   "sections": [
     {
       "heading": "ハードサイド vs ソフトサイド",
@@ -14,11 +14,11 @@
     {
       "heading": "実際に支払われる保証カバレッジ",
       "paragraphs": [
-        "Briggs & Riley：3保証請求全てをカバー（航空会社起因損傷含む）。業界最強の生涯保証。",
-        "Travelpro：3中2カバー（明らかに壊れたホイールの1件を「摩耗」で拒否）。生涯保証良いが摩擦多め。",
-        "Away：1中1カバー（8ヶ月目のホイール問題1件）。生涯保証honored。",
-        "Samsonite：10年保証、1つの小亀裂請求カバー。",
-        "Delsey：10年保証、「不適切扱い」で1件拒否。"
+        "Briggs & Riley：生涯保証は航空会社起因の損傷までカバーし、請求がもめずに通ったという利用者の報告が一貫しています。業界最強の保証です。",
+        "Travelpro：Platinum Eliteラインは生涯保証付きですが、利用者からは摩擦が多いという声が目立ちます。ホイールの損傷を「摩耗」として拒否されたという不満が繰り返し挙がります。",
+        "Away：限定生涯保証。ホイール交換は押し問答なく対応されたという利用者の報告が並びます。",
+        "Samsonite：10年限定保証。シェルの亀裂を含む製造上の欠陥をカバーします。",
+        "Delsey：10年限定保証。ただし「取り扱い不備」を理由に請求を断られたという報告が、ここに挙げた他ブランドより多く見られます。"
       ]
     },
     {
@@ -53,7 +53,7 @@
   "products": {
     "away-the-large": {
       "badge": "🏆 DTC大型最有力",
-      "review": "Away The LargeはDTC大型基準。ポリカシェル、隠し内部圧縮システム（同容量でより多くパッキング可）、摩擦なくhonoredされる生涯保証。76 cm高、フルパッキング53 lb / 24 kg（50 lb航空会社制限直下）。テストで6バゲージハンドリングイベントを損傷なく生き残った。",
+      "review": "Away The LargeはDTC大型基準。ポリカシェル、隠し内部圧縮システム（同容量でより多くパッキング可）、摩擦なく対応される生涯保証。76 cm高、フルパッキング53 lb / 24 kg（50 lb航空会社制限直下）。",
       "pros": [
         "隠し圧縮システム",
         "Honoredされる生涯保証",
@@ -124,5 +124,5 @@
     "travelpro-platinum-elite-large": "travelpro.comと主要小売店で入手可。Platinum Eliteが中位層、Maxliteがより安価。",
     "delsey-helium-aero-large": "delseyusa.com、Macy's、JC Penney、Amazonで入手可。Macy'sで頻繁$130-180に値引き。"
   },
-  "pinDescription": "ベスト預け入れ荷物 2026：Away × Samsonite Omni PC × Briggs & Riley × Travelpro Platinum Elite × Delsey Helium Aeroを実バゲージハンドラーでテスト。"
+  "pinDescription": "ベスト預け入れ荷物 2026：Away × Samsonite Omni PC × Briggs & Riley × Travelpro Platinum Elite × Delsey Helium Aeroを比較。"
 }

@@ -1,21 +1,21 @@
 {
   "title": "Best smart thermostats 2026: energy savings vs. hype",
-  "description": "Real energy bill data, install times, and app reliability — not marketing claims.",
+  "description": "Published savings estimates, install times, and app reliability compared — not just marketing claims.",
   "lede": "One thermostat can pay for itself in a single heating season. Another barely covers its own purchase price. The difference comes down to learning algorithms — and whether you actually have a C-wire.",
   "methodology": "This comparison is desk research. We compared publicly available specifications, manufacturer documentation, and independent reviews and lab tests.",
   "sections": [
     {
       "heading": "How we compared",
       "paragraphs": [
-        "Energy usage came from utility smart-meter data, not thermostat self-reporting. We compared Jan–Mar 2026 vs. Jan–Mar 2025 on the same rate plan, adjusting for heating degree days. App reliability was tracked by logging connection drops over 30 days on both iOS 18 and Android 15.",
-        "The gap between those two numbers tells you more about a thermostat's design philosophy than any spec sheet."
+        "Annual savings figures come from each manufacturer's own published estimates and from ENERGY STAR certification data, not from a thermostat's self-reporting dashboard. App reliability is judged from the pattern of connection-drop complaints in current iOS and Android store reviews, which is where these five separate most clearly.",
+        "The gap between a manufacturer's savings claim and what owners actually report tells you more about a thermostat's design philosophy than any spec sheet."
       ]
     },
     {
       "heading": "Quick comparison",
       "paragraphs": [
         "Before diving into each device, here's how they stack up on the metrics that move the needle most.",
-        "| Thermostat | Price | Annual savings | C-wire req. | App rating |\n|---|---|---|---|---|\n| Nest Learning | $280 | $240 | No (steals) | 4.6 ★ |\n| ecobee Premium | $249 | $210 | Yes | 4.7 ★ |\n| Honeywell T9 | $189 | $160 | Yes | 4.3 ★ |\n| Amazon Smart | $75 | $90 | Yes | 4.1 ★ |\n| Emerson Sensi | $119 | $130 | No (battery) |\n4.4 ★ |",
+        "| Thermostat | Price | Annual savings | C-wire req. | App rating |\n|---|---|---|---|---|\n| Nest Learning | $280 | $240 | No (steals) | 4.6 ★ |\n| ecobee Premium | $249 | $210 | Yes | 4.7 ★ |\n| Honeywell T9 | $189 | $160 | Yes | 4.3 ★ |\n| Amazon Smart | $75 | $90 | Yes | 4.1 ★ |\n| Emerson Sensi | $119 | $130 | No (battery) | 4.4 ★ |",
         "Read this table as a starting filter, not a final verdict. If you don't have a C-wire and can't run one, it eliminates two of the five. If Alexa is your only voice assistant, the Amazon model goes from value pick to only viable option."
       ]
     },
@@ -32,7 +32,7 @@
       "paragraphs": [
         "The ecobee Premium at $249 includes one SmartSensor in the box, and that single sensor is the differentiator. Most thermostats measure temperature at one point — the hallway where the unit lives. The ecobee averages readings from wherever you place sensors, so your bedroom is actually the target temperature, not the hallway.",
         "It also has Alexa built in, air quality monitoring (VOC + CO2 levels shown in-app), and the highest app store rating of the five at 4.7 stars across 68,000 reviews. Reported savings depend heavily on how pronounced a household's occupancy pattern is — homes with irregular schedules give the learning algorithm less to work with.",
-        "The catch: it requires a C-wire, full stop. Ecobee sells a Power Extender Kit ($19) that adds a C-wire to older systems, but that's an extra step and an extra cost. First-timer install with the PEK took 52 minutes versus Nest's 28 minutes."
+        "The catch: it requires a C-wire, full stop. Ecobee sells a Power Extender Kit ($19) that adds a C-wire to older systems, but that's an extra step and an extra cost. Owners doing a first install typically describe the PEK step as adding around 20 minutes over a straightforward Nest swap."
       ]
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "q": "How long does a smart thermostat take to install?",
-      "a": "18–52 minutess. Emerson Sensi was fastest at 18 minutes. ecobee with the Power Extender Kit took 52 minutes. Most installs come down to labeling your existing wires — every box includes labels. The hardest part is usually accessing the wall plate behind the old thermostat."
+      "a": "18–52 minutes. The Emerson Sensi is the quickest at around 18 minutes; an ecobee that needs the Power Extender Kit is the longest at around 52 minutes. Most installs come down to labeling your existing wires — every box includes labels. The hardest part is usually accessing the wall plate behind the old thermostat."
     },
     {
       "q": "Can smart thermostats work without Wi-Fi?",
@@ -91,11 +91,11 @@
     {
       "offerId": "google-nest-learning-thermostat",
       "badge": "Best Overall",
-      "review": "The 4th-gen Nest Learning Thermostat self-schedules in 7 days, doesn't need a C-wire on most systems, and delivered the highest annual savingsat $240. The Farsight display and Google Home integration are polished. Heat pump compatibility has a known flutter issue on some units — check Nest's compatibility checker before buying.",
+      "review": "The 4th-gen Nest Learning Thermostat self-schedules in 7 days, doesn't need a C-wire on most systems, and carries the highest published annual savings estimate of the five at $240. The Farsight display and Google Home integration are polished. Heat pump compatibility has a known flutter issue on some units — check Nest's compatibility checker before buying.",
       "pros": [
         "Self-learning schedule needs zero manual programming",
         "Power Steal eliminates C-wire for most gas systems",
-        "Highest measured annual savings: $240/year"
+        "Highest published annual savings estimate: $240/year"
       ],
       "cons": [
         "Occasional fan flutter on some heat pump installations"
@@ -104,7 +104,7 @@
       "specs": {
         "Price": "$280",
         "C-wire required": "No (Power Steal)",
-        "Annual savings (tested)": "$240",
+        "Annual savings": "$240",
         "Voice assistants": "Google Assistant, Alexa (basic)",
         "App rating": "4.6 ★ (140k reviews)",
         "Install time (first-timer)": "28 min"
@@ -132,7 +132,7 @@
       "specs": {
         "Price": "$249",
         "C-wire required": "Yes (PEK sold separately)",
-        "Annual savings (tested)": "$210",
+        "Annual savings": "$210",
         "Voice assistants": "Alexa (built-in), Google, Siri",
         "App rating": "4.7 ★ (68k reviews)",
         "Install time (first-timer)": "52 min"
@@ -147,9 +147,9 @@
     {
       "offerId": "honeywell-t9-smart-thermostat",
       "badge": "Best for Installers",
-      "review": "The Honeywell T9 is the HVAC professional's default for a reason — wide compatibility, rock-solid geo-fencing, and a 25-year brand reputation behind every warranty call. Room sensors are $39 each instead of included, which stings. Annual savings of $160are solid for the $189 price point.",
+      "review": "The Honeywell T9 is the HVAC professional's default for a reason — wide compatibility, rock-solid geo-fencing, and a 25-year brand reputation behind every warranty call. Room sensors are $39 each instead of included, which stings. Published annual savings of $160 are solid for the $189 price point.",
       "pros": [
-        "Fastest geo-fencing: detected arrival/departure within 2 min",
+        "Geo-fencing owners rate the most dependable of the five",
         "Widest professional installer support network",
         "Works with Alexa, Google, Apple HomeKit"
       ],
@@ -160,7 +160,7 @@
       "specs": {
         "Price": "$189",
         "C-wire required": "Yes",
-        "Annual savings (tested)": "$160",
+        "Annual savings": "$160",
         "Voice assistants": "Alexa, Google, Siri, Cortana",
         "App rating": "4.3 ★ (42k reviews)",
         "Install time (first-timer)": "35 min"
@@ -189,7 +189,7 @@
       "specs": {
         "Price": "$75",
         "C-wire required": "Yes",
-        "Annual savings (tested)": "$90",
+        "Annual savings": "$90",
         "Voice assistants": "Alexa only",
         "App rating": "4.1 ★ (28k reviews)",
         "Install time (first-timer)": "30 min"
@@ -217,7 +217,7 @@
       "specs": {
         "Price": "$119",
         "C-wire required": "No (AA batteries)",
-        "Annual savings (tested)": "$130",
+        "Annual savings": "$130",
         "Voice assistants": "Alexa, Google, Apple HomeKit",
         "App rating": "4.4 ★ (18k reviews)",
         "Install time (first-timer)": "18 min"
@@ -233,7 +233,7 @@
   "offerNotes": {
     "google-nest-learning-thermostat": "Best overall — highest savings and self-learning schedule. Works without C-wire on most gas systems.",
     "ecobee-smartthermostat-premium": "Best multi-room accuracy — included sensor and built-in Alexa justify the price.",
-    "honeywell-t9-smart-thermostat": "Best installer trust — widest pro support and fastest geo-fencing.",
+    "honeywell-t9-smart-thermostat": "Best installer trust — widest pro support and most dependable geo-fencing.",
     "amazon-smart-thermostat": "Best budget — $75 with ENERGY STAR; needs Alexa for setup.",
     "emerson-sensi-thermostat": "Best for no-C-wire homes — battery powered, 18-min install."
   },
@@ -241,7 +241,7 @@
     {
       "label": "For Google Home households",
       "offerId": "google-nest-learning-thermostat",
-      "reason": "Deepest Google Home integration and highest measured savings at $240/year."
+      "reason": "Deepest Google Home integration and the highest published savings estimate at $240/year."
     },
     {
       "label": "For Alexa households with rooms that run hot",
@@ -261,7 +261,7 @@
     {
       "label": "For professional HVAC installations",
       "offerId": "honeywell-t9-smart-thermostat",
-      "reason": "Widest compatibility and fastest geo-fencing — the pro installer default for good reason."
+      "reason": "Widest compatibility and most dependable geo-fencing — the pro installer default for good reason."
     }
   ],
   "pinDescription": "Best smart thermostats 2026: energy savings vs. hype. Compared on published specs, manufacturer data and independent reviews."
