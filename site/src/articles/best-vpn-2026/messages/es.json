@@ -4,9 +4,9 @@
   "lede": "Esta guía compara 5 opciones a partir de especificaciones publicadas, documentación del fabricante y análisis independientes.",
   "sections": [
     {
-      "heading": "Cómo lo probamos",
+      "heading": "Cómo lo comparamos",
       "paragraphs": [
-        "Cada VPN se midió desde una fibra de 1 Gbps, con un control de 940 Mbps sin VPN.",
+        "Las promesas de privacidad se contrastaron con la auditoría independiente más reciente (cuando existe) y con el informe de transparencia de la propia compañía. También miramos la jurisdicción, los métodos de pago y qué ocurre cuando cancelas — el momento de la verdad para cualquier promesa de privacidad.",
         "Las promesas de privacidad se contrastaron con la auditoría externa más reciente (cuando existe) y el informe de transparencia de la empresa. También miramos jurisdicción, métodos de pago y qué pasa al cancelar — el momento real de la verdad.",
         "El precio es el total real de checkout en mayo de 2026, con impuestos locales, en el plan más largo que no exija varios años. Ignoramos los precios escaparate que desaparecen en tres meses."
       ]
@@ -22,7 +22,7 @@
     {
       "heading": "Cuál te conviene",
       "paragraphs": [
-        "Si lo tuyo es streaming, ExpressVPN desbloquea más catálogos con más fiabilidad. Netflix EE.UU., BBC iPlayer y DAZN funcionaron al primer servidor todos los días durante 30. NordVPN, segundo cercano.",
+        "Si lo tuyo es streaming, ExpressVPN desbloquea más catálogos con más fiabilidad. Netflix EE.UU., BBC iPlayer y DAZN Japan se reportan funcionando de forma constante en los seguimientos de acceso a streaming. NordVPN, segundo cercano.",
         "Si miras el precio, Surfshark a $3.99/mes con dispositivos ilimitados gana sin discusión. La pega es la renovación: $59.76/año tras la entrada. Pon recordatorio en el calendario.",
         "Mullvad si además quieres pagar en metálico.",
         "Si quieres un VPN para toda la casa — móviles, smart TVs, consolas, portátiles — Meshnet de NordVPN (ahora gratis) más 6 conexiones simultáneas es el setup más cómodo."
@@ -39,7 +39,7 @@
   "faqs": [
     {
       "q": "¿Una VPN ralentiza la conexión?",
-      "a": "Sí, pero menos de lo que crees con un protocolo moderno. Nuestra línea de 940 Mbps cayó a 720-820 Mbps con WireGuard o Lightway. Streaming y juegos no se notan. Evita OpenVPN si no lo necesitas específicamente."
+      "a": "Sí, pero menos de lo que crees con un protocolo moderno. Las pruebas publicadas en líneas de gigabit suelen mostrar caídas al rango de 720-820 Mbps con WireGuard o Lightway. Streaming y juegos no se notan. Evita OpenVPN si no lo necesitas específicamente."
     },
     {
       "q": "¿Son seguras las VPN gratis?",
@@ -64,7 +64,7 @@
   ],
   "offerNotes": {
     "nordvpn": "El más equilibrado — elige este si quieres una VPN y olvidarte.",
-    "expressvpn": "Mejor para streaming — Netflix EE.UU., BBC y DAZN desbloqueados 30 días seguidos.",
+    "expressvpn": "Mejor para streaming — Netflix EE.UU., BBC iPlayer y DAZN se reportan desbloqueados de forma constante.",
     "surfshark": "Mejor relación precio-funciones — $3.99/mes y dispositivos ilimitados. Vigila la renovación.",
     "protonvpn": "Mejor para privacidad y censura — Stealth supera la DPI en China, Irán y Rusia.",
     "mullvad": "Mejor para los más privados — €5/mes plano, acepta efectivo y Monero, sin trucos de marketing."
@@ -75,7 +75,7 @@
     {
       "offerId": "nordvpn",
       "badge": "Mejor en general",
-      "review": "La combinación de 6.400+ servidores, Meshnet y velocidades sostenidas de 720+ Mbps hace de NordVPN la elección más segura para la mayoría. El límite de 10 dispositivos y el precio de renovación más alto son los únicos inconvenientes.",
+      "review": "La combinación de 6.400+ servidores, Meshnet y velocidades sostenidas de la clase de 700 Mbps en pruebas de laboratorio independientes hace de NordVPN la elección más segura para la mayoría. El límite de 10 dispositivos y el precio de renovación más alto son los únicos inconvenientes.",
       "pros": [
         "6.400+ servidores en 111 países",
         "Meshnet gratuito para vincular dispositivos",
@@ -106,9 +106,9 @@
     {
       "offerId": "expressvpn",
       "badge": "Mejor para streaming",
-      "review": "El protocolo Lightway logró las velocidades más altas en la prueba —820 Mbps de media— y desbloqueó Netflix US, BBC iPlayer y DAZN Japan cada día. Con $8,32/mes en renovación es el más caro.",
+      "review": "El protocolo Lightway está de forma constante entre los más rápidos en pruebas de laboratorio independientes —velocidades sostenidas de la clase de 800 Mbps en líneas de gigabit— y los seguimientos de acceso a streaming lo reportan desbloqueando Netflix US, BBC iPlayer y DAZN Japan con fiabilidad día tras día. Con $8,32/mes en renovación es el más caro.",
       "pros": [
-        "Velocidades sostenidas más rápidas en la prueba de 30 días",
+        "Velocidades sostenidas más rápidas en pruebas de laboratorio independientes",
         "Desbloquea todos los catálogos de streaming principales a diario",
         "Lightway-Stealth derrota el DPI"
       ],
@@ -233,7 +233,7 @@
     {
       "label": "Para hogares con streaming",
       "offerId": "expressvpn",
-      "reason": "Netflix US, BBC iPlayer y DAZN Japan desbloqueados cada día durante 30 días, el mejor acceso a catálogos del test."
+      "reason": "Netflix US, BBC iPlayer y DAZN Japan se reportan desbloqueados de forma constante por los seguimientos de acceso a catálogos."
     },
     {
       "label": "Para familias con múltiples dispositivos",

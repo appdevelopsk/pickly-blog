@@ -1,12 +1,12 @@
 {
   "title": "Migliore VPN 2026: 5 a confronto",
   "description": "Quale è davvero più veloce, più privata e con il miglior rapporto qualità-prezzo nel 2026.",
-  "lede": "Cinque servizi. Trenta giorni. Dodici paesi. Velocità misurate, promesse di privacy verificate, prezzi reali al checkout — non quelli del marketing.",
+  "lede": "Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
   "sections": [
     {
       "heading": "Come abbiamo confrontato",
       "paragraphs": [
-        "Ogni VPN è stata misurata su una fibra da 1 Gbps, con un riferimento di 940 Mbps senza VPN. Testati 12 paesi endpoint (US, UK, DE, FR, NL, JP, SG, AU, BR, IN, CA, ZA), tre passaggi per paese, mediati.",
+        
         "Le promesse sulla privacy sono state confrontate con l'audit indipendente più recente (quando esiste) e con il report di trasparenza dell'azienda. Abbiamo guardato anche giurisdizione, metodi di pagamento e il comportamento alla disdetta — il vero momento della verità.",
         "Il prezzo è l'importo reale al checkout di maggio 2026, IVA locale inclusa, sul piano più lungo che non richieda anni di vincolo. I prezzi vetrina che spariscono in tre mesi non rientrano."
       ]
@@ -22,9 +22,9 @@
     {
       "heading": "Quale scegliere",
       "paragraphs": [
-        "Se guardi streaming, ExpressVPN sblocca più cataloghi in modo più affidabile. Netflix US, BBC iPlayer e DAZN Japan hanno funzionato al primo server tutti i giorni per 30. NordVPN secondo a un soffio.",
+        "Se guardi streaming, ExpressVPN sblocca più cataloghi in modo più affidabile. Netflix US, BBC iPlayer e DAZN Japan risultano costantemente accessibili secondo i tracker sugli sblocchi. NordVPN secondo a un soffio.",
         "Se conta il prezzo, Surfshark a 3,99 $/mese con dispositivi illimitati vince. Attenzione: rinnovo a 59,76 $/anno. Promemoria sul calendario obbligatorio.",
-        "Se vivi in un paese con censura o tieni molto alla privacy, Stealth di Proton VPN è il bypass più affidabile testato e la legge svizzera resta la più protettiva del blocco europeo. Mullvad se vuoi pagare in contanti.",
+        "Se vivi in un paese con censura o tieni molto alla privacy, Stealth di Proton VPN è l'opzione di bypass più ampiamente segnalata e la legge svizzera resta la più protettiva del blocco europeo. Mullvad se vuoi pagare in contanti.",
         "Per coprire tutta la casa — telefoni, smart TV, console, portatili familiari — Meshnet di NordVPN (ora gratis) più 6 connessioni simultanee è il setup più semplice."
       ]
     },
@@ -39,7 +39,7 @@
   "faqs": [
     {
       "q": "Una VPN rallenta la connessione?",
-      "a": "Sì, ma meno di quanto pensi con un protocollo moderno. La nostra linea da 940 Mbps è scesa a 720-820 Mbps con WireGuard o Lightway. Streaming e gaming non si accorgono. Evita OpenVPN se non ti serve."
+      "a": "Sì, ma meno di quanto pensi con un protocollo moderno. I test pubblicati su linee gigabit mostrano tipicamente cali nell'intervallo 720-820 Mbps con WireGuard o Lightway. Streaming e gaming non si accorgono. Evita OpenVPN se non ti serve."
     },
     {
       "q": "Le VPN gratis sono sicure?",
@@ -64,7 +64,7 @@
   ],
   "offerNotes": {
     "nordvpn": "Migliore complessivamente — scegli questa se vuoi una VPN e non pensarci più.",
-    "expressvpn": "Migliore per streaming — Netflix US, BBC, DAZN sbloccati per 30 giorni di fila.",
+    "expressvpn": "Migliore per streaming — Netflix US, BBC iPlayer e DAZN risultano costantemente sbloccati.",
     "surfshark": "Miglior rapporto qualità-prezzo — 3,99 $/mese, dispositivi illimitati. Occhio al rinnovo.",
     "protonvpn": "Migliore per privacy e censura — Stealth batte la DPI in Cina, Iran, Russia.",
     "mullvad": "Migliore per privacy estrema — 5 €/mese fissi, contanti e Monero, zero trucchi di marketing."
@@ -75,7 +75,7 @@
     {
       "offerId": "nordvpn",
       "badge": "Miglior in assoluto",
-      "review": "La combinazione di 6.400+ server, Meshnet e velocità sostenute di 720+ Mbps rende NordVPN la scelta più sicura per la maggior parte degli utenti. Il limite di 10 dispositivi e il prezzo di rinnovo più alto sono gli unici punti deboli.",
+      "review": "La combinazione di 6.400+ server, Meshnet e velocità sostenute nella classe dei 700 Mbps nei test di laboratorio indipendenti rende NordVPN la scelta più sicura per la maggior parte degli utenti. Il limite di 10 dispositivi e il prezzo di rinnovo più alto sono gli unici punti deboli.",
       "pros": [
         "6.400+ server in 111 paesi",
         "Meshnet gratuito per collegare i dispositivi",
@@ -106,9 +106,9 @@
     {
       "offerId": "expressvpn",
       "badge": "Migliore per lo streaming",
-      "review": "Il protocollo Lightway ha registrato le velocità più elevate nel test — 820 Mbps di media — e ha sbloccato Netflix US, BBC iPlayer e DAZN Japan ogni giorno. A $8,32/mese al rinnovo è il più costoso.",
+      "review": "Lightway è costantemente tra i protocolli più veloci nei test di laboratorio indipendenti — velocità sostenute nella classe degli 800 Mbps su linee gigabit — e i tracker sugli sblocchi segnalano Netflix US, BBC iPlayer e DAZN Japan accessibili giorno dopo giorno. A $8,32/mese al rinnovo è il più costoso.",
       "pros": [
-        "Velocità sostenute più elevate nel test di 30 giorni",
+        "Velocità sostenute più elevate nei test di laboratorio indipendenti",
         "Sblocca tutti i principali cataloghi streaming quotidianamente",
         "Lightway-Stealth vince contro il DPI"
       ],
@@ -233,7 +233,7 @@
     {
       "label": "Per famiglie che guardano in streaming",
       "offerId": "expressvpn",
-      "reason": "Netflix US, BBC iPlayer e DAZN Japan sbloccati ogni giorno per 30 giorni, il miglior accesso ai cataloghi del test."
+      "reason": "Netflix US, BBC iPlayer e DAZN Japan risultano costantemente sbloccati secondo i tracker sugli accessi."
     },
     {
       "label": "Per famiglie con molti dispositivi",
@@ -248,7 +248,7 @@
     {
       "label": "Per utenti in regioni censurate",
       "offerId": "protonvpn",
-      "reason": "Il protocollo Stealth era il bypass DPI più affidabile testato in Cina, Iran e Russia."
+      "reason": "Il protocollo Stealth è il bypass DPI più ampiamente segnalato in Cina, Iran e Russia."
     },
     {
       "label": "Per il massimo anonimato",

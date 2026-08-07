@@ -32,7 +32,7 @@
       "paragraphs": [
         "L'ecobee Premium a 249 € include uno SmartSensor nella confezione, e quel singolo sensore è il fattore distintivo. La maggior parte dei termostati misura la temperatura in un punto — il corridoio dove si trova l'unità. L'ecobee fa la media delle letture da dove piazzi i sensori, così la tua camera da letto è davvero alla temperatura target, non il corridoio.",
         "Ha anche Alexa integrata, monitoraggio della qualità dell'aria (livelli di VOC + CO2 visibili nell'app) e la migliore valutazione app delle cinque: 4,7 stelle su 68.000 recensioni. Il risparmio riportato dipende molto da quanto sono marcate le abitudini di presenza in casa: con orari irregolari l'algoritmo di apprendimento ha meno su cui lavorare.",
-        "Il problema: richiede il filo C, senza eccezioni. Ecobee vende un Power Extender Kit (19 €) che aggiunge un filo C ai sistemi più vecchi, ma è un passo e un costo extra. L'installazione iniziale con il PEK ha richiesto 52 minuti contro i 28 di Nest."
+        "Il problema: richiede il filo C, senza eccezioni. Ecobee vende un Power Extender Kit (19 €) che aggiunge un filo C ai sistemi più vecchi, ma è un passo e un costo extra. Chi lo installa per la prima volta descrive di solito il passaggio con il PEK come una ventina di minuti in più rispetto a una sostituzione lineare di un Nest."
       ]
     },
     {
@@ -46,7 +46,7 @@
     {
       "heading": "Quale dovresti acquistare",
       "paragraphs": [
-        "Se hai il filo C e usi Google Home: Nest Learning Thermostat. Il ritorno sull'investimento in 10 mesi e l'apprendimento automatico del programma sono davvero impressionanti su 3+ anni di utilizzo.",
+        "Se hai il filo C e usi Google Home: Nest Learning Thermostat. La stima di risparmio energetico pubblicata e l'apprendimento automatico del programma sono ciò che gli utenti citano più spesso per giustificare il prezzo su 3+ anni di utilizzo.",
         "Se hai il filo C e vuoi la migliore precisione multi-stanza: ecobee Premium. Il sensore incluso e i dati sulla qualità dell'aria giustificano i 249 €.",
         "Se la tua casa non ha il filo C e non puoi installarne uno: Emerson Sensi. Funzionamento a batteria, installazione in 18 minuti e risparmio concreto.",
         "Se sei una casa con Alexa e budget ridotto: Amazon Smart Thermostat a 75 €. Essenziale, ma si ripaga in meno di un anno."
@@ -68,7 +68,7 @@
     },
     {
       "q": "Quanto tempo richiede l'installazione di un termostato smart?",
-      "a": "L'Emerson Sensi è stato il più veloce con 18 minuti. L'ecobee con il Power Extender Kit ha richiesto 52 minuti. La maggior parte dell'installazione si riduce all'etichettatura dei fili esistenti — ogni scatola include le etichette. La parte più difficile è solitamente l'accesso alla piastra a parete dietro il vecchio termostato."
+      "a": "Ben meno di un'ora per la maggior parte delle persone. L'Emerson Sensi è il più semplice — alimentato a batteria, senza bisogno del filo C. Un ecobee che richiede il Power Extender Kit è quello che porta via più tempo. La maggior parte dell'installazione si riduce all'etichettatura dei fili esistenti — ogni scatola include le etichette. La parte più difficile è solitamente l'accesso alla piastra a parete dietro il vecchio termostato."
     },
     {
       "q": "I termostati smart funzionano senza Wi-Fi?",
@@ -91,11 +91,11 @@
     {
       "offerId": "google-nest-learning-thermostat",
       "badge": "Migliore in assoluto",
-      "review": "Il Nest Learning Thermostat di 4a generazione crea il suo programma in 7 giorni, non richiede il filo C sulla maggior parte dei sistemi e registra il maggiore risparmio annuo del confronto: 240 €. Il display Farsight e l'integrazione Google Home sono rifiniti. La compatibilità con la pompa di calore presenta un noto problema di tremolio del ventilatore su alcune unità — controlla il verificatore di compatibilità Nest prima di acquistare.",
+      "review": "Il Nest Learning Thermostat di 4a generazione crea il suo programma in 7 giorni, non richiede il filo C sulla maggior parte dei sistemi e porta la stima di risparmio annuo pubblicata più alta dei cinque: 240 €. Il display Farsight e l'integrazione Google Home sono rifiniti. La compatibilità con la pompa di calore presenta un noto problema di tremolio del ventilatore su alcune unità — controlla il verificatore di compatibilità di Nest prima dell'acquisto.",
       "pros": [
         "Programma auto-appreso: zero programmazione manuale",
         "Power Steal elimina il filo C per la maggior parte dei sistemi a gas",
-        "Massimo risparmio annuo misurato: 240 €/anno"
+        "Stima di risparmio annuo pubblicata più alta: 240 €/anno"
       ],
       "cons": [
         "Occasionale tremolio del ventilatore su alcune installazioni con pompa di calore"
@@ -149,7 +149,7 @@
       "badge": "Preferito degli installatori",
       "review": "Il Honeywell T9 è la raccomandazione predefinita dei professionisti HVAC per una ragione — ampia compatibilità, geofencing solido come una roccia e 25 anni di reputazione del marchio dietro ogni chiamata in garanzia. I sensori di stanza a 39 € ciascuno, non inclusi, fanno male. Il risparmio annuo di 160 € è solido per il prezzo di 189 €.",
       "pros": [
-        "Geofencing più veloce: rilevato arrivo/partenza in meno di 2 min",
+        "Geofencing giudicato dagli utenti il più affidabile dei cinque",
         "La rete di supporto installatori professionisti più ampia",
         "Compatibile con Alexa, Google, Apple HomeKit"
       ],
@@ -241,7 +241,7 @@
     {
       "label": "Per le case con Google Home",
       "offerId": "google-nest-learning-thermostat",
-      "reason": "Integrazione Google Home più profonda e massimo risparmio misurato: 240 €/anno."
+      "reason": "Integrazione Google Home più profonda e la stima di risparmio pubblicata più alta: 240 €/anno."
     },
     {
       "label": "Per le case con Alexa e stanze che si surriscaldano",

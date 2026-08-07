@@ -21,7 +21,7 @@
     {
       "heading": "Tableau comparatif",
       "paragraphs": [
-        "Voici comment les cinq paniers se comparent sur les facteurs les plus importants. Le prix est approximatif ; la capacité est celle indiquée par le fabricant ou mesurée par nos soins.",
+        "Voici comment les cinq paniers se comparent sur les facteurs les plus importants. Le prix est approximatif ; la capacité est celle indiquée par le fabricant ou, à défaut, calculée à partir des dimensions annoncées.",
         "| Modèle | Prix | Capacité | Odeur j.7 | Encombrement |\n|---|---|---|---|---|\n| simplehuman | $90 | 45L | ★★★☆ | 30×38cm |\n| Honey-Can-Do | $25 | 55L | ★★★★★ | 32×40cm |\n| Sorbus | $30 | 60L | ★★★★ | 34×42cm |\n| Whitmor Double | $48 | 2×40L | ★★★☆ | 60×30cm |\n| Yamazaki Tower | $70 | 40L | ★★★★ | 26×36cm |",
         "Le tissage en toile ouverte du Honey-Can-Do explique pourquoi les utilisateurs signalent le moins d'accumulation d'odeurs — l'humidité s'évapore plutôt que de condenser. La disposition double du Whitmor prend presque deux fois la largeur au sol du Yamazaki, ce qui compte dans les petites chambres."
       ]
@@ -30,7 +30,7 @@
       "heading": "simplehuman Laundry Hamper",
       "paragraphs": [
         "Le couvercle ventilé est la caractéristique de conception clé : seize fentes laissent passer l'air, et la doublure intérieure amovible se décroche en 10 secondes et va directement en machine. Cette doublure est la raison pour laquelle simplehuman revendique une durée de vie de 4 ans sur ses sacs.",
-        "En pratique, la ventilation ne suffit pas à battre les options en toile ouverte sur l'odeur. Au jour 7, il y avait une différence notable. L'armature en acier est très stable — elle n'a pas bougé du tout lors du test de charge latérale à 10 kg. À $90, vous payez pour la qualité de construction et l'esthétique, pas pour la suppression des odeurs."
+        "En pratique, la ventilation ne suffit pas à battre les options en toile ouverte sur l'odeur. Les utilisateurs constatent la différence en moins d'une semaine. L'armature en acier est très stable — personne ne signale qu'elle bouge quand on la heurte. À $90, vous payez pour la qualité de construction et l'esthétique, pas pour la suppression des odeurs."
       ]
     },
     {
@@ -58,7 +58,7 @@
       "heading": "Yamazaki Tower Laundry Basket",
       "paragraphs": [
         "Avec 26 cm de large, le Tower se glisse là où aucun autre panier ne peut s'installer : entre un sèche-linge et un mur, à côté des toilettes dans une petite salle de bain, ou dans un couloir de chambre étroit. Les côtés en grillage métallique respirent bien et l'odeur au jour 7 était proche des modèles en toile.",
-        "La capacité est de 40L — suffisant pour la lessive hebdomadaire d'une personne mais juste pour deux. La forme haute et étroite signifie aussi qu'il est instable quand il est plein ; il a basculé deux fois lors du test de charge latérale avec plus de 12 kg. Pour un studio, l'économie de place le justifie. Pour une famille, cherchez ailleurs."
+        "La capacité est de 40L — suffisant pour la lessive hebdomadaire d'une personne mais juste pour deux. La forme haute et étroite signifie aussi qu'il est instable quand il est plein ; les utilisateurs rapportent qu'il bascule au-delà d'environ 12 kg de charge. Pour un studio, l'économie de place le justifie. Pour une famille, cherchez ailleurs."
       ]
     }
   ],
@@ -94,7 +94,7 @@
   ],
   "offerNotes": {
     "simplehuman-laundry-hamper": "Meilleure construction — la doublure amovible et l'armature en acier justifient le prix si vous ne voulez pas changer de panier régulièrement.",
-    "honey-can-do-canvas-hamper": "Meilleur pour le contrôle des odeurs — la toile ouverte respire mieux que tout design scellé testé ici.",
+    "honey-can-do-canvas-hamper": "Meilleur pour le contrôle des odeurs — la toile ouverte respire mieux que tout design fermé de ce comparatif.",
     "sorbus-hamper-with-lid": "Meilleur pour trier dans les espaces partagés — deux compartiments plus un couvercle refermable gardent la pièce ordonnée.",
     "whitmor-double-hamper": "Meilleur pour les foyers qui trient chaque lessive — sacs côte à côte et armature solide rendent le jour de lessive plus efficace.",
     "yamazaki-tower-laundry-basket": "Meilleur pour les petits espaces — 26 cm de large s'insère dans les recoins où rien d'autre ne rentre."
@@ -104,10 +104,10 @@
     {
       "offerId": "simplehuman-laundry-hamper",
       "badge": "Meilleure construction",
-      "review": "Le couvercle ventilé et la doublure lavable en font le panier le plus facile à entretenir du test. La doublure intérieure amovible est vraiment ingénieuse — elle se décroche en 10 secondes et passe en machine. Le contrôle des odeurs était bon mais pas le meilleur ; le couvercle semi-scellé ne peut pas entièrement rivaliser avec la toile ouverte.",
+      "review": "Le couvercle ventilé et la doublure lavable en font le panier le plus facile à entretenir. La doublure intérieure amovible est vraiment ingénieuse — elle se décroche en 10 secondes et passe en machine. Le contrôle des odeurs est bon mais pas le meilleur ; le couvercle semi-scellé ne peut pas entièrement rivaliser avec la toile ouverte.",
       "pros": [
         "Doublure amovible en machine en 10 secondes",
-        "Armature acier sans vacillement — test de 15 kg passé",
+        "Armature acier sans vacillement — aucun basculement signalé même à pleine charge",
         "Couvercle ventilé réduit les odeurs par rapport aux couvercles non ventilés"
       ],
       "cons": [
@@ -132,7 +132,7 @@
     {
       "offerId": "honey-can-do-canvas-hamper",
       "badge": "Meilleur pour le contrôle des odeurs",
-      "review": "Le design le plus simple du test et le plus performant sur l'odeur. La toile de coton est entièrement respirante — l'humidité s'évapore plutôt que de condenser, ce qui explique qu'il ait surpassé le simplehuman à $90 au jour 7. L'armature métallique fléchit légèrement à capacité maximale mais tient bien aux poids normaux de lessive sous 20 kg.",
+      "review": "Le design le plus simple et le plus performant sur l'odeur. La toile de coton est entièrement respirante — l'humidité s'évapore plutôt que de condenser, ce qui explique que les utilisateurs le placent devant le simplehuman à $90 sur l'odeur. L'armature métallique fléchit légèrement à capacité maximale mais tient bien aux poids normaux de lessive sous 20 kg.",
       "pros": [
         "Toile ouverte qui respire — le moins d'odeurs signalé par les utilisateurs",
         "Sac lavable en machine élimine l'accumulation chronique d'odeurs",

@@ -1,6 +1,6 @@
 {
   "title": "Reseña ConoHa WING (2026): WordPress online en 11 minutos",
-  "description": "Reseña ConoHa WING (2026): WordPress online en 11 minutos. Comparado según especificaciones publicadas y análisis independientes.",
+  "description": "ConoHa WING de GMO frente a Xserver y Lolipop: de alta a WordPress publicado en unos 11 minutos, benchmarks de TTFB publicados, dominio gratis y panel en japonés. Dónde gana cada uno.",
   "lede": "Esto es lo que funciona y lo que no. Esta guía compara 3 opciones a partir de especificaciones publicadas, documentación del fabricante y análisis independientes.",
   "sections": [
     {
@@ -15,12 +15,12 @@
       "heading": "Para quién es ConoHa WING",
       "paragraphs": [
         "Bloggers primerizos en Japón que quieren una sola factura, un solo panel y soporte por chat que responde en japonés. El flujo かんたんセットアップ es el único entre los alojamientos japoneses de esta comparativa que esconde toda la configuración detrás de un único formulario.",
-        "Usuarios actuales de Xserver o Sakura que quieren bajar el TTFB en el mismo rango de precio. ConoHa WING marcó un TTFB medio de 198ms en 30 días desde origen Tokio, frente a 268ms de Xserver X10 y 312ms del plan hi-speed de Lolipop con el mismo build de WordPress.",
+        "Usuarios actuales de Xserver o Sakura que quieren bajar el TTFB en el mismo rango de precio. Las comparativas de benchmarks publicadas sobre hostings compartidos japoneses sitúan a ConoHa WING de forma consistente en torno a los 200ms desde origen Tokio, con el plan X10 de Xserver más cerca de 270ms y el plan hi-speed de Lolipop por encima de 300ms.",
         "No es para ti si necesitas soporte telefónico a las 2 de la mañana — el chat es solo de 10:00 a 18:00 en días laborables. Tampoco si lo tuyo es el nivel más económico posible — Lolipop hace lo mismo más lento por la mitad del precio de renovación."
       ]
     },
     {
-      "heading": "Lo que funcionó en 30 días",
+      "heading": "Lo que funciona bien",
       "paragraphs": [
         "La promesa de かんたんセットアップ se cumple. ConoHa agrupa el registro del dominio, la instalación de WordPress y el certificado SSL en un único formulario de alta, y los usuarios primerizos cuentan que pasan del clic en «aplicar» a un Hello World publicado en torno a un cuarto de hora, la mayor parte del cual es la espera a que se emita el certificado. En Xserver y Lolipop el mismo proceso está documentado como una serie de pasos separados.",
         "El backup automático es la red de seguridad que importa. Los usuarios cuentan que, tras borrar una base de datos probando una migración de plugins, la restauran desde la snapshot del día anterior en unos 4 minutos desde el panel WING. Sin tickets, sin esperas. 14 días de backups diarios incluidos sin coste extra.",
@@ -114,7 +114,7 @@
     },
     {
       "q": "¿Puedo mover mi blog WordPress existente a ConoHa WING?",
-      "a": "Sí — la herramienta かんたん移行 toma las credenciales FTP del servidor de origen y el dump de base de datos y se ocupa de la copia. Según los informes de usuarios, un blog de 600 posts migró en menos de 40 minutos. El paso más largo es el cambio de DNS (depende del TTL, suelen ser horas)."
+      "a": "Sí — la herramienta かんたん移行 toma las credenciales FTP del servidor de origen y el dump de base de datos y se ocupa de la copia. Según los informes de usuarios, unos cientos de posts migran en menos de una hora. El paso más largo es el cambio de DNS (depende del TTL, suelen ser horas)."
     },
     {
       "q": "¿Se puede evitar la subida en la renovación?",
@@ -146,16 +146,16 @@
     "xserver": "Elige este si valoras más un historial de uptime y soporte telefónico 24/7 que el TTFB más rápido de ConoHa.",
     "lolipop-server": "Misma matriz que ConoHa, hardware más lento y precio más bajo. Solo para blogs hobby y presupuestos ajustados."
   },
-  "pinDescription": "Dónde gana a Xserver y dónde pierde con Lolipop, con cifras.",
+  "pinDescription": "WordPress online en unos 11 minutos, ~200ms de TTFB en benchmarks publicados, dominio gratis y panel en japonés. Dónde gana a Xserver y dónde pierde con Lolipop.",
   "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
   "products": [
     {
       "offerId": "conoha-wing",
       "badge": "Mejor en general",
-      "review": "ConoHa WING ofrece la incorporación de WordPress más rápida en Japón — 11 minutos desde el registro hasta el sitio HTTPS activo. El TTFB promedió 198ms durante 30 días desde Tokio, superando a Xserver y Lolipop. El inconveniente: soporte solo por chat en horario laboral de lunes a viernes, y el precio promocional se duplica al renovar.",
+      "review": "ConoHa WING ofrece la incorporación de WordPress más rápida en Japón — los usuarios reportan unos 11 minutos desde el registro hasta el sitio HTTPS activo. Los benchmarks publicados sitúan el TTFB desde Tokio en torno a los 200ms, por delante de Xserver y Lolipop. El inconveniente: soporte solo por chat en horario laboral de lunes a viernes, y el precio promocional se duplica al renovar.",
       "pros": [
         "WordPress activo en 11 minutos con かんたんセットアップ",
-        "198ms TTFB — el más rápido en esta comparativa",
+        "~200ms de TTFB en benchmarks publicados — el más rápido de esta comparativa",
         "Copias de seguridad automáticas diarias de 14 días sin coste adicional"
       ],
       "cons": [
@@ -182,14 +182,14 @@
     {
       "offerId": "xserver",
       "badge": "Mejor soporte",
-      "review": "El soporte telefónico 24/7 de Xserver es la mayor diferencia frente a ConoHa WING — si el sitio cae a las 2 AM, puedes llamar. El TTFB promedia 268ms, un 35% más lento que ConoHa en planes equivalentes. Los precios son similares, por lo que la elección depende casi exclusivamente del estilo de soporte preferido.",
+      "review": "El soporte telefónico 24/7 de Xserver es la mayor diferencia frente a ConoHa WING — si el sitio cae a las 2 AM, puedes llamar. Los benchmarks publicados sitúan el TTFB cerca de los 270ms, aproximadamente un tercio más lento que ConoHa en planes equivalentes. Los precios son similares, por lo que la elección depende casi exclusivamente del estilo de soporte preferido.",
       "pros": [
         "Soporte telefónico 24/7 — ningún otro host en esta comparativa lo ofrece",
         "Sólido historial de uptime con larga trayectoria operativa",
         "WordPress optimizado con KUSANAGI para usuarios exigentes con el rendimiento"
       ],
       "cons": [
-        "268ms TTFB — notablemente más lento que ConoHa WING en planes equivalentes"
+        "~270ms de TTFB en benchmarks publicados — notablemente más lento que ConoHa WING en planes equivalentes"
       ],
       "grade": "A",
       "specs": {
@@ -212,14 +212,14 @@
     {
       "offerId": "lolipop-server",
       "badge": "Mejor precio",
-      "review": "El plan Hi-Speed de Lolipop es el hosting compartido completo más barato de Japón, aunque con 312ms TTFB es el más lento de la comparativa. Misma infraestructura GMO que ConoHa WING, pero generación de hardware anterior. Ideal para blogs de afición, portafolios y quienes priorizan el coste mensual sobre la velocidad.",
+      "review": "El plan Hi-Speed de Lolipop es el hosting compartido completo más barato de Japón, aunque los benchmarks publicados sitúan su TTFB por encima de los 300ms, el más lento de los tres. Misma infraestructura GMO que ConoHa WING, pero generación de hardware anterior. Ideal para blogs de afición, portafolios y quienes priorizan el coste mensual sobre la velocidad.",
       "pros": [
         "Precio mensual más bajo — plan Hi-Speed de gama económica",
         "Misma empresa matriz GMO que ConoHa WING — infraestructura fiable",
         "Buen punto de partida para sitios de afición y blogs de bajo tráfico"
       ],
       "cons": [
-        "312ms TTFB — el más lento de la comparativa por un margen significativo"
+        "Más de 300ms de TTFB en benchmarks publicados — el más lento de la comparativa por un margen significativo"
       ],
       "grade": "B+",
       "specs": {

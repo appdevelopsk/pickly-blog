@@ -32,7 +32,7 @@
   ],
   "sections": [
     {
-      "heading": "CRI, color temperature, and why watt ratings mislead",
+      "heading": "CRI, color température, and why watt ratings mislead",
       "paragraphs": [
         "CRI — Color Rendering Index — is the single most important specification for a light intended for video, photography, or any application where skin tone accuracy matters. CRI measures how accurately a light source reproduces colors relative to natural sunlight on a scale from 0 to 100. CRI 80 is acceptable for general room lighting. CRI 90 produces noticeably better skin tone reproduction in video — the difference between a face that looks flat and gray on camera versus one that looks warm and dimensional. CRI 95+ is the professional threshold — at CRI 95, the individual LED channels are calibrated tightly enough that red tones in skin, fabric, and product shots are reproduced without the green or magenta cast that plagues cheaper LED panels. All five lights in this comparison claim CRI 90 or above, but the honest numbers diverge: Elgato Ring Light and Lume Cube Panel Mini are independently verified at CRI 95+; Neewer 20-inch and Godox LC500R are manufacturer-stated at CRI 95; the Umtele 10-inch is CRI 90 by manufacturer spec and likely accurate to within 3–5 points.",
         "Color temperature range determines how flexibly you can adapt the light to different shooting contexts. A daylight-balanced camera with natural window light requires a light at 5500K–6500K to avoid a warm cast from mixing with incandescent-temperature LED sources. A warm interview setup with tungsten-balance camera settings requires a light at 2700K–3200K. The Elgato Ring Light at 2900K–7000K has the widest range in this comparison — it handles both contexts without color cast blending issues. The Godox LC500R at 3300K–8000K extends into the 'cool daylight plus' range useful for product photography with a blue-tone aesthetic. The Neewer 20-inch at 3200K–5600K covers standard photography range but cannot achieve the warmth for true tungsten-tone setups. The Umtele 10-inch at 3000K–6000K is adequate for most video call and portrait use cases.",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "heading": "Real-world use: streaming, video calls, photography, and content creation",
+      "heading": "Real-world use: streaming, video calls, photography, and content création",
       "paragraphs": [
         "For dedicated streaming setups where the light is part of a broader production environment with Stream Deck control and multiple audio/video sources, the Elgato Ring Light is the right choice. The Stream Deck app integration allows changing brightness and color temperature via physical button press or custom macro without touching the light or opening a phone app — critical during a live stream when you cannot break your on-screen presence to adjust lighting. The built-in diffuser produces soft-box quality light rather than a harsh ring pattern at the distances typical for streaming cameras (50–80 cm). The 40 cm diameter ring produces a clean circular catchlight without the excessive size that makes the ring obvious in tight facial shots.",
         "For video calls from a home office, the primary need is consistent, flattering frontal fill that matches the color temperature of ambient room light. The Lume Cube Panel Mini excels here — its compact 11×11 cm panel clips directly to a laptop lid or monitor, requires no desk space, and its 95+ CRI at adjustable color temperature from 3200K to 5600K produces flattering skin tones without the color cast that makes some LED lights look clinical. The panel is bright enough to provide visible fill in well-lit home offices (approximately 400–600 lux at 50 cm) and travels easily for hotel room calls. The limitation: it provides limited output for large rooms or for subjects beyond 80 cm.",
@@ -179,7 +179,7 @@
       "review": "The Godox LC500R is the professional RGB tube light in this comparison — full 0–360° hue range with CRI 95+ in white mode and app-controlled scene library. The 500 mm tube form factor mounts vertically or horizontally via standard 5/8-inch spigot, making it compatible with most light stand and production hardware. The Godox Light app provides color recipe saving, scene selection (pulse, storm, fire, candle), and precise RGBWW control. CRI 95+ in white mode means color accuracy is maintained at the professional threshold even when using white-balance color temperatures in the 3300K–8000K range. Honest weaknesses: the tube requires an external stand or mounting hardware; there is no internal battery and no direct battery adapter integration (V-mount requires a separate adapter plate); the RGB mode draws approximately 18W, reducing per-scene running time on battery rigs.",
       "pros": [
         "Full 0–360° hue RGB spectrum with CRI 95+ in white mode",
-        "App-controlled scene library: pulse, fire, storm, candle, and custom RGBWW recipes",
+        "App-controlled scène library: pulse, fire, storm, candle, and custom RGBWW recipes",
         "3300K–8000K white range — extends to the cool daylight-plus range for product shots",
         "Standard 5/8-inch spigot for compatibility with most light stands"
       ],
@@ -211,7 +211,7 @@
       "pros": [
         "Complete starter kit at approximately $29 — ring, stand, phone mount included",
         "Suitable for portrait and video call use at 50–80 cm subject distance",
-        "3-mode color temperature (warm/natural/cool) covers basic use cases",
+        "3-mode color température (warm/natural/cool) covers basic use cases",
         "Compact 26 cm diameter for small desk setups"
       ],
       "cons": [
@@ -221,7 +221,7 @@
       "specs": {
         "Diameter": "26 cm (10 inches)",
         "CRI Rating": "90 (manufacturer stated)",
-        "Color Temperature Range": "3000K–6000K (3-mode discrete)",
+        "Color Temperature Range": "3000K–6000K (3-mode discrète)",
         "Max Output": "~500–700 lux at 0.5 m",
         "Dimming": "PWM",
         "RGB": "No (white only)"
@@ -239,8 +239,8 @@
     "ring-light-elgato-ring-light": "Best for streaming — Stream Deck integration, DC flicker-free, 2900K–7000K, CRI 95+. Highest price at $199; cable can lose sync.",
     "ring-light-neewer-20in-led": "Best for photography — 50 cm diameter, 2200–2400 lux at 1 m, 210 cm stand. PWM dimming limits slow-motion video use.",
     "ring-light-lume-cube-panel-mini": "Best for video calls — clips to laptop, CRI 95+, 60-75 min battery. Low output beyond 80 cm; battery needs recharging for long sessions.",
-    "ring-light-godox-lc500r": "Best RGB — full 0–360° hue, CRI 95+ white, app scenes. Requires stand; no internal battery.",
-    "ring-light-umtele-10in": "Best budget starter — complete kit at $29, CRI 90. Discrete 3-mode color temp; PWM dimming; entry-level build."
+    "ring-light-godox-lc500r": "Best RGB — full 0–360° hue, CRI 95+ white, app scènes. Requires stand; no internal battery.",
+    "ring-light-umtele-10in": "Best budget starter — complète kit at $29, CRI 90. Discrète 3-mode color temp; PWM dimming; entry-level build."
   },
   "pinDescription": "Meilleurs Éclairages Annulaires 2026 : 5 modèles. Comparaison d'après les spécifications publiées et des tests indépendants."
 }

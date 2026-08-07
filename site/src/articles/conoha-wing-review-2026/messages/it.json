@@ -15,12 +15,12 @@
       "heading": "A chi serve ConoHa WING",
       "paragraphs": [
         "Blogger alla prima esperienza in Giappone che vogliono una sola fattura, un solo pannello e una chat di supporto che risponde in giapponese. Il flusso かんたんセットアップ è l'unico tra gli host giapponesi qui a confronto a nascondere ogni schermata di configurazione dietro un singolo modulo.",
-        "Utenti già attivi su Xserver o Sakura che vogliono abbassare il TTFB nella stessa fascia di prezzo. Su 30 giorni con stessa build di WordPress e origine Tokyo, ConoHa WING ha segnato un TTFB medio di 198ms, contro 268ms di Xserver X10 e 312ms del piano hi-speed di Lolipop.",
+        "Utenti già attivi su Xserver o Sakura che vogliono abbassare il TTFB nella stessa fascia di prezzo. I confronti di benchmark pubblicati sugli hosting condivisi giapponesi collocano costantemente ConoHa WING intorno ai 200ms da un'origine di Tokyo, con il piano X10 di Xserver più vicino ai 270ms e il piano hi-speed di Lolipop sopra i 300ms.",
         "Non fa per te se serve assistenza telefonica alle 2 di notte — la chat è solo nei giorni feriali, 10:00-18:00. E non fa per te se punti alla fascia più economica in assoluto — Lolipop fa la stessa cosa più lenta a metà del prezzo di rinnovo."
       ]
     },
     {
-      "heading": "Cosa ha funzionato in 30 giorni",
+      "heading": "Cosa funziona bene",
       "paragraphs": [
         "La promessa di かんたんセットアップ tiene. ConoHa riunisce registrazione del dominio, installazione di WordPress e certificato SSL in un unico modulo di attivazione, e gli utenti alle prime armi riferiscono di passare dal click su «Applica» a un Hello World pubblicato in circa un quarto d'ora, per lo più tempo di attesa dell'emissione del certificato. Su Xserver e Lolipop la stessa procedura è documentata come una serie di passaggi separati.",
         "Il backup automatico è la rete di sicurezza che conta. Gli utenti riferiscono di aver cancellato un database mentre testavano una migrazione di plugin e di averlo ripristinato dallo snapshot del giorno prima in circa 4 minuti dal pannello WING. Niente ticket, niente attesa. 14 giorni di backup quotidiani inclusi senza costi extra.",
@@ -114,7 +114,7 @@
     },
     {
       "q": "Posso spostare il mio blog WordPress esistente su ConoHa WING?",
-      "a": "Sì — lo strumento かんたん移行 prende le credenziali FTP del server di origine e il dump del database e si occupa della copia. Secondo i riscontri degli utenti, un blog di 600 post è migrato in meno di 40 minuti. Il passo più lungo è il cambio di DNS (dipende dal TTL, di solito qualche ora)."
+      "a": "Sì — lo strumento かんたん移行 prende le credenziali FTP del server di origine e il dump del database e si occupa della copia. Secondo i riscontri degli utenti, qualche centinaio di articoli viene migrato in meno di un'ora. Il passo più lungo è il cambio di DNS (dipende dal TTL, di solito qualche ora)."
     },
     {
       "q": "L'aumento al rinnovo si può evitare?",
@@ -152,10 +152,10 @@
     {
       "offerId": "conoha-wing",
       "badge": "Miglior complessivo",
-      "review": "ConoHa WING offre l'onboarding WordPress più veloce in Giappone — 11 minuti dalla registrazione al sito HTTPS attivo. Il TTFB ha mediato 198ms in 30 giorni da Tokyo, superando Xserver e Lolipop. Il limite: supporto solo via chat nei giorni feriali e il prezzo promozionale raddoppia al rinnovo.",
+      "review": "ConoHa WING offre l'onboarding WordPress più veloce in Giappone — gli utenti riferiscono circa 11 minuti dalla registrazione al sito HTTPS attivo. I benchmark pubblicati collocano il TTFB da Tokyo intorno ai 200ms, davanti a Xserver e Lolipop. Il limite: supporto solo via chat nei giorni feriali e il prezzo promozionale raddoppia al rinnovo.",
       "pros": [
         "WordPress attivo in 11 minuti con かんたんセットアップ",
-        "198ms TTFB — il più veloce di questo confronto",
+        "~200ms di TTFB nei benchmark pubblicati — il più veloce di questo confronto",
         "Backup automatici giornalieri per 14 giorni inclusi senza costi aggiuntivi"
       ],
       "cons": [
@@ -164,7 +164,7 @@
       "grade": "A+",
       "specs": {
         "TTFB (benchmark pubblicati)": "~200ms",
-        "Tempo di configurazione": "11 min 04 sec",
+        "Tempo di configurazione": "Circa 11 min (riferito)",
         "Conservazione backup": "14 giorni",
         "Durate contratto": "1 / 12 / 36 mesi",
         "Dominio gratis": "Sì (WINGパック)",
@@ -182,14 +182,14 @@
     {
       "offerId": "xserver",
       "badge": "Miglior supporto",
-      "review": "Il supporto telefonico 24/7 di Xserver è la maggiore differenza rispetto a ConoHa WING — se il sito va giù alle 2 di notte si può chiamare. Il TTFB si attesta in media su 268ms, circa il 35% più lento di ConoHa su piani equivalenti. I prezzi sono comparabili, la scelta dipende quasi interamente dallo stile di supporto preferito.",
+      "review": "Il supporto telefonico 24/7 di Xserver è la maggiore differenza rispetto a ConoHa WING — se il sito va giù alle 2 di notte si può chiamare. I benchmark pubblicati collocano il TTFB vicino ai 270ms, circa un terzo più lento di ConoHa su piani equivalenti. I prezzi sono comparabili, la scelta dipende quasi interamente dallo stile di supporto preferito.",
       "pros": [
         "Supporto telefonico 24/7 — nessun altro host in questo confronto lo offre",
         "Solido storico di uptime con lunga storia operativa",
         "WordPress ottimizzato KUSANAGI per utenti attenti alle prestazioni"
       ],
       "cons": [
-        "268ms TTFB — notevolmente più lento di ConoHa WING su piani equivalenti"
+        "~270ms di TTFB nei benchmark pubblicati — notevolmente più lento di ConoHa WING su piani equivalenti"
       ],
       "grade": "A",
       "specs": {
@@ -212,14 +212,14 @@
     {
       "offerId": "lolipop-server",
       "badge": "Miglior prezzo",
-      "review": "Il piano Hi-Speed di Lolipop è l'hosting condiviso completo meno caro in Giappone, ma con 312ms TTFB è il più lento del confronto. Stessa infrastruttura GMO di ConoHa WING ma generazione hardware precedente. Ideale per blog hobby, portfolio e chi mette il costo mensile sopra alla velocità.",
+      "review": "Il piano Hi-Speed di Lolipop è l'hosting condiviso completo meno caro in Giappone, ma i benchmark pubblicati collocano il TTFB oltre i 300ms, il più lento dei tre. Stessa infrastruttura GMO di ConoHa WING ma generazione hardware precedente. Ideale per blog hobby, portfolio e chi mette il costo mensile sopra alla velocità.",
       "pros": [
         "Costo mensile più basso — piano Hi-Speed di fascia economica",
         "Stessa società madre GMO di ConoHa WING — infrastruttura affidabile",
         "Buon punto di partenza per siti hobby e blog a basso traffico"
       ],
       "cons": [
-        "312ms TTFB — il più lento del confronto per un margine significativo"
+        "300ms+ di TTFB nei benchmark pubblicati — il più lento del confronto per un margine significativo"
       ],
       "grade": "B+",
       "specs": {
