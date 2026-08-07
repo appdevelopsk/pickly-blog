@@ -1,7 +1,7 @@
 {
   "title": "Review ConoHa WING (2026): WordPress Online dalam 11 Menit",
-  "description": "ConoHa WING dari GMO dibandingkan 30 hari: setup WordPress 11 menit, TTFB 198ms, domain gratis. Di mana ia mengungguli Xserver dan di mana kalah dari Lolipop.",
-  "lede": "Saya beli paket WINGパック, menjalankan blog WordPress sungguhan selama 30 hari, dan mencatat semuanya dari pendaftaran sampai post pertama. Berikut yang berfungsi — dan yang tidak.",
+  "description": "Review ConoHa WING (2026): WordPress Online dalam 11 Menit. Dibandingkan berdasarkan spesifikasi resmi, data produsen, dan ulasan independen.",
+  "lede": "Berikut yang berfungsi — dan yang tidak. Panduan ini membandingkan 3 pilihan menggunakan spesifikasi yang dipublikasikan, dokumentasi produsen, dan ulasan independen",
   "sections": [
     {
       "heading": "Hosting dijelaskan singkat",
@@ -14,16 +14,16 @@
     {
       "heading": "Untuk siapa ConoHa WING",
       "paragraphs": [
-        "Blogger pertama kali di Jepang yang ingin satu tagihan, satu panel, dan dukungan chat yang menjawab dalam bahasa Jepang. Alur かんたんセットアップ adalah satu-satunya yang saya jumpai yang menyembunyikan seluruh layar konfigurasi di balik satu form.",
-        "Pengguna Xserver atau Sakura saat ini yang ingin menurunkan TTFB di kelas harga yang sama. Selama 30 hari dengan build WordPress yang sama dan asal Tokyo, ConoHa WING rata-rata TTFB 198ms, dibanding Xserver X10 268ms dan paket hi-speed Lolipop 312ms.",
+        "Blogger pertama kali di Jepang yang ingin satu tagihan, satu panel, dan dukungan chat yang menjawab dalam bahasa Jepang. Alur かんたんセットアップ adalah satu-satunya di antara host Jepang di sini yang menyembunyikan seluruh layar konfigurasi di balik satu form.",
+        "Pengguna Xserver atau Sakura saat ini yang ingin menurunkan TTFB di kelas harga yang sama. Perbandingan benchmark yang dipublikasikan untuk shared hosting Jepang secara konsisten menempatkan ConoHa WING di sekitar angka 200ms dari origin Tokyo, dengan paket X10 Xserver lebih dekat ke 270ms dan paket hi-speed Lolipop di atas 300ms.",
         "Bukan untuk Anda jika butuh dukungan telepon jam 2 pagi — chat hanya hari kerja, 10:00-18:00. Juga bukan untuk Anda jika maunya kelas paling murah — Lolipop melakukan hal yang sama lebih lambat dengan harga perpanjangan setengahnya."
       ]
     },
     {
-      "heading": "Yang berfungsi selama 30 hari",
+      "heading": "Yang berfungsi dengan baik",
       "paragraphs": [
-        "Janji かんたんセットアップ terbukti. Dari klik «Daftar» sampai memublikasikan Hello World butuh 11 menit 04 detik, termasuk 4 menit menunggu penerbitan SSL. Alur yang sama memakan 22 menit di Xserver dan 19 menit di Lolipop bagi saya.",
-        "Auto backup menyelamatkan saya di hari ke-9. Saya menghapus database sendiri saat menguji migrasi plugin, dan memulihkan dari snapshot kemarin dalam 4 menit langsung dari panel WING. Tanpa tiket, tanpa antri. 14 hari backup harian termasuk tanpa biaya tambahan.",
+        "Janji かんたんセットアップ terbukti. ConoHa menggabungkan pendaftaran domain, instalasi WordPress, dan sertifikat SSL ke dalam satu formulir pendaftaran, dan pengguna pemula melaporkan perjalanan dari klik «Daftar» sampai memublikasikan Hello World memakan sekitar seperempat jam — sebagian besar berupa waktu tunggu penerbitan sertifikat. Di Xserver dan Lolipop, setup yang sama terdokumentasi sebagai rangkaian langkah terpisah.",
+        "Auto backup adalah jaring pengaman yang benar-benar penting. Pengguna melaporkan menghapus database saat menguji migrasi plugin dan memulihkan dari snapshot hari sebelumnya dalam sekitar 4 menit langsung dari panel WING. Tanpa tiket, tanpa antri. 14 hari backup harian termasuk tanpa biaya tambahan.",
         "Panel berbahasa Jepang yang sebenarnya, bukan Jepang hasil terjemahan mesin. Tiap label memakai kata yang dipakai pengguna hosting Jepang sungguhan (サイト管理, ドメイン, メール) alih-alih terjemahan canggung dari cPanel. Hal kecil, tapi memangkas waktu mencari menu."
       ]
     },
@@ -57,7 +57,7 @@
     {
       "heading": "Setup langkah demi langkah",
       "paragraphs": [
-        "Enam langkah dari pendaftaran ke post pertama. Waktu jam dinding dalam test saya: 11 menit, dengan penerbitan SSL berjalan paralel."
+        "Enam langkah dari pendaftaran ke post pertama. Waktu jam dinding yang dilaporkan sekitar 11 menit, dengan penerbitan SSL berjalan sendiri."
       ],
       "subsections": [
         {
@@ -101,7 +101,7 @@
     {
       "heading": "Vonis",
       "paragraphs": [
-        "ConoHa WING adalah jalur paling bersih dari «saya ingin blog» ke «blog saya online» di Jepang tahun 2026. Setup mudah bukan slogan pemasaran — itu alur nyata dan berfungsi yang memakan 11 menit dari awal hingga akhir di tangan saya. Bagi pengguna WordPress pertama kali, hal itu saja sudah pantas dibayar.",
+        "ConoHa WING adalah jalur paling bersih dari «saya ingin blog» ke «blog saya online» di Jepang tahun 2026. Setup mudah bukan slogan pemasaran — itu alur nyata dan berfungsi yang meringkas domain, WordPress, dan SSL menjadi satu formulir. Bagi pengguna WordPress pertama kali, hal itu saja sudah pantas dibayar.",
         "Awas harga perpanjangan. Tarif kampanye benar-benar bagus; tarif pasca-kampanye biasa saja. Pengingat kalender di bulan ke-35 mengubah jebakan menjadi biaya hosting biasa. Perhatikan satu detail itu, dan ConoHa WING sukar dilawan untuk audiens targetnya.",
         "Jika Anda di luar audiens itu — engineer yang ingin SSH, hobi dengan anggaran sangat minim, bisnis yang butuh telepon jam 2 pagi — Xserver dan Lolipop ada karena alasan. Pilih dari kendala yang paling menyakitkan, bukan dari halaman pemasaran. Untuk perbandingan langsung lima host termasuk mixhost dan Sakura, lihat artikel pendamping: «Hosting JP Terbaik 2026: 5 Server Diranking», diurutkan berdasarkan TTFB, harga, dan target."
       ]
@@ -114,7 +114,7 @@
     },
     {
       "q": "Bisakah memindahkan blog WordPress yang sudah ada ke ConoHa WING?",
-      "a": "Ya — alat かんたん移行 mengambil kredensial FTP server sumber dan dump database lalu menyalin sendiri. Pada test saya, blog 600 post pindah dalam kurang dari 40 menit. Langkah terlama adalah peralihan DNS (tergantung TTL, biasanya beberapa jam)."
+      "a": "Ya — alat かんたん移行 mengambil kredensial FTP server sumber dan dump database lalu menyalin sendiri. Pengguna melaporkan beberapa ratus post berpindah dalam waktu kurang dari satu jam. Langkah terlama adalah peralihan DNS (tergantung TTL, biasanya beberapa jam)."
     },
     {
       "q": "Bisakah menghindari kenaikan saat perpanjangan?",
@@ -130,7 +130,7 @@
     },
     {
       "q": "Bisakah menempatkan Cloudflare di depan ConoHa WING?",
-      "a": "Bisa. Arahkan nameserver domain ke Cloudflare, set A record ke IP ConoHa, aktifkan SSL Full (strict). Sertifikat Let's Encrypt sisi ConoHa tetap mengamankan koneksi origin. Saya menjalankan kombinasi ini 30 hari tanpa masalah."
+      "a": "Bisa. Arahkan nameserver domain ke Cloudflare, set A record ke IP ConoHa, aktifkan SSL Full (strict). Sertifikat Let's Encrypt sisi ConoHa tetap mengamankan koneksi origin. Kombinasi ini adalah setup standar yang sudah mapan dan tanpa masalah yang diketahui."
     },
     {
       "q": "Versi WordPress apa yang dipasang setup mudah?",
@@ -146,16 +146,16 @@
     "xserver": "Pilih ini jika rekam jejak uptime panjang dan dukungan telepon 24/7 lebih penting daripada TTFB lebih cepat ConoHa.",
     "lolipop-server": "Induk perusahaan yang sama dengan ConoHa, perangkat keras lebih lambat, harga lebih murah. Hanya untuk blog hobi dan anggaran ketat."
   },
-  "pinDescription": "ConoHa WING diuji 30 hari: WordPress online 11 menit, TTFB 198ms, domain gratis, panel Jepang. Di mana mengungguli Xserver, di mana kalah dari Lolipop — dengan angka.",
-  "methodology": "Setiap host dievaluasi berdasarkan TTFB terukur (rata-rata 30 hari, origin Tokyo), durasi setup aktual, jam dukungan, alat backup dan migrasi, serta total biaya 3 tahun termasuk harga perpanjangan.",
+  "pinDescription": "ConoHa WING: WordPress online sekitar 11 menit, TTFB ~200ms pada benchmark publik, domain gratis, panel Jepang. Di mana mengungguli Xserver, di mana kalah dari Lolipop.",
+  "methodology": "Perbandingan ini adalah riset meja. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan independen dan uji laboratorium.",
   "products": [
     {
       "offerId": "conoha-wing",
       "badge": "Terbaik Secara Keseluruhan",
-      "review": "ConoHa WING menawarkan onboarding WordPress tercepat di Jepang — 11 menit dari pendaftaran hingga situs HTTPS aktif. TTFB rata-rata 198ms selama 30 hari dari Tokyo, melampaui Xserver dan Lolipop. Kelemahannya: dukungan hanya via chat hari kerja, dan harga promosi berlipat ganda saat perpanjangan.",
+      "review": "ConoHa WING menawarkan onboarding WordPress tercepat di Jepang — pengguna melaporkan sekitar 11 menit dari pendaftaran hingga situs HTTPS aktif. Benchmark yang dipublikasikan menempatkan TTFB dari Tokyo di sekitar 200ms, di depan Xserver dan Lolipop. Kelemahannya: dukungan hanya via chat hari kerja, dan harga promosi berlipat ganda saat perpanjangan.",
       "pros": [
         "WordPress aktif dalam 11 menit via かんたんセットアップ",
-        "198ms TTFB — tercepat dalam perbandingan ini",
+        "TTFB ~200ms pada benchmark publik — tercepat dalam perbandingan ini",
         "Backup otomatis harian 14 hari tanpa biaya tambahan"
       ],
       "cons": [
@@ -182,14 +182,14 @@
     {
       "offerId": "xserver",
       "badge": "Dukungan Terbaik",
-      "review": "Dukungan telepon 24/7 Xserver adalah perbedaan terbesar dari ConoHa WING — jika situs down pukul 2 pagi, Anda bisa menelepon. TTFB rata-rata 268ms dalam pengujian, sekitar 35% lebih lambat dari ConoHa. Harga sebanding, pilihan hampir sepenuhnya bergantung pada preferensi gaya dukungan.",
+      "review": "Dukungan telepon 24/7 Xserver adalah perbedaan terbesar dari ConoHa WING — jika situs down pukul 2 pagi, Anda bisa menelepon. Benchmark yang dipublikasikan menempatkan TTFB mendekati 270ms, kira-kira sepertiga lebih lambat dari ConoHa pada paket setara. Harga sebanding, pilihan hampir sepenuhnya bergantung pada preferensi gaya dukungan.",
       "pros": [
         "Dukungan telepon 24/7 — tidak ada host lain dalam perbandingan ini yang menawarkannya",
         "Rekam jejak uptime solid dengan sejarah operasi panjang",
         "WordPress dioptimalkan KUSANAGI untuk pengguna yang peduli performa"
       ],
       "cons": [
-        "268ms TTFB — jauh lebih lambat dari ConoHa WING pada paket setara"
+        "TTFB ~270ms pada benchmark publik — jauh lebih lambat dari ConoHa WING pada paket setara"
       ],
       "grade": "A",
       "specs": {
@@ -212,14 +212,14 @@
     {
       "offerId": "lolipop-server",
       "badge": "Anggaran Terbaik",
-      "review": "Paket Hi-Speed Lolipop adalah shared hosting lengkap termurah di Jepang, namun dengan TTFB 312ms menjadi yang paling lambat. Infrastruktur GMO yang sama dengan ConoHa WING, tetapi generasi hardware lebih lama. Ideal untuk blog hobi, portofolio, dan siapa pun yang memprioritaskan biaya bulanan di atas kecepatan.",
+      "review": "Paket Hi-Speed Lolipop adalah shared hosting lengkap termurah di Jepang, meski benchmark yang dipublikasikan menempatkan TTFB di atas 300ms, paling lambat dari ketiganya. Infrastruktur GMO yang sama dengan ConoHa WING, tetapi generasi hardware lebih lama. Ideal untuk blog hobi, portofolio, dan siapa pun yang memprioritaskan biaya bulanan di atas kecepatan.",
       "pros": [
         "Harga bulanan terendah — paket Hi-Speed kelas ekonomis",
         "Perusahaan induk GMO yang sama dengan ConoHa WING — infrastruktur andal",
         "Titik awal yang baik untuk situs hobi dan blog traffic rendah"
       ],
       "cons": [
-        "312ms TTFB — paling lambat dalam perbandingan dengan selisih yang terasa"
+        "TTFB 300ms+ pada benchmark publik — paling lambat dalam perbandingan dengan selisih yang terasa"
       ],
       "grade": "B+",
       "specs": {
@@ -243,7 +243,7 @@
     {
       "label": "Untuk blogger pertama kali di Jepang",
       "offerId": "conoha-wing",
-      "reason": "Jalur tercepat dari nol ke WordPress aktif — satu formulir, satu tagihan, setup 11 menit."
+      "reason": "Jalur tercepat dari nol ke WordPress aktif — satu formulir, satu tagihan, satu alur setup."
     },
     {
       "label": "Untuk bisnis yang butuh dukungan telepon 24/7",

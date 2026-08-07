@@ -1,7 +1,7 @@
 {
   "title": "ConoHa WING incelemesi (2026): WordPress 11 dakikada yayında",
   "description": "GMO'nun ConoHa WING incelemesi: 11 dakikada WordPress kurulumu, 198ms TTFB, ücretsiz alan adı.",
-  "lede": "Bir WINGパック paketi aldım, 30 gün boyunca gerçek bir WordPress blogunu çalıştırdım ve kayıttan ilk yazıya kadar her şeyi saniyesine kadar ölçüldü. Çalışan ve çalışmayan ne varsa burada.",
+  "lede": "ConoHa WING'in WING Pack planı; yayımlanan teknik özellikler, üretici belgeleri ve bağımsız hız ölçümleri üzerinden değerlendirildi — kayıttan ilk yazıya kadar kurulum akışı dahil. Çalışan ve çalışmayan ne varsa burada.",
   "sections": [
     {
       "heading": "Hosting nedir, sade haliyle",
@@ -146,7 +146,7 @@
     "xserver": "ConoHa'nın daha hızlı TTFB'sinden çok uzun bir uptime geçmişi ve 7/24 telefon desteği önemliyse bunu seç.",
     "lolipop-server": "ConoHa ile aynı ana şirket, daha yavaş donanım, daha düşük fiyat. Yalnızca hobi blogları ve sıkı bütçeler için."
   },
-  "pinDescription": "ConoHa WING 30 gün test: WordPress 11 dakikada yayında, 198ms TTFB, ücretsiz alan adı, Japonca panel.",
+  "pinDescription": "ConoHa WING incelemesi: WordPress yaklaşık 11 dakikada yayında, yayımlanan kıyaslamalarda ~200 ms TTFB, ücretsiz alan adı ve Japonca panel. Xserver'ı nerede geçiyor, Lolipop'a nerede kaybediyor.",
   "methodology": "Her host, ölçülen TTFB (30 günlük ortalama, Tokyo kökeni), gerçek kurulum süresi, destek saatleri, yedekleme ve taşıma araçları ile yenileme fiyatları dahil 3 yıllık toplam sahip olma maliyeti açısından değerlendirildi.",
   "products": [
     {

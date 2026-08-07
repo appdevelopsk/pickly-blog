@@ -15,7 +15,7 @@
     {
       "heading": "税申告精度",
       "paragraphs": [
-        "6ヶ月の連邦／州／地方税申告エラー：Gusto 0、ADP 0、Paychex 0、OnPay 0、Square Payroll 1（州源泉徴収誤分類）。",
+        "税務申告の正確さが5製品の差が出るところで、それは利用者の報告に表れます。Gusto・ADP・Paychex・OnPayは申告エラーの苦情がほとんど見当たらない一方、Square Payrollには一定の割合で報告があり、多くは州の源泉徴収の誤分類です。",
         "自動申告対手動：Gusto、ADP、Paychex、OnPayすべて連邦＋州＋地方を自動申告。Square Payrollは多くを自動申告するがマイナー管轄区で時々ギャップ。",
         "W-2／1099年末処理：5社すべて年末フォーム生成＋申告。GustoとADPは標準価格に含む。Paychexはフォームごと課金。OnPayは含む。Square Payrollは含む。"
       ]

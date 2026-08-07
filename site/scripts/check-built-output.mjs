@@ -72,7 +72,33 @@ const FABRICATED = {
   "zh-TW": /(我(測試|測量|使用|穿|試)了|我的測試)/g,
 };
 
-const problems = { untaggedAffiliate: [], deadAffiliate: [], emptyTitle: [], wideTitle: [], rawKey: [], doubleBrand: [], fabricated: [] };
+// 一人称を使わない「テスト済み」の主張。<title> と meta description に出る型。
+// 例: hi「5 को 30 दिनों तक परखा」 ru「5 протестированы за 540 дней」
+// これは一人称チェックに掛からないので別に数える。en の <title> は既に直っていて
+// ロケール側だけ古い、という取りこぼしがここで出る。
+const PASSIVE_FAB = {
+  "en": b("tested for \\d+ (?:days|weeks|months)|\\d+ (?:\\w+ )?tested over|after \\d+ (?:days|weeks|months) of testing|on real (?:newborns|babies|dogs|cats|skin)"),
+  "de": /(\d+\s*(?:Tage|Wochen|Monate)\s*(?:im\s*)?getestet|nach \d+ (?:Tagen|Wochen|Monaten) im Test)/gi,
+  "fr": /(testés? (?:pendant|sur) \d+ (?:jours|semaines|mois))/gi,
+  "es": /(probad[oa]s durante \d+ (?:días|semanas|meses))/gi,
+  "it": /(testat[ei] (?:per|in) \d+ (?:giorni|settimane|mesi))/gi,
+  "pt-BR": /(testad[oa]s (?:por|durante) \d+ (?:dias|semanas|meses))/gi,
+  "ru": /(\d+\s*протестирован\w*|протестированы за \d+)/gi,
+  "id": /(diuji selama \d+ (?:hari|minggu|bulan))/gi,
+  "vi": /(thử nghiệm (?:trong )?\d+ (?:ngày|tuần|tháng))/gi,
+  "tr": /(\d+ (?:gün|hafta|ay) test edildi|\d+ (?:gün|hafta) boyunca test)/gi,
+  "ar": /(اختُبرت?\s*(?:لمدة)?\s*\d+\s*(?:يوم|أسبوع|شهر))/g,
+  "hi": /(\d+\s*(?:दिनों|सप्ताह|महीनों)\s*तक\s*(?:परखा|परीक्षण)|को\s*परखा(?:\s*गया)?|का\s*परीक्षण\s*किया)/g,
+  "th": /(ทดสอบ\s*\d+\s*(?:รุ่น|ตัว)|ทดสอบแล้ว|ทดสอบ\s*\d+\s*วัน)/g,
+  "ko": /(\d+\s*(?:일|주|개월)\s*테스트|테스트했?습니다)/g,
+  "ja": /(\d+\s*(?:日|週|か月)(?:間)?\s*テスト|テスト済み)/g,
+  "zh-CN": /(测试\s*\d+\s*(?:天|周|个月)|实测\s*\d+\s*(?:天|款))/g,
+  "zh-TW": /(測試\s*\d+\s*(?:天|週|個月)|實測\s*\d+\s*(?:天|款))/g,
+};
+// 翻訳されずに残った英語の定型。非enページに出ていたら未翻訳。
+const EN_BOILERPLATE = "Compared on published specs, manufacturer data and independent reviews";
+
+const problems = { untaggedAffiliate: [], deadAffiliate: [], emptyTitle: [], wideTitle: [], rawKey: [], doubleBrand: [], fabricated: [], passiveFab: [], enBoilerplate: [] };
 const titlesByPath = new Map();   // ロケールを除いたパス -> Map(locale -> title)
 
 for (const file of pages) {
@@ -102,6 +128,17 @@ for (const file of pages) {
       for (const m of unescapeHtml(text).matchAll(re)) {
         problems.fabricated.push(`${rel}  …${m[0]}…`);
       }
+    }
+    // 一人称を使わない「N日間テストした」型。<title> と meta description を見る。
+    const pre = PASSIVE_FAB[loc];
+    if (pre) {
+      const head = html.slice(0, html.indexOf("</head>") + 7);
+      for (const m of unescapeHtml(head).matchAll(pre)) {
+        problems.passiveFab.push(`${rel}  …${m[0]}…`);
+      }
+    }
+    if (loc !== "en" && html.includes(EN_BOILERPLATE)) {
+      problems.enBoilerplate.push(rel);
     }
   }
 
@@ -147,6 +184,8 @@ const checks = [
   ["<title> にブランドが二重に付いている", problems.doubleBrand],
   ["<title> が全ロケールで同一（metadata が未翻訳）", untranslated],
   ["やっていない一次テストを一人称で主張している", problems.fabricated],
+  ["やっていない一次テストを受動態で主張している（title/meta）", problems.passiveFab],
+  ["非enページに英語の定型文が残っている（未翻訳）", problems.enBoilerplate],
 ];
 
 let failed = 0;
