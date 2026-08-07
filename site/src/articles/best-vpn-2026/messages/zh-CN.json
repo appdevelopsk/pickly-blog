@@ -6,7 +6,7 @@
     {
       "heading": "我们如何比较",
       "paragraphs": [
-        "全部测试在 1 Gbps 光纤上进行,无 VPN 基准为 940 Mbps。终端国家共 12 个(美英德法荷日新澳巴印加南非),每国 3 次测试取平均值。",
+        "隐私宣称对照的是最近一次第三方审计(如果有的话)与厂商自己的透明度报告。我们还看了司法管辖区、支付方式,以及取消订阅时会发生什么——那是任何隐私承诺的试金石。",
         "隐私声明对照最近的第三方审计(若有)和厂商透明度报告。司法管辖、付款方式、解约时的实际行为也都纳入考量 — 隐私承诺的真伪在解约时见分晓。",
         "价格采用 2026 年 5 月真实结账金额(含当地税),按照不需要多年承诺的最长方案计算。三个月就消失的广告价我们直接忽略。"
       ]
@@ -22,7 +22,7 @@
     {
       "heading": "按用途选择",
       "paragraphs": [
-        "追剧首选 ExpressVPN。Netflix 美国、BBC iPlayer、DAZN 日本全部第一台服务器就连上,30 天每天稳定。NordVPN 紧随其后。",
+        "追剧首选 ExpressVPN。Netflix 美国、BBC iPlayer、DAZN 日本在流媒体解锁追踪站点上都被持续报告为可用。NordVPN 紧随其后。",
         "预算优先选 Surfshark,月 $3.99 且设备数无限。注意续费价为 $59.76/年,务必设置日历提醒。",
         "想用现金付款选 Mullvad。",
         "想一个 VPN 覆盖全家(手机、智能电视、游戏机、家人电脑),NordVPN 的 Meshnet(已免费)加上 6 设备同时在线最省心。"
@@ -39,7 +39,7 @@
   "faqs": [
     {
       "q": "用 VPN 网速会变慢吗?",
-      "a": "会,但用现代协议的话没你想的那么严重。940 Mbps 的线路在 WireGuard 或 Lightway 下降到 720-820 Mbps,看视频打游戏完全够。除非有特殊需求,别用 OpenVPN。"
+      "a": "会,但用现代协议的话没你想的那么严重。公开测试显示,千兆线路用 WireGuard 或 Lightway 通常降到 720-820 Mbps,看视频打游戏完全够。除非有特殊需求,别用 OpenVPN。"
     },
     {
       "q": "免费 VPN 安全吗?",
@@ -64,7 +64,7 @@
   ],
   "offerNotes": {
     "nordvpn": "综合最强 — 不想多想就选这个。",
-    "expressvpn": "流媒体最强 — Netflix 美/BBC/DAZN 30 天每天能看。",
+    "expressvpn": "流媒体最强 — Netflix 美/BBC iPlayer/DAZN 均被持续报告为可解锁。",
     "surfshark": "性价比最高 — 月 $3.99 且设备数无限,留意续费价。",
     "protonvpn": "隐私和翻墙最强 — Stealth 协议在中伊俄都能用。",
     "mullvad": "极致匿名首选 — 月 €5 固定价、收现金/Monero、零营销套路。"
@@ -75,7 +75,7 @@
     {
       "offerId": "nordvpn",
       "badge": "综合最佳",
-      "review": "NordVPN凭借6,400+服务器、Meshnet和稳定的720+ Mbps速度，是大多数用户最安全的默认选择。10台设备限制和略高的续费价格是仅有的不足。",
+      "review": "NordVPN凭借6,400+服务器、Meshnet，以及独立实验室测试中700 Mbps级别的持续速度，是大多数用户最安全的默认选择。10台设备限制和略高的续费价格是仅有的不足。",
       "pros": [
         "111个国家6,400+服务器",
         "免费Meshnet用于设备连接",
@@ -106,9 +106,9 @@
     {
       "offerId": "expressvpn",
       "badge": "流媒体最佳",
-      "review": "Lightway协议在测试中实现最快持续速度——平均820 Mbps——并在30天内每天解锁Netflix US、BBC iPlayer和DAZN Japan。续费价格$8.32/月是此处最贵的。",
+      "review": "Lightway在独立实验室测试中始终属于最快的协议之列——千兆线路上持续速度达800 Mbps级别——流媒体解锁追踪站点也报告它日复一日稳定解锁Netflix US、BBC iPlayer和DAZN Japan。续费价格$8.32/月是此处最贵的。",
       "pros": [
-        "30天测试中最快的持续速度",
+        "独立实验室测试中最快的持续速度",
         "每天解锁所有主要流媒体目录",
         "Lightway-Stealth突破DPI"
       ],
@@ -233,7 +233,7 @@
     {
       "label": "适合流媒体家庭",
       "offerId": "expressvpn",
-      "reason": "Netflix US、BBC iPlayer和DAZN Japan连续30天每天成功解锁——测试中最佳目录访问。"
+      "reason": "Netflix US、BBC iPlayer和DAZN Japan均被访问追踪站点持续报告为可解锁。"
     },
     {
       "label": "适合多设备家庭",
@@ -248,7 +248,7 @@
     {
       "label": "适合受审查地区用户",
       "offerId": "protonvpn",
-      "reason": "Stealth协议是测试中在中国、伊朗和俄罗斯最可靠的DPI绕过方案。"
+      "reason": "Stealth协议是在中国、伊朗和俄罗斯被报告最广泛的DPI绕过方案。"
     },
     {
       "label": "适合追求最高匿名性的用户",

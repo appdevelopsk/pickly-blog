@@ -1,12 +1,12 @@
 {
-  "title": "2026 年最佳 VPN：5 款服務 30 天",
-  "description": "2026 年最佳 VPN：5 款服務 30 天。依官方規格、原廠文件與第三方評測比較。",
+  "title": "2026 年最佳 VPN：5 款服務比較",
+  "description": "2026 年究竟哪一款最快、最隱私、最超值——以下是完整比較。",
   "lede": "本文依據官方公布規格、原廠文件與第三方評測比較5款產品",
   "sections": [
     {
       "heading": "我們如何比較",
       "paragraphs": [
-        "全部以 1 Gbps 光纖實測,無 VPN 基準為 940 Mbps。端點 12 國(美英德法荷日星澳巴印加南非),每國 3 次取平均。",
+        "隱私宣稱以最新的第三方稽核報告(若有)與各公司自己的透明度報告交叉比對。我們也檢視了註冊管轄地、付款方式,以及取消訂閱時會發生什麼事——這才是任何隱私承諾的關鍵時刻。",
         "隱私聲明對照最近的第三方稽核(若有)與透明度報告。司法管轄、付款方式、解約後的實際表現也納入評估 — 解約時才見真章。",
         "價格採 2026 年 5 月實際結帳金額(含當地稅),選不需多年綁約的最長方案。三個月就消失的廣告價忽略不計。"
       ]
@@ -22,7 +22,7 @@
     {
       "heading": "依用途挑選",
       "paragraphs": [
-        "追劇首選 ExpressVPN。Netflix 美國、BBC iPlayer、DAZN 日本第一台伺服器就連線成功,連續 30 天穩定。NordVPN 緊接其後。",
+        "追劇首選 ExpressVPN,它解鎖的片庫比其他家更多也更穩定。Netflix 美國、BBC iPlayer、DAZN 日本都被串流解鎖追蹤網站持續回報為可用。NordVPN 緊接其後。",
         "預算為先選 Surfshark,月 $3.99 且裝置數無限。續約價 $59.76/年要記在行事曆。",
         "想付現選 Mullvad。",
         "想一個 VPN 顧整個家(手機、智慧電視、遊戲機、家人筆電),NordVPN 的 Meshnet(免費)加上 6 裝置同時連線最省事。"
@@ -39,7 +39,7 @@
   "faqs": [
     {
       "q": "用 VPN 網速會變慢嗎?",
-      "a": "會,但用現代協議沒想像中嚴重。940 Mbps 在 WireGuard 或 Lightway 下會降到 720-820 Mbps,看影片打遊戲都夠。沒特殊需求別用 OpenVPN。"
+      "a": "會,但用現代協議沒想像中嚴重。公開測試顯示,Gigabit 線路上使用 WireGuard 或 Lightway 通常會降到 720-820 Mbps 區間,看影片打遊戲都夠。沒特殊需求別用 OpenVPN。"
     },
     {
       "q": "免費 VPN 安全嗎?",
@@ -64,7 +64,7 @@
   ],
   "offerNotes": {
     "nordvpn": "整體最佳 — 不想思考就選這個。",
-    "expressvpn": "串流最強 — 三大平台 30 天每天穩定。",
+    "expressvpn": "串流最強 — Netflix 美國、BBC iPlayer、DAZN 都被持續回報為可解鎖。",
     "surfshark": "CP 值最高 — 月 $3.99 裝置無限,留意續約價。",
     "protonvpn": "隱私與翻牆首選 — Stealth 協議在中伊俄都能用。",
     "mullvad": "極致匿名 — 月 €5 固定、收現金/Monero、零行銷話術。"
@@ -75,7 +75,7 @@
     {
       "offerId": "nordvpn",
       "badge": "綜合最佳",
-      "review": "NordVPN憑藉6,400+伺服器、Meshnet和穩定的720+ Mbps速度，是大多數使用者最安全的預設選擇。10台裝置限制和略高的續約價格是唯一不足之處。",
+      "review": "NordVPN憑藉6,400+伺服器、Meshnet，以及獨立實驗室測試中700 Mbps級的持續速度，是大多數使用者最安全的預設選擇。10台裝置限制和略高的續約價格是唯一不足之處。",
       "pros": [
         "111個國家6,400+伺服器",
         "免費Meshnet用於裝置連結",
@@ -106,9 +106,9 @@
     {
       "offerId": "expressvpn",
       "badge": "串流最佳",
-      "review": "Lightway協議在測試中達到最快持續速度——平均820 Mbps——並在30天內每天解鎖Netflix US、BBC iPlayer和DAZN Japan。續約價格$8.32/月是此處最貴的。",
+      "review": "Lightway協議在獨立實驗室測試中一向名列最快之列——Gigabit線路上持續速度達800 Mbps級——串流解鎖追蹤網站也回報它能日復一日穩定解鎖Netflix US、BBC iPlayer和DAZN Japan。續約價格$8.32/月是此處最貴的。",
       "pros": [
-        "30天測試中最快的持續速度",
+        "獨立實驗室測試中持續速度最快",
         "每天解鎖所有主要串流目錄",
         "Lightway-Stealth突破DPI"
       ],
@@ -233,7 +233,7 @@
     {
       "label": "適合串流家庭",
       "offerId": "expressvpn",
-      "reason": "Netflix US、BBC iPlayer和DAZN Japan連續30天每天成功解鎖——測試中最佳目錄存取。"
+      "reason": "解鎖追蹤網站持續回報Netflix US、BBC iPlayer和DAZN Japan均可正常觀看——本次比較中最佳的目錄存取。"
     },
     {
       "label": "適合多裝置家庭",
@@ -248,7 +248,7 @@
     {
       "label": "適合受審查地區使用者",
       "offerId": "protonvpn",
-      "reason": "Stealth協議是測試中在中國、伊朗和俄羅斯最可靠的DPI繞過方案。"
+      "reason": "Stealth協議是在中國、伊朗和俄羅斯最被廣泛回報有效的DPI繞過方案。"
     },
     {
       "label": "適合追求最高匿名性的使用者",
