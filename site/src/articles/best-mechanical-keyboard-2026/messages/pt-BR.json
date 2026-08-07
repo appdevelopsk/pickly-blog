@@ -6,8 +6,8 @@
     {
       "heading": "Como comparamos",
       "paragraphs": [
-        "Não realizamos medições independentes de força de acionamento de switches em condições controladas. Não conduzimos testes de nível de ruído com equipamentos de medição acústica calibrados. Não medimos a taxa de polling nem a latência sem fio com câmeras de alta velocidade ou analisadores de sinal. Testes rigorosos de teclado exigem equipamentos especializados que não podemos reproduzir aqui.",
-        "Em vez disso: revisamos especificações do fabricante e datasheets de switches publicados, especificamente as curvas de força de acionamento publicadas da Gateron para os switches incluídos nas variantes Keychron Q1 Pro e Nuphy Air75 V2, as especificações publicadas da Topre Corporation para o mecanismo eletrostático capacitivo de 45g usado tanto no HHKB Professional Hybrid Type-S quanto no Realforce R3, e as especificações publicadas da Logicool para o mecanismo de tesoura no MX Keys S.",
+        "Não realizamos medições independentes de força de acionamento de switches em condições controladas. Não conduzimos testes de nível de ruído com equipamentos de medição acústica calibrados. Não medimos a taxa de polling nem a latência sem fio com câmeras de alta velocidade ou analisadores de sinal. Testes rigorosos de teclado exigem equipamentos especializados que não são reproduzíveis em uma comparação baseada em pesquisa documental.",
+        "Em vez disso: esta comparação se apoia em especificações do fabricante e datasheets de switches publicados, especificamente as curvas de força de acionamento publicadas da Gateron para os switches incluídos nas variantes Keychron Q1 Pro e Nuphy Air75 V2, as especificações publicadas da Topre Corporation para o mecanismo eletrostático capacitivo de 45g usado tanto no HHKB Professional Hybrid Type-S quanto no Realforce R3, e as especificações publicadas da Logicool para o mecanismo de tesoura no MX Keys S.",
         "Um ponto de enquadramento antes dos produtos: esta comparação abrange duas tecnologias de switch diferentes — mecânico (Keychron Q1 Pro, Nuphy Air75 V2), eletrostático capacitivo (HHKB, Realforce) e tesoura (MX Keys S). Esses não são diretamente comparáveis no mesmo eixo tátil ou acústico."
       ]
     },
@@ -16,7 +16,7 @@
       "paragraphs": [
         "Os switches mecânicos compatíveis com MX — a categoria que cobre Gateron, Cherry, Kailh e os switches do Keychron Q1 Pro e Nuphy Air75 V2 — operam completando fisicamente um circuito elétrico quando um haste pressiona uma mola até um ponto de contato. Switches lineares não têm bump tátil ou clique audível. Switches táteis produzem um bump físico no ponto de acionamento. Switches clicky produzem tanto um bump tátil quanto um clique audível.",
         "Os switches eletrostáticos capacitivos Topre — usados tanto no HHKB Professional Hybrid Type-S quanto no Realforce R3 — operam com um mecanismo completamente diferente. Uma cúpula de borracha cônica sobre uma mola e um sensor capacitivo; quando você pressiona a tecla, a cúpula comprime, a mola se deforma e a mudança na capacitância é registrada como um pressionamento de tecla sem contato físico metal a metal.",
-        "Os switches de tesoura — usados no Logicool MX Keys S — não são teclados mecânicos no sentido tradicional do hobby. O MX Keys S está incluído nesta comparação porque serve ao mesmo caso de uso de 'teclado de escritório de uso diário', mas somos explícitos: não é um teclado mecânico."
+        "Os switches de tesoura — usados no Logicool MX Keys S — não são teclados mecânicos no sentido tradicional do hobby. O MX Keys S está incluído nesta comparação porque serve ao mesmo caso de uso de 'teclado de escritório de uso diário', mas o rótulo merece ser dito com todas as letras: não é um teclado mecânico."
       ]
     },
     {
@@ -114,6 +114,6 @@
     "nuphy-air75-v2": "Nuphy Air75 V2 — montura gasket ultra-slim 75%, switches mecânicos de perfil baixo, Bluetooth 5.1 e 2.4GHz sem fio, chassi de alumínio, sockets hot-swap compatíveis com MX de perfil baixo, de entrada. Switches de perfil baixo com ~2,5–3mm de curso dividem a opinião dos usuários.",
     "realforce-r3": "Realforce R3 — mecanismo eletrostático capacitivo Topre, variantes de tamanho completo (104 teclas) e TKL (87 teclas), cambiador de ponto de acionamento (APC) ajustável de 1,5mm a 3mm, fabricado no Japão pela Topre Corporation, topo de linha para tamanho completo."
   },
-  "pinDescription": "5 teclados comparados para home office 2026 — Keychron Q1 Pro montura gasket sem fio vs HHKB Topre clássico de culto vs Logicool MX Keys S (não mecânico — dizemos isso) vs Nuphy Air75 V2 slim vs Realforce R3 fabricado no Japão. Tipos de switches, layout JIS vs US, verdade sobre latência sem fio.",
+  "pinDescription": "5 teclados comparados para home office 2026 — Keychron Q1 Pro montura gasket sem fio vs HHKB Topre clássico de culto vs Logicool MX Keys S (não mecânico — dito com todas as letras) vs Nuphy Air75 V2 slim vs Realforce R3 fabricado no Japão. Tipos de switches, layout JIS vs US, verdade sobre latência sem fio.",
   "methodology": "Cada produto foi avaliado com base em especificações documentadas, testes de desempenho independentes e relatos verificados de usuários. Atribuímos notas a recursos, desempenho, qualidade de construção, compatibilidade com o ecossistema e custo total de propriedade."
 }

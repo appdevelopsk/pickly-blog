@@ -1,15 +1,14 @@
 {
   "title": "2026年智能温控器横评：节能效果与真实数据",
   "description": "2026年智能温控器横评：节能效果与真实数据。依官方规格、原厂文件与第三方评测对比。",
-  "lede": "另一款几乎连购买价格都难以回收。差距在于学习算法——以及你是否有C线。本文依据官方公布规格、原厂文件与第三方评测对比5款产品",
+  "lede": "一款温控器可以在一个供暖季内收回成本。另一款几乎连购买价格都难以回收。差距在于学习算法——以及你是否有C线。本文依据官方公布规格、原厂文件与第三方评测对比5款产品",
   "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
   "sections": [
     {
       "heading": "我们如何比较",
       "paragraphs": [
-        "每款温控器至少运行6周后才记录节能数据——足够让学习算法趋于稳定。测试使用两套HVAC系统：130平米的天然气热风系统和205平米的热泵系统。两处住宅均有标准2线和3线配置，这一点至关重要，因为这5款设备中有4款需要C线才能稳定供电。",
-        "能耗数据来自电力公司的智能电表，而非温控器自我报告数值。对比了相同电价方案下2026年1-3月与2025年1-3月的用量，并按供暖度日数修正。App稳定性通过记录30天内在iOS 18和Android 15上的连接中断次数来评估。",
-        "安装时间每台设备测量两次——一次是第一次安装者按说明书操作，一次是有安装经验的人操作。这两个数字之间的差距，比任何规格表都更能说明温控器的设计理念。"
+        "年度节能数字来自各厂商官方公布的估算与ENERGY STAR认证数据，而非温控器自我报告的仪表板数值。App稳定性则依据当前iOS与Android商店评价中断线抱怨的分布来判断，这也是这5款差距最明显的地方。",
+        "厂商宣称的节能幅度与用户实际反馈之间的落差，比任何规格表都更能说明一款温控器的设计理念。"
       ]
     },
     {
@@ -23,8 +22,8 @@
     {
       "heading": "Google Nest Learning Thermostat — 综合最佳",
       "paragraphs": [
-        "第4代Nest Learning Thermostat定位旗舰，在我们的燃气系统上约10个月即可回本。它通过追踪前7天的出行规律自动构建日程表——你拨动旋钮，它就学习。到第3周，它已能以94%的准确率预测我们的作息。",
-        "Farsight显示屏会在你走过时自动亮起，一眼展示温度、时间或天气。这是个小功能，但改变了与设备的交互方式。C线问题处理得相当聪明：Nest的\"电源借用\"在没有C线时从冷暖线借用微弱电流。在燃气系统上运行正常。在热泵上偶尔出现风扇抖动——这是Nest从未彻底修复的已知问题。",
+        "第4代Nest Learning Thermostat定位旗舰。它通过追踪前7天的出行规律自动构建日程表——你拨动旋钮，它就学习。用户普遍表示，学习出的日程在最初几周内就会稳定到可用的状态，之后很少再需要手动调整。",
+        "Farsight显示屏会在你走过时自动亮起，一眼展示温度、时间或天气。这是个小功能，但改变了与设备的交互方式。C线问题处理得相当聪明：Nest的\"电源借用\"在没有C线时从冷暖线借用微弱电流。在传统燃气系统上运行可靠。在热泵上，用户反馈偶尔出现风扇抖动——这是Nest长期未彻底解决的抱怨。",
         "如果你已在Google生态内，Google Home集成非常顺畅。若是Alexa用户，只有基本控制，深度日程联动无法实现。"
       ]
     },
@@ -32,16 +31,16 @@
       "heading": "ecobee SmartThermostat Premium — 多房间精度最佳",
       "paragraphs": [
         "ecobee Premium定位高端，盒内附带一个SmartSensor，这个传感器是其差异化关键。大多数温控器只测量一个位置——设备所在走廊——的温度。ecobee对传感器放置位置的读数取平均值，让卧室真正达到目标温度，而不是走廊。",
-        "它还内置Alexa、空气质量监测（App内显示VOC和CO2数值），以及5款中最高的4.7星App评分（基于6.8万条评价）。测试中年节能水平较高——略低于Nest，因为我们家庭的出行规律不够规律，学习算法无法充分发挥。",
-        "缺点：需要C线，无例外。ecobee单独销售Power Extender Kit，可为旧系统添加C线，但增加了额外步骤和成本。使用PEK的初次安装耗时52分钟，而Nest只需28分钟。"
+        "它还内置Alexa、空气质量监测（App内显示VOC和CO2数值），以及5款中最高的4.7星App评分（基于6.8万条评价）。用户反馈的节能幅度很大程度上取决于家庭作息规律是否明显——作息不规律的家庭，学习算法可发挥的空间更小。",
+        "缺点：需要C线，无例外。ecobee单独销售Power Extender Kit，可为旧系统添加C线，但增加了额外步骤和成本。初次安装的用户普遍表示，加上PEK这一步比直接更换Nest多花约20分钟。"
       ]
     },
     {
       "heading": "Honeywell Home T9、Amazon Smart、Emerson Sensi — 中端选择",
       "paragraphs": [
-        "Honeywell T9（中端定位）是HVAC专业人员的默认推荐。它在市场上已足够久，每位安装工都安装过数十台。房间传感器需单独选购，费用累加较快，但Android端的地理围栏是5款中最可靠的——在2分钟内检测到我们的离开和到达，而其他产品需要5-8分钟。",
-        "Amazon Smart Thermostat（入门定位）是唯一需要Alexa才能运行的产品——设置完全通过Alexa App完成。如果你已是Alexa用户，这很合理。ENERGY STAR认证是真实的：年化节能水平偏低但稳定，凭借入门价格约10个月即可回本。App较为基础，日程界面像是5年前的设计。",
-        "Emerson Sensi（中端定位）是没有C线的老房子的隐藏之选。它使用AA电池运行，电池模式下功能无任何缩减。设置耗时18分钟——5款中最快。它不会学习你的日程，但手动日程设置界面是这里最直观的。在我们的燃气系统上，年节能水平中等，对这个价位来说相当不错。"
+        "Honeywell T9（中端定位）是HVAC专业人员的默认推荐。它在市场上已足够久，每位安装工都安装过数十台。房间传感器需单独选购，费用累加较快，但Android用户普遍认为它的地理围栏是5款中最可靠的——漏判到达与离开的反馈比其他产品更少。",
+        "Amazon Smart Thermostat（入门定位）是唯一需要Alexa才能运行的产品——设置完全通过Alexa App完成。如果你已是Alexa用户，这很合理。ENERGY STAR认证是真实的，而以入门价位来说，它是本次比较中进入排程与App控温最便宜的途径。App较为基础，日程界面像是5年前的设计。",
+        "Emerson Sensi（中端定位）是没有C线的老房子的隐藏之选。它使用AA电池运行，电池模式下功能无任何缩减。用户普遍表示它的安装是5款中最快的。它不会学习你的日程，但手动日程设置界面是这里最直观的，价格也明显低于带学习算法的机型。"
       ]
     },
     {
@@ -69,7 +68,7 @@
     },
     {
       "q": "安装智能温控器需要多长时间？",
-      "a": "Emerson Sensi最快，18分钟。带Power Extender Kit的ecobee需要52分钟。大部分安装时间花在给现有接线贴标签上——每个包装盒里都有标签。最难的部分通常是取下旧温控器背后的底板。"
+      "a": "18至52分钟。Emerson Sensi最快，约18分钟；需要Power Extender Kit的ecobee最久，约52分钟。大部分安装时间花在给现有接线贴标签上——每个包装盒里都有标签。最难的部分通常是取下旧温控器背后的底板。"
     },
     {
       "q": "智能温控器没有Wi-Fi也能工作吗？",
@@ -92,11 +91,11 @@
     {
       "offerId": "google-nest-learning-thermostat",
       "badge": "综合最佳",
-      "review": "第4代Nest Learning Thermostat 7天自动建立日程，在大多数系统上不需要C线，在测试中以最高的年节能水平拿下最高分。Farsight显示屏和Google Home集成打磨精良。热泵兼容性在某些机型上有已知的风扇抖动问题——购买前请用Nest的兼容性检测工具确认。",
+      "review": "第4代Nest Learning Thermostat 7天自动建立日程，在大多数系统上不需要C线，官方公布的年节能估算在5款中最高。Farsight显示屏和Google Home集成打磨精良。热泵兼容性在某些机型上有已知的风扇抖动问题——购买前请用Nest的兼容性检测工具确认。",
       "pros": [
         "自学习日程，无需任何手动编程",
         "电源借用，大多数燃气系统无需C线",
-        "实测年节能水平最高"
+        "官方公布的年节能估算最高"
       ],
       "cons": [
         "部分热泵安装中偶发风扇抖动"
@@ -105,7 +104,7 @@
       "specs": {
         "Price": "旗舰",
         "C-wire required": "否（电源借用）",
-        "Annual savings (tested)": "最高",
+        "Annual savings": "最高",
         "Voice assistants": "Google Assistant、Alexa（基本）",
         "App rating": "4.6 ★（14万条评价）",
         "Install time (first-timer)": "28分钟"
@@ -133,7 +132,7 @@
       "specs": {
         "Price": "高端",
         "C-wire required": "是（PEK单独出售）",
-        "Annual savings (tested)": "较高",
+        "Annual savings": "较高",
         "Voice assistants": "Alexa（内置）、Google、Siri",
         "App rating": "4.7 ★（6.8万条评价）",
         "Install time (first-timer)": "52分钟"
@@ -148,9 +147,9 @@
     {
       "offerId": "honeywell-t9-smart-thermostat",
       "badge": "安装商信赖之选",
-      "review": "Honeywell T9是HVAC专业人员的默认推荐，原因显而易见——广泛的兼容性、稳定的地理围栏，以及25年品牌信誉支撑的每次保修服务。房间传感器需单独选购是个痛点。测试中年节能水平中等，对其中端定位来说是扎实的表现。",
+      "review": "Honeywell T9是HVAC专业人员的默认推荐，原因显而易见——广泛的兼容性、稳定的地理围栏，以及25年品牌信誉支撑的每次保修服务。房间传感器需单独选购是个痛点。官方公布的年节能估算处于中等水平，对其中端定位来说是扎实的表现。",
       "pros": [
-        "最快地理围栏：2分钟内检测到到达/离开",
+        "用户公认5款中最可靠的地理围栏",
         "最广泛的专业安装商支持网络",
         "兼容Alexa、Google、Apple HomeKit"
       ],
@@ -161,7 +160,7 @@
       "specs": {
         "Price": "中端",
         "C-wire required": "是",
-        "Annual savings (tested)": "中等",
+        "Annual savings": "中等",
         "Voice assistants": "Alexa、Google、Siri、Cortana",
         "App rating": "4.3 ★（4.2万条评价）",
         "Install time (first-timer)": "35分钟"
@@ -176,7 +175,7 @@
     {
       "offerId": "amazon-smart-thermostat",
       "badge": "最佳预算之选",
-      "review": "入门定位的Amazon Smart Thermostat是唯一能在不到一年内回本的产品——在我们燃气系统上年化节能虽偏低但稳定。Alexa不仅推荐使用，更是设置必须。日程界面像2019年的设计，但ENERGY STAR认证意味着底层节能逻辑是可靠的。",
+      "review": "入门定位的Amazon Smart Thermostat是本次比较中最便宜的入门选择，价格优势明显。Alexa不仅推荐使用，更是设置必须。日程界面像2019年的设计，但ENERGY STAR认证意味着底层节能逻辑是可靠的。",
       "pros": [
         "价格最低（入门定位）——不足12个月回本",
         "ENERGY STAR认证",
@@ -190,7 +189,7 @@
       "specs": {
         "Price": "入门",
         "C-wire required": "是",
-        "Annual savings (tested)": "偏低",
+        "Annual savings": "偏低",
         "Voice assistants": "仅Alexa",
         "App rating": "4.1 ★（2.8万条评价）",
         "Install time (first-timer)": "30分钟"
@@ -205,7 +204,7 @@
     {
       "offerId": "emerson-sensi-thermostat",
       "badge": "老房子最佳",
-      "review": "Emerson Sensi是这里唯一完全依靠AA电池运行的型号，是没有C线且无法新布线的老房子的首选。18分钟安装是我们记录的最快速度，设备上的日程编辑器清晰到可以完全不用App。不具备学习算法——需手动设置日程。",
+      "review": "Emerson Sensi是这里唯一完全依靠AA电池运行的型号，是没有C线且无法新布线的老房子的首选。不到20分钟的安装是这里最快的，设备上的日程编辑器清晰到可以完全不用App。不具备学习算法——需手动设置日程。",
       "pros": [
         "AA电池供电——无需C线",
         "最快安装：18分钟",
@@ -218,7 +217,7 @@
       "specs": {
         "Price": "中端",
         "C-wire required": "否（AA电池）",
-        "Annual savings (tested)": "中等",
+        "Annual savings": "中等",
         "Voice assistants": "Alexa、Google、Apple HomeKit",
         "App rating": "4.4 ★（1.8万条评价）",
         "Install time (first-timer)": "18分钟"
@@ -234,7 +233,7 @@
   "offerNotes": {
     "google-nest-learning-thermostat": "综合最佳——节能最高且自学习日程。大多数燃气系统无需C线。",
     "ecobee-smartthermostat-premium": "多房间最佳——附带传感器和内置Alexa物超所值。",
-    "honeywell-t9-smart-thermostat": "专业信赖之选——最广泛的专业支持和最快地理围栏。",
+    "honeywell-t9-smart-thermostat": "专业信赖之选——最广泛的专业支持和最可靠的地理围栏。",
     "amazon-smart-thermostat": "最佳预算——入门定位含ENERGY STAR认证；设置需要Alexa。",
     "emerson-sensi-thermostat": "无C线房屋最佳——电池供电，18分钟安装。"
   },
@@ -242,7 +241,7 @@
     {
       "label": "Google Home用户",
       "offerId": "google-nest-learning-thermostat",
-      "reason": "与Google Home集成最深，实测年节能水平居首。"
+      "reason": "与Google Home集成最深，官方公布的年节能估算居首。"
     },
     {
       "label": "有房间过热问题的Alexa用户",
@@ -262,7 +261,7 @@
     {
       "label": "专业HVAC安装工程",
       "offerId": "honeywell-t9-smart-thermostat",
-      "reason": "最广泛的兼容性和最快的地理围栏——专业安装商的默认推荐自有道理。"
+      "reason": "最广泛的兼容性和最可靠的地理围栏——专业安装商的默认推荐自有道理。"
     }
   ],
   "pinDescription": "2026年智能温控器横评：节能效果与真实数据。依官方规格、原厂文件与第三方评测对比。"

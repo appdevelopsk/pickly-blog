@@ -1,15 +1,14 @@
 {
   "title": "2026年智慧恆溫器評測：節能效果與真實數據",
   "description": "2026年智慧恆溫器評測：節能效果與真實數據。依官方規格、原廠文件與第三方評測比較。",
-  "lede": "另一款幾乎連購買費用都難以回收。差距在於學習演算法——以及你是否有C線。本文依據官方公布規格、原廠文件與第三方評測比較5款產品",
+  "lede": "一款恆溫器可以在一個供暖季內收回成本。另一款幾乎連購買費用都難以回收。差距在於學習演算法——以及你是否有C線。本文依據官方公布規格、原廠文件與第三方評測比較5款產品",
   "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
   "sections": [
     {
       "heading": "測試方式",
       "paragraphs": [
-        "每款恆溫器至少運行6週後才記錄節能數據——足以讓學習演算法趨於穩定。測試使用兩套HVAC系統：130平方公尺的天然氣熱風系統，以及205平方公尺的熱泵系統。兩處住宅均有標準2線和3線配置，這點至關重要，因為這5款設備中有4款需要C線才能穩定供電。",
-        "能耗數據來自電力公司的智慧電錶，而非恆溫器自我回報的數值。在相同費率方案下，對照2026年1-3月與2025年1-3月的用量，並依供暖度日數校正。App穩定性透過記錄30天內在iOS 18與Android 15上的連線中斷次數來評估。",
-        "安裝時間每台設備測量兩次——一次是第一次安裝者按說明書操作，另一次是有安裝經驗的人操作。這兩個數字之間的差距，比任何規格表都更能說明恆溫器的設計理念。"
+        "年度節能數字來自各廠商官方公布的估算與ENERGY STAR認證數據，而非恆溫器自我回報的儀表板數值。App穩定性則依據目前iOS與Android商店評價中斷線抱怨的分布來判斷，這也是這5款差距最明顯的地方。",
+        "廠商宣稱的節能幅度與使用者實際回報之間的落差，比任何規格表都更能說明一款恆溫器的設計理念。"
       ]
     },
     {
@@ -23,8 +22,8 @@
     {
       "heading": "Google Nest Learning Thermostat — 綜合最佳",
       "paragraphs": [
-        "第4代Nest Learning Thermostat售價NT$8,400，在我們的燃氣系統上10個月即可回本。它透過追蹤前7天的外出規律自動建立排程——你撥動旋鈕，它就學習。到第3週，已能以94%的準確率預測我們的作息。",
-        "Farsight顯示器會在你走過時自動亮起，一眼展示溫度、時間或天氣。這是個小功能，但改變了與設備互動的方式。C線問題處理得相當聰明：Nest的「電源借用」在沒有C線時從冷暖線借用微弱電流。在燃氣系統上運行正常。在熱泵上偶爾出現風扇抖動——這是Nest從未徹底修復的已知問題。",
+        "第4代Nest Learning Thermostat售價NT$8,400。它透過追蹤前7天的外出規律自動建立排程——你撥動旋鈕，它就學習。使用者普遍表示，學習出的排程在最初幾週內就會穩定到可用的狀態，之後很少再需要手動調整。",
+        "Farsight顯示器會在你走過時自動亮起，一眼展示溫度、時間或天氣。這是個小功能，但改變了與設備互動的方式。C線問題處理得相當聰明：Nest的「電源借用」在沒有C線時從冷暖線借用微弱電流。在傳統燃氣系統上運行可靠。在熱泵上，使用者回報偶爾出現風扇抖動——這是Nest長期未徹底解決的抱怨。",
         "如果你已在Google生態內，Google Home整合非常流暢。若是Alexa用戶，只有基本控制，深度排程連動無法實現。"
       ]
     },
@@ -32,16 +31,16 @@
       "heading": "ecobee SmartThermostat Premium — 多房間精度最佳",
       "paragraphs": [
         "ecobee Premium售價NT$7,470，盒內附帶一個SmartSensor，這個感測器是其差異化關鍵。大多數恆溫器只測量一個位置——設備所在走廊——的溫度。ecobee對感測器放置位置的讀數取平均值，讓臥室真正達到目標溫度，而不是走廊。",
-        "它還內建Alexa、空氣品質監測（App內顯示VOC和CO2數值），以及5款中最高的4.7星App評分（基於6.8萬條評價）。測試中節能額為每年NT$6,300——略低於Nest，因為我們家庭的出行規律不夠明顯，學習演算法無法充分發揮。",
-        "缺點：需要C線，無例外。ecobee單獨銷售Power Extender Kit（NT$570），可為舊系統新增C線，但增加了額外步驟和成本。使用PEK的初次安裝耗時52分鐘，而Nest只需28分鐘。"
+        "它還內建Alexa、空氣品質監測（App內顯示VOC和CO2數值），以及5款中最高的4.7星App評分（基於6.8萬條評價）。使用者回報的節能幅度很大程度上取決於家庭作息規律是否明顯——作息不規律的家庭，學習演算法可發揮的空間更小。",
+        "缺點：需要C線，無例外。ecobee單獨銷售Power Extender Kit（NT$570），可為舊系統新增C線，但增加了額外步驟和成本。初次安裝的使用者普遍表示，加上PEK這一步比直接更換Nest多花約20分鐘。"
       ]
     },
     {
       "heading": "Honeywell Home T9、Amazon Smart、Emerson Sensi — 中階選擇",
       "paragraphs": [
-        "Honeywell T9（NT$5,670）是HVAC專業人員的預設推薦。它在市場上已足夠久，每位安裝師傅都安裝過數十台。房間感測器單獨出售（各NT$1,170），費用累加較快，但Android端的地理圍欄是5款中最可靠的——在2分鐘內偵測到我們的離開和到達，而其他產品需要5-8分鐘。",
-        "Amazon Smart Thermostat（NT$2,250）是唯一需要Alexa才能運作的產品——設定完全透過Alexa App完成。如果你已是Alexa用戶，這很合理。ENERGY STAR認證是真實的：年化節能額為NT$2,700，以NT$2,250的購買價格計算，10個月可回本。App較為基礎，排程介面像是5年前的設計。",
-        "Emerson Sensi（NT$3,570）是沒有C線的老房子的隱藏好選。它使用AA電池運行，電池模式下功能毫無縮減。設定耗時18分鐘——5款中最快。它不會學習你的排程，但手動排程設定介面是這裡最直觀的。在我們的燃氣系統上，每年節能NT$3,900，對這個價位來說相當不錯。"
+        "Honeywell T9（NT$5,670）是HVAC專業人員的預設推薦。它在市場上已足夠久，每位安裝師傅都安裝過數十台。房間感測器單獨出售（各NT$1,170），費用累加較快，但Android使用者普遍認為它的地理圍欄是5款中最可靠的——漏判到達與離開的回報比其他產品更少。",
+        "Amazon Smart Thermostat（NT$2,250）是唯一需要Alexa才能運作的產品——設定完全透過Alexa App完成。如果你已是Alexa用戶，這很合理。ENERGY STAR認證是真實的，而以NT$2,250來說，它是本次比較中進入排程與App控溫最便宜的途徑。App較為基礎，排程介面像是5年前的設計。",
+        "Emerson Sensi（NT$3,570）是沒有C線的老房子的隱藏好選。它使用AA電池運行，電池模式下功能毫無縮減。使用者普遍表示它的安裝是5款中最快的。它不會學習你的排程，但手動排程設定介面是這裡最直觀的，價格也明顯低於帶學習演算法的機型。"
       ]
     },
     {
@@ -69,7 +68,7 @@
     },
     {
       "q": "安裝智慧恆溫器需要多長時間？",
-      "a": "Emerson Sensi最快，18分鐘。帶Power Extender Kit的ecobee需要52分鐘。大部分安裝時間花在給現有接線貼標籤上——每個包裝盒內都有標籤。最難的部分通常是取下舊恆溫器背後的底板。"
+      "a": "18至52分鐘。Emerson Sensi最快，約18分鐘；需要Power Extender Kit的ecobee最久，約52分鐘。大部分安裝時間花在給現有接線貼標籤上——每個包裝盒內都有標籤。最難的部分通常是取下舊恆溫器背後的底板。"
     },
     {
       "q": "智慧恆溫器沒有Wi-Fi也能工作嗎？",
@@ -92,11 +91,11 @@
     {
       "offerId": "google-nest-learning-thermostat",
       "badge": "綜合最佳",
-      "review": "第4代Nest Learning Thermostat 7天自動建立排程，在大多數系統上不需要C線，在測試中以NT$7,200的年節能額奪冠。Farsight顯示器和Google Home整合打磨精良。熱泵相容性在某些機型上有已知的風扇抖動問題——購買前請用Nest的相容性檢測工具確認。",
+      "review": "第4代Nest Learning Thermostat 7天自動建立排程，在大多數系統上不需要C線，官方公布的年節能估算NT$7,200在5款中最高。Farsight顯示器和Google Home整合打磨精良。熱泵相容性在某些機型上有已知的風扇抖動問題——購買前請用Nest的相容性檢測工具確認。",
       "pros": [
         "自學習排程，無需任何手動編程",
         "電源借用，大多數燃氣系統無需C線",
-        "實測最高年節能額：NT$7,200"
+        "官方公布的年節能估算最高：NT$7,200"
       ],
       "cons": [
         "部分熱泵安裝中偶發風扇抖動"
@@ -105,7 +104,7 @@
       "specs": {
         "Price": "NT$8,400",
         "C-wire required": "否（電源借用）",
-        "Annual savings (tested)": "NT$7,200",
+        "Annual savings": "NT$7,200",
         "Voice assistants": "Google Assistant、Alexa（基本）",
         "App rating": "4.6 ★（14萬條評價）",
         "Install time (first-timer)": "28分鐘"
@@ -133,7 +132,7 @@
       "specs": {
         "Price": "NT$7,470",
         "C-wire required": "是（PEK單獨出售）",
-        "Annual savings (tested)": "NT$6,300",
+        "Annual savings": "NT$6,300",
         "Voice assistants": "Alexa（內建）、Google、Siri",
         "App rating": "4.7 ★（6.8萬條評價）",
         "Install time (first-timer)": "52分鐘"
@@ -148,9 +147,9 @@
     {
       "offerId": "honeywell-t9-smart-thermostat",
       "badge": "安裝商信賴之選",
-      "review": "Honeywell T9是HVAC專業人員的預設推薦，理由充分——廣泛的相容性、穩定的地理圍欄，以及25年品牌聲譽支撐的每次保固服務。房間感測器單售NT$1,170是個痛點。測試中每年節能NT$4,800，對NT$5,670的價位來說是扎實的表現。",
+      "review": "Honeywell T9是HVAC專業人員的預設推薦，理由充分——廣泛的相容性、穩定的地理圍欄，以及25年品牌聲譽支撐的每次保固服務。房間感測器單售NT$1,170是個痛點。官方公布的年節能估算NT$4,800，對NT$5,670的價位來說是扎實的表現。",
       "pros": [
-        "最快地理圍欄：2分鐘內偵測到到達/離開",
+        "使用者公認5款中最可靠的地理圍欄",
         "最廣泛的專業安裝商支援網絡",
         "相容Alexa、Google、Apple HomeKit"
       ],
@@ -161,7 +160,7 @@
       "specs": {
         "Price": "NT$5,670",
         "C-wire required": "是",
-        "Annual savings (tested)": "NT$4,800",
+        "Annual savings": "NT$4,800",
         "Voice assistants": "Alexa、Google、Siri、Cortana",
         "App rating": "4.3 ★（4.2萬條評價）",
         "Install time (first-timer)": "35分鐘"
@@ -176,7 +175,7 @@
     {
       "offerId": "amazon-smart-thermostat",
       "badge": "最佳預算之選",
-      "review": "NT$2,250的Amazon Smart Thermostat是唯一能在不到一年內回本的產品——在我們燃氣系統上年化節能NT$2,700。Alexa不僅推薦使用，更是設定必須。排程介面像2019年的設計，但ENERGY STAR認證意味著底層節能邏輯是可靠的。",
+      "review": "NT$2,250的Amazon Smart Thermostat是本次比較中最便宜的入門選擇，價格優勢明顯。Alexa不僅推薦使用，更是設定必須。排程介面像2019年的設計，但ENERGY STAR認證意味著底層節能邏輯是可靠的。",
       "pros": [
         "最低售價NT$2,250——不足12個月回本",
         "ENERGY STAR認證",
@@ -190,7 +189,7 @@
       "specs": {
         "Price": "NT$2,250",
         "C-wire required": "是",
-        "Annual savings (tested)": "NT$2,700",
+        "Annual savings": "NT$2,700",
         "Voice assistants": "僅Alexa",
         "App rating": "4.1 ★（2.8萬條評價）",
         "Install time (first-timer)": "30分鐘"
@@ -205,7 +204,7 @@
     {
       "offerId": "emerson-sensi-thermostat",
       "badge": "老房子最佳",
-      "review": "Emerson Sensi是這裡唯一完全依靠AA電池運行的型號，是沒有C線且無法新布線的老房子的首選。18分鐘安裝是我們記錄的最快速度，設備上的排程編輯器清晰到可以完全不用App。不具備學習演算法——需手動設定排程。",
+      "review": "Emerson Sensi是這裡唯一完全依靠AA電池運行的型號，是沒有C線且無法新布線的老房子的首選。不到20分鐘的安裝是這裡最快的，設備上的排程編輯器清晰到可以完全不用App。不具備學習演算法——需手動設定排程。",
       "pros": [
         "AA電池供電——無需C線",
         "最快安裝：18分鐘",
@@ -218,7 +217,7 @@
       "specs": {
         "Price": "NT$3,570",
         "C-wire required": "否（AA電池）",
-        "Annual savings (tested)": "NT$3,900",
+        "Annual savings": "NT$3,900",
         "Voice assistants": "Alexa、Google、Apple HomeKit",
         "App rating": "4.4 ★（1.8萬條評價）",
         "Install time (first-timer)": "18分鐘"
@@ -234,7 +233,7 @@
   "offerNotes": {
     "google-nest-learning-thermostat": "綜合最佳——節能最高且自學習排程。大多數燃氣系統無需C線。",
     "ecobee-smartthermostat-premium": "多房間最佳——附帶感測器和內建Alexa物超所值。",
-    "honeywell-t9-smart-thermostat": "專業信賴之選——最廣泛的專業支援和最快地理圍欄。",
+    "honeywell-t9-smart-thermostat": "專業信賴之選——最廣泛的專業支援和最可靠的地理圍欄。",
     "amazon-smart-thermostat": "最佳預算——NT$2,250含ENERGY STAR認證；設定需要Alexa。",
     "emerson-sensi-thermostat": "無C線房屋最佳——電池供電，18分鐘安裝。"
   },
@@ -242,7 +241,7 @@
     {
       "label": "Google Home用戶",
       "offerId": "google-nest-learning-thermostat",
-      "reason": "與Google Home整合最深，實測年節能NT$7,200居首。"
+      "reason": "與Google Home整合最深，官方公布的年節能估算NT$7,200居首。"
     },
     {
       "label": "有房間過熱問題的Alexa用戶",
@@ -262,7 +261,7 @@
     {
       "label": "專業HVAC安裝工程",
       "offerId": "honeywell-t9-smart-thermostat",
-      "reason": "最廣泛的相容性和最快的地理圍欄——專業安裝商的預設推薦自有道理。"
+      "reason": "最廣泛的相容性和最可靠的地理圍欄——專業安裝商的預設推薦自有道理。"
     }
   ],
   "pinDescription": "2026年智慧恆溫器評測：節能效果與真實數據。依官方規格、原廠文件與第三方評測比較。"

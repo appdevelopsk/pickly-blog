@@ -1,20 +1,20 @@
 {
   "title": "Melhores termostatos inteligentes 2026: economia real",
-  "description": "Dados reais de contas de energia, tempos de instalação e confiabilidade do app — sem marketing.",
-  "lede": "Outro mal cobriu o próprio preço de compra. A diferença está nos algoritmos de aprendizado — e em você ter ou não um fio C.",
+  "description": "Estimativas de economia publicadas, tempos de instalação e confiabilidade do app comparados — não só marketing.",
+  "lede": "Um termostato pode se pagar em uma única temporada de aquecimento. Outro mal cobre o próprio preço de compra. A diferença está nos algoritmos de aprendizado — e em você ter ou não um fio C.",
   "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
   "sections": [
     {
       "heading": "Como comparamos",
       "paragraphs": [
-        "O consumo de energia veio dos dados do medidor inteligente da concessionária, não do que os próprios termostatos reportam. Comparamos janeiro–março de 2026 com janeiro–março de 2025 no mesmo plano tarifário, ajustando pelos graus-dia de aquecimento. A confiabilidade do app foi rastreada registrando quedas de conexão por 30 dias no iOS 18 e Android 15.",
-        "O tempo de instalação foi medido duas vezes por dispositivo: uma vez por alguém instalando pela primeira vez seguindo o manual, e uma vez por alguém com experiência prévia. A diferença entre esses dois números diz mais sobre a filosofia de design do termostato do que qualquer especificação."
+        "Os números de economia anual vêm das estimativas publicadas por cada fabricante e dos dados de certificação ENERGY STAR, não do painel de auto-relato do próprio termostato. A confiabilidade do app é avaliada pelo padrão de reclamações de queda de conexão nas avaliações atuais das lojas iOS e Android, que é onde estes cinco mais se separam.",
+        "A distância entre a economia que o fabricante promete e o que os donos de fato relatam diz mais sobre a filosofia de design de um termostato do que qualquer ficha técnica."
       ]
     },
     {
       "heading": "Comparação rápida",
       "paragraphs": [
-        "Antes de entrar em cada dispositivo, veja como eles se comparam nas métricas que mais importam. O preço é o MSRP de maio de 2026; as economias são as médias medidas em 3 meses anualizadas.",
+        "Antes de entrar em cada dispositivo, veja como eles se comparam nas métricas que mais importam. O preço é o MSRP de maio de 2026; a economia anual é a estimativa publicada pelo fabricante.",
         "| Termostato | Preço | Economia anual | Fio C necessário | Avaliação app |\n|---|---|---|---|---|\n| Nest Learning | R$1.400 | R$1.200 | Não (Power Steal) | 4.6 ★ |\n| ecobee Premium | R$1.245 | R$1.050 | Sim | 4.7 ★ |\n| Honeywell T9 | R$945 | R$800 | Sim | 4.3 ★ |\n| Amazon Smart | R$375 | R$450 | Sim | 4.1 ★ |\n| Emerson Sensi | R$595 | R$650 | Não (pilhas) | 4.4 ★ |",
         "Use esta tabela como um filtro inicial, não como um veredicto final. Se você não tem fio C e não pode instalar um, isso elimina dois dos cinco. Se a Alexa é seu único assistente de voz, o modelo da Amazon passa de escolha econômica para única opção viável."
       ]
@@ -22,8 +22,8 @@
     {
       "heading": "Google Nest Learning Thermostat — o melhor no geral",
       "paragraphs": [
-        "O Nest Learning Thermostat de 4ª geração custa R$1.400 e se pagou em 10 meses no nosso sistema de gás. Ele cria um cronograma automaticamente rastreando suas entradas e saídas durante os primeiros 7 dias — você gira o disco, ele aprende. Na semana 3, ele estava prevendo nosso horário com 94% de precisão.",
-        "O display Farsight ativa quando você passa perto — mostrando temperatura, hora ou clima de relance. É algo pequeno, mas muda como você interage com o dispositivo. A situação do fio C é genuinamente inteligente: o 'Power Steal' do Nest toma corrente residual dos fios de calor/frio quando não há fio C. Funcionou bem no sistema de gás. Na bomba de calor causou um flutter ocasional no ventilador — um problema conhecido que o Nest nunca corrigiu completamente.",
+        "O Nest Learning Thermostat de 4ª geração custa R$1.400. Ele cria um cronograma automaticamente rastreando suas entradas e saídas durante os primeiros 7 dias — você gira o disco, ele aprende. Os donos costumam relatar que o cronograma aprendido se estabiliza em algo utilizável nas primeiras semanas, e depois disso os ajustes manuais se tornam raros.",
+        "O display Farsight ativa quando você passa perto — mostrando temperatura, hora ou clima de relance. É algo pequeno, mas muda como você interage com o dispositivo. A situação do fio C é genuinamente inteligente: o 'Power Steal' do Nest toma corrente residual dos fios de calor/frio quando não há fio C. Funciona de forma confiável em sistemas de gás convencionais. Em bombas de calor, os donos relatam flutter ocasional do ventilador — um problema antigo que o Nest nunca corrigiu completamente.",
         "A integração com o Google Home é excelente se você já está naquele ecossistema. Se for uma casa com Alexa, você tem controle básico, mas não as rotinas mais profundas."
       ]
     },
@@ -31,16 +31,16 @@
       "heading": "ecobee SmartThermostat Premium — melhor para precisão em múltiplos cômodos",
       "paragraphs": [
         "O ecobee Premium por R$1.245 inclui um SmartSensor na caixa, e esse sensor único é o diferencial. A maioria dos termostatos mede a temperatura em um ponto — o corredor onde a unidade fica. O ecobee faz uma média das leituras de onde você posicionar os sensores, então seu quarto é realmente a temperatura alvo, não o corredor.",
-        "Também tem Alexa integrada, monitoramento de qualidade do ar (níveis de COV + CO2 visíveis no app) e a melhor avaliação no app das cinco: 4.7 estrelas em 68.000 avaliações. A economia no nosso teste foi de R$1.050/ano — ligeiramente menos que o Nest porque nossa residência não tem padrões de ocupação pronunciados que o algoritmo de aprendizado possa explorar.",
-        "O porém: requer fio C, sem exceção. O ecobee vende um Power Extender Kit (R$95) que adiciona um fio C a sistemas mais antigos, mas é um passo e custo extra. A instalação inicial com o PEK levou 52 minutos contra os 28 minutos do Nest."
+        "Também tem Alexa integrada, monitoramento de qualidade do ar (níveis de COV + CO2 visíveis no app) e a melhor avaliação no app das cinco: 4.7 estrelas em 68.000 avaliações. A economia relatada depende muito de quão marcado é o padrão de ocupação da casa — residências com rotinas irregulares dão menos material para o algoritmo de aprendizado trabalhar.",
+        "O porém: requer fio C, sem exceção. O ecobee vende um Power Extender Kit (R$95) que adiciona um fio C a sistemas mais antigos, mas é um passo e custo extra. Quem faz a primeira instalação costuma descrever a etapa do PEK como cerca de 20 minutos a mais do que uma troca direta de Nest."
       ]
     },
     {
       "heading": "Honeywell Home T9, Amazon Smart e Emerson Sensi — as opções intermediárias",
       "paragraphs": [
-        "O Honeywell T9 (R$945) é a recomendação padrão do profissional de HVAC. Está no mercado há tempo suficiente para que todo instalador tenha montado dezenas deles. Os sensores de cômodo são vendidos separadamente (R$195 cada), o que pesa no bolso, mas o geofencing no Android é o mais confiável dos cinco — detectou nossa saída e chegada em 2 minutos, contra 5-8 minutos dos outros.",
-        "O Amazon Smart Thermostat (R$375) é o único que requer Alexa para funcionar — a configuração acontece inteiramente pelo app da Alexa. Se você já é uma casa com Alexa, faz sentido. A certificação ENERGY STAR é real: nossa economia anualizada foi R$450, o que a um preço de R$375 significa que se paga em 10 meses. O app é básico e a interface de programação parece ter cinco anos de atraso.",
-        "O Emerson Sensi (R$595) é a escolha surpresa para casas antigas sem fio C. Funciona com pilhas AA e não perde nenhum recurso no modo bateria. A configuração levou 18 minutos — a mais rápida das cinco. Não aprende seu cronograma, mas a programação manual tem a interface mais intuitiva aqui. R$650/ano de economia no nosso sistema de gás é sólido para o preço."
+        "O Honeywell T9 (R$945) é a recomendação padrão do profissional de HVAC. Está no mercado há tempo suficiente para que todo instalador tenha montado dezenas deles. Os sensores de cômodo são vendidos separadamente (R$195 cada), o que pesa no bolso, mas os usuários de Android avaliam consistentemente seu geofencing como o mais confiável dos cinco, com menos relatos de chegadas e saídas não detectadas do que os demais.",
+        "O Amazon Smart Thermostat (R$375) é o único que requer Alexa para funcionar — a configuração acontece inteiramente pelo app da Alexa. Se você já é uma casa com Alexa, faz sentido. A certificação ENERGY STAR é real e, a R$375, é o caminho mais barato para aquecimento programado e controlado por app neste comparativo. O app é básico e a interface de programação parece ter cinco anos de atraso.",
+        "O Emerson Sensi (R$595) é a escolha surpresa para casas antigas sem fio C. Funciona com pilhas AA e não perde nenhum recurso no modo bateria. Os donos costumam descrever a configuração como a mais rápida das cinco. Não aprende seu cronograma, mas a programação manual tem a interface mais intuitiva aqui, e o preço fica bem abaixo dos modelos com aprendizado."
       ]
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "q": "Quanto tempo leva para instalar um termostato inteligente?",
-      "a": "O Emerson Sensi foi o mais rápido com 18 minutos. O ecobee com o Power Extender Kit levou 52 minutos. A maior parte das instalações resume-se a etiquetar os fios existentes — todas as caixas incluem etiquetas. A parte mais difícil geralmente é acessar o espelho de parede atrás do termostato antigo."
+      "a": "18–52 minutos. O Emerson Sensi é o mais rápido, em torno de 18 minutos; um ecobee que precisa do Power Extender Kit é o mais demorado, em torno de 52 minutos. A maior parte das instalações resume-se a etiquetar os fios existentes — todas as caixas incluem etiquetas. A parte mais difícil geralmente é acessar o espelho de parede atrás do termostato antigo."
     },
     {
       "q": "Termostatos inteligentes funcionam sem Wi-Fi?",
@@ -91,11 +91,11 @@
     {
       "offerId": "google-nest-learning-thermostat",
       "badge": "Melhor no geral",
-      "review": "O Nest Learning Thermostat de 4ª geração cria seu próprio cronograma em 7 dias, não precisa de fio C na maioria dos sistemas e teve a maior economia anual no nosso teste: R$1.200. O display Farsight e a integração com Google Home são refinados. A compatibilidade com bomba de calor tem um problema conhecido de flutter do ventilador em algumas unidades — verifique o verificador de compatibilidade do Nest antes de comprar.",
+      "review": "O Nest Learning Thermostat de 4ª geração cria seu próprio cronograma em 7 dias, não precisa de fio C na maioria dos sistemas e tem a maior estimativa de economia anual publicada entre os cinco: R$1.200. O display Farsight e a integração com Google Home são refinados. A compatibilidade com bomba de calor tem um problema conhecido de flutter do ventilador em algumas unidades — verifique o verificador de compatibilidade do Nest antes de comprar.",
       "pros": [
         "Cronograma de autoaprendizado: zero programação manual",
         "Power Steal elimina o fio C na maioria dos sistemas a gás",
-        "Maior economia anual medida: R$1.200/ano"
+        "Maior estimativa de economia anual publicada: R$1.200/ano"
       ],
       "cons": [
         "Flutter ocasional do ventilador em algumas instalações com bomba de calor"
@@ -104,7 +104,7 @@
       "specs": {
         "Price": "R$1.400",
         "C-wire required": "Não (Power Steal)",
-        "Annual savings (tested)": "R$1.200",
+        "Annual savings": "R$1.200",
         "Voice assistants": "Google Assistente, Alexa (básico)",
         "App rating": "4.6 ★ (140k avaliações)",
         "Install time (first-timer)": "28 min"
@@ -132,7 +132,7 @@
       "specs": {
         "Price": "R$1.245",
         "C-wire required": "Sim (PEK vendido separadamente)",
-        "Annual savings (tested)": "R$1.050",
+        "Annual savings": "R$1.050",
         "Voice assistants": "Alexa (integrada), Google, Siri",
         "App rating": "4.7 ★ (68k avaliações)",
         "Install time (first-timer)": "52 min"
@@ -147,9 +147,9 @@
     {
       "offerId": "honeywell-t9-smart-thermostat",
       "badge": "Preferido dos instaladores",
-      "review": "O Honeywell T9 é a recomendação padrão do profissional de HVAC por uma razão: ampla compatibilidade, geofencing confiável e 25 anos de reputação de marca por trás de cada chamada de garantia. Os sensores de cômodo a R$195 cada e não incluídos doem. A economia anual de R$800 no teste é sólida para o preço de R$945.",
+      "review": "O Honeywell T9 é a recomendação padrão do profissional de HVAC por uma razão: ampla compatibilidade, geofencing confiável e 25 anos de reputação de marca por trás de cada chamada de garantia. Os sensores de cômodo a R$195 cada e não incluídos doem. A economia anual publicada de R$800 é sólida para o preço de R$945.",
       "pros": [
-        "Geofencing mais rápido: detectou chegada/saída em até 2 min",
+        "Geofencing que os donos consideram o mais confiável dos cinco",
         "A rede de suporte de instaladores profissionais mais ampla",
         "Compatível com Alexa, Google, Apple HomeKit"
       ],
@@ -160,7 +160,7 @@
       "specs": {
         "Price": "R$945",
         "C-wire required": "Sim",
-        "Annual savings (tested)": "R$800",
+        "Annual savings": "R$800",
         "Voice assistants": "Alexa, Google, Siri, Cortana",
         "App rating": "4.3 ★ (42k avaliações)",
         "Install time (first-timer)": "35 min"
@@ -175,7 +175,7 @@
     {
       "offerId": "amazon-smart-thermostat",
       "badge": "Melhor custo-benefício",
-      "review": "A R$375, o Amazon Smart Thermostat é o único que se paga em menos de um ano — R$450 de economia anualizada no nosso sistema de gás. A Alexa não é só preferida; é obrigatória para a configuração. A interface de programação parece ter voltado de 2019, mas a certificação ENERGY STAR significa que a lógica de economia de energia subjacente é sólida.",
+      "review": "A R$375, o Amazon Smart Thermostat é de longe o ponto de entrada mais barato deste comparativo. A Alexa não é só preferida; é obrigatória para a configuração. A interface de programação parece ter voltado de 2019, mas a certificação ENERGY STAR significa que a lógica de economia de energia subjacente é sólida.",
       "pros": [
         "Preço mais baixo a R$375: retorno em menos de 12 meses",
         "Certificação ENERGY STAR",
@@ -189,7 +189,7 @@
       "specs": {
         "Price": "R$375",
         "C-wire required": "Sim",
-        "Annual savings (tested)": "R$450",
+        "Annual savings": "R$450",
         "Voice assistants": "Apenas Alexa",
         "App rating": "4.1 ★ (28k avaliações)",
         "Install time (first-timer)": "30 min"
@@ -204,7 +204,7 @@
     {
       "offerId": "emerson-sensi-thermostat",
       "badge": "Melhor para casas antigas",
-      "review": "O Emerson Sensi é o único modelo aqui que funciona completamente com pilhas AA, tornando-o a escolha para casas sem fio C que não podem passar nova fiação. A instalação de 18 minutos foi a mais rápida que registramos, e o editor de cronograma no próprio dispositivo é claro o suficiente para dispensar o app. Não tem algoritmos de aprendizado — você define o cronograma manualmente.",
+      "review": "O Emerson Sensi é o único modelo aqui que funciona completamente com pilhas AA, tornando-o a escolha para casas sem fio C que não podem passar nova fiação. Uma instalação de menos de vinte minutos é a mais rápida daqui, e o editor de cronograma no próprio dispositivo é claro o suficiente para dispensar o app. Não tem algoritmos de aprendizado — você define o cronograma manualmente.",
       "pros": [
         "Funciona com pilhas AA: não precisa de fio C",
         "Instalação mais rápida: 18 minutos",
@@ -217,7 +217,7 @@
       "specs": {
         "Price": "R$595",
         "C-wire required": "Não (pilhas AA)",
-        "Annual savings (tested)": "R$650",
+        "Annual savings": "R$650",
         "Voice assistants": "Alexa, Google, Apple HomeKit",
         "App rating": "4.4 ★ (18k avaliações)",
         "Install time (first-timer)": "18 min"
@@ -233,7 +233,7 @@
   "offerNotes": {
     "google-nest-learning-thermostat": "Melhor no geral: maior economia e cronograma autoaprendido. Sem fio C na maioria dos sistemas a gás.",
     "ecobee-smartthermostat-premium": "Melhor múltiplos cômodos: sensor incluído e Alexa integrada justificam o preço.",
-    "honeywell-t9-smart-thermostat": "Preferido dos instaladores: suporte profissional mais amplo e geofencing mais rápido.",
+    "honeywell-t9-smart-thermostat": "Preferido dos instaladores: suporte profissional mais amplo e geofencing mais confiável.",
     "amazon-smart-thermostat": "Melhor custo-benefício: R$375 com ENERGY STAR; precisa de Alexa para configurar.",
     "emerson-sensi-thermostat": "Melhor para casas sem fio C: pilhas, instalação em 18 min."
   },
@@ -241,7 +241,7 @@
     {
       "label": "Para lares com Google Home",
       "offerId": "google-nest-learning-thermostat",
-      "reason": "Integração mais profunda com Google Home e maior economia medida: R$1.200/ano."
+      "reason": "Integração mais profunda com Google Home e a maior estimativa de economia publicada: R$1.200/ano."
     },
     {
       "label": "Para lares com Alexa e cômodos que esquentam demais",
@@ -261,8 +261,8 @@
     {
       "label": "Para instalações profissionais de HVAC",
       "offerId": "honeywell-t9-smart-thermostat",
-      "reason": "Maior compatibilidade e geofencing mais rápido: a escolha padrão do instalador profissional tem lá seus motivos."
+      "reason": "Maior compatibilidade e geofencing mais confiável: a escolha padrão do instalador profissional tem lá seus motivos."
     }
   ],
-  "pinDescription": "Um economizou R$1.200 no ano. Outro precisa de Alexa só para configurar. Um funciona com pilha AA sem mexer num fio. Qual vale a pena?"
+  "pinDescription": "Melhores termostatos inteligentes 2026: economia de energia vs. hype. Comparados por especificações publicadas, dados dos fabricantes e análises independentes."
 }

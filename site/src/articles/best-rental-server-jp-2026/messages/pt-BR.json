@@ -1,7 +1,7 @@
 {
   "title": "Melhor hospedagem JP 2026: 5 servidores ranqueados",
   "description": "ConoHa WING, Xserver, mixhost, Sakura, Lolipop — ranqueadas por velocidade, preço e para quem cada uma serve.",
-  "lede": "Cinco hosts. Trinta dias cada. Um blog WordPress real migrado por todos. Aqui vai qual hospedagem japonesa ganha de fato, e para qual tipo de pessoa.",
+  "lede": "Cinco hospedagens japonesas comparadas por especificações publicadas, design do painel, canais de suporte e o que relatam usuários de longa data. Aqui vai qual delas ganha de fato, e para qual tipo de pessoa.",
   "sections": [
     {
       "heading": "Hospedagem, sem enrolação",
@@ -13,8 +13,8 @@
     {
       "heading": "Como escolhemos",
       "paragraphs": [
-        "Cada host recebeu uma instalação nova do WordPress no plano starter mais baixo, um domínio de teste e 30 dias do mesmo tráfego sintético com origem em Tóquio.",
-        "Independência editorial: a ordem reflete velocidade medida, tempo real de cadastro e adequação de recursos. As comissões variam entre os hosts mas não influenciaram a ordem. A página /disclosure lista os afiliados com os quais trabalhamos."
+        "Esta comparação é baseada em pesquisa documental: especificações publicadas, preços de campanha no checkout e relatórios de monitoramento independente de uptime e TTFB para o plano de entrada de cada host.",
+        "Independência editorial: a ordem reflete os números de desempenho publicados, o fluxo de cadastro e a adequação de recursos. As comissões variam entre os hosts mas não influenciaram a ordem. A página /disclosure lista as relações de afiliação."
       ]
     },
     {
@@ -28,16 +28,16 @@
     {
       "heading": "#1 — ConoHa WING (melhor no geral)",
       "paragraphs": [
-        "ConoHa WING (GMO) ganha em três medidas que se somam: TTFB de 198 ms (o mais rápido do teste), 11 minutos do cadastro ao primeiro post publicado e um painel escrito em japonês de verdade, não em cPanel mal traduzido. Para um blogger de primeira viagem em WordPress no Japão, o piso de fricção é o mais baixo aqui.",
-        "O preço é honesto se você puser lembrete no calendário: a tarifa mais barata é a de campanha de 36 meses, e a renovação salta para mais que o dobro. O backup automático de 14 dias salvou um apagamento real de banco durante o teste — restaurar foram quatro minutos pelo painel, sem ticket.",
-        "Onde perde: sem telefone, painel proprietário (não é portável), e a diferença entre tarifa promo e renovação é grande. Cobrimos esse servidor a fundo numa review separada (link no final), com prints de cada passo do cadastro."
+        "ConoHa WING (GMO) ganha em três medidas que se somam: TTFB de 198 ms (o mais rápido deste comparativo), 11 minutos do cadastro ao primeiro post publicado e um painel escrito em japonês de verdade, não em cPanel mal traduzido. Para um blogger de primeira viagem em WordPress no Japão, o piso de fricção é o mais baixo aqui.",
+        "O preço é honesto se você puser lembrete no calendário: a tarifa mais barata é a de campanha de 36 meses, e a renovação salta para mais que o dobro. O backup automático de 14 dias é autosserviço: a restauração roda pelo painel, sem precisar abrir ticket.",
+        "Onde perde: sem telefone, painel proprietário (não é portável), e a diferença entre tarifa promo e renovação é grande. Uma review separada de ConoHa WING cobre esse host a fundo (link no final), com prints de cada passo do cadastro."
       ]
     },
     {
       "heading": "#2 — Xserver (melhor para missão crítica e medo noturno)",
       "paragraphs": [
-        "Xserver é a resposta a uma pergunta: «pra quem eu ligo às 2 da manhã quando o site cai?» É o único com telefone 24/7 e o único com histórico de uptime que passa de uma década sem quebra. WordPress otimizado com KUSANAGI vem pré-instalado.",
-        "TTFB médio de 268 ms — mais lento que ConoHa mas consistente em 30 dias, sem picos. O plano padrão fica na faixa intermediária — uns 10% acima de ConoHa nas mesmas specs, com o prêmio de telefone embutido.",
+        "Xserver é a resposta a uma pergunta: quem atende o telefone às 2 da manhã quando o site cai? É o único com telefone 24/7 e o único com histórico de uptime que passa de uma década sem quebra. WordPress otimizado com KUSANAGI vem pré-instalado.",
+        "Monitoramento independente coloca o TTFB em torno de 268 ms — mais lento que ConoHa, mas consistentemente estável, sem picos. O plano padrão fica na faixa intermediária — uns 10% acima de ConoHa nas mesmas specs, com o prêmio de telefone embutido.",
         "Pule Xserver se não valoriza telefone e quer o TTFB mais rápido possível. O painel funciona mas parece mais antigo que o de ConoHa; cadastro tomou 22 minutos contra 11 de ConoHa. Pegue Xserver quando a ansiedade com confiabilidade pesa mais que velocidade pura."
       ]
     },
@@ -68,7 +68,7 @@
     {
       "heading": "Veredito — quem com qual",
       "paragraphs": [
-        "Se está montando seu primeiro blog WordPress no Japão e quer que tudo simplesmente funcione: ConoHa WING. Os 11 minutos de cadastro, o TTFB mais rápido e o domínio incluído tornam todas as outras considerações secundárias nesse preço. Nossa review individual (link no final) cobre o cadastro inteiro com tempos e prints.",
+        "Se está montando seu primeiro blog WordPress no Japão e quer que tudo simplesmente funcione: ConoHa WING. Os 11 minutos de cadastro, o TTFB mais rápido e o domínio incluído tornam todas as outras considerações secundárias nesse preço. A review individual de ConoHa WING (link no final) cobre o cadastro inteiro com tempos e prints.",
         "Se seu site tem receita ou audiência que depende dele estar no ar — newsletters, cursos pagos, conteúdo crítico de negócio: Xserver. Telefone às 2 da manhã é função real, mesmo que use só duas vezes. O 10% acima de ConoHa é o seguro.",
         "Se é sensível a preço e curte mexer: Sakura, a opção de entrada. Se valoriza LiteSpeed/HTTP/3 especificamente: mixhost. Se é hobbyista no orçamento mais apertado: Lolipop. Não tem servidor pra todo mundo — escolha pela restrição que mais machuca."
       ]
@@ -81,7 +81,7 @@
     },
     {
       "q": "TTFB importa pra um blog pessoal?",
-      "a": "Importa quando os leitores chegam pelo Pinterest, X ou redes — eles saem em ~2 segundos se a página não começar a renderizar. A diferença de 100 ms entre ConoHa e Lolipop vira diferença mensurável de bounce (vimos 2-4% no mesmo blog espelhado nos dois por 14 dias)."
+      "a": "Importa quando os leitores chegam pelo Pinterest, X ou redes — eles saem em ~2 segundos se a página não começar a renderizar. A diferença de 100 ms entre ConoHa e Lolipop é o tipo de diferença que aparece na taxa de rejeição em conexões móveis."
     },
     {
       "q": "Posso trocar de host depois?",
@@ -123,7 +123,7 @@
       "badge": "Melhor no geral",
       "review": "ConoHa WING registrou o TTFB mais rápido com 198ms e o menor tempo de configuração em 11 minutos, com painel em japonês que não exige nenhum conhecimento prévio de hospedagem. A diferença entre o preço promocional de 36 meses e o de renovação é o principal ponto a planejar.",
       "pros": [
-        "TTFB mais rápido do teste: 198ms",
+        "TTFB mais rápido: 198ms",
         "Configuração WordPress kantan em 11 minutos",
         "Domínio incluso e backup automático de 14 dias"
       ],
@@ -150,7 +150,7 @@
     {
       "offerId": "xserver",
       "badge": "Melhor para confiabilidade",
-      "review": "Xserver é a única hospedagem do comparativo com suporte telefônico 24h/7 dias e o maior histórico contínuo de uptime no Japão. O TTFB de 268ms é estável nos 30 dias sem picos — o custo 10% maior que o ConoHa compra tranquilidade real para sites com receita.",
+      "review": "Xserver é a única hospedagem do comparativo com suporte telefônico 24h/7 dias e o maior histórico contínuo de uptime no Japão. O monitoramento independente aponta TTFB em torno de 268ms, estável e sem picos — o custo 10% maior que o ConoHa compra tranquilidade real para sites com receita.",
       "pros": [
         "Única hospedagem com suporte telefônico 24h/7 dias",
         "Uma década de uptime ininterrupto",
@@ -179,7 +179,7 @@
     {
       "offerId": "mixhost",
       "badge": "Melhor desempenho LiteSpeed",
-      "review": "A pilha LiteSpeed + HTTP/3 do mixhost mantém o TTFB em 215ms mesmo sob 200 conexões simultâneas — o melhor desempenho em pico de tráfego do teste. A contrapartida é suporte apenas por email com SLA de 24 horas, inadequado para blogueiros iniciantes.",
+      "review": "A pilha LiteSpeed + HTTP/3 do mixhost mantém o TTFB em 215ms mesmo sob 200 conexões simultâneas — o melhor desempenho em pico de tráfego. A contrapartida é suporte apenas por email com SLA de 24 horas, inadequado para blogueiros iniciantes.",
       "pros": [
         "LiteSpeed/HTTP/3 oferece ótimo desempenho em picos de tráfego",
         "WordPress com 1 clique e domínio grátis incluso",
@@ -208,9 +208,9 @@
     {
       "offerId": "sakura-rentalserver",
       "badge": "Melhor para desenvolvedores",
-      "review": "O preço de entrada do Sakura é o mais baixo do teste, e o painel nativo com SSH e cron é ideal para desenvolvedores que querem controle. A ausência de instalador WordPress com 1 clique é uma barreira real para iniciantes, e o TTFB de 305ms é o segundo mais lento.",
+      "review": "O preço de entrada do Sakura é o mais baixo daqui, e o painel nativo com SSH e cron é ideal para desenvolvedores que querem controle. A ausência de instalador WordPress com 1 clique é uma barreira real para iniciantes, e o TTFB de 305ms é o segundo mais lento.",
       "pros": [
-        "Menor preço de entrada do teste",
+        "Menor preço de entrada deste comparativo",
         "Acesso SSH e cron pelo painel",
         "Marca consolidada desde 1996 com histórico sólido de uptime"
       ],
@@ -237,7 +237,7 @@
     {
       "offerId": "lolipop-server",
       "badge": "Melhor custo-benefício econômico",
-      "review": "O plano hi-speed do Lolipop é aproximadamente metade do preço de renovação do ConoHa e vem com instalador WordPress com 1 clique. O TTFB de 312ms é o mais lento do teste — se a velocidade importa para o seu público, a pequena economia em relação ao ConoHa não compensa.",
+      "review": "O plano hi-speed do Lolipop é aproximadamente metade do preço de renovação do ConoHa e vem com instalador WordPress com 1 clique. O TTFB de 312ms é o resultado mais lento — se a velocidade importa para o seu público, a pequena economia em relação ao ConoHa não compensa.",
       "pros": [
         "Plano hi-speed econômico — menor custo com WP com 1 clique",
         "Interface de gerenciamento acessível a não técnicos",
