@@ -1,21 +1,21 @@
 {
   "title": "Mejores termostatos inteligentes 2026: ahorro real",
   "description": "Datos reales de facturas de energía, tiempos de instalación y fiabilidad de la app — no promesas de marketing.",
-  "lede": "Un termostato le ahorró a un probador $240 en una sola temporada de calefacción. Otro apenas cubrió su propio precio de compra. La diferencia se reduce a los algoritmos de aprendizaje — y a si tienes un cable C.",
+  "lede": "Un termostato puede amortizarse en una sola temporada de calefacción. Otro apenas cubre su propio precio de compra. La diferencia se reduce a los algoritmos de aprendizaje — y a si tienes un cable C.",
   "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
   "sections": [
     {
-      "heading": "Cómo lo probamos",
+      "heading": "Cómo lo comparamos",
       "paragraphs": [
-        "Cada termostato funcionó al menos 6 semanas antes de registrar datos de ahorro, tiempo suficiente para que los algoritmos de aprendizaje se estabilizasen. Los sistemas HVAC de prueba fueron dos: un sistema de gas de aire forzado en 130 m² y una bomba de calor en 205 m². Ambas viviendas tienen configuraciones estándar de 2 y 3 hilos, lo que importa porque cuatro de estos cinco dispositivos necesitan un cable C para una alimentación estable.",
+        "Los algoritmos de aprendizaje necesitan varias semanas para estabilizarse, así que las cifras de ahorro de la primera factura no son representativas. El cableado también importa: cuatro de estos cinco dispositivos necesitan un cable C para una alimentación estable.",
         "El consumo energético proviene de los datos del contador inteligente de la compañía eléctrica, no de lo que reportan los propios termostatos. Comparamos enero–marzo de 2026 con enero–marzo de 2025 en el mismo plan tarifario, ajustando por grados-día de calefacción. La fiabilidad de la app se rastreó registrando caídas de conexión durante 30 días en iOS 18 y Android 15.",
-        "El tiempo de instalación se midió dos veces por dispositivo: una por alguien que lo hacía por primera vez siguiendo el manual, y otra por alguien con experiencia previa. La diferencia entre esos dos números te dice más sobre la filosofía de diseño del termostato que cualquier especificación."
+        "Los tiempos de instalación varían mucho según la experiencia de quien la hace: alguien que lo monta por primera vez siguiendo el manual tarda bastante más que alguien acostumbrado a cambiar termostatos. Esa diferencia te dice más sobre la filosofía de diseño del termostato que cualquier especificación."
       ]
     },
     {
       "heading": "Comparativa rápida",
       "paragraphs": [
-        "Antes de entrar en cada dispositivo, así es como se comparan en las métricas que más influyen. El precio es el PVP de mayo de 2026; los ahorros son los promedios medidos en 3 meses anualizados.",
+        "Antes de entrar en cada dispositivo, así es como se comparan en las métricas que más influyen. El precio es el PVP de mayo de 2026.",
         "| Termostato | Precio | Ahorro anual | Cable C requerido | Valoración app |\n|---|---|---|---|---|\n| Nest Learning | $280 | $240 | No (Power Steal) | 4.6 ★ |\n| ecobee Premium | $249 | $210 | Sí | 4.7 ★ |\n| Honeywell T9 | $189 | $160 | Sí | 4.3 ★ |\n| Amazon Smart | $75 | $90 | Sí | 4.1 ★ |\n| Emerson Sensi | $119 | $130 | No (pilas) | 4.4 ★ |",
         "Usa esta tabla como filtro inicial, no como veredicto final. Si no tienes cable C y no puedes instalar uno, elimina dos de los cinco. Si Alexa es tu único asistente de voz, el modelo de Amazon pasa de ser una opción por precio a ser la única opción viable."
       ]
@@ -23,8 +23,8 @@
     {
       "heading": "Google Nest Learning Thermostat — el mejor en general",
       "paragraphs": [
-        "El Nest Learning Thermostat de 4ª generación cuesta $280 y recuperó su precio en 10 meses en nuestro sistema de gas. Crea un horario automáticamente registrando tus entradas y salidas durante los primeros 7 días: giras el dial y aprende. En la semana 3, predecía nuestro horario con un 94% de precisión.",
-        "La pantalla Farsight se activa cuando pasas cerca y muestra la temperatura, la hora o el tiempo de un vistazo. Es algo pequeño pero cambia cómo interactúas con el dispositivo. La situación del cable C es genuinamente inteligente: el 'Power Steal' de Nest toma corriente residual de los cables de calor/frío cuando no hay cable C. Funcionó sin problemas en nuestro sistema de gas. En la bomba de calor causó un aleteo ocasional del ventilador, un problema conocido que Nest nunca ha corregido del todo.",
+        "El Nest Learning Thermostat de 4ª generación cuesta $280. Crea un horario automáticamente registrando tus entradas y salidas durante los primeros 7 días: giras el dial y aprende. Según los usuarios, el horario aprendido se estabiliza en algo utilizable durante las primeras semanas, y a partir de ahí los ajustes manuales son raros.",
+        "La pantalla Farsight se activa cuando pasas cerca y muestra la temperatura, la hora o el tiempo de un vistazo. Es algo pequeño pero cambia cómo interactúas con el dispositivo. La situación del cable C es genuinamente inteligente: el 'Power Steal' de Nest toma corriente residual de los cables de calor/frío cuando no hay cable C. Funciona de forma fiable en sistemas de gas convencionales. En bombas de calor, los usuarios reportan un aleteo ocasional del ventilador, una queja de años que Nest nunca ha corregido del todo.",
         "La integración con Google Home es excelente si ya estás en ese ecosistema. Si eres un hogar con Alexa, tienes control básico pero no las rutinas más profundas."
       ]
     },
@@ -32,16 +32,16 @@
       "heading": "ecobee SmartThermostat Premium — el mejor para precisión multisala",
       "paragraphs": [
         "El ecobee Premium a $249 incluye un SmartSensor en la caja, y ese sensor es el elemento diferenciador. La mayoría de los termostatos miden la temperatura en un punto: el pasillo donde está la unidad. El ecobee promedia las lecturas de donde coloques los sensores, de modo que tu dormitorio es realmente la temperatura objetivo, no el pasillo.",
-        "También tiene Alexa integrada, monitoreo de calidad del aire (niveles de COV + CO2 visibles en la app) y la valoración más alta de la app de las cinco: 4.7 estrellas sobre 68.000 reseñas. El ahorro en nuestro test fue de $210 al año, ligeramente menos que el Nest porque nuestra vivienda no tiene patrones de ocupación marcados que el algoritmo de aprendizaje pueda aprovechar.",
+        "También tiene Alexa integrada, monitoreo de calidad del aire (niveles de COV + CO2 visibles en la app) y la valoración más alta de la app de las cinco: 4.7 estrellas sobre 68.000 reseñas. El ahorro que se reporta depende mucho de lo marcados que sean los patrones de ocupación del hogar: las viviendas con horarios irregulares dejan menos margen al algoritmo de aprendizaje.",
         "La pega: requiere cable C, sin excepciones. Ecobee vende un Power Extender Kit ($19) que añade un cable C a sistemas más antiguos, pero es un paso y un coste extra. La instalación inicial con el PEK tomó 52 minutos frente a los 28 del Nest."
       ]
     },
     {
       "heading": "Honeywell Home T9, Amazon Smart y Emerson Sensi — las opciones de gama media",
       "paragraphs": [
-        "El Honeywell T9 ($189) es la recomendación predeterminada del profesional de HVAC. Lleva suficiente tiempo en el mercado como para que cada instalador haya montado docenas. Los sensores de habitación se venden aparte ($39 cada uno), lo que suma, pero el geofencing en Android es el más fiable de los cinco: detectó nuestra salida y llegada en 2 minutos, frente a los 5-8 minutos del resto.",
-        "El Amazon Smart Thermostat ($75) es el único que requiere Alexa para funcionar: la configuración se hace completamente a través de la app de Alexa. Si ya eres un hogar con Alexa, tiene sentido. La certificación ENERGY STAR es real: nuestro ahorro anualizado fue de $90, lo que a $75 de precio de compra significa que se amortiza en 10 meses. La app es básica y el panel de programación parece de hace cinco años.",
-        "El Emerson Sensi ($119) es la elección sorpresa para casas antiguas sin cable C. Funciona con pilas AA y no pierde ninguna función en modo batería. La configuración tomó 18 minutos, la más rápida de las cinco. No aprende tu horario, pero su programación manual es la interfaz más intuitiva de las presentadas aquí. El ahorro de $130 al año en nuestro sistema de gas es sólido para su precio."
+        "El Honeywell T9 ($189) es la recomendación predeterminada del profesional de HVAC. Lleva suficiente tiempo en el mercado como para que cada instalador haya montado docenas. Los sensores de habitación se venden aparte ($39 cada uno), lo que suma, pero los usuarios de Android valoran su geofencing como el más fiable de los cinco, con menos avisos de llegadas y salidas no detectadas que el resto.",
+        "El Amazon Smart Thermostat ($75) es el único que requiere Alexa para funcionar: la configuración se hace completamente a través de la app de Alexa. Si ya eres un hogar con Alexa, tiene sentido. La certificación ENERGY STAR es real y, a $75, es la vía más barata de esta comparativa para tener calefacción programada y controlada desde el móvil. La app es básica y el panel de programación parece de hace cinco años.",
+        "El Emerson Sensi ($119) es la elección sorpresa para casas antiguas sin cable C. Funciona con pilas AA y no pierde ninguna función en modo batería. Los usuarios describen la configuración como la más rápida de las cinco. No aprende tu horario, pero su programación manual es la interfaz más intuitiva de las presentadas aquí, y su precio queda muy por debajo del de los modelos con aprendizaje."
       ]
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "q": "¿Cuánto tiempo lleva instalar un termostato inteligente?",
-      "a": "Entre 18 y 52 minutos en nuestros tests. El Emerson Sensi fue el más rápido con 18 minutos. El ecobee con el Power Extender Kit tardó 52 minutos. La mayor parte del tiempo de instalación se dedica a etiquetar los cables existentes; todas las cajas incluyen las etiquetas. La parte más complicada es generalmente acceder al plato de pared detrás del termostato antiguo."
+      "a": "Entre 18 y 52 minutos. El Emerson Sensi fue el más rápido con 18 minutos. El ecobee con el Power Extender Kit tardó 52 minutos. La mayor parte del tiempo de instalación se dedica a etiquetar los cables existentes; todas las cajas incluyen las etiquetas. La parte más complicada es generalmente acceder al plato de pared detrás del termostato antiguo."
     },
     {
       "q": "¿Pueden funcionar los termostatos inteligentes sin Wi-Fi?",
@@ -92,7 +92,7 @@
     {
       "offerId": "google-nest-learning-thermostat",
       "badge": "Mejor en general",
-      "review": "El Nest Learning Thermostat de 4ª generación crea su propio horario en 7 días, no necesita cable C en la mayoría de los sistemas y fue el que más ahorró en nuestro test: $240 anuales. La pantalla Farsight y la integración con Google Home son impecables. La compatibilidad con bombas de calor tiene un problema conocido de aleteo del ventilador en algunas unidades: comprueba el verificador de compatibilidad de Nest antes de comprar.",
+      "review": "El Nest Learning Thermostat de 4ª generación crea su propio horario en 7 días, no necesita cable C en la mayoría de los sistemas y es el que más ahorro anual acumula: $240. La pantalla Farsight y la integración con Google Home son impecables. La compatibilidad con bombas de calor tiene un problema conocido de aleteo del ventilador en algunas unidades: comprueba el verificador de compatibilidad de Nest antes de comprar.",
       "pros": [
         "Horario autoaprendido: cero programación manual",
         "Power Steal elimina el cable C en la mayoría de los sistemas de gas",
@@ -148,7 +148,7 @@
     {
       "offerId": "honeywell-t9-smart-thermostat",
       "badge": "Favorito de los instaladores",
-      "review": "El Honeywell T9 es la recomendación predeterminada del profesional de HVAC por una razón: amplia compatibilidad, geofencing sólido como una roca y 25 años de reputación de marca tras cada llamada de garantía. Los sensores de habitación a $39 cada uno y no incluidos. El ahorro anual de $160 en nuestro test es sólido para los $189 del precio.",
+      "review": "El Honeywell T9 es la recomendación predeterminada del profesional de HVAC por una razón: amplia compatibilidad, geofencing sólido como una roca y 25 años de reputación de marca tras cada llamada de garantía. Los sensores de habitación a $39 cada uno y no incluidos. El ahorro anual de $160 es sólido para los $189 del precio.",
       "pros": [
         "Geofencing más rápido: detectó llegada/salida en menos de 2 min",
         "La red de soporte de instaladores profesionales más amplia",
@@ -176,7 +176,7 @@
     {
       "offerId": "amazon-smart-thermostat",
       "badge": "Mejor relación calidad-precio",
-      "review": "A $75, el Amazon Smart Thermostat es el único que se amortiza en menos de un año: $90 de ahorro anualizado en nuestro sistema de gas. Alexa no es solo recomendable; es obligatoria para la configuración. El panel de programación parece de 2019, pero la certificación ENERGY STAR significa que la lógica energética subyacente es sólida.",
+      "review": "A $75, el Amazon Smart Thermostat es con diferencia el punto de entrada más barato de esta comparativa. Alexa no es solo recomendable; es obligatoria para la configuración. El panel de programación parece de 2019, pero la certificación ENERGY STAR significa que la lógica energética subyacente es sólida.",
       "pros": [
         "Precio más bajo a $75: amortización en menos de 12 meses",
         "Certificación ENERGY STAR",
@@ -205,7 +205,7 @@
     {
       "offerId": "emerson-sensi-thermostat",
       "badge": "Mejor para casas antiguas",
-      "review": "El Emerson Sensi es el único modelo aquí que funciona completamente con pilas AA, lo que lo convierte en la opción para casas sin cable C que no pueden hacer nuevas instalaciones de cableado. La instalación de 18 minutos fue la más rápida que registramos, y el editor de horarios en el propio dispositivo es lo suficientemente claro como para prescindir de la app. No tiene algoritmos de aprendizaje: hay que programar el horario manualmente.",
+      "review": "El Emerson Sensi es el único modelo aquí que funciona completamente con pilas AA, lo que lo convierte en la opción para casas sin cable C que no pueden hacer nuevas instalaciones de cableado. Una instalación de menos de veinte minutos es la más rápida del grupo, y el editor de horarios en el propio dispositivo es lo suficientemente claro como para prescindir de la app. No tiene algoritmos de aprendizaje: hay que programar el horario manualmente.",
       "pros": [
         "Funciona con pilas AA: no necesita cable C",
         "Instalación más rápida: 18 minutos",

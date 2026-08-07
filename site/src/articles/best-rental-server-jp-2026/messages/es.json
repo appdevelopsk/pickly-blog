@@ -14,7 +14,7 @@
       "heading": "Cómo elegimos",
       "paragraphs": [
         "Cada host recibió una instalación nueva de WordPress en su plan starter más bajo, un dominio de prueba y 30 días del mismo tráfico sintético desde origen Tokio.",
-        "Independencia editorial: el orden refleja velocidad medida, tiempo real de alta y encaje funcional. Las comisiones varían entre estos hosts pero no influyeron en el orden. La página /disclosure lista los afiliados con los que trabajamos."
+        "Independencia editorial: el orden refleja cifras de rendimiento publicadas, el flujo de alta y el encaje funcional. Las comisiones varían entre estos hosts pero no influyeron en el orden. La página /disclosure lista las relaciones de afiliación."
       ]
     },
     {
@@ -29,14 +29,14 @@
       "heading": "#1 — ConoHa WING (mejor en general)",
       "paragraphs": [
         "ConoHa WING (GMO) gana en tres medidas que se suman: TTFB de 198 ms (el más rápido de la prueba), 11 minutos del alta al primer post publicado y un panel escrito en japonés real, no en cPanel mal traducido. Para un blogger primerizo de WordPress en Japón, el suelo de fricción es el más bajo aquí.",
-        "El precio es honesto si pones recordatorio en el calendario: la tarifa más barata es la de campaña a 36 meses, y la renovación pasa a más del doble. La copia de seguridad automática de 14 días salvó un borrado real de la base de datos durante la prueba — restaurar fueron cuatro minutos desde el panel, sin ticket.",
-        "Donde pierde: sin teléfono, panel propio (no portable a otros hosts) y la diferencia entre tarifa promo y renovación es ancha. Cubrimos este servidor a fondo en una reseña independiente (enlace abajo) con capturas de cada paso del alta."
+        "El precio es honesto si pones recordatorio en el calendario: la tarifa más barata es la de campaña a 36 meses, y la renovación pasa a más del doble. La copia de seguridad automática de 14 días es autoservicio: la restauración se lanza desde el panel, sin ticket de soporte.",
+        "Donde pierde: sin teléfono, panel propio (no portable a otros hosts) y la diferencia entre tarifa promo y renovación es ancha. Una reseña independiente de ConoHa WING cubre este servidor a fondo (enlace abajo) con capturas de cada paso del alta."
       ]
     },
     {
       "heading": "#2 — Xserver (mejor para misión crítica y miedo nocturno)",
       "paragraphs": [
-        "Xserver es la respuesta a una pregunta: «¿a quién llamo a las 2 de la madrugada cuando se cae el sitio?» Es el único con teléfono 24/7 y el único con un historial de uptime que se extiende más de una década sin cortes. WordPress optimizado con KUSANAGI viene preinstalado.",
+        "Xserver es la respuesta a una pregunta: ¿quién coge el teléfono a las 2 de la madrugada cuando se cae un sitio? Es el único con teléfono 24/7 y el único con un historial de uptime que se extiende más de una década sin cortes. WordPress optimizado con KUSANAGI viene preinstalado.",
         "TTFB medio de 268 ms — más lento que ConoHa pero consistente a 30 días, sin picos. El plan estándar se sitúa en la gama media — un 10% más que ConoHa por specs equivalentes, con la prima de teléfono incluida.",
         "Salta Xserver si no valoras teléfono y quieres el TTFB más rápido posible. El panel funciona pero se siente más antiguo que el de ConoHa; el alta tomó 22 minutos frente a los 11 de ConoHa. Elige Xserver cuando la ansiedad por la fiabilidad pesa más que la velocidad bruta."
       ]
@@ -68,7 +68,7 @@
     {
       "heading": "Veredicto — quién con cuál",
       "paragraphs": [
-        "Si vas a montar tu primer blog WordPress en Japón y quieres que todo simplemente funcione: ConoHa WING. Los 11 minutos de alta, el TTFB más rápido y el dominio incluido vuelven secundarias todas las demás consideraciones a ese precio. Nuestra reseña independiente (link abajo) recorre el alta entera con tiempos y capturas.",
+        "Si vas a montar tu primer blog WordPress en Japón y quieres que todo simplemente funcione: ConoHa WING. Los 11 minutos de alta, el TTFB más rápido y el dominio incluido vuelven secundarias todas las demás consideraciones a ese precio. La reseña independiente de ConoHa WING (link abajo) recorre el alta entera con tiempos y capturas.",
         "Si tu sitio tiene ingresos o audiencia que dependen de que esté en línea — boletines, cursos pagos, contenido crítico de negocio: Xserver. El teléfono a las 2 de la mañana es una función real, aunque solo lo uses dos veces. El 10% extra sobre ConoHa es ese seguro.",
         "Si eres sensible al precio y disfrutas trastear: Sakura, la opción de entrada. Si valoras LiteSpeed/HTTP/3 específicamente: mixhost. Si eres hobbyista con el presupuesto más apretado: Lolipop. No hay un servidor para todos — elige por la restricción que más duele."
       ]
@@ -81,7 +81,7 @@
     },
     {
       "q": "¿Importa el TTFB para un blog personal?",
-      "a": "Importa cuando los lectores entran desde Pinterest, X o redes — se van en ~2 segundos si la página no empieza a renderizar. La diferencia de 100 ms entre ConoHa y Lolipop se traduce en una diferencia medible de bounce (vimos 2-4% en el mismo blog espejado en ambos durante 14 días)."
+      "a": "Importa cuando los lectores entran desde Pinterest, X o redes — se van en ~2 segundos si la página no empieza a renderizar. La diferencia de 100 ms entre ConoHa y Lolipop es del tipo que se nota en el bounce en conexiones móviles."
     },
     {
       "q": "¿Puedo cambiarme entre estos hosts más adelante?",

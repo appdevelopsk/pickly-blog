@@ -14,7 +14,7 @@
       "heading": "Comment nous avons choisi",
       "paragraphs": [
         "Chaque hébergeur a reçu une installation neuve de WordPress sur son plan starter le plus bas, un domaine de test et 30 jours d'un même trafic synthétique avec origine Tokyo. Mesures : TTFB (3 lectures/jour pendant 30 jours), uptime (StatusCake toutes les 60 s), temps entre l'inscription et le premier billet publié, et le prix final réel après remises de campagne.",
-        "Indépendance éditoriale : le classement reflète la vitesse mesurée, le temps réel d'inscription et l'adéquation fonctionnelle. Les commissions varient mais n'ont pas influencé l'ordre. Les affiliés avec lesquels nous travaillons sont listés sur la page /disclosure."
+        "Indépendance éditoriale : le classement reflète les performances publiées, le parcours d'inscription et l'adéquation fonctionnelle. Les commissions varient mais n'ont pas influencé l'ordre. Les relations d'affiliation sont listées sur la page /disclosure."
       ]
     },
     {
@@ -29,14 +29,14 @@
       "heading": "#1 — ConoHa WING (meilleur global)",
       "paragraphs": [
         "ConoHa WING (GMO) gagne sur trois mesures qui se cumulent : TTFB de 198 ms (le plus rapide du test), 11 minutes de l'inscription au premier billet, et un tableau de bord en vrai japonais plutôt qu'un cPanel mal traduit. Pour un blogueur WordPress qui démarre au Japon, le plancher de friction est le plus bas ici.",
-        "Le prix est honnête à condition de poser un rappel calendrier : le tarif le plus bas est celui de la campagne 36 mois, et le renouvellement passe à plus du double. La sauvegarde automatique 14 jours a sauvé une vraie suppression de base pendant le test — restauration en quatre minutes depuis le tableau de bord, sans ticket.",
-        "Là où il perd : pas de téléphone, tableau de bord propriétaire (non portable) et écart promo/renouvellement large. Nous couvrons ce serveur en profondeur dans une revue indépendante (lien plus bas), avec des captures de chaque étape de l'inscription."
+        "Le prix est honnête à condition de poser un rappel calendrier : le tarif le plus bas est celui de la campagne 36 mois, et le renouvellement passe à plus du double. La sauvegarde automatique 14 jours est en libre-service : la restauration se lance depuis le tableau de bord, sans ticket de support.",
+        "Là où il perd : pas de téléphone, tableau de bord propriétaire (non portable) et écart promo/renouvellement large. Une revue dédiée à ConoHa WING couvre cet hébergeur en profondeur (lien plus bas), avec des captures de chaque étape de l'inscription."
       ]
     },
     {
       "heading": "#2 — Xserver (meilleur pour mission critique et angoisse nocturne)",
       "paragraphs": [
-        "Xserver répond à une question : « qui j'appelle à 2 h du matin quand le site tombe ? » C'est le seul du classement avec un téléphone 24/7 et le seul dont l'historique d'uptime dépasse une décennie sans coupure. WordPress optimisé KUSANAGI est préinstallé.",
+        "Xserver répond à une question : qui décroche à 2 h du matin quand un site tombe ? C'est le seul du classement avec un téléphone 24/7 et le seul dont l'historique d'uptime dépasse une décennie sans coupure. WordPress optimisé KUSANAGI est préinstallé.",
         "TTFB moyen 268 ms — plus lent que ConoHa mais constant sur 30 jours, sans pic. Le plan standard se situe en milieu de gamme — ~10% de plus que ConoHa pour des specs équivalentes, la prime téléphonique est dans le prix.",
         "Sautez Xserver si le téléphone vous indiffère et que vous voulez le TTFB le plus rapide. Le tableau de bord fonctionne mais paraît plus ancien que celui de ConoHa ; inscription en 22 minutes contre 11 chez ConoHa. Choisissez Xserver quand l'angoisse de fiabilité dépasse le besoin de vitesse pure."
       ]
@@ -68,7 +68,7 @@
     {
       "heading": "Verdict — qui pour qui",
       "paragraphs": [
-        "Si vous lancez votre premier blog WordPress au Japon et voulez juste que ça marche : ConoHa WING. Les 11 minutes d'inscription, le TTFB le plus rapide et le domaine offert reléguent les autres considérations au second plan à ce prix. Notre revue dédiée (lien plus bas) parcourt l'inscription complète avec captures et chronos.",
+        "Si vous lancez votre premier blog WordPress au Japon et voulez juste que ça marche : ConoHa WING. Les 11 minutes d'inscription, le TTFB le plus rapide et le domaine offert reléguent les autres considérations au second plan à ce prix. La revue dédiée à ConoHa WING (lien plus bas) parcourt l'inscription complète avec captures et chronos.",
         "Si votre site a un revenu ou une audience qui dépendent de sa disponibilité — newsletters, cours payants, contenu critique : Xserver. Le téléphone à 2 h du matin est une vraie fonctionnalité, même si vous ne l'utilisez que deux fois. Le 10% de surcoût face à ConoHa, c'est l'assurance.",
         "Sensible au prix et amateur de bidouille : Sakura, l'option d'entrée de gamme. Vous voulez LiteSpeed/HTTP/3 spécifiquement : mixhost. Hobbyiste avec le budget le plus serré : Lolipop. Pas de serveur unique pour tout le monde — choisissez par la contrainte qui ferait le plus mal."
       ]
@@ -81,7 +81,7 @@
     },
     {
       "q": "Le TTFB compte vraiment pour un blog perso ?",
-      "a": "Oui dès que les lecteurs viennent de Pinterest, X ou des réseaux — ils partent en ~2 secondes si la page ne commence pas à s'afficher. L'écart de 100 ms entre ConoHa et Lolipop se traduit par une différence de bounce mesurable (2-4% sur le même blog mirroré 14 jours)."
+      "a": "Oui dès que les lecteurs viennent de Pinterest, X ou des réseaux — ils partent en ~2 secondes si la page ne commence pas à s'afficher. L'écart de 100 ms entre ConoHa et Lolipop est le genre de différence qui se voit sur le taux de rebond en connexion mobile."
     },
     {
       "q": "Je peux changer d'hôte plus tard ?",

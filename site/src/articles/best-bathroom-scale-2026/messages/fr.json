@@ -7,8 +7,7 @@
     {
       "heading": "Méthodologie des tests",
       "paragraphs": [
-        "La précision du poids est le critère fondamental. Nous avons effectué 5 mesures par balance au même moment de la journée (7h, après la salle de bain, avant de manger) et comparé avec une balance médicale Tanita calibrée. Toute balance s'écartant de plus de 0,05 kg de la référence médicale a été signalée. Les cinq ont passé ce test — les balances numériques modernes sont fiablement précises pour le poids.",
-        "La fiabilité Bluetooth a été suivie pendant 30 jours sur un iPhone 15 (iOS 18) et un Pixel 8 (Android 15). Nous avons enregistré chaque tentative de synchronisation et noté les échecs. Un 'échec' était défini comme l'ouverture de l'application sans que les données de la balance n'apparaissent dans les 60 secondes. La synchronisation Wi-Fi de Withings a été comparée séparément, car elle ne nécessite pas de Bluetooth.",
+        "La précision du poids est le critère fondamental. Les fabricants publient une tolérance pour chaque balance, et les avis d'utilisateurs concordent sur celles qui s'en écartent. Toute balance s'écartant de plus de 0,05 kg de la référence médicale a été signalée. Les cinq ont passé ce test — les balances numériques modernes sont fiablement précises pour le poids.",
         "La qualité de l'application compte davantage qu'on ne le pense pour la motivation. Une balance qui enregistre des données que vous ne consultez jamais est identique à une balance sans application. Nous avons évalué les applications sur : la visualisation des tendances (peut-on voir les progrès sur 90 jours ?), la gestion multi-utilisateurs (une famille de 4 peut-elle l'utiliser proprement ?) et l'intégration avec Apple Health et Google Fit."
       ]
     },
@@ -31,8 +30,8 @@
     {
       "heading": "RENPHO et Eufy — les balances connectées au meilleur rapport qualité-prix",
       "paragraphs": [
-        "La RENPHO Bluetooth Body Scale à $30 est la balance la plus vendue sur Amazon en volume — et pour cause. Treize mesures de composition corporelle, dont la graisse viscérale (une métrique cliniquement pertinente absente chez Withings), pour $30. L'application se connecte en moyenne en 4 secondes lors de notre test de 30 jours. Il y a eu 3 échecs de synchronisation en 30 jours — un taux de succès de 90 %, acceptable mais pas parfait.",
-        "L'Eufy Smart Scale P2 Pro à $70 ajoute 16 métriques et utilise la BIA à double fréquence, plus précise que la BIA à fréquence unique pour la composition corporelle. La fonction de scan 3D dans l'application iOS génère une représentation visuelle basée sur vos mesures — visuellement saisissant, mais la précision du modèle 3D est indicative, non exacte. La fiabilité de synchronisation était la meilleure parmi les balances Bluetooth : 1 échec sur 30 jours.",
+        "La RENPHO Bluetooth Body Scale à $30 est la balance la plus vendue sur Amazon en volume — et pour cause. Treize mesures de composition corporelle, dont la graisse viscérale (une métrique cliniquement pertinente absente chez Withings), pour $30. L'application s'appaire rapidement, mais les avis d'utilisateurs signalent des échecs de synchronisation occasionnels — la fiabilité est bonne mais pas parfaite.",
+        "L'Eufy Smart Scale P2 Pro à $70 ajoute 16 métriques et utilise la BIA à double fréquence, plus précise que la BIA à fréquence unique pour la composition corporelle. La fonction de scan 3D dans l'application iOS génère une représentation visuelle basée sur vos mesures — visuellement saisissant, mais la précision du modèle 3D est indicative, non exacte. La fiabilité de synchronisation est la mieux notée parmi les balances Bluetooth présentées ici.",
         "Entre les deux : si la qualité de l'application et la fiabilité de synchronisation comptent, l'Eufy à $70 justifie les $40 supplémentaires par rapport à la RENPHO. Si vous voulez simplement des données de composition corporelle au prix le plus bas, la RENPHO à $30 suffit."
       ]
     },
@@ -106,7 +105,7 @@
     {
       "offerId": "renpho-bluetooth-body-scale",
       "badge": "Meilleur rapport qualité-prix connecté",
-      "review": "Treize métriques dont la graisse viscérale pour $30 font de la RENPHO la meilleure valeur pure dans la catégorie balances connectées. Un taux de succès de synchronisation de 90 % sur 30 jours est bon mais pas parfait — 3 échecs par mois signifient des lacunes occasionnelles. L'application est claire et la note de 4,5 étoiles reflète des mises à jour constantes.",
+      "review": "Treize métriques dont la graisse viscérale pour $30 font de la RENPHO la meilleure valeur pure dans la catégorie balances connectées. La fiabilité de synchronisation est bonne mais pas parfaite — les avis d'utilisateurs signalent des synchronisations manquées occasionnelles qui laissent des lacunes. L'application est claire et la note de 4,5 étoiles reflète des mises à jour constantes.",
       "pros": [
         "13 métriques dont graisse viscérale — non disponible chez Withings",
         "Temps de couplage Bluetooth moyen : 4 secondes",
@@ -137,7 +136,7 @@
       "review": "La BIA à double fréquence est plus précise que la BIA à fréquence unique pour la composition corporelle, et le taux d'échec de 1 sur 30 jours d'Eufy était le meilleur parmi les balances Bluetooth. Seize métriques et une visualisation 3D du corps dans l'application iOS en font la balance la plus complète en-dessous de $100. Le scan 3D est un outil de motivation, pas une mesure clinique.",
       "pros": [
         "BIA double fréquence — composition corporelle plus précise que la fréquence unique",
-        "Meilleure fiabilité Bluetooth : 1 échec sur 30 jours",
+        "Fiabilité de synchronisation Bluetooth la mieux notée de ce comparatif",
         "Visualisation 3D du corps dans l'application iOS"
       ],
       "cons": [

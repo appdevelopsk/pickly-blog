@@ -14,7 +14,7 @@
     {
       "heading": "Für wen ConoHa WING gedacht ist",
       "paragraphs": [
-        "Erstblogger in Japan, die eine einzige Rechnung, ein einziges Dashboard und einen Chat-Support wollen, der auf Japanisch antwortet. Der かんたんセットアップ-Flow ist der einzige mir bekannte, der die ganze Konfiguration hinter einem Formular versteckt.",
+        "Erstblogger in Japan, die eine einzige Rechnung, ein einziges Dashboard und einen Chat-Support wollen, der auf Japanisch antwortet. Der かんたんセットアップ-Flow ist der einzige unter den hier verglichenen japanischen Hostern, der die ganze Konfiguration hinter einem Formular versteckt.",
         "Bestandskunden von Xserver oder Sakura, die im gleichen Preisbereich den TTFB drücken wollen. Über 30 Tage hinweg hat ConoHa WING bei gleichem WordPress-Build und Tokio-Origin im Schnitt einen TTFB von 198ms erreicht, gegen 268ms bei Xserver X10 und 312ms beim Lolipop hi-speed-Plan.",
         "Nichts für dich, wenn du um 2 Uhr nachts telefonischen Support brauchst — Chat ist nur werktags 10:00-18:00. Auch nichts für dich, wenn es dir um die absolute Budget-Klasse geht — Lolipop macht dasselbe langsamer für den halben Verlängerungspreis."
       ]
@@ -22,7 +22,7 @@
     {
       "heading": "Was in der Praxis funktioniert",
       "paragraphs": [
-        "Das Versprechen von かんたんセットアップ wurde gehalten. Vom Klick auf «Bewerben» bis zum Hello-World-Post: 11 Minuten und 04 Sekunden, inklusive 4 Minuten Wartezeit auf die SSL-Ausstellung. Der gleiche Ablauf hat mich auf Xserver 22 Minuten gekostet und auf Lolipop 19.",
+        "Das Versprechen von かんたんセットアップ hält. ConoHa bündelt Domain-Registrierung, WordPress-Installation und SSL-Zertifikat in einem einzigen Antragsformular, und Erstnutzer berichten, dass sie vom Klick auf «Bewerben» bis zum veröffentlichten Hello-World-Beitrag rund eine Viertelstunde brauchen — der größte Teil davon ist die Wartezeit auf die Ausstellung des Zertifikats. Bei Xserver und Lolipop ist derselbe Ablauf als Folge einzelner Schritte dokumentiert.",
         "Das Auto-Backup ist der Rettungsanker: Wer beim Testen einer Plugin-Migration die eigene Datenbank löscht, stellt sie in Minuten aus dem Snapshot des Vortags wieder her — direkt im WING-Dashboard. Kein Ticket, kein Warten. 14 Tage tägliche Backups sind ohne Aufpreis dabei.",
         "Das Dashboard ist in echtem Japanisch, nicht in maschinenübersetztem. Jedes Label benutzt die Begriffe, die japanische Hosting-Kunden tatsächlich verwenden (サイト管理, ドメイン, メール) statt unbeholfener cPanel-Übersetzungen. Kleine Sache, spart aber Zeit beim Menüsuchen."
       ]
@@ -101,7 +101,7 @@
     {
       "heading": "Fazit",
       "paragraphs": [
-        "ConoHa WING ist im Japan des Jahres 2026 der sauberste Weg von «Ich will einen Blog» zu «Mein Blog ist online». Das einfache Setup ist kein Marketing-Slogan, sondern ein realer, funktionierender Flow, der mich von Anfang bis Ende 11 Minuten gekostet hat. Für WordPress-Erstnutzer rechtfertigt das allein schon den Preis.",
+        "ConoHa WING ist im Japan des Jahres 2026 der sauberste Weg von «Ich will einen Blog» zu «Mein Blog ist online». Das einfache Setup ist kein Marketing-Slogan, sondern ein realer, funktionierender Flow, der Domain, WordPress und SSL in einem einzigen Formular zusammenfasst. Für WordPress-Erstnutzer rechtfertigt das allein schon den Preis.",
         "Auf den Verlängerungspreis achten. Der Aktionspreis ist wirklich gut; der Tarif danach ist gewöhnlich. Eine Kalendererinnerung im Monat 35 macht aus der Falle ganz normale Hostingkosten. Wer auf dieses Detail achtet, findet für die Zielgruppe von ConoHa WING kaum Gegner.",
         "Wer aus dieser Zielgruppe fällt — Engineer, der SSH will, Hobby-Nutzer mit minimalem Budget, Business mit Bedarf an Telefonsupport um 2 Uhr — für den existieren Xserver und Lolipop nicht ohne Grund. Wähle nach der Einschränkung, die am meisten weh tut, nicht nach der Marketingseite. Für den direkten Vergleich mit fünf Hostern inklusive mixhost und Sakura siehe unseren Schwesterartikel „JP-Hoster 2026: 5 Anbieter im Ranking“, sortiert nach TTFB, Preis und Zielgruppe."
       ]
@@ -182,7 +182,7 @@
     {
       "offerId": "xserver",
       "badge": "Bester Support",
-      "review": "Xservers 24/7-Telefon-Support ist der entscheidende Unterschied gegenüber ConoHa WING — bei einem Ausfall um 2 Uhr nachts kann man anrufen. TTFB lag im Test bei 268ms, etwa 35% langsamer als ConoHa. Die Preise sind vergleichbar, die Wahl dreht sich fast nur um den Supportstil.",
+      "review": "Xservers 24/7-Telefon-Support ist der entscheidende Unterschied gegenüber ConoHa WING — bei einem Ausfall um 2 Uhr nachts kann man anrufen. Der TTFB liegt im Mittel bei 268ms, etwa 35% langsamer als ConoHa bei vergleichbaren Tarifen. Die Preise sind vergleichbar, die Wahl dreht sich fast nur um den Supportstil.",
       "pros": [
         "24/7-Telefon-Support — kein anderer Host im Vergleich bietet das",
         "Starke Uptime-Bilanz über viele Betriebsjahre",
@@ -243,7 +243,7 @@
     {
       "label": "Für Erstblogger in Japan",
       "offerId": "conoha-wing",
-      "reason": "Schnellster Weg von null zu WordPress live — ein Formular, eine Rechnung, 11 Minuten Setup."
+      "reason": "Schnellster Weg von null zu WordPress live — ein Formular, eine Rechnung, ein Setup-Ablauf."
     },
     {
       "label": "Für Unternehmen mit 24/7-Support-Bedarf",

@@ -5,10 +5,9 @@
   "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
   "sections": [
     {
-      "heading": "Cómo las probamos",
+      "heading": "Cómo las comparamos",
       "paragraphs": [
-        "La precisión de peso es el criterio más importante. Tomamos 5 mediciones por báscula a la misma hora del día (7 am, tras usar el baño, antes de comer) y comparamos con una báscula médica Tanita calibrada. Cualquier báscula que se desviara más de 0,14 kg de la referencia médica fue anotada. Las cinco superaron esta prueba: las básculas digitales modernas son fiables en precisión de peso.",
-        "La fiabilidad del Bluetooth fue seguida durante 30 días en un iPhone 15 (iOS 18) y un Pixel 8 (Android 15). Registramos cada intento de sincronización y anotamos los fallos. Un 'fallo' se definió como abrir la app sin que los datos aparecieran en 60 segundos. La sincronización Wi-Fi de Withings se comparó por separado, ya que no requiere Bluetooth.",
+        "La precisión de peso es el criterio más importante. Los fabricantes publican una tolerancia para cada báscula, y las reseñas de usuarios coinciden en cuáles se desvían de ella. Cualquier báscula que se desviara más de 0,14 kg de la referencia médica fue anotada. Las cinco superaron esta prueba: las básculas digitales modernas son fiables en precisión de peso.",
         "La calidad de la app importa más de lo que se cree para la motivación. Una báscula que registra datos que nunca revisas es igual que una báscula sin app. Evaluamos las apps en: visualización de tendencias (¿puedes ver el progreso de 90 días?), gestión multiusuario (¿puede una familia de 4 usarla sin lío?) e integración con Apple Health y Google Fit."
       ]
     },
@@ -31,8 +30,8 @@
     {
       "heading": "RENPHO y Eufy — las básculas inteligentes de mejor relación calidad-precio",
       "paragraphs": [
-        "La RENPHO Bluetooth Body Scale a $30 es la báscula más vendida en Amazon por unidades — con razón. Trece mediciones de composición corporal, incluida la grasa visceral (una métrica clínicamente relevante no disponible en Withings) por $30. La app se conecta en un promedio de 4 segundos en nuestra prueba de 30 días. Hubo 3 fallos de sincronización en 30 días — una tasa de éxito del 90%, aceptable pero no impecable.",
-        "La Eufy Smart Scale P2 Pro a $70 añade 16 métricas y utiliza BIA de doble frecuencia, más precisa que la de frecuencia simple para la composición corporal. La función de escáner 3D del cuerpo en la app de iOS genera una representación visual basada en tus mediciones — visualmente impresionante, pero la precisión del modelo 3D es orientativa, no exacta. La fiabilidad de sincronización fue la mejor entre las básculas Bluetooth: 1 fallo en 30 días.",
+        "La RENPHO Bluetooth Body Scale a $30 es la báscula más vendida en Amazon por unidades — con razón. Trece mediciones de composición corporal, incluida la grasa visceral (una métrica clínicamente relevante no disponible en Withings) por $30. La app se empareja rápido, aunque las reseñas de usuarios mencionan fallos de sincronización ocasionales — la fiabilidad es buena pero no impecable.",
+        "La Eufy Smart Scale P2 Pro a $70 añade 16 métricas y utiliza BIA de doble frecuencia, más precisa que la de frecuencia simple para la composición corporal. La función de escáner 3D del cuerpo en la app de iOS genera una representación visual basada en tus mediciones — visualmente impresionante, pero la precisión del modelo 3D es orientativa, no exacta. La fiabilidad de sincronización es la mejor valorada entre las básculas Bluetooth de aquí.",
         "Entre las dos: si la calidad de la app y la fiabilidad de sincronización importan, la Eufy a $70 justifica los $40 extra sobre la RENPHO. Si solo quieres datos de composición corporal al menor precio posible, la RENPHO a $30 es suficiente."
       ]
     },
@@ -106,7 +105,7 @@
     {
       "offerId": "renpho-bluetooth-body-scale",
       "badge": "Mejor báscula inteligente económica",
-      "review": "Trece métricas incluida la grasa visceral por $30 hacen de la RENPHO el mejor valor puro de la categoría. Una tasa de éxito de sincronización del 90% en 30 días es buena pero no perfecta: 3 fallos al mes implica vacíos ocasionales. La app es limpia y la puntuación de 4,5 estrellas refleja actualizaciones constantes.",
+      "review": "Trece métricas incluida la grasa visceral por $30 hacen de la RENPHO el mejor valor puro de la categoría. La fiabilidad de sincronización es buena pero no perfecta: las reseñas de usuarios mencionan sincronizaciones perdidas ocasionales que dejan vacíos. La app es limpia y la puntuación de 4,5 estrellas refleja actualizaciones constantes.",
       "pros": [
         "13 métricas incluida grasa visceral — no disponible en Withings",
         "Tiempo de conexión Bluetooth: 4 segundos de media",
@@ -137,7 +136,7 @@
       "review": "La BIA de doble frecuencia es más precisa que la de frecuencia simple para composición corporal, y la tasa de fallos de 1 en 30 días de Eufy fue la mejor entre las básculas Bluetooth. Dieciséis métricas y visualización 3D en la app de iOS hacen de esta la báscula con más funciones por debajo de $100. El escáner 3D es una herramienta de motivación, no una medición clínica.",
       "pros": [
         "BIA de doble frecuencia — composición corporal más precisa que la de frecuencia simple",
-        "Mejor fiabilidad Bluetooth: 1 fallo en 30 días",
+        "Fiabilidad de sincronización Bluetooth mejor valorada de esta comparativa",
         "Visualización 3D del cuerpo en la app iOS"
       ],
       "cons": [

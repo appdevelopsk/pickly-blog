@@ -7,7 +7,7 @@
       "heading": "Notre méthode de comparaison",
       "paragraphs": [
         "Nous n'avons pas effectué de mesures indépendantes de la force d'actionnement des switches dans des conditions contrôlées. Nous n'avons pas réalisé de tests de niveau sonore avec des équipements de mesure acoustique calibrés. Nous n'avons pas mesuré le taux de polling ni la latence sans fil avec des caméras haute vitesse ou des analyseurs de signal. À la place, nous avons examiné les spécifications des fabricants et les datasheets de switches publiés.",
-        "Nous avons analysé spécifiquement les courbes de force d'actionnement publiées par Gateron pour les switches du Keychron Q1 Pro et du Nuphy Air75 V2, les spécifications publiées par Topre Corporation pour le mécanisme électrostatique capacitif 45g utilisé dans le HHKB Professional Hybrid Type-S et le Realforce R3, et les spécifications publiées par Logicool pour le mécanisme à ciseaux dans le MX Keys S.",
+        "Cette comparaison s'appuie sur les spécifications des fabricants et les datasheets publiés — notamment les courbes de force d'actionnement publiées par Gateron pour les switches du Keychron Q1 Pro et du Nuphy Air75 V2, les spécifications publiées par Topre Corporation pour le mécanisme électrostatique capacitif 45g utilisé dans le HHKB Professional Hybrid Type-S et le Realforce R3, et les spécifications publiées par Logicool pour le mécanisme à ciseaux dans le MX Keys S.",
         "Un point de cadrage avant les produits : cette comparaison couvre deux technologies de switch différentes — mécanique (Keychron Q1 Pro, Nuphy Air75 V2), électrostatique capacitif (HHKB, Realforce) et ciseaux (MX Keys S). Ceux-ci ne sont pas directement comparables sur le même axe tactile ou acoustique."
       ]
     },
@@ -16,7 +16,7 @@
       "paragraphs": [
         "Les switches mécaniques compatibles MX — la catégorie couvrant Gateron, Cherry, Kailh et les switches du Keychron Q1 Pro et Nuphy Air75 V2 — fonctionnent en fermant physiquement un circuit électrique quand un piston déprime un ressort jusqu'à un point de contact. Les switches linéaires (variantes Red, Yellow, Speed Silver) n'ont pas de bump tactile ni de clic sonore. Les switches tactiles (Brown, Clear) produisent un bump physique au point d'actionnement. Les switches clicky (Blue, Green) produisent à la fois un bump tactile et un clic sonore.",
         "Les switches électrostatiques capacitifs Topre — utilisés dans le HHKB Professional Hybrid Type-S et le Realforce R3 — fonctionnent selon un mécanisme entièrement différent. Un dôme en caoutchouc conique repose sur un ressort et un capteur capacitif ; quand vous appuyez sur la touche, le dôme se comprime, le ressort se déforme et le changement de capacitance est enregistré comme une frappe sans contact physique métal à métal.",
-        "Les switches à ciseaux — utilisés dans le Logicool MX Keys S — ne sont pas des claviers mécaniques au sens traditionnel du hobby. Le MX Keys S est inclus dans cette comparaison car il sert le même cas d'usage de 'clavier de bureau quotidien', mais nous sommes explicites : ce n'est pas un clavier mécanique."
+        "Les switches à ciseaux — utilisés dans le Logicool MX Keys S — ne sont pas des claviers mécaniques au sens traditionnel du hobby. Le MX Keys S est inclus dans cette comparaison car il sert le même cas d'usage de 'clavier de bureau quotidien', mais il faut le dire clairement : ce n'est pas un clavier mécanique."
       ]
     },
     {
@@ -114,6 +114,6 @@
     "nuphy-air75-v2": "Nuphy Air75 V2 — montage gasket ultra-slim 75%, switches mécaniques profil bas, Bluetooth 5.1 et 2.4GHz sans fil, chassis aluminium, sockets hot-swap MX low-profile compatibles, entrée de gamme. Les switches profil bas avec ~2,5–3mm de course divisent les avis des utilisateurs.",
     "realforce-r3": "Realforce R3 — mécanisme électrostatique capacitif Topre, variantes taille complète (104 touches) et TKL (87 touches), changeur de point d'actionnement (APC) réglable de 1,5mm à 3mm, fabriqué au Japon par Topre Corporation, haut de gamme pour taille complète."
   },
-  "pinDescription": "5 claviers comparés pour home office 2026 — Keychron Q1 Pro gasket sans fil vs HHKB Topre classique culte vs Logicool MX Keys S (non mécanique — on le dit) vs Nuphy Air75 V2 slim vs Realforce R3 Made in Japan. Types de switches, layout JIS vs US, vérité sur la latence sans fil.",
+  "pinDescription": "5 claviers comparés pour home office 2026 — Keychron Q1 Pro gasket sans fil vs HHKB Topre classique culte vs Logicool MX Keys S (non mécanique — dit clairement) vs Nuphy Air75 V2 slim vs Realforce R3 Made in Japan. Types de switches, layout JIS vs US, vérité sur la latence sans fil.",
   "methodology": "Cette comparaison repose sur une recherche documentaire : spécifications publiées, documentation constructeur, tests et avis indépendants."
 }
