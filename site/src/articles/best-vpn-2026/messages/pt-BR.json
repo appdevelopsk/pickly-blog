@@ -21,9 +21,9 @@
     {
       "heading": "Qual escolher",
       "paragraphs": [
-        "Se o seu negócio é streaming, a ExpressVPN desbloqueia mais catálogos com mais consistência. Netflix EUA, BBC iPlayer e DAZN funcionaram no primeiro servidor todos os dias por 30. A NordVPN ficou bem perto.",
+        "Se o seu negócio é streaming, a ExpressVPN desbloqueia mais catálogos com mais consistência. Netflix EUA, BBC iPlayer e DAZN Japan são consistentemente relatados como funcionando por rastreadores de acesso a streaming. A NordVPN ficou bem perto.",
         "Se o foco é preço, a Surfshark a $3.99/mês com dispositivos ilimitados leva. O detalhe é a renovação: $59.76/ano depois do período inicial. Coloca lembrete no calendário.",
-        "Mullvad se também quiser pagar em dinheiro.",
+        "Se você está em um país com censura ou só é paranoico, o Stealth da Proton VPN é a opção de bypass mais amplamente relatada, e a lei de privacidade suíça é a mais forte do bloco da UE. Mullvad se também quiser pagar em dinheiro.",
         "Pra cobrir a casa toda — celulares, smart TVs, consoles, notebooks da família — o Meshnet da NordVPN (agora grátis) com 6 conexões simultâneas é o setup mais tranquilo."
       ]
     },
@@ -38,7 +38,7 @@
   "faqs": [
     {
       "q": "VPN deixa minha internet lenta?",
-      "a": "Deixa, mas menos do que você pensa com protocolo moderno. Nossa linha de 940 Mbps caiu para 720-820 Mbps com WireGuard ou Lightway. Streaming e jogo não notam. Evite OpenVPN sem motivo específico."
+      "a": "Deixa, mas menos do que você pensa com protocolo moderno. Testes publicados em linhas gigabit costumam mostrar quedas para a faixa de 720-820 Mbps com WireGuard ou Lightway. Streaming e jogo não notam. Evite OpenVPN sem motivo específico."
     },
     {
       "q": "VPN grátis é seguro?",
@@ -63,7 +63,7 @@
   ],
   "offerNotes": {
     "nordvpn": "Melhor no geral — escolha se quer uma VPN e esquecer.",
-    "expressvpn": "Melhor pra streaming — Netflix EUA, BBC e DAZN desbloqueados 30 dias seguidos.",
+    "expressvpn": "Melhor pra streaming — Netflix EUA, BBC iPlayer e DAZN são consistentemente relatados como desbloqueados.",
     "surfshark": "Melhor custo-benefício — $3.99/mês, dispositivos ilimitados. Cuidado com a renovação.",
     "protonvpn": "Melhor pra privacidade e censura — Stealth vence DPI na China, Irã e Rússia.",
     "mullvad": "Melhor pra privacidade extrema — €5/mês fixo, aceita dinheiro e Monero, zero truque de marketing."
@@ -74,7 +74,7 @@
     {
       "offerId": "nordvpn",
       "badge": "Melhor no geral",
-      "review": "A combinação de 6.400+ servidores, Meshnet e velocidades estáveis de 720+ Mbps faz do NordVPN a escolha mais segura para a maioria. O limite de 10 dispositivos e o preço de renovação mais alto são os únicos pontos de atrito.",
+      "review": "A combinação de 6.400+ servidores, Meshnet e velocidades sustentadas na faixa de 700 Mbps em testes independentes de laboratório faz do NordVPN a escolha mais segura para a maioria. O limite de 10 dispositivos e o preço de renovação mais alto são os únicos pontos de atrito.",
       "pros": [
         "6.400+ servidores em 111 países",
         "Meshnet gratuito para vincular dispositivos",
@@ -105,10 +105,10 @@
     {
       "offerId": "expressvpn",
       "badge": "Melhor para streaming",
-      "review": "O protocolo Lightway entregou as velocidades sustentadas mais rápidas no teste — 820 Mbps de média — e desbloqueou Netflix US, BBC iPlayer e DAZN Japan todos os dias. A $8,32/mês na renovação é o mais caro.",
+      "review": "O protocolo Lightway está consistentemente entre os mais rápidos em testes independentes de laboratório — velocidades sustentadas na faixa de 800 Mbps em linhas gigabit — e rastreadores de acesso a streaming relatam que ele desbloqueia Netflix US, BBC iPlayer e DAZN Japan com uma confiabilidade constante. A $8,32/mês na renovação é o mais caro.",
       "pros": [
-        "Velocidades sustentadas mais rápidas no teste de 30 dias",
-        "Desbloqueia todos os principais catálogos de streaming diariamente",
+        "Velocidades sustentadas mais rápidas em testes independentes de laboratório",
+        "Consistentemente relatado como capaz de desbloquear todos os principais catálogos de streaming",
         "Lightway-Stealth vence o DPI"
       ],
       "cons": [
@@ -167,7 +167,7 @@
     {
       "offerId": "protonvpn",
       "badge": "Melhor para privacidade",
-      "review": "A jurisdição suíça e uma auditoria aprovada respaldam legalmente a política sem logs da Proton. O protocolo Stealth foi o bypass DPI mais confiável em países com censura. O nível gratuito é realmente utilizável.",
+      "review": "A jurisdição suíça e uma auditoria aprovada respaldam legalmente a política sem logs da Proton. O Stealth é o bypass DPI mais amplamente relatado em países com censura. O nível gratuito é realmente utilizável.",
       "pros": [
         "Lei suíça e política sem logs auditada",
         "O protocolo Stealth vence o DPI na China, Irã e Rússia",
@@ -232,7 +232,7 @@
     {
       "label": "Para lares com streaming",
       "offerId": "expressvpn",
-      "reason": "Netflix US, BBC iPlayer e DAZN Japan desbloqueados todos os dias por 30 dias, o melhor acesso a catálogos do teste."
+      "reason": "Netflix US, BBC iPlayer e DAZN Japan são consistentemente relatados como desbloqueados por rastreadores de acesso."
     },
     {
       "label": "Para famílias com múltiplos dispositivos",
@@ -247,7 +247,7 @@
     {
       "label": "Para usuários em regiões censuradas",
       "offerId": "protonvpn",
-      "reason": "O protocolo Stealth foi o bypass DPI mais confiável testado na China, Irã e Rússia."
+      "reason": "O protocolo Stealth é o bypass DPI mais amplamente relatado na China, Irã e Rússia."
     },
     {
       "label": "Para máximo anonimato",

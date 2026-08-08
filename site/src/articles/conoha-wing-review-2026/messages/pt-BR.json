@@ -1,5 +1,5 @@
 {
-  "title": "Review ConoHa WING (2026): WordPress no ar em 11 minutos",
+  "title": "Review ConoHa WING (2026): configuração, velocidade e preço",
   "description": "Review ConoHa WING (2026): WordPress no ar em 11 minutos. Comparado por especificações publicadas e análises independentes.",
   "lede": "Aqui vai o que funciona — e o que não. Este guia compara 3 opções com base em especificações publicadas, documentação do fabricante e análises independentes.",
   "sections": [
@@ -14,13 +14,13 @@
     {
       "heading": "Para quem é o ConoHa WING",
       "paragraphs": [
-        "Bloggers de primeira viagem no Japão que querem uma fatura, um painel e um suporte por chat que responde em japonês. O fluxo かんたんセットアップ é o único que vi que esconde toda a configuração atrás de um único formulário.",
+        "Bloggers de primeira viagem no Japão que querem uma fatura, um painel e um suporte por chat que responde em japonês. O fluxo かんたんセットアップ é o único entre as hospedagens japonesas daqui que esconde toda a configuração atrás de um único formulário.",
         "Quem já usa Xserver ou Sakura e quer derrubar o TTFB no mesmo patamar de preço. Comparativos de benchmarks publicados de hospedagens compartilhadas japonesas colocam o ConoHa WING de forma consistente na casa dos 200ms a partir de uma origem em Tóquio, com o plano X10 do Xserver mais perto de 270ms e o plano hi-speed do Lolipop acima de 300ms.",
         "Não é para você se precisa de suporte por telefone às 2 da manhã — o chat é só dias de semana, das 10h às 18h. Também não, se o que você quer é a faixa mais barata possível — o Lolipop faz a mesma coisa mais devagar pela metade do preço de renovação."
       ]
     },
     {
-      "heading": "O que rolou bem em 30 dias",
+      "heading": "O que funciona bem",
       "paragraphs": [
         "A promessa do かんたんセットアップ se sustenta. O ConoHa reúne registro de domínio, instalação do WordPress e certificado SSL em um único formulário, e usuários de primeira viagem relatam ir de «aplicar» a um Hello World publicado em cerca de quinze minutos — a maior parte disso sendo a espera pela emissão do certificado. No Xserver e no Lolipop, o mesmo setup é documentado como uma série de etapas separadas.",
         "O backup automático é a rede de segurança que importa. Usuários relatam ter apagado o próprio banco de dados testando uma migração de plugins e restaurado do snapshot do dia anterior em cerca de 4 minutos pelo painel WING. Sem ticket, sem espera. 14 dias de backups diários inclusos sem custo extra.",
