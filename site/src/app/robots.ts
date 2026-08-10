@@ -33,9 +33,13 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/", "/og/_raw/"],
       },
       {
+        // NOTE: /_next/ must stay crawlable. Every page loads its CSS and JS
+        // from /_next/static/, so disallowing it made Googlebot render the
+        // whole site unstyled and script-less (2026-08-10). Only the API and
+        // the raw OG endpoint are off-limits.
         userAgent: "*",
         allow: "/",
-        disallow: ["/api/", "/_next/", "/og/_raw/"],
+        disallow: ["/api/", "/og/_raw/"],
       },
     ],
     sitemap: [`${SITE_URL}/sitemap.xml`, `${SITE_URL}/web-stories/sitemap.xml`],
