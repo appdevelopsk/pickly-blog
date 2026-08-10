@@ -77,16 +77,31 @@ const AMAZON_TAG_DEFAULTS: Partial<Record<AspNetwork, string>> = {
   "amazon-ca": "pickly056-20",
 };
 
-// EU amazon-de リンクを訪問者のロケールに応じて各国 Amazon にリマップ
-const EU_REMAP: Partial<Record<Market, AspNetwork>> = {
+// amazon-de/amazon-us の共有リンクを訪問者のロケールに応じて各国 Amazon にリマップ。
+// US は対象外(amazon-us が既に自国)。
+const LOCAL_REMAP: Partial<Record<Market, AspNetwork>> = {
   "FR": "amazon-fr",
   "ES": "amazon-es",
   "IT": "amazon-it",
+  "UK": "amazon-uk",
+  "CA": "amazon-ca",
+  "JP": "amazon-jp",
 };
 
 export function buildAffiliateUrl({ link, productName, market, env = defaultEnv }: BuildOptions): string {
-  // EU amazon-de リンクをロケール別 Amazon にリマップ
-  const remapped = link.network === "amazon-de" && market ? EU_REMAP[market] : undefined;
+  // 共有リンクをロケール別 Amazon にリマップ。
+  // ★2026-08-10: amazon-de かつ markets に "EU" を含む商品だけをリマップ対象にしていた。
+  //   その結果、次の2クラスが自国以外の Amazon に誤送されていた:
+  //   ①markets:["EU"] だが network が amazon-us の商品(363件・productIdが商品名で
+  //     ASIN無し) → FR/ES/IT の読者に amazon.com の英語検索URLがそのまま出ていた
+  //     (ドイツ語どころか米国サイトへの誤送＝クリックはあるのに成約ゼロの主因)。
+  //   ②markets:["global"] の amazon-us 商品(約400件) → UK/CA/JP/FR/ES/IT
+  //     どの読者にも amazon.com が出ていた(rawUrl付きの実ASINだったため気づきにくかった)。
+  //   → network が amazon-de/amazon-us で、markets に "EU" か "global" を含む候補は
+  //     network を問わず訪問者の自国 Amazon にリマップする。
+  const isSharedAmazon = link.network === "amazon-de" || link.network === "amazon-us";
+  const isRemappable = link.markets.includes("EU") || link.markets.includes("global");
+  const remapped = isSharedAmazon && isRemappable && market ? LOCAL_REMAP[market] : undefined;
   const effectiveNetwork = remapped ?? link.network;
   const effectiveLink = remapped ? { ...link, network: remapped, rawUrl: undefined } : link;
 
