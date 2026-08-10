@@ -2948,7 +2948,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dish-rack-muji-acrylic-jp",
-    "imageUrl": "https://media.karousell.com/media/photos/products/2023/7/27/muji_dish_drying_rack_1690421510_efe66f10_progressive.jpg",
+    "imageUrl": "https://media.karousell.com/media/photos/products/2020/4/23/muji_dish_drying_rack_1587615380_1650059a_progressive.jpg",
     "priceMin": "¥2,500",
     "priceMax": "¥4,000",
     "category": "home",
@@ -5470,7 +5470,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-hada-labo-gokujun",
-    "imageUrl": "https://rohto.co.id/assets/uploads/product/20240212102735.png",
+    "imageUrl": "",
     "priceMin": "¥660",
     "priceMax": "¥660",
     "category": "beauty",
@@ -8567,7 +8567,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "perfume-diptyque-do-son",
-    "imageUrl": "https://btega.com/wp-content/uploads/2023/03/DIPTYQUE-DOSON-EDP-75ML-1.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/7191u3r1O7L.jpg",
     "priceMin": "¥12,430",
     "priceMax": "¥19,800",
     "category": "beauty",
@@ -16706,7 +16706,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ebags-medium-laundry-bag",
-    "imageUrl": "https://tinylivinglife.com/wp-content/uploads/2022/10/0-eBags-Classic-Packing-Cubes-1280x1226.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/81+RwbpQa1L._AC_.jpg",
     "priceMin": "$12",
     "priceMax": "$18",
     "category": "travel",
@@ -30286,7 +30286,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "imglobal-iimat",
-    "imageUrl": "https://maskuralogistics.com/wp-content/uploads/2025/02/Impact-of-Amazon-Fulfillment-Centers-on-Global-Logistics.jpg",
+    "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg",
     "priceMin": "$70",
     "priceMax": "$500",
     "category": "finance",
@@ -32184,7 +32184,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "capital-one-360-cd",
-    "imageUrl": "https://i.ytimg.com/vi/gFZEEMQYSws/maxresdefault.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/MEgzhoFlQAM/maxresdefault.jpg",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
@@ -35954,7 +35954,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "xero-growing",
-    "imageUrl": "https://ecloud-experts.com/wp-content/uploads/How-Amazon-Xero-and-QuickBooks-Work-Together.png",
+    "imageUrl": "",
     "priceMin": "$32",
     "priceMax": "$78",
     "category": "tech",
@@ -38452,7 +38452,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "lysol-no-touch-automatic-dispenser",
-    "imageUrl": "https://www.officesupplyinc.com/images/650/RAC93205.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71rZUXrfabL._SL1500_.jpg",
     "priceMin": "$10",
     "priceMax": "$15",
     "category": "home",
@@ -43997,7 +43997,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frisco-cooling-mat",
-    imageUrl: "https://www.dogster.com/wp-content/uploads/2022/02/Frisco-Cooling-Orthopedic-Dog-Crate-Mat-2024.png",
+    imageUrl: "",
     category: "pets",
     name: { en: "Frisco Cooling Mat" },
     description: { en: "The Frisco Cooling Mat is the value retailer-brand pick — Frisco (Chewy's house brand) offers affordable, no-nonsense pressure-activated gel cooling mats that do the core self-coo…" },
@@ -44657,7 +44657,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frisco-slow-feeder-bowl",
-    imageUrl: "https://www.dogster.com/wp-content/uploads/2022/03/Frisco-Bone-Shaped-Ridges-Slow-Feeder.png",
+    imageUrl: "",
     category: "pets",
     name: { en: "Frisco Slow Feeder Bowl" },
     description: { en: "The Frisco Slow Feeder Bowl is the house-brand value pick — Chewy's Frisco offers affordable, dependable slow-feeder maze bowls that do the core job at a budget-friendly price, in…" },
@@ -45009,7 +45009,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "asus-rp-ax58",
-    imageUrl: "https://webshop.asus.com/media/0e/3b/93/1710714755/f7180376c0fe315a32b03326c7c0e65c.png",
+    imageUrl: "https://m.media-amazon.com/images/I/5148T8LvTRL._AC_SL1200_.jpg",
     category: "tech",
     name: { en: "Asus Rp Ax58" },
     description: { en: "The ASUS RP-AX58 (AX3000) is the premium WiFi 6 pick — the fastest, most capable extender here with AiMesh support, ideal for pairing with an ASUS router." },
