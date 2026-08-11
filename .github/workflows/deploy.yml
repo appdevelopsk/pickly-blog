@@ -167,7 +167,11 @@ jobs:
       - name: Trim RSC payloads
         run: |
           before=$(find out -type f | wc -l)
-          find out -name '*.txt' ! -name 'robots.txt' -delete
+          # -mindepth 2: ルート直下の .txt (robots.txt / llms.txt / IndexNow鍵) は残す。
+          # 消してよいのはページ配下の RSC ペイロード .txt だけ。
+          # (2026-08-11: 旧条件が IndexNow 鍵ファイルまで消し、Bing への
+          #  一括送信が鍵検証404で全滅していた)
+          find out -mindepth 2 -name '*.txt' -delete
           after=$(find out -type f | wc -l)
           echo "files: $before -> $after (Pages limit 20000)"
           if [ "$after" -ge 20000 ]; then
