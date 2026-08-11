@@ -77,6 +77,28 @@ const AMAZON_TAG_DEFAULTS: Partial<Record<AspNetwork, string>> = {
   "amazon-ca": "pickly056-20",
 };
 
+/**
+ * ★閉鎖された(または閉鎖された疑いのある)アソシエイトアカウントのネットワーク。
+ *
+ * ここに入れたネットワークは amazon-us(pickly07-20)へ退避する。US アカウントは
+ * Earn Globally 対象(US/CA/UK/DE/FR/IT/ES/NL/PL/SE)なので、訪問者は自国 Amazon へ
+ * 自動リダイレクトされ、**現地レートで US アカウントに計上される**。
+ * つまり退避しても報酬は失われない。退避しなければ死にタグ＝1円にもならない。
+ *
+ * なぜ必要か: 同じ失敗を一度やっている。7/24 に却下された pickly091-20 を本番が
+ * 配信し続け、US のクリックが全て無計上になっていた(2026-08-06 に発覚・差し替え)。
+ *
+ * ★JP は入れてはいけない。amazon.co.jp は Earn Globally の対象外で、退避すると
+ *   日本の読者が amazon.com に送られる(別アカウント pickly-22 で実績もある)。
+ *
+ * ■ いつ追加するか
+ *   Amazon から「180日以内に適格販売3件」の警告を受けたアカウントが実際に閉鎖された時。
+ *   2026-08-11 時点の仮アカウント(3件未達なら閉鎖): UK/FR/ES/CA。
+ *   閉鎖済みが確認できたら該当ネットワークをこの Set に足すだけでよい。
+ *   (DE=本承認済み・IT=注文2件で残り1件・JP/US=稼働中)
+ */
+const RETIRED_AMAZON_NETWORKS = new Set<AspNetwork>([]);
+
 // amazon-de/amazon-us の共有リンクを訪問者のロケールに応じて各国 Amazon にリマップ。
 // US は対象外(amazon-us が既に自国)。
 const LOCAL_REMAP: Partial<Record<Market, AspNetwork>> = {
@@ -102,8 +124,12 @@ export function buildAffiliateUrl({ link, productName, market, env = defaultEnv 
   const isSharedAmazon = link.network === "amazon-de" || link.network === "amazon-us";
   const isRemappable = link.markets.includes("EU") || link.markets.includes("global");
   const remapped = isSharedAmazon && isRemappable && market ? LOCAL_REMAP[market] : undefined;
-  const effectiveNetwork = remapped ?? link.network;
-  const effectiveLink = remapped ? { ...link, network: remapped, rawUrl: undefined } : link;
+  const localNetwork = remapped ?? link.network;
+  // 閉鎖済みアカウントは US(Earn Globally)へ退避する。詳細は RETIRED_AMAZON_NETWORKS。
+  const retired = RETIRED_AMAZON_NETWORKS.has(localNetwork) ? ("amazon-us" as AspNetwork) : undefined;
+  const effectiveNetwork = retired ?? localNetwork;
+  const rewritten = retired ?? remapped;
+  const effectiveLink = rewritten ? { ...link, network: effectiveNetwork, rawUrl: undefined } : link;
 
   const tagEnvKey = AMAZON_TAG_ENV[effectiveNetwork];
   const amazonHost = AMAZON_HOSTS[effectiveNetwork];
@@ -115,9 +141,12 @@ export function buildAffiliateUrl({ link, productName, market, env = defaultEnv 
       // タグあり → 成果計上できるURLにタグを注入。
       // ①rawUrl(dp/検索どちらでも)があれば最優先 ②productIdが実ASIN(英数10桁)なら/dpリンク
       // ③それ以外(productIdが商品名)は /dp/名前=404 になるためタグ付き検索URLにフォールバック
+      // ★退避時(retired)は ASIN を使わない。ASIN は marketplace ごとに違い、
+      //   amazon.co.uk の ASIN を amazon.com/dp/ に付けると 404 になる
+      //   (localAmazonFallback が商品名検索を使っているのと同じ理由)。
       let base;
-      if (effectiveLink.rawUrl) base = effectiveLink.rawUrl;
-      else if (/^[A-Z0-9]{10}$/.test(effectiveLink.productId)) base = `https://www.${amazonHost}/dp/${effectiveLink.productId}`;
+      if (!retired && effectiveLink.rawUrl) base = effectiveLink.rawUrl;
+      else if (!retired && /^[A-Z0-9]{10}$/.test(effectiveLink.productId)) base = `https://www.${amazonHost}/dp/${effectiveLink.productId}`;
       else base = `https://www.${amazonHost}/s?k=${q}`;
       return injectAmazonTag(base, tag);
     }
