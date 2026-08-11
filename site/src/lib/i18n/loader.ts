@@ -129,6 +129,9 @@ function readArticleMessages(slug: string, locale: string): Messages | null {
 /** sitemap は article×locale で1万回以上呼ぶのでメモ化する。 */
 const translatedCache = new Map<string, boolean>();
 
+/** 記事本文を構成するキー。ロケール側に無ければ描画時に en へフォールバックする。 */
+const BODY_KEYS = ["sections", "products", "faqs", "recommendedFor"] as const;
+
 /**
  * Returns true if the article body is actually translated for the given locale.
  *
@@ -154,6 +157,15 @@ export function isArticleBodyTranslated(slug: string, locale: string): boolean {
 
     const en = readArticleMessages(slug, DEFAULT_LOCALE);
     if (!en) return true; // 比較対象が無ければ従来どおりタイトル有無で判定
+
+    // 本文キーがロケール側に「存在しない」場合、描画時に loadArticleContent の
+    // `{ ...base, ...localized }` で en の本文がそのまま配信される。ロケールファイルには
+    // 英語の文字列が1つも無いので下の同一文字列チェックは 0/N ですり抜けるが、
+    // 実際にユーザーと検索エンジンが見るのは英語本文。よって未翻訳として扱う。
+    // （2026-08-12 の全数調査で 3,059 ファイルがこの形、うち 1,494 ページが
+    //  index + self-canonical で英語本文を配信していた）
+    const missingBody = BODY_KEYS.some((k) => en[k] !== undefined && msg[k] === undefined);
+    if (missingBody) return false;
 
     const enStrings: string[] = [];
     collectStrings(en, enStrings);
