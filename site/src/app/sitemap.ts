@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { LOCALES, isIndexedLocale, DEFAULT_LOCALE } from "@/lib/i18n/locales";
+import { withEnglishGeoAlternates } from "@/lib/i18n/alternates";
 import { listArticles, listArticlesForLocale } from "@/lib/articles/registry";
 import { isDeindexed } from "@/lib/articles/deindexed-slugs";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
@@ -49,7 +50,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: path === "" ? "daily" : "monthly",
         priority: path === "" ? 1.0 : 0.5,
         alternates: {
-          languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}${path}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}${path}/` },
+          languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}${path}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}${path}/` }),
         },
       });
     }
@@ -64,7 +65,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: "weekly",
         priority: 0.7,
         alternates: {
-          languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/under/${budget}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/under/${budget}/` },
+          languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/under/${budget}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/under/${budget}/` }),
         },
       });
     }
@@ -78,7 +79,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency: "monthly",
         priority: 0.8,
-        alternates: { languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/gifts/${occ.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/gifts/${occ.slug}/` } },
+        alternates: { languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/gifts/${occ.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/gifts/${occ.slug}/` }) },
       });
     }
   }
@@ -91,7 +92,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency: "monthly",
         priority: 0.7,
-        alternates: { languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/for/${uc.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/for/${uc.slug}/` } },
+        alternates: { languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/for/${uc.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/for/${uc.slug}/` }) },
       });
     }
   }
@@ -104,7 +105,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency: "monthly",
         priority: 0.6,
-        alternates: { languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/brand/${brand.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/brand/${brand.slug}/` } },
+        alternates: { languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/brand/${brand.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/brand/${brand.slug}/` }) },
       });
     }
   }
@@ -117,7 +118,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency: "monthly" as const,
         priority: 0.7,
-        alternates: { languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/sale/${ev.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/sale/${ev.slug}/` } },
+        alternates: { languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/sale/${ev.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/sale/${ev.slug}/` }) },
       });
     }
   }
@@ -130,7 +131,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency: "weekly" as const,
         priority: 0.7,
-        alternates: { languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/tag/${tag.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/tag/${tag.slug}/` } },
+        alternates: { languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/tag/${tag.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/tag/${tag.slug}/` }) },
       });
     }
   }
@@ -157,7 +158,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: now,
         changeFrequency: "monthly" as const,
         priority: 0.8,
-        alternates: { languages: { ...Object.fromEntries(locales.map((l) => [l, `${SITE_URL}/${l}/compare/${cmp.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/compare/${cmp.slug}/` } },
+        alternates: { languages: withEnglishGeoAlternates({ ...Object.fromEntries(locales.map((l) => [l, `${SITE_URL}/${l}/compare/${cmp.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/compare/${cmp.slug}/` }) },
       });
     }
   }
@@ -171,7 +172,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         changeFrequency: "weekly",
         priority: 0.7,
         alternates: {
-          languages: { ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/category/${cat}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/category/${cat}/` },
+          languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/category/${cat}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/category/${cat}/` }),
         },
       });
     }
@@ -200,7 +201,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         // Surface the 1000x1500 OG image in Google Images (image sitemap).
         images: [ogImageUrl(article.slug, locale)],
         alternates: {
-          languages: {
+          languages: withEnglishGeoAlternates({
             ...Object.fromEntries(
               indexLocales.map((l) => [
                 l,
@@ -213,7 +214,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
             "x-default": `${SITE_URL}/${
               indexLocales.includes(DEFAULT_LOCALE) ? DEFAULT_LOCALE : indexLocales[0]
             }/articles/${article.slug}/`,
-          },
+          }),
         },
       });
     }

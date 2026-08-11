@@ -16,6 +16,7 @@ import { AffiliateClickTracker } from "@/components/AffiliateClickTracker";
 import { ScrollProgress } from "@/components/ScrollProgress";
 import { BackToTop } from "@/components/BackToTop";
 import { loadArticleContent, isArticleBodyTranslated } from "@/lib/i18n/loader";
+import { withEnglishGeoAlternates } from "@/lib/i18n/alternates";
 import { OG_BASE_URL } from "@/lib/og";
 import type { ArticleContent } from "@/lib/articles/types";
 
@@ -354,14 +355,14 @@ export async function generateMetadata({ params }: Props) {
             hasApprovedAds(meta, l) &&
             isArticleBodyTranslated(slug, l),
         );
-        return {
+        return withEnglishGeoAlternates({
           ...Object.fromEntries(ls.map((l) => [l, `${SITE_URL}/${l}/articles/${slug}/`])),
           // 英語版が生成されない記事(ja限定など)で x-default を出すと 404 を指す。
           // 実際に出せる場合だけ宣言する (2026-08-02、3記事で発生していた)。
           ...(ls.includes(DEFAULT_LOCALE)
             ? { "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/articles/${slug}/` }
             : {}),
-        };
+        });
       })(),
     },
     openGraph: {
