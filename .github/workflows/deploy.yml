@@ -171,7 +171,9 @@ jobs:
           # 消してよいのはページ配下の RSC ペイロード .txt だけ。
           # (2026-08-11: 旧条件が IndexNow 鍵ファイルまで消し、Bing への
           #  一括送信が鍵検証404で全滅していた)
-          find out -mindepth 2 -name '*.txt' -delete
+          # -type f 必須: _next/static/chunks/app/robots.txt/ という「ディレクトリ」が
+          # 存在し、-delete がディレクトリに当たると Directory not empty で落ちる
+          find out -mindepth 2 -type f -name '*.txt' -delete
           after=$(find out -type f | wc -l)
           echo "files: $before -> $after (Pages limit 20000)"
           if [ "$after" -ge 20000 ]; then
