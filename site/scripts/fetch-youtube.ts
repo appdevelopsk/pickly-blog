@@ -84,7 +84,12 @@ async function main() {
     ? JSON.parse(readFileSync(RK_PATH, "utf-8"))
     : {};
 
-  let offers = CATALOG;
+  // CATALOG には同一 id の重複が 208 件ある（3,908行 / 実 3,700 商品）。
+  // 重複を残すと同じ商品を2回検索してクォータ(100検索/日)を捨てることになる
+  // ＝優先度上位ほど重複が隣り合うため、実測で90検索中32件が無駄だった。
+  const byId = new Map<string, (typeof CATALOG)[number]>();
+  for (const o of CATALOG) if (!byId.has(o.id)) byId.set(o.id, o);
+  let offers = [...byId.values()];
   if (category) offers = offers.filter((o) => o.category === category);
   // 楽天マッチ済(実在確度が高い)商品を優先すると無駄打ちが減る
   if (onlyMatched) offers = offers.filter((o) => rk[o.id]?.itemUrl);
