@@ -12,7 +12,12 @@
 #     全体の9%しか覆えなかった（実流入順にして31%）。
 #   未取得ぶんはサイト側で en にフォールバックするので、途中でも表示は壊れない。
 #
-# 言語の順番: Bing 実測で CTR の高い中国語圏 → 表示量の多い欧州言語 → 残り。
+# 言語の順番（2026-08-12 GA4実測で組み直し）:
+#   「閲覧シェア × 未取得率」の大きい順。当初は中国語圏を先頭にしていたが、
+#   実測では en が 46.8% と半分近くを占め、zh-TW は 2.2% で最下位に近かった。
+#   さらに en は巡回対象にすら入っておらず、上位1000商品の en 充足率は 58% だった。
+#   ja は他言語へフォールバックしない設計なので、充足率38%＝日本語読者は上位でも
+#   6割で動画が出ない。en の次に置く。
 # 日替わりで巡回し、各言語の未取得ぶんが尽きたら次の言語へ自動で送る。
 
 set -euo pipefail
@@ -32,7 +37,7 @@ if [[ -z "$YOUTUBE_API_KEY" ]]; then
   exit 1
 fi
 
-LANGS=(zh-TW zh-CN ko de es fr it ru pt-BR tr id vi th hi ar)
+LANGS=(en ja fr de es it id pt-BR ko ru vi ar zh-CN zh-TW th hi tr)
 
 # 未取得が残っている最初の言語を選ぶ（尽きた言語は飛ばす）。
 TARGET=""
@@ -50,7 +55,12 @@ npx tsx scripts/fetch-youtube.ts --lang "$TARGET" \
   --ids-file scripts/youtube-priority-ids.txt --limit "$LIMIT"
 
 # キャッシュ差分だけを commit する（本番反映は git push → Pages）。
-CACHE="src/lib/affiliates/youtube-cache-$TARGET.json"
+# ja だけ歴史的にサフィックス無し（fetch-youtube.ts の cachePath と同じ規則）。
+if [[ "$TARGET" == "ja" ]]; then
+  CACHE="src/lib/affiliates/youtube-cache.json"
+else
+  CACHE="src/lib/affiliates/youtube-cache-$TARGET.json"
+fi
 cd /Users/ken/pickly-blog
 if ! git diff --quiet -- "site/$CACHE"; then
   git add "site/$CACHE"
