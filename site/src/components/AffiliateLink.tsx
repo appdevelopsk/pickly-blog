@@ -154,9 +154,11 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         <span className="text-slate-400">（楽天{rakutenMatch.reviewCount.toLocaleString("ja-JP")}件）</span>
       </span>
     ) : null;
-  // JPで該当商品のレビュー動画がキャッシュ済みなら埋め込み(facade)。無ければ検索リンク。
-  // 動画=最大の滞留レバー。JP=日本語動画 / 非JP=英語動画(youtube-cache-en)。
-  const reviewVideo = getReviewVideo(offer.id, market === "JP" ? "ja" : "en");
+  // 該当商品のレビュー動画がキャッシュ済みなら埋め込み(facade)。無ければ検索リンク。
+  // 動画=最大の滞留レバー。★選択は market ではなく locale で行う(2026-08-12)。
+  // market だと de/fr/ko どれも「非JP」でひとまとめ＝英語動画になり、本文の
+  // 言語と動画の言語が食い違っていた。キャッシュ未取得の言語は en に落ちる。
+  const reviewVideo = getReviewVideo(offer.id, locale);
   const youtubeLink = !reviewVideo ? (
     <a
       href={youtubeReviewSearchUrl(offer.name.en ?? name, locale)}
@@ -164,7 +166,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       rel="noopener noreferrer"
       className="inline-flex items-center gap-1 text-xs font-medium text-slate-500 hover:text-[#FF0000] transition-colors"
     >
-      ▶ {locale === "ja" ? "レビュー動画" : "Video review"}
+      ▶ {t("offer.videoReview")}
     </a>
   ) : null;
   const reviewRow =
@@ -175,7 +177,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       </div>
     ) : null;
   const videoBlock = reviewVideo ? (
-    <ReviewVideo videoId={reviewVideo.videoId} title={reviewVideo.title} />
+    <ReviewVideo videoId={reviewVideo.videoId} title={reviewVideo.title} label={t("offer.videoReview")} />
   ) : null;
 
   if (!link) {

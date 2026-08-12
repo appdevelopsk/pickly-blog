@@ -18,11 +18,14 @@ import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { CATALOG } from "../src/lib/affiliates/catalog";
 import { searchReviewVideos } from "../src/lib/youtube/client";
+import { YT_LOCALES } from "../src/lib/youtube/locale-search";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
-const CACHE_PATH_JA = resolve(HERE, "../src/lib/affiliates/youtube-cache.json");
-const CACHE_PATH_EN = resolve(HERE, "../src/lib/affiliates/youtube-cache-en.json");
-const RK_PATH = resolve(HERE, "../src/lib/affiliates/rakuten-cache.json");
+const AFF = resolve(HERE, "../src/lib/affiliates");
+const RK_PATH = resolve(AFF, "rakuten-cache.json");
+// ja だけ歴史的にサフィックス無し。それ以外は youtube-cache-<locale>.json。
+const cachePath = (lang: string) =>
+  resolve(AFF, lang === "ja" ? "youtube-cache.json" : `youtube-cache-${lang}.json`);
 
 type Entry = { videoId: string | null; title?: string; channel?: string; fetchedAt: string };
 type Cache = Record<string, Entry>;
@@ -30,10 +33,15 @@ type Cache = Record<string, Entry>;
 const args = process.argv.slice(2);
 const limit = numFlag("--limit") ?? 90;
 const category = strFlag("--category");
-// --lang en: 英語圏向け動画を別キャッシュ(youtube-cache-en.json)に取得。
-// 既存jaキャッシュは日本語動画中心のため、非JP market にはEN動画を出し分ける(AffiliateLink)。
-const lang = (strFlag("--lang") ?? "ja") as "ja" | "en";
-const CACHE_PATH = lang === "en" ? CACHE_PATH_EN : CACHE_PATH_JA;
+// --lang <locale>: 17言語すべて指定可(2026-08-12にja/enの2択から拡張)。
+// 検索語・relevanceLanguage・regionCode・除外文字種は YT_LOCALES から引く。
+const lang = strFlag("--lang") ?? "ja";
+if (!YT_LOCALES[lang]) {
+  console.error(`未知の --lang ${lang}（有効: ${Object.keys(YT_LOCALES).join(", ")}）`);
+  process.exit(1);
+}
+const CONF = YT_LOCALES[lang];
+const CACHE_PATH = cachePath(lang);
 // --ids-file <path>: 改行区切りofferIdの優先リスト(上位流入記事の商品から取得する用)
 const idsFile = strFlag("--ids-file");
 const onlyMatched = process.env.ONLY_MATCHED === "1";
@@ -75,7 +83,7 @@ async function main() {
   if (category) offers = offers.filter((o) => o.category === category);
   // 楽天マッチ済(実在確度が高い)商品を優先すると無駄打ちが減る
   if (onlyMatched) offers = offers.filter((o) => rk[o.id]?.itemUrl);
-  if (lang === "en") offers = offers.filter((o) => o.name.en); // EN検索はen名必須
+  if (lang !== "ja") offers = offers.filter((o) => o.name.en); // 非ja検索はen名（型番）必須
   if (idsFile && existsSync(idsFile)) {
     // ids-file の記載順を優先順位として尊重する(filterだとCATALOG順に戻ってしまう)
     const pri = readFileSync(idsFile, "utf-8").split(/\r?\n/).filter(Boolean);
@@ -89,7 +97,7 @@ async function main() {
   let done = 0;
   let hit = 0;
   for (const offer of todo) {
-    const query = lang === "en" ? (offer.name.en as string) : (offer.name.ja ?? offer.name.en ?? offer.id);
+    const query = lang === "ja" ? (offer.name.ja ?? offer.name.en ?? offer.id) : (offer.name.en as string);
     const tks = tokens(offer.name.en, offer.name.ja);
     const result = await searchReviewVideos(query, { locale: lang, max: 5 });
     if ("quotaExceeded" in result) {

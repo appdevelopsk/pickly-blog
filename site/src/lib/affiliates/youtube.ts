@@ -57,7 +57,9 @@ export interface ReviewVideoMeta {
 /** locale に対して読むキャッシュの優先順（例: pt-BR → pt → en）。 */
 function chain(locale: string): string[] {
   const base = locale.split("-")[0];
-  const order = [locale, base, "en"];
+  // ja は自前キャッシュが埋まっている（1,086本）ので en に落とさない。
+  // 落とすと日本語記事に英語動画が出る＝今回直している不一致そのものになる。
+  const order = base === "ja" ? ["ja"] : [locale, base, "en"];
   return order.filter((l, i) => l in CACHES && order.indexOf(l) === i);
 }
 

@@ -10,7 +10,9 @@ import { useState } from "react";
 export function ReviewVideo({
   videoId,
   title,
-  label = "レビュー動画",
+  // 呼び出し側が t("offer.videoReview") を渡す。既定は言語非依存の英語
+  // （以前は日本語固定で、非日本語ページにも「レビュー動画」と出ていた）。
+  label = "Video review",
 }: {
   videoId: string;
   title?: string;
@@ -38,7 +40,7 @@ export function ReviewVideo({
     <button
       type="button"
       onClick={() => setOpen(true)}
-      aria-label={`${label}を再生`}
+      aria-label={label}
       className="group relative mt-3 block aspect-video w-full overflow-hidden rounded-lg border border-slate-200 bg-slate-100"
     >
       {/* eslint-disable-next-line @next/next/no-img-element */}
