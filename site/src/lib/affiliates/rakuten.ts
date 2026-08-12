@@ -10,6 +10,8 @@
  * 定数で持つ（秘密ではない）。env で上書き可能。RWS API（商品データ取得）は
  * 別系統で、こちらはAPI不要・レート制限なし・ビルド/クライアント両対応。
  */
+import { ytLocale } from "@/lib/youtube/locale-search";
+
 const RAKUTEN_AFFILIATE_ID =
   process.env.NEXT_PUBLIC_RAKUTEN_AFFILIATE_ID ?? "53e47703.78b3c1ac.53e47704.15517b06";
 
@@ -51,10 +53,19 @@ export interface RakutenProduct {
   reviewCount: number; // 楽天レビュー件数
 }
 
-/** 商品名から YouTube のレビュー動画検索URL（ロケール別の語）。 */
+/**
+ * 商品名から YouTube のレビュー動画検索URL（ロケール別の語 + hl/gl）。
+ * 2026-08-12 まで ja 以外は一律 "review" で、独・仏・韓… の読者を英語検索へ
+ * 飛ばしていた。17言語ぶんの語と UI 言語を YT_LOCALES から引く。
+ */
 export function youtubeReviewSearchUrl(query: string, locale: string): string {
-  const term = locale === "ja" ? "レビュー" : "review";
-  return `https://www.youtube.com/results?search_query=${encodeURIComponent(`${query} ${term}`)}`;
+  const conf = ytLocale(locale);
+  const p = new URLSearchParams({
+    search_query: `${query} ${conf.term}`,
+    hl: conf.hl,
+    gl: conf.gl,
+  });
+  return `https://www.youtube.com/results?${p.toString()}`;
 }
 
 function norm(s: string): string {

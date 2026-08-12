@@ -9,6 +9,8 @@
  * クォータ: search.list = 100 units / 1日10,000 = 約100検索/日。キャッシュで再利用。
  */
 
+import { ytLocale } from "./locale-search";
+
 const SEARCH = "https://www.googleapis.com/youtube/v3/search";
 
 export interface YoutubeVideo {
@@ -35,18 +37,18 @@ export async function searchReviewVideos(
   query: string,
   opts: { locale?: string; max?: number; key?: string } = {},
 ): Promise<YoutubeVideo[] | QuotaExceeded> {
-  const locale = opts.locale ?? "ja";
-  const term = locale === "ja" ? "レビュー" : "review";
+  const conf = ytLocale(opts.locale ?? "ja");
   const params = new URLSearchParams({
     part: "snippet",
-    q: `${query} ${term}`,
+    q: `${query} ${conf.term}`,
     type: "video",
     maxResults: String(opts.max ?? 5),
     safeSearch: "strict",
     videoEmbeddable: "true", // 埋め込み可能な動画だけ
     order: "relevance",
     key: opts.key ?? apiKey(),
-    ...(locale === "ja" ? { relevanceLanguage: "ja", regionCode: "JP" } : { relevanceLanguage: "en" }),
+    relevanceLanguage: conf.relevanceLanguage,
+    ...(conf.regionCode ? { regionCode: conf.regionCode } : {}),
   });
   const res = await fetch(`${SEARCH}?${params.toString()}`);
   // クォータ超過は 403 または 429 で返る（どちらも graceful 停止）。
