@@ -5,7 +5,8 @@
  *   npx tsx scripts/youtube-remaining.ts de
  *
  * 優先リストの上限（既定1,000件）まで見る。全3,700商品×16言語は日次90件では
- * 現実的に終わらないため、掲載記事数の多い上位だけを対象にする。
+ * 現実的に終わらないため、GA4実流入の多い記事の商品(build-youtube-priority.ts が
+ * 並べる)の上位だけを対象にする。
  */
 import { readFileSync, existsSync } from "node:fs";
 import { resolve, dirname } from "node:path";

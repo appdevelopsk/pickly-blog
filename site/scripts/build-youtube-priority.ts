@@ -33,6 +33,9 @@ const args = process.argv.slice(2);
 const DAYS = Number(args[args.indexOf("--days") + 1]) || 90;
 const DRY = args.includes("--dry");
 const PROPERTY = process.env.GA4_PROPERTY_ID ?? "537610479";
+const SA_PATH =
+  process.env.GA4_SA_PATH ??
+  "/Users/ken/Dropbox/pickly/.secrets/ga4-service-account.json";
 
 /** 記事スラッグ → offerIds（meta.ts の記載順を保つ）。 */
 function articleOffers(): Map<string, string[]> {
