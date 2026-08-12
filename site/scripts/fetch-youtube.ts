@@ -11,6 +11,11 @@
  *   npx tsx scripts/fetch-youtube.ts                # 未取得を最大90件
  *   npx tsx scripts/fetch-youtube.ts --limit 50
  *   npx tsx scripts/fetch-youtube.ts --category tech
+ *   npx tsx scripts/fetch-youtube.ts --lang de --ids-file scripts/youtube-priority-ids.txt
+ *     ↑ 言語別キャッシュ(youtube-cache-de.json)。ids-file は掲載記事数の多い順
+ *       (scripts/youtube-priority-ids.txt・再生成は README 参照)。クォータが
+ *       100検索/日なので、全3,851商品×17言語は不可能。上位から埋め、未取得は
+ *       サイト側で en にフォールバックする。
  *   ONLY_MATCHED=1 で 楽天マッチ済(実在確度高)の商品を優先
  */
 import { writeFileSync, readFileSync, existsSync } from "node:fs";
