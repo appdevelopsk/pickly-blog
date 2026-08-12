@@ -13,7 +13,8 @@
 
 # Exclude static files from locale redirect (must come before /:locale rule)
 /icon.png /icon.png 200
-/apple-touch-icon.png /apple-touch-icon.png 200
+/apple-icon.png /apple-icon.png 200
+/apple-touch-icon.png /apple-icon.png 200
 /favicon.ico /icon.png 200
 /sitemap.xml /sitemap.xml 200
 /llms.txt /llms.txt 200
