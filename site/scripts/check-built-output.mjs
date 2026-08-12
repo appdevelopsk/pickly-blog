@@ -54,8 +54,11 @@ const b = (src) => new RegExp(`(?<![${W}])(?:${src})(?![${W}])`, "giu");
 
 const FABRICATED = {
   "en": b("I tested|I measured|I ran|I used|I wore|I spent|I tried|I found that|my test|I timed|I counted|I logged|I called|I drove|I slept|I washed|I carried"),
-  "de": /(ich habe .{0,40}(getestet|gemessen|verwendet|getragen|probiert)|ich testete|ich maß|ich trug|ich nutzte|mein Test|meiner Tests|ich fuhr|ich schlief|ich wusch)/gi,
-  "fr": /(j'ai (testé|mesuré|utilisé|porté|essayé|chronométré|compté|parcouru|lavé|dormi)|mon test|mes tests|je testais)/gi,
+  // ★★ de/fr も b() を使う。素の正規表現だと `mein Test` が **mein Testament**、
+  //   `mon test` が **mon testament**（どちらも「私の遺言書」）に一致してしまう。
+  //   遺産・相続系の記事で誤検出が出てデプロイが止まった。
+  "de": b("ich habe .{0,40}(?:getestet|gemessen|verwendet|getragen|probiert)|ich testete|ich maß|ich trug|ich nutzte|mein Test|meiner Tests|ich fuhr|ich schlief|ich wusch"),
+  "fr": b("j'ai (?:testé|mesuré|utilisé|porté|essayé|chronométré|compté|parcouru|lavé|dormi)|mon test|mes tests|je testais"),
   "es": b("he (probado|medido|usado|llevado|contado)|probé|medí|usé|llevé|conté|planché|dormí|lavé|conduje|mi prueba|mis pruebas"),
   "it": b("ho (testato|misurato|usato|indossato|provato|contato|guidato|dormito|lavato|ottenuto|effettuato|aperto)|il mio test|i miei test"),
   "pt-BR": b("testei|medi|usei|vesti|experimentei|contei|dirigi|dormi|lavei|levei|meu teste|meus testes"),
