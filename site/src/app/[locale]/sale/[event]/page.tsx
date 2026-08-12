@@ -15,6 +15,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
+import { resolvePrice } from "@/lib/affiliates/price";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 const CATEGORY_ICONS: Record<string,string> = { fitness:"🏋️",food:"🍳",tech:"💻",beauty:"✨",home:"🏠",fashion:"👗",finance:"💰",travel:"✈️",parenting:"👶",pets:"🐾" };
@@ -147,7 +148,7 @@ export default async function SalePage({ params }: Props) {
                           <ArticleCardImage src={imgSrc} alt={title} className={`h-full w-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}>
                             <CategoryPlaceholder category={a.category} title={title} />
                           </ArticleCardImage>
-                          {offer?.price && <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-bold text-slate-800 shadow-sm">{offer.price}</span>}
+                          {(offer && resolvePrice(offer, locale)) && <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-bold text-slate-800 shadow-sm">{resolvePrice(offer, locale)}</span>}
                         </div>
                         <div className="flex flex-1 flex-col p-4">
                           {offer?.badge && !/^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(offer.badge) && <p className="mb-1 truncate text-[11px] font-semibold text-amber-600">🏆 {offer.badge}</p>}

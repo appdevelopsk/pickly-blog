@@ -12,6 +12,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { loadArticleCardMeta } from "@/lib/i18n/loader";
+import { resolvePrice } from "@/lib/affiliates/price";
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -92,7 +93,7 @@ function ArticleCard({
   const offer = getFirstOffer(article);
   const rawBadge = offer?.badge;
   const badge = rawBadge && /^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(rawBadge) ? null : rawBadge;
-  const price = offer?.price;
+  const price = (offer && resolvePrice(offer, locale));
   const newArticle = isNew(article);
   const typeLabel = TYPE_LABELS[article.type] ?? article.type;
   const picksCount = article.offerIds.length;

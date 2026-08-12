@@ -13,6 +13,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
+import { resolvePrice } from "@/lib/affiliates/price";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -203,7 +204,7 @@ export default async function PopularPage({ params }: Props) {
             const imgSrc = getThumbnail(a, locale);
             const isProductImg = imgSrc && !imgSrc.includes("/og/");
             const offer = getFirstOffer(a);
-            const price = offer?.price;
+            const price = (offer && resolvePrice(offer, locale));
             let catLabel: string = a.category;
             try { catLabel = t(`category.${a.category}`); } catch { /* missing */ }
             return (

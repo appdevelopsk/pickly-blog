@@ -15,6 +15,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
+import { resolvePrice } from "@/lib/affiliates/price";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -175,9 +176,9 @@ export default async function GiftPage({ params }: Props) {
                       <span className="absolute left-2.5 top-2.5 rounded-full bg-rose-500 px-2.5 py-0.5 text-[10px] font-black text-white shadow">
                         Top pick
                       </span>
-                      {offer?.price && (
+                      {(offer && resolvePrice(offer, locale)) && (
                         <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-bold text-slate-800 shadow-sm">
-                          {offer.price}
+                          {resolvePrice(offer, locale)}
                         </span>
                       )}
                     </div>
@@ -218,9 +219,9 @@ export default async function GiftPage({ params }: Props) {
                         <span className="absolute left-2.5 top-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-semibold text-slate-700 shadow-sm">
                           {CATEGORY_ICONS[a.category]} {catLabel}
                         </span>
-                        {offer?.price && (
+                        {(offer && resolvePrice(offer, locale)) && (
                           <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-bold text-slate-800 shadow-sm">
-                            {offer.price}
+                            {resolvePrice(offer, locale)}
                           </span>
                         )}
                       </div>

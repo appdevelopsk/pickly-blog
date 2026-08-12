@@ -13,6 +13,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
+import { resolvePrice } from "@/lib/affiliates/price";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -189,9 +190,9 @@ export default async function Best2026Page({ params }: Props) {
                   <span className="absolute left-3 top-3 rounded-full bg-brand-600 px-3 py-1 text-xs font-black text-white shadow">
                     {tt("pages.no1Pick", "#1 Pick")}
                   </span>
-                  {topOffer?.price && (
+                  {(topOffer && resolvePrice(topOffer, locale)) && (
                     <span className="absolute bottom-3 right-3 rounded-full bg-white/95 border border-slate-200 px-3 py-1 text-xs font-bold text-slate-800 shadow-sm">
-                      {tt("pages.fromPrice", `from ${topOffer.price}`, { price: topOffer.price })}
+                      {tt("pages.fromPrice", `from ${resolvePrice(topOffer, locale)}`, { price: resolvePrice(topOffer, locale) ?? "" })}
                     </span>
                   )}
                 </div>
@@ -235,7 +236,7 @@ export default async function Best2026Page({ params }: Props) {
                             <p className="text-xs font-bold text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-2">
                               {title}
                             </p>
-                            {offer?.price && <p className="mt-0.5 text-[11px] text-slate-400">{offer.price}</p>}
+                            {(offer && resolvePrice(offer, locale)) && <p className="mt-0.5 text-[11px] text-slate-400">{resolvePrice(offer, locale)}</p>}
                           </div>
                         </Link>
                       </li>

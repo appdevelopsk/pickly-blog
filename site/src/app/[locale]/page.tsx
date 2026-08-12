@@ -14,6 +14,7 @@ import { TAGS } from "@/lib/pages/tag-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { resolvePrice } from "@/lib/affiliates/price";
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -262,7 +263,7 @@ export default async function HomePage({ params }: Props) {
               const offer = getFirstOffer(featured);
               const rawBadge = offer?.badge;
                 const badge = rawBadge && /^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(rawBadge) ? null : rawBadge; // 生スラッグ(top-pick等)は非表示
-              const price = offer?.price;
+              const price = (offer && resolvePrice(offer, locale));
               const typeLabel = typeLabels[featured.type] ?? featured.type;
               const picksCount = featured.offerIds.length;
               return (
@@ -335,7 +336,7 @@ export default async function HomePage({ params }: Props) {
                 const offer = getFirstOffer(a);
                 const rawBadge = offer?.badge;
                 const badge = rawBadge && /^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(rawBadge) ? null : rawBadge; // 生スラッグ(top-pick等)は非表示
-                const price = offer?.price;
+                const price = (offer && resolvePrice(offer, locale));
                 const picksCount = a.offerIds.length;
                 const typeLabel = typeLabels[a.type] ?? a.type;
                 const newArticle = isNew(a);

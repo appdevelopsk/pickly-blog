@@ -14,6 +14,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import type { ArticleCategory } from "@/lib/articles/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { resolvePrice } from "@/lib/affiliates/price";
 
 // ── Constants ─────────────────────────────────────────────────────────────────
 
@@ -201,7 +202,7 @@ export default async function CategoryPage({ params }: Props) {
               const isProductImg = imgSrc && !imgSrc.includes("/og/");
               const offer = getFirstOffer(a);
               const badge = offer?.badge;
-              const price = offer?.price;
+              const price = (offer && resolvePrice(offer, locale));
               const picksCount = a.offerIds.length;
               const typeLabel = TYPE_LABELS[a.type] ?? a.type;
               return (

@@ -11,6 +11,7 @@ import { SearchUI, type SearchItem } from "@/components/SearchUI";
 import type { ArticleMeta } from "@/lib/articles/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
+import { resolvePrice } from "@/lib/affiliates/price";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -45,7 +46,7 @@ function buildSearchItem(a: ArticleMeta, locale: string, catLabel: string): Sear
     catLabel,
     imgSrc,
     isProductImg,
-    price: firstOffer?.price ?? null,
+    price: (firstOffer && resolvePrice(firstOffer, locale)) ?? null,
     badge: firstOffer?.badge ?? null,
     offerCount: a.offerIds.length,
     typeLabel: TYPE_LABELS[a.type] ?? a.type,

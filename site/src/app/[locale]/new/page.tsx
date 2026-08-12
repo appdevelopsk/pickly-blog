@@ -13,6 +13,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
+import { resolvePrice } from "@/lib/affiliates/price";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -108,9 +109,9 @@ export default async function NewPage({ params }: Props) {
                       NEW
                     </span>
                   )}
-                  {offer?.price && (
+                  {(offer && resolvePrice(offer, locale)) && (
                     <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-bold text-slate-800 shadow-sm">
-                      {offer.price}
+                      {resolvePrice(offer, locale)}
                     </span>
                   )}
                 </div>

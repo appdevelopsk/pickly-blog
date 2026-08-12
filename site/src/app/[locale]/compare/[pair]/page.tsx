@@ -14,6 +14,7 @@ import { COMPARISONS, COMPARISON_MAP } from "@/lib/pages/compare-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { serpTitle } from "@/lib/seo/title";
+import { resolvePrice } from "@/lib/affiliates/price";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -149,7 +150,7 @@ export default async function ComparePage({ params }: Props) {
                   <ArticleCardImage src={img} alt={meta.title} className={`h-full w-full transition-transform duration-500 group-hover:scale-105 ${isProductImg ? "object-contain p-6" : "object-cover"}`}>
                     <CategoryPlaceholder category={art.category} title={meta.title} />
                   </ArticleCardImage>
-                  {offer?.price && <span className="absolute bottom-3 right-3 rounded-full bg-white/95 border border-slate-200 px-3 py-1 text-xs font-bold text-slate-800 shadow-sm">from {offer.price}</span>}
+                  {(offer && resolvePrice(offer, locale)) && <span className="absolute bottom-3 right-3 rounded-full bg-white/95 border border-slate-200 px-3 py-1 text-xs font-bold text-slate-800 shadow-sm">from {resolvePrice(offer, locale)}</span>}
                 </div>
                 <div className="flex flex-1 flex-col p-5">
                   {offer?.badge && <p className="mb-1.5 text-xs font-semibold text-amber-600">🏆 {offer.badge}</p>}
