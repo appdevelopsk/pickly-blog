@@ -11,6 +11,7 @@ import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { loadArticleCardMeta } from "@/lib/i18n/loader";
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -210,14 +211,14 @@ export default async function ArticlesPage({ params }: Props) {
           <section key={category} id={category} className="mb-14 scroll-mt-6">
             <div className="flex items-baseline gap-3 mb-5 border-b border-slate-200 pb-3">
               <h2 className="text-xl font-black text-slate-900">{catLabel}</h2>
-              <span className="text-sm text-slate-500">{items.length}件</span>
+              <span className="text-sm text-slate-500">{locale === "ja" ? `${items.length}件` : items.length}</span>
             </div>
             <ul className="grid gap-4 grid-cols-2 sm:grid-cols-3">
               {items.map((a) => {
-                let title = a.slug;
-                try { title = t(`articles.${a.slug}.title`); } catch { /* missing */ }
-                let description = "";
-                try { description = t(`articles.${a.slug}.description`); } catch { /* missing */ }
+                // ★グローバルmessagesに記事コンテンツは無い（RSC削減で分離済み）。
+                //   t("articles.<slug>.title") は空文字を返しタイトルが消えるので、
+                //   他ページ同様に per-article ファイルから読む。
+                const { title, description } = loadArticleCardMeta(a.slug, locale);
                 return (
                   <li key={a.slug}>
                     <ArticleCard tt={tt}
