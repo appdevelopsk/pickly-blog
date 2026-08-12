@@ -98,7 +98,7 @@ const PASSIVE_FAB = {
 // 翻訳されずに残った英語の定型。非enページに出ていたら未翻訳。
 const EN_BOILERPLATE = "Compared on published specs, manufacturer data and independent reviews";
 
-const problems = { untaggedAffiliate: [], deadAffiliate: [], emptyTitle: [], wideTitle: [], rawKey: [], doubleBrand: [], fabricated: [], passiveFab: [], enBoilerplate: [] };
+const problems = { untaggedAffiliate: [], deadAffiliate: [], emptyTitle: [], wideTitle: [], rawKey: [], doubleBrand: [], fabricated: [], passiveFab: [], enBoilerplate: [], emptyHeading: [] };
 const titlesByPath = new Map();   // ロケールを除いたパス -> Map(locale -> title)
 
 for (const file of pages) {
@@ -140,6 +140,17 @@ for (const file of pages) {
     if (loc !== "en" && html.includes(EN_BOILERPLATE)) {
       problems.enBoilerplate.push(rel);
     }
+  }
+
+  // ---- 空の見出しタグ = カードタイトル欠落 -----------------------------------
+  // 2026-08-12: /articles の全カード <h3> が空になっていた。原因はグローバル
+  // messages から記事コンテンツを分離した後も t("articles.<slug>.title") を
+  // 使い続けた1ページ。next-intl は欠落キーで throw せず空文字を返すため
+  // try/catch では捕まえられず、ソースも画面のレイアウトも正常に見える。
+  // 見出しが空のページはこの型の再発なので出力で落とす。
+  {
+    const empties = [...html.matchAll(/<h([123])\b[^>]*>\s*<\/h\1>/g)];
+    if (empties.length) problems.emptyHeading.push(`${rel}  空h1-h3 ×${empties.length}`);
   }
 
   // ---- <title> --------------------------------------------------------------
@@ -186,6 +197,7 @@ const checks = [
   ["やっていない一次テストを一人称で主張している", problems.fabricated],
   ["やっていない一次テストを受動態で主張している（title/meta）", problems.passiveFab],
   ["非enページに英語の定型文が残っている（未翻訳）", problems.enBoilerplate],
+  ["見出しタグ(h1-h3)が空（カードタイトル欠落）", problems.emptyHeading],
 ];
 
 let failed = 0;
