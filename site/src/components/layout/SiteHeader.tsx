@@ -6,11 +6,16 @@ import { useState } from "react";
 import { LocaleSwitcher } from "@/components/LocaleSwitcher";
 
 const CATEGORY_LINKS = [
-  { key: "fitness", href: "/articles#fitness" },
-  { key: "food",    href: "/articles#food" },
-  { key: "tech",    href: "/articles#tech" },
-  { key: "beauty",  href: "/articles#beauty" },
-  { key: "home",    href: "/articles#home" },
+  { key: "fitness",   href: "/category/fitness" },
+  { key: "food",      href: "/category/food" },
+  { key: "tech",      href: "/category/tech" },
+  { key: "beauty",    href: "/category/beauty" },
+  { key: "home",      href: "/category/home" },
+  { key: "fashion",   href: "/category/fashion" },
+  { key: "finance",   href: "/category/finance" },
+  { key: "travel",    href: "/category/travel" },
+  { key: "parenting", href: "/category/parenting" },
+  { key: "pets",      href: "/category/pets" },
 ];
 
 export function SiteHeader() {

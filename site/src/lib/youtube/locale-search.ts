@@ -45,5 +45,5 @@ export const YT_LOCALES: Record<string, YtLocaleConf> = {
 };
 
 export function ytLocale(locale: string): YtLocaleConf {
-  return YT_LOCALES[locale] ?? YT_LOCALES[locale.split("-")[0]] ?? YT_LOCALES.en;
+  return YT_LOCALES[locale] ?? YT_LOCALES[locale.split("-")[0] ?? ""] ?? YT_LOCALES.en!;
 }

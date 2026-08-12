@@ -107,8 +107,8 @@ async function main() {
     // 関連性ガード: 動画タイトルに商品トークンが含まれる最初の動画を採用
     const match = result.find((v) => {
       const tn = norm(v.title);
-      // EN動画では日本語タイトルを除外(EN読者に日本語レビューを出さない)
-      if (lang === "en" && /[぀-ヿ一-鿿]/.test(v.title)) return false;
+      // その言語の読者に出してはいけない文字種を除外（例: 英・独・仏に日本語レビューを出さない）
+      if (CONF.reject?.test(v.title)) return false;
       return tks.some((t) => t.length >= 3 && tn.includes(t));
     });
     cache[offer.id] = match
