@@ -24,7 +24,7 @@
  *   node scripts/admin-metrics.mjs           # 収集して KV に PUT
  *   node scripts/admin-metrics.mjs --dry-run # 収集して標準出力に出すだけ
  */
-import { readFileSync, existsSync, writeFileSync } from "node:fs";
+import { readFileSync, existsSync, writeFileSync, readdirSync } from "node:fs";
 import { createSign } from "node:crypto";
 import { execFileSync } from "node:child_process";
 import { resolve, dirname } from "node:path";
@@ -35,6 +35,7 @@ const SITE_DIR = resolve(HERE, "..");
 const GROWTH = "/Users/ken/Dropbox/00_集客統合/growth";
 const SA_PATH = "/Users/ken/Dropbox/pickly/.secrets/ga4-service-account.json";
 const AMAZON_CSV = resolve(GROWTH, "snapshots/amazon-earnings-daily.csv");
+const SNAP_DIR = resolve(GROWTH, "snapshots");
 
 const CF_ACCOUNT = "ca1064295acacbeda97245fa9293209f";
 const CF_NAMESPACE = "a9fc779d79594ebc8d907fd1581bc468"; // pickly-admin-metrics
@@ -219,6 +220,39 @@ const clicksForHosts = (clicksByDomain, hosts) =>
 /** 報酬にならないと分かっているリダイレクタ。素の直リンク検出から除外する。 */
 const DEAD_HOSTS = { "go.skimresources.com": "Skimlinks(2026-08-04にアカウント無効化)" };
 const DEAD_HOST_KEYS = Object.keys(DEAD_HOSTS);
+
+/**
+ * 各データ元の「今ログインが生きているか」と、その管理画面URL。
+ *
+ * なぜ画面に出すか (2026-08-13): 収益APIは存在せず、Amazon の数字は
+ * 専用プロファイル(~/.chrome-amazon)の Chrome でダッシュボードを読むことで
+ * しか得られない。セッションは切れる。切れたら人間がそこへ行って
+ * サインインするしか復旧手段が無いので、行き先を画面に置く。
+ */
+const LOGIN_TARGETS = [
+  { key: "us", label: "Amazon アソシエイト US", url: "https://affiliate-program.amazon.com/home" },
+  { key: "jp", label: "Amazon アソシエイト JP", url: "https://affiliate.amazon.co.jp/home" },
+  { key: "de", label: "Amazon PartnerNet DE", url: "https://partnernet.amazon.de/home" },
+];
+
+function collectLogins() {
+  // 最新のスナップショット(日次JSON)に loginRequired が入っている。
+  let snap = null, snapDate = null;
+  try {
+    const files = readdirSync(SNAP_DIR).filter((f) => /^amazon-earnings-\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
+    const last = files[files.length - 1];
+    if (last) { snap = JSON.parse(readFileSync(resolve(SNAP_DIR, last), "utf-8")); snapDate = snap.date; }
+  } catch { /* スナップショットが無ければ状態不明として出す */ }
+
+  return LOGIN_TARGETS.map((t) => {
+    const a = snap?.accounts?.[t.key];
+    const state = !a ? "unknown" : a.loginRequired ? "login-required" : a.error ? "error" : "ok";
+    if (state === "login-required") {
+      warn(`${t.label} のログインが切れている。${t.url} にサインインすると数字が入る（プロファイル: ~/.chrome-amazon）`);
+    }
+    return { ...t, state, checkedAt: snapDate, note: a?.error ?? undefined };
+  });
+}
 
 function collectAmazon(clicksByDomain = []) {
   if (!existsSync(AMAZON_CSV)) {
@@ -450,6 +484,7 @@ async function main() {
       totalSources: revenueRows.length,
     },
     revenue: revenueRows,
+    logins: collectLogins(),
     funnel: buildFunnel(ga, amazon),
     articles: estimateByArticle(ga, amazon, fx),
     localeClicks: ga.clicksByDomain,

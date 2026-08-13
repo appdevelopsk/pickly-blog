@@ -11,6 +11,8 @@ type RevenueRow = {
   /** 契約はあるがリンクを1本も貼っていない = 売上が本当に0。直す対象ではない。 */
   dormant?: boolean;
 };
+/** データ元の管理画面。セッションが切れたら人間がここへ行くしか復旧手段が無い。 */
+type LoginRow = { key: string; label: string; url: string; state: "ok" | "login-required" | "error" | "unknown"; checkedAt?: string | null; note?: string };
 type FunnelStep = { key: string; label: string; value: number; rateFromPrev?: number | null; note?: string };
 type ArticleRow = {
   path: string; locale: string; views: number | null; clicks: number;
@@ -22,6 +24,7 @@ type Metrics = {
   fx: { rates: Record<string, number>; date: string | null; source: string };
   profit: { revenueJpy: number; profitJpy: number; connectedSources: number; totalSources: number };
   revenue: RevenueRow[];
+  logins?: LoginRow[];
   funnel: { steps: FunnelStep[]; leak: string | null };
   articles: ArticleRow[];
   localeClicks: { domain: string; clicks: number; market: string | null }[];
@@ -236,6 +239,37 @@ export default function Dashboard() {
             ? `接続できている収益源 ${profit.connectedSources}/${profit.totalSources}・残り${unknownSources}件は「不明」であって0ではない`
             : `接続できている収益源 ${profit.connectedSources}/${profit.totalSources}`} />
       </div>
+
+      {data.logins && data.logins.length > 0 && (
+        <div className="mb-4">
+          <Card title="データ元へのログイン" sub="収益APIは存在せず、専用プロファイルのChromeでダッシュボードを読んでいる。切れたらここから入り直す。">
+            <ul className="flex flex-wrap gap-2 text-sm">
+              {data.logins.map((l) => (
+                <li key={l.key}>
+                  <a
+                    href={l.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="inline-flex items-center gap-2 rounded-lg border border-[var(--pk-line)] px-3 py-2 hover:border-[var(--pk-accent)]"
+                  >
+                    <span aria-hidden className={`h-2 w-2 rounded-full ${l.state === "ok" ? "bg-[var(--pk-good)]" : l.state === "login-required" ? "bg-[var(--pk-critical)]" : "bg-[var(--pk-muted)]"}`} />
+                    <span>{l.label}</span>
+                    <span className="text-[11px] text-[var(--pk-muted)]">
+                      {l.state === "ok" ? "ログイン中" : l.state === "login-required" ? "要ログイン" : l.state === "error" ? "取得エラー" : "状態不明"}
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+            <p className="mt-2 text-[11px] leading-snug text-[var(--pk-muted)]">
+              ★ここのリンクは普段のブラウザで開く。スクレイプが使うのは専用プロファイル
+              <code className="mx-1">~/.chrome-amazon</code>
+              なので、そこでサインインしないと数字は戻らない:
+              <code className="ml-1 break-all">{'"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --user-data-dir=$HOME/.chrome-amazon <URL>'}</code>
+            </p>
+          </Card>
+        </div>
+      )}
 
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-2">
         <Card title="アフィリエイトファネル" sub="どこで落ちているか。段の下ほど実際のお金に近い。">
