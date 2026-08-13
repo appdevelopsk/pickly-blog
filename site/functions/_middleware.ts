@@ -29,6 +29,12 @@ export async function onRequest(context: {
     "Set-Cookie",
     `x-market=${market}; Path=/; SameSite=Lax; Secure; Max-Age=86400`,
   );
+  // 本文を持てないステータスに body を渡すと TypeError になり、Pages は 500 を返す。
+  // クローラは条件付きリクエストで 304 を受け取るので、ここは踏み得る。
+  const NO_BODY = [101, 204, 205, 304];
+  if (NO_BODY.includes(response.status)) {
+    return new Response(null, { status: response.status, statusText: response.statusText, headers });
+  }
   return new Response(response.body, {
     status: response.status,
     statusText: response.statusText,
