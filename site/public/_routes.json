@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": [
+    "/_next/*",
+    "/images/*",
+    "/web-stories/*",
+    "/data/*",
+    "/*.png",
+    "/*.jpg",
+    "/*.jpeg",
+    "/*.webp",
+    "/*.avif",
+    "/*.svg",
+    "/*.ico",
+    "/*.css",
+    "/*.js",
+    "/*.txt",
+    "/*.xml",
+    "/*.json"
+  ]
+}
