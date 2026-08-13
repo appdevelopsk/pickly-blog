@@ -282,6 +282,7 @@ export default function Dashboard() {
               <thead>
                 <tr className="border-b border-[var(--pk-line)] text-left text-xs text-[var(--pk-muted)]">
                   <th className="py-2 pr-3 font-medium">収益源</th>
+                  <th className="py-2 pr-3 font-medium">通貨</th>
                   <th className="py-2 pr-3 text-right font-medium">売上</th>
                   <th className="py-2 pr-3 text-right font-medium">円換算</th>
                   <th className="py-2 pr-3 text-right font-medium">クリック</th>
@@ -300,8 +301,10 @@ export default function Dashboard() {
                       )}
                       {r.note && <div className="mt-0.5 text-[11px] leading-snug text-[var(--pk-muted)]">{r.note}</div>}
                     </td>
+                    {/* 通貨は別列。売上は数字だけにして、円換算列と桁を見比べられるようにする。 */}
+                    <td className="py-2 pr-3 text-[var(--pk-muted)]">{r.revenue == null ? "—" : r.currency}</td>
                     <td className="py-2 pr-3 text-right tabular-nums">
-                      {r.revenue == null ? "—" : `${r.currency} ${r.revenue}`}
+                      {r.revenue == null ? "—" : r.revenue}
                     </td>
                     <td className="py-2 pr-3 text-right tabular-nums">{yen(r.revenueJpy)}</td>
                     <td className="py-2 pr-3 text-right tabular-nums">{num(r.clicks)}</td>
