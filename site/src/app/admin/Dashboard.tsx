@@ -8,6 +8,8 @@ type RevenueRow = {
   source: string; connected: boolean; currency: string;
   revenue: number | null; revenueJpy: number | null;
   clicks: number | null; orders: number | null; asOf?: string; note?: string;
+  /** 契約はあるがリンクを1本も貼っていない = 売上が本当に0。直す対象ではない。 */
+  dormant?: boolean;
 };
 type FunnelStep = { key: string; label: string; value: number; rateFromPrev?: number | null; note?: string };
 type ArticleRow = {
@@ -240,7 +242,7 @@ export default function Dashboard() {
           <Funnel steps={data.funnel.steps} leak={data.funnel.leak} />
         </Card>
 
-        <Card title="収益源ごとの売上" sub="「未接続」は売上0ではなく、取得できていないという意味。">
+        <Card title="収益源ごとの売上" sub="「未接続」は売上0ではなく取得できていないという意味。「休眠」はリンクを貼っていないので売上が本当に0。">
           <div className="overflow-x-auto">
             <table className="w-full text-sm">
               <thead>
@@ -258,7 +260,9 @@ export default function Dashboard() {
                     <td className="py-2 pr-3">
                       <span className={r.connected ? "" : "text-[var(--pk-muted)]"}>{r.source}</span>
                       {!r.connected && (
-                        <span className="ml-2 rounded bg-[var(--pk-track)] px-1.5 py-0.5 text-[10px] text-[var(--pk-muted)]">未接続</span>
+                        <span className="ml-2 rounded bg-[var(--pk-track)] px-1.5 py-0.5 text-[10px] text-[var(--pk-muted)]">
+                          {r.dormant ? "休眠" : "未接続"}
+                        </span>
                       )}
                       {r.note && <div className="mt-0.5 text-[11px] leading-snug text-[var(--pk-muted)]">{r.note}</div>}
                     </td>

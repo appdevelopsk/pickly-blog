@@ -214,6 +214,11 @@ const UNMEASURED_ASP_HOSTS = {
   "A8.net": ["a8.net", "px.a8.net"],
 };
 const hostMatches = (host, needles) => needles.some((n) => host.includes(n));
+const clicksForHosts = (clicksByDomain, hosts) =>
+  clicksByDomain.filter((d) => hostMatches(d.domain, hosts)).reduce((a, d) => a + d.clicks, 0);
+/** 報酬にならないと分かっているリダイレクタ。素の直リンク検出から除外する。 */
+const DEAD_HOSTS = { "go.skimresources.com": "Skimlinks(2026-08-04にアカウント無効化)" };
+const DEAD_HOST_KEYS = Object.keys(DEAD_HOSTS);
 
 function collectAmazon(clicksByDomain = []) {
   if (!existsSync(AMAZON_CSV)) {
@@ -250,11 +255,22 @@ function collectAmazon(clicksByDomain = []) {
     monthClicks: Number(r.monthClicks) || 0,
   }));
 
-  // 掲載はしているのにスクレイプ対象になっていない market を明示する。
+  // 掲載はしているのにスクレイプ対象になっていない market。
+  // ★実際にクリックが出ている market だけを警告する。リンクを押されていない国の
+  //   「不明」を毎日並べても、そこには最初から売上が無い。
   const covered = new Set(accounts.map((a) => a.market));
-  const missing = Object.keys(MARKET_CURRENCY).filter((m) => !covered.has(m));
-  if (missing.length) {
-    warn(`Amazon の売上を取得できていない market: ${missing.join(", ")} — 記事は出ているので売上は「不明」であって0ではない`);
+  const clicksPerMarket = {};
+  for (const d of clicksByDomain) if (d.market) clicksPerMarket[d.market] = (clicksPerMarket[d.market] ?? 0) + d.clicks;
+  const missing = Object.keys(MARKET_CURRENCY)
+    .filter((m) => !covered.has(m))
+    .map((m) => ({ market: m, clicks: clicksPerMarket[m] ?? 0 }));
+  const live = missing.filter((m) => m.clicks > 0);
+  if (live.length) {
+    // ★2026-08-09 の事故: DE/UK/FR/IT/ES/CA を同一プロファイルで連続スクレイプしたら
+    //   US/JP のセッションごと落とされた。US は Amazon から警告を受けている最中なので、
+    //   ここを埋めるのは「1国ずつ・日をまたいで」。安易に自動化しないこと。
+    const s = live.map((m) => `${m.market}(${m.clicks}クリック)`).join(", ");
+    warn(`Amazon の売上が不明な market: ${s} — 0ではなく未取得。連続スクレイプはUS/JPのセッションを落とすので1国ずつ手で足すこと`);
   }
   return { accounts, asOf, missingMarkets: missing };
 }
@@ -266,11 +282,8 @@ function collectAsp() {
       cwd: SITE_DIR, encoding: "utf-8", timeout: 180_000, stdio: ["ignore", "pipe", "ignore"],
     });
     const line = out.trim().split("\n").filter((l) => l.startsWith("{")).pop();
-    const parsed = JSON.parse(line);
-    for (const r of parsed.results) {
-      if (r.status !== "ok") warn(`ASP 未接続: ${r.name} — ${r.error}`);
-    }
-    return parsed.results;
+    // 警告を出すかどうかは main() が「そのASPにクリックが有るか」を見て決める。
+    return JSON.parse(line).results;
   } catch (e) {
     warn("ASP レポートの取得に失敗: " + String(e.message).slice(0, 160));
     return [];
@@ -343,7 +356,7 @@ function estimateByArticle(ga, amazon, fx) {
 
 async function main() {
   const [fx, ga, asp] = await Promise.all([collectFx(), collectGa4(), Promise.resolve(collectAsp())]);
-  const amazon = collectAmazon();
+  const amazon = collectAmazon(ga.clicksByDomain);
 
   const jpy = (v, cur) => round(v * (fx.rates[cur] ?? FX_FALLBACK[cur] ?? 0), 1);
 
@@ -358,29 +371,64 @@ async function main() {
       orders: a.monthOrdered,
       asOf: a.date,
     })),
-    ...(amazon.missingMarkets ?? []).map((m) => ({
-      source: `Amazon ${m.toUpperCase()}`,
+    // クリックが出ている market だけ「不明」として残す。押されていない国は行ごと出さない
+    // (毎日6行の「不明」が並ぶと、本当に取り逃している国が埋もれる)。
+    ...(amazon.missingMarkets ?? []).filter((m) => m.clicks > 0).map((m) => ({
+      source: `Amazon ${m.market.toUpperCase()}`,
       connected: false,
-      currency: MARKET_CURRENCY[m],
-      revenue: null, revenueJpy: null, clicks: null, orders: null,
+      currency: MARKET_CURRENCY[m.market],
+      revenue: null, revenueJpy: null, clicks: m.clicks, orders: null,
       note: "スクレイプ未対応。売上は0ではなく不明",
     })),
-    ...asp.map((r) => ({
-      source: r.name,
-      connected: r.status === "ok",
-      currency: r.currency,
-      revenue: r.status === "ok" ? round(r.revenue ?? 0, 2) : null,
-      revenueJpy: r.status === "ok" ? jpy(r.revenue ?? 0, r.currency) : null,
-      clicks: r.clicks, orders: r.conversions,
-      note: r.status === "ok" ? undefined : r.error,
+    ...asp.map((r) => {
+      const clicks = clicksForHosts(ga.clicksByDomain, ASP_HOSTS[r.name] ?? []);
+      return {
+        source: r.name,
+        connected: r.status === "ok",
+        // リンクを1本も貼っていないASPは「未接続」ではなく「休眠」。直す対象ではない。
+        dormant: r.status !== "ok" && clicks === 0,
+        currency: r.currency,
+        revenue: r.status === "ok" ? round(r.revenue ?? 0, 2) : null,
+        revenueJpy: r.status === "ok" ? jpy(r.revenue ?? 0, r.currency) : null,
+        clicks: r.status === "ok" ? r.clicks : clicks || null,
+        orders: r.conversions,
+        note: r.status === "ok" ? undefined : clicks === 0 ? "このASPへのクリックは0。リンクを貼っていないので売上も0" : r.error,
+      };
+    }),
+    // 売上APIを持たない/未着手のASP。クリックだけは見えるので、
+    // 「ファネルの差140件」の正体が分かるように行として出す。
+    ...Object.entries(UNMEASURED_ASP_HOSTS).map(([name, hosts]) => ({
+      name, clicks: clicksForHosts(ga.clicksByDomain, hosts),
+    })).filter((x) => x.clicks > 0).map((x) => ({
+      source: x.name,
+      connected: false,
+      currency: "JPY",
+      revenue: null, revenueJpy: null, clicks: x.clicks, orders: null,
+      note: "売上は管理画面にしか出ない(API未対応)。0ではなく不明",
     })),
   ];
+
+  // 実際に押されているのに接続できていないASPだけを警告する。
+  for (const r of revenueRows) {
+    if (!r.connected && !r.dormant && (r.clicks ?? 0) > 0 && ASP_HOSTS[r.source]) {
+      warn(`ASP 未接続なのにクリックは出ている: ${r.source} — ${r.clicks}クリック / ${asp.find((a) => a.name === r.source)?.error ?? ""}`);
+    }
+  }
+
+  // アフィリエイトタグの付いていない素のメーカー直リンク。
+  // Skimlinks 撤去(2026-08-04)の後、置き換え漏れがそのまま素のリンクとして
+  // 残っていると、クリックは出るのに1円にもならない。ホスト名から機械的に見つける。
+  const KNOWN = [...Object.values(ASP_HOSTS).flat(), ...Object.values(UNMEASURED_ASP_HOSTS).flat(), "amazon."];
+  const untagged = ga.clicksByDomain.filter((d) => !d.market && !hostMatches(d.domain, KNOWN) && !DEAD_HOST_KEYS.includes(d.domain));
+  const untaggedClicks = untagged.reduce((a, d) => a + d.clicks, 0);
+  if (untaggedClicks > 0) {
+    warn(`報酬にならない素の直リンクへ ${untaggedClicks} クリック (${untagged.slice(0, 5).map((d) => d.domain).join(", ")}${untagged.length > 5 ? " ほか" : ""}) — アフィリタグ付きに差し替えるか、リンク自体を外す`);
+  }
 
   // 報酬が発生しない先へ流れているクリックを検知する。
   // 2026-08-04 の実例: 無効化された Skimlinks(go.skimresources.com)へ全クリックの
   // 4割が吸われていた。撤去済みだが、同じ型(死んだリダイレクタ・停止したASP)は
   // 画面を見ても分からないのでクリック先ホストから機械的に見つける。
-  const DEAD_HOSTS = { "go.skimresources.com": "Skimlinks(2026-08-04にアカウント無効化)" };
   // 判定は直近7日で行う。28日窓で見ると、既に直した流出が窓を抜けるまで
   // 何週間も警告に残り続けて狼少年になる。
   for (const [host, label] of Object.entries(DEAD_HOSTS)) {
