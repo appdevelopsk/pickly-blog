@@ -38,7 +38,12 @@ on:
 
 concurrency:
   group: deploy-${{ github.ref }}
-  cancel-in-progress: true
+  # false にしている理由 (2026-08-13): ビルドは約11分かかる。翻訳の自動コミットが
+  # 2分おきに push すると、cancel-in-progress: true では毎回途中で殺され、
+  # 90分間1本もデプロイされないという飢餓状態になった。false なら実行中の1本は
+  # 必ず完走し、待機中は GitHub が最新1本だけ残して古いものを捨てるので、
+  # 「常に最新が出る」性質は保ったまま前に進む。
+  cancel-in-progress: false
 
 jobs:
   deploy:
