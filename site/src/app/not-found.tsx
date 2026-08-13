@@ -1,5 +1,10 @@
 import Link from "next/link";
 
+export const metadata = {
+  title: "Page Not Found — Pickly",
+  robots: { index: false, follow: true },
+};
+
 export default function NotFound() {
   return (
     <html lang="en">
