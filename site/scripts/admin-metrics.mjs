@@ -196,7 +196,26 @@ const DOMAIN_MARKET = {
   "amazon.ca": "ca", "www.amazon.ca": "ca",
 };
 
-function collectAmazon() {
+/**
+ * ASP -> そのASPのトラッキングドメイン。
+ * 「未接続」を警告するかどうかを、そのASPのリンクが実際に押されているかで決めるため。
+ * 契約はあるがリンクを1本も貼っていないASPを毎日警告しても、直しようが無く狼少年になる。
+ */
+const ASP_HOSTS = {
+  Impact: [".sjv.io", ".pxf.io", ".ojrq.net", "goto.", "imp.i"],
+  ValueCommerce: ["valuecommerce.com", "valuecommerce.ne.jp"],
+  AWIN: ["awin1.com", "awin.com"],
+  CJ: ["anrdoezrs.net", "dpbolvw.net", "jdoqocy.com", "tkqlhce.com", "kqzyfj.com"],
+};
+/** 計測できないが実在するASP(クリックだけ見える)。売上APIが無いか未着手。 */
+const UNMEASURED_ASP_HOSTS = {
+  "楽天アフィリエイト": ["rakuten.co.jp"],
+  "もしもアフィリエイト": ["moshimo.com"],
+  "A8.net": ["a8.net", "px.a8.net"],
+};
+const hostMatches = (host, needles) => needles.some((n) => host.includes(n));
+
+function collectAmazon(clicksByDomain = []) {
   if (!existsSync(AMAZON_CSV)) {
     warn(`Amazon の日次CSVが無い: ${AMAZON_CSV} — 売上が0として扱われる`);
     return { accounts: [], asOf: null };
