@@ -18,9 +18,8 @@ type Metrics = {
   generatedAt: string;
   period: { start: string; end: string; days: number };
   fx: { rates: Record<string, number>; date: string | null; source: string };
-  profit: { revenueJpy: number; costJpy: number; profitJpy: number; connectedSources: number; totalSources: number };
+  profit: { revenueJpy: number; profitJpy: number; connectedSources: number; totalSources: number };
   revenue: RevenueRow[];
-  costs: { items: { name: string; monthlyJpy: number; note?: string; confirmed?: boolean }[]; monthlyJpy: number };
   funnel: { steps: FunnelStep[]; leak: string | null };
   articles: ArticleRow[];
   localeClicks: { domain: string; clicks: number; market: string | null }[];
@@ -227,18 +226,13 @@ export default function Dashboard() {
         </div>
       )}
 
-      <div className="mb-6 grid grid-cols-1 gap-4 sm:grid-cols-3">
-        <div className="rounded-xl border border-[var(--pk-line)] bg-[var(--pk-card)] p-5">
-          <Hero label={`売上（${period.days}日）`} value={yen(profit.revenueJpy)}
-            note={`接続できている収益源 ${profit.connectedSources}/${profit.totalSources}`} />
-        </div>
-        <div className="rounded-xl border border-[var(--pk-line)] bg-[var(--pk-card)] p-5">
-          <Hero label="固定費（月額）" value={yen(profit.costJpy)} note="growth/pickly-costs.json" />
-        </div>
-        <div className="rounded-xl border border-[var(--pk-line)] bg-[var(--pk-card)] p-5">
-          <Hero label="利益" value={yen(profit.profitJpy)} tone={profit.profitJpy >= 0 ? "good" : "bad"}
-            note={unknownSources > 0 ? `${unknownSources}件の収益源は「不明」であって0ではない` : undefined} />
-        </div>
+      {/* 固定費(ドメイン代のみ)は誤差なので表示しない。ここの「利益」= アフィリ報酬の合計。 */}
+      <div className="mb-6 rounded-xl border border-[var(--pk-line)] bg-[var(--pk-card)] p-5">
+        <Hero label={`利益（${period.days}日）`} value={yen(profit.profitJpy)}
+          tone={profit.profitJpy > 0 ? "good" : undefined}
+          note={unknownSources > 0
+            ? `接続できている収益源 ${profit.connectedSources}/${profit.totalSources}・残り${unknownSources}件は「不明」であって0ではない`
+            : `接続できている収益源 ${profit.connectedSources}/${profit.totalSources}`} />
       </div>
 
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-2">
@@ -326,24 +320,6 @@ export default function Dashboard() {
         </Card>
       </div>
 
-      <div className="mt-4">
-        <Card title="固定費の内訳" sub="請求APIは無いので手書き。金額を直すのは growth/pickly-costs.json。">
-          <ul className="space-y-2 text-sm">
-            {data.costs.items.map((i) => (
-              <li key={i.name} className="flex flex-wrap items-baseline justify-between gap-2 border-b border-[var(--pk-line)] pb-2 last:border-0">
-                <span>
-                  {i.name}
-                  {i.confirmed === false && (
-                    <span className="ml-2 rounded bg-[var(--pk-track)] px-1.5 py-0.5 text-[10px] text-[var(--pk-muted)]">概算</span>
-                  )}
-                  {i.note && <span className="mt-0.5 block text-[11px] leading-snug text-[var(--pk-muted)]">{i.note}</span>}
-                </span>
-                <span className="tabular-nums">{yen(i.monthlyJpy)}</span>
-              </li>
-            ))}
-          </ul>
-        </Card>
-      </div>
     </main>
   );
 }

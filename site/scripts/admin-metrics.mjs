@@ -14,7 +14,6 @@
  *   売上   … Amazon は API が無いのでヘッドレススクレイプの日次CSV
  *            (growth/snapshots/amazon-earnings-daily.csv、US/JP のみ稼働)
  *            他ASPは scripts/asp-report.ts --json (Impact/ValueCommerce/AWIN/CJ)
- *   コスト … growth/pickly-costs.json (手書き。請求APIは存在しない)
  *   ファネル/記事別 … GA4 Data API (property 537610479)
  *
  * ★ 記事別の売上は**推定**である。Amazon は商品単位でしか成果を返さず「どの記事
@@ -35,7 +34,6 @@ const HERE = dirname(fileURLToPath(import.meta.url));
 const SITE_DIR = resolve(HERE, "..");
 const GROWTH = "/Users/ken/Dropbox/00_集客統合/growth";
 const SA_PATH = "/Users/ken/Dropbox/pickly/.secrets/ga4-service-account.json";
-const COSTS_PATH = resolve(GROWTH, "pickly-costs.json");
 const AMAZON_CSV = resolve(GROWTH, "snapshots/amazon-earnings-daily.csv");
 
 const CF_ACCOUNT = "ca1064295acacbeda97245fa9293209f";
@@ -325,7 +323,6 @@ function estimateByArticle(ga, amazon, fx) {
 }
 
 async function main() {
-  const costs = JSON.parse(readFileSync(COSTS_PATH, "utf-8"));
   const [fx, ga, asp] = await Promise.all([collectFx(), collectGa4(), Promise.resolve(collectAsp())]);
   const amazon = collectAmazon();
 
@@ -373,7 +370,6 @@ async function main() {
   }
 
   const revenueJpy = round(revenueRows.reduce((a, r) => a + (r.revenueJpy ?? 0), 0), 1);
-  const costJpy = costs.items.reduce((a, i) => a + (i.monthlyJpy || 0), 0);
 
   const payload = {
     generatedAt: new Date().toISOString(),
@@ -381,13 +377,12 @@ async function main() {
     fx,
     profit: {
       revenueJpy,
-      costJpy,
-      profitJpy: round(revenueJpy - costJpy, 1),
+      // 固定費はドメイン代(月¥250)だけで誤差なので引かない。利益 = アフィリ報酬の合計。
+      profitJpy: revenueJpy,
       connectedSources: revenueRows.filter((r) => r.connected).length,
       totalSources: revenueRows.length,
     },
     revenue: revenueRows,
-    costs: { items: costs.items, monthlyJpy: costJpy },
     funnel: buildFunnel(ga, amazon),
     articles: estimateByArticle(ga, amazon, fx),
     localeClicks: ga.clicksByDomain,
@@ -415,7 +410,7 @@ async function main() {
   const res = await fetch(url, { method: "PUT", headers: { Authorization: `Bearer ${cfToken}` }, body: form });
   const j = await res.json();
   if (!j.success) throw new Error("KV への書き込み失敗: " + JSON.stringify(j.errors).slice(0, 300));
-  console.log(`✓ KV 更新 (${KV_KEY}) 売上 ¥${revenueJpy} − コスト ¥${costJpy} = 利益 ¥${payload.profit.profitJpy} / 警告 ${warnings.length}件`);
+  console.log(`✓ KV 更新 (${KV_KEY}) 利益 ¥${payload.profit.profitJpy} / 警告 ${warnings.length}件`);
 }
 
 main().catch((e) => { console.error("✗ " + e.message); process.exit(1); });
