@@ -101,7 +101,7 @@ const SELF_CITY = "Higashiosaka";
 async function collectGa4() {
   const token = await ga4Token();
 
-  const [daily, byPath, byDomain, views, byCity, totals] = await Promise.all([
+  const [daily, byPath, byDomain, views, byCity, byDomain7, totals] = await Promise.all([
     ga4(token, { dimensions: [{ name: "date" }], metrics: [{ name: "sessions" }, { name: "totalUsers" }], orderBys: [{ dimension: { dimensionName: "date" } }] }),
     ga4(token, {
       dimensions: [{ name: "pagePath" }], metrics: [{ name: "eventCount" }],
@@ -123,6 +123,14 @@ async function collectGa4() {
       orderBys: [{ metric: { metricName: "screenPageViews" }, desc: true }], limit: 5000,
     }),
     ga4(token, { dimensions: [{ name: "city" }], metrics: [{ name: "sessions" }], limit: 200 }),
+    // ★ 直近7日だけのクリック先。28日窓だと「もう直した流出」が延々と警告に
+    //   出続ける(2026-08-04に撤去した Skimlinks が典型)。今も流れているかは
+    //   短い窓で判定する。
+    ga4(token, {
+      dateRanges: [{ startDate: "7daysAgo", endDate: "yesterday" }],
+      dimensions: [{ name: "customEvent:link_url" }], metrics: [{ name: "eventCount" }],
+      dimensionFilter: eventFilter("affiliate_click"), limit: 2000,
+    }),
     ga4(token, { metrics: [{ name: "sessions" }, { name: "totalUsers" }, { name: "screenPageViews" }, { name: "userEngagementDuration" }] }),
   ]);
 
@@ -138,6 +146,13 @@ async function collectGa4() {
   const clicksByDomain = [...hostCounts.entries()]
     .map(([domain, clicks]) => ({ domain, clicks, market: DOMAIN_MARKET[domain] ?? null }))
     .sort((a, b) => b.clicks - a.clicks);
+
+  const host7 = new Map();
+  for (const r of byDomain7) {
+    let host = "(URL不明)";
+    try { host = new URL(r.dimensionValues[0].value).hostname.replace(/^www\./, ""); } catch { /* noop */ }
+    host7.set(host, (host7.get(host) ?? 0) + num(r));
+  }
   const selfSessions = byCity.filter((r) => r.dimensionValues[0].value === SELF_CITY).reduce((a, r) => a + num(r), 0);
 
   const viewsByPath = new Map(views.map((r) => [r.dimensionValues[0].value, { views: num(r, 0), sessions: num(r, 1) }]));
@@ -159,6 +174,7 @@ async function collectGa4() {
     affiliateClicks: clicksByPath.reduce((a, r) => a + r.clicks, 0),
     clicksByPath,
     clicksByDomain,
+    clicksByDomain7: Object.fromEntries(host7),
     daily: daily.map((r) => ({
       date: r.dimensionValues[0].value.replace(/^(\d{4})(\d\d)(\d\d)$/, "$1-$2-$3"),
       sessions: num(r, 0), users: num(r, 1),
@@ -349,10 +365,11 @@ async function main() {
   // 4割が吸われていた。撤去済みだが、同じ型(死んだリダイレクタ・停止したASP)は
   // 画面を見ても分からないのでクリック先ホストから機械的に見つける。
   const DEAD_HOSTS = { "go.skimresources.com": "Skimlinks(2026-08-04にアカウント無効化)" };
-  for (const d of ga.clicksByDomain) {
-    if (DEAD_HOSTS[d.domain] && d.clicks > 0) {
-      warn(`報酬にならない先へ ${d.clicks} クリック流出: ${d.domain} — ${DEAD_HOSTS[d.domain]}`);
-    }
+  // 判定は直近7日で行う。28日窓で見ると、既に直した流出が窓を抜けるまで
+  // 何週間も警告に残り続けて狼少年になる。
+  for (const [host, label] of Object.entries(DEAD_HOSTS)) {
+    const recent = ga.clicksByDomain7[host] ?? 0;
+    if (recent > 0) warn(`報酬にならない先へ直近7日で ${recent} クリック流出: ${host} — ${label}`);
   }
 
   const revenueJpy = round(revenueRows.reduce((a, r) => a + (r.revenueJpy ?? 0), 0), 1);
