@@ -30,6 +30,8 @@ export interface BuildOptions {
   market?: Market;
   /** Override env lookup (for testing) */
   env?: EnvLookup;
+  /** 商品カテゴリ。network:"direct" を Amazon 検索に寄せてよいかの判定に使う。 */
+  category?: string;
 }
 
 const AMAZON_TAG_ENV: Partial<Record<AspNetwork, string>> = {
@@ -110,7 +112,45 @@ const LOCAL_REMAP: Partial<Record<Market, AspNetwork>> = {
   "JP": "amazon-jp",
 };
 
-export function buildAffiliateUrl({ link, productName, market, env = defaultEnv }: BuildOptions): string {
+/**
+ * network:"direct" のうち、Amazon 検索に寄せてはいけないカテゴリ。
+ *
+ * finance は口座・カード・証券で、Amazon に商品が存在しない(検索しても無関係な
+ * 書籍が出るだけ)。travel は航空券・ホテル予約が混ざる。ここは提携が取れるまで
+ * 公式サイトへの直リンクのままにする(無報酬だが、読者にとっては正しい行き先)。
+ */
+const NO_AMAZON_CATEGORIES = new Set(["finance", "travel"]);
+
+/**
+ * 訪問者の市場に対応する Amazon ネットワーク。未知の市場は US(Earn Globally)。
+ */
+const localAmazonNetwork = (market?: Market): AspNetwork =>
+  (market && LOCAL_REMAP[market]) ?? "amazon-us";
+
+/**
+ * その direct リンクが自国 Amazon 検索に置き換わるか。
+ * 画面のボタン表記を「公式」から「Amazon」に直すために要る
+ * (行き先が Amazon なのに「公式」と書いてあるのは嘘になる)。
+ */
+export function directGoesToAmazon(category?: string, productName?: string): boolean {
+  return Boolean(productName) && !NO_AMAZON_CATEGORIES.has(category ?? "");
+}
+
+export function buildAffiliateUrl({ link, productName, market, category, env = defaultEnv }: BuildOptions): string {
+  // ★素の直リンクを自国 Amazon の検索へ寄せる (2026-08-13)。
+  //   物販カテゴリの direct リンク約1,400本は、どこにも提携が無い公式サイトへの
+  //   ただのリンクだった(クエリすら付いていない=計測もされない)。押されても1円に
+  //   ならないので、商品名でタグ付きの Amazon 検索に送る。
+  //   finance/travel は Amazon に商品が無いので対象外(NO_AMAZON_CATEGORIES)。
+  //   商品名が無い場合も、検索語を作れないので直リンクのまま。
+  if (link.network === "direct" && productName && !NO_AMAZON_CATEGORIES.has(category ?? "")) {
+    const net = localAmazonNetwork(market);
+    const host = AMAZON_HOSTS[net];
+    const tag = env(AMAZON_TAG_ENV[net] ?? "") ?? AMAZON_TAG_DEFAULTS[net];
+    const url = `https://www.${host}/s?k=${encodeURIComponent(productName)}`;
+    return tag ? injectAmazonTag(url, tag) : url;
+  }
+
   // 共有リンクをロケール別 Amazon にリマップ。
   // ★2026-08-10: amazon-de かつ markets に "EU" を含む商品だけをリマップ対象にしていた。
   //   その結果、次の2クラスが自国以外の Amazon に誤送されていた:

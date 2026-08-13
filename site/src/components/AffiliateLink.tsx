@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { pickLink, pickAllLinks } from "@/lib/affiliates/catalog";
-import { buildAffiliateUrl } from "@/lib/affiliates/asp";
+import { buildAffiliateUrl, directGoesToAmazon } from "@/lib/affiliates/asp";
 import { rakutenSearchUrl, rakutenProductMatch, youtubeReviewSearchUrl } from "@/lib/affiliates/rakuten";
 import { getReviewVideo } from "@/lib/affiliates/youtube";
 import { getYahooMatch } from "@/lib/affiliates/yahoo";
@@ -240,14 +240,20 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
 
   const ctaLabel = offer.cta?.[locale as keyof typeof offer.cta] ?? offer.cta?.en ?? t("offer.defaultCta");
   const isApproved = link.approved;
-  const href = isApproved ? buildAffiliateUrl({ link, productName: offer.name.en ?? name, market }) : "#";
+  // category を渡す理由: network:"direct" を自国Amazon検索へ寄せるかの判定に使う
+  // (finance/travel は Amazon に商品が無いので直リンクのまま)。
+  const href = isApproved ? buildAffiliateUrl({ link, productName: offer.name.en ?? name, market, category: offer.category }) : "#";
 
   if (variant === "stores") {
     const allLinks = pickAllLinks(offer, market, { onlyApproved: true });
     // Deduplicate by store label so we don't show two "Amazon" buttons
     const byLabel = new Map<string, typeof allLinks[0]>();
     for (const l of allLinks) {
-      const label = storeLabel(l.network);
+      // direct が Amazon 検索に化ける場合は「Amazon」として数える。
+      // ここで元の "公式" のまま重複排除すると、同じ Amazon 行きのボタンが2つ並ぶ。
+      const label = l.network === "direct" && directGoesToAmazon(offer.category, offer.name.en ?? name)
+        ? "Amazon"
+        : storeLabel(l.network);
       if (!byLabel.has(label)) byLabel.set(label, l);
     }
     const storeLinks = [...byLabel.entries()];
@@ -274,13 +280,16 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       <div>
         <div className="flex flex-wrap gap-2">
           {storeLinks.map(([label, l], i) => {
-            const storeHref = buildAffiliateUrl({ link: l, productName: offer.name.en ?? name, market });
+            const storeHref = buildAffiliateUrl({ link: l, productName: offer.name.en ?? name, market, category: offer.category });
             return (
               <a
                 key={label}
                 href={storeHref}
                 target="_blank"
-                rel={l.network === "direct" ? "noopener noreferrer" : "sponsored noopener noreferrer"}
+                // Amazon検索に化けた direct は成果報酬リンクなので sponsored を付ける
+                rel={l.network === "direct" && !directGoesToAmazon(offer.category, offer.name.en ?? name)
+                  ? "noopener noreferrer"
+                  : "sponsored noopener noreferrer"}
                 data-offer-id={offer.id}
                 className={
                   i === 0
