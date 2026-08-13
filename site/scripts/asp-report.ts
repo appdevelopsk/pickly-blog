@@ -135,7 +135,7 @@ async function fetchAwin(): Promise<AspResult> {
   const publisherId = ENV["AFFILIATE_AWIN_PUBLISHER_ID"];
   const base: AspResult = { name: "AWIN", clicks: null, conversions: null, revenue: null, currency: "USD", status: "no_token" };
 
-  if (!token) return { ...base, error: "AWIN_API_TOKEN が未設定 (AWIN管理画面 > Account > API Access で取得)" };
+  if (!token) return { ...base, error: "AWIN_API_TOKEN が未設定 (右上のユーザーメニュー > API Credentials、または https://ui.awin.com/awin-api)" };
 
   try {
     const res = await fetch(
@@ -146,7 +146,26 @@ async function fetchAwin(): Promise<AspResult> {
     const data = await res.json() as any[];
     const conversions = data.length;
     const revenue = data.reduce((s, t) => s + (Number(t.commissionAmount?.amount) || 0), 0);
-    return { ...base, clicks: null, conversions, revenue, status: "ok" };
+    // クリックは transactions では返らない。広告主別レポートを別に叩いて合計する。
+    // (成果0でもクリックが出ていれば「リンクは踏まれているが売れていない」と分かる)
+    let clicks: number | null = null;
+    try {
+      // region は必須で、しかも1回に1つしか受け付けない(複数指定は
+      // "invalid region code list" で 400)。Awin が公開しているマーケットを順に叩いて足す。
+      const REGIONS = ["GB", "US", "DE", "FR", "IE", "IT", "ES", "NL", "SE", "PL", "BR", "CA", "AU"];
+      let sum = 0;
+      for (const region of REGIONS) {
+        const r2 = await fetch(
+          `https://api.awin.com/publishers/${publisherId}/reports/advertiser?startDate=${START}&endDate=${END}&timezone=UTC&region=${region}`,
+          { headers: { Authorization: `Bearer ${token}` } }
+        );
+        if (!r2.ok) continue;
+        const rows = await r2.json() as any[];
+        sum += rows.reduce((s, r) => s + (Number(r.clicks) || 0), 0);
+      }
+      clicks = sum;
+    } catch { /* クリックが取れなくても報酬は返す */ }
+    return { ...base, clicks, conversions, revenue, status: "ok" };
   } catch (e: any) {
     return { ...base, status: "error", error: e.message };
   }
