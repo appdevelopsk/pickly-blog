@@ -158,15 +158,26 @@ function Sessions({ daily }: { daily: { date: string; sessions: number }[] }) {
 }
 
 /** 大きさ比較の横棒。単一の量なので1色。 */
-function BarList({ rows }: { rows: { label: string; value: number; note?: string }[] }) {
+function BarList({ rows }: { rows: { label: string; value: number; note?: string; dead?: boolean }[] }) {
   const max = Math.max(...rows.map((r) => r.value), 1);
   return (
     <ul className="space-y-2">
       {rows.map((r) => (
         <li key={r.label} className="grid grid-cols-[minmax(0,11rem)_1fr_auto] items-center gap-3">
-          <span className="truncate text-sm text-[var(--pk-ink)]" title={r.label}>{r.label}</span>
+          <span className="truncate text-sm text-[var(--pk-ink)]" title={r.label}>
+            {r.label}
+            {/* 1円にならない行き先は棒の長さだけでは分からない。上位に居ると「よく押されている＝良い」と読み違える。 */}
+            {r.note && (
+              <span className={`ml-2 rounded px-1.5 py-0.5 text-[10px] ${r.dead ? "text-[var(--pk-critical)]" : "text-[var(--pk-muted)]"} bg-[var(--pk-track)]`}>
+                {r.note}
+              </span>
+            )}
+          </span>
           <span className="h-2.5 rounded-full bg-[var(--pk-track)]">
-            <span className="block h-2.5 rounded-full" style={{ width: `${(r.value / max) * 100}%`, background: ACCENT }} />
+            <span
+              className="block h-2.5 rounded-full"
+              style={{ width: `${(r.value / max) * 100}%`, background: r.dead ? "var(--pk-critical)" : ACCENT }}
+            />
           </span>
           <span className="tabular-nums text-sm text-[var(--pk-ink)]">{num(r.value)}</span>
         </li>
@@ -192,8 +203,25 @@ export default function Dashboard() {
       .catch((e) => setError(String(e.message)));
   }, []);
 
+  /**
+   * クリック先を「1円になるか」で色分けする。
+   * 撤去済みの Skimlinks が28日窓では今も最多(全クリックの4割)で、素の棒グラフだと
+   * 一番稼いでいる行き先に見えてしまう。実際は無効化されたアカウントへの垂れ流し。
+   */
+  const DEAD_DOMAINS: Record<string, string> = {
+    "go.skimresources.com": "無効(2026-08-04撤去)",
+  };
+  const UNMEASURED_DOMAINS = ["rakuten.co.jp", "moshimo.com", "a8.net"];
   const domainRows = useMemo(
-    () => (data?.localeClicks ?? []).slice(0, 10).map((d) => ({ label: d.domain, value: d.clicks })),
+    () =>
+      (data?.localeClicks ?? []).slice(0, 10).map((d) => {
+        const dead = DEAD_DOMAINS[d.domain];
+        if (dead) return { label: d.domain, value: d.clicks, note: dead, dead: true };
+        if (d.market) return { label: d.domain, value: d.clicks };
+        if (UNMEASURED_DOMAINS.some((h) => d.domain.includes(h)))
+          return { label: d.domain, value: d.clicks, note: "報酬あり・売上未計測" };
+        return { label: d.domain, value: d.clicks, note: "タグ無し=無報酬", dead: true };
+      }),
     [data],
   );
 
@@ -316,7 +344,7 @@ export default function Dashboard() {
           </div>
         </Card>
 
-        <Card title="クリックの行き先" sub="ロケール／ASPの内訳。報酬にならない先が混じっていないかを見る。">
+        <Card title="クリックの行き先" sub="赤い棒は1円にもならない行き先。棒の長さだけ見ると、無報酬の先が一番稼いでいるように見える。">
           <BarList rows={domainRows} />
         </Card>
 
