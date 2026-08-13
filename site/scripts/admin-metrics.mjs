@@ -108,20 +108,36 @@ async function collectGa4() {
       dimensionFilter: eventFilter("affiliate_click"),
       orderBys: [{ metric: { metricName: "eventCount" }, desc: true }], limit: 100,
     }),
+    // ★ customEvent:link_domain は 179件中172件が "(not set)"。イベントが
+    //   link_domain パラメータを送っていないため使い物にならない。link_url は
+    //   全件入っているので、そこからホストを割り出す。
     ga4(token, {
-      dimensions: [{ name: "customEvent:link_domain" }], metrics: [{ name: "eventCount" }],
+      dimensions: [{ name: "customEvent:link_url" }], metrics: [{ name: "eventCount" }],
       dimensionFilter: eventFilter("affiliate_click"),
-      orderBys: [{ metric: { metricName: "eventCount" }, desc: true }], limit: 50,
+      orderBys: [{ metric: { metricName: "eventCount" }, desc: true }], limit: 2000,
     }),
+    // limit は大きく。300 だと閲覧数の少ない記事が落ちて、クリックはあるのに
+    // 閲覧数 null という穴あきの行になる(クリック率が出せなくなる)。
     ga4(token, {
       dimensions: [{ name: "pagePath" }], metrics: [{ name: "screenPageViews" }, { name: "sessions" }],
-      orderBys: [{ metric: { metricName: "screenPageViews" }, desc: true }], limit: 300,
+      orderBys: [{ metric: { metricName: "screenPageViews" }, desc: true }], limit: 5000,
     }),
     ga4(token, { dimensions: [{ name: "city" }], metrics: [{ name: "sessions" }], limit: 200 }),
     ga4(token, { metrics: [{ name: "sessions" }, { name: "totalUsers" }, { name: "screenPageViews" }, { name: "userEngagementDuration" }] }),
   ]);
 
   const num = (r, i = 0) => Number(r.metricValues[i].value) || 0;
+
+  // link_url -> ホスト単位に畳む。ASP/ロケール別の内訳はこれが元になる。
+  const hostCounts = new Map();
+  for (const r of byDomain) {
+    let host = "(URL不明)";
+    try { host = new URL(r.dimensionValues[0].value).hostname.replace(/^www\./, ""); } catch { /* 空や壊れたURL */ }
+    hostCounts.set(host, (hostCounts.get(host) ?? 0) + num(r));
+  }
+  const clicksByDomain = [...hostCounts.entries()]
+    .map(([domain, clicks]) => ({ domain, clicks, market: DOMAIN_MARKET[domain] ?? null }))
+    .sort((a, b) => b.clicks - a.clicks);
   const selfSessions = byCity.filter((r) => r.dimensionValues[0].value === SELF_CITY).reduce((a, r) => a + num(r), 0);
 
   const viewsByPath = new Map(views.map((r) => [r.dimensionValues[0].value, { views: num(r, 0), sessions: num(r, 1) }]));
@@ -142,7 +158,7 @@ async function collectGa4() {
     realSessions: Math.max(0, totalSessions - selfSessions),
     affiliateClicks: clicksByPath.reduce((a, r) => a + r.clicks, 0),
     clicksByPath,
-    clicksByDomain: byDomain.map((r) => ({ domain: r.dimensionValues[0].value || "(未設定)", clicks: num(r) })),
+    clicksByDomain,
     daily: daily.map((r) => ({
       date: r.dimensionValues[0].value.replace(/^(\d{4})(\d\d)(\d\d)$/, "$1-$2-$3"),
       sessions: num(r, 0), users: num(r, 1),
@@ -285,7 +301,9 @@ function estimateByArticle(ga, amazon, fx) {
     locale: r.locale,
     views: r.views,
     clicks: r.clicks,
-    clickRate: r.views ? round((r.clicks / r.views) * 100, 2) : null,
+    // 1閲覧あたりのクリック数。読者は1ページで複数商品を押すので 100% を超える。
+    // 「クリック率」と書くと誤読するのでこの名前にする。
+    clicksPerView: r.views ? round(r.clicks / r.views, 2) : null,
     estRevenueJpy: totalClicks ? round(totalEarnJpy * (r.clicks / totalClicks), 1) : 0,
   }));
 }
@@ -325,6 +343,17 @@ async function main() {
       note: r.status === "ok" ? undefined : r.error,
     })),
   ];
+
+  // 報酬が発生しない先へ流れているクリックを検知する。
+  // 2026-08-04 の実例: 無効化された Skimlinks(go.skimresources.com)へ全クリックの
+  // 4割が吸われていた。撤去済みだが、同じ型(死んだリダイレクタ・停止したASP)は
+  // 画面を見ても分からないのでクリック先ホストから機械的に見つける。
+  const DEAD_HOSTS = { "go.skimresources.com": "Skimlinks(2026-08-04にアカウント無効化)" };
+  for (const d of ga.clicksByDomain) {
+    if (DEAD_HOSTS[d.domain] && d.clicks > 0) {
+      warn(`報酬にならない先へ ${d.clicks} クリック流出: ${d.domain} — ${DEAD_HOSTS[d.domain]}`);
+    }
+  }
 
   const revenueJpy = round(revenueRows.reduce((a, r) => a + (r.revenueJpy ?? 0), 0), 1);
   const costJpy = costs.items.reduce((a, i) => a + (i.monthlyJpy || 0), 0);
