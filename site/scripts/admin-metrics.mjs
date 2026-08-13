@@ -233,6 +233,11 @@ const LOGIN_TARGETS = [
   { key: "us", label: "Amazon アソシエイト US", url: "https://affiliate-program.amazon.com/home" },
   { key: "jp", label: "Amazon アソシエイト JP", url: "https://affiliate.amazon.co.jp/home" },
   { key: "de", label: "Amazon PartnerNet DE", url: "https://partnernet.amazon.de/home" },
+  { key: "uk", label: "Amazon アソシエイト UK", url: "https://affiliate-program.amazon.co.uk/home" },
+  { key: "fr", label: "Amazon Partenaires FR", url: "https://partenaires.amazon.fr/home" },
+  { key: "it", label: "Amazon Affiliazione IT", url: "https://programma-affiliazione.amazon.it/home" },
+  { key: "es", label: "Amazon Afiliados ES", url: "https://afiliados.amazon.es/home" },
+  { key: "ca", label: "Amazon Associates CA", url: "https://associates.amazon.ca/home" },
 ];
 
 function collectLogins() {
@@ -275,6 +280,12 @@ function collectAmazon(clicksByDomain = []) {
   const asOf = [...latest.values()].reduce((a, r) => (r.date > a ? r.date : a), "");
   const staleDays = Math.floor((Date.now() - Date.parse(asOf)) / 864e5);
   if (staleDays > 2) warn(`Amazon の数字が ${staleDays} 日前 (${asOf}) で止まっている。スクレイプのログイン切れを疑う`);
+  // 国は日替わりローテーション(1実行あたりのドメイン数を増やすとセッションを切られる)
+  // なので、各国は6日に1度しか更新されない。全体の asOf では1国だけの死に気づけない。
+  for (const r of latest.values()) {
+    const d = Math.floor((Date.now() - Date.parse(r.date)) / 864e5);
+    if (d > 8) warn(`Amazon ${r.account.toUpperCase()} が ${d} 日前 (${r.date}) で止まっている — その国のログインが切れている`);
+  }
 
   const accounts = [...latest.values()].map((r) => ({
     market: r.account,
