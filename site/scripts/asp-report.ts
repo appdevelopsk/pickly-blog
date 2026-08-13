@@ -178,6 +178,14 @@ async function fetchCj(): Promise<AspResult> {
 
 // ── メイン ────────────────────────────────────────────────────────────────────
 async function main() {
+  // --json: 管理ダッシュボード(scripts/admin-metrics.mjs)が読む機械可読出力。
+  // 表とJSONで別々に集計すると数字がずれるので、取得ロジックはここ1箇所に保つ。
+  if (args.includes("--json")) {
+    const results = await Promise.all([fetchImpact(), fetchValueCommerce(), fetchAwin(), fetchCj()]);
+    console.log(JSON.stringify({ start: START, end: END, days: DAYS, results }));
+    return;
+  }
+
   console.log(`\n📊 ASP 収益レポート`);
   console.log(`期間: ${START} 〜 ${END} (${DAYS}日間)\n`);
 
