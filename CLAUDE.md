@@ -22,6 +22,15 @@
 5. **景表法・特商法対応**: 全アフィリリンクに rel="sponsored" + 「PR」ラベル + /disclosure ページ必須
 6. **Pinterestアカウント=ジャンル別**: 1アカウントで全ジャンル投稿しない（algorithm penalty）
 7. **コピペ禁止**: 他サイトからの転載・自動翻訳のみは禁止。Claude Codeで生成 → ローカライズ
+8. **★コミットは触ったパスだけを明示的に add する**: `git add -A` / `git add -u` / `git commit -a` は**禁止**。
+   このリポジトリは翻訳や価格取得の自動ジョブと人手のセッションが**同時に走る**。全部 add すると、
+   別セッションが編集中のファイルを巻き込んで自分のコミットに混ぜて push してしまう
+   (2026-08-13: 管理画面と affiliates の変更が翻訳コミットに3回巻き取られた)。
+   混ざったものは push 済みなので取り消せず、変更の由来も追えなくなる。
+   - 正: `git add site/src/lib/affiliates/asp.ts site/src/components/AffiliateLink.tsx && git commit -m ...`
+   - 誤: `git add -A && git commit -m ...`
+   - コミット前に `git status --short` を見て、**自分が編集したファイル以外が staged になっていないか**確認する。
+     身に覚えのない差分があれば、それは他セッションの作業中ファイルなので触らない。
 
 ## ディレクトリ
 
