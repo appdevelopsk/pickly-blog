@@ -214,6 +214,9 @@ const UNMEASURED_ASP_HOSTS = {
   "もしもアフィリエイト": ["moshimo.com"],
   "A8.net": ["a8.net", "px.a8.net"],
 };
+
+// UNMEASURED_ASP_HOSTS の表示名 → asp-earnings-daily.csv の asp 列。
+const SCRAPED_ASP_KEY = { "楽天アフィリエイト": "rakuten", "もしもアフィリエイト": "moshimo" };
 const hostMatches = (host, needles) => needles.some((n) => host.includes(n));
 const clicksForHosts = (clicksByDomain, hosts) =>
   clicksByDomain.filter((d) => hostMatches(d.domain, hosts)).reduce((a, d) => a + d.clicks, 0);
@@ -320,6 +323,33 @@ function collectAmazon(clicksByDomain = []) {
   return { accounts, asOf, missingMarkets: missing };
 }
 
+// ── スクレイプでしか取れないASP (楽天・もしも) ────────────────────────────────
+// どちらも成果レポートAPIが無い。growth/asp_earnings_snapshot.mjs が管理画面を
+// CDP で読んで CSV に落としているので、その最新行を使う。
+function collectScrapedAsp() {
+  const csv = resolve(SNAP_DIR, "asp-earnings-daily.csv");
+  const latest = new Map();
+  if (!existsSync(csv)) return latest;
+  for (const line of readFileSync(csv, "utf-8").trim().split("\n").slice(1)) {
+    const [date, asp, clicks, orders, revenue, currency] = line.split(",");
+    if (!asp) continue;
+    const prev = latest.get(asp);
+    if (!prev || prev.date < date) {
+      latest.set(asp, {
+        date, currency: currency || "JPY",
+        clicks: clicks === "" ? null : Number(clicks),
+        orders: orders === "" ? null : Number(orders),
+        revenue: revenue === "" ? null : Number(revenue),
+      });
+    }
+  }
+  for (const [asp, r] of latest) {
+    const d = Math.floor((Date.now() - Date.parse(r.date)) / 864e5);
+    if (d > 8) warn(`${asp} のスクレイプが ${d} 日前 (${r.date}) で止まっている — ~/.chrome-asp のログインが切れている`);
+  }
+  return latest;
+}
+
 // ── 他ASP ────────────────────────────────────────────────────────────────────
 function collectAsp() {
   try {
@@ -402,6 +432,7 @@ function estimateByArticle(ga, amazon, fx) {
 async function main() {
   const [fx, ga, asp] = await Promise.all([collectFx(), collectGa4(), Promise.resolve(collectAsp())]);
   const amazon = collectAmazon(ga.clicksByDomain);
+  const scraped = collectScrapedAsp();
 
   const jpy = (v, cur) => round(v * (fx.rates[cur] ?? FX_FALLBACK[cur] ?? 0), 1);
 
@@ -443,14 +474,28 @@ async function main() {
     // 売上APIを持たない/未着手のASP。クリックだけは見えるので、
     // 「ファネルの差140件」の正体が分かるように行として出す。
     ...Object.entries(UNMEASURED_ASP_HOSTS).map(([name, hosts]) => ({
-      name, clicks: clicksForHosts(ga.clicksByDomain, hosts),
-    })).filter((x) => x.clicks > 0).map((x) => ({
+      name, clicks: clicksForHosts(ga.clicksByDomain, hosts), scraped: scraped.get(SCRAPED_ASP_KEY[name]),
+    })).filter((x) => x.clicks > 0 || x.scraped).map((x) => x.scraped ? {
+      // 管理画面をスクレイプできたASP。
+      // ★クリックは GA4 の pickly 分を出す。楽天の管理画面のクリック数は
+      //   そのアカウント全体(他サイト含む)の合計で、pickly の 7 に対して 1,815 と
+      //   桁が違う。並べると pickly の稼ぎ頭に見えてしまうので採らない。
+      source: x.name,
+      connected: true,
+      currency: x.scraped.currency,
+      revenue: round(x.scraped.revenue ?? 0, 2),
+      revenueJpy: jpy(x.scraped.revenue ?? 0, x.scraped.currency),
+      clicks: x.clicks,
+      orders: x.scraped.orders,
+      asOf: x.scraped.date,
+      note: x.scraped.clicks != null ? `売上はASPアカウント全体の値 (管理画面のクリック ${x.scraped.clicks.toLocaleString()} は他サイト分を含む)` : undefined,
+    } : {
       source: x.name,
       connected: false,
       currency: "JPY",
       revenue: null, revenueJpy: null, clicks: x.clicks, orders: null,
       note: "売上は管理画面にしか出ない(API未対応)。0ではなく不明",
-    })),
+    }),
   ];
 
   // 実際に押されているのに接続できていないASPだけを警告する。
