@@ -16397,7 +16397,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://m.media-amazon.com/images/I/71zTH0YS8KL._AC_SL1500_.jpg",
     "priceMin": "$75",
     "priceMax": "$85",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🎒",
     "name": {
       "en": "Osprey Daylite Plus",
@@ -16423,7 +16423,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://m.media-amazon.com/images/I/81TKe-9lspL._AC_SL1500_.jpg",
     "priceMin": "$210",
     "priceMax": "$250",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🎒",
     "name": {
       "en": "Peak Design Everyday Backpack 15L",
@@ -16449,7 +16449,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://cdn11.bigcommerce.com/s-21x65e8kfn/images/stencil/original/products/63475/292228/PAT821_1000_1__56176.1696264965.jpg",
     "priceMin": "$99",
     "priceMax": "$129",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🎒",
     "name": {
       "en": "Patagonia Altvia Pack 14L",
@@ -16475,7 +16475,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://m.media-amazon.com/images/I/81HwKy0vJsL._AC_SL1500_.jpg",
     "priceMin": "$95",
     "priceMax": "$115",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🎒",
     "name": {
       "en": "Fjällräven Kånken Classic",
@@ -16501,7 +16501,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://res.cloudinary.com/campman/image/fetch/https://cdn11.bigcommerce.com/s-b7293/images/stencil/1280x1280/products/14787/68851/3410022-2807-SpeedLite13_jade_citrus-D-00__63983.1651602475.jpg",
     "priceMin": "$80",
     "priceMax": "$100",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🎒",
     "name": {
       "en": "Deuter Speed Lite 13",
@@ -16527,7 +16527,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68777087-ac4d-4e59-842e-aa0ff743a10f.__CR0,1,3880,2400_PT0_SX970_V1___.png",
     "priceMin": "$290",
     "priceMax": "$320",
-    "category": "travel",
+    "category": "fashion",
     "badge": "📷",
     "name": {
       "en": "Peak Design Everyday Backpack 30L",
@@ -16553,7 +16553,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://www.wandrd.com/cdn/shop/files/PRVKE31POCKET-WASATCHGREEN-FRONT-OW.jpg?crop=center&height=1200&v=1770057504&width=1200",
     "priceMin": "$269",
     "priceMax": "$319",
-    "category": "travel",
+    "category": "fashion",
     "badge": "📷",
     "name": {
       "en": "WANDRD PRVKE 31L",
@@ -16579,7 +16579,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://cdn.lowepro.com/media/catalog/product/cache/9a977f2f7de73aeebdbf006ae3d4476f/c/a/camera-backpack-lowepro--flipside-iii-lp37352-pww-gear.jpg",
     "priceMin": "$170",
     "priceMax": "$220",
-    "category": "travel",
+    "category": "fashion",
     "badge": "📷",
     "name": {
       "en": "Lowepro Flipside 400 AW III",
@@ -16605,7 +16605,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://media.foto-erhardt.de/images/product_images/popup_images/323/manfrotto-advanced-3-rucksack-active-163359221032350304.jpg",
     "priceMin": "$130",
     "priceMax": "$160",
-    "category": "travel",
+    "category": "fashion",
     "badge": "📷",
     "name": {
       "en": "Manfrotto Advanced III Active Backpack",
@@ -16631,7 +16631,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://cdn.shopify.com/s/files/1/0532/0233/products/airport-essentials-4_1100x.jpg?v=1643242690",
     "priceMin": "$200",
     "priceMax": "$250",
-    "category": "travel",
+    "category": "fashion",
     "badge": "📷",
     "name": {
       "en": "Think Tank Airport Essentials",
@@ -16657,7 +16657,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://m.media-amazon.com/images/I/812nFnCrWbL._AC_SL1500_.jpg",
     "priceMin": "$55",
     "priceMax": "$75",
-    "category": "travel",
+    "category": "home",
     "badge": "👕",
     "name": {
       "en": "Scrubba Wash Bag",
@@ -16683,7 +16683,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://www.bfgcdn.com/1500_1500_90/559-0304-0111/sea-to-summit-laundry-bag-packsack.jpg",
     "priceMin": "$15",
     "priceMax": "$22",
-    "category": "travel",
+    "category": "home",
     "badge": "👕",
     "name": {
       "en": "Sea to Summit Lightweight Laundry Bag",
@@ -16709,7 +16709,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://m.media-amazon.com/images/I/81+RwbpQa1L._AC_.jpg",
     "priceMin": "$12",
     "priceMax": "$18",
-    "category": "travel",
+    "category": "home",
     "badge": "👕",
     "name": {
       "en": "eBags Medium Laundry Bag",
@@ -16735,7 +16735,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://images.nexusapp.co/assets/5a/ca/37/557053569.jpg",
     "priceMin": "$13",
     "priceMax": "$18",
-    "category": "travel",
+    "category": "home",
     "badge": "👕",
     "name": {
       "en": "Boundless Voyage Mesh Laundry Bag",
@@ -16761,7 +16761,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://images.nexusapp.co/assets/aa/56/97/473236144.jpg",
     "priceMin": "$14",
     "priceMax": "$22",
-    "category": "travel",
+    "category": "home",
     "badge": "👕",
     "name": {
       "en": "HiBag Foldable Laundry Bag",
@@ -20011,7 +20011,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://m.media-amazon.com/images/I/61H7MFSadML._AC_SL1500_.jpg",
     "priceMin": "$275",
     "priceMax": "$345",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🧳",
     "name": {
       "en": "Away The Carry-On",
@@ -20037,7 +20037,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://monos.au/cdn/shop/products/OB_Hybrid_1x1_d3733d05-5ae9-4d28-9dbf-7647e1827dc2.jpg?v=1685383050",
     "priceMin": "$255",
     "priceMax": "$325",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🧳",
     "name": {
       "en": "Monos Carry-On",
@@ -20063,7 +20063,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd3f81b30/images/large/83253691_1.png",
     "priceMin": "$925",
     "priceMax": "$1,125",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🧳",
     "name": {
       "en": "Rimowa Essential Cabin",
@@ -20089,7 +20089,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://dk.tumi.com/dw/image/v2/AATF_PRD/on/demandware.static/-/Sites-tumi-product-catalog/default/dwb00f6daa/images/product/154198-A600_01.jpg?sw=1200&sh=1456",
     "priceMin": "$795",
     "priceMax": "$1,095",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🧳",
     "name": {
       "en": "Tumi 19 Degree International Expandable Carry-On",
@@ -20115,7 +20115,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://m.media-amazon.com/images/I/81n+F6UJJlL._AC_SX679_.jpg",
     "priceMin": "$60",
     "priceMax": "$80",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🧳",
     "name": {
       "en": "Amazon Basics Hardshell Carry-On",
@@ -20271,7 +20271,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://cdn.shopify.com/s/files/1/0604/8061/8711/t/7/assets/mod_fcm-217296181547896.jpg?v=1729618156",
     "priceMin": "$160",
     "priceMax": "$200",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🧥",
     "name": {
       "en": "SCOTTeVEST Fleece 101 Jacket",
@@ -20297,7 +20297,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://www.baubax.com/cdn/shop/products/WomenBeige1.jpg?v=1665499679",
     "priceMin": "$220",
     "priceMax": "$280",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🧥",
     "name": {
       "en": "BauBax 3.0 Travel Jacket",
@@ -20323,7 +20323,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://dbyvw4eroffpi.cloudfront.net/product-media/69W5/1000/1000/Patagonia-Houdini-Jacket-Wavy-Blue.jpg",
     "priceMin": "$129",
     "priceMax": "$149",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🧥",
     "name": {
       "en": "Patagonia Houdini Jacket",
@@ -20349,7 +20349,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/445003/sub/goods_445003_sub17.jpg?width=2000",
     "priceMin": "$40",
     "priceMax": "$60",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🧥",
     "name": {
       "en": "Uniqlo Pocketable UV Protection Parka",
@@ -20375,7 +20375,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://www.polstor.pl/upload/shop_product_lang/arcteryx-atom-lt-hoody-jacket--nighthawk/variants/full/Atom-LT-Hoody-Nighthawk.jpg",
     "priceMin": "$259",
     "priceMax": "$329",
-    "category": "travel",
+    "category": "fashion",
     "badge": "🧥",
     "name": {
       "en": "Arc'teryx Atom LT Hoody",
@@ -20401,7 +20401,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://m.media-amazon.com/images/I/71YFTqfMDoL._AC_SL1500_.jpg",
     "priceMin": "$135",
     "priceMax": "$145",
-    "category": "travel",
+    "category": "fashion",
     "badge": "👟",
     "name": {
       "en": "Allbirds Tree Dasher 2",
@@ -20427,7 +20427,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://p3.aprimocdn.net/ecco/36c0a0f8-2d79-4c18-bda8-af6c004d6135/430004-02244-main_eCom.png?format=auto&width=1984&quality=95",
     "priceMin": "$170",
     "priceMax": "$200",
-    "category": "travel",
+    "category": "fashion",
     "badge": "👟",
     "name": {
       "en": "ECCO Soft 7 Sneaker",
@@ -20453,7 +20453,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://www.merrell.co.nz/cdn/shop/products/MRLM-J84987-070219-S20-045_5B1_5D_1800x1800.jpg?v=1710881952",
     "priceMin": "$110",
     "priceMax": "$130",
-    "category": "travel",
+    "category": "fashion",
     "badge": "👟",
     "name": {
       "en": "Merrell Jungle Moc Leather Slip-On",
@@ -20479,7 +20479,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://www.paceathletic.com/cdn/shop/files/MensHOKABondi8-ElectricCobalt_Lettuce-4.jpg?v=1721921109&width=1701",
     "priceMin": "$165",
     "priceMax": "$175",
-    "category": "travel",
+    "category": "fashion",
     "badge": "👟",
     "name": {
       "en": "Hoka Bondi 8",
@@ -20505,7 +20505,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://m.media-amazon.com/images/I/613GzXnb8fL._AC_SL1500_.jpg",
     "priceMin": "$155",
     "priceMax": "$175",
-    "category": "travel",
+    "category": "fashion",
     "badge": "👟",
     "name": {
       "en": "Vivobarefoot Primus Lite III",
@@ -29041,7 +29041,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://manduka.sg/cdn/shop/files/136011816_EKO-SL-71-ROSEWOOD_02_2000x2000.jpg?v=1756095213",
     "priceMin": "$50",
     "priceMax": "$65",
-    "category": "travel",
+    "category": "fitness",
     "badge": "🧘",
     "name": {
       "en": "Manduka eKO Superlite Travel Mat",
@@ -29067,7 +29067,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://jadeyoga.com/cdn/shop/products/4Thick2_preview_75597c41-ea58-4f0e-8e83-4b213fa53d61_2048x2048.jpeg?v=1631574053",
     "priceMin": "$50",
     "priceMax": "$65",
-    "category": "travel",
+    "category": "fitness",
     "badge": "🧘",
     "name": {
       "en": "Jade Voyager Travel Yoga Mat",
@@ -29093,7 +29093,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://yogo.net/cdn/shop/files/ULIT4-FN_1024x1024.jpg?v=1719917027",
     "priceMin": "$80",
     "priceMax": "$100",
-    "category": "travel",
+    "category": "fitness",
     "badge": "🧘",
     "name": {
       "en": "Yogo Ultralight Travel Mat",
@@ -29119,7 +29119,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://storage.googleapis.com/lulu-fanatics/product/42768/1280/lululemon-the-reversible-mat-3mm-purple-quartz-cyber-036541-249307.jpg",
     "priceMin": "$88",
     "priceMax": "$108",
-    "category": "travel",
+    "category": "fitness",
     "badge": "🧘",
     "name": {
       "en": "Lululemon The Reversible Mat 3mm",
@@ -29145,7 +29145,7 @@ export const CATALOG_ADDITIONS = [
     "imageUrl": "https://m.media-amazon.com/images/I/91HGZrqJ-gL.jpg",
     "priceMin": "$20",
     "priceMax": "$35",
-    "category": "travel",
+    "category": "fitness",
     "badge": "🧘",
     "name": {
       "en": "Gaiam Foldable Yoga Mat",
