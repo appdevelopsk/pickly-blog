@@ -5470,7 +5470,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-hada-labo-gokujun",
-    "imageUrl": "",
+    "imageUrl": "https://rohto.co.id/assets/uploads/product/20240212102735.png",
     "priceMin": "¥660",
     "priceMax": "¥660",
     "category": "beauty",
@@ -35954,7 +35954,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "xero-growing",
-    "imageUrl": "",
+    "imageUrl": "https://ecloud-experts.com/wp-content/uploads/How-Amazon-Xero-and-QuickBooks-Work-Together.png",
     "priceMin": "$32",
     "priceMax": "$78",
     "category": "tech",
@@ -43997,7 +43997,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frisco-cooling-mat",
-    imageUrl: "",
+    imageUrl: "https://www.dogster.com/wp-content/uploads/2022/02/Frisco-Cooling-Orthopedic-Dog-Crate-Mat-2024.png",
     category: "pets",
     name: { en: "Frisco Cooling Mat" },
     description: { en: "The Frisco Cooling Mat is the value retailer-brand pick — Frisco (Chewy's house brand) offers affordable, no-nonsense pressure-activated gel cooling mats that do the core self-coo…" },
@@ -44657,7 +44657,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     id: "frisco-slow-feeder-bowl",
-    imageUrl: "",
+    imageUrl: "https://www.dogster.com/wp-content/uploads/2022/03/Frisco-Bone-Shaped-Ridges-Slow-Feeder.png",
     category: "pets",
     name: { en: "Frisco Slow Feeder Bowl" },
     description: { en: "The Frisco Slow Feeder Bowl is the house-brand value pick — Chewy's Frisco offers affordable, dependable slow-feeder maze bowls that do the core job at a budget-friendly price, in…" },
@@ -45452,10 +45452,10 @@ export const CATALOG_ADDITIONS = [
   { id: "fossil-camilla-leather-crossbody", imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6f04fecf-1131-4164-b078-d425b87a1843.__CR0,0,1464,600_PT0_SX1464_V1___.png", priceMin: "120", priceMax: "120", category: "fashion", badge: "👗", name: { en: "Fossil Camilla Leather Crossbody Bag", ja: "フォッシル カミラ レザー クロスボディバッグ" }, description: { en: "Genuine leather with multiple interior pockets and slip pockets. Adjustable crossbody strap. Top zip closure. Available in 10+ colors.", ja: "本革製・複数のインテリアポケット＆スリップポケット付き。調節可能なクロスボディストラップ。トップジッパー開閉。10色以上展開。" }, links: [{ network: "direct", productId: "https://www.fossil.com/en-us/products/camilla-crossbody-bag", markets: ["global"], approved: false }] },
   { id: "lululemon-pace-breaker-shorts", imageUrl: "https://m.media-amazon.com/images/I/71lYgmZ7C5L._SL1500_.jpg", priceMin: "68", priceMax: "68", category: "fashion", badge: "👗", name: { en: "Lululemon Pace Breaker Lined Short 5 Inch", ja: "ルルレモン ペースブレーカー ライニング ショーツ 5インチ" }, description: { en: "Swift fabric with built-in brief liner. 5\" inseam. Back zip pocket fits phone. Reflective details for low-light visibility. 4-way stretch.", ja: "ビルトインブリーフライナー付きスウィフトファブリック。5インチ股下。スマホ収納可能なバックジップポケット。低照度での視認性を高める反射材。4方向ストレッチ。" }, links: [{ network: "direct", productId: "https://shop.lululemon.com/p/mens-shorts/Pace-Breaker-Lined-Short-5", markets: ["global"], approved: false }] },
   { id: "champion-reverse-weave", imageUrl: "https://m.media-amazon.com/images/I/91suiDipknL._AC_UX569_.jpg", priceMin: "55", priceMax: "55", category: "fashion", badge: "👗", name: { en: "Champion Reverse Weave Crew Sweatshirt", ja: "チャンピオン リバースウィーブ クルースウェットシャツ" }, description: { en: "Horizontal rib construction resists vertical shrinkage. 12 oz fleece. Ribbed cuffs and waistband. Available in 20+ colorways. Heritage American streetwear.", ja: "縦方向の縮みを防ぐ横リブ構造。12オンスフリース。リブカフス＆ウエストバンド。20色以上展開。アメリカのヘリテージストリートウェア。" }, links: [{ network: "direct", productId: "https://www.champion.com/reverse-weave/sweatshirts", markets: ["global"], approved: false }] },
-  { id: "jason-markk-premium-kit", imageUrl: "https://m.media-amazon.com/images/I/81Cv7PRKMKL._AC_SL1500_.jpg", priceMin: "18", priceMax: "18", category: "fashion", badge: "👗", name: { en: "Jason Markk Premium Shoe Cleaning Kit", ja: "ジェイソン・マーク プレミアム シューズクリーニングキット" }, description: { en: "4 oz solution + premium brush. Works on leather, mesh, knit, suede, and canvas. pH-balanced, biodegradable formula. Used by sneaker boutiques globally.", ja: "4オンス溶液＋プレミアムブラシ。レザー・メッシュ・ニット・スエード・キャンバスに対応。pH中性・生分解性フォーミュラ。世界中のスニーカーブティックで使用。" }, links: [{ network: "direct", productId: "https://jasonmarkk.com/products/premium-kit", markets: ["global"], approved: false }] },,
+  { id: "jason-markk-premium-kit", imageUrl: "https://m.media-amazon.com/images/I/81Cv7PRKMKL._AC_SL1500_.jpg", priceMin: "18", priceMax: "18", category: "fashion", badge: "👗", name: { en: "Jason Markk Premium Shoe Cleaning Kit", ja: "ジェイソン・マーク プレミアム シューズクリーニングキット" }, description: { en: "4 oz solution + premium brush. Works on leather, mesh, knit, suede, and canvas. pH-balanced, biodegradable formula. Used by sneaker boutiques globally.", ja: "4オンス溶液＋プレミアムブラシ。レザー・メッシュ・ニット・スエード・キャンバスに対応。pH中性・生分解性フォーミュラ。世界中のスニーカーブティックで使用。" }, links: [{ network: "direct", productId: "https://jasonmarkk.com/products/premium-kit", markets: ["global"], approved: false }] },
   {
     "id": "midea-duo-map14hs1tbl",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61vKUtIFCFL._AC_SL1500_.jpg",
     "priceMin": "$500",
     "priceMax": "$700",
     "category": "home",
@@ -45481,7 +45481,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "whynter-arc-14s",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61ahq7VY36L._AC_SX425_.jpg",
     "priceMin": "$400",
     "priceMax": "$550",
     "category": "home",
@@ -45507,7 +45507,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "lg-lp1419ivsm",
-    "imageUrl": "",
+    "imageUrl": "https://www.lg.com/us/images/air-conditioners/md06065056/gallery/desktop-05.jpg",
     "priceMin": "$450",
     "priceMax": "$650",
     "category": "home",
@@ -45533,7 +45533,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "honeywell-hl10cesw",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/41GUFVP8GIL.jpg",
     "priceMin": "$300",
     "priceMax": "$420",
     "category": "home",
@@ -45559,7 +45559,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "blackdecker-bpact08wt",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/7141asVUNxL._AC_SL1500_.jpg",
     "priceMin": "$250",
     "priceMax": "$350",
     "category": "home",
@@ -45585,7 +45585,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "midea-u-maw08v1qwt",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71zG+JxdBoL.jpg",
     "priceMin": "$330",
     "priceMax": "$450",
     "category": "home",
@@ -45611,7 +45611,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ge-profile-phnt10cc",
-    "imageUrl": "",
+    "imageUrl": "https://cdn11.bigcommerce.com/s-pacto3wrn2/images/stencil/780x665/products/418173/1136187/gbnqgu2lporrrenydjlz__80273.1777392310.jpg?c=2",
     "priceMin": "$450",
     "priceMax": "$650",
     "category": "home",
@@ -45637,7 +45637,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "lg-lw8017ersm",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71rJoKDLrhL._AC_SL1500_.jpg",
     "priceMin": "$260",
     "priceMax": "$370",
     "category": "home",
@@ -45663,7 +45663,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "frigidaire-fhww084wd1",
-    "imageUrl": "",
+    "imageUrl": "https://frigidaire.bynder.com/transform/XL-1400/1b08e679-9f4c-42d9-ace4-9aa33b5628fe/FHWW084WD1-34L-psd",
     "priceMin": "$230",
     "priceMax": "$330",
     "category": "home",
@@ -45689,7 +45689,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "windmill-ac-8000",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Ky2IRrzjL._AC_SL1500_.jpg",
     "priceMin": "$350",
     "priceMax": "$470",
     "category": "home",
@@ -45715,7 +45715,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "force-usa-g3",
-    "imageUrl": "",
+    "imageUrl": "https://fitnesssupply.com/cdn/shop/files/F-G3-V2-02_c7eedc63-4a70-4f74-bb3a-d481a62cf2fb_1024x.jpg?v=1765903903",
     "priceMin": " as unknown as AffiliateOffer[],800",
     "priceMax": "$2,400",
     "category": "fitness",
@@ -45741,7 +45741,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "body-solid-gs348q",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61MvnOr5ltL._AC_SL1500_.jpg",
     "priceMin": "$2,000",
     "priceMax": "$2,600",
     "category": "fitness",
@@ -45767,7 +45767,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "titan-fitness-smith",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51GEc8cqRHL._AC_SL1000_.jpg",
     "priceMin": "$700",
     "priceMax": " as unknown as AffiliateOffer[],100",
     "category": "fitness",
@@ -45793,7 +45793,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "marcy-md-9010g",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71W1I89falL._AC_SL1500_.jpg",
     "priceMin": "$650",
     "priceMax": "$950",
     "category": "fitness",
@@ -45819,7 +45819,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "sunny-sf-bh6810",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71LoEADTbJL.jpg",
     "priceMin": "$550",
     "priceMax": "$850",
     "category": "fitness",

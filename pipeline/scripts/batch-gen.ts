@@ -141,7 +141,10 @@ function appendOffers() {
     })
     .join(",\n");
 
-  src = src.replace(/\n\](\s+as[^;]+)?;\s*$/, `,\n${insertion}\n]$1;\n`);
+  // ★末尾要素に既にカンマが付いている場合があるので、閉じ括弧の直前のカンマを一度吸収してから足す。
+  //   吸収しないと `},` + `,` で穴(sparse array)が開き、CATALOG に undefined が混ざって
+  //   catalog.ts の `OVERRIDES[offer.id]` が実行時に落ちる。
+  src = src.replace(/,?\s*\n\](\s+as[^;]+)?;\s*$/, `,\n${insertion}\n]$1;\n`);
   fs.writeFileSync(CATALOG_ADDITIONS, src);
   console.log(`→ added ${toAdd.length} new offers to catalog-additions.ts`);
 }
