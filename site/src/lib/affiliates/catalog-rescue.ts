@@ -13,7 +13,7 @@ import type { AffiliateOffer } from "./types";
 export const CATALOG_RESCUE: AffiliateOffer[] = [
   {
     "id": "munchkin-fishin-bath-toy",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d5c8affa-e659-4b68-a507-64de22139a90.__CR0,0,2598,2598_PT0_SX300_V1___.jpg",
     "priceMin": "$15",
     "priceMax": "$15",
     "category": "parenting",
@@ -39,7 +39,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "skip-hop-moby-diving",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91ndSiTv+yL._SL1500_.jpg",
     "priceMin": "$18",
     "priceMax": "$18",
     "category": "parenting",
@@ -65,7 +65,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "boon-building-bath-pipes",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71RgdonvsJL._AC_SL1500_.jpg",
     "priceMin": "$18",
     "priceMax": "$18",
     "category": "parenting",
@@ -91,7 +91,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "nuby-bath-rinse-cup",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51+lmERkOuL._AC_.jpg",
     "priceMin": "$12",
     "priceMax": "$12",
     "category": "parenting",
@@ -117,7 +117,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "munchkin-bath-letters",
-    "imageUrl": "",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41l-Mu-OIBL._SY300_QL70_.jpg",
     "priceMin": "$8",
     "priceMax": "$8",
     "category": "parenting",
@@ -143,7 +143,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "dreft-stage-1-newborn",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71AzeB9NdeL._AC_SL1500_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "parenting",
@@ -169,7 +169,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "seventh-generation-baby-detergent",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71DX8fHO9AL._AC_SX679_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "parenting",
@@ -195,7 +195,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "attitude-baby-detergent",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61LkjxrNUfL._AC_SL1500_.jpg",
     "priceMin": "$12",
     "priceMax": "$12",
     "category": "parenting",
@@ -221,7 +221,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "babyganics-laundry-detergent",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61stUEN8I4L._AC_SL1500_.jpg",
     "priceMin": "$14",
     "priceMax": "$14",
     "category": "parenting",
@@ -247,7 +247,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "all-free-clear-babies",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81sIDTuKCJL._SL1500_.jpg",
     "priceMin": "$12",
     "priceMax": "$12",
     "category": "parenting",
@@ -273,7 +273,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "iprimio-ultimate-cat-litter-mat",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91+T1q4QeAL._AC_SL1500_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "pets",
@@ -299,7 +299,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "gorilla-grip-cat-mat",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61YWup90+oL._AC_SX679_.jpg",
     "priceMin": "$30",
     "priceMax": "$30",
     "category": "pets",
@@ -325,7 +325,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "blackhole-cat-litter-mat",
-    "imageUrl": "",
+    "imageUrl": "https://siameseofday.com/wp-content/uploads/2021/05/BlackHole-Litter-Mat-Blackhole-Cat-Litter-Mat.jpg",
     "priceMin": "$32",
     "priceMax": "$32",
     "category": "pets",
@@ -351,7 +351,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "easyology-cat-litter-mat",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91BlrDZVB3L._AC_SL1500_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "pets",
@@ -377,7 +377,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "petlinks-cat-litter-mat",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71PuxfvL8WL._AC_.jpg",
     "priceMin": "$20",
     "priceMax": "$20",
     "category": "pets",
@@ -403,7 +403,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "dexas-mudpuppy-paw-plunger",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/713JmR3jeIL._AC_SL1500_.jpg",
     "priceMin": "$13",
     "priceMax": "$13",
     "category": "pets",
@@ -429,7 +429,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "aquapaw-dog-paw-cleaner",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71RHFJLOnzL.jpg",
     "priceMin": "$18",
     "priceMax": "$18",
     "category": "pets",
@@ -455,7 +455,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "ruff-wear-paw-cleaner",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Ru2eAUBQL._AC_SL1500_.jpg",
     "priceMin": "$20",
     "priceMax": "$20",
     "category": "pets",
@@ -481,7 +481,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "cleanpaw-portable-washer",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61eRRU8e0ZL._SL1500_.jpg",
     "priceMin": "$12",
     "priceMax": "$12",
     "category": "pets",
@@ -507,7 +507,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "burts-bees-paw-cleanser",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61G6hMtU06L._AC_SL1500_.jpg",
     "priceMin": "$7",
     "priceMax": "$7",
     "category": "pets",

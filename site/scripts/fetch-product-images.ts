@@ -284,7 +284,8 @@ async function main() {
   // basketball, and any catalog-batch*.ts split files added by batch-gen.
   const affDir = path.resolve(__dirname, "../src/lib/affiliates");
   const batchFiles = fs.readdirSync(affDir)
-    .filter((n) => /^catalog-batch.*\.ts$/.test(n))
+    // catalog-rescue*.ts = 未公開/カード欠けの記事を救出した分。ここも画像が要る。
+    .filter((n) => /^catalog-(batch|rescue).*\.ts$/.test(n))
     .map((n) => path.join(affDir, n));
   const files = [CATALOG_MAIN_PATH, CATALOG_PATH, CATALOG_BASKETBALL_PATH, ...batchFiles];
   let totalSuccess = 0;
