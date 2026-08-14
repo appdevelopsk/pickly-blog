@@ -27,12 +27,17 @@ import { fileURLToPath } from "node:url";
 import { execFileSync } from "node:child_process";
 
 const HERE = path.dirname(fileURLToPath(import.meta.url));
-const CACHE_PATH = path.join(HERE, "logs/asin-cache.json");
-const CSV_PATH = path.join(HERE, "logs/catalog-asins.csv");
+const CACHE_PATH = path.join(HERE, `logs/asin-cache${(process.env.MARKET ?? "us").toLowerCase() === "jp" ? "-jp" : ""}.json`);
+const CSV_PATH = path.join(HERE, `logs/catalog-asins${(process.env.MARKET ?? "us").toLowerCase() === "jp" ? "-jp" : ""}.csv`);
 const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 const DELAY_MS = 2500;
 const MATCH_RATIO = 0.6;
 const LIMIT = Number(process.env.LIMIT ?? 0);
+// MARKET=us(既定) / jp。JP の Amazon アソシエイトは実際に稼働しているので JP も埋める価値がある。
+const MARKET = (process.env.MARKET ?? "us").toLowerCase();
+const DOMAIN = MARKET === "jp" ? "amazon.co.jp" : "amazon.com";
+const NETWORK = MARKET === "jp" ? "amazon-jp" : "amazon-us";
+const MARKET_CODE = MARKET === "jp" ? "JP" : "US";
 
 const STOP = new Set(["the", "and", "for", "with", "pro", "plus", "max", "new", "set", "kit", "pack", "size", "inch", "series"]);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -49,7 +54,7 @@ function targets() {
     const PHYS = new Set(["tech","home","beauty","fashion","fitness","food","parenting","pets"]);
     const rows = CATALOG
       .filter(o => PHYS.has(o.category))
-      .filter(o => !(o.links ?? []).some(l => l.network === "amazon-us"))
+      .filter(o => !(o.links ?? []).some(l => l.network === "${NETWORK}"))
       // 月額表記のものは物理商品ではない(VPN・レンタルサーバ等)。Amazon に送っても意味が無い。
       .filter(o => !/\\/\\s*(mo|month|月)/i.test((o.priceMin ?? "") + (o.price ?? "")))
       .map(o => ({ id: o.id, name: o.name?.en ?? Object.values(o.name ?? {})[0] ?? "", category: o.category }))
@@ -70,22 +75,21 @@ async function ddgImageUrls(query) {
   );
   if (!r2.ok) return [];
   const data = await r2.json();
-  return (data.results ?? []).map((x) => x.url).filter(Boolean);
+  return (data.results ?? []).map((x) => ({ url: x.url, title: x.title ?? "" })).filter((x) => x.url);
 }
 
-/** 候補URL群から、商品名に十分一致する amazon.com の ASIN を1つ選ぶ。 */
-function pickAsin(urls, name) {
+/** 候補から、商品名に十分一致する Amazon の ASIN を1つ選ぶ。 */
+function pickAsin(hits, name) {
   const want = tokens(name);
   // 1語しかない名前(ブランド名だけ = NordVPN 等のサービス)は取り違えが起きるので解決しない。
   if (want.length < 2) return null;
-  for (const u of urls) {
-    const m = /^https?:\/\/(?:www\.)?amazon\.com\/([^?#]*)\/dp\/([A-Z0-9]{10})/i.exec(u)
-      ?? /^https?:\/\/(?:www\.)?amazon\.com\/dp\/([A-Z0-9]{10})/i.exec(u);
+  for (const h of hits) {
+    const m = new RegExp(`^https?://(?:www\\.)?${DOMAIN.replace(/\./g, "\\.")}/([^?#]*/)?dp/([A-Z0-9]{10})`, "i").exec(h.url);
     if (!m) continue;
-    const asin = m.length === 3 ? m[2] : m[1];
-    const slug = (m.length === 3 ? m[1] : "").toLowerCase();
-    const hit = want.filter((w) => slug.includes(w)).length;
-    if (hit / want.length >= MATCH_RATIO) return { asin, url: u };
+    // スラッグが無い URL (amazon.co.jp に多い) は画像結果のタイトルで照合する。
+    const hay = ((m[1] ?? "") + " " + (h.title ?? "")).toLowerCase();
+    const hit = want.filter((w) => hay.includes(w)).length;
+    if (hit / want.length >= MATCH_RATIO) return { asin: m[2].toUpperCase(), url: h.url };
   }
   return null;
 }
@@ -94,7 +98,8 @@ async function main() {
   fs.mkdirSync(path.dirname(CACHE_PATH), { recursive: true });
   const cache = fs.existsSync(CACHE_PATH) ? JSON.parse(fs.readFileSync(CACHE_PATH, "utf8")) : {};
   const all = targets();
-  const todo = all.filter((o) => !(o.id in cache));
+  const RETRY = process.env.RETRY_MISSES === "1";
+  const todo = all.filter((o) => (RETRY ? !cache[o.id] : !(o.id in cache)));
   console.log(`対象 ${all.length} 件 / 未解決 ${todo.length} 件`);
   const work = LIMIT ? todo.slice(0, LIMIT) : todo;
 
@@ -102,8 +107,8 @@ async function main() {
   for (const o of work) {
     i++;
     try {
-      const urls = await ddgImageUrls(`${o.name} amazon`);
-      const found = pickAsin(urls, o.name);
+      const hits = await ddgImageUrls(`${o.name} ${DOMAIN}`);
+      const found = pickAsin(hits, o.name);
       cache[o.id] = found ? { asin: found.asin, name: o.name } : null;
       if (found) { ok++; } else { miss++; }
       if (i % 10 === 0 || i === work.length) {
@@ -120,7 +125,7 @@ async function main() {
   const lines = ["offerId,network,productId,rawUrl,markets"];
   for (const [id, v] of Object.entries(cache)) {
     if (!v) continue;
-    lines.push(`${id},amazon-us,${v.asin},https://www.amazon.com/dp/${v.asin},US`);
+    lines.push(`${id},${NETWORK},${v.asin},https://www.${DOMAIN}/dp/${v.asin},${MARKET_CODE}`);
   }
   fs.writeFileSync(CSV_PATH, lines.join("\n") + "\n");
   console.log(`\n解決 ${lines.length - 1} 件 → ${CSV_PATH}`);
