@@ -26,7 +26,7 @@ BASE = "/Users/ken/pickly-blog/site/src/articles"
 
 # Amazon で買えないもの。ここは実提携が要る。
 SKIP_SLUGS = {
-    "best-balance-transfer-credit-card-2026", "best-cryptocurrency-wallet-2026",
+    "best-balance-transfer-credit-card-2026",
     "best-debt-consolidation-loan-2026", "best-estate-planning-software-2026",
     "best-etf-for-beginners-2026", "best-health-savings-account-2026",
     "best-index-fund-2026", "best-rewards-credit-card-2026",
@@ -35,6 +35,8 @@ SKIP_SLUGS = {
 
 # travel カテゴリの物理商品は Amazon フォールバックが効くカテゴリに寄せる。
 CATEGORY_OVERRIDE = {
+    # ハードウェアウォレットは finance 記事だが実物の機器。Amazon で買える。
+    "best-cryptocurrency-wallet-2026": "tech",
     "best-backpacking-water-filter-2026": "fitness",
     "best-carry-on-backpack-women-2026": "fashion",
     "best-packing-belt-bag-travel-2026": "fashion",
@@ -56,8 +58,18 @@ def existing_ids():
     return set(json.loads(out.stdout.strip().splitlines()[-1]))
 
 
+def prev_images():
+    """再生成で取得済みの imageUrl を消さないよう、現在のファイルから引き継ぐ。"""
+    p = "/Users/ken/pickly-blog/site/src/lib/affiliates/catalog-rescue2.ts"
+    if not os.path.exists(p):
+        return {}
+    t = open(p, encoding="utf-8").read()
+    return dict(re.findall(r'"id": "([^"]+)",\s*\n\s*"imageUrl": "([^"]*)"', t))
+
+
 def main():
     have = existing_ids()
+    imgs = prev_images()
     offers, needs_price, skipped = [], [], []
     for slug in sorted(os.listdir(BASE)):
         meta_path = f"{BASE}/{slug}/meta.ts"
@@ -87,7 +99,7 @@ def main():
                 needs_price.append(f"{slug}\t{oid}")
                 pr = ("", "")
             offers.append({
-                "id": oid, "imageUrl": "", "priceMin": pr[0], "priceMax": pr[1],
+                "id": oid, "imageUrl": imgs.get(oid, ""), "priceMin": pr[0], "priceMax": pr[1],
                 "category": cat, "badge": BADGE.get(cat, "🛒"),
                 "name": {"en": title_from_id(oid), "ja": title_from_id(oid)},
                 "description": {
@@ -101,6 +113,7 @@ def main():
                 }],
             })
 
+    export_name = os.environ.get("EXPORT_NAME", "CATALOG_RESCUE2")
     body = ",\n".join("  " + json.dumps(o, ensure_ascii=False, indent=2).replace("\n", "\n  ") for o in offers)
     src = (
         '/**\n'
@@ -112,9 +125,12 @@ def main():
         ' * 生成: site/scripts/_rescue-offers2.py\n'
         ' */\n'
         'import type { AffiliateOffer } from "./types";\n\n'
-        "export const CATALOG_RESCUE2: AffiliateOffer[] = [\n" + body + "\n] as unknown as AffiliateOffer[];\n"
+        f"export const {export_name}: AffiliateOffer[] = [\n" + body + "\n] as unknown as AffiliateOffer[];\n"
     )
-    dst = "/Users/ken/pickly-blog/site/src/lib/affiliates/catalog-rescue2.ts"
+    # ★このスクリプトは「まだカタログに無い分」だけを生成する。既存の
+    # catalog-rescue2.ts を上書きすると救出済みの100件が消えるので、
+    # 追加分は OUT= で別ファイルに書く(既定は初回生成先)。
+    dst = os.environ.get("OUT", "/Users/ken/pickly-blog/site/src/lib/affiliates/catalog-rescue2.ts")
     open(dst, "w", encoding="utf-8").write(src)
     print(f"生成 {len(offers)} offers → {dst}")
     print(f"\n■ 実提携が要るので埋めない ({len(skipped)}): " + ", ".join(skipped))

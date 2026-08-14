@@ -6,6 +6,7 @@ import { CATALOG_ADDITIONS_SMARTRINGS } from "./catalog-additions-smartrings";
 import { CATALOG_ADDITIONS_BASKETBALL } from "./catalog-additions-basketball";
 import { CATALOG_RESCUE } from "./catalog-rescue";
 import { CATALOG_RESCUE2 } from "./catalog-rescue2";
+import { CATALOG_RESCUE3 } from "./catalog-rescue3";
 import { CATALOG_BATCH12_PARENTING } from "./catalog-batch12-parenting";
 import { CATALOG_BATCH12_PETS } from "./catalog-batch12-pets";
 import { CATALOG_BATCH12_TRAVEL } from "./catalog-batch12-travel";
@@ -23151,6 +23152,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   ...CATALOG_ADDITIONS_BASKETBALL,
   ...CATALOG_RESCUE,
   ...CATALOG_RESCUE2,
+  ...CATALOG_RESCUE3,
   ...CATALOG_BATCH12_PARENTING,
   ...CATALOG_BATCH12_PETS,
   ...CATALOG_BATCH12_TRAVEL,
