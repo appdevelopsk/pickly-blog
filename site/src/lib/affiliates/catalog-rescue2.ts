@@ -1077,7 +1077,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "whistle-go-explore",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/095ec84c-9979-4d8d-aa94-57c8dc4bc548.__CR0,0,970,600_PT0_SX970_V1___.png",
     "priceMin": "$10",
     "priceMax": "$79",
     "category": "pets",
@@ -1103,7 +1103,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "link-akc-smart-collar",
-    "imageUrl": "",
+    "imageUrl": "https://frumvintxhwwdlxdneim.supabase.co/storage/v1/object/public/article_images/d1f073d7-a7db-43e0-b126-1f5b09f37fe4/zpImVZ72YsOaSYaT.jpeg",
     "priceMin": "$9",
     "priceMax": "$99",
     "category": "pets",
@@ -1129,7 +1129,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "jiobit-pet-tracker",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71eXouMYuaL.jpg",
     "priceMin": "$9",
     "priceMax": "$99",
     "category": "pets",
@@ -1155,7 +1155,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "living-proof-perfect-hair-day-dry",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/41762lb3J3L._SX522_.jpg",
     "priceMin": "$30",
     "priceMax": "$30",
     "category": "beauty",
@@ -1181,7 +1181,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "oribe-gold-lust-dry-shampoo",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81h7mnpIAdL._SL1500_.jpg",
     "priceMin": "$46",
     "priceMax": "$46",
     "category": "beauty",
@@ -1207,7 +1207,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "moroccanoil-dry-shampoo-light",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/511+M1J12eL._SL1500_.jpg",
     "priceMin": "$26",
     "priceMax": "$26",
     "category": "beauty",
@@ -1233,7 +1233,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "dove-refresh-dry-shampoo",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61s9++xd93L._SL1500_.jpg",
     "priceMin": "$6",
     "priceMax": "$6",
     "category": "beauty",
@@ -1259,7 +1259,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "charlotte-tilbury-luxury-palette",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Qa4et-wvL._SL1500_.jpg",
     "priceMin": "$75",
     "priceMax": "$75",
     "category": "beauty",
@@ -1285,7 +1285,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "mac-times-nine",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61-kh62sW1L._AC_.jpg",
     "priceMin": "$33",
     "priceMax": "$33",
     "category": "beauty",
@@ -1311,7 +1311,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "elf-studio-eyeshadow-32",
-    "imageUrl": "",
+    "imageUrl": "https://m5.paperblog.com/i/35/357384/elf-studio-makeup-clutch-palette-swatches-fot-L-KHkOhP.jpeg",
     "priceMin": "$12",
     "priceMax": "$12",
     "category": "beauty",
@@ -1337,7 +1337,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "vuori-ponto-jogger",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0022/4008/6074/products/V438HAZ_3715.jpg?v=1691780737&width=2400&crop=center",
     "priceMin": "$98",
     "priceMax": "$98",
     "category": "fashion",
@@ -1363,7 +1363,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "nike-tech-fleece-jogger",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71mSvz-q6AL._AC_UL960_QL65_.jpg",
     "priceMin": "$110",
     "priceMax": "$110",
     "category": "fashion",
@@ -1389,7 +1389,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "adidas-tiro-track-pants",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/818cdLFZMDL._AC_SL1500_.jpg",
     "priceMin": "$45",
     "priceMax": "$45",
     "category": "fashion",
@@ -1415,7 +1415,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "amazon-essentials-fleece-jogger",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61wBgvR9-wL.jpg",
     "priceMin": "$22",
     "priceMax": "$22",
     "category": "fashion",
@@ -1441,7 +1441,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "yumbox-original-bento",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3d3714d6-7f85-45f7-a65f-0701b458cc4a.__CR0,0,970,600_PT0_SX970_V1___.png",
     "priceMin": "",
     "priceMax": "",
     "category": "parenting",
@@ -1467,7 +1467,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "bentgo-kids-lunchbox",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81TXeG5MHVL._AC_SL1500_.jpg",
     "priceMin": "$22",
     "priceMax": "$22",
     "category": "parenting",
@@ -1493,7 +1493,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "omiebox-bento-kids",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71+-+JpKPDL._AC_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "parenting",
@@ -1519,7 +1519,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "rubbermaid-lunchblox-kids",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51b8oneibaL._AC_.jpg",
     "priceMin": "$18",
     "priceMax": "$18",
     "category": "parenting",
@@ -1545,7 +1545,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "coppertone-water-babies-spf50",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71xNJoakrtL._SL1500_.jpg",
     "priceMin": "$12",
     "priceMax": "$12",
     "category": "parenting",
@@ -1571,7 +1571,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "thinksport-kids-spf50",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Fl3ipMSvL._SL1500_.jpg",
     "priceMin": "$17",
     "priceMax": "$17",
     "category": "parenting",
@@ -1597,7 +1597,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "neutrogena-pure-free-baby",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81URkdXmC5L._SL1500_.jpg",
     "priceMin": "$11",
     "priceMax": "$11",
     "category": "parenting",
@@ -1623,7 +1623,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "blue-lizard-kids-spf50",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71BFxkOKaDL._SL1500_.jpg",
     "priceMin": "$15",
     "priceMax": "$15",
     "category": "parenting",
@@ -1649,7 +1649,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "leapfrog-leappad-academy",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/811mEIQuyaL.jpg",
     "priceMin": "$99",
     "priceMax": "$99",
     "category": "parenting",
@@ -1675,7 +1675,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "apple-ipad-kids-edition",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/yJpvsX3JvUQLiNQnh5mxHo-1280-80.jpg",
     "priceMin": "$30",
     "priceMax": "$329",
     "category": "parenting",
@@ -1701,7 +1701,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "samsung-galaxy-tab-a8-kids",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/717tTOZyuTL._AC_SL1500_.jpg",
     "priceMin": "$200",
     "priceMax": "$200",
     "category": "parenting",
@@ -1727,7 +1727,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "dragon-touch-kidoz-tablet",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71pEFW82a-L.jpg",
     "priceMin": "$80",
     "priceMax": "$80",
     "category": "parenting",
@@ -1753,7 +1753,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "secrid-slimwallet",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/619uhCHrAoS._AC_SL1001_.jpg",
     "priceMin": "$75",
     "priceMax": "$75",
     "category": "fashion",
@@ -1779,7 +1779,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "groove-life-wallet",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71Q5y7MnxUL._AC_SX679_.jpg",
     "priceMin": "$90",
     "priceMax": "$90",
     "category": "fashion",
@@ -1805,7 +1805,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "dash-wallet-compact",
-    "imageUrl": "",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41MCGKj33IL.jpg",
     "priceMin": "$22",
     "priceMax": "$22",
     "category": "fashion",
@@ -1831,7 +1831,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "osprey-seral-7l",
-    "imageUrl": "",
+    "imageUrl": "http://ridgeandriver.com/cdn/shop/files/NewProject-2024-04-13T051328.910.jpg?v=1712956439",
     "priceMin": "$90",
     "priceMax": "$90",
     "category": "fashion",
@@ -1857,7 +1857,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "fjallraven-ulvo-lumbar-bag",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/7199SZYAoOL._AC_SL1500_.jpg",
     "priceMin": "$90",
     "priceMax": "$90",
     "category": "fashion",
@@ -1883,7 +1883,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "cotopaxi-bataan-3l",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51k+k8gZkgL._AC_SL1000_.jpg",
     "priceMin": "$50",
     "priceMax": "$50",
     "category": "fashion",
@@ -1909,7 +1909,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "tp-link-m7200",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81xArpN613L._AC_SL1500_.jpg",
     "priceMin": "$49",
     "priceMax": "$49",
     "category": "tech",
@@ -1935,7 +1935,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "solis-lite-wifi",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/31795iYi8GL._AC_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "tech",
@@ -1961,7 +1961,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "gl-inet-slate-ax",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fac8ba48-bb79-4034-af2b-a29a507dec26.__CR0,0,970,600_PT0_SX970_V1___.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "tech",
@@ -1987,7 +1987,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "netgear-nighthawk-m5",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/614tnoMKSZL._AC_SL1500_.jpg",
     "priceMin": "$299",
     "priceMax": "$299",
     "category": "tech",
@@ -2013,7 +2013,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "purina-pro-plan-puppy",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71AzdhcBBQL._AC_SL1500_.jpg",
     "priceMin": "$20",
     "priceMax": "$20",
     "category": "pets",
@@ -2039,7 +2039,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "hills-science-diet-puppy",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/718YoPIXwKL._AC_SL1500_.jpg",
     "priceMin": "$30",
     "priceMax": "$30",
     "category": "pets",
@@ -2065,7 +2065,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "orijen-puppy-food",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61wR6Sdyn4L._AC_.jpg",
     "priceMin": "$79",
     "priceMax": "$79",
     "category": "pets",
@@ -2091,7 +2091,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "blue-buffalo-life-protection-puppy",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/816OMlyCRJL._AC_.jpg",
     "priceMin": "$29",
     "priceMax": "$29",
     "category": "pets",
