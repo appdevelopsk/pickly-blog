@@ -2117,7 +2117,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "nuby-no-spill-sippy",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61qw1vVXesL._AC_SL1500_.jpg",
     "priceMin": "$7",
     "priceMax": "$30",
     "category": "parenting",
@@ -2143,7 +2143,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "nuk-learner-cup",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71j7uT0rsiL._SL1500_.jpg",
     "priceMin": "$7",
     "priceMax": "$7",
     "category": "parenting",
@@ -2169,7 +2169,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "thermos-foogo-straw-cup",
-    "imageUrl": "",
+    "imageUrl": "https://smartcanucks.ca/wp-content/uploads/2013/08/thermossippy.jpg",
     "priceMin": "$15",
     "priceMax": "$15",
     "category": "parenting",
@@ -2195,7 +2195,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "oxo-tot-transitions-cup",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71r9EgwPyPL._SL1500_.jpg",
     "priceMin": "$12",
     "priceMax": "$12",
     "category": "parenting",
@@ -2221,7 +2221,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "reshoevn8r-starter-kit",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61mbRT9Td3L._AC_SL1024_.jpg",
     "priceMin": "$25",
     "priceMax": "$25",
     "category": "fashion",
@@ -2247,7 +2247,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "crep-protect-shoe-kit",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71r30tLUZfL._AC_SL1500_.jpg",
     "priceMin": "$22",
     "priceMax": "$22",
     "category": "fashion",
@@ -2273,7 +2273,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "pink-miracle-shoe-cleaner",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71x+a1qozoL._AC_UL1500_.jpg",
     "priceMin": "$16",
     "priceMax": "$16",
     "category": "fashion",
@@ -2299,7 +2299,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "sneakerlab-basic-kit",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71pDwjRnztL._AC_SL1500_.jpg",
     "priceMin": "$2",
     "priceMax": "$20",
     "category": "fashion",
@@ -2325,7 +2325,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "lululemon-scuba-oversized",
-    "imageUrl": "",
+    "imageUrl": "https://storage.googleapis.com/lulu-fanatics/product/76473/1280/lululemon-scuba-oversized-funnel-neck-half-zip-water-drop-047824-407485.jpg",
     "priceMin": "$118",
     "priceMax": "$118",
     "category": "fashion",
@@ -2351,7 +2351,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "carhartt-midweight-sweatshirt",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61SlqtqHbfL._AC_SL1000_.jpg",
     "priceMin": "$50",
     "priceMax": "$50",
     "category": "fashion",
@@ -2377,7 +2377,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "essentials-fog-hoodie",
-    "imageUrl": "",
+    "imageUrl": "https://www.oakshop.ca/cdn/shop/files/e4751d1f-b715-478a-a98b-75f12133524f_1800x1800.jpg?v=1745691182",
     "priceMin": "$90",
     "priceMax": "$90",
     "category": "fashion",
@@ -2403,7 +2403,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "ricoh-gr-iiix",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81qGKO3Or4L._AC_SL1500_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "tech",
@@ -2533,7 +2533,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "somewear-global-hotspot",
-    "imageUrl": "",
+    "imageUrl": "https://somewearlabs.com/wp-content/uploads/2021/10/product-global-hotspot.png",
     "priceMin": "$25",
     "priceMax": "$199",
     "category": "tech",
@@ -2559,7 +2559,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "bivystick-satellite",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71k-dwfVz9L._AC_SL1500_.jpg",
     "priceMin": "$5",
     "priceMax": "$199",
     "category": "tech",
@@ -2585,7 +2585,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "zoleo-satellite-communicator",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51xgeb3d66L._AC_SL1200_.jpg",
     "priceMin": "$20",
     "priceMax": "$199",
     "category": "tech",
