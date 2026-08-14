@@ -11,7 +11,7 @@ import type { AffiliateOffer } from "./types";
 export const CATALOG_RESCUE2: AffiliateOffer[] = [
   {
     "id": "cerave-skin-renewing-retinol",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71GNGT1N0eL._AC_SL1500_.jpg",
     "priceMin": "$19",
     "priceMax": "$19",
     "category": "beauty",
@@ -37,7 +37,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "neutrogena-rapid-wrinkle-repair",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/710ldIJgRCL._AC_.jpg",
     "priceMin": "$22",
     "priceMax": "$22",
     "category": "beauty",
@@ -63,7 +63,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "estee-lauder-advanced-night-repair",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71g21NW53fL._SL1500_.jpg",
     "priceMin": "$68",
     "priceMax": "$68",
     "category": "beauty",
@@ -89,7 +89,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "la-mer-moisturizing-cream",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71NAMlm8B1L._AC_.jpg",
     "priceMin": "$360",
     "priceMax": "$360",
     "category": "beauty",
@@ -115,7 +115,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "ten-thousand-versatility-short",
-    "imageUrl": "",
+    "imageUrl": "https://theawesomer.com/photos/2025/04/ten_thousand_tactical_short_3.jpg",
     "priceMin": "$68",
     "priceMax": "$68",
     "category": "fashion",
@@ -141,7 +141,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "nike-dri-fit-challenger",
-    "imageUrl": "",
+    "imageUrl": "https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/c6526d4b-644a-4242-b86f-d9e6e8eb83ea/M+NK+DF+CHALLENGER+5BF+SHORT.png",
     "priceMin": "$35",
     "priceMax": "$35",
     "category": "fashion",
@@ -167,7 +167,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "gymshark-vital-shorts",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0098/8822/files/VITALSEAMLESSWSHORTGsStrongGreyMarlB1A4J-GCSV-1695_270cf72e-6113-4876-af9e-35ce91766fa8_1080x.jpg?v=1722504964",
     "priceMin": "$45",
     "priceMax": "$45",
     "category": "fashion",
@@ -193,7 +193,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "under-armour-launch-shorts",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51kKk+5Z1CL._AC_SX342_SY445_QL70_ML2_.jpg",
     "priceMin": "$30",
     "priceMax": "$30",
     "category": "fashion",
@@ -219,7 +219,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "plum-organics-baby-food",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81MQBskzr0L._SL1500_.jpg",
     "priceMin": "$2",
     "priceMax": "$2",
     "category": "parenting",
@@ -245,7 +245,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "earths-best-organic-pouches",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81e-BJBpE6L._SL1500_.jpg",
     "priceMin": "$2",
     "priceMax": "$2",
     "category": "parenting",
@@ -271,7 +271,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "gerber-organic-pouches",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81JIfxASCeL._SL1500_.jpg",
     "priceMin": "$2",
     "priceMax": "$2",
     "category": "parenting",
@@ -297,7 +297,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "beech-nut-stage-2-pouches",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81h2IIV1z9L._SL1500_.jpg",
     "priceMin": "$2",
     "priceMax": "$2",
     "category": "parenting",
@@ -323,7 +323,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "katadyn-befree-filter",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61qq5QCm9bL.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "fitness",
@@ -349,7 +349,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "platypus-quickdraw-filter",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61abknsnUFL.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "fitness",
@@ -375,7 +375,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "steripen-ultra-uv",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71UmFW7CMyL._AC_SL1500_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "fitness",
@@ -401,7 +401,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "dr-jart-cicapair-tiger",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61XVzFMC8yL._AC_SL1500_.jpg",
     "priceMin": "$52",
     "priceMax": "$52",
     "category": "beauty",
@@ -427,7 +427,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "missha-perfect-cover-bb",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61+qQefbViL._SL1500_.jpg",
     "priceMin": "$12",
     "priceMax": "$12",
     "category": "beauty",
@@ -479,7 +479,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "garnier-skin-active-bb",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71O7lYkqSkL._SL1500_.jpg",
     "priceMin": "$12",
     "priceMax": "$12",
     "category": "beauty",
@@ -505,7 +505,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "chanel-joues-contraste",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51rXMF2xCpL._SL1000_.jpg",
     "priceMin": "$55",
     "priceMax": "$55",
     "category": "beauty",
@@ -531,7 +531,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "benefit-gold-rush-blush",
-    "imageUrl": "",
+    "imageUrl": "https://s3-us-west-1.amazonaws.com/1source-upstream/product_photo/423953_front_1606043736.png",
     "priceMin": "$30",
     "priceMax": "$30",
     "category": "beauty",
@@ -557,7 +557,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "elf-putty-blush",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51VB5uoNFwL._AC_SL1500_.jpg",
     "priceMin": "$9",
     "priceMax": "$9",
     "category": "beauty",
@@ -583,7 +583,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "tortuga-outbreaker-35l",
-    "imageUrl": "",
+    "imageUrl": "https://www.expocafeperu.com/w/2020/02/tortuga-outbreaker-travel-backpack-45l-tortuga-outbreaker-travel-backpack-44-litre-tortuga-outbreaker-travel-backpack-review-tortuga-outbreaker-backpack-uk.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "fashion",
@@ -609,7 +609,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "peak-design-travel-backpack-45",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/012c14d6-4eea-4daf-b357-6ac9461a0084.__CR0,0,1464,600_PT0_SX1464_V1___.png",
     "priceMin": "$350",
     "priceMax": "$350",
     "category": "fashion",
@@ -635,7 +635,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "nomatic-travel-pack-40l",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81prUXXxo3L._AC_SL1500_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "fashion",
@@ -661,7 +661,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "rabbitgoo-cat-harness",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71eVOy1sYEL._AC_SL1500_.jpg",
     "priceMin": "$14",
     "priceMax": "$14",
     "category": "pets",
@@ -687,7 +687,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "rc-pets-kitty-harness",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71TRzFUlyfL._AC_SL1500_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "pets",
@@ -713,7 +713,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "petsafe-come-with-me-kitty",
-    "imageUrl": "",
+    "imageUrl": "http://rowdyandarchie.com/cdn/shop/files/petsafe-come-with-me-kitty-harness-and-bungee-leash-large-black-552148.jpg?v=1742829659",
     "priceMin": "",
     "priceMax": "",
     "category": "pets",
@@ -739,7 +739,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "ruffwear-flagline-cat-harness",
-    "imageUrl": "",
+    "imageUrl": "https://cdn.shoplightspeed.com/shops/626901/files/61031167/ruffwear-flagline-harness.jpg",
     "priceMin": "$65",
     "priceMax": "$65",
     "category": "pets",
@@ -765,7 +765,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "coach-jes-crossbody",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91-YHIBV2ML._AC_SL1500_.jpg",
     "priceMin": "$195",
     "priceMax": "$195",
     "category": "fashion",
@@ -791,7 +791,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "tory-burch-mcgraw-crossbody",
-    "imageUrl": "",
+    "imageUrl": "http://www.luxedh.com/cdn/shop/files/Tory-Burch-Leather-McGraw-Crossbody_223218_front_0_parent.jpg?v=1731456019&width=2048",
     "priceMin": "$228",
     "priceMax": "$228",
     "category": "fashion",
@@ -817,7 +817,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "kate-spade-knott-crossbody",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/81LzKVG1kEL._AC_SL1500_.jpg",
     "priceMin": "$130",
     "priceMax": "$159",
     "category": "fashion",
@@ -843,7 +843,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "madewell-mini-bag",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71+aAVR4M7L._AC_SL1500_.jpg",
     "priceMin": "$128",
     "priceMax": "$128",
     "category": "fashion",
@@ -869,7 +869,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "composure-vetriscience",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61aONq5bqeL._AC_SL1500_.jpg",
     "priceMin": "$28",
     "priceMax": "$28",
     "category": "pets",
@@ -895,7 +895,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "nootie-hemp-calming",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/928bdc33-df53-4033-bff2-03a09c9067d7.__CR0,0,970,300_PT0_SX970_V1___.jpg",
     "priceMin": "$22",
     "priceMax": "$22",
     "category": "pets",
@@ -921,7 +921,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "pet-naturals-calm-chews",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71C9rm6FSLL._AC_SL1500_.jpg",
     "priceMin": "$20",
     "priceMax": "$20",
     "category": "pets",
@@ -947,7 +947,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "homeopet-anxiety-relief",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71zaFtp27KL._AC_SX679_.jpg",
     "priceMin": "$15",
     "priceMax": "$15",
     "category": "pets",
@@ -973,7 +973,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "virbac-cet-veggiedent",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71cTl5zMZdL._AC_.jpg",
     "priceMin": "$30",
     "priceMax": "$30",
     "category": "pets",
@@ -999,7 +999,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "whimzees-naturals-brushzees",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61bwBdaY2WL._AC_SL1500_.jpg",
     "priceMin": "$20",
     "priceMax": "$20",
     "category": "pets",
@@ -1025,7 +1025,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "arm-hammer-dental-chews",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/7178+1DglbL._AC_SL1500_.jpg",
     "priceMin": "$14",
     "priceMax": "$14",
     "category": "pets",
@@ -1051,7 +1051,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "pet-md-enzymatic-chews",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61MkPPf82qL._AC_SL1000_.jpg",
     "priceMin": "$18",
     "priceMax": "$18",
     "category": "pets",
