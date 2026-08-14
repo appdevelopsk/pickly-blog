@@ -1,0 +1,132 @@
+{
+  "title": "Best Portable Air Conditioner 2026: 5 Compared",
+  "description": "Midea Duo, Whynter ARC-14S, LG LP1419IVSM, Honeywell HL10CESWK and Black+Decker BPACT08WT compared on real cooling capacity, hose configuration, noise and running cost — including why the BTU number on the box is not the number that matters.",
+  "lede": "The single most useful thing to understand before buying a portable air conditioner is that the big number on the box is not the capacity you get. Everything below follows from that.",
+  "methodology": "We did not run our own thermal or load testing. Doing that honestly would need a calibrated psychrometric chamber for the air conditioners and an instrumented load cell rig for the Smith machines, neither of which we have. What we did instead: pulled every published specification from each manufacturer's own product page and manual, cross-checked current pricing against major retailer listings, and read owner reviews at volume — filtering for reports that describe a measurable failure or a repeated complaint rather than a first-week impression. Where a number is a manufacturer claim rather than an independent measurement, we say so in the text.",
+  "sections": [
+    {
+      "heading": "ASHRAE BTU vs SACC — the number that actually matters",
+      "paragraphs": [
+        "Portable units are advertised in ASHRAE BTU, a laboratory figure measured under conditions that ignore the heat the unit itself dumps back into the room. The US Department of Energy requires a second figure, SACC (Seasonally Adjusted Cooling Capacity), which accounts for duct heat gain and infiltration. For single-hose units the SACC figure typically lands somewhere between half and two-thirds of the ASHRAE number.",
+        "This is why an 8,000 BTU portable and an 8,000 BTU window unit are not comparable products. The window unit sits in the opening and exhausts outside the envelope; the portable one sits inside the room, radiates compressor heat into it, and in the single-hose case pulls its condenser air from the room it is trying to cool — which pulls unconditioned outside air in through every gap in the building to replace it.",
+        "Practical rule: when comparing a portable against a window unit, look for the SACC figure and treat that as the real number. When comparing portables against each other, comparing ASHRAE to ASHRAE is fine as long as you also account for hose count."
+      ]
+    },
+    {
+      "heading": "Single-hose vs dual-hose",
+      "paragraphs": [
+        "A single-hose unit draws room air across the condenser and blows it outside. That air has to be replaced, and it is replaced by outside air leaking in. The result is that a single-hose portable puts the room under slight negative pressure and continuously imports the heat it is trying to remove.",
+        "A dual-hose unit draws condenser air from outside through one duct and exhausts it through the other, leaving room pressure roughly neutral. In this group the Midea Duo and the Whynter ARC-14S are dual-hose; the LG, Honeywell and Black+Decker are single-hose.",
+        "The dual-hose advantage grows with the temperature difference. In mild conditions the difference is small enough to ignore. In a genuinely hot room it is the difference between the unit keeping up and the unit running continuously without reaching setpoint."
+      ]
+    },
+    {
+      "heading": "Inverter vs fixed-speed, and what it does to noise",
+      "paragraphs": [
+        "A fixed-speed compressor is either on at full output or off. It reaches setpoint, stops, drifts, and starts again — and each start is the loudest moment of the cycle. An inverter compressor modulates output, so once the room is at setpoint it settles into a low, continuous hum instead of cycling.",
+        "The Midea Duo and the LG LP1419IVSM are inverter units; the Whynter, Honeywell and Black+Decker are fixed-speed. If the unit is going into a bedroom, this distinction matters more than a two-decibel difference in the rated figure, because the rated figure is measured at full output and does not describe the cycling behaviour you will actually hear at 3am."
+      ]
+    },
+    {
+      "heading": "Drainage, venting and the install nobody mentions",
+      "paragraphs": [
+        "Every portable unit condenses water. Most modern units evaporate the majority of it out of the exhaust, but in humid conditions all of them will eventually need the reservoir drained or a hose run to a floor drain. Check whether the model supports continuous gravity drainage before you buy — retrofitting is unpleasant.",
+        "The window kit is the other overlooked item. The included kits fit standard double-hung and sliding windows; casement windows generally need a custom panel. Sealing the kit properly matters more than most buyers expect, because an unsealed kit lets the exhaust heat straight back in and undoes a meaningful fraction of the unit's capacity."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a portable AC worth it over a window unit?",
+      "a": "Only when a window unit is not an option — casement windows, rental restrictions, or a room you need to move the unit between. For the same rated capacity a window unit is quieter, cheaper and substantially more efficient, because it is not sitting inside the room it is cooling."
+    },
+    {
+      "q": "Do I need dual-hose?",
+      "a": "If the room routinely gets genuinely hot, yes. Dual-hose stops the unit from importing outside air to replace what it exhausts. In mild conditions or a small well-sealed room, a single-hose unit is adequate and cheaper."
+    },
+    {
+      "q": "What size do I need?",
+      "a": "Work from the SACC figure, not the ASHRAE figure, and start from roughly 20 BTU per square foot for an average room. Add capacity for a sunny room, a top floor, or a kitchen; subtract for a shaded interior room."
+    },
+    {
+      "q": "Why does the room never reach the set temperature?",
+      "a": "The three usual causes, in order of frequency: an unsealed window kit letting exhaust heat back in, a single-hose unit that is undersized for the heat load once infiltration is counted, and a clogged filter. Check the window seal first — it is free to fix."
+    }
+  ],
+  "products": {
+    "midea-duo-map14hs1tbl": {
+      "badge": "🏆 Best overall",
+      "review": "The Midea Duo is the pick when the room actually gets hot. It combines the two things that matter most — dual-hose ducting and an inverter compressor — so it neither imports outside air nor cycles loudly at setpoint. The heat-pump mode extends its usefulness into shoulder seasons. It is the most expensive unit here, and it is physically large.",
+      "pros": [
+        "Dual hose plus inverter — the two features that matter",
+        "Heat pump mode covers cool-weather use",
+        "Holds setpoint in genuinely hot conditions"
+      ],
+      "cons": [
+        "Most expensive in this group",
+        "Physically large and heavy"
+      ]
+    },
+    "whynter-arc-14s": {
+      "badge": "💰 Best dual-hose value",
+      "review": "The ARC-14S is the cheap route to dual-hose. It has been on the market long enough that the failure modes are well documented in owner reviews, and it does the important thing — it does not depressurise the room. What you give up is inverter modulation, so it cycles on and off audibly rather than settling into a hum.",
+      "pros": [
+        "Dual hose at a lower price",
+        "Long track record, well-documented behaviour",
+        "Simple, serviceable design"
+      ],
+      "cons": [
+        "Fixed-speed compressor cycles audibly",
+        "Dated control interface"
+      ]
+    },
+    "lg-lp1419ivsm": {
+      "badge": "🔇 Quietest single-hose",
+      "review": "The LG is the choice when noise is the deciding factor and dual-hose ducting is not practical. The dual-inverter compressor modulates rather than cycling, which is what you hear at night. Being single-hose, it still imports replacement air, so it is a better bedroom unit than it is a hot-room unit.",
+      "pros": [
+        "Inverter compressor, quiet at setpoint",
+        "Solid app and scheduling",
+        "Good build quality"
+      ],
+      "cons": [
+        "Single hose limits capacity in hot conditions",
+        "Premium price for a single-hose unit"
+      ]
+    },
+    "honeywell-hl10cesw": {
+      "badge": "🛏️ Best for small rooms",
+      "review": "The Honeywell is sized for a bedroom rather than a living room, and that is the right way to read it. The dehumidify-only mode is genuinely useful in humid climates where the room is not hot but is uncomfortable, and the washable filter keeps running costs down. Do not buy it for a large or sun-exposed room.",
+      "pros": [
+        "Right size for a small bedroom",
+        "Useful dehumidify-only mode",
+        "Washable filter"
+      ],
+      "cons": [
+        "Underpowered for large rooms",
+        "Fixed-speed, cycles audibly"
+      ]
+    },
+    "blackdecker-bpact08wt": {
+      "badge": "💵 Cheapest",
+      "review": "The BPACT08WT is the entry point, and it is the unit where the ASHRAE-versus-SACC gap does the most damage to expectations — the real capacity is roughly half the headline figure. Bought for a small, shaded, well-sealed room it is fine. Bought on the strength of the number on the box, it will disappoint.",
+      "pros": [
+        "Lowest price here",
+        "Light and easy to move",
+        "Simple controls"
+      ],
+      "cons": [
+        "Real capacity is far below the ASHRAE figure",
+        "Single hose, fixed speed",
+        "Struggles in anything larger than a small room"
+      ]
+    }
+  },
+  "offerNotes": {
+    "midea-duo-map14hs1tbl": "Sold under both the Duo and MAP14HS1TBL names — check the model code, the non-heat-pump variant looks nearly identical.",
+    "whynter-arc-14s": "The ARC-14S and ARC-14SH differ by the heater function; confirm which one the listing is for.",
+    "lg-lp1419ivsm": "LG lists both ASHRAE and DOE/SACC figures on the spec sheet — compare on the DOE figure.",
+    "honeywell-hl10cesw": "Model codes in this Honeywell line vary by retailer; match the BTU rating rather than the suffix.",
+    "blackdecker-bpact08wt": "Check the SACC rating on the listing before sizing a room to it."
+  },
+  "pinDescription": "The BTU number on a portable AC box is not the capacity you get. Here is what ASHRAE vs SACC means, why dual-hose matters, and five units compared on the figures that decide whether the room actually cools."
+}

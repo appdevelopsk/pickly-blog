@@ -45452,5 +45452,395 @@ export const CATALOG_ADDITIONS = [
   { id: "fossil-camilla-leather-crossbody", imageUrl: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6f04fecf-1131-4164-b078-d425b87a1843.__CR0,0,1464,600_PT0_SX1464_V1___.png", priceMin: "120", priceMax: "120", category: "fashion", badge: "👗", name: { en: "Fossil Camilla Leather Crossbody Bag", ja: "フォッシル カミラ レザー クロスボディバッグ" }, description: { en: "Genuine leather with multiple interior pockets and slip pockets. Adjustable crossbody strap. Top zip closure. Available in 10+ colors.", ja: "本革製・複数のインテリアポケット＆スリップポケット付き。調節可能なクロスボディストラップ。トップジッパー開閉。10色以上展開。" }, links: [{ network: "direct", productId: "https://www.fossil.com/en-us/products/camilla-crossbody-bag", markets: ["global"], approved: false }] },
   { id: "lululemon-pace-breaker-shorts", imageUrl: "https://m.media-amazon.com/images/I/71lYgmZ7C5L._SL1500_.jpg", priceMin: "68", priceMax: "68", category: "fashion", badge: "👗", name: { en: "Lululemon Pace Breaker Lined Short 5 Inch", ja: "ルルレモン ペースブレーカー ライニング ショーツ 5インチ" }, description: { en: "Swift fabric with built-in brief liner. 5\" inseam. Back zip pocket fits phone. Reflective details for low-light visibility. 4-way stretch.", ja: "ビルトインブリーフライナー付きスウィフトファブリック。5インチ股下。スマホ収納可能なバックジップポケット。低照度での視認性を高める反射材。4方向ストレッチ。" }, links: [{ network: "direct", productId: "https://shop.lululemon.com/p/mens-shorts/Pace-Breaker-Lined-Short-5", markets: ["global"], approved: false }] },
   { id: "champion-reverse-weave", imageUrl: "https://m.media-amazon.com/images/I/91suiDipknL._AC_UX569_.jpg", priceMin: "55", priceMax: "55", category: "fashion", badge: "👗", name: { en: "Champion Reverse Weave Crew Sweatshirt", ja: "チャンピオン リバースウィーブ クルースウェットシャツ" }, description: { en: "Horizontal rib construction resists vertical shrinkage. 12 oz fleece. Ribbed cuffs and waistband. Available in 20+ colorways. Heritage American streetwear.", ja: "縦方向の縮みを防ぐ横リブ構造。12オンスフリース。リブカフス＆ウエストバンド。20色以上展開。アメリカのヘリテージストリートウェア。" }, links: [{ network: "direct", productId: "https://www.champion.com/reverse-weave/sweatshirts", markets: ["global"], approved: false }] },
-  { id: "jason-markk-premium-kit", imageUrl: "https://m.media-amazon.com/images/I/81Cv7PRKMKL._AC_SL1500_.jpg", priceMin: "18", priceMax: "18", category: "fashion", badge: "👗", name: { en: "Jason Markk Premium Shoe Cleaning Kit", ja: "ジェイソン・マーク プレミアム シューズクリーニングキット" }, description: { en: "4 oz solution + premium brush. Works on leather, mesh, knit, suede, and canvas. pH-balanced, biodegradable formula. Used by sneaker boutiques globally.", ja: "4オンス溶液＋プレミアムブラシ。レザー・メッシュ・ニット・スエード・キャンバスに対応。pH中性・生分解性フォーミュラ。世界中のスニーカーブティックで使用。" }, links: [{ network: "direct", productId: "https://jasonmarkk.com/products/premium-kit", markets: ["global"], approved: false }] },
+  { id: "jason-markk-premium-kit", imageUrl: "https://m.media-amazon.com/images/I/81Cv7PRKMKL._AC_SL1500_.jpg", priceMin: "18", priceMax: "18", category: "fashion", badge: "👗", name: { en: "Jason Markk Premium Shoe Cleaning Kit", ja: "ジェイソン・マーク プレミアム シューズクリーニングキット" }, description: { en: "4 oz solution + premium brush. Works on leather, mesh, knit, suede, and canvas. pH-balanced, biodegradable formula. Used by sneaker boutiques globally.", ja: "4オンス溶液＋プレミアムブラシ。レザー・メッシュ・ニット・スエード・キャンバスに対応。pH中性・生分解性フォーミュラ。世界中のスニーカーブティックで使用。" }, links: [{ network: "direct", productId: "https://jasonmarkk.com/products/premium-kit", markets: ["global"], approved: false }] },,
+  {
+    "id": "midea-duo-map14hs1tbl",
+    "imageUrl": "",
+    "priceMin": "$500",
+    "priceMax": "$700",
+    "category": "home",
+    "badge": "🏆",
+    "name": {
+      "en": "Midea Duo MAP14HS1TBL",
+      "ja": "Midea Duo MAP14HS1TBL"
+    },
+    "description": {
+      "en": "Dual-hose inverter portable AC, 14,000 BTU ASHRAE. Heat-pump model, so it also runs as a heater. The dual-hose design avoids pulling conditioned air back out of the room.",
+      "ja": "デュアルホース・インバーター式ポータブルエアコン、14,000 BTU（ASHRAE）。ヒートポンプ式で暖房も可能。二重ホースなので室内の冷気を排気に巻き込まない。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Midea+Duo+MAP14HS1TBL",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "whynter-arc-14s",
+    "imageUrl": "",
+    "priceMin": "$400",
+    "priceMax": "$550",
+    "category": "home",
+    "badge": "💰",
+    "name": {
+      "en": "Whynter ARC-14S",
+      "ja": "Whynter ARC-14S"
+    },
+    "description": {
+      "en": "Dual-hose portable AC, 14,000 BTU ASHRAE, no inverter. The long-running budget pick for dual-hose — fixed-speed compressor, so it cycles rather than modulates.",
+      "ja": "デュアルホース式、14,000 BTU（ASHRAE）、インバーターなし。デュアルホースの定番廉価モデル。固定速コンプレッサーなので出力調整ではなくオンオフ制御。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Whynter+ARC-14S",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "lg-lp1419ivsm",
+    "imageUrl": "",
+    "priceMin": "$450",
+    "priceMax": "$650",
+    "category": "home",
+    "badge": "🔇",
+    "name": {
+      "en": "LG LP1419IVSM",
+      "ja": "LG LP1419IVSM"
+    },
+    "description": {
+      "en": "Dual-inverter single-hose portable AC, 14,000 BTU. LG's inverter compressor is the quietest of the group on paper and the reason to pick it over a cheaper fixed-speed unit.",
+      "ja": "デュアルインバーター、シングルホース、14,000 BTU。インバーター制御でカタログ上の運転音がこの中で最も低く、固定速機に対する優位点はここ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=LG+LP1419IVSM+portable+air+conditioner",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "honeywell-hl10cesw",
+    "imageUrl": "",
+    "priceMin": "$300",
+    "priceMax": "$420",
+    "category": "home",
+    "badge": "🛏️",
+    "name": {
+      "en": "Honeywell HL10CESWK",
+      "ja": "Honeywell HL10CESWK"
+    },
+    "description": {
+      "en": "Single-hose portable AC, 10,000 BTU ASHRAE. Small-room unit with a dehumidify-only mode and a washable filter. The realistic pick for a bedroom under 300 sq ft.",
+      "ja": "シングルホース式、10,000 BTU（ASHRAE）。除湿単独モードと洗えるフィルター付き。28㎡以下の寝室向けの現実的な選択肢。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Honeywell+HL10CESWK+portable+air+conditioner",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "blackdecker-bpact08wt",
+    "imageUrl": "",
+    "priceMin": "$250",
+    "priceMax": "$350",
+    "category": "home",
+    "badge": "💵",
+    "name": {
+      "en": "Black+Decker BPACT08WT",
+      "ja": "Black+Decker BPACT08WT"
+    },
+    "description": {
+      "en": "Single-hose portable AC, 8,000 BTU ASHRAE. The cheapest unit here and the one where the ASHRAE-vs-SACC gap matters most — the real-world capacity is roughly half the headline number.",
+      "ja": "シングルホース式、8,000 BTU（ASHRAE）。この中で最安。ASHRAE表記とSACC実効値の差が最も効く機種で、実効能力は表記の約半分と考えるべき。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Black+Decker+BPACT08WT",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "midea-u-maw08v1qwt",
+    "imageUrl": "",
+    "priceMin": "$330",
+    "priceMax": "$450",
+    "category": "home",
+    "badge": "🏆",
+    "name": {
+      "en": "Midea U MAW08V1QWT",
+      "ja": "Midea U MAW08V1QWT"
+    },
+    "description": {
+      "en": "8,000 BTU U-shaped inverter window AC. The U-bracket lets the sash close through the middle of the unit, which is why it measures far quieter than a conventional window box.",
+      "ja": "8,000 BTU、U字型インバーター窓用エアコン。窓枠が本体の中央を通る構造のため、従来の箱型より運転音が大幅に低い。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Midea+U+MAW08V1QWT",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "ge-profile-phnt10cc",
+    "imageUrl": "",
+    "priceMin": "$450",
+    "priceMax": "$650",
+    "category": "home",
+    "badge": "🪟",
+    "name": {
+      "en": "GE Profile ClearView PHNT10CC",
+      "ja": "GE Profile ClearView PHNT10CC"
+    },
+    "description": {
+      "en": "10,000 BTU inverter window AC with a low-profile body that sits below the sight line, so the window view is not blocked. The premium pick of the group.",
+      "ja": "10,000 BTU、インバーター式。本体が視線より下に収まる薄型設計で窓の眺望を塞がない。このグループの上位機。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=GE+Profile+ClearView+PHNT10CC",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "lg-lw8017ersm",
+    "imageUrl": "",
+    "priceMin": "$260",
+    "priceMax": "$370",
+    "category": "home",
+    "badge": "📶",
+    "name": {
+      "en": "LG LW8017ERSM",
+      "ja": "LG LW8017ERSM"
+    },
+    "description": {
+      "en": "8,000 BTU conventional window AC with Wi-Fi. Fixed-speed compressor, so it is louder than the inverter units but noticeably cheaper and simpler to service.",
+      "ja": "8,000 BTU、Wi-Fi対応の従来型。固定速コンプレッサーのためインバーター機より運転音は大きいが、価格が明確に安く構造も単純。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=LG+LW8017ERSM",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "frigidaire-fhww084wd1",
+    "imageUrl": "",
+    "priceMin": "$230",
+    "priceMax": "$330",
+    "category": "home",
+    "badge": "💰",
+    "name": {
+      "en": "Frigidaire FHWW084WD1",
+      "ja": "Frigidaire FHWW084WD1"
+    },
+    "description": {
+      "en": "8,000 BTU window AC with a washable filter and a straightforward install kit. The value pick — no inverter, no app dependency, fewest things to go wrong.",
+      "ja": "8,000 BTU、洗えるフィルターと簡素な取付キット。インバーターもアプリ依存もない分、壊れる箇所が少ないコスパ枠。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Frigidaire+FHWW084WD1",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "windmill-ac-8000",
+    "imageUrl": "",
+    "priceMin": "$350",
+    "priceMax": "$470",
+    "category": "home",
+    "badge": "🎨",
+    "name": {
+      "en": "Windmill AC 8,000 BTU",
+      "ja": "Windmill AC 8,000 BTU"
+    },
+    "description": {
+      "en": "8,000 BTU window AC designed around upward-facing airflow and a tool-free install. Ships with a reusable filter and a design-led enclosure; priced above the commodity units.",
+      "ja": "8,000 BTU、上向き送風と工具不要の取付を前提に設計された窓用機。再利用可能フィルターとデザイン重視の筐体で、汎用機より価格は上。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Windmill+air+conditioner+8000+BTU",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "force-usa-g3",
+    "imageUrl": "",
+    "priceMin": " as unknown as AffiliateOffer[],800",
+    "priceMax": "$2,400",
+    "category": "fitness",
+    "badge": "🏆",
+    "name": {
+      "en": "Force USA G3 All-In-One Trainer",
+      "ja": "Force USA G3 オールインワントレーナー"
+    },
+    "description": {
+      "en": "Power rack, Smith machine, and functional trainer in one frame. The Smith bar runs on linear bearings and the unit accepts a bench inside the rack — the pick if one machine has to cover a whole garage gym.",
+      "ja": "パワーラック・スミスマシン・ファンクショナルトレーナーを1つのフレームに統合。スミスバーはリニアベアリング式で、ラック内にベンチを入れられる。1台でホームジムを完結させたい場合の選択肢。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Force+USA+G3+All-In-One+Trainer",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "body-solid-gs348q",
+    "imageUrl": "",
+    "priceMin": "$2,000",
+    "priceMax": "$2,600",
+    "category": "fitness",
+    "badge": "🏋️",
+    "name": {
+      "en": "Body-Solid Series 7 GS348Q",
+      "ja": "Body-Solid Series 7 GS348Q"
+    },
+    "description": {
+      "en": "Commercial-grade Smith machine on a 2x3 inch 11-gauge steel frame with a counter-balanced bar. Built for a light-commercial duty cycle rather than a spare bedroom.",
+      "ja": "2×3インチ・11ゲージ鋼フレームにカウンターバランス付きバーを組んだ業務グレード機。家庭用というより準商用の使用頻度を前提とした構造。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Body-Solid+Series+7+GS348Q+Smith+Machine",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "titan-fitness-smith",
+    "imageUrl": "",
+    "priceMin": "$700",
+    "priceMax": " as unknown as AffiliateOffer[],100",
+    "category": "fitness",
+    "badge": "⚖️",
+    "name": {
+      "en": "Titan Fitness Smith Machine",
+      "ja": "Titan Fitness スミスマシン"
+    },
+    "description": {
+      "en": "Mid-price Smith machine with a bushing-guided bar and integrated weight-plate storage. The usual step up from the entry tier without going to commercial pricing.",
+      "ja": "ブッシュ式ガイドのバーとプレート収納を備えた中価格帯。入門機からの標準的な一段上で、業務価格帯までは行かない位置づけ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Titan+Fitness+Smith+Machine",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "marcy-md-9010g",
+    "imageUrl": "",
+    "priceMin": "$650",
+    "priceMax": "$950",
+    "category": "fitness",
+    "badge": "📦",
+    "name": {
+      "en": "Marcy MD-9010G Smith Cage",
+      "ja": "Marcy MD-9010G スミスケージ"
+    },
+    "description": {
+      "en": "Smith cage with a pulley station, pull-up bar, and included bench. The most complete package under  as unknown as AffiliateOffer[],000, at the cost of a lighter frame than the commercial units.",
+      "ja": "プーリー・懸垂バー・ベンチが付属するスミスケージ。 as unknown as AffiliateOffer[],000以下では最も装備が揃うが、フレーム剛性は業務機に劣る。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Marcy+MD-9010G+Smith+Cage",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "sunny-sf-bh6810",
+    "imageUrl": "",
+    "priceMin": "$550",
+    "priceMax": "$850",
+    "category": "fitness",
+    "badge": "🔰",
+    "name": {
+      "en": "Sunny Health & Fitness SF-BH6810",
+      "ja": "Sunny Health & Fitness SF-BH6810"
+    },
+    "description": {
+      "en": "Entry-level Smith machine with a fixed bar path and a modest weight ceiling. Suited to lighter loads and small spaces, not to progressive heavy squatting.",
+      "ja": "固定軌道・耐荷重控えめの入門機。軽負荷と省スペース向けで、高重量スクワットの継続的な使用には向かない。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Sunny+Health+Fitness+SF-BH6810+Smith+Machine",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  }
 ] as unknown as AffiliateOffer[];

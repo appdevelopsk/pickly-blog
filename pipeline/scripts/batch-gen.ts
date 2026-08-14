@@ -12,7 +12,20 @@
 import fs from "node:fs";
 import path from "node:path";
 import { execSync } from "node:child_process";
-import { ARTICLES, NEW_OFFERS, type ArticleDef } from "./batch-articles";
+import { ARTICLES as ALL_ARTICLES, NEW_OFFERS, type ArticleDef } from "./batch-articles";
+
+/**
+ * ★既存記事を巻き戻さないための絞り込み。
+ * このスクリプトは meta.ts と17ロケールJSONを**上書き**するので、無指定で走らせると
+ * 生成後に加えた手直し(架空の一次テスト記述の一括修正 2,290件など)が全部消える。
+ * 新バッチを流すときは ONLY_SLUGS でそのバッチのslugだけに限定する。
+ *   ONLY_SLUGS=best-foo-2026,best-bar-2026 npx tsx pipeline/scripts/batch-gen.ts
+ */
+const ONLY = (process.env.ONLY_SLUGS ?? "").split(",").map((s) => s.trim()).filter(Boolean);
+const ARTICLES = ONLY.length ? ALL_ARTICLES.filter((a) => ONLY.includes(a.slug)) : ALL_ARTICLES;
+if (ONLY.length && ARTICLES.length !== ONLY.length) {
+  throw new Error(`ONLY_SLUGS に一致しない slug があります: ${ONLY.filter((s) => !ARTICLES.some((a) => a.slug === s)).join(", ")}`);
+}
 
 const ROOT = path.resolve(__dirname, "../..");
 const ARTICLES_DIR = path.join(ROOT, "site/src/articles");

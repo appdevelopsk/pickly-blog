@@ -13,8 +13,9 @@ import { BATCH8, BATCH8_OFFERS } from "./batch-articles-batch8";
 import { BATCH9, BATCH9_OFFERS } from "./batch-articles-batch9";
 import { BATCH10, BATCH10_OFFERS } from "./batch-articles-batch10";
 import { BATCH11, BATCH11_OFFERS } from "./batch-articles-batch11";
+import { BATCH12_HIGHVALUE, BATCH12_HIGHVALUE_OFFERS } from "./batch-articles-batch12-highvalue";
 
-export const NEW_OFFERS = [...OFFERS, ...BATCH8_OFFERS, ...BATCH9_OFFERS, ...BATCH10_OFFERS, ...BATCH11_OFFERS];
+export const NEW_OFFERS = [...OFFERS, ...BATCH8_OFFERS, ...BATCH9_OFFERS, ...BATCH10_OFFERS, ...BATCH11_OFFERS, ...BATCH12_HIGHVALUE_OFFERS];
 
 export const ARTICLES = [
   ...FASHION,
@@ -30,4 +31,5 @@ export const ARTICLES = [
   ...BATCH9,
   ...BATCH10,
   ...BATCH11,
+  ...BATCH12_HIGHVALUE,
 ];
