@@ -7,7 +7,7 @@ import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
-import { OG_BASE_URL } from "@/lib/og";
+import { OG_BASE_URL, DEFAULT_OG_IMAGES } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
 import { COMPARISONS, COMPARISON_MAP } from "@/lib/pages/compare-config";
@@ -266,7 +266,7 @@ export async function generateMetadata({ params }: Props) {
           : {}),
       },
     },
-    openGraph: { type: "article", title, description, url, siteName: "Pickly" },
+    openGraph: { images: DEFAULT_OG_IMAGES, type: "article", title, description, url, siteName: "Pickly" },
     twitter: { card: "summary_large_image", title, description },
   };
 }

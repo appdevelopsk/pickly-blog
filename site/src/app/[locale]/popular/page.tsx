@@ -6,7 +6,7 @@ import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
-import { OG_BASE_URL } from "@/lib/og";
+import { OG_BASE_URL, DEFAULT_OG_IMAGES } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
 import type { ArticleMeta } from "@/lib/articles/types";
@@ -282,7 +282,7 @@ export async function generateMetadata({ params }: Props) {
       canonical: canonicalUrl,
       languages: localeAlternates("/popular", locale).languages,
     },
-    openGraph: { type: "website", title, description, url: canonicalUrl, siteName: "Pickly" },
+    openGraph: { images: DEFAULT_OG_IMAGES, type: "website", title, description, url: canonicalUrl, siteName: "Pickly" },
     twitter: { card: "summary", title, description },
   };
 }

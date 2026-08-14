@@ -7,7 +7,7 @@ import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
-import { OG_BASE_URL } from "@/lib/og";
+import { OG_BASE_URL, DEFAULT_OG_IMAGES } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
 import { TAGS, TAG_MAP } from "@/lib/pages/tag-config";
@@ -177,6 +177,6 @@ export async function generateMetadata({ params }: Props) {
   return {
     title: serpTitle(title), description,
     alternates: localeAlternates(`/tag/${tag}`, locale),
-    openGraph: { type: "website", title, description, url, siteName: "Pickly" },
+    openGraph: { images: DEFAULT_OG_IMAGES, type: "website", title, description, url, siteName: "Pickly" },
   };
 }

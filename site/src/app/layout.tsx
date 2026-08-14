@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { DEFAULT_OG_IMAGES } from "@/lib/og";
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog"),
@@ -13,6 +14,9 @@ export const metadata: Metadata = {
   openGraph: {
     siteName: "Pickly",
     type: "website",
+    // 非記事ページ(トップ/一覧/カテゴリ等)は og:image が一切無く、SNS共有が
+    // 白紙カードになっていた(2026-08-15)。記事ページは自前の1000x1500ピンで上書きする。
+    images: DEFAULT_OG_IMAGES,
   },
   alternates: {
     types: { "application/rss+xml": `${process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog"}/feed.xml` },

@@ -7,6 +7,7 @@ import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
+import { DEFAULT_OG_IMAGES } from "@/lib/og";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -102,6 +103,6 @@ export async function generateMetadata({ params }: Props) {
   return {
     title: serpTitle(title), description,
     alternates: localeAlternates("/brands", locale),
-    openGraph: { type: "website", title, description, url, siteName: "Pickly" },
+    openGraph: { images: DEFAULT_OG_IMAGES, type: "website", title, description, url, siteName: "Pickly" },
   };
 }

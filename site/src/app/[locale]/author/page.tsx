@@ -5,6 +5,7 @@ import { listArticlesForLocale } from "@/lib/articles/registry";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
+import { DEFAULT_OG_IMAGES } from "@/lib/og";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -176,7 +177,7 @@ export async function generateMetadata({ params }: Props) {
       canonical: canonicalUrl,
       languages: localeAlternates("/author", locale).languages,
     },
-    openGraph: { type: "profile", title, description, url: canonicalUrl, siteName: "Pickly" },
+    openGraph: { images: DEFAULT_OG_IMAGES, type: "profile", title, description, url: canonicalUrl, siteName: "Pickly" },
     twitter: { card: "summary", title, description },
   };
 }
