@@ -108,5 +108,114 @@
     "braun-series-7-71-s7200cc": "La afeitadora de lámina AutoSense de gama media de Braun con el paquete 7200cc que incluye una estación Clean&Charge. Cuatro elementos de afeitado proporcionan una cobertura sólida para barbas de densidad media. AutoSense lee la resistencia de la piel y del vello y ajusta la velocidad del motor. Cuatro elementos versus cinco en el Series 9 Pro+ significa que el ProLift para pelos acostados está ausente; los costes de cartuchos Clean&Charge se añaden al coste total de propiedad."
   },
   "pinDescription": "5 afeitadoras eléctricas comparadas en 2026 — desde la Philips Series 9000 Prestige de gama alta con potencia adaptativa SenseIQ hasta la Series 5000 AquaTouch de presupuesto. Rotativa vs lámina explicado honestamente. Afeitado húmedo con eléctricas. Costes anuales de repuesto de cuchillas calculados para cada modelo.",
-  "methodology": "Evaluamos cada producto según la transparencia de sus ingredientes, su historial dermatológico, la coherencia de los resultados en usuarios reales, la calidad del envase y la relación calidad-precio por uso."
+  "methodology": "Evaluamos cada producto según la transparencia de sus ingredientes, su historial dermatológico, la coherencia de los resultados en usuarios reales, la calidad del envase y la relación calidad-precio por uso.",
+  "products": [
+    {
+      "offerId": "philips-series-9000-prestige",
+      "badge": "Mejor rotativa adaptativa",
+      "review": "La Series 9000 Prestige SP9883 es la respuesta premium de Philips a las barbas que crecen en varias direcciones. SenseIQ mide la densidad de la barba 125 veces por segundo y ajusta la potencia del motor en tiempo real, los tres cabezales rotativos pivotan de forma independiente con un rango de contorno de 360 grados y la certificación AquaTouch para uso en seco y en mojado permite afeitarse con espuma, con gel o bajo la ducha. Al ser de voltaje universal 100-240 V, viaja contigo a cualquier país. La geometría rotativa encaja con quienes tienen un crecimiento en cuello y mandíbula que cambia de dirección, algo contra lo que las láminas pelean. Lo que aceptas a cambio: la rotativa suele apurar menos que la lámina en las zonas planas de las mejillas, el hueco entre el cabezal redondo y el aro retiene restos de espuma que hay que enjuagar enseguida, y los cabezales de recambio SH98 están en la parte alta de la escala de precios.",
+      "pros": [
+        "SenseIQ mide la densidad de la barba 125 veces por segundo y ajusta la potencia en tiempo real",
+        "Tres cabezales rotativos con rango de contorno de 360 grados para crecimiento multidireccional",
+        "Certificada para seco y mojado: espuma, gel y afeitado bajo la ducha",
+        "Voltaje universal 100-240 V para usarla en cualquier país"
+      ],
+      "cons": [
+        "La rotativa apura menos que las láminas en las mejillas planas",
+        "Los cabezales de recambio SH98 son el consumible más caro de esta comparativa"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "braun-series-9-pro-plus",
+      "badge": "Mejor para barbas densas",
+      "review": "La Series 9 Pro+ 9565cc es la afeitadora de láminas más capaz de esta comparativa y la elección correcta para barbas densas o de crecimiento rápido. Cinco elementos de afeitado —tres patrones de lámina, el recortador ProLift para los pelos que crecen tumbados y que otras láminas no cogen, y un elemento recortador— se combinan con el motor AutoSense, que lee la densidad de la barba y ajusta la potencia para evitar los tirones que definen un mal afeitado de lámina. La estación Clean&Charge incluida en el pack 9565cc se encarga sola de la limpieza, la lubricación y la carga con un líquido a base de alcohol que evita la acumulación de residuos. Las contrapartidas honestas: los recambios de cartucho suman al coste total de uso, el cassette de repuesto 90B/92B es la cuchilla más cara de aquí, y las láminas siguen llevándose peor que la rotativa con el pelo del cuello que crece a contrapelo.",
+      "pros": [
+        "Cinco elementos de afeitado, incluido ProLift para el pelo tumbado",
+        "El motor AutoSense ajusta la potencia a la densidad de la barba y evita tirones",
+        "Estación Clean&Charge incluida para limpieza y lubricación automáticas",
+        "El mejor apurado en las zonas planas de las mejillas de esta comparativa"
+      ],
+      "cons": [
+        "Los recambios de cartucho Clean&Charge son un gasto recurrente",
+        "El diseño de lámina resuelve peor que la rotativa el pelo del cuello a contrapelo"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "panasonic-lamdash-es-ls9a",
+      "badge": "Mejor relación calidad-precio",
+      "review": "La Braun Series 9 Pro es la opción por defecto para quien quiere el rendimiento premium de las láminas Braun sin el gasto recurrente de los cartuchos Clean&Charge. El sistema de corte de cuatro elementos incluye el recortador ProLift, que atrapa el pelo tumbado; el cuerpo es totalmente resistente al agua para afeitado en seco o en mojado, y la batería de litio ofrece una autonomía larga por carga. Como normalmente se vende sin la estación Clean&Charge, el coste total de uso queda por debajo del de la Series 9 Pro+ y del pack Series 7. Lo que aceptas a cambio: cuatro elementos de corte en lugar de los cinco de la Series 9 Pro+, ninguna estación de limpieza automática incluida y la debilidad habitual de las láminas en cuellos con pelo a contrapelo.",
+      "pros": [
+        "Sistema de corte de cuatro elementos con recortador ProLift para el pelo tumbado",
+        "Totalmente resistente al agua, para afeitado en seco o en mojado",
+        "Sin gasto recurrente en cartuchos Clean&Charge si se usa sin la estación",
+        "Batería de litio duradera, con mucha autonomía por carga"
+      ],
+      "cons": [
+        "Cuatro elementos de corte frente a los cinco de la Series 9 Pro+",
+        "No incluye estación Clean&Charge para la limpieza automática"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "philips-series-5000-sp5588",
+      "badge": "Mejor rotativa de iniciación",
+      "review": "La Series 5000 SP5588 es la puerta de entrada económica a la tecnología rotativa de Philips y la elección correcta para quien compra su primera afeitadora eléctrica y quiere rotativa en vez de lámina. La certificación AquaTouch para seco y mojado admite espuma, gel y afeitado bajo la ducha, el diseño de secado rápido permite cogerla justo después de lavarla, y el cabezal de recambio SH52/SH53 es el consumible más barato de esta comparativa. La configuración de dos cabezales se adapta peor a los contornos complicados que los tres de la Series 9000, no hay SenseIQ (así que la potencia del motor no se adapta a la densidad de la barba) y tampoco existe opción Clean&Charge. Para quien quiera comprobar si la rotativa le va bien antes de pagar el precio de tope de gama de la Series 9000 Prestige, esta es la primera compra sensata.",
+      "pros": [
+        "Certificación AquaTouch para seco y mojado: espuma, gel y ducha",
+        "Diseño de secado rápido: se puede usar justo después de lavarla",
+        "El recambio de cuchillas más barato de esta comparativa",
+        "La entrada más limpia y económica a la tecnología rotativa de Philips"
+      ],
+      "cons": [
+        "Con dos cabezales rinde menos en contornos complicados que la Series 9000 de tres",
+        "Sin SenseIQ: potencia fija, sin adaptación a la densidad de la barba"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "braun-series-7-71-s7200cc",
+      "badge": "Mejor lámina de gama media",
+      "review": "La Series 7 71-S7200cc es la afeitadora de láminas AutoSense de gama media de Braun y la elección correcta para quien quiere el motor adaptativo y la estación Clean&Charge sin pagar lo que cuesta la Series 9 Pro+. AutoSense lee la resistencia de la piel y de la barba y ajusta la velocidad del motor, que es el salto real respecto a la Series 5 que tiene por debajo, y el pack 7200cc incluye la estación Clean&Charge, que limpia, lubrica y carga automáticamente. Los cuatro elementos de afeitado dan una cobertura sólida para barbas normales o moderadamente densas. Las contrapartidas: solo cuatro elementos frente a los cinco de la Series 9 Pro+, es decir, sin ProLift para el pelo tumbado; los recambios de cartucho Clean&Charge suman un gasto recurrente, y la distancia con la 9565cc en barbas densas se nota si tu pelo es duro.",
+      "pros": [
+        "El motor AutoSense lee la resistencia de la piel y la barba y ajusta la potencia",
+        "Estación Clean&Charge incluida en el pack 7200cc",
+        "Cobertura sólida con cuatro elementos para barbas normales o moderadamente densas",
+        "Un escalón por debajo de la Series 9 Pro+ sin renunciar al motor adaptativo"
+      ],
+      "cons": [
+        "Cuatro elementos frente a cinco: sin recortador ProLift para el pelo tumbado",
+        "Los recambios de cartucho Clean&Charge son un gasto recurrente"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Si tu barba crece en varias direcciones y priorizas comodidad sobre apurado",
+      "offerId": "philips-series-9000-prestige",
+      "reason": "La potencia adaptativa de SenseIQ y los cabezales rotativos que pivotan 360 grados encajan con quienes tienen un crecimiento en cuello y mandíbula que cambia de dirección, algo contra lo que las láminas pelean."
+    },
+    {
+      "label": "Si tienes barba densa y de crecimiento rápido y te afeitas a diario",
+      "offerId": "braun-series-9-pro-plus",
+      "reason": "Cinco elementos de afeitado, incluido ProLift para el pelo tumbado, y la estación Clean&Charge incluida ofrecen la cobertura de lámina más completa y el mantenimiento más cómodo de esta comparativa."
+    },
+    {
+      "label": "Si quieres lámina premium sin gasto recurrente en estación",
+      "offerId": "panasonic-lamdash-es-ls9a",
+      "reason": "Sistema de corte de cuatro elementos con recortador ProLift y resistencia total al agua, vendido sin el ciclo de cartuchos Clean&Charge para el menor coste de uso dentro de la gama premium."
+    },
+    {
+      "label": "Si es tu primera afeitadora eléctrica y tienes presupuesto ajustado",
+      "offerId": "philips-series-5000-sp5588",
+      "reason": "Tecnología rotativa AquaTouch para seco y mojado a precio contenido, con el recambio de cuchillas más barato de esta comparativa: la forma sensata de probar la rotativa antes de dar el salto a la Series 9000."
+    },
+    {
+      "label": "Si buscas gama media con AutoSense y Clean&Charge",
+      "offerId": "braun-series-7-71-s7200cc",
+      "reason": "Motor adaptativo AutoSense y estación Clean&Charge incluida por aproximadamente la mitad del precio de la Series 9 Pro+, para barbas normales o moderadamente densas."
+    }
+  ]
 }

@@ -27,6 +27,12 @@ function flatKeys(obj: unknown, prefix = ""): string[] {
 
 let errors = 0;
 
+/** loader.ts の BODY_KEYS と同じ。欠けると記事が stub 送りになるキー。 */
+const BODY_KEYS = ["sections", "products", "faqs"];
+const missingBodyHits: string[] = [];
+/** 既存 backlog は数千件あるので即エラーにはできない。増えたときだけ落とすラチェット。 */
+const BASELINE_PATH = path.join(ROOT, "scripts/i18n-stub-baseline.json");
+
 function audit(label: string, baseFile: string, otherFile: string) {
   const base = readJson(baseFile);
   const other = readJson(otherFile);
@@ -42,13 +48,20 @@ function audit(label: string, baseFile: string, otherFile: string) {
   const baseKeys = new Set(flatKeys(base));
   const otherKeys = new Set(flatKeys(other));
   // Extra keys (in locale but not in en.json) = stale translations that can't merge cleanly.
-  // Missing keys (in en.json but not locale) = OK — runtime falls back to English.
   const extra = [...otherKeys].filter((k) => !baseKeys.has(k));
   if (extra.length) {
     console.error(`✗ ${label}`);
     console.error(`  extra:   ${extra.join(", ")}`);
     errors++;
   }
+  // ★2026-08-17: ここには "Missing keys = OK — runtime falls back to English" と
+  //   書いてあったが、記事メッセージについてはこの前提が成り立たない。page.tsx は
+  //   そのロケールのファイルしか読まないので en へのフォールバックは存在せず、
+  //   BODY_KEYS(sections/products/faqs) が1つでも欠けると isArticleBodyTranslated() が
+  //   false になり、記事ごと /en/ への meta-refresh stub として出力される。
+  //   欠落キーを実際に見ていながら「問題なし」と判定していたのがこの事故の再発点。
+  const missingBody = BODY_KEYS.filter((k) => baseKeys.has(k) && !otherKeys.has(k));
+  if (missingBody.length) missingBodyHits.push(`${label}: ${missingBody.join(", ")}`);
 }
 
 // 1) common messages
@@ -74,6 +87,26 @@ for (const article of articles) {
     if (locale === DEFAULT_LOCALE) continue;
     audit(`articles/${article.slug}/messages/${locale}.json`, base, path.join(dir, `${locale}.json`));
   }
+}
+
+// 3) BODY_KEYS 欠落 = stub 送りになる記事。増加したときだけ落とす。
+const baseline = (readJson(BASELINE_PATH) ?? {}) as { count?: number };
+const prev = typeof baseline.count === "number" ? baseline.count : Infinity;
+if (process.argv.includes("--update-baseline")) {
+  fs.writeFileSync(BASELINE_PATH, JSON.stringify({ count: missingBodyHits.length }, null, 2) + "\n");
+  console.log(`baseline を ${missingBodyHits.length} で更新しました。`);
+} else if (missingBodyHits.length > prev) {
+  console.error(
+    `\n✗ BODY_KEYS 欠落で stub 落ちする記事が ${prev} → ${missingBodyHits.length} に増えました。` +
+      `\n  en.json にキーを足したなら、他ロケールにも展開してください:` +
+      `\n    npx tsx scripts/fill-translations.ts --locale <loc> --fill-keys` +
+      `\n  そのキーが欠けてもページが成立するなら loader.ts の BODY_KEYS から外してください。`,
+  );
+  for (const h of missingBodyHits.slice(0, 20)) console.error(`  ${h}`);
+  if (missingBodyHits.length > 20) console.error(`  ... 他 ${missingBodyHits.length - 20}件`);
+  errors++;
+} else {
+  console.log(`stub 落ち: ${missingBodyHits.length} 件 (baseline ${prev})`);
 }
 
 if (errors > 0) {

@@ -82,5 +82,114 @@
     "lodge-l10sk3": "El formato de 30cm de Lodge para hogares de 3+ personas. 3.2 kg en vacío — verifica que puedas manejar el peso cómodamente antes de comprometerte. La misma calidad de fundición pre-curada que el L8SK3 en un formato más grande."
   },
   "pinDescription": "Batalla del hierro fundido 2026: Lodge vs Le Creuset vs Staub vs Iwachu nambu ironware japonés. Qué sartén realmente se gana su lugar en tu cocina — y vale la pena el precio premium del recubrimiento de esmalte?",
-  "methodology": "Evaluamos cada producto según la calidad de fabricación y los materiales, su rendimiento en el uso cotidiano en la cocina, la carga de limpieza y mantenimiento, la durabilidad a lo largo de años de uso, y la relación calidad-precio. Las especificaciones del fabricante se contrastaron con reseñas verificadas de compradores."
+  "methodology": "Evaluamos cada producto según la calidad de fabricación y los materiales, su rendimiento en el uso cotidiano en la cocina, la carga de limpieza y mantenimiento, la durabilidad a lo largo de años de uso, y la relación calidad-precio. Las especificaciones del fabricante se contrastaron con reseñas verificadas de compradores.",
+  "products": [
+    {
+      "offerId": "lodge-l8sk3",
+      "badge": "Mejor relación calidad-precio",
+      "review": "La Lodge L8SK3 es la sartén de hierro fundido por la que debería empezar casi todo el mundo. Viene curada de fábrica, así que puedes cocinar con ella el mismo día que llega; los 26 cm de superficie útil dan para dos entrecots o una torre de tortitas, y a este precio la barrera de entrada es lo bastante baja como para averiguar si el hierro fundido encaja con tu forma de cocinar antes de gastarte dinero de verdad. El acabado de fundición se nota bastante áspero al principio si lo comparas con una Iwachu pulida, pero después de unos 50 usos se alisa y llega a comportarse casi como una antiadherente. Con unos 2,1 kg, la mayoría de adultos la maneja con una sola mano. Apta para inducción y horno en todo el rango doméstico.",
+      "pros": [
+        "Curada de fábrica: lista para cocinar nada más sacarla de la caja",
+        "Precio realmente bajo para una sartén que dura toda la vida",
+        "2,1 kg: peso asumible para usarla a diario con una mano",
+        "Funciona en inducción, gas, vitrocerámica y horno"
+      ],
+      "cons": [
+        "El acabado de fundición es áspero hasta que se rueda",
+        "El hierro desnudo se mancha con alimentos ácidos"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "le-creuset-skillet-26cm",
+      "badge": "Mejor esmaltada",
+      "review": "La sartén esmaltada Le Creuset de 26 cm es la que hay que comprar si cocinas a menudo salsas de tomate, guisos al vino o cualquier cosa ácida y no quieres saber nada del curado. La superficie esmaltada no pide más mantenimiento que un fregado, admite alimentos ácidos sin dejar sabor metálico y tiene una presencia lo bastante buena como para llevarla directa a la mesa. El calor se reparte de forma uniforme y el formato sartén, sin tapa, pesa bastante menos que las cocottes de la marca. Si se te cae sobre un suelo de baldosa, el esmalte salta: ese es el único inconveniente real. Aguanta el valor de reventa como pocas, lo que suaviza el precio inicial.",
+      "pros": [
+        "No hay que curarla nunca",
+        "Tolera tomate, vino y cítricos sin alterar el sabor ni dañar la superficie",
+        "Calor uniforme en toda la superficie de cocinado",
+        "Garantía de por vida y alto valor de reventa"
+      ],
+      "cons": [
+        "El esmalte salta de forma irreversible si cae sobre una superficie dura",
+        "El precio más alto de esta comparativa"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "staub-frying-pan-26cm",
+      "badge": "Mejor para sellar",
+      "review": "La sartén Staub de 26 cm es el hierro fundido esmaltado que eliges cuando buscas un dorado más oscuro y agresivo. El esmalte interior negro mate es más rugoso y más oscuro que la superficie clara de Le Creuset: absorbe más calor en la zona de contacto con el alimento y empuja las proteínas hacia una costra más intensa. Ese mismo esmalte va cogiendo una pátina sutil con los años, igual que el hierro desnudo, pero sin nada de mantenimiento de curado. En las cocinas profesionales francesas se echa mano de Staub más que de Le Creuset para el trabajo a fuego, y este es el motivo. El precio queda justo por encima de Le Creuset, y la diferencia al cocinar existe, aunque es pequeña en el día a día de una cocina doméstica.",
+      "pros": [
+        "El interior negro mate sella con más fuerza que un esmalte claro",
+        "Sin curado y apta para alimentos ácidos",
+        "Desarrolla una pátina sutil con el uso",
+        "Muy utilizada en cocinas profesionales"
+      ],
+      "cons": [
+        "Algo más cara que la Le Creuset",
+        "Mismo riesgo de desconchado que cualquier sartén esmaltada"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "iwachu-iron-skillet",
+      "badge": "Mejor ligera",
+      "review": "La sartén de 26 cm de Iwachu, en hierro nambu, está fundida con menos grosor que las americanas y se queda en unos 1,4 kg, entre 700 y 900 gramos menos que una Lodge equivalente. Sobre el papel no suena espectacular, pero se nota de inmediato en cuanto levantas la sartén con una mano para emplatar. La tradición artesanal de Morioka es real y no un adorno de marketing, el acabado de fundición sale más liso que el de Lodge, y el hierro pasa al alimento en cantidades medibles, algo que interesa a quien vigila su ingesta de hierro. Sigue oxidándose como cualquier sartén de hierro desnudo, así que exige la misma rutina de secar y engrasar después de lavarla.",
+      "pros": [
+        "Bastante más ligera que el hierro fundido americano del mismo diámetro",
+        "Acabado de fundición más liso que el de Lodge",
+        "Auténtica tradición del hierro nambu de Morioka",
+        "Aporta hierro al alimento en cantidades medibles"
+      ],
+      "cons": [
+        "Exige los mismos cuidados antióxido que cualquier hierro fundido desnudo",
+        "El sobreprecio cuesta de justificar solo por el rendimiento al cocinar"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "lodge-l10sk3",
+      "badge": "Mejor para familias",
+      "review": "La Lodge L10SK3 es la versión de 30 cm de la L8SK3, pensada para casas de tres personas o más. La superficie extra da para un pollo abierto en mariposa, una tortilla de seis huevos o cinco o seis chuletas de cerdo de una tacada, que es la capacidad que necesitas en cuanto dejas de cocinar para uno o dos. Misma fundición curada de fábrica que la Lodge pequeña, misma compatibilidad con horno e inducción, mismo acabado. La pega es el peso: 3,2 kg vacía convierten el trabajo a una mano en un ejercicio de gimnasio, y llena de comida hay que levantarla con las dos. Mejor decirlo claro: si ese peso va a hacer que la sartén viva en el armario, usarás mucho más la L8SK3.",
+      "pros": [
+        "Cabe un pollo entero o una tanda grande en una sola sartén",
+        "Misma fabricación contrastada y mismo precio ajustado que la L8SK3",
+        "Funciona en inducción, gas, vitrocerámica y horno",
+        "El curado de fábrica permite cocinar desde el primer día"
+      ],
+      "cons": [
+        "3,2 kg vacía pesan de verdad en el uso diario",
+        "Demasiado grande para cocinar para una sola persona"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Quien empieza con el hierro fundido",
+      "offerId": "lodge-l8sk3",
+      "reason": "Curada de fábrica, lo bastante barata para arriesgarse y, con 2,1 kg, la opción americana más llevadera para el día a día."
+    },
+    {
+      "label": "Quien cocina mucho ácido",
+      "offerId": "le-creuset-skillet-26cm",
+      "reason": "El esmalte aguanta tomate, vino y cítricos sin dejar sabor metálico ni llevarse por delante el curado."
+    },
+    {
+      "label": "Quien va en serio con el sellado",
+      "offerId": "staub-frying-pan-26cm",
+      "reason": "El esmalte negro mate consigue una costra más profunda en entrecots y chuletas que cualquier otra sartén de la lista, y sin curado."
+    },
+    {
+      "label": "Quien tiene problemas de muñeca o con el peso",
+      "offerId": "iwachu-iron-skillet",
+      "reason": "La fundición nambu, más fina, la convierte en la opción de 26 cm más ligera, así que acaba usándose en vez de quedarse en el armario."
+    },
+    {
+      "label": "La casa de tres o más",
+      "offerId": "lodge-l10sk3",
+      "reason": "Los 30 cm de superficie dan para un pollo entero o una tanda familiar de una vez, sin renunciar a la relación calidad-precio de Lodge."
+    }
+  ]
 }

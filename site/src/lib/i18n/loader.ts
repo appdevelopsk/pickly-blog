@@ -129,8 +129,20 @@ function readArticleMessages(slug: string, locale: string): Messages | null {
 /** sitemap は article×locale で1万回以上呼ぶのでメモ化する。 */
 const translatedCache = new Map<string, boolean>();
 
-/** 記事本文を構成するキー。ロケール側に無ければ描画時に en へフォールバックする。 */
-const BODY_KEYS = ["sections", "products", "faqs", "recommendedFor"] as const;
+/** 記事本文そのものを構成するキー。欠けると「中身の無いページ」になるので stub 送りにする。
+ *
+ *  ★ここに入れてよいのは「欠けるとページが成立しないキー」だけ。
+ *  page.tsx は msg(=そのロケールのファイル)しか読まないので en へのフォールバックは無く、
+ *  products が欠ければ商品カードが0枚、sections が欠ければ本文が空になる = stub が正しい。
+ *
+ *  ★2026-08-17: 逆に `recommendedFor` をここに入れていたのが事故だった。
+ *  これは en に後から追加された任意の推奨ブロックで、ArticleBody.tsx が
+ *  `content.recommendedFor && length > 0` で条件描画している = 欠けても英語は漏れず
+ *  ブロックが1つ省略されるだけ。にもかかわらず「本文キー」扱いしていたため、
+ *  本文が完訳済みの記事まで /en/ へ meta-refresh するだけの stub に落ちていた
+ *  (de/it/es/fr の実流入 212 engaged のうち 72 = 34% が stub 着地。該当250ファイル)。
+ *  → 新しいキーを en に足すときは、ここに足す前に「欠けたらページが壊れるか」を見る。 */
+const BODY_KEYS = ["sections", "products", "faqs"] as const;
 
 /**
  * Returns true if the article body is actually translated for the given locale.

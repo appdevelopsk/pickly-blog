@@ -78,6 +78,10 @@ const LIMIT = Number(flag("limit") ?? Infinity);
 const CONCURRENCY = Number(flag("concurrency") ?? 3);
 const ENGINE = (flag("engine") ?? "cli") as "cli" | "api";
 const DRY = args.includes("--dry-run");
+// 既存ファイルの欠落キーだけを埋めるモード(既定の「ファイルごと欠落」とは対象が排他)
+const FILL_KEYS = args.includes("--fill-keys");
+// 特定 slug だけを対象にする(実流入のある記事から先に潰すため)
+const ONLY = flag("slugs")?.split(",").filter(Boolean);
 
 if (ENGINE !== "cli" && ENGINE !== "api") {
   console.error("--engine は cli か api");
@@ -247,11 +251,40 @@ async function callCli(prompt: string): Promise<CallResult> {
   return { text: (fenced ? fenced[1] : envelope.result).trim() };
 }
 
+/** en にあってロケール側に無いトップレベルキー。
+ *
+ *  ★2026-08-17: 既存ファイルの「部分欠落」がこのスクリプトの盲点だった。
+ *  en に後から追加された `recommendedFor` が他ロケールへ展開されず、
+ *  isArticleBodyTranslated() の BODY_KEYS 判定に落ちて、本文が翻訳済みの記事まで
+ *  /en/ へ meta-refresh するだけの stub として出力されていた
+ *  (de/it/es/fr の実流入 212 engaged のうち 72 = 34% が stub 着地)。
+ *  従来の main() は `!existsSync(<locale>.json)` しか見ないので永久に拾えない。 */
+function missingKeys(en: Json, cur: Json): string[] {
+  if (en === null || typeof en !== "object" || Array.isArray(en)) return [];
+  if (cur === null || typeof cur !== "object" || Array.isArray(cur)) return [];
+  const c = cur as Record<string, Json>;
+  return Object.entries(en as Record<string, Json>)
+    .filter(([k, v]) => v !== null && c[k] === undefined)
+    .map(([k]) => k);
+}
+
 async function translateOne(slug: string): Promise<"ok" | "skip" | "fail"> {
   const dir = `${ARTICLES}/${slug}`;
   const enPath = `${dir}/messages/en.json`;
   const outPath = `${dir}/messages/${LOCALE}.json`;
-  const en = JSON.parse(readFileSync(enPath, "utf8")) as Json;
+  const enFull = JSON.parse(readFileSync(enPath, "utf8")) as Json;
+
+  // fill-keys モードでは欠けているキーだけを翻訳対象にする。全文を再翻訳すると
+  // 既存の訳が別物に差し替わってしまい、差分レビューが不可能になる。
+  const existing =
+    FILL_KEYS && existsSync(outPath)
+      ? (JSON.parse(readFileSync(outPath, "utf8")) as Record<string, Json>)
+      : undefined;
+  const gaps = existing ? missingKeys(enFull, existing) : [];
+  if (existing && !gaps.length) return "skip";
+  const en: Json = existing
+    ? Object.fromEntries(gaps.map((k) => [k, (enFull as Record<string, Json>)[k]]))
+    : enFull;
 
   // cli エンジンには system 相当のルールを本文に畳み込む(--append-system-prompt は
   // Claude Code 既定プロンプトへの「追記」で、JSONだけ返す挙動を保証しないため)。
@@ -294,9 +327,20 @@ ${JSON.stringify(en, null, 2)}`;
       continue;
     }
 
-    writeFileSync(outPath, JSON.stringify(out, null, 2) + "\n");
-    addLocaleToMeta(dir);
-    console.log(`  ✓ ${slug}`);
+    // 既存ファイルへは「欠けていたキーを足すだけ」。キー順は en.json に揃える
+    // (既存の訳は values をそのまま持ち越すので、差分は追加分だけになる)。
+    const merged: Json = existing
+      ? (Object.fromEntries(
+          Object.keys(enFull as Record<string, Json>)
+            .filter((k) => existing[k] !== undefined || (out as Record<string, Json>)[k] !== undefined)
+            .map((k) => [k, existing[k] ?? (out as Record<string, Json>)[k]]),
+        ) as Json)
+      : out;
+
+    writeFileSync(outPath, JSON.stringify(merged, null, 2) + "\n");
+    // 既存ファイルへの追記なら、そのロケールは既に配信対象。meta.ts は触らない。
+    if (!existing) addLocaleToMeta(dir);
+    console.log(`  ✓ ${slug}${existing ? ` (+${gaps.join(", ")})` : ""}`);
     return "ok";
   }
   console.warn(`  ✗ ${slug}: 3回とも失敗`);
@@ -312,6 +356,9 @@ ${JSON.stringify(en, null, 2)}`;
 function addLocaleToMeta(dir: string) {
   const metaPath = `${dir}/meta.ts`;
   const src = readFileSync(metaPath, "utf8");
+  // `locales: ALL_LOCALES` の裸の定数参照。既に全ロケールを含むので触らなくてよい
+  // (`[...ALL_LOCALES]` のスプレッド形と同じ扱い)。以前はここで例外を投げていた。
+  if (/locales:\s*[A-Z_]+\s*,/.test(src)) return;
   const m = src.match(/locales:\s*\[([^\]]*)\]/);
   if (!m) throw new Error(`${metaPath}: locales 配列が見つからない`);
 
@@ -334,15 +381,24 @@ async function main() {
   const deindexed = deindexedSlugs();
   const all = readdirSync(ARTICLES).filter((d) => statSync(`${ARTICLES}/${d}`).isDirectory());
   const keep = all.filter((s) => !deindexed.has(s));
-  const missing = keep.filter(
-    (s) =>
-      existsSync(`${ARTICLES}/${s}/messages/en.json`) &&
-      !existsSync(`${ARTICLES}/${s}/messages/${LOCALE}.json`),
+  const hasEn = (s: string) => existsSync(`${ARTICLES}/${s}/messages/en.json`);
+  const locPath = (s: string) => `${ARTICLES}/${s}/messages/${LOCALE}.json`;
+  const missing = keep.filter((s) =>
+    hasEn(s) &&
+    (FILL_KEYS
+      ? existsSync(locPath(s)) &&
+        missingKeys(
+          JSON.parse(readFileSync(`${ARTICLES}/${s}/messages/en.json`, "utf8")) as Json,
+          JSON.parse(readFileSync(locPath(s), "utf8")) as Json,
+        ).length > 0
+      : !existsSync(locPath(s))),
   );
-  const targets = missing.slice(0, LIMIT);
+  const filtered = ONLY ? missing.filter((s) => ONLY.includes(s)) : missing;
+  const targets = filtered.slice(0, LIMIT);
 
   console.log(
-    `[engine=${ENGINE}] 記事 ${all.length} / keep ${keep.length} / ${LOCALE} 欠落 ${missing.length} → 今回 ${targets.length}件`,
+    `[engine=${ENGINE}${FILL_KEYS ? " fill-keys" : ""}] 記事 ${all.length} / keep ${keep.length} / ` +
+      `${LOCALE} 対象 ${missing.length}${ONLY ? ` (slug指定で ${filtered.length})` : ""} → 今回 ${targets.length}件`,
   );
   if (DRY) {
     targets.forEach((s) => console.log(`  [dry-run] ${s}`));
