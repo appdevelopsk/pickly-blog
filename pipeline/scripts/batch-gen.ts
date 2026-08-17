@@ -144,7 +144,14 @@ function appendOffers() {
   // ★末尾要素に既にカンマが付いている場合があるので、閉じ括弧の直前のカンマを一度吸収してから足す。
   //   吸収しないと `},` + `,` で穴(sparse array)が開き、CATALOG に undefined が混ざって
   //   catalog.ts の `OVERRIDES[offer.id]` が実行時に落ちる。
-  src = src.replace(/,?\s*\n\](\s+as[^;]+)?;\s*$/, `,\n${insertion}\n]$1;\n`);
+  // ★置換文字列に insertion を直接埋めてはいけない。価格は "$180" のような形なので
+  //   String.replace の置換文字列中では `$1` が**キャプチャ参照**として解釈され、
+  //   " as unknown as AffiliateOffer[]80" のような壊れた値が書き込まれる(2026-08-17に発覚)。
+  //   関数形式なら置換文字列の特殊記号解釈が起きない。
+  src = src.replace(
+    /,?\s*\n\](\s+as[^;]+)?;\s*$/,
+    (_m, tail: string | undefined) => `,\n${insertion}\n]${tail ?? ""};\n`,
+  );
   fs.writeFileSync(CATALOG_ADDITIONS, src);
   console.log(`→ added ${toAdd.length} new offers to catalog-additions.ts`);
 }

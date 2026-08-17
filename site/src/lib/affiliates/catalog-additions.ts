@@ -2350,7 +2350,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cooling-pillow-purple-cloud",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9802423f-75eb-4829-9dc3-9da3f3a2f22e.__CR0,1,2928,1200_PT0_SX1464_V1___.jpg",
     "priceMin": "129",
     "priceMax": "159",
     "category": "home",
@@ -10569,7 +10569,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "smart-hub-google-nest-hub-max",
-    "imageUrl": "",
+    "imageUrl": "https://www.adt.com/content/dam/adt7/pages/phoenix/ssu-pdp/google-nest-hub-max/M2_PDP_GoogleNestHubMAX_Carousel_Image_2_DSKTP.png",
     "priceMin": "27800",
     "priceMax": "35000",
     "category": "tech",
@@ -14237,8 +14237,8 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "schwab-intelligent-portfolios",
     "imageUrl": "https://greenbusinessonly.com/wp-content/uploads/2024/10/Schwab-Intelligent-Portfolios.jpg",
-    "priceMin": "$0",
-    "priceMax": "$0",
+    "priceMin": "$0 fee",
+    "priceMax": "$0 fee",
     "category": "finance",
     "badge": "🤖",
     "name": {
@@ -14246,8 +14246,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Schwab Intelligent Portfolios"
     },
     "description": {
-      "en": "Zero management fee (uses Schwab ETFs that have expense ratios). $5K minimum. Best if you want no advisory fee.",
-      "ja": "運用報酬0%（経費率のあるSchwab ETF使用）。最低$5K。アドバイザリー手数料を払いたくない人向け。"
+      "en": "$0 advisory fee, $5K minimum, robo-advisor with goal planning. Best free robo.",
+      "ja": "アドバイザリーフィー$0、最低$5K、目標プラン付きロボアド。無料ロボ最有力。"
     },
     "links": [
       {
@@ -14341,8 +14341,8 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "monarch-money",
     "imageUrl": "https://cdn.sanity.io/images/mdewiujj/production/31c6772cce5987f6959d9222c72326cf55f9ba27-3840x2160.jpg?auto=format&fit=max&q=90&w=3840",
-    "priceMin": "$15/mo",
-    "priceMax": "$99/yr",
+    "priceMin": "$99/yr",
+    "priceMax": "$179/yr",
     "category": "finance",
     "badge": "💰",
     "name": {
@@ -14350,8 +14350,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Monarch Money"
     },
     "description": {
-      "en": "$15/mo or $99/yr. Flexible budgeting + investment tracking, household sharing, custom categories. Best Mint replacement in 2026.",
-      "ja": "月$15または年$99。柔軟な予算＋投資追跡、家族共有、カスタムカテゴリ。2026年Mintの後継として最有力。"
+      "en": "$14.99/mo or $99.99/yr, all-in-one finance dashboard, no ads, household sharing. Best Mint replacement.",
+      "ja": "$14.99/月または$99.99/年、オールインワン財務ダッシュボード、広告なし、家庭共有。Mint代替で最有力。"
     },
     "links": [
       {
@@ -18449,17 +18449,17 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "4moms-mamaroo-multi-motion",
     "imageUrl": "https://m.media-amazon.com/images/I/71G3Z8Ja05L._AC_SL1500_.jpg",
-    "priceMin": "$249",
-    "priceMax": "$299",
+    "priceMin": "$220",
+    "priceMax": "$260",
     "category": "parenting",
     "badge": "👶",
     "name": {
-      "en": "4moms mamaRoo Multi-Motion Swing",
-      "ja": "4moms mamaRoo マルチモーション スウィング"
+      "en": "4moms mamaRoo Multi-Motion Baby Swing",
+      "ja": "4moms mamaRoo マルチモーション ベビースイング"
     },
     "description": {
-      "en": "5 motion types (car ride, kangaroo, wave, rock-a-bye, tree swing), 5 speed levels, Bluetooth sound. The premium baby motion device.",
-      "ja": "5モーション（カーライド、カンガルー、ウェーブ、ロッカバイ、ツリースウィング）、5速度、Bluetoothサウンド。プレミアム揺動機。"
+      "en": "5 unique motions (car ride, kangaroo, tree swing, rock-a-bye, wave). Bluetooth-controlled, 4 built-in sounds, USB.",
+      "ja": "5種類の動き（カーライド、カンガルー、ツリースイング、子守唄、ウェーブ）。Bluetooth操作、4種音、USB。"
     },
     "links": [
       {
@@ -19411,7 +19411,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "catit-flower-fountain",
     "imageUrl": "https://m.media-amazon.com/images/I/61BhM8Zl27L._AC_SL1500_.jpg",
-    "priceMin": "$35",
+    "priceMin": "$30",
     "priceMax": "$45",
     "category": "pets",
     "badge": "🐈",
@@ -19420,8 +19420,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Catit フラワー ファウンテン"
     },
     "description": {
-      "en": "Flower-shaped surface attracts cats, triple-filtration, 100 oz capacity. The popular plastic option.",
-      "ja": "花型表面が猫を惹きつける、3段ろ過、100oz容量。人気のプラスチックオプション。"
+      "en": "Flower-shaped, 3 flow modes (bubbling, calm, multi-stream), 100 oz capacity. Triple-action filter, LED indicator low water.",
+      "ja": "花型、3種流れ（泡、穏やか、複数流）、3L容量。トリプルアクションフィルター、低水位LEDインジケーター。"
     },
     "links": [
       {
@@ -19463,17 +19463,17 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "pioneer-pet-raindrop-fountain",
     "imageUrl": "https://image.chewy.com/catalog/general/images/pioneer-pet-stainless-steel-dog-cat-fountain-raindrop-design-60oz/img-302275._AC_SL1200_QL100_V1_.jpg",
-    "priceMin": "$50",
+    "priceMin": "$45",
     "priceMax": "$65",
     "category": "pets",
     "badge": "🐈",
     "name": {
-      "en": "Pioneer Pet Raindrop Stainless Steel Fountain",
+      "en": "Pioneer Pet Raindrop Stainless Fountain",
       "ja": "Pioneer Pet レインドロップ ステンレス ファウンテン"
     },
     "description": {
-      "en": "Raindrop-shape stainless steel, 60 oz, simple dish-style design (no cascade). Easy to clean.",
-      "ja": "雨滴型ステンレス、60oz、シンプルなディッシュスタイル（カスケード無し）。掃除が簡単。"
+      "en": "Stainless steel (most hygienic), 60 oz, ultra-quiet pump (40dB). Replaceable charcoal filter, dishwasher-safe.",
+      "ja": "ステンレス（最も衛生的）、1.8L、超静音ポンプ(40dB)。交換式カーボンフィルター、食洗機OK。"
     },
     "links": [
       {
@@ -20060,7 +20060,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "rimowa-essential-cabin",
-    "imageUrl": "",
+    "imageUrl": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8373300d/images/large/84253631_4.png",
     "priceMin": "$925",
     "priceMax": "$1,125",
     "category": "fashion",
@@ -25529,7 +25529,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "reformation-juliette-dress",
     "imageUrl": "https://pc-ap.renttherunway.com/productimages/front/1080x/74/REF100.jpg",
-    "priceMin": "$198",
+    "priceMin": "$218",
     "priceMax": "$248",
     "category": "fashion",
     "badge": "👗",
@@ -25538,8 +25538,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Reformation ジュリエット ドレス"
     },
     "description": {
-      "en": "Linen-rayon blend, slip-style, eco-friendly production. The Instagram summer dress standard.",
-      "ja": "リネン×レーヨン混紡、スリップスタイル、エコフレンドリー生産。Instagram夏ドレス基準。"
+      "en": "Mid-length silhouette, viscose-from-Tencel, V-neckline, knee-grazing hem. Eco-credit per purchase, runs true-to-size.",
+      "ja": "ミディ丈シルエット、テンセル由来ビスコース、Vネック、膝下ヘム。購入毎にエコクレジット、サイズ通り。"
     },
     "links": [
       {
@@ -26517,17 +26517,17 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "lifelock-ultimate-plus",
     "imageUrl": "https://m.media-amazon.com/images/I/41hhsGovFxL._SS520_.jpg",
-    "priceMin": "$19.99/mo",
-    "priceMax": "$34.99/mo",
+    "priceMin": "$30/mo",
+    "priceMax": "$30/mo",
     "category": "finance",
     "badge": "🛡️",
     "name": {
-      "en": "LifeLock Ultimate Plus",
-      "ja": "LifeLock Ultimate Plus"
+      "en": "LifeLock Ultimate Plus (Norton)",
+      "ja": "LifeLock Ultimate Plus (Norton)"
     },
     "description": {
-      "en": "Norton-owned, $1M insurance, dark web, $19.99/month first year. Most widely advertised.",
-      "ja": "Norton所有、$1M保険、ダークウェブ、初年度月$19.99。最広告ブランド。"
+      "en": "$30/mo, $3M reimbursement, includes Norton 360 with VPN. 3-bureau credit monitoring, social media monitoring.",
+      "ja": "月$30、$3M補償、Norton 360＋VPN込み。3信用機関監視、SNS監視。"
     },
     "links": [
       {
@@ -35548,7 +35548,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "Delta Dental 個人"
     },
     "description": {
-      "en": "Largest US dental network, 80% coinsurance preventive + basic,$1,000-2,000 annual max. Best mainstream.",
+      "en": "Largest US dental network, 80% coinsurance preventive + basic, $1,000-2,000 annual max. Best mainstream.",
       "ja": "米国最大歯科ネットワーク、予防＋基本80%、年間上限$1,000-2,000。主流最有力。"
     },
     "links": [
@@ -35652,7 +35652,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "DenteMax 歯科割引プラン"
     },
     "description": {
-      "en": "Not insurance — pay discounted rates directly at dentist. No max, no waiting periods,$15-25/mo.",
+      "en": "Not insurance — pay discounted rates directly at dentist. No max, no waiting periods, $15-25/mo.",
       "ja": "保険ではない — 歯科で割引価格を直接支払。上限なし、待機期間なし、月$15-25。"
     },
     "links": [
@@ -35704,7 +35704,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "Bitwarden Premium"
     },
     "description": {
-      "en": "Open-source, free tier covers basics,$10/year for premium with TOTP and emergency access.",
+      "en": "Open-source, free tier covers basics, $10/year for premium with TOTP and emergency access.",
       "ja": "オープンソース、無料層で基本カバー、年$10でTOTP＋緊急アクセス付きプレミアム。"
     },
     "links": [
@@ -36198,8 +36198,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "HubSpot Sales Hub Professional"
     },
     "description": {
-      "en": "Free CRM tier scales to paid Sales Hub. Best UX for small teams, marketing-CRM integration native.$100/user/mo Pro.",
-      "ja": "無料CRM層からSales Hub有料へスケール。中小チーム向け最良UX、マーケCRM統合ネイティブ。Pro$100/ユーザー/月。"
+      "en": "Free CRM tier scales to paid Sales Hub. Best UX for small teams, marketing-CRM integration native. $100/user/mo Pro.",
+      "ja": "無料CRM層からSales Hub有料へスケール。中小チーム向け最良UX、マーケCRM統合ネイティブ。Pro $100/ユーザー/月。"
     },
     "links": [
       {
@@ -36276,8 +36276,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Zoho CRM Enterprise"
     },
     "description": {
-      "en": "Best for SMB on a budget, broad feature set ($40/user/mo Enterprise vs Salesforce$165), integrates with Zoho One suite.",
-      "ja": "予算重視SMB向け最有力、広い機能セット（Enterprise $40/ユーザー/月 対Salesforce$165）、Zoho Oneスイート連携。"
+      "en": "Best for SMB on a budget, broad feature set ($40/user/mo Enterprise vs Salesforce $165), integrates with Zoho One suite.",
+      "ja": "予算重視SMB向け最有力、広い機能セット（Enterprise $40/ユーザー/月 対Salesforce $165）、Zoho Oneスイート連携。"
     },
     "links": [
       {
@@ -36302,7 +36302,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "Monday Sales CRM"
     },
     "description": {
-      "en": "Visual workflow-style CRM, best for teams already using Monday for project management.$12-24/user/mo.",
+      "en": "Visual workflow-style CRM, best for teams already using Monday for project management. $12-24/user/mo.",
       "ja": "ビジュアルワークフロー型CRM、既にMondayをプロジェクト管理に使うチーム向け最有力。$12-24/ユーザー/月。"
     },
     "links": [
@@ -36328,7 +36328,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "Gusto Plus 給与"
     },
     "description": {
-      "en": "Best UX for small businesses, includes HR features, $60/mo +$12/employee. Auto-files all federal/state taxes.",
+      "en": "Best UX for small businesses, includes HR features, $60/mo + $12/employee. Auto-files all federal/state taxes.",
       "ja": "中小企業向け最良UX、HR機能込み、月$60＋従業員あたり$12。連邦／州税自動申告。"
     },
     "links": [
@@ -36484,8 +36484,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Monday Work Management Pro"
     },
     "description": {
-      "en": "Visual board-style, infinite customization,$19/user/mo Pro. Most flexible across departments.",
-      "ja": "ビジュアルボードスタイル、無限カスタマイズ、Pro$19/ユーザー/月。部門横断で最柔軟。"
+      "en": "Visual board-style, infinite customization, $19/user/mo Pro. Most flexible across departments.",
+      "ja": "ビジュアルボードスタイル、無限カスタマイズ、Pro $19/ユーザー/月。部門横断で最柔軟。"
     },
     "links": [
       {
@@ -36510,8 +36510,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "ClickUp Business"
     },
     "description": {
-      "en": "All-in-one (PM + docs + chat + CRM + automations),$12/user/mo Business. Steeper learning curve but most features.",
-      "ja": "オールインワン（PM＋ドキュメント＋チャット＋CRM＋オートメーション）、Business$12/ユーザー/月。学習曲線急だが最多機能。"
+      "en": "All-in-one (PM + docs + chat + CRM + automations), $12/user/mo Business. Steeper learning curve but most features.",
+      "ja": "オールインワン（PM＋ドキュメント＋チャット＋CRM＋オートメーション）、Business $12/ユーザー/月。学習曲線急だが最多機能。"
     },
     "links": [
       {
@@ -36562,8 +36562,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Trello Premium"
     },
     "description": {
-      "en": "Simplest Kanban-style, owned by Atlassian,$10/user/mo Premium. Best for small teams that want lightweight tracking.",
-      "ja": "最シンプルカンバンスタイル、Atlassian所有、Premium$10/ユーザー/月。軽量追跡を求める中小チーム最有力。"
+      "en": "Simplest Kanban-style, owned by Atlassian, $10/user/mo Premium. Best for small teams that want lightweight tracking.",
+      "ja": "最シンプルカンバンスタイル、Atlassian所有、Premium $10/ユーザー/月。軽量追跡を求める中小チーム最有力。"
     },
     "links": [
       {
@@ -36588,7 +36588,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "Mailchimp Standard"
     },
     "description": {
-      "en": "Mainstream email + marketing automation, best UX,$13/mo starting. Free up to 500 contacts.",
+      "en": "Mainstream email + marketing automation, best UX, $13/mo starting. Free up to 500 contacts.",
       "ja": "主流メール＋マーケオートメーション、最良UX、月$13から。500コンタクトまで無料。"
     },
     "links": [
@@ -36718,7 +36718,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "VSP 個人ビジョンプラン"
     },
     "description": {
-      "en": "Largest US vision network, frames + lenses + exam covered.$13-30/mo individual. Best mainstream pick.",
+      "en": "Largest US vision network, frames + lenses + exam covered. $13-30/mo individual. Best mainstream pick.",
       "ja": "米国最大ビジョンネットワーク、フレーム＋レンズ＋検査補償。個人月$13-30。主流最有力。"
     },
     "links": [
@@ -36770,7 +36770,7 @@ export const CATALOG_ADDITIONS = [
       "ja": "Humana Vision Care"
     },
     "description": {
-      "en": "Bundled with Humana medical or standalone,$15-25/mo. Smaller network than VSP/EyeMed but solid coverage.",
+      "en": "Bundled with Humana medical or standalone, $15-25/mo. Smaller network than VSP/EyeMed but solid coverage.",
       "ja": "Humana医療とのバンドルまたは単体、月$15-25。VSP／EyeMedよりネットワーク小さいがソリッド補償。"
     },
     "links": [
@@ -36996,7 +36996,7 @@ export const CATALOG_ADDITIONS = [
     "id": "rippling-platform",
     "imageUrl": "https://rippling.imgix.net/images/Workforce-Platform_AUS.png?fm=png&s=752cd2fd59f0c9177d91aca8ce93ff5f",
     "priceMin": "$8",
-    "priceMax": " as unknown as AffiliateOffer[]00",
+    "priceMax": "$100",
     "category": "tech",
     "badge": "🏢",
     "name": {
@@ -37022,7 +37022,7 @@ export const CATALOG_ADDITIONS = [
     "id": "gusto-hr-plus",
     "imageUrl": "https://s3.amazonaws.com/static.gusto/social/og-gusto.jpg",
     "priceMin": "$40",
-    "priceMax": " as unknown as AffiliateOffer[]80",
+    "priceMax": "$180",
     "category": "tech",
     "badge": "💼",
     "name": {
@@ -37030,8 +37030,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Gusto Plus（HR込み）"
     },
     "description": {
-      "en": "Payroll-first with growing HR features (PTO, onboarding, doc storage). $80/mo +  as unknown as AffiliateOffer[]2/employee Plus tier.",
-      "ja": "給与ファースト＋HR機能成長中（PTO、オンボーディング、ドキュメント保管）。Plus月$80＋ as unknown as AffiliateOffer[]2/従業員。"
+      "en": "Payroll-first with growing HR features (PTO, onboarding, doc storage). $80/mo + $12/employee Plus tier.",
+      "ja": "給与ファースト＋HR機能成長中（PTO、オンボーディング、ドキュメント保管）。Plus月$80＋$12/従業員。"
     },
     "links": [
       {
@@ -37056,8 +37056,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Workday HCM"
     },
     "description": {
-      "en": "Enterprise HCM (Human Capital Management), for 500+ employees. Quote-based pricing  as unknown as AffiliateOffer[]00-300/employee/yr.",
-      "ja": "エンタープライズHCM（人的資本管理）、500人+従業員向け。見積ベース価格年 as unknown as AffiliateOffer[]00-300/従業員。"
+      "en": "Enterprise HCM (Human Capital Management), for 500+ employees. Quote-based pricing $100-300/employee/yr.",
+      "ja": "エンタープライズHCM（人的資本管理）、500人+従業員向け。見積ベース価格年$100-300/従業員。"
     },
     "links": [
       {
@@ -37099,7 +37099,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "zoom-business-pro",
     "imageUrl": "https://krisp.ai/blog/wp-content/uploads/2024/09/1.png",
-    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMin": "$15",
     "priceMax": "$25",
     "category": "tech",
     "badge": "🏆",
@@ -37177,7 +37177,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "webex-meet-pro",
     "imageUrl": "https://www.dekom.com/manufacturers/cisco/3%20%E2%80%93%C2%A0products/Cisco%20Webex/Cisco%20Webex%20Room%20Kit%20Pro/Galerie/8029/image-thumb__8029__product-cover-image/Cisco_Webex_Room_kit_Pro_in_a_conference_room.jpg",
-    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMin": "$15",
     "priceMax": "$30",
     "category": "tech",
     "badge": "🛡️",
@@ -37186,8 +37186,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Webex Meet（Cisco）"
     },
     "description": {
-      "en": "Enterprise-focused with strongest security (FedRAMP authorized), 1,000-participant meetings.  as unknown as AffiliateOffer[]5/host/mo.",
-      "ja": "最強セキュリティ（FedRAMP認証）でエンタープライズフォーカス、1,000参加者ミーティング。 as unknown as AffiliateOffer[]5/ホスト/月。"
+      "en": "Enterprise-focused with strongest security (FedRAMP authorized), 1,000-participant meetings. $15/host/mo.",
+      "ja": "最強セキュリティ（FedRAMP認証）でエンタープライズフォーカス、1,000参加者ミーティング。$15/ホスト/月。"
     },
     "links": [
       {
@@ -37204,7 +37204,7 @@ export const CATALOG_ADDITIONS = [
     "id": "loom-business",
     "imageUrl": "https://premiumvns.com/wp-content/uploads/2023/08/tinh-nang-loom-ai.jpg",
     "priceMin": "$8",
-    "priceMax": " as unknown as AffiliateOffer[]5",
+    "priceMax": "$15",
     "category": "tech",
     "badge": "🎬",
     "name": {
@@ -37212,8 +37212,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Loom Business（非同期動画）"
     },
     "description": {
-      "en": "Async-video for messaging, recording, screen-shares.  as unknown as AffiliateOffer[]2.50/user/mo Business. Best alternative to live meetings.",
-      "ja": "メッセージング、録画、画面共有用の非同期動画。Business  as unknown as AffiliateOffer[]2.50/ユーザー/月。ライブミーティングの最有力代替。"
+      "en": "Async-video for messaging, recording, screen-shares. $12.50/user/mo Business. Best alternative to live meetings.",
+      "ja": "メッセージング、録画、画面共有用の非同期動画。Business $12.50/ユーザー/月。ライブミーティングの最有力代替。"
     },
     "links": [
       {
@@ -37359,7 +37359,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "mutual-of-omaha-medicare-supplement",
     "imageUrl": "https://healthplans2go.com/wp-content/uploads/2021/08/Mutual-of-Omaha-Medigap-Plans-1.png",
-    "priceMin": " as unknown as AffiliateOffer[]30",
+    "priceMin": "$130",
     "priceMax": "$300",
     "category": "finance",
     "badge": "🏆",
@@ -37368,8 +37368,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Mutual of Omaha Medicare補完"
     },
     "description": {
-      "en": "Plan G is the most popular — covers all gaps except Part B deductible ($240).  as unknown as AffiliateOffer[]50-200/mo at age 65.",
-      "ja": "プランGが最人気 — Part B免責（$240）以外の全ギャップカバー。65歳で月 as unknown as AffiliateOffer[]50-200。"
+      "en": "Plan G is the most popular — covers all gaps except Part B deductible ($240). $150-200/mo at age 65.",
+      "ja": "プランGが最人気 — Part B免責（$240）以外の全ギャップカバー。65歳で月$150-200。"
     },
     "links": [
       {
@@ -37385,7 +37385,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "aetna-medicare-supplement",
     "imageUrl": "https://medicarenationwide.com/wp-content/uploads/2022/09/Aetna-Medicare-Supplement-Plans-scaled.jpg",
-    "priceMin": " as unknown as AffiliateOffer[]30",
+    "priceMin": "$130",
     "priceMax": "$280",
     "category": "finance",
     "badge": "💚",
@@ -37394,8 +37394,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Aetna Medicare補完（CVS Health）"
     },
     "description": {
-      "en": "Owned by CVS Health, strong nationwide network, Plan G  as unknown as AffiliateOffer[]40-190/mo. Includes wellness extras (SilverSneakers).",
-      "ja": "CVS Health所有、強力全国ネットワーク、プランG月 as unknown as AffiliateOffer[]40-190。ウェルネスエクストラ（SilverSneakers）込み。"
+      "en": "Owned by CVS Health, strong nationwide network, Plan G $140-190/mo. Includes wellness extras (SilverSneakers).",
+      "ja": "CVS Health所有、強力全国ネットワーク、プランG月$140-190。ウェルネスエクストラ（SilverSneakers）込み。"
     },
     "links": [
       {
@@ -37411,7 +37411,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "humana-medicare-supplement",
     "imageUrl": "https://mymedicaresupplementplan.org/wp-content/uploads/2018/07/humana-medicare-supplemetnal-insurance.png",
-    "priceMin": " as unknown as AffiliateOffer[]30",
+    "priceMin": "$130",
     "priceMax": "$300",
     "category": "finance",
     "badge": "🪪",
@@ -37420,8 +37420,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Humana Medicare補完"
     },
     "description": {
-      "en": "Solid mid-tier carrier, Plan G  as unknown as AffiliateOffer[]45-200/mo, strong Medicare Advantage cross-sell. Available in most states.",
-      "ja": "ソリッド中位層キャリア、プランG月 as unknown as AffiliateOffer[]45-200、強力なMedicare Advantageクロスセル。多くの州で利用可。"
+      "en": "Solid mid-tier carrier, Plan G $145-200/mo, strong Medicare Advantage cross-sell. Available in most states.",
+      "ja": "ソリッド中位層キャリア、プランG月$145-200、強力なMedicare Advantageクロスセル。多くの州で利用可。"
     },
     "links": [
       {
@@ -37437,7 +37437,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "blue-cross-blue-shield-medicare-supplement",
     "imageUrl": "https://medicarenationwide.com/wp-content/uploads/2022/09/Blue-Cross-Blue-Shield-Medicare-Supplement-Company-Plans-1536x807.jpg",
-    "priceMin": " as unknown as AffiliateOffer[]40",
+    "priceMin": "$140",
     "priceMax": "$320",
     "category": "finance",
     "badge": "🌐",
@@ -37446,8 +37446,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Blue Cross Blue Shield Medicare補完"
     },
     "description": {
-      "en": "Largest network in most states, Plan G  as unknown as AffiliateOffer[]60-220/mo. State-specific BCBS plans vary in pricing and benefits.",
-      "ja": "多くの州で最大ネットワーク、プランG月 as unknown as AffiliateOffer[]60-220。州別BCBSプランは価格と給付で異なる。"
+      "en": "Largest network in most states, Plan G $160-220/mo. State-specific BCBS plans vary in pricing and benefits.",
+      "ja": "多くの州で最大ネットワーク、プランG月$160-220。州別BCBSプランは価格と給付で異なる。"
     },
     "links": [
       {
@@ -37463,7 +37463,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "united-healthcare-aarp-medicare-supplement",
     "imageUrl": "https://www.nerdwallet.com/cdn-cgi/image/quality=85/cdn/ve/partners/aarp+uh.png",
-    "priceMin": " as unknown as AffiliateOffer[]35",
+    "priceMin": "$135",
     "priceMax": "$290",
     "category": "finance",
     "badge": "👑",
@@ -37472,8 +37472,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "UnitedHealthcare AARP Medicare補完"
     },
     "description": {
-      "en": "AARP-endorsed, largest single Medicare Supplement insurer in US, Plan G  as unknown as AffiliateOffer[]50-210/mo. Strong brand recognition.",
-      "ja": "AARP承認、米国最大の単一Medicare補完保険会社、プランG月 as unknown as AffiliateOffer[]50-210。強力ブランド認知。"
+      "en": "AARP-endorsed, largest single Medicare Supplement insurer in US, Plan G $150-210/mo. Strong brand recognition.",
+      "ja": "AARP承認、米国最大の単一Medicare補完保険会社、プランG月$150-210。強力ブランド認知。"
     },
     "links": [
       {
@@ -37541,7 +37541,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "doosl-bluetooth-receiver",
     "imageUrl": "https://smartiq.ru/storage/photo/resized/axy_700x700/d/dkvyrsxjczczg0u_8f8bcf5c.jpg",
-    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMin": "$15",
     "priceMax": "$25",
     "category": "tech",
     "badge": "🎧",
@@ -37550,8 +37550,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Doosl Bluetooth 5.0 レシーバー"
     },
     "description": {
-      "en": "Aux-input style (3.5mm), best for cars with aux but no Bluetooth. Tiny form factor, hands-free calling.  as unknown as AffiliateOffer[]5-25.",
-      "ja": "Aux入力タイプ（3.5mm）、Aux端子ありBluetoothなしの車向け最有力。小型、ハンズフリー通話。 as unknown as AffiliateOffer[]5-25。"
+      "en": "Aux-input style (3.5mm), best for cars with aux but no Bluetooth. Tiny form factor, hands-free calling. $15-25.",
+      "ja": "Aux入力タイプ（3.5mm）、Aux端子ありBluetoothなしの車向け最有力。小型、ハンズフリー通話。$15-25。"
     },
     "links": [
       {
@@ -37568,7 +37568,7 @@ export const CATALOG_ADDITIONS = [
     "id": "carlinkit-3-cplay2air-android-auto",
     "imageUrl": "http://www.carlinkit.store/cdn/shop/files/YprKCMUVLrRXGeTong.jpg?crop=center&height=1200&v=1761026753&width=1200",
     "priceMin": "$60",
-    "priceMax": " as unknown as AffiliateOffer[]20",
+    "priceMax": "$120",
     "category": "tech",
     "badge": "📱",
     "name": {
@@ -37627,7 +37627,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "roundup-weed-grass-killer",
     "imageUrl": "https://m.media-amazon.com/images/I/61fybp+Uw+L._AC_SX522_.jpg",
-    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMin": "$15",
     "priceMax": "$45",
     "category": "home",
     "badge": "🏆",
@@ -37653,7 +37653,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "spectracide-weed-stop-lawns",
     "imageUrl": "https://m.media-amazon.com/images/I/71pAul4RqwL._AC_SL1500_.jpg",
-    "priceMin": " as unknown as AffiliateOffer[]0",
+    "priceMin": "$10",
     "priceMax": "$30",
     "category": "home",
     "badge": "🌱",
@@ -37662,8 +37662,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Spectracide 芝生用雑草ストップ"
     },
     "description": {
-      "en": "Selective broadleaf killer for lawns, doesn't kill grass. Kills dandelions, clover, plantain.  as unknown as AffiliateOffer[]0-25/qt.",
-      "ja": "選択的広葉枯らし、芝は枯らさない。タンポポ、クローバー、オオバコを枯らす。 as unknown as AffiliateOffer[]0-25/クォート。"
+      "en": "Selective broadleaf killer for lawns, doesn't kill grass. Kills dandelions, clover, plantain. $10-25/qt.",
+      "ja": "選択的広葉枯らし、芝は枯らさない。タンポポ、クローバー、オオバコを枯らす。$10-25/クォート。"
     },
     "links": [
       {
@@ -37705,7 +37705,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "ortho-weed-b-gon-chickweed",
     "imageUrl": "https://vanputte.com/wp-content/uploads/2021/11/Weed-Killer-ORTHO-WEED-B-GON-CHICKWEED-CLOVER-OXALIS-KILLER-CONCENTRATE-16OZ-1000x1000-1.png",
-    "priceMin": " as unknown as AffiliateOffer[]5",
+    "priceMin": "$15",
     "priceMax": "$30",
     "category": "home",
     "badge": "🎯",
@@ -37714,8 +37714,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Ortho Weed B Gon クローバー／カタバミ"
     },
     "description": {
-      "en": "Targets tough broadleaf weeds (clover, oxalis, chickweed) lawn-safe. Ready-to-spray  as unknown as AffiliateOffer[]5-25/qt.",
-      "ja": "頑固な広葉雑草（クローバー、カタバミ、ハコベ）標的、芝に安全。すぐスプレー可 as unknown as AffiliateOffer[]5-25/クォート。"
+      "en": "Targets tough broadleaf weeds (clover, oxalis, chickweed) lawn-safe. Ready-to-spray $15-25/qt.",
+      "ja": "頑固な広葉雑草（クローバー、カタバミ、ハコベ）標的、芝に安全。すぐスプレー可$15-25/クォート。"
     },
     "links": [
       {
@@ -40521,7 +40521,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "mango-straight-jeans",
-    "imageUrl": "",
+    "imageUrl": "https://s1.r29static.com/bin/shop/ba2/x,80/2170681/image.jpg",
     "category": "fashion",
     "badge": "Best European Cut Value",
     "name": { "en": "Mango Straight Leg Jeans", "ja": "マンゴー ストレートレッグジーンズ" },
@@ -45716,7 +45716,7 @@ export const CATALOG_ADDITIONS = [
   {
     "id": "force-usa-g3",
     "imageUrl": "https://fitnesssupply.com/cdn/shop/files/F-G3-V2-02_c7eedc63-4a70-4f74-bb3a-d481a62cf2fb_1024x.jpg?v=1765903903",
-    "priceMin": " as unknown as AffiliateOffer[],800",
+    "priceMin": "$1,800",
     "priceMax": "$2,400",
     "category": "fitness",
     "badge": "🏆",
@@ -45769,7 +45769,7 @@ export const CATALOG_ADDITIONS = [
     "id": "titan-fitness-smith",
     "imageUrl": "https://m.media-amazon.com/images/I/51GEc8cqRHL._AC_SL1000_.jpg",
     "priceMin": "$700",
-    "priceMax": " as unknown as AffiliateOffer[],100",
+    "priceMax": "$1,100",
     "category": "fitness",
     "badge": "⚖️",
     "name": {
@@ -45803,8 +45803,8 @@ export const CATALOG_ADDITIONS = [
       "ja": "Marcy MD-9010G スミスケージ"
     },
     "description": {
-      "en": "Smith cage with a pulley station, pull-up bar, and included bench. The most complete package under  as unknown as AffiliateOffer[],000, at the cost of a lighter frame than the commercial units.",
-      "ja": "プーリー・懸垂バー・ベンチが付属するスミスケージ。 as unknown as AffiliateOffer[],000以下では最も装備が揃うが、フレーム剛性は業務機に劣る。"
+      "en": "Smith cage with a pulley station, pull-up bar, and included bench. The most complete package under $1,000, at the cost of a lighter frame than the commercial units.",
+      "ja": "プーリー・懸垂バー・ベンチが付属するスミスケージ。$1,000以下では最も装備が揃うが、フレーム剛性は業務機に劣る。"
     },
     "links": [
       {
@@ -45836,6 +45836,656 @@ export const CATALOG_ADDITIONS = [
       {
         "network": "direct",
         "productId": "https://www.amazon.com/s?k=Sunny+Health+Fitness+SF-BH6810+Smith+Machine",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "aivituvin-outdoor-cat-house-catio",
+    "imageUrl": "https://m.media-amazon.com/images/I/81+cpZNR-1L._AC_SL1500_.jpg",
+    "priceMin": "$260",
+    "priceMax": "$420",
+    "category": "pets",
+    "badge": "🏆",
+    "name": {
+      "en": "Aivituvin Outdoor Cat House Catio",
+      "ja": "Aivituvin 屋外キャットハウス キャティオ"
+    },
+    "description": {
+      "en": "Fir-frame walk-in catio with an enclosed sleeping box, multiple platform levels and an asphalt-felt roof. Comes as a flat-pack kit; the run and the shelter are one structure rather than separate pieces.",
+      "ja": "モミ材フレームのウォークイン型キャティオ。囲いのある寝箱、複数段のステップ、アスファルトフェルト屋根付き。フラットパックのキットで、走り回るスペースとシェルターが分かれておらず一体構造。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Aivituvin+Outdoor+Cat+House+Catio",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "petsfit-outdoor-cat-enclosure",
+    "imageUrl": "https://m.media-amazon.com/images/I/81pVV78ez5L._AC_SX679_.jpg",
+    "priceMin": "$180",
+    "priceMax": "$300",
+    "category": "pets",
+    "badge": "🏡",
+    "name": {
+      "en": "Petsfit Outdoor Cat Enclosure",
+      "ja": "Petsfit 屋外キャットエンクロージャー"
+    },
+    "description": {
+      "en": "Two-storey wooden cat enclosure with a ramp between levels and a hinged roof panel for access. Smaller footprint than a walk-in catio, aimed at a balcony or a patio corner.",
+      "ja": "2階建ての木製キャットエンクロージャー。階層間はスロープ、屋根は開閉式で手が入る。ウォークイン型より設置面積が小さく、ベランダやテラスの一角向け。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Petsfit+Outdoor+Cat+Enclosure",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "pawhut-wooden-catio",
+    "imageUrl": "https://m.media-amazon.com/images/I/91FGPgtUnCL._AC_.jpg",
+    "priceMin": "$150",
+    "priceMax": "$280",
+    "category": "pets",
+    "badge": "💰",
+    "name": {
+      "en": "PawHut Wooden Catio",
+      "ja": "PawHut 木製キャティオ"
+    },
+    "description": {
+      "en": "Wire-and-fir catio in a tall, narrow format with several shelves stacked vertically. The vertical layout gives more usable cat space per square foot of ground than a low run.",
+      "ja": "金網とモミ材による縦長のキャティオ。棚が垂直方向に複数段。低い走り回り型より、設置面積あたりの猫が使える空間が広い。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=PawHut+Wooden+Catio",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "kitty-city-outdoor-cat-run",
+    "imageUrl": "https://m.media-amazon.com/images/I/A1HHW46JvXL.jpg",
+    "priceMin": "$70",
+    "priceMax": "$140",
+    "category": "pets",
+    "badge": "🎒",
+    "name": {
+      "en": "Kitty City Outdoor Cat Run",
+      "ja": "Kitty City 屋外キャットラン"
+    },
+    "description": {
+      "en": "Soft-sided modular tunnel-and-cube system that clips together. Not a permanent structure — it packs down, which makes it the option for renters and for travel rather than for year-round outdoor housing.",
+      "ja": "布製のトンネルとキューブを連結するモジュール式。恒久的な構造物ではなく畳めるので、賃貸住まいや旅行向け。通年の屋外飼育用ではない。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Kitty+City+Outdoor+Cat+Run",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "trixie-natura-cat-home-with-terrace",
+    "imageUrl": "https://m.media-amazon.com/images/I/91L80scrztL._AC_.jpg",
+    "priceMin": "$200",
+    "priceMax": "$350",
+    "category": "pets",
+    "badge": "❄️",
+    "name": {
+      "en": "Trixie Natura Cat Home with Terrace",
+      "ja": "Trixie Natura キャットホーム テラス付き"
+    },
+    "description": {
+      "en": "Insulated pine cat house with a covered terrace and a raised floor. Built as weather shelter first and enclosure second — the run area is small, so it suits a cat that already has a fenced garden.",
+      "ja": "断熱材入りの松材キャットハウス。屋根付きテラスと高床構造。囲いというより第一に雨風のシェルターで、走り回る面積は狭い。既に囲いのある庭がある場合向け。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Trixie+Natura+Cat+Home+with+Terrace",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "dimplex-revillusion-rbf30",
+    "imageUrl": "https://m.media-amazon.com/images/I/61qmLFDBRrL._AC_SL1000_.jpg",
+    "priceMin": "$900",
+    "priceMax": "$1,400",
+    "category": "home",
+    "badge": "🏆",
+    "name": {
+      "en": "Dimplex Revillusion RBF30",
+      "ja": "Dimplex Revillusion RBF30"
+    },
+    "description": {
+      "en": "Built-in electric firebox using Dimplex's mirror-free flame system, so the flame reads as three-dimensional from an angle rather than only head-on. Includes a resin log set and a fan-forced heater.",
+      "ja": "ミラーを使わない炎表現方式を採用したビルトイン型電気暖炉。正面からだけでなく斜めから見ても炎が立体的に見える。樹脂製の薪セットとファン式ヒーターを内蔵。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Dimplex+Revillusion+RBF30",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "touchstone-sideline-50",
+    "imageUrl": "https://m.media-amazon.com/images/I/5141j+dfY+L._AC_SX679_.jpg",
+    "priceMin": "$600",
+    "priceMax": "$900",
+    "category": "home",
+    "badge": "🖼️",
+    "name": {
+      "en": "Touchstone Sideline 50",
+      "ja": "Touchstone Sideline 50"
+    },
+    "description": {
+      "en": "Recessed or wall-mounted linear electric fireplace, 50 inches, with a crystal and log media option and multiple flame colours. Hardwire or plug-in; the heater can be run independently of the flame.",
+      "ja": "埋め込みまたは壁掛けのリニア型電気暖炉、50インチ。クリスタル/薪の演出を選択でき炎色も複数。直結・コンセントどちらも可で、ヒーターは炎表示と独立して運転できる。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Touchstone+Sideline+50+electric+fireplace",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "duraflame-dfi-5010",
+    "imageUrl": "https://m.media-amazon.com/images/I/610AN05+a+L._AC_SL1000_.jpg",
+    "priceMin": "$180",
+    "priceMax": "$300",
+    "category": "home",
+    "badge": "🔥",
+    "name": {
+      "en": "Duraflame DFI-5010 Infrared Quartz Stove",
+      "ja": "Duraflame DFI-5010 赤外線クオーツストーブ"
+    },
+    "description": {
+      "en": "Freestanding stove-style heater with an infrared quartz element rather than a conventional fan coil. Portable, needs no installation, and the metal body itself gets warm — worth knowing if there are small children.",
+      "ja": "据え置き型のストーブ調ヒーター。一般的なファンコイルではなく赤外線クオーツ式。設置工事不要で移動可能。金属外装自体が温まるので、小さな子どもがいる場合は要注意。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Duraflame+DFI-5010+infrared+quartz+stove",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "puraflame-western-insert",
+    "imageUrl": "https://m.media-amazon.com/images/I/51Fi51TuNpL._AC_SL1001_.jpg",
+    "priceMin": "$300",
+    "priceMax": "$500",
+    "category": "home",
+    "badge": "💰",
+    "name": {
+      "en": "PuraFlame Western Electric Fireplace Insert",
+      "ja": "PuraFlame Western 電気暖炉インサート"
+    },
+    "description": {
+      "en": "Insert designed to drop into an existing masonry fireplace opening, with a glass front and a log set. The cheapest honest route to converting a dead chimney into a working heat source.",
+      "ja": "既存の暖炉の開口部に落とし込むインサート型。ガラス前面と薪セット付き。使われていない煙突を暖房として使えるようにする、最も安価で現実的な方法。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=PuraFlame+Western+Electric+Fireplace+Insert",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "rwflame-50-inch-electric-fireplace",
+    "imageUrl": "https://m.media-amazon.com/images/I/617MkRe2uvL._AC_SL1500_.jpg",
+    "priceMin": "$250",
+    "priceMax": "$400",
+    "category": "home",
+    "badge": "💵",
+    "name": {
+      "en": "R.W.FLAME 50 inch Electric Fireplace",
+      "ja": "R.W.FLAME 50インチ 電気暖炉"
+    },
+    "description": {
+      "en": "Budget 50-inch recessed linear unit with adjustable flame colour and brightness and a remote. Same format as the premium linears at roughly half the price; the compromise is in trim finish and flame realism.",
+      "ja": "50インチの廉価なリニア埋め込み型。炎の色と明るさを調整可能でリモコン付き。高価格帯のリニア型と同じ形式で価格は約半分、妥協点は枠の仕上げと炎のリアリティ。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=R.W.FLAME+50+inch+electric+fireplace",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hessaire-mc37m",
+    "imageUrl": "https://m.media-amazon.com/images/I/61TXadUjbyL._AC_SX679_.jpg",
+    "priceMin": "$250",
+    "priceMax": "$400",
+    "category": "home",
+    "badge": "🏆",
+    "name": {
+      "en": "Hessaire MC37M",
+      "ja": "Hessaire MC37M"
+    },
+    "description": {
+      "en": "Portable evaporative cooler with a 10.3-gallon tank and a rated 3,100 CFM, on castors with a garden-hose fill connection. Sized for a garage, workshop or covered patio rather than a sealed room.",
+      "ja": "タンク容量約39L、公称風量3,100CFMの可搬式気化式冷風機。キャスター付きで散水ホース直結の給水口あり。密閉した室内ではなくガレージ・作業場・屋根付きテラス向け。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Hessaire+MC37M+evaporative+cooler",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "hessaire-mc61m",
+    "imageUrl": "https://m.media-amazon.com/images/I/713nYS6b+kL._AC_SL1000_.jpg",
+    "priceMin": "$400",
+    "priceMax": "$600",
+    "category": "home",
+    "badge": "🏭",
+    "name": {
+      "en": "Hessaire MC61M",
+      "ja": "Hessaire MC61M"
+    },
+    "description": {
+      "en": "The larger Hessaire, rated 5,300 CFM with a 20.6-gallon tank. Same design language as the MC37M, aimed at open shop floors and outdoor events where the air is being exchanged continuously.",
+      "ja": "Hessaire の大型機。公称5,300CFM、タンク約78L。MC37M と同じ設計思想で、空気が常に入れ替わる広い作業場や屋外イベント向け。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Hessaire+MC61M+evaporative+cooler",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "honeywell-co60pm",
+    "imageUrl": "https://m.media-amazon.com/images/I/81OgJiw-8qL._AC_SL1500_.jpg",
+    "priceMin": "$280",
+    "priceMax": "$420",
+    "category": "home",
+    "badge": "🏠",
+    "name": {
+      "en": "Honeywell CO60PM",
+      "ja": "Honeywell CO60PM"
+    },
+    "description": {
+      "en": "Indoor-oriented evaporative cooler with a 15.8-gallon tank, oscillating louvres and a remote. Quieter and better finished than the shop-grade units, and correspondingly less powerful.",
+      "ja": "室内向けの気化式冷風機。タンク約60L、ルーバー首振り、リモコン付き。作業場向けの機種より静かで仕上げも良い代わりに、能力は低い。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Honeywell+CO60PM+evaporative+cooler",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "newair-af-1000w",
+    "imageUrl": "https://m.media-amazon.com/images/I/71YJNIym4EL.jpg",
+    "priceMin": "$150",
+    "priceMax": "$250",
+    "category": "home",
+    "badge": "💵",
+    "name": {
+      "en": "NewAir AF-1000W",
+      "ja": "NewAir AF-1000W"
+    },
+    "description": {
+      "en": "Compact tower-format evaporative cooler for a single room, with a small tank and an ice compartment. The smallest realistic unit here and the one most likely to disappoint if bought for a hot garage.",
+      "ja": "1部屋向けのコンパクトなタワー型。タンクは小さく、氷を入れる区画あり。この中で最も小型で、暑いガレージ用に買うと最も期待外れになりやすい機種。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=NewAir+AF-1000W+evaporative+cooler",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "portacool-cyclone-130",
+    "imageUrl": "https://jumboindustrial.com/wp-content/uploads/2024/06/511fBreEAyL._SL500_.jpg",
+    "priceMin": "$450",
+    "priceMax": "$700",
+    "category": "home",
+    "badge": "🛠️",
+    "name": {
+      "en": "Portacool Cyclone 130",
+      "ja": "Portacool Cyclone 130"
+    },
+    "description": {
+      "en": "Commercial-grade evaporative cooler built around Portacool's thicker Kuul media pad. Heavier and more expensive than the consumer units; the pad is the reason, and it is also the part that wears.",
+      "ja": "業務用の気化式冷風機。Portacool の厚い Kuul メディアパッドが中核。民生機より重く高価だが、その理由がこのパッドであり、消耗するのもこのパッド。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Portacool+Cyclone+130",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "toto-washlet-s550e",
+    "imageUrl": "https://m.media-amazon.com/images/I/5157JheKIqS._AC_SL1500_.jpg",
+    "priceMin": "$1,000",
+    "priceMax": "$1,600",
+    "category": "home",
+    "badge": "🏆",
+    "name": {
+      "en": "TOTO Washlet S550e",
+      "ja": "TOTO ウォシュレット S550e"
+    },
+    "description": {
+      "en": "TOTO's flagship seat: instant (tankless) heating, automatic lid, air deodoriser, warm-air dryer and the EWATER+ misting system. Requires a GFCI outlet within reach of the toilet.",
+      "ja": "TOTO の最上位モデル。瞬間式(タンクレス)加温、自動開閉フタ、脱臭、温風乾燥、きれい除菌水を搭載。トイレ付近に漏電遮断付きコンセントが必要。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=TOTO+Washlet+S550e",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "bio-bidet-bb-2000-bliss",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4d28d28c-23e8-47cc-997c-f41355e5881a.__CR0,6,2000,1237_PT0_SX970_V1___.jpg",
+    "priceMin": "$500",
+    "priceMax": "$800",
+    "category": "home",
+    "badge": "🥈",
+    "name": {
+      "en": "Bio Bidet BB-2000 Bliss",
+      "ja": "Bio Bidet BB-2000 Bliss"
+    },
+    "description": {
+      "en": "Tankless heated seat with a three-in-one stainless nozzle, oscillating and pulsating wash modes and a wireless remote. The usual alternative to a Washlet at a substantially lower price.",
+      "ja": "タンクレス式の暖房便座。ステンレス製3in1ノズル、ムーブ・リズム洗浄、ワイヤレスリモコン。ウォシュレットの代替として定番で、価格は大幅に安い。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Bio+Bidet+BB-2000+Bliss",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "brondell-swash-1400",
+    "imageUrl": "https://m.media-amazon.com/images/I/51fywAR7wVL._AC_SL1500_.jpg",
+    "priceMin": "$450",
+    "priceMax": "$700",
+    "category": "home",
+    "badge": "🔇",
+    "name": {
+      "en": "Brondell Swash 1400",
+      "ja": "Brondell Swash 1400"
+    },
+    "description": {
+      "en": "Tankless seat with dual stainless nozzles and a stated focus on a quieter, warmer seat. Positioned between the budget seats and the Washlet, without the automatic lid.",
+      "ja": "タンクレス式、ステンレス製ダブルノズル。静音性と便座の暖かさを重視した設計。廉価機とウォシュレットの中間の位置付けで、自動開閉フタは非搭載。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Brondell+Swash+1400",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "kohler-purewash-e930",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media/vc/b17d0e89-4fca-4c93-bd89-4aed4a9f6f77.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+    "priceMin": "$500",
+    "priceMax": "$750",
+    "category": "home",
+    "badge": "🧼",
+    "name": {
+      "en": "Kohler PureWash E930",
+      "ja": "Kohler PureWash E930"
+    },
+    "description": {
+      "en": "Heated seat with a UV-cleaned nozzle and a self-cleaning wand cycle. Kohler's fit tolerances are tight to their own bowls, which is worth checking before ordering for a non-Kohler toilet.",
+      "ja": "UV でノズルを除菌する暖房便座、ノズル自動洗浄機能付き。Kohler は自社便器に合わせた寸法設計なので、他社便器に付ける場合は事前確認が必要。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Kohler+PureWash+E930",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "tushy-classic-3-0",
+    "imageUrl": "https://m.media-amazon.com/images/I/81-Ejhag9BL._AC_SL1500_.jpg",
+    "priceMin": "$80",
+    "priceMax": "$150",
+    "category": "home",
+    "badge": "💵",
+    "name": {
+      "en": "TUSHY Classic 3.0",
+      "ja": "TUSHY Classic 3.0"
+    },
+    "description": {
+      "en": "Non-electric bidet attachment that clamps under the existing seat and taps the toilet's fill line. No outlet, no heated seat, no dryer — it does the one function and nothing else.",
+      "ja": "電源不要のシャワー機能後付けユニット。既存の便座下に挟み込み、便器の給水管から分岐する。コンセント不要・便座暖房なし・乾燥なしで、洗浄機能だけに絞った製品。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=TUSHY+Classic+3.0+bidet",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "body-solid-glph1100",
+    "imageUrl": "https://m.media-amazon.com/images/I/71GRGNyI2VL._AC_SL1500_.jpg",
+    "priceMin": "$1,300",
+    "priceMax": "$1,900",
+    "category": "fitness",
+    "badge": "🏆",
+    "name": {
+      "en": "Body-Solid GLPH1100",
+      "ja": "Body-Solid GLPH1100"
+    },
+    "description": {
+      "en": "Plate-loaded combination leg press and hack squat on one frame, with a 2x3-inch 11-gauge steel mainframe. Converting between the two movements means moving the back pad and the footplate, not rebuilding the machine.",
+      "ja": "1つのフレームでレッグプレスとハックスクワットを兼ねるプレートロード式。11ゲージ・2×3インチ角鋼のメインフレーム。2種目の切替は背もたれとフットプレートの移動だけで済み、組み直しは不要。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Body-Solid+GLPH1100+leg+press+hack+squat",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "titan-fitness-plate-loaded-hack-squat",
+    "imageUrl": "https://m.media-amazon.com/images/I/51jfcLOV7NL._AC_SL1000_.jpg",
+    "priceMin": "$800",
+    "priceMax": "$1,200",
+    "category": "fitness",
+    "badge": "💰",
+    "name": {
+      "en": "Titan Fitness Plate-Loaded Hack Squat",
+      "ja": "Titan Fitness プレートロード式ハックスクワット"
+    },
+    "description": {
+      "en": "Dedicated hack squat sled with a fixed carriage angle, linear bearings and multiple safety catch positions. No leg press conversion, which is why it costs less and takes less floor space than a combo unit.",
+      "ja": "ハックスクワット専用のスレッド。キャリッジ角度は固定、リニアベアリング、セーフティ位置は複数段。レッグプレス兼用ではないぶん、コンボ機より安く設置面積も小さい。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Titan+Fitness+plate+loaded+hack+squat",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "powertec-compact-leg-sled",
+    "imageUrl": "https://m.media-amazon.com/images/I/71eFoZsaO7L._AC_SL1500_.jpg",
+    "priceMin": "$1,100",
+    "priceMax": "$1,600",
+    "category": "fitness",
+    "badge": "📐",
+    "name": {
+      "en": "Powertec Compact Leg Sled",
+      "ja": "Powertec コンパクトレッグスレッド"
+    },
+    "description": {
+      "en": "Short-footprint sled that runs both hack squat and leg press patterns in a frame designed to fit a garage bay. The trade is range of travel — the carriage path is shorter than on a full-size machine.",
+      "ja": "設置面積の小さいスレッド。ガレージ1台分に収まる寸法で、ハックスクワットとレッグプレスの両方の動作に対応。代償は可動域で、キャリッジの移動距離はフルサイズ機より短い。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Powertec+Compact+Leg+Sled",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "valor-fitness-cc-10",
+    "imageUrl": "http://valorfitness.com/cdn/shop/files/CC-10_Main.jpg?v=1692362550",
+    "priceMin": "$600",
+    "priceMax": "$950",
+    "category": "fitness",
+    "badge": "🔁",
+    "name": {
+      "en": "Valor Fitness CC-10",
+      "ja": "Valor Fitness CC-10"
+    },
+    "description": {
+      "en": "Hack squat and deadlift shrug frame in one, with the carriage running on the outside of the uprights so the bar path clears the body. Lighter-gauge steel than the Body-Solid, and priced accordingly.",
+      "ja": "ハックスクワットとデッドリフト/シュラッグを兼ねるフレーム。キャリッジが支柱の外側を通るのでバー軌道が身体と干渉しない。鋼材は Body-Solid より薄く、価格もそれに応じて安い。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=Valor+Fitness+CC-10+hack+squat",
+        "markets": [
+          "global"
+        ],
+        "approved": false
+      }
+    ]
+  },
+  {
+    "id": "tds-premier-hack-squat",
+    "imageUrl": "",
+    "priceMin": "$1,400",
+    "priceMax": "$2,200",
+    "category": "fitness",
+    "badge": "🏋️",
+    "name": {
+      "en": "TDS Premier Hack Squat",
+      "ja": "TDS Premier ハックスクワット"
+    },
+    "description": {
+      "en": "Commercial-pattern hack squat with a wide, deeply knurled footplate and heavy-gauge uprights. Built for a gym floor rather than a spare room — check ceiling height and door width before ordering.",
+      "ja": "業務用設計のハックスクワット。広く深いローレット加工のフットプレートと厚肉の支柱。空き部屋ではなくジム床向けの寸法なので、天井高と扉幅を発注前に確認すること。"
+    },
+    "links": [
+      {
+        "network": "direct",
+        "productId": "https://www.amazon.com/s?k=TDS+Premier+hack+squat+machine",
         "markets": [
           "global"
         ],

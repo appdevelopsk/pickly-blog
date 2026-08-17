@@ -37,7 +37,7 @@ export const CATALOG_RESCUE3: AffiliateOffer[] = [
   },
   {
     "id": "keystone-3-pro",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/8108b1BpC-L._AC_SL1500_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "tech",
@@ -63,7 +63,7 @@ export const CATALOG_RESCUE3: AffiliateOffer[] = [
   },
   {
     "id": "bitbox02-hardware-wallet",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/51EM01uieNL.jpg",
     "priceMin": "$118",
     "priceMax": "$118",
     "category": "tech",

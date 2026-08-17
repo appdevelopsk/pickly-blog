@@ -637,7 +637,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "bousnic-dog-training-collar",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/813ynWwWDkL._AC_SL1500_.jpg",
     "priceMin": "$40",
     "priceMax": "$40",
     "category": "pets",
@@ -1001,7 +1001,7 @@ export const CATALOG_RESCUE: AffiliateOffer[] = [
   },
   {
     "id": "lands-end-classmate",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/91MipMvRn7L._AC_SL1500_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "parenting",

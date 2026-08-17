@@ -63,7 +63,11 @@ const FABRICATED = {
   "it": b("ho (testato|misurato|usato|indossato|provato|contato|guidato|dormito|lavato|ottenuto|effettuato|aperto)|il mio test|i miei test"),
   "pt-BR": b("testei|medi|usei|vesti|experimentei|contei|dirigi|dormi|lavei|levei|meu teste|meus testes"),
   "ru": b("я (тестировал|протестировал|измерял|измерил|использовал|носил|пробовал|считал|звонил|спал|стирал)|мой тест|моих тест"),
-  "id": b("saya (menguji|mengukur|menggunakan|memakai|mencoba|menghitung|mengemudi|tidur|mencuci|menghubungi)|pengujian saya"),
+  // ★★ インドネシア語もタイ語と同じ問題。動詞が時制変化しないので素の「saya menggunakan」は
+  //   "I used"（体験談＝要検出）だけでなく "Bisakah saya menggunakan…?"（読者視点のFAQ質問＝正常）
+  //   にも一致する。実際に FAQ 質問文36件で誤検出しデプロイが止まった(2026-08-17)。
+  //   完了マーカー(telah/sudah)か期間表現を伴う場合だけ体験談とみなす。
+  "id": b("saya (?:telah|sudah) (?:menguji|mengukur|menggunakan|memakai|mencoba|menghitung|mengemudi|tidur|mencuci|menghubungi)|saya (?:menguji|mengukur|menggunakan|memakai|mencoba|menghitung|mengemudi|tidur|mencuci|menghubungi)[^<?]{0,40}(?:selama|sejak) |pengujian saya|uji coba saya"),
   "vi": b("tôi đã (thử|đo|dùng|sử dụng|mặc|kiểm tra|đếm|lái|ngủ|giặt)|thử nghiệm của tôi"),
   "tr": b("test ettim|ölçtüm|kullandım|giydim|denedim|saydım|sürdüm|uyudum|yıkadım|benim testim"),
   "ar": /(اختبرت|قِست|قست|استخدمت|ارتديت|جربت|أحصيت|قدت|نمت|غسلت|اتصلت|في اختباري|تجربتي)/g,

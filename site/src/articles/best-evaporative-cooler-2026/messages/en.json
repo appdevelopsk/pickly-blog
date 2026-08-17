@@ -1,0 +1,137 @@
+{
+  "title": "Best Evaporative Cooler 2026: 5 Compared",
+  "description": "Hessaire MC37M and MC61M, Honeywell CO60PM, NewAir AF-1000W and Portacool Cyclone 130 compared on airflow, pad type, tank size and water use — starting with the humidity question that decides whether any of them work.",
+  "lede": "An evaporative cooler is not an air conditioner. It cools by evaporating water, so the more humid the air already is, the less it can do — and in a sealed room it makes things worse, not better.",
+  "methodology": "We did not run our own testing on any of these products. Doing it honestly would need an instrumented enclosure for the catios, a calibrated wet-bulb rig for the evaporative coolers, and a loaded sled with a force plate for the hack squat machines — none of which we have. What we did instead: pulled every published specification from each manufacturer's own product page and manual, cross-checked current pricing against major retailer listings, and read owner reviews at volume, filtering for reports that describe a measurable failure or a repeated complaint rather than a first-week impression. Where a number is a manufacturer claim rather than an independent measurement, we say so in the text.",
+  "sections": [
+    {
+      "heading": "Check your humidity before you check anything else",
+      "paragraphs": [
+        "Evaporative cooling works by turning liquid water into vapour and taking the required latent heat out of the air. The energy has to come from somewhere, and it comes from the air temperature. That means the cooling capacity is set by how much more water the air can still absorb — the gap between the dry-bulb and wet-bulb temperature.",
+        "In a dry climate that gap is large and the effect is dramatic: air entering at 38°C and 15% relative humidity can leave the pad noticeably cooler. In a humid climate the gap is small, the water evaporates slowly, and what you get is a fan that also makes the room damp. No amount of spending on a better unit changes this — it is thermodynamics, not build quality.",
+        "The practical rule: below roughly 50% relative humidity these units earn their keep; above roughly 70% they do not, regardless of price. Check a local forecast for a typical hot day before buying, not an annual average, because the humidity that matters is the humidity when you need cooling."
+      ]
+    },
+    {
+      "heading": "Ventilation is a requirement, not an option",
+      "paragraphs": [
+        "This is the opposite of how an air conditioner works and it is the most common mistake. An AC recirculates air in a sealed room. An evaporative cooler must continuously exhaust the air it has humidified, or the room's humidity climbs until the unit stops cooling and starts merely blowing damp air.",
+        "The rule of thumb is an open window or door roughly opposite the unit, sized to let the full airflow out. That is why these units belong in a garage with the door cracked, a workshop, or a covered patio — spaces where the air is being exchanged anyway.",
+        "It also explains why the shop-grade units in this group are rated for far more airflow than a room needs. They are designed to move air through a space, not around it."
+      ]
+    },
+    {
+      "heading": "Pads, water use and the maintenance nobody budgets for",
+      "paragraphs": [
+        "The cooling pad is the consumable. Thin aspen or cellulose pads on consumer units need replacing roughly annually with regular use; the thicker rigid media on a commercial unit like the Portacool lasts longer and costs more to replace. Either way, a pad that has gone hard with mineral scale stops absorbing water and quietly halves the unit's performance.",
+        "Water consumption is real and worth planning for. A mid-size unit running continuously in dry heat will empty a large tank in a day, which is why the hose-fill connection on the Hessaire units matters more than it looks. Manually refilling a 10-gallon tank daily gets old quickly.",
+        "In hard-water areas the tank and pump need periodic descaling, and the unit should be run dry — pump off, fan on — for a few minutes before storage, or the pad grows mould over winter. This is the maintenance step most owner complaints trace back to."
+      ]
+    },
+    {
+      "heading": "Sizing by CFM, and what the ice compartment is really for",
+      "paragraphs": [
+        "These units are rated in CFM (cubic feet per minute) of airflow rather than in BTU, because their output is not a fixed cooling capacity — it depends on the incoming air. As a starting point, aim for enough CFM to change the air in the space roughly every two minutes: multiply the room's volume in cubic feet by 30 and divide by 60. A two-car garage typically lands somewhere around 3,000 CFM, which is the MC37M's territory.",
+        "The ice compartments fitted to smaller units like the NewAir make a small, brief difference. Cooling the water lowers the supply air temperature slightly at first, but the evaporation rate is what does the work, and colder water evaporates more slowly. Treat it as a comfort feature, not a capacity feature."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will an evaporative cooler work where I live?",
+      "a": "Check relative humidity on a typical hot afternoon, not the annual average. Below roughly 50% these units work well; above roughly 70% they mostly add moisture. This is set by physics, so a more expensive unit does not overcome it."
+    },
+    {
+      "q": "Do I need to leave a window open?",
+      "a": "Yes, and this is the most common mistake. Unlike an air conditioner, an evaporative cooler must exhaust the air it has humidified. In a sealed room the humidity climbs until the cooling stops and you are left with a damp fan."
+    },
+    {
+      "q": "How much water do they use?",
+      "a": "A mid-size unit running continuously in dry heat can empty a 10-gallon tank within a day. That is why a garden-hose fill connection matters — daily manual refilling is the thing owners tire of first."
+    },
+    {
+      "q": "How often do the pads need replacing?",
+      "a": "Roughly annually for thin aspen or cellulose pads under regular use; longer for the thicker rigid media on commercial units. A pad stiff with mineral scale stops absorbing water and halves performance without any obvious symptom."
+    }
+  ],
+  "products": {
+    "hessaire-mc37m": {
+      "badge": "🏆 Best overall",
+      "review": "The MC37M is the size most buyers actually need: enough airflow for a two-car garage or a covered patio, a tank large enough to run most of a day, and a garden-hose connection so you are not carrying buckets. It is built to shop standards rather than living-room standards — the finish is plain and it is not quiet. For the space it is designed for, neither matters.",
+      "pros": [
+        "Right airflow for a garage or covered patio",
+        "Hose-fill connection removes the daily refill chore",
+        "Large tank relative to price"
+      ],
+      "cons": [
+        "Loud at high speed",
+        "Utilitarian finish",
+        "Too big and too loud for a bedroom"
+      ]
+    },
+    "hessaire-mc61m": {
+      "badge": "🏭 Best for large spaces",
+      "review": "The MC61M is the same design scaled up for open shop floors and outdoor events. Buying it for a domestic space is almost always a mistake — it moves more air than a house can exhaust, which means you cannot actually run it at capacity indoors. Where it fits, the large tank makes unattended all-day running practical.",
+      "pros": [
+        "Very high airflow for open spaces",
+        "Large tank supports all-day unattended running",
+        "Same proven design as the MC37M"
+      ],
+      "cons": [
+        "Far too much airflow for domestic rooms",
+        "Heavy and awkward to reposition",
+        "Highest water consumption here"
+      ]
+    },
+    "honeywell-co60pm": {
+      "badge": "🏠 Best for indoor use",
+      "review": "The CO60PM is the one here designed to be looked at and lived with: oscillating louvres, a remote, quieter operation and a finish that suits a room rather than a workshop. The trade is capacity — it moves noticeably less air than the Hessaire units. In a dry climate with a window open it is the right choice for a living room; in a hot garage it will disappoint.",
+      "pros": [
+        "Quietest and best-finished here",
+        "Oscillating louvres and remote",
+        "Suits a living space"
+      ],
+      "cons": [
+        "Lower airflow than the shop-grade units",
+        "Still needs an open window",
+        "Tank is smaller than the airflow implies"
+      ]
+    },
+    "newair-af-1000w": {
+      "badge": "💵 Cheapest",
+      "review": "The AF-1000W is a single-room tower with a small tank and an ice compartment. It is the entry point and the unit most likely to be bought for the wrong job — put it in a hot garage and it does effectively nothing. In a small, dry room with airflow through it, it is adequate and cheap. The ice compartment is a comfort feature, not a capacity feature.",
+      "pros": [
+        "Lowest price here",
+        "Compact tower footprint",
+        "Simple to move and store"
+      ],
+      "cons": [
+        "Far too small for a garage or patio",
+        "Small tank needs frequent refilling",
+        "Ice compartment adds little real capacity"
+      ]
+    },
+    "portacool-cyclone-130": {
+      "badge": "🛠️ Best build quality",
+      "review": "The Portacool is the commercial-grade option, and the reason is the pad: thicker rigid Kuul media absorbs and holds more water than the thin pads in consumer units, which is what actually determines cooling performance over a long run. It is heavier and more expensive, and the replacement pad is a real line item. For a workshop that runs it all summer, it is the one that holds up.",
+      "pros": [
+        "Thicker rigid media pad performs better over long runs",
+        "Commercial build, serviceable parts",
+        "Consistent output through a full day"
+      ],
+      "cons": [
+        "Most expensive here",
+        "Replacement pads are costly",
+        "Heavy — not something you reposition casually"
+      ]
+    }
+  },
+  "offerNotes": {
+    "hessaire-mc37m": "Hessaire's MC-series numbers refer to tank and airflow size; MC37M and MC26M look nearly identical in photos.",
+    "hessaire-mc61m": "Check the shipping dimensions before ordering — this is a freight-sized item in some listings.",
+    "honeywell-co60pm": "Honeywell licenses its name in this category; match the model code rather than the brand alone.",
+    "newair-af-1000w": "Sold in white and black variants under slightly different codes with the same specification.",
+    "portacool-cyclone-130": "Replacement Kuul pads are a separate purchase — check availability for the specific model before buying."
+  },
+  "pinDescription": "An evaporative cooler is not an AC. It cools by evaporating water, so humidity decides whether it works at all — and it needs a window open, not a sealed room. Five compared on airflow, pad and tank."
+}

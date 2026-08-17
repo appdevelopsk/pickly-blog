@@ -453,7 +453,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "maybelline-dream-fresh-bb",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/71zeP0SA0LS._SL1500_.jpg",
     "priceMin": "$9",
     "priceMax": "$9",
     "category": "beauty",
@@ -2429,7 +2429,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "sony-rx100-vii",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61RGHmVaWYL._AC_SL1250_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "tech",
@@ -2455,7 +2455,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "olympus-tough-tg7",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61ot6jAYViL._AC_SL1162_.jpg",
     "priceMin": "$400",
     "priceMax": "$400",
     "category": "tech",
@@ -2481,7 +2481,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "outdoor-research-helium-rain",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/61O3BovU9uL._AC_SL1500_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "fashion",
@@ -2507,7 +2507,7 @@ export const CATALOG_RESCUE2: AffiliateOffer[] = [
   },
   {
     "id": "spot-gen4-satellite-gps",
-    "imageUrl": "",
+    "imageUrl": "https://m.media-amazon.com/images/I/715AlH8sFIL._AC_SL1500_.jpg",
     "priceMin": "",
     "priceMax": "",
     "category": "tech",

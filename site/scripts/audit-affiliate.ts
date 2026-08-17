@@ -31,6 +31,19 @@ for (const offer of CATALOG) {
       errors++;
     }
   }
+  // 価格文字列の破損検知 (2026-08-17)。batch-gen の appendOffers が String.replace の
+  // 置換文字列に JSON を直接埋めていたため、"$180" の `$1` がキャプチャ参照として
+  // 解釈され "$80" / "$,300" のような**もっともらしいが間違った価格**が58箇所書かれていた。
+  // 型は string のままなので typecheck も i18n audit も素通りする。形で門番する。
+  for (const [field, v] of [["priceMin", offer.priceMin], ["priceMax", offer.priceMax]] as const) {
+    if (v == null || v === "") continue;
+    // "$4.99/月" のような正当な接尾辞は通す。破損の印は「通貨記号の直後が数字でない」こと。
+    if (/[$¥€£₹](?!\d)/.test(v)) {
+      console.error(`✗ offer ${offer.id}: malformed ${field} "${v}"`);
+      errors++;
+    }
+  }
+
   const approved = offer.links.filter((l) => l.approved).length;
   if (approved === 0) {
     console.warn(`⚠ offer ${offer.id}: 0 approved links — UI will show "pending"`);
