@@ -182,5 +182,32 @@
       }
     }
   ],
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "recommendedFor": [
+    {
+      "label": "Alltagsgenuss und Müsli",
+      "offerId": "oatly-oat-milk-original",
+      "reason": "Gleichbleibender Geschmack, gute Anreicherung mit Kalzium und B12, überall erhältlich. Die Referenz-Hafermilch für den täglichen Gebrauch."
+    },
+    {
+      "label": "Heimbaristas und Kaffeetrinker",
+      "offerId": "oatly-oat-milk-barista",
+      "reason": "Speziell zum Aufschäumen entwickelt — ergibt stabilen Mikroschaum, ohne im Espresso auszuflocken. Ein anderes Produkt als das reguläre Oatly."
+    },
+    {
+      "label": "Preisbewusste Alltagsnutzer",
+      "offerId": "planet-oat-extra-creamy",
+      "reason": "Günstiger als Oatly, mit cremiger Textur, die in Müsli, Smoothies und kaltem Kaffee gut funktioniert. Bestes Preis-Leistungs-Verhältnis abseits der Barista-Nutzung."
+    },
+    {
+      "label": "Fans von Cold Brew und Eiskaffee",
+      "offerId": "califia-oat-milk-barista",
+      "reason": "Die Mischung aus Hafer und Kokoscreme bringt natürliche Süße und mehr Körper, der sich auf Eis besser hält als leichtere Hafermilch."
+    },
+    {
+      "label": "Käufer ohne Zusatzstoffe",
+      "offerId": "elmhurst-oat-milk",
+      "reason": "Hafer, Wasser, Salz — sonst nichts. Keine Gummierungen, keine Emulgatoren, keine zugesetzten Öle. Für alle, die jede Zutatenliste lesen."
+    }
+  ]
 }

@@ -182,5 +182,32 @@
       }
     }
   ],
-  "methodology": "Evaluamos cada producto según el perfil de sabor, la transparencia del origen, el valor por porción, la integridad del envase y su rendimiento en los usos más habituales. Cotejamos las certificaciones documentadas y las reseñas verificadas de usuarios con las afirmaciones de marketing."
+  "methodology": "Evaluamos cada producto según el perfil de sabor, la transparencia del origen, el valor por porción, la integridad del envase y su rendimiento en los usos más habituales. Cotejamos las certificaciones documentadas y las reseñas verificadas de usuarios con las afirmaciones de marketing.",
+  "recommendedFor": [
+    {
+      "label": "Consumo diario y cereales",
+      "offerId": "oatly-oat-milk-original",
+      "reason": "Sabor constante, buena fortificación con calcio y B12, y disponible en todas partes. La bebida de avena de referencia para el día a día."
+    },
+    {
+      "label": "Baristas caseros y cafeteros",
+      "offerId": "oatly-oat-milk-barista",
+      "reason": "Formulada específicamente para vaporizar: monta una microespuma estable sin cortarse en el espresso. Es un producto distinto del Oatly normal."
+    },
+    {
+      "label": "Consumidores diarios que miran el precio",
+      "offerId": "planet-oat-extra-creamy",
+      "reason": "Más barata que Oatly, con una textura cremosa que funciona bien en cereales, batidos y café frío. La mejor relación calidad-precio fuera del uso barista."
+    },
+    {
+      "label": "Aficionados al cold brew y al café con hielo",
+      "offerId": "califia-oat-milk-barista",
+      "reason": "La mezcla de avena y crema de coco aporta dulzor natural y más cuerpo, que aguanta mejor con hielo que las bebidas de avena más ligeras."
+    },
+    {
+      "label": "Quienes buscan ingredientes limpios y sin aditivos",
+      "offerId": "elmhurst-oat-milk",
+      "reason": "Avena, agua y sal: nada más. Sin gomas, sin emulgentes, sin aceites añadidos. Para quien lee cada etiqueta."
+    }
+  ]
 }
