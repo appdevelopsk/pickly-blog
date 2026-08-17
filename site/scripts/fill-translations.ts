@@ -184,7 +184,11 @@ Hard rules:
 4. Never translate brand or product model names (e.g. "Speedo Vanquisher 2.0", "NordVPN") unless the brand has an official localized name.
 5. Localize prices, units, dates, and any US-specific references to locale-appropriate equivalents. Keep all numbers factually accurate.
 6. "pinDescription" is a Pinterest hook — rewrite it from scratch for the target culture rather than translating it literally.
-7. "meta.title" must stay under 60 characters and "meta.description" under 155 characters in the target language.`;
+7. "meta.title" must stay under 60 characters in the target language, and shorter still in practice: SERPs
+   truncate by DISPLAY WIDTH, not character count. Full-width scripts (CJK, Thai) count double, so budget
+   ~55 for mixed-script titles and ~28-30 actual characters for CJK/Thai. When in doubt, write it shorter
+   than feels necessary — a title that reads slightly terse is far better than one that gets cut mid-word.
+   "meta.description" stays under 155 characters (Latin) / ~75 characters (CJK/Thai) by the same rule.`;
 
 let client: Anthropic | undefined;
 
