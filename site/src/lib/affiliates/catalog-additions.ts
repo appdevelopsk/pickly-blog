@@ -2350,7 +2350,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "cooling-pillow-purple-cloud",
-    "imageUrl": "https://cdn.trendhunterstatic.com/thumbs/454/purple-twincloud-pillow.jpeg",
+    "imageUrl": "",
     "priceMin": "129",
     "priceMax": "159",
     "category": "home",
@@ -2948,7 +2948,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "dish-rack-muji-acrylic-jp",
-    "imageUrl": "https://media.karousell.com/media/photos/products/2020/4/23/muji_dish_drying_rack_1587615380_1650059a_progressive.jpg",
+    "imageUrl": "https://media.karousell.com/media/photos/products/2023/7/27/muji_dish_drying_rack_1690421510_efe66f10_progressive.jpg",
     "priceMin": "¥2,500",
     "priceMax": "¥4,000",
     "category": "home",
@@ -10569,7 +10569,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "smart-hub-google-nest-hub-max",
-    "imageUrl": "https://www.adt.com/content/dam/adt7/pages/phoenix/ssu-pdp/google-nest-hub-max/M2_PDP_GoogleNestHubMAX_Carousel_Image_2_DSKTP.png",
+    "imageUrl": "",
     "priceMin": "27800",
     "priceMax": "35000",
     "category": "tech",
@@ -20060,7 +20060,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "rimowa-essential-cabin",
-    "imageUrl": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwd3f81b30/images/large/83253691_1.png",
+    "imageUrl": "",
     "priceMin": "$925",
     "priceMax": "$1,125",
     "category": "fashion",
@@ -26464,7 +26464,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "credit-karma-free",
-    "imageUrl": "https://productmint.com/wp-content/uploads/2022/11/credit-karma.png",
+    "imageUrl": "https://m.media-amazon.com/images/I/71LGrlA8RxL.png",
     "priceMin": "$0",
     "priceMax": "$0",
     "category": "finance",
