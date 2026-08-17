@@ -136,6 +136,27 @@ export function directGoesToAmazon(category?: string, productName?: string): boo
   return Boolean(productName) && !NO_AMAZON_CATEGORIES.has(category ?? "");
 }
 
+/**
+ * 商品名 → Amazon 検索クエリ (2026-08-17)。
+ *
+ * 買い口の多くは ASIN が無く `/s?k=<商品名>` に落ちる。このとき名前末尾の
+ * 補足カッコ（"(AAA, 8-9mm)" "(12-piece kit incl. 5 bands)" "(2 Paddles + 4 Balls)"）
+ * まで検索語に入ると、Amazon は AND 検索なので**0件になり得る**＝押されても
+ * 買えない。表示名はそのままに、検索語からだけ落とす。
+ *
+ * ただし "(33967)" "(V4600)" のような**型番は残す**。型番は Amazon の検索で
+ * むしろ命中率を上げるため。対象は199件。
+ */
+const MODEL_CODE = /^[A-Za-z]{0,4}[0-9][A-Za-z0-9-]*$/;
+
+export function amazonSearchQuery(productName: string): string {
+  return productName
+    .replace(/\s*\(([^()]*)\)/g, (_m, inner: string) =>
+      MODEL_CODE.test(inner.trim()) ? ` ${inner.trim()}` : "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 export function buildAffiliateUrl({ link, productName, market, category, env = defaultEnv }: BuildOptions): string {
   // ★素の直リンクを自国 Amazon の検索へ寄せる (2026-08-13)。
   //   物販カテゴリの direct リンク約1,400本は、どこにも提携が無い公式サイトへの
@@ -147,7 +168,7 @@ export function buildAffiliateUrl({ link, productName, market, category, env = d
     const net = localAmazonNetwork(market);
     const host = AMAZON_HOSTS[net];
     const tag = env(AMAZON_TAG_ENV[net] ?? "") ?? AMAZON_TAG_DEFAULTS[net];
-    const url = `https://www.${host}/s?k=${encodeURIComponent(productName)}`;
+    const url = `https://www.${host}/s?k=${encodeURIComponent(amazonSearchQuery(productName))}`;
     return tag ? injectAmazonTag(url, tag) : url;
   }
 
@@ -176,7 +197,7 @@ export function buildAffiliateUrl({ link, productName, market, category, env = d
 
   if (tagEnvKey && amazonHost) {
     const tag = env(tagEnvKey) ?? AMAZON_TAG_DEFAULTS[effectiveNetwork];
-    const q = encodeURIComponent(productName ?? effectiveLink.productId);
+    const q = encodeURIComponent(amazonSearchQuery(productName ?? effectiveLink.productId));
     if (tag) {
       // タグあり → 成果計上できるURLにタグを注入。
       // ①rawUrl(dp/検索どちらでも)があれば最優先 ②productIdが実ASIN(英数10桁)なら/dpリンク
