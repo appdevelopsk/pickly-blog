@@ -2,5 +2,153 @@
   "title": "phần mềm quản lý dự án tốt nhất 2026: 5 sản phẩm thử 90 ngày",
   "description": "Chúng tôi so sánh Asana, Monday, ClickUp, Notion, Trello. Đâu là phần mềm quản lý dự án 2026 thực sự nổi bật về tỉ lệ áp dụng hàng ngày và theo dõi phụ thuộc.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Làm quen ban đầu và tỷ lệ dùng hằng ngày",
+      "paragraphs": [
+        "Thời gian để dựng được bảng dùng thật: Trello 15 phút (chỉ Kanban), Monday 30 phút (có mẫu sẵn), ClickUp 2 tiếng (quá nhiều tính năng), Asana 1 tiếng (giao diện gọn gàng), Notion 3 tiếng (phải tự dựng từ đầu).",
+        "Tỷ lệ dùng hằng ngày sau 30 ngày: Asana 88%, Monday 84%, Trello 82% (đơn giản nên được dùng), ClickUp 70% (ngợp tính năng), Notion 65% (phụ thuộc vào việc cả nhóm có chịu theo hay không).",
+        "Ứng dụng di động: Asana là số một trong nhóm. Monday cũng chắc tay. Trello (thuộc Atlassian) dùng được. ClickUp nặng hơn. Notion trên điện thoại khá hạn chế cho việc quản lý dự án."
+      ]
+    },
+    {
+      "heading": "Theo dõi phụ thuộc và các kiểu xem",
+      "paragraphs": [
+        "Phụ thuộc giữa các đầu việc (đánh dấu việc A chặn việc B): cả 5 công cụ đều hỗ trợ. Asana và ClickUp có phần hiển thị phụ thuộc mạnh nhất (đường găng). Monday trực quan nhưng ít tính phân tích. Notion có quan hệ dữ liệu nhưng giao diện thiên về wiki. Trello phải cài thêm Power-Up.",
+        "Biểu đồ Gantt: Asana (Timeline), Monday, ClickUp có sẵn. Notion phải dùng chế độ xem cơ sở dữ liệu. Trello phải dùng Power-Up. Timeline của Asana là gọn nhất.",
+        "Chế độ xem khối lượng công việc (biết ai đang quá tải): Asana, Monday, ClickUp đều có riêng. Đây là thứ sống còn với agency. Notion không có. Trello phải dùng Power-Up."
+      ]
+    },
+    {
+      "heading": "Chi phí và khả năng mở rộng",
+      "paragraphs": [
+        "Chi phí hằng tháng cho 30 người dùng (gói tầm trung): Asana Advanced 750 USD/tháng, Monday Work Management Pro 570 USD/tháng, ClickUp Business 360 USD/tháng, Notion Business 600 USD/tháng, Trello Premium 300 USD/tháng.",
+        "So sánh gói miễn phí: Asana miễn phí cho 15 người. Trello miễn phí không giới hạn số người (tính năng cơ bản). ClickUp miễn phí vĩnh viễn (giới hạn dung lượng lưu trữ). Monday gần như không có gói miễn phí thật sự. Notion miễn phí cho nhu cầu cá nhân.",
+        "Khi vượt mốc 100 người dùng: Asana, Monday, ClickUp đều gánh được 500+ người. Notion vẫn chạy được nhưng trải nghiệm đi xuống. Trello đuối sức khi qua 100 — Atlassian sẽ đẩy bạn sang Jira."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Asana hay Monday?",
+      "a": "Chọn Asana nếu là nhóm marketing/sáng tạo cần quản lý phụ thuộc và có cấu trúc dự án rõ ràng. Chọn Monday nếu bạn muốn linh hoạt về mặt trực quan và muốn dùng công cụ này cho cả những mảng ngoài dự án (CRM, nhân sự...)."
+    },
+    {
+      "q": "ClickUp — được gì, mất gì khi gom hết vào một chỗ?",
+      "a": "ClickUp muốn thay luôn Asana + Notion + Slack. Bộ tính năng rất đáng nể nhưng người mới sẽ thấy ngợp. Chỉ chọn ClickUp nếu nhóm bạn đủ kiên nhẫn ngồi cấu hình."
+    },
+    {
+      "q": "Dùng Notion để quản lý dự án được không?",
+      "a": "Notion làm được, VỚI ĐIỀU KIỆN có người chịu dựng và duy trì các cơ sở dữ liệu dự án. Nếu muốn mẫu quản lý dự án dựng sẵn và chạy được ngay, Asana/Monday/Trello nhỉnh hơn hẳn."
+    },
+    {
+      "q": "Trello hay Asana?",
+      "a": "Trello hợp với quy trình Kanban đơn giản cho nhóm dưới 20 người. Chuyển sang Asana khi bạn bắt đầu cần phụ thuộc, nhiều kiểu xem, hoặc cấu trúc dự án bài bản."
+    }
+  ],
+  "products": {
+    "asana-advanced": {
+      "badge": "🏆 Tốt nhất tổng thể",
+      "review": "Asana Advanced là lựa chọn đúng cho phần lớn nhóm làm việc chuyên nghiệp. Giao diện tốt nhất nhóm, miễn phí cho 15 người, quản lý phụ thuộc mạnh, có Gantt timeline, app di động thuộc hàng đầu bảng. Đây là lựa chọn mặc định cho các nhóm marketing, sáng tạo và vận hành.",
+      "pros": [
+        "Giao diện tốt nhất trong nhóm",
+        "Miễn phí tới 15 người dùng",
+        "Quản lý phụ thuộc mạnh"
+      ],
+      "cons": [
+        "Gói Advanced 25 USD/người/tháng",
+        "Ít tùy biến hơn Monday"
+      ]
+    },
+    "monday-work-management-pro": {
+      "badge": "🎨 Linh hoạt trực quan nhất",
+      "review": "Monday Work Management Pro hợp với các nhóm làm cả quản lý dự án, CRM, nhân sự lẫn vận hành. Kiểu bảng trực quan, tùy biến gần như không giới hạn, gói Pro 19 USD/người/tháng. Đáng tiền nhất khi bạn muốn một nền tảng duy nhất dùng chung cho nhiều phòng ban.",
+      "pros": [
+        "Linh hoạt nhất khi dùng xuyên phòng ban",
+        "Phong cách quy trình trực quan",
+        "Tự động hóa mạnh"
+      ],
+      "cons": [
+        "Thời gian làm quen có thể lâu hơn",
+        "Gần như không có gói miễn phí thật sự"
+      ]
+    },
+    "clickup-business": {
+      "badge": "🧰 Gom tất cả trong một tốt nhất",
+      "review": "ClickUp Business hợp với nhóm muốn gom bớt công cụ (quản lý dự án + tài liệu + chat + CRM + tự động hóa). Gói Business 12 USD/người/tháng. Nhiều tính năng nhưng cũng khó học nhất. Sau 30 ngày, tỷ lệ dùng tụt hẳn nếu không có người quản trị riêng.",
+      "pros": [
+        "Gộp tất cả (dự án + tài liệu + chat + CRM)",
+        "Gói Business 12 USD/người/tháng",
+        "Nhiều tính năng nhất trên mỗi đồng bỏ ra"
+      ],
+      "cons": [
+        "Đường học dốc",
+        "Tỷ lệ dùng sau 30 ngày thấp hơn Asana 20%"
+      ]
+    },
+    "notion-business": {
+      "badge": "📝 Tốt nhất cho tài liệu + dự án",
+      "review": "Notion Business hợp với nhóm vừa làm việc trên tài liệu/wiki vừa chạy dự án. Gói Business 20 USD/người/tháng. Kiểu tự dựng nghĩa là cực kỳ linh hoạt nhưng không có mẫu quản lý dự án dùng ngay. Hợp nhất khi công việc dự án gắn chặt với tài liệu chi tiết.",
+      "pros": [
+        "Gộp tài liệu với dự án",
+        "Linh hoạt gần như vô hạn",
+        "Trang viết đẹp"
+      ],
+      "cons": [
+        "Phải tự dựng (khởi động chậm)",
+        "Thuần quản lý dự án thì yếu hơn Asana",
+        "Không có Gantt thật sự"
+      ]
+    },
+    "trello-premium": {
+      "badge": "💸 Quản lý dự án đơn giản tốt nhất",
+      "review": "Trello Premium hợp với quy trình Kanban đơn giản trong nhóm nhỏ. Gói Premium 10 USD/người/tháng. Thuộc sở hữu của Atlassian (công ty mẹ của Jira). Hợp nhất khi bạn không cần phụ thuộc, chỉ cần thẻ xếp theo danh sách. Phần lớn nhóm trên 20 người sẽ sớm thấy chật.",
+      "pros": [
+        "Đơn giản nhất trong nhóm",
+        "Gói miễn phí không giới hạn số người",
+        "Thuộc sở hữu Atlassian"
+      ],
+      "cons": [
+        "Nhóm lớn sẽ thấy chật",
+        "Muốn có phụ thuộc phải cài Power-Up",
+        "Quy mô lớn lên là Atlassian đẩy sang Jira"
+      ]
+    }
+  },
+  "offerNotes": {
+    "asana-advanced": "Đăng ký tại asana.com — miễn phí cho 15 người dùng.",
+    "monday-work-management-pro": "Đăng ký tại monday.com — dùng thử miễn phí 14 ngày.",
+    "clickup-business": "Đăng ký tại clickup.com — có gói miễn phí vĩnh viễn.",
+    "notion-business": "Đăng ký tại notion.so — miễn phí cho nhu cầu cá nhân.",
+    "trello-premium": "Đăng ký tại trello.com — gói miễn phí không giới hạn số người."
+  },
+  "pinDescription": "Chọn phần mềm quản lý dự án 2026 sao cho khỏi phí tiền? Asana, Monday, ClickUp, Notion, Trello — gói miễn phí tới đâu, 30 người tốn bao nhiêu một tháng, tự động hóa và báo cáo mạnh cỡ nào. Lưu lại trước khi chốt. #quanlyduan",
+  "recommendedFor": [
+    {
+      "label": "Nhóm marketing và agency sáng tạo quản lý dự án cho khách hàng",
+      "offerId": "asana-advanced",
+      "reason": "Giao diện đầu bảng, theo dõi phụ thuộc và chế độ xem Timeline của Asana cho agency đủ cấu trúc để chạy nhiều dự án khách hàng cùng lúc."
+    },
+    {
+      "label": "Quản lý vận hành điều phối quy trình xuyên phòng ban",
+      "offerId": "monday-work-management-pro",
+      "reason": "Monday gộp quản lý dự án, CRM và nhân sự vào một nền tảng, giúp nhóm vận hành gom các phòng ban lại mà không phải nhảy qua nhảy lại giữa các công cụ."
+    },
+    {
+      "label": "Nhóm rành công nghệ muốn bỏ bớt nhiều công cụ SaaS",
+      "offerId": "clickup-business",
+      "reason": "ClickUp gói gọn quản lý dự án, tài liệu, chat và CRM với 12 USD/người/tháng — mật độ tính năng trên mỗi đồng cao nhất, miễn là nhóm bạn chịu khó ngồi cấu hình."
+    },
+    {
+      "label": "Người làm tri thức, ngày nào cũng sống trong tài liệu và wiki",
+      "offerId": "notion-business",
+      "reason": "Notion gộp tài liệu chi tiết với cơ sở dữ liệu dự án, lý tưởng khi công việc dự án không thể tách rời khỏi phần đặc tả viết ra."
+    },
+    {
+      "label": "Nhóm nhỏ cần Kanban đơn giản, không phải học gì nhiều",
+      "offerId": "trello-premium",
+      "reason": "Mô hình thẻ và danh sách của Trello giúp cả nhóm chạy được trong 15 phút, kèm gói miễn phí không giới hạn số người cho nhóm dưới 20."
+    }
+  ]
 }

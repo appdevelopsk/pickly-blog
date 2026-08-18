@@ -2,5 +2,144 @@
   "title": "máy sưởi bể cá tốt nhất 2026: 5 so sánh",
   "description": "Chúng tôi so sánh Fluval, Eheim, Aqueon, Tetra, hygger. Đâu là máy sưởi bể cá 2026 thực sự nổi bật về độ chính xác nhiệt độ và độ bền.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Sưởi thủy tinh và sưởi titan",
+      "paragraphs": [
+        "Thủy tinh (Eheim Jager, Aqueon Pro, Tetra HT, Fluval E): rẻ hơn, đủ dùng cho hầu hết hồ nước ngọt, nhưng có thể nứt do sốc nhiệt.",
+        "Titan (hygger): bền hơn, nên dùng cho hồ nước mặn (muối ăn mòn một số lớp phủ thủy tinh), có bộ điều khiển gắn ngoài."
+      ]
+    },
+    {
+      "heading": "Loại nào hợp với nhu cầu nào",
+      "paragraphs": [
+        "Chính xác nhất: Fluval E Electronic (1,3-2,3 triệu đồng). Màn hình LCD, sai số 0,3°C.",
+        "Chuẩn mực của ngành: Eheim Jager 200W (750 nghìn - 1,3 triệu đồng). Kỹ thuật Đức.",
+        "Tầm trung tốt nhất: Aqueon Pro (750 nghìn - 1,5 triệu đồng). Chống vỡ, bộ ổn nhiệt điện tử.",
+        "Cho người mới: Tetra HT Submersible (380-750 nghìn đồng). Cài sẵn 26°C.",
+        "Cho hồ nước mặn/hồ lớn: hygger Titanium (1,3-2,5 triệu đồng). Ống titan, điều khiển gắn ngoài."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Tôi cần sưởi công suất bao nhiêu?",
+      "a": "Quy tắc chung: khoảng 1,3W cho mỗi lít nước. Hồ 280 lít cần khoảng 375W (một cây 400W hoặc hai cây 200W)."
+    },
+    {
+      "q": "Nên dùng một hay hai cây sưởi?",
+      "a": "Hai cây, mỗi cây một nửa công suất, sẽ an toàn hơn — nếu một cây hỏng, cây còn lại vẫn giữ được nhiệt độ. Đây là cách làm nên áp dụng với hồ trên 190 lít."
+    },
+    {
+      "q": "Vì sao sưởi thủy tinh hay vỡ?",
+      "a": "Do sốc nhiệt — cây sưởi đang ngâm trong nước, nước bị rút cạn đột ngột, cây nóng lên rồi lại bị nhúng vào nước lạnh. Luôn rút điện trước khi thay nước."
+    },
+    {
+      "q": "Cây sưởi dùng được bao lâu?",
+      "a": "Thủy tinh: thường 2-4 năm. Titan: 5-10 năm. Nên thay khi nhiệt độ lệch quá ±0,5°C so với mức đã cài."
+    }
+  ],
+  "products": {
+    "fluval-e-electronic-heater": {
+      "badge": "🎯 Chính xác nhất",
+      "review": "Fluval E Electronic Heater là lựa chọn dành cho ai cần độ chính xác. Điều khiển bằng vi xử lý, màn hình LCD hiển thị nhiệt độ hiện tại, sai số chỉ 0,3°C (đa số cây sưởi khác là ±1°C), thân chống vỡ. Hợp nhất với các loài nhạy cảm như cá dĩa hay hồ thủy sinh.",
+      "pros": [
+        "Sai số chỉ 0,3°C",
+        "Màn hình LCD",
+        "Thân chống vỡ"
+      ],
+      "cons": [
+        "Giá cao 1,3-2,3 triệu đồng",
+        "Càng nhiều linh kiện điện tử càng dễ hỏng"
+      ]
+    },
+    "eheim-jager-200w": {
+      "badge": "🇩🇪 Chuẩn mực của ngành",
+      "review": "Eheim Jager 200W là chuẩn mực của ngành với kỹ thuật Đức. Thân thủy tinh, thang nhiệt độ kép (độ C và độ F), bộ ổn nhiệt đáng tin cậy. Được dùng trong hồ cá khắp thế giới. Một lựa chọn tầm trung chắc chắn.",
+      "pros": [
+        "Kỹ thuật Đức",
+        "Thang nhiệt độ kép",
+        "Độ bền chuẩn mực của ngành"
+      ],
+      "cons": [
+        "Thân thủy tinh (có thể nứt)",
+        "Chỉnh bằng núm vặn, không có LCD"
+      ]
+    },
+    "aqueon-pro-heater": {
+      "badge": "🪜 Tầm trung tốt nhất",
+      "review": "Aqueon Pro Heater là lựa chọn tầm trung hợp lý. Thân chống vỡ, ổn nhiệt điện tử, tự ngắt khi mực nước hạ thấp. Đáng tin cho hầu hết hồ nước ngọt.",
+      "pros": [
+        "Thân chống vỡ",
+        "Tự ngắt điện",
+        "Ổn nhiệt điện tử"
+      ],
+      "cons": [
+        "Không có màn hình LCD",
+        "Kém chính xác hơn Fluval E"
+      ]
+    },
+    "tetra-ht-heater": {
+      "badge": "💸 Tốt nhất cho người mới",
+      "review": "Tetra HT Submersible Heater hợp với hồ của người mới chơi. Thiết kế nhỏ gọn, cài sẵn 26°C (không có núm chỉnh nhiệt), ngâm chìm hoàn toàn, không cần cân chỉnh gì. Phù hợp hồ cộng đồng 40-150 lít.",
+      "pros": [
+        "Giá mềm 380-750 nghìn đồng",
+        "Cài sẵn 26°C",
+        "Không cần thiết lập"
+      ],
+      "cons": [
+        "Không chỉnh được nhiệt độ",
+        "Chỉ hợp hồ nhỏ (40-150 lít)"
+      ]
+    },
+    "hygger-titanium-heater": {
+      "badge": "🌊 Tốt nhất cho hồ nước mặn",
+      "review": "hygger Titanium Heater là lựa chọn cho hồ nước mặn hoặc hồ lớn. Ống titan (không có thủy tinh nên không vỡ), bộ điều khiển gắn ngoài giúp cài và đọc nhiệt độ mà không cần thò tay vào hồ, ổn nhiệt bằng chip IC. Hợp với những hồ mà dùng sưởi thủy tinh quá rủi ro.",
+      "pros": [
+        "Titan, không lo vỡ",
+        "Điều khiển gắn ngoài",
+        "Tốt nhất cho nước mặn"
+      ],
+      "cons": [
+        "Giá cao 1,3-2,5 triệu đồng",
+        "Bộ điều khiển ngoài khiến việc lắp đặt rườm rà hơn"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fluval-e-electronic-heater": "Bán tại fluvalaquatics.com, Petco, Chewy, Amazon. Có nhiều mức công suất: 100W, 200W, 300W.",
+    "eheim-jager-200w": "Bán tại eheim.com, Amazon. Có nhiều mức công suất — 200W là phổ biến nhất cho hồ đến 190 lít.",
+    "aqueon-pro-heater": "Bán tại aqueon.com, Petco, PetSmart, Chewy. Có nhiều mức công suất.",
+    "tetra-ht-heater": "Bán tại tetra-fish.com, PetSmart, Petco, Amazon. Cài sẵn 26°C, không chỉnh được.",
+    "hygger-titanium-heater": "Bán tại hyggeraquarium.com, Amazon. Có nhiều mức công suất — 300W và 500W là phổ biến cho hồ vừa và lớn."
+  },
+  "pinDescription": "Hồ cá nhà bạn tụt nhiệt mỗi khi trở trời? 5 cây sưởi đáng mua năm 2026 — từ hàng giá mềm cho người mới đến ống titan cho hồ nước mặn. Lưu lại trước khi mua!",
+  "recommendedFor": [
+    {
+      "label": "Người chơi cá dĩa và hồ thủy sinh cần kiểm soát nhiệt độ chặt chẽ",
+      "offerId": "fluval-e-electronic-heater",
+      "reason": "Sai số 0,3°C cùng màn hình LCD hiển thị tức thời giúp bạn phát hiện nhiệt độ trôi trước khi các loài nhạy cảm bị stress."
+    },
+    {
+      "label": "Người chơi cá nước ngọt lâu năm muốn thứ đã được kiểm chứng",
+      "offerId": "eheim-jager-200w",
+      "reason": "Hàng chục năm được dùng thực tế với kỹ thuật Đức khiến Jager thành cây sưởi bền bỉ, chẳng mấy khi gây phiền cho người có kinh nghiệm."
+    },
+    {
+      "label": "Người nuôi cá nước ngọt tầm ngân sách vừa, cần tính năng an toàn",
+      "offerId": "aqueon-pro-heater",
+      "reason": "Thân chống vỡ và cơ chế tự ngắt khi cạn nước cho bạn sự yên tâm mà không phải trả giá như Fluval."
+    },
+    {
+      "label": "Người lần đầu nuôi cá, đang set up hồ cộng đồng cơ bản",
+      "offerId": "tetra-ht-heater",
+      "reason": "Cắm điện là xong với mức 26°C cài sẵn, không có núm nào để chỉnh sai — lý tưởng cho hồ 40-150 lít của người mới."
+    },
+    {
+      "label": "Người chơi hồ san hô nước mặn và hồ lớn, đặt độ bền lên hàng đầu",
+      "offerId": "hygger-titanium-heater",
+      "reason": "Titan chống được ăn mòn của muối, còn bộ điều khiển ngoài cho phép chỉnh nhiệt độ mà không cần thò tay vào hồ."
+    }
+  ]
 }

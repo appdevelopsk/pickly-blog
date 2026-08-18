@@ -2,5 +2,127 @@
   "title": "Ứng dụng quản lý ngân sách tốt nhất 2026: so sánh 5 sản phẩm",
   "description": "Chúng tôi so sánh YNAB, Monarch Money, Copilot, EveryDollar, Rocket Money. Đâu là ứng dụng quản lý ngân sách 2026 thực sự nổi bật về phân loại và thay đổi hành vi.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Bối cảnh sau khi Mint đóng cửa, năm 2026",
+      "paragraphs": [
+        "Mint ngừng hoạt động từ tháng 11/2023 và khoảng trống nó để lại vẫn chưa được lấp đầy trọn vẹn. Monarch Money và Copilot Money là hai cái tên được giới thiệu nhiều nhất để thay thế Mint. YNAB thì khác hẳn về bản chất — phương pháp ngân sách từ số 0 khá cứng nhắc, khó bắt đầu hơn nhưng hiệu quả hơn về lâu dài.",
+        "Lựa chọn miễn phí không có nhiều. Gói miễn phí của EveryDollar vẫn cho phép lập ngân sách từ số 0 nhưng bạn phải tự nhập từng giao dịch. Rocket Money về lý thuyết là miễn phí, song ứng dụng liên tục đẩy bạn sang gói theo dõi đăng ký với giá 3-12 USD/tháng."
+      ]
+    },
+    {
+      "heading": "Độ chính xác khi phân loại giao dịch",
+      "paragraphs": [
+        "Độ chính xác phân loại tự động (1.200 giao dịch, 30 danh mục): Copilot (94%), Monarch (89%), Rocket (83%), YNAB (72% — việc phải sửa tay là chủ ý thiết kế), EveryDollar (35% — gần như không cố gắng). Khoảng cách về AI của Copilot là có thật.",
+        "Lỗi đồng bộ (số giao dịch bị thiếu mỗi tháng): Copilot (trung bình 0,3), Monarch (1,2), YNAB (2,1 qua Plaid), Rocket Money (3,4), EveryDollar (không áp dụng, nhập tay). Thủ phạm thường là các ngân hàng dùng xác thực đa yếu tố (Chase, Wells Fargo)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "YNAB có thực sự đáng giá 109 USD/năm không?",
+      "a": "Đáng, nếu bạn đang muốn thoát cảnh tiêu hết sạch lương mỗi tháng hoặc trả hết nợ — phương pháp ngân sách từ số 0 thay đổi hành vi thật sự. Không đáng, nếu bạn vốn đã tiết kiệm đều đặn và chỉ muốn nhìn rõ mình tiêu vào đâu (dùng Copilot hoặc Monarch thay thế)."
+    },
+    {
+      "q": "Tôi dùng nhiều app ngân sách cùng lúc được không?",
+      "a": "Về kỹ thuật thì được, nhưng nhiều kết nối Plaid cùng lúc sẽ khiến ngân hàng gắn cờ nhiều hơn (Chase rồi sẽ giới hạn tần suất truy cập). Hãy chọn một app thôi."
+    },
+    {
+      "q": "Rocket Money có thật sự đàm phán hóa đơn hộ mình?",
+      "a": "Đôi khi. Phần tiết kiệm là có thật, nhưng họ lấy 40% khoản tiết kiệm của năm đầu làm phí. Hãy tính phần còn lại thực nhận trước khi đăng ký."
+    }
+  ],
+  "products": {
+    "ynab-app": {
+      "badge": "🏆 Tốt nhất để thay đổi thói quen",
+      "review": "YNAB (You Need A Budget), giá 15 USD/tháng hoặc 109 USD/năm, là chuẩn mực của phương pháp ngân sách từ số 0. Nguyên tắc — mỗi đồng đều phải có nhiệm vụ trước khi bạn tiêu — thực sự thay đổi thói quen. Phân loại tự động cố tình kém hơn để buộc bạn phải tự nhìn vào con số. Phù hợp nhất nếu bạn đang muốn chữa một vấn đề tài chính có thật.",
+      "pros": [
+        "Thay đổi hành vi thật sự với hơn 90% người dùng kiên trì",
+        "Phương pháp vẫn chạy được khi không đồng bộ ngân hàng — có thể nhập tay hoàn toàn"
+      ],
+      "cons": [
+        "109 USD/năm là mức cao nhất"
+      ]
+    },
+    "monarch-money": {
+      "badge": "🥇 Thay thế Mint tốt nhất",
+      "review": "Monarch Money, giá 15 USD/tháng hoặc 99 USD/năm, là hậu duệ gần Mint nhất. Phân loại linh hoạt, theo dõi đầu tư, chia sẻ trong gia đình, danh mục tùy chỉnh. Biểu đồ đẹp mắt. Phù hợp nhất nếu bạn muốn một công cụ nhẹ nhàng kiểu \"tiền đã đi đâu\", còn tính năng lập ngân sách chỉ là tùy chọn.",
+      "pros": [
+        "Chia sẻ trong gia đình, tiện cho các cặp đôi",
+        "Theo dõi tài sản ròng gồm cả đầu tư"
+      ],
+      "cons": [
+        "Ít ràng buộc hơn YNAB — dễ phớt lờ cảnh báo"
+      ]
+    },
+    "copilot-budgeting": {
+      "badge": "🎨 Trải nghiệm tốt nhất",
+      "review": "Copilot Money, giá 13 USD/tháng hoặc 95 USD/năm, ưu tiên iOS và có giao diện đẹp nhất trong nhóm. Phân loại bằng AI đạt độ chính xác 94%, cao nhất hiện nay. Tích hợp Apple Card ở mức gốc. Phù hợp nhất cho người dùng Apple coi trọng thiết kế và muốn ít phải sửa tay.",
+      "pros": [
+        "Trải nghiệm và phân loại tự động tốt nhất",
+        "Hỗ trợ Apple Card nguyên bản"
+      ],
+      "cons": [
+        "Chỉ có trên iOS — không có Android hay bản web"
+      ]
+    },
+    "every-dollar-app": {
+      "badge": "🆓 Gói miễn phí tốt nhất",
+      "review": "Gói miễn phí của EveryDollar là app ngân sách miễn phí duy nhất còn dùng được trọn vẹn sau thời Mint. Bản miễn phí chỉ nhập giao dịch thủ công; muốn đồng bộ ngân hàng phải lên Premium (80 USD/năm). Phù hợp nhất nếu bạn chấp nhận bỏ 5 phút mỗi ngày nhập giao dịch để không tốn đồng nào.",
+      "pros": [
+        "Miễn phí thật sự nếu chấp nhận nhập tay",
+        "Công cụ trả nợ kiểu \"quả cầu tuyết\" theo phương pháp Ramsey"
+      ],
+      "cons": [
+        "Muốn đồng bộ ngân hàng phải trả 80 USD/năm cho gói Premium"
+      ]
+    },
+    "rocket-money": {
+      "badge": "🔍 Tốt nhất để quản lý gói đăng ký",
+      "review": "Thế mạnh của Rocket Money là tự phát hiện những gói đăng ký bạn đã quên và đề nghị hủy giúp. Dịch vụ đàm phán hóa đơn lấy 40% khoản tiết kiệm năm đầu. Đây không hẳn là app lập ngân sách, mà là công cụ \"tìm ra chỗ bạn đang phí tiền\". Giá 3-12 USD/tháng.",
+      "pros": [
+        "Tự động phát hiện các gói đăng ký bị lãng quên",
+        "Đàm phán hóa đơn có thể tiết kiệm thật"
+      ],
+      "cons": [
+        "Cắt 40% tiền tiết kiệm từ đàm phán là quá nặng"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ynab-app": "Gói năm 109 USD; gói tháng 15 USD — trả theo năm tiết kiệm 71 USD/năm nếu bạn dùng lâu dài.",
+    "monarch-money": "Miễn phí tháng đầu — hãy kiểm tra Plaid có đồng bộ được với ngân hàng của bạn trước khi cam kết.",
+    "copilot-budgeting": "Chọn gói năm (95 USD) — gói tháng 13 USD là phương án tốn kém nhất.",
+    "every-dollar-app": "Premium (80 USD) mở khóa đồng bộ ngân hàng, nhưng chất lượng đồng bộ của EveryDollar thua Monarch.",
+    "rocket-money": "Tự đặt mức phí bạn muốn trả — mặc định \"trả tùy tâm\" 3-12 USD của app thường ngầm đẩy bạn chọn mức cao hơn."
+  },
+  "pinDescription": "Tiêu hết lương mỗi tháng mà không biết tiền đi đâu? So sánh 5 app quản lý chi tiêu: YNAB, Monarch, Copilot, EveryDollar và Rocket Money — cái nào hợp với ví của bạn?",
+  "recommendedFor": [
+    {
+      "label": "Người tháng nào cũng tiêu hết sạch lương",
+      "offerId": "ynab-app",
+      "reason": "Phương pháp từ số 0 của YNAB giao nhiệm vụ cho từng đồng trước khi bạn tiêu, phá vỡ trực tiếp vòng lặp tiêu hết lương mỗi tháng."
+    },
+    {
+      "label": "Các cặp đôi và gia đình quản lý tiền chung",
+      "offerId": "monarch-money",
+      "reason": "Tính năng chia sẻ gia đình có sẵn của Monarch cho phép hai người cùng xem một bộ tài khoản và ngân sách theo thời gian thực, không cần mẹo lách nào."
+    },
+    {
+      "label": "Người dùng iPhone muốn theo dõi mà không phải động tay",
+      "offerId": "copilot-budgeting",
+      "reason": "Độ chính xác phân loại bằng AI 94% trên iOS của Copilot đồng nghĩa gần như không phải sửa tay, còn Apple Card thì đồng bộ nguyên bản."
+    },
+    {
+      "label": "Người mới bắt đầu, không muốn tốn tiền cho app",
+      "offerId": "every-dollar-app",
+      "reason": "Gói miễn phí của EveryDollar là lựa chọn 0 đồng duy nhất còn dùng được trọn vẹn sau thời Mint, chỉ tốn 5 phút nhập tay mỗi ngày."
+    },
+    {
+      "label": "Người đang trả tiền cho hàng loạt gói đăng ký đã quên",
+      "offerId": "rocket-money",
+      "reason": "Rocket Money tự động phát hiện và hủy các gói đăng ký bị lãng quên, tìm ra khoản tiền đang lãng phí mà bạn không cần rà soát thủ công."
+    }
+  ]
 }

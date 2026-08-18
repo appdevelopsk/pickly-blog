@@ -121,5 +121,32 @@
     "vantrue-n4-3ch": "Mua tại amazon.com. Khuyến nghị bộ đấu dây ($30) — hỗ trợ chế độ đỗ xe chỉ theo va chạm ngay từ đầu.",
     "viofo-a129-pro-duo": "Mua tại amazon.com hoặc viofo.com. Bộ đấu dây ($25) hỗ trợ chế độ đỗ xe."
   },
-  "pinDescription": "Camera hành trình tốt nhất 2026: Garmin 67W vs Nextbase 622GW vs BlackVue DR900X vs Vantrue N4 vs Viofo A129 Pro — thử nghiệm 8,000 dặm, khả năng đọc biển số + chịu nhiệt."
+  "pinDescription": "Camera hành trình tốt nhất 2026: Garmin 67W vs Nextbase 622GW vs BlackVue DR900X vs Vantrue N4 vs Viofo A129 Pro — thử nghiệm 8,000 dặm, khả năng đọc biển số + chịu nhiệt.",
+  "recommendedFor": [
+    {
+      "label": "Tài xế chạy xe công nghệ cần bao quát toàn xe",
+      "offerId": "vantrue-n4-3ch",
+      "reason": "Ba camera ghi hình đồng thời phía trước, trong khoang và phía sau, kèm hồng ngoại quay ban đêm bên trong — thứ gần như bắt buộc với tài xế Grab, Be hay Xanh SM."
+    },
+    {
+      "label": "Người sống ở thành phố, đỗ xe ngoài trời qua đêm",
+      "offerId": "blackvue-dr900x-2ch",
+      "reason": "Cảnh báo qua đám mây theo thời gian thực báo thẳng về điện thoại ngay khi có ai va vào xe, nên bạn vẫn xử lý được sự cố dù đang ở cách đó vài con phố."
+    },
+    {
+      "label": "Người rành công nghệ, thích điều khiển rảnh tay",
+      "offerId": "garmin-dash-cam-67w",
+      "reason": "Ra lệnh bằng giọng nói nhận diện ổn định, lưu đoạn video mà không cần chạm vào máy; thêm định vị GPS và cảnh báo lái xe đúng chất Garmin."
+    },
+    {
+      "label": "Người đi làm hằng ngày, đặt an toàn lên trước",
+      "offerId": "nextbase-622gw",
+      "reason": "Tính năng SOS Response tự động báo cho dịch vụ cứu hộ khi có va chạm mạnh — một điểm hiếm có, rất đáng giá khi bạn đi một mình hoặc chạy đường vắng."
+    },
+    {
+      "label": "Người muốn tiết kiệm, xe chạy ở vùng khí hậu ôn hòa",
+      "offerId": "viofo-a129-pro-duo",
+      "reason": "Cho hình 2K cả trước lẫn sau với giá chỉ khoảng một nửa BlackVue, đủ để có camera kép mà không phải chi quá tay."
+    }
+  ]
 }

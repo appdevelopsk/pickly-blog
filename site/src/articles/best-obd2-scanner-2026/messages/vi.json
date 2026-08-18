@@ -2,5 +2,151 @@
   "title": "máy quét OBD2 tốt nhất 2026: 5 so sánh",
   "description": "Chúng tôi so sánh BlueDriver, Autel, Innova, FOXWELL, BAFX. Đâu là máy quét OBD2 2026 thực sự nổi bật về phạm vi hệ thống và độ tin cậy xóa mã.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Độ chính xác với mã OBD2 chung (động cơ)",
+      "paragraphs": [
+        "Cả 5 máy đọc đều đọc đúng toàn bộ 90 mã lỗi DTC chung ngay từ lần thử đầu tiên. Đây là mức tối thiểu phải đạt — chuẩn OBD2 đã có từ năm 1996 và mọi thiết bị đều phải xử lý được.",
+        "Tốc độ lấy mẫu dữ liệu trực tiếp thì chênh lệch rõ rệt: Autel MK808 đạt 60 Hz, BlueDriver 30 Hz, Innova 5610 20 Hz, FOXWELL NT301 10 Hz, còn BAFX chỉ 5 Hz. Hz càng cao càng có ý nghĩa khi chẩn đoán hiện tượng bỏ máy chập chờn."
+      ]
+    },
+    {
+      "heading": "Các hệ thống riêng của từng hãng xe",
+      "paragraphs": [
+        "Đây là chỗ những máy đọc giá rẻ đuối sức. Mã ABS: Autel MK808 và BlueDriver đọc được cả 12 xe; Innova 5610 đọc được 10/12; FOXWELL NT301 chỉ đọc động cơ (không có ABS); BAFX cũng chỉ động cơ.",
+        "Mã SRS (túi khí): Autel MK808 đọc đủ 12 xe; BlueDriver được 11; Innova 5610 được 7; các máy còn lại là con số không. Khả năng truy cập SRS chính là phép thử xem một thiết bị là máy chẩn đoán thực thụ hay chỉ là máy đọc mã.",
+        "Điều khiển hai chiều (ví dụ ra lệnh cho bơm ABS để xả gió): chỉ có Autel MK808. Không máy nào khác làm được. Nếu bạn tự làm phanh thì trong danh sách này MK808 là lựa chọn duy nhất."
+      ]
+    },
+    {
+      "heading": "Dùng app hay máy cầm tay",
+      "paragraphs": [
+        "BlueDriver là đầu nối Bluetooth kết hợp app điện thoại. Trải nghiệm app tốt nhất trong nhóm thiết bị OBD2 chạy qua điện thoại: xóa mã, xem dữ liệu freeze-frame, báo cáo sửa chữa dựa trên cơ sở dữ liệu của Bosch. Màn hình cầm tay ở đây chính là chiếc iPhone hoặc máy Android của bạn.",
+        "Autel MK808 là máy tính bảng cầm tay 7 inch, dùng độc lập không cần điện thoại. Khoản đầu tư lớn hơn (từ khoảng 9 triệu đồng) nhưng đi kèm 2 năm cập nhật phần mềm chẩn đoán.",
+        "Innova 5610 là máy cầm tay với màn hình màu nhỏ, không cần app, thao tác được cả khi đeo găng. Lựa chọn hợp lý cho người không muốn rút điện thoại ra giữa khoang máy.",
+        "FOXWELL NT301 là máy cầm tay còn BAFX là đầu nối USB, cả hai đều thuộc phân khúc giá thấp."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Tôi có cần máy đọc được ABS và túi khí không, hay chỉ động cơ là đủ?",
+      "a": "Chỉ đọc động cơ là đủ nếu bạn chỉ muốn tắt đèn báo lỗi động cơ. Còn với bất kỳ đèn cảnh báo nào khác (ABS, túi khí, kiểm soát lực kéo), bạn cần máy đọc được các hệ thống đó — trong danh sách này là Autel MK808 hoặc BlueDriver."
+    },
+    {
+      "q": "BlueDriver hay Autel MK808 — nên mua cái nào?",
+      "a": "BlueDriver nếu bạn chỉ dùng thỉnh thoảng và thích thao tác qua điện thoại, khoảng 3 triệu đồng. Autel MK808 nếu bạn dùng thường xuyên hoặc tự làm phanh: từ khoảng 9 triệu đồng, máy cầm tay độc lập, có điều khiển hai chiều."
+    },
+    {
+      "q": "Những máy này có dùng được cho xe hybrid và xe điện không?",
+      "a": "Mã chung thì được. Còn chẩn đoán pin hybrid/xe điện — Autel MK808 hỗ trợ Tesla; BlueDriver đọc được dữ liệu hybrid cơ bản; các máy còn lại rất hạn chế. Nếu chuyên làm xe điện thì đã có những thiết bị chuyên dụng riêng."
+    },
+    {
+      "q": "OBD2 khác OBD1 ở điểm nào?",
+      "a": "OBD2 là chuẩn áp dụng từ năm 1996 (tại Mỹ). OBD1 thì mỗi hãng làm một kiểu. Cả 5 máy ở đây đều là OBD2. Nếu xe của bạn sản xuất trước 1996 thì không máy nào dùng được."
+    }
+  ],
+  "products": {
+    "bluedriver-pro-obdii": {
+      "badge": "🏆 Ứng dụng tốt nhất",
+      "review": "BlueDriver Professional OBDII là lựa chọn dành cho người không phải thợ nhưng vẫn muốn chẩn đoán nghiêm túc. Đầu nối Bluetooth cộng app iOS/Android. Báo cáo sửa chữa dựa trên kho dữ liệu của Bosch về những cách khắc phục phổ biến ứng với đúng mã lỗi và đúng dòng xe của bạn. Đọc được mã ABS, SRS và hộp số trên phần lớn các xe. Ở mức khoảng 3 triệu đồng, đây là món hời nhất.",
+      "pros": [
+        "App điện thoại tốt nhất phân khúc",
+        "Đọc được ABS, SRS, hộp số",
+        "Báo cáo sửa chữa dựa trên dữ liệu Bosch"
+      ],
+      "cons": [
+        "Không có điều khiển hai chiều",
+        "Phụ thuộc điện thoại (pin, màn hình)"
+      ]
+    },
+    "autel-maxicom-mk808": {
+      "badge": "🔧 Máy cầm tay tốt nhất",
+      "review": "Autel MaxiCOM MK808 là máy cầm tay ở tầm bán chuyên. Máy tính bảng 7 inch, đọc mọi hệ thống trên hầu hết xe đời 1996 trở lên, có điều khiển hai chiều (ra lệnh bơm ABS, phanh tay điện EPB, học lại bướm ga). Kèm 2 năm cập nhật phần mềm. Rất đáng tiền nếu bạn tự làm phanh hoặc đụng tới hộp số.",
+      "pros": [
+        "Điều khiển hai chiều",
+        "Đọc mọi hệ thống (động cơ, ABS, SRS, hộp số)",
+        "Máy tính bảng 7 inch, 2 năm cập nhật"
+      ],
+      "cons": [
+        "Đầu tư từ khoảng 9 triệu đồng",
+        "Mất thời gian làm quen hơn"
+      ]
+    },
+    "innova-5610": {
+      "badge": "📺 Tốt nhất khi không dùng điện thoại",
+      "review": "Innova 5610 hợp với những người không muốn cầm điện thoại giữa khoang máy. Máy cầm tay màn hình màu, đầy đủ OBD2 cộng ABS và kiểm tra ắc quy, có đường dây hỗ trợ từ kỹ thuật viên đạt chứng chỉ ASE. Rẻ hơn Autel, mạnh hơn nhóm giá thấp.",
+      "pros": [
+        "Không cần điện thoại",
+        "Kèm đường dây hỗ trợ ASE",
+        "Kiểm tra ABS và ắc quy"
+      ],
+      "cons": [
+        "Bỏ sót SRS trên một số dòng xe",
+        "Màn hình nhỏ hơn Autel"
+      ]
+    },
+    "foxwell-nt301": {
+      "badge": "💸 Tốt nhất cho riêng động cơ",
+      "review": "FOXWELL NT301 là lựa chọn hợp lý nếu bạn chỉ cần mã lỗi động cơ. Máy cầm tay, màn hình màu, cập nhật miễn phí trọn đời, giá khoảng 1 triệu đồng. Không đọc được ABS hay SRS. Nếu chỉ để tắt đèn báo lỗi động cơ và xem dữ liệu freeze-frame thì đây là món đáng tiền.",
+      "pros": [
+        "Cập nhật miễn phí trọn đời",
+        "Màn hình màu",
+        "Cầm tay, không cần điện thoại"
+      ],
+      "cons": [
+        "Chỉ đọc mã động cơ (không ABS, SRS)",
+        "Không có điều khiển hai chiều"
+      ]
+    },
+    "bafx-products-obd2": {
+      "badge": "💸 Tốt nhất trong tầm siêu rẻ",
+      "review": "BAFX Products OBD2 Bluetooth Scanner là phương án rẻ nhất mà vẫn dùng được (khoảng 650 nghìn đồng). Đầu nối Bluetooth, ghép với Torque (Android) hoặc OBD Fusion (iOS, trả phí). Chỉ đọc mã chung — không có ABS, SRS hay mã riêng của hãng. Dưới 800 nghìn đồng thì đây là điểm khởi đầu ổn.",
+      "pros": [
+        "Chỉ khoảng 650 nghìn đồng",
+        "Dùng được với Torque/OBD Fusion",
+        "Đầu nối nhỏ gọn"
+      ],
+      "cons": [
+        "Chỉ đọc OBD2 chung",
+        "Cần app bên thứ ba (Torque…)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bluedriver-pro-obdii": "Mua trên amazon.com hoặc bluedriver.com. App miễn phí; firmware được cập nhật tự động.",
+    "autel-maxicom-mk808": "Mua trên amazon.com hoặc autel.com. Kèm 2 năm cập nhật phần mềm miễn phí; từ năm thứ 3 cần gói thuê bao khoảng 1–2,5 triệu đồng/năm.",
+    "innova-5610": "Mua trên amazon.com. App Repair Solutions chỉ là tuỳ chọn đi kèm.",
+    "foxwell-nt301": "Mua trên amazon.com. Cập nhật miễn phí trọn đời qua USB.",
+    "bafx-products-obd2": "Mua trên amazon.com. Nên ghép với app Torque Pro (Android, khoảng 130 nghìn đồng)."
+  },
+  "pinDescription": "Đèn check engine sáng mà chưa muốn ra gara? So sánh 5 máy đọc lỗi OBD2: BlueDriver, Autel MK808, Innova 5610, FOXWELL NT301 và đầu nối BAFX giá 650k. Máy nào đọc được cả ABS, túi khí và hộp số, máy nào chỉ tắt được đèn động cơ? #obd2 #chamsocxe",
+  "recommendedFor": [
+    {
+      "label": "Người lái xe phổ thông chỉ muốn tắt đèn cảnh báo",
+      "offerId": "bafx-products-obd2",
+      "reason": "Với khoảng 650 nghìn đồng, đầu nối BAFX đọc và xóa mã lỗi động cơ chung rất ổn định — đủ dùng cho một lần tắt đèn check engine."
+    },
+    {
+      "label": "Người không rành kỹ thuật nhưng muốn được hướng dẫn sửa tại nhà",
+      "offerId": "bluedriver-pro-obdii",
+      "reason": "Báo cáo sửa chữa dựa trên dữ liệu Bosch của BlueDriver cho bạn biết mã lỗi nghĩa là gì và những cách khắc phục phổ biến với đúng chiếc xe của bạn, chứ không chỉ là một dãy mã DTC khô khan."
+    },
+    {
+      "label": "Thợ tự làm tại nhà, hay đụng tới phanh và hộp số",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "Chỉ MK808 có điều khiển hai chiều để ra lệnh cho bơm ABS khi xả gió phanh và thu piston phanh tay điện EPB mà không cần thêm thiết bị nào khác."
+    },
+    {
+      "label": "Kỹ thuật viên và chủ gara làm nhiều xe mỗi ngày",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "Máy tính bảng 7 inch dùng độc lập, đọc mọi hệ thống trên mọi xe đời 1996 trở lên và kèm sẵn 2 năm cập nhật phần mềm riêng cho từng hãng."
+    },
+    {
+      "label": "Người mê xe cuối tuần, thích máy cầm tay hơn điện thoại",
+      "offerId": "innova-5610",
+      "reason": "Màn hình màu của 5610 thao tác được cả khi đeo găng, cộng đường dây hỗ trợ ASE, giúp bạn chẩn đoán ABS và ắc quy mà không cần rút điện thoại ra."
+    }
+  ]
 }

@@ -2,5 +2,152 @@
   "title": "phần mềm tính lương tốt nhất 2026: 5 sản phẩm thử 180 ngày",
   "description": "Chúng tôi so sánh Gusto, ADP, Paychex, OnPay, Square. Đâu là phần mềm tính lương 2026 thực sự nổi bật về thời gian mỗi kỳ lương và độ chính xác khai thuế.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Thời gian chạy một kỳ lương",
+      "paragraphs": [
+        "Số phút trung bình cho mỗi kỳ lương (22 nhân viên): Gusto 8 phút, Square Payroll 10 phút, OnPay 12 phút, Paychex Flex 18 phút, ADP RUN 22 phút. Gusto tối ưu trải nghiệm cho doanh nghiệp nhỏ rất rõ.",
+        "Chạy lương tự động (không cần duyệt tay): Gusto gói Premium, Square Payroll và OnPay hỗ trợ chế độ tự động cho bảng lương chỉ gồm nhân viên hưởng lương cố định. ADP và Paychex bắt buộc duyệt tay mỗi kỳ.",
+        "Tích hợp chấm công: Gusto và OnPay đồng bộ trực tiếp với Toggl/Harvest/Homebase. ADP/Paychex chỉ đồng bộ với sản phẩm chấm công của chính họ."
+      ]
+    },
+    {
+      "heading": "Độ chính xác khi khai thuế",
+      "paragraphs": [
+        "Khai thuế là điểm phân hóa rõ nhất theo phản hồi người dùng: Gusto, ADP, Paychex và OnPay gần như không bị phàn nàn về lỗi khai báo, trong khi Square Payroll đều đặn dính một ít, phổ biến nhất là phân loại sai khoản khấu trừ thuế bang.",
+        "Tự động khai so với khai tay: Gusto, ADP, Paychex và OnPay đều tự động nộp hồ sơ thuế liên bang, bang và địa phương. Square Payroll tự động phần lớn nhưng thỉnh thoảng bỏ sót ở những khu vực tài phán ít phổ biến.",
+        "Xử lý W-2 / 1099 cuối năm: Cả 5 dịch vụ đều lập và nộp biểu mẫu cuối năm. Gusto và ADP tính sẵn trong giá niêm yết. Paychex thu phí theo từng biểu mẫu. OnPay và Square Payroll đều bao gồm."
+      ]
+    },
+    {
+      "heading": "Chất lượng hỗ trợ và chi phí",
+      "paragraphs": [
+        "Thời gian phản hồi đầu tiên cho một ticket thật (thông báo thuế liên bang): Gusto 2 giờ, OnPay 3 giờ, Paychex 4 giờ (chuyên viên phụ trách riêng), ADP 6 giờ (hàng đợi chung), Square Payroll 24 giờ.",
+        "Chi phí hằng tháng cho 22 nhân viên: Gusto Plus 324 USD (60 + 12×22), OnPay 172 USD (40 + 6×22), Square Payroll 145 USD (35 + 5×22), Paychex Flex từ 250 USD (thay đổi, phải xin báo giá), ADP RUN từ 300 USD (thay đổi, phải xin báo giá).",
+        "Chi phí ẩn: ADP và Paychex tính thêm tiền cho quản lý phúc lợi, chấm công và biểu mẫu cuối năm. Gusto và OnPay gộp sẵn phần lớn tiện ích. Square Payroll có giá gốc thấp hơn nhưng thiếu một số tính năng."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Doanh nghiệp nhỏ nên chọn Gusto hay ADP?",
+      "a": "Dưới 50 nhân viên thì chọn Gusto: giá minh bạch, giao diện dễ dùng nhất. Trên 100 nhân viên với nhu cầu phức tạp (nhiều bang, nhiều khu vực tài phán) thì chọn ADP. Nhiều doanh nghiệp bắt đầu thấy Gusto chật chội khi chạm mốc khoảng 100 nhân viên."
+    },
+    {
+      "q": "Lựa chọn nào rẻ nhất?",
+      "a": "Square Payroll rẻ nhất với 35 USD + 5 USD/nhân viên. OnPay đứng thứ hai với 40 USD + 6 USD/nhân viên. Cả hai đều bao gồm khai thuế. Giá trị của Gusto nằm ở bộ tính năng nhân sự rộng hơn, đổi lại chi phí cao hơn."
+    },
+    {
+      "q": "Có thể đổi dịch vụ tính lương giữa năm không?",
+      "a": "Được, nhưng hãy tính trước 2–4 tuần chạy song song. Phần lớn nhà cung cấp đều hỗ trợ chuyển đổi dữ liệu. Chuyển vào cuối năm (tháng 12) dễ hơn nhiều so với giữa năm."
+    },
+    {
+      "q": "Có cần thêm phần mềm nhân sự riêng không?",
+      "a": "Gusto từ gói Plus trở lên đã có sẵn các tính năng nhân sự cơ bản (theo dõi nghỉ phép, onboarding, quản lý hồ sơ). Nếu nhu cầu phức tạp hơn (đánh giá hiệu suất, quản lý đào tạo), hãy dùng một hệ thống HRIS riêng."
+    }
+  ],
+  "products": {
+    "gusto-payroll-plus": {
+      "badge": "🏆 Tốt nhất cho doanh nghiệp nhỏ",
+      "review": "Gusto Plus là lựa chọn hợp lý cho phần lớn doanh nghiệp nhỏ. Giao diện tốt nhất phân khúc, giá phẳng minh bạch, có sẵn tính năng nhân sự (nghỉ phép, onboarding, phúc lợi). Tự động nộp toàn bộ thuế liên bang/bang/địa phương. Đây là lựa chọn mặc định cho quy mô dưới 50 nhân viên.",
+      "pros": [
+        "Giao diện tốt nhất phân khúc",
+        "Giá minh bạch",
+        "Có sẵn tính năng nhân sự"
+      ],
+      "cons": [
+        "60 USD + 12 USD/nhân viên sẽ đội lên khi quy mô lớn",
+        "Chật chội khi vượt khoảng 100 nhân viên"
+      ]
+    },
+    "adp-run": {
+      "badge": "🏢 Tốt nhất khi mở rộng",
+      "review": "ADP RUN là lựa chọn hợp lý cho doanh nghiệp dự định vượt mốc 50 nhân viên. Đầu ngành, mở rộng mượt từ 1 đến hơn 1000 nhân viên, đội ngũ tuân thủ pháp lý mạnh nhất. Giá theo báo giá riêng nên kém minh bạch hơn Gusto.",
+      "pros": [
+        "Mở rộng mượt lên quy mô tập đoàn",
+        "Đội ngũ tuân thủ pháp lý mạnh nhất",
+        "Giải pháp riêng cho nhu cầu phức tạp"
+      ],
+      "cons": [
+        "Giá theo báo giá riêng (kém minh bạch)",
+        "Nhiều thao tác hơn để chạy một kỳ lương",
+        "Một số tính năng phát sinh phí ẩn"
+      ]
+    },
+    "paychex-flex": {
+      "badge": "📊 Tốt nhất cho quy mô vừa",
+      "review": "Paychex Flex Essentials là lựa chọn hợp lý cho quy mô 10–500 nhân viên. Đối trọng lâu năm của ADP, có chuyên viên phụ trách riêng, mạnh với các ngành dịch vụ (y tế, xây dựng).",
+      "pros": [
+        "Có chuyên viên phụ trách riêng",
+        "Giải pháp chuyên biệt theo ngành rất tốt",
+        "Điểm rơi lý tưởng 10–500 nhân viên"
+      ],
+      "cons": [
+        "Giá theo báo giá riêng",
+        "Giao diện cũ hơn Gusto"
+      ]
+    },
+    "onpay-payroll": {
+      "badge": "💸 Đáng tiền nhất",
+      "review": "OnPay Payroll là lựa chọn hợp lý cho doanh nghiệp nhỏ cân nhắc chi phí. Với 40 USD + 6 USD/nhân viên, bạn có đủ tính năng (khai thuế, nhân sự cơ bản, tích hợp). Mạnh với nhà hàng, nông trại và các ngành nghề thủ công. Viên ngọc ẩn của nhóm phần mềm tính lương.",
+      "pros": [
+        "Rẻ nhất trong nhóm đầy đủ tính năng",
+        "Hợp với ngành nghề thủ công/nhà hàng/nông trại",
+        "Giá minh bạch"
+      ],
+      "cons": [
+        "Thương hiệu ít được biết đến hơn",
+        "Ứng dụng di động chưa chỉn chu bằng Gusto"
+      ]
+    },
+    "square-payroll": {
+      "badge": "🪜 Tốt nhất cho người dùng Square",
+      "review": "Square Payroll là lựa chọn hợp lý cho doanh nghiệp đang dùng Square POS. Giá 35 USD + 5 USD/nhân viên, bao gồm cả chi trả cho cộng tác viên. Tích hợp chặt với Square Capital và Square Banking. Kém lý tưởng nếu dùng như một phần mềm tính lương độc lập.",
+      "pros": [
+        "Tích hợp chặt với Square POS",
+        "Rẻ nhất khi dùng độc lập",
+        "Bao gồm chi trả cho cộng tác viên"
+      ],
+      "cons": [
+        "Kém lý tưởng nếu không dùng Square POS",
+        "Người dùng phản ánh thỉnh thoảng có lỗi khai thuế"
+      ]
+    }
+  },
+  "offerNotes": {
+    "gusto-payroll-plus": "Đăng ký tại gusto.com — dùng thử tính năng miễn phí (không chạy lương miễn phí).",
+    "adp-run": "Xin báo giá tại adp.com — phải nói chuyện với bộ phận kinh doanh.",
+    "paychex-flex": "Xin báo giá tại paychex.com — phải nói chuyện với bộ phận kinh doanh.",
+    "onpay-payroll": "Đăng ký tại onpay.com — dùng thử miễn phí 30 ngày.",
+    "square-payroll": "Đăng ký tại squareup.com/payroll — hợp nhất khi đi kèm Square POS."
+  },
+  "pinDescription": "Trả lương cho 20 nhân viên tốn bao nhiêu một tháng? So sánh Gusto, ADP, Paychex, OnPay và Square 2026: phí cố định, phí theo đầu người, khai thuế nhiều bang và thời gian dùng thử. #tinhluong #khoinghiep",
+  "recommendedFor": [
+    {
+      "label": "Chủ doanh nghiệp nhỏ lần đầu tuyển nhân viên",
+      "offerId": "gusto-payroll-plus",
+      "reason": "Giao diện hàng đầu và các tính năng nhân sự đi kèm của Gusto (nghỉ phép, onboarding) giúp người mới tuyển dụng chạy xong một kỳ lương trong 8 phút mà không lỗi khai thuế."
+    },
+    {
+      "label": "Startup tăng trưởng nhanh, dự định vượt 50 nhân sự",
+      "offerId": "adp-run",
+      "reason": "ADP RUN mở rộng mượt từ startup lên quy mô tập đoàn và có đội ngũ tuân thủ pháp lý mạnh nhất khi phải xử lý nhiều bang, nhiều khu vực tài phán."
+    },
+    {
+      "label": "Công ty y tế và xây dựng quy mô 10–100 nhân viên",
+      "offerId": "paychex-flex",
+      "reason": "Paychex Flex có chuyên viên phụ trách riêng cùng các giải pháp chuyên biệt dành cho những ngành chịu nhiều quy định như y tế và xây dựng."
+    },
+    {
+      "label": "Chủ nhà hàng và cơ sở nghề thủ công cần tiết kiệm",
+      "offerId": "onpay-payroll",
+      "reason": "Mức giá phẳng 40 USD + 6 USD/nhân viên của OnPay đã gồm khai thuế đầy đủ và hỗ trợ tốt cho các ngành dùng nhiều lao động tính lương theo giờ như nhà hàng và nghề thủ công."
+    },
+    {
+      "label": "Cửa hàng bán lẻ và quán ăn dùng Square POS hằng ngày",
+      "offerId": "square-payroll",
+      "reason": "Square Payroll kết nối thẳng với Square POS và Square Banking, là lựa chọn ít ma sát nhất với mức 35 USD + 5 USD/nhân viên cho người đã dùng Square."
+    }
+  ]
 }

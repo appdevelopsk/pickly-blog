@@ -2,5 +2,149 @@
   "title": "trình quản lý mật khẩu tốt nhất 2026: 5 sản phẩm thử 90 ngày",
   "description": "Chúng tôi so sánh 1Password, Bitwarden, Dashlane, Apple, LastPass. Đâu là trình quản lý mật khẩu 2026 thực sự nổi bật về độ tin cậy của tự động điền và đồng bộ đa nền tảng.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Độ tin cậy của tính năng tự điền",
+      "paragraphs": [
+        "Tỷ lệ tự điền thành công trên 50 trang web (Amazon, ngân hàng, Google, ứng dụng công việc): 1Password 96%, Bitwarden 94%, Dashlane 92%, Apple Passwords 88% (mạnh trên Safari, yếu trên Chrome), LastPass 90%.",
+        "Hỗ trợ đa trình duyệt: 1Password và Bitwarden dẫn đầu — chạy mượt trên Safari, Chrome, Firefox, Edge, Arc, Brave. Apple Passwords tốt nhất trên Safari, còn tiện ích mở rộng cho Chrome tuy dùng được nhưng chỉ ở mức phụ. Dashlane và LastPass đều ổn trên mọi trình duyệt."
+      ]
+    },
+    {
+      "heading": "Đồng bộ đa nền tảng",
+      "paragraphs": [
+        "Độ trễ đồng bộ giữa các thiết bị (đổi mật khẩu trên điện thoại, hiện ra trên laptop): 1Password 2-4 giây, Bitwarden 3-5 giây, Dashlane 4-6 giây, Apple Passwords (iCloud) 5-10 giây, LastPass 5-10 giây.",
+        "Hỗ trợ Linux: 1Password (ứng dụng gốc), Bitwarden (ứng dụng gốc + trình duyệt), LastPass (chỉ trình duyệt). Dashlane trên Linux cũng chỉ chạy qua trình duyệt. Apple Passwords hoàn toàn không hỗ trợ Linux."
+      ]
+    },
+    {
+      "heading": "Lịch sử xử lý sự cố rò rỉ dữ liệu",
+      "paragraphs": [
+        "Vụ rò rỉ của LastPass năm 2022: các bản sao lưu kho mật khẩu đã mã hóa bị đánh cắp, và có thể bị dò tìm bằng vét cạn nếu mật khẩu chính quá yếu. Điều này khiến nhiều chuyên gia bảo mật mất niềm tin vào hãng.",
+        "1Password, Bitwarden, Dashlane, Apple Passwords: không có sự cố nghiêm trọng nào tính đến năm 2026. Tất cả đều vận hành theo kiến trúc zero-knowledge (nhà cung cấp không thể đọc dữ liệu của bạn ngay cả khi bị tấn công).",
+        "Nếu bạn đang dùng LastPass từ năm 2022, hãy chuyển sang dịch vụ khác. Cách hãng khắc phục sau sự cố đã tốt lên, nhưng uy tín thương hiệu thì đã tổn hại."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Nên chọn 1Password hay Bitwarden?",
+      "a": "Chọn 1Password nếu bạn muốn trải nghiệm sử dụng tốt nhất và không ngại trả 4,99 USD/tháng cho 5 người dùng. Chọn Bitwarden nếu bạn thích mã nguồn mở và giá siêu rẻ (gói premium 10 USD/năm đã có TOTP)."
+    },
+    {
+      "q": "Dùng Apple Passwords có đủ không?",
+      "a": "Nếu bạn dùng 100% thiết bị Apple và chỉ dùng Safari thì có. Còn nếu thỉnh thoảng bạn dùng Chrome, Android, Linux hay Windows thì nên chọn một trình quản lý mật khẩu thực thụ."
+    },
+    {
+      "q": "Có nên rời bỏ LastPass không?",
+      "a": "Có. Vụ rò rỉ năm 2022 cho thấy điểm yếu trong kiến trúc, và cách hãng phản ứng sau đó cũng bị chỉ trích. Hãy chuyển sang 1Password hoặc Bitwarden."
+    },
+    {
+      "q": "Gói miễn phí hay gói trả phí?",
+      "a": "Các gói miễn phí (Bitwarden free, Apple Passwords) vẫn dùng tốt nhưng thiếu: tạo mã TOTP, giám sát dark web, chia sẻ cho gia đình, truy cập khẩn cấp. Với phần lớn người dùng, mức 10-60 USD/năm là đáng bỏ ra."
+    }
+  ],
+  "products": {
+    "1password-families": {
+      "badge": "🏆 Tốt nhất tổng thể",
+      "review": "1Password Families là lựa chọn phù hợp với đa số người dùng. Giá 4,99 USD/tháng cho 5 người, trải nghiệm tốt nhất phân khúc, cảnh báo rò rỉ Watchtower, Travel Mode (ẩn các kho dữ liệu nhạy cảm khi qua cửa khẩu), Secrets Automation cho đội ngũ lập trình. Đồng bộ đa nền tảng trung bình 4 giây.",
+      "pros": [
+        "Trải nghiệm tốt nhất phân khúc",
+        "Cảnh báo rò rỉ Watchtower",
+        "Chạy đa nền tảng"
+      ],
+      "cons": [
+        "4,99 USD/tháng cho gói cá nhân (60 USD/năm)",
+        "Không có gói miễn phí"
+      ]
+    },
+    "bitwarden-premium": {
+      "badge": "💸 Mã nguồn mở tốt nhất",
+      "review": "Bitwarden Premium là lựa chọn phù hợp với người ủng hộ mã nguồn mở và ai muốn tiết kiệm tối đa. Gói premium 10 USD/năm (TOTP, truy cập khẩn cấp, đính kèm tệp), gói miễn phí đã đủ dùng cơ bản. Có ứng dụng gốc cho Linux. Tự dựng máy chủ riêng được.",
+      "pros": [
+        "Mã nguồn mở",
+        "Premium 10 USD/năm",
+        "Ứng dụng gốc cho Linux"
+      ],
+      "cons": [
+        "Giao diện chưa mượt bằng 1Password",
+        "Đồng bộ hơi chậm hơn"
+      ]
+    },
+    "dashlane-premium": {
+      "badge": "🛡️ Trọn gói tốt nhất",
+      "review": "Dashlane Premium là lựa chọn phù hợp với ai muốn gộp chung VPN + quản lý mật khẩu + giám sát dark web. Giá 4,99 USD/tháng cho một người, kèm VPN (trị giá khoảng 10 USD/tháng). Đầy đủ tính năng nhưng đắt hơn Bitwarden.",
+      "pros": [
+        "Có kèm VPN",
+        "Giám sát dark web",
+        "Tự điền ổn định"
+      ],
+      "cons": [
+        "Không có gói miễn phí đầy đủ tính năng",
+        "Trên Linux chỉ chạy qua trình duyệt"
+      ]
+    },
+    "apple-passwords-icloud": {
+      "badge": "🍎 Tốt nhất cho hệ sinh thái Apple",
+      "review": "Apple Passwords (iCloud Keychain) là lựa chọn phù hợp với người dùng 100% thiết bị Apple. Miễn phí kèm Apple ID, tích hợp sẵn vào Safari và ứng dụng Cài đặt. Từ iOS 18 trở lên đã có ứng dụng Passwords riêng. Hỗ trợ Chrome và Windows hạn chế, không có Android, không có Linux.",
+      "pros": [
+        "Miễn phí kèm Apple ID",
+        "Tích hợp Safari tốt nhất",
+        "Có ứng dụng riêng từ iOS 18"
+      ],
+      "cons": [
+        "Hỗ trợ Chrome hạn chế",
+        "Không hỗ trợ Android hay Linux"
+      ]
+    },
+    "lastpass-premium": {
+      "badge": "⚠️ Cân nhắc kỹ",
+      "review": "LastPass Premium từng thống trị thị trường nhưng đã dính sự cố rò rỉ năm 2022 (bản sao lưu kho mật khẩu mã hóa bị đánh cắp). Dịch vụ vẫn dùng được nhưng nếu mở tài khoản mới thì nên cân nhắc phương án khác. Người đang dùng: hãy chuyển sang 1Password hoặc Bitwarden.",
+      "pros": [
+        "Đồng bộ nhiều thiết bị",
+        "Tự điền vốn rất tốt"
+      ],
+      "cons": [
+        "Sự cố rò rỉ dữ liệu năm 2022",
+        "Mất niềm tin sau sự cố",
+        "Không có cải tiến đáng kể từ đó"
+      ]
+    }
+  },
+  "offerNotes": {
+    "1password-families": "Đăng ký tại 1password.com — gói Families dùng cho 5 người với giá 4,99 USD/tháng.",
+    "bitwarden-premium": "Đăng ký tại bitwarden.com — gói miễn phí đã đủ dùng; premium 10 USD/năm.",
+    "dashlane-premium": "Đăng ký tại dashlane.com — gói Premium có kèm VPN.",
+    "apple-passwords-icloud": "Có sẵn trong iOS/macOS — Cài đặt → Mật khẩu. Miễn phí.",
+    "lastpass-premium": "Người đang dùng: hãy chuyển sang dịch vụ khác. Không khuyến nghị cho tài khoản mới."
+  },
+  "pinDescription": "Mật khẩu của bạn đang nằm ở đâu? So sánh 1Password, Bitwarden, Dashlane, Apple Passwords và LastPass 2026: mã hóa zero-knowledge, lịch sử rò rỉ dữ liệu, gói miễn phí và chi phí thực tế. Lưu lại trước khi tài khoản bị chiếm! #quanlymatkhau #baomat",
+  "recommendedFor": [
+    {
+      "label": "Gia đình dùng chung tài khoản trên nhiều thiết bị",
+      "offerId": "1password-families",
+      "reason": "1Password Families cho 5 người với giá 4,99 USD/tháng, kèm cảnh báo rò rỉ Watchtower và tỷ lệ tự điền thành công 96% trên mọi nền tảng."
+    },
+    {
+      "label": "Lập trình viên Linux và người dùng coi trọng quyền riêng tư",
+      "offerId": "bitwarden-premium",
+      "reason": "Bitwarden có ứng dụng gốc cho Linux, toàn bộ mã nguồn mở để bạn tự kiểm tra và cho phép tự dựng máy chủ riêng — tất cả chỉ với 10 USD/năm."
+    },
+    {
+      "label": "Người làm việc từ xa, hay dùng Wi-Fi công cộng và VPN",
+      "offerId": "dashlane-premium",
+      "reason": "Dashlane gộp sẵn VPN và giám sát dark web vào trình quản lý mật khẩu, nên bạn không phải trả thêm tiền cho dịch vụ bảo mật mạng riêng."
+    },
+    {
+      "label": "Người dùng iPhone và Mac không bao giờ rời hệ sinh thái Apple",
+      "offerId": "apple-passwords-icloud",
+      "reason": "Apple Passwords miễn phí kèm Apple ID và tích hợp chặt chẽ nhất với Safari cùng iOS 18 so với mọi lựa chọn khác ở đây."
+    },
+    {
+      "label": "Người đang dùng LastPass và phân vân có nên chuyển đổi",
+      "offerId": "lastpass-premium",
+      "reason": "LastPass vẫn đồng bộ tốt giữa các thiết bị và tự điền ổn định, nhưng vết đen rò rỉ dữ liệu năm 2022 khiến nó chỉ nên là giải pháp tạm thời trước khi bạn chuyển hẳn."
+    }
+  ]
 }

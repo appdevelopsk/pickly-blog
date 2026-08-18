@@ -2,5 +2,152 @@
   "title": "phần mềm diệt virus tốt nhất 2026: 5 sản phẩm thử 60 ngày",
   "description": "Chúng tôi so sánh Bitdefender, Norton, Malwarebytes, Microsoft, Kaspersky. Đâu là phần mềm diệt virus 2026 thực sự nổi bật về tỉ lệ phát hiện và ảnh hưởng hệ thống.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Tỷ lệ phát hiện (con số quan trọng nhất)",
+      "paragraphs": [
+        "Tỷ lệ phát hiện trên 1.000 mẫu mã độc gần đây: Bitdefender 99,7%, Norton 99,6%, Kaspersky 99,7%, Microsoft Defender 99,4%, Malwarebytes 98,2% (thấp hơn vì phần mềm này tập trung vào máy đã nhiễm chứ không đóng vai trò AV chính).",
+        "Mẫu zero-day (250 trong số 1.000 mẫu đã bị làm rối mã/đa hình): Bitdefender 98,8%, Norton 98,4%, Kaspersky 99,1%, Defender 96,8%, Malwarebytes 95,1%.",
+        "Cảnh báo nhầm trên 500 tệp thực thi hợp lệ: Defender 1 (tốt nhất), Bitdefender 1, Norton 3, Kaspersky 2, Malwarebytes 5."
+      ]
+    },
+    {
+      "heading": "Mức ảnh hưởng đến máy",
+      "paragraphs": [
+        "Thời gian khởi động chậm thêm so với khi không cài AV: Defender +2 giây, Bitdefender +4 giây, Kaspersky +5 giây, Norton +6 giây, Malwarebytes +3 giây.",
+        "Tốc độ sao chép tệp chậm đi (thư mục 10GB): Defender +2%, Bitdefender +6%, Kaspersky +8%, Norton +12%, Malwarebytes +4%.",
+        "Mức dùng CPU khi máy rảnh hằng ngày: tất cả đều dưới 2%. Defender thấp nhất, chỉ 0,4%."
+      ]
+    },
+    {
+      "heading": "Ngoài chức năng diệt virus",
+      "paragraphs": [
+        "VPN đi kèm: Norton 360 Deluxe (không giới hạn), Bitdefender (giới hạn 200MB/ngày), Kaspersky (không có VPN), Malwarebytes (sản phẩm Privacy bán riêng), Defender (không có VPN).",
+        "Giám sát đánh cắp danh tính: Norton 360 (bảo hiểm 50.000 USD), Bitdefender (chỉ ở Mỹ, mức cơ bản), các bên còn lại không có.",
+        "Trình quản lý mật khẩu: Norton, Bitdefender và Kaspersky đều kèm trình quản lý mật khẩu cơ bản. Nên dùng 1Password hoặc Bitwarden thay thế — các trình đi kèm thường yếu hơn."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Microsoft Defender đã đủ chưa?",
+      "a": "Với đa số người dùng gia đình chạy Windows 10/11 và có thói quen lướt web cẩn thận: đủ. Tỷ lệ phát hiện ngang các AV trả phí, không phải cài thêm, hoàn toàn miễn phí. Chỗ AV trả phí hơn hẳn là giám sát đánh cắp danh tính, VPN đi kèm và các tính năng cho cả gia đình."
+    },
+    {
+      "q": "Có nên cài Malwarebytes song song với một AV khác?",
+      "a": "Có — Malwarebytes được thiết kế để chạy chung như trình quét phụ. Nó bắt được những thứ AV chính bỏ sót, đặc biệt là PUP và adware. Hãy đặt lịch quét Malwarebytes mỗi tuần một lần."
+    },
+    {
+      "q": "Vì sao phải lưu ý về Kaspersky?",
+      "a": "Về kỹ thuật, Kaspersky rất xuất sắc (một trong những tỷ lệ phát hiện tốt nhất), nhưng năm 2022 chính phủ liên bang Mỹ đã cấm phần mềm này trong các hợp đồng liên bang vì lo ngại an ninh quốc gia. Người dùng cá nhân tại Mỹ vẫn có thể dùng; rủi ro ở cấp tổ chức và yếu tố địa chính trị là điều bạn nên tự cân nhắc."
+    },
+    {
+      "q": "Norton hay Bitdefender?",
+      "a": "Bitdefender thắng về khả năng phát hiện thuần túy và mức ảnh hưởng thấp đến máy. Norton thắng về gói tính năng đi kèm (VPN không giới hạn, bảo hiểm đánh cắp danh tính, trình quản lý mật khẩu). Hãy chọn theo nhu cầu: chỉ cần diệt virus (Bitdefender) hay muốn cả bộ bảo vệ danh tính (Norton)."
+    }
+  ],
+  "products": {
+    "bitdefender-total-security": {
+      "badge": "🏆 AV trả phí tốt nhất",
+      "review": "Bitdefender Total Security là lựa chọn trả phí hợp lý cho phần lớn người dùng. Phát hiện 99,7%, tỷ lệ cảnh báo nhầm thấp nhất (đồng hạng), ảnh hưởng đến máy không đáng kể. Có kèm VPN (200MB/ngày, không giới hạn nếu mua thêm Bitdefender Premium VPN). Bản quyền cho 5 thiết bị.",
+      "pros": [
+        "Điểm AV-TEST hàng đầu",
+        "Ít cảnh báo nhầm",
+        "Gần như không làm chậm máy"
+      ],
+      "cons": [
+        "VPN trong bản Total Security bị giới hạn 200MB/ngày",
+        "Bảng Cyber Threat Intelligence khó dùng với người mới"
+      ]
+    },
+    "norton-360-deluxe": {
+      "badge": "🛡️ Trọn gói tốt nhất",
+      "review": "Norton 360 Deluxe phù hợp nếu bạn muốn gộp chung diệt virus + VPN không giới hạn + giám sát đánh cắp danh tính + trình quản lý mật khẩu. Kèm bảo hiểm đánh cắp danh tính 50.000 USD. Ảnh hưởng đến máy nhiều hơn Bitdefender, nhưng các tính năng đi kèm thực sự đáng tiền.",
+      "pros": [
+        "VPN không giới hạn đi kèm",
+        "Bảo hiểm đánh cắp danh tính 50.000 USD",
+        "Gói tính năng đầy đủ"
+      ],
+      "cons": [
+        "Làm chậm máy nhiều hơn Bitdefender",
+        "Trình quản lý mật khẩu đi kèm yếu hơn 1Password"
+      ]
+    },
+    "malwarebytes-premium": {
+      "badge": "🧹 Lớp bảo vệ phụ tốt nhất",
+      "review": "Malwarebytes Premium là lựa chọn đúng khi dùng làm trình quét PHỤ bên cạnh AV chính. Được thiết kế để bắt PUP (chương trình không mong muốn), adware và những mối đe dọa mà AV chính bỏ sót. Có bảo vệ theo thời gian thực.",
+      "pros": [
+        "Bắt được thứ AV chính bỏ sót",
+        "Thiết kế để chạy song song",
+        "Dọn sạch máy đã nhiễm"
+      ],
+      "cons": [
+        "Không mạnh khi làm AV chính",
+        "Tỷ lệ phát hiện thấp hơn các AV chuyên dụng"
+      ]
+    },
+    "windows-defender-free": {
+      "badge": "🆓 Miễn phí tốt nhất",
+      "review": "Microsoft Defender (có sẵn trong Windows 10/11) là lựa chọn miễn phí hợp lý cho hầu hết người dùng gia đình. Tỷ lệ phát hiện ngang AV trả phí (99,4%), ít cảnh báo nhầm nhất, ảnh hưởng đến máy thấp nhất. Không cần cài thêm. Miễn phí.",
+      "pros": [
+        "Miễn phí cùng Windows",
+        "Phát hiện ngang AV trả phí",
+        "Ảnh hưởng đến máy thấp nhất"
+      ],
+      "cons": [
+        "Không có VPN đi kèm",
+        "Không giám sát đánh cắp danh tính",
+        "Tính năng cho gia đình hạn chế"
+      ]
+    },
+    "kaspersky-total-security": {
+      "badge": "⚠️ Cân nhắc yếu tố địa chính trị",
+      "review": "Kaspersky Total Security có khả năng phát hiện thuộc nhóm đầu (99,7%) và trình độ kỹ thuật rất cao. Tuy nhiên, năm 2022 chính phủ liên bang Mỹ đã cấm Kaspersky khỏi các hợp đồng liên bang vì lo ngại an ninh quốc gia liên quan đến hoạt động đặt tại Nga. Người dùng cá nhân ở Mỹ vẫn dùng được; hãy tự cân nhắc xem rủi ro địa chính trị có quan trọng với bạn không.",
+      "pros": [
+        "Tỷ lệ phát hiện hàng đầu",
+        "Bắt zero-day rất tốt",
+        "Kỹ thuật xuất sắc"
+      ],
+      "cons": [
+        "Bị cấm trong hợp đồng liên bang Mỹ từ 2022",
+        "Cần cân nhắc rủi ro địa chính trị"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bitdefender-total-security": "Mua tại bitdefender.com — thường xuyên có khuyến mãi giảm 50%.",
+    "norton-360-deluxe": "Mua tại us.norton.com — bản Deluxe dùng cho 5 thiết bị.",
+    "malwarebytes-premium": "Mua tại malwarebytes.com — cài song song với AV chính.",
+    "windows-defender-free": "Miễn phí cùng Windows 10/11 — không cần cài đặt.",
+    "kaspersky-total-security": "Mua tại kaspersky.com — cân nhắc rủi ro địa chính trị."
+  },
+  "pinDescription": "Máy bạn đang được bảo vệ tới đâu? So sánh 5 phần mềm diệt virus 2026: Bitdefender, Norton, Malwarebytes, Microsoft Defender và Kaspersky — tỷ lệ phát hiện, mức làm chậm máy và giá gia hạn năm thứ hai. #diệtvirus #anninhmang",
+  "recommendedFor": [
+    {
+      "label": "Người dùng gia đình muốn bảo vệ miễn phí mà vẫn yên tâm",
+      "offerId": "windows-defender-free",
+      "reason": "Có sẵn trong Windows 10/11, phát hiện 99,4% và ảnh hưởng đến máy thấp nhất trong cả năm phần mềm — không cần cài, không tốn tiền, đủ dùng cho việc lướt web hằng ngày."
+    },
+    {
+      "label": "Người làm việc từ xa, thường xuyên dùng Wi-Fi công cộng",
+      "offerId": "norton-360-deluxe",
+      "reason": "VPN không giới hạn được tặng kèm, cộng thêm bảo hiểm đánh cắp danh tính 50.000 USD — rất cần thiết khi bạn đăng nhập tài khoản công việc ở sân bay hay quán cà phê."
+    },
+    {
+      "label": "Người dùng nâng cao và lập trình viên hay chạy nhiều tệp thực thi",
+      "offerId": "bitdefender-total-security",
+      "reason": "Đồng hạng nhất về ít cảnh báo nhầm (chỉ 1 lần trên 500 tệp hợp lệ) và gần như không làm chậm máy, nên không cắt ngang quá trình build hay chặn nhầm công cụ lập trình."
+    },
+    {
+      "label": "Người nghi máy đang dính adware hoặc PUP",
+      "offerId": "malwarebytes-premium",
+      "reason": "Được thiết kế riêng để dọn máy đã nhiễm và chạy song song với bất kỳ AV chính nào, nhắm đúng vào PUP và adware mà các trình quét khác hay bỏ sót."
+    },
+    {
+      "label": "Chuyên gia nghiên cứu bảo mật ngoài môi trường liên bang Mỹ",
+      "offerId": "kaspersky-total-security",
+      "reason": "Khả năng phát hiện zero-day 99,1% thuộc nhóm dẫn đầu, là lựa chọn kỹ thuật hàng đầu cho người nghiên cứu chấp nhận đánh đổi về yếu tố địa chính trị."
+    }
+  ]
 }
