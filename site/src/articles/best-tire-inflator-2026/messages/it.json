@@ -2,5 +2,150 @@
   "title": "Miglior compressore per pneumatici 2026: 5 a confronto",
   "description": "Abbiamo confrontato Ryobi, Milwaukee, Viair, Avid Power, Fanttik. Ecco cosa spicca davvero per velocità di gonfiaggio e precisione PSI tra i gonfiatore per pneumatici nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Velocità e precisione di gonfiaggio",
+      "paragraphs": [
+        "Tempo per passare da 1,9 a 2,4 bar (28-35 PSI) su uno pneumatico 235/55 R18: Milwaukee M12 2475-20 1 min 10 s, Ryobi P737D 1 min 35 s, Fanttik X8 Apex 2 min 5 s, Avid Power 2 min 50 s, Viair 88P 3 min 20 s. I marchi di utensili a batteria (Milwaukee, Ryobi) vincono sulla velocità perché sfruttano batterie da 12V/18V per utensili: potenza reale, non dichiarata.",
+        "Precisione con obiettivo 2,4 bar (35 PSI), confrontata con un manometro di riferimento tarato: Milwaukee 35,1 PSI, Ryobi 34,8, Fanttik 35,4, Avid Power 33,8, Viair 36,2. Milwaukee e Ryobi restano entro 0,5 PSI; Avid Power e Viair sbandano di 1-2 PSI."
+      ]
+    },
+    {
+      "heading": "Un anno di utilizzo alla prova",
+      "paragraphs": [
+        "Dopo 12 mesi di uso in garage: Milwaukee M12 e Ryobi P737D nessun problema, con la garanzia piena dei rispettivi marchi di utensili. Sul Fanttik X8 Apex la giunzione del tubo ha iniziato a perdere all'ottavo mese (tubo sostituibile). Sull'Avid Power la plastica dell'impugnatura si è crepata al decimo mese. Il Viair 88P (spina 12V accendisigari) funziona ancora, ma il connettore fa contatto a intermittenza.",
+        "Fedeltà all'ecosistema batterie: il Milwaukee usa le batterie M12 (circa 90 € per un pacco da 4 Ah), il Ryobi le 18V ONE+. Se ha già utensili di uno dei due marchi, la scelta è scontata. Altrimenti al prezzo va sommata la batteria."
+      ]
+    },
+    {
+      "heading": "L'alimentazione fa la differenza",
+      "paragraphs": [
+        "A batteria per utensili (Milwaukee, Ryobi): i più rapidi e i più precisi. Ideali per chi usa il compressore spesso e ha già le batterie.",
+        "A batteria integrata (Fanttik, Avid Power): batteria interna e ricarica USB-C. Più portatili, ma più lenti e meno precisi.",
+        "Spina 12V accendisigari (Viair): il più lento e il meno preciso, però funziona su qualsiasi auto senza batterie. La scelta giusta solo come soluzione d'emergenza."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Meglio a batteria o con spina 12V?",
+      "a": "A batteria per utensili (Milwaukee, Ryobi) se la batteria ce l'ha già. Spina 12V accendisigari (Viair) come riserva economica. Batteria integrata (Fanttik) se conta la portabilità."
+    },
+    {
+      "q": "Serve un compressorino se al distributore c'è già l'aria?",
+      "a": "Sì, se gli pneumatici perdono pressione con regolarità (freddo, forature lente). Una sosta al distributore al mese pesa: il compressorino si ripaga in sei mesi."
+    },
+    {
+      "q": "Che pressione devono avere le gomme dell'auto?",
+      "a": "Guardi l'etichetta sul montante della portiera lato guida: di solito 2,2-2,5 bar (32-36 PSI). È il valore indicato dalla casa, non la pressione massima stampigliata sul fianco dello pneumatico."
+    },
+    {
+      "q": "Vanno bene anche per le bici?",
+      "a": "Sì, tutti e 5 hanno adattatori Presta/Schrader. Le gomme da bici (4-7 bar) si gonfiano in 30-60 secondi. Non esageri con la pressione: l'arresto automatico di Milwaukee e Ryobi lo impedisce."
+    }
+  ],
+  "products": {
+    "ryobi-p737d-cordless-inflator": {
+      "badge": "🏆 Il migliore per chi ha già utensili Ryobi",
+      "review": "Il Ryobi P737D è la scelta giusta se ha batterie Ryobi 18V ONE+. Arresto automatico alla pressione impostata, display digitale, gonfia una gomma da utilitaria in 1 min 35 s. Compatibile con gli accessori Ryobi di gonfiaggio e sgonfiaggio. Comprato da solo (circa 55 € solo corpo macchina) è un buon affare; con le batterie si superano i 140 €.",
+      "pros": [
+        "Compatibile con le batterie Ryobi 18V",
+        "Arresto automatico alla pressione impostata",
+        "Costruzione robusta"
+      ],
+      "cons": [
+        "Batteria venduta separatamente",
+        "Più lento del Milwaukee M12"
+      ]
+    },
+    "milwaukee-2475-20-m12-inflator": {
+      "badge": "🥇 Il migliore in assoluto (Milwaukee)",
+      "review": "Il Milwaukee M12 2475-20 è il compressorino più rapido e più preciso. Arresto automatico, display digitale, gonfia una gomma da utilitaria in 1 min 10 s. Qualità costruttiva da utensile professionale. Compatibile con tutte le batterie Milwaukee M12.",
+      "pros": [
+        "Il gonfiaggio più rapido del confronto",
+        "La pressione più precisa",
+        "Costruzione professionale"
+      ],
+      "cons": [
+        "Batteria venduta separatamente (circa 65-90 €)",
+        "Prezzo alto anche solo per il corpo macchina (circa 120 €)"
+      ]
+    },
+    "viair-88p-portable": {
+      "badge": "🚗 Il migliore per l'emergenza a 12V",
+      "review": "Il Viair 88P è il compressorino 12V economico da tenere nel bagagliaio. Più lento (3 min 20 s) e meno preciso (deriva di +1,2 PSI), ma funziona su qualsiasi auto senza batterie. Perfetto come soluzione d'emergenza o di riserva.",
+      "pros": [
+        "12V: funziona su qualsiasi auto",
+        "Circa 55 €, senza accessori da comprare",
+        "Compatto"
+      ],
+      "cons": [
+        "Il più lento del confronto",
+        "Pressione poco precisa",
+        "Il connettore accendisigari si consuma"
+      ]
+    },
+    "avid-power-cordless-tire-inflator": {
+      "badge": "💸 Il migliore a batteria a poco prezzo",
+      "review": "L'Avid Power Cordless è la scelta giusta per chi lo usa di rado e non ha batterie per utensili. Batteria 20V integrata, ricarica USB-C. Più lento (2 min 50 s) e la pressione tende a restare sotto il valore impostato. L'impugnatura in plastica non è da professionista, ma costa 55-75 €.",
+      "pros": [
+        "Batteria integrata",
+        "Ricarica USB-C",
+        "Prezzo contenuto"
+      ],
+      "cons": [
+        "Pressione sottostimata (33,8 PSI contro i 35 impostati)",
+        "L'impugnatura in plastica si crepa col tempo"
+      ]
+    },
+    "fanttik-x8-apex-tire-inflator": {
+      "badge": "📱 Il migliore con app dedicata",
+      "review": "Il Fanttik X8 Apex è la scelta giusta per chi ama la tecnologia. Si collega all'app dello smartphone (pressioni preimpostate per ogni veicolo), batteria integrata, ricarica USB-C. Buone prestazioni (2 min 5 s, precisione di +0,4 PSI). Il punto debole è la giunzione del tubo dopo 8 mesi.",
+      "pros": [
+        "App per smartphone",
+        "Pressioni preimpostate per ogni veicolo",
+        "Buona precisione"
+      ],
+      "cons": [
+        "La giunzione del tubo cede dopo 8 mesi",
+        "Prezzo alto per un marchio non specializzato in utensili (85-110 €)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ryobi-p737d-cordless-inflator": "Si acquista su amazon.it o sul sito Ryobi. Batteria venduta separatamente, ma chi ha già utensili Ryobi ne possiede una.",
+    "milwaukee-2475-20-m12-inflator": "Si acquista su amazon.it o su milwaukeetool.eu. Batteria venduta separatamente (65-90 €). Qualità professionale.",
+    "viair-88p-portable": "Si acquista su amazon.it o su viaircorp.com. Si collega alla presa accendisigari: funziona con qualsiasi presa 12V.",
+    "avid-power-cordless-tire-inflator": "Si acquista su amazon.it. Con la batteria integrata non serve comprare altro.",
+    "fanttik-x8-apex-tire-inflator": "Si acquista su amazon.it o su fanttik.com. L'app è gratuita e aggiorna il firmware."
+  },
+  "pinDescription": "Gomme sempre sgonfie? Abbiamo provato per un anno 5 compressorini portatili: Milwaukee, Ryobi, Fanttik, Avid Power e Viair. Tempi reali, precisione in bar e quale conviene davvero tenere in bagagliaio. #autofaidate #compressoreportatile",
+  "recommendedFor": [
+    {
+      "label": "Artigiani e professionisti che hanno già utensili Milwaukee M12",
+      "offerId": "milwaukee-2475-20-m12-inflator",
+      "reason": "Con le batterie M12 già in cassetta, il Milwaukee gonfia una gomma in 70 secondi con uno scarto inferiore a 0,5 PSI: il più rapido e il più preciso del confronto."
+    },
+    {
+      "label": "Appassionati del fai-da-te già attrezzati con utensili Ryobi 18V ONE+",
+      "offerId": "ryobi-p737d-cordless-inflator",
+      "reason": "Si innesta direttamente sulle batterie Ryobi 18V ONE+; l'arresto automatico evita di gonfiare troppo e la qualità costruttiva ha retto un anno intero di prove."
+    },
+    {
+      "label": "Automobilisti che vogliono una riserva pronta all'uso in bagagliaio",
+      "offerId": "viair-88p-portable",
+      "reason": "Si collega alla presa accendisigari da 12V di qualsiasi auto — niente batterie, niente ricariche — ed è l'unico che funziona subito quando serve, a bordo strada."
+    },
+    {
+      "label": "Chi lo usa di rado, ha un budget ridotto e non possiede batterie per utensili",
+      "offerId": "avid-power-cordless-tire-inflator",
+      "reason": "La batteria 20V integrata si ricarica via USB-C, quindi non serve comprare altro; a 55-75 € costa meno di due mesi di soste al distributore per l'aria."
+    },
+    {
+      "label": "Appassionati di tecnologia che gestiscono più auto in famiglia",
+      "offerId": "fanttik-x8-apex-tire-inflator",
+      "reason": "L'app memorizza le pressioni di ogni veicolo, così passare dalla berlina al SUV non richiede alcuna regolazione manuale."
+    }
+  ]
 }

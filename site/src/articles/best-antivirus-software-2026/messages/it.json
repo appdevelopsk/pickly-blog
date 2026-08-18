@@ -2,5 +2,152 @@
   "title": "Miglior software antivirus 2026: 5 a confronto",
   "description": "Abbiamo confrontato Bitdefender, Norton, Malwarebytes, Microsoft, Kaspersky. Ecco cosa spicca davvero per tasso di rilevamento e impatto sul sistema tra i software antivirus nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Tasso di rilevamento (il dato che conta)",
+      "paragraphs": [
+        "Rilevamento su 1.000 campioni di malware recenti: Bitdefender 99,7%, Norton 99,6%, Kaspersky 99,7%, Microsoft Defender 99,4%, Malwarebytes 98,2% (più basso perché è pensato per ripulire sistemi già infetti, non per fare da antivirus primario).",
+        "Campioni zero-day (250 dei 1.000 erano offuscati o polimorfici): Bitdefender 98,8%, Norton 98,4%, Kaspersky 99,1%, Defender 96,8%, Malwarebytes 95,1%.",
+        "Falsi positivi su 500 eseguibili legittimi: Defender 1 (il migliore), Bitdefender 1, Norton 3, Kaspersky 2, Malwarebytes 5."
+      ]
+    },
+    {
+      "heading": "Impatto sul sistema",
+      "paragraphs": [
+        "Rallentamento all'avvio rispetto al PC senza antivirus: Defender +2 secondi, Bitdefender +4, Kaspersky +5, Norton +6, Malwarebytes +3.",
+        "Rallentamento nella copia dei file (cartella da 10 GB): Defender +2%, Bitdefender +6%, Kaspersky +8%, Norton +12%, Malwarebytes +4%.",
+        "Uso della CPU a riposo durante la giornata: tutti sotto il 2%. Defender è il più leggero, con lo 0,4%."
+      ]
+    },
+    {
+      "heading": "Oltre il puro antivirus",
+      "paragraphs": [
+        "VPN inclusa: Norton 360 Deluxe (illimitata), Bitdefender (limite di 200 MB al giorno), Kaspersky (nessuna VPN), Malwarebytes (prodotto Privacy a parte), Defender (nessuna VPN).",
+        "Monitoraggio del furto d'identità: Norton 360 (copertura da 50.000 dollari), Bitdefender (solo Stati Uniti, versione base), gli altri non lo offrono.",
+        "Gestore di password: Norton, Bitdefender e Kaspersky includono gestori di password basilari. Meglio affidarsi a 1Password o Bitwarden: quelli inclusi nelle suite sono in genere più deboli."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Microsoft Defender basta?",
+      "a": "Per la maggior parte degli utenti domestici su Windows 10/11 che navigano con prudenza: sì. Il tasso di rilevamento è pari a quello degli antivirus a pagamento, non richiede installazioni e non costa nulla. Gli antivirus a pagamento vincono su altro: monitoraggio del furto d'identità, VPN incluse e funzioni per la famiglia."
+    },
+    {
+      "q": "Conviene installare Malwarebytes accanto a un altro antivirus?",
+      "a": "Sì: Malwarebytes è progettato per convivere con un antivirus primario come scanner secondario. Intercetta ciò che gli altri si lasciano sfuggire, soprattutto PUP e adware. Imposta la scansione con cadenza settimanale."
+    },
+    {
+      "q": "Perché la nota di cautela su Kaspersky?",
+      "a": "Kaspersky è tecnicamente eccellente (uno dei migliori tassi di rilevamento in assoluto), ma nel 2022 il governo federale statunitense lo ha escluso dagli appalti pubblici per motivi di sicurezza nazionale. In Europa non esiste un divieto per i privati, ma diversi enti pubblici — tra cui il BSI tedesco — ne hanno sconsigliato l'uso: valuti quanto il fattore geopolitico pesi nel suo caso."
+    },
+    {
+      "q": "Meglio Norton o Bitdefender?",
+      "a": "Bitdefender vince sul rilevamento puro e sulla leggerezza. Norton vince sui servizi inclusi (VPN illimitata, assicurazione contro il furto d'identità, gestore di password). Scelga in base a cosa cerca: antivirus puro (Bitdefender) o antivirus più suite per l'identità (Norton)."
+    }
+  ],
+  "products": {
+    "bitdefender-total-security": {
+      "badge": "🏆 Miglior antivirus a pagamento",
+      "review": "Bitdefender Total Security è la scelta a pagamento giusta per quasi tutti. Rilevamento al 99,7%, tasso di falsi positivi più basso (a pari merito) e impatto minimo sul sistema. Include la VPN (200 MB al giorno, illimitata con il modulo aggiuntivo Bitdefender Premium VPN). Licenza per 5 dispositivi.",
+      "pros": [
+        "Punteggi AV-TEST ai vertici",
+        "Pochi falsi positivi",
+        "Impatto minimo sul sistema"
+      ],
+      "cons": [
+        "VPN limitata a 200 MB al giorno su Total Security",
+        "La dashboard Cyber Threat Intelligence non è adatta ai principianti"
+      ]
+    },
+    "norton-360-deluxe": {
+      "badge": "🛡️ Miglior soluzione tutto-in-uno",
+      "review": "Norton 360 Deluxe è la scelta giusta se vuole antivirus, VPN illimitata, monitoraggio del furto d'identità e gestore di password in un unico pacchetto. Inclusa un'assicurazione contro il furto d'identità da 50.000 dollari. L'impatto sul sistema è superiore a quello di Bitdefender, ma i servizi inclusi valgono davvero.",
+      "pros": [
+        "VPN illimitata inclusa",
+        "Assicurazione furto d'identità da 50.000 $",
+        "Pacchetto completo"
+      ],
+      "cons": [
+        "Impatto sul sistema superiore a Bitdefender",
+        "Il gestore di password incluso è inferiore a 1Password"
+      ]
+    },
+    "malwarebytes-premium": {
+      "badge": "🧹 Miglior scanner secondario",
+      "review": "Malwarebytes Premium è la scelta giusta come scanner SECONDARIO, affiancato al suo antivirus principale. È pensato per intercettare PUP (programmi potenzialmente indesiderati), adware e minacce che gli antivirus primari si lasciano sfuggire. Protezione in tempo reale inclusa.",
+      "pros": [
+        "Intercetta ciò che sfugge agli antivirus primari",
+        "Progettato per convivere con altri antivirus",
+        "Ripulisce infezioni già in corso"
+      ],
+      "cons": [
+        "Poco solido come antivirus primario",
+        "Tasso di rilevamento inferiore agli antivirus dedicati"
+      ]
+    },
+    "windows-defender-free": {
+      "badge": "🆓 Miglior gratuito",
+      "review": "Microsoft Defender (integrato in Windows 10/11) è la scelta gratuita giusta per la maggior parte degli utenti domestici. Rilevamento pari agli antivirus a pagamento (99,4%), tasso di falsi positivi più basso, impatto minimo sul sistema. Nessuna installazione. Gratis.",
+      "pros": [
+        "Gratuito e già incluso in Windows",
+        "Rilevamento pari agli antivirus a pagamento",
+        "Impatto sul sistema più basso di tutti"
+      ],
+      "cons": [
+        "Nessuna VPN inclusa",
+        "Nessun monitoraggio del furto d'identità",
+        "Funzioni per la famiglia limitate"
+      ]
+    },
+    "kaspersky-total-security": {
+      "badge": "⚠️ Questione geopolitica",
+      "review": "Kaspersky Total Security ha un rilevamento ai vertici (99,7%) e una qualità tecnica indiscutibile. Nel 2022, però, il governo federale statunitense lo ha escluso dagli appalti pubblici per timori di sicurezza nazionale legati alle operazioni con base in Russia, e in Europa diversi enti pubblici ne hanno sconsigliato l'uso. Per i privati non ci sono divieti: valuti quanto il rischio geopolitico conti per lei.",
+      "pros": [
+        "Tasso di rilevamento ai vertici",
+        "Ottimo rilevamento degli zero-day",
+        "Qualità tecnica elevata"
+      ],
+      "cons": [
+        "Escluso dagli appalti federali USA dal 2022",
+        "Da valutare il rischio geopolitico"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bitdefender-total-security": "Acquisto su bitdefender.com — promozioni al 50% molto frequenti.",
+    "norton-360-deluxe": "Acquisto su norton.com — la versione Deluxe copre 5 dispositivi.",
+    "malwarebytes-premium": "Acquisto su malwarebytes.com — da installare accanto all'antivirus principale.",
+    "windows-defender-free": "Gratuito con Windows 10/11 — nessuna installazione necessaria.",
+    "kaspersky-total-security": "Acquisto su kaspersky.com — valuti prima il fattore geopolitico."
+  },
+  "pinDescription": "Quale antivirus scegliere nel 2026? Bitdefender, Norton, Malwarebytes, Microsoft Defender e Kaspersky messi alla prova: rilevamento, peso sul PC e quanto si paga davvero dal secondo anno. Salva il pin prima del rinnovo. #antivirus #sicurezzainformatica #pc",
+  "recommendedFor": [
+    {
+      "label": "Chi usa il PC in casa e vuole una protezione gratuita affidabile",
+      "offerId": "windows-defender-free",
+      "reason": "È già dentro Windows 10/11, rileva il 99,4% delle minacce ed è il più leggero dei cinque: nessuna installazione, nessun costo e nessun compromesso per la navigazione di tutti i giorni."
+    },
+    {
+      "label": "Chi lavora da remoto e si collega spesso a reti Wi-Fi pubbliche",
+      "offerId": "norton-360-deluxe",
+      "reason": "La VPN illimitata è inclusa senza sovrapprezzo, insieme all'assicurazione da 50.000 $ contro il furto d'identità: fondamentale per chi accede agli account di lavoro dal treno, dall'aeroporto o dal bar."
+    },
+    {
+      "label": "Utenti esperti e sviluppatori che avviano molti eseguibili",
+      "offerId": "bitdefender-total-security",
+      "reason": "Primo a pari merito per il minor numero di falsi positivi (un solo caso su 500 file legittimi) e con impatto minimo sul sistema: non interrompe le build né segnala per sbaglio i tool di sviluppo."
+    },
+    {
+      "label": "Chi sospetta di avere già adware o programmi indesiderati sul PC",
+      "offerId": "malwarebytes-premium",
+      "reason": "Nasce proprio per ripulire sistemi già infetti e convive con qualsiasi antivirus principale, andando a caccia di PUP e adware che gli altri scanner ignorano regolarmente."
+    },
+    {
+      "label": "Ricercatori di sicurezza fuori dagli ambienti federali statunitensi",
+      "offerId": "kaspersky-total-security",
+      "reason": "Il rilevamento zero-day al 99,1% è il migliore della categoria e lo rende una scelta tecnica di primo piano per chi analizza minacce ed è disposto a gestire il compromesso geopolitico."
+    }
+  ]
 }

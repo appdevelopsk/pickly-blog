@@ -2,5 +2,149 @@
   "title": "Miglior assicurazione auto 2026: 5 a confronto",
   "description": "Abbiamo confrontato Geico, Progressive, State Farm, USAA, Liberty Mutual. Ecco cosa spicca davvero per premio e gestione sinistri tra i assicurazione auto nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Premio a parità di garanzie",
+      "paragraphs": [
+        "Premio annuo medio su 5 stati USA: Geico 1.380 $, Progressive 1.490 $, State Farm 1.560 $, Liberty Mutual 1.710 $, USAA 980 $ (solo militari). Divario da stato a stato: Florida +35%, California +20%, Texas come riferimento, Illinois -10%, New York +25%.",
+        "Sconto telematica (scatola nera): Progressive Snapshot 10-30%, State Farm Drive Safe 15-25%, Geico DriveEasy 15-20%, Liberty Mutual RightTrack 5-30%. USAA include la telematica senza costi aggiuntivi. Gli sconti telematici sono reali se guida con prudenza — ma penalizzano anche le frenate brusche."
+      ]
+    },
+    {
+      "heading": "Differenze nelle garanzie",
+      "paragraphs": [
+        "Bonus protetto dopo il primo sinistro con colpa: Liberty Mutual lo include gratis, Geico lo vende a 50 $/anno, Progressive lo include dopo 5 anni senza sinistri, State Farm a 30 $/anno, USAA incluso.",
+        "Franchigia decrescente (-100 $/anno senza sinistri): la versione migliore è di Allstate (non presente in questo confronto), Liberty Mutual la offre gratis, Progressive a 25 $/anno.",
+        "Copertura per servizi di ride sharing: Geico (14-21 $/mese), Progressive (15-25 $/mese), State Farm (25-50 $/mese). Liberty Mutual e USAA hanno disponibilità limitata."
+      ]
+    },
+    {
+      "heading": "Soddisfazione dei clienti",
+      "paragraphs": [
+        "Classifica JD Power 2025 sulla gestione sinistri auto: USAA 1° (solo militari), Erie 2°, State Farm 3°, Geico 5°, Progressive 11°, Liberty Mutual 16°. Il divario tra vertice e coda è concreto: Liberty Mutual resta sotto la media di settore proprio sui sinistri.",
+        "Qualità delle app: quella di Geico è la più scaricata; Progressive ha la dashboard telematica migliore; State Farm ha il flusso di apertura sinistro più lineare."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Perché i preventivi assicurativi sono così diversi tra loro?",
+      "a": "Ogni compagnia usa modelli di rischio proprietari. Lo stesso guidatore riceve tariffe diverse perché ciascun assicuratore pesa in modo diverso i fattori (storico creditizio, zona di residenza, veicolo e così via). Chieda 3-5 preventivi: rispetto al più caro si risparmia in genere il 20-40%."
+    },
+    {
+      "q": "Conviene accettare lo sconto con la scatola nera?",
+      "a": "Sì, se guida con prudenza (niente frenate brusche, niente guida a tarda notte). Lo sconto è reale (10-30%). No, se ha uno stile di guida aggressivo: la telematica può far salire il premio."
+    },
+    {
+      "q": "Franchigia da 500 $ o da 1.000 $?",
+      "a": "Una franchigia più alta taglia il premio del 10-15% circa. Conviene se ha 1.000 $ da parte per le emergenze; se non li ha, no."
+    },
+    {
+      "q": "Perché la Florida è così cara?",
+      "a": "In Florida ci sono molti automobilisti senza assicurazione, il rischio uragani e un sistema legale no-fault che gonfia il costo dei sinistri. California e Florida sono stabilmente gli stati più costosi."
+    }
+  ],
+  "products": {
+    "geico-auto": {
+      "badge": "🏆 Migliore in assoluto",
+      "review": "Geico Auto è la scelta generalista più economica per chi ha uno storico pulito. App solida, sinistri rapidi, sconto militari (15%). La telematica DriveEasy funziona bene se guida con prudenza.",
+      "pros": [
+        "L'opzione generalista più economica",
+        "Gestione sinistri rapida",
+        "App solida + telematica"
+      ],
+      "cons": [
+        "Tariffe più alte con multe o sinistri con colpa",
+        "Nessun bonus protetto di serie (opzione a pagamento)"
+      ]
+    },
+    "progressive-auto": {
+      "badge": "📊 Migliore telematica",
+      "review": "Progressive Auto è la scelta giusta per chi ha dimestichezza con la tecnologia ed è disposto a condividere i dati di guida. La telematica Snapshot può abbassare il premio del 10-30%. Lo strumento Name Your Price aiuta a restare nel budget. Ottima disponibilità di coperture per il ride sharing.",
+      "pros": [
+        "La migliore dashboard telematica",
+        "Strumento Name Your Price",
+        "Buona copertura per il ride sharing"
+      ],
+      "cons": [
+        "Soddisfazione sui sinistri più bassa (11° JD Power)",
+        "Rincari più marcati dopo un sinistro"
+      ]
+    },
+    "state-farm-auto": {
+      "badge": "📦 Migliore per le polizze combinate",
+      "review": "State Farm Auto vince sulle polizze combinate: 25% di sconto abbinando casa e auto. È il primo assicuratore auto degli Stati Uniti, con una rete capillare di agenti sul territorio. La telematica Drive Safe & Save vale il 15-25% di sconto. Terzo posto JD Power sulla gestione sinistri.",
+      "pros": [
+        "25% di sconto sul pacchetto casa + auto",
+        "Rete di agenti sul territorio",
+        "3° posto JD Power sui sinistri"
+      ],
+      "cons": [
+        "Premio più alto di Geico se presa da sola",
+        "App meno curata di quella di Geico"
+      ]
+    },
+    "usaa-auto": {
+      "badge": "🪖 Migliore per i militari",
+      "review": "USAA Auto è l'opzione più economica (980 $ in media), ma richiede un legame con le forze armate. Prima nella classifica JD Power sulla soddisfazione dei clienti anno dopo anno. Telematica inclusa senza costi aggiuntivi e liquidazioni generose.",
+      "pros": [
+        "Il premio più basso",
+        "1° posto JD Power per soddisfazione",
+        "Liquidazioni generose"
+      ],
+      "cons": [
+        "Serve l'appartenenza alle forze armate",
+        "Copertura ride sharing limitata"
+      ]
+    },
+    "liberty-mutual-auto": {
+      "badge": "🎁 Miglior bonus protetto",
+      "review": "Liberty Mutual Auto include gratis sia il bonus protetto sia la franchigia decrescente: le garanzie di serie più generose della categoria. Però ha il premio più alto (1.710 $ in media) ed è 16ª nella classifica JD Power sui sinistri. Che il rapporto tra garanzie e costo convenga è tutto da discutere.",
+      "pros": [
+        "Bonus protetto incluso gratis",
+        "Franchigia decrescente inclusa gratis",
+        "App solida"
+      ],
+      "cons": [
+        "Il premio più alto di questo confronto",
+        "16° posto JD Power sulla gestione sinistri"
+      ]
+    }
+  },
+  "offerNotes": {
+    "geico-auto": "Preventivo su geico.com: immediato inserendo il numero di telaio. Disponibili sconti per militari e dipendenti federali.",
+    "progressive-auto": "Preventivo su progressive.com: lo strumento Name Your Price aiuta a centrare il budget. Snapshot è su base volontaria.",
+    "state-farm-auto": "Preventivo su statefarm.com o tramite un agente locale. Da abbinare a polizza casa o affitto per lo sconto massimo.",
+    "usaa-auto": "Preventivo su usaa.com, previa verifica dei requisiti di accesso. Soccorso stradale incluso per alcune categorie di soci.",
+    "liberty-mutual-auto": "Preventivo su libertymutual.com. La telematica RightTrack è su base volontaria."
+  },
+  "pinDescription": "Assicurazione auto: come si sceglie davvero? Confronto tra 5 compagnie su premio, sconti scatola nera, bonus protetto e gestione sinistri. Salva il pin prima del rinnovo 📌",
+  "recommendedFor": [
+    {
+      "label": "Chi bada al portafoglio e ha uno storico pulito",
+      "offerId": "geico-auto",
+      "reason": "Il premio medio di 1.380 $ di Geico è il più basso tra le compagnie generaliste, e la telematica DriveEasy lo riduce ulteriormente per chi guida con prudenza."
+    },
+    {
+      "label": "Chi lavora nella gig economy e guida per il ride sharing",
+      "offerId": "progressive-auto",
+      "reason": "Progressive offre la copertura ride sharing più diffusa e la telematica Snapshot taglia il premio del 10-30% per chi accetta di condividere i dati di guida."
+    },
+    {
+      "label": "Proprietari di casa che vogliono un pacchetto unico",
+      "offerId": "state-farm-auto",
+      "reason": "Il 25% di sconto sul pacchetto casa + auto e la rete di agenti sul territorio rendono State Farm la scelta netta per chi ha più polizze."
+    },
+    {
+      "label": "Militari in servizio e veterani",
+      "offerId": "usaa-auto",
+      "reason": "Il premio medio di 980 $ di USAA è il più basso in assoluto, e il primo posto JD Power per soddisfazione significa meno grattacapi al momento del sinistro."
+    },
+    {
+      "label": "Neopatentati preoccupati per il primo incidente",
+      "offerId": "liberty-mutual-auto",
+      "reason": "Liberty Mutual include senza sovrapprezzo il bonus protetto e la franchigia decrescente, mettendo al riparo dai rincari chi apre il primo sinistro."
+    }
+  ]
 }

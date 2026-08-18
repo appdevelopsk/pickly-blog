@@ -2,5 +2,150 @@
   "title": "Miglior tagliaerba a batteria 2026: 5 a confronto",
   "description": "Abbiamo confrontato EGO, Ryobi, Greenworks, DeWalt, Kobalt. Ecco cosa spicca davvero per autonomia e ecosistema batterie tra i tagliaerba a batteria nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Autonomia per ricarica",
+      "paragraphs": [
+        "Autonomia su un giardino da 1.300 m² (batteria singola, modalità massima): EGO LM2156SP (56V, 10Ah) 75 min, Greenworks Pro 80V (4Ah) 50 min, Kobalt 80V (5Ah) 55 min, Ryobi 40V HP (8Ah) 60 min, DeWalt 2x20V MAX (2x8Ah) 45 min.",
+        "Con due batterie si arriva a coprire 2.000 m²: EGO propone modelli a doppia batteria, DeWalt è 2x20V MAX di serie, mentre per Greenworks e Kobalt 80V la batteria singola basta nella maggior parte dei giardini.",
+        "Tempi di ricarica: EGO 60 min, Greenworks 80V 30 min, Kobalt 80V 45 min, Ryobi 40V 90 min, DeWalt 20V 60 min per batteria (quindi 120 min per entrambe). Il Greenworks 80V si ricarica più in fretta di tutti."
+      ]
+    },
+    {
+      "heading": "Qualità di taglio e raccolta",
+      "paragraphs": [
+        "Sull'erba bagnata di primo mattino: EGO il migliore (motore brushless ad alti giri + scocca in acciaio), Greenworks Pro subito dietro, Kobalt vicino, Ryobi adeguato, DeWalt leggermente indietro per la coppia inferiore della configurazione 2x20V. Sull'erba asciutta tutti e cinque fanno un buon lavoro.",
+        "Raccolta o mulching: tutti e cinque supportano entrambe le modalità. La raccolta di EGO e Greenworks Pro è la più pulita (meno erba dispersa allo scivolo). Il Ryobi 40V HP include lo scarico laterale, utile con l'erba molto alta.",
+        "Trazione: EGO LM2156SP e Kobalt 80V hanno versioni semoventi. I modelli base sono a spinta. Se il giardino ha anche solo una leggera pendenza, la trazione vale la spesa in più."
+      ]
+    },
+    {
+      "heading": "Vincolo alla piattaforma batterie",
+      "paragraphs": [
+        "Non si compra solo un tosaerba: ci si lega a una piattaforma di batterie. EGO ha la gamma più ampia (tosaerba, decespugliatore, soffiatore, spazzaneve, motosega). Ryobi 40V è altrettanto vasta. Greenworks 80V e Kobalt 80V sono più centrate sul tosaerba, con pochi altri attrezzi compatibili. DeWalt 20V MAX è dominata dagli utensili da cantiere: poche soluzioni per il giardino.",
+        "Come decidere: se ha già utensili DeWalt, il tosaerba 2x20V è la scelta ovvia. Se invece parte da zero, EGO o Ryobi 40V offrono l'ecosistema più completo tra giardino e utensili."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Batteria o benzina nel 2026?",
+      "a": "La batteria vince sotto i 2.000 m². Il motore a scoppio resta preferibile oltre i 4.000 m² o con erba alta e bagnata. Il cordless è più silenzioso, senza olio né candele: un salto di qualità nella vita quotidiana."
+    },
+    {
+      "q": "EGO 56V o Greenworks 80V: conta il voltaggio?",
+      "a": "Il voltaggio determina la potenza massima, ma è l'amperaggio (Ah) a determinare l'autonomia. Il pacco 56V 10Ah di EGO immagazzina più energia del pacco 80V 4Ah di Greenworks. Confronti i wattora (V × Ah), non il solo voltaggio."
+    },
+    {
+      "q": "Semovente o a spinta?",
+      "a": "Semovente se il giardino ha pendenze o supera i 1.000 m². A spinta va benissimo su superfici piane di circa 500 m²."
+    },
+    {
+      "q": "Quanto durano le batterie?",
+      "a": "Le batterie al litio durano circa 5-7 anni con uso normale (300-500 cicli di ricarica). Batterie di ricambio: EGO 200-400 €, Greenworks 150-300 €, Ryobi 150-250 €, DeWalt 100-200 €."
+    }
+  ],
+  "products": {
+    "ego-lm2156sp-21-self-propelled": {
+      "badge": "🏆 Il migliore in assoluto",
+      "review": "L'EGO LM2156SP è la scelta giusta per la maggior parte dei giardini residenziali. Batteria 56V 10Ah, trazione integrata, motore brushless e scocca in acciaio, taglio da 53 cm. 75 minuti di autonomia al massimo. L'ecosistema EGO Power+ è il più completo nel giardinaggio a batteria. Prezzo da fascia premium.",
+      "pros": [
+        "L'autonomia più lunga del confronto",
+        "Semovente",
+        "Ecosistema molto ampio"
+      ],
+      "cons": [
+        "Prezzo premium, oltre 700 €",
+        "Batteria pesante (circa 3,2 kg)"
+      ]
+    },
+    "ryobi-40v-hp-brushless": {
+      "badge": "🏠 Il migliore per chi ha già Ryobi",
+      "review": "Il Ryobi 40V HP Brushless è la scelta giusta se possiede già utensili Ryobi. Taglio da 53 cm, motore brushless, batteria 8Ah, 60 minuti di autonomia. Lo scarico laterale è raro sui tosaerba a batteria e torna utile con l'erba alta di inizio stagione.",
+      "pros": [
+        "Compatibile con gli utensili Ryobi 40V",
+        "Scarico laterale",
+        "Ottimo rapporto qualità-prezzo"
+      ],
+      "cons": [
+        "Ricarica lenta (90 min)",
+        "Solo a spinta in questa fascia"
+      ]
+    },
+    "greenworks-pro-80v-21": {
+      "badge": "⚡ La ricarica più rapida",
+      "review": "Il Greenworks Pro 80V è la scelta giusta se cerca la ricarica più veloce. 80V brushless e 30 minuti di ricarica: taglia, ricarica durante una pausa e riprende. 50 minuti di autonomia per carica. Ecosistema di batterie più ristretto rispetto a EGO.",
+      "pros": [
+        "Ricarica in 30 minuti",
+        "Taglio deciso sull'erba bagnata",
+        "Costa meno di EGO"
+      ],
+      "cons": [
+        "Pochi accessori compatibili",
+        "50 minuti di autonomia, meno di EGO"
+      ]
+    },
+    "dewalt-2x20v-max-21": {
+      "badge": "🔧 Il migliore per chi ha già DeWalt",
+      "review": "Il DeWalt 2x20V MAX è la scelta giusta se possiede utensili DeWalt. Usa le stesse batterie 20V MAX che ha già in officina. I 45 minuti di autonomia sono meno di quelli dei marchi specializzati nel giardinaggio, ma il vero vantaggio è l'intercambiabilità delle batterie.",
+      "pros": [
+        "Usa le normali batterie DeWalt 20V",
+        "Batterie condivise con gli altri utensili",
+        "Costruzione robusta"
+      ],
+      "cons": [
+        "L'autonomia più breve del confronto",
+        "Più pesante dei tosaerba dedicati da 56-80V"
+      ]
+    },
+    "kobalt-80v-21-mower": {
+      "badge": "💸 Il migliore in esclusiva Lowe's",
+      "review": "Il Kobalt 80V è la scelta giusta per chi si affida a Lowe's. 80V brushless, batteria 5Ah, 55 minuti di autonomia, taglio da 53 cm. Disponibile anche in versione semovente. È il più economico della classe 80V. L'ecosistema si limita a tosaerba, decespugliatore e soffiatore: più ristretto di EGO o Ryobi.",
+      "pros": [
+        "Costa meno di EGO nella stessa classe",
+        "Disponibile in versione semovente",
+        "Distribuzione Lowe's affidabile"
+      ],
+      "cons": [
+        "Ecosistema di batterie limitato",
+        "Assistenza solo tramite Lowe's"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ego-lm2156sp-21-self-propelled": "In vendita su egopowerplus.com e nei grandi centri per il fai da te. Spesso in kit con batteria e caricabatterie a 700-900 €.",
+    "ryobi-40v-hp-brushless": "In vendita su ryobitools.com e nei centri fai da te. Compatibile con tutta la gamma da giardino Ryobi 40V.",
+    "greenworks-pro-80v-21": "In vendita su greenworkstools.com o amazon.it. Occhio alle promozioni di primavera.",
+    "dewalt-2x20v-max-21": "In vendita su dewalt.com e nei centri fai da te. Batterie intercambiabili con tutti gli utensili 20V MAX.",
+    "kobalt-80v-21-mower": "In vendita su lowes.com — marchio in esclusiva Lowe's."
+  },
+  "pinDescription": "Tosaerba a batteria: quale scegliere nel 2026? EGO, Ryobi, Greenworks, DeWalt e Kobalt a confronto su autonomia, tempi di ricarica e batterie compatibili. Prato tagliato senza benzina né rumore. #giardinaggio #tosaerba #casaegiardino",
+  "recommendedFor": [
+    {
+      "label": "Chi ha casa con giardino e vuole un'unica famiglia di batterie per tutto",
+      "offerId": "ego-lm2156sp-21-self-propelled",
+      "reason": "La piattaforma EGO Power+ copre tosaerba, decespugliatore, soffiatore e spazzaneve: una sola batteria per tutto il giardino."
+    },
+    {
+      "label": "Appassionati di fai da te che hanno già utensili DeWalt",
+      "offerId": "dewalt-2x20v-max-21",
+      "reason": "Il tosaerba 2x20V MAX usa le stesse batterie di trapani e seghe DeWalt, senza doppioni di caricabatterie."
+    },
+    {
+      "label": "Chi ha un giardino in pendenza e taglia due volte a settimana",
+      "offerId": "ryobi-40v-hp-brushless",
+      "reason": "60 minuti di autonomia e lo scarico laterale gestiscono l'erba alta o incolta senza far affaticare il motore."
+    },
+    {
+      "label": "Chi ha poco tempo e taglia il prato tra un impegno e l'altro",
+      "offerId": "greenworks-pro-80v-21",
+      "reason": "Con la ricarica in 30 minuti finisce un giro, ricarica durante la pausa pranzo e completa il secondo nel pomeriggio."
+    },
+    {
+      "label": "Chi cerca il prezzo migliore passando dal motore a scoppio",
+      "offerId": "kobalt-80v-21-mower",
+      "reason": "Il Kobalt 80V offre trazione e motore brushless al prezzo più basso della classe 80V, disponibile nei negozi Lowe's."
+    }
+  ]
 }

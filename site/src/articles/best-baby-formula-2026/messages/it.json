@@ -2,5 +2,127 @@
   "title": "Miglior latte in formula 2026: 5 a confronto",
   "description": "Abbiamo confrontato Bobbie, Holle, Kendamil, Similac Pure Bliss, Earth's Best. Ecco cosa spicca davvero per qualità degli ingredienti e costo tra i latte in formula nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Standard UE e USA a confronto nel 2026",
+      "paragraphs": [
+        "La normativa UE per il latte in polvere di Stage 1 è più severa su zuccheri aggiunti (niente sciroppo di mais disidratato), origine del DHA (va sempre indicata) e composizione proteica (rapporto siero-caseina obbligatorio). La FDA statunitense lascia più margine: per questo Bobbie è stato il primo marchio americano ad allinearsi apertamente ai parametri europei.",
+        "Importare è diventato più semplice. Holle e Kendamil arrivano ormai per vie legali autorizzate dalla FDA (Organic Start, Organic's Best). Lo status giuridico è cambiato nel 2024: il mercato grigio non è più l'unica strada."
+      ]
+    },
+    {
+      "heading": "Qualità degli ingredienti e costi",
+      "paragraphs": [
+        "Fonte di zuccheri: Bobbie (lattosio biologico), Holle (lattosio biologico), Kendamil (lattosio biologico + tracce di maltodestrine), Similac Pure Bliss (solo lattosio), Earth's Best (lattosio + sciroppo di glucosio disidratato). Lo sciroppo di glucosio disidratato è consentito, ma diversi pediatri lo guardano con sospetto.",
+        "Costo settimanale con circa 950 ml al giorno: Earth's Best (32 €), Bobbie (39 €), Similac Pure Bliss (42 €), Kendamil (48 €), Holle (54 €). Holle è il più caro per via della logistica di importazione, ma ha la lista ingredienti migliore."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Il latte in formula europeo è più sicuro di quello americano?",
+      "a": "Non più sicuro: più rigido sugli additivi. Anche le formule approvate dalla FDA sono sicure. La differenza sta nelle regole UE su zuccheri aggiunti e indicazione dell'origine del DHA. Per un bambino sano, la maggior parte dei pediatri considera valide entrambe."
+    },
+    {
+      "q": "Posso alternare marche diverse?",
+      "a": "Sì, i pediatri confermano che alternare le marche o passare gradualmente da una all'altra è sicuro. Con ogni nuova marca resti sulla stessa per le prime due settimane per valutare la tolleranza, poi può alternare liberamente."
+    },
+    {
+      "q": "Quando si smette con il latte in formula?",
+      "a": "Il passaggio al latte vaccino intero avviene di norma a 12 mesi. Non c'è fretta: la formula resta adeguata anche dopo, se preferisce il suo profilo nutrizionale (esistono formule di crescita Stage 3 proprio per questo)."
+    }
+  ],
+  "products": {
+    "bobbie-organic": {
+      "badge": "🏆 Il migliore di produzione USA",
+      "review": "Bobbie Organic Infant Formula è il primo marchio americano a ricalcare dichiaratamente le ricette europee. Certificato USDA Organic, segue i parametri UE (più lattosio, latte biologico A2). La produzione negli USA sotto controllo FDA evita i tempi di importazione. 24 € a barattolo, con consegna in abbonamento. La scelta giusta se vuole l'impostazione europea senza le complicazioni doganali.",
+      "pros": [
+        "Ricetta in stile UE sotto normativa FDA",
+        "Consegna automatica in abbonamento"
+      ],
+      "cons": [
+        "24 € a barattolo, più caro delle formule da supermercato"
+      ]
+    },
+    "holle-stage-1-organic": {
+      "badge": "🇪🇺 Il più premium",
+      "review": "Holle Stage 1 Organic è il punto di riferimento tedesco. Certificazione biodinamica Demeter, niente maltodestrine, solo lattosio biologico come carboidrato. Importato legalmente tramite Organic Start con autorizzazione FDA. 54 € a settimana è la spesa più alta, ma la lista ingredienti è la più pulita in assoluto.",
+      "pros": [
+        "Certificazione biodinamica Demeter",
+        "Zero maltodestrine e zero sciroppo di mais"
+      ],
+      "cons": [
+        "54 € a settimana: il costo più alto della selezione"
+      ]
+    },
+    "kendamil-organic": {
+      "badge": "🇬🇧 Il migliore a base di latte intero",
+      "review": "Kendamil Organic Whole Milk parte dal latte intero, non dal latte scremato con oli vegetali come fa gran parte delle formule americane. Produttore britannico autorizzato FDA, DHA di origine vegetale ricavato dalle alghe. È la migliore formula in stile europeo facilmente reperibile negli USA senza prezzi da fascia premium.",
+      "pros": [
+        "Base di latte intero (non scremato + oli)",
+        "DHA vegetale ricavato dalle alghe"
+      ],
+      "cons": [
+        "Tracce di maltodestrine nella lista ingredienti"
+      ]
+    },
+    "similac-pure-bliss": {
+      "badge": "💼 Il migliore tra i marchi diffusi",
+      "review": "Similac Pure Bliss è la linea premium di Abbott. Senza OGM, a base di latte, con il lattosio come unico carboidrato (niente sciroppo di mais) e senza ormoni della crescita artificiali. Si trova in tutte le grandi catene americane. Da preferire se cerca la reperibilità di un marchio diffuso ma con ingredienti più puliti rispetto al Similac classico.",
+      "pros": [
+        "Solo lattosio come carboidrato (niente sciroppo di mais)",
+        "Ampia reperibilità nella grande distribuzione USA"
+      ],
+      "cons": [
+        "Non è biologico"
+      ]
+    },
+    "earths-best-organic-dairy": {
+      "badge": "💰 Il biologico più conveniente",
+      "review": "Earth's Best Organic Dairy è la porta d'ingresso al biologico certificato USDA, a 32 € a settimana. Niente ormoni della crescita né pesticidi, con DHA e ARA inclusi. Il compromesso: nella lista ingredienti compare lo sciroppo di glucosio disidratato, consentito e diffuso ma su cui alcuni pediatri storcono il naso.",
+      "pros": [
+        "L'opzione USDA Organic più conveniente",
+        "Facile da trovare ovunque"
+      ],
+      "cons": [
+        "Sciroppo di glucosio disidratato nella lista ingredienti"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bobbie-organic": "L'abbonamento sconta il 10% sul prezzo di listino: conviene se prevede di usarlo per almeno 3 mesi.",
+    "holle-stage-1-organic": "Stage 1 (0-6 mesi), poi Stage 2 (6-10 mesi), poi Stage 3 (da 10 mesi): verifichi di ordinare lo stadio giusto.",
+    "kendamil-organic": "Kendamil Classic (non biologico) costa circa 9 € in meno a settimana: lista ingredienti quasi identica, manca solo la certificazione bio.",
+    "similac-pure-bliss": "Iscrivendosi al programma Similac Strong Moms si ricevono buoni sconto per oltre 350 € l'anno.",
+    "earths-best-organic-dairy": "Organic Dairy è la linea base: Earth's Best propone anche le varianti Sensitivity e Soy."
+  },
+  "pinDescription": "Latte in formula: 5 marche a confronto, ingrediente per ingrediente, tra standard europei e americani. Quale sceglieresti per il tuo bimbo? 🍼",
+  "recommendedFor": [
+    {
+      "label": "Genitori che vogliono ingredienti in stile europeo senza le grane dell'import",
+      "offerId": "bobbie-organic",
+      "reason": "Bobbie rispetta i parametri UE e spedisce direttamente da uno stabilimento americano controllato dalla FDA: niente attese in dogana né rischi da mercato grigio."
+    },
+    {
+      "label": "Genitori attenti alla salute, in cerca della lista ingredienti più pulita possibile",
+      "offerId": "holle-stage-1-organic",
+      "reason": "La certificazione biodinamica Demeter e l'assenza totale di maltodestrine ne fanno la formula con lo standard più rigido reperibile negli USA."
+    },
+    {
+      "label": "Genitori che passano dall'allattamento al seno e cercano più grassi",
+      "offerId": "kendamil-organic",
+      "reason": "Kendamil parte dal latte intero anziché dal latte scremato con oli vegetali, avvicinandosi più di tutte al profilo lipidico del latte materno."
+    },
+    {
+      "label": "Famiglie attente al budget che usano tanto biologico",
+      "offerId": "earths-best-organic-dairy",
+      "reason": "A 32 € a settimana, Earth's Best è l'opzione USDA Organic più conveniente e si trova praticamente in ogni grande catena americana."
+    },
+    {
+      "label": "Genitori che privilegiano la disponibilità in negozio rispetto alle materie prime premium",
+      "offerId": "similac-pure-bliss",
+      "reason": "Similac Pure Bliss usa il solo lattosio come carboidrato, senza sciroppo di mais, ed è in vendita in tutte le grandi catene americane senza doverlo ordinare."
+    }
+  ]
 }

@@ -2,5 +2,144 @@
   "title": "Miglior conto corrente 2026: 5 a confronto",
   "description": "Abbiamo confrontato Schwab, Ally, Chase, SoFi, Wells Fargo. Ecco cosa spicca davvero per commissioni, accesso ATM e APY tra i conto corrente nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Banche online e banche tradizionali",
+      "paragraphs": [
+        "Banche online (Ally, SoFi, Schwab): nessun canone mensile, rendimenti più alti (0,10-4,20% annuo), niente filiali fisiche ma bonifici istantanei e strumenti digitali completi.",
+        "Banche tradizionali (Chase, Wells Fargo): filiali fisiche, consulenza allo sportello, ma 10-12 € al mese di canone (azzerabile con accrediti o giacenze minime)."
+      ]
+    },
+    {
+      "heading": "La scelta giusta per ogni esigenza",
+      "paragraphs": [
+        "Per chi viaggia: Schwab Bank. Rimborso illimitato delle commissioni ATM in tutto il mondo, nessuna commissione sulle valute estere.",
+        "Miglior banca online: Ally Bank. 0,10-0,25% annuo, canone 0 €, oltre 43.000 ATM gratuiti.",
+        "Miglior rapporto con una grande banca: Chase Total Checking. Oltre 4.700 filiali e una rete ATM capillare.",
+        "Migliore soluzione tutto-in-uno: SoFi. Fino al 4,20% annuo sul deposito, zero spese.",
+        "Per chi è già cliente Wells: Wells Fargo Everyday. Oltre 4.700 filiali."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Conviene avere più conti correnti?",
+      "a": "Per molti sì: un conto principale, uno dedicato ai viaggi (Schwab) e un deposito online ad alto rendimento (Ally o SoFi). Così sfrutti i punti di forza di ciascuno senza pagare canoni."
+    },
+    {
+      "q": "Le banche online sono sicure?",
+      "a": "Sì: i depositi sono garantiti fino a 250.000 $ dal fondo federale FDIC, esattamente come nelle banche tradizionali. Hanno costi di struttura più bassi, ed è per questo che offrono tassi migliori."
+    },
+    {
+      "q": "Quanto conta il tasso sul conto corrente?",
+      "a": "Poco: il conto corrente serve alla liquidità, non al rendimento. Tieni 2.000-4.000 € sul corrente e il resto su un deposito ad alto rendimento. Il tasso del conto pesa molto meno di quello del deposito."
+    },
+    {
+      "q": "Che differenza c'è tra Zelle e Venmo?",
+      "a": "Zelle viaggia da banca a banca (non serve un conto separato ed è gratuito). Venmo è un conto a sé: i trasferimenti tra utenti Venmo sono immediati, ma il prelievo verso la banca è più lento. Quasi tutte le grandi banche supportano Zelle."
+    }
+  ],
+  "products": {
+    "schwab-bank-checking": {
+      "badge": "🏆 Il migliore per chi viaggia",
+      "review": "Schwab Bank Investor Checking è la scelta giusta per chi si muove spesso all'estero. Nessun canone mensile, rimborso illimitato delle commissioni ATM in tutto il mondo (prelevi da qualunque sportello e a fine mese Schwab ti restituisce la commissione), zero commissioni sulle transazioni in valuta estera con la carta di debito. Il miglior conto da viaggio sul mercato statunitense.",
+      "pros": [
+        "Rimborso illimitato delle commissioni ATM nel mondo",
+        "Nessuna commissione sulle valute estere",
+        "Canone mensile 0 €"
+      ],
+      "cons": [
+        "Nessuna filiale fisica",
+        "Serve un conto titoli Schwab per aprirlo"
+      ]
+    },
+    "ally-bank-checking": {
+      "badge": "🌐 Miglior banca online",
+      "review": "Ally Bank Interest Checking è il conto online di riferimento. Tasso dello 0,10-0,25% annuo, canone 0 €, oltre 43.000 ATM gratuiti (rete AllPoint) e rimborso fino a 10 € al mese per i prelievi fuori rete. Una banca online solida, con un'app mobile davvero curata.",
+      "pros": [
+        "Tasso 0,10-0,25% annuo",
+        "Canone mensile 0 €",
+        "Oltre 43.000 ATM gratuiti"
+      ],
+      "cons": [
+        "Nessuna filiale fisica",
+        "Rimborso ATM fuori rete limitato a 10 € al mese"
+      ]
+    },
+    "chase-total-checking": {
+      "badge": "🏛️ La migliore grande banca",
+      "review": "Chase Total Checking è la scelta giusta se allo sportello ci tieni davvero. Oltre 4.700 filiali, più di 16.000 ATM e un bonus di benvenuto da 200-300 € quando è attivo. Canone di 12 € al mese, azzerato con un accredito stipendio da 500 € o una giacenza di 1.500 €. Il rapporto bancario migliore se vuoi integrare carta di credito e mutuo.",
+      "pros": [
+        "Oltre 4.700 filiali",
+        "Più di 16.000 ATM Chase",
+        "Bonus di benvenuto disponibili con regolarità"
+      ],
+      "cons": [
+        "Canone di 12 € al mese (azzerabile)",
+        "Tasso più basso rispetto alle banche online"
+      ]
+    },
+    "sofi-checking": {
+      "badge": "🎯 Il miglior prodotto combinato",
+      "review": "SoFi Checking and Savings è la scelta giusta se vuoi un unico prodotto che faccia entrambe le cose. Fino al 4,20% annuo sulla parte a deposito, zero spese mensili, conto corrente e risparmio in un'unica app. I vantaggi riservati ai soci SoFi valgono su tutti i loro prodotti: prestiti, investimenti e altro.",
+      "pros": [
+        "Fino al 4,20% annuo sul deposito",
+        "Zero spese",
+        "Vantaggi soci su tutti i prodotti SoFi"
+      ],
+      "cons": [
+        "Nessuna filiale fisica",
+        "Il tasso cambia con le promozioni in corso"
+      ]
+    },
+    "wells-fargo-everyday-checking": {
+      "badge": "🏛️ Il migliore per i clienti Wells",
+      "review": "Wells Fargo Everyday Checking è la scelta giusta se sei già cliente Wells Fargo. Oltre 4.700 filiali e una rete ATM ampia. Canone di 10 € al mese, azzerabile con l'accredito dello stipendio o una giacenza di 500 €. Paragonabile a Chase, con in più i vantaggi specifici di Wells su strumenti online e carte di credito.",
+      "pros": [
+        "Oltre 4.700 filiali",
+        "Rete ATM ampia",
+        "Integrazione con l'ecosistema Wells Fargo"
+      ],
+      "cons": [
+        "Canone di 10 € al mese",
+        "Controversie che hanno segnato il marchio in passato"
+      ]
+    }
+  },
+  "offerNotes": {
+    "schwab-bank-checking": "Apertura su schwab.com. Richiede un conto titoli Schwab collegato (anch'esso senza deposito minimo).",
+    "ally-bank-checking": "Apertura su ally.com. Solo online, nessuna filiale.",
+    "chase-total-checking": "Apertura su chase.com o in filiale. I bonus di benvenuto, quando disponibili, richiedono alcune operazioni qualificanti.",
+    "sofi-checking": "Apertura su sofi.com. I vantaggi soci SoFi si estendono agli altri prodotti della società.",
+    "wells-fargo-everyday-checking": "Apertura su wellsfargo.com o in filiale."
+  },
+  "pinDescription": "Conto corrente 2026: canoni, prelievi all'estero e rendimenti a confronto. Schwab, Ally, Chase, SoFi e Wells Fargo — quale conviene davvero? 💳",
+  "recommendedFor": [
+    {
+      "label": "Chi viaggia spesso all'estero e preleva dagli ATM stranieri",
+      "offerId": "schwab-bank-checking",
+      "reason": "Schwab rimborsa a fine mese ogni commissione ATM nel mondo e non applica alcun costo sulle transazioni in valuta estera con la carta di debito."
+    },
+    {
+      "label": "Chi lavora da remoto e gestisce tutto dallo smartphone",
+      "offerId": "ally-bank-checking",
+      "reason": "Con canone 0 €, tasso allo 0,25% e oltre 43.000 ATM gratuiti, Ally offre un conto completo senza mai mettere piede in filiale."
+    },
+    {
+      "label": "Giovani professionisti alla prima carta di credito",
+      "offerId": "chase-total-checking",
+      "reason": "Le oltre 4.700 filiali Chase e i bonus ricorrenti da 200-300 € rendono semplice affiancare al conto una carta di credito gestita dallo stesso accesso."
+    },
+    {
+      "label": "Chi vuole conto e deposito ad alto rendimento in un'unica app",
+      "offerId": "sofi-checking",
+      "reason": "Il conto combinato SoFi rende fino al 4,20% annuo sulla parte a deposito, senza spese e con i vantaggi soci estesi a prestiti e investimenti."
+    },
+    {
+      "label": "Chi ha già un mutuo o una carta Wells Fargo",
+      "offerId": "wells-fargo-everyday-checking",
+      "reason": "Le oltre 4.700 filiali e gli strumenti online integrati permettono ai clienti Wells Fargo di riunire conto, credito e mutuo in un unico posto."
+    }
+  ]
 }

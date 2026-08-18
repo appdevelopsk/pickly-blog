@@ -2,5 +2,145 @@
   "title": "Miglior assicurazione sulla vita 2026: 5 a confronto",
   "description": "Abbiamo confrontato Haven Life, Northwestern Mutual, Policygenius, State Farm, Ladder. Ecco cosa spicca davvero per processo di preventivo e opzioni di polizza tra i assicurazione sulla vita nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Temporanea o vita intera: quale scegliere",
+      "paragraphs": [
+        "Temporanea caso morte (TCM): più economica (30-60 €/mese per 500.000 € di capitale a 35 anni), copre un periodo definito (10-30 anni). La scelta giusta per chi ha debiti o familiari a carico.",
+        "Vita intera: più cara (300-500 €/mese per 250.000 € a 35 anni), copertura permanente, accumula un valore di riscatto. Spesso spinta da consulenti che lavorano a provvigione.",
+        "La maggior parte dei consulenti finanziari indica la temporanea per il grosso dei risparmiatori: la differenza di premio conviene investirla in fondi indicizzati a basso costo."
+      ]
+    },
+    {
+      "heading": "La migliore per ogni esigenza",
+      "paragraphs": [
+        "Migliore temporanea online: Haven Life (15-200 €/mese). Procedura interamente online, senza visita medica per chi rientra nei requisiti.",
+        "Migliore vita intera: Northwestern Mutual. Compagnia mutualistica storica, rating patrimoniali solidi.",
+        "Migliore per confrontare le offerte: Policygenius. Mette a confronto oltre 20 compagnie, anche con formule senza visita medica.",
+        "Migliore per i pacchetti combinati: State Farm. Sconti su auto/casa/vita abbinate.",
+        "Migliore per flessibilità: Ladder. Capitale modificabile man mano che la vita cambia (laddering)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Di quale capitale assicurato ho bisogno?",
+      "a": "Regola pratica: 10-15 volte il reddito annuo lordo. Poi si corregge in base ai debiti (mutuo, prestiti), ai familiari a carico (studi dei figli) e al reddito del coniuge. I calcolatori online di Policygenius e Haven Life aiutano a farsi un'idea."
+    },
+    {
+      "q": "Temporanea o vita intera?",
+      "a": "La temporanea va bene per oltre il 90% delle persone. La vita intera ha senso solo se: (1) ha già saturato gli strumenti con vantaggi fiscali E (2) vuole una forma di risparmio forzoso E (3) ha esigenze successorie complesse. In tutti gli altri casi vince temporanea + fondi indicizzati."
+    },
+    {
+      "q": "Serve la visita medica?",
+      "a": "Dipende: Haven Life, Ladder e Policygenius prevedono formule senza visita per candidati in buona salute entro certi massimali. L'assunzione tradizionale richiede la visita sopra il milione di euro di capitale."
+    },
+    {
+      "q": "Ci si può fidare delle compagnie vita online?",
+      "a": "Sì: Haven Life (del gruppo MassMutual), Ladder (con assunzione a carico di Allianz/Fidelity) e Policygenius (marketplace di compagnie consolidate) si appoggiano tutte a processi di assunzione tradizionali."
+    }
+  ],
+  "products": {
+    "haven-life": {
+      "badge": "🏆 Migliore temporanea online",
+      "review": "Haven Life è la scelta giusta per una temporanea caso morte sottoscritta online. Tutto si fa dal browser, senza incontrare un consulente: capitali da 250.000 a 3 milioni, niente visita medica per buona parte dei candidati idonei. Fa capo a MassMutual, quindi l'assunzione del rischio è quella di una compagnia solida. Ideale tra i 25 e i 45 anni in buona salute.",
+      "pros": [
+        "Procedura online, senza appuntamenti con il consulente",
+        "Formula senza visita medica per chi è in buona salute",
+        "Fa capo a MassMutual"
+      ],
+      "cons": [
+        "Solo polizze temporanee",
+        "Assunzione severa: i profili a rischio vengono respinti"
+      ]
+    },
+    "northwestern-mutual": {
+      "badge": "🏛️ Migliore vita intera",
+      "review": "Northwestern Mutual è la scelta giusta per una polizza vita intera. È specializzata nelle coperture permanenti, ha rating patrimoniali solidi e consulenti che la ricevono di persona. La vita intera ha senso soprattutto nella pianificazione successoria dei grandi patrimoni. I consulenti NM sono ben preparati, ma lavorano a provvigione: tenderanno a proporle la vita intera.",
+      "pros": [
+        "Specialista della vita intera",
+        "Rating patrimoniali solidi",
+        "Consulenti disponibili di persona"
+      ],
+      "cons": [
+        "Consulenti a provvigione che spingono la vita intera",
+        "La vita intera è poco conveniente per la maggior parte delle persone"
+      ]
+    },
+    "policygenius-marketplace": {
+      "badge": "🛒 Migliore per confrontare",
+      "review": "Policygenius è la scelta giusta se vuole mettere a confronto più compagnie. È un marketplace online che compara oltre 20 assicuratori (Haven, Lincoln, Pacific Life, Prudential e altri), con opzioni senza visita medica. Il modo più rapido per trovare il premio più basso per il proprio profilo.",
+      "pros": [
+        "Confronta oltre 20 compagnie",
+        "Formule senza visita medica disponibili",
+        "Indipendente: nessuna preferenza per una compagnia specifica"
+      ],
+      "cons": [
+        "Guadagna provvigioni dalle compagnie",
+        "I preventivi possono variare molto a seconda del profilo"
+      ]
+    },
+    "state-farm-life": {
+      "badge": "📦 Migliore per i pacchetti",
+      "review": "State Farm Life Insurance è la scelta giusta se abbina la polizza vita a quelle auto e casa. Gli sconti sul pacchetto possono ridurre il totale dei premi del 10-20%. Agenti sul territorio e più tipologie di contratto disponibili (temporanea, vita intera, universal life).",
+      "pros": [
+        "Sconti sul pacchetto (auto/casa/vita)",
+        "Agenti sul territorio",
+        "Più tipologie di polizza"
+      ],
+      "cons": [
+        "Poco competitiva sulla temporanea presa da sola",
+        "Agenti a provvigione"
+      ]
+    },
+    "ladder-term-life": {
+      "badge": "🪜 Massima flessibilità",
+      "review": "Ladder Term Life è la scelta giusta per chi cerca flessibilità. Temporanea online con la funzione di laddering: il capitale si adegua ai cambiamenti della vita (figli ormai grandi = capitale più basso). Copertura da 100.000 a 8 milioni, tutto online.",
+      "pros": [
+        "Laddering: capitale modificabile nel tempo",
+        "Procedura online",
+        "Capitali da 100.000 a 8 milioni"
+      ],
+      "cons": [
+        "Marchio meno noto di MassMutual o Northwestern",
+        "Prezzi competitivi ma non i più bassi"
+      ]
+    }
+  },
+  "offerNotes": {
+    "haven-life": "Si sottoscrive su havenlife.com. Preventivo online in 5 minuti; l'assunzione richiede in genere 1-2 settimane.",
+    "northwestern-mutual": "Si contatta un consulente NM tramite nwmutual.com o su segnalazione. Per la maggior parte delle polizze servono incontri di persona.",
+    "policygenius-marketplace": "Preventivo su policygenius.com: le proposte di più compagnie arrivano nel giro di pochi minuti.",
+    "state-farm-life": "Si contatta un agente State Farm tramite statefarm.com o presso l'agenzia più vicina.",
+    "ladder-term-life": "Si sottoscrive su ladderlife.com. Tutto online, preventivo in pochi minuti."
+  },
+  "pinDescription": "Polizza vita: quanto costa davvero proteggere la famiglia? Temporanea da 30 €/mese contro vita intera da 300 €/mese — Haven Life, Northwestern Mutual, Policygenius, State Farm e Ladder a confronto. Salva il pin prima di firmare.",
+  "recommendedFor": [
+    {
+      "label": "Neogenitori con un mutuo e familiari a carico",
+      "offerId": "haven-life",
+      "reason": "La procedura online senza visita medica di Haven Life copre in fretta chi è in buona salute: perfetta se le servono 500.000 € o più senza passare da un consulente."
+    },
+    {
+      "label": "Grandi patrimoni con esigenze successorie",
+      "offerId": "northwestern-mutual",
+      "reason": "La vita intera di Northwestern Mutual accumula valore con vantaggi fiscali e regge pianificazioni successorie complesse, con un consulente che la segue di persona."
+    },
+    {
+      "label": "Chi si assicura per la prima volta e non sa quale compagnia scegliere",
+      "offerId": "policygenius-marketplace",
+      "reason": "Policygenius confronta oltre 20 compagnie in pochi minuti e fa emergere il premio più basso per il suo profilo di salute, senza favorire nessun assicuratore."
+    },
+    {
+      "label": "Chi ha già l'auto o la casa assicurate con State Farm",
+      "offerId": "state-farm-life",
+      "reason": "Aggiungere la polizza vita alle coperture auto o casa già attive sblocca sconti del 10-20% su tutti i premi, con un unico agente di riferimento."
+    },
+    {
+      "label": "Genitori il cui fabbisogno di copertura calerà nel tempo",
+      "offerId": "ladder-term-life",
+      "reason": "Il laddering di Ladder permette di ridurre il capitale man mano che i figli crescono o il mutuo si assottiglia, senza pagare per una protezione che non le serve più."
+    }
+  ]
 }

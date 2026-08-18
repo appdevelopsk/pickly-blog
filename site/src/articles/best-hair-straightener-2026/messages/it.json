@@ -103,5 +103,114 @@
     "remington-s9500-pearl": "Migliore scelta di livello base — piastre in ceramica, 9 impostazioni di calore, basso costo iniziale. Il rivestimento in ceramica si consuma in 12-18 mesi di uso quotidiano; pianificare di sostituire o aggiornare."
   },
   "pinDescription": "Cinque piastre per capelli confrontate nel 2026: dal Remington entry-level al Dyson Corrale di fascia alta. Tecnologia delle piastre, scienza della temperatura, realtà dei danni da calore e quale raccomanderebbero i professionisti.",
-  "methodology": "Ogni prodotto è stato valutato in base alla trasparenza degli ingredienti, alla comprovata affidabilità dermatologica, alla costanza dei risultati per gli utenti reali, alla qualità della confezione e al rapporto valore-utilizzo."
+  "methodology": "Ogni prodotto è stato valutato in base alla trasparenza degli ingredienti, alla comprovata affidabilità dermatologica, alla costanza dei risultati per gli utenti reali, alla qualità della confezione e al rapporto valore-utilizzo.",
+  "products": [
+    {
+      "offerId": "dyson-corrale-straightener",
+      "badge": "La migliore cordless",
+      "review": "Il Corrale è l'unica piastra senza filo davvero credibile del gruppo: la batteria agli ioni di litio garantisce circa 30 minuti di styling, sufficienti per capelli di media densità lunghi fino alle spalle con una sola ricarica. La caratteristica distintiva sono le piastre flessibili: le due metà di ciascuna piastra si flettono in modo indipendente per adattarsi alla ciocca, e secondo i test condotti da Dyson questo riduce di circa il 30% l'esposizione al calore rispetto a piastre rigide alla stessa temperatura. Il dato non è stato replicato da terze parti, ma il ragionamento sulla geometria del contatto sta in piedi. Le tre impostazioni (165 / 185 / 210 °C) coprono quasi tutti i tipi di capello. Il punto debole, detto onestamente, è il rapporto prezzo-funzioni: è il modello di punta e si paga un sovrapprezzo notevole per il cordless, che chi si acconcia sempre davanti allo stesso specchio non userà mai davvero.",
+      "pros": [
+        "Davvero cordless, con circa 30 minuti di styling per ricarica",
+        "Le piastre flessibili si adattano a ogni ciocca per un contatto più pieno",
+        "Tre livelli di temperatura per quasi tutti i tipi di capello",
+        "Caricatore universale 100-240 V, utilizzabile ovunque"
+      ],
+      "cons": [
+        "I 30 minuti di batteria sono un limite netto su capelli molto folti o lunghi fino alla vita",
+        "Il sovrapprezzo del cordless non si ripaga se ci si acconcia sempre allo specchio di casa"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "ghd-platinum-plus",
+      "badge": "La migliore per l'uso quotidiano",
+      "review": "La Platinum+ è la scelta più difendibile per la piastratura quotidiana perché elimina la causa più comune di danno da calore: l'abitudine di alzare la temperatura più del necessario. I 185 °C fissi sono la temperatura alla quale l'alfa-cheratina si ristruttura in modo più efficiente senza entrare nella zona di degradazione proteica, che comincia intorno ai 200 °C, e il sistema di riscaldamento predittivo legge la temperatura delle piastre 250 volte al secondo per mantenerla stabile anche quando una ciocca fredda e umida sottrae calore. Nessuna modalità da scegliere, nessuna rotella da regolare, nessuna decisione da prendere. L'avvertenza onesta: 185 °C non bastano su capelli molto grossi o particolarmente resistenti, e GHD non ha un centro assistenza diretto in tutti i mercati, quindi la garanzia passa dall'importatore.",
+      "pros": [
+        "I 185 °C fissi eliminano l'errore di superare la temperatura utile",
+        "Riscaldamento predittivo con 250 letture al secondo",
+        "Spegnimento automatico e impugnatura ben bilanciata per l'uso di tutti i giorni",
+        "L'argomentazione tecnica più solida del gruppo sul controllo della temperatura"
+      ],
+      "cons": [
+        "185 °C insufficienti su capelli molto grossi o resistenti",
+        "Assistenza in garanzia gestita dall'importatore, senza centro diretto"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "panasonic-nanocare-eh-hs0e",
+      "badge": "Il miglior rapporto qualità-prezzo da salone",
+      "review": "La CHI Original è la scelta di valore da salone: una piastra in ceramica da 1 pollice con piastre flottanti e calore a infrarossi lontani, punto di riferimento per i parrucchieri da anni e venduta in tutto il mondo con doppio voltaggio. La temperatura fissa di fascia media (circa 185 °C) la mantiene nella zona più sicura per capelli da fini a medi, ben al di sotto dei modelli che arrivano oltre i 230 °C, mentre le piastre flottanti mantengono il contatto pieno anche sulle ciocche irregolari, per un risultato liscio e con poca elettricità statica. L'avvertenza onesta: la piastra da 1 pollice (25 mm) prende meno capelli a ogni passaggio rispetto alle versioni da 38 mm, quindi è più lenta su chiome lunghe o molto folte, e la temperatura unica non offre alcuna impostazione alta per capelli grossi e resistenti.",
+      "pros": [
+        "Piastre flottanti in ceramica da salone con calore a infrarossi lontani",
+        "La temperatura media fissa è più sicura dei modelli oltre 230 °C sui capelli fini",
+        "Doppio voltaggio e ampia disponibilità in tutto il mondo",
+        "Scorrimento fluido e antistatico per la piastratura di tutti i giorni"
+      ],
+      "cons": [
+        "La piastra da 1 pollice è più lenta su capelli lunghi o molto folti",
+        "La temperatura fissa non offre un'opzione ad alto calore per capelli grossi"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "remington-s9500-pearl",
+      "badge": "La migliore economica",
+      "review": "La S9500 Pearl è la fascia d'ingresso: piastre in ceramica con 9 livelli di calore fino a 230 °C, riscaldamento in 60 secondi e il prezzo di partenza più basso di questo confronto. Per chi cambia comunque gli strumenti di styling ogni uno o due anni il conto torna: spesa iniziale contenuta in cambio di una vita utile più breve. Il punto debole è la durata delle piastre: il rivestimento in ceramica è più sottile rispetto ai modelli superiori e nelle recensioni degli acquirenti mostra segni di usura dopo 12-18 mesi di uso quotidiano. La ceramica graffiata perde scorrevolezza e può impigliare i capelli, ed è proprio questo il difetto che spinge a sostituirla. Se pensa di usare la piastra tutti i giorni per tre anni o più, BaByliss o la CHI sono più convenienti sul lungo periodo.",
+      "pros": [
+        "Il prezzo di partenza più basso del confronto, con ampio margine",
+        "9 livelli di calore fino a 230 °C per quasi tutte le esigenze",
+        "Riscaldamento in 60 secondi, come i modelli più costosi",
+        "Le piastre in ceramica distribuiscono il calore meglio del metallo nudo"
+      ],
+      "cons": [
+        "Il rivestimento in ceramica si consuma in 12-18 mesi di uso quotidiano",
+        "Nessun riscaldamento predittivo: la temperatura cala sulle ciocche fredde"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "babyliss-st330e",
+      "badge": "Il miglior rapporto qualità-prezzo pro",
+      "review": "La ST330E è la professionale conveniente: piastre ibride ceramica-titanio (superficie in ceramica per lo scorrimento, anima in titanio per trattenere il calore), temperatura massima di 235 °C, riscaldamento in 60 secondi e vera credibilità da salone in Europa e in Australia. La costruzione ibrida è un compromesso sensato per capelli di media densità che faticano a piegarsi: la ritenzione di calore del titanio riduce il problema dei passaggi multipli sulle ciocche più grosse, senza l'effetto elettrostatico del titanio nudo. Il punto debole, detto chiaramente: 235 °C bastano a danneggiare rapidamente capelli fini o colorati, e la regolazione della temperatura è manuale, senza alcuna tecnologia predittiva. È uno strumento per chi sa gestire le temperature, non una piastra da accendere e dimenticare.",
+      "pros": [
+        "L'ibrido ceramica-titanio bilancia scorrevolezza e ritenzione del calore",
+        "I 235 °C massimi domano i capelli grossi o resistenti in un solo passaggio",
+        "Riscaldamento in 60 secondi e costruzione di livello professionale",
+        "Vera credibilità da salone nei mercati europei"
+      ],
+      "cons": [
+        "I 235 °C massimi danneggiano rapidamente capelli fini o colorati",
+        "La regolazione manuale richiede attenzione costante da parte di chi la usa"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per i viaggi e per acconciarsi senza presa di corrente",
+      "offerId": "dyson-corrale-straightener",
+      "reason": "L'unica opzione davvero cordless del gruppo: 30 minuti di batteria bastano per capelli fino alle spalle, in hotel o ovunque non ci sia una presa."
+    },
+    {
+      "label": "Per l'uso quotidiano a casa, capelli da fini a medi",
+      "offerId": "ghd-platinum-plus",
+      "reason": "I 185 °C fissi con riscaldamento predittivo eliminano la causa più comune di danno da calore e offrono l'argomentazione tecnica più solida del gruppo."
+    },
+    {
+      "label": "Per una piastra in ceramica da salone su capelli da fini a medi",
+      "offerId": "panasonic-nanocare-eh-hs0e",
+      "reason": "Piastre flottanti in ceramica e calore a infrarossi lontani a temperatura media fissa danno un risultato liscio e antistatico, e il doppio voltaggio la rende utilizzabile quasi ovunque."
+    },
+    {
+      "label": "Per un uso saltuario e con budget ridotto",
+      "offerId": "remington-s9500-pearl",
+      "reason": "Prezzo di partenza nettamente più basso e 9 livelli di calore per le esigenze di base: il compromesso giusto se cambia strumenti ogni 1-2 anni."
+    },
+    {
+      "label": "Per capelli grossi o resistenti, utenti esperti",
+      "offerId": "babyliss-st330e",
+      "reason": "Piastre ibride ceramica-titanio e 235 °C massimi domano le ciocche più ostiche in un solo passaggio, per chi sa gestire le temperature con criterio."
+    }
+  ]
 }

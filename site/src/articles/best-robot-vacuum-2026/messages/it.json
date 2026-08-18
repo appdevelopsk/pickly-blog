@@ -70,5 +70,114 @@
     "dyson-360-vis-nav": "Acquista solo se vuoi specificamente un Dyson — prezzo flagship senza la base di svuotamento automatico o la funzione mop che gli altri hanno a prezzi inferiori."
   },
   "pinDescription": "Cinque robot aspirapolvere confrontati nel 2026: dal SwitchBot K10+ economico al Dyson 360 Vis Nav di fascia alta. Aspirazione, funzione mop, precisione della mappatura e di quale ha davvero bisogno un piccolo appartamento.",
-  "methodology": "Abbiamo valutato ogni prodotto in base alla durata nell'uso quotidiano, alla facilità d'uso, alle prestazioni rispetto alle promesse pubblicitarie, alla qualità costruttiva e al valore nel tempo. Le specifiche dichiarate dal produttore sono state confrontate con recensioni verificate di chi lo possiede."
+  "methodology": "Abbiamo valutato ogni prodotto in base alla durata nell'uso quotidiano, alla facilità d'uso, alle prestazioni rispetto alle promesse pubblicitarie, alla qualità costruttiva e al valore nel tempo. Le specifiche dichiarate dal produttore sono state confrontate con recensioni verificate di chi lo possiede.",
+  "products": [
+    {
+      "offerId": "roborock-s8-pro-ultra",
+      "badge": "Miglior top di gamma",
+      "review": "Il Roborock S8 Pro Ultra è il top di gamma di riferimento per chi vuole un solo robot aspirapolvere capace di gestire praticamente tutto, senza doversi documentare oltre. I 6.000 Pa di aspirazione se la cavano su parquet e tappeti a pelo corto o medio, i due panni rotanti con sollevamento automatico sopra i tappeti permettono di aspirare e lavare in un unico passaggio, e la mappatura LiDAR restituisce una planimetria utilizzabile già alla prima passata, invece dei 2-3 giri di apprendimento richiesti dai modelli a telecamera. La base all-in-one svuota il contenitore in un sacchetto sigillato, lava il panno con acqua calda e riempie da sola il serbatoio dell'acqua pulita: è questo terzetto di funzioni della base a fare la differenza tra una manutenzione quotidiana e una settimanale. Il prezzo è più del triplo di quello dello SwitchBot, e il sovrapprezzo si paga per la base e la mappatura più che per la potenza di aspirazione in sé. Sul superamento degli ostacoli è il migliore del confronto: 2 cm.",
+      "pros": [
+        "La mappatura LiDAR è precisa già dalla prima passata",
+        "Doppio panno rotante con sollevamento automatico sui tappeti",
+        "Base che svuota, lava i panni e rabbocca l'acqua da sola",
+        "Supera soglie di 2 cm: il migliore di questo confronto"
+      ],
+      "cons": [
+        "Costa più del triplo dello SwitchBot",
+        "Il sovrapprezzo riguarda le funzioni della base più che l'aspirazione"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "irobot-roomba-j7-plus",
+      "badge": "Il migliore con animali in casa",
+      "review": "L'iRobot Roomba j7+ si guadagna il posto grazie al sistema PrecisionVision che evita gli escrementi degli animali: è il migliore della categoria ed è addestrato proprio su quel tipo di incidente che rovina la giornata a chi ha un cane o un gatto. Roborock ed Eufy rilevano genericamente «un ostacolo», mentre il j7+ è stato addestrato sulle sagome precise che gli altri robot spalmano sul pavimento. Completano il quadro una mappatura di qualità paragonabile al LiDAR (tecnicamente vSLAM con la telecamera frontale), la base autosvuotante e l'app iRobot Home, ormai matura. I limiti, detti onestamente: questo modello non lava affatto — il Combo j7+ è un prodotto a sé, a prezzo più alto — e il ciclo di svuotamento della base è rumoroso, più vicino a un aspirapolvere che a una stampante. In una casa senza animali, Roborock o Eufy rendono di più a parità di spesa; con animali, il j7+ è l'unica scelta sicura.",
+      "pros": [
+        "Riconoscimento ed evitamento degli escrementi ai vertici della categoria",
+        "App iRobot Home matura e vent'anni di esperienza nel settore",
+        "Base autosvuotante con sacchetto da 60 giorni di autonomia",
+        "La mappatura vSLAM se la cava bene anche nelle stanze poco illuminate"
+      ],
+      "cons": [
+        "Nessuna funzione lavapavimenti: il Combo j7+ è un modello a parte, più caro",
+        "Ciclo di svuotamento rumoroso, 80-85 dB per 8-12 secondi"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "eufy-x10-pro-omni",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "review": "L'Anker Eufy X10 Pro Omni è la scelta più conveniente del confronto perché offre la base completa — svuotamento, lavaggio dei panni e rabbocco dell'acqua — a circa metà del prezzo del Roborock S8 Pro Ultra. Gli 8.000 Pa sono il valore di aspirazione più alto dell'elenco (oltre i 4.000 Pa i vantaggi sui pavimenti duri calano parecchio, ma il margine conta sui tappeti spessi), a cui si aggiungono i due panni rotanti e un prezzo che per la prima volta porta l'automazione completa della base nella fascia media. Il limite, detto onestamente: la mappatura è affidata a telecamera e giroscopio anziché al LiDAR, quindi nelle prime 2-3 passate il robot ripassa visibilmente sulle zone già pulite e ogni tanto scambia un tappeto scuro per un dislivello. Una volta stabilizzata la mappa, dopo circa una settimana, la qualità della pulizia è pari a quella del Roborock: le difficoltà si concentrano tutte nella fase iniziale.",
+      "pros": [
+        "Base completa con svuotamento e lavaggio panni a metà del prezzo del Roborock",
+        "Gli 8.000 Pa dichiarati sono il valore più alto del confronto",
+        "Due panni rotanti, non il solito panno trascinato",
+        "Passata la prima settimana di mappatura, la qualità eguaglia il Roborock"
+      ],
+      "cons": [
+        "La mappatura a telecamera e giroscopio richiede 2-3 passate per stabilizzarsi",
+        "Con poca luce scambia a volte i tappeti scuri per dislivelli"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "switchbot-k10-plus",
+      "badge": "Il più sottile",
+      "review": "Lo SwitchBot K10+ è l'unico robot aspirapolvere qui presente che passa davvero sotto divani bassi e mobili TV senza strisciare: 9,2 cm di altezza, circa il 30% in meno di uno chassis Roborock, ed è proprio questa la differenza tra pulire sotto i mobili e doverli spostare ogni volta. I 2.500 Pa sono il valore più basso del confronto e non bastano per una pulizia profonda dei tappeti spessi, ma su parquet e tappeti a pelo corto in un appartamento piccolo sono più che sufficienti. Il contenitore da 150 ml richiede che la base si attivi dopo circa 70 m², e il lavaggio avviene con un panno in microfibra trascinato, non con un disco rotante. Sopra 1,5 cm fatica a superare le soglie, quindi in un appartamento con più stanze e battute di porta rialzate va messo in conto. Si integra strettamente con il resto dell'ecosistema SwitchBot (tende, serrature, hub).",
+      "pros": [
+        "Con 9,2 cm di altezza arriva sotto mobili preclusi agli altri robot",
+        "Il modello più economico del confronto",
+        "Si integra con l'ecosistema SwitchBot (tende, serrature, hub)",
+        "Base autosvuotante sorprendente per questa fascia di prezzo"
+      ],
+      "cons": [
+        "2.500 Pa non bastano per pulire a fondo i tappeti spessi",
+        "Fatica a superare soglie oltre 1,5 cm"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "dyson-360-vis-nav",
+      "badge": "Miglior ingegneria di aspirazione",
+      "review": "Il Dyson 360 Vis Nav è l'ammiraglia britannica e il modello più caro del confronto: mappatura con telecamera fisheye a 360 gradi, aspirazione a doppio canale mossa dal motore digitale Dyson e pulizia mirata comandabile dall'app. L'aspirazione è davvero potente: l'eredità del motore digitale Dyson si vede nella capacità di raccolta pura. I limiti, detti onestamente, spiegano perché quasi nessuna recensione lo consiglia come prima scelta: a questo prezzo non c'è alcuna base autosvuotante (il contenitore da 0,33 L va svuotato a mano dopo ogni ciclo), non lava i pavimenti e l'autonomia dichiarata è di circa 50 minuti per carica, quindi in una casa con più stanze serve una ricarica a metà lavoro. Sull'automazione della base è una generazione indietro rispetto a Roborock e Roomba, pur costando di più: da comprare solo se si vuole espressamente un Dyson accettando il compromesso.",
+      "pros": [
+        "L'aspirazione a doppio canale con motore digitale è ai vertici per raccolta pura",
+        "La telecamera fisheye a 360 gradi mappa bene anche le stanze poco illuminate",
+        "L'app Dyson si integra con l'ecosistema MyDyson",
+        "Qualità costruttiva e cura ingegneristica si vedono"
+      ],
+      "cons": [
+        "Nessuna base autosvuotante, a un prezzo da ammiraglia",
+        "Non lava i pavimenti e i 50 minuti di autonomia impongono una ricarica intermedia"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per chi vuole l'ammiraglia e non pensarci più",
+      "offerId": "roborock-s8-pro-ultra",
+      "reason": "Mappatura LiDAR, doppio panno rotante e base completa che svuota, lava e rabbocca coprono praticamente ogni situazione."
+    },
+    {
+      "label": "Per chi ha animali in casa",
+      "offerId": "irobot-roomba-j7-plus",
+      "reason": "PrecisionVision è addestrato proprio sull'incidente che ti rovina la mattinata, mentre Roborock ed Eufy rilevano solo «un ostacolo»."
+    },
+    {
+      "label": "Per chi cerca il miglior prezzo in fascia media",
+      "offerId": "eufy-x10-pro-omni",
+      "reason": "Base completa con svuotamento e lavaggio panni a metà del prezzo del Roborock, con 8.000 Pa e due panni rotanti, accettando le incertezze della prima settimana di mappatura."
+    },
+    {
+      "label": "Per appartamenti piccoli con mobili bassi",
+      "offerId": "switchbot-k10-plus",
+      "reason": "Con 9,2 cm è l'unico del confronto che passa sotto divani bassi e mobili TV senza strisciare."
+    },
+    {
+      "label": "Per gli affezionati Dyson che puntano sull'aspirazione",
+      "offerId": "dyson-360-vis-nav",
+      "reason": "L'aspirazione a doppio canale con motore digitale è davvero ai vertici sulla raccolta pura, se si accetta l'assenza di base autosvuotante e di funzione lavapavimenti a un prezzo da ammiraglia."
+    }
+  ]
 }

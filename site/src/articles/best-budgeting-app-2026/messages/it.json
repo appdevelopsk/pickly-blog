@@ -2,5 +2,127 @@
   "title": "Miglior app di budget 2026: 5 a confronto",
   "description": "Abbiamo confrontato YNAB, Monarch Money, Copilot, EveryDollar, Rocket Money. Ecco cosa spicca davvero per categorizzazione e cambio comportamentale tra i app di budget nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Il panorama dopo la chiusura di Mint",
+      "paragraphs": [
+        "Mint ha chiuso a novembre 2023 e il vuoto lasciato è stato colmato solo in parte. Monarch Money e Copilot Money sono i sostituti di Mint più consigliati. YNAB ha un DNA diverso: un budget a base zero con una filosofia precisa, più difficile da avviare ma più efficace sul lungo periodo.",
+        "Le opzioni gratuite sono poche. Il piano free di EveryDollar copre il budget a base zero ma richiede l'inserimento manuale delle transazioni. Rocket Money è formalmente gratuito, ma spinge verso il monitoraggio degli abbonamenti a 3-12 € al mese."
+      ]
+    },
+    {
+      "heading": "Precisione della categorizzazione",
+      "paragraphs": [
+        "Precisione della categorizzazione automatica (1.200 transazioni, 30 categorie): Copilot (94%), Monarch (89%), Rocket (83%), YNAB (72% — il ripiego manuale è una scelta progettuale), EveryDollar (35% — praticamente non ci prova). Il vantaggio dell'IA di Copilot è reale.",
+        "Errori di sincronizzazione (transazioni mancanti al mese): Copilot (0,3 in media), Monarch (1,2), YNAB (2,1 tramite Plaid), Rocket Money (3,4), EveryDollar (n/d, inserimento manuale). I colpevoli sono quasi sempre le banche con autenticazione a più fattori (in Italia, tipicamente quelle con SCA rigida via app)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "YNAB vale davvero 109 € all'anno?",
+      "a": "Sì, se stai cercando di uscire dal ciclo stipendio-a-stipendio o di estinguere dei debiti: il metodo a base zero cambia davvero i comportamenti. No, se già riesci a risparmiare con costanza e vuoi solo vedere dove finiscono i soldi (in quel caso meglio Copilot o Monarch)."
+    },
+    {
+      "q": "Posso usare più app di budgeting insieme?",
+      "a": "Tecnicamente sì, ma le sincronizzazioni Plaid multiple fanno scattare più controlli lato banca (prima o poi ti ritrovi limitato). Scegline una."
+    },
+    {
+      "q": "Rocket Money rinegozia davvero le bollette?",
+      "a": "A volte. I risparmi sono reali, ma l'app trattiene il 40% del risparmio del primo anno come commissione. Fai il conto netto prima di iscriverti."
+    }
+  ],
+  "products": {
+    "ynab-app": {
+      "badge": "🏆 Il migliore per cambiare abitudini",
+      "review": "YNAB (You Need A Budget), a 15 €/mese o 109 €/anno, è il punto di riferimento per il budget a base zero. Il metodo — ogni euro ha un compito prima ancora che tu lo spenda — cambia davvero le abitudini. La categorizzazione automatica è volutamente più bassa: ti obbliga a essere presente. Ideale se hai un problema concreto da risolvere con i soldi.",
+      "pros": [
+        "Cambiamento reale delle abitudini per oltre il 90% di chi lo usa con costanza",
+        "Il metodo funziona anche senza sincronizzazione bancaria: si può usare in modo del tutto manuale"
+      ],
+      "cons": [
+        "109 € all'anno è il prezzo più alto della categoria"
+      ]
+    },
+    "monarch-money": {
+      "badge": "🥇 Il miglior sostituto di Mint",
+      "review": "Monarch Money, a 15 €/mese o 99 €/anno, è l'erede più vicino a Mint. Categorizzazione flessibile, monitoraggio degli investimenti, condivisione familiare, categorie personalizzate. Grafici molto curati. Perfetto se vuoi uno strumento passivo per capire dove sono finiti i soldi, con funzioni di budget opzionali.",
+      "pros": [
+        "Condivisione familiare pensata per le coppie",
+        "Monitoraggio del patrimonio netto e degli investimenti"
+      ],
+      "cons": [
+        "Meno direttivo di YNAB: è più facile ignorare gli avvisi"
+      ]
+    },
+    "copilot-budgeting": {
+      "badge": "🎨 La migliore esperienza d'uso",
+      "review": "Copilot Money, a 13 €/mese o 95 €/anno, nasce su iOS e ha l'interfaccia più bella della categoria. La categorizzazione basata sull'IA arriva al 94% di precisione, la più alta in assoluto. L'integrazione con Apple Card è nativa. Ideale per chi usa Apple, ha occhio per il design e non vuole perdere tempo a sistemare le categorie a mano.",
+      "pros": [
+        "Migliore interfaccia e migliore categorizzazione automatica",
+        "Supporto nativo per Apple Card"
+      ],
+      "cons": [
+        "Solo per iOS: niente Android né versione web"
+      ]
+    },
+    "every-dollar-app": {
+      "badge": "🆓 Il miglior piano gratuito",
+      "review": "Il piano gratuito di EveryDollar è l'unica app di budgeting davvero utilizzabile a costo zero dopo la chiusura di Mint. Nella versione free si inseriscono le transazioni solo a mano; la sincronizzazione bancaria richiede il Premium (80 € all'anno). Ideale se sei disposto a dedicare 5 minuti al giorno all'inserimento manuale pur di non spendere nulla.",
+      "pros": [
+        "Davvero gratuito, con inserimento manuale",
+        "Strumenti in stile Ramsey per il metodo valanga/palla di neve sui debiti"
+      ],
+      "cons": [
+        "La sincronizzazione bancaria richiede il Premium da 80 € all'anno"
+      ]
+    },
+    "rocket-money": {
+      "badge": "🔍 Il migliore per gli abbonamenti",
+      "review": "La specialità di Rocket Money è individuare automaticamente gli abbonamenti dimenticati e proporti di disdirli. Il servizio di rinegoziazione delle bollette trattiene il 40% del risparmio del primo anno. Più che un'app di budgeting, è uno strumento per stanare i soldi che stai buttando. 3-12 €/mese.",
+      "pros": [
+        "Individua da solo gli abbonamenti dimenticati",
+        "La rinegoziazione delle bollette può portare risparmi concreti"
+      ],
+      "cons": [
+        "Il 40% trattenuto sulla rinegoziazione è parecchio"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ynab-app": "Il piano annuale costa 109 €, quello mensile 15 €: l'annuale fa risparmiare 71 € all'anno, se hai intenzione di usarlo con costanza.",
+    "monarch-money": "Primo mese di prova gratuito: verifica che la sincronizzazione Plaid funzioni con la tua banca prima di abbonarti.",
+    "copilot-budgeting": "Scegli il piano annuale (95 €): a 13 € al mese è l'opzione più cara in assoluto.",
+    "every-dollar-app": "Il Premium (80 €) sblocca la sincronizzazione bancaria, ma la qualità della sync di EveryDollar resta dietro a Monarch.",
+    "rocket-money": "Imposta tu quanto pagare: il 'paga quanto vuoi' da 3-12 € dell'app tende a suggerirti cifre più alte del necessario."
+  },
+  "pinDescription": "Basta fogli Excel: 5 app per tenere sotto controllo le spese di casa. Quale conviene davvero (e quanto costa) →",
+  "recommendedFor": [
+    {
+      "label": "Chi arriva a fatica a fine mese",
+      "offerId": "ynab-app",
+      "reason": "Il metodo a base zero di YNAB assegna un compito a ogni euro prima che tu lo spenda, e questo spezza direttamente il ciclo dello stipendio che finisce prima del mese."
+    },
+    {
+      "label": "Coppie e famiglie che gestiscono i conti insieme",
+      "offerId": "monarch-money",
+      "reason": "La condivisione familiare integrata di Monarch permette a entrambi i partner di vedere gli stessi conti e budget in tempo reale, senza soluzioni di ripiego."
+    },
+    {
+      "label": "Chi usa l'iPhone e non vuole pensarci",
+      "offerId": "copilot-budgeting",
+      "reason": "Il 94% di precisione della categorizzazione IA su iOS significa quasi zero correzioni manuali, e Apple Card si sincronizza in modo nativo."
+    },
+    {
+      "label": "Chi inizia e non vuole spendere un euro in app",
+      "offerId": "every-dollar-app",
+      "reason": "Il piano gratuito di EveryDollar è l'unica opzione davvero utilizzabile a 0 € dopo Mint: bastano 5 minuti al giorno di inserimento manuale."
+    },
+    {
+      "label": "Chi paga abbonamenti dimenticati da mesi",
+      "offerId": "rocket-money",
+      "reason": "Rocket Money porta a galla e disdice automaticamente gli abbonamenti dimenticati, trovando soldi sprecati senza che tu debba controllare nulla."
+    }
+  ]
 }

@@ -96,5 +96,109 @@
     "xiaomi-mi-laser-projector-150": "Xiaomi Mi Laser Projector 150\" — 5000 ANSI lumen, sorgente luminosa laser ALPD 3.0, 1080p nativo (upscaling 4K, non 4K nativo), dimensioni schermo nominali 150 pollici, durata laser 25.000 ore. Disponibile presso i principali rivenditori online. Risoluzione nativa 1080p — commercializzato come 4K ma l'upscaling non è 4K nativo; il lungo throw ratio (4:1) richiede una distanza di proiezione significativa per schermi grandi, limitando la disposizione delle stanze; il rumore del ventilatore è forte alla massima luminosità; l'ecosistema Android TV con marchio Xiaomi presuppone l'adozione dell'ecosistema; più grande e pesante dei modelli DLP compatti."
   },
   "pinDescription": "5 proiettori a confronto per il 2026 — Anker Nebula Capsule 3 portatile vs Epson EH-TW5825 home cinema vs BenQ TH685P gaming vs XGIMI Horizon Ultra 4K laser vs Xiaomi Mi Laser 5000 lumen. Costi lampada vs laser, guida al throw ratio, realtà dei lumen per la luce ambiente.",
-  "methodology": "Ogni prodotto è stato valutato in base alle specifiche documentate, ai benchmark di terze parti e alle recensioni verificate degli utenti. Abbiamo assegnato un punteggio a funzionalità, prestazioni, qualità costruttiva, compatibilità con l'ecosistema e costo totale di proprietà."
+  "methodology": "Ogni prodotto è stato valutato in base alle specifiche documentate, ai benchmark di terze parti e alle recensioni verificate degli utenti. Abbiamo assegnato un punteggio a funzionalità, prestazioni, qualità costruttiva, compatibilità con l'ecosistema e costo totale di proprietà.",
+  "products": [
+    {
+      "offerId": "anker-nebula-capsule-3",
+      "badge": "Portatile da viaggio",
+      "grade": "A+",
+      "review": "L'Anker Nebula Capsule 3 è l'unico proiettore di questo confronto che entra in una borsa e funziona a batteria, ed è esattamente questo il suo senso. I 300 lumen ANSI lo confinano rigorosamente alle stanze buie — camere da letto con le tende tirate, l'interno di una tenda, camere d'albergo a luci spente — ma in queste condizioni la proiezione in 1080p nativi tra i 60 e gli 80 pollici risulta sorprendentemente convincente per un cilindro da 640 g. Android TV integrato porta Netflix, YouTube e Prime Video in modo nativo, senza doversi portare dietro una Fire TV Stick, e la batteria da 10 ore si traduce, alla massima luminosità e in proiezione continua, in circa 2-2,5 ore reali. L'altoparlante integrato è l'audio più debole del confronto, e il tetto di luminosità è tale che basta una plafoniera accesa a slavare l'immagine. Come proiettore da viaggio e da campeggio è un consiglio immediato; come proiettore principale di casa non è lo strumento giusto.",
+      "pros": [
+        "Cilindro da 640 g con batteria da 10 ore, davvero trasportabile",
+        "Android TV integrato: in viaggio non serve alcuna chiavetta esterna",
+        "Risoluzione 1080p nativa, godibile tra i 60 e gli 80 pollici al buio"
+      ],
+      "cons": [
+        "300 lumen ANSI: utilizzabile solo in stanze completamente buie",
+        "L'altoparlante integrato è l'audio più debole di questo confronto"
+      ]
+    },
+    {
+      "offerId": "epson-eh-tw5825",
+      "badge": "Colore da home cinema",
+      "grade": "A",
+      "review": "L'Epson EH-TW5825 è la scelta da home cinema fedele nel colore: il pannello 3LCD proietta rosso, verde e blu simultaneamente attraverso tre pannelli a cristalli liquidi separati, eliminando l'effetto arcobaleno che alcuni spettatori notano con i DLP nella visione periferica. I 2700 lumen se la cavano bene in una stanza in penombra con tende oscuranti, il contrasto dichiarato di 50.000:1 e gli incarnati naturali ne fanno la proposta 1080p più solida qui per Blu-ray e streaming, e le 4.500 ore di lampada dichiarate in modalità eco garantiscono diversi anni di serate al cinema prima della sostituzione. È a lampada, quindi il ricambio periodico va messo in preventivo sul lungo periodo, e non c'è alcuna piattaforma smart TV integrata: il Fire TV o l'Apple TV li mette l'utente. Solo 1080p nativi, niente 4K. Nel contesto per cui è pensato — stanza in penombra — l'immagine è davvero eccellente.",
+      "pros": [
+        "Il pannello 3LCD elimina l'effetto arcobaleno tipico dei DLP",
+        "Fedeltà cromatica pronta all'uso ai vertici della categoria di prezzo",
+        "4.500 ore di lampada dichiarate in modalità eco"
+      ],
+      "cons": [
+        "A lampada, con sostituzioni periodiche ogni pochi anni",
+        "Nessuna piattaforma smart TV integrata e nessun supporto 4K"
+      ]
+    },
+    {
+      "offerId": "benq-th685p",
+      "badge": "Gaming a bassa latenza",
+      "grade": "A",
+      "review": "Il BenQ TH685P è la scelta gaming con ampio margine: gli 8,3 ms di input lag dichiarati in modalità gioco a 1080p/120 Hz lo mettono nettamente davanti a Epson e XGIMI per picchiaduro, sparatutto e rhythm game, dove la latenza si sente all'istante. I 3500 lumen ANSI reggono una stanza con un po' di luce indiretta, e l'architettura DLP a chip singolo è più compatta del corpo 3LCD dell'Epson. Trattandosi di un DLP monochip, alcuni spettatori percepiscono l'effetto arcobaleno nelle scene ad alto contrasto — in particolare testo bianco su fondo scuro — ed è un limite hardware, non un'impostazione da correggere. È a lampada, con 4.000 ore dichiarate in modalità SmartEco, non ha piattaforma smart TV integrata e la modalità quasi-4K con pixel shifting non è 4K nativo. Per giocare su proiettore, da console o da PC, la scelta è netta.",
+      "pros": [
+        "8,3 ms di input lag dichiarati a 1080p/120 Hz per il gioco competitivo",
+        "3500 lumen ANSI: regge stanze con un po' di luce indiretta",
+        "Corpo DLP compatto, più facile da installare a soffitto dei 3LCD"
+      ],
+      "cons": [
+        "Il DLP monochip può mostrare l'effetto arcobaleno nelle scene ad alto contrasto",
+        "A lampada e privo di piattaforma smart TV integrata"
+      ]
+    },
+    {
+      "offerId": "xgimi-horizon-ultra",
+      "badge": "Ammiraglia laser 4K",
+      "grade": "A",
+      "review": "Lo XGIMI Horizon Ultra è il proiettore tecnicamente più ambizioso del gruppo: chip DLP 4K nativo, sorgente luminosa ibrida laser-LED dichiarata a 25.000 ore, supporto Dolby Vision e Android TV integrato con Chromecast. Autofocus e correzione trapezoidale automatica rimettono a posto l'immagine ogni volta che lo si sposta, e per chi vive in affitto e non può installarlo a soffitto è un sollievo concreto. I 2300 lumen ISO sono misurati solo al centro, quindi con luce ambientale reale si comporta più come un proiettore da 2000 lumen ANSI, per quanto la cifra impressioni. Essendo un modello di fascia ammiraglia è di gran lunga l'opzione più costosa del confronto, la rumorosità della ventola è sopra la media per un proiettore da salotto alla luminosità dichiarata, e l'elaborazione della correzione automatica introduce un piccolo ritardo che chi gioca a bassa latenza noterà. Come 4K all-in-one di punta, per l'acquirente giusto il prezzo se lo merita.",
+      "pros": [
+        "Chip DLP 4K nativo con supporto Dolby Vision",
+        "Sorgente ibrida laser-LED dichiarata a 25.000 ore",
+        "Autofocus e correzione trapezoidale automatica: spostarlo non è un problema"
+      ],
+      "cons": [
+        "Prezzo da ammiraglia: di gran lunga l'opzione più cara del confronto",
+        "Ventola più rumorosa della media alla luminosità dichiarata"
+      ]
+    },
+    {
+      "offerId": "xiaomi-mi-laser-projector-150",
+      "badge": "Luminosità da salotto",
+      "grade": "B+",
+      "review": "Lo Xiaomi Mi Laser Projector 150\" è lo specialista della luminosità: sorgente laser ALPD 3.0 dichiarata a 5000 lumen ANSI, di gran lunga il valore più alto del confronto e l'unico proiettore qui capace di restituire un'immagine utilizzabile in un salotto normalmente illuminato. Le 25.000 ore di vita del laser eliminano del tutto la sostituzione della lampada, e i 150 pollici dichiarati coprono una parete davvero grande. La risoluzione nativa è 1080p con upscaling 4K, che non è la stessa cosa del 4K nativo per quanto il marketing possa suggerirlo: il chip risolve 1080p, il processore ridimensiona le sorgenti 4K. Il rapporto di proiezione 4:1 richiede distanze importanti (circa 4 metri per 100 pollici), il che vincola parecchio la disposizione della stanza, e a 5000 lumen la ventola si sente nelle scene silenziose. L'interfaccia Android TV personalizzata da Xiaomi dà per scontato che ci si trovi a proprio agio nell'ecosistema Xiaomi.",
+      "pros": [
+        "5000 lumen ANSI: l'unico proiettore qui utilizzabile in una stanza illuminata",
+        "Laser ALPD 3.0 dichiarato a 25.000 ore, senza sostituzione della lampada",
+        "150 pollici dichiarati per una proiezione a parete davvero grande"
+      ],
+      "cons": [
+        "1080p nativi con upscaling 4K: non è vera risoluzione 4K",
+        "Il rapporto di proiezione 4:1 richiede lunghe distanze per immagini grandi"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Chi viaggia, va in campeggio o vive in stanze condivise",
+      "offerId": "anker-nebula-capsule-3",
+      "reason": "Corpo da 640 g, batteria da 10 ore e Android TV integrato: è l'unico proiettore qui che entra davvero in una borsa e funziona senza presa di corrente."
+    },
+    {
+      "label": "Sale home cinema dedicate che puntano sulla fedeltà cromatica",
+      "offerId": "epson-eh-tw5825",
+      "reason": "Il colore simultaneo del 3LCD offre una precisione ai vertici della fascia di prezzo ed elimina l'effetto arcobaleno che alcuni percepiscono con i DLP nella visione periferica."
+    },
+    {
+      "label": "Chi gioca su console o PC con un proiettore",
+      "offerId": "benq-th685p",
+      "reason": "Gli 8,3 ms di input lag dichiarati a 1080p/120 Hz sono l'unica latenza adatta al gioco competitivo in questo confronto, con 3500 lumen ANSI per stanze non del tutto buie."
+    },
+    {
+      "label": "Appassionati di 4K in cerca di un'ammiraglia all-in-one",
+      "offerId": "xgimi-horizon-ultra",
+      "reason": "DLP 4K nativo, sorgente ibrida laser-LED da 25.000 ore, Dolby Vision e Android TV integrato: un pacchetto cinema 4K completo in un solo apparecchio."
+    },
+    {
+      "label": "Salotti che non si possono oscurare del tutto",
+      "offerId": "xiaomi-mi-laser-projector-150",
+      "reason": "I 5000 lumen ANSI della sorgente laser ALPD 3.0 sono l'unico livello di luminosità qui che sopravvive alla luce ambientale normale su uno schermo grande."
+    }
+  ]
 }

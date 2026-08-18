@@ -2,5 +2,161 @@
   "title": "Miglior software di finanza personale 2026: 5 a confronto",
   "description": "Abbiamo confrontato YNAB, Monarch Money, Quicken Simplifi, Empower, Tiller. Ecco cosa spicca davvero per affidabilità della sincronizzazione bancaria e metodologia di bilancio tra i software di finanza personale nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Affidabilità della sincronizzazione bancaria",
+      "paragraphs": [
+        "Monarch Money raccoglie i giudizi più costanti sulla sincronizzazione tra i cinque. Le riconnessioni capitano, ma gli utenti le descrivono come episodiche, non come routine.",
+        "YNAB segue a poca distanza. Chase e Capital One sono le connessioni che gli utenti segnalano più spesso di dover riautorizzare.",
+        "Quicken Simplifi raccoglie il maggior numero di lamentele sulle riconnessioni del gruppo, con Bank of America come banca citata più di frequente.",
+        "Empower Personal Dashboard dà il meglio sui conti di investimento; gli utenti indicano invece conti correnti e carte di credito come il lato più debole.",
+        "Tiller Money: la sincronizzazione bancaria via Plaid è al livello di Monarch. Il punto è che Tiller scrive i dati su Google Fogli, e questo aggiunge un elemento di fragilità per chi non è a suo agio con i fogli di calcolo."
+      ]
+    },
+    {
+      "heading": "Metodo di budgeting",
+      "paragraphs": [
+        "YNAB impone il budget a base zero: ogni euro riceve un compito prima che tu lo spenda. È l'approccio più rigoroso e il più efficace per cambiare le abitudini, ma richiede un controllo quotidiano. Curva di apprendimento più ripida del gruppo.",
+        "Monarch e Simplifi usano il budget per categorie (si fissa un tetto per ciascuna e si monitora l'andamento). Più semplice da adottare, ma incide meno sui comportamenti.",
+        "Empower punta sul patrimonio netto e sul monitoraggio degli investimenti più che sul budgeting vero e proprio. Ideale per chi investe e ha già le spese sotto controllo.",
+        "Tiller scrive i dati su Google Fogli e lascia costruire il metodo che preferisci. Massima libertà, nessuna guida."
+      ]
+    },
+    {
+      "heading": "Il migliore per ogni esigenza",
+      "paragraphs": [
+        "Il migliore per chi fa budget sul serio: YNAB a 109 $ l'anno (circa 100 €). Il budget a base zero cambia davvero il modo di spendere. Vale la curva di apprendimento impegnativa.",
+        "Il miglior sostituto di Mint: Monarch Money a 99 $ l'anno (circa 91 €). Interfaccia in stile Mint, sviluppo attivo, condivisione familiare, zero pubblicità. La scelta naturale per la maggior parte degli ex utenti Mint.",
+        "Il migliore a basso costo: Quicken Simplifi a 48 $ l'anno (circa 44 €). Budgeting solido al prezzo più basso tra le opzioni a pagamento.",
+        "Il migliore per chi investe: Empower Personal Dashboard, gratuito. Si concentra su patrimonio netto e pianificazione pensionistica più che sul budget voce per voce.",
+        "Il migliore per gli appassionati di fogli di calcolo: Tiller Money a 79 $ l'anno (circa 73 €). Libertà totale grazie a Google Fogli. Da scegliere solo se lavorare con i fogli di calcolo ti piace davvero."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Perché Mint ha chiuso?",
+      "a": "Intuit (la società madre di Mint) ha accorpato tutto in Credit Karma, anch'essa di proprietà Intuit. Le funzioni di budget di Credit Karma sono limitate: gli utenti Mint sono migrati in larga parte su Monarch (dove sono approdati diversi ex dipendenti Mint) o su YNAB."
+    },
+    {
+      "q": "YNAB vale 109 $ l'anno?",
+      "a": "Sì, se lo usi ogni giorno e segui davvero il metodo a base zero. Il cambio di abitudini fa risparmiare agli utenti oltre 1.000 $ già nel primo anno. Se invece pensi di aprirlo una volta a settimana senza cambiare nulla, Simplifi a 48 $ è più che sufficiente."
+    },
+    {
+      "q": "Empower gratis vale quanto le alternative a pagamento?",
+      "a": "Per il monitoraggio di investimenti e patrimonio netto sì, Empower è eccellente. Per il budget voce per voce e la gestione delle categorie no: le funzioni di budgeting sono essenziali. Se vuoi entrambe le cose, usa Empower e Monarch insieme."
+    },
+    {
+      "q": "È sicuro collegare questi strumenti al mio conto?",
+      "a": "Tutti e cinque usano Plaid (o sistemi analoghi) con accesso OAuth in sola lettura: non possono prelevare denaro. Plaid ha standard di sicurezza di livello bancario. Il rischio vero è la violazione dell'account del servizio stesso, quindi usa password robuste e uniche più l'autenticazione a due fattori."
+    }
+  ],
+  "products": {
+    "ynab-budgeting": {
+      "badge": "🏆 Il migliore per chi fa budget sul serio",
+      "review": "YNAB (You Need a Budget) è la scelta giusta se sei disposto a metterci impegno. Il metodo del budget a base zero — ogni euro ha un compito prima ancora di essere speso — cambia davvero le abitudini. Gli utenti segnalano di frequente un crollo delle spese \"non tracciate\" già nei primi mesi. Il rovescio della medaglia sono il controllo quotidiano e le 4-6 settimane necessarie per prenderci la mano. I 109 $ l'anno sono il prezzo più alto del gruppo, ma se lo usi con costanza è il miglior rapporto costi-benefici di questo confronto.",
+      "pros": [
+        "Il budget a base zero cambia davvero il modo di spendere",
+        "Contenuti formativi migliori del settore (workshop gratuiti, podcast)",
+        "Community numerosa e attiva"
+      ],
+      "cons": [
+        "Curva di apprendimento più ripida (4-6 settimane)",
+        "Richiede un controllo quotidiano per rendere al meglio",
+        "109 $ l'anno: il più caro"
+      ]
+    },
+    "monarch-money": {
+      "badge": "🪟 Il miglior sostituto di Mint",
+      "review": "Monarch Money è la scelta scontata dopo la chiusura di Mint. Fondata da ex dipendenti Mint, offre un'interfaccia molto simile ma senza pubblicità (Mint, prima della chiusura, era invasa da offerte di carte di credito). Sincronizzazione bancaria solida, condivisione familiare, categorie personalizzate e ottimo monitoraggio degli investimenti. 14,99 $ al mese oppure 99 $ l'anno. Il posizionamento \"tutto in uno\" significa che fa bene molte cose, senza però eccellere in nessuna.",
+      "pros": [
+        "Interfaccia in stile Mint, senza pubblicità",
+        "Sincronizzazione bancaria più costante dei cinque, secondo gli utenti",
+        "Condivisione familiare per coppie e famiglie"
+      ],
+      "cons": [
+        "99 $ l'anno: fascia di prezzo media",
+        "Metodo di budgeting meno rigoroso di YNAB",
+        "Nata nel 2018 (più giovane delle alternative storiche)"
+      ]
+    },
+    "quicken-simplifi": {
+      "badge": "💸 Il migliore a basso costo",
+      "review": "Quicken Simplifi è la migliore opzione economica a 48 $ l'anno (3,99 $ al mese con fatturazione annuale). È un Quicken Online alleggerito, concentrato su budget e sincronizzazione bancaria. Sul fronte sincronizzazione raccoglie più lamentele per riconnessioni rispetto a Monarch e YNAB. La funzione \"watch list\" per il piano di spesa è davvero utile per tenere sotto controllo le spese ricorrenti. Manca invece un monitoraggio approfondito degli investimenti e la condivisione familiare.",
+      "pros": [
+        "48 $ l'anno: il prezzo più basso tra le opzioni a pagamento",
+        "Funzione watch list per le spese ricorrenti",
+        "Alle spalle c'è Quicken (di proprietà Aqua Capital)"
+      ],
+      "cons": [
+        "Riconnessioni di sincronizzazione più frequenti rispetto a Monarch",
+        "Nessuna condivisione familiare",
+        "Monitoraggio degli investimenti limitato"
+      ]
+    },
+    "empower-personal-dashboard": {
+      "badge": "📈 Il migliore per chi investe",
+      "review": "Empower Personal Dashboard (ex Personal Capital) è lo strumento gratuito giusto per chi investe. Monitoraggio del patrimonio netto, pianificatore per la pensione, analizzatore delle commissioni di investimento e strumenti di asset allocation sono di ottimo livello. Le funzioni di budget sono essenziali: vanno bene per chi ha redditi alti, non ha bisogno di un budget voce per voce ma vuole visibilità sugli investimenti. Empower è anche una società di gestione patrimoniale: se hai oltre 250.000 $ di asset monitorati, ti chiameranno per proporti i loro servizi.",
+      "pros": [
+        "Monitoraggio di investimenti e pensione eccellente",
+        "Gratuito",
+        "Ottimi strumenti di asset allocation"
+      ],
+      "cons": [
+        "Funzioni di budget essenziali",
+        "Chiamate commerciali se hai oltre 250.000 $ monitorati",
+        "Meno orientato al cambiamento delle abitudini di spesa"
+      ]
+    },
+    "tiller-money": {
+      "badge": "📊 Il migliore per gli appassionati di fogli di calcolo",
+      "review": "Tiller Money riversa ogni giorno su Google Fogli (o Excel) i movimenti sincronizzati dalla banca. Da lì costruisci il metodo di budget che preferisci, con i modelli già pronti o con formule tue. 79 $ l'anno. Massima libertà, nessun accompagnamento. Perfetto per chi lavora volentieri con i fogli di calcolo, non per chi cerca un'app rifinita. La libreria di modelli è il punto di partenza migliore: la maggior parte degli utenti finisce per adottare un foglio personalizzato in stile YNAB o a buste.",
+      "pros": [
+        "Massima libertà grazie a Google Fogli",
+        "Ampia libreria di modelli",
+        "Sincronizzazione bancaria quotidiana via Plaid"
+      ],
+      "cons": [
+        "Serve dimestichezza con i fogli di calcolo",
+        "Nessuna app mobile dedicata (solo Fogli da mobile)",
+        "La configurazione richiede 2-4 ore"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ynab-budgeting": "Iscrizione su youneedabudget.com. Prova gratuita di 34 giorni. L'abbonamento annuale (109 $) costa molto meno del mensile (14,99 $ al mese = 180 $ l'anno). Per gli studenti un anno gratis.",
+    "monarch-money": "Iscrizione su monarchmoney.com. Prova gratuita di 7 giorni. L'annuale (99 $) fa risparmiare 80 $ rispetto al mensile. Circolano spesso codici promozionali con sconti del 30-50% sul primo anno.",
+    "quicken-simplifi": "Iscrizione su quicken.com/simplifi. Rimborso garantito entro 30 giorni. Spesso scontato a 24 $ per il primo anno sul sito di Quicken.",
+    "empower-personal-dashboard": "Iscrizione su empower.com. Completamente gratuito. Se hai oltre 250.000 $ di asset monitorati riceverai una telefonata introduttiva da un consulente patrimoniale: se non ti interessa, basta declinare cortesemente.",
+    "tiller-money": "Iscrizione su tillerhq.com. Prova gratuita di 30 giorni. Solo abbonamento annuale (79 $). Include l'accesso alla libreria di modelli e al Discord della community Tiller."
+  },
+  "pinDescription": "Stanco di non sapere dove finiscono i soldi a fine mese? Ho confrontato YNAB, Monarch Money, Quicken Simplifi, Empower e Tiller: prezzi, sincronizzazione con la banca, metodo di budget e monitoraggio degli investimenti. Salva il pin prima di scegliere.",
+  "recommendedFor": [
+    {
+      "label": "Chi ha debiti da estinguere ed è deciso a cambiare abitudini di spesa",
+      "offerId": "ynab-budgeting",
+      "reason": "Il metodo a base zero di YNAB obbliga ad assegnare un compito a ogni euro, innescando il cambio di abitudini necessario per uscire dai debiti."
+    },
+    {
+      "label": "Ex utenti Mint in cerca di un sostituto senza traumi",
+      "offerId": "monarch-money",
+      "reason": "Sviluppato da ex dipendenti Mint, con interfaccia familiare, condivisione familiare e la sincronizzazione bancaria più costante dei cinque secondo gli utenti."
+    },
+    {
+      "label": "Chi bada al portafoglio e vuole un budget essenziale senza spendere troppo",
+      "offerId": "quicken-simplifi",
+      "reason": "A 48 $ l'anno, il prezzo più basso tra le opzioni a pagamento, Simplifi copre il budget essenziale e le spese ricorrenti a costo contenuto."
+    },
+    {
+      "label": "Investitori con redditi alti che monitorano patrimonio e pensione",
+      "offerId": "empower-personal-dashboard",
+      "reason": "L'analizzatore gratuito delle commissioni, gli strumenti di asset allocation e il pianificatore pensionistico di Empower non hanno rivali a nessun prezzo."
+    },
+    {
+      "label": "Utenti esperti di fogli di calcolo che vogliono il controllo totale sul budget",
+      "offerId": "tiller-money",
+      "reason": "Tiller riversa ogni giorno i dati bancari su Google Fogli e ti lascia costruire qualsiasi sistema di budget con piena libertà nelle formule."
+    }
+  ]
 }

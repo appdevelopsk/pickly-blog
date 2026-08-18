@@ -61,5 +61,72 @@
     "omnilux-contour-face": "FDA-cleared con il dossier di studi pubblicati più lungo — da scegliere se il bollino regolatorio conta per te."
   },
   "pinDescription": "Tre maschere LED a confronto nel 2026: dall'Aduro entry-level alla CurrentBody Skin LED. Lunghezze d'onda, durata delle sessioni e cosa i dermatologi raccomandano davvero per la fototerapia rossa a casa.",
-  "methodology": "Abbiamo valutato ogni prodotto in base alla trasparenza degli ingredienti, alla comprovata esperienza dermatologica, alla coerenza dei risultati ottenuti da utenti reali, alla qualità della confezione e al rapporto qualità-prezzo per ogni utilizzo."
+  "methodology": "Abbiamo valutato ogni prodotto in base alla trasparenza degli ingredienti, alla comprovata esperienza dermatologica, alla coerenza dei risultati ottenuti da utenti reali, alla qualità della confezione e al rapporto qualità-prezzo per ogni utilizzo.",
+  "products": [
+    {
+      "offerId": "currentbody-skin-led",
+      "badge": "Migliore in assoluto",
+      "review": "La CurrentBody Skin LED Mask è il dispositivo domiciliare che i dermatologi consigliano più spesso a chi parte da zero, e la scheda tecnica conferma la reputazione. I 132 LED emettono due lunghezze d'onda, 633 nm nel rosso e 830 nm nel vicino infrarosso: le due bande con il supporto scientifico più solido nella letteratura peer-reviewed per favorire la sintesi di collagene e ridurre l'infiammazione con 8-12 settimane di uso costante. La scocca in silicone della Series 2 segue zigomi e mandibola invece di restare sospesa a 1-2 cm dalla pelle, così più energia raggiunge il derma anziché disperdersi nell'intercapedine d'aria. Una seduta dura 10 minuti, abbastanza poco da rendere realistiche quattro sere a settimana, e sul mercato dell'usato mantiene un ottimo valore di rivendita se poi scopri che la luminoterapia non fa per te.",
+      "pros": [
+        "Doppia lunghezza d'onda 633 nm e 830 nm, le più supportate dalla ricerca",
+        "Scocca flessibile in silicone aderente al viso per un contatto diretto con la pelle",
+        "Seduta da 10 minuti che facilita la costanza settimanale",
+        "Ottimo valore di rivendita sui mercati dell'usato"
+      ],
+      "cons": [
+        "L'impugnatura con batteria è il punto debole intorno ai 3-5 anni",
+        "La copertura del contorno occhi è limitata dalle aperture integrate"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "aduro-7-plus-1",
+      "badge": "Miglior primo acquisto",
+      "review": "Aduro 7+1 è il modo meno rischioso per capire se userai davvero la luminoterapia domiciliare quattro volte a settimana prima di investire in una CurrentBody. Sette modalità di colore più il vicino infrarosso in una scocca rigida, sedute da 10-15 minuti e un prezzo d'ingresso che rende la decisione facile. Il design con cavo non ha batterie che si degradano, quindi la vita meccanica supera quella dei concorrenti ricaricabili. Il limite però è reale: l'intensità della luce rossa è inferiore a quella dichiarata da CurrentBody, la scocca rigida resta a 1-2 cm da zigomi e mandibola (proprio l'intercapedine d'aria che i modelli in silicone eliminano) e il marketing multicolore lascia intendere per le lunghezze d'onda non rosse benefici clinici che la ricerca pubblicata non sostiene in modo convincente.",
+      "pros": [
+        "Prezzo d'ingresso più basso per testare la costanza con la luminoterapia",
+        "Design con cavo: nessuna batteria che si degrada nel tempo",
+        "Sette modalità di colore più il vicino infrarosso in un unico apparecchio",
+        "Si rivende bene dopo 60 giorni se decidi di passare a CurrentBody"
+      ],
+      "cons": [
+        "Intensità della luce rossa inferiore alle specifiche CurrentBody",
+        "La scocca rigida resta distante dal viso, con perdita di energia nell'intercapedine"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "omnilux-contour-face",
+      "badge": "Migliore certificato FDA",
+      "review": "Omnilux Contour Face è la scelta con certificazione FDA e la casistica di studi indipendenti pubblicati più lunga nella categoria delle maschere LED domiciliari: per questo è l'opzione che i dermatologi consigliano più spesso a chi tiene alle certificazioni. L'approccio a doppia lunghezza d'onda (633 nm nel rosso più 830 nm nel vicino infrarosso) ricalca quello di CurrentBody, anche se il numero di LED è leggermente inferiore. Il formato flessibile in silicone garantisce lo stesso contatto diretto della CurrentBody Series 2, e la documentazione clinica del marchio, che risale ai dispositivi professionali per studi dermatologici, dà più peso all'argomento normativo rispetto ai marchi più recenti. Sedute da 10 minuti, con fascia per la testa che lascia le mani libere. I compromessi sono i LED leggermente meno numerosi e una minore diffusione nella distribuzione.",
+      "pros": [
+        "Certificato FDA, con la documentazione indipendente più corposa della categoria",
+        "Doppia lunghezza d'onda 633 nm e 830 nm in formato flessibile in silicone",
+        "Marchio con esperienza nei dispositivi dermatologici professionali",
+        "La fascia per la testa lascia le mani libere durante i 10 minuti di seduta"
+      ],
+      "cons": [
+        "LED leggermente meno numerosi rispetto alla CurrentBody equivalente",
+        "Minore diffusione nei negozi e mercato dell'usato più ristretto"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per chi prova la luminoterapia domiciliare per la prima volta",
+      "offerId": "currentbody-skin-led",
+      "reason": "La preferita dei dermatologi, a doppia lunghezza d'onda: sedute da 10 minuti che aiutano la costanza e un ottimo valore di rivendita se non si incastra nella tua routine."
+    },
+    {
+      "label": "Per chi non è sicuro di usarla con costanza",
+      "offerId": "aduro-7-plus-1",
+      "reason": "L'ingresso meno rischioso per verificare se userai davvero una maschera 4 sere a settimana prima di puntare su un modello di punta."
+    },
+    {
+      "label": "Per chi dà priorità alle certificazioni",
+      "offerId": "omnilux-contour-face",
+      "reason": "Certificata FDA e con la documentazione indipendente più lunga tra le maschere LED domiciliari: l'opzione che i dermatologi consigliano di più quando conta la documentazione normativa."
+    }
+  ]
 }

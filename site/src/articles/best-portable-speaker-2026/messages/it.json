@@ -107,5 +107,109 @@
     "anker-soundcore-3": "Anker Soundcore 3 — protezione dall'immersione IPX7, batteria 24 ore a volume moderato, abbinamento stereo con una seconda unità, driver compositi in titanio. Ampiamente disponibile presso i grandi rivenditori online. Il divario di qualità audio tra l'opzione economica e quelle di fascia media e premium è udibile — i driver si comprimono notevolmente ad alti volumi outdoor rispetto a JBL o Bose; l'uscita massima è inferiore agli altri altoparlanti in questo confronto, limitando l'uso outdoor in ambienti rumorosi; solo IPX7, nessuna protezione certificata dalla polvere (IP67); nessuna catena multi-altoparlante oltre l'abbinamento stereo."
   },
   "pinDescription": "Verità su IP67 vs IPX7, realtà della durata della batteria a volumi reali, udibilità outdoor.",
-  "methodology": "Ogni prodotto è stato valutato in base alle specifiche documentate, ai benchmark di terze parti e alle recensioni verificate degli utenti. Abbiamo assegnato un punteggio a funzionalità, prestazioni, qualità costruttiva, compatibilità con l'ecosistema e costo totale di proprietà."
+  "methodology": "Ogni prodotto è stato valutato in base alle specifiche documentate, ai benchmark di terze parti e alle recensioni verificate degli utenti. Abbiamo assegnato un punteggio a funzionalità, prestazioni, qualità costruttiva, compatibilità con l'ecosistema e costo totale di proprietà.",
+  "products": [
+    {
+      "offerId": "jbl-flip-6",
+      "badge": "Il più completo",
+      "grade": "A+",
+      "review": "La JBL Flip 6 è la cassa Bluetooth compatta più equilibrata del confronto e la più facile da consigliare senza riserve. La certificazione IP67 contro polvere e acqua e i 12 ore di autonomia dichiarati coprono i normali utilizzi all'aperto, i due radiatori passivi aggiungono un peso reale sulle basse frequenze senza ricorrere a un DSP spinto, e il protocollo PartyBoost permette di collegarla in seguito a una JBL Charge 5 o Pulse 5 se si vuole ampliare l'impianto. La taratura privilegia i bassi ma senza soffocare la gamma vocale, il che la rende ascoltabile con qualsiasi genere e non solo con l'EDM. Il driver principale è rivolto in avanti e non è un vero omnidirezionale, quindi chi si trova esattamente dietro alla cassa perde un po' di volume, e 12 ore restano il valore più basso quando si alza il volume all'aperto. Al suo prezzo di fascia media non ha punti deboli degni di nota.",
+      "pros": [
+        "Certificazione IP67 contro polvere e acqua, con una qualità costruttiva costante",
+        "PartyBoost consente di ampliare l'impianto con altre casse JBL in un secondo momento",
+        "Taratura equilibrata adatta a tutti i generi, non solo alla musica molto bassosa"
+      ],
+      "cons": [
+        "Le 12 ore di autonomia sono meno di quanto dichiarano Sony e Anker",
+        "Non è un vero 360 gradi: chi sta esattamente dietro perde volume"
+      ]
+    },
+    {
+      "offerId": "sony-srs-xb33",
+      "badge": "Autonomia e bassi",
+      "grade": "A",
+      "review": "La Sony SRS-XB33 è la scelta giusta se serve una sola cassa che regga tutta la giornata, se si cerca l'EXTRA BASS per dance e hip-hop e se piacciono i LED multicolore per le serate in compagnia. Le 24 ore di autonomia dichiarate sono generose per la categoria, anche se il dato reale scende parecchio quando entrano in gioco l'illuminazione LED e i volumi alti all'aperto. Il DSP EXTRA BASS ispessisce davvero le basse frequenze a volume moderato, ma ad alto volume porta il driver vicino al limite di escursione, dove può impastare la gamma media sulle voci. La protezione IP67 regge la sabbia della spiaggia, il microfono integrato permette di usarla in vivavoce e il Wireless Party Chain la abbina ad altre unità Sony. La XB33 è più grande e pesante della Flip 6 e della BOOM 3, e questo le costa qualcosa in praticità quando si va in escursione.",
+      "pros": [
+        "24 ore di autonomia dichiarate per sessioni lunghe a volume moderato",
+        "Il DSP EXTRA BASS restituisce basse frequenze davvero più piene sulla musica dance",
+        "Illuminazione LED multicolore e microfono integrato per le chiamate"
+      ],
+      "cons": [
+        "L'EXTRA BASS ad alto volume può impastare la gamma media",
+        "Più grande e pesante della Flip 6 o della BOOM 3, meno adatta alle escursioni"
+      ]
+    },
+    {
+      "offerId": "ultimate-ears-boom-3",
+      "badge": "Vero suono a 360°",
+      "grade": "A",
+      "review": "La Ultimate Ears BOOM 3 è l'unica cassa del confronto con veri driver omnidirezionali a 360 gradi, il che la rende la scelta migliore quando la si mette in mezzo a un gruppo — in campeggio, a un picnic o in salotto — invece che rivolta verso un solo ascoltatore. La protezione IP67 e le 15 ore di autonomia coprono quasi tutte le uscite all'aperto, e il MagicButton permette di impostare una scorciatoia con un tocco verso una playlist o una radio preferita senza sbloccare il telefono. La forma cilindrica rotola sulle superfici irregolari ed è meno tascabile della Flip 6 o della SoundLink Flex, entrambe piatte. I bassi sono adeguati più che incisivi e, pur galleggiando, galleggia coricata su un fianco anziché in posizione verticale, il che rende scomodo l'ascolto in piscina. Il PartyUp la collega ad altre casse UE, ma resta all'interno della famiglia UE.",
+      "pros": [
+        "Veri driver omnidirezionali a 360 gradi, ideali al centro del tavolo",
+        "MagicButton: scorciatoia con un tocco verso una playlist o una radio preferita",
+        "Protezione IP67 e 15 ore di autonomia"
+      ],
+      "cons": [
+        "Il corpo cilindrico rotola sulle superfici irregolari",
+        "Galleggia coricata su un fianco anziché in posizione verticale"
+      ]
+    },
+    {
+      "offerId": "bose-soundlink-flex",
+      "badge": "Premium da esterno",
+      "grade": "A",
+      "review": "La Bose SoundLink Flex è l'opzione da esterno più curata sul piano acustico del gruppo, grazie all'equalizzazione adattiva PositionIQ che riconosce se la cassa è appoggiata in piano, in verticale o appesa e ricalibra di conseguenza la scena sonora. La taratura pensata per l'aperto la fa suonare più grande di quanto sia all'aria aperta, e il corpo galleggiante resta in posizione verticale se finisce nell'acqua bassa in spiaggia o in piscina. La protezione IP67 copre sabbia e pulviscolo. Trattandosi della scelta premium, è la più costosa del confronto, le 12 ore di autonomia sono le più basse a pari merito e l'abbinamento stereo è limitato a due SoundLink Flex, senza una catena estesa come il PartyBoost. Alcune funzioni dell'app dipendono da Bose Music. Se l'uso all'aperto è il contesto principale, il sovrapprezzo è giustificato; altrimenti la Flip 6 offre quasi lo stesso valore spendendo meno.",
+      "pros": [
+        "L'EQ adattiva PositionIQ ricalibra la scena sonora in base alla posizione",
+        "Il corpo galleggiante resta in posizione verticale in acqua",
+        "Acustica tarata per l'aperto: suona più grande delle sue dimensioni"
+      ],
+      "cons": [
+        "È l'opzione più costosa del confronto",
+        "Si abbina solo a una seconda SoundLink Flex, senza protocollo per catene estese"
+      ]
+    },
+    {
+      "offerId": "anker-soundcore-3",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "grade": "B+",
+      "review": "La Anker Soundcore 3 è il riferimento economico del confronto: offre la protezione IPX7 all'immersione, 24 ore di autonomia dichiarate a volume moderato e l'abbinamento stereo con una seconda unità per un vero impianto L/R, il tutto spendendo meno di una singola Flip 6. I driver in composito di titanio se la cavano bene con podcast, musica di sottofondo e playlist sotto la doccia, ma comprimono in modo udibile ad alto volume all'aperto rispetto alla JBL o alla Bose, e la potenza massima resta sotto quella delle altre, cosa che si nota in ambienti rumorosi o ventosi. L'IPX7 non prevede alcuna certificazione antipolvere, quindi per i sentieri polverosi o la sabbia fine della spiaggia è meglio una Flip 6 o una BOOM 3. Sul fronte multi-cassa non si va oltre l'abbinamento stereo. Per un uso casalingo tranquillo o a bordo piscina, sul prezzo è difficile trovarle un rivale.",
+      "pros": [
+        "Prezzo contenuto con 24 ore di autonomia dichiarate e protezione IPX7 all'immersione",
+        "Abbinamento stereo con una seconda unità per un vero audio L/R",
+        "I driver in composito di titanio se la cavano bene con podcast e musica di sottofondo"
+      ],
+      "cons": [
+        "Compressione dei driver udibile ad alto volume all'aperto",
+        "Solo IPX7: nessuna certificazione antipolvere per sabbia o pulviscolo"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Chi compra la prima cassa e vuole un buon tuttofare",
+      "offerId": "jbl-flip-6",
+      "reason": "Protezione IP67, taratura equilibrata su tutti i generi e PartyBoost per il futuro ne fanno la cassa singola più facile da consigliare, senza punti deboli significativi per quel che costa."
+    },
+    {
+      "label": "Chi va in campeggio da solo e mette l'autonomia al primo posto",
+      "offerId": "sony-srs-xb33",
+      "reason": "24 ore di autonomia dichiarate, l'EXTRA BASS per la musica e i LED per l'atmosfera coprono un'intera giornata all'aperto in solitaria, dove ricaricare non è comodo."
+    },
+    {
+      "label": "Gruppi che mettono la cassa in mezzo alla compagnia",
+      "offerId": "ultimate-ears-boom-3",
+      "reason": "I veri driver omnidirezionali a 360 gradi distribuiscono un volume uniforme in tutte le direzioni invece di concentrarlo in avanti."
+    },
+    {
+      "label": "Chi la usa in spiaggia, in piscina e all'aperto sul serio",
+      "offerId": "bose-soundlink-flex",
+      "reason": "L'EQ adattiva PositionIQ e il corpo galleggiante che resta in verticale ne fanno l'opzione da esterno più curata del gruppo e giustificano il sovrapprezzo per chi la usa soprattutto fuori casa."
+    },
+    {
+      "label": "Chi guarda prima al prezzo e chi la vuole per il bagno",
+      "offerId": "anker-soundcore-3",
+      "reason": "Un prezzo contenuto con 24 ore di autonomia dichiarate e protezione IPX7 all'immersione è difficile da battere per l'ascolto casalingo, sotto la doccia o a bordo piscina."
+    }
+  ]
 }

@@ -60,6 +60,122 @@
       "a": "Sonicare: 5-7 anni prima che la batteria si degradi. Oral-B (motore rotante) tipicamente 3-5 anni. La batteria dell'iO 9 è sostituibile; le altre no. Inseriscilo nel costo totale ripartito sull'intera vita utile."
     }
   ],
+  "offerNotes": {
+    "oral-b-io-series-9": "Lo spazzolino di punta di Oral-B, oscillante-rotante con motore magnetico (più silenzioso e potente dei motori tradizionali), mappatura della bocca in 16 zone gestita dall'IA tramite l'app Oral-B, anello luminoso sul manico che segnala la pressione e sei modalità di pulizia. La testina tonda oscillante è la geometria più studiata nella letteratura clinica sugli spazzolini elettrici. Oltre 300 € per il solo spazzolino, a cui si aggiungono 56-104 € di testine iO per due anni ai prezzi di listino senza abbonamento; durante la configurazione l'app insiste parecchio sulla condivisione dei dati e le abitudini di spazzolamento finiscono sui server di Oral-B; la testina tonda non avvolge bene i denti affollati o irregolari, un limite concreto per chi ha un passato ortodontico.",
+    "philips-sonicare-diamondclean-9000": "Il top di gamma sonico di Philips Sonicare: quattro modalità di pulizia (Clean, White+, Gum Health, Deep Clean+), sensore di pressione che rallenta il motore quando si spinge troppo, il caratteristico bicchiere di ricarica in vetro e una presentazione premium che ne fa l'idea regalo migliore del confronto. La tecnologia sonica a 31.000 movimenti al minuto è più delicata sulle gengive rispetto all'oscillante-rotante, quindi adatta a chi soffre di sensibilità o recessione gengivale. Oltre 250 € per lo spazzolino; il bicchiere di ricarica in vetro è davvero poco pratico in viaggio — è fragile, ingombra e non ricarica lo spazzolino fuori casa senza un cavo da viaggio a parte; il costo delle testine su due anni è paragonabile a quello di Oral-B.",
+    "panasonic-doltz-ew-dp52": "Lo spazzolino sonico entry level di Philips Sonicare, con sensore di pressione, timer di due minuti con QuadPacer, promemoria BrushSync per l'usura della testina, testine a innesto e nessun sovraccarico di app o Bluetooth. Sonicare è un marchio storico del settore, con un'ampia disponibilità di testine di ricambio. I compromessi: un'unica modalità di pulizia, senza possibilità di sceglierne altre; nessun coaching IA né feedback via app, quindi i miglioramenti dipendono dalla propria costanza e dall'avviso di pressione; custodia da viaggio non inclusa.",
+    "quip-electric-toothbrush": "Lo spazzolino elettrico minimalista di Quip: profilo piatto che entra in qualsiasi beauty case senza custodia dedicata, sigillo ADA di accettazione, timer integrato di due minuti con intervalli di 30 secondi per quadrante e un abbonamento (5 $ a trimestre) che recapita ogni tre mesi una testina nuova e una pila AAA. Il Quip funziona con una singola AAA anziché con una batteria ricaricabile, eliminando del tutto il cavo di ricarica dal bagaglio. La vibrazione è basilare: non rientra nella definizione clinica di tecnologia oscillante o sonica usata negli studi della Cochrane, quindi lo spazzolino non offre il vantaggio meccanico di quelle tecnologie; nessun sensore di pressione, l'assenza clinicamente più rilevante di questo confronto; le testine di ricambio si trovano solo tramite l'abbonamento Quip e non in farmacia, il che diventa un problema se se ne perde una in viaggio.",
+    "oclean-x-pro-elite": "Il modello di punta di Oclean con coaching IA: motore piezoelettrico (nettamente più silenzioso degli spazzolini oscillanti o sonici), display AMOLED sul manico che mostra in tempo reale copertura e pressione, coaching IA che individua le zone saltate senza bisogno di tenere il telefono in mano e circa 30 giorni di autonomia con una carica. A circa 80 € offre il coaching IA a un quarto del prezzo dell'Oral-B iO Series 9. Oclean è un marchio giovane (nato nel 2017), con uno storico di affidabilità più corto rispetto a Oral-B o Philips; i dati del coaching IA finiscono su server cinesi, una questione di giurisdizione distinta dalla qualità del prodotto; le testine si acquistano soprattutto online e non nelle farmacie fisiche nella maggior parte dei mercati fuori dalla Cina."
+  },
   "pinDescription": "Il più economico ha pulito il 32% meglio del manuale. Il più caro è eccessivo per la maggior parte.",
-  "methodology": "Ogni prodotto è valutato in base alla trasparenza degli ingredienti, alla comprovata esperienza dermatologica, alla coerenza dei risultati ottenuti da utenti reali, alla qualità della confezione e al rapporto qualità-prezzo per ogni utilizzo."
+  "methodology": "Ogni prodotto è valutato in base alla trasparenza degli ingredienti, alla comprovata esperienza dermatologica, alla coerenza dei risultati ottenuti da utenti reali, alla qualità della confezione e al rapporto qualità-prezzo per ogni utilizzo.",
+  "products": [
+    {
+      "offerId": "oral-b-io-series-9",
+      "badge": "Miglior coaching IA",
+      "review": "L'iO Series 9 è lo spazzolino più \"strumentato\" del confronto sul piano comportamentale. Il motore magnetico fa oscillare e ruotare la testina tonda a circa 9.000 oscillazioni al minuto con vibrazioni sul manico molto inferiori rispetto ai vecchi motori Oral-B Pro, e la mappatura Bluetooth in 16 zone nell'app Oral-B segnala sessione dopo sessione le superfici saltate. L'anello luminoso del sensore di pressione passa dal bianco al rosso quando la forza supera la soglia di erosione dello smalto: è la funzione clinicamente più difendibile della categoria. Completano il quadro sei modalità di pulizia e una custodia da viaggio con ricarica. La testina tonda si trova a suo agio con una dentatura regolare; su denti affollati o ruotati il contatto è meno uniforme di quello garantito da una testina sonica.",
+      "pros": [
+        "Mappatura IA in 16 zone con feedback sessione per sessione",
+        "Anello sensore di pressione con avviso a colori ben visibile sul manico",
+        "Il motore magnetico è più silenzioso dei vecchi motori Pro",
+        "Sigillo ADA e geometria oscillante ampiamente studiata"
+      ],
+      "cons": [
+        "La testina tonda avvolge meno bene i denti affollati o ruotati",
+        "L'app richiede un account Oral-B e insiste sulla condivisione dei dati in fase di configurazione"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "philips-sonicare-diamondclean-9000",
+      "badge": "Miglior idea regalo",
+      "review": "Il DiamondClean 9000 è il top di gamma sonico di Philips Sonicare nella sua veste più curata: bicchiere di ricarica in vetro, manico dal peso ben calibrato e confezione laccata ne fanno lo spazzolino più adatto a essere regalato di tutto il confronto. La vibrazione sonica a 31.000 movimenti al minuto è più delicata sulle gengive rispetto all'oscillante-rotante, quindi è la scelta migliore per chi ha recessione o sensibilità gengivale. Le quattro modalità coprono Clean, White+, Gum Health e Deep Clean+, e il sensore di pressione rallenta il motore quando si spinge troppo, invece di limitarsi ad accendere una spia. Il bicchiere in vetro però è fragile e poco pratico in viaggio: per qualsiasi trasferta più lunga dell'autonomia servono una custodia e un cavo standard a parte.",
+      "pros": [
+        "31.000 movimenti sonici al minuto, più delicati su gengive sensibili o in recessione",
+        "Il motore rallenta sotto pressione eccessiva invece di limitarsi a una spia",
+        "Bicchiere di ricarica in vetro e confezione premium fanno un'ottima figura come regalo",
+        "Quattro modalità di pulizia coprono quasi tutte le esigenze"
+      ],
+      "cons": [
+        "Il bicchiere di ricarica in vetro è fragile e inutile in viaggio",
+        "Gestione dei dati e creazione dell'account paragonabili a Oral-B"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "panasonic-doltz-ew-dp52",
+      "badge": "Il migliore senza app",
+      "review": "Il Sonicare ProtectiveClean 4100 è lo spazzolino sonico entry level per chi vuole un sensore di pressione e un timer di due minuti integrato senza Bluetooth, account nell'app o caricamento di dati. Ha una sola modalità di pulizia, quindi non c'è nessun menù da imparare: si preme un pulsante e si spazzola. La vibrazione sonica rimuove bene la placca a un prezzo contenuto, la spia BrushSync avvisa quando la testina è consumata e le testine a innesto si trovano in quasi tutte le farmacie e nei negozi online. Il compromesso è dichiarato: una sola modalità, nessuna custodia da viaggio nella confezione e nessun coaching IA o mappatura delle zone — i progressi dipendono dalla propria costanza e dall'avviso di pressione.",
+      "pros": [
+        "Avviso del sensore di pressione, senza bisogno dell'app",
+        "Modalità unica con un solo pulsante: semplice da usare tutti i giorni",
+        "La spia BrushSync segnala quando la testina è consumata",
+        "Tecnologia sonica più delicata sulle gengive rispetto all'oscillante-rotante"
+      ],
+      "cons": [
+        "Una sola modalità di pulizia e nessuna custodia da viaggio inclusa",
+        "Nessun coaching IA né feedback sulla mappatura delle zone"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "quip-electric-toothbrush",
+      "badge": "Il migliore in viaggio",
+      "review": "Il Quip Electric è la scelta minimalista pensata per chi viaggia: profilo piatto che entra in qualsiasi beauty case senza custodia dedicata, timer integrato di due minuti con intervalli di 30 secondi per quadrante e un abbonamento che ogni tre mesi recapita testina nuova e pila AAA per 5 $. Funzionando con una sola AAA invece che con una batteria ricaricabile, elimina del tutto il cavo di ricarica dal bagaglio, e ha il sigillo ADA di accettazione. Le mancanze però ci sono: nessun sensore di pressione (la lacuna clinicamente più pesante del confronto), una vibrazione basilare che non rientra nella definizione clinica di oscillante o sonico e testine disponibili solo su abbonamento, quindi in viaggio non se ne rimedia una in farmacia.",
+      "pros": [
+        "Il profilo piatto entra in qualsiasi beauty case senza custodia",
+        "La singola pila AAA elimina del tutto i cavi di ricarica",
+        "L'abbonamento da 5 $ a trimestre è il costo delle testine più basso su due anni della lista",
+        "Sigillo ADA e timer con intervalli di 30 secondi per quadrante integrati"
+      ],
+      "cons": [
+        "Nessun sensore di pressione: l'assenza clinicamente più rilevante del confronto",
+        "Testine di ricambio solo tramite abbonamento, non in farmacia"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "oclean-x-pro-elite",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "review": "L'X Pro Elite porta a circa 80 € il coaching IA per lo spazzolamento, un display AMOLED che mostra in tempo reale copertura delle zone e pressione, un silenzioso motore piezoelettrico e circa 30 giorni di autonomia con una sola carica: un cambio di passo rispetto a quando il coaching IA costava 250 € o più. Lo schermo AMOLED sul manico restituisce il feedback senza dover tenere il telefono in mano, un vantaggio pratico concreto rispetto ai sistemi solo Bluetooth. Il motore piezoelettrico è il più silenzioso del gruppo. Le riserve sono reali: marchio con uno storico più corto di Oral-B o Philips, dati dell'app su server cinesi (questione di giurisdizione, non di qualità del prodotto) e testine reperibili soprattutto online più che in farmacia.",
+      "pros": [
+        "Il display AMOLED mostra copertura e pressione senza telefono in mano",
+        "Motore piezoelettrico nettamente più silenzioso di oscillante o sonico",
+        "Circa 30 giorni di autonomia: la più lunga del confronto",
+        "Costo totale su due anni più basso del gruppo"
+      ],
+      "cons": [
+        "I dati dell'app risiedono su server cinesi: da valutare per chi è attento alla giurisdizione",
+        "Testine non disponibili nelle farmacie fisiche nella maggior parte dei mercati"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per chi salta sempre le stesse zone, con diagnosi del dentista",
+      "offerId": "oral-b-io-series-9",
+      "reason": "La mappatura Bluetooth in 16 zone è il feedback più dettagliato della categoria e affronta direttamente un problema documentato nel modo di spazzolare."
+    },
+    {
+      "label": "Per gengive sensibili o in recessione",
+      "offerId": "philips-sonicare-diamondclean-9000",
+      "reason": "I 31.000 movimenti sonici al minuto e un sensore di pressione che rallenta il motore sono più delicati sulle gengive compromesse rispetto all'oscillante-rotante."
+    },
+    {
+      "label": "Per chi tiene alla privacy e non vuole app",
+      "offerId": "panasonic-doltz-ew-dp52",
+      "reason": "Avviso di pressione e timer integrato senza Bluetooth, senza creare account e senza inviare dati ai server di un'azienda."
+    },
+    {
+      "label": "Per chi viaggia spesso e ama il minimalismo",
+      "offerId": "quip-electric-toothbrush",
+      "reason": "Profilo piatto che entra ovunque, una sola pila AAA quindi niente caricabatterie, e l'abbonamento da 5 $ a trimestre pensa a testina e pila."
+    },
+    {
+      "label": "Per il coaching IA con budget ridotto",
+      "offerId": "oclean-x-pro-elite",
+      "reason": "Feedback AMOLED sulle zone e coaching IA a circa un quarto del prezzo dell'Oral-B iO, con l'autonomia più lunga del confronto."
+    }
+  ]
 }

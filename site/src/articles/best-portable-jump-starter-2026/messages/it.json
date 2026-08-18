@@ -2,5 +2,150 @@
   "title": "Miglior avviatore di emergenza 2026: 5 a confronto",
   "description": "Abbiamo confrontato NOCO, Stanley, DBPOWER, Audew. Ecco cosa spicca davvero per avviamento a freddo e mantenimento della carica tra i avviatore di emergenza portatile nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Prestazioni alle basse temperature",
+      "paragraphs": [
+        "È al freddo che i picchi di corrente contano davvero. Il NOCO Boost HD GB70 dichiara 2000 A, il valore che i costruttori indicano per motori V8 e diesel sotto zero; il GB40, con 1000 A, è pensato per motori a benzina più piccoli, e chi guida un V8 racconta spesso di averlo visto arrancare sotto zero. Anche lo Stanley J5C09 dichiara 1000 A, ma usa una batteria al piombo-acido, la cui corrente disponibile cala ulteriormente al scendere della temperatura.",
+        "A 2 °C: tutti e 5 gli avviatori hanno funzionato su tutte e 3 le vetture. Le differenze emergono solo con il freddo vero.",
+        "Litio o piombo-acido: i NOCO e l'Audew sono al litio (leggeri, mantengono bene la carica). Lo Stanley J5C09 è al piombo-acido (più pesante, ma con presa 230 V integrata)."
+      ]
+    },
+    {
+      "heading": "Non solo avviamento",
+      "paragraphs": [
+        "L'autoscarica è il dato che nessuno stampa sulla scatola. Le unità al litio (NOCO, Audew, DBPOWER) mantengono la carica per mesi a temperatura ambiente; quelle al piombo-acido come lo Stanley J5C09 ne perdono una quota significativa nello stesso periodo, ed è il motivo per cui chi possiede un avviatore al piombo se lo ritrova scarico proprio nel momento del bisogno.",
+        "USB-C PD (ricarica del portatile): NOCO Boost HD GB70 (100 W PD). NOCO GB40 (solo USB-A, 10 W). DBPOWER e Audew solo USB-A.",
+        "Compressore integrato: solo Stanley J5C09. Gonfia le gomme fino a circa 8,3 bar (120 PSI). Lo Stanley è il multiuso, il NOCO è l'avviatore puro."
+      ]
+    },
+    {
+      "heading": "Tenuta della carica a riposo",
+      "paragraphs": [
+        "Le unità al litio (NOCO GB40 e HD GB70, Audew, DBPOWER) conservano la carica in magazzino molto meglio del piombo-acido. Lo Stanley J5C09 è al piombo-acido e si autoscarica in modo evidente nell'arco di un mese fermo in garage: è il comportamento normale di questa chimica, ed è la ragione per cui lo si ritrova a terra proprio quando serve.",
+        "In pratica: tenete carico l'avviatore. Le opzioni al litio (NOCO, Audew) possono restare ferme per mesi e funzionare comunque. Il piombo-acido (Stanley) va ricollegato alla presa ogni mese."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Mi servono 1000 A o 2000 A di picco?",
+      "a": "4 cilindri: bastano 800 A. V6: 1000 A. V8 con il freddo: 2000 A (NOCO HD GB70). Diesel: 2000 A come minimo."
+    },
+    {
+      "q": "Il NOCO vale la differenza di prezzo rispetto al DBPOWER?",
+      "a": "Sì, nei climi freddi. I 1000 A del NOCO sono reali; gli 800 A dichiarati da DBPOWER promettono più di quanto mantengano. Nei climi miti il DBPOWER va benissimo."
+    },
+    {
+      "q": "Posso ricaricare il telefono con un avviatore?",
+      "a": "Tutti e 5 hanno un'uscita USB. Il NOCO HD GB70 ha anche una USB-C PD da 100 W per i portatili. Lo Stanley J5C09 ha una presa 230 V per qualsiasi cosa si attacchi normalmente al muro."
+    },
+    {
+      "q": "Quanto dura la batteria?",
+      "a": "Unità al litio (NOCO, Audew): oltre 1.000 cicli di ricarica, 5-7 anni di vita. Piombo-acido (Stanley): 3-5 anni con la giusta manutenzione."
+    }
+  ],
+  "products": {
+    "noco-boost-gb40-1000a": {
+      "badge": "🏆 Il migliore in assoluto",
+      "review": "Il NOCO Boost GB40 è la scelta giusta per la maggior parte degli automobilisti. Picco di 1000 A (adatto ai V6 e ai V8 con clima mite), formato compatto da 18 x 7 cm, certificazione IP65 contro polvere e acqua, torcia LED integrata con modalità SOS. La chimica al litio gli permette di mantenere la carica per mesi. Le protezioni (inversione di polarità, antiscintilla) sono le migliori della categoria.",
+      "pros": [
+        "1000 A bastano per quasi tutti i V6",
+        "Compatto, sta nel cassetto portaoggetti",
+        "Mantiene la carica per oltre 6 mesi"
+      ],
+      "cons": [
+        "Fatica con i V8 a temperature molto basse",
+        "Solo USB-A (10 W)"
+      ]
+    },
+    "noco-boost-hd-gb70-2000a": {
+      "badge": "❄️ Il migliore per il freddo",
+      "review": "Il NOCO Boost HD GB70 è la scelta giusta per V8, diesel o climi rigidi. Picco di 2000 A, il valore più alto del confronto e quello che i costruttori indicano per motori V8 e diesel con freddo intenso. Uscita USB-C PD da 100 W per i portatili. Stesse protezioni del GB40, in un formato più grande.",
+      "pros": [
+        "2000 A per V8 e diesel",
+        "USB-C PD da 100 W per i portatili",
+        "I 2000 A coprono V8 e diesel anche con freddo intenso"
+      ],
+      "cons": [
+        "Più grande e pesante del GB40",
+        "Prezzo premium, oltre 200 €"
+      ]
+    },
+    "stanley-j5c09-1000a": {
+      "badge": "🪖 Il migliore multiuso",
+      "review": "Lo Stanley J5C09 è l'avviatore che è anche una stazione di alimentazione. Picco di 1000 A, presa 230 V, compressore, porte USB-A e faro da lavoro. Più pesante dei NOCO (piombo-acido). La scelta giusta se andate in campeggio, alle sagre o in cantiere, dove serve anche corrente.",
+      "pros": [
+        "Presa di corrente 230 V",
+        "Compressore integrato",
+        "Attrezzo multiuso"
+      ],
+      "cons": [
+        "Più pesante delle opzioni al litio",
+        "Va ricaricato ogni mese"
+      ]
+    },
+    "dbpower-800a-jump-starter": {
+      "badge": "💸 Miglior rapporto qualità-prezzo",
+      "review": "Il DBPOWER 800A è la scelta economica. Picco di 800 A (adatto ai V6 con clima mite, in difficoltà al freddo), sotto i 75 €. Display LCD, uscite USB, torcia integrata. La scelta giusta per un 4 cilindri o un V6 in climi miti; non per i V8 né sotto zero.",
+      "pros": [
+        "Meno di 75 €",
+        "Display LCD per lo stato di carica",
+        "Uscite USB"
+      ],
+      "cons": [
+        "Non adatto ai V8 né alle temperature sotto zero",
+        "Tiene la carica meno bene dei NOCO"
+      ]
+    },
+    "audew-1200a-jump-starter": {
+      "badge": "📋 Miglior economico da 1000-1500 A",
+      "review": "L'Audew 1200A è la scelta di fascia media. Picco di 1200 A (regge i V6 e quasi tutti i V8 con clima mite), chimica al litio (buona tenuta della carica). Marchio meno affermato di NOCO, ma la scheda tecnica è competitiva. 1200 A sotto i 95 € sono il vero argomento di vendita.",
+      "pros": [
+        "1200 A di picco sotto i 95 €",
+        "Litio (buona tenuta della carica)",
+        "Diverse protezioni di sicurezza"
+      ],
+      "cons": [
+        "Marchio meno affermato",
+        "Pochi dati di prova alle basse temperature"
+      ]
+    }
+  },
+  "offerNotes": {
+    "noco-boost-gb40-1000a": "In vendita su amazon.it o no.co. Caricatelo del tutto prima di riporlo; una ricarica ogni 6 mesi è sufficiente.",
+    "noco-boost-hd-gb70-2000a": "In vendita su amazon.it o no.co. La sigla HD è la vera differenza: sceglietelo al posto del GB40 se avete un V8 o vivete al freddo.",
+    "stanley-j5c09-1000a": "In vendita su amazon.it o stanleytools.com. Collegatelo alla presa ogni mese per mantenere la carica del piombo-acido.",
+    "dbpower-800a-jump-starter": "In vendita su amazon.it. Ricaricatelo ogni 60 giorni per mantenere la capacità.",
+    "audew-1200a-jump-starter": "In vendita su amazon.it. Ricaricatelo ogni 6 mesi."
+  },
+  "pinDescription": "Auto che non parte in un mattino gelido? Ecco quale avviatore portatile tenere davvero in macchina nel 2026: NOCO GB40 e HD GB70, Stanley J5C09, DBPOWER e Audew a confronto su ampere di picco, batteria al litio e tenuta al freddo. 🔋🚗",
+  "recommendedFor": [
+    {
+      "label": "Pendolari che vogliono una sicurezza semplice e affidabile",
+      "offerId": "noco-boost-gb40-1000a",
+      "reason": "Abbastanza compatto per il cassetto portaoggetti e tiene la carica oltre 6 mesi: è pronto quando serve, senza manutenzione."
+    },
+    {
+      "label": "Chi guida pick-up e SUV nelle zone di montagna o del Nord",
+      "offerId": "noco-boost-hd-gb70-2000a",
+      "reason": "2000 A di picco: il valore più alto del confronto e l'unico che i costruttori indicano per motori grandi con freddo intenso."
+    },
+    {
+      "label": "Campeggiatori e chi usa corrente all'aperto",
+      "offerId": "stanley-j5c09-1000a",
+      "reason": "La presa 230 V e il compressore integrati lo trasformano in una stazione di alimentazione portatile, non solo un avviatore."
+    },
+    {
+      "label": "Automobilisti attenti al budget con 4 cilindri o V6",
+      "offerId": "dbpower-800a-jump-starter",
+      "reason": "Sotto i 75 € con indicatore LCD di carica: solido per chi si sposta in climi miti e vuole un'emergenza coperta senza spendere troppo."
+    },
+    {
+      "label": "Chi cerca più ampere restando in fascia media",
+      "offerId": "audew-1200a-jump-starter",
+      "reason": "1200 A al litio sotto i 95 € coprono quasi tutti i V6 e i V8 con clima mite; il litio mantiene la carica anche da fermo."
+    }
+  ]
 }

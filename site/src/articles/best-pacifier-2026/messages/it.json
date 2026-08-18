@@ -2,5 +2,145 @@
   "title": "Miglior ciuccio 2026: 5 a confronto",
   "description": "Abbiamo confrontato Philips Avent, Natursutten, NUK, MAM, BIBS. Ecco cosa spicca davvero per tasso di accettazione e sicurezza del materiale tra i ciuccio nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Materiali e sicurezza",
+      "paragraphs": [
+        "Silicone 100% (Philips Avent, MAM, NUK, BIBS): il più diffuso, lavabile in lavastoviglie, senza BPA.",
+        "Caucciù naturale (Natursutten): più flessibile del silicone, biodegradabile, zero plastica. Alcuni bambini preferiscono la sensazione più morbida.",
+        "Tutti e cinque sono privi di BPA e conformi agli standard di sicurezza EN 1400. La scelta dipende dalle preferenze e da quale ciuccio il bambino accetta."
+      ]
+    },
+    {
+      "heading": "Il migliore per ogni esigenza",
+      "paragraphs": [
+        "Migliore standard ospedaliero: Philips Avent Soothie (5-10 €). Silicone monopezzo, usato nelle terapie intensive neonatali.",
+        "Miglior materiale naturale: Natursutten Natural Rubber (10-15 €). Caucciù naturale al 100%, prodotto in Italia.",
+        "Miglior forma ortodontica: NUK Orthodontic (5-10 €). Si adatta alla bocca del bambino, diffusissimo in Europa.",
+        "Migliore per la notte: MAM Perfect Night (8-12 €). Si illumina al buio.",
+        "Migliore esteticamente: BIBS Pacifier (5-10 €). Design danese, tanti colori."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Il ciuccio interferisce con l'allattamento al seno?",
+      "a": "Pediatri e consulenti per l'allattamento consigliano in genere di aspettare che l'allattamento sia ben avviato (3-4 settimane) prima di introdurre il ciuccio. Una volta consolidato, il ciuccio non incide in modo significativo sull'allattamento."
+    },
+    {
+      "q": "Quando togliere il ciuccio?",
+      "a": "Le linee guida pediatriche raccomandano di eliminarlo entro i 18-24 mesi per evitare problemi ortodontici. Molti genitori lo tolgono prima (intorno ai 12 mesi), quando il bambino è meno attaccato."
+    },
+    {
+      "q": "Ogni quanto va sostituito il ciuccio?",
+      "a": "Ogni 1-2 mesi, oppure appena compaiono crepe, ingiallimenti o appiccicosità. Controllalo dopo ogni lavaggio in lavastoviglie."
+    },
+    {
+      "q": "Meglio silicone o caucciù naturale?",
+      "a": "Silicone: resistente, lavabile in lavastoviglie, dura di più. Caucciù naturale: più morbido, biodegradabile, preferito da alcuni bambini. Scegli in base a quello che il tuo bambino accetta."
+    }
+  ],
+  "products": {
+    "philips-avent-soothie": {
+      "badge": "🏥 Standard ospedaliero",
+      "review": "Il Philips Avent Soothie è il ciuccio usato nelle terapie intensive neonatali di tutto il mondo. Silicone monopezzo di grado medicale, senza BPA, per 0-3 mesi. Il Soothie è spesso il primo ciuccio che il bambino riceve in ospedale: continuare a usarlo a casa gli lascia un punto di riferimento familiare.",
+      "pros": [
+        "Standard ospedaliero a livello mondiale",
+        "Silicone monopezzo (facile da pulire)",
+        "Senza BPA, conforme agli standard di sicurezza"
+      ],
+      "cons": [
+        "Taglia 0-3 mesi: va sostituito con una misura più grande",
+        "Estetica anonima"
+      ]
+    },
+    "natursutten-natural-rubber": {
+      "badge": "🌳 Miglior naturale",
+      "review": "Il Natursutten in caucciù naturale è la scelta giusta per chi vuole evitare silicone e plastica. Caucciù naturale al 100%, nessuna parte in plastica o silicone, prodotto in Italia. Alcuni bambini preferiscono la morbidezza del caucciù. Biodegradabile.",
+      "pros": [
+        "Caucciù naturale al 100%",
+        "Nessuna parte in plastica",
+        "Prodotto in Italia"
+      ],
+      "cons": [
+        "Più caro delle alternative in silicone",
+        "Meno duraturo del silicone"
+      ]
+    },
+    "nuk-pacifier": {
+      "badge": "🦷 Miglior ortodontico",
+      "review": "Il NUK Orthodontic ha una forma ortodontica che si adatta alla bocca del bambino. Usato in Europa da decenni, il design asimmetrico segue naturalmente il palato. Ideale per i genitori attenti allo sviluppo dentale.",
+      "pros": [
+        "Forma ortodontica",
+        "Usato in Europa da decenni",
+        "Disponibile in più taglie"
+      ],
+      "cons": [
+        "Design asimmetrico: va inserito nel verso giusto",
+        "Alcuni bambini rifiutano questa forma"
+      ]
+    },
+    "mam-perfect-night": {
+      "badge": "🌙 Migliore per la notte",
+      "review": "Il MAM Perfect Night è pensato per le ore notturne. Lo scudo fosforescente ti permette di ritrovarlo al buio quando il bambino lo sputa. Silicone ultra morbido e scudo sottile.",
+      "pros": [
+        "Si illumina al buio",
+        "Silicone ultra morbido",
+        "Scudo sottile"
+      ],
+      "cons": [
+        "Il materiale fosforescente va esposto alla luce ogni tanto",
+        "Alcuni bambini rifiutano la forma MAM"
+      ]
+    },
+    "bibs-pacifier": {
+      "badge": "🎨 Migliore estetica",
+      "review": "Il BIBS è il ciuccio di tendenza. Design danese, classica forma rotonda, oltre 20 combinazioni di colore, amatissimo dai genitori attenti allo stile. Tettarella in caucciù naturale, scudo in plastica. È il ciuccio più fotografato su Instagram.",
+      "pros": [
+        "Design danese curato",
+        "Oltre 20 combinazioni di colore",
+        "Tettarella in caucciù naturale"
+      ],
+      "cons": [
+        "Meno ergonomico del NUK",
+        "Punta più sull'estetica che sulla funzionalità"
+      ]
+    }
+  },
+  "offerNotes": {
+    "philips-avent-soothie": "Disponibile su philips.it, Amazon e nelle principali catene per l'infanzia. Più taglie (0-3, 3+, 6+ mesi).",
+    "natursutten-natural-rubber": "Disponibile su natursutten.com e nei negozi bio per l'infanzia. Esiste nelle versioni tonda e ortodontica.",
+    "nuk-pacifier": "Disponibile su nuk.it, Amazon, farmacie e negozi per l'infanzia. Diverse taglie e forme.",
+    "mam-perfect-night": "Disponibile su mambaby.com, Amazon e farmacie. Più taglie per età.",
+    "bibs-pacifier": "Disponibile su bibsworld.com. Combinazioni di colore che cambiano a ogni stagione."
+  },
+  "pinDescription": "Quale ciuccio scegliere? Confronto tra Philips Avent Soothie, Natursutten in caucciù, NUK Orthodontic, MAM Perfect Night e BIBS: forma della tettarella, materiale, età consigliata e sterilizzazione. Salva il pin prima della nascita 🍼",
+  "recommendedFor": [
+    {
+      "label": "Genitori che proseguono a casa le cure iniziate in TIN",
+      "offerId": "philips-avent-soothie",
+      "reason": "È il ciuccio in dotazione nelle terapie intensive neonatali di tutto il mondo: il bambino ne conosce già la forma e il passaggio a casa avviene senza traumi."
+    },
+    {
+      "label": "Genitori attenti all'ambiente che escludono ogni plastica",
+      "offerId": "natursutten-natural-rubber",
+      "reason": "Caucciù naturale al 100% senza alcuna parte in plastica: completamente biodegradabile e l'unica opzione per una casa davvero plastic-free."
+    },
+    {
+      "label": "Genitori preoccupati per lo sviluppo dentale a lungo termine",
+      "offerId": "nuk-pacifier",
+      "reason": "Lo scudo ortodontico asimmetrico riproduce la suzione naturale e vanta decenni di utilizzo nella pediatria e nell'odontoiatria europea."
+    },
+    {
+      "label": "Neogenitori sfiniti dai risvegli notturni frequenti",
+      "offerId": "mam-perfect-night",
+      "reason": "Lo scudo fosforescente permette di ritrovarlo e rimetterlo in bocca al buio più totale, senza accendere la luce."
+    },
+    {
+      "label": "Genitori attenti allo stile che documentano ogni tappa su Instagram",
+      "offerId": "bibs-pacifier",
+      "reason": "Il design danese rotondo in oltre 20 combinazioni di colore lo rende il ciuccio più fotografato sui social."
+    }
+  ]
 }

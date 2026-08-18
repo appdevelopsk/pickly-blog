@@ -68,5 +68,114 @@
     "fuji-royal-r220": "Calibro bar — eccessivo per 1-2 tazze al giorno, ma dura un decennio e copre una famiglia."
   },
   "pinDescription": "Il manuale ha battuto metà degli elettrici. Dati di uniformità di particella e grafici dei tempi.",
-  "methodology": "Abbiamo valutato ogni prodotto in base alla durata nell'uso quotidiano, alla facilità d'uso, alle prestazioni rispetto alle promesse pubblicitarie, alla qualità costruttiva e al valore nel tempo. Le specifiche dichiarate dal produttore sono state confrontate con recensioni verificate di chi lo possiede."
+  "methodology": "Abbiamo valutato ogni prodotto in base alla durata nell'uso quotidiano, alla facilità d'uso, alle prestazioni rispetto alle promesse pubblicitarie, alla qualità costruttiva e al valore nel tempo. Le specifiche dichiarate dal produttore sono state confrontate con recensioni verificate di chi lo possiede.",
+  "products": [
+    {
+      "offerId": "timemore-c2",
+      "badge": "Miglior scelta assoluta",
+      "review": "Il Timemore C2 è la scelta naturale per chi prepara V60 e Aeropress tutti i giorni. La regolazione avviene tramite scatti numerati su una ghiera a step, quindi ritrovare una macinatura già collaudata è immediato. Niente corrente, niente rumore e nessun componente da sostituire per diversi anni di uso domestico. Per una o due tazze al giorno è il salto di qualità con il miglior rapporto risultato/spesa in questa fascia di prezzo.",
+      "pros": [
+        "Uniformità della macinatura superiore a qualsiasi elettrico entry o medio livello",
+        "La regolazione a step rende le impostazioni ripetibili",
+        "Corpo in alluminio zigrinato, comodo da impugnare durante la macinatura",
+        "Nessuna alimentazione elettrica e praticamente silenzioso"
+      ],
+      "cons": [
+        "Macinare a mano diventa faticoso oltre le due tazze",
+        "Capacità massima di circa 30 g per macinata"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "hario-v60-ceramic-slim",
+      "badge": "Miglior entry level",
+      "review": "L'Hario V60 Ceramic Slim è il macinacaffè da comprare se non sei ancora sicuro che l'estrazione manuale diventerà un'abitudine. Le macine in ceramica sono davvero resistenti — cinque anni e più di utilizzo nei weekend sono realistici — e il corpo sottile in vetro è abbastanza leggero da portare in campeggio o in viaggio. La distribuzione delle particelle è accettabile per V60 e caffettiera a stantuffo, ma visibilmente più ampia rispetto al Timemore, con più fini che possono intorbidire un pour-over. La regolazione è a rotella senza scatti sotto le macine, ed è scomoda da riportare a un valore preciso. A questo prezzo il costo d'ingresso è così basso che, nel peggiore dei casi, resta un'esperienza formativa da pochi euro.",
+      "pros": [
+        "Il prezzo d'ingresso più basso possibile per una macinatura a macine",
+        "Macine in ceramica che durano cinque anni o più con uso saltuario",
+        "Sottile e leggero, adatto ai viaggi",
+        "Ricambi disponibili a poco prezzo"
+      ],
+      "cons": [
+        "La regolazione senza scatti rende difficile ritrovare la stessa impostazione",
+        "Più fini nella macinatura rispetto al Timemore"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "melitta-vario-e",
+      "badge": "Miglior elettrico di fascia media",
+      "review": "Il Melitta Vario E è l'elettrico di fascia media che ha finalmente risolto il problema del rumore. Con i suoi 64 dB è sensibilmente più silenzioso del modello 2022 e si può usare senza sensi di colpa la mattina presto in un appartamento condiviso. La doppia regolazione a step — piastra per la macinatura grossa più un micro-aggiustamento fine — copre tutto, dall'espresso alla french press, e la macinatura diretta nel portafiltro senza dosatore è la soluzione giusta per chi lavora a dose singola. La costruzione usa molta plastica per il prezzo richiesto, e la tramoggia trattiene una piccola quantità di macinato tra un utilizzo e l'altro. Per chi vuole la rapidità dell'elettrico senza salire ai modelli top di gamma, questo è il gradino giusto.",
+      "pros": [
+        "L'elettrico più silenzioso di questo confronto, con 64 dB",
+        "La doppia regolazione a step copre dall'espresso alla french press",
+        "Macinatura diretta nel portafiltro a dose singola",
+        "Costruzione affidabile con ricambi facilmente reperibili"
+      ],
+      "cons": [
+        "La tramoggia trattiene del macinato tra un utilizzo e l'altro",
+        "Molta plastica per la fascia di prezzo"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "delonghi-kg79j",
+      "badge": "Miglior elettrico economico",
+      "review": "Il De'Longhi KG79J è il macinacaffè elettrico più economico che valga la pena consigliare. Le diciotto regolazioni coprono senza problemi la gamma per filtro e pour-over; l'espresso è possibile alla macinatura più fine, ma non è il suo punto forte. L'uniformità delle particelle è il punto debole — visibilmente più ampia rispetto al Timemore e non paragonabile al Melitta — ma per chi usa V60 e Aeropress, vuole la velocità di un elettrico e non intende spendere di più, l'essenziale c'è tutto. È più rumoroso del Vario E, la tramoggia è piccola e le macine sono il componente di consumo che ne limita il valore nel lungo periodo. Al suo prezzo contenuto è il giusto compromesso per una macinatura elettrica occasionale.",
+      "pros": [
+        "Il macinacaffè elettrico a macine più economico che valga la pena consigliare",
+        "Diciotto regolazioni che coprono bene filtro e pour-over",
+        "Macinatura rapida per la routine quotidiana del mattino",
+        "Ingombro ridotto sul piano di lavoro"
+      ],
+      "cons": [
+        "Distribuzione delle particelle più ampia rispetto al Timemore",
+        "Rumoroso rispetto agli elettrici di fascia media"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "fuji-royal-r220",
+      "badge": "Miglior scelta per professionisti",
+      "review": "Il Fuji Royal R-220 (Mirukko) è il riferimento da bar per una buona ragione. Le lame in acciaio fuso restano affilate per un decennio di uso commerciale quotidiano, il motore da 240 W macina 20 g in circa tre secondi e la distribuzione delle particelle è nettamente la più omogenea di questo confronto. I compromessi sono onesti: è rumoroso — più vicino a un piccolo asciugacapelli che a un elettrodomestico da cucina — e il prezzo si colloca ben oltre i macinacaffè per uso domestico. Per chi prepara quattro o più tazze al giorno, o per chi è abbastanza fissato da volere un macinacaffè destinato a sopravvivere al resto della cucina, questo è l'acquisto da fare una volta sola.",
+      "pros": [
+        "La distribuzione delle particelle più omogenea di questo confronto",
+        "Macine in acciaio fuso che restano affilate per un decennio",
+        "Macina 20 g in circa tre secondi",
+        "Costruito per l'uso quotidiano da bar"
+      ],
+      "cons": [
+        "Rumoroso — paragonabile a un piccolo asciugacapelli",
+        "Eccessivo e troppo caro per chi prepara una o due tazze"
+      ],
+      "grade": "A"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Chi prepara il V60 ogni giorno",
+      "offerId": "timemore-c2",
+      "reason": "Uniformità delle particelle migliore di qualsiasi elettrico entry o di fascia media, e i 45 secondi di macinatura a mano coincidono comunque con il tempo di bollitura dell'acqua."
+    },
+    {
+      "label": "Chi si avvicina per curiosità",
+      "offerId": "hario-v60-ceramic-slim",
+      "reason": "Il prezzo d'ingresso più basso possibile per un vero macinacaffè a macine, con macine in ceramica che reggono anni di utilizzo nei weekend."
+    },
+    {
+      "label": "Chi vuole l'elettrico al mattino",
+      "offerId": "melitta-vario-e",
+      "reason": null
+    },
+    {
+      "label": "Chi cerca un elettrico economico",
+      "offerId": "delonghi-kg79j",
+      "reason": "Il macinacaffè elettrico a macine più economico che valga la pena consigliare, con 18 regolazioni che coprono filtro e Aeropress senza troppi pensieri."
+    },
+    {
+      "label": "La famiglia che beve molte tazze",
+      "offerId": "fuji-royal-r220",
+      "reason": "Macine in acciaio fuso di livello professionale e un motore da 240 W che gestisce quattro o più tazze al giorno per un decennio senza perdere il filo."
+    }
+  ]
 }

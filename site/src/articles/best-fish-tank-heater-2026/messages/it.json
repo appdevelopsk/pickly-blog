@@ -2,5 +2,144 @@
   "title": "Miglior riscaldatore per acquario 2026: 5 a confronto",
   "description": "Abbiamo confrontato Fluval, Eheim, Aqueon, Tetra, hygger. Ecco cosa spicca davvero per precisione della temperatura e durabilità tra i riscaldatore per acquario nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Riscaldatori in vetro o in titanio",
+      "paragraphs": [
+        "Vetro (Eheim Jager, Aqueon Pro, Tetra HT, Fluval E): costano meno, bastano per quasi tutti gli acquari d'acqua dolce, ma possono incrinarsi per shock termico.",
+        "Titanio (hygger): più resistente, consigliato per l'acqua marina (il sale corrode alcuni rivestimenti del vetro), con centralina esterna."
+      ]
+    },
+    {
+      "heading": "Il migliore per ogni esigenza",
+      "paragraphs": [
+        "Massima precisione: Fluval E Electronic (45-85 €). Display LCD, precisione di 0,3 °C.",
+        "Lo standard di riferimento: Eheim Jager 200W (28-45 €). Ingegneria tedesca.",
+        "Migliore fascia media: Aqueon Pro (28-55 €). Infrangibile, termostato elettronico.",
+        "Migliore per iniziare: Tetra HT sommergibile (14-28 €). Preimpostato a 26 °C.",
+        "Migliore per marino/vasche grandi: hygger Titanium (45-95 €). Tubo in titanio, centralina esterna."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Di che potenza ho bisogno?",
+      "a": "Regola pratica: circa 1,3 watt per litro. Una vasca da 280 litri richiede ~375W (un 400W oppure due da 200W)."
+    },
+    {
+      "q": "Meglio un riscaldatore o due?",
+      "a": "Due riscaldatori (ciascuno di metà potenza) sono più sicuri: se uno si guasta, l'altro mantiene la temperatura. È la scelta consigliata sopra i 200 litri."
+    },
+    {
+      "q": "Perché i riscaldatori in vetro si rompono?",
+      "a": "Shock termico: il riscaldatore è immerso, la vasca viene svuotata all'improvviso, il vetro si surriscalda e poi finisce di colpo in acqua fredda. Stacca sempre la spina prima del cambio d'acqua."
+    },
+    {
+      "q": "Quanto durano?",
+      "a": "Vetro: in genere 2-4 anni. Titanio: 5-10 anni. Sostituiscilo quando la temperatura si scosta di oltre ±0,5 °C dal valore impostato."
+    }
+  ],
+  "products": {
+    "fluval-e-electronic-heater": {
+      "badge": "🎯 Massima precisione",
+      "review": "Il Fluval E Electronic Heater è la scelta giusta quando serve precisione. Gestito da microprocessore, con display LCD che mostra la temperatura reale e una precisione di 0,3 °C (la maggior parte dei riscaldatori si ferma a ±1 °C), corpo infrangibile. Ideale per specie delicate come i discus e per gli acquari piantumati.",
+      "pros": [
+        "Precisione di 0,3 °C",
+        "Display LCD",
+        "Corpo infrangibile"
+      ],
+      "cons": [
+        "Prezzo alto: 45-85 €",
+        "Più elettronica significa più punti di guasto"
+      ]
+    },
+    "eheim-jager-200w": {
+      "badge": "🇩🇪 Lo standard del settore",
+      "review": "L'Eheim Jager 200W è lo standard di riferimento made in Germany. Corpo in vetro, doppia scala di temperatura (Celsius e Fahrenheit), termostato affidabile. Si trova negli acquari di tutto il mondo. Fascia media senza sorprese.",
+      "pros": [
+        "Ingegneria tedesca",
+        "Doppia scala di temperatura",
+        "Affidabilità da standard di settore"
+      ],
+      "cons": [
+        "Vetro (può incrinarsi)",
+        "Regolazione a manopola, senza LCD"
+      ]
+    },
+    "aqueon-pro-heater": {
+      "badge": "🪜 Migliore fascia media",
+      "review": "L'Aqueon Pro Heater è la scelta giusta nella fascia media. Struttura infrangibile, termostato elettronico e spegnimento automatico se il livello dell'acqua scende. Affidabile per quasi tutte le vasche d'acqua dolce.",
+      "pros": [
+        "Infrangibile",
+        "Spegnimento automatico",
+        "Termostato elettronico"
+      ],
+      "cons": [
+        "Nessun display LCD",
+        "Meno preciso del Fluval E"
+      ]
+    },
+    "tetra-ht-heater": {
+      "badge": "💸 Migliore per iniziare",
+      "review": "Il Tetra HT Submersible Heater è la scelta giusta per le prime vasche. Riscaldatore compatto preimpostato (26 °C di serie, senza manopola), completamente sommergibile, non richiede alcuna regolazione. Perfetto per acquari di comunità da 40 a 150 litri.",
+      "pros": [
+        "Budget contenuto: 14-28 €",
+        "Preimpostato a 26 °C",
+        "Nessuna configurazione"
+      ],
+      "cons": [
+        "Temperatura non regolabile",
+        "Solo per vasche piccole (40-150 litri)"
+      ]
+    },
+    "hygger-titanium-heater": {
+      "badge": "🌊 Migliore per l'acqua marina",
+      "review": "L'hygger Titanium Heater è la scelta giusta per l'acqua marina e le vasche grandi. Tubo in titanio (niente vetro che possa rompersi), centralina esterna per impostare e leggere la temperatura senza aprire la vasca, termostato con chip IC. Ideale dove un riscaldatore in vetro sarebbe troppo rischioso.",
+      "pros": [
+        "Titanio: nessun rischio di rottura",
+        "Centralina esterna",
+        "Il migliore per il marino"
+      ],
+      "cons": [
+        "Prezzo alto: 45-95 €",
+        "La centralina esterna complica l'installazione"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fluval-e-electronic-heater": "Disponibile su fluvalaquatics.com, Amazon e nei negozi di acquariofilia. Diverse potenze: 100W, 200W, 300W.",
+    "eheim-jager-200w": "Disponibile su eheim.com e Amazon. Diverse potenze: il 200W è il più diffuso per vasche fino a 200 litri.",
+    "aqueon-pro-heater": "Disponibile su aqueon.com, Amazon e nei negozi specializzati. Diverse potenze.",
+    "tetra-ht-heater": "Disponibile su tetra.net, Amazon e nei negozi per animali. Preimpostato a 26 °C, senza regolazione.",
+    "hygger-titanium-heater": "Disponibile su hyggeraquarium.com e Amazon. Diverse potenze: 300W e 500W sono le più comuni per vasche medio-grandi."
+  },
+  "pinDescription": "Acqua sempre alla temperatura giusta: 5 riscaldatori per acquario a confronto, dal preimpostato per chi inizia al titanio per il marino. Prezzi da 14 €.",
+  "recommendedFor": [
+    {
+      "label": "Chi alleva discus o cura acquari piantumati e ha bisogno di temperature stabili",
+      "offerId": "fluval-e-electronic-heater",
+      "reason": "La precisione di 0,3 °C e il display LCD in tempo reale segnalano ogni oscillazione prima che le specie delicate ne risentano."
+    },
+    {
+      "label": "Acquariofili d'acqua dolce esperti che vogliono affidabilità collaudata",
+      "offerId": "eheim-jager-200w",
+      "reason": "Decenni di uso sul campo fanno del Jager il cavallo di battaglia che non dà problemi a chi ha già esperienza."
+    },
+    {
+      "label": "Chi ha un budget medio e cerca sicurezza in più",
+      "offerId": "aqueon-pro-heater",
+      "reason": "Struttura infrangibile e spegnimento automatico a basso livello d'acqua danno tranquillità senza il prezzo del Fluval."
+    },
+    {
+      "label": "Chi allestisce il primo acquario di comunità",
+      "offerId": "tetra-ht-heater",
+      "reason": "Preimpostato a 26 °C: si collega e si dimentica, nessuna manopola da sbagliare. Ideale per vasche da 40 a 150 litri."
+    },
+    {
+      "label": "Chi gestisce vasche marine o di grandi dimensioni e punta sulla durata",
+      "offerId": "hygger-titanium-heater",
+      "reason": "Il titanio resiste alla corrosione salina e la centralina esterna permette di regolare la temperatura senza immergere le mani in vasca."
+    }
+  ]
 }

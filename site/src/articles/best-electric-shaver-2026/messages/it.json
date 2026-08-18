@@ -112,5 +112,114 @@
     "braun-series-7-71-s7200cc": "Il rasoio a lamina AutoSense di fascia media di Braun con il bundle 7200cc che include una stazione Clean&Charge. Quattro elementi di rasatura forniscono una copertura solida per barbe da medie a moderatamente dense. AutoSense legge la resistenza della pelle e della barba e regola la velocità del motore, che è il passo significativo rispetto al Series 5 sotto di esso. Quattro elementi versus cinque sul Series 9 Pro+ significa che il ProLift per i peli piatti è assente; i costi della cartuccia Clean&Charge si aggiungono al costo totale di proprietà; la cassetta 70B/70S è un costo di lame medio; il divario tra le prestazioni del Series 7 e del Series 9 Pro+ è percepibile sulle barbe dense."
   },
   "pinDescription": "5 rasoi elettrici confrontati nel 2026 — dal Philips Series 9000 Prestige di punta con potenza adattiva SenseIQ al Series 5000 budget AquaTouch. Rotante vs lamina spiegato onestamente. Rasatura bagnata con i rasoi elettrici: cosa fa davvero la schiuma. Costi annuali di sostituzione delle lamelle calcolati per ogni modello.",
-  "methodology": "Abbiamo valutato ogni prodotto in base alla trasparenza degli ingredienti, alla comprovata esperienza dermatologica, alla coerenza dei risultati ottenuti da utenti reali, alla qualità della confezione e al rapporto qualità-prezzo per ogni utilizzo."
+  "methodology": "Abbiamo valutato ogni prodotto in base alla trasparenza degli ingredienti, alla comprovata esperienza dermatologica, alla coerenza dei risultati ottenuti da utenti reali, alla qualità della confezione e al rapporto qualità-prezzo per ogni utilizzo.",
+  "products": [
+    {
+      "offerId": "philips-series-9000-prestige",
+      "badge": "Miglior rasoio rotante adattivo",
+      "review": "Il Series 9000 Prestige SP9883 è la risposta premium di Philips alla barba che cresce in più direzioni. SenseIQ legge la densità del pelo 125 volte al secondo e regola la potenza del motore in tempo reale, le tre testine rotanti si orientano in modo indipendente con un raggio di adattamento di 360 gradi e la certificazione AquaTouch wet/dry consente l'uso con schiuma, gel e sotto la doccia. L'alimentazione universale 100-240 V lo rende adatto a qualsiasi viaggio. La geometria rotante è ideale per chi ha una crescita su collo e mascella che cambia direzione, proprio dove le lamine faticano. Il compromesso da mettere in conto: il sistema rotante taglia in genere meno a fondo sulle guance piatte rispetto alla lamina, lo spazio tra testina e anello trattiene residui di schiuma che vanno sciacquati subito e le testine di ricambio SH98 sono tra le più costose della categoria.",
+      "pros": [
+        "SenseIQ legge la densità della barba 125 volte al secondo e regola la potenza in tempo reale",
+        "Tre testine rotanti con adattamento a 360 gradi, ideali per la crescita multidirezionale",
+        "Certificato wet/dry per rasatura con schiuma, gel e sotto la doccia",
+        "Alimentazione universale 100-240 V per l'uso all'estero"
+      ],
+      "cons": [
+        "Il sistema rotante taglia meno a fondo sulle guance piatte rispetto alle lamine",
+        "Le testine di ricambio SH98 sono le più costose di questo confronto"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "braun-series-9-pro-plus",
+      "badge": "Il migliore per barbe folte",
+      "review": "Il Series 9 Pro+ 9565cc è il rasoio a lamina più completo di questo confronto e la scelta giusta per barbe folte o a crescita rapida. Cinque elementi di rasatura — tre trame di lamina, il trimmer ProLift per i peli coricati che le altre lamine non catturano e un elemento tagliente aggiuntivo — lavorano insieme al motore AutoSense, che legge la densità della barba e regola la potenza per evitare quegli strappi che rovinano una rasatura a lamina. La stazione Clean&Charge inclusa nel kit 9565cc pensa in automatico a pulizia, lubrificazione e ricarica, con un liquido a base alcolica che evita l'accumulo di residui. I compromessi, detti chiaramente: le cartucce di ricambio incidono sul costo totale, la cassetta di ricambio 90B/92B è la più cara qui se si considera la sola testina, e le lamine restano meno agili del sistema rotante sul collo, dove il pelo cresce controverso.",
+      "pros": [
+        "Cinque elementi di rasatura, incluso il ProLift per i peli coricati",
+        "Il motore AutoSense adatta la potenza alla densità della barba ed evita gli strappi",
+        "Stazione Clean&Charge inclusa per pulizia e lubrificazione automatiche",
+        "La rasatura più a fondo sulle guance piatte in questo confronto"
+      ],
+      "cons": [
+        "Le cartucce Clean&Charge comportano una spesa ricorrente",
+        "Sul collo, con il pelo controverso, la lamina è meno fluida del sistema rotante"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "panasonic-lamdash-es-ls9a",
+      "badge": "Miglior rapporto qualità-prezzo",
+      "review": "Il Braun Series 9 Pro è la scelta di riferimento per chi vuole le prestazioni premium delle lamine Braun senza la spesa ricorrente delle cartucce Clean&Charge. Il sistema di taglio a quattro elementi comprende il trimmer ProLift che intercetta i peli coricati, il corpo è completamente impermeabile per la rasatura a secco o sotto l'acqua e la batteria al litio garantisce una lunga autonomia per ciclo di ricarica. Poiché di norma viene venduto senza la stazione Clean&Charge, il costo complessivo resta sotto quello del Series 9 Pro+ e del kit Series 7. Il compromesso da accettare: quattro elementi di taglio invece dei cinque del Series 9 Pro+, nessuna stazione di pulizia automatica inclusa e il consueto limite delle lamine sul collo con crescita controversa.",
+      "pros": [
+        "Sistema di taglio a quattro elementi con trimmer ProLift per i peli coricati",
+        "Completamente impermeabile per la rasatura a secco o sotto l'acqua",
+        "Nessun costo ricorrente per le cartucce Clean&Charge se usato senza stazione",
+        "Batteria al litio duratura per una lunga autonomia a ricarica"
+      ],
+      "cons": [
+        "Quattro elementi di taglio invece dei cinque del Series 9 Pro+",
+        "Nessuna stazione Clean&Charge inclusa per la pulizia automatica"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "philips-series-5000-sp5588",
+      "badge": "Miglior rotante entry-level",
+      "review": "Il Series 5000 SP5588 è la porta d'ingresso economica alla tecnologia rotante Philips e la scelta giusta per chi compra il primo rasoio elettrico e preferisce il sistema rotante alla lamina. La certificazione AquaTouch wet/dry consente l'uso con schiuma, gel e sotto la doccia, il design a rapida asciugatura permette di riprenderlo subito dopo il lavaggio e la testina di ricambio SH52/SH53 è la più economica di questo confronto. La configurazione a due testine si adatta meno bene ai contorni complessi rispetto alle tre testine del Series 9000, manca SenseIQ (quindi la potenza del motore non si adatta alla densità della barba) e non è prevista l'opzione Clean&Charge. Per chi vuole capire se il sistema rotante è adatto alla propria barba prima di investire nel prezzo da ammiraglia del Series 9000 Prestige, è il primo acquisto più sensato.",
+      "pros": [
+        "Certificato AquaTouch wet/dry per schiuma, gel e rasatura sotto la doccia",
+        "Design a rapida asciugatura: utilizzabile subito dopo il lavaggio",
+        "Il costo più basso per le testine di ricambio in questo confronto",
+        "L'accesso economico più pulito alla tecnologia rotante Philips"
+      ],
+      "cons": [
+        "Con due testine gestisce i contorni complessi peggio del Series 9000 a tre testine",
+        "Nessun SenseIQ: potenza fissa, nessun adattamento alla densità della barba"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "braun-series-7-71-s7200cc",
+      "badge": "Miglior lamina di fascia media",
+      "review": "Il Series 7 71-S7200cc è il rasoio a lamina AutoSense di fascia media di Braun, la scelta giusta per chi vuole il motore adattivo e la stazione Clean&Charge senza arrivare al prezzo del Series 9 Pro+. AutoSense legge la resistenza di pelle e barba e regola la velocità del motore: è questo il salto concreto rispetto al Series 5 sottostante. Il kit 7200cc include la stazione Clean&Charge, che gestisce in automatico pulizia, lubrificazione e ricarica. Quattro elementi di rasatura offrono una copertura solida per barbe da normali a mediamente folte. I compromessi: solo quattro elementi contro i cinque del Series 9 Pro+, quindi niente ProLift per i peli coricati; le cartucce Clean&Charge comportano una spesa ricorrente; e il divario rispetto al 9565cc sulle barbe folte si sente davvero, se la crescita è importante.",
+      "pros": [
+        "Il motore AutoSense legge la resistenza di pelle e barba e regola la potenza",
+        "Stazione Clean&Charge inclusa nel kit 7200cc",
+        "Copertura solida a quattro elementi per barbe da normali a mediamente folte",
+        "Un gradino sotto il Series 9 Pro+ senza rinunciare al motore adattivo"
+      ],
+      "cons": [
+        "Quattro elementi invece di cinque: niente trimmer ProLift per i peli coricati",
+        "Le cartucce Clean&Charge comportano una spesa ricorrente"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per barba con crescita multidirezionale, se conta più il comfort della rasatura a zero",
+      "offerId": "philips-series-9000-prestige",
+      "reason": "La potenza adattiva SenseIQ e le testine rotanti orientabili a 360 gradi sono pensate per chi ha una crescita su collo e mascella che cambia direzione, proprio dove le lamine faticano."
+    },
+    {
+      "label": "Per barbe folte e a crescita rapida, da radere ogni giorno",
+      "offerId": "braun-series-9-pro-plus",
+      "reason": "Cinque elementi di rasatura, incluso il ProLift per i peli coricati, e la stazione Clean&Charge inclusa: la copertura a lamina più completa e la manutenzione più semplice di questo confronto."
+    },
+    {
+      "label": "Per chi vuole una lamina premium senza spese ricorrenti per la stazione",
+      "offerId": "panasonic-lamdash-es-ls9a",
+      "reason": "Sistema di taglio a quattro elementi con trimmer ProLift e impermeabilità totale, venduto senza il ciclo di cartucce Clean&Charge: il costo di gestione più basso della fascia premium."
+    },
+    {
+      "label": "Per chi compra il primo rasoio elettrico con un budget contenuto",
+      "offerId": "philips-series-5000-sp5588",
+      "reason": "Tecnologia rotante AquaTouch wet/dry a prezzo contenuto, con il costo più basso per le testine di ricambio in questo confronto: il modo più sensato per provare il rotante prima di puntare al Series 9000."
+    },
+    {
+      "label": "Per la fascia media, se servono AutoSense e Clean&Charge",
+      "offerId": "braun-series-7-71-s7200cc",
+      "reason": "Motore adattivo AutoSense e stazione Clean&Charge inclusa a circa metà del prezzo del Series 9 Pro+, per barbe da normali a mediamente folte."
+    }
+  ]
 }

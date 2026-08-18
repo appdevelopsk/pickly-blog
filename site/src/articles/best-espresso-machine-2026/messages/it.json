@@ -112,5 +112,114 @@
     "philips-series-2200-ep2220": "Completamente automatico compatto con filtro AquaClean che elimina la decalcificazione quando mantenuto. Macinacaffè in ceramica con 12 impostazioni (più silenzioso e più freddo delle macine in acciaio). Nessun sistema automatico per il latte LatteGo — solo cappuccinatore a vapore manuale. La sostituzione della cartuccia AquaClean (ogni 2-3 mesi) sostituisce la decalcificazione come compito principale di manutenzione. L'ingombro da 24 cm di larghezza si adatta alla maggior parte dei banconi da cucina compatti."
   },
   "pinDescription": "Cinque macchine da espresso a confronto dall'entry-level alla fascia premium: comodità delle capsule vs macinacaffè integrato vs completamente automatica. Costi di esercizio reali, tempo di manutenzione e quale tipo si adatta a una piccola cucina di appartamento. Cosa significa davvero la classificazione a 15 bar della pressione della pompa e perché non è ciò che si pensa.",
-  "methodology": "Abbiamo valutato ogni prodotto in base alla durata nell'uso quotidiano, alla facilità d'uso, alle prestazioni rispetto alle promesse pubblicitarie, alla qualità costruttiva e al valore nel tempo. Le specifiche dichiarate dal produttore sono state confrontate con recensioni verificate di chi lo possiede."
+  "methodology": "Abbiamo valutato ogni prodotto in base alla durata nell'uso quotidiano, alla facilità d'uso, alle prestazioni rispetto alle promesse pubblicitarie, alla qualità costruttiva e al valore nel tempo. Le specifiche dichiarate dal produttore sono state confrontate con recensioni verificate di chi lo possiede.",
+  "products": [
+    {
+      "offerId": "delonghi-dedica-ec685",
+      "badge": "Migliore semiautomatica compatta",
+      "review": "Con i suoi 15 cm di larghezza — meno di un libro rilegato — la Dedica è l'unica macchina di questa selezione che sta comodamente sul piano di una cucina piccola senza costringere a riorganizzare tutto. La caldaia thermoblock arriva in temperatura in circa 35 secondi, la pompa da 15 bar è abbinata a una lancia vapore manuale per montare il latte, e il portafiltro standard da 51 mm accetta sia caffè macinato sia cialde ESE: una flessibilità reale, senza dover comprare subito un macinacaffè separato. Il filtro pressurizzato a doppia parete in dotazione perdona le imprecisioni di macinatura e regala una crema visivamente convincente, il che rende questa la porta d'ingresso più accessibile all'espresso vero del confronto. I limiti sono esattamente quelli che il prezzo lascia prevedere: il filtro pressurizzato è un tetto qualitativo, il thermoblock non tiene la temperatura su più estrazioni consecutive come farebbe uno scambiatore di calore, e gli appassionati intervengono di routine sulla valvola OPV per abbassare gli 11–12 bar di serie verso i 9 bar ideali dell'espresso.",
+      "pros": [
+        "15 cm di larghezza: la più stretta del confronto",
+        "Accetta caffè macinato e cialde ESE, massima flessibilità",
+        "Il thermoblock va in temperatura in ~35 secondi",
+        "Prezzo d'ingresso più basso tra le semiautomatiche vere"
+      ],
+      "cons": [
+        "Il filtro pressurizzato di serie limita la qualità in tazza",
+        "Estrae a 11–12 bar senza la modifica dell'OPV"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "breville-barista-express-bes870",
+      "badge": "Migliore qualità in tazza",
+      "review": "La Barista Express è la macchina con il tetto qualitativo più alto del confronto. Il controllo PID mantiene la caldaia entro ±1–2 °C dal valore impostato invece di oscillare di ±5–10 °C come fanno i sistemi thermoblock, il macinacaffè conico integrato da 250 g con 16 livelli di macinatura evita l'acquisto di un macinino separato, e il portafiltro da 54 mm arriva sia con filtri pressurizzati sia non pressurizzati: si parte con quello più indulgente e si passa all'altro man mano che la tecnica migliora. Una volta trovata la messa a punto con il filtro non pressurizzato, una macinatura precisa e una pressatura uniforme, le estrazioni si avvicinano davvero al livello del bar. In Italia la distribuzione avviene sotto il marchio Sage, con assistenza e garanzia europee. I limiti onesti: servono 2–4 settimane di messa a punto prima di ottenere estrazioni costanti, la caldaia singola impone 30–45 secondi di attesa nel passaggio tra caffè e vapore, e l'ingombro è il maggiore del confronto, circa 38 × 30 cm.",
+      "pros": [
+        "Controllo PID stabile entro ±1–2 °C dal target",
+        "Macinacaffè conico integrato con 16 regolazioni",
+        "Filtri pressurizzati e non pressurizzati entrambi inclusi",
+        "Distribuzione Sage con assistenza europea"
+      ],
+      "cons": [
+        "Caldaia singola: 30–45 s di attesa per passare al vapore",
+        "Circa 38 × 30 cm: richiede spazio reale sul piano"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "delonghi-magnifica-s-ecam22110",
+      "badge": "Migliore macchina a chicchi",
+      "review": "La Magnifica S è la macchina giusta per chi vuole espresso in grani e bevande al latte tutti i giorni senza stare a gestire variabili. Un tasto e si passa dal chicco alla tazza — macinatura, dosaggio, pressatura ed estrazione sono automatici — mentre la lancia vapore manuale con Pannarello se la cava con cappuccini e latte macchiati, una volta imparata la giusta posizione del bricco. Serbatoio da 1,8 L, contenitore chicchi da 250 g e macinacaffè a 7 livelli coprono senza problemi sia le miscele da supermercato sia le specialty, e la rete di assistenza De'Longhi in Italia è la più capillare del confronto. La qualità in tazza è costante più che espressiva: meno regolabile della Barista Express, ma più che sufficiente per l'uso quotidiano. I limiti onesti: il macinacaffè a 7 livelli fatica con le tostature nordiche molto chiare o con le scure particolarmente oleose, il Pannarello produce una schiuma accettabile ma non da latte art, e i 75–78 dB in macinatura si sentono eccome in un appartamento.",
+      "pros": [
+        "Dal chicco alla tazza con un tasto, vapore manuale per il latte",
+        "Serbatoio da 1,8 L e contenitore da 250 g per più giorni",
+        "Rete di assistenza De'Longhi la più capillare del confronto",
+        "Risultati costanti nell'uso quotidiano"
+      ],
+      "cons": [
+        "Il macinino a 7 livelli soffre con tostature molto chiare o molto scure",
+        "La lancia con Pannarello non permette la latte art"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "nespresso-vertuo-next",
+      "badge": "Migliore per pura praticità",
+      "review": "Vertuo Next è la macchina meno impegnativa del confronto e la più cara da mantenere. L'estrazione centrifuga fa ruotare la capsula fino a 7.000 giri al minuto mentre inietta l'acqua, e il risultato è uno strato di crema spettacolare e straordinariamente stabile su tutti i formati: espresso (40 ml), doppio (80 ml), gran lungo (150 ml), caffè (230 ml) e alto (414 ml). Il codice a barre stampato su ogni capsula comunica alla macchina i parametri di estrazione da applicare, in automatico. Il riscaldamento richiede circa 30 secondi e l'ingombro da chiusa è di circa 33 × 15 cm: ci sta in qualsiasi cucina. I limiti non sono affatto sfumati: le capsule Vertuo la rendono di gran lunga la macchina più costosa da usare (una famiglia da 2 tazze al giorno spende in capsule, su 36 mesi, più di quanto costi qualsiasi altra macchina del confronto), il formato è proprietario e quindi Nespresso controlla il prezzo in modo assoluto, l'estrazione centrifuga dà una sensazione in bocca diversa da quella di una pompa, e il programma di riciclo delle capsule in alluminio richiede una partecipazione attiva che la maggior parte dei possessori ammette di saltare.",
+      "pros": [
+        "Prezzo d'acquisto più basso del confronto",
+        "Ingombro minimo: circa 33 × 15 cm da chiusa",
+        "Cinque formati di tazza (40–414 ml) su un'unica macchina",
+        "Crema densa e stabile grazie all'estrazione centrifuga"
+      ],
+      "cons": [
+        "Con 2 tazze al giorno le capsule superano il costo triennale della Magnifica S",
+        "Formato capsula proprietario: nessuna alternativa compatibile"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "philips-series-2200-ep2220",
+      "badge": "Migliore automatica a bassa manutenzione",
+      "review": "La EP2220 è l'automatica che ti risparmia la decalcificazione, grazie al filtro AquaClean che blocca il calcare prima che arrivi alla caldaia: Philips dichiara fino a 5.000 tazze senza decalcificare, a patto di sostituire la cartuccia nei tempi previsti. Il macinacaffè in ceramica a 12 regolazioni è più silenzioso di quelli in acciaio e non trasferisce calore ai chicchi durante la macinatura, il serbatoio da 1,8 L e il contenitore chicchi da 275 g sono all'altezza della Magnifica S, e i 24 cm di larghezza la collocano a metà strada tra la sottile Dedica e la più larga Magnifica S. I limiti onesti: la cartuccia AquaClean va sostituita ogni 2–3 mesi (saltarne una significa perdere il vantaggio), a questo livello non c'è il sistema latte automatico LatteGo (la lancia manuale richiede manualità e pulizia), e fuori dalle grandi città la distribuzione al dettaglio è un po' meno diffusa rispetto a De'Longhi.",
+      "pros": [
+        "Il filtro AquaClean elimina la decalcificazione, se mantenuto",
+        "Macine in ceramica: più silenziose e più fredde dell'acciaio",
+        "Serbatoio da 1,8 L e contenitore da 275 g per più giorni",
+        "24 cm di larghezza: entra nella maggior parte delle cucine compatte"
+      ],
+      "cons": [
+        "La spesa per le cartucce AquaClean sostituisce la decalcificazione: ogni 2–3 mesi",
+        "Solo lancia vapore manuale, niente sistema latte LatteGo"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per appassionati disposti a imparare l'espresso come tecnica",
+      "offerId": "breville-barista-express-bes870",
+      "reason": "La stabilità termica del PID e il macinacaffè conico integrato a 16 regolazioni alzano il tetto qualitativo più di qualsiasi altra macchina qui, a patto di accettare 2–4 settimane di messa a punto."
+    },
+    {
+      "label": "Per cucine piccole con piani di lavoro stretti",
+      "offerId": "delonghi-dedica-ec685",
+      "reason": "I suoi 15 cm entrano dove nessun'altra semiautomatica vera riesce, e la doppia compatibilità macinato + cialde ESE abbassa l'asticella tecnica senza legarti alle capsule."
+    },
+    {
+      "label": "Per espresso e cappuccino ogni giorno senza gestire variabili",
+      "offerId": "delonghi-magnifica-s-ecam22110",
+      "reason": "Dal chicco alla tazza con un tasto e lancia Pannarello manuale: copre l'uso domestico più comune, e la rete di assistenza De'Longhi in Italia è la più solida della selezione."
+    },
+    {
+      "label": "Per chi beve una tazza al giorno e mette la praticità davanti al costo",
+      "offerId": "nespresso-vertuo-next",
+      "reason": "Meno di 45 secondi da macchina fredda e il prezzo d'acquisto più basso del confronto hanno senso a 1 tazza al giorno: in valore assoluto il sovrapprezzo delle capsule resta gestibile."
+    },
+    {
+      "label": "Per chi cerca un'automatica e vuole evitare la decalcificazione",
+      "offerId": "philips-series-2200-ep2220",
+      "reason": "La sostituzione del filtro AquaClean prende il posto del rituale della decalcificazione, e le macine in ceramica sono un vantaggio qualitativo concreto rispetto alle automatiche con macine in acciaio a questo prezzo."
+    }
+  ]
 }

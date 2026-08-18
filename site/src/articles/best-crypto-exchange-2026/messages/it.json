@@ -2,5 +2,158 @@
   "title": "Miglior exchange di criptovalute 2026: 5 a fondo",
   "description": "Abbiamo confrontato Coinbase, Kraken, Gemini, Binance.US, Bitfinex. Ecco cosa spicca davvero per commissioni e conformità regolatoria tra i exchange di criptovalute nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Il conto delle commissioni su 10.000 € di volume mensile",
+      "paragraphs": [
+        "Coinbase Advanced: 32 €/mese (0,40% taker, 0,25% maker a questo livello). La più cara tra le opzioni regolamentate negli USA.",
+        "Kraken Pro: 18 €/mese (0,26% taker, 0,16% maker). Metà delle commissioni di Coinbase Advanced.",
+        "Gemini Active Trader: 35 €/mese (0,40% taker, 0,20% maker). In linea con Coinbase, un po' di più per i maker.",
+        "Binance.US: 8 €/mese (0,10% taker, 0,10% maker). L'opzione regolamentata negli USA più economica.",
+        "Bitfinex: 16 €/mese (0,20% taker, 0,10% maker). Economico, ma non accessibile ai residenti negli Stati Uniti."
+      ]
+    },
+    {
+      "heading": "Sicurezza e posizione regolamentare",
+      "paragraphs": [
+        "Coinbase, Kraken, Gemini e Binance.US sono tutte regolamentate negli USA. Coinbase e Gemini operano con la BitLicense del NYDFS (lo standard statale più severo negli Stati Uniti). Kraken opera con la licenza SPDI del Wyoming. Binance.US è finita sotto la lente delle autorità, ma continua a operare.",
+        "Assicurazione sulla custodia: Coinbase e Gemini tengono i fondi in cold storage con coperture di livello bancario. Kraken vanta lo storico di sicurezza pulito più lungo del settore (nessun attacco dalla fondazione nel 2011). Sull'assicurazione di Binance.US i dettagli sono meno trasparenti.",
+        "Bitfinex è regolamentata fuori dagli USA (Isole Vergini Britanniche) e non è accessibile ai residenti statunitensi. Nel 2016 ha subito un attacco da 72 milioni di dollari (in gran parte rimborsato agli utenti entro il 2022) e continua a operare."
+      ]
+    },
+    {
+      "heading": "La scelta giusta per ogni esigenza",
+      "paragraphs": [
+        "Per chi inizia negli USA: Coinbase Advanced. Le commissioni più alte del confronto, ma l'interfaccia più accessibile ai principianti, il catalogo più ampio (oltre 250 asset) e lo storico regolamentare più solido.",
+        "Per chi fa trading attivo negli USA: Kraken Pro. Commissioni dimezzate rispetto a Coinbase, oltre 200 asset, ordini avanzati e il record di sicurezza più pulito.",
+        "Per chi mette la sicurezza al primo posto: Gemini Active Trader. Regolamentata dal NYDFS, assicurazione sulla custodia e le pratiche di cold storage dichiarate più solide.",
+        "Per chi cerca commissioni basse negli USA: Binance.US. Lo 0,10% taker è il più basso tra le piattaforme regolamentate negli Stati Uniti. Catalogo limitato (150 asset contro oltre 250 altrove).",
+        "Per utenti avanzati fuori dagli USA: Bitfinex. Non per i residenti statunitensi. Ottimo trading a margine, ordini avanzati e commissioni competitive."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Conviene lasciare le crypto sull'exchange?",
+      "a": "Per il trading attivo sì, per l'investimento a lungo termine no. Usa un wallet in autocustodia (Ledger, Trezor) per le crypto che non pensi di scambiare entro 30 giorni. Il principio «not your keys, not your coins» è reale: il crac di FTX nel 2022 l'ha ricordato a tutti."
+    },
+    {
+      "q": "È più sicura Coinbase o Kraken?",
+      "a": "Entrambe sono sicure, con la regolamentazione statunitense alle spalle. Kraken ha lo storico di sicurezza pulito più lungo (zero attacchi dal 2011). Coinbase offre maggiori tutele all'utente, essendo una società quotata in borsa negli USA e soggetta agli obblighi informativi della SEC."
+    },
+    {
+      "q": "Perché Binance.US costa meno?",
+      "a": "Binance.US adotta una struttura commissionale diversa da Coinbase: costi base più bassi, ma meno vantaggi accessori (niente staking su molti asset, catalogo più ristretto, interfaccia meno matura). È il ramo statunitense, più piccolo, del gruppo Binance globale, che ha avuto problemi con le autorità."
+    },
+    {
+      "q": "Posso usare Bitfinex dagli Stati Uniti?",
+      "a": "No, Bitfinex blocca i residenti statunitensi. Aggirare il blocco con una VPN viola i termini di servizio e può portare al congelamento dell'account e alla confisca degli asset."
+    }
+  ],
+  "products": {
+    "coinbase-advanced": {
+      "badge": "🏆 Migliore per chi inizia negli USA",
+      "review": "Coinbase Advanced è l'exchange regolamentato negli USA più accessibile a chi parte da zero. Oltre 250 asset, saldi in dollari coperti dalla FDIC (fino a 250.000 $) e un'interfaccia affinata in oltre dieci anni. Il compromesso sono le commissioni: lo 0,40% taker è il più alto del gruppo. Come piattaforma di partenza, dove comprerai ogni tanto per poi tenere, il costo più alto pesa poco. Quando inizi a operare spesso, conviene passare a Kraken o Binance.US.",
+      "pros": [
+        "L'interfaccia più adatta ai principianti",
+        "Catalogo di oltre 250 asset",
+        "Saldi in dollari coperti dalla FDIC fino a 250.000 $",
+        "Società quotata e soggetta agli obblighi SEC"
+      ],
+      "cons": [
+        "Commissione taker dello 0,40%, la più alta tra le regolamentate USA",
+        "Lo staking di Coinbase ha avuto problemi normativi"
+      ]
+    },
+    "kraken-pro": {
+      "badge": "⚡ Migliore per il trading attivo negli USA",
+      "review": "Kraken Pro è l'exchange giusto per chi fa trading attivo negli Stati Uniti. Lo 0,26% taker e lo 0,16% maker sono la metà di Coinbase. Oltre 200 asset, ordini avanzati (stop-limit, OCO, iceberg) e il record di sicurezza più pulito del settore (zero attacchi dal 2011). L'interfaccia avanzata richiede un po' di rodaggio: Kraken Pro è un prodotto separato dal sito Kraken per il pubblico generale. Se operi con regolarità, il risparmio sulle commissioni ripaga l'apprendimento nel giro di pochi mesi.",
+      "pros": [
+        "Commissione taker dello 0,26%: metà di Coinbase",
+        "Zero attacchi informatici dal 2011",
+        "Ordini avanzati (stop-limit, OCO)"
+      ],
+      "cons": [
+        "L'interfaccia richiede un po' di rodaggio",
+        "Alcuni asset sono riservati ai residenti fuori dagli USA"
+      ]
+    },
+    "gemini-active-trader": {
+      "badge": "🛡️ Migliore sul fronte sicurezza",
+      "review": "Gemini Active Trader è l'exchange statunitense più orientato alla sicurezza. Regolamentata dal NYDFS, certificata SOC 2 Type 2, con una polizza dedicata sul cold storage guidata da un sindacato Aon. Oltre 70 asset (meno di Coinbase o Kraken). Le commissioni Active Trader sono dello 0,40% taker, in linea con Coinbase e un po' sopra Kraken. È la scelta migliore per le crypto che intendi tenere a lungo su un exchange (l'autocustodia resta preferibile, ma se devi lasciarle in piattaforma Gemini è la custodia più sicura).",
+      "pros": [
+        "BitLicense NYDFS e certificazione SOC 2 Type 2",
+        "Polizza dedicata sul cold storage",
+        "Tutele solide per l'utente"
+      ],
+      "cons": [
+        "70 asset sono meno della concorrenza",
+        "Commissione taker dello 0,40%, come Coinbase"
+      ]
+    },
+    "binance-us": {
+      "badge": "💸 Migliore a commissioni basse negli USA",
+      "review": "Binance.US ha le commissioni più basse tra le piattaforme regolamentate negli USA: 0,10% taker e 0,10% maker. 150 asset, ordini avanzati e l'infrastruttura tecnologica del gruppo Binance globale. Il punto debole è l'incertezza normativa: Binance.US ha affrontato diverse azioni di SEC e CFTC e opera con vincoli più stretti rispetto a Coinbase o Kraken. Come piattaforma di trading a basso costo, dove fai entrare e uscire i fondi in fretta, il rischio è gestibile. Come custodia a lungo termine, molto meno interessante.",
+      "pros": [
+        "Commissione taker dello 0,10%, la più bassa tra le regolamentate USA",
+        "Ordini avanzati ereditati dalla piattaforma Binance globale",
+        "Catalogo dignitoso (oltre 150 asset)"
+      ],
+      "cons": [
+        "Attenzione costante delle autorità statunitensi",
+        "Dettagli assicurativi poco trasparenti",
+        "Operativa in meno stati rispetto a Coinbase e Kraken"
+      ]
+    },
+    "bitfinex": {
+      "badge": "🌍 Migliore per utenti avanzati fuori dagli USA",
+      "review": "Bitfinex è l'exchange avanzato per il pubblico internazionale. Non accessibile ai residenti statunitensi (regolamentata alle Isole Vergini Britanniche). 0,20% taker e 0,10% maker. Oltre 150 asset, trading a margine evoluto (fino a 10x di leva sulle coppie supportate) e book di negoziazione profondi. Nel 2016 ha subito un attacco da 72 milioni di dollari (per lo più rimborsato agli utenti entro il 2022) e continua a operare. Se fai trading attivo fuori dagli Stati Uniti, Bitfinex regge il confronto con Kraken sulle commissioni e in più offre il margine, che Kraken non ha.",
+      "pros": [
+        "Trading a margine fino a 10x di leva",
+        "Book profondi per gli ordini di grande taglia",
+        "Commissione maker dello 0,10%, competitiva"
+      ],
+      "cons": [
+        "Non accessibile ai residenti statunitensi",
+        "Precedente attacco del 2016 (risolto entro il 2022)",
+        "Meno trasparenza normativa rispetto agli exchange USA"
+      ]
+    }
+  },
+  "offerNotes": {
+    "coinbase-advanced": "Registrati su coinbase.com. Usa «Coinbase Advanced» (ex Coinbase Pro) per accedere alle commissioni ridotte: l'app Coinbase base applica uno spread dell'1,49% sopra ogni operazione.",
+    "kraken-pro": "Registrati su kraken.com. Usa Kraken Pro (pro.kraken.com): il sito Kraken standard ha commissioni più alte. La verifica può richiedere 1-3 giorni, quindi completala prima di iniziare a operare.",
+    "gemini-active-trader": "Registrati su gemini.com. Usa Gemini ActiveTrader (interfaccia separata da quella base) per le commissioni ridotte. I primi 10 giorni di operatività hanno le tariffe Active Trader a prescindere dal volume.",
+    "binance-us": "Registrati su binance.us. Disponibile nella maggior parte degli stati USA, con l'eccezione di New York, Hawaii, Texas, Vermont e alcuni altri: verifica prima di iscriverti.",
+    "bitfinex": "Registrati su bitfinex.com. Richiede la residenza fuori dagli Stati Uniti. La verifica KYC è più approfondita di quella degli exchange americani (metti in conto 3-7 giorni). I limiti di prelievo crescono con il livello di verifica."
+  },
+  "pinDescription": "Quanto ti costano davvero le commissioni crypto? Il confronto su 10.000 € di volume al mese: Kraken Pro dimezza Coinbase, Binance.US scende allo 0,10%. Salva il confronto prima del prossimo acquisto 📌",
+  "recommendedFor": [
+    {
+      "label": "Chi compra crypto per la prima volta negli USA",
+      "offerId": "coinbase-advanced",
+      "reason": "L'interfaccia curata di Coinbase Advanced e i saldi in dollari coperti dalla FDIC riducono al minimo la curva di apprendimento per chi acquista e conserva le sue prime crypto."
+    },
+    {
+      "label": "Trader attivi negli USA con decine di operazioni al mese",
+      "offerId": "kraken-pro",
+      "reason": "Con lo 0,26% di commissione taker, metà di Coinbase, il risparmio di Kraken Pro si accumula in fretta per chi opera spesso, e zero attacchi dal 2011 significano dormire tranquilli."
+    },
+    {
+      "label": "Investitori attenti alla sicurezza che tengono le crypto su un exchange",
+      "offerId": "gemini-active-trader",
+      "reason": "La BitLicense NYDFS, l'audit SOC 2 Type 2 e la polizza sul cold storage guidata da Aon rendono Gemini la custodia più sicura quando l'autocustodia non è un'opzione."
+    },
+    {
+      "label": "Trader statunitensi attenti al costo di ogni singolo punto base",
+      "offerId": "binance-us",
+      "reason": "Lo 0,10% fisso di commissione taker di Binance.US è il più basso tra gli exchange regolamentati negli USA e riduce i costi a un quarto di quelli di Coinbase a parità di volume."
+    },
+    {
+      "label": "Trader fuori dagli USA che hanno bisogno di margine e leva",
+      "offerId": "bitfinex",
+      "reason": "Bitfinex offre trading a margine fino a 10x con book profondi, una funzionalità assente sulle alternative regolamentate negli USA, con commissioni taker competitive allo 0,20%."
+    }
+  ]
 }

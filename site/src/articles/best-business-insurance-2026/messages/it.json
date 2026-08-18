@@ -2,5 +2,150 @@
   "title": "Miglior assicurazione per piccole imprese 2026",
   "description": "Abbiamo confrontato Next, Hiscox, The Hartford, Progressive, Thimble. Ecco cosa spicca davvero per copertura BOP e prezzi tra i assicurazione piccole imprese nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Cosa copre una polizza multirischio d'impresa",
+      "paragraphs": [
+        "La formula BOP (Business Owner's Policy, il pacchetto standard USA) mette insieme responsabilità civile verso terzi e danni ai beni aziendali: è lo schema base per la microimpresa. Cyber, infortuni sul lavoro dei dipendenti e responsabilità civile professionale (RC professionale) restano quasi sempre coperture a sé.",
+        "Per uno studio di consulenza con 5 persone (massimale RCT 1 milione € + 250.000 € sui beni) i prezzi tipici sono: Next 25-50 €/mese, Hiscox 35-65 €, The Hartford 40-70 €, Progressive Commercial 40-60 €, Thimble (a consumo) 10-30 € a progetto."
+      ]
+    },
+    {
+      "heading": "Estensioni cyber e infortuni dipendenti",
+      "paragraphs": [
+        "Cyber risk (massimale 1 milione €): Hiscox include una copertura cyber di base nel pacchetto. Next la vende come estensione a 15-25 €/mese, The Hartford 20-30 €/mese, Progressive Commercial 25 €/mese. Thimble non offre coperture cyber.",
+        "Infortuni dipendenti (5 addetti, consulenza a basso rischio): 300-500 € l'anno per persona. The Hartford e Progressive sono i più specializzati. Negli Stati Uniti è obbligatoria quasi ovunque (il Texas è la nota eccezione); in Italia l'INAIL copre l'obbligo di legge e la polizza privata serve come integrazione."
+      ]
+    },
+    {
+      "heading": "A chi conviene ciascuna compagnia",
+      "paragraphs": [
+        "Partita IVA appena aperta, freelance, fatturato sotto i 100.000 €: Thimble, con la copertura a consumo attivata solo sul singolo progetto. Next se invece hai una sede fissa e ti serve una polizza mensile.",
+        "Attività avviata, 3-10 dipendenti, fatturato tra 250.000 € e 2 milioni: Hiscox o The Hartford. Entrambe con rating A+; Hiscox è tarata sulle imprese più piccole, Hartford copre una gamma di settori più ampia.",
+        "Flotte, artigiani, imprese edili e chi vive sul furgone: Progressive Commercial, imbattibile nei pacchetti che uniscono auto aziendali e responsabilità civile.",
+        "Tech, SaaS, consulenza e servizi professionali: Hiscox (forte sul cyber) oppure Next, nato digitale."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Meglio il pacchetto o polizze separate?",
+      "a": "Il pacchetto costa meno che comprare RCT e danni ai beni separatamente. Sotto i 5 milioni € di fatturato conviene partire da lì. Oltre, i massimali del pacchetto diventano stretti e servono coperture eccedenti dedicate."
+    },
+    {
+      "q": "Mi serve la RC professionale?",
+      "a": "Sì, se dai consulenze o eroghi servizi. Consulenti, commercialisti, società IT e designer ne hanno bisogno: quasi mai è inclusa nel pacchetto, va acquistata a parte."
+    },
+    {
+      "q": "E la polizza cyber?",
+      "a": "Sì, per qualsiasi attività che conservi dati dei clienti o accetti pagamenti con carta. Hiscox include una copertura cyber di base, le altre chiedono 15-30 €/mese."
+    },
+    {
+      "q": "La copertura infortuni dipendenti è obbligatoria?",
+      "a": "Negli Stati Uniti lo è in 49 stati su 50 (nel Texas è facoltativa). In Italia l'assicurazione INAIL è obbligatoria per legge: la polizza privata aggiuntiva serve a proteggersi dalle richieste di risarcimento dei dipendenti infortunati."
+    }
+  ],
+  "products": {
+    "next-insurance-bop": {
+      "badge": "🏆 Sottoscrizione online più rapida",
+      "review": "Next Insurance è la scelta giusta per le piccole imprese nate digitali. Richiesta online in 10 minuti, pacchetto tipico a 25-50 €/mese, attestato di copertura immediato. Alle spalle c'è Munich Re. Limite: accetta solo attività standard, niente settori ad alto rischio.",
+      "pros": [
+        "Richiesta online in 10 minuti",
+        "Attestato di copertura immediato",
+        "Garantita da Munich Re"
+      ],
+      "cons": [
+        "Solo attività a rischio standard",
+        "Il cyber è un'estensione, non è incluso"
+      ]
+    },
+    "hiscox-small-business": {
+      "badge": "🎯 Migliore sotto i 50 dipendenti",
+      "review": "Hiscox è la scelta giusta per le imprese sotto i 50 dipendenti, soprattutto tech, SaaS e consulenza. La copertura cyber è già nel pacchetto. Rating A+ di A.M. Best e una gamma di settori più ampia di Next.",
+      "pros": [
+        "Cyber già inclusa nel pacchetto",
+        "Specialista delle realtà sotto i 50 dipendenti",
+        "Solidità finanziaria elevata"
+      ],
+      "cons": [
+        "Premio più alto di Next",
+        "Meno adatta alle piccole imprese più strutturate"
+      ]
+    },
+    "the-hartford-bop": {
+      "badge": "🪪 La compagnia più solida",
+      "review": "The Hartford è la scelta giusta per le imprese avviate che vogliono una compagnia con oltre 200 anni di storia alle spalle. Ottima sulle concessionarie e sulle imprese edili, con una copertura settoriale molto ampia. Beni e responsabilità civile in un unico pacchetto.",
+      "pros": [
+        "Oltre 200 anni di attività",
+        "Forte su concessionarie e imprese edili",
+        "Copre moltissimi settori"
+      ],
+      "cons": [
+        "Più cara di Next e Hiscox",
+        "Esperienza online meno curata"
+      ]
+    },
+    "progressive-commercial": {
+      "badge": "🚛 Migliore per flotte e artigiani",
+      "review": "Progressive Commercial è la scelta giusta per chi lavora con veicoli aziendali o nell'artigianato. Pacchetti che uniscono auto aziendali e responsabilità civile, perfetti per chi gestisce una flotta, per imprese edili, elettricisti e idraulici.",
+      "pros": [
+        "I migliori pacchetti auto aziendali + RCT",
+        "Ottima per artigiani e imprese edili",
+        "Preventivo online"
+      ],
+      "cons": [
+        "Poco adatta a chi non usa veicoli",
+        "Assistenza clienti più lenta di Next"
+      ]
+    },
+    "thimble-on-demand": {
+      "badge": "📱 Migliore per lavoratori a progetto",
+      "review": "Thimble è la scelta giusta per freelance e lavoratori a progetto che hanno bisogno di coperture brevi. Si compra a ore, a giorni o a mesi, da 5 a 100 € per intervento, e si attiva in pochi minuti dall'app. Non è pensata per l'impresa tradizionale con sede fissa.",
+      "pros": [
+        "Acquisto a ore, giorni o mesi",
+        "Attivazione in pochi minuti dall'app",
+        "Costa poco se serve di rado"
+      ],
+      "cons": [
+        "Non adatta all'impresa tradizionale",
+        "Massimali limitati"
+      ]
+    }
+  },
+  "offerNotes": {
+    "next-insurance-bop": "Preventivo su nextinsurance.com — bastano 10 minuti online.",
+    "hiscox-small-business": "Preventivo su hiscox.com — specialista delle realtà sotto i 50 dipendenti.",
+    "the-hartford-bop": "Preventivo su thehartford.com o tramite broker indipendenti.",
+    "progressive-commercial": "Preventivo su progressivecommercial.com — il top per veicoli e artigiani.",
+    "thimble-on-demand": "Scarica l'app Thimble — ideale per chi lavora a progetto."
+  },
+  "pinDescription": "Partita IVA o piccola impresa? Ecco quanto costa davvero assicurarla nel 2026: Next, Hiscox, The Hartford, Progressive e Thimble a confronto, con massimali, esclusioni e coperture a consumo. Salva il pin prima di firmare.",
+  "recommendedFor": [
+    {
+      "label": "Freelance e collaboratori autonomi che serve coprire solo ogni tanto",
+      "offerId": "thimble-on-demand",
+      "reason": "Con Thimble paghi a ore, a giorni o a mesi: la copertura è attiva solo mentre lavori davvero a un progetto, senza vincoli di durata."
+    },
+    {
+      "label": "Startup appena partite che vogliono attivare tutto online",
+      "offerId": "next-insurance-bop",
+      "reason": "La richiesta online di Next dura 10 minuti e l'attestato di copertura arriva subito: un'attività nuova è assicurata in giornata, senza scartoffie."
+    },
+    {
+      "label": "Consulenti tech e fondatori di SaaS che trattano dati dei clienti",
+      "offerId": "hiscox-small-business",
+      "reason": "Hiscox mette la copertura cyber direttamente nel pacchetto: chi lavora con i dati è protetto in caso di violazione senza sottoscrivere una polizza separata."
+    },
+    {
+      "label": "Imprese edili, elettricisti e artigiani con veicoli aziendali",
+      "offerId": "progressive-commercial",
+      "reason": "Progressive domina i pacchetti auto aziendali + RCT: è l'opzione più solida per chi gestisce mezzi e vuole un'unica compagnia."
+    },
+    {
+      "label": "Imprese avviate con almeno 5 dipendenti e fatturato stabile",
+      "offerId": "the-hartford-bop",
+      "reason": "Oltre 200 anni di storia e una copertura settoriale ampia: The Hartford dà alle imprese mature la solidità che le compagnie per startup non riescono più a garantire."
+    }
+  ]
 }

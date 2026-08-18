@@ -1,5 +1,132 @@
 {
   "title": "Miglior condizionatore portatile 2026: 5 modelli a confronto",
   "description": "Confronto delle schede tecniche: Midea Duo, Whynter ARC-14S, LG, Honeywell e Black+Decker. Cosa significa davvero ASHRAE rispetto a SACC e perché il doppio tubo rende di più.",
-  "lede": "La potenza dichiarata non è quella reale. Ecco da dove nasce la differenza e a quale metratura corrisponde ciascuno dei cinque modelli."
+  "lede": "La potenza dichiarata non è quella reale. Ecco da dove nasce la differenza e a quale metratura corrisponde ciascuno dei cinque modelli.",
+  "methodology": "Non abbiamo condotto test termici o di carico in proprio. Farlo in modo serio richiederebbe una camera psicrometrica calibrata per i condizionatori e un banco con celle di carico strumentate per le multipower: non disponiamo né dell'una né dell'altro. Quello che abbiamo fatto è invece questo: abbiamo raccolto tutte le specifiche pubblicate sulle schede prodotto e sui manuali dei produttori, verificato i prezzi correnti confrontando le inserzioni dei principali rivenditori e letto recensioni degli acquirenti in grande quantità, selezionando quelle che descrivono un guasto misurabile o un problema ricorrente anziché l'impressione della prima settimana. Quando un dato è una dichiarazione del produttore e non una misurazione indipendente, lo diciamo nel testo.",
+  "sections": [
+    {
+      "heading": "BTU ASHRAE e SACC: il numero che conta davvero",
+      "paragraphs": [
+        "I climatizzatori portatili vengono pubblicizzati in BTU ASHRAE, un valore di laboratorio misurato in condizioni che ignorano il calore che l'apparecchio stesso restituisce alla stanza. Il Dipartimento dell'Energia statunitense impone un secondo dato, il SACC (Seasonally Adjusted Cooling Capacity), che tiene conto del calore ceduto dal tubo e delle infiltrazioni d'aria. Sui modelli monotubo il valore SACC si colloca di norma tra la metà e i due terzi del dato ASHRAE.",
+        "È per questo che un portatile da 8.000 BTU e un condizionatore da finestra da 8.000 BTU non sono prodotti confrontabili. L'unità da finestra è alloggiata nell'apertura ed espelle il calore fuori dall'involucro edilizio; il portatile sta dentro la stanza, vi irradia il calore del compressore e, nella versione monotubo, preleva l'aria del condensatore proprio dall'ambiente che dovrebbe raffrescare, richiamando aria esterna non trattata da ogni fessura dell'edificio per rimpiazzarla.",
+        "Regola pratica: quando confronti un portatile con un'unità da finestra, cerca il valore SACC e considera quello il numero reale. Quando confronti portatili tra loro, paragonare ASHRAE con ASHRAE va bene, purché tu tenga conto anche del numero di tubi."
+      ]
+    },
+    {
+      "heading": "Monotubo o doppio tubo",
+      "paragraphs": [
+        "Un'unità monotubo aspira l'aria dell'ambiente, la fa passare sul condensatore e la soffia all'esterno. Quell'aria va rimpiazzata, e viene rimpiazzata da aria esterna che entra dagli spifferi. Il risultato è che un portatile monotubo mette la stanza in leggera depressione e importa di continuo il calore che sta cercando di rimuovere.",
+        "Un'unità a doppio tubo preleva l'aria del condensatore dall'esterno attraverso un condotto e la espelle dall'altro, lasciando la pressione ambiente pressoché neutra. In questa selezione il Midea Duo e il Whynter ARC-14S sono a doppio tubo; LG, Honeywell e Black+Decker sono monotubo.",
+        "Il vantaggio del doppio tubo cresce con la differenza di temperatura. In condizioni miti lo scarto è così piccolo da poter essere ignorato. In una stanza davvero calda è la differenza tra un apparecchio che tiene il passo e uno che gira in continuazione senza mai raggiungere la temperatura impostata."
+      ]
+    },
+    {
+      "heading": "Inverter o velocità fissa, e cosa cambia per la rumorosità",
+      "paragraphs": [
+        "Un compressore a velocità fissa o è acceso alla massima potenza o è spento. Raggiunge il setpoint, si ferma, la temperatura sale, riparte — e ogni riavvio è il momento più rumoroso del ciclo. Un compressore inverter modula la potenza, quindi una volta che la stanza è a regime si assesta su un ronzio basso e continuo invece di accendersi e spegnersi.",
+        "Il Midea Duo e l'LG LP1419IVSM sono inverter; Whynter, Honeywell e Black+Decker sono a velocità fissa. Se l'apparecchio è destinato a una camera da letto, questa distinzione pesa più di due decibel di differenza sul dato dichiarato, perché quel dato è rilevato alla massima potenza e non descrive il comportamento ciclico che sentirai davvero alle tre di notte."
+      ]
+    },
+    {
+      "heading": "Scarico condensa, installazione del tubo e ciò di cui nessuno parla",
+      "paragraphs": [
+        "Ogni portatile produce condensa. La maggior parte dei modelli recenti ne evapora gran parte attraverso l'aria espulsa, ma con umidità elevata prima o poi tutti richiedono di svuotare la tanica o di collegare un tubo a uno scarico a pavimento. Verifica prima dell'acquisto se il modello supporta lo scarico continuo a gravità: rimediare dopo è tutt'altro che piacevole.",
+        "L'altro elemento trascurato è il kit finestra. Quelli in dotazione si adattano alle finestre scorrevoli e a ghigliottina standard; le classiche finestre a battente diffuse in Italia richiedono quasi sempre un pannello su misura. Sigillare bene il kit conta più di quanto la maggior parte degli acquirenti immagini: un kit non sigillato lascia rientrare direttamente il calore espulso e vanifica una fetta consistente della resa dell'apparecchio."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Conviene un climatizzatore portatile rispetto a uno da finestra?",
+      "a": "Solo quando l'unità da finestra non è praticabile: finestre a battente, vincoli condominiali o di affitto, o la necessità di spostare l'apparecchio tra più stanze. A parità di potenza dichiarata, un'unità da finestra è più silenziosa, costa meno ed è nettamente più efficiente, perché non si trova dentro la stanza che deve raffrescare."
+    },
+    {
+      "q": "Ho davvero bisogno del doppio tubo?",
+      "a": "Se la stanza diventa regolarmente molto calda, sì. Il doppio tubo impedisce all'apparecchio di richiamare aria esterna per sostituire quella espulsa. In condizioni miti o in una stanza piccola e ben sigillata, un monotubo è sufficiente e costa meno."
+    },
+    {
+      "q": "Che potenza mi serve?",
+      "a": "Parti dal valore SACC, non da quello ASHRAE, e calcola all'incirca 215 BTU per metro quadro in una stanza media (circa 20 BTU per piede quadro). Aggiungi potenza per un ambiente molto esposto al sole, all'ultimo piano o per una cucina; togline per una stanza interna e in ombra."
+    },
+    {
+      "q": "Perché la stanza non raggiunge mai la temperatura impostata?",
+      "a": "Le tre cause più frequenti, in ordine: un kit finestra non sigillato che fa rientrare il calore espulso, un monotubo sottodimensionato rispetto al carico termico una volta contate le infiltrazioni, e un filtro intasato. Controlla per prima cosa la tenuta della finestra: sistemarla non costa nulla."
+    }
+  ],
+  "products": {
+    "midea-duo-map14hs1tbl": {
+      "badge": "🏆 Il migliore in assoluto",
+      "review": "Il Midea Duo è la scelta giusta quando la stanza si scalda sul serio. Mette insieme le due cose che contano davvero — condotti a doppio tubo e compressore inverter — quindi non importa aria esterna e non fa rumore ciclando una volta raggiunta la temperatura. La modalità pompa di calore ne estende l'utilità alle mezze stagioni. È il modello più caro della selezione ed è fisicamente ingombrante.",
+      "pros": [
+        "Doppio tubo più inverter: le due caratteristiche che contano",
+        "La modalità pompa di calore copre anche le stagioni fredde",
+        "Mantiene la temperatura impostata anche con caldo intenso"
+      ],
+      "cons": [
+        "Il più caro della selezione",
+        "Ingombrante e pesante"
+      ]
+    },
+    "whynter-arc-14s": {
+      "badge": "💰 Miglior doppio tubo per rapporto qualità-prezzo",
+      "review": "L'ARC-14S è la via economica al doppio tubo. È sul mercato da abbastanza tempo perché i suoi punti deboli siano ben documentati nelle recensioni degli acquirenti, e fa la cosa importante: non manda la stanza in depressione. Quello a cui rinunci è la modulazione inverter, quindi si accende e si spegne in modo udibile invece di assestarsi su un ronzio costante.",
+      "pros": [
+        "Doppio tubo a un prezzo più basso",
+        "Lungo storico sul mercato, comportamento ben documentato",
+        "Progetto semplice e riparabile"
+      ],
+      "cons": [
+        "Il compressore a velocità fissa cicla in modo udibile",
+        "Interfaccia dei comandi datata"
+      ]
+    },
+    "lg-lp1419ivsm": {
+      "badge": "🔇 Il monotubo più silenzioso",
+      "review": "L'LG è la scelta quando il rumore è il criterio decisivo e i condotti a doppio tubo non sono praticabili. Il compressore dual inverter modula invece di ciclare, ed è proprio questo che si sente di notte. Essendo monotubo, continua comunque a richiamare aria di rimpiazzo: è più un apparecchio da camera da letto che da stanza rovente.",
+      "pros": [
+        "Compressore inverter, silenzioso a regime",
+        "App e programmazione ben fatte",
+        "Buona qualità costruttiva"
+      ],
+      "cons": [
+        "Il monotubo limita la resa con caldo intenso",
+        "Prezzo da fascia alta per un monotubo"
+      ]
+    },
+    "honeywell-hl10cesw": {
+      "badge": "🛏️ Il migliore per stanze piccole",
+      "review": "L'Honeywell è dimensionato per una camera da letto, non per un soggiorno, ed è così che va letto. La modalità solo deumidificazione è davvero utile nei climi umidi, dove la stanza non è calda ma resta sgradevole, e il filtro lavabile contiene i costi d'esercizio. Non compratelo per un ambiente grande o molto esposto al sole.",
+      "pros": [
+        "Dimensionamento giusto per una camera piccola",
+        "Modalità solo deumidificazione utile",
+        "Filtro lavabile"
+      ],
+      "cons": [
+        "Poco potente per ambienti grandi",
+        "Velocità fissa, cicla in modo udibile"
+      ]
+    },
+    "blackdecker-bpact08wt": {
+      "badge": "💵 Il più economico",
+      "review": "Il BPACT08WT è il modello d'ingresso, ed è quello in cui il divario tra ASHRAE e SACC fa più danni alle aspettative: la resa reale è all'incirca la metà del dato in copertina. Comprato per una stanza piccola, in ombra e ben sigillata va benissimo. Comprato fidandosi del numero stampato sulla scatola, delude.",
+      "pros": [
+        "Il prezzo più basso della selezione",
+        "Leggero e facile da spostare",
+        "Comandi essenziali"
+      ],
+      "cons": [
+        "La resa reale è molto inferiore al dato ASHRAE",
+        "Monotubo e a velocità fissa",
+        "Va in difficoltà in qualsiasi ambiente più grande di una stanza piccola"
+      ]
+    }
+  },
+  "offerNotes": {
+    "midea-duo-map14hs1tbl": "Venduto sia come Duo sia come MAP14HS1TBL: controlla il codice modello, la variante senza pompa di calore è quasi identica nell'aspetto.",
+    "whynter-arc-14s": "ARC-14S e ARC-14SH si differenziano per la funzione riscaldamento; verifica a quale dei due si riferisce l'inserzione.",
+    "lg-lp1419ivsm": "LG indica sulla scheda tecnica sia il valore ASHRAE sia quello DOE/SACC: confronta sul dato DOE.",
+    "honeywell-hl10cesw": "I codici modello di questa linea Honeywell cambiano da rivenditore a rivenditore; fai riferimento ai BTU dichiarati anziché al suffisso.",
+    "blackdecker-bpact08wt": "Controlla il valore SACC nell'inserzione prima di dimensionarlo su una stanza."
+  },
+  "pinDescription": "I BTU stampati sulla scatola del climatizzatore portatile non sono la resa che otterrai davvero. Cosa significa SACC rispetto ad ASHRAE, perché il doppio tubo cambia tutto e 5 modelli a confronto sui numeri che decidono se la stanza si rinfresca sul serio. 🌬️"
 }

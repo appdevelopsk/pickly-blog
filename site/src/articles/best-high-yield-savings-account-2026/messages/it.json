@@ -2,5 +2,127 @@
   "title": "Miglior conto deposito 2026: 5 sul rendimento",
   "description": "Abbiamo confrontato Marcus, Ally, SoFi, Discover, Capital One 360. Ecco cosa spicca davvero per APY e compromessi sulle funzioni tra i conto risparmio ad alto rendimento nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Tasso e funzionalità nel 2026",
+      "paragraphs": [
+        "Tutti e cinque i conti offrono un rendimento annuo tra il 4,10% e il 4,60% (maggio 2026). I 50 punti base di scarto tra il più basso (Discover, Capital One) e il più alto (SoFi con accredito diretto) valgono 250 € l'anno su 50.000 €. Ha senso rincorrerli solo se sposti davvero i soldi.",
+        "Ciò che li distingue: il 4,60% di SoFi richiede l'accredito dello stipendio. La funzione bucket di Ally è la migliore interfaccia per il risparmio per obiettivi. Marcus e Discover sono i più lineari. Capital One 360 è l'unico con filiali fisiche negli Stati Uniti."
+      ]
+    },
+    {
+      "heading": "Test sulla velocità dei bonifici",
+      "paragraphs": [
+        "Bonifico in entrata da banca esterna: SoFi (1,2 giorni), Ally (1,5), Marcus (1,8), Discover (2,1), Capital One (2,3). Tutti rientrano nei tempi standard, ma il vantaggio di SoFi è concreto.",
+        "Bonifico in uscita: Ally (1,0 giorni, grazie alla rete interna), SoFi (1,3), Capital One (1,5), Marcus (1,7), Discover (2,0). La lentezza di Discover su entrambi i fronti è il limite pratico più fastidioso."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ogni quanto cambiano i tassi di questi conti?",
+      "a": "In media ogni trimestre, spesso entro 30 giorni da una mossa sui tassi della banca centrale. Marcus e Ally si muovono per primi; Discover e Capital One arrivano con 1-2 mesi di ritardo."
+    },
+    {
+      "q": "Sono sicuri con depositi superiori a 50.000 €?",
+      "a": "Sì: tutti e cinque sono coperti dalla garanzia FDIC fino a 250.000 $ per depositante e per istituto (equivalente statunitense del nostro FITD, che copre 100.000 €). Sopra quella soglia, conviene distribuire su più banche o usare un fondo monetario."
+    },
+    {
+      "q": "Perdo interessi se sposto i soldi dentro e fuori ogni mese?",
+      "a": "Quasi tutti questi conti calcolano gli interessi con capitalizzazione giornaliera e accredito mensile: spostare denaro non fa perdere il maturato, purché tu lo faccia prima dell'estratto conto di fine mese."
+    }
+  ],
+  "products": {
+    "marcus-online-savings": {
+      "badge": "🏆 Il migliore in assoluto",
+      "review": "Marcus by Goldman Sachs Savings è la risposta senza fronzoli. 4,40% annuo, nessun importo minimo, nessuna spesa, deposito garantito. Di proprietà di Goldman Sachs, solo per gli Stati Uniti. Ideale se vuoi un conto di risparmio che funziona e basta, senza dover monitorare condizioni da rispettare.",
+      "pros": [
+        "4,40% annuo senza condizioni da soddisfare",
+        "La solidità patrimoniale di Goldman Sachs"
+      ],
+      "cons": [
+        "Nessuna funzione di conto corrente o carta di debito"
+      ]
+    },
+    "ally-online-savings": {
+      "badge": "🎯 Miglior esperienza d'uso",
+      "review": "Ally Online Savings vince sull'usabilità. 4,20% annuo, zero spese, ma la funzione decisiva sono i bucket: crei obiettivi con un nome (vacanza, fondo di emergenza) dentro un unico conto, senza giroconti manuali. Perfetto per chi ragiona per obiettivi.",
+      "pros": [
+        "Funzione bucket per il risparmio a obiettivi",
+        "La migliore app della categoria"
+      ],
+      "cons": [
+        "20 punti base sotto Marcus"
+      ]
+    },
+    "sofi-checking-savings": {
+      "badge": "💵 Tasso più alto (condizionato)",
+      "review": "SoFi Checking + Savings arriva al 4,60% annuo sul risparmio, ma solo con l'accredito diretto dello stipendio (basta 1 $ al mese che soddisfi i requisiti). Senza accredito il tasso crolla allo 0,50%. Bonus di benvenuto da 300 $. Ottimo se rientri nei requisiti, rischioso se non ci riesci.",
+      "pros": [
+        "4,60% annuo (con accredito diretto)",
+        "Bonus di benvenuto da 300 $"
+      ],
+      "cons": [
+        "Senza accredito diretto il tasso scende allo 0,50%"
+      ]
+    },
+    "discover-online-savings": {
+      "badge": "🤝 Miglior assistenza clienti",
+      "review": "Il tasso di Discover Online Savings (4,10%) è tra i più bassi della lista, ma l'assistenza clienti 24 ore su 24, con operatori negli Stati Uniti, è la migliore della categoria. Si abbina bene alla carta Discover it Cashback. Da scegliere se preferisci un supporto telefonico raggiungibile alla rincorsa del tasso più alto.",
+      "pros": [
+        "Assistenza telefonica 24/7 con operatori statunitensi",
+        "Integrazione con le carte di credito Discover"
+      ],
+      "cons": [
+        "Il 4,10% resta sotto la concorrenza"
+      ]
+    },
+    "capital-one-360-performance": {
+      "badge": "🏢 L'unico con filiali",
+      "review": "Capital One 360 Performance Savings unisce i tassi di una banca online (4,10% annuo) alla possibilità di entrare in un Capital One Café in carne e ossa. Ideale per chi ogni tanto vuole lo sportello fisico senza rinunciare ai rendimenti dell'online.",
+      "pros": [
+        "Filiali fisiche e café a disposizione",
+        "Si abbina alle carte di credito Capital One"
+      ],
+      "cons": [
+        "Il 4,10% è il minimo della lista"
+      ]
+    }
+  },
+  "offerNotes": {
+    "marcus-online-savings": "Il programma porta-un-amico dà un 1% annuo in più per 90 giorni: fatti mandare un link da un conoscente.",
+    "ally-online-savings": "Usa i Bucket per tenere separati fondo di emergenza e obiettivi con un nome dentro un solo conto.",
+    "sofi-checking-savings": "Per qualificarsi serve un accredito mensile sopra una soglia minima: verificalo prima di contare sul tasso alto.",
+    "discover-online-savings": "Iscriviti tramite un titolare di carta Discover it per un bonus segnalazione di 50 $.",
+    "capital-one-360-performance": "Abbinalo al conto Capital One 360 Checking per l'ecosistema completo (bonifici gratuiti, zero spese)."
+  },
+  "pinDescription": "50.000 € da parcheggiare: cinque conti di risparmio online a confronto. Tassi, velocità dei bonifici e trappole nascoste, spiegati senza giri di parole.",
+  "recommendedFor": [
+    {
+      "label": "Chi vuole il massimo rendimento senza cavilli",
+      "offerId": "marcus-online-savings",
+      "reason": "Marcus riconosce il 4,40% annuo senza condizioni: niente accredito dello stipendio, niente requisiti da tenere d'occhio."
+    },
+    {
+      "label": "Chi risparmia per più obiettivi contemporaneamente",
+      "offerId": "ally-online-savings",
+      "reason": "I Bucket di Ally permettono di etichettare e separare le somme per obiettivi diversi dentro un unico conto, senza aprirne altri."
+    },
+    {
+      "label": "Dipendenti con stipendio accreditato ogni mese",
+      "offerId": "sofi-checking-savings",
+      "reason": "Il 4,60% annuo di SoFi, il più alto della lista, scatta in automatico per chiunque abbia un accredito ricorrente, con in più 300 $ di bonus di benvenuto."
+    },
+    {
+      "label": "Risparmiatori che preferiscono il telefono al digitale",
+      "offerId": "discover-online-savings",
+      "reason": "Con l'assistenza telefonica 24/7 di Discover risponde sempre una persona vera: niente labirinti di chatbot né code per la richiamata."
+    },
+    {
+      "label": "Chi ogni tanto ha bisogno dello sportello fisico",
+      "offerId": "capital-one-360-performance",
+      "reason": "Capital One 360 è l'unico conto qui con café e filiali fisiche: puoi presentarti di persona quando serve, senza rinunciare ai tassi dell'online."
+    }
+  ]
 }

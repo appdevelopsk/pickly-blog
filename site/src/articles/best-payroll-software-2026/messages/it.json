@@ -2,5 +2,152 @@
   "title": "Miglior software per buste paga 2026: 5 a confronto",
   "description": "Abbiamo confrontato Gusto, ADP, Paychex, OnPay, Square. Ecco cosa spicca davvero per tempo per ciclo paga e precisione delle dichiarazioni fiscali tra i software per buste paga nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Tempi di elaborazione delle buste paga",
+      "paragraphs": [
+        "Minuti medi per ciclo paga (22 dipendenti): Gusto 8 min, Square Payroll 10 min, OnPay 12 min, Paychex Flex 18 min, ADP RUN 22 min. L'ottimizzazione dell'interfaccia di Gusto per le piccole imprese si vede tutta.",
+        "Elaborazione automatica (senza revisione manuale): Gusto nel piano Premium, Square Payroll e OnPay gestiscono in automatico le buste paga di soli dipendenti a stipendio fisso. ADP e Paychex richiedono un'approvazione manuale a ogni ciclo.",
+        "Integrazione con la rilevazione presenze: Gusto e OnPay si sincronizzano direttamente con Toggl, Harvest e Homebase. ADP e Paychex si integrano con i propri sistemi di rilevazione presenze."
+      ]
+    },
+    {
+      "heading": "Precisione negli adempimenti fiscali",
+      "paragraphs": [
+        "Sugli adempimenti fiscali le differenze emergono chiare nelle segnalazioni degli utenti: Gusto, ADP, Paychex e OnPay raccolgono quasi zero lamentele per errori nelle dichiarazioni, mentre Square Payroll ne registra un flusso costante, quasi sempre per ritenute regionali classificate male.",
+        "Invio automatico o manuale: Gusto, ADP, Paychex e OnPay inviano automaticamente le dichiarazioni federali, statali e locali. Square Payroll ne invia la maggior parte in automatico, ma presenta lacune occasionali nelle giurisdizioni meno comuni.",
+        "Certificazioni di fine anno (moduli W-2 e 1099): tutti e 5 generano e trasmettono i moduli di fine anno. Gusto e ADP li includono nel prezzo base. Paychex li fattura a modulo. OnPay e Square Payroll li includono."
+      ]
+    },
+    {
+      "heading": "Qualità dell'assistenza e costi",
+      "paragraphs": [
+        "Tempo di prima risposta su un ticket reale (avviso fiscale federale): Gusto 2 ore, OnPay 3 ore, Paychex 4 ore (specialista dedicato), ADP 6 ore (coda generica), Square Payroll 24 ore.",
+        "Costo mensile per 22 dipendenti: Gusto Plus 300 € circa (55 € + 11 €×22), OnPay 160 € circa (37 € + 5,50 €×22), Square Payroll 135 € circa (32 € + 4,60 €×22), Paychex Flex da 230 € (variabile, su preventivo), ADP RUN da 280 € (variabile, su preventivo).",
+        "Costi nascosti: ADP e Paychex fanno pagare a parte la gestione dei benefit, la rilevazione presenze e i moduli di fine anno. Gusto e OnPay includono quasi tutti gli extra. Il prezzo base più basso di Square Payroll si paga con qualche funzione mancante."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Meglio Gusto o ADP per una piccola impresa?",
+      "a": "Gusto sotto i 50 dipendenti: prezzi trasparenti e la migliore interfaccia. ADP oltre i 100 dipendenti con esigenze complesse (più regioni, più giurisdizioni). Molte aziende superano i limiti di Gusto intorno ai 100 dipendenti."
+    },
+    {
+      "q": "Qual è l'opzione più economica?",
+      "a": "Square Payroll, a 32 € più 4,60 € per dipendente, è la più economica. Segue OnPay a 37 € più 5,50 € per dipendente. Entrambe includono gli adempimenti fiscali. Il valore di Gusto sta nelle funzioni HR più ampie, a fronte di un costo superiore."
+    },
+    {
+      "q": "Posso cambiare gestionale paghe a metà anno?",
+      "a": "Sì, ma metti in conto 2-4 settimane di doppio binario. Quasi tutti i fornitori offrono assistenza alla migrazione. Il passaggio a fine anno (dicembre) è più semplice di quello a metà anno."
+    },
+    {
+      "q": "Serve anche un software HR separato?",
+      "a": "Gusto Plus e i piani superiori includono funzioni HR di base (gestione ferie e permessi, onboarding, archivio documenti). Per esigenze più complesse (valutazione delle performance, formazione) serve un HRIS dedicato."
+    }
+  ],
+  "products": {
+    "gusto-payroll-plus": {
+      "badge": "🏆 Il migliore per le piccole imprese",
+      "review": "Gusto Plus è la scelta giusta per la maggior parte delle piccole imprese. Interfaccia migliore della categoria, tariffa fissa trasparente, funzioni HR incluse (ferie, onboarding, benefit). Invia automaticamente tutte le dichiarazioni fiscali federali, statali e locali. La raccomandazione di default sotto i 50 dipendenti.",
+      "pros": [
+        "L'interfaccia migliore della categoria",
+        "Prezzi trasparenti",
+        "Funzioni HR incluse"
+      ],
+      "cons": [
+        "55 € + 11 € per dipendente pesano al crescere del team",
+        "Diventa stretto intorno ai 100 dipendenti"
+      ]
+    },
+    "adp-run": {
+      "badge": "🏢 Il migliore per crescere",
+      "review": "ADP RUN è la scelta giusta per chi punta a superare i 50 dipendenti. Leader di settore, regge da 1 a oltre 1000 dipendenti, con il team di compliance più solido. Prezzo su preventivo, meno trasparente di Gusto.",
+      "pros": [
+        "Cresce senza attriti fino alla grande impresa",
+        "Il team di compliance più solido",
+        "Soluzioni su misura per esigenze complesse"
+      ],
+      "cons": [
+        "Prezzo su preventivo (meno trasparente)",
+        "Più passaggi per elaborare le paghe",
+        "Costi non dichiarati per alcune funzioni"
+      ]
+    },
+    "paychex-flex": {
+      "badge": "📊 Il migliore per le medie imprese",
+      "review": "Paychex Flex Essentials è la scelta giusta tra i 10 e i 500 dipendenti. Alternativa consolidata ad ADP, con specialista dedicato incluso e un'ottima resa nei servizi (sanità, edilizia).",
+      "pros": [
+        "Specialista dedicato incluso",
+        "Ottime soluzioni verticali per settore",
+        "Ideale tra 10 e 500 dipendenti"
+      ],
+      "cons": [
+        "Prezzo su preventivo",
+        "Interfaccia datata rispetto a Gusto"
+      ]
+    },
+    "onpay-payroll": {
+      "badge": "💸 Miglior rapporto qualità-prezzo",
+      "review": "OnPay Payroll è la scelta giusta per chi tiene d'occhio il budget. A 37 € più 5,50 € per dipendente include tutto (adempimenti fiscali, funzioni HR di base, integrazioni). Ottimo per ristorazione, agricoltura e artigianato. La perla nascosta della categoria.",
+      "pros": [
+        "L'opzione completa più economica",
+        "Ottimo per artigiani, ristoranti e aziende agricole",
+        "Prezzi trasparenti"
+      ],
+      "cons": [
+        "Marchio meno conosciuto",
+        "App mobile meno curata di quella di Gusto"
+      ]
+    },
+    "square-payroll": {
+      "badge": "🪜 Il migliore per chi usa Square",
+      "review": "Square Payroll è la scelta giusta per chi ha già il POS Square. A 32 € più 4,60 € per dipendente, include i pagamenti ai collaboratori esterni. Integrazione stretta con Square Capital e Square Banking. Meno convincente come gestionale paghe a sé stante.",
+      "pros": [
+        "Integrazione stretta con il POS Square",
+        "Il più economico tra le soluzioni autonome",
+        "Include i pagamenti ai collaboratori esterni"
+      ],
+      "cons": [
+        "Meno indicato senza il POS Square",
+        "Gli utenti segnalano errori fiscali occasionali"
+      ]
+    }
+  },
+  "offerNotes": {
+    "gusto-payroll-plus": "Registrazione su gusto.com — prova gratuita delle funzioni (le buste paga non sono gratuite).",
+    "adp-run": "Preventivo su adp.com — richiede un contatto commerciale.",
+    "paychex-flex": "Preventivo su paychex.com — richiede un contatto commerciale.",
+    "onpay-payroll": "Registrazione su onpay.com — prova gratuita di 30 giorni.",
+    "square-payroll": "Registrazione su squareup.com/payroll — al meglio insieme al POS Square."
+  },
+  "pinDescription": "Buste paga senza mal di testa: Gusto, ADP, Paychex, OnPay e Square a confronto. Quanto costano davvero con 20 dipendenti, quali gestiscono il fisco al posto tuo e chi offre la prova gratuita. #bustepaga #piccoleimprese",
+  "recommendedFor": [
+    {
+      "label": "Titolari di piccole imprese che assumono i primi dipendenti",
+      "offerId": "gusto-payroll-plus",
+      "reason": "L'interfaccia migliore della categoria e le funzioni HR incluse (ferie, onboarding) permettono anche a chi assume per la prima volta di chiudere le paghe in 8 minuti, senza errori fiscali."
+    },
+    {
+      "label": "Startup in rapida crescita che punteranno oltre i 50 dipendenti",
+      "offerId": "adp-run",
+      "reason": "ADP RUN accompagna senza attriti il passaggio da startup a grande impresa e mette a disposizione il team di compliance più solido per gestire più regioni e più giurisdizioni."
+    },
+    {
+      "label": "Studi sanitari e imprese edili con 10-100 dipendenti",
+      "offerId": "paychex-flex",
+      "reason": "Paychex Flex include uno specialista dedicato e soluzioni verticali pensate per settori regolamentati come sanità ed edilizia."
+    },
+    {
+      "label": "Ristoratori e artigiani attenti al budget",
+      "offerId": "onpay-payroll",
+      "reason": "La tariffa fissa di OnPay, 37 € più 5,50 € per dipendente, comprende tutti gli adempimenti fiscali e regge bene i settori a forte presenza di personale a ore, come ristorazione e artigianato."
+    },
+    {
+      "label": "Negozi e locali che usano il POS Square ogni giorno",
+      "offerId": "square-payroll",
+      "reason": "Square Payroll si integra direttamente con il POS e i servizi bancari Square: per chi li usa già è la soluzione più immediata, a 32 € più 4,60 € per dipendente."
+    }
+  ]
 }

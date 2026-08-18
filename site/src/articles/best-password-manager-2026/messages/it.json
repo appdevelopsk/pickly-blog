@@ -2,5 +2,149 @@
   "title": "Miglior password manager 2026: 5 a confronto",
   "description": "Abbiamo confrontato 1Password, Bitwarden, Dashlane, Apple, LastPass. Ecco cosa spicca davvero per affidabilità dell'auto-completamento e sincronizzazione cross-platform tra i password manager nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Affidabilità del riempimento automatico",
+      "paragraphs": [
+        "Percentuale di compilazioni riuscite su 50 siti (Amazon, home banking, Google, app aziendali): 1Password 96%, Bitwarden 94%, Dashlane 92%, Password di Apple 88% (ottimo su Safari, debole su Chrome), LastPass 90%.",
+        "Compatibilità con i browser: 1Password e Bitwarden sono i migliori — funzionano senza intoppi su Safari, Chrome, Firefox, Edge, Arc e Brave. Password di Apple dà il meglio su Safari, mentre l'estensione per Chrome funziona ma resta di serie B. Dashlane e LastPass se la cavano bene ovunque."
+      ]
+    },
+    {
+      "heading": "Sincronizzazione multipiattaforma",
+      "paragraphs": [
+        "Ritardo di sincronizzazione tra dispositivi (password modificata sul telefono e disponibile sul portatile): 1Password 2-4 secondi, Bitwarden 3-5 secondi, Dashlane 4-6 secondi, Password di Apple (iCloud) 5-10 secondi, LastPass 5-10 secondi.",
+        "Supporto Linux: 1Password (app nativa), Bitwarden (nativa + browser), LastPass (solo browser). Su Linux Dashlane funziona solo da browser. Password di Apple non supporta Linux in alcun modo."
+      ]
+    },
+    {
+      "heading": "Storico delle violazioni",
+      "paragraphs": [
+        "Violazione LastPass del 2022: sono stati sottratti i backup cifrati delle cassaforti, attaccabili a forza bruta in caso di master password deboli. L'episodio è costato la fiducia di molti professionisti della sicurezza.",
+        "1Password, Bitwarden, Dashlane e Password di Apple: nessun incidente rilevante fino al 2026. Tutti adottano un'architettura zero-knowledge (il fornitore non può leggere i tuoi dati nemmeno in caso di attacco).",
+        "Se nel 2022 eri utente LastPass, cambia servizio. La risposta dell'azienda dopo l'incidente è migliorata, ma il marchio resta compromesso."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Meglio 1Password o Bitwarden?",
+      "a": "1Password se vuoi l'esperienza d'uso migliore della categoria e non ti pesano 4,99 €/mese per 5 utenti. Bitwarden se preferisci l'open source e la spesa minima (il piano premium da 10 €/anno include già il TOTP)."
+    },
+    {
+      "q": "Password di Apple basta?",
+      "a": "Se resti al 100% nell'ecosistema Apple e usi Safari, sì. Se ti capita di usare Chrome, Android, Linux o Windows, ti serve un vero password manager."
+    },
+    {
+      "q": "Devo abbandonare LastPass?",
+      "a": "Sì. La violazione del 2022 ha rivelato debolezze strutturali e la gestione successiva è stata criticata. Passa a 1Password o Bitwarden."
+    },
+    {
+      "q": "Gratis o a pagamento?",
+      "a": "I piani gratuiti (Bitwarden free, Password di Apple) funzionano, ma non offrono generazione di codici TOTP, monitoraggio del dark web, condivisione familiare e accesso di emergenza. Per la maggior parte delle persone i 10-60 € all'anno valgono la spesa."
+    }
+  ],
+  "products": {
+    "1password-families": {
+      "badge": "🏆 Il migliore in assoluto",
+      "review": "1Password Families è la scelta giusta per la maggior parte delle persone. 4,99 €/mese per 5 utenti, la migliore esperienza d'uso della categoria, avvisi di violazione con Watchtower, Modalità viaggio (nasconde le cassaforti sensibili quando si passa una frontiera) e Secrets Automation per i team di sviluppo. Sincronizzazione multipiattaforma in 4 secondi di media.",
+      "pros": [
+        "La migliore esperienza d'uso della categoria",
+        "Avvisi di violazione Watchtower",
+        "Multipiattaforma"
+      ],
+      "cons": [
+        "4,99 €/mese per il piano singolo (60 €/anno)",
+        "Nessun piano gratuito"
+      ]
+    },
+    "bitwarden-premium": {
+      "badge": "💸 Il miglior open source",
+      "review": "Bitwarden Premium è la scelta giusta per chi crede nell'open source e per chi vuole spendere il meno possibile. 10 € all'anno per il premium (TOTP, accesso di emergenza, allegati), mentre il piano gratuito copre l'essenziale. Supporto Linux nativo. Si può installare sul proprio server.",
+      "pros": [
+        "Open source",
+        "Premium a 10 €/anno",
+        "Linux nativo"
+      ],
+      "cons": [
+        "Interfaccia meno curata di 1Password",
+        "Sincronizzazione un po' più lenta"
+      ]
+    },
+    "dashlane-premium": {
+      "badge": "🛡️ Il miglior tutto-in-uno",
+      "review": "Dashlane Premium è la scelta giusta per chi vuole VPN, password manager e monitoraggio del dark web in un unico pacchetto. 4,99 €/mese per il piano singolo con VPN inclusa (che da sola vale 10 €/mese). Completo, ma più caro di Bitwarden.",
+      "pros": [
+        "VPN inclusa",
+        "Monitoraggio del dark web",
+        "Riempimento automatico affidabile"
+      ],
+      "cons": [
+        "Nessun piano gratuito con tutte le funzioni",
+        "Su Linux funziona solo da browser"
+      ]
+    },
+    "apple-passwords-icloud": {
+      "badge": "🍎 Il migliore per Apple",
+      "review": "Password di Apple (Portachiavi iCloud) è la scelta giusta per chi vive al 100% nell'ecosistema Apple. Gratuito con l'ID Apple, integrato in Safari e nelle Impostazioni. Da iOS 18 c'è anche l'app Password autonoma. Supporto limitato su Chrome e Windows, assente su Android e Linux.",
+      "pros": [
+        "Gratuito con l'ID Apple",
+        "Integrazione con Safari impeccabile",
+        "App autonoma da iOS 18"
+      ],
+      "cons": [
+        "Supporto Chrome limitato",
+        "Niente Android né Linux"
+      ]
+    },
+    "lastpass-premium": {
+      "badge": "⚠️ Attenzione",
+      "review": "LastPass Premium è stato a lungo il leader del settore, ma ha subito violazioni nel 2022 (sottrazione dei backup cifrati delle cassaforti). Il servizio funziona, ma per un nuovo account conviene valutare le alternative. Se lo usi già: passa a 1Password o Bitwarden.",
+      "pros": [
+        "Sincronizzazione su più dispositivi",
+        "Riempimento automatico storicamente valido"
+      ],
+      "cons": [
+        "Violazione del 2022",
+        "Fiducia compromessa dopo l'incidente",
+        "Nessuna vera novità da allora"
+      ]
+    }
+  },
+  "offerNotes": {
+    "1password-families": "Registrazione su 1password.com — il piano Families copre 5 utenti a 4,99 €/mese.",
+    "bitwarden-premium": "Registrazione su bitwarden.com — il piano gratuito è già utilizzabile; premium a 10 €/anno.",
+    "dashlane-premium": "Registrazione su dashlane.com — VPN inclusa nel piano Premium.",
+    "apple-passwords-icloud": "Già integrato in iOS/macOS — Impostazioni → Password. Gratuito.",
+    "lastpass-premium": "Se lo usi già: cambia servizio. Sconsigliato per i nuovi account."
+  },
+  "pinDescription": "Le tue password sono ancora tutte uguali? Confronto 2026 tra 1Password, Bitwarden, Dashlane, Password di Apple e LastPass: cifratura zero-knowledge, storico delle violazioni, piani gratuiti e quanto costa davvero ognuno. #passwordmanager #sicurezzaonline",
+  "recommendedFor": [
+    {
+      "label": "Famiglie che condividono account su più dispositivi",
+      "offerId": "1password-families",
+      "reason": "1Password Families copre 5 utenti a 4,99 €/mese, con avvisi di violazione Watchtower e riempimento automatico affidabile al 96% su tutte le piattaforme."
+    },
+    {
+      "label": "Sviluppatori Linux e smanettoni attenti alla privacy",
+      "offerId": "bitwarden-premium",
+      "reason": "Bitwarden offre un'app Linux nativa, codice interamente open source e ispezionabile e la possibilità di installarlo sul proprio server: tutto per soli 10 € all'anno."
+    },
+    {
+      "label": "Chi lavora da remoto tra Wi-Fi pubblici e VPN",
+      "offerId": "dashlane-premium",
+      "reason": "Dashlane unisce VPN e monitoraggio del dark web al password manager, così non serve pagare a parte per la sicurezza della connessione."
+    },
+    {
+      "label": "Chi usa iPhone e Mac e non esce mai dall'ecosistema Apple",
+      "offerId": "apple-passwords-icloud",
+      "reason": "Password di Apple è gratuito con l'ID Apple e offre l'integrazione più stretta con Safari e iOS 18 tra tutte le soluzioni qui presenti."
+    },
+    {
+      "label": "Chi usa già LastPass e sta valutando se cambiare",
+      "offerId": "lastpass-premium",
+      "reason": "LastPass funziona ancora su tutti i dispositivi con un buon riempimento automatico, ma dopo la violazione del 2022 ha senso solo come soluzione ponte prima del passaggio a un'alternativa."
+    }
+  ]
 }

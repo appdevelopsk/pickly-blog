@@ -102,5 +102,114 @@
     "babysense-v65": "Scelta senza WiFi economica — baby monitor radio dedicato senza WiFi con schermo genitore da 5 pollici, video 720p, telecamera a posizione fissa da 110 gradi (nessun pan-and-tilt), visione notturna a infrarossi valutata 3-4 metri, audio bidirezionale con VOX, 8 preimpostazioni di ninnenanne, sensore di temperatura, espandibile a 4 telecamere, nessun WiFi, nessuna app, nessun cloud, nessun abbonamento. Nessuna funzionalità AI; risoluzione 720p e telecamera a posizione fissa significa che imposti l'angolo della telecamera una volta all'installazione e accetti che il bambino possa spostarsi fuori dall'inquadratura man mano che cresce nella fase del gattonare; la batteria dello schermo genitore valutata 8 ore si degrada a 4-5 ore dopo 12-18 mesi di utilizzo con schermi di sostituzione costosi e frequenti esaurimenti delle scorte; il riconoscimento del marchio è più debole rispetto ad Anker Eufy o Cubo Ai con recensioni miste sul supporto post-vendita (tempi di risposta ai ticket di supporto di 1-3 settimane)."
   },
   "pinDescription": "Cinque baby monitor confrontati nel 2026 da un Anker Eufy SpaceView Pro senza WiFi a un Nanit Pro premium. Rilevamento AI viso-giù vs video in streaming vs architettura senza WiFi, il compromesso sicurezza della telecamera WiFi (incidenti di hacking, regole per le password, distanza di strangolamento del cavo da 30 cm), costi di abbonamento mensili che i prezzi della scatola nascondono, e le regole di sicurezza che ogni pagina di marketing salta.",
-  "methodology": "Abbiamo valutato ogni prodotto in base alla durata nell'uso quotidiano, alla facilità d'uso, alle prestazioni rispetto alle promesse pubblicitarie, alla qualità costruttiva e al valore nel tempo. Le specifiche dichiarate dal produttore sono state confrontate con recensioni verificate di chi lo possiede."
+  "methodology": "Abbiamo valutato ogni prodotto in base alla durata nell'uso quotidiano, alla facilità d'uso, alle prestazioni rispetto alle promesse pubblicitarie, alla qualità costruttiva e al valore nel tempo. Le specifiche dichiarate dal produttore sono state confrontate con recensioni verificate di chi lo possiede.",
+  "products": [
+    {
+      "offerId": "cubo-ai-plus",
+      "badge": "Miglior rilevamento AI del viso coperto",
+      "review": "Cubo Ai Plus è l'unica telecamera di questa selezione il cui rilevamento AI di viso coperto, ribaltamento e zone pericolose cambia davvero il modo di sorvegliare un bambino tra i 4 e i 12 mesi, quando inizia a girarsi da solo. La telecamera 1080p con campo visivo di 130 gradi trasmette via WiFi all'app per smartphone, il modello AI è addestrato su decine di migliaia di video registrati in camerette, e le 18 ninne nanne più l'audio bidirezionale coprono tutte le funzioni classiche di un'unità genitore. Il costo su 5 anni è la parte che il prezzo di listino nasconde: prezzo d'acquisto più abbonamento mensile Cubo Ai Plus Care dopo la prova gratuita di 6-12 mesi fanno circa il triplo del prezzo iniziale — e senza abbonamento spariscono proprio le funzioni AI che giustificano il sovrapprezzo. La dipendenza dal servizio cloud è strutturale, e gli 1-3 falsi allarmi a notte tipici con un bambino di 6-12 mesi generano una stanchezza da notifiche molto concreta.",
+      "pros": [
+        "Unica telecamera qui con rilevamento AI di viso coperto, ribaltamento e zone pericolose, addestrato su video di camerette verificati",
+        "Video 1080p con campo visivo di 130 gradi, audio bidirezionale e otturatore privacy manuale",
+        "La classificazione AI del pianto distingue fame, fastidio e pianto da sonno",
+        "Design crema e pastello in stile Pinterest, perfetto per una cameretta fotogenica"
+      ],
+      "cons": [
+        "Dopo la prova gratuita l'abbonamento mensile Cubo Ai Plus Care è obbligatorio per le funzioni AI",
+        "L'architettura WiFi-cloud comporta totale dipendenza dal cloud di Cubo Ai (nel 2024 un blackout durato giorni ha lasciato migliaia di genitori senza accesso)"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "eufy-spaceview-pro",
+      "badge": "Miglior fascia media senza WiFi",
+      "review": "Anker Eufy SpaceView Pro è la scelta senza WiFi per chi controlla il bambino soprattutto da dentro casa e non vuole né il modello di sicurezza delle telecamere WiFi né un abbonamento mensile. La telecamera 720p, su collegamento radio chiuso a 2,4 GHz, alimenta uno schermo genitore dedicato da 5 pollici con zoom digitale 4x, brandeggio orizzontale di 110 gradi e visione notturna a infrarossi che in condizioni reali di cameretta copre 4-5 metri. Audio bidirezionale VOX, 8 ninne nanne preimpostate, espandibile fino a 4 telecamere su un unico schermo, e batteria dell'unità genitore dichiarata 12 ore con uso normale. Nessuna visione da remoto — fuori dalla portata radio non si può controllare il bambino — e nessun rilevamento AI del viso coperto. La reputazione di Anker sulla qualità costruttiva giustifica il prezzo di fascia media, e l'assenza di configurazione WiFi, app e account cloud è tutto il senso del prodotto.",
+      "pros": [
+        "Zero WiFi, cloud, app o abbonamenti: collegamento radio chiuso a 2,4 GHz con schermo genitore dedicato",
+        "Brandeggio di 110 gradi con zoom digitale 4x su schermo da 5 pollici",
+        "Espandibile fino a 4 telecamere su un solo schermo, per più stanze o gemelli",
+        "La reputazione ingegneristica di Anker giustifica il prezzo di fascia media"
+      ],
+      "cons": [
+        "Nessuna visione da remoto: fuori dalla portata radio non si vede nulla",
+        "La risoluzione 720p è visibilmente inferiore al 1080p delle telecamere WiFi sullo schermo da 5 pollici"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "nanit-pro-smart-camera",
+      "badge": "Migliore per l'analisi del sonno",
+      "review": "Nanit Pro Smart Camera è la scelta per chi vuole i dati: video 1080p HDR con campo visivo di 130 gradi, rilevamento AI del movimento respiratorio tramite visione artificiale sull'area del torace (senza sensori indossati), punteggio della qualità del sonno e monitoraggio della crescita con il Nanit Smart Sheet. L'integrazione con Apple HomeKit e Google Home funziona in entrambi i casi. Il prezzo d'acquisto più l'abbonamento mensile Nanit Insights è il costo dichiarato, ma quello nascosto è il Nanit Breathing Wear richiesto dal rilevamento AI del respiro: si compra a capo e diventa piccolo ogni 3-4 mesi. Senza il Breathing Wear la telecamera si riduce a un monitor video in streaming con avvisi di movimento. Il fissaggio a parete sopra la culla richiede di forare, cosa che la maggior parte dei contratti d'affitto vieta.",
+      "pros": [
+        "Rilevamento AI del movimento respiratorio tramite visione artificiale (nessun sensore da indossare)",
+        "Video 1080p HDR con punteggio dettagliato della qualità del sonno e monitoraggio della crescita",
+        "Integrazione funzionante sia con Apple HomeKit sia con Google Home",
+        "Libreria Nanit Sound + rumore bianco e audio bidirezionale"
+      ],
+      "cons": [
+        "Il Nanit Breathing Wear necessario al rilevamento AI del respiro si acquista a capo e diventa piccolo ogni 3-4 mesi",
+        "Il fissaggio a parete sopra la culla richiede fori, vietati nella maggior parte degli appartamenti in affitto"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "owlet-cam-2",
+      "badge": "Migliore per l'ecosistema Owlet",
+      "review": "Owlet Cam 2 è la telecamera WiFi in streaming per chi vuole proprio il marchio e l'ecosistema Owlet, spesso perché sta valutando anche l'Owlet Dream Sock per il monitoraggio pulsossimetrico (venduto a parte). La telecamera 1080p HDR con campo visivo di 130 gradi trasmette all'app Owlet Dream, con audio bidirezionale, avvisi di movimento e suono a sensibilità regolabile, visione notturna a infrarossi dichiarata 3-4 metri e integrazione Apple HomeKit. Nella storia dell'azienda c'è la lettera di avvertimento FDA del 2021 per aver promosso il primo Smart Sock come dispositivo di prevenzione della SIDS senza autorizzazione medica: l'attuale Cam 2 è approvata dalla FDA come elettronica di consumo per il benessere, non come dispositivo medico né di prevenzione della SIDS. Nessun rilevamento AI di viso coperto o ribaltamento. Lo storico video su cloud richiede l'abbonamento mensile Owlet Premium.",
+      "pros": [
+        "Video 1080p HDR con campo visivo di 130 gradi e integrazione Apple HomeKit",
+        "Si integra con Owlet Dream Sock per chi vuole anche il monitoraggio pulsossimetrico",
+        "L'abbonamento facoltativo Owlet Premium costa meno di Cubo Ai Plus Care",
+        "Prezzo d'ingresso più basso rispetto a Cubo Ai Plus o Nanit Pro"
+      ],
+      "cons": [
+        "Nessun rilevamento AI di viso coperto o ribaltamento: solo avvisi di movimento",
+        "Serve il WiFi per il collegamento tra telecamera e app, senza alcuna modalità locale di riserva"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "babysense-v65",
+      "badge": "Miglior senza WiFi economico",
+      "review": "Babysense V65 da 5 pollici è il baby monitor a radio dedicata senza WiFi più economico con schermo genitore da 5 pollici di questo confronto. Video 720p, telecamera fissa a 110 gradi (nessun brandeggio), visione notturna a infrarossi dichiarata 3-4 metri, audio bidirezionale VOX, 8 ninne nanne preimpostate, sensore di temperatura, espandibile fino a 4 telecamere. Babysense è distribuita dai principali rivenditori online con un anno di garanzia in Italia. Nessuna funzione AI: solo avvisi di movimento e attivazione vocale. La telecamera fissa significa che l'angolazione si imposta una volta sola in fase di installazione, accettando che il bambino possa uscire dall'inquadratura quando inizia a gattonare. La batteria dell'unità genitore, dichiarata 8 ore, scende a 4-5 ore dopo 12-18 mesi e gli schermi di ricambio sono spesso esauriti.",
+      "pros": [
+        "Prezzo più basso nella categoria senza WiFi con schermo genitore da 5 pollici",
+        "Zero WiFi, cloud, app o abbonamenti, con un anno di garanzia in Italia",
+        "Espandibile fino a 4 telecamere su un unico schermo genitore",
+        "Vent'anni di esperienza di Babysense nei baby monitor audio e video"
+      ],
+      "cons": [
+        "Telecamera fissa senza brandeggio: quando il bambino inizia a gattonare esce dall'inquadratura",
+        "Marchio meno noto di Anker Eufy, con tempi di risposta dell'assistenza di 1-3 settimane"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Per i genitori di bambini di 4-12 mesi che iniziano a girarsi e vogliono avvisi AI di sicurezza",
+      "offerId": "cubo-ai-plus",
+      "reason": "Il rilevamento AI di viso coperto e ribaltamento è l'unica funzione di questo confronto che cambia davvero la sorveglianza nei mesi a rischio più alto."
+    },
+    {
+      "label": "Per chi vuole evitare telecamere WiFi e abbonamenti mensili",
+      "offerId": "eufy-spaceview-pro",
+      "reason": "Il collegamento radio chiuso a 2,4 GHz con schermo genitore dedicato da 5 pollici elimina del tutto i rischi di sicurezza delle telecamere WiFi e il costo dell'abbonamento."
+    },
+    {
+      "label": "Per chi tiene davvero all'analisi della qualità del sonno",
+      "offerId": "nanit-pro-smart-camera",
+      "reason": "Il punteggio della qualità del sonno e il monitoraggio della crescita con lo Smart Sheet qui non li ha nessun altro, a patto di poter fissare il supporto a parete e mettere in conto il Breathing Wear."
+    },
+    {
+      "label": "Per chi sta valutando anche l'Owlet Dream Sock per la pulsossimetria",
+      "offerId": "owlet-cam-2",
+      "reason": "La Cam 2 si integra con il Dream Sock e condivide l'app Owlet Dream: è questo il motivo concreto per preferirla a Cubo Ai o Nanit."
+    },
+    {
+      "label": "Per il monitor senza WiFi più economico con schermo da 5 pollici",
+      "offerId": "babysense-v65",
+      "reason": "L'opzione a radio dedicata senza WiFi più economica di questo confronto con schermo genitore da 5 pollici, per chi non ha bisogno di brandeggio né di funzioni AI."
+    }
+  ]
 }

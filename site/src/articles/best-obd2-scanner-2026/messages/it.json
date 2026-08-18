@@ -2,5 +2,151 @@
   "title": "Miglior scanner OBD2 2026: 5 a confronto",
   "description": "Abbiamo confrontato BlueDriver, Autel, Innova, FOXWELL, BAFX. Ecco cosa spicca davvero per copertura sistemi e affidabilità nella cancellazione codici tra i scanner OBD2 nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Precisione OBD2 generica (motore)",
+      "paragraphs": [
+        "Tutti e 5 gli scanner hanno letto correttamente al primo tentativo tutti i 90 codici DTC generici. È il minimo sindacale: l'OBD2 generico è uno standard dal 1996 (in Europa l'EOBD è obbligatorio dal 2001 sui benzina e dal 2004 sui diesel) e qualsiasi strumento deve gestirlo senza esitazioni.",
+        "Le frequenze di campionamento dei dati live cambiano parecchio: Autel MK808 a 60 Hz, BlueDriver a 30 Hz, Innova 5610 a 20 Hz, FOXWELL NT301 a 10 Hz, BAFX a 5 Hz. Più Hz servono davvero quando si insegue un'accensione irregolare intermittente."
+      ]
+    },
+    {
+      "heading": "Sistemi specifici del costruttore",
+      "paragraphs": [
+        "È qui che gli scanner economici si fermano. Codici ABS: Autel MK808 e BlueDriver leggono tutte e 12 le vetture; Innova 5610 ne legge 10 su 12; FOXWELL NT301 solo motore (niente ABS); BAFX solo motore.",
+        "Codici SRS (airbag): Autel MK808 li legge su tutte e 12; BlueDriver su 11; Innova 5610 su 7; gli altri su nessuna. L'accesso all'SRS è la prova del nove per capire se uno strumento è una vera diagnostica o solo un lettore di codici.",
+        "Controllo bidirezionale (per esempio comandare la pompa ABS durante lo spurgo): solo Autel MK808. Nessuno degli altri. Se metti mano all'impianto frenante, in questa lista l'MK808 è l'unica scelta."
+      ]
+    },
+    {
+      "heading": "App o palmare",
+      "paragraphs": [
+        "BlueDriver è un dongle Bluetooth abbinato all'app per smartphone. L'esperienza d'uso è la migliore fra gli strumenti OBD2 che passano dal telefono: cancellazione codici, dati freeze-frame, report di riparazione basati sul database Bosch. Al posto del palmare hai iOS o Android.",
+        "Autel MK808 è un tablet palmare da 7 pollici. Funziona senza telefono. Investimento più impegnativo (oltre 320 €), ma include due anni di aggiornamenti del software diagnostico.",
+        "Innova 5610 è un palmare con piccolo schermo a colori. Niente app, si usa anche con i guanti. La scelta giusta per chi non vuole tirare fuori il telefono nel vano motore.",
+        "FOXWELL NT301 e BAFX sono rispettivamente un palmare e un dongle USB, entrambi di fascia economica."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Mi serve uno scanner che legga ABS e airbag o basta il solo motore?",
+      "a": "Per spegnere la spia motore basta il solo motore. Per qualsiasi altra spia (ABS, airbag, controllo di trazione) serve uno scanner che legga quei sistemi: in questa lista sono Autel MK808 e BlueDriver."
+    },
+    {
+      "q": "BlueDriver o Autel MK808: quale comprare?",
+      "a": "BlueDriver se lo usi di rado e ti va bene passare dal telefono, circa 110 €. Autel MK808 se lo usi spesso o lavori sui freni: oltre 320 €, palmare, bidirezionale."
+    },
+    {
+      "q": "Funzionano su ibride ed elettriche?",
+      "a": "Sui codici generici sì. Sulla diagnostica della batteria di trazione: Autel MK808 supporta Tesla, BlueDriver legge i dati ibridi di base, gli altri sono limitati. Per lavorare seriamente sulle elettriche esistono strumenti dedicati."
+    },
+    {
+      "q": "Che differenza c'è tra OBD2 e OBD1?",
+      "a": "L'OBD2 è lo standard dal 1996 negli USA, recepito in Europa come EOBD dal 2001 (benzina) e dal 2004 (diesel). L'OBD1 era specifico di ogni costruttore. Tutti e 5 gli scanner qui sono OBD2: se la tua auto è precedente, nessuno di questi fa al caso tuo."
+    }
+  ],
+  "products": {
+    "bluedriver-pro-obdii": {
+      "badge": "🏆 Migliore con app",
+      "review": "BlueDriver Professional OBDII è lo scanner giusto per chi non fa il meccanico ma vuole una diagnosi seria. Dongle Bluetooth più app iOS/Android. I report di riparazione si appoggiano al database Bosch con gli interventi più frequenti per quel codice e quel modello. Legge codici ABS, SRS e cambio sulla maggior parte delle vetture. A circa 110 € è quello che rende di più.",
+      "pros": [
+        "La migliore app della categoria",
+        "Legge ABS, SRS e cambio",
+        "Report di riparazione dal database Bosch"
+      ],
+      "cons": [
+        "Nessun controllo bidirezionale",
+        "Dipende dal telefono (batteria, schermo)"
+      ]
+    },
+    "autel-maxicom-mk808": {
+      "badge": "🔧 Miglior palmare",
+      "review": "Autel MaxiCOM MK808 è il palmare di fascia semiprofessionale. Tablet da 7 pollici, legge tutti i sistemi sulla maggior parte delle auto dal 1996 in poi, controllo bidirezionale (comanda la pompa ABS, il freno di stazionamento elettrico, il riadattamento del corpo farfallato). Due anni di aggiornamenti software inclusi. La scelta giusta se ti occupi da solo di freni o cambio.",
+      "pros": [
+        "Controllo bidirezionale",
+        "Legge tutti i sistemi (motore, ABS, SRS, cambio)",
+        "Tablet da 7 pollici, 2 anni di aggiornamenti"
+      ],
+      "cons": [
+        "Investimento oltre 320 €",
+        "Curva di apprendimento più ripida"
+      ]
+    },
+    "innova-5610": {
+      "badge": "📺 Migliore senza telefono",
+      "review": "Innova 5610 è la scelta giusta per chi non vuole usare lo smartphone nel vano motore. Palmare con schermo a colori, OBD2 completo più ABS e test batteria, assistenza telefonica con tecnici certificati ASE. Costa meno dell'Autel ed è più capace della fascia economica.",
+      "pros": [
+        "Non serve il telefono",
+        "Assistenza telefonica ASE inclusa",
+        "ABS e test batteria"
+      ],
+      "cons": [
+        "Su alcune vetture non legge l'SRS",
+        "Schermo più piccolo dell'Autel"
+      ]
+    },
+    "foxwell-nt301": {
+      "badge": "💸 Miglior solo motore",
+      "review": "FOXWELL NT301 è la scelta giusta se ti servono solo i codici motore. Palmare, schermo a colori, aggiornamenti gratuiti a vita, circa 37 €. Non legge ABS né SRS. Per spegnere la spia motore e leggere i dati freeze-frame è quello con il miglior rapporto qualità-prezzo.",
+      "pros": [
+        "Aggiornamenti gratuiti a vita",
+        "Schermo a colori",
+        "Palmare, senza telefono"
+      ],
+      "cons": [
+        "Solo codici motore (niente ABS o SRS)",
+        "Nessun controllo bidirezionale"
+      ]
+    },
+    "bafx-products-obd2": {
+      "badge": "💸 Miglior spesa minima",
+      "review": "BAFX Products OBD2 Bluetooth Scanner è l'opzione più economica che abbia ancora senso (circa 23 €). Dongle Bluetooth, si abbina a Torque (Android) o OBD Fusion (iOS, a pagamento). Solo codici generici: niente ABS, SRS o sistemi specifici del costruttore. Sotto i 30 € è un punto di partenza onesto.",
+      "pros": [
+        "Circa 23 €, spesa minima",
+        "Compatibile con Torque e OBD Fusion",
+        "Dongle compatto"
+      ],
+      "cons": [
+        "Solo OBD2 generico",
+        "Richiede un'app di terze parti (Torque e simili)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bluedriver-pro-obdii": "Acquistabile su amazon.it o bluedriver.com. L'app è gratuita e gli aggiornamenti del firmware arrivano in automatico.",
+    "autel-maxicom-mk808": "Acquistabile su amazon.it o autel.com. Due anni di aggiornamenti software gratuiti inclusi; dal terzo anno serve un abbonamento da 35-90 €/anno.",
+    "innova-5610": "Acquistabile su amazon.it. L'app Repair Solutions è un complemento facoltativo.",
+    "foxwell-nt301": "Acquistabile su amazon.it. Aggiornamenti gratuiti a vita via USB.",
+    "bafx-products-obd2": "Acquistabile su amazon.it. L'app consigliata da abbinare è Torque Pro (Android, circa 5 €)."
+  },
+  "pinDescription": "Spia motore accesa e officina chiusa? Cinque scanner OBD2 messi alla prova su 12 auto: quali leggono davvero ABS, airbag e cambio e quali si fermano al motore. Da 23 € in su. #obd2 #faidate #auto",
+  "recommendedFor": [
+    {
+      "label": "Automobilisti che vogliono solo spegnere una spia",
+      "offerId": "bafx-products-obd2",
+      "reason": "A circa 23 € il dongle BAFX legge e cancella i codici motore generici senza fare storie: tutto quello che serve per una spia motore occasionale."
+    },
+    {
+      "label": "Chi non è meccanico e vuole capire cosa fare a casa",
+      "offerId": "bluedriver-pro-obdii",
+      "reason": "I report BlueDriver basati sul database Bosch spiegano cosa significa il codice e quali sono gli interventi più frequenti sulla tua auto, non solo la sigla del DTC."
+    },
+    {
+      "label": "Smanettoni che si occupano di freni e cambio",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "Solo l'MK808 offre il controllo bidirezionale per comandare la pompa ABS durante lo spurgo e ritrarre il freno di stazionamento elettrico senza strumenti aggiuntivi."
+    },
+    {
+      "label": "Tecnici e officine che lavorano su più vetture ogni giorno",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "Il tablet autonomo da 7 pollici legge tutti i sistemi su qualsiasi vettura dal 1996 in poi e include due anni di aggiornamenti specifici per costruttore."
+    },
+    {
+      "label": "Meccanici della domenica che preferiscono un palmare al telefono",
+      "offerId": "innova-5610",
+      "reason": "Lo schermo a colori del 5610 si usa anche con i guanti e l'assistenza ASE ti guida su ABS e batteria senza tirare fuori lo smartphone."
+    }
+  ]
 }

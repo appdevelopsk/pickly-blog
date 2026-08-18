@@ -182,5 +182,32 @@
       }
     }
   ],
-  "methodology": "Abbiamo valutato ogni prodotto in base al profilo aromatico, alla trasparenza dell'approvvigionamento, al valore per porzione, all'integrità della confezione e alle prestazioni nei casi d'uso più comuni. Le certificazioni documentate e le recensioni verificate degli utenti sono state confrontate con le dichiarazioni di marketing."
+  "methodology": "Abbiamo valutato ogni prodotto in base al profilo aromatico, alla trasparenza dell'approvvigionamento, al valore per porzione, all'integrità della confezione e alle prestazioni nei casi d'uso più comuni. Le certificazioni documentate e le recensioni verificate degli utenti sono state confrontate con le dichiarazioni di marketing.",
+  "recommendedFor": [
+    {
+      "label": "Uso quotidiano e colazione con i cereali",
+      "offerId": "oatly-oat-milk-original",
+      "reason": "Gusto sempre uguale, buona dose di calcio e vitamina B12, si trova ovunque. È il latte d'avena di riferimento per tutti i giorni."
+    },
+    {
+      "label": "Chi fa il caffè in casa come al bar",
+      "offerId": "oatly-oat-milk-barista",
+      "reason": "Studiato per essere montato: crea una microschiuma stabile e non impazzisce a contatto con l'espresso. È un prodotto diverso dall'Oatly classico."
+    },
+    {
+      "label": "Chi bada al prezzo nell'uso di tutti i giorni",
+      "offerId": "planet-oat-extra-creamy",
+      "reason": "Costa meno di Oatly e ha una consistenza cremosa che si comporta bene con cereali, frullati e caffè freddo. Il miglior rapporto qualità-prezzo se non serve la versione barista."
+    },
+    {
+      "label": "Amanti del cold brew e del caffè ghiacciato",
+      "offerId": "califia-oat-milk-barista",
+      "reason": "La miscela di avena e crema di cocco aggiunge una dolcezza naturale e un corpo più pieno, che regge il ghiaccio meglio dei latti d'avena più leggeri."
+    },
+    {
+      "label": "Chi cerca ingredienti puliti, senza additivi",
+      "offerId": "elmhurst-oat-milk",
+      "reason": "Avena, acqua, sale: nient'altro. Niente gomme, niente emulsionanti, niente oli aggiunti. Per chi legge l'etichetta riga per riga."
+    }
+  ]
 }

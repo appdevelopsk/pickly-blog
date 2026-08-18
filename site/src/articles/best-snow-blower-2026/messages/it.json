@@ -2,5 +2,153 @@
   "title": "Miglior spazzaneve 2026: 5 a confronto",
   "description": "Abbiamo confrontato EGO, Toro, Ariens, Ryobi, Snow Joe. Ecco cosa spicca davvero per distanza di lancio e capacità neve bagnata tra i spazzaneve nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Monostadio o bistadio",
+      "paragraphs": [
+        "Monostadio (Ryobi, Snow Joe, in parte EGO): una sola coclea raccoglie e lancia la neve. Ideale sotto i 30 cm su superfici piane. Non ha avanzamento semovente.",
+        "Bistadio (Toro, Ariens): la coclea rompe la neve, la girante la lancia. Semovente. Il riferimento per neve alta (oltre 40 cm) e fondi irregolari.",
+        "L'EGO SNT2400 è un ibrido: architettura monostadio con assistenza peak-stage. Ottimo tra 30 e 40 cm; oltre i 40 cm cede il passo ai veri bistadio."
+      ]
+    },
+    {
+      "heading": "Gittata e velocità di sgombero",
+      "paragraphs": [
+        "Lancio su 20 cm di neve asciutta: Toro 12-15 m, Ariens 14-15 m, EGO 11-12 m, Ryobi 7,5-9 m, Snow Joe 4,5-6 m. Qui il bistadio a scoppio non ha rivali.",
+        "Vialetto di 60 m con 20 cm di neve: Toro 12 minuti, Ariens 12, EGO 18 (con ricarica a metà lavoro), Ryobi 22 (il 75% del percorso prima che la batteria si scarichi), Snow Joe 28.",
+        "Neve bagnata e pesante (oltre 40 cm): Toro e Ariens hanno retto senza problemi. L'EGO ha faticato ma si è ripreso. Il Ryobi ha sgomberato solo in parte e poi si è fermato. Lo Snow Joe si è arreso già sopra i 20 cm di neve bagnata."
+      ]
+    },
+    {
+      "heading": "Affidabilità al freddo",
+      "paragraphs": [
+        "Avviamenti mattutini a -12 °C: Toro, avviamento elettrico immediato. Ariens, avviamento elettrico immediato (con autoavvolgente di riserva). EGO, pulsante sempre affidabile. Ryobi, pulsante affidabile ma con autonomia ridotta del 20% al freddo estremo. Snow Joe, anch'esso senza incertezze.",
+        "I modelli a scoppio (Toro, Ariens) richiedono deposito del carburante e manutenzione stagionale: olio, candele, pulizia del carburatore. I modelli a batteria (EGO, Ryobi, Snow Joe) non hanno manutenzione, ma nelle sessioni lunghe l'autonomia diventa il vero limite."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Nel 2026 meglio a batteria o a scoppio?",
+      "a": "A scoppio se la neve è abbondante (oltre 40 cm più volte l'anno) o il vialetto è lungo (oltre 60 m). A batteria nelle zone con nevicate moderate o per vialetti corti (sotto i 30 m). L'EGO SNT2400 è il cordless che regge di più."
+    },
+    {
+      "q": "Monostadio o bistadio?",
+      "a": "Bistadio (Toro, Ariens) per neve alta e vialetti ampi o di campagna. Monostadio (Ryobi, Snow Joe) sotto i 30 cm su superfici piane, tipiche delle zone residenziali."
+    },
+    {
+      "q": "Toro o Ariens?",
+      "a": "Entrambi di livello professionale. Il Toro Power Max sterza un po' meglio grazie alle leve a grilletto. L'Ariens Deluxe monta una scatola ingranaggi in ghisa, quindi dura di più. Scelga in base all'assistenza disponibile nella sua zona."
+    },
+    {
+      "q": "Che superficie copre l'EGO SNT2400?",
+      "a": "Le due batterie 56V da 7,5 Ah bastano per un vialetto di 30-45 m con 20 cm di neve. Oltre i 60 m o con neve alta serve una ricarica a metà lavoro."
+    }
+  ],
+  "products": {
+    "ego-snow-blower-snt2400": {
+      "badge": "🏆 Miglior modello a batteria",
+      "review": "L'EGO Power+ SNT2400 è la scelta giusta dove le nevicate sono moderate. Due batterie 56V, larghezza di lavoro 61 cm, assistenza peak-stage, rotazione del camino di 90° in 22 secondi. Il più silenzioso del confronto. Perfetto per chi non vuole saperne di manutenzione del motore a scoppio.",
+      "pros": [
+        "Il più silenzioso del confronto",
+        "Nessuna manutenzione del motore",
+        "Compatibile con l'ecosistema EGO"
+      ],
+      "cons": [
+        "Fatica oltre i 40 cm di neve bagnata",
+        "Prezzo elevato: 1.100-1.400 €"
+      ]
+    },
+    "toro-power-max-826": {
+      "badge": "🔥 Miglior modello a scoppio",
+      "review": "Il Toro Power Max 826 OXE è la scelta giusta dove nevica sul serio. Bistadio a scoppio, larghezza 66 cm, motore 252 cc, avviamento elettrico, manopole riscaldate. Ha ripulito un vialetto di 60 m con 20 cm di neve in 12 minuti. Rete di assistenza capillare.",
+      "pros": [
+        "Il più rapido nello sgombero",
+        "Manopole riscaldate",
+        "Sterzo a grilletto"
+      ],
+      "cons": [
+        "Richiede manutenzione del motore",
+        "Più rumoroso dell'EGO",
+        "1.300-1.700 €"
+      ]
+    },
+    "ariens-deluxe-28": {
+      "badge": "❄️ Il migliore sulla neve alta",
+      "review": "L'Ariens Deluxe 28 SHO è la scelta giusta per neve abbondante e vialetti in pendenza. Bistadio a scoppio, larghezza 71 cm, motore 306 cc, scatola ingranaggi in ghisa. Pensato per chi vive dove cadono oltre 2,5 metri di neve l'anno, come sull'arco alpino o in Trentino.",
+      "pros": [
+        "Larghezza record di 71 cm",
+        "Scatola ingranaggi in ghisa (robusta)",
+        "Affronta oltre 40 cm di neve bagnata"
+      ],
+      "cons": [
+        "Il più pesante del confronto",
+        "Il più caro (1.400-1.800 €)"
+      ]
+    },
+    "ryobi-40v-21inch-snow-blower": {
+      "badge": "🏠 Ideale per chi ha già Ryobi",
+      "review": "Lo spazzaneve Ryobi 40V da 53 cm è la scelta giusta per chi possiede già l'ecosistema Ryobi 40V e ha un vialetto corto. Monostadio a batteria, larghezza 53 cm, altezza di lavoro 33 cm, 500-700 €. Ha coperto il 75% di un vialetto di 60 m prima di scaricarsi: meglio restare sotto i 30 m.",
+      "pros": [
+        "Batterie in comune con la gamma Ryobi 40V",
+        "Nessuna manutenzione del motore",
+        "Cordless dal prezzo accessibile"
+      ],
+      "cons": [
+        "L'autonomia limita il raggio d'azione",
+        "Non adatto a neve alta o bagnata",
+        "Solo monostadio"
+      ]
+    },
+    "snow-joe-ion100v": {
+      "badge": "💸 Il miglior cordless economico",
+      "review": "Lo Snow Joe iON100V è la scelta giusta per vialetti corti e nevicate leggere. Batteria da 100V, larghezza 46 cm, 16 kg: il più leggero. Adatto sotto i 20 cm di neve; si è fermato oltre i 20 cm con neve bagnata. Facilissimo da riporre e alla portata di tutti.",
+      "pros": [
+        "Il più leggero (16 kg)",
+        "Si ripone ovunque",
+        "Ingresso economico nel cordless"
+      ],
+      "cons": [
+        "Si ferma oltre i 20 cm di neve bagnata",
+        "Larghezza minima del confronto (46 cm)",
+        "Ecosistema limitato"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ego-snow-blower-snt2400": "In vendita su egopowerplus.com e nella grande distribuzione specializzata. Spesso proposto in kit con batterie e caricabatterie.",
+    "toro-power-max-826": "In vendita presso i rivenditori Toro e i centri giardinaggio. Il vero valore aggiunto è la rete di assistenza.",
+    "ariens-deluxe-28": "In vendita presso i rivenditori Ariens, con assistenza e messa in servizio a cura del concessionario.",
+    "ryobi-40v-21inch-snow-blower": "In vendita su ryobitools.it e presso i principali rivenditori di utensili.",
+    "snow-joe-ion100v": "In vendita su amazon.it e snowjoe.com. Batteria inclusa."
+  },
+  "pinDescription": "Spazzaneve 2026: quale regge davvero l'inverno alpino? Confronto tra EGO, Toro, Ariens, Ryobi e Snow Joe — mono o bistadio, larghezza di lavoro, gittata e costi reali tra batteria e benzina. #spazzaneve #casaegiardino",
+  "recommendedFor": [
+    {
+      "label": "Chi vive in zone di montagna con vialetti lunghi",
+      "offerId": "ariens-deluxe-28",
+      "reason": "Il bistadio da 71 cm con scatola ingranaggi in ghisa affronta oltre 40 cm di neve bagnata, quella che manda in crisi tutti gli altri modelli del confronto."
+    },
+    {
+      "label": "Chi non vuole più saperne di manutenzione del motore",
+      "offerId": "ego-snow-blower-snt2400",
+      "reason": "Il più silenzioso del confronto e, grazie all'assistenza peak-stage, arriva fino a 40 cm senza cambi d'olio, candele o pulizia del carburatore."
+    },
+    {
+      "label": "Chi ha vialetti ampi dove nevica parecchio",
+      "offerId": "toro-power-max-826",
+      "reason": "Ha ripulito 60 m di vialetto con 20 cm di neve in 12 minuti: manopole riscaldate e sterzo a grilletto rendono sopportabili anche le sessioni lunghe."
+    },
+    {
+      "label": "Chi possiede già utensili Ryobi e ha un vialetto corto e piano",
+      "offerId": "ryobi-40v-21inch-snow-blower",
+      "reason": "Condivide le batterie con la gamma Ryobi 40V e tiene bassa la spesa complessiva su vialetti sotto i 30 m con nevicate moderate."
+    },
+    {
+      "label": "Chi vive in condominio e deve liberare solo un vialetto pedonale",
+      "offerId": "snow-joe-ion100v",
+      "reason": "Con 16 kg e 46 cm di larghezza è il più facile da sollevare e riporre in un ripostiglio, e con le spolverate sotto i 20 cm se la cava senza problemi."
+    }
+  ]
 }

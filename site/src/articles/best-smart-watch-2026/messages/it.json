@@ -82,5 +82,109 @@
     "amazfit-gtr-4": "Scelta di valore guidata dal design — quadrante rotondo AMOLED da 1,43 pollici, GNSS bibanda 5 sistemi a questo prezzo, batteria realistica da 10-12 giorni, oltre 150 modalità sportive tramite app Zepp. La funzionalità di risposta alle notifiche è la più debole in questo confronto (risposte predefinite su Android, essenzialmente assente su iOS); l'ecosistema di app Zepp OS di terze parti è piccolo; la garanzia tramite il retail generico piuttosto che la rete di negozi del marchio flagship."
   },
   "pinDescription": "Cinque smartwatch a confronto nel 2026 dal Fitbit Charge 6 entry-level al Garmin Fenix 8 di punta. Durata della batteria, precisione GPS, lock-in dell'ecosistema e i limiti da dispositivo medico che ogni pagina di marketing glissa.",
-  "methodology": "Ogni prodotto è stato valutato in base alle specifiche documentate, ai benchmark di terze parti e alle recensioni verificate degli utenti. Abbiamo assegnato un punteggio a funzionalità, prestazioni, qualità costruttiva, compatibilità con l'ecosistema e costo totale di proprietà."
+  "methodology": "Ogni prodotto è stato valutato in base alle specifiche documentate, ai benchmark di terze parti e alle recensioni verificate degli utenti. Abbiamo assegnato un punteggio a funzionalità, prestazioni, qualità costruttiva, compatibilità con l'ecosistema e costo totale di proprietà.",
+  "products": [
+    {
+      "offerId": "apple-watch-series-10",
+      "badge": "Il quotidiano per iPhone",
+      "grade": "A+",
+      "review": "Apple Watch Series 10 è la scelta scontata per chi ha un iPhone e lo smartwatch più rifinito di questo confronto. L'OLED always-on da 1,96 pollici è il più ampio della selezione, la cassa è circa il 10% più sottile rispetto al Series 9, ed ECG certificato, notifiche di fibrillazione atriale, rilevamento delle apnee notturne e misurazione dell'ossigeno nel sangue (disponibile sulle unità vendute fuori dagli Stati Uniti, Italia inclusa) coprono tutte le funzioni salute che contano davvero. Con Apple Pay si paga in negozio e ai tornelli della metropolitana, e il catalogo di app di terze parti è il più ricco del gruppo. Con display sempre attivo e battito cardiaco continuo l'autonomia si ferma a 18-22 ore: la ricarica quotidiana è il prezzo del biglietto. Con Android non si accoppia in alcun modo, quindi cambiare piattaforma significa di fatto mandare in pensione l'orologio. Per chi in casa usa solo iPhone ed è dentro l'ecosistema Apple, è la risposta giusta.",
+      "pros": [
+        "ECG certificato con notifiche di fibrillazione atriale e rilevamento delle apnee notturne",
+        "Apple Pay accettato nei negozi e ai tornelli dei mezzi pubblici",
+        "Il catalogo di app di terze parti più ampio del confronto"
+      ],
+      "cons": [
+        "18-22 ore di autonomia reale: ricarica tutti i giorni",
+        "Nessun accoppiamento con Android: se cambi telefono, l'orologio va in pensione"
+      ]
+    },
+    {
+      "offerId": "garmin-fenix-8-47mm",
+      "badge": "Ammiraglia endurance",
+      "grade": "A",
+      "review": "Garmin Fenix 8 47mm è l'ammiraglia per l'atleta di endurance e l'orologio outdoor più completo di questo confronto: display AMOLED con vetro zaffiro, GPS multi-banda a doppia frequenza che tiene i 3-8 m anche tra i palazzi del centro, navigazione su mappe topografiche, impermeabilità a 40 m, modalità computer subacqueo e le analisi di carico di allenamento e recupero più approfondite di tutta la selezione. L'autonomia dichiarata è di 16-18 giorni in modalità smartwatch, con 10-12 giorni realistici allenandosi ogni giorno col GPS. Da ammiraglia qual è, per chi si allena senza pretese agonistiche è sovrabbondante: il più economico Forerunner 265 copre benissimo tre corse a settimana alla metà del prezzo. Il sistema di menu richiede 2-4 settimane vere per essere padroneggiato, e la cassa da 47 mm e 73 g è ingombrante su polsi sotto i 16 cm di circonferenza. Per trail running, triathlon, alpinismo e immersioni, qui non ha rivali.",
+      "pros": [
+        "GPS multi-banda a doppia frequenza e navigazione su mappe topografiche",
+        "10-12 giorni di autonomia reale allenandosi ogni giorno col GPS",
+        "Le analisi di carico e recupero più approfondite del confronto"
+      ],
+      "cons": [
+        "Da ammiraglia: eccessivo per chi non fa agonismo",
+        "Cassa da 47 mm e 73 g ingombrante sui polsi piccoli"
+      ]
+    },
+    {
+      "offerId": "fitbit-charge-6",
+      "badge": "Rapporto qualità-prezzo",
+      "grade": "A",
+      "review": "Fitbit Charge 6 è la scelta più conveniente tra i braccialetti fitness: AMOLED da 1,04 pollici, 6-7 giorni reali di autonomia con battito cardiaco continuo, GPS integrato per la corsa e integrazione Google che porta al polso le indicazioni di Google Maps e i comandi di YouTube Music. L'ecosistema Fitbit Premium analizza sonno e stress meglio di quasi tutti i rivali di questa fascia. L'hardware per l'ECG c'è, ma la funzione ha restrizioni geografiche e a maggio 2026 non è attiva in alcuni mercati: meglio verificare la disponibilità prima di farci affidamento. Google Pay è accettato meno capillarmente di Apple Pay, il formato a bracciale limita la personalizzazione dei quadranti e il display è piccolo per interazioni in stile app. Per monitorare attività e sonno con le notifiche al polso al prezzo più basso del confronto, è difficile da battere.",
+      "pros": [
+        "6-7 giorni reali di autonomia con monitoraggio cardiaco continuo",
+        "Indicazioni di Google Maps e comandi YouTube Music al polso",
+        "Fitbit Premium analizza bene sonno e stress"
+      ],
+      "cons": [
+        "ECG soggetto a restrizioni geografiche e non disponibile in alcuni mercati a maggio 2026",
+        "Google Pay meno accettato di Apple Pay"
+      ]
+    },
+    {
+      "offerId": "huawei-watch-gt-5",
+      "badge": "Autonomia record per Android",
+      "grade": "B+",
+      "review": "HUAWEI Watch GT 5 46mm è la scelta ideale per chi usa Android e vuole autonomia: AMOLED da 1,43 pollici, GNSS dual-band sulla variante 46 mm Pro (la 46 mm standard è a singola frequenza, verificare prima dell'acquisto) e la migliore autonomia reale del confronto, 12-14 giorni con uso normale e battito cardiaco continuo. L'impermeabilità 5 ATM copre il nuoto, l'app HUAWEI Health offre un monitoraggio completo di sonno e stress e le versioni in acciaio inox danno la sensazione più premium a questo prezzo. Il compromesso strutturale però pesa: niente Google Play Store, niente Google Pay, nessuna app Strava o Spotify di terze parti — gli allenamenti arrivano su Strava passando per HUAWEI Health, con qualche attrito in più. Su iOS la risposta alle notifiche è di fatto assente, e la rete di assistenza HUAWEI in Italia è meno capillare di quella di Apple, Garmin o Fitbit. Se l'autonomia conta più delle app, il valore c'è.",
+      "pros": [
+        "12-14 giorni di autonomia reale con monitoraggio cardiaco continuo",
+        "GNSS dual-band sulla variante 46 mm Pro",
+        "Impermeabilità 5 ATM e versioni in acciaio inox"
+      ],
+      "cons": [
+        "Niente Google Play Store, Google Pay o app dirette Strava/Spotify",
+        "Rete di assistenza meno capillare rispetto ad Apple/Garmin/Fitbit"
+      ]
+    },
+    {
+      "offerId": "amazfit-gtr-4",
+      "badge": "Quadrante tondo con GPS serio",
+      "grade": "B+",
+      "review": "Amazfit GTR 4 è la scelta che punta sul design senza rinunciare alla sostanza: AMOLED tondo da 1,43 pollici, GNSS dual-band a 5 sistemi a un prezzo a cui quasi tutti i rivali offrono la singola frequenza, 10-12 giorni reali di autonomia con battito continuo e mezz'ora di GPS al giorno, oltre 150 modalità sportive tramite l'app Zepp e una finitura che regge bene anche fuori dalla palestra. La precisione GPS è il punto forte: il dual-band a questa cifra è raro. La gestione delle notifiche è la più debole del confronto: su Android le risposte si limitano a frasi preimpostate e su iOS sono praticamente assenti. Il catalogo di app di terze parti di Zepp OS è ridotto, la sincronizzazione con Strava funziona ma le app dedicate scarseggiano, e la garanzia passa dalla distribuzione generalista anziché da una rete di store ufficiali. Per un orologio tondo con GPS serio alla metà del prezzo di Apple e Garmin, il riconoscimento è meritato.",
+      "pros": [
+        "GNSS dual-band a 5 sistemi in fascia medio-alta",
+        "10-12 giorni di autonomia reale con battito continuo e GPS quotidiano",
+        "Design tondo curato e oltre 150 modalità sportive"
+      ],
+      "cons": [
+        "La gestione delle risposte alle notifiche più debole del confronto",
+        "Catalogo di app di terze parti di Zepp OS ridotto"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Chi ha un iPhone e vuole la massima integrazione con iOS",
+      "offerId": "apple-watch-series-10",
+      "reason": "ECG certificato, Apple Pay accettato ovunque, rilevamento delle apnee notturne e il catalogo di app più ampio ne fanno l'orologio quotidiano più completo per chi vive nell'ecosistema iOS."
+    },
+    {
+      "label": "Atleti di endurance che gareggiano",
+      "offerId": "garmin-fenix-8-47mm",
+      "reason": "GPS multi-banda a doppia frequenza, navigazione su mappe topografiche, modalità computer subacqueo e 10-12 giorni reali di autonomia con GPS quotidiano reggono trail running, triathlon e spedizioni."
+    },
+    {
+      "label": "Chi vuole monitorare attività e sonno con un budget ridotto",
+      "offerId": "fitbit-charge-6",
+      "reason": "Prezzo d'ingresso, 6-7 giorni reali di autonomia, GPS integrato e le analisi di sonno e stress di Fitbit Premium coprono tutto il necessario alla cifra più bassa del confronto."
+    },
+    {
+      "label": "Utenti Android che mettono l'autonomia davanti alle app Google",
+      "offerId": "huawei-watch-gt-5",
+      "reason": "12-14 giorni reali di autonomia, impermeabilità 5 ATM e una costruzione curata di fascia media si adattano a chi può fare a meno di Google Play e Google Pay."
+    },
+    {
+      "label": "Chi cerca un orologio tondo elegante ma con un GPS serio",
+      "offerId": "amazfit-gtr-4",
+      "reason": "GNSS dual-band a 5 sistemi e 10-12 giorni reali di autonomia in fascia medio-alta offrono una precisione GPS da ammiraglia in un design tondo, alla metà del prezzo di Apple e Garmin."
+    }
+  ]
 }
