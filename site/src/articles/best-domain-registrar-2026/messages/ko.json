@@ -2,5 +2,149 @@
   "title": "2026 최고의 도메인 등록업체: 5종 비교",
   "description": "Porkbun, Namecheap, Cloudflare, GoDaddy, Squarespace를 비교했습니다. 2026년 진짜 갱신 가격과 추가 판매 공격성이 좋은 도메인 등록업체는 무엇인지.",
   "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다.",
-  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다."
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다.",
+  "sections": [
+    {
+      "heading": "실제 가격 (첫해 할인가 아닌 갱신가)",
+      "paragraphs": [
+        ".com 2년차 갱신가: Porkbun 약 ₩14,500, Cloudflare 약 ₩13,700(원가), Namecheap 약 ₩21,000, GoDaddy 약 ₩35,000, Squarespace Domains 약 ₩28,000.",
+        "절대 가격만 보면 Cloudflare가 압승입니다. 마진 없이 레지스트리 원가 그대로죠. 단, 목적은 Cloudflare DNS/프록시에 묶어두는 것입니다. Porkbun은 마진을 붙이고도 가장 저렴합니다.",
+        "GoDaddy의 갱신가(Porkbun의 2.4배)는 전형적인 패턴입니다. 첫해는 싸게, 갱신은 비싸게. 귀찮아서 그대로 쓰다가 도메인 하나당 매년 ₩20,000 이상을 더 내는 경우가 많습니다."
+      ]
+    },
+    {
+      "heading": "WHOIS 프라이버시",
+      "paragraphs": [
+        "무료 제공: Porkbun, Namecheap, Cloudflare, Squarespace Domains. GoDaddy는 유료로 연 약 ₩14,000.",
+        "WHOIS 프라이버시는 이름, 주소, 이메일, 전화번호를 공개 등록 정보에서 가려줍니다. 없으면 연락처가 그대로 검색되고 스팸으로 이어집니다.",
+        "WHOIS 프라이버시에 돈을 받는 GoDaddy는 시대에 뒤떨어졌습니다. 요즘 레지스트라는 대부분 기본 무료입니다."
+      ]
+    },
+    {
+      "heading": "결제 과정의 끼워팔기",
+      "paragraphs": [
+        "결제 단계에서 거절 클릭을 해야 하는 추가 상품 수: Porkbun 0개, Cloudflare 0개, Namecheap 2개, GoDaddy 8개 이상(프라이버시, 이메일, 보안, 비즈니스 메일, 웹호스팅, 빌더, SSL, M365), Squarespace Domains 1개.",
+        "GoDaddy 결제창이 가장 공격적입니다. 방심하면 필요 없는 서비스로 ₩70,000 넘게 붙습니다. Porkbun과 Cloudflare는 결제창이 깔끔합니다."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Cloudflare와 Porkbun 중 어디가 나을까요?",
+      "a": "이미 Cloudflare DNS/프록시를 쓰고 있다면 Cloudflare. 다른 플랫폼에 묶이지 않고 자체적으로 수익을 내는 레지스트라를 원한다면 Porkbun입니다."
+    },
+    {
+      "q": "GoDaddy에서 옮기는 게 좋을까요?",
+      "a": "네. 도메인당 연 ₩20,000 이상 절약됩니다. 이전 절차도 간단합니다(마지막 변경 후 60일 경과 필요). 이전 수수료는 보통 받는 쪽 레지스트라가 부담합니다."
+    },
+    {
+      "q": ".com이 여전히 최선의 TLD인가요?",
+      "a": "네. 인지도가 가장 높고, 고객이 기억하기 쉬우며, SEO상 불이익도 없습니다. .io나 .ai도 용도에 따라 괜찮지만 기본은 .com입니다."
+    },
+    {
+      "q": "도메인을 한꺼번에 관리하려면?",
+      "a": "일괄 관리 도구는 Cloudflare와 Namecheap이 가장 낫습니다. Porkbun도 점점 좋아지는 중입니다. GoDaddy에도 있지만 화면이 복잡합니다."
+    }
+  ],
+  "products": {
+    "porkbun-registrar": {
+      "badge": "🏆 가성비 1위",
+      "review": "오래 봐도 저렴한 곳을 찾는다면 Porkbun입니다. .com 갱신 약 ₩14,500, WHOIS 프라이버시 무료, 호스팅 묶으면 SSL도 무료, 결제창 끼워팔기 0개. 2026년 새 도메인 등록의 기본값입니다.",
+      "pros": [
+        "장기적으로 가장 저렴한 가격",
+        "WHOIS 프라이버시 무료",
+        "결제창 끼워팔기 없음"
+      ],
+      "cons": [
+        "Namecheap보다 인지도가 낮음",
+        "전화 지원 없음"
+      ]
+    },
+    "namecheap-registrar": {
+      "badge": "🎯 무난한 대형 업체",
+      "review": "검증된 대형 업체를 원한다면 Namecheap입니다. .com 갱신 약 ₩21,000, WHOIS 프라이버시 평생 무료, 가격 정책이 투명합니다. DNS 관리 기능도 탄탄하고 2000년부터 이어온 안정성이 있습니다.",
+      "pros": [
+        "WHOIS 프라이버시 평생 무료",
+        "투명한 가격 정책",
+        "탄탄한 DNS 관리 기능"
+      ],
+      "cons": [
+        "Porkbun보다 비쌈",
+        "결제 단계에 추가 상품 권유 있음"
+      ]
+    },
+    "cloudflare-registrar": {
+      "badge": "💰 원가 제공",
+      "review": "Cloudflare DNS를 쓰고 있다면 원가 그대로인 Cloudflare Registrar가 답입니다. .com 갱신 약 ₩13,700(레지스트리 원가), WHOIS 프라이버시 무료, 마진 0. 단 도메인이 Cloudflare DNS를 써야 하고, 레지스트라 단계의 이메일 포워딩은 없습니다.",
+      "pros": [
+        "원가 그대로 (최저가)",
+        "끼워팔기 일절 없음",
+        "WHOIS 프라이버시 무료"
+      ],
+      "cons": [
+        "Cloudflare DNS 사용 필수",
+        "이메일 포워딩 없음"
+      ]
+    },
+    "godaddy-registrar": {
+      "badge": "🚫 비추천",
+      "review": "2026년 기준 피해야 할 레지스트라입니다. .com 갱신 약 ₩35,000(Porkbun의 2.4배), WHOIS 프라이버시 연 약 ₩14,000 별도, 결제창 끼워팔기 8개 이상. 오래됐다는 것 말고 이점이 없습니다. 다른 곳으로 옮기세요.",
+      "pros": [
+        "브랜드 인지도는 높음"
+      ],
+      "cons": [
+        "갱신가가 가장 비쌈",
+        "WHOIS 프라이버시 유료",
+        "공격적인 결제창 끼워팔기"
+      ]
+    },
+    "google-domains-squarespace": {
+      "badge": "🪜 구글 도메인 후속",
+      "review": "Squarespace Domains(구 Google Domains)는 그 단순한 사용 경험을 그대로 물려받았습니다. 2023년 Squarespace가 인수했습니다. .com 갱신 약 ₩28,000, WHOIS 프라이버시 무료, 화면이 깔끔합니다.",
+      "pros": [
+        "Google Domains의 UX 계승",
+        "WHOIS 프라이버시 무료",
+        "깔끔한 결제 과정"
+      ],
+      "cons": [
+        "Porkbun·Cloudflare보다 비쌈",
+        "Squarespace 빌더 권유가 있음"
+      ]
+    }
+  },
+  "offerNotes": {
+    "porkbun-registrar": "porkbun.com에서 등록 — Porkbun 호스팅과 묶으면 무료 SSL 혜택이 가장 좋습니다.",
+    "namecheap-registrar": "namecheap.com에서 등록 — 블랙프라이데이 할인을 노려보세요.",
+    "cloudflare-registrar": "cloudflare.com에서 등록 — Cloudflare 계정이 필요합니다.",
+    "godaddy-registrar": "godaddy.com에서 등록 — 다만 1년 안에 다른 곳으로 옮기세요.",
+    "google-domains-squarespace": "squarespace.com/domains에서 등록 — 기존 Google Domains 계정은 이관 완료됐습니다."
+  },
+  "pinDescription": "도메인 살 때 첫해 가격만 보면 손해입니다. Porkbun·Namecheap·Cloudflare·GoDaddy·Squarespace 5곳의 진짜 갱신 가격과 WHOIS 프라이버시 무료 여부를 정리했어요. GoDaddy 쓰고 계시면 꼭 확인하세요.",
+  "recommendedFor": [
+    {
+      "label": "첫 도메인을 등록하는 1인 개발자·창업자",
+      "offerId": "porkbun-registrar",
+      "reason": "갱신 약 ₩14,500에 끼워팔기 없고 WHOIS 프라이버시도 무료라, 처음부터 비용이 정직하게 유지됩니다."
+    },
+    {
+      "label": "검증된 대형 레지스트라를 원하는 소상공인",
+      "offerId": "namecheap-registrar",
+      "reason": "투명한 가격과 평생 무료 WHOIS 프라이버시로, 예상 밖 비용 없이 안정적인 DNS가 필요한 사업자에게 맞습니다."
+    },
+    {
+      "label": "이미 Cloudflare 프록시로 사이트를 운영 중인 개발자",
+      "offerId": "cloudflare-registrar",
+      "reason": "Cloudflare DNS가 이미 존을 관리 중이라면 원가 약 ₩13,700 갱신이 그대로 연결됩니다."
+    },
+    {
+      "label": "익숙하고 깔끔한 화면을 찾는 구 Google Domains 사용자",
+      "offerId": "google-domains-squarespace",
+      "reason": "Google Domains의 UX를 그대로 물려받았고, 이관된 계정도 WHOIS 프라이버시 무료가 유지됩니다."
+    },
+    {
+      "label": "갱신 비용을 절반으로 줄이려는 GoDaddy 사용자",
+      "offerId": "godaddy-registrar",
+      "reason": "약 ₩35,000 갱신가에 WHOIS 프라이버시까지 유료라, 옮기기만 해도 도메인당 매년 ₩20,000 이상 아낄 수 있습니다."
+    }
+  ]
 }

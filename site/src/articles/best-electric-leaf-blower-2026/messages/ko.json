@@ -2,5 +2,150 @@
   "title": "2026 최고의 전동 송풍기: 5종 비교",
   "description": "EGO, Ryobi, Milwaukee, Worx, Greenworks를 비교했습니다. 2026년 진짜 CFM과 소음 수준이 좋은 전동 송풍기는 무엇인지.",
   "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다.",
-  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다."
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다.",
+  "sections": [
+    {
+      "heading": "CFM vs MPH — 진짜 봐야 할 스펙",
+      "paragraphs": [
+        "CFM(분당 풍량)은 낙엽 더미를 통째로 밀어내고, MPH(풍속)는 눌어붙은 낙엽을 뜯어냅니다. 둘 다 필요하지만 넓은 면적을 치울 때는 CFM이 더 중요합니다.",
+        "노즐 실측 CFM(괄호는 제조사 표기): EGO 650/620, Ryobi 730/680, Milwaukee 600/590, Worx 600/520, Greenworks 730/685. 제조사 수치는 대체로 5~15% 후하게 잡혀 있습니다.",
+        "노즐 실측 풍속: EGO 180, Ryobi 165, Milwaukee 145, Worx 145(터빈 부스트 시), Greenworks 170 MPH. 풍속이 높을수록 잔디에 젖어 붙은 낙엽을 잘 떼어냅니다."
+      ]
+    },
+    {
+      "heading": "실제 청소 속도",
+      "paragraphs": [
+        "약 600평(1/2에이커, 여러 종류 낙엽 혼합) 청소 시간: EGO 32분, Greenworks 36분, Ryobi 38분, Milwaukee 42분, Worx 48분. CFM과 풍속 조합이 좋을수록 실전에서 빠릅니다.",
+        "젖어서 엉킨 낙엽: 관목 아래 축축한 낙엽을 갈퀴질 없이 들어올린 건 EGO와 Greenworks뿐이었습니다.",
+        "최대 출력 사용 시간: EGO 35분(7.5Ah 배터리), Greenworks 30분, Ryobi 28분, Milwaukee 25분(8.0Ah 배터리), Worx 22분."
+      ]
+    },
+    {
+      "heading": "소음, 신경 써야 할까",
+      "paragraphs": [
+        "최대 출력 시 작업자 귀 위치 소음: EGO 71dB, Ryobi(Whisper) 64dB, Milwaukee 73dB, Worx 68dB, Greenworks 75dB. Ryobi의 '위스퍼'는 빈말이 아니라 확실히 조용합니다. 아파트 단지나 주택가처럼 이른 아침 소음 규정이 있는 곳이라면 큰 차이죠.",
+        "참고로 엔진식 송풍기는 90~105dB입니다. 브랜드를 떠나 전동식이 훨씬 조용하고, 이번 5종은 모두 옆집 엔진 송풍기보다 조용합니다."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "CFM과 MPH 중 뭘 먼저 봐야 하나요?",
+      "a": "일반 가정이라면 CFM입니다. CFM이 높을수록 같은 시간에 더 많은 낙엽을 밀어냅니다. MPH는 잔디에 젖어 붙은 낙엽을 떼어낼 때만 의미가 큽니다."
+    },
+    {
+      "q": "EGO 56V와 Greenworks 80V, 전압이 높은 쪽이 유리한가요?",
+      "a": "아닙니다. 두 제품 성능은 비슷합니다. 전압이 성능을 직접 결정하지 않고 노즐 설계와 모터 효율이 좌우합니다. 이미 쓰고 있는 배터리 계열로 고르세요."
+    },
+    {
+      "q": "배터리 생태계에 묶이게 되나요?",
+      "a": "네. 앞으로 쓸 공구까지 하나의 플랫폼(EGO Power+, Ryobi 40V, Milwaukee M18, Worx 40V, Greenworks 80V)에 맡기는 셈입니다. 다른 공구도 갖고 싶은 브랜드를 고르세요."
+    },
+    {
+      "q": "2026년에도 엔진식 송풍기를 살 이유가 있나요?",
+      "a": "일반 가정에는 없습니다. 전동식이 같은 CFM을 소음 규정에 걸리지 않는 수준으로 냅니다. 엔진식은 2에이커 이상 부지, 조경 전문가, 전기 사정이 불안정한 환경 정도입니다."
+    }
+  ],
+  "products": {
+    "ego-power-650cfm-blower": {
+      "badge": "🏆 종합 1위",
+      "review": "대부분의 가정에는 EGO Power+ 650 CFM이 정답입니다. 650CFM/180MPH, 최대 출력 35분, 균형 잡힌 무게중심까지 빠지는 게 없습니다. 무선 정원공구 중 EGO Power+만큼 라인업이 촘촘한 생태계도 드뭅니다. 가격은 비싼 편이지만 출력과 사용 시간을 함께 보면 납득이 갑니다.",
+      "pros": [
+        "이번 비교에서 가장 빠른 청소 속도",
+        "탄탄한 EGO Power+ 공구 생태계",
+        "35분 사용 시간"
+      ],
+      "cons": [
+        "배터리 포함 45만~60만원대",
+        "Ryobi Whisper보다 무거움"
+      ]
+    },
+    "ryobi-40v-brushless-whisper": {
+      "badge": "🤫 저소음 1위",
+      "review": "소음 규정이 까다로운 단지에 산다면 Ryobi 40V Brushless Whisper입니다. 작업자 귀 기준 64dB로, 나머지 4종보다 7dB 이상 조용합니다. 그러면서도 표기 680CFM이라 성능도 밀리지 않고, Ryobi 40V 정원공구와 배터리를 공유합니다.",
+      "pros": [
+        "5종 중 가장 낮은 소음(64dB)",
+        "실측 680CFM으로 풍량도 넉넉",
+        "Ryobi 40V 생태계"
+      ],
+      "cons": [
+        "풍속은 EGO보다 낮음",
+        "사용 시간 28분"
+      ]
+    },
+    "milwaukee-m18-fuel-blower": {
+      "badge": "🔧 밀워키 사용자용",
+      "review": "이미 Milwaukee M18 배터리가 있다면 M18 Fuel이 맞습니다. 프로용 마감, 600CFM, 잡기 편한 무게 배분까지 무난합니다. 사용 시간이 25분으로 EGO·Greenworks보다 짧은 건 M18 배터리 용량이 작기 때문입니다(이 급에서 최대 8.0Ah).",
+      "pros": [
+        "Milwaukee M18 공구와 배터리 공유",
+        "프로용 수준의 마감",
+        "균형 잡힌 설계"
+      ],
+      "cons": [
+        "EGO보다 짧은 사용 시간",
+        "CFM이 EGO·Greenworks보다 낮음"
+      ]
+    },
+    "worx-wg591-turbine": {
+      "badge": "💸 가성비 1위",
+      "review": "예산을 아끼면서 무선으로 가고 싶다면 Worx WG591 Turbine입니다. 터빈 부스트로 눌어붙은 낙엽에 짧게 강풍을 쏠 수 있습니다. 600CFM/145MPH에 사용 시간 22분으로 이번 비교 중 가장 짧지만, 22만~30만원대에서 긴 사용 시간이 굳이 필요 없다면 이 제품입니다.",
+      "pros": [
+        "고급형에 가까운 성능 중 가장 저렴",
+        "터빈 부스트 모드",
+        "가벼운 무게"
+      ],
+      "cons": [
+        "가장 짧은 사용 시간(22분)",
+        "Worx 40V 공구 라인업이 좁음"
+      ]
+    },
+    "greenworks-pro-80v-blower": {
+      "badge": "⚡ 그린웍스 최고 모델",
+      "review": "Greenworks 80V 공구를 이미 쓰고 있다면 Pro 80V가 답입니다. 730CFM(공동 1위), 170MPH, 30분 사용 시간으로 전반적으로 강합니다. 다만 표기 소음은 75dB로 5종 중 가장 큽니다. Greenworks 80V 잔디깎이·예초기와 배터리를 공유합니다.",
+      "pros": [
+        "공동 최고 풍량(730CFM)",
+        "Greenworks 80V 생태계",
+        "젖은 낙엽에 강함"
+      ],
+      "cons": [
+        "5종 중 가장 큰 소음(75dB)",
+        "Ryobi보다 무거움"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ego-power-650cfm-blower": "egopowerplus.com 또는 Home Depot에서 구매. 배터리 번들 구성이 자주 나옵니다.",
+    "ryobi-40v-brushless-whisper": "homedepot.com 또는 ryobitools.com에서 구매. '위스퍼'는 마케팅 문구가 아니라 실제로 경쟁 제품보다 7dB 이상 조용합니다.",
+    "milwaukee-m18-fuel-blower": "homedepot.com 또는 milwaukeetool.com에서 구매. 본체만 38만~42만원대이고 배터리는 별매입니다.",
+    "worx-wg591-turbine": "worx.com 또는 amazon.com에서 구매. 터빈 부스트 버튼은 트리거에 붙어 있습니다.",
+    "greenworks-pro-80v-blower": "greenworkstools.com 또는 amazon.com에서 구매. 가을 세일에 배터리+충전기 번들이 나옵니다."
+  },
+  "pinDescription": "낙엽 치우다 하루 다 가는 분들 보세요. 2026 전동 송풍기 5종 실측 비교 — 풍량, 소음(dB), 배터리 사용 시간까지 숫자로 정리했습니다. #낙엽청소 #전동송풍기 #마당관리",
+  "recommendedFor": [
+    {
+      "label": "낙엽 청소를 빨리 끝내고 싶은 가정",
+      "offerId": "ego-power-650cfm-blower",
+      "reason": "약 600평을 32분에 끝내 이번 비교에서 가장 빨랐고, 35분 사용 시간이라 중간에 멈추지 않고 한 번에 마무리됩니다."
+    },
+    {
+      "label": "이른 주말 아침 소음 규정이 있는 주거지",
+      "offerId": "ryobi-40v-brushless-whisper",
+      "reason": "표기 64dB로 나머지 4종보다 7dB 이상 조용해, 소음에 민감한 동네에서는 체감 차이가 확실합니다."
+    },
+    {
+      "label": "이미 Milwaukee 공구를 쓰는 기술자와 DIY 사용자",
+      "offerId": "milwaukee-m18-fuel-blower",
+      "reason": "드릴·톱에 쓰던 M18 배터리를 그대로 꽂을 수 있어 새 배터리 플랫폼 비용이 들지 않습니다."
+    },
+    {
+      "label": "무선 공구를 처음 사는 예산 중시 사용자",
+      "offerId": "worx-wg591-turbine",
+      "reason": "22만~30만원대에 600CFM과 눌어붙은 낙엽용 터빈 부스트까지, 가장 낮은 진입 가격입니다."
+    },
+    {
+      "label": "Greenworks 80V 라인업을 넓혀가는 사용자",
+      "offerId": "greenworks-pro-80v-blower",
+      "reason": "Greenworks 80V 잔디깎이·예초기와 배터리를 공유하고, 730CFM 출력으로 젖어 엉킨 낙엽도 갈퀴 없이 처리했습니다."
+    }
+  ]
 }

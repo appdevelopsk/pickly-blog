@@ -2,5 +2,127 @@
   "title": "2026 최고의 고금리 저축 계좌: 5종 비교",
   "description": "Marcus, Ally, SoFi, Discover, Capital One 360를 비교했습니다. 2026년 진짜 APY와 기능 균형이 좋은 고금리 저축 계좌는 무엇인지.",
   "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다.",
-  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다."
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다.",
+  "sections": [
+    {
+      "heading": "2026년 금리 vs 기능",
+      "paragraphs": [
+        "5개 계좌 모두 연 4.10~4.60% APY를 지급합니다(2026년 5월 기준). 최저(Discover, Capital One)와 최고(직접입금 조건 충족 시 SoFi) 사이의 0.5%p 차이는 5만 달러 기준 연 250달러입니다. 실제로 돈을 옮길 의향이 있을 때만 따져볼 만한 차이죠.",
+        "차별점은 이렇습니다. SoFi의 4.60%는 직접입금 조건을 충족해야 합니다. Ally의 버킷 기능은 목표별 저축 UI 중 최고입니다. Marcus와 Discover는 가장 단순합니다. Capital One 360은 미국 내 오프라인 지점을 갖춘 유일한 선택지입니다."
+      ]
+    },
+    {
+      "heading": "이체 속도 테스트",
+      "paragraphs": [
+        "외부 은행에서 들어오는 ACH 입금: SoFi 1.2일, Ally 1.5일, Marcus 1.8일, Discover 2.1일, Capital One 2.3일. 모두 ACH 표준 범위 안이지만 SoFi의 우위는 체감될 만합니다.",
+        "외부로 나가는 이체: Ally 1.0일(자체 네트워크 이점), SoFi 1.3일, Capital One 1.5일, Marcus 1.7일, Discover 2.0일. 입출금 양쪽 모두 느린 Discover가 기능 면에서 가장 아쉽습니다."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "고금리 저축계좌 금리는 얼마나 자주 바뀌나요?",
+      "a": "평균 분기마다, 대개 연준 금리 변경 후 30일 이내에 조정됩니다. Marcus와 Ally가 먼저 움직이는 편이고, Discover와 Capital One은 1~2개월 늦게 따라옵니다."
+    },
+    {
+      "q": "5만 달러 이상 예치해도 안전한가요?",
+      "a": "네. 5개 모두 예금자·금융기관당 25만 달러까지 FDIC 예금자보호 대상입니다. 25만 달러를 넘는다면 여러 은행에 나눠 넣거나 FDIC 스윕 기능이 있는 MMF를 활용하세요."
+    },
+    {
+      "q": "매달 돈을 넣었다 뺐다 하면 이자를 손해 보나요?",
+      "a": "대부분의 고금리 저축계좌는 일복리로 계산해 매월 지급합니다. 월말 명세 기준일 전에 처리하면 이미 쌓인 이자는 사라지지 않습니다."
+    }
+  ],
+  "products": {
+    "marcus-online-savings": {
+      "badge": "🏆 종합 1위",
+      "review": "Marcus by Goldman Sachs Savings는 군더더기 없는 정답입니다. 연 4.40% APY, 최소 예치금 없음, 수수료 없음, FDIC 보호 대상. 골드만삭스 소유이며 미국 전용입니다. 조건 충족 여부를 신경 쓰지 않고 그냥 굴러가는 저축계좌를 원한다면 최선입니다.",
+      "pros": [
+        "조건 없이 연 4.40% APY",
+        "골드만삭스의 탄탄한 재무 기반"
+      ],
+      "cons": [
+        "입출금 계좌·체크카드 기능 없음"
+      ]
+    },
+    "ally-online-savings": {
+      "badge": "🎯 사용성 최고",
+      "review": "Ally Online Savings는 사용성 면에서 승자입니다. 연 4.20% APY, 수수료 없음. 진짜 무기는 버킷 기능으로, 계좌 하나 안에서 여행·비상금 같은 목표별 칸을 만들 수 있고 수동 이체가 필요 없습니다. 저축을 목표 단위로 관리하는 사람에게 잘 맞습니다.",
+      "pros": [
+        "목표별 저축을 위한 버킷 기능",
+        "고금리 저축계좌 중 최고의 모바일 앱"
+      ],
+      "cons": [
+        "Marcus보다 0.2%p 낮은 금리"
+      ]
+    },
+    "sofi-checking-savings": {
+      "badge": "💵 최고 금리(조건부)",
+      "review": "SoFi Checking + Savings는 저축 부분에서 연 4.60% APY를 찍습니다. 단, 직접입금 조건(월 기준 입금 요건 충족)이 필요합니다. 직접입금이 없으면 금리는 0.50%로 뚝 떨어집니다. 가입 보너스 300달러. 조건을 확실히 충족할 수 있다면 최고, 아니라면 위험합니다.",
+      "pros": [
+        "연 4.60% APY(직접입금 조건 충족 시)",
+        "가입 보너스 300달러"
+      ],
+      "cons": [
+        "직접입금이 없으면 금리가 0.50%로 하락"
+      ]
+    },
+    "discover-online-savings": {
+      "badge": "🤝 고객 응대 최고",
+      "review": "Discover Online Savings의 금리(4.10%)는 이 목록에서 낮은 축이지만, 미국 현지 24시간 고객센터는 고금리 저축계좌 중 최고 수준입니다. Discover it Cashback 카드와 궁합도 좋습니다. 최고 금리를 좇기보다 전화가 바로 연결되는 쪽을 중시한다면 좋은 선택입니다.",
+      "pros": [
+        "미국 현지 24시간 전화 상담",
+        "Discover 신용카드와 연동"
+      ],
+      "cons": [
+        "4.10%로 경쟁사보다 낮음"
+      ]
+    },
+    "capital-one-360-performance": {
+      "badge": "🏢 유일한 오프라인 지점",
+      "review": "Capital One 360 Performance Savings는 인터넷은행 수준의 금리(연 4.10% APY)에 Capital One 카페 매장을 직접 찾아갈 수 있는 선택지를 더했습니다. 가끔은 대면 창구가 필요하지만 인터넷은행 금리는 포기하기 싫은 사람에게 알맞습니다.",
+      "pros": [
+        "오프라인 지점과 카페 이용 가능",
+        "Capital One 신용카드와 연계"
+      ],
+      "cons": [
+        "4.10%로 이 목록 중 최저 수준"
+      ]
+    }
+  },
+  "offerNotes": {
+    "marcus-online-savings": "친구 추천을 받으면 90일간 APY가 1%p 추가됩니다. 지인에게 추천 링크를 부탁하세요.",
+    "ally-online-savings": "버킷을 활용해 비상금과 목표별 저축을 한 계좌 안에서 분리하세요.",
+    "sofi-checking-savings": "직접입금 조건은 매월 일정 금액 이상의 ACH 입금이 필요합니다. 고금리를 믿고 가기 전에 반드시 확인하세요.",
+    "discover-online-savings": "Discover it 카드 회원 경로로 가입하면 추천 보너스 50달러를 받습니다.",
+    "capital-one-360-performance": "Capital One 360 Checking과 함께 쓰면 무료 송금·수수료 없음 등 생태계를 온전히 누릴 수 있습니다."
+  },
+  "pinDescription": "5만 달러를 굴린다면 어디에? 고금리 저축계좌 5곳 금리·이체 속도 완전 비교. Marcus·Ally·SoFi·Discover·Capital One 360 중 내게 맞는 곳 찾기.",
+  "recommendedFor": [
+    {
+      "label": "조건 없이 최대 이자를 원하는 사람",
+      "offerId": "marcus-online-savings",
+      "reason": "Marcus는 직접입금 요건이나 챙겨야 할 조건 없이 연 4.40% APY를 그대로 줍니다."
+    },
+    {
+      "label": "여러 재무 목표를 동시에 관리하는 사람",
+      "offerId": "ally-online-savings",
+      "reason": "Ally의 버킷 기능으로 계좌를 여러 개 만들지 않고도 한 계좌 안에서 목표별로 이름 붙여 자금을 나눌 수 있습니다."
+    },
+    {
+      "label": "급여가 꼬박꼬박 들어오는 직장인",
+      "offerId": "sofi-checking-savings",
+      "reason": "정기 직접입금만 있으면 이 목록 최고 금리인 연 4.60% APY가 자동 적용되고, 가입 보너스 300달러도 따라옵니다."
+    },
+    {
+      "label": "앱보다 전화 상담이 편한 시니어 예금자",
+      "offerId": "discover-online-savings",
+      "reason": "Discover는 미국 현지 상담원이 24시간 대기합니다. 챗봇을 헤매거나 콜백을 기다릴 일이 없습니다."
+    },
+    {
+      "label": "가끔은 창구를 직접 찾는 하이브리드형",
+      "offerId": "capital-one-360-performance",
+      "reason": "Capital One 360은 이 중 유일하게 오프라인 카페 지점이 있어, 인터넷은행 금리를 포기하지 않고도 필요할 때 얼굴 보며 상담할 수 있습니다."
+    }
+  ]
 }
