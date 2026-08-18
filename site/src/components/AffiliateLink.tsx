@@ -81,7 +81,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
   //   sponsored を付けると検索エンジンにも読者にも事実と異なる申告になる
   //   (2026-08-04: 金融/SaaS 55記事を公式リンクで公開したときに顕在化)。
   const isMonetised = link != null && link.network !== "direct";
-  const linkRel = isMonetised ? "sponsored noopener noreferrer" : "noopener noreferrer";
+  const linkRel = isMonetised ? "sponsored nofollow noopener noreferrer" : "noopener noreferrer";
 
   const name = offer.name[locale as keyof typeof offer.name] ?? offer.name.en ?? offer.id;
   const desc = offer.description[locale as keyof typeof offer.description] ?? offer.description.en ?? "";
@@ -115,7 +115,8 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       <a
         href={rakutenHref}
         target="_blank"
-        rel="sponsored noopener noreferrer"
+        referrerPolicy="no-referrer-when-downgrade"
+        rel="sponsored nofollow noopener noreferrer"
         data-offer-id={offer.id}
         className="inline-flex items-center gap-1.5 rounded-lg border border-[#bf0000]/40 bg-white px-4 py-2 text-sm font-semibold text-[#bf0000] hover:bg-[#bf0000]/5 transition-all"
       >
@@ -130,7 +131,8 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
     <a
       href={yahooMatch.url}
       target="_blank"
-      rel="sponsored noopener noreferrer"
+      referrerPolicy="no-referrer-when-downgrade"
+      rel="sponsored nofollow noopener noreferrer"
       data-offer-id={offer.id}
       className="inline-flex items-center gap-1.5 rounded-lg border border-[#FF0033]/40 bg-white px-4 py-2 text-sm font-semibold text-[#FF0033] hover:bg-[#FF0033]/5 transition-all"
     >
@@ -163,6 +165,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
     <a
       href={youtubeReviewSearchUrl(offer.name.en ?? name, locale)}
       target="_blank"
+      referrerPolicy="no-referrer-when-downgrade"
       rel="noopener noreferrer"
       className="inline-flex items-center gap-1 text-xs font-medium text-slate-500 hover:text-[#FF0000] transition-colors"
     >
@@ -193,7 +196,8 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         <a
           href={fallbackUrl}
           target="_blank"
-          rel="sponsored noopener noreferrer"
+          referrerPolicy="no-referrer-when-downgrade"
+          rel="sponsored nofollow noopener noreferrer"
           className="inline-flex items-center gap-1 rounded-md border border-slate-300 px-4 py-2 text-sm font-medium text-slate-600 hover:border-slate-400 transition-colors"
         >
           {t("offer.searchOnAmazon")} →
@@ -209,7 +213,8 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         <a
           href={fallbackUrl}
           target="_blank"
-          rel="sponsored noopener noreferrer"
+          referrerPolicy="no-referrer-when-downgrade"
+          rel="sponsored nofollow noopener noreferrer"
           className="font-medium text-slate-600 underline-offset-2 hover:underline"
         >
           {name}
@@ -226,6 +231,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
           <a
             href={fallbackUrl}
             target="_blank"
+            referrerPolicy="no-referrer-when-downgrade"
             rel="noopener noreferrer"
             className="text-sm font-medium text-slate-600 underline-offset-2 hover:underline"
           >
@@ -267,7 +273,8 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
                 link: { network: amazonNetworkForMarket(market), productId: name,
                         markets: [market], approved: true },
                 productName: offer.name.en ?? name, market })}
-            target="_blank" rel="sponsored noopener noreferrer"
+            target="_blank"
+        referrerPolicy="no-referrer-when-downgrade" rel="sponsored nofollow noopener noreferrer"
             className="inline-flex items-center gap-1 rounded-md border border-slate-300 px-4 py-2 text-sm font-medium text-slate-600 hover:border-slate-400 transition-colors">
             {t("offer.searchOnAmazon")} →
           </a>
@@ -286,10 +293,11 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
                 key={label}
                 href={storeHref}
                 target="_blank"
+                referrerPolicy="no-referrer-when-downgrade"
                 // Amazon検索に化けた direct は成果報酬リンクなので sponsored を付ける
                 rel={l.network === "direct" && !directGoesToAmazon(offer.category, offer.name.en ?? name)
                   ? "noopener noreferrer"
-                  : "sponsored noopener noreferrer"}
+                  : "sponsored nofollow noopener noreferrer"}
                 data-offer-id={offer.id}
                 className={
                   i === 0
@@ -315,6 +323,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       <a
         href={href}
         target="_blank"
+        referrerPolicy="no-referrer-when-downgrade"
         rel={linkRel}
         data-offer-id={offer.id}
         className="inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-4 py-2 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
@@ -334,6 +343,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       <a
         href={href}
         target="_blank"
+        referrerPolicy="no-referrer-when-downgrade"
         rel={linkRel}
         data-offer-id={offer.id}
         className="font-medium text-brand-600 underline-offset-2 hover:underline"
@@ -374,6 +384,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
           <a
             href={href}
             target="_blank"
+            referrerPolicy="no-referrer-when-downgrade"
             rel={linkRel}
             data-offer-id={offer.id}
             className="inline-flex items-center gap-1.5 rounded-lg bg-brand-600 px-5 py-2.5 text-sm font-bold text-white shadow-sm hover:bg-brand-700 hover:shadow-md transition-all"
