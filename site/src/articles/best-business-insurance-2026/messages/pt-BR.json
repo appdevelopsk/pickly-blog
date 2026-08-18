@@ -2,5 +2,150 @@
   "title": "Melhor seguro para pequenas empresas 2026: 5 comparados",
   "description": "Comparamos Next, Hiscox, The Hartford, Progressive, Thimble. Veja o que realmente se destaca em cobertura e preço do BOP para seguro para pequenas empresas em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "O que um BOP cobre",
+      "paragraphs": [
+        "BOP = Business Owner's Policy = responsabilidade civil geral + patrimonial empresarial num pacote só. É o padrão para pequenos negócios. Cyber, seguro de acidentes de trabalho e responsabilidade civil profissional (E&O) costumam ser contratados à parte.",
+        "BOP de uma consultoria com 5 pessoas (US$ 1 mi de RC geral + US$ 250 mil patrimonial), preços típicos: Next US$ 25-50/mês (~R$ 135-270), Hiscox US$ 35-65 (~R$ 190-350), The Hartford US$ 40-70 (~R$ 215-380), Progressive Commercial US$ 40-60 (~R$ 215-325), Thimble (sob demanda) US$ 10-30 por projeto (~R$ 55-160)."
+      ]
+    },
+    {
+      "heading": "Adicionais de cyber e acidentes de trabalho",
+      "paragraphs": [
+        "Cyber (cobertura de US$ 1 mi): a Hiscox já inclui cyber básico no BOP. A Next cobra US$ 15-25/mês (~R$ 80-135) de adicional. The Hartford, US$ 20-30/mês (~R$ 110-160). Progressive Commercial, US$ 25/mês (~R$ 135). A Thimble não oferece cyber.",
+        "Acidentes de trabalho (5 funcionários, consultoria de baixo risco): US$ 300-500/ano por funcionário (~R$ 1.600-2.700). The Hartford e Progressive são especialistas nisso. É obrigatório na maioria dos estados americanos; o Texas é a exceção conhecida (opcional)."
+      ]
+    },
+    {
+      "heading": "Para quem cada seguradora faz sentido",
+      "paragraphs": [
+        "Começando agora / freelancer / faturamento abaixo de US$ 100 mil: Thimble (sob demanda) para cobrir projeto a projeto. Next para BOP mensal se você tem um endereço fixo.",
+        "Negócio já estabelecido / 3-10 funcionários / faturamento de US$ 250 mil a 2 mi: Hiscox ou The Hartford. As duas têm nota A+; a Hiscox é focada em empresas menores, e a Hartford cobre um leque maior de setores.",
+        "Muita frota / obras / prestadores de serviço em campo: Progressive Commercial. Eles dominam os pacotes de auto empresarial + RC geral.",
+        "Tech / SaaS / consultoria / serviços profissionais: Hiscox (forte em cyber) ou Next (nativa digital)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "BOP ou apólices separadas?",
+      "a": "O BOP sai mais barato do que contratar RC geral + patrimonial em separado. A maioria dos pequenos negócios com faturamento abaixo de US$ 5 mi deve começar pelo BOP. Acima disso, você estoura os limites do BOP e vai precisar de apólices de excesso à parte."
+    },
+    {
+      "q": "Preciso de responsabilidade civil profissional (E&O)?",
+      "a": "Sim, se você dá consultoria ou presta serviços. Consultores, contadores, serviços de TI e designers todos precisam de E&O — e geralmente NÃO está no BOP, tem que contratar separado."
+    },
+    {
+      "q": "E o seguro cyber?",
+      "a": "Sim, para qualquer empresa que guarda dados de clientes ou aceita cartão de crédito. A Hiscox inclui cyber básico; as outras cobram US$ 15-30/mês (~R$ 80-160)."
+    },
+    {
+      "q": "Acidentes de trabalho é obrigatório?",
+      "a": "Obrigatório em 49 dos 50 estados americanos (no Texas é opcional). Mesmo onde não é exigido, ter a cobertura protege você de processos por acidente com funcionário."
+    }
+  ],
+  "products": {
+    "next-insurance-bop": {
+      "badge": "🏆 Melhor contratação digital",
+      "review": "A Next Insurance é a escolha certa para pequenos negócios nativos digitais. Proposta online em 10 minutos, BOP típico de US$ 25-50/mês (~R$ 135-270) e comprovante de seguro na hora. Tem a Munich Re por trás. Atende só perfis padrão de pequeno negócio (nada de setores de alto risco).",
+      "pros": [
+        "Proposta online em 10 minutos",
+        "Comprovante de seguro na hora",
+        "Respaldo da Munich Re"
+      ],
+      "cons": [
+        "Só para pequenos negócios de perfil padrão",
+        "Cyber é adicional, não vem incluso"
+      ]
+    },
+    "hiscox-small-business": {
+      "badge": "🎯 Melhor até 50 funcionários",
+      "review": "A Hiscox é a escolha certa para empresas com menos de 50 funcionários, principalmente tech/SaaS/consultoria. Cyber já vem no BOP. Nota A+ da A.M. Best. Cobre mais setores que a Next.",
+      "pros": [
+        "Cyber incluso no BOP",
+        "Especialista em empresas com menos de 50 funcionários",
+        "Solidez financeira forte"
+      ],
+      "cons": [
+        "Prêmio mais alto que o da Next",
+        "Menos indicada para pequenos negócios já grandes"
+      ]
+    },
+    "the-hartford-bop": {
+      "badge": "🪪 Melhor seguradora tradicional",
+      "review": "A The Hartford é a escolha certa para negócios estabelecidos que valorizam uma seguradora com mais de 200 anos de estrada. Cobertura forte para concessionárias e empreiteiras, com amplo alcance setorial. Patrimonial + responsabilidade civil no mesmo pacote.",
+      "pros": [
+        "Mais de 200 anos de mercado",
+        "Cobertura forte para concessionárias e empreiteiras",
+        "Atende muitos setores"
+      ],
+      "cons": [
+        "Mais cara que Next e Hiscox",
+        "Experiência online menos afiada"
+      ]
+    },
+    "progressive-commercial": {
+      "badge": "🚛 Melhor para frotas e obras",
+      "review": "A Progressive Commercial é a escolha certa para quem tem veículos comerciais ou trabalha em campo. Pacotes de auto empresarial + responsabilidade civil geral. Forte para frotistas, empreiteiras, eletricistas e encanadores.",
+      "pros": [
+        "Melhores pacotes de auto empresarial + RC geral",
+        "Forte para prestadores de serviço em campo",
+        "Cotação online"
+      ],
+      "cons": [
+        "Menos indicada para negócios sem veículos",
+        "Atendimento mais lento que o da Next"
+      ]
+    },
+    "thimble-on-demand": {
+      "badge": "📱 Melhor para autônomos",
+      "review": "A Thimble é a escolha certa para freelancers e trabalhadores de aplicativo que precisam de cobertura de curto prazo. Contratação por hora, dia ou mês, de US$ 5 a 100 por evento (~R$ 27 a 540). Contrata e ativa em minutos pelo app. Não serve para negócio tradicional com endereço fixo.",
+      "pros": [
+        "Contratação por hora, dia ou mês",
+        "Contrata em minutos pelo app",
+        "Barato para necessidades pontuais"
+      ],
+      "cons": [
+        "Não serve para negócio tradicional",
+        "Limites de cobertura baixos"
+      ]
+    }
+  },
+  "offerNotes": {
+    "next-insurance-bop": "Cotação em nextinsurance.com — 10 minutos online.",
+    "hiscox-small-business": "Cotação em hiscox.com — especialista forte para empresas com menos de 50 funcionários.",
+    "the-hartford-bop": "Cotação em thehartford.com ou com corretores independentes.",
+    "progressive-commercial": "Cotação em progressivecommercial.com — melhor para veículos e serviços em campo.",
+    "thimble-on-demand": "Baixe o app da Thimble — perfeito para quem trabalha por conta."
+  },
+  "pinDescription": "Vai abrir ou já toca seu próprio negócio? Comparei 5 seguradoras empresariais: quanto custa por mês, o que entra no pacote e o que fica de fora. Salva pra não pagar caro depois.",
+  "recommendedFor": [
+    {
+      "label": "Freelancers e autônomos que precisam de cobertura pontual",
+      "offerId": "thimble-on-demand",
+      "reason": "Com a contratação por hora, dia ou mês da Thimble, você só paga enquanto está tocando o projeto, sem compromisso de longo prazo."
+    },
+    {
+      "label": "Startups em fase inicial que querem contratar rápido e online",
+      "offerId": "next-insurance-bop",
+      "reason": "A proposta online em 10 minutos e o comprovante imediato da Next deixam o negócio novo coberto no mesmo dia, sem papelada."
+    },
+    {
+      "label": "Consultores de tecnologia e fundadores de SaaS que lidam com dados de clientes",
+      "offerId": "hiscox-small-business",
+      "reason": "A Hiscox já embute a cobertura cyber no BOP, então empresas de tech e consultoria ficam protegidas contra vazamento de dados sem precisar de outra apólice."
+    },
+    {
+      "label": "Empreiteiras, eletricistas e prestadores de serviço com veículos",
+      "offerId": "progressive-commercial",
+      "reason": "A Progressive domina os pacotes de auto empresarial + RC geral, o que a torna a melhor opção em seguradora única para quem roda com frota."
+    },
+    {
+      "label": "Negócios estabelecidos com 5 ou mais funcionários e faturamento constante",
+      "offerId": "the-hartford-bop",
+      "reason": "Os mais de 200 anos de histórico da The Hartford e o alcance setorial amplo dão às empresas maduras a proteção de peso que as seguradoras de entrada já não entregam."
+    }
+  ]
 }

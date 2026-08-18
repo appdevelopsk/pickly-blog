@@ -2,5 +2,149 @@
   "title": "Melhor seguro auto 2026: 5 comparados",
   "description": "Comparamos Geico, Progressive, State Farm, USAA, Liberty Mutual. Veja o que realmente se destaca em prêmio e gestão de sinistros para seguro auto em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Prêmio para a mesma cobertura",
+      "paragraphs": [
+        "Prêmio anual médio em 5 estados americanos: Geico US$ 1.380, Progressive US$ 1.490, State Farm US$ 1.560, Liberty Mutual US$ 1.710, USAA US$ 980 (só militares). Variação por estado: Flórida +35%, Califórnia +20%, Texas na média, Illinois -10%, Nova York +25%.",
+        "Desconto por telemetria: Progressive Snapshot 10-30%, State Farm Drive Safe 15-25%, Geico DriveEasy 15-20%, Liberty Mutual RightTrack 5-30%. A USAA inclui telemetria sem custo. O desconto é real se você dirige com cuidado — mas o sistema também penaliza freada brusca."
+      ]
+    },
+    {
+      "heading": "Diferenças de cobertura",
+      "paragraphs": [
+        "Perdão de sinistro (sem aumento na renovação depois da primeira batida com culpa): Liberty Mutual inclui de graça, Geico cobra US$ 50/ano à parte, Progressive libera após 5 anos sem sinistro, State Farm US$ 30/ano, USAA já vem incluso.",
+        "Franquia decrescente (cai US$ 100 por ano sem sinistro): a Allstate tem a melhor versão (fora desta comparação), a Liberty Mutual oferece de graça e a Progressive cobra US$ 25/ano.",
+        "Cobertura para motorista de app: Geico (US$ 14-21/mês à parte), Progressive (US$ 15-25/mês), State Farm (US$ 25-50/mês). Liberty Mutual e USAA têm disponibilidade limitada nesse tipo de cobertura."
+      ]
+    },
+    {
+      "heading": "Satisfação do cliente",
+      "paragraphs": [
+        "Ranking JD Power 2025 de satisfação com sinistros de auto: USAA em 1º (só militares), Erie em 2º, State Farm em 3º, Geico em 5º, Progressive em 11º, Liberty Mutual em 16º. A distância entre topo e fundo é grande — a Liberty Mutual fica abaixo da média do setor no atendimento de sinistros.",
+        "Qualidade do app: o da Geico é o mais baixado; a Progressive tem o melhor painel de telemetria; a State Farm tem o fluxo de abertura de sinistro mais simples."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Por que as cotações variam tanto?",
+      "a": "Cada seguradora usa um modelo de risco próprio. O mesmo motorista recebe valores diferentes porque cada empresa pesa os fatores (score de crédito, CEP, veículo etc.) de um jeito. Cote em 3 a 5 seguradoras — a economia costuma ficar entre 20% e 40% em relação à mais cara."
+    },
+    {
+      "q": "Vale aceitar o desconto por telemetria?",
+      "a": "Vale se você dirige com cuidado (sem freada brusca, sem rodar de madrugada). O desconto é real (10-30%). Não vale se você dirige de forma agressiva — a telemetria pode encarecer sua apólice."
+    },
+    {
+      "q": "Franquia de US$ 500 ou de US$ 1.000?",
+      "a": "Franquia mais alta reduz o prêmio em uns 10-15%. Compensa se você tem uma reserva de emergência equivalente a US$ 1.000; não compensa se não tem."
+    },
+    {
+      "q": "Por que a Flórida é tão cara?",
+      "a": "A Flórida tem muito motorista sem seguro, risco de furacão e um sistema legal de no-fault que encarece os sinistros. Califórnia e Flórida são sempre os estados mais caros."
+    }
+  ],
+  "products": {
+    "geico-auto": {
+      "badge": "🏆 Melhor no geral",
+      "review": "A Geico Auto é a opção mais barata entre as grandes para quem tem histórico limpo. App bom, sinistro rápido e desconto militar (15%). A telemetria DriveEasy rende bem se você dirige com cuidado.",
+      "pros": [
+        "Mais barata entre as grandes",
+        "Sinistro processado rápido",
+        "App bom + telemetria"
+      ],
+      "cons": [
+        "Preço sobe muito com multa ou batida com culpa",
+        "Perdão de sinistro só como item pago à parte"
+      ]
+    },
+    "progressive-auto": {
+      "badge": "📊 Melhor telemetria",
+      "review": "A Progressive Auto é a escolha certa para quem gosta de tecnologia e não se incomoda em compartilhar dados. A telemetria Snapshot derruba o prêmio em 10-30%. A ferramenta Name Your Price ajuda quem compra por orçamento. Boa disponibilidade de cobertura para motorista de app.",
+      "pros": [
+        "Melhor painel de telemetria",
+        "Ferramenta Name Your Price",
+        "Boa cobertura para motorista de app"
+      ],
+      "cons": [
+        "Satisfação com sinistros mais baixa (11º no JD Power)",
+        "Prêmio sobe mais depois de um sinistro"
+      ]
+    },
+    "state-farm-auto": {
+      "badge": "📦 Melhor para combinar apólices",
+      "review": "A State Farm Auto ganha na hora de combinar apólices: 25% de desconto no pacote residencial + auto. É a maior seguradora de auto dos EUA e tem rede de corretores locais. A telemetria Drive Safe & Save dá 15-25% de desconto. 3º lugar no JD Power em satisfação com sinistros.",
+      "pros": [
+        "25% no pacote residencial + auto",
+        "Rede de corretores locais",
+        "3º lugar no JD Power em sinistros"
+      ],
+      "cons": [
+        "Prêmio avulso mais caro que o da Geico",
+        "App menos refinado que o da Geico"
+      ]
+    },
+    "usaa-auto": {
+      "badge": "🪖 Melhor para militares",
+      "review": "A USAA Auto é a mais barata (média de US$ 980), mas exige vínculo militar. É 1º lugar no JD Power em satisfação ano após ano. Inclui telemetria sem custo e paga bem nos sinistros.",
+      "pros": [
+        "Prêmio mais barato",
+        "1º lugar no JD Power em satisfação",
+        "Indenizações generosas"
+      ],
+      "cons": [
+        "Exige elegibilidade militar",
+        "Cobertura limitada para motorista de app"
+      ]
+    },
+    "liberty-mutual-auto": {
+      "badge": "🎁 Melhor perdão de sinistro",
+      "review": "A Liberty Mutual Auto inclui perdão de sinistro E franquia decrescente sem cobrar nada a mais — o pacote padrão mais generoso da categoria. Só que: é o prêmio mais caro (média de US$ 1.710) e fica em 16º no JD Power em sinistros. Essa troca entre recursos e preço é discutível.",
+      "pros": [
+        "Perdão de sinistro incluso sem custo",
+        "Franquia decrescente inclusa sem custo",
+        "App bom"
+      ],
+      "cons": [
+        "Prêmio mais caro desta comparação",
+        "16º no JD Power em atendimento de sinistros"
+      ]
+    }
+  },
+  "offerNotes": {
+    "geico-auto": "Cote em geico.com — cotação na hora com o VIN. Tem desconto para militares e servidores federais.",
+    "progressive-auto": "Cote em progressive.com — a ferramenta Name Your Price ajuda a mirar no seu orçamento. O Snapshot é opcional.",
+    "state-farm-auto": "Cote em statefarm.com ou com um corretor local. Combine com seguro residencial ou de locatário para o desconto máximo.",
+    "usaa-auto": "Cote em usaa.com — confira a elegibilidade primeiro. Inclui assistência 24h sem custo para alguns membros.",
+    "liberty-mutual-auto": "Cote em libertymutual.com. A telemetria RightTrack é opcional."
+  },
+  "pinDescription": "Vai contratar seguro de carro em 2026? Comparamos Geico, Progressive, State Farm, USAA e Liberty Mutual: quem paga menos, quem perdoa a primeira batida e quem trava na hora do sinistro. Salve antes de cotar.",
+  "recommendedFor": [
+    {
+      "label": "Quem tem histórico limpo e quer gastar pouco",
+      "offerId": "geico-auto",
+      "reason": "A média de US$ 1.380 da Geico é a mais barata entre as grandes, e a telemetria DriveEasy corta ainda mais para quem dirige com cuidado."
+    },
+    {
+      "label": "Motorista de app e trabalhador autônomo",
+      "offerId": "progressive-auto",
+      "reason": "A Progressive tem a melhor disponibilidade de cobertura para motorista de app, e a telemetria Snapshot corta de 10% a 30% para quem aceita compartilhar dados."
+    },
+    {
+      "label": "Quem tem casa própria e quer juntar as apólices",
+      "offerId": "state-farm-auto",
+      "reason": "Os 25% de desconto no pacote residencial + auto e a rede de corretores locais fazem da State Farm a escolha óbvia para quem tem mais de uma apólice."
+    },
+    {
+      "label": "Militares da ativa e veteranos",
+      "offerId": "usaa-auto",
+      "reason": "A média de US$ 980 da USAA é a menor de todas, e o 1º lugar no JD Power em satisfação significa muito menos dor de cabeça na hora do sinistro."
+    },
+    {
+      "label": "Motorista novato com medo da primeira batida",
+      "offerId": "liberty-mutual-auto",
+      "reason": "A Liberty Mutual inclui perdão de sinistro e franquia decrescente sem custo extra, protegendo quem aciona o seguro pela primeira vez de um salto no preço."
+    }
+  ]
 }

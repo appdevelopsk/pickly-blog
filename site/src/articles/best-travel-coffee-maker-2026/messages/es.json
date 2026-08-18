@@ -2,5 +2,145 @@
   "title": "Mejor cafetera de viaje 2026: 5 comparados",
   "description": "Comparamos AeroPress, Hario, Wacaco, Fellow. Esto es lo que realmente destaca en calidad de preparación y portabilidad para cafetera de viaje en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Métodos de preparación y calidad",
+      "paragraphs": [
+        "AeroPress (Go): inmersión total + presión. Lo más parecido a un espresso o americano de cafetería. Calidad excelente.",
+        "Vertido manual (V60 plegable, Stagg): taza limpia, necesita hervidor. Buena calidad con algo de práctica.",
+        "Espresso presurizado (Nanopresso, Minipresso): espresso bombeado a mano, con crema de verdad. La mejor opción para los amantes del espresso."
+      ]
+    },
+    {
+      "heading": "La mejor opción para cada caso",
+      "paragraphs": [
+        "Mejor portátil: AeroPress Go (35-45 €). Combo de vaso de viaje + AeroPress.",
+        "Mejor vertido ligero: Hario V60 plegable (15-25 €). Silicona plegable.",
+        "Mejor espresso portátil: Wacaco Nanopresso (60-90 €). Bombeo manual.",
+        "Mejor vertido premium: set Fellow Stagg Pour-Over (60-90 €).",
+        "Mejor para viajeros con Nespresso: Wacaco Minipresso NS (55-75 €). Usa cápsulas Nespresso."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿AeroPress o vertido manual para viajar?",
+      "a": "AeroPress: más rápida, más versátil y con resultado estilo espresso. Vertido manual: taza más limpia, pero exige más técnica. Las dos funcionan: elige según tu gusto."
+    },
+    {
+      "q": "¿Hace falta molinillo para el café de viaje?",
+      "a": "Lo más práctico es llevar café ya molido (molienda media-fina para la AeroPress, fina para la Nanopresso). Un molinillo manual pequeño (Timemore, 1Zpresso Q2) cabe en la maleta, pero suma peso."
+    },
+    {
+      "q": "¿Importa la calidad del agua del hervidor del hotel?",
+      "a": "Sí: los hervidores de hotel suelen acumular cal. Hierve una vez, tira esa agua y prepara el café después. Si tienes agua embotellada a mano, mejor todavía."
+    },
+    {
+      "q": "¿De verdad se puede tomar buen café en la habitación del hotel?",
+      "a": "Sí: con una AeroPress y café recién tostado, el café de la habitación puede competir con el de una cafetería. El de la 'cafetera' que pone el hotel sabe mal por los granos rancios y el agua mala."
+    }
+  ],
+  "products": {
+    "aeropress-go": {
+      "badge": "🏆 Mejor portátil",
+      "review": "La AeroPress Go es la cafetera portátil acertada. Combo de AeroPress y vaso de viaje, cabe en la maleta y prepara de 1 a 3 tazas de café estilo espresso. Es la mejor calidad que vas a conseguir en formato portátil. Funciona con el hervidor del hotel.",
+      "pros": [
+        "Calidad AeroPress en formato de viaje",
+        "Prepara café estilo espresso",
+        "Funciona con el hervidor del hotel"
+      ],
+      "cons": [
+        "35-45 €, gama media",
+        "Hay que llevar el café ya molido"
+      ]
+    },
+    "hario-v60-collapsible-dripper": {
+      "badge": "🪶 Mejor vertido ligero",
+      "review": "El Hario V60 plegable de silicona es la opción de vertido ligero acertada. Es un dripper V60 de silicona que se pliega del todo y usa los filtros V60 estándar, fáciles de encontrar. Ideal para quien viaja ligero y no renuncia al vertido manual.",
+      "pros": [
+        "Se pliega totalmente plano para viajar",
+        "Usa filtros V60 estándar",
+        "15-25 €, precio ajustado"
+      ],
+      "cons": [
+        "Necesita el hervidor del hotel (casi todos lo tienen)",
+        "Hay que llevar filtros o comprarlos allí"
+      ]
+    },
+    "wacaco-nanopresso": {
+      "badge": "☕ Mejor espresso portátil",
+      "review": "La Wacaco Nanopresso es la cafetera espresso portátil acertada. Bombeo manual (18 bares de presión), sin pilas y con crema de verdad. La mejor opción para los amantes del espresso que viajan. Necesita café molido fino para espresso.",
+      "pros": [
+        "Espresso auténtico con crema",
+        "Sin pilas",
+        "Bombeo manual (sin electricidad)"
+      ],
+      "cons": [
+        "60-90 €, gama media",
+        "Requiere molienda fina (mejor si llevas café molido para espresso)"
+      ]
+    },
+    "stagg-pour-over-set": {
+      "badge": "💎 Mejor premium",
+      "review": "El Fellow Stagg Pour-Over Travel Set es la opción premium para viajar. Incluye el dripper Stagg [X] y una taza de doble pared. Preparación preciosa y acabados de primera. Merece la pena si no te importa cargar con un equipo algo más voluminoso.",
+      "pros": [
+        "Fabricación de primera",
+        "Ritual de preparación precioso",
+        "Incluye taza de doble pared"
+      ],
+      "cons": [
+        "60-90 €, precio premium",
+        "Más voluminoso que las opciones plegables"
+      ]
+    },
+    "minipresso-ns-capsules": {
+      "badge": "💊 Mejor para viajeros con Nespresso",
+      "review": "La Wacaco Minipresso NS es la elección acertada si eres de Nespresso. Espresso a bombeo manual con cápsulas Nespresso (sin molinillo, solo llevas las cápsulas) y 18 bares de presión. Perfecta si ya tienes una máquina Nespresso en casa.",
+      "pros": [
+        "Usa cápsulas Nespresso",
+        "Bombeo manual (sin pilas)",
+        "Presión de espresso real"
+      ],
+      "cons": [
+        "Hay que llevar las cápsulas",
+        "Las cápsulas Nespresso generan residuos"
+      ]
+    }
+  },
+  "offerNotes": {
+    "aeropress-go": "Disponible en aeropress.com y Amazon. Incluye filtros; lleva de repuesto para el viaje.",
+    "hario-v60-collapsible-dripper": "Disponible en hario.com y Amazon. Usa filtros V60 estándar (tamaño 02 para el dripper mediano).",
+    "wacaco-nanopresso": "Disponible en wacaco.com y Amazon. Hay packs de adaptadores para distintos tipos de cápsula.",
+    "stagg-pour-over-set": "Disponible en fellowproducts.com. El set de viaje incluye taza; el dripper Stagg también se vende suelto.",
+    "minipresso-ns-capsules": "Disponible en wacaco.com y Amazon. Compatible con las cápsulas Nespresso originales (no Vertuo)."
+  },
+  "pinDescription": "¿Café de verdad en la habitación del hotel? Sí se puede. Comparativa de las 5 mejores cafeteras de viaje 2026: AeroPress Go, Hario V60 plegable, Wacaco Nanopresso, Fellow Stagg y Minipresso NS. Guárdalo para tu próxima maleta ☕✈️",
+  "recommendedFor": [
+    {
+      "label": "Quien viaja mucho por trabajo y va ligero de equipaje",
+      "offerId": "aeropress-go",
+      "reason": "La AeroPress Go trae su propio vaso de viaje y cabe en el equipaje de mano, así que puedes olvidarte del café del hotel."
+    },
+    {
+      "label": "Mochileros y viajeros de albergue con presupuesto ajustado",
+      "offerId": "hario-v60-collapsible-dripper",
+      "reason": "Por 15-25 €, el V60 de silicona se pliega totalmente plano y no pesa casi nada: ideal cuando cuentas cada euro y cada gramo."
+    },
+    {
+      "label": "Puristas del espresso que no renuncian a la crema",
+      "offerId": "wacaco-nanopresso",
+      "reason": "Los 18 bares de presión a bombeo manual dan crema de verdad sin electricidad ni cápsulas: espresso auténtico en cualquier parte."
+    },
+    {
+      "label": "Cafeteros que viajan con el equipo completo",
+      "offerId": "stagg-pour-over-set",
+      "reason": "El dripper Stagg [X] y la taza de doble pared convierten el vertido en un ritual premium para quien disfruta del proceso."
+    },
+    {
+      "label": "Usuarios de Nespresso que quieren su sabor de siempre fuera de casa",
+      "offerId": "minipresso-ns-capsules",
+      "reason": "Funciona con las mismas cápsulas Nespresso que usas en casa: sin molinillo, sin café suelto y con el mismo perfil de sabor."
+    }
+  ]
 }

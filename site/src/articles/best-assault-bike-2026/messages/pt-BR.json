@@ -58,5 +58,111 @@
     "sunny-health-air-bike": "Resistência de ventilador + magnética, construção mais leve, mais silenciosa. $200–350. Opção de air bike econômica — adequada para intervalos ocasionais. Não substitui bicicletas de assalto comerciais. Mais silenciosa que as bicicletas de ventilador puro. Correta para uso em casa em intensidade moderada."
   },
   "pinDescription": "Bicicleta de assalto / air bike 2026: Assault Classic vs Rogue Echo vs Concept2 BikeErg vs Schwinn Airdyne Pro, como a resistência de ar se autoescala com o esforço, por que os intervalos na bicicleta de assalto são uniquamente difíceis, e qual air bike vale a pena comprar para HIIT na academia em casa.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "products": [
+    {
+      "offerId": "assault-fitness-assault-air-bike",
+      "badge": "Melhor no Geral",
+      "review": "A Assault AirBike Classic é a bike de ar referência em boxes de CrossFit e academias comerciais — a maior parte da programação de intervalados publicada foi desenvolvida e cronometrada exatamente nessa máquina. A ventoinha de aço de 25 polegadas, os rolamentos selados de cartucho e as manoplas móveis revestidas em espuma são de padrão comercial, feitos para uso pesado todos os dias. O display cobre o essencial (calorias, tempo, RPM, distância) sem o software cheio de firula que incha os equipamentos de cardio domésticos. Para quem treina em home gym ela é, honestamente, mais robusta do que o necessário — mas é justamente esse exagero de engenharia que a mantém de pé depois de uma década de porrada. Faz barulho em RPM alto, e esse é o preço a pagar.",
+      "pros": [
+        "Ventoinha de aço de 25 polegadas com rolamentos selados de cartucho",
+        "Máquina de referência da maioria dos intervalados de CrossFit publicados",
+        "Estrutura de padrão comercial homologada para uso pesado diário",
+        "Manoplas móveis revestidas em espuma para trabalho de corpo inteiro"
+      ],
+      "cons": [
+        "Ventoinha barulhenta em RPM alto",
+        "Robusta demais para treino casual em home gym"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "concept2-bike-erg",
+      "badge": "Melhor Display e Controle de Ritmo",
+      "review": "Tecnicamente a BikeErg não é uma air bike — a Concept2 pegou o volante de inércia e o sistema de damper do RowErg, montou tudo num quadro de bicicleta e usou transmissão por corrente no lugar da ventoinha. O resultado é uma máquina bem mais silenciosa e suave, com o monitor de desempenho PM5, o melhor display de condicionamento que existe em equipamento de cardio. O preço disso é real: sem manoplas móveis, o trabalho fica só de membros inferiores e não gera aquela fadiga de corpo inteiro que define um treino de air bike. Para quem foca em ciclismo ou quer ritmo preciso e treino guiado por dados, é a máquina certa. Para intervalados no estilo air bike puro, é outra ferramenta.",
+      "pros": [
+        "Monitor de desempenho PM5 — o melhor display entre os equipamentos de cardio",
+        "Transmissão por corrente é mais silenciosa que as bikes de ventoinha",
+        "Excelente para ritmo preciso e treino guiado por dados",
+        "Pedalada suave, com sensação parecida com a de estrada"
+      ],
+      "cons": [
+        "Sem manoplas móveis — só membros inferiores",
+        "O preço mais alto da lista"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "rogue-echo-bike",
+      "badge": "Melhor para Home Gym",
+      "review": "A Rogue Echo é a escolha de home gym para quem quer a qualidade de treino da Assault Classic com a construção de quadro da Rogue. Com 58 kg contra os 45 kg da Assault, é mais pesada e visivelmente mais estável em sprints máximos. A ventoinha maior entrega uma resistência um pouco mais suave por pedalada e roda um pouco mais silenciosa que a Assault no mesmo esforço. A transmissão por correia, no lugar da corrente, reduz a manutenção a conferir a tensão da correia a cada poucos meses em vez de lubrificar corrente. Está na mesma faixa de preço da Assault Classic, então a decisão entre as duas se resume a preferência de manutenção e tolerância ao peso.",
+      "pros": [
+        "Quadro de 58 kg se mantém estável em sprints máximos",
+        "Transmissão por correia exige menos manutenção que a corrente",
+        "Um pouco mais silenciosa e suave que a Assault Classic",
+        "Construção de quadro Rogue aguenta uso pesado"
+      ],
+      "cons": [
+        "A bike mais pesada da lista — mudar de lugar é trabalho para duas pessoas"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "schwinn-airdyne-pro",
+      "badge": "Melhor Custo-Benefício Profissional",
+      "review": "A Airdyne Pro é a fan bike comercial da Schwinn e a ponte de preço entre as air bikes de brinquedo e o topo de linha Assault/Rogue. Com cerca de 41 kg é mais leve que a Rogue Echo, mas usa rolamentos de qualidade comercial e um quadro robusto. A sensação da ventoinha é um pouco diferente da Assault ou da Echo — é a geometria tradicional de ventoinha da Schwinn —, mas a resistência continua se ajustando sozinha ao esforço da mesma forma. O display acompanha calorias e RPM. A vantagem de preço sobre a Rogue Echo e a Assault Classic é concreta, e para quem treina em casa e não precisa do topo absoluto, é a compra mais racional da categoria.",
+      "pros": [
+        "Rolamentos e quadro comerciais por um preço abaixo do topo de linha",
+        "Preço mais acessível que a Rogue Echo ou a Assault Classic",
+        "A geometria tradicional de ventoinha da Schwinn é comprovada há décadas"
+      ],
+      "cons": [
+        "Construção um pouco mais leve que a Echo ou a Assault Classic",
+        "Display com menos recursos que o PM5 da Concept2"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "sunny-health-air-bike",
+      "badge": "Melhor Opção Econômica",
+      "review": "A Sunny Health combina resistência por ventoinha com resistência magnética, o que a torna funcionalmente diferente de uma air bike de verdade: existe resistência de base mesmo com velocidade zero de pedalada, e o componente magnético é mais silencioso que uma ventoinha pura. A construção é mais leve e não foi feita para uso comercial, mas por um terço do preço das opções premium ela coloca uma air bike utilizável ao alcance de quem treina em casa e não consegue justificar mais de R$ 3.500. Para intervalados ocasionais e cardio de intensidade moderada, dá conta. Não substitui uma air bike comercial para treino pesado diário.",
+      "pros": [
+        "Cerca de um terço do preço das opções premium",
+        "O componente de resistência magnética é mais silencioso que ventoinha pura",
+        "Suficiente para intervalados ocasionais e cardio moderado"
+      ],
+      "cons": [
+        "Quadro mais leve, não feito para uso diário em intensidade comercial",
+        "O mecanismo de ventoinha + ímã tem sensação diferente das air bikes de verdade"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para programação de WOD no estilo CrossFit",
+      "offerId": "assault-fitness-assault-air-bike",
+      "reason": "A maioria dos tempos e benchmarks de intervalados publicados no CrossFit foi desenvolvida nessa bike, então o equipamento bate com a programação."
+    },
+    {
+      "label": "Para ciclismo e treino de ritmo preciso",
+      "offerId": "concept2-bike-erg",
+      "reason": "O monitor PM5 e a suavidade da transmissão por corrente fazem dela a melhor máquina para intervalados guiados por dados e treino por zonas."
+    },
+    {
+      "label": "Para quem treina pesado todo dia em home gym",
+      "offerId": "rogue-echo-bike",
+      "reason": "O quadro de 58 kg e a transmissão por correia entregam durabilidade comercial pelo mesmo preço da Assault Classic e com menos manutenção."
+    },
+    {
+      "label": "Para quem quer padrão comercial gastando menos",
+      "offerId": "schwinn-airdyne-pro",
+      "reason": "Entrega rolamentos comerciais e quadro robusto por um preço bem abaixo do topo de linha da Rogue e da Assault."
+    },
+    {
+      "label": "Para cardio ocasional e uso em apartamento",
+      "offerId": "sunny-health-air-bike",
+      "reason": "Por um terço do preço das opções premium e com componente magnético mais silencioso, atende ao uso moderado em casas onde barulho incomoda."
+    }
+  ]
 }

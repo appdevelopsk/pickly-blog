@@ -60,6 +60,122 @@
       "a": "Sonicare: 5-7 anos antes da bateria degradar. Oral-B (motor rotativo) costuma durar 3-5 anos. A bateria do iO 9 é trocável; das outras não. Considere isso no custo total ao longo da vida útil."
     }
   ],
+  "offerNotes": {
+    "oral-b-io-series-9": "A escova top de linha da Oral-B, com movimento oscilatório-rotatório e acionamento magnético (mais silencioso e potente que os motores tradicionais), mapeamento da boca em 16 zonas com IA pelo app da Oral-B, anel colorido sensor de pressão no cabo e seis modos de limpeza. A cabeça redonda oscilante é a geometria mais estudada na literatura clínica sobre escovas elétricas. Passa de R$ 1.800 só a escova; some R$ 340 a R$ 630 por dois anos de refis compatíveis com a linha iO no preço de varejo sem assinatura; o app insiste bastante no compartilhamento de dados durante a configuração inicial, e os dados dos seus hábitos de escovação vão para os servidores da Oral-B; a cabeça redonda não abraça bem dentes apinhados ou tortos, uma limitação real para quem tem histórico ortodôntico.",
+    "philips-sonicare-diamondclean-9000": "A sônica top de linha da Philips Sonicare, com quatro modos de limpeza (Clean, White+, Gum Health e Deep Clean+), sensor de pressão que reduz a rotação do motor quando você força demais, um copo de vidro carregador bem característico e um acabamento premium que faz dela a escova mais adequada para presente nesta comparação. A tecnologia sônica, com 31.000 movimentos por minuto, é mais suave com a gengiva do que a oscilatória-rotatória — boa escolha para quem tem sensibilidade ou retração gengival. Passa de R$ 1.500 a escova; o copo de vidro carregador é francamente impraticável em viagem: é frágil, ocupa espaço e não carrega a escova na estrada sem um cabo de viagem separado; o custo dos refis em dois anos é parecido com o da Oral-B.",
+    "panasonic-doltz-ew-dp52": "A sônica de entrada da Philips Sonicare, com sensor de pressão, timer de dois minutos com QuadPacer, lembrete BrushSync de desgaste da cabeça, refis de encaixe e nenhum peso de app ou Bluetooth. A Sonicare é uma marca consolidada de escovas elétricas, com ampla oferta de refis. As contrapartidas: um único modo de limpeza, sem opção de escolha; nenhum coaching por IA ou feedback via app, então a melhora do hábito depende da sua própria constância e do alerta de pressão; não vem estojo de viagem na caixa.",
+    "quip-electric-toothbrush": "A escova elétrica minimalista da Quip, com perfil achatado que cabe em qualquer nécessaire sem precisar de estojo, Selo de Aceitação da ADA (associação odontológica americana), timer interno de dois minutos com intervalos de 30 segundos por quadrante e um modelo de assinatura (US$ 5 por trimestre) que entrega refil novo e pilha AAA a cada três meses. A Quip funciona com uma única pilha AAA, e não com bateria recarregável, o que elimina qualquer cabo de carregamento do kit de viagem. O modo de vibração é básico — não atende à definição clínica de tecnologia oscilatória ou sônica usada nos estudos revisados pela Cochrane, ou seja, a escova não oferece a vantagem mecânica dessas tecnologias; não tem sensor de pressão, a ausência clínica mais significativa desta comparação; os refis só são vendidos pela assinatura da Quip, não em farmácia, o que vira problema de abastecimento se você perder uma cabeça viajando.",
+    "oclean-x-pro-elite": "A escova top da Oclean com coaching por IA, motor piezoelétrico (bem mais silencioso que escovas oscilatórias ou sônicas), display AMOLED no cabo mostrando cobertura e pressão em tempo real, coaching por IA que aponta as zonas esquecidas sem exigir o celular na mão e cerca de 30 dias de bateria por carga. Por volta de R$ 480, entrega coaching por IA a mais ou menos um quarto do preço da Oral-B iO Series 9. A Oclean é uma marca mais nova (fundada em 2017), com histórico de confiabilidade de longo prazo menor que o de Oral-B ou Philips; os dados de coaching do app vão para servidores chineses, uma questão de jurisdição dos dados distinta da qualidade do produto; os refis são vendidos principalmente online, e não em farmácias físicas, na maioria dos mercados fora da China."
+  },
   "pinDescription": "Da rotativa de entrada à flagship com guia por IA: o que realmente muda entre 5 escovas elétricas — e por que a mais cara é exagero pra maioria.",
-  "methodology": "Cada produto é avaliado pela transparência dos ingredientes, pelo histórico dermatológico, pela consistência dos resultados em usuários reais, pela qualidade da embalagem e pelo custo-benefício por uso."
+  "methodology": "Cada produto é avaliado pela transparência dos ingredientes, pelo histórico dermatológico, pela consistência dos resultados em usuários reais, pela qualidade da embalagem e pelo custo-benefício por uso.",
+  "products": [
+    {
+      "offerId": "oral-b-io-series-9",
+      "badge": "Melhor coaching por IA",
+      "review": "A iO Series 9 é a escova com mais recursos de acompanhamento de hábito desta comparação. A cabeça oscilatória-rotatória com acionamento magnético gira a cerca de 9.000 oscilações por minuto, com bem menos vibração no cabo do que os motores antigos da linha Oral-B Pro, e o mapeamento da boca em 16 zonas via Bluetooth no app da Oral-B mostra quais superfícies você deixou passar em cada escovação. Um anel colorido sensor de pressão no cabo muda de branco para vermelho quando a força passa do limite de desgaste do esmalte — o único recurso da categoria com respaldo clínico claro. Seis modos de limpeza e um estojo de viagem que carrega completam o pacote. A cabeça redonda vai bem em arcadas regulares; dentes apinhados ou girados recebem contato menos uniforme do que teriam com uma cabeça sônica.",
+      "pros": [
+        "Mapeamento por IA em 16 zonas com feedback a cada escovação",
+        "Anel sensor de pressão com alerta colorido visível no cabo",
+        "Acionamento magnético mais silencioso que os motores Pro antigos",
+        "Selo da ADA e geometria oscilatória bastante estudada"
+      ],
+      "cons": [
+        "A cabeça redonda encaixa pior em dentes apinhados ou girados",
+        "O app exige conta Oral-B e insiste no compartilhamento de dados na configuração"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "philips-sonicare-diamondclean-9000",
+      "badge": "Melhor para presentear",
+      "review": "A DiamondClean 9000 é a sônica top da Philips Sonicare com apresentação premium — o copo de vidro carregador, o cabo com peso agradável e a embalagem laqueada fazem dela a escova mais presenteável desta comparação. A vibração sônica de 31.000 movimentos por minuto é mais suave com a gengiva do que a oscilatória-rotatória, o que a torna a melhor opção para quem tem retração ou sensibilidade. Quatro modos cobrem Clean, White+, Gum Health e Deep Clean+, e o sensor de pressão reduz a rotação do motor quando você força demais, em vez de só acender uma luz. O copo de vidro é frágil e impraticável em viagem; para qualquer trip que passe da autonomia da bateria, você precisa de um estojo e um cabo comum à parte.",
+      "pros": [
+        "Sônica de 31.000 movimentos/min é mais suave em gengiva retraída ou sensível",
+        "O motor desacelera com pressão excessiva, em vez de só piscar uma luz",
+        "Copo de vidro carregador e embalagem premium ficam ótimos como presente",
+        "Quatro modos de limpeza atendem à maioria dos perfis"
+      ],
+      "cons": [
+        "O copo de vidro carregador é frágil e inútil em viagem",
+        "Modelo de dados do app e criação de conta equivalentes aos da Oral-B"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "panasonic-doltz-ew-dp52",
+      "badge": "Melhor sem app",
+      "review": "A Sonicare ProtectiveClean 4100 é a sônica de entrada para quem quer sensor de pressão e timer de dois minutos sem Bluetooth, sem conta em app e sem envio de dados. Tem um único modo de limpeza, então não há menu para aprender — você aperta um botão e escova. A vibração sônica remove placa muito bem por um preço acessível, a luz do BrushSync avisa quando a cabeça está gasta, e os refis de encaixe são fáceis de achar em farmácias e no varejo online. A troca é honesta: um modo só, nenhum estojo de viagem na caixa e nada de coaching por IA ou mapeamento de zonas — a melhora do hábito fica por conta da sua constância e do alerta de pressão.",
+      "pros": [
+        "Alerta do sensor de pressão — sem precisar de app",
+        "Modo único de um botão, simples de usar no dia a dia",
+        "Luz do BrushSync avisa quando a cabeça está gasta",
+        "Tecnologia sônica é mais suave com a gengiva que a oscilatória-rotatória"
+      ],
+      "cons": [
+        "Só um modo de limpeza e nenhum estojo de viagem incluso",
+        "Sem coaching por IA nem feedback de mapeamento por zonas"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "quip-electric-toothbrush",
+      "badge": "Melhor para viagem",
+      "review": "A Quip Electric é a escolha minimalista pensada para viagem — perfil achatado que cabe em qualquer nécessaire sem estojo, timer interno de dois minutos com intervalos de 30 segundos por quadrante e uma assinatura que manda refil novo e pilha AAA a cada três meses por US$ 5. Como funciona com uma única pilha AAA, e não com bateria recarregável, o cabo de carregamento some do kit de viagem, e ela tem o Selo de Aceitação da ADA. As ausências são reais: nenhum sensor de pressão (a lacuna clínica mais relevante desta comparação), vibração básica que não atende à definição clínica de oscilatória ou sônica, e refis só por assinatura — ou seja, não dá para comprar um extra na farmácia no meio da viagem.",
+      "pros": [
+        "Perfil achatado cabe em qualquer nécessaire sem estojo de viagem",
+        "Pilha AAA única elimina qualquer cabo de carregamento",
+        "Assinatura de US$ 5 por trimestre é o menor custo de refis em dois anos da lista",
+        "Selo de Aceitação da ADA e timer de 30 segundos por quadrante embutido"
+      ],
+      "cons": [
+        "Sem sensor de pressão — a ausência clínica mais importante aqui",
+        "Refis só por assinatura, não em farmácia"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "oclean-x-pro-elite",
+      "badge": "Melhor custo-benefício",
+      "review": "A X Pro Elite traz coaching de escovação por IA, display AMOLED com cobertura por zona e pressão em tempo real, motor piezoelétrico silencioso e cerca de 30 dias de bateria por carga por volta de R$ 480 — uma virada de categoria em relação à época em que escovar com IA custava R$ 1.500 ou mais. A tela AMOLED no cabo dá o feedback sem exigir o celular na mão, uma vantagem de uso real sobre os sistemas que dependem só de Bluetooth. O motor piezoelétrico é o mais silencioso do grupo. As ressalvas existem: histórico de marca mais curto que o de Oral-B ou Philips, dados do app em servidores chineses (questão de jurisdição, distinta da qualidade do produto) e refis vendidos principalmente online, não em farmácias.",
+      "pros": [
+        "Display AMOLED mostra cobertura e pressão sem o celular na mão",
+        "Motor piezoelétrico bem mais silencioso que oscilatório ou sônico",
+        "Cerca de 30 dias de bateria — a maior autonomia desta comparação",
+        "Menor custo total em dois anos do grupo"
+      ],
+      "cons": [
+        "Dados do app ficam em servidores chineses — atenção para quem se importa com jurisdição",
+        "Refis não são vendidos em farmácias físicas na maioria dos mercados"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para quem sempre esquece as mesmas áreas, segundo o dentista",
+      "offerId": "oral-b-io-series-9",
+      "reason": "O mapeamento da boca em 16 zonas via Bluetooth é o feedback mais detalhado da categoria e ataca diretamente um problema de padrão de escovação já identificado."
+    },
+    {
+      "label": "Para gengiva sensível ou com retração",
+      "offerId": "philips-sonicare-diamondclean-9000",
+      "reason": "Os 31.000 movimentos/min da tecnologia sônica e um sensor de pressão que desacelera o motor são mais suaves com a gengiva comprometida do que a oscilatória-rotatória."
+    },
+    {
+      "label": "Para quem se preocupa com privacidade e não quer app",
+      "offerId": "panasonic-doltz-ew-dp52",
+      "reason": "Alerta de pressão e timer embutido sem nenhum Bluetooth, criação de conta ou envio de dados para servidor de empresa."
+    },
+    {
+      "label": "Para quem viaja muito e curte o mínimo",
+      "offerId": "quip-electric-toothbrush",
+      "reason": "Perfil achatado que cabe em qualquer bolsa, funciona com uma pilha AAA (nada de carregador) e a assinatura de US$ 5 por trimestre resolve refil e pilha."
+    },
+    {
+      "label": "Para ter coaching por IA gastando pouco",
+      "offerId": "oclean-x-pro-elite",
+      "reason": "Feedback por zona no AMOLED e coaching por IA por cerca de um quarto do preço da Oral-B iO, com a maior autonomia de bateria desta comparação."
+    }
+  ]
 }

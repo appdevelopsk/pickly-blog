@@ -107,5 +107,114 @@
     "hitachi-pv-bl3k": "Opção leve econômica — corpo leve (bem abaixo dos 3,0 kg do Dyson V15), cabeçote de escova motorizado com luzes LED, bateria removível e suporte de carregamento de parede fino. O modo turbo necessário para tapetes acima de 5 mm de pelo esvazia a bateria muito mais rápido do que o generoso número do modo padrão; o depósito básico é menor do que as unidades de 0,5-0,8 L e precisa ser esvaziado com mais frequência; a sucção não alcança o nível do Dyson V15 em tapetes grossos ou superfícies cheias de pelo de animal."
   },
   "pinDescription": "Cinco aspiradores sem fio comparados em 2026, do Eureka RapidClean Pro NEC180 de nível de entrada ao Dyson V15 Detect Absolute topo de linha. Sucção em pisos reais, autonomia no modo que você realmente usa, peso após 10 minutos na mão, espaço da base em um corredor de apartamento, e a letra miúda da garantia que nenhuma marca explica direito.",
-  "methodology": "Avaliamos cada produto quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. Comparamos as especificações do fabricante com avaliações verificadas de quem já comprou."
+  "methodology": "Avaliamos cada produto quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. Comparamos as especificações do fabricante com avaliações verificadas de quem já comprou.",
+  "products": [
+    {
+      "offerId": "dyson-v15-detect-absolute",
+      "badge": "Melhor potência geral",
+      "review": "O V15 Detect Absolute tem a sucção mais forte desta seleção e é o único cujo laser verde no rolo macio realmente muda a forma como você limpa piso de madeira — poeira que você não enxergaria com a luz do teto fica visível na hora. O motor digital Hyperdymium de 240 air watts arranca sujeira entranhada de tapetes de 10 mm que as vassouras mais leves claramente deixam para trás, o reservatório de 0,77 L é o maior entre os modelos sem esvaziamento automático desta comparação, e o sensor acústico piezoelétrico de partículas ajusta a sucção conforme a densidade da sujeira, em vez de trabalhar sempre no máximo. O ponto fraco, com toda a franqueza, é o peso: 3,0 kg com o bocal de piso acoplado cansa quem tem menos força depois de 10 minutos limpando cortinas altas ou escada, e a autonomia no modo máximo cai para cerca de 12 minutos. Combine com um robô aspirador para que o sem fio seja a ferramenta de limpeza pesada, não o do dia a dia.",
+      "pros": [
+        "Maior sucção sustentada da comparação — 240 air watts",
+        "O laser deixa a sujeira do piso de madeira impossível de ignorar",
+        "Reservatório de 0,77 L, o maior sem esvaziamento automático",
+        "Sensor piezoelétrico de partículas ajusta a potência sozinho"
+      ],
+      "cons": [
+        "Corpo de 3,0 kg cansa em limpeza de partes altas e escadas",
+        "Cerca de 12 minutos no modo máximo, e 82–84 dB atravessam a parede do vizinho"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "eufy-mach-v1",
+      "badge": "Melhor custo-benefício híbrido",
+      "review": "O MACH V1 vem com dois bocais intercambiáveis — uma escova rotativa motorizada para pó seco e um rolo-mop com reservatórios de água limpa e suja mais uma base que se enxágua sozinha — e é o único aparelho desta seleção que substitui de verdade o aspirador vertical e o mop de uma vez só, pelo preço de um. No modo seco a sucção equivale a cerca de 16.000 Pa, a autonomia é de 35 minutos no modo padrão e 15 no máximo, e a função úmida dá conta de respingos leves de cozinha, marcas de pata e aquela sujeira úmida que aspirador nenhum tira. As contrapartidas são claras: 35 minutos não fecham uma casa de mais de 100 m² sem parada para recarga, o mop não substitui um Bissell SpinWave para café ressecado ou respingo grudento, e o sistema de água exige manutenção semanal da base, senão em um mês aparece cheiro de água parada.",
+      "pros": [
+        "Bocal seco e bocal úmido no mesmo aparelho por preço de entrada",
+        "Base autolimpante enxágua o rolo do mop depois do uso",
+        "Sucção suficiente para madeira, porcelanato e tapete de pelo curto",
+        "Substitui dois eletrodomésticos em casas com muito piso duro"
+      ],
+      "cons": [
+        "Os 35 minutos do modo padrão obrigam a pausas para recarga acima de 100 m²",
+        "A função úmida não substitui um mop de verdade em sujeira grudenta"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "shark-cs501j",
+      "badge": "Melhor esvaziamento automático",
+      "review": "O CS501J é o modelo que faz você voltar a aspirar duas vezes por semana em vez de duas vezes por mês, porque a base de autoesvaziamento puxa a sujeira do reservatório para um saco lacrado de 0,6 L toda vez que você encaixa o aparelho — simplesmente nunca mais esvazia nada na mão. A escova autolimpante tem uma lâmina interna que corta o pelo de animal e o cabelo enrolado enquanto você aspira, e o corpo fica em pé sozinho, sem tombar quando você o apoia para afastar um móvel. A autonomia anunciada no modo econômico é de 40 minutos. Os custos são estruturais: a base tem 25–30 cm de largura por 40–50 cm de profundidade e pede cerca de 180 cm de altura livre, o que domina um corredor estreito de apartamento com menos de 90 cm; os sacos lacrados são um consumível anual recorrente; e o ciclo da base faz 80–85 dB por 6 a 10 segundos a cada encaixe.",
+      "pros": [
+        "Base de autoesvaziamento acaba com o incômodo de despejar o reservatório",
+        "Escova autolimpante resolve o cabelo enrolado sem desenrolar na mão",
+        "Corpo fica em pé sozinho quando apoiado",
+        "40 minutos anunciados no modo econômico"
+      ],
+      "cons": [
+        "A base domina corredores de apartamento com menos de 90 cm",
+        "Custo recorrente de sacos lacrados todo ano"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "tineco-pure-one-s15-pet",
+      "badge": "Melhor para pelo de pet",
+      "review": "O Pure One S15 Pet foi feito exatamente para o volume de pelo que acaba com as escovas de cerda tradicionais. A escova antiemaranhamento usa um rolo cônico com ranhuras laterais de corte, então o pelo enrolado migra para fora da escova em vez de se acumular nos mancais, e o sensor de poeira iLoop ajusta a sucção em tempo real conforme muda a densidade da sujeira. O reservatório de 0,6 L e os cerca de 40 minutos no modo econômico são competitivos para o preço, e quem tem mais de um bicho em casa costuma dizer que é o primeiro sem fio que teve que não exige a sessão semanal de tesoura e pinça na escova. As fraquezas honestas estão ao redor do aparelho, não na limpeza: o sistema de água do bocal úmido opcional faz a base pedir limpeza profunda a cada 2–4 semanas mesmo se você só usar o modo seco, a rede de assistência da Tineco no Brasil é mais estreita que a da Dyson ou da Shark, e alguns ajustes avançados só existem no aplicativo.",
+      "pros": [
+        "Geometria antiemaranhamento elimina a limpeza semanal da escova",
+        "Sensor de poeira iLoop ajusta a sucção em tempo real",
+        "Cerca de 40 minutos de autonomia no modo econômico",
+        "Display de LED mostra bateria e densidade de poeira"
+      ],
+      "cons": [
+        "A base pede limpeza profunda a cada 2–4 semanas mesmo só no modo seco",
+        "Peças da Tineco levam de 3 a 5 semanas, contra 1 a 2 da Dyson"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "hitachi-pv-bl3k",
+      "badge": "Melhor leve para o dia a dia",
+      "review": "O RapidClean Pro NEC180 é um vertical leve e barato — bem abaixo dos 3,0 kg do Dyson V15 — pensado para conforto no uso diário, não para sucção de pico. Tem escova motorizada, faróis de LED que revelam a poeira em ambiente com pouca luz, bateria removível e um suporte de parede fino para carregar sem atrapalhar um corredor estreito. A autonomia anunciada no modo padrão é generosa para a faixa de preço. As contrapartidas são evidentes: o modo turbo, necessário em tapetes de mais de 5 mm, drena a bateria bem mais rápido; o reservatório é menor que os de 0,5–0,8 L daqui e precisa ser esvaziado com mais frequência; e a sucção fica na lanterna desta comparação, longe do Dyson em tapete grosso ou superfície cheia de pelo. É a escolha certa se sua casa é quase toda de piso duro e tapete de pelo curto e você quer algo barato para pegar e usar.",
+      "pros": [
+        "Corpo leve — fácil de manobrar e leve no pulso",
+        "Faróis de LED revelam poeira em piso duro com pouca luz",
+        "Bateria removível e suporte de parede fino",
+        "Preço baixo para um sem fio com escova motorizada"
+      ],
+      "cons": [
+        "Reservatório básico e filtro lavável único exigem atenção frequente",
+        "Sucção fica atrás da Dyson em tapete grosso e muito pelo de pet"
+      ],
+      "grade": "B"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para quem já tem robô aspirador cuidando do dia a dia",
+      "offerId": "dyson-v15-detect-absolute",
+      "reason": "Os 240 air watts e o laser fazem dele a ferramenta de faxina semanal e de escada que o robô não dá conta — e os 3,0 kg passam a ser aceitáveis quando as sessões são curtas e pontuais."
+    },
+    {
+      "label": "Para casas com muito piso duro que ainda precisam passar pano",
+      "offerId": "eufy-mach-v1",
+      "reason": "Bocais seco e úmido intercambiáveis com base autolimpante substituem o aspirador vertical e o mop por preço de entrada — o híbrido certo para casas com 80% ou mais de piso duro."
+    },
+    {
+      "label": "Para quem deixa de aspirar por preguiça de esvaziar o reservatório",
+      "offerId": "shark-cs501j",
+      "reason": "A base de autoesvaziamento e a escova autolimpante eliminam os dois atritos (reservatório e cabelo) que derrubam a frequência de limpeza — vale o espaço da base em casas maiores."
+    },
+    {
+      "label": "Para quem tem vários bichos e sofre com pelo solto todo dia",
+      "offerId": "tineco-pure-one-s15-pet",
+      "reason": "A escova antiemaranhamento é a única desta seleção que dispensa a sessão semanal de tesoura e pinça, e o sensor iLoop acompanha a densidade do pelo."
+    },
+    {
+      "label": "Para apartamentos de até 80 m² com piso duro na maior parte",
+      "offerId": "hitachi-pv-bl3k",
+      "reason": "Corpo leve, suporte de parede fino e boa autonomia no modo padrão cobrem o apartamento inteiro por pouco dinheiro, sem cansar o pulso nem roubar espaço com uma base."
+    }
+  ]
 }

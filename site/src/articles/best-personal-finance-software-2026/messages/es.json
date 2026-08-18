@@ -2,5 +2,161 @@
   "title": "Mejor software de finanzas personales 2026: 5 comparados",
   "description": "Comparamos YNAB, Monarch Money, Quicken Simplifi, Empower, Tiller. Esto es lo que realmente destaca en fiabilidad de sincronización bancaria y metodología de presupuesto para software de finanzas personales en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Fiabilidad de la sincronización bancaria",
+      "paragraphs": [
+        "Monarch Money es el que recibe los informes de sincronización más constantes de los cinco. Hay reconexiones, pero los usuarios las describen como algo puntual, no rutinario.",
+        "YNAB va justo detrás. Chase y Capital One son las conexiones que más a menudo hay que volver a autorizar, según los usuarios.",
+        "Quicken Simplifi acumula el mayor número de quejas por reconexión del grupo, con Bank of America a la cabeza.",
+        "Empower Personal Dashboard destaca en cuentas de inversión; los usuarios señalan las conexiones de cuentas corrientes y tarjetas de crédito como su punto débil.",
+        "Tiller Money: la sincronización bancaria vía Plaid está al nivel de Monarch. El problema es que Tiller escribe los datos en Google Sheets, lo que añade fragilidad si no te manejas con hojas de cálculo."
+      ]
+    },
+    {
+      "heading": "Metodología de presupuesto",
+      "paragraphs": [
+        "YNAB impone el presupuesto de base cero: cada euro tiene una función asignada antes de que lo gastes. Es el método más disciplinado y el más eficaz para cambiar hábitos, pero exige revisarlo a diario. La curva de aprendizaje es la más dura.",
+        "Monarch y Simplifi usan presupuesto por categorías (fijas un límite por categoría y controlas el gasto). Es más fácil de adoptar, pero cambia menos tu comportamiento.",
+        "Empower se centra en el patrimonio neto y el seguimiento de inversiones más que en presupuestar. Ideal para inversores que ya tienen el gasto bajo control.",
+        "Tiller vuelca los datos en Google Sheets y te deja montar la metodología que quieras. Máxima flexibilidad, mínima orientación."
+      ]
+    },
+    {
+      "heading": "El mejor para cada caso",
+      "paragraphs": [
+        "Mejor para presupuestar en serio: YNAB, 109 € al año. El método de base cero cambia de verdad la forma de gastar. Compensa la dura curva de aprendizaje.",
+        "Mejor sustituto de Mint: Monarch Money, 99 € al año. Interfaz al estilo Mint con desarrollo activo, uso compartido en pareja o familia y sin publicidad. La opción por defecto para la mayoría de exusuarios de Mint.",
+        "Mejor opción económica: Quicken Simplifi, 48 € al año. Presupuesto sólido al precio más bajo entre las opciones de pago.",
+        "Mejor para inversores: Empower Personal Dashboard, gratis. Se centra en el patrimonio neto y la planificación de la jubilación más que en el presupuesto detallado.",
+        "Mejor para amantes de las hojas de cálculo: Tiller Money, 79 € al año. Flexibilidad máxima mediante Google Sheets. Elígelo solo si disfrutas trabajando con hojas de cálculo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Por qué cerró Mint?",
+      "a": "Intuit (la matriz de Mint) lo integró en Credit Karma, también de Intuit. Las funciones de presupuesto de Credit Karma son limitadas, así que los usuarios de Mint han migrado sobre todo a Monarch (donde entraron antiguos empleados de Mint) o a YNAB."
+    },
+    {
+      "q": "¿Merece la pena YNAB por 109 € al año?",
+      "a": "Sí, si vas a usarlo a diario y seguir el método de base cero. El cambio de hábitos suele suponer un ahorro de más de 1.000 € el primer año. Si solo vas a mirarlo una vez por semana sin cambiar nada, Simplifi por 48 € es suficiente."
+    },
+    {
+      "q": "¿Empower gratis está a la altura de las alternativas de pago?",
+      "a": "Para seguimiento de inversiones y patrimonio neto, sí: Empower es excelente. Para presupuesto detallado y gestión de categorías, no: sus funciones son básicas. Si quieres las dos cosas, combina Empower con Monarch."
+    },
+    {
+      "q": "¿Es seguro conectar estas herramientas a mi banco?",
+      "a": "Las cinco usan Plaid (o similar), con acceso OAuth de solo lectura: no pueden retirar dinero. Plaid tiene seguridad de nivel bancario. El riesgo está en que te comprometan la cuenta de la propia herramienta, así que usa contraseñas únicas y robustas más verificación en dos pasos."
+    }
+  ],
+  "products": {
+    "ynab-budgeting": {
+      "badge": "🏆 Mejor para presupuestar en serio",
+      "review": "YNAB (You Need a Budget) es la elección acertada si de verdad vas a implicarte. Su metodología de base cero —cada euro tiene una función antes de que lo gastes— cambia el comportamiento de forma real. Los usuarios suelen notar una caída brusca del gasto 'sin justificar' en los primeros meses. La contrapartida es la revisión diaria y una curva de aprendizaje de 4 a 6 semanas. Sus 109 € al año son el precio más alto de la comparativa, pero si lo usas con constancia es el que mejor rentabilidad ofrece.",
+      "pros": [
+        "El presupuesto de base cero cambia los hábitos de gasto",
+        "El mejor contenido formativo (talleres gratuitos, pódcast)",
+        "Comunidad muy activa"
+      ],
+      "cons": [
+        "La curva de aprendizaje más dura (4-6 semanas)",
+        "Exige revisiones diarias para aprovecharlo del todo",
+        "109 € al año, el precio más alto"
+      ]
+    },
+    "monarch-money": {
+      "badge": "🪟 Mejor sustituto de Mint",
+      "review": "Monarch Money es la opción por defecto tras el cierre de Mint. Fundado por antiguos empleados de Mint, ofrece una interfaz muy parecida pero sin publicidad (Mint, antes de cerrar, estaba saturado de ofertas de tarjetas). Buena sincronización bancaria, uso compartido en el hogar, categorías personalizadas y un excelente seguimiento de inversiones. 14,99 € al mes o 99 € al año. Su enfoque 'todo en uno' significa que hace muchas cosas bien, pero no destaca en ninguna en concreto.",
+      "pros": [
+        "Interfaz al estilo Mint y sin publicidad",
+        "La sincronización bancaria más estable de las cinco, según los usuarios",
+        "Uso compartido para parejas y familias"
+      ],
+      "cons": [
+        "99 € al año, en la franja media",
+        "Metodología de presupuesto menos rigurosa que la de YNAB",
+        "Fundado en 2018 (más reciente que otras alternativas)"
+      ]
+    },
+    "quicken-simplifi": {
+      "badge": "💸 Mejor opción económica",
+      "review": "Quicken Simplifi es la mejor opción económica con sus 48 € al año (3,99 € al mes con pago anual). Es un Quicken Online recortado, centrado en presupuesto y sincronización bancaria. Esa sincronización genera más quejas por reconexión que Monarch o YNAB. La 'lista de seguimiento' del plan de gastos resulta muy útil para controlar los recibos recurrentes. No profundiza en inversiones ni permite compartir cuenta en el hogar.",
+      "pros": [
+        "48 € al año, el precio más bajo entre las opciones de pago",
+        "Lista de seguimiento para gastos recurrentes",
+        "Respaldado por Quicken (propiedad de Aqua Capital)"
+      ],
+      "cons": [
+        "Reconexiones de sincronización más frecuentes que en Monarch",
+        "Sin uso compartido en el hogar",
+        "Seguimiento de inversiones limitado"
+      ]
+    },
+    "empower-personal-dashboard": {
+      "badge": "📈 Mejor para inversores",
+      "review": "Empower Personal Dashboard (antes Personal Capital) es la herramienta gratuita idónea para inversores. El seguimiento del patrimonio neto, el planificador de jubilación, el analizador de comisiones de inversión y las herramientas de distribución de activos son excelentes. Las funciones de presupuesto son básicas: suficientes para rentas altas que no necesitan controlar cada partida pero sí quieren visibilidad de sus inversiones. Empower también es una gestora patrimonial: si superas los 250.000 € en activos monitorizados, te llamarán para venderte sus servicios.",
+      "pros": [
+        "Excelente seguimiento de inversiones y jubilación",
+        "Gratuito",
+        "Buenas herramientas de distribución de activos"
+      ],
+      "cons": [
+        "Funciones de presupuesto básicas",
+        "Llamadas comerciales si superas los 250.000 € monitorizados",
+        "Menos enfocado en cambiar los hábitos de gasto"
+      ]
+    },
+    "tiller-money": {
+      "badge": "📊 Mejor para fans de las hojas de cálculo",
+      "review": "Tiller Money vuelca a diario los movimientos bancarios sincronizados en Google Sheets (o Excel). A partir de ahí, montas la metodología de presupuesto que quieras con plantillas ya hechas o tus propias fórmulas. 79 € al año. Máxima flexibilidad, mínima tutela. Ideal para quien disfruta trabajando con hojas de cálculo, no para quien busca una app cuidada. La biblioteca de plantillas es el mejor punto de partida; la mayoría acaba con una hoja personalizada al estilo YNAB o de sobres.",
+      "pros": [
+        "Flexibilidad máxima mediante Google Sheets",
+        "Amplia biblioteca de plantillas",
+        "Sincronización bancaria diaria vía Plaid"
+      ],
+      "cons": [
+        "Requiere soltura con hojas de cálculo",
+        "Sin app móvil propia (solo Sheets en el móvil)",
+        "La configuración lleva de 2 a 4 horas"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ynab-budgeting": "Regístrate en youneedabudget.com. Prueba gratuita de 34 días. El pago anual (109 €) sale mucho más barato que el mensual (14,99 €/mes = 180 € al año). Los estudiantes tienen un año gratis.",
+    "monarch-money": "Regístrate en monarchmoney.com. Prueba gratuita de 7 días. El pago anual (99 €) ahorra 80 € frente al mensual. Circulan a menudo códigos promocionales con un 30-50 % de descuento el primer año.",
+    "quicken-simplifi": "Regístrate en quicken.com/simplifi. Garantía de devolución de 30 días. Suele rebajarse a 24 € el primer año desde la web de Quicken.",
+    "empower-personal-dashboard": "Regístrate en empower.com. Totalmente gratuito. Si superas los 250.000 € en activos monitorizados, recibirás una llamada de presentación de un asesor patrimonial: recházala amablemente si no te interesa.",
+    "tiller-money": "Regístrate en tillerhq.com. Prueba gratuita de 30 días. Solo pago anual (79 €). Incluye acceso a la biblioteca de plantillas y al Discord de la comunidad Tiller."
+  },
+  "pinDescription": "¿Sigues sin saber en qué se te va el sueldo cada mes? Comparamos YNAB, Monarch Money, Quicken Simplifi, Empower y Tiller: precio, sincronización con el banco, método de presupuesto y control de inversiones. Elige la app que de verdad te va a durar.",
+  "recommendedFor": [
+    {
+      "label": "Quien arrastra deudas y está decidido a cambiar sus hábitos de gasto",
+      "offerId": "ynab-budgeting",
+      "reason": "El método de base cero de YNAB obliga a asignar una función a cada euro, lo que provoca el cambio de hábitos necesario para saldar deudas."
+    },
+    {
+      "label": "Antiguos usuarios de Mint que buscan un relevo sin sobresaltos",
+      "offerId": "monarch-money",
+      "reason": "Creado por exempleados de Mint, con una interfaz familiar, uso compartido en el hogar y la sincronización bancaria más estable de las cinco."
+    },
+    {
+      "label": "Quien quiere presupuestar lo básico sin pagar de más",
+      "offerId": "quicken-simplifi",
+      "reason": "Por 48 € al año —el precio más bajo entre las opciones de pago— Simplifi cubre el presupuesto esencial y el control de gastos recurrentes."
+    },
+    {
+      "label": "Inversores con ingresos altos que controlan patrimonio y jubilación",
+      "offerId": "empower-personal-dashboard",
+      "reason": "El analizador gratuito de comisiones, las herramientas de distribución de activos y el planificador de jubilación de Empower no tienen rival a ningún precio."
+    },
+    {
+      "label": "Usuarios avanzados de hojas de cálculo que quieren control total",
+      "offerId": "tiller-money",
+      "reason": "Tiller envía a diario los datos bancarios a Google Sheets, para que montes el sistema de presupuesto que quieras con total libertad de fórmulas."
+    }
+  ]
 }

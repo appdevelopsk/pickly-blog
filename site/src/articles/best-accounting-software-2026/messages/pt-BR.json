@@ -2,5 +2,153 @@
   "title": "Melhor software de contabilidade 2026: 5 comparados",
   "description": "Comparamos QuickBooks, Xero, FreshBooks, Wave, Sage. Veja o que realmente se destaca em UX de faturamento e aceitação do contador para software de contabilidade em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Emissão de notas e captura de despesas",
+      "paragraphs": [
+        "Experiência de cobrança: o FreshBooks é o mais fácil para negócios de serviço (projeto + controle de horas + cobrança num fluxo só). O QuickBooks Online tem mais modelos e opções de personalização. O Xero fica no meio — interface limpa, menos personalização que o QBO. O Wave funciona, mas é básico. A cobrança do Sage 50cloud tem cara de sistema antigo.",
+        "Captura de recibos (foto do recibo → lançamento da despesa): QuickBooks Online 92% de precisão, Xero 91%, FreshBooks 88%, Wave 82%, Sage 50cloud 75% (mais baixo porque o app mobile ficou para trás).",
+        "Conciliação bancária: Xero e QuickBooks empatam na categorização automática mais rápida (machine learning). O FreshBooks dá conta do recado. O Wave é manual. O Sage 50cloud tem regras poderosas, mas exige configuração."
+      ]
+    },
+    {
+      "heading": "Aceitação pelo contador na época do imposto",
+      "paragraphs": [
+        "Familiaridade dos contadores, em ordem aproximada: QuickBooks Online Plus (o mais conhecido — a maioria dos contadores nos EUA tem certificação QBO), Xero Growing (exportações limpas, ganhando espaço), FreshBooks Plus (bom para serviços, mas falta alguns relatórios contábeis tradicionais), Wave (aceitável para empresas abaixo de R$ 2,5 milhões de faturamento), Sage 50cloud Pro (poderoso, mas pouco comum fora de setores específicos).",
+        "O QuickBooks Online domina o mercado contábil americano — achar um contador que trabalhe com QBO é trivial por lá. O Xero está correndo atrás rápido. Fora dos EUA (Reino Unido, Austrália, Nova Zelândia), o Xero costuma liderar. No Brasil, vale confirmar com seu contador antes de fechar plano, já que nenhum dos dois integra com a escrituração fiscal local.",
+        "A economia de tempo no fechamento é onde a diferença aparece: extratos bancários automáticos, captura de recibos e uma trilha de auditoria limpa fazem o contador trabalhar com dados já conciliados em vez de remontar o ano a partir de papel. QBO e Xero são os mais fortes aqui pela amplitude da automação de extratos e conciliação, FreshBooks e Wave automatizam menos, e o Sage 50cloud alcança os líderes — mas só depois de a configuração estar pronta."
+      ]
+    },
+    {
+      "heading": "Preço na prática (ano 1 vs ano 2)",
+      "paragraphs": [
+        "Preço mensal para uma consultoria de 12 pessoas (sem módulo de folha): QuickBooks Online Plus US$ 90 (cerca de R$ 490), Xero Growing US$ 42 (cerca de R$ 230), FreshBooks Plus US$ 33 (cerca de R$ 180, limitado a 50 clientes), Wave US$ 0 (grátis), Sage 50cloud Pro US$ 60 (cerca de R$ 330).",
+        "Promoções de primeiro ano: o QBO costuma dar 50% de desconto nos 6 primeiros meses. O Xero, 60% nos 3 primeiros. O FreshBooks solta com frequência 50% no primeiro ano. O Wave é grátis para sempre (fatura em cima do processamento de pagamentos).",
+        "Módulo de folha: QBO Payroll custa US$ 50-80/mês (cerca de R$ 275 a R$ 440) mais valor por funcionário. O Gusto integra com todos — costuma ser escolha melhor do que os módulos nativos. Atenção: nenhum desses módulos calcula folha nos moldes da CLT."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "QuickBooks ou Xero?",
+      "a": "QuickBooks se você opera nos EUA e quer que a maioria dos contadores conheça seu sistema. Xero se você está no Reino Unido, Austrália ou Nova Zelândia, ou se valoriza uma interface mais limpa. Os dois são excelentes — decida pela disponibilidade de contadores na sua região."
+    },
+    {
+      "q": "O Wave é grátis mesmo?",
+      "a": "É, para contabilidade e emissão de cobranças. O Wave ganha dinheiro com taxas de processamento de pagamento (2,9% + US$ 0,30 por transação). Para quem tem pouco volume, o Wave pode sair de graça para sempre."
+    },
+    {
+      "q": "FreshBooks serve para negócios de serviço?",
+      "a": "O FreshBooks tem a melhor experiência para negócios de serviço (consultoria, agências, freelancers) porque junta controle de horas, gestão de projetos e cobrança. Quem presta serviço e fatura abaixo de R$ 2,5 milhões deveria considerar seriamente."
+    },
+    {
+      "q": "E o Sage 50cloud?",
+      "a": "O Sage 50cloud é a escolha certa para quem trabalha com muito estoque (indústria, distribuição, varejo). Menos indicado para serviço puro. Os mais de 30 anos de estrada garantem profundidade de recursos, mas a interface é datada."
+    }
+  ],
+  "products": {
+    "quickbooks-online-plus": {
+      "badge": "🏆 Melhor para pequenos negócios nos EUA",
+      "review": "O QuickBooks Online Plus é a recomendação padrão para pequenos negócios americanos. É o padrão do mercado, tem a maior rede de contadores e o maior número de integrações de terceiros. 5 usuários, controle de projetos e estoque. Custa mais que os concorrentes, mas o efeito de rede da familiaridade dos contadores vale dinheiro.",
+      "pros": [
+        "Padrão de mercado nos EUA",
+        "Maior rede de contadores",
+        "Integrações fortes"
+      ],
+      "cons": [
+        "Mais caro que os concorrentes",
+        "Excesso de recursos para negócios bem pequenos"
+      ]
+    },
+    "xero-growing": {
+      "badge": "🎯 Melhor interface",
+      "review": "O Xero Growing é a escolha certa para quem valoriza interface limpa e usuários ilimitados. Domina fora dos EUA (Reino Unido, Austrália, Nova Zelândia). US$ 42/mês (cerca de R$ 230) contra os US$ 90 do QBO para recursos parecidos. Foco forte em automação. Está encurtando a distância para o QBO entre contadores americanos.",
+      "pros": [
+        "Melhor interface da categoria",
+        "Usuários ilimitados",
+        "Líder no Reino Unido, Austrália e Nova Zelândia"
+      ],
+      "cons": [
+        "Rede de contadores menor que a do QBO nos EUA",
+        "Alguns relatórios avançados só no plano Established"
+      ]
+    },
+    "freshbooks-plus": {
+      "badge": "🪜 Melhor para negócios de serviço",
+      "review": "O FreshBooks Plus é a escolha certa para negócios de serviço, consultores, agências e freelancers. Melhor experiência de cobrança, com controle de horas e gestão de projetos integrados. Limita em 50 clientes (suficiente para a maioria dos prestadores). Menos indicado para quem vende produto.",
+      "pros": [
+        "Melhor experiência para negócios de serviço",
+        "Controle de horas integrado",
+        "Preço acessível para quem tem menos de 50 clientes"
+      ],
+      "cons": [
+        "Limite de 50 clientes",
+        "Falta alguns relatórios contábeis tradicionais"
+      ]
+    },
+    "wave-free": {
+      "badge": "🆓 Melhor gratuito",
+      "review": "O Wave Accounting é a escolha certa para negócios que faturam menos de R$ 1 milhão por ano. Realmente grátis para contabilidade e cobrança. O modelo de receita são as taxas de processamento de pagamento (2,9% + US$ 0,30 por transação). Tem poucos recursos avançados, mas cobre bem o básico.",
+      "pros": [
+        "Grátis para sempre",
+        "Recursos básicos sólidos",
+        "Cadastro fácil"
+      ],
+      "cons": [
+        "Relatórios limitados",
+        "Conciliação mais manual",
+        "As taxas de pagamento são a fonte de receita deles"
+      ]
+    },
+    "sage-50cloud-pro": {
+      "badge": "🏭 Melhor para quem trabalha com estoque",
+      "review": "O Sage 50cloud Pro Accounting é a escolha certa para negócios com muito estoque (indústria, distribuição, varejo). Híbrido de desktop e nuvem, mais de 30 anos de estrada, com controle de estoque e custeio por projeto poderosos. A curva de aprendizado é mais dura, mas a profundidade de recursos não tem rival para quem vende produto.",
+      "pros": [
+        "Gestão de estoque forte",
+        "Custeio por projeto",
+        "Recursos específicos por setor"
+      ],
+      "cons": [
+        "Interface datada",
+        "Menos indicado para serviço puro",
+        "Curva de aprendizado mais dura"
+      ]
+    }
+  },
+  "offerNotes": {
+    "quickbooks-online-plus": "Cadastre-se em quickbooks.intuit.com — costuma ter 50% de desconto nos 6 primeiros meses.",
+    "xero-growing": "Cadastre-se em xero.com — teste grátis generoso e 60% de desconto nos 3 primeiros meses.",
+    "freshbooks-plus": "Cadastre-se em freshbooks.com — melhor para prestadores de serviço com menos de 50 clientes.",
+    "wave-free": "Cadastre-se em waveapps.com — grátis para sempre.",
+    "sage-50cloud-pro": "Cadastre-se em sage.com — melhor para quem trabalha com muito estoque."
+  },
+  "pinDescription": "Cansado de planilha? Comparei QuickBooks, Xero, FreshBooks, Wave e Sage: limite de usuários, custo dos módulos extras e até onde o plano grátis aguenta. Salve para a hora de escolher. #contabilidade #pequenosnegocios",
+  "recommendedFor": [
+    {
+      "label": "Donos de pequenos negócios nos EUA que trabalham com contador",
+      "offerId": "quickbooks-online-plus",
+      "reason": "O QBO é o sistema em que a maioria dos contadores americanos tem certificação, o que corta 60% do tempo de fechamento e elimina dor de cabeça com compatibilidade."
+    },
+    {
+      "label": "Donos de pequenos negócios no Reino Unido, Austrália ou Nova Zelândia",
+      "offerId": "xero-growing",
+      "reason": "O Xero domina fora dos EUA e seu plano com usuários ilimitados por US$ 42/mês (cerca de R$ 230) bate os US$ 90 do QBO para equipes de qualquer tamanho."
+    },
+    {
+      "label": "Freelancers e donos de agência que cobram por hora",
+      "offerId": "freshbooks-plus",
+      "reason": "O FreshBooks junta controle de horas, gestão de projetos e cobrança num fluxo só — feito sob medida para prestadores de serviço com até 50 clientes."
+    },
+    {
+      "label": "Fundadores solo e quem toca um negócio paralelo com orçamento apertado",
+      "offerId": "wave-free",
+      "reason": "O Wave é grátis para sempre em contabilidade e cobrança, sem custo de assinatura — você só paga taxa quando recebe um pagamento."
+    },
+    {
+      "label": "Indústrias, distribuidoras e varejistas de produto",
+      "offerId": "sage-50cloud-pro",
+      "reason": "Os 30 anos de profundidade do Sage 50cloud em gestão de estoque e custeio por projeto deixam qualquer concorrente só-nuvem para trás quando o negócio é produto."
+    }
+  ]
 }

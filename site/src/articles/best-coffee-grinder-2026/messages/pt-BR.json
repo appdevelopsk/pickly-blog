@@ -68,5 +68,114 @@
     "fuji-royal-r220": "Padrão cafeteria — exagero para 1-2 xícaras por dia, mas dura uma década e atende uma casa."
   },
   "pinDescription": "O manual superou metade dos elétricos. Dados de uniformidade de partícula e gráficos de tempo.",
-  "methodology": "Avaliamos cada produto quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. Comparamos as especificações do fabricante com avaliações verificadas de quem já comprou."
+  "methodology": "Avaliamos cada produto quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. Comparamos as especificações do fabricante com avaliações verificadas de quem já comprou.",
+  "products": [
+    {
+      "offerId": "timemore-c2",
+      "badge": "Melhor no geral",
+      "review": "O Timemore C2 é a escolha padrão para quem faz V60 e Aeropress todo dia. O ajuste é feito por cliques numerados num anel com travas, então voltar a uma regulagem já conhecida é trivial. Não usa eletricidade, não faz barulho e não tem peça de desgaste para trocar em vários anos de uso doméstico. Para uma ou duas xícaras por dia, é o upgrade com maior retorno em toda essa faixa de preço.",
+      "pros": [
+        "Uniformidade das partículas supera qualquer elétrico de entrada ou intermediário",
+        "Ajuste com travas torna as regulagens repetíveis",
+        "Corpo de alumínio texturizado é confortável de girar",
+        "Não usa energia e é quase silencioso"
+      ],
+      "cons": [
+        "Girar a manivela vira sacrifício acima de duas xícaras",
+        "Capacidade limitada a cerca de 30 g por moagem"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "hario-v60-ceramic-slim",
+      "badge": "Melhor para começar",
+      "review": "O Hario V60 Ceramic Slim é o moedor para comprar quando você ainda não tem certeza se o método manual vai virar hábito. A mó de cerâmica é realmente durável — cinco anos ou mais de uso nos fins de semana é realista — e o corpo estreito de vidro é leve o bastante para levar para o camping ou numa viagem. A distribuição das partículas é aceitável para V60 e prensa francesa, mas visivelmente mais irregular que a do Timemore, com mais finos que podem deixar o coado turvo. O ajuste é por uma roda sem travas embaixo da mó, chata de regular de forma repetível. Nesse preço, o custo de entrada é tão baixo que, na pior das hipóteses, você aprendeu gastando pouco.",
+      "pros": [
+        "Menor preço de entrada viável para moagem com mós",
+        "Mó de cerâmica dura cinco anos ou mais em uso casual",
+        "Estreito e leve o suficiente para viajar",
+        "Peças de reposição baratas e disponíveis"
+      ],
+      "cons": [
+        "Ajuste sem travas dificulta voltar a uma regulagem conhecida",
+        "Gera mais finos na moagem que o Timemore"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "melitta-vario-e",
+      "badge": "Melhor elétrico intermediário",
+      "review": "O Melitta Vario E é o elétrico intermediário que finalmente resolveu o problema do barulho. Com 64 dB, é bem mais silencioso que o antecessor de 2022 e dá para usar de manhã cedo num apartamento com mais gente dormindo. O ajuste em duas etapas — prato grosso mais um microajuste fino — cobre do espresso à prensa francesa, e a moagem direta no porta-filtro, sem dosador, é o desenho certo para quem trabalha com dose única. O acabamento tem muito plástico para o preço, e o funil retém um pouco de pó moído entre uma moagem e outra. Para quem quer a rapidez do elétrico sem entrar no território dos topo de linha, esse é o passo certo.",
+      "pros": [
+        "Elétrico mais silencioso desta comparação, com 64 dB",
+        "Ajuste em duas etapas cobre do espresso à prensa francesa",
+        "Moagem direta no porta-filtro em dose única",
+        "Construção confiável e peças de reposição fáceis de achar"
+      ],
+      "cons": [
+        "O funil retém um pouco de pó entre as moagens",
+        "Muito plástico para o preço cobrado"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "delonghi-kg79j",
+      "badge": "Melhor elétrico custo-benefício",
+      "review": "O De'Longhi KG79J é o moedor elétrico mais barato que vale a recomendação. As dezoito regulagens cobrem bem a faixa de coado e filtrado, com espresso possível na posição mais fina, mas sem ser o forte dele. A uniformidade das partículas é o ponto fraco — visivelmente mais irregular que a do Timemore e sem chegar perto do Melitta —, mas para quem usa V60 e Aeropress, quer a rapidez de um elétrico e não pretende gastar mais, ele entrega o básico. É mais barulhento que o Vario E, o funil é pequeno e a mó é o consumível que limita o valor no longo prazo. Pelo preço que custa, é o equilíbrio certo para quem mói de vez em quando.",
+      "pros": [
+        "Moedor elétrico de mós mais barato que vale a recomendação",
+        "Dezoito regulagens cobrem bem coado e filtrado",
+        "Moagem rápida para a rotina de todo dia de manhã",
+        "Ocupa pouco espaço na bancada"
+      ],
+      "cons": [
+        "Distribuição de partículas mais irregular que a do Timemore",
+        "Barulhento em comparação com os elétricos intermediários"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "fuji-royal-r220",
+      "badge": "Melhor para profissionais",
+      "review": "O Fuji Royal R-220 (Mirukko) é a referência em nível de cafeteria por um motivo. As lâminas de aço fundido seguem afiadas por uma década de uso comercial diário, o motor de 240 W mói 20 g em cerca de três segundos e a distribuição de partículas é, com folga, a mais consistente desta comparação. As contrapartidas são honestas: ele é barulhento — mais perto de um secador de cabelo pequeno do que de um eletrodoméstico de cozinha — e o preço fica bem acima dos moedores para uso doméstico. Para casas que preparam quatro ou mais xícaras por dia, ou para quem é obsessivo o bastante para querer um moedor que vai durar mais que o resto da cozinha, é o caso clássico de chorar uma vez só.",
+      "pros": [
+        "Distribuição de partículas mais consistente desta comparação",
+        "Mós de aço fundido seguem afiadas por uma década",
+        "Mói 20 g em cerca de três segundos",
+        "Feito para uso diário em nível de cafeteria"
+      ],
+      "cons": [
+        "Barulhento — comparável a um secador de cabelo pequeno",
+        "Exagerado e caro demais para quem faz uma ou duas xícaras"
+      ],
+      "grade": "A"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Quem faz V60 todo dia",
+      "offerId": "timemore-c2",
+      "reason": "Uniformidade de partículas melhor que a de qualquer elétrico de entrada ou intermediário, e os 45 segundos de manivela cabem no tempo de a água ferver."
+    },
+    {
+      "label": "O iniciante curioso",
+      "offerId": "hario-v60-ceramic-slim",
+      "reason": "O menor preço de entrada possível num moedor de mós de verdade, com mó de cerâmica que aguenta anos de uso nos fins de semana."
+    },
+    {
+      "label": "Quem usa elétrico de manhã",
+      "offerId": "melitta-vario-e",
+      "reason": null
+    },
+    {
+      "label": "Quem quer elétrico gastando pouco",
+      "offerId": "delonghi-kg79j",
+      "reason": "O elétrico de mós mais barato que vale a recomendação, e as 18 regulagens dão conta de coado e Aeropress sem complicação."
+    },
+    {
+      "label": "A casa que toma várias xícaras",
+      "offerId": "fuji-royal-r220",
+      "reason": "Mós de aço fundido em nível de cafeteria e motor de 240 W dão conta de quatro xícaras ou mais por dia durante uma década sem perder o fio."
+    }
+  ]
 }

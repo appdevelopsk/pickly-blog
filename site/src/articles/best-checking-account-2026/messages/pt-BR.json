@@ -2,5 +2,144 @@
   "title": "Melhor conta corrente 2026: 5 comparados",
   "description": "Comparamos Schwab, Ally, Chase, SoFi, Wells Fargo. Veja o que realmente se destaca em tarifas, acesso a caixas e APY para conta corrente em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Bancos digitais vs. bancos tradicionais",
+      "paragraphs": [
+        "Bancos digitais (Ally, SoFi, Schwab): sem tarifa mensal, rendimento maior (0,10%-4,20% ao ano), sem agências físicas, mas com transferências instantâneas e ferramentas online.",
+        "Bancos tradicionais (Chase, Wells Fargo): agências físicas e atendimento presencial, mas tarifa mensal de US$ 10 a US$ 12 (isenta com depósito ou saldo mínimo)."
+      ]
+    },
+    {
+      "heading": "A melhor opção para cada perfil",
+      "paragraphs": [
+        "Melhor para quem viaja: Schwab Bank. Reembolso ilimitado de tarifas de caixa eletrônico no mundo todo e nenhum IOF ou taxa sobre compras em moeda estrangeira.",
+        "Melhor banco digital: Ally Bank. Rendimento de 0,10% a 0,25% ao ano, tarifa mensal zero e mais de 43 mil caixas eletrônicos gratuitos.",
+        "Melhor relacionamento com banco grande: Chase Total Checking. Mais de 4.700 agências e rede ampla de caixas eletrônicos.",
+        "Melhor conta combinada: SoFi. Até 4,20% ao ano na parte de poupança e tarifa zero.",
+        "Melhor para quem já é cliente Wells: Wells Fargo Everyday. Mais de 4.700 agências."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vale a pena ter mais de uma conta corrente?",
+      "a": "Para muita gente, sim: uma conta principal, uma conta para viagens (Schwab) e uma poupança digital (Ally ou SoFi). Assim você aproveita o melhor de cada uma sem pagar tarifa."
+    },
+    {
+      "q": "Banco digital é seguro?",
+      "a": "É sim — tem seguro do FDIC até US$ 250 mil, igualzinho aos bancos tradicionais. O custo operacional menor é justamente o que permite oferecer rendimentos melhores."
+    },
+    {
+      "q": "O rendimento da conta corrente importa muito?",
+      "a": "Pouco. Conta corrente é para liquidez, não para render. Deixe uns US$ 2 mil a US$ 4 mil nela e o resto numa poupança de alto rendimento — é lá que a taxa faz diferença."
+    },
+    {
+      "q": "Qual a diferença entre Zelle e Venmo?",
+      "a": "O Zelle é de banco para banco, sem conta separada e sem custo — algo parecido com o Pix. O Venmo é uma conta à parte: rápido entre usuários Venmo, mas demorado para cair no banco. Quase todos os bancos grandes aceitam Zelle."
+    }
+  ],
+  "products": {
+    "schwab-bank-checking": {
+      "badge": "🏆 Melhor para quem viaja",
+      "review": "A Schwab Bank Investor Checking é a escolha certa para quem viaja para fora. Sem tarifa mensal, reembolso ilimitado de tarifas de caixa eletrônico no mundo todo (saque em qualquer ATM e a Schwab devolve a taxa no fim do mês) e nenhuma taxa sobre compras em moeda estrangeira no débito. É a melhor conta para viagem dos EUA.",
+      "pros": [
+        "Reembolso ilimitado de tarifas de ATM no mundo todo",
+        "Sem taxa sobre compras em moeda estrangeira",
+        "Tarifa mensal zero"
+      ],
+      "cons": [
+        "Não tem agências físicas",
+        "Exige abrir também uma conta de investimento na Schwab"
+      ]
+    },
+    "ally-bank-checking": {
+      "badge": "🌐 Melhor banco digital",
+      "review": "A Ally Bank Interest Checking é a conta digital certa. Rende de 0,10% a 0,25% ao ano, tarifa mensal zero, mais de 43 mil caixas eletrônicos gratuitos (rede AllPoint) e reembolso de até US$ 10 por mês em saques fora da rede. Banco digital sólido, com aplicativo muito bom.",
+      "pros": [
+        "Rende de 0,10% a 0,25% ao ano",
+        "Tarifa mensal zero",
+        "Mais de 43 mil caixas eletrônicos gratuitos"
+      ],
+      "cons": [
+        "Não tem agências físicas",
+        "Reembolso de ATM fora da rede limitado a US$ 10 por mês"
+      ]
+    },
+    "chase-total-checking": {
+      "badge": "🏛️ Melhor banco grande",
+      "review": "A Chase Total Checking é a escolha certa para quem faz questão de atendimento presencial. Mais de 4.700 agências, mais de 16 mil caixas eletrônicos e bônus de US$ 200 a US$ 300 na abertura (quando a promoção está no ar). A tarifa mensal é de US$ 12, isenta com depósito recorrente de US$ 500 ou saldo de US$ 1.500. É o melhor relacionamento bancário para quem quer integrar cartão de crédito e financiamento imobiliário.",
+      "pros": [
+        "Mais de 4.700 agências",
+        "Mais de 16 mil caixas eletrônicos Chase",
+        "Bônus de abertura com frequência"
+      ],
+      "cons": [
+        "Tarifa mensal de US$ 12 (com isenção possível)",
+        "Rende menos que os bancos digitais"
+      ]
+    },
+    "sofi-checking": {
+      "badge": "🎯 Melhor conta combinada",
+      "review": "A SoFi Checking and Savings é a escolha certa para quem quer resolver tudo em um produto só. Até 4,20% ao ano na parte de poupança, tarifa zero e conta corrente e poupança integradas. Os benefícios de membro SoFi valem em todos os produtos da casa (empréstimos, investimentos e por aí vai).",
+      "pros": [
+        "Até 4,20% ao ano na poupança",
+        "Tarifa zero",
+        "Benefícios de membro em todos os produtos SoFi"
+      ],
+      "cons": [
+        "Não tem agências físicas",
+        "O rendimento muda conforme as taxas promocionais"
+      ]
+    },
+    "wells-fargo-everyday-checking": {
+      "badge": "🏛️ Melhor para clientes Wells",
+      "review": "A Wells Fargo Everyday Checking é a escolha certa se você já é cliente do Wells Fargo. Mais de 4.700 agências e rede ampla de caixas eletrônicos. Tarifa mensal de US$ 10, isenta com depósito recorrente ou saldo de US$ 500. Equivalente à do Chase, com as vantagens próprias do Wells (ferramentas online, cartões de crédito).",
+      "pros": [
+        "Mais de 4.700 agências",
+        "Rede ampla de caixas eletrônicos",
+        "Integração com os produtos Wells Fargo"
+      ],
+      "cons": [
+        "Tarifa mensal de US$ 10",
+        "Polêmicas antigas envolvendo a marca"
+      ]
+    }
+  },
+  "offerNotes": {
+    "schwab-bank-checking": "Abra em schwab.com. Exige uma conta de investimento Schwab vinculada (que também não tem valor mínimo).",
+    "ally-bank-checking": "Abra em ally.com. Só online — não tem agências.",
+    "chase-total-checking": "Abra em chase.com ou numa agência. Os bônus de abertura (quando disponíveis) exigem cumprir algumas condições.",
+    "sofi-checking": "Abra em sofi.com. Os benefícios de membro SoFi valem nos demais produtos da empresa.",
+    "wells-fargo-everyday-checking": "Abra em wellsfargo.com ou numa agência."
+  },
+  "pinDescription": "Vai morar ou viajar para os EUA? Comparamos as 5 melhores contas correntes de 2026 — Schwab, Ally, Chase, SoFi e Wells Fargo. Tarifas, saque no exterior e rendimento lado a lado. Salve para abrir a sua sem pagar taxa.",
+  "recommendedFor": [
+    {
+      "label": "Quem viaja muito e saca em caixas eletrônicos no exterior",
+      "offerId": "schwab-bank-checking",
+      "reason": "A Schwab devolve toda tarifa de saque no mundo inteiro no fim do mês e não cobra nada sobre compras em moeda estrangeira no débito."
+    },
+    {
+      "label": "Quem trabalha remoto e prefere resolver tudo pelo app",
+      "offerId": "ally-bank-checking",
+      "reason": "Tarifa mensal zero, 0,25% ao ano e mais de 43 mil caixas eletrônicos gratuitos entregam um banco completo sem você pisar em agência."
+    },
+    {
+      "label": "Jovens profissionais montando o primeiro relacionamento com cartão de crédito",
+      "offerId": "chase-total-checking",
+      "reason": "As mais de 4.700 agências e os bônus recorrentes de US$ 200 a US$ 300 facilitam juntar conta e cartão Chase num único login."
+    },
+    {
+      "label": "Quem quer conta corrente e poupança de alto rendimento no mesmo app",
+      "offerId": "sofi-checking",
+      "reason": "A conta combinada da SoFi rende até 4,20% ao ano na parte de poupança, sem tarifa, e ainda dá benefícios em empréstimos e investimentos."
+    },
+    {
+      "label": "Quem já tem financiamento ou cartão no Wells Fargo",
+      "offerId": "wells-fargo-everyday-checking",
+      "reason": "Com mais de 4.700 agências e ferramentas online integradas, dá para concentrar conta, crédito e financiamento num lugar só."
+    }
+  ]
 }

@@ -2,5 +2,144 @@
   "title": "Melhor aquecedor de aquário 2026: 5 comparados",
   "description": "Comparamos Fluval, Eheim, Aqueon, Tetra, hygger. Veja o que realmente se destaca em precisão de temperatura e durabilidade para aquecedor de aquário em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Aquecedor de vidro ou de titânio",
+      "paragraphs": [
+        "Vidro (Eheim Jager, Aqueon Pro, Tetra HT, Fluval E): mais barato, dá conta da maioria dos aquários de água doce, mas pode trincar por choque térmico.",
+        "Titânio (hygger): mais resistente, indicado para água salgada (o sal corrói certas coberturas de vidro) e com controlador externo."
+      ]
+    },
+    {
+      "heading": "O melhor para cada situação",
+      "paragraphs": [
+        "Melhor precisão: Fluval E Electronic (R$ 500-900). Display LCD e precisão de 0,3 °C.",
+        "Padrão do mercado: Eheim Jager 200W (R$ 300-500). Engenharia alemã.",
+        "Melhor intermediário: Aqueon Pro (R$ 300-600). À prova de quebra, termostato eletrônico.",
+        "Melhor para iniciante: Tetra HT Submersível (R$ 150-300). Temperatura fixa em 26 °C.",
+        "Melhor para água salgada/aquários grandes: hygger Titanium (R$ 500-1.000). Tubo de titânio e controlador externo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "De quantos watts eu preciso?",
+      "a": "Regra prática: cerca de 1,3 watt por litro. Um aquário de 280 litros pede uns 375W (um de 400W ou dois de 200W)."
+    },
+    {
+      "q": "Um aquecedor ou dois?",
+      "a": "Dois aquecedores (cada um com metade da potência) é mais seguro — se um falhar, o outro segura a temperatura. É a prática recomendada acima de 190 litros."
+    },
+    {
+      "q": "Por que aquecedor de vidro quebra?",
+      "a": "Choque térmico: o aquecedor está na água, você esvazia o aquário de repente, ele esquenta no seco e volta para a água fria. Sempre tire da tomada antes da troca de água."
+    },
+    {
+      "q": "Quanto tempo dura um aquecedor?",
+      "a": "Vidro: de 2 a 4 anos, em geral. Titânio: de 5 a 10 anos. Troque quando a temperatura variar mais de ±0,5 °C do valor ajustado."
+    }
+  ],
+  "products": {
+    "fluval-e-electronic-heater": {
+      "badge": "🎯 Melhor precisão",
+      "review": "O Fluval E Electronic Heater é a escolha certa para quem precisa de precisão. Controlado por microprocessador, tem display LCD com a temperatura atual, precisão de 0,3 °C (a maioria fica em ±1 °C) e corpo à prova de quebra. Ideal para espécies sensíveis, como acarás-disco, e aquários plantados.",
+      "pros": [
+        "Precisão de 0,3 °C",
+        "Display LCD",
+        "À prova de quebra"
+      ],
+      "cons": [
+        "Preço salgado: R$ 500-900",
+        "Mais eletrônica significa mais pontos de falha"
+      ]
+    },
+    "eheim-jager-200w": {
+      "badge": "🇩🇪 Padrão do mercado",
+      "review": "O Eheim Jager 200W é o padrão do mercado, com engenharia alemã. Corpo de vidro, escala dupla de temperatura (Celsius e Fahrenheit) e termostato confiável. Está em aquários do mundo inteiro. Intermediário que não decepciona.",
+      "pros": [
+        "Engenharia alemã",
+        "Escala dupla de temperatura",
+        "Confiabilidade de referência no mercado"
+      ],
+      "cons": [
+        "Vidro (pode trincar)",
+        "Ajuste manual no dial, sem LCD"
+      ]
+    },
+    "aqueon-pro-heater": {
+      "badge": "🪜 Melhor intermediário",
+      "review": "O Aqueon Pro Heater é a escolha certa na faixa intermediária. Corpo à prova de quebra, termostato eletrônico e desligamento automático se o nível da água baixar. Confiável para a maioria dos aquários de água doce.",
+      "pros": [
+        "À prova de quebra",
+        "Desligamento automático",
+        "Termostato eletrônico"
+      ],
+      "cons": [
+        "Sem display LCD",
+        "Menos preciso que o Fluval E"
+      ]
+    },
+    "tetra-ht-heater": {
+      "badge": "💸 Melhor para iniciante",
+      "review": "O Tetra HT Submersível é a escolha certa para quem está começando. Compacto e com temperatura fixa (26 °C, sem dial de ajuste), totalmente submersível e sem nada para configurar. Perfeito para aquários comunitários de 40 a 150 litros.",
+      "pros": [
+        "Preço camarada: R$ 150-300",
+        "Temperatura fixa em 26 °C",
+        "Não precisa configurar nada"
+      ],
+      "cons": [
+        "Não dá para ajustar a temperatura",
+        "Só serve para aquários pequenos (40-150 litros)"
+      ]
+    },
+    "hygger-titanium-heater": {
+      "badge": "🌊 Melhor para água salgada",
+      "review": "O hygger Titanium Heater é a escolha certa para água salgada ou aquários grandes. Tubo de titânio (nada de vidro para quebrar), controlador externo (você ajusta e lê a temperatura fora do aquário) e termostato com chip IC. Ideal onde um aquecedor de vidro seria arriscado demais.",
+      "pros": [
+        "Titânio, sem risco de quebrar",
+        "Controlador externo",
+        "O melhor para água salgada"
+      ],
+      "cons": [
+        "Preço salgado: R$ 500-1.000",
+        "O controlador externo complica um pouco a instalação"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fluval-e-electronic-heater": "Encontrado em fluvalaquatics.com, Petz, Cobasi e Amazon. Várias potências: 100W, 200W e 300W.",
+    "eheim-jager-200w": "Encontrado em eheim.com e Amazon. Várias potências — o de 200W é o mais comum para aquários de até 190 litros.",
+    "aqueon-pro-heater": "Encontrado em aqueon.com, Petz, Cobasi e Petland. Várias potências.",
+    "tetra-ht-heater": "Encontrado em tetra-fish.com, Petz, Cobasi e Amazon. Vem fixo em 26 °C, sem ajuste.",
+    "hygger-titanium-heater": "Encontrado em hyggeraquarium.com e Amazon. Várias potências — 300W e 500W são as mais comuns para aquários médios e grandes."
+  },
+  "pinDescription": "Seu peixe merece água na temperatura certa 🐠 Comparamos 5 aquecedores de aquário: do modelo de R$ 150 que já vem pronto para usar ao titânio que aguenta água salgada. Salve para a hora de montar o aquário!",
+  "recommendedFor": [
+    {
+      "label": "Quem cria acará-disco ou mantém aquário plantado e precisa de temperatura firme",
+      "offerId": "fluval-e-electronic-heater",
+      "reason": "A precisão de 0,3 °C e o LCD em tempo real mostram qualquer variação antes que as espécies sensíveis sofram."
+    },
+    {
+      "label": "Aquarista de água doce experiente que quer confiabilidade comprovada",
+      "offerId": "eheim-jager-200w",
+      "reason": "Décadas de uso real com engenharia alemã fazem do Jager o cavalo de batalha que não dá dor de cabeça."
+    },
+    {
+      "label": "Quem tem orçamento médio e quer recursos de segurança",
+      "offerId": "aqueon-pro-heater",
+      "reason": "Corpo à prova de quebra e desligamento automático com pouca água trazem tranquilidade sem pagar o preço do Fluval."
+    },
+    {
+      "label": "Quem está montando o primeiro aquário comunitário",
+      "offerId": "tetra-ht-heater",
+      "reason": "É ligar na tomada e esquecer: 26 °C fixos, sem dial para errar — perfeito para montagens de 40 a 150 litros."
+    },
+    {
+      "label": "Quem tem aquário marinho ou de grande volume e prioriza durabilidade",
+      "offerId": "hygger-titanium-heater",
+      "reason": "O titânio resiste à corrosão do sal e o controlador externo deixa você ajustar a temperatura sem enfiar a mão no aquário."
+    }
+  ]
 }

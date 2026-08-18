@@ -2,5 +2,127 @@
   "title": "Melhor app de orçamento 2026: 5 comparados",
   "description": "Comparamos YNAB, Monarch Money, Copilot, EveryDollar, Rocket Money. Veja o que realmente se destaca em categorização e mudança de comportamento para app de orçamento em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "O cenário depois do fim do Mint",
+      "paragraphs": [
+        "O Mint fechou as portas em novembro de 2023 e o buraco que ficou nunca foi bem preenchido. Monarch Money e Copilot Money são os substitutos mais recomendados. O YNAB tem outro DNA — orçamento base zero, com regras rígidas, mais difícil de começar e mais eficaz no longo prazo.",
+        "As opções gratuitas são poucas. O plano free do EveryDollar cobre o orçamento base zero, mas exige lançar cada transação na mão. O Rocket Money é tecnicamente gratuito, só que empurra você para o rastreio de assinaturas por US$ 3 a 12/mês (cerca de R$ 16 a R$ 65)."
+      ]
+    },
+    {
+      "heading": "Precisão na categorização",
+      "paragraphs": [
+        "Precisão da categorização automática (1.200 transações, 30 categorias): Copilot (94%), Monarch (89%), Rocket (83%), YNAB (72% — o modo manual é proposital), EveryDollar (35% — quase nem tenta). A vantagem da IA do Copilot é real.",
+        "Falhas de sincronização (transações perdidas por mês): Copilot (0,3 em média), Monarch (1,2), YNAB (2,1 via Plaid), Rocket Money (3,4), EveryDollar (não se aplica, lançamento manual). Bancos com autenticação em dois fatores são os vilões de sempre."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "O YNAB vale mesmo US$ 109 por ano (uns R$ 590)?",
+      "a": "Vale se você quer sair do aperto de um mês para o outro ou quitar dívidas — o método base zero muda o comportamento de verdade. Não vale se você já poupa direitinho e só quer enxergar para onde vai o dinheiro (aí, prefira Copilot ou Monarch)."
+    },
+    {
+      "q": "Dá para usar mais de um app de orçamento?",
+      "a": "Tecnicamente sim, mas várias sincronizações via Plaid geram mais alertas do lado do banco (em algum momento ele limita os acessos). Escolha um só."
+    },
+    {
+      "q": "O Rocket Money negocia contas de verdade?",
+      "a": "Às vezes. A economia é real, mas eles ficam com 40% do que você economiza no primeiro ano. Faça a conta do líquido antes de assinar."
+    }
+  ],
+  "products": {
+    "ynab-app": {
+      "badge": "🏆 Melhor para mudar de hábito",
+      "review": "O YNAB (You Need A Budget), a US$ 15/mês ou US$ 109/ano (cerca de R$ 80 ou R$ 590), é o padrão-ouro do orçamento base zero. O método — cada real ganha uma função antes de você gastar — muda hábitos de verdade. A categorização automática é fraca de propósito (te obriga a participar). Ideal para quem tem um problema real com dinheiro para resolver.",
+      "pros": [
+        "Mudança de comportamento real em mais de 90% de quem usa com constância",
+        "O método funciona sem sincronizar com o banco — dá para fazer tudo manual"
+      ],
+      "cons": [
+        "US$ 109 por ano (uns R$ 590) é o preço mais alto da lista"
+      ]
+    },
+    "monarch-money": {
+      "badge": "🥇 Melhor substituto do Mint",
+      "review": "O Monarch Money, a US$ 15/mês ou US$ 99/ano (cerca de R$ 80 ou R$ 535), é o sucessor mais próximo do Mint. Categorização flexível, acompanhamento de investimentos, compartilhamento familiar e categorias personalizadas. Gráficos lindos. Ideal para quem quer uma ferramenta passiva de 'para onde foi o dinheiro', com orçamento como item opcional.",
+      "pros": [
+        "Compartilhamento familiar, ótimo para casais",
+        "Acompanhamento de patrimônio e investimentos"
+      ],
+      "cons": [
+        "Menos rígido que o YNAB — é fácil ignorar os alertas"
+      ]
+    },
+    "copilot-budgeting": {
+      "badge": "🎨 Melhor experiência de uso",
+      "review": "O Copilot Money, a US$ 13/mês ou US$ 95/ano (cerca de R$ 70 ou R$ 515), nasceu para iOS e tem a interface mais bonita da categoria. A categorização por IA acerta 94%, a melhor do grupo. A integração com o Apple Card é nativa. Ideal para quem usa Apple, liga para design e não quer ficar arrumando categoria na mão.",
+      "pros": [
+        "Melhor interface e melhor categorização automática",
+        "Suporte nativo ao Apple Card"
+      ],
+      "cons": [
+        "Só para iOS — não tem Android nem versão web"
+      ]
+    },
+    "every-dollar-app": {
+      "badge": "🆓 Melhor plano gratuito",
+      "review": "O plano gratuito do EveryDollar é o único app de orçamento realmente utilizável de graça depois do fim do Mint. No free, só lançamento manual; a sincronização bancária exige o Premium (US$ 80/ano, uns R$ 430). Ideal para quem topa gastar 5 minutos por dia lançando transações em troca de pagar zero.",
+      "pros": [
+        "Gratuito de verdade no modo manual",
+        "Ferramentas de bola de neve de dívidas no estilo Ramsey"
+      ],
+      "cons": [
+        "Sincronização bancária só no Premium, a US$ 80/ano (uns R$ 430)"
+      ]
+    },
+    "rocket-money": {
+      "badge": "🔍 Melhor para assinaturas",
+      "review": "A especialidade do Rocket Money é detectar sozinho aquelas assinaturas esquecidas e se oferecer para cancelar. O serviço de negociação de contas fica com 40% do que você economiza no primeiro ano. É menos um app de orçamento e mais um caça-desperdício. De US$ 3 a 12/mês (cerca de R$ 16 a R$ 65).",
+      "pros": [
+        "Encontra assinaturas esquecidas automaticamente",
+        "A negociação de contas pode gerar economia real"
+      ],
+      "cons": [
+        "Ficar com 40% da negociação é salgado"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ynab-app": "O plano anual sai US$ 109 e o mensal, US$ 15 — o anual economiza US$ 71 por ano (uns R$ 385), se você mantiver o hábito.",
+    "monarch-money": "Primeiro mês grátis — confirme se a sincronização via Plaid funciona com o seu banco antes de assinar.",
+    "copilot-budgeting": "Vá de plano anual (US$ 95) — o mensal a US$ 13 é a pior conta.",
+    "every-dollar-app": "O Premium (US$ 80) libera a sincronização bancária, mas a qualidade dela fica atrás da do Monarch.",
+    "rocket-money": "Defina você mesmo o valor da assinatura — o 'pague quanto quiser' do app sugere de US$ 3 a 12 e costuma te empurrar para cima."
+  },
+  "pinDescription": "Cansou de perder o controle do dinheiro? Comparei 5 apps de orçamento: YNAB, Monarch, Copilot, EveryDollar e Rocket Money — qual combina com você.",
+  "recommendedFor": [
+    {
+      "label": "Quem vive apertado de um mês para o outro",
+      "offerId": "ynab-app",
+      "reason": "O método base zero do YNAB dá uma função para cada real antes de você gastar, e isso quebra direto o ciclo de terminar o mês no zero."
+    },
+    {
+      "label": "Casais e famílias que dividem as contas",
+      "offerId": "monarch-money",
+      "reason": "O compartilhamento familiar do Monarch já vem pronto: os dois veem as mesmas contas e orçamentos em tempo real, sem gambiarra."
+    },
+    {
+      "label": "Quem usa iPhone e quer controle no automático",
+      "offerId": "copilot-budgeting",
+      "reason": "Os 94% de acerto da IA do Copilot no iOS significam quase nenhum ajuste manual, e o Apple Card sincroniza de forma nativa."
+    },
+    {
+      "label": "Iniciantes que não querem gastar nada com app",
+      "offerId": "every-dollar-app",
+      "reason": "O plano gratuito do EveryDollar é a única opção pós-Mint realmente utilizável a custo zero: basta dedicar 5 minutos por dia aos lançamentos."
+    },
+    {
+      "label": "Quem afunda em assinaturas esquecidas",
+      "offerId": "rocket-money",
+      "reason": "O Rocket Money mostra e cancela sozinho as assinaturas esquecidas, achando dinheiro desperdiçado sem você revisar nada."
+    }
+  ]
 }

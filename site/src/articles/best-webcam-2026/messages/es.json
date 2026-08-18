@@ -107,5 +107,109 @@
     "microsoft-lifecam-studio": "Microsoft LifeCam Studio — 1080p, True Color Technology para el procesamiento de color propio de Microsoft, autoenfoque, USB-A, diseñado para la integración de Teams y Office 365, cadena de procesamiento de video de Microsoft para llamadas de Teams. Disponible en grandes minoristas en línea. La línea de productos LifeCam Studio no ha recibido una actualización de hardware significativa a partir de 2026, convirtiéndolo en un producto envejecido a un precio donde están disponibles alternativas 2K con sensores más nuevos; sin opción de 60fps y sin encuadre automático con IA; los beneficios de integración del ecosistema de Microsoft son específicos de Windows y Teams — en Mac o plataformas que no son Teams, la cámara funciona como un dispositivo UVC estándar sin las ventajas de la cadena de procesamiento específica de Microsoft; su precio es moderadamente elevado para 1080p 30fps en 2026, que representa una prima de marca por la integración con Microsoft en lugar de liderazgo en especificaciones."
   },
   "pinDescription": "5 webcams comparadas para 2026 — encuadre con IA de la Logitech Brio 505 vs 2K económica Anker PowerConf C200 vs stream 4K del Elgato Facecam Pro vs nivel básico Logitech C920x vs elección Teams de Microsoft LifeCam Studio. Realidad de 1080p vs 4K, verdad del micrófono integrado e iluminación > calidad de cámara explicadas.",
-  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad."
+  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad.",
+  "products": [
+    {
+      "offerId": "logitech-brio-505",
+      "badge": "Oficina híbrida con IA",
+      "grade": "A+",
+      "review": "La Logitech Brio 505 es la webcam más completa de esta comparativa para el trabajo híbrido desde casa: encuadre automático con IA que desplaza y amplía el recorte para mantener tu cara centrada, Show Mode para inclinar la cámara hacia el escritorio y mostrar documentos o productos en plena videollamada, USB-C, 1080p a 60 fps y dos micrófonos omnidireccionales. El encuadre por IA sigue con soltura los movimientos pausados y, cuando te giras de golpe, no falla del todo: simplemente se nota cierto tirón en la imagen. Show Mode es una diferencia real para profesores, consultores y cualquiera que haga demostraciones, y ninguna otra cámara de la lista lo iguala. Cuesta más que las rivales 2K, para exprimir la IA hace falta Logi Capture o G HUB, y ajustar el ángulo de Show Mode es engorroso en algunos soportes de monitor. Si alternas plano de busto y mostrar documentos, el precio se justifica.",
+      "pros": [
+        "El encuadre automático con IA mantiene tu cara centrada mientras te mueves",
+        "Show Mode inclina la cámara hacia el escritorio para mostrar documentos",
+        "USB-C y 1080p a 60 fps: movimiento más fluido que el estándar de 30 fps"
+      ],
+      "cons": [
+        "1080p a este precio se queda corto frente a opciones 2K más baratas",
+        "Show Mode exige un ángulo de montaje concreto que no todos los montajes permiten"
+      ]
+    },
+    {
+      "offerId": "anker-powerconf-c200",
+      "badge": "La mejor 2K en calidad-precio",
+      "grade": "A",
+      "review": "La Anker PowerConf C200 es la opción sensata para las videollamadas de 2026: precio contenido y un sensor 2K que da al autoenfoque y al encuadre por software muchos más píxeles con los que trabajar que un 1080p, dos micrófonos con cancelación de ruido heredados del bagaje acústico de los altavoces de conferencia de Anker, autoenfoque y un cuerpo compacto con USB-A. El micrófono rinde muy por encima de la gama de entrada en pisos donde mandan el zumbido del aire acondicionado y el ruido que atraviesa tabiques finos, aunque colocarlo a la altura del monitor sigue jugando en su contra frente a un micro de sobremesa si te tomas en serio el audio. No hay opción de 60 fps ni encuadre con IA, y el cable USB-A no es desmontable y mide unos 1,5 m. Las funciones de software son mínimas. Si no necesitas 60 fps ni IA, nada aquí supera su relación precio-resultado.",
+      "pros": [
+        "Sensor 2K a precio ajustado: excelente relación precio-resolución",
+        "Los dos micrófonos con cancelación de ruido superan a los integrados habituales",
+        "Autoenfoque fiable y formato compacto"
+      ],
+      "cons": [
+        "Solo 30 fps: no hay opción de 60 fps para un movimiento más fluido",
+        "Cable USB-A no desmontable y fijo de unos 1,5 m"
+      ]
+    },
+    {
+      "offerId": "elgato-facecam-pro",
+      "badge": "Buque insignia para streaming",
+      "grade": "A+",
+      "review": "La Elgato Facecam Pro es la webcam USB de referencia para streaming doméstico: sensor Sony STARVIS 2, apertura f/2.0 que de verdad rinde con poca luz, 4K a 60 fps por USB-C, anillo de enfoque manual para un control preciso y el software Camera Hub para afinar los parámetros de emisión. Que no lleve micrófono integrado no es un olvido, sino una decisión de diseño: quien hace streaming en serio va a usar un micro dedicado, y eso es lo correcto para un audio de calidad de producción. Cuesta unas seis veces más que la PowerConf C200 para un resultado prácticamente idéntico dentro de una llamada de Zoom o Teams, que codifica a 1080p como mucho; la ausencia de micro suma el gasto de comprar uno aparte; y emitir en 4K a 60 fps pide más de 20 Mbps de subida sostenida, algo que las conexiones domésticas no siempre dan en horas punta. Para producir en YouTube y Twitch, es la única opción realista de esta lista.",
+      "pros": [
+        "Sensor Sony STARVIS 2 con apertura f/2.0: rendimiento real con poca luz",
+        "4K a 60 fps por USB-C y anillo de enfoque manual",
+        "Software Camera Hub para controlar a fondo los parámetros de emisión"
+      ],
+      "cons": [
+        "Precio de gama alta: excesivo para un uso normal de Zoom o Teams",
+        "Sin micrófono integrado: hay que comprar uno aparte"
+      ]
+    },
+    {
+      "offerId": "elecom-ucam-cz30fbk",
+      "badge": "La opción para el día a día",
+      "grade": "B+",
+      "review": "La Logitech C920x HD Pro Webcam es la entrada sin complicaciones para quien solo quiere una cámara que funcione en cualquier app de videollamada. 1080p a 30 fps, USB-A plug and play, micrófono doble integrado, autoenfoque y un precio bajo cubren lo básico sin ningún ritual de configuración. Sobre el papel es el suelo del mercado de webcams de 2026: sin encuadre por IA, sin 4K, sin 60 fps, y el sensor pequeño con óptica de gama de entrada enseña sus límites con luz mixta o a contraluz, aunque la corrección automática de luz ayuda en habitaciones normales. Al ser una de las webcams más vendidas de la historia, hay guías de configuración y ayuda de la comunidad para dar y tomar. Como herramienta fiable y compatible con todo al precio más bajo de la comparativa, cumple.",
+      "pros": [
+        "USB-A plug and play compatible con todas las apps de videollamada relevantes",
+        "Micrófono doble integrado y autoenfoque al precio más bajo de la comparativa",
+        "Su enorme base instalada garantiza guías y soluciones a cualquier problema"
+      ],
+      "cons": [
+        "1080p a 30 fps básico, sin IA, sin 4K y sin opción de 60 fps",
+        "La calidad de imagen baja de forma notable con luz escasa o mixta"
+      ]
+    },
+    {
+      "offerId": "microsoft-lifecam-studio",
+      "badge": "La opción por defecto en Teams",
+      "grade": "B+",
+      "review": "La Microsoft LifeCam Studio es la elección natural en entornos corporativos que giran en torno a Windows y Teams: True Color Technology con el procesado de color propio de Microsoft, autoenfoque, USB-A e integración estrecha con el motor de vídeo de Teams. En hogares con Microsoft 365, donde el resto del ecosistema ya está alineado, funciona como opción por defecto sin la fricción de instalar software de terceros. Su precio resulta algo alto para una cámara de 1080p a 30 fps en un mercado, el de 2026, con alternativas 2K en esa misma franja; la gama no ha recibido una renovación de hardware relevante; no hay opción de 60 fps; y en Mac o fuera de Teams se comporta como una webcam UVC normal, sin las ventajas propias de Microsoft. Como opción por defecto para llamadas de Teams sigue siendo de fiar; como compra de hardware en 2026, se le notan los años.",
+      "pros": [
+        "Integración estrecha con el motor de procesado de vídeo de Teams",
+        "True Color Technology y autoenfoque fiable para llamadas en plano de busto",
+        "USB-A plug and play con amplia compatibilidad con Windows"
+      ],
+      "cons": [
+        "Gama envejecida, sin una renovación de hardware relevante reciente",
+        "Precio más alto que el de alternativas 2K con sensores más modernos"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Quien trabaja en híbrido y muestra documentos en las llamadas",
+      "offerId": "logitech-brio-505",
+      "reason": "Show Mode junto al encuadre automático con IA cubre con una sola cámara tanto la videollamada en plano de busto como las demostraciones de documentos o productos, algo que ninguna otra aquí consigue."
+    },
+    {
+      "label": "Quien busca precio y viene de la webcam del portátil",
+      "offerId": "anker-powerconf-c200",
+      "reason": "Un sensor 2K a precio ajustado con dos micrófonos con cancelación de ruido ofrece la mejor relación precio-resultado para las llamadas domésticas de Zoom y Teams."
+    },
+    {
+      "label": "Streamers y creadores de contenido",
+      "offerId": "elgato-facecam-pro",
+      "reason": "El sensor Sony STARVIS 2 con apertura f/2.0 y 4K a 60 fps por USB-C es la única cámara de la lista con calidad de emisión profesional cuando se acompaña de un micrófono dedicado."
+    },
+    {
+      "label": "Quien quiere una cámara que funcione sin complicaciones",
+      "offerId": "elecom-ucam-cz30fbk",
+      "reason": "USB-A plug and play, compatibilidad con todas las apps de videollamada relevantes y una comunidad enorme la convierten en la opción sin fricción al precio más bajo de la comparativa."
+    },
+    {
+      "label": "Hogares con Microsoft 365 que viven en Teams",
+      "offerId": "microsoft-lifecam-studio",
+      "reason": "True Color Technology y la integración estrecha con el motor de vídeo de Teams la convierten en una opción por defecto fiable para flujos de trabajo centrados en Windows y Teams."
+    }
+  ]
 }

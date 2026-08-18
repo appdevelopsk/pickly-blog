@@ -2,5 +2,151 @@
   "title": "Mejor escáner OBD2 2026: 5 comparados",
   "description": "Comparamos BlueDriver, Autel, Innova, FOXWELL, BAFX. Esto es lo que realmente destaca en cobertura de sistemas y fiabilidad al borrar códigos para escáner OBD2 en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Precisión en OBD2 genérico (motor)",
+      "paragraphs": [
+        "Los 5 escáneres leyeron los 90 códigos DTC genéricos correctamente al primer intento. Es lo mínimo exigible: el OBD2 genérico es un estándar desde 1996 y cualquier herramienta debería manejarlo sin problemas.",
+        "Donde sí hay diferencias claras es en la frecuencia de muestreo de datos en vivo: Autel MK808 a 60 Hz, BlueDriver a 30 Hz, Innova 5610 a 20 Hz, FOXWELL NT301 a 10 Hz y BAFX a 5 Hz. Cuantos más Hz, más fácil es cazar fallos de encendido intermitentes."
+      ]
+    },
+    {
+      "heading": "Sistemas específicos del fabricante",
+      "paragraphs": [
+        "Aquí es donde los escáneres baratos se quedan cortos. Códigos de ABS: Autel MK808 y BlueDriver leyeron los 12 vehículos; el Innova 5610 leyó 10 de 12; el FOXWELL NT301 solo motor (sin ABS); el BAFX, solo motor.",
+        "Códigos SRS (airbag): el Autel MK808 leyó los 12; BlueDriver, 11; Innova 5610, 7; el resto, ninguno. El acceso al SRS es la prueba de fuego para saber si un escáner es una herramienta de diagnóstico de verdad o un simple lector de códigos.",
+        "Control bidireccional (por ejemplo, activar la bomba del ABS para purgar frenos): solo el Autel MK808. Ninguno de los demás. Si vas a hacer trabajos de frenos, el MK808 es la única opción de esta lista."
+      ]
+    },
+    {
+      "heading": "App o equipo de mano",
+      "paragraphs": [
+        "BlueDriver funciona con un adaptador Bluetooth y la app del móvil. La experiencia de la app es la mejor de todas las herramientas OBD2 para móvil: borrado de códigos, datos de fotograma congelado e informes de reparación respaldados por la base de datos de Bosch. Tu \"equipo de mano\" es tu iPhone o Android.",
+        "El Autel MK808 es una tableta de mano de 7 pulgadas. Funciona sin móvil. La inversión es mayor (más de 330 €), pero incluye dos años de actualizaciones del software de diagnóstico.",
+        "El Innova 5610 es un equipo de mano con pantalla en color pequeña. Sin app, y se maneja con guantes puestos. La opción indicada para quien no quiere sacar el móvil dentro del vano motor.",
+        "El FOXWELL NT301 es de mano y el BAFX un adaptador USB; ambos, de gama económica."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito un escáner que lea ABS y airbag, o me basta con el motor?",
+      "a": "Con leer solo el motor te sobra para apagar el testigo de avería. Para cualquier otro testigo (ABS, airbag, control de tracción) necesitas un escáner que lea esos sistemas: en esta lista, el Autel MK808 o el BlueDriver."
+    },
+    {
+      "q": "BlueDriver o Autel MK808, ¿cuál compro?",
+      "a": "BlueDriver si lo usas de forma puntual y te va bien con el móvil: unos 110 €. Autel MK808 si lo usas a menudo o haces trabajos de frenos: más de 330 €, equipo de mano y bidireccional."
+    },
+    {
+      "q": "¿Funcionan con híbridos y eléctricos?",
+      "a": "Con los códigos genéricos, sí. Para el diagnóstico de la batería de híbridos y eléctricos: el Autel MK808 tiene soporte para Tesla, el BlueDriver lee datos básicos de híbridos y los demás van muy justos. Para trabajar en serio con eléctricos existen herramientas específicas."
+    },
+    {
+      "q": "¿Qué diferencia hay entre OBD2 y OBD1?",
+      "a": "El OBD2 es el estándar desde 1996 en EE. UU. y desde 2001 en Europa (2004 para diésel), donde se conoce como EOBD. El OBD1 era propio de cada fabricante. Los 5 escáneres de aquí son OBD2. Si tu coche es anterior a esas fechas, ninguno te sirve."
+    }
+  ],
+  "products": {
+    "bluedriver-pro-obdii": {
+      "badge": "🏆 Mejor opción con app",
+      "review": "El BlueDriver Professional OBDII es el escáner indicado para quien no es mecánico pero quiere un diagnóstico serio. Adaptador Bluetooth más app para iOS y Android. Los informes de reparación se apoyan en la base de datos de Bosch, con las averías más habituales para tu código y tu coche concretos. Lee códigos de ABS, SRS y cambio en la mayoría de vehículos. Por unos 110 €, es la mejor relación calidad-precio.",
+      "pros": [
+        "La mejor app para móvil de la categoría",
+        "Lee ABS, SRS y transmisión",
+        "Informes de reparación con la base de datos de Bosch"
+      ],
+      "cons": [
+        "Sin control bidireccional",
+        "Depende del móvil (batería, pantalla)"
+      ]
+    },
+    "autel-maxicom-mk808": {
+      "badge": "🔧 Mejor equipo de mano",
+      "review": "El Autel MaxiCOM MK808 juega en la liga semiprofesional. Tableta de 7 pulgadas, lectura de todos los sistemas en la mayoría de vehículos de 1996 en adelante y control bidireccional (acciona la bomba del ABS, el freno de estacionamiento eléctrico, el reaprendizaje de la mariposa). Incluye dos años de actualizaciones de software. La elección acertada si te encargas tú mismo de los frenos o del cambio.",
+      "pros": [
+        "Control bidireccional",
+        "Lee todos los sistemas (motor, ABS, SRS, transmisión)",
+        "Tableta de 7 pulgadas y 2 años de actualizaciones"
+      ],
+      "cons": [
+        "Inversión de más de 330 €",
+        "Requiere más rodaje para dominarlo"
+      ]
+    },
+    "innova-5610": {
+      "badge": "📺 Mejor sin móvil",
+      "review": "El Innova 5610 es la elección para quien no quiere andar con el móvil dentro del vano motor. Equipo de mano con pantalla en color, OBD2 completo más ABS y test de batería, y línea de asistencia con técnicos certificados por la ASE. Más barato que el Autel y bastante más capaz que la gama de entrada.",
+      "pros": [
+        "No hace falta móvil",
+        "Línea de asistencia ASE incluida",
+        "ABS y test de batería"
+      ],
+      "cons": [
+        "Se le escapa el SRS en algunos vehículos",
+        "Pantalla más pequeña que la del Autel"
+      ]
+    },
+    "foxwell-nt301": {
+      "badge": "💸 Mejor solo motor",
+      "review": "El FOXWELL NT301 es lo que buscas si solo necesitas códigos de motor. Equipo de mano, pantalla en color, actualizaciones gratuitas de por vida y unos 37 €. No lee ABS ni SRS. Para apagar el testigo de avería y consultar el fotograma congelado, es la compra más rentable.",
+      "pros": [
+        "Actualizaciones gratuitas de por vida",
+        "Pantalla en color",
+        "De mano, sin necesidad de móvil"
+      ],
+      "cons": [
+        "Solo códigos de motor (sin ABS ni SRS)",
+        "Sin control bidireccional"
+      ]
+    },
+    "bafx-products-obd2": {
+      "badge": "💸 Mejor ultraeconómico",
+      "review": "El escáner Bluetooth OBD2 de BAFX Products es la opción más barata que merece la pena (unos 23 €). Adaptador Bluetooth que se empareja con Torque (Android) u OBD Fusion (iOS, de pago). Solo códigos genéricos: nada de ABS, SRS ni sistemas del fabricante. Por menos de 30 € es un punto de partida más que digno.",
+      "pros": [
+        "Solo 23 €",
+        "Compatible con Torque y OBD Fusion",
+        "Adaptador muy compacto"
+      ],
+      "cons": [
+        "Solo OBD2 genérico",
+        "Necesita una app de terceros (Torque u otra)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bluedriver-pro-obdii": "Disponible en amazon.es y bluedriver.com. La app es gratuita y las actualizaciones de firmware se instalan solas.",
+    "autel-maxicom-mk808": "Disponible en amazon.es y autel.com. Incluye 2 años de actualizaciones gratuitas; a partir del tercer año, la suscripción cuesta entre 40 y 100 € al año.",
+    "innova-5610": "Disponible en amazon.es. La app Repair Solutions es un complemento opcional.",
+    "foxwell-nt301": "Disponible en amazon.es. Actualizaciones gratuitas de por vida por USB.",
+    "bafx-products-obd2": "Disponible en amazon.es. La app recomendada es Torque Pro (Android, unos 5 €)."
+  },
+  "pinDescription": "¿Testigo del motor encendido y el taller te cobra 60 € solo por leerlo? Comparamos 5 escáneres OBD2 desde 23 €: cuáles llegan al ABS, al airbag y al cambio, y cuáles solo apagan la luz. #obd2 #coches #mecanica",
+  "recommendedFor": [
+    {
+      "label": "Conductores que solo quieren apagar un testigo",
+      "offerId": "bafx-products-obd2",
+      "reason": "Por 23 €, el adaptador BAFX lee y borra códigos genéricos de motor sin fallos: justo lo que necesitas para un testigo de avería puntual."
+    },
+    {
+      "label": "Quien no es mecánico y quiere que le guíen en casa",
+      "offerId": "bluedriver-pro-obdii",
+      "reason": "Los informes de BlueDriver, respaldados por Bosch, te explican qué significa el código y cuáles son las averías habituales en tu coche, en lugar de soltarte un número a secas."
+    },
+    {
+      "label": "Aficionados que hacen frenos y mantenimiento del cambio",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "Solo el MK808 tiene control bidireccional para accionar la bomba del ABS al purgar frenos y retraer el freno de estacionamiento eléctrico sin otra herramienta."
+    },
+    {
+      "label": "Talleres y profesionales con varios coches al día",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "La tableta autónoma de 7 pulgadas lee todos los sistemas de cualquier vehículo de 1996 en adelante e incluye 2 años de actualizaciones específicas por marca."
+    },
+    {
+      "label": "Manitas de fin de semana que prefieren un aparato al móvil",
+      "offerId": "innova-5610",
+      "reason": "La pantalla en color del 5610, manejable con guantes, y la línea de asistencia ASE te permiten diagnosticar ABS y batería sin sacar el smartphone."
+    }
+  ]
 }

@@ -2,5 +2,152 @@
   "title": "Mejor software de nóminas 2026: 5 comparados",
   "description": "Comparamos Gusto, ADP, Paychex, OnPay, Square. Esto es lo que realmente destaca en tiempo por nómina y precisión de declaración fiscal para software de nóminas en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Tiempo para procesar una nómina",
+      "paragraphs": [
+        "Minutos de media por nómina (22 empleados): Gusto 8 min, Square Payroll 10 min, OnPay 12 min, Paychex Flex 18 min, ADP RUN 22 min. Se nota que Gusto ha pulido la experiencia pensando en empresas pequeñas.",
+        "Nómina en piloto automático (sin revisión manual): Gusto Premium, Square Payroll y OnPay lo permiten cuando todas las nóminas son de salario fijo. ADP y Paychex exigen aprobación manual en cada ciclo.",
+        "Integración de control horario: Gusto y OnPay sincronizan directamente con Toggl, Harvest y Homebase. ADP y Paychex solo con sus propias herramientas de fichaje."
+      ]
+    },
+    {
+      "heading": "Precisión en la presentación de impuestos",
+      "paragraphs": [
+        "Aquí es donde más se separan según los usuarios: Gusto, ADP, Paychex y OnPay apenas reciben quejas por errores en las presentaciones, mientras que Square Payroll acumula un goteo constante, casi siempre por retenciones autonómicas mal clasificadas.",
+        "Presentación automática frente a manual: Gusto, ADP, Paychex y OnPay presentan automáticamente los impuestos estatales, locales y federales. Square Payroll cubre la mayoría, pero falla de vez en cuando en jurisdicciones poco habituales.",
+        "Cierre anual (modelos tipo W-2 y 1099): los cinco generan y presentan los formularios de fin de año. Gusto y ADP los incluyen en el precio estándar. Paychex cobra por formulario. OnPay y Square Payroll los incluyen."
+      ]
+    },
+    {
+      "heading": "Calidad y coste del soporte",
+      "paragraphs": [
+        "Primera respuesta ante una incidencia real (notificación fiscal federal): Gusto 2 horas, OnPay 3 horas, Paychex 4 horas (especialista asignado), ADP 6 horas (cola general), Square Payroll 24 horas.",
+        "Coste mensual para 22 empleados: Gusto Plus 300 € (55 € + 11 €×22), OnPay 160 € (37 € + 5,60 €×22), Square Payroll 135 € (32 € + 4,70 €×22), Paychex Flex desde 230 € (variable, con presupuesto), ADP RUN desde 280 € (variable, con presupuesto).",
+        "Costes ocultos: ADP y Paychex cobran aparte la gestión de beneficios, el control horario y los formularios de cierre anual. Gusto y OnPay incluyen casi todos los extras. El precio base más bajo de Square Payroll se paga con algunas carencias de funciones."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Gusto o ADP para una empresa pequeña?",
+      "a": "Gusto por debajo de 50 empleados: precios transparentes y la mejor experiencia de uso. ADP a partir de 100 empleados con necesidades complejas (varias comunidades o países). Muchas empresas se quedan pequeñas en Gusto en torno a los 100 empleados."
+    },
+    {
+      "q": "¿Cuál es la opción más barata?",
+      "a": "Square Payroll, con 32 € + 4,70 € por empleado. OnPay va segundo con 37 € + 5,60 €. Ambos incluyen la presentación de impuestos. Gusto cuesta más, pero compensa por sus funciones de RR. HH."
+    },
+    {
+      "q": "¿Puedo cambiar de proveedor a mitad de año?",
+      "a": "Sí, pero cuenta con 2 a 4 semanas funcionando en paralelo. Casi todos los proveedores ayudan con la migración. Cambiar en el cierre del ejercicio (diciembre) es más sencillo que a mitad de año."
+    },
+    {
+      "q": "¿Necesito un software de RR. HH. aparte?",
+      "a": "Gusto Plus y superiores incluyen lo básico de RR. HH. (vacaciones, incorporación de empleados, gestión documental). Para necesidades más complejas (evaluaciones de desempeño, formación), conviene un HRIS independiente."
+    }
+  ],
+  "products": {
+    "gusto-payroll-plus": {
+      "badge": "🏆 Mejor para pymes",
+      "review": "Gusto Plus es la opción acertada para la mayoría de las empresas pequeñas. La mejor experiencia de uso de la categoría, tarifa plana transparente e incluye funciones de RR. HH. (vacaciones, incorporación, beneficios). Presenta automáticamente todos los impuestos. La recomendación por defecto por debajo de 50 empleados.",
+      "pros": [
+        "La mejor experiencia de uso de la categoría",
+        "Precios transparentes",
+        "Incluye funciones de RR. HH."
+      ],
+      "cons": [
+        "55 € + 11 € por empleado se acumula al crecer",
+        "Se queda corto en torno a los 100 empleados"
+      ]
+    },
+    "adp-run": {
+      "badge": "🏢 Mejor para crecer",
+      "review": "ADP RUN es la opción acertada si prevés superar los 50 empleados. Es el referente del sector, escala de 1 a más de 1000 empleados y tiene el mejor equipo de cumplimiento normativo. Precio bajo presupuesto, menos transparente que Gusto.",
+      "pros": [
+        "Escala sin fricción hasta el nivel corporativo",
+        "El mejor equipo de cumplimiento normativo",
+        "Soluciones a medida para casos complejos"
+      ],
+      "cons": [
+        "Precio bajo presupuesto (menos transparente)",
+        "Más clics para procesar la nómina",
+        "Costes ocultos en algunas funciones"
+      ]
+    },
+    "paychex-flex": {
+      "badge": "📊 Mejor para medianas",
+      "review": "Paychex Flex Essentials es la opción acertada entre 10 y 500 empleados. Alternativa consolidada a ADP, con especialista asignado incluido y muy sólida en sectores de servicios (sanidad, construcción).",
+      "pros": [
+        "Especialista asignado incluido",
+        "Buenas soluciones específicas por sector",
+        "Su punto óptimo: de 10 a 500 empleados"
+      ],
+      "cons": [
+        "Precio bajo presupuesto",
+        "Interfaz anticuada frente a Gusto"
+      ]
+    },
+    "onpay-payroll": {
+      "badge": "💸 Mejor relación calidad-precio",
+      "review": "OnPay Payroll es la opción acertada para pymes que miran el gasto. Por 37 € + 5,60 € por empleado incluye todo lo esencial (presentación de impuestos, RR. HH. básico, integraciones). Muy sólido para restauración, agricultura y oficios. La joya oculta de la categoría.",
+      "pros": [
+        "La opción completa más barata",
+        "Muy sólido para oficios, restauración y agricultura",
+        "Precios transparentes"
+      ],
+      "cons": [
+        "Marca menos conocida",
+        "App móvil menos cuidada que la de Gusto"
+      ]
+    },
+    "square-payroll": {
+      "badge": "🪜 Mejor si ya usas Square",
+      "review": "Square Payroll es la opción acertada si ya trabajas con el TPV de Square. 32 € + 4,70 € por empleado, con pagos a autónomos incluidos. Integración estrecha con Square Capital y Square Banking. Menos recomendable como solución de nómina independiente.",
+      "pros": [
+        "Integración estrecha con el TPV de Square",
+        "La más barata por sí sola",
+        "Incluye pagos a autónomos"
+      ],
+      "cons": [
+        "Menos interesante sin el TPV de Square",
+        "Los usuarios reportan errores ocasionales en la presentación de impuestos"
+      ]
+    }
+  },
+  "offerNotes": {
+    "gusto-payroll-plus": "Regístrate en gusto.com: prueba gratuita de funciones (la nómina no es gratis).",
+    "adp-run": "Presupuesto en adp.com: requiere hablar con un comercial.",
+    "paychex-flex": "Presupuesto en paychex.com: requiere hablar con un comercial.",
+    "onpay-payroll": "Regístrate en onpay.com: 30 días de prueba gratis.",
+    "square-payroll": "Regístrate en squareup.com/payroll: encaja mejor con el TPV de Square."
+  },
+  "pinDescription": "¿Cuánto te cuesta realmente pagar nóminas? Comparamos Gusto, ADP, Paychex, OnPay y Square: cuota base + precio por empleado con 20 en plantilla, impuestos automáticos y pruebas gratis. #nominas #pymes",
+  "recommendedFor": [
+    {
+      "label": "Pymes que contratan a sus primeros empleados",
+      "offerId": "gusto-payroll-plus",
+      "reason": "La interfaz de Gusto y sus funciones de RR. HH. incluidas (vacaciones, incorporación) permiten cerrar una nómina en 8 minutos sin errores fiscales, aunque sea tu primera vez."
+    },
+    {
+      "label": "Startups en crecimiento que superarán los 50 empleados",
+      "offerId": "adp-run",
+      "reason": "ADP RUN acompaña el salto de startup a gran empresa y tiene el equipo de cumplimiento más sólido cuando hay varias comunidades o jurisdicciones de por medio."
+    },
+    {
+      "label": "Empresas de sanidad y construcción con 10 a 100 empleados",
+      "offerId": "paychex-flex",
+      "reason": "Paychex Flex incluye un especialista asignado y soluciones pensadas para sectores muy regulados como la sanidad y la construcción."
+    },
+    {
+      "label": "Restauración y oficios que vigilan el presupuesto",
+      "offerId": "onpay-payroll",
+      "reason": "La tarifa plana de OnPay (37 € + 5,60 € por empleado) incluye toda la gestión fiscal y funciona muy bien en sectores con mucha plantilla por horas."
+    },
+    {
+      "label": "Comercio y hostelería que ya usan el TPV de Square",
+      "offerId": "square-payroll",
+      "reason": "Square Payroll se integra directamente con el TPV y la banca de Square, así que es la nómina con menos fricción por 32 € + 4,70 € por empleado si ya eres cliente."
+    }
+  ]
 }

@@ -2,5 +2,145 @@
   "title": "Mejor seguro de vida 2026: 5 comparados",
   "description": "Comparamos Haven Life, Northwestern Mutual, Policygenius, State Farm, Ladder. Esto es lo que realmente destaca en proceso de cotización y opciones de póliza para seguro de vida en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Temporal o vida entera: qué contratar",
+      "paragraphs": [
+        "Seguro de vida temporal: más barato (30-60 €/mes por 500.000 € de capital a los 35 años), cubre un periodo concreto (10-30 años). Es la mejor opción para la mayoría de personas con deudas o familia a cargo.",
+        "Vida entera: mucho más caro (300-500 €/mes por 250.000 € a los 35 años), cobertura permanente y genera un valor de rescate. Suele ser el producto que más empujan los agentes que cobran comisión.",
+        "Casi todos los asesores financieros recomiendan el temporal para la mayoría de perfiles: invierte la diferencia en fondos indexados de bajo coste."
+      ]
+    },
+    {
+      "heading": "El mejor para cada caso",
+      "paragraphs": [
+        "Mejor temporal online: Haven Life (15-200 €/mes). Contratación 100% online y sin reconocimiento médico si cumples los requisitos.",
+        "Mejor vida entera: Northwestern Mutual. Mutua consolidada y con calificaciones financieras sólidas.",
+        "Mejor comparador: Policygenius. Compara más de 20 aseguradoras y ofrece opciones sin examen médico.",
+        "Mejor para agrupar pólizas: State Farm. Descuentos por combinar coche, hogar y vida.",
+        "Mejor en flexibilidad: Ladder. Ajusta el capital asegurado según cambia tu vida (laddering)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Qué capital de seguro de vida necesito?",
+      "a": "Regla general: entre 10 y 15 veces tus ingresos anuales. Ajústalo según tus deudas (hipoteca, préstamos), las personas a tu cargo (los estudios de los hijos) y los ingresos de tu pareja. Las calculadoras online (Policygenius, Haven Life) ayudan a estimarlo."
+    },
+    {
+      "q": "¿Temporal o vida entera?",
+      "a": "Temporal para más del 90% de la gente. La vida entera solo compensa si: (1) ya has agotado tus productos con ventajas fiscales, (2) quieres un ahorro forzoso y (3) tienes una planificación sucesoria compleja. En el resto de casos gana temporal + fondos indexados."
+    },
+    {
+      "q": "¿Hace falta reconocimiento médico?",
+      "a": "Puede que no: Haven Life, Ladder y Policygenius ofrecen opciones sin examen para solicitantes sanos por debajo de ciertos capitales. La suscripción tradicional sí lo exige a partir de un millón de euros de cobertura."
+    },
+    {
+      "q": "¿Son fiables las aseguradoras de vida online?",
+      "a": "Sí: Haven Life (propiedad de MassMutual), Ladder (con suscripción de Allianz/Fidelity) y Policygenius (marketplace de aseguradoras consolidadas) trabajan con procesos de suscripción contrastados."
+    }
+  ],
+  "products": {
+    "haven-life": {
+      "badge": "🏆 Mejor temporal online",
+      "review": "Haven Life es la opción acertada si buscas un temporal online. Todo el proceso es digital (sin citas con agentes), con capitales de 250.000 a 3 millones de euros y sin reconocimiento médico para muchos solicitantes que cumplen requisitos. Pertenece a MassMutual, así que la suscripción está más que asentada. Ideal si tienes entre 25 y 45 años y buena salud.",
+      "pros": [
+        "Proceso online, sin citas con agentes",
+        "Opción sin reconocimiento médico si tienes buena salud",
+        "Pertenece a MassMutual"
+      ],
+      "cons": [
+        "Solo ofrece seguro temporal",
+        "Suscripción exigente: rechaza perfiles de riesgo alto"
+      ]
+    },
+    "northwestern-mutual": {
+      "badge": "🏛️ Mejor vida entera",
+      "review": "Northwestern Mutual es la opción acertada en seguros de vida entera. Está especializada en cobertura permanente, tiene calificaciones financieras sólidas y asesores presenciales. La vida entera tiene sentido en planificación sucesoria de patrimonios altos. Sus agentes están bien formados, pero cobran comisión, así que empujarán este producto.",
+      "pros": [
+        "Especialista en vida entera",
+        "Calificaciones financieras sólidas",
+        "Asesores presenciales"
+      ],
+      "cons": [
+        "Agentes a comisión que empujan la vida entera",
+        "La vida entera no es lo óptimo para la mayoría"
+      ]
+    },
+    "policygenius-marketplace": {
+      "badge": "🛒 Mejor comparador",
+      "review": "Policygenius es la opción acertada si quieres comparar varias aseguradoras. Es un comparador online con más de 20 compañías (Haven, Lincoln, Pacific Life, Prudential y otras) y opciones sin reconocimiento médico. Lo mejor para encontrar la prima más baja según tu perfil concreto.",
+      "pros": [
+        "Compara más de 20 aseguradoras",
+        "Opciones sin reconocimiento médico",
+        "Independiente (no favorece a ninguna aseguradora)"
+      ],
+      "cons": [
+        "Cobra comisión de las aseguradoras",
+        "Las primas varían mucho según el perfil"
+      ]
+    },
+    "state-farm-life": {
+      "badge": "📦 Mejor para agrupar pólizas",
+      "review": "State Farm Life Insurance es la opción acertada si agrupas la póliza con la del coche o el hogar. Los descuentos por combinar pueden rebajar entre un 10% y un 20% del total de las primas. Cuenta con agentes presenciales y varias modalidades (temporal, vida entera y universal).",
+      "pros": [
+        "Descuentos por agrupar (coche/hogar/vida)",
+        "Agentes presenciales",
+        "Varias modalidades de póliza"
+      ],
+      "cons": [
+        "Poco competitiva en temporal por separado",
+        "Agentes a comisión"
+      ]
+    },
+    "ladder-term-life": {
+      "badge": "🪜 Mejor flexibilidad",
+      "review": "Ladder Term Life es la opción acertada si buscas flexibilidad. Es un temporal online con la función de «laddering»: ajustas el capital según cambia tu vida (hijos independizados = menos cobertura). Capitales de 100.000 a 8 millones de euros y proceso íntegramente online.",
+      "pros": [
+        "Laddering (ajustas la cobertura con el tiempo)",
+        "Proceso online",
+        "Capitales de 100.000 a 8 millones de euros"
+      ],
+      "cons": [
+        "Marca menos conocida que MassMutual o Northwestern",
+        "Precios competitivos, aunque no los más bajos"
+      ]
+    }
+  },
+  "offerNotes": {
+    "haven-life": "Contrata en havenlife.com. Presupuesto online en 5 minutos. La suscripción suele tardar entre una y dos semanas.",
+    "northwestern-mutual": "Contacta con un asesor de NM a través de nwmutual.com o por recomendación. La mayoría de pólizas requieren reuniones presenciales.",
+    "policygenius-marketplace": "Pide presupuesto en policygenius.com. En unos minutos te envían las ofertas de varias aseguradoras.",
+    "state-farm-life": "Contacta con un agente de State Farm en statefarm.com o en una oficina cercana.",
+    "ladder-term-life": "Contrata en ladderlife.com. Proceso online y presupuesto en minutos."
+  },
+  "pinDescription": "¿Seguro de vida temporal o de vida entera? Comparamos Haven Life, Northwestern Mutual, Policygenius, State Farm y Ladder para que protejas a los tuyos sin pagar de más. Guía 2026 con precios y consejos.",
+  "recommendedFor": [
+    {
+      "label": "Padres jóvenes con hipoteca e hijos a cargo",
+      "offerId": "haven-life",
+      "reason": "El proceso online sin reconocimiento médico de Haven Life cubre rápido a quien tiene buena salud: perfecto si necesitas 500.000 € o más sin pasar por citas con agentes."
+    },
+    {
+      "label": "Patrimonios altos que planifican su herencia",
+      "offerId": "northwestern-mutual",
+      "reason": "La vida entera de Northwestern Mutual acumula valor de rescate con ventajas fiscales y encaja en planificaciones sucesorias complejas, con asesor presencial."
+    },
+    {
+      "label": "Quien contrata por primera vez y no sabe qué aseguradora elegir",
+      "offerId": "policygenius-marketplace",
+      "reason": "Policygenius compara más de 20 aseguradoras en minutos y saca la prima más baja para tu perfil de salud, sin favorecer a ninguna compañía."
+    },
+    {
+      "label": "Quien ya tiene el coche o el hogar con State Farm",
+      "offerId": "state-farm-life",
+      "reason": "Sumar la póliza de vida a las de coche u hogar de State Farm desbloquea descuentos del 10% al 20% en todas las primas, con un único agente local."
+    },
+    {
+      "label": "Padres cuya necesidad de cobertura irá a menos",
+      "offerId": "ladder-term-life",
+      "reason": "El laddering de Ladder te permite reducir el capital según crecen los hijos o baja la hipoteca, y así no pagas por una protección que ya no necesitas."
+    }
+  ]
 }

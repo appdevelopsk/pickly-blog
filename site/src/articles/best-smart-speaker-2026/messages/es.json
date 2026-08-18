@@ -99,5 +99,109 @@
     "sonos-era-100": "El mejor altavoz premium agnóstico a la plataforma -- estéreo amplio gracias a los tweeters inclinados, calibración de sala Trueplay, AirPlay 2 + reenvío de Alexa + Google. Sin asistente nativo; los comandos de Alexa/Google tienen ligera latencia. Construye sistemas Sonos multiroom sin bloqueo de ecosistema."
   },
   "pinDescription": "Cinco altavoces inteligentes comparados en 2026: Amazon Echo, Google Nest Audio, Apple HomePod, Echo Studio y Sonos Era 100. Precisión del asistente de voz, diferencias de calidad de audio, realidad del bloqueo de ecosistema y cuál comprar para música frente al control domótico.",
-  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad."
+  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad.",
+  "products": [
+    {
+      "offerId": "amazon-echo-4th-gen",
+      "badge": "Hub domótico",
+      "grade": "A+",
+      "review": "El Amazon Echo 4ª generación es la recomendación fácil en domótica dentro de esta comparativa: combina un woofer de 7,6 cm con dos tweeters, radio Zigbee integrada y compatibilidad con Thread y Matter en un cuerpo esférico que reparte el sonido en 360 grados. Solo el hub Zigbee ya sustituye a un puente aparte para las Hue antiguas, las IKEA TRADFRI y muchos dispositivos de terceros, y esa es la razón práctica para elegir este Echo en lugar de un Nest Audio. El catálogo de dispositivos compatibles con Alexa supera las 140.000 referencias, bastante más amplio que el de Google Home o HomeKit. El sonido cumple para poner música de fondo en la cocina, pero se apaga por debajo de los 80 Hz y la escena sonora es estrecha frente al Nest Audio. Es la puerta de entrada más barata al control por voz multiestancia, y ahí es donde mejor funciona.",
+      "pros": [
+        "Hub Zigbee integrado, además de Thread y Matter",
+        "El catálogo domótico de terceros más amplio: más de 140.000 dispositivos",
+        "El precio más bajo de la comparativa para ampliar a varias habitaciones"
+      ],
+      "cons": [
+        "Los graves se apagan por debajo de los 80 Hz",
+        "Sonido pensado para la voz y la música casual, no para escucha crítica"
+      ]
+    },
+    {
+      "offerId": "google-nest-audio",
+      "badge": "El asistente más listo",
+      "grade": "A",
+      "review": "El Google Nest Audio queda un escalón por encima del Echo 4ª generación en música, con un woofer de 75 mm y un tweeter de 19 mm que dan un grave claramente más cálido y unos medios más limpios, justo donde viven las voces y los instrumentos acústicos. El Asistente de Google sigue siendo el mejor de esta comparativa en preguntas encadenadas y peticiones musicales por concepto: pedirle algo más lento o con un ambiente parecido funciona de verdad, y la integración con YouTube Music y Spotify es profunda. No incluye hub Zigbee y depende de Wi-Fi y Bluetooth para el control domótico, lo cual está bien con equipos recientes de SwitchBot, Tapo o Meross, pero se queda corto si ya tienes dispositivos Zigbee. No hay nada equivalente al respaldo Zigbee del Echo, y Google ya ha retirado altavoces y servicios sin previo aviso, algo razonable a tener en cuenta a este precio.",
+      "pros": [
+        "Graves más cálidos y medios más limpios que el Echo 4ª generación",
+        "El mejor asistente para preguntas encadenadas y peticiones musicales por concepto",
+        "Buena pareja estéreo con un segundo Nest Audio para ganar separación"
+      ],
+      "cons": [
+        "Sin hub Zigbee para dispositivos domóticos antiguos",
+        "El historial de Google retirando servicios es una preocupación legítima"
+      ]
+    },
+    {
+      "offerId": "apple-homepod-2nd-gen",
+      "badge": "Ecosistema Apple",
+      "grade": "A",
+      "review": "El Apple HomePod 2ª generación es la opción con corrección acústica de sala: woofer de 10 cm de gran excursión, cinco tweeters y procesado de audio espacial en tiempo real que adapta la ecualización al sitio donde lo pongas, ya sea una esquina, una balda abierta o una estantería. Los graves llegan de forma audible a la zona de 40-50 Hz, el detalle en agudos de platos y armónicos de cuerda es el más limpio de la comparativa, y la reproducción sin pérdida de Apple Music a 24 bits/192 kHz es donde brilla. También hace de router de borde Thread y de hub HomeKit. La configuración exige un iPhone o un iPad, Apple Music es en la práctica el servicio de streaming a usar (Spotify pasa por una ruta AirPlay más pobre) y el botón físico para silenciar el micrófono es la mejor garantía de privacidad de la comparativa: las peticiones a Siri usan un identificador aleatorio en lugar de tu Apple ID. En una casa Android el HomePod no tiene sentido.",
+      "pros": [
+        "El audio espacial en tiempo real adapta la ecualización a la sala",
+        "Router de borde Thread y hub HomeKit integrados",
+        "Silenciado físico del micrófono e identificador de Siri desvinculado de tu cuenta"
+      ],
+      "cons": [
+        "Necesitas Apple Music para exprimir la calidad sin pérdida",
+        "La configuración y el control requieren un iPhone o un iPad"
+      ]
+    },
+    {
+      "offerId": "amazon-echo-studio",
+      "badge": "Música con Atmos",
+      "grade": "A",
+      "review": "El Amazon Echo Studio es el buque insignia sonoro de Amazon: woofer de 13,3 cm, dos altavoces de medios de 5 cm, un tweeter frontal y otro orientado hacia arriba que rebota la información de altura en un techo plano para el Dolby Atmos. La potencia de pico ronda los 330 W y el grave se siente físicamente en la habitación de una forma que ni el Echo 4ª generación ni el Nest Audio alcanzan: la electrónica, el hip-hop y las bandas sonoras lo agradecen claramente. Los efectos de altura de Atmos son sutiles más que espectaculares con techos de 250-270 cm como los de una vivienda española media, pero el grave que llena la sala es la mejora que de verdad importa. Funciona con todo el ecosistema Alexa, aunque no incluye hub Zigbee, así que como dispositivo domótico resulta paradójicamente menos capaz que el Echo 4ª generación, más barato. Para quien usa Alexa y le importa la música, este es el salto correcto.",
+      "pros": [
+        "Cinco altavoces, 330 W de pico y procesado Dolby Atmos",
+        "Presencia real de graves profundos en la habitación",
+        "Ecosistema Alexa completo y compatibilidad ARC para el sonido del televisor"
+      ],
+      "cons": [
+        "Sin hub Zigbee integrado pese al precio más alto",
+        "Los efectos de altura de Atmos son sutiles en salones de tamaño normal"
+      ]
+    },
+    {
+      "offerId": "sonos-era-100",
+      "badge": "Sin atarte a un ecosistema",
+      "grade": "A",
+      "review": "El Sonos Era 100 es la opción que pone el sonido por delante sin encerrarte en un único ecosistema. Sus dos tweeters orientados a 70 grados generan la imagen estéreo más amplia de la comparativa desde un solo altavoz, el woofer da un grave firme y controlado, y la calibración Trueplay desde la app de Sonos mide la sala y corrige la ecualización en consecuencia. AirPlay 2 cubre los dispositivos Apple, Alexa y el Asistente de Google se integran por reenvío (con algo más de latencia que en un Echo o un Nest nativos) y la app de Sonos deja los servicios de streaming intercambiables en vez de atados a una plataforma. No hay asistente de voz nativo ni función de hub domótico: es un altavoz de música ante todo, con la voz como capacidad secundaria. La calidad de construcción y el soporte de software a largo plazo son la referencia del segmento.",
+      "pros": [
+        "La imagen estéreo más amplia desde un solo altavoz gracias a los tweeters angulados",
+        "La calibración Trueplay corrige la ecualización según tu sala",
+        "AirPlay 2, Alexa y Google por reenvío, sin atarte a un ecosistema"
+      ],
+      "cons": [
+        "Sin asistente de voz nativo: Alexa y Google llegan por reenvío",
+        "El altavoz individual más caro de la comparativa"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Quien monta una casa inteligente y quiere hub y control por voz",
+      "offerId": "amazon-echo-4th-gen",
+      "reason": "La radio Zigbee integrada, la compatibilidad con Thread y Matter y las más de 140.000 referencias del catálogo de Alexa lo convierten en la vía más barata hacia una compatibilidad domótica amplia."
+    },
+    {
+      "label": "Usuarios de Android que priorizan un asistente listo",
+      "offerId": "google-nest-audio",
+      "reason": "La ventaja del Asistente de Google en preguntas encadenadas y peticiones musicales por concepto, sumada a un sonido más cálido que el del Echo 4ª generación, encaja en casas Android que viven de los servicios de Google."
+    },
+    {
+      "label": "Casas con iPhone y suscripción a Apple Music",
+      "offerId": "apple-homepod-2nd-gen",
+      "reason": "La corrección de sala en tiempo real, su doble papel de hub Thread/HomeKit, el silenciado físico del micrófono y la integración con Handoff en el iPhone lo hacen la elección natural en un hogar Apple."
+    },
+    {
+      "label": "Usuarios de Alexa a los que les importa la calidad musical",
+      "offerId": "amazon-echo-studio",
+      "reason": "Cinco altavoces con Dolby Atmos y presencia real de graves profundos mantienen intacto el ecosistema Alexa y suenan bastante mejor que el Echo 4ª generación."
+    },
+    {
+      "label": "Quien busca sonido antes que nada y no quiere casarse con una plataforma",
+      "offerId": "sonos-era-100",
+      "reason": "Los tweeters angulados, la calibración Trueplay y AirPlay 2 junto al reenvío de Alexa y Google ofrecen la mejor calidad de sonido sin comprometerte con un único ecosistema en la nube."
+    }
+  ]
 }

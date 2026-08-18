@@ -92,5 +92,114 @@
     "iniu-portable-charger": "Opción económica de carga rápida — 10,000mAh, 20W USB-C al mismo precio que el Anker Slim. Carga más rápida que el Anker Slim; historial de marca más corto. La opción correcta si la velocidad de carga importa más que el factor de forma por menos de $25."
   },
   "pinDescription": "5 cargadores portátiles comparados para 2026: desde el Anker delgado de 186g hasta el Anker 737 de 140W para laptops. mAh explicado, reglas de aerolínea, guía de vataje USB-C — sabe exactamente qué llevar.",
-  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad."
+  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad.",
+  "products": [
+    {
+      "offerId": "anker-powercore-slim-10000",
+      "badge": "Mejor para el día a día",
+      "grade": "A+",
+      "review": "El Anker PowerCore Slim 10000 es la opción acertada para el uso más habitual: cargar el móvil de emergencia en los desplazamientos diarios con el menor peso posible. La lámina plana de 186 g tiene más o menos el tamaño y la forma de dos iPhone apilados, lo bastante fina como para olvidarte de que la llevas en el bolsillo de la chaqueta y capaz de deslizarse en el bolsillo trasero de una mochila de portátil, donde las baterías cilíndricas ruedan de un lado a otro. Sus 10.000 mAh dan para unas 2 cargas completas de un iPhone 15 o 1,5 cargas de un Samsung Galaxy S24 Ultra, con salidas USB-C y USB-A de 12 W cada una y recarga nocturna en 4-5 horas mediante entrada USB-C de 18 W. Por unos 20 € es la referencia en relación calidad-precio para un cargador de uso diario. Las pegas honestas: la salida USB-C de 12 W va notablemente más lenta que el cargador de 20 W que esperan la mayoría de móviles actuales, y el indicador de carga restante son solo puntos LED (sin porcentaje exacto).",
+      "pros": [
+        "Lámina plana de 186 g: desaparece en el bolsillo de la chaqueta o de la mochila",
+        "10.000 mAh para unas 2 cargas completas de un iPhone 15",
+        "Salidas USB-C y USB-A de 12 W cada una, suficientes para casi cualquier móvil",
+        "Unos 20 €: la referencia de relación calidad-precio de esta comparativa"
+      ],
+      "cons": [
+        "La salida USB-C de 12 W es más lenta que los cargadores rápidos actuales de 20 W",
+        "Indicador de carga por puntos LED, sin porcentaje exacto"
+      ]
+    },
+    {
+      "offerId": "anker-737-power-bank",
+      "badge": "Mejor para portátiles",
+      "grade": "A",
+      "review": "El Anker 737 Power Bank (PowerCore 24K) es la opción de gama alta para quien carga el portátil lejos de un enchufe. Sus 24.000 mAh a 88,8 Wh se quedan por debajo del límite de 100 Wh para equipaje de mano en avión, los dos puertos USB-C admiten 100 W de salida cada uno, los 140 W totales cargan un MacBook Pro de 15 pulgadas prácticamente a la velocidad del cargador de pared, y la entrada de 65 W por doble puerto recarga la propia batería en unas 2,5 horas: más rápido por mAh que el modelo fino. La pantalla digital muestra el porcentaje exacto en lugar de puntos LED, algo que se agradece cuando planificas cuánto puedes cargar durante una escala de 3 horas. Por unos 95 € es una compra meditada. Las pegas honestas: 443 g y 86 × 62 × 33 mm, es un ladrillo que va en la mochila y no en el bolsillo, y el precio es unas cinco veces el de las opciones económicas si lo que necesitas es cargar el móvil.",
+      "pros": [
+        "140 W por USB-C: carga un MacBook Pro de 15\" a velocidad de enchufe",
+        "24.000 mAh a 88,8 Wh, por debajo del límite de 100 Wh en cabina",
+        "Pantalla digital con el porcentaje exacto de batería",
+        "Entrada de 65 W por doble puerto: se recarga en unas 2,5 horas"
+      ],
+      "cons": [
+        "443 g: un ladrillo para la mochila, no para el bolsillo",
+        "95 € es unas cinco veces lo que cuestan las opciones económicas si solo cargas el móvil"
+      ]
+    },
+    {
+      "offerId": "mophie-powerstation-pd",
+      "badge": "Mejor acabado premium",
+      "grade": "A",
+      "review": "El Mophie Powerstation PD es la opción de acabado premium para quien valora la fiabilidad a largo plazo y la estética tanto como la función. 10.000 mAh en el característico formato fino de Mophie, con salida USB-C PD de 18 W y un puerto USB-A, acabado en tejido o aluminio según la versión. La calidad de construcción de Mophie sale sistemáticamente mejor valorada que la de las alternativas baratas en las pruebas de larga duración: menos casos de holguras, puertos flojos o LED averiados a los 18 meses frente a marcas sin nombre de capacidad similar. Por unos 45 € cuesta aproximadamente el doble por mAh que el Anker Slim. Las pegas honestas: pagas por la marca Mophie y el acabado premium, no por velocidad de carga ni densidad de capacidad; la salida USB-C de 18 W mejora los 12 W del Anker Slim pero sigue por debajo del umbral de 20 W que activa del todo la carga rápida en los móviles actuales, y en esta franja de capacidad hay opciones más rápidas por menos dinero.",
+      "pros": [
+        "Formato fino característico de Mophie con acabado en tejido o aluminio",
+        "Calidad de construcción mejor valorada que las marcas económicas pasados 18 meses",
+        "Salida USB-C PD de 18 W: más rápida que los 12 W del Anker Slim",
+        "Estética premium ideal para viajes y uso diario"
+      ],
+      "cons": [
+        "Cuesta aproximadamente el doble por mAh que el Anker Slim",
+        "Los 18 W siguen por debajo del umbral de 20 W de la carga rápida actual"
+      ]
+    },
+    {
+      "offerId": "baseus-adaman-power-bank",
+      "badge": "Mejor relación calidad-precio para portátiles",
+      "grade": "B+",
+      "review": "La Baseus Adaman 65W es la opción económica para quien necesita cargar el portátil sin pagar lo que cuesta el Anker 737. 20.000 mAh con USB-C PD de 65 W que cargan un MacBook Air de 13 pulgadas a plena velocidad —prácticamente igual que enchufarlo a la corriente— y una pequeña pantalla LED que muestra el porcentaje exacto en lugar de puntos. El USB-A de 18 W cubre sin problemas la carga del móvil. Por unos 33 € cuesta alrededor de un tercio que el Anker 737 si tu portátil es un Mac fino o un ultrabook con Windows y no una estación de trabajo de 15 pulgadas sedienta de energía. Las pegas honestas: Baseus es una marca china menos asentada que Anker, la infraestructura de recambios y soporte es más débil, los datos de calidad a largo plazo (más de 2 años) son más irregulares que en los modelos estrella de Anker, y sus 310 g pesan más que los diseños finos, aunque menos que el Anker 737.",
+      "pros": [
+        "65 W USB-C PD: carga un MacBook Air de 13\" a velocidad de enchufe",
+        "20.000 mAh por unos 33 €: excelente precio por Wh",
+        "Pantalla digital con el porcentaje exacto de batería",
+        "310 g, más ligera que el Anker 737 para quien viaja con un portátil fino"
+      ],
+      "cons": [
+        "El soporte de Baseus es más débil que el de Anker",
+        "Datos de calidad más irregulares a partir de 2 años frente a los modelos estrella de Anker"
+      ]
+    },
+    {
+      "offerId": "iniu-portable-charger",
+      "badge": "Mejor carga rápida económica",
+      "grade": "B+",
+      "review": "El INIU de 10.000 mAh es la elección adecuada si buscas carga rápida de verdad sin pagar el acabado premium de Mophie. 10.000 mAh con salida USB-C de 20 W —el único modelo por debajo de 25 € de esta comparativa que llega a 20 W por USB-C— y USB-A de 22,5 W que gestiona con soltura la carga rápida de móviles Android. A 20 W, el INIU lleva un iPhone 15 al 50 % en menos de 30 minutos, igualando de verdad la velocidad del cargador de pared. La pantalla LED con porcentaje mejora los puntos LED del Anker Slim. Por unos 20 € iguala el precio del Anker Slim y le gana en potencia USB-C (20 W frente a 12 W). Las pegas honestas: INIU es una marca más reciente y hay menos datos de calidad a largo plazo que con Anker, los patrones de fallo a los 18 meses y a los 3 años no están tan documentados, y su historial de durabilidad es más corto aunque las valoraciones de construcción a corto plazo sean sólidas.",
+      "pros": [
+        "Salida USB-C de 20 W por menos de 25 €: carga rápida real para el iPhone 15",
+        "USB-A de 22,5 W para la carga rápida de móviles Android",
+        "Pantalla LED con porcentaje en lugar de simples puntos",
+        "10.000 mAh en formato compacto al precio del Anker Slim"
+      ],
+      "cons": [
+        "Marca más reciente, con menos historial de calidad a largo plazo",
+        "Patrones de fallo a 18 meses y 3 años menos documentados que en Anker"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para el día a día y cargar el móvil de emergencia",
+      "offerId": "anker-powercore-slim-10000",
+      "reason": "Una lámina plana de 186 g con 10.000 mAh por 20 € cubre la carga de emergencia diaria del móvil con el menor peso posible."
+    },
+    {
+      "label": "Para cargar el portátil lejos de un enchufe",
+      "offerId": "anker-737-power-bank",
+      "reason": "140 W de salida y 24.000 mAh por debajo del límite de cabina cargan un MacBook Pro de 15\" a velocidad de enchufe para quien trabaja en remoto."
+    },
+    {
+      "label": "Para viajeros que valoran el acabado premium y la estética",
+      "offerId": "mophie-powerstation-pd",
+      "reason": "El acabado fino en aluminio o tejido de Mophie, con una fiabilidad a largo plazo por encima de la media, encaja con el uso diario y los viajes."
+    },
+    {
+      "label": "Para portátiles finos: 65 W sin pagar lo del Anker 737",
+      "offerId": "baseus-adaman-power-bank",
+      "reason": "Los 65 W por USB-C cargan un MacBook Air de 13\" a plena velocidad por un tercio del precio del Anker 737, con porcentaje digital."
+    },
+    {
+      "label": "Para quien busca precio ajustado y prioriza la velocidad de carga",
+      "offerId": "iniu-portable-charger",
+      "reason": "Salida USB-C de 20 W al precio del Anker Slim: le gana en velocidad de carga si valoras los vatios por encima del prestigio de marca."
+    }
+  ]
 }

@@ -61,5 +61,72 @@
     "omnilux-contour-face": "FDA-cleared com o histórico de estudos mais longo — escolha se respaldo regulatório importa pra você."
   },
   "pinDescription": "Três máscaras LED comparadas em 2026: da Aduro de entrada à CurrentBody Skin LED. Comprimentos de onda, tempos de sessão e o que dermatologistas realmente recomendam para fototerapia vermelha em casa.",
-  "methodology": "Avaliamos cada produto pela transparência dos ingredientes, pelo histórico dermatológico, pela consistência dos resultados em usuários reais, pela qualidade da embalagem e pelo custo-benefício por uso."
+  "methodology": "Avaliamos cada produto pela transparência dos ingredientes, pelo histórico dermatológico, pela consistência dos resultados em usuários reais, pela qualidade da embalagem e pelo custo-benefício por uso.",
+  "products": [
+    {
+      "offerId": "currentbody-skin-led",
+      "badge": "Melhor no geral",
+      "review": "A CurrentBody Skin LED Mask é a máscara que os dermatologistas mais indicam para quem está começando com aparelhos caseiros, e a ficha técnica sustenta essa fama. São 132 LEDs com comprimento de onda duplo: 633 nm (vermelho) e 830 nm (infravermelho próximo) — as duas faixas com maior respaldo em estudos revisados por pares para estimular a produção de colágeno e reduzir a inflamação ao longo de 8 a 12 semanas de uso constante. A carcaça de silicone da Série 2 acompanha o contorno das maçãs do rosto e do maxilar em vez de ficar 1 ou 2 cm afastada da pele, então mais energia chega à derme em vez de se dispersar no vão de ar. A sessão de 10 minutos é curta o bastante para você realmente manter quatro noites por semana, e, se decidir que a fototerapia não é para você, o aparelho tem boa saída no mercado de usados (OLX, Enjoei).",
+      "pros": [
+        "Comprimentos de onda duplos de 633 nm e 830 nm, os de melhor respaldo científico",
+        "Carcaça flexível de silicone acompanha o rosto e mantém contato direto com a pele",
+        "Sessão de 10 minutos favorece o uso constante durante a semana",
+        "Boa revenda na OLX, no Enjoei e em outros mercados de usados"
+      ],
+      "cons": [
+        "O controle com bateria é o ponto fraco por volta dos 3 a 5 anos de uso",
+        "A cobertura da área dos olhos é limitada pelos recortes fixos"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "aduro-7-plus-1",
+      "badge": "Melhor para testar",
+      "review": "A Aduro 7+1 é a forma de menor risco de descobrir se você vai mesmo usar fototerapia em casa quatro vezes por semana antes de investir numa CurrentBody. São sete modos de cor mais infravermelho próximo em carcaça rígida, sessões de 10 a 15 minutos e um preço de entrada que torna a decisão fácil. Como funciona ligada na tomada, não há bateria para degradar, o que estende a vida útil além das concorrentes recarregáveis. O ponto fraco é real: a intensidade da luz vermelha fica abaixo da especificação da CurrentBody, a carcaça rígida fica de 1 a 2 cm afastada das maçãs do rosto e do maxilar (justamente o vão de ar que os modelos de silicone eliminam) e o marketing multicolorido sugere benefícios clínicos para os comprimentos de onda não vermelhos que a pesquisa publicada não sustenta de forma consistente.",
+      "pros": [
+        "Menor preço de entrada para testar se a fototerapia entra na sua rotina",
+        "Modelo com fio, sem bateria que perca capacidade com o tempo",
+        "Sete modos de cor mais infravermelho próximo no mesmo aparelho",
+        "Revende bem depois de 60 dias, caso você queira migrar para a CurrentBody"
+      ],
+      "cons": [
+        "Intensidade da luz vermelha abaixo da especificação da CurrentBody",
+        "Carcaça rígida fica afastada do rosto, com perda de energia no vão de ar"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "omnilux-contour-face",
+      "badge": "Melhor com aval do FDA",
+      "review": "A Omnilux Contour Face é a opção com aval do FDA e o maior histórico de estudos independentes publicados na categoria de máscaras LED caseiras — por isso é a mais recomendada por dermatologistas nos EUA quando o respaldo regulatório pesa na decisão. A abordagem de comprimento de onda duplo (633 nm vermelho mais 830 nm infravermelho próximo) espelha a especificação da CurrentBody, embora o número de LEDs seja um pouco menor. O formato flexível de silicone entrega a luz em contato direto com a pele, igual à CurrentBody Série 2, e o histórico clínico da marca, que remonta a aparelhos de uso profissional em consultório, dá mais peso ao argumento regulatório do que o de marcas recentes. Sessões de 10 minutos, com faixa de cabeça para usar sem as mãos. Os poréns são o número um pouco menor de LEDs e a menor presença no varejo brasileiro.",
+      "pros": [
+        "Aval do FDA e o maior histórico de estudos independentes da categoria",
+        "Comprimentos de onda de 633 nm e 830 nm em formato flexível de silicone",
+        "Marca com trajetória em aparelhos de dermatologia profissional",
+        "Faixa de cabeça deixa as mãos livres durante os 10 minutos de sessão"
+      ],
+      "cons": [
+        "Um pouco menos LEDs que a CurrentBody equivalente",
+        "Menor presença no varejo e alcance menor no mercado de revenda"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para quem vai usar fototerapia em casa pela primeira vez",
+      "offerId": "currentbody-skin-led",
+      "reason": "A queridinha dos dermatologistas, com comprimento de onda duplo, sessões de 10 minutos fáceis de manter e boa revenda se não encaixar na sua rotina."
+    },
+    {
+      "label": "Para quem não sabe se vai usar com constância",
+      "offerId": "aduro-7-plus-1",
+      "reason": "Entrada de menor risco para testar se você realmente usa a máscara 4 noites por semana antes de investir num modelo top de linha."
+    },
+    {
+      "label": "Para quem prioriza respaldo regulatório",
+      "offerId": "omnilux-contour-face",
+      "reason": "Aval do FDA e o maior histórico de estudos independentes entre as máscaras LED caseiras — a preferida dos dermatologistas nos EUA quando a documentação regulatória importa."
+    }
+  ]
 }

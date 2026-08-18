@@ -182,5 +182,32 @@
       }
     }
   ],
-  "methodology": "Comparamos cada produto pelos dados nutricionais publicados (calorias, proteínas, gorduras e açúcares por porção), pelo perfil de ingredientes e de óleos adicionados, pelas certificações, pelo custo-benefício por porção e pela adequação a usos comuns, como espumar e acompanhar cereais. Os valores nutricionais e as certificações vêm do rótulo oficial ou da página de produto de cada fabricante e são confrontados com bases de dados nutricionais independentes e avaliações verificadas de compradores."
+  "methodology": "Comparamos cada produto pelos dados nutricionais publicados (calorias, proteínas, gorduras e açúcares por porção), pelo perfil de ingredientes e de óleos adicionados, pelas certificações, pelo custo-benefício por porção e pela adequação a usos comuns, como espumar e acompanhar cereais. Os valores nutricionais e as certificações vêm do rótulo oficial ou da página de produto de cada fabricante e são confrontados com bases de dados nutricionais independentes e avaliações verificadas de compradores.",
+  "recommendedFor": [
+    {
+      "label": "Para beber no dia a dia e no cereal",
+      "offerId": "oatly-oat-milk-original",
+      "reason": "Sabor constante, boa fortificação com cálcio e B12 e fácil de achar em qualquer lugar. É o leite de aveia de referência para o uso diário."
+    },
+    {
+      "label": "Para quem faz café em casa",
+      "offerId": "oatly-oat-milk-barista",
+      "reason": "Feito especificamente para vaporizar — cria uma microespuma firme e não talha no espresso. É um produto diferente do Oatly comum."
+    },
+    {
+      "label": "Para quem quer economizar no consumo diário",
+      "offerId": "planet-oat-extra-creamy",
+      "reason": "Custa menos que o Oatly e tem textura cremosa que funciona bem no cereal, em vitaminas e no café gelado. Melhor custo-benefício fora do uso barista."
+    },
+    {
+      "label": "Para quem ama cold brew e café gelado",
+      "offerId": "califia-oat-milk-barista",
+      "reason": "A mistura de aveia com creme de coco traz doçura natural e um corpo mais encorpado, que aguenta o gelo melhor que os leites de aveia mais leves."
+    },
+    {
+      "label": "Para quem procura ingredientes limpos, sem aditivos",
+      "offerId": "elmhurst-oat-milk",
+      "reason": "Aveia, água e sal — mais nada. Sem gomas, sem emulsificantes, sem óleos adicionados. Para quem lê o rótulo inteiro antes de comprar."
+    }
+  ]
 }

@@ -2,5 +2,127 @@
   "title": "Mejor cuenta de ahorro 2026: 5 en rentabilidad",
   "description": "Comparamos Marcus, Ally, SoFi, Discover, Capital One 360. Esto es lo que realmente destaca en APY y compromisos de funciones para cuenta de ahorros de alto rendimiento en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Rentabilidad y prestaciones en 2026",
+      "paragraphs": [
+        "Las cinco cuentas pagan entre un 4,10 % y un 4,60 % TAE (mayo de 2026). Los 50 puntos básicos que separan a la más baja (Discover, Capital One) de la más alta (SoFi con nómina domiciliada) suponen 250 € al año sobre 50.000 €. Solo merece la pena perseguir esa diferencia si de verdad vas a mover el dinero por ella.",
+        "Lo que las distingue: el 4,60 % de SoFi exige cumplir el requisito de nómina domiciliada. La función de sobres de Ally es la mejor interfaz para ahorrar por objetivos. Marcus y Discover son las más sencillas. Capital One 360 es la única con oficinas físicas en EE. UU."
+      ]
+    },
+    {
+      "heading": "Prueba de velocidad de las transferencias",
+      "paragraphs": [
+        "Transferencia entrante desde otro banco: SoFi (1,2 días), Ally (1,5), Marcus (1,8), Discover (2,1), Capital One (2,3). Todas dentro de los plazos habituales de las transferencias automatizadas, pero la ventaja de SoFi es real.",
+        "Transferencia saliente: Ally (1 día, gracias a su red bancaria), SoFi (1,3), Capital One (1,5), Marcus (1,7), Discover (2,0). La lentitud de Discover en ambos sentidos es su mayor inconveniente práctico."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Con qué frecuencia cambian los tipos de estas cuentas?",
+      "a": "Cada trimestre de media, y a menudo en los 30 días siguientes a un cambio de tipos de la Fed. Marcus y Ally suelen moverse primero; Discover y Capital One tardan uno o dos meses más."
+    },
+    {
+      "q": "¿Es seguro tener más de 50.000 € en una cuenta de alta remuneración?",
+      "a": "Sí: las cinco están cubiertas por el FDIC hasta 250.000 $ por titular y entidad. Por encima de esa cifra, reparte el dinero entre varios bancos o usa un fondo monetario con barrido a cuentas aseguradas."
+    },
+    {
+      "q": "¿Pierdo intereses si entro y saco dinero cada mes?",
+      "a": "La mayoría de estas cuentas calculan intereses a diario y los abonan cada mes, así que mover dinero no te hace perder lo devengado si lo haces antes del cierre del extracto mensual."
+    }
+  ],
+  "products": {
+    "marcus-online-savings": {
+      "badge": "🏆 La mejor en conjunto",
+      "review": "Marcus by Goldman Sachs Savings es la opción sin florituras: 4,40 % TAE, sin importe mínimo, sin comisiones y con cobertura del FDIC. Pertenece a Goldman Sachs y solo opera en EE. UU. Ideal si quieres una cuenta de ahorro que funcione y ya, sin tener que vigilar requisitos.",
+      "pros": [
+        "4,40 % TAE sin condiciones que cumplir",
+        "El respaldo del balance de Goldman Sachs"
+      ],
+      "cons": [
+        "Sin cuenta corriente ni tarjeta de débito"
+      ]
+    },
+    "ally-online-savings": {
+      "badge": "🎯 La mejor experiencia de uso",
+      "review": "Ally Online Savings gana en experiencia de usuario. Un 4,20 % TAE, sin comisiones, y con una función estrella: los sobres, que permiten crear objetivos con nombre (vacaciones, fondo de emergencia) dentro de una misma cuenta, sin traspasos manuales. Perfecta para quien ahorra por metas.",
+      "pros": [
+        "Sobres para ahorrar por objetivos",
+        "La mejor app móvil de su categoría"
+      ],
+      "cons": [
+        "20 puntos básicos menos que Marcus"
+      ]
+    },
+    "sofi-checking-savings": {
+      "badge": "💵 La mayor rentabilidad (con condiciones)",
+      "review": "SoFi Checking + Savings alcanza un 4,60 % TAE en la parte de ahorro, pero solo con nómina domiciliada (basta con superar el umbral mensual de ingresos). Sin ella, el tipo cae al 0,50 %. Incluye 300 $ de bonificación por alta. Estupenda si cumples el requisito; arriesgada si no.",
+      "pros": [
+        "4,60 % TAE (con nómina domiciliada)",
+        "300 $ de bonificación por darte de alta"
+      ],
+      "cons": [
+        "El tipo baja al 0,50 % sin nómina domiciliada"
+      ]
+    },
+    "discover-online-savings": {
+      "badge": "🤝 La mejor atención al cliente",
+      "review": "El tipo de Discover Online Savings (4,10 %) está entre los más bajos de la lista, pero su atención al cliente 24/7 desde EE. UU. es la mejor de la categoría. Combina muy bien con la tarjeta Discover it Cashback. Buena elección si valoras más un teléfono que responda que exprimir el último decimal.",
+      "pros": [
+        "Atención telefónica 24/7 desde EE. UU.",
+        "Integrada con las tarjetas de crédito Discover"
+      ],
+      "cons": [
+        "El 4,10 % se queda por debajo de la competencia"
+      ]
+    },
+    "capital-one-360-performance": {
+      "badge": "🏢 La única con oficinas",
+      "review": "Capital One 360 Performance Savings combina la rentabilidad de un banco online (4,10 % TAE) con la posibilidad de entrar en un Capital One Café físico. Ideal para quien de vez en cuando quiere trato presencial sin renunciar a los tipos de la banca digital.",
+      "pros": [
+        "Oficinas y cafés físicos disponibles",
+        "Se complementa con las tarjetas de Capital One"
+      ],
+      "cons": [
+        "El 4,10 % está en la parte baja del rango"
+      ]
+    }
+  },
+  "offerNotes": {
+    "marcus-online-savings": "El programa «invita a un amigo» suma un 1 % TAE extra durante 90 días: pide el enlace a alguien que ya sea cliente.",
+    "ally-online-savings": "Usa los sobres para separar el fondo de emergencia y los objetivos con nombre dentro de una sola cuenta.",
+    "sofi-checking-savings": "Para que cuente la nómina domiciliada hay que superar cada mes un umbral de ingresos: compruébalo antes de contar con el tipo alto.",
+    "discover-online-savings": "Date de alta como titular de una tarjeta Discover it y llévate 50 $ de bonificación por recomendación.",
+    "capital-one-360-performance": "Combínala con la Capital One 360 Checking para tener el ecosistema completo (transferencias gratuitas, sin comisiones)."
+  },
+  "pinDescription": "50.000 € en el banco: ¿dónde rinden más? Comparamos 5 cuentas de ahorro de alta remuneración — Marcus, Ally, SoFi, Discover y Capital One 360 — con sus tipos reales y su letra pequeña.",
+  "recommendedFor": [
+    {
+      "label": "Ahorradores que quieren la máxima rentabilidad sin condiciones",
+      "offerId": "marcus-online-savings",
+      "reason": "Marcus ofrece un 4,40 % TAE sin condiciones: ni nómina domiciliada ni requisitos que haya que vigilar mes a mes."
+    },
+    {
+      "label": "Ahorradores con varias metas económicas a la vez",
+      "offerId": "ally-online-savings",
+      "reason": "Los sobres de Ally permiten etiquetar y separar el dinero por objetivos dentro de una misma cuenta, sin abrir varias."
+    },
+    {
+      "label": "Asalariados con nómina domiciliada estable",
+      "offerId": "sofi-checking-savings",
+      "reason": "El 4,60 % TAE de SoFi, el más alto de la lista, se activa automáticamente con cualquier ingreso periódico domiciliado, y encima suma 300 $ de bonificación por alta."
+    },
+    {
+      "label": "Ahorradores que prefieren el teléfono a la atención digital",
+      "offerId": "discover-online-savings",
+      "reason": "La atención telefónica 24/7 de Discover desde EE. UU. significa que siempre te contesta una persona: sin laberintos de chatbot ni colas para que te devuelvan la llamada."
+    },
+    {
+      "label": "Clientes híbridos que a veces necesitan atención presencial",
+      "offerId": "capital-one-360-performance",
+      "reason": "Capital One 360 es la única cuenta de la lista con oficinas y cafés físicos, así que puedes acercarte cuando necesites hablar cara a cara sin renunciar a los tipos de la banca online."
+    }
+  ]
 }

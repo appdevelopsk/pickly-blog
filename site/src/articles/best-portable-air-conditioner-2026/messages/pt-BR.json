@@ -1,5 +1,132 @@
 {
   "title": "Melhor ar-condicionado portátil 2026: 5 modelos comparados",
   "description": "Comparativo de especificações: Midea Duo, Whynter ARC-14S, LG, Honeywell e Black+Decker. O que ASHRAE significa frente ao SACC e por que a mangueira dupla rende mais.",
-  "lede": "A potência declarada não é a potência real. Veja de onde vem a diferença e a que tamanho de cômodo cada um dos cinco modelos corresponde."
+  "lede": "A potência declarada não é a potência real. Veja de onde vem a diferença e a que tamanho de cômodo cada um dos cinco modelos corresponde.",
+  "methodology": "Não fizemos testes térmicos nem de carga por conta própria. Fazer isso com honestidade exigiria uma câmara psicrométrica calibrada para os ar-condicionados e uma bancada instrumentada com célula de carga para os Smith machines, e não temos nenhum dos dois. O que fizemos foi outra coisa: levantamos todas as especificações publicadas na página oficial e no manual de cada fabricante, conferimos os preços atuais nos anúncios das principais lojas e lemos avaliações de donos em volume — filtrando os relatos que descrevem uma falha mensurável ou uma reclamação recorrente, e não a impressão da primeira semana. Quando um número é alegação do fabricante e não medição independente, dizemos isso no texto.",
+  "sections": [
+    {
+      "heading": "BTU ASHRAE x SACC — o número que realmente importa",
+      "paragraphs": [
+        "Os portáteis são anunciados em BTU ASHRAE, um valor de laboratório medido em condições que ignoram o calor que o próprio aparelho devolve para o ambiente. O Departamento de Energia dos EUA exige um segundo número, o SACC (capacidade de refrigeração ajustada por estação), que leva em conta o ganho de calor pela mangueira e a infiltração de ar. Em aparelhos de mangueira única, o SACC costuma ficar entre metade e dois terços do número ASHRAE.",
+        "É por isso que um portátil de 8.000 BTU e um de janela de 8.000 BTU não são produtos comparáveis. O de janela fica encaixado na abertura e joga o calor para fora do envelope da casa; o portátil fica dentro do cômodo, irradia o calor do compressor ali mesmo e, no caso de mangueira única, puxa o ar do condensador do próprio ambiente que está tentando resfriar — o que faz entrar ar quente de fora por todas as frestas para repor.",
+        "Regra prática: ao comparar um portátil com um de janela, procure o número SACC e trate ele como o valor real. Ao comparar portáteis entre si, comparar ASHRAE com ASHRAE serve, desde que você também considere o número de mangueiras."
+      ]
+    },
+    {
+      "heading": "Mangueira única x mangueira dupla",
+      "paragraphs": [
+        "Um aparelho de mangueira única puxa o ar do ambiente através do condensador e sopra para fora. Esse ar precisa ser reposto, e quem repõe é o ar de fora entrando pelas frestas. Resultado: o portátil de mangueira única deixa o cômodo com pressão levemente negativa e importa sem parar o calor que está tentando remover.",
+        "Já o de mangueira dupla puxa o ar do condensador de fora por um duto e o expulsa pelo outro, deixando a pressão do ambiente praticamente neutra. Neste grupo, o Midea Duo e o Whynter ARC-14S são de mangueira dupla; o LG, o Honeywell e o Black+Decker são de mangueira única.",
+        "A vantagem da mangueira dupla cresce conforme aumenta a diferença de temperatura. Em clima ameno, a diferença é pequena o bastante para ignorar. Num cômodo realmente quente, é a diferença entre o aparelho dar conta e ele ficar ligado direto sem nunca atingir a temperatura programada."
+      ]
+    },
+    {
+      "heading": "Inverter x velocidade fixa, e o efeito no ruído",
+      "paragraphs": [
+        "Um compressor de velocidade fixa só tem dois estados: ligado a plena carga ou desligado. Ele chega na temperatura, para, o ambiente esquenta de novo e ele volta a ligar — e cada partida é o momento mais barulhento do ciclo. O compressor inverter modula a potência, então, depois que o cômodo chega na temperatura, ele se acomoda num zumbido baixo e contínuo em vez de ficar ligando e desligando.",
+        "O Midea Duo e o LG LP1419IVSM são inverter; o Whynter, o Honeywell e o Black+Decker são de velocidade fixa. Se o aparelho vai para o quarto, essa diferença pesa mais que dois decibéis a mais ou a menos na ficha técnica, porque o valor declarado é medido em potência máxima e não descreve o liga-desliga que você vai ouvir de fato às 3 da manhã."
+      ]
+    },
+    {
+      "heading": "Dreno, exaustão e a instalação que ninguém comenta",
+      "paragraphs": [
+        "Todo portátil condensa água. A maioria dos modelos atuais evapora boa parte dela junto com o ar de exaustão, mas, em clima úmido, todos vão precisar em algum momento que você esvazie o reservatório ou puxe uma mangueira até um ralo. Confira se o modelo aceita dreno contínuo por gravidade antes de comprar — adaptar depois é chato.",
+        "O kit de janela é o outro item que passa batido. Os kits que vêm na caixa servem em janelas de guilhotina e de correr; janelas maxim-ar ou tipo basculante geralmente exigem um painel sob medida. Vedar bem o kit importa mais do que a maioria imagina, porque um kit mal vedado deixa o ar quente da exaustão voltar direto para dentro e derruba uma fatia relevante da capacidade do aparelho."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vale mais a pena um ar portátil ou um de janela?",
+      "a": "O portátil só compensa quando o de janela não é opção — janela maxim-ar, restrição do proprietário no aluguel, ou quando você precisa levar o aparelho de um cômodo para outro. Para a mesma capacidade nominal, o de janela é mais silencioso, mais barato e bem mais eficiente, porque não fica dentro do ambiente que está resfriando."
+    },
+    {
+      "q": "Preciso de mangueira dupla?",
+      "a": "Se o cômodo esquenta muito de verdade, sim. A mangueira dupla evita que o aparelho puxe ar de fora para repor o que ele expulsa. Em clima ameno ou num cômodo pequeno e bem vedado, um de mangueira única resolve e sai mais barato."
+    },
+    {
+      "q": "Qual capacidade eu preciso?",
+      "a": "Calcule pelo número SACC, não pelo ASHRAE, e parta de cerca de 215 BTU por metro quadrado num cômodo médio. Some capacidade se o cômodo pega sol, fica no último andar ou é a cozinha; desconte se for um cômodo interno e sombreado."
+    },
+    {
+      "q": "Por que o cômodo nunca chega na temperatura programada?",
+      "a": "As três causas mais comuns, nessa ordem: kit de janela mal vedado deixando o calor da exaustão voltar, aparelho de mangueira única subdimensionado para a carga térmica depois que se conta a infiltração, e filtro entupido. Confira a vedação da janela primeiro — resolver isso não custa nada."
+    }
+  ],
+  "products": {
+    "midea-duo-map14hs1tbl": {
+      "badge": "🏆 Melhor no geral",
+      "review": "O Midea Duo é a escolha para cômodo que esquenta de verdade. Ele junta as duas coisas que mais importam — exaustão com mangueira dupla e compressor inverter —, então não importa ar de fora nem faz barulho de liga-desliga depois de atingir a temperatura. O modo bomba de calor estende a utilidade dele para o meio-tempo entre as estações. É o mais caro daqui e é grande fisicamente.",
+      "pros": [
+        "Mangueira dupla e inverter — os dois recursos que importam",
+        "Modo bomba de calor cobre o uso em dias frios",
+        "Segura a temperatura programada mesmo com calor forte"
+      ],
+      "cons": [
+        "O mais caro deste grupo",
+        "Grande e pesado"
+      ]
+    },
+    "whynter-arc-14s": {
+      "badge": "💰 Melhor custo-benefício com mangueira dupla",
+      "review": "O ARC-14S é o caminho barato para a mangueira dupla. Está no mercado há tempo suficiente para que os defeitos típicos estejam bem documentados nas avaliações de donos, e ele faz o que interessa: não despressuriza o ambiente. O que você abre mão é da modulação inverter, então ele liga e desliga de forma audível em vez de se acomodar num zumbido.",
+      "pros": [
+        "Mangueira dupla por um preço menor",
+        "Histórico longo, comportamento bem documentado",
+        "Projeto simples e fácil de dar manutenção"
+      ],
+      "cons": [
+        "Compressor de velocidade fixa faz liga-desliga audível",
+        "Painel de controle datado"
+      ]
+    },
+    "lg-lp1419ivsm": {
+      "badge": "🔇 Mangueira única mais silencioso",
+      "review": "O LG é a escolha quando o ruído é o que decide e a mangueira dupla não é prática. O compressor dual inverter modula em vez de ficar ligando e desligando, e é exatamente isso que você escuta à noite. Como é de mangueira única, ainda importa ar para repor o que expulsa — ou seja, é melhor como aparelho de quarto do que para um cômodo muito quente.",
+      "pros": [
+        "Compressor inverter, silencioso na temperatura programada",
+        "App e programação de horários bem resolvidos",
+        "Boa qualidade de montagem"
+      ],
+      "cons": [
+        "Mangueira única limita a capacidade no calor forte",
+        "Preço de topo para um aparelho de mangueira única"
+      ]
+    },
+    "honeywell-hl10cesw": {
+      "badge": "🛏️ Melhor para cômodos pequenos",
+      "review": "O Honeywell foi dimensionado para quarto, não para sala, e é assim que ele precisa ser lido. O modo só desumidificar é bem útil em clima úmido, quando o cômodo não está quente mas está abafado, e o filtro lavável segura o custo de uso. Não compre para cômodo grande ou que pega sol.",
+      "pros": [
+        "Tamanho certo para um quarto pequeno",
+        "Modo só desumidificar bem útil",
+        "Filtro lavável"
+      ],
+      "cons": [
+        "Fraco para cômodos grandes",
+        "Velocidade fixa, liga-desliga audível"
+      ]
+    },
+    "blackdecker-bpact08wt": {
+      "badge": "💵 Mais barato",
+      "review": "O BPACT08WT é a porta de entrada, e é nele que a diferença entre ASHRAE e SACC mais frustra a expectativa — a capacidade real fica em torno da metade do número de destaque. Comprado para um cômodo pequeno, sombreado e bem vedado, ele dá conta. Comprado por causa do número estampado na caixa, vai decepcionar.",
+      "pros": [
+        "Menor preço daqui",
+        "Leve e fácil de mover",
+        "Controles simples"
+      ],
+      "cons": [
+        "Capacidade real muito abaixo do número ASHRAE",
+        "Mangueira única e velocidade fixa",
+        "Sofre em qualquer coisa maior que um cômodo pequeno"
+      ]
+    }
+  },
+  "offerNotes": {
+    "midea-duo-map14hs1tbl": "Vendido tanto como Duo quanto como MAP14HS1TBL — confira o código do modelo, a versão sem bomba de calor é quase idêntica na aparência.",
+    "whynter-arc-14s": "O ARC-14S e o ARC-14SH se diferenciam pela função de aquecimento; confirme qual deles o anúncio está oferecendo.",
+    "lg-lp1419ivsm": "A LG informa os valores ASHRAE e DOE/SACC na ficha técnica — compare pelo número DOE.",
+    "honeywell-hl10cesw": "Os códigos de modelo dessa linha da Honeywell mudam conforme a loja; confira o valor em BTU em vez do sufixo.",
+    "blackdecker-bpact08wt": "Confira o valor SACC no anúncio antes de dimensionar o cômodo por ele."
+  },
+  "pinDescription": "O BTU estampado na caixa do ar portátil não é a capacidade que você recebe. Entenda a diferença entre ASHRAE e SACC, por que mangueira dupla faz diferença e veja 5 modelos comparados pelos números que decidem se o cômodo esfria mesmo."
 }

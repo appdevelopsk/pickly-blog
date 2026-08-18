@@ -108,5 +108,114 @@
     "levoit-classic-300s": "Levoit Classic 300S (gama económica) — ultrasónico inteligente con aplicación, Alexa y Google Assistant. La mejor relación calidad-precio aquí, pero el agua del grifo dura deja polvo blanco en los muebles cercanos en cuestión de semanas. El agua destilada o el filtro de desmineralización son obligatorios."
   },
   "pinDescription": "Cinco humidificadores comparados para 2026 — cuidado de la piel en el invierno seco y el problema del moho de verano. El problema del polvo blanco ultrasónico explicado. Evaporativo vs vapor vs esterilización UV-C. El mantenimiento que realmente tienes que hacer. De gama económica a tope de gama. ¿Qué método de humidificación se adapta a tu habitación?",
-  "methodology": "Cada producto se evalúa según su durabilidad en el uso real, su facilidad de uso diario, su rendimiento frente a las promesas publicitarias, la calidad de fabricación y su valor a largo plazo. Las especificaciones del fabricante se contrastaron con reseñas verificadas de usuarios."
+  "methodology": "Cada producto se evalúa según su durabilidad en el uso real, su facilidad de uso diario, su rendimiento frente a las promesas publicitarias, la calidad de fabricación y su valor a largo plazo. Las especificaciones del fabricante se contrastaron con reseñas verificadas de usuarios.",
+  "products": [
+    {
+      "offerId": "dyson-purifier-humidify-cool",
+      "badge": "Mejor todo en uno para todo el año",
+      "review": "El Dyson Purifier Humidify+Cool Formaldehyde es la única opción de aquí válida durante todo el año: reúne purificación HEPA H13, esterilización del agua por UV-C, humidificación ultrasónica, sensor de formaldehído y ventilador sin aspas en un solo aparato. La esterilización UV-C resuelve el problema de la pulverización bacteriana que arruina a los ultrasónicos normales, y sin obligarte a usar agua destilada; además, la función ventilador hace que siga siendo útil en verano en lugar de acabar guardado en el trastero en junio como los otros cuatro. El coste es real: precio de gama alta en tienda, más un cartucho desmineralizador mensual y un juego de filtros HEPA y de carbón activo al año. Cuenta con un gasto notable en consumibles a lo largo de tres años, además de la compra inicial. Demasiado grande para habitaciones de menos de 10 m², y el ventilador mueve menos aire que un Dyson Pure Cool dedicado.",
+      "pros": [
+        "La purificación HEPA H13 está a la altura de un purificador de aire dedicado",
+        "La esterilización del agua por UV-C evita la pulverización bacteriana sin necesidad de agua destilada",
+        "La función ventilador lo mantiene útil durante el verano húmedo",
+        "Sensor de formaldehído, útil en obra nueva y pisos recién reformados"
+      ],
+      "cons": [
+        "Precio de gama alta más un gasto notable en consumibles a lo largo de tres años",
+        "Demasiado grande para habitaciones de menos de 10 m² y el ventilador es más flojo que el de un Dyson Pure Cool"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "panasonic-fe-kxu07",
+      "badge": "Mejor lavador de aire sin filtro",
+      "review": "El Venta LW25 Airwasher es la opción sin filtro que humidifica y limpia a la vez, con un precio de gama media: unos discos de plástico giran dentro de una cubeta de agua, evaporan vapor limpio y, de paso, esa misma agua atrapa el polvo y el polen del ambiente. Al ser evaporativo, no genera nada de polvo blanco, y no hay mecha ni almohadilla que reemplazar, así que te ahorras el consumible por temporada que arrastran casi todos los evaporativos. Cubre unos 37 m², suficiente para un salón amplio. La pega es el mantenimiento, y conviene decirlo claro: el bloque de discos y la cubeta hay que enjuagarlos con regularidad y, con agua dura, descalcificarlos cada cierto tiempo. Además, la limpieza del aire es una captura suave de polvo, no una filtración de nivel HEPA: no lo compres esperando rendimiento frente a partículas finas o PM2,5.",
+      "pros": [
+        "Diseño de discos sin filtro: no hay mecha ni almohadilla que reemplazar",
+        "Al ser evaporativo no genera polvo blanco, sea cual sea la dureza del agua del grifo",
+        "La cubeta de agua también atrapa polvo y polen mientras humidifica",
+        "Cubre unos 37 m²: encaja en un salón amplio"
+      ],
+      "cons": [
+        "El bloque de discos y la cubeta necesitan enjuagues frecuentes y descalcificación con agua dura",
+        "La captura de polvo es suave, no una filtración HEPA de partículas finas"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "balmuda-rain",
+      "badge": "Mejor diseño minimalista",
+      "review": "El Boneco W200 Hybrid Air Washer, de gama premium, es la opción sin filtro con más criterio estético: un lavador de aire suizo minimalista, con depósito transparente, que queda bien en un salón en lugar de desentonar con los muebles como suele pasar con un aparato más voluminoso. Igual que el Venta, usa discos giratorios dentro del agua en vez de una mecha reemplazable, así que no hay coste de filtro por temporada, y al ser evaporativo no genera polvo blanco. Ofrece modo normal y modo limpieza. Se sitúa en la parte alta del segmento evaporativo, y la pega está en la cobertura por euro: el Stadler Form Oskar cubre hasta 45 m² por un desembolso parecido, así que el Boneco tiene sentido cuando el diseño minimalista y el formato sin filtro pesan más que los metros cuadrados. El bloque de discos y la cubeta siguen necesitando limpieza periódica.",
+      "pros": [
+        "Diseño suizo minimalista con depósito transparente que encaja bien en cualquier salón",
+        "Discos sin filtro: ni mecha reemplazable ni consumible por temporada",
+        "Al ser evaporativo no genera polvo blanco, sea cual sea la dureza del agua del grifo",
+        "Incorpora modo normal y modo limpieza"
+      ],
+      "cons": [
+        "Precio premium para la cobertura que ofrece: el Stadler Form Oskar abarca más superficie por un dinero parecido",
+        "El bloque de discos y la cubeta siguen exigiendo limpieza periódica"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "stadler-form-oskar",
+      "badge": "Mejor para salón-comedor grande sin polvo blanco",
+      "review": "El Stadler Form Oskar, de gama media, es la opción evaporativa para estancias grandes: un aparato de tambor con diseño suizo que cubre hasta 45 m², el único junto al Dyson capaz de levantar por sí solo un salón-comedor entero sin generar polvo blanco. El tambor es lo importante en la práctica: un filtro de tambor extraíble que gira dentro del agua y expone superficie húmeda al flujo de aire. Sacarlo y lavarlo cada semana no es opcional, porque si te lo saltas la biopelícula del tambor acaba en el aire. Sin app ni integración con el hogar conectado: un único dial controla la potencia, lo que será una virtud o una limitación según lo que busques. La forma del depósito de 3,5 L no cabe bien bajo la mayoría de grifos de cocina, así que en muchas casas se termina llenando en el lavabo del baño.",
+      "pros": [
+        "Cubre hasta 45 m²: la única opción fuera de la gama alta para un salón-comedor grande sin polvo blanco",
+        "El tambor evaporativo no genera polvo blanco, sea cual sea la dureza del agua",
+        "Control sencillo por dial, sin app ni dependencia de la nube",
+        "El diseño y la calidad de fabricación suizos justifican el precio de gama media"
+      ],
+      "cons": [
+        "Sacar y lavar el tambor cada semana es obligatorio para evitar que la biopelícula acabe en el aire",
+        "La forma del depósito no cabe bien bajo la mayoría de grifos de cocina"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "levoit-classic-300s",
+      "badge": "Mejor opción inteligente y económica",
+      "review": "El Levoit Classic 300S, con precio de entrada, es la opción inteligente y asequible: app VeSync, compatibilidad con Alexa y Google Assistant, depósito de 6 L, modo automático y modo noche a 28 dB, lo bastante silencioso para no despertarte. Dos condiciones innegociables: no uses agua del grifo tal cual (hace falta agua destilada o el filtro desmineralizador que va en su ranura) y no te saltes la limpieza semanal del depósito. Quien no pueda comprometerse con ambas cosas verá polvo blanco posándose en los aparatos electrónicos cercanos y en los muebles oscuros en cuestión de semanas si el agua es dura. La precisión del sensor de humedad integrado depende mucho de dónde lo coloques, así que mantenlo separado de paredes y esquinas. Por un tercio de lo que cuestan los evaporativos de gama media, se gana el puesto de opción conectada y económica.",
+      "pros": [
+        "El precio más bajo de esta comparativa con integración en el hogar conectado",
+        "App VeSync más compatibilidad con Alexa y Google Assistant",
+        "Depósito de 6 L y modo noche de 28 dB para usarlo toda la noche en el dormitorio",
+        "La ranura del filtro desmineralizador admite filtros de otras marcas"
+      ],
+      "cons": [
+        "El agua destilada o el filtro desmineralizador son obligatorios: con agua del grifo tal cual aparece polvo blanco en pocas semanas",
+        "La precisión del sensor de humedad integrado depende mucho de colocarlo lejos de paredes y esquinas"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para casas con salón-comedor grande que quieren un solo aparato todo el año",
+      "offerId": "dyson-purifier-humidify-cool",
+      "reason": "La purificación HEPA H13, la esterilización del agua por UV-C y el ventilador para el verano son la única combinación de aquí que justifica tenerlo en el suelo durante toda la temporada húmeda."
+    },
+    {
+      "label": "Para humidificar sin filtro y capturar polvo de forma suave",
+      "offerId": "panasonic-fe-kxu07",
+      "reason": "Los discos giratorios humidifican sin nada de polvo blanco y sin mecha que reemplazar, mientras la cubeta de agua atrapa polvo y polen, con una cobertura de unos 37 m²."
+    },
+    {
+      "label": "Para un salón de diseño minimalista y sin filtro reemplazable",
+      "offerId": "balmuda-rain",
+      "reason": "Un lavador de aire suizo de líneas limpias, con depósito transparente, humidificación por discos sin filtro y cero polvo blanco, uses el agua que uses."
+    },
+    {
+      "label": "Para salones-comedor grandes y abiertos donde el polvo blanco no es negociable",
+      "offerId": "stadler-form-oskar",
+      "reason": "El tambor evaporativo cubre hasta 45 m² sin nada de polvo blanco: la única opción fuera de la gama alta que combina ambas cosas."
+    },
+    {
+      "label": "Para integrarlo en el hogar conectado con poco presupuesto",
+      "offerId": "levoit-classic-300s",
+      "reason": "VeSync, Alexa y Google a precio ajustado, siempre que puedas comprometerte con el agua destilada y la limpieza semanal del depósito."
+    }
+  ]
 }

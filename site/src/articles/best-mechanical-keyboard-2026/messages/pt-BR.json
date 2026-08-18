@@ -115,5 +115,114 @@
     "realforce-r3": "Realforce R3 — mecanismo eletrostático capacitivo Topre, variantes de tamanho completo (104 teclas) e TKL (87 teclas), cambiador de ponto de acionamento (APC) ajustável de 1,5mm a 3mm, fabricado no Japão pela Topre Corporation, topo de linha para tamanho completo."
   },
   "pinDescription": "5 teclados comparados para home office 2026 — Keychron Q1 Pro montura gasket sem fio vs HHKB Topre clássico de culto vs Logicool MX Keys S (não mecânico — dito com todas as letras) vs Nuphy Air75 V2 slim vs Realforce R3 fabricado no Japão. Tipos de switches, layout JIS vs US, verdade sobre latência sem fio.",
-  "methodology": "Cada produto foi avaliado com base em especificações documentadas, testes de desempenho independentes e relatos verificados de usuários. Atribuímos notas a recursos, desempenho, qualidade de construção, compatibilidade com o ecossistema e custo total de propriedade."
+  "methodology": "Cada produto foi avaliado com base em especificações documentadas, testes de desempenho independentes e relatos verificados de usuários. Atribuímos notas a recursos, desempenho, qualidade de construção, compatibilidade com o ecossistema e custo total de propriedade.",
+  "products": [
+    {
+      "offerId": "keychron-q1-pro",
+      "badge": "Melhor no Geral",
+      "grade": "A+",
+      "review": "O Keychron Q1 Pro é o teclado de entusiasta mais completo para home office dentro de um preço razoável. Layout 75% com montagem em gasket, corpo inteiro de alumínio (cerca de 2 kg), firmware programável QMK/VIA, soquetes hot-swap compatíveis com MX, Bluetooth 5.1 e conexão sem fio de 2,4 GHz, além de RGB south-facing — um conjunto que há três anos só existia em group buys de boutique, com preço de topo de linha. A montagem em gasket entrega um som de digitação mais macio e grave que o das opções com tray mount, e a bateria de 4000 mAh aguenta várias semanas de uso normal com a iluminação desligada. Na faixa intermediária de preço, é um gasto que faz sentido. As ressalvas honestas: os 2 kg descartam qualquer uso em viagem, o knob de volume não vem na versão básica (exige a variante com knob, que custa mais) e o firmware QMK tem uma curva de aprendizado real para quem só quer plugar e usar.",
+      "pros": [
+        "Corpo de alumínio 75% com gasket mount e soquetes hot-swap MX",
+        "Firmware programável QMK/VIA para remapear todas as teclas",
+        "Bluetooth 5.1 e 2,4 GHz sem fio com pareamento multidispositivo",
+        "RGB south-facing e bateria de 4000 mAh que dura semanas sem luz"
+      ],
+      "cons": [
+        "Cerca de 2 kg inviabiliza uso em viagem ou no colo",
+        "O knob de volume só vem na variante mais cara"
+      ]
+    },
+    {
+      "offerId": "hhkb-professional-hybrid-type-s",
+      "badge": "Melhor para Programadores",
+      "grade": "A",
+      "review": "O HHKB Professional Hybrid Type-S é o teclado de culto da cultura de engenharia de software japonesa, projetado pelo professor Eiiti Wada em 1996 em torno de uma filosofia de layout com Ctrl no lugar do Caps Lock — algo que conversa direto com quem vive de Unix e Emacs. A versão Type-S usa domes capacitivos eletrostáticos Topre silenciados, com nível de ruído realmente aceitável para escritório, e traz Bluetooth 4.2 mais USB-C, funcionando com Mac, Windows, iOS e Android. O toque Topre de 45 g — um tátil suave com aquele som 'thocky' abafado — é totalmente diferente de qualquer switch MX e não dá para reproduzir. O preço é premium, e o custo-benefício depende inteiramente de você gostar de Topre. As ressalvas honestas: sem RGB, sem QMK/VIA, sem hot-swap, sem dongle de 2,4 GHz, e o mercado pequeno de keycaps Topre limita a personalização.",
+      "pros": [
+        "Switches capacitivos eletrostáticos Topre silenciados, ideais para escritório",
+        "Filosofia de layout HHKB com Ctrl no lugar do Caps Lock, feita para Unix e Emacs",
+        "Bluetooth 4.2 mais USB-C com pareamento multidispositivo",
+        "Fabricação PFU com qualidade de construção e status de culto entre engenheiros japoneses"
+      ],
+      "cons": [
+        "Preço premium sem RGB, sem QMK/VIA e sem hot-swap",
+        "Haste proprietária Topre limita as opções de keycaps"
+      ]
+    },
+    {
+      "offerId": "logicool-mx-keys-s",
+      "badge": "Melhor para Produtividade no Escritório",
+      "grade": "A",
+      "review": "O Logitech MX Keys S entra aqui como referência honesta para quem busca produtividade no escritório: ele não é um teclado mecânico. O mecanismo scissor, com cerca de 1,8 mm de curso, é de outra categoria em relação a switches MX ou Topre, e quem esperar sensação de mecânico vai se frustrar. O que ele faz bem é digitação em alto volume no dia a dia entre vários dispositivos: Bluetooth mais 2,4 GHz via Logi Bolt, Flow para alternar entre até três computadores, retroiluminação por tecla que se ajusta à luz do ambiente e carregamento USB-C que rende várias semanas por carga. Na faixa intermediária, é a opção não mecânica mais bem acabada da comparação e cumpre o papel de teclado de trabalho diário para quem prioriza conforto de digitação e fluxo multidispositivo em vez do toque dos switches.",
+      "pros": [
+        "Mecanismo scissor silencioso e de perfil baixo, bom para escritórios compartilhados",
+        "Flow para alternar entre até três computadores",
+        "Retroiluminação por tecla que se ajusta à luz do ambiente",
+        "Carregamento USB-C com até cinco meses de bateria sem retroiluminação"
+      ],
+      "cons": [
+        "Não é mecânico — não tem o toque de switches MX nem Topre",
+        "Não é programável além das macros do Logi Options+"
+      ]
+    },
+    {
+      "offerId": "nuphy-air75-v2",
+      "badge": "Melhor Perfil Slim",
+      "grade": "B+",
+      "review": "O Nuphy Air75 V2 é a escolha slim com gasket mount em layout 75%, por um preço menor que o do Keychron Q1 Pro. Os switches mecânicos de perfil baixo (Gateron ou os low-profile da própria Nuphy), com cerca de 2,5 a 3 mm de curso, agradam quem acha os 4 mm padrão do MX fundos demais, e o chassi de alumínio com soquetes hot-swap MX low-profile mantém a customização de entusiasta. Bluetooth 5.1 e dongle de 2,4 GHz dão conta do uso na mesa sem sustos, e no preço de entrada esta é a opção 75% de alumínio com gasket mais barata da comparação. As ressalvas honestas: switches de perfil baixo dividem opiniões — quem está acostumado ao curso padrão do MX acha menos gostoso; a comunidade de modding da Nuphy é bem menor que a da Keychron; a bateria com RGB ligado dura menos que a do Q1 Pro; e as atualizações de firmware têm sido mais lentas e menos consistentes que o histórico da Keychron.",
+      "pros": [
+        "75% de alumínio slim com gasket mount por preço de entrada",
+        "Switches mecânicos de perfil baixo com soquetes hot-swap MX low-profile",
+        "Bluetooth 5.1 mais dongle de 2,4 GHz",
+        "Ocupa pouco espaço na mesa, bom para setups apertados"
+      ],
+      "cons": [
+        "Curso baixo de 2,5 a 3 mm divide opiniões frente ao MX padrão",
+        "Comunidade de modding menor e firmware atualizado com menos frequência"
+      ]
+    },
+    {
+      "offerId": "realforce-r3",
+      "badge": "Melhor para Uso Profissional",
+      "grade": "B+",
+      "review": "O Realforce R3 é a opção Topre de nível profissional em versões full-size e TKL, fabricada no Japão pela Topre Corporation. O mecanismo capacitivo eletrostático de 45 g vem acompanhado do APC (ajuste do ponto de acionamento), regulável de 1,5 mm a 3 mm, permitindo calibrar a sensibilidade tecla por tecla — algo que nenhum outro teclado desta comparação oferece. Keycaps de PBT são padrão, há layouts JIS e US ANSI, e a versão full-size atende bem os fluxos de digitação com teclado numérico intenso, comuns em ambientes corporativos, financeiros e administrativos. No preço de topo de linha da versão full-size, é caro para um teclado com fio e sem RGB. As ressalvas honestas: a maioria das variantes do R3 é só com fio (o R3S tem Bluetooth em algumas configurações), o tamanho full-size rouba espaço para movimentar o mouse, e as limitações do ecossistema de keycaps Topre valem aqui como valem no HHKB.",
+      "pros": [
+        "Mecanismo capacitivo eletrostático Topre fabricado no Japão",
+        "APC com ponto de acionamento ajustável de 1,5 mm a 3 mm por tecla",
+        "Versões full-size e TKL em layouts JIS e US ANSI",
+        "Keycaps de PBT de série e construção de nível corporativo"
+      ],
+      "cons": [
+        "A maioria das versões é só com fio e sem iluminação RGB",
+        "Haste proprietária Topre limita as opções de keycaps"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para home office de entusiasta, com sem fio e programável",
+      "offerId": "keychron-q1-pro",
+      "reason": "Alumínio 75% com gasket mount, QMK/VIA, hot-swap e sem fio duplo entregam o pacote de entusiasta mais completo por um preço intermediário."
+    },
+    {
+      "label": "Para programadores fiéis ao Topre e ao layout HHKB",
+      "offerId": "hhkb-professional-hybrid-type-s",
+      "reason": "Domes Topre silenciados e a filosofia de Ctrl no lugar do Caps Lock atendem fluxos Unix e Emacs que nenhum teclado MX reproduz."
+    },
+    {
+      "label": "Para quem digita o dia todo em vários dispositivos e não faz questão de mecânico",
+      "offerId": "logicool-mx-keys-s",
+      "reason": "Digitação silenciosa em scissor, Flow entre três computadores e retroiluminação por tecla combinam com expediente inteiro no escritório."
+    },
+    {
+      "label": "Para setups slim em que o Q1 Pro é pesado demais",
+      "offerId": "nuphy-air75-v2",
+      "reason": "Alumínio 75% slim com gasket mount e switches de perfil baixo por preço de entrada resolve mesas apertadas e visual minimalista."
+    },
+    {
+      "label": "Para uso profissional corporativo em full-size ou TKL",
+      "offerId": "realforce-r3",
+      "reason": "Topre feito no Japão com ajuste APC do ponto de acionamento e layout JIS disponível encaixa em ambientes financeiros e administrativos."
+    }
+  ]
 }

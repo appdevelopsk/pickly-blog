@@ -108,5 +108,114 @@
     "levoit-classic-300s": "Levoit Classic 300S (faixa econômica) — ultrassônico inteligente com aplicativo, Alexa e Google Assistant. Melhor custo-benefício aqui, mas a água da torneira dura deixa pó branco nos móveis próximos em semanas. Água destilada ou filtro de desmineralização é obrigatório."
   },
   "pinDescription": "Cinco umidificadores comparados para 2026 — cuidado da pele no inverno seco e o problema do mofo de verão. O problema do pó branco ultrassônico explicado. Evaporativo vs vapor vs esterilização UV-C. A manutenção que você realmente tem que fazer. Da faixa econômica ao topo de linha. Qual método de umidificação se encaixa no seu cômodo?",
-  "methodology": "Cada produto é avaliado quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. As especificações do fabricante foram comparadas com avaliações verificadas de quem já comprou."
+  "methodology": "Cada produto é avaliado quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. As especificações do fabricante foram comparadas com avaliações verificadas de quem já comprou.",
+  "products": [
+    {
+      "offerId": "dyson-purifier-humidify-cool",
+      "badge": "Melhor tudo-em-um para o ano inteiro",
+      "review": "O Dyson Purifier Humidify+Cool Formaldehyde é a única opção aqui que serve o ano inteiro: junta filtragem HEPA H13, esterilização da água por UV-C, umidificação ultrassônica, sensor de formaldeído e ventilação sem pás em um só aparelho. A esterilização UV-C resolve o problema da água contaminada que estraga os umidificadores ultrassônicos comuns, e sem exigir água destilada. Já a função de ventilador faz com que ele continue útil no verão, em vez de ir parar no armário como os outros quatro. O preço é real: valor de topo de linha na loja, mais um cartucho de desmineralização por mês e um conjunto de filtro HEPA e carvão ativado por ano. Conte com um gasto considerável em consumíveis ao longo de três anos, além da compra. Grande demais para cômodos com menos de 10 m², e o ventilador movimenta menos ar que um Dyson Pure Cool dedicado.",
+      "pros": [
+        "Filtragem HEPA H13 no nível de um purificador de ar dedicado",
+        "Esterilização da água por UV-C resolve a contaminação bacteriana sem precisar de água destilada",
+        "Função ventilador mantém o aparelho útil durante o verão úmido",
+        "Sensor de formaldeído é relevante em imóveis novos ou recém-reformados"
+      ],
+      "cons": [
+        "Preço de topo de linha, somado a um custo alto de consumíveis em três anos",
+        "Grande demais para cômodos abaixo de 10 m², e o ventilador é mais fraco que o do Dyson Pure Cool"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "panasonic-fe-kxu07",
+      "badge": "Melhor lavador de ar sem filtro",
+      "review": "O Venta LW25 Airwasher é a escolha sem filtro para umidificar e limpar o ar, com preço intermediário: discos plásticos giram dentro de um reservatório de água, evaporando vapor limpo enquanto a mesma água retém poeira e pólen do ambiente. Por ser evaporativo, não gera pó branco, e não há pavio ou almofada para trocar — some o consumível por temporada que quase todo evaporativo exige. A cobertura chega a cerca de 37 m², suficiente para uma sala ampla. O ponto a encarar com honestidade é a manutenção: o conjunto de discos e o reservatório precisam de enxágue regular e, com água dura, de descalcificação periódica. E a limpeza do ar é uma captura suave de poeira, não filtragem HEPA — não compre esperando desempenho contra partículas finas ou PM2,5.",
+      "pros": [
+        "Design com discos e sem filtro — nada de pavio ou almofada para trocar",
+        "Saída evaporativa não gera pó branco, independentemente da dureza da água da torneira",
+        "A água do reservatório também retém poeira e pólen enquanto umidifica",
+        "Cobre cerca de 37 m² — dá conta de uma sala ampla"
+      ],
+      "cons": [
+        "Discos e reservatório exigem enxágue regular e descalcificação em água dura",
+        "A captura de poeira é suave, não é filtragem HEPA de partículas finas"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "balmuda-rain",
+      "badge": "Melhor design minimalista",
+      "review": "O Boneco W200 Hybrid Air Washer, na faixa premium, é a opção sem filtro puxada pelo design — um lavador de ar suíço minimalista, com reservatório transparente, que fica bem numa sala em vez de destoar dos móveis como um aparelho mais volumoso. Como o Venta, usa discos girando na água em vez de pavio descartável, então não há custo de filtro por temporada, e a saída evaporativa não gera pó branco. Traz modo normal e modo de limpeza. Está na ponta cara do segmento evaporativo, e o porém é a cobertura pelo preço: o Stadler Form Oskar atende até 45 m² por um valor parecido. Ou seja, o Boneco vale quando o design minimalista e o formato sem filtro pesam mais que a área atendida. Os discos e o reservatório continuam exigindo limpeza regular.",
+      "pros": [
+        "Design suíço minimalista, com reservatório transparente que se integra bem à sala",
+        "Design com discos e sem filtro — sem pavio descartável nem consumível por temporada",
+        "Saída evaporativa não gera pó branco, independentemente da dureza da água",
+        "Modo normal e modo de limpeza integrados"
+      ],
+      "cons": [
+        "Preço premium para a cobertura oferecida — o Stadler Form Oskar atende mais área pelo mesmo valor",
+        "Discos e reservatório ainda pedem limpeza regular"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "stadler-form-oskar",
+      "badge": "Melhor para sala grande sem pó branco",
+      "review": "O Stadler Form Oskar, de preço intermediário, é o evaporativo para ambientes grandes — um aparelho suíço de tambor que cobre até 45 m², a única opção além do Dyson capaz de dar conta sozinho de uma sala e cozinha integradas sem gerar pó branco. O tambor é o centro da história prática: um filtro removível que gira dentro da água e expõe superfície úmida ao fluxo de ar. Retirar e lavar esse tambor toda semana é obrigatório, porque, se você pular, o biofilme acumulado vai parar no ar. Sem app, sem integração com casa inteligente — um único botão giratório controla a intensidade, o que é vantagem ou limitação, dependendo de você querer ou não eletrodomésticos conectados. O formato do reservatório de 3,5 L não cabe bem embaixo da maioria das torneiras de cozinha, então muita gente acaba enchendo na pia do banheiro.",
+      "pros": [
+        "Cobre até 45 m² — a única opção fora do topo de linha para uma sala integrada grande sem pó branco",
+        "Tambor evaporativo não gera pó branco, independentemente da dureza da água",
+        "Controle simples por botão giratório, sem app nem dependência de nuvem",
+        "Design e acabamento suíços justificam o preço intermediário"
+      ],
+      "cons": [
+        "Retirar e lavar o tambor toda semana é obrigatório para evitar dispersão de biofilme",
+        "O formato do reservatório não cabe bem embaixo da maioria das torneiras de cozinha"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "levoit-classic-300s",
+      "badge": "Melhor custo-benefício inteligente",
+      "review": "O Levoit Classic 300S, o mais barato da lista, é a escolha inteligente de menor preço — app VeSync, compatibilidade com Alexa e Google Assistente, reservatório de 6 L, modo automático e modo noturno de 28 dB, silencioso o bastante para não te acordar. Duas condições inegociáveis: não use água direto da torneira (é preciso água destilada ou o filtro de desmineralização no compartimento próprio) e não pule a limpeza semanal do reservatório. Quem não conseguir cumprir as duas vai ver pó branco se depositando nos eletrônicos e nos móveis escuros em poucas semanas, se a água for dura. A precisão do sensor de umidade embutido sofre muito com o posicionamento, então deixe o aparelho longe de paredes e cantos. Por um terço do preço dos evaporativos intermediários, ele garante a vaga de casa inteligente em conta.",
+      "pros": [
+        "Menor preço desta comparação com integração de casa inteligente",
+        "App VeSync, além de suporte a Alexa e Google Assistente",
+        "Reservatório de 6 L e modo noturno de 28 dB para usar no quarto à noite",
+        "Compartimento de filtro de desmineralização aceita filtros de outras marcas"
+      ],
+      "cons": [
+        "Água destilada ou filtro de desmineralização é obrigatório — água direto da torneira deposita pó branco em poucas semanas",
+        "A precisão do sensor de umidade depende muito de manter o aparelho longe de paredes e cantos"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para salas integradas grandes e quem quer um só aparelho o ano todo",
+      "offerId": "dyson-purifier-humidify-cool",
+      "reason": "Filtragem HEPA H13, esterilização da água por UV-C e o ventilador para o verão são a única combinação aqui que justifica manter o aparelho na sala durante a estação úmida."
+    },
+    {
+      "label": "Para umidificar sem filtro e ainda capturar poeira",
+      "offerId": "panasonic-fe-kxu07",
+      "reason": "Os discos giratórios umidificam sem gerar pó branco e sem pavio para trocar, enquanto a água retém poeira e pólen, cobrindo cerca de 37 m²."
+    },
+    {
+      "label": "Para um design minimalista de sala, sem filtro descartável",
+      "offerId": "balmuda-rain",
+      "reason": "Design suíço limpo de lavador de ar, com reservatório transparente, umidificação por discos sem filtro e zero pó branco, seja qual for a água da torneira."
+    },
+    {
+      "label": "Para salas integradas amplas em que pó branco é inaceitável",
+      "offerId": "stadler-form-oskar",
+      "reason": "O tambor evaporativo cobre até 45 m² sem gerar pó branco — a única opção fora do topo de linha com essa combinação."
+    },
+    {
+      "label": "Para casa inteligente com orçamento apertado",
+      "offerId": "levoit-classic-300s",
+      "reason": "VeSync, Alexa e Google por um preço baixo, desde que você se comprometa com água destilada e limpeza semanal do reservatório."
+    }
+  ]
 }

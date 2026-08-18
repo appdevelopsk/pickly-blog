@@ -61,5 +61,72 @@
     "omnilux-contour-face": "FDA-cleared y la que más estudios publicados acumula — elige si te importa el respaldo regulatorio."
   },
   "pinDescription": "Tres mascarillas LED comparadas en 2026: desde la Aduro de gama de entrada hasta la CurrentBody Skin LED. Longitudes de onda, sesiones y lo que los dermatólogos sí recomiendan para fototerapia roja en casa.",
-  "methodology": "Evaluamos cada producto según la transparencia de sus ingredientes, su historial dermatológico, la coherencia de los resultados en usuarios reales, la calidad del envase y la relación calidad-precio por uso."
+  "methodology": "Evaluamos cada producto según la transparencia de sus ingredientes, su historial dermatológico, la coherencia de los resultados en usuarios reales, la calidad del envase y la relación calidad-precio por uso.",
+  "products": [
+    {
+      "offerId": "currentbody-skin-led",
+      "badge": "La mejor en conjunto",
+      "review": "La CurrentBody Skin LED Mask es la que más recomiendan los dermatólogos cuando les preguntas con qué mascarilla empezar, y la ficha técnica respalda esa fama. Sus 132 LED emiten dos longitudes de onda, 633 nm en rojo y 830 nm en infrarrojo cercano: las dos bandas con mayor respaldo en estudios revisados por pares para favorecer la síntesis de colágeno y reducir la inflamación tras 8-12 semanas de uso constante. La carcasa de silicona de la Serie 2 se adapta al pómulo y a la mandíbula en lugar de quedarse a 1-2 cm de la piel, así que llega más energía a la dermis en vez de dispersarse en ese hueco de aire. Una sesión de 10 minutos es lo bastante corta como para que cumplirla cuatro noches por semana sea realista, y si al final decides que la fototerapia no es lo tuyo, se revende muy bien en Wallapop y Vinted.",
+      "pros": [
+        "Doble longitud de onda de 633 nm y 830 nm, las de mayor respaldo científico",
+        "Carcasa flexible de silicona que se adapta al rostro y toca la piel directamente",
+        "Sesiones de 10 minutos que facilitan la constancia semanal",
+        "Alto valor de reventa en Wallapop y el mercado de segunda mano"
+      ],
+      "cons": [
+        "El mando con batería es el punto débil a los 3-5 años",
+        "La cobertura del contorno de ojos es limitada por los recortes de la máscara"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "aduro-7-plus-1",
+      "badge": "La mejor para probar",
+      "review": "La Aduro 7+1 es la forma con menos riesgo de averiguar si de verdad vas a usar la fototerapia en casa cuatro veces por semana antes de gastarte lo que cuesta una CurrentBody. Siete modos de color más infrarrojo cercano en una carcasa rígida, sesiones de 10-15 minutos y un precio de entrada que hace fácil dar el paso. Al ir conectada a la corriente no lleva batería que se degrade, lo que alarga su vida útil frente a las rivales recargables. Su punto flojo es real: la intensidad de luz roja está por debajo de la de CurrentBody, la carcasa rígida queda a 1-2 cm del pómulo y la mandíbula (ese hueco de aire que eliminan los diseños de silicona más nuevos) y el marketing multicolor da a entender beneficios clínicos para las longitudes de onda no rojas que la investigación publicada no sostiene de forma sólida.",
+      "pros": [
+        "El precio de entrada más bajo para comprobar si mantendrás la constancia",
+        "Al funcionar enchufada, no tiene batería que se degrade con el tiempo",
+        "Siete modos de color más infrarrojo cercano en un mismo aparato",
+        "Se revende bien a los 60 días si decides pasarte a la CurrentBody"
+      ],
+      "cons": [
+        "Intensidad de luz roja inferior a la de CurrentBody",
+        "La carcasa rígida no toca el rostro y se pierde energía en el hueco de aire"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "omnilux-contour-face",
+      "badge": "La mejor con aval sanitario",
+      "review": "La Omnilux Contour Face es la opción con aprobación de la FDA y el historial de estudios independientes publicados más largo de la categoría de LED doméstico, lo que la convierte en la que más recomiendan los dermatólogos cuando al comprador le importa el respaldo regulatorio. Su enfoque de doble longitud de onda (633 nm en rojo más 830 nm en infrarrojo cercano) coincide con el de CurrentBody, aunque monta algunos LED menos. El formato flexible de silicona reparte la luz en contacto directo con la piel igual que la CurrentBody Serie 2, y el recorrido clínico de la marca, que viene de los equipos profesionales de dermatología, da más peso al argumento regulatorio que el de las marcas recién llegadas. Sesiones de 10 minutos y uso con las manos libres gracias a la cinta para la cabeza. A cambio, tiene algo menos de LED que la CurrentBody y menor presencia en tiendas.",
+      "pros": [
+        "Aprobada por la FDA y con el historial independiente más largo de la categoría",
+        "Doble longitud de onda de 633 nm y 830 nm en formato flexible de silicona",
+        "Trayectoria de la marca en equipos profesionales de dermatología",
+        "La cinta para la cabeza deja las manos libres durante los 10 minutos de sesión"
+      ],
+      "cons": [
+        "Algunos LED menos que la CurrentBody equivalente",
+        "Menor presencia en tiendas y menos salida en el mercado de segunda mano"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Si es tu primera mascarilla de fototerapia en casa",
+      "offerId": "currentbody-skin-led",
+      "reason": "La favorita de los dermatólogos, con doble longitud de onda y sesiones de 10 minutos fáciles de mantener; y si no encaja en tu rutina, se revende muy bien."
+    },
+    {
+      "label": "Si dudas de que vayas a usarla con constancia",
+      "offerId": "aduro-7-plus-1",
+      "reason": "La entrada con menos riesgo para comprobar si de verdad te pones la mascarilla 4 noches por semana antes de comprar un modelo de gama alta."
+    },
+    {
+      "label": "Si te importa el respaldo regulatorio",
+      "offerId": "omnilux-contour-face",
+      "reason": "Aprobada por la FDA y con el historial independiente más largo del LED doméstico: la opción que más recomiendan los dermatólogos cuando la documentación regulatoria pesa en la decisión."
+    }
+  ]
 }

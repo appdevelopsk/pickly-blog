@@ -2,5 +2,145 @@
   "title": "Melhor transportador de pet 2026: 5 comparados",
   "description": "Comparamos Sherpa, PetSafe, Petmate, K&H, Diggs. Veja o que realmente se destaca em conformidade aérea e conforto do pet para transportador de pet em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Maleta flexível, rígida ou mochila",
+      "paragraphs": [
+        "Flexível (Sherpa, PetSafe, Diggs): dobrável, aprovada para cabine, o pet enxerga bem o que está ao redor.",
+        "Rígida (Petmate Sky Kennel): para despacho no porão, mais resistente, mas o pet enxerga menos.",
+        "Mochila (K&H Bubble): diferente, estilosa, boa para trajetos curtos — não para voos longos."
+      ]
+    },
+    {
+      "heading": "A melhor para cada situação",
+      "paragraphs": [
+        "Melhor aprovada para voo: Sherpa Deluxe (R$ 330-500). Tem o programa Guaranteed-On-Board.",
+        "Melhor flexível: PetSafe Happy Ride (R$ 220-390). Telas de visibilidade, vários tamanhos.",
+        "Melhor para porão: Petmate Sky Kennel (R$ 280-720). Segue o padrão IATA.",
+        "Melhor em estilo: K&H Bubble Backpack (R$ 250-390). Janela bolha e telas de ventilação.",
+        "Melhor premium: Diggs Passenger (R$ 1.100-1.550). Design moderno, aprovada para cabine."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Meu pet pode viajar na cabine?",
+      "a": "Depende da companhia aérea e do peso do animal. A maioria das aéreas aceita pets de até 8 kg na cabine (dentro da caixa, embaixo da poltrona). Acima disso, o pet vai no porão. Confira o limite de peso da sua companhia antes de comprar a passagem."
+    },
+    {
+      "q": "Flexível ou rígida para ir ao veterinário?",
+      "a": "A flexível (Sherpa, PetSafe) é mais confortável para o pet e mais fácil de carregar. A rígida (Petmate) protege melhor em caso de acidente de carro. Muita gente tem as duas — a flexível para a cabine e a rígida para o porão e viagens de estrada."
+    },
+    {
+      "q": "Como acostumo meu pet com a caixa de transporte?",
+      "a": "Deixe a caixa aberta em casa com petiscos dentro e deixe o pet explorar no ritmo dele. Faça passeios curtos antes de encarar uma viagem longa. Use Feliway (para gatos) ou sprays calmantes. Nunca empurre o pet para dentro à força — ele vai associar a caixa a algo ruim."
+    },
+    {
+      "q": "Mochila de transporte é modinha ou funciona mesmo?",
+      "a": "Funciona para trajetos curtos (veterinário, uma volta rápida). Não serve para voos longos — a janela bolha limita a ventilação. Use só em passeios de até 2 horas."
+    }
+  ],
+  "products": {
+    "sherpa-deluxe-pet-carrier": {
+      "badge": "✈️ Melhor aprovada para voo",
+      "review": "A Sherpa Deluxe Pet Carrier é o padrão quando o assunto é voar. Atende às exigências de cabine da maioria das companhias e conta com o programa Guaranteed-On-Board (se você usar um tamanho aprovado pela Sherpa e ainda assim barrarem seu pet, a Sherpa reembolsa a taxa de remarcação). Interior acolchoado e telas laterais.",
+      "pros": [
+        "Aprovada pela maioria das companhias aéreas",
+        "Programa Guaranteed-On-Board",
+        "Telas laterais para o pet enxergar"
+      ],
+      "cons": [
+        "Tamanhos limitados às medidas das aéreas",
+        "Acolchoamento menor que o das opções premium"
+      ]
+    },
+    "petsafe-soft-sided-carrier": {
+      "badge": "🪟 Melhor flexível",
+      "review": "A PetSafe Happy Ride Carrier é a escolha certa entre as flexíveis. Painéis de tela para visibilidade, vários tamanhos (PP ao GG) e interior acolchoado confortável. Ideal para trajetos curtos e idas ao veterinário. Não é vendida especificamente como aprovada para voo (confirme com a sua companhia).",
+      "pros": [
+        "Telas com boa visibilidade",
+        "Vários tamanhos",
+        "Interior acolchoado confortável"
+      ],
+      "cons": [
+        "Sem aprovação específica para voo",
+        "Menos resistente que a Sherpa"
+      ]
+    },
+    "petmate-sky-kennel": {
+      "badge": "📦 Melhor para o porão",
+      "review": "A Petmate Sky Kennel é a escolha certa para despachar no porão. Segue o padrão IATA para voos internacionais, tem casco rígido de proteção e vários tamanhos, para pets de até 32 kg. Obrigatória para animais acima de 8 kg na maioria das companhias.",
+      "pros": [
+        "Segue o padrão IATA para despacho",
+        "Aceita pets de até 32 kg",
+        "Casco rígido de proteção"
+      ],
+      "cons": [
+        "Volumosa demais para trajetos curtos",
+        "O pet enxerga menos o ambiente"
+      ]
+    },
+    "k-h-pet-products-bubble-backpack": {
+      "badge": "🎒 Melhor em estilo",
+      "review": "A K&H Pet Products Bubble Backpack é a caixa de transporte mais estilosa da lista. Formato mochila com janela bolha (o pet vê 360°), painéis de tela ventilados, para gatos e cães pequenos (até 5,5 kg). Ideal para passeios curtos.",
+      "pros": [
+        "Formato mochila",
+        "Janela bolha com visão total para o pet",
+        "Várias cores"
+      ],
+      "cons": [
+        "Só para trajetos curtos (até 2 horas)",
+        "Limite de 5,5 kg de peso do pet"
+      ]
+    },
+    "diggs-passenger-travel-carrier": {
+      "badge": "✨ Melhor premium",
+      "review": "A Diggs Passenger Travel Carrier é a escolha premium. Design moderno e elegante, aprovada para cabine e com interior lavável. O preço alto se paga no design. Ideal para quem viaja com frequência e quer uma caixa bonita.",
+      "pros": [
+        "Design moderno",
+        "Aprovada para cabine",
+        "Interior lavável"
+      ],
+      "cons": [
+        "Preço premium de R$ 1.100-1.550",
+        "O valor mais alto entrega design, não recursos extras"
+      ]
+    }
+  },
+  "offerNotes": {
+    "sherpa-deluxe-pet-carrier": "Disponível em sherpapet.com, Chewy, Petco e Amazon. Os tamanhos aprovados variam conforme a companhia aérea — confirme com a sua.",
+    "petsafe-soft-sided-carrier": "Disponível em petsafe.net, Petco, Chewy e Amazon. Vários tamanhos, do PP ao GG.",
+    "petmate-sky-kennel": "Disponível em petmate.com, Chewy, Petco e Amazon. Confirme as exigências de tamanho com a companhia aérea antes de comprar a passagem.",
+    "k-h-pet-products-bubble-backpack": "Disponível em khpet.com, Amazon e Chewy. Várias cores.",
+    "diggs-passenger-travel-carrier": "Disponível em diggs.pet e em pet shops de produtos importados."
+  },
+  "pinDescription": "Vai viajar com o pet? Comparamos 5 caixas de transporte: aprovada para cabine, para o porão, mochila estilosa e a premium. Descubra qual combina com o seu bichinho 🐾",
+  "recommendedFor": [
+    {
+      "label": "Quem voa direto com gatos ou cães pequenos",
+      "offerId": "sherpa-deluxe-pet-carrier",
+      "reason": "Com o programa Guaranteed-On-Board, se a sua caixa aprovada pela Sherpa for barrada, você recebe de volta a taxa de remarcação — um seguro e tanto para quem vive em aeroporto."
+    },
+    {
+      "label": "Quem faz idas frequentes ao veterinário e resolve tudo com o pet junto",
+      "offerId": "petsafe-soft-sided-carrier",
+      "reason": "Os painéis de tela deixam o pet calmo e de olho no que acontece nos trajetos curtos, e os tamanhos (PP a GG) atendem qualquer animal pequeno com folga."
+    },
+    {
+      "label": "Tutores de cães grandes que precisam despachar no porão",
+      "offerId": "petmate-sky-kennel",
+      "reason": "O casco rígido no padrão IATA suporta pets de até 32 kg — é a única opção para cães grandes demais para a cabine."
+    },
+    {
+      "label": "Quem mora na cidade e sai todo dia para passeios rápidos",
+      "offerId": "k-h-pet-products-bubble-backpack",
+      "reason": "A janela bolha de 360° deixa o gato curioso observar tudo enquanto você fica com as mãos livres — perfeito para voltas pela cidade de até 2 horas."
+    },
+    {
+      "label": "Tutores antenados em design que viajam sempre",
+      "offerId": "diggs-passenger-travel-carrier",
+      "reason": "Design moderno, interior lavável e aprovação para cabine fazem dela a caixa de quem não abre mão do estilo."
+    }
+  ]
 }

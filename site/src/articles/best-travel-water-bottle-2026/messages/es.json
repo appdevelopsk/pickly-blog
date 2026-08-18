@@ -115,5 +115,32 @@
     "vapur-foldable-bottle": "Disponible en vapur.us, REI y Amazon. Varios tamaños (de 0,5 L a 1,5 L).",
     "larq-self-cleaning": "Disponible en livelarq.com y Amazon. La 'Movement' (sin UV-C) es la versión más económica; la 'LARQ' original incluye UV-C."
   },
-  "pinDescription": "Mejor botella de agua para viaje 2026: Hydro Flask vs. YETI vs. Owala vs. Vapur plegable vs. LARQ UV-C."
+  "pinDescription": "Mejor botella de agua para viaje 2026: Hydro Flask vs. YETI vs. Owala vs. Vapur plegable vs. LARQ UV-C.",
+  "recommendedFor": [
+    {
+      "label": "Aventureros que acampan y hacen senderismo a menudo",
+      "offerId": "hydro-flask-32oz",
+      "reason": "Mantiene el frío 24 horas y tiene garantía de por vida: a prueba de bombas en rutas de varios días donde no puedes reemplazarla."
+    },
+    {
+      "label": "Cocinillas y foodies que odian fregar a mano",
+      "offerId": "yeti-rambler-26oz-bottle",
+      "reason": "Es la única botella premium de acero inoxidable de esta lista apta para lavavajillas, lo que te ahorra un buen rato de limpieza cada día."
+    },
+    {
+      "label": "Estudiantes y quienes van a diario al trabajo con presupuesto ajustado",
+      "offerId": "owala-freesip",
+      "reason": "Por 25-35 €, con tapón de doble modo y cierre estanco, ofrece casi todo lo de una botella premium sin pagar precio premium."
+    },
+    {
+      "label": "Mochileros ultraligeros y viajeros que solo llevan equipaje de mano",
+      "offerId": "vapur-foldable-bottle",
+      "reason": "Se pliega hasta caber en un bolsillo cuando está vacía: ahorras espacio y peso en viajes donde cada gramo cuenta."
+    },
+    {
+      "label": "Viajeros que visitan países en vías de desarrollo",
+      "offerId": "larq-self-cleaning",
+      "reason": "La esterilización UV-C elimina el 99,99 % de las bacterias cada 2 horas, así que viajas tranquilo cuando no te fías del agua del grifo."
+    }
+  ]
 }

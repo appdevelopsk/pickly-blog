@@ -78,5 +78,114 @@
     "anker-soundcore-space-q45": "El 80% del ANC de gama alta a un tercio del precio. Soporte LDAC, 50 horas de autonomía, multipunto fiable. El micrófono de llamadas es el más débil de esta comparativa; la construcción es predominantemente plástica; las reseñas a largo plazo señalan las bisagras del pivote de la diadema como el punto de fallo a los 18 meses."
   },
   "pinDescription": "Cinco auriculares circumaurales con ANC comparados en 2026: del económico Anker Space Q45 a los AirPods Max de gama alta. Cancelación del ruido del tren, compatibilidad de códecs, comodidad en 8 horas y cuál elegiría realmente un viajero diario.",
-  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad."
+  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad.",
+  "products": [
+    {
+      "offerId": "sony-wh-1000xm5",
+      "badge": "Mejor en conjunto",
+      "grade": "A+",
+      "review": "Los Sony WH-1000XM5 son la opción acertada para el abanico más amplio de compradores: usuarios de Android, quienes saltan entre plataformas y cualquiera que priorice la comodidad ligera en sesiones largas. La cancelación de ruido está prácticamente empatada con los Bose QuietComfort Ultra en el rechazo de graves, los 250 g de peso los convierten en los más ligeros entre los buques insignia de esta comparativa y el soporte LDAC mantiene a los usuarios de Android en territorio de alta resolución con 990 kbps. Las 30 horas de batería con ANC activo cubren un vuelo transoceánico de ida y vuelta sin pasar por el cargador, y la arquitectura de doble procesador V1+QN1 gestiona el ANC adaptativo con solvencia. Las pegas honestas: el Bluetooth multipunto funciona, pero de forma más tosca que en Bose (pasar del Mac al iPhone para atender una llamada obliga a veces a reseleccionar el dispositivo a mano), la calidad en llamadas queda medio escalón por detrás de Bose y Apple con viento en exteriores, y la nueva diadema ya no se pliega en plano, así que el estuche es más voluminoso que el de los XM4.",
+      "pros": [
+        "ANC de graves de referencia, a la par de Bose en tren y cabina de avión",
+        "LDAC para mantener a Android en alta resolución a 990 kbps",
+        "250 g: los más ligeros entre los buques insignia de esta comparativa",
+        "30 horas con ANC: vuelos de largo radio sin recargar"
+      ],
+      "cons": [
+        "Bluetooth multipunto más tosco que Bose al cambiar de dispositivo",
+        "No se pliegan en plano: el estuche es mayor que el de los XM4"
+      ]
+    },
+    {
+      "offerId": "bose-quietcomfort-ultra",
+      "badge": "Mejor ANC y llamadas",
+      "grade": "A",
+      "review": "Los Bose QuietComfort Ultra Headphones se ganan su puesto con el ANC más agresivo y la mejor calidad de llamada de la comparativa. La tecnología CustomTune calibra la cancelación al canal auditivo de cada persona al encenderlos: un diferencial real que se adapta a la forma de la cabeza y la geometría de la oreja. El modo espacial con seguimiento de cabeza de Immersive Audio mejora de verdad el visionado de películas y ciertos géneros musicales (no aporta nada en pódcast, así que ahí conviene desactivarlo). El conjunto de micrófonos beamforming lidia con andenes concurridos y viento junto al mar lo bastante bien como para que al otro lado te oigan con claridad. El precio es de gama alta. Las pegas honestas: la presión de la diadema es más firme que en Sony (quienes tienen la cabeza grande, talla 60 o superior, notan fatiga por puntos de presión hacia las tres horas), no hay LDAC, así que en Android te quedas solo con AAC, y activar Immersive Audio baja la autonomía real de las 24 horas anunciadas a 17-18.",
+      "pros": [
+        "El ANC más agresivo de la comparativa, con calibración CustomTune del canal auditivo",
+        "La mejor calidad de llamada: los micros beamforming resuelven bien el viento",
+        "Modo espacial Immersive Audio con seguimiento de cabeza para cine y cierta música",
+        "El ANC adaptativo se recalibra según el entorno cada pocos cientos de milisegundos"
+      ],
+      "cons": [
+        "Presión más firme: fatiga por puntos de presión pasadas 3 horas en cabezas grandes",
+        "Sin LDAC: en Android el techo es AAC"
+      ]
+    },
+    {
+      "offerId": "apple-airpods-max",
+      "badge": "Mejores para el ecosistema Apple",
+      "grade": "A",
+      "review": "Los Apple AirPods Max son la opción sin concesiones para quien vive de lleno dentro del ecosistema Apple. El chip H1 (que sigue presente en la revisión USB-C de 2024) resuelve un cambio de dispositivo entre iPhone, iPad y Mac que ningún otro auricular de esta comparativa iguala: coges el iPad y el audio va allí, aceptas una llamada en el iPhone y el audio salta solo, sin emparejamientos manuales. Las almohadillas de aluminio y la diadema de acero inoxidable los convierten en la construcción más premium del grupo. El ANC es excelente, aunque queda algo por detrás de Bose en frecuencias bajas, y la revisión USB-C de 2024 por fin admite audio lossless por cable. El precio es elevado. Las pegas honestas: sus 384,8 g son con diferencia el mayor peso aquí y cansan de verdad en vuelos de más de cuatro horas, la funda es objeto de burla generalizada (no cubre la diadema y parece un bolso), la batería no la puede sustituir el usuario y fuera de Apple la magia desaparece por completo.",
+      "pros": [
+        "Cambio automático entre iPhone, iPad y Mac gracias al chip H1",
+        "Aluminio y acero inoxidable: el acabado más premium de la comparativa",
+        "Audio lossless por cable en la revisión USB-C de 2024",
+        "ANC excelente, solo ligeramente por detrás de Bose en graves"
+      ],
+      "cons": [
+        "384,8 g: los más pesados de la comparativa y cansan en vuelos largos",
+        "Fuera de Apple pierden la gracia: en Windows o Android son solo AAC"
+      ]
+    },
+    {
+      "offerId": "sennheiser-momentum-4",
+      "badge": "Mejores para escuchar música",
+      "grade": "B+",
+      "review": "Los Sennheiser Momentum 4 Wireless son la opción de corte audiófilo para quien los va a usar sobre todo para escuchar música, no para llamadas ni para el trayecto diario. La afinación de Sennheiser es la más neutra del grupo (medios más planos y graves menos realzados que en Sony o Bose), así que clásica, jazz, pop de voces protagonistas y cantautor acústico suenan con el timbre más natural. Admiten tanto LDAC como aptX Adaptive. Las 60 horas de batería con ANC activo son, con amplio margen, la mayor autonomía de la comparativa. El precio es competitivo dentro de la gama alta. Las pegas honestas: el ANC va un escalón real por detrás de los Sony XM5 y los Bose QC Ultra en graves (el retumbe del tren y el zumbido de la cabina se atenúan bastante menos), la app Sennheiser Smart Control es la peor de las cuatro apps insignia de esta lista (lenta, con algún problema de emparejamiento en Android y un EQ menos preciso) y la construcción tira mucho de plástico.",
+      "pros": [
+        "La afinación más neutra del grupo para clásica, jazz, voces y acústico",
+        "60 horas con ANC: la mayor autonomía de la comparativa con diferencia",
+        "LDAC y aptX Adaptive para alta resolución en Android",
+        "Almohadillas más mullidas, cómodas en sesiones largas para muchos usuarios"
+      ],
+      "cons": [
+        "El ANC queda un escalón por detrás de Sony y Bose en frecuencias bajas",
+        "La app Smart Control va lenta y falla a veces al emparejar en Android"
+      ]
+    },
+    {
+      "offerId": "anker-soundcore-space-q45",
+      "badge": "Mejor relación calidad-precio",
+      "grade": "B+",
+      "review": "Los Anker Soundcore Space Q45 ofrecen alrededor del 80 % del rendimiento de ANC de un buque insignia por menos de un tercio del precio. El soporte LDAC es raro en esta franja, las 50 horas de batería con ANC compiten con la gama alta media, el Bluetooth multipunto funciona de forma fiable entre Windows, macOS, Android e iOS, y el ANC adaptativo, sin estar a la altura del CustomTune de Bose, resulta realmente eficaz en cercanías y cafeterías. Es la opción de valor para quien puede asumir una calidad de llamada claramente inferior y unos acabados menos cuidados. Las pegas honestas: el micrófono de llamadas es el más flojo de la comparativa y quien te escucha repite siempre lo mismo, que tu voz suena comprimida y algo nasal; la construcción es de plástico predominante (diadema, bisagras y carcasas ceden más que en Sony o Bose), y las opiniones de propietarios a largo plazo señalan las bisagras de giro de la diadema como el punto de fallo hacia los 18 meses.",
+      "pros": [
+        "LDAC y 50 horas de batería con ANC, algo raro a este precio",
+        "Multipunto fiable entre Windows, macOS, Android e iOS",
+        "El 80 % de la eficacia del ANC de gama alta por menos de un tercio del precio",
+        "ANC adaptativo realmente eficaz en cercanías y cafeterías"
+      ],
+      "cons": [
+        "El micrófono más flojo del grupo: la voz suena comprimida en Zoom",
+        "Las bisagras de la diadema fallan en torno a los 18 meses"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para el trayecto diario y uso entre varias plataformas",
+      "offerId": "sony-wh-1000xm5",
+      "reason": "ANC de referencia en 250 g, con LDAC y 30 horas de batería: el todoterreno adecuado para Android y para quien mezcla dispositivos."
+    },
+    {
+      "label": "Para más de 4 horas diarias de llamadas en entornos cambiantes",
+      "offerId": "bose-quietcomfort-ultra",
+      "reason": "Los micros beamforming y el ANC CustomTune resuelven con limpieza los andenes concurridos y el viento en jornadas de llamadas encadenadas."
+    },
+    {
+      "label": "Para flujos de trabajo intensivos con iPhone, iPad y Mac",
+      "offerId": "apple-airpods-max",
+      "reason": "El cambio automático entre dispositivos Apple gracias al chip H1 y el chasis de aluminio justifican el precio dentro del ecosistema."
+    },
+    {
+      "label": "Para quien escucha música y valora el timbre natural",
+      "offerId": "sennheiser-momentum-4",
+      "reason": "La afinación más neutra del grupo, con LDAC y 60 horas de batería, encaja con clásica, jazz y acústico en sesiones largas."
+    },
+    {
+      "label": "Para presupuestos ajustados que aceptan concesiones en llamadas",
+      "offerId": "anker-soundcore-space-q45",
+      "reason": "LDAC y 50 horas de batería en gama económica con el 80 % del ANC de la gama alta, ideal si no haces muchas llamadas en la calle."
+    }
+  ]
 }

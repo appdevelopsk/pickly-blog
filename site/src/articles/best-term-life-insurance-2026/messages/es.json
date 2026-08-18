@@ -2,5 +2,150 @@
   "title": "Mejor seguro de vida temporal 2026: 5 comparados",
   "description": "Comparamos Haven Life, Ladder, Ethos, Fabric, Policygenius. Esto es lo que realmente destaca en velocidad de suscripción y prima para seguro de vida a término en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Prima mensual por la misma cobertura",
+      "paragraphs": [
+        "Prima mensual para 500.000 € de capital a 20 años, persona de 35 años sana y no fumadora: Ethos 28 €, Haven Life 30 €, Ladder 31 €, Fabric 32 €, Policygenius (la mejor de 5 ofertas comparadas) 26 €. Las diferencias se reducen en perfiles de mayor riesgo: las aseguradoras algorítmicas (Ethos, Haven, Ladder, Fabric) aplanan sus precios en torno a los solicitantes sanos.",
+        "Prima para 1 millón de euros de cobertura a 20 años: aproximadamente 1,8 veces la de 500.000 €. Duplicar el capital cuesta menos del doble, porque los gastos fijos de suscripción no escalan de forma lineal."
+      ]
+    },
+    {
+      "heading": "Exención del reconocimiento médico",
+      "paragraphs": [
+        "Aprobación sin reconocimiento médico para un perfil sano de 35 años: Ethos (decisión instantánea mediante suscripción algorítmica), Haven Life (instantánea hasta 1 millón de euros), Ladder (instantánea hasta 3 millones), Fabric (instantánea hasta 1 millón).",
+        "Policygenius no es aseguradora, sino un comparador: presenta tu solicitud a más de 20 aseguradoras tradicionales. La mayoría exige reconocimiento médico; Policygenius puede localizar compañías que no lo pidan, aunque no siempre serán las más baratas.",
+        "Tiempo real desde la solicitud hasta tener cobertura: Ethos 48 horas, Haven Life 72 horas, Ladder 24 horas, Fabric 72 horas, Policygenius (aseguradora tradicional) de 14 a 28 días. Las opciones algorítmicas ganan en velocidad por un factor de 10 a 25."
+      ]
+    },
+    {
+      "heading": "A qué renuncias con cada una",
+      "paragraphs": [
+        "Ethos, Haven Life, Ladder y Fabric trabajan solo con suscripción algorítmica. Si tu historial médico tiene alguna complicación, el sistema puede rechazarte de forma automática.",
+        "Policygenius consulta aseguradoras tradicionales. Encaja mejor si tienes patologías previas (diabetes, tensión alta, etc.), porque un suscriptor humano sí puede valorar los matices del historial médico.",
+        "A largo plazo: las aseguradoras tradicionales (Northwestern Mutual, MassMutual, etc., accesibles vía Policygenius) tienen calificaciones financieras más sólidas. Las algorítmicas como Ethos y Ladder están reaseguradas por AIG y Munich Re: respaldo fuerte, pero con menos trayectoria."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Seguro temporal o vida entera?",
+      "a": "Temporal para casi todo el mundo. Es más barato, más sencillo y está pensado para sustituir tus ingresos durante los años de vida laboral. La vida entera solo tiene sentido si tienes necesidades concretas de planificación sucesoria y ya has agotado otros productos con ventajas fiscales."
+    },
+    {
+      "q": "¿Cuánto capital necesito contratar?",
+      "a": "Regla habitual: entre 10 y 12 veces tus ingresos anuales. Para alguien de 35 años que gana 60.000 € al año, serían entre 600.000 y 720.000 €. Ajusta según lo que te quede de hipoteca y el número de personas a tu cargo."
+    },
+    {
+      "q": "¿Puedo darme de baja más adelante?",
+      "a": "Sí. El seguro temporal no tiene penalizaciones por rescate: dejas de pagar la prima y la póliza se extingue."
+    },
+    {
+      "q": "¿Qué significa un plazo de 20 años?",
+      "a": "La prima se mantiene constante durante 20 años y después la póliza termina. Si sobrevives al plazo, no hay indemnización. La mayoría contrata un temporal para cubrir sus años de vida laboral (hasta que los hijos son independientes o la hipoteca está pagada)."
+    }
+  ],
+  "products": {
+    "haven-life-term": {
+      "badge": "🏆 Mejor aprobación instantánea",
+      "review": "Haven Life es la opción indicada para solicitantes sanos que quieren la aprobación al momento. Pertenece a MassMutual (respaldo financiero sólido), aplica suscripción algorítmica hasta 1 millón de euros y decide en minutos. La prima no siempre es la más barata, pero la rapidez no tiene rival. Experiencia pensada para la app.",
+      "pros": [
+        "Aprobación instantánea hasta 1 millón de euros",
+        "Respaldada por MassMutual",
+        "Experiencia de uso centrada en la app"
+      ],
+      "cons": [
+        "Puede rechazar a quien tenga cualquier complicación de salud",
+        "No siempre es la más barata"
+      ]
+    },
+    "ladder-life": {
+      "badge": "🪜 Mejor cobertura flexible",
+      "review": "Ladder Life te permite subir o bajar el capital asegurado según cambia tu vida, sin volver a pasar por suscripción. Aprobación instantánea hasta 3 millones de euros para perfiles sanos. Suscripción algorítmica y reaseguro de AIG. La función de subir y bajar cobertura es única en la categoría.",
+      "pros": [
+        "Flexibilidad para subir o bajar la cobertura",
+        "Aprobación instantánea hasta 3 millones de euros",
+        "Reasegurador de primer nivel (AIG)"
+      ],
+      "cons": [
+        "Marca reciente, con menos trayectoria",
+        "Solo suscripción algorítmica, sin evaluación tradicional"
+      ]
+    },
+    "ethos-life-insurance": {
+      "badge": "💸 Mejor precio con trámite rápido",
+      "review": "Ethos es la más barata entre las aseguradoras algorítmicas en el perfil de referencia de 35 años no fumador (28 €/mes por 500.000 € a 20 años). Decisiones instantáneas y sin reconocimiento médico para solicitantes sanos. Reasegurada por Munich Re. Buena app y solicitud sencilla.",
+      "pros": [
+        "La más barata dentro de las algorítmicas",
+        "Decisiones instantáneas",
+        "Reasegurada por Munich Re"
+      ],
+      "cons": [
+        "Limitada a la suscripción algorítmica",
+        "Tasa de rechazo superior a la de Haven Life"
+      ]
+    },
+    "fabric-by-gerber-life": {
+      "badge": "👶 Mejor para familias con hijos",
+      "review": "Fabric by Gerber Life está orientada a padres y madres primerizos. Incluye una herramienta para redactar testamento y ofrece garantía adicional para hijos. Prima competitiva (32 €/mes en el mismo perfil de 35 años). La suscribe Gerber Life, financieramente solvente, aunque la marca se asocia más a los bebés que a los adultos.",
+      "pros": [
+        "Incluye redacción de testamento",
+        "Garantía adicional para hijos disponible",
+        "Funciones pensadas para familias"
+      ],
+      "cons": [
+        "Prima algo superior a la de Ethos",
+        "Marca muy asociada a los seguros infantiles"
+      ]
+    },
+    "policygenius-term-marketplace": {
+      "badge": "🛒 Mejor para casos complicados",
+      "review": "Policygenius no es una aseguradora, sino un comparador que presenta tu solicitud a más de 20 compañías tradicionales (Northwestern Mutual, Lincoln, Prudential, etc.). La mejor vía si tienes patologías previas y necesitas una evaluación humana. Tarda entre 2 y 4 semanas, pero puede dar con el precio más bajo en términos absolutos.",
+      "pros": [
+        "Compara más de 20 aseguradoras tradicionales",
+        "La mejor opción con historial médico complicado",
+        "A menudo encuentra el precio más bajo del mercado"
+      ],
+      "cons": [
+        "De 2 a 4 semanas de tramitación",
+        "Suele exigir reconocimiento médico"
+      ]
+    }
+  },
+  "offerNotes": {
+    "haven-life-term": "Contratación en havenlife.com. Propiedad de MassMutual desde 2014.",
+    "ladder-life": "Contratación en ladderlife.com. Poder subir y bajar la cobertura marca una diferencia real.",
+    "ethos-life-insurance": "Contratación en ethos.com. Solo suscripción algorítmica: busca otra opción si tu historial médico tiene alguna complicación.",
+    "fabric-by-gerber-life": "Contratación en meetfabric.com. La garantía para hijos se añade aparte.",
+    "policygenius-term-marketplace": "Contratación en policygenius.com. Es un comparador: consulta por ti más de 20 aseguradoras."
+  },
+  "pinDescription": "¿Seguro de vida sin reconocimiento médico? Comparativa 2026: Haven Life, Ladder, Ethos, Fabric y Policygenius. Cuánto pagas al mes, cuánto tardan en cubrirte y quién te rechaza. #segurodevida #finanzaspersonales",
+  "recommendedFor": [
+    {
+      "label": "Padres y madres primerizos",
+      "offerId": "fabric-by-gerber-life",
+      "reason": "Fabric incorpora una herramienta para redactar testamento y una garantía adicional para hijos, así que está hecha a medida de quien acaba de formar una familia."
+    },
+    {
+      "label": "Personas sanas que necesitan cobertura esta misma semana",
+      "offerId": "ladder-life",
+      "reason": "Ladder aprueba hasta 3 millones de euros al instante y sin reconocimiento médico, con cobertura activa en apenas 24 horas: el trámite más rápido de la comparativa."
+    },
+    {
+      "label": "Quien mira el presupuesto y contrata su primera póliza",
+      "offerId": "ethos-life-insurance",
+      "reason": "Con 28 €/mes por 500.000 € a 20 años, Ethos fue la opción algorítmica más barata, con decisión instantánea y sin reconocimiento médico para perfiles sanos."
+    },
+    {
+      "label": "Solicitantes con diabetes, tensión alta u otras patologías",
+      "offerId": "policygenius-term-marketplace",
+      "reason": "Policygenius consulta más de 20 aseguradoras tradicionales que valoran el historial médico con matices, lo que da a los perfiles complicados más opciones de ser aceptados a un precio competitivo."
+    },
+    {
+      "label": "Profesionales que priorizan la solidez financiera de la aseguradora",
+      "offerId": "haven-life-term",
+      "reason": "Haven Life está respaldada por MassMutual, una de las aseguradoras mejor calificadas de Estados Unidos: velocidad algorítmica con la solvencia de una compañía con 170 años de historia."
+    }
+  ]
 }

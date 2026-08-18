@@ -2,5 +2,127 @@
   "title": "Melhor conta de alto rendimento 2026: 5 comparados",
   "description": "Comparamos Marcus, Ally, SoFi, Discover, Capital One 360. Veja o que realmente se destaca em APY e trocas de recursos para conta poupança de alto rendimento em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Taxa x recursos em 2026",
+      "paragraphs": [
+        "As cinco contas rendem entre 4,10% e 4,60% ao ano (maio de 2026). A diferença de 50 pontos-base entre a menor (Discover e Capital One) e a maior (SoFi com depósito automático do salário) equivale a US$ 250 por ano sobre US$ 50 mil. Só vale a pena correr atrás se você realmente for mover o dinheiro por causa disso.",
+        "O que diferencia cada uma: os 4,60% do SoFi exigem depósito recorrente de salário. O recurso de \"potes\" do Ally é a melhor interface para juntar dinheiro por objetivo. Marcus e Discover são os mais simples. O Capital One 360 é o único com agências físicas nos EUA."
+      ]
+    },
+    {
+      "heading": "Teste de velocidade das transferências",
+      "paragraphs": [
+        "Transferência recebida de outro banco: SoFi (1,2 dia), Ally (1,5), Marcus (1,8), Discover (2,1), Capital One (2,3). Todas dentro do prazo padrão do sistema ACH americano, mas a vantagem do SoFi é real.",
+        "Transferência enviada para fora: Ally (1,0 dia, graças à própria rede bancária), SoFi (1,3), Capital One (1,5), Marcus (1,7), Discover (2,0). Ser lento nas duas pontas é a maior desvantagem prática do Discover."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Com que frequência as taxas dessas contas mudam?",
+      "a": "A cada trimestre, em média, e normalmente em até 30 dias depois de uma mudança de juros do Fed. Marcus e Ally costumam se mexer primeiro; Discover e Capital One demoram de 1 a 2 meses."
+    },
+    {
+      "q": "É seguro deixar mais de US$ 50 mil nessas contas?",
+      "a": "Sim — todas as cinco têm seguro do FDIC até US$ 250 mil por titular, por instituição. Acima disso, divida entre bancos diferentes ou use um fundo money market com varredura FDIC."
+    },
+    {
+      "q": "Perco rendimento se movimentar o dinheiro todo mês?",
+      "a": "A maioria dessas contas capitaliza os juros diariamente e credita uma vez por mês — então entrar e sair com o dinheiro não faz você perder o que já rendeu, desde que seja antes do fechamento do extrato."
+    }
+  ],
+  "products": {
+    "marcus-online-savings": {
+      "badge": "🏆 Melhor no geral",
+      "review": "A Marcus by Goldman Sachs Savings é a opção sem firulas. 4,40% ao ano, sem valor mínimo, sem tarifas e com seguro do FDIC. Pertence ao Goldman Sachs e só funciona nos EUA. Ideal se você quer uma conta de poupança que simplesmente funciona, sem precisar ficar de olho em regrinhas de qualificação.",
+      "pros": [
+        "4,40% ao ano sem nenhuma condição",
+        "Solidez do balanço do Goldman Sachs"
+      ],
+      "cons": [
+        "Não tem conta corrente nem cartão de débito"
+      ]
+    },
+    "ally-online-savings": {
+      "badge": "🎯 Melhor experiência de uso",
+      "review": "A Ally Online Savings ganha no quesito usabilidade. Rende 4,20% ao ano, sem tarifas, mas o grande diferencial são os potes: você cria objetivos com nome próprio (viagem, reserva de emergência) dentro de uma única conta, sem transferência manual. Perfeita para quem poupa pensando em metas.",
+      "pros": [
+        "Potes para separar dinheiro por objetivo",
+        "Melhor aplicativo da categoria"
+      ],
+      "cons": [
+        "20 pontos-base abaixo do Marcus"
+      ]
+    },
+    "sofi-checking-savings": {
+      "badge": "💵 Maior rendimento (com condição)",
+      "review": "A SoFi Checking + Savings chega a 4,60% ao ano na poupança — mas só com depósito de salário direto na conta (a partir de US$ 1 por mês, cumprindo os critérios). Sem isso, o rendimento despenca para 0,50%. Tem bônus de US$ 300 na abertura. Ótima se você consegue se qualificar; arriscada se não.",
+      "pros": [
+        "4,60% ao ano (com depósito de salário)",
+        "Bônus de US$ 300 na abertura"
+      ],
+      "cons": [
+        "Cai para 0,50% sem depósito de salário"
+      ]
+    },
+    "discover-online-savings": {
+      "badge": "🤝 Melhor atendimento",
+      "review": "O rendimento da Discover Online Savings (4,10%) é um dos mais baixos da lista, mas o atendimento 24 horas com equipe nos EUA é o melhor da categoria. Combina bem com o cartão Discover it Cashback. Boa escolha se você valoriza ter alguém no telefone mais do que caçar a maior taxa.",
+      "pros": [
+        "Atendimento por telefone 24h com equipe nos EUA",
+        "Integrada aos cartões de crédito Discover"
+      ],
+      "cons": [
+        "4,10% fica abaixo da concorrência"
+      ]
+    },
+    "capital-one-360-performance": {
+      "badge": "🏢 A única com agências",
+      "review": "A Capital One 360 Performance Savings junta rendimento de banco digital (4,10% ao ano) com a possibilidade de entrar num Capital One Café de verdade. Ideal para quem, de vez em quando, quer atendimento presencial sem abrir mão da taxa de banco online.",
+      "pros": [
+        "Agências físicas e cafés disponíveis",
+        "Combina com os cartões Capital One"
+      ],
+      "cons": [
+        "4,10% é o piso da faixa"
+      ]
+    }
+  },
+  "offerNotes": {
+    "marcus-online-savings": "O programa indique um amigo dá 1% ao ano extra por 90 dias — peça o link para alguém que já tem conta.",
+    "ally-online-savings": "Use os potes para separar reserva de emergência e metas específicas dentro de uma conta só.",
+    "sofi-checking-savings": "Para se qualificar é preciso bater um valor mínimo de depósito via ACH todo mês — confirme antes de contar com a taxa alta.",
+    "discover-online-savings": "Abra pela indicação de quem tem cartão Discover it e ganhe US$ 50 de bônus.",
+    "capital-one-360-performance": "Combine com a Capital One 360 Checking para ter o ecossistema completo (transferências gratuitas, sem tarifas)."
+  },
+  "pinDescription": "Onde deixar a reserva rendendo em dólar? Comparamos 5 contas americanas de alto rendimento com US$ 50 mil — taxa, prazo de saque e pegadinhas.",
+  "recommendedFor": [
+    {
+      "label": "Quem quer o maior rendimento sem burocracia",
+      "offerId": "marcus-online-savings",
+      "reason": "A Marcus entrega 4,40% ao ano sem condição nenhuma — nada de exigir depósito de salário ou ficar controlando requisitos."
+    },
+    {
+      "label": "Quem poupa com várias metas ao mesmo tempo",
+      "offerId": "ally-online-savings",
+      "reason": "Os potes do Ally deixam você nomear e separar o dinheiro de cada objetivo dentro de uma conta só, sem precisar abrir várias contas."
+    },
+    {
+      "label": "Assalariado com depósito de salário todo mês",
+      "offerId": "sofi-checking-savings",
+      "reason": "Os 4,60% ao ano do SoFi — o maior da lista — entram automaticamente para quem tem depósito recorrente, e ainda vem US$ 300 de bônus."
+    },
+    {
+      "label": "Quem prefere resolver por telefone a se virar no app",
+      "offerId": "discover-online-savings",
+      "reason": "O atendimento 24h da Discover, com equipe nos EUA, garante uma pessoa de verdade na linha a qualquer hora — sem labirinto de chatbot nem fila de retorno."
+    },
+    {
+      "label": "Quem às vezes precisa de atendimento presencial",
+      "offerId": "capital-one-360-performance",
+      "reason": "A Capital One 360 é a única da lista com cafés e agências físicas, então dá para ir até lá quando você precisa falar olho no olho, sem perder a taxa de banco digital."
+    }
+  ]
 }

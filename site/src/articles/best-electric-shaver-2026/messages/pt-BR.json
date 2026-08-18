@@ -108,5 +108,114 @@
     "braun-series-7-71-s7200cc": "O barbeador de lâmina AutoSense de gama média da Braun com o pacote 7200cc que inclui uma estação Clean&Charge. Quatro elementos de barbear fornecem cobertura sólida para barbas de densidade média. AutoSense lê a resistência da pele e da barba e ajusta a velocidade do motor. Quatro elementos versus cinco no Series 9 Pro+ significa que o ProLift para pelos deitados está ausente; os custos de cartuchos Clean&Charge se adicionam ao custo total de propriedade."
   },
   "pinDescription": "5 barbeadores elétricos comparados em 2026 — da Philips Series 9000 Prestige topo de linha com potência adaptativa SenseIQ até a Series 5000 AquaTouch econômica. Rotativo vs lâmina explicado honestamente. Barbear úmido com elétricos. Custos anuais de reposição de lâminas calculados para cada modelo.",
-  "methodology": "Avaliamos cada produto pela transparência dos ingredientes, pelo histórico dermatológico, pela consistência dos resultados em usuários reais, pela qualidade da embalagem e pelo custo-benefício por uso."
+  "methodology": "Avaliamos cada produto pela transparência dos ingredientes, pelo histórico dermatológico, pela consistência dos resultados em usuários reais, pela qualidade da embalagem e pelo custo-benefício por uso.",
+  "products": [
+    {
+      "offerId": "philips-series-9000-prestige",
+      "badge": "Melhor rotativo adaptativo",
+      "review": "O Series 9000 Prestige SP9883 é a resposta premium da Philips para barbas que crescem em várias direções. O SenseIQ lê a densidade dos pelos 125 vezes por segundo e ajusta a potência do motor em tempo real, as três cabeças rotativas giram de forma independente com alcance de contorno de 360 graus, e a certificação AquaTouch para uso seco e molhado libera espuma, gel e barbear debaixo do chuveiro. A voltagem universal de 100-240 V resolve em qualquer viagem. A geometria rotativa cai bem para quem tem pelos no pescoço e na mandíbula crescendo em sentidos que os barbeadores de lâmina de folha não dão conta. O que você aceita em troca: o rotativo costuma raspar menos rente nas áreas planas do rosto do que a folha, o vão entre a cabeça redonda e o anel acumula resíduo de espuma que precisa ser enxaguado na hora, e as cabeças de reposição SH98 estão no topo da faixa de preço.",
+      "pros": [
+        "SenseIQ lê a densidade da barba 125 vezes por segundo e ajusta a potência em tempo real",
+        "Três cabeças rotativas com alcance de contorno de 360 graus para pelos multidirecionais",
+        "Certificado para uso seco e molhado: espuma, gel e barbear no chuveiro",
+        "Bivolt 100-240 V, funciona em qualquer lugar"
+      ],
+      "cons": [
+        "Rotativo raspa menos rente nas bochechas do que os modelos de folha",
+        "As cabeças SH98 são a reposição mais cara desta comparação"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "braun-series-9-pro-plus",
+      "badge": "Melhor para barba cerrada",
+      "review": "O Series 9 Pro+ 9565cc é o barbeador de folha mais competente desta comparação e a escolha certa para barba cerrada ou de crescimento rápido. Cinco elementos de corte — três padrões de folha, mais o aparador ProLift para os pelos deitados que outros modelos de folha deixam passar, mais um elemento aparador — se somam ao motor AutoSense, que lê a densidade da barba e ajusta a potência para evitar aquele puxão que define um barbear ruim. A estação Clean&Charge que vem no kit 9565cc cuida da limpeza, da lubrificação e da carga automaticamente, com um fluido à base de álcool que impede acúmulo de resíduo. As contrapartidas honestas: os refis de cartucho pesam no custo total, o cassete de reposição 90B/92B é a lâmina mais cara aqui, e os modelos de folha ainda brigam com o pelo do pescoço que cresce ao contrário de um jeito que o rotativo não briga.",
+      "pros": [
+        "Cinco elementos de corte, incluindo o ProLift para pelos deitados",
+        "Motor AutoSense ajusta a potência à densidade da barba e evita puxões",
+        "Estação Clean&Charge inclusa para limpeza e lubrificação automáticas",
+        "O barbear mais rente nas áreas planas do rosto desta comparação"
+      ],
+      "cons": [
+        "Os refis de cartucho da Clean&Charge criam um custo recorrente",
+        "O design de folha lida pior com o pelo do pescoço que cresce ao contrário do que o rotativo"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "panasonic-lamdash-es-ls9a",
+      "badge": "Melhor custo-benefício",
+      "review": "O Braun Series 9 Pro é a escolha padrão para quem quer o desempenho premium das folhas Braun sem o custo recorrente dos cartuchos da Clean&Charge. O sistema de corte de quatro elementos inclui o aparador ProLift, que pega os pelos deitados, o corpo é totalmente à prova d'água para barbear seco ou molhado, e a bateria de lítio entrega bastante autonomia por carga. Como ele normalmente vem sem a estação Clean&Charge, o custo total fica abaixo do Series 9 Pro+ e do kit do Series 7. O que você aceita em troca: quatro elementos de corte em vez dos cinco do Series 9 Pro+, nenhuma estação de limpeza automática no pacote e a fraqueza de sempre dos barbeadores de folha no pescoço com pelo crescendo ao contrário.",
+      "pros": [
+        "Sistema de corte de quatro elementos com aparador ProLift para pelos deitados",
+        "Totalmente à prova d'água para barbear seco ou molhado",
+        "Sem custo recorrente de cartucho Clean&Charge quando usado sem a estação",
+        "Bateria de lítio durável, com bastante autonomia por carga"
+      ],
+      "cons": [
+        "Quatro elementos de corte em vez dos cinco do Series 9 Pro+",
+        "Não vem com a estação Clean&Charge para limpeza automática"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "philips-series-5000-sp5588",
+      "badge": "Melhor rotativo de entrada",
+      "review": "O Series 5000 SP5588 é a porta de entrada barata na tecnologia rotativa da Philips e a escolha certa para quem vai comprar o primeiro barbeador elétrico e quer especificamente rotativo em vez de folha. A certificação AquaTouch para uso seco e molhado libera espuma, gel e barbear no chuveiro, o design de secagem rápida deixa você pegar o aparelho logo depois de lavar, e a cabeça de reposição SH52/SH53 é a lâmina mais barata desta comparação. A configuração de duas cabeças se adapta menos aos contornos complicados do que as três cabeças do Series 9000, não há SenseIQ (ou seja, a potência do motor não se ajusta à densidade da barba) e não existe opção de Clean&Charge. Para quem quer testar se o rotativo combina com sua barba antes de encarar o preço de topo do Series 9000 Prestige, esta é a primeira compra racional.",
+      "pros": [
+        "Certificado AquaTouch para espuma, gel e barbear no chuveiro",
+        "Design de secagem rápida permite usar logo após lavar",
+        "Lâmina de reposição mais barata desta comparação",
+        "A entrada mais direta na tecnologia rotativa da Philips"
+      ],
+      "cons": [
+        "Duas cabeças rendem menos em contornos complicados do que as três do Series 9000",
+        "Sem SenseIQ — potência fixa, sem adaptação à densidade da barba"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "braun-series-7-71-s7200cc",
+      "badge": "Melhor folha intermediário",
+      "review": "O Series 7 71-S7200cc é o barbeador de folha com AutoSense da faixa intermediária da Braun e a escolha certa para quem quer a inteligência do motor adaptativo e a estação Clean&Charge sem pagar o preço do Series 9 Pro+. O AutoSense lê a resistência da pele e da barba e ajusta a velocidade do motor — é esse o salto real em relação ao Series 5 logo abaixo — e o kit 7200cc inclui a estação Clean&Charge, que cuida da limpeza, da lubrificação e da carga sozinha. Os quatro elementos de corte dão conta bem de barbas médias a moderadamente cerradas. As contrapartidas: quatro elementos em vez dos cinco do Series 9 Pro+ significa ficar sem o ProLift para pelos deitados, os refis de cartucho da Clean&Charge criam um custo recorrente, e a distância para o 9565cc em barba cerrada é real se o seu pelo for pesado.",
+      "pros": [
+        "Motor AutoSense lê a resistência da pele e da barba e ajusta a potência",
+        "Estação Clean&Charge inclusa no kit 7200cc",
+        "Quatro elementos dão boa cobertura para barbas médias a moderadamente cerradas",
+        "Um degrau abaixo do Series 9 Pro+ sem perder o motor adaptativo"
+      ],
+      "cons": [
+        "Quatro elementos em vez de cinco — sem o aparador ProLift para pelos deitados",
+        "Os refis de cartucho da Clean&Charge criam um custo recorrente"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para barba que cresce em várias direções, priorizando conforto em vez de rente",
+      "offerId": "philips-series-9000-prestige",
+      "reason": "A potência adaptativa do SenseIQ e as cabeças rotativas que giram 360 graus caem bem para quem tem pelos no pescoço e na mandíbula mudando de direção de um jeito que os barbeadores de folha não resolvem."
+    },
+    {
+      "label": "Para barba cerrada e de crescimento rápido, com uso diário",
+      "offerId": "braun-series-9-pro-plus",
+      "reason": "Cinco elementos de corte, incluindo o ProLift para pelos deitados, e a estação Clean&Charge inclusa entregam a cobertura de folha mais completa e a manutenção mais tranquila desta comparação."
+    },
+    {
+      "label": "Para quem quer folha premium sem custo recorrente de estação",
+      "offerId": "panasonic-lamdash-es-ls9a",
+      "reason": "Sistema de corte de quatro elementos com aparador ProLift e vedação total contra água, vendido sem o ciclo de cartuchos da Clean&Charge — o menor custo contínuo da faixa premium."
+    },
+    {
+      "label": "Para o primeiro barbeador elétrico, com orçamento apertado",
+      "offerId": "philips-series-5000-sp5588",
+      "reason": "Tecnologia rotativa AquaTouch para uso seco e molhado a preço baixo, com a lâmina de reposição mais barata desta comparação — o jeito racional de testar o rotativo antes de encarar o Series 9000."
+    },
+    {
+      "label": "Para a faixa intermediária, com AutoSense e Clean&Charge",
+      "offerId": "braun-series-7-71-s7200cc",
+      "reason": "Motor adaptativo AutoSense e estação Clean&Charge inclusa por cerca de metade do preço do Series 9 Pro+, para barbas médias a moderadamente cerradas."
+    }
+  ]
 }

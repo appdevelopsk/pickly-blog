@@ -1,5 +1,132 @@
 {
   "title": "Mejor aire acondicionado portátil 2026: 5 modelos comparados",
   "description": "Comparativa de fichas técnicas: Midea Duo, Whynter ARC-14S, LG, Honeywell y Black+Decker. Qué significa realmente ASHRAE frente a SACC y por qué la doble manguera rinde más.",
-  "lede": "La potencia declarada no es la potencia real. Aquí está de dónde viene la diferencia y a qué tamaño de habitación corresponde cada uno de los cinco modelos."
+  "lede": "La potencia declarada no es la potencia real. Aquí está de dónde viene la diferencia y a qué tamaño de habitación corresponde cada uno de los cinco modelos.",
+  "methodology": "No hemos realizado nuestras propias pruebas térmicas ni de carga. Hacerlo con honestidad exigiría una cámara psicrométrica calibrada para los aires acondicionados y un banco con célula de carga instrumentada para las máquinas Smith, y no disponemos de ninguna de las dos. Lo que sí hicimos: recopilar todas las especificaciones publicadas en las páginas de producto y los manuales de cada fabricante, contrastar los precios actuales con los de las principales tiendas y leer opiniones de propietarios en volumen, filtrando aquellas que describen un fallo medible o una queja recurrente en lugar de una impresión de la primera semana. Cuando una cifra es una afirmación del fabricante y no una medición independiente, lo indicamos en el texto.",
+  "sections": [
+    {
+      "heading": "BTU ASHRAE frente a SACC: la cifra que de verdad importa",
+      "paragraphs": [
+        "Los equipos portátiles se anuncian en BTU ASHRAE, un dato de laboratorio medido en condiciones que ignoran el calor que el propio aparato devuelve a la habitación. El Departamento de Energía de EE. UU. exige una segunda cifra, la SACC (capacidad de refrigeración ajustada por temporada), que tiene en cuenta la ganancia de calor del conducto y las infiltraciones. En los modelos de un solo tubo, la SACC suele situarse entre la mitad y dos tercios de la cifra ASHRAE.",
+        "Por eso un portátil de 8.000 BTU y un equipo de ventana de 8.000 BTU no son productos comparables. El de ventana va encajado en el hueco y expulsa el aire fuera de la envolvente; el portátil está dentro de la habitación, irradia en ella el calor del compresor y, en la versión de un solo tubo, toma el aire del condensador de la misma estancia que intenta enfriar, lo que hace entrar aire exterior sin acondicionar por cada rendija del edificio para reemplazarlo.",
+        "Regla práctica: al comparar un portátil con uno de ventana, busca la cifra SACC y tómala como la real. Al comparar portátiles entre sí, comparar ASHRAE con ASHRAE es válido siempre que tengas en cuenta también el número de tubos."
+      ]
+    },
+    {
+      "heading": "Un tubo frente a dos tubos",
+      "paragraphs": [
+        "Un equipo de un solo tubo hace pasar el aire de la habitación por el condensador y lo expulsa al exterior. Ese aire hay que reponerlo, y se repone con aire de fuera que se cuela por las rendijas. El resultado es que el portátil de un tubo deja la habitación en ligera presión negativa e importa de forma continua el calor que intenta eliminar.",
+        "Un equipo de dos tubos toma el aire del condensador del exterior por un conducto y lo expulsa por el otro, dejando la presión de la habitación prácticamente neutra. En este grupo, el Midea Duo y el Whynter ARC-14S son de dos tubos; el LG, el Honeywell y el Black+Decker son de un solo tubo.",
+        "La ventaja de los dos tubos crece con la diferencia de temperatura. Con calor moderado la diferencia es lo bastante pequeña como para ignorarla. En una habitación realmente calurosa marca la diferencia entre que el aparato dé abasto o que funcione sin parar sin llegar nunca a la temperatura de consigna."
+      ]
+    },
+    {
+      "heading": "Inverter frente a velocidad fija, y qué supone para el ruido",
+      "paragraphs": [
+        "Un compresor de velocidad fija solo tiene dos estados: a pleno rendimiento o parado. Alcanza la consigna, se para, la temperatura sube y vuelve a arrancar; cada arranque es el momento más ruidoso del ciclo. Un compresor inverter modula su potencia, así que una vez alcanzada la consigna se queda en un zumbido bajo y continuo en lugar de estar arrancando y parando.",
+        "El Midea Duo y el LG LP1419IVSM son inverter; el Whynter, el Honeywell y el Black+Decker, de velocidad fija. Si el aparato va a un dormitorio, esta distinción importa más que dos decibelios de diferencia en la cifra declarada, porque esa cifra se mide a plena potencia y no describe el comportamiento cíclico que realmente vas a oír a las tres de la madrugada."
+      ]
+    },
+    {
+      "heading": "Desagüe, salida de aire y la instalación de la que nadie habla",
+      "paragraphs": [
+        "Todo equipo portátil condensa agua. La mayoría de los modelos actuales evaporan buena parte de ella por la salida de aire, pero en ambientes húmedos todos acaban necesitando que se vacíe el depósito o que se lleve un tubo hasta un sumidero. Comprueba si el modelo admite desagüe continuo por gravedad antes de comprarlo: apañarlo después es un incordio.",
+        "El kit de ventana es el otro punto que se pasa por alto. Los kits incluidos encajan en ventanas de guillotina y correderas estándar; las ventanas abatibles suelen requerir un panel a medida. Sellar bien el kit importa más de lo que la mayoría espera, porque un kit sin sellar deja que el calor expulsado vuelva a entrar y anula una parte nada despreciable de la capacidad del aparato."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Merece la pena un portátil frente a uno de ventana?",
+      "a": "Solo cuando el de ventana no es viable: ventanas abatibles, restricciones del alquiler o una habitación entre las que necesitas moverlo. A igual capacidad declarada, el de ventana es más silencioso, más barato y bastante más eficiente, porque no está dentro de la habitación que enfría."
+    },
+    {
+      "q": "¿Necesito uno de dos tubos?",
+      "a": "Si la habitación se pone realmente calurosa a menudo, sí. Los dos tubos evitan que el aparato importe aire exterior para reponer el que expulsa. Con calor moderado o en una habitación pequeña y bien sellada, uno de un solo tubo basta y sale más barato."
+    },
+    {
+      "q": "¿Qué potencia necesito?",
+      "a": "Parte de la cifra SACC, no de la ASHRAE, y calcula unos 215 BTU por metro cuadrado en una habitación normal. Suma capacidad si la estancia recibe mucho sol, está bajo cubierta o es una cocina; resta si es una habitación interior en sombra."
+    },
+    {
+      "q": "¿Por qué la habitación nunca alcanza la temperatura fijada?",
+      "a": "Las tres causas habituales, por orden de frecuencia: un kit de ventana mal sellado que deja volver el calor expulsado, un equipo de un solo tubo que se queda corto para la carga térmica una vez contadas las infiltraciones, y un filtro obstruido. Revisa primero el sellado de la ventana: arreglarlo no cuesta nada."
+    }
+  ],
+  "products": {
+    "midea-duo-map14hs1tbl": {
+      "badge": "🏆 Mejor en conjunto",
+      "review": "El Midea Duo es la elección cuando la habitación se pone realmente caliente. Reúne las dos cosas que más importan —conductos de dos tubos y compresor inverter—, así que ni importa aire del exterior ni arranca ruidosamente al llegar a la consigna. El modo bomba de calor amplía su utilidad al entretiempo. Es el más caro del grupo y ocupa mucho.",
+      "pros": [
+        "Dos tubos e inverter: las dos prestaciones que cuentan",
+        "El modo bomba de calor cubre el uso con frío",
+        "Mantiene la consigna con calor de verdad"
+      ],
+      "cons": [
+        "El más caro del grupo",
+        "Grande y pesado"
+      ]
+    },
+    "whynter-arc-14s": {
+      "badge": "💰 Mejor relación calidad-precio en dos tubos",
+      "review": "El ARC-14S es la vía barata para tener dos tubos. Lleva el tiempo suficiente en el mercado como para que sus puntos débiles estén bien documentados en las opiniones de los usuarios, y hace lo importante: no despresuriza la habitación. Lo que se pierde es la modulación inverter, así que arranca y para de forma audible en vez de quedarse en un zumbido.",
+      "pros": [
+        "Dos tubos a menor precio",
+        "Larga trayectoria y comportamiento bien documentado",
+        "Diseño sencillo y fácil de reparar"
+      ],
+      "cons": [
+        "El compresor de velocidad fija cicla de forma audible",
+        "Panel de control anticuado"
+      ]
+    },
+    "lg-lp1419ivsm": {
+      "badge": "🔇 El más silencioso de un tubo",
+      "review": "El LG es la opción cuando el ruido es el factor decisivo y no resulta práctico montar dos tubos. El compresor dual inverter modula en lugar de ciclar, que es justo lo que se oye de noche. Al ser de un solo tubo, sigue importando aire de reposición, así que funciona mejor como equipo de dormitorio que en una habitación muy calurosa.",
+      "pros": [
+        "Compresor inverter, silencioso una vez en consigna",
+        "Buena app y programación",
+        "Buena calidad de fabricación"
+      ],
+      "cons": [
+        "El tubo único limita la capacidad con mucho calor",
+        "Precio alto para un equipo de un solo tubo"
+      ]
+    },
+    "honeywell-hl10cesw": {
+      "badge": "🛏️ Mejor para habitaciones pequeñas",
+      "review": "El Honeywell está dimensionado para un dormitorio, no para un salón, y así hay que interpretarlo. El modo solo deshumidificación es realmente útil en climas húmedos, donde la habitación no está caliente pero sí incómoda, y el filtro lavable mantiene bajo el coste de uso. No lo compres para una estancia grande o muy soleada.",
+      "pros": [
+        "Tamaño adecuado para un dormitorio pequeño",
+        "Modo solo deshumidificación muy útil",
+        "Filtro lavable"
+      ],
+      "cons": [
+        "Se queda corto en habitaciones grandes",
+        "Velocidad fija, cicla de forma audible"
+      ]
+    },
+    "blackdecker-bpact08wt": {
+      "badge": "💵 El más barato",
+      "review": "El BPACT08WT es la puerta de entrada, y es el equipo en el que la diferencia entre ASHRAE y SACC más daño hace a las expectativas: la capacidad real ronda la mitad de la cifra del titular. Comprado para una habitación pequeña, en sombra y bien sellada, cumple. Comprado fiándose del número de la caja, decepciona.",
+      "pros": [
+        "El precio más bajo de la selección",
+        "Ligero y fácil de mover",
+        "Controles sencillos"
+      ],
+      "cons": [
+        "La capacidad real queda muy por debajo de la cifra ASHRAE",
+        "Un solo tubo y velocidad fija",
+        "Sufre en cualquier estancia que no sea pequeña"
+      ]
+    }
+  },
+  "offerNotes": {
+    "midea-duo-map14hs1tbl": "Se vende con los nombres Duo y MAP14HS1TBL: revisa el código de modelo, porque la variante sin bomba de calor es casi idéntica por fuera.",
+    "whynter-arc-14s": "El ARC-14S y el ARC-14SH se diferencian por la función de calefacción; confirma a cuál corresponde el anuncio.",
+    "lg-lp1419ivsm": "LG indica en la ficha técnica tanto la cifra ASHRAE como la DOE/SACC: compara usando la DOE.",
+    "honeywell-hl10cesw": "Los códigos de modelo de esta gama de Honeywell varían según la tienda; fíjate en los BTU en lugar de en el sufijo.",
+    "blackdecker-bpact08wt": "Comprueba la cifra SACC del anuncio antes de calcular para qué habitación te sirve."
+  },
+  "pinDescription": "Los BTU de la caja de un aire portátil no son la potencia que vas a notar. Qué significa ASHRAE frente a SACC, por qué los dos tubos cambian tanto y 5 modelos comparados por las cifras que deciden si la habitación se enfría de verdad. ❄️"
 }

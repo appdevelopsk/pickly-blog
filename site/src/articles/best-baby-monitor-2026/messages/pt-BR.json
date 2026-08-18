@@ -98,5 +98,114 @@
     "babysense-v65": "Opção econômica sem WiFi — 18.900 ienes, monitor de bebê de rádio dedicado sem WiFi com tela parental de 5 polegadas, vídeo 720p, câmera de posição fixa de 110 graus (sem panorâmica nem inclinação), visão noturna infravermelha a 3–4 metros, áudio bidirecional com VOX, 8 canções de ninar predefinidas, sensor de temperatura, expansível para 4 câmeras, sem WiFi, sem app, sem nuvem, sem assinatura. Sem recursos de IA; câmera de posição fixa sem panorâmica nem inclinação; a bateria da tela parental se degrada após 12–18 meses; reconhecimento de marca mais fraco que Anker Eufy ou Cubo Ai."
   },
   "pinDescription": "Cinco monitores de bebê comparados em 2026 do Anker Eufy SpaceView Pro de 17.800 ienes ao Nanit Pro de 45.000 ienes. Detecção de rosto virado para baixo com IA vs vídeo em streaming vs arquitetura sem WiFi, o compromisso de segurança das câmeras WiFi, custos de assinatura mensal que o preço da caixa esconde, e as regras de segurança que cada página de marketing ignora — incluindo por que um monitor de bebê não é um dispositivo médico e não previne o SMSL.",
-  "methodology": "Avaliamos cada produto quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. Comparamos as especificações do fabricante com avaliações verificadas de quem já comprou."
+  "methodology": "Avaliamos cada produto quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. Comparamos as especificações do fabricante com avaliações verificadas de quem já comprou.",
+  "products": [
+    {
+      "offerId": "cubo-ai-plus",
+      "badge": "Melhor detecção de rosto coberto por IA",
+      "review": "A Cubo Ai Plus é a única câmera desta lista cuja detecção por IA de rosto coberto, virada de barriga para baixo e zona de perigo realmente muda a rotina de monitoramento de bebês de 4 a 12 meses, justamente na fase em que eles começam a rolar. A câmera 1080p com campo de visão de 130 graus transmite por WiFi para o app do celular, o modelo de IA foi treinado com dezenas de milhares de amostras de vídeo de quartos de bebê, e as 18 canções de ninar somadas ao áudio bidirecional cobrem tudo o que uma babá eletrônica tradicional faz. O custo em 5 anos é o que o preço da caixa esconde: o valor do aparelho mais a assinatura mensal do Cubo Ai Plus Care depois do teste grátis de 6 a 12 meses dá mais ou menos o triplo do preço de compra — e sem a assinatura, os recursos de IA que justificam o preço premium simplesmente somem. A dependência do serviço em nuvem é estrutural, e os 1 a 3 alertas falsos por noite típicos de bebês de 6 a 12 meses geram um cansaço real de tanto notificação.",
+      "pros": [
+        "Única câmera aqui com detecção por IA de rosto coberto, virada e zona de perigo treinada com amostras validadas de vídeo em quartos de bebê",
+        "Vídeo 1080p com campo de visão de 130 graus, áudio bidirecional e tampa física de privacidade",
+        "IA de classificação de choro diferencia fome, desconforto e choro de sono",
+        "Design em creme e tons pastel com cara de Pinterest, combina com quarto de bebê fotogênico"
+      ],
+      "cons": [
+        "A assinatura mensal do Cubo Ai Plus Care é obrigatória para os recursos de IA depois do teste grátis",
+        "A arquitetura WiFi + nuvem cria dependência total da nuvem da Cubo Ai (uma queda de vários dias em 2024 deixou milhares de pais sem acesso)"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "eufy-spaceview-pro",
+      "badge": "Melhor intermediária sem WiFi",
+      "review": "A Anker Eufy SpaceView Pro é a escolha sem WiFi para quem monitora o bebê de dentro de casa e não quer nem o modelo de segurança das câmeras conectadas nem assinatura mensal. A câmera 720p usa um link de rádio fechado em 2,4 GHz e envia a imagem para uma tela dedicada de 5 polegadas, com zoom digital de 4x, rotação e inclinação de 110 graus e visão noturna infravermelha que rende 4 a 5 metros em condições reais de quarto. Tem áudio bidirecional com VOX, 8 canções de ninar, dá para expandir até 4 câmeras em uma única tela, e a bateria da tela dura 12 horas em uso normal. Não há nenhuma visualização remota — você não consegue ver o bebê fora do alcance do rádio — nem detecção de rosto coberto por IA. A reputação da Anker em qualidade de hardware justifica o preço intermediário, e a ausência de configuração de WiFi, app e conta na nuvem é justamente o argumento de venda.",
+      "pros": [
+        "Zero WiFi, nuvem, app ou assinatura — link de rádio fechado em 2,4 GHz com tela dedicada",
+        "Rotação e inclinação de 110 graus com zoom digital de 4x em tela de 5 polegadas",
+        "Expansível até 4 câmeras em uma só tela, ideal para vários cômodos ou gêmeos",
+        "A engenharia de hardware da Anker justifica o preço intermediário"
+      ],
+      "cons": [
+        "Nenhuma visualização remota — não dá para ver o bebê fora do alcance do rádio",
+        "A resolução de 720p fica visivelmente abaixo do padrão 1080p das câmeras WiFi na tela de 5 polegadas"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "nanit-pro-smart-camera",
+      "badge": "Melhor para análise do sono",
+      "review": "A Nanit Pro Smart Camera é a opção para quem gosta de dados — vídeo 1080p HDR com campo de visão de 130 graus, detecção do movimento respiratório por IA usando visão computacional na região do peito (sem sensor vestível), pontuação de qualidade do sono e acompanhamento de crescimento pelo Nanit Smart Sheet. A integração com Apple HomeKit e Google Home funciona nos dois casos. O preço do aparelho mais a assinatura mensal do Nanit Insights é o custo visível, mas o custo escondido é a Nanit Breathing Wear, exigida pela detecção respiratória por IA — vendida por peça e que o bebê deixa de caber a cada 3 ou 4 meses. Sem a Breathing Wear, a câmera vira apenas um monitor de vídeo com alertas de movimento. A fixação na parede acima do berço exige furar, o que a maioria dos contratos de aluguel proíbe.",
+      "pros": [
+        "Detecção do movimento respiratório por IA via visão computacional (sem sensor vestível)",
+        "Vídeo 1080p HDR com pontuação detalhada da qualidade do sono e acompanhamento de crescimento",
+        "Integração funcional com Apple HomeKit e Google Home",
+        "Biblioteca Nanit Sound + ruído branco e áudio bidirecional"
+      ],
+      "cons": [
+        "A Nanit Breathing Wear necessária para a detecção respiratória por IA é vendida por peça e fica pequena a cada 3 ou 4 meses",
+        "A fixação na parede acima do berço exige furar, o que a maioria dos aluguéis proíbe"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "owlet-cam-2",
+      "badge": "Melhor para o ecossistema Owlet",
+      "review": "A Owlet Cam 2 é a câmera WiFi de streaming para quem quer especificamente a marca e o ecossistema Owlet — geralmente porque também está avaliando a Owlet Dream Sock para acompanhar oximetria de pulso (vendida à parte). A câmera 1080p HDR com campo de visão de 130 graus transmite para o app Owlet Dream, com áudio bidirecional, alertas de movimento e som com sensibilidade ajustável, visão noturna infravermelha de 3 a 4 metros e integração com Apple HomeKit. Vale saber do histórico da empresa: em 2021 a Owlet recebeu uma carta de advertência do FDA por divulgar a Smart Sock original como dispositivo de prevenção de morte súbita sem autorização médica — a Cam 2 atual é liberada pelo FDA como eletrônico de bem-estar, não como dispositivo médico nem de prevenção de morte súbita. Não tem detecção por IA de rosto coberto ou de virada. O histórico de vídeo na nuvem exige a assinatura mensal Owlet Premium.",
+      "pros": [
+        "Vídeo 1080p HDR com campo de visão de 130 graus e integração com Apple HomeKit",
+        "Integra com a Owlet Dream Sock para quem quer acompanhar oximetria de pulso",
+        "A assinatura opcional Owlet Premium custa menos que o Cubo Ai Plus Care",
+        "Preço de entrada menor que o da Cubo Ai Plus ou da Nanit Pro"
+      ],
+      "cons": [
+        "Sem detecção por IA de rosto coberto ou de virada — apenas alertas de movimento",
+        "Depende de WiFi para conectar câmera e app, sem modo local alternativo"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "babysense-v65",
+      "badge": "Melhor custo-benefício sem WiFi",
+      "review": "A Babysense V65 de 5 polegadas é a babá eletrônica de rádio dedicado sem WiFi mais barata com tela de 5 polegadas nesta comparação. Vídeo 720p, câmera fixa com 110 graus (sem rotação nem inclinação), visão noturna infravermelha de 3 a 4 metros, áudio bidirecional com VOX, 8 canções de ninar, sensor de temperatura e expansão até 4 câmeras. A Babysense vende pelos grandes varejistas online com 1 ano de garantia no país. Nenhum recurso de IA — só alertas de movimento e ativação por som. Como a câmera é fixa, você define o ângulo na instalação e aceita que o bebê vai sair do enquadramento quando começar a engatinhar. A bateria da tela, anunciada como 8 horas, cai para 4 ou 5 horas depois de 12 a 18 meses, e telas de reposição vivem em falta de estoque.",
+      "pros": [
+        "Preço mais baixo entre as opções sem WiFi com tela de 5 polegadas",
+        "Zero WiFi, nuvem, app ou assinatura, com 1 ano de garantia no país",
+        "Expansível até 4 câmeras em uma única tela",
+        "20 anos de experiência da Babysense em babás eletrônicas de áudio e vídeo"
+      ],
+      "cons": [
+        "Câmera fixa sem rotação nem inclinação — o bebê sai do enquadramento quando começa a engatinhar",
+        "Marca menos conhecida que a Anker Eufy, com respostas de suporte que levam de 1 a 3 semanas"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para pais de bebês de 4 a 12 meses na fase de rolar que querem alertas de segurança por IA",
+      "offerId": "cubo-ai-plus",
+      "reason": "A detecção por IA de rosto coberto e de virada é o único recurso desta comparação que realmente muda o monitoramento nos meses de maior risco."
+    },
+    {
+      "label": "Para quem quer fugir de câmeras WiFi e de assinatura mensal",
+      "offerId": "eufy-spaceview-pro",
+      "reason": "O link de rádio fechado em 2,4 GHz com tela dedicada de 5 polegadas elimina de uma vez toda a superfície de risco das câmeras WiFi e o custo de assinatura."
+    },
+    {
+      "label": "Para quem valoriza mesmo a análise da qualidade do sono",
+      "offerId": "nanit-pro-smart-camera",
+      "reason": "A pontuação do sono e o acompanhamento de crescimento com o Smart Sheet são exclusivos aqui, se você puder furar a parede e couber a Breathing Wear no orçamento."
+    },
+    {
+      "label": "Para quem também está avaliando a Owlet Dream Sock para oximetria",
+      "offerId": "owlet-cam-2",
+      "reason": "A Cam 2 integra com a Dream Sock e divide o app Owlet Dream — esse é o motivo estrutural para escolhê-la no lugar da Cubo Ai ou da Nanit."
+    },
+    {
+      "label": "Para a babá eletrônica sem WiFi mais barata com tela de 5 polegadas",
+      "offerId": "babysense-v65",
+      "reason": "A opção de rádio dedicado sem WiFi mais barata daqui com tela de 5 polegadas — para quem não precisa de rotação da câmera nem de recursos de IA."
+    }
+  ]
 }

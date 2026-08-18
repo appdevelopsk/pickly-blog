@@ -66,5 +66,109 @@
     "speed-and-agility-pro-ladder": "Degraus de alumínio, 15 pés, espaçamento ajustável. $40-60. Melhor para uso ao ar livre em grama e instalações comerciais. O alumínio fica plano sem estacas no chão. Custo maior justificado apenas para ambientes de uso diário de alta frequência."
   },
   "pinDescription": "Comparação de escadas de agilidade 2026: SKLZ vs Perfect Fitness vs Yes4All vs Toezone vs Speed & Agility Pro — degraus planos vs elevados, cartões de exercícios, alumínio vs plástico, e qual melhora realmente a velocidade e coordenação.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "products": [
+    {
+      "offerId": "sklz-quick-ladders",
+      "badge": "Melhor no geral",
+      "review": "A SKLZ é a escada de agilidade que os treinadores realmente usam, do futebol de base às estruturas de esporte universitário, e o esquema amarelo e preto virou o padrão visual de programas organizados. O layout de 4,6 m com 11 quadrados e espaçamento ajustável entre os degraus cobre todos os exercícios clássicos, e os degraus planos de plástico ficam rentes ao chão, sem o risco de torção de tornozelo que os modelos com degrau elevado criam. Vem com bolsa de transporte. A vantagem da marca é dupla: ela é vendida em lojas físicas de artigos esportivos, não só online, e é tão onipresente no meio técnico que praticamente todo vídeo de exercício que você acha no YouTube foi gravado nessa escada.",
+      "pros": [
+        "4,6 m, 11 quadrados e espaçamento de degraus ajustável",
+        "Degraus planos de plástico eliminam o risco de torcer o tornozelo em alta velocidade",
+        "Equipamento padrão na maioria dos programas de treinamento organizados",
+        "Bolsa de transporte inclusa"
+      ],
+      "cons": [
+        "Não acompanha cartela de exercícios nem material instrucional"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "perfect-fitness-agility-ladder",
+      "badge": "Melhor para quem treina sozinho",
+      "review": "A Perfect Fitness entrega basicamente a mesma escada de 11 quadrados com degraus planos de plástico da SKLZ, mas acompanhada de uma cartela com 42 exercícios. Para quem não tem um treinador ditando as sequências, essa cartela é o diferencial de verdade — ela cobre a progressão desde o básico de dois pés em cada quadrado até níveis intermediários como ickey shuffle, tesoura e variações do drill em T. O acabamento é comparável ao da SKLZ e o preço costuma ficar igual ou abaixo, então a escolha entre as duas se resume a uma pergunta: você já tem uma programação de treino em mãos?",
+      "pros": [
+        "Inclui cartela com 42 exercícios para quem treina por conta própria",
+        "Mesma construção de degrau plano com espaçamento ajustável das escadas preferidas dos treinadores",
+        "Costuma custar o mesmo que a SKLZ ou menos",
+        "Bolsa de transporte inclusa"
+      ],
+      "cons": [
+        "A cartela de exercícios não agrega nada se você já segue o programa de um treinador"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "yes4all-agility-ladder",
+      "badge": "Melhor para exercícios de percurso longo",
+      "review": "A Yes4All é a única escada da seleção com uma opção real de 6 m, além dos comprimentos padrão de 3 m e 4,6 m. Esse extra faz diferença justamente em exercícios de aceleração e sequências mais longas, que não se desenvolvem direito quando os degraus acabam no meio do movimento. A construção é comparável à das outras opções em plástico plano, o espaçamento entre degraus é ajustável e a variedade de comprimentos permite escolher a ferramenta conforme o espaço de treino e os exercícios, em vez de se virar com um tamanho único.",
+      "pros": [
+        "Disponível em 3, 4,6 e 6 m para se adaptar ao seu espaço de treino",
+        "A versão de 6 m dá conta de exercícios de aceleração e sequências longas",
+        "Espaçamento de degraus ajustável em todos os comprimentos",
+        "Preço na mesma faixa das escadas padrão de 4,6 m"
+      ],
+      "cons": [
+        "Os degraus de plástico mais leve podem escorregar em piso liso de ginásio sem peso extra"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "toezone-agility-ladder",
+      "badge": "Melhor para treinadores de equipe",
+      "review": "A Toezone usa degraus de plástico um pouco mais pesados que as escadas de entrada e foi pensada para o contexto de equipe, em que 15 ou mais atletas podem passar pela mesma escada toda semana. O peso extra dos degraus mantém tudo mais rente ao chão sem precisar de estacas, o que importa quando o treino vai para a grama irregular ao ar livre. Para uso individual em casa, essa robustez é exagero; mas para treinadores de categorias de base e centros de treinamento em pequenos grupos, a durabilidade ao longo de centenas de sessões se traduz direto em menos gasto com reposição.",
+      "pros": [
+        "Degraus mais pesados ficam rentes ao chão na área externa, sem estacas",
+        "Feita para uso intenso em equipe, ao longo de centenas de sessões",
+        "Reduz o custo de reposição em treinamento de grupo"
+      ],
+      "cons": [
+        "A construção mais pesada é desnecessária para treino individual em casa",
+        "Custa mais que as escadas de plástico de entrada"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "speed-and-agility-pro-ladder",
+      "badge": "Melhor para área externa / uso comercial",
+      "review": "A Speed & Agility Pro troca os degraus de plástico por alumínio, a mesma construção usada em programas esportivos profissionais. Os degraus de alumínio ficam mais rentes na grama sem estacas, não saem voando com o vento e cedem um pouco mais sob o pé que o plástico rígido. Os 4,6 m com espaçamento ajustável cobrem os padrões de exercício habituais. Para treino externo na grama ou centros comerciais com sessões diárias em grupo, o peso e a durabilidade justificam pagar mais. Para a maioria dos atletas treinando sozinhos na quadra ou na garagem, o ganho em relação ao plástico é mínimo.",
+      "pros": [
+        "Degraus de alumínio ficam rentes na grama sem estacas",
+        "Resiste a vento e intempéries para uso ao ar livre",
+        "Mais durável que o plástico para sessões comerciais diárias"
+      ],
+      "cons": [
+        "Custa de 2 a 3 vezes o preço das alternativas com degrau de plástico",
+        "O ganho sobre o plástico é mínimo no uso individual em ambiente fechado"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para atletas que seguem um programa estruturado com treinador",
+      "offerId": "sklz-quick-ladders",
+      "reason": "É a escada que a maioria dos treinadores e vídeos de exercício realmente usa, então seu equipamento bate com qualquer programação que te passarem."
+    },
+    {
+      "label": "Para quem treina sozinho e não tem uma programação pronta",
+      "offerId": "perfect-fitness-agility-ladder",
+      "reason": "A cartela com 42 exercícios substitui o treinador ausente por um roteiro estruturado do iniciante ao intermediário."
+    },
+    {
+      "label": "Para exercícios de aceleração e sequências longas",
+      "offerId": "yes4all-agility-ladder",
+      "reason": "A opção de 6 m dá conta de exercícios que não se desenvolvem direito se a escada de 4,6 m acabar no meio da repetição."
+    },
+    {
+      "label": "Para treinadores de base e treino em grupo",
+      "offerId": "toezone-agility-ladder",
+      "reason": "Os degraus mais pesados aguentam centenas de sessões com 15 ou mais atletas passando e ficam rentes na grama ao ar livre."
+    },
+    {
+      "label": "Para treino diário na grama ao ar livre",
+      "offerId": "speed-and-agility-pro-ladder",
+      "reason": "Os degraus de alumínio não saem do lugar com o vento e ficam mais rentes na grama que o plástico, o que conta em alta velocidade na área externa."
+    }
+  ]
 }

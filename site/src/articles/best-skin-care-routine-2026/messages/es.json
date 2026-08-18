@@ -110,5 +110,114 @@
     "anessa-sunscreen-spf50": "Anessa Perfect UV Sunscreen Milk SPF50+PA++++: sistema de filtro UV de silicona híbrida con tecnología Aqua Booster EX, se fortalece en contacto con el sudor y el agua. No comedogénico para uso facial, textura de leche cosméticamente elegante. Disponible en grandes minoristas en línea. Contiene alcohol (etanol) que hace que este protector solar sea inadecuado para pieles reactivas, propensas a la rosácea o sensibles al alcohol; la botella de 60 ml es pequeña para algo más que la aplicación solo en el rostro.",
     "the-ordinary-niacinamide": "The Ordinary Niacinamide 10% + Zinc 1%: sérum a base de agua, niacinamida al 10% para control del sebo, apariencia de los poros y uniformidad del tono, zinc PCA al 1% para la regulación del sebo. Una de las mejores relaciones costo-base de evidencia en el cuidado de la piel sin receta. Disponible en grandes minoristas en línea. A una concentración del 10%, la niacinamida puede causar rubor temporal en usuarios con sensibilidad a la niacina; contiene silicona (dimeticona) en la base."
   },
-  "methodology": "Evaluamos cada producto según la transparencia de sus ingredientes, su historial dermatológico, la coherencia de los resultados en usuarios reales, la calidad del envase y la relación calidad-precio por uso."
+  "methodology": "Evaluamos cada producto según la transparencia de sus ingredientes, su historial dermatológico, la coherencia de los resultados en usuarios reales, la calidad del envase y la relación calidad-precio por uso.",
+  "products": [
+    {
+      "offerId": "cetaphil-gentle-skin-cleanser",
+      "badge": "El limpiador por defecto de los dermatólogos",
+      "review": "Cetaphil Gentle Skin Cleanser es el limpiador que sostiene toda la rutina. Su mezcla suave de tensioactivos —alcohol cetílico, alcohol estearílico, propilenglicol y lauril sulfato de sodio en concentraciones bajas— retira el sebo superficial y el protector solar del día anterior sin alterar el manto ácido del que depende el resto de la rutina. Sin perfume, no comedogénico y en la lista corta de recomendaciones dermatológicas desde los años ochenta. El bote de 591 ml ofrece un coste por uso que la categoría de espumas cosméticas ni se acerca a igualar. La contrapartida es sensorial: la textura de poca espuma tarda entre 2 y 4 semanas en convencer a quien viene de limpiadores muy espumosos, y en días de SPF50+ generoso lo realista es añadir una desmaquillante previo con agua micelar o un aceite limpiador.",
+      "pros": [
+        "La mezcla suave de tensioactivos respeta el manto ácido incluso usándolo dos veces al día",
+        "Sin perfume y no comedogénico: apto para piel sensible y posprocedimiento",
+        "En la lista de recomendaciones de la AAD desde los años ochenta, con historial publicado",
+        "El bote de 591 ml da un coste por uso excepcional"
+      ],
+      "cons": [
+        "La textura de poca espuma exige semanas de adaptación si estás acostumbrado a mucha espuma",
+        "No retira por sí solo un SPF50+ denso ni el maquillaje resistente al agua: necesita una limpieza previa"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "hada-labo-gokujyun-lotion",
+      "badge": "El mejor sérum hidratante",
+      "review": "The Ordinary Hyaluronic Acid 2% + B5 es el sérum hidratante que justifica dedicar un paso entero a la hidratación. La fórmula combina ácido hialurónico de varios pesos moleculares para retener agua a distintas profundidades del estrato córneo, con vitamina B5 (pantenol) como humectante de apoyo y componente calmante. Sin perfume, base acuosa, textura ligera. Aporta a la rutina un colchón de hidratación entre el limpiador y la crema, de modo que el sérum de niacinamida se absorbe en lugar de quedarse encima. La contrapartida honesta: en ambientes de baja humedad el hialurónico superficial puede tirar del agua de las capas profundas si no se sella con una crema oclusiva, así que el paso de CeraVe posterior no es opcional.",
+      "pros": [
+        "Ácido hialurónico de varios pesos moleculares para hidratar por capas a distintas profundidades del estrato córneo",
+        "Fórmula sin perfume, acuosa y ligera, compatible con casi todos los tipos de piel",
+        "La vitamina B5 (pantenol) suma efecto humectante y calmante",
+        "Prepara la piel para que el sérum de niacinamida y la crema posteriores se absorban mejor"
+      ],
+      "cons": [
+        "En ambientes secos el hialurónico superficial puede tirar de las capas profundas si no se sella después",
+        "El acabado pegajoso antes de secar resulta molesto si te pasas de cantidad"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "cerave-moisturizing-cream",
+      "badge": "La mejor crema con ceramidas",
+      "review": "CeraVe Moisturizing Cream es la crema que aparece en los materiales divulgativos de la AAD, en las hojas de cuidados posprocedimiento de las clínicas dermatológicas y en el neceser de los propios dermatólogos cuando comparten su rutina personal. La tecnología MultiVesicular Emulsion (MVE) libera ceramida NP, ceramida AP, ceramida EOP, colesterol y ácido hialurónico de forma sostenida durante varias horas, en vez de soltarlo todo en los primeros minutos tras la aplicación. El complejo de ceramidas reproduce las proporciones lipídicas fisiológicas de la piel, el enfoque con más respaldo científico para reparar la barrera en la práctica dermatológica actual. No comedogénica. La fórmula densa en tarro es la elección correcta para piel seca, con tendencia atópica o con la barrera dañada; las pieles grasas y mixtas en veranos húmedos quizá prefieran la variante en loción para el día.",
+      "pros": [
+        "La MultiVesicular Emulsion libera ceramidas NP, AP y EOP, colesterol y ácido hialurónico durante horas",
+        "Las proporciones de ceramidas reproducen el perfil lipídico de la propia piel",
+        "No comedogénica y evaluada en estudios publicados sobre piel sensible y con tendencia atópica",
+        "La textura de crema densa funciona en piel seca y con la barrera dañada durante los inviernos húmedos"
+      ],
+      "cons": [
+        "La textura densa puede formar bolitas bajo el protector solar en piel grasa y verano húmedo",
+        "El envase en tarro obliga a usar espátula limpia o acaba contaminándose con los dedos"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "anessa-sunscreen-spf50",
+      "badge": "El mejor protector solar diario",
+      "review": "Anessa Perfect UV Sunscreen Milk SPF50+ PA++++ es el buque insignia de esta filial de Shiseido y el protector solar que más se usa como referencia. La tecnología Aqua Booster EX combina una red de siliconas con filtros UV químicos híbridos que se refuerzan al contacto con el sudor y el agua en lugar de degradarse: una diferencia real de ingeniería frente a los solares que se van en la primera hora de calor. SPF50+ PA++++ es el nivel máximo de protección del sistema japonés de clasificación. La textura de leche se absorbe sin el velo blanco pesado de los filtros minerales y se asienta limpiamente sobre la crema de CeraVe sin formar bolitas. Las contrapartidas son claras: el contenido en etanol lo descarta para pieles reactivas, con rosácea o sensibles al alcohol, y con 60 ml el precio por mililitro es bastante más alto que el de las alternativas coreanas o europeas con SPF50+.",
+      "pros": [
+        "Aqua Booster EX se refuerza al contacto con el sudor y el agua en lugar de degradarse",
+        "SPF50+ PA++++ es el nivel máximo del sistema japonés de clasificación",
+        "La textura de leche se absorbe limpia, sin el velo blanco pesado de los filtros minerales",
+        "Se asienta sobre cremas con ceramidas sin formar bolitas: una ventaja práctica real"
+      ],
+      "cons": [
+        "El etanol lo hace poco adecuado para pieles reactivas, con rosácea o sensibles al alcohol",
+        "El envase de 60 ml sale bastante más caro por mililitro que las alternativas coreanas o europeas"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "the-ordinary-niacinamide",
+      "badge": "El activo con mejor relación calidad-precio",
+      "review": "The Ordinary Niacinamide 10% + Zinc 1% se gana su sitio en esta rutina mínima porque la niacinamida al 4-10 % tiene la base de evidencia publicada más amplia de todos los ingredientes de sérum de venta libre para piel mixta y grasa. Los estudios clínicos publicados muestran que la niacinamida tópica ayuda a regular el sebo, reduce la apariencia de los poros dilatados, favorece la uniformidad del tono y apoya la barrera al estimular la síntesis de ceramidas. El zinc PCA al 1 % suma un efecto seborregulador enfocado en la zona T. Base acuosa, textura ligera y compatible con los otros cuatro productos sin necesidad de malabarismos con el orden de aplicación. A un precio contenido por cada 30 ml en las grandes tiendas online, la relación entre coste y evidencia es la mejor de toda la rutina. El cuentagotas es algo menos preciso que un dosificador, y al 10 % quien tenga sensibilidad real a la niacina debería empezar con una aplicación al día.",
+      "pros": [
+        "La niacinamida al 10 % cuenta con amplia evidencia publicada sobre sebo y apariencia de los poros",
+        "El zinc PCA al 1 % añade regulación del sebo en la zona T",
+        "Fórmula acuosa compatible con los otros cuatro productos sin malabarismos de orden",
+        "La mejor relación entre coste y evidencia de todos los activos de la rutina por cada 30 ml"
+      ],
+      "cons": [
+        "El cuentagotas hace que dosificar sea algo menos preciso que con un dosificador",
+        "Al 10 % puede provocar rubor en quienes tienen sensibilidad real a la niacina: empieza una vez al día"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para la limpieza básica de cualquier rutina mínima",
+      "offerId": "cetaphil-gentle-skin-cleanser",
+      "reason": "La mezcla suave de tensioactivos recomendada por la AAD respeta el manto ácido del que depende el resto de la rutina, y el bote de 591 ml da un coste por uso que la categoría de espumas cosméticas no alcanza."
+    },
+    {
+      "label": "Para pieles que quedan tirantes o deshidratadas entre el limpiador y la crema",
+      "offerId": "hada-labo-gokujyun-lotion",
+      "reason": "El ácido hialurónico de varios pesos moleculares con vitamina B5 crea un colchón de hidratación en el que el sérum de niacinamida se absorbe en lugar de quedarse encima."
+    },
+    {
+      "label": "Para piel seca, con tendencia atópica o con la barrera dañada",
+      "offerId": "cerave-moisturizing-cream",
+      "reason": "Las ceramidas NP, AP y EOP más colesterol liberadas mediante MultiVesicular Emulsion reproducen las proporciones lipídicas de la propia piel: el enfoque con más respaldo científico para reparar la barrera."
+    },
+    {
+      "label": "Para la protección solar diaria, que no se negocia",
+      "offerId": "anessa-sunscreen-spf50",
+      "reason": "SPF50+ PA++++ es el nivel máximo japonés y la película Aqua Booster EX se refuerza al contacto con el sudor y el agua a lo largo del día en lugar de degradarse."
+    },
+    {
+      "label": "Para piel grasa, mixta o con poros visibles",
+      "offerId": "the-ordinary-niacinamide",
+      "reason": "La niacinamida al 10 % con zinc PCA al 1 % ayuda a regular el sebo, la apariencia de los poros y la uniformidad del tono con la mejor relación coste-evidencia de la rutina."
+    }
+  ]
 }

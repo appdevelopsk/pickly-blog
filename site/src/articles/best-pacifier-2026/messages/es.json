@@ -2,5 +2,145 @@
   "title": "Mejor chupete 2026: 5 comparados",
   "description": "Comparamos Philips Avent, Natursutten, NUK, MAM, BIBS. Esto es lo que realmente destaca en tasa de aceptación y seguridad del material para chupete en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Tipos de material y seguridad",
+      "paragraphs": [
+        "Silicona 100% (Philips Avent, MAM, NUK, BIBS): la opción más habitual, apta para lavavajillas y sin BPA.",
+        "Caucho natural (Natursutten): más flexible que la silicona, biodegradable y sin nada de plástico. A algunos bebés les gusta más ese tacto blando.",
+        "Los cinco están libres de BPA y cumplen las normas de seguridad aplicables. La elección depende de tus preferencias y de que el bebé lo acepte."
+      ]
+    },
+    {
+      "heading": "El mejor para cada situación",
+      "paragraphs": [
+        "Mejor estándar hospitalario: Philips Avent Soothie (5-10 €). Silicona de una sola pieza, usado en unidades neonatales.",
+        "Mejor material natural: Natursutten Natural Rubber (10-15 €). Caucho 100% natural, fabricado en Italia.",
+        "Mejor forma ortodóntica: NUK Orthodontic (5-10 €). Se adapta a la boca del bebé y es un clásico en Europa.",
+        "Mejor para la noche: MAM Perfect Night (8-12 €). Brilla en la oscuridad.",
+        "Mejor diseño: BIBS Pacifier (5-10 €). Diseño danés y muchos colores."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿El chupete interfiere con la lactancia?",
+      "a": "Los pediatras y las asesoras de lactancia suelen recomendar esperar a que la lactancia esté bien establecida (3-4 semanas) antes de ofrecer el chupete. Una vez establecida, el chupete no la afecta de forma significativa."
+    },
+    {
+      "q": "¿Cuándo hay que retirar el chupete?",
+      "a": "Se aconseja dejarlo entre los 18 y los 24 meses para evitar problemas de mordida. Muchas familias lo retiran antes, hacia los 12 meses, cuando el bebé aún no está tan apegado."
+    },
+    {
+      "q": "¿Cada cuánto se cambia el chupete?",
+      "a": "Cada 1-2 meses, o antes si ves grietas, cambios de color o una textura pegajosa. Revísalo después de cada ciclo de lavavajillas."
+    },
+    {
+      "q": "¿Silicona o caucho natural?",
+      "a": "Silicona: resistente, apta para lavavajillas y dura más. Caucho natural: más blando y biodegradable, y hay bebés que lo prefieren. Elige según lo que acepte el tuyo."
+    }
+  ],
+  "products": {
+    "philips-avent-soothie": {
+      "badge": "🏥 Estándar hospitalario",
+      "review": "El Philips Avent Soothie es el chupete que se usa en unidades neonatales de todo el mundo. Silicona de grado médico en una sola pieza, sin BPA, para 0-3 meses. El 'Soothie' es el que le dieron al bebé en el hospital: seguir con él en casa mantiene una referencia familiar.",
+      "pros": [
+        "Estándar hospitalario en todo el mundo",
+        "Silicona de una sola pieza (fácil de limpiar)",
+        "Sin BPA y con certificación sanitaria"
+      ],
+      "cons": [
+        "La talla 0-3 meses obliga a cambiar pronto",
+        "Diseño muy genérico"
+      ]
+    },
+    "natursutten-natural-rubber": {
+      "badge": "🌳 Mejor opción natural",
+      "review": "El Natursutten Natural Rubber es la elección lógica si quieres evitar la silicona y el plástico. Caucho 100% natural, sin plástico ni silicona, fabricado en Italia. Hay bebés que prefieren el tacto más blando del caucho. Además es biodegradable.",
+      "pros": [
+        "Caucho 100% natural",
+        "Sin nada de plástico",
+        "Fabricado en Italia"
+      ],
+      "cons": [
+        "Más caro que las alternativas de silicona",
+        "Menos duradero que la silicona"
+      ]
+    },
+    "nuk-pacifier": {
+      "badge": "🦷 Mejor forma ortodóntica",
+      "review": "El NUK Orthodontic tiene una forma ortodóntica que se adapta a la boca del bebé. Lleva décadas usándose en Europa: el diseño asimétrico encaja de forma natural con el paladar. La mejor opción si te preocupa el desarrollo de la mordida.",
+      "pros": [
+        "Forma ortodóntica",
+        "Décadas de uso en Europa",
+        "Varias tallas por edad"
+      ],
+      "cons": [
+        "Diseño asimétrico: hay que colocarlo bien",
+        "Algunos bebés rechazan esa forma"
+      ]
+    },
+    "mam-perfect-night": {
+      "badge": "🌙 Mejor para la noche",
+      "review": "El MAM Perfect Night está pensado para las noches. El plástico fluorescente te ayuda a encontrarlo a oscuras cuando el bebé lo escupe. Silicona ultrasuave y escudo de perfil fino.",
+      "pros": [
+        "Brilla en la oscuridad",
+        "Silicona ultrasuave",
+        "Escudo de perfil fino"
+      ],
+      "cons": [
+        "El material fluorescente necesita luz de vez en cuando",
+        "Algunos bebés rechazan la forma de MAM"
+      ]
+    },
+    "bibs-pacifier": {
+      "badge": "🎨 Mejor diseño",
+      "review": "El BIBS Pacifier es el chupete bonito de moda. Diseño danés, forma redonda clásica, más de 20 combinaciones de color y presencia fija entre las familias más estilosas. Tetina de caucho natural y escudo de plástico. El chupete más fotografiado de Instagram.",
+      "pros": [
+        "Diseño danés muy cuidado",
+        "Más de 20 combinaciones de color",
+        "Tetina de caucho natural"
+      ],
+      "cons": [
+        "Menos ergonómico que el NUK",
+        "Prioriza la estética sobre la función"
+      ]
+    }
+  },
+  "offerNotes": {
+    "philips-avent-soothie": "Disponible en philips.com, Amazon y grandes superficies de puericultura. Varias tallas por edad (0-3, 3+ y 6+ meses).",
+    "natursutten-natural-rubber": "Disponible en natursutten.com y tiendas especializadas de puericultura. Se vende en forma redondeada y ortodóntica.",
+    "nuk-pacifier": "Disponible en nuk.es, Amazon, farmacias y grandes superficies. Varias edades y formas.",
+    "mam-perfect-night": "Disponible en mambaby.com, Amazon y farmacias. Varias tallas por edad.",
+    "bibs-pacifier": "Disponible en bibsworld.com. Combinaciones de color que cambian cada temporada."
+  },
+  "pinDescription": "¿Qué chupete elegir? Comparamos Philips Avent Soothie, Natursutten, NUK, MAM Perfect Night y BIBS: forma de la tetina, material, edad y si aguantan lavavajillas y esterilizador. Guárdalo para la lista del bebé.",
+  "recommendedFor": [
+    {
+      "label": "Familias que continúan en casa los cuidados de neonatos",
+      "offerId": "philips-avent-soothie",
+      "reason": "Es el que reparten las unidades neonatales de todo el mundo, así que el bebé ya acepta la forma: cero fricción al volver a casa."
+    },
+    {
+      "label": "Familias que quieren evitar cualquier plástico",
+      "offerId": "natursutten-natural-rubber",
+      "reason": "Caucho 100% natural sin una sola pieza de plástico: totalmente biodegradable y la única opción para un hogar libre de plásticos."
+    },
+    {
+      "label": "Padres y madres preocupados por el desarrollo dental",
+      "offerId": "nuk-pacifier",
+      "reason": "El escudo ortodóntico asimétrico imita la succión natural y acumula décadas de recorrido en la odontopediatría europea."
+    },
+    {
+      "label": "Recién estrenados en la paternidad y con muchos despertares nocturnos",
+      "offerId": "mam-perfect-night",
+      "reason": "El escudo fluorescente te permite localizarlo y volver a ponerlo a oscuras, sin encender ninguna luz."
+    },
+    {
+      "label": "Quienes cuidan la estética y documentan al bebé en Instagram",
+      "offerId": "bibs-pacifier",
+      "reason": "El diseño redondo danés en más de 20 combinaciones de color lo ha convertido en el chupete más fotografiado de las redes."
+    }
+  ]
 }

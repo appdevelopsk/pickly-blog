@@ -107,5 +107,109 @@
     "anker-soundcore-3": "Anker Soundcore 3 — protección de inmersión IPX7, batería de 24 horas a volumen moderado, pareado estéreo con una segunda unidad, controladores compuestos de titanio. Ampliamente disponible en grandes minoristas en línea. La brecha de calidad de audio entre esta opción económica y las opciones de gama media y premium es audible — los controladores se comprimen notablemente a volúmenes altos al aire libre en comparación con JBL o Bose; la salida máxima es menor que otros altavoces en esta comparación, limitando el uso al aire libre en entornos ruidosos; IPX7 solo, sin protección certificada contra el polvo (IP67); sin cadena de múltiples altavoces más allá del pareado estéreo."
   },
   "pinDescription": "Verdad IP67 vs IPX7, realidad de duración de batería a volúmenes reales, audibilidad en exteriores, contexto de camping y playa. El audio al aire libre empieza aquí.",
-  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad."
+  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad.",
+  "products": [
+    {
+      "offerId": "jbl-flip-6",
+      "badge": "Todoterreno",
+      "grade": "A+",
+      "review": "El JBL Flip 6 es el altavoz Bluetooth compacto más equilibrado de la comparativa y el más fácil de recomendar sin matices. La protección IP67 frente a polvo y agua junto a las 12 horas de autonomía declaradas cubren el uso habitual en exteriores, los dos radiadores pasivos aportan cuerpo real en los graves sin recurrir a un procesado DSP agresivo, y el protocolo PartyBoost permite enlazarlo más adelante con un JBL Charge 5 o un Pulse 5 si quieres ampliar el sistema. La ecualización tira hacia los graves, pero sin llegar a tapar la voz, así que se deja escuchar con cualquier estilo y no queda encasillado en el EDM. El altavoz principal apunta hacia delante y no es realmente omnidireccional, de modo que quien se sitúe justo detrás pierde algo de volumen, y esas 12 horas se quedan cortas a volumen alto al aire libre. Por lo que cuesta, en gama media, no tiene ningún punto débil serio.",
+      "pros": [
+        "Protección IP67 frente a polvo y agua con una construcción muy sólida",
+        "PartyBoost permite ampliar más adelante con otros altavoces JBL",
+        "Ecualización equilibrada válida para cualquier estilo, no solo música de graves"
+      ],
+      "cons": [
+        "Las 12 horas de batería se quedan por debajo de lo que declaran Sony y Anker",
+        "No es un 360 grados real: quien esté justo detrás pierde volumen"
+      ]
+    },
+    {
+      "offerId": "sony-srs-xb33",
+      "badge": "Batería y graves",
+      "grade": "A",
+      "review": "El Sony SRS-XB33 es la opción si quieres que un solo altavoz aguante todo el día, buscas EXTRA BASS para bailar o escuchar hip-hop y te gusta la iluminación LED multicolor para las quedadas de noche. Las 24 horas de autonomía declaradas son generosas para el segmento, aunque la cifra real baja bastante en cuanto entran en juego los LED y el volumen alto en exteriores. El DSP EXTRA BASS engorda de verdad la zona grave a volumen moderado, pero lleva el altavoz al límite de su excursión a todo volumen, donde puede emborronar los medios en las voces. La certificación IP67 aguanta la arena de la playa, el micrófono integrado sirve para hablar en manos libres y Wireless Party Chain lo empareja con otros equipos Sony. El XB33 es más grande y pesado que el Flip 6 y el BOOM 3, lo que le resta comodidad para llevarlo de excursión.",
+      "pros": [
+        "24 horas declaradas de batería para sesiones largas a volumen moderado",
+        "El DSP EXTRA BASS da unos graves realmente más llenos para música de baile",
+        "Iluminación LED multicolor y micrófono integrado para llamadas"
+      ],
+      "cons": [
+        "EXTRA BASS a volumen alto puede emborronar los medios",
+        "Más grande y pesado que el Flip 6 o el BOOM 3, peor para excursiones"
+      ]
+    },
+    {
+      "offerId": "ultimate-ears-boom-3",
+      "badge": "360 grados real",
+      "grade": "A",
+      "review": "El Ultimate Ears BOOM 3 es el único altavoz de esta comparativa con altavoces omnidireccionales de 360 grados de verdad, lo que lo convierte en la mejor apuesta cuando se coloca en el centro del grupo en un cámping, un picnic o el salón, en lugar de apuntar a un solo oyente. La protección IP67 y las 15 horas de batería cubren casi cualquier sesión al aire libre, y MagicButton te deja configurar un acceso directo a una lista o emisora favorita sin desbloquear el móvil. El cuerpo cilíndrico rueda en superficies irregulares y es menos manejable que el formato plano del Flip 6 o del SoundLink Flex. Los graves cumplen, sin llegar a ser contundentes, y aunque flota, lo hace de lado en vez de en posición vertical, lo que resulta incómodo en la piscina. PartyUp lo enlaza con otros altavoces UE, pero solo dentro de la familia UE.",
+      "pros": [
+        "Altavoces omnidireccionales de 360 grados reales para colocarlo en el centro de la mesa",
+        "MagicButton: acceso directo a una lista o emisora favorita con un toque",
+        "Protección IP67 y 15 horas de batería"
+      ],
+      "cons": [
+        "El cuerpo cilíndrico rueda en superficies irregulares",
+        "Flota de lado en vez de en posición vertical"
+      ]
+    },
+    {
+      "offerId": "bose-soundlink-flex",
+      "badge": "Premium para exteriores",
+      "grade": "A",
+      "review": "El Bose SoundLink Flex es la opción más afinada para exteriores del grupo, con ecualización adaptativa PositionIQ que detecta si el altavoz está tumbado, de pie o colgado y reorganiza la escena sonora en consecuencia. El ajuste específico para exteriores hace que suene más grande de lo que su tamaño sugiere en espacios abiertos, y el diseño flotante lo mantiene boca arriba si acaba en aguas poco profundas de la playa o la piscina. La protección IP67 cubre arena y polvo. Como opción premium, es la más cara de la lista, sus 12 horas de batería empatan como las más cortas y el emparejamiento estéreo se limita a dos SoundLink Flex, sin cadenas amplias tipo PartyBoost. Algunas funciones dependen de la app Bose Music. Si vas a usarlo sobre todo al aire libre, el sobreprecio se justifica; si no, el Flip 6 ofrece casi lo mismo por menos.",
+      "pros": [
+        "La ecualización adaptativa PositionIQ ajusta la escena sonora a la posición",
+        "Diseño flotante que se mantiene boca arriba en el agua",
+        "Acústica pensada para exteriores: suena más grande de lo que aparenta"
+      ],
+      "cons": [
+        "Es la opción más cara de la comparativa",
+        "Solo se empareja con un segundo SoundLink Flex, sin protocolo de cadena amplia"
+      ]
+    },
+    {
+      "offerId": "anker-soundcore-3",
+      "badge": "Mejor relación calidad-precio",
+      "grade": "B+",
+      "review": "El Anker Soundcore 3 es la referencia económica de la comparativa: protección IPX7 frente a inmersión, 24 horas de batería declaradas a volumen moderado y emparejamiento estéreo con una segunda unidad para montar un L/R real, todo por menos de lo que cuesta un solo Flip 6. Los altavoces de compuesto de titanio se defienden bien con pódcast, música de fondo y listas para la hora del baño, pero comprimen de forma audible a volumen alto en exteriores frente al JBL o el Bose, y su potencia máxima queda por debajo de la del resto, algo que se nota en sitios ruidosos o con viento. IPX7 no incluye certificación de resistencia al polvo, así que un Flip 6 o un BOOM 3 encajan mejor en senderos polvorientos o con arena fina de playa. La conexión entre altavoces se queda en el emparejamiento estéreo. Para uso tranquilo en casa o junto a la piscina, es difícil discutirle el precio.",
+      "pros": [
+        "Precio ajustado con 24 horas de batería declaradas e IPX7 frente a inmersión",
+        "Emparejamiento estéreo con una segunda unidad para un L/R real",
+        "Los altavoces de compuesto de titanio se defienden bien con pódcast y música de fondo"
+      ],
+      "cons": [
+        "Compresión audible de los altavoces a volumen alto en exteriores",
+        "Solo IPX7: sin certificación frente al polvo para arena o suciedad fina"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Quien compra su primer altavoz y quiere uno que valga para todo",
+      "offerId": "jbl-flip-6",
+      "reason": "La protección IP67, una ecualización equilibrada para cualquier estilo y el margen de futuro que da PartyBoost lo convierten en la recomendación más sencilla, sin puntos débiles reseñables para lo que cuesta."
+    },
+    {
+      "label": "Cámping en solitario y uso en exteriores donde manda la batería",
+      "offerId": "sony-srs-xb33",
+      "reason": "Las 24 horas declaradas, el EXTRA BASS para la música y la iluminación LED para el ambiente cubren un día entero al aire libre cuando cargar no resulta práctico."
+    },
+    {
+      "label": "Grupos que colocan el altavoz en el centro de la reunión",
+      "offerId": "ultimate-ears-boom-3",
+      "reason": "Sus altavoces omnidireccionales de 360 grados reales reparten el mismo volumen en todas las direcciones en vez de concentrarlo hacia delante."
+    },
+    {
+      "label": "Playa, piscina y uso intensivo al aire libre",
+      "offerId": "bose-soundlink-flex",
+      "reason": "La ecualización adaptativa PositionIQ y un diseño flotante que se mantiene boca arriba lo convierten en la opción mejor afinada para exteriores, lo que justifica el sobreprecio si ese es su uso principal."
+    },
+    {
+      "label": "Quien mira primero el precio y quiere un altavoz para el baño",
+      "offerId": "anker-soundcore-3",
+      "reason": "Un precio ajustado con 24 horas de batería declaradas e IPX7 frente a inmersión es difícil de rebatir para escuchar música sin pretensiones en casa, en el baño o junto a la piscina."
+    }
+  ]
 }

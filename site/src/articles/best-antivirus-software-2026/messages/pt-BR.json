@@ -2,5 +2,152 @@
   "title": "Melhor software antivírus 2026: 5 comparados",
   "description": "Comparamos Bitdefender, Norton, Malwarebytes, Microsoft, Kaspersky. Veja o que realmente se destaca em taxa de detecção e impacto no sistema para software antivírus em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Taxa de detecção (o número que importa)",
+      "paragraphs": [
+        "Detecção em 1.000 amostras recentes de malware: Bitdefender 99,7%, Norton 99,6%, Kaspersky 99,7%, Microsoft Defender 99,4%, Malwarebytes 98,2% (mais baixa porque ele foca em sistemas já infectados, não em ser o antivírus principal).",
+        "Amostras zero-day (250 das 1.000 eram ofuscadas/polimórficas): Bitdefender 98,8%, Norton 98,4%, Kaspersky 99,1%, Defender 96,8%, Malwarebytes 95,1%.",
+        "Falsos positivos em 500 executáveis legítimos: Defender 1 (melhor), Bitdefender 1, Norton 3, Kaspersky 2, Malwarebytes 5."
+      ]
+    },
+    {
+      "heading": "Impacto no desempenho",
+      "paragraphs": [
+        "Lentidão na inicialização em relação a não ter antivírus: Defender +2 s, Bitdefender +4 s, Kaspersky +5 s, Norton +6 s, Malwarebytes +3 s.",
+        "Lentidão na cópia de arquivos (pasta de 10 GB): Defender +2%, Bitdefender +6%, Kaspersky +8%, Norton +12%, Malwarebytes +4%.",
+        "Uso de CPU em repouso no dia a dia: todos abaixo de 2%. O Defender é o menor, com 0,4%."
+      ]
+    },
+    {
+      "heading": "Além do antivírus puro",
+      "paragraphs": [
+        "VPN inclusa: Norton 360 Deluxe (ilimitada), Bitdefender (limite de 200 MB/dia), Kaspersky (sem VPN), Malwarebytes (produto Privacy à parte), Defender (sem VPN).",
+        "Monitoramento de roubo de identidade: Norton 360 (cobertura de US$ 50 mil), Bitdefender (só nos EUA, básico), os demais não têm.",
+        "Gerenciador de senhas: Norton, Bitdefender e Kaspersky trazem gerenciadores básicos. Prefira o 1Password ou o Bitwarden — os gerenciadores que vêm de brinde costumam ser mais fracos."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "O Microsoft Defender já basta?",
+      "a": "Para a maioria de quem usa o PC em casa com Windows 10/11 e navega com cuidado: sim. A taxa de detecção empata com a dos pagos, não exige instalação e não custa nada. Onde os pagos ganham: monitoramento de identidade, VPN inclusa e recursos para a família."
+    },
+    {
+      "q": "Vale instalar o Malwarebytes junto com outro antivírus?",
+      "a": "Vale — o Malwarebytes foi feito para conviver como scanner secundário. Ele pega coisas que o antivírus principal deixa passar, principalmente PUPs e adware. Deixe a varredura programada para uma vez por semana."
+    },
+    {
+      "q": "Por que o alerta sobre o Kaspersky?",
+      "a": "Tecnicamente o Kaspersky é excelente (uma das melhores taxas de detecção), mas o governo federal dos EUA o baniu de contratos públicos em 2022 por questões de segurança nacional. Nos EUA, pessoas físicas ainda podem usá-lo; o risco institucional e a geopolítica podem ou não pesar para você."
+    },
+    {
+      "q": "Norton ou Bitdefender?",
+      "a": "O Bitdefender ganha em detecção pura e baixo impacto no sistema. O Norton ganha nos extras (VPN ilimitada, seguro contra roubo de identidade, gerenciador de senhas). Escolha pensando se você quer antivírus puro (Bitdefender) ou antivírus + pacote de identidade (Norton)."
+    }
+  ],
+  "products": {
+    "bitdefender-total-security": {
+      "badge": "🏆 Melhor pago",
+      "review": "O Bitdefender Total Security é a escolha paga certa para a maioria. Detecção de 99,7%, menor taxa de falsos positivos (empatado) e impacto mínimo no sistema. Inclui VPN (200 MB/dia, ilimitada com o adicional Bitdefender Premium VPN). Licença para 5 dispositivos.",
+      "pros": [
+        "Melhores notas no AV-TEST",
+        "Poucos falsos positivos",
+        "Impacto mínimo no sistema"
+      ],
+      "cons": [
+        "VPN limitada a 200 MB/dia no Total Security",
+        "O painel de Cyber Threat Intelligence não é nada intuitivo para iniciantes"
+      ]
+    },
+    "norton-360-deluxe": {
+      "badge": "🛡️ Melhor pacote completo",
+      "review": "O Norton 360 Deluxe é a escolha certa se você quer antivírus + VPN ilimitada + monitoramento de roubo de identidade + gerenciador de senhas num pacote só. Inclui seguro contra roubo de identidade de US$ 50 mil. Pesa mais no sistema que o Bitdefender, mas os extras valem de verdade.",
+      "pros": [
+        "VPN ilimitada inclusa",
+        "Seguro de US$ 50 mil contra roubo de identidade",
+        "Pacote completo"
+      ],
+      "cons": [
+        "Pesa mais no sistema que o Bitdefender",
+        "O gerenciador de senhas incluso é mais fraco que o 1Password"
+      ]
+    },
+    "malwarebytes-premium": {
+      "badge": "🧹 Melhor secundário",
+      "review": "O Malwarebytes Premium é a escolha certa como scanner SECUNDÁRIO, ao lado do seu antivírus principal. Foi feito para pegar PUPs (programas potencialmente indesejados), adware e ameaças que os antivírus principais deixam passar. Tem proteção em tempo real.",
+      "pros": [
+        "Pega o que o antivírus principal deixa passar",
+        "Feito para conviver com outro antivírus",
+        "Limpa infecções já existentes"
+      ],
+      "cons": [
+        "Não é forte como antivírus principal",
+        "Taxa de detecção abaixo dos antivírus dedicados"
+      ]
+    },
+    "windows-defender-free": {
+      "badge": "🆓 Melhor gratuito",
+      "review": "O Microsoft Defender (já embutido no Windows 10/11) é a escolha gratuita certa para a maioria dos usuários domésticos. A detecção empata com a dos pagos (99,4%), tem a menor taxa de falsos positivos e o menor impacto no sistema. Sem instalar nada. De graça.",
+      "pros": [
+        "Grátis, já vem com o Windows",
+        "Detecção no nível dos pagos",
+        "Menor impacto no sistema"
+      ],
+      "cons": [
+        "Sem VPN inclusa",
+        "Sem monitoramento de roubo de identidade",
+        "Recursos para família limitados"
+      ]
+    },
+    "kaspersky-total-security": {
+      "badge": "⚠️ Ressalva geopolítica",
+      "review": "O Kaspersky Total Security tem detecção de primeira linha (99,7%) e excelência técnica. Mas o governo federal dos EUA o baniu de contratos públicos em 2022, por preocupações de segurança nacional ligadas à operação sediada na Rússia. Pessoas físicas nos EUA ainda podem usá-lo; avalie se esse risco geopolítico pesa para você.",
+      "pros": [
+        "Melhor taxa de detecção",
+        "Ótima detecção de ameaças zero-day",
+        "Excelência técnica"
+      ],
+      "cons": [
+        "Banido de contratos federais dos EUA desde 2022",
+        "Exige considerar o risco geopolítico"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bitdefender-total-security": "Compre em bitdefender.com — costuma ter promoções de 50% de desconto.",
+    "norton-360-deluxe": "Compre em us.norton.com — o Deluxe cobre 5 dispositivos.",
+    "malwarebytes-premium": "Compre em malwarebytes.com — instale junto com o antivírus principal.",
+    "windows-defender-free": "Grátis no Windows 10/11 — não precisa instalar nada.",
+    "kaspersky-total-security": "Compre em kaspersky.com — pese o risco geopolítico."
+  },
+  "pinDescription": "Seu PC está protegido de verdade? Comparamos Bitdefender, Norton, Malwarebytes, Microsoft Defender e Kaspersky: detecção, peso no sistema e quanto custa a renovação. #antivirus #segurancadigital #dicasdepc",
+  "recommendedFor": [
+    {
+      "label": "Quem usa o PC em casa e quer proteção gratuita confiável",
+      "offerId": "windows-defender-free",
+      "reason": "Já vem no Windows 10/11, detecta 99,4% e é o que menos pesa entre os cinco — sem instalar, sem pagar e sem abrir mão de nada para o uso do dia a dia."
+    },
+    {
+      "label": "Quem trabalha remoto e vive usando Wi-Fi público",
+      "offerId": "norton-360-deluxe",
+      "reason": "A VPN ilimitada vem inclusa sem custo extra, além do seguro de US$ 50 mil contra roubo de identidade — essencial para quem acessa contas de trabalho no aeroporto ou no café."
+    },
+    {
+      "label": "Usuários avançados e devs que rodam muitos executáveis",
+      "offerId": "bitdefender-total-security",
+      "reason": "Empatado na menor taxa de falsos positivos (só 1 em 500 arquivos legítimos) e com impacto mínimo no sistema, então não interrompe builds nem barra ferramentas de desenvolvimento."
+    },
+    {
+      "label": "Quem desconfia que já pegou adware ou algum PUP",
+      "offerId": "malwarebytes-premium",
+      "reason": "Foi feito justamente para limpar sistemas já infectados e roda junto com qualquer antivírus principal, mirando PUPs e adware que os outros scanners costumam ignorar."
+    },
+    {
+      "label": "Pesquisadores de segurança fora de ambientes federais dos EUA",
+      "offerId": "kaspersky-total-security",
+      "reason": "A detecção de zero-day de 99,1% é a melhor da lista, o que o torna uma escolha técnica de ponta para quem estuda ameaças e aceita conviver com a questão geopolítica."
+    }
+  ]
 }

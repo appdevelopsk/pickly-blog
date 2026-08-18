@@ -58,5 +58,114 @@
     "chicago-metallic-baking-sheet": "Aço aluminizado de calibre pesado, sem revestimento, grau comercial. $20-35. Padrão de padaria profissional — mesma construção das operações de panificação comerciais. Superfície sem revestimento para máximo douramento, rigidez estrutural do aço aluminizado."
   },
   "pinDescription": "Comparação de formas de assar 2026: Nordic Ware vs USA Pan vs Wilton vs OXO vs Chicago Metallic — por que a espessura importa, antiaderente vs alumínio sem revestimento, e qual forma produz realmente melhores biscoitos e legumes assados.",
-  "methodology": "Avaliamos cada produto pela qualidade de construção e pelos materiais, pelo desempenho no uso cotidiano na cozinha, pelo esforço de limpeza e manutenção, pela durabilidade ao longo de anos de uso e pelo custo-benefício. As especificações do fabricante foram confrontadas com avaliações verificadas de compradores."
+  "methodology": "Avaliamos cada produto pela qualidade de construção e pelos materiais, pelo desempenho no uso cotidiano na cozinha, pelo esforço de limpeza e manutenção, pela durabilidade ao longo de anos de uso e pelo custo-benefício. As especificações do fabricante foram confrontadas com avaliações verificadas de compradores.",
+  "products": [
+    {
+      "offerId": "nordic-ware-baking-sheet",
+      "badge": "Melhor no geral",
+      "review": "A assadeira Nordic Ware Natural Aluminum Half Sheet é o padrão com que as cozinhas profissionais comparam todas as outras. O alumínio puro de chapa grossa (cerca de 1,3 mm) faz com que a forma não entorte, não estale nem empene quando você a coloca no forno quente, e a superfície sem revestimento absorve o calor direto, então os biscoitos douram por igual em toda a chapa. Com o tempo ela ganha uma pátina mais escura, o que é estético e não afeta o desempenho. Não tem tratamento antiaderente, então papel-manteiga ou tapete de silicone faz parte da rotina de uso. Pelo preço, a durabilidade é difícil de superar — essas assadeiras costumam durar uma década a mais que as mais baratas.",
+      "pros": [
+        "Alumínio de chapa grossa que resiste a empenar em temperaturas altas",
+        "Douramento uniforme de ponta a ponta graças à superfície sem revestimento",
+        "Barata para o tanto que dura",
+        "Aceita espátula de metal e qualquer temperatura de forno"
+      ],
+      "cons": [
+        "Não é antiaderente — a maioria das receitas exige papel-manteiga ou tapete de silicone",
+        "Mancha visivelmente com o uso frequente"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "usa-pan-half-sheet",
+      "badge": "Melhor resistência a empenar",
+      "review": "A USA Pan faz sua assadeira em aço aluminizado, com base corrugada e revestimento antiaderente à base de silicone que suporta temperatura mais alta que as formas comuns de PTFE. A corrugação é o diferencial: funciona como a nervura de um painel estrutural e deixa a chapa visivelmente mais rígida que uma forma lisa de peso parecido. Essa rigidez faz diferença quando você vai direto do freezer para o forno, situação em que as assadeiras baratas empenam. A superfície de silicone solta massas grudentas e legumes caramelizados sem papel-manteiga, embora as nervuras deixem uma marca discreta na base de biscoitos finos. A qualidade de fabricação é consistente de lote para lote.",
+      "pros": [
+        "Base corrugada faz dela a assadeira mais rígida da seleção",
+        "Revestimento de silicone solta bem e aguenta mais calor que o PTFE",
+        "Aço aluminizado resiste a ferrugem e amassados",
+        "Fabricada nos EUA, com acabamento de solda confiável"
+      ],
+      "cons": [
+        "A corrugação deixa uma textura sutil em biscoitos lisos",
+        "O revestimento é durável, mas não é indestrutível como o alumínio puro"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "wilton-baking-sheet",
+      "badge": "Melhor custo-benefício",
+      "review": "A Wilton Nonstick é a assadeira com que quase todo mundo começa: barata, fácil de achar em qualquer supermercado e realmente antiaderente logo de cara. A chapa de aço é fininha, então a forma cede quando você a levanta cheia e tende a criar uma leve curvatura depois de um ano de uso frequente. O revestimento de PTFE funciona bem para biscoitos e pães, mas se degrada acima de 260 °C e risca se você usar utensílios de metal. Encare como um item de consumo de dois a três anos, não como ferramenta para a vida toda, e o preço faz sentido. Serve bem para quem assa de vez em quando e não quer lidar com papel-manteiga.",
+      "pros": [
+        "Menor preço desta comparação",
+        "Solta bem já nas primeiras utilizações",
+        "Leve o bastante para manusear com uma mão só",
+        "Fácil de encontrar em lojas e na internet"
+      ],
+      "cons": [
+        "Chapa fina empena com o tempo e estala alto no forno quente",
+        "O revestimento de PTFE se desgasta em dois ou três anos de uso frequente"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "oxo-good-grips-baking-sheet",
+      "badge": "Melhor antiaderente",
+      "review": "Se você quer antiaderente sem lidar com papel-manteiga, a OXO Good Grips é a versão adulta da Wilton. A chapa é bem mais grossa, as bordas rebatidas são mais largas para você segurar com firmeza usando luva térmica, e o revestimento aguenta melhor os ciclos de lava-louças. Ainda assim, tem o teto de temperatura de qualquer antiaderente de PTFE, então assar em calor muito alto encurta a vida dela. Para biscoitos do dia a dia, jantares de assadeira com marinadas que soldariam no alumínio nu e para quem odeia esfregar, é a assadeira mais confortável de conviver. Espere alguns anos de uso, não uma década.",
+      "pros": [
+        "Chapa mais grossa que as antiaderentes baratas — empena muito menos",
+        "Borda rebatida mais larga é de fato mais fácil de segurar com luva",
+        "Revestimento aguenta bem o uso regular na lava-louças",
+        "Solta glacês e marinadas grudentas sem papel-manteiga"
+      ],
+      "cons": [
+        "O revestimento de PTFE limita a temperatura máxima do forno",
+        "Não vai durar mais que uma forma de alumínio grosso sem revestimento"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "chicago-metallic-baking-sheet",
+      "badge": "Melhor para profissionais",
+      "review": "Chicago Metallic é o que você encontra empilhado embaixo da bancada em padarias profissionais, e a versão para uso doméstico usa a mesma construção em aço aluminizado de chapa grossa. A superfície é sem revestimento, então doura como a Nordic Ware, mas o aço aluminizado acrescenta uma rigidez que as formas de alumínio puro não têm. O preço disso é o peso — dá para sentir na mão que ela é mais pesada. O acabamento é funcional: soldas limpas, bordas rebatidas bem fechadas e a forma apoia reta na grade, sem bambear. Para quem assa em volume e quer uma forma que aguente décadas de maus-tratos, é a opção sem drama.",
+      "pros": [
+        "Aço aluminizado de linha profissional — rigidez altíssima",
+        "Superfície sem revestimento entrega o máximo de douramento",
+        "Apoia reta, sem bambear na grade do forno",
+        "Feita para uso em alto volume"
+      ],
+      "cons": [
+        "Mais pesada que as equivalentes de alumínio puro",
+        "Acabamento simples — sem antiaderente, exige papel-manteiga para massas grudentas"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Quem leva a confeitaria caseira a sério",
+      "offerId": "nordic-ware-baking-sheet",
+      "reason": "O alumínio grosso sem revestimento da Nordic Ware doura de forma mais uniforme e vai durar mais que qualquer outra desta lista."
+    },
+    {
+      "label": "Quem vai do freezer direto para o forno",
+      "offerId": "usa-pan-half-sheet",
+      "reason": "O aço aluminizado corrugado resiste a empenar mesmo com choques de temperatura, que é justo quando as assadeiras baratas entortam."
+    },
+    {
+      "label": "Quem assa de vez em quando e quer gastar pouco",
+      "offerId": "wilton-baking-sheet",
+      "reason": "Barata a ponto de ser descartável, e o revestimento de PTFE dá conta de biscoitos e pães sem nenhuma técnica."
+    },
+    {
+      "label": "Quem detesta papel-manteiga",
+      "offerId": "oxo-good-grips-baking-sheet",
+      "reason": "O revestimento durável e a borda rebatida permitem assar glacês grudentos e lavar na lava-louças sem destruir a forma."
+    },
+    {
+      "label": "Quem assa em grande volume",
+      "offerId": "chicago-metallic-baking-sheet",
+      "reason": "O aço aluminizado de linha profissional aguenta fornadas seguidas e continua reto depois de anos de uso pesado."
+    }
+  ]
 }

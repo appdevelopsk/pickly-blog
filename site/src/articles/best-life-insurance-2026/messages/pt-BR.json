@@ -2,5 +2,145 @@
   "title": "Melhor seguro de vida 2026: 5 comparados",
   "description": "Comparamos Haven Life, Northwestern Mutual, Policygenius, State Farm, Ladder. Veja o que realmente se destaca em processo de cotação e opções de apólice para seguro de vida em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Temporário ou vitalício — qual contratar",
+      "paragraphs": [
+        "Seguro de vida temporário: mais barato (R$ 150-300/mês para R$ 2,5 milhões aos 35 anos), cobre um período determinado (10 a 30 anos). Melhor opção para a maioria de quem tem dívidas ou dependentes.",
+        "Seguro vitalício: bem mais caro (R$ 1.500-2.500/mês para R$ 1,2 milhão aos 35 anos), cobertura permanente e acumula valor de resgate. Costuma ser empurrado por corretores que ganham comissão.",
+        "A maioria dos consultores financeiros recomenda o temporário — e investir a diferença em fundos de índice de baixo custo."
+      ]
+    },
+    {
+      "heading": "O melhor para cada situação",
+      "paragraphs": [
+        "Melhor temporário online: Haven Life (R$ 75-1.000/mês). Contratação 100% online, sem exame médico para quem se qualifica.",
+        "Melhor vitalício: Northwestern Mutual. Seguradora mútua tradicional, com classificações financeiras sólidas.",
+        "Melhor para comparar preços: Policygenius. Compara mais de 20 seguradoras, com opções sem exame.",
+        "Melhor para combinar apólices: State Farm. Descontos ao juntar auto, residencial e vida.",
+        "Melhor em flexibilidade: Ladder. Você ajusta a cobertura conforme a vida muda (laddering)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "De quanto de seguro de vida eu preciso?",
+      "a": "A regra prática: de 10 a 15 vezes a renda anual. Ajuste conforme suas dívidas (financiamento do imóvel, empréstimos), seus dependentes (custo da faculdade dos filhos) e a renda do cônjuge. Calculadoras online (Policygenius, Haven Life) ajudam a estimar."
+    },
+    {
+      "q": "Temporário ou vitalício — qual escolher?",
+      "a": "Temporário para mais de 90% das pessoas. O vitalício só faz sentido se: (1) você já usa ao máximo os investimentos com vantagem fiscal E (2) quer uma poupança forçada E (3) tem planejamento sucessório complexo. Fora isso, temporário + fundos de índice ganha."
+    },
+    {
+      "q": "Preciso fazer exame médico?",
+      "a": "Talvez — Haven Life, Ladder e Policygenius têm opções sem exame para candidatos saudáveis até certos valores de cobertura. A análise tradicional exige exame para coberturas acima de R$ 5 milhões."
+    },
+    {
+      "q": "Dá para confiar em seguradoras de vida online?",
+      "a": "Sim — Haven Life (do grupo MassMutual), Ladder (com subscrição de Allianz/Fidelity) e Policygenius (marketplace de seguradoras consolidadas) usam processos de subscrição tradicionais e testados."
+    }
+  ],
+  "products": {
+    "haven-life": {
+      "badge": "🏆 Melhor temporário online",
+      "review": "A Haven Life é a escolha certa para seguro temporário online. Processo todo digital (sem reunião com corretor), cobertura de R$ 1,2 milhão a R$ 15 milhões e dispensa de exame médico para boa parte de quem se qualifica. Pertence à MassMutual, então a subscrição tem lastro. Ideal para pessoas saudáveis entre 25 e 45 anos.",
+      "pros": [
+        "Processo online, sem reunião com corretor",
+        "Opção sem exame para candidatos saudáveis",
+        "Pertence à MassMutual"
+      ],
+      "cons": [
+        "Só oferece seguro temporário",
+        "Subscrição rigorosa — recusa candidatos de alto risco"
+      ]
+    },
+    "northwestern-mutual": {
+      "badge": "🏛️ Melhor vitalício",
+      "review": "A Northwestern Mutual é a escolha certa para seguro de vida vitalício. Especialista em cobertura permanente, com classificações financeiras sólidas e consultores presenciais. O vitalício tem seu lugar no planejamento sucessório de grandes patrimônios. Os consultores da NM são bem treinados, mas trabalham por comissão (vão insistir no vitalício).",
+      "pros": [
+        "Especialista em seguro vitalício",
+        "Classificações financeiras sólidas",
+        "Consultores presenciais"
+      ],
+      "cons": [
+        "Consultores comissionados empurram o vitalício",
+        "Vitalício é menos vantajoso para a maioria das pessoas"
+      ]
+    },
+    "policygenius-marketplace": {
+      "badge": "🛒 Melhor para comparar preços",
+      "review": "A Policygenius é a escolha certa para quem quer comparar várias seguradoras. É um marketplace online que confronta mais de 20 empresas (Haven, Lincoln, Pacific Life, Prudential e outras). Tem opções sem exame. Ideal para achar a menor taxa para o seu perfil específico.",
+      "pros": [
+        "Compara mais de 20 seguradoras",
+        "Opções sem exame disponíveis",
+        "Independente (não puxa para nenhuma seguradora)"
+      ],
+      "cons": [
+        "Ganha comissão das seguradoras",
+        "As cotações variam bastante conforme o perfil"
+      ]
+    },
+    "state-farm-life": {
+      "badge": "📦 Melhor para combinar apólices",
+      "review": "O seguro de vida da State Farm é a escolha certa para quem já tem auto ou residencial com eles. Os descontos por combinar apólices chegam a economizar de 10% a 20% no prêmio total. Atendimento presencial. Vários tipos de apólice (temporário, vitalício e universal).",
+      "pros": [
+        "Descontos ao combinar (auto/residencial/vida)",
+        "Corretores presenciais",
+        "Vários tipos de apólice"
+      ],
+      "cons": [
+        "Pouco competitivo no temporário isolado",
+        "Corretores trabalham por comissão"
+      ]
+    },
+    "ladder-term-life": {
+      "badge": "🪜 Melhor flexibilidade",
+      "review": "O Ladder Term Life é a escolha certa para quem quer flexibilidade. Seguro temporário online com o recurso de 'laddering' — você ajusta a cobertura conforme a vida muda (filhos criados = menos cobertura). Cobertura de R$ 500 mil a R$ 40 milhões. Processo 100% digital.",
+      "pros": [
+        "Laddering (ajuste da cobertura ao longo do tempo)",
+        "Processo online",
+        "Cobertura de R$ 500 mil a R$ 40 milhões"
+      ],
+      "cons": [
+        "Marca menos conhecida que MassMutual/Northwestern",
+        "Preço competitivo, mas não é o mais barato"
+      ]
+    }
+  },
+  "offerNotes": {
+    "haven-life": "Contrate em havenlife.com. Cotação online em 5 minutos. A análise costuma levar de 1 a 2 semanas.",
+    "northwestern-mutual": "Fale com um consultor da NM pelo nwmutual.com ou por indicação. A maioria das apólices exige reunião presencial.",
+    "policygenius-marketplace": "Cote em policygenius.com. Em poucos minutos você recebe propostas de várias seguradoras.",
+    "state-farm-life": "Fale com um corretor da State Farm pelo statefarm.com ou numa unidade próxima.",
+    "ladder-term-life": "Contrate em ladderlife.com. Processo online; cotação em minutos."
+  },
+  "pinDescription": "Vai contratar seguro de vida em 2026? Comparamos Haven Life, Northwestern Mutual, Policygenius, State Farm e Ladder — temporário x vitalício, preço, exame médico e qual compensa para o seu perfil. Salve para decidir com calma.",
+  "recommendedFor": [
+    {
+      "label": "Pais jovens com financiamento imobiliário e dependentes",
+      "offerId": "haven-life",
+      "reason": "O processo online sem exame da Haven Life aprova candidatos saudáveis rápido — perfeito quando você precisa de mais de R$ 2,5 milhões de cobertura sem reunião com corretor."
+    },
+    {
+      "label": "Quem tem alto patrimônio e planeja a sucessão",
+      "offerId": "northwestern-mutual",
+      "reason": "O vitalício da Northwestern Mutual acumula valor de resgate com vantagem fiscal e dá suporte a planejamentos sucessórios complexos, com orientação presencial de um consultor."
+    },
+    {
+      "label": "Quem vai contratar pela primeira vez e não sabe qual escolher",
+      "offerId": "policygenius-marketplace",
+      "reason": "A Policygenius compara mais de 20 seguradoras em minutos e mostra a menor taxa para o seu perfil de saúde, sem puxar para nenhuma marca."
+    },
+    {
+      "label": "Quem já tem auto ou residencial na State Farm",
+      "offerId": "state-farm-life",
+      "reason": "Juntar o seguro de vida às apólices de auto ou residencial que você já tem libera de 10% a 20% de desconto em todos os prêmios, com um único corretor local."
+    },
+    {
+      "label": "Pais cuja necessidade de cobertura vai diminuir com o tempo",
+      "offerId": "ladder-term-life",
+      "reason": "O laddering da Ladder permite reduzir a cobertura conforme os filhos crescem e o financiamento encolhe, então você para de pagar por uma proteção que já não precisa."
+    }
+  ]
 }

@@ -2,5 +2,154 @@
   "title": "Mejor seguro de visión 2026: 5 comparados",
   "description": "Comparamos VSP, EyeMed, Humana, Spirit Vision, Warby Parker. Esto es lo que realmente destaca en costo de bolsillo y red para seguro de visión en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Coste total del primer año",
+      "paragraphs": [
+        "Coste total del primer año (prima + gasto de tu bolsillo sobre 600 € de gasto óptico): VSP 260 €, EyeMed 200 €, Humana Vision 280 €, Spirit Vision 320 € (prima más alta a cambio de no tener carencia), Warby Parker directo 295 € (sin prima: 295 € por montura y lentes).",
+        "Comprar directamente en Warby Parker suele salir mejor que el seguro si solo necesitas unas gafas. El seguro gana si necesitas: dos o más gafas al año, lentillas y gafas a la vez, o monturas de marca caras (300 € o más).",
+        "Segundo año sin cambio de graduación: los seguros se renuevan con una nueva ayuda de 150-200 € para montura. Warby Parker directo: 295 € por montura nueva, sin descuentos acumulados."
+      ]
+    },
+    {
+      "heading": "La realidad de los cuadros ópticos",
+      "paragraphs": [
+        "VSP tiene el mayor cuadro óptico de EE. UU. (3 de cada 4 oftalmólogos y optometristas). Es donde más probabilidades hay de que tu óptico de siempre esté incluido.",
+        "EyeMed es el segundo más grande. Participan LensCrafters, Target Optical, Pearle Vision y Sears Optical.",
+        "El cuadro de Humana Vision es más reducido. Compruébalo antes de contratar.",
+        "Spirit Vision tiene un cuadro PPO más pequeño. Su diferencia está en la prima más alta a cambio de no tener carencia.",
+        "Warby Parker cuenta con más de 200 tiendas físicas y servicio por correo. Pocos puntos donde graduarse la vista (solo algunas tiendas)."
+      ]
+    },
+    {
+      "heading": "Cuándo sale mejor comprar directamente",
+      "paragraphs": [
+        "Comprar directamente en Warby Parker gana al seguro cuando: unas gafas al año, lentes monofocales y montura por debajo de 145 €. El seguro gana cuando: dos o más gafas, lentes progresivas, monturas de diseño, o lentillas y gafas a la vez.",
+        "Si puedes pagarlo de tu bolsillo: unas gafas monofocales de Warby Parker por 95 € (montura y lentes) suelen costar menos que la prima anual del seguro.",
+        "El seguro brilla en: problemas oculares médicos (tratamientos más allá de las gafas), salud visual infantil (los niños rompen monturas) y hogares que consumen muchas lentillas."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Merece la pena un seguro óptico?",
+      "a": "Justito. Las cuentas rara vez salen si solo compras unas gafas al año y la alternativa es comprar directo en Warby Parker o Zenni. El seguro tiene sentido cuando lo usas mucho: niños, lentillas más gafas, lentes progresivas."
+    },
+    {
+      "q": "¿VSP o EyeMed?",
+      "a": "VSP por el cuadro más amplio. EyeMed si tienes más a mano un LensCrafters, Target Optical o Pearle Vision que una óptica del cuadro de VSP."
+    },
+    {
+      "q": "Spirit Vision sin carencia: ¿compensa pagar más prima?",
+      "a": "Solo si necesitas gafas ya. El resto de planes normalmente no tienen carencia para revisiones rutinarias (solo para intervenciones quirúrgicas), así que la ventaja de Spirit es bastante estrecha."
+    },
+    {
+      "q": "¿Conviene comprar gafas por internet?",
+      "a": "Sí, con graduaciones sencillas. Warby Parker, Zenni y EyeBuyDirect venden monturas y lentes de calidad por entre 95 y 200 €. Con lentes progresivas o graduaciones altas, merece la pena el ajuste presencial (la mayoría de seguros lo cubre)."
+    }
+  ],
+  "products": {
+    "vsp-individual-vision": {
+      "badge": "🏆 La mejor opción general",
+      "review": "VSP Individual Vision Plan es tu opción si tienes un óptico de confianza y quieres una cobertura previsible. El mayor cuadro óptico de EE. UU. (3 de cada 4 profesionales), con montura, lentes y revisión cubiertas. Entre 13 y 30 €/mes por persona.",
+      "pros": [
+        "El mayor cuadro óptico de EE. UU.",
+        "Cubre montura, lentes y revisión",
+        "Coberturas anuales sólidas"
+      ],
+      "cons": [
+        "El tope anual se agota rápido",
+        "La prima acumulada pesa frente a comprar directo"
+      ]
+    },
+    "eyemed-bright-individual": {
+      "badge": "🎯 Mejor para cadenas de ópticas",
+      "review": "EyeMed Bright Individual es tu opción si la óptica que te pilla cerca es LensCrafters, Target Optical, Pearle Vision o Sears Optical. Segundo cuadro más grande, de 5 a 20 €/mes. Suele salir más barato que VSP.",
+      "pros": [
+        "Cuadro con grandes cadenas de ópticas",
+        "Más barato que VSP",
+        "Cobertura sólida"
+      ],
+      "cons": [
+        "Cuadro más pequeño que el de VSP",
+        "Menos ópticos independientes adheridos"
+      ]
+    },
+    "humana-vision-care": {
+      "badge": "🪪 Mejor para clientes de Humana",
+      "review": "Humana Vision Care es tu opción si ya tienes seguro médico con Humana, por el descuento al combinarlos. Suelto también es competitivo, entre 15 y 25 €/mes, pero el cuadro es menor que el de VSP o EyeMed.",
+      "pros": [
+        "Descuento al combinarlo con el seguro médico de Humana",
+        "Buenos niveles de cobertura",
+        "Cuadro razonable"
+      ],
+      "cons": [
+        "Cuadro menor que VSP o EyeMed",
+        "Menos interesante por separado"
+      ]
+    },
+    "spirit-vision-no-waiting": {
+      "badge": "⚡ Mejor sin carencia",
+      "review": "Spirit Vision No Waiting Period Plan es tu opción si necesitas gafas nuevas ya. Cero carencia en todas las prestaciones ópticas. Incluye lentillas y descuento en LASIK. Entre 25 y 35 €/mes (pagas más prima por librarte de la carencia).",
+      "pros": [
+        "Cero carencia en las prestaciones",
+        "Incluye lentillas",
+        "Descuento en LASIK"
+      ],
+      "cons": [
+        "Prima más alta (25-35 €/mes)",
+        "Cuadro PPO más pequeño"
+      ]
+    },
+    "warby-parker-direct": {
+      "badge": "💸 Mejor para unas gafas al año",
+      "review": "El precio directo de Warby Parker (95 € por montura y lentes monofocales) suele ganarle al seguro si solo compras unas gafas al año. Más de 200 tiendas físicas y venta por correo. Tu opción si solo necesitas unas gafas, no usas lentillas y no llevas progresivas.",
+      "pros": [
+        "Para unas gafas al año, más barato que el seguro",
+        "Más de 200 tiendas físicas",
+        "Monturas de calidad entre 95 y 145 €"
+      ],
+      "cons": [
+        "Sin cobertura para problemas oculares médicos",
+        "Las lentes progresivas van aparte (295 €)",
+        "No compensa si lo usas mucho"
+      ]
+    }
+  },
+  "offerNotes": {
+    "vsp-individual-vision": "Contrátalo en vsp.com: comprueba antes que tu óptico está en el cuadro.",
+    "eyemed-bright-individual": "Contrátalo en eyemed.com: la mejor baza si vas a cadenas de ópticas.",
+    "humana-vision-care": "Contrátalo en humana.com: combínalo con el seguro médico de Humana y consigue descuento.",
+    "spirit-vision-no-waiting": "Contrátalo en spiritdental.com: elígelo solo si necesitas gafas de inmediato.",
+    "warby-parker-direct": "Compra directo en warbyparker.com: suele ganarle al seguro si solo quieres unas gafas."
+  },
+  "pinDescription": "¿Seguro óptico o pagar las gafas de tu bolsillo? Comparamos VSP, EyeMed, Humana, Spirit y Warby Parker: primas, ayudas para montura, carencias y cuándo sale más a cuenta comprar directo. #gafas #seguroóptico",
+  "recommendedFor": [
+    {
+      "label": "Quienes no cambian de óptico de toda la vida",
+      "offerId": "vsp-individual-vision",
+      "reason": "El cuadro de VSP incluye a 3 de cada 4 profesionales de la visión en EE. UU., así que es donde más papeletas hay de que tu óptico ya esté dentro."
+    },
+    {
+      "label": "Quien tiene una cadena de ópticas en el centro comercial",
+      "offerId": "eyemed-bright-individual",
+      "reason": "EyeMed incluye LensCrafters, Target Optical y Pearle Vision, así que recoges las gafas mientras haces otros recados, y con una prima menor que la de VSP."
+    },
+    {
+      "label": "Clientes que ya tienen seguro médico con Humana",
+      "offerId": "humana-vision-care",
+      "reason": "Añadir la cobertura óptica a un seguro médico de Humana activa un descuento: el camino más barato y con menos papeleo si ya eres cliente."
+    },
+    {
+      "label": "Quien cambia de trabajo y necesita gafas ya",
+      "offerId": "spirit-vision-no-waiting",
+      "reason": "El plan sin carencia de Spirit se puede usar desde el primer día, clave cuando no te puedes permitir esperar semanas tras quedarte sin la cobertura de la empresa."
+    },
+    {
+      "label": "Quien mira el gasto y solo necesita unas gafas al año",
+      "offerId": "warby-parker-direct",
+      "reason": "Por 95 € la montura con lentes monofocales, comprar directo en Warby Parker sale más barato que un año entero de primas si solo renuevas unas gafas."
+    }
+  ]
 }

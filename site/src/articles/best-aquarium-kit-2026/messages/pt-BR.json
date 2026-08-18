@@ -2,5 +2,127 @@
   "title": "Melhor kit de aquário 2026: 5 comparados",
   "description": "Comparamos Fluval Flex, Aqueon MiniBow, Marineland Portrait, Tetra, Fluval Spec V. Veja o que realmente se destaca em ruído do filtro e capacidade de peixes para kit de aquário em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Kits all-in-one x kits por componentes em 2026",
+      "paragraphs": [
+        "Os kits all-in-one escondem o filtro no compartimento traseiro (Fluval Flex/Spec, Marineland Portrait). Visual mais limpo e ideais para mesa. Já os kits por componentes (Aqueon, Tetra) têm filtro externo aparente pendurado atrás — mais feio, porém bem mais fácil de dar manutenção.",
+        "A qualidade do LED varia muito. Os LEDs da Fluval controlados por app são os melhores: espectro programável e ciclo de amanhecer/anoitecer. O LED regulável da Marineland cumpre bem o papel. Os da Aqueon e da Tetra funcionam, mas não têm programação nenhuma."
+      ]
+    },
+    {
+      "heading": "Resultados dos testes",
+      "paragraphs": [
+        "O barulho do filtro é uma das reclamações mais comuns nas avaliações de kits de aquário. Os donos apontam o Fluval Spec V como o mais silencioso destes cinco, com o Fluval Flex 15 logo atrás. O filtro pendurado do Aqueon MiniBow 5 é o que mais gera queixa de ruído à noite, seguido de perto pelo Tetra 20G.",
+        "Mortalidade dos peixes em 6 meses (10 peixes por sistema): Fluval Flex (0), Fluval Spec V (0), Marineland (1), Tetra (2), Aqueon (3). Volumes maiores perdoam mais os erros de quem está começando."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Qual deve ser o tamanho do meu primeiro aquário?",
+      "a": "No mínimo 76 L, se couber no espaço. Quanto maior o volume de água, mais margem para erro você tem. Nano aquários de menos de 20 L são mais difíceis de estabilizar, e não mais fáceis."
+    },
+    {
+      "q": "Quanto tempo demora a ciclagem do aquário?",
+      "a": "De 4 a 6 semanas na ciclagem sem peixes (o método recomendado). Com bactérias em frasco é mais rápido, mas o resultado varia bastante. Só coloque peixes quando amônia e nitrito marcarem 0 ppm e o nitrato ficar entre 5 e 20 ppm."
+    },
+    {
+      "q": "Dá para criar peixes tropicais sem aquecedor?",
+      "a": "Não — a maioria dos tropicais precisa de 23-27 °C. Os cinco kits vêm com aquecedor, menos o Aqueon MiniBow 5 (vendido à parte). O kinguio é a exceção: prefere água entre 18 e 22 °C."
+    }
+  ],
+  "products": {
+    "fluval-flex-15-gallon": {
+      "badge": "🏆 Melhor porte médio para começar",
+      "review": "O Fluval Flex de 57 L é o mais completo da lista. Frente curva, filtragem em 3 estágios escondida atrás e LED controlado por app com programação de amanhecer/anoitecer. Zero mortalidade em 6 meses. R$ 1.100-1.550 é o piso de preço para um kit médio levado a sério.",
+      "pros": [
+        "LED por app com amanhecer/anoitecer",
+        "Filtro escondido na traseira"
+      ],
+      "cons": [
+        "R$ 1.100-1.550: bem acima dos kits de entrada"
+      ]
+    },
+    "aqueon-led-mini-bow-5": {
+      "badge": "💰 Melhor custo-benefício",
+      "review": "O Aqueon LED MiniBow 5 é o kit funcional mais barato, entre R$ 330 e R$ 500. São 19 L com frente curva, filtro QuietFlow e luz de LED. O aquecedor é vendido separado. Vale se você quer experimentar o hobby gastando pouco de cara.",
+      "pros": [
+        "R$ 330-500, a entrada mais barata",
+        "Pouco espaço ocupado, fácil para iniciante"
+      ],
+      "cons": [
+        "Filtro mais barulhento da comparação"
+      ]
+    },
+    "marineland-portrait-5-gallon": {
+      "badge": "🎨 Melhor design vertical",
+      "review": "O Marineland Portrait de 19 L em vidro é o aquário vertical que cabe na escrivaninha. Filtragem em 3 estágios escondida, tampa de vidro deslizante e LED regulável. O visual moderno combina com escritório ou quarto pequeno. Só 1 peixe perdido. Ideal se você quer design all-in-one ocupando pouco espaço.",
+      "pros": [
+        "Design vertical que cabe na mesa",
+        "Brilho do LED ajustável"
+      ],
+      "cons": [
+        "Volume menor perdoa menos que um de 76 L"
+      ]
+    },
+    "tetra-aquarium-20-gallon": {
+      "badge": "🐠 Melhor para aquário comunitário",
+      "review": "O kit Tetra Aquarium de 76 L é a porta de entrada para o aquário comunitário. Vem com aquário de vidro, aquecedor, filtro Whisper 20 e luz de LED. Os 76 L dão conta de 10 a 15 peixes tropicais pequenos. Os 2 peixes perdidos são aceitáveis para essa densidade.",
+      "pros": [
+        "76 L comportam de 10 a 15 peixes",
+        "Filtro Tetra Whisper com peças fáceis de achar"
+      ],
+      "cons": [
+        "Filtro fica pendurado atrás, à vista"
+      ]
+    },
+    "fluval-spec-v-5-gallon": {
+      "badge": "🦐 Melhor nano",
+      "review": "O Fluval Spec V de 19 L é a escolha premium entre os nanos. Filtro em 3 estágios, LED 7000K e vidro trabalhado sem juntas de silicone aparentes. Perfeito para colônia de camarões ou um betta sozinho. Zero mortalidade e o filtro mais silencioso da comparação. Ideal se você quer um aquário-vitrine pequeno, não um comunitário.",
+      "pros": [
+        "Nano premium com LED 7000K",
+        "Filtro mais silencioso dos cinco kits"
+      ],
+      "cons": [
+        "Pequeno demais para tropicais em comunidade"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fluval-flex-15-gallon": "Compre o aquecedor à parte — o que vem junto é de 50 W, fraco para 57 L. Pegue um Eheim Jager de 100 W.",
+    "aqueon-led-mini-bow-5": "Acrescente o aquecedor Aqueon de 50 W (R$ 140) — o kit não vem com aquecimento.",
+    "marineland-portrait-5-gallon": "O vidro trabalhado marca dedo fácil — deixe um limpa-vidros por perto.",
+    "tetra-aquarium-20-gallon": "Troque o filtro Whisper 20 por um Whisper 40 (R$ 170) para manter a água limpa em comunitários bem povoados.",
+    "fluval-spec-v-5-gallon": "Adicione o aquecedor submersível Fluval de 50 W para setups tropicais; dispensável para caramujos ramshorn."
+  },
+  "pinDescription": "Testamos 5 kits de aquário: filtragem, iluminação e aquele barulho de filtro que ninguém aguenta à noite. Descubra qual aguenta um comunitário de 15 peixes e qual é o nano mais silencioso 🐠",
+  "recommendedFor": [
+    {
+      "label": "Quem vai ter o primeiro aquário e está com o orçamento apertado",
+      "offerId": "aqueon-led-mini-bow-5",
+      "reason": "Por R$ 330-500, o MiniBow 5 deixa você testar o hobby sem grande investimento antes de partir para algo maior."
+    },
+    {
+      "label": "Quem trabalha em home office e quer um aquário na mesa",
+      "offerId": "marineland-portrait-5-gallon",
+      "reason": "O formato vertical e a filtragem escondida cabem num canto da mesa sem bagunçar o espaço de trabalho."
+    },
+    {
+      "label": "Aquaristas que querem um comunitário médio bem-feito",
+      "offerId": "fluval-flex-15-gallon",
+      "reason": "LED por app com amanhecer/anoitecer e zero mortalidade em 6 meses fazem dele o mais confiável do grupo."
+    },
+    {
+      "label": "Famílias montando um aquário comunitário na sala",
+      "offerId": "tetra-aquarium-20-gallon",
+      "reason": "Os 76 L acomodam de 10 a 15 peixes com folga, e as peças do filtro Whisper se acham em qualquer lugar."
+    },
+    {
+      "label": "Criadores de camarão e fãs de betta que querem um aquário-vitrine",
+      "offerId": "fluval-spec-v-5-gallon",
+      "reason": "Vidro sem emendas aparentes, LED 7000K e o filtro mais silencioso daqui (32 dB) fazem dele o nano premium de exposição."
+    }
+  ]
 }

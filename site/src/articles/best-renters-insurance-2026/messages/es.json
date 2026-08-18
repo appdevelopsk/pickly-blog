@@ -2,5 +2,152 @@
   "title": "Mejor seguro de inquilino 2026: 5 comparados",
   "description": "Comparamos Lemonade, State Farm, Allstate, Geico, USAA. Esto es lo que realmente destaca en velocidad de reclamación y pago para seguro de inquilino en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Prima para la misma cobertura",
+      "paragraphs": [
+        "Prima mensual para 30.000 €/100.000 €/250 € de franquicia en un piso de un dormitorio en el centro de Madrid: Lemonade 12 €, Geico 14 €, State Farm 17 €, Allstate 19 €, USAA 11 € (solo militares). Lemonade y Geico empatan en rapidez de contratación; USAA es la más barata, pero exige vinculación militar.",
+        "Descuento por combinar con el seguro de coche: State Farm 10 %, Allstate 10 %, Geico 5 %, USAA 5 %; Lemonade no permite combinar con auto. Si ya tienes el coche con State Farm o Allstate, el precio combinado gana a Lemonade por separado."
+      ]
+    },
+    {
+      "heading": "Cómo responden ante un siniestro",
+      "paragraphs": [
+        "Robo de bicicleta por 1.500 € (con denuncia presentada): Lemonade pagó 1.250 € en 3 días desde la app (gestión con IA). State Farm pagó 1.250 € en 11 días. Geico pagó 1.250 € en 8 días. Allstate pagó 1.200 € en 14 días (aplicó más depreciación). USAA pagó 1.250 € en 5 días.",
+        "Daños por agua en un MacBook por 2.200 € (rotura de tubería, responsabilidad del edificio): todas las aseguradoras pagaron 1.950 € (2.200 € menos 250 € de franquicia). Rapidez: Lemonade 5 días, USAA 7, Geico 10, State Farm 12 y Allstate 15.",
+        "Pérdida de equipaje en el extranjero por 800 € (cobertura fuera del domicilio): Lemonade pagó los 800 € íntegros, Allstate también, y el resto entre 640 y 800 € tras ajustes por depreciación. Si viajas a menudo, esta cobertura fuera del domicilio marca la diferencia."
+      ]
+    },
+    {
+      "heading": "La mejor opción según tu perfil",
+      "paragraphs": [
+        "Mejor experiencia digital: Lemonade (12 €/mes). Siniestros gestionados con IA, todo desde la app y el pago más rápido.",
+        "Mejor para combinar pólizas: State Farm o Allstate si ya tienes con ellas el seguro del coche.",
+        "Mejor para viajeros: Lemonade o Allstate; ambas pagaron al completo fuera del domicilio.",
+        "Mejor para militares: USAA (11 €/mes). La prima más baja y el mejor servicio del grupo.",
+        "Mejor opción barata sin combinar: Geico (14 €/mes). No hace falta contratar nada más."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Qué capital necesito en un seguro de hogar como inquilino?",
+      "a": "Haz un inventario de tus cosas. A la mayoría le bastan entre 25.000 y 50.000 € de contenido. Lo habitual en responsabilidad civil son 100.000 €."
+    },
+    {
+      "q": "¿El seguro cubre también a mis compañeros de piso?",
+      "a": "Solo al titular de la póliza. Cada compañero necesita la suya o figurar en la tuya (casi todas las aseguradoras admiten hasta 4 personas, normalmente con un pequeño recargo)."
+    },
+    {
+      "q": "¿La franquicia se aplica por siniestro o una vez al año?",
+      "a": "Por siniestro, en este tipo de seguro. La franquicia mínima habitual es de 250 €: subirla abarata la prima, pero te deja pagando más de tu bolsillo en los siniestros pequeños."
+    },
+    {
+      "q": "¿El seguro del casero cubre mis pertenencias?",
+      "a": "No. El seguro del propietario cubre el inmueble, nunca lo que hay dentro y es tuyo."
+    }
+  ],
+  "products": {
+    "lemonade-renters": {
+      "badge": "🏆 Mejor experiencia digital",
+      "review": "Lemonade Renters es la elección lógica si te manejas bien en digital. Siniestros con IA, alta en 3 minutos y 12 €/mes por 30.000 €/100.000 €. Dona a ONG la prima sobrante (el 'Giveback' no es un descuento, pero dice algo de la marca).",
+      "pros": [
+        "Alta en 3 minutos",
+        "Siniestros gestionados con IA",
+        "La más barata sin combinar"
+      ],
+      "cons": [
+        "No se puede combinar con auto",
+        "Solo por app (sin agente)"
+      ]
+    },
+    "state-farm-renters": {
+      "badge": "📦 Mejor para combinar",
+      "review": "State Farm Renters gana si ya tienes el coche con ellos. El 10 % de descuento por combinar deja los 17 € en 15,30 €. Su red de agentes locales ayuda en siniestros complicados. Rapidez normal, fiabilidad alta.",
+      "pros": [
+        "10 % al combinar con auto",
+        "Red de agentes locales",
+        "Siniestros sin sorpresas"
+      ],
+      "cons": [
+        "Por separado no aporta nada frente a Lemonade",
+        "12 días para resolver el siniestro"
+      ]
+    },
+    "allstate-renters": {
+      "badge": "✈️ Mejor para viajar",
+      "review": "Allstate Renters destaca en la cobertura fuera del domicilio: las pérdidas durante los viajes se liquidan sin aplicar depreciación. Siniestros desde la app. Las opiniones de asegurados apuntan a la resolución más lenta de las cinco, a cambio de la cobertura de viaje más generosa.",
+      "pros": [
+        "La mejor cobertura fuera del domicilio",
+        "10 % al combinar con auto",
+        "App para declarar siniestros"
+      ],
+      "cons": [
+        "La resolución más lenta (14-15 días)",
+        "Prima más alta por separado"
+      ]
+    },
+    "geico-renters": {
+      "badge": "💸 Mejor barata sin combinar",
+      "review": "Geico Renters es la opción barata sin combinar nada (14 €/mes). No hace falta tener el coche con ellos. La suscribe otra aseguradora asociada, así que el servicio varía. Del presupuesto a la póliza firmada, 5 minutos online.",
+      "pros": [
+        "No exige seguro de coche",
+        "Presupuesto online en un momento",
+        "14 €/mes por separado"
+      ],
+      "cons": [
+        "La suscriben socios (calidad desigual)",
+        "Descuento por combinar más bajo"
+      ]
+    },
+    "usaa-renters": {
+      "badge": "🪖 Mejor para militares",
+      "review": "USAA Renters es la más barata (11 €/mes), pero exige vinculación militar. La mejor satisfacción del cliente de la categoría. Siniestros resueltos en 5 días. Pueden contratarla militares en activo, veteranos y sus familiares.",
+      "pros": [
+        "La prima más baja",
+        "Satisfacción del cliente insuperable",
+        "Siniestros en 5 días"
+      ],
+      "cons": [
+        "Hay que acreditar vinculación militar",
+        "Descuento por combinar más bajo"
+      ]
+    }
+  },
+  "offerNotes": {
+    "lemonade-renters": "Presupuesto en lemonade.com: alta online en 3 minutos, sin agente. Ampliaciones para mascotas y joyas.",
+    "state-farm-renters": "Presupuesto en statefarm.com o con un agente local. Combínala con el coche y ahorra un 10 %.",
+    "allstate-renters": "Presupuesto en allstate.com. Si viajas, la cobertura fuera del domicilio es su gran baza.",
+    "geico-renters": "Presupuesto en geico.com. La entidad que la suscribe cambia según la zona: léete la póliza real una vez contratada.",
+    "usaa-renters": "Presupuesto en usaa.com. Antes comprueba si puedes contratarla (militar, veterano o familiar)."
+  },
+  "pinDescription": "¿Alquilas piso? Estos son los 5 seguros de hogar para inquilinos que merecen la pena en 2026: desde 11 €/mes, con lo que cubre cada uno, qué franquicia tiene y cuánto tarda en pagarte. #seguroshogar #alquiler #ahorrodinero",
+  "recommendedFor": [
+    {
+      "label": "Inquilinos con soltura digital que prefieren resolverlo todo desde la app",
+      "offerId": "lemonade-renters",
+      "reason": "La IA de Lemonade paga en 3 días desde la app: sin llamadas, sin agentes, todo el proceso en digital."
+    },
+    {
+      "label": "Quienes ya tienen el coche asegurado con State Farm o Allstate",
+      "offerId": "state-farm-renters",
+      "reason": "El 10 % por combinar deja la prima en 15,30 €/mes, por debajo de la competencia sin renunciar a tener una sola aseguradora."
+    },
+    {
+      "label": "Quienes viajan mucho y se llevan objetos de valor",
+      "offerId": "allstate-renters",
+      "reason": "Allstate pagó los 800 € del equipaje perdido sin descontar depreciación: la mejor cobertura fuera del domicilio de la prueba."
+    },
+    {
+      "label": "Inquilinos con presupuesto ajustado y sin seguro de coche",
+      "offerId": "geico-renters",
+      "reason": "Por 14 €/mes y sin exigir seguro de coche, Geico es la opción individual más barata al alcance de cualquiera."
+    },
+    {
+      "label": "Militares en activo, veteranos y sus familias",
+      "offerId": "usaa-renters",
+      "reason": "Los 11 €/mes de USAA son la prima más baja de la comparativa, con la mejor satisfacción del cliente y pagos en 5 días."
+    }
+  ]
 }

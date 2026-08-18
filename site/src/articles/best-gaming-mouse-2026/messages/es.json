@@ -107,5 +107,114 @@
     "microsoft-arc-mouse": "Microsoft Arc Mouse — ratón Bluetooth ultrafino plegable para viajes, franja táctil de desplazamiento capacitiva (sin rueda de desplazamiento física), Bluetooth 5.0, aproximadamente un año de vida útil de batería con dos pilas AAA, se pliega plano a aproximadamente 7mm de grosor para transporte en bolsa, funciona en la mayoría de superficies, emparejamiento instantáneo con dispositivos Surface y Windows. Disponible en los principales minoristas en línea. solo Bluetooth sin opción de dongle 2.4GHz — susceptible a interferencias en entornos con mucho RF y mayor latencia que el inalámbrico con dongle; la franja táctil de desplazamiento no proporciona retroalimentación táctil y requiere un gesto intencional en lugar de desplazamiento pasivo, al cual algunos usuarios nunca se adaptan; no adecuado para gaming de ningún tipo; el mecanismo de bisagra plegable tiene fallos de desgaste documentados a los 2–3 años de uso frecuente en viajes; la forma de corte asimétrico puede no adaptarse a todos los tamaños de palma para uso prolongado en escritorio."
   },
   "pinDescription": "5 ratones comparados para 2026 — G Pro X Superlight 2 ultraligero competitivo vs Razer DeathAdder V3 ergonómico vs MX Master 3S rueda de productividad vs Logitech G604 LIGHTSPEED inalámbrico con muchos botones vs Arc Mouse plegable para viajes. La verdad sobre el DPI, la realidad del polling rate, los hechos sobre la latencia inalámbrica. Tu próximo ratón empieza aquí.",
-  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad."
+  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad.",
+  "products": [
+    {
+      "offerId": "logicool-g-pro-x-superlight-2",
+      "badge": "La mejor para juego competitivo",
+      "grade": "A+",
+      "review": "El Logitech G Pro X Superlight 2 reúne la ficha técnica competitiva más completa de esta comparativa: 60 g de peso, sensor HERO 25K, conexión inalámbrica LIGHTSPEED de 2,4 GHz con latencia inferior a 1 ms, hasta 2000 Hz de polling tras actualizar el firmware y 95 horas de autonomía. Los jugadores profesionales de esports lo usan en los grandes torneos, y eso es credibilidad real de rendimiento, no marketing. La forma minimalista orientada a diestros, sin botones laterales, mantiene el peso en el umbral competitivo pero elimina por completo las macros. Es un ratón de precio alto, y el G Pro X Superlight 1 de la generación anterior ofrece un rendimiento de sensor prácticamente idéntico a menor precio en el mercado de segunda mano: merece la pena valorarlo si el presupuesto pesa más que los 2000 Hz de polling y el nuevo recubrimiento.",
+      "pros": [
+        "Cuerpo ultraligero de 60 g para flicks y tracking sin fatiga",
+        "Sensor HERO 25K con latencia inalámbrica LIGHTSPEED inferior a 1 ms",
+        "Tasa de sondeo de 2000 Hz mediante actualización de firmware",
+        "95 horas de autonomía y carga por USB-C"
+      ],
+      "cons": [
+        "Forma solo para diestros y sin botones laterales: adiós a las macros",
+        "Precio elevado para un ratón esencialmente minimalista"
+      ]
+    },
+    {
+      "offerId": "razer-deathadder-v3",
+      "badge": "La mejor ergonomía por su precio",
+      "grade": "A",
+      "review": "El Razer DeathAdder V3 es la opción ergonómica para diestros con mejor relación calidad-precio. La forma DeathAdder lleva más de 20 años puliéndose para manos medianas y grandes con agarre palm o claw relajado, y con sus 59 g el modelo base con cable iguala en peso al G Pro X Superlight 2 costando alrededor de un tercio. El sensor óptico Focus Pro 30K está en lo más alto y el Razer Optical Switch Gen-3 está homologado para 90 millones de clics. La joroba pronunciada detrás de la zona del sensor sostiene activamente la muñeca en sesiones de varias horas, algo que la silueta minimalista del G Pro X no hace. La contrapartida honesta: el modelo base es solo con cable; el V3 HyperSpeed inalámbrico es un producto aparte y más caro. Su forma deja fuera a los zurdos, y quien tenga manos pequeñas y agarre fingertip puede notar la joroba demasiado marcada.",
+      "pros": [
+        "59 g con cable, a la altura de los referentes de peso competitivo",
+        "Forma ergonómica DeathAdder contrastada para agarre palm y claw",
+        "Sensor Focus Pro 30K y switches ópticos Razer de 90 millones de clics",
+        "Precio contenido: la mejor relación precio-rendimiento"
+      ],
+      "cons": [
+        "Solo con cable a ese precio; la versión inalámbrica cuesta más",
+        "Forma exclusiva para diestros: excluye por completo a los zurdos"
+      ]
+    },
+    {
+      "offerId": "logicool-mx-master-3s",
+      "badge": "El mejor para productividad",
+      "grade": "A",
+      "review": "El Logitech MX Master 3S es la referencia en productividad para quien pasa más tiempo entre hojas de cálculo, documentos largos y pestañas del navegador que jugando. La rueda electromagnética MagSpeed recorre unas 1000 líneas por segundo en modo libre y engrana con precisión para navegar por documentos, mientras que Logi Flow gestiona el movimiento del cursor y el portapapeles compartido entre hasta tres ordenadores. El sensor de 8000 DPI incluye calibración para superficies de cristal, algo muy útil con las mesas de cristal habituales en el teletrabajo. Hasta 70 días de autonomía por carga y doble modo Logi Bolt 2,4 GHz más Bluetooth completan el paquete de oficina. Las contrapartidas honestas: sus 141 g más que duplican el peso de los ratones competitivos y no sirven para el tracking rápido en shooters, y el modo de giro libre MagSpeed exige un periodo de adaptación.",
+      "pros": [
+        "Rueda electromagnética MagSpeed para documentos y hojas de cálculo",
+        "Logi Flow para cambiar entre hasta tres ordenadores",
+        "Sensor de 8000 DPI con calibración para superficies de cristal",
+        "Hasta 70 días de autonomía por carga"
+      ],
+      "cons": [
+        "Sus 141 g lo hacen inadecuado para el juego competitivo",
+        "Requiere el software Logi Options+ en segundo plano para personalizarlo del todo"
+      ]
+    },
+    {
+      "offerId": "elecom-m-xgm20dlbk",
+      "badge": "El mejor con muchos botones",
+      "grade": "B+",
+      "review": "El Logitech G604 LIGHTSPEED es un ratón inalámbrico grande pensado para acumular botones y autonomía, no para pesar poco. Se conecta tanto por LIGHTSPEED 2,4 GHz como por Bluetooth, monta el sensor HERO 25K que comparte con la gama gaming tope de Logitech y ofrece 15 controles programables, seis de ellos para el pulgar: suficiente para mapear una barra de acción completa de MMO o un buen arsenal de macros de productividad. Una sola pila AA lo mantiene en marcha durante muchísimo tiempo, así que la carga rara vez preocupa. Las contrapartidas honestas: es más grande y pesado que un ratón dedicado a shooters, el diseño de pila AA añade algo de masa y la carcasa texturizada resulta funcional más que premium. Para apuntar con reflejos en un FPS querrás algo más ligero, pero para flujos de trabajo con muchos botones es una opción sólida y fácil de encontrar.",
+      "pros": [
+        "15 controles programables, seis de ellos para el pulgar",
+        "Doble conexión inalámbrica LIGHTSPEED 2,4 GHz y Bluetooth",
+        "Sensor óptico HERO 25K, el mismo de los ratones tope de gama de Logitech",
+        "Autonomía larguísima con una sola pila AA"
+      ],
+      "cons": [
+        "Más grande y pesado que un ratón específico para FPS",
+        "La pila AA añade peso frente a una batería integrada"
+      ]
+    },
+    {
+      "offerId": "microsoft-arc-mouse",
+      "badge": "El mejor para viajar",
+      "grade": "B+",
+      "review": "El Microsoft Arc Mouse resuelve un problema de portabilidad que ningún otro ratón de esta comparativa aborda: se pliega hasta unos 7 mm de grosor y desaparece en la mochila sin presionar el portátil, la libreta o el cargador. La banda táctil capacitiva sustituye a la rueda física y funciona bien para navegar y desplazarse por documentos una vez te acostumbras al gesto en lugar del scroll pasivo. El Bluetooth 5.0 se empareja al instante con dispositivos Surface y Windows, y dos pilas AA dan alrededor de un año de uso normal sin recargas. Es un ratón de viaje de precio ajustado. Las contrapartidas honestas: al ser solo Bluetooth tiene más latencia que el inalámbrico de 2,4 GHz con receptor y peor comportamiento de radio en entornos saturados; la banda táctil no ofrece retorno táctil y hay quien nunca llega a adaptarse; y la bisagra plegable acumula desgaste documentado a los 2-3 años si viajas mucho.",
+      "pros": [
+        "Se pliega hasta unos 7 mm de grosor para llevarlo en la mochila",
+        "Emparejamiento instantáneo por Bluetooth 5.0 con Surface y Windows",
+        "Alrededor de un año de autonomía con dos pilas AA",
+        "Banda táctil capacitiva para navegar y desplazarse por documentos"
+      ],
+      "cons": [
+        "Solo Bluetooth: más latencia que el inalámbrico de 2,4 GHz con receptor",
+        "La bisagra plegable presenta desgaste documentado a los 2-3 años de uso intenso"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para FPS competitivo y aspiraciones en esports",
+      "offerId": "logicool-g-pro-x-superlight-2",
+      "reason": "Sus 60 g con sensor HERO 25K y LIGHTSPEED a 2000 Hz componen la ficha competitiva más completa, la que usan los profesionales en torneos."
+    },
+    {
+      "label": "Para juego ergonómico de diestros con poco presupuesto",
+      "offerId": "razer-deathadder-v3",
+      "reason": "La contrastada forma DeathAdder para agarre palm, 59 g y un precio ajustado dan la mejor relación precio-rendimiento en manos medianas y grandes."
+    },
+    {
+      "label": "Para oficina con muchas hojas de cálculo y varios equipos",
+      "offerId": "logicool-mx-master-3s",
+      "reason": "La rueda MagSpeed y el cambio entre dispositivos de Logi Flow aceleran de verdad los documentos largos y el trabajo con tres ordenadores."
+    },
+    {
+      "label": "Para MMO/MOBA y quien necesite muchos botones",
+      "offerId": "elecom-m-xgm20dlbk",
+      "reason": "Quince controles programables, doble conexión inalámbrica y una autonomía enorme con una pila AA encajan con el juego y el trabajo llenos de atajos."
+    },
+    {
+      "label": "Para viajes de trabajo frecuentes y equipaje mínimo",
+      "offerId": "microsoft-arc-mouse",
+      "reason": "Plegado a 7 mm y un año de autonomía con pilas AA: el único ratón que desaparece dentro de la bolsa de viaje."
+    }
+  ]
 }

@@ -2,5 +2,153 @@
   "title": "Mejor quitanieves 2026: 5 comparados",
   "description": "Comparamos EGO, Toro, Ariens, Ryobi, Snow Joe. Esto es lo que realmente destaca en distancia de lanzamiento y capacidad para nieve húmeda para quitanieves en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Una etapa frente a dos etapas",
+      "paragraphs": [
+        "Una etapa (Ryobi, Snow Joe y en parte EGO): un solo sinfín lanza la nieve directamente. Va bien con menos de 30 cm sobre superficies planas. No es autopropulsada.",
+        "Dos etapas (Toro, Ariens): el sinfín rompe la nieve y el impulsor la lanza. Autopropulsadas. Son las mejores para nieve profunda (40 cm o más) y suelos irregulares.",
+        "La EGO SNT2400 es un híbrido: arquitectura de una etapa con asistencia de pico de potencia. Muy solvente entre 30 y 40 cm; a partir de ahí se queda corta frente a una de dos etapas de verdad."
+      ]
+    },
+    {
+      "heading": "Distancia de lanzamiento y despeje",
+      "paragraphs": [
+        "Lanzamiento con 20 cm de nieve seca: Toro 12-15 m, Ariens 14-15 m, EGO 11-12 m, Ryobi 8-9 m, Snow Joe 5-6 m. La gasolina de dos etapas manda con claridad.",
+        "Despejar un camino de 60 m con 20 cm de nieve: Toro 12 min, Ariens 12 min, EGO 18 min (recarga a mitad), Ryobi 22 min (cubrió el 75 % antes de agotar la batería), Snow Joe 28 min.",
+        "Con nieve húmeda y pesada (40 cm o más): Toro y Ariens la sacaron sin problema. La EGO se atascó pero se recuperó. La Ryobi despejó una parte y se paró. La Snow Joe falló a partir de 20 cm de nieve húmeda."
+      ]
+    },
+    {
+      "heading": "Fiabilidad con frío intenso",
+      "paragraphs": [
+        "Arranques matinales a -12 °C: el arranque eléctrico de la Toro, instantáneo. El de la Ariens, también instantáneo (además lleva cuerda de tiro). El pulsador de la EGO, fiable. La Ryobi arranca a pulsador, pero pierde un 20 % de autonomía con frío extremo. La Snow Joe también responde bien.",
+        "Las de gasolina (Toro, Ariens) obligan a almacenar combustible y hacer mantenimiento cada temporada: aceite, bujías, limpieza del carburador. Las de batería (EGO, Ryobi, Snow Joe) no piden mantenimiento, pero en sesiones largas la autonomía se nota."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Batería o gasolina en 2026?",
+      "a": "Gasolina si nieva fuerte (40 cm o más varias veces al año) o si el camino es largo (más de 60 m). Batería para zonas moderadas o accesos cortos (menos de 30 m). La EGO SNT2400 es la de batería que más aguanta."
+    },
+    {
+      "q": "¿Una etapa o dos etapas?",
+      "a": "Dos etapas (Toro, Ariens) para nieve profunda y accesos anchos o rurales. Una etapa (Ryobi, Snow Joe) para menos de 30 cm en superficies planas de zona residencial."
+    },
+    {
+      "q": "¿Toro o Ariens?",
+      "a": "Las dos son de nivel profesional. La Toro Power Max tiene una dirección por gatillo algo mejor resuelta. La Ariens Deluxe monta caja de cambios de fundición (dura más). Decide según el servicio técnico que tengas cerca."
+    },
+    {
+      "q": "¿Qué superficie cubre la EGO SNT2400?",
+      "a": "Con dos baterías de 56 V y 7,5 Ah despeja un acceso de 30-45 m con 20 cm de nieve. Para más de 60 m o nieve profunda, toca recargar a mitad de faena."
+    }
+  ],
+  "products": {
+    "ego-snow-blower-snt2400": {
+      "badge": "🏆 Mejor de batería",
+      "review": "La EGO Power+ SNT2400 es la opción de batería acertada para zonas de nevadas moderadas. Dos baterías de 56 V, 61 cm de anchura de despeje, asistencia de pico de potencia y rotación de canaleta de 90° en 22 segundos. La más silenciosa de esta comparativa. Ideal si no quieres saber nada del mantenimiento de la gasolina.",
+      "pros": [
+        "La más silenciosa de la comparativa",
+        "Sin mantenimiento de motor de gasolina",
+        "Comparte baterías con el ecosistema EGO"
+      ],
+      "cons": [
+        "Sufre con más de 40 cm de nieve húmeda",
+        "Precio alto: 1.000-1.300 €"
+      ]
+    },
+    "toro-power-max-826": {
+      "badge": "🔥 Mejor de gasolina",
+      "review": "La Toro Power Max 826 OXE es la elección para zonas donde la nieve va en serio. Gasolina de dos etapas, 66 cm de anchura, motor de 252 cc, arranque eléctrico y puños calefactados. Despejó un camino de 60 m con 20 cm de nieve en 12 minutos. Red de distribuidores amplia.",
+      "pros": [
+        "La más rápida despejando",
+        "Puños calefactados",
+        "Dirección por gatillo"
+      ],
+      "cons": [
+        "Exige mantenimiento de gasolina",
+        "Más ruidosa que la EGO",
+        "1.200-1.550 €"
+      ]
+    },
+    "ariens-deluxe-28": {
+      "badge": "❄️ Mejor para nieve intensa",
+      "review": "La Ariens Deluxe 28 SHO es la elección para nevadas fuertes y accesos con pendiente. Gasolina de dos etapas, 71 cm de anchura, motor de 306 cc y caja de cambios de fundición. Pensada para quien vive en zonas con más de 2,5 metros de nieve al año, tipo Pirineo o alta montaña.",
+      "pros": [
+        "71 cm: la anchura mayor",
+        "Caja de cambios de fundición (duradera)",
+        "Aguanta más de 40 cm de nieve húmeda"
+      ],
+      "cons": [
+        "La más pesada de la comparativa",
+        "La más cara (1.300-1.650 €)"
+      ]
+    },
+    "ryobi-40v-21inch-snow-blower": {
+      "badge": "🏠 Mejor si ya tienes Ryobi",
+      "review": "La Ryobi 40V de 53 cm es la elección para quien ya tiene el ecosistema Ryobi 40V y un acceso corto. Una etapa a batería, 53 cm de anchura, 33 cm de profundidad, 450-650 €. Cubrió el 75 % de un camino de 60 m antes de quedarse sin batería: su terreno son los accesos de menos de 30 m.",
+      "pros": [
+        "Comparte baterías con Ryobi 40V",
+        "Sin mantenimiento de gasolina",
+        "Batería a buen precio"
+      ],
+      "cons": [
+        "La batería limita el alcance",
+        "No sirve para nieve pesada o húmeda",
+        "Solo una etapa"
+      ]
+    },
+    "snow-joe-ion100v": {
+      "badge": "💸 Mejor batería económica",
+      "review": "La Snow Joe iON100V es la elección para accesos cortos y nevadas ligeras. Batería de 100 V, 46 cm de anchura y 16 kg (la más ligera). Va bien por debajo de 20 cm; falló con 20 cm de nieve húmeda. Fácil de guardar y de precio contenido.",
+      "pros": [
+        "La más ligera (16 kg)",
+        "Fácil de guardar",
+        "Entrada asequible a la batería"
+      ],
+      "cons": [
+        "Falla con más de 20 cm de nieve húmeda",
+        "La anchura más pequeña (46 cm)",
+        "Ecosistema limitado"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ego-snow-blower-snt2400": "A la venta en egopowerplus.com y grandes superficies de bricolaje. Suele venir en pack con baterías y cargador.",
+    "toro-power-max-826": "A la venta en distribuidores Toro y tiendas de bricolaje. El verdadero valor está en la red de servicio técnico.",
+    "ariens-deluxe-28": "A la venta en distribuidores Ariens, con puesta en marcha incluida.",
+    "ryobi-40v-21inch-snow-blower": "A la venta en tiendas de bricolaje y en ryobitools.com.",
+    "snow-joe-ion100v": "A la venta en amazon.es y snowjoe.com. Batería incluida."
+  },
+  "pinDescription": "¿Quitanieves para casa? Comparamos EGO, Toro, Ariens, Ryobi y Snow Joe: una o dos etapas, anchura de despeje, alcance de lanzamiento y qué sale más barato de mantener, si batería o gasolina. #quitanieves",
+  "recommendedFor": [
+    {
+      "label": "Casas en zonas de nevadas fuertes con accesos largos",
+      "offerId": "ariens-deluxe-28",
+      "reason": "Sus 71 cm y la caja de fundición de dos etapas resuelven los 40 cm de nieve húmeda que tumban al resto de la comparativa."
+    },
+    {
+      "label": "Quien no quiere oír hablar del mantenimiento de la gasolina",
+      "offerId": "ego-snow-blower-snt2400",
+      "reason": "La más silenciosa de la comparativa y con asistencia de pico de potencia: llega hasta 40 cm sin cambios de aceite, bujías ni limpiezas de carburador."
+    },
+    {
+      "label": "Casas con accesos amplios en zonas de nieve seria",
+      "offerId": "toro-power-max-826",
+      "reason": "Despejó 60 m con 20 cm de nieve en 12 minutos, y los puños calefactados y la dirección por gatillo hacen llevaderas las sesiones largas."
+    },
+    {
+      "label": "Quien ya tiene herramientas Ryobi y un acceso corto y llano",
+      "offerId": "ryobi-40v-21inch-snow-blower",
+      "reason": "Comparte baterías con el ecosistema Ryobi 40V, así que el coste total baja mucho en accesos de menos de 30 m con nieve moderada."
+    },
+    {
+      "label": "Pisos o comunidades que solo despejan una acera",
+      "offerId": "snow-joe-ion100v",
+      "reason": "Con 16 kg y 46 cm de anchura es la más fácil de guardar en un armario y resuelve sin dramas las nevadas ligeras de menos de 20 cm."
+    }
+  ]
 }

@@ -104,5 +104,114 @@
     "samsung-galaxy-fit-3": "A maior tela desta comparação com 1,6 polegada — vantagem de legibilidade para notificações e dados de treino em relação às pulseiras mais estreitas do Fitbit e Xiaomi. Funciona com qualquer celular Android, não apenas Samsung. Bateria de 13 dias declarada (8-11 dias reais). Sem GPS integrado. A profundidade analítica completa do app Galaxy Wearable exige celular Samsung; em Android não Samsung o conjunto de recursos é reduzido. O monitor Android econômico e pragmático."
   },
   "pinDescription": "Cinco monitores de atividade comparados em 2026: Fitbit Charge 6 com GPS integrado, Xiaomi Smart Band 9 a 33 gramas, Garmin Vivosmart 5 com rastreamento de energia Body Battery, Apple Watch SE para usuários de iPhone e Samsung Galaxy Fit 3 com tela grande de 1,6 polegada. GPS integrado vs conectado, dependência de ecossistema, bateria no uso real e em quais números dos sensores de saúde você realmente pode confiar.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "products": [
+    {
+      "offerId": "fitbit-charge-6",
+      "badge": "Melhor GPS",
+      "review": "A Charge 6 é a única pulseira desta comparação com GPS integrado, e é justamente esse recurso que justifica o primeiro lugar para quem corre ou pedala sem levar o celular. O sensor óptico de frequência cardíaca foi atualizado em relação às gerações anteriores da linha Charge, e as leituras de FC em repouso ficam de 2 a 4 bpm de diferença em relação a uma cinta peitoral durante atividades de intensidade constante. A integração com o Google traz as instruções do Maps e o controle do YouTube Music no pulso. Na prática, a bateria dura de 4 a 5 dias com monitoramento contínuo de FC e sono ativado — mais do que aceitável para tudo o que ela entrega. As ressalvas honestas: o hardware de ECG está lá, mas o recurso continua desativado em algumas regiões (incluindo contas registradas no Japão) em meados de 2026, e as análises mais profundas de prontidão e estresse exigem o Fitbit Premium.",
+      "pros": [
+        "Única pulseira daqui com antena de GPS integrada",
+        "Google Maps e YouTube Music direto no pulso",
+        "Bateria real de 4 a 5 dias com FC contínua",
+        "Sensor óptico de FC confiável em ritmo constante"
+      ],
+      "cons": [
+        "ECG desativado em contas de algumas regiões",
+        "Fitbit Premium é obrigatório para as análises completas"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "xiaomi-smart-band-9",
+      "badge": "Melhor Custo-Benefício",
+      "review": "Custando cerca de um quarto do preço da segunda opção mais barata do grupo, a Smart Band 9 dá conta do recado no essencial: monitorar a atividade do dia a dia. A tela AMOLED de 1,62 polegada é brilhante e legível, a pulseira pesa só 33 g e some no pulso durante o monitoramento do sono, e os 14 dias de bateria anunciados viram de 8 a 10 dias no uso real com FC contínua. A precisão da frequência cardíaca em repouso e em caminhadas de ritmo constante é razoável; já na musculação e no HIIT, o conjunto óptico menor sofre mais com artefatos de movimento do que as pulseiras premium. O GPS é apenas conectado — ela usa o celular pareado para registrar o percurso. O app Mi Fitness é bem mais raso em análise de treino que Fitbit, Garmin ou Samsung Health, e a rede de assistência da Xiaomi no Brasil ainda é limitada se você precisar acionar a garantia.",
+      "pros": [
+        "Custo-benefício excelente para o monitoramento básico",
+        "Só 33 g: você esquece que está usando durante o sono",
+        "AMOLED de 1,62\" é a tela mais brilhante da faixa de entrada",
+        "8 a 10 dias reais de bateria com FC ativa"
+      ],
+      "cons": [
+        "App Mi Fitness é fraco em análise de treino",
+        "Precisão do sensor cai durante o treino na academia"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "garmin-vivosmart-5",
+      "badge": "Melhor Análise de Saúde",
+      "review": "A Vivosmart 5 entrega a melhor análise de saúde e recuperação desta faixa de preço, sustentada pelo Body Battery da Garmin — uma pontuação de prontidão de 0 a 100 calculada a partir da VFC durante o sono, da qualidade do sono, dos padrões de estresse ao longo do dia e da carga de atividade. Quem usa Garmin há tempo costuma dizer a mesma coisa: o Body Battery vira um sinal diário realmente acionável depois de 2 a 4 semanas de calibração. A pulseira fina é discreta no pulso, funciona igualmente bem no iOS e no Android via Garmin Connect e traz SpO2, pontuação de estresse o dia todo e a madura plataforma de análise de sono da Garmin. A troca curiosa nessa faixa intermediária: nenhum GPS integrado em um produto que custa mais que a Fitbit Charge 6. A Garmin a posiciona como monitor de saúde e atividade, não como relógio de corrida, mas a ausência do GPS é uma limitação real para quem treina sem celular.",
+      "pros": [
+        "Body Battery fica útil após 2 a 4 semanas de calibração",
+        "Análise madura de sono e estresse baseada em VFC",
+        "Formato fino e discreto para usar o dia inteiro",
+        "Mesmos recursos no Android e no iOS"
+      ],
+      "cons": [
+        "Sem GPS integrado, mesmo com preço premium",
+        "Recursos de smartwatch limitados perto do Apple Watch"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "apple-watch-se-2nd",
+      "badge": "Melhor para iPhone",
+      "review": "O Apple Watch SE de 2ª geração é o único aparelho desta comparação que funciona como um smartwatch completo, e não como uma pulseira fitness com cara de relógio. Detecção de acidente, SOS de emergência, acesso total à App Store do watchOS, responder mensagens pelo pulso e pagamento por aproximação no pulso em qualquer maquininha por NFC o separam de todo o resto daqui. Como monitor de atividade ele cumpre o papel — frequência cardíaca, GPS via celular, natação com detecção de braçada, monitoramento de sono —, mas as 18 horas reais de bateria significam carregar todo santo dia, sem exceção, o que quebra a constância de uso que gera boa parte do benefício comportamental de um monitor. A exigência de ter um iPhone não tem contorno: não existe modo de pareamento com Android. Custa quase o dobro da Vivosmart 5, e isso só se justifica pelos recursos de smartwatch, não pela capacidade fitness.",
+      "pros": [
+        "Smartwatch completo, com App Store do watchOS",
+        "Apple Pay por aproximação direto do pulso",
+        "Detecção de acidente e SOS de emergência",
+        "Compatível com carregamento MagSafe/Qi"
+      ],
+      "cons": [
+        "Exige iPhone — não há jeito de usar com Android",
+        "Bateria de 18 horas obriga a carregar todo dia"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "samsung-galaxy-fit-3",
+      "badge": "Melhor Tela",
+      "review": "A Galaxy Fit 3 tem a maior tela desta comparação, com 1,6 polegada, e isso faz diferença de verdade se você lê notificações ou dados de treino no pulso durante o exercício. Feita para quem usa Android — funciona com qualquer celular Android, não só Samsung, pelo app Galaxy Wearable da Play Store —, ela promete 13 dias de bateria (de 8 a 11 dias no uso real), tem resistência à água de 50 m para natação e sensor de SpO2 para acompanhar a oxigenação durante a noite. Não tem GPS integrado, apenas GPS conectado, então registrar o percurso exige levar o celular pareado. As análises mais profundas do Galaxy Wearable só funcionam por completo em celulares Samsung; em outros Androids, sobram contagem de passos, sono e notificações. Ela fica entre a faixa de entrada da Xiaomi e o preço intermediário da Fitbit.",
+      "pros": [
+        "Maior tela da comparação, com 1,6 polegada",
+        "Funciona com qualquer Android, não só Samsung",
+        "Bateria real de 8 a 11 dias",
+        "Resistência à água de 50 m para nadar"
+      ],
+      "cons": [
+        "Análises completas só com celular Samsung",
+        "Sem GPS integrado nessa faixa de preço"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para quem corre sem levar o celular",
+      "offerId": "fitbit-charge-6",
+      "reason": "O GPS integrado é o que faz a diferença aqui — só a Charge 6 registra percurso e ritmo com precisão quando você deixa o celular em casa."
+    },
+    {
+      "label": "Para a primeira pulseira, sem gastar muito",
+      "offerId": "xiaomi-smart-band-9",
+      "reason": "Com apenas 33 g e preço de entrada, ela cobre passos, sono e notificações sem você se comprometer antes de saber se vai mesmo usar todo dia."
+    },
+    {
+      "label": "Para acompanhar recuperação e estresse com dados",
+      "offerId": "garmin-vivosmart-5",
+      "reason": "O Body Battery e a análise de estresse por VFC da Garmin dão o sinal de recuperação mais acionável desta faixa de preço, seja qual for o seu celular."
+    },
+    {
+      "label": "Para quem tem iPhone e quer um smartwatch de verdade",
+      "offerId": "apple-watch-se-2nd",
+      "reason": "A App Store do watchOS, o Apple Pay no pulso e a detecção de acidente só fazem sentido se você já vive no ecossistema Apple e aceita carregar toda noite."
+    },
+    {
+      "label": "Para quem usa Android e lê os dados no pulso",
+      "offerId": "samsung-galaxy-fit-3",
+      "reason": "A tela de 1,6 polegada é a mais legível na faixa intermediária e conecta sem complicação em qualquer celular Android, não só nos Samsung."
+    }
+  ]
 }

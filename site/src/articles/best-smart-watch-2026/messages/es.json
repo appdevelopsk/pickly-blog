@@ -82,5 +82,109 @@
     "amazfit-gtr-4": "Elección de valor con diseño destacado -- cara redonda AMOLED de 1,43 pulgadas, GNSS de doble banda y 5 sistemas a este precio, batería realista de 10-12 días, más de 150 modos deportivos a través de la app Zepp. La funcionalidad de respuesta a notificaciones es la más débil de esta comparación (respuestas predefinidas en Android, prácticamente ausente en iOS); el ecosistema de apps de terceros de Zepp OS es pequeño; la garantía a través del comercio general en lugar de una red de tiendas flagship."
   },
   "pinDescription": "Cinco smartwatches comparados en 2026, desde el Fitbit Charge 6 de gama de entrada hasta el Garmin Fenix 8 de gama alta. Duración de batería, precisión GPS, dependencia del ecosistema y los límites como dispositivo médico que ninguna página de marketing menciona.",
-  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad."
+  "methodology": "Cada producto se evaluó frente a sus especificaciones documentadas, pruebas comparativas de terceros e informes verificados de usuarios. Puntuamos las funciones, el rendimiento, la calidad de fabricación, la compatibilidad con el ecosistema y el coste total de propiedad.",
+  "products": [
+    {
+      "offerId": "apple-watch-series-10",
+      "badge": "El día a día con iPhone",
+      "grade": "A+",
+      "review": "El Apple Watch Series 10 es la elección evidente para quien lleva iPhone y el smartwatch más redondo de esta comparativa. Su pantalla OLED siempre activa de 1,96 pulgadas es la más amplia del grupo, la caja es alrededor de un 10 % más fina que la del Series 9, y el ECG homologado, los avisos de fibrilación auricular, la detección de apnea del sueño y la medición de oxígeno en sangre (disponible en las unidades vendidas fuera de EE. UU.) cubren todo lo que importa en salud. Con Apple Pay funciona en tiendas y en los tornos del transporte público, y su catálogo de apps de terceros es el mayor de la comparativa. Con la pantalla siempre encendida y el pulso en continuo, la batería aguanta entre 18 y 22 horas: cargarlo cada día es el peaje. No se empareja con Android en absoluto, así que cambiar de móvil equivale a jubilar el reloj. Para una casa con iPhone y metida en el ecosistema de Apple, es la respuesta correcta.",
+      "pros": [
+        "ECG homologado, avisos de fibrilación auricular y detección de apnea del sueño",
+        "Apple Pay funciona en tiendas y en los tornos del transporte público",
+        "El catálogo de apps de terceros más amplio de la comparativa"
+      ],
+      "cons": [
+        "18-22 horas reales de batería: hay que cargarlo a diario",
+        "No se empareja con Android: cambiar de móvil deja el reloj inservible"
+      ]
+    },
+    {
+      "offerId": "garmin-fenix-8-47mm",
+      "badge": "Buque insignia de resistencia",
+      "grade": "A",
+      "review": "El Garmin Fenix 8 de 47 mm es el buque insignia para el atleta de resistencia y el reloj de montaña más capaz de esta comparativa: pantalla AMOLED con cristal de zafiro, GPS multibanda de doble frecuencia que mantiene un margen de 3-8 m incluso entre edificios, navegación por senderos con mapas topográficos, resistencia al agua de 40 m, modo ordenador de buceo y la analítica de carga de entrenamiento y recuperación más profunda de todo el grupo. La batería llega a los 16-18 días anunciados en modo smartwatch y a unos 10-12 días reales entrenando con GPS a diario. Como todo tope de gama, es exagerado para entrenar por afición: el Forerunner 265, bastante más barato, cubre de sobra tres carreras por semana a mitad de precio. El sistema de menús exige de 2 a 4 semanas de rodaje y la caja de 47 mm y 73 g queda grande en muñecas de menos de 16 cm. Para trail, triatlón, alpinismo y buceo, aquí no tiene rival.",
+      "pros": [
+        "GPS multibanda de doble frecuencia y navegación por senderos con mapas topográficos",
+        "10-12 días reales de batería entrenando con GPS a diario",
+        "La analítica de carga y recuperación más profunda de la comparativa"
+      ],
+      "cons": [
+        "Demasiado reloj si no compites",
+        "La caja de 47 mm y 73 g resulta grande en muñecas finas"
+      ]
+    },
+    {
+      "offerId": "fitbit-charge-6",
+      "badge": "Pulsera con mejor relación calidad-precio",
+      "grade": "A",
+      "review": "La Fitbit Charge 6 es la opción de mejor relación calidad-precio en formato pulsera: AMOLED de 1,04 pulgadas, 6-7 días reales de batería con pulso en continuo, GPS integrado para salir a correr e integración con Google que lleva a la muñeca los avisos de Google Maps y el control de YouTube Music. El ecosistema Fitbit Premium analiza el sueño y el estrés mejor que casi cualquier rival a este precio. El hardware de ECG está ahí, pero la función depende del país y a fecha de mayo de 2026 no está disponible en algunos mercados, así que conviene comprobar su estado antes de contar con ella. La cobertura de Google Pay va por detrás de Apple Pay, el formato pulsera limita la personalización de esferas y la pantalla se queda pequeña para manejar apps. Para seguimiento de actividad y sueño con notificaciones al precio más bajo de la comparativa, es difícil de superar.",
+      "pros": [
+        "6-7 días reales de batería con medición continua del pulso",
+        "Avisos de Google Maps y control de YouTube Music en la muñeca",
+        "Fitbit Premium analiza muy bien el sueño y el estrés"
+      ],
+      "cons": [
+        "El ECG depende del país y no está disponible en algunos mercados a fecha de mayo de 2026",
+        "La cobertura de Google Pay va por detrás de Apple Pay"
+      ]
+    },
+    {
+      "offerId": "huawei-watch-gt-5",
+      "badge": "Autonomía larga con Android",
+      "grade": "B+",
+      "review": "El HUAWEI Watch GT 5 de 46 mm es la apuesta por la autonomía para quien usa Android: AMOLED de 1,43 pulgadas, GNSS de doble banda en la variante Pro de 46 mm (la versión estándar de 46 mm es de frecuencia única, conviene confirmarlo antes de comprar) y la mejor batería real de la comparativa, entre 12 y 14 días de uso normal con el pulso en continuo. Los 5 ATM permiten nadar, la app HUAWEI Health ofrece un seguimiento completo del sueño y el estrés, y los acabados en acero inoxidable le dan el aire más premium a este precio. El coste estructural es real: sin Google Play, sin Google Pay y sin apps de terceros como Strava o Spotify; los entrenamientos llegan a Strava a través de HUAWEI Health, con más fricción. Responder mensajes desde iOS es prácticamente imposible, y la red posventa de HUAWEI es más limitada que la de Apple, Garmin o Fitbit. Si prefieres autonomía antes que apps, la propuesta merece la pena.",
+      "pros": [
+        "12-14 días reales de batería con medición continua del pulso",
+        "GNSS de doble banda en la variante Pro de 46 mm",
+        "Resistencia al agua de 5 ATM y acabados en acero inoxidable"
+      ],
+      "cons": [
+        "Sin Google Play, Google Pay ni apps directas de Strava o Spotify",
+        "Red posventa más limitada que la de Apple, Garmin o Fitbit"
+      ]
+    },
+    {
+      "offerId": "amazfit-gtr-4",
+      "badge": "Esfera redonda y GPS a buen precio",
+      "grade": "B+",
+      "review": "El Amazfit GTR 4 es la opción con más diseño por el dinero: AMOLED redondo de 1,43 pulgadas, GNSS de doble banda con 5 sistemas a un precio en el que casi todos los rivales se quedan en frecuencia única, 10-12 días reales de batería con pulso en continuo y media hora diaria de GPS, más de 150 modos deportivos desde la app Zepp y un acabado que aguanta bien fuera del gimnasio. La precisión del GPS es lo que más destaca: doble banda a este precio es raro. Las notificaciones son su punto más flojo de toda la comparativa: en Android las respuestas se limitan a mensajes predefinidos y en iOS prácticamente no existen. El catálogo de apps de terceros de Zepp OS es reducido, la sincronización con Strava funciona pero apenas hay apps propias para el reloj, y la garantía se gestiona por el canal minorista habitual y no por una red de tiendas de marca. Para un reloj redondo con GPS serio a mitad de precio que Apple o Garmin, se gana la etiqueta.",
+      "pros": [
+        "GNSS de doble banda con 5 sistemas en la gama media-alta",
+        "10-12 días reales de batería con pulso en continuo y GPS diario",
+        "Diseño redondo muy cuidado y más de 150 modos deportivos"
+      ],
+      "cons": [
+        "La peor gestión de respuestas a notificaciones de la comparativa",
+        "El catálogo de apps de terceros de Zepp OS es reducido"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Quien usa iPhone y quiere la integración más profunda con iOS",
+      "offerId": "apple-watch-series-10",
+      "reason": "ECG homologado, Apple Pay, detección de apnea del sueño y el mayor catálogo de apps lo convierten en el reloj de diario más completo si en casa mandan los iPhone."
+    },
+    {
+      "label": "Atletas de resistencia que compiten",
+      "offerId": "garmin-fenix-8-47mm",
+      "reason": "GPS multibanda de doble frecuencia, navegación con mapas topográficos, modo ordenador de buceo y 10-12 días reales de batería con GPS diario responden al trail, el triatlón y las expediciones."
+    },
+    {
+      "label": "Seguimiento de actividad y sueño con presupuesto ajustado",
+      "offerId": "fitbit-charge-6",
+      "reason": "Precio de entrada con 6-7 días reales de batería, GPS integrado y el análisis de sueño y estrés de Fitbit Premium: cumple lo que se le pide a una pulsera al precio más bajo de la comparativa."
+    },
+    {
+      "label": "Usuarios de Android que priorizan la batería sobre las apps de Google",
+      "offerId": "huawei-watch-gt-5",
+      "reason": "12-14 días reales de batería, 5 ATM y un acabado de gama media muy cuidado encajan con quien puede vivir sin Google Play ni Google Pay."
+    },
+    {
+      "label": "Quien busca un reloj redondo con estilo y GPS de verdad",
+      "offerId": "amazfit-gtr-4",
+      "reason": "GNSS de doble banda con 5 sistemas y 10-12 días reales de batería en la gama media-alta ofrecen precisión de tope de gama con diseño redondo a mitad de precio que Apple o Garmin."
+    }
+  ]
 }

@@ -105,5 +105,114 @@
     "kaiterra-laser-egg-co2": "Kaiterra Laser Egg+ CO2 é o monitor independente mais legível desta comparação: CO2, PM2.5, temperatura e umidade exibidos claramente na unidade em forma de ovo sem precisar do aplicativo, conexão em nuvem ou telefone. Display e menus em japonês. A integração com HomeKit é dependente de nuvem (servidor ponte da Kaiterra, não HAP local) e tem interrupções periódicas."
   },
   "pinDescription": "5 monitores de qualidade do ar classificados para 2026 — Awair Element 5 sensores vs IQAir AirVisual Node grau profissional vs display independente Kaiterra Laser Egg vs Inkbird CO2 econômico vs Govee tudo em um. Limites de precisão de CO2 explicados. Guia de PM2.5 e temporada de poeira amarela. Realidades de integração com casa inteligente.",
-  "methodology": "Avaliamos cada produto quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. Comparamos as especificações do fabricante com avaliações verificadas de quem já comprou."
+  "methodology": "Avaliamos cada produto quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. Comparamos as especificações do fabricante com avaliações verificadas de quem já comprou.",
+  "products": [
+    {
+      "offerId": "awair-element",
+      "badge": "Melhor integração com casa inteligente",
+      "review": "O Awair Element é o único monitor daqui que realmente se encaixa numa casa inteligente. São cinco sensores — CO2 por NDIR, índice de COV com o Sensirion SGP40, PM2,5 a laser, temperatura e umidade — que alimentam tanto o painel com a pontuação composta Awair Score quanto uma API HTTPS limitada a 300 chamadas a cada 5 minutos no plano gratuito, o suficiente para ligar o aparelho ao Home Assistant ou ao Node-RED sem pagar nada. HomeKit, Alexa e Google Home funcionam, com a ressalva de que a integração passa pela ponte do app Awair Home e não pelo HAP nativo: reiniciou o roteador, o HomeKit para até você abrir o app de novo. A pontuação composta esconde qual sensor está ruim — um 70 tanto pode ser CO2 alto quanto PM2,5 alto —, então olhe as leituras individuais, não só o número do painel.",
+      "pros": [
+        "O conjunto de sensores mais completo da comparação (CO2, COV, PM2,5, temperatura e umidade)",
+        "API gratuita com 300 chamadas a cada 5 minutos para integrar ao Home Assistant",
+        "Compatível com HomeKit, Alexa e Google Home",
+        "Calibração manual de CO2 pelo app para corrigir desvios"
+      ],
+      "cons": [
+        "A integração com o HomeKit depende da nuvem e cai quando o roteador reinicia, até você reabrir o app",
+        "A leitura de COV é um índice relativo, não uma concentração absoluta de TVOC"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "iqair-airvisual-node",
+      "badge": "Melhor para monitoramento profissional",
+      "review": "O AirVisual Node, da IQAir, é a opção de nível profissional — tela grande que dá para ler do outro lado da sala, PM2,5 a laser, CO2 por NDIR e a sobreposição exclusiva do IQA externo, vinda da rede global de monitoramento da IQAir. Em regiões metropolitanas a estação oficial mais próxima costuma estar a 5-10 km, e ver o PM2,5 de dentro de casa lado a lado com o de fora é o único jeito de decidir com clareza se vale abrir a janela num episódio de poluição vinda de longe. A contrapartida é estrutural: nenhuma integração com casa inteligente. Nada de HomeKit, Alexa ou Google Home, e nenhuma API local sem uma ponte via Home Assistant. É o produto mais caro daqui e a interface parece datada perto do Awair ou do Kaiterra — função acima de forma, e isso é proposital.",
+      "pros": [
+        "Sobreposição com dados de estações de IQA externas da rede global da IQAir (exclusivo deste produto)",
+        "Tela grande, legível do outro lado da sala",
+        "A maior precisão de medição de PM2,5 disponível em um produto de consumo",
+        "Nenhum recurso exige assinatura"
+      ],
+      "cons": [
+        "Nenhuma integração nativa com casa inteligente",
+        "É o produto mais caro da comparação"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "inkbird-iam-t1",
+      "badge": "Melhor monitor de CO2 custo-benefício",
+      "review": "O Inkbird IAM-T1 reduz a categoria ao que ela tem de essencial: sensor de CO2 por NDIR, tela grande e legível, temperatura, umidade e 6 a 12 meses de autonomia com bateria de botão. É a forma mais barata de colocar medição confiável de CO2 no quarto ou no home office. O sensor NDIR entrega leituras honestas na faixa de 600 a 2.000 ppm, que é a que interessa — saber se você passou de 1.000 ppm e precisa abrir a janela. Como usa bateria de botão, a medição simplesmente para quando a pilha acaba, então falhas durante a madrugada acontecem. A temperatura marca 2 a 4 °C a mais quando a luz de fundo está ligada perto de uma fonte de calor, por autoaquecimento. Não tem PM2,5, não tem COV e não tem integração com casa inteligente além do Bluetooth com o app da Inkbird.",
+      "pros": [
+        "O menor preço da comparação para medição precisa de CO2 por NDIR",
+        "Tela grande e legível de qualquer canto de um cômodo pequeno",
+        "6 a 12 meses de autonomia com bateria de botão, sem precisar de fonte",
+        "A calibração ABC entra em ação sozinha perto de uma janela aberta"
+      ],
+      "cons": [
+        "Com bateria de botão, a medição para quando a pilha acaba — dá para perder a madrugada inteira",
+        "Sem sensor de PM2,5 ou COV — só CO2, temperatura e umidade"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "govee-air-quality-monitor",
+      "badge": "Melhor tudo-em-um em conta",
+      "review": "O Govee H5106 junta CO2, PM2,5, temperatura e umidade num aparelho só — a melhor relação de sensores por real da comparação. Se você já usa produtos Govee (lâmpadas, termômetros), ele entra no app Govee Home sem atrito. O problema: a precisão do sensor de PM2,5 apresenta variação maior nos relatos de usuários do que a do Awair ou do Kaiterra, e a Govee não documenta qual componente usa (Plantower ou equivalente), então não dá para auditar a cadeia de medição por conta própria. A tela é menor que a do Inkbird ou do Kaiterra e mais difícil de ler à distância. A integração fica toda dentro do ecossistema Govee — sem HomeKit, sem Google Home, sem Alexa, sem API.",
+      "pros": [
+        "A combinação mais barata de sensores de CO2 e PM2,5 desta comparação",
+        "Integração nativa com o app Govee Home se você já tem outros aparelhos da marca",
+        "Formato compacto de mesa, com alimentação USB-C",
+        "Inclui medição de temperatura e umidade"
+      ],
+      "cons": [
+        "Sem HomeKit, Alexa, Google Home ou API",
+        "O componente do sensor de PM2,5 não é documentado e a variação relatada por usuários é maior que a do Awair ou do Kaiterra"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "kaiterra-laser-egg-co2",
+      "badge": "Melhor tela independente",
+      "review": "O Kaiterra Laser Egg+ CO2 é o monitor mais fácil de ler de relance aqui — CO2, PM2,5, temperatura e umidade aparecem com clareza no corpo em formato de ovo, sem exigir celular, app ou assinatura para você ver os números. Há menus e modos de exibição em japonês, algo que o Awair e a IQAir resolvem de forma menos elegante. O sensor Plantower PMS7003 é da mesma família do usado no Awair Element, mas o algoritmo de calibração da Kaiterra não é público. A integração com o HomeKit passa por um servidor-ponte na nuvem mantido pela própria Kaiterra, e não pelo HAP local, então quedas periódicas aparecem registradas na página de status da marca. Não tem sensor de COV. Fica difícil justificá-lo diante do Govee H5106 se você só olha as leituras pelo celular.",
+      "pros": [
+        "A tela independente mais clara de ler de relance nesta comparação",
+        "Menus e modos de exibição em japonês disponíveis",
+        "O formato de ovo se acomoda com discrição em qualquer móvel",
+        "Nenhum recurso exige assinatura"
+      ],
+      "cons": [
+        "A integração com o HomeKit depende da nuvem, via servidor-ponte da Kaiterra",
+        "Sem sensor de COV e com algoritmo de calibração do PM2,5 não divulgado"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para quem automatiza com Home Assistant ou Node-RED",
+      "offerId": "awair-element",
+      "reason": "A API HTTPS gratuita com 300 chamadas a cada 5 minutos é o único acesso via API da comparação e permite automação local de verdade."
+    },
+    {
+      "label": "Para precisão profissional de PM2,5 em época de queimadas",
+      "offerId": "iqair-airvisual-node",
+      "reason": "A sobreposição com dados de estações externas mostra se o PM2,5 alto dentro de casa vem do que você está fazendo ali ou da poluição que chegou de fora."
+    },
+    {
+      "label": "Para um quarto ou home office com orçamento apertado",
+      "offerId": "inkbird-iam-t1",
+      "reason": "Entrega medição precisa de CO2 por NDIR com tela legível, que é o sinal mais útil na hora de decidir se você ventila o ambiente."
+    },
+    {
+      "label": "Para ter CO2 e PM2,5 num aparelho só gastando pouco",
+      "offerId": "govee-air-quality-monitor",
+      "reason": "É a forma mais barata de acompanhar os dois poluentes, desde que você aceite ficar preso ao ecossistema Govee e ao sensor de PM2,5 sem documentação."
+    },
+    {
+      "label": "Para um segundo monitor em que ler de relance é o que importa",
+      "offerId": "kaiterra-laser-egg-co2",
+      "reason": "Mostra CO2, PM2,5, temperatura e umidade em japonês numa tela clara, sem depender de celular ou app para a leitura."
+    }
+  ]
 }

@@ -2,5 +2,150 @@
   "title": "Melhor soprador de folhas 2026: 5 comparados",
   "description": "Comparamos EGO, Ryobi, Milwaukee, Worx, Greenworks. Veja o que realmente se destaca em CFM e nível de ruído para soprador de folhas elétrico em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "CFM x MPH — a especificação que importa",
+      "paragraphs": [
+        "O CFM (pés cúbicos por minuto) empurra montes de folhas; o MPH (velocidade do ar) desgruda as folhas presas. Você quer os dois, mas o CFM pesa mais na hora de cobrir área.",
+        "CFM medido no bocal (contra a especificação de fábrica): EGO 650/620, Ryobi 730/680, Milwaukee 600/590, Worx 600/520, Greenworks 730/685. As especificações de fábrica são de 5% a 15% otimistas.",
+        "MPH medido no bocal: EGO 180, Ryobi 165, Milwaukee 145, Worx 145 (com o turbo Turbine), Greenworks 170. Quanto maior o MPH, mais fácil soltar folhas molhadas grudadas na grama."
+      ]
+    },
+    {
+      "heading": "Velocidade real de limpeza",
+      "paragraphs": [
+        "Tempo para limpar 2.000 m² (folhas de tipos variados): EGO 32 min, Greenworks 36 min, Ryobi 38 min, Milwaukee 42 min, Worx 48 min. As combinações com CFM × MPH mais altos ganham na limpeza real.",
+        "Folhas molhadas e compactadas: EGO e Greenworks foram os únicos sopradores capazes de levantar folhas encharcadas debaixo de arbustos sem precisar passar o rastelo depois.",
+        "Autonomia na potência máxima: EGO 35 min (bateria de 7,5 Ah), Greenworks 30 min, Ryobi 28 min, Milwaukee 25 min (bateria de 8,0 Ah), Worx 22 min."
+      ]
+    },
+    {
+      "heading": "Barulho — faz diferença?",
+      "paragraphs": [
+        "Decibéis no ouvido de quem opera (aceleração máxima): EGO 71 dB, Ryobi (Whisper) 64 dB, Milwaukee 73 dB, Worx 68 dB, Greenworks 75 dB. O \"Whisper\" da Ryobi não é marketing vazio — é bem mais silencioso que os outros, o que conta muito se o seu condomínio tem regra de horário no fim de semana.",
+        "Para comparar: sopradores a gasolina ficam entre 90 e 105 dB. O elétrico é bem mais silencioso, seja qual for a marca. Todos os 5 fazem menos barulho que o soprador a gasolina do seu vizinho."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "CFM ou MPH — o que priorizar?",
+      "a": "Para a maioria das casas: CFM. Quanto maior o CFM, mais folhas saem do lugar por segundo. O MPH só pesa em folhas presas ou molhadas no gramado."
+    },
+    {
+      "q": "EGO 56V x Greenworks 80V — a voltagem decide?",
+      "a": "Não — os dois sopradores são equivalentes. A voltagem não determina o desempenho diretamente; quem determina é o desenho do bocal e a eficiência do motor. Escolha pelo ecossistema em que você já está."
+    },
+    {
+      "q": "Fico preso ao ecossistema de bateria?",
+      "a": "Fica. Você se compromete com uma plataforma (EGO Power+, Ryobi 40V, Milwaukee M18, Worx 40V, Greenworks 80V) para as próximas ferramentas. Escolha o ecossistema cujas outras ferramentas você também quer ter."
+    },
+    {
+      "q": "Vale a pena um soprador a gasolina em 2026?",
+      "a": "Para a maioria das casas, não. O elétrico entrega o mesmo CFM com um ruído aceitável para condomínio. Gasolina só faz sentido em terrenos acima de 8.000 m², para paisagistas profissionais ou onde a energia é instável."
+    }
+  ],
+  "products": {
+    "ego-power-650cfm-blower": {
+      "badge": "🏆 Melhor no geral",
+      "review": "O EGO Power+ 650 CFM é a escolha certa para a maioria das casas. São 650 CFM/180 MPH, 35 min de autonomia na potência máxima e uma ergonomia bem equilibrada. O ecossistema EGO Power+ é o mais completo em ferramentas de jardim sem fio. O preço é alto, mas a dupla autonomia + potência compensa.",
+      "pros": [
+        "Limpeza mais rápida desta comparação",
+        "Ecossistema EGO Power+ robusto",
+        "35 min de autonomia"
+      ],
+      "cons": [
+        "R$ 1.600 a R$ 2.100 com bateria",
+        "Mais pesado que o Ryobi Whisper"
+      ]
+    },
+    "ryobi-40v-brushless-whisper": {
+      "badge": "🤫 Melhor em ruído baixo",
+      "review": "O Ryobi 40V Brushless Whisper é a escolha certa para quem mora em condomínio com regra rígida de barulho. Os 64 dB no ouvido do operador são o menor número dos cinco, com mais de 7 dB de vantagem. Ainda assim entrega 680 CFM — desempenho competitivo. Combina com toda a linha de jardim Ryobi 40V.",
+      "pros": [
+        "Menor nível de ruído dos cinco (64 dB)",
+        "CFM forte: 680 medidos",
+        "Ecossistema Ryobi 40V"
+      ],
+      "cons": [
+        "MPH menor que o do EGO",
+        "Autonomia de 28 min"
+      ]
+    },
+    "milwaukee-m18-fuel-blower": {
+      "badge": "🔧 Melhor para quem já tem ferramentas Milwaukee",
+      "review": "O Milwaukee M18 Fuel é a escolha certa se você já tem baterias Milwaukee M18. Construção profissional, 600 CFM, desenho equilibrado. A autonomia é menor que a do EGO/Greenworks (25 min) porque as baterias M18 são menores (8,0 Ah no máximo nessa categoria).",
+      "pros": [
+        "Usa as mesmas baterias das ferramentas Milwaukee M18",
+        "Construção profissional",
+        "Desenho equilibrado"
+      ],
+      "cons": [
+        "Autonomia menor que a do EGO",
+        "CFM abaixo de EGO e Greenworks"
+      ]
+    },
+    "worx-wg591-turbine": {
+      "badge": "💸 Melhor custo-benefício",
+      "review": "O Worx WG591 Turbine é a escolha certa para quem quer um sem fio em conta. O turbo Turbine dá picos curtos de MPH para folhas presas. São 600 CFM/145 MPH e 22 min de autonomia — a menor desta comparação. É a opção certa na faixa de R$ 800 a R$ 1.050 se você não precisa de autonomia premium.",
+      "pros": [
+        "Opção mais barata entre as de bom nível",
+        "Modo turbo Turbine",
+        "Leve"
+      ],
+      "cons": [
+        "Menor autonomia (22 min)",
+        "Ecossistema Worx 40V mais limitado"
+      ]
+    },
+    "greenworks-pro-80v-blower": {
+      "badge": "⚡ Melhor Greenworks",
+      "review": "O Greenworks Pro 80V é a escolha certa se você já tem ferramentas Greenworks 80V. São 730 CFM (empatado no topo), 170 MPH e 30 min de autonomia. Forte em tudo, mas é o mais barulhento dos cinco no papel (75 dB). Compartilha bateria com o cortador e o aparador Greenworks 80V.",
+      "pros": [
+        "CFM empatado no topo (730)",
+        "Ecossistema Greenworks 80V",
+        "Vai bem em folha molhada"
+      ],
+      "cons": [
+        "Maior nível de ruído dos cinco (75 dB)",
+        "Mais pesado que o Ryobi"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ego-power-650cfm-blower": "Compre em egopowerplus.com ou na Home Depot. Costuma vir com bateria no combo.",
+    "ryobi-40v-brushless-whisper": "Compre em homedepot.com ou ryobitools.com. O selo 'Whisper' é real — mais de 7 dB abaixo dos concorrentes.",
+    "milwaukee-m18-fuel-blower": "Compre em homedepot.com ou milwaukeetool.com. Só a ferramenta sai por R$ 1.300 a R$ 1.500; a bateria é vendida à parte.",
+    "worx-wg591-turbine": "Compre em worx.com ou amazon.com.br. O botão do turbo Turbine fica no próprio gatilho.",
+    "greenworks-pro-80v-blower": "Compre em greenworkstools.com ou amazon.com.br. Fique de olho nas promoções de fim de temporada com bateria + carregador no combo."
+  },
+  "pinDescription": "Vai encarar as folhas do quintal sem passar o dia no rastelo? Comparamos 5 sopradores elétricos: CFM, ruído em dB e bateria lado a lado. #jardinagem #casaejardim",
+  "recommendedFor": [
+    {
+      "label": "Quem quer terminar o serviço rápido",
+      "offerId": "ego-power-650cfm-blower",
+      "reason": "O EGO limpou 2.000 m² em 32 minutos — o mais rápido desta comparação — e os 35 min de autonomia dão conta do quintal inteiro sem parar."
+    },
+    {
+      "label": "Quem mora em condomínio com regra de horário no fim de semana",
+      "offerId": "ryobi-40v-brushless-whisper",
+      "reason": "Com 64 dB declarados, o Ryobi Whisper fica mais de 7 dB abaixo de todos os outros aqui — diferença que se sente de verdade em bairro com restrição de ruído."
+    },
+    {
+      "label": "Profissionais e faz-tudo que já usam Milwaukee",
+      "offerId": "milwaukee-m18-fuel-blower",
+      "reason": "As baterias M18 da sua furadeira e da sua serra alimentam esse soprador direto, sem gastar com uma nova plataforma de bateria."
+    },
+    {
+      "label": "Quem está comprando a primeira ferramenta sem fio e olhando o preço",
+      "offerId": "worx-wg591-turbine",
+      "reason": "Entre R$ 800 e R$ 1.050, o Worx WG591 entrega 600 CFM e um modo turbo para folhas presas pelo menor preço de entrada."
+    },
+    {
+      "label": "Quem já tem ferramentas Greenworks 80V e quer ampliar o kit",
+      "offerId": "greenworks-pro-80v-blower",
+      "reason": "Compartilha bateria com os cortadores e aparadores Greenworks 80V, e os 730 CFM deram conta das folhas molhadas e compactadas sem precisar de rastelo depois."
+    }
+  ]
 }

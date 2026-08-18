@@ -87,5 +87,114 @@
     "cuisinart-sm-50": "Cabezal basculante de 12 velocidades, bol de 5,5L, precio por debajo del KitchenAid. Hub de accesorios propietario con escaso mercado de terceros; se informa que el bloqueo del cabezal basculante se afloja después de 18-24 meses.",
     "panasonic-mk-h4": "Batidora de pie compacta de cabezal basculante con bol de 3,5 cuartos y dial de 6 velocidades. Incluye bol, gancho amasador, pala plana y varilla; ideal para masas batidas y masas ligeras."
   },
-  "methodology": "Evaluamos cada producto según la calidad de fabricación y los materiales, su rendimiento en el uso cotidiano en la cocina, la carga de limpieza y mantenimiento, la durabilidad a lo largo de años de uso, y la relación calidad-precio. Las especificaciones del fabricante se contrastaron con reseñas verificadas de compradores."
+  "methodology": "Evaluamos cada producto según la calidad de fabricación y los materiales, su rendimiento en el uso cotidiano en la cocina, la carga de limpieza y mantenimiento, la durabilidad a lo largo de años de uso, y la relación calidad-precio. Las especificaciones del fabricante se contrastaron con reseñas verificadas de compradores.",
+  "products": [
+    {
+      "offerId": "kitchenaid-ksm150ps",
+      "badge": "Mejor ecosistema de accesorios",
+      "review": "La KitchenAid Artisan KSM150PS se lleva el primer puesto para quien quiere un robot de cocina que sirva de plataforma para varias tareas, no solo para batir. Más de 80 accesorios se conectan al mismo enganche frontal —laminadora de pasta, picadora de carne, bol procesador, molinillo de cereales, espiralizador, exprimidor de cítricos, bol heladero, embutidora— y ningún otro amasador se acerca a esta amplitud. El motor de 325 W encaja bien con masas de bizcocho, nata montada y masas ligeras, y el cabezal abatible te deja acceder al bol de 4,7 L en segundos para añadir ingredientes a media mezcla. Su punto flaco, dicho sin rodeos, es el pan: el motor sufre con masas duras, la carcasa se calienta en amasados de 8-10 minutos y el regulador baja la velocidad con masas de mucho gluten. Para un pan de molde japonés o masa de bagels con alta hidratación, 325 W se quedan justos; para bizcochos, galletas y alguna hogaza suelta es la máquina adecuada.",
+      "pros": [
+        "Más de 80 accesorios a través del enganche universal",
+        "El cabezal abatible da acceso al bol en tres segundos para añadir ingredientes",
+        "10 velocidades bien ajustadas a bizcochos, galletas y masas ligeras",
+        "Fabricación icónica con recambios disponibles durante décadas"
+      ],
+      "cons": [
+        "El motor de 325 W sufre con masas de pan duras y tandas dobles",
+        "El bol de 4,7 L se queda corto con tandas dobles de galletas"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "kenwood-chef-xl-kvl4100s",
+      "badge": "Mejor para hacer pan",
+      "review": "La Kenwood Chef XL KVL4100S monta un motor de 1000 W junto a un bol de 6,7 L: ambas cifras son las más altas de esta comparativa. El resultado práctico es que la masa de pan que hace sufrir a la KitchenAid pasa por la Kenwood sin que la carcasa del motor se caliente. Una tanda de masa para dos hogazas o más de cinco docenas de galletas de una sola vez caben en el bol sin desbordarse. La gama de accesorios AT cubre procesador de alimentos, laminadora de pasta, espiralizador y picadora: menos opciones que los más de 80 de KitchenAid, pero una lista suficiente para la mayoría de casas. El sistema de bol elevable mantiene el cabezal fijo mientras el bol sube con una palanca para acoplarse a la varilla, así que acceder al bol a media mezcla obliga a bajarlo primero: un paso extra frente al cabezal abatible, irrelevante para el pan pero algo incómodo en recetas de repostería por fases. La máquina pesa más y ocupa más encimera que la KitchenAid.",
+      "pros": [
+        "Motor de 1000 W que amasa masas duras sin forzarse",
+        "Bol de 6,7 L para tandas de dos hogazas sin desbordar",
+        "El bol elevable sostiene cargas pesadas con más estabilidad que el cabezal abatible",
+        "Los accesorios AT cubren procesador, pasta, espiralizador y picadora"
+      ],
+      "cons": [
+        "Acceder al bol a media mezcla es más lento que con cabezal abatible",
+        "Más pesada y ocupa más encimera que la KitchenAid"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "bosch-mum5",
+      "badge": "Mejor eficiencia compacta",
+      "review": "La Bosch MUM5 usa un sistema de mezclado planetario con 7 puntos de contacto en el bol, es decir, la varilla alcanza más superficie que en los diseños orbitales simples: menos zonas sin batir en los bordes con masas espesas. El diseño del motor aprovecha mejor el par por vatio que los motores económicos, así que rinde con la masa más de lo que sugiere la cifra de potencia, y la máquina trabaja pan y masa de galletas sin la acumulación de calor típica de motores de menor calidad bajo carga sostenida. El bol de 3,9 L basta para hornear una tanda para 2-4 personas; para las cantidades grandes que la Kenwood resuelve de una vez, aquí hacen falta varias pasadas. El ecosistema de accesorios se limita a la línea MUM5 de Bosch: hay complementos útiles, pero el mercado de terceros es mucho más pequeño que el de KitchenAid o Kenwood. Ocupa poca encimera para la capacidad que ofrece, algo que se agradece en cocinas pequeñas.",
+      "pros": [
+        "Los 7 puntos de contacto planetario llegan a los bordes con masa espesa que otros diseños dejan sin batir",
+        "El motor aprovecha más par por vatio que las alternativas económicas",
+        "Ocupa poca encimera para la capacidad del bol",
+        "Durabilidad de ingeniería alemana por encima de su precio"
+      ],
+      "cons": [
+        "El bol de 3,9 L obliga a varias pasadas en tandas grandes",
+        "Ecosistema de accesorios limitado frente a KitchenAid o Kenwood"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "cuisinart-sm-50",
+      "badge": "Mejor relación calidad-precio con cabezal abatible",
+      "review": "La Cuisinart SM-50 ofrece la comodidad del cabezal abatible y un bol de 5,2 L, algo mayor que el de la KitchenAid Artisan, a un precio de calle sistemáticamente más bajo. Sus 12 velocidades dan un rango más amplio que las 10 de KitchenAid, con un control más fino para tareas delicadas como montar claras a punto de nieve, y el 10 % extra de capacidad frente a la KitchenAid es poco, pero se nota en tandas de galletas que rozan el límite de aquella. El enganche de accesorios es propio de Cuisinart: los de KitchenAid no valen y el mercado de terceros es mucho más escaso. Las opiniones de propietarios a largo plazo muestran un patrón claro de holgura en el cierre del cabezal abatible tras 18-24 meses de uso habitual. No es una avería, pero sí un paso atrás en firmeza mecánica respecto a la KitchenAid en el mismo periodo. Es la opción acertada para quien quiere cabezal abatible y no piensa invertir en el ecosistema de accesorios de KitchenAid.",
+      "pros": [
+        "El bol de 5,2 L es un 10 % mayor que el de la KitchenAid Artisan",
+        "Sus 12 velocidades dan un control más fino que las 10 de KitchenAid",
+        "Comodidad de cabezal abatible a un precio menor que la KitchenAid",
+        "Rendimiento sólido y polivalente para bizcochos y galletas"
+      ],
+      "cons": [
+        "Se reporta holgura en el cierre del cabezal tras 18-24 meses de uso habitual",
+        "Enganche propietario con poca oferta de terceros"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "panasonic-mk-h4",
+      "badge": "Mejor opción compacta",
+      "review": "El robot amasador Dash es una máquina compacta de cabezal abatible con bol de 3,3 L, pensada para cocinas pequeñas y repostería de uso ligero o moderado. Un selector de 6 velocidades y el movimiento planetario se bastan para masa de galletas, masa de bizcocho y nata montada, y el cuerpo ligero se levanta sin esfuerzo para guardarlo en un estante o dentro de un armario entre usos. El cabezal abatible facilita añadir ingredientes y cambiar de accesorio. El equipamiento incluido es básico —bol, gancho amasador, pala plana y varillas— y no hay un gran ecosistema de accesorios como el de KitchenAid o Kenwood. Las masas de pan duras y muy hidratadas exigen al motor más de lo que le conviene, así que encaja mejor con masas líquidas, masas ligeras y tandas pequeñas que con hornear pan a diario.",
+      "pros": [
+        "Tamaño compacto de 3,3 L que cabe en encimeras pequeñas y se guarda fácil",
+        "Selector sencillo de 6 velocidades con movimiento planetario",
+        "Ligero y fácil de levantar y guardar",
+        "Incluye bol, gancho amasador, pala plana y varillas"
+      ],
+      "cons": [
+        "Pocos accesorios: sin pasta, picadora ni espiralizador",
+        "El motor pequeño sufre con masas de pan duras y muy hidratadas"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para cocinas polivalentes que quieren hacer pasta, picar y espiralizar",
+      "offerId": "kitchenaid-ksm150ps",
+      "reason": "Más de 80 accesorios en el enganche universal convierten la amasadora en una plataforma de cocina que ninguna otra iguala."
+    },
+    {
+      "label": "Para quien hace pan con regularidad",
+      "offerId": "kenwood-chef-xl-kvl4100s",
+      "reason": "El motor de 1000 W y el bol de 6,7 L resuelven masas duras y tandas de dos hogazas con las que sufre el motor de 325 W de la KitchenAid."
+    },
+    {
+      "label": "Para cocinas pequeñas que necesitan mezclado planetario",
+      "offerId": "bosch-mum5",
+      "reason": "Los 7 puntos de contacto planetario y un motor eficiente en par rinden con la masa de pan por encima de su vataje, y en poco espacio."
+    },
+    {
+      "label": "Para quien busca cabezal abatible a buen precio",
+      "offerId": "cuisinart-sm-50",
+      "reason": "Bol de 5,2 L y 12 velocidades con cabezal abatible por menos que la KitchenAid Artisan, para quien prescinde del ecosistema de accesorios."
+    },
+    {
+      "label": "Para cocinas pequeñas y repostería ocasional",
+      "offerId": "panasonic-mk-h4",
+      "reason": "Cuerpo compacto de cabezal abatible fácil de guardar, con un sencillo selector de 6 velocidades para galletas, bizcochos y masas ligeras."
+    }
+  ]
 }

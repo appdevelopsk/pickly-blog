@@ -70,5 +70,114 @@
     "sharp-plasmacluster-ibwx901": "Menor precio de entrada — solo elige este si de todos modos actualizas los secadores cada 2-3 años, la vida útil del motor AC es la más corta de esta lista."
   },
   "pinDescription": "Cinco secadores de cabello comparados en 2026: Conair InfinitiPRO de gama de entrada hasta Lepronizer 7D Plus de gama alta. Tipo de motor, control de calor, peso y cuál recomendaría realmente un salón profesional para uso doméstico.",
-  "methodology": "Evaluamos cada producto según la transparencia de sus ingredientes, su historial dermatológico, la coherencia de los resultados en usuarios reales, la calidad del envase y la relación calidad-precio por uso."
+  "methodology": "Evaluamos cada producto según la transparencia de sus ingredientes, su historial dermatológico, la coherencia de los resultados en usuarios reales, la calidad del envase y la relación calidad-precio por uso.",
+  "products": [
+    {
+      "offerId": "dyson-supersonic-nural",
+      "badge": "Mejor para melena larga",
+      "review": "El Supersonic Nural es el secador más rápido de esta comparativa si tienes el pelo largo y grueso: el motor digital V9 genera un caudal de aire altísimo girando a unas 110.000 rpm y reduce el secado de una melena larga de los 12 minutos habituales con motores AC a menos de 7. Un sensor de distancia al cuero cabelludo detecta a qué altura está la boquilla y regula el calor en tiempo real, que es justo lo que provoca el daño térmico: los picos de temperatura, no la temperatura media. Los accesorios magnéticos se cambian con una mano. Su punto flojo es honesto: el peso y el equilibrio. Con 720 g y un mango descompensado hacia delante, la muñeca empieza a resentirse hacia el minuto seis, y quienes tienen melena larga y molestias de hombro lo señalan una y otra vez en las reseñas.",
+      "pros": [
+        "El motor digital V9 reduce casi a la mitad el secado de melenas largas",
+        "El sensor de distancia al cuero cabelludo regula el calor en tiempo real",
+        "Los accesorios magnéticos se cambian con una mano mientras secas",
+        "Aire más fresco en la cabeza que los secadores baratos"
+      ],
+      "cons": [
+        "Sus 720 g mal repartidos cansan la muñeca en sesiones de 10 minutos",
+        "Es la opción con cable más cara de esta comparativa"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "refa-beautech-dryer-pro",
+      "badge": "El más de peluquería profesional",
+      "review": "El Refa BEAUTECH DRYER PRO es el que muchas peluquerías profesionales usan de verdad detrás del sillón, y la ingeniería respalda esa posición. El sensor híbrido Pro-Sense mide la temperatura ambiente y la de la superficie 200 veces por segundo para mantener el calor por debajo del umbral de daño capilar: unos 60 °C en la fibra. La boquilla, más ancha, reparte el aire de forma más uniforme que el concentrador estrecho de Dyson, y la sensación es más suave. La contrapartida es real: calienta menos que el Dyson o el Panasonic, así que una mañana fría de invierno con el pelo grueso y empapado tardarás uno o dos minutos más. Quienes lo tienen describen el aire como templado y suave: es la intención del diseño y también su precio honesto.",
+      "pros": [
+        "El sensor Pro-Sense mide la temperatura 200 veces por segundo",
+        "La boquilla ancha reparte el aire mejor que los concentradores estrechos",
+        "Presencia real en peluquerías profesionales",
+        "Mantiene unos 60 °C en la fibra capilar"
+      ],
+      "cons": [
+        "Tarda 1-2 minutos más que el Dyson con el pelo grueso y muy mojado",
+        "Calienta menos que el Panasonic o el Dyson"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "lepronizer-7d-plus",
+      "badge": "Mejor construcción premium",
+      "review": "El Lepronizer 7D Plus es la compra tope de gama para quien ya se ha creído el relato de marca de Bioprogramming. La calidad de fabricación es excelente, el aire templado resulta muy agradable y sus dueños suelen conservarlo entre 8 y 10 años, lo que hace que el coste por año sea menos disparatado que el precio de la etiqueta. La pega, y es real: la afirmación de Bioprogramming —que la turmalina con recubrimiento mineral emite una frecuencia electromagnética concreta que mejora la fibra capilar con el tiempo— no está revisada por pares de forma independiente, y los dermatólogos ajenos a los materiales de la propia marca no respaldan ese mecanismo. Sus usuarios dicen notar el pelo más suave tras 4-6 semanas de uso diario; esa experiencia subjetiva existe, pero la explicación causal que se da no está demostrada.",
+      "pros": [
+        "La mejor calidad de construcción de esta comparativa",
+        "Su vida útil estimada de 8-10 años rebaja el coste por año",
+        "Aire templado y agradable, descrito como suave por quienes lo usan",
+        "Mantiene bien el valor en el mercado de segunda mano"
+      ],
+      "cons": [
+        "Las afirmaciones de Bioprogramming no están revisadas por pares",
+        "La peor relación prestaciones-precio de esta comparativa"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "panasonic-nanocare-ehna0j",
+      "badge": "Mejor relación calidad-precio",
+      "review": "El Panasonic nanoe EH-NA67 es la compra más defendible para la mayoría. La tecnología de iones nanoe (iones minerales recubiertos de agua) tiene el historial de investigación publicada más largo entre los sistemas de hidratación de este grupo, el acondicionado iónico ayuda de verdad con la electricidad estática y el encrespado superficial, y se vende casi en cualquier parte por una fracción de lo que cuestan los modelos de prestigio. Tres temperaturas y dos velocidades, más las boquillas de secado rápido, oscilante y de aire frío, cubren el día a día. El punto flojo, sin adornos: no hay sensor de calor activo por segundo, así que el control térmico va por escalones y no de forma dinámica, y los accesorios son más toscos que el sistema magnético de Dyson: dirigen el aire con menos precisión, algo que importa si peinas de verdad en lugar de solo secar.",
+      "pros": [
+        "La tecnología nanoe tiene el mayor respaldo de investigación publicada aquí",
+        "El acondicionado iónico domina la estática y el encrespado superficial",
+        "Ligero y disponible en todo el mundo",
+        "Una fracción del precio del Dyson con buen rendimiento diario"
+      ],
+      "cons": [
+        "Sin sensor de calor activo: el control térmico va por escalones",
+        "Los accesorios son más toscos que el sistema magnético de Dyson"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "sharp-plasmacluster-ibwx901",
+      "badge": "Mejor precio",
+      "review": "El Conair InfinitiPRO 1875W Ionic Hair Dryer es la opción económica: motor AC de 1875 vatios con acondicionado iónico, tres temperaturas y dos velocidades, y accesorios concentrador y difusor, todo por poco dinero y disponible casi en cualquier tienda. Si de todos modos cambias de secador cada dos o tres años, pagar menos de entrada es el intercambio correcto. Su punto flojo, repetido en las reseñas a largo plazo, es la vida del motor: el motor AC dura bastante menos que los motores digitales de Dyson, Refa o Lepronizer, y hay quien reporta averías hacia los 2-3 años frente a los 6-8 de los tope de gama con motor digital. Compras un precio bajo de entrada a cambio de reponerlo más a menudo.",
+      "pros": [
+        "El motor de 1875 vatios seca rápido para lo que cuesta",
+        "El acondicionado iónico ayuda a reducir el encrespado",
+        "El precio de entrada más bajo con diferencia",
+        "Opción razonable si cambias de secador cada 2-3 años"
+      ],
+      "cons": [
+        "El motor AC es el de menor vida útil aquí: suele fallar a los 2-3 años",
+        "Sin control inteligente del calor; calienta más que los tope de gama"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para melena larga y gruesa cuando el tiempo importa",
+      "offerId": "dyson-supersonic-nural",
+      "reason": "El motor digital V9 baja el secado de una melena larga de unos 12 minutos a menos de 7, y el sensor de distancia al cuero cabelludo controla los picos de calor que causan el daño acumulado."
+    },
+    {
+      "label": "Para un acabado de peluquería en casa",
+      "offerId": "refa-beautech-dryer-pro",
+      "reason": "El sensor Pro-Sense mide 200 veces por segundo y la boquilla ancha reparte el aire de forma uniforme: el mismo flujo que usan muchas peluquerías profesionales."
+    },
+    {
+      "label": "Para quien quiere un tope de gama que dure 10 años",
+      "offerId": "lepronizer-7d-plus",
+      "reason": "La calidad de construcción y una vida útil estimada de 8-10 años hacen que el coste por año sea razonable si piensas conservarlo mucho tiempo."
+    },
+    {
+      "label": "Para la mayoría, que quiere una opción segura",
+      "offerId": "panasonic-nanocare-ehna0j",
+      "reason": "La tecnología nanoe tiene el mayor respaldo de investigación publicada, el acondicionado iónico domina el encrespado y se vende en todas partes por una fracción del precio de los tope de gama."
+    },
+    {
+      "label": "Para quien cambia de secador cada 2-3 años",
+      "offerId": "sharp-plasmacluster-ibwx901",
+      "reason": "Un motor de 1875 vatios al precio de entrada más bajo: el intercambio correcto si no te molesta la menor vida útil de un motor AC."
+    }
+  ]
 }

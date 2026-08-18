@@ -107,5 +107,114 @@
     "microsoft-arc-mouse": "Microsoft Arc Mouse — mouse Bluetooth ultra-fino dobrável para viagem, faixa de scroll tátil capacitiva (sem roda de scroll física), Bluetooth 5.0, aproximadamente um ano de vida útil de bateria com duas pilhas AAA, dobra plano a aproximadamente 7mm de espessura para transporte em bolsa, funciona na maioria das superfícies, pareamento instantâneo com dispositivos Surface e Windows. Disponível nos principais varejistas online. somente Bluetooth sem opção de dongle 2.4GHz — suscetível a interferências em ambientes com muito RF e latência maior do que wireless com dongle; a faixa de scroll tátil não fornece feedback tátil e exige gesto intencional em vez de scroll passivo, ao qual alguns usuários nunca se adaptam; não adequado para gaming de nenhum tipo; o mecanismo de dobradiça tem falhas de desgaste documentadas após 2–3 anos de uso frequente em viagem; o formato com recorte assimétrico pode não se adequar a todos os tamanhos de palma para uso prolongado em mesa."
   },
   "pinDescription": "5 mouses comparados para 2026 — G Pro X Superlight 2 ultra-leve competitivo vs Razer DeathAdder V3 ergonômico vs MX Master 3S scroll de produtividade vs Logitech G604 LIGHTSPEED sem fio com muitos botões vs Arc Mouse dobrável para viagem. A verdade sobre DPI, realidade do polling rate, fatos sobre latência wireless. Seu próximo mouse começa aqui.",
-  "methodology": "Cada produto foi avaliado com base em especificações documentadas, testes de desempenho independentes e relatos verificados de usuários. Atribuímos notas a recursos, desempenho, qualidade de construção, compatibilidade com o ecossistema e custo total de propriedade."
+  "methodology": "Cada produto foi avaliado com base em especificações documentadas, testes de desempenho independentes e relatos verificados de usuários. Atribuímos notas a recursos, desempenho, qualidade de construção, compatibilidade com o ecossistema e custo total de propriedade.",
+  "products": [
+    {
+      "offerId": "logicool-g-pro-x-superlight-2",
+      "badge": "Melhor para jogos competitivos",
+      "grade": "A+",
+      "review": "O Logicool G Pro X Superlight 2 traz a ficha técnica competitiva mais completa desta comparação: corpo de 60 g, sensor HERO 25K, wireless LIGHTSPEED de 2,4 GHz com latência abaixo de 1 ms, taxa de polling de até 2000 Hz via atualização de firmware e 95 horas de bateria. Jogadores profissionais de esports usam essa plataforma nos principais campeonatos, e isso é credibilidade de desempenho real, não discurso de marketing. O formato minimalista voltado para destros, sem nenhum botão lateral, mantém o peso no limite competitivo, mas elimina de vez qualquer uso de macro. É um preço premium para um mouse, e a geração anterior, o G Pro X Superlight 1, entrega desempenho de sensor praticamente idêntico por menos no mercado de usados — vale considerar se o orçamento pesa mais que os 2000 Hz de polling e o revestimento novo.",
+      "pros": [
+        "Corpo ultraleve de 60 g para flicks e tracking sem cansar a mão",
+        "Sensor HERO 25K com latência wireless LIGHTSPEED abaixo de 1 ms",
+        "Taxa de polling de 2000 Hz via atualização de firmware",
+        "95 horas de bateria com carregamento USB-C"
+      ],
+      "cons": [
+        "Formato só para destros e sem botões laterais, o que descarta macros",
+        "Preço premium para um mouse essencialmente minimalista"
+      ]
+    },
+    {
+      "offerId": "razer-deathadder-v3",
+      "badge": "Melhor custo-benefício ergonômico",
+      "grade": "A",
+      "review": "O Razer DeathAdder V3 é a escolha de custo-benefício em ergonomia para destros. O formato DeathAdder tem mais de 20 anos de refinamento para mãos médias e grandes, com pegada palm ou claw relaxada, e com 59 g o modelo com fio empata em peso com o G Pro X Superlight 2 custando cerca de um terço do preço. O sensor óptico Focus Pro 30K é de primeira linha e o Razer Optical Switch Gen-3 é certificado para 90 milhões de cliques. A elevação pronunciada atrás da região do sensor apoia o pulso ativamente em sessões de várias horas, algo que o formato minimalista do G Pro X não faz. O trade-off honesto: o modelo básico é só com fio — o V3 HyperSpeed sem fio é outro produto, mais caro. Canhotos ficam de fora pelo formato, e quem tem mão pequena e usa fingertip pode achar a elevação exagerada.",
+      "pros": [
+        "Corpo com fio de 59 g, no mesmo patamar de peso dos competitivos",
+        "Formato ergonômico DeathAdder consagrado para pegada palm e claw",
+        "Sensor Focus Pro 30K com switches ópticos Razer de 90 mi de cliques",
+        "Preço acessível — a melhor relação preço/desempenho da lista"
+      ],
+      "cons": [
+        "Só com fio nesse preço — a versão sem fio custa bem mais",
+        "Formato exclusivo para destros exclui totalmente os canhotos"
+      ]
+    },
+    {
+      "offerId": "logicool-mx-master-3s",
+      "badge": "Melhor para produtividade",
+      "grade": "A",
+      "review": "O Logicool MX Master 3S é a máquina de produtividade para quem passa mais tempo em planilhas, documentos longos e abas do navegador do que em jogos. O scroll eletromagnético MagSpeed percorre cerca de 1000 linhas por segundo no modo livre e trava com precisão para navegar em documentos, enquanto o Logi Flow cuida do cursor e da área de transferência entre até três computadores. O sensor de 8000 DPI tem calibração para superfícies de vidro, o que faz diferença de verdade nas mesas com tampo de vidro comuns em home office. Até 70 dias de bateria por carga e conexão dupla Logi Bolt 2,4 GHz mais Bluetooth completam o pacote de escritório. Os trade-offs honestos: 141 g é mais que o dobro dos mouses competitivos e não serve para tracking rápido em FPS, e o modo de rolagem livre do MagSpeed exige um período de adaptação.",
+      "pros": [
+        "Scroll eletromagnético MagSpeed para documentos e planilhas",
+        "Logi Flow alterna entre até três computadores",
+        "Sensor de 8000 DPI com calibração para superfícies de vidro",
+        "Até 70 dias de bateria por carga"
+      ],
+      "cons": [
+        "Os 141 g inviabilizam o uso em jogos competitivos",
+        "Exige o software Logi Options+ rodando ao fundo para personalizar tudo"
+      ]
+    },
+    {
+      "offerId": "elecom-m-xgm20dlbk",
+      "badge": "Melhor para muitos botões",
+      "grade": "B+",
+      "review": "O Logitech G604 LIGHTSPEED é um mouse sem fio grande, pensado em quantidade de botões e autonomia, não em peso reduzido. Conecta tanto por LIGHTSPEED 2,4 GHz quanto por Bluetooth, traz o sensor HERO 25K usado na linha gamer topo de linha da Logitech e oferece 15 controles programáveis, sendo seis deles de polegar — o suficiente para mapear uma barra de ações inteira de MMO ou um conjunto robusto de macros de trabalho. Uma única pilha AA o alimenta por períodos bem longos, então recarga raramente é preocupação. Os trade-offs honestos: ele é maior e mais pesado que um mouse dedicado a FPS, o design de pilha AA acrescenta algum peso e o acabamento texturizado é funcional, não premium. Para mira rápida em FPS você quer algo mais leve, mas para fluxos cheios de atalhos é uma escolha forte e fácil de achar.",
+      "pros": [
+        "15 controles programáveis, incluindo seis botões de polegar",
+        "Wireless duplo LIGHTSPEED 2,4 GHz e Bluetooth",
+        "Sensor óptico HERO 25K, o mesmo dos mouses topo da Logitech",
+        "Autonomia muito longa com uma única pilha AA"
+      ],
+      "cons": [
+        "Maior e mais pesado que um mouse dedicado a FPS",
+        "O design de pilha AA pesa mais que uma bateria interna"
+      ]
+    },
+    {
+      "offerId": "microsoft-arc-mouse",
+      "badge": "Melhor para viagem",
+      "grade": "B+",
+      "review": "O Microsoft Arc Mouse resolve um problema específico de portabilidade que nenhum outro mouse desta comparação enfrenta: ele dobra e fica com cerca de 7 mm de espessura, sumindo dentro da mochila sem pressionar notebook, caderno ou carregador. A faixa de rolagem por toque capacitivo substitui a rodinha física e funciona bem para navegar no browser e em documentos assim que você se acostuma com o gesto no lugar da rolagem passiva. O Bluetooth 5.0 pareia na hora com dispositivos Surface e Windows, e duas pilhas AA rendem cerca de um ano de uso típico sem troca. É um mouse de viagem de preço acessível. Os trade-offs honestos: só Bluetooth significa latência maior que a de um receptor 2,4 GHz e desempenho de RF pior em ambientes cheios de sinal, a faixa de toque não tem retorno tátil e algumas pessoas nunca se adaptam, e a dobradiça tem histórico de desgaste por volta dos 2 a 3 anos com viagens frequentes.",
+      "pros": [
+        "Dobra e fica com cerca de 7 mm de espessura para levar na mochila",
+        "Bluetooth 5.0 com pareamento instantâneo em Surface e Windows",
+        "Cerca de um ano de bateria com duas pilhas AA",
+        "Faixa de rolagem por toque para navegador e documentos"
+      ],
+      "cons": [
+        "Só Bluetooth — latência maior que a do wireless 2,4 GHz com receptor",
+        "A dobradiça tem desgaste documentado em 2 a 3 anos de uso frequente"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para FPS competitivo e quem mira no esports profissional",
+      "offerId": "logicool-g-pro-x-superlight-2",
+      "reason": "Corpo de 60 g com HERO 25K e LIGHTSPEED a 2000 Hz: a ficha competitiva mais completa, a mesma usada por profissionais em campeonatos."
+    },
+    {
+      "label": "Para jogar com ergonomia para destros gastando pouco",
+      "offerId": "razer-deathadder-v3",
+      "reason": "O consagrado formato DeathAdder para pegada palm, com 59 g e preço acessível, entrega a melhor relação preço/desempenho para mãos médias e grandes."
+    },
+    {
+      "label": "Para escritório com muita planilha e vários dispositivos",
+      "offerId": "logicool-mx-master-3s",
+      "reason": "O scroll MagSpeed e o Logi Flow entre dispositivos deixam documentos longos e o rodízio entre três computadores realmente mais rápidos."
+    },
+    {
+      "label": "Para MMO/MOBA e quem quer muitos botões no trabalho",
+      "offerId": "elecom-m-xgm20dlbk",
+      "reason": "Quinze controles programáveis, wireless duplo e longa autonomia com uma pilha AA atendem bem jogos e trabalho cheios de atalhos."
+    },
+    {
+      "label": "Para quem viaja a trabalho e quer o mínimo na mochila",
+      "offerId": "microsoft-arc-mouse",
+      "reason": "Dobra para 7 mm de espessura e dura cerca de um ano com pilhas AA: é o único mouse que some dentro da bagagem."
+    }
+  ]
 }
