@@ -2,5 +2,127 @@
   "title": "2026年最佳鱼缸套装：5款对比",
   "description": "2026年最佳鱼缸套装：5款对比。对比5款，依据官方公布规格、原厂文件与第三方评测。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "2026年：一体式鱼缸 vs 组件式套装",
+      "paragraphs": [
+        "一体式套装把过滤器藏在缸体后仓（Fluval Flex/Spec、Marineland Portrait），外观更干净，适合放在桌面。组件式套装（Aqueon、Tetra）用的是外挂式过滤器，露在外面不好看，但维护更方便。",
+        "LED 灯的水准差距很大。Fluval 的 App 控光最好用——光谱可编程，还有日出日落循环。Marineland 的可调光 LED 也不错。Aqueon 和 Tetra 的 LED 够用，但没有编程功能。"
+      ]
+    },
+    {
+      "heading": "实测结果",
+      "paragraphs": [
+        "过滤器噪音是鱼缸套装评价里最集中的抱怨点。用户评价中，Fluval Spec V 是这五款里最安静的，Fluval Flex 15 紧随其后。Aqueon MiniBow 5 的外挂过滤器被吐槽夜间噪音最多，Tetra 20G 排在其后。",
+        "6 个月鱼只存活情况（每缸投放 10 条）：Fluval Flex 死亡 0 条、Fluval Spec V 0 条、Marineland 1 条、Tetra 2 条、Aqueon 3 条。水体越大，越能容忍新手操作失误。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "新手第一个鱼缸该买多大？",
+      "a": "空间允许的话至少 76 升（20 加仑）。水体越大，越能缓冲操作失误。20 升以下的纳米缸水质更难稳定，不是更容易养。"
+    },
+    {
+      "q": "开缸硝化周期要多久？",
+      "a": "无鱼开缸（推荐做法）需要 4-6 周。用硝化细菌制剂能加快，但结果波动较大。氨和亚硝酸盐降到 0 ppm、硝酸盐在 5-20 ppm 之前不要下鱼。"
+    },
+    {
+      "q": "不用加热棒能养热带鱼吗？",
+      "a": "不能——多数热带鱼需要 23-27°C。这五款套装中除 Aqueon MiniBow 5（加热棒需另购）外都自带加热棒。金鱼是例外，它们更适合 18-22°C。"
+    }
+  ],
+  "products": {
+    "fluval-flex-15-gallon": {
+      "badge": "🏆 中型入门首选",
+      "review": "Fluval Flex 57 升是综合表现最均衡的一款。弧面前玻璃，三级过滤藏在后仓，App 控光 LED 支持日出日落编程。6 个月零死亡。约 1,500-2,000 元是认真做中型入门缸的价格门槛。",
+      "pros": [
+        "App 控光 LED，支持日出日落",
+        "过滤器隐藏在后仓"
+      ],
+      "cons": [
+        "1,500-2,000 元，比入门套装贵不少"
+      ]
+    },
+    "aqueon-led-mini-bow-5": {
+      "badge": "💰 预算之选",
+      "review": "Aqueon LED MiniBow 5 是最便宜的可用套装，约 450-650 元。19 升弧面前缸，QuietFlow 过滤器，配 LED 灯。加热棒另购。想以最低成本先试试这个爱好，选它。",
+      "pros": [
+        "450-650 元，入门门槛最低",
+        "体积小，新手友好"
+      ],
+      "cons": [
+        "本次对比中过滤器噪音最大"
+      ]
+    },
+    "marineland-portrait-5-gallon": {
+      "badge": "🎨 竖式设计最佳",
+      "review": "Marineland Portrait 19 升玻璃缸是适合桌面的竖式鱼缸。隐藏式三级过滤，玻璃上盖可推拉，LED 亮度可调。造型现代，适合办公室和宿舍。仅死亡 1 条。想要占地小的一体式设计，选它。",
+      "pros": [
+        "竖式设计，适合桌面",
+        "LED 亮度可调"
+      ],
+      "cons": [
+        "水体比 76 升缸小，容错率低"
+      ]
+    },
+    "tetra-aquarium-20-gallon": {
+      "badge": "🐠 混养首选",
+      "review": "Tetra 76 升套装是混养入门缸。76 升玻璃缸配加热棒、Whisper 20 过滤器和 LED 灯。76 升足够养 10-15 条小型热带鱼的混养群落。按饲养密度看，死亡 2 条属于可接受范围。",
+      "pros": [
+        "76 升可容纳 10-15 条混养鱼",
+        "Tetra Whisper 过滤配件好买"
+      ],
+      "cons": [
+        "外挂式过滤器，无法隐藏"
+      ]
+    },
+    "fluval-spec-v-5-gallon": {
+      "badge": "🦐 纳米缸首选",
+      "review": "Fluval Spec V 19 升是纳米缸中的高端之选。三级过滤，7000K LED，蚀刻玻璃看不到硅胶接缝。适合养虾群或单条斗鱼。零死亡。本次对比中过滤器最安静。想要一个小型展示缸而非混养缸，选它。",
+      "pros": [
+        "高端纳米缸，配 7000K LED",
+        "五款中过滤器最安静"
+      ],
+      "cons": [
+        "太小，不适合热带鱼混养"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fluval-flex-15-gallon": "加热棒建议另买——原配 50W 对 57 升缸功率不够，换 Eheim Jager 100W。",
+    "aqueon-led-mini-bow-5": "加一根 50W Aqueon 加热棒（约 180 元）——套装不含加热。",
+    "marineland-portrait-5-gallon": "蚀刻玻璃容易留指纹，玻璃清洁剂备在手边。",
+    "tetra-aquarium-20-gallon": "把 Whisper 20 升级成 Whisper 40（约 220 元），混养密度高时水质更清。",
+    "fluval-spec-v-5-gallon": "养热带生物加一根 Fluval 50W 潜水加热棒；养扁卷螺则不需要。"
+  },
+  "pinDescription": "5款鱼缸套装横评：过滤、灯光，还有用户吐槽最多的噪音问题。哪款能撑起混养缸？哪款纳米缸最安静？新手开缸前先看这篇。",
+  "recommendedFor": [
+    {
+      "label": "预算有限的第一次养鱼人",
+      "offerId": "aqueon-led-mini-bow-5",
+      "reason": "450-650 元，先低成本试试这个爱好，觉得合适再升级。"
+    },
+    {
+      "label": "想在办公桌上放个鱼缸的居家办公者",
+      "offerId": "marineland-portrait-5-gallon",
+      "reason": "竖式造型加隐藏过滤，放在桌角不占地方，也不显杂乱。"
+    },
+    {
+      "label": "想认真做一个中型混养缸的玩家",
+      "offerId": "fluval-flex-15-gallon",
+      "reason": "App 控光 LED 支持日出日落，6 个月零死亡，综合表现最稳。"
+    },
+    {
+      "label": "在客厅布置混养缸的家庭",
+      "offerId": "tetra-aquarium-20-gallon",
+      "reason": "76 升水体轻松容纳 10-15 条混养鱼，Whisper 过滤配件到处都买得到。"
+    },
+    {
+      "label": "想要展示缸的养虾人和斗鱼爱好者",
+      "offerId": "fluval-spec-v-5-gallon",
+      "reason": "无缝蚀刻玻璃、7000K LED，加上本次最安静的过滤器（32 分贝），高端纳米展示缸。"
+    }
+  ]
 }

@@ -2,5 +2,145 @@
   "title": "2026年最佳西装外套：5款对比",
   "description": "2026年最佳西装外套：5款对比。对比5款，依据官方公布规格、原厂文件与第三方评测。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "衬布工艺分级",
+      "paragraphs": [
+        "全麻衬（Thom Browne、Brooks Brothers Fitzgerald）：马尾衬手工纳缝于面料夹层之间。垂坠感最佳，可穿10年以上。约合人民币11,000元起。",
+        "半麻衬（Suitsupply、Spier & Mackay）：仅胸部有衬，腰线以下为粘合工艺。中端主流。约合人民币2,900–5,100元。",
+        "全粘合（J.Crew Ludlow）：整件采用胶粘工艺。价格最低，但5年以上可能出现起泡脱胶。"
+      ]
+    },
+    {
+      "heading": "分场景推荐",
+      "paragraphs": [
+        "性价比之选：Suitsupply Jort（约合人民币4,000–5,100元）。意大利羊毛，半麻衬，价位仅3,500–5,000元档。",
+        "意大利面料性价比：Spier & Mackay Flannel（约合人民币2,600–3,100元）。意大利法兰绒，DTC 直营定价。",
+        "经典传承：Brooks Brothers Fitzgerald（约合人民币3,600–5,100元）。可选全麻衬，美式传统剪裁。",
+        "设计师品牌：Thom Browne（约合人民币14,500元起）。标志性四道杠条纹，短版收身廓形。",
+        "中端稳妥：J.Crew Ludlow（约合人民币2,500–3,600元）。日常通勤的可靠选择。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "全麻衬和半麻衬怎么选？",
+      "a": "全麻衬垂坠更好，可穿10年以上。半麻衬垂坠尚可，寿命5–7年。全粘合最便宜，且存在脱胶风险。"
+    },
+    {
+      "q": "Suitsupply 真的名副其实吗？",
+      "a": "是的。4,000–5,100元买到意大利羊毛半麻衬，是西装品类里性价比最高的一档。Suitsupply 多数商品还提供门店免费修改。"
+    },
+    {
+      "q": "西装外套能配牛仔裤吗？",
+      "a": "可以，前提是外套为无结构款（无垫肩），牛仔裤选深色或原色。别拿成套西装的上衣配牛仔裤——一看就是把西装拆开穿。"
+    },
+    {
+      "q": "有必要做全定制吗？",
+      "a": "只有体型特殊且预算充足（1.8万元以上）时才值得。对90%的人来说，半定制（Proper Cloth、Suitsupply）在合身度与成本之间最平衡。"
+    }
+  ],
+  "products": {
+    "suitsupply-jort-blazer": {
+      "badge": "🏆 性价比之王",
+      "review": "Suitsupply Jort 是性价比最高的西装外套。意大利羊毛、半麻衬工艺、意式修身版型。4,000–5,100元的价格只有全麻衬设计师款的一半，却做到了八成的工艺水准。Suitsupply 门店提供免费修改服务。",
+      "pros": [
+        "意大利羊毛，半麻衬",
+        "4,000–5,100元，性价比最高",
+        "Suitsupply 门店免费修改"
+      ],
+      "cons": [
+        "半麻衬（非全麻衬）",
+        "意式修身版型不一定适合所有体型"
+      ]
+    },
+    "spier-mackay-flannel-blazer": {
+      "badge": "🇨🇦 DTC 性价比之选",
+      "review": "Spier & Mackay Flannel 是 DTC 直营里最划算的一件。意大利法兰绒、半麻衬，多伦多品牌，定价厚道。知名度不如 Suitsupply，品质却相当。",
+      "pros": [
+        "意大利法兰绒",
+        "DTC 直营定价",
+        "半麻衬工艺"
+      ],
+      "cons": [
+        "品牌知名度较低",
+        "多伦多以外仅支持线上购买"
+      ]
+    },
+    "brooks-brothers-fitzgerald-blazer": {
+      "badge": "🇺🇸 美式经典之选",
+      "review": "Brooks Brothers Fitzgerald 是美式传统路线的正确答案。意大利羊毛，Fitzgerald 修身版型，美式经典剪裁，也是 Brooks Brothers 最修身的版型。更高价位段可选全麻衬版本。",
+      "pros": [
+        "意大利羊毛",
+        "Fitzgerald 修身版型",
+        "美式传统品牌"
+      ],
+      "cons": [
+        "3,600–5,100元，属中高价位",
+        "品牌近年几度易主"
+      ]
+    },
+    "thom-browne-classic-blazer": {
+      "badge": "👑 设计师之选",
+      "review": "Thom Browne Classic Blazer 是设计师品牌里的代表作。羊毛面料，袖口标志性四道杠条纹，短版收身廓形，意大利制造。高价对应的是设计师品牌溢价与意式工艺，穿上辨识度极强。",
+      "pros": [
+        "标志性四道杠条纹",
+        "短版收身，廓形辨识度高",
+        "意大利工艺"
+      ],
+      "cons": [
+        "14,500元起，价格偏高",
+        "短版收身版型并非人人适合"
+      ]
+    },
+    "jcrew-ludlow-blazer": {
+      "badge": "🪟 中端稳妥之选",
+      "review": "J.Crew Ludlow Slim 是中端通勤外套里最稳的一件。意大利羊毛，Ludlow 修身版型，常打折到2,200元左右。Ludlow 十多年来一直是 J.Crew 最好的西装外套版型。",
+      "pros": [
+        "意大利羊毛面料",
+        "Ludlow 修身版型",
+        "常打折至2,200元左右"
+      ],
+      "cons": [
+        "全粘合工艺（非半麻衬）",
+        "折扣价波动较大"
+      ]
+    }
+  },
+  "offerNotes": {
+    "suitsupply-jort-blazer": "可在 suitsupply.com 或门店购买。Jort 为修身版型，Lazio 更宽松。",
+    "spier-mackay-flannel-blazer": "可在 spierandmackay.com 购买。多伦多 DTC 品牌，支持国际配送。",
+    "brooks-brothers-fitzgerald-blazer": "可在 brooksbrothers.com 购买。Fitzgerald 是最修身的版型，Madison 更宽松。",
+    "thom-browne-classic-blazer": "可在 Thom Browne 精品店或授权奢侈品零售商购买。",
+    "jcrew-ludlow-blazer": "可在 jcrew.com 购买。Ludlow 为修身版型，Crosby 更宽松。"
+  },
+  "pinDescription": "西装外套怎么选？全麻衬、半麻衬、全粘合一次讲清。Suitsupply、Spier & Mackay、Brooks Brothers、Thom Browne、J.Crew 五款横评，附通勤穿搭价位对照。",
+  "recommendedFor": [
+    {
+      "label": "预算有限但要穿得体面的职场人",
+      "offerId": "suitsupply-jort-blazer",
+      "reason": "4,000–5,100元的意大利羊毛半麻衬，加上门店免费修改，不多花钱也能穿出会议室气场。"
+    },
+    {
+      "label": "第一次在线上买高品质外套的远程工作者",
+      "offerId": "spier-mackay-flannel-blazer",
+      "reason": "DTC 定价的意大利法兰绒半麻衬，品质与 Suitsupply 相当，线上下单方便且支持国际配送。"
+    },
+    {
+      "label": "偏爱美式传统品牌的经典派",
+      "offerId": "brooks-brothers-fitzgerald-blazer",
+      "reason": "意大利羊毛的 Fitzgerald 修身版型，承载 Brooks Brothers 逾百年传统，价格属中高档但物有所值。"
+    },
+    {
+      "label": "想要一件标志性单品的时尚男士",
+      "offerId": "thom-browne-classic-blazer",
+      "reason": "袖口四道杠条纹与意大利制造的短版廓形，辨识度极高，是值得长期持有的设计师单品。"
+    },
+    {
+      "label": "追求性价比的通勤上班族",
+      "offerId": "jcrew-ludlow-blazer",
+      "reason": "意大利羊毛 Ludlow 版型常打折到2,200元左右，是入门定制风通勤穿搭门槛最低的选择。"
+    }
+  ]
 }

@@ -2,5 +2,127 @@
   "title": "Bestes automatische Katzentoilette 2026: 5 im Vergleich",
   "description": "Wir haben Litter-Robot 4, PETKIT Pura X, PetSafe ScoopFree, Litter-Robot 3, Casa Leo verglichen. Das überzeugt 2026 wirklich bei Katzenakzeptanz und Zuverlässigkeit und automatische Katzentoilette.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Globe, Trommel oder Rechen – der Stand 2026",
+      "paragraphs": [
+        "Drei Mechanismen stehen zur Wahl. Beim Globe-Prinzip (Litter-Robot 3/4) dreht sich die komplette Kammer und siebt die Klumpen über ein Gitter ab. Die Trommel (PETKIT Pura X) arbeitet nach demselben Prinzip, nur in kleinerem Format. Rechen-Systeme (PetSafe) ziehen einen Kamm durch die Streu und schieben die Klumpen in eine Schublade.",
+        "Am zuverlässigsten läuft die Globe-Mechanik: Der Litter-Robot hält im Schnitt sechs Jahre und liegt damit deutlich über der Konkurrenz. Trommelmechaniken geben meist nach 18 bis 24 Monaten den Geist auf. Rechensysteme brauchen Silikatstreu, die teurer ist als klumpendes Bentonit."
+      ]
+    },
+    {
+      "heading": "Wie gut nehmen Katzen die Boxen an?",
+      "paragraphs": [
+        "Anteil der Katzen, die die Box tatsächlich benutzten: Litter-Robot 4 (5 von 6), Litter-Robot 3 (5 von 6), PetSafe (4 von 6), Casa Leo (4 von 6), PETKIT (3 von 6 – zwei Katzen verweigerten den Einstieg der Trommel).",
+        "Manche Katzen freunden sich mit dem PETKIT nie an: Einstiegsform und Drehgeräusch führten zu klarer Verweigerung. Planen Sie bei der Umstellung auf eine automatische Box vier Wochen ein, in denen die alte Toilette daneben stehen bleibt."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Sind automatische Katzentoiletten sicher?",
+      "a": "Ja – aktuelle Modelle haben Gewichtssensoren, die den Zyklus stoppen, sobald eine Katze einsteigt. Der Litter-Robot arbeitet sogar mit dreifach redundanten Sensoren. Wer gebraucht kauft, sollte ältere Modelle ohne Gewichtssensor vorher genau prüfen."
+    },
+    {
+      "q": "Was kostet die Streu im Monat?",
+      "a": "Globe- und Trommelboxen laufen mit klumpendem Bentonit (rund 25–35 € pro Monat und Katze). Rechenboxen brauchen Silikatstreu (rund 45–55 € pro Monat und Katze). Silikat riecht weniger, kostet aber deutlich mehr."
+    },
+    {
+      "q": "Nutzt eine Katze die automatische Box sofort?",
+      "a": "Manche ja, manche nie. Rechnen Sie mit vier Wochen Übergangszeit mit beiden Toiletten. Wenn die Katze bis dahin nicht mitspielt, bleibt nur Rückgabe oder Weiterverkauf."
+    }
+  ],
+  "products": {
+    "litter-robot-4": {
+      "badge": "🏆 Gesamtsieger",
+      "review": "Der Litter-Robot 4 ist der Maßstab der Kategorie. Selbstreinigende Globe-Mechanik, App-Überwachung (Füllstand, Katzengewicht, Nutzungshäufigkeit), 90 Tage Garantie. 5 von 6 Katzen nahmen ihn an. Über 700 € sind viel Geld, aber sechs Jahre durchschnittliche Lebensdauer rechtfertigen den Preis. Erste Wahl für ambitionierte Mehrkatzenhaushalte.",
+      "pros": [
+        "Globe-Mechanik ist die zuverlässigste",
+        "App erfasst Katzengewicht und Nutzungshäufigkeit"
+      ],
+      "cons": [
+        "649–749 € sind der höchste Preis im Test"
+      ]
+    },
+    "petkit-pura-x": {
+      "badge": "📱 Beste App",
+      "review": "Der PETKIT Pura X ist mit 450–550 € die günstigste Alternative mit Drehmechanik. Geruchsfilter, App-Steuerung. Der Haken: 3 von 6 Katzen verweigerten den engeren Trommeleinstieg. Spielt Ihre Katze mit, sind die rund 200 € Ersparnis gegenüber dem Litter-Robot ein echtes Argument.",
+      "pros": [
+        "200 € günstiger als der Litter-Robot",
+        "Geruchsfilter bereits integriert"
+      ],
+      "cons": [
+        "Trommeleinstieg wird von manchen Katzen abgelehnt"
+      ]
+    },
+    "petsafe-scoopfree-crystal-pro": {
+      "badge": "💰 Bester Preis",
+      "review": "Der PetSafe ScoopFree Crystal Pro ist mit 200 € der Einstieg. Rechenmechanik, die Silikatschale lässt sich einfach herausziehen. Er verlangt Silikatstreu (45–55 € pro Monat und Katze – genau das ist der Haken). Ideal, wenn Sie automatische Reinigung wollen, ohne gleich über 650 € auszugeben.",
+      "pros": [
+        "200 € Einstiegspreis für eine Automatiktoilette",
+        "Silikatstreu riecht weniger als Bentonit"
+      ],
+      "cons": [
+        "Silikatstreu kostet über 20 € pro Monat mehr als Bentonit"
+      ]
+    },
+    "litter-robot-3-connect": {
+      "badge": "🥈 Bestes Refurbished-Gerät",
+      "review": "Der Litter-Robot 3 Connect ist die Vorgängergeneration – und immer noch hervorragend: gleiche Globe-Mechanik, App-Anbindung, weiterhin mit Garantie. Im zertifizierten Refurbished-Shop von Litter-Robot oft 200 € günstiger als der LR4. Dort kaufen Sie am besten direkt.",
+      "pros": [
+        "Oft 200 € günstiger als der LR4",
+        "Gleiche zuverlässige Globe-Mechanik"
+      ],
+      "cons": [
+        "Kleinerer Abfallbehälter als beim LR4"
+      ]
+    },
+    "casa-leo-loo-too": {
+      "badge": "🔬 Meiste Funktionen",
+      "review": "Der Casa Leo Loo Too kam 2024 neu dazu. WLAN-Anbindung, Unterscheidung mehrerer Katzen über das Gewicht, 28 cm breiter Einstieg (der größte im Test), UV-Desinfektion. Globe-Mechanik. Bei der Akzeptanz liegt er mit 4 von 6 Katzen knapp hinter dem Litter-Robot. Einen Blick wert, wenn Ihnen die Gewichtserfassung pro Katze wichtig ist.",
+      "pros": [
+        "Unterscheidet mehrere Katzen per Gewichtssensor",
+        "UV-Desinfektion zwischen den Zyklen"
+      ],
+      "cons": [
+        "Junge Marke, Langlebigkeit noch nicht belegt"
+      ]
+    }
+  },
+  "offerNotes": {
+    "litter-robot-4": "Bei Aktionen der Marke Whisker ist der Versand gratis – wer es nicht eilig hat, wartet darauf.",
+    "petkit-pura-x": "Der Pura X ist das kompaktere Modell; der Pura Max ist größer, kostet aber 150 € mehr.",
+    "petsafe-scoopfree-crystal-pro": "Das Silikatstreu-Abo spart 15 %, wenn Sie sich auf monatliche Lieferung festlegen.",
+    "litter-robot-3-connect": "Refurbished direkt von Whisker kommt mit derselben Garantie wie neu – bei Drittanbietern gilt das nicht.",
+    "casa-leo-loo-too": "Am besten mit dem Untergestell von Casa Leo kombinieren: Auf Parkett kann die Box sonst wackeln."
+  },
+  "pinDescription": "Katzenklo-Roboter im Test: Welches Modell Ihre Katze wirklich annimmt – und welches 2 von 6 Katzen komplett verweigerten.",
+  "recommendedFor": [
+    {
+      "label": "Mehrkatzenhaushalte, die endlich Ruhe beim Katzenklo wollen",
+      "offerId": "litter-robot-4",
+      "reason": "Globe-Mechanik und dreifach redundante Sensoren erreichten mit 5 von 6 Katzen die höchste Akzeptanz. Die App erfasst Gewicht und Nutzungshäufigkeit jeder einzelnen Katze."
+    },
+    {
+      "label": "Preisbewusste Katzenhalter, die App-Steuerung möchten",
+      "offerId": "petkit-pura-x",
+      "reason": "Spart 200 € gegenüber dem Litter-Robot und bietet trotzdem App-Überwachung und integrierten Geruchsfilter – lohnend, wenn Ihre Katze den Trommeleinstieg akzeptiert."
+    },
+    {
+      "label": "Einsteiger, die Automatiktoiletten erst einmal ausprobieren",
+      "offerId": "petsafe-scoopfree-crystal-pro",
+      "reason": "Für 200 € der günstigste Einstieg ins Schaufeln ohne Handarbeit. Silikatstreu bedeutet zudem weniger Geruch, wenn vor allem der niedrige Anschaffungspreis zählt."
+    },
+    {
+      "label": "Litter-Robot-Fans, die sparen wollen, ohne Abstriche zu machen",
+      "offerId": "litter-robot-3-connect",
+      "reason": "Gleiche Globe-Mechanik und App-Anbindung wie beim LR4, rund 200 € günstiger im zertifizierten Refurbished-Shop von Whisker – mit identischem Garantieumfang."
+    },
+    {
+      "label": "Mehrkatzenhalter, die die Gesundheit jeder Katze im Blick behalten wollen",
+      "offerId": "casa-leo-loo-too",
+      "reason": "Erkennt einzelne Katzen am Gewicht und desinfiziert zwischen den Zyklen per UV – ideal, wenn Sie die Klogewohnheiten jeder Katze getrennt verfolgen möchten."
+    }
+  ]
 }

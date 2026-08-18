@@ -2,5 +2,151 @@
   "title": "2026年最佳摩托车头盔：5款对比",
   "description": "看看2026年哪款摩托车头盔在贴合度和噪音水平方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "安全认证",
+      "paragraphs": [
+        "通过 Snell M2020D 认证：Shoei RF-1400、Arai Corsair-X、Bell Race Star Flex DLX。仅 DOT：HJC RPHA 11 Pro（DOT/ECE/SHARP 四星）。",
+        "ECE 22.06（欧洲最新标准）：Arai Corsair-X、AGV Pista GP RR、HJC RPHA 11 Pro。ECE 22.06 包含 Snell 没有的高冲击与低冲击双重测试。",
+        "SHARP 评级（英国政府 1-5 星）：Arai Corsair-X 5 星，Shoei RF-1400 5 星，AGV Pista GP RR 尚未评级（接替 Pista GP R），Bell 4 星，HJC 4 星。"
+      ]
+    },
+    {
+      "heading": "头型匹配",
+      "paragraphs": [
+        "中长椭圆头型（多数欧美/日本人头型）：Shoei RF-1400 最贴合，AGV Pista GP RR 紧随其后。Bell Race Star Flex 可以接受。Arai Corsair-X 需要谨慎选码——Arai 采用圆椭圆头型，对部分头型贴合度差。",
+        "长椭圆头型（前后更长）：HJC RPHA 11 Pro、Bell Race Star Flex DLX。AGV 偏圆，Shoei 偏中长椭圆。",
+        "圆头型（左右更宽）：Arai Corsair-X。Arai 的头型设计独一无二，本文其他头盔都做不到同样的圆头贴合度。"
+      ]
+    },
+    {
+      "heading": "实际骑行舒适度",
+      "paragraphs": [
+        "时速 120 km/h 噪音（原厂镜片+耳塞）：Shoei RF-1400 84 dB，AGV Pista GP RR 87 dB，Bell Race Star Flex 88 dB，Arai Corsair-X 89 dB，HJC RPHA 11 Pro 86 dB。Shoei 静音最佳，主要得益于气动外形。",
+        "35℃ 高温天通风：Shoei RF-1400 最佳（下巴进气+额部进气），AGV Pista GP RR 很强（赛用通风结构），Arai Corsair-X 接近。Bell Race Star Flex 略逊。HJC RPHA 11 Pro 够用，但进气口面积偏小。",
+        "重量：AGV Pista GP RR 1,290 g（碳纤维，最轻），Arai Corsair-X 1,500 g，Shoei RF-1400 1,520 g，HJC RPHA 11 Pro 1,580 g，Bell Race Star Flex 1,600 g。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Snell、DOT、ECE 22.06 有什么区别？",
+      "a": "DOT 是美国最低法定标准，法律强制。Snell M2020D 是自愿认证，冲击测试更严。ECE 22.06 最新，同时包含高冲击和低冲击测试。目前 ECE 22.06 是公认最高标准。"
+    },
+    {
+      "q": "碳纤维头盔值得买吗？",
+      "a": "认真跑赛道值得。减重 200-300 g 在赛道节奏下确实有意义。街道骑行的话，通常多出的 2,000-3,500 元只是买个身份感。"
+    },
+    {
+      "q": "头盔多久换一次？",
+      "a": "从生产日期起 5 年（DOT 建议）。从购买日起 5-7 年（多数厂商建议）。任何一次撞击之后立即更换，哪怕外观完好无损。"
+    },
+    {
+      "q": "可以买二手吗？",
+      "a": "绝对不要。无法核实是否摔过。内衬会被汗水侵蚀，EPS 缓冲层也会随时间老化，跟用没用过无关。"
+    }
+  ],
+  "products": {
+    "shoei-rf-1400": {
+      "badge": "🏆 综合最佳",
+      "review": "Shoei RF-1400 适合绝大多数骑手。中长椭圆头型贴合常见亚洲及欧美头型，Snell M2020D + DOT 双认证，五款里官方噪音值最低（120 km/h 下 84 dB），通风整体最好。多片式 EPS 缓冲层分散冲击力。它长期是摩托媒体的默认推荐，理由充分。",
+      "pros": [
+        "中长椭圆头型贴合度最佳",
+        "Snell M2020D + DOT",
+        "本次对比中最安静"
+      ],
+      "cons": [
+        "约 4,000-4,700 元，价格偏高",
+        "比 AGV Pista 重"
+      ]
+    },
+    "arai-corsair-x": {
+      "badge": "🥇 圆头型首选",
+      "review": "Arai Corsair-X 适合圆头型骑手。日本手工制造，SHARP 五星评级，标志性扰流导风口。采用多层纤维复合材料。比 Shoei 更重也更吵，但圆头贴合度无可替代。",
+      "pros": [
+        "圆头型贴合度最佳",
+        "日本手工制造",
+        "SHARP 五星安全评级"
+      ],
+      "cons": [
+        "约 5,800-7,200 元，超高端定价",
+        "比 Shoei 吵（89 dB）"
+      ]
+    },
+    "agv-pista-gp-rr": {
+      "badge": "🏎️ 赛道最佳",
+      "review": "AGV Pista GP RR 适合认真跑赛道的骑手。1,290 g 碳纤维壳体（本次对比最轻），赛用空气动力学设计，MotoGP 车手同款。附带饮水系统和 Pinlock Max Vision 防雾片。街道也能用，但它的强项在赛道节奏。",
+      "pros": [
+        "五款中最轻（碳纤维）",
+        "MotoGP 技术下放",
+        "附带饮水系统"
+      ],
+      "cons": [
+        "8,600 元以上，价格高昂",
+        "偏赛道向，通勤舒适度一般"
+      ]
+    },
+    "bell-race-star-flex-dlx": {
+      "badge": "💸 性价比之选",
+      "review": "Bell Race Star Flex DLX 适合看重性价比的骑手。Snell + DOT 双认证，中长至长椭圆头型，多片式 EPS。约 2,900-3,600 元，是本文最便宜的 Snell 认证款。SHARP 四星。",
+      "pros": [
+        "最便宜的 Snell 认证款",
+        "多片式 EPS 抗冲击",
+        "性价比突出"
+      ],
+      "cons": [
+        "比 Shoei / AGV 重",
+        "比 Shoei 吵"
+      ]
+    },
+    "hjc-rpha-11-pro": {
+      "badge": "🌍 ECE 认证性价比之选",
+      "review": "HJC RPHA 11 Pro 适合更看重 ECE 认证的国际骑手。ECE 22.06 + DOT + SHARP 四星，适合长椭圆头型，价格约 2,900-3,600 元。没有 Snell 认证——Snell 本来就主要面向美国市场。韩国厂商的旗舰型号。",
+      "pros": [
+        "ECE 22.06 + DOT + SHARP",
+        "长椭圆头型贴合度好",
+        "2,900-3,600 元，性价比高"
+      ],
+      "cons": [
+        "无 Snell 认证",
+        "进气口面积小于 Shoei"
+      ]
+    }
+  },
+  "offerNotes": {
+    "shoei-rf-1400": "可在 revzilla.com、cyclegear.com 或 shoei-helmets.com 购买。建议先到实体店试戴确认尺码，再线上下单。",
+    "arai-corsair-x": "可在 revzilla.com 或 arai-helmet.com 购买。Arai 尺码偏小，拿不准时建议大一码。",
+    "agv-pista-gp-rr": "可在 revzilla.com 或 agv.com 购买。只有真正跑赛道才对得起这个价格。",
+    "bell-race-star-flex-dlx": "可在 revzilla.com 或 bellhelmets.com 购买。Snell 认证里性价比最强的一款。",
+    "hjc-rpha-11-pro": "可在 revzilla.com 或 hjchelmets.com 购买。ECE 22.06 + SHARP 四星，不用付 Shoei 的溢价。"
+  },
+  "pinDescription": "2026 全盔怎么选？Shoei RF-1400、Arai Corsair-X、AGV Pista GP RR、Bell、HJC 五款横评：SHARP 星级、Snell 认证、头型匹配、重量与噪音全部列清楚。买前先看这一篇。#摩托车 #头盔 #骑行装备",
+  "recommendedFor": [
+    {
+      "label": "夏天照常通勤的日常骑手",
+      "offerId": "shoei-rf-1400",
+      "reason": "五款中通风最好，加上最低的官方噪音值（84 dB），长时间通勤舒适度明显更高。"
+    },
+    {
+      "label": "圆头型或头围偏宽的骑手",
+      "offerId": "arai-corsair-x",
+      "reason": "Arai 独有的圆椭圆壳型对圆头贴合度无可替代，本组其他头盔都没有同样的几何结构。"
+    },
+    {
+      "label": "赛道日爱好者与业余赛车手",
+      "offerId": "agv-pista-gp-rr",
+      "reason": "1,290 g 是本文最轻的一款，MotoGP 下放的空气动力学设计和随附饮水系统都是为赛道节奏而生。"
+    },
+    {
+      "label": "预算有限但想要 Snell 认证的骑手",
+      "offerId": "bell-race-star-flex-dlx",
+      "reason": "约 2,900-3,600 元，是本文最便宜的 Snell M2020D + DOT 款，且没有牺牲多片式 EPS 防护。"
+    },
+    {
+      "label": "常在欧洲、亚洲跨国骑行的骑手",
+      "offerId": "hjc-rpha-11-pro",
+      "reason": "ECE 22.06 + DOT + SHARP 四星三重认证，几乎覆盖所有国家的法规要求，价格只要 2,900-3,600 元。"
+    }
+  ]
 }

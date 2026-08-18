@@ -2,5 +2,150 @@
   "title": "2026年最佳小企业保险：5款对比",
   "description": "看看2026年哪款小企业保险在BOP承保和定价方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "BOP 保单包含什么",
+      "paragraphs": [
+        "BOP = Business Owner's Policy（企业主综合保单）= 一般责任险 + 商业财产险打包。小微企业的标配。网络安全险、工伤赔偿险、专业责任险（E&O）通常需要单独投保。",
+        "5 人咨询公司的 BOP（100 万美元一般责任 + 25 万美元财产）典型报价：Next 每月 25–50 美元，Hiscox 35–65 美元，The Hartford 40–70 美元，Progressive Commercial 40–60 美元，Thimble（按需投保）每个项目 10–30 美元。"
+      ]
+    },
+    {
+      "heading": "网络安全险与工伤险附加条款",
+      "paragraphs": [
+        "网络责任险（100 万美元保额）：Hiscox 的 BOP 已含基础网络险。Next 附加每月 15–25 美元，The Hartford 每月 20–30 美元，Progressive Commercial 每月 25 美元。Thimble 不提供网络险。",
+        "工伤赔偿险（5 名员工、低风险咨询业）：每人每年 300–500 美元。The Hartford 和 Progressive 在这块更专业。美国多数州强制要求，德州是少数例外（自愿投保）。"
+      ]
+    },
+    {
+      "heading": "各家保险公司分别适合谁",
+      "paragraphs": [
+        "刚起步 / 自由职业 / 年营收 10 万美元以下：用 Thimble 按项目购买按需保障。如果有固定经营场所，选 Next 的月付 BOP。",
+        "已成型的小企业 / 3–10 名员工 / 年营收 25 万–200 万美元：Hiscox 或 The Hartford。两家均为 A+ 评级；Hiscox 更聚焦小企业，Hartford 覆盖的行业更广。",
+        "车辆多 / 技术工种 / 承包商 / 车队：Progressive Commercial。商业车险 + 一般责任险的打包方案由它主导。",
+        "科技 / SaaS / 咨询 / 专业服务：Hiscox（网络险强）或 Next（全线上化）。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "BOP 和单独投保怎么选？",
+      "a": "BOP 比分别购买一般责任险和财产险便宜。年营收 500 万美元以下的小企业基本都应从 BOP 起步。超过这个规模，BOP 的保额上限会不够用，需要另买超额责任保单。"
+    },
+    {
+      "q": "需要专业责任险（E&O）吗？",
+      "a": "只要你提供建议或服务就需要。顾问、会计、IT 服务商、设计师都需要 E&O——它通常不含在 BOP 里，必须单独购买。"
+    },
+    {
+      "q": "网络安全险有必要吗？",
+      "a": "只要存储客户数据或收信用卡付款就有必要。Hiscox 已含基础网络险，其他家每月加收 15–30 美元。"
+    },
+    {
+      "q": "工伤赔偿险是强制的吗？",
+      "a": "美国 50 个州中有 49 个强制要求（德州为自愿）。即便不强制，投保也能防止员工工伤索赔诉讼。"
+    }
+  ],
+  "products": {
+    "next-insurance-bop": {
+      "badge": "🏆 线上投保最快",
+      "review": "Next Insurance 适合全线上运营的小企业。10 分钟在线申请，BOP 月费通常 25–50 美元，即时出具投保证明。由慕尼黑再保险承保。仅限标准小企业，不接高风险行业。",
+      "pros": [
+        "10 分钟在线申请",
+        "即时出具投保证明",
+        "慕尼黑再保险背书"
+      ],
+      "cons": [
+        "仅限标准小企业",
+        "网络险需额外附加，非默认包含"
+      ]
+    },
+    "hiscox-small-business": {
+      "badge": "🎯 50 人以下企业首选",
+      "review": "Hiscox 适合 50 人以下的小企业，尤其是科技、SaaS 和咨询行业。BOP 内已含网络责任险。A.M. Best 评级 A+。行业覆盖比 Next 更广。",
+      "pros": [
+        "BOP 内含网络责任险",
+        "专精 50 人以下企业",
+        "财务评级强劲"
+      ],
+      "cons": [
+        "保费高于 Next",
+        "对规模偏大的小企业不太合适"
+      ]
+    },
+    "the-hartford-bop": {
+      "badge": "🪪 老牌保险公司首选",
+      "review": "The Hartford 适合看重承保方资历的成熟小企业，公司已有 200 多年历史。经销商和承包商方向的保障很强，行业覆盖面广。财产险与责任险打包投保。",
+      "pros": [
+        "200 多年历史的承保方",
+        "经销商/承包商保障强",
+        "行业覆盖面广"
+      ],
+      "cons": [
+        "比 Next / Hiscox 贵",
+        "线上体验不够利落"
+      ]
+    },
+    "progressive-commercial": {
+      "badge": "🚛 车队与技术工种首选",
+      "review": "Progressive Commercial 适合有商用车辆或从事技术工种的企业。商业车险 + 一般责任险打包。对车队运营方、承包商、电工、水管工尤其合适。",
+      "pros": [
+        "商业车险 + 责任险打包最优",
+        "适合技术工种",
+        "支持在线报价"
+      ],
+      "cons": [
+        "无车辆的企业不太划算",
+        "客服响应比 Next 慢"
+      ]
+    },
+    "thimble-on-demand": {
+      "badge": "📱 零工从业者首选",
+      "review": "Thimble 适合需要短期保障的自由职业者和零工从业者。可按小时、按天、按月购买，每次 5–100 美元。App 上几分钟即可投保生效。不适合有固定场所的传统小企业。",
+      "pros": [
+        "按小时/按天/按月购买",
+        "App 上几分钟投保",
+        "偶尔用时成本低"
+      ],
+      "cons": [
+        "不适合传统小企业",
+        "保额上限有限"
+      ]
+    }
+  },
+  "offerNotes": {
+    "next-insurance-bop": "在 nextinsurance.com 获取报价——10 分钟线上搞定。",
+    "hiscox-small-business": "在 hiscox.com 获取报价——50 人以下企业的专精之选。",
+    "the-hartford-bop": "在 thehartford.com 或通过独立代理人获取报价。",
+    "progressive-commercial": "在 progressivecommercial.com 获取报价——车辆和技术工种最合适。",
+    "thimble-on-demand": "下载 Thimble App——零工从业者的理想选择。"
+  },
+  "pinDescription": "小企业保险怎么选？Next、Hiscox、The Hartford、Progressive、Thimble 五家实测对比：BOP 保额、免责条款、按需投保和真实月费一次看懂。",
+  "recommendedFor": [
+    {
+      "label": "偶尔需要保障的自由职业者与独立承包人",
+      "offerId": "thimble-on-demand",
+      "reason": "Thimble 按小时/按天/按月购买，只在实际接项目时付费，没有长期绑定。"
+    },
+    {
+      "label": "希望快速线上开通的早期创业公司",
+      "offerId": "next-insurance-bop",
+      "reason": "Next 的 10 分钟在线申请和即时投保证明，让新公司当天就能拿到保障，不用跑纸质流程。"
+    },
+    {
+      "label": "处理客户数据的技术顾问与 SaaS 创始人",
+      "offerId": "hiscox-small-business",
+      "reason": "Hiscox 把网络责任险直接打包进 BOP，科技和咨询公司无需另买保单就有数据泄露保障。"
+    },
+    {
+      "label": "拥有车辆的承包商、电工与技术工种企业",
+      "offerId": "progressive-commercial",
+      "reason": "Progressive 在商业车险 + 一般责任险打包上占据主导，是有车队的技术工种最省事的单一承保方。"
+    },
+    {
+      "label": "有 5 名以上员工、营收稳定的成熟小企业",
+      "offerId": "the-hartford-bop",
+      "reason": "The Hartford 200 多年的经营记录和广泛的行业覆盖，能给已经超出入门级承保方能力的成熟小企业提供机构级保障。"
+    }
+  ]
 }

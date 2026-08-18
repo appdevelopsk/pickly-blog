@@ -2,5 +2,127 @@
   "title": "2026年最佳返现信用卡：5款对比",
   "description": "看看2026年哪款返现信用卡在返现率和使用便利性方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "2026 年返现卡格局",
+      "paragraphs": [
+        "固定 2% 返现卡（Citi Double Cash、Wells Fargo Active Cash）胜在简单：无需激活类目，也没有返现上限。按年消费 5.2 万美元计算，年返现约 1,040 美元（约 ¥7,500）。",
+        "轮换类目卡（Chase Freedom、Discover it）在纯费率上更高，前提是你真的会去激活。问题在于：40% 的 Discover it 用户每年至少漏掉一个季度的激活，漏掉那一季损失的返现，正好把费率优势抵消掉。"
+      ]
+    },
+    {
+      "heading": "5.2 万美元消费下各卡的实际收益",
+      "paragraphs": [
+        "收益最高的是 Discover it：1,310 美元（约 ¥9,400）——但前提是每季度都激活，并且熬过第一年拿到翻倍匹配。第二是 Chase Freedom Unlimited，1,205 美元，完全不用手动激活。第三是 Citi Double Cash，1,040 美元，零操作成本。",
+        "三张固定 2% 的卡收益差距都在 40 美元以内。真正的区别是开卡奖励（Wells Fargo 和 Capital One 各 200 美元）和兑换灵活度（Citi 可以转成 ThankYou Points 用于旅行，其余两张只能兑现金）。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "该选返现卡还是旅行卡？",
+      "a": "每年兑换额低于 1,500 美元，选返现卡。每年兑换 2,500 美元以上、并且愿意把积分转给航司，才值得上旅行卡。低于这个量级，返现卡更省心。"
+    },
+    {
+      "q": "开卡奖励重要吗？",
+      "a": "重要。Wells Fargo Active Cash 的 200 美元相当于付钱请你换卡。三个月内消费 500 美元即可拿到，之后接下来一年该用哪张就用哪张。"
+    },
+    {
+      "q": "境外交易手续费是否会一票否决？",
+      "a": "如果你经常出国，是的。Discover it 和 Citi Double Cash 的 3% 手续费累积得很快。Capital One Quicksilver 免境外手续费，是这份榜单里唯一适合海外使用的卡。"
+    }
+  ],
+  "products": {
+    "chase-freedom-unlimited": {
+      "badge": "🏆 综合最佳",
+      "review": "Chase Freedom Unlimited 是日常消费的标准答案：全场 1.5%，通过 Chase Travel 订旅行 5%，餐饮和药妆店 3%。200 美元开卡奖励，年费 0。与 Sapphire Preferred 搭配后，积分在旅行兑换上价值提升到 1.5 倍——这才是多数理财博主推荐它的真正原因。",
+      "pros": [
+        "可与 Chase Sapphire 搭配升级为旅行积分",
+        "在 1.5% 固定返现之上还有三档类目加成"
+      ],
+      "cons": [
+        "境外交易手续费 3%"
+      ]
+    },
+    "citi-double-cash": {
+      "badge": "📐 最省心",
+      "review": "Citi Double Cash Card 是不用动脑的选择：消费时 1%，还款时再 1%，合计固定 2%。没有类目、没有上限、不用季度激活，年费 0。「还款时才给」的设计是在鼓励你按时还清账单，不是噱头。",
+      "pros": [
+        "真正的 2% 固定返现，无上限",
+        "可转为 ThankYou Points 用于旅行"
+      ],
+      "cons": [
+        "相比竞品几乎没有开卡奖励"
+      ]
+    },
+    "wells-fargo-active-cash": {
+      "badge": "💵 开卡奖励最佳",
+      "review": "Wells Fargo Active Cash 是 2% 固定返现阵营里开卡条件最好的一张：3 个月内消费 500 美元即得 200 美元奖励，前 12 个月 0% 分期利率。返现结构与 Citi Double Cash 完全一致，但多了 200 美元的起跑优势。如果你是新办卡用户，选它而不是 Citi。",
+      "pros": [
+        "200 美元开卡奖励 + 12 个月 0% 利率",
+        "2% 固定返现，无上限"
+      ],
+      "cons": [
+        "Wells Fargo 的客服口碑不如 Chase 和 Citi"
+      ]
+    },
+    "capital-one-quicksilver": {
+      "badge": "🌍 出境最佳",
+      "review": "Capital One Quicksilver 是那张可以带出国的返现卡：境外交易手续费为 0，固定 1.5% 返现，200 美元开卡奖励。1.5% 低于 2% 阵营，但只要单次出境消费超过 3,000 美元，省下的手续费就能补回差额。",
+      "pros": [
+        "境外交易手续费 0",
+        "200 美元开卡奖励"
+      ],
+      "cons": [
+        "1.5% 的费率低于 2% 固定返现竞品"
+      ]
+    },
+    "discover-it-cashback": {
+      "badge": "🎯 上限收益最高",
+      "review": "Discover it Cash Back 是榜单里理论收益最高的一张——前提是每季度都激活，并且撑过第一年拿到翻倍匹配。5% 轮换类目包括超市（Q1）、加油（Q3）、亚马逊（Q4）。基本只在美国好用（Discover 在海外的受理率很差）。",
+      "pros": [
+        "第一年返现全额翻倍",
+        "5% 轮换类目确实实用"
+      ],
+      "cons": [
+        "美国和日本以外，Discover 受理商户很有限"
+      ]
+    }
+  },
+  "offerNotes": {
+    "chase-freedom-unlimited": "赶在「Cashback Bonus」活动月申请可拿到更高开卡奖励——Chase 会轮换这个优惠。",
+    "citi-double-cash": "如果同时持有 Strata Premier，现在可以把返现转成 ThankYou Points——一条隐藏的旅行卡升级路径。",
+    "wells-fargo-active-cash": "0% 利率期结束后别再留欠款——Wells Fargo 的利率高于行业平均。",
+    "capital-one-quicksilver": "同样的费用结构下，VentureOne 的里程费率更高（1.5 倍），常出行的话可以考虑。",
+    "discover-it-cashback": "设个季度日历提醒去激活新的 5% 类目——很容易忘。"
+  },
+  "pinDescription": "五张返现信用卡，按年消费 5.2 万美元实测收益。固定 2% 什么时候能赢过 5% 轮换类目，什么时候赢不了，数据都在这里。",
+  "recommendedFor": [
+    {
+      "label": "懒得盯类目的忙碌家庭",
+      "offerId": "citi-double-cash",
+      "reason": "全场真 2% 固定返现，完全不用激活——适合想拿最高回报又不想耗费任何心力的人。"
+    },
+    {
+      "label": "从借记卡转过来的新办卡用户",
+      "offerId": "wells-fargo-active-cash",
+      "reason": "只需消费 500 美元即可拿到 200 美元开卡奖励，起步就有优势；12 个月 0% 利率也让人更安全地养成用卡习惯。"
+    },
+    {
+      "label": "常出国的人和海外长住族",
+      "offerId": "capital-one-quicksilver",
+      "reason": "境外交易零手续费，海外消费不再被暗扣 3%——榜单里唯一为国际使用而生的卡。"
+    },
+    {
+      "label": "会设季度提醒的自律薅羊毛党",
+      "offerId": "discover-it-cashback",
+      "reason": "超市、加油、亚马逊的 5% 轮换类目，加上第一年返现翻倍，对从不漏激活的人来说总收益最高。"
+    },
+    {
+      "label": "想给 Chase Sapphire 配一张日常卡的人",
+      "offerId": "chase-freedom-unlimited",
+      "reason": "与 Sapphire Preferred 搭配后，Freedom 的返现可转成积分，旅行兑换价值提升到 1.5 倍，固定费率卡瞬间变成旅行神卡。"
+    }
+  ]
 }

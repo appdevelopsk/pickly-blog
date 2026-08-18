@@ -2,5 +2,145 @@
   "title": "2026年最佳旅行咖啡机：5款对比",
   "description": "看看2026年哪款旅行咖啡机在冲泡品质和便携性方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "冲煮方式与品质",
+      "paragraphs": [
+        "爱乐压（AeroPress Go）：全浸泡＋加压。最接近咖啡馆的意式浓缩/美式，出品品质出色。",
+        "手冲（V60 折叠滤杯、Stagg）：口感干净，但需要配手冲壶。练熟之后品质不错。",
+        "加压式浓缩（Nanopresso、Minipresso）：手动加压萃取，能压出真正的咖啡油脂（crema）。浓缩爱好者首选。"
+      ]
+    },
+    {
+      "heading": "按用途选购",
+      "paragraphs": [
+        "最佳便携款：AeroPress Go（约 250-330 元）。滤压壶＋随行杯一体。",
+        "最轻便手冲：Hario V60 折叠滤杯（约 110-180 元）。硅胶材质可折叠。",
+        "最佳便携浓缩：Wacaco Nanopresso（约 430-650 元）。手动加压。",
+        "高端手冲之选：Fellow Stagg 手冲套装（约 430-650 元）。",
+        "Nespresso 用户之选：Wacaco Minipresso NS（约 400-540 元）。可用 Nespresso 胶囊。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "旅行时选爱乐压还是手冲？",
+      "a": "爱乐压更快、玩法更多，能做出接近浓缩的风味；手冲口感更干净，但更考验手法。两者都可行，看个人偏好。"
+    },
+    {
+      "q": "旅行煮咖啡需要带磨豆机吗？",
+      "a": "建议直接带磨好的粉（爱乐压用中细，Nanopresso 用细）。小型手摇磨（泰摩、1Zpresso Q2）能塞进行李箱，但会增加重量。"
+    },
+    {
+      "q": "酒店电热水壶的水质有影响吗？",
+      "a": "有。酒店水壶常有水垢，建议先烧一壶倒掉再冲煮。有条件的话用瓶装水更好。"
+    },
+    {
+      "q": "酒店房间真能煮出好喝的咖啡吗？",
+      "a": "能。用爱乐压＋新鲜豆子，房间里也能冲出接近咖啡馆的水准。酒店自带「咖啡机」难喝，问题出在豆子不新鲜和水质差。"
+    }
+  ],
+  "products": {
+    "aeropress-go": {
+      "badge": "🏆 最佳便携",
+      "review": "AeroPress Go 是便携咖啡器具的正解。滤压壶＋随行杯一体，塞进行李箱毫无压力，一次可做 1-3 杯浓缩风味咖啡。便携品类中出品品质最好，配酒店电热水壶即可使用。",
+      "pros": [
+        "把爱乐压的品质做成了旅行版",
+        "能做出浓缩风味",
+        "配酒店电热水壶即可"
+      ],
+      "cons": [
+        "约 250-330 元，中端价位",
+        "需要自带磨好的咖啡粉"
+      ]
+    },
+    "hario-v60-collapsible-dripper": {
+      "badge": "🪶 最轻便手冲",
+      "review": "Hario V60 硅胶折叠滤杯是轻量手冲的正解。可压平收纳，搭配通用 V60 滤纸（随处可买）。适合行李从简又放不下手冲的人。",
+      "pros": [
+        "可压平收纳，方便携带",
+        "使用通用 V60 滤纸",
+        "约 110-180 元，价格实惠"
+      ],
+      "cons": [
+        "需要电热水壶（多数酒店都有）",
+        "滤纸得自带或现买"
+      ]
+    },
+    "wacaco-nanopresso": {
+      "badge": "☕ 最佳便携浓缩",
+      "review": "Wacaco Nanopresso 是便携浓缩机的正解。手动加压（18 bar），不用电池，能压出真正的油脂层。适合出差也要喝浓缩的人，需要自带细研磨的浓缩粉。",
+      "pros": [
+        "带油脂层的真浓缩",
+        "无需电池",
+        "手动加压，不用插电"
+      ],
+      "cons": [
+        "约 430-650 元，中端价位",
+        "需要细研磨（最好直接带浓缩粉）"
+      ]
+    },
+    "stagg-pour-over-set": {
+      "badge": "💎 高端之选",
+      "review": "Fellow Stagg 旅行手冲套装是高端旅行咖啡的代表。Stagg [X] 滤杯＋附赠双层保温杯，冲煮体验讲究，做工上乘。不介意高端器具占地方的话值得入手。",
+      "pros": [
+        "做工用料上乘",
+        "冲煮体验讲究",
+        "附赠双层保温杯"
+      ],
+      "cons": [
+        "约 430-650 元，价格偏高",
+        "比可折叠款更占空间"
+      ]
+    },
+    "minipresso-ns-capsules": {
+      "badge": "💊 Nespresso 用户之选",
+      "review": "Wacaco Minipresso NS 是 Nespresso 用户出行的正解。用 Nespresso 胶囊手动加压萃取（不用磨豆机，带胶囊就行），压力 18 bar。家里已有 Nespresso 机器的人最合适。",
+      "pros": [
+        "可用 Nespresso 胶囊",
+        "手动加压，不用电池",
+        "达到真正的浓缩压力"
+      ],
+      "cons": [
+        "需要自带胶囊",
+        "胶囊会产生额外垃圾"
+      ]
+    }
+  },
+  "offerNotes": {
+    "aeropress-go": "aeropress.com、亚马逊有售。随附滤纸，出行建议多备一些。",
+    "hario-v60-collapsible-dripper": "hario.com、亚马逊有售。使用通用 V60 滤纸（中号滤杯对应 02 号）。",
+    "wacaco-nanopresso": "wacaco.com、亚马逊有售。另有适配不同胶囊类型的配件包。",
+    "stagg-pour-over-set": "fellowproducts.com 有售。旅行套装含杯子；Stagg 滤杯也可单买。",
+    "minipresso-ns-capsules": "wacaco.com、亚马逊有售。兼容原版 Nespresso 胶囊（不支持 Vertuo）。"
+  },
+  "pinDescription": "出差也要喝好咖啡：爱乐压 Go、Hario 折叠 V60、Nanopresso、Fellow Stagg、Minipresso NS 五款便携咖啡器具怎么选，一张图看懂。",
+  "recommendedFor": [
+    {
+      "label": "轻装出行的商旅常客",
+      "offerId": "aeropress-go",
+      "reason": "AeroPress Go 自带随行杯，收纳后符合登机箱尺寸，从此不必将就酒店咖啡。"
+    },
+    {
+      "label": "预算有限的背包客、青旅住客",
+      "offerId": "hario-v60-collapsible-dripper",
+      "reason": "110-180 元，硅胶 V60 能完全压平、几乎不占重量，每一分钱每一克都要精打细算时最合适。"
+    },
+    {
+      "label": "非油脂层不喝的浓缩死忠",
+      "offerId": "wacaco-nanopresso",
+      "reason": "18 bar 手动加压，不用电、不用胶囊也能压出真正的油脂层，走到哪儿都能喝到正经浓缩。"
+    },
+    {
+      "label": "出门也要带全套装备的咖啡玩家",
+      "offerId": "stagg-pour-over-set",
+      "reason": "Stagg [X] 滤杯加双层保温杯，把手冲的仪式感完整搬到旅途中，看重体验的人值得。"
+    },
+    {
+      "label": "在外也想喝到熟悉味道的 Nespresso 用户",
+      "offerId": "minipresso-ns-capsules",
+      "reason": "沿用家里同款 Nespresso 胶囊，不用磨豆、不撒粉，风味和在家一模一样。"
+    }
+  ]
 }

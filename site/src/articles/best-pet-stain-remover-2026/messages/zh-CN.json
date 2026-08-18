@@ -2,5 +2,152 @@
   "title": "2026年最佳宠物去渍剂：5款对比",
   "description": "看看2026年哪款宠物去渍剂在酶强度和气味中和方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "酶清洁剂 vs 漂白剂/氨水",
+      "paragraphs": [
+        "酶清洁剂能在分子层面分解尿液、呕吐物、粪便中的蛋白质——排泄物被转化为二氧化碳和水，不留任何可被闻到的残留。",
+        "漂白剂只是掩盖气味，并不分解它，宠物还会回到原处重新标记。氨水更糟：猫尿本身含氨，用含氨清洁剂反而会诱发再次标记。",
+        "白醋可作为廉价替代品处理新鲜污渍，但对已渗透固着的陈旧污渍无效。"
+      ]
+    },
+    {
+      "heading": "猫尿——最难的一关",
+      "paragraphs": [
+        "猫尿最难处理，因为含有尿素、肌酐和猫尿氨酸（猫特有的含硫氨基酸，随时间分解后释放出典型的“陈年猫尿味”）。",
+        "只有 Anti-Icky-Poo 和 Nature's Miracle Advanced 能彻底清除放置 24 小时的猫尿。其余产品在固着污渍上都留有可察觉的残味。"
+      ]
+    },
+    {
+      "heading": "按用途选择",
+      "paragraphs": [
+        "综合最佳：Nature's Miracle（约 ¥70–140）。兽医推荐，渠道好买。",
+        "人气最高：Rocco & Roxie（约 ¥140–210）。亚马逊宠物酶清洁剂销量第一。",
+        "深度清洁最佳：Anti-Icky-Poo（约 ¥180–280）。专业级，双倍酶浓度。",
+        "环保之选：Skout's Honor（约 ¥105–175）。植物基，可生物降解。",
+        "配合清洗机最佳：BISSELL Plus Oxy（约 ¥105–175）。专为地毯清洗机设计。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "酶清洁剂需要多长时间起效？",
+      "a": "15–30 分钟完成初步清洁。酶完全分解异味化合物需要 24–48 小时。"
+    },
+    {
+      "q": "能用在实木地板上吗？",
+      "a": "已做过表面处理的实木可以，用后尽快擦干多余水分。未做处理的木材请先小面积试用。"
+    },
+    {
+      "q": "猫为什么总在同一处标记？",
+      "a": "多半是之前的尿液没被彻底分解（清洁不到位），也可能是压力或健康问题。可换用 Anti-Icky-Poo；若仍持续，请就医。"
+    },
+    {
+      "q": "可以配合地毯清洗机使用吗？",
+      "a": "BISSELL 本就为此设计。其他产品需按说明稀释。使用前务必先测试是否掉色。"
+    }
+  ],
+  "products": {
+    "natures-miracle-stain-odor-remover": {
+      "badge": "🏆 综合最佳",
+      "review": "Nature's Miracle 是这一品类的标杆，获兽医推荐超过 40 年，地毯和布艺沙发均可安全使用。建议买 Advanced 配方，浓度更高。对放置 24 小时的猫尿清除率超过 90%，仅次于 Anti-Icky-Poo。",
+      "pros": [
+        "兽医推荐超过 40 年",
+        "购买渠道广",
+        "对猫尿有效"
+      ],
+      "cons": [
+        "使用时有轻微化学味",
+        "配方版本多，认准 Advanced"
+      ]
+    },
+    "rocco-roxie-supply-co-stain-eliminator": {
+      "badge": "📦 人气最高",
+      "review": "Rocco & Roxie 是亚马逊上最热销的宠物酶清洁剂。专业级浓度，通过安全认证，气味清淡。实际效果与 Nature's Miracle Advanced 相当。",
+      "pros": [
+        "亚马逊同类销量第一",
+        "对儿童和宠物安全认证",
+        "气味清淡"
+      ],
+      "cons": [
+        "价格略高于 Nature's Miracle",
+        "线下渠道少"
+      ]
+    },
+    "anti-icky-poo-enzyme-cleaner": {
+      "badge": "🏆 深度清洁最佳",
+      "review": "Anti-Icky-Poo 无香型是专业人士的选择。双倍酶浓度，不添加香精（因此能真实判断是否清理干净）。唯一能彻底清除放置 7 天猫尿的产品。",
+      "pros": [
+        "专业级酶浓度",
+        "无香精掩盖残味",
+        "对固着污渍有效"
+      ],
+      "cons": [
+        "渠道较少，基本靠线上购买",
+        "价格高于 Nature's Miracle"
+      ]
+    },
+    "skout-honor-stain-odor": {
+      "badge": "🌱 环保之选",
+      "review": "Skout's Honor 是环保取向用户的合适选择。植物基、可生物降解，柑橘香。对新鲜尿液有效，但放置 24 小时的猫尿仍留有可察觉的残味。",
+      "pros": [
+        "植物基，可生物降解",
+        "柑橘香，无化学味",
+        "适用于各类表面"
+      ],
+      "cons": [
+        "对固着猫尿效果偏弱",
+        "价格高于 Nature's Miracle"
+      ]
+    },
+    "bissell-pet-stain-pretreat": {
+      "badge": "🪟 配合清洗机最佳",
+      "review": "BISSELL Plus Oxy 专为地毯清洗机设计，含氧配方渗透更深。不搭配机器单独点除污渍时效果一般，但用于地毯整体深度清洁很合适。",
+      "pros": [
+        "专为地毯清洗机设计",
+        "含氧配方深层渗透",
+        "适合大面积清洁"
+      ],
+      "cons": [
+        "不配机器时点除效果一般",
+        "需要稀释"
+      ]
+    }
+  },
+  "offerNotes": {
+    "natures-miracle-stain-odor-remover": "Petco、PetSmart、Chewy、Target、沃尔玛、亚马逊均有售。认准 Advanced 配方。",
+    "rocco-roxie-supply-co-stain-eliminator": "主要在亚马逊和 Chewy 销售。订阅购可省 15–20%。",
+    "anti-icky-poo-enzyme-cleaner": "antiickypoo.com 及亚马逊。配方最强，反复出现问题时值得入手。",
+    "skout-honor-stain-odor": "skoutshonor.com、Petco、Chewy、亚马逊。另有多款专用配方。",
+    "bissell-pet-stain-pretreat": "bissell.com、Target、沃尔玛、亚马逊。搭配 BISSELL ProHeat 等机型效果最佳。"
+  },
+  "pinDescription": "猫尿味总也去不掉？问题不在你擦得不够用力，而在于漂白剂只是掩盖气味，含氨清洁剂还会引来二次标记。5 款宠物酶清洁剂实测：24 小时陈旧猫尿谁能真正分解干净，地毯布艺能不能放心用，一次说清。",
+  "recommendedFor": [
+    {
+      "label": "预算有限的新手宠物家庭",
+      "offerId": "natures-miracle-stain-odor-remover",
+      "reason": "获兽医推荐 40 余年，各大渠道都能买到，新手最省心的入门选择。"
+    },
+    {
+      "label": "家有幼儿和室内宠物的家庭",
+      "offerId": "rocco-roxie-supply-co-stain-eliminator",
+      "reason": "通过儿童与宠物安全认证，气味清淡，适合孩子会在清洁后的地板和地毯上活动的家庭。"
+    },
+    {
+      "label": "多猫家庭、反复重新标记",
+      "offerId": "anti-icky-poo-enzyme-cleaner",
+      "reason": "双倍浓度且不用香精掩盖，能彻底清除放置 7 天的猫尿。"
+    },
+    {
+      "label": "排斥化学成分的环保取向用户",
+      "offerId": "skout-honor-stain-odor",
+      "reason": "植物基、可生物降解，柑橘香，不会把合成化学成分带进家里或排入下水道。"
+    },
+    {
+      "label": "满铺地毯污染严重的家庭",
+      "offerId": "bissell-pet-stain-pretreat",
+      "reason": "专为地毯清洗机设计，含氧配方能在大面积上深入地毯纤维内部。"
+    }
+  ]
 }

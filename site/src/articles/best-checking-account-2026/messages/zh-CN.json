@@ -2,5 +2,144 @@
   "title": "2026年最佳支票账户：5款对比",
   "description": "看看2026年哪款支票账户在费用、ATM访问和年利率方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "网上银行 vs 传统银行",
+      "paragraphs": [
+        "网上银行（Ally、SoFi、Schwab）：无月费，年化收益率更高（0.10%-4.20%），没有实体网点，但提供 Zelle 转账和完善的线上工具。",
+        "传统银行（Chase、Wells Fargo）：有实体网点、可办理柜面业务，但月费 10-12 美元（约 ¥72-86，满足代发工资或余额要求可免）。"
+      ]
+    },
+    {
+      "heading": "按使用场景选择",
+      "paragraphs": [
+        "常出国：Schwab Bank。全球 ATM 手续费无限次返还，借记卡无境外交易费。",
+        "网上银行首选：Ally Bank。年化 0.10%-0.25%，月费 0 美元，4.3 万台以上 ATM 免费取现。",
+        "大行综合服务：Chase Total Checking。4,700 家以上网点，ATM 网络覆盖广。",
+        "一站式：SoFi。储蓄部分年化最高 4.20%，零手续费。",
+        "已是 Wells 客户：Wells Fargo Everyday。4,700 家以上网点。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "需要开多个活期账户吗？",
+      "a": "多数人可以：主力活期 + 旅行专用（Schwab）+ 线上储蓄（Ally/SoFi）。不用付任何手续费，就能把各家的优势凑齐。"
+    },
+    {
+      "q": "网上银行安全吗？",
+      "a": "安全。同样受 FDIC 保险保障，上限 25 万美元（约 ¥180 万），与传统银行一致。网上银行运营成本低，所以能给出更高的利率。"
+    },
+    {
+      "q": "活期账户的年化收益率重要吗？",
+      "a": "不太重要。活期是为了流动性，不是为了收益。活期留 2,000-4,000 美元（约 ¥1.4 万-2.9 万）够用，其余放高息储蓄。活期的年化远没有储蓄的年化关键。"
+    },
+    {
+      "q": "Zelle 和 Venmo 有什么区别？",
+      "a": "Zelle 是银行对银行直转（不用单独开户，免费）。Venmo 是独立账户（Venmo 用户之间到账快，但提现到银行慢）。大多数主流银行都支持 Zelle。"
+    }
+  ],
+  "products": {
+    "schwab-bank-checking": {
+      "badge": "🏆 出国首选",
+      "review": "Schwab Bank Investor Checking 适合经常出国的人。无月费，全球 ATM 手续费无限次返还（任意 ATM 取现，月末由 Schwab 全额退还手续费），借记卡无境外交易费。美国最好的旅行活期账户。",
+      "pros": [
+        "全球 ATM 手续费无限次返还",
+        "无境外交易费",
+        "月费 0 美元"
+      ],
+      "cons": [
+        "没有实体网点",
+        "开户需先有 Schwab 证券账户"
+      ]
+    },
+    "ally-bank-checking": {
+      "badge": "🌐 网上银行首选",
+      "review": "Ally Bank Interest Checking 是网上银行活期的标准答案。年化 0.10%-0.25%，月费 0 美元，43,000 台以上免费 ATM（AllPoint 网络），网外 ATM 手续费每月最多返还 10 美元（约 ¥72）。手机 App 体验扎实。",
+      "pros": [
+        "年化 0.10%-0.25%",
+        "月费 0 美元",
+        "43,000 台以上免费 ATM"
+      ],
+      "cons": [
+        "没有实体网点",
+        "网外 ATM 返还每月上限 10 美元"
+      ]
+    },
+    "chase-total-checking": {
+      "badge": "🏛️ 大行首选",
+      "review": "如果你看重柜面服务，选 Chase Total Checking。4,700 家以上网点，16,000 台以上 ATM，开户奖励 200-300 美元（约 ¥1,400-2,200，有活动时）。月费 12 美元，代发工资满 500 美元或余额满 1,500 美元可免。想把信用卡、房贷放在同一家银行，它最合适。",
+      "pros": [
+        "4,700 家以上网点",
+        "16,000 台以上 Chase 自有 ATM",
+        "开户奖励活动常有"
+      ],
+      "cons": [
+        "月费 12 美元（可免）",
+        "年化低于网上银行"
+      ]
+    },
+    "sofi-checking": {
+      "badge": "🎯 一站式首选",
+      "review": "想用一个产品同时搞定活期和储蓄，选 SoFi Checking and Savings。储蓄部分年化最高 4.20%，零月费，活期与储蓄合一。SoFi 的会员权益在贷款、投资等其他产品上通用。",
+      "pros": [
+        "储蓄部分年化最高 4.20%",
+        "零手续费",
+        "会员权益覆盖 SoFi 全线产品"
+      ],
+      "cons": [
+        "没有实体网点",
+        "年化随促销利率浮动"
+      ]
+    },
+    "wells-fargo-everyday-checking": {
+      "badge": "🏛️ Wells 老客户首选",
+      "review": "已经是 Wells Fargo 客户的话，Everyday Checking 是顺手的选择。4,700 家以上网点，ATM 网络覆盖广。月费 10 美元，代发工资或余额满 500 美元可免。整体与 Chase 相当，但能用上 Wells 自家的线上工具和信用卡权益。",
+      "pros": [
+        "4,700 家以上网点",
+        "ATM 网络覆盖广",
+        "与 Wells Fargo 其他业务打通"
+      ],
+      "cons": [
+        "月费 10 美元",
+        "过往有品牌争议事件"
+      ]
+    }
+  },
+  "offerNotes": {
+    "schwab-bank-checking": "在 schwab.com 开户。需关联 Schwab 证券账户（同样零最低入金要求）。",
+    "ally-bank-checking": "在 ally.com 开户。纯线上，无网点。",
+    "chase-total-checking": "在 chase.com 或网点开户。开户奖励（有活动时）需完成指定任务。",
+    "sofi-checking": "在 sofi.com 开户。SoFi 会员权益可用于其他 SoFi 产品。",
+    "wells-fargo-everyday-checking": "在 wellsfargo.com 或网点开户。"
+  },
+  "pinDescription": "2026 年美国活期账户怎么选？Schwab、Ally、Chase、SoFi、Wells Fargo 五家横评：月费、ATM 返还、年化收益一次看清。出国党和远程办公党各有最优解。",
+  "recommendedFor": [
+    {
+      "label": "经常出国、频繁使用境外 ATM",
+      "offerId": "schwab-bank-checking",
+      "reason": "Schwab 月末全额返还全球任意 ATM 手续费，借记卡境外交易费为零。"
+    },
+    {
+      "label": "远程办公，习惯全线上打理资金",
+      "offerId": "ally-bank-checking",
+      "reason": "Ally 零月费、0.25% 年化、43,000 台以上免费 ATM，完全不用去网点也能办齐所有业务。"
+    },
+    {
+      "label": "刚起步、想建立第一段信用卡关系的职场新人",
+      "offerId": "chase-total-checking",
+      "reason": "Chase 有 4,700 家以上网点和常态化的 200-300 美元开户奖励，信用卡也能用同一账号统一管理。"
+    },
+    {
+      "label": "希望一个 App 里同时有活期和高息储蓄",
+      "offerId": "sofi-checking",
+      "reason": "SoFi 合一账户储蓄部分年化最高 4.20%，零手续费，会员权益还能用在贷款和投资上。"
+    },
+    {
+      "label": "已持有 Wells Fargo 房贷或信用卡",
+      "offerId": "wells-fargo-everyday-checking",
+      "reason": "Wells Fargo 有 4,700 家以上网点和打通的线上工具，老客户可把存款、信用、房贷集中在一处管理。"
+    }
+  ]
 }

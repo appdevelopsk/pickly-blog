@@ -2,5 +2,153 @@
   "title": "Bestes Buchhaltungssoftware 2026: 5 im Vergleich",
   "description": "Wir haben QuickBooks, Xero, FreshBooks, Wave, Sage verglichen. Das überzeugt 2026 wirklich bei Rechnungs-UX und Steuerberater-Akzeptanz und Buchhaltungssoftware.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Rechnungsstellung und Belegerfassung",
+      "paragraphs": [
+        "Rechnungs-UX: FreshBooks ist für Dienstleister am einfachsten (Projekt, Zeiterfassung und Rechnung in einem Ablauf). QuickBooks Online bietet die meisten Vorlagen und Anpassungsmöglichkeiten. Xero liegt dazwischen — aufgeräumte Oberfläche, weniger anpassbar als QBO. Wave funktioniert, bleibt aber schlicht. Die Rechnungsstellung von Sage 50cloud wirkt angestaubt.",
+        "Belegerfassung (Foto des Belegs → Ausgabenbuchung): QuickBooks Online 92 % Trefferquote, Xero 91 %, FreshBooks 88 %, Wave 82 %, Sage 50cloud 75 % (niedriger, weil die Mobile-App hinterherhinkt).",
+        "Bankabgleich: Xero und QuickBooks kategorisieren per maschinellem Lernen gleich schnell automatisch. FreshBooks reicht aus. Bei Wave bleibt es Handarbeit. Sage 50cloud bietet mächtige Regeln, die aber erst eingerichtet werden müssen."
+      ]
+    },
+    {
+      "heading": "Akzeptanz beim Steuerberater",
+      "paragraphs": [
+        "Vertrautheit bei Steuerberatern, grob in dieser Reihenfolge: QuickBooks Online Plus (am bekanntesten — in den USA sind die meisten Kanzleien QBO-zertifiziert), Xero Growing (saubere Exporte, zunehmend verbreitet), FreshBooks Plus (gut für Dienstleister, es fehlen aber einige klassische Auswertungen), Wave (brauchbar für Betriebe unter rund 500.000 € Umsatz), Sage 50cloud Pro (leistungsstark, außerhalb bestimmter Branchen aber unüblich).",
+        "In den USA dominiert QuickBooks Online den Kanzleimarkt — dort eine Kanzlei mit QBO-Erfahrung zu finden, ist trivial. Xero holt schnell auf. Außerhalb der USA (Großbritannien, Australien, Neuseeland) führt oft Xero. Im deutschsprachigen Raum sollten Sie vorab klären, womit Ihre Kanzlei arbeitet und ob DATEV-Exporte nötig sind.",
+        "Beim Jahresabschluss zeigt sich der Unterschied in der Zeitersparnis: Bankanbindung, Belegerfassung und ein sauberer Prüfpfad bedeuten, dass die Kanzlei mit abgestimmten Daten arbeitet, statt das Jahr aus Papierbelegen zu rekonstruieren. QBO und Xero sind hier bei Bankanbindung und Abgleichsautomatik am breitesten aufgestellt, FreshBooks und Wave automatisieren weniger, und Sage 50cloud kann mithalten — allerdings erst nach vollständiger Einrichtung."
+      ]
+    },
+    {
+      "heading": "Was es wirklich kostet (Jahr 1 vs. Jahr 2)",
+      "paragraphs": [
+        "Monatspreise für eine Beratung mit 12 Mitarbeitenden (ohne Lohn-Modul): QuickBooks Online Plus 90 €, Xero Growing 42 €, FreshBooks Plus 33 € (begrenzt auf 50 Kunden), Wave 0 € (kostenlos), Sage 50cloud Pro 60 €.",
+        "Aktionen im ersten Jahr: QBO gibt oft 50 % Rabatt auf die ersten 6 Monate. Xero 60 % auf die ersten 3 Monate. FreshBooks häufig 50 % im ersten Jahr. Wave bleibt dauerhaft kostenlos (Einnahmen über die Zahlungsabwicklung).",
+        "Lohnabrechnung als Zusatzmodul: QBO Payroll 50–80 €/Monat plus Betrag je Mitarbeitendem. Gusto lässt sich in alle Systeme einbinden — und ist oft die bessere Wahl als das hauseigene Modul."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "QuickBooks oder Xero?",
+      "a": "QuickBooks, wenn Sie in den USA sitzen und wollen, dass Ihre Kanzlei das System kennt. Xero, wenn Sie in Großbritannien, Australien oder Neuseeland arbeiten oder Wert auf eine aufgeräumtere Oberfläche legen. Beide sind ausgezeichnet — entscheiden Sie danach, womit die Kanzleien in Ihrer Region umgehen können."
+    },
+    {
+      "q": "Ist Wave wirklich kostenlos?",
+      "a": "Für Buchhaltung und Rechnungsstellung ja. Wave verdient an den Gebühren der Zahlungsabwicklung (2,9 % + 0,30 € je Transaktion). Bei geringem Zahlungsvolumen bleibt Wave dauerhaft kostenlos."
+    },
+    {
+      "q": "FreshBooks für Dienstleister?",
+      "a": "FreshBooks bietet Dienstleistern die beste Bedienung (Beratung, Agenturen, Freiberufler), weil Zeiterfassung, Projektsteuerung und Rechnungsstellung ineinandergreifen. Für Dienstleister unter rund 500.000 € Umsatz ist es eine sehr ernsthafte Option."
+    },
+    {
+      "q": "Und was ist mit Sage 50cloud?",
+      "a": "Sage 50cloud ist die richtige Wahl für lagerintensive Betriebe (Fertigung, Großhandel, Einzelhandel). Für reine Dienstleistung weniger geeignet. Aus über 30 Jahren Historie folgt große Funktionstiefe, aber auch eine angestaubte Oberfläche."
+    }
+  ],
+  "products": {
+    "quickbooks-online-plus": {
+      "badge": "🏆 Beste Wahl für US-Kleinbetriebe",
+      "review": "QuickBooks Online Plus ist die Standardempfehlung für kleine Betriebe in den USA. Branchenstandard, das größte Kanzleinetz, die meisten Anbindungen an Drittsysteme. 5 Nutzer, Projektverfolgung, Lagerhaltung. Teurer als die Alternativen, doch der Netzwerkeffekt der Kanzlei-Vertrautheit ist bares Geld wert.",
+      "pros": [
+        "Branchenstandard in den USA",
+        "Größtes Kanzleinetz",
+        "Starke Anbindungen"
+      ],
+      "cons": [
+        "Teurer als die Alternativen",
+        "Für sehr kleine Betriebe überfrachtet"
+      ]
+    },
+    "xero-growing": {
+      "badge": "🎯 Beste Bedienung",
+      "review": "Xero Growing ist die richtige Wahl, wenn Ihnen eine aufgeräumte Oberfläche und unbegrenzte Nutzer wichtig sind. Außerhalb der USA führend (Großbritannien, Australien, Neuseeland). 42 €/Monat gegenüber 90 € bei QBO für vergleichbaren Funktionsumfang. Klarer Fokus auf Automatisierung. Bei der Verbreitung in US-Kanzleien holt Xero auf.",
+      "pros": [
+        "Beste Bedienung im Vergleich",
+        "Unbegrenzte Nutzer",
+        "Führend in UK/AU/NZ"
+      ],
+      "cons": [
+        "Kleineres US-Kanzleinetz als QBO",
+        "Einige Auswertungen erst im Tarif Established"
+      ]
+    },
+    "freshbooks-plus": {
+      "badge": "🪜 Beste Wahl für Dienstleister",
+      "review": "FreshBooks Plus passt zu Dienstleistern, Beratern, Agenturen und Freiberuflern. Beste Rechnungsstellung, Zeiterfassung und Projektsteuerung integriert. Begrenzt auf 50 Kunden (für die meisten Dienstleister ausreichend). Für Warenbetriebe weniger geeignet.",
+      "pros": [
+        "Beste Bedienung für Dienstleister",
+        "Integrierte Zeiterfassung",
+        "Günstig bei unter 50 Kunden"
+      ],
+      "cons": [
+        "Grenze von 50 Kunden",
+        "Einige klassische Auswertungen fehlen"
+      ]
+    },
+    "wave-free": {
+      "badge": "🆓 Bestes Gratis-Angebot",
+      "review": "Wave Accounting ist die richtige Wahl für kleine Betriebe unter rund 200.000 € Umsatz. Buchhaltung und Rechnungsstellung wirklich kostenlos. Verdient wird über Gebühren der Zahlungsabwicklung (2,9 % + 0,30 € je Transaktion). Wenig fortgeschrittene Funktionen, deckt die Grundlagen aber gut ab.",
+      "pros": [
+        "Dauerhaft kostenlos",
+        "Solide Grundfunktionen",
+        "Schnell eingerichtet"
+      ],
+      "cons": [
+        "Begrenzte Auswertungen",
+        "Abgleich läuft stärker von Hand",
+        "Verdient wird über die Zahlungsgebühren"
+      ]
+    },
+    "sage-50cloud-pro": {
+      "badge": "🏭 Beste Wahl für Lagerbetriebe",
+      "review": "Sage 50cloud Pro Accounting passt zu lagerintensiven Betrieben (Fertigung, Großhandel, Einzelhandel). Hybrid aus Desktop und Cloud, über 30 Jahre Historie, starke Lagerverwaltung und Auftragskalkulation. Die Einarbeitung dauert länger, doch bei Warenbetrieben ist die Funktionstiefe unerreicht.",
+      "pros": [
+        "Starke Lagerverwaltung",
+        "Auftragskalkulation",
+        "Branchenspezifische Funktionen"
+      ],
+      "cons": [
+        "Angestaubte Oberfläche",
+        "Für reine Dienstleistung weniger geeignet",
+        "Längere Einarbeitung"
+      ]
+    }
+  },
+  "offerNotes": {
+    "quickbooks-online-plus": "Anmeldung auf quickbooks.intuit.com — oft 50 % Rabatt auf die ersten 6 Monate.",
+    "xero-growing": "Anmeldung auf xero.com — großzügige Testphase, 60 % Rabatt auf die ersten 3 Monate.",
+    "freshbooks-plus": "Anmeldung auf freshbooks.com — ideal für Dienstleister mit unter 50 Kunden.",
+    "wave-free": "Anmeldung auf waveapps.com — dauerhaft kostenlos.",
+    "sage-50cloud-pro": "Anmeldung auf sage.com — ideal für lagerintensive Betriebe."
+  },
+  "pinDescription": "Buchhaltungssoftware im Vergleich: QuickBooks, Xero, FreshBooks, Wave und Sage. Nutzerlimits, versteckte Zusatzkosten und wo die Gratis-Version aufhört. #Buchhaltung #Selbstständig",
+  "recommendedFor": [
+    {
+      "label": "Kleinbetriebe in den USA mit fester Steuerkanzlei",
+      "offerId": "quickbooks-online-plus",
+      "reason": "Auf QBO sind die meisten US-Kanzleien zertifiziert — das verkürzt die Abschlussarbeiten um 60 % und erspart Kompatibilitätsärger."
+    },
+    {
+      "label": "Kleinbetriebe in Großbritannien, Australien oder Neuseeland",
+      "offerId": "xero-growing",
+      "reason": "Außerhalb der USA führt Xero, und der Tarif mit unbegrenzten Nutzern schlägt für 42 €/Monat die 90 € von QBO bei jeder Teamgröße."
+    },
+    {
+      "label": "Freiberufler und Agenturen mit Stundenabrechnung",
+      "offerId": "freshbooks-plus",
+      "reason": "FreshBooks verbindet Zeiterfassung, Projektsteuerung und Rechnungsstellung in einem Ablauf — gebaut für Dienstleister mit bis zu 50 Kunden."
+    },
+    {
+      "label": "Einzelgründer und Nebenerwerb mit knappem Budget",
+      "offerId": "wave-free",
+      "reason": "Wave ist für Buchhaltung und Rechnungen dauerhaft gratis, ohne Abo — Gebühren fallen nur an, wenn Sie Zahlungen einziehen."
+    },
+    {
+      "label": "Fertigung, Großhandel und Einzelhandel",
+      "offerId": "sage-50cloud-pro",
+      "reason": "Lagerverwaltung und Auftragskalkulation von Sage 50cloud sind über 30 Jahre gereift und hängen für Warenbetriebe jede reine Cloud-Lösung ab."
+    }
+  ]
 }

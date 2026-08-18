@@ -2,5 +2,145 @@
   "title": "2026年最佳宠物背包：5款对比",
   "description": "看看2026年哪款宠物背包在航空合规和宠物舒适方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "软包 vs 硬壳 vs 背包",
+      "paragraphs": [
+        "软包（Sherpa、PetSafe、Diggs）：可折叠，符合客舱携带标准，宠物视野好。",
+        "硬壳（Petmate Sky Kennel）：用于货舱托运，更耐用，但宠物视野较差。",
+        "背包（K&H Bubble）：新颖时尚，适合短途出行，不适合长途飞行。"
+      ]
+    },
+    {
+      "heading": "各场景最佳选择",
+      "paragraphs": [
+        "最佳客舱合规款：Sherpa Deluxe（约 ¥430–650）。含 Guaranteed-On-Board 保障计划。",
+        "最佳软包：PetSafe Happy Ride（约 ¥290–500）。网面透视，多种尺寸。",
+        "最佳托运款：Petmate Sky Kennel（约 ¥360–930）。符合 IATA 标准。",
+        "最佳颜值：K&H Bubble Backpack（约 ¥320–500）。太空舱视窗，通风设计。",
+        "最佳高端款：Diggs Passenger（约 ¥1,430–2,000）。现代设计，符合客舱标准。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "宠物可以带进客舱吗？",
+      "a": "取决于航空公司和宠物体重。多数美国航司允许约 7.7 kg（17 lb）以内的宠物进客舱（装在航空箱里放于前排座位下）。更大的宠物必须走货舱。国内航司多数只接受货舱托运，订票前务必确认体重与尺寸限制。"
+    },
+    {
+      "q": "看兽医时该用软包还是硬壳？",
+      "a": "软包（Sherpa、PetSafe）对宠物更舒适，也更好拎。硬壳（Petmate）在车祸时保护性更好。不少主人两个都备：软包用于客舱，硬壳用于托运和自驾长途。"
+    },
+    {
+      "q": "怎么训练宠物适应航空箱？",
+      "a": "平时在家把箱门敞开，里面放零食，让它自己进去探索。长途出行前先做几次短途适应。可配合费利威（猫用）或安抚喷雾。不要硬把宠物塞进去，否则它会把航空箱和不好的体验绑定。"
+    },
+    {
+      "q": "背包式航空箱是噱头还是真好用？",
+      "a": "短途（看兽医、遛弯）确实好用。不适合长途飞行——太空舱视窗会影响通风。建议只用于 2 小时以内的行程。"
+    }
+  ],
+  "products": {
+    "sherpa-deluxe-pet-carrier": {
+      "badge": "✈️ 最佳客舱合规款",
+      "review": "Sherpa Deluxe Pet Carrier 是客舱携带的标准答案。符合多数美国航司的客舱要求，并有 Guaranteed-On-Board 保障计划（使用 Sherpa 认证尺寸却仍被拒载时，Sherpa 报销改签费）。内衬带软垫，配网面视窗。",
+      "pros": [
+        "符合客舱标准（多数美国航司）",
+        "Guaranteed-On-Board 保障计划",
+        "网面视窗，宠物看得见外面"
+      ],
+      "cons": [
+        "尺寸受航司规格限制",
+        "软垫厚度不如高端款"
+      ]
+    },
+    "petsafe-soft-sided-carrier": {
+      "badge": "🪟 最佳软包",
+      "review": "PetSafe Happy Ride Carrier 是软包里的合适之选。网面板透视性好，尺寸从 XS 到 XL 齐全，内部软垫舒适。适合短途和看兽医。厂商未明确标注符合客舱标准（需向航司确认）。",
+      "pros": [
+        "网面透视性好",
+        "尺寸齐全",
+        "内部软垫舒适"
+      ],
+      "cons": [
+        "未明确标注符合客舱标准",
+        "耐用性不如 Sherpa"
+      ]
+    },
+    "petmate-sky-kennel": {
+      "badge": "📦 最佳托运款",
+      "review": "Petmate Sky Kennel 是货舱托运的合适之选。符合 IATA 国际及美国货舱标准，硬壳保护到位，最大尺寸可容纳约 32 kg（70 lb）的宠物。多数美国航司要求超过 7.7 kg 的宠物使用此类箱体托运。",
+      "pros": [
+        "符合 IATA 托运标准",
+        "最高可承载约 32 kg",
+        "硬壳保护性强"
+      ],
+      "cons": [
+        "短途出行显得笨重",
+        "宠物视野受限"
+      ]
+    },
+    "k-h-pet-products-bubble-backpack": {
+      "badge": "🎒 最佳颜值",
+      "review": "K&H Pet Products Bubble Backpack 是最会打扮的一款。背包式设计配太空舱视窗（宠物可 360° 观察四周），带通风网面板，适合猫和约 5.4 kg（12 lb）以内的小型犬。最适合短时外出。",
+      "pros": [
+        "背包形态，解放双手",
+        "太空舱视窗，视野 360°",
+        "多种配色"
+      ],
+      "cons": [
+        "仅适合 2 小时以内短途",
+        "宠物体重上限约 5.4 kg"
+      ]
+    },
+    "diggs-passenger-travel-carrier": {
+      "badge": "✨ 最佳高端款",
+      "review": "Diggs Passenger Travel Carrier 是高端线的合适之选。设计感现代，符合客舱标准，内衬可拆洗。溢价主要买的是设计。适合经常出行、又在意颜值的主人。",
+      "pros": [
+        "设计现代好看",
+        "符合客舱标准",
+        "内衬可水洗"
+      ],
+      "cons": [
+        "约 ¥1,430–2,000，价格偏高",
+        "多花的钱只买到设计，功能无额外提升"
+      ]
+    }
+  },
+  "offerNotes": {
+    "sherpa-deluxe-pet-carrier": "可在 sherpapet.com、Chewy、Petco、亚马逊购买。Sherpa 认证尺寸因航司而异，请向所乘航司确认。",
+    "petsafe-soft-sided-carrier": "可在 petsafe.net、Petco、Chewy、亚马逊购买。尺寸从 XS 到 XL。",
+    "petmate-sky-kennel": "可在 petmate.com、Chewy、Petco、亚马逊购买。订票前请向航司确认尺寸要求。",
+    "k-h-pet-products-bubble-backpack": "可在 khpet.com、亚马逊、Chewy 购买。多种配色。",
+    "diggs-passenger-travel-carrier": "可在 diggs.pet 及主打设计的宠物用品渠道购买。"
+  },
+  "pinDescription": "带猫带狗出门别买错箱！2026 宠物航空箱横评：Sherpa Deluxe、PetSafe Happy Ride、Petmate Sky Kennel、K&H 太空舱背包、Diggs Passenger，客舱、托运、遛弯各选哪款一次说清。",
+  "recommendedFor": [
+    {
+      "label": "经常带猫或小型犬飞行的人",
+      "offerId": "sherpa-deluxe-pet-carrier",
+      "reason": "Guaranteed-On-Board 计划意味着即便认证尺寸的箱子被拒载，改签费也能报销——对常飞的人来说等于一份保险。"
+    },
+    {
+      "label": "常跑兽医、日常带宠物出门的主人",
+      "offerId": "petsafe-soft-sided-carrier",
+      "reason": "网面板让宠物在短途中保持安定、看得见外面，XS 到 XL 的尺寸也能匹配各种小型宠物。"
+    },
+    {
+      "label": "需要给大型犬办理航空托运的主人",
+      "offerId": "petmate-sky-kennel",
+      "reason": "符合 IATA 标准的硬壳最高可承载约 32 kg，对进不了客舱的大型犬来说是唯一选择。"
+    },
+    {
+      "label": "城市里日常遛弯、短时外出的主人",
+      "offerId": "k-h-pet-products-bubble-backpack",
+      "reason": "360° 太空舱视窗让好奇的猫能自由观察四周，双手还能解放，适合 2 小时以内的city walk。"
+    },
+    {
+      "label": "在意设计、又常带宠物出门的主人",
+      "offerId": "diggs-passenger-travel-carrier",
+      "reason": "现代设计加可水洗内衬，还符合客舱标准，适合不愿在颜值上将就的主人。"
+    }
+  ]
 }

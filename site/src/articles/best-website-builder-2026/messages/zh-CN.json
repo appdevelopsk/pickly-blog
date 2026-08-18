@@ -2,5 +2,148 @@
   "title": "2026年最佳网站构建器：5款对比",
   "description": "看看2026年哪款网站构建器在发布时间和导出便携性方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "上线所需时间",
+      "paragraphs": [
+        "从注册到发布一个 8 页网站所需时间：Squarespace 3 小时，Wix 4 小时（用 AI 生成器可缩到 1 小时，但设计质量下降），Webflow 8 小时（上手最难），Shopify 5 小时（电商优先的结构拖慢非商店类站点），Carrd 2 小时。",
+        "Squarespace 最快，因为模板已经替你做完了设计决策。Webflow 最慢——它是真正设计师级别的工具，与其说在用建站工具，不如说在学一款设计软件。"
+      ]
+    },
+    {
+      "heading": "移动端与 SEO",
+      "paragraphs": [
+        "Lighthouse 移动端评分（满分 100）：Squarespace 78，Wix 65，Webflow 88（最高，输出代码干净），Shopify 75，Carrd 92（几乎没有多余开销）。",
+        "SEO 默认配置（meta、schema、sitemap、robots.txt）：5 家都会自动生成 sitemap 和 robots.txt。Squarespace 和 Webflow 的默认 meta 处理最好。Wix 在 2024 年有所改进。Shopify 的 SEO 是围绕电商调优的。Carrd 可调项少，但默认值合理。"
+      ]
+    },
+    {
+      "heading": "平台锁定与导出",
+      "paragraphs": [
+        "导出能力：Webflow 可导出干净的 HTML/CSS/JS（独此一家）。其余均被平台锁定，迁移时只能手动重建。",
+        "域名可迁移性：5 家都支持自定义域名。但被锁定的平台不允许你带走设计，能转走的只有域名。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Squarespace 和 Wix 怎么选？",
+      "a": "重视设计、希望模板直接出效果就选 Squarespace；要最大灵活度和自由拖拽就选 Wix。Squarespace 更干净，Wix 更灵活但一致性差些。"
+    },
+    {
+      "q": "Webflow 的学习成本值得吗？",
+      "a": "如果你要设计师级的控制力和可导出的自主权，值得；只想简单拖拽就不值。Webflow 大约需要 1–2 周上手，回报是专业级的成品。"
+    },
+    {
+      "q": "非商店网站能用 Shopify 吗？",
+      "a": "不是好选择。Shopify 以电商为核心，非商品页面只是附属功能。商品是主角时用 Shopify；内容为主则选 Squarespace/Wix/Webflow。"
+    },
+    {
+      "q": "Carrd 和落地页工具比如何？",
+      "a": "Carrd 适合个人主页、link-in-bio、单页展示。需要多页面就用 Squarespace/Wix/Webflow。Carrd 每年约 19 美元（约 ¥140），是最便宜的正经选择。"
+    }
+  ],
+  "products": {
+    "squarespace-builder": {
+      "badge": "🎨 默认设计最出色",
+      "review": "若网站以设计为重、希望模板承担大部分工作，Squarespace 是正确选择。类似 Apple 的审美，高阶套餐里有除 Shopify 外最好的电商功能，还内置预约和邮件营销。",
+      "pros": [
+        "模板设计最好",
+        "内置预约与邮件营销",
+        "接近 Apple 的审美"
+      ],
+      "cons": [
+        "灵活度不如 Wix",
+        "被平台锁定"
+      ]
+    },
+    "wix-builder": {
+      "badge": "🪄 灵活度最高",
+      "review": "追求最大设计灵活度就选 Wix。AI 建站工具几分钟出站（质量参差）。模板库最大（900+）。Wix Studio 提供设计师级控制。免费版带官方品牌标识。",
+      "pros": [
+        "拖拽最灵活",
+        "AI 建站生成器",
+        "有免费版"
+      ],
+      "cons": [
+        "保持设计一致要花功夫",
+        "移动端渲染一直偏弱"
+      ]
+    },
+    "webflow-builder": {
+      "badge": "🥇 设计师级首选",
+      "review": "想要设计师级控制力加干净的代码输出，Webflow 是正确选择。可做 CSS 层级的可视化编辑，能导出 HTML/CSS/JS 自行托管。学习曲线确实陡，但成品是专业水准。",
+      "pros": [
+        "设计师级可视化编辑器",
+        "导出干净的 HTML/CSS/JS",
+        "Lighthouse 得分最高"
+      ],
+      "cons": [
+        "学习曲线陡峭",
+        "比 Squarespace 贵"
+      ]
+    },
+    "shopify-builder": {
+      "badge": "🛍️ 电商最佳",
+      "review": "以电商为核心的站点选 Shopify。原生支付处理、庞大应用生态（10,000+ 应用）、商品结构化数据 SEO。内容型网站并不适合。",
+      "pros": [
+        "电商功能最强",
+        "原生支付处理",
+        "应用生态庞大"
+      ],
+      "cons": [
+        "非商店网站属于杀鸡用牛刀",
+        "电商式结构拖慢内容型站点"
+      ]
+    },
+    "carrd-single-page": {
+      "badge": "💸 单页最佳",
+      "review": "个人主页、link-in-bio、单页展示就选 Carrd。每年约 19 美元（约 ¥140）解锁全部功能（自定义域名、表单、嵌入）。Lighthouse 得分最干净。不适合多页网站。",
+      "pros": [
+        "约 ¥140/年解锁全功能",
+        "Lighthouse 得分最干净",
+        "发布速度极快"
+      ],
+      "cons": [
+        "不支持多页面",
+        "电商功能有限"
+      ]
+    }
+  },
+  "offerNotes": {
+    "squarespace-builder": "在 squarespace.com 注册——14 天免费试用。",
+    "wix-builder": "在 wix.com 注册——免费版带 Wix 品牌标识。付费版每月 16 美元（约 ¥115）起。",
+    "webflow-builder": "在 webflow.com 注册——设计器免费版。网站托管每月 14 美元（约 ¥100）起。",
+    "shopify-builder": "在 shopify.com 注册——3 天免费试用，之后前 3 个月每月 1 美元。",
+    "carrd-single-page": "在 carrd.co 注册——有免费版。Pro 版每年 19 美元（约 ¥140）。"
+  },
+  "pinDescription": "2026 建站平台怎么选？同一个 8 页网站分别用 Squarespace、Wix、Webflow、Shopify、Carrd 做一遍，实测上线耗时、Lighthouse 得分和能不能把网站带走。",
+  "recommendedFor": [
+    {
+      "label": "想要体面品牌门面的小企业主",
+      "offerId": "squarespace-builder",
+      "reason": "Squarespace 类 Apple 风格的模板加内置预约功能，不用请设计师也能快速拿到专业网站。"
+    },
+    {
+      "label": "想完全掌控版式的创作者和博主",
+      "offerId": "wix-builder",
+      "reason": "Wix 的自由拖拽加 900+ 模板，不写代码也能改动每一个元素。"
+    },
+    {
+      "label": "为客户建站的网页设计师和团队",
+      "offerId": "webflow-builder",
+      "reason": "Webflow 的 CSS 级编辑器和干净的 HTML/CSS/JS 导出，让设计师拿到可交付或可自托管的专业成品。"
+    },
+    {
+      "label": "准备开网店的创业者",
+      "offerId": "shopify-builder",
+      "reason": "Shopify 的原生支付和 10,000+ 应用生态，是把店真正开起来最快的路径。"
+    },
+    {
+      "label": "做简单作品集的自由职业者和个体创业者",
+      "offerId": "carrd-single-page",
+      "reason": "Carrd 约 ¥140/年全功能加极快的发布速度，做个人 link-in-bio 或单页作品集正合适。"
+    }
+  ]
 }

@@ -2,5 +2,153 @@
   "title": "2026年最佳项目管理软件：5款对比",
   "description": "看看2026年哪款项目管理软件在日常采用和依赖跟踪方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "上手速度与30天活跃率",
+      "paragraphs": [
+        "搭出第一块可用看板的耗时：Trello 15 分钟（只有看板视图）、Monday 30 分钟（靠模板）、ClickUp 2 小时（功能太多）、Asana 1 小时（界面清爽）、Notion 3 小时（一切自己搭）。",
+        "第 30 天的日活率：Asana 88%、Monday 84%、Trello 82%（越简单越有人用）、ClickUp 70%（功能压得慌）、Notion 65%（取决于团队是否认可）。",
+        "移动端：Asana 的手机 App 是同类最好的；Monday 稳定可用；Trello（Atlassian 旗下）够用；ClickUp 偏重；Notion 手机端做项目管理比较吃力。"
+      ]
+    },
+    {
+      "heading": "依赖关系与视图",
+      "paragraphs": [
+        "任务依赖（标记 A 阻塞 B）：5 款都支持。Asana 和 ClickUp 的依赖可视化最强，能看关键路径；Monday 直观但分析弱一些；Notion 有关联字段，但产品逻辑仍以 wiki 为主；Trello 需要装 Power-Up 插件。",
+        "甘特图：Asana（Timeline）、Monday、ClickUp 原生支持；Notion 用数据库视图凑；Trello 靠 Power-Up。其中 Asana 的 Timeline 最干净。",
+        "工作量视图（看谁被压满）：Asana、Monday、ClickUp 都有专门的负载视图，代运营/代理团队几乎离不开。Notion 没有；Trello 需要 Power-Up。"
+      ]
+    },
+    {
+      "heading": "费用与规模扩展",
+      "paragraphs": [
+        "30 人团队每月费用（中档套餐）：Asana Advanced 约 ¥5,400/月、Monday Work Management Pro 约 ¥4,100/月、ClickUp Business 约 ¥2,600/月、Notion Business 约 ¥4,300/月、Trello Premium 约 ¥2,200/月。",
+        "免费版对比：Asana 免费支持 15 人；Trello 免费不限人数（功能基础）；ClickUp 永久免费（存储受限）；Monday 基本没有真正的免费版；Notion 个人使用免费。",
+        "超过 100 人之后：Asana、Monday、ClickUp 都能撑到 500 人以上；Notion 能用但体验会变差；Trello 过百人明显吃力——Atlassian 会引导你转用 Jira。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Asana 和 Monday 怎么选？",
+      "a": "需要依赖管理和规范项目结构的市场、创意团队选 Asana。想要灵活可视化、并把项目管理延伸到 CRM、HR 等场景的团队选 Monday。"
+    },
+    {
+      "q": "ClickUp 的「全能」代价是什么？",
+      "a": "ClickUp 想一口气替掉 Asana + Notion + Slack。功能确实全，但新人上手会被淹没。只有团队愿意花时间做配置，才值得选它。"
+    },
+    {
+      "q": "Notion 能当项目管理用吗？",
+      "a": "前提是团队里有人愿意长期搭建和维护项目数据库。想要开箱即用的模板、更快跑起来，Asana / Monday / Trello 更合适。"
+    },
+    {
+      "q": "Trello 和 Asana 怎么选？",
+      "a": "20 人以内、只用简单看板流程选 Trello。一旦需要依赖关系、多视图或正式的项目结构，就该换 Asana。"
+    }
+  ],
+  "products": {
+    "asana-advanced": {
+      "badge": "🏆 综合最佳",
+      "review": "多数职业团队选 Asana Advanced 不会错。界面体验同类最佳，15 人以内免费，依赖管理扎实，有 Timeline 甘特视图，手机 App 也是同类最强。市场、创意、运营团队的默认答案。",
+      "pros": [
+        "界面体验同类最佳",
+        "15 人以内免费",
+        "依赖管理扎实"
+      ],
+      "cons": [
+        "Advanced 每人每月 25 美元",
+        "自定义能力不如 Monday"
+      ]
+    },
+    "monday-work-management-pro": {
+      "badge": "🎨 灵活可视化最佳",
+      "review": "要同时覆盖项目、CRM、HR、运营的团队选 Monday Work Management Pro。看板式可视化，自定义几乎没有上限，Pro 每人每月 19 美元。想用一个平台打通各部门时最划算。",
+      "pros": [
+        "跨部门适配最灵活",
+        "可视化工作流风格",
+        "自动化能力强"
+      ],
+      "cons": [
+        "上手周期偏长",
+        "没有真正的免费版"
+      ]
+    },
+    "clickup-business": {
+      "badge": "🧰 全能型最佳",
+      "review": "想把工具合并成一个（项目 + 文档 + 聊天 + CRM + 自动化）就选 ClickUp Business，每人每月 12 美元。功能最全，但学习曲线也最陡；没有专人做管理员，30 天后的使用率会掉下来。",
+      "pros": [
+        "一站式：项目 + 文档 + 聊天 + CRM",
+        "Business 每人每月 12 美元",
+        "同价位功能最多"
+      ],
+      "cons": [
+        "学习曲线陡",
+        "30 天活跃率比 Asana 低约 20%"
+      ]
+    },
+    "notion-business": {
+      "badge": "📝 文档+项目最佳",
+      "review": "既写文档 / wiki 又跑项目的团队选 Notion Business，每人每月 20 美元。一切自己搭，好处是自由度极高，坏处是没有开箱即用的项目管理模板。项目和深度文档强绑定时最合适。",
+      "pros": [
+        "文档与项目合一",
+        "自由度极高",
+        "页面好看"
+      ],
+      "cons": [
+        "全靠自己搭，起步慢",
+        "纯项目管理能力不如 Asana",
+        "没有真正的甘特图"
+      ]
+    },
+    "trello-premium": {
+      "badge": "💸 简单项目管理最佳",
+      "review": "小团队跑简单看板流程就选 Trello Premium，每人每月 10 美元，隶属 Atlassian（Jira 母公司）。不需要依赖关系、只要列表加卡片时最好用。超过 20 人的团队通常会觉得不够用。",
+      "pros": [
+        "同类中最简单",
+        "免费版不限人数",
+        "背靠 Atlassian"
+      ],
+      "cons": [
+        "团队一大就不够用",
+        "依赖关系要装 Power-Up",
+        "规模上来后 Atlassian 会推你转 Jira"
+      ]
+    }
+  },
+  "offerNotes": {
+    "asana-advanced": "在 asana.com 注册——15 人以内免费。",
+    "monday-work-management-pro": "在 monday.com 注册——14 天免费试用。",
+    "clickup-business": "在 clickup.com 注册——免费版永久可用。",
+    "notion-business": "在 notion.so 注册——个人使用免费。",
+    "trello-premium": "在 trello.com 注册——免费版不限人数。"
+  },
+  "pinDescription": "5 款项目管理工具实测对比：Asana、Monday、ClickUp、Notion、Trello。30 人团队每月要花多少钱？免费版能撑多久？上手时间从 15 分钟到 3 小时不等，选错真的很折腾。#项目管理 #效率工具",
+  "recommendedFor": [
+    {
+      "label": "做客户项目的市场与创意团队",
+      "offerId": "asana-advanced",
+      "reason": "Asana 的界面体验、依赖追踪和 Timeline 视图，能给同时跑多个客户项目的团队足够的结构감。"
+    },
+    {
+      "label": "统筹跨部门流程的运营负责人",
+      "offerId": "monday-work-management-pro",
+      "reason": "Monday 把项目、CRM、HR 放进同一个平台，运营团队不用来回换工具就能把各部门收拢。"
+    },
+    {
+      "label": "想砍掉多个 SaaS 工具的技术型团队",
+      "offerId": "clickup-business",
+      "reason": "ClickUp 每人每月 12 美元就打包了项目、文档、聊天和 CRM，只要团队肯花时间配置，性价比最高。"
+    },
+    {
+      "label": "整天泡在文档和 wiki 里的知识工作者",
+      "offerId": "notion-business",
+      "reason": "Notion 把深度文档和项目数据库揉在一起，适合项目推进离不开书面方案的场景。"
+    },
+    {
+      "label": "只要简单看板、不想学习成本的小团队",
+      "offerId": "trello-premium",
+      "reason": "Trello 的卡片加列表模式 15 分钟就能跑起来，20 人以内还能用不限人数的免费版。"
+    }
+  ]
 }

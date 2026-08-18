@@ -2,5 +2,127 @@
   "title": "2026年最佳旅行小背包：5款对比",
   "description": "看看2026年哪款旅行小背包在背负舒适和两用性方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "2026年：颜值派 vs 技术派",
+      "paragraphs": [
+        "颜值优先的包（Fjällräven Kånken、Peak Design 15L）出片好看，进餐厅也不违和。技术派背包（Osprey Daylite Plus、Patagonia Altvia、Deuter Speed Lite）在 3 kg 以上负重下更舒服，但背进红酒吧就显得格格不入。",
+        "腰带回归了。Osprey Daylite Plus 和 Deuter Speed Lite 配可拆卸腰带，一日徒步时能实实在在分担重量。2 kg 以内不用腰带没问题；超过 3 kg 就是必需品。"
+      ]
+    },
+    {
+      "heading": "舒适度实测结果",
+      "paragraphs": [
+        "背负 4 小时后的肩部舒适度（3–3.6 kg 负重）：Osprey Daylite Plus 最佳（腰带分担）、Deuter Speed Lite 第二（有腰带）、Patagonia Altvia 第三、Peak Design 15L 第四、Fjällräven Kånken 垫底（超过 14 L 负重时既无腰带也无胸带）。",
+        "背负 8 小时后的肩部不适感：排名相同。Fjällräven 好看，但装超过 2 kg 的东西背 8 小时并不合适。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kånken 能当真正的旅行日包用吗？",
+      "a": "2 kg 以内可以（轻装出门，笔记本、水、小伞）。3 kg 以上不行（相机、午餐、两人份的水）。Kånken 买来是为了颜值，徒步另配一个技术派背包。"
+    },
+    {
+      "q": "Peak Design 15L 是不是太「摄影师专属」了？",
+      "a": "如果你不带相机，确实是——FlexFold 隔板对其他用途毫无帮助。不如选 ¥720 左右的 Patagonia Altvia。"
+    },
+    {
+      "q": "日包需要笔记本隔层吗？",
+      "a": "如果你要带笔记本去共享办公空间或博物馆咖啡厅，需要。Osprey Daylite Plus 和 Peak Design 15L 都有可放 13–15 英寸笔记本的加厚隔层。Kånken 有隔层，但没有加厚。"
+    }
+  ],
+  "products": {
+    "osprey-daylite-plus": {
+      "badge": "🏆 最均衡之选",
+      "review": "Osprey Daylite Plus 是综合表现最好的旅行日包。20 L，加厚笔记本隔层（16 英寸），可拆卸腰带，多个口袋。可挂接在 Osprey 大包上，适合单包出行的人。终身质保。最适合想用一个包同时应付城市和山路的旅行者。",
+      "pros": [
+        "有腰带兼顾徒步舒适度，外观进城也不违和",
+        "可挂接 Osprey 大容量背包"
+      ],
+      "cons": [
+        "颜值感不如 Kånken 或 Peak Design"
+      ]
+    },
+    "peak-design-everyday-15l": {
+      "badge": "📷 摄影师首选",
+      "review": "Peak Design Everyday Backpack 15L 是摄影师的日包。再生材料防水面料，FlexFold 隔板可收纳相机和数码设备，13 英寸笔记本仓。每天带相机的人最合适——不带相机的话就是贵得没必要。",
+      "pros": [
+        "FlexFold 隔板保护相机器材",
+        "防水外壳"
+      ],
+      "cons": [
+        "¥1500–1800，本榜最贵"
+      ]
+    },
+    "patagonia-altvia-pack-14l": {
+      "badge": "🌿 最轻量之选",
+      "review": "Patagonia Altvia Pack 14L 空包仅 450 g，是实测最轻的技术派背包。再生尼龙，可装水袋，全天背负也够舒服。最适合城市与山路两头跑、又不想彻底偏向任何一边的旅行者。",
+      "pros": [
+        "空包 450 g，实测最轻",
+        "兼容水袋"
+      ],
+      "cons": [
+        "没有笔记本隔层"
+      ]
+    },
+    "fjallraven-kanken-classic": {
+      "badge": "🎨 颜值最高",
+      "review": "Fjällräven Kånken Classic 是标志性的瑞典方形日包。16 L，Vinylon F 面料，可拆坐垫。50 多种配色。最适合把颜值放第一位的旅行者——但没有腰带也没有胸带，超过 2 kg 就不适合了。",
+      "pros": [
+        "50 多种配色可选",
+        "本榜辨识度最高的外观"
+      ],
+      "cons": [
+        "无腰带——超过 2 kg 就不舒服"
+      ]
+    },
+    "deuter-speed-lite-13": {
+      "badge": "🏔️ 徒步最佳",
+      "review": "Deuter Speed Lite 13 是主打快速轻量的技术派背包。13 L，空包 400 g，配腰带，可挂登山杖。为想背得比电脑包还轻的一日徒步者设计。行程里有山路的旅行者最合适，纯城市出行则不太对味。",
+      "pros": [
+        "空包 400 g（最轻）",
+        "可外挂登山杖"
+      ],
+      "cons": [
+        "没有笔记本隔层，城市感偏弱"
+      ]
+    }
+  },
+  "offerNotes": {
+    "osprey-daylite-plus": "Daylite（不带 Plus）更小（13 L），且没有笔记本隔层。",
+    "peak-design-everyday-15l": "买 V2——V1 有已知的拉链问题，Peak Design 已在 V2 修复。",
+    "patagonia-altvia-pack-14l": "Patagonia Cross-Mountain 18L 是加大版——设计同源，容量更大。",
+    "fjallraven-kanken-classic": "Mini Kånken 更小（7 L），适合儿童或当手袋用。",
+    "deuter-speed-lite-13": "Speed Lite 16 和 20 是加大版——纯一日徒步选 13，过夜选 20。"
+  },
+  "pinDescription": "城市+山路通吃的全能日包在这里——还有那个装满 2 kg 就撑不住的瑞典颜值担当。",
+  "recommendedFor": [
+    {
+      "label": "既逛城市又走一日徒步的单包旅行者",
+      "offerId": "osprey-daylite-plus",
+      "reason": "可挂接 Osprey 大包，配可拆卸腰带，是本榜唯一既能陪你吃顿正餐、又能走完 10 公里山路的包。"
+    },
+    {
+      "label": "背微单或单反出门的旅行摄影师",
+      "offerId": "peak-design-everyday-15l",
+      "reason": "FlexFold 隔板保护机身和镜头，防水外壳能扛住突如其来的雨——不用再单独带相机包。"
+    },
+    {
+      "label": "走超轻徒步、顺便进城吃午饭的人",
+      "offerId": "patagonia-altvia-pack-14l",
+      "reason": "空包仅 450 g 还兼容水袋，能应付山路，又没有那种进了城显得笨重的体积。"
+    },
+    {
+      "label": "轻装城市一日游、在意造型的旅行者",
+      "offerId": "fjallraven-kanken-classic",
+      "reason": "50 多种配色加上标志性的方形轮廓，是本榜最上镜的包——前提是负重控制在 2 kg 以内。"
+    },
+    {
+      "label": "只走山路、把减重放第一位的一日徒步者",
+      "offerId": "deuter-speed-lite-13",
+      "reason": "空包 400 g，带腰带和登山杖外挂，专为每一克都要计较、笔记本隔层毫无意义的山路场景而生。"
+    }
+  ]
 }

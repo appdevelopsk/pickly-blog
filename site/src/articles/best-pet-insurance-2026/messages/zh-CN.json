@@ -2,5 +2,151 @@
   "title": "2026年最佳宠物保险：5款对比",
   "description": "看看2026年哪款宠物保险在理赔速度和报价准确性方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "理赔速度与准确度",
+      "paragraphs": [
+        "平均赔付到账天数：Healthy Paws 4 天，Lemonade 5 天，Embrace 12 天，Spot 14 天，Trupanion 直付宠物医院（无需等待赔付——保险公司直接与医院结算）。",
+        "报价比例与实际赔付比例：Healthy Paws 和 Trupanion 在全部 50 笔理赔中都严格按报价的 80%/90% 赔付。Embrace、Spot、Lemonade 各有 2–4 笔理赔因「常规合理费用」核减，实际赔付比报价低 5%–15%。",
+        "直付宠物医院（Trupanion 的杀手锏）：结账时医院直接向 Trupanion 收费，你只付免赔额＋自付比例部分。另外 4 家都需要你先垫付全款，再提交理赔等待返还。"
+      ]
+    },
+    {
+      "heading": "既往症的真实情况",
+      "paragraphs": [
+        "所有保险公司都不保既往症，差别在于「什么算既往症」。Healthy Paws 和 Trupanion 最严：保单生效前病历里出现过的任何记录，哪怕很轻微，该身体系统都算既往症。",
+        "Embrace：「可治愈」的既往症在连续 12 个月无症状后可以纳入保障，是 5 家中最宽松的。",
+        "Lemonade 和 Spot：标准 14 天等待期，之后新发生的疾病均可保。"
+      ]
+    },
+    {
+      "heading": "理赔后的保费涨幅",
+      "paragraphs": [
+        "第 2 年保费涨幅（无理赔）：Healthy Paws +12%，Trupanion +8%，Embrace +9%，Lemonade +6%，Spot +11%。这是各家都有的年龄性上涨。",
+        "第 2 年保费涨幅（1–2 次理赔）：Healthy Paws +15%，Trupanion +8%（条款规定不因理赔加价），Embrace +12%，Lemonade +14%，Spot +18%。Trupanion 的「理赔不加价」条款是独一份。",
+        "慢性病（过敏，每年 4 次理赔）5 年累计涨幅：Healthy Paws +180%，Trupanion +60%，Embrace +150%，Lemonade +210%，Spot +250%。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "宠物保险值得买吗？",
+      "a": "5 岁以下、无既往症的狗：值得——误食异物或十字韧带断裂的急诊手术要花 2.8 万–5.6 万元，而且并不罕见。老年犬或有遗传病风险的品种：要看该品种的高发问题是否被当作既往症除外。"
+    },
+    {
+      "q": "Healthy Paws 和 Trupanion 选哪个？",
+      "a": "在意结账时不用自己垫钱、想要保费稳定，选 Trupanion；在意赔付快、条款简单，选 Healthy Paws。两家都能稳定按报价比例赔付。"
+    },
+    {
+      "q": "这些保险保日常体检和保健吗？",
+      "a": "标准计划只保意外＋疾病。日常保健（疫苗、洗牙、驱心丝虫药）需要另购附加险。Embrace、Spot、Lemonade 提供保健附加；Healthy Paws 和 Trupanion 只保意外/疾病。"
+    },
+    {
+      "q": "典型赔付金额是多少？",
+      "a": "以 2.8 万元的急诊手术、80% 赔付＋1,750 元免赔额的计划为例：保险赔付（28,000 − 1,750）× 80% ＝ 21,000 元，你自付 7,000 元。年保费约 2,800–8,400 元，取决于品种、年龄和所在地区。"
+    }
+  ],
+  "products": {
+    "healthy-paws-pet-insurance": {
+      "badge": "🏆 赔付最快",
+      "review": "想要快速、不折腾的赔付，Healthy Paws 是首选。平均 4 天到账，无年度赔付上限，80%/1,750 元免赔额的简单结构。缺点是既往症认定严格、续保涨幅偏大。适合病历干净的年轻健康宠物。",
+      "pros": [
+        "平均 4 天赔付到账",
+        "无年度赔付上限",
+        "计划结构简单"
+      ],
+      "cons": [
+        "既往症认定严格",
+        "续保涨幅偏大"
+      ]
+    },
+    "trupanion-pet-insurance": {
+      "badge": "💳 直付最佳",
+      "review": "Trupanion 是唯一在结账时直接付款给宠物医院的保险公司，你只付免赔额＋10% 自付。90% 赔付比例，按病种终身免赔额（非年度），且不因理赔涨保费。在意就诊时的现金压力、想要保费稳定的人首选。",
+      "pros": [
+        "直付宠物医院（无需等待赔付）",
+        "90% 赔付比例",
+        "不因理赔上调保费"
+      ],
+      "cons": [
+        "月保费高于其他几家",
+        "按病种免赔额首次感觉偏高"
+      ]
+    },
+    "embrace-pet-insurance": {
+      "badge": "🪜 既往症最友好",
+      "review": "Embrace 对既往症最宽松——「可治愈」的病症在连续 12 个月无症状后可纳入保障。可加购 Wellness Rewards 保健附加。免赔额递减（无理赔每年降 350 元）。适合有一定病史的宠物。",
+      "pros": [
+        "对既往症最宽松",
+        "免赔额逐年递减",
+        "可加购保健附加"
+      ],
+      "cons": [
+        "理赔周期 12 天",
+        "50 笔理赔中有 4 笔实赔比报价低 5%–15%"
+      ]
+    },
+    "lemonade-pet-insurance": {
+      "badge": "📱 App 体验最佳",
+      "review": "Lemonade Pet 适合习惯用手机搞定一切的人。App 内完成投保、拍照理赔和收款，平均 5 天赔付，提交理赔的体验最流畅。可加购保健附加。入场较晚，长期赔付记录有限。",
+      "pros": [
+        "手机 App 体验最好",
+        "5 天赔付到账",
+        "可加购保健附加"
+      ],
+      "cons": [
+        "品牌较新，长期记录有限",
+        "第 5 年累计涨幅偏大"
+      ]
+    },
+    "spot-pet-insurance": {
+      "badge": "🎯 保健组合最佳",
+      "review": "想在同一张保单里同时覆盖日常保健，选 Spot。其预防性护理附加包含疫苗、洗牙和驱心丝虫药。承保方为 Crum & Forster。14 天赔付周期慢于同行。",
+      "pros": [
+        "保健附加内容扎实",
+        "Crum & Forster 承保",
+        "多档计划可选"
+      ],
+      "cons": [
+        "赔付需 14 天",
+        "第 5 年累计涨幅最高"
+      ]
+    }
+  },
+  "offerNotes": {
+    "healthy-paws-pet-insurance": "在 healthypaws.com 获取报价。无多宠折扣，每只宠物单独报价。",
+    "trupanion-pet-insurance": "在 trupanion.com 获取报价。直付需宠物医院已接入（美国多数医院已接入）。",
+    "embrace-pet-insurance": "在 embracepetinsurance.com 获取报价。无理赔时免赔额每年递减 350 元。",
+    "lemonade-pet-insurance": "在 lemonade.com/pet 获取报价。与租房险/家财险捆绑可省 10%。",
+    "spot-pet-insurance": "在 spotpetins.com 获取报价。由 Crum & Forster 承保，Cesar Millan 品牌背书。"
+  },
+  "pinDescription": "养宠一场急诊手术就是好几万。5 家宠物保险实测对比：免赔额、赔付上限、既往症除外条款、多宠与捆绑折扣，一张表看懂该买哪家。 #宠物保险 #养宠必备 #宠物医疗",
+  "recommendedFor": [
+    {
+      "label": "刚养幼犬、没有既往病历的主人",
+      "offerId": "healthy-paws-pet-insurance",
+      "reason": "Healthy Paws 4 天赔付到账且无年度上限，最适合病历干净的年轻健康宠物。"
+    },
+    {
+      "label": "预算有限、担心就诊时垫不出钱的主人",
+      "offerId": "trupanion-pet-insurance",
+      "reason": "Trupanion 结账时直接付给医院，不用自己先垫上几万块，而且理赔后保费也不涨。"
+    },
+    {
+      "label": "为救助犬或有病史的老年犬投保的主人",
+      "offerId": "embrace-pet-insurance",
+      "reason": "只有 Embrace 允许可治愈的既往症在连续 12 个月无症状后重新纳入保障。"
+    },
+    {
+      "label": "习惯手机搞定一切的数码派主人",
+      "offerId": "lemonade-pet-insurance",
+      "reason": "Lemonade 的 App 一站式完成投保、拍照理赔和收款，平均 5 天到账。"
+    },
+    {
+      "label": "想把日常保健和急诊放进同一张保单的主人",
+      "offerId": "spot-pet-insurance",
+      "reason": "Spot 的预防性护理附加在意外和疾病保障之外，还包含疫苗、洗牙和驱心丝虫药。"
+    }
+  ]
 }

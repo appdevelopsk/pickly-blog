@@ -2,5 +2,127 @@
   "title": "2026年最佳婴儿配方奶粉：5款对比",
   "description": "看看2026年哪款婴儿配方奶粉在成分质量和成本方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "2026年欧盟标准与美国标准的差别",
+      "paragraphs": [
+        "欧盟1段配方在添加糖（不允许使用玉米糖浆固体）、DHA来源（必须标明）和蛋白质构成（乳清与酪蛋白比例有强制规定）上要求更严。美国FDA给的空间更大——所以Bobbie才成为第一个明确对标欧盟规格的美国品牌。",
+        "进口渠道也变简单了。Holle和Kendamil现在通过FDA放行的渠道（Organic Start、Organic's Best）合法进口。法律地位在2024年发生变化，灰色渠道不再是唯一选择。"
+      ]
+    },
+    {
+      "heading": "配料品质与成本",
+      "paragraphs": [
+        "糖来源：Bobbie（有机乳糖）、Holle（有机乳糖）、Kendamil（有机乳糖＋微量麦芽糊精）、Similac Pure Bliss（仅乳糖）、Earth's Best（乳糖＋葡萄糖浆固体）。葡萄糖浆固体合法，但部分儿科医生会特别提示。",
+        "按每天32盎司（约950毫升）计算的每周花费：Earth's Best约250元，Bobbie约300元，Similac Pure Bliss约320元，Kendamil约370元，Holle约415元。Holle因进口物流最贵，但配料表最干净。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "欧洲配方奶比美国的更安全吗？",
+      "a": "不是「更安全」，而是对添加物更严格。美国FDA批准的配方奶同样安全。差别在于欧盟对添加糖和DHA来源标注的规定。多数美国儿科医生认为，对健康婴儿来说两者都可以。"
+    },
+    {
+      "q": "可以混着喂不同品牌吗？",
+      "a": "可以。儿科医生认为交替使用或逐步过渡都是安全的。换新品牌的头两周先单独喂一种，观察耐受情况，之后就可以自由搭配。"
+    },
+    {
+      "q": "什么时候可以停配方奶？",
+      "a": "满12个月是转全脂牛奶的常规节点。不必急，如果你更看重营养配比，12个月后继续喝配方奶也没问题（正是为此才有3段幼儿配方）。"
+    }
+  ],
+  "products": {
+    "bobbie-organic": {
+      "badge": "🏆 美产最佳",
+      "review": "Bobbie Organic Infant Formula 是第一个明确按欧盟配方设计的美国品牌。USDA有机认证，对标欧洲规格（乳糖比例更高、有机A2牛乳）。在FDA监管下的美国本土生产，不用等进口。每罐约185元，可订阅配送。想要欧盟风格又不想折腾进口，选它。",
+      "pros": [
+        "欧盟风格配方，受FDA监管",
+        "订阅自动配送"
+      ],
+      "cons": [
+        "每罐185元高于美国大众市场配方奶"
+      ]
+    },
+    "holle-stage-1-organic": {
+      "badge": "🇪🇺 最高端",
+      "review": "Holle 1段有机是德国标杆。Demeter生物动力认证，不含麦芽糊精，碳水全部来自有机乳糖。经Organic Start合法进口并获FDA放行。每周约415元是最贵的，但配料表也是最干净的。",
+      "pros": [
+        "Demeter生物动力认证",
+        "零麦芽糊精、零玉米糖浆"
+      ],
+      "cons": [
+        "每周约415元，成本最高"
+      ]
+    },
+    "kendamil-organic": {
+      "badge": "🇬🇧 全脂奶基底最佳",
+      "review": "Kendamil Organic Whole Milk 用的是全脂牛奶，而非多数美国配方奶采用的脱脂奶＋植物油。英国工厂已获FDA放行，DHA来自藻类的植物来源。在美国易买到的欧盟风格配方中，它的价格不算高端档。",
+      "pros": [
+        "全脂奶基底（而非脱脂奶＋油）",
+        "藻类来源植物DHA"
+      ],
+      "cons": [
+        "配料表中有微量麦芽糊精"
+      ]
+    },
+    "similac-pure-bliss": {
+      "badge": "💼 主流产品最佳",
+      "review": "Similac Pure Bliss 是雅培的高端线。非转基因、牛乳基底、碳水仅用乳糖（无玉米糖浆），不含人工生长激素。美国各大零售渠道都有货。想要主流渠道的便利，同时配料比标准版Similac更干净，选它。",
+      "pros": [
+        "碳水仅用乳糖（无玉米糖浆）",
+        "美国零售渠道普遍有货"
+      ],
+      "cons": [
+        "非有机"
+      ]
+    },
+    "earths-best-organic-dairy": {
+      "badge": "💰 有机中最划算",
+      "review": "Earth's Best Organic Dairy 是入门级USDA有机配方，每周约250元。不含生长激素和农药残留，含DHA和ARA。代价是配料表里有葡萄糖浆固体——合法且常见，但部分儿科医生会提醒注意。",
+      "pros": [
+        "最便宜的USDA有机选项",
+        "购买渠道广"
+      ],
+      "cons": [
+        "配料表含葡萄糖浆固体"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bobbie-organic": "订阅比零售价便宜10%——打算喝满3个月以上就直接订。",
+    "holle-stage-1-organic": "1段（0-6个月）→2段（6-10个月）→3段（10个月以上），下单前确认段位。",
+    "kendamil-organic": "Kendamil Classic（非有机）每周便宜约70元，配料表几乎相同，只是少了有机认证。",
+    "similac-pure-bliss": "注册 Similac Strong Moms 会员，每年可拿到2800元以上的优惠券。",
+    "earths-best-organic-dairy": "Organic Dairy 是标准款，Earth's Best 另有适度水解和大豆版本。"
+  },
+  "pinDescription": "5款婴儿配方奶，逐条对比配料表与欧盟、美国两套标准。Bobbie、Holle、Kendamil、Similac、Earth's Best 到底该怎么选？",
+  "recommendedFor": [
+    {
+      "label": "想要欧盟配料又不想折腾进口的父母",
+      "offerId": "bobbie-organic",
+      "reason": "Bobbie 对标欧盟规格，由FDA监管的美国工厂直发，没有清关延误，也没有灰色渠道风险。"
+    },
+    {
+      "label": "追求最干净配料表的健康导向父母",
+      "offerId": "holle-stage-1-organic",
+      "reason": "Demeter生物动力认证加零麦芽糊精，让Holle成为美国能买到的标准最严的配方奶。"
+    },
+    {
+      "label": "从母乳过渡、希望脂肪含量更接近的父母",
+      "offerId": "kendamil-organic",
+      "reason": "Kendamil 用全脂牛奶而非脱脂奶加植物油，脂肪构成最接近母乳。"
+    },
+    {
+      "label": "预算有限但需要长期喝有机配方的家庭",
+      "offerId": "earths-best-organic-dairy",
+      "reason": "每周约250元，Earth's Best 是最划算的USDA有机选项，美国几乎所有主流零售商都有货。"
+    },
+    {
+      "label": "更看重线下随时能买到、而非顶级原料的父母",
+      "offerId": "similac-pure-bliss",
+      "reason": "Similac Pure Bliss 碳水仅用乳糖、不含玉米糖浆，美国各大零售商现货，无需特别订购。"
+    }
+  ]
 }

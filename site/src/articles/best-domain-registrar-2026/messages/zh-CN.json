@@ -2,5 +2,149 @@
   "title": "2026年最佳域名注册商：5款对比",
   "description": "看看2026年哪款域名注册商在续费价格和追加销售强度方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "真实价格（看续费价，不是首年价）",
+      "paragraphs": [
+        ".com 第二年续费：Porkbun 10.37 美元（约 ¥75）、Cloudflare 9.77 美元（约 ¥71，成本价）、Namecheap 14.98 美元（约 ¥108）、GoDaddy 24.99 美元（约 ¥180）、Squarespace Domains 20 美元（约 ¥145）。",
+        "论绝对价格 Cloudflare 最低——按注册局成本价出售，零加价。代价是：它的目的是把你锁在 Cloudflare 的 DNS／代理上。Porkbun 则是在留有利润的前提下最便宜的一家。",
+        "GoDaddy 的续费价是 Porkbun 的 2.4 倍，属于典型套路：首年低价，续费高价。很多人因为懒得折腾一直留着，每个域名每年多花 15 美元（约 ¥108）以上。"
+      ]
+    },
+    {
+      "heading": "WHOIS 隐私保护",
+      "paragraphs": [
+        "免费提供 WHOIS 隐私保护：Porkbun、Namecheap、Cloudflare、Squarespace Domains。GoDaddy 收费：9.99 美元／年（约 ¥72）。",
+        "WHOIS 隐私保护会隐藏你的姓名、地址、邮箱和电话，不让它们出现在公开记录里。不开启的话，联系方式可被任何人查到，紧接着就是垃圾信息。",
+        "GoDaddy 对 WHOIS 隐私保护收费已经过时了——如今多数注册商都把它当作免费标配。"
+      ]
+    },
+    {
+      "heading": "结算页的捆绑推销",
+      "paragraphs": [
+        "结算流程中的推销次数（按需要手动取消的点击数计）：Porkbun 0 次、Cloudflare 0 次、Namecheap 2 次、GoDaddy 8 次以上（隐私保护、邮箱、安全服务、企业邮箱、虚拟主机、建站工具、SSL、M365）、Squarespace Domains 1 次。",
+        "GoDaddy 的结算页最激进——一不留神就会多买 50 美元（约 ¥360）以上用不上的服务。Porkbun 和 Cloudflare 的结算页干干净净。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Cloudflare 和 Porkbun 选哪个？",
+      "a": "已经在用 Cloudflare DNS／代理，就选 Cloudflare。想要一家自身能盈利、且不绑定其他平台的注册商，就选 Porkbun。"
+    },
+    {
+      "q": "该把域名从 GoDaddy 转出吗？",
+      "a": "该转。每个域名每年省 15 美元（约 ¥108）以上。转移流程不复杂（距上次操作满 60 天即可）。转移费通常由接收方注册商承担。"
+    },
+    {
+      "q": ".com 仍然是最佳后缀吗？",
+      "a": "是。认知度最高、用户最容易记住、对 SEO 中性。.io、.ai 等后缀在特定场景没问题，但默认还是选 .com。"
+    },
+    {
+      "q": "批量管理域名怎么办？",
+      "a": "Cloudflare 和 Namecheap 的批量工具最好用。Porkbun 的批量操作体验在改善。GoDaddy 也有批量工具，但界面杂乱。"
+    }
+  ],
+  "products": {
+    "porkbun-registrar": {
+      "badge": "🏆 性价比之选",
+      "review": "想长期维持低价，选 Porkbun。.com 续费 10.37 美元（约 ¥75），免费 WHOIS 隐私保护，搭配其主机时免费送 SSL，结算页零推销。2026 年注册新域名的默认推荐。",
+      "pros": [
+        "长期低价，且可持续",
+        "免费 WHOIS 隐私保护",
+        "结算页零推销"
+      ],
+      "cons": [
+        "品牌知名度不如 Namecheap",
+        "无电话客服"
+      ]
+    },
+    "namecheap-registrar": {
+      "badge": "🎯 主流之选",
+      "review": "想要成熟主流、价格稳定的注册商，选 Namecheap。.com 续费 14.98 美元（约 ¥108），永久免费 WHOIS 隐私保护，价格透明。DNS 管理功能强。自 2000 年运营至今，稳定可靠。",
+      "pros": [
+        "永久免费 WHOIS 隐私保护",
+        "价格透明",
+        "DNS 管理功能强"
+      ],
+      "cons": [
+        "比 Porkbun 贵",
+        "结算页有少量推销"
+      ]
+    },
+    "cloudflare-registrar": {
+      "badge": "💰 成本价之选",
+      "review": "如果你在用 Cloudflare DNS，想按成本价拿域名就选 Cloudflare Registrar。.com 续费 9.77 美元（约 ¥71，即注册局成本价），免费 WHOIS 隐私保护，零加价。前提是域名必须使用 Cloudflare DNS；注册商层面不提供邮件转发。",
+      "pros": [
+        "成本价出售（最便宜）",
+        "完全没有捆绑推销",
+        "免费 WHOIS 隐私保护"
+      ],
+      "cons": [
+        "必须使用 Cloudflare DNS",
+        "不支持邮件转发"
+      ]
+    },
+    "godaddy-registrar": {
+      "badge": "🚫 不推荐",
+      "review": "2026 年最该避开的注册商就是 GoDaddy。.com 续费 24.99 美元（约 ¥180，是 Porkbun 的 2.4 倍），WHOIS 隐私保护另收 9.99 美元／年（约 ¥72），结算页 8 次以上推销。价格停留在老时代，好处却一点没留下。趁早转走。",
+      "pros": [
+        "品牌知名度高"
+      ],
+      "cons": [
+        "续费价最高",
+        "WHOIS 隐私保护要另付费",
+        "结算页推销激进"
+      ]
+    },
+    "google-domains-squarespace": {
+      "badge": "🪜 Google Domains 的最佳替代",
+      "review": "Squarespace Domains（原 Google Domains）继承了 Google Domains 的简洁。2023 年被 Squarespace 收购。.com 续费 20 美元（约 ¥145），免费 WHOIS 隐私保护，界面清爽。",
+      "pros": [
+        "沿用 Google Domains 的交互体验",
+        "免费 WHOIS 隐私保护",
+        "结算页清爽"
+      ],
+      "cons": [
+        "比 Porkbun／Cloudflare 贵",
+        "会向 Squarespace 建站工具引流"
+      ]
+    }
+  },
+  "offerNotes": {
+    "porkbun-registrar": "在 porkbun.com 注册——搭配 Porkbun 主机可享最划算的免费 SSL 组合。",
+    "namecheap-registrar": "在 namecheap.com 注册——留意黑五促销。",
+    "cloudflare-registrar": "在 cloudflare.com 注册——需要 Cloudflare 账号。",
+    "godaddy-registrar": "在 godaddy.com 注册——但建议一年内转走。",
+    "google-domains-squarespace": "在 squarespace.com/domains 注册——原 Google Domains 账号已迁移过来。"
+  },
+  "pinDescription": "域名注册商别乱选：续费价能差一倍多。Porkbun、Namecheap、Cloudflare、GoDaddy、Squarespace 五家真实续费价 + WHOIS 隐私保护对比，收藏备用。",
+  "recommendedFor": [
+    {
+      "label": "第一次注册域名的独立开发者和单人创业者",
+      "offerId": "porkbun-registrar",
+      "reason": "Porkbun 续费 10.37 美元（约 ¥75），零推销、免费 WHOIS 隐私保护，从第一天起花销就一清二楚。"
+    },
+    {
+      "label": "想选一家成熟可靠注册商的小微企业主",
+      "offerId": "namecheap-registrar",
+      "reason": "Namecheap 价格透明、WHOIS 隐私保护永久免费，适合需要稳定 DNS、不想遇到意外的企业。"
+    },
+    {
+      "label": "网站已经跑在 Cloudflare 代理后面的开发者",
+      "offerId": "cloudflare-registrar",
+      "reason": "DNS 本就托管在 Cloudflare，9.77 美元（约 ¥71）的成本价续费可以无缝衔接。"
+    },
+    {
+      "label": "习惯了 Google Domains 简洁界面的老用户",
+      "offerId": "google-domains-squarespace",
+      "reason": "Squarespace Domains 沿用了 Google Domains 的交互，迁移过来的账号照旧享有免费 WHOIS 隐私保护。"
+    },
+    {
+      "label": "想把续费账单砍掉一半的 GoDaddy 用户",
+      "offerId": "godaddy-registrar",
+      "reason": "GoDaddy 续费 24.99 美元（约 ¥180）外加付费 WHOIS 隐私保护，转出去每个域名每年就能省下 15 美元（约 ¥108）以上。"
+    }
+  ]
 }

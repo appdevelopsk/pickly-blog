@@ -2,5 +2,158 @@
   "title": "2026年最佳加密货币交易所：5款对比",
   "description": "看看2026年哪款加密货币交易所在费用和监管地位方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "月交易额 1 万美元的手续费测算",
+      "paragraphs": [
+        "Coinbase Advanced：每月 32 美元（该档位 taker 0.40%、maker 0.25%）。美国合规平台中最贵。",
+        "Kraken Pro：每月 18 美元（taker 0.26%、maker 0.16%）。只有 Coinbase Advanced 的一半。",
+        "Gemini Active Trader：每月 35 美元（taker 0.40%、maker 0.20%）。与 Coinbase 接近，maker 略高。",
+        "Binance.US：每月 8 美元（taker 0.10%、maker 0.10%）。美国合规平台中最便宜。",
+        "Bitfinex：每月 16 美元（taker 0.20%、maker 0.10%）。便宜，但不对美国居民开放。"
+      ]
+    },
+    {
+      "heading": "安全性与监管资质",
+      "paragraphs": [
+        "Coinbase、Kraken、Gemini、Binance.US 均受美国监管。Coinbase 和 Gemini 持有 NYDFS BitLicense（美国州级最高标准）。Kraken 持有怀俄明州 SPDI 牌照。Binance.US 曾受监管审查，但仍在运营。",
+        "托管保险：Coinbase 和 Gemini 采用冷存储并配有银行级保险。Kraken 的安全记录最长且干净（2011 年成立至今无被盗事件）。Binance.US 的保险细节透明度较低。",
+        "Bitfinex 在美国境外受监管（英属维尔京群岛），不对美国居民开放。2016 年曾被盗 7200 万美元（到 2022 年基本已赔付用户），目前仍在运营。"
+      ]
+    },
+    {
+      "heading": "分场景推荐",
+      "paragraphs": [
+        "美国新手首选：Coinbase Advanced。本次对比中费率最高，但界面最友好、币种最多（250+），监管记录也最扎实。",
+        "美国活跃交易者首选：Kraken Pro。费率是 Coinbase 的一半，200+ 币种，支持高级订单类型，安全记录最干净。",
+        "重视安全者首选：Gemini Active Trader。受 NYDFS 监管，有托管保险，冷存储披露最充分。",
+        "低费率美国交易首选：Binance.US。0.10% 的 taker 费率是美国合规平台中最低的。币种偏少（150 个，其他平台 250+）。",
+        "海外高阶用户首选：Bitfinex。不面向美国居民。保证金交易强、订单类型丰富、费率有竞争力。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "币能一直放在交易所吗？",
+      "a": "频繁交易可以，长期持有不建议。30 天内不打算动的币，请转入自托管钱包（Ledger、Trezor）。「私钥不在你手上，币就不是你的」是真事——2022 年 FTX 已经给所有人上过课。"
+    },
+    {
+      "q": "Coinbase 和 Kraken 哪个更安全？",
+      "a": "两者作为美国合规交易所都很安全。Kraken 的干净安全记录更长（2011 年至今零被盗）。Coinbase 的用户救济渠道更强（美股上市公司，需向 SEC 披露）。"
+    },
+    {
+      "q": "Binance.US 为什么更便宜？",
+      "a": "Binance.US 采用与 Coinbase 不同的费率结构，基础费率更低，但权益更少（多数币种无质押、币种更少、界面成熟度不足）。它是全球 Binance 的小型美国分支，母公司曾有监管问题。"
+    },
+    {
+      "q": "美国能用 Bitfinex 吗？",
+      "a": "不能，Bitfinex 屏蔽美国居民。用 VPN 绕过属于违反其条款，可能导致账户冻结和资产没收。"
+    }
+  ],
+  "products": {
+    "coinbase-advanced": {
+      "badge": "🏆 美国新手首选",
+      "review": "Coinbase Advanced 是最适合新手的美国合规交易所。250+ 币种，美元余额受 FDIC 保障（最高 25 万美元），界面打磨了十余年。代价是费率：0.40% 的 taker 费为最高。作为偶尔买入并长期持有的入门平台，费率高一点影响有限。一旦开始频繁交易，就该换到 Kraken 或 Binance.US。",
+      "pros": [
+        "界面对新手最友好",
+        "250+ 币种可选",
+        "美元余额 FDIC 保障最高 25 万美元",
+        "上市公司，需向 SEC 披露"
+      ],
+      "cons": [
+        "0.40% taker 费率为美国合规平台最高",
+        "Coinbase 质押业务曾有监管问题"
+      ]
+    },
+    "kraken-pro": {
+      "badge": "⚡ 美国活跃交易者首选",
+      "review": "Kraken Pro 是美国活跃交易者的正确选择。0.26% taker / 0.16% maker，只有 Coinbase 的一半。200+ 币种，支持高级订单类型（止损限价、OCO、冰山单），并拥有业内最长的干净安全记录（2011 年至今零被盗）。高阶界面有学习成本——Kraken Pro 与面向普通用户的 Kraken 是两个产品。只要交易频率够高，省下的手续费几个月内就能覆盖这份学习投入。",
+      "pros": [
+        "0.26% taker 费率——Coinbase 的一半",
+        "2011 年至今零被盗",
+        "支持高级订单类型（止损限价、OCO）"
+      ],
+      "cons": [
+        "界面有学习成本",
+        "部分币种仅对非美国居民开放"
+      ]
+    },
+    "gemini-active-trader": {
+      "badge": "🛡️ 安全性最佳",
+      "review": "Gemini Active Trader 是主打安全的美国交易所。受 NYDFS 监管，通过 SOC 2 Type 2 审计，冷存储由 Aon 牵头的承保团提供专项保险。70+ 币种（少于 Coinbase 和 Kraken）。Active Trader 费率为 0.40% taker，与 Coinbase 相当，略高于 Kraken。适合打算把币长期放在交易所的人（多数情况仍建议自托管，但如果必须放交易所，Gemini 是最稳妥的托管选项）。",
+      "pros": [
+        "NYDFS BitLicense + SOC 2 Type 2 审计",
+        "冷存储专项保险",
+        "用户保护措施到位"
+      ],
+      "cons": [
+        "70 个币种少于竞品",
+        "0.40% taker 费率与 Coinbase 持平"
+      ]
+    },
+    "binance-us": {
+      "badge": "💸 美国低费率首选",
+      "review": "Binance.US 的费率在美国合规平台中最低：0.10% taker / 0.10% maker。150 个币种，支持高级订单类型，沿用全球 Binance 的技术栈。缺点是监管不确定性——Binance.US 面临过多起 SEC 和 CFTC 执法，运营限制比 Coinbase / Kraken 更多。若只把它当作低费率的交易通道、资金快进快出，监管风险可控；若作为长期托管，吸引力就有限。",
+      "pros": [
+        "0.10% taker 费率为美国合规平台最低",
+        "沿用全球 Binance 的高级订单类型",
+        "币种数量尚可（150+）"
+      ],
+      "cons": [
+        "美国监管审查仍在持续",
+        "保险细节透明度不足",
+        "可用州份少于 Coinbase / Kraken"
+      ]
+    },
+    "bitfinex": {
+      "badge": "🌍 海外高阶首选",
+      "review": "Bitfinex 是面向海外用户的高阶交易所。不对美国居民开放（受英属维尔京群岛监管）。0.20% taker / 0.10% maker。150+ 币种，支持高级保证金交易（部分交易对最高 10 倍杠杆），订单簿深度好。2016 年曾被盗 7200 万美元（到 2022 年大部分已赔付用户），目前仍在运营。非美国的活跃交易者可以考虑：费率与 Kraken 相当，还提供 Kraken 没有的保证金交易。",
+      "pros": [
+        "保证金交易最高 10 倍杠杆",
+        "订单簿深，适合大额交易",
+        "0.10% maker 费率有竞争力"
+      ],
+      "cons": [
+        "不对美国居民开放",
+        "2016 年被盗history（虽已在 2022 年解决）",
+        "监管透明度低于美国交易所"
+      ]
+    }
+  },
+  "offerNotes": {
+    "coinbase-advanced": "在 coinbase.com 注册。要用「Coinbase Advanced」（原 Coinbase Pro）享受低费率档——不要用基础版 Coinbase 消费端 App，那里交易还要额外承担 1.49% 的价差。",
+    "kraken-pro": "在 kraken.com 注册。要用 Kraken Pro（pro.kraken.com），面向普通用户的 Kraken 站点费率更高。身份验证需要 1–3 天，请在打算交易前先完成。",
+    "gemini-active-trader": "在 gemini.com 注册。要用 Gemini ActiveTrader（与消费端 Gemini 界面独立）才能享受低费率。开户后前 10 天不论交易量都按 Active Trader 费率计算。",
+    "binance-us": "在 binance.us 注册。美国大部分州可用，纽约、夏威夷、德州、佛蒙特等州除外——注册前请先确认。",
+    "bitfinex": "在 bitfinex.com 注册。需为非美国居民。KYC 审核比美国交易所更严格（预计 3–7 天）。提现额度随认证等级提升。"
+  },
+  "pinDescription": "2026 年加密货币交易所怎么选？按月交易 1 万美元实测手续费：Coinbase Advanced、Kraken Pro、Gemini、Binance.US、Bitfinex 一表看清，别再白交冤枉费。",
+  "recommendedFor": [
+    {
+      "label": "在美国首次购买加密货币的人",
+      "offerId": "coinbase-advanced",
+      "reason": "Coinbase Advanced 界面成熟、美元余额有 FDIC 保障，新手买入并持有几乎没有上手门槛。"
+    },
+    {
+      "label": "每月成交数十笔的美国活跃交易者",
+      "offerId": "kraken-pro",
+      "reason": "0.26% 的 taker 费率只有 Coinbase 的一半，高频交易下省下的钱迅速累积，加上 2011 年以来零被盗，睡得踏实。"
+    },
+    {
+      "label": "把币放在交易所、重视安全的投资者",
+      "offerId": "gemini-active-trader",
+      "reason": "NYDFS BitLicense、SOC 2 Type 2 审计和 Aon 牵头的冷存储保险，让它成为无法自托管时最稳妥的交易所托管选项。"
+    },
+    {
+      "label": "对成本敏感、要抠每个基点的美国交易者",
+      "offerId": "binance-us",
+      "reason": "Binance.US 统一 0.10% 的 taker 费率是美国合规平台中最低的，同等交易量下成本仅为 Coinbase 的四分之一。"
+    },
+    {
+      "label": "需要保证金和杠杆的非美国交易者",
+      "offerId": "bitfinex",
+      "reason": "Bitfinex 提供最高 10 倍保证金交易和深度订单簿，这些是美国合规平台做不到的，费率也只有 0.20% taker。"
+    }
+  ]
 }

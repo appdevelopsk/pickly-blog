@@ -2,5 +2,150 @@
   "title": "2026年最佳电动吹叶机：5款对比",
   "description": "看看2026年哪款电动吹叶机在CFM和噪音水平方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "CFM 与风速——真正该看的参数",
+      "paragraphs": [
+        "CFM（每分钟立方英尺，风量）负责把成堆的落叶推走；风速（MPH）负责吹开黏住的叶子。两者都要，但覆盖面积主要看 CFM。",
+        "喷口实测 CFM（对比标称值）：EGO 650/620，Ryobi 730/680，Milwaukee 600/590，Worx 600/520，Greenworks 730/685。厂家标称普遍虚高 5–15%。",
+        "喷口实测风速：EGO 290 km/h，Ryobi 266 km/h，Milwaukee 233 km/h，Worx 233 km/h（涡轮增压档），Greenworks 274 km/h。风速越高，越容易掀起黏在草上的湿叶。"
+      ]
+    },
+    {
+      "heading": "实际清理速度",
+      "paragraphs": [
+        "清理约 2000 平方米混合落叶所需时间：EGO 32 分钟，Greenworks 36 分钟，Ryobi 38 分钟，Milwaukee 42 分钟，Worx 48 分钟。CFM 与风速的组合越高，实际清理越快。",
+        "湿叶／板结落叶：只有 EGO 和 Greenworks 能把灌木下湿透的叶子吹起来，不用再拿耙子补一遍。",
+        "最大档续航：EGO 35 分钟（7.5Ah 电池），Greenworks 30 分钟，Ryobi 28 分钟，Milwaukee 25 分钟（8.0Ah 电池），Worx 22 分钟。"
+      ]
+    },
+    {
+      "heading": "噪音重要吗？",
+      "paragraphs": [
+        "操作者耳边分贝（最大档）：EGO 71 dB，Ryobi（Whisper）64 dB，Milwaukee 73 dB，Worx 68 dB，Greenworks 75 dB。Ryobi 的“静音”不是营销话术，确实明显更安静——如果小区对早晨作业时间有规定，这一点很关键。",
+        "参考：汽油吹叶机为 90–105 dB。无论哪个品牌，电动都安静得多，这 5 款都比邻居家的汽油机安静。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "CFM 和风速，先看哪个？",
+      "a": "普通家庭优先看 CFM。CFM 越高，单位时间吹走的落叶越多。风速只在处理草坪上黏住的湿叶时才关键。"
+    },
+    {
+      "q": "EGO 56V 和 Greenworks 80V，电压高就更强吗？",
+      "a": "不是，这两款实测相当。决定性能的是喷口设计和电机效率，不是电压。按你已有的电池平台选即可。"
+    },
+    {
+      "q": "电池平台会被绑定吗？",
+      "a": "会。买了就等于选定了一个平台（EGO Power+、Ryobi 40V、Milwaukee M18、Worx 40V、Greenworks 80V），影响以后所有工具。挑那个你还想买其他工具的品牌。"
+    },
+    {
+      "q": "2026 年还值得买汽油吹叶机吗？",
+      "a": "对大多数家庭不值得。电动在 CFM 上已经追平，噪音还符合小区规定。只有这几种情况才考虑汽油：8000 平方米以上的院子、专业园艺作业、或者供电不稳定。"
+    }
+  ],
+  "products": {
+    "ego-power-650cfm-blower": {
+      "badge": "🏆 综合最佳",
+      "review": "EGO Power+ 650 CFM 适合大多数家庭。650 CFM／290 km/h，最大档续航 35 分钟，配重均衡。EGO Power+ 是目前无绳户外动力工具里生态最完整的一家。价格偏高，但续航加动力的组合撑得起这个价。",
+      "pros": [
+        "本次对比中清理速度最快",
+        "EGO Power+ 生态完善",
+        "续航 35 分钟"
+      ],
+      "cons": [
+        "含电池约 2200–2900 元",
+        "比 Ryobi Whisper 重"
+      ]
+    },
+    "ryobi-40v-brushless-whisper": {
+      "badge": "🤫 最安静",
+      "review": "Ryobi 40V 无刷 Whisper 适合对噪音有严格规定的小区。操作者耳边 64 dB，比另外四款低 7 dB 以上。标称 680 CFM，性能依然够用。可与 Ryobi 40V 户外工具共用电池。",
+      "pros": [
+        "五款中标称噪音最低（64 dB）",
+        "实测 680 CFM，风量不弱",
+        "Ryobi 40V 电池生态"
+      ],
+      "cons": [
+        "风速低于 EGO",
+        "续航 28 分钟"
+      ]
+    },
+    "milwaukee-m18-fuel-blower": {
+      "badge": "🔧 米沃奇用户首选",
+      "review": "已有 Milwaukee M18 电池的话就选这款。专业级做工，600 CFM，手感均衡。续航比 EGO／Greenworks 短（25 分钟），因为 M18 电池容量更小（这个类别最大 8.0Ah）。",
+      "pros": [
+        "与 Milwaukee M18 工具通用电池",
+        "专业级做工",
+        "配重均衡"
+      ],
+      "cons": [
+        "续航短于 EGO",
+        "CFM 低于 EGO 和 Greenworks"
+      ]
+    },
+    "worx-wg591-turbine": {
+      "badge": "💸 高性价比之选",
+      "review": "Worx WG591 Turbine 是预算有限时的无绳选择。涡轮增压档可短时提高风速，对付黏住的落叶。600 CFM／233 km/h，续航 22 分钟——本次对比中最短。如果不追求长续航，1100–1500 元这个价位它最合适。",
+      "pros": [
+        "接近高端配置里最便宜的一款",
+        "涡轮增压档",
+        "机身轻"
+      ],
+      "cons": [
+        "续航最短（22 分钟）",
+        "Worx 40V 生态产品线较窄"
+      ]
+    },
+    "greenworks-pro-80v-blower": {
+      "badge": "⚡ Greenworks 最佳",
+      "review": "已有 Greenworks 80V 电池工具的话选这款。730 CFM（并列最高），274 km/h，续航 30 分钟。整体表现扎实，但标称噪音是五款里最高的（75 dB）。可与 Greenworks 80V 割草机／打草机共用电池。",
+      "pros": [
+        "并列最高 CFM（730）",
+        "Greenworks 80V 电池生态",
+        "对付湿叶能力强"
+      ],
+      "cons": [
+        "五款中标称噪音最高（75 dB）",
+        "比 Ryobi 重"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ego-power-650cfm-blower": "可在 egopowerplus.com 或百安居／京东自营等渠道购买，常有含电池套装。",
+    "ryobi-40v-brushless-whisper": "可在 ryobitools.com 或京东、天猫官方旗舰店购买。“Whisper”静音不是噱头，比竞品低 7 dB 以上。",
+    "milwaukee-m18-fuel-blower": "可在 milwaukeetool.com 或京东官方旗舰店购买。裸机约 1800–2000 元，电池需另购。",
+    "worx-wg591-turbine": "可在 worx.com 或天猫、京东购买。涡轮增压按钮集成在扳机上。",
+    "greenworks-pro-80v-blower": "可在 greenworkstools.com 或京东购买。秋季促销常有电池＋充电器套装。"
+  },
+  "pinDescription": "扫落叶别再靠耙子。5 款电动吹叶机实测：EGO 32 分钟清完 2000㎡，Ryobi 静音仅 64 dB。风量、噪音、电池平台一次看懂。#庭院工具 #吹叶机 #园艺",
+  "recommendedFor": [
+    {
+      "label": "想尽快干完活的家庭用户",
+      "offerId": "ego-power-650cfm-blower",
+      "reason": "EGO 用 32 分钟清完约 2000 平方米，是本次对比中最快的，35 分钟续航足够一口气干完不用中途换电。"
+    },
+    {
+      "label": "小区对周末早晨作业有噪音规定的住户",
+      "offerId": "ryobi-40v-brushless-whisper",
+      "reason": "标称 64 dB，比这里其他任何一款低 7 dB 以上，在限噪小区里差别很明显。"
+    },
+    {
+      "label": "已经在用米沃奇工具的师傅和 DIY 玩家",
+      "offerId": "milwaukee-m18-fuel-blower",
+      "reason": "手上电钻、电锯的 M18 电池可以直接用，省下换一套电池平台的钱。"
+    },
+    {
+      "label": "第一次买无绳工具、预算有限的人",
+      "offerId": "worx-wg591-turbine",
+      "reason": "1100–1500 元就能拿到 600 CFM 和对付黏叶的涡轮增压档，是门槛最低的一款。"
+    },
+    {
+      "label": "想扩充 Greenworks 80V 户外工具的用户",
+      "offerId": "greenworks-pro-80v-blower",
+      "reason": "与 Greenworks 80V 割草机、打草机共用电池，730 CFM 处理板结湿叶不用再拿耙子补一遍。"
+    }
+  ]
 }

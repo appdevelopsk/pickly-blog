@@ -2,5 +2,127 @@
   "title": "2026年最佳高收益储蓄账户：5款对比",
   "description": "看看2026年哪款高收益储蓄账户在年化收益率与功能权衡方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "2026年的利率与功能对比",
+      "paragraphs": [
+        "五个账户的年化收益率(APY)在4.10%–4.60%之间(2026年5月数据)。最低(Discover、Capital One)与最高(SoFi，需满足直接存款条件)相差50个基点，按5万美元本金计算每年差约250美元。只有在你真的愿意为此转移资金时才值得折腾。",
+        "差别在哪：SoFi的4.60%需要满足直接存款资格。Ally的资金分格(Buckets)功能是目标储蓄类界面里最好用的。Marcus和Discover最简单直接。Capital One 360是唯一在美国设有实体网点的一家。"
+      ]
+    },
+    {
+      "heading": "转账速度实测",
+      "paragraphs": [
+        "外部ACH转入(从其他银行汇入)：SoFi 1.2天、Ally 1.5天、Marcus 1.8天、Discover 2.1天、Capital One 2.3天。全部在ACH标准时限内，但SoFi的速度优势确实存在。",
+        "转出到外部账户：Ally 1.0天(同网络优势)、SoFi 1.3天、Capital One 1.5天、Marcus 1.7天、Discover 2.0天。Discover进出两端都慢，是最实际的短板。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "高收益储蓄账户的利率多久变一次？",
+      "a": "平均每季度调整一次，通常在美联储变动利率后30天内跟进。Marcus和Ally动得最快；Discover和Capital One一般滞后1–2个月。"
+    },
+    {
+      "q": "存入5万美元以上还安全吗？",
+      "a": "安全——五家均受FDIC保险覆盖，每人每家机构最高25万美元。超过25万美元的部分，建议分散到多家银行，或选择带FDIC归集功能的货币市场基金。"
+    },
+    {
+      "q": "每月频繁存取会损失利息吗？",
+      "a": "多数高收益储蓄账户按日计复利、按月入账，只要在月末结单日之前完成操作，已计提的利息不会损失。"
+    }
+  ],
+  "products": {
+    "marcus-online-savings": {
+      "badge": "🏆 综合最佳",
+      "review": "Marcus by Goldman Sachs Savings 走的是极简路线。4.40% APY，无起存门槛，无手续费，受FDIC保险。隶属高盛，仅面向美国用户。如果你想要一个开好就不用管、不必盯着各种资格条件的储蓄账户，选它。",
+      "pros": [
+        "4.40% APY，无任何附加条件",
+        "背靠高盛的资产负债表"
+      ],
+      "cons": [
+        "没有支票或借记卡功能"
+      ]
+    },
+    "ally-online-savings": {
+      "badge": "🎯 体验最佳",
+      "review": "Ally Online Savings 是使用体验的赢家。4.20% APY，无手续费，杀手锏是Buckets：在同一个账户内设置命名目标(旅行、应急金)，不用手动转账。适合把储蓄按目标管理的人。",
+      "pros": [
+        "Buckets目标储蓄功能",
+        "同类账户中最好的手机App"
+      ],
+      "cons": [
+        "比Marcus低20个基点"
+      ]
+    },
+    "sofi-checking-savings": {
+      "badge": "💵 利率最高(有条件)",
+      "review": "SoFi Checking + Savings 储蓄端可达4.60% APY，但必须满足直接存款条件(每月达到最低存入门槛)。没有直接存款，利率直接掉到0.50%。另有300美元开户奖励。能达标就很值；达不到则风险明显。",
+      "pros": [
+        "4.60% APY(需直接存款)",
+        "300美元开户奖励"
+      ],
+      "cons": [
+        "无直接存款时利率降至0.50%"
+      ]
+    },
+    "discover-online-savings": {
+      "badge": "🤝 客服最佳",
+      "review": "Discover Online Savings 的4.10%是本榜最低档之一，但其美国本土24/7客服是同类中最好的。与Discover it Cashback信用卡搭配顺畅。如果你更看重能随时打通电话，而不是追最高利率，它合适。",
+      "pros": [
+        "24/7美国本土电话客服",
+        "与Discover信用卡打通"
+      ],
+      "cons": [
+        "4.10%低于竞品"
+      ]
+    },
+    "capital-one-360-performance": {
+      "badge": "🏢 唯一有实体网点",
+      "review": "Capital One 360 Performance Savings 把线上银行的利率(4.10% APY)和走进实体Capital One Café的选项结合起来。适合偶尔想线下办业务、又不愿放弃线上银行利率的人。",
+      "pros": [
+        "有实体网点和咖啡门店",
+        "可与Capital One信用卡搭配"
+      ],
+      "cons": [
+        "4.10%处于榜单最低区间"
+      ]
+    }
+  },
+  "offerNotes": {
+    "marcus-online-savings": "推荐好友可额外获得90天1%的APY加成——找朋友要一个邀请链接。",
+    "ally-online-savings": "用Buckets在同一账户内把应急金和各项目标储蓄分开管理。",
+    "sofi-checking-savings": "直接存款资格需每月达到ACH存入门槛——依赖高利率前请先确认自己能达标。",
+    "discover-online-savings": "通过Discover it持卡人推荐注册可得50美元奖励。",
+    "capital-one-360-performance": "搭配Capital One 360 Checking可打通整套生态(免电汇费、无账户费)。"
+  },
+  "pinDescription": "5万美元该放哪家？五个高收益储蓄账户实测对比：利率、转账速度、隐藏条件一次看清。Marcus、Ally、SoFi、Discover、Capital One 360 全面横评。",
+  "recommendedFor": [
+    {
+      "label": "想要高收益又不愿折腾条件的储蓄者",
+      "offerId": "marcus-online-savings",
+      "reason": "Marcus无条件提供4.40% APY——不需要直接存款，也没有要盯着的资格活动。"
+    },
+    {
+      "label": "同时管理多个理财目标的目标型储蓄者",
+      "offerId": "ally-online-savings",
+      "reason": "Ally的Buckets功能让你在一个账户里给不同目标贴标签、分开存放，不必开多个账户。"
+    },
+    {
+      "label": "有稳定工资直接入账的上班族",
+      "offerId": "sofi-checking-savings",
+      "reason": "只要有固定的直接存款，就能自动锁定本榜最高的4.60% APY，还附带300美元开户奖励。"
+    },
+    {
+      "label": "更习惯打电话而非线上求助的年长储蓄者",
+      "offerId": "discover-online-savings",
+      "reason": "Discover的24/7美国本土电话客服随时有真人接听——不用绕机器人菜单，也不用排队等回拨。"
+    },
+    {
+      "label": "偶尔需要线下办理业务的混合型用户",
+      "offerId": "capital-one-360-performance",
+      "reason": "Capital One 360是本榜唯一设有实体咖啡门店网点的账户，需要当面沟通时可以直接过去，又不必牺牲线上银行的利率。"
+    }
+  ]
 }

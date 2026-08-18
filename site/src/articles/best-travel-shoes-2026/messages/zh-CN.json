@@ -2,5 +2,155 @@
   "title": "2026年最佳旅行鞋：5款对比",
   "description": "看看2026年哪款旅行鞋在全天行走舒适和多样性方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "舒适优先还是外观优先",
+      "paragraphs": [
+        "极致舒适（Hoka Bondi 8）：厚泡棉缓震，久走不累，但外观偏运动风——适合高强度城市观光，不太适合正式一点的晚餐场合。",
+        "全能型（ECCO Soft 7、Allbirds Tree Dasher 2）：足够舒适应付整天行程，也足够体面出入休闲餐厅。",
+        "专项型（Merrell Jungle Moc——一脚蹬，过安检最省事；Vivobarefoot Primus Lite III——赤足感，锻炼足部力量）：按具体需求选。"
+      ]
+    },
+    {
+      "heading": "过安检与穿脱便利度",
+      "paragraphs": [
+        "Merrell Jungle Moc：一脚蹬，无鞋带——过安检最快。",
+        "ECCO Soft 7：低帮系带，脱穿方便。",
+        "Allbirds Tree Dasher 2：系带，便利度中等。",
+        "Hoka Bondi 8：系带，便利度中等。",
+        "Vivobarefoot：系带，但鞋底极薄，本身就很轻便。"
+      ]
+    },
+    {
+      "heading": "各场景最优选",
+      "paragraphs": [
+        "城市步行最佳：Allbirds Tree Dasher 2（约¥980-1050）。桉树纤维鞋面，可机洗。",
+        "高端之选：ECCO Soft 7（约¥1230-1450）。全粒面皮革，去餐厅也不失体面。",
+        "一脚蹬最佳：Merrell Jungle Moc Leather（约¥800-940）。免系带，过安检省事。",
+        "极致舒适最佳：Hoka Bondi 8（约¥1190-1270）。超厚缓震，适合超长步行日。",
+        "极简之选：Vivobarefoot Primus Lite III（约¥1120-1270）。赤足体验，易收纳，脚型宽楦。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "旅行鞋最重要的是什么？",
+      "a": "舒适度优先于外观。一天穿12小时以上、连穿一周以上，任何会磨脚或让脚发累的问题都会被放大。脚一疼，外观就没那么重要了。"
+    },
+    {
+      "q": "出发前需要先把鞋穿开吗？",
+      "a": "需要——带新鞋出行前至少先穿够50公里。新鞋加上每天2.5万步，必定磨出水泡。"
+    },
+    {
+      "q": "跑鞋能当旅行鞋吗？",
+      "a": "高强度观光可以——本文对比的Hoka Bondi 8严格来说就是跑鞋。外观偏运动，但真要长时间走路，它是最舒服的选择。"
+    },
+    {
+      "q": "运动鞋还是更正式一点的鞋？",
+      "a": "全能款（ECCO Soft 7、Allbirds）既能应付休闲晚餐，也能撑住整天步行。如果行程有严格着装要求，晚上再带一双更正式的备用。"
+    }
+  ],
+  "products": {
+    "allbirds-tree-dasher-2": {
+      "badge": "🌳 城市步行最佳",
+      "review": "Allbirds Tree Dasher 2 是城市旅行的对路选择。桉树纤维鞋面（温热气候下透气），甘蔗基 SweetFoam 中底，可机洗（连穿一周时这点很关键）。在多数城市，休闲程度足以进餐厅。最适合温暖季节的城市游。",
+      "pros": [
+        "桉树纤维鞋面透气",
+        "可机洗",
+        "休闲得体，进餐厅无压力"
+      ],
+      "cons": [
+        "鞋底磨损比跑鞋快",
+        "不防水"
+      ]
+    },
+    "ecco-soft-7-sneaker": {
+      "badge": "💎 高端之选",
+      "review": "ECCO Soft 7 Sneaker 是高端旅行鞋的对路选择。全粒面皮革鞋面，每天2.5万步以上依然舒适，进欧洲稍好一点的餐厅也不失礼。葡萄牙制造。对只想带一双、既能走路又能应付休闲用餐的旅行者来说，这份皮革质感对得起约¥1230-1450的价格。",
+      "pros": [
+        "全粒面皮革，质感高级",
+        "整天步行仍舒适",
+        "足够体面，可进餐厅"
+      ],
+      "cons": [
+        "约¥1230-1450，价格偏高",
+        "不防水"
+      ]
+    },
+    "merrell-jungle-moc-leather": {
+      "badge": "🚪 一脚蹬最佳",
+      "review": "Merrell Jungle Moc Leather Slip-On 适合频繁过安检的人。一脚蹬结构（无鞋带），皮革鞋面，M-Select GRIP 大底。穿2-3周后会变得更贴脚。最适合当作“机场常备”的那一双——过安检前一蹬穿上，过完一蹬脱下。",
+      "pros": [
+        "一脚蹬结构",
+        "皮革鞋面，休闲百搭",
+        "M-Select GRIP 大底"
+      ],
+      "cons": [
+        "透气性不如网面鞋",
+        "缓震不如 Hoka"
+      ]
+    },
+    "hoka-bondi-8": {
+      "badge": "❄️ 极致舒适最佳",
+      "review": "Hoka Bondi 8 是舒适度天花板级的旅行鞋。超厚缓震中底，提供宽楦版本，每天3万步以上也不容易脚累。代价是外观偏运动，不够休闲。最适合走路极多的行程（里斯本、罗马、柏林），且没有严格着装要求的场合。",
+      "pros": [
+        "超厚缓震，久走不累",
+        "有宽楦可选",
+        "超长步行日的最佳选择"
+      ],
+      "cons": [
+        "运动外观——不适合正式场合",
+        "约¥1190-1270，属中高价位"
+      ]
+    },
+    "vivobarefoot-primus-lite-iii": {
+      "badge": "👣 极简之选",
+      "review": "Vivobarefoot Primus Lite III 适合习惯赤足鞋的旅行者。脚型宽楦（比普通鞋更宽，脚趾可自然张开），薄底带来清晰的地面反馈，可压扁收进行李。最适合本来在家就穿极简鞋的人——突然改穿容易引发足部疼痛。",
+      "pros": [
+        "脚型宽楦鞋头",
+        "可压扁收进行李",
+        "轻量（220克）"
+      ],
+      "cons": [
+        "非赤足鞋用户需要适应期",
+        "缓震极少——不习惯的脚在长途日会累"
+      ]
+    }
+  },
+  "offerNotes": {
+    "allbirds-tree-dasher-2": "可在 allbirds.com、REI、Nordstrom 购买。“Tree Dasher 2”为最新款；旧款“Tree Dasher 1”正在逐步停产。",
+    "ecco-soft-7-sneaker": "可在 us.ecco.com、Nordstrom、Zappos 购买。有多种皮革配色，“Black Leather”最百搭。",
+    "merrell-jungle-moc-leather": "可在 merrell.com、REI、Amazon、Zappos 购买。“Leather”版本比帆布版更耐用，多花的这点钱值得。",
+    "hoka-bondi-8": "可在 hoka.com、REI、Zappos、Amazon 购买。Bondi 8 为在售当代款；旧款 Bondi 7 仍有折扣可捡。",
+    "vivobarefoot-primus-lite-iii": "可在 vivobarefoot.com 购买。“III”为当前世代，有多种配色。"
+  },
+  "pinDescription": "一天两万步的旅行，鞋选错了整趟都难受。5款热门旅行鞋横评：Allbirds Tree Dasher 2、ECCO Soft 7、Merrell Jungle Moc、Hoka Bondi 8、Vivobarefoot Primus Lite III——重量、穿脱速度、整日缓震、能不能进餐厅，一次看清。",
+  "recommendedFor": [
+    {
+      "label": "每天走2万步以上的城市漫游者",
+      "offerId": "allbirds-tree-dasher-2",
+      "reason": "桉树纤维在温热气候下透气，可机洗的结构让它连穿一周也不积异味。"
+    },
+    {
+      "label": "从会议室到晚餐都要得体的商务出行者",
+      "offerId": "ecco-soft-7-sneaker",
+      "reason": "全粒面皮革与偏正式的鞋型进休闲餐厅毫无压力，缓震鞋底也扛得住每天2.5万步的观光节奏。"
+    },
+    {
+      "label": "每周多次过安检的空中飞人",
+      "offerId": "merrell-jungle-moc-leather",
+      "reason": "没有鞋带，安检口几秒穿脱；皮革鞋面经过几十趟机场往返依然体面。"
+    },
+    {
+      "label": "每天步行10小时以上的长线游客",
+      "offerId": "hoka-bondi-8",
+      "reason": "超厚缓震中底加上宽楦选项，能挡住在里斯本、罗马这类城市每天3万步累积出来的深度足部疲劳。"
+    },
+    {
+      "label": "本来就天天穿赤足鞋的极简打包党",
+      "offerId": "vivobarefoot-primus-lite-iii",
+      "reason": "220克且能压平收纳，几乎不占登机箱重量，脚型宽楦也保留了习惯者依赖的地面反馈感。"
+    }
+  ]
 }

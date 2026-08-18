@@ -2,5 +2,149 @@
   "title": "Bestes Autoversicherung 2026: 5 im Vergleich",
   "description": "Wir haben Geico, Progressive, State Farm, USAA, Liberty Mutual verglichen. Das überzeugt 2026 wirklich bei Prämie und Schadenbearbeitung und Autoversicherung.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Beitrag bei identischem Deckungsumfang",
+      "paragraphs": [
+        "Durchschnittlicher Jahresbeitrag über 5 Bundesstaaten: Geico 1.380 $, Progressive 1.490 $, State Farm 1.560 $, Liberty Mutual 1.710 $, USAA 980 $ (nur Militärangehörige). Unterschiede nach Bundesstaat: Florida +35 %, Kalifornien +20 %, Texas als Basiswert, Illinois -10 %, New York +25 %.",
+        "Telematik-Rabatt: Progressive Snapshot 10-30 %, State Farm Drive Safe 15-25 %, Geico DriveEasy 15-20 %, Liberty Mutual RightTrack 5-30 %. Bei USAA ist die Telematik kostenlos enthalten. Die Telematik-Rabatte sind real, wenn Sie vorausschauend fahren – umgekehrt werden starke Bremsmanöver aber auch bestraft."
+      ]
+    },
+    {
+      "heading": "Unterschiede im Leistungsumfang",
+      "paragraphs": [
+        "Schadenfreiheitsschutz (keine Beitragserhöhung nach dem ersten selbst verschuldeten Unfall): bei Liberty Mutual kostenlos enthalten, bei Geico als Zusatz für 50 $/Jahr, bei Progressive nach 5 schadenfreien Jahren inklusive, bei State Farm 30 $/Jahr, bei USAA enthalten.",
+        "Sinkende Selbstbeteiligung (minus 100 $ pro schadenfreiem Jahr): Am besten gelöst hat das Allstate (nicht Teil dieses Vergleichs), Liberty Mutual bietet sie kostenlos an, Progressive für 25 $/Jahr.",
+        "Absicherung für Fahrdienste: Geico (Zusatz für 14-21 $/Monat), Progressive (15-25 $/Monat), State Farm (25-50 $/Monat). Bei Liberty Mutual und USAA ist die Fahrdienst-Absicherung nur eingeschränkt verfügbar."
+      ]
+    },
+    {
+      "heading": "Kundenzufriedenheit",
+      "paragraphs": [
+        "JD Power 2025, Zufriedenheit bei der Kfz-Schadenregulierung: USAA Platz 1 (nur Militärangehörige), Erie Platz 2, State Farm Platz 3, Geico Platz 5, Progressive Platz 11, Liberty Mutual Platz 16. Der Abstand zwischen Spitze und Schlusslicht ist deutlich spürbar – Liberty Mutual liegt bei der Schadenabwicklung unter dem Branchendurchschnitt.",
+        "App-Qualität: Die Geico-App wird am häufigsten heruntergeladen, Progressive hat das beste Telematik-Dashboard, und bei State Farm ist die Schadenmeldung am übersichtlichsten gelöst."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Warum fallen die Angebote so unterschiedlich aus?",
+      "a": "Jeder Versicherer rechnet mit seinem eigenen Risikomodell. Derselbe Fahrer bekommt unterschiedliche Beiträge, weil die Faktoren – Bonität, Postleitzahl, Fahrzeug und so weiter – jeweils anders gewichtet werden. Holen Sie 3 bis 5 Angebote ein: gegenüber dem teuersten sparen Sie meist 20 bis 40 %."
+    },
+    {
+      "q": "Lohnt sich der Telematik-Rabatt?",
+      "a": "Ja, wenn Sie vorausschauend fahren – ohne harte Bremsmanöver und ohne nächtliche Fahrten. Der Rabatt ist echt (10-30 %). Nein, wenn Sie sportlich unterwegs sind: Telematik kann den Beitrag auch anheben."
+    },
+    {
+      "q": "500 $ oder 1.000 $ Selbstbeteiligung?",
+      "a": "Die höhere Selbstbeteiligung senkt den Beitrag um rund 10 bis 15 %. Das lohnt sich, wenn Sie 1.000 $ als Rücklage haben – andernfalls nicht."
+    },
+    {
+      "q": "Warum ist Florida so teuer?",
+      "a": "In Florida gibt es besonders viele Fahrer ohne Versicherungsschutz, dazu das Hurrikan-Risiko und ein No-Fault-System, das die Schadenkosten in die Höhe treibt. Kalifornien und Florida gehören regelmäßig zu den teuersten Bundesstaaten."
+    }
+  ],
+  "products": {
+    "geico-auto": {
+      "badge": "🏆 Bester Gesamteindruck",
+      "review": "Geico Auto ist für Fahrer ohne Schadenhistorie der günstigste Anbieter aus dem Mainstream. Starke App, schnelle Schadenregulierung, 15 % Militärrabatt. Die DriveEasy-Telematik zahlt sich aus, wenn Sie vorausschauend fahren.",
+      "pros": [
+        "Günstigster Anbieter im Mainstream",
+        "Schnelle Schadenabwicklung",
+        "Starke App plus Telematik"
+      ],
+      "cons": [
+        "Deutlich teurer nach Bußgeldern oder selbst verschuldeten Unfällen",
+        "Schadenfreiheitsschutz nur als kostenpflichtiger Zusatz"
+      ]
+    },
+    "progressive-auto": {
+      "badge": "📊 Beste Telematik",
+      "review": "Progressive Auto passt zu technikaffinen Fahrern, die bereit sind, Daten zu teilen. Die Snapshot-Telematik kann den Beitrag um 10 bis 30 % drücken. Das Tool „Name Your Price“ hilft beim Suchen im gesetzten Budget. Fahrdienste sind breit abgedeckt.",
+      "pros": [
+        "Bestes Telematik-Dashboard",
+        "Tool „Name Your Price“",
+        "Starke Absicherung für Fahrdienste"
+      ],
+      "cons": [
+        "Schwächere Schadenzufriedenheit (JD Power Platz 11)",
+        "Beitrag steigt nach Schäden stärker an"
+      ]
+    },
+    "state-farm-auto": {
+      "badge": "📦 Bestes Bündelangebot",
+      "review": "State Farm Auto punktet beim Bündeln von Policen: 25 % Rabatt bei Wohngebäude plus Kfz. Größter Kfz-Versicherer der USA, mit Netz aus lokalen Agenturen. Die Telematik Drive Safe & Save bringt 15 bis 25 % Rabatt. Bei der Schadenzufriedenheit Platz 3 bei JD Power.",
+      "pros": [
+        "25 % Rabatt beim Bündeln von Wohngebäude und Kfz",
+        "Netz aus lokalen Agenturen",
+        "Platz 3 bei JD Power (Schadenregulierung)"
+      ],
+      "cons": [
+        "Als Einzelpolice teurer als Geico",
+        "App weniger ausgereift als bei Geico"
+      ]
+    },
+    "usaa-auto": {
+      "badge": "🪖 Beste Wahl fürs Militär",
+      "review": "USAA Auto ist mit durchschnittlich 980 $ die günstigste Option, setzt aber eine Zugehörigkeit zum Militär voraus. Bei der Kundenzufriedenheit Jahr für Jahr Platz 1 bei JD Power. Telematik ist kostenlos enthalten, und im Schadenfall wird großzügig reguliert.",
+      "pros": [
+        "Günstigster Beitrag",
+        "Platz 1 bei JD Power (Zufriedenheit)",
+        "Großzügige Schadenzahlungen"
+      ],
+      "cons": [
+        "Nur mit Militärzugehörigkeit",
+        "Fahrdienste nur eingeschränkt abgedeckt"
+      ]
+    },
+    "liberty-mutual-auto": {
+      "badge": "🎁 Bester Schadenfreiheitsschutz",
+      "review": "Liberty Mutual Auto enthält Schadenfreiheitsschutz UND sinkende Selbstbeteiligung – beides kostenlos. So großzügig ist der Standardumfang sonst nirgends in dieser Kategorie. Aber: der höchste Beitrag (im Schnitt 1.710 $) und Platz 16 bei JD Power. Ob die Leistungen den Aufpreis wert sind, bleibt Ansichtssache.",
+      "pros": [
+        "Schadenfreiheitsschutz kostenlos enthalten",
+        "Sinkende Selbstbeteiligung kostenlos enthalten",
+        "Starke App"
+      ],
+      "cons": [
+        "Höchster Beitrag in diesem Vergleich",
+        "Platz 16 bei JD Power (Schadenabwicklung)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "geico-auto": "Angebot auf geico.com – Sofortangebot mit Fahrgestellnummer. Rabatte für Militärangehörige und Bundesbedienstete verfügbar.",
+    "progressive-auto": "Angebot auf progressive.com – das Tool „Name Your Price“ hilft, das Budget einzuhalten. Snapshot ist freiwillig.",
+    "state-farm-auto": "Angebot auf statefarm.com oder über eine lokale Agentur. Für den maximalen Rabatt mit Hausrat- oder Wohngebäudepolice bündeln.",
+    "usaa-auto": "Angebot auf usaa.com – zuerst die Zugangsberechtigung prüfen. Für ausgewählte Mitglieder ist der Pannendienst kostenlos enthalten.",
+    "liberty-mutual-auto": "Angebot auf libertymutual.com. Die RightTrack-Telematik ist freiwillig."
+  },
+  "pinDescription": "Kfz-Versicherung 2026 im Vergleich: Wer zahlt wirklich weniger? Geico, Progressive, State Farm, USAA und Liberty Mutual – Beiträge, Rabatte und Schadenbilanz auf einen Blick. Jetzt merken, bevor die nächste Beitragsrechnung kommt.",
+  "recommendedFor": [
+    {
+      "label": "Preisbewusste Fahrer ohne Schadenhistorie",
+      "offerId": "geico-auto",
+      "reason": "Mit durchschnittlich 1.380 $ ist Geico die günstigste Mainstream-Option, und wer vorausschauend fährt, drückt den Beitrag mit der DriveEasy-Telematik noch weiter."
+    },
+    {
+      "label": "Gig-Worker und Fahrdienst-Fahrer",
+      "offerId": "progressive-auto",
+      "reason": "Progressive deckt Fahrdienste am breitesten ab, und wer Daten teilt, senkt den Beitrag mit der Snapshot-Telematik um 10 bis 30 %."
+    },
+    {
+      "label": "Hausbesitzer, die Policen bündeln wollen",
+      "offerId": "state-farm-auto",
+      "reason": "25 % Rabatt beim Bündeln von Wohngebäude und Kfz plus das Netz lokaler Agenturen machen State Farm zur klaren Wahl für Haushalte mit mehreren Policen."
+    },
+    {
+      "label": "Aktive Militärangehörige und Veteranen",
+      "offerId": "usaa-auto",
+      "reason": "Mit 980 $ im Schnitt ist USAA am günstigsten, und Platz 1 bei JD Power bedeutet im Schadenfall deutlich weniger Ärger."
+    },
+    {
+      "label": "Fahranfänger mit Sorge vor dem ersten Unfall",
+      "offerId": "liberty-mutual-auto",
+      "reason": "Liberty Mutual gibt Schadenfreiheitsschutz und sinkende Selbstbeteiligung ohne Aufpreis dazu – so bleibt der Beitrag nach dem ersten Schaden stabil."
+    }
+  ]
 }

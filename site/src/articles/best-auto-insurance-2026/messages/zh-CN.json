@@ -2,5 +2,149 @@
   "title": "2026年最佳汽车保险：5款对比",
   "description": "2026年最佳汽车保险：5款对比。对比5款，依据官方公布规格、原厂文件与第三方评测。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "同等保障下的保费对比",
+      "paragraphs": [
+        "5 个州的年均保费：Geico 1,380 美元、Progressive 1,490 美元、State Farm 1,560 美元、Liberty Mutual 1,710 美元、USAA 980 美元（仅限军人）。各州差异：佛罗里达 +35%、加利福尼亚 +20%、得克萨斯为基准、伊利诺伊 -10%、纽约 +25%。",
+        "驾驶行为监测（telematics）折扣：Progressive Snapshot 10-30%、State Farm Drive Safe 15-25%、Geico DriveEasy 15-20%、Liberty Mutual RightTrack 5-30%。USAA 免费包含该功能。只要开车稳，折扣是实打实的——但急刹车同样会被扣分。"
+      ]
+    },
+    {
+      "heading": "保障范围的差异",
+      "paragraphs": [
+        "事故豁免（首次全责事故后不涨费）：Liberty Mutual 免费包含，Geico 需每年加购 50 美元，Progressive 在连续 5 年无理赔后自动包含，State Farm 每年 30 美元，USAA 免费包含。",
+        "递减免赔额（每年无理赔则降 100 美元）：Allstate 做得最好（不在本次对比内），Liberty Mutual 免费提供，Progressive 每年 25 美元。",
+        "网约车保障：Geico（每月加购 14-21 美元）、Progressive（每月 15-25 美元）、State Farm（每月 25-50 美元）。Liberty Mutual 与 USAA 的网约车保障覆盖范围有限。"
+      ]
+    },
+    {
+      "heading": "客户满意度",
+      "paragraphs": [
+        "J.D. Power 2025 车险理赔满意度排名：USAA 第 1（仅限军人）、Erie 第 2、State Farm 第 3、Geico 第 5、Progressive 第 11、Liberty Mutual 第 16。头尾差距是实实在在的——Liberty Mutual 的理赔处理得分低于行业平均。",
+        "App 体验：Geico 的 App 下载量最高；Progressive 的驾驶数据面板最好用；State Farm 的理赔申请流程最简洁。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "为什么各家的报价差这么多？",
+      "a": "每家保险公司都有自己的风险模型。同一个司机拿到不同报价，是因为各家对信用分、邮编、车型等因素的权重不同。建议同时问 3-5 家，最低价通常比最高价便宜 20-40%。"
+    },
+    {
+      "q": "该不该接受驾驶行为监测折扣？",
+      "a": "如果你开车稳（不急刹、不深夜开车），值得——折扣实打实有 10-30%。如果驾驶习惯激进就别用，监测数据反而会让保费上涨。"
+    },
+    {
+      "q": "免赔额选 500 美元还是 1,000 美元？",
+      "a": "提高免赔额能省约 10-15% 保费。如果你手头有 1,000 美元应急存款就值得；没有就别选。"
+    },
+    {
+      "q": "佛罗里达为什么这么贵？",
+      "a": "佛州无保险驾驶者比例高、有飓风风险，加上无过失责任法制度推高了理赔成本。加州和佛州长期是全美最贵的两个州。"
+    }
+  ],
+  "products": {
+    "geico-auto": {
+      "badge": "🏆 综合最佳",
+      "review": "对无违章记录的司机来说，Geico Auto 是主流保险里最便宜的选择。App 好用、理赔快，还有 15% 军人折扣。开车稳的话，DriveEasy 监测折扣效果不错。",
+      "pros": [
+        "主流保险中价格最低",
+        "理赔处理速度快",
+        "App 与驾驶监测功能强"
+      ],
+      "cons": [
+        "有罚单或全责事故后涨幅较大",
+        "事故豁免需额外付费，不单独提供"
+      ]
+    },
+    "progressive-auto": {
+      "badge": "📊 驾驶监测最佳",
+      "review": "如果你懂技术、也愿意共享驾驶数据，Progressive Auto 是对的选择。Snapshot 监测最多能把保费降 10-30%。Name Your Price 工具方便按预算挑方案。网约车保障覆盖也很好。",
+      "pros": [
+        "驾驶数据面板最好用",
+        "有 Name Your Price 预算工具",
+        "网约车保障覆盖强"
+      ],
+      "cons": [
+        "理赔满意度偏低（J.D. Power 第 11）",
+        "出险后保费涨幅更明显"
+      ]
+    },
+    "state-farm-auto": {
+      "badge": "📦 打包投保最佳",
+      "review": "State Farm Auto 胜在打包。房屋险 + 车险打包可省 25%，是全美最大的车险公司，线下代理网点密集。Drive Safe & Save 监测折扣 15-25%。理赔满意度 J.D. Power 第 3。",
+      "pros": [
+        "房屋险 + 车险打包省 25%",
+        "线下代理网点覆盖广",
+        "理赔满意度 J.D. Power 第 3"
+      ],
+      "cons": [
+        "单买车险比 Geico 贵",
+        "App 完成度不如 Geico"
+      ]
+    },
+    "usaa-auto": {
+      "badge": "🪖 军人首选",
+      "review": "USAA Auto 是最便宜的（年均 980 美元），但要求有军方背景。客户满意度连年拿下 J.D. Power 第 1，免费包含驾驶监测，理赔赔付也很大方。",
+      "pros": [
+        "保费最低",
+        "满意度 J.D. Power 第 1",
+        "理赔赔付大方"
+      ],
+      "cons": [
+        "必须符合军人资格",
+        "网约车保障有限"
+      ]
+    },
+    "liberty-mutual-auto": {
+      "badge": "🎁 事故豁免最佳",
+      "review": "Liberty Mutual Auto 免费包含事故豁免和递减免赔额，标配功能是同类里最厚道的。但代价是：保费最高（年均 1,710 美元），理赔满意度只排 J.D. Power 第 16。功能与价格是否划算，见仁见智。",
+      "pros": [
+        "免费包含事故豁免",
+        "免费包含递减免赔额",
+        "App 好用"
+      ],
+      "cons": [
+        "本次对比中保费最高",
+        "理赔处理 J.D. Power 第 16"
+      ]
+    }
+  },
+  "offerNotes": {
+    "geico-auto": "在 geico.com 获取报价——输入车架号即可即时出价。提供军人和联邦雇员折扣。",
+    "progressive-auto": "在 progressive.com 获取报价——Name Your Price 工具可按预算筛选方案。Snapshot 需主动开通。",
+    "state-farm-auto": "在 statefarm.com 或通过线下代理获取报价。与租房险／房屋险打包折扣最大。",
+    "usaa-auto": "在 usaa.com 获取报价——需先做资格验证。部分会员可享免费道路救援。",
+    "liberty-mutual-auto": "在 libertymutual.com 获取报价。RightTrack 驾驶监测需主动开通。"
+  },
+  "pinDescription": "2026 车险怎么选？Geico、Progressive、State Farm、USAA、Liberty Mutual 五家横评：保费、折扣、投保门槛、理赔口碑一次看清。",
+  "recommendedFor": [
+    {
+      "label": "预算有限、无违章记录的车主",
+      "offerId": "geico-auto",
+      "reason": "Geico 年均 1,380 美元，是主流保险里最便宜的；开车稳的话，DriveEasy 监测还能再压一截。"
+    },
+    {
+      "label": "零工从业者与网约车司机",
+      "offerId": "progressive-auto",
+      "reason": "Progressive 的网约车保障覆盖最广，愿意共享驾驶数据的话，Snapshot 还能把保费降 10-30%。"
+    },
+    {
+      "label": "想把保单打包的房主",
+      "offerId": "state-farm-auto",
+      "reason": "State Farm 房屋险 + 车险打包省 25%，加上线下代理网络，多保单家庭选它没跑。"
+    },
+    {
+      "label": "现役军人与退伍军人",
+      "offerId": "usaa-auto",
+      "reason": "USAA 年均 980 美元是最低价，J.D. Power 满意度第 1 也意味着理赔时少费心。"
+    },
+    {
+      "label": "担心第一次出险的新手司机",
+      "offerId": "liberty-mutual-auto",
+      "reason": "Liberty Mutual 免费包含事故豁免和递减免赔额，第一次理赔不会让保费直接跳涨。"
+    }
+  ]
 }

@@ -2,5 +2,145 @@
   "title": "2026年最佳皮带：5款对比",
   "description": "2026年最佳皮带：5款对比。对比5款，依据官方公布规格、原厂文件与第三方评测。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "皮革等级划分",
+      "paragraphs": [
+        "全粒面马缰革（Saddleback、Tanner Goods）：未经打磨的原皮，会形成明显的岁月光泽。属于最高等级。",
+        "意大利小牛皮（Loake、优衣库）：皮面细腻光滑，容易打理出光泽。比马缰革更适合正装。",
+        "皮带身＋独立扣头（Anson）：模块化结构，带身为全粒面皮革，扣头单独更换。"
+      ]
+    },
+    {
+      "heading": "各类需求的最佳选择",
+      "paragraphs": [
+        "最耐用：Saddleback Old Bull（约¥950-1,150）。全粒面马缰革，100年质保。",
+        "最适合正装：Loake Leather Belt（约¥620-900）。意大利小牛皮，黄铜扣头，英国制造。",
+        "最灵活：Anson Belt System（约¥430-650）。棘齿微调，可自由搭配。",
+        "最佳入门：优衣库意大利皮革皮带（约¥290-360）。同价位里的意大利皮革。",
+        "最佳工坊出品：Tanner Goods Standard（约¥1,120-1,400）。Hermann Oak 植鞣革，波特兰手工制作。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "全粒面皮、修面皮和「真皮」有什么区别？",
+      "a": "全粒面皮：最好，未经打磨，会养出光泽。修面皮（top-grain）：表面打磨过，耐用性尚可。所谓「真皮」（genuine leather）：碎皮压合而成，很快劣化。买皮带就认准全粒面皮或优质修面皮。"
+    },
+    {
+      "q": "一条皮带能用多久？",
+      "a": "全粒面皮（Saddleback、Tanner）：定期保养可用20年以上。意大利小牛皮（Loake、优衣库）：7-10年。压合皮/「真皮」：2-3年。"
+    },
+    {
+      "q": "第一条皮带应该买棕色还是黑色？",
+      "a": "棕色更百搭（牛仔裤和休闲斜纹棉裤都能配）。黑色更正式（配西装）。多数穿搭指南建议先买棕色，再补黑色。"
+    },
+    {
+      "q": "皮带应该怎么算合身？",
+      "a": "扣在正中间那个孔（共5个孔，两侧各留2个用于调节）。如果只能扣第一个或最后一个孔，说明尺码买错了。"
+    }
+  ],
+  "products": {
+    "saddleback-leather-old-bull-belt": {
+      "badge": "🏆 最耐用",
+      "review": "Saddleback Old Bull Belt 是可以用一辈子的选择。全粒面马缰革，手工缝制，100年质保。随着长年佩戴会形成明显的皮革光泽。100年质保是真实有效的，厂家确实履行。适合想买一条用20年以上的人。",
+      "pros": [
+        "100年质保",
+        "全粒面马缰革",
+        "会养出明显的皮革光泽"
+      ],
+      "cons": [
+        "约¥950-1,150，价格中等偏上",
+        "皮革厚重（约6mm）"
+      ]
+    },
+    "loake-leather-belt": {
+      "badge": "🇬🇧 最适合正装",
+      "review": "Loake Leather Belt 适合正装和商务场合。意大利小牛皮，黄铜扣头，英国制造。抛光后的小牛皮与西装非常搭。没有 Saddleback 那么粗犷，但更显精致。",
+      "pros": [
+        "意大利小牛皮",
+        "黄铜扣头",
+        "英国制造"
+      ],
+      "cons": [
+        "耐用度不及马缰革",
+        "价格中等偏上"
+      ]
+    },
+    "anson-belt-buckle-system": {
+      "badge": "🔄 最灵活",
+      "review": "Anson Belt Buckle System 是模块化的选择。棘齿微调结构（无孔设计），带身与扣头可分离更换。同一条带身换个扣头就能在正式与休闲之间切换。设计思路很现代。",
+      "pros": [
+        "棘齿微调，无需打孔",
+        "带身与扣头可分离",
+        "一条皮带搭出多种风格"
+      ],
+      "cons": [
+        "模块化外观未必合传统派口味",
+        "更换扣头需另行购买"
+      ]
+    },
+    "uniqlo-italian-leather-belt": {
+      "badge": "💸 最佳入门",
+      "review": "优衣库意大利皮革皮带是合适的入门款。皮料由优衣库自意大利采购，经典35mm宽度，多种颜色可选。同类意大利皮革皮带中价格最低。",
+      "pros": [
+        "约¥290-360就能买到意大利皮革",
+        "多色可选",
+        "优衣库品控稳定"
+      ],
+      "cons": [
+        "名气不及意大利传统品牌",
+        "缝线工艺不如 Loake"
+      ]
+    },
+    "tanner-goods-standard-belt": {
+      "badge": "🏭 最佳工坊出品",
+      "review": "Tanner Goods Standard Belt 是波特兰老牌工坊的代表作。采用 Hermann Oak 植鞣革（美国高端鞣制工艺），黄铜扣头，波特兰手工制作。养出光泽比 Saddleback 慢，但质感更精致。",
+      "pros": [
+        "Hermann Oak 植鞣革",
+        "波特兰手工制作",
+        "老牌工坊的精致做工"
+      ],
+      "cons": [
+        "约¥1,120-1,400，偏高端",
+        "工坊风格外观较有辨识度"
+      ]
+    }
+  },
+  "offerNotes": {
+    "saddleback-leather-old-bull-belt": "可在 saddlebackleather.com 购买。100年质保真实有效——Saddleback 会提供维修或更换。",
+    "loake-leather-belt": "可在 loake.co.uk 购买。采用英国尺码，请按英码而非美码下单。",
+    "anson-belt-buckle-system": "可在 ansonbelt.com 购买。带身与扣头分开销售，可自由搭配。",
+    "uniqlo-italian-leather-belt": "uniqlo.com 按季节上架，多种颜色会补货。",
+    "tanner-goods-standard-belt": "可在 tannergoods.com 购买。提供多种皮革与五金组合。"
+  },
+  "pinDescription": "皮带别再乱买了。全粒面皮 vs 意大利小牛皮，5条经典款横评：Saddleback 100年质保、Loake 英国制、Anson 无孔微调、优衣库¥300入门、Tanner Goods 手工植鞣。看皮革等级、扣头、调节方式一次选对。",
+  "recommendedFor": [
+    {
+      "label": "想买一条用几十年的职场人士",
+      "offerId": "saddleback-leather-old-bull-belt",
+      "reason": "100年质保加全粒面马缰革，真正做到买一次就够。用得越久，皮色越有味道。"
+    },
+    {
+      "label": "经常穿西装上班的人",
+      "offerId": "loake-leather-belt",
+      "reason": "意大利小牛皮打理后光泽如镜，与定制西装天然相配。黄铜扣头不刻意，却足够正式。"
+    },
+    {
+      "label": "出差频繁、只想带一条皮带的人",
+      "offerId": "anson-belt-buckle-system",
+      "reason": "换个扣头，同一条带身就能从会议室切到周末。无孔设计意味着长途飞行吃完饭也不会勒。"
+    },
+    {
+      "label": "预算有限的学生和职场新人",
+      "offerId": "uniqlo-italian-leather-belt",
+      "reason": "约¥290-360就能买到真正的意大利皮革，同价位的压合皮完全比不了。多色可选，牛仔裤和斜纹棉裤都能配。"
+    },
+    {
+      "label": "看重工艺、偏好美产手工品的买家",
+      "offerId": "tanner-goods-standard-belt",
+      "reason": "Hermann Oak 植鞣革加波特兰手工，做工是匠人水准。皮色变化比马缰革慢，但老化得更耐看。"
+    }
+  ]
 }

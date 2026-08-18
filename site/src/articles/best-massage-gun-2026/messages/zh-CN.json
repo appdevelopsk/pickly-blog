@@ -81,5 +81,202 @@
     "mytrex-rebive-mini-xs": "出行便携之选——220g、可放入洗漱袋、USB-C充电。8mm冲程意味着无法有效触达臀肌/下背部/大腿肌肉；仅适用于小肌群。"
   },
   "pinDescription": "2026年五款筋膜枪对比，从入门级的Bob and Brad C2到旗舰级的Theragun PRO Plus。冲程幅度、失速力、噪音及大多数营销页面回避的安全规则——包括绝对不能使用震动按摩的身体部位。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "products": [
+    {
+      "offerId": "theragun-pro-plus",
+      "badge": "综合最佳",
+      "review": "Theragun Pro Plus 的高价对得起它的失速力——60 磅（约 27 kg）为本次对比最高。按压臀大肌或髂胫束时用力再狠也不会掉转速，而廉价筋膜枪在这种压力下往往直接停转。5° 倾角手柄加 4 档机身速度，不连 App 也能正常用；接入 Therabody App 的 Percussive Therapy 后可解锁引导流程和自定义程序。150 分钟续航属同级顶尖，IP55 防水意味着洗完澡就能直接上手。¥4,300 左右的定价是这份榜单里最贵的，但如果你训练强度高、要求筋膜枪跟得上，本次对比中没有第二个选择。",
+      "pros": [
+        "60 磅失速力——深层按压下不掉扭矩",
+        "150 分钟续航，80 分钟快充回满",
+        "IP55 防水——潮湿环境可用",
+        "双向握把，任意角度都不易腕部疲劳"
+      ],
+      "cons": [
+        "官方定价约 ¥4,300，本次对比中最贵",
+        "16 mm 振幅低于部分竞品",
+        "完整速度自定义需依赖 App"
+      ],
+      "scores": {
+        "Power": 4.8,
+        "Noise": 3.5,
+        "Ease of use": 4.5,
+        "Battery": 4.7,
+        "Value": 3
+      },
+      "specs": {
+        "Weight": "1.0 kg",
+        "Speed": "1750–2400 次/分",
+        "Amplitude": "16 mm",
+        "Stall force": "60 磅（约 27 kg）",
+        "Battery": "约 150 分钟",
+        "Noise": "40–75 dB",
+        "Attachments": "6 个",
+        "Waterproof": "IP55"
+      },
+      "grade": "A+"
+    },
+    {
+      "offerId": "hypervolt-2-pro",
+      "badge": "最安静",
+      "review": "Hyperice 的 QuietGlide 电机让 Hypervolt 2 Pro 在噪音上拉开差距——低速档几乎听不见，这对办公室或公寓场景很关键，嗡嗡作响的筋膜枪只会招来侧目。0.9 kg 是本次全尺寸机型中最轻的，3200 次/分的最高转速也是对比中最快，适合浅层放松和热身。内置压力传感器用三级指示显示施力大小，避免在敏感部位过度按压。14 mm 振幅和约 40 磅（约 18 kg）失速力足够多数人使用，但对厚实肌群做深层放松就不够看了。",
+      "pros": [
+        "本次对比中最安静——公寓、办公室实用",
+        "0.9 kg 最轻，长时间使用手臂不累",
+        "3200 次/分高转速，适合浅层促循环",
+        "内置压力传感器，防止过度按压"
+      ],
+      "cons": [
+        "14 mm 振幅限制深层穿透力",
+        "失速力低于 Theragun——重压下会停转",
+        "无防水"
+      ],
+      "scores": {
+        "Power": 4.3,
+        "Noise": 4.8,
+        "Ease of use": 4.7,
+        "Battery": 4.5,
+        "Value": 3.5
+      },
+      "specs": {
+        "Weight": "0.9 kg",
+        "Speed": "1800–3200 次/分",
+        "Amplitude": "14 mm",
+        "Stall force": "约 40 磅（18 kg）",
+        "Battery": "约 150 分钟",
+        "Noise": "40–65 dB",
+        "Attachments": "5 个",
+        "Waterproof": "无"
+      },
+      "grade": "A"
+    },
+    {
+      "offerId": "bob-and-brad-c2",
+      "badge": "最超值",
+      "review": "不到 ¥700，续航 180 分钟，Bob and Brad C2 对不需要顶级失速力的日常用户很有说服力。12 mm 振幅和约 25 磅（约 11 kg）失速力确实是硬伤——用力顶股四头肌或臀部时电机会停转——但用来放松小腿、斜方肌上束和手臂，C2 安静好用，也不用为 Theragun 掏那笔钱。USB-C 充电比专用充电器方便得多，是实打实的加分项。用满一年以上，做工上的成本痕迹会比较明显。",
+      "pros": [
+        "本次对比续航最长（约 180 分钟）",
+        "不到 ¥700，入手门槛最低",
+        "USB-C 充电，手头线材直接通用",
+        "各档位都非常安静"
+      ],
+      "cons": [
+        "按压大肌群时会停转",
+        "12 mm 振幅不足以做深层放松",
+        "长期使用后做工短板显现"
+      ],
+      "scores": {
+        "Power": 3.5,
+        "Noise": 4.7,
+        "Ease of use": 4.6,
+        "Battery": 5,
+        "Value": 5
+      },
+      "specs": {
+        "Weight": "0.8 kg",
+        "Speed": "1200–3200 次/分",
+        "Amplitude": "12 mm",
+        "Stall force": "约 25 磅（11 kg）",
+        "Battery": "约 180 分钟",
+        "Noise": "<45 dB",
+        "Attachments": "6 个",
+        "Waterproof": "无"
+      },
+      "grade": "A"
+    },
+    {
+      "offerId": "doctorair-exagun-handy",
+      "badge": "最佳便携小型机",
+      "review": "240 g 的 EXAGUN Handy 从一开始就没打算取代专业级筋膜枪——它针对面部、颈部、前臂和小腿前侧设计，这些部位更看重轻压力和便携性，而不是失速力。6 mm 振幅属于美容级而非深层级，适合浅层促循环、缓解轻度紧张和放松，而非高训练量下的运动恢复。如果你想找一台每天用来对付久坐带来的颈肩疲劳的机器，EXAGUN Handy 很合适。它在主要零售渠道铺货充分，买前可以先上手试。",
+      "pros": [
+        "240 g——颈部和面部使用也不累手",
+        "线下渠道铺货广，购前可实机体验",
+        "运行安静，开放式办公或合住空间都能用"
+      ],
+      "cons": [
+        "6 mm 振幅决定了只能做浅层放松",
+        "失速力低，稍加用力就停转",
+        "以日本市场销售为主，海外购买渠道有限"
+      ],
+      "scores": {
+        "Power": 2.5,
+        "Noise": 4.2,
+        "Ease of use": 4.9,
+        "Battery": 3.8,
+        "Value": 4
+      },
+      "specs": {
+        "Weight": "240 g",
+        "Speed": "1600–3800 次/分",
+        "Amplitude": "6 mm",
+        "Stall force": "约 10 磅（4.5 kg）",
+        "Battery": "约 100 分钟",
+        "Noise": "<50 dB",
+        "Attachments": "4 个",
+        "Waterproof": "无"
+      },
+      "grade": "B+"
+    },
+    {
+      "offerId": "mytrex-rebive-mini-xs",
+      "badge": "最便携",
+      "review": "MYTREX Rebive Mini XS 是本次对比中体积最小的一款，入门价位对第一次买筋膜枪的人也最友好。6 mm 振幅、约 8 磅（约 3.6 kg）失速力，和 EXAGUN Handy 有同样的局限——这是放松和促循环工具，不是给运动员做深层恢复的设备。但它的体积优势是真的：能塞进外套口袋，是这组产品里唯一让人愿意随身带去健身房、公司或出差的一台。MYTREX 渠道覆盖广、品牌认知度不错，购买和退换都比小众品牌省心。",
+      "pros": [
+        "真正的口袋尺寸——约 200 g，本次对比最轻",
+        "入门价位，容易入手",
+        "MYTREX 品牌认知度高，线下渠道覆盖广"
+      ],
+      "cons": [
+        "6 mm 振幅无法触及深层肌肉",
+        "仅 3 个按摩头，竞品为 4–6 个",
+        "不适合高强度运动恢复"
+      ],
+      "scores": {
+        "Power": 2.3,
+        "Noise": 4,
+        "Ease of use": 5,
+        "Battery": 3.5,
+        "Value": 4.2
+      },
+      "specs": {
+        "Weight": "约 200 g",
+        "Speed": "1700–3700 次/分",
+        "Amplitude": "6 mm",
+        "Stall force": "约 8 磅（3.6 kg）",
+        "Battery": "约 100 分钟",
+        "Noise": "<55 dB",
+        "Attachments": "3 个",
+        "Waterproof": "无"
+      },
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "认真训练的运动人群",
+      "offerId": "theragun-pro-plus",
+      "reason": "60 磅失速力最高——重压肌肉也不停转"
+    },
+    {
+      "label": "居家/办公室安静使用",
+      "offerId": "hypervolt-2-pro",
+      "reason": "QuietGlide 电机几乎听不见——公寓里也能放心用"
+    },
+    {
+      "label": "预算有限",
+      "offerId": "bob-and-brad-c2",
+      "reason": "不到 ¥700，续航 180 分钟——本次对比最超值"
+    },
+    {
+      "label": "颈肩久坐疲劳",
+      "offerId": "doctorair-exagun-handy",
+      "reason": "仅 240 g，主流渠道有售，可先试后买"
+    },
+    {
+      "label": "第一台筋膜枪",
+      "offerId": "mytrex-rebive-mini-xs",
+      "reason": "入门价位，真口袋尺寸，渠道覆盖广"
+    }
+  ]
 }

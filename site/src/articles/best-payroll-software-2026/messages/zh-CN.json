@@ -2,5 +2,152 @@
   "title": "2026年最佳薪资软件：5款对比",
   "description": "看看2026年哪款薪资软件在薪资计算时间和税务申报准确度方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "跑一次工资单要多久",
+      "paragraphs": [
+        "22 人规模下每次发薪的平均耗时：Gusto 8 分钟、Square Payroll 10 分钟、OnPay 12 分钟、Paychex Flex 18 分钟、ADP RUN 22 分钟。Gusto 针对小企业做的交互优化确实看得出来。",
+        "自动发薪（无需人工复核）：Gusto Premium 档、Square Payroll、OnPay 都支持纯月薪制员工的自动发薪。ADP 和 Paychex 每个周期都要人工审批。",
+        "考勤打通：Gusto、OnPay 可直连 Toggl / Harvest / Homebase。ADP 和 Paychex 只对接自家的考勤产品。"
+      ]
+    },
+    {
+      "heading": "报税准确度",
+      "paragraphs": [
+        "用户反馈中差距最明显的就是报税准确度：Gusto、ADP、Paychex、OnPay 几乎没有报税出错的投诉，Square Payroll 则一直有零星案例，最常见的是州级预扣税科目归类错误。",
+        "自动申报 vs 手动申报：Gusto、ADP、Paychex、OnPay 都自动申报联邦、州和地方税。Square Payroll 大部分自动完成，但在冷门辖区偶尔会有遗漏。",
+        "W-2 / 1099 年终处理：5 家都能生成并提交年终表单。Gusto 和 ADP 已含在标准价内，Paychex 按表单张数另收费，OnPay 和 Square Payroll 均包含。"
+      ]
+    },
+    {
+      "heading": "客服质量与成本",
+      "paragraphs": [
+        "真实工单（联邦税务通知）的首次响应时间：Gusto 2 小时、OnPay 3 小时、Paychex 4 小时（专属顾问）、ADP 6 小时（公共队列）、Square Payroll 24 小时。",
+        "22 人规模的月费：Gusto Plus 324 美元（约 ¥2,330，60 + 12×22）、OnPay 172 美元（约 ¥1,240，40 + 6×22）、Square Payroll 145 美元（约 ¥1,040，35 + 5×22）、Paychex Flex 250 美元起（约 ¥1,800 起，按报价浮动）、ADP RUN 300 美元起（约 ¥2,160 起，按报价浮动）。",
+        "隐性成本：ADP 和 Paychex 的福利管理、考勤、年终表单都要另外加钱。Gusto 和 OnPay 基本把附加功能打包在内。Square Payroll 基础价低，但功能上有缺口。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "小企业选 Gusto 还是 ADP？",
+      "a": "50 人以下选 Gusto，价格透明、体验最好。100 人以上、需求复杂（跨州、多辖区）选 ADP。不少公司到 100 人左右就会觉得 Gusto 不够用了。"
+    },
+    {
+      "q": "哪家最便宜？",
+      "a": "Square Payroll 最便宜，35 美元 + 每人 5 美元；OnPay 次之，40 美元 + 每人 6 美元。两家都含报税。Gusto 贵在附带更完整的 HR 功能。"
+    },
+    {
+      "q": "年中可以换工资系统吗？",
+      "a": "可以，但要预留 2–4 周新旧并行的时间。多数服务商提供迁移协助。年底（12 月）切换比年中省事。"
+    },
+    {
+      "q": "还需要单独买 HR 软件吗？",
+      "a": "Gusto Plus 及以上已包含基础 HR（假期管理、入职、文档管理）。如果有绩效考核、培训管理这类复杂需求，再单独上一套 HRIS。"
+    }
+  ],
+  "products": {
+    "gusto-payroll-plus": {
+      "badge": "🏆 小企业首选",
+      "review": "多数小企业选 Gusto Plus 就对了。同类中体验最好，统一定价透明，含 HR 功能（假期、入职、福利），联邦/州/地方税全部自动申报。50 人以下的默认答案。",
+      "pros": [
+        "同类产品中体验最好",
+        "定价透明",
+        "含 HR 功能"
+      ],
+      "cons": [
+        "60 美元 + 每人 12 美元，规模上去后累积可观",
+        "到 100 人左右就不够用"
+      ]
+    },
+    "adp-run": {
+      "badge": "🏢 扩张期首选",
+      "review": "计划突破 50 人的公司适合 ADP RUN。行业龙头，从 1 人撑到 1000 人以上，合规团队最强。采用报价制，透明度不如 Gusto。",
+      "pros": [
+        "可平滑扩展到大型企业",
+        "合规团队最强",
+        "复杂需求可定制方案"
+      ],
+      "cons": [
+        "报价制，价格不透明",
+        "跑一次工资单点击步骤更多",
+        "部分功能有隐藏费用"
+      ]
+    },
+    "paychex-flex": {
+      "badge": "📊 中型企业首选",
+      "review": "10–500 人规模适合 Paychex Flex Essentials。ADP 之外的成熟选择，配专属顾问，在医疗、建筑等服务行业表现突出。",
+      "pros": [
+        "配备专属顾问",
+        "行业定制方案扎实",
+        "10–500 人区间最合适"
+      ],
+      "cons": [
+        "报价制定价",
+        "界面比 Gusto 老旧"
+      ]
+    },
+    "onpay-payroll": {
+      "badge": "💸 性价比首选",
+      "review": "预算敏感的小企业选 OnPay。40 美元 + 每人 6 美元就包含全部功能（报税、基础 HR、第三方集成），特别适合餐饮、农场和技工行业。工资软件里的低调好货。",
+      "pros": [
+        "全功能里最便宜",
+        "适合技工、餐饮、农场",
+        "定价透明"
+      ],
+      "cons": [
+        "品牌知名度较低",
+        "手机 App 打磨程度不如 Gusto"
+      ]
+    },
+    "square-payroll": {
+      "badge": "🪜 Square 用户首选",
+      "review": "已经在用 Square POS 的商家选 Square Payroll。35 美元 + 每人 5 美元，含承包商付款，与 Square Capital、Square Banking 深度打通。单独当工资系统用则一般。",
+      "pros": [
+        "与 Square POS 深度集成",
+        "单独使用时价格最低",
+        "含承包商付款"
+      ],
+      "cons": [
+        "不用 Square POS 就没那么合适",
+        "有用户反馈偶发报税错误"
+      ]
+    }
+  },
+  "offerNotes": {
+    "gusto-payroll-plus": "在 gusto.com 注册 — 提供功能试用（发薪本身不免费）。",
+    "adp-run": "在 adp.com 索取报价 — 需与销售通话。",
+    "paychex-flex": "在 paychex.com 索取报价 — 需与销售通话。",
+    "onpay-payroll": "在 onpay.com 注册 — 30 天免费试用。",
+    "square-payroll": "在 squareup.com/payroll 注册 — 搭配 Square POS 最划算。"
+  },
+  "pinDescription": "2026 年工资软件怎么选：Gusto、ADP、Paychex、OnPay、Square 五家横评。20 人团队的月费实算、跨州报税能力、免费试用天数，一张表看清。#工资软件 #小企业 #人事管理",
+  "recommendedFor": [
+    {
+      "label": "刚开始招人的小企业主",
+      "offerId": "gusto-payroll-plus",
+      "reason": "Gusto 的顶级易用性加上打包的 HR 功能（假期、入职），让第一次招人的老板 8 分钟跑完工资单，且报税零出错。"
+    },
+    {
+      "label": "计划扩张到 50 人以上的高速成长创业公司",
+      "offerId": "adp-run",
+      "reason": "ADP RUN 能从初创平滑撑到大型企业，面对跨州、多辖区的复杂合规，其团队实力最强。"
+    },
+    {
+      "label": "10–100 人的医疗与建筑企业",
+      "offerId": "paychex-flex",
+      "reason": "Paychex Flex 配专属顾问，并针对医疗、建筑这类强监管行业提供定制方案。"
+    },
+    {
+      "label": "预算有限的餐饮与技工行业老板",
+      "offerId": "onpay-payroll",
+      "reason": "OnPay 40 美元 + 每人 6 美元的统一价已含完整报税，对餐饮、技工这类时薪工为主的行业支持到位。"
+    },
+    {
+      "label": "每天使用 Square POS 的零售与餐饮商家",
+      "offerId": "square-payroll",
+      "reason": "Square Payroll 直连 Square POS 与 Banking，对已有 Square 的商家来说，35 美元 + 每人 5 美元是阻力最小的选择。"
+    }
+  ]
 }

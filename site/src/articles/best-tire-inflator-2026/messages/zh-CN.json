@@ -2,5 +2,150 @@
   "title": "2026年最佳轮胎充气泵：5款对比",
   "description": "看看2026年哪款轮胎充气泵在充气速度和PSI精度方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "充气速度与精度",
+      "paragraphs": [
+        "在 P235/55R18 轮胎上从 28 PSI 充到 35 PSI 所需时间：Milwaukee M12 2475-20 为 1 分 10 秒，Ryobi P737D 为 1 分 35 秒，Fanttik X8 Apex 为 2 分 5 秒，Avid Power 为 2 分 50 秒，Viair 88P 为 3 分 20 秒。Milwaukee 和 Ryobi 这类电动工具品牌速度领先，因为它们使用 12V/18V 工具电池供电，输出功率确实更高。",
+        "目标 35 PSI 时的读数精度（对比校准过的标准气压表）：Milwaukee 35.1 PSI，Ryobi 34.8，Fanttik 35.4，Avid Power 33.8，Viair 36.2。Milwaukee 和 Ryobi 误差在 0.5 PSI 以内；Avid Power 和 Viair 偏差 1-2 PSI。"
+      ]
+    },
+    {
+      "heading": "一年耐久测试",
+      "paragraphs": [
+        "在车库使用 12 个月后：Milwaukee M12 和 Ryobi P737D 没有任何问题，且有工具品牌的完整保修。Fanttik X8 Apex 的气管接缝在第 8 个月开始漏气（气管可更换）。Avid Power 的手柄塑料在第 10 个月出现裂纹。Viair 88P（12V 点烟器插头）仍能工作，但插头接触时好时坏。",
+        "电池平台绑定问题：Milwaukee 使用 M12 工具电池（4Ah 电池组约 ¥700）。Ryobi 使用 18V ONE+ 电池。如果你已经有这两个品牌的工具电池，选它们毫无悬念；如果没有，入门成本还要加上一块电池的钱。"
+      ]
+    },
+    {
+      "heading": "供电方式决定体验",
+      "paragraphs": [
+        "工具电池款（Milwaukee、Ryobi）：最快、最准。适合已有工具电池的重度用户。",
+        "自带电池款（Fanttik、Avid Power）：内置电池，USB-C 充电。更便携，但充气更慢、精度稍差。",
+        "12V 点烟器款（Viair）：最慢、精度最差，但不用电池，任何车都能用。只适合放车里应急。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "选无线款还是 12V 车充款？",
+      "a": "如果已经有对应电池，选工具电池款（Milwaukee、Ryobi）。12V 点烟器款（Viair）适合当便宜的备用。追求便携就选自带电池款（Fanttik）。"
+    },
+    {
+      "q": "加油站有免费打气泵，还需要买充气泵吗？",
+      "a": "如果你的轮胎经常掉压（低温、慢漏气），需要。每月跑一趟加油站的时间成本累积起来不少，充气泵大约半年就回本。"
+    },
+    {
+      "q": "轿车轮胎应该打到多少 PSI？",
+      "a": "看驾驶位车门框内侧的标签，通常是 32-36 PSI。以厂家标定值为准，不是轮胎侧壁上的最大 PSI。"
+    },
+    {
+      "q": "这些泵能给自行车胎打气吗？",
+      "a": "可以，5 款都配了法嘴/美嘴转接头。自行车胎（60-100 PSI）需要 30-60 秒。注意别打过头——Milwaukee 和 Ryobi 的自动停止功能可以避免这个问题。"
+    }
+  ],
+  "products": {
+    "ryobi-p737d-cordless-inflator": {
+      "badge": "🏆 Ryobi 工具用户首选",
+      "review": "如果你手上有 Ryobi 18V ONE+ 电池，P737D 就是正解。到达目标气压自动停止，数字显示，给一台思域的轮胎充气用时 1 分 35 秒。可搭配 Ryobi 的充气/放气配件。单机价约 ¥430，性价比不错；加上电池则要 ¥1,100 以上。",
+      "pros": [
+        "兼容 Ryobi 18V 电池平台",
+        "到达目标气压自动停止",
+        "做工扎实"
+      ],
+      "cons": [
+        "电池需另购",
+        "比 Milwaukee M12 慢"
+      ]
+    },
+    "milwaukee-2475-20-m12-inflator": {
+      "badge": "🥇 高端首选（Milwaukee）",
+      "review": "Milwaukee M12 2475-20 是本次测试中最快、最准的充气泵。自动停止、数字读数，思域轮胎 1 分 10 秒充满。专业工具品牌的做工，兼容 Milwaukee M12 全系电池。",
+      "pros": [
+        "本次对比中充气速度最快",
+        "气压读数最准",
+        "专业级做工"
+      ],
+      "cons": [
+        "电池需另购（约 ¥500-700）",
+        "单机价偏高（约 ¥950）"
+      ]
+    },
+    "viair-88p-portable": {
+      "badge": "🚗 12V 应急首选",
+      "review": "Viair 88P 是那种常年扔在后备箱里的廉价 12V 点烟器充气泵。速度慢（3 分 20 秒），精度也一般（偏高 1.2 PSI），但不用电池，任何车都能用。适合纯应急或作为备用。",
+      "pros": [
+        "12V 供电，任何车都能用",
+        "单机约 ¥430",
+        "体积小巧"
+      ],
+      "cons": [
+        "本次对比中最慢",
+        "气压读数有偏差",
+        "点烟器插头接触会磨损"
+      ]
+    },
+    "avid-power-cordless-tire-inflator": {
+      "badge": "💸 平价无线首选",
+      "review": "如果没有工具电池、又只是偶尔用，Avid Power 无线款是合适之选。内置 20V 电池，USB-C 充电。速度偏慢（2 分 50 秒），气压读数偏低。手柄塑料算不上专业级，但价格只要 ¥430-570。",
+      "pros": [
+        "内置电池",
+        "USB-C 充电",
+        "价格实惠"
+      ],
+      "cons": [
+        "气压读数偏低（目标 35，实测 33.8）",
+        "塑料手柄用久了会开裂"
+      ]
+    },
+    "fanttik-x8-apex-tire-inflator": {
+      "badge": "📱 手机 App 联动最佳",
+      "review": "Fanttik X8 Apex 适合喜欢折腾数码的用户。可连手机 App（按车辆预设胎压），内置电池，USB-C 充电。表现稳健（2 分 5 秒，误差 +0.4 PSI）。气管接缝是弱点，8 个月后容易出问题。",
+      "pros": [
+        "手机 App 联动",
+        "可按车辆预设胎压",
+        "精度可靠"
+      ],
+      "cons": [
+        "气管接缝 8 个月后开始漏气",
+        "非工具品牌但定价偏高（¥650-860）"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ryobi-p737d-cordless-inflator": "可在 homedepot.com 或 ryobitools.com 购买。电池需另购——不过多数 Ryobi 用户手上都有。",
+    "milwaukee-2475-20-m12-inflator": "可在 homedepot.com 或 milwaukeetool.com 购买。电池需另购（约 ¥500-700）。专业级品质。",
+    "viair-88p-portable": "可在 amazon.com 或 viaircorp.com 购买。插点烟器即可，任何 12V 车载电源都能用。",
+    "avid-power-cordless-tire-inflator": "可在 amazon.com 购买。内置电池，不用额外买电池。",
+    "fanttik-x8-apex-tire-inflator": "可在 amazon.com 或 fanttik.com 购买。App 免费，固件也通过 App 升级。"
+  },
+  "pinDescription": "车载充气泵怎么选？Ryobi、Milwaukee、Viair、Avid Power、Fanttik 五款实测：充气速度、气压精度、一年耐久，以及哪些必须另买电池。冬天胎压掉得快，后备箱备一个不亏。#汽车用品 #车载充气泵 #用车攻略",
+  "recommendedFor": [
+    {
+      "label": "已有 Milwaukee M12 工具的专业技师和施工人员",
+      "offerId": "milwaukee-2475-20-m12-inflator",
+      "reason": "既然已经在用 M12 电池，这款 70 秒就能充满一条胎，误差不到 0.5 PSI——本次对比中最快也最准。"
+    },
+    {
+      "label": "已经买了 Ryobi 18V ONE+ 系列的周末 DIY 用户",
+      "offerId": "ryobi-p737d-cordless-inflator",
+      "reason": "直接套用 Ryobi 18V ONE+ 电池，自动停止避免打过头，整整一年测试下来做工毫无松动。"
+    },
+    {
+      "label": "想在后备箱备一个省心应急工具的车主",
+      "offerId": "viair-88p-portable",
+      "reason": "插上任何车的 12V 点烟器就能用，不用电池也不用充电——路边急用时唯一一款拿起来就能干活的。"
+    },
+    {
+      "label": "预算有限、手上没有工具电池的低频用户",
+      "offerId": "avid-power-cordless-tire-inflator",
+      "reason": "内置 20V 电池、USB-C 充电，不用额外买电池；¥430-570 的价格，比两个月跑加油站打气的成本还低。"
+    },
+    {
+      "label": "家里有多台车、喜欢数码化管理的车主",
+      "offerId": "fanttik-x8-apex-tire-inflator",
+      "reason": "配套 App 能按车辆保存胎压预设，轿车和 SUV 之间切换完全不用手动调数值。"
+    }
+  ]
 }

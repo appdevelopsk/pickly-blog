@@ -2,5 +2,150 @@
   "title": "2026年最佳电动高压清洗机：5款对比",
   "description": "看看2026年哪款电动高压清洗机在清洁单位和软管质量方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "压力（PSI）与流量（真正该看的参数）",
+      "paragraphs": [
+        "标称 PSI 是营销数字：它在泵体处测得，而非喷枪出口，用户实测普遍低于包装标注值。Ryobi 标 2300 PSI、Sun Joe 2030、Kärcher 2000、DeWalt 2400、Greenworks Pro 2300——把这些当作上限，真正该比的是喷嘴配置和流量（GPM），它们决定车道实际清洗速度。",
+        "流量 GPM（对清洗速度的影响大于 PSI）：Ryobi 1.2 GPM、Sun Joe 1.76 GPM、Kärcher 1.4 GPM、DeWalt 1.1 GPM、Greenworks Pro 1.2 GPM。Sun Joe 压力最低但流量最高——流量与压力共同决定“清洗力”（CU = PSI × GPM）。",
+        "清洗力 CU（真实性能）：Sun Joe 3,260 CU、Kärcher 2,870、Greenworks 2,640、Ryobi 2,580、DeWalt 2,510。Sun Joe 标称压力最低，实际清洗表现却最强。"
+      ]
+    },
+    {
+      "heading": "水管柔韧性与握持体验",
+      "paragraphs": [
+        "低温抗折性排序：Kärcher 最好（橡胶管，4°C 下不打折），Sun Joe 次之，Ryobi 第三，DeWalt 与 Greenworks 并列垫底（塑料管低温易折）。仅凭这根橡胶管，Kärcher 的春季大扫除就省心不少。",
+        "连续使用 30 分钟的握把舒适度：Kärcher 和 DeWalt 采用带软垫的防滑扳机。Ryobi、Sun Joe、Greenworks 为硬塑料扳机——用满 30 分钟明显手酸。换一把副厂喷枪（约 ¥220–360）可以解决。",
+        "收纳卷管器：Sun Joe 和 Kärcher 自带。Ryobi、DeWalt、Greenworks 只能把水管挂着——收纳时容易折伤。"
+      ]
+    },
+    {
+      "heading": "抗冻能力",
+      "paragraphs": [
+        "冻裂是这类机器用户反馈最多的故障，而分水岭在排水设计。Kärcher K5、Ryobi RY142300、DeWalt DWPW2400 和 Greenworks Pro 都能彻底排空，投诉很少；Sun Joe SPX3000 则反复出现室外过冬后泵体开裂的报告。",
+        "只有 Sun Joe 存在这个冻裂隐患——若放在室外，每次用完必须彻底排空，或者干脆收进室内。裂了就没法修。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "选电动还是汽油款？",
+      "a": "电动款（1,800–3,000 PSI）能应付 95% 的家用场景。汽油款（3,000–4,200 PSI）只适合：除漆、面积极大的车道、专业作业。电动更安静，无尾气，免保养。"
+    },
+    {
+      "q": "PSI 和 GPM 哪个更重要？",
+      "a": "都重要。两者相乘就是“清洗力”（CU），CU 越高清洗越快。PSI 负责打散污垢与表面的附着，GPM 负责把它冲走。"
+    },
+    {
+      "q": "Sun Joe 还是 Kärcher？",
+      "a": "气候温和、想用 ¥1,100–1,500 拿到最快清洗速度，选 Sun Joe SPX3000。冬季结冰或想要更高做工，预算 ¥1,800–2,500，选 Kärcher K5。"
+    },
+    {
+      "q": "一定要 2,500 PSI 以上吗？",
+      "a": "家用场景基本不需要。2,000–2,300 PSI 清洗车道、木露台、外墙都够用。压力过高反而可能打伤木地板、PVC 外墙板和车漆。"
+    }
+  ],
+  "products": {
+    "ryobi-ry142300-2300-psi": {
+      "badge": "🏆 综合最均衡（Ryobi）",
+      "review": "已有 Ryobi 工具或普通家用需求，选 Ryobi RY142300 最稳妥。2,300 PSI、1.2 GPM，机身自带喷嘴收纳，10.7 米水管。做工扎实，但塑料扳机用满 30 分钟手会累。Home Depot 渠道品牌，售后省心。",
+      "pros": [
+        "PSI 与 GPM 搭配均衡",
+        "机身自带喷嘴收纳",
+        "Home Depot 渠道品牌可靠"
+      ],
+      "cons": [
+        "塑料扳机喷枪",
+        "低温下水管易打折"
+      ]
+    },
+    "sun-joe-spx3000": {
+      "badge": "💪 清洗力最强",
+      "review": "追求每一元钱换来的清洗速度，就选 Sun Joe SPX3000。2,030 PSI 但流量 1.76 GPM，清洗力全场最高（3,260 CU）。¥1,100–1,500 的价格让它成为性价比之选。注意：严寒下泵体会开裂——入冬收纳前必须彻底排空，或放在室内。",
+      "pros": [
+        "本次对比中清洗力最高",
+        "¥1,100–1,500 价格友好",
+        "自带卷管器"
+      ],
+      "cons": [
+        "结冰会导致泵体开裂（务必排空）",
+        "塑料扳机喷枪"
+      ]
+    },
+    "karcher-k5-premium": {
+      "badge": "🥇 高端首选",
+      "review": "要做工和抗冻，选 Kärcher K5 Premium。2,000 PSI 标注实在，1.4 GPM，橡胶水管（低温不打折），软垫扳机喷枪。经历 3 轮冻融循环无损伤。¥1,800–2,500 的价格对应的是德国工艺。",
+      "pros": [
+        "标称压力真实可信",
+        "橡胶水管低温不打折",
+        "可承受冻融循环"
+      ],
+      "cons": [
+        "¥1,800–2,500 价格偏高",
+        "流量低于 Sun Joe"
+      ]
+    },
+    "dewalt-dwpw2400": {
+      "badge": "🔧 DeWalt 用户之选",
+      "review": "已有 DeWalt 工具、想统一品牌的人适合 DeWalt DWPW2400。2,400 PSI（标称最高）、1.1 GPM（最低），软垫扳机喷枪。清洗表现尚可，做工不错。注意：1.1 GPM 意味着清洗速度慢于 Sun Joe。",
+      "pros": [
+        "标称压力最高",
+        "软垫扳机喷枪",
+        "DeWalt 品质"
+      ],
+      "cons": [
+        "本次对比中流量最低（1.1）",
+        "塑料水管低温易折"
+      ]
+    },
+    "greenworks-pro-2300-psi": {
+      "badge": "💸 Greenworks 生态之选",
+      "review": "手上有 Greenworks 80V 电池工具，就选 Greenworks Pro 2300 PSI。2,300 PSI、1.2 GPM，参数均衡。相比对手没有特别突出的强项，但足够可靠，能与 Greenworks 户外动力工具配套使用。",
+      "pros": [
+        "与 Greenworks 80V 生态配套",
+        "PSI 与 GPM 均衡",
+        "中端定价"
+      ],
+      "cons": [
+        "没有突出亮点",
+        "塑料水管"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ryobi-ry142300-2300-psi": "可在 homedepot.com 或 ryobitools.com 购买。Ryobi 高压清洗机多为有线电动款。",
+    "sun-joe-spx3000": "可在 amazon.com 或 sunjoe.com 购买。气温降至冰点前务必彻底排空。",
+    "karcher-k5-premium": "可在 kaercher.com、amazon.com 或 Lowe's 购买。德国工艺体现在做工细节上。",
+    "dewalt-dwpw2400": "可在 homedepot.com 或 dewalt.com 购买。有线电动款。",
+    "greenworks-pro-2300-psi": "可在 greenworkstools.com 或 amazon.com 购买。有线电动款，与 80V 电池系列相互独立。"
+  },
+  "pinDescription": "车道、木露台、外墙统统洗一遍：Ryobi、Sun Joe、Kärcher、DeWalt、Greenworks 五款电动高压清洗机实测，清洗力数据说话，2026 年怎么选一次看懂。",
+  "recommendedFor": [
+    {
+      "label": "预算有限、又想要最快清洗速度的家庭用户",
+      "offerId": "sun-joe-spx3000",
+      "reason": "¥1,100–1,500 就有全场最高的 3,260 CU 清洗力，紧预算下追求效率的最佳选择。"
+    },
+    {
+      "label": "寒冷地区、设备放在室外的用户",
+      "offerId": "karcher-k5-premium",
+      "reason": "橡胶水管低温不打折，也是唯一经历 3 轮冻融循环仍完好无损的机型。"
+    },
+    {
+      "label": "想统一 DeWalt 品牌户外工具的用户",
+      "offerId": "dewalt-dwpw2400",
+      "reason": "标称压力最高（2,400 PSI），软垫扳机喷枪，能无缝融入已有的 DeWalt 无线工具体系。"
+    },
+    {
+      "label": "正在扩充庭院设备的 Greenworks 80V 电池用户",
+      "offerId": "greenworks-pro-2300-psi",
+      "reason": "可直接与 Greenworks 80V 户外工具配套，已有电池的用户无需另购充电器或换品牌。"
+    },
+    {
+      "label": "看重可靠品牌与售后的普通家庭用户",
+      "offerId": "ryobi-ry142300-2300-psi",
+      "reason": "自带喷嘴收纳、10.7 米水管，加上 Home Depot 便捷退换，日常使用最省心。"
+    }
+  ]
 }

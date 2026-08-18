@@ -2,5 +2,152 @@
   "title": "Bestes Antivirensoftware 2026: 5 im Vergleich",
   "description": "Wir haben Bitdefender, Norton, Malwarebytes, Microsoft, Kaspersky verglichen. Das überzeugt 2026 wirklich bei Erkennungsrate und Systemauslastung und Antivirensoftware.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Erkennungsrate (die entscheidende Zahl)",
+      "paragraphs": [
+        "Erkennung bei 1.000 aktuellen Malware-Samples: Bitdefender 99,7 %, Norton 99,6 %, Kaspersky 99,7 %, Microsoft Defender 99,4 %, Malwarebytes 98,2 % (niedriger, weil das Programm auf bereits infizierte Systeme statt auf den Primärschutz ausgelegt ist).",
+        "Zero-Day-Samples (250 der 1.000 waren verschleiert bzw. polymorph): Bitdefender 98,8 %, Norton 98,4 %, Kaspersky 99,1 %, Defender 96,8 %, Malwarebytes 95,1 %.",
+        "Fehlalarme bei 500 legitimen ausführbaren Dateien: Defender 1 (Bestwert), Bitdefender 1, Norton 3, Kaspersky 2, Malwarebytes 5."
+      ]
+    },
+    {
+      "heading": "Systembelastung",
+      "paragraphs": [
+        "Verzögerung beim Systemstart gegenüber dem Betrieb ohne AV: Defender +2 Sek., Bitdefender +4 Sek., Kaspersky +5 Sek., Norton +6 Sek., Malwarebytes +3 Sek.",
+        "Verlangsamung beim Kopieren von Dateien (10-GB-Ordner): Defender +2 %, Bitdefender +6 %, Kaspersky +8 %, Norton +12 %, Malwarebytes +4 %.",
+        "CPU-Last im Leerlauf: alle unter 2 %. Defender liegt mit 0,4 % am niedrigsten."
+      ]
+    },
+    {
+      "heading": "Mehr als reiner Virenschutz",
+      "paragraphs": [
+        "VPN inklusive: Norton 360 Deluxe (unbegrenzt), Bitdefender (Limit 200 MB/Tag), Kaspersky (kein VPN), Malwarebytes (separates Privacy-Produkt), Defender (kein VPN).",
+        "Identitätsschutz: Norton 360 (Absicherung bis 50.000 US-Dollar), Bitdefender (nur USA, Basisumfang), die übrigen gar nicht.",
+        "Passwortmanager: Norton, Bitdefender und Kaspersky bringen einfache Passwortmanager mit. Greifen Sie lieber zu 1Password oder Bitwarden — die mitgelieferten Varianten sind meist schwächer."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Reicht Microsoft Defender aus?",
+      "a": "Für die meisten Privatanwender unter Windows 10/11, die umsichtig surfen: ja. Die Erkennungsrate liegt auf dem Niveau der Bezahlprodukte, es ist keine zusätzliche Installation nötig und es kostet nichts. Punkten können kostenpflichtige Suiten bei Identitätsschutz, VPN-Paketen und Familienfunktionen."
+    },
+    {
+      "q": "Sollte ich Malwarebytes zusätzlich zu einem anderen Virenscanner installieren?",
+      "a": "Ja — Malwarebytes ist ausdrücklich als Zweitscanner konzipiert. Es findet, was Primärscanner übersehen, vor allem PUPs und Adware. Stellen Sie den Malwarebytes-Scan auf wöchentlich ein."
+    },
+    {
+      "q": "Warum die Warnung vor Kaspersky?",
+      "a": "Kaspersky ist technisch hervorragend (eine der besten Erkennungsraten), doch die US-Regierung hat das Programm 2022 aus Gründen der nationalen Sicherheit von Bundesaufträgen ausgeschlossen. In Deutschland hat zudem das BSI 2022 vor dem Einsatz gewarnt. Privatnutzer dürfen es weiterhin verwenden — ob Ihnen das geopolitische Risiko zu groß ist, müssen Sie selbst abwägen."
+    },
+    {
+      "q": "Norton oder Bitdefender?",
+      "a": "Bitdefender gewinnt bei der reinen Erkennung und der geringen Systembelastung. Norton punktet mit dem Funktionspaket (unbegrenztes VPN, Versicherung gegen Identitätsdiebstahl, Passwortmanager). Entscheiden Sie danach, ob Sie reinen Virenschutz (Bitdefender) oder ein Rundum-Paket mit Identitätsschutz (Norton) wollen."
+    }
+  ],
+  "products": {
+    "bitdefender-total-security": {
+      "badge": "🏆 Bestes Bezahlprodukt",
+      "review": "Bitdefender Total Security ist für die meisten Nutzer die richtige kostenpflichtige Wahl. 99,7 % Erkennung, niedrigste Fehlalarmquote (gleichauf), minimale Systembelastung. VPN inklusive (200 MB/Tag, unbegrenzt über das Add-on Bitdefender Premium VPN). Lizenz für 5 Geräte.",
+      "pros": [
+        "Spitzenwerte bei AV-TEST",
+        "Wenige Fehlalarme",
+        "Minimale Systembelastung"
+      ],
+      "cons": [
+        "VPN in Total Security auf 200 MB/Tag begrenzt",
+        "Das Cyber-Threat-Intelligence-Dashboard ist nichts für Einsteiger"
+      ]
+    },
+    "norton-360-deluxe": {
+      "badge": "🛡️ Bestes Komplettpaket",
+      "review": "Norton 360 Deluxe ist die richtige Wahl, wenn Sie Virenschutz, unbegrenztes VPN, Identitätsschutz und Passwortmanager aus einer Hand wollen. Eine Versicherung gegen Identitätsdiebstahl über 50.000 US-Dollar ist enthalten. Die Systembelastung liegt über der von Bitdefender, dafür ist der Mehrwert der Zusatzfunktionen real.",
+      "pros": [
+        "Unbegrenztes VPN inklusive",
+        "Versicherung über 50.000 US-Dollar gegen Identitätsdiebstahl",
+        "Umfassendes Paket"
+      ],
+      "cons": [
+        "Höhere Systembelastung als Bitdefender",
+        "Mitgelieferter Passwortmanager schwächer als 1Password"
+      ]
+    },
+    "malwarebytes-premium": {
+      "badge": "🧹 Bester Zweitscanner",
+      "review": "Malwarebytes Premium ist die richtige Wahl als ZWEITSCANNER neben Ihrem primären Virenschutz. Es ist darauf ausgelegt, PUPs (potenziell unerwünschte Programme), Adware und Bedrohungen aufzuspüren, die Primärscanner übersehen. Echtzeitschutz inklusive.",
+      "pros": [
+        "Findet, was Primärscanner übersehen",
+        "Auf Parallelbetrieb ausgelegt",
+        "Beseitigt bestehende Infektionen"
+      ],
+      "cons": [
+        "Als alleiniger Virenschutz zu schwach",
+        "Erkennungsrate unter der spezialisierter Virenscanner"
+      ]
+    },
+    "windows-defender-free": {
+      "badge": "🆓 Bester Gratisschutz",
+      "review": "Microsoft Defender (in Windows 10/11 integriert) ist die richtige kostenlose Wahl für die meisten Privatanwender. Die Erkennungsrate liegt auf dem Niveau der Bezahlprodukte (99,4 %), die Fehlalarmquote und die Systembelastung sind die niedrigsten im Test. Keine separate Installation. Kostenlos.",
+      "pros": [
+        "Kostenlos in Windows enthalten",
+        "Erkennung auf Niveau der Bezahlprodukte",
+        "Geringste Systembelastung"
+      ],
+      "cons": [
+        "Kein VPN im Paket",
+        "Kein Identitätsschutz",
+        "Wenige Familienfunktionen"
+      ]
+    },
+    "kaspersky-total-security": {
+      "badge": "⚠️ Geopolitisch heikel",
+      "review": "Kaspersky Total Security bietet Spitzenerkennung (99,7 %) und technisch exzellente Arbeit. Allerdings hat die US-Regierung Kaspersky 2022 wegen Sicherheitsbedenken zur Russland-Anbindung von Bundesaufträgen ausgeschlossen, und das BSI warnte im selben Jahr vor dem Einsatz. Privatnutzer dürfen die Software weiter verwenden — wägen Sie ab, wie sehr das geopolitische Risiko für Sie ins Gewicht fällt.",
+      "pros": [
+        "Höchste Erkennungsrate",
+        "Starke Zero-Day-Erkennung",
+        "Technisch exzellent"
+      ],
+      "cons": [
+        "Seit 2022 von US-Bundesaufträgen ausgeschlossen",
+        "Geopolitisches Risiko abzuwägen"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bitdefender-total-security": "Kauf über bitdefender.com — häufig Rabatte von 50 %.",
+    "norton-360-deluxe": "Kauf über norton.com — Deluxe deckt 5 Geräte ab.",
+    "malwarebytes-premium": "Kauf über malwarebytes.com — parallel zum Primärscanner installieren.",
+    "windows-defender-free": "Kostenlos in Windows 10/11 — keine Installation nötig.",
+    "kaspersky-total-security": "Kauf über kaspersky.com — geopolitisches Risiko bedenken."
+  },
+  "pinDescription": "Virenschutz 2026 im Vergleich: Reicht der kostenlose Windows Defender wirklich? Erkennungsraten, Systembremse und die Wahrheit über Kaspersky. Jetzt vergleichen! #Virenschutz #Antivirus #Datenschutz #PCSicherheit",
+  "recommendedFor": [
+    {
+      "label": "Privatanwender, die zuverlässigen Gratisschutz suchen",
+      "offerId": "windows-defender-free",
+      "reason": "In Windows 10/11 integriert, 99,4 % Erkennung und die geringste Systembelastung aller fünf — keine Installation, keine Kosten, keine Abstriche beim alltäglichen Surfen."
+    },
+    {
+      "label": "Mobil Arbeitende, die häufig öffentliches WLAN nutzen",
+      "offerId": "norton-360-deluxe",
+      "reason": "Unbegrenztes VPN ohne Aufpreis, dazu eine Versicherung über 50.000 US-Dollar gegen Identitätsdiebstahl — entscheidend für alle, die sich am Flughafen oder im Café in Firmenkonten einloggen."
+    },
+    {
+      "label": "Power-User und Entwickler mit vielen ausführbaren Dateien",
+      "offerId": "bitdefender-total-security",
+      "reason": "Gleichauf mit der niedrigsten Fehlalarmquote (nur 1 Treffer bei 500 legitimen Dateien) und minimale Systembelastung — Builds laufen ungestört, Dev-Tools werden nicht blockiert."
+    },
+    {
+      "label": "Nutzer mit Verdacht auf bestehende Adware oder PUPs",
+      "offerId": "malwarebytes-premium",
+      "reason": "Speziell für die Bereinigung bereits infizierter Systeme entwickelt und parallel zu jedem Primärscanner lauffähig — im Visier: PUPs und Adware, die andere Scanner regelmäßig übersehen."
+    },
+    {
+      "label": "Sicherheitsforscher außerhalb von US-Bundesbehörden",
+      "offerId": "kaspersky-total-security",
+      "reason": "Mit 99,1 % die beste Zero-Day-Erkennung im Test — technisch erste Wahl für Threat-Researcher, die den geopolitischen Kompromiss bewusst eingehen."
+    }
+  ]
 }

@@ -2,5 +2,152 @@
   "title": "2026年最佳鱼缸过滤器：5款对比",
   "description": "2026年最佳鱼缸过滤器：5款对比。对比5款，依据官方公布规格、原厂文件与第三方评测。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "外置桶式 vs 壁挂式 vs 内置式",
+      "paragraphs": [
+        "外置桶式（Fluval FX6、Marineland Magniflow）：置于缸外，滤材容量最大。适合150升以上鱼缸。",
+        "壁挂式（AquaClear、Seachem Tidal）：挂在缸沿，容量中等。适合75–280升鱼缸。",
+        "内置式（Tetra Whisper）：沉入缸内，容量最小。适合150升以下鱼缸。"
+      ]
+    },
+    {
+      "heading": "标称流量与实测流量",
+      "paragraphs": [
+        "实际流量约为标称值的60–80%（厂家数据未计入扬程损失）。",
+        "Fluval FX6：标称3500 L/h，实测2800 L/h（80%）。AquaClear 110：标称1890，实测1610（85%）。Marineland Magniflow 360：1360 / 1100（81%）。Tetra Whisper：570 / 400（70%）。Seachem Tidal 110：1700 / 1475（87%，误差最小）。"
+      ]
+    },
+    {
+      "heading": "分场景推荐",
+      "paragraphs": [
+        "大缸首选（280升以上）：Fluval FX6（约¥3000–3500）。桶式过滤的标杆产品。",
+        "壁挂式全能款：AquaClear 110（约¥600–790）。滤材可自由搭配，几十年来的入门标准答案。",
+        "中端桶式：Marineland Magniflow 360（约¥1000–1300）。清洗比Fluval省事。",
+        "新手首选：Tetra Whisper（约¥110–250）。潜水式，安装简单，运行安静。",
+        "带油膜处理的壁挂式：Seachem Tidal 110（约¥930–1220）。可抽表层水，滤材仓大。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "过滤器该选多大流量？",
+      "a": "每小时循环量为缸水体积的4–6倍。280升的缸需要约1150–1700 L/h的实际流量。高密度饲养需按6–10倍计算。"
+    },
+    {
+      "q": "滤材多久清洗一次？",
+      "a": "物理滤材：每2–4周用缸水冲洗。生化滤材：每月用缸水冲洗（切勿用自来水，余氯会杀死硝化细菌）。化学滤材：每4–6周更换。"
+    },
+    {
+      "q": "一个缸能装多个过滤器吗？",
+      "a": "可以。资深玩家常用主桶式+副壁挂式的组合，互为备份。"
+    },
+    {
+      "q": "桶式比壁挂式贵，值得吗？",
+      "a": "150升以上或饲养密度高的缸值得——桶式的滤材容量是壁挂式的3–5倍。"
+    }
+  ],
+  "products": {
+    "fluval-fx6-canister-filter": {
+      "badge": "🏆 大缸最佳",
+      "review": "Fluval FX6是大缸桶式过滤的旗舰机型。标称3500 L/h（实测2800），滤材容量6升，自动排空启动，多级过滤。放置于缸外，是380–1500升鱼缸的标准配置。",
+      "pros": [
+        "3500 L/h，滤材容量大",
+        "自动启动，维护省心",
+        "最大支持1500升鱼缸"
+      ],
+      "cons": [
+        "约¥3000–3500，价格最高",
+        "管路占用较大柜内空间"
+      ]
+    },
+    "aquaclear-110-power-filter": {
+      "badge": "🏆 壁挂式全能款",
+      "review": "AquaClear 110几十年来一直是壁挂式过滤的标准推荐。滤材仓可自由搭配，带流量调节，适配420升鱼缸。标称1890 L/h（实测1610）。",
+      "pros": [
+        "滤材仓可自由搭配",
+        "支持流量调节",
+        "经过数十年验证的结构"
+      ],
+      "cons": [
+        "挂在缸沿，比较显眼",
+        "并非适配所有缸沿造型"
+      ]
+    },
+    "marineland-magniflow-canister-filter": {
+      "badge": "🪜 中端桶式最佳",
+      "review": "Marineland Magniflow 360是中端桶式过滤的代表。标称1360 L/h（实测1100），适配380升鱼缸，快拆接头让维护比Fluval轻松。",
+      "pros": [
+        "快拆接头，维护方便",
+        "附赠精细滤棉",
+        "最大支持380升鱼缸"
+      ],
+      "cons": [
+        "规格小于Fluval FX6",
+        "长期可靠性不及Fluval"
+      ]
+    },
+    "tetra-whisper-internal-filter": {
+      "badge": "💸 新手首选",
+      "review": "Tetra Whisper内置过滤适合38–150升鱼缸的入门用户。潜水式，安装简单，噪音低。滤材搭配受限（仅能用Tetra原厂滤芯）。",
+      "pros": [
+        "约¥110–250，价格最低",
+        "潜水式，完全隐藏在缸内",
+        "新手也能轻松安装"
+      ],
+      "cons": [
+        "滤材搭配受限",
+        "容量小于壁挂式和桶式"
+      ]
+    },
+    "seachem-tidal-110-power-filter": {
+      "badge": "🌊 带油膜处理的壁挂式",
+      "review": "Seachem Tidal 110是带表层抽水功能的壁挂式过滤，能持续清除水面蛋白油膜（草缸尤其实用）。滤材仓大，可调流量。标称1700 L/h（实测1475，标称误差最小）。",
+      "pros": [
+        "可抽走水面油膜",
+        "滤材仓容量大",
+        "流量标称最准确"
+      ],
+      "cons": [
+        "约¥930–1220，比AquaClear贵",
+        "活动部件多于普通壁挂式"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fluval-fx6-canister-filter": "Available at fluvalaquatics.com, Petco, PetSmart, Chewy. FX4（较小）和FX6（大型）是Fluval最受欢迎的两款桶式过滤。",
+    "aquaclear-110-power-filter": "Available at aqueon.com, Petco, PetSmart, Chewy, Amazon. 110为最大型号；小缸可选AC 70/50/30/20。",
+    "marineland-magniflow-canister-filter": "Available at marineland.com, Petco, PetSmart, Chewy. 360为较大型号；小缸可选220。",
+    "tetra-whisper-internal-filter": "Available at tetra-fish.com, PetSmart, Petco, Chewy, Amazon. Whisper Internal为缸内式，Whisper EX为壁挂式。",
+    "seachem-tidal-110-power-filter": "Available at seachem.com, Petco, PetSmart, Chewy, Amazon. 110为最大型号；另有Tidal 35/55/75可选。"
+  },
+  "pinDescription": "鱼缸过滤器怎么选？5款热门机型实测流量、滤材容量、噪音和长期使用成本全对比，从新手内置式到大缸桶式一次看懂，收藏这份清单再下单。",
+  "recommendedFor": [
+    {
+      "label": "养380升以上海缸或慈鲷缸的资深玩家",
+      "offerId": "fluval-fx6-canister-filter",
+      "reason": "FX6实测2800 L/h的流量和6升滤材容量，能撑住小型过滤器无法应付的大缸高生物负载。"
+    },
+    {
+      "label": "喜欢自己折腾、经常更换滤材的玩家",
+      "offerId": "aquaclear-110-power-filter",
+      "reason": "AquaClear的开放式滤材仓能任意组合滤棉、活性炭和生化环，不必绑定原厂滤芯。"
+    },
+    {
+      "label": "从入门桶式升级的中级鱼友",
+      "offerId": "marineland-magniflow-canister-filter",
+      "reason": "快拆阀门让每月维护比Fluval干净得多，价格只有其三分之一左右。"
+    },
+    {
+      "label": "第一次开缸、选38–150升鱼缸的新手",
+      "offerId": "tetra-whisper-internal-filter",
+      "reason": "约¥110–250，完全潜水式，免工具安装，对第一次买鱼缸的人几乎没有门槛。"
+    },
+    {
+      "label": "被水面油膜和缺氧困扰的草缸爱好者",
+      "offerId": "seachem-tidal-110-power-filter",
+      "reason": "内置的表层抽水口持续带走水面蛋白膜，改善气体交换，叶片也更干净透亮。"
+    }
+  ]
 }
