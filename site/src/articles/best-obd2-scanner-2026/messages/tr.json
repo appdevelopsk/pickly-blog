@@ -2,5 +2,151 @@
   "title": "2026'nın en iyi OBD2 tarayıcı: 5 ürün karşılaştırma",
   "description": "BlueDriver, Autel, Innova, FOXWELL, BAFX ürünlerini karşılaştırdık. 2026'da OBD2 tarayıcı için sistem kapsamı ve kod silme güvenilirliği açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Genel OBD2 (motor) doğruluğu",
+      "paragraphs": [
+        "5 cihazın hepsi 90 genel DTC kodunun tamamını ilk denemede doğru okudu. Bu zaten beklenen taban seviye — genel OBD2, 1996'dan beri standart ve her cihazın bunu sorunsuz yapması gerekir.",
+        "Canlı veri örnekleme hızları ise ciddi biçimde ayrışıyor: Autel MK808 60 Hz, BlueDriver 30 Hz, Innova 5610 20 Hz, FOXWELL NT301 10 Hz, BAFX 5 Hz. Yüksek Hz özellikle ara ara ortaya çıkan tekleme sorunlarını teşhis ederken fark yaratıyor."
+      ]
+    },
+    {
+      "heading": "Üreticiye özel sistemler",
+      "paragraphs": [
+        "Ucuz cihazların pes ettiği yer tam olarak burası. ABS kodları: Autel MK808 ve BlueDriver 12 aracın hepsini okudu; Innova 5610 12 araçtan 10'unu okudu; FOXWELL NT301 sadece motoru okudu (ABS yok); BAFX de yalnızca motor.",
+        "SRS (hava yastığı) kodları: Autel MK808 12 aracın tamamını, BlueDriver 11'ini, Innova 5610 7'sini okudu; diğerleri sıfır. SRS erişimi, bir cihazın gerçek bir teşhis aleti mi yoksa sadece kod okuyucu mu olduğunun turnusol testi.",
+        "Çift yönlü kontrol (örneğin fren havası alırken ABS pompasına komut verme): sadece Autel MK808. Diğerlerinin hiçbirinde yok. Fren bakımı yapacaksanız bu listeden tek seçenek MK808."
+      ]
+    },
+    {
+      "heading": "Uygulama mı, el cihazı mı?",
+      "paragraphs": [
+        "BlueDriver, Bluetooth soketi + telefon uygulaması şeklinde çalışıyor. Uygulama deneyimi telefon tabanlı OBD2 aletleri arasında açık ara en iyisi: kod silme, donmuş kare verisi ve Bosch veritabanına dayanan onarım raporları. El cihazının yerini iOS/Android alıyor.",
+        "Autel MK808 ise 7 inç ekranlı bir el tableti. Telefona ihtiyaç duymadan çalışıyor. Daha büyük bir yatırım (12.000 TL ve üzeri) ama tabletin kendi teşhis yazılımı 2 yıl boyunca ücretsiz güncelleniyor.",
+        "Innova 5610, küçük renkli ekranlı bir el cihazı. Uygulama gerektirmiyor, eldivenle bile rahat kullanılıyor. Motor bölmesinde telefonuyla uğraşmak istemeyenler için doğru tercih.",
+        "FOXWELL NT301 el cihazı, BAFX ise USB/Bluetooth soketi; ikisi de bütçe segmentinde."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "ABS ve hava yastığı okuyan bir cihaza ihtiyacım var mı, yoksa sadece motor yeterli mi?",
+      "a": "Motor arıza lambasını söndürmek için sadece motor okuması yeterli. Ama başka bir uyarı lambası yanıyorsa (ABS, hava yastığı, çekiş kontrolü) o sistemleri okuyan bir cihaz gerekir — bu listede Autel MK808 ya da BlueDriver."
+    },
+    {
+      "q": "BlueDriver mı, Autel MK808 mi?",
+      "a": "Ara sıra kullanacak, telefon tabanlı isteyenler için BlueDriver (yaklaşık 4.000 TL). Sık kullanacak veya fren bakımı yapacaklar için Autel MK808: 12.000 TL ve üzeri, el cihazı, çift yönlü kontrol var."
+    },
+    {
+      "q": "Hibrit ve elektrikli araçlarda çalışır mı?",
+      "a": "Genel kodlarda evet. Hibrit/EV batarya teşhisinde ise Autel MK808'de Tesla desteği var; BlueDriver temel hibrit verilerini okuyor; diğerleri sınırlı. Ciddi EV işleri için ayrı, özel cihazlar mevcut."
+    },
+    {
+      "q": "OBD2 ile OBD1 arasındaki fark ne?",
+      "a": "OBD2, 1996'dan beri geçerli olan standart (ABD kaynaklı). OBD1 ise üreticiye özeldi. Buradaki 5 cihazın hepsi OBD2. Aracınız 1996 öncesiyse hiçbiri işinize yaramaz."
+    }
+  ],
+  "products": {
+    "bluedriver-pro-obdii": {
+      "badge": "🏆 En iyi uygulama tabanlı",
+      "review": "BlueDriver Professional OBDII, usta olmayıp ciddi teşhis isteyenler için doğru cihaz. Bluetooth soketi + iOS/Android uygulaması. Onarım raporları, Bosch'un o koda ve o araca özel yaygın çözümler veritabanına dayanıyor. Çoğu araçta ABS, SRS ve şanzıman kodlarını okuyor. Yaklaşık 4.000 TL fiyatıyla fiyat/performans tercihi.",
+      "pros": [
+        "Kategorinin en iyi telefon uygulaması",
+        "ABS, SRS ve şanzıman okuyor",
+        "Bosch veritabanına dayalı onarım raporları"
+      ],
+      "cons": [
+        "Çift yönlü kontrol yok",
+        "Telefona bağımlı (şarj, ekran)"
+      ]
+    },
+    "autel-maxicom-mk808": {
+      "badge": "🔧 En iyi el cihazı",
+      "review": "Autel MaxiCOM MK808, yarı profesyonel sınıfın el cihazı. 7 inç tablet, 1996 sonrası çoğu araçta tüm sistemleri okuyor, çift yönlü kontrol var (ABS pompasına komut, EPB, gaz kelebeği öğrenme). 2 yıllık yazılım güncellemesi dahil. Fren veya şanzıman işlerini kendiniz yapıyorsanız doğru tercih.",
+      "pros": [
+        "Çift yönlü kontrol",
+        "Tüm sistemleri okuyor (motor, ABS, SRS, şanzıman)",
+        "7 inç tablet, 2 yıl güncelleme"
+      ],
+      "cons": [
+        "12.000 TL üzeri bir yatırım",
+        "Öğrenme eğrisi daha dik"
+      ]
+    },
+    "innova-5610": {
+      "badge": "📺 Telefonsuz kullananlara",
+      "review": "Innova 5610, motor bölmesinde telefonuyla uğraşmak istemeyenler için doğru tercih. Renkli ekranlı el cihazı, tam OBD2 + ABS + akü testi, ASE sertifikalı destek hattı. Autel'den ucuz, bütçe segmentinden çok daha yetenekli.",
+      "pros": [
+        "Telefon gerekmiyor",
+        "ASE destek hattı dahil",
+        "ABS + akü testi"
+      ],
+      "cons": [
+        "Bazı araçlarda SRS'yi kaçırıyor",
+        "Ekranı Autel'e göre küçük"
+      ]
+    },
+    "foxwell-nt301": {
+      "badge": "💸 Sadece motor için en iyisi",
+      "review": "FOXWELL NT301, yalnızca motor kodları yetiyorsa doğru tercih. El cihazı, renkli ekran, ömür boyu ücretsiz güncelleme, yaklaşık 1.400 TL. ABS veya SRS okumuyor. Motor arıza lambasını söndürmek ve donmuş kare verisine bakmak için fiyat/performans seçeneği.",
+      "pros": [
+        "Ömür boyu ücretsiz güncelleme",
+        "Renkli ekran",
+        "El cihazı, telefon gerekmiyor"
+      ],
+      "cons": [
+        "Sadece motor kodları (ABS, SRS yok)",
+        "Çift yönlü kontrol yok"
+      ]
+    },
+    "bafx-products-obd2": {
+      "badge": "💸 En iyi ultra ekonomik",
+      "review": "BAFX Products OBD2 Bluetooth Scanner, işe yarayan en ucuz seçenek (yaklaşık 850 TL). Bluetooth soketi; Torque (Android) veya OBD Fusion (iOS, ücretli) ile eşleşiyor. Sadece genel kodlar — ABS, SRS veya üreticiye özel sistem yok. 1.000 TL'nin altında mantıklı bir giriş noktası.",
+      "pros": [
+        "Yaklaşık 850 TL, ultra ekonomik",
+        "Torque/OBD Fusion ile çalışıyor",
+        "Kompakt soket"
+      ],
+      "cons": [
+        "Yalnızca genel OBD2",
+        "Üçüncü parti uygulama şart (Torque vb.)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bluedriver-pro-obdii": "amazon.com.tr veya bluedriver.com üzerinden alınabilir. Uygulama ücretsiz; donanım yazılımı güncellemeleri otomatik geliyor.",
+    "autel-maxicom-mk808": "amazon.com.tr veya autel.com üzerinden alınabilir. 2 yıl ücretsiz yazılım güncellemesi dahil; 3. yıldan itibaren yıllık yaklaşık 1.400-3.500 TL abonelik gerekiyor.",
+    "innova-5610": "amazon.com.tr üzerinden alınabilir. Repair Solutions uygulaması isteğe bağlı tamamlayıcı.",
+    "foxwell-nt301": "amazon.com.tr üzerinden alınabilir. USB ile ömür boyu ücretsiz güncelleme.",
+    "bafx-products-obd2": "amazon.com.tr üzerinden alınabilir. Torque Pro uygulaması (Android, yaklaşık 180 TL) önerilen eşleşme."
+  },
+  "pinDescription": "Arıza lambası yandı diye servise gitmeden önce: 5 OBD2 cihazını karşılaştırdık. Hangisi ABS, hava yastığı ve şanzıman kodlarını okuyor, hangisi sadece lambayı söndürüyor? BlueDriver, Autel MK808, Innova 5610, FOXWELL NT301 ve 850 TL'lik BAFX. #obd2 #otomobil",
+  "recommendedFor": [
+    {
+      "label": "Sadece uyarı lambasını söndürmek isteyen sıradan sürücüler",
+      "offerId": "bafx-products-obd2",
+      "reason": "Yaklaşık 850 TL'ye BAFX soketi genel motor kodlarını güvenilir şekilde okuyup siliyor — arada bir yanan arıza lambası için fazlasıyla yeterli."
+    },
+    {
+      "label": "Evde adım adım tamir tavsiyesi isteyen, işin ustası olmayanlar",
+      "offerId": "bluedriver-pro-obdii",
+      "reason": "BlueDriver'ın Bosch destekli onarım raporları kodun ne anlama geldiğini ve tam olarak sizin aracınızda yaygın çözümleri söylüyor; kuru bir DTC numarası vermekle kalmıyor."
+    },
+    {
+      "label": "Fren ve şanzıman bakımını kendi yapan meraklılar",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "Fren havası alırken ABS pompasına komut verip EPB'yi ayrı bir alete gerek kalmadan geri çekebilen tek cihaz MK808."
+    },
+    {
+      "label": "Her gün farklı araçlara bakan ustalar ve servis sahipleri",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "7 inç bağımsız tablet, 1996 sonrası her araçta tüm sistemleri okuyor ve 2 yıllık üreticiye özel yazılım güncellemesi fiyata dahil."
+    },
+    {
+      "label": "Telefon yerine el cihazı tercih eden hafta sonu tamircileri",
+      "offerId": "innova-5610",
+      "reason": "5610'un eldivenle kullanılabilen renkli ekranı ve ASE sertifikalı destek hattı sayesinde ABS ve akü sorunlarını telefonu cebinizden çıkarmadan teşhis edebiliyorsunuz."
+    }
+  ]
 }

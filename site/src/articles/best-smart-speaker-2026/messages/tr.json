@@ -99,5 +99,109 @@
     "sonos-era-100": "El mejor altavoz premium agnóstico a la plataforma -- estéreo amplio gracias a los tweeters inclinados, calibración de sala Trueplay, AirPlay 2 + reenvío de Alexa + Google. Sin asistente nativo; los comandos de Alexa/Google tienen ligera latencia. Construye sistemas Sonos multiroom sin bloqueo de ecosistema."
   },
   "pinDescription": "Cinco altavoces inteligentes comparados en 2026: Amazon Echo, Google Nest Audio, Apple HomePod, Echo Studio y Sonos Era 100. Precisión del asistente de voz, diferencias de calidad de audio, realidad del bloqueo de ecosistema y cuál comprar para música frente al control domótico.",
-  "methodology": "Her ürün, belgelenmiş teknik özellikleri, bağımsız kıyaslama testleri ve doğrulanmış kullanıcı yorumları üzerinden değerlendirildi. Özellikler, performans, yapım kalitesi, ekosistem uyumluluğu ve toplam sahip olma maliyeti başlıklarına puan verdik."
+  "methodology": "Her ürün, belgelenmiş teknik özellikleri, bağımsız kıyaslama testleri ve doğrulanmış kullanıcı yorumları üzerinden değerlendirildi. Özellikler, performans, yapım kalitesi, ekosistem uyumluluğu ve toplam sahip olma maliyeti başlıklarına puan verdik.",
+  "products": [
+    {
+      "offerId": "amazon-echo-4th-gen",
+      "badge": "Akıllı ev merkezi",
+      "grade": "A+",
+      "review": "Amazon Echo 4. Nesil, bu karşılaştırmadaki en kolay akıllı ev tavsiyesi: 3,0 inçlik woofer, çift tweeter, dahili Zigbee radyosu ve Thread ile Matter desteği, 360 derece ses veren küresel bir gövdede bir araya geliyor. Tek başına Zigbee merkezi bile eski Hue, IKEA TRADFRI ve pek çok üçüncü parti cihaz için ayrı bir köprü ihtiyacını ortadan kaldırıyor; bu Echo'yu Nest Audio yerine seçmenin asıl pratik nedeni de bu. Alexa'nın üçüncü parti cihaz kataloğu 140.000 kaydı aşıyor — Google Home ya da HomeKit'ten belirgin biçimde geniş. Ses, mutfakta fon müziği için yeterli ama 80 Hz'in altında sönümleniyor ve sahne genişliği Nest Audio'ya kıyasla dar. Çok odalı sesli kontrole en ucuz giriş noktası ve zaten en iyi oynadığı rol tam olarak bu.",
+      "pros": [
+        "Dahili Zigbee merkezi, üstüne Thread ve Matter desteği",
+        "140.000+ kayıtla en geniş üçüncü parti akıllı ev cihazı kataloğu",
+        "Çok odalı genişleme için karşılaştırmadaki en uygun fiyat"
+      ],
+      "cons": [
+        "80 Hz altında bas tepkisi sönümleniyor",
+        "Ses; konuşma ve gündelik müzik için tasarlanmış, ciddi dinleme için değil"
+      ]
+    },
+    {
+      "offerId": "google-nest-audio",
+      "badge": "Asistan zekâsı",
+      "grade": "A",
+      "review": "Google Nest Audio, müzik tarafında Echo 4. Nesil'in bir tık üstünde duruyor: 75 mm woofer ve 19 mm tweeter, gözle görülür biçimde daha sıcak bir bas ve vokallerle akustik enstrümanların yaşadığı orta bantta daha temiz bir sunum üretiyor. Google Asistan, takip sorularında ve kavramsal müzik isteklerinde bu karşılaştırmanın lideri olmayı sürdürüyor — daha yavaş ya da benzer havada bir şey bulmasını istemek gerçekten işe yarıyor, YouTube Music ve Spotify entegrasyonu da derin. Zigbee merkezi yok; akıllı ev kontrolünü Wi-Fi ve Bluetooth üzerinden yapıyor. Yeni SwitchBot, Tapo ve Meross cihazları için sorun değil ama elinizde hâlihazırda Zigbee cihaz varsa kısıtlayıcı. Echo'nun Zigbee güvencesinin bir muadili yok ve Google'ın daha önce hoparlörleri ve servisleri habersizce kapattığı düşünülürse, bu fiyatta akla gelen haklı bir soru işareti.",
+      "pros": [
+        "Echo 4. Nesil'e göre daha sıcak bas ve daha temiz orta bant",
+        "Takip soruları ve kavramsal müzik istekleri için en iyi asistan",
+        "İkinci bir Nest Audio ile güçlü stereo eşleme ve ayrışma"
+      ],
+      "cons": [
+        "Eski akıllı ev cihazları için Zigbee merkezi yok",
+        "Google'ın servisleri kapatma geçmişi haklı bir endişe"
+      ]
+    },
+    {
+      "offerId": "apple-homepod-2nd-gen",
+      "badge": "Apple ekosistemi",
+      "grade": "A",
+      "review": "Apple HomePod 2. Nesil, odaya göre kendini ayarlayan ses tercihi: 4 inçlik yüksek hareketli woofer, beş tweeter ve hoparlörün bulunduğu yere (köşe, açık raf ya da kitaplık) göre EQ'yu uyarlayan gerçek zamanlı uzamsal ses işleme. Bas duyulur biçimde 40–50 Hz aralığına iniyor, zil ve yaylı üst harmoniklerindeki tiz detayı buradaki en temizi, Apple Music'in 24 bit/192 kHz kayıpsız çalması ise parladığı yer. Ayrıca Thread sınır yönlendiricisi ve HomeKit merkezi görevi görüyor. Kurulum için iPhone veya iPad şart, Apple Music fiilen tek makul yayın servisi (Spotify daha zayıf bir AirPlay yoluna düşüyor) ve donanımsal mikrofon kapatma düğmesi karşılaştırmadaki en güçlü gizlilik varsayılanı — Siri istekleri Apple kimliğiniz yerine rastgele bir tanımlayıcı kullanıyor. Android kullanan evler için HomePod pratik bir seçenek değil.",
+      "pros": [
+        "Gerçek zamanlı uzamsal ses, EQ'yu odaya göre uyarlıyor",
+        "Dahili Thread sınır yönlendiricisi ve HomeKit merkezi",
+        "Donanımsal mikrofon kapatma ve Apple kimliğinden ayrık Siri tanımlayıcısı"
+      ],
+      "cons": [
+        "Tam kayıpsız kalite için Apple Music gerekiyor",
+        "Kurulum ve kontrol iPhone ya da iPad istiyor"
+      ]
+    },
+    {
+      "offerId": "amazon-echo-studio",
+      "badge": "Atmos müzik",
+      "grade": "A",
+      "review": "Amazon Echo Studio, Amazon'un ses amiral gemisi: 5,25 inçlik woofer, iki adet 2 inçlik orta bant sürücü, öne bakan bir tweeter ve Dolby Atmos için yükseklik bilgisini düz tavandan sektiren yukarı bakan bir tweeter. Tepe gücü 330 W civarında ve bas, Echo 4. Nesil ile Nest Audio'nun yakalayamayacağı şekilde odada fiziksel olarak hissediliyor; elektronik müzik, hip-hop ve film müzikleri bundan net kazançlı çıkıyor. Türkiye'deki tipik 250–280 cm tavan yüksekliklerinde Atmos yükseklik efektleri çarpıcı olmaktan çok ince dokunuş düzeyinde kalıyor ama asıl anlamlı yükseltme zaten odayı dolduran alt bas. Alexa ekosisteminin tamamını çalıştırıyor, buna karşın Zigbee merkezi yok — yani akıllı ev cihazı olarak, çelişkili biçimde daha ucuz Echo 4. Nesil'den daha yeteneksiz. Müziğe önem veren Alexa kullanıcıları için doğru üst basamak.",
+      "pros": [
+        "Beş sürücülü dizilim, 330 W tepe güç ve Dolby Atmos işleme",
+        "Odada gerçekten hissedilen alt bas",
+        "Eksiksiz Alexa ekosistemi ve TV sesi için ARC desteği"
+      ],
+      "cons": [
+        "Yüksek fiyata rağmen dahili Zigbee merkezi yok",
+        "Tipik ev odalarında Atmos yükseklik efektleri silik kalıyor"
+      ]
+    },
+    {
+      "offerId": "sonos-era-100",
+      "badge": "Platformdan bağımsız",
+      "grade": "A",
+      "review": "Sonos Era 100, sizi tek bir ekosisteme kilitlemeyen, sesi önceleyen seçenek. 70 derece açıyla yerleştirilmiş çift tweeter, tek gövdeden bu karşılaştırmanın en geniş stereo görüntüsünü çıkarıyor; tek woofer sıkı ve kontrollü bir bas veriyor; Sonos uygulamasındaki Trueplay oda kalibrasyonu mekânı ölçüp EQ'yu ona göre düzeltiyor. AirPlay 2 Apple cihazlarını kapsıyor, Alexa ve Google Asistan yönlendirme yoluyla çalışıyor (yerel Echo veya Nest donanımına kıyasla küçük bir gecikme bedeliyle) ve Sonos uygulaması yayın servislerini tek platforma bağlamak yerine değiştirilebilir tutuyor. Yerleşik sesli asistan ve akıllı ev merkezi işlevi yok; yani bu önce bir müzik hoparlörü, ses kontrolü ikincil bir yetenek. Yapım kalitesi ve uzun vadeli yazılım desteği ise segmentin referansı.",
+      "pros": [
+        "Açılı tweeter'lar sayesinde tek gövdeden en geniş stereo görüntü",
+        "Trueplay oda kalibrasyonu EQ'yu mekânınıza göre düzeltiyor",
+        "Ekosistem kilidi olmadan AirPlay 2, Alexa ve Google yönlendirmesi"
+      ],
+      "cons": [
+        "Yerleşik sesli asistan yok — Alexa ve Google yönlendirmeyle çalışıyor",
+        "Karşılaştırmadaki en pahalı tekli hoparlör"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Merkez ve sesli kontrolü birlikte isteyen akıllı ev kuranlar",
+      "offerId": "amazon-echo-4th-gen",
+      "reason": "Dahili Zigbee radyosu, Thread ve Matter desteği ve 140.000'i aşan Alexa cihaz kataloğu, geniş akıllı ev uyumluluğuna en ucuz yolu açıyor."
+    },
+    {
+      "label": "Asistan zekâsını önceleyen Android kullanıcıları",
+      "offerId": "google-nest-audio",
+      "reason": "Google Asistan'ın takip sorularındaki ve kavramsal müzik isteklerindeki üstünlüğü, üstüne Echo 4. Nesil'den daha sıcak ses, Google servislerine yaslanan evlere iyi oturuyor."
+    },
+    {
+      "label": "Apple Music aboneliği olan iPhone'lu evler",
+      "offerId": "apple-homepod-2nd-gen",
+      "reason": "Gerçek zamanlı oda düzeltmesi, Thread/HomeKit merkezi görevi, donanımsal mikrofon kapatma gizliliği ve iPhone'larla sıkı Handoff entegrasyonu onu Apple ağırlıklı evlerin doğal tercihi yapıyor."
+    },
+    {
+      "label": "Müzik kalitesine önem veren Alexa kullanıcıları",
+      "offerId": "amazon-echo-studio",
+      "reason": "Beş sürücülü Dolby Atmos sesi, gerçek alt bas varlığıyla Alexa ekosistemini bozmadan Echo 4. Nesil'e göre belirgin biçimde daha iyi müzik sunuyor."
+    },
+    {
+      "label": "Platform bağımsızlığını koruyup sesi öne alanlar",
+      "offerId": "sonos-era-100",
+      "reason": "Açılı tweeter'lar, Trueplay oda kalibrasyonu ve AirPlay 2'nin yanında Alexa ile Google yönlendirmesi, tek bir bulut ekosistemine bağlanmadan en geniş ses kalitesini veriyor."
+    }
+  ]
 }

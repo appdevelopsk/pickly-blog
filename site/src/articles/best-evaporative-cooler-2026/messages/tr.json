@@ -1,5 +1,137 @@
 {
   "title": "En İyi Buharlaşmalı Soğutucu 2026: 5 Model Karşılaştırması",
   "description": "Hessaire MC37M/MC61M, Honeywell CO60PM, NewAir AF-1000W ve Portacool Cyclone 130 karşılaştırıldı. Önce neme bakın: bu teknolojinin işe yarayıp yaramayacağını nem belirler.",
-  "lede": "Buharlaşmalı soğutucu bir klima değildir. Suyu buharlaştırarak serinletir; hava ne kadar nemliyse o kadar az iş görür — kapalı bir odada durumu daha da kötüleştirir."
+  "lede": "Buharlaşmalı soğutucu bir klima değildir. Suyu buharlaştırarak serinletir; hava ne kadar nemliyse o kadar az iş görür — kapalı bir odada durumu daha da kötüleştirir.",
+  "methodology": "Bu ürünlerin hiçbirini kendimiz test etmedik. Dürüst bir test için kedi bahçelerine sensörlü bir kabin, evaporatif soğutucular için kalibre edilmiş bir yaş termometre düzeneği, hack squat makineleri için de kuvvet plakalı yüklü bir kızak gerekirdi; bunların hiçbiri elimizde yok. Bunun yerine şunu yaptık: her üreticinin kendi ürün sayfasından ve kullanım kılavuzundan yayımlanmış tüm teknik verileri topladık, güncel fiyatları büyük satıcıların listeleriyle karşılaştırdık ve kullanıcı yorumlarını yüksek hacimde okuduk; bunlarda ilk hafta izlenimlerini değil, ölçülebilir bir arızayı ya da tekrar eden bir şikâyeti anlatanları süzdük. Bir rakam bağımsız ölçüm değil de üreticinin iddiasıysa, bunu metinde açıkça belirtiyoruz.",
+  "sections": [
+    {
+      "heading": "Başka hiçbir şeye bakmadan önce nemi kontrol edin",
+      "paragraphs": [
+        "Evaporatif soğutma, sıvı suyu buhara çevirip bunun için gereken gizli ısıyı havadan çekerek çalışır. Bu enerjinin bir yerden gelmesi gerekir ve hava sıcaklığından gelir. Yani soğutma kapasitesini, havanın hâlâ ne kadar su emebileceği belirler: kuru termometre ile yaş termometre sıcaklığı arasındaki fark.",
+        "Kuru iklimde bu fark büyüktür ve etki çarpıcıdır: 38°C ve %15 bağıl nemle giren hava, pedden gözle görülür biçimde serinlemiş olarak çıkar. Nemli iklimde ise fark küçüktür, su yavaş buharlaşır ve elinize geçen şey odayı rutubetlendiren bir vantilatör olur. Daha pahalı bir cihaz almak bunu değiştirmez; mesele imalat kalitesi değil, termodinamik.",
+        "Pratik kural: bağıl nem kabaca %50'nin altındayken bu cihazlar hakkını verir, %70'in üstündeyken fiyatı ne olursa olsun vermez. Satın almadan önce yıllık ortalamaya değil, tipik bir sıcak gün için yerel hava tahminine bakın; çünkü önemli olan, tam da soğutmaya ihtiyaç duyduğunuz andaki nem oranıdır."
+      ]
+    },
+    {
+      "heading": "Havalandırma tercih değil, zorunluluk",
+      "paragraphs": [
+        "Bu, bir klimanın çalışma mantığının tam tersidir ve en sık yapılan hata da burada. Klima kapalı bir odada havayı devridaim ettirir. Evaporatif soğutucu ise nemlendirdiği havayı sürekli dışarı atmak zorundadır; yoksa odanın nemi yükselir, cihaz soğutmayı bırakıp sadece rutubetli hava üflemeye başlar.",
+        "Genel kural, cihazın kabaca karşısında, tüm hava debisini dışarı verecek büyüklükte bir açık pencere ya da kapı bulundurmaktır. Bu yüzden bu cihazların yeri kapısı aralık bir garaj, bir atölye ya da üstü kapalı bir terastır: havanın zaten değiştiği alanlar.",
+        "Bu aynı zamanda gruptaki atölye sınıfı cihazların neden bir odanın ihtiyacından çok daha yüksek hava debisine sahip olduğunu da açıklıyor. Bunlar havayı mekânın içinde döndürmek için değil, mekânın içinden geçirmek için tasarlanmış."
+      ]
+    },
+    {
+      "heading": "Pedler, su tüketimi ve kimsenin hesaba katmadığı bakım",
+      "paragraphs": [
+        "Sarf malzemesi soğutma pedi. Tüketici cihazlarındaki ince kavak ya da selüloz pedler düzenli kullanımda kabaca yılda bir değişmek ister; Portacool gibi ticari bir cihazdaki kalın rijit medya daha uzun ömürlüdür ama değişimi daha pahalıdır. Her iki durumda da kireç tutup sertleşmiş bir ped su emmeyi bırakır ve cihazın performansını sessizce yarıya düşürür.",
+        "Su tüketimi hafife alınacak bir konu değil, baştan planlayın. Orta boy bir cihaz kuru sıcakta aralıksız çalıştığında büyük bir depoyu bir günde bitirir; Hessaire modellerindeki hortum bağlantısının göründüğünden daha önemli olmasının nedeni bu. Yaklaşık 38 litrelik bir depoyu her gün elle doldurmak insanı çabuk bezdiriyor.",
+        "Suyu sert olan bölgelerde depo ve pompanın belirli aralıklarla kireçten arındırılması gerekir; kaldırmadan önce de cihaz birkaç dakika kuru çalıştırılmalı, yani pompa kapalı fan açık bırakılmalıdır. Aksi hâlde ped kış boyunca küflenir. Kullanıcı şikâyetlerinin çoğu bu atlanan bakım adımına dayanıyor."
+      ]
+    },
+    {
+      "heading": "CFM'e göre boyutlandırma ve buz haznesi aslında ne işe yarar",
+      "paragraphs": [
+        "Bu cihazlar BTU ile değil, hava debisi cinsinden CFM (dakikada fit küp) ile derecelendirilir; çünkü çıkışları sabit bir soğutma kapasitesi değildir, giren havaya bağlıdır. Başlangıç noktası olarak, mekândaki havayı kabaca iki dakikada bir yenileyecek kadar debi hedefleyin: odanın metreküp cinsinden hacmini 30 ile çarpıp 60'a bölün. İki araçlık bir garaj tipik olarak 3.000 CFM (yaklaşık 5.100 m³/saat) civarına denk gelir; yani tam MC37M'in sahası.",
+        "NewAir gibi küçük cihazlara konan buz hazneleri küçük ve kısa süreli bir fark yaratır. Suyu soğutmak başlangıçta üfleme havasının sıcaklığını biraz düşürür ama asıl işi yapan buharlaşma hızıdır ve soğuk su daha yavaş buharlaşır. Bunu bir kapasite özelliği değil, konfor özelliği olarak görün."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Evaporatif soğutucu benim yaşadığım yerde işe yarar mı?",
+      "a": "Yıllık ortalamaya değil, tipik bir sıcak öğleden sonranın bağıl nemine bakın. Kabaca %50'nin altında bu cihazlar iyi iş çıkarır; %70'in üstünde çoğunlukla sadece nem ekler. Bunu fizik belirliyor, daha pahalı bir cihaz da bu sınırı aşamaz."
+    },
+    {
+      "q": "Pencereyi açık bırakmam gerekiyor mu?",
+      "a": "Evet ve en sık yapılan hata da bu. Klimadan farklı olarak evaporatif soğutucu, nemlendirdiği havayı dışarı atmak zorundadır. Kapalı bir odada nem yükselir, soğutma durur ve elinizde rutubetli hava üfleyen bir vantilatör kalır."
+    },
+    {
+      "q": "Ne kadar su tüketiyorlar?",
+      "a": "Orta boy bir cihaz kuru sıcakta aralıksız çalıştığında 38 litrelik bir depoyu bir gün içinde bitirebilir. Bahçe hortumu bağlantısının önemi burada: kullanıcıları ilk bıktıran şey her gün elle su doldurmak oluyor."
+    },
+    {
+      "q": "Pedler ne sıklıkta değişmeli?",
+      "a": "Düzenli kullanımda ince kavak ya da selüloz pedler için kabaca yılda bir; ticari cihazlardaki kalın rijit medyada daha uzun. Kireçten sertleşmiş bir ped su emmeyi bırakır ve belirgin hiçbir işaret vermeden performansı yarıya düşürür."
+    }
+  ],
+  "products": {
+    "hessaire-mc37m": {
+      "badge": "🏆 Genel olarak en iyisi",
+      "review": "MC37M, çoğu alıcının aslında ihtiyaç duyduğu boyut: iki araçlık bir garaja ya da üstü kapalı bir terasa yetecek hava debisi, günün büyük kısmını çıkaracak kadar büyük bir depo ve kova taşımaktan kurtaran bir bahçe hortumu bağlantısı. Salon değil, atölye standartlarında üretilmiş; görünümü sade ve sessiz değil. Tasarlandığı alan için ikisi de sorun sayılmaz.",
+      "pros": [
+        "Garaj veya kapalı teras için doğru hava debisi",
+        "Hortum bağlantısı günlük su doldurma derdini ortadan kaldırıyor",
+        "Fiyatına göre büyük depo"
+      ],
+      "cons": [
+        "Yüksek devirde gürültülü",
+        "İşlevsel ama sade görünüm",
+        "Yatak odası için fazla büyük ve fazla gürültülü"
+      ]
+    },
+    "hessaire-mc61m": {
+      "badge": "🏭 Geniş alanlar için en iyisi",
+      "review": "MC61M, aynı tasarımın açık atölye alanları ve açık hava etkinlikleri için büyütülmüş hâli. Ev içi bir mekân için almak neredeyse her zaman hata olur; bir evin dışarı atabileceğinden fazla hava hareket ettirir, yani kapalı alanda tam kapasite çalıştıramazsınız. Yerine oturduğu ortamlarda ise büyük deposu sayesinde gün boyu başında durmadan çalıştırmak mümkün.",
+      "pros": [
+        "Açık alanlar için çok yüksek hava debisi",
+        "Büyük depo, gün boyu başında durmadan çalıştırmaya imkân veriyor",
+        "MC37M ile aynı, kendini kanıtlamış tasarım"
+      ],
+      "cons": [
+        "Ev içi odalar için fazlasıyla yüksek debi",
+        "Ağır, yerini değiştirmek zahmetli",
+        "Buradaki en yüksek su tüketimi"
+      ]
+    },
+    "honeywell-co60pm": {
+      "badge": "🏠 İç mekân kullanımı için en iyisi",
+      "review": "CO60PM, buradaki cihazlar arasında göz önünde durmak ve birlikte yaşamak üzere tasarlanmış olanı: salınımlı kanatlar, uzaktan kumanda, daha sessiz çalışma ve atölyeye değil odaya yakışan bir görünüm. Bedeli kapasiteden ödeniyor; Hessaire modellerine göre gözle görülür biçimde daha az hava hareket ettiriyor. Kuru bir iklimde penceresi açık bir salon için doğru tercih; sıcak bir garajda ise hayal kırıklığı yaratır.",
+      "pros": [
+        "Buradaki en sessiz ve en iyi işçilikli model",
+        "Salınımlı kanatlar ve uzaktan kumanda",
+        "Yaşam alanına uygun"
+      ],
+      "cons": [
+        "Atölye sınıfı cihazlardan düşük hava debisi",
+        "Yine de açık pencere gerektiriyor",
+        "Depo, hava debisinin düşündürdüğünden küçük"
+      ]
+    },
+    "newair-af-1000w": {
+      "badge": "💵 En ucuzu",
+      "review": "AF-1000W, küçük depolu ve buz hazneli, tek oda için bir kule model. Giriş seviyesi ve yanlış iş için satın alınma ihtimali en yüksek olan cihaz; sıcak bir garaja koyarsanız pratikte hiçbir şey yapmaz. İçinden hava akan küçük ve kuru bir odada ise yeterli ve ucuz. Buz haznesi bir kapasite özelliği değil, konfor özelliği.",
+      "pros": [
+        "Buradaki en düşük fiyat",
+        "Az yer kaplayan kule gövde",
+        "Taşıması ve kaldırması kolay"
+      ],
+      "cons": [
+        "Garaj veya teras için çok küçük",
+        "Küçük depo sık sık doldurmayı gerektiriyor",
+        "Buz haznesi gerçek kapasiteye pek katkı sağlamıyor"
+      ]
+    },
+    "portacool-cyclone-130": {
+      "badge": "🛠️ En iyi yapı kalitesi",
+      "review": "Portacool ticari sınıf seçenek ve bunun nedeni pedi: kalın rijit Kuul medya, tüketici cihazlarındaki ince pedlerden daha fazla su emip tutuyor; uzun süreli çalışmada soğutma performansını asıl belirleyen de bu. Daha ağır ve daha pahalı, yedek pedi de ciddi bir masraf kalemi. Yaz boyunca aralıksız çalışan bir atölye için dayanan model bu.",
+      "pros": [
+        "Kalın rijit medya pedi uzun çalışmalarda daha iyi performans veriyor",
+        "Ticari yapı, servis edilebilir parçalar",
+        "Gün boyu istikrarlı çıkış"
+      ],
+      "cons": [
+        "Buradaki en pahalı model",
+        "Yedek pedler maliyetli",
+        "Ağır; öyle keyfî olarak yerini değiştireceğiniz bir şey değil"
+      ]
+    }
+  },
+  "offerNotes": {
+    "hessaire-mc37m": "Hessaire'in MC serisindeki rakamlar depo ve hava debisi büyüklüğünü belirtir; MC37M ile MC26M fotoğraflarda neredeyse birebir aynı görünüyor.",
+    "hessaire-mc61m": "Sipariş vermeden önce kargo ölçülerine bakın; bazı ilanlarda navlun boyutunda bir ürün olarak geçiyor.",
+    "honeywell-co60pm": "Honeywell bu kategoride adını lisanslıyor; sadece markaya değil, model koduna bakarak eşleştirin.",
+    "newair-af-1000w": "Aynı teknik özelliklerle, biraz farklı kodlar altında beyaz ve siyah seçenekleriyle satılıyor.",
+    "portacool-cyclone-130": "Yedek Kuul pedler ayrı satın alınıyor; almadan önce ilgili modelin ped stok durumunu kontrol edin."
+  },
+  "pinDescription": "Evaporatif soğutucu klima değildir. Suyu buharlaştırarak serinletir; yani çalışıp çalışmayacağına havanın nemi karar verir ve kapalı oda değil, açık pencere ister. Hava debisi, ped ve depo üzerinden 5 model karşılaştırıldı."
 }

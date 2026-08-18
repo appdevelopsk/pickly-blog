@@ -2,5 +2,146 @@
   "title": "2026'nın en iyi örme hırka: 5 ürün karşılaştırma",
   "description": "Loro Piana, Todd Snyder, Uniqlo, J.Crew, Naadam ürünlerini karşılaştırdık. 2026'da örme hırka için kaşmir kalitesi ve tüylenme direnci açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Kaşmir kalite seviyeleri",
+      "paragraphs": [
+        "Zirve (Loro Piana): İtalya'da eğrilmiş kaşmir, daha uzun elyaf, neredeyse hiç boncuklanmıyor. 1.295 dolardan başlayan fiyat.",
+        "Premium (Todd Snyder, Naadam): Moğol A kalite kaşmir, çift kat (2 kat). 200-500 dolar.",
+        "Pamuk (J.Crew): pamuklu hırka, kaşmir yok. Ayrı bir kategori — ilkbahar/yaz için daha uygun.",
+        "Akrilik-yün karışımı (Uniqlo 3D Knit): sentetik içerikli, ama dikişsiz 3D örgü yapısı kendine has."
+      ]
+    },
+    {
+      "heading": "Her kullanım için en iyisi",
+      "paragraphs": [
+        "En iyi premium: Loro Piana Cashmere (1.295-1.795 dolar). İtalyan eğrimi kaşmir, boncuklanma minimum.",
+        "En iyi Amerikan klasiği: Todd Snyder Cashmere (498-598 dolar). Moğol kaşmiri, New York markası.",
+        "En iyi fiyat/performans: Uniqlo 3D Knit (60-80 dolar). En düşük fiyata dikişsiz yapı.",
+        "En iyi pamuklu: J.Crew Cotton Cardigan (98-128 dolar). İlkbahar/yaz kullanımı için.",
+        "Moğol kaşmirinde en iyi değer: Naadam (198-248 dolar). Doğrudan üreticiden tedarik."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kaşmir ödediğin farkı gerçekten hak ediyor mu?",
+      "a": "Soğuk bir iklimde yaşıyorsan ve yılda 30 günden fazla giyeceksen evet. Kaşmir gram başına yünden daha sıcak tutar ve ucuz merinosa göre daha az boncuklanır. Premium markaların 200 dolar üzeri kaşmirleri fiyat/kalite dengesinin en tatlı noktası."
+    },
+    {
+      "q": "Hırkanın boncuklanmasını nasıl önlerim?",
+      "a": "Tersyüz yıkayın, düz serip kurutun, asmak yerine katlayarak saklayın. Boncukları erkenden almak için kaşmir tarağı kullanın. Koltuk altı boncuklanması kaçınılmaz — her kaşmirde olur."
+    },
+    {
+      "q": "'2 kat' kaşmir ne demek?",
+      "a": "Birbirine bükülmüş iki iplik demek. 2 kat premium standarttır (daha yoğun, daha az boncuklanır). 1 kat daha ince olur ve daha çok boncuklanır. Premium hırkaların hepsi (Naadam, Todd Snyder, Loro Piana) 2 kat."
+    },
+    {
+      "q": "Kaşmiri makinede yıkayabilir miyim?",
+      "a": "Uzmanların çoğu hayır diyor — sadece elde yıkayın. Yine de bazı 2 kat kaşmirler hassas programda kaşmir şampuanıyla sorunsuz çıkabiliyor. Çekme riski var; 500 dolarlık bir parça için göze alınmaz."
+    }
+  ],
+  "products": {
+    "loro-piana-cashmere-cardigan": {
+      "badge": "👑 En iyi premium",
+      "review": "Loro Piana Cashmere Cardigan kaşmirin zirvesi. İtalya'da eğrilmiş uzun elyaflı kaşmir, V yaka ya da şal yaka seçenekleri, zamanla daha da güzelleşen bir dökümü var. Koltuk altlarında bile neredeyse hiç boncuklanmıyor. 1.295 dolar tuzlu bir rakam ama malzeme kalitesi tekstil sektörünün tepe noktasında.",
+      "pros": [
+        "İtalya'da eğrilmiş uzun elyaflı kaşmir",
+        "Dökümü zamanla iyileşiyor",
+        "Boncuklanma minimum"
+      ],
+      "cons": [
+        "1.295 dolardan başlayan zirve fiyat",
+        "Yıkarken özen istiyor"
+      ]
+    },
+    "todd-snyder-cashmere-cardigan": {
+      "badge": "🇺🇸 En iyi klasik",
+      "review": "Todd Snyder Cashmere Cardigan doğru premium Amerikan kaşmiri. Moğol kaşmiri, klasik şal yaka, New York markası. Loro Piana'nın yarı fiyatına benzer bir dokunuş ve premium his.",
+      "pros": [
+        "Moğol kaşmiri",
+        "Klasik şal yaka",
+        "New York marka geçmişi"
+      ],
+      "cons": [
+        "498-598 dolar, orta-premium bant",
+        "Loro Piana'ya göre daha ince örgü"
+      ]
+    },
+    "uniqlo-3d-knit-cardigan": {
+      "badge": "💸 En iyi fiyat/performans",
+      "review": "Uniqlo 3D Knit Crew Cardigan fiyat/performansta doğru tercih. Dikişsiz 3D örgü yapısı (omuz dikişi yok = daha iyi döküm), yumuşak akrilik-yün karışımı, modern kalıp. 80 doların altındaki en iyi hırka.",
+      "pros": [
+        "Dikişsiz 3D örgü yapısı",
+        "Yumuşak akrilik-yün karışımı",
+        "60-80 dolar, en iyi değer"
+      ],
+      "cons": [
+        "Akrilik-yün (%100 yün değil)",
+        "Sezonluk stok"
+      ]
+    },
+    "jcrew-cotton-cardigan": {
+      "badge": "☀️ İlkbahar/yaz için en iyisi",
+      "review": "J.Crew Cotton Cardigan sıcak havalar için doğru seçim. Pima pamuğu, klasik V yaka kesim, çok sayıda renk. Yünden hafif — mevsim geçişlerinde, ilkbahar ve yazda rahat rahat giyilir. Kaşmir kadar premium değil ama zaten amacı o değil.",
+      "pros": [
+        "Pima pamuğu (nefes alıyor)",
+        "Klasik V yaka kesim",
+        "Çok sayıda renk"
+      ],
+      "cons": [
+        "Sert kış için yeterince sıcak değil",
+        "Yün kadar premium değil"
+      ]
+    },
+    "naadam-cashmere-cardigan": {
+      "badge": "🐎 Moğol kaşmirinde en iyi değer",
+      "review": "Naadam Cashmere Cardigan Moğol kaşmirinde doğru fiyat/performans tercihi. Doğrudan üreticilerden alınan A kalite kaşmir (Naadam üreticilere %50 fazla ödüyor), 2 kat yapı. 200 dolara premium bir his. Bu fiyat aralığındaki rakiplerinden daha az boncuklanıyor.",
+      "pros": [
+        "Doğrudan üreticiden Moğol kaşmiri",
+        "2 kat yapı",
+        "200 dolara premium değer"
+      ],
+      "cons": [
+        "Loro Piana kadar marka prestiji yok",
+        "J.Crew'e göre daha az renk seçeneği"
+      ]
+    }
+  },
+  "offerNotes": {
+    "loro-piana-cashmere-cardigan": "Loro Piana butiklerinden ya da yetkili lüks satıcılardan alın (Mr Porter, Net-a-Porter).",
+    "todd-snyder-cashmere-cardigan": "toddsnyder.com'dan alınabiliyor. Sezon sonu indirimlerinde %30-50 iniyor.",
+    "uniqlo-3d-knit-cardigan": "uniqlo.com'da sezonluk olarak satışta.",
+    "jcrew-cotton-cardigan": "jcrew.com'da satışta. Sık sık 60-80 dolara düşüyor.",
+    "naadam-cashmere-cardigan": "naadam.co'da satışta. Sık indirimlerde fiyat 150 dolar civarına iniyor."
+  },
+  "pinDescription": "Kaşmir hırka alacaksan önce şunu oku: Loro Piana, Todd Snyder, Uniqlo, J.Crew ve Naadam yan yana. Hangisi boncuklanmıyor, hangisi kaç kışlık? Elyaf kalitesi, örgü sıklığı ve giyim başına maliyet tek tabloda.",
+  "recommendedFor": [
+    {
+      "label": "Ömürlük gardırop parçasına yatırım yapan lüks tüketiciler",
+      "offerId": "loro-piana-cashmere-cardigan",
+      "reason": "Loro Piana'nın İtalya'da eğrilmiş uzun elyaflı kaşmiri neredeyse hiç boncuklanmıyor, dökümü yıllar içinde daha da güzelleşiyor — gerçek anlamda bir kere alınıp yıllarca giyilen bir parça."
+    },
+    {
+      "label": "Marka geçmişine önem veren, tarzı olan profesyoneller",
+      "offerId": "todd-snyder-cashmere-cardigan",
+      "reason": "Todd Snyder'ın New York marka geçmişi ve klasik şal yakası, zirve lüksün yarı fiyatına toplantı odasında hak ettiğiniz ciddiyeti veriyor."
+    },
+    {
+      "label": "Her gün giyecek dayanıklı bir parça arayan bütçeye dikkat edenler",
+      "offerId": "uniqlo-3d-knit-cardigan",
+      "reason": "Dikişsiz 3D örgü omuz dikişini ortadan kaldırıp dökümü iyileştiriyor, üstelik 60-80 dolara — günlük rotasyona sokmak cebi yakmıyor."
+    },
+    {
+      "label": "Sıcak iklimde yaşayanlar ve ilkbaharda ofise gidenler",
+      "offerId": "jcrew-cotton-cardigan",
+      "reason": "Pima pamuğunun nefes alabilirliği sayesinde bu liste içinde ilkbahar-yaz geçişinde terletmeden giyilebilecek tek hırka bu."
+    },
+    {
+      "label": "250 doların altında etik üretim premium kaşmir arayanlar",
+      "offerId": "naadam-cashmere-cardigan",
+      "reason": "Naadam doğrudan üreticiden alıyor ve yetiştiricilere %50 fazla ödüyor; 2 kat A kalite kaşmiri bu fiyattaki rakiplerinden daha az boncuklanıyor."
+    }
+  ]
 }

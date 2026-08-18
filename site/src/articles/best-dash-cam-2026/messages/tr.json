@@ -121,5 +121,32 @@
     "vantrue-n4-3ch": "amazon.com'dan satın alın. Doğrudan kablolama kiti ($30) önerilir — kutudan çıktığı gibi yalnızca darbe park modunu destekler.",
     "viofo-a129-pro-duo": "amazon.com veya viofo.com'dan satın alın. Doğrudan kablolama kiti ($25) park modunu destekler."
   },
-  "pinDescription": "2026'nın en iyi araç kamerası: Garmin 67W vs Nextbase 622GW vs BlackVue DR900X vs Vantrue N4 vs Viofo A129 Pro — 8,000 millik test, plaka okunabilirliği + ısı dayanımı."
+  "pinDescription": "2026'nın en iyi araç kamerası: Garmin 67W vs Nextbase 622GW vs BlackVue DR900X vs Vantrue N4 vs Viofo A129 Pro — 8,000 millik test, plaka okunabilirliği + ısı dayanımı.",
+  "recommendedFor": [
+    {
+      "label": "Araç içi çekim de isteyen ticari sürücüler",
+      "offerId": "vantrue-n4-3ch",
+      "reason": "Üç kanal aynı anda önü, kabini ve arkayı kaydediyor; kabin tarafında kızılötesi gece görüşü de var. Uber ve taksi sürücüleri için tam koruma."
+    },
+    {
+      "label": "Aracını sokakta, açık alanda park edenler",
+      "offerId": "blackvue-dr900x-2ch",
+      "reason": "Biri aracınıza çarptığı anda telefonunuza bulut üzerinden bildirim düşüyor. Siz sokağın öbür ucundayken bile olaya anında müdahale edebiliyorsunuz."
+    },
+    {
+      "label": "Direksiyondan elini çekmek istemeyen teknoloji meraklıları",
+      "offerId": "garmin-dash-cam-67w",
+      "reason": "Sesli komutlar gerçekten çalışıyor; cihaza dokunmadan kayıt saklayabiliyorsunuz. Üstüne GPS takibi ve sürücü uyarıları da Garmin kalitesinde."
+    },
+    {
+      "label": "Güvenliği önceleyen ve uzun yol yapan sürücüler",
+      "offerId": "nextbase-622gw",
+      "reason": "Ciddi bir çarpışmada SOS Response otomatik olarak acil servisleri haberdar ediyor. Tenha yollarda tek başınıza seyahat ederken hayat kurtarabilecek bir özellik."
+    },
+    {
+      "label": "Bütçesini zorlamak istemeyen, ılıman iklimdeki sürücüler",
+      "offerId": "viofo-a129-pro-duo",
+      "reason": "Önde 2K, arkada 2K görüntü veriyor; üstelik BlackVue'nun yaklaşık yarı fiyatına. Çift kanallı kayıt için fazla para harcamanıza gerek kalmıyor."
+    }
+  ]
 }

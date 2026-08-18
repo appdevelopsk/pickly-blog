@@ -1,5 +1,132 @@
 {
   "title": "En İyi Portatif Klima 2026: 5 Model Karşılaştırması",
   "description": "Teknik veri karşılaştırması: Midea Duo, Whynter ARC-14S, LG, Honeywell ve Black+Decker. ASHRAE ile SACC farkı ve çift hortumun neden daha verimli olduğu.",
-  "lede": "Etikette yazan soğutma gücü gerçek güç değildir. Farkın nereden geldiği ve beş modelin her birinin hangi oda büyüklüğüne uyduğu burada."
+  "lede": "Etikette yazan soğutma gücü gerçek güç değildir. Farkın nereden geldiği ve beş modelin her birinin hangi oda büyüklüğüne uyduğu burada.",
+  "methodology": "Kendi ısıl testlerimizi veya yük testlerimizi yapmadık. Bunu dürüstçe yapmak, klimalar için kalibre edilmiş bir psikrometrik test odası, Smith makineleri için de yük hücreli ölçüm düzeneği gerektirirdi; ikisi de elimizde yok. Bunun yerine şunu yaptık: her üreticinin kendi ürün sayfasından ve kullanım kılavuzundan yayımlanmış tüm teknik özellikleri topladık, güncel fiyatları büyük satıcı listeleriyle karşılaştırdık ve kullanıcı yorumlarını toplu halde okuduk — ilk hafta izlenimlerini değil, ölçülebilir bir arızayı ya da tekrar eden bir şikâyeti anlatan yorumları öne çıkararak. Bir rakam bağımsız bir ölçüm değil de üreticinin beyanıysa, bunu metinde açıkça belirtiyoruz.",
+  "sections": [
+    {
+      "heading": "ASHRAE BTU mu, SACC mi — asıl önemli olan rakam",
+      "paragraphs": [
+        "Portatif klimalar ASHRAE BTU değeriyle reklam edilir; bu, cihazın odaya geri saldığı ısıyı hesaba katmayan laboratuvar koşullarında ölçülmüş bir rakamdır. ABD Enerji Bakanlığı ikinci bir değeri, yani baca ısı kazancını ve dışarıdan hava sızmasını dikkate alan SACC (Mevsimsel Düzeltilmiş Soğutma Kapasitesi) değerini zorunlu tutuyor. Tek hortumlu cihazlarda SACC değeri genellikle ASHRAE rakamının yarısı ile üçte ikisi arasında bir yere düşer.",
+        "İşte bu yüzden 8.000 BTU'luk bir portatif ile 8.000 BTU'luk bir pencere tipi klima karşılaştırılabilir ürünler değildir. Pencere tipi cihaz boşluğa oturur ve sıcak havayı bina kabuğunun dışına atar; portatif cihaz ise odanın içinde durur, kompresör ısısını odaya yayar ve tek hortumlu modelde kondenser havasını soğutmaya çalıştığı odadan çeker — bu da yerine geçmek üzere binadaki her boşluktan şartlandırılmamış dış havayı içeri emer.",
+        "Pratik kural: Bir portatifi pencere tipiyle karşılaştırırken SACC değerine bakın ve gerçek rakam olarak onu kabul edin. Portatifleri birbiriyle karşılaştırırken ASHRAE'yi ASHRAE ile kıyaslamak sorun değil — yeter ki hortum sayısını da hesaba katın."
+      ]
+    },
+    {
+      "heading": "Tek hortum mu, çift hortum mu",
+      "paragraphs": [
+        "Tek hortumlu cihaz oda havasını kondenserin üzerinden geçirip dışarı üfler. Bu havanın yerine bir şey gelmesi gerekir ve yerine gelen şey içeri sızan dış havadır. Sonuç olarak tek hortumlu portatif, odada hafif bir negatif basınç oluşturur ve tam da atmaya çalıştığı ısıyı sürekli içeri taşır.",
+        "Çift hortumlu cihaz ise kondenser havasını bir kanaldan dışarıdan alır, diğerinden dışarı atar; böylece oda basıncı aşağı yukarı nötr kalır. Bu gruptaki Midea Duo ve Whynter ARC-14S çift hortumlu; LG, Honeywell ve Black+Decker tek hortumlu.",
+        "Çift hortumun avantajı sıcaklık farkı büyüdükçe artar. Ilıman koşullarda fark göz ardı edilebilecek kadar küçüktür. Gerçekten sıcak bir odada ise fark şudur: cihaz ya yetişir ya da ayarlanan sıcaklığa hiç ulaşamadan aralıksız çalışır."
+      ]
+    },
+    {
+      "heading": "Inverter mi sabit devir mi — ve bunun sese etkisi",
+      "paragraphs": [
+        "Sabit devirli kompresör ya tam güçte çalışır ya da durur. Ayarlanan sıcaklığa ulaşır, durur, sıcaklık kayar, tekrar devreye girer — ve her devreye giriş döngünün en gürültülü anıdır. Inverter kompresör ise gücünü kademeli ayarlar; oda ayarlanan sıcaklığa geldiğinde açılıp kapanmak yerine alçak ve sürekli bir uğultuya yerleşir.",
+        "Midea Duo ve LG LP1419IVSM inverter; Whynter, Honeywell ve Black+Decker sabit devirli. Cihaz yatak odasına girecekse bu ayrım, beyan edilen değerdeki iki desibellik farktan daha önemlidir; çünkü beyan edilen değer tam güçte ölçülür ve gece üçte gerçekten duyacağınız devreye girip çıkma davranışını anlatmaz."
+      ]
+    },
+    {
+      "heading": "Su tahliyesi, baca bağlantısı ve kimsenin bahsetmediği kurulum",
+      "paragraphs": [
+        "Her portatif cihaz su yoğuşturur. Modern modellerin çoğu bunun büyük kısmını egzoz havasıyla buharlaştırır, ama nemli koşullarda hepsinde er ya da geç haznenin boşaltılması veya yer süzgecine bir hortum çekilmesi gerekir. Satın almadan önce modelin sürekli yerçekimli tahliyeyi destekleyip desteklemediğine bakın — sonradan çözmeye çalışmak can sıkıcıdır.",
+        "Gözden kaçan ikinci konu pencere kiti. Kutudan çıkan kitler standart giyotin ve sürme pencerelere uyar; kanatlı (menteşeli) pencereler genellikle özel bir panel ister. Kitin düzgün sızdırmaz hale getirilmesi çoğu alıcının sandığından çok daha önemlidir; çünkü yalıtılmamış bir kit egzoz ısısını doğrudan içeri geri verir ve cihazın kapasitesinin kayda değer bir bölümünü boşa çıkarır."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Portatif klima, pencere tipine göre mantıklı mı?",
+      "a": "Yalnızca pencere tipi bir seçenek değilse: kanatlı pencereler, kiracı kısıtlamaları ya da cihazı odalar arasında taşımanız gereken durumlar. Aynı kapasitede pencere tipi cihaz daha sessiz, daha ucuz ve belirgin biçimde daha verimlidir; çünkü soğuttuğu odanın içinde durmuyordur."
+    },
+    {
+      "q": "Çift hortuma ihtiyacım var mı?",
+      "a": "Oda düzenli olarak gerçekten sıcak oluyorsa evet. Çift hortum, cihazın dışarı attığı havanın yerine dış havayı içeri çekmesini engeller. Ilıman koşullarda ya da küçük ve iyi yalıtılmış bir odada tek hortumlu cihaz yeterli ve daha ucuzdur."
+    },
+    {
+      "q": "Hangi kapasiteyi almalıyım?",
+      "a": "ASHRAE değerini değil SACC değerini esas alın ve ortalama bir oda için metrekare başına kabaca 215 BTU'dan yola çıkın. Güneş alan bir oda, en üst kat ya da mutfak için kapasite ekleyin; gölgede kalan iç odalarda düşürün."
+    },
+    {
+      "q": "Oda neden ayarlanan sıcaklığa hiç ulaşmıyor?",
+      "a": "Sıklık sırasıyla üç olağan şüpheli: egzoz ısısını içeri geri veren yalıtılmamış pencere kiti, hava sızması hesaba katıldığında ısı yüküne yetmeyen tek hortumlu cihaz ve tıkanmış filtre. Önce pencere yalıtımına bakın — düzeltmesi bedava."
+    }
+  ],
+  "products": {
+    "midea-duo-map14hs1tbl": {
+      "badge": "🏆 Genel olarak en iyisi",
+      "review": "Oda gerçekten ısınıyorsa tercih Midea Duo. En önemli iki şeyi bir arada sunuyor: çift hortumlu kanal düzeni ve inverter kompresör. Yani ne dışarıdan hava içeri çekiyor ne de ayarlanan sıcaklıkta gürültüyle devreye girip çıkıyor. Isı pompası modu, ara mevsimlerde de işinize yarıyor. Buradaki en pahalı cihaz ve fiziksel olarak epey iri.",
+      "pros": [
+        "Çift hortum ve inverter — asıl fark yaratan iki özellik",
+        "Isı pompası modu serin havalarda da kullanım sağlıyor",
+        "Gerçekten sıcak koşullarda ayarlanan sıcaklığı koruyor"
+      ],
+      "cons": [
+        "Bu gruptaki en pahalı model",
+        "İri ve ağır"
+      ]
+    },
+    "whynter-arc-14s": {
+      "badge": "💰 En iyi çift hortum fiyat/performans",
+      "review": "ARC-14S, çift hortuma ucuz yoldan geçiş. Piyasada yeterince uzun süredir olduğu için arıza biçimleri kullanıcı yorumlarında iyice belgelenmiş durumda ve asıl önemli işi yapıyor: odanın basıncını düşürmüyor. Vazgeçtiğiniz şey inverter kademelemesi; yani sabit bir uğultuya yerleşmek yerine duyulur şekilde açılıp kapanıyor.",
+      "pros": [
+        "Daha uygun fiyata çift hortum",
+        "Uzun geçmiş, iyi belgelenmiş davranış",
+        "Basit ve servis edilebilir tasarım"
+      ],
+      "cons": [
+        "Sabit devirli kompresör duyulur şekilde devreye girip çıkıyor",
+        "Kontrol arayüzü eskimiş"
+      ]
+    },
+    "lg-lp1419ivsm": {
+      "badge": "🔇 En sessiz tek hortumlu",
+      "review": "Belirleyici unsur gürültüyse ve çift hortumlu kurulum pratik değilse tercih LG. Çift inverter kompresör açılıp kapanmak yerine gücünü kademeliyor; geceleri duyduğunuz şey tam olarak bu. Tek hortumlu olduğu için yine de yerine geçecek havayı dışarıdan çekiyor; yani sıcak oda cihazı olmaktan çok iyi bir yatak odası cihazı.",
+      "pros": [
+        "Inverter kompresör, ayarlanan sıcaklıkta sessiz",
+        "Sağlam uygulama ve zamanlama özellikleri",
+        "İyi yapım kalitesi"
+      ],
+      "cons": [
+        "Tek hortum, sıcak koşullarda kapasiteyi sınırlıyor",
+        "Tek hortumlu bir cihaz için yüksek fiyat"
+      ]
+    },
+    "honeywell-hl10cesw": {
+      "badge": "🛏️ Küçük odalar için en iyisi",
+      "review": "Honeywell salon için değil yatak odası için ölçülendirilmiş; doğru okuma biçimi de bu. Sadece nem alma modu, odanın sıcak olmadığı ama rahatsız edici olduğu nemli iklimlerde gerçekten işe yarıyor; yıkanabilir filtre de işletme maliyetini düşük tutuyor. Büyük ya da güneş alan bir oda için almayın.",
+      "pros": [
+        "Küçük bir yatak odası için doğru kapasite",
+        "İşe yarayan sadece nem alma modu",
+        "Yıkanabilir filtre"
+      ],
+      "cons": [
+        "Büyük odalar için yetersiz güçte",
+        "Sabit devirli, duyulur şekilde devreye girip çıkıyor"
+      ]
+    },
+    "blackdecker-bpact08wt": {
+      "badge": "💵 En ucuzu",
+      "review": "BPACT08WT giriş noktası ve ASHRAE-SACC farkının beklentileri en çok yerle bir ettiği cihaz — gerçek kapasite, kutudaki rakamın kabaca yarısı. Küçük, gölgede kalan, iyi yalıtılmış bir oda için alınırsa sorun yok. Kutudaki rakama bakılarak alınırsa hayal kırıklığı yaratır.",
+      "pros": [
+        "Buradaki en düşük fiyat",
+        "Hafif ve taşıması kolay",
+        "Basit kumandalar"
+      ],
+      "cons": [
+        "Gerçek kapasite ASHRAE değerinin çok altında",
+        "Tek hortum, sabit devir",
+        "Küçük bir odadan büyük her yerde zorlanıyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "midea-duo-map14hs1tbl": "Hem Duo hem MAP14HS1TBL adıyla satılıyor — model kodunu kontrol edin, ısı pompasız sürümü neredeyse birebir aynı görünüyor.",
+    "whynter-arc-14s": "ARC-14S ile ARC-14SH arasındaki fark ısıtıcı işlevi; ilanın hangisine ait olduğunu doğrulayın.",
+    "lg-lp1419ivsm": "LG teknik föyünde hem ASHRAE hem DOE/SACC değerlerini veriyor — karşılaştırmayı DOE değeri üzerinden yapın.",
+    "honeywell-hl10cesw": "Bu Honeywell serisindeki model kodları satıcıya göre değişiyor; sonekten çok BTU değerini eşleştirin.",
+    "blackdecker-bpact08wt": "Odanın kapasitesini belirlemeden önce ilandaki SACC değerine bakın."
+  },
+  "pinDescription": "Portatif klima kutusundaki BTU rakamı, gerçekte aldığınız kapasite değil. ASHRAE ile SACC farkı ne anlama geliyor, çift hortum neden önemli ve odanın gerçekten soğuyup soğumayacağını belirleyen rakamlara göre 5 model karşılaştırması."
 }

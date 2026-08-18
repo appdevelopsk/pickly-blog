@@ -2,5 +2,144 @@
   "title": "2026'nın en iyi vadesiz hesap: 5 ürün karşılaştırma",
   "description": "Schwab, Ally, Chase, SoFi, Wells Fargo ürünlerini karşılaştırdık. 2026'da vadesiz hesap için ücretler, ATM erişimi ve APY açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Dijital bankalar mı, geleneksel bankalar mı?",
+      "paragraphs": [
+        "Dijital bankalar (Ally, SoFi, Schwab): aylık ücret yok, daha yüksek faiz (%0,10-4,20), şube yok ama Zelle ve güçlü online araçlar var.",
+        "Geleneksel bankalar (Chase, Wells Fargo): fiziksel şube ve yüz yüze hizmet var, ama aylık 10-12 dolar ücret alıyorlar (düzenli para girişi veya bakiye şartıyla muaf tutulabiliyor)."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi?",
+      "paragraphs": [
+        "Çok seyahat edenler için: Schwab Bank. Dünyanın her yerinde sınırsız ATM ücreti iadesi, yurt dışı işlem komisyonu yok.",
+        "En iyi dijital banka: Ally Bank. %0,10-0,25 faiz, 0 dolar aylık ücret, 43 binden fazla ücretsiz ATM.",
+        "Büyük bankayla çalışmak isteyene: Chase Total Checking. 4.700'den fazla şube, geniş ATM ağı.",
+        "Hepsi bir arada: SoFi. Birikim tarafında %4,20'ye varan faiz, sıfır ücret.",
+        "Wells Fargo müşterileri için: Wells Fargo Everyday. 4.700'den fazla şube."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Birden fazla vadesiz hesabım olmalı mı?",
+      "a": "Çoğu kişi için evet: ana vadesiz hesap + seyahat hesabı (Schwab) + dijital birikim hesabı (Ally/SoFi). Hiç ücret ödemeden farklı avantajların hepsinden yararlanmış olursunuz."
+    },
+    {
+      "q": "Dijital bankalar güvenli mi?",
+      "a": "Evet. FDIC güvencesi 250 bin dolara kadar geçerli, geleneksel bankalarla aynı. Dijital bankaların işletme maliyeti düşük olduğu için daha iyi faiz verebiliyorlar."
+    },
+    {
+      "q": "Vadesiz hesapta faiz oranı ne kadar önemli?",
+      "a": "Pek değil. Vadesiz hesap likidite içindir, getiri için değil. Hesapta 2-4 bin dolar tutup gerisini yüksek faizli birikim hesabına aktarın. Vadesizdeki faiz, birikim hesabındaki kadar önemli değil."
+    },
+    {
+      "q": "Zelle ile Venmo arasındaki fark ne?",
+      "a": "Zelle bankadan bankaya çalışır (ayrı hesap açmaya gerek yok, ücretsiz). Venmo ise ayrı bir hesap; Venmo kullanıcıları arasında daha hızlı ama bankaya çekmek daha yavaş. Büyük bankaların çoğu Zelle destekliyor."
+    }
+  ],
+  "products": {
+    "schwab-bank-checking": {
+      "badge": "🏆 Seyahat edenler için en iyisi",
+      "review": "Schwab Bank Investor Checking, sık yurt dışına çıkanların hesabı. Aylık ücret yok, dünya genelinde sınırsız ATM ücreti iadesi var (istediğiniz ATM'yi kullanın, Schwab ay sonunda ücreti geri yatırıyor) ve banka kartında yurt dışı işlem komisyonu alınmıyor. ABD'deki en iyi seyahat vadesiz hesabı.",
+      "pros": [
+        "Dünya genelinde sınırsız ATM ücreti iadesi",
+        "Yurt dışı işlem komisyonu yok",
+        "0 dolar aylık ücret"
+      ],
+      "cons": [
+        "Fiziksel şubesi yok",
+        "Açmak için Schwab yatırım hesabı gerekiyor"
+      ]
+    },
+    "ally-bank-checking": {
+      "badge": "🌐 En iyi dijital banka",
+      "review": "Ally Bank Interest Checking, dijital bankacılıkta doğru tercih. %0,10-0,25 faiz, 0 dolar aylık ücret, 43.000'den fazla ücretsiz ATM (AllPoint ağı) ve ağ dışında ayda 10 dolara kadar ATM ücreti iadesi. Mobil uygulaması güçlü, sağlam bir dijital banka.",
+      "pros": [
+        "%0,10-0,25 faiz",
+        "0 dolar aylık ücret",
+        "43.000'den fazla ücretsiz ATM"
+      ],
+      "cons": [
+        "Fiziksel şubesi yok",
+        "Ağ dışı ATM iadesi ayda 10 dolarla sınırlı"
+      ]
+    },
+    "chase-total-checking": {
+      "badge": "🏛️ En iyi büyük banka",
+      "review": "Şubeye gidip işlem yapmayı önemsiyorsanız Chase Total Checking size göre. 4.700'den fazla şube, 16.000'den fazla ATM ve dönem dönem 200-300 dolarlık açılış bonusu. Aylık ücret 12 dolar; 500 dolar düzenli maaş/para girişi veya 1.500 dolar bakiye ile muaf. Kredi kartı ve konut kredisini aynı çatıda toplamak isteyene ideal.",
+      "pros": [
+        "4.700'den fazla şube",
+        "16.000'den fazla Chase ATM'si",
+        "Düzenli olarak açılış bonusu veriliyor"
+      ],
+      "cons": [
+        "Aylık 12 dolar ücret (muafiyet mümkün)",
+        "Dijital bankalara göre düşük faiz"
+      ]
+    },
+    "sofi-checking": {
+      "badge": "🎯 En iyi kombine ürün",
+      "review": "Tek üründe hem vadesiz hem birikim isteyenler için SoFi Checking and Savings doğru seçim. Birikim tarafında %4,20'ye varan faiz, sıfır aylık ücret, vadesiz ve birikim tek hesapta. SoFi üyelik avantajları diğer ürünlerinde de (kredi, yatırım vb.) geçerli.",
+      "pros": [
+        "Birikimde %4,20'ye varan faiz",
+        "Sıfır ücret",
+        "Tüm SoFi ürünlerinde üyelik avantajları"
+      ],
+      "cons": [
+        "Fiziksel şubesi yok",
+        "Faiz oranı kampanyalara göre değişiyor"
+      ]
+    },
+    "wells-fargo-everyday-checking": {
+      "badge": "🏛️ Wells Fargo müşterilerine",
+      "review": "Zaten Wells Fargo müşterisiyseniz Everyday Checking mantıklı. 4.700'den fazla şube ve geniş bir ATM ağı var. Aylık ücret 10 dolar; düzenli para girişi veya 500 dolar bakiye ile muaf. Chase'e yakın bir paket, ama Wells'in kendi avantajlarıyla (online araçlar, kredi kartları).",
+      "pros": [
+        "4.700'den fazla şube",
+        "Geniş ATM ağı",
+        "Wells Fargo ürünleriyle entegrasyon"
+      ],
+      "cons": [
+        "Aylık 10 dolar ücret",
+        "Geçmişteki marka tartışmaları"
+      ]
+    }
+  },
+  "offerNotes": {
+    "schwab-bank-checking": "schwab.com üzerinden açılıyor. Bağlı bir Schwab yatırım hesabı gerekiyor (onda da minimum bakiye şartı yok).",
+    "ally-bank-checking": "ally.com üzerinden açılıyor. Tamamen online, şubesi yok.",
+    "chase-total-checking": "chase.com üzerinden veya şubeden açabilirsiniz. Açılış bonusları (verildiği dönemlerde) belirli şartların yerine getirilmesini istiyor.",
+    "sofi-checking": "sofi.com üzerinden açılıyor. SoFi üyelik avantajları diğer SoFi ürünlerinde de geçerli.",
+    "wells-fargo-everyday-checking": "wellsfargo.com üzerinden veya şubeden açabilirsiniz."
+  },
+  "pinDescription": "Yurt dışında ATM ücreti ödemekten bıktınız mı? 2026'nın en iyi 5 vadesiz hesabı: Schwab, Ally, Chase, SoFi ve Wells Fargo — ücret, ATM ve faiz karşılaştırması tek tabloda.",
+  "recommendedFor": [
+    {
+      "label": "Yurt dışında sık sık ATM kullanan gezginler",
+      "offerId": "schwab-bank-checking",
+      "reason": "Schwab dünyanın her yerindeki ATM ücretlerini ay sonunda geri yatırıyor ve banka kartında hiç yurt dışı işlem komisyonu almıyor."
+    },
+    {
+      "label": "Tüm banka işlerini online halletmeyi seven uzaktan çalışanlar",
+      "offerId": "ally-bank-checking",
+      "reason": "Ally'nin sıfır aylık ücreti, %0,25 faizi ve 43.000'den fazla ücretsiz ATM'si sayesinde şubeye hiç uğramadan eksiksiz bankacılık yapabiliyorsunuz."
+    },
+    {
+      "label": "İlk kredi kartı ilişkisini kuran genç profesyoneller",
+      "offerId": "chase-total-checking",
+      "reason": "Chase'in 4.700'den fazla şubesi ve düzenli verdiği 200-300 dolarlık açılış bonusları, kredi kartını da aynı hesapta toplamayı kolaylaştırıyor."
+    },
+    {
+      "label": "Vadesiz ve yüksek faizli birikimi tek uygulamada isteyenler",
+      "offerId": "sofi-checking",
+      "reason": "SoFi'nin kombine hesabı birikim tarafında %4,20'ye varan faiz veriyor; ücret yok, kredi ve yatırımda da üyelik avantajları geçerli."
+    },
+    {
+      "label": "Halihazırda Wells Fargo kredisi veya kartı olanlar",
+      "offerId": "wells-fargo-everyday-checking",
+      "reason": "Wells Fargo'nun 4.700'den fazla şubesi ve entegre online araçları, mevcut müşterilerin bankacılık, kredi kartı ve konut kredisini tek yerde toplamasını sağlıyor."
+    }
+  ]
 }

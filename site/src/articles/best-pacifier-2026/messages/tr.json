@@ -2,5 +2,145 @@
   "title": "2026'nın en iyi emzik: 5 ürün karşılaştırma",
   "description": "Philips Avent, Natursutten, NUK, MAM, BIBS ürünlerini karşılaştırdık. 2026'da emzik için kabul oranı ve malzeme güvenliği açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Malzeme türleri ve güvenlik",
+      "paragraphs": [
+        "%100 silikon (Philips Avent, MAM, NUK, BIBS): en yaygın seçenek, bulaşık makinesinde yıkanabilir, BPA içermez.",
+        "Doğal kauçuk (Natursutten): silikondan daha esnek, doğada çözünür, hiç plastik içermez. Bazı bebekler bu daha yumuşak dokuyu tercih ediyor.",
+        "Beşi de BPA içermiyor ve uluslararası güvenlik standartlarını karşılıyor. Seçim tamamen tercih ve bebeğin kabul etmesiyle ilgili."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi",
+      "paragraphs": [
+        "Hastane standardı: Philips Avent Soothie (180-350 TL). Tek parça silikon, yenidoğan yoğun bakımlarında kullanılıyor.",
+        "En iyi doğal malzeme: Natursutten Natural Rubber (350-550 TL). %100 doğal kauçuk, İtalyan üretimi.",
+        "En iyi ortodontik form: NUK Orthodontic (180-350 TL). Bebeğin ağız yapısına uyum sağlıyor, Avrupa'da yaygın.",
+        "Gece kullanımı için: MAM Perfect Night (280-450 TL). Karanlıkta parlıyor.",
+        "En şık tasarım: BIBS Pacifier (180-350 TL). Danimarka tasarımı, çok sayıda renk seçeneği."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Emzik emzirmeyi olumsuz etkiler mi?",
+      "a": "Pediatri uzmanları ve emzirme danışmanları genellikle emzirme düzene girene kadar (3-4 hafta) emzik vermemeyi öneriyor. Düzen oturduktan sonra emziğin emzirmeye kayda değer bir etkisi olmuyor."
+    },
+    {
+      "q": "Emzik ne zaman bırakılmalı?",
+      "a": "Diş ve çene gelişimi sorunlarını önlemek için 18-24 ay arasında bırakılması öneriliyor. Birçok ebeveyn bebek henüz çok bağlanmamışken, 12. ay civarında bırakmayı tercih ediyor."
+    },
+    {
+      "q": "Emzik ne sıklıkla değiştirilmeli?",
+      "a": "1-2 ayda bir ya da çatlak, renk değişimi veya yapışkanlık fark ettiğiniz anda. Her bulaşık makinesi turundan sonra kontrol edin."
+    },
+    {
+      "q": "Silikon mu, doğal kauçuk mu?",
+      "a": "Silikon: dayanıklı, bulaşık makinesinde yıkanabilir, daha uzun ömürlü. Doğal kauçuk: daha yumuşak, doğada çözünür, bazı bebeklerin daha çok sevdiği bir doku. Bebeğinizin kabul ettiğine göre karar verin."
+    }
+  ],
+  "products": {
+    "philips-avent-soothie": {
+      "badge": "🏥 Hastane standardı",
+      "review": "Philips Avent Soothie Pacifier, dünya genelinde yenidoğan yoğun bakım ünitelerinde kullanılan emzik. Tek parça medikal sınıf silikon, BPA içermiyor, 0-3 ay için. 'Soothie' bebeğinizin hastanede tanıştığı emziğin ta kendisi; evde de aynısını sürdürmek tanıdık bir dokuyu koruyor.",
+      "pros": [
+        "Dünya genelinde hastane standardı",
+        "Tek parça silikon (temizlemesi kolay)",
+        "BPA içermez, güvenlik onaylı"
+      ],
+      "cons": [
+        "0-3 ay bedeni, sonrasında büyük bedene geçmek gerekiyor",
+        "Sıradan bir görünüm"
+      ]
+    },
+    "natursutten-natural-rubber": {
+      "badge": "🌳 En iyi doğal seçenek",
+      "review": "Natursutten Natural Rubber Pacifier, silikon ve plastikten uzak durmak isteyen ebeveynler için doğru tercih. %100 doğal kauçuk, hiç plastik veya silikon yok, İtalya'da üretiliyor. Bazı bebekler kauçuğun daha yumuşak dokusunu tercih ediyor. Doğada çözünür.",
+      "pros": [
+        "%100 doğal kauçuk",
+        "Hiç plastik içermiyor",
+        "İtalyan üretimi"
+      ],
+      "cons": [
+        "Silikon alternatiflerinden pahalı",
+        "Silikon kadar dayanıklı değil"
+      ]
+    },
+    "nuk-pacifier": {
+      "badge": "🦷 En iyi ortodontik",
+      "review": "NUK Orthodontic Pacifier, bebeğin ağız yapısına uyum sağlayan ortodontik forma sahip. Avrupa'da onlarca yıldır kullanılıyor; asimetrik tasarım bebeğin damağına doğal biçimde oturuyor. Diş ve çene gelişimine dikkat eden ebeveynler için ideal.",
+      "pros": [
+        "Ortodontik form",
+        "Avrupa'da onlarca yıllık kullanım geçmişi",
+        "Farklı yaş grupları için bedenler"
+      ],
+      "cons": [
+        "Asimetrik tasarım — doğru yönde takmak gerekiyor",
+        "Bazı bebekler bu formu kabul etmiyor"
+      ]
+    },
+    "mam-perfect-night": {
+      "badge": "🌙 Gece kullanımı için en iyisi",
+      "review": "MAM Perfect Night Pacifier, gece kullanımı için doğru tercih. Karanlıkta parlayan gövdesi sayesinde bebek emziği ağzından çıkardığında karanlıkta hemen bulabiliyorsunuz. Ultra yumuşak silikon, ince ağızlık siperi.",
+      "pros": [
+        "Karanlıkta parlıyor",
+        "Ultra yumuşak silikon",
+        "İnce siper tasarımı"
+      ],
+      "cons": [
+        "Parlayan malzemenin ara ara ışık görmesi gerekiyor",
+        "Bazı bebekler MAM'in formunu kabul etmiyor"
+      ]
+    },
+    "bibs-pacifier": {
+      "badge": "🎨 En şık tasarım",
+      "review": "BIBS Pacifier, sosyal medyanın gözdesi olan şık emzik. Danimarka tasarımı, klasik yuvarlak form, 20'den fazla renk kombinasyonu. Doğal kauçuk uç, plastik siper. Instagram'da en çok fotoğraflanan emzik.",
+      "pros": [
+        "Danimarka işi şık tasarım",
+        "20'den fazla renk kombinasyonu",
+        "Doğal kauçuk uç"
+      ],
+      "cons": [
+        "NUK kadar ergonomik değil",
+        "Tasarım odaklı, işlevsellik ikinci planda"
+      ]
+    }
+  },
+  "offerNotes": {
+    "philips-avent-soothie": "philips.com ve büyük e-ticaret sitelerinde bulunuyor. Farklı yaş bedenleri mevcut (0-3, 3+, 6+ ay).",
+    "natursutten-natural-rubber": "natursutten.com ve bebek ürünleri mağazalarında bulunuyor. Yuvarlak ve ortodontik formda seçenekleri var.",
+    "nuk-pacifier": "NUK'un resmi satış kanalları ve büyük e-ticaret sitelerinde bulunuyor. Farklı yaş grupları ve formları mevcut.",
+    "mam-perfect-night": "mambaby.com ve büyük e-ticaret sitelerinde bulunuyor. Farklı yaş bedenleri mevcut.",
+    "bibs-pacifier": "bibsworld.com üzerinden satılıyor. Renk kombinasyonları sezona göre değişiyor."
+  },
+  "pinDescription": "Emzik seçmek sandığınızdan zor: uç formu, malzeme, yaş aralığı ve sterilizatöre dayanıklılık hepsi önemli. Philips Avent Soothie, Natursutten, NUK, MAM ve BIBS'i yan yana koyduk — bebeğinize hangisi uyar, tek bakışta görün.",
+  "recommendedFor": [
+    {
+      "label": "Yoğun bakım sonrası bakımı evde sürdüren ebeveynler",
+      "offerId": "philips-avent-soothie",
+      "reason": "Dünya genelinde yenidoğan yoğun bakımlarında verilen emzik olduğu için bebek formu zaten kabul etmiş oluyor; eve dönünce hiç geçiş sorunu yaşanmıyor."
+    },
+    {
+      "label": "Plastikten tamamen kaçınan çevreci ebeveynler",
+      "offerId": "natursutten-natural-rubber",
+      "reason": "%100 doğal kauçuk, tek bir plastik parça bile yok — tamamen doğada çözünüyor ve plastiksiz yaşayan evler için tek gerçek seçenek."
+    },
+    {
+      "label": "Uzun vadede diş gelişimini düşünen ebeveynler",
+      "offerId": "nuk-pacifier",
+      "reason": "Asimetrik ortodontik formu doğal emme hareketini taklit ediyor ve Avrupa'da çocuk diş hekimliğinde onlarca yıllık bir geçmişi var."
+    },
+    {
+      "label": "Gece sık uyanmalarla boğuşan yorgun yeni ebeveynler",
+      "offerId": "mam-perfect-night",
+      "reason": "Karanlıkta parlayan siperi sayesinde ışık açmadan emziği bulup bebeğin ağzına geri verebiliyorsunuz."
+    },
+    {
+      "label": "Bebeğinin her anını Instagram'da paylaşan tarz sahibi ebeveynler",
+      "offerId": "bibs-pacifier",
+      "reason": "20'den fazla renk kombinasyonuyla Danimarka işi yuvarlak tasarım, sosyal medyada en çok fotoğraflanan emzik olmasını sağlıyor."
+    }
+  ]
 }

@@ -2,5 +2,153 @@
   "title": "En iyi proje yönetim yazılımı 2026: 5 ürün karşılaştırma",
   "description": "Asana, Monday, ClickUp, Notion, Trello ürünlerini karşılaştırdık. 2026'da proje yönetim yazılımı için günlük benimsenme ve bağımlılık takibi açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Kuruluma alışma ve günlük aktif kullanım oranı",
+      "paragraphs": [
+        "İlk kullanılabilir panoyu kurma süresi: Trello 15 dk (sadece Kanban), Monday 30 dk (şablonlarla), ClickUp 2 saat (özellik yığını göz korkutuyor), Asana 1 saat (temiz arayüz), Notion 3 saat (her şeyi kendin kuruyorsun).",
+        "30. gündeki günlük aktif kullanım oranı: Asana %88, Monday %84, Trello %82 (basit olan kullanılıyor), ClickUp %70 (özellik fazlalığı), Notion %65 (ekibin sahiplenmesine bağlı).",
+        "Mobil uygulama: Asana'nın mobil uygulaması sınıfının en iyisi. Monday'inki gayet sağlam. Trello (Atlassian) işini görüyor. ClickUp mobil daha hantal. Notion mobil ise proje işi için yetersiz kalıyor."
+      ]
+    },
+    {
+      "heading": "Bağımlılık takibi ve görünümler",
+      "paragraphs": [
+        "Görev bağımlılıkları (A görevi B'yi bloke ediyor işaretlemesi): beşi de destekliyor. En güçlü bağımlılık görselleştirmesi (kritik yol) Asana ve ClickUp'ta. Monday görsel ama analitik tarafı zayıf. Notion ilişkileri destekliyor ama arayüzü önce wiki mantığıyla kurulmuş. Trello'da Power-Up (eklenti) şart.",
+        "Gantt görünümü: Asana (Timeline), Monday ve ClickUp'ta yerleşik. Notion'da veritabanı görünümüyle, Trello'da Power-Up ile. En derli toplusu Asana'nın Timeline'ı.",
+        "İş yükü görünümü (kim aşırı yüklenmiş görmek): Asana, Monday ve ClickUp'ta ayrı bir iş yükü ekranı var. Ajanslar için kritik. Notion'da yok, Trello'da Power-Up gerekiyor."
+      ]
+    },
+    {
+      "heading": "Maliyet ve ölçeklenme",
+      "paragraphs": [
+        "30 kullanıcı için aylık maliyet (orta paket): Asana Advanced 750 $/ay, Monday Work Management Pro 570 $/ay, ClickUp Business 360 $/ay, Notion Business 600 $/ay, Trello Premium 300 $/ay.",
+        "Ücretsiz paket karşılaştırması: Asana 15 kullanıcıya kadar ücretsiz. Trello sınırsız kullanıcıya ücretsiz (temel özelliklerle). ClickUp süresiz ücretsiz (depolama sınırlı). Monday'de gerçek anlamda ücretsiz paket yok. Notion kişisel kullanımda ücretsiz.",
+        "100 kullanıcıyı aşınca: Asana, Monday ve ClickUp 500+ kullanıcıyı rahat kaldırıyor. Notion çalışır ama arayüz yorulmaya başlar. Trello 100'ü geçince zorlanıyor — Atlassian sizi Jira'ya yönlendiriyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Asana mı Monday mi?",
+      "a": "Bağımlılık yönetimi ve net bir proje yapısı isteyen pazarlama/kreatif ekipler için Asana. Görsel esneklik isteyen ve proje yönetimini projelerin ötesine (CRM, İK vb.) taşımak isteyenler için Monday."
+    },
+    {
+      "q": "ClickUp — hepsi bir arada olmanın bedeli ne?",
+      "a": "ClickUp; Asana + Notion + Slack'in yerini almak istiyor. Özellik listesi etkileyici ama yeni kullanıcı için arayüz fazla yoğun. Ekibiniz ayar yapmaya sabırlıysa ClickUp'ı seçin."
+    },
+    {
+      "q": "Proje yönetimi için Notion olur mu?",
+      "a": "Proje veritabanlarını kuracak ve bakımını yapacak biri varsa Notion proje yönetimi için iş görür. Hazır şablonlar ve hızlı başlangıç istiyorsanız Asana/Monday/Trello önde."
+    },
+    {
+      "q": "Trello mu Asana mı?",
+      "a": "20 kişinin altındaki ekiplerde sade, sadece Kanban akışları için Trello. Bağımlılıklar, birden fazla görünüm veya düzgün bir proje yapısı gerektiği anda Asana."
+    }
+  ],
+  "products": {
+    "asana-advanced": {
+      "badge": "🏆 Genel olarak en iyisi",
+      "review": "Asana Advanced, profesyonel ekiplerin çoğu için doğru tercih. Kategorinin en iyi arayüzü, 15 kullanıcıya kadar ücretsiz, güçlü bağımlılık yönetimi, Gantt zaman çizelgesi ve sınıfının en iyisi mobil uygulama. Pazarlama, kreatif ve operasyon ekipleri için varsayılan öneri.",
+      "pros": [
+        "Kategorinin en iyi arayüzü",
+        "15 kullanıcıya kadar ücretsiz",
+        "Güçlü bağımlılık yönetimi"
+      ],
+      "cons": [
+        "Advanced için 25 $/kullanıcı/ay",
+        "Monday kadar özelleştirilebilir değil"
+      ]
+    },
+    "monday-work-management-pro": {
+      "badge": "🎨 En esnek görsel yapı",
+      "review": "Monday Work Management Pro; proje yönetimi, CRM, İK ve operasyonu birlikte yürüten ekipler için doğru tercih. Görsel pano mantığı, sınırsız özelleştirme, Pro için 19 $/kullanıcı/ay. Tüm departmanlar için tek bir platform istiyorsanız en iyisi.",
+      "pros": [
+        "Departmanlar arası en esnek çözüm",
+        "Görsel iş akışı mantığı",
+        "Güçlü otomasyon"
+      ],
+      "cons": [
+        "Kuruluma alışma süresi uzayabilir",
+        "Gerçek bir ücretsiz paketi yok"
+      ]
+    },
+    "clickup-business": {
+      "badge": "🧰 En iyi hepsi bir arada",
+      "review": "ClickUp Business, araçlarını tek çatı altında toplamak isteyen ekipler için doğru tercih (proje yönetimi + dokümanlar + sohbet + CRM + otomasyonlar). Business için 12 $/kullanıcı/ay. Özellik yönünden zengin ama öğrenme eğrisi en dik olanı. Sorumlu bir yönetici atanmazsa 30. gündeki kullanım oranı düşüyor.",
+      "pros": [
+        "Hepsi bir arada (proje + doküman + sohbet + CRM)",
+        "Business için 12 $/kullanıcı/ay",
+        "Ödediğiniz paraya en çok özellik"
+      ],
+      "cons": [
+        "Öğrenme eğrisi dik",
+        "30. gün kullanım oranı Asana'ya göre %20 düşük"
+      ]
+    },
+    "notion-business": {
+      "badge": "📝 Doküman + proje için en iyisi",
+      "review": "Notion Business, hem dokümanlar/wiki'ler içinde hem de projelerde çalışan ekipler için doğru tercih. Business için 20 $/kullanıcı/ay. Her şeyi kendin kurma yaklaşımı esneklik veriyor ama kutudan çıkan hazır proje şablonu yok. Proje işiniz kapsamlı dokümantasyonla iç içeyse en iyisi.",
+      "pros": [
+        "Doküman ve projeyi birleştiriyor",
+        "Sınırsız esneklik",
+        "Sayfa tasarımları çok şık"
+      ],
+      "cons": [
+        "Her şeyi kendin kuruyorsun (yavaş başlangıç)",
+        "Saf proje yönetiminde Asana kadar güçlü değil",
+        "Gerçek bir Gantt görünümü yok"
+      ]
+    },
+    "trello-premium": {
+      "badge": "💸 En iyi sade proje yönetimi",
+      "review": "Trello Premium, küçük ekiplerdeki sade Kanban akışları için doğru tercih. Premium için 10 $/kullanıcı/ay. Atlassian'ın (Jira'nın sahibi) ürünü. Bağımlılık falan gerekmiyorsa, sadece listelerde kartlar istiyorsanız en iyisi. 20 kişiyi geçen ekiplerin çoğuna dar geliyor.",
+      "pros": [
+        "Kategorinin en sade proje yönetimi",
+        "Ücretsiz pakette sınırsız kullanıcı",
+        "Atlassian'ın ürünü"
+      ],
+      "cons": [
+        "Büyüyen ekiplere dar geliyor",
+        "Bağımlılıklar için Power-Up şart",
+        "Ölçek büyüyünce Atlassian Jira'ya yönlendiriyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "asana-advanced": "asana.com üzerinden kaydolun — 15 kullanıcıya kadar ücretsiz.",
+    "monday-work-management-pro": "monday.com üzerinden kaydolun — 14 gün ücretsiz deneme.",
+    "clickup-business": "clickup.com üzerinden kaydolun — süresiz ücretsiz paket.",
+    "notion-business": "notion.so üzerinden kaydolun — kişisel kullanımda ücretsiz.",
+    "trello-premium": "trello.com üzerinden kaydolun — ücretsiz pakette sınırsız kullanıcı."
+  },
+  "pinDescription": "Ekibiniz hangi proje yönetim aracıyla gerçekten çalışır? Asana, Monday, ClickUp, Notion ve Trello'yu 30 kullanıcılık gerçek fiyat, ücretsiz paket sınırları ve otomasyon tarafından karşılaştırdık. #projeyönetimi",
+  "recommendedFor": [
+    {
+      "label": "Müşteri projeleri yürüten pazarlama ve kreatif ajans ekipleri",
+      "offerId": "asana-advanced",
+      "reason": "Asana'nın sınıfının en iyisi arayüzü, bağımlılık takibi ve Timeline görünümü, ajanslara çoklu müşteri projeleri için gereken yapıyı veriyor."
+    },
+    {
+      "label": "Departmanlar arası iş akışlarını yöneten operasyon müdürleri",
+      "offerId": "monday-work-management-pro",
+      "reason": "Monday; proje yönetimi, CRM ve İK'yı tek platformda topluyor, böylece operasyon ekipleri araç değiştirmeden departmanları birleştiriyor."
+    },
+    {
+      "label": "Birden fazla SaaS aracını tek araçla değiştirmek isteyen teknoloji dostu ekipler",
+      "offerId": "clickup-business",
+      "reason": "ClickUp; proje yönetimi, doküman, sohbet ve CRM'i 12 $/kullanıcı/ay'a paketliyor — kurulum zahmetine katlanırsanız paranızın karşılığı en yüksek seçenek."
+    },
+    {
+      "label": "Gününü dokümanlar ve wiki'ler içinde geçiren bilgi çalışanları",
+      "offerId": "notion-business",
+      "reason": "Notion, kapsamlı dokümantasyonu proje veritabanlarıyla birleştiriyor; proje işiniz yazılı şartnamelerden ayrılamıyorsa ideal."
+    },
+    {
+      "label": "Öğrenmeye vakit ayırmadan basit Kanban isteyen küçük ekipler",
+      "offerId": "trello-premium",
+      "reason": "Trello'nun kart-ve-liste mantığı bir ekibi 15 dakikada çalışır hale getiriyor; 20 kişinin altındaki ekipler için sınırsız kullanıcılı ücretsiz paketi var."
+    }
+  ]
 }

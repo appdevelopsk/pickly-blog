@@ -2,5 +2,149 @@
   "title": "En iyi alan adı kayıt şirketi 2026: 5 ürün karşılaştırma",
   "description": "Porkbun, Namecheap, Cloudflare, GoDaddy, Squarespace ürünlerini karşılaştırdık. 2026'da alan adı kayıt şirketi için yenileme fiyatı ve ek satış saldırganlığı açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Gerçek fiyatlar (giriş değil, yenileme)",
+      "paragraphs": [
+        "2. yıl .com yenileme: Porkbun 10,37 $, Cloudflare 9,77 $ (maliyetine), Namecheap 14,98 $, GoDaddy 24,99 $, Squarespace Domains 20 $.",
+        "Mutlak fiyatta kazanan Cloudflare — kayıt kuruluşu maliyetine, sıfır kâr payıyla. Püf noktası: amaçları sizi Cloudflare DNS/proxy'sine bağlamak. Kâr payını fiyatına katan sağlayıcılar arasında en ucuzu ise Porkbun.",
+        "GoDaddy'nin yenileme fiyatı (Porkbun'ın 2,4 katı) klasik kalıbın ta kendisi: giriş ucuz, yenileme pahalı. Çoğu kişi ataletten dolayı kalıyor ve alan adı başına yılda 15 $'dan fazla fazladan ödüyor."
+      ]
+    },
+    {
+      "heading": "WHOIS gizliliği",
+      "paragraphs": [
+        "Ücretsiz WHOIS gizliliği: Porkbun, Namecheap, Cloudflare, Squarespace Domains. GoDaddy'de ücretli: yılda 9,99 $.",
+        "WHOIS gizliliği adınızı, adresinizi, e-postanızı ve telefonunuzu herkese açık kayıtlardan gizler. Olmadığında iletişim bilgileriniz herkesçe aranabilir hale gelir ve spam yağmaya başlar.",
+        "GoDaddy'nin WHOIS gizliliğini paralı tutması artık devrini tamamlamış bir uygulama — modern kayıt kuruluşlarının çoğu bunu ücretsiz veriyor."
+      ]
+    },
+    {
+      "heading": "Ödeme adımındaki ek satışlar",
+      "paragraphs": [
+        "Ödeme adımındaki ek satış sayısı (reddetmek için gereken tıklamalar dahil): Porkbun 0, Cloudflare 0, Namecheap 2, GoDaddy 8+ (gizlilik, e-posta, güvenlik, kurumsal e-posta, web hosting, site kurucu, SSL, M365), Squarespace Domains 1.",
+        "En agresif ödeme akışı GoDaddy'de — farkında olmadan 50 $'ın üzerinde istemediğiniz hizmet ekleyebiliyorsunuz. Porkbun ve Cloudflare ödeme adımını tertemiz tutuyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Cloudflare mı Porkbun mı?",
+      "a": "Zaten Cloudflare DNS/proxy kullanıyorsanız Cloudflare. Kendi başına ayakta duran, başka bir platforma bağlı olmayan bir kayıt kuruluşu istiyorsanız Porkbun."
+    },
+    {
+      "q": "GoDaddy'den taşınmalı mıyım?",
+      "a": "Evet. Yıllık tasarruf: alan adı başına 15 $'dan fazla. Transfer basit bir işlem (son işlemden itibaren en az 60 gün geçmiş olmalı). Transfer ücretini genelde alan adını devralan kayıt kuruluşu karşılıyor."
+    },
+    {
+      "q": ".com hâlâ en iyi uzantı mı?",
+      "a": "Evet. Algılanan değeri en yüksek, müşterinin akılda tutması en kolay ve SEO açısından nötr olan uzantı. .io, .ai gibi diğer uzantılar belirli durumlarda gayet iş görür ama varsayılan hâlâ .com."
+    },
+    {
+      "q": "Toplu alan adı yönetimi?",
+      "a": "Toplu işlem araçları en iyi Cloudflare ve Namecheap'te. Porkbun'ın toplu işlem arayüzü giderek iyileşiyor. GoDaddy'de de var ama arayüz karmakarışık."
+    }
+  ],
+  "products": {
+    "porkbun-registrar": {
+      "badge": "🏆 En iyi fiyat/performans",
+      "review": "Uzun vadede düşük fiyat arıyorsanız doğru tercih Porkbun. 10,37 $ .com yenileme, ücretsiz WHOIS gizliliği, hosting paketiyle birlikte ücretsiz SSL, ödeme adımında sıfır ek satış. 2026'da yeni alan adları için varsayılan öneri.",
+      "pros": [
+        "Sürdürülebilir en ucuz fiyat",
+        "Ücretsiz WHOIS gizliliği",
+        "Ödeme adımında sıfır ek satış"
+      ],
+      "cons": [
+        "Namecheap'e göre daha küçük marka",
+        "Telefon desteği yok"
+      ]
+    },
+    "namecheap-registrar": {
+      "badge": "🎯 En iyi ana akım seçenek",
+      "review": "Oturmuş, ana akım bir fiyatlandırma istiyorsanız doğru tercih Namecheap. 14,98 $ .com yenileme, ömür boyu ücretsiz WHOIS gizliliği, şeffaf fiyatlandırma. DNS yönetimi güçlü. 2000'den beri istikrarlı.",
+      "pros": [
+        "Ömür boyu ücretsiz WHOIS gizliliği",
+        "Şeffaf fiyatlandırma",
+        "Güçlü DNS yönetimi"
+      ],
+      "cons": [
+        "Porkbun'dan pahalı",
+        "Ödeme adımında birkaç ek satış"
+      ]
+    },
+    "cloudflare-registrar": {
+      "badge": "💰 En iyi maliyetine seçenek",
+      "review": "Cloudflare DNS kullanıyorsanız maliyetine fiyatlandırma için doğru tercih Cloudflare Registrar. 9,77 $ .com yenileme (kayıt kuruluşu maliyeti), ücretsiz WHOIS gizliliği, sıfır kâr payı. Alan adının Cloudflare DNS kullanması şart; kayıt kuruluşu tarafında e-posta yönlendirme yok.",
+      "pros": [
+        "Maliyetine fiyat (en ucuzu)",
+        "Hiçbir ek satış yok",
+        "Ücretsiz WHOIS gizliliği"
+      ],
+      "cons": [
+        "Cloudflare DNS zorunlu",
+        "E-posta yönlendirme yok"
+      ]
+    },
+    "godaddy-registrar": {
+      "badge": "🚫 Uzak durun",
+      "review": "2026'da uzak durulması gereken kayıt kuruluşu GoDaddy. 24,99 $ .com yenileme (Porkbun'ın 2,4 katı), WHOIS gizliliği için yılda 9,99 $, 8'den fazla ek satış. Eski usul fiyat, karşılığında hiçbir ayrıcalık yok. Alan adınızı taşıyın.",
+      "pros": [
+        "Bilinirliği yüksek, köklü marka"
+      ],
+      "cons": [
+        "En yüksek yenileme fiyatı",
+        "WHOIS gizliliği ücretli",
+        "Ödeme adımında agresif ek satışlar"
+      ]
+    },
+    "google-domains-squarespace": {
+      "badge": "🪜 En iyi Google alternatifi",
+      "review": "Squarespace Domains (eski adıyla Google Domains) Google Domains'in sadeliğini devraldı. Squarespace 2023'te satın aldı. 20 $ .com yenileme, ücretsiz WHOIS gizliliği, tertemiz bir arayüz.",
+      "pros": [
+        "Google Domains arayüzünü devraldı",
+        "Ücretsiz WHOIS gizliliği",
+        "Sade ödeme akışı"
+      ],
+      "cons": [
+        "Porkbun/Cloudflare'den pahalı",
+        "Squarespace site kurucusuna yönlendirme"
+      ]
+    }
+  },
+  "offerNotes": {
+    "porkbun-registrar": "porkbun.com üzerinden kaydedin — Porkbun hosting ile birlikte gelen ücretsiz SSL paketi en iyisi.",
+    "namecheap-registrar": "namecheap.com üzerinden kaydedin — Black Friday kampanyalarını kaçırmayın.",
+    "cloudflare-registrar": "cloudflare.com üzerinden kaydedin — Cloudflare hesabı gerekiyor.",
+    "godaddy-registrar": "godaddy.com üzerinden kaydedin — ama bir yıl içinde başka yere taşıyın.",
+    "google-domains-squarespace": "squarespace.com/domains üzerinden kaydedin — eski Google Domains hesapları buraya taşındı."
+  },
+  "pinDescription": "Alan adı yenilemesine gereğinden fazla mı ödüyorsun? 2026'nın gerçek yenileme fiyatları yan yana: Porkbun, Namecheap, Cloudflare, GoDaddy, Squarespace. Ücretsiz WHOIS gizliliği kimde var, gizli ek satışlar nerede — yılda 15 $ cebinde kalsın.",
+  "recommendedFor": [
+    {
+      "label": "İlk alan adını alan bağımsız geliştiriciler ve tek kişilik girişimciler",
+      "offerId": "porkbun-registrar",
+      "reason": "Porkbun'ın 10,37 $'lık yenilemesi, sıfır ek satışı ve ücretsiz WHOIS gizliliği ilk günden itibaren maliyeti şeffaf tutuyor."
+    },
+    {
+      "label": "Güvenilir ve köklü bir kayıt kuruluşu isteyen küçük işletme sahipleri",
+      "offerId": "namecheap-registrar",
+      "reason": "Namecheap'in şeffaf fiyatlandırması ve ömür boyu ücretsiz WHOIS gizliliği, sürprizsiz ve güvenilir DNS isteyen işletmelere göre."
+    },
+    {
+      "label": "Sitelerini zaten Cloudflare proxy arkasında çalıştıran geliştiriciler",
+      "offerId": "cloudflare-registrar",
+      "reason": "Zone'unuzu zaten Cloudflare DNS yönetiyorsa 9,77 $'lık maliyetine yenileme kusursuz şekilde entegre oluyor."
+    },
+    {
+      "label": "Tanıdık ve sade bir arayüz arayan eski Google Domains kullanıcıları",
+      "offerId": "google-domains-squarespace",
+      "reason": "Squarespace Domains, Google Domains'in arayüzünü devraldı; taşınan hesaplar ücretsiz WHOIS gizliliğini koruyarak geçiyor."
+    },
+    {
+      "label": "Yenileme faturasını yarıya indirmeye hazır GoDaddy kullanıcıları",
+      "offerId": "godaddy-registrar",
+      "reason": "GoDaddy'nin 24,99 $'lık yenilemesi ve ücretli WHOIS gizliliği, alan adı başına yılda 15 $'dan fazla tasarruf için taşınmayı en net gerekçelendiren durum."
+    }
+  ]
 }

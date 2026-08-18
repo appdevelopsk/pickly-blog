@@ -2,5 +2,153 @@
   "title": "2026'nın en iyi ihtiyaç kredisi: 5 ürün karşılaştırma",
   "description": "SoFi, LightStream, Upgrade, LendingClub, Discover ürünlerini karşılaştırdık. 2026'da ihtiyaç kredisi için APR ve ücret şeffaflığı açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Gerçekte teklif edilen faiz aralıkları",
+      "paragraphs": [
+        "A profili (FICO 720) şu teklifleri aldı: SoFi %11,99, LightStream %9,49, Upgrade %14,74, LendingClub %13,42, Discover %12,99. Kredi notu yüksek başvuranlarda LightStream herkesi geride bıraktı — rakiplerin belgelenmiş faizinin 0,10 puan altına inen 'rate beat' programı gerçekten işliyor.",
+        "B profili (FICO 660) şunu aldı: SoFi reddetti (asgari kredi notunu tutturamadı), LightStream reddetti, Upgrade %22,74, LendingClub %26,42, Discover %18,99. Kredi notu orta seviyede olanlar için gerçekçi seçenekler Discover ve Upgrade.",
+        "Her kredi veren kurumun reklamını yaptığı 'başlangıç faizi'ne yalnızca başvuranların en iyi %5-10'luk dilimi ulaşabiliyor. Çoğu kişi ilan edilen taban faizin 5-10 puan üstünde bir oran görecek."
+      ]
+    },
+    {
+      "heading": "Faize dahil olmayan masraflar",
+      "paragraphs": [
+        "SoFi, LightStream ve Discover: dosya masrafı yok, erken kapama cezası yok, SoFi ve LightStream'de gecikme ücreti de yok. Masraf yapısı en temiz üçlü bunlar.",
+        "Upgrade %1,85-9,99 arası dosya masrafı kesiyor (kredi tutarından düşülüyor). 20.000 dolarlık bir kredide bu, hesabınıza 370-1.998 dolar daha az para girmesi demek. LendingClub ise %2-8 dosya masrafı alıyor; kesinti yine kredi kullandırımında yapılıyor.",
+        "Faizleri karşılaştırırken dosya masrafını mutlaka hesaba katın — Upgrade'in %8 masrafla birlikte gelen %14,74 faizi, 3 yıllık bir kredide fiilen %18,5'e yakın bir yıllık maliyete denk geliyor."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaç için hangisi",
+      "paragraphs": [
+        "Kredi notu çok iyi olanlar için (720+ FICO): %7,99-25,99 faiz aralığıyla LightStream Personal Loan. Masraf yok, üst segment başvurulara aynı gün ödeme, üstüne rate-beat garantisi.",
+        "Düzenli geliri olan üyeler için (700+ FICO): SoFi Personal Loan. Üyelik avantajları arasında ücretsiz kariyer koçluğu ve işsizlik koruması var (işinizi kaybederseniz ödemeleri 12 aya kadar durdurabiliyorsunuz).",
+        "Kredi notu orta seviyede olanlar için (640-700 FICO): %7,99-24,99 faizle Discover Personal Loan. Dosya masrafı yok, karar aynı gün çıkıyor.",
+        "Kredi geçmişi zayıf ya da lekeli olanlar için: Upgrade Personal Loan. 620 FICO'ya kadar onay veriyor, karşılığında %1,85-9,99 dosya masrafı alıyor.",
+        "Özellikle borç birleştirme için: Discover Personal Loan. Ödemeyi doğrudan alacaklılara yapıyor, süreci epey basitleştiriyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "En düşük faiz için kredi notum kaç olmalı?",
+      "a": "720+ FICO, 75 bin doların üzerinde gelir, %20'nin altında borç/gelir oranı ve en az 5 yıllık düzenli bir kredi geçmişi. 720'nin altındaysanız, ilan edilen taban faizin 2-5 puan üstünü bekleyin."
+    },
+    {
+      "q": "Kredi başvurusu kredi notumu düşürür mü?",
+      "a": "Ön faiz sorgulamaları (buradaki kurumların çoğu bunu yapıyor) notunuzu etkilemez. Yalnızca resmi başvuruda yapılan asıl sorgu FICO'ya yansır — genelde 6-12 ay boyunca 5-10 puanlık bir düşüş."
+    },
+    {
+      "q": "Kredi kartı borcunu kapatmak için ihtiyaç kredisi çekmeli miyim?",
+      "a": "Kart borçlarınızın ortalama faizi %18'in üzerindeyse ve %14'ün altında bir kredi bulabiliyorsanız hesap tutuyor. Vadeyi gerçekten kapatabileceğiniz kadar kısa tutun (genelde 24-48 ay)."
+    },
+    {
+      "q": "Krediyi erken kapatabilir miyim?",
+      "a": "Evet — SoFi, LightStream, Discover ve Upgrade'de erken kapama cezası yok. LendingClub da erken ödemeyi cezalandırmıyor. Elinizde fazladan nakit varsa erken kapatmak faizden tasarruf ettirir."
+    }
+  ],
+  "products": {
+    "sofi-personal-loan": {
+      "badge": "🏆 En iyi üyelik avantajları",
+      "review": "Kredi notunuz yüksekse ve üyelik ayrıcalıklarına değer veriyorsanız SoFi Personal Loan doğru tercih. %8,99-29,99 faiz aralığı, 5.000-100.000 dolar kredi tutarı, hiçbir ad altında masraf yok; üstüne ücretsiz kariyer koçluğu, finansal planlama ve işsizlik koruması (işinizi kaybettiğinizi belgelerseniz ödemeleri 12 aya kadar durdurabiliyorsunuz). Püf noktası: SoFi 680 FICO altındaki başvuruları genelde reddediyor ve 75 bin dolar üstü geliri tercih ediyor. Kabul ettiği kesim için piyasadaki en iyi anlaşma.",
+      "pros": [
+        "Dosya masrafı, erken kapama cezası ve gecikme ücreti yok",
+        "İşsizlik koruması dahil üyelik avantajları",
+        "5.000-100.000 dolar kredi aralığı"
+      ],
+      "cons": [
+        "Orta kredi notlu (<680) başvuruları sık sık reddediyor",
+        "LightStream'den yavaş ödeme (genelde 2-7 gün)"
+      ]
+    },
+    "lightstream-personal-loan": {
+      "badge": "💸 Yüksek kredi notunda en düşük faiz",
+      "review": "LightStream (Truist Bank'ın bir birimi) kredi notu çok iyi olanlar için bu karşılaştırmadaki en düşük faizi sunuyor: %7,99-25,99. Masraf yok, aynı gün ödeme mümkün ve rate-beat programı rakibin belgelenmiş faizinin 0,10 puan altını garanti ediyor. Dezavantajı: orta kredi notlu başvuruları (yaklaşık 700 FICO altı) kabul etmiyor, güçlü gelir ve kredi geçmişi şart koşuyor. Nitelikleri tutturuyorsanız SoFi'ye kıyasla 0,5-1,5 puan tasarruf etmeniz muhtemel.",
+      "pros": [
+        "%7,99-25,99 faiz aralığı bu karşılaştırmadaki en düşüğü",
+        "Aynı gün ödeme imkânı",
+        "Rate-beat programı (belgelenmiş rakip faizinin 0,10 puan altı)"
+      ],
+      "cons": [
+        "Katı kredi koşulları (yaklaşık 700+ FICO)",
+        "SoFi'deki gibi üyelik avantajları yok"
+      ]
+    },
+    "upgrade-personal-loan": {
+      "badge": "🪜 Orta kredi notu için en iyisi",
+      "review": "Kredi notu orta seviyede olanlar (640-700 FICO) için gerçekçi seçenek Upgrade. %8,49-35,99 faiz aralığı, 1.000-50.000 dolar kredi tutarı, 1-4 gün içinde hızlı ödeme. İşin püf noktası %1,85-9,99 arası dosya masrafı: kredi tutarından kesiliyor, yani 20.000 dolarlık kredide hesabınıza 18.000-19.630 dolar giriyor. Masrafsız kurumlarla karşılaştırmadan önce dosya masrafını dahil ederek efektif faizi hesaplayın.",
+      "pros": [
+        "Orta kredi notlu başvuruları kabul ediyor (640+ FICO)",
+        "1.000 dolara kadar düşük tutarlı krediler",
+        "1-4 günde hızlı ödeme"
+      ],
+      "cons": [
+        "%1,85-9,99 dosya masrafı",
+        "Masraflar dahil efektif faiz, ilan edilenden 1-3 puan yüksek"
+      ]
+    },
+    "lending-club-personal-loan": {
+      "badge": "🏦 Orta segment kişiden kişiye kredi",
+      "review": "LendingClub kişiden kişiye (peer-to-peer) kredi veriyor; krediniz bankadan değil yatırımcılardan fonlanıyor. %8,98-35,99 faiz, 1.000-40.000 dolar, %2-8 dosya masrafı. Bu model geleneksel bankalardan daha geniş bir kredi profiline hitap etmelerini sağlıyor ama aynı profil için fiyatlama Upgrade ile aynı ya da biraz daha kötü. Peer-to-peer yaklaşımı ilginç, fakat tüketiciye kayda değer bir fiyat avantajı olarak dönmüyor.",
+      "pros": [
+        "Geniş kredi profili yelpazesini kabul ediyor",
+        "Kefil seçeneği var (ihtiyaç kredilerinde nadir)",
+        "2007'den beri faaliyette olan köklü platform"
+      ],
+      "cons": [
+        "%2-8 dosya masrafı",
+        "Discover ve LightStream'den yavaş ödeme (3-7 gün)"
+      ]
+    },
+    "discover-personal-loan": {
+      "badge": "🏦 En iyi geleneksel banka seçeneği",
+      "review": "Discover Personal Loan bu karşılaştırmadaki en iyi geleneksel banka seçeneği. %7,99-24,99 faiz, 2.500-40.000 dolar, dosya masrafı yok, erken kapama cezası yok. Borç birleştirme kredilerinde ödemeyi doğrudan alacaklılara yapıyorlar (süreç epey basitleşiyor) ve müşteri hizmetleri gerçekten iyi (ABD merkezli, 7/24 telefon desteği). SoFi ve LightStream'e karşı tek eksiği, SoFi'deki gibi üyelik avantajları sunmaması — burada sadece düz bir kredi ürünü var.",
+      "pros": [
+        "Dosya masrafı yok, erken kapama cezası yok",
+        "Borç birleştirmede ödemeyi doğrudan alacaklılara yapıyor",
+        "7/24 ABD merkezli müşteri hizmetleri"
+      ],
+      "cons": [
+        "Azami kredi tutarı 40.000 dolar (SoFi'de 100.000 dolar)",
+        "Kredinin kendisi dışında üyelik avantajı yok"
+      ]
+    }
+  },
+  "offerNotes": {
+    "sofi-personal-loan": "Başvuru sofi.com üzerinden — kredi notunuzu etkilemeyen ön sorguyla faiz teklifi veriyorlar. SoFi üyeleri otomatik ödeme talimatı verdiğinde 0,25 puan faiz indirimi alıyor; yapmaya değer.",
+    "lightstream-personal-loan": "Başvuru lightstream.com üzerinden. Güçlü kredi profillerini özellikle ödüllendiriyorlar ve elinizde belgelenmiş bir rakip teklifi varsa çoğu zaman altına iniyorlar. Kredinin amacı da önemli: taşıt ve konut tadilat kredileri, 'genel amaçlı' kredilerden biraz daha iyi fiyatlanıyor.",
+    "upgrade-personal-loan": "Başvuru upgrade.com üzerinden. Gelir doğrulamasında Plaid kullanıyorlar, bu da ödemeyi hızlandırıyor. Kredi kartı borcunu birleştirme kredilerinde, isterseniz ödeme doğrudan alacaklılarınıza yapılıyor.",
+    "lending-club-personal-loan": "Başvuru lendingclub.com üzerinden. Platform köklü ve güvenilir ama fiyatlama 2025-2026'da rekabetçiliğini yitirdi. Bunu daha çok SoFi ve LightStream'den ret aldıysanız ve faiz Upgrade'in belirgin şekilde altındaysa değerlendirin.",
+    "discover-personal-loan": "Başvuru discover.com üzerinden. Discover faiz teklifi için kredi notunu etkilemeyen ön sorgu yapıyor. Mevcut Discover kredi kartı müşterileri biraz daha iyi fiyat görebiliyor — resmi bir indirim yok ama değerlendirme daha olumlu geçiyor."
+  },
+  "pinDescription": "İhtiyaç kredisi çekmeden önce oku: 720 ve 660 kredi notlu iki gerçek profile SoFi, LightStream, Upgrade, LendingClub ve Discover'ın verdiği faizler yan yana. Dosya masrafı tuzağı dahil.",
+  "recommendedFor": [
+    {
+      "label": "Geliri istikrarlı, kredi notu yüksek çalışanlar",
+      "offerId": "lightstream-personal-loan",
+      "reason": "LightStream'in rate-beat programı 700+ FICO'lu başvuranlara en düşük faizi garanti ediyor (%7,99'dan başlıyor) ve aynı gün ödeme sayesinde beklemek gerekmiyor."
+    },
+    {
+      "label": "İşini kaybetme ihtimaline karşı güvence arayanlar",
+      "offerId": "sofi-personal-loan",
+      "reason": "SoFi'nin işsizlik koruması, işinizi kaybederseniz ödemeleri 12 aya kadar durdurmanıza izin veriyor; buradaki başka hiçbir kurumda olmayan bir güvence."
+    },
+    {
+      "label": "Kredi notunu yeniden toparlamaya çalışanlar",
+      "offerId": "upgrade-personal-loan",
+      "reason": "Upgrade 640 FICO'ya kadar onay veriyor ve 1-4 günde ödüyor; üst segment kurumlar başvurunuzu reddettiğinde en erişilebilir seçenek."
+    },
+    {
+      "label": "Yüksek faizli kart borcunu birleştirmek isteyenler",
+      "offerId": "discover-personal-loan",
+      "reason": "Discover borç birleştirmede ödemeyi doğrudan alacaklılara yapıyor ve hiç dosya masrafı almıyor; hem işi hem peşin maliyeti azaltıyor."
+    },
+    {
+      "label": "Başvurusunu kefille güçlendirmek isteyenler",
+      "offerId": "lending-club-personal-loan",
+      "reason": "LendingClub, kefil kabul eden sayılı ihtiyaç kredisi platformundan biri; kredi geçmişi zayıf olanlara onay ya da daha düşük faiz kapısı açabiliyor."
+    }
+  ]
 }

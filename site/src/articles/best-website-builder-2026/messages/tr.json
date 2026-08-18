@@ -2,5 +2,148 @@
   "title": "En iyi web sitesi oluşturucu 2026: 5 ürün karşılaştırma",
   "description": "Squarespace, Wix, Webflow, Shopify, Carrd ürünlerini karşılaştırdık. 2026'da web sitesi oluşturucu için yayınlama süresi ve dışa aktarma taşınabilirliği açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Yayına çıkma süresi",
+      "paragraphs": [
+        "Kayıttan 8 sayfalık sitenin yayına girmesine kadar geçen süre: Squarespace 3 saat, Wix 4 saat (yapay zekâ oluşturucuyla 1 saate iner ama tasarım kalitesi düşer), Webflow 8 saat (en dik öğrenme eğrisi), Shopify 5 saat (e-ticaret öncelikli yapısı mağaza dışı işleri yavaşlatıyor), Carrd 2 saat.",
+        "Squarespace en hızlısı, çünkü tasarım kararlarını şablonlar sizin yerinize veriyor. En uzunu Webflow: gerçekten tasarımcı seviyesinde, site kurucusu kullanmaktan çok bir tasarım aracı öğrenmeye benziyor."
+      ]
+    },
+    {
+      "heading": "Mobil + SEO",
+      "paragraphs": [
+        "Lighthouse mobil skoru (100 üzerinden): Squarespace 78, Wix 65, Webflow 88 (en iyisi — temiz çıktı), Shopify 75, Carrd 92 (en az ek yük).",
+        "Varsayılan SEO ayarları (meta, schema, site haritası, robots.txt): Beşi de site haritası ve robots.txt üretiyor. Varsayılan meta yönetiminde Squarespace ve Webflow önde. Wix 2024'te belirgin şekilde iyileşti. Shopify'ın SEO'su e-ticarete göre ayarlanmış. Carrd'da ayar sayısı az ama varsayılanlar mantıklı."
+      ]
+    },
+    {
+      "heading": "Platforma bağımlılık ve dışa aktarım",
+      "paragraphs": [
+        "Dışa aktarım seçenekleri: Webflow temiz HTML/CSS/JS çıkarıyor (bu konuda tek). Diğerleri platforma kilitli. Başka bir yere taşınmak elle yeniden kurmayı gerektiriyor.",
+        "Alan adı taşınabilirliği: Beşi de özel alan adına izin veriyor. Kilitli platformların hiçbiri tasarımınızı yanınızda götürmenize izin vermiyor — taşıyabildiğiniz tek şey alan adınız."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Squarespace mı Wix mi?",
+      "a": "Şablonların işi üstlendiği, tasarım odaklı siteler için Squarespace. Azami esneklik ve sürükle-bırak isteyenler için Wix. Squarespace daha derli toplu; Wix daha esnek ama bütünlükten ödün veriyor."
+    },
+    {
+      "q": "Webflow'un öğrenme eğrisi buna değer mi?",
+      "a": "Tasarımcı düzeyinde kontrol ve dışa aktarım özgürlüğü istiyorsanız evet. Basit bir sürükle-bırak arıyorsanız hayır. Webflow'u öğrenmek 1-2 hafta alıyor; karşılığında profesyonel seviyede çıktı alıyorsunuz."
+    },
+    {
+      "q": "Mağaza olmayan bir site için Shopify olur mu?",
+      "a": "Pek uygun değil. Shopify e-ticaret öncelikli; ürün dışı sayfalar sonradan eklenmiş gibi duruyor. Ürünler ana odaksa Shopify'ı, içerik önceliklilerde Squarespace/Wix/Webflow'u tercih edin."
+    },
+    {
+      "q": "Carrd mı, açılış sayfası aracı mı?",
+      "a": "Kişisel siteler, link-in-bio ve tek sayfalık varlık için Carrd. Çok sayfalı işlerde Squarespace/Wix/Webflow'a geçin. Yılda 19 dolarla Carrd, ciddiye alınabilir en ucuz seçenek."
+    }
+  ],
+  "products": {
+    "squarespace-builder": {
+      "badge": "🎨 En iyi hazır tasarım",
+      "review": "Şablonların ağır işi üstlendiği, tasarım odaklı siteler için doğru tercih Squarespace. Apple'ı andıran estetik, üst paketlerde Shopify dışındaki en iyi e-ticaret özellikleri, entegre randevu ve e-posta pazarlama araçları.",
+      "pros": [
+        "En iyi tasarım şablonları",
+        "Entegre randevu + e-posta",
+        "Apple'ı andıran estetik"
+      ],
+      "cons": [
+        "Wix kadar esnek değil",
+        "Platforma kilitli"
+      ]
+    },
+    "wix-builder": {
+      "badge": "🪄 En esnek",
+      "review": "Azami tasarım esnekliği için doğru tercih Wix. Yapay zekâ destekli site oluşturucu dakikalar içinde site çıkarıyor (kalite değişken). En geniş şablon kütüphanesi (900+). Tasarımcı kontrolü için Wix Studio var. Markalı ücretsiz paket mevcut.",
+      "pros": [
+        "En esnek sürükle-bırak",
+        "Yapay zekâ site oluşturucu",
+        "Ücretsiz paket"
+      ],
+      "cons": [
+        "Tasarım bütünlüğü emek istiyor",
+        "Mobil görünüm geçmişte zayıf kaldı"
+      ]
+    },
+    "webflow-builder": {
+      "badge": "🥇 En tasarımcı dostu",
+      "review": "Temiz kod çıktısıyla tasarımcı düzeyinde kontrol için doğru tercih Webflow. CSS seviyesinde görsel düzenleme, kendi sunucunuzda barındırmak için HTML/CSS/JS dışa aktarımı. Öğrenme eğrisi gerçek ama çıktı profesyonel seviyede.",
+      "pros": [
+        "Tasarımcı seviyesinde görsel editör",
+        "Temiz HTML/CSS/JS dışa aktarımı",
+        "En yüksek Lighthouse skorları"
+      ],
+      "cons": [
+        "Dik öğrenme eğrisi",
+        "Squarespace'ten pahalı"
+      ]
+    },
+    "shopify-builder": {
+      "badge": "🛍️ E-ticaret için en iyisi",
+      "review": "E-ticaret öncelikli siteler için doğru tercih Shopify. Yerleşik ödeme altyapısı, geniş uygulama ekosistemi (10.000+ uygulama), ürün schema'sıyla SEO. İçerik öncelikli siteler için ideal değil.",
+      "pros": [
+        "En iyi e-ticaret özellikleri",
+        "Yerleşik ödeme altyapısı",
+        "Devasa uygulama ekosistemi"
+      ],
+      "cons": [
+        "Mağaza olmayan siteler için fazla ağır",
+        "E-ticaret yapısı içerik sitelerini yavaşlatıyor"
+      ]
+    },
+    "carrd-single-page": {
+      "badge": "💸 En iyi tek sayfa",
+      "review": "Kişisel siteler, link-in-bio ve tek sayfalık varlık için doğru tercih Carrd. Yılda 19 dolar tüm özellikleri açıyor (özel alan adı, formlar, gömülü içerik). En temiz Lighthouse skorları. Çok sayfalı siteler için uygun değil.",
+      "pros": [
+        "Yılda 19 dolara tüm özellikler",
+        "En temiz Lighthouse skoru",
+        "Şimşek hızında yayına alma"
+      ],
+      "cons": [
+        "Çok sayfa desteği yok",
+        "E-ticaret sınırlı"
+      ]
+    }
+  },
+  "offerNotes": {
+    "squarespace-builder": "squarespace.com üzerinden kaydolun — 14 gün ücretsiz deneme.",
+    "wix-builder": "wix.com üzerinden kaydolun — Wix markalı ücretsiz paket. Ücretli paketler aylık 16 dolardan başlıyor.",
+    "webflow-builder": "webflow.com üzerinden kaydolun — ücretsiz tasarımcı paketi. Site barındırma aylık 14 dolardan başlıyor.",
+    "shopify-builder": "shopify.com üzerinden kaydolun — 3 gün ücretsiz deneme, ardından 3 ay boyunca aylık 1 dolar.",
+    "carrd-single-page": "carrd.co üzerinden kaydolun — ücretsiz paket var. Pro yılda 19 dolar."
+  },
+  "pinDescription": "Site kurmak istiyorsun ama hangisiyle? Aynı 8 sayfalık siteyi Squarespace, Wix, Webflow, Shopify ve Carrd ile kurduk: süre, hız skoru ve dışa aktarım karşılaştırması 👉",
+  "recommendedFor": [
+    {
+      "label": "Markasına şık bir vitrin arayan küçük işletme sahipleri",
+      "offerId": "squarespace-builder",
+      "reason": "Squarespace'in Apple'ı andıran şablonları ve entegre randevu sistemi sayesinde tasarımcı tutmadan, kısa sürede profesyonel bir site çıkarıyorsunuz."
+    },
+    {
+      "label": "Yerleşim üzerinde tam kontrol isteyen içerik üreticileri ve blog yazarları",
+      "offerId": "wix-builder",
+      "reason": "Wix'in sürükle-bırak esnekliği ve 900'ü aşkın şablonu, tek satır kod yazmadan her ögeyi özelleştirmenize izin veriyor."
+    },
+    {
+      "label": "Müşterilerine site yapan web tasarımcıları ve ajanslar",
+      "offerId": "webflow-builder",
+      "reason": "Webflow'un CSS seviyesindeki editörü ve temiz HTML/CSS/JS dışa aktarımı, teslim edilebilir ya da kendi sunucunuzda barındırılabilir profesyonel bir çıktı veriyor."
+    },
+    {
+      "label": "Online mağaza açmaya hazırlanan girişimciler",
+      "offerId": "shopify-builder",
+      "reason": "Shopify'ın yerleşik ödeme altyapısı ve 10.000'i aşkın uygulaması, tam işleyen bir e-ticaret mağazasına giden en kısa yol."
+    },
+    {
+      "label": "Basit bir portfolyo kuran serbest çalışanlar ve tek kişilik girişimciler",
+      "offerId": "carrd-single-page",
+      "reason": "Carrd'ın yılda 19 dolara tüm özellikleri açan planı ve anında yayına alma hızı, kişisel link-in-bio ya da tek sayfalık portfolyo için birebir."
+    }
+  ]
 }

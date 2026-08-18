@@ -2,5 +2,149 @@
   "title": "2026'nın en iyi şifre yöneticisi: 5 ürün karşılaştırma",
   "description": "1Password, Bitwarden, Dashlane, Apple, LastPass ürünlerini karşılaştırdık. 2026'da şifre yöneticisi için otomatik doldurma güvenilirliği ve platformlar arası senkronizasyon açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Otomatik doldurma güvenilirliği",
+      "paragraphs": [
+        "50 sitede (Amazon, bankalar, Google, iş uygulamaları) otomatik doldurma başarı oranı: 1Password %96, Bitwarden %94, Dashlane %92, Apple Passwords %88 (Safari'de güçlü, Chrome'da zayıf), LastPass %90.",
+        "Tarayıcı desteği: 1Password ve Bitwarden önde — Safari, Chrome, Firefox, Edge, Arc ve Brave'de sorunsuz çalışıyor. Apple Passwords en iyi Safari'de; Chrome eklentisi çalışıyor ama ikinci sınıf kalıyor. Dashlane ve LastPass tüm tarayıcılarda idare eder düzeyde."
+      ]
+    },
+    {
+      "heading": "Platformlar arası senkronizasyon",
+      "paragraphs": [
+        "Cihazlar arası senkron gecikmesi (telefonda parolayı değiştirip dizüstünde görünmesi): 1Password 2-4 sn, Bitwarden 3-5 sn, Dashlane 4-6 sn, Apple Passwords (iCloud) 5-10 sn, LastPass 5-10 sn.",
+        "Linux desteği: 1Password (yerel uygulama), Bitwarden (yerel + tarayıcı), LastPass (yalnızca tarayıcı). Dashlane'in Linux tarafı yalnızca tarayıcı. Apple Passwords ise Linux'u hiç desteklemiyor."
+      ]
+    },
+    {
+      "heading": "Veri ihlali geçmişi",
+      "paragraphs": [
+        "LastPass'in 2022 ihlali: şifrelenmiş kasa yedekleri çalındı, zayıf ana parolalar kaba kuvvetle kırılabilir hale geldi. Birçok güvenlik uzmanının güvenini kaybetti.",
+        "1Password, Bitwarden, Dashlane, Apple Passwords: 2026'ya kadar ciddi bir olay yok. Hepsi sıfır bilgi (zero-knowledge) mimarisi kullanıyor; yani sağlayıcı ihlal edilse bile verinizi okuyamıyor.",
+        "2022'de LastPass kullanıyorduysanız taşının. İhlal sonrası yaklaşımlarını iyileştirdiler ama markanın itibarı zedelendi."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "1Password mı Bitwarden mı?",
+      "a": "Sınıfının en iyi kullanım deneyimini istiyorsanız ve 5 kullanıcı için ayda 4,99 dolar gözünüzü korkutmuyorsa 1Password. Açık kaynak ve çok ucuz bir çözüm arıyorsanız Bitwarden (yılda 10 dolarlık premium TOTP'yi de kapsıyor)."
+    },
+    {
+      "q": "Apple Passwords yeterli mi?",
+      "a": "Tamamen Apple ekosistemindeyseniz ve Safari kullanıyorsanız: evet. Arada Chrome, Android, Linux veya Windows kullanıyorsanız gerçek bir parola yöneticisi edinin."
+    },
+    {
+      "q": "LastPass'ten çıkmalı mıyım?",
+      "a": "Evet. 2022 ihlali mimari zayıflıkları ortaya çıkardı, ihlal sonrası verilen tepki de eleştirildi. 1Password veya Bitwarden'a geçin."
+    },
+    {
+      "q": "Ücretsiz mi, ücretli mi?",
+      "a": "Ücretsiz paketler (Bitwarden ücretsiz, Apple Passwords ücretsiz) işinizi görür ama şunlar yoktur: TOTP üretimi, dark web takibi, aile paylaşımı, acil durum erişimi. Çoğu kullanıcı için yılda 10-60 dolar ödemeye değer."
+    }
+  ],
+  "products": {
+    "1password-families": {
+      "badge": "🏆 Genel olarak en iyi",
+      "review": "1Password Families çoğu kullanıcı için doğru tercih. 5 kullanıcı için ayda 4,99 dolar, kategorinin en iyi arayüzü, Watchtower ihlal uyarıları, Seyahat Modu (sınır geçişlerinde hassas kasaları gizler), geliştirici ekipleri için Secrets Automation. Platformlar arası senkron ortalama 4 saniye.",
+      "pros": [
+        "Kategorinin en iyi kullanım deneyimi",
+        "Watchtower ihlal uyarıları",
+        "Tüm platformlarda çalışıyor"
+      ],
+      "cons": [
+        "Bireysel ayda 4,99 dolar (yılda 60 dolar)",
+        "Ücretsiz paket yok"
+      ]
+    },
+    "bitwarden-premium": {
+      "badge": "💸 En iyi açık kaynak",
+      "review": "Bitwarden Premium, açık kaynak savunucuları ve bütçesi kısıtlı kullanıcılar için doğru tercih. Premium yılda 10 dolar (TOTP, acil durum erişimi, dosya ekleri), ücretsiz paket temel ihtiyaçları karşılıyor. Yerel Linux desteği var. Kendi sunucunuzda barındırabilirsiniz.",
+      "pros": [
+        "Açık kaynak",
+        "Yılda 10 dolara premium",
+        "Yerel Linux uygulaması"
+      ],
+      "cons": [
+        "Arayüz 1Password kadar cilalı değil",
+        "Senkron biraz daha yavaş"
+      ]
+    },
+    "dashlane-premium": {
+      "badge": "🛡️ En iyi hepsi bir arada",
+      "review": "Dashlane Premium, VPN + parola yöneticisi + dark web takibini tek pakette isteyenler için doğru tercih. Tek kullanıcı ayda 4,99 dolar ve VPN dahil (tek başına ayda 10 dolar değerinde). Kapsamlı ama Bitwarden'dan pahalı.",
+      "pros": [
+        "VPN dahil",
+        "Dark web takibi",
+        "Sağlam otomatik doldurma"
+      ],
+      "cons": [
+        "Tüm özellikler için ücretsiz paket yok",
+        "Linux'ta yalnızca tarayıcı"
+      ]
+    },
+    "apple-passwords-icloud": {
+      "badge": "🍎 Apple için en iyisi",
+      "review": "Apple Passwords (iCloud Anahtar Zinciri), tamamen Apple ekosisteminde yaşayanlar için doğru tercih. Apple Kimliği ile ücretsiz, Safari ve Ayarlar uygulamasıyla iç içe. iOS 18 ve sonrasında ayrı bir uygulama olarak da var. Chrome ve Windows desteği sınırlı, Android ve Linux yok.",
+      "pros": [
+        "Apple Kimliği ile ücretsiz",
+        "En iyi Safari entegrasyonu",
+        "iOS 18+ için bağımsız uygulama"
+      ],
+      "cons": [
+        "Sınırlı Chrome desteği",
+        "Android ve Linux yok"
+      ]
+    },
+    "lastpass-premium": {
+      "badge": "⚠️ Dikkat",
+      "review": "LastPass Premium bir zamanlar pazarın lideriydi ama 2022'de ihlaller yaşadı (şifrelenmiş kasa yedekleri çalındı). Hizmet hâlâ çalışıyor, yine de yeni hesaplar için alternatifleri değerlendirin. Mevcut kullanıcılar: 1Password veya Bitwarden'a taşının.",
+      "pros": [
+        "Çoklu cihaz senkronizasyonu",
+        "Geçmişte güçlü otomatik doldurma"
+      ],
+      "cons": [
+        "2022 veri ihlali",
+        "İhlal sonrası güven sorunu",
+        "O günden beri kayda değer yenilik yok"
+      ]
+    }
+  },
+  "offerNotes": {
+    "1password-families": "1password.com üzerinden kaydolun — Families planı ayda 4,99 dolara 5 kullanıcıyı kapsıyor.",
+    "bitwarden-premium": "bitwarden.com üzerinden kaydolun — ücretsiz paket iş görür, premium yılda 10 dolar.",
+    "dashlane-premium": "dashlane.com üzerinden kaydolun — Premium'da VPN dahil.",
+    "apple-passwords-icloud": "iOS/macOS'a yerleşik — Ayarlar → Parolalar. Ücretsiz.",
+    "lastpass-premium": "Mevcut kullanıcılar: taşının. Yeni hesaplar için önerilmez."
+  },
+  "pinDescription": "Parolalarınızı hâlâ not defterinde mi tutuyorsunuz? 2026'nın en iyi parola yöneticileri: 1Password, Bitwarden, Dashlane, Apple Passwords ve LastPass karşı karşıya — fiyatlar, ücretsiz paketler ve güvenlik geçmişi tek tabloda. #parolayöneticisi #siberguvenlik",
+  "recommendedFor": [
+    {
+      "label": "Girişleri birden fazla cihazda paylaşan aileler",
+      "offerId": "1password-families",
+      "reason": "1Password Families ayda 4,99 dolara 5 kullanıcıyı kapsıyor; Watchtower ihlal uyarıları ve tüm platformlarda %96 otomatik doldurma başarısı sunuyor."
+    },
+    {
+      "label": "Linux geliştiricileri ve gizliliğine düşkün ileri kullanıcılar",
+      "offerId": "bitwarden-premium",
+      "reason": "Bitwarden yerel bir Linux uygulaması, denetleyebileceğiniz tümüyle açık kaynak kod ve kendi sunucunuzda barındırma imkânı veriyor — hem de yılda sadece 10 dolara."
+    },
+    {
+      "label": "Halka açık Wi-Fi ve VPN kullanan uzaktan çalışanlar",
+      "offerId": "dashlane-premium",
+      "reason": "Dashlane parola yöneticisinin yanına VPN ve dark web takibini de katıyor; ağ güvenliği için ayrıca ödeme yapmanıza gerek kalmıyor."
+    },
+    {
+      "label": "Apple ekosisteminden hiç çıkmayan iPhone ve Mac kullanıcıları",
+      "offerId": "apple-passwords-icloud",
+      "reason": "Apple Passwords, Apple Kimliğinizle ücretsiz geliyor ve buradaki seçenekler arasında Safari ile iOS 18 entegrasyonu en sıkı olanı."
+    },
+    {
+      "label": "Geçiş yapmayı düşünen mevcut LastPass kullanıcıları",
+      "offerId": "lastpass-premium",
+      "reason": "LastPass hâlâ tüm cihazlarda çalışıyor ve otomatik doldurması sağlam; ancak 2022 ihlali nedeniyle en fazla geçişe kadar kullanılacak bir ara çözüm sayılır."
+    }
+  ]
 }

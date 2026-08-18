@@ -115,5 +115,32 @@
     "vapur-foldable-bottle": "vapur.us, REI ve Amazon'da mevcut. Birden çok boyut (0,5L'den 1,5L'ye).",
     "larq-self-cleaning": "livelarq.com ve Amazon'da mevcut. 'Movement' (UV-C'siz) daha ucuz versiyondur; orijinal 'LARQ' UV-C içerir."
   },
-  "pinDescription": "2026'nın en iyi seyahat su şişesi: Hydro Flask vs. YETI vs. Owala vs. Vapur katlanabilir vs. LARQ UV-C."
+  "pinDescription": "2026'nın en iyi seyahat su şişesi: Hydro Flask vs. YETI vs. Owala vs. Vapur katlanabilir vs. LARQ UV-C.",
+  "recommendedFor": [
+    {
+      "label": "Sık sık kamp yapan ve doğa yürüyüşüne çıkanlar",
+      "offerId": "hydro-flask-32oz",
+      "reason": "24 saat soğuk tutması ve ömür boyu garantisi, yedeğini bulmanın mümkün olmadığı çok günlük rotalarda onu tam bir güven kaynağı yapıyor."
+    },
+    {
+      "label": "Elde bulaşık yıkamaktan nefret eden mutfak tutkunları",
+      "offerId": "yeti-rambler-26oz-bottle",
+      "reason": "YETI, buradaki premium paslanmaz çelik seçenekler arasında bulaşık makinesine girebilen tek model; her gün temizliğe harcanan zamanı gerçekten kısaltıyor."
+    },
+    {
+      "label": "Bütçesi kısıtlı öğrenciler ve her gün yolda olanlar",
+      "offerId": "owala-freesip",
+      "reason": "800-1.100 TL bandında çift modlu kapağı ve sızdırmaz tasarımıyla, premium fiyat etiketi olmadan premium özelliklerin çoğunu veriyor."
+    },
+    {
+      "label": "Ultralight kampçılar ve sadece el bagajıyla seyahat edenler",
+      "offerId": "vapur-foldable-bottle",
+      "reason": "Boşken cebe girecek kadar katlanıyor; her gramın hesaplandığı yolculuklarda hem çantada yer hem ağırlık kazandırıyor."
+    },
+    {
+      "label": "Gelişmekte olan ülkelere giden gezginler",
+      "offerId": "larq-self-cleaning",
+      "reason": "UV-C sterilizasyonu her 2 saatte bir bakterilerin %99,99'unu yok ediyor; musluk suyunun kalitesinden emin olmadığınız yerlerde içiniz rahat ediyor."
+    }
+  ]
 }

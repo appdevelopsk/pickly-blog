@@ -2,5 +2,150 @@
   "title": "En iyi kablosuz çim biçme makinesi 2026: 5 ürün",
   "description": "EGO, Ryobi, Greenworks, DeWalt, Kobalt ürünlerini karşılaştırdık. 2026'da kablosuz çim biçme makinesi için çalışma süresi ve pil ekosistemi açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Şarj başına çalışma süresi",
+      "paragraphs": [
+        "1.350 m²'lik bir bahçede çalışma süresi (tek batarya, maksimum mod): EGO LM2156SP (56V, 10Ah) 75 dk, Greenworks Pro 80V (4Ah) 50 dk, Kobalt 80V (5Ah) 55 dk, Ryobi 40V HP (8Ah) 60 dk, DeWalt 2x20V MAX (2x8Ah) 45 dk.",
+        "Çift bataryalı kurulumlarla 2.000 m²'ye kadar bahçeyi tek seferde bitirebilirsiniz: EGO'nun çift bataryalı modelleri var, DeWalt zaten standart olarak 2x20V MAX çalışıyor, Greenworks/Kobalt 80V ise tek bataryayla çoğu bahçeye yetiyor.",
+        "Şarj süresi: EGO 60 dk, Greenworks 80V 30 dk, Kobalt 80V 45 dk, Ryobi 40V 90 dk, DeWalt 20V batarya başına 60 dk (yani ikisi için 120 dk). En hızlı şarj olan Greenworks 80V."
+      ]
+    },
+    {
+      "heading": "Kesim kalitesi ve toplama",
+      "paragraphs": [
+        "Sabah çiyli çimde kesim kalitesi: EGO açık ara en iyisi (yüksek devirli fırçasız motor + çelik gövde), Greenworks Pro çok yakın takipçi, Kobalt yakın, Ryobi yeterli, DeWalt ise 2x20V kurulumun düşük torku yüzünden biraz geride. Kuru çimde beşi de gayet temiz iş çıkarıyor.",
+        "Toplama mı malçlama mı: Beşi de ikisini birden destekliyor. En temiz toplama EGO ve Greenworks Pro'da (kanal ağzından daha az çim dökülüyor). Ryobi 40V HP'de çok uzamış çim için yandan atma kanalı da var.",
+        "Kendinden yürüyüş: EGO LM2156SP ve Kobalt 80V'nin kendinden yürüyüşlü sürümleri mevcut. Standart modeller itmeli. Bahçenizde en ufak bir eğim varsa bu yükseltmeye değer."
+      ]
+    },
+    {
+      "heading": "Batarya platformuna bağlanmak",
+      "paragraphs": [
+        "Aslında sadece çim biçme makinesi almıyorsunuz — bir batarya platformuna bağlanıyorsunuz. En geniş ürün yelpazesi EGO'da (çim biçme makinesi, misinalı tırpan, üfleyici, kar küreme, motorlu testere). Ryobi 40V de benzer şekilde geniş. Greenworks 80V ve Kobalt 80V daha çok çim biçme odaklı, aksesuar seçeneği az. DeWalt 20V MAX ise elektrikli el aletlerine dayanıyor — bahçe aksesuarı sınırlı.",
+        "Karar vermenin en pratik yolu: Elinizde zaten DeWalt aletleri varsa 2x20V makine düşünmeye bile gerek bırakmaz. Hiç bataryalı aletiniz yoksa, bahçe + el aleti ekosisteminin en genişini EGO ya da Ryobi 40V verir."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "2026'da bataryalı mı benzinli mi?",
+      "a": "2.000 m²'nin altındaki bahçelerde bataryalı kazanıyor. 4 dönümü aşan alanlarda ya da ıslak/uzamış çimde benzinli hâlâ önde. Bataryalı daha sessiz, yağ yok, buji yok — konfor açısından net bir yükseltme."
+    },
+    {
+      "q": "EGO 56V mi Greenworks 80V mi — voltaj fark eder mi?",
+      "a": "Voltaj maksimum gücü belirler, çalışma süresini ise bataryanın amper-saati belirler. EGO'nun 56V 10Ah bataryası, Greenworks'ün 80V 4Ah bataryasından daha fazla toplam enerji depolar. Tek başına voltaja değil, watt-saate (V × Ah) bakın."
+    },
+    {
+      "q": "Kendinden yürüyüşlü mü itmeli mi?",
+      "a": "Bahçenizde eğim varsa veya 1.000 m²'den fazla alan biçiyorsanız kendinden yürüyüşlü. Düz ve 500 m² civarı bahçeler için itmeli fazlasıyla yeterli."
+    },
+    {
+      "q": "Bataryalar ne kadar dayanır?",
+      "a": "Lityum bataryalar normal kullanımda yaklaşık 5-7 yıl (300-500 şarj döngüsü). Yedek batarya fiyatları: EGO 200-400 $, Greenworks 150-300 $, Ryobi 150-250 $, DeWalt 100-200 $."
+    }
+  ],
+  "products": {
+    "ego-lm2156sp-21-self-propelled": {
+      "badge": "🏆 Genel olarak en iyisi",
+      "review": "EGO LM2156SP, müstakil ev bahçelerinin çoğu için doğru tercih. 56V 10Ah batarya, kendinden yürüyüşlü, fırçasız motor, çelik gövde, 53 cm kesim genişliği. Maksimum modda 75 dakika çalışıyor. EGO Power+ ekosistemi, kablosuz bahçe aletleri tarafında en eksiksiz olanı. Fiyatı da o oranda yüksek.",
+      "pros": [
+        "Bu karşılaştırmadaki en uzun çalışma süresi",
+        "Kendinden yürüyüşlü",
+        "Geniş ekosistem"
+      ],
+      "cons": [
+        "700 $ üzeri premium fiyat",
+        "Batarya ağırlığı (~3,2 kg)"
+      ]
+    },
+    "ryobi-40v-hp-brushless": {
+      "badge": "🏠 Ryobi kullananlar için en iyisi",
+      "review": "Ryobi 40V HP Brushless, halihazırda Ryobi aletleriniz varsa doğru tercih. 53 cm kesim, fırçasız motor, 8Ah batarya, 60 dakika çalışma süresi. Yandan atma kanalı kablosuz makinelerde nadir bulunur — sezon başındaki uzamış çimde işe yarıyor.",
+      "pros": [
+        "Ryobi 40V aletlerle aynı batarya",
+        "Yandan atma kanalı",
+        "Fiyat/performansı sağlam"
+      ],
+      "cons": [
+        "Şarjı yavaş (90 dk)",
+        "Bu segmentte sadece itmeli"
+      ]
+    },
+    "greenworks-pro-80v-21": {
+      "badge": "⚡ En hızlı şarj",
+      "review": "Greenworks Pro 80V, en hızlı şarjı isteyenler için doğru tercih. 80V fırçasız motor ve 30 dakikalık şarj süresi sayesinde biçiyor, mola verirken şarj ediyor, sonra devam ediyorsunuz. Şarj başına 50 dakika çalışıyor. Batarya ekosistemi EGO'ya göre dar.",
+      "pros": [
+        "30 dakikada şarj",
+        "Islak çimde güçlü kesim",
+        "EGO'dan daha uygun fiyatlı"
+      ],
+      "cons": [
+        "Aksesuar ekosistemi dar",
+        "50 dakikalık süre EGO'nun gerisinde"
+      ]
+    },
+    "dewalt-2x20v-max-21": {
+      "badge": "🔧 DeWalt kullananlar için en iyisi",
+      "review": "DeWalt 2x20V MAX, elinizde DeWalt el aletleri varsa doğru tercih. Mevcut alet setinizdeki standart 20V MAX bataryalarla çalışıyor. 45 dakikalık süre, bahçe aletlerine özel markaların gerisinde ama asıl kazanç bataryaların ortak olması.",
+      "pros": [
+        "Standart DeWalt 20V bataryalarla çalışır",
+        "Aletler arası batarya uyumu",
+        "Sağlam yapı"
+      ],
+      "cons": [
+        "Bu karşılaştırmadaki en kısa çalışma süresi",
+        "56-80V'luk özel makinelerden ağır"
+      ]
+    },
+    "kobalt-80v-21-mower": {
+      "badge": "💸 En iyi Lowe's özel modeli",
+      "review": "Kobalt 80V, Lowe's müdavimleri için doğru tercih. 80V fırçasız motor, 5Ah batarya, 55 dakika çalışma, 53 cm kesim. Kendinden yürüyüşlü sürümü de var. 80V sınıfının en ucuzu. Batarya ekosistemi çim biçme + tırpan + üfleyici ile sınırlı — EGO ya da Ryobi kadar geniş değil.",
+      "pros": [
+        "Aynı sınıfta EGO'dan ucuz",
+        "Kendinden yürüyüşlü sürümü var",
+        "Lowe's dağıtımı güvenilir"
+      ],
+      "cons": [
+        "Batarya ekosistemi dar",
+        "Servis sadece Lowe's üzerinden"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ego-lm2156sp-21-self-propelled": "egopowerplus.com veya Home Depot'tan alınabilir. Genelde batarya + şarj cihazıyla birlikte 700-900 $ bandında satılıyor.",
+    "ryobi-40v-hp-brushless": "homedepot.com veya ryobitools.com'dan alınabilir. Ryobi 40V bahçe serisinin tamamıyla uyumlu.",
+    "greenworks-pro-80v-21": "greenworkstools.com veya amazon.com'dan alınabilir. Bahar indirimlerini takip edin.",
+    "dewalt-2x20v-max-21": "homedepot.com veya dewalt.com'dan alınabilir. 20V MAX alet ekosistemiyle batarya uyumlu.",
+    "kobalt-80v-21-mower": "lowes.com'dan alınabilir — Lowe's'a özel marka."
+  },
+  "pinDescription": "Bahçenizi biçmek saatlerinizi almasın: 2026'nın en iyi bataryalı çim biçme makineleri — EGO, Ryobi, Greenworks, DeWalt ve Kobalt'ın çalışma süresi, şarj hızı ve batarya ekosistemi tek tek karşılaştırıldı. #bahçe #çimbiçme",
+  "recommendedFor": [
+    {
+      "label": "Tüm bahçe aletlerini tek batarya ekosisteminde toplamak isteyenler",
+      "offerId": "ego-lm2156sp-21-self-propelled",
+      "reason": "EGO'nun Power+ platformu çim biçme makinesi, tırpan, üfleyici ve kar küreme makinesini kapsıyor — bahçenin tamamı için tek batarya ailesi."
+    },
+    {
+      "label": "Elinde hazır DeWalt el aleti seti olan tamirat meraklıları",
+      "offerId": "dewalt-2x20v-max-21",
+      "reason": "2x20V MAX makine, matkap ve testerelerinizde zaten kullandığınız bataryalarla çalışıyor; ikinci bir şarj cihazına gerek kalmıyor."
+    },
+    {
+      "label": "Eğimli bahçesi olan ve haftada iki kez biçenler",
+      "offerId": "ryobi-40v-hp-brushless",
+      "reason": "60 dakikalık çalışma süresi ve yandan atma kanalı, uzamış çimi motoru zorlamadan halleder."
+    },
+    {
+      "label": "Vakti kısıtlı, biçmeyi sıkışık programa sığdıranlar",
+      "offerId": "greenworks-pro-80v-21",
+      "reason": "30 dakikalık şarj sayesinde biçmeyi bitirip öğle arasında şarj edebilir, aynı öğleden sonra ikinci turu atabilirsiniz."
+    },
+    {
+      "label": "Benzinliden geçiş yapan, bütçesine dikkat eden Lowe's müşterileri",
+      "offerId": "kobalt-80v-21-mower",
+      "reason": "Kobalt 80V, kendinden yürüyüşlü ve fırçasız performansı 80V sınıfının en düşük fiyatıyla veriyor; Lowe's mağazalarından alınabiliyor."
+    }
+  ]
 }

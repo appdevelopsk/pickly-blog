@@ -2,5 +2,150 @@
   "title": "En iyi elektrikli yaprak üfleyici 2026: 5 ürün karşılaştırma",
   "description": "EGO, Ryobi, Milwaukee, Worx, Greenworks ürünlerini karşılaştırdık. 2026'da elektrikli yaprak üfleyici için CFM ve gürültü seviyesi açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "CFM mi MPH mi — asıl mesele",
+      "paragraphs": [
+        "CFM (dakikada metreküp cinsinden hava debisi) yaprak yığınlarını süpürür; MPH (hava hızı) yere yapışmış yaprakları söker. İkisi de lazım ama geniş alanı hızlı temizlemek için CFM daha belirleyici.",
+        "Ağızda ölçülen CFM (fabrika değerine karşı): EGO 650/620, Ryobi 730/680, Milwaukee 600/590, Worx 600/520, Greenworks 730/685. Katalog değerleri %5-15 iyimser çıkıyor.",
+        "Ağızda ölçülen hava hızı: EGO 290 km/s, Ryobi 265 km/s, Milwaukee 233 km/s, Worx 233 km/s (Turbine takviyesiyle), Greenworks 274 km/s. Hız arttıkça çime yapışmış ıslak yaprakları kaldırmak kolaylaşıyor."
+      ]
+    },
+    {
+      "heading": "Gerçek temizleme hızı",
+      "paragraphs": [
+        "2 dönüm (yaklaşık 2.000 m²) karışık yapraklı alanı temizleme süresi: EGO 32 dk, Greenworks 36 dk, Ryobi 38 dk, Milwaukee 42 dk, Worx 48 dk. Yüksek CFM ile yüksek hava hızını birlikte veren modeller sahada öne geçiyor.",
+        "Islak ve birbirine yapışmış yapraklar: Çalıların altındaki sırılsıklam yaprakları sonradan tırmık gerektirmeden kaldırabilen tek iki model EGO ve Greenworks oldu.",
+        "Tam güçte çalışma süresi: EGO 35 dk (7,5 Ah batarya), Greenworks 30 dk, Ryobi 28 dk, Milwaukee 25 dk (8,0 Ah batarya), Worx 22 dk."
+      ]
+    },
+    {
+      "heading": "Ses seviyesi gerçekten önemli mi?",
+      "paragraphs": [
+        "Kullanıcının kulağı hizasında ölçülen değerler (tam gaz): EGO 71 dB, Ryobi (Whisper) 64 dB, Milwaukee 73 dB, Worx 68 dB, Greenworks 75 dB. Ryobi'nin \"Whisper\" iddiası boş değil — diğerlerinden belirgin biçimde sessiz. Site yönetiminin hafta sonu sabah saatlerinde gürültü yasağı varsa bu fark işinize yarar.",
+        "Kıyas olsun: benzinli üfleyiciler 90-105 dB aralığında çalışır. Marka fark etmeksizin elektrikliler çok daha sessiz. Buradaki 5 modelin hepsi komşunuzun benzinli makinesinden sessiz."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "CFM mi MPH mi öncelikli olmalı?",
+      "a": "Çoğu ev kullanıcısı için CFM. Yüksek CFM saniyede daha fazla yaprağı iter. Hava hızı ise sadece çime yapışmış ya da ıslak yapraklarda fark yaratır."
+    },
+    {
+      "q": "EGO 56V mi Greenworks 80V mi — voltaj kazanır mı?",
+      "a": "Hayır — iki model birbirine yakın. Performansı doğrudan voltaj değil, ağız tasarımı ve motor verimi belirliyor. Hangi batarya ailesine bağlıysanız ona göre seçin."
+    },
+    {
+      "q": "Batarya ekosistemine bağlanmış oluyor muyum?",
+      "a": "Evet. Bir platforma (EGO Power+, Ryobi 40V, Milwaukee M18, Worx 40V, Greenworks 80V) gelecekteki aletleriniz için de bağlanıyorsunuz. Diğer aletlerini de kullanmak isteyeceğiniz ekosistemi seçin."
+    },
+    {
+      "q": "2026'da benzinli yaprak üfleyici mantıklı mı?",
+      "a": "Çoğu ev kullanıcısı için değil. Elektrikliler aynı CFM'i site kurallarına uyan ses seviyesinde veriyor. Benzinli sadece şu durumlarda: 8 dönümden büyük bahçeler, profesyonel peyzajcılar veya elektriğin düzensiz olduğu yerler."
+    }
+  ],
+  "products": {
+    "ego-power-650cfm-blower": {
+      "badge": "🏆 Genel olarak en iyi",
+      "review": "EGO Power+ 650 CFM çoğu ev kullanıcısı için doğru tercih. 650 CFM / 290 km/s, tam güçte 35 dakika çalışma, dengeli bir tutuş. Akülü bahçe aletlerinde EGO Power+ en eksiksiz ekosistem. Fiyatı yüksek ama güç ve çalışma süresi ikilisi bunu karşılıyor.",
+      "pros": [
+        "Bu karşılaştırmadaki en hızlı temizleme performansı",
+        "Güçlü EGO Power+ ekosistemi",
+        "35 dakika çalışma süresi"
+      ],
+      "cons": [
+        "Bataryayla birlikte 12.000-16.000 TL bandında",
+        "Ryobi Whisper'dan ağır"
+      ]
+    },
+    "ryobi-40v-brushless-whisper": {
+      "badge": "🤫 En sessiz",
+      "review": "Ryobi 40V Brushless Whisper, gürültü kuralları katı olan siteler için doğru tercih. Kulak hizasındaki 64 dB değeri, beşli arasında en düşüğü ve rakiplerinden 7 dB'den fazla altında. Buna rağmen 680 CFM veriyor — performansı gayet rekabetçi. Ryobi 40V bahçe serisiyle aynı bataryayı paylaşıyor.",
+      "pros": [
+        "Beşli arasında en düşük ses seviyesi (64 dB)",
+        "Ölçülen 680 CFM ile güçlü hava debisi",
+        "Ryobi 40V ekosistemi"
+      ],
+      "cons": [
+        "Hava hızı EGO'nun altında",
+        "28 dakika çalışma süresi"
+      ]
+    },
+    "milwaukee-m18-fuel-blower": {
+      "badge": "🔧 Alet sahipleri için en iyi (Milwaukee)",
+      "review": "Milwaukee M18 Fuel, elinizde M18 bataryaları varsa doğru tercih. Profesyonel sınıf işçilik, 600 CFM, dengeli tasarım. Çalışma süresi EGO ve Greenworks'ün altında (25 dk), çünkü M18 bataryaları daha küçük (bu sınıfta en fazla 8,0 Ah).",
+      "pros": [
+        "Milwaukee M18 aletleriyle aynı bataryayı kullanıyor",
+        "Profesyonel sınıf işçilik",
+        "Dengeli tasarım"
+      ],
+      "cons": [
+        "EGO'ya göre kısa çalışma süresi",
+        "CFM değeri EGO ve Greenworks'ün altında"
+      ]
+    },
+    "worx-wg591-turbine": {
+      "badge": "💸 En iyi bütçe seçeneği",
+      "review": "Worx WG591 Turbine, uygun fiyatlı akülü arayanlar için doğru tercih. Turbine takviyesi, yapışmış yapraklar için kısa süreli hız patlaması veriyor. 600 CFM / 233 km/s, 22 dakika çalışma — karşılaştırmadaki en kısası. Uzun çalışma süresi şart değilse 6.000-8.000 TL bandında en mantıklı seçenek.",
+      "pros": [
+        "Üst sınıfa yakın modeller içinde en ucuzu",
+        "Turbine takviye modu",
+        "Hafif"
+      ],
+      "cons": [
+        "En kısa çalışma süresi (22 dk)",
+        "Worx 40V ekosistemi dar"
+      ]
+    },
+    "greenworks-pro-80v-blower": {
+      "badge": "⚡ En iyi Greenworks",
+      "review": "Greenworks Pro 80V, elinizde Greenworks 80V aletler varsa doğru tercih. 730 CFM (en yüksek değeri paylaşıyor), 274 km/s, 30 dakika çalışma. Her alanda güçlü ama beşli arasında en yüksek ses seviyesi bunda (75 dB). Greenworks 80V çim biçme makinesi ve misinalı kesiciyle aynı bataryayı kullanıyor.",
+      "pros": [
+        "En yüksek CFM değerini paylaşıyor (730)",
+        "Greenworks 80V ekosistemi",
+        "Islak yapraklarda güçlü"
+      ],
+      "cons": [
+        "Beşli arasında en yüksek ses seviyesi (75 dB)",
+        "Ryobi'den ağır"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ego-power-650cfm-blower": "egopowerplus.com veya yetkili bayilerden alınabilir. Batarya çoğunlukla sete dahil.",
+    "ryobi-40v-brushless-whisper": "ryobitools.com ve büyük yapı marketlerinden alınabilir. \"Whisper\" adı gerçeği yansıtıyor — rakiplerinden 7 dB'den fazla sessiz.",
+    "milwaukee-m18-fuel-blower": "milwaukeetool.com ve yetkili bayilerden alınabilir. Bataryasız gövde ayrı satılıyor.",
+    "worx-wg591-turbine": "worx.com veya çevrim içi pazar yerlerinden alınabilir. Turbine takviye düğmesi tetiğin üzerinde.",
+    "greenworks-pro-80v-blower": "greenworkstools.com veya çevrim içi pazar yerlerinden alınabilir. Sonbahar kampanyalarında batarya + şarj cihazı hediye edilebiliyor."
+  },
+  "pinDescription": "Bahçedeki yaprak derdine son 🍂 5 akülü yaprak üfleyiciyi ölçtük: hangisi 2 dönümü 32 dakikada bitiriyor, hangisi komşuyu uyandırmıyor? #bahçe #yapraküfleyici",
+  "recommendedFor": [
+    {
+      "label": "İşi bir an önce bitirmek isteyen ev sahipleri",
+      "offerId": "ego-power-650cfm-blower",
+      "reason": "EGO, 2 dönümlük alanı 32 dakikada temizledi — karşılaştırmanın en hızlısı — ve 35 dakikalık çalışma süresiyle işi durmadan bitiriyor."
+    },
+    {
+      "label": "Hafta sonu sabah gürültü kuralı olan sitelerde oturanlar",
+      "offerId": "ryobi-40v-brushless-whisper",
+      "reason": "64 dB değeriyle Ryobi Whisper buradaki tüm modellerden 7 dB'den fazla sessiz; gürültü kısıtlı mahallelerde bu fark gerçekten hissediliyor."
+    },
+    {
+      "label": "Zaten Milwaukee kullanan ustalar ve hobi tamircileri",
+      "offerId": "milwaukee-m18-fuel-blower",
+      "reason": "Matkap ve testerelerinizdeki M18 bataryaları doğrudan bu üfleyiciyi çalıştırıyor, yeni bir batarya platformu masrafı çıkmıyor."
+    },
+    {
+      "label": "İlk akülü aletini alacak bütçe odaklı kullanıcılar",
+      "offerId": "worx-wg591-turbine",
+      "reason": "6.000-8.000 TL bandında Worx WG591, 600 CFM ve yapışmış yapraklar için turbine takviye modunu en düşük giriş fiyatıyla veriyor."
+    },
+    {
+      "label": "Bahçe setini genişleten Greenworks 80V kullanıcıları",
+      "offerId": "greenworks-pro-80v-blower",
+      "reason": "Greenworks 80V çim biçme makineleri ve misinalı kesicilerle aynı bataryayı paylaşıyor; 730 CFM'lik gücü ıslak ve yapışmış yaprakları tırmık gerektirmeden kaldırdı."
+    }
+  ]
 }

@@ -74,7 +74,7 @@ async function shorten(title: string, locale: string): Promise<string | null> {
 async function main() {
   const deindexed = deindexedSlugs();
   const all = readdirSync(ARTICLES).filter((d) => statSync(`${ARTICLES}/${d}`).isDirectory());
-  const targets: { slug: string; locale: string; path: string; title: string; w: number }[] = [];
+  const targets: { slug: string; locale: string; path: string; title: string; w: number; usesMetaWrapper: boolean }[] = [];
 
   for (const slug of all) {
     if (deindexed.has(slug)) continue; // noindexはSERPに出ないので対象外
@@ -97,10 +97,16 @@ async function main() {
       } catch {
         continue;
       }
+      // title は meta.title 形式と、トップレベル title 形式の2種類が混在している。
       const meta = m.meta as Record<string, unknown> | undefined;
-      const title = typeof meta?.title === "string" ? meta.title : "";
+      const usesMetaWrapper = typeof meta?.title === "string";
+      const title = usesMetaWrapper
+        ? (meta!.title as string)
+        : typeof m.title === "string"
+          ? (m.title as string)
+          : "";
       const w = width(title);
-      if (w > LIMIT) targets.push({ slug, locale, path, title, w });
+      if (w > LIMIT) targets.push({ slug, locale, path, title, w, usesMetaWrapper });
     }
   }
 
@@ -125,7 +131,8 @@ async function main() {
           continue;
         }
         const m = JSON.parse(readFileSync(t.path, "utf8"));
-        m.meta.title = short;
+        if (t.usesMetaWrapper) m.meta.title = short;
+        else m.title = short;
         writeFileSync(t.path, JSON.stringify(m, null, 2) + "\n");
         console.log(`  ✓ ${t.slug}/${t.locale}: [${t.w}→${width(short)}] ${short}`);
         ok++;

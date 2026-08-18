@@ -2,5 +2,161 @@
   "title": "En iyi kişisel finans yazılımı 2026: 5 ürün karşılaştırma",
   "description": "YNAB, Monarch Money, Quicken Simplifi, Empower, Tiller ürünlerini karşılaştırdık. 2026'da kişisel finans yazılımı için banka senkronizasyon güvenilirliği ve bütçeleme metodolojisi açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Banka senkronizasyonu güvenilirliği",
+      "paragraphs": [
+        "Beşli arasında en istikrarlı senkronizasyon raporlarını Monarch Money alıyor. Yeniden bağlanma gerekiyor ama kullanıcılar bunu rutin değil, ara sıra yaşanan bir durum olarak anlatıyor.",
+        "YNAB hemen arkasında. Kullanıcıların en sık yeniden yetkilendirmek zorunda kaldığını bildirdiği bağlantılar Chase ve Capital One.",
+        "Gruptaki en çok yeniden bağlanma şikâyetini Quicken Simplifi topluyor; en sık adı geçen ise Bank of America bağlantıları.",
+        "Empower Personal Dashboard yatırım hesaplarında en güçlüsü; kullanıcılar vadesiz hesap ve kredi kartı bağlantılarını zayıf taraf olarak bildiriyor.",
+        "Tiller Money: Plaid üzerinden banka senkronizasyonu Monarch ile aynı seviyede. Sorun şu ki Tiller verileri Google E-Tablolar'a yazıyor; bu da elektronik tabloya alışkın olmayanlar için ek bir kırılganlık katmanı demek."
+      ]
+    },
+    {
+      "heading": "Bütçeleme yöntemi",
+      "paragraphs": [
+        "YNAB sıfır tabanlı bütçelemeyi zorunlu kılıyor — harcamadan önce her liraya bir görev veriyorsunuz. Bu, en disiplinli yaklaşım ve alışkanlık değiştirmede en etkilisi, ancak her gün uygulamaya bakmayı gerektiriyor. Öğrenme eğrisi de en dik olanı.",
+        "Monarch ve Simplifi kategori bazlı bütçeleme kullanıyor (kategori başına limit koyup takip ediyorsunuz). Alışması daha kolay ama davranış değişikliği daha az.",
+        "Empower, bütçelemeden çok net varlık ve yatırım takibine odaklanıyor. Harcamalarını zaten kontrol altında tutan yatırımcılar için en iyisi.",
+        "Tiller verileri Google E-Tablolar'a yazıyor ve istediğiniz yöntemi kendiniz kurmanıza izin veriyor. Azami esneklik, asgari yönlendirme."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaç için hangisi",
+      "paragraphs": [
+        "Ciddi bütçeciler için en iyisi: YNAB, yılda 109 dolar. Sıfır tabanlı bütçeleme harcama alışkanlığınızı gerçekten değiştiriyor. Dik öğrenme eğrisine değer.",
+        "En iyi Mint alternatifi: Monarch Money, yılda 99 dolar. Mint'e benzer arayüz, aktif geliştirme, ev halkı paylaşımı, reklam yok. Eski Mint kullanıcılarının çoğu için varsayılan tercih.",
+        "En uygun fiyatlı: Quicken Simplifi, yılda 48 dolar. Ücretli seçenekler içinde en düşük fiyata sağlam bir bütçeleme.",
+        "Yatırımcılar için en iyisi: Empower Personal Dashboard, ücretsiz. Kalem kalem bütçeleme yerine net varlık ve emeklilik planlamasına odaklanıyor.",
+        "Elektronik tablo sevenler için en iyisi: Tiller Money, yılda 79 dolar. Google E-Tablolar üzerinden azami esneklik. Yalnızca tablolarla uğraşmaktan gerçekten keyif alıyorsanız seçin."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Mint neden kapandı?",
+      "a": "Intuit (Mint'in sahibi) hizmeti yine kendi bünyesindeki Credit Karma'ya taşıdı. Credit Karma'nın bütçeleme özellikleri sınırlı — Mint kullanıcıları büyük ölçüde Monarch'a (eski Mint çalışanları Monarch'a katıldı) ya da YNAB'a geçti."
+    },
+    {
+      "q": "YNAB yılda 109 dolara değer mi?",
+      "a": "Her gün kullanacak ve sıfır tabanlı yöntemi uygulayacaksanız evet. Bu davranış değişikliği kullanıcılara ilk yılda genellikle 1.000 doların üzerinde tasarruf ettiriyor. Alışkanlığınızı değiştirmeden haftada bir bakacaksanız 48 dolarlık Simplifi yeterli."
+    },
+    {
+      "q": "Ücretsiz Empower, paralı alternatifler kadar iyi mi?",
+      "a": "Yatırım takibi ve net varlık için evet — Empower gerçekten çok iyi. Kalem kalem bütçeleme ve kategori yönetiminde ise hayır; Empower'ın bütçeleme özellikleri temel düzeyde. İkisini de istiyorsanız Empower ile Monarch'ı birlikte kullanın."
+    },
+    {
+      "q": "Bu araçları bankama bağlamak güvenli mi?",
+      "a": "Beşi de Plaid (ya da benzerini) kullanıyor; bu sistem yalnızca okuma izni veren OAuth ile çalışır, yani para çekemezler. Plaid banka düzeyinde güvenlidir. Asıl risk, aracın kendi hesabınızın ele geçirilmesi — güçlü ve benzersiz parola artı iki adımlı doğrulama kullanın."
+    }
+  ],
+  "products": {
+    "ynab-budgeting": {
+      "badge": "🏆 Ciddi bütçeciler için en iyisi",
+      "review": "YNAB (You Need a Budget), emeği gerçekten harcayacaksanız doğru tercih. Sıfır tabanlı bütçeleme yöntemi — harcamadan önce her liranın bir görevi var — alışkanlıkları gerçekten değiştiriyor. Kullanıcılar ilk birkaç ay içinde 'nereye gittiği belirsiz' harcamalarda belirgin bir düşüş bildiriyor. İşin zor tarafı günlük kontrol zorunluluğu ve 4-6 haftalık öğrenme süreci. Yılda 109 dolar ile en pahalı seçenek. Düzenli kullanacaksanız, getirisi açısından bu karşılaştırmadaki en iyi değer.",
+      "pros": [
+        "Sıfır tabanlı bütçeleme harcama alışkanlığını değiştiriyor",
+        "En iyi eğitim içeriği (ücretsiz atölyeler, podcast)",
+        "Güçlü ve aktif bir kullanıcı topluluğu"
+      ],
+      "cons": [
+        "En dik öğrenme eğrisi (4-6 hafta)",
+        "Tam verim için günlük kontrol gerekiyor",
+        "Yılda 109 dolar ile en pahalısı"
+      ]
+    },
+    "monarch-money": {
+      "badge": "🪟 En iyi Mint alternatifi",
+      "review": "Monarch Money, Mint sonrası dönemin bariz varsayılanı. Eski Mint çalışanlarının kurduğu uygulama, Mint'e benzer bir arayüzü reklamsız sunuyor (Mint kapanmadan önce kredi kartı tekliflerine boğulmuştu). Güçlü banka senkronizasyonu, ev halkı paylaşımı, özel kategoriler ve çok iyi yatırım takibi var. Aylık 14,99 dolar ya da yıllık 99 dolar. 'Hepsi bir arada' konumlandırması, birçok şeyi iyi yaptığı ama hiçbirinde uzmanlaşmadığı anlamına geliyor.",
+      "pros": [
+        "Mint'e benzer arayüz, reklam yok",
+        "Kullanıcı bildirimlerine göre beşli arasında en istikrarlı banka senkronizasyonu",
+        "Çiftler ve aileler için ev halkı paylaşımı"
+      ],
+      "cons": [
+        "Yılda 99 dolar ile orta segment",
+        "Bütçeleme yöntemi YNAB kadar sıkı değil",
+        "2018 kuruluşlu (eski alternatiflere göre daha yeni)"
+      ]
+    },
+    "quicken-simplifi": {
+      "badge": "💸 En uygun fiyatlı",
+      "review": "Quicken Simplifi, yılda 48 dolarla (yıllık ödemede ayda 3,99 dolar) en uygun fiyatlı seçenek. Bütçeleme ve banka senkronizasyonuna odaklanmış, sadeleştirilmiş bir Quicken Online gibi. Banka senkronizasyonu Monarch ya da YNAB'a kıyasla daha fazla yeniden bağlanma şikâyeti alıyor. 'İzleme listesi' harcama planı, düzenli giderleri takipte tutmak için gerçekten işe yarıyor. Derinlikli yatırım takibi ve ev halkı paylaşımı yok.",
+      "pros": [
+        "Yılda 48 dolar ile ücretli seçenekler arasında en düşük fiyat",
+        "Düzenli harcamalar için izleme listesi özelliği",
+        "Quicken güvencesi (Aqua Capital sahipliği)"
+      ],
+      "cons": [
+        "Monarch'a göre daha sık senkronizasyon kopması",
+        "Ev halkı paylaşımı yok",
+        "Sınırlı yatırım takibi"
+      ]
+    },
+    "empower-personal-dashboard": {
+      "badge": "📈 Yatırımcılar için en iyisi",
+      "review": "Empower Personal Dashboard (eski adıyla Personal Capital), yatırımcılar için doğru ücretsiz araç. Net varlık takibi, emeklilik planlayıcısı, yatırım komisyonu analizi ve varlık dağılımı araçları çok iyi. Bütçeleme özellikleri temel düzeyde — kalem kalem bütçelemeye ihtiyaç duymayan ama yatırımlarını net görmek isteyen yüksek gelirliler için yeterli. Empower aynı zamanda bir varlık yönetimi şirketi; takip edilen varlığınız 250 bin doları aşarsa satış amaçlı arıyorlar.",
+      "pros": [
+        "Mükemmel yatırım ve emeklilik takibi",
+        "Ücretsiz",
+        "Güçlü varlık dağılımı araçları"
+      ],
+      "cons": [
+        "Temel düzeyde bütçeleme özellikleri",
+        "250 bin doları aşan varlıkta satış aramaları",
+        "Harcama alışkanlığını değiştirmeye daha az odaklı"
+      ]
+    },
+    "tiller-money": {
+      "badge": "📊 Elektronik tablo sevenler için en iyisi",
+      "review": "Tiller Money, bankadan senkronize ettiği işlem verilerini her gün Google E-Tablolar'a (ya da Excel'e) yazıyor. Oradan hazır şablonlarla ya da kendi formüllerinizle istediğiniz bütçeleme yöntemini kurabiliyorsunuz. Yılda 79 dolar. Azami esneklik, asgari el tutma. Tablolarla uğraşmaktan keyif alanlar için ideal — cilalı bir uygulama deneyimi arayanlar için değil. Şablon kütüphanesi en iyi başlangıç noktası; çoğu kullanıcı sonunda kendine göre uyarladığı YNAB benzeri ya da zarf yöntemli bir tabloya yerleşiyor.",
+      "pros": [
+        "Google E-Tablolar üzerinden azami esneklik",
+        "Zengin şablon kütüphanesi",
+        "Plaid üzerinden günlük banka senkronizasyonu"
+      ],
+      "cons": [
+        "Elektronik tabloya hâkim olmayı gerektiriyor",
+        "Kendi mobil uygulaması yok (yalnızca E-Tablolar mobil)",
+        "Kurulumu 2-4 saat sürüyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ynab-budgeting": "youneedabudget.com üzerinden kaydolun. 34 gün ücretsiz deneme. Yıllık ödeme (109 dolar), aylıktan çok daha ucuz (ayda 14,99 dolar = yılda 180 dolar). Öğrencilere bir yıl ücretsiz.",
+    "monarch-money": "monarchmoney.com üzerinden kaydolun. 7 gün ücretsiz deneme. Yıllık ödeme (99 dolar) aylığa göre 80 dolar kazandırıyor. İlk yıl için %30-50 indirim sağlayan promosyon kodları sık sık dolaşımda oluyor.",
+    "quicken-simplifi": "quicken.com/simplifi üzerinden kaydolun. 30 gün para iade garantisi. Quicken'ın sitesinde ilk yıl için sık sık 24 dolara iniyor.",
+    "empower-personal-dashboard": "empower.com üzerinden kaydolun. Tamamen ücretsiz. Takip edilen varlığınız 250 bin doları aşarsa bir varlık danışmanından tanıtım amaçlı telefon geliyor — ilgilenmiyorsanız kibarca reddedin.",
+    "tiller-money": "tillerhq.com üzerinden kaydolun. 30 gün ücretsiz deneme. Yalnızca yıllık ödeme (79 dolar). Şablon kütüphanesine ve Tiller topluluk Discord'una erişim dahil."
+  },
+  "pinDescription": "Parası nereye gidiyor bilmeyenler buraya: YNAB, Monarch Money, Quicken Simplifi, Empower ve Tiller karşılaştırıldı. Fiyat, banka bağlantısı ve bütçeleme yöntemiyle 2026'nın en iyi bütçe uygulaması hangisi? 💸",
+  "recommendedFor": [
+    {
+      "label": "Harcama alışkanlığını değiştirmeye kararlı, borç odaklı kullanıcılar",
+      "offerId": "ynab-budgeting",
+      "reason": "YNAB'ın sıfır tabanlı yöntemi her liraya bir görev verdirir; borçtan kurtulmak için gereken davranış değişikliğini tetikler."
+    },
+    {
+      "label": "Sorunsuz bir alternatif arayan eski Mint kullanıcıları",
+      "offerId": "monarch-money",
+      "reason": "Eski Mint çalışanlarının kurduğu tanıdık arayüz, ev halkı paylaşımı ve beşli arasında en istikrarlı banka senkronizasyonu."
+    },
+    {
+      "label": "Fazla ödemeden temel bütçeleme isteyen bütçe dostu kullanıcılar",
+      "offerId": "quicken-simplifi",
+      "reason": "Yılda 48 dolarla — ücretli seçeneklerin en düşüğü — Simplifi temel bütçelemeyi ve düzenli gider takibini uygun fiyata karşılıyor."
+    },
+    {
+      "label": "Net varlık ve emeklilik hazırlığını takip eden yüksek gelirli yatırımcılar",
+      "offerId": "empower-personal-dashboard",
+      "reason": "Empower'ın ücretsiz yatırım komisyonu analizi, varlık dağılımı araçları ve emeklilik planlayıcısının hiçbir fiyatta dengi yok."
+    },
+    {
+      "label": "Bütçesinde tam kontrol isteyen elektronik tablo ustaları",
+      "offerId": "tiller-money",
+      "reason": "Tiller günlük banka verisini Google E-Tablolar'a aktarır; tam formül esnekliğiyle istediğiniz bütçe sistemini kurarsınız."
+    }
+  ]
 }

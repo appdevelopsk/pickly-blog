@@ -2,5 +2,145 @@
   "title": "En iyi seyahat kahve makinesi 2026: 5 ürün karşılaştırma",
   "description": "AeroPress, Hario, Wacaco, Fellow ürünlerini karşılaştırdık. 2026'da seyahat kahve makinesi için demleme kalitesi ve taşınabilirlik açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Demleme yöntemleri ve kalite",
+      "paragraphs": [
+        "AeroPress (Go): tam daldırma + basınç. Kafedeki espresso/Americano'ya en yakın sonuç. Kalitesi mükemmel.",
+        "Pour-over (katlanabilir V60, Stagg): berrak bir fincan, ama su ısıtıcısı şart. Biraz pratikle güzel sonuç veriyor.",
+        "Basınçlı espresso (Nanopresso, Minipresso): elle pompalanan espresso, gerçek krema çıkarıyor. Espresso tutkunları için en iyisi."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi",
+      "paragraphs": [
+        "En taşınabilir: AeroPress Go (1.200-1.550 TL). Termos bardak + AeroPress ikilisi.",
+        "En hafif pour-over: Hario V60 Collapsible (500-850 TL). Silikon, katlanabilir.",
+        "En iyi taşınabilir espresso: Wacaco Nanopresso (2.100-3.100 TL). Elle pompalı.",
+        "En iyi premium pour-over: Fellow Stagg Pour-Over Set (2.100-3.100 TL).",
+        "Nespresso kullanan gezginlere: Wacaco Minipresso NS (1.900-2.600 TL). Nespresso kapsülleriyle çalışıyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Seyahatte AeroPress mi, pour-over mı?",
+      "a": "AeroPress daha hızlı, daha çok yönlü ve espresso tarzı bir kahve veriyor. Pour-over daha berrak bir fincan sunuyor ama biraz el becerisi istiyor. İkisi de iş görüyor, tercih meselesi."
+    },
+    {
+      "q": "Seyahat kahvesi için değirmen şart mı?",
+      "a": "En pratiği öğütülmüş kahve götürmek (AeroPress için orta-ince, Nanopresso için ince). Küçük bir el değirmeni (Timemore, 1Zpresso Q2) valize sığar ama ekstra ağırlık demek."
+    },
+    {
+      "q": "Otel su ısıtıcısının suyu fark eder mi?",
+      "a": "Eder — otel ısıtıcılarında kireç birikmiş olabiliyor. Bir kez su kaynatıp dökün, sonra demleyin. Şişe suyu bulabiliyorsanız en iyisi o."
+    },
+    {
+      "q": "Otel odasında gerçekten iyi kahve olur mu?",
+      "a": "Olur — AeroPress ve taze çekirdekle otel odasındaki kahve kafe kalitesine yaklaşabiliyor. Otelin verdiği makine kahvesinin berbat olmasının sebebi bayat çekirdek ve kötü su."
+    }
+  ],
+  "products": {
+    "aeropress-go": {
+      "badge": "🏆 En taşınabilir",
+      "review": "Taşınabilir kahve demleyicide doğru tercih AeroPress Go. AeroPress + termos bardak ikilisi valize rahat sığıyor, 1-3 fincan espresso tarzı kahve yapıyor. Seyahatte ulaşabileceğiniz en iyi kahve kalitesi. Otel su ısıtıcısıyla sorunsuz çalışıyor.",
+      "pros": [
+        "Seyahat formatında AeroPress kalitesi",
+        "Espresso tarzı kahve yapıyor",
+        "Otel su ısıtıcısıyla çalışıyor"
+      ],
+      "cons": [
+        "1.200-1.550 TL ile orta segment",
+        "Yanınızda öğütülmüş kahve götürmeniz gerekiyor"
+      ]
+    },
+    "hario-v60-collapsible-dripper": {
+      "badge": "🪶 En hafif pour-over",
+      "review": "Hafif pour-over arayanlar için doğru seçim Hario V60 Collapsible Silicone Dripper. Katlanınca tamamen düzleşen silikon V60, standart V60 filtreleriyle uyumlu (her yerde bulunuyor). Hafif seyahat eden pour-over meraklıları için ideal.",
+      "pros": [
+        "Katlanınca tamamen düzleşiyor",
+        "Standart V60 filtreleri kullanıyor",
+        "500-850 TL ile ekonomik"
+      ],
+      "cons": [
+        "Su ısıtıcısı gerekiyor (ki çoğu otelde var)",
+        "Filtreyi yanınızda götürmeniz ya da orada bulmanız lazım"
+      ]
+    },
+    "wacaco-nanopresso": {
+      "badge": "☕ En iyi taşınabilir espresso",
+      "review": "Taşınabilir espresso makinesinde doğru tercih Wacaco Nanopresso. Elle pompalı (18 bar basınç), pil istemiyor, gerçek krema çıkarıyor. Seyahat eden espresso tutkunları için en iyisi. İnce öğütülmüş espresso kahvesi gerekiyor.",
+      "pros": [
+        "Kremalı gerçek espresso",
+        "Pil gerektirmiyor",
+        "Elle pompalı (elektrik yok)"
+      ],
+      "cons": [
+        "2.100-3.100 TL ile orta segment",
+        "İnce öğütüm şart (espresso çekimi götürmek en iyisi)"
+      ]
+    },
+    "stagg-pour-over-set": {
+      "badge": "💎 En iyi premium",
+      "review": "Premium seyahat kahvesi denince akla Fellow Stagg Pour-Over Travel Set geliyor. Stagg [X] dripper ve çift cidarlı bardak setin içinde. Keyifli bir demleme deneyimi, üst düzey yapı kalitesi. Premium ekipmanın hacmini dert etmiyorsanız en iyi seçim.",
+      "pros": [
+        "Üst düzey yapı kalitesi",
+        "Keyifli demleme deneyimi",
+        "Çift cidarlı bardak dahil"
+      ],
+      "cons": [
+        "2.100-3.100 TL ile premium fiyat",
+        "Katlanabilir modellere göre daha hacimli"
+      ]
+    },
+    "minipresso-ns-capsules": {
+      "badge": "💊 Nespresso kullananlara",
+      "review": "Nespresso'yla seyahat edenler için doğru seçim Wacaco Minipresso NS. Nespresso kapsülleriyle elle pompalanan espresso (değirmen yok, sadece kapsül götürüyorsunuz), 18 bar basınç. Evde zaten Nespresso makineniz varsa birebir.",
+      "pros": [
+        "Nespresso kapsülleriyle çalışıyor",
+        "Elle pompalı (pil yok)",
+        "Gerçek espresso basıncı"
+      ],
+      "cons": [
+        "Yanınızda kapsül götürmeniz gerekiyor",
+        "Nespresso kapsülleri atık yaratıyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "aeropress-go": "aeropress.com ve Amazon'da satılıyor. Kutudan filtre çıkıyor; seyahat için yanınıza yedek alın.",
+    "hario-v60-collapsible-dripper": "hario.com ve Amazon'da satılıyor. Standart V60 filtreleri kullanın (orta boy dripper için 02 numara).",
+    "wacaco-nanopresso": "wacaco.com ve Amazon'da satılıyor. Farklı kapsül tipleri için adaptör paketleri mevcut.",
+    "stagg-pour-over-set": "fellowproducts.com üzerinden satılıyor. Seyahate özel sette bardak dahil; Stagg dripper tek başına da alınabiliyor.",
+    "minipresso-ns-capsules": "wacaco.com ve Amazon'da satılıyor. Orijinal Nespresso kapsülleriyle uyumlu (Vertuo değil)."
+  },
+  "pinDescription": "Otel odasında bile kafe kalitesinde kahve: 2026'nın en iyi seyahat kahve demleyicileri — AeroPress Go, katlanabilir Hario V60, Wacaco Nanopresso, Fellow Stagg ve Minipresso NS karşılaştırması.",
+  "recommendedFor": [
+    {
+      "label": "Hafif seyahat eden sık iş yolcuları",
+      "offerId": "aeropress-go",
+      "reason": "AeroPress Go kendi termos bardağıyla geliyor ve el bagajı boyutuna katlanıyor; otel kahvesine hiç dokunmanıza gerek kalmıyor."
+    },
+    {
+      "label": "Bütçesini kollayan sırt çantalı ve hostel gezginleri",
+      "offerId": "hario-v60-collapsible-dripper",
+      "reason": "500-850 TL'ye silikon V60 tamamen düzleşiyor ve neredeyse hiç ağırlık yapmıyor — her kuruşun ve her gramın önemli olduğu yolculuklar için ideal."
+    },
+    {
+      "label": "Kremadan taviz vermeyen espresso tutkunları",
+      "offerId": "wacaco-nanopresso",
+      "reason": "Elle pompalanan 18 bar basınç, elektrik ya da kapsül olmadan gerçek krema çıkarıyor — nerede olursanız olun hakiki espresso."
+    },
+    {
+      "label": "Tüm ekipmanıyla seyahat eden kahve meraklıları",
+      "offerId": "stagg-pour-over-set",
+      "reason": "Stagg [X] dripper ve setteki çift cidarlı bardak, deneyimi önemseyenlere premium bir pour-over ritüeli sunuyor."
+    },
+    {
+      "label": "Yolda da alıştığı tadı arayan Nespresso kullanıcıları",
+      "offerId": "minipresso-ns-capsules",
+      "reason": "Evde kullandığınız Nespresso kapsülleriyle çalışıyor — değirmen yok, telve derdi yok, aynı tat profili."
+    }
+  ]
 }

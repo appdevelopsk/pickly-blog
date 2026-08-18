@@ -2,5 +2,158 @@
   "title": "2026'nın en iyi kripto borsası: 5 ürün karşılaştırma",
   "description": "Coinbase, Kraken, Gemini, Binance.US, Bitfinex ürünlerini karşılaştırdık. 2026'da kripto borsası için ücretler ve düzenleyici durum açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Aylık 10.000 $ hacimde komisyon hesabı",
+      "paragraphs": [
+        "Coinbase Advanced: ayda 32 $ (bu kademede %0,40 taker, %0,25 maker). ABD'de düzenlemeye tabi seçenekler arasında en pahalısı.",
+        "Kraken Pro: ayda 18 $ (%0,26 taker, %0,16 maker). Coinbase Advanced'in komisyonlarının yarısı.",
+        "Gemini Active Trader: ayda 35 $ (%0,40 taker, %0,20 maker). Coinbase ile benzer, maker tarafında biraz daha yüksek.",
+        "Binance.US: ayda 8 $ (%0,10 taker, %0,10 maker). ABD'de düzenlemeye tabi en ucuz seçenek.",
+        "Bitfinex: ayda 16 $ (%0,20 taker, %0,10 maker). Ucuz ama ABD'de yaşayanlara kapalı."
+      ]
+    },
+    {
+      "heading": "Güvenlik ve regülasyon durumu",
+      "paragraphs": [
+        "Coinbase, Kraken, Gemini, Binance.US: hepsi ABD düzenlemesine tabi. Coinbase ve Gemini, NYDFS BitLicense kapsamında çalışıyor (ABD'de eyalet düzeyindeki en yüksek standart). Kraken, Wyoming SPDI lisansıyla faaliyet gösteriyor. Binance.US düzenleyici incelemelerden geçti ama faaliyetini sürdürüyor.",
+        "Saklama sigortası: Coinbase ve Gemini, banka düzeyinde sigortalı soğuk cüzdan kullanıyor. Kraken sektörün en uzun temiz güvenlik geçmişine sahip (2011'deki kuruluşundan bu yana hiç hacklenmedi). Binance.US'in sigorta detayları ise daha az şeffaf.",
+        "Bitfinex ABD dışında düzenleniyor (Britanya Virjin Adaları) ve ABD'de yaşayanlara kapalı. 2016'da 72 milyon dolarlık bir hack yaşadılar (2022'ye kadar kullanıcı zararının büyük kısmı karşılandı) ve faaliyetleri sürüyor."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi",
+      "paragraphs": [
+        "ABD'de yeni başlayanlar için en iyisi: Coinbase Advanced. Bu karşılaştırmadaki en yüksek komisyonlara sahip ama arayüzü yeni başlayana en uygun olan, en geniş varlık seçeneğini (250+) ve en güçlü regülasyon geçmişini sunan borsa.",
+        "ABD'de aktif işlem yapanlar için en iyisi: Kraken Pro. Komisyonlar Coinbase'in yarısı, 200+ varlık, gelişmiş emir tipleri ve en uzun temiz güvenlik sicili.",
+        "Güvenliğe önem verenler için en iyisi: Gemini Active Trader. NYDFS düzenlemesi, saklama sigortası ve açıkça belgelenmiş en güçlü soğuk cüzdan uygulamaları.",
+        "ABD'de düşük komisyon için en iyisi: Binance.US. %0,10 taker komisyonu, ABD'de düzenlemeye tabi borsalar arasında en düşüğü. Varlık seçeneği sınırlı (diğerlerindeki 250+ yerine 150).",
+        "Yurt dışındaki ileri düzey kullanıcılar için en iyisi: Bitfinex. ABD'de yaşayanlara uygun değil. Güçlü kaldıraçlı işlem, gelişmiş emir tipleri ve rekabetçi komisyonlar."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kriptomu borsada bırakmalı mıyım?",
+      "a": "Aktif işlem yapıyorsanız evet, uzun vadeli tutuyorsanız hayır. 30 gün içinde işlem yapmayı düşünmediğiniz kripto için kendi saklama cüzdanınızı kullanın (Ledger, Trezor). 'Anahtarlar senin değilse, coinler de senin değil' sözü gerçek — 2022'deki FTX olayı bunu herkese hatırlattı."
+    },
+    {
+      "q": "Hangisi daha güvenli, Coinbase mi Kraken mi?",
+      "a": "ABD düzenlemesine tabi borsalar olarak ikisi de güvenli. Kraken'in temiz güvenlik geçmişi daha uzun (2011'den bu yana sıfır hack). Coinbase ise tüketici açısından daha güçlü hukuki başvuru imkânı sunuyor (SEC'e raporlama yapan, ABD borsasında işlem gören halka açık şirket)."
+    },
+    {
+      "q": "Binance.US neden daha ucuz?",
+      "a": "Binance.US, Coinbase'den farklı bir komisyon yapısı kullanıyor: temel komisyonlar daha düşük ama ekstralar daha az (birçok varlıkta staking yok, varlık seçeneği daha dar, arayüz daha az olgun). Küresel Binance'in düzenleyici sorunlar yaşamış, daha küçük ABD kolu."
+    },
+    {
+      "q": "ABD'de Bitfinex kullanabilir miyim?",
+      "a": "Hayır, Bitfinex ABD'de yaşayanları engelliyor. Bunu VPN ile aşmak Bitfinex'in kullanım koşullarını ihlal eder; hesabınızın dondurulmasına ve varlıklarınıza el konulmasına yol açabilir."
+    }
+  ],
+  "products": {
+    "coinbase-advanced": {
+      "badge": "🏆 ABD'de yeni başlayanlar için en iyisi",
+      "review": "Coinbase Advanced, ABD düzenlemesine tabi borsalar içinde yeni başlayana en uygun olanı. 250+ varlık, FDIC sigortalı USD bakiyesi (250.000 $'a kadar) ve on yılı aşkın sürede rafine edilmiş bir arayüz. Karşılığında komisyon ödüyorsunuz: %0,40 taker en yüksek oran. Ara sıra alıp tuttuğunuz bir başlangıç borsası olarak yüksek komisyonlar pek fark etmez. Sık işlem yapmaya başladığınızda Kraken veya Binance.US'e geçin.",
+      "pros": [
+        "Yeni başlayana en uygun arayüz",
+        "250+ varlık seçeneği",
+        "250.000 $'a kadar FDIC sigortalı USD bakiyesi",
+        "SEC'e raporlama yapan halka açık şirket"
+      ],
+      "cons": [
+        "%0,40 taker komisyonu, ABD düzenlemeli borsalar arasında en yüksek",
+        "Coinbase staking hizmeti düzenleyici sorunlar yaşadı"
+      ]
+    },
+    "kraken-pro": {
+      "badge": "⚡ ABD'de aktif işlem yapanlar için en iyisi",
+      "review": "Kraken Pro, ABD'de aktif işlem yapanlar için doğru borsa. %0,26 taker / %0,16 maker komisyonları Coinbase'in yarısı. 200+ varlık, gelişmiş emir tipleri (stop-limit, OCO, iceberg) ve sektörün en uzun temiz güvenlik sicili (2011'den bu yana sıfır hack). Gelişmiş arayüzün bir öğrenme eğrisi var — Kraken Pro, tüketiciye yönelik Kraken sitesinden ayrı bir ürün. Düzenli işlem yapıyorsanız komisyondan kazandığınız, öğrenmeye harcadığınız emeği birkaç ay içinde geri öder.",
+      "pros": [
+        "%0,26 taker komisyonu — Coinbase'in yarısı",
+        "2011'den bu yana sıfır hack",
+        "Gelişmiş emir tipleri (stop-limit, OCO)"
+      ],
+      "cons": [
+        "Arayüzün öğrenme eğrisi var",
+        "Bazı varlıklar yalnızca ABD dışındakilere açık"
+      ]
+    },
+    "gemini-active-trader": {
+      "badge": "🛡️ Güvenlik odaklı en iyisi",
+      "review": "Gemini Active Trader, güvenliğe odaklanan ABD borsası. NYDFS düzenlemesi, SOC 2 Type 2 denetimi, Aon liderliğindeki konsorsiyumla özel soğuk cüzdan sigortası. 70+ varlık (Coinbase veya Kraken'den dar). Active Trader komisyonu %0,40 taker — Coinbase'le benzer, Kraken'den biraz yüksek. Borsada uzun vadeli tutmayı düşündüğünüz kripto için en uygunu (çoğu kişi kendi saklama cüzdanını kullanmalı, ama mecburen borsada tutacaksanız en güvenli seçenek Gemini).",
+      "pros": [
+        "NYDFS BitLicense + SOC 2 Type 2 denetimi",
+        "Özel soğuk cüzdan sigortası",
+        "Güçlü tüketici korumaları"
+      ],
+      "cons": [
+        "70 varlık, rakiplerine göre az",
+        "%0,40 taker komisyonu Coinbase seviyesinde"
+      ]
+    },
+    "binance-us": {
+      "badge": "💸 ABD'de düşük komisyonda en iyisi",
+      "review": "Binance.US, ABD düzenlemeli borsalar arasında en düşük komisyonlara sahip: %0,10 taker / %0,10 maker. 150 varlık, gelişmiş emir tipleri ve küresel Binance teknolojisiyle entegrasyon. Zayıf noktası regülasyon belirsizliği — Binance.US birden fazla SEC ve CFTC işlemiyle karşılaştı ve Coinbase/Kraken'e göre daha sıkı kısıtlamalarla çalışıyor. Parayı hızlıca girip çıkardığınız, düşük komisyonlu bir işlem borsası olarak bu risk yönetilebilir. Uzun vadeli saklama içinse daha az cazip.",
+      "pros": [
+        "%0,10 taker komisyonu, ABD düzenlemeli borsalarda en düşük",
+        "Küresel Binance altyapısından gelen gelişmiş emir tipleri",
+        "Makul varlık seçeneği (150+)"
+      ],
+      "cons": [
+        "ABD'de süregelen düzenleyici incelemeler",
+        "Sigorta detayları daha az şeffaf",
+        "Coinbase/Kraken'e göre daha az eyalette hizmet veriyor"
+      ]
+    },
+    "bitfinex": {
+      "badge": "🌍 Yurt dışı ileri düzey için en iyisi",
+      "review": "Bitfinex, uluslararası ileri düzey borsa. ABD'de yaşayanlara kapalı (BVI düzenlemesi). %0,20 taker / %0,10 maker. 150+ varlık, gelişmiş kaldıraçlı işlem (desteklenen paritelerde 10x'e kadar) ve derin emir defterleri. 2016'da 72 milyon dolarlık bir hack yaşadılar (2022'ye kadar kullanıcıların büyük kısmının zararı karşılandı) ve faaliyetleri sürüyor. ABD dışında aktif işlem yapıyorsanız Bitfinex komisyonlarda Kraken'le yarışıyor ve Kraken'de olmayan kaldıraçlı işlem sunuyor.",
+      "pros": [
+        "10x'e kadar kaldıraçlı işlem",
+        "Büyük işlemler için derin emir defterleri",
+        "%0,10 maker komisyonu rekabetçi"
+      ],
+      "cons": [
+        "ABD'de yaşayanlara kapalı",
+        "2016 hack geçmişi (2022'de çözülmüş olsa da)",
+        "ABD borsalarına göre regülasyon şeffaflığı düşük"
+      ]
+    }
+  },
+  "offerNotes": {
+    "coinbase-advanced": "coinbase.com üzerinden kayıt olun. Düşük komisyon kademesi için 'Coinbase Advanced'i (eski adıyla Coinbase Pro) kullanın — işlemlerin üzerine %1,49 spread ekleyen temel Coinbase uygulamasını değil.",
+    "kraken-pro": "kraken.com üzerinden kayıt olun. Kraken Pro'yu (pro.kraken.com) kullanın — tüketiciye yönelik Kraken sitesinin komisyonları daha yüksek. Doğrulama 1-3 gün sürebilir; işlem yapmayı planladığınız tarihten önce tamamlayın.",
+    "gemini-active-trader": "gemini.com üzerinden kayıt olun. Düşük komisyonlar için Gemini ActiveTrader'ı kullanın (tüketici Gemini'den ayrı bir arayüz). İlk 10 gün boyunca hacimden bağımsız olarak Active Trader oranları geçerli.",
+    "binance-us": "binance.us üzerinden kayıt olun. New York, Hawaii, Texas, Vermont ve birkaç eyalet dışında ABD'nin çoğunda kullanılabiliyor — kayıt olmadan önce kontrol edin.",
+    "bitfinex": "bitfinex.com üzerinden kayıt olun. ABD dışında ikamet şartı var. KYC doğrulaması ABD borsalarından daha kapsamlı (3-7 gün bekleyin). Para çekme limitleri doğrulama seviyenize göre artıyor."
+  },
+  "pinDescription": "Kripto borsası seçerken komisyon farkı yılda binlerce lira demek. Coinbase, Kraken, Gemini, Binance.US ve Bitfinex'i aylık 10.000 $ hacim üzerinden karşılaştırdık.",
+  "recommendedFor": [
+    {
+      "label": "ABD'de ilk kez kripto alanlar",
+      "offerId": "coinbase-advanced",
+      "reason": "Coinbase Advanced'in cilalı arayüzü ve FDIC sigortalı USD bakiyesi, ilk kriptosunu alıp tutacak yeni kullanıcılar için öğrenme eğrisini neredeyse sıfırlıyor."
+    },
+    {
+      "label": "Ayda onlarca işlem yapan ABD'li aktif yatırımcılar",
+      "offerId": "kraken-pro",
+      "reason": "%0,26 taker komisyonuyla — Coinbase'in yarısı — Kraken Pro'nun tasarrufu sık işlem yapanlarda hızla birikiyor, üstelik 2011'den beri sıfır hack demek uykusuz gece yok demek."
+    },
+    {
+      "label": "Kriptosunu borsada tutan, güvenliğe önem verenler",
+      "offerId": "gemini-active-trader",
+      "reason": "Gemini'nin NYDFS BitLicense'ı, SOC 2 Type 2 denetimi ve Aon liderliğindeki soğuk cüzdan sigortası, kendi cüzdanınızı kullanamıyorsanız en güvenli borsa saklaması yapıyor."
+    },
+    {
+      "label": "Her baz puanı önemseyen, maliyete duyarlı ABD'li yatırımcılar",
+      "offerId": "binance-us",
+      "reason": "Binance.US'in sabit %0,10 taker komisyonu ABD düzenlemeli borsalar arasında en düşüğü; aynı hacimde işlem maliyetini Coinbase'in dörtte birine indiriyor."
+    },
+    {
+      "label": "Marj ve kaldıraca ihtiyaç duyan ABD dışı yatırımcılar",
+      "offerId": "bitfinex",
+      "reason": "Bitfinex, derin emir defterleriyle 10x'e kadar kaldıraçlı işlem sunuyor — ABD düzenlemeli alternatiflerde olmayan bir imkân — üstelik rekabetçi %0,20 taker komisyonuyla."
+    }
+  ]
 }

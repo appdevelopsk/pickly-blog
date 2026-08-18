@@ -2,5 +2,152 @@
   "title": "2026'nın en iyi akvaryum filtresi: 5 ürün karşılaştırma",
   "description": "Fluval, AquaClear, Marineland, Tetra, Seachem ürünlerini karşılaştırdık. 2026'da akvaryum filtresi için akış hızı ve filtre malzemesi kapasitesi açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Dış filtre, askılı filtre ve iç filtre",
+      "paragraphs": [
+        "Dış (kanister) filtre (Fluval FX6, Marineland Magniflow): akvaryumun dışında durur, en yüksek malzeme hacmi. 150 litre ve üzeri için ideal.",
+        "Askılı (HOB) filtre (AquaClear, Seachem Tidal): akvaryum kenarına asılır, orta hacim. 75-285 litre arası için ideal.",
+        "İç filtre (Tetra Whisper): su içinde durur, en küçük hacim. 150 litrenin altı için ideal."
+      ]
+    },
+    {
+      "heading": "Gerçek debi ile etikette yazan debi",
+      "paragraphs": [
+        "Gerçek debi, etiketteki L/saat değerinin %60-80'i kadardır (üretici değerleri sıfır basma yüksekliğine göre verilir).",
+        "Fluval FX6: 3.500 L/sa etiket / 2.800 ölçülen (%80). AquaClear 110: 1.900 / 1.610 (%85). Marineland Magniflow 360: 1.360 / 1.100 (%81). Tetra Whisper: 570 / 400 (%70). Seachem Tidal 110: 1.700 / 1.475 (%87 — en isabetli değer)."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi",
+      "paragraphs": [
+        "Büyük akvaryumlar (285 L+) için en iyisi: Fluval FX6 (13.000-15.500 TL). Dış filtrelerin referans noktası.",
+        "En iyi askılı beygir: AquaClear 110 (2.600-3.400 TL). Malzemesi tamamen özelleştirilebilir, on yıllardır hobinin standart tavsiyesi.",
+        "En iyi orta segment dış filtre: Marineland Magniflow 360 (4.300-5.600 TL). Fluval'a göre temizliği daha kolay.",
+        "Yeni başlayanlar için en iyisi: Tetra Whisper (500-1.100 TL). Suya batırılır, kurulumu kolay, sessiz.",
+        "Yüzey emişli en iyi askılı: Seachem Tidal 110 (4.000-5.300 TL). Yüzey emişi, geniş malzeme sepeti."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ne kadar güçlü bir filtre gerekir?",
+      "a": "Saatte akvaryum hacminin 4-6 katı devir gerekir. 285 litrelik bir akvaryum için gerçek debi olarak ~1.150-1.700 L/sa. Yoğun balık yükü varsa 6-10 kat."
+    },
+    {
+      "q": "Filtre malzemeleri ne sıklıkla temizlenir?",
+      "a": "Mekanik: 2-4 haftada bir akvaryum suyuyla durulayın. Biyolojik: ayda bir akvaryum suyuyla durulayın (asla musluk suyu kullanmayın — klor bakterileri öldürür). Kimyasal: 4-6 haftada bir değiştirin."
+    },
+    {
+      "q": "Tek akvaryumda birden fazla filtre olur mu?",
+      "a": "Olur — deneyimli akvaryumcular yedeklilik için ana dış filtreye ek olarak bir askılı filtre çalıştırır."
+    },
+    {
+      "q": "Dış filtre, askılıya kıyasla parasını hak ediyor mu?",
+      "a": "150 litre üzeri ya da yoğun balık yükü olan akvaryumlarda evet — dış filtrelerin malzeme hacmi askılıların 3-5 katı."
+    }
+  ],
+  "products": {
+    "fluval-fx6-canister-filter": {
+      "badge": "🏆 Büyük akvaryumda en iyisi",
+      "review": "Fluval FX6, büyük akvaryumlar için amiral gemisi dış filtre. Etikette 3.500 L/sa (ölçülen 2.800), 6 L malzeme hacmi, kendinden emişli, çok kademeli filtrasyon. Akvaryumun dışında durur. 380-1.500 litrelik akvaryumlarda standart tercih.",
+      "pros": [
+        "3.500 L/sa debi, geniş malzeme hacmi",
+        "Kendinden emişli, bakımı kolay",
+        "1.500 litreye kadar akvaryumlar"
+      ],
+      "cons": [
+        "13.000-15.500 TL ile en pahalısı",
+        "Hortumlar dolapta epey yer kaplıyor"
+      ]
+    },
+    "aquaclear-110-power-filter": {
+      "badge": "🏆 En iyi askılı beygir",
+      "review": "AquaClear 110, on yıllardır askılı filtrelerde standart tavsiye. Özelleştirilebilir malzeme sepeti, debi ayarı, 415 litreye kadar kapasite. Etikette 1.900 L/sa (ölçülen 1.610).",
+      "pros": [
+        "Özelleştirilebilir malzeme sepeti",
+        "Debi ayarı",
+        "On yıllardır kendini kanıtlamış tasarım"
+      ],
+      "cons": [
+        "Kenarda göze çarpacak şekilde asılı duruyor",
+        "Her kenar tipine oturmuyor"
+      ]
+    },
+    "marineland-magniflow-canister-filter": {
+      "badge": "🪜 En iyi orta segment dış filtre",
+      "review": "Marineland Magniflow 360, orta segmentin dış filtresi. Etikette 1.360 L/sa (ölçülen 1.100), 380 litreye kadar kapasite, hızlı ayrılan bağlantılar sayesinde bakımı Fluval'dan kolay.",
+      "pros": [
+        "Bakım için hızlı ayrılan bağlantılar",
+        "Parlatma süngeri dahil",
+        "380 litreye kadar akvaryumlar"
+      ],
+      "cons": [
+        "Fluval FX6'dan küçük",
+        "Uzun vadede Fluval kadar güvenilir değil"
+      ]
+    },
+    "tetra-whisper-internal-filter": {
+      "badge": "💸 Yeni başlayanlar için en iyisi",
+      "review": "Tetra Whisper Internal, 40-150 litrelik akvaryumlar için doğru giriş seviyesi filtre. Suya batırılır, kurulumu kolay, sessiz. Malzeme özelleştirmesi kısıtlı (yalnızca Tetra kartuşları).",
+      "pros": [
+        "500-1.100 TL ile en uygun fiyatlısı",
+        "Suya batırılır — tamamen gözden kaybolur",
+        "Yeni başlayan için kolay kurulum"
+      ],
+      "cons": [
+        "Özelleştirme kısıtlı",
+        "Askılı ve dış filtrelerden düşük kapasite"
+      ]
+    },
+    "seachem-tidal-110-power-filter": {
+      "badge": "🌊 Yüzey emişli en iyi askılı",
+      "review": "Seachem Tidal 110, yüzey emişi isteyenler için doğru askılı filtre. Su yüzeyindeki protein tabakasını alır (bitkili akvaryumlarda işe yarar). Geniş malzeme sepeti, debi ayarı. Etikette 1.700 L/sa (ölçülen 1.475 — etikete en sadık model).",
+      "pros": [
+        "Yüzey emişi",
+        "Geniş malzeme sepeti",
+        "Etiket debisine en sadık model"
+      ],
+      "cons": [
+        "4.000-5.300 TL ile AquaClear'dan pahalı",
+        "Basit askılılara göre daha çok hareketli parça"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fluval-fx6-canister-filter": "fluvalaquatics.com, Petco, PetSmart ve Chewy'de bulunur. Fluval dış filtrelerinde en çok tercih edilenler FX4 (küçük) ve FX6 (büyük).",
+    "aquaclear-110-power-filter": "aqueon.com, Petco, PetSmart, Chewy ve Amazon'da bulunur. 110 en büyüğü; küçük akvaryumlar için AC 70/50/30/20 var.",
+    "marineland-magniflow-canister-filter": "marineland.com, Petco, PetSmart ve Chewy'de bulunur. 360 büyük olanı; küçük akvaryumlar için 220 var.",
+    "tetra-whisper-internal-filter": "tetra-fish.com, PetSmart, Petco, Chewy ve Amazon'da bulunur. Whisper Internal akvaryum içine girer; Whisper EX ise kenara asılır.",
+    "seachem-tidal-110-power-filter": "seachem.com, Petco, PetSmart, Chewy ve Amazon'da bulunur. 110 en büyüğü; daha küçük Tidal 35/55/75 modelleri de var."
+  },
+  "pinDescription": "Akvaryum filtresi seçerken kafan karışıyor mu? Fluval FX6, AquaClear 110, Marineland Magniflow 360, Tetra Whisper ve Seachem Tidal 110'u gerçek debi, malzeme hacmi, ses seviyesi ve uzun vadeli masraf üzerinden karşılaştırdık. Akvaryumunun litresine göre doğru filtreyi seç, suyun berrak kalsın 🐠",
+  "recommendedFor": [
+    {
+      "label": "380 litre üstü resif ya da çiklit akvaryumu olan ciddi hobiciler",
+      "offerId": "fluval-fx6-canister-filter",
+      "reason": "FX6'nın 2.800 L/sa gerçek debisi ve 6 L malzeme hacmi, küçük filtrelerin altından kalkamadığı yüksek biyolojik yükü büyük akvaryumlarda taşıyor."
+    },
+    {
+      "label": "Filtre malzemesini sık sık kendi kafasına göre değiştirenler",
+      "offerId": "aquaclear-110-power-filter",
+      "reason": "AquaClear'ın açık malzeme sepeti sünger, karbon ve biyolojik malzemenin her kombinasyonunu kabul ediyor — markaya özel kartuş derdi yok."
+    },
+    {
+      "label": "Giriş seviyesi dış filtreden yükselen orta seviye akvaryumcular",
+      "offerId": "marineland-magniflow-canister-filter",
+      "reason": "Hızlı ayrılan vanalar aylık bakımı Fluval'a kıyasla çok daha az dağınık hale getiriyor, üstelik yaklaşık üçte bir fiyata."
+    },
+    {
+      "label": "40-150 litrelik ilk akvaryumunu kuranlar",
+      "offerId": "tetra-whisper-internal-filter",
+      "reason": "500-1.100 TL fiyatı, tamamen suya batan yapısı ve aletsiz kurulumuyla ilk akvaryumunu alan biri için hiçbir engel bırakmıyor."
+    },
+    {
+      "label": "Yüzey tabakası ve oksijen kaybıyla uğraşan bitkili akvaryum meraklıları",
+      "offerId": "seachem-tidal-110-power-filter",
+      "reason": "Dahili yüzey emici, su hattındaki protein tabakasını sürekli çekerek gaz alışverişini ve yaprakların berraklığını iyileştiriyor."
+    }
+  ]
 }

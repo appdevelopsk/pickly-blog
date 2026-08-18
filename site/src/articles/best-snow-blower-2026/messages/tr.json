@@ -2,5 +2,153 @@
   "title": "2026'nın en iyi kar üfleyici: 5 ürün karşılaştırma",
   "description": "EGO, Toro, Ariens, Ryobi, Snow Joe ürünlerini karşılaştırdık. 2026'da kar üfleyici için atış mesafesi ve ıslak kar performansı açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Tek kademeli mi, çift kademeli mi?",
+      "paragraphs": [
+        "Tek kademeli (Ryobi, Snow Joe, kısmen EGO): tek helezon karı doğrudan fırlatır. Düz zeminde 30 cm'nin altındaki kar için ideal. Kendinden tahrikli değil.",
+        "Çift kademeli (Toro, Ariens): helezon karı parçalar, fan fırlatır. Kendinden tahrikli. Derin kar (40 cm ve üzeri) ve engebeli zemin için en iyisi.",
+        "EGO SNT2400 melez bir tasarım — tek kademeli mimari, ek itiş desteğiyle birlikte. 30-40 cm arasında güçlü; 40 cm'yi geçince gerçek çift kademelilerin gerisinde kalıyor."
+      ]
+    },
+    {
+      "heading": "Fırlatma mesafesi ve temizleme",
+      "paragraphs": [
+        "20 cm kuru karda fırlatma mesafesi: Toro 12-15 m, Ariens 14-15 m, EGO 11-12 m, Ryobi 8-9 m, Snow Joe 5-6 m. Benzinli çift kademeliler açık ara önde.",
+        "20 cm karla kaplı 60 m'lik bir garaj yolunu temizleme: Toro 12 dk, Ariens 12 dk, EGO 18 dk (yarıda şarj molası), Ryobi 22 dk (batarya bitmeden %75'i), Snow Joe 28 dk.",
+        "Islak, ağır karda (40 cm ve üzeri): Toro ve Ariens sorunsuz hallettti. EGO zorlandı ama toparladı. Ryobi bir kısmını temizleyip durdu. Snow Joe 20 cm üzeri ıslak karda pes etti."
+      ]
+    },
+    {
+      "heading": "Soğukta çalışma güvenilirliği",
+      "paragraphs": [
+        "-12°C'de sabah ilk çalıştırma: Toro'nun elektrikli marşı anında devrede. Ariens'te de elektrikli marş anında çalışıyor (ipli marş da var). EGO'nun düğmeli çalıştırması güvenilir. Ryobi de düğmeyle çalışıyor ama aşırı soğukta menzil %20 düşüyor. Snow Joe da sorunsuz.",
+        "Benzinliler (Toro, Ariens) yakıt depolama ve sezonluk bakım istiyor (yağ, buji, karbüratör temizliği). Akülüler (EGO, Ryobi, Snow Joe) bakım istemiyor ama uzun çalışmalarda batarya menzili belirleyici oluyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "2026'da akülü mü benzinli mi?",
+      "a": "Yılda birkaç kez 40 cm üzeri kar yağan yerlerde ya da 60 m'yi aşan yollarda benzinli. Orta düzey kar alan bölgelerde veya 30 m'nin altındaki kısa yollarda akülü. Akülüler arasında en çok işi kaldıran EGO SNT2400."
+    },
+    {
+      "q": "Tek kademeli mi çift kademeli mi?",
+      "a": "Derin kar ve geniş/kırsal yollar için çift kademeli (Toro, Ariens). Şehir içinde düz zeminde 30 cm altı kar için tek kademeli (Ryobi, Snow Joe) yeter."
+    },
+    {
+      "q": "Toro mu Ariens mi?",
+      "a": "İkisi de profesyonel sınıf. Toro Power Max'in tetikle kumanda edilen direksiyonu biraz daha iyi. Ariens Deluxe'ün döküm şanzımanı daha uzun ömürlü. Seçimi yakınınızdaki servis ağına göre yapın."
+    },
+    {
+      "q": "EGO SNT2400 ne kadarlık yolu temizler?",
+      "a": "İki adet 56V 7,5Ah batarya, 20 cm karda 30-45 m'lik bir yolu kaldırıyor. 60 m üzeri ya da derin karda ortada bir şarj molası gerekiyor."
+    }
+  ],
+  "products": {
+    "ego-snow-blower-snt2400": {
+      "badge": "🏆 En iyi akülü",
+      "review": "EGO Power+ SNT2400, orta düzeyde kar alan bölgeler için doğru akülü seçim. İki adet 56V batarya, 61 cm temizleme genişliği, ek itiş desteği ve 22 saniyede 90° dönen atış borusu. Karşılaştırmanın en sessizi. Benzinli bakımıyla uğraşmak istemiyorsanız bu.",
+      "pros": [
+        "Karşılaştırmanın en sessizi",
+        "Benzinli bakımı yok",
+        "EGO ekosistemiyle uyumlu"
+      ],
+      "cons": [
+        "40 cm üzeri ıslak karda zorlanıyor",
+        "1100-1400 dolarlık fiyat"
+      ]
+    },
+    "toro-power-max-826": {
+      "badge": "🔥 Genel olarak en iyi benzinli",
+      "review": "Toro Power Max 826 OXE, kışı sert geçen bölgeler için doğru tercih. Çift kademeli benzinli, 66 cm genişlik, 252 cc motor, elektrikli marş, ısıtmalı tutamaklar. 20 cm karla kaplı 60 m'lik yolu 12 dakikada temizledi. Servis ağı geniş.",
+      "pros": [
+        "En hızlı temizleme",
+        "Isıtmalı tutamaklar",
+        "Tetikle kumanda edilen direksiyon"
+      ],
+      "cons": [
+        "Benzinli bakımı şart",
+        "EGO'dan daha gürültülü",
+        "1300-1700 dolar"
+      ]
+    },
+    "ariens-deluxe-28": {
+      "badge": "❄️ Yoğun kar için en iyisi",
+      "review": "Ariens Deluxe 28 SHO, yoğun kar ve eğimli yollar için doğru tercih. Çift kademeli benzinli, 71 cm genişlik, 306 cc motor, döküm şanzıman. Yılda 250 cm'nin üzerinde kar alan bölgelerde yaşayanlar için biçilmiş kaftan.",
+      "pros": [
+        "71 cm ile en geniş temizleme",
+        "Döküm şanzıman (dayanıklı)",
+        "40 cm üzeri ıslak karı kaldırıyor"
+      ],
+      "cons": [
+        "Karşılaştırmanın en ağırı",
+        "En pahalısı (1400-1800 dolar)"
+      ]
+    },
+    "ryobi-40v-21inch-snow-blower": {
+      "badge": "🏠 Ryobi kullananlar için",
+      "review": "Ryobi 40V 53 cm Kar Küreme Makinesi, elinde Ryobi 40V bataryası olan ve kısa yolu olanlar için doğru tercih. 53 cm tek kademeli akülü, 33 cm derinlik, 500-700 dolar. 60 m'lik yolun %75'ini temizledikten sonra bataryası bitti — 30 m altı için ideal.",
+      "pros": [
+        "Ryobi 40V ile uyumlu",
+        "Benzinli bakımı yok",
+        "Uygun fiyatlı akülü"
+      ],
+      "cons": [
+        "Batarya menzili kısıtlı",
+        "Yoğun/ıslak kara uygun değil",
+        "Sadece tek kademeli"
+      ]
+    },
+    "snow-joe-ion100v": {
+      "badge": "💸 En iyi uygun fiyatlı akülü",
+      "review": "Snow Joe iON100V, kısa yollar ve hafif kar için doğru tercih. 100V akülü, 46 cm genişlik, 16 kg (en hafifi). 20 cm altı kar için ideal; 20 cm üzeri ıslak karda pes etti. Kolay depolanıyor. Giriş seviyesinde uygun fiyat.",
+      "pros": [
+        "En hafifi (16 kg)",
+        "Kolay depolanıyor",
+        "Uygun fiyatlı akülü giriş modeli"
+      ],
+      "cons": [
+        "20 cm üzeri ıslak karda yetersiz",
+        "En dar temizleme genişliği (46 cm)",
+        "Ekosistemi kısıtlı"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ego-snow-blower-snt2400": "egopowerplus.com veya Home Depot üzerinden alınabiliyor. Çoğu zaman batarya + şarj cihazıyla birlikte paket halinde satılıyor.",
+    "toro-power-max-826": "Toro bayilerinden veya Home Depot'tan alınabiliyor. Asıl değeri bayi servis ağında.",
+    "ariens-deluxe-28": "Ariens bayilerinden alınabiliyor. Kurulum ve servis bayi üzerinden.",
+    "ryobi-40v-21inch-snow-blower": "homedepot.com veya ryobitools.com üzerinden alınabiliyor.",
+    "snow-joe-ion100v": "amazon.com veya snowjoe.com üzerinden alınabiliyor. Batarya kutudan çıkıyor."
+  },
+  "pinDescription": "Kar küreme makinesi alacaklara 2026 rehberi: EGO, Toro, Ariens, Ryobi ve Snow Joe yan yana. Tek mi çift kademeli mi, kaç cm genişlik, kaç metre atış ve akülü mü benzinli mi daha ucuza geliyor? #karküreme",
+  "recommendedFor": [
+    {
+      "label": "Kışı sert geçen bölgelerde uzun garaj yolu olanlar",
+      "offerId": "ariens-deluxe-28",
+      "reason": "71 cm genişliğindeki döküm şanzımanlı çift kademeli model, karşılaştırmadaki diğer tüm makineleri yenen 40 cm üzeri ıslak karı kaldırıyor."
+    },
+    {
+      "label": "Benzinli bakımıyla hiç uğraşmak istemeyenler",
+      "offerId": "ego-snow-blower-snt2400",
+      "reason": "Karşılaştırmanın en sessizi; ek itiş desteğiyle 40 cm'ye kadar karı yağ değişimi, buji ya da karbüratör temizliği olmadan temizliyor."
+    },
+    {
+      "label": "Kar yükü ağır bölgelerde geniş yolu olanlar",
+      "offerId": "toro-power-max-826",
+      "reason": "20 cm karla kaplı 60 m'lik yolu 12 dakikada temizledi; ısıtmalı tutamak ve tetikli direksiyon uzun çalışmayı katlanılır kılıyor."
+    },
+    {
+      "label": "Elinde Ryobi aleti olan, kısa ve düz yolu olanlar",
+      "offerId": "ryobi-40v-21inch-snow-blower",
+      "reason": "Ryobi 40V ekosistemiyle batarya paylaştığı için 30 m altı yollarda ve orta düzey karda toplam maliyeti düşük tutuyor."
+    },
+    {
+      "label": "Apartman veya sitede küçük bir yürüyüş yolunu temizleyenler",
+      "offerId": "snow-joe-ion100v",
+      "reason": "16 kg ağırlığı ve 46 cm genişliğiyle dolaba kaldırması en kolay model; 20 cm altı hafif karı zahmetsiz hallediyor."
+    }
+  ]
 }

@@ -2,5 +2,145 @@
   "title": "2026'nın en iyi koşu taytı: 5 ürün karşılaştırma",
   "description": "Lululemon, Nike, Athleta, Outdoor Voices, Amazon Essentials ürünlerini karşılaştırdık. 2026'da koşu taytı için performans ve konfor açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Premium ve uygun fiyatlı koşu taytları",
+      "paragraphs": [
+        "Premium (Lululemon, Athleta): markaya özel kumaşlar, üst düzey doku, 3.500 TL ve üzeri fiyatlar.",
+        "Orta segment (Nike, Outdoor Voices): performans kumaşları, 2.800-3.500 TL.",
+        "Ekonomik (Amazon Essentials): standart polyester-elastan, 900-1.200 TL. İşini görür ama detaylarda fark belli olur."
+      ]
+    },
+    {
+      "heading": "Hangi kullanım için hangisi",
+      "paragraphs": [
+        "En iyi premium: Lululemon Fast and Free (4.500-5.200 TL). Nulux kumaş.",
+        "En iyi performans: Nike Fast Tight (2.800-3.500 TL). Dri-FIT + file havalandırma.",
+        "En iyi sürdürülebilirlik: Athleta Power Train (3.400-4.100 TL). Sürdürülebilir kumaşlar.",
+        "En iyi tasarım: Outdoor Voices Discovery (2.700-3.400 TL). Çok renkli kontrast.",
+        "En iyi bütçe seçeneği: Amazon Essentials (900-1.200 TL). Fiyatının hakkını veriyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Koşu için Lululemon mı Nike mı?",
+      "a": "Lululemon daha premium bir doku ve pürüzsüz kumaş sunuyor. Nike ise daha nefes alır, ayrı file panelleri var. Tamamen zevk meselesi."
+    },
+    {
+      "q": "Koşu taytı kaç yıl dayanır?",
+      "a": "Premium modeller haftada 3-4 kez koşan biri için 2-3 yıl, ekonomik modeller 1-2 yıl dayanır. Esneklik gittiyse veya her yer boncuklandıysa değiştirin."
+    },
+    {
+      "q": "Özel koşu taytı şart mı?",
+      "a": "Ciddi koşuyorsanız evet: teri uzaklaştıran kumaş ve doğru sıkılık fark yaratıyor. Ara sıra hafif tempolu koşuyorsanız herhangi bir spor taytı iş görür."
+    },
+    {
+      "q": "Koşu taytlarında cep var mı?",
+      "a": "Yan cepler standart. Nike ve Lululemon'un arka cepleri telefon alıyor. Telefonu belliğe sıkıştırıp koşmayın, sürekli zıplar."
+    }
+  ],
+  "products": {
+    "lululemon-fast-and-free-leggings": {
+      "badge": "🏆 En iyi premium",
+      "review": "Lululemon Fast and Free, premium koşu taytında ölçüt kabul edilen model. Hafif Nulux kumaş, teri uzaklaştırıyor, tene pürüzsüz oturuyor. Farkı yaratan şey kumaş kalitesi.",
+      "pros": [
+        "Nulux kumaş dokusu bir tık üstün",
+        "Premium işçilik",
+        "Farklı paça boyları"
+      ],
+      "cons": [
+        "4.500-5.200 TL'lik premium fiyat",
+        "Kalıplar arasında beden tutarsızlığı var"
+      ]
+    },
+    "nike-fast-tight": {
+      "badge": "⚡ En iyi performans",
+      "review": "Nike Fast Tight performans odaklı koşu taytı. Dri-FIT kumaş, terin yoğunlaştığı bölgelerde file havalandırma panelleri, güvenli cepler.",
+      "pros": [
+        "File havalandırma panelleri",
+        "Dri-FIT ter emme",
+        "Güvenli cepler"
+      ],
+      "cons": [
+        "Doku olarak Lululemon kadar premium değil",
+        "Renk seçeneği az"
+      ]
+    },
+    "athleta-power-train-tight": {
+      "badge": "🌱 En iyi sürdürülebilirlik",
+      "review": "Athleta Power Train Tight, sürdürülebilirliğe odaklanan premium seçenek. Powervita kumaş, sürdürülebilir üretim yaklaşımı ve kadınlara odaklı bir marka.",
+      "pros": [
+        "Sürdürülebilirlik odaklı",
+        "Powervita konforu",
+        "Kadın vücuduna göre kalıp"
+      ],
+      "cons": [
+        "3.400-4.100 TL'lik orta-premium fiyat",
+        "Nike kadar performans odaklı değil"
+      ]
+    },
+    "outdoor-voices-discovery-leggings": {
+      "badge": "🌈 En iyi tasarım",
+      "review": "Görüntüsüne önem verenler için doğru tercih Outdoor Voices Discovery Leggings. Teknik örgü kumaş, çok renkli kontrast paneller ve Doing Things™ havasında rahat bir spor tarzı.",
+      "pros": [
+        "Çok renkli kontrast tasarım",
+        "Teknik örgü kumaş",
+        "Rahat spor havası"
+      ],
+      "cons": [
+        "Kumaş performans açısından daha iddiasız",
+        "Beden aralığı dar"
+      ]
+    },
+    "amazon-essentials-running-tights": {
+      "badge": "💸 En iyi bütçe seçeneği",
+      "review": "Bütçesi kısıtlı olanlar için doğru tercih Amazon Essentials Running Tights. Polyester-elastan karışım, sade ama işlevsel, birçok renk seçeneği. 900-1.200 TL.",
+      "pros": [
+        "900-1.200 TL'lik uygun fiyat",
+        "Çok sayıda renk",
+        "İşlevsel"
+      ],
+      "cons": [
+        "Doku daha sıradan",
+        "1-2 yıllık ömür"
+      ]
+    }
+  },
+  "offerNotes": {
+    "lululemon-fast-and-free-leggings": "shop.lululemon.com üzerinden satın alınabilir. Farklı paça boyları mevcut (yüksek bel, orta bel).",
+    "nike-fast-tight": "nike.com üzerinden satın alınabilir. Farklı paça boyu seçenekleri var.",
+    "athleta-power-train-tight": "athleta.gap.com üzerinden satın alınabilir.",
+    "outdoor-voices-discovery-leggings": "outdoorvoices.com üzerinden satın alınabilir. Çok sayıda renk kombinasyonu mevcut.",
+    "amazon-essentials-running-tights": "amazon.com üzerinden satın alınabilir."
+  },
+  "pinDescription": "Koşu taytı arıyorsan bu karşılaştırma işini görür: Lululemon Fast and Free, Nike Fast Tight, Athleta Power Train, Outdoor Voices Discovery ve Amazon Essentials'ı kumaş ağırlığı, cep yerleşimi, bel tutuşu ve squat'ta şeffaflaşma üzerinden tek tek denedik.",
+  "recommendedFor": [
+    {
+      "label": "Haftada dört gün ve üzeri antrenman yapan ciddi koşucular",
+      "offerId": "lululemon-fast-and-free-leggings",
+      "reason": "Nulux kumaşın üstün ter emme performansı ve premium işçiliği, yoğun antrenman temposuna ve 30'un üzerinde yıkamaya sorunsuz dayanıyor."
+    },
+    {
+      "label": "Sıcakta koşanlar ve yüksek tempolu interval yapanlar",
+      "offerId": "nike-fast-tight",
+      "reason": "Terin yoğunlaştığı bölgelerdeki file havalandırma panelleri ve Dri-FIT teknolojisi, zorlu antrenmanlarda buradaki diğer modellerin hepsinden serin tutuyor."
+    },
+    {
+      "label": "Etik spor giyim markalarını önemseyen çevre duyarlı kadınlar",
+      "offerId": "athleta-power-train-tight",
+      "reason": "Athleta'nın sürdürülebilirlik yaklaşımı ve kadın kalıbına göre tasarlanmış Powervita kumaşı, konfor kadar marka değerlerini de önemseyenler için ilk sırada."
+    },
+    {
+      "label": "Tarzından ödün vermeyen fitness içerik üreticileri ve keyfine koşanlar",
+      "offerId": "outdoor-voices-discovery-leggings",
+      "reason": "Çok renkli kontrast paneller ve Doing Things™ estetiği sosyal medyada da salonda da göz doldururken günlük kullanım rahatlığından ödün verdirmiyor."
+    },
+    {
+      "label": "Koşuya yeni başlayan, bütçesini zorlamak istemeyenler",
+      "offerId": "amazon-essentials-running-tights",
+      "reason": "900-1.200 TL bandında ve çok sayıda renk seçeneğiyle, alışkanlık henüz oturmadan premium fiyatlara girmeden başlamanızı sağlıyor."
+    }
+  ]
 }

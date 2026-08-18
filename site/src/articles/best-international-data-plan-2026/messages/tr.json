@@ -2,5 +2,145 @@
   "title": "En iyi uluslararası veri paketi 2026: 5 ürün karşılaştırma",
   "description": "Google Fi, Airalo, Verizon, T-Mobile, Holafly ürünlerini karşılaştırdık. 2026'da uluslararası veri paketi için kapsama ve maliyet açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "eSIM, operatör ek paketi ve özel hat karşılaştırması",
+      "paragraphs": [
+        "Özel hat (Google Fi, T-Mobile): ana hattınız yurt dışında ek paket gerekmeden çalışır.",
+        "Operatör ek paketi (Verizon TravelPass): yurt dışında sınırsız veri için günlük 10 dolar ödersiniz.",
+        "eSIM (Airalo, Holafly): ana hattınızın yanına ülkeye özel paket kurarsınız."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi uygun?",
+      "paragraphs": [
+        "En iyi genel çözüm: Google Fi (aylık 20-80 dolar). 200'den fazla ülkede ek paketsiz çalışır.",
+        "En iyi eSIM pazar yeri: Airalo (paket başına 5-30 dolar). 200'den fazla destinasyon.",
+        "Verizon aboneleri için en iyisi: Verizon TravelPass (günlük 10 dolar). Mevcut hattınızı yurt dışında kullanırsınız.",
+        "T-Mobile aboneleri için en iyisi: T-Mobile Go5G Plus (aylık 90 dolar). 215'ten fazla ülkede ayda 5 GB ücretsiz.",
+        "En iyi sınırsız eSIM: Holafly (günlük 6-20 dolar). Gerçekten sınırsız veri."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "eSIM mi, fiziksel SIM mi?",
+      "a": "eSIM artık standart: uygulamadan kuruyorsunuz, fiziksel karta gerek yok. 2018 sonrası tüm iPhone'lar ve çoğu Android amiral gemisi eSIM destekliyor. Eski telefonlarda fiziksel SIM şart (bazı ülkelerde hâlâ fiziksel SIM satılıyor)."
+    },
+    {
+      "q": "Sadece Wi-Fi'ye güvensem olmaz mı?",
+      "a": "Ara sıra seyahat ediyorsanız olur; otellerin ve kafelerin çoğunda ücretsiz Wi-Fi var. Ama navigasyon, taksi uygulamaları veya iş için mobil veri çok daha güvenilir."
+    },
+    {
+      "q": "Yurt dışında numaramı kaybeder miyim?",
+      "a": "Servise göre değişir. Google Fi ve T-Mobile numaranızı dünya genelinde aktif tutar. Airalo eSIM size ayrı bir geçici numara verir. Verizon TravelPass mevcut numaranızı korur."
+    },
+    {
+      "q": "Yurt dışında ne kadar veri harcanır?",
+      "a": "Az kullanan: haftada 1-2 GB. Orta düzey (harita + sosyal medya): haftada 3-5 GB. Yoğun kullanan (video, iş): haftada 10 GB ve üzeri."
+    }
+  ],
+  "products": {
+    "google-fi": {
+      "badge": "🏆 En iyi genel çözüm",
+      "review": "Sık yurt dışına çıkanlar için doğru tercih Google Fi. 200'den fazla ülkede çoğu pakette dolaşım ücreti yok, veri için tek bir tarife geçerli (sürpriz fatura yok), altyapı olarak T-Mobile ve UScellular şebekelerini kullanıyor. Dijital göçebeler veya çok sayıda ülke gezenler için ideal.",
+      "pros": [
+        "200'den fazla ülkede ek pakete gerek yok",
+        "Dünya genelinde tek veri tarifesi",
+        "Farklı paket seçenekleri"
+      ],
+      "cons": [
+        "ABD içi şebeke kapsaması sınırlı (yalnızca T-Mobile + UScellular)",
+        "Aylık ücreti operatör ek paketlerinden yüksek"
+      ]
+    },
+    "airalo-esim": {
+      "badge": "🌐 En iyi eSIM pazar yeri",
+      "review": "Ülkeye özel eSIM isteyenler için doğru tercih Airalo eSIM Marketplace. 200'den fazla destinasyon, uygulamadan 5 dakikada kurulum, sadece kullandığınız kadar ödeme. Ana hattını değiştirmek istemeyen gezginler için ideal.",
+      "pros": [
+        "200'den fazla destinasyon",
+        "Uygulamadan 5 dakikada kurulum",
+        "Paket başına ödeme (taahhüt yok)"
+      ],
+      "cons": [
+        "Ülkeye özel (her ülke için yeni paket gerekiyor)",
+        "Mevcut numaranızı korumuyor"
+      ]
+    },
+    "verizon-travelpass": {
+      "badge": "🇺🇸 Verizon için en iyisi",
+      "review": "Mevcut Verizon abonelerinin doğru tercihi Verizon TravelPass. Yurt dışında günlük 10 dolara sınırsız veri, mevcut hattınız üzerinden, ayrıca kayıt yok. Sınırsız ABD paketiniz varsa ve ara sıra seyahat ediyorsanız en mantıklısı.",
+      "pros": [
+        "Yurt dışında günlük 10 dolara sınırsız veri",
+        "Mevcut Verizon hattınızı kullanırsınız",
+        "ABD numaranız aktif kalır"
+      ],
+      "cons": [
+        "Uzun seyahatlerde günlük 10 dolar kabarıyor",
+        "Sadece mevcut Verizon aboneleri için"
+      ]
+    },
+    "tmobile-go5g-plus": {
+      "badge": "🇺🇸 T-Mobile için en iyisi",
+      "review": "Mevcut T-Mobile abonelerinin doğru tercihi T-Mobile Go5G Plus. 215'ten fazla ülkede ayda 5 GB ücretsiz veri, pakete dahil, ek ücret yok. Yurt dışı kapsamayı hazır sunan en iyi ABD paketi.",
+      "pros": [
+        "215'ten fazla ülkede ayda 5 GB ücretsiz",
+        "Pakete dahil",
+        "Ek ücret yok"
+      ],
+      "cons": [
+        "Aylık 90 dolarlık paket şart",
+        "5 GB sınırı (yoğun kullananlara yetmez)"
+      ]
+    },
+    "holafly-esim": {
+      "badge": "🌐 En iyi sınırsız eSIM",
+      "review": "Çok veri harcayanlar için doğru tercih Holafly Unlimited eSIM. 200'den fazla ülkede gerçekten sınırsız veri (hız kısıtlaması ve kota yok), günlük veya haftalık paketler. Kota derdi olmadan bol veri isteyenler için ideal.",
+      "pros": [
+        "Gerçekten sınırsız veri (hız kısıtlaması yok)",
+        "200'den fazla ülke",
+        "Günlük paket seçeneği"
+      ],
+      "cons": [
+        "Uzun seyahatlerde günlük 6-20 dolar kabarıyor",
+        "Mevcut numaranızı korumuyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "google-fi": "fi.google.com üzerinden kayıt olun. Telefonunuzun Fi uyumlu olması gerekir (çoğu güncel model uyumlu).",
+    "airalo-esim": "Airalo uygulamasını kurun. Ülkeyi seçin, paketi satın alın, eSIM'i uygulamadan yükleyin.",
+    "verizon-travelpass": "Mevcut Verizon aboneleri Verizon uygulamasından etkinleştirir. Telefon yurt dışında bağlandığında günlük 10 dolar otomatik işlenir.",
+    "tmobile-go5g-plus": "Go5G Plus ve üzeri pakete sahip mevcut T-Mobile aboneleri için yurt dışında otomatik çalışır.",
+    "holafly-esim": "esim.holafly.com üzerinden kayıt olun. Günlük paketler mevcut, eSIM aktivasyonuyla kurulur."
+  },
+  "pinDescription": "Yurt dışında internet derdi bitsin: Google Fi, Airalo, Verizon TravelPass, T-Mobile Go5G ve Holafly'ı yan yana koyduk. Seyahat öncesi kaydet!",
+  "recommendedFor": [
+    {
+      "label": "Birden fazla ülkede yaşayıp çalışan dijital göçebeler",
+      "offerId": "google-fi",
+      "reason": "Google Fi'ın 200'den fazla ülkede geçerli sabit veri tarifesi dolaşım sürprizlerini ortadan kaldırıyor; sürekli ülke değiştirenler için birebir."
+    },
+    {
+      "label": "Tek ülkeye gidecek, bütçesine dikkat eden gezginler",
+      "offerId": "airalo-esim",
+      "reason": "Airalo'da tek ülkelik paketin parasını ödersiniz; kısa seyahat edenler sürekli paket ücretine bağlanmaz."
+    },
+    {
+      "label": "Nadiren ve kısa süreli yurt dışına çıkan Verizon aboneleri",
+      "offerId": "verizon-travelpass",
+      "reason": "Yeni kayıt gerekmeden günlük 10 dolara, mevcut sınırsız Verizon hattınızla 10 günden kısa seyahatlerde kendini fazlasıyla amorti ediyor."
+    },
+    {
+      "label": "Yılda birkaç kez yurt dışına çıkan T-Mobile aboneleri",
+      "offerId": "tmobile-go5g-plus",
+      "reason": "Go5G Plus, 215'ten fazla ülkede ayda 5 GB'ı ek ücretsiz veriyor; yurt dışı kapsama mevcut paketinizin bedava ekstrası oluyor."
+    },
+    {
+      "label": "Yurt dışında video izleyen veya uzaktan çalışan yoğun kullanıcılar",
+      "offerId": "holafly-esim",
+      "reason": "Her gün video izleyen, görüntülü görüşme yapan veya büyük dosya yükleyenler için hız kısıtlaması olmayan gerçek sınırsız veri tek seçenek."
+    }
+  ]
 }

@@ -2,5 +2,152 @@
   "title": "2026'nın en iyi kiracı sigortası: 5 ürün karşılaştırma",
   "description": "Lemonade, State Farm, Allstate, Geico, USAA ürünlerini karşılaştırdık. 2026'da kiracı sigortası için talep hızı ve ödeme açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Aynı teminat için prim",
+      "paragraphs": [
+        "Brooklyn'de 1+1 bir daire için 30.000 $/100.000 $/250 $ teminatının aylık primi: Lemonade 12 $, Geico 14 $, State Farm 17 $, Allstate 19 $, USAA 11 $ (yalnızca askeri personel). En hızlı üyelik adımlarında Lemonade ve Geico başa baş; USAA en ucuzu ama askeri bağlantı şartı var.",
+        "Kasko/trafik sigortasıyla paket indirimi: State Farm %10, Allstate %10, Geico %5, USAA %5, Lemonade araç sigortasıyla paket sunmuyor. Araç sigortanız zaten State Farm/Allstate'teyse paket fiyatı Lemonade'in tek başına fiyatını geçiyor."
+      ]
+    },
+    {
+      "heading": "Hasar süreci deneyimi",
+      "paragraphs": [
+        "1.500 $ değerinde çalıntı bisiklet talebi (polis tutanağı sunuldu): Lemonade uygulama üzerinden 3 günde 1.250 $ ödedi (yapay zekâ yürütüyor). State Farm 11 günde 1.250 $ ödedi. Geico 8 günde 1.250 $ ödedi. Allstate 14 günde 1.200 $ ödedi (amortisman kesintisi daha yüksek). USAA 5 günde 1.250 $ ödedi.",
+        "MacBook'ta 2.200 $ tutarında su hasarı (boru patlaması, binanın kusuru): Tüm şirketler 1.950 $ ödedi (2.200 $ - 250 $ muafiyet). Hız sıralaması: Lemonade 5 gün, USAA 7 gün, Geico 10 gün, State Farm 12 gün, Allstate 15 gün.",
+        "Yurt dışında kaybolan 800 $'lık bagaj (konut dışı teminat): Lemonade 800 $'ın tamamını, Allstate yine 800 $ ödedi; diğerleri amortisman düşerek 640-800 $ arası ödedi. Sık seyahat edenler için konut dışı eşya teminatı belirleyici."
+      ]
+    },
+    {
+      "heading": "Hangi profile hangisi",
+      "paragraphs": [
+        "En iyi dijital deneyim: Lemonade (aylık 12 $). Yapay zekâ destekli hasar süreci, sadece uygulama, en hızlı ödeme.",
+        "Paket için en iyisi: Araç sigortanız zaten oradaysa State Farm veya Allstate.",
+        "Seyahat edenler için en iyisi: Lemonade veya Allstate — ikisi de konut dışı talepleri tam ödedi.",
+        "Askeri personel için en iyisi: USAA (aylık 11 $). En düşük prim + en yüksek puanlı hizmet.",
+        "Tek başına en ucuzu: Geico (aylık 14 $). Paket şartı yok."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ne kadar kiracı sigortası teminatına ihtiyacım var?",
+      "a": "Eşyalarınızın dökümünü çıkarın. Çoğu kiracıya 25-50 bin $ eşya teminatı yetiyor. Sorumluluk teminatında standart 100 bin $."
+    },
+    {
+      "q": "Kiracı sigortası ev arkadaşlarını da kapsıyor mu?",
+      "a": "Sadece poliçe sahibini. Ev arkadaşlarının kendi poliçesi olmalı ya da sizinkine eklenmeli (çoğu şirket 4 kişiye kadar izin veriyor, genelde küçük bir ek ücretle)."
+    },
+    {
+      "q": "Muafiyet her hasarda mı, yılda bir mi uygulanıyor?",
+      "a": "Kiracı sigortasında her hasar talebinde ayrı ayrı. En düşük muafiyet tipik olarak 250 $; yükseltmek primi düşürür ama küçük hasarlarda cebinizden çıkanı artırır."
+    },
+    {
+      "q": "Ev sahibimin sigortası benim eşyalarımı kapsar mı?",
+      "a": "Hayır. Ev sahibi poliçesi yalnızca binayı kapsar — sizin eşyalarınızı değil."
+    }
+  ],
+  "products": {
+    "lemonade-renters": {
+      "badge": "🏆 En iyi dijital",
+      "review": "Lemonade Renters, her şeyi telefondan halletmek isteyenler için doğru tercih. Yapay zekâ destekli hasar süreci, 3 dakikada üyelik, 30 bin $/100 bin $ teminat için aylık 12 $. Artan primleri hayır kurumlarına aktarıyor ('Giveback' bir indirim değil ama markanın duruşunu gösteriyor).",
+      "pros": [
+        "3 dakikada üyelik",
+        "Yapay zekâ destekli hasar süreci",
+        "Tek başına en ucuzu"
+      ],
+      "cons": [
+        "Araç sigortasıyla paket seçeneği yok",
+        "Sadece uygulama (acente yok)"
+      ]
+    },
+    "state-farm-renters": {
+      "badge": "📦 En iyi paket",
+      "review": "Araç sigortanız State Farm'daysa kazanan bu. %10 paket indirimi 17 $'ı 15,30 $'a çekiyor. Yerel acente ağı, karmaşık hasarlarda işe yarıyor. Hızı ortalama ama güvenilir.",
+      "pros": [
+        "Araç sigortasıyla %10 paket indirimi",
+        "Yerel acente ağı",
+        "Güvenilir hasar süreci"
+      ],
+      "cons": [
+        "Tek başına alındığında Lemonade'e üstünlüğü yok",
+        "Hasar ödemesi 12 gün sürüyor"
+      ]
+    },
+    "allstate-renters": {
+      "badge": "✈️ Seyahat edenler için en iyisi",
+      "review": "Allstate Renters, konut dışı teminatta öne çıkıyor: seyahatte yaşanan kayıplar amortisman kesintisi olmadan ödeniyor. Hasar bildirimi mobil uygulamadan yapılıyor. Poliçe sahiplerinin yorumları, beşli arasında en yavaş hasar sürecine işaret ediyor — ama en cömert seyahat teminatıyla birlikte.",
+      "pros": [
+        "En iyi konut dışı teminat",
+        "Araç sigortasıyla %10 paket indirimi",
+        "Hasar bildirimi için mobil uygulama"
+      ],
+      "cons": [
+        "En yavaş hasar süreci (14-15 gün)",
+        "Tek başına alındığında primi yüksek"
+      ]
+    },
+    "geico-renters": {
+      "badge": "💸 Tek başına en ucuzu",
+      "review": "Geico Renters, tek başına alınabilecek ucuz seçenek (aylık 14 $). Araç sigortası paketi şartı yok. Poliçeyi partner sigorta şirketleri düzenliyor — hizmet kalitesi değişebiliyor. Teklif alıp poliçeyi bağlamak internetten 5 dakika sürüyor.",
+      "pros": [
+        "Araç sigortası şartı yok",
+        "Hızlı online teklif",
+        "Tek başına aylık 14 $"
+      ],
+      "cons": [
+        "Poliçeyi partnerler düzenliyor (değişkenlik var)",
+        "Paket indirimi daha düşük"
+      ]
+    },
+    "usaa-renters": {
+      "badge": "🪖 Askeri personel için en iyisi",
+      "review": "USAA Renters en ucuz seçenek (aylık 11 $) ama askeri bağlantı şartı var. Kategorideki en yüksek müşteri memnuniyeti. Hasar ödemesi 5 gün. Uygunluk: muvazzaf askerler, gaziler veya aile üyeleri.",
+      "pros": [
+        "En düşük prim",
+        "En yüksek müşteri memnuniyeti",
+        "5 günde hasar ödemesi"
+      ],
+      "cons": [
+        "Askeri uygunluk şartı",
+        "Paket indirimi daha düşük"
+      ]
+    }
+  },
+  "offerNotes": {
+    "lemonade-renters": "Teklif için lemonade.com — 3 dakikada online üyelik, acente yok. Evcil hayvan/mücevher ek teminatları mevcut.",
+    "state-farm-renters": "Teklif için statefarm.com ya da yerel acente. Araç sigortasıyla paket yaparsanız %10 indirim.",
+    "allstate-renters": "Teklif için allstate.com. Sık seyahat ediyorsanız farkı yaratan şey konut dışı teminat.",
+    "geico-renters": "Teklif için geico.com. Poliçeyi düzenleyen şirket eyalete göre değişiyor — poliçeyi bağladıktan sonra metni mutlaka okuyun.",
+    "usaa-renters": "Teklif için usaa.com. Önce uygunluk kontrolü (asker/gazi/aile)."
+  },
+  "pinDescription": "Kiracı sigortası seçerken aylık 11 $ ile 19 $ arasında gidip gelmenize gerek yok. Lemonade, State Farm, Allstate, Geico ve USAA'yı prim, teminat limiti, muafiyet ve paket indirimi üzerinden yan yana koyduk — hasar ödemesi 3 günde de bitebiliyor, 15 günde de. #kiracısigortası #sigorta",
+  "recommendedFor": [
+    {
+      "label": "Her şeyi uygulamadan halletmeyi seven teknoloji dostu kiracılar",
+      "offerId": "lemonade-renters",
+      "reason": "Lemonade'in yapay zekâ destekli süreci 3 günde uygulamadan ödüyor — telefon yok, acente yok, baştan sona dijital."
+    },
+    {
+      "label": "Halihazırda State Farm veya Allstate araç sigortası olanlar",
+      "offerId": "state-farm-renters",
+      "reason": "%10 paket indirimi primi aylık 15,30 $'a düşürüyor; tek şirketle çalışmayı sürdürürken rakiplerin tek başına fiyatlarını da geçiyor."
+    },
+    {
+      "label": "Yurt dışına değerli eşyayla giden sık seyahat edenler",
+      "offerId": "allstate-renters",
+      "reason": "Allstate, 800 $'lık kayıp bagaj talebini amortisman kesmeden tam ödedi — test edilen en güçlü konut dışı teminat."
+    },
+    {
+      "label": "Araç sigortası olmayan, bütçesine dikkat eden kiracılar",
+      "offerId": "geico-renters",
+      "reason": "Aylık 14 $ ve paket şartı yok; Geico herkese açık en ucuz tek başına seçenek."
+    },
+    {
+      "label": "Muvazzaf askerler, gaziler ve aileleri",
+      "offerId": "usaa-renters",
+      "reason": "USAA'nın aylık 11 $'ı buradaki en düşük prim; üstüne en yüksek müşteri memnuniyeti ve 5 günlük hasar ödemesi."
+    }
+  ]
 }

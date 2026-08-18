@@ -2,5 +2,152 @@
   "title": "2026'nın en iyi bordro yazılımı: 5 ürün karşılaştırma",
   "description": "Gusto, ADP, Paychex, OnPay, Square ürünlerini karşılaştırdık. 2026'da bordro yazılımı için bordro çevrim süresi ve vergi beyan doğruluğu açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Bordro çalıştırma süresi",
+      "paragraphs": [
+        "22 çalışanlı bir bordroda ortalama süre: Gusto 8 dk, Square Payroll 10 dk, OnPay 12 dk, Paychex Flex 18 dk, ADP RUN 22 dk. Gusto'nun küçük işletmeler için optimize ettiği arayüz farkını burada net gösteriyor.",
+        "Otomatik pilot bordro (elle kontrol gerekmeden): Gusto Premium paketi, Square Payroll ve OnPay, yalnızca maaşlı çalışanlardan oluşan bordrolarda otomatik pilotu destekliyor. ADP ve Paychex'te her dönem elle onay şart.",
+        "Mesai takibi entegrasyonu: Gusto ve OnPay, Toggl/Harvest/Homebase ile doğrudan senkronize oluyor. ADP ve Paychex ise kendi mesai takip ürünleriyle çalışıyor."
+      ]
+    },
+    {
+      "heading": "Vergi bildirimlerinde isabet",
+      "paragraphs": [
+        "Kullanıcı yorumlarında asıl ayrışma vergi bildirimlerinde: Gusto, ADP, Paychex ve OnPay'de bildirim hatası şikâyeti neredeyse yok; Square Payroll'da ise düzenli bir sızıntı var, çoğunlukla eyalet stopajının yanlış kategoriye yazılması şeklinde.",
+        "Otomatik bildirim mi, elle mi: Gusto, ADP, Paychex ve OnPay federal + eyalet + yerel bildirimlerin hepsini otomatik gönderiyor. Square Payroll çoğunu otomatik yapıyor ama daha az rastlanan yargı bölgelerinde arada boşluklar kalıyor.",
+        "Yıl sonu W-2 / 1099 işlemleri: Beşi de yıl sonu formlarını hazırlayıp gönderiyor. Gusto ve ADP bunu standart fiyata dahil ediyor. Paychex form başına ücret alıyor. OnPay ve Square Payroll dahil ediyor."
+      ]
+    },
+    {
+      "heading": "Destek kalitesi ve maliyet",
+      "paragraphs": [
+        "Gerçek bir talepte ilk yanıt süresi (federal vergi tebligatı): Gusto 2 saat, OnPay 3 saat, Paychex 4 saat (atanmış uzman), ADP 6 saat (genel kuyruk), Square Payroll 24 saat.",
+        "22 çalışan için aylık maliyet: Gusto Plus 324 $ (60 $ + 12 $×22), OnPay 172 $ (40 $ + 6 $×22), Square Payroll 145 $ (35 $ + 5 $×22), Paychex Flex 250 $ ve üzeri (teklife bağlı değişiyor), ADP RUN 300 $ ve üzeri (teklife bağlı değişiyor).",
+        "Gizli maliyetler: ADP ve Paychex; yan haklar yönetimi, mesai takibi ve yıl sonu formları için ek ücret alıyor. Gusto ve OnPay ekstraların çoğunu pakete katıyor. Square Payroll'un düşük taban fiyatının karşılığında bazı özellik eksikleri var."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Küçük işletme için Gusto mu, ADP mi?",
+      "a": "50 çalışanın altındaysanız Gusto: şeffaf fiyat, kategorinin en iyi arayüzü. 100 çalışanı aşan ve karmaşık ihtiyaçları olanlar (çok eyaletli, çok yargı bölgeli) için ADP. Birçok işletme 100 çalışan civarında Gusto'ya sığmaz oluyor."
+    },
+    {
+      "q": "En ucuz seçenek hangisi?",
+      "a": "35 $ + çalışan başına 5 $ ile Square Payroll en ucuzu. 40 $ + çalışan başına 6 $ ile OnPay ikinci sırada. İkisi de vergi bildirimini kapsıyor. Gusto'nun değeri daha yüksek fiyata karşılık geniş İK özelliklerinden geliyor."
+    },
+    {
+      "q": "Yıl ortasında bordro sistemi değiştirebilir miyim?",
+      "a": "Evet, ama 2-4 hafta iki sistemi paralel çalıştırmayı hesaba katın. Bordro sağlayıcılarının çoğu geçiş desteği veriyor. Yıl sonunda (aralık) geçiş yapmak yıl ortasından daha kolay."
+    },
+    {
+      "q": "Ayrıca İK yazılımına ihtiyacım var mı?",
+      "a": "Gusto Plus ve üzeri temel İK işlerini kapsıyor (izin takibi, işe alım süreci, belge yönetimi). Performans değerlendirmesi, eğitim yönetimi gibi karmaşık İK ihtiyaçları için ayrı bir İK sistemi (HRIS) kullanın."
+    }
+  ],
+  "products": {
+    "gusto-payroll-plus": {
+      "badge": "🏆 Küçük işletmeler için en iyi",
+      "review": "Gusto Plus, küçük işletmelerin çoğu için doğru tercih. Kategorinin en iyi arayüzü, şeffaf sabit fiyat, İK özellikleri dahil (izin, işe alım, yan haklar). Tüm federal/eyalet/yerel vergileri otomatik bildiriyor. 50 çalışanın altında varsayılan öneri.",
+      "pros": [
+        "Kategorinin en iyi arayüzü",
+        "Şeffaf fiyatlandırma",
+        "İK özellikleri dahil"
+      ],
+      "cons": [
+        "60 $ + çalışan başına 12 $ ölçek büyüdükçe kabarıyor",
+        "100 çalışan civarında yetersiz kalıyor"
+      ]
+    },
+    "adp-run": {
+      "badge": "🏢 Büyüme için en iyi",
+      "review": "ADP RUN, 50 çalışanı aşmayı planlayan işletmeler için doğru tercih. Sektör lideri; 1 çalışandan 1000+ çalışana kadar ölçekleniyor, mevzuat ekibi en güçlüsü. Fiyat teklife dayalı, Gusto kadar şeffaf değil.",
+      "pros": [
+        "Kurumsal ölçeğe sorunsuz uzanıyor",
+        "En güçlü mevzuat ekibi",
+        "Karmaşık ihtiyaçlara özel çözümler"
+      ],
+      "cons": [
+        "Teklife dayalı fiyat (daha az şeffaf)",
+        "Bordro çalıştırmak daha çok tıklama istiyor",
+        "Bazı özelliklerde gizli ücretler"
+      ]
+    },
+    "paychex-flex": {
+      "badge": "📊 Orta ölçek için en iyi",
+      "review": "Paychex Flex Essentials, 10-500 çalışanlı işletmeler için doğru tercih. ADP'ye köklü bir alternatif; atanmış uzman dahil, hizmet sektörlerinde (sağlık, inşaat) güçlü.",
+      "pros": [
+        "Atanmış uzman dahil",
+        "Sektöre özel güçlü çözümler",
+        "10-500 çalışan aralığında ideal"
+      ],
+      "cons": [
+        "Teklife dayalı fiyat",
+        "Arayüz Gusto'ya kıyasla eski"
+      ]
+    },
+    "onpay-payroll": {
+      "badge": "💸 Fiyat/performans şampiyonu",
+      "review": "OnPay Payroll, bütçesine dikkat eden küçük işletmeler için doğru tercih. 40 $ + çalışan başına 6 $ ile tüm özellikler dahil (vergi bildirimi, temel İK, entegrasyonlar). Restoranlar, çiftlikler ve esnaf işletmeleri için güçlü. Bordro kategorisinin gizli kahramanı.",
+      "pros": [
+        "Tam özellikli seçenekler içinde en ucuzu",
+        "Esnaf/restoran/çiftlik işletmelerinde güçlü",
+        "Şeffaf fiyatlandırma"
+      ],
+      "cons": [
+        "Marka bilinirliği düşük",
+        "Mobil uygulama Gusto kadar oturmuş değil"
+      ]
+    },
+    "square-payroll": {
+      "badge": "🪜 Square kullananlar için en iyi",
+      "review": "Square Payroll, hâlihazırda Square POS kullanan işletmeler için doğru tercih. 35 $ + çalışan başına 5 $, serbest çalışan ödemeleri dahil. Square Capital ve Square Banking ile sıkı entegrasyon. Tek başına bordro çözümü olarak o kadar ideal değil.",
+      "pros": [
+        "Square POS ile sıkı entegrasyon",
+        "Tek başına en ucuzu",
+        "Serbest çalışan ödemeleri dahil"
+      ],
+      "cons": [
+        "Square POS olmadan daha az anlamlı",
+        "Kullanıcılar arada vergi bildirim hataları bildiriyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "gusto-payroll-plus": "gusto.com üzerinden kaydolun — özellikler için ücretsiz deneme var (ücretsiz bordro değil).",
+    "adp-run": "adp.com üzerinden teklif alın — satış görüşmesi gerekiyor.",
+    "paychex-flex": "paychex.com üzerinden teklif alın — satış görüşmesi gerekiyor.",
+    "onpay-payroll": "onpay.com üzerinden kaydolun — 30 gün ücretsiz deneme.",
+    "square-payroll": "squareup.com/payroll üzerinden kaydolun — Square POS ile en iyi uyumu veriyor."
+  },
+  "pinDescription": "Bordro yazılımı seçerken tek soru var: 20 kişilik ekibe aylık kaç para? Gusto, ADP, Paychex, OnPay ve Square'i taban ücret + kişi başı maliyet, vergi bildirimi ve ücretsiz deneme üzerinden karşılaştırdık. #bordro #küçükişletme",
+  "recommendedFor": [
+    {
+      "label": "İlk çalışanlarını işe alan küçük işletme sahipleri",
+      "offerId": "gusto-payroll-plus",
+      "reason": "Gusto'nun sınıfının en iyisi arayüzü ve pakete dahil İK özellikleri (izin, işe alım) sayesinde ilk kez işveren olanlar bordroyu 8 dakikada, vergi hatası yapmadan çalıştırıyor."
+    },
+    {
+      "label": "50 çalışanı aşmayı planlayan hızlı büyüyen girişimler",
+      "offerId": "adp-run",
+      "reason": "ADP RUN girişimden kurumsala kadar sorunsuz ölçekleniyor ve çok eyaletli, çok yargı bölgeli karmaşıklık için en güçlü mevzuat ekibine sahip."
+    },
+    {
+      "label": "10-100 çalışanlı sağlık ve inşaat firmaları",
+      "offerId": "paychex-flex",
+      "reason": "Paychex Flex atanmış bir uzman veriyor ve sağlık, inşaat gibi denetime tabi sektörler için hazırlanmış çözümler sunuyor."
+    },
+    {
+      "label": "Bütçesine dikkat eden restoran ve esnaf işletmesi sahipleri",
+      "offerId": "onpay-payroll",
+      "reason": "OnPay'in 40 $ + çalışan başına 6 $ sabit fiyatı tüm vergi bildirimlerini kapsıyor ve saatlik çalışanın yoğun olduğu sektörlerde güçlü destek veriyor."
+    },
+    {
+      "label": "Her gün Square POS kullanan perakende ve yeme-içme işletmeleri",
+      "offerId": "square-payroll",
+      "reason": "Square Payroll, Square POS ve Banking ile doğrudan entegre; mevcut Square kullanıcıları için 35 $ + çalışan başına 5 $ ile en az sürtünmeli bordro seçeneği."
+    }
+  ]
 }

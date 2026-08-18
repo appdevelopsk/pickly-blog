@@ -2,5 +2,150 @@
   "title": "En iyi taşınabilir akü takviye cihazı 2026: 5 ürün",
   "description": "NOCO, Stanley, DBPOWER, Audew ürünlerini karşılaştırdık. 2026'da taşınabilir akü takviye cihazı için soğukta çalıştırma ve şarj tutma açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Soğuk havada performans",
+      "paragraphs": [
+        "Tepe amper değerinin asıl önem kazandığı yer soğuk. NOCO Boost HD GB70 2000A değerinde; üreticilerin donma noktası altındaki havalarda V8 ve dizel motorlar için işaret ettiği rakam bu. 1000A'lık GB40 ise daha küçük benzinli motorlar için belirtiliyor ve V8 sahipleri sıfırın altında zorlandığını düzenli olarak bildiriyor. Stanley J5C09 da 1000A değerinde ama kurşun-asit kullanıyor; bu kimyada kullanılabilir akım sıcaklık düştükçe daha da azalıyor.",
+        "2°C'de: 5 takviye cihazının tamamı 3 aracın hepsinde çalıştı. Farklar ancak gerçek soğukta ortaya çıkıyor.",
+        "Lityum mu kurşun-asit mi: NOCO modelleri ve Audew lityum (hafif, şarjı iyi tutuyor). Stanley J5C09 kurşun-asit (daha ağır, prizli çıkışı var)."
+      ]
+    },
+    {
+      "heading": "Sadece takviye değil",
+      "paragraphs": [
+        "Kendi kendine boşalma, kutunun üstünde kimsenin yazmadığı özellik. Lityum modeller (NOCO, Audew, DBPOWER) oda sıcaklığında aylarca şarjını koruyor; Stanley J5C09 gibi kurşun-asit cihazlar aynı sürede kayda değer bir kısmını kaybediyor. Kurşun-asit sahiplerinin \"tam ihtiyacım olduğu anda bitmişti\" demesinin sebebi de bu.",
+        "USB-C PD (dizüstü şarjı): NOCO Boost HD GB70 (100W PD). NOCO GB40 (sadece USB-A, 10W). DBPOWER ve Audew yalnızca USB-A.",
+        "Dahili hava kompresörü: sadece Stanley J5C09. Araç lastiklerini ~8,3 bar'a (120 PSI) kadar şişiriyor. Stanley çok amaçlı alet, NOCO ise saf takviye cihazı."
+      ]
+    },
+    {
+      "heading": "Bekleme süresinde şarj tutma",
+      "paragraphs": [
+        "Lityum modeller (NOCO GB40 ve HD GB70, Audew, DBPOWER) depoda beklerken şarjını kurşun-asitten çok daha iyi koruyor. Stanley J5C09 kurşun-asit ve bir ay rafta beklediğinde gözle görülür şekilde boşalıyor — bu kimyanın standart davranışı ve sonunda ihtiyaç duyulduğunda bomboş bulunmasının nedeni.",
+        "Pratikte anlamı: takviye cihazınızı şarjlı tutun. Lityum seçenekler (NOCO, Audew) aylarca beklese de çalışır. Kurşun-asit (Stanley) ayda bir prize takılmak ister."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "1000A mı 2000A tepe akım mı gerekli?",
+      "a": "4 silindir: 800A yeter. V6: 1000A. Soğukta V8: 2000A (NOCO HD GB70). Dizel: en az 2000A."
+    },
+    {
+      "q": "NOCO, DBPOWER'a kıyasla farkı hak ediyor mu?",
+      "a": "Soğuk iklimlerde evet. NOCO'nun 1000A'sı gerçek; DBPOWER'ın 800A reklamı kapasiteyi olduğundan iyi gösteriyor. Ilıman iklimlerde DBPOWER yeterli."
+    },
+    {
+      "q": "Takviye cihazıyla telefonumu şarj edebilir miyim?",
+      "a": "Beşinde de USB çıkışı var. NOCO HD GB70'te ayrıca dizüstü için 100W USB-C PD bulunuyor. Stanley J5C09'da ise prize takacağınız her şey için 120V AC çıkış var."
+    },
+    {
+      "q": "Batarya ne kadar dayanır?",
+      "a": "Lityum modeller (NOCO, Audew): 1.000+ şarj döngüsü, ~5-7 yıl ömür. Kurşun-asit (Stanley): düzenli bakımla 3-5 yıl."
+    }
+  ],
+  "products": {
+    "noco-boost-gb40-1000a": {
+      "badge": "🏆 En iyi genel seçim",
+      "review": "NOCO Boost GB40 sürücülerin çoğu için doğru tercih. 1000A tepe akım (V6'ya yeter, ılıman havada V8'e de), 18 x 7 cm kompakt gövde, IP65 toz/su dayanımı, SOS modlu dahili LED fener. Lityum kimyası sayesinde aylarca şarjını koruyor. Güvenlik özellikleri (ters kutup koruması, kıvılcım önleme) sınıfının en iyisi.",
+      "pros": [
+        "1000A çoğu V6 motorun altından kalkıyor",
+        "Kompakt, torpido gözüne sığar",
+        "6+ ay şarjını koruyor"
+      ],
+      "cons": [
+        "Aşırı soğukta V8'de zorlanıyor",
+        "Sadece USB-A (10W)"
+      ]
+    },
+    "noco-boost-hd-gb70-2000a": {
+      "badge": "❄️ Soğuk hava için en iyisi",
+      "review": "NOCO Boost HD GB70; V8, dizel veya soğuk iklimler için doğru tercih. 2000A tepe akım — buradaki en yüksek değer ve üreticilerin aşırı soğukta V8 ile dizel motorlar için belirttiği seviye. Dizüstü için 100W USB-C PD çıkışı var. Güvenlik özellikleri GB40 ile aynı, gövdesi daha büyük.",
+      "pros": [
+        "2000A ile V8 ve dizel sorun değil",
+        "Dizüstü için 100W USB-C PD",
+        "2000A değeri aşırı soğukta V8 ve dizeli kapsıyor"
+      ],
+      "cons": [
+        "GB40'tan daha büyük ve ağır",
+        "200 doların üzerinde bir fiyat"
+      ]
+    },
+    "stanley-j5c09-1000a": {
+      "badge": "🪖 En iyi çok amaçlı",
+      "review": "Stanley J5C09 aynı zamanda taşınabilir güç istasyonu olan bir takviye cihazı. 1000A tepe akım, 120V AC priz, hava kompresörü, USB-A girişleri, çalışma lambası. NOCO'dan daha ağır (kurşun-asit). Kamp yapıyor, açık havada vakit geçiriyor veya şantiyede elektriğe de ihtiyaç duyuyorsanız doğru tercih.",
+      "pros": [
+        "120V AC priz çıkışı",
+        "Dahili hava kompresörü",
+        "Çok amaçlı alet takımı"
+      ],
+      "cons": [
+        "Lityum seçeneklerden ağır",
+        "Ayda bir şarj edilmesi gerekiyor"
+      ]
+    },
+    "dbpower-800a-jump-starter": {
+      "badge": "💸 Fiyat/performans şampiyonu",
+      "review": "DBPOWER 800A fiyat/performans tercihi. 800A tepe akım (ılıman havada V6'ya yeter, soğukta zorlanır), 80 doların altında. LCD ekran, USB çıkışları, dahili fener. Ilıman iklimde 4 silindir veya V6 için doğru tercih; V8 ya da sıfırın altı için değil.",
+      "pros": [
+        "80 doların altında",
+        "Şarj durumu için LCD ekran",
+        "USB çıkışları"
+      ],
+      "cons": [
+        "V8 veya sıfır altı soğuk için uygun değil",
+        "Şarj tutma NOCO'nun altında"
+      ]
+    },
+    "audew-1200a-jump-starter": {
+      "badge": "📋 1000-1500A aralığında en uygun fiyat",
+      "review": "Audew 1200A orta segment tercihi. 1200A tepe akım (V6 ve ılıman havada çoğu V8 için yeterli), lityum kimyası (şarjı iyi tutuyor). NOCO kadar oturmuş bir marka değil ama teknik özellikleri rekabetçi. 100 doların altına 1200A, işin cazip tarafı burada.",
+      "pros": [
+        "100 doların altında 1200A tepe akım",
+        "Lityum (beklerken şarjını koruyor)",
+        "Çok sayıda güvenlik özelliği"
+      ],
+      "cons": [
+        "Marka bilinirliği düşük",
+        "Soğuk hava test verisi sınırlı"
+      ]
+    }
+  },
+  "offerNotes": {
+    "noco-boost-gb40-1000a": "amazon.com veya no.co üzerinden alınabilir. Kaldırmadan önce tam şarj edin; 6 ayda bir şarj döngüsü yeterli.",
+    "noco-boost-hd-gb70-2000a": "amazon.com veya no.co üzerinden alınabilir. Asıl fark HD ibaresinde — V8 aracınız varsa ya da soğuk bir yerde yaşıyorsanız GB40 yerine bunu seçin.",
+    "stanley-j5c09-1000a": "amazon.com veya stanleytools.com üzerinden alınabilir. Kurşun-asit şarjını korumak için ayda bir prize takın.",
+    "dbpower-800a-jump-starter": "amazon.com üzerinden alınabilir. Kapasiteyi korumak için 60 günde bir şarj edin.",
+    "audew-1200a-jump-starter": "amazon.com üzerinden alınabilir. 6 ayda bir şarj edin."
+  },
+  "pinDescription": "Aracınız soğukta çalışmıyorsa suç her zaman aküde değil — takviye cihazınızda da olabilir. NOCO GB40, HD GB70, Stanley J5C09, DBPOWER ve Audew'i tepe amper, batarya kimyası ve gerçek kış performansı üzerinden karşılaştırdık. Torpido gözünüzde hangisi durmalı? 🔋❄️",
+  "recommendedFor": [
+    {
+      "label": "Basit ve güvenilir bir güvence isteyen günlük sürücüler",
+      "offerId": "noco-boost-gb40-1000a",
+      "reason": "Torpido gözüne sığacak kadar kompakt ve 6+ ay şarjını koruyor; bakım derdi olmadan ihtiyacınız olduğu an hazır."
+    },
+    {
+      "label": "Soğuk bölgelerde kamyonet ve SUV kullananlar",
+      "offerId": "noco-boost-hd-gb70-2000a",
+      "reason": "2000A tepe akım — buradaki en yüksek değer ve aşırı soğukta büyük motorlar için üreticilerin belirttiği tek seçenek."
+    },
+    {
+      "label": "Kampçılar ve açık havada elektriğe ihtiyaç duyanlar",
+      "offerId": "stanley-j5c09-1000a",
+      "reason": "Dahili 120V AC priz ve hava kompresörü onu sadece takviye cihazı değil, taşınabilir bir güç istasyonuna dönüştürüyor."
+    },
+    {
+      "label": "4 silindir veya V6 araç kullanan bütçe odaklı sürücüler",
+      "offerId": "dbpower-800a-jump-starter",
+      "reason": "80 doların altında ve LCD şarj göstergeli — fazla harcamadan acil durum yedeği isteyen ılıman iklim sürücüleri için sağlam."
+    },
+    {
+      "label": "Fazla ödemeden daha yüksek amper arayanlar",
+      "offerId": "audew-1200a-jump-starter",
+      "reason": "100 doların altında 1200A lityum, çoğu V6 ve ılıman havadaki V8 senaryosunu karşılıyor; lityum kimyası depoda şarjını koruyor."
+    }
+  ]
 }

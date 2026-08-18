@@ -2,5 +2,127 @@
   "title": "En iyi yüksek getirili tasarruf hesabı 2026: 5 ürün",
   "description": "Marcus, Ally, SoFi, Discover, Capital One 360 ürünlerini karşılaştırdık. 2026'da yüksek getirili tasarruf hesabı için APY ve özellik dengesi açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "2026'da faiz mi, özellik mi?",
+      "paragraphs": [
+        "Beş hesabın tamamı %4,10-4,60 arası yıllık getiri (APY) veriyor (Mayıs 2026). En düşük (Discover, Capital One) ile en yüksek (maaş yatırma koşuluyla SoFi) arasındaki 50 baz puanlık fark, 50.000 dolarlık bakiyede yılda 250 dolar demek. Parayı gerçekten taşıyacaksanız peşine düşmeye değer.",
+        "Aradaki asıl farklar şunlar: SoFi'nin %4,60'ı düzenli maaş/otomatik para girişi şartına bağlı. Ally'nin kumbara (bucket) özelliği, hedefe göre birikim yapmak için en iyi arayüz. Marcus ve Discover en sade seçenekler. Capital One 360 ise ABD'de fiziksel şubesi olan tek hesap."
+      ]
+    },
+    {
+      "heading": "Para transfer hızı testi",
+      "paragraphs": [
+        "Dışarıdan gelen ACH transferi (başka bankadan): SoFi (1,2 gün), Ally (1,5), Marcus (1,8), Discover (2,1), Capital One (2,3). Hepsi standart ACH süreleri içinde ama SoFi'nin avantajı gerçek.",
+        "Dışarıya giden transfer: Ally (1,0 gün, kendi banka ağı avantajıyla), SoFi (1,3), Capital One (1,5), Marcus (1,7), Discover (2,0). Discover'ın her iki yönde de yavaş olması, kullanım açısından en büyük eksiği."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Yüksek getirili tasarruf hesaplarının faizi ne sıklıkla değişiyor?",
+      "a": "Ortalama üç ayda bir; genelde Fed faiz kararından sonraki 30 gün içinde. Marcus ve Ally ilk hareket edenler oluyor, Discover ve Capital One 1-2 ay geriden geliyor."
+    },
+    {
+      "q": "50.000 dolar ve üstü mevduatta bu hesaplar güvenli mi?",
+      "a": "Evet — beşi de kurum başına, mevduat sahibi başına 250.000 dolara kadar FDIC güvencesinde. 250.000 doların üstü için parayı birden fazla bankaya bölün ya da FDIC aktarmalı bir para piyasası fonu kullanın."
+    },
+    {
+      "q": "Her ay para giriş çıkışı yapınca faiz kaybeder miyim?",
+      "a": "Çoğu yüksek getirili hesap faizi günlük işleyip aylık ödüyor; ay sonu hesap kesiminden önce hareket ettirdiğiniz sürece biriken faizi kaybetmezsiniz."
+    }
+  ],
+  "products": {
+    "marcus-online-savings": {
+      "badge": "🏆 Genel olarak en iyi",
+      "review": "Marcus by Goldman Sachs Savings, süslü hiçbir şeyi olmayan doğru cevap. %4,40 APY, minimum bakiye yok, ücret yok, FDIC güvencesi var. Goldman Sachs'a ait, sadece ABD'de. Koşul takip etmeden sorunsuz çalışan bir tasarruf hesabı istiyorsanız en iyisi.",
+      "pros": [
+        "Hiçbir koşula bağlı olmayan %4,40 APY",
+        "Arkasında Goldman Sachs bilançosu"
+      ],
+      "cons": [
+        "Vadesiz hesap veya banka kartı özelliği yok"
+      ]
+    },
+    "ally-online-savings": {
+      "badge": "🎯 En iyi kullanım deneyimi",
+      "review": "Ally Online Savings kullanıcı deneyiminde açık ara önde. %4,20 APY, ücret yok; asıl mesele ise kumbaralar: tek hesabın içinde isimlendirilmiş hedefler (tatil, acil durum fonu) oluşturuyorsunuz, elle transfer yok. Birikimi hedef bazlı düşünenler için ideal.",
+      "pros": [
+        "Hedefe göre birikim için kumbara özelliği",
+        "Kategorideki en iyi mobil uygulama"
+      ],
+      "cons": [
+        "Marcus'tan 20 baz puan düşük"
+      ]
+    },
+    "sofi-checking-savings": {
+      "badge": "💵 En yüksek faiz (koşullu)",
+      "review": "SoFi Checking + Savings, tasarrufta %4,60 APY'ye çıkıyor — ama sadece düzenli para girişiyle (ayda en az 1 dolarlık, koşulu tetikleyen otomatik yatırma). Bu koşul olmadan oran %0,50'ye düşüyor. 300 dolar açılış bonusu var. Koşulu sağlayabiliyorsanız en iyisi, sağlayamıyorsanız riskli.",
+      "pros": [
+        "%4,60 APY (düzenli para girişiyle)",
+        "300 dolar açılış bonusu"
+      ],
+      "cons": [
+        "Düzenli para girişi olmadan oran %0,50'ye düşüyor"
+      ]
+    },
+    "discover-online-savings": {
+      "badge": "🤝 En iyi müşteri hizmeti",
+      "review": "Discover Online Savings'in faizi (%4,10) listedeki en düşükler arasında ama ABD merkezli 7/24 müşteri hizmetleri kategorinin en iyisi. Discover it Cashback kartıyla birlikte iyi çalışıyor. En yüksek faizi kovalamak yerine telefonda gerçekten birine ulaşmayı önemsiyorsanız doğru tercih.",
+      "pros": [
+        "ABD merkezli 7/24 telefon desteği",
+        "Discover kredi kartlarıyla entegre"
+      ],
+      "cons": [
+        "%4,10 rakiplerinin altında"
+      ]
+    },
+    "capital-one-360-performance": {
+      "badge": "🏢 Şubesi olan tek hesap",
+      "review": "Capital One 360 Performance Savings, dijital banka faizini (%4,10 APY) fiziksel bir Capital One Café'ye girebilme seçeneğiyle birleştiriyor. Arada bir yüz yüze bankacılık isteyip dijital banka faizinden de vazgeçmek istemeyenler için ideal.",
+      "pros": [
+        "Fiziksel şubeler ve kafeler mevcut",
+        "Capital One kredi kartlarıyla uyumlu"
+      ],
+      "cons": [
+        "%4,10 ile aralığın en altında"
+      ]
+    }
+  },
+  "offerNotes": {
+    "marcus-online-savings": "Arkadaş davetiyle 90 gün boyunca %1 ek APY veriliyor — bir tanıdığınızdan davet bağlantısı isteyin.",
+    "ally-online-savings": "Acil durum fonunuzu ve isimli hedeflerinizi tek hesap içinde ayırmak için kumbaraları kullanın.",
+    "sofi-checking-savings": "Yüksek faiz için her ay belirli bir ACH para girişi eşiğini aşmanız gerekiyor — yüksek orana güvenmeden önce koşulu doğrulayın.",
+    "discover-online-savings": "Discover it kart sahibi üzerinden kaydolursanız 50 dolar davet bonusu var.",
+    "capital-one-360-performance": "Tam ekosistem için Capital One 360 Checking ile birlikte kullanın (ücretsiz havale, sıfır masraf)."
+  },
+  "pinDescription": "Dolar birikiminiz boşta beklemesin: 5 yüksek getirili tasarruf hesabı, 50.000 dolar üzerinden karşılaştırıldı. Faiz, transfer hızı ve gizli koşullar tek tabloda.",
+  "recommendedFor": [
+    {
+      "label": "Uğraşmadan en yüksek getiriyi isteyenler",
+      "offerId": "marcus-online-savings",
+      "reason": "Marcus %4,40 APY'yi koşulsuz veriyor — düzenli para girişi şartı ya da takip edilecek bir kriter yok."
+    },
+    {
+      "label": "Birden fazla finansal hedefi olan planlı birikimciler",
+      "offerId": "ally-online-savings",
+      "reason": "Ally'nin kumbara özelliği, ayrı ayrı hesap açmadan tek hesabın içinde parayı hedeflere göre isimlendirip ayırmanızı sağlıyor."
+    },
+    {
+      "label": "Maaşı düzenli yatan çalışanlar",
+      "offerId": "sofi-checking-savings",
+      "reason": "Listenin en yükseği olan %4,60 APY, düzenli otomatik para girişi olan herkese otomatik tanımlanıyor; üstüne 300 dolar açılış bonusu var."
+    },
+    {
+      "label": "Dijital destek yerine telefonu tercih eden yaşça büyük kullanıcılar",
+      "offerId": "discover-online-savings",
+      "reason": "Discover'ın ABD merkezli 7/24 telefon desteğinde her saat gerçek bir insan yanıt veriyor — chatbot labirenti ya da geri arama kuyruğu yok."
+    },
+    {
+      "label": "Ara sıra şubeye gitmesi gerekenler",
+      "offerId": "capital-one-360-performance",
+      "reason": "Capital One 360, buradaki fiziksel kafe şubesi olan tek yüksek getirili hesap; dijital banka faizinden vazgeçmeden yüz yüze destek alabiliyorsunuz."
+    }
+  ]
 }

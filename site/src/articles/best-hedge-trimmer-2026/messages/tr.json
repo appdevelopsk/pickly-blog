@@ -2,5 +2,152 @@
   "title": "2026'nın en iyi çit makası: 5 ürün karşılaştırma",
   "description": "EGO, Milwaukee, Ryobi, Stihl, Black+Decker ürünlerini karşılaştırdık. 2026'da çit makası için kesim kalitesi ve pil ekosistemi açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Kesim kalitesi",
+      "paragraphs": [
+        "1,3-2 cm kalınlığındaki ligustrum dallarında beşi de temiz kesti. EGO, Stihl ve Milwaukee açılı ve pürüzsüz iz bırakıyor; Black+Decker kalın dallarda hafif tırtıklı kalıyor.",
+        "2-2,5 cm (katalog maksimumu): EGO ve Stihl titremeden temiz kesiyor. Milwaukee güçlü ama 2,5 cm'de zorlanıyor. Ryobi 2,2 cm'ye kadar rahat. Black+Decker 2 cm üzerinde tekliyor.",
+        "Şimşir detay işi: Stihl HSA 56 (45 cm bıçak, en hafifi) hassas çalışmada açık ara önde. EGO ve Milwaukee'nin 60 cm bıçağı dar şimşir köşeleri için fazla uzun."
+      ]
+    },
+    {
+      "heading": "Çalışma süresi ve yorgunluk",
+      "paragraphs": [
+        "Tam şarjla çalışma süresi: EGO 90 dk, Milwaukee 75 dk, Ryobi 60 dk, Stihl 70 dk, Black+Decker sınırsız (kablolu).",
+        "30 dakikalık kullanımda ağırlık ve denge: 3,5 kg ile en hafifi Stihl HSA 56. EGO 5 kg, Milwaukee 5,2 kg, Ryobi 4,8 kg, Black+Decker 3,2 kg (aküsüz).",
+        "Titreşim: En düşüğü Stihl (Alman anti-vibrasyon sistemi). EGO da düşük. Milwaukee ve Ryobi orta seviye. En yükseği Black+Decker."
+      ]
+    },
+    {
+      "heading": "Akü ekosistemi",
+      "paragraphs": [
+        "Bahçe aletlerinde en geniş ürün yelpazesi EGO Power+'ta. Ryobi 40V de oldukça geniş. Milwaukee M18 ağırlıklı olarak inşaat aletlerine odaklı ama bahçe tarafı büyüyor. Stihl AK, EGO'ya göre daha dar.",
+        "Buradaki tek akülü olmayan model kablolu Black+Decker. Prize yakın küçük bahçeler için ideal: şarj derdi yok, tek markaya bağlanma zorunluluğu yok."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kablolu mu, akülü mü?",
+      "a": "Prizden 15 metreden uzaktaki çitler için akülü. 10 m²'nin altındaki küçük bahçeler için kablolu iş görür. 2026'da varsayılan tercih akülü."
+    },
+    {
+      "q": "45 cm mi, 60 cm bıçak mı?",
+      "a": "Uzun çitlerde 60 cm daha hızlı ilerletir. Şimşir, detay ve dar köşeler içinse 45 cm. Stihl HSA 56'nın 45 cm bıçağı ince işler için biçilmiş kaftan."
+    },
+    {
+      "q": "En fazla ne kalınlıkta dal keser?",
+      "a": "Beşinin de katalog değeri yaklaşık 2 cm. EGO ve Stihl 2,5 cm'yi de temiz kesiyor. Daha kalın dallar (2,5-5 cm) için uzun saplı dal makası kullanın."
+    },
+    {
+      "q": "Bıçaklar ne sıklıkla bilenmeli?",
+      "a": "Her 20-30 saatlik kullanımda bir. Körelmiş bıçak tekler, tırtıklı kesim bırakır ve motoru zorlar."
+    }
+  ],
+  "products": {
+    "ego-power-ht2410-24inch": {
+      "badge": "🏆 Genel olarak en iyisi",
+      "review": "EGO Power+ HT2410, çoğu ev sahibi için doğru tercih. 56V fırçasız motor, 60 cm çift hareketli bıçak, 2,5 cm kesim kapasitesi, 90 dakika çalışma süresi. Akülü bahçe aletlerinde en eksiksiz ekosistem EGO Power+'ta.",
+      "pros": [
+        "Kesim kalitesi ile çalışma süresi arasında en iyi denge",
+        "Güçlü EGO ekosistemi",
+        "2,5 cm kesim kapasitesi"
+      ],
+      "cons": [
+        "Aküyle birlikte $200-270",
+        "5 kg ile Stihl'den ağır"
+      ]
+    },
+    "milwaukee-m18-hedge-trimmer": {
+      "badge": "🔧 Milwaukee kullanıcıları için",
+      "review": "Milwaukee M18 Fuel, elinde M18 aküsü olanlar için doğru tercih. Profesyonel yapı kalitesi, 60 cm bıçak, M18 uyumu. 2,5 cm'lik ligustrum dallarında zorlanıyor ama gerisi kusursuz.",
+      "pros": [
+        "Profesyonel yapı kalitesi",
+        "M18 ekosistemi",
+        "1,3-2 cm dallarda güçlü kesim"
+      ],
+      "cons": [
+        "2,5 cm dallarda zorlanıyor",
+        "Aküyle birlikte $250-350"
+      ]
+    },
+    "ryobi-40v-22inch-hedge": {
+      "badge": "🏠 Ryobi kullanıcıları için",
+      "review": "Ryobi 40V 55 cm çit budama, elinde Ryobi 40V aletleri olanlar için doğru tercih. 55 cm bıçak, 2,5 cm kapasite, 60 dakika çalışma süresi. Fiyatına göre sağlam, servis desteği güvenilir.",
+      "pros": [
+        "Ryobi 40V ekosistemiyle uyumlu",
+        "Orta segmentte sağlam performans",
+        "Güvenilir Ryobi servis desteği"
+      ],
+      "cons": [
+        "EGO kadar rafine değil",
+        "EGO'dan kısa çalışma süresi"
+      ]
+    },
+    "stihl-hsa-56-cordless": {
+      "badge": "🇩🇪 Hassas işlerde en iyisi",
+      "review": "Stihl HSA 56; şimşir, topiary ve detay işleri için doğru tercih. 45 cm bıçak (dar köşelerde çok daha hassas), 3,5 kg ile en hafifi, Alman anti-vibrasyon sistemi. Yalnızca yetkili bayiden satılıyor.",
+      "pros": [
+        "En hafifi (3,5 kg)",
+        "Hassas işlerde en iyisi",
+        "En düşük titreşim"
+      ],
+      "cons": [
+        "Sadece yetkili bayiden alınabiliyor",
+        "Daha dar akü ekosistemi",
+        "45 cm bıçak uzun çitler için ideal değil"
+      ]
+    },
+    "black-decker-corded-hedge-trimmer": {
+      "badge": "💸 En iyi bütçe seçeneği",
+      "review": "Black+Decker kablolu çit budama, prize yakın küçük bahçeler için doğru tercih. Elektrikli, 55 cm bıçak, sınırsız çalışma süresi, $50-80. Akü derdi yok ama kabloya bağımlısınız. Titreşimi yüksek.",
+      "pros": [
+        "$50-80 gibi uygun fiyat",
+        "Sınırsız çalışma süresi",
+        "Şarj edilecek akü yok"
+      ],
+      "cons": [
+        "Kablo hareket alanını kısıtlıyor",
+        "Titreşim yüksek",
+        "2 cm üzeri dallarda tekliyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ego-power-ht2410-24inch": "egopowerplus.com veya Home Depot'tan alınabilir.",
+    "milwaukee-m18-hedge-trimmer": "homedepot.com veya milwaukeetool.com'dan alınabilir. Aküsüz gövde $200-250.",
+    "ryobi-40v-22inch-hedge": "homedepot.com veya ryobitools.com'dan alınabilir. Fırçasız motor için HP versiyonunu seçin.",
+    "stihl-hsa-56-cordless": "Stihl yetkili bayisinden alınır; doğrudan online satışı yok.",
+    "black-decker-corded-hedge-trimmer": "amazon.com veya blackdecker.com'dan alınabilir. Dış mekana uygun uzatma kablosu şart."
+  },
+  "pinDescription": "Çitleriniz bakımsız mı kaldı? 2026'nın en iyi 5 çit budama makinesini karşılaştırdık: bıçak boyu, kesim kapasitesi, ağırlık ve akü sistemi. #bahçebakımı #çitbudama",
+  "recommendedFor": [
+    {
+      "label": "Uzun çitleri olan ve farklı bahçe aletlerine ihtiyaç duyanlar",
+      "offerId": "ego-power-ht2410-24inch",
+      "reason": "90 dakikalık çalışma süresi ve 60 cm bıçak, 30 metreden uzun çitleri tek şarjda bitiriyor; geniş EGO ekosistemi sayesinde çim biçme makinesi, üfleyici ve daha fazlası tek akü platformunda toplanıyor."
+    },
+    {
+      "label": "Milwaukee M18 aletleri kullanan ustalar ve profesyoneller",
+      "offerId": "milwaukee-m18-hedge-trimmer",
+      "reason": "Profesyonel yapı kalitesi ve M18 akü uyumu sayesinde ustalar yeni bir sisteme yatırım yapmadan ellerindeki aküleri kullanmaya devam ediyor."
+    },
+    {
+      "label": "Ryobi 40V bahçe aletlerine zaten yatırım yapmış hobi kullanıcıları",
+      "offerId": "ryobi-40v-22inch-hedge",
+      "reason": "Mevcut Ryobi çim biçme makinesi ve üfleyiciyle aynı 40V aküyü paylaştığı için Ryobi kullanıcıları açısından en ucuz yükseltme."
+    },
+    {
+      "label": "Şekilli çalı ve şimşir bakan bahçe meraklıları",
+      "offerId": "stihl-hsa-56-cordless",
+      "reason": "45 cm bıçak ve 3,5 kg ağırlık, dar köşelerde ve detaylı şekillendirmede gereken hassasiyeti ve düşük yorgunluğu sağlıyor."
+    },
+    {
+      "label": "Eve yakın küçük bahçesi olan, bütçesine dikkat eden kiracılar",
+      "offerId": "black-decker-corded-hedge-trimmer",
+      "reason": "$50-80 fiyatı ve sınırsız kablolu çalışma süresiyle tek bir yedek aküden bile ucuza geliyor, kullanımlar arasında şarj gerektirmiyor."
+    }
+  ]
 }

@@ -2,5 +2,146 @@
   "title": "2026'nın en iyi mama sandalyesi: 5 ürün karşılaştırma",
   "description": "Stokke, IKEA, Graco, 4moms, Inglesina ürünlerini karşılaştırdık. 2026'da mama sandalyesi için dayanıklılık ve temizlik kolaylığı açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Ahşap mı, plastik mı mama sandalyesi?",
+      "paragraphs": [
+        "Ahşap (Stokke Tripp Trapp): yetişkin sandalyesine dönüşüyor, ömür boyu garantili, yemek masanızla uyumlu görünüyor. 9.500-11.500 TL.",
+        "Plastik (Graco, 4moms): daha uygun fiyatlı, silmesi kolay, ama hantal durabiliyor. 4.500-12.000 TL.",
+        "Sade plastik (IKEA ANTILOP): en basit plastik seçenek, 700-850 TL. Tablası bulaşık makinesinde yıkanabiliyor.",
+        "Masaya monte (Inglesina Fast): yetişkin masasına kelepçeyle takılıyor, taşınabilir, ayrı sandalye gerektirmiyor. 3.200-4.500 TL."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi?",
+      "paragraphs": [
+        "En uzun ömürlü: Stokke Tripp Trapp (9.500-11.500 TL). Ahşap, yetişkin sandalyesine dönüşüyor, kategorinin ölçütü.",
+        "En uygun fiyatlı: IKEA ANTILOP (700-850 TL). Bulaşık makinesine girer, kumaş kaplama yok, harika sade.",
+        "En çok işlevli: Graco Blossom 6-in-1 (6.800-8.500 TL). 6 farklı kullanım, uzun ömür.",
+        "En teknolojik: 4moms High Chair (10.000-12.000 TL). Mıknatıslı tabla (tak-çıkar), tek elle ayar.",
+        "Seyahat için en iyi: Inglesina Fast Table Chair (3.200-4.500 TL). Masaya kelepçelenir, taşınabilir."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Stokke 9.500 TL'ye değer mi?",
+      "a": "Çocuğunuz büyüdükten sonra da kullanacaksanız evet (Stokke yetişkin sandalyesine dönüşüyor, 110 kg'a kadar taşıyor). 10 yıllık ömre bölünce yıllık maliyeti 700-1.000 TL civarında kalıyor."
+    },
+    {
+      "q": "IKEA ANTILOP gerçekten iyi mi?",
+      "a": "Evet — çocuk doktorlarının önerdiği, süslü püslü olmayan bir mama sandalyesi. Temizlenecek kumaş yok, tablası bulaşık makinesine giriyor. Tek eksiği şıklık."
+    },
+    {
+      "q": "Mama sandalyesinden ne zaman çıkılır?",
+      "a": "Çocuğunuz normal masada desteksiz oturabildiğinde — genelde 18-36 ay arası. Çoğu mama sandalyesi 3 yaşa kadar yetiyor; bazıları (Stokke, Graco Blossom) daha uzun kullanıma dönüşüyor."
+    },
+    {
+      "q": "Masaya monte sandalyem varsa ayrıca mama sandalyesi gerekir mi?",
+      "a": "Büyük ihtimalle hayır — masaya monte model (Inglesina) çoğu ihtiyacı karşılıyor. Tek istisna: kelepçe tutmayan cam ya da kırılgan bir masanız varsa."
+    }
+  ],
+  "products": {
+    "stokke-tripp-trapp": {
+      "badge": "🏆 En uzun ömürlü",
+      "review": "Stokke Tripp Trapp, ahşap mama sandalyesinde ölçüt kabul edilen model. Norveç tasarımı; çocuk büyüdükçe ayarlanıyor ve yetişkin sandalyesine dönüşüyor (110 kg'a kadar taşıyor). Ömür boyu garantili. Ahşap görünümü yemek masanızla doğal biçimde uyuşuyor. 1972'den beri sektörün standardı olması tasarımın ne kadar iyi olduğunu gösteriyor.",
+      "pros": [
+        "Yetişkin sandalyesine dönüşüyor (110 kg)",
+        "Ömür boyu garanti",
+        "Ahşap görünümü yemek masasıyla uyumlu"
+      ],
+      "cons": [
+        "9.500-11.500 TL'lik premium fiyat",
+        "Yenidoğanlar için Baby Set aparatı şart (1.800 TL ek)"
+      ]
+    },
+    "ikea-antilop-high-chair": {
+      "badge": "💸 En uygun fiyatlı",
+      "review": "IKEA ANTILOP High Chair, bütçe dostu doğru tercih. Plastik gövde, bulaşık makinesinde yıkanabilen tabla, kumaş kaplama yok (=temizliği kolay), 15 kg'a kadar taşıyor (yürüme çağı). 700-850 TL'ye, çocuk doktorlarının ve sadelik seven ebeveynlerin önerdiği model.",
+      "pros": [
+        "700-850 TL, rakipsiz fiyat",
+        "Bulaşık makinesinde yıkanabilen tabla",
+        "Leke tutacak kumaş yok"
+      ],
+      "cons": [
+        "Plastik görünüm",
+        "15 kg taşıma limiti (daha erken bırakmak gerekiyor)"
+      ]
+    },
+    "graco-blossom-6-in-1": {
+      "badge": "🪜 En çok işlevli",
+      "review": "Graco Blossom 6-in-1, dönüşebilir modeller arasında doğru tercih. 6 farklı kullanım: bebek mama sandalyesi → yürüme çağı mama sandalyesi → bebek yükseltici → yürüme çağı yükseltici → çocuk sandalyesi → masasız çocuk sandalyesi. 3 kademeli yatırma. 5 yaşa kadar tek sandalyeyle idare etmek isteyen aileler için ideal.",
+      "pros": [
+        "6 farklı kullanım şekli",
+        "Uzun ömür (5 yaşa kadar)",
+        "3 kademeli yatırma"
+      ],
+      "cons": [
+        "Plastik görünüm",
+        "Stokke'den daha fazla yer kaplıyor"
+      ]
+    },
+    "4moms-magnetic-high-chair": {
+      "badge": "🤖 En teknolojik",
+      "review": "4moms High Chair, teknolojiden yana olanlar için doğru tercih. Mıknatıslı tabla (düğme yok, tek elle rahatça çıkıyor), düğmeyle tek elde yükseklik ayarı, bulaşık makinesinde yıkanabilen tabla ve çıkarılabilir oturma minderi. Premium mühendisliğin bedeli premium fiyat.",
+      "pros": [
+        "Mıknatıslı tabla (tek elle çıkıyor)",
+        "Tek elle yükseklik ayarı",
+        "Bulaşık makinesinde yıkanabilen tabla"
+      ],
+      "cons": [
+        "10.000-12.000 TL'lik premium fiyat",
+        "Plastik görünüm (ahşap değil)"
+      ]
+    },
+    "inglesina-fast-table-chair": {
+      "badge": "🧳 Seyahat için en iyi",
+      "review": "Inglesina Fast Table Chair doğrudan yetişkin masasına kelepçeleniyor — ayrı bir sandalyeye gerek kalmıyor. Taşınabilir (katlanıp kutusundan çıkan çantasına giriyor), 17 kg'a kadar taşıyor, 8,5 cm'den ince çoğu masaya uyuyor. Seyahat, restoran ve ayrı mama sandalyesine yer olmayan daireler için ideal.",
+      "pros": [
+        "Taşınabilir, katlanıyor",
+        "Yetişkin masasına kelepçeleniyor",
+        "17 kg'a kadar taşıyor"
+      ],
+      "cons": [
+        "Cam veya kırılgan masalarda kullanılamıyor",
+        "Ayaklı mama sandalyelerine göre daha az sağlam"
+      ]
+    }
+  },
+  "offerNotes": {
+    "stokke-tripp-trapp": "stokke.com veya büyük bebek mağazalarından alınabiliyor. Yenidoğan-6 ay arası kullanım için Baby Set (1.800 TL) gerekiyor; 6 aydan sonra sandalye tek başına yeterli.",
+    "ikea-antilop-high-chair": "Dünya genelindeki IKEA mağazalarında bulunuyor. Tabla ayrı satılıyor (180 TL) ama alınması kesinlikle öneriliyor.",
+    "graco-blossom-6-in-1": "gracobaby.com, Target, Walmart ve Amazon'da bulunuyor. Farklı kumaş seçenekleri mevcut.",
+    "4moms-magnetic-high-chair": "4moms.com üzerinden alınabiliyor. Oturma minderi çıkarılıp makinede yıkanabiliyor.",
+    "inglesina-fast-table-chair": "inglesina.com, Buy Buy Baby ve Amazon'da bulunuyor. Taşıma çantası kutudan çıkıyor."
+  },
+  "pinDescription": "Mama sandalyesi alacaklara: ömür boyu kullanılan ahşaptan 700 TL'lik sade plastiğe, 5 modelin artıları ve eksileri tek listede. Mutfağınıza ve bütçenize uyanı seçin.",
+  "recommendedFor": [
+    {
+      "label": "Onlarca yıl kullanılacak mobilya isteyen, tasarıma önem veren ebeveynler",
+      "offerId": "stokke-tripp-trapp",
+      "reason": "Tripp Trapp'ın ahşap görünümü yemek masanızla kaynaşıyor, 110 kg taşıma kapasitesiyle yetişkin sandalyesine dönüşüyor — bir kez alıp ömür boyu kullanıyorsunuz."
+    },
+    {
+      "label": "İşi basit tutmak isteyen, bütçesine dikkat eden ilk kez ebeveyn olanlar",
+      "offerId": "ikea-antilop-high-chair",
+      "reason": "700-850 TL'ye, bulaşık makinesine giren tablası ve ovalanacak hiçbir kumaşı olmayan ANTILOP, yemek sonrası temizliği bir dakikanın altına indiriyor."
+    },
+    {
+      "label": "Yenidoğandan okul çağına tek sandalyeyle idare etmek isteyen aileler",
+      "offerId": "graco-blossom-6-in-1",
+      "reason": "Altı farklı kurulum sayesinde Blossom bebeklikteki yatar konumdan yükselticiye, oradan çocuk sandalyesine geçiyor; 0-5 yaş arası ikinci bir alışverişe gerek kalmıyor."
+    },
+    {
+      "label": "Mandal ve düğmelerle uğraşmaktan hoşlanmayan, teknolojiyi seven ebeveynler",
+      "offerId": "4moms-magnetic-high-chair",
+      "reason": "Mıknatıslı tabla tek hareketle, tek elle çıkıyor — kucağınızda üstü başı bulanmış bir çocuk varken düğme aramanıza gerek kalmıyor."
+    },
+    {
+      "label": "Sık seyahat eden aileler ve yer sıkıntısı çeken şehirli ebeveynler",
+      "offerId": "inglesina-fast-table-chair",
+      "reason": "Inglesina restoran ya da kiralık ev masalarının çoğuna kelepçeleniyor ve kendi çantasına katlanıyor; hantal bir ayaklı sandalye taşımanıza gerek kalmıyor."
+    }
+  ]
 }

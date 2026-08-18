@@ -2,5 +2,145 @@
   "title": "2026'nın en iyi hayat sigortası: 5 ürün karşılaştırma",
   "description": "Haven Life, Northwestern Mutual, Policygenius, State Farm, Ladder ürünlerini karşılaştırdık. 2026'da hayat sigortası için fiyat teklif süreci ve poliçe seçenekleri açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Vadeli mi, ömür boyu mu — hangisini almalı?",
+      "paragraphs": [
+        "Vadeli hayat sigortası: daha ucuz (35 yaşında 500.000 $ teminat için ayda 30-60 $), belirli bir süreyi kapsar (10-30 yıl). Borcu ve bakmakla yükümlü olduğu kişiler olan çoğu kişi için en mantıklısı.",
+        "Ömür boyu (birikimli) hayat sigortası: çok daha pahalı (35 yaşında 250.000 $ teminat için ayda 300-500 $), süresiz teminat verir ve birikim değeri oluşturur. Komisyonla çalışan acenteler genelde bunu öne sürer.",
+        "Finans danışmanlarının çoğu, insanların büyük bölümüne vadeli poliçe öneriyor — aradaki farkı düşük maliyetli endeks fonlarında değerlendirin."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi",
+      "paragraphs": [
+        "En iyi online vadeli poliçe: Haven Life (ayda 15-200 $). Tamamen online süreç, uygun profillerde sağlık muayenesi yok.",
+        "En iyi ömür boyu poliçe: Northwestern Mutual. Köklü bir karşılıklı sigorta şirketi, mali notları güçlü.",
+        "Fiyat karşılaştırması için en iyisi: Policygenius. 20'den fazla sigortacıyı karşılaştırıyor, muayenesiz seçenekler var.",
+        "Paket yaptırmak için en iyisi: State Farm. Kasko/konut/hayat paketinde indirim.",
+        "Esneklik için en iyisi: Ladder. Hayat değiştikçe teminatı ayarlayabiliyorsunuz (kademeleme)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ne kadar hayat sigortası teminatına ihtiyacım var?",
+      "a": "Kaba kural: yıllık gelirinizin 10-15 katı. Borçlarınıza (konut kredisi, öğrenim kredisi), bakmakla yükümlü olduğunuz kişilere (çocukların eğitim masrafı) ve eşinizin gelirine göre ayarlayın. Online hesaplayıcılar (Policygenius, Haven Life) tahmin için işinizi görür."
+    },
+    {
+      "q": "Vadeli mi, ömür boyu mu?",
+      "a": "İnsanların %90'ından fazlası için vadeli. Ömür boyu poliçe yalnızca şu üçü birden geçerliyse mantıklı: (1) vergi avantajlı hesaplarınızı sonuna kadar doldurduysanız, (2) zorunlu bir birikim disiplini istiyorsanız ve (3) karmaşık bir miras planlamanız varsa. Diğer her durumda vadeli + endeks fonu kazanır."
+    },
+    {
+      "q": "Sağlık muayenesi gerekiyor mu?",
+      "a": "Duruma göre — Haven Life, Ladder ve Policygenius, sağlıklı başvuranlara belirli teminat tutarlarına kadar muayenesiz seçenek sunuyor. Klasik risk değerlendirmesinde 1 milyon $ üzeri teminat için muayene şart."
+    },
+    {
+      "q": "Online hayat sigortası şirketlerine güvenilir mi?",
+      "a": "Evet — Haven Life (MassMutual'a ait), Ladder (Allianz/Fidelity tarafından teminat altına alınıyor) ve Policygenius (köklü sigortacılar için bir pazar yeri) hepsi yerleşik risk değerlendirme süreçleri kullanıyor."
+    }
+  ],
+  "products": {
+    "haven-life": {
+      "badge": "🏆 En iyi online vadeli",
+      "review": "Online vadeli hayat sigortasında doğru tercih Haven Life. Süreç tamamen online (acenteyle görüşme yok), 250.000 $ - 3 milyon $ teminat, uygun profildeki pek çok başvuruda sağlık muayenesi istenmiyor. MassMutual'a ait olduğu için risk değerlendirmesi köklü bir altyapıya dayanıyor. En çok 25-45 yaş arası sağlıklı kişilere göre.",
+      "pros": [
+        "Tamamen online süreç, acente görüşmesi yok",
+        "Sağlıklı başvuranlara muayenesiz seçenek",
+        "MassMutual'a ait"
+      ],
+      "cons": [
+        "Yalnızca vadeli poliçe var",
+        "Risk değerlendirmesi sıkı — yüksek riskli başvurular reddediliyor"
+      ]
+    },
+    "northwestern-mutual": {
+      "badge": "🏛️ En iyi ömür boyu",
+      "review": "Ömür boyu hayat sigortasında doğru tercih Northwestern Mutual. Süresiz hayat sigortasında uzmanlaşmış, mali notları güçlü, yüz yüze danışman veriyor. Ömür boyu poliçenin yüksek varlıklı kişilerin miras planlamasında yeri var. NM acenteleri iyi eğitimli ama komisyonla çalışıyor (ömür boyu poliçeye yönlendirirler).",
+      "pros": [
+        "Ömür boyu poliçede uzman",
+        "Güçlü mali notlar",
+        "Yüz yüze danışmanlar"
+      ],
+      "cons": [
+        "Komisyonlu acenteler ömür boyu poliçeye yönlendiriyor",
+        "Ömür boyu poliçe çoğu kişi için en verimlisi değil"
+      ]
+    },
+    "policygenius-marketplace": {
+      "badge": "🛒 Karşılaştırma için en iyisi",
+      "review": "Birden fazla sigortacıyı karşılaştırmak istiyorsanız doğru tercih Policygenius. 20'den fazla sigortacıyı (Haven, Lincoln, Pacific Life, Prudential vb.) karşılaştıran online bir pazar yeri. Muayenesiz seçenekler var. Kendi profilinize en uygun en düşük fiyatı bulmak için ideal.",
+      "pros": [
+        "20'den fazla sigortacıyı karşılaştırıyor",
+        "Muayenesiz seçenekler mevcut",
+        "Bağımsız (belirli bir sigortacıya yönlendirmiyor)"
+      ],
+      "cons": [
+        "Sigortacılardan komisyon alıyor",
+        "Profile göre teklifler arasında ciddi fark olabiliyor"
+      ]
+    },
+    "state-farm-life": {
+      "badge": "📦 Paket için en iyisi",
+      "review": "Kasko/konut sigortanızla birleştirecekseniz doğru tercih State Farm Life Insurance. Paket indirimleri toplam primde %10-20 tasarruf sağlayabiliyor. Yüz yüze acenteler var. Farklı poliçe tipleri sunuyor (vadeli, ömür boyu, universal life).",
+      "pros": [
+        "Paket indirimi (kasko/konut/hayat)",
+        "Yüz yüze acenteler",
+        "Farklı poliçe tipleri"
+      ],
+      "cons": [
+        "Tek başına vadeli poliçede fiyatı rekabetçi değil",
+        "Acenteler komisyonla çalışıyor"
+      ]
+    },
+    "ladder-term-life": {
+      "badge": "🪜 En esnek",
+      "review": "Esneklik arıyorsanız doğru tercih Ladder Term Life. 'Kademeleme' özelliği olan online vadeli poliçe — hayat değiştikçe teminatı ayarlıyorsunuz (çocuklar büyüdü mü teminatı düşürüyorsunuz). 100.000 $ - 8 milyon $ teminat aralığı. Süreç tamamen online.",
+      "pros": [
+        "Kademeleme (teminatı zamanla ayarlama)",
+        "Tamamen online süreç",
+        "100.000 $ - 8 milyon $ teminat aralığı"
+      ],
+      "cons": [
+        "MassMutual/Northwestern kadar bilinen bir marka değil",
+        "Fiyatı rekabetçi ama en ucuzu değil"
+      ]
+    }
+  },
+  "offerNotes": {
+    "haven-life": "Başvuru havenlife.com üzerinden. Online teklif 5 dakikada çıkıyor. Risk değerlendirmesi genelde 1-2 hafta sürüyor.",
+    "northwestern-mutual": "nwmutual.com üzerinden ya da referansla bir NM danışmanına ulaşın. Çoğu poliçe için yüz yüze görüşme şart.",
+    "policygenius-marketplace": "Teklif için policygenius.com. Birkaç dakika içinde birden fazla sigortacının teklifini gönderiyorlar.",
+    "state-farm-life": "statefarm.com üzerinden ya da yerel ofisten bir State Farm acentesine ulaşın.",
+    "ladder-term-life": "Başvuru ladderlife.com üzerinden. Süreç online; teklif dakikalar içinde."
+  },
+  "pinDescription": "Hayat sigortası kafanızı karıştırıyor mu? 2026'nın öne çıkan 5 şirketi tek listede: Haven Life, Northwestern Mutual, Policygenius, State Farm ve Ladder. Vadeli mi ömür boyu mu, hangisi size uyar — fiyatlarıyla, artı ve eksileriyle karşılaştırdık.",
+  "recommendedFor": [
+    {
+      "label": "Konut kredisi ve çocuğu olan genç ebeveynler",
+      "offerId": "haven-life",
+      "reason": "Haven Life'ın muayenesiz online süreci sağlıklı başvuranları hızla teminat altına alıyor — acenteyle uğraşmadan 500.000 $ ve üzeri vadeli poliçe isteyenler için ideal."
+    },
+    {
+      "label": "Miras planlaması yapan yüksek varlıklı kişiler",
+      "offerId": "northwestern-mutual",
+      "reason": "Northwestern Mutual'ın ömür boyu poliçesi vergi avantajlı birikim değeri oluşturuyor ve yüz yüze danışman desteğiyle karmaşık miras planlamasına uygun."
+    },
+    {
+      "label": "Hangi sigortacıyı seçeceğinden emin olmayan ilk kez alacaklar",
+      "offerId": "policygenius-marketplace",
+      "reason": "Policygenius 20'den fazla sigortacıyı dakikalar içinde karşılaştırıp sağlık profilinize en uygun en düşük fiyatı, taraf tutmadan önünüze koyuyor."
+    },
+    {
+      "label": "Hâlihazırda State Farm kasko veya konut sigortası olanlar",
+      "offerId": "state-farm-life",
+      "reason": "Hayat poliçesini mevcut State Farm kasko veya konut poliçenizle birleştirmek, tek bir yerel acenteyle tüm primlerde %10-20 indirim sağlıyor."
+    },
+    {
+      "label": "Teminat ihtiyacı zamanla azalacak ebeveynler",
+      "offerId": "ladder-term-life",
+      "reason": "Ladder'ın kademeleme özelliğiyle çocuklar büyüdükçe ya da kredi borcu azaldıkça teminatı düşürüp gereksiz prim ödemekten kurtuluyorsunuz."
+    }
+  ]
 }

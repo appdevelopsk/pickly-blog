@@ -2,5 +2,150 @@
   "title": "En iyi vadeli hayat sigortası 2026: 5 ürün karşılaştırma",
   "description": "Haven Life, Ladder, Ethos, Fabric, Policygenius ürünlerini karşılaştırdık. 2026'da vadeli hayat sigortası için değerlendirme hızı ve prim açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Aynı teminat için aylık prim",
+      "paragraphs": [
+        "500 bin dolarlık 20 yıllık vadeli poliçe, 35 yaşında sağlıklı ve sigara içmeyen biri için aylık prim: Ethos 28 dolar, Haven Life 30 dolar, Ladder 31 dolar, Fabric 32 dolar, Policygenius (5 teklif arasından en iyisi) 26 dolar. Risk profili yüksek başvuru sahiplerinde aradaki fark kapanıyor — algoritmik sigortacılar (Ethos, Haven, Ladder, Fabric) fiyatlarını sağlıklı profillere göre düzleştiriyor.",
+        "1 milyon dolarlık 20 yıllık teminatın primi, 500 binlik primin yaklaşık 1,8 katı. Teminatı ikiye katlamak primi ikiye katlamıyor; sabit risk değerlendirme maliyetleri doğrusal artmıyor."
+      ]
+    },
+    {
+      "heading": "Sağlık muayenesi muafiyeti",
+      "paragraphs": [
+        "35 yaşında sağlıklı biri için muayenesiz onay: Ethos (algoritmik değerlendirmeyle anında karar), Haven Life (1 milyon dolara kadar anında), Ladder (3 milyon dolara kadar anında), Fabric (1 milyon dolara kadar anında).",
+        "Policygenius bir sigorta şirketi değil, pazar yeri: başvurunuzu 20'den fazla geleneksel sigortacıya taşıyor. Geleneksel şirketlerin çoğu sağlık muayenesi istiyor; Policygenius muayenesiz şirket bulabilir ama en ucuzu olmayabilir.",
+        "Başvurudan teminatın başlamasına kadar geçen gerçek süre: Ethos 48 saat, Haven Life 72 saat, Ladder 24 saat, Fabric 72 saat, Policygenius (geleneksel şirket) 14-28 gün. Algoritmik sağlayıcılar hızda 10-25 kat önde."
+      ]
+    },
+    {
+      "heading": "Her birinde neyden vazgeçiyorsunuz",
+      "paragraphs": [
+        "Ethos, Haven Life, Ladder, Fabric: yalnızca algoritmik değerlendirme. Sağlık geçmişinizde herhangi bir karmaşıklık varsa otomatik olarak reddedilebilirsiniz.",
+        "Policygenius: geleneksel şirketleri tarıyor. Diyabet, tansiyon gibi rahatsızlıkları olan başvuru sahipleri için daha uygun — geleneksel değerlendiriciler sağlık geçmişindeki ayrıntılara bakabiliyor.",
+        "Uzun vadeli bir not: Policygenius üzerinden ulaşılan geleneksel şirketlerin (Northwestern Mutual, MassMutual vb.) finansal notları daha güçlü. Ethos ve Ladder gibi algoritmik sigortacıların reasürörleri AIG ve Munich Re — sağlam isimler, ama geçmiş performansları daha kısa."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vadeli mi, tüm hayat sigortası mı?",
+      "a": "Neredeyse herkes için vadeli. Daha ucuz, daha basit ve çalışma yıllarında gelir kaybını karşılamak için tasarlanmış. Tüm hayat sigortası ancak özel bir miras planlaması ihtiyacınız varsa ve diğer vergi avantajlı birikim seçeneklerini sonuna kadar kullandıysanız mantıklı."
+    },
+    {
+      "q": "Ne kadar teminat gerekiyor?",
+      "a": "Yaygın kural: yıllık gelirin 10-12 katı. Yılda 100 bin dolar kazanan 35 yaşındaki biri için bu 1-1,2 milyon dolar demek. Konut kredisi bakiyenize ve bakmakla yükümlü olduğunuz kişi sayısına göre ayarlayın."
+    },
+    {
+      "q": "Vadeli poliçeyi sonradan bırakabilir miyim?",
+      "a": "Evet — vadeli hayat sigortasında iptal cezası yok. Prim ödemeyi bırakmanız yeterli, poliçe kendiliğinden sona erer."
+    },
+    {
+      "q": "20 yıllık vade ne demek?",
+      "a": "Prim 20 yıl boyunca sabit kalır, sonra poliçe biter. Vadeden uzun yaşarsanız herhangi bir ödeme yapılmaz. Çoğu kişi vadeli poliçeyi çalışma yıllarını kapsamak için alır (çocuklar büyüyene ya da konut kredisi bitene kadar)."
+    }
+  ],
+  "products": {
+    "haven-life-term": {
+      "badge": "🏆 En iyi anında onay",
+      "review": "Haven Life, anında onay isteyen sağlıklı başvuru sahipleri için doğru tercih. MassMutual'a ait (güçlü finansal destek), 1 milyon dolara kadar algoritmik değerlendirme, dakikalar içinde karar. Primi her zaman en ucuzu değil ama hızı sınıfının en iyisi. Tamamen uygulama üzerinden ilerleyen bir deneyim.",
+      "pros": [
+        "1 milyon dolara kadar anında onay",
+        "MassMutual güvencesi",
+        "Uygulama odaklı kullanım"
+      ],
+      "cons": [
+        "Sağlık geçmişi karmaşık olan başvuruları reddedebiliyor",
+        "Her zaman en ucuzu değil"
+      ]
+    },
+    "ladder-life": {
+      "badge": "🪜 En esnek teminat",
+      "review": "Ladder Life, hayat şartları değiştikçe teminatı artırmanıza veya azaltmanıza izin veriyor (yeniden risk değerlendirmesi gerekmiyor). Sağlıklı başvuru sahipleri için 3 milyon dolara kadar anında onay. Algoritmik değerlendirme, reasürörü AIG. Teminatı yukarı/aşağı kaydırma özelliği bu kategoride benzersiz.",
+      "pros": [
+        "Teminatı yukarı/aşağı ayarlama esnekliği",
+        "3 milyon dolara kadar anında onay",
+        "Güçlü reasürör (AIG)"
+      ],
+      "cons": [
+        "Daha yeni bir marka (geçmişi kısa)",
+        "Yalnızca algoritmik (geleneksel değerlendirme yok)"
+      ]
+    },
+    "ethos-life-insurance": {
+      "badge": "💸 En ucuz ve hızlı",
+      "review": "Ethos, örnek aldığımız 35 yaşında sigara içmeyen profilde algoritmik sigortacıların en ucuzu (500 bin dolarlık 20 yıllık teminat için ayda 28 dolar). Anında karar, sağlıklı başvuru sahipleri için muayene yok. Reasürörü Munich Re. Uygulaması iyi, başvuru süreci basit.",
+      "pros": [
+        "Algoritmik kategorinin en ucuzu",
+        "Anında karar",
+        "Munich Re reasüransı"
+      ],
+      "cons": [
+        "Yalnızca algoritmik değerlendirmeyle sınırlı",
+        "Ret oranı Haven Life'tan yüksek"
+      ]
+    },
+    "fabric-by-gerber-life": {
+      "badge": "👶 Ebeveynler için en iyisi",
+      "review": "Fabric by Gerber Life, yeni ebeveynlere göre konumlanmış. Vasiyet hazırlama aracı içeriyor, çocuk ek teminatı mevcut. Primi rekabetçi (aynı 35 yaş profilinde ayda 32 dolar). Poliçeyi Gerber Life düzenliyor — finansal olarak sağlam, ama marka yetişkinlerden çok bebeklerle anılıyor.",
+      "pros": [
+        "Vasiyet hazırlama aracı dahil",
+        "Çocuk ek teminatı seçeneği",
+        "Ebeveynlere yönelik özellikler"
+      ],
+      "cons": [
+        "Primi Ethos'tan biraz yüksek",
+        "Marka algısı bebek sigortasına kaymış"
+      ]
+    },
+    "policygenius-term-marketplace": {
+      "badge": "🛒 Karmaşık durumlar için en iyisi",
+      "review": "Policygenius bir sigorta şirketi değil; başvurunuzu 20'den fazla geleneksel şirkete (Northwestern Mutual, Lincoln, Prudential vb.) taşıyan bir pazar yeri. Geleneksel değerlendirme gerektiren sağlık sorunu olan başvuru sahipleri için en iyisi. 2-4 hafta sürüyor ama mutlak anlamda en ucuz teklifi bulabiliyor.",
+      "pros": [
+        "20'den fazla geleneksel şirketi tarıyor",
+        "Sağlık geçmişi karmaşık olanlar için ideal",
+        "Çoğu zaman en ucuz teklifi buluyor"
+      ],
+      "cons": [
+        "2-4 haftalık değerlendirme süreci",
+        "Genellikle sağlık muayenesi gerekiyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "haven-life-term": "Başvuru: havenlife.com. 2014'ten beri MassMutual'a ait.",
+    "ladder-life": "Başvuru: ladderlife.com. Teminatı yukarı/aşağı ayarlama özelliği gerçek bir fark yaratıyor.",
+    "ethos-life-insurance": "Başvuru: ethos.com. Yalnızca algoritmik — sağlık geçmişinizde karmaşıklık varsa başka kapı çalın.",
+    "fabric-by-gerber-life": "Başvuru: meetfabric.com. Çocuk ek teminatı ebeveynler için opsiyonel bir eklenti.",
+    "policygenius-term-marketplace": "Başvuru: policygenius.com. Pazar yeri — sizin adınıza 20'den fazla şirketi tarıyor."
+  },
+  "pinDescription": "Vadeli hayat sigortasında hangisi size uyar? Haven Life, Ladder, Ethos, Fabric ve Policygenius'u karşılaştırdık: muayenesiz onay sınırları, teminat tavanları ve poliçenin arkasında gerçekte kim var. #hayatsigortası #finans",
+  "recommendedFor": [
+    {
+      "label": "İlk çocuğu yeni doğmuş genç ebeveynler",
+      "offerId": "fabric-by-gerber-life",
+      "reason": "Fabric, yerleşik vasiyet hazırlama aracı ve çocuk ek teminatıyla ailesinin geleceğini güvenceye almak isteyen yeni ebeveynler için tasarlanmış."
+    },
+    {
+      "label": "Bu hafta içinde hızla teminata ihtiyaç duyan sağlıklı yetişkinler",
+      "offerId": "ladder-life",
+      "reason": "Ladder, 3 milyon dolara kadar muayenesiz ve anında onay veriyor; teminat 24 saat gibi kısa sürede başlıyor — başvurudan poliçeye en hızlı yol."
+    },
+    {
+      "label": "İlk poliçesini alan, bütçesine dikkat edenler",
+      "offerId": "ethos-life-insurance",
+      "reason": "500 bin dolarlık 20 yıllık teminat için ayda 28 dolarla Ethos, algoritmik seçeneklerin en ucuzuydu; anında karar veriyor ve sağlıklı başvurularda muayene istemiyor."
+    },
+    {
+      "label": "Diyabet, tansiyon ya da geçmiş rahatsızlığı olanlar",
+      "offerId": "policygenius-term-marketplace",
+      "reason": "Policygenius, sağlık geçmişini ayrıntısıyla değerlendiren 20'den fazla geleneksel şirketi tarıyor; bu da karmaşık sağlık profillerine hem onay hem de rekabetçi fiyat şansı veriyor."
+    },
+    {
+      "label": "Finansal olarak sarsılmaz bir sigortacı isteyen profesyoneller",
+      "offerId": "haven-life-term",
+      "reason": "Haven Life'ın arkasında ABD'nin en yüksek notlu sigortacılarından MassMutual var; algoritmik hızı 170 yıllık bir şirketin finansal gücüyle birleştiriyor."
+    }
+  ]
 }

@@ -2,5 +2,144 @@
   "title": "En iyi akvaryum ısıtıcısı 2026: 5 ürün karşılaştırma",
   "description": "Fluval, Eheim, Aqueon, Tetra, hygger ürünlerini karşılaştırdık. 2026'da akvaryum ısıtıcısı için sıcaklık doğruluğu ve dayanıklılığı açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Cam mı titanyum ısıtıcı mı?",
+      "paragraphs": [
+        "Cam (Eheim Jager, Aqueon Pro, Tetra HT, Fluval E): daha ucuz, tatlı su akvaryumlarının çoğu için yeterli, ani sıcaklık değişiminde çatlayabilir.",
+        "Titanyum (hygger): çok daha dayanıklı, tuzlu su için önerilir (tuz bazı cam kaplamaları aşındırır), harici kumandalı."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi?",
+      "paragraphs": [
+        "En hassas: Fluval E Electronic (50-90 $). LCD ekran, 0,3 °C hassasiyet.",
+        "Sektör standardı: Eheim Jager 200W (30-50 $). Alman mühendisliği.",
+        "En iyi orta segment: Aqueon Pro (30-60 $). Kırılmaz gövde, elektronik termostat.",
+        "Yeni başlayana: Tetra HT Submersible (15-30 $). Sabit 26 °C ayarlı.",
+        "Tuzlu su / büyük akvaryum: hygger Titanyum (50-100 $). Titanyum boru, harici kumanda."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kaç watt ısıtıcı gerekir?",
+      "a": "Pratik kural: litre başına yaklaşık 1,3 watt. 280 litrelik bir akvaryum için ~375W gerekir (tek 400W ya da iki adet 200W)."
+    },
+    {
+      "q": "Tek ısıtıcı mı, iki mi?",
+      "a": "İki ısıtıcı (her biri yarı güçte) daha güvenli — biri arızalansa diğeri sıcaklığı korur. 190 litre üzeri akvaryumlarda standart uygulama budur."
+    },
+    {
+      "q": "Cam ısıtıcılar neden kırılır?",
+      "a": "Ani ısı farkı yüzünden. Isıtıcı sudayken su boşaltılır, ısıtıcı havada kızışır, sonra birden soğuk suya girer. Su değişiminden önce mutlaka fişi çekin."
+    },
+    {
+      "q": "Isıtıcının ömrü ne kadar?",
+      "a": "Cam: tipik olarak 2-4 yıl. Titanyum: 5-10 yıl. Sıcaklık ayarlanan değerden ±0,5 °C'den fazla saparsa değiştirin."
+    }
+  ],
+  "products": {
+    "fluval-e-electronic-heater": {
+      "badge": "🎯 En hassas",
+      "review": "Hassasiyet arıyorsanız doğru tercih Fluval E Electronic Heater. Mikroişlemci kontrollü, LCD ekranda anlık sıcaklığı gösteriyor, 0,3 °C hassasiyette çalışıyor (çoğu ısıtıcı ±1 °C) ve gövdesi kırılmaz. Hassas türler (discus, bitkili akvaryumlar) için ideal.",
+      "pros": [
+        "0,3 °C hassasiyet",
+        "LCD ekran",
+        "Kırılmaz gövde"
+      ],
+      "cons": [
+        "50-90 $ ile pahalı",
+        "Elektronik arttıkça arıza ihtimali de artıyor"
+      ]
+    },
+    "eheim-jager-200w": {
+      "badge": "🇩🇪 Sektör standardı",
+      "review": "Eheim Jager 200W, Alman mühendisliğiyle sektörün standardı sayılıyor. Cam gövde, çift ölçekli sıcaklık göstergesi (Celsius ve Fahrenheit), güvenilir termostat. Dünya genelinde akvaryumlarda kullanılıyor. Orta segmentin güven veren adı.",
+      "pros": [
+        "Alman mühendisliği",
+        "Çift sıcaklık ölçeği",
+        "Sektör standardı güvenilirlik"
+      ],
+      "cons": [
+        "Cam gövde (çatlayabilir)",
+        "Manuel kadran (LCD yok)"
+      ]
+    },
+    "aqueon-pro-heater": {
+      "badge": "🪜 En iyi orta segment",
+      "review": "Orta segmentte doğru seçim Aqueon Pro Heater. Kırılmaz gövde, elektronik termostat ve su seviyesi düşünce devreye giren otomatik kapanma özelliği var. Tatlı su akvaryumlarının çoğunda gönül rahatlığıyla kullanılır.",
+      "pros": [
+        "Kırılmaz gövde",
+        "Otomatik kapanma",
+        "Elektronik termostat"
+      ],
+      "cons": [
+        "LCD ekran yok",
+        "Fluval E kadar hassas değil"
+      ]
+    },
+    "tetra-ht-heater": {
+      "badge": "💸 Yeni başlayana",
+      "review": "Yeni kurulan akvaryumlar için doğru tercih Tetra HT Submersible Heater. Kompakt, sabit ayarlı bir ısıtıcı (varsayılan 26 °C — sıcaklık kadranı yok), tamamen suya batırılabiliyor ve ayar yapmanıza gerek kalmıyor. 40-150 litrelik topluluk akvaryumları için ideal.",
+      "pros": [
+        "15-30 $ bütçe dostu",
+        "Sabit 26 °C ayarı",
+        "Kurulum derdi yok"
+      ],
+      "cons": [
+        "Sıcaklık ayarı yapılamıyor",
+        "Sadece küçük akvaryumlara uygun (40-150 litre)"
+      ]
+    },
+    "hygger-titanium-heater": {
+      "badge": "🌊 Tuzlu su için en iyisi",
+      "review": "Tuzlu su ya da büyük akvaryumlar için doğru tercih hygger Titanyum ısıtıcı. Titanyum boru (kırılacak cam yok), harici kumanda (sıcaklığı akvaryumun dışından ayarlayıp okuyorsunuz) ve IC çipli termostat. Cam ısıtıcının fazla riskli kaldığı akvaryumlar için birebir.",
+      "pros": [
+        "Titanyum (kırılma riski yok)",
+        "Harici kumanda",
+        "Tuzlu suda en iyisi"
+      ],
+      "cons": [
+        "50-100 $ ile pahalı",
+        "Harici kumanda kurulumu biraz uğraştırıyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fluval-e-electronic-heater": "fluvalaquatics.com, Petco, Chewy ve Amazon'da bulunur. Farklı güç seçenekleri: 100W, 200W, 300W.",
+    "eheim-jager-200w": "eheim.com ve Amazon'da bulunur. Farklı güç seçenekleri var — 190 litreye kadar akvaryumlarda en yaygını 200W.",
+    "aqueon-pro-heater": "aqueon.com, Petco, PetSmart ve Chewy'de bulunur. Farklı güç seçenekleri mevcut.",
+    "tetra-ht-heater": "tetra-fish.com, PetSmart, Petco ve Amazon'da bulunur. 26 °C'ye sabit ayarlı — ayar yapılamaz.",
+    "hygger-titanium-heater": "hyggeraquarium.com ve Amazon'da bulunur. Farklı güç seçenekleri var — orta ve büyük akvaryumlarda 300W ile 500W yaygın."
+  },
+  "pinDescription": "Akvaryum ısıtıcısı seçerken kafanız karışmasın: cam mı titanyum mı, kaç watt, hangi model? 2026'nın en iyi 5 ısıtıcısı tek listede.",
+  "recommendedFor": [
+    {
+      "label": "Sıkı sıcaklık kontrolü isteyen discus ve bitkili akvaryum meraklıları",
+      "offerId": "fluval-e-electronic-heater",
+      "reason": "0,3 °C hassasiyet ve anlık LCD göstergesi, hassas türler strese girmeden sapmayı fark etmenizi sağlıyor."
+    },
+    {
+      "label": "Kanıtlanmış güvenilirlik arayan deneyimli tatlı su akvaryumcuları",
+      "offerId": "eheim-jager-200w",
+      "reason": "Onlarca yıllık saha kullanımıyla Jager, tecrübeli akvaryumcuların başını ağrıtmayan iş atı."
+    },
+    {
+      "label": "Güvenlik özelliği isteyen orta bütçeli tatlı su akvaryumcuları",
+      "offerId": "aqueon-pro-heater",
+      "reason": "Kırılmaz gövde ve su azalınca devreye giren otomatik kapanma, Fluval'ın fiyatını ödemeden içinizi rahatlatıyor."
+    },
+    {
+      "label": "İlk topluluk akvaryumunu kuran yeni balık sahipleri",
+      "offerId": "tetra-ht-heater",
+      "reason": "Tak-çalıştır 26 °C sabit ayarı sayesinde yanlış ayarlanacak kadran yok — 40-150 litrelik başlangıç kurulumları için ideal."
+    },
+    {
+      "label": "Dayanıklılığı öne alan tuzlu su resif ve büyük akvaryum sahipleri",
+      "offerId": "hygger-titanium-heater",
+      "reason": "Titanyum tuz korozyonuna direniyor, harici kumanda ise elinizi suya sokmadan sıcaklığı ayarlamanızı sağlıyor."
+    }
+  ]
 }
