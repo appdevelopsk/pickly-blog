@@ -47,12 +47,20 @@ export default async function ContactPage({ params }: Props) {
         <p className="mb-2 text-sm font-medium text-slate-700">
           {t("legal.contact.emailLabel")}
         </p>
-        <a
-          href={`mailto:${email}`}
-          className="text-xl font-semibold text-brand-600 hover:underline"
-        >
-          {email}
-        </a>
+        {/*
+          ★Cloudflare Email Obfuscation 回避 (2026-08-18)
+          Scrape Shield が mailto: を `/cdn-cgi/l/email-protection#<hex>` に書き換えるが、
+          この URL は実際に **404 を返す**（JS が復号する前に踏むと死ぬ）。
+          クローラは JS を待たずに辿るので、問い合わせ導線が検索側から見て壊れていた。
+          `<!--email_off-->` で囲むと Cloudflare は書き換えをスキップする。
+          JSX では HTML コメントを出力できないので dangerouslySetInnerHTML を使う。
+          email は上でハードコードした定数のみ（外部入力は入らない）。
+        */}
+        <span
+          dangerouslySetInnerHTML={{
+            __html: `<!--email_off--><a href="mailto:${email}" class="text-xl font-semibold text-brand-600 hover:underline">${email}</a><!--/email_off-->`,
+          }}
+        />
       </section>
 
       <p className="mb-3 leading-relaxed text-slate-700">
