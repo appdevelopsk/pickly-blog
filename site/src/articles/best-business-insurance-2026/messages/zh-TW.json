@@ -2,5 +2,150 @@
   "title": "2026年最佳小企業保險：5款比較",
   "description": "看看2026年哪款小企業保險在BOP承保和定價方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "BOP 保單包含哪些保障",
+      "paragraphs": [
+        "BOP（Business Owner's Policy，企業主綜合保單）＝公共責任險＋商業財產險的組合方案，是小型企業的標準配置。資安險、勞工職災補償、專業責任險（E&O）通常需要另外投保。",
+        "以5人顧問公司的 BOP（責任額100萬美元＋財產25萬美元）為例，常見月費：Next 約 NT$800–1,600、Hiscox 約 NT$1,100–2,100、The Hartford 約 NT$1,300–2,200、Progressive Commercial 約 NT$1,300–1,900、Thimble（隨選型）每個案件約 NT$320–960。"
+      ]
+    },
+    {
+      "heading": "資安險與勞工職災附加條款",
+      "paragraphs": [
+        "資安責任險（保額100萬美元）：Hiscox 的 BOP 已內含基本資安保障。Next 需加購，月費約 NT$480–800；The Hartford 約 NT$640–960；Progressive Commercial 約 NT$800。Thimble 不提供資安險。",
+        "勞工職災補償（5名員工、低風險顧問業）：每名員工年費約 NT$9,600–16,000。The Hartford 與 Progressive 在此領域最為專精。美國多數州皆強制投保，德州是少見的例外（採自願制）。"
+      ]
+    },
+    {
+      "heading": "各家保險公司適合誰",
+      "paragraphs": [
+        "剛起步／自由工作者／年營收未達10萬美元：選 Thimble（隨選型）按專案投保。若有固定營業場所，Next 的月繳型 BOP 更合適。",
+        "已站穩腳步的小型企業／3–10名員工／年營收25萬–200萬美元：Hiscox 或 The Hartford。兩者評等皆為 A+；Hiscox 專攻小型企業，Hartford 的產業涵蓋面更廣。",
+        "以車輛為主／工程技術業／承包商／車隊：選 Progressive Commercial，其商用車險＋責任險的組合方案居市場領導地位。",
+        "科技業／SaaS／顧問／專業服務：選 Hiscox（資安保障強）或 Next（全數位化流程）。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "BOP 和分開投保哪個好？",
+      "a": "BOP 比分開購買責任險與財產險便宜。年營收未達500萬美元的小型企業，多數應從 BOP 起步。超過這個規模後，BOP 的保額會不敷所需，需另行加保超額責任保單。"
+    },
+    {
+      "q": "我需要專業責任險（E&O）嗎？",
+      "a": "如果你提供建議或專業服務，答案是需要。顧問、會計師、IT 服務業者、設計師都應投保 E&O——這通常不含在 BOP 內，必須另外購買。"
+    },
+    {
+      "q": "資安險有必要嗎？",
+      "a": "凡是儲存客戶資料或收受信用卡付款的企業都需要。Hiscox 已內含基本資安保障，其他業者則收取約 NT$480–960 的月費。"
+    },
+    {
+      "q": "勞工職災補償是強制的嗎？",
+      "a": "美國50州中有49州強制投保（德州為自願制）。即使非強制，投保仍可避免員工受傷引發的訴訟風險。"
+    }
+  ],
+  "products": {
+    "next-insurance-bop": {
+      "badge": "🏆 數位投保最順暢",
+      "review": "Next Insurance 最適合以數位方式營運的小型企業。線上申請只需10分鐘，BOP 月費約 NT$800–1,600，並可即時取得投保證明。由慕尼黑再保險（Munich Re）承保支持。僅承接一般型小型企業，不受理高風險行業。",
+      "pros": [
+        "線上申請只要10分鐘",
+        "即時核發投保證明",
+        "由慕尼黑再保險支持"
+      ],
+      "cons": [
+        "僅限一般型小型企業",
+        "資安險需加購，未內含"
+      ]
+    },
+    "hiscox-small-business": {
+      "badge": "🎯 50人以下企業首選",
+      "review": "Hiscox 最適合50人以下的小型企業，尤其是科技、SaaS 與顧問業。BOP 已內含資安責任險，A.M. Best 評等為 A+。產業涵蓋範圍比 Next 更廣。",
+      "pros": [
+        "BOP 內含資安責任險",
+        "專精50人以下企業",
+        "財務評等優異"
+      ],
+      "cons": [
+        "保費高於 Next",
+        "對規模較大的中小企業較不理想"
+      ]
+    },
+    "the-hartford-bop": {
+      "badge": "🪪 老牌保險公司首選",
+      "review": "The Hartford 最適合重視承保公司歷史的成熟小型企業，成立至今已逾200年。經銷商與承包商的保障內容紮實，產業涵蓋面廣，財產險與責任險一併打包。",
+      "pros": [
+        "逾200年歷史的保險公司",
+        "經銷商與承包商保障紮實",
+        "產業涵蓋範圍廣"
+      ],
+      "cons": [
+        "保費高於 Next 與 Hiscox",
+        "線上投保體驗較不流暢"
+      ]
+    },
+    "progressive-commercial": {
+      "badge": "🚛 車隊與工程業首選",
+      "review": "Progressive Commercial 最適合擁有商用車輛或從事工程技術的企業。提供商用車險＋公共責任險的組合方案，對車隊業者、承包商、水電技師特別有利。",
+      "pros": [
+        "商用車險＋責任險組合最優",
+        "工程技術業保障完善",
+        "可線上試算報價"
+      ],
+      "cons": [
+        "非車輛型企業較不適用",
+        "客服回應速度不如 Next"
+      ]
+    },
+    "thimble-on-demand": {
+      "badge": "📱 接案工作者首選",
+      "review": "Thimble 最適合需要短期保障的自由工作者與接案族。可按小時、按日、按月投保，每次約 NT$160–3,200。透過 App 幾分鐘內即可完成投保生效。不適合有固定據點的傳統小型企業。",
+      "pros": [
+        "可按小時／日／月投保",
+        "App 幾分鐘完成投保",
+        "偶爾需要時費用低廉"
+      ],
+      "cons": [
+        "不適合傳統型小型企業",
+        "保額上限偏低"
+      ]
+    }
+  },
+  "offerNotes": {
+    "next-insurance-bop": "於 nextinsurance.com 線上試算——10分鐘完成。",
+    "hiscox-small-business": "於 hiscox.com 試算——50人以下企業的專精首選。",
+    "the-hartford-bop": "於 thehartford.com 或透過獨立保險代理人試算。",
+    "progressive-commercial": "於 progressivecommercial.com 試算——車輛與工程業最佳解。",
+    "thimble-on-demand": "下載 Thimble App——接案工作者的完美選擇。"
+  },
+  "pinDescription": "小型企業保險怎麼選？Next、Hiscox、The Hartford、Progressive、Thimble 五家一次比較：BOP 保障範圍、除外條款、隨選投保與實際保費全整理，創業與接案族必看。",
+  "recommendedFor": [
+    {
+      "label": "偶爾才需要保障的自由工作者與獨立承包商",
+      "offerId": "thimble-on-demand",
+      "reason": "Thimble 採按小時／日／月投保，只在實際執行案件時付費，不需長期綁約。"
+    },
+    {
+      "label": "希望快速完成數位投保的初創團隊",
+      "offerId": "next-insurance-bop",
+      "reason": "Next 線上申請只要10分鐘並即時核發投保證明，新公司當天就能取得保障，免除紙本作業。"
+    },
+    {
+      "label": "經手客戶資料的科技顧問與 SaaS 創辦人",
+      "offerId": "hiscox-small-business",
+      "reason": "Hiscox 直接將資安責任險納入 BOP，科技與顧問業者不必另外投保就能獲得資料外洩保障。"
+    },
+    {
+      "label": "擁有營業車輛的承包商、水電技師與工程業者",
+      "offerId": "progressive-commercial",
+      "reason": "Progressive 在商用車險＋責任險組合居領導地位，是有車隊的工程業者單一投保的最強選擇。"
+    },
+    {
+      "label": "員工5人以上、營收穩定的成熟小型企業",
+      "offerId": "the-hartford-bop",
+      "reason": "The Hartford 逾200年的營運實績與廣泛的產業涵蓋，能提供已跨過新創期的企業機構級別的保障。"
+    }
+  ]
 }

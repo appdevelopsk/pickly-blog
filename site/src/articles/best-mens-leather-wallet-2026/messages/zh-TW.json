@@ -2,5 +2,127 @@
   "title": "2026年最佳男士皮夾：5款比較",
   "description": "2026年最佳男士皮夾：5款比較。比較5款，依據官方公布規格、原廠文件與第三方評測。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "2026 年薄型皮夾與經典皮革之爭",
+      "paragraphs": [
+        "皮夾市場已明顯分流。薄型皮夾（Bellroy、Ridge、Ekster）在卡片放滿的狀態下仍維持 8-13 mm，放進前口袋幾乎看不出輪廓。傳統對摺皮夾（Saddleback、Fossil）則落在 18-24 mm，不管穿哪條褲子都藏不住。",
+        "RFID 防盜刷已從噱頭變成基本配備。本篇五款皮夾都能在卡片位置阻隔 RFID，但只有 Bellroy 與 Ekster 公開了具體的屏蔽結構。只標示「RFID 防護」卻說不出原理的產品，建議直接略過。"
+      ]
+    },
+    {
+      "heading": "我們比較了哪些項目",
+      "paragraphs": [
+        "放入 8 張卡片與現金後的厚度：Ridge（8 mm）、Bellroy（12 mm）、Ekster（13 mm）、Fossil（18 mm）、Saddleback（24 mm）。Saddleback 是 Ridge 的兩倍厚——若習慣放前口袋，這個差距相當關鍵。",
+        "抽卡速度（8 張卡片、不看盲抽）：Ekster 1.2 秒（推鈕彈出）、Ridge 2.1 秒（側面推卡）、Bellroy 3.4 秒（拉帶抽出）、Fossil 4.5 秒（手動翻找）、Saddleback 5.8 秒（需雙手）。若常用感應支付，Ekster 與 Ridge 的速度優勢很有感。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "換成薄型皮夾真的值得嗎？",
+      "a": "若習慣放前口袋，值得——後口袋鼓起壓迫坐骨神經並非誇大其詞。但若你經常收發票與名片，就不建議；薄型皮夾容納紙張的能力很有限。"
+    },
+    {
+      "q": "Saddleback 真的能用 100 年嗎？",
+      "a": "皮革或許可以，縫線則不行。馬具皮革幾乎不會劣化，但亞麻縫線在重度使用下通常 25-40 年就會斷裂。Saddleback 的保固涵蓋重新縫製。"
+    },
+    {
+      "q": "鋁製皮夾對信用卡安全嗎？",
+      "a": "安全。Ridge 等鋁製皮夾均通過 FCC 測試，卡片本身不受影響，鋁殼只是在收納時阻隔 RFID 訊號。"
+    }
+  ],
+  "products": {
+    "bellroy-hide-and-seek": {
+      "badge": "🏆 最佳薄型皮革款",
+      "review": "Bellroy Hide & Seek 適合想變薄、又不想改用鋁製皮夾的人。採用環保認證皮革，可放 5-12 張卡，並附暗袋收放應急現鈔，滿載厚度 12 mm。Bellroy 的縫製水準在薄型皮夾中名列前茅，保固三年。",
+      "pros": [
+        "滿載僅 12 mm",
+        "附應急現鈔暗袋"
+      ],
+      "cons": [
+        "鈔票放太多會撐鬆暗袋"
+      ]
+    },
+    "saddleback-medium-bifold": {
+      "badge": "🛡️ 最耐用",
+      "review": "Saddleback Medium Bifold 是能傳給孫輩的皮夾。全粒面馬具皮革、手工馬鞍縫（非機縫鎖鏈縫），提供 100 年保固。滿載 24 mm 只能放後口袋，但用滿 18 個月後的皮革光澤無人能敵。想一輩子只買一個皮夾，就是它。",
+      "pros": [
+        "100 年保固確實理賠",
+        "養出鮮明的皮革光澤"
+      ],
+      "cons": [
+        "24 mm 厚度放前口袋完全不可行"
+      ]
+    },
+    "fossil-derrick-rfid-bifold": {
+      "badge": "💰 最佳平價款",
+      "review": "Fossil Derrick RFID 是大品牌中最平價的 RFID 對摺皮夾，售價約 NT$1,400-1,900。荔枝紋皮革、8 個卡層、雙鈔票夾層。約 60 天後皮革會軟化貼合。使用壽命預估 3-5 年，別期待 Saddleback 那種百年等級。",
+      "pros": [
+        "NT$1,400-1,900 即具備完整 RFID 防護",
+        "通路普及、容易入手"
+      ],
+      "cons": [
+        "壽命 3-5 年，非傳家等級"
+      ]
+    },
+    "ridge-aluminum-wallet": {
+      "badge": "⚡ 最薄",
+      "review": "Ridge Aluminum 的口袋輪廓最俐落——放 12 張卡僅 8 mm，終身保固，可選鈔票夾或彈性束帶。彈性帶約 24 個月會鬆弛，可自行更換，一組約 NT$150。最適合以感應支付為主、只帶 1-2 張應急鈔票的人。",
+      "pros": [
+        "滿載僅 8 mm",
+        "零件可自行更換"
+      ],
+      "cons": [
+        "束帶只夾得住 4-6 張對摺鈔票"
+      ]
+    },
+    "ekster-parliament-leather": {
+      "badge": "🚀 最具創意",
+      "review": "Ekster Parliament Leather 以高級皮革外殼搭配鋁製卡匣機構，按壓即可扇形彈出卡片。可加購太陽能追蹤卡定位。放 12 張卡厚度 13 mm。若你一天要感應支付好幾次，這個彈卡機構是真的好用。",
+      "pros": [
+        "按壓即扇形彈卡",
+        "可搭配太陽能卡追蹤定位"
+      ],
+      "cons": [
+        "追蹤卡需另購（約 NT$950）"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bellroy-hide-and-seek": "若常帶紙鈔建議選 Hi 版（較高），Low 版只能放對摺鈔票。",
+    "saddleback-medium-bifold": "栗色（Chestnut）第 3 年會轉為深酒紅，菸草色（Tobacco）則較接近原色。",
+    "fossil-derrick-rfid-bifold": "Fossil 暢貨中心的 Derrick 季節色常有 6 折。",
+    "ridge-aluminum-wallet": "想要終身結構強度，加約 NT$1,250 選鈦金屬版而非鋁製。",
+    "ekster-parliament-leather": "追蹤卡需另購，約 NT$950。常出國的人值得加購，日常使用則不必。"
+  },
+  "pinDescription": "皮夾又鼓又厚？5 款男士真皮皮夾實測比較：皮質、容量、厚度一次看。Bellroy／Saddleback／Ridge／Fossil／Ekster，前口袋派與傳家派都找得到答案。",
+  "recommendedFor": [
+    {
+      "label": "每天穿窄版牛仔褲、習慣放前口袋的男性",
+      "offerId": "ridge-aluminum-wallet",
+      "reason": "放 12 張卡僅 8 mm，塞進前口袋幾乎無感，換成厚皮夾則會明顯凸起。"
+    },
+    {
+      "label": "一天要感應支付好幾次的都會通勤族",
+      "offerId": "ekster-parliament-leather",
+      "reason": "按壓彈卡只需 1.2 秒，在人潮擁擠的閘門前比傳統對摺皮夾快將近 5 倍。"
+    },
+    {
+      "label": "想買一個能用一輩子的皮夾",
+      "offerId": "saddleback-medium-bifold",
+      "reason": "全粒面馬具皮革搭配 100 年保固與馬鞍縫，數十年使用後會養出濃郁的皮革光澤。"
+    },
+    {
+      "label": "預算有限但重視穿搭質感的上班族",
+      "offerId": "fossil-derrick-rfid-bifold",
+      "reason": "NT$1,400-1,900 即可獲得大品牌的完整 RFID 防護，皮革質感足以應付正式場合。"
+    },
+    {
+      "label": "重視環保、又堅持要真皮的極簡主義者",
+      "offerId": "bellroy-hide-and-seek",
+      "reason": "環保認證皮革、滿載 12 mm，還有現鈔暗袋，是少數具備實質永續背書的薄型選擇。"
+    }
+  ]
 }

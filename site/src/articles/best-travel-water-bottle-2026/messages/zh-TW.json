@@ -2,5 +2,145 @@
   "title": "2026年最佳旅行水瓶：5款比較",
   "description": "2026年最佳旅行水瓶：5款比較。比較5款，依據官方公布規格、原廠文件與第三方評測。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "不鏽鋼、摺疊式與智慧型的差異",
+      "paragraphs": [
+        "不鏽鋼款（Hydro Flask、YETI、Owala）：保冷可達 24 小時，耐用但偏重，適合日常通用。",
+        "摺疊款（Vapur）：倒空後可摺至口袋大小，保溫性較弱，適合登山背包客。",
+        "智慧型（LARQ）：UV-C 自淨、USB 充電，適合水質參差不齊的海外旅行。"
+      ]
+    },
+    {
+      "heading": "各種用途的最佳選擇",
+      "paragraphs": [
+        "頂規首選：Hydro Flask 32oz（約 NT$1,400-1,700）。保冷 24 小時，終身保固。",
+        "另一頂規之選：YETI Rambler 26oz（約 NT$1,400-1,700）。可進洗碗機。",
+        "中階首選：Owala FreeSip（約 NT$800-1,100）。雙模式瓶蓋。",
+        "摺疊首選：Vapur（約 NT$320-560）。可摺進口袋。",
+        "智慧型首選：LARQ（約 NT$2,900-4,200）。UV-C 自淨。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "LARQ 的 UV-C 功能是噱頭還是真的有用？",
+      "a": "在水質不穩的海外旅行時確實實用。UV-C 可在 60 秒內殺滅 99.99% 的細菌與病毒。若只是裝台灣的自來水或濾水器的水，就沒有必要。"
+    },
+    {
+      "q": "Hydro Flask 和 YETI 該選哪一個？",
+      "a": "兩者都很優秀。Hydro Flask 顏色選擇多、提供終身保固；YETI 可進洗碗機、質感更好。最後看個人偏好。"
+    },
+    {
+      "q": "水壺該怎麼清洗？",
+      "a": "每天用溫熱肥皂水清洗。每週用瓶刷深層清潔一次，並以 1:1 的白醋水浸泡 30 分鐘。可進洗碗機的款式（YETI、Owala）省事許多。"
+    },
+    {
+      "q": "摺疊水壺真的能取代硬式水壺嗎？",
+      "a": "以登山背包與極輕量旅行來說可以，畢竟摺起來只有口袋大小。但日常使用還是硬式水壺更耐用、保溫效果也更好。"
+    }
+  ],
+  "products": {
+    "hydro-flask-32oz": {
+      "badge": "🏆 頂規首選",
+      "review": "Hydro Flask 32oz Wide Mouth 是旅行水壺的標竿。保冷 24 小時、保溫 12 小時，享終身保固（涵蓋製造瑕疵），寬口設計方便放冰塊。提供 20 種以上顏色，也是 Instagram 上出鏡率最高的水壺。",
+      "pros": [
+        "保冷 24 小時",
+        "終身保固",
+        "寬口好放冰塊"
+      ],
+      "cons": [
+        "要價 NT$1,400-1,700",
+        "建議手洗"
+      ]
+    },
+    "yeti-rambler-26oz-bottle": {
+      "badge": "💎 另一頂規之選",
+      "review": "YETI Rambler 26oz Bottle 是頂規的另一個正解。不鏽鋼材質，保溫效果與 Hydro Flask 不相上下，且可直接進洗碗機（關鍵差異）。重量比 Hydro Flask 略重。適合想要質感加上洗碗機便利性的人。",
+      "pros": [
+        "頂級保溫效果",
+        "可進洗碗機",
+        "做工精緻"
+      ],
+      "cons": [
+        "略重一些",
+        "配色選擇普通"
+      ]
+    },
+    "owala-freesip": {
+      "badge": "🪜 中階首選",
+      "review": "Owala FreeSip 是中階價位的正確選擇。雙模式瓶蓋（可用吸管小口啜飲，也可打開寬口大口暢飲），防漏設計，外型時尚。約 NT$800-1,100 的價格，只要 Hydro Flask／YETI 的一小部分，功能卻幾乎不缺。",
+      "pros": [
+        "雙模式瓶蓋",
+        "防漏設計",
+        "外型時尚"
+      ],
+      "cons": [
+        "保溫不如頂規款",
+        "瓶蓋結構較難清洗"
+      ]
+    },
+    "vapur-foldable-bottle": {
+      "badge": "🎒 摺疊首選",
+      "review": "Vapur Foldable Water Bottle 是極輕量旅行的正確選擇。倒空後可摺疊收進口袋，容量從 0.5L 到 1L，採用不含 BPA 的塑膠材質。保溫性不如不鏽鋼，水很快就變溫。適合斤斤計較每一公克的登山行程。",
+      "pros": [
+        "倒空即可摺疊",
+        "多種容量可選",
+        "重量輕巧"
+      ],
+      "cons": [
+        "保溫性較弱",
+        "塑膠觸感"
+      ]
+    },
+    "larq-self-cleaning": {
+      "badge": "✨ 智慧型首選",
+      "review": "LARQ Self-Cleaning Water Bottle 是智慧型水壺的正確選擇。UV-C 光每 2 小時自動殺菌一次（也可手動啟動），USB 充電，一次充飽可用 1-2 週。在水質不一的海外旅行相當實用。",
+      "pros": [
+        "UV-C 自動殺菌",
+        "USB 充電",
+        "外型時尚"
+      ],
+      "cons": [
+        "要價 NT$2,900-4,200",
+        "保溫不如 Hydro Flask"
+      ]
+    }
+  },
+  "offerNotes": {
+    "hydro-flask-32oz": "可於 hydroflask.com、官方授權經銷通路與各大電商購得。32oz 寬口款最為常見，另有標準口徑版本。",
+    "yeti-rambler-26oz-bottle": "可於 yeti.com 與各大戶外用品通路、電商購得。26oz 屬中等容量，另有 18oz 與 36oz。",
+    "owala-freesip": "可於 owalalife.com 與 Amazon 等電商購得，有多種容量。",
+    "vapur-foldable-bottle": "可於 vapur.us 與各大戶外用品店、Amazon 購得，容量 0.5L 至 1.5L 不等。",
+    "larq-self-cleaning": "可於 livelarq.com 與 Amazon 購得。「Movement」為不含 UV-C 的平價版本，純「LARQ」款才有 UV-C。"
+  },
+  "pinDescription": "旅行水壺怎麼挑？Hydro Flask 保冷 24 小時、YETI 可進洗碗機、Owala 平價好用、Vapur 摺進口袋、LARQ 出國殺菌。一次看懂五款該選哪個。",
+  "recommendedFor": [
+    {
+      "label": "經常露營、登山的戶外玩家",
+      "offerId": "hydro-flask-32oz",
+      "reason": "保冷 24 小時加上終身保固，在無法臨時替換裝備的多日行程中格外可靠。"
+    },
+    {
+      "label": "討厭手洗器具的料理愛好者",
+      "offerId": "yeti-rambler-26oz-bottle",
+      "reason": "在這幾款頂規不鏽鋼水壺中，只有 YETI 能直接進洗碗機，每天都省下實實在在的清洗時間。"
+    },
+    {
+      "label": "預算有限的學生與每日通勤族",
+      "offerId": "owala-freesip",
+      "reason": "約 NT$800-1,100 就有雙模式瓶蓋與防漏設計，幾乎具備頂規款的多數功能，卻沒有頂規的價格。"
+    },
+    {
+      "label": "極輕量登山客與只帶手提行李的旅人",
+      "offerId": "vapur-foldable-bottle",
+      "reason": "倒空後摺得下口袋，在每一公克都要計較的行程中省下寶貴的空間與重量。"
+    },
+    {
+      "label": "前往開發中國家的海外旅客",
+      "offerId": "larq-self-cleaning",
+      "reason": "UV-C 每 2 小時殺滅 99.99% 的細菌，在自來水水質難以掌握時多一份安心。"
+    }
+  ]
 }

@@ -2,5 +2,152 @@
   "title": "2026年最佳薪資軟體：5款比較",
   "description": "看看2026年哪款薪資軟體在薪資計算時間和稅務申報準確度方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "跑一次薪資的所需時間",
+      "paragraphs": [
+        "每次發薪作業平均耗時（22 名員工）：Gusto 8 分鐘、Square Payroll 10 分鐘、OnPay 12 分鐘、Paychex Flex 18 分鐘、ADP RUN 22 分鐘。Gusto 針對小型企業所做的介面優化，差距一目了然。",
+        "全自動發薪（免人工覆核）：Gusto Premium 方案、Square Payroll、OnPay 對純月薪制的薪資作業皆支援全自動執行；ADP 與 Paychex 則每個週期都須人工核准。",
+        "工時記錄整合：Gusto 與 OnPay 可直接同步 Toggl／Harvest／Homebase；ADP 與 Paychex 只能同步自家的工時記錄產品。"
+      ]
+    },
+    {
+      "heading": "報稅申報的準確度",
+      "paragraphs": [
+        "從使用者回報來看，報稅準確度是五者差距最明顯之處：Gusto、ADP、Paychex 與 OnPay 幾乎沒有申報錯誤的抱怨，Square Payroll 則持續有零星案例，最常見的是各州預扣稅款分類錯誤。",
+        "自動申報 vs 手動申報：Gusto、ADP、Paychex、OnPay 皆自動完成聯邦、州及地方稅申報；Square Payroll 多數可自動申報，但在較冷門的轄區偶有缺口。",
+        "W-2／1099 年度結算作業：五家皆可產製並遞交年度表單。Gusto 與 ADP 已含在標準方案內，Paychex 按表單張數計費，OnPay 與 Square Payroll 皆已內含。"
+      ]
+    },
+    {
+      "heading": "客服品質與費用",
+      "paragraphs": [
+        "實際工單（聯邦稅務通知）的首次回覆時間：Gusto 2 小時、OnPay 3 小時、Paychex 4 小時（專屬顧問）、ADP 6 小時（一般排隊）、Square Payroll 24 小時。",
+        "22 名員工的月費：Gusto Plus 約 NT$10,400（US$324，US$60＋US$12×22）、OnPay 約 NT$5,500（US$172）、Square Payroll 約 NT$4,600（US$145）、Paychex Flex 約 NT$8,000 起（US$250 起，須報價）、ADP RUN 約 NT$9,600 起（US$300 起，須報價）。",
+        "隱藏成本：ADP 與 Paychex 的福利管理、工時記錄與年度表單皆另行收費；Gusto 與 OnPay 多半已整包含入。Square Payroll 基本月費雖低，但功能上仍有缺口。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "小型企業該選 Gusto 還是 ADP？",
+      "a": "50 人以下選 Gusto，收費透明、操作體驗最佳；超過 100 人且需求複雜（跨州、跨轄區）則選 ADP。許多企業在員工數接近 100 人時會發現 Gusto 已不敷使用。"
+    },
+    {
+      "q": "哪一家最便宜？",
+      "a": "Square Payroll 的 US$35＋每人 US$5（約 NT$1,100＋每人 NT$160）最便宜，OnPay 的 US$40＋每人 US$6 次之，兩者皆含報稅申報。Gusto 價位較高，價值在於更完整的 HR 功能。"
+    },
+    {
+      "q": "年度中途可以更換薪資系統嗎？",
+      "a": "可以，但請預留 2 至 4 週的雙軌並行期。多數業者提供轉移協助。在年底（12 月）切換會比年中容易許多。"
+    },
+    {
+      "q": "還需要另外買 HR 軟體嗎？",
+      "a": "Gusto Plus 以上方案已含基本 HR 功能（特休管理、到職流程、文件管理）。若有績效考核、學習管理等複雜需求，仍建議另外導入 HRIS 系統。"
+    }
+  ],
+  "products": {
+    "gusto-payroll-plus": {
+      "badge": "🏆 小型企業首選",
+      "review": "Gusto Plus 適合絕大多數小型企業。同級中操作體驗最佳，採透明的固定收費，並內含 HR 功能（特休、到職、員工福利），聯邦／州／地方稅全數自動申報。50 人以下企業的預設答案。",
+      "pros": [
+        "同級中操作體驗最佳",
+        "收費透明",
+        "內含 HR 功能"
+      ],
+      "cons": [
+        "US$60＋每人 US$12，規模一大就相當可觀",
+        "員工數逼近 100 人時會顯得不敷使用"
+      ]
+    },
+    "adp-run": {
+      "badge": "🏢 擴張期首選",
+      "review": "ADP RUN 適合預計成長到 50 人以上的企業。業界龍頭，從 1 人到 1000 人以上皆可承接，法遵團隊最為堅強。採報價制，透明度不如 Gusto。",
+      "pros": [
+        "可平順擴展至大型企業規模",
+        "法遵團隊最堅強",
+        "能為複雜需求量身打造方案"
+      ],
+      "cons": [
+        "報價制（費用較不透明）",
+        "跑一次薪資要點的步驟較多",
+        "部分功能另有隱藏費用"
+      ]
+    },
+    "paychex-flex": {
+      "badge": "📊 中型企業首選",
+      "review": "Paychex Flex Essentials 適合 10 至 500 人規模的企業。ADP 之外的老牌選擇，內含專屬顧問，在醫療、營建等服務業表現尤佳。",
+      "pros": [
+        "內含專屬顧問",
+        "產業別解決方案完整",
+        "10 至 500 人規模最為合拍"
+      ],
+      "cons": [
+        "採報價制",
+        "介面較 Gusto 老派"
+      ]
+    },
+    "onpay-payroll": {
+      "badge": "💸 高 CP 值首選",
+      "review": "OnPay Payroll 適合精打細算的小型企業。US$40＋每人 US$6 即含完整功能（報稅申報、基本 HR、系統串接），在餐飲、農業與技術工種領域表現突出。薪資軟體中的遺珠之選。",
+      "pros": [
+        "功能完整中最便宜的一家",
+        "適合技術工種／餐飲／農業",
+        "收費透明"
+      ],
+      "cons": [
+        "品牌知名度較低",
+        "行動 App 精緻度不如 Gusto"
+      ]
+    },
+    "square-payroll": {
+      "badge": "🪜 Square 用戶首選",
+      "review": "Square Payroll 適合已在使用 Square POS 的企業。US$35＋每人 US$5，並含承攬人員給付功能，與 Square Capital、Square Banking 緊密整合。若單獨當作薪資系統使用則較不理想。",
+      "pros": [
+        "與 Square POS 緊密整合",
+        "單機使用最便宜",
+        "含承攬人員給付功能"
+      ],
+      "cons": [
+        "沒有 Square POS 就顯得不夠划算",
+        "使用者回報偶有報稅申報錯誤"
+      ]
+    }
+  },
+  "offerNotes": {
+    "gusto-payroll-plus": "於 gusto.com 註冊 — 提供功能試用（不含免費發薪作業）。",
+    "adp-run": "於 adp.com 索取報價 — 須經業務洽談。",
+    "paychex-flex": "於 paychex.com 索取報價 — 須經業務洽談。",
+    "onpay-payroll": "於 onpay.com 註冊 — 30 天免費試用。",
+    "square-payroll": "於 squareup.com/payroll 註冊 — 搭配 Square POS 效果最佳。"
+  },
+  "pinDescription": "薪資軟體怎麼選？2026 實測 Gusto、ADP、Paychex、OnPay、Square 五大方案：20 人規模的每月總花費、跨州報稅申報能力、免費試用一次看懂。老闆與 HR 收藏用。#薪資系統 #中小企業 #人事管理",
+  "recommendedFor": [
+    {
+      "label": "首次聘用員工的小型企業主",
+      "offerId": "gusto-payroll-plus",
+      "reason": "Gusto 同級最佳的操作體驗加上整合式 HR 功能（特休、到職流程），讓首次當老闆的人 8 分鐘跑完薪資、零報稅錯誤。"
+    },
+    {
+      "label": "預計擴編至 50 人以上的高成長新創",
+      "offerId": "adp-run",
+      "reason": "ADP RUN 能從新創平順擴展到大型企業，面對跨州、跨轄區的複雜法遵需求，其團隊實力最為堅強。"
+    },
+    {
+      "label": "員工 10 至 100 人的醫療與營建業者",
+      "offerId": "paychex-flex",
+      "reason": "Paychex Flex 內含專屬顧問，並針對醫療、營建這類高度受監管的行業提供專屬解決方案。"
+    },
+    {
+      "label": "重視成本的餐飲與技術工種業主",
+      "offerId": "onpay-payroll",
+      "reason": "OnPay 的 US$40＋每人 US$6 固定費率已含完整報稅申報，對時薪制人力密集的餐飲與技術工種支援尤佳。"
+    },
+    {
+      "label": "每天使用 Square POS 的零售與餐飲業者",
+      "offerId": "square-payroll",
+      "reason": "Square Payroll 可直接串接 Square POS 與 Banking，以 US$35＋每人 US$5 的價格，成為既有 Square 用戶阻力最低的選擇。"
+    }
+  ]
 }

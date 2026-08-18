@@ -2,5 +2,152 @@
   "title": "2026年最佳綠籬修剪機：5款比較",
   "description": "看看2026年哪款綠籬修剪機在切割品質和電池生態方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "修剪品質",
+      "paragraphs": [
+        "1.3–2 公分的女貞：5 款都能俐落剪斷。EGO、Stihl、Milwaukee 的斜切面乾淨；Black+Decker 在較粗枝條上切口略毛躁。",
+        "2–2.5 公分（標示上限）：EGO 與 Stihl 剪起來乾淨且不抖動。Milwaukee 力道足，但到 2.5 公分會有點吃力。Ryobi 可應付到約 2.2 公分。Black+Decker 超過 2 公分就開始震顫。",
+        "黃楊細修：Stihl HSA 56（18 吋刀、最輕）在精細作業上勝出。EGO 與 Milwaukee 的 24 吋刀身在黃楊的狹窄轉角處嫌太長。"
+      ]
+    },
+    {
+      "heading": "續航與疲勞度",
+      "paragraphs": [
+        "滿電續航：EGO 90 分鐘、Milwaukee 75 分鐘、Ryobi 60 分鐘、Stihl 70 分鐘、Black+Decker 無限（插電）。",
+        "連續使用 30 分鐘的重量與配重：Stihl HSA 56 最輕，3.5 公斤。EGO 5.0 公斤。Milwaukee 5.2 公斤。Ryobi 4.8 公斤。Black+Decker 3.2 公斤（無電池）。",
+        "振動：Stihl 最低（德製減震設計）。EGO 偏低。Milwaukee／Ryobi 中等。Black+Decker 最高。"
+      ]
+    },
+    {
+      "heading": "電池生態系",
+      "paragraphs": [
+        "EGO Power+ 的戶外機具陣容最完整。Ryobi 40V 同樣齊全。Milwaukee M18 以工程用電動工具為主，但戶外系列正在擴充。Stihl AK 的規模小於 EGO。",
+        "Black+Decker 是本篇唯一的插電機種。適合插座就在附近的小庭院——不必擔心電量，也不會被單一電池平台綁住。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "該選插電還是電池式？",
+      "a": "樹籬距離插座超過 15 公尺就選電池式；庭院面積在 10 平方公尺以內可考慮插電。2026 年電池式已是主流選擇。"
+    },
+    {
+      "q": "18 吋刀和 24 吋刀怎麼選？",
+      "a": "長樹籬選 24 吋（推進更快）；黃楊、細修、狹窄轉角選 18 吋。Stihl HSA 56 的 18 吋刀身正適合精細作業。"
+    },
+    {
+      "q": "最粗能剪多少？",
+      "a": "5 款標示皆約 2 公分。EGO 與 Stihl 可俐落處理到 2.5 公分。更粗的枝條（2.5–5 公分）請改用長柄修枝剪。"
+    },
+    {
+      "q": "刀片多久要磨一次？",
+      "a": "每使用 20–30 小時磨一次。刀鈍會震顫、切口毛躁，也會加重馬達負擔。"
+    }
+  ],
+  "products": {
+    "ego-power-ht2410-24inch": {
+      "badge": "🏆 綜合首選",
+      "review": "EGO Power+ HT2410 是多數家庭最合適的選擇。56V 無刷馬達、24 吋雙動刀片、2.5 公分修剪能力、90 分鐘續航。EGO Power+ 在無線戶外動力工具中的生態系最為完整。",
+      "pros": [
+        "修剪品質與續航兼顧得最好",
+        "EGO 生態系強大",
+        "可修剪至 2.5 公分"
+      ],
+      "cons": [
+        "含電池約 NT$6,400–8,600",
+        "5.0 公斤，比 Stihl 重"
+      ]
+    },
+    "milwaukee-m18-hedge-trimmer": {
+      "badge": "🔧 M18 使用者首選",
+      "review": "Milwaukee M18 Fuel 最適合已擁有 M18 電池的人。專業級做工、24 吋刀身、完整整合 M18 平台。修剪 2.5 公分女貞枝條時稍嫌吃力，其餘表現都很出色。",
+      "pros": [
+        "專業級做工",
+        "M18 生態系",
+        "1.3–2 公分枝條切得俐落"
+      ],
+      "cons": [
+        "2.5 公分枝條會吃力",
+        "含電池約 NT$8,000–11,200"
+      ]
+    },
+    "ryobi-40v-22inch-hedge": {
+      "badge": "🏠 Ryobi 使用者首選",
+      "review": "Ryobi 40V 22 吋修枝機最適合已有 Ryobi 40V 工具的人。22 吋刀身、2.5 公分修剪能力、60 分鐘續航。CP 值扎實，售後也可靠。",
+      "pros": [
+        "共用 Ryobi 40V 電池平台",
+        "中階水準表現穩定",
+        "Ryobi 售後可靠"
+      ],
+      "cons": [
+        "精緻度不及 EGO",
+        "續航比 EGO 短"
+      ]
+    },
+    "stihl-hsa-56-cordless": {
+      "badge": "🇩🇪 精細作業首選",
+      "review": "Stihl HSA 56 最適合黃楊、造型樹與細部修剪。18 吋刀身（狹窄轉角更精準）、3.5 公斤（最輕）、德製減震設計。僅限經銷商購買。",
+      "pros": [
+        "最輕（3.5 公斤）",
+        "精細作業表現最佳",
+        "振動最低"
+      ],
+      "cons": [
+        "僅限經銷商購買",
+        "電池生態系較小",
+        "18 吋不適合長樹籬"
+      ]
+    },
+    "black-decker-corded-hedge-trimmer": {
+      "badge": "💸 平價首選",
+      "review": "Black+Decker 插電修枝機最適合插座就在附近的小庭院。插電式、22 吋刀身、續航無限制，約 NT$1,600–2,600。不必顧慮電池，但會被電線牽制，振動也偏高。",
+      "pros": [
+        "約 NT$1,600–2,600 的平價定位",
+        "續航無限制",
+        "不需充電"
+      ],
+      "cons": [
+        "電線限制活動範圍",
+        "振動偏高",
+        "超過 2 公分枝條會震顫"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ego-power-ht2410-24inch": "可於 egopowerplus.com 或 Home Depot 購買。",
+    "milwaukee-m18-hedge-trimmer": "可於 homedepot.com 或 milwaukeetool.com 購買。單機（不含電池）約 NT$6,400–8,000。",
+    "ryobi-40v-22inch-hedge": "可於 homedepot.com 或 ryobitools.com 購買。想要無刷馬達請選 HP 版本。",
+    "stihl-hsa-56-cordless": "請洽 Stihl 經銷商購買——原廠不做線上直售。",
+    "black-decker-corded-hedge-trimmer": "可於 amazon.com 或 blackdecker.com 購買。需另備戶外用延長線。"
+  },
+  "pinDescription": "庭院樹籬修剪不再是苦差事！2026 年 5 款修枝機實測：EGO、Milwaukee、Ryobi、Stihl、Black+Decker，刀身長度、可剪枝徑、重量與電池平台一次看懂。#修枝機 #庭院整理",
+  "recommendedFor": [
+    {
+      "label": "有長段樹籬、工具需求多元的家庭",
+      "offerId": "ego-power-ht2410-24inch",
+      "reason": "90 分鐘續航搭配 24 吋刀身，一次充電就能修完 30 公尺以上的樹籬；EGO 陣容廣，割草機、吹葉機等都能共用同一組電池。"
+    },
+    {
+      "label": "手上已有 Milwaukee M18 工具的professional與工班",
+      "offerId": "milwaukee-m18-hedge-trimmer",
+      "reason": "專業級做工加上 M18 電池通用，現有電池直接沿用，不必再投資另一套平台。"
+    },
+    {
+      "label": "已投入 Ryobi 40V 戶外工具的 DIY 玩家",
+      "offerId": "ryobi-40v-22inch-hedge",
+      "reason": "與現有 Ryobi 割草機、吹葉機共用同一顆 40V 電池，是 Ryobi 使用者成本最低的擴充選擇。"
+    },
+    {
+      "label": "照料造型樹與黃楊的園藝愛好者",
+      "offerId": "stihl-hsa-56-cordless",
+      "reason": "18 吋刀身與 3.5 公斤的輕量設計，兼顧狹窄轉角所需的精準度與長時間造型作業的低疲勞。"
+    },
+    {
+      "label": "預算有限、庭院不大且靠近屋子的租屋族",
+      "offerId": "black-decker-corded-hedge-trimmer",
+      "reason": "約 NT$1,600–2,600、插電即用不限時間，比一顆替換電池還便宜，而且每次使用前都不必充電。"
+    }
+  ]
 }

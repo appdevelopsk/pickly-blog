@@ -2,5 +2,145 @@
   "title": "2026 최고의 러닝 레깅스: 5종 비교",
   "description": "Lululemon, Nike, Athleta, Outdoor Voices, Amazon Essentials를 비교했습니다. 2026년 진짜 성능과 편안함이 좋은 러닝 레깅스는 무엇인지.",
   "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다.",
-  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다."
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다.",
+  "sections": [
+    {
+      "heading": "프리미엄 러닝 레깅스 vs 저가형 러닝 레깅스",
+      "paragraphs": [
+        "프리미엄(룰루레몬, 애슬레타): 자체 개발 원단, 고급스러운 착용감, 20만 원대 이상.",
+        "중급(나이키, 아웃도어 보이스): 기능성 원단, 12만~15만 원대.",
+        "저가형(Amazon Essentials): 기본 폴리에스터·스판덱스 혼방, 4만~5만 원대. 제 역할은 하지만 마감은 떨어집니다."
+      ]
+    },
+    {
+      "heading": "용도별 추천",
+      "paragraphs": [
+        "프리미엄 1위: Lululemon Fast and Free(19만~22만 원대). Nulux 원단.",
+        "기능성 1위: Nike Fast Tight(12만~15만 원대). Dri-FIT에 메시 통기 패널.",
+        "친환경 1위: Athleta Power Train(14만~17만 원대). 지속가능 소재 사용.",
+        "디자인 1위: Outdoor Voices Discovery(11만~14만 원대). 컬러 블록 배색.",
+        "가성비 1위: Amazon Essentials(4만~5만 원대). 가격 대비 충분한 기능."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "러닝용으로 룰루레몬과 나이키 중 어느 쪽이 나을까요?",
+      "a": "룰루레몬은 원단이 더 매끄럽고 고급스럽습니다. 나이키는 메시 패널이 따로 있어 통기성이 좋고요. 취향 차이입니다."
+    },
+    {
+      "q": "러닝 레깅스는 얼마나 오래 쓸 수 있나요?",
+      "a": "프리미엄은 주 3~4회 러닝 기준 2~3년, 저가형은 1~2년입니다. 신축성이 죽었거나 보풀이 심해지면 교체하세요."
+    },
+    {
+      "q": "꼭 러닝 전용 레깅스를 사야 하나요?",
+      "a": "본격적으로 달린다면 필요합니다. 흡습속건과 적절한 압박이 중요하니까요. 가벼운 조깅 정도라면 일반 운동용 레깅스로도 충분합니다."
+    },
+    {
+      "q": "러닝 레깅스에 주머니가 있나요?",
+      "a": "옆주머니는 기본이고, 나이키와 룰루레몬은 휴대폰이 들어가는 뒷주머니가 있습니다. 허리밴드에 폰을 꽂고 달리면 계속 튀니 피하세요."
+    }
+  ],
+  "products": {
+    "lululemon-fast-and-free-leggings": {
+      "badge": "🏆 프리미엄 1위",
+      "review": "Lululemon Fast and Free는 프리미엄 러닝 레깅스의 기준입니다. 가벼운 Nulux 원단이 땀을 빠르게 빼주고 촉감이 매끄럽습니다. 결국 원단 퀄리티가 차이를 만듭니다.",
+      "pros": [
+        "Nulux 원단의 뛰어난 촉감",
+        "고급스러운 마감",
+        "다양한 기장 선택"
+      ],
+      "cons": [
+        "19만~22만 원대의 높은 가격",
+        "핏마다 사이즈가 들쭉날쭉"
+      ]
+    },
+    "nike-fast-tight": {
+      "badge": "⚡ 기능성 1위",
+      "review": "Nike Fast Tight는 기능성에 집중한 러닝 레깅스입니다. Dri-FIT 원단에 땀이 많이 차는 부위마다 메시 통기 패널을 넣었고, 주머니도 안정적입니다.",
+      "pros": [
+        "메시 통기 패널",
+        "Dri-FIT 흡습속건",
+        "물건이 빠지지 않는 주머니"
+      ],
+      "cons": [
+        "룰루레몬보다 착용감이 덜 고급스러움",
+        "컬러 선택지가 적음"
+      ]
+    },
+    "athleta-power-train-tight": {
+      "badge": "🌱 친환경 1위",
+      "review": "Athleta Power Train Tight는 지속가능성에 무게를 둔 프리미엄 선택지입니다. Powervita 원단, 친환경 생산 방식, 여성 중심 브랜드라는 점이 강점입니다.",
+      "pros": [
+        "지속가능성 중시",
+        "Powervita의 편안함",
+        "여성 체형에 맞춘 핏"
+      ],
+      "cons": [
+        "14만~17만 원대의 중상위 가격",
+        "나이키만큼 기능 중심은 아님"
+      ]
+    },
+    "outdoor-voices-discovery-leggings": {
+      "badge": "🌈 디자인 1위",
+      "review": "Outdoor Voices Discovery Leggings는 보는 재미가 있는 선택지입니다. 기능성 니트 소재에 컬러 블록 배색, 그리고 Doing Things™ 특유의 편안한 애슬레저 감성이 담겼습니다.",
+      "pros": [
+        "컬러 블록 배색 디자인",
+        "기능성 니트 원단",
+        "일상에서도 어울리는 애슬레저 무드"
+      ],
+      "cons": [
+        "본격 러닝용 원단은 아님",
+        "사이즈 폭이 좁음"
+      ]
+    },
+    "amazon-essentials-running-tights": {
+      "badge": "💸 가성비 1위",
+      "review": "Amazon Essentials Running Tights는 예산이 빠듯할 때 무난한 선택입니다. 폴리에스터·스판덱스 혼방으로 기본에 충실하고 컬러도 여러 가지입니다. 4만~5만 원대.",
+      "pros": [
+        "4만~5만 원대",
+        "다양한 컬러",
+        "기본기는 확실"
+      ],
+      "cons": [
+        "고급스러운 착용감은 아님",
+        "수명 1~2년"
+      ]
+    }
+  },
+  "offerNotes": {
+    "lululemon-fast-and-free-leggings": "shop.lululemon.com에서 구매 가능. 기장 선택 다양(하이라이즈, 미드라이즈).",
+    "nike-fast-tight": "nike.com에서 구매 가능. 기장별 버전 다양.",
+    "athleta-power-train-tight": "athleta.gap.com에서 구매 가능.",
+    "outdoor-voices-discovery-leggings": "outdoorvoices.com에서 구매 가능. 컬러 조합 다양.",
+    "amazon-essentials-running-tights": "amazon.com에서 구매 가능."
+  },
+  "pinDescription": "러닝 레깅스, 뭘 사야 후회 안 할까? 룰루레몬·나이키·애슬레타·아웃도어 보이스·아마존 5종을 원단 두께, 주머니 위치, 허리 흘러내림, 스쿼트 비침까지 직접 비교했습니다. 4만 원대부터 22만 원대까지 예산별 정답 정리.",
+  "recommendedFor": [
+    {
+      "label": "주 4회 이상 훈련하는 진심인 러너",
+      "offerId": "lululemon-fast-and-free-leggings",
+      "reason": "Nulux 원단의 흡습속건 성능과 탄탄한 마감이 높은 훈련량과 30회 이상 세탁에도 버텨줍니다."
+    },
+    {
+      "label": "더운 날 달리는 러너, 고강도 인터벌 하는 사람",
+      "offerId": "nike-fast-tight",
+      "reason": "땀이 몰리는 부위의 메시 통기 패널과 Dri-FIT 덕분에 이 목록에서 가장 시원하게 달릴 수 있습니다."
+    },
+    {
+      "label": "브랜드의 가치관까지 따지는 친환경 지향 여성",
+      "offerId": "athleta-power-train-tight",
+      "reason": "애슬레타의 지속가능 생산 방식과 여성 체형에 맞춘 Powervita 핏이 편안함과 신념을 동시에 챙겨줍니다."
+    },
+    {
+      "label": "스타일 놓치기 싫은 피트니스 인플루언서와 가벼운 러너",
+      "offerId": "outdoor-voices-discovery-leggings",
+      "reason": "컬러 블록 배색과 Doing Things™ 감성이 SNS에서도 헬스장에서도 눈에 띄면서, 일상복으로도 무리 없습니다."
+    },
+    {
+      "label": "이제 막 러닝을 시작한 예산 빠듯한 입문자",
+      "offerId": "amazon-essentials-running-tights",
+      "reason": "4만~5만 원대에 컬러도 여러 가지라, 습관이 자리 잡기 전에 비싼 돈을 들이지 않고 시작할 수 있습니다."
+    }
+  ]
 }

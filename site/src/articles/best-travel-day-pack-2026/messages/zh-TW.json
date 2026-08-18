@@ -2,5 +2,127 @@
   "title": "2026年最佳旅行小背包：5款比較",
   "description": "看看2026年哪款旅行小背包在背負舒適和兩用性方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "2026 年：時尚感與機能性的取捨",
+      "paragraphs": [
+        "以外型為主的背包（Fjällräven Kånken、Peak Design 15L）拍起來好看，走進餐廳也不失禮。機能型背包（Osprey Daylite Plus、Patagonia Altvia、Deuter Speed Lite）在承載 2.7 公斤以上時明顯更輕鬆，但出現在酒吧裡就顯得格格不入。",
+        "腰帶設計重新回歸。Osprey Daylite Plus 與 Deuter Speed Lite 皆配備可拆式腰帶，在一日健行時能實際分散重量。載重約 1.8 公斤以內不用腰帶無妨；超過 2.7 公斤則是必備。"
+      ]
+    },
+    {
+      "heading": "舒適度實測結果",
+      "paragraphs": [
+        "背負第 4 小時的肩部舒適度（載重 2.7〜3.6 公斤）：Osprey Daylite Plus 最佳（腰帶分散重量）、Deuter Speed Lite 次之（有腰帶）、Patagonia Altvia 第三、Peak Design 15L 第四、Fjällräven Kånken 最差（超過 14 公升載重時仍無腰帶與胸扣）。",
+        "背負第 8 小時的肩部不適程度：排名相同。Fjällräven 外型出色，但載重超過 1.8 公斤時並不適合連背 8 小時。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kånken 能當成真正的旅行日用背包嗎？",
+      "a": "載重 1.8 公斤以內可以（輕裝一日行程，放筆電、水壺、折疊傘）。2.7 公斤以上則不行（相機、午餐、兩人份的水）。建議 Kånken 主打造型，健行另備一款機能型背包。"
+    },
+    {
+      "q": "Peak Design 15L 是不是太偏攝影玩家取向？",
+      "a": "如果你不帶相機，確實如此——FlexFold 隔板對其他用途幫助有限。改選 NT$3,200 左右的 Patagonia Altvia 更實際。"
+    },
+    {
+      "q": "日用背包需要筆電隔層嗎？",
+      "a": "若你會帶筆電到共享辦公空間或美術館咖啡廳，那就需要。Osprey Daylite Plus 與 Peak Design 15L 都有可容納 13〜15 吋筆電的軟墊隔層。Kånken 雖有隔層，但沒有軟墊保護。"
+    }
+  ],
+  "products": {
+    "osprey-daylite-plus": {
+      "badge": "🏆 最佳全能款",
+      "review": "Osprey Daylite Plus 是綜合表現最好的旅行日用背包。20 公升容量、軟墊筆電隔層（可放 16 吋）、可拆式腰帶、多口袋配置。可掛接於 Osprey 大型背包，適合單包旅行者。終身保固。最適合想用一個背包同時應付城市與山徑的旅人。",
+      "pros": [
+        "有腰帶兼顧山徑舒適度，外型在城市也不突兀",
+        "可掛接 Osprey 大型背包"
+      ],
+      "cons": [
+        "造型感不如 Kånken 或 Peak Design"
+      ]
+    },
+    "peak-design-everyday-15l": {
+      "badge": "📷 攝影首選",
+      "review": "Peak Design Everyday Backpack 15L 是攝影者的日用背包。回收材質防潑水外殼、可收納相機與 3C 的 FlexFold 隔板、13 吋筆電置放袋。若你每天帶相機出門，這是最佳選擇；否則就是高價的過度配置。",
+      "pros": [
+        "FlexFold 隔板妥善保護相機器材",
+        "防潑水外殼"
+      ],
+      "cons": [
+        "約 NT$6,800〜8,000，是本篇價格最高的一款"
+      ]
+    },
+    "patagonia-altvia-pack-14l": {
+      "badge": "🌿 最輕量之選",
+      "review": "Patagonia Altvia Pack 14L 是最輕的機能型背包，空重僅 450 公克。回收尼龍材質、可放水袋、長時間背負仍舒適。最適合行程橫跨市區與山徑、不想只偏向其中一邊的旅人。",
+      "pros": [
+        "空重 450 公克，實測中最輕",
+        "相容水袋系統"
+      ],
+      "cons": [
+        "沒有筆電隔層"
+      ]
+    },
+    "fjallraven-kanken-classic": {
+      "badge": "🎨 造型最佳",
+      "review": "Fjällräven Kånken Classic 是經典的瑞典方正造型日用背包。16 公升容量、Vinylon F 布料、可拆式坐墊。超過 50 種顏色。最適合以造型為優先的旅人；但因為沒有腰帶與胸扣，載重超過 1.8 公斤就不合適。",
+      "pros": [
+        "超過 50 種顏色可選",
+        "本篇中辨識度最高的造型"
+      ],
+      "cons": [
+        "無腰帶——超過 1.8 公斤就不舒服"
+      ]
+    },
+    "deuter-speed-lite-13": {
+      "badge": "🏔️ 健行首選",
+      "review": "Deuter Speed Lite 13 走的是輕快路線的機能型背包。13 公升容量、空重 400 公克、附腰帶、可外掛登山杖。專為想要比筆電包還輕的一日健行者設計。最適合行程包含山徑的旅人，純市區行程則較不理想。",
+      "pros": [
+        "空重 400 公克（最輕）",
+        "可外掛登山杖，適合健行"
+      ],
+      "cons": [
+        "無筆電隔層，城市感較弱"
+      ]
+    }
+  },
+  "offerNotes": {
+    "osprey-daylite-plus": "Daylite（無 Plus）容量較小（13 公升）且沒有筆電隔層。",
+    "peak-design-everyday-15l": "請選 V2——V1 有已知的拉鍊問題，Peak Design 已在 V2 修正。",
+    "patagonia-altvia-pack-14l": "Patagonia Cross-Mountain 18L 是放大版本——設計同源，容量更大。",
+    "fjallraven-kanken-classic": "Mini Kånken 容量更小（7 公升），適合兒童或當作隨身包使用。",
+    "deuter-speed-lite-13": "Speed Lite 16 與 20 是加大版本——純一日健行選 13，過夜行程選 20。"
+  },
+  "pinDescription": "城市與山徑都能扛的全能後背包，還有那款背到 1.8 公斤就投降的瑞典經典。",
+  "recommendedFor": [
+    {
+      "label": "市區觀光與一日健行都要兼顧的單包旅行者",
+      "offerId": "osprey-daylite-plus",
+      "reason": "可掛接 Osprey 大型背包並配備可拆式腰帶，是本篇唯一既能上餐廳吃晚餐、又能走完 10 公里山徑的背包。"
+    },
+    {
+      "label": "帶著微單或單眼器材的旅遊攝影者",
+      "offerId": "peak-design-everyday-15l",
+      "reason": "FlexFold 隔板保護機身與鏡頭，防潑水外殼則在突然下雨時守住器材——不必再另外帶相機包。"
+    },
+    {
+      "label": "健行之餘也會走進市區吃午餐的超輕量派",
+      "offerId": "patagonia-altvia-pack-14l",
+      "reason": "空重僅 450 公克又相容水袋，能應付山徑，也不會因為體積笨重而讓市區停留顯得尷尬。"
+    },
+    {
+      "label": "注重造型、行程以輕裝市區為主的旅人",
+      "offerId": "fjallraven-kanken-classic",
+      "reason": "超過 50 種顏色與標誌性的方正輪廓，讓它成為最上相的一款——載重維持在 1.8 公斤以內時最理想。"
+    },
+    {
+      "label": "以山徑行程為主、斤斤計較重量的一日健行者",
+      "offerId": "deuter-speed-lite-13",
+      "reason": "空重 400 公克並配備腰帶與登山杖外掛，專為每一公克都要計較、筆電隔層毫無意義的山徑而生。"
+    }
+  ]
 }

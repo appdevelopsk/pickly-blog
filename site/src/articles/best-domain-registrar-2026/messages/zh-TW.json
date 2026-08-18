@@ -2,5 +2,149 @@
   "title": "2026年最佳網域註冊商：5款比較",
   "description": "看看2026年哪款網域註冊商在續費價格和追加銷售強度方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "真實價格（續約價，非首年優惠價）",
+      "paragraphs": [
+        ".com 第二年續約價：Porkbun 約 NT$330、Cloudflare 約 NT$310（成本價）、Namecheap 約 NT$480、GoDaddy 約 NT$800、Squarespace Domains 約 NT$640。",
+        "Cloudflare 的絕對價格最低——完全按註冊局成本收費，不加價。代價是：他們的目的是把你綁在 Cloudflare 的 DNS／代理服務上。Porkbun 則是有留利潤空間之下最便宜的選擇。",
+        "GoDaddy 的續約價（Porkbun 的 2.4 倍）是典型套路：首年低價、續約高價。很多人因為懶得搬家而留下，每個網域每年多付 NT$480 以上。"
+      ]
+    },
+    {
+      "heading": "WHOIS 隱私保護",
+      "paragraphs": [
+        "免費提供 WHOIS 隱私保護：Porkbun、Namecheap、Cloudflare、Squarespace Domains。GoDaddy 需另外付費：約 NT$320／年。",
+        "WHOIS 隱私保護會將你的姓名、地址、電子郵件與電話從公開紀錄中隱藏。沒有它，聯絡資料任何人都查得到，垃圾訊息隨之而來。",
+        "GoDaddy 對 WHOIS 隱私保護收費已是過時做法——多數現代註冊商都把免費隱私當成基本配備。"
+      ]
+    },
+    {
+      "heading": "結帳流程的加購推銷",
+      "paragraphs": [
+        "結帳過程中的加購推銷次數（含需手動取消勾選的項目）：Porkbun 0 次、Cloudflare 0 次、Namecheap 2 次、GoDaddy 8 次以上（隱私保護、電子郵件、資安、企業信箱、網站主機、網站builder、SSL、M365），Squarespace Domains 1 次。",
+        "GoDaddy 的結帳流程最為強勢，一不小心就會多買 NT$1,600 以上用不到的服務。Porkbun 與 Cloudflare 的結帳頁面則相當乾淨。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Cloudflare 還是 Porkbun？",
+      "a": "如果你本來就在用 Cloudflare 的 DNS／代理服務，就選 Cloudflare。如果你希望註冊商本身有健全獲利、且不被綁定在其他平台上，就選 Porkbun。"
+    },
+    {
+      "q": "該把網域從 GoDaddy 轉出嗎？",
+      "a": "該。每個網域每年可省下 NT$480 以上。轉移程序並不複雜（距上次異動需滿 60 天）。轉移費用通常由接手的註冊商吸收。"
+    },
+    {
+      "q": ".com 仍是最佳的頂級網域嗎？",
+      "a": "是。信任感最高、客戶最容易記住，而且對 SEO 中立。其他頂級網域（.io、.ai）在特定情境下沒問題，但 .com 仍是首選。"
+    },
+    {
+      "q": "大量網域管理呢？",
+      "a": "Cloudflare 與 Namecheap 的批次管理工具最好用。Porkbun 的批次操作介面正在改善中。GoDaddy 雖有批次工具，但介面雜亂。"
+    }
+  ],
+  "products": {
+    "porkbun-registrar": {
+      "badge": "🏆 最超值",
+      "review": "想要長期維持低價，Porkbun 是正確選擇。.com 續約約 NT$330、免費 WHOIS 隱私保護、搭配主機方案還附免費 SSL，結帳過程零推銷。2026 年註冊新網域的首選推薦。",
+      "pros": [
+        "長期可維持的最低價格",
+        "免費 WHOIS 隱私保護",
+        "結帳過程零加購推銷"
+      ],
+      "cons": [
+        "品牌知名度不如 Namecheap",
+        "沒有電話客服"
+      ]
+    },
+    "namecheap-registrar": {
+      "badge": "🎯 最佳主流選擇",
+      "review": "想要價格穩定的老牌主流服務，Namecheap 是正確選擇。.com 續約約 NT$480、永久免費 WHOIS 隱私保護、價格透明，DNS 管理功能強大。自 2000 年營運至今，穩定可靠。",
+      "pros": [
+        "永久免費 WHOIS 隱私保護",
+        "價格透明",
+        "DNS 管理功能強大"
+      ],
+      "cons": [
+        "價格高於 Porkbun",
+        "結帳仍有部分加購推銷"
+      ]
+    },
+    "cloudflare-registrar": {
+      "badge": "💰 最佳成本價方案",
+      "review": "如果你已經在用 Cloudflare DNS，想要成本價的話，Cloudflare Registrar 是正確選擇。.com 續約約 NT$310（註冊局成本價）、免費 WHOIS 隱私保護、完全不加價。但網域必須使用 Cloudflare DNS，且註冊商層級不提供郵件轉寄。",
+      "pros": [
+        "成本價收費（最便宜）",
+        "完全沒有任何加購推銷",
+        "免費 WHOIS 隱私保護"
+      ],
+      "cons": [
+        "必須使用 Cloudflare DNS",
+        "不提供郵件轉寄"
+      ]
+    },
+    "godaddy-registrar": {
+      "badge": "🚫 建議避開",
+      "review": "GoDaddy 是 2026 年最該避開的註冊商。.com 續約約 NT$800（Porkbun 的 2.4 倍）、WHOIS 隱私保護還要另付約 NT$320／年，結帳過程有 8 次以上加購推銷。老牌價位卻沒有老牌該有的好處，建議轉出。",
+      "pros": [
+        "品牌知名度高"
+      ],
+      "cons": [
+        "續約價最高",
+        "WHOIS 隱私保護需付費",
+        "結帳加購推銷強勢"
+      ]
+    },
+    "google-domains-squarespace": {
+      "badge": "🪜 最佳 Google 替代方案",
+      "review": "Squarespace Domains（前身為 Google Domains）承接了 Google Domains 的簡潔設計，2023 年由 Squarespace 收購。.com 續約約 NT$640、免費 WHOIS 隱私保護、介面清爽。",
+      "pros": [
+        "承接 Google Domains 的使用體驗",
+        "免費 WHOIS 隱私保護",
+        "結帳流程乾淨"
+      ],
+      "cons": [
+        "價格高於 Porkbun／Cloudflare",
+        "會推銷 Squarespace 網站建置服務"
+      ]
+    }
+  },
+  "offerNotes": {
+    "porkbun-registrar": "前往 porkbun.com 註冊——搭配 Porkbun 主機方案的免費 SSL 組合最划算。",
+    "namecheap-registrar": "前往 namecheap.com 註冊——留意黑色星期五的優惠。",
+    "cloudflare-registrar": "前往 cloudflare.com 註冊——需要有 Cloudflare 帳號。",
+    "godaddy-registrar": "前往 godaddy.com 註冊——但建議一年內轉出。",
+    "google-domains-squarespace": "前往 squarespace.com/domains 註冊——舊有 Google Domains 帳號已完成移轉。"
+  },
+  "pinDescription": "網域續約價差最多 2.4 倍！Porkbun、Namecheap、Cloudflare、GoDaddy、Squarespace 五家真實續約價與 WHOIS 隱私保護一次看，別再多繳冤枉錢。",
+  "recommendedFor": [
+    {
+      "label": "第一次註冊網域的獨立開發者與一人創業者",
+      "offerId": "porkbun-registrar",
+      "reason": "Porkbun 續約約 NT$330、零加購推銷、免費 WHOIS 隱私保護，從第一天起花費就清清楚楚。"
+    },
+    {
+      "label": "想找值得信賴老牌註冊商的小型企業主",
+      "offerId": "namecheap-registrar",
+      "reason": "Namecheap 價格透明、WHOIS 隱私保護永久免費，適合需要穩定 DNS 又不想有意外的企業。"
+    },
+    {
+      "label": "網站已架在 Cloudflare 代理後方的開發者",
+      "offerId": "cloudflare-registrar",
+      "reason": "既然 DNS 已由 Cloudflare 管理，約 NT$310 的成本價續約可無縫整合。"
+    },
+    {
+      "label": "想找回熟悉簡潔介面的前 Google Domains 使用者",
+      "offerId": "google-domains-squarespace",
+      "reason": "Squarespace Domains 承接了 Google Domains 的操作體驗，移轉過來的帳號仍保有免費 WHOIS 隱私保護。"
+    },
+    {
+      "label": "想把續約費用砍半的 GoDaddy 現有用戶",
+      "offerId": "godaddy-registrar",
+      "reason": "GoDaddy 續約約 NT$800、隱私保護還要另外付費，轉出後每個網域每年至少省下 NT$480，理由再清楚不過。"
+    }
+  ]
 }

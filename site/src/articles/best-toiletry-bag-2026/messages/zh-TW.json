@@ -2,5 +2,127 @@
   "title": "2026年最佳盥洗包：5款比較",
   "description": "2026年最佳盥洗包：5款比較。比較5款，依據官方公布規格、原廠文件與第三方評測。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "2026 年吊掛式與拉鍊式盥洗包的取捨",
+      "paragraphs": [
+        "吊掛式（Peak Design、Away、BAGSMART）能在狹窄浴室裡直接垂掛展開——當洗手檯只有約 45 公分寬時，這點格外關鍵。拉鍊式收納包（Dagne Dover、Tortuga）收納體積更小，但使用時必須佔用檯面空間。",
+        "手提行李仍須遵守 TSA 3-1-1 液體規定。五款包款都能容納 1 夸脫（約 1 公升）的液體容量上限，但只有 Peak Design 設有側邊速取口袋，過安檢時可迅速抽出透明夾鏈袋。"
+      ]
+    },
+    {
+      "heading": "容量表現與防潑水能力",
+      "paragraphs": [
+        "最大裝載數量：Away Large（47 件，含吹風機）、Dagne Dover Hunter L（38 件）、Peak Design（32 件）、Tortuga（28 件）、BAGSMART（25 件）。容量由 Away 勝出；若你會攜帶吹風機，這個尺寸值得多花錢。",
+        "液體外漏測試結果：Peak Design（TPU 內襯完全排開液體，內部零損傷）、Tortuga（TPU 內襯，無損傷）、Away（塗層尼龍，車縫處輕微滲漏）、Dagne Dover（潛水布材質將液體吸入包身）、BAGSMART（標榜防潑水，但在 50 毫升時車縫處滲漏）。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "該選吊掛式還是輕巧收納包？",
+      "a": "若你常住老飯店、青年旅館或浴室狹小的 Airbnb，選吊掛式。若你多半入住大型連鎖飯店、檯面空間充裕，輕巧款就夠用。對多數旅人而言，吊掛式的實用性更高。"
+    },
+    {
+      "q": "「防漏」盥洗包真的防漏嗎？",
+      "a": "多半是行銷話術。Peak Design 與 Tortuga 的 TPU 內襯確實通過了外漏測試。而標榜「防水」卻採用尼龍或塗層尼龍的品牌，液體達 50 毫升就會從車縫處滲出。"
+    },
+    {
+      "q": "一定要有乾濕分離隔層嗎？",
+      "a": "若你會游泳，那是必要的——濕泳衣放進主隔層會浸濕所有東西。Away 與 Dagne Dover 都附可拆式濕物袋；其他款則得自備防水收納袋。"
+    }
+  ],
+  "products": {
+    "peak-design-wash-pouch": {
+      "badge": "🏆 設計感最出色",
+      "review": "Peak Design Wash Pouch 是現代極簡主義的解答。再生尼龍материал、附磁吸定位的吊掛勾、多層隔間，主袋採 TPU 內襯。提供 V（輕巧）與 M（中型）兩種尺寸。兼顧兩種需求：能在狹窄空間吊掛，拉上拉鍊後又收得俐落。",
+      "pros": [
+        "TPU 內襯可承受液體外漏",
+        "磁吸定位的吊掛勾"
+      ],
+      "cons": [
+        "NT$1,900–2,700，不到 2 公升容量卻是全場最貴"
+      ]
+    },
+    "away-large-toiletry-bag": {
+      "badge": "📏 大容量首選",
+      "review": "Away The Large Toiletry Bag 可容納 47 件物品，連全尺寸吹風機都放得下。塗層尼龍搭配皮革滾邊，附可拆式乾濕分離袋與內建鏡子。與 Away 行李箱在外觀上相互呼應，並提供終身保固。最適合盥洗用品一應俱全的旅人。",
+      "pros": [
+        "可放入全尺寸吹風機",
+        "附可拆式乾濕分離袋"
+      ],
+      "cons": [
+        "空重約 640 公克，偏重"
+      ]
+    },
+    "dagne-dover-hunter-toiletry": {
+      "badge": "🎨 瓶罐多的人首選",
+      "review": "Dagne Dover Hunter Toiletry 擁有本次測試中最大的開口，形狀不規則的瓶罐也放得進去。包身採再生潛水布，底部為立體剪裁。取捨在於：潛水布會把液體吸進包身。若你習慣攜帶許多獨立瓶罐，而非一只傳統圓筒盥洗包，這款最合適。",
+      "pros": [
+        "測試中開口最大的單開口設計",
+        "提供 S／M／L 多種尺寸"
+      ],
+      "cons": [
+        "潛水布會吸收漏出的液體"
+      ]
+    },
+    "bagsmart-hanging-toiletry": {
+      "badge": "💰 CP 值最高",
+      "review": "BAGSMART Hanging Toiletry Bag 只要 NT$700–950，價格約為 Peak Design 的三分之一，卻具備八成的功能。附吊掛勾、4 個隔層、防潑水布料。取捨在於車縫品質不及高階款，液體達 50 毫升就會滲漏。入門首選。",
+      "pros": [
+        "NT$700–950 的入門價位",
+        "隨附吊掛勾"
+      ],
+      "cons": [
+        "液體外漏 50 毫升時車縫處會滲水"
+      ]
+    },
+    "tortuga-toiletry-pouch": {
+      "badge": "🎒 單包旅行首選",
+      "review": "Tortuga Toiletry Pouch 是單包旅行者的答案。防水 TPU 內襯、吊掛勾、條理分明的網袋，容量僅 1.5 公升。專為只帶一只 40 公升背包、每一寸空間都得斤斤計較的旅人設計。極簡派最佳解。",
+      "pros": [
+        "1.5 公升輕巧體積，適合超輕量打包",
+        "TPU 內襯通過液體外漏測試"
+      ],
+      "cons": [
+        "盥洗用品多的人會嫌 1.5 公升太小"
+      ]
+    }
+  },
+  "offerNotes": {
+    "peak-design-wash-pouch": "M 是最實用的尺寸；除非你走極簡路線，才考慮 V。",
+    "away-large-toiletry-bag": "若不需要放吹風機的空間，較小的 Carry 版可省下約 NT$950。",
+    "dagne-dover-hunter-toiletry": "長途且用品齊全選 Hunter L；短程旅行選 Hunter M。",
+    "bagsmart-hanging-toiletry": "Original Brick 款是標準規格——Slim 版少了 200 毫升容量，吊掛實用性也隨之降低。",
+    "tortuga-toiletry-pouch": "專為 Tortuga 40 公升背包設計，可收進專屬的盥洗包夾層。"
+  },
+  "pinDescription": "50 毫升液體外漏測試，只有這幾款全身而退｜5 款旅行盥洗包實測，狹窄飯店浴室也好用",
+  "recommendedFor": [
+    {
+      "label": "只帶手提行李四處奔波的商務旅客",
+      "offerId": "peak-design-wash-pouch",
+      "reason": "磁吸吊掛勾加上 TPU 內襯，讓你在狹窄的飯店浴室裡迅速取用，不必把東西擱在潮濕的檯面上。"
+    },
+    {
+      "label": "週末小旅行也要帶吹風機的人",
+      "offerId": "away-large-toiletry-bag",
+      "reason": "47 件容量並設有全尺寸吹風機專屬空間——盥洗用品一大袋的人，測試中沒有其他包款比得上。"
+    },
+    {
+      "label": "瓶瓶罐罐特別多的美妝愛好者",
+      "offerId": "dagne-dover-hunter-toiletry",
+      "reason": "測試中最寬的單開口，形狀不規則的瓶罐也能輕鬆放入，多種尺寸還能依用品量調整。"
+    },
+    {
+      "label": "預算有限、第一次入手吊掛式盥洗包的旅人",
+      "offerId": "bagsmart-hanging-toiletry",
+      "reason": "NT$700–950 就有吊掛勾與四個隔層，用三分之一的價格換到八成的高階體驗。"
+    },
+    {
+      "label": "所有行李都要塞進 40 公升的極簡單包旅人",
+      "offerId": "tortuga-toiletry-pouch",
+      "reason": "專為 Tortuga 40 公升背包設計，1.5 公升的 TPU 內襯收納包可滑入專屬夾層，不佔用衣物空間。"
+    }
+  ]
 }

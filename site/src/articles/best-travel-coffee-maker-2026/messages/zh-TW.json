@@ -2,5 +2,145 @@
   "title": "2026年最佳旅行咖啡機：5款比較",
   "description": "看看2026年哪款旅行咖啡機在沖泡品質和便攜性方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "沖煮方式與風味表現",
+      "paragraphs": [
+        "AeroPress（Go）：浸泡式加壓力萃取，最接近咖啡館的義式濃縮與美式咖啡，風味表現優異。",
+        "手沖（V60 摺疊濾杯、Stagg）：口感乾淨，需搭配熱水壺；熟練後品質相當出色。",
+        "加壓式義式濃縮（Nanopresso、Minipresso）：手動加壓萃取，能做出真正的 crema，濃縮愛好者的首選。"
+      ]
+    },
+    {
+      "heading": "各種需求的最佳選擇",
+      "paragraphs": [
+        "最佳攜帶性：AeroPress Go（約 NT$1,100-1,400）。旅行杯與 AeroPress 二合一。",
+        "最佳輕量手沖：Hario V60 摺疊濾杯（約 NT$470-780）。矽膠材質可摺平。",
+        "最佳隨身濃縮：Wacaco Nanopresso（約 NT$1,900-2,800）。手動加壓。",
+        "最佳高階手沖：Fellow Stagg 手沖組（約 NT$1,900-2,800）。",
+        "Nespresso 用戶首選：Wacaco Minipresso NS（約 NT$1,700-2,400）。可用 Nespresso 膠囊。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "旅行時該選 AeroPress 還是手沖？",
+      "a": "AeroPress 較快、變化多，能做出濃縮風格；手沖口感更乾淨，但技術門檻較高。兩者都可行，依個人喜好選擇即可。"
+    },
+    {
+      "q": "旅行沖咖啡需要帶磨豆機嗎？",
+      "a": "建議直接帶磨好的咖啡粉（AeroPress 用中細研磨、Nanopresso 用細研磨）。小型手搖磨豆機（Timemore、1Zpresso Q2）可以塞進行李，但會增加重量。"
+    },
+    {
+      "q": "飯店熱水壺的水質會有影響嗎？",
+      "a": "會。飯店熱水壺常有水垢殘留，建議先煮一次水倒掉再沖煮。若能取得瓶裝水會更理想。"
+    },
+    {
+      "q": "飯店房間真的能沖出好喝的咖啡嗎？",
+      "a": "可以。用 AeroPress 搭配新鮮咖啡豆，房內沖煮的品質足以媲美咖啡館。飯店附的「咖啡機」之所以難喝，主要是豆子不新鮮加上水質不佳。"
+    }
+  ],
+  "products": {
+    "aeropress-go": {
+      "badge": "🏆 最佳攜帶性",
+      "review": "AeroPress Go 是最合適的隨身咖啡器具。結合 AeroPress 與旅行杯，可放進行李箱，一次能沖 1-3 杯濃縮風格咖啡，是目前隨身沖煮中風味表現最好的選擇，用飯店熱水壺就能操作。",
+      "pros": [
+        "旅行版仍保有 AeroPress 的品質",
+        "可沖出濃縮風格咖啡",
+        "搭配飯店熱水壺即可使用"
+      ],
+      "cons": [
+        "約 NT$1,100-1,400，屬中價位",
+        "需自行攜帶磨好的咖啡粉"
+      ]
+    },
+    "hario-v60-collapsible-dripper": {
+      "badge": "🪶 最佳輕量手沖",
+      "review": "Hario V60 摺疊矽膠濾杯是輕量手沖的正解。矽膠材質可完全摺平，搭配通用的 V60 濾紙（各地都買得到），最適合輕裝出行的手沖愛好者。",
+      "pros": [
+        "可摺平收納，方便攜帶",
+        "使用標準 V60 濾紙",
+        "約 NT$470-780，價格親民"
+      ],
+      "cons": [
+        "需要熱水壺（多數飯店都有）",
+        "必須自備濾紙或當地購買"
+      ]
+    },
+    "wacaco-nanopresso": {
+      "badge": "☕ 最佳隨身濃縮",
+      "review": "Wacaco Nanopresso 是隨身義式濃縮的最佳選擇。手動加壓可達 18 bar，不需電池，能萃出真正的 crema，非常適合旅行中的濃縮愛好者，需搭配細研磨的濃縮咖啡粉。",
+      "pros": [
+        "能做出帶 crema 的真正濃縮",
+        "免電池",
+        "手動加壓，不需插電"
+      ],
+      "cons": [
+        "約 NT$1,900-2,800，屬中價位",
+        "需細研磨粉（建議直接帶濃縮研磨度的咖啡粉）"
+      ]
+    },
+    "stagg-pour-over-set": {
+      "badge": "💎 最佳高階首選",
+      "review": "Fellow Stagg 手沖旅行組是高階旅行咖啡的代表。Stagg [X] 濾杯搭配隨附的雙層保溫杯，沖煮過程賞心悅目、質感出眾。若不介意器材較佔空間，這組相當值得。",
+      "pros": [
+        "做工質感優異",
+        "沖煮體驗賞心悅目",
+        "隨附雙層保溫杯"
+      ],
+      "cons": [
+        "約 NT$1,900-2,800，屬高價位",
+        "體積比摺疊款大"
+      ]
+    },
+    "minipresso-ns-capsules": {
+      "badge": "💊 Nespresso 用戶首選",
+      "review": "Wacaco Minipresso NS 最適合慣用 Nespresso 的旅人。以手動加壓搭配 Nespresso 膠囊萃取（不需磨豆機，帶膠囊即可），壓力達 18 bar。家中已有 Nespresso 機的人尤其適合。",
+      "pros": [
+        "可使用 Nespresso 膠囊",
+        "手動加壓，免電池",
+        "具備真正的濃縮萃取壓力"
+      ],
+      "cons": [
+        "必須自行攜帶膠囊",
+        "膠囊會產生額外廢棄物"
+      ]
+    }
+  },
+  "offerNotes": {
+    "aeropress-go": "可於 aeropress.com、Amazon 購得。內含濾紙，旅行時建議多備一些。",
+    "hario-v60-collapsible-dripper": "可於 hario.com、Amazon 購得。使用標準 V60 濾紙（中型濾杯對應 02 尺寸）。",
+    "wacaco-nanopresso": "可於 wacaco.com、Amazon 購得。另有各式膠囊轉接套件可選購。",
+    "stagg-pour-over-set": "可於 fellowproducts.com 購得。旅行組內含保溫杯；Stagg 濾杯亦可單獨購買。",
+    "minipresso-ns-capsules": "可於 wacaco.com、Amazon 購得。相容原廠 Nespresso 膠囊（不支援 Vertuo）。"
+  },
+  "pinDescription": "出差旅行也想喝好咖啡？2026 隨身咖啡器具實測：AeroPress Go、Hario 摺疊 V60、Wacaco Nanopresso、Fellow Stagg、Minipresso NS，飯店房間也能沖出咖啡館等級。",
+  "recommendedFor": [
+    {
+      "label": "輕裝出差的商務常客",
+      "offerId": "aeropress-go",
+      "reason": "AeroPress Go 自帶旅行杯，收納後符合隨身行李尺寸，從此再也不必將就飯店咖啡。"
+    },
+    {
+      "label": "精打細算的背包客與青旅旅人",
+      "offerId": "hario-v60-collapsible-dripper",
+      "reason": "約 NT$470-780，矽膠 V60 可完全摺平、幾乎不佔重量，對錙銖必較的行李預算最友善。"
+    },
+    {
+      "label": "堅持要有 crema 的濃縮純粹派",
+      "offerId": "wacaco-nanopresso",
+      "reason": "手動加壓可達 18 bar，不必插電也不需膠囊就能萃出真正的 crema，走到哪都喝得到正統濃縮。"
+    },
+    {
+      "label": "習慣帶整套器材出門的咖啡玩家",
+      "offerId": "stagg-pour-over-set",
+      "reason": "Stagg [X] 濾杯與隨附雙層保溫杯，為重視儀式感的人帶來高質感的手沖體驗。"
+    },
+    {
+      "label": "旅途中也想喝到熟悉風味的 Nespresso 用戶",
+      "offerId": "minipresso-ns-capsules",
+      "reason": "沿用家中同款 Nespresso 膠囊，不必帶磨豆機、不必處理咖啡粉，風味完全一致。"
+    }
+  ]
 }

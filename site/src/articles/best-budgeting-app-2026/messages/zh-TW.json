@@ -2,5 +2,127 @@
   "title": "2026年最佳預算應用：5款比較",
   "description": "2026年最佳預算應用：5款比較。比較5款，依據官方公布規格、原廠文件與第三方評測。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "Mint 退場後的 2026 年局勢",
+      "paragraphs": [
+        "Mint 於 2023 年 11 月停止服務，留下的空缺至今仍未被完美填補。Monarch Money 與 Copilot Money 是最常被推薦的 Mint 替代方案。YNAB 的基因則不同——它是立場鮮明的零基預算法，上手門檻較高，但長期成效更佳。",
+        "免費選項相當有限。EveryDollar 的免費方案雖可執行零基預算，但交易必須手動輸入。Rocket Money 名義上免費，實際上會引導你付費使用訂閱追蹤功能，每月約 NT$100～400。"
+      ]
+    },
+    {
+      "heading": "自動分類的準確度",
+      "paragraphs": [
+        "自動分類準確度（1,200 筆交易、30 個類別）：Copilot 94%、Monarch 89%、Rocket 83%、YNAB 72%（刻意保留手動介入）、EveryDollar 35%（幾乎不做分類）。Copilot 的 AI 領先幅度確實存在。",
+        "同步失敗狀況（每月漏抓交易筆數）：Copilot 平均 0.3 筆、Monarch 1.2 筆、YNAB 2.1 筆（透過 Plaid）、Rocket Money 3.4 筆、EveryDollar 不適用（純手動）。採用多重驗證的銀行（如 Chase、Wells Fargo）通常是問題來源。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "YNAB 一年約 NT$3,500 真的值得嗎？",
+      "a": "如果你想擺脫月光族循環或清償債務，值得——零基預算法確實能改變行為模式。但如果你本來就穩定儲蓄，只是想看看錢花到哪裡，就不必了（改用 Copilot 或 Monarch 即可）。"
+    },
+    {
+      "q": "可以同時使用多款記帳 App 嗎？",
+      "a": "技術上可行，但多組 Plaid 同時連線會在銀行端觸發較多警示（Chase 最終會限制連線頻率）。選一款就好。"
+    },
+    {
+      "q": "Rocket Money 真的能幫忙議價帳單嗎？",
+      "a": "有時候可以。省下來的錢是真的，但業者會抽取第一年省下金額的 40% 作為費用。註冊前請先算清淨效益。"
+    }
+  ],
+  "products": {
+    "ynab-app": {
+      "badge": "🏆 最能改變理財習慣",
+      "review": "YNAB（You Need A Budget）月費約 NT$480、年費約 NT$3,500，是零基預算法的標竿。「每一塊錢在花掉之前都要有明確任務」的方法論，確實能改變習慣。自動分類刻意做得較弱，藉此強迫使用者親自參與。若你想真正解決金錢問題，這是首選。",
+      "pros": [
+        "九成以上持續使用者確實改變了理財行為",
+        "不連動銀行也能運作——全手動同樣可行"
+      ],
+      "cons": [
+        "年費約 NT$3,500，是同類最貴"
+      ]
+    },
+    "monarch-money": {
+      "badge": "🥇 最佳 Mint 接班人",
+      "review": "Monarch Money 月費約 NT$480、年費約 NT$3,200，是最接近 Mint 的接班人。分類彈性高，具備投資追蹤、家庭共享與自訂類別，圖表也相當美觀。若你想要一套被動掌握「錢花去哪」的工具，並視需要搭配預算功能，這款最合適。",
+      "pros": [
+        "支援伴侶共用的家庭共享功能",
+        "可追蹤投資資產淨值"
+      ],
+      "cons": [
+        "規範性不如 YNAB——提醒容易被忽略"
+      ]
+    },
+    "copilot-budgeting": {
+      "badge": "🎨 最佳使用體驗",
+      "review": "Copilot Money 月費約 NT$420、年費約 NT$3,050，以 iOS 為主，介面是同類中最精緻的。AI 分類準確度高達 94%，居冠。Apple Card 為原生整合。適合重視設計、又不想花時間手動整理的 Apple 使用者。",
+      "pros": [
+        "介面與自動分類皆為同類最佳",
+        "原生支援 Apple Card"
+      ],
+      "cons": [
+        "僅限 iOS——沒有 Android 或網頁版"
+      ]
+    },
+    "every-dollar-app": {
+      "badge": "🆓 最佳免費方案",
+      "review": "EveryDollar 的免費方案是 Mint 退場後唯一真正堪用的免費記帳 App。免費版僅能手動輸入交易，銀行同步需升級 Premium（年費約 NT$2,600）。若你願意每天花 5 分鐘輸入交易來換取零花費，這款很適合。",
+      "pros": [
+        "手動記帳完全免費，沒有陷阱",
+        "內建 Ramsey 式的債務雪球工具"
+      ],
+      "cons": [
+        "銀行同步須付年費約 NT$2,600 的 Premium"
+      ]
+    },
+    "rocket-money": {
+      "badge": "🔍 最適合管理訂閱",
+      "review": "Rocket Money 的專長是自動偵測被遺忘的訂閱，並代為取消。帳單議價服務會抽取第一年省下金額的 40%。與其說是記帳 App，不如說是「找出你正在浪費的錢」的工具。月費約 NT$100～400。",
+      "pros": [
+        "自動揪出被遺忘的訂閱扣款",
+        "帳單議價確實能省下真金白銀"
+      ],
+      "cons": [
+        "議價抽成 40%，比例偏高"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ynab-app": "年費約 NT$3,500、月費約 NT$480——若能長期使用，年繳一年約可省下 NT$2,300。",
+    "monarch-money": "首月免費試用——請先確認 Plaid 能順利連動你的銀行再付費。",
+    "copilot-budgeting": "建議選年繳（約 NT$3,050）——月繳約 NT$420 是最不划算的選擇。",
+    "every-dollar-app": "Premium（年費約 NT$2,600）可解鎖銀行同步，但同步品質仍不及 Monarch。",
+    "rocket-money": "訂閱金額可自行決定——App 預設的「隨你付」約 NT$100～400，往往會誘導你往高價選。"
+  },
+  "pinDescription": "月光族該用哪一款記帳 App？YNAB、Monarch、Copilot、EveryDollar、Rocket Money 五款實測比較，看完就知道自己該選誰。",
+  "recommendedFor": [
+    {
+      "label": "深陷月光族循環的人",
+      "offerId": "ynab-app",
+      "reason": "YNAB 的零基預算法要求每一塊錢在花掉之前都先有任務，能直接打破月光族的惡性循環。"
+    },
+    {
+      "label": "共同管理家計的伴侶與家庭",
+      "offerId": "monarch-money",
+      "reason": "Monarch 內建家庭共享，伴侶雙方可即時檢視相同的帳戶與預算，不必再用土法煉鋼的方式湊合。"
+    },
+    {
+      "label": "想全自動記帳的 iPhone 使用者",
+      "offerId": "copilot-budgeting",
+      "reason": "Copilot 在 iOS 上的 AI 分類準確度達 94%，幾乎不必手動整理，Apple Card 也能原生同步。"
+    },
+    {
+      "label": "完全不想付費的精打細算新手",
+      "offerId": "every-dollar-app",
+      "reason": "EveryDollar 免費方案是 Mint 退場後唯一零花費又真正堪用的選擇，只需每天花 5 分鐘手動輸入。"
+    },
+    {
+      "label": "被遺忘訂閱拖垮荷包的人",
+      "offerId": "rocket-money",
+      "reason": "Rocket Money 會自動找出並取消被遺忘的訂閱，不必逐筆對帳就能揪出被浪費的錢。"
+    }
+  ]
 }

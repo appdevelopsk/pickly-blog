@@ -2,5 +2,145 @@
   "title": "2026年最佳國際數據套餐：5款比較",
   "description": "看看2026年哪款國際數據套餐在覆蓋範圍和成本方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "eSIM、電信業者加購方案與專屬門號方案的差別",
+      "paragraphs": [
+        "專屬門號方案（Google Fi、T-Mobile）：主門號本身即可在海外使用，無需另外加購。",
+        "電信業者加購方案（Verizon TravelPass）：出國期間每日 NT$320 享無限數據。",
+        "eSIM（Airalo、Holafly）：在原門號之外，另行安裝該國專屬的數據方案。"
+      ]
+    },
+    {
+      "heading": "各種需求的最佳選擇",
+      "paragraphs": [
+        "全球通用首選：Google Fi（每月約 NT$640–2,560）。支援 200 多個國家，無需加購。",
+        "eSIM 平台首選：Airalo（每組方案約 NT$160–960）。涵蓋 200 多個目的地。",
+        "Verizon 美國用戶首選：Verizon TravelPass（每日約 NT$320）。直接沿用原有門號方案出國。",
+        "T-Mobile 美國用戶首選：T-Mobile Go5G Plus（每月約 NT$2,880）。215 個以上國家每月免費 5GB。",
+        "無限流量 eSIM 首選：Holafly（每日約 NT$190–640）。真正不限量。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "eSIM 和實體 SIM 卡怎麼選？",
+      "a": "eSIM 已是目前主流，透過 App 安裝即可，不需要實體卡片。2018 年之後的 iPhone 與多數 Android 旗艦機都支援 eSIM。較舊的手機仍需使用實體 SIM 卡（部分國家仍有販售實體卡）。"
+    },
+    {
+      "q": "只靠 Wi-Fi 夠用嗎？",
+      "a": "偶爾出國的話可以，多數飯店與咖啡廳都有免費 Wi-Fi。但若需要導航、叫車或處理工作，行動網路仍然穩定得多。"
+    },
+    {
+      "q": "出國後原本的門號會停用嗎？",
+      "a": "視服務而定。Google Fi 與 T-Mobile 在全球都會保留原號碼。Airalo eSIM 會另外給一組臨時號碼。Verizon TravelPass 則維持原本的美國號碼。"
+    },
+    {
+      "q": "出國的數據用量大概多少？",
+      "a": "輕度使用：每週 1–2 GB。中度使用（地圖＋社群）：每週 3–5 GB。重度使用（影音、工作）：每週 10 GB 以上。"
+    }
+  ],
+  "products": {
+    "google-fi": {
+      "badge": "🏆 全球通用首選",
+      "review": "經常出國的人選 Google Fi 最合適。支援 200 多個國家，多數方案不收漫遊費，數據採單一費率（不會有帳單暴增的意外），並使用 T-Mobile 與 UScellular 網路。最適合數位遊牧族，或一趟行程跑多個國家的旅客。",
+      "pros": [
+        "支援 200 多國且無需加購",
+        "全球數據單一費率",
+        "提供多種方案級距"
+      ],
+      "cons": [
+        "美國境內收訊範圍有限（僅 T-Mobile 與 UScellular）",
+        "月費高於電信業者的加購方案"
+      ]
+    },
+    "airalo-esim": {
+      "badge": "🌐 eSIM 平台首選",
+      "review": "想針對特定國家購買 eSIM 的旅客，選 Airalo eSIM Marketplace 最合適。涵蓋 200 多個目的地，透過 App 五分鐘完成安裝，用多少買多少。最適合不想更動原有門號方案的旅客。",
+      "pros": [
+        "可選 200 多個目的地",
+        "App 上五分鐘完成安裝",
+        "單次購買方案，無需綁約"
+      ],
+      "cons": [
+        "以國家為單位，每到一國就要另外購買",
+        "無法保留原本的美國號碼"
+      ]
+    },
+    "verizon-travelpass": {
+      "badge": "🇺🇸 Verizon 用戶首選",
+      "review": "已是 Verizon 美國用戶的人，選 Verizon TravelPass 最合適。每日約 NT$320 即可在海外享無限數據，直接沿用現有方案，不必另外申辦。最適合已持有美國吃到飽方案、偶爾出國的人。",
+      "pros": [
+        "每日約 NT$320 享海外無限數據",
+        "沿用現有的 Verizon 美國方案",
+        "原美國號碼維持可用"
+      ],
+      "cons": [
+        "行程一長，每日 NT$320 累積下來並不便宜",
+        "僅限現有 Verizon 用戶"
+      ]
+    },
+    "tmobile-go5g-plus": {
+      "badge": "🇺🇸 T-Mobile 用戶首選",
+      "review": "已是 T-Mobile 用戶的人，選 T-Mobile Go5G Plus 最合適。215 個以上國家每月免費 5GB，已含在方案內，不收額外費用。是內建海外覆蓋最完整的美國門號方案。",
+      "pros": [
+        "215 個以上國家每月免費 5GB",
+        "已包含在方案內",
+        "不收額外費用"
+      ],
+      "cons": [
+        "須申辦每月約 NT$2,880 的方案",
+        "5GB 上限，重度使用者不夠用"
+      ]
+    },
+    "holafly-esim": {
+      "badge": "🌐 無限流量 eSIM 首選",
+      "review": "數據用量大的人，選 Holafly Unlimited eSIM 最合適。在 200 多個國家提供真正的無限數據（不降速、不設上限），可選每日或每週方案。最適合需要大量數據、不想時時盯著流量的旅客。",
+      "pros": [
+        "真正的無限數據，不降速",
+        "支援 200 多個國家",
+        "提供單日方案"
+      ],
+      "cons": [
+        "每日約 NT$190–640，長天數行程累積可觀",
+        "無法保留原本的美國號碼"
+      ]
+    }
+  },
+  "offerNotes": {
+    "google-fi": "於 fi.google.com 申辦。手機須支援 Fi（多數新款機型皆可）。",
+    "airalo-esim": "安裝 Airalo App，選擇國家、購買方案，再透過 App 安裝 eSIM。",
+    "verizon-travelpass": "現有 Verizon 用戶可於 Verizon App 中啟用。手機在海外連上網路時自動計費，每日約 NT$320。",
+    "tmobile-go5g-plus": "現有 T-Mobile 用戶只要申辦 Go5G Plus 以上方案，出國後自動生效。",
+    "holafly-esim": "於 esim.holafly.com 申辦。提供單日方案，完成 eSIM 啟用即可使用。"
+  },
+  "pinDescription": "出國上網怎麼選？2026 年五大國際數據方案實測比較：Google Fi、Airalo eSIM、Verizon TravelPass、T-Mobile Go5G、Holafly，一次看懂哪個最划算。",
+  "recommendedFor": [
+    {
+      "label": "跨多國生活與工作的數位遊牧族",
+      "offerId": "google-fi",
+      "reason": "Google Fi 在 200 多國採單一費率，不會出現漫遊帳單意外，非常適合經常在國家之間移動的人。"
+    },
+    {
+      "label": "精打細算、一次只去一個國家的旅客",
+      "offerId": "airalo-esim",
+      "reason": "Airalo 可以只買單一國家的方案，短期旅行不必被長期月費綁住。"
+    },
+    {
+      "label": "偶爾短天數出國的 Verizon 用戶",
+      "offerId": "verizon-travelpass",
+      "reason": "每日約 NT$320 且不需重新申辦，10 天以內的行程搭配現有吃到飽方案最划算。"
+    },
+    {
+      "label": "一年出國數次的 T-Mobile 用戶",
+      "offerId": "tmobile-go5g-plus",
+      "reason": "Go5G Plus 在 215 個以上國家每月附贈 5GB，不必加價，等於現有方案直接內含海外上網。"
+    },
+    {
+      "label": "在海外追劇或遠端工作的重度用戶",
+      "offerId": "holafly-esim",
+      "reason": "Holafly 真正不限量且不降速，是每天都要串流、視訊或上傳大檔案的人唯一的選擇。"
+    }
+  ]
 }

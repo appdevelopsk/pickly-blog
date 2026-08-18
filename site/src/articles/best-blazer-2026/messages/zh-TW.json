@@ -2,5 +2,145 @@
   "title": "2026年最佳西裝外套：5款比較",
   "description": "2026年最佳西裝外套：5款比較。比較5款，依據官方公布規格、原廠文件與第三方評測。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "版型結構等級",
+      "paragraphs": [
+        "全襯（Thom Browne、Brooks Brothers Fitzgerald）：馬尾襯以手工縫在布料夾層之間。垂墜感最佳，可穿十年以上。約 NT$48,000 起。",
+        "半襯（Suitsupply、Spier & Mackay）：僅胸部使用毛襯，以下為黏合。中階選擇。約 NT$13,000–22,000。",
+        "全黏合（J.Crew Ludlow）：整件以膠合方式製作。價格最低，但五年後可能出現脫膠起泡。"
+      ]
+    },
+    {
+      "heading": "各種需求的最佳選擇",
+      "paragraphs": [
+        "最超值：Suitsupply Jort（約 NT$17,500–22,300）。義大利羊毛、半襯結構，落在 NT$16,000–22,000 區間。",
+        "義大利布料最划算：Spier & Mackay Flannel（約 NT$11,400–13,700）。義大利法蘭絨，直營品牌定價。",
+        "最具傳統風範：Brooks Brothers Fitzgerald（約 NT$15,900–22,300）。可選全襯版本，美式經典。",
+        "最佳設計師款：Thom Browne（約 NT$63,500 起）。招牌四道條紋，短版剪裁。",
+        "最佳中階款：J.Crew Ludlow（約 NT$11,100–15,900）。可靠的通勤西裝外套。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "全襯與半襯該怎麼選？",
+      "a": "全襯垂墜感更好，可穿十年以上。半襯垂墜表現尚可，壽命約五到七年。全黏合最便宜，但可能發生脫膠。"
+    },
+    {
+      "q": "Suitsupply 真的名副其實嗎？",
+      "a": "是的——以 NT$17,500–22,300 買到義大利羊毛半襯結構，是訂製類品項中性價比最高的。Suitsupply 多數商品還提供門市免費修改。"
+    },
+    {
+      "q": "西裝外套可以配牛仔褲嗎？",
+      "a": "可以，前提是外套為無襯結構（沒有墊肩），牛仔褲為深色或原色丹寧。避免用成套西裝的硬挺上衣搭牛仔褲，看起來會像拆散的西裝。"
+    },
+    {
+      "q": "該做全訂製嗎？",
+      "a": "只有在體型較特殊、且預算充足（NT$80,000 以上）時才值得。對九成的人來說，半訂製（Proper Cloth、Suitsupply）在合身度與費用之間最為平衡。"
+    }
+  ],
+  "products": {
+    "suitsupply-jort-blazer": {
+      "badge": "🏆 最超值",
+      "review": "Suitsupply Jort 是性價比最高的西裝外套。義大利羊毛、半襯結構、義式修身剪裁。NT$17,500–22,300 的價格約為全襯設計師款的一半，卻具備八成的做工水準。於 Suitsupply 門市購買可享免費修改。",
+      "pros": [
+        "義大利羊毛、半襯結構",
+        "NT$17,500–22,300 最超值",
+        "Suitsupply 門市免費修改"
+      ],
+      "cons": [
+        "半襯（非全襯）",
+        "義式修身剪裁未必適合所有體型"
+      ]
+    },
+    "spier-mackay-flannel-blazer": {
+      "badge": "🇨🇦 直營品牌最划算",
+      "review": "Spier & Mackay Flannel Blazer 是直營品牌中最划算的選擇。義大利法蘭絨、半襯結構，來自多倫多，定價相當實在。知名度不如 Suitsupply，品質卻不相上下。",
+      "pros": [
+        "義大利法蘭絨",
+        "直營品牌定價",
+        "半襯結構"
+      ],
+      "cons": [
+        "品牌知名度較低",
+        "多倫多以外僅能線上購買"
+      ]
+    },
+    "brooks-brothers-fitzgerald-blazer": {
+      "badge": "🇺🇸 最具傳統風範",
+      "review": "Brooks Brothers Fitzgerald Blazer 是美式經典的首選。義大利羊毛、修身的 Fitzgerald 版型，承襲美式傳統，是 Brooks Brothers 最合身的剪裁。高階系列另有全襯版本可選。",
+      "pros": [
+        "義大利羊毛",
+        "修身 Fitzgerald 版型",
+        "美式經典品牌"
+      ],
+      "cons": [
+        "NT$15,900–22,300 屬中高價位",
+        "品牌近年幾度易主"
+      ]
+    },
+    "thom-browne-classic-blazer": {
+      "badge": "👑 最佳設計師款",
+      "review": "Thom Browne Classic Blazer 是設計師款的代表。羊毛材質，袖口有招牌四道條紋，短版剪裁，義大利製造。高價位反映了設計師品牌價值與義式工藝，穿起來辨識度極高。",
+      "pros": [
+        "經典四道條紋",
+        "短版剪裁，輪廓鮮明",
+        "義大利工藝"
+      ],
+      "cons": [
+        "NT$63,500 起的高價位",
+        "短版剪裁並非人人適合"
+      ]
+    },
+    "jcrew-ludlow-blazer": {
+      "badge": "🪟 最佳中階款",
+      "review": "J.Crew Ludlow Slim Blazer 是可靠的中階通勤外套。義大利羊毛、修身的 Ludlow 版型，經常折扣到約 NT$9,600。Ludlow 十多年來一直是 J.Crew 最好的西裝外套。",
+      "pros": [
+        "義大利羊毛布料",
+        "修身 Ludlow 版型",
+        "常折扣至約 NT$9,600"
+      ],
+      "cons": [
+        "全黏合結構（非半襯）",
+        "特價幅度落差大"
+      ]
+    }
+  },
+  "offerNotes": {
+    "suitsupply-jort-blazer": "可於 suitsupply.com 或門市購買。Jort 為修身版型；Lazio 則較為寬鬆。",
+    "spier-mackay-flannel-blazer": "可於 spierandmackay.com 購買。多倫多直營品牌，提供國際配送。",
+    "brooks-brothers-fitzgerald-blazer": "可於 brooksbrothers.com 購買。Fitzgerald 是最修身的版型；Madison 較為寬鬆。",
+    "thom-browne-classic-blazer": "可於 Thom Browne 專門店或授權精品通路購買。",
+    "jcrew-ludlow-blazer": "可於 jcrew.com 購買。Ludlow 為修身版型；Crosby 較為寬鬆。"
+  },
+  "pinDescription": "西裝外套怎麼挑才不踩雷？全襯、半襯、黏合差在哪，Suitsupply、Spier & Mackay、Brooks Brothers、Thom Browne、J.Crew 五款一次比較，通勤與正式場合都能穿十年。",
+  "recommendedFor": [
+    {
+      "label": "預算有限但想穿得體面的上班族",
+      "offerId": "suitsupply-jort-blazer",
+      "reason": "NT$17,500–22,300 的義大利羊毛半襯結構，加上門市免費修改，不必多花錢就能穿出會議室等級的合身度。"
+    },
+    {
+      "label": "第一次上網買好西裝外套的遠距工作者",
+      "offerId": "spier-mackay-flannel-blazer",
+      "reason": "直營定價的義大利法蘭絨半襯結構，品質可比 Suitsupply，線上下單方便且支援國際配送。"
+    },
+    {
+      "label": "偏好美式經典品牌的傳統派",
+      "offerId": "brooks-brothers-fitzgerald-blazer",
+      "reason": "義大利羊毛的修身 Fitzgerald 版型，承載 Brooks Brothers 超過一世紀的傳統，價位落在中高階。"
+    },
+    {
+      "label": "想要一件招牌單品的時尚愛好者",
+      "offerId": "thom-browne-classic-blazer",
+      "reason": "經典的袖口四道條紋與義大利製短版輪廓，一眼就看得出是值得投資的設計師單品。"
+    },
+    {
+      "label": "需要一件可靠通勤外套的精打細算族",
+      "offerId": "jcrew-ludlow-blazer",
+      "reason": "義大利羊毛的 Ludlow 修身版型常折扣到約 NT$9,600，是入門正式穿搭最容易入手的選擇。"
+    }
+  ]
 }

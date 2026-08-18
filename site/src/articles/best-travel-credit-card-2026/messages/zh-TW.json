@@ -2,5 +2,127 @@
   "title": "2026年最佳旅遊信用卡：5款比較",
   "description": "看看2026年哪款旅遊信用卡在年費價值和轉點夥伴方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "年費何時能回本",
+      "paragraphs": [
+        "Sapphire Reserve 的 795 美元年費，可用 300 美元旅遊抵用金 ＋ 120 美元 Lyft 抵用金 ＋ Priority Pass（市價 469 美元）沖銷。只要確實用滿，回饋總值達 889 美元 —— 尚未計入任何消費，就已淨賺 94 美元。",
+        "Capital One Venture X（395 美元）則是最容易回本的一張：300 美元 Capital One Travel 抵用金 ＋ 週年 1 萬哩（價值 200 美元）＋ Priority Pass，合計 700 美元。未消費前已淨賺 305 美元。"
+      ]
+    },
+    {
+      "heading": "哩程夥伴的兌換價值",
+      "paragraphs": [
+        "Chase 點數轉 Hyatt 是兌換價值最高的路線（高階飯店約每點 0.030 美元）。Amex 點數轉全日空（ANA），飛亞洲商務艙來回可達每點 0.028 美元。Capital One 哩程轉土耳其航空，透過夥伴航空只要 1.25 萬哩即可單程飛歐洲。",
+        "Citi Strata Premier 最強的夥伴是新加坡航空（Suites 艙兌換每點可達 0.040 美元），但機位極難開。對願意提前 11 個月規劃的旅客來說，Citi 是被低估的黑馬。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "該選 Sapphire Preferred 還是 Reserve？",
+      "a": "每年兌換價值在 4,000 美元以下選 Preferred；兌換達 7,000 美元以上、且確實會用貴賓室才選 Reserve。低於 4,000 美元時，Preferred 的年費明顯更好交代。"
+    },
+    {
+      "q": "不常外食的話，Amex Gold 還值得辦嗎？",
+      "a": "不值得。325 美元年費只靠 120 美元餐飲＋120 美元 Uber 抵用金沖銷，用不到就立刻由盈轉虧。建議改辦 Sapphire Preferred。"
+    },
+    {
+      "q": "已經有 Capital One 的卡，還能再辦 Venture X 嗎？",
+      "a": "可以，Capital One 允許同時持有多張卡。限制 Chase 核卡的 5/24 規則在此不適用。"
+    }
+  ],
+  "products": {
+    "chase-sapphire-preferred": {
+      "badge": "🏆 多數人的首選",
+      "review": "Chase Sapphire Preferred 是年費 95 美元旅遊卡的標準答案。Chase Travel 5 倍點數、餐飲 3 倍、一般旅遊 2 倍，開卡禮 6 萬點（約合 750 美元旅遊價值）。轉點至 Hyatt、United、Southwest 可解鎖高艙等價值。一年飛 4 次以上就值得推薦。",
+      "pros": [
+        "6 萬點開卡禮",
+        "可轉 Hyatt／United 等夥伴"
+      ],
+      "cons": [
+        "無機場貴賓室"
+      ]
+    },
+    "amex-gold-card": {
+      "badge": "🍴 餐飲族最佳",
+      "review": "American Express Gold Card 是外食族的選擇。美國餐廳與超市 4 倍回饋（合計年上限 5 萬美元），另有 120 美元餐飲、120 美元 Uber、120 美元 Resy 抵用金。325 美元年費得靠用滿抵用金才划算，純粹是現金流工具，海外刷卡並不理想。",
+      "pros": [
+        "美國餐廳與超市 4 倍回饋",
+        "每月抵用金合計逾 240 美元"
+      ],
+      "cons": [
+        "海外交易手續費 2.7%"
+      ]
+    },
+    "capital-one-venture-x": {
+      "badge": "💎 年費效益比最佳",
+      "review": "Capital One Venture X 是最容易說服自己辦的高階卡。年費 395 美元，但 300 美元 Capital One Travel 抵用金＋週年 1 萬哩＋Priority Pass 合計 700 美元回饋，再加上 Capital One 自家貴賓室（現有 JFK、DEN、DFW、IAD、DCA）。Sapphire Reserve 唯一真正的對手。",
+      "pros": [
+        "逾 700 美元年度權益，足以沖銷 395 美元年費",
+        "美國 5 座機場設有 Capital One 貴賓室"
+      ],
+      "cons": [
+        "轉點夥伴弱於 Chase／Amex"
+      ]
+    },
+    "citi-premier-card": {
+      "badge": "🌏 被低估的黑馬",
+      "review": "Citi Strata Premier（原 Citi Premier）長期被低估。年費 95 美元，機票、飯店、餐廳、超市、加油皆 3 倍。可轉點新加坡航空、Avianca LifeMiles、土耳其航空 —— 這些是 Chase 與 Amex 都沒有的夥伴。只要能提前 11 個月規劃，兌換上限比 Sapphire Preferred 更高。",
+      "pros": [
+        "含加油在內 5 大類別 3 倍回饋",
+        "可轉新加坡航空／土耳其航空"
+      ],
+      "cons": [
+        "Citi ThankYou App 與客服品質不如 Chase"
+      ]
+    },
+    "chase-sapphire-reserve": {
+      "badge": "🏛️ 高階卡首選",
+      "review": "Chase Sapphire Reserve 年費在 2025 年底由 550 美元調升至 795 美元，如今是最貴、卻仍是最多人實際兌換的高階卡。300 美元旅遊抵用金、Priority Pass、Chase Travel 8 倍點數、120 美元 Lyft 抵用金。唯有每年旅遊兌換 7,000 美元以上、且一年用 4 次以上貴賓室才划算。",
+      "pros": [
+        "權益用滿價值逾 889 美元",
+        "Chase Travel 8 倍點數"
+      ],
+      "cons": [
+        "795 美元年費 —— 主流高階卡中最高"
+      ]
+    }
+  },
+  "offerNotes": {
+    "chase-sapphire-preferred": "建議等 10 萬點的加碼優惠 —— Chase 大約每 18～24 個月會再推一次。",
+    "amex-gold-card": "推薦好友獎勵會輪動到 9 萬點，能透過他人推薦連結申辦最好。",
+    "capital-one-venture-x": "附卡免年費且同樣享 Priority Pass —— 兩人同行時差異很大。",
+    "citi-premier-card": "市場傳言 Citi 可能減少轉點夥伴，建議點數入帳後 6 個月內完成轉點。",
+    "chase-sapphire-reserve": "滿兩年時重新評估 —— 年費已調漲，權益一變划算度就會翻盤。"
+  },
+  "pinDescription": "五張旅遊神卡怎麼選？Sapphire Preferred、Amex Gold、Venture X、Citi Strata Premier、Sapphire Reserve 一次比完。轉點夥伴、貴賓室、年費回本門檻全整理，出國前先看這篇。#旅遊神卡 #哩程",
+  "recommendedFor": [
+    {
+      "label": "一年飛四次以上的輕度旅客",
+      "offerId": "chase-sapphire-preferred",
+      "reason": "6 萬點開卡禮加上 Hyatt 轉點夥伴，95 美元年費輕鬆回本，不需要貴賓室也划算。"
+    },
+    {
+      "label": "餐廳與超市開銷大的都會族",
+      "offerId": "amex-gold-card",
+      "reason": "美國餐廳與超市 4 倍回饋，再加上逾 240 美元的餐飲與 Uber 抵用金，只要常外食就能沖銷 325 美元年費。"
+    },
+    {
+      "label": "經常結伴同行的情侶與家庭",
+      "offerId": "capital-one-venture-x",
+      "reason": "附卡免費且各自享有 Priority Pass 貴賓室，395 美元年費由兩人分攤後格外划算。"
+    },
+    {
+      "label": "願意提前數月開票的彈性規劃者",
+      "offerId": "citi-premier-card",
+      "reason": "新加坡航空與土耳其航空的轉點管道是 Chase、Amex 所沒有的，對能提前 11 個月規劃的人而言，單點兌換上限最高。"
+    },
+    {
+      "label": "每年旅遊消費逾 7,000 美元的重度旅客",
+      "offerId": "chase-sapphire-reserve",
+      "reason": "Chase Travel 8 倍點數，加上 889 美元可用權益與 Priority Pass 貴賓室，對一年用貴賓室 4 次以上的高消費者來說，795 美元年費仍是淨賺。"
+    }
+  ]
 }

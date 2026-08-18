@@ -2,5 +2,148 @@
   "title": "2026年最佳網站建構器：5款比較",
   "description": "看看2026年哪款網站建構器在發布時間和匯出便攜性方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "上線所需時間",
+      "paragraphs": [
+        "從註冊到完成 8 頁網站上線的時數：Squarespace 3 小時、Wix 4 小時（改用 AI 產生器可縮短至 1 小時，但設計品質下降）、Webflow 8 小時（學習曲線最陡）、Shopify 5 小時（以電商為核心，非商店用途反而拖慢）、Carrd 2 小時。",
+        "Squarespace 最快，因為版型已替你做好設計決策。Webflow 最慢——它確實是設計師等級的工具，與其說是網站建置器，不如說是在學一套設計軟體。"
+      ]
+    },
+    {
+      "heading": "行動裝置與 SEO",
+      "paragraphs": [
+        "Lighthouse 行動版分數（滿分 100）：Squarespace 78、Wix 65、Webflow 88（最佳，輸出程式碼乾淨）、Shopify 75、Carrd 92（額外負擔最少）。",
+        "SEO 預設值（meta、schema、sitemap、robots.txt）：五者皆會自動產生 sitemap 與 robots.txt。Squarespace 與 Webflow 的預設 meta 處理最完善。Wix 於 2024 年有所改善。Shopify 的 SEO 偏向電商調校。Carrd 可調項目較少，但預設值合理。"
+      ]
+    },
+    {
+      "heading": "平台綁定與匯出",
+      "paragraphs": [
+        "匯出選項：Webflow 可匯出乾淨的 HTML/CSS/JS（獨一無二）。其餘皆綁定平台，若要搬家只能手動重建。",
+        "網域可攜性：五者皆支援自訂網域。但綁定型平台不允許你帶走設計，唯一能轉移的只有網域。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Squarespace 還是 Wix？",
+      "a": "重視設計、願意讓版型代勞的網站選 Squarespace；需要最大彈性與拖放自由度的選 Wix。Squarespace 較為簡潔，Wix 較有彈性但得犧牲一致性。"
+    },
+    {
+      "q": "Webflow 的學習曲線值得嗎？",
+      "a": "若你想要設計師級的掌控權與可匯出的自主性，值得；若只想簡單拖放，就不值得。Webflow 約需 1～2 週上手，回報是專業水準的成品。"
+    },
+    {
+      "q": "非商店網站適合用 Shopify 嗎？",
+      "a": "並不理想。Shopify 以電商為優先，非商品頁面只是附帶功能。商品是主角時用 Shopify；以內容為主則選 Squarespace／Wix／Webflow。"
+    },
+    {
+      "q": "Carrd 和一般到達頁工具差在哪？",
+      "a": "Carrd 適合個人網站、link-in-bio 與單頁形象站。需要多頁時請用 Squarespace／Wix／Webflow。Carrd 年費 19 美元（約 NT$600）是最便宜的正經選項。"
+    }
+  ],
+  "products": {
+    "squarespace-builder": {
+      "badge": "🎨 預設設計最出色",
+      "review": "若你的網站以設計為重、希望版型直接扛下大部分工作，Squarespace 是正解。近似 Apple 的美學質感，高階方案具備 Shopify 以外最好的電商功能，並整合預約排程與電子報行銷。",
+      "pros": [
+        "版型設計最優秀",
+        "整合預約排程與電子報",
+        "近似 Apple 的美學"
+      ],
+      "cons": [
+        "彈性不如 Wix",
+        "綁定平台"
+      ]
+    },
+    "wix-builder": {
+      "badge": "🪄 彈性最高",
+      "review": "追求最大設計彈性就選 Wix。AI 網站產生器數分鐘即可生成網站（品質不一）。版型庫最龐大（900 種以上），另有 Wix Studio 提供設計師級掌控。免費方案含官方品牌標示。",
+      "pros": [
+        "拖放自由度最高",
+        "AI 網站產生器",
+        "有免費方案"
+      ],
+      "cons": [
+        "維持設計一致性需下功夫",
+        "行動版呈現向來較弱"
+      ]
+    },
+    "webflow-builder": {
+      "badge": "🥇 設計師等級首選",
+      "review": "想要設計師級掌控權又要乾淨的程式碼輸出，Webflow 是正解。可做到 CSS 層級的視覺編輯，並匯出 HTML/CSS/JS 供自行架站。學習曲線確實存在，但成品是專業水準。",
+      "pros": [
+        "設計師等級視覺編輯器",
+        "可匯出乾淨的 HTML/CSS/JS",
+        "Lighthouse 分數最佳"
+      ],
+      "cons": [
+        "學習曲線陡峭",
+        "費用高於 Squarespace"
+      ]
+    },
+    "shopify-builder": {
+      "badge": "🛍️ 電商最佳解",
+      "review": "以電商為核心的網站選 Shopify。原生金流處理、龐大的 App 生態系（1 萬個以上），並具備商品 schema 的 SEO 支援。以內容為主的網站則不太適合。",
+      "pros": [
+        "電商功能最完整",
+        "原生金流處理",
+        "App 生態系龐大"
+      ],
+      "cons": [
+        "非商店網站用起來過剩",
+        "電商導向的架構拖慢內容型網站"
+      ]
+    },
+    "carrd-single-page": {
+      "badge": "💸 單頁網站首選",
+      "review": "個人網站、link-in-bio、單頁形象站就選 Carrd。年費 19 美元（約 NT$600）即解鎖全部功能（自訂網域、表單、嵌入）。Lighthouse 分數最乾淨。不適合多頁網站。",
+      "pros": [
+        "年費 19 美元解鎖全功能",
+        "Lighthouse 分數最乾淨",
+        "發布速度極快"
+      ],
+      "cons": [
+        "不支援多頁",
+        "電商功能有限"
+      ]
+    }
+  },
+  "offerNotes": {
+    "squarespace-builder": "至 squarespace.com 註冊——14 天免費試用。",
+    "wix-builder": "至 wix.com 註冊——免費方案含 Wix 品牌標示。付費方案每月 16 美元（約 NT$500）起。",
+    "webflow-builder": "至 webflow.com 註冊——設計工具免費方案。網站代管每月 14 美元（約 NT$440）起。",
+    "shopify-builder": "至 shopify.com 註冊——3 天免費試用，之後前 3 個月每月 1 美元。",
+    "carrd-single-page": "至 carrd.co 註冊——有免費方案。Pro 版年費 19 美元（約 NT$600）。"
+  },
+  "pinDescription": "架站平台怎麼選？同一個 8 頁網站實測 Squarespace、Wix、Webflow、Shopify、Carrd：上線時間、Lighthouse 分數、能不能把網站帶走，一次看懂。2026 最新版。",
+  "recommendedFor": [
+    {
+      "label": "想要精緻品牌門面的小型企業主",
+      "offerId": "squarespace-builder",
+      "reason": "Squarespace 近似 Apple 的版型加上整合預約功能，不必請設計師也能快速擁有專業網站。"
+    },
+    {
+      "label": "想完全掌控版面的創作者與部落客",
+      "offerId": "wix-builder",
+      "reason": "Wix 的拖放彈性與 900 種以上版型，讓你不必碰程式碼就能調整每個元素。"
+    },
+    {
+      "label": "替客戶製作網站的網頁設計師與接案公司",
+      "offerId": "webflow-builder",
+      "reason": "Webflow 的 CSS 層級編輯器與乾淨的 HTML/CSS/JS 匯出，讓設計師能交付或自行架設專業成品。"
+    },
+    {
+      "label": "準備開設網路商店的創業者",
+      "offerId": "shopify-builder",
+      "reason": "Shopify 的原生金流與 1 萬個以上的 App 生態系，是打造完整可營運電商最快的路徑。"
+    },
+    {
+      "label": "製作簡單作品集的自由工作者與個人創業者",
+      "offerId": "carrd-single-page",
+      "reason": "Carrd 年費 19 美元即享全功能、發布速度極快，最適合個人 link-in-bio 或單頁作品集。"
+    }
+  ]
 }

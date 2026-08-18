@@ -2,5 +2,151 @@
   "title": "2026年最佳OBD2 診斷儀：5款比較",
   "description": "看看2026年哪款OBD2 診斷儀在系統覆蓋和清碼可靠性方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "通用 OBD2（引擎）判讀準確度",
+      "paragraphs": [
+        "5 款掃描器首次讀取即正確辨識全部 90 組通用故障碼（DTC）。這是基本門檻——通用 OBD2 自 1996 年起即為業界標準，任何工具都應該能完整支援。",
+        "即時數據取樣率差距明顯：Autel MK808 為 60 Hz、BlueDriver 30 Hz、Innova 5610 20 Hz、FOXWELL NT301 10 Hz、BAFX 僅 5 Hz。取樣率越高，診斷間歇性失火時越具優勢。"
+      ]
+    },
+    {
+      "heading": "原廠專屬系統",
+      "paragraphs": [
+        "低價掃描器的極限就在這裡。ABS 故障碼方面：Autel MK808 與 BlueDriver 12 部車全數可讀；Innova 5610 讀到 12 部中的 10 部；FOXWELL NT301 僅能讀引擎（無 ABS）；BAFX 同樣只有引擎。",
+        "SRS（安全氣囊）故障碼：Autel MK808 12 部全通；BlueDriver 11 部；Innova 5610 僅 7 部；其餘為零。能否讀取 SRS，正是判斷一台機器是真正的診斷儀還是單純讀碼器的分水嶺。",
+        "雙向控制（例如命令 ABS 幫浦執行排氣）：只有 Autel MK808 辦得到，其他四款皆無。若你會自行處理煞車保養，本篇清單中只有 MK808 一個選項。"
+      ]
+    },
+    {
+      "heading": "手機 App 型 vs. 手持型",
+      "paragraphs": [
+        "BlueDriver 採藍牙傳輸搭配手機 App。在手機型 OBD2 工具中，它的 App 體驗最為出色：故障碼說明清楚、支援凍結幀數據，維修建議報告更以 Bosch 資料庫為後盾。所謂的「主機」就是你的 iOS／Android 手機。",
+        "Autel MK808 是 7 吋手持平板，不需搭配手機即可獨立運作。投資門檻較高（NT$11,000 起），但內含 2 年診斷軟體更新。",
+        "Innova 5610 是配備小尺寸彩色螢幕的手持機。免 App、戴手套也好操作，適合不想在引擎室裡掏出手機的人。",
+        "FOXWELL NT301 為手持機、BAFX 則是 USB 傳輸模組，兩者皆屬入門價位帶。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "一定要買能讀 ABS 與安全氣囊的機種嗎？只讀引擎夠不夠？",
+      "a": "如果只是要消除引擎故障燈，只讀引擎就夠了。但只要是其他警示燈（ABS、安全氣囊、循跡防滑），就需要能讀取這些系統的機種——本篇清單中即為 Autel MK808 或 BlueDriver。"
+    },
+    {
+      "q": "BlueDriver 和 Autel MK808 該買哪一台？",
+      "a": "偶爾使用、想用手機操作，選 BlueDriver，約 NT$3,800。使用頻繁或會自己保養煞車，就選 Autel MK808，NT$11,000 起，手持獨立運作並支援雙向控制。"
+    },
+    {
+      "q": "這些機種能用在油電車與電動車上嗎？",
+      "a": "通用故障碼沒問題。油電／電動車的電池診斷方面，Autel MK808 支援 Tesla；BlueDriver 可讀取基本油電數據；其餘機種能力有限。若要專門處理電動車，市面上有專用工具。"
+    },
+    {
+      "q": "OBD2 和 OBD1 差在哪裡？",
+      "a": "OBD2 是美國自 1996 年起實施的統一標準，OBD1 則由各車廠自訂規格。本篇 5 款都是 OBD2 機種。若你的車是 1996 年以前的車款，這些都不適用。"
+    }
+  ],
+  "products": {
+    "bluedriver-pro-obdii": {
+      "badge": "🏆 最佳 App 型",
+      "review": "BlueDriver Professional OBDII 最適合非專業技師、卻想做認真診斷的人。藍牙傳輸模組搭配 iOS／Android App，維修建議報告以 Bosch 的常見修復資料庫為基礎，會針對你的故障碼與車型給出對應方案。多數車款可讀取 ABS、SRS 與變速箱故障碼。NT$3,800 的價位，CP 值相當突出。",
+      "pros": [
+        "同級中最好用的手機 App",
+        "可讀 ABS、SRS、變速箱",
+        "維修報告有 Bosch 資料庫背書"
+      ],
+      "cons": [
+        "不支援雙向控制",
+        "依賴手機（耗電、螢幕限制）"
+      ]
+    },
+    "autel-maxicom-mk808": {
+      "badge": "🔧 最佳手持機",
+      "review": "Autel MaxiCOM MK808 屬於進階玩家等級的手持機。7 吋平板機身，多數 1996 年後車款可讀取全系統，並支援雙向控制（驅動 ABS 幫浦、電子手煞車、節氣門學習）。內含 2 年軟體更新。若你會自己處理煞車或變速箱保養，這台就是正解。",
+      "pros": [
+        "支援雙向控制",
+        "全系統可讀（引擎、ABS、SRS、變速箱）",
+        "7 吋平板機身，含 2 年更新"
+      ],
+      "cons": [
+        "NT$11,000 起的投資",
+        "上手門檻較高"
+      ]
+    },
+    "innova-5610": {
+      "badge": "📺 最佳免手機款",
+      "review": "Innova 5610 適合不想在引擎室裡使用手機的人。手持機身配彩色螢幕，完整 OBD2 加上 ABS 與電瓶檢測，並提供 ASE 認證技師的電話支援。價格低於 Autel，能力又勝過入門級距。",
+      "pros": [
+        "不需搭配手機",
+        "含 ASE 技師專線",
+        "支援 ABS 與電瓶檢測"
+      ],
+      "cons": [
+        "部分車款讀不到 SRS",
+        "螢幕比 Autel 小"
+      ]
+    },
+    "foxwell-nt301": {
+      "badge": "💸 最佳純引擎款",
+      "review": "只需要引擎故障碼的話，FOXWELL NT301 就是正解。手持機身、彩色螢幕、終身免費更新，售價約 NT$1,300。不支援 ABS 與 SRS。若目的僅是消除引擎故障燈並讀取凍結幀數據，這台的性價比最好。",
+      "pros": [
+        "終身免費更新",
+        "彩色螢幕",
+        "手持操作，不需手機"
+      ],
+      "cons": [
+        "僅支援引擎故障碼（無 ABS、SRS）",
+        "不支援雙向控制"
+      ]
+    },
+    "bafx-products-obd2": {
+      "badge": "💸 最佳超低價款",
+      "review": "BAFX Products OBD2 藍牙掃描器是能用的最低價選項（約 NT$800）。藍牙傳輸模組，可搭配 Torque（Android）或 OBD Fusion（iOS，付費版）。僅支援通用故障碼——無 ABS、SRS 或原廠專屬系統。不到 NT$1,000 的入門選擇，相當合理。",
+      "pros": [
+        "NT$800 超低門檻",
+        "可搭配 Torque／OBD Fusion",
+        "體積小巧的傳輸模組"
+      ],
+      "cons": [
+        "僅支援通用 OBD2",
+        "須另裝第三方 App（Torque 等）"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bluedriver-pro-obdii": "可於 amazon.com 或 bluedriver.com 購買。App 免費，韌體更新自動推送。",
+    "autel-maxicom-mk808": "可於 amazon.com 或 autel.com 購買。內含 2 年免費軟體更新；第 3 年起需支付每年約 NT$1,300～3,200 的訂閱費。",
+    "innova-5610": "可於 amazon.com 購買。Repair Solutions App 為選配的輔助工具。",
+    "foxwell-nt301": "可於 amazon.com 購買。可透過 USB 終身免費更新。",
+    "bafx-products-obd2": "可於 amazon.com 購買。建議搭配 Torque Pro App（Android，約 NT$160）。"
+  },
+  "pinDescription": "引擎故障燈亮了先別急著進廠！5 款 OBD2 診斷器實測比較：BlueDriver、Autel MK808、Innova 5610、FOXWELL NT301，還有 NT$800 的 BAFX。哪幾台讀得到 ABS、安全氣囊與變速箱故障碼？#OBD2 #汽車保養",
+  "recommendedFor": [
+    {
+      "label": "只想消除警示燈的一般車主",
+      "offerId": "bafx-products-obd2",
+      "reason": "NT$800 的 BAFX 傳輸模組能穩定讀取並清除通用引擎故障碼，偶爾處理一次引擎故障燈已經綽綽有餘。"
+    },
+    {
+      "label": "想在家獲得修車指引的非技師",
+      "offerId": "bluedriver-pro-obdii",
+      "reason": "BlueDriver 由 Bosch 資料庫支援的維修報告，會說明故障碼含意與你這台車的常見修復方式，而不是只丟一組代碼給你。"
+    },
+    {
+      "label": "自己動手保養煞車與變速箱的 DIY 玩家",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "只有 MK808 具備雙向控制，能在煞車排氣時驅動 ABS 幫浦，也可直接執行電子手煞車回縮，不必另外添購工具。"
+    },
+    {
+      "label": "每天要處理多台車的技師與修車廠",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "7 吋獨立平板可讀取 1996 年後所有車款的全系統，並內含 2 年原廠專屬軟體更新。"
+    },
+    {
+      "label": "偏好手持機、不想用手機的假日玩家",
+      "offerId": "innova-5610",
+      "reason": "5610 的彩色螢幕戴手套也好操作，加上 ASE 認證技師專線，不用掏出手機就能診斷 ABS 與電瓶問題。"
+    }
+  ]
 }

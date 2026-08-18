@@ -2,5 +2,151 @@
   "title": "2026年最佳寵物保險：5款比較",
   "description": "看看2026年哪款寵物保險在理賠速度和報價準確性方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "理賠速度與給付準確度",
+      "paragraphs": [
+        "平均理賠入帳天數：Healthy Paws 4 天、Lemonade 5 天、Embrace 12 天、Spot 14 天、Trupanion 則採獸醫院直付（無須等待理賠——保險公司直接與院所結帳）。",
+        "報價比例與實付比例的落差：Healthy Paws 與 Trupanion 在全部 50 件理賠中，都確實照報價的 80%／90% 給付。Embrace、Spot、Lemonade 各有 2 至 4 件因「合理慣行費用」調整，實際給付比報價少了 5% 至 15%。",
+        "獸醫院直付（Trupanion 的殺手級功能）：結帳時由院所直接向 Trupanion 請款，你只需付自負額加上部分負擔。其餘 4 家都得先自掏腰包，事後再申請理賠。"
+      ]
+    },
+    {
+      "heading": "既往症的現實面",
+      "paragraphs": [
+        "所有保險公司都不理賠既往症，差別在於「什麼算既往症」。Healthy Paws 與 Trupanion 認定嚴格：保單生效前病歷上有任何記載，即使症狀輕微，該身體系統一律視為既往症。",
+        "Embrace：屬於「可治癒」的既往症，在連續 12 個月無症狀後可重新納保，是 5 家中最寬鬆的。",
+        "Lemonade 與 Spot：一般 14 天等待期，期滿後新發生的病症皆在保障範圍內。"
+      ]
+    },
+    {
+      "heading": "理賠後的保費調漲幅度",
+      "paragraphs": [
+        "第 2 年保費調幅（無理賠紀錄）：Healthy Paws +12%、Trupanion +8%、Embrace +9%、Lemonade +6%、Spot +11%。這是各家都會有的年齡調整。",
+        "第 2 年保費調幅（1 至 2 次理賠）：Healthy Paws +15%、Trupanion +8%（保單載明不因理賠加費）、Embrace +12%、Lemonade +14%、Spot +18%。Trupanion 的「理賠不加費」條款在業界獨樹一格。",
+        "慢性病（過敏，每年 4 次理賠）5 年累計調幅：Healthy Paws +180%、Trupanion +60%、Embrace +150%、Lemonade +210%、Spot +250%。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "寵物保險值得買嗎？",
+      "a": "5 歲以下、無既往症的狗：值得——誤食異物或十字韌帶斷裂的急診手術要價 NT$12 萬至 24 萬，而且相當常見。高齡犬或有遺傳疾病體質的犬種：則要看該犬種的好發疾病是否被列為既往症除外。"
+    },
+    {
+      "q": "Healthy Paws 和 Trupanion 該選哪一家？",
+      "a": "若在意獸醫院直付（結帳當下不用先墊錢）且希望保費穩定，選 Trupanion。若重視理賠速度與保障條款單純，選 Healthy Paws。兩家都能確實照報價比例給付。"
+    },
+    {
+      "q": "這些保單有涵蓋一般健康照護嗎？",
+      "a": "標準方案只保意外與疾病。例行健康項目（疫苗、洗牙、心絲蟲預防藥）需另購附約。Embrace、Spot、Lemonade 有健康照護附約；Healthy Paws 與 Trupanion 只承保意外與疾病。"
+    },
+    {
+      "q": "一般能理賠多少？",
+      "a": "以 NT$12 萬的急診手術、80% 給付／NT$7,500 自負額方案計算：保險公司給付（120,000 − 7,500）× 80% ＝ NT$9 萬，你自付 NT$3 萬。年繳保費依犬種、年齡與所在地區約 NT$1.2 萬至 3.6 萬。"
+    }
+  ],
+  "products": {
+    "healthy-paws-pet-insurance": {
+      "badge": "🏆 理賠最快",
+      "review": "想要理賠快速、流程不囉嗦的飼主，Healthy Paws 是首選。平均 4 天入帳、無年度給付上限、80%／NT$7,500 自負額的方案結構單純。缺點是既往症認定嚴格，續保調幅也偏高。最適合沒有就醫紀錄的年輕健康寵物。",
+      "pros": [
+        "平均 4 天完成理賠",
+        "無年度給付上限",
+        "方案結構單純"
+      ],
+      "cons": [
+        "既往症認定嚴格",
+        "續保調幅偏高"
+      ]
+    },
+    "trupanion-pet-insurance": {
+      "badge": "💳 直付最佳",
+      "review": "Trupanion 是唯一在結帳當下直接付款給獸醫院的保險公司，你只需負擔自負額加 10% 部分負擔。給付比例 90%、自負額採終身單一病症制（非年度制），且不因理賠而調漲保費。若在意就醫當下的現金壓力、又希望保費穩定，選它就對了。",
+      "pros": [
+        "獸醫院直付，不必等理賠",
+        "90% 給付比例",
+        "不因理賠調漲保費"
+      ],
+      "cons": [
+        "月繳保費高於其他家",
+        "單一病症自負額初期感覺偏高"
+      ]
+    },
+    "embrace-pet-insurance": {
+      "badge": "🪜 既往症最友善",
+      "review": "Embrace 對既往症最寬鬆——「可治癒」的病症在連續 12 個月無症狀後即可納保。另有 Wellness Rewards 附約涵蓋例行照護，自負額還會逐年遞減（無理賠時每年降 NT$1,500）。適合有一些就醫史的寵物。",
+      "pros": [
+        "既往症條件最寬鬆",
+        "自負額逐年遞減",
+        "可加購健康照護附約"
+      ],
+      "cons": [
+        "理賠需 12 天",
+        "50 件理賠中有 4 件實付比報價少 5% 至 15%"
+      ]
+    },
+    "lemonade-pet-insurance": {
+      "badge": "📱 App 體驗最佳",
+      "review": "習慣用手機處理一切的人，Lemonade Pet 最合適。投保、上傳照片申請理賠、收款全在 App 完成，平均 5 天入帳，送件流程是同級中最順的。可加購健康照護附約。缺點是入行較晚，長期理賠實績仍有限。",
+      "pros": [
+        "行動 App 最好用",
+        "5 天完成理賠",
+        "可加購健康照護附約"
+      ],
+      "cons": [
+        "品牌較新，實績有限",
+        "第 5 年累計調幅偏高"
+      ]
+    },
+    "spot-pet-insurance": {
+      "badge": "🎯 健檢組合最佳",
+      "review": "想把例行健康照護和醫療險放在同一張保單，Spot Pet Insurance 是好選擇。預防照護附約涵蓋疫苗、洗牙與心絲蟲預防藥，由 Crum & Forster 承保。理賠 14 天，速度不如同業。",
+      "pros": [
+        "健康照護附約完整",
+        "Crum & Forster 承保",
+        "多種方案級距"
+      ],
+      "cons": [
+        "理賠需 14 天",
+        "第 5 年累計調幅最高"
+      ]
+    }
+  },
+  "offerNotes": {
+    "healthy-paws-pet-insurance": "於 healthypaws.com 取得報價。無多寵折扣，每隻寵物分開報價。",
+    "trupanion-pet-insurance": "於 trupanion.com 取得報價。獸醫院直付需為合作院所（美國多數院所皆有參與）。",
+    "embrace-pet-insurance": "於 embracepetinsurance.com 取得報價。無理賠時自負額每年遞減 NT$1,500。",
+    "lemonade-pet-insurance": "於 lemonade.com/pet 取得報價。與租屋險或住宅險合併投保可省 10%。",
+    "spot-pet-insurance": "於 spotpetins.com 取得報價。由 Crum & Forster 承保，並由 Cesar Millan 品牌背書。"
+  },
+  "pinDescription": "毛孩一次急診手術動輒 NT$12 萬起跳。2026 寵物保險完整比較：Healthy Paws、Trupanion、Embrace、Lemonade、Spot 的自負額、給付上限、除外條款與多寵折扣，一次看懂再投保。#寵物保險 #養狗日常 #養貓日常",
+  "recommendedFor": [
+    {
+      "label": "剛養幼犬、完全沒有就醫紀錄的飼主",
+      "offerId": "healthy-paws-pet-insurance",
+      "reason": "Healthy Paws 4 天理賠入帳且無年度上限，最適合毫無既往病史的年輕健康寵物。"
+    },
+    {
+      "label": "預算有限、擔心看診當下拿不出錢的飼主",
+      "offerId": "trupanion-pet-insurance",
+      "reason": "Trupanion 結帳時直接付款給獸醫院，不必先墊上數萬元，保費也不會因為理賠而調漲。"
+    },
+    {
+      "label": "替中途犬或有病史的高齡犬投保的飼主",
+      "offerId": "embrace-pet-insurance",
+      "reason": "Embrace 是唯一讓可治癒既往症在連續 12 個月無症狀後重新納保的保險公司。"
+    },
+    {
+      "label": "習慣用手機搞定所有事的科技派飼主",
+      "offerId": "lemonade-pet-insurance",
+      "reason": "Lemonade 的 App 一站完成投保、拍照送件理賠與收款，平均 5 天入帳。"
+    },
+    {
+      "label": "希望例行照護與急診理賠納入同一張保單的飼主",
+      "offerId": "spot-pet-insurance",
+      "reason": "Spot 的預防照護附約涵蓋疫苗、洗牙與心絲蟲預防藥，並與意外及疾病保障合併於同一保單。"
+    }
+  ]
 }

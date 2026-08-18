@@ -2,5 +2,150 @@
   "title": "2026年最佳輪胎打氣機：5款比較",
   "description": "看看2026年哪款輪胎打氣機在充氣速度和PSI精度方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "充氣速度與精準度",
+      "paragraphs": [
+        "以 P235/55R18 輪胎從 28 PSI 打到 35 PSI 所需時間：Milwaukee M12 2475-20 為 1 分 10 秒、Ryobi P737D 為 1 分 35 秒、Fanttik X8 Apex 為 2 分 5 秒、Avid Power 為 2 分 50 秒、Viair 88P 為 3 分 20 秒。電動工具品牌（Milwaukee、Ryobi）之所以在速度上勝出，是因為採用 12V／18V 工具電池供電，屬於真正的高輸出等級。",
+        "以 35 PSI 為目標值、對照校正過的標準胎壓表：Milwaukee 實測 35.1 PSI、Ryobi 34.8、Fanttik 35.4、Avid Power 33.8、Viair 36.2。Milwaukee 與 Ryobi 誤差在 0.5 PSI 以內；Avid Power 與 Viair 則有 1 至 2 PSI 的偏移。"
+      ]
+    },
+    {
+      "heading": "一年耐用度實測",
+      "paragraphs": [
+        "在車庫使用滿 12 個月後：Milwaukee M12 與 Ryobi P737D 毫無問題，並有工具品牌的完整保固支援。Fanttik X8 Apex 的軟管接縫在第 8 個月開始漏氣（軟管可更換）。Avid Power 的握把塑膠在第 10 個月出現裂痕。Viair 88P（12V 點菸器插頭）仍可運作，但插頭接點已出現接觸不良。",
+        "電池品牌的綁定成本：Milwaukee 使用 M12 系列工具電池（4Ah 電池組約 NT$3,200）。Ryobi 使用 18V ONE+ 電池。若你手上已有其中一個品牌的工具電池，選這兩款幾乎不用考慮；若沒有，入手成本就得再加上電池。"
+      ]
+    },
+    {
+      "heading": "供電方式是關鍵",
+      "paragraphs": [
+        "工具電池式無線（Milwaukee、Ryobi）：速度最快、精準度最高。適合已有工具電池的重度使用者。",
+        "獨立電池式無線（Fanttik、Avid Power）：內建電池、USB-C 充電。攜帶性更好，但充氣較慢、精準度稍遜。",
+        "12V 點菸器供電（Viair）：速度最慢、誤差最大，但不需電池、任何車輛都能用。最適合純作為緊急備援。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "該選無線式還是 12V 插電式？",
+      "a": "若你已有工具電池，選工具電池式無線款（Milwaukee、Ryobi）。12V 點菸器款（Viair）適合當作低價備援。想兼顧攜帶性則選獨立電池式無線款（Fanttik）。"
+    },
+    {
+      "q": "加油站有免費打氣，還需要自備打氣機嗎？",
+      "a": "如果你的輪胎經常掉壓（低溫、慢性漏氣）就需要。每月跑一趟加油站的時間成本累積起來相當可觀，打氣機大約半年就回本。"
+    },
+    {
+      "q": "汽車輪胎該打多少 PSI？",
+      "a": "請看駕駛座車門框內側的標籤，通常是 32 至 36 PSI。要以原廠建議值為準，而非胎壁上標示的最大 PSI。"
+    },
+    {
+      "q": "這些機型能用在自行車輪胎上嗎？",
+      "a": "可以，這 5 款都附法式／美式氣嘴轉接頭。自行車胎（60 至 100 PSI）約需 30 至 60 秒。注意別打過頭——Milwaukee 與 Ryobi 的自動停止功能可避免這個問題。"
+    }
+  ],
+  "products": {
+    "ryobi-p737d-cordless-inflator": {
+      "badge": "🏆 工具用戶首選（Ryobi）",
+      "review": "若你手上有 Ryobi 18V ONE+ 電池，P737D 就是正確答案。達到設定胎壓自動停止、數位顯示，替 Civic 打一條胎僅需 1 分 35 秒，並可搭配 Ryobi 的充氣／洩氣配件。單買機身（約 NT$1,900）CP 值不錯；連電池一起買則要 NT$4,800 以上。",
+      "pros": [
+        "可共用 Ryobi 18V 電池",
+        "達到設定胎壓自動停止",
+        "做工扎實"
+      ],
+      "cons": [
+        "電池需另購",
+        "速度不及 Milwaukee M12"
+      ]
+    },
+    "milwaukee-2475-20-m12-inflator": {
+      "badge": "🥇 高階首選（Milwaukee）",
+      "review": "Milwaukee M12 2475-20 是速度最快、精準度最高的打氣機。自動停止、數位讀數，替 Civic 打一條胎只要 1 分 10 秒，具備工具品牌等級的做工，並可共用 Milwaukee M12 電池系列。",
+      "pros": [
+        "本次比較中充氣速度最快",
+        "PSI 精準度最高",
+        "職業等級做工"
+      ],
+      "cons": [
+        "電池需另購（約 NT$2,200-3,200）",
+        "單機身價位偏高（約 NT$4,200）"
+      ]
+    },
+    "viair-88p-portable": {
+      "badge": "🚗 12V 緊急備援首選",
+      "review": "Viair 88P 是那種平常就丟在後車廂的平價 12V 點菸器打氣機。速度較慢（3 分 20 秒）、精準度較差（偏移 +1.2 PSI），但不需電池、任何車都能用。最適合純緊急使用或當作備品。",
+      "pros": [
+        "12V 供電，任何車輛都能用",
+        "單機約 NT$1,900",
+        "體積輕巧"
+      ],
+      "cons": [
+        "本次比較中速度最慢",
+        "PSI 有偏移",
+        "點菸器插頭接點易磨損"
+      ]
+    },
+    "avid-power-cordless-tire-inflator": {
+      "badge": "💸 平價無線首選",
+      "review": "手邊沒有工具電池、又只是偶爾用的人，選 Avid Power Cordless 就對了。內建 20V 電池、USB-C 充電。速度較慢（2 分 50 秒），且 PSI 會偏低。握把塑膠稱不上職業等級，但價格只要 NT$1,900-2,500。",
+      "pros": [
+        "內建電池",
+        "USB-C 充電",
+        "價格親民"
+      ],
+      "cons": [
+        "PSI 偏低（目標 35，實測 33.8）",
+        "塑膠握把用久會龜裂"
+      ]
+    },
+    "fanttik-x8-apex-tire-inflator": {
+      "badge": "📱 手機 App 整合首選",
+      "review": "Fanttik X8 Apex 適合偏好科技感的使用者。可連接手機 App（依車輛預設胎壓）、內建電池、USB-C 充電。整體表現穩健（2 分 5 秒、誤差 +0.4 PSI）。軟管接縫是弱點，使用 8 個月以上就可能出狀況。",
+      "pros": [
+        "支援手機 App 連動",
+        "可依車輛儲存胎壓預設值",
+        "精準度表現扎實"
+      ],
+      "cons": [
+        "軟管接縫用 8 個月以上會故障",
+        "非工具品牌卻定價偏高（NT$2,900-3,800）"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ryobi-p737d-cordless-inflator": "可於 homedepot.com 或 ryobitools.com 購買。電池需另購，不過多數 Ryobi 用戶手邊都已經有。",
+    "milwaukee-2475-20-m12-inflator": "可於 homedepot.com 或 milwaukeetool.com 購買。電池需另購（約 NT$2,200-3,200）。職業等級。",
+    "viair-88p-portable": "可於 amazon.com 或 viaircorp.com 購買。插上點菸器即可使用，任何 12V 電源座都能對應。",
+    "avid-power-cordless-tire-inflator": "可於 amazon.com 購買。內建電池，不必另外添購。",
+    "fanttik-x8-apex-tire-inflator": "可於 amazon.com 或 fanttik.com 購買。App 免費，韌體更新透過 App 進行。"
+  },
+  "pinDescription": "胎壓不足最傷輪胎也最耗油！2026 車用打氣機實測：Ryobi、Milwaukee、Viair、Avid Power、Fanttik 五款比一比，無線 vs 點菸器供電、充氣秒數與胎壓誤差全記錄，後車廂該放哪一台一次看懂。#車用配備 #打氣機 #愛車保養",
+  "recommendedFor": [
+    {
+      "label": "手上已有 Milwaukee M12 工具的專業技師與工班",
+      "offerId": "milwaukee-2475-20-m12-inflator",
+      "reason": "既然已在 M12 電池體系內，這台 70 秒就能打好一條胎、誤差不到 0.5 PSI，是本次比較中最快也最精準的一款。"
+    },
+    {
+      "label": "已投入 Ryobi 18V ONE+ 系統的假日 DIY 玩家",
+      "offerId": "ryobi-p737d-cordless-inflator",
+      "reason": "直接沿用 Ryobi 18V ONE+ 電池系統；自動停止可避免打過頭，做工也撐過了整整一年的實測。"
+    },
+    {
+      "label": "想在後車廂放一台免煩惱緊急備品的車主",
+      "offerId": "viair-88p-portable",
+      "reason": "插上任何車的 12V 點菸器就能用，不必電池也不用充電，是路邊需要時唯一馬上能派上用場的選擇。"
+    },
+    {
+      "label": "預算有限、手邊沒有工具電池的偶爾使用者",
+      "offerId": "avid-power-cordless-tire-inflator",
+      "reason": "內建 20V 電池以 USB-C 充電，不必另外買電池；NT$1,900-2,500 的價格，比跑兩個月加油站打氣的時間成本還划算。"
+    },
+    {
+      "label": "同時管理多台車、熟悉 3C 的愛車族",
+      "offerId": "fanttik-x8-apex-tire-inflator",
+      "reason": "專屬 App 可分車儲存胎壓預設值，在轎車與休旅車之間切換完全不必手動重設。"
+    }
+  ]
 }

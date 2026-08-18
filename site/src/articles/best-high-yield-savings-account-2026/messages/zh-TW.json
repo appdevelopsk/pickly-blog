@@ -2,5 +2,127 @@
   "title": "2026年最佳高收益儲蓄帳戶：5款比較",
   "description": "看看2026年哪款高收益儲蓄帳戶在年化收益率與功能權衡方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "2026年的利率與功能取捨",
+      "paragraphs": [
+        "五個帳戶的年化收益率（APY）落在 4.10%～4.60% 之間（2026年5月）。最低（Discover、Capital One）與最高（SoFi 需搭配薪資直接匯入）相差 50 個基點，以 5 萬美元本金計算，一年約差 250 美元（約 NT$8,000）。只有在你真的願意為此搬動資金時，才值得追高。",
+        "真正的差異在他處：SoFi 的 4.60% 必須符合薪資直匯條件；Ally 的分格（Buckets）功能是目標式儲蓄介面中做得最好的；Marcus 與 Discover 最單純；Capital One 360 則是唯一在美國設有實體據點的一家。"
+      ]
+    },
+    {
+      "heading": "轉帳速度實測",
+      "paragraphs": [
+        "外部 ACH 匯入（從他行轉入）：SoFi 1.2 天、Ally 1.5 天、Marcus 1.8 天、Discover 2.1 天、Capital One 2.3 天。全部都在 ACH 標準區間內，但 SoFi 的優勢確實存在。",
+        "外部轉出：Ally 1.0 天（自家銀行網路優勢）、SoFi 1.3 天、Capital One 1.5 天、Marcus 1.7 天、Discover 2.0 天。Discover 進出兩端都慢，是使用上最明顯的缺點。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "高收益儲蓄帳戶的利率多久調整一次？",
+      "a": "平均每季一次，通常在聯準會調整利率後 30 天內反映。Marcus 與 Ally 動作最快，Discover 與 Capital One 會慢上 1～2 個月。"
+    },
+    {
+      "q": "存入 5 萬美元以上安全嗎？",
+      "a": "安全。五家皆有 FDIC 保險，每人每家機構最高保障 25 萬美元。超過 25 萬美元的部分，建議分散到多家銀行，或改用具 FDIC 掃存機制的貨幣市場基金。"
+    },
+    {
+      "q": "每個月把錢進進出出會損失利息嗎？",
+      "a": "多數高收益儲蓄帳戶採每日複利、按月入帳。只要在月結單日之前完成進出，已累積的利息並不會消失。"
+    }
+  ],
+  "products": {
+    "marcus-online-savings": {
+      "badge": "🏆 綜合最佳",
+      "review": "Marcus by Goldman Sachs Savings 是最單純直接的選項。4.40% APY、無最低存款門檻、無手續費、受 FDIC 保障，由高盛集團經營，僅限美國。如果你要的是一個放著就會運作、不必天天盯著條件是否達標的儲蓄帳戶，選它。",
+      "pros": [
+        "4.40% APY，且無任何附加條件",
+        "背後是高盛的資產負債表"
+      ],
+      "cons": [
+        "沒有支票或簽帳金融卡功能"
+      ]
+    },
+    "ally-online-savings": {
+      "badge": "🎯 使用體驗最佳",
+      "review": "Ally Online Savings 在使用體驗上勝出。4.20% APY、無手續費，而真正的殺手鐧是 Buckets 分格功能——在同一個帳戶內設定命名目標（旅遊、緊急預備金），完全不需手動轉帳。適合把儲蓄視為目標管理的人。",
+      "pros": [
+        "Buckets 分格功能，適合目標式儲蓄",
+        "同類帳戶中最好用的行動 App"
+      ],
+      "cons": [
+        "利率比 Marcus 低 20 個基點"
+      ]
+    },
+    "sofi-checking-savings": {
+      "badge": "💵 利率最高（有條件）",
+      "review": "SoFi Checking + Savings 的儲蓄利率可達 4.60% APY，但前提是每月有薪資直接匯入（達到觸發門檻即可）。沒有直匯的話，利率會掉到 0.50%。另有 300 美元開戶獎金。若你確定能符合條件就很划算；不確定的話風險偏高。",
+      "pros": [
+        "4.60% APY（需薪資直接匯入）",
+        "300 美元開戶獎金"
+      ],
+      "cons": [
+        "沒有薪資直匯時，利率掉到 0.50%"
+      ]
+    },
+    "discover-online-savings": {
+      "badge": "🤝 客服最佳",
+      "review": "Discover Online Savings 的 4.10% 是本篇最低的一檔，但其美國本土 24 小時全年無休的客服，在高收益儲蓄帳戶中無人能及。與 Discover it Cashback 信用卡搭配也很順。若你重視真的打得通的電話客服，勝過追逐最高利率，就選它。",
+      "pros": [
+        "24 小時美國本土真人客服",
+        "與 Discover 信用卡整合"
+      ],
+      "cons": [
+        "4.10% 低於競爭對手"
+      ]
+    },
+    "capital-one-360-performance": {
+      "badge": "🏢 唯一有實體據點",
+      "review": "Capital One 360 Performance Savings 兼顧網路銀行的利率（4.10% APY）與走進實體 Capital One Café 辦事的選項。適合偶爾想臨櫃處理、又不願為此犧牲網銀利率的人。",
+      "pros": [
+        "有實體分行與咖啡據點",
+        "可與 Capital One 信用卡搭配"
+      ],
+      "cons": [
+        "4.10% 位居本篇最低一檔"
+      ]
+    }
+  },
+  "offerNotes": {
+    "marcus-online-savings": "透過好友推薦可額外獲得 90 天 1% APY 加碼，記得先向朋友要推薦連結。",
+    "ally-online-savings": "善用 Buckets，在同一帳戶內把緊急預備金與各項目標儲蓄分開管理。",
+    "sofi-checking-savings": "薪資直匯資格須每月達到 ACH 匯入門檻，倚賴高利率前務必先確認。",
+    "discover-online-savings": "透過 Discover it 持卡人推薦註冊，可獲 50 美元推薦獎金。",
+    "capital-one-360-performance": "搭配 Capital One 360 Checking 可享完整生態圈（免費電匯、零手續費）。"
+  },
+  "pinDescription": "5 萬美元該放哪？五家高收益儲蓄帳戶利率、轉帳速度、條件一次攤開比較——Marcus、Ally、SoFi、Discover、Capital One 360，選前先看這篇。",
+  "recommendedFor": [
+    {
+      "label": "想要高收益又懶得達成條件的存款族",
+      "offerId": "marcus-online-savings",
+      "reason": "Marcus 無條件提供 4.40% APY，不必薪資直匯，也沒有要盯著達標的活動條件。"
+    },
+    {
+      "label": "同時管理多個財務目標的目標型儲蓄者",
+      "offerId": "ally-online-savings",
+      "reason": "Ally 的 Buckets 功能讓你在單一帳戶內為不同目標命名、分開存放資金，不必再開好幾個帳戶。"
+    },
+    {
+      "label": "有固定薪轉的上班族",
+      "offerId": "sofi-checking-savings",
+      "reason": "只要有經常性薪資直匯，就自動鎖定本篇最高的 4.60% APY，還附帶 300 美元開戶獎金。"
+    },
+    {
+      "label": "比起線上客服更習慣打電話的年長存戶",
+      "offerId": "discover-online-savings",
+      "reason": "Discover 提供 24 小時美國本土電話客服，任何時間都有真人接聽，不必卡在聊天機器人或回電排隊。"
+    },
+    {
+      "label": "偶爾需要臨櫃服務的混合型使用者",
+      "offerId": "capital-one-360-performance",
+      "reason": "Capital One 360 是本篇唯一設有實體咖啡據點的帳戶，需要面對面協助時走進去就行，同時保有網路銀行的利率水準。"
+    }
+  ]
 }

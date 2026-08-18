@@ -115,5 +115,32 @@
     "vapur-foldable-bottle": "vapur.us, REI, Amazon에서 구매 가능. 여러 사이즈(0.5L~1.5L)가 있습니다.",
     "larq-self-cleaning": "livelarq.com, Amazon에서 구매 가능. 'Movement'(UV-C 없음)는 저렴한 버전이고, 정식 'LARQ'에는 UV-C가 탑재되어 있습니다."
   },
-  "pinDescription": "2026 최고의 여행용 물병: 5종 비교. 공개 사양·제조사 자료·독립 리뷰 기준 비교."
+  "pinDescription": "2026 최고의 여행용 물병: 5종 비교. 공개 사양·제조사 자료·독립 리뷰 기준 비교.",
+  "recommendedFor": [
+    {
+      "label": "캠핑과 등산을 자주 다니는 아웃도어 애호가",
+      "offerId": "hydro-flask-32oz",
+      "reason": "24시간 보냉에 평생 보증까지 갖춰, 대체품을 구하기 힘든 여러 날짜리 일정에서도 든든합니다."
+    },
+    {
+      "label": "설거지가 귀찮은 홈쿡·미식가",
+      "offerId": "yeti-rambler-26oz-bottle",
+      "reason": "여기 소개한 프리미엄 스테인리스 제품 중 유일하게 식기세척기 사용이 가능해, 매일의 세척 시간을 확실히 줄여줍니다."
+    },
+    {
+      "label": "예산이 빠듯한 대학생과 매일 출퇴근하는 직장인",
+      "offerId": "owala-freesip",
+      "reason": "3만 5천~5만 원대에 2가지 음용 방식 뚜껑과 누수 방지 설계를 갖춰, 프리미엄 가격 없이 프리미엄 기능 대부분을 누릴 수 있습니다."
+    },
+    {
+      "label": "초경량 배낭여행자, 기내 수하물만 챙기는 미니멀 여행자",
+      "offerId": "vapur-foldable-bottle",
+      "reason": "비우면 주머니에 들어갈 만큼 접혀서, 1g이 아쉬운 여정에서 가방 공간과 무게를 모두 아껴줍니다."
+    },
+    {
+      "label": "개발도상국을 찾는 해외 여행자",
+      "offerId": "larq-self-cleaning",
+      "reason": "2시간마다 UV-C 살균으로 세균을 99.99% 제거해, 수돗물 수질이 불안한 곳에서도 마음이 놓입니다."
+    }
+  ]
 }

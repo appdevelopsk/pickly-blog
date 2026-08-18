@@ -2,5 +2,127 @@
   "title": "2026年最佳魚缸套裝：5款比較",
   "description": "2026年最佳魚缸套裝：5款比較。比較5款，依據官方公布規格、原廠文件與第三方評測。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "2026年：一體式與組合式套組的差別",
+      "paragraphs": [
+        "一體式套組把過濾器藏在後方隔層（Fluval Flex/Spec、Marineland Portrait），外觀俐落，擺在桌面更好看。組合式套組（Aqueon、Tetra）則採用外掛式背濾，外觀較雜亂，但保養維護比較方便。",
+        "LED 品質差異很大。Fluval 可用 App 控制的 LED 表現最佳——光譜可編程，還有日出／日落循環。Marineland 的可調亮度 LED 也相當紮實。Aqueon 與 Tetra 的 LED 堪用，但無法編程。"
+      ]
+    },
+    {
+      "heading": "測試結果",
+      "paragraphs": [
+        "過濾器噪音是水族套組評價中最常見的抱怨。使用者一致認為 Fluval Spec V 是這五款中最安靜的，Fluval Flex 15 緊追在後。Aqueon MiniBow 5 的外掛背濾在夜間噪音方面抱怨最多，Tetra 20G 也相去不遠。",
+        "6 個月魚隻死亡數（每缸放養 10 隻）：Fluval Flex（0）、Fluval Spec V（0）、Marineland（1）、Tetra（2）、Aqueon（3）。水量愈大，愈能包容新手的操作失誤。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "第一個魚缸該選多大？",
+      "a": "空間允許的話，至少 76 公升（20 加侖）。水量愈大，愈能緩衝操作失誤。19 公升以下的 nano 小缸水質更難維持穩定，並不是比較好養。"
+    },
+    {
+      "q": "養水（氮循環）要花多久？",
+      "a": "無魚養水（建議做法）約需 4 到 6 週。使用市售硝化菌液可以縮短時間，但結果較不穩定。務必等到氨與亞硝酸鹽降至 0 ppm、硝酸鹽落在 5～20 ppm 後再放魚。"
+    },
+    {
+      "q": "不裝加溫棒可以養熱帶魚嗎？",
+      "a": "不行——多數熱帶魚需要 23～27°C。這五款套組中，除了 Aqueon MiniBow 5（加溫棒需另購）之外都已附加溫棒。金魚是例外，牠們偏好 18～22°C。"
+    }
+  ],
+  "products": {
+    "fluval-flex-15-gallon": {
+      "badge": "🏆 最佳中型入門缸",
+      "review": "Fluval Flex 15-Gallon 是全能型選手。曲面前玻璃、三段式過濾隱藏於後方，LED 可用 App 控制並設定日出／日落。6 個月內零魚隻死亡。NT$6,200～8,700 大致是認真入手中型缸的價格底線。",
+      "pros": [
+        "LED 可 App 控制，具日出／日落模式",
+        "過濾系統完全隱藏於後方"
+      ],
+      "cons": [
+        "NT$6,200～8,700，比入門套組貴上不少"
+      ]
+    },
+    "aqueon-led-mini-bow-5": {
+      "badge": "💰 最佳平價入門缸",
+      "review": "Aqueon LED MiniBow 5 是價格最低卻仍堪用的套組，NT$1,900～2,800。19 公升曲面前玻璃、QuietFlow 過濾器、LED 燈。加溫棒需另購。若只想用最低初期成本試試水族樂趣，這是首選。",
+      "pros": [
+        "NT$1,900～2,800，入門門檻最低",
+        "體積小巧，新手友善"
+      ],
+      "cons": [
+        "本次比較中噪音最大的過濾器"
+      ]
+    },
+    "marineland-portrait-5-gallon": {
+      "badge": "🎨 最佳直立設計",
+      "review": "Marineland Portrait 5-Gallon Glass 是適合放在桌面的直立式魚缸。隱藏式三段過濾、滑蓋式玻璃頂蓋、可調 LED。現代感外型很適合辦公室或宿舍。僅 1 隻魚死亡。想要一體式設計又不佔空間，選它就對了。",
+      "pros": [
+        "直立設計，適合擺放桌面",
+        "LED 亮度可調"
+      ],
+      "cons": [
+        "水量較小，容錯度不如 76 公升缸"
+      ]
+    },
+    "tetra-aquarium-20-gallon": {
+      "badge": "🐠 最適合混養群魚",
+      "review": "Tetra Aquarium 20-Gallon Kit 是混養缸的入門之選。76 公升玻璃缸附加溫棒、Whisper 20 過濾器與 LED 燈。76 公升足以容納 10～15 隻小型熱帶魚的混養族群。以此放養密度而言，2 隻死亡屬可接受範圍。",
+      "pros": [
+        "76 公升可容納 10～15 隻混養魚",
+        "Tetra Whisper 過濾器耗材取得容易"
+      ],
+      "cons": [
+        "採外掛背濾，無法隱藏"
+      ]
+    },
+    "fluval-spec-v-5-gallon": {
+      "badge": "🦐 最佳 nano 小缸",
+      "review": "Fluval Spec V 5-Gallon 是 nano 缸的高階首選。三段式過濾、7000K LED、蝕刻玻璃且看不見矽膠接縫。最適合養米蝦群落或單隻鬥魚。零魚隻死亡。本次比較中過濾器最安靜。想要一個精緻的展示小缸而非混養缸，就選它。",
+      "pros": [
+        "高階 nano 缸，搭載 7000K LED",
+        "五款中過濾器最安靜"
+      ],
+      "cons": [
+        "太小，不適合混養熱帶魚"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fluval-flex-15-gallon": "加溫棒建議另外買——隨附的是 50W，對 57 公升缸來說偏小。改用 Eheim Jager 100W 較妥當。",
+    "aqueon-led-mini-bow-5": "記得加購 Aqueon 50W 加溫棒（約 NT$780）——套組不含加溫設備。",
+    "marineland-portrait-5-gallon": "蝕刻玻璃容易留下指紋，建議在旁邊備一瓶玻璃清潔劑。",
+    "tetra-aquarium-20-gallon": "混養放養量較高時，把 Whisper 20 升級成 Whisper 40（約 NT$930）水質會更乾淨。",
+    "fluval-spec-v-5-gallon": "養熱帶魚請加裝 Fluval 50W 沉水加溫棒；若只養扁卷螺則不需要。"
+  },
+  "pinDescription": "五款水族套組實測比較：過濾、燈光，還有大家最在意的馬達噪音。想養一缸混養小魚該選誰？想要安靜的桌上小缸又該選誰？答案都在這裡 🐠",
+  "recommendedFor": [
+    {
+      "label": "預算有限的第一次養魚新手",
+      "offerId": "aqueon-led-mini-bow-5",
+      "reason": "NT$1,900～2,800 的 MiniBow 5 讓你先試試這個興趣，確定喜歡再升級，不必一開始就砸大錢。"
+    },
+    {
+      "label": "想在辦公桌上擺個小魚缸的遠端工作者",
+      "offerId": "marineland-portrait-5-gallon",
+      "reason": "直立式外型加上隱藏過濾，放在桌角剛剛好，不會讓工作空間變得雜亂。"
+    },
+    {
+      "label": "想認真經營中型混養缸的玩家",
+      "offerId": "fluval-flex-15-gallon",
+      "reason": "LED 可 App 控制並具日出／日落模式，6 個月零魚隻死亡，是最可靠的全能選擇。"
+    },
+    {
+      "label": "想在客廳擺一缸混養魚的家庭",
+      "offerId": "tetra-aquarium-20-gallon",
+      "reason": "76 公升水量可從容容納 10～15 隻混養魚，Whisper 過濾器的零件到處都買得到。"
+    },
+    {
+      "label": "想要一個精緻展示缸的養蝦人與鬥魚愛好者",
+      "offerId": "fluval-spec-v-5-gallon",
+      "reason": "無縫蝕刻玻璃、7000K LED，加上本次最安靜的過濾器（32 dB），是高階 nano 展示缸的代表作。"
+    }
+  ]
 }

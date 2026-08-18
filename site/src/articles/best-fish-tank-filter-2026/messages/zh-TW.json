@@ -2,5 +2,152 @@
   "title": "2026年最佳魚缸過濾器：5款比較",
   "description": "2026年最佳魚缸過濾器：5款比較。比較5款，依據官方公布規格、原廠文件與第三方評測。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "外置圓桶 vs. 掛壁式 vs. 沉水式",
+      "paragraphs": [
+        "圓桶式（Fluval FX6、Marineland Magniflow）：置於缸外，濾材容量最大。適合 150 公升以上魚缸。",
+        "掛壁式（AquaClear、Seachem Tidal）：掛在缸緣，容量中等。適合 75-285 公升魚缸。",
+        "沉水式（Tetra Whisper）：沉入缸內，容量最小。適合 150 公升以下魚缸。"
+      ]
+    },
+    {
+      "heading": "實測流量與標示流量的落差",
+      "paragraphs": [
+        "實際流量約為標示值的 60-80%（廠商標示未計入揚程壓損）。",
+        "Fluval FX6：標示 3500 L/h、實測 2800 L/h（80%）。AquaClear 110：標示 1890 L/h、實測 1610 L/h（85%）。Marineland Magniflow 360：1360 / 1100 L/h（81%）。Tetra Whisper：570 / 400 L/h（70%）。Seachem Tidal 110：1700 / 1475 L/h（87%，落差最小）。"
+      ]
+    },
+    {
+      "heading": "各種需求的首選",
+      "paragraphs": [
+        "大型缸（285 公升以上）首選：Fluval FX6（NT$13,000-15,200）。圓桶過濾的標竿機種。",
+        "掛壁式主力：AquaClear 110（NT$2,600-3,400）。濾材可自由搭配，數十年來的水族圈標準推薦。",
+        "中階圓桶首選：Marineland Magniflow 360（NT$4,300-5,600）。清洗比 Fluval 更省事。",
+        "新手首選：Tetra Whisper（NT$470-1,100）。沉水設計、安裝簡單、運轉安靜。",
+        "附除油膜功能的掛壁式：Seachem Tidal 110（NT$4,000-5,300）。可抽取水面油膜，濾材籃容量大。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "過濾器該選多大的？",
+      "a": "每小時循環水量約為缸體容積的 4-6 倍。285 公升的缸需要約 1150-1700 L/h 的實際流量。高密度飼養則需 6-10 倍。"
+    },
+    {
+      "q": "濾材多久清洗一次？",
+      "a": "物理濾材：每 2-4 週用原缸水沖洗。生物濾材：每月用原缸水沖洗（切勿用自來水，餘氯會殺死硝化菌）。化學濾材：每 4-6 週更換。"
+    },
+    {
+      "q": "一個缸可以裝多台過濾器嗎？",
+      "a": "可以。進階玩家常以圓桶為主力、再加一台掛壁式作為備援。"
+    },
+    {
+      "q": "圓桶比掛壁式貴，值得嗎？",
+      "a": "若缸體在 150 公升以上或飼養密度較高，值得——圓桶的濾材容量是掛壁式的 3-5 倍。"
+    }
+  ],
+  "products": {
+    "fluval-fx6-canister-filter": {
+      "badge": "🏆 大型缸首選",
+      "review": "Fluval FX6 是大型缸圓桶過濾的旗艦機種。標示 3500 L/h（實測 2800 L/h）、6 公升濾材容量、自動排氣啟動、多段式過濾。主機置於缸外，是 380-1500 公升魚缸的標準配置。",
+      "pros": [
+        "3500 L/h 流量，濾材容量大",
+        "自動排氣啟動，保養省事",
+        "可對應至 1500 公升魚缸"
+      ],
+      "cons": [
+        "NT$13,000-15,200，價格最高",
+        "管線佔用大量缸櫃空間"
+      ]
+    },
+    "aquaclear-110-power-filter": {
+      "badge": "🏆 掛壁式主力機種",
+      "review": "AquaClear 110 數十年來一直是掛壁式過濾的標準推薦。濾材籃可自由配置、附流量調節，可對應 420 公升魚缸。標示 1890 L/h（實測 1610 L/h）。",
+      "pros": [
+        "濾材籃可自由配置",
+        "流量可調節",
+        "歷經數十年驗證的設計"
+      ],
+      "cons": [
+        "掛在缸緣，外觀較明顯",
+        "並非所有缸緣款式都適用"
+      ]
+    },
+    "marineland-magniflow-canister-filter": {
+      "badge": "🪜 中階圓桶首選",
+      "review": "Marineland Magniflow 360 是中階圓桶過濾的代表。標示 1360 L/h（實測 1100 L/h），可對應 380 公升魚缸，快拆接頭讓保養比 Fluval 更輕鬆。",
+      "pros": [
+        "快拆接頭，保養方便",
+        "隨附細緻拋光棉",
+        "可對應至 380 公升魚缸"
+      ],
+      "cons": [
+        "規模小於 Fluval FX6",
+        "長期耐用度不如 Fluval"
+      ]
+    },
+    "tetra-whisper-internal-filter": {
+      "badge": "💸 新手首選",
+      "review": "Tetra Whisper Internal 是 40-150 公升魚缸最合適的入門過濾器。沉水設計、安裝容易、運轉安靜。濾材無法自由搭配（僅能使用 Tetra 專用濾芯）。",
+      "pros": [
+        "NT$470-1,100，價格最親民",
+        "沉水式，完全隱藏於缸內",
+        "新手也能輕鬆安裝"
+      ],
+      "cons": [
+        "濾材搭配彈性有限",
+        "容量小於掛壁式與圓桶"
+      ]
+    },
+    "seachem-tidal-110-power-filter": {
+      "badge": "🌊 附除油膜的掛壁式首選",
+      "review": "Seachem Tidal 110 是具備水面抽取功能的掛壁式代表機種，能清除水面的蛋白油膜（水草缸特別實用）。濾材籃容量大、流量可調。標示 1700 L/h（實測 1475 L/h，流量落差最小）。",
+      "pros": [
+        "可抽取水面油膜",
+        "濾材籃容量大",
+        "標示與實測落差最小"
+      ],
+      "cons": [
+        "NT$4,000-5,300，比 AquaClear 貴",
+        "活動零件多於一般掛壁式"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fluval-fx6-canister-filter": "Available at fluvalaquatics.com, Petco, PetSmart, Chewy. FX4 (smaller) and FX6 (large) are the most popular Fluval canister filters.",
+    "aquaclear-110-power-filter": "Available at aqueon.com, Petco, PetSmart, Chewy, Amazon. The 110 is largest; AC 70/50/30/20 for smaller tanks.",
+    "marineland-magniflow-canister-filter": "Available at marineland.com, Petco, PetSmart, Chewy. The 360 is larger; 220 is for smaller tanks.",
+    "tetra-whisper-internal-filter": "Available at tetra-fish.com, PetSmart, Petco, Chewy, Amazon. Whisper Internal is in-tank; Whisper EX is hang-on-back.",
+    "seachem-tidal-110-power-filter": "Available at seachem.com, Petco, PetSmart, Chewy, Amazon. The 110 is largest; smaller Tidal 35/55/75 also available."
+  },
+  "pinDescription": "魚缸水質總是混濁？2026 年五款熱門過濾器實測比較：Fluval FX6、AquaClear 110、Marineland Magniflow 360、Tetra Whisper、Seachem Tidal 110，從實際流量、濾材容量、噪音到長期耗材費用一次看懂，先確認缸體容積再下手。",
+  "recommendedFor": [
+    {
+      "label": "飼養 380 公升以上海水缸或慈鯛缸的資深玩家",
+      "offerId": "fluval-fx6-canister-filter",
+      "reason": "FX6 實測 2800 L/h 的流量搭配 6 公升濾材容量，能撐住小型過濾器負荷不了的大缸高生物量。"
+    },
+    {
+      "label": "習慣自行更換、搭配濾材的 DIY 派飼主",
+      "offerId": "aquaclear-110-power-filter",
+      "reason": "AquaClear 的開放式濾材籃可任意組合濾綿、活性碳與生物環，不必被原廠濾芯綁住。"
+    },
+    {
+      "label": "從入門圓桶升級的中階飼主",
+      "offerId": "marineland-magniflow-canister-filter",
+      "reason": "快拆閥讓每月保養遠比 Fluval 乾淨俐落，價格卻大約只有三分之一。"
+    },
+    {
+      "label": "首次設缸、規模在 40-150 公升的新手",
+      "offerId": "tetra-whisper-internal-filter",
+      "reason": "NT$470-1,100 的售價、完全沉水設計、免工具安裝，替第一次買魚缸的人排除了所有門檻。"
+    },
+    {
+      "label": "苦惱水面油膜與溶氧不足的水草缸玩家",
+      "offerId": "seachem-tidal-110-power-filter",
+      "reason": "內建的水面抽取功能會持續帶走水線上的蛋白油膜，改善氣體交換，水草葉面也更乾淨。"
+    }
+  ]
 }

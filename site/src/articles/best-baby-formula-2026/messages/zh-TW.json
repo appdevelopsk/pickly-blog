@@ -2,5 +2,127 @@
   "title": "2026年最佳嬰兒配方奶粉：5款比較",
   "description": "看看2026年哪款嬰兒配方奶粉在成分品質和成本方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "2026年歐盟與美國標準的差異",
+      "paragraphs": [
+        "歐盟第一階段配方在添加糖（不得使用玉米糖漿固形物）、DHA來源（必須標示）與蛋白質組成（乳清與酪蛋白比例有強制規定）上要求更嚴。美國FDA的彈性較大——這也是Bobbie成為首個明確對標歐盟規格的美國品牌的原因。",
+        "進口門檻已經降低。Holle與Kendamil現已透過FDA核可管道（Organic Start、Organic's Best）合法進口。法規地位在2024年改變，水貨不再是唯一途徑。"
+      ]
+    },
+    {
+      "heading": "成分品質與花費",
+      "paragraphs": [
+        "糖類來源：Bobbie（有機乳糖）、Holle（有機乳糖）、Kendamil（有機乳糖＋微量麥芽糊精）、Similac Pure Bliss（僅乳糖）、Earth's Best（乳糖＋葡萄糖漿固形物）。葡萄糖漿固形物合法，但部分小兒科醫師持保留態度。",
+        "以每日約950毫升計算，一週花費：Earth's Best約NT$1,100、Bobbie約NT$1,320、Similac Pure Bliss約NT$1,410、Kendamil約NT$1,630、Holle約NT$1,820。Holle因進口物流成本最高，但成分表最乾淨。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "歐洲配方奶比美國的更安全嗎？",
+      "a": "談不上「更安全」，而是對添加物更嚴格。通過美國FDA審查的配方奶同樣安全，差異在於歐盟對添加糖與DHA來源標示的規範。多數美國小兒科醫師認為，健康寶寶選哪一種都可以。"
+    },
+    {
+      "q": "可以混用不同品牌的配方奶嗎？",
+      "a": "可以。小兒科醫師表示交替使用或逐步轉換都是安全的。換新品牌的前兩週建議先單獨使用，觀察寶寶的耐受度，之後就能自由搭配。"
+    },
+    {
+      "q": "什麼時候可以停止喝配方奶？",
+      "a": "一般在滿12個月時轉換為全脂鮮奶。不必急著換——若你偏好配方奶的營養組成，12個月後繼續喝也沒問題（市面上也有專為此設計的第三階段幼兒配方）。"
+    }
+  ],
+  "products": {
+    "bobbie-organic": {
+      "badge": "🏆 美國製最佳",
+      "review": "Bobbie Organic Infant Formula是首個明確以歐盟配方為藍本的美國品牌。取得USDA有機認證，比照歐洲規格設計（乳糖比例較高、採用有機A2乳源）。由FDA監管的美國廠生產，不必等進口。每罐約NT$820，可訂閱配送。想要歐系配方又不想處理進口流程的人首選。",
+      "pros": [
+        "歐系配方且受FDA監管",
+        "訂閱制自動配送"
+      ],
+      "cons": [
+        "每罐約NT$820，高於美國大眾品牌"
+      ]
+    },
+    "holle-stage-1-organic": {
+      "badge": "🇪🇺 最頂級",
+      "review": "Holle Stage 1 Organic是德國標竿產品。通過Demeter生機互動認證，不含麥芽糊精，碳水化合物僅用有機乳糖。透過Organic Start以FDA核可管道合法進口。每週約NT$1,820是價格最高的一款，但成分表也最乾淨。",
+      "pros": [
+        "Demeter生機互動認證",
+        "完全不含麥芽糊精與玉米糖漿"
+      ],
+      "cons": [
+        "每週約NT$1,820，價格最高"
+      ]
+    },
+    "kendamil-organic": {
+      "badge": "🇬🇧 全脂乳基底最佳",
+      "review": "Kendamil Organic Whole Milk採用全脂牛乳，而非多數美國配方奶使用的脫脂乳加植物油。英國廠通過FDA核可，DHA取自藻類的植物來源。是在美國容易買到、價格又非頂級的最佳歐系配方。",
+      "pros": [
+        "全脂乳基底（非脫脂乳＋植物油）",
+        "藻類萃取的植物性DHA"
+      ],
+      "cons": [
+        "成分表中含微量麥芽糊精"
+      ]
+    },
+    "similac-pure-bliss": {
+      "badge": "💼 主流品牌最佳",
+      "review": "Similac Pure Bliss是亞培的高階產品線。非基改、牛乳基底、碳水化合物僅用乳糖（不含玉米糖漿），不含人工生長激素。美國各大通路皆有販售。想要主流通路的取得便利性、成分又比一般Similac乾淨的人適合。",
+      "pros": [
+        "碳水化合物僅用乳糖（不含玉米糖漿）",
+        "美國各大通路皆有售"
+      ],
+      "cons": [
+        "非有機產品"
+      ]
+    },
+    "earths-best-organic-dairy": {
+      "badge": "💰 最平價有機",
+      "review": "Earth's Best Organic Dairy是入門款USDA有機配方，每週約NT$1,100。不含生長激素與農藥殘留，並添加DHA與ARA。取捨在於成分表中出現葡萄糖漿固形物——合法且常見，但部分小兒科醫師持保留態度。",
+      "pros": [
+        "最平價的USDA有機選擇",
+        "通路廣泛好買"
+      ],
+      "cons": [
+        "成分表含葡萄糖漿固形物"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bobbie-organic": "訂閱價比零售便宜10%——若打算連續喝3個月以上，直接訂閱較划算。",
+    "holle-stage-1-organic": "階段順序為Stage 1（0-6個月）→ Stage 2（6-10個月）→ Stage 3（10個月以上），下單前請確認階段。",
+    "kendamil-organic": "Kendamil Classic（非有機）每週便宜約NT$310，成分表除了有機認證外幾乎相同。",
+    "similac-pure-bliss": "加入Similac Strong Moms會員，一年可拿到價值超過NT$12,000的折價券。",
+    "earths-best-organic-dairy": "Organic Dairy是標準款，Earth's Best另有敏感型與大豆配方可選。"
+  },
+  "pinDescription": "配方奶怎麼挑？5款熱門嬰兒配方，從糖類來源、DHA到每週花費逐項拆解，一次看懂歐規與美規的差別。Bobbie、Holle、Kendamil、Similac、Earth's Best全比較。",
+  "recommendedFor": [
+    {
+      "label": "想要歐系成分、又不想處理進口麻煩的爸媽",
+      "offerId": "bobbie-organic",
+      "reason": "Bobbie對標歐盟規格，由美國FDA監管的工廠直送，沒有通關延誤，也沒有水貨風險。"
+    },
+    {
+      "label": "重視健康、希望成分表越單純越好的爸媽",
+      "offerId": "holle-stage-1-organic",
+      "reason": "Holle擁有Demeter生機互動認證且完全不含麥芽糊精，是美國買得到的配方中標準最嚴格的一款。"
+    },
+    {
+      "label": "從母乳轉換、希望脂肪含量較高的爸媽",
+      "offerId": "kendamil-organic",
+      "reason": "Kendamil使用全脂牛乳而非脫脂乳加植物油，脂肪組成最接近母乳。"
+    },
+    {
+      "label": "在意預算又需要長期喝有機配方的家庭",
+      "offerId": "earths-best-organic-dairy",
+      "reason": "每週約NT$1,100，Earth's Best是最平價的USDA有機選擇，幾乎所有美國大型通路都有現貨。"
+    },
+    {
+      "label": "比起頂級原料，更看重實體店隨時買得到的爸媽",
+      "offerId": "similac-pure-bliss",
+      "reason": "Similac Pure Bliss的碳水化合物僅用乳糖、不含玉米糖漿，且美國各大通路都有售，不必特別訂購。"
+    }
+  ]
 }

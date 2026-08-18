@@ -2,5 +2,149 @@
   "title": "2026年最佳汽車保險：5款比較",
   "description": "2026年最佳汽車保險：5款比較。比較5款，依據官方公布規格、原廠文件與第三方評測。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "同等保障下的保費比較",
+      "paragraphs": [
+        "5州年繳保費平均值：Geico 約 NT$44,200、Progressive 約 NT$47,700、State Farm 約 NT$49,900、Liberty Mutual 約 NT$54,700、USAA 約 NT$31,400（僅限軍職相關人士）。各州差異：佛州 +35%、加州 +20%、德州為基準、伊利諾 -10%、紐約 +25%。",
+        "行車紀錄折扣：Progressive Snapshot 10-30%、State Farm Drive Safe 15-25%、Geico DriveEasy 15-20%、Liberty Mutual RightTrack 5-30%。USAA 免費內建行車紀錄功能。只要開車習慣良好，這類折扣確實拿得到；但急煞也會被記錄並反映在保費上。"
+      ]
+    },
+    {
+      "heading": "保障內容的差異",
+      "paragraphs": [
+        "事故寬容條款（首次肇責事故不調漲保費）：Liberty Mutual 免費內含、Geico 需加購每年約 NT$1,600、Progressive 於連續 5 年無理賠後自動適用、State Farm 每年約 NT$960、USAA 免費內含。",
+        "自負額遞減（無理賠時每年減少約 NT$3,200）：Allstate 條件最佳（未列入本次比較），Liberty Mutual 免費提供，Progressive 需加購每年約 NT$800。",
+        "共乘駕駛保障：Geico 每月加購約 NT$450-670、Progressive 約 NT$480-800、State Farm 約 NT$800-1,600。Liberty Mutual 與 USAA 的共乘方案適用範圍有限。"
+      ]
+    },
+    {
+      "heading": "客戶滿意度",
+      "paragraphs": [
+        "JD Power 2025 車險理賠滿意度：USAA 第 1（僅限軍職相關人士）、Erie 第 2、State Farm 第 3、Geico 第 5、Progressive 第 11、Liberty Mutual 第 16。首尾差距相當明顯——Liberty Mutual 的理賠處理評分低於業界平均。",
+        "App 表現：Geico 的 App 下載量最高；Progressive 的行車紀錄儀表板最完整；State Farm 的理賠申請流程最為清爽好用。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "為什麼各家報價差這麼多？",
+      "a": "每家保險公司都有自己的風險評估模型。同一位駕駛拿到不同價格，是因為各家對信用評分、居住區域、車款等因素的權重不同。建議同時比 3-5 家，通常比最高報價省下 20-40%。"
+    },
+    {
+      "q": "該不該接受行車紀錄折扣？",
+      "a": "如果你開車習慣穩健（少急煞、少深夜行駛），值得——折扣是實打實的 10-30%。但若駕駛風格較激進就別碰，行車紀錄反而可能讓保費上升。"
+    },
+    {
+      "q": "自負額該選較低還是較高？",
+      "a": "自負額拉高（約 NT$16,000 至 NT$32,000 這個級距）大約可省 10-15% 保費。手上有相當於高自負額金額的緊急預備金就值得；沒有的話就別冒這個險。"
+    },
+    {
+      "q": "為什麼佛州特別貴？",
+      "a": "佛州無保險駕駛比例高、颶風風險大，加上無過失責任制度推升理賠成本。加州與佛州長年都是保費最高的州。"
+    }
+  ],
+  "products": {
+    "geico-auto": {
+      "badge": "🏆 綜合最佳",
+      "review": "對於無不良紀錄的駕駛，Geico Auto 是主流品牌中最便宜的選擇。App 好用、理賠速度快，並提供軍職 15% 折扣。開車習慣良好的話，DriveEasy 行車紀錄折扣相當有感。",
+      "pros": [
+        "主流品牌中最便宜",
+        "理賠處理速度快",
+        "App 與行車紀錄功能完整"
+      ],
+      "cons": [
+        "有罰單或肇責事故時保費漲幅較大",
+        "事故寬容條款需另外付費加購"
+      ]
+    },
+    "progressive-auto": {
+      "badge": "📊 行車紀錄最強",
+      "review": "願意分享駕駛數據的科技派駕駛，選 Progressive Auto 最對味。Snapshot 行車紀錄最多可讓保費降 10-30%，Name Your Price 工具也方便抓預算。共乘保障的可投保範圍在同級中最廣。",
+      "pros": [
+        "行車紀錄儀表板最完整",
+        "Name Your Price 預算工具",
+        "共乘保障選項齊全"
+      ],
+      "cons": [
+        "理賠滿意度偏低（JD Power 第 11）",
+        "出險後保費漲幅較明顯"
+      ]
+    },
+    "state-farm-auto": {
+      "badge": "📦 合併投保最划算",
+      "review": "State Farm Auto 的強項在於合併投保：住宅險加車險可享 25% 折扣。它是美國最大的車險業者，擁有綿密的在地業務員網絡。Drive Safe & Save 行車紀錄折扣為 15-25%，理賠滿意度在 JD Power 排名第 3。",
+      "pros": [
+        "住宅險＋車險合併省 25%",
+        "在地業務員網絡綿密",
+        "JD Power 理賠第 3 名"
+      ],
+      "cons": [
+        "單買車險比 Geico 貴",
+        "App 完成度不及 Geico"
+      ]
+    },
+    "usaa-auto": {
+      "badge": "🪖 軍職族群首選",
+      "review": "USAA Auto 是所有選項中最便宜的（平均約 NT$31,400），但需具備軍職相關資格。客戶滿意度連年拿下 JD Power 第 1，行車紀錄功能免費內建，理賠給付也相對大方。",
+      "pros": [
+        "保費最低",
+        "JD Power 滿意度第 1",
+        "理賠給付大方"
+      ],
+      "cons": [
+        "須符合軍職資格",
+        "共乘保障範圍有限"
+      ]
+    },
+    "liberty-mutual-auto": {
+      "badge": "🎁 事故寬容最佳",
+      "review": "Liberty Mutual Auto 免費提供事故寬容條款「與」自負額遞減，標配內容是同類中最大方的。但保費最高（平均約 NT$54,700），理賠滿意度也僅 JD Power 第 16。多花的錢是否換得到對等價值，見仁見智。",
+      "pros": [
+        "事故寬容條款免費內含",
+        "自負額遞減免費內含",
+        "App 完成度高"
+      ],
+      "cons": [
+        "本次比較中保費最高",
+        "理賠處理僅 JD Power 第 16"
+      ]
+    }
+  },
+  "offerNotes": {
+    "geico-auto": "於 geico.com 取得報價——輸入車輛識別碼即可即時試算。另提供軍職與聯邦公務員折扣。",
+    "progressive-auto": "於 progressive.com 取得報價——Name Your Price 工具可依預算篩選方案。Snapshot 需自行選擇加入。",
+    "state-farm-auto": "於 statefarm.com 或透過在地業務員取得報價。與租屋險、住宅險合併投保折扣最多。",
+    "usaa-auto": "於 usaa.com 取得報價——請先確認投保資格。部分會員另享免費道路救援。",
+    "liberty-mutual-auto": "於 libertymutual.com 取得報價。RightTrack 行車紀錄需自行選擇加入。"
+  },
+  "pinDescription": "車險別再閉著眼睛續約！Geico、Progressive、State Farm、USAA、Liberty Mutual 五家實測比較：保費差多少、哪家折扣是真的、哪家理賠最讓人安心，一張表看懂。",
+  "recommendedFor": [
+    {
+      "label": "紀錄乾淨、想省保費的駕駛",
+      "offerId": "geico-auto",
+      "reason": "Geico 平均年繳約 NT$44,200，是主流品牌中最便宜的選擇；開車習慣穩健的人再靠 DriveEasy 折扣往下壓。"
+    },
+    {
+      "label": "接案族與共乘駕駛",
+      "offerId": "progressive-auto",
+      "reason": "Progressive 的共乘保障可投保範圍最廣，願意分享行車數據的話，Snapshot 還能再省 10-30%。"
+    },
+    {
+      "label": "想把保單集中在一家的有屋族",
+      "offerId": "state-farm-auto",
+      "reason": "住宅險＋車險合併享 25% 折扣，加上在地業務員網絡，多張保單的家庭選它最省事。"
+    },
+    {
+      "label": "現役軍人與退役軍人",
+      "offerId": "usaa-auto",
+      "reason": "平均年繳約 NT$31,400 為全場最低，JD Power 滿意度第 1 也代表理賠時少受氣。"
+    },
+    {
+      "label": "擔心第一次出險的新手駕駛",
+      "offerId": "liberty-mutual-auto",
+      "reason": "Liberty Mutual 免費附帶事故寬容條款與自負額遞減，首次理賠不必擔心保費一次暴漲。"
+    }
+  ]
 }

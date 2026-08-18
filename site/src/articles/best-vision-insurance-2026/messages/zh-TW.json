@@ -2,5 +2,154 @@
   "title": "2026年最佳視力保險：5款比較",
   "description": "2026年最佳視力保險：5款比較。比較5款，依據官方公布規格、原廠文件與第三方評測。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "第一年總花費",
+      "paragraphs": [
+        "第一年總花費（保費＋自費，以年度視力相關支出約 NT$19,000 計算）：VSP 約 NT$8,200、EyeMed 約 NT$6,300、Humana Vision 約 NT$8,800、Spirit Vision 約 NT$10,100（免等待期，保費較高）、Warby Parker 直購約 NT$9,300（無保費，鏡框＋鏡片一次付清）。",
+        "若一年只配一副眼鏡，Warby Parker 直購通常比保險划算。保險佔優的情況是：一年配兩副以上、隱形眼鏡與眼鏡都要用，或偏好高價鏡框品牌（NT$9,500 以上）。",
+        "第二年若度數沒有變化：保險方案會重新給付一次 NT$4,700～6,300 的鏡框額度；Warby Parker 直購則仍需支付約 NT$9,300 買新鏡框，前一年的消費不會累積任何折扣。"
+      ]
+    },
+    {
+      "heading": "特約網絡的實際情況",
+      "paragraphs": [
+        "VSP 擁有全美最大的視力照護網絡（每 4 位眼科醫師就有 3 位加入），你原本看診的醫師剛好在網內的機率最高。",
+        "EyeMed 規模居次，LensCrafters、Target Optical、Pearle Vision、Sears Optical 等連鎖眼鏡行皆為特約通路。",
+        "Humana Vision 的網絡較小，投保前務必先確認。",
+        "Spirit Vision 的 PPO 網絡也偏小，主打的差異點是以較高保費換取免等待期。",
+        "Warby Parker 有 200 多家實體門市並提供郵寄服務，但可驗光的據點有限（僅部分門市）。"
+      ]
+    },
+    {
+      "heading": "什麼時候直購比保險划算",
+      "paragraphs": [
+        "以下情況直接向 Warby Parker 購買勝過保險：一年一副、單光鏡片、鏡框價位在 NT$4,600 以內。保險則在這些情況勝出：一年兩副以上、漸進多焦點鏡片、設計師品牌鏡框，或同時使用隱形眼鏡與眼鏡。",
+        "若手頭上付得出全額：Warby Parker 約 NT$3,000 的單光鏡框＋鏡片組合，往往比一整年的保費還便宜。",
+        "保險真正發揮價值的場合是：眼科疾病治療（超出配鏡範圍）、兒童視力照護（小孩容易弄壞鏡框），以及大量使用隱形眼鏡的家庭。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "視力保險值得買嗎？",
+      "a": "只能說勉強划算。如果你本來就會直接在 Warby Parker 或 Zenni 買眼鏡，一年只配一副的話帳算起來多半不划算。使用頻率高的人（小孩、隱形眼鏡＋眼鏡並用、漸進多焦點鏡片）才真正划得來。"
+    },
+    {
+      "q": "VSP 和 EyeMed 該選哪個？",
+      "a": "想要最大網絡就選 VSP。如果離你最近的是 LensCrafters／Target Optical／Pearle Vision，取件比跑 VSP 特約點方便，那就選 EyeMed。"
+    },
+    {
+      "q": "Spirit Vision 的免等待期值得多付保費嗎？",
+      "a": "只有在你馬上就要配新眼鏡時才值得。其他方案的例行檢查通常本來就沒有等待期（只有手術類項目才有），所以 Spirit 的優勢適用範圍很窄。"
+    },
+    {
+      "q": "眼鏡可以在網路上買嗎？",
+      "a": "度數單純的話可以。Warby Parker、Zenni、EyeBuyDirect 都以 NT$3,000～6,300 提供品質不錯的鏡框＋鏡片。但漸進多焦點或高度數處方，還是值得到店配鏡實測（多數保險方案有給付）。"
+    }
+  ],
+  "products": {
+    "vsp-individual-vision": {
+      "badge": "🏆 主流首選",
+      "review": "如果你有固定看診的眼科醫師，又希望給付內容可預期，VSP Individual Vision Plan 就是正確選擇。全美最大視力網絡（每 4 位眼科醫師有 3 位加入），鏡框、鏡片、驗光都有給付。個人月費約 NT$410～950。",
+      "pros": [
+        "全美最大視力照護網絡",
+        "鏡框、鏡片、驗光皆有給付",
+        "年度福利內容扎實"
+      ],
+      "cons": [
+        "年度給付上限可能很快用完",
+        "保費累積下來未必比直購便宜"
+      ]
+    },
+    "eyemed-bright-individual": {
+      "badge": "🎯 連鎖眼鏡行最佳解",
+      "review": "如果離你最近的眼鏡行是 LensCrafters、Target Optical、Pearle Vision 或 Sears Optical，EyeMed Bright Individual 就是正確選擇。第二大視力網絡，月費約 NT$160～630，通常比 VSP 便宜。",
+      "pros": [
+        "涵蓋各大連鎖眼鏡通路",
+        "保費低於 VSP",
+        "給付內容扎實"
+      ],
+      "cons": [
+        "網絡規模不如 VSP",
+        "獨立執業的眼科醫師較少加入"
+      ]
+    },
+    "humana-vision-care": {
+      "badge": "🪪 Humana 戶最佳搭配",
+      "review": "如果你已經投保 Humana 醫療險，Humana Vision Care 就是正確選擇，可享合併投保折扣。單獨投保月費約 NT$470～790 也具競爭力，但網絡比 VSP／EyeMed 小。",
+      "pros": [
+        "與 Humana 醫療險合併可享折扣",
+        "給付水準扎實",
+        "網絡規模尚可"
+      ],
+      "cons": [
+        "網絡小於 VSP／EyeMed",
+        "單獨投保的吸引力較低"
+      ]
+    },
+    "spirit-vision-no-waiting": {
+      "badge": "⚡ 免等待期首選",
+      "review": "如果你馬上就需要配新眼鏡，Spirit Vision No Waiting Period Plan 就是正確選擇。所有視力給付皆零等待期，並含隱形眼鏡與 LASIK 折扣。月費約 NT$790～1,100（免等待期的代價就是保費較高）。",
+      "pros": [
+        "所有給付零等待期",
+        "含隱形眼鏡給付",
+        "提供 LASIK 折扣"
+      ],
+      "cons": [
+        "保費偏高（月費約 NT$790～1,100）",
+        "PPO 網絡規模較小"
+      ]
+    },
+    "warby-parker-direct": {
+      "badge": "💸 一年一副最划算",
+      "review": "Warby Parker 的直購價（單光鏡框＋鏡片約 NT$3,000）在一年只配一副的情況下通常勝過保險。200 多家門市另加郵寄服務。若你只需要一副眼鏡、不戴隱形眼鏡、也不需要漸進多焦點鏡片，這就是正解。",
+      "pros": [
+        "單副價格勝過保險",
+        "200 多家實體門市",
+        "NT$3,000～4,600 就有好品質鏡框"
+      ],
+      "cons": [
+        "眼科疾病完全無給付",
+        "漸進多焦點鏡片需加價（約 NT$9,300）",
+        "不適合高頻率使用者"
+      ]
+    }
+  },
+  "offerNotes": {
+    "vsp-individual-vision": "於 vsp.com 投保 — 記得先確認你的眼科醫師在特約網內。",
+    "eyemed-bright-individual": "於 eyemed.com 投保 — 常跑連鎖眼鏡行的人最適合。",
+    "humana-vision-care": "於 humana.com 投保 — 與 Humana 醫療險合併可享折扣。",
+    "spirit-vision-no-waiting": "於 spiritdental.com 投保 — 只有馬上要配眼鏡才值得選。",
+    "warby-parker-direct": "於 warbyparker.com 直接購買 — 一年一副通常比保險划算。"
+  },
+  "pinDescription": "配一副眼鏡動輒上萬，視力保險真的划得來嗎？2026 年 VSP、EyeMed、Humana、Spirit 與 Warby Parker 直購全比較：保費、驗光與鏡框額度、等待期，以及什麼情況下自費反而更省。#視力保險 #配眼鏡 #省錢",
+  "recommendedFor": [
+    {
+      "label": "習慣看同一位家庭眼科醫師的人",
+      "offerId": "vsp-individual-vision",
+      "reason": "VSP 網絡涵蓋全美每 4 位眼科醫師中的 3 位，你原本的醫師已在特約名單內的機率最高。"
+    },
+    {
+      "label": "住郊區、常去商場連鎖眼鏡行的人",
+      "offerId": "eyemed-bright-individual",
+      "reason": "EyeMed 涵蓋 LensCrafters、Target Optical 與 Pearle Vision，順路辦事就能取件，保費又比 VSP 低。"
+    },
+    {
+      "label": "已投保 Humana 醫療險的人",
+      "offerId": "humana-vision-care",
+      "reason": "在既有的 Humana 醫療險上加保視力可享折扣，對現有客戶來說手續最少、費用也最低。"
+    },
+    {
+      "label": "正在換工作、現在就需要配眼鏡的成人",
+      "offerId": "spirit-vision-no-waiting",
+      "reason": "Spirit 的零等待期方案第一天就能動用給付，在公司團保出現空窗、又拖不起數週時特別關鍵。"
+    },
+    {
+      "label": "精打細算、一年只配一副的成人",
+      "offerId": "warby-parker-direct",
+      "reason": "單光鏡框加鏡片只要約 NT$3,000，對一年只配一副的人來說，比繳一整年保費還便宜。"
+    }
+  ]
 }

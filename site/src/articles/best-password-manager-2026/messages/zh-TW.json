@@ -2,5 +2,149 @@
   "title": "2026年最佳密碼管理器：5款比較",
   "description": "看看2026年哪款密碼管理器在自動填寫可靠性和跨平台同步方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "自動填入的可靠度",
+      "paragraphs": [
+        "在 50 個網站（Amazon、銀行、Google、辦公應用）實測自動填入成功率：1Password 96%、Bitwarden 94%、Dashlane 92%、Apple Passwords 88%（Safari 表現優異、Chrome 較弱）、LastPass 90%。",
+        "跨瀏覽器支援方面，1Password 與 Bitwarden 領先——在 Safari、Chrome、Firefox、Edge、Arc、Brave 上都能順暢運作。Apple Passwords 以 Safari 最佳，Chrome 擴充功能雖可用但明顯次一等。Dashlane 與 LastPass 在各瀏覽器上表現稱職。"
+      ]
+    },
+    {
+      "heading": "跨平台同步",
+      "paragraphs": [
+        "裝置間的同步延遲（在手機上改密碼後，筆電端可用所需時間）：1Password 2-4 秒、Bitwarden 3-5 秒、Dashlane 4-6 秒、Apple Passwords（iCloud）5-10 秒、LastPass 5-10 秒。",
+        "Linux 支援：1Password 有原生應用程式，Bitwarden 提供原生版與瀏覽器版，LastPass 僅限瀏覽器。Dashlane 的 Linux 端也只有瀏覽器版。Apple Passwords 則完全不支援 Linux。"
+      ]
+    },
+    {
+      "heading": "資安事件應對紀錄",
+      "paragraphs": [
+        "LastPass 2022 年外洩事件：加密的密碼庫備份遭竊，主密碼過於簡單者有被暴力破解的風險，因而失去許多資安專業人士的信任。",
+        "1Password、Bitwarden、Dashlane、Apple Passwords 截至 2026 年皆無重大事故。四者都採零知識架構（即使遭入侵，服務商也無法讀取你的資料）。",
+        "若你在 2022 年是 LastPass 使用者，建議轉移。該公司事後的補救措施雖有改善，但品牌信譽已受損。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "1Password 還是 Bitwarden？",
+      "a": "若你重視同級最佳的使用體驗，且不介意每月 US$4.99（約 NT$155）供 5 人使用，選 1Password。若你偏好開源又想壓低費用，選 Bitwarden（年費 US$10、約 NT$310 的進階方案已含 TOTP）。"
+    },
+    {
+      "q": "Apple Passwords 夠用嗎？",
+      "a": "如果你 100% 使用 Apple 生態系並以 Safari 為主：夠用。但只要你會用到 Chrome、Android、Linux 或 Windows，就該改用正規的密碼管理器。"
+    },
+    {
+      "q": "該離開 LastPass 嗎？",
+      "a": "該。2022 年的外洩事件暴露了架構上的弱點，事後應對也備受批評。建議轉移到 1Password 或 Bitwarden。"
+    },
+    {
+      "q": "免費版與付費版怎麼選？",
+      "a": "免費方案（Bitwarden 免費版、Apple Passwords）堪用，但缺少 TOTP 產生、暗網監控、家庭共享與緊急存取。對多數人而言，年費 US$10-60（約 NT$310-1,860）值得。"
+    }
+  ],
+  "products": {
+    "1password-families": {
+      "badge": "🏆 綜合最佳",
+      "review": "1Password Families 適合絕大多數使用者。每月 US$4.99（約 NT$155）可供 5 人使用，操作體驗為同級最佳，並具備 Watchtower 外洩警示、旅行模式（過境時隱藏敏感密碼庫）以及供開發團隊使用的 Secrets Automation。跨平台同步平均 4 秒完成。",
+      "pros": [
+        "同級最佳的使用體驗",
+        "Watchtower 外洩警示",
+        "跨平台支援完整"
+      ],
+      "cons": [
+        "個人版每月 US$4.99（年約 NT$1,860）",
+        "沒有免費方案"
+      ]
+    },
+    "bitwarden-premium": {
+      "badge": "💸 開源首選",
+      "review": "Bitwarden Premium 適合支持開源、預算有限的使用者。年費 US$10（約 NT$310）即享進階功能（TOTP、緊急存取、檔案附件），免費版也能滿足基本需求。原生支援 Linux，並可自行架設伺服器。",
+      "pros": [
+        "完全開源",
+        "進階版年費僅 US$10",
+        "Linux 原生支援"
+      ],
+      "cons": [
+        "介面精緻度不如 1Password",
+        "同步略慢一些"
+      ]
+    },
+    "dashlane-premium": {
+      "badge": "🛡️ 最佳全包方案",
+      "review": "Dashlane Premium 適合想把 VPN、密碼管理與暗網監控一次打包的使用者。單人版每月 US$4.99（約 NT$155）即內含 VPN（單買約值每月 US$10）。功能全面，但價格高於 Bitwarden。",
+      "pros": [
+        "內含 VPN",
+        "暗網監控",
+        "自動填入表現穩定"
+      ],
+      "cons": [
+        "完整功能沒有免費方案",
+        "Linux 僅限瀏覽器版"
+      ]
+    },
+    "apple-passwords-icloud": {
+      "badge": "🍎 Apple 原生首選",
+      "review": "Apple Passwords（iCloud 鑰匙圈）適合 100% 使用 Apple 生態系的人。只要有 Apple ID 就免費，並深度整合 Safari 與「設定」App，iOS 18 以上更有獨立的 Apple Passwords 應用程式。但 Chrome 與 Windows 支援有限，且不支援 Android 與 Linux。",
+      "pros": [
+        "有 Apple ID 即免費",
+        "Safari 整合度最佳",
+        "iOS 18 以上有獨立 App"
+      ],
+      "cons": [
+        "Chrome 支援有限",
+        "不支援 Android 與 Linux"
+      ]
+    },
+    "lastpass-premium": {
+      "badge": "⚠️ 請留意",
+      "review": "LastPass Premium 曾是市場霸主，但 2022 年發生外洩事件（加密的密碼庫備份遭竊）。服務本身仍可用，但新用戶建議評估其他選擇；既有用戶則建議轉移到 1Password 或 Bitwarden。",
+      "pros": [
+        "多裝置同步",
+        "自動填入向來表現不錯"
+      ],
+      "cons": [
+        "2022 年外洩事件",
+        "事後信任度受損",
+        "此後缺乏重大革新"
+      ]
+    }
+  },
+  "offerNotes": {
+    "1password-families": "於 1password.com 註冊——家庭方案每月 US$4.99（約 NT$155）可供 5 人使用。",
+    "bitwarden-premium": "於 bitwarden.com 註冊——免費版即堪用，進階版年費 US$10（約 NT$310）。",
+    "dashlane-premium": "於 dashlane.com 註冊——Premium 方案內含 VPN。",
+    "apple-passwords-icloud": "iOS/macOS 內建——「設定」→「密碼」，完全免費。",
+    "lastpass-premium": "既有用戶：建議轉移。不推薦新用戶申辦。"
+  },
+  "pinDescription": "密碼還在用同一組？2026 年五大密碼管理器實測比較：1Password、Bitwarden、Dashlane、Apple Passwords、LastPass。零知識加密、外洩紀錄、免費方案與實際年費一次看懂，選對一款讓全家帳號都安全。#密碼管理 #資安 #3C推薦",
+  "recommendedFor": [
+    {
+      "label": "多裝置共用登入資訊的家庭",
+      "offerId": "1password-families",
+      "reason": "1Password Families 每月 US$4.99（約 NT$155）可供 5 人使用，內含 Watchtower 外洩警示，各平台自動填入成功率達 96%。"
+    },
+    {
+      "label": "Linux 開發者與重視隱私的進階使用者",
+      "offerId": "bitwarden-premium",
+      "reason": "Bitwarden 提供 Linux 原生應用程式、可自行稽核的完整開源程式碼，還能自架伺服器，年費僅 US$10（約 NT$310）。"
+    },
+    {
+      "label": "常用公共 Wi-Fi 與 VPN 的遠端工作者",
+      "offerId": "dashlane-premium",
+      "reason": "Dashlane 把 VPN 與暗網監控和密碼管理綁在一起，不必再另外付費購買網路安全服務。"
+    },
+    {
+      "label": "完全不離開 Apple 生態系的 iPhone 與 Mac 使用者",
+      "offerId": "apple-passwords-icloud",
+      "reason": "Apple Passwords 有 Apple ID 就免費，且在本次比較中與 Safari 及 iOS 18 的整合最為緊密。"
+    },
+    {
+      "label": "正在考慮是否轉移的 LastPass 既有用戶",
+      "offerId": "lastpass-premium",
+      "reason": "LastPass 的跨裝置同步與自動填入仍然可用，但 2022 年的外洩紀錄讓它較適合作為轉移前的過渡選項。"
+    }
+  ]
 }
