@@ -1,5 +1,132 @@
 {
   "title": "AC Portabel Terbaik 2026: Perbandingan 5 Model",
   "description": "Perbandingan spesifikasi: Midea Duo, Whynter ARC-14S, LG, Honeywell, dan Black+Decker. Arti ASHRAE versus SACC dan alasan selang ganda lebih efisien.",
-  "lede": "Kapasitas tertera bukan kapasitas nyata. Ini asal perbedaannya dan ukuran ruangan yang cocok untuk masing-masing dari lima model."
+  "lede": "Kapasitas tertera bukan kapasitas nyata. Ini asal perbedaannya dan ukuran ruangan yang cocok untuk masing-masing dari lima model.",
+  "methodology": "Kami tidak melakukan pengujian termal atau beban sendiri. Melakukannya secara jujur akan membutuhkan ruang psikrometrik terkalibrasi untuk AC dan rig load cell berinstrumen untuk Smith machine, dan kami tidak memiliki keduanya. Yang kami lakukan sebagai gantinya: mengumpulkan seluruh spesifikasi resmi dari halaman produk dan buku manual masing-masing produsen, membandingkan harga terkini dengan daftar harga di pengecer besar, serta membaca ulasan pemilik dalam jumlah besar — menyaring laporan yang menggambarkan kegagalan terukur atau keluhan berulang, bukan kesan minggu pertama. Jika sebuah angka merupakan klaim produsen dan bukan hasil pengukuran independen, kami menyebutkannya di dalam teks.",
+  "sections": [
+    {
+      "heading": "BTU ASHRAE vs SACC — angka yang benar-benar penting",
+      "paragraphs": [
+        "AC portabel diiklankan dengan BTU ASHRAE, angka laboratorium yang diukur dalam kondisi yang mengabaikan panas yang dibuang unit itu sendiri kembali ke dalam ruangan. Departemen Energi AS mewajibkan angka kedua, yaitu SACC (Seasonally Adjusted Cooling Capacity), yang memperhitungkan penambahan panas dari selang dan infiltrasi udara. Untuk unit berselang tunggal, angka SACC biasanya berada di kisaran setengah hingga dua pertiga dari angka ASHRAE.",
+        "Inilah sebabnya AC portabel 8.000 BTU dan AC jendela 8.000 BTU bukan produk yang sebanding. Unit jendela terpasang pada bukaan dinding dan membuang panas ke luar bangunan; unit portabel berada di dalam ruangan, memancarkan panas kompresor ke dalamnya, dan pada model berselang tunggal mengambil udara kondensornya dari ruangan yang sedang ia dinginkan — sehingga menarik masuk udara luar yang belum terkondisikan melalui setiap celah bangunan sebagai penggantinya.",
+        "Aturan praktisnya: saat membandingkan AC portabel dengan AC jendela, cari angka SACC dan anggap itu sebagai angka sebenarnya. Saat membandingkan sesama AC portabel, membandingkan ASHRAE dengan ASHRAE tidak masalah selama Anda juga memperhitungkan jumlah selangnya."
+      ]
+    },
+    {
+      "heading": "Selang tunggal vs selang ganda",
+      "paragraphs": [
+        "Unit berselang tunggal menarik udara ruangan melewati kondensor lalu meniupkannya ke luar. Udara itu harus diganti, dan penggantinya adalah udara luar yang merembes masuk. Akibatnya, AC portabel berselang tunggal membuat ruangan berada dalam tekanan negatif ringan dan terus-menerus memasukkan kembali panas yang sedang ia coba buang.",
+        "Unit berselang ganda menarik udara kondensor dari luar melalui satu saluran dan membuangnya lewat saluran lain, sehingga tekanan ruangan tetap relatif netral. Dalam kelompok ini, Midea Duo dan Whynter ARC-14S berselang ganda; LG, Honeywell, dan Black+Decker berselang tunggal.",
+        "Keunggulan selang ganda makin terasa seiring membesarnya selisih suhu. Dalam kondisi sejuk, perbedaannya cukup kecil untuk diabaikan. Di ruangan yang benar-benar panas, inilah yang menentukan apakah unit mampu mengimbangi beban atau justru bekerja terus-menerus tanpa pernah mencapai suhu yang disetel."
+      ]
+    },
+    {
+      "heading": "Inverter vs kecepatan tetap, dan pengaruhnya pada kebisingan",
+      "paragraphs": [
+        "Kompresor berkecepatan tetap hanya punya dua kondisi: menyala penuh atau mati. Ia mencapai suhu setelan, berhenti, suhu naik lagi, lalu menyala kembali — dan setiap penyalaan adalah momen paling berisik dalam siklusnya. Kompresor inverter mengatur keluarannya secara bertahap, sehingga begitu ruangan mencapai suhu setelan, ia menetap pada dengung rendah yang berkelanjutan alih-alih hidup-mati berulang.",
+        "Midea Duo dan LG LP1419IVSM adalah unit inverter; Whynter, Honeywell, dan Black+Decker berkecepatan tetap. Jika unit akan dipasang di kamar tidur, perbedaan ini lebih penting daripada selisih dua desibel pada angka spesifikasi, karena angka tersebut diukur pada keluaran penuh dan tidak menggambarkan pola hidup-mati yang benar-benar Anda dengar pukul tiga pagi."
+      ]
+    },
+    {
+      "heading": "Pembuangan air, ventilasi, dan pemasangan yang jarang disinggung",
+      "paragraphs": [
+        "Setiap AC portabel menghasilkan air kondensasi. Sebagian besar unit modern menguapkan mayoritas air itu lewat saluran buang, tetapi dalam kondisi lembap semuanya pada akhirnya perlu tangki penampung dikuras atau selang dialirkan ke saluran pembuangan lantai. Periksa apakah model tersebut mendukung pembuangan gravitasi berkelanjutan sebelum membeli — memasangnya belakangan sangat merepotkan.",
+        "Kit jendela adalah hal lain yang kerap terlewat. Kit bawaan cocok untuk jendela sorong dan geser standar; jendela casement umumnya memerlukan panel khusus. Menyegel kit dengan benar jauh lebih penting daripada dugaan kebanyakan pembeli, karena kit yang tidak rapat membuat panas buangan langsung masuk kembali dan menghapus sebagian besar kapasitas unit."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Apakah AC portabel lebih layak dibeli dibanding AC jendela?",
+      "a": "Hanya jika AC jendela memang bukan pilihan — jendela casement, larangan dari pemilik sewa, atau ruangan yang mengharuskan unit dipindah-pindah. Pada kapasitas yang sama, AC jendela lebih senyap, lebih murah, dan jauh lebih efisien, karena ia tidak berada di dalam ruangan yang didinginkannya."
+    },
+    {
+      "q": "Apakah saya butuh selang ganda?",
+      "a": "Jika ruangan rutin menjadi benar-benar panas, ya. Selang ganda mencegah unit memasukkan udara luar sebagai pengganti udara yang dibuangnya. Dalam kondisi sejuk atau di ruangan kecil yang rapat, unit berselang tunggal sudah memadai dan lebih murah."
+    },
+    {
+      "q": "Berapa kapasitas yang saya butuhkan?",
+      "a": "Berpatokanlah pada angka SACC, bukan ASHRAE, dan mulailah dari sekitar 215 BTU per meter persegi untuk ruangan rata-rata. Tambahkan kapasitas untuk ruangan yang terkena matahari, lantai teratas, atau dapur; kurangi untuk ruangan dalam yang teduh."
+    },
+    {
+      "q": "Mengapa suhu ruangan tidak pernah mencapai setelan?",
+      "a": "Tiga penyebab paling umum, berurutan dari yang paling sering: kit jendela yang tidak tersegel sehingga panas buangan masuk kembali, unit berselang tunggal yang kapasitasnya kurang untuk beban panas setelah infiltrasi diperhitungkan, dan filter yang tersumbat. Periksa segel jendela lebih dulu — memperbaikinya tidak butuh biaya."
+    }
+  ],
+  "products": {
+    "midea-duo-map14hs1tbl": {
+      "badge": "🏆 Terbaik secara keseluruhan",
+      "review": "Midea Duo adalah pilihan ketika ruangan benar-benar menjadi panas. Ia menggabungkan dua hal yang paling menentukan — saluran selang ganda dan kompresor inverter — sehingga tidak memasukkan udara luar maupun hidup-mati berisik saat suhu setelan tercapai. Mode heat pump membuatnya tetap berguna di musim peralihan. Ini unit termahal di sini, dan ukurannya besar.",
+      "pros": [
+        "Selang ganda plus inverter — dua fitur yang paling menentukan",
+        "Mode heat pump berguna saat cuaca dingin",
+        "Mampu menjaga suhu setelan dalam kondisi benar-benar panas"
+      ],
+      "cons": [
+        "Termahal dalam kelompok ini",
+        "Berukuran besar dan berat"
+      ]
+    },
+    "whynter-arc-14s": {
+      "badge": "💰 Selang ganda paling bernilai",
+      "review": "ARC-14S adalah jalan murah menuju selang ganda. Unit ini sudah cukup lama beredar sehingga pola kerusakannya terdokumentasi baik dalam ulasan pemilik, dan ia melakukan hal terpenting — tidak menurunkan tekanan udara ruangan. Yang dikorbankan adalah modulasi inverter, sehingga ia hidup-mati dengan suara yang terdengar jelas alih-alih menetap pada dengung halus.",
+      "pros": [
+        "Selang ganda dengan harga lebih murah",
+        "Rekam jejak panjang, perilakunya terdokumentasi baik",
+        "Desain sederhana dan mudah diservis"
+      ],
+      "cons": [
+        "Kompresor berkecepatan tetap hidup-mati dengan suara terdengar",
+        "Antarmuka kontrol ketinggalan zaman"
+      ]
+    },
+    "lg-lp1419ivsm": {
+      "badge": "🔇 Selang tunggal paling senyap",
+      "review": "LG adalah pilihan ketika kebisingan menjadi faktor penentu dan saluran selang ganda tidak praktis. Kompresor dual inverter-nya bermodulasi alih-alih hidup-mati, dan itulah yang Anda dengar pada malam hari. Karena berselang tunggal, ia tetap memasukkan udara pengganti, sehingga lebih cocok untuk kamar tidur daripada untuk ruangan panas.",
+      "pros": [
+        "Kompresor inverter, senyap saat suhu setelan tercapai",
+        "Aplikasi dan penjadwalan yang solid",
+        "Kualitas rakitan bagus"
+      ],
+      "cons": [
+        "Selang tunggal membatasi kapasitas dalam kondisi panas",
+        "Harga premium untuk unit berselang tunggal"
+      ]
+    },
+    "honeywell-hl10cesw": {
+      "badge": "🛏️ Terbaik untuk ruangan kecil",
+      "review": "Honeywell ini dirancang untuk kamar tidur, bukan ruang keluarga, dan begitulah cara membacanya. Mode dehumidifikasi saja benar-benar berguna di iklim lembap ketika ruangan tidak panas tetapi terasa tidak nyaman, dan filter yang bisa dicuci menekan biaya pemakaian. Jangan membelinya untuk ruangan luas atau yang terpapar matahari.",
+      "pros": [
+        "Ukuran pas untuk kamar tidur kecil",
+        "Mode dehumidifikasi saja yang berguna",
+        "Filter bisa dicuci"
+      ],
+      "cons": [
+        "Kurang bertenaga untuk ruangan luas",
+        "Kecepatan tetap, hidup-mati dengan suara terdengar"
+      ]
+    },
+    "blackdecker-bpact08wt": {
+      "badge": "💵 Termurah",
+      "review": "BPACT08WT adalah titik masuk termurah, dan di unit inilah selisih ASHRAE versus SACC paling merusak ekspektasi — kapasitas sebenarnya kira-kira separuh angka yang dipromosikan. Dibeli untuk ruangan kecil yang teduh dan rapat, unit ini memadai. Dibeli karena percaya angka pada kemasan, ia akan mengecewakan.",
+      "pros": [
+        "Harga terendah di sini",
+        "Ringan dan mudah dipindahkan",
+        "Kontrol sederhana"
+      ],
+      "cons": [
+        "Kapasitas sebenarnya jauh di bawah angka ASHRAE",
+        "Selang tunggal, kecepatan tetap",
+        "Kewalahan di ruangan yang lebih besar dari ukuran kecil"
+      ]
+    }
+  },
+  "offerNotes": {
+    "midea-duo-map14hs1tbl": "Dijual dengan nama Duo maupun MAP14HS1TBL — periksa kode modelnya, varian tanpa heat pump tampak hampir identik.",
+    "whynter-arc-14s": "ARC-14S dan ARC-14SH berbeda pada fungsi pemanas; pastikan versi mana yang dijual pada listing tersebut.",
+    "lg-lp1419ivsm": "LG mencantumkan angka ASHRAE sekaligus DOE/SACC pada lembar spesifikasi — bandingkan berdasarkan angka DOE.",
+    "honeywell-hl10cesw": "Kode model pada lini Honeywell ini berbeda-beda antar pengecer; cocokkan berdasarkan nilai BTU, bukan akhiran kodenya.",
+    "blackdecker-bpact08wt": "Periksa nilai SACC pada listing sebelum menyesuaikannya dengan ukuran ruangan."
+  },
+  "pinDescription": "Angka BTU di kardus AC portabel bukan kapasitas yang benar-benar Anda dapat. Ini penjelasan ASHRAE vs SACC, alasan selang ganda penting, dan perbandingan lima unit berdasarkan angka yang menentukan dingin tidaknya ruangan."
 }

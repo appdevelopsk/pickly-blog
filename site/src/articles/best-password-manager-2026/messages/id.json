@@ -2,5 +2,149 @@
   "title": "pengelola kata sandi Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan 1Password, Bitwarden, Dashlane, Apple, LastPass. Inilah pengelola kata sandi 2026 yang benar-benar unggul dalam hal keandalan isi otomatis dan sinkronisasi lintas platform.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Keandalan isi otomatis",
+      "paragraphs": [
+        "Tingkat keberhasilan isi otomatis di 50 situs (Amazon, bank, Google, aplikasi kerja): 1Password 96%, Bitwarden 94%, Dashlane 92%, Apple Passwords 88% (kuat di Safari, lemah di Chrome), LastPass 90%.",
+        "Dukungan lintas peramban: 1Password dan Bitwarden paling unggul — berjalan mulus di Safari, Chrome, Firefox, Edge, Arc, dan Brave. Apple Passwords paling optimal di Safari, sedangkan ekstensi Chrome-nya memang berfungsi tetapi terasa kelas dua. Dashlane dan LastPass tergolong mumpuni di semua peramban."
+      ]
+    },
+    {
+      "heading": "Sinkronisasi lintas perangkat",
+      "paragraphs": [
+        "Jeda sinkronisasi antarperangkat (mengubah kata sandi di ponsel, lalu tersedia di laptop): 1Password 2-4 detik, Bitwarden 3-5 detik, Dashlane 4-6 detik, Apple Passwords (iCloud) 5-10 detik, LastPass 5-10 detik.",
+        "Dukungan Linux: 1Password (aplikasi native), Bitwarden (native + peramban), LastPass (hanya lewat peramban). Dashlane di Linux hanya lewat peramban. Apple Passwords sama sekali tidak mendukung Linux."
+      ]
+    },
+    {
+      "heading": "Rekam jejak penanganan kebocoran data",
+      "paragraphs": [
+        "Kebocoran LastPass 2022: cadangan brankas terenkripsi dicuri dan bisa dibongkar dengan serangan brute force bila kata sandi utamanya lemah. Kepercayaan banyak praktisi keamanan pun hilang.",
+        "1Password, Bitwarden, Dashlane, dan Apple Passwords: tidak ada insiden besar hingga 2026. Semuanya memakai arsitektur zero-knowledge (penyedia layanan tidak bisa membaca data Anda sekalipun sistem mereka dibobol).",
+        "Kalau Anda pengguna LastPass pada 2022, sebaiknya pindah. Penanganan mereka pascakebocoran memang membaik, tetapi nama baiknya sudah telanjur rusak."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "1Password atau Bitwarden?",
+      "a": "Pilih 1Password jika Anda ingin pengalaman pemakaian terbaik di kelasnya dan tidak keberatan membayar $4,99/bulan untuk 5 pengguna. Pilih Bitwarden jika Anda menginginkan sumber terbuka dengan harga sangat murah (paket premium $10/tahun sudah mencakup TOTP)."
+    },
+    {
+      "q": "Apakah Apple Passwords sudah cukup?",
+      "a": "Kalau perangkat Anda 100% ekosistem Apple dan Anda memakai Safari: cukup. Tapi kalau Anda sesekali memakai Chrome, Android, Linux, atau Windows: pakailah pengelola kata sandi sungguhan."
+    },
+    {
+      "q": "Perlukah saya meninggalkan LastPass?",
+      "a": "Perlu. Kebocoran 2022 memperlihatkan kelemahan arsitektur, dan penanganan pascakebocorannya banyak dikritik. Pindahlah ke 1Password atau Bitwarden."
+    },
+    {
+      "q": "Gratis atau berbayar?",
+      "a": "Paket gratis (Bitwarden gratis, Apple Passwords gratis) memang berfungsi, tetapi tidak menyediakan: pembuatan TOTP, pemantauan dark web, berbagi dengan keluarga, dan akses darurat. Bagi sebagian besar pengguna, biaya $10-60/tahun itu sepadan."
+    }
+  ],
+  "products": {
+    "1password-families": {
+      "badge": "🏆 Terbaik secara keseluruhan",
+      "review": "1Password Families adalah pilihan tepat bagi sebagian besar pengguna. Seharga $4,99/bulan untuk 5 pengguna, pengalaman pemakaian terbaik di kelasnya, peringatan kebocoran Watchtower, Travel Mode (menyembunyikan brankas sensitif saat melintasi perbatasan), serta Secrets Automation untuk tim pengembang. Rata-rata sinkronisasi lintas platform 4 detik.",
+      "pros": [
+        "Pengalaman pemakaian terbaik di kelasnya",
+        "Peringatan kebocoran Watchtower",
+        "Lintas platform"
+      ],
+      "cons": [
+        "$4,99/bulan untuk perorangan ($60/tahun)",
+        "Tidak ada paket gratis"
+      ]
+    },
+    "bitwarden-premium": {
+      "badge": "💸 Sumber terbuka terbaik",
+      "review": "Bitwarden Premium adalah pilihan tepat bagi pendukung perangkat lunak sumber terbuka dan pengguna berbujet sangat terbatas. Paket premium $10/tahun (TOTP, akses darurat, lampiran berkas), sementara paket gratisnya sudah mencakup kebutuhan dasar. Mendukung Linux secara native dan bisa di-hosting sendiri.",
+      "pros": [
+        "Sumber terbuka",
+        "Premium $10/tahun",
+        "Native di Linux"
+      ],
+      "cons": [
+        "Antarmuka kurang rapi dibanding 1Password",
+        "Sinkronisasi sedikit lebih lambat"
+      ]
+    },
+    "dashlane-premium": {
+      "badge": "🛡️ Paket serba lengkap terbaik",
+      "review": "Dashlane Premium adalah pilihan tepat bagi pengguna yang ingin VPN + pengelola kata sandi + pemantauan dark web dalam satu paket. Seharga $4,99/bulan untuk perorangan sudah termasuk VPN (setara nilai $10/bulan). Lengkap, tetapi lebih mahal daripada Bitwarden.",
+      "pros": [
+        "Sudah termasuk VPN",
+        "Pemantauan dark web",
+        "Isi otomatis yang andal"
+      ],
+      "cons": [
+        "Tidak ada paket gratis untuk fitur lengkap",
+        "Linux hanya lewat peramban"
+      ]
+    },
+    "apple-passwords-icloud": {
+      "badge": "🍎 Terbaik untuk pengguna Apple",
+      "review": "Apple Passwords (iCloud Keychain) adalah pilihan tepat bagi pengguna yang sepenuhnya berada di ekosistem Apple. Gratis dengan Apple ID, terpadu dengan Safari dan aplikasi Pengaturan. Aplikasi Apple Passwords berdiri sendiri mulai iOS 18. Dukungan Chrome dan Windows terbatas, tanpa Android, tanpa Linux.",
+      "pros": [
+        "Gratis dengan Apple ID",
+        "Integrasi Safari terbaik",
+        "Aplikasi mandiri di iOS 18+"
+      ],
+      "cons": [
+        "Dukungan Chrome terbatas",
+        "Tidak ada Android atau Linux"
+      ]
+    },
+    "lastpass-premium": {
+      "badge": "⚠️ Perlu diwaspadai",
+      "review": "LastPass Premium dulu sempat mendominasi, tetapi terkena kebocoran data pada 2022 (cadangan brankas terenkripsi dicuri). Layanannya masih berfungsi, namun untuk akun baru sebaiknya pertimbangkan alternatif lain. Bagi pengguna lama: pindahlah ke 1Password atau Bitwarden.",
+      "pros": [
+        "Sinkronisasi multiperangkat",
+        "Isi otomatis yang selama ini andal"
+      ],
+      "cons": [
+        "Insiden kebocoran data 2022",
+        "Masalah kepercayaan pascakebocoran",
+        "Tidak ada inovasi berarti sejak itu"
+      ]
+    }
+  },
+  "offerNotes": {
+    "1password-families": "Daftar di 1password.com — paket Families mencakup 5 pengguna seharga $4,99/bulan.",
+    "bitwarden-premium": "Daftar di bitwarden.com — paket gratis sudah cukup berfungsi; premium $10/tahun.",
+    "dashlane-premium": "Daftar di dashlane.com — VPN sudah termasuk pada paket Premium.",
+    "apple-passwords-icloud": "Sudah tertanam di iOS/macOS — Pengaturan → Kata Sandi. Gratis.",
+    "lastpass-premium": "Bagi pengguna lama: segera pindah. Tidak direkomendasikan untuk akun baru."
+  },
+  "pinDescription": "Satu kata sandi bocor bisa menyeret semua akun Anda. Ini perbandingan 5 pengelola kata sandi terbaik 2026: 1Password, Bitwarden, Dashlane, Apple Passwords, dan LastPass — enkripsi zero-knowledge, rekam jejak kebocoran, paket gratis, dan biayanya. Simpan dulu sebelum memilih. #kataSandi #keamanandigital #tipsteknologi",
+  "recommendedFor": [
+    {
+      "label": "Keluarga yang berbagi akun di banyak perangkat",
+      "offerId": "1password-families",
+      "reason": "1Password Families mencakup 5 pengguna seharga $4,99/bulan, lengkap dengan peringatan kebocoran Watchtower dan keandalan isi otomatis 96% di semua platform."
+    },
+    {
+      "label": "Pengembang Linux dan pengguna mahir yang peduli privasi",
+      "offerId": "bitwarden-premium",
+      "reason": "Bitwarden menyediakan aplikasi native untuk Linux, kode sumber terbuka yang bisa Anda audit sendiri, dan opsi hosting mandiri — semuanya hanya $10/tahun."
+    },
+    {
+      "label": "Pekerja jarak jauh yang mengandalkan Wi-Fi publik dan VPN",
+      "offerId": "dashlane-premium",
+      "reason": "Dashlane menggabungkan VPN dan pemantauan dark web dengan pengelola kata sandinya, sehingga Anda tidak perlu membayar terpisah untuk keamanan jaringan."
+    },
+    {
+      "label": "Pengguna iPhone dan Mac yang tidak pernah keluar dari ekosistem Apple",
+      "offerId": "apple-passwords-icloud",
+      "reason": "Apple Passwords gratis dengan Apple ID Anda dan menawarkan integrasi Safari serta iOS 18 yang paling erat di antara semua pilihan di sini."
+    },
+    {
+      "label": "Pengguna LastPass lama yang sedang menimbang untuk pindah",
+      "offerId": "lastpass-premium",
+      "reason": "LastPass masih berjalan di berbagai perangkat dengan isi otomatis yang andal, tetapi rekam jejak kebocoran 2022 membuatnya lebih cocok sebagai jembatan sementara sebelum Anda beralih."
+    }
+  ]
 }

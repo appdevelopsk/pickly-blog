@@ -61,5 +61,72 @@
     "omnilux-contour-face": "FDA-cleared dengan rekam studi terpublikasi terpanjang — pilih jika dukungan regulator penting untuk Anda."
   },
   "pinDescription": "Tiga masker LED dibandingkan berdampingan di 2026: dari Aduro kelas pemula sampai Omnilux Contour yang FDA-cleared. Panjang gelombang, durasi sesi, dan apa yang sungguh-sungguh direkomendasikan dermatolog untuk terapi cahaya merah di rumah.",
-  "methodology": "Kami menilai setiap produk berdasarkan transparansi bahan, rekam jejak dermatologis, konsistensi hasil pada pengguna nyata, kualitas kemasan, serta nilai manfaat per pemakaian."
+  "methodology": "Kami menilai setiap produk berdasarkan transparansi bahan, rekam jejak dermatologis, konsistensi hasil pada pengguna nyata, kualitas kemasan, serta nilai manfaat per pemakaian.",
+  "products": [
+    {
+      "offerId": "currentbody-skin-led",
+      "badge": "Terbaik Secara Keseluruhan",
+      "review": "CurrentBody Skin LED Mask adalah perangkat rumahan yang paling sering direkomendasikan ketika dokter kulit ditanya masker mana yang sebaiknya dipakai untuk memulai, dan spesifikasinya memang mendukung reputasi itu. Sebanyak 132 LED memancarkan dua panjang gelombang sekaligus, merah 633 nm dan inframerah dekat 830 nm — dua rentang dengan dukungan riset terkuat untuk membantu sintesis kolagen dan meredakan peradangan dalam 8-12 minggu pemakaian yang konsisten. Cangkang silikon Series 2 mengikuti kontur tulang pipi dan garis rahang, bukan menggantung 1-2 cm di atas kulit, sehingga lebih banyak energi yang benar-benar sampai ke lapisan dermis alih-alih tersebar di celah udara. Sesi 10 menit cukup singkat sehingga rutin empat malam seminggu terasa realistis, dan nilai jual kembalinya di pasar barang bekas tetap tinggi kalau ternyata terapi cahaya bukan untuk Anda.",
+      "pros": [
+        "Dua panjang gelombang 633 nm dan 830 nm dengan dukungan riset terkuat",
+        "Cangkang silikon lentur mengikuti kontur wajah sehingga menempel langsung ke kulit",
+        "Sesi 10 menit membuat pemakaian rutin mingguan lebih mudah dijaga",
+        "Nilai jual kembali tinggi di pasar barang bekas"
+      ],
+      "cons": [
+        "Unit genggam bertenaga baterai jadi titik lemah pada usia 3-5 tahun",
+        "Cakupan area mata terbatas karena lubang bawaan pada masker"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "aduro-7-plus-1",
+      "badge": "Pilihan Terbaik untuk Coba-Coba",
+      "review": "Aduro 7+1 adalah cara paling minim risiko untuk mengetahui apakah terapi cahaya di rumah benar-benar akan Anda pakai empat kali seminggu sebelum mengeluarkan uang untuk CurrentBody. Tujuh mode warna plus inframerah dekat dalam cangkang kaku, sesi 10-15 menit, dan harga level pemula yang membuat keputusan membeli jadi ringan. Desainnya memakai kabel tanpa baterai yang bisa melemah, sehingga umur mekanisnya lebih panjang dibanding pesaing yang memakai baterai isi ulang. Kelemahannya nyata: intensitas cahaya merahnya di bawah spesifikasi CurrentBody, cangkang kaku menggantung 1-2 cm dari tulang pipi dan garis rahang (celah udara yang sudah dihilangkan desain silikon generasi baru), dan pemasaran multi-warnanya menyiratkan klaim klinis untuk panjang gelombang non-merah yang sebenarnya tidak didukung riset yang dipublikasikan.",
+      "pros": [
+        "Harga masuk paling murah untuk menguji komitmen terapi cahaya",
+        "Desain berkabel tanpa baterai yang akan melemah seiring waktu",
+        "Tujuh mode warna plus inframerah dekat dalam satu unit",
+        "Mudah dijual kembali setelah 60 hari jika ingin naik ke CurrentBody"
+      ],
+      "cons": [
+        "Intensitas cahaya merah di bawah spesifikasi CurrentBody",
+        "Cangkang kaku menggantung dari wajah sehingga energi hilang di celah udara"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "omnilux-contour-face",
+      "badge": "Sertifikasi FDA Terbaik",
+      "review": "Omnilux Contour Face adalah pilihan bersertifikat FDA dengan rekam jejak studi independen terpanjang di kategori masker LED rumahan, dan karena itu paling sering direkomendasikan dokter kulit di AS ketika legalitas regulasi jadi pertimbangan utama pembeli. Pendekatan dua panjang gelombangnya (merah 633 nm plus inframerah dekat 830 nm) sejajar dengan spesifikasi CurrentBody, meski jumlah LED-nya sedikit lebih rendah. Bentuk silikon lentur memberikan penyaluran cahaya kontak langsung yang sama seperti CurrentBody Series 2, dan jejak dokumentasi klinis merek ini — yang berakar pada perangkat dermatologi profesional — memberi bobot lebih pada argumen regulasinya dibanding pendatang baru. Sesi 10 menit, bisa dipakai bebas tangan dengan tali kepala. Jumlah LED yang sedikit lebih sedikit dan ketersediaan di ritel yang terbatas adalah kompromi yang harus diterima.",
+      "pros": [
+        "Bersertifikat FDA dengan jejak riset independen terpanjang di kategorinya",
+        "Dua panjang gelombang 633 nm dan 830 nm dalam bentuk silikon lentur",
+        "Rekam jejak merek pada perangkat dermatologi profesional",
+        "Tali kepala bebas tangan memungkinkan mengerjakan hal lain selama sesi 10 menit"
+      ],
+      "cons": [
+        "Jumlah LED sedikit lebih rendah dibanding CurrentBody yang sekelas",
+        "Ketersediaan ritel dan jangkauan pasar jual kembali lebih terbatas"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Untuk yang baru pertama kali membeli alat terapi cahaya rumahan",
+      "offerId": "currentbody-skin-led",
+      "reason": "Favorit dokter kulit dengan dua panjang gelombang, sesi 10 menit yang mudah dijadikan rutinitas, dan nilai jual kembali tinggi jika ternyata tidak cocok dengan keseharian Anda."
+    },
+    {
+      "label": "Untuk yang belum yakin bisa memakainya secara rutin",
+      "offerId": "aduro-7-plus-1",
+      "reason": "Cara masuk paling minim risiko untuk menguji apakah Anda benar-benar memakai masker 4 malam seminggu sebelum membeli perangkat kelas atas."
+    },
+    {
+      "label": "Untuk yang mengutamakan sertifikasi resmi",
+      "offerId": "omnilux-contour-face",
+      "reason": "Bersertifikat FDA dengan jejak riset independen terpanjang di kategori LED rumahan — pilihan yang paling sering direkomendasikan dokter kulit di AS ketika dokumentasi regulasi menjadi pertimbangan."
+    }
+  ]
 }

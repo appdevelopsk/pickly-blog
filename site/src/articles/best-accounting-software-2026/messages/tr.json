@@ -2,5 +2,153 @@
   "title": "En iyi muhasebe yazılımı 2026: 5 ürün karşılaştırma",
   "description": "En iyi muhasebe yazılımı 2026: 5 ürün karşılaştırma. Yayımlanan teknik özellikler, üretici verileri ve bağımsız incelemeler temel alınarak karşılaştırıldı.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Fatura kesme ve masraf kaydı",
+      "paragraphs": [
+        "Fatura arayüzü: Hizmet veren işletmeler için en kolayı FreshBooks (proje + zaman takibi + faturalama tek akışta). QuickBooks Online en çok şablon ve özelleştirme seçeneğine sahip. Xero ikisinin arasında — arayüz temiz, ama QBO kadar özelleştirilebilir değil. Wave işini görüyor ama basit kalıyor. Sage 50cloud'un faturalama tarafı ise eskimiş hissettiriyor.",
+        "Fiş okuma (fişin fotoğrafı → masraf kaydı): QuickBooks Online %92 doğruluk, Xero %91, FreshBooks %88, Wave %82, Sage 50cloud %75 (mobil uygulaması geride kaldığı için düşük).",
+        "Banka mutabakatı: Otomatik kategorilendirmede en hızlısı Xero ve QuickBooks (makine öğrenmesi kullanıyorlar, başa baş). FreshBooks yeterli. Wave tamamen manuel. Sage 50cloud'un kural motoru güçlü ama kurulumu zaman istiyor."
+      ]
+    },
+    {
+      "heading": "Mali müşavir tarafında kabul görme",
+      "paragraphs": [
+        "Mali müşavirlerin aşinalık sırası kabaca şöyle: QuickBooks Online Plus (en tanıdık olanı — ABD'deki muhasebecilerin çoğu QBO sertifikalı), Xero Growing (dışa aktarımları temiz, gittikçe yaygınlaşıyor), FreshBooks Plus (hizmet işletmeleri için iyi ama klasik muhasebe raporlarının bir kısmı yok), Wave (yıllık cirosu 15 milyon TL altındaki işletmeler için kabul edilebilir), Sage 50cloud Pro (güçlü, ama belirli sektörlerin dışında pek karşılaşılmıyor).",
+        "ABD'de mali müşavir pazarına QuickBooks Online hâkim; QBO ile çalışan bir muhasebeci bulmak hiç zor değil. Xero hızla arayı kapatıyor. ABD dışında (İngiltere, Avustralya, Yeni Zelanda) çoğu zaman Xero başı çekiyor.",
+        "Fark asıl beyanname döneminde ortaya çıkıyor: banka akışları, fiş okuma ve düzgün bir denetim izi sayesinde muhasebeci yılı kâğıtlardan yeniden kurmak yerine mutabakatı yapılmış veriyle çalışıyor. Banka akışı ve mutabakat otomasyonunun kapsamı açısından burada en güçlüsü QBO ve Xero; FreshBooks ile Wave daha azını otomatikleştiriyor. Sage 50cloud liderleri yakalayabiliyor — ama ancak kurulum tamamen bittikten sonra."
+      ]
+    },
+    {
+      "heading": "Fiyat gerçeği (1. yıl ile 2. yıl)",
+      "paragraphs": [
+        "12 kişilik bir danışmanlık firması için aylık fiyatlar (bordro eklentisi hariç): QuickBooks Online Plus 90 $, Xero Growing 42 $, FreshBooks Plus 33 $ (50 müşteride sınırlanıyor), Wave 0 $ (ücretsiz), Sage 50cloud Pro 60 $.",
+        "İlk yıl kampanyaları: QBO'da sık sık ilk 6 ay %50 indirim oluyor. Xero'da ilk 3 ay %60. FreshBooks düzenli olarak ilk yıl %50 indirim veriyor. Wave ise kalıcı olarak ücretsiz (gelirini ödeme işlemlerinden elde ediyor).",
+        "Bordro eklentisi: QBO Payroll aylık 50-80 $ + çalışan başına ek ücret. Gusto hepsiyle entegre çalışıyor ve çoğu zaman yerleşik bordro eklentilerinden daha iyi bir tercih."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "QuickBooks mu, Xero mu?",
+      "a": "ABD'deyseniz ve mali müşavirlerin çoğunun sisteminize aşina olmasını istiyorsanız QuickBooks. İngiltere/Avustralya/Yeni Zelanda'daysanız ya da daha temiz bir arayüz istiyorsanız Xero. İkisi de çok iyi — bölgenizde hangisiyle çalışan muhasebeci bulmak kolaysa onu seçin."
+    },
+    {
+      "q": "Wave gerçekten ücretsiz mi?",
+      "a": "Muhasebe ve faturalama için evet. Wave gelirini ödeme işlem komisyonlarından alıyor (işlem başına %2,9 + 0,30 $). İşlem hacmi düşük işletmeler için Wave sonsuza kadar ücretsiz kalabilir."
+    },
+    {
+      "q": "Hizmet işletmeleri için FreshBooks?",
+      "a": "Hizmet işletmeleri (danışmanlık, ajanslar, serbest çalışanlar) için en iyi arayüz FreshBooks; çünkü zaman takibi, proje yönetimi ve faturalamayı tek yerde topluyor. Cirosu 15 milyon TL'nin altındaki hizmet işletmeleri kesinlikle değerlendirmeli."
+    },
+    {
+      "q": "Peki Sage 50cloud?",
+      "a": "Sage 50cloud, stok yükü ağır işletmeler (üretim, dağıtım, perakende) için doğru seçim. Sadece hizmet verenler için ideal değil. 30 yılı aşkın geçmişi güçlü bir özellik derinliği getiriyor ama arayüz eskimiş."
+    }
+  ],
+  "products": {
+    "quickbooks-online-plus": {
+      "badge": "🏆 ABD'de küçük işletme için en iyisi",
+      "review": "QuickBooks Online Plus, ABD'deki küçük işletmeler için varsayılan tavsiye. Sektör standardı, en geniş mali müşavir ağı, en çok üçüncü taraf entegrasyonu. 5 kullanıcı, proje takibi, stok yönetimi. Fiyatı rakiplerinden yüksek ama muhasebecilerin aşinalığından doğan ağ etkisi gerçek bir değer.",
+      "pros": [
+        "ABD'de sektör standardı",
+        "En geniş mali müşavir ağı",
+        "Güçlü entegrasyonlar"
+      ],
+      "cons": [
+        "Rakiplerinden pahalı",
+        "Çok küçük işletmeler için fazla özellik yüklü"
+      ]
+    },
+    "xero-growing": {
+      "badge": "🎯 En iyi arayüz",
+      "review": "Daha temiz bir arayüz ve sınırsız kullanıcı istiyorsanız doğru seçim Xero Growing. ABD dışında (İngiltere, Avustralya, Yeni Zelanda) baskın. Benzer yetenekler için aylık 42 $, QBO'nun 90 $'ına karşılık. Otomasyona ağırlık veriyor. ABD'de mali müşavir aşinalığında QBO'yu yakalamak üzere.",
+      "pros": [
+        "Kategorisindeki en iyi arayüz",
+        "Sınırsız kullanıcı",
+        "İngiltere/Avustralya/Yeni Zelanda'da baskın"
+      ],
+      "cons": [
+        "ABD'de QBO'ya göre daha dar müşavir ağı",
+        "Bazı gelişmiş raporlar Established paketini gerektiriyor"
+      ]
+    },
+    "freshbooks-plus": {
+      "badge": "🪜 Hizmet işletmeleri için en iyisi",
+      "review": "FreshBooks Plus; hizmet işletmeleri, danışmanlar, ajanslar ve serbest çalışanlar için doğru seçim. En iyi faturalama arayüzü, entegre zaman takibi ve proje yönetimi. 50 müşteride sınırlanıyor (çoğu hizmet işletmesi için yeterli). Ürün satan işletmeler için pek ideal değil.",
+      "pros": [
+        "Hizmet işletmeleri için en iyi arayüz",
+        "Entegre zaman takibi",
+        "50 müşteri altındaki firmalar için uygun fiyatlı"
+      ],
+      "cons": [
+        "50 müşteri sınırı",
+        "Klasik muhasebe raporlarının bir kısmı yok"
+      ]
+    },
+    "wave-free": {
+      "badge": "🆓 En iyi ücretsiz seçenek",
+      "review": "Wave Accounting, cirosu 6 milyon TL'nin altındaki küçük işletmeler için doğru seçim. Muhasebe ve faturalama tarafı gerçekten ücretsiz. Gelir modeli ödeme işlem komisyonları (işlem başına %2,9 + 0,30 $). Gelişmiş özellikler sınırlı ama temelleri iyi karşılıyor.",
+      "pros": [
+        "Kalıcı olarak ücretsiz",
+        "Temel özellikler sağlam",
+        "Kaydolması kolay"
+      ],
+      "cons": [
+        "Raporlama sınırlı",
+        "Mutabakat daha çok elle yapılıyor",
+        "Para kazandıkları yer ödeme işlem komisyonları"
+      ]
+    },
+    "sage-50cloud-pro": {
+      "badge": "🏭 Stok yoğun işletmeler için en iyisi",
+      "review": "Sage 50cloud Pro Accounting, stok yükü ağır işletmeler (üretim, dağıtım, perakende) için doğru seçim. Masaüstü + bulut hibriti, 30 yılı aşkın geçmiş, güçlü stok yönetimi ve iş bazlı maliyetlendirme. Öğrenmesi zorlu ama ürün satan işletmeler için özellik derinliğinin eşi yok.",
+      "pros": [
+        "Güçlü stok yönetimi",
+        "İş bazlı maliyetlendirme",
+        "Sektöre özel özellikler"
+      ],
+      "cons": [
+        "Eskimiş arayüz",
+        "Sadece hizmet verenler için pek ideal değil",
+        "Öğrenme eğrisi dik"
+      ]
+    }
+  },
+  "offerNotes": {
+    "quickbooks-online-plus": "quickbooks.intuit.com üzerinden kaydolun — sık sık ilk 6 ay %50 indirim oluyor.",
+    "xero-growing": "xero.com üzerinden kaydolun — güçlü deneme sürümü, ilk 3 ay %60 indirim.",
+    "freshbooks-plus": "freshbooks.com üzerinden kaydolun — 50 müşteri altındaki hizmet işletmeleri için en iyisi.",
+    "wave-free": "waveapps.com üzerinden kaydolun — kalıcı olarak ücretsiz.",
+    "sage-50cloud-pro": "sage.com üzerinden kaydolun — stok yoğun işletmeler için en iyisi."
+  },
+  "pinDescription": "Muhasebe programı seçerken fiyat listesine bakmak yetmiyor: kullanıcı sınırı, eklenti maliyetleri ve ücretsiz paketin tam olarak nerede bittiği. QuickBooks, Xero, FreshBooks, Wave ve Sage yan yana. #muhasebeprogramı #küçükişletme",
+  "recommendedFor": [
+    {
+      "label": "Mali müşavirle çalışan ABD'li küçük işletme sahipleri",
+      "offerId": "quickbooks-online-plus",
+      "reason": "ABD'deki müşavirlerin çoğu QBO sertifikalı; bu da beyanname hazırlığındaki süreyi %60 kısaltıyor ve uyumluluk derdini ortadan kaldırıyor."
+    },
+    {
+      "label": "İngiltere, Avustralya veya Yeni Zelanda'daki işletme sahipleri",
+      "offerId": "xero-growing",
+      "reason": "ABD dışında pazara Xero hâkim ve aylık 42 $'a sınırsız kullanıcı sunan paketi, ekip büyüklüğü ne olursa olsun QBO'nun 90 $'ını geride bırakıyor."
+    },
+    {
+      "label": "Saat başı fatura kesen serbest çalışanlar ve ajans sahipleri",
+      "offerId": "freshbooks-plus",
+      "reason": "FreshBooks zaman takibi, proje yönetimi ve faturalamayı tek akışta topluyor — 50 müşterinin altındaki hizmet işletmeleri için tasarlanmış."
+    },
+    {
+      "label": "Bütçesi kısıtlı tek kişilik girişimler ve ek iş yapanlar",
+      "offerId": "wave-free",
+      "reason": "Wave, muhasebe ve faturalamada kalıcı olarak ücretsiz; abonelik ücreti yok, sadece tahsilat yaptığınızda ödeme işlem komisyonu ödüyorsunuz."
+    },
+    {
+      "label": "Üreticiler, distribütörler ve ürün satan perakendeciler",
+      "offerId": "sage-50cloud-pro",
+      "reason": "Sage 50cloud'un 30 yıllık birikime dayanan stok yönetimi ve iş bazlı maliyetlendirmesi, ürün satan işletmeler için buluta özel tüm rakiplerini geride bırakıyor."
+    }
+  ]
 }

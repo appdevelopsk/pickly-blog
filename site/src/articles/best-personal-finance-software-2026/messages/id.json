@@ -2,5 +2,161 @@
   "title": "Software Keuangan Pribadi Terbaik 2026",
   "description": "Kami membandingkan YNAB, Monarch Money, Quicken Simplifi, Empower, Tiller. Inilah perangkat lunak keuangan pribadi 2026 yang benar-benar unggul dalam hal keandalan sinkronisasi bank dan metodologi anggaran.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Keandalan sinkronisasi bank",
+      "paragraphs": [
+        "Monarch Money mendapat laporan sinkronisasi paling konsisten di antara kelima layanan ini. Koneksi ulang tetap terjadi, tetapi pengguna menggambarkannya sebagai hal sesekali, bukan rutin.",
+        "YNAB menyusul di belakangnya. Chase dan Capital One adalah koneksi yang paling sering dilaporkan pengguna harus diotorisasi ulang.",
+        "Quicken Simplifi menuai keluhan koneksi ulang terbanyak dalam kelompok ini, dengan koneksi Bank of America paling sering disebut.",
+        "Empower Personal Dashboard paling kuat pada rekening investasi; pengguna melaporkan koneksi rekening giro dan kartu kredit sebagai sisi yang lebih lemah.",
+        "Tiller Money: sinkronisasi bank lewat Plaid setara dengan Monarch. Masalahnya, Tiller menulis data ke Google Sheets, yang menambah satu lapisan kerapuhan bagi pengguna yang tidak terbiasa dengan spreadsheet."
+      ]
+    },
+    {
+      "heading": "Metode penyusunan anggaran",
+      "paragraphs": [
+        "YNAB menerapkan zero-based budgeting — setiap rupiah punya tugas sebelum Anda membelanjakannya. Ini pendekatan paling disiplin dan paling efektif untuk mengubah kebiasaan, tetapi menuntut pengecekan harian. Kurva belajarnya paling curam.",
+        "Monarch dan Simplifi memakai anggaran berbasis kategori (tetapkan batas per kategori, lalu pantau realisasinya). Lebih mudah diterapkan, tetapi perubahan perilakunya lebih kecil.",
+        "Empower berfokus pada pelacakan kekayaan bersih dan investasi, bukan penganggaran itu sendiri. Paling cocok bagi investor yang pengeluarannya sudah terkendali.",
+        "Tiller menulis data ke Google Sheets dan membiarkan Anda menyusun metode apa pun yang Anda inginkan. Fleksibilitas maksimal, panduan minimal."
+      ]
+    },
+    {
+      "heading": "Pilihan terbaik untuk tiap kebutuhan",
+      "paragraphs": [
+        "Terbaik untuk penganggar serius: YNAB seharga $109/tahun (sekitar Rp1,7 juta). Zero-based budgeting benar-benar mengubah pola belanja. Sepadan dengan kurva belajarnya yang curam.",
+        "Pengganti Mint terbaik: Monarch Money seharga $99/tahun (sekitar Rp1,55 juta). Pengalaman pemakaian mirip Mint, pengembangan aktif, berbagi akun rumah tangga, tanpa iklan. Pilihan default bagi sebagian besar mantan pengguna Mint.",
+        "Terbaik dari sisi harga: Quicken Simplifi seharga $48/tahun (sekitar Rp750 ribu). Fitur anggaran yang solid di harga berbayar termurah.",
+        "Terbaik untuk investor: Empower Personal Dashboard, gratis. Fokusnya pada kekayaan bersih dan perencanaan pensiun, bukan anggaran per pos.",
+        "Terbaik untuk penggemar spreadsheet: Tiller Money seharga $79/tahun (sekitar Rp1,24 juta). Fleksibilitas maksimal lewat Google Sheets. Pilih ini hanya jika Anda memang menikmati bekerja dengan spreadsheet."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Mengapa Mint ditutup?",
+      "a": "Intuit (induk Mint) menggabungkannya ke Credit Karma (juga milik Intuit). Fitur penganggaran Credit Karma terbatas — pengguna Mint sebagian besar pindah ke Monarch (beberapa mantan karyawan Mint bergabung ke sana) atau YNAB."
+    },
+    {
+      "q": "Apakah YNAB sepadan dengan $109/tahun?",
+      "a": "Ya, jika Anda memakainya setiap hari dan mengikuti metode zero-based. Perubahan kebiasaan ini biasanya menghemat lebih dari $1.000 pada tahun pertama. Kalau Anda hanya mengeceknya seminggu sekali tanpa mengubah kebiasaan, Simplifi seharga $48 sudah cukup."
+    },
+    {
+      "q": "Apakah Empower yang gratis sebaik layanan berbayar?",
+      "a": "Untuk pelacakan investasi dan kekayaan bersih, ya — Empower sangat baik. Untuk anggaran per pos dan pengelolaan kategori, tidak — fiturnya masih dasar. Pakai Empower bersama Monarch jika Anda menginginkan keduanya."
+    },
+    {
+      "q": "Apakah aman menghubungkan alat ini ke rekening bank saya?",
+      "a": "Kelimanya memakai Plaid (atau yang serupa) dengan OAuth baca-saja — mereka tidak bisa menarik dana. Keamanan Plaid setara standar perbankan. Risikonya ada pada pembajakan akun lewat login layanan itu sendiri, jadi gunakan kata sandi kuat yang unik plus autentikasi dua faktor."
+    }
+  ],
+  "products": {
+    "ynab-budgeting": {
+      "badge": "🏆 Terbaik untuk penganggar serius",
+      "review": "YNAB (You Need a Budget) adalah pilihan tepat kalau Anda benar-benar mau menjalaninya. Metode zero-based budgeting — setiap rupiah punya tugas sebelum dibelanjakan — memang mengubah perilaku. Pengguna umumnya melaporkan penurunan tajam pada pengeluaran yang 'tidak jelas ke mana' dalam beberapa bulan pertama. Konsekuensinya: perlu pengecekan harian dan kurva belajar 4–6 minggu. Harga $109/tahun adalah yang tertinggi di sini. Jika dipakai konsisten, inilah nilai terbaik dalam perbandingan ini dari sisi imbal hasil.",
+      "pros": [
+        "Zero-based budgeting mengubah pola belanja",
+        "Materi edukasi terbaik (workshop gratis, podcast)",
+        "Komunitas aktif yang kuat"
+      ],
+      "cons": [
+        "Kurva belajar paling curam (4–6 minggu)",
+        "Perlu pengecekan harian agar manfaatnya penuh",
+        "$109/tahun adalah yang termahal"
+      ]
+    },
+    "monarch-money": {
+      "badge": "🪟 Pengganti Mint terbaik",
+      "review": "Monarch Money adalah pilihan default yang jelas setelah era Mint. Didirikan oleh mantan karyawan Mint, tampilannya terasa mirip Mint tanpa iklan (Mint sebelum ditutup penuh sesak tawaran kartu kredit). Sinkronisasi bank kuat, ada berbagi akun rumah tangga, kategori kustom, dan pelacakan investasi yang bagus. $14,99/bulan atau $99/tahun. Posisinya sebagai layanan serba bisa berarti banyak hal dikerjakan dengan baik, tetapi tak ada yang menjadi keunggulan khusus.",
+      "pros": [
+        "Antarmuka mirip Mint tanpa iklan",
+        "Sinkronisasi bank paling konsisten dari kelimanya menurut laporan pengguna",
+        "Berbagi akun rumah tangga untuk pasangan dan keluarga"
+      ],
+      "cons": [
+        "$99/tahun berada di kelas menengah",
+        "Metode penganggarannya kurang ketat dibanding YNAB",
+        "Berdiri 2018 (lebih muda dari pesaing lama)"
+      ]
+    },
+    "quicken-simplifi": {
+      "badge": "💸 Terbaik dari sisi harga",
+      "review": "Quicken Simplifi adalah opsi termurah terbaik di $48/tahun ($3,99/bulan bila ditagih tahunan). Ini semacam Quicken Online versi ramping dengan fokus pada anggaran dan sinkronisasi bank. Sinkronisasinya menuai lebih banyak keluhan koneksi ulang dibanding Monarch atau YNAB. Fitur rencana pengeluaran 'watch-list' sangat membantu untuk memantau tagihan berulang. Pelacakan investasinya dangkal dan tidak ada berbagi akun rumah tangga.",
+      "pros": [
+        "$48/tahun adalah harga berbayar termurah",
+        "Fitur watch-list untuk pengeluaran berulang",
+        "Didukung Quicken (dimiliki Aqua Capital)"
+      ],
+      "cons": [
+        "Koneksi ulang sinkronisasi lebih sering daripada Monarch",
+        "Tidak ada berbagi akun rumah tangga",
+        "Pelacakan investasi terbatas"
+      ]
+    },
+    "empower-personal-dashboard": {
+      "badge": "📈 Terbaik untuk investor",
+      "review": "Empower Personal Dashboard (dulu Personal Capital) adalah alat gratis yang tepat bagi investor. Pelacakan kekayaan bersih, perencana pensiun, penganalisis biaya investasi, dan alat alokasi aset semuanya sangat baik. Fitur penganggarannya dasar saja — cukup bagi yang berpenghasilan tinggi dan tidak butuh anggaran per pos tetapi ingin gambaran investasi yang jelas. Empower juga perusahaan manajemen kekayaan; mereka akan menelepon Anda untuk penawaran jika aset yang terlacak melebihi $250.000.",
+      "pros": [
+        "Pelacakan investasi dan pensiun sangat baik",
+        "Gratis",
+        "Alat alokasi aset yang kuat"
+      ],
+      "cons": [
+        "Fitur penganggaran seadanya",
+        "Ada telepon penawaran jika aset terlacak di atas $250.000",
+        "Kurang berfokus pada perubahan kebiasaan belanja"
+      ]
+    },
+    "tiller-money": {
+      "badge": "📊 Terbaik untuk penggemar spreadsheet",
+      "review": "Tiller Money menulis data transaksi hasil sinkronisasi bank harian ke Google Sheets (atau Excel). Dari sana, Anda bisa membangun metode penganggaran apa pun memakai templat siap pakai atau rumus buatan sendiri. $79/tahun. Fleksibilitas maksimal, bimbingan minimal. Paling cocok untuk orang yang memang menikmati kerja spreadsheet — bukan bagi yang mencari aplikasi yang serba rapi. Pustaka templatnya adalah titik awal terbaik; sebagian besar pengguna akhirnya menetap pada lembar ala YNAB atau metode amplop yang disesuaikan sendiri.",
+      "pros": [
+        "Fleksibilitas maksimal lewat Google Sheets",
+        "Pustaka templat yang lengkap",
+        "Sinkronisasi bank harian lewat Plaid"
+      ],
+      "cons": [
+        "Perlu terbiasa dengan spreadsheet",
+        "Tidak ada aplikasi seluler khusus (hanya lewat Sheets mobile)",
+        "Penyiapan awal memakan 2–4 jam"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ynab-budgeting": "Daftar di youneedabudget.com. Uji coba gratis 34 hari. Penagihan tahunan ($109) jauh lebih murah daripada bulanan ($14,99/bulan = $180/tahun). Mahasiswa mendapat gratis satu tahun.",
+    "monarch-money": "Daftar di monarchmoney.com. Uji coba gratis 7 hari. Penagihan tahunan ($99) menghemat $80 dibanding bulanan. Kode promo diskon 30–50% untuk tahun pertama sering beredar.",
+    "quicken-simplifi": "Daftar di quicken.com/simplifi. Jaminan uang kembali 30 hari. Sering didiskon menjadi $24 untuk tahun pertama lewat situs resmi Quicken.",
+    "empower-personal-dashboard": "Daftar di empower.com. Sepenuhnya gratis. Anda akan menerima telepon perkenalan dari penasihat kekayaan jika aset yang terlacak melebihi $250.000 — tolak dengan sopan bila tidak berminat.",
+    "tiller-money": "Daftar di tillerhq.com. Uji coba gratis 30 hari. Hanya tersedia penagihan tahunan ($79). Termasuk akses ke pustaka templat dan Discord komunitas Tiller."
+  },
+  "pinDescription": "Bingung mengatur keuangan setelah Mint tutup? Ini perbandingan YNAB, Monarch Money, Quicken Simplifi, Empower, dan Tiller — dari harga, keandalan sinkronisasi bank, sampai metode anggaran. Simpan pin ini sebelum memilih aplikasi keuanganmu tahun ini.",
+  "recommendedFor": [
+    {
+      "label": "Orang yang fokus melunasi utang dan bertekad mengubah pola belanja",
+      "offerId": "ynab-budgeting",
+      "reason": "Metode zero-based YNAB memaksa setiap rupiah punya tugas, sehingga mendorong perubahan kebiasaan yang dibutuhkan untuk melunasi utang."
+    },
+    {
+      "label": "Mantan pengguna Mint yang mencari pengganti tanpa repot",
+      "offerId": "monarch-money",
+      "reason": "Dibangun mantan karyawan Mint dengan tampilan yang familier, berbagi akun rumah tangga, dan laporan sinkronisasi bank paling konsisten dari kelimanya."
+    },
+    {
+      "label": "Pengguna hemat yang ingin fitur anggaran dasar tanpa bayar mahal",
+      "offerId": "quicken-simplifi",
+      "reason": "Dengan $48/tahun — harga berbayar termurah — Simplifi mencakup kebutuhan anggaran pokok dan pemantauan tagihan berulang dengan biaya terjangkau."
+    },
+    {
+      "label": "Investor berpenghasilan tinggi yang memantau kekayaan bersih dan kesiapan pensiun",
+      "offerId": "empower-personal-dashboard",
+      "reason": "Penganalisis biaya investasi, alat alokasi aset, dan perencana pensiun Empower gratis dan tak tertandingi di harga berapa pun."
+    },
+    {
+      "label": "Pengguna spreadsheet mahir yang ingin kendali anggaran sepenuhnya",
+      "offerId": "tiller-money",
+      "reason": "Tiller mengalirkan data bank harian ke Google Sheets, sehingga Anda bisa membangun sistem anggaran apa pun dengan keleluasaan rumus penuh."
+    }
+  ]
 }

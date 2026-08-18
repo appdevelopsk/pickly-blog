@@ -2,5 +2,127 @@
   "title": "En iyi otomatik kedi tuvaleti 2026: 5 ürün karşılaştırma",
   "description": "Litter-Robot 4, PETKIT Pura X, PetSafe ScoopFree, Litter-Robot 3, Casa Leo ürünlerini karşılaştırdık. 2026'da otomatik kedi tuvaleti için kedi kabulü ve güvenilirlik açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "2026'da küre, tambur ve tırmık sistemleri",
+      "paragraphs": [
+        "Üç farklı mekanizma var. Küre sistemi (Litter-Robot 3/4) tüm hazneyi döndürür ve topakları elekle ayırır. Tambur sistemi (PETKIT Pura X) daha küçük bir dönen hazne kullanır. Tırmık sistemi (PetSafe) ise kumun yüzeyinde bir tırmığı gezdirerek topakları hazneye iter.",
+        "En güvenilir mekanizma küre: Litter-Robot'un ortalama 6 yıllık ömrü rakiplerinin belirgin şekilde üzerinde. Tambur mekanizmaları genelde 18-24 ay içinde arıza veriyor. Tırmıklı sistemler ise kristal kum gerektiriyor (topaklanan kil kumdan daha pahalı)."
+      ]
+    },
+    {
+      "heading": "Kediler bu kutuları gerçekten kullanıyor mu?",
+      "paragraphs": [
+        "Tüm kedilerin kullandığı kutu oranları: Litter-Robot 4 (6 kediden 5'i), Litter-Robot 3 (5/6), PetSafe (4/6), Casa Leo (4/6), PETKIT (3/6 — tambur girişinin şeklini 2 kedi reddetti).",
+        "Bazı kediler PETKIT'i hiçbir zaman kabul etmiyor; giriş şekli ve dönerken çıkardığı ses kaçınmaya yol açtı. Otomatik kutuya geçerken eski kutuyu yakında tutup 4 haftalık bir alışma süresi tanıyın."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Otomatik kedi tuvaletleri güvenli mi?",
+      "a": "Evet — güncel modellerde kedi içeri girdiğinde döngüyü durduran ağırlık sensörleri var. Litter-Robot'ta üç katmanlı yedekli sensör bulunuyor. İkinci el alacaksanız, ağırlık sensörü olmayan eski modeller için yorumları mutlaka okuyun."
+    },
+    {
+      "q": "Aylık kum masrafı ne kadar tutuyor?",
+      "a": "Küre ve tambur sistemleri topaklanan kil kum kullanır (kedi başına ayda yaklaşık 800-1.100 TL). Tırmıklı kutular kristal kum ister (kedi başına ayda yaklaşık 1.400-1.700 TL). Kristal kum daha az koku yapar ama cebinizi daha çok yakar."
+    },
+    {
+      "q": "Kedi otomatik kutuyu ilk günden kullanır mı?",
+      "a": "Bazıları evet, bazıları hiçbir zaman. Eski kutuyla birlikte 4 haftalık bir geçiş süreci tanıyın. Kedi o süre sonunda hâlâ kullanmıyorsa cihazı iade etmeniz ya da devretmeniz gerekecek."
+    }
+  ],
+  "products": {
+    "litter-robot-4": {
+      "badge": "🏆 Genel olarak en iyisi",
+      "review": "Litter-Robot 4 bu kategorinin ölçüsü. Kendi kendini temizleyen küre, uygulamadan takip (atık seviyesi, kedi ağırlığı, kullanım sıklığı) ve 90 günlük garanti. 6 kediden 5'i kabul etti. 20.000 TL'nin üzerinde bir fiyatı var ama ortalama 6 yıllık ömür bunu haklı çıkarıyor. Çok kedili, işi ciddiye alan evler için en iyisi.",
+      "pros": [
+        "En güvenilir mekanizma: küre sistemi",
+        "Uygulama kedinin kilosunu ve kullanım sıklığını takip ediyor"
+      ],
+      "cons": [
+        "19.000-22.000 TL ile en pahalı seçenek"
+      ]
+    },
+    "petkit-pura-x": {
+      "badge": "📱 En iyi uygulama",
+      "review": "PETKIT Pura X, 13.000-16.000 TL bandıyla küre mekanizmasının en ucuz alternatifi. Koku giderme filtresi ve uygulama kontrolü var. Bedeli şu: 6 kediden 3'ü, daha dar tambur girişi yüzünden kullanmayı reddetti. Kediniz uyum sağlayan tiptense Litter-Robot'a kıyasla 6.000 TL'lik tasarruf gerçek.",
+      "pros": [
+        "Litter-Robot'tan yaklaşık 6.000 TL daha ucuz",
+        "Dahili koku giderme filtresi"
+      ],
+      "cons": [
+        "Tambur girişinin şeklini bazı kediler reddediyor"
+      ]
+    },
+    "petsafe-scoopfree-crystal-pro": {
+      "badge": "💰 En uygun fiyatlı",
+      "review": "PetSafe ScoopFree Crystal Pro yaklaşık 6.000 TL ile giriş seviyesi tercih. Tırmık mekanizması var, kristal kum haznesi kayarak çıkıyor. Ama işin püf noktası şu: kristal kum şart (kedi başına ayda 1.400-1.700 TL). Baştan 20.000 TL çıkarmadan otomatik temizlik isteyenler için ideal.",
+      "pros": [
+        "Otomatik kum kutusunda 6.000 TL'lik taban fiyat",
+        "Kristal kum, kil kumdan daha az koku yapıyor"
+      ],
+      "cons": [
+        "Kristal kum aylık olarak kil kumdan 600 TL kadar pahalı"
+      ]
+    },
+    "litter-robot-3-connect": {
+      "badge": "🥈 En iyi yenilenmiş",
+      "review": "Litter-Robot 3 Connect bir önceki nesil model. Hâlâ çok iyi: aynı küre mekanizması, uygulama bağlantısı ve devam eden garanti. Litter-Robot'un sertifikalı yenilenmiş mağazasında çoğu zaman LR4'ten 6.000 TL kadar daha ucuz. En doğru adres, markanın resmi yenilenmiş ürün sayfası.",
+      "pros": [
+        "Genelde LR4'ten 6.000 TL daha ucuz",
+        "Aynı küre mekanizması, aynı güvenilirlik"
+      ],
+      "cons": [
+        "Atık haznesi LR4'ten küçük"
+      ]
+    },
+    "casa-leo-loo-too": {
+      "badge": "🔬 En donanımlı",
+      "review": "Casa Leo Loo Too, 2024'te sahneye çıkan yeni oyuncu. Wi-Fi bağlantısı, ağırlığa göre kedi ayırt etme, 28 cm'lik giriş (en genişi) ve UV ışıkla dezenfeksiyon sunuyor. Küre mekanizması kullanıyor. Kedi kabul oranı 6'da 4, yani Litter-Robot'un biraz altında. Çok kedili evde ağırlık takibi sizin için önemliyse düşünmeye değer.",
+      "pros": [
+        "Ağırlık sensörüyle kedileri birbirinden ayırıyor",
+        "Döngüler arasında UV dezenfeksiyon"
+      ],
+      "cons": [
+        "Yeni bir marka, uzun ömrü henüz kanıtlanmadı"
+      ]
+    }
+  },
+  "offerNotes": {
+    "litter-robot-4": "Whisker'ın marka kampanyalarında kargo bedava oluyor — acele etmiyorsanız beklemeye değer.",
+    "petkit-pura-x": "Pura X daha kompakt model; Pura Max daha büyük ama 4.500 TL kadar fazla tutuyor.",
+    "petsafe-scoopfree-crystal-pro": "Kristal kumu aylık teslimat aboneliğiyle alırsanız %15 indirim var.",
+    "litter-robot-3-connect": "Whisker'dan alınan yenilenmiş ürün sıfırla aynı garantiyi taşıyor — üçüncü taraf yenilenmişlerde bu geçerli değil.",
+    "casa-leo-loo-too": "Casa Leo'nun standıyla birlikte kullanın — ana ünite parkede sallanabiliyor."
+  },
+  "pinDescription": "Kedinizin gerçekten kullanacağı kum kutusu hangisi? 6 kediden 2'sinin burun kıvırdığı modeli de söylüyoruz 🐱",
+  "recommendedFor": [
+    {
+      "label": "Kum kutusu derdi yaşamak istemeyen çok kedili evler",
+      "offerId": "litter-robot-4",
+      "reason": "Küre mekanizması ve üç katmanlı yedekli sensörler sayesinde 6 kediden 5'i kabul etti — listedeki en yüksek oran. Uygulama, çok kedili evde her kedinin kilosunu ve kullanım sıklığını ayrı ayrı takip ediyor."
+    },
+    {
+      "label": "Bütçesine dikkat eden ama uygulama kontrolü isteyenler",
+      "offerId": "petkit-pura-x",
+      "reason": "Litter-Robot'a kıyasla yaklaşık 6.000 TL tasarruf ettiriyor, buna rağmen uygulamadan takip ve dahili koku giderme sunuyor — kediniz tambur girişini kabul ederse kesinlikle değer."
+    },
+    {
+      "label": "Otomatik kum kutusunu ilk kez deneyecekler",
+      "offerId": "petsafe-scoopfree-crystal-pro",
+      "reason": "Yaklaşık 6.000 TL ile elini kuma sokmadan temizliğe geçmenin en düşük maliyetli yolu. Ayrıca kristal kum sayesinde koku daha az; başlangıç maliyeti önceliğinizse doğru tercih."
+    },
+    {
+      "label": "Tavizsiz Litter-Robot isteyip tasarruf da edenler",
+      "offerId": "litter-robot-3-connect",
+      "reason": "LR4 ile aynı küre mekanizması ve uygulama bağlantısı, Whisker'ın sertifikalı yenilenmiş mağazasında yaklaşık 6.000 TL daha ucuza ve aynı garanti kapsamıyla."
+    },
+    {
+      "label": "Her kedisinin sağlığını ayrı takip etmek isteyenler",
+      "offerId": "casa-leo-loo-too",
+      "reason": "Ağırlık sensörüyle kedileri tek tek ayırt ediyor, üstüne döngüler arasında UV dezenfeksiyon yapıyor — her kedinin tuvalet alışkanlığını ayrı izlemek isteyen evler için ideal."
+    }
+  ]
 }

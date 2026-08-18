@@ -2,5 +2,145 @@
   "title": "2026'nın en iyi blazer: 5 ürün karşılaştırma",
   "description": "Suitsupply, Spier & Mackay, Brooks Brothers, Thom Browne, J.Crew ürünlerini karşılaştırdık. 2026'da blazer için yapı ve kesim değeri açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Yapım kalitesi seviyeleri",
+      "paragraphs": [
+        "Tam tela (Thom Browne, Brooks Brothers Fitzgerald): kumaş katmanları arasına elde dikilmiş at kılı tela. En iyi dökümü verir, 10 yılı aşkın ömrü vardır. 55.000 TL ve üzeri.",
+        "Yarım tela (Suitsupply, Spier & Mackay): tela yalnızca göğüs bölgesinde, altı yapıştırma. Orta segment. 15.000-25.000 TL.",
+        "Yapıştırma (J.Crew Ludlow): baştan sona yapıştırma yapım. En ucuzu ama 5 yıldan sonra katmanlar ayrılabiliyor."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi",
+      "paragraphs": [
+        "En iyi fiyat/performans: Suitsupply Jort (20.000-25.500 TL). İtalyan yünü, bu fiyata yarım tela.",
+        "İtalyan kumaşta en iyi değer: Spier & Mackay Flannel (13.000-15.500 TL). İtalyan flanel, aracısız satış fiyatı.",
+        "En iyi klasik miras: Brooks Brothers Fitzgerald (18.000-25.500 TL). Tam tela seçeneği, köklü Amerikan geleneği.",
+        "En iyi tasarımcı seçeneği: Thom Browne (72.000 TL ve üzeri). İmza 4 çizgili kol şeridi, kısaltılmış kalıp.",
+        "En iyi orta segment: J.Crew Ludlow (12.500-18.000 TL). Güvenilir ofis blazerı."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Tam tela mı, yarım tela mı?",
+      "a": "Tam tela daha güzel döküm verir ve 10 yıldan fazla dayanır. Yarım tela yeterince iyi döküm verir, 5-7 yıl gider. Yapıştırma en alt seviyedir ve katmanları ayrılabilir."
+    },
+    {
+      "q": "Suitsupply gerçekten adına yakışıyor mu?",
+      "a": "Evet — 20.000-25.500 TL'ye İtalyan yünü ve yarım tela ile terzilikte fiyat/kalite dengesinin en iyisi. Üstelik çoğu alışverişte mağaza içi tadilat ücretsiz."
+    },
+    {
+      "q": "Blazerı kotla giyebilir miyim?",
+      "a": "Blazer yapılandırılmamışsa (vatkasız) ve kot koyu ya da ham denimse evet. Yapılandırılmış takım ceketlerini kotla kombinlemeyin — takımdan ayrılmış ceket gibi duruyor."
+    },
+    {
+      "q": "Ismarlama diktirmeli miyim?",
+      "a": "Sadece beden kalıbınız standart dışıysa ve bütçeniz (90.000 TL üzeri) uygunsa. İnsanların %90'ı için ölçüye göre üretim (Proper Cloth, Suitsupply) kalıp ve maliyet arasındaki doğru denge."
+    }
+  ],
+  "products": {
+    "suitsupply-jort-blazer": {
+      "badge": "🏆 En iyi fiyat/performans",
+      "review": "Suitsupply Jort, fiyatına göre en kaliteli blazer. İtalyan yünü, yarım tela yapım, dar İtalyan kesim. 20.000-25.500 TL'lik etiketiyle tam telalı tasarımcı blazerlarının yarı fiyatına, yapım kalitesinin %80'ini veriyor. Suitsupply mağazalarında tadilat ücretsiz.",
+      "pros": [
+        "İtalyan yünü, yarım tela",
+        "20.000-25.500 TL ile en iyi değer",
+        "Suitsupply mağazalarında ücretsiz tadilat"
+      ],
+      "cons": [
+        "Yarım tela (tam tela değil)",
+        "Dar İtalyan kesim her vücut tipine oturmayabilir"
+      ]
+    },
+    "spier-mackay-flannel-blazer": {
+      "badge": "🇨🇦 Aracısız satışta en iyi değer",
+      "review": "Spier & Mackay Flannel Blazer, aracısız satışta doğru tercih. İtalyan flanel, yarım tela, Toronto merkezli ve fiyatlaması gayet iddialı. Suitsupply kadar tanınmıyor ama kalitesi onunla yarışıyor.",
+      "pros": [
+        "İtalyan flanel",
+        "Aracısız satış fiyatı",
+        "Yarım tela yapım"
+      ],
+      "cons": [
+        "Marka bilinirliği düşük",
+        "Toronto dışında yalnızca online"
+      ]
+    },
+    "brooks-brothers-fitzgerald-blazer": {
+      "badge": "🇺🇸 En köklü marka",
+      "review": "Brooks Brothers Fitzgerald Blazer, Amerikan klasiğini arayanın seçimi. İtalyan yünü, dar Fitzgerald kalıbı, köklü bir gelenek. Brooks Brothers'ın en iyi dar kesimi. Üst segmentte tam tela seçeneği de var.",
+      "pros": [
+        "İtalyan yünü",
+        "Dar Fitzgerald kalıbı",
+        "Köklü Amerikan markası"
+      ],
+      "cons": [
+        "18.000-25.500 TL ile orta-üst segment",
+        "Marka yakın zamanda el değiştirdi"
+      ]
+    },
+    "thom-browne-classic-blazer": {
+      "badge": "👑 En iyi tasarımcı seçeneği",
+      "review": "Thom Browne Classic Blazer tasarımcı tercihi. Yün kumaş, kolda imza 4 çizgili şerit, kısaltılmış kalıp, İtalya üretimi. Yüksek fiyat hem tasarımcı etiketini hem İtalyan işçiliğini yansıtıyor. Dikkat çeken bir parça.",
+      "pros": [
+        "İkonik 4 çizgili şerit",
+        "Kısaltılmış kalıp, ayırt edici siluet",
+        "İtalyan işçiliği"
+      ],
+      "cons": [
+        "72.000 TL üzeri premium fiyat",
+        "Kısaltılmış kalıp herkese göre değil"
+      ]
+    },
+    "jcrew-ludlow-blazer": {
+      "badge": "🪟 En iyi orta segment",
+      "review": "J.Crew Ludlow Slim Blazer, güvenilir orta segment ofis blazerı. İtalyan yünü, dar Ludlow kesimi, sık sık 11.000 TL civarına iniyor. Ludlow on yılı aşkın süredir J.Crew'un en iyi blazerı.",
+      "pros": [
+        "İtalyan yünü kumaş",
+        "Dar Ludlow kesimi",
+        "Sık sık 11.000 TL'ye düşüyor"
+      ],
+      "cons": [
+        "Yapıştırma yapım (yarım telaya kıyasla)",
+        "İndirim fiyatı çok değişkenlik gösteriyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "suitsupply-jort-blazer": "suitsupply.com üzerinden veya mağazadan alınabilir. Jort dar/oturan kesim; Lazio daha rahat kalıplı.",
+    "spier-mackay-flannel-blazer": "spierandmackay.com üzerinden alınabilir. Toronto merkezli aracısız satış; yurt dışına kargo yapıyor.",
+    "brooks-brothers-fitzgerald-blazer": "brooksbrothers.com üzerinden alınabilir. Fitzgerald en dar kesim; Madison daha rahat.",
+    "thom-browne-classic-blazer": "Thom Browne butiklerinden veya yetkili lüks perakendecilerden alınabilir.",
+    "jcrew-ludlow-blazer": "jcrew.com üzerinden satılıyor. Ludlow dar kesim; Crosby daha rahat kalıplı."
+  },
+  "pinDescription": "Doğru blazer nasıl seçilir? Tam tela mı yarım tela mı, hangi kesim kime yakışır, hangi fiyata ne alınır — Suitsupply'dan Thom Browne'a 5 model tek tek karşılaştırıldı. 2026 rehberi.",
+  "recommendedFor": [
+    {
+      "label": "Bütçesini zorlamadan şık giyinen ofis çalışanları",
+      "offerId": "suitsupply-jort-blazer",
+      "reason": "20.000-25.500 TL'ye İtalyan yünü ve yarım tela, üstüne ücretsiz mağaza tadilatı: fazla ödemeden toplantıya hazır bir kalıp."
+    },
+    {
+      "label": "İlk kaliteli blazerını internetten alacak uzaktan çalışanlar",
+      "offerId": "spier-mackay-flannel-blazer",
+      "reason": "Aracısız satış fiyatıyla İtalyan flanel ve yarım tela; Suitsupply'a yakın kalite, kolay online sipariş ve yurt dışı kargo."
+    },
+    {
+      "label": "Köklü Amerikan markalarına değer veren klasik giyinenler",
+      "offerId": "brooks-brothers-fitzgerald-blazer",
+      "reason": "İtalyan yününden dar Fitzgerald kesimi, yüz yılı aşkın Brooks Brothers geleneğini orta-üst bir fiyata taşıyor."
+    },
+    {
+      "label": "İmza niteliğinde bir parça isteyen moda meraklısı erkekler",
+      "offerId": "thom-browne-classic-blazer",
+      "reason": "Koldaki ikonik 4 çizgili şerit ve İtalya üretimi kısaltılmış siluet, onu ilk bakışta tanınan bir tasarımcı yatırımı yapıyor."
+    },
+    {
+      "label": "Uygun fiyatlı ama güvenilir bir ofis blazerı arayanlar",
+      "offerId": "jcrew-ludlow-blazer",
+      "reason": "İtalyan yününden Ludlow kesimi sık sık 11.000 TL civarına iniyor; terzi işi ofis giyimine en kolay giriş noktası."
+    }
+  ]
 }

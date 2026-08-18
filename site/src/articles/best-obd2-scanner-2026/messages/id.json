@@ -2,5 +2,151 @@
   "title": "scanner OBD2 Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan BlueDriver, Autel, Innova, FOXWELL, BAFX. Inilah scanner OBD2 2026 yang benar-benar unggul dalam hal cakupan sistem dan keandalan penghapusan kode.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Akurasi OBD2 generik (mesin)",
+      "paragraphs": [
+        "Kelima scanner membaca seluruh 90 kode DTC generik dengan benar pada percobaan pertama. Ini memang standar minimum — OBD2 generik sudah menjadi standar sejak 1996 dan semua alat semestinya sanggup menanganinya.",
+        "Laju pengambilan data live berbeda cukup jauh: Autel MK808 di 60 Hz, BlueDriver 30 Hz, Innova 5610 20 Hz, FOXWELL NT301 10 Hz, dan BAFX 5 Hz. Angka Hz yang lebih tinggi berpengaruh saat melacak misfire yang muncul-hilang."
+      ]
+    },
+    {
+      "heading": "Sistem khusus pabrikan",
+      "paragraphs": [
+        "Di titik inilah scanner murah mulai angkat tangan. Kode ABS: Autel MK808 dan BlueDriver membaca kedua belas mobil uji; Innova 5610 membaca 10 dari 12; FOXWELL NT301 hanya mesin (tanpa ABS); BAFX juga hanya mesin.",
+        "Kode SRS (airbag): Autel MK808 membaca kedua belas mobil; BlueDriver 11; Innova 5610 hanya 7; sisanya nol. Akses SRS adalah penentu apakah sebuah alat benar-benar scanner diagnostik atau sekadar pembaca kode.",
+        "Kontrol bidirectional (misalnya memerintahkan pompa ABS untuk proses bleeding): hanya Autel MK808. Tidak ada satu pun yang lain. Kalau Anda mengerjakan servis rem sendiri, MK808 adalah satu-satunya pilihan dari daftar ini."
+      ]
+    },
+    {
+      "heading": "Aplikasi ponsel vs. unit genggam",
+      "paragraphs": [
+        "BlueDriver bekerja lewat Bluetooth dan aplikasi ponsel. Pengalaman aplikasinya terbaik di antara semua alat OBD2 berbasis ponsel: kode yang jelas, data freeze-frame, dan laporan perbaikan yang bersandar pada basis data Bosch. Layar penggantinya adalah ponsel iOS/Android Anda sendiri.",
+        "Autel MK808 berupa tablet genggam 7 inci. Bisa dipakai tanpa ponsel. Investasinya lebih besar (mulai sekitar Rp5,5 juta), tetapi tablet ini sudah termasuk pembaruan software diagnostiknya sendiri selama 2 tahun.",
+        "Innova 5610 adalah unit genggam dengan layar warna kecil. Tanpa aplikasi, dan tetap nyaman dioperasikan sambil memakai sarung tangan. Pilihan tepat bagi yang enggan mengeluarkan ponsel di ruang mesin.",
+        "FOXWELL NT301 berbentuk unit genggam dan BAFX berupa dongle, keduanya di kelas hemat."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Apakah saya perlu scanner yang membaca ABS dan airbag, atau cukup mesin saja?",
+      "a": "Untuk sekadar mematikan lampu check engine, scanner mesin saja sudah cukup. Tetapi untuk lampu peringatan lain (ABS, airbag, traction control), Anda butuh scanner yang bisa membaca sistem tersebut — dari daftar ini berarti Autel MK808 atau BlueDriver."
+    },
+    {
+      "q": "BlueDriver atau Autel MK808 — sebaiknya beli yang mana?",
+      "a": "Pilih BlueDriver kalau pemakaian Anda sesekali dan tak keberatan memakai ponsel, sekitar Rp1,9 juta. Pilih Autel MK808 kalau Anda sering memakainya atau mengerjakan servis rem: sekitar Rp5,5 juta ke atas, genggam, dan bidirectional."
+    },
+    {
+      "q": "Apakah alat ini bisa dipakai pada mobil hybrid dan listrik?",
+      "a": "Untuk kode generik, bisa. Untuk diagnostik baterai hybrid/EV — Autel MK808 mendukung Tesla, BlueDriver membaca data hybrid dasar, sisanya terbatas. Untuk pekerjaan EV yang serius, ada alat khusus tersendiri."
+    },
+    {
+      "q": "Apa bedanya OBD2 dan OBD1?",
+      "a": "OBD2 adalah standar yang berlaku sejak 1996 (di AS). OBD1 masih berbeda-beda tiap pabrikan. Kelima scanner di sini semuanya OBD2. Kalau mobil Anda keluaran sebelum 1996, tak satu pun cocok."
+    }
+  ],
+  "products": {
+    "bluedriver-pro-obdii": {
+      "badge": "🏆 Terbaik berbasis aplikasi",
+      "review": "BlueDriver Professional OBDII adalah scanner yang tepat bagi orang awam yang tetap ingin diagnostik serius. Berupa dongle Bluetooth plus aplikasi iOS/Android. Laporan perbaikannya bersandar pada basis data Bosch berisi solusi umum untuk kombinasi kode dan mobil Anda. Membaca kode ABS, SRS, dan transmisi pada sebagian besar kendaraan. Di harga sekitar Rp1,9 juta, inilah pilihan paling masuk akal.",
+      "pros": [
+        "Aplikasi ponsel terbaik di kelasnya",
+        "Membaca ABS, SRS, dan transmisi",
+        "Laporan perbaikan bersandar pada basis data Bosch"
+      ],
+      "cons": [
+        "Tanpa kontrol bidirectional",
+        "Bergantung pada ponsel (baterai dan layar)"
+      ]
+    },
+    "autel-maxicom-mk808": {
+      "badge": "🔧 Unit genggam terbaik",
+      "review": "Autel MaxiCOM MK808 berada di kelas prosumer. Tablet 7 inci, membaca seluruh sistem pada hampir semua kendaraan keluaran 1996 ke atas, lengkap dengan kontrol bidirectional (memerintahkan pompa ABS, EPB, hingga relearn throttle body). Sudah termasuk pembaruan software 2 tahun. Pilihan tepat kalau Anda mengerjakan sendiri servis rem atau transmisi.",
+      "pros": [
+        "Kontrol bidirectional",
+        "Membaca semua sistem (mesin, ABS, SRS, transmisi)",
+        "Tablet 7 inci dengan pembaruan 2 tahun"
+      ],
+      "cons": [
+        "Investasi mulai sekitar Rp5,5 juta",
+        "Butuh waktu lebih lama untuk terbiasa"
+      ]
+    },
+    "innova-5610": {
+      "badge": "📺 Terbaik tanpa ponsel",
+      "review": "Innova 5610 cocok bagi yang tidak mau repot membuka ponsel di ruang mesin. Unit genggam berlayar warna, dengan OBD2 lengkap plus ABS dan tes aki, ditambah dukungan hotline dari teknisi bersertifikat ASE. Lebih murah dari Autel, tetapi jauh lebih mampu dibanding kelas hemat.",
+      "pros": [
+        "Tidak perlu ponsel",
+        "Termasuk hotline ASE",
+        "ABS dan tes aki"
+      ],
+      "cons": [
+        "Melewatkan SRS pada sebagian kendaraan",
+        "Layar lebih kecil dibanding Autel"
+      ]
+    },
+    "foxwell-nt301": {
+      "badge": "💸 Terbaik untuk mesin saja",
+      "review": "FOXWELL NT301 adalah pilihan tepat kalau Anda hanya butuh kode mesin. Unit genggam berlayar warna, pembaruan gratis seumur hidup, sekitar Rp640 ribu. Tidak membaca ABS maupun SRS. Untuk mematikan lampu check engine dan membaca data freeze-frame, inilah pilihan paling ekonomis.",
+      "pros": [
+        "Pembaruan gratis seumur hidup",
+        "Layar warna",
+        "Genggam, tanpa perlu ponsel"
+      ],
+      "cons": [
+        "Hanya kode mesin (tanpa ABS dan SRS)",
+        "Tanpa kontrol bidirectional"
+      ]
+    },
+    "bafx-products-obd2": {
+      "badge": "💸 Terbaik kelas ultra hemat",
+      "review": "BAFX Products OBD2 Bluetooth Scanner adalah opsi termurah yang masih layak pakai (sekitar Rp400 ribu). Berupa dongle Bluetooth, dipasangkan dengan Torque (Android) atau OBD Fusion (iOS, berbayar). Hanya kode generik — tanpa ABS, SRS, maupun sistem khusus pabrikan. Di bawah Rp500 ribu, ini titik awal yang wajar.",
+      "pros": [
+        "Sekitar Rp400 ribu, ultra hemat",
+        "Kompatibel dengan Torque/OBD Fusion",
+        "Dongle berukuran ringkas"
+      ],
+      "cons": [
+        "Hanya OBD2 generik",
+        "Perlu aplikasi pihak ketiga (Torque dan sejenisnya)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bluedriver-pro-obdii": "Tersedia di amazon.com atau bluedriver.com. Aplikasinya gratis; pembaruan firmware dikirim otomatis.",
+    "autel-maxicom-mk808": "Tersedia di amazon.com atau autel.com. Termasuk pembaruan software gratis 2 tahun; mulai tahun ketiga perlu langganan sekitar Rp650 ribu–1,6 juta per tahun.",
+    "innova-5610": "Tersedia di amazon.com. Aplikasi Repair Solutions bersifat opsional sebagai pelengkap.",
+    "foxwell-nt301": "Tersedia di amazon.com. Pembaruan gratis seumur hidup lewat USB.",
+    "bafx-products-obd2": "Tersedia di amazon.com. Aplikasi Torque Pro (Android, sekitar Rp80 ribu) adalah pasangan yang direkomendasikan."
+  },
+  "pinDescription": "Lampu check engine menyala dan bengkel langsung pasang tarif? Lima scanner OBD2 diuji: mana yang sanggup membaca kode ABS, airbag, dan transmisi, dan mana yang cuma bisa mematikan lampu mesin. Simpan sebelum belanja alat. #obd2 #tipsotomotif",
+  "recommendedFor": [
+    {
+      "label": "Pengemudi biasa yang sekadar ingin mematikan lampu peringatan",
+      "offerId": "bafx-products-obd2",
+      "reason": "Di harga sekitar Rp400 ribu, dongle BAFX membaca dan menghapus kode mesin generik dengan andal — cukup untuk sesekali mengurus lampu check engine."
+    },
+    {
+      "label": "Orang awam yang ingin panduan perbaikan langkah demi langkah di rumah",
+      "offerId": "bluedriver-pro-obdii",
+      "reason": "Laporan perbaikan BlueDriver yang bersandar pada data Bosch menjelaskan arti kodenya serta solusi umum untuk mobil Anda, bukan sekadar menampilkan nomor DTC."
+    },
+    {
+      "label": "Mekanik rumahan yang mengerjakan sendiri servis rem dan transmisi",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "Hanya MK808 yang punya kontrol bidirectional untuk menggerakkan pompa ABS saat bleeding rem dan menarik EPB tanpa alat tambahan."
+    },
+    {
+      "label": "Teknisi dan pemilik bengkel yang menangani banyak mobil setiap hari",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "Tablet mandiri 7 inci ini membaca seluruh sistem pada kendaraan keluaran 1996 ke atas dan sudah termasuk pembaruan software khusus pabrikan selama 2 tahun."
+    },
+    {
+      "label": "Mekanik akhir pekan yang lebih suka unit genggam ketimbang ponsel",
+      "offerId": "innova-5610",
+      "reason": "Layar warna 5610 tetap nyaman dioperasikan dengan sarung tangan, dan hotline bersertifikat ASE membantu Anda mendiagnosis masalah ABS serta aki tanpa mengeluarkan ponsel."
+    }
+  ]
 }

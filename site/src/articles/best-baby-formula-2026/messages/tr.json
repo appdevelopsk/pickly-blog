@@ -2,5 +2,127 @@
   "title": "2026'nın en iyi bebek maması: 5 ürün karşılaştırma",
   "description": "Bobbie, Holle, Kendamil, Similac Pure Bliss, Earth's Best ürünlerini karşılaştırdık. 2026'da bebek maması için içerik kalitesi ve maliyet açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "2026'da AB ve ABD standartları",
+      "paragraphs": [
+        "AB Aşama 1 mamalarında ilave şeker (mısır şurubu katısı yasak), DHA kaynağı (mutlaka belirtilmeli) ve protein bileşimi (peynir altı suyu-kazein oranı zorunlu) konusunda kurallar daha sıkı. ABD'de FDA daha esnek davranıyor — Bobbie'nin AB kriterlerini açıkça karşılayan ilk ABD markası olmasının nedeni de bu.",
+        "İthalat artık daha kolay. Holle ve Kendamil, FDA onaylı kanallar (Organic Start, Organic's Best) üzerinden yasal olarak ithal ediliyor. Yasal statü 2024'te değişti; gri pazar artık tek yol değil."
+      ]
+    },
+    {
+      "heading": "İçerik kalitesi ve maliyet",
+      "paragraphs": [
+        "Şeker kaynağı: Bobbie (organik laktoz), Holle (organik laktoz), Kendamil (organik laktoz + eser miktarda maltodekstrin), Similac Pure Bliss (yalnızca laktoz), Earth's Best (laktoz + glikoz şurubu katıları). Glikoz şurubu katıları yasal ama bazı çocuk doktorları bu maddeye temkinli yaklaşıyor.",
+        "Günde yaklaşık 950 ml tüketimde haftalık maliyet: Earth's Best (35 dolar), Bobbie (42 dolar), Similac Pure Bliss (45 dolar), Kendamil (52 dolar), Holle (58 dolar). Holle ithalat lojistiği nedeniyle en pahalısı, ama içerik listesi bakımından en iyisi."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Avrupa maması ABD mamasından daha mı güvenli?",
+      "a": "\"Daha güvenli\" değil — katkı maddeleri konusunda daha katı. FDA onaylı ABD mamaları da güvenli. Fark, AB'nin ilave şekerler ve DHA kaynağının belirtilmesi konusundaki düzenlemelerinde. Amerikalı çocuk doktorlarının çoğu, sağlıklı bebekler için ikisinin de uygun olduğunu söylüyor."
+    },
+    {
+      "q": "Farklı mama markalarını karıştırabilir miyim?",
+      "a": "Evet — doktorlar markaları dönüşümlü kullanmanın ya da kademeli geçişin güvenli olduğunu söylüyor. Yeni bir markaya geçerken ilk 2 hafta tek markada kalıp toleransı gözlemleyin, sonra rahatça karıştırabilirsiniz."
+    },
+    {
+      "q": "Mamayı ne zaman bırakabilirim?",
+      "a": "Tam yağlı süte geçiş için standart yaş 12 ay. Acele etmeye gerek yok — besin profilini tercih ediyorsanız 12 aydan sonra da mama kullanılabilir (bunun için Aşama 3 devam mamaları var)."
+    }
+  ],
+  "products": {
+    "bobbie-organic": {
+      "badge": "🏆 En iyi ABD üretimi",
+      "review": "Bobbie Organic Infant Formula, AB tariflerini açıkça örnek alan ilk ABD markası. USDA Organic sertifikalı, Avrupa kriterlerine göre hazırlanmış (daha fazla laktoz, organik A2 sütü). FDA denetimli ABD üretimi sayesinde ithalat beklemesi yok. Kutusu 26 dolar, abonelikle kapınıza geliyor. İthalat derdine girmeden AB tarzı mama isteyenler için ideal.",
+      "pros": [
+        "AB tarzı tarif, FDA denetimli üretim",
+        "Abonelikle otomatik teslimat"
+      ],
+      "cons": [
+        "Kutusu 26 dolar; standart ABD mamalarından pahalı"
+      ]
+    },
+    "holle-stage-1-organic": {
+      "badge": "🇪🇺 En premium",
+      "review": "Holle Stage 1 Organic, Alman standardının simgesi. Demeter biyodinamik sertifikalı, maltodekstrin içermiyor, karbonhidrat kaynağı yalnızca organik laktoz. Organic Start üzerinden FDA onayıyla yasal olarak ithal ediliyor. Haftalık 58 dolarla en pahalısı, ama içerik listesi en temizi.",
+      "pros": [
+        "Demeter biyodinamik sertifikası",
+        "Sıfır maltodekstrin ve mısır şurubu"
+      ],
+      "cons": [
+        "Haftalık 58 dolarla en yüksek maliyet"
+      ]
+    },
+    "kendamil-organic": {
+      "badge": "🇬🇧 Tam yağlı süt bazlı en iyisi",
+      "review": "Kendamil Organic Whole Milk, çoğu ABD mamasındaki yağsız süt + bitkisel yağ karışımı yerine tam yağlı süt kullanıyor. FDA onaylı İngiliz üretici, DHA'sı yosun kaynaklı ve bitkisel. ABD'de kolay bulunan, fiyatı premium seviyeye çıkmayan en iyi AB tarzı mama.",
+      "pros": [
+        "Tam yağlı süt bazlı (yağsız süt + yağ karışımı değil)",
+        "Yosundan elde edilen bitkisel DHA"
+      ],
+      "cons": [
+        "İçerik listesinde eser miktarda maltodekstrin var"
+      ]
+    },
+    "similac-pure-bliss": {
+      "badge": "💼 En iyi yaygın seçenek",
+      "review": "Similac Pure Bliss, Abbott'ın üst segment serisi. GDO'suz, süt bazlı, karbonhidratı yalnızca laktoz (mısır şurubu yok), yapay büyüme hormonu içermiyor. ABD'deki büyük zincirlerin hepsinde bulunuyor. Standart Similac'tan daha temiz içerikli, kolay ulaşılabilir bir mama arayanlar için.",
+      "pros": [
+        "Karbonhidratı yalnızca laktoz (mısır şurubu yok)",
+        "ABD marketlerinde her yerde bulunur"
+      ],
+      "cons": [
+        "Organik değil"
+      ]
+    },
+    "earths-best-organic-dairy": {
+      "badge": "💰 En uygun fiyatlı organik",
+      "review": "Earth's Best Organic Dairy, haftalık 35 dolarla USDA Organic dünyasına giriş kapısı. Büyüme hormonu ve pestisit içermiyor, DHA ve ARA ekli. Karşılığında: içerik listesinde glikoz şurubu katıları var — yasal ve yaygın, ama bazı çocuk doktorları bundan hoşlanmıyor.",
+      "pros": [
+        "En uygun fiyatlı USDA Organic seçeneği",
+        "Kolayca bulunuyor"
+      ],
+      "cons": [
+        "İçerik listesinde glikoz şurubu katıları var"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bobbie-organic": "Abonelikte perakende fiyatına göre %10 indirim — en az 3 ay kullanacaksanız kaydolun.",
+    "holle-stage-1-organic": "Aşama 1 (0-6 ay), sonra Aşama 2 (6-10 ay), sonra Aşama 3 (10 ay ve üzeri) — doğru aşamayı aldığınızdan emin olun.",
+    "kendamil-organic": "Kendamil Classic (organik olmayan) haftalık 10 dolar daha ucuz — organik sertifikası dışında içerik listesi neredeyse aynı.",
+    "similac-pure-bliss": "Similac Strong Moms üyeliğine kaydolun; yılda 400 doları aşan kupon çıkıyor.",
+    "earths-best-organic-dairy": "Organic Dairy standart seri — Earth's Best'in ayrıca Sensitivity ve soya bazlı versiyonları da var."
+  },
+  "pinDescription": "Bebek maması seçerken içerik listesini okumak fiyat etiketinden daha çok şey anlatıyor. 5 mamayı AB ve ABD standartlarına göre madde madde karşılaştırdık: hangisinde mısır şurubu var, hangisi tam yağlı süt bazlı, haftalık maliyeti ne kadar? Kaydedin, markette işinize yarar. 🍼",
+  "recommendedFor": [
+    {
+      "label": "İthalat derdine girmeden AB tarzı içerik isteyen ebeveynler",
+      "offerId": "bobbie-organic",
+      "reason": "Bobbie AB kriterlerini karşılıyor ve FDA denetimli bir ABD tesisinden doğrudan gönderiliyor — gümrük gecikmesi ya da gri pazar riski yok."
+    },
+    {
+      "label": "Mümkün olan en temiz içerik listesini arayan sağlık odaklı ebeveynler",
+      "offerId": "holle-stage-1-organic",
+      "reason": "Holle'nin Demeter biyodinamik sertifikası ve sıfır maltodekstrin içeriği, onu ABD'de bulunabilen en katı standartlı mama yapıyor."
+    },
+    {
+      "label": "Anne sütünden geçişte daha yüksek yağ oranı arayan ebeveynler",
+      "offerId": "kendamil-organic",
+      "reason": "Kendamil yağsız süt + bitkisel yağ yerine tam yağlı süt kullanıyor; bu da anne sütünün yağ profiline en çok yaklaşan seçenek."
+    },
+    {
+      "label": "Bütçesini gözeten, düzenli organik mama alan aileler",
+      "offerId": "earths-best-organic-dairy",
+      "reason": "Haftalık 35 dolarla Earth's Best en uygun fiyatlı USDA Organic seçenek ve ABD'deki neredeyse tüm büyük marketlerde bulunuyor."
+    },
+    {
+      "label": "Premium tedarikten çok raftan kolayca almayı önemseyen ebeveynler",
+      "offerId": "similac-pure-bliss",
+      "reason": "Similac Pure Bliss'in karbonhidratı yalnızca laktoz, mısır şurubu içermiyor ve özel sipariş gerekmeden her büyük markette bulunuyor."
+    }
+  ]
 }

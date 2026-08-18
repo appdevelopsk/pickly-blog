@@ -2,5 +2,149 @@
   "title": "2026'nın en iyi araç sigortası: 5 ürün karşılaştırma",
   "description": "Geico, Progressive, State Farm, USAA, Liberty Mutual ürünlerini karşılaştırdık. 2026'da araç sigortası için prim ve hasar yönetimi açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Aynı teminat için prim farkı",
+      "paragraphs": [
+        "5 eyalet ortalamasında yıllık prim: Geico 1.380 $, Progressive 1.490 $, State Farm 1.560 $, Liberty Mutual 1.710 $, USAA 980 $ (yalnızca askeri personel). Eyalet bazında dağılım: Florida +%35, Kaliforniya +%20, Teksas referans seviye, Illinois -%10, New York +%25.",
+        "Telematik indirimi: Progressive Snapshot %10-30, State Farm Drive Safe %15-25, Geico DriveEasy %15-20, Liberty Mutual RightTrack %5-30. USAA telematiği ücretsiz veriyor. Dikkatli sürüyorsanız bu indirimler gerçekten işe yarıyor — ama sert frenlemede sizi cezalandırdığını da unutmayın."
+      ]
+    },
+    {
+      "heading": "Teminat farkları",
+      "paragraphs": [
+        "Kaza affı (ilk kusurlu kazadan sonra prim artmaması): Liberty Mutual ücretsiz veriyor, Geico yılda 50 $ ek paket, Progressive 5 yıl hasarsızlık sonrası dahil, State Farm yılda 30 $, USAA dahil.",
+        "Azalan muafiyet (hasarsız her yıl 100 $ düşüyor): Bu konuda en iyisi Allstate (bu karşılaştırmada yok), Liberty Mutual ücretsiz sunuyor, Progressive ise yılda 25 $ karşılığında.",
+        "Yolcu taşıma (Uber/BiTaksi tarzı) teminatı: Geico (aylık 14-21 $ ek), Progressive (aylık 15-25 $), State Farm (aylık 25-50 $). Liberty Mutual ve USAA'da bu teminatın kapsamı sınırlı."
+      ]
+    },
+    {
+      "heading": "Müşteri memnuniyeti",
+      "paragraphs": [
+        "JD Power 2025 hasar memnuniyeti sıralaması: USAA 1. (yalnızca askeri personel), Erie 2., State Farm 3., Geico 5., Progressive 11., Liberty Mutual 16. Aradaki fark göz ardı edilecek gibi değil — Liberty Mutual hasar süreci yönetiminde sektör ortalamasının altında kalıyor.",
+        "Uygulama kalitesi: En çok indirilen uygulama Geico'nun; en iyi telematik paneli Progressive'de; hasar bildirimi en derli toplu akan yer ise State Farm."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Sigorta teklifleri neden bu kadar farklı çıkıyor?",
+      "a": "Her sigorta şirketi kendi risk modelini kullanıyor. Aynı sürücüye farklı fiyat çıkmasının nedeni, şirketlerin kredi notu, posta kodu, araç gibi faktörlere farklı ağırlık vermesi. 3-5 şirketten teklif alın — en yüksek teklife kıyasla genelde %20-40 tasarruf çıkıyor."
+    },
+    {
+      "q": "Telematik indirimini almalı mıyım?",
+      "a": "Dikkatli sürüyorsanız (sert fren yok, gece geç saatte sürüş yok) evet. İndirim gerçek: %10-30. Agresif sürüyorsanız hayır — telematik priminizi yükseltebilir."
+    },
+    {
+      "q": "500 $ mı, 1.000 $ muafiyet mi?",
+      "a": "Yüksek muafiyet primde yaklaşık %10-15 tasarruf sağlıyor. Kenarda 1.000 $ acil durum birikiminiz varsa mantıklı; yoksa değmez."
+    },
+    {
+      "q": "Florida neden bu kadar pahalı?",
+      "a": "Florida'da sigortasız sürücü oranı yüksek, kasırga riski var ve hasar maliyetlerini şişiren kusursuz sorumluluk (no-fault) sistemi uygulanıyor. Kaliforniya ile Florida düzenli olarak en pahalı eyaletler."
+    }
+  ],
+  "products": {
+    "geico-auto": {
+      "badge": "🏆 Genel olarak en iyi",
+      "review": "Sicili temiz sürücüler için en ucuz ana akım seçenek Geico Auto. Uygulaması güçlü, hasar süreci hızlı, askeri personele %15 indirim var. Dikkatli sürüyorsanız DriveEasy telematiği gerçekten işinize yarıyor.",
+      "pros": [
+        "En ucuz ana akım seçenek",
+        "Hasar süreci hızlı ilerliyor",
+        "Güçlü uygulama + telematik"
+      ],
+      "cons": [
+        "Ceza ve kusurlu kaza sonrası prim belirgin artıyor",
+        "Kaza affı standart değil (ücretli ek paket)"
+      ]
+    },
+    "progressive-auto": {
+      "badge": "📊 En iyi telematik",
+      "review": "Verisini paylaşmaya çekinmeyen teknoloji dostu sürücüler için doğru adres Progressive Auto. Snapshot telematiği primi %10-30 düşürebiliyor. Name Your Price aracı bütçeye göre seçim yapmayı kolaylaştırıyor. Yolcu taşıma teminatında da geniş seçenek sunuyor.",
+      "pros": [
+        "En iyi telematik paneli",
+        "Name Your Price aracı",
+        "Güçlü yolcu taşıma teminatı"
+      ],
+      "cons": [
+        "Hasar memnuniyeti düşük (JD Power 11.)",
+        "Hasar sonrası prim artışı daha sert"
+      ]
+    },
+    "state-farm-auto": {
+      "badge": "📦 Poliçe birleştirmede en iyi",
+      "review": "Poliçe birleştirmede kazanan State Farm Auto. Konut + kasko paketinde %25 indirim veriyor. ABD'nin en büyük oto sigortacısı ve yerel acente ağı geniş. Drive Safe & Save telematiği %15-25 indirim sağlıyor. Hasar memnuniyetinde JD Power 3. sırada.",
+      "pros": [
+        "Konut + araç paketinde %25 indirim",
+        "Yerel acente ağı",
+        "Hasarda JD Power 3.'lük"
+      ],
+      "cons": [
+        "Tek başına primi Geico'dan yüksek",
+        "Uygulaması Geico kadar oturmuş değil"
+      ]
+    },
+    "usaa-auto": {
+      "badge": "🪖 Askeri personel için en iyi",
+      "review": "USAA Auto en ucuz seçenek (ortalama 980 $) ama askeri bağlantı şart. Müşteri memnuniyetinde yıllardır JD Power 1.'si. Telematik ücretsiz dahil. Hasar ödemelerinde eli açık.",
+      "pros": [
+        "En düşük prim",
+        "Memnuniyette JD Power 1.'si",
+        "Cömert hasar ödemeleri"
+      ],
+      "cons": [
+        "Askeri uygunluk şartı var",
+        "Yolcu taşıma teminatı sınırlı"
+      ]
+    },
+    "liberty-mutual-auto": {
+      "badge": "🎁 En iyi kaza affı",
+      "review": "Liberty Mutual Auto hem kaza affını hem azalan muafiyeti ücretsiz veriyor. Kategorideki en cömert standart özellik seti burada. Ama madalyonun diğer yüzü: en yüksek prim (ortalama 1.710 $) ve hasarda JD Power 16.'lık. Bu özellikler bu paraya değer mi, tartışılır.",
+      "pros": [
+        "Kaza affı ücretsiz dahil",
+        "Azalan muafiyet ücretsiz dahil",
+        "Güçlü uygulama"
+      ],
+      "cons": [
+        "Bu karşılaştırmadaki en yüksek prim",
+        "Hasar yönetiminde JD Power 16.'lık"
+      ]
+    }
+  },
+  "offerNotes": {
+    "geico-auto": "Teklif için geico.com — VIN ile anında fiyat çıkıyor. Askeri personel ve federal çalışan indirimleri mevcut.",
+    "progressive-auto": "Teklif için progressive.com — Name Your Price aracı bütçenize göre seçim yapmanızı sağlıyor. Snapshot isteğe bağlı.",
+    "state-farm-auto": "Teklif için statefarm.com ya da yerel acente. En yüksek indirim için kiracı/konut poliçesiyle birleştirin.",
+    "usaa-auto": "Teklif için usaa.com — önce uygunluk kontrolü. Belirli üyelere ücretsiz yol yardımı dahil.",
+    "liberty-mutual-auto": "Teklif için libertymutual.com. RightTrack telematiği isteğe bağlı."
+  },
+  "pinDescription": "Kasko primi neden kişiden kişiye bu kadar değişiyor? Geico, Progressive, State Farm, USAA ve Liberty Mutual'ı prim, indirim ve hasar memnuniyeti üzerinden karşılaştırdık. Teklif almadan önce oku 👇",
+  "recommendedFor": [
+    {
+      "label": "Sicili temiz, bütçesine dikkat eden sürücüler",
+      "offerId": "geico-auto",
+      "reason": "Geico'nun ortalama 1.380 $ primi ana akım seçenekler içinde en ucuzu; dikkatli sürenlerde DriveEasy telematiği bunu daha da aşağı çekiyor."
+    },
+    {
+      "label": "Yolcu taşıyan ve esnek çalışan sürücüler",
+      "offerId": "progressive-auto",
+      "reason": "Yolcu taşıma teminatında en geniş seçeneği Progressive sunuyor; verisini paylaşan sürücülerde Snapshot telematiği primi %10-30 düşürebiliyor."
+    },
+    {
+      "label": "Poliçelerini tek çatı altında toplamak isteyen ev sahipleri",
+      "offerId": "state-farm-auto",
+      "reason": "Konut + araç paketindeki %25 indirim ve geniş acente ağıyla State Farm, birden fazla poliçesi olan haneler için açık ara önde."
+    },
+    {
+      "label": "Muvazzaf askerler ve gaziler",
+      "offerId": "usaa-auto",
+      "reason": "USAA'nın ortalama 980 $ primi listenin en düşüğü; JD Power 1.'liği de hasar anında baş ağrısı yaşamayacağınız anlamına geliyor."
+    },
+    {
+      "label": "İlk kazasından çekinen acemi sürücüler",
+      "offerId": "liberty-mutual-auto",
+      "reason": "Liberty Mutual kaza affını ve azalan muafiyeti ek ücret almadan veriyor; ilk hasarda prim şoku yaşamıyorsunuz."
+    }
+  ]
 }

@@ -2,5 +2,145 @@
   "title": "Paket Data Internasional Terbaik 2026",
   "description": "Kami membandingkan Google Fi, Airalo, Verizon, T-Mobile, Holafly. Inilah paket data internasional 2026 yang benar-benar unggul dalam hal cakupan dan biaya.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "eSIM vs. paket tambahan operator vs. paket khusus",
+      "paragraphs": [
+        "Paket khusus (Google Fi, T-Mobile): paket utama AS Anda tetap berfungsi di luar negeri tanpa perlu tambahan apa pun.",
+        "Paket tambahan operator (Verizon TravelPass): bayar $10/hari untuk data tanpa batas selama di luar negeri.",
+        "eSIM (Airalo, Holafly): pasang paket khusus per negara berdampingan dengan paket utama Anda."
+      ]
+    },
+    {
+      "heading": "Pilihan terbaik untuk tiap kebutuhan",
+      "paragraphs": [
+        "Terbaik secara universal: Google Fi ($20-80/bulan). Berfungsi di lebih dari 200 negara, tanpa paket tambahan.",
+        "Marketplace eSIM terbaik: Airalo ($5-30/paket). Lebih dari 200 destinasi.",
+        "Terbaik untuk pelanggan Verizon AS: Verizon TravelPass ($10/hari). Gunakan paket yang sudah ada di luar negeri.",
+        "Terbaik untuk pelanggan T-Mobile AS: T-Mobile Go5G Plus ($90/bulan). 5GB/bulan gratis di lebih dari 215 negara.",
+        "eSIM tanpa batas terbaik: Holafly ($6-20/hari). Data benar-benar tanpa batas."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "eSIM atau SIM fisik?",
+      "a": "eSIM adalah standar masa kini — dipasang lewat aplikasi, tanpa kartu fisik. Semua iPhone sejak 2018 dan sebagian besar ponsel Android kelas atas mendukung eSIM. Ponsel lama masih memerlukan SIM fisik (di sejumlah negara SIM fisik memang masih dijual)."
+    },
+    {
+      "q": "Apakah cukup mengandalkan Wi-Fi saja?",
+      "a": "Untuk perjalanan sesekali, cukup — sebagian besar hotel dan kafe menyediakan Wi-Fi gratis. Namun untuk navigasi, memesan transportasi online, atau bekerja, koneksi seluler sendiri jauh lebih andal."
+    },
+    {
+      "q": "Apakah nomor AS saya hilang saat di luar negeri?",
+      "a": "Tergantung layanannya. Google Fi dan T-Mobile menjaga nomor Anda tetap aktif di seluruh dunia. eSIM Airalo memberi Anda nomor sementara yang terpisah. Verizon TravelPass mempertahankan nomor AS Anda."
+    },
+    {
+      "q": "Berapa pemakaian data yang wajar di luar negeri?",
+      "a": "Pemakaian ringan: 1-2 GB/minggu. Sedang (peta + media sosial): 3-5 GB/minggu. Berat (video, pekerjaan): lebih dari 10 GB/minggu."
+    }
+  ],
+  "products": {
+    "google-fi": {
+      "badge": "🏆 Terbaik secara universal",
+      "review": "Google Fi adalah pilihan tepat bagi Anda yang sering bepergian ke luar negeri. Berfungsi di lebih dari 200 negara tanpa biaya roaming pada sebagian besar paket, tarif data tunggal (tidak ada tagihan mengejutkan), dan memakai jaringan T-Mobile serta UScellular. Paling cocok untuk digital nomad atau pelancong AS yang menyambangi banyak negara.",
+      "pros": [
+        "Lebih dari 200 negara tanpa paket tambahan",
+        "Tarif data tunggal di seluruh dunia",
+        "Tersedia beberapa tingkatan paket"
+      ],
+      "cons": [
+        "Cakupan operator di AS terbatas (hanya T-Mobile + UScellular)",
+        "Biaya bulanan lebih tinggi dibanding opsi paket tambahan operator"
+      ]
+    },
+    "airalo-esim": {
+      "badge": "🌐 Marketplace eSIM terbaik",
+      "review": "Airalo eSIM Marketplace adalah pilihan tepat bagi pelancong yang menginginkan eSIM khusus per negara. Lebih dari 200 destinasi, pemasangan lewat aplikasi hanya 5 menit, dan Anda hanya membayar sesuai pemakaian. Paling cocok untuk pelancong yang tidak ingin mengubah paket utamanya.",
+      "pros": [
+        "Lebih dari 200 destinasi tersedia",
+        "Dipasang lewat aplikasi dalam 5 menit",
+        "Bayar per paket (tanpa ikatan)"
+      ],
+      "cons": [
+        "Khusus per negara (perlu paket baru untuk tiap negara)",
+        "Tidak mempertahankan nomor AS"
+      ]
+    },
+    "verizon-travelpass": {
+      "badge": "🇺🇸 Terbaik untuk Verizon",
+      "review": "Verizon TravelPass adalah pilihan tepat bagi pelanggan Verizon AS yang sudah ada. Cukup $10/hari untuk data tanpa batas di luar negeri, memakai paket AS yang sudah Anda miliki, tanpa pendaftaran terpisah. Paling menguntungkan jika Anda punya paket unlimited AS dan hanya sesekali bepergian.",
+      "pros": [
+        "$10/hari untuk data tanpa batas di luar negeri",
+        "Memakai paket Verizon AS yang sudah ada",
+        "Nomor AS tetap aktif"
+      ],
+      "cons": [
+        "$10/hari terasa berat untuk perjalanan panjang",
+        "Hanya untuk pelanggan Verizon yang sudah terdaftar"
+      ]
+    },
+    "tmobile-go5g-plus": {
+      "badge": "🇺🇸 Terbaik untuk T-Mobile",
+      "review": "T-Mobile Go5G Plus adalah pilihan tepat bagi pelanggan T-Mobile yang sudah ada. Data gratis 5GB/bulan di lebih dari 215 negara, sudah termasuk dalam paket, tanpa biaya tambahan. Ini paket AS terbaik dengan cakupan luar negeri yang sudah menyatu di dalamnya.",
+      "pros": [
+        "5GB/bulan gratis di lebih dari 215 negara",
+        "Sudah termasuk dalam paket",
+        "Tanpa biaya tambahan"
+      ],
+      "cons": [
+        "Mengharuskan paket $90/bulan",
+        "Batas 5GB (kurang untuk pemakaian berat)"
+      ]
+    },
+    "holafly-esim": {
+      "badge": "🌐 eSIM tanpa batas terbaik",
+      "review": "Holafly Unlimited eSIM adalah pilihan tepat bagi pengguna data berat. Data benar-benar tanpa batas di lebih dari 200 negara (tanpa pelambatan, tanpa kuota), dengan paket harian maupun mingguan. Paling cocok untuk pelancong yang butuh data melimpah tanpa memikirkan batas kuota.",
+      "pros": [
+        "Data benar-benar tanpa batas (tanpa pelambatan)",
+        "Lebih dari 200 negara",
+        "Tersedia paket harian"
+      ],
+      "cons": [
+        "$6-20/hari terasa berat untuk perjalanan panjang",
+        "Tidak mempertahankan nomor AS"
+      ]
+    }
+  },
+  "offerNotes": {
+    "google-fi": "Daftar di fi.google.com. Ponsel harus kompatibel dengan Fi (sebagian besar ponsel modern sudah).",
+    "airalo-esim": "Pasang aplikasi Airalo. Pilih negara, beli paket, lalu pasang eSIM lewat aplikasi.",
+    "verizon-travelpass": "Untuk pelanggan Verizon yang sudah ada — aktifkan lewat aplikasi Verizon. Biaya $10/hari otomatis berlaku begitu ponsel tersambung di luar negeri.",
+    "tmobile-go5g-plus": "Untuk pelanggan T-Mobile dengan paket Go5G Plus ke atas — langsung berfungsi otomatis di luar negeri.",
+    "holafly-esim": "Daftar di esim.holafly.com. Tersedia paket harian, dipasang melalui aktivasi eSIM."
+  },
+  "pinDescription": "Mau internet lancar selama di luar negeri tanpa tagihan roaming yang bikin kaget? Ini perbandingan Google Fi, eSIM Airalo, Verizon TravelPass, T-Mobile Go5G, dan Holafly — lengkap dengan harga dan cocoknya untuk siapa. Simpan dulu sebelum berangkat!",
+  "recommendedFor": [
+    {
+      "label": "Digital nomad yang tinggal dan bekerja berpindah-pindah negara",
+      "offerId": "google-fi",
+      "reason": "Tarif data rata di lebih dari 200 negara membuat Google Fi bebas dari kejutan biaya roaming — ideal bagi mereka yang terus berpindah negara."
+    },
+    {
+      "label": "Pelancong hemat yang mengunjungi satu negara dalam satu perjalanan",
+      "offerId": "airalo-esim",
+      "reason": "Airalo memungkinkan Anda membayar hanya untuk paket satu negara, sehingga perjalanan singkat tidak terikat biaya paket berjalan."
+    },
+    {
+      "label": "Pelanggan Verizon yang hanya sesekali bepergian singkat ke luar negeri",
+      "offerId": "verizon-travelpass",
+      "reason": "Dengan $10/hari dan tanpa pendaftaran baru, TravelPass menguntungkan untuk perjalanan di bawah 10 hari memakai paket unlimited Verizon yang sudah Anda miliki."
+    },
+    {
+      "label": "Pelanggan T-Mobile yang ke luar negeri beberapa kali dalam setahun",
+      "offerId": "tmobile-go5g-plus",
+      "reason": "Go5G Plus sudah mencakup 5GB/bulan di lebih dari 215 negara tanpa biaya tambahan, jadi cakupan internasional menjadi bonus gratis dari paket Anda."
+    },
+    {
+      "label": "Pengguna data berat yang streaming video atau bekerja jarak jauh di luar negeri",
+      "offerId": "holafly-esim",
+      "reason": "Data Holafly yang benar-benar tanpa batas dan tanpa pelambatan adalah satu-satunya pilihan bagi pelancong yang tiap hari streaming, video call, atau mengunggah berkas besar."
+    }
+  ]
 }

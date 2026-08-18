@@ -70,5 +70,114 @@
     "dyson-360-vis-nav": "Beli hanya jika Anda secara khusus menginginkan Dyson — harga unggulan tanpa dok self-empty atau fungsi pel yang dimiliki yang lain dengan harga lebih murah."
   },
   "pinDescription": "Lima robot vacuum dibandingkan di 2026: dari SwitchBot K10+ kelas budget hingga Dyson 360 Vis Nav unggulan. Daya hisap, fungsi pel, akurasi pemetaan, dan mana yang benar-benar dibutuhkan apartemen kecil.",
-  "methodology": "Kami menilai setiap produk dari sisi ketahanannya dalam pemakaian sehari-hari, kemudahan penggunaan, performa dibandingkan klaim pemasaran, kualitas pembuatan, dan nilai jangka panjangnya. Spesifikasi dari produsen kami cocokkan dengan ulasan pemilik yang telah diverifikasi."
+  "methodology": "Kami menilai setiap produk dari sisi ketahanannya dalam pemakaian sehari-hari, kemudahan penggunaan, performa dibandingkan klaim pemasaran, kualitas pembuatan, dan nilai jangka panjangnya. Spesifikasi dari produsen kami cocokkan dengan ulasan pemilik yang telah diverifikasi.",
+  "products": [
+    {
+      "offerId": "roborock-s8-pro-ultra",
+      "badge": "Flagship Terbaik",
+      "review": "Roborock S8 Pro Ultra adalah pilihan flagship standar bagi pembeli yang menginginkan satu robot vacuum yang mampu menangani hampir segalanya tanpa perlu riset lebih jauh. Daya isap 6.000 Pa bekerja baik di lantai kayu maupun karpet berbulu pendek hingga sedang, bantalan pel ganda berputar yang otomatis terangkat saat melewati karpet menyelesaikan penyedotan dan pengepelan dalam satu kali jalan, dan pemetaan LiDAR menghasilkan denah lantai yang langsung terpakai pada percobaan pertama — bukan setelah 2-3 kali putaran belajar seperti unit berbasis kamera. Dok serba bisa mengosongkan wadah debu ke kantong tertutup, mencuci kain pel dengan air panas, dan mengisi ulang tangki air bersih secara otomatis — tiga fitur dok inilah yang membedakan perawatan harian dari perawatan mingguan. Harganya lebih dari tiga kali lipat SwitchBot, dan selisih itu lebih banyak masuk ke dok dan pemetaan ketimbang ke daya isapnya sendiri. Kemampuan melewati ambang pintu paling tinggi di perbandingan ini, yaitu 2 cm.",
+      "pros": [
+        "Pemetaan LiDAR sudah akurat sejak jalan pertama",
+        "Bantalan pel ganda berputar yang otomatis terangkat di atas karpet",
+        "Dok otomatis: pengosongan, pencucian, dan pengisian ulang sendiri",
+        "Melewati ambang setinggi 2 cm — tertinggi di perbandingan ini"
+      ],
+      "cons": [
+        "Harganya lebih dari tiga kali lipat SwitchBot",
+        "Kelebihan harga lebih terasa di fitur dok ketimbang di daya isap"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "irobot-roomba-j7-plus",
+      "badge": "Terbaik untuk Rumah Berhewan Peliharaan",
+      "review": "iRobot Roomba j7+ layak masuk daftar berkat PrecisionVision yang menghindari kotoran hewan — kemampuan terbaik di kelasnya dan dilatih khusus untuk skenario kegagalan yang bisa merusak seisi rumah bagi pemilik anjing atau kucing. Roborock dan Eufy hanya mendeteksi 'ada rintangan', sementara j7+ dilatih mengenali siluet spesifik yang biasanya justru diseret robot lain ke seluruh lantai. Pemetaan berkualitas setara LiDAR (secara teknis vSLAM dengan kamera depan), dok pengosongan otomatis, dan aplikasi iRobot Home yang sudah matang melengkapi paketnya. Kelemahan jujurnya: model ini sama sekali tidak punya fungsi pel — Combo j7+ adalah SKU terpisah dengan harga lebih tinggi — dan siklus dok pengosongan otomatisnya berisik, lebih mirip suara vacuum cleaner ketimbang printer. Untuk rumah tanpa hewan peliharaan, Roborock atau Eufy lebih mumpuni pada harga yang sama; untuk rumah dengan hewan peliharaan, j7+ satu-satunya pilihan aman.",
+      "pros": [
+        "Penghindaran kotoran hewan PrecisionVision terbaik di kelasnya",
+        "Aplikasi iRobot Home matang dan rekam jejak 20 tahun di kategori ini",
+        "Dok pengosongan otomatis dengan kantong berkapasitas 60 hari",
+        "Pemetaan kamera vSLAM tetap andal di ruangan minim cahaya"
+      ],
+      "cons": [
+        "Tanpa fungsi pel — Combo j7+ adalah SKU terpisah yang lebih mahal",
+        "Siklus dok pengosongan berisik, 80-85 dB selama 8-12 detik"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "eufy-x10-pro-omni",
+      "badge": "Nilai Terbaik",
+      "review": "Anker Eufy X10 Pro Omni jadi pilihan paling bernilai di perbandingan ini karena menghadirkan dok lengkap — pengosongan, pencucian, dan pengisian ulang otomatis — dengan harga sekitar separuh Roborock S8 Pro Ultra. Daya isap 8.000 Pa adalah angka spesifikasi tertinggi di daftar ini (di atas 4.000 Pa manfaatnya makin menipis di lantai keras, tapi cadangan tenaga itu berarti untuk karpet tebal), ditambah pel ganda berputar dan harga yang untuk pertama kalinya membawa pengalaman dok otomatis penuh ke kelas menengah. Kelemahan jujurnya: pemetaannya mengandalkan kamera dan giroskop, bukan LiDAR, jadi pada 2-3 kali jalan pertama terlihat jelas mengulang area yang sudah dibersihkan dan sesekali menganggap karpet gelap sebagai jurang. Setelah petanya stabil dalam sekitar seminggu, kualitas pembersihannya menyamai Roborock — hambatannya terpusat di tahap awal pemakaian.",
+      "pros": [
+        "Dok pengosongan dan pencucian otomatis penuh di harga separuh Roborock",
+        "Spesifikasi daya isap 8.000 Pa tertinggi di perbandingan ini",
+        "Pel ganda berputar, bukan sekadar kain yang diseret",
+        "Setelah minggu pertama pemetaan, kualitasnya menyamai Roborock"
+      ],
+      "cons": [
+        "Pemetaan kamera dan giroskop butuh 2-3 kali jalan agar stabil",
+        "Sesekali menganggap karpet gelap sebagai jurang saat cahaya redup"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "switchbot-k10-plus",
+      "badge": "Profil Paling Tipis",
+      "review": "SwitchBot K10+ adalah satu-satunya robot vacuum di sini yang secara fisik muat masuk ke bawah sofa rendah dan rak TV tanpa tergores — tinggi 9,2 cm, sekitar 30% lebih pendek dari sasis Roborock, dan itulah pembeda antara membersihkan kolong furnitur atau harus menggeser furniturnya setiap kali. Daya isap 2.500 Pa paling rendah di perbandingan ini dan tidak akan membersihkan karpet tebal sampai ke dalam, tapi untuk lantai kayu dan karpet berbulu pendek di apartemen kecil sudah lebih dari cukup. Wadah debu 150 ml membuat dok pengosongan otomatis perlu bekerja setiap sekitar 70 m², dan pelnya berupa kain mikrofiber yang diseret, bukan bantalan berputar. Kemampuannya melewati ambang kesulitan di atas 1,5 cm, jadi apartemen banyak ruang dengan ambang pintu yang tinggi perlu mempertimbangkan hal ini. Integrasinya erat dengan ekosistem SwitchBot lainnya (tirai, kunci pintu, hub).",
+      "pros": [
+        "Bodi 9,2 cm muat di kolong furnitur yang tak terjangkau robot lain",
+        "Unit termurah di perbandingan ini",
+        "Terintegrasi dengan ekosistem SwitchBot (tirai, kunci, hub)",
+        "Dok pengosongan otomatis, mengejutkan di kelas harga ini"
+      ],
+      "cons": [
+        "Daya isap 2.500 Pa tidak sanggup membersihkan karpet tebal",
+        "Kesulitan melewati ambang di atas 1,5 cm"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "dyson-360-vis-nav",
+      "badge": "Rekayasa Daya Isap Terbaik",
+      "review": "Dyson 360 Vis Nav adalah flagship asal Inggris sekaligus unit termahal di perbandingan ini, dengan pemetaan kamera fisheye 360 derajat, daya isap dua saluran yang ditenagai motor digital Dyson, dan pembersihan titik tertentu lewat aplikasi. Daya isapnya memang benar-benar kuat — warisan motor digital Dyson terlihat jelas pada performa mentah mengangkat kotoran. Kelemahan jujurnya adalah alasan kebanyakan reviewer tidak menjadikannya pilihan utama: di harga setinggi ini tidak ada dok pengosongan otomatis (wadah 0,33 L harus dikosongkan manual setiap selesai bekerja), tidak ada fungsi pel sama sekali, dan daya tahan baterainya sekitar 50 menit per pengisian sehingga rumah dengan banyak ruangan perlu mengisi ulang di tengah jalan. Dari sisi otomatisasi dok, paketnya tertinggal satu generasi dari Roborock dan Roomba meski harganya lebih mahal — beli hanya jika Anda memang menginginkan Dyson dan menerima kompromi itu.",
+      "pros": [
+        "Daya isap dua saluran bermotor digital, terdepan di kelasnya",
+        "Kamera fisheye 360 derajat memetakan ruangan redup dengan baik",
+        "Aplikasi Dyson terhubung dengan ekosistem MyDyson",
+        "Kualitas rakitan dan rekayasa yang terasa nyata"
+      ],
+      "cons": [
+        "Tanpa dok pengosongan otomatis di harga flagship",
+        "Tanpa fungsi pel dan daya tahan 50 menit menuntut pengisian ulang di tengah kerja"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Untuk pembeli yang ingin sekali beli langsung beres",
+      "offerId": "roborock-s8-pro-ultra",
+      "reason": "Pemetaan LiDAR, pel ganda berputar, dan dok lengkap dengan pengosongan, pencucian, serta pengisian ulang otomatis mencakup hampir semua skenario penggunaan robot vacuum."
+    },
+    {
+      "label": "Untuk rumah dengan hewan peliharaan",
+      "offerId": "irobot-roomba-j7-plus",
+      "reason": "Penghindaran kotoran hewan PrecisionVision dilatih khusus untuk kegagalan yang bisa merusak pagi Anda, sementara Roborock/Eufy hanya mendeteksi 'ada rintangan'."
+    },
+    {
+      "label": "Untuk pembeli kelas menengah yang mengutamakan nilai",
+      "offerId": "eufy-x10-pro-omni",
+      "reason": "Dok pengosongan dan pencucian otomatis penuh dengan harga separuh Roborock, daya isap 8.000 Pa, dan pel ganda berputar, asalkan Anda menerima pemetaan yang belum mulus di minggu pertama."
+    },
+    {
+      "label": "Untuk apartemen mungil dengan furnitur berkolong rendah",
+      "offerId": "switchbot-k10-plus",
+      "reason": "Bodi 9,2 cm adalah satu-satunya di perbandingan ini yang muat di bawah sofa rendah dan rak TV tanpa tergores."
+    },
+    {
+      "label": "Untuk penggemar Dyson yang mengutamakan rekayasa daya isap",
+      "offerId": "dyson-360-vis-nav",
+      "reason": "Daya isap dua saluran bermotor digital benar-benar terdepan pada performa mentah, asalkan Anda menerima tidak adanya dok pengosongan otomatis dan fungsi pel di harga flagship."
+    }
+  ]
 }

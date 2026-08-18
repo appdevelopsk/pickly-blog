@@ -2,5 +2,150 @@
   "title": "En iyi küçük işletme sigortası 2026: 5 ürün karşılaştırma",
   "description": "Next, Hiscox, The Hartford, Progressive, Thimble ürünlerini karşılaştırdık. 2026'da küçük işletme sigortası için BOP kapsamı ve fiyatlandırması açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "BOP poliçesi neleri kapsar?",
+      "paragraphs": [
+        "BOP = Business Owner's Policy = işletme sorumluluk sigortası + ticari mülk sigortasının bir arada sunulduğu paket. Küçük işletmelerde standart çözüm. Siber güvenlik, işçi tazminatı ve mesleki sorumluluk (E&O) genelde ayrı poliçelerde yer alır.",
+        "5 kişilik bir danışmanlık şirketi için BOP (1 milyon $ sorumluluk + 250 bin $ mülk) tipik fiyatlar: Next ayda 25-50 $, Hiscox 35-65 $, The Hartford 40-70 $, Progressive Commercial 40-60 $, Thimble (talep üzerine) proje başına 10-30 $."
+      ]
+    },
+    {
+      "heading": "Siber ve işçi tazminatı ek teminatları",
+      "paragraphs": [
+        "Siber sorumluluk (1 milyon $ teminat): Hiscox, BOP içinde temel siber teminatı veriyor. Next ayda 15-25 $ ek ücret alıyor. The Hartford ayda 20-30 $, Progressive Commercial ayda 25 $. Thimble'da siber teminat yok.",
+        "İşçi tazminatı (5 çalışan, düşük riskli danışmanlık): Çalışan başına yılda 300-500 $. The Hartford ve Progressive bu alanda uzman. ABD'de eyaletlerin çoğunda zorunlu; Teksas dikkat çeken istisna (isteğe bağlı)."
+      ]
+    },
+    {
+      "heading": "Hangi şirket kime uygun?",
+      "paragraphs": [
+        "Yeni başlayan / serbest çalışan / cirosu 100 bin $ altında: Proje bazlı teminat için Thimble (talep üzerine). Sabit bir iş yeriniz varsa aylık BOP için Next.",
+        "Oturmuş küçük işletme / 3-10 çalışan / 250 bin - 2 milyon $ ciro: Hiscox ya da The Hartford. İkisi de A+ notlu; Hiscox küçük işletmelere odaklı, Hartford'un sektör kapsamı ise daha geniş.",
+        "Araç ağırlıklı işler / esnaf ve zanaatkârlar / taşeronlar / filo sahipleri: Progressive Commercial. Ticari araç + sorumluluk paketlerinde açık ara önde.",
+        "Teknoloji / SaaS / danışmanlık / profesyonel hizmetler: Hiscox (siber tarafı güçlü) veya Next (dijital doğumlu)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "BOP mı, ayrı poliçeler mi?",
+      "a": "BOP, sorumluluk ve mülk sigortasını ayrı ayrı almaktan ucuza geliyor. Cirosu 5 milyon $ altındaki çoğu küçük işletmenin BOP ile başlaması mantıklı. Üstüne çıktığınızda BOP limitleri yetmez, ayrıca aşkın teminat poliçesi gerekir."
+    },
+    {
+      "q": "Mesleki sorumluluk (E&O) şart mı?",
+      "a": "Danışmanlık veriyorsanız veya hizmet sunuyorsanız evet. Danışmanlar, mali müşavirler, BT hizmetleri, tasarımcılar hepsi E&O'ya ihtiyaç duyar — ve bu genelde BOP'a dahil DEĞİLDİR, ayrıca alınması gerekir."
+    },
+    {
+      "q": "Siber sigorta gerekli mi?",
+      "a": "Müşteri verisi saklayan ya da kredi kartı kabul eden her işletme için evet. Hiscox temel siber teminatı dahil ediyor; diğerleri ayda 15-30 $ ek ücret alıyor."
+    },
+    {
+      "q": "İşçi tazminatı zorunlu mu?",
+      "a": "ABD'de 50 eyaletin 49'unda zorunlu (Teksas'ta isteğe bağlı). Zorunlu olmasa bile çalışan yaralanmalarından doğan davalara karşı sizi korur."
+    }
+  ],
+  "products": {
+    "next-insurance-bop": {
+      "badge": "🏆 En iyi dijital başvuru",
+      "review": "Next Insurance, işini dijitalde yürüten küçük işletmeler için doğru tercih. 10 dakikalık online başvuru, ayda tipik 25-50 $ BOP, anında sigorta belgesi. Arkasında Munich Re var. Sadece standart küçük işletmelere açık (yüksek riskli sektörler yok).",
+      "pros": [
+        "10 dakikalık online başvuru",
+        "Anında sigorta belgesi",
+        "Arkasında Munich Re var"
+      ],
+      "cons": [
+        "Sadece standart küçük işletmeler",
+        "Siber teminat dahil değil, ek ücretli"
+      ]
+    },
+    "hiscox-small-business": {
+      "badge": "🎯 50 çalışan altı için en iyisi",
+      "review": "Hiscox, 50 çalışanın altındaki küçük işletmeler — özellikle teknoloji/SaaS/danışmanlık — için doğru tercih. Siber sorumluluk BOP'a dahil. A.M. Best A+ notu. Sektör desteği Next'ten geniş.",
+      "pros": [
+        "Siber sorumluluk BOP'a dahil",
+        "50 çalışan altında uzman",
+        "Güçlü finansal not"
+      ],
+      "cons": [
+        "Primi Next'ten yüksek",
+        "Büyümüş küçük işletmeler için daha az ideal"
+      ]
+    },
+    "the-hartford-bop": {
+      "badge": "🪪 En köklü sigorta şirketi",
+      "review": "The Hartford, 200 yılı aşkın geçmişe sahip bir şirketle çalışmak isteyen oturmuş küçük işletmeler için doğru tercih. Bayi/taşeron teminatları güçlü, sektör desteği geniş. Mülk + sorumluluk bir arada.",
+      "pros": [
+        "200 yılı aşkın köklü şirket",
+        "Güçlü bayi/taşeron teminatı",
+        "Geniş sektör desteği"
+      ],
+      "cons": [
+        "Next/Hiscox'tan pahalı",
+        "Online deneyimi daha zayıf"
+      ]
+    },
+    "progressive-commercial": {
+      "badge": "🚛 Filo ve esnaf için en iyisi",
+      "review": "Progressive Commercial, ticari araç kullanan işletmeler ve zanaatkârlar için doğru tercih. Ticari araç + işletme sorumluluk paketleri sunuyor. Filo işletenler, taşeronlar, elektrikçiler ve tesisatçılar için güçlü.",
+      "pros": [
+        "En iyi ticari araç + sorumluluk paketleri",
+        "Esnaf ve zanaatkârlar için güçlü",
+        "Online teklif alma"
+      ],
+      "cons": [
+        "Araçsız işletmeler için daha az ideal",
+        "Müşteri hizmetleri Next'ten yavaş"
+      ]
+    },
+    "thimble-on-demand": {
+      "badge": "📱 Serbest çalışanlar için en iyisi",
+      "review": "Thimble, kısa süreli teminata ihtiyaç duyan serbest çalışanlar ve gig ekonomisi çalışanları için doğru tercih. Saatlik/günlük/aylık satın alma, iş başına 5-100 $. Uygulamadan dakikalar içinde poliçe. Sabit iş yeri olan klasik küçük işletmeler için uygun değil.",
+      "pros": [
+        "Saatlik/günlük/aylık satın alma",
+        "Uygulamadan dakikalar içinde poliçe",
+        "Ara sıra ihtiyaçlar için ucuz"
+      ],
+      "cons": [
+        "Klasik küçük işletmeler için uygun değil",
+        "Teminat limitleri düşük"
+      ]
+    }
+  },
+  "offerNotes": {
+    "next-insurance-bop": "Teklifi nextinsurance.com'dan alın — 10 dakikada online.",
+    "hiscox-small-business": "Teklifi hiscox.com'dan alın — 50 çalışan altında güçlü bir uzman.",
+    "the-hartford-bop": "Teklifi thehartford.com'dan ya da bağımsız acentelerden alın.",
+    "progressive-commercial": "Teklifi progressivecommercial.com'dan alın — araç ve esnaf işleri için en iyisi.",
+    "thimble-on-demand": "Thimble uygulamasını indirin — serbest çalışanlar için birebir."
+  },
+  "pinDescription": "İşletmeni sigortalatacaksın ama hangi paket? Next, Hiscox, The Hartford, Progressive ve Thimble'ı fiyat, teminat limitleri ve kapsam dışı maddeleriyle yan yana koyduk. 2026 karşılaştırması 👇",
+  "recommendedFor": [
+    {
+      "label": "Ara sıra teminata ihtiyaç duyan serbest çalışanlar ve bağımsız taşeronlar",
+      "offerId": "thimble-on-demand",
+      "reason": "Thimble'ın saatlik/günlük/aylık modelinde yalnızca fiilen iş yaptığınız süre için ödeme yaparsınız, uzun vadeli taahhüt yok."
+    },
+    {
+      "label": "Hızlı ve dijital başvuru isteyen yeni girişimler",
+      "offerId": "next-insurance-bop",
+      "reason": "Next'in 10 dakikalık online başvurusu ve anında sigorta belgesi sayesinde yeni bir işletme evrak uğraşı olmadan aynı gün teminatlanır."
+    },
+    {
+      "label": "Müşteri verisi işleyen teknoloji danışmanları ve SaaS kurucuları",
+      "offerId": "hiscox-small-business",
+      "reason": "Hiscox siber sorumluluğu doğrudan BOP'un içine koyuyor; teknoloji ve danışmanlık işletmeleri ayrı poliçe almadan veri ihlali teminatına kavuşuyor."
+    },
+    {
+      "label": "Araç kullanan taşeronlar, elektrikçiler ve esnaf işletmeleri",
+      "offerId": "progressive-commercial",
+      "reason": "Progressive, ticari araç + sorumluluk paketlerinde açık ara önde; filo işleten esnaf için tek şirketten alınabilecek en güçlü seçenek."
+    },
+    {
+      "label": "5+ çalışanı ve istikrarlı cirosu olan oturmuş küçük işletmeler",
+      "offerId": "the-hartford-bop",
+      "reason": "The Hartford'un 200 yılı aşkın geçmişi ve geniş sektör kapsamı, başlangıç seviyesi sigortacıları geride bırakmış işletmelere kurumsal düzeyde koruma sağlıyor."
+    }
+  ]
 }

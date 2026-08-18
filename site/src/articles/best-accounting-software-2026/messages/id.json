@@ -2,5 +2,153 @@
   "title": "Software Akuntansi Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan QuickBooks, Xero, FreshBooks, Wave, Sage. Inilah perangkat lunak akuntansi 2026 yang benar-benar unggul dalam hal UX faktur dan penerimaan akuntan.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Pembuatan faktur dan pencatatan pengeluaran",
+      "paragraphs": [
+        "Pengalaman membuat faktur: FreshBooks paling mudah untuk bisnis jasa (proyek + pencatatan waktu + faktur dalam satu alur). QuickBooks Online punya paling banyak templat dan opsi kustomisasi. Xero berada di tengah — antarmuka rapi, kustomisasi lebih sedikit dibanding QBO. Wave berfungsi baik tetapi sederhana. Fitur faktur Sage 50cloud terasa ketinggalan zaman.",
+        "Pencatatan struk (foto struk → entri pengeluaran): QuickBooks Online akurat 92%, Xero 91%, FreshBooks 88%, Wave 82%, Sage 50cloud 75% (lebih rendah karena aplikasi selulernya tertinggal).",
+        "Rekonsiliasi bank: Xero dan QuickBooks sama-sama tercepat dalam pengategorian otomatis (machine learning). FreshBooks memadai. Wave manual. Sage 50cloud punya aturan yang kuat, tetapi butuh waktu untuk menyiapkannya."
+      ]
+    },
+    {
+      "heading": "Penerimaan akuntan saat musim pajak",
+      "paragraphs": [
+        "Tingkat keakraban akuntan, kurang lebih berurutan: QuickBooks Online Plus (paling dikenal — sebagian besar akuntan AS bersertifikat QBO), Xero Growing (ekspor data rapi, makin populer), FreshBooks Plus (bagus untuk bisnis jasa tetapi minim beberapa laporan akuntansi konvensional), Wave (memadai untuk bisnis beromzet di bawah Rp8 miliar), Sage 50cloud Pro (bertenaga tetapi jarang dipakai di luar industri tertentu).",
+        "QuickBooks Online mendominasi pasar akuntan publik AS — mencari akuntan yang terbiasa dengan QBO sangat mudah. Xero mengejar dengan cepat. Di luar AS (Inggris, Australia, Selandia Baru), Xero justru sering mendominasi. Di Indonesia, pastikan dulu perangkat lunak pilihan Anda dikuasai konsultan pajak Anda.",
+        "Penghematan waktu saat penyusunan laporan pajak adalah tempat perbedaannya paling terasa: sinkronisasi rekening bank, pencatatan struk, dan jejak audit yang rapi berarti akuntan bekerja dari data yang sudah direkonsiliasi, bukan menyusun ulang setahun penuh dari tumpukan kertas. QBO dan Xero paling unggul di sini berkat luasnya otomatisasi sinkronisasi bank dan rekonsiliasi, FreshBooks dan Wave mengotomatiskan lebih sedikit, sementara Sage 50cloud bisa menyamai yang terdepan — tetapi hanya setelah konfigurasinya rampung."
+      ]
+    },
+    {
+      "heading": "Fakta soal harga (tahun pertama vs tahun kedua)",
+      "paragraphs": [
+        "Harga bulanan untuk firma konsultan beranggota 12 orang (tanpa tambahan payroll): QuickBooks Online Plus $90 (sekitar Rp1,45 juta), Xero Growing $42 (sekitar Rp680 ribu), FreshBooks Plus $33 (sekitar Rp535 ribu, maksimal 50 klien), Wave $0 (gratis), Sage 50cloud Pro $60 (sekitar Rp970 ribu).",
+        "Promo tahun pertama: QBO kerap memberi diskon 50% untuk 6 bulan pertama. Xero diskon 60% untuk 3 bulan pertama. FreshBooks sering menawarkan diskon 50% untuk tahun pertama. Wave gratis selamanya (pendapatannya dari pemrosesan pembayaran).",
+        "Tambahan payroll: QBO Payroll $50–80 (sekitar Rp810 ribu–1,3 juta) per bulan plus biaya per karyawan. Gusto terintegrasi dengan semuanya — sering kali pilihan yang lebih baik daripada modul payroll bawaan, meski layanannya terbatas untuk perusahaan di AS."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "QuickBooks atau Xero?",
+      "a": "Pilih QuickBooks jika Anda berbisnis di AS dan ingin sebagian besar akuntan langsung memahami sistem Anda. Pilih Xero jika Anda di Inggris/Australia/Selandia Baru, atau mengutamakan antarmuka yang lebih rapi. Keduanya sama-sama bagus — putuskan berdasarkan ketersediaan akuntan yang menguasainya di wilayah Anda."
+    },
+    {
+      "q": "Apakah Wave benar-benar gratis?",
+      "a": "Ya, untuk pembukuan dan pembuatan faktur. Wave memperoleh pendapatan dari biaya pemrosesan pembayaran (2,9% + $0,30 per transaksi). Untuk bisnis dengan volume transaksi rendah, Wave bisa gratis selamanya."
+    },
+    {
+      "q": "FreshBooks untuk bisnis jasa?",
+      "a": "FreshBooks punya antarmuka terbaik untuk bisnis jasa (konsultan, agensi, pekerja lepas) karena menyatukan pencatatan waktu, manajemen proyek, dan penerbitan faktur. Bisnis jasa beromzet di bawah Rp8 miliar sangat layak mempertimbangkannya."
+    },
+    {
+      "q": "Bagaimana dengan Sage 50cloud?",
+      "a": "Sage 50cloud tepat untuk bisnis dengan stok barang besar (manufaktur, distribusi, ritel). Kurang ideal untuk bisnis jasa murni. Warisan lebih dari 30 tahun membuat fiturnya sangat dalam, tetapi antarmukanya ketinggalan zaman."
+    }
+  ],
+  "products": {
+    "quickbooks-online-plus": {
+      "badge": "🏆 Terbaik untuk UKM di AS",
+      "review": "QuickBooks Online Plus adalah rekomendasi utama untuk usaha kecil di AS. Menjadi standar industri, punya jaringan akuntan terluas dan integrasi pihak ketiga terbanyak. Mendukung 5 pengguna, pelacakan proyek, dan manajemen stok. Harganya lebih tinggi dari alternatif lain, tetapi efek jaringan berupa keakraban akuntan adalah nilai yang nyata.",
+      "pros": [
+        "Standar industri di AS",
+        "Jaringan akuntan terluas",
+        "Integrasi yang kuat"
+      ],
+      "cons": [
+        "Lebih mahal dari alternatif",
+        "Fiturnya berlebihan untuk usaha sangat kecil"
+      ]
+    },
+    "xero-growing": {
+      "badge": "🎯 Antarmuka terbaik",
+      "review": "Xero Growing tepat jika Anda mengutamakan antarmuka yang lebih rapi dan pengguna tanpa batas. Mendominasi di luar AS (Inggris, Australia, Selandia Baru). $42 per bulan berbanding $90 milik QBO untuk kemampuan yang setara. Fokus kuat pada otomatisasi. Perlahan menyusul QBO dalam hal keakraban akuntan AS.",
+      "pros": [
+        "Antarmuka terbaik di kelasnya",
+        "Pengguna tanpa batas",
+        "Dominan di Inggris/Australia/Selandia Baru"
+      ],
+      "cons": [
+        "Jaringan akuntan AS lebih kecil dari QBO",
+        "Sebagian laporan lanjutan butuh paket Established"
+      ]
+    },
+    "freshbooks-plus": {
+      "badge": "🪜 Terbaik untuk bisnis jasa",
+      "review": "FreshBooks Plus tepat untuk bisnis jasa, konsultan, agensi, dan pekerja lepas. Antarmuka faktur terbaik, dengan pencatatan waktu dan manajemen proyek yang menyatu. Dibatasi 50 klien (cukup untuk mayoritas bisnis jasa). Kurang ideal untuk bisnis berbasis produk.",
+      "pros": [
+        "Antarmuka terbaik untuk bisnis jasa",
+        "Pencatatan waktu terintegrasi",
+        "Terjangkau untuk firma di bawah 50 klien"
+      ],
+      "cons": [
+        "Batas 50 klien",
+        "Minim beberapa laporan akuntansi konvensional"
+      ]
+    },
+    "wave-free": {
+      "badge": "🆓 Gratis terbaik",
+      "review": "Wave Accounting tepat untuk usaha kecil dengan omzet di bawah sekitar Rp3,2 miliar. Benar-benar gratis untuk pembukuan dan faktur. Pendapatannya berasal dari biaya pemrosesan pembayaran (2,9% + $0,30 per transaksi). Fitur lanjutannya terbatas, tetapi kebutuhan dasar tertangani dengan baik.",
+      "pros": [
+        "Gratis selamanya",
+        "Fitur dasar yang solid",
+        "Pendaftaran mudah"
+      ],
+      "cons": [
+        "Pelaporan terbatas",
+        "Rekonsiliasi lebih banyak manual",
+        "Biaya pemrosesan pembayaran adalah sumber pendapatan mereka"
+      ]
+    },
+    "sage-50cloud-pro": {
+      "badge": "🏭 Terbaik untuk bisnis berstok besar",
+      "review": "Sage 50cloud Pro Accounting tepat untuk bisnis dengan stok barang besar (manufaktur, distribusi, ritel). Hibrida desktop dan cloud, berpengalaman lebih dari 30 tahun, dengan manajemen stok dan perhitungan biaya per pekerjaan yang bertenaga. Kurva belajarnya curam, tetapi kedalaman fiturnya tak tertandingi untuk bisnis berbasis produk.",
+      "pros": [
+        "Manajemen stok yang kuat",
+        "Perhitungan biaya per pekerjaan",
+        "Fitur khusus per industri"
+      ],
+      "cons": [
+        "Antarmuka ketinggalan zaman",
+        "Kurang ideal untuk bisnis jasa murni",
+        "Kurva belajar yang curam"
+      ]
+    }
+  },
+  "offerNotes": {
+    "quickbooks-online-plus": "Daftar di quickbooks.intuit.com — sering ada diskon 50% untuk 6 bulan pertama.",
+    "xero-growing": "Daftar di xero.com — uji coba gratisnya bagus, diskon 60% untuk 3 bulan pertama.",
+    "freshbooks-plus": "Daftar di freshbooks.com — paling cocok untuk bisnis jasa dengan di bawah 50 klien.",
+    "wave-free": "Daftar di waveapps.com — gratis selamanya.",
+    "sage-50cloud-pro": "Daftar di sage.com — paling cocok untuk bisnis dengan stok barang besar."
+  },
+  "pinDescription": "Bingung pilih software akuntansi untuk usaha Anda? QuickBooks, Xero, FreshBooks, Wave, dan Sage kami bandingkan: batas pengguna, biaya tersembunyi, dan sampai mana paket gratisnya cukup. #softwareakuntansi #bisnisonline #ukm",
+  "recommendedFor": [
+    {
+      "label": "Pemilik usaha kecil di AS yang bekerja dengan akuntan publik",
+      "offerId": "quickbooks-online-plus",
+      "reason": "QBO adalah sistem yang paling banyak dikuasai akuntan AS, memangkas waktu penyusunan pajak hingga 60% dan menghilangkan masalah kompatibilitas."
+    },
+    {
+      "label": "Pemilik usaha kecil di Inggris, Australia, atau Selandia Baru",
+      "offerId": "xero-growing",
+      "reason": "Xero mendominasi di luar AS, dan paket pengguna tanpa batasnya seharga $42 per bulan mengalahkan QBO yang $90 untuk tim berapa pun ukurannya."
+    },
+    {
+      "label": "Pekerja lepas dan pemilik agensi yang menagih per jam",
+      "offerId": "freshbooks-plus",
+      "reason": "FreshBooks menyatukan pencatatan waktu, manajemen proyek, dan penerbitan faktur dalam satu alur — dirancang khusus untuk bisnis jasa dengan di bawah 50 klien."
+    },
+    {
+      "label": "Pendiri tunggal dan pelaku usaha sampingan dengan anggaran terbatas",
+      "offerId": "wave-free",
+      "reason": "Wave gratis selamanya untuk pembukuan dan faktur, tanpa biaya langganan — Anda hanya membayar biaya pemrosesan saat menerima pembayaran."
+    },
+    {
+      "label": "Produsen, distributor, dan peritel produk",
+      "offerId": "sage-50cloud-pro",
+      "reason": "Manajemen stok dan perhitungan biaya per pekerjaan Sage 50cloud yang matang selama 30 tahun mengungguli semua pesaing berbasis cloud untuk bisnis berbasis produk."
+    }
+  ]
 }

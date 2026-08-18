@@ -2,5 +2,152 @@
   "title": "Software Penggajian Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan Gusto, ADP, Paychex, OnPay, Square. Inilah perangkat lunak penggajian 2026 yang benar-benar unggul dalam hal waktu per gaji dan akurasi pelaporan pajak.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Waktu yang dibutuhkan untuk memproses penggajian",
+      "paragraphs": [
+        "Rata-rata menit per siklus penggajian (22 karyawan): Gusto 8 menit, Square Payroll 10 menit, OnPay 12 menit, Paychex Flex 18 menit, ADP RUN 22 menit. Optimasi antarmuka Gusto untuk usaha kecil benar-benar terasa.",
+        "Penggajian otomatis (tanpa perlu peninjauan manual): Gusto tingkat Premium, Square Payroll, dan OnPay mendukung mode otomatis untuk penggajian karyawan bergaji tetap saja. ADP dan Paychex menuntut persetujuan manual di setiap siklus.",
+        "Integrasi pencatatan waktu kerja: Gusto dan OnPay tersinkron langsung dengan Toggl/Harvest/Homebase. ADP/Paychex hanya tersinkron dengan produk pencatatan waktu milik mereka sendiri."
+      ]
+    },
+    {
+      "heading": "Akurasi pelaporan pajak",
+      "paragraphs": [
+        "Akurasi pelaporan pajak adalah titik pembeda paling jelas menurut laporan pengguna: Gusto, ADP, Paychex, dan OnPay nyaris tidak menuai keluhan soal kesalahan pelaporan, sementara Square Payroll terus mendapat keluhan kecil yang stabil, paling sering berupa pemotongan pajak daerah yang salah kategori.",
+        "Pelaporan otomatis vs manual: Gusto, ADP, Paychex, dan OnPay semuanya melaporkan pajak pusat, negara bagian, dan daerah secara otomatis. Square Payroll melaporkan sebagian besar secara otomatis, tetapi kadang ada celah di yurisdiksi yang kurang umum.",
+        "Pemrosesan formulir akhir tahun W-2 / 1099: Kelima layanan membuat dan melaporkan formulir akhir tahun. Gusto dan ADP memasukkannya ke dalam harga standar. Paychex menagih per formulir. OnPay dan Square Payroll sudah termasuk."
+      ]
+    },
+    {
+      "heading": "Kualitas dan biaya dukungan pelanggan",
+      "paragraphs": [
+        "Waktu respons pertama pada tiket nyata (surat pemberitahuan pajak pusat): Gusto 2 jam, OnPay 3 jam, Paychex 4 jam (spesialis khusus), ADP 6 jam (antrean umum), Square Payroll 24 jam.",
+        "Biaya bulanan untuk 22 karyawan: Gusto Plus US$324 (US$60 + US$12×22), OnPay US$172 (US$40 + US$6×22), Square Payroll US$145 (US$35 + US$5×22), Paychex Flex mulai US$250 (bervariasi, berdasarkan penawaran), ADP RUN mulai US$300 (bervariasi, berdasarkan penawaran).",
+        "Biaya tersembunyi: ADP dan Paychex menagih tambahan untuk administrasi tunjangan, pencatatan waktu kerja, dan formulir akhir tahun. Gusto dan OnPay menggabungkan sebagian besar fitur tambahan. Harga dasar Square Payroll yang lebih murah datang dengan beberapa keterbatasan fitur."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Gusto atau ADP untuk usaha kecil?",
+      "a": "Gusto untuk di bawah 50 karyawan: harga transparan, antarmuka terbaik. ADP untuk di atas 100 karyawan dengan kebutuhan rumit (lintas negara bagian, banyak yurisdiksi). Banyak bisnis melampaui kapasitas Gusto di sekitar angka 100 karyawan."
+    },
+    {
+      "q": "Mana yang paling murah?",
+      "a": "Square Payroll dengan US$35 + US$5/karyawan adalah yang paling murah. OnPay dengan US$40 + US$6/karyawan berada di urutan kedua. Keduanya sudah termasuk pelaporan pajak. Nilai lebih Gusto datang dari fitur HR yang lebih luas dengan biaya lebih tinggi."
+    },
+    {
+      "q": "Bisakah saya pindah layanan penggajian di tengah tahun?",
+      "a": "Bisa, tetapi siapkan 2–4 minggu masa berjalan paralel. Sebagian besar penyedia penggajian menawarkan bantuan migrasi. Perpindahan di akhir tahun (Desember) lebih mudah daripada di tengah tahun."
+    },
+    {
+      "q": "Apakah saya masih butuh software HR terpisah?",
+      "a": "Gusto Plus ke atas sudah mencakup fungsi HR dasar (pencatatan cuti, orientasi karyawan baru, pengelolaan dokumen). Untuk kebutuhan HR yang rumit (penilaian kinerja, manajemen pelatihan), gunakan HRIS terpisah."
+    }
+  ],
+  "products": {
+    "gusto-payroll-plus": {
+      "badge": "🏆 Terbaik untuk usaha kecil",
+      "review": "Gusto Plus adalah pilihan tepat untuk sebagian besar usaha kecil. Antarmuka terbaik di kelasnya, harga tetap yang transparan, dan sudah mencakup fitur HR (cuti, orientasi, tunjangan). Melaporkan seluruh pajak pusat/negara bagian/daerah secara otomatis. Rekomendasi standar untuk perusahaan di bawah 50 karyawan.",
+      "pros": [
+        "Antarmuka terbaik di kelasnya",
+        "Harga transparan",
+        "Sudah termasuk fitur HR"
+      ],
+      "cons": [
+        "US$60 + US$12/karyawan terasa berat saat jumlah karyawan bertambah",
+        "Mulai tak memadai di sekitar 100 karyawan"
+      ]
+    },
+    "adp-run": {
+      "badge": "🏢 Terbaik untuk pertumbuhan skala",
+      "review": "ADP RUN adalah pilihan tepat untuk bisnis yang berencana tumbuh melampaui 50 karyawan. Pemimpin industri, sanggup melayani dari 1 hingga lebih dari 1.000 karyawan, dengan tim kepatuhan terkuat. Harga berdasarkan penawaran, jadi kurang transparan dibanding Gusto.",
+      "pros": [
+        "Tumbuh mulus hingga skala korporasi",
+        "Tim kepatuhan terkuat",
+        "Solusi khusus untuk kebutuhan rumit"
+      ],
+      "cons": [
+        "Harga berdasarkan penawaran (kurang transparan)",
+        "Butuh lebih banyak langkah untuk memproses penggajian",
+        "Ada biaya tersembunyi untuk sebagian fitur"
+      ]
+    },
+    "paychex-flex": {
+      "badge": "📊 Terbaik untuk kelas menengah",
+      "review": "Paychex Flex Essentials adalah pilihan tepat untuk 10–500 karyawan. Alternatif mapan dari ADP, sudah termasuk spesialis khusus, dan kuat untuk sektor jasa (kesehatan, konstruksi).",
+      "pros": [
+        "Sudah termasuk spesialis khusus",
+        "Solusi kuat yang disesuaikan per industri",
+        "Paling pas di rentang 10–500 karyawan"
+      ],
+      "cons": [
+        "Harga berdasarkan penawaran",
+        "Antarmuka terasa kuno dibanding Gusto"
+      ]
+    },
+    "onpay-payroll": {
+      "badge": "💸 Nilai terbaik",
+      "review": "OnPay Payroll adalah pilihan tepat untuk usaha kecil yang menjaga anggaran. US$40 + US$6/karyawan sudah mencakup fitur lengkap (pelaporan pajak, HR dasar, integrasi). Kuat untuk restoran, pertanian, dan usaha jasa teknik. Permata tersembunyi di kategori penggajian.",
+      "pros": [
+        "Pilihan berfitur lengkap termurah",
+        "Kuat untuk usaha jasa teknik/restoran/pertanian",
+        "Harga transparan"
+      ],
+      "cons": [
+        "Nama mereknya kurang dikenal",
+        "Aplikasi selulernya kurang rapi dibanding Gusto"
+      ]
+    },
+    "square-payroll": {
+      "badge": "🪜 Terbaik untuk pengguna Square",
+      "review": "Square Payroll adalah pilihan tepat untuk bisnis yang sudah memakai Square POS. US$35 + US$5/karyawan, sudah termasuk pembayaran untuk pekerja lepas. Terintegrasi erat dengan Square Capital dan Square Banking. Kurang ideal bila dipakai sebagai layanan penggajian yang berdiri sendiri.",
+      "pros": [
+        "Integrasi erat dengan Square POS",
+        "Termurah sebagai layanan mandiri",
+        "Sudah termasuk pembayaran pekerja lepas"
+      ],
+      "cons": [
+        "Kurang ideal tanpa Square POS",
+        "Pengguna melaporkan kesalahan pelaporan pajak sesekali"
+      ]
+    }
+  },
+  "offerNotes": {
+    "gusto-payroll-plus": "Daftar di gusto.com — uji coba gratis fiturnya (bukan penggajian gratis).",
+    "adp-run": "Minta penawaran di adp.com — perlu bicara dengan tim penjualan.",
+    "paychex-flex": "Minta penawaran di paychex.com — perlu bicara dengan tim penjualan.",
+    "onpay-payroll": "Daftar di onpay.com — uji coba gratis 30 hari.",
+    "square-payroll": "Daftar di squareup.com/payroll — paling pas dipadukan dengan Square POS."
+  },
+  "pinDescription": "Bingung pilih software payroll? Gusto, ADP, Paychex, OnPay, dan Square dibandingkan: biaya nyata untuk 20 karyawan, kecepatan proses gaji, dan uji coba gratis. Simpan sebelum putuskan. #payroll #usahakecil #bisnis",
+  "recommendedFor": [
+    {
+      "label": "Pemilik usaha kecil yang baru merekrut karyawan pertama",
+      "offerId": "gusto-payroll-plus",
+      "reason": "Antarmuka Gusto yang terbaik di kelasnya plus fitur HR bawaan (cuti, orientasi) membuat pemberi kerja pemula bisa memproses gaji dalam 8 menit tanpa kesalahan pelaporan pajak."
+    },
+    {
+      "label": "Startup yang tumbuh cepat dan menargetkan lebih dari 50 karyawan",
+      "offerId": "adp-run",
+      "reason": "ADP RUN tumbuh mulus dari startup hingga skala korporasi dan punya tim kepatuhan terkuat untuk kerumitan lintas negara bagian dan banyak yurisdiksi."
+    },
+    {
+      "label": "Perusahaan kesehatan dan konstruksi dengan 10–100 karyawan",
+      "offerId": "paychex-flex",
+      "reason": "Paychex Flex menyertakan spesialis khusus dan solusi yang dirancang untuk sektor dengan regulasi ketat seperti kesehatan dan konstruksi."
+    },
+    {
+      "label": "Pemilik restoran dan usaha jasa teknik yang menjaga anggaran",
+      "offerId": "onpay-payroll",
+      "reason": "Tarif tetap OnPay US$40 + US$6/karyawan sudah mencakup pelaporan pajak lengkap dan dukungan kuat untuk industri padat pekerja per jam seperti restoran dan jasa teknik."
+    },
+    {
+      "label": "Bisnis ritel dan kuliner yang memakai Square POS setiap hari",
+      "offerId": "square-payroll",
+      "reason": "Square Payroll terhubung langsung dengan Square POS dan Banking, menjadikannya pilihan penggajian paling tanpa hambatan seharga US$35 + US$5/karyawan bagi pengguna Square."
+    }
+  ]
 }

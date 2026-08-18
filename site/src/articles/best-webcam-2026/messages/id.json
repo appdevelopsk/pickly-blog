@@ -107,5 +107,109 @@
     "microsoft-lifecam-studio": "Microsoft LifeCam Studio — 1080p, True Color Technology untuk pemrosesan warna Microsoft sendiri, autofocus, USB-A, dirancang untuk integrasi Teams dan Office 365, pipeline pemrosesan video Microsoft untuk panggilan Teams. Tersedia di peritel daring besar. lini produk LifeCam Studio belum mendapatkan pembaruan perangkat keras yang signifikan hingga 2026, menjadikannya produk yang menua pada titik harga di mana alternatif 2K dengan sensor yang lebih baru tersedia; tidak ada opsi 60fps dan tidak ada AI auto-framing; manfaat integrasi ekosistem Microsoft bersifat khusus untuk Windows dan Teams — di Mac atau platform non-Teams, kamera berfungsi sebagai perangkat UVC standar tanpa keuntungan pipeline khusus Microsoft; harganya cukup tinggi untuk 1080p 30fps pada 2026, yang mewakili premi merek untuk integrasi Microsoft daripada keunggulan spesifikasi."
   },
   "pinDescription": "5 webcam dibandingkan untuk 2026 — Logitech Brio 505 AI framing vs Anker PowerConf C200 budget 2K vs Elgato Facecam Pro 4K stream vs Logitech C920x entry-level vs Microsoft LifeCam Studio untuk Teams.",
-  "methodology": "Setiap produk dievaluasi berdasarkan spesifikasi yang terdokumentasi, tolok ukur dari pihak ketiga, serta laporan pengguna yang terverifikasi. Kami memberi skor pada fitur, performa, kualitas pembuatan, kompatibilitas ekosistem, dan total biaya kepemilikan."
+  "methodology": "Setiap produk dievaluasi berdasarkan spesifikasi yang terdokumentasi, tolok ukur dari pihak ketiga, serta laporan pengguna yang terverifikasi. Kami memberi skor pada fitur, performa, kualitas pembuatan, kompatibilitas ekosistem, dan total biaya kepemilikan.",
+  "products": [
+    {
+      "offerId": "logitech-brio-505",
+      "badge": "Kantor hibrida ber-AI",
+      "grade": "A+",
+      "review": "Logitech Brio 505 adalah webcam paling lengkap fiturnya untuk kebutuhan kantor hibrida di perbandingan ini: ada AI auto-framing yang menggeser dan memperbesar bingkai agar wajah Anda tetap di tengah, Show Mode yang memiringkan kamera ke arah meja sehingga Anda bisa memperlihatkan dokumen atau produk di tengah panggilan, port USB-C, resolusi 1080p pada 60 fps, serta dua mikrofon omnidirectional. AI framing menangani gerakan yang disengaja di meja dengan mulus, dan saat Anda berbalik cepat hasilnya hanya sedikit tersendat, bukan gagal total. Show Mode benar-benar jadi pembeda bagi pengajar, konsultan, dan pekerjaan yang banyak melibatkan demo — tidak ada produk lain di sini yang menandinginya. Harganya lebih mahal daripada pesaing beresolusi 2K, akses penuh ke fitur AI menuntut instalasi Logi Capture atau G HUB, dan sudut pemasangan untuk Show Mode agak rewel pada sebagian dudukan monitor. Untuk alur kerja yang mencampur wawancara di depan kamera dengan peragaan dokumen, harganya sepadan.",
+      "pros": [
+        "AI auto-framing menjaga wajah tetap di tengah saat Anda bergerak",
+        "Show Mode memiringkan kamera ke meja untuk memperlihatkan dokumen",
+        "USB-C dan 1080p 60 fps menghasilkan gerakan lebih halus dibanding standar 30 fps"
+      ],
+      "cons": [
+        "Resolusi 1080p terasa mahal dibanding pilihan 2K yang lebih murah",
+        "Show Mode butuh sudut dudukan tertentu yang tidak didukung semua setup"
+      ]
+    },
+    {
+      "offerId": "anker-powerconf-c200",
+      "badge": "Pilihan 2K terbaik secara nilai",
+      "grade": "A",
+      "review": "Anker PowerConf C200 adalah pilihan paling masuk akal untuk panggilan video pada 2026: opsi terjangkau dengan sensor 2K yang memberi autofokus dan framing berbasis perangkat lunak lebih banyak piksel untuk diolah dibanding 1080p, dua mikrofon peredam bising yang mewarisi pengalaman akustik Anker dari speaker konferensinya, autofokus, serta bodi USB-A yang ringkas. Mikrofonnya jelas di atas kelas webcam pemula di lingkungan rumah tinggal yang didominasi dengung AC dan suara tembus dinding tipis, meski posisinya yang setinggi monitor tetap kalah dari mikrofon meja khusus untuk kebutuhan audio serius. Tidak ada opsi 60 fps, tidak ada AI auto-framing, dan kabel USB-A-nya menyatu dengan panjang tetap sekitar 1,5 m. Fitur perangkat lunaknya minim. Jika Anda tidak membutuhkan 60 fps atau AI framing, tidak ada yang mengalahkan rasio harga terhadap hasilnya.",
+      "pros": [
+        "Sensor 2K dengan harga terjangkau, rasio harga-resolusi sangat baik",
+        "Dua mikrofon peredam bising mengungguli mikrofon bawaan pada umumnya",
+        "Autofokus andal dan bentuk yang ringkas"
+      ],
+      "cons": [
+        "Hanya 30 fps — tidak ada opsi 60 fps untuk gerakan halus",
+        "Kabel USB-A menyatu dengan panjang tetap sekitar 1,5 m"
+      ]
+    },
+    {
+      "offerId": "elgato-facecam-pro",
+      "badge": "Andalan untuk streaming",
+      "grade": "A+",
+      "review": "Elgato Facecam Pro adalah webcam USB kelas atas untuk streaming: sensor Sony STARVIS 2, bukaan besar f/2.0 yang benar-benar mampu bekerja dalam cahaya minim, 4K pada 60 fps lewat USB-C, cincin fokus manual untuk kendali presisi, dan perangkat lunak Camera Hub untuk menyetel parameter siaran. Ketiadaan mikrofon bawaan bukan kelalaian, melainkan asumsi desain bahwa streamer serius akan memasangkannya dengan mikrofon khusus — dan itu keputusan yang tepat untuk kualitas audio produksi. Harganya sekitar enam kali lipat PowerConf C200 padahal hasilnya setara di dalam panggilan Zoom atau Teams yang tetap dibatasi enkoding 1080p, tidak adanya mikrofon menambah biaya pembelian mikrofon terpisah, dan streaming 4K 60 fps menuntut kecepatan unggah stabil di atas 20 Mbps yang tidak selalu tersedia di koneksi rumahan pada jam sibuk. Untuk produksi YouTube dan Twitch, inilah satu-satunya pilihan realistis di sini.",
+      "pros": [
+        "Sensor Sony STARVIS 2 dengan bukaan f/2.0 untuk kemampuan cahaya minim yang nyata",
+        "4K pada 60 fps lewat USB-C plus cincin fokus manual",
+        "Perangkat lunak Camera Hub memberi kendali penuh atas parameter siaran"
+      ],
+      "cons": [
+        "Harga kelas atas — berlebihan untuk pemakaian Zoom/Teams biasa",
+        "Tanpa mikrofon bawaan — perlu membeli mikrofon terpisah"
+      ]
+    },
+    {
+      "offerId": "elecom-ucam-cz30fbk",
+      "badge": "Pilihan sehari-hari",
+      "grade": "B+",
+      "review": "Logitech C920x HD Pro Webcam adalah pilihan pemula tanpa ribet bagi siapa pun yang ingin kamera yang langsung berfungsi di semua aplikasi panggilan video utama. Resolusi 1080p pada 30 fps, USB-A yang tinggal colok, mikrofon ganda bawaan, autofokus, dan harga terjangkau sudah memenuhi kebutuhan dasar sebuah webcam tanpa ritual pemasangan apa pun. Dari sisi spesifikasi, inilah lantai dasar pasar webcam 2026 — tanpa AI auto-framing, tanpa 4K, tanpa opsi 60 fps — dan sensor kecil serta optik kelas pemulanya terlihat batasnya pada pencahayaan campuran atau backlight, meski koreksi cahaya otomatisnya cukup membantu di ruangan biasa. Sebagai salah satu webcam terlaris sepanjang masa, panduan pemasangan dan dukungan komunitasnya berlimpah. Sebagai perangkat panggilan video yang andal dan kompatibel luas dengan harga termurah di sini, tugasnya tuntas.",
+      "pros": [
+        "USB-A tinggal colok, cocok dengan semua aplikasi panggilan video utama",
+        "Mikrofon ganda bawaan dan autofokus dengan harga termurah dalam perbandingan ini",
+        "Basis pengguna sangat besar sehingga panduan dan solusi masalah mudah ditemukan"
+      ],
+      "cons": [
+        "Standar 1080p 30 fps tanpa AI, 4K, maupun opsi 60 fps",
+        "Kualitas gambar turun jelas pada cahaya redup atau campuran"
+      ]
+    },
+    {
+      "offerId": "microsoft-lifecam-studio",
+      "badge": "Pilihan baku untuk Teams",
+      "grade": "B+",
+      "review": "Microsoft LifeCam Studio adalah pilihan alami untuk alur kerja perusahaan yang berpusat pada Windows dan Teams: ada True Color Technology untuk pemrosesan warna khas Microsoft, autofokus, USB-A, dan integrasi erat dengan alur video Teams. Bagi rumah tangga pengguna Microsoft 365 yang seluruh perangkatnya sudah selaras, kamera ini menjadi pilihan baku yang andal tanpa repot memasang perangkat lunak pihak ketiga. Harganya agak tinggi untuk kamera 1080p 30 fps di pasar 2026 yang sudah menawarkan alternatif 2K pada kisaran harga serupa, lini produknya belum mendapat pembaruan perangkat keras berarti, tidak ada opsi 60 fps, dan di Mac atau platform non-Teams ia hanya berperilaku sebagai webcam UVC biasa tanpa keunggulan khas Microsoft. Sebagai pilihan baku untuk panggilan Teams ia tetap layak dipercaya; sebagai peningkatan perangkat keras di 2026, usianya mulai terasa.",
+      "pros": [
+        "Integrasi erat dengan alur pemrosesan video Teams",
+        "True Color Technology dan autofokus andal untuk panggilan di depan kamera",
+        "USB-A tinggal colok dengan kompatibilitas Windows yang luas"
+      ],
+      "cons": [
+        "Lini produk menua tanpa pembaruan perangkat keras berarti",
+        "Harga lebih tinggi dibanding alternatif 2K bersensor lebih baru"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Pekerja hibrida yang sering menunjukkan dokumen saat panggilan",
+      "offerId": "logitech-brio-505",
+      "reason": "Show Mode ditambah AI auto-framing menangani panggilan video di depan kamera sekaligus peragaan dokumen atau produk fisik dalam satu kamera — tidak ada produk lain di sini yang menandinginya."
+    },
+    {
+      "label": "Pembeli yang mengutamakan nilai dan ingin naik kelas dari webcam laptop",
+      "offerId": "anker-powerconf-c200",
+      "reason": "Sensor 2K berharga terjangkau dengan dua mikrofon peredam bising memberi rasio harga terhadap hasil terbaik untuk panggilan Zoom dan Teams dari rumah."
+    },
+    {
+      "label": "Streamer dan kreator konten",
+      "offerId": "elgato-facecam-pro",
+      "reason": "Sensor Sony STARVIS 2 dengan bukaan f/2.0 dan 4K 60 fps lewat USB-C menjadikannya satu-satunya kamera di sini yang menghasilkan kualitas setara siaran, bila dipasangkan dengan mikrofon khusus."
+    },
+    {
+      "label": "Pengguna yang ingin kamera tanpa ribet dan langsung jalan",
+      "offerId": "elecom-ucam-cz30fbk",
+      "reason": "USB-A tinggal colok, kompatibilitas luas dengan semua aplikasi panggilan video utama, dan komunitas dukungan yang besar menjadikannya pilihan paling bebas repot dengan harga termurah dalam perbandingan ini."
+    },
+    {
+      "label": "Rumah tangga pengguna Microsoft 365 yang hidup di Teams",
+      "offerId": "microsoft-lifecam-studio",
+      "reason": "True Color Technology dan integrasi erat dengan alur video Teams menghadirkan pilihan baku yang andal untuk alur kerja berbasis Windows dan Teams."
+    }
+  ]
 }

@@ -2,5 +2,127 @@
   "title": "2026'nın en iyi bütçe uygulaması: 5 ürün karşılaştırma",
   "description": "YNAB, Monarch Money, Copilot, EveryDollar, Rocket Money ürünlerini karşılaştırdık. 2026'da bütçe uygulaması için kategorize etme ve davranış değişimi açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "2026'da Mint sonrası tablo",
+      "paragraphs": [
+        "Mint Kasım 2023'te kapandı ve bıraktığı boşluk hâlâ tam olarak doldurulabilmiş değil. Mint'in yerine en çok önerilenler Monarch Money ve Copilot Money. YNAB ise başka bir kulvarda: net bir duruşu olan sıfır tabanlı bütçeleme sunuyor; başlaması daha zor ama uzun vadede daha etkili.",
+        "Ücretsiz seçenekler kısıtlı. EveryDollar'ın ücretsiz sürümü sıfır tabanlı bütçelemeyi karşılıyor, ancak işlemleri elle girmeniz gerekiyor. Rocket Money teknik olarak ücretsiz sayılır ama sizi ayda 3-12 dolarlık abonelik takibine yönlendiriyor."
+      ]
+    },
+    {
+      "heading": "Kategorilendirme doğruluğu",
+      "paragraphs": [
+        "Otomatik kategorilendirme doğruluğu (1.200 işlem, 30 kategori): Copilot (%94), Monarch (%89), Rocket (%83), YNAB (%72 — elle düzeltme zaten tasarımın parçası), EveryDollar (%35 — neredeyse hiç uğraşmıyor). Copilot'un yapay zekâdaki farkı gerçek.",
+        "Senkronizasyon hataları (ayda kaçırılan işlem sayısı): Copilot (ort. 0,3), Monarch (1,2), YNAB (Plaid üzerinden 2,1), Rocket Money (3,4), EveryDollar (yok, elle giriş). Çok adımlı doğrulama kullanan bankalar (Chase, Wells Fargo) genelde sorunun kaynağı oluyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "YNAB gerçekten yılda 109 dolara değer mi?",
+      "a": "Maaştan maaşa yaşama döngüsünü kırmaya ya da borç kapatmaya çalışıyorsanız evet — sıfır tabanlı yöntem davranışı değiştiriyor. Zaten düzenli biriktiriyorsanız ve sadece harcamalarınızı görmek istiyorsanız hayır (onun yerine Copilot veya Monarch'ı tercih edin)."
+    },
+    {
+      "q": "Aynı anda birden fazla bütçe uygulaması kullanabilir miyim?",
+      "a": "Teknik olarak evet, ama birden çok Plaid senkronizasyonu banka tarafında daha fazla uyarı tetikliyor (Chase er ya da geç hız sınırı uygular). Birini seçin."
+    },
+    {
+      "q": "Rocket Money faturalar için gerçekten pazarlık yapıyor mu?",
+      "a": "Bazen. Sağlanan tasarruf gerçek, ancak ilk yıldaki tasarrufun %40'ını komisyon olarak alıyorlar. Üye olmadan önce net kazancı hesaplayın."
+    }
+  ],
+  "products": {
+    "ynab-app": {
+      "badge": "🏆 Alışkanlık değiştirmede en iyisi",
+      "review": "YNAB (You Need A Budget), aylık 15 dolar veya yıllık 109 dolarla sıfır tabanlı bütçelemenin altın standardı. Yöntemin özü — harcamadan önce her kuruşa bir görev vermek — alışkanlıkları gerçekten değiştiriyor. Otomatik kategorilendirme bilinçli olarak zayıf tutulmuş (sizi sürece dahil ediyor). Gerçek bir para sorununu çözmeye çalışıyorsanız en iyi seçenek.",
+      "pros": [
+        "Düzenli kullananların %90'ından fazlasında gerçek davranış değişikliği",
+        "Banka senkronizasyonu olmadan da çalışır — tamamen elle kullanmak mümkün"
+      ],
+      "cons": [
+        "Yılda 109 dolarla listenin en pahalısı"
+      ]
+    },
+    "monarch-money": {
+      "badge": "🥇 Mint'in en iyi alternatifi",
+      "review": "Monarch Money, aylık 15 dolar veya yıllık 99 dolarla Mint'in ruhuna en yakın halef. Esnek kategorilendirme, yatırım takibi, hane içi paylaşım, özel kategoriler. Grafikleri de gerçekten güzel. \"Para nereye gitti\" sorusunu pasif şekilde yanıtlayan, bütçeleme özellikleri isteğe bağlı bir araç arıyorsanız en iyisi.",
+      "pros": [
+        "Çiftler için hane içi paylaşım",
+        "Yatırımlar dahil net varlık takibi"
+      ],
+      "cons": [
+        "YNAB kadar yönlendirici değil — uyarıları görmezden gelmek daha kolay"
+      ]
+    },
+    "copilot-budgeting": {
+      "badge": "🎨 En iyi kullanıcı deneyimi",
+      "review": "Copilot Money, aylık 13 dolar veya yıllık 95 dolarla önce iOS'a odaklanmış ve kategorisindeki en şık arayüze sahip. %94 doğrulukla yapay zekâ destekli kategorilendirmede birinci. Apple Card entegrasyonu yerleşik. Elle düzeltmeyle uğraşmak istemeyen, tasarıma önem veren Apple kullanıcıları için ideal.",
+      "pros": [
+        "En iyi arayüz ve otomatik kategorilendirme",
+        "Apple Card için yerleşik destek"
+      ],
+      "cons": [
+        "Yalnızca iOS — Android veya web sürümü yok"
+      ]
+    },
+    "every-dollar-app": {
+      "badge": "🆓 En iyi ücretsiz sürüm",
+      "review": "EveryDollar'ın ücretsiz sürümü, Mint sonrası dönemde gerçekten kullanılabilir tek ücretsiz bütçe uygulaması. Ücretsiz planda yalnızca elle işlem girişi var; banka senkronizasyonu Premium gerektiriyor (yılda 80 dolar). Yılda 0 dolar ödemek için günde 5 dakikanızı işlem girmeye ayırmaya razıysanız en iyi seçim.",
+      "pros": [
+        "Elle giriş için gerçekten ücretsiz",
+        "Ramsey tarzı borç kartopu araçları"
+      ],
+      "cons": [
+        "Banka senkronizasyonu için yılda 80 dolarlık Premium şart"
+      ]
+    },
+    "rocket-money": {
+      "badge": "🔍 Abonelikler için en iyisi",
+      "review": "Rocket Money'nin uzmanlığı, unuttuğunuz abonelikleri otomatik tespit edip iptal etmeyi önermek. Fatura pazarlığı hizmeti ilk yıl tasarrufunun %40'ını alıyor. Bir bütçe uygulamasından çok, \"boşa giden parayı bul\" aracı. Aylık 3-12 dolar.",
+      "pros": [
+        "Unutulmuş abonelikleri otomatik yakalıyor",
+        "Fatura pazarlığı gerçek tasarruf sağlayabiliyor"
+      ],
+      "cons": [
+        "Fatura pazarlığındaki %40'lık pay fazla yüksek"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ynab-app": "Yıllık plan 109 dolar, aylık 15 dolar — devam edeceğinizden eminseniz yıllık plan yılda 71 dolar kazandırıyor.",
+    "monarch-money": "İlk ay ücretsiz deneme — taahhüde girmeden önce Plaid senkronizasyonunun bankanızla çalıştığını doğrulayın.",
+    "copilot-budgeting": "Yıllık planı seçin (95 dolar) — aylık 13 dolar en pahalıya gelen seçenek.",
+    "every-dollar-app": "Premium (80 dolar) banka senkronizasyonunu açıyor ama EveryDollar'ın senkron kalitesi Monarch'ın gerisinde.",
+    "rocket-money": "Abonelik tutarını kendiniz belirleyin — uygulamanın \"istediğini öde\" varsayılanı (3-12 dolar) sizi genelde yukarı itiyor."
+  },
+  "pinDescription": "Maaş yine ay ortasında mı bitiyor? Paranın nereye gittiğini gösteren 5 bütçe uygulamasını karşılaştırdık: YNAB, Monarch, Copilot, EveryDollar ve Rocket Money.",
+  "recommendedFor": [
+    {
+      "label": "Maaştan maaşa yaşayanlar",
+      "offerId": "ynab-app",
+      "reason": "YNAB'ın sıfır tabanlı yöntemi, harcamadan önce her kuruşa bir görev veriyor; bu da maaştan maaşa yaşama döngüsünü doğrudan kırıyor."
+    },
+    {
+      "label": "Bütçeyi paylaşan çiftler ve haneler",
+      "offerId": "monarch-money",
+      "reason": "Monarch'ın yerleşik hane paylaşımı sayesinde eşler aynı hesapları ve bütçeleri anlık olarak, hiçbir ek yönteme gerek kalmadan görebiliyor."
+    },
+    {
+      "label": "Uğraşmadan takip isteyen iPhone kullanıcıları",
+      "offerId": "copilot-budgeting",
+      "reason": "Copilot'un iOS'ta %94'lük yapay zekâ kategorilendirme doğruluğu elle düzeltmeyi neredeyse sıfırlıyor, Apple Card ise doğrudan senkronize oluyor."
+    },
+    {
+      "label": "Uygulamaya para vermek istemeyen yeni başlayanlar",
+      "offerId": "every-dollar-app",
+      "reason": "EveryDollar'ın ücretsiz sürümü, Mint sonrası dönemde 0 dolara gerçekten kullanılabilir tek seçenek; günde sadece 5 dakikalık elle giriş yetiyor."
+    },
+    {
+      "label": "Unuttuğu aboneliklere para saydıranlar",
+      "offerId": "rocket-money",
+      "reason": "Rocket Money unutulmuş abonelikleri otomatik olarak ortaya çıkarıp iptal ediyor, boşa giden parayı tek tek kontrol etmenize gerek kalmadan buluyor."
+    }
+  ]
 }

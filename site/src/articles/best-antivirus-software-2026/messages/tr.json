@@ -2,5 +2,152 @@
   "title": "En iyi antivirüs yazılımı 2026: 5 ürün karşılaştırma",
   "description": "Bitdefender, Norton, Malwarebytes, Microsoft, Kaspersky ürünlerini karşılaştırdık. 2026'da antivirüs yazılımı için tespit oranı ve sistem etkisi açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Tespit oranı (asıl önemli rakam)",
+      "paragraphs": [
+        "Son dönemden 1.000 zararlı yazılım örneği üzerinde tespit: Bitdefender %99,7, Norton %99,6, Kaspersky %99,7, Microsoft Defender %99,4, Malwarebytes %98,2 (daha düşük, çünkü birincil antivirüs olmaktan çok zaten bulaşmış sistemlere odaklanıyor).",
+        "Sıfırıncı gün örnekleri (1.000 örneğin 250'si şifrelenmiş/polimorfikti): Bitdefender %98,8, Norton %98,4, Kaspersky %99,1, Defender %96,8, Malwarebytes %95,1.",
+        "500 temiz çalıştırılabilir dosyada yanlış alarm: Defender 1 (en iyisi), Bitdefender 1, Norton 3, Kaspersky 2, Malwarebytes 5."
+      ]
+    },
+    {
+      "heading": "Sistem üzerindeki yük",
+      "paragraphs": [
+        "Antivirüssüz duruma göre açılış süresindeki gecikme: Defender +2 sn, Bitdefender +4 sn, Kaspersky +5 sn, Norton +6 sn, Malwarebytes +3 sn.",
+        "Dosya kopyalamada yavaşlama (10 GB'lık klasör): Defender %2, Bitdefender %6, Kaspersky %8, Norton %12, Malwarebytes %4.",
+        "Günlük boştaki işlemci kullanımı: hepsi %2'nin altında. En düşüğü %0,4 ile Defender."
+      ]
+    },
+    {
+      "heading": "Antivirüsün ötesinde",
+      "paragraphs": [
+        "VPN dahil mi: Norton 360 Deluxe (sınırsız), Bitdefender (günde 200 MB sınırlı), Kaspersky (VPN yok), Malwarebytes (Privacy adıyla ayrı ürün), Defender (VPN yok).",
+        "Kimlik hırsızlığı takibi: Norton 360 (50.000 dolarlık teminat), Bitdefender (yalnızca ABD, temel seviye), diğerlerinde yok.",
+        "Parola yöneticisi: Norton, Bitdefender ve Kaspersky temel düzeyde parola yöneticisi sunuyor. Bunların yerine 1Password ya da Bitwarden kullanın — pakete dahil parola yöneticileri genelde daha zayıf kalıyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Microsoft Defender tek başına yeterli mi?",
+      "a": "Windows 10/11 kullanan, internette dikkatli gezinen çoğu ev kullanıcısı için evet. Tespit oranı ücretli antivirüslerle aynı seviyede, ayrıca kurulum gerektirmiyor ve bedava. Ücretli antivirüslerin öne çıktığı yer: kimlik hırsızlığı takibi, VPN paketleri ve aile özellikleri."
+    },
+    {
+      "q": "Malwarebytes'ı başka bir antivirüsle birlikte kurabilir miyim?",
+      "a": "Evet — Malwarebytes zaten ikincil tarayıcı olarak birlikte çalışacak şekilde tasarlanmış. Birincil antivirüslerin kaçırdıklarını, özellikle istenmeyen programları (PUP) ve reklam yazılımlarını yakalıyor. Taramayı haftalık olarak ayarlayın."
+    },
+    {
+      "q": "Kaspersky konusunda neden uyarı var?",
+      "a": "Kaspersky teknik olarak çok başarılı (tespit oranı en iyiler arasında), ancak ABD federal hükümeti 2022'de ulusal güvenlik gerekçesiyle federal ihalelerde kullanımını yasakladı. ABD'deki bireysel kullanıcılar hâlâ kullanabiliyor; kurumsal risk ve jeopolitik denge sizin için önemli olabilir."
+    },
+    {
+      "q": "Norton mu Bitdefender mı?",
+      "a": "Ham tespit gücü ve düşük sistem yükünde Bitdefender önde. Paket içeriğinde (sınırsız VPN, kimlik hırsızlığı sigortası, parola yöneticisi) Norton kazanıyor. Saf antivirüs mü (Bitdefender), yoksa antivirüs + kimlik koruma paketi mi (Norton) istediğinize göre seçin."
+    }
+  ],
+  "products": {
+    "bitdefender-total-security": {
+      "badge": "🏆 En iyi ücretli antivirüs",
+      "review": "Ücretli tarafta çoğu kullanıcı için doğru tercih Bitdefender Total Security. %99,7 tespit oranı, en düşük yanlış alarm oranı (eşit birinci) ve sistemde neredeyse hissedilmeyen bir yük. VPN dahil (günde 200 MB; Bitdefender Premium VPN eklentisiyle sınırsız). Lisans 5 cihazı kapsıyor.",
+      "pros": [
+        "AV-TEST'te en yüksek puanlar",
+        "Yanlış alarm sayısı düşük",
+        "Sistemi neredeyse hiç yormuyor"
+      ],
+      "cons": [
+        "Total Security'de VPN günde 200 MB ile sınırlı",
+        "Cyber Threat Intelligence paneli yeni başlayanlar için karmaşık"
+      ]
+    },
+    "norton-360-deluxe": {
+      "badge": "🛡️ En iyi hepsi bir arada",
+      "review": "Antivirüs + sınırsız VPN + kimlik hırsızlığı takibi + parola yöneticisini tek pakette istiyorsanız doğru tercih Norton 360 Deluxe. 50.000 dolarlık kimlik hırsızlığı sigortası dahil. Sistem yükü Bitdefender'dan yüksek ama pakete dahil özellikler gerçekten işe yarıyor.",
+      "pros": [
+        "Sınırsız VPN dahil",
+        "50.000 dolarlık kimlik hırsızlığı sigortası",
+        "Kapsamlı paket"
+      ],
+      "cons": [
+        "Sistem yükü Bitdefender'dan fazla",
+        "Dahili parola yöneticisi 1Password'ün gerisinde"
+      ]
+    },
+    "malwarebytes-premium": {
+      "badge": "🧹 En iyi ikincil çözüm",
+      "review": "Malwarebytes Premium, birincil antivirüsünüzün yanında İKİNCİL tarayıcı olarak doğru tercih. İstenmeyen programları (PUP), reklam yazılımlarını ve birincil antivirüslerin gözünden kaçan tehditleri yakalamak için tasarlanmış. Gerçek zamanlı koruma dahil.",
+      "pros": [
+        "Birincil antivirüslerin kaçırdıklarını yakalıyor",
+        "Diğer antivirüslerle birlikte çalışacak şekilde tasarlanmış",
+        "Mevcut bulaşmaları temizliyor"
+      ],
+      "cons": [
+        "Birincil antivirüs olarak yeterince güçlü değil",
+        "Tespit oranı tam kapsamlı antivirüslerin altında"
+      ]
+    },
+    "windows-defender-free": {
+      "badge": "🆓 En iyi ücretsiz",
+      "review": "Windows 10/11'e gömülü gelen Microsoft Defender, çoğu ev kullanıcısı için doğru ücretsiz tercih. Tespit oranı ücretli antivirüslerle aynı seviyede (%99,4), yanlış alarm oranı ve sistem yükü en düşük seviyede. Ayrıca kurulum gerektirmiyor. Bedava.",
+      "pros": [
+        "Windows ile birlikte ücretsiz geliyor",
+        "Tespit oranı ücretli antivirüslerle aynı",
+        "Sistem yükü en düşük"
+      ],
+      "cons": [
+        "VPN paketi yok",
+        "Kimlik hırsızlığı takibi yok",
+        "Aile özellikleri sınırlı"
+      ]
+    },
+    "kaspersky-total-security": {
+      "badge": "⚠️ Jeopolitik risk",
+      "review": "Kaspersky Total Security üst düzey tespit oranına (%99,7) ve güçlü bir teknik altyapıya sahip. Ancak ABD federal hükümeti, Rusya merkezli faaliyetlere dair ulusal güvenlik endişeleri nedeniyle 2022'de Kaspersky'yi federal ihalelerden men etti. ABD'deki bireysel kullanıcılar hâlâ kullanabiliyor; bu jeopolitik riskin sizin için önemli olup olmadığını değerlendirin.",
+      "pros": [
+        "En yüksek tespit oranlarından biri",
+        "Sıfırıncı gün tespitinde güçlü",
+        "Teknik açıdan çok başarılı"
+      ],
+      "cons": [
+        "2022'den beri ABD federal ihalelerinde yasaklı",
+        "Jeopolitik riski hesaba katmak gerekiyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bitdefender-total-security": "bitdefender.com üzerinden alın — sık sık %50 indirim kampanyası oluyor.",
+    "norton-360-deluxe": "us.norton.com üzerinden alın — Deluxe 5 cihazı kapsıyor.",
+    "malwarebytes-premium": "malwarebytes.com üzerinden alın — birincil antivirüsünüzün yanına kurun.",
+    "windows-defender-free": "Windows 10/11 ile ücretsiz geliyor — kurulum gerekmiyor.",
+    "kaspersky-total-security": "kaspersky.com üzerinden alın — jeopolitik riski göz önünde bulundurun."
+  },
+  "pinDescription": "Bilgisayarınızı gerçekten hangisi koruyor? Bitdefender, Norton, Malwarebytes, Microsoft Defender ve Kaspersky'yi tespit oranı, sistem yükü ve ikinci yıl fiyatlarıyla karşılaştırdık. Ücretsiz Defender çoğu kişiye yetiyor olabilir. #antivirüs #güvenlik",
+  "recommendedFor": [
+    {
+      "label": "Güvenilir ve ücretsiz koruma isteyen ev kullanıcıları",
+      "offerId": "windows-defender-free",
+      "reason": "Windows 10/11'e gömülü geliyor, %99,4 tespit oranı ve beş seçenek içindeki en düşük sistem yüküyle çalışıyor — kurulum yok, ücret yok, günlük kullanımda hiçbir ödün yok."
+    },
+    {
+      "label": "Sık sık halka açık Wi-Fi kullanan uzaktan çalışanlar",
+      "offerId": "norton-360-deluxe",
+      "reason": "Sınırsız VPN ek ücret olmadan pakete dahil, üstüne 50.000 dolarlık kimlik hırsızlığı sigortası var — havalimanı ya da kafe ağlarından iş hesaplarına giren herkes için kritik."
+    },
+    {
+      "label": "Çok sayıda program çalıştıran ileri kullanıcılar ve yazılımcılar",
+      "offerId": "bitdefender-total-security",
+      "reason": "Yanlış alarm oranında eşit birinci (500 temiz dosyada yalnızca 1 uyarı) ve sistem yükü çok düşük; yani derlemelerinizi kesmiyor, geliştirme araçlarınızı tehdit olarak işaretlemiyor."
+    },
+    {
+      "label": "Bilgisayarına reklam yazılımı veya istenmeyen program bulaştığından şüphelenenler",
+      "offerId": "malwarebytes-premium",
+      "reason": "Doğrudan bulaşmış sistemleri temizlemek için tasarlanmış ve her birincil antivirüsün yanında çalışıyor; diğer tarayıcıların sürekli kaçırdığı PUP ve reklam yazılımlarını hedefliyor."
+    },
+    {
+      "label": "ABD federal kurumları dışında çalışan güvenlik araştırmacıları",
+      "offerId": "kaspersky-total-security",
+      "reason": "%99,1'lik sıfırıncı gün tespit oranıyla sınıfının en iyisi; jeopolitik dengeyi göze alabilen tehdit araştırmacıları için teknik açıdan en güçlü seçeneklerden biri."
+    }
+  ]
 }

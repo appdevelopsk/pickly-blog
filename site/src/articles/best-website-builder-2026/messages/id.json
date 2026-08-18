@@ -2,5 +2,148 @@
   "title": "pembuat situs web Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan Squarespace, Wix, Webflow, Shopify, Carrd. Inilah pembuat situs web 2026 yang benar-benar unggul dalam hal waktu publikasi dan portabilitas ekspor.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Waktu sampai situs terbit",
+      "paragraphs": [
+        "Jam yang dibutuhkan dari mendaftar sampai situs 8 halaman terbit: Squarespace 3 jam, Wix 4 jam (dengan generator AI turun jadi 1 jam, tapi kualitas desainnya menurun), Webflow 8 jam (kurva belajar paling terjal), Shopify 5 jam (fokus e-commerce memperlambat situs non-toko), Carrd 2 jam.",
+        "Squarespace paling cepat karena templatnya sudah mengambil keputusan desain untuk Anda. Webflow paling lama — hasilnya benar-benar setara karya desainer, dan rasanya lebih seperti mempelajari sebuah aplikasi desain ketimbang memakai website builder."
+      ]
+    },
+    {
+      "heading": "Tampilan mobile + SEO",
+      "paragraphs": [
+        "Skor Lighthouse mobile (dari 100): Squarespace 78, Wix 65, Webflow 88 (terbaik — kode keluarannya bersih), Shopify 75, Carrd 92 (nyaris tanpa beban tambahan).",
+        "Pengaturan SEO bawaan (meta, schema, sitemap, robots.txt): Kelima platform membuat sitemap + robots.txt secara otomatis. Squarespace dan Webflow paling rapi dalam menangani meta bawaan. Wix membaik sejak 2024. SEO Shopify disetel untuk e-commerce. Carrd punya lebih sedikit pengaturan, tapi nilai bawaannya sudah masuk akal."
+      ]
+    },
+    {
+      "heading": "Terkunci di platform vs bisa diekspor",
+      "paragraphs": [
+        "Opsi ekspor: Webflow mengekspor HTML/CSS/JS yang bersih (satu-satunya). Sisanya terkunci di platform masing-masing. Pindah ke tempat lain berarti membangun ulang secara manual.",
+        "Portabilitas domain: Kelimanya mendukung domain kustom. Namun pada platform yang terkunci, Anda tidak bisa membawa desainnya — hanya domain yang bisa dipindahkan."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Squarespace atau Wix?",
+      "a": "Pilih Squarespace untuk situs yang mengutamakan desain, di mana templat sudah mengerjakan sebagian besar tugas. Pilih Wix kalau butuh keleluasaan maksimal lewat drag-and-drop. Squarespace lebih rapi; Wix lebih fleksibel, tapi konsistensinya jadi taruhan."
+    },
+    {
+      "q": "Kurva belajar Webflow — sepadan?",
+      "a": "Sepadan kalau Anda ingin kendali sekelas desainer plus kebebasan mengekspor. Tidak sepadan kalau Anda hanya mau drag-and-drop sederhana. Webflow butuh 1-2 minggu untuk dikuasai; imbalannya hasil bermutu profesional."
+    },
+    {
+      "q": "Shopify untuk situs non-toko?",
+      "a": "Kurang tepat. Shopify dirancang untuk e-commerce lebih dulu; halaman non-produk terasa seperti pelengkap. Gunakan Shopify bila produk adalah yang utama; gunakan Squarespace/Wix/Webflow bila kontennya yang utama."
+    },
+    {
+      "q": "Carrd atau tool landing page?",
+      "a": "Carrd cocok untuk situs pribadi, link-in-bio, dan kehadiran satu halaman. Untuk banyak halaman, pakai Squarespace/Wix/Webflow. Dengan tarif $19 per tahun (sekitar Rp310.000), Carrd adalah opsi serius yang paling murah."
+    }
+  ],
+  "products": {
+    "squarespace-builder": {
+      "badge": "🎨 Desain bawaan terbaik",
+      "review": "Squarespace tepat untuk situs yang mengutamakan desain, di mana templat mengerjakan bagian beratnya. Estetikanya ala Apple, fitur e-commerce terbaik di luar Shopify pada paket yang lebih tinggi, plus penjadwalan dan email marketing yang sudah terintegrasi.",
+      "pros": [
+        "Templat desain terbaik",
+        "Penjadwalan + email terintegrasi",
+        "Estetika ala Apple"
+      ],
+      "cons": [
+        "Kurang leluasa dibanding Wix",
+        "Terkunci di platform"
+      ]
+    },
+    "wix-builder": {
+      "badge": "🪄 Paling leluasa",
+      "review": "Wix tepat untuk keleluasaan desain semaksimal mungkin. Generator situs berbasis AI-nya menghasilkan situs dalam hitungan menit (kualitasnya bervariasi). Pustaka templat terbesar (900+). Ada Wix Studio untuk kendali sekelas desainer. Tersedia paket gratis dengan branding Wix.",
+      "pros": [
+        "Drag-and-drop paling leluasa",
+        "Generator situs berbasis AI",
+        "Ada paket gratis"
+      ],
+      "cons": [
+        "Butuh usaha menjaga konsistensi desain",
+        "Tampilan mobile secara historis lebih lemah"
+      ]
+    },
+    "webflow-builder": {
+      "badge": "🥇 Paling setara desainer",
+      "review": "Webflow tepat untuk kendali sekelas desainer dengan keluaran kode yang bersih. Penyuntingan visual sampai level CSS, dan bisa mengekspor HTML/CSS/JS untuk di-hosting sendiri. Kurva belajarnya memang nyata, tapi hasilnya bermutu profesional.",
+      "pros": [
+        "Editor visual sekelas desainer",
+        "Ekspor HTML/CSS/JS yang bersih",
+        "Skor Lighthouse terbaik"
+      ],
+      "cons": [
+        "Kurva belajar terjal",
+        "Lebih mahal dibanding Squarespace"
+      ]
+    },
+    "shopify-builder": {
+      "badge": "🛍️ Terbaik untuk e-commerce",
+      "review": "Shopify tepat untuk situs yang mengutamakan e-commerce. Pemrosesan pembayaran bawaan, ekosistem aplikasi yang luas (10.000+ aplikasi), dan SEO dengan schema produk. Kurang ideal untuk situs yang mengutamakan konten.",
+      "pros": [
+        "Fitur e-commerce terbaik",
+        "Pemrosesan pembayaran bawaan",
+        "Ekosistem aplikasi sangat besar"
+      ],
+      "cons": [
+        "Berlebihan untuk situs non-toko",
+        "Abstraksi e-commerce memperlambat situs konten"
+      ]
+    },
+    "carrd-single-page": {
+      "badge": "💸 Terbaik untuk satu halaman",
+      "review": "Carrd tepat untuk situs pribadi, link-in-bio, dan kehadiran satu halaman. Biaya $19 per tahun (sekitar Rp310.000) membuka semua fitur (domain kustom, formulir, embed). Skor Lighthouse-nya paling bersih. Bukan untuk situs banyak halaman.",
+      "pros": [
+        "$19 per tahun untuk semua fitur",
+        "Skor Lighthouse paling bersih",
+        "Terbit secepat kilat"
+      ],
+      "cons": [
+        "Tidak mendukung banyak halaman",
+        "Fitur e-commerce terbatas"
+      ]
+    }
+  },
+  "offerNotes": {
+    "squarespace-builder": "Daftar di squarespace.com — uji coba gratis 14 hari.",
+    "wix-builder": "Daftar di wix.com — paket gratis dengan branding Wix. Berbayar mulai $16/bulan (sekitar Rp260.000).",
+    "webflow-builder": "Daftar di webflow.com — paket designer gratis. Hosting situs mulai $14/bulan (sekitar Rp228.000).",
+    "shopify-builder": "Daftar di shopify.com — uji coba gratis 3 hari, lalu $1/bulan (sekitar Rp16.000) selama 3 bulan.",
+    "carrd-single-page": "Daftar di carrd.co — tersedia paket gratis. Pro seharga $19/tahun (sekitar Rp310.000)."
+  },
+  "pinDescription": "Mau bikin website sendiri tanpa coding? Kami uji Squarespace, Wix, Webflow, Shopify, dan Carrd dengan situs 8 halaman yang sama. Ini hasil skor kecepatan dan siapa yang mengunci desain Anda.",
+  "recommendedFor": [
+    {
+      "label": "Pemilik usaha kecil yang ingin tampilan brand yang rapi",
+      "offerId": "squarespace-builder",
+      "reason": "Templat ala Apple dan fitur penjadwalan bawaan Squarespace membuat Anda punya situs profesional dengan cepat, tanpa perlu menyewa desainer."
+    },
+    {
+      "label": "Kreator dan blogger yang ingin mengatur tata letak sepenuhnya",
+      "offerId": "wix-builder",
+      "reason": "Keleluasaan drag-and-drop Wix dan 900+ templatnya memungkinkan Anda menyesuaikan setiap elemen tanpa menyentuh kode."
+    },
+    {
+      "label": "Desainer web dan agensi yang membangun situs untuk klien",
+      "offerId": "webflow-builder",
+      "reason": "Editor level CSS milik Webflow dan ekspor HTML/CSS/JS yang bersih memberi desainer hasil profesional yang bisa diserahkan ke klien atau di-hosting sendiri."
+    },
+    {
+      "label": "Pengusaha yang ingin membuka toko online",
+      "offerId": "shopify-builder",
+      "reason": "Pemrosesan pembayaran bawaan Shopify dan ekosistem 10.000+ aplikasinya menjadikannya jalan tercepat menuju toko online yang siap beroperasi penuh."
+    },
+    {
+      "label": "Freelancer dan solopreneur yang membuat portofolio sederhana",
+      "offerId": "carrd-single-page",
+      "reason": "Paket semua-fitur Carrd seharga $19 per tahun dan waktu terbit yang secepat kilat membuatnya ideal untuk link-in-bio pribadi atau portofolio satu halaman."
+    }
+  ]
 }

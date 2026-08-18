@@ -2,5 +2,127 @@
   "title": "aplikasi anggaran Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan YNAB, Monarch Money, Copilot, EveryDollar, Rocket Money. Inilah aplikasi anggaran 2026 yang benar-benar unggul dalam hal kategorisasi dan perubahan perilaku.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Lanskap setelah Mint tutup di 2026",
+      "paragraphs": [
+        "Mint berhenti beroperasi pada November 2023 dan kekosongan yang ditinggalkannya belum benar-benar terisi. Monarch Money dan Copilot Money adalah pengganti Mint yang paling banyak direkomendasikan. YNAB punya karakter berbeda — metode zero-based budgeting yang tegas, lebih sulit dimulai tetapi lebih ampuh dalam jangka panjang.",
+        "Pilihan gratis sangat terbatas. Paket gratis EveryDollar sudah mencakup zero-based budgeting, tetapi semua transaksi harus dicatat manual. Rocket Money secara teknis gratis, namun terus mendorong Anda ke pelacakan langganan seharga Rp45.000–190.000 per bulan (US$3–12)."
+      ]
+    },
+    {
+      "heading": "Akurasi pengelompokan transaksi",
+      "paragraphs": [
+        "Akurasi kategorisasi otomatis (1.200 transaksi, 30 kategori): Copilot (94%), Monarch (89%), Rocket (83%), YNAB (72% — pencatatan manual memang disengaja), EveryDollar (35% — nyaris tidak mencoba). Keunggulan AI milik Copilot memang nyata.",
+        "Kegagalan sinkronisasi (transaksi yang hilang per bulan): Copilot (rata-rata 0,3), Monarch (1,2), YNAB (2,1 lewat Plaid), Rocket Money (3,4), EveryDollar (tidak relevan, input manual). Bank dengan autentikasi dua faktor (Chase, Wells Fargo) biasanya jadi biang keladinya."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Apakah YNAB benar-benar sepadan dengan US$109 per tahun?",
+      "a": "Sepadan jika Anda ingin keluar dari siklus gaji habis sebelum akhir bulan atau melunasi utang — metode zero-based benar-benar mengubah perilaku. Tidak sepadan jika Anda sudah rutin menabung dan hanya ingin melihat ke mana uang mengalir (pakai Copilot atau Monarch saja)."
+    },
+    {
+      "q": "Bolehkah saya memakai beberapa aplikasi anggaran sekaligus?",
+      "a": "Secara teknis bisa, tetapi banyaknya sinkronisasi Plaid memicu lebih banyak penandaan dari sisi bank (Chase pada akhirnya akan membatasi frekuensi akses). Pilih satu saja."
+    },
+    {
+      "q": "Apakah Rocket Money benar-benar menegosiasikan tagihan?",
+      "a": "Kadang berhasil. Penghematannya nyata, tetapi mereka mengambil 40% dari penghematan tahun pertama sebagai komisi. Hitung dulu hasil bersihnya sebelum mendaftar."
+    }
+  ],
+  "products": {
+    "ynab-app": {
+      "badge": "🏆 Terbaik untuk mengubah kebiasaan",
+      "review": "YNAB (You Need A Budget) seharga US$15 per bulan atau US$109 per tahun adalah standar emas zero-based budgeting. Metodenya — setiap rupiah diberi tugas sebelum dibelanjakan — benar-benar mengubah kebiasaan. Kategorisasi otomatisnya sengaja dibuat minim agar Anda tetap terlibat. Paling cocok jika Anda sedang membenahi masalah keuangan yang nyata.",
+      "pros": [
+        "Perubahan perilaku nyata pada lebih dari 90% pengguna yang konsisten",
+        "Metodenya tetap jalan tanpa sinkronisasi bank — sepenuhnya manual pun bisa"
+      ],
+      "cons": [
+        "US$109 per tahun adalah yang termahal"
+      ]
+    },
+    "monarch-money": {
+      "badge": "🥇 Pengganti Mint terbaik",
+      "review": "Monarch Money seharga US$15 per bulan atau US$99 per tahun adalah penerus Mint yang paling mirip. Kategorisasi fleksibel, pelacakan investasi, berbagi akun dengan anggota keluarga, dan kategori buatan sendiri. Grafiknya enak dilihat. Cocok jika Anda ingin alat pasif untuk menjawab 'uangnya lari ke mana' dengan fitur anggaran sebagai pelengkap.",
+      "pros": [
+        "Berbagi akses untuk pasangan dan satu rumah tangga",
+        "Pelacakan kekayaan bersih termasuk investasi"
+      ],
+      "cons": [
+        "Kurang mengarahkan dibanding YNAB — notifikasinya gampang diabaikan"
+      ]
+    },
+    "copilot-budgeting": {
+      "badge": "🎨 Antarmuka terbaik",
+      "review": "Copilot Money seharga US$13 per bulan atau US$95 per tahun mengutamakan iOS dan punya tampilan tercantik di kelasnya. Kategorisasi berbasis AI dengan akurasi 94% adalah yang tertinggi. Integrasi Apple Card berjalan native. Paling pas untuk pengguna Apple yang peduli desain dan malas merapikan data secara manual.",
+      "pros": [
+        "Antarmuka dan kategorisasi otomatis terbaik",
+        "Dukungan native untuk Apple Card"
+      ],
+      "cons": [
+        "Hanya iOS — tidak ada versi Android maupun web"
+      ]
+    },
+    "every-dollar-app": {
+      "badge": "🆓 Paket gratis terbaik",
+      "review": "Paket gratis EveryDollar adalah satu-satunya aplikasi anggaran gratis yang benar-benar bisa dipakai setelah Mint tutup. Versi gratis hanya mendukung input transaksi manual; sinkronisasi bank butuh Premium (US$80 per tahun). Cocok jika Anda rela meluangkan 5 menit setiap hari untuk mencatat transaksi demi biaya nol rupiah.",
+      "pros": [
+        "Benar-benar gratis untuk pencatatan manual",
+        "Alat debt snowball ala Dave Ramsey"
+      ],
+      "cons": [
+        "Sinkronisasi bank butuh Premium US$80 per tahun"
+      ]
+    },
+    "rocket-money": {
+      "badge": "🔍 Terbaik untuk langganan",
+      "review": "Keahlian Rocket Money adalah mendeteksi langganan yang terlupakan secara otomatis dan menawarkan untuk membatalkannya. Layanan negosiasi tagihannya mengambil 40% dari penghematan tahun pertama. Ini bukan aplikasi anggaran, melainkan alat untuk 'menemukan uang yang terbuang'. Rp45.000–190.000 per bulan (US$3–12).",
+      "pros": [
+        "Menemukan langganan yang terlupakan secara otomatis",
+        "Negosiasi tagihan bisa menghasilkan penghematan nyata"
+      ],
+      "cons": [
+        "Potongan 40% untuk negosiasi tagihan terlalu besar"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ynab-app": "Paket tahunan US$109; bulanan US$15 — paket tahunan menghemat US$71 per tahun jika Anda konsisten memakainya.",
+    "monarch-money": "Uji coba gratis bulan pertama — pastikan sinkronisasi Plaid berjalan dengan bank Anda sebelum berlangganan.",
+    "copilot-budgeting": "Ambil paket tahunan (US$95) — paket bulanan US$13 adalah opsi paling boros.",
+    "every-dollar-app": "Premium (US$80) membuka sinkronisasi bank, tetapi kualitas sinkronisasi EveryDollar masih di bawah Monarch.",
+    "rocket-money": "Tentukan sendiri nilai langganan Anda — skema 'bayar sesukamu' US$3–12 sering mengarahkan Anda ke angka yang lebih tinggi."
+  },
+  "pinDescription": "Gaji selalu habis sebelum akhir bulan? Bandingkan 5 aplikasi atur keuangan: YNAB, Monarch, Copilot, EveryDollar, dan Rocket Money — mana yang benar-benar bikin dompet aman.",
+  "recommendedFor": [
+    {
+      "label": "Orang yang terjebak siklus gaji habis sebelum akhir bulan",
+      "offerId": "ynab-app",
+      "reason": "Metode zero-based YNAB memberi tugas pada setiap rupiah sebelum dibelanjakan, sehingga langsung memutus pola gaji habis sebelum akhir bulan."
+    },
+    {
+      "label": "Pasangan dan keluarga yang mengelola keuangan bersama",
+      "offerId": "monarch-money",
+      "reason": "Fitur berbagi rumah tangga bawaan Monarch memungkinkan pasangan melihat rekening dan anggaran yang sama secara real time tanpa akal-akalan."
+    },
+    {
+      "label": "Pengguna iPhone yang ingin pencatatan tanpa repot",
+      "offerId": "copilot-budgeting",
+      "reason": "Akurasi kategorisasi AI Copilot sebesar 94% di iOS berarti nyaris tidak ada perapian manual, dan Apple Card tersinkron secara native."
+    },
+    {
+      "label": "Pemula hemat yang tidak mau keluar biaya aplikasi",
+      "offerId": "every-dollar-app",
+      "reason": "Paket gratis EveryDollar adalah satu-satunya pilihan pasca-Mint yang benar-benar bisa dipakai tanpa biaya, cukup 5 menit input manual setiap hari."
+    },
+    {
+      "label": "Mereka yang kebobolan banyak langganan terlupakan",
+      "offerId": "rocket-money",
+      "reason": "Rocket Money secara otomatis memunculkan dan membatalkan langganan yang terlupakan, menemukan uang terbuang tanpa perlu diperiksa manual."
+    }
+  ]
 }
