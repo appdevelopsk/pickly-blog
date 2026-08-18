@@ -70,5 +70,114 @@
     "dyson-360-vis-nav": "Compre somente se você especificamente quer um Dyson — preço top sem a base de auto-esvaziamento ou função de esfregão que os outros têm a preços mais baixos."
   },
   "pinDescription": "Cinco robôs aspiradores comparados em 2026: do econômico SwitchBot K10+ ao topo de linha Dyson 360 Vis Nav. Sucção, função de esfregão, precisão de mapeamento e qual um apartamento pequeno realmente precisa.",
-  "methodology": "Avaliamos cada produto quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. Comparamos as especificações do fabricante com avaliações verificadas de quem já comprou."
+  "methodology": "Avaliamos cada produto quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. Comparamos as especificações do fabricante com avaliações verificadas de quem já comprou.",
+  "products": [
+    {
+      "offerId": "roborock-s8-pro-ultra",
+      "badge": "Melhor topo de linha",
+      "review": "O Roborock S8 Pro Ultra é o topo de linha padrão para quem quer um único robô aspirador que dá conta de praticamente tudo sem precisar pesquisar mais. Os 6.000 Pa de sucção funcionam em piso de madeira e tapetes de pelo curto a médio, os dois discos de esfregão giratórios com elevação automática sobre tapetes aspiram e passam pano numa única passada, e o mapeamento LiDAR gera uma planta útil já na primeira rodada, em vez das 2 ou 3 rodadas de aprendizado que os modelos com câmera exigem. A base multifuncional esvazia o reservatório num saco lacrado, lava o esfregão com água quente e reabastece o tanque de água limpa sozinha — o trio de recursos que separa o uso diário do uso semanal. O aparelho custa mais de três vezes o preço do SwitchBot, e esse valor extra vai para a base e o mapeamento, não para a sucção em si. É o melhor desta comparação em transposição de desníveis, com 2 cm.",
+      "pros": [
+        "Mapeamento LiDAR já é preciso na primeira rodada",
+        "Dois discos de esfregão giratórios com elevação automática sobre tapetes",
+        "Base que esvazia, lava e reabastece sozinha",
+        "Sobe desníveis de 2 cm — o maior desta comparação"
+      ],
+      "cons": [
+        "Custa mais de três vezes o preço do SwitchBot",
+        "O valor extra está mais na base do que na sucção"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "irobot-roomba-j7-plus",
+      "badge": "Melhor para quem tem pets",
+      "review": "O iRobot Roomba j7+ garante seu lugar pelo desvio de fezes de animais com PrecisionVision, o melhor da categoria e treinado justamente para o tipo de acidente que arruína a casa de quem tem cachorro ou gato. Roborock e Eufy detectam 'um obstáculo'; o j7+ foi treinado nas silhuetas exatas que os outros robôs espalham pelo chão. Mapeamento de qualidade equivalente ao LiDAR (tecnicamente vSLAM com a câmera frontal), base de autoesvaziamento e o aplicativo maduro iRobot Home completam o pacote. As fraquezas honestas: este modelo não passa pano de jeito nenhum — o Combo j7+ é outro produto, mais caro — e o ciclo da base de autoesvaziamento é barulhento, mais perto de um aspirador do que de uma impressora. Para casas sem pets, o Roborock ou o Eufy entregam mais pelo preço; para casas com pets, o j7+ é a única aposta segura.",
+      "pros": [
+        "Desvio de fezes de pets com PrecisionVision é o melhor da categoria",
+        "App iRobot Home maduro e 20 anos de estrada na categoria",
+        "Base de autoesvaziamento com saco de até 60 dias",
+        "Mapeamento vSLAM por câmera se vira bem em cômodos com pouca luz"
+      ],
+      "cons": [
+        "Não passa pano — o Combo j7+ é outro modelo, mais caro",
+        "Ciclo da base é barulhento: 80-85 dB por 8 a 12 segundos"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "eufy-x10-pro-omni",
+      "badge": "Melhor custo-benefício",
+      "review": "O Anker Eufy X10 Pro Omni é a escolha de custo-benefício desta comparação porque entrega a base completa — esvazia, lava e reabastece — por cerca de metade do preço do Roborock S8 Pro Ultra. São 8.000 Pa de sucção, o maior número isolado desta lista (acima de 4.000 Pa o ganho em piso duro é cada vez menor, mas essa folga conta em tapetes grossos), dois esfregões rotativos e um preço que traz a automação completa de base para a faixa intermediária pela primeira vez. A fraqueza honesta: o mapeamento é por câmera e giroscópio, não LiDAR, então nas 2 ou 3 primeiras rodadas dá para ver o robô repassando áreas já limpas e às vezes tratando um tapete escuro como se fosse um degrau. Depois que o mapa estabiliza, mais ou menos uma semana, a limpeza fica no nível do Roborock — o atrito está todo na configuração inicial.",
+      "pros": [
+        "Base completa que esvazia e lava por metade do preço do Roborock",
+        "8.000 Pa de sucção, a maior desta comparação",
+        "Dois esfregões rotativos, e não um pano arrastado",
+        "Passada a primeira semana de mapeamento, iguala o Roborock"
+      ],
+      "cons": [
+        "Mapeamento por câmera e giroscópio precisa de 2 a 3 rodadas para estabilizar",
+        "Às vezes confunde tapetes escuros com degraus na penumbra"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "switchbot-k10-plus",
+      "badge": "Melhor perfil baixo",
+      "review": "O SwitchBot K10+ é o único robô aspirador daqui que passa por baixo de sofás baixos e racks de TV sem raspar — 9,2 cm de altura, cerca de 30% mais baixo que um chassi Roborock, e é essa diferença que separa limpar embaixo do móvel de ter que arrastar o móvel toda vez. Os 2.500 Pa de sucção são os menores desta comparação e não vão limpar a fundo um tapete grosso, mas para piso de madeira e pelo curto num apartamento pequeno sobra. O reservatório de 150 ml exige que a base esvazie a cada 70 m², mais ou menos, e o esfregão é um pano de microfibra arrastado, não um disco giratório. A transposição de desníveis engasga acima de 1,5 cm, então apartamentos com soleiras altas entre os cômodos pedem planejamento. Ele se integra bem ao resto do ecossistema SwitchBot (cortinas, fechaduras, hub).",
+      "pros": [
+        "Corpo de 9,2 cm entra embaixo de móveis que os outros não alcançam",
+        "O aparelho mais barato desta comparação",
+        "Integra com o ecossistema SwitchBot (cortinas, fechaduras, hub)",
+        "Base de autoesvaziamento é surpreendente nessa faixa de preço"
+      ],
+      "cons": [
+        "2.500 Pa não limpam a fundo tapetes grossos",
+        "Engasga em desníveis acima de 1,5 cm"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "dyson-360-vis-nav",
+      "badge": "Melhor engenharia de sucção",
+      "review": "O Dyson 360 Vis Nav é o topo de linha britânico e o mais caro desta comparação, com mapeamento por câmera olho de peixe de 360 graus, sucção de canal duplo movida pelo motor digital da Dyson e limpeza localizada pelo app. A sucção é realmente forte — a herança do motor digital Dyson aparece na capacidade bruta de recolher sujeira. As fraquezas honestas explicam por que quase nenhum avaliador o recomenda como escolha padrão: nessa faixa de preço não há base de autoesvaziamento (você esvazia o reservatório de 0,33 L na mão depois de cada uso), não passa pano de jeito nenhum e a autonomia é de cerca de 50 minutos por carga, ou seja, uma casa com vários cômodos precisa de uma recarga no meio do caminho. O conjunto está uma geração atrás de Roborock e Roomba em automação de base, mesmo custando mais — compre só se você quiser especificamente um Dyson e aceitar a troca.",
+      "pros": [
+        "Sucção de canal duplo com motor digital lidera em captação bruta",
+        "Câmera olho de peixe de 360 graus mapeia bem cômodos escuros",
+        "App Dyson integra com o ecossistema MyDyson",
+        "Qualidade de construção e engenharia se percebem na mão"
+      ],
+      "cons": [
+        "Sem base de autoesvaziamento, mesmo com preço de topo de linha",
+        "Não passa pano e os 50 minutos de autonomia exigem recarga no meio"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para quem quer resolver de uma vez com um topo de linha",
+      "offerId": "roborock-s8-pro-ultra",
+      "reason": "Mapeamento LiDAR, esfregões giratórios duplos e a base completa que esvazia, lava e reabastece cobrem praticamente todo cenário de robô aspirador."
+    },
+    {
+      "label": "Para casas com pets",
+      "offerId": "irobot-roomba-j7-plus",
+      "reason": "O desvio de fezes com PrecisionVision foi treinado justamente para o acidente que estraga sua manhã, enquanto Roborock e Eufy só detectam 'um obstáculo'."
+    },
+    {
+      "label": "Para quem busca custo-benefício na faixa intermediária",
+      "offerId": "eufy-x10-pro-omni",
+      "reason": "Base completa que esvazia e lava por metade do preço do Roborock, com 8.000 Pa e dois esfregões rotativos, aceitando o mapeamento tosco da primeira semana."
+    },
+    {
+      "label": "Para apartamentos compactos com móveis de vão baixo",
+      "offerId": "switchbot-k10-plus",
+      "reason": "Os 9,2 cm de altura fazem dele o único desta comparação que passa por baixo de sofás baixos e racks de TV sem raspar."
+    },
+    {
+      "label": "Para fãs da Dyson que priorizam engenharia de sucção",
+      "offerId": "dyson-360-vis-nav",
+      "reason": "A sucção de canal duplo com motor digital realmente lidera em captação bruta, se você aceitar ficar sem base de autoesvaziamento e sem função de pano por um preço de topo de linha."
+    }
+  ]
 }

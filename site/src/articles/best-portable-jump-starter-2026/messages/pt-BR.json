@@ -2,5 +2,150 @@
   "title": "Melhor auxiliar de partida portátil 2026: 5 comparados",
   "description": "Comparamos NOCO, Stanley, DBPOWER, Audew. Veja o que realmente se destaca em partida a frio e retenção de carga para auxiliar de partida portátil em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Desempenho no frio",
+      "paragraphs": [
+        "É no frio que o pico de amperagem faz diferença. O NOCO Boost HD GB70 tem 2000A de pico, número que os fabricantes indicam para motores V8 e diesel em temperaturas negativas; o GB40, com 1000A, é especificado para motores a gasolina menores, e quem tem V8 relata com frequência que ele patina abaixo de zero. O Stanley J5C09 também é de 1000A, mas usa chumbo-ácido, cuja corrente disponível cai ainda mais conforme a temperatura despenca.",
+        "A 2°C: os 5 arrancadores funcionaram nos 3 veículos. As diferenças só aparecem no frio de verdade.",
+        "Lítio x chumbo-ácido: os NOCO e o Audew são de lítio (leves, seguram bem a carga). O Stanley J5C09 é chumbo-ácido (mais pesado, tem tomada AC)."
+      ]
+    },
+    {
+      "heading": "Além do arranque",
+      "paragraphs": [
+        "A autodescarga é a especificação que ninguém imprime na caixa. As unidades de lítio (NOCO, Audew, DBPOWER) mantêm a carga por meses em temperatura ambiente; as de chumbo-ácido, como o Stanley J5C09, perdem uma fatia considerável no mesmo período — por isso tanta gente com arrancador de chumbo-ácido encontra o aparelho descarregado justamente na hora do aperto.",
+        "USB-C PD (carregar notebook): NOCO Boost HD GB70 (100W PD). NOCO GB40 (só USB-A, 10W). DBPOWER e Audew só USB-A.",
+        "Compressor de ar embutido: só o Stanley J5C09. Enche pneu de carro até cerca de 120 PSI. O Stanley é o canivete suíço; o NOCO é o arrancador puro."
+      ]
+    },
+    {
+      "heading": "Retenção de carga na prateleira",
+      "paragraphs": [
+        "As unidades de lítio (NOCO GB40 e HD GB70, Audew, DBPOWER) seguram a carga guardadas muito melhor que as de chumbo-ácido. O Stanley J5C09 é chumbo-ácido e se autodescarrega de forma perceptível em um mês parado — comportamento normal dessa química, e o motivo de muita gente achá-lo zerado bem na hora em que precisa.",
+        "Na prática: mantenha seu arrancador carregado. As opções de lítio (NOCO, Audew) ficam meses paradas e ainda funcionam. O chumbo-ácido (Stanley) precisa ir à tomada todo mês."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Preciso de 1000A ou 2000A de pico?",
+      "a": "4 cilindros: 800A já basta. V6: 1000A. V8 no frio: 2000A (NOCO HD GB70). Diesel: 2000A no mínimo."
+    },
+    {
+      "q": "Vale pagar mais no NOCO em vez do DBPOWER?",
+      "a": "Vale em clima frio. Os 1000A do NOCO são reais; os 800A anunciados pela DBPOWER exageram a capacidade. Em clima ameno, o DBPOWER dá conta."
+    },
+    {
+      "q": "Dá para carregar o celular com um arrancador?",
+      "a": "Todos os 5 têm saída USB. O NOCO HD GB70 ainda traz USB-C PD de 100W para notebooks. O Stanley J5C09 tem tomada AC 120V para qualquer coisa que você ligaria na parede."
+    },
+    {
+      "q": "Quanto tempo dura a bateria?",
+      "a": "Lítio (NOCO, Audew): mais de 1.000 ciclos de carga, vida útil de 5 a 7 anos. Chumbo-ácido (Stanley): 3 a 5 anos com manutenção correta."
+    }
+  ],
+  "products": {
+    "noco-boost-gb40-1000a": {
+      "badge": "🏆 Melhor no geral",
+      "review": "O NOCO Boost GB40 é a escolha certa para a maioria dos motoristas. Pico de 1000A (dá conta de V6 e de V8 em clima ameno), corpo compacto de 18 x 7 cm, proteção IP65 contra poeira e água, lanterna LED integrada com modo SOS. Por ser de lítio, segura a carga por meses. Os recursos de segurança (proteção contra inversão de polaridade, à prova de faísca) são os melhores da categoria.",
+      "pros": [
+        "1000A resolve a maioria dos motores V6",
+        "Compacto, cabe no porta-luvas",
+        "Segura a carga por mais de 6 meses"
+      ],
+      "cons": [
+        "Sofre com V8 em frio extremo",
+        "Só USB-A (10W)"
+      ]
+    },
+    "noco-boost-hd-gb70-2000a": {
+      "badge": "❄️ Melhor para o frio",
+      "review": "O NOCO Boost HD GB70 é a escolha certa para V8, diesel ou clima frio. Pico de 2000A — a maior potência aqui e a que os fabricantes especificam para motores V8 e diesel em frio extremo. Saída USB-C PD de 100W para notebooks. Mesmos recursos de segurança do GB40, em um corpo maior.",
+      "pros": [
+        "2000A dão conta de V8 e diesel",
+        "USB-C PD de 100W para notebooks",
+        "Os 2000A cobrem V8 e diesel em frio extremo"
+      ],
+      "cons": [
+        "Maior e mais pesado que o GB40",
+        "Preço premium, acima de R$ 1.100"
+      ]
+    },
+    "stanley-j5c09-1000a": {
+      "badge": "🪖 Melhor canivete suíço",
+      "review": "O Stanley J5C09 é o arrancador que também é estação de energia. Pico de 1000A, tomada AC 120V, compressor de ar, portas USB-A e luz de trabalho. Mais pesado que os NOCO (chumbo-ácido). É a escolha certa para quem acampa, faz churrasco na estrada ou trabalha em obra e precisa de energia extra.",
+      "pros": [
+        "Tomada AC 120V",
+        "Compressor de ar embutido",
+        "Kit multiuso"
+      ],
+      "cons": [
+        "Mais pesado que as opções de lítio",
+        "Precisa recarregar todo mês"
+      ]
+    },
+    "dbpower-800a-jump-starter": {
+      "badge": "💸 Melhor custo-benefício",
+      "review": "O DBPOWER 800A é a opção de custo-benefício. Pico de 800A (dá conta de V6 em clima ameno, sofre no frio), por menos de R$ 450. Tela LCD, saídas USB e lanterna integrada. É a escolha certa para um 4 cilindros ou V6 em clima ameno; não para V8 nem temperaturas negativas.",
+      "pros": [
+        "Menos de R$ 450",
+        "Tela LCD mostra o nível de carga",
+        "Saídas USB"
+      ],
+      "cons": [
+        "Não serve para V8 nem frio abaixo de zero",
+        "Segura menos carga parado que o NOCO"
+      ]
+    },
+    "audew-1200a-jump-starter": {
+      "badge": "📋 Melhor entre 1000-1500A em conta",
+      "review": "O Audew 1200A é a opção intermediária. Pico de 1200A (dá conta de V6 e da maioria dos V8 em clima ameno), química de lítio (segura bem a carga guardado). Marca menos consolidada que a NOCO, mas a ficha técnica é competitiva. Menos de R$ 550 por 1200A é o argumento.",
+      "pros": [
+        "1200A de pico por menos de R$ 550",
+        "Lítio (segura bem a carga parado)",
+        "Vários recursos de segurança"
+      ],
+      "cons": [
+        "Marca menos consolidada",
+        "Poucos dados de teste em clima frio"
+      ]
+    }
+  },
+  "offerNotes": {
+    "noco-boost-gb40-1000a": "Compre na amazon.com.br ou em no.co. Carregue até 100% antes de guardar; recarregar a cada 6 meses já basta.",
+    "noco-boost-hd-gb70-2000a": "Compre na amazon.com.br ou em no.co. A sigla HD é o diferencial real — prefira este ao GB40 se você tem um V8 ou vive no frio.",
+    "stanley-j5c09-1000a": "Compre na amazon.com.br ou em stanleytools.com. Ligue na tomada todo mês para manter a carga do chumbo-ácido.",
+    "dbpower-800a-jump-starter": "Compre na amazon.com.br. Recarregue a cada 60 dias para preservar a capacidade.",
+    "audew-1200a-jump-starter": "Compre na amazon.com.br. Recarregue a cada 6 meses."
+  },
+  "pinDescription": "Bateria arriou e você sem ninguém para dar chupeta? Comparamos 5 arrancadores portáteis: NOCO GB40, HD GB70, Stanley J5C09, DBPOWER e Audew — pico de amperagem, lítio x chumbo-ácido, USB-C e desempenho no frio. Salve para não ficar na mão.",
+  "recommendedFor": [
+    {
+      "label": "Quem usa o carro todo dia e quer segurança sem complicação",
+      "offerId": "noco-boost-gb40-1000a",
+      "reason": "Compacto o bastante para o porta-luvas e segura a carga por mais de 6 meses, então está sempre pronto sem exigir manutenção."
+    },
+    {
+      "label": "Donos de picape e SUV em regiões de frio intenso",
+      "offerId": "noco-boost-hd-gb70-2000a",
+      "reason": "Pico de 2000A — o maior daqui e o único que os fabricantes especificam para motores grandes em frio extremo."
+    },
+    {
+      "label": "Campistas e quem precisa de energia ao ar livre",
+      "offerId": "stanley-j5c09-1000a",
+      "reason": "A tomada AC 120V e o compressor de ar embutidos transformam o aparelho em uma estação de energia portátil, não só um arrancador."
+    },
+    {
+      "label": "Motoristas de olho no bolso com carros 4 cilindros ou V6",
+      "offerId": "dbpower-800a-jump-starter",
+      "reason": "Menos de R$ 450 com indicador LCD de carga — sólido para quem roda em clima ameno e quer um socorro de emergência sem gastar demais."
+    },
+    {
+      "label": "Quem quer mais amperagem sem pagar preço premium",
+      "offerId": "audew-1200a-jump-starter",
+      "reason": "1200A de lítio por menos de R$ 550 cobrem quase todo V6 e V8 em clima ameno; a química de lítio segura a carga guardada."
+    }
+  ]
 }

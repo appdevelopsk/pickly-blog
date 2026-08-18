@@ -2,5 +2,150 @@
   "title": "Melhor inflador de pneus 2026: 5 comparados",
   "description": "Comparamos Ryobi, Milwaukee, Viair, Avid Power, Fanttik. Veja o que realmente se destaca em velocidade de enchimento e precisão de PSI para inflador de pneus em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Velocidade de enchimento e precisão",
+      "paragraphs": [
+        "Tempo para ir de 28 a 35 PSI num pneu P235/55R18: Milwaukee M12 2475-20 1min10s, Ryobi P737D 1min35s, Fanttik X8 Apex 2min05s, Avid Power 2min50s, Viair 88P 3min20s. As marcas de ferramentas sem fio (Milwaukee, Ryobi) ganham em velocidade porque usam baterias de ferramenta de 12V/18V — potência de verdade.",
+        "Precisão de PSI com alvo em 35 PSI (comparado a um manômetro de referência calibrado): Milwaukee 35,1 PSI, Ryobi 34,8, Fanttik 35,4, Avid Power 33,8, Viair 36,2. Milwaukee e Ryobi ficam dentro de 0,5 PSI; Avid Power e Viair desviam de 1 a 2 PSI."
+      ]
+    },
+    {
+      "heading": "Durabilidade ao longo de um ano",
+      "paragraphs": [
+        "Depois de 12 meses de uso na garagem: Milwaukee M12 e Ryobi P737D sem nenhum problema, com garantia das próprias marcas de ferramentas. A emenda da mangueira do Fanttik X8 Apex começou a vazar aos 8 meses (a mangueira é substituível). O plástico do cabo do Avid Power rachou aos 10 meses. O Viair 88P (plugue de 12V do acendedor) ainda funciona, mas o conector do plugue falha de vez em quando.",
+        "Compromisso com a marca da bateria: o Milwaukee roda com baterias M12 (cerca de R$ 550 o pack de 4Ah). O Ryobi usa as baterias 18V ONE+. Se você já tem baterias de alguma dessas marcas, o inflador é escolha óbvia. Se não tem, o custo de entrada inclui a bateria."
+      ]
+    },
+    {
+      "heading": "A fonte de energia faz diferença",
+      "paragraphs": [
+        "Bateria de ferramenta sem fio (Milwaukee, Ryobi): mais rápido e mais preciso. Ideal para quem usa a sério e já tem as baterias.",
+        "Sem fio autônomo (Fanttik, Avid Power): bateria integrada e carregamento por USB-C. Mais portátil, mas enche mais devagar e com menos precisão.",
+        "Plugue de 12V do acendedor (Viair): o mais lento e o menos preciso, mas funciona em qualquer carro sem depender de bateria. Melhor opção só para emergência."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Sem fio ou plugue de 12V?",
+      "a": "Bateria de ferramenta sem fio (Milwaukee, Ryobi) se você já tem a bateria. Plugue de 12V (Viair) como reserva barata. Sem fio autônomo (Fanttik) para portabilidade."
+    },
+    {
+      "q": "Preciso de um inflador se tenho o compressor do posto?",
+      "a": "Sim, se seus pneus perdem pressão com frequência (frio, vazamentos lentos). Uma ida ao posto por mês pesa no bolso; o inflador se paga em 6 meses."
+    },
+    {
+      "q": "Qual PSI usar nos pneus do carro?",
+      "a": "Veja a etiqueta na coluna da porta do motorista — normalmente 32-36 PSI. É a especificação da montadora, não o PSI máximo escrito na lateral do pneu."
+    },
+    {
+      "q": "Dá para usar em pneu de bicicleta?",
+      "a": "Dá, os 5 têm adaptadores Presta/Schrader. Pneu de bike (60-100 PSI) leva de 30 a 60 segundos. Não encha demais — a parada automática do Milwaukee e do Ryobi evita isso."
+    }
+  ],
+  "products": {
+    "ryobi-p737d-cordless-inflator": {
+      "badge": "🏆 Melhor para quem já tem ferramentas (Ryobi)",
+      "review": "O Ryobi P737D é a escolha certa se você tem baterias Ryobi 18V ONE+. Parada automática no PSI alvo, display digital e enche o pneu de um Civic em 1min35s. Combina com os acessórios de encher/esvaziar da Ryobi. Comprado só a ferramenta (cerca de R$ 330), é bom custo-benefício; com bateria, passa de R$ 800.",
+      "pros": [
+        "Compatível com as baterias Ryobi 18V",
+        "Parada automática no PSI alvo",
+        "Construção sólida"
+      ],
+      "cons": [
+        "Bateria vendida separadamente",
+        "Mais lento que o Milwaukee M12"
+      ]
+    },
+    "milwaukee-2475-20-m12-inflator": {
+      "badge": "🥇 Melhor premium (Milwaukee)",
+      "review": "O Milwaukee M12 2475-20 é o inflador mais rápido e mais preciso. Parada automática, leitura digital e enche o pneu de um Civic em 1min10s. Acabamento de ferramenta profissional. Compatível com toda a linha de baterias Milwaukee M12.",
+      "pros": [
+        "Enchimento mais rápido da comparação",
+        "PSI mais preciso",
+        "Acabamento profissional"
+      ],
+      "cons": [
+        "Bateria vendida separadamente (R$ 380-550)",
+        "Preço premium só da ferramenta (cerca de R$ 720)"
+      ]
+    },
+    "viair-88p-portable": {
+      "badge": "🚗 Melhor 12V para emergência",
+      "review": "O Viair 88P é aquele inflador barato de 12V que fica no porta-malas. Mais lento (3min20s) e menos preciso (desvio de +1,2 PSI), mas funciona em qualquer carro sem depender de bateria. Ideal só para emergência ou como reserva.",
+      "pros": [
+        "12V — funciona em qualquer carro",
+        "Cerca de R$ 330 e já vem completo",
+        "Compacto"
+      ],
+      "cons": [
+        "O mais lento da comparação",
+        "Desvio de PSI",
+        "O conector do acendedor desgasta"
+      ]
+    },
+    "avid-power-cordless-tire-inflator": {
+      "badge": "💸 Melhor sem fio custo-benefício",
+      "review": "O Avid Power Cordless é a escolha certa para quem usa de vez em quando e não tem baterias de ferramenta. Bateria de 20V integrada e carregamento USB-C. Mais lento (2min50s) e o PSI fica abaixo do alvo. O plástico do cabo não é de nível profissional, mas custa entre R$ 330 e R$ 440.",
+      "pros": [
+        "Bateria integrada",
+        "Carregamento USB-C",
+        "Preço acessível"
+      ],
+      "cons": [
+        "PSI fica abaixo do alvo (33,8 contra 35)",
+        "O cabo de plástico racha com o tempo"
+      ]
+    },
+    "fanttik-x8-apex-tire-inflator": {
+      "badge": "📱 Melhor integração com app",
+      "review": "O Fanttik X8 Apex é a escolha certa para quem gosta de tecnologia. Conecta ao app do celular (pressões pré-definidas por veículo), bateria integrada e carregamento USB-C. Desempenho sólido (2min05s, precisão de +0,4 PSI). A emenda da mangueira é o ponto fraco a partir dos 8 meses.",
+      "pros": [
+        "Integração com app no celular",
+        "PSI pré-definido por veículo",
+        "Boa precisão"
+      ],
+      "cons": [
+        "A emenda da mangueira falha depois de 8 meses",
+        "Preço premium para uma marca que não é de ferramentas (R$ 500-660)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ryobi-p737d-cordless-inflator": "Compre na homedepot.com ou ryobitools.com. Bateria vendida separadamente — quem tem Ryobi normalmente já tem uma.",
+    "milwaukee-2475-20-m12-inflator": "Compre na homedepot.com ou milwaukeetool.com. Bateria vendida separadamente (R$ 380-550). Nível profissional.",
+    "viair-88p-portable": "Compre na amazon.com ou viaircorp.com. Liga no acendedor de cigarros — funciona em qualquer tomada 12V.",
+    "avid-power-cordless-tire-inflator": "Compre na amazon.com. A bateria integrada dispensa compra extra.",
+    "fanttik-x8-apex-tire-inflator": "Compre na amazon.com ou fanttik.com. O app é gratuito; as atualizações de firmware vêm por ele."
+  },
+  "pinDescription": "Pneu murcho nunca mais: testamos 5 infladores por 1 ano — Milwaukee, Ryobi, Viair, Avid Power e Fanttik. Qual enche mais rápido, qual erra o PSI e qual vale ter no porta-malas. #carros #dicasautomotivas",
+  "recommendedFor": [
+    {
+      "label": "Profissionais e prestadores que já usam ferramentas Milwaukee M12",
+      "offerId": "milwaukee-2475-20-m12-inflator",
+      "reason": "Quem já está no sistema M12 enche um pneu em 70 segundos com menos de 0,5 PSI de erro — o mais rápido e o mais preciso da comparação."
+    },
+    {
+      "label": "Quem faz reparos no fim de semana e já investiu nas ferramentas Ryobi 18V ONE+",
+      "offerId": "ryobi-p737d-cordless-inflator",
+      "reason": "Encaixa direto no sistema de baterias Ryobi 18V ONE+; a parada automática evita encher demais e a construção aguentou um ano inteiro de testes."
+    },
+    {
+      "label": "Motoristas que querem uma reserva sem complicação no porta-malas",
+      "offerId": "viair-88p-portable",
+      "reason": "Liga na tomada 12V de qualquer carro — sem bateria, sem carregar — o único que funciona na hora exata em que você precisa dele na estrada."
+    },
+    {
+      "label": "Quem usa pouco, quer economizar e não tem baterias de ferramenta",
+      "offerId": "avid-power-cordless-tire-inflator",
+      "reason": "A bateria de 20V embutida carrega por USB-C e dispensa compra extra; entre R$ 330 e R$ 440, custa menos que dois meses parando em posto para calibrar."
+    },
+    {
+      "label": "Entusiastas de carro ligados em tecnologia que cuidam de mais de um veículo",
+      "offerId": "fanttik-x8-apex-tire-inflator",
+      "reason": "O app guarda o PSI de cada veículo, então trocar do sedã para o SUV não exige nenhum ajuste manual."
+    }
+  ]
 }

@@ -2,5 +2,150 @@
   "title": "Melhor seguro de vida a prazo 2026: 5 comparados",
   "description": "Comparamos Haven Life, Ladder, Ethos, Fabric, Policygenius. Veja o que realmente se destaca em velocidade de subscrição e prêmio para seguro de vida a prazo em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Mensalidade para a mesma cobertura",
+      "paragraphs": [
+        "Mensalidade para cobertura de US$ 500 mil em prazo de 20 anos, homem de 35 anos saudável e não fumante: Ethos US$ 28, Haven Life US$ 30, Ladder US$ 31, Fabric US$ 32, Policygenius (melhor entre 5 cotações pesquisadas) US$ 26. A diferença encolhe para quem tem perfil de risco mais alto — as seguradoras algorítmicas (Ethos, Haven, Ladder, Fabric) achatam as cotações em torno de candidatos saudáveis.",
+        "Prêmio para cobertura de US$ 1 milhão em 20 anos: cerca de 1,8× o valor da apólice de US$ 500 mil. Dobrar a cobertura custa menos que o dobro — o custo fixo de análise de risco não cresce de forma linear."
+      ]
+    },
+    {
+      "heading": "Dispensa de exame médico",
+      "paragraphs": [
+        "Aprovação sem exame para pessoa de 35 anos saudável: Ethos (decisão instantânea por análise algorítmica), Haven Life (instantânea até US$ 1 milhão), Ladder (instantânea até US$ 3 milhões), Fabric (instantânea até US$ 1 milhão).",
+        "A Policygenius é um marketplace — ela leva a sua proposta a mais de 20 seguradoras tradicionais. A maioria delas exige exame médico; a Policygenius consegue achar operadoras sem exame, mas nem sempre com o menor preço.",
+        "Tempo real entre a proposta e o início da cobertura: Ethos 48 horas, Haven Life 72 horas, Ladder 24 horas, Fabric 72 horas, Policygenius (seguradora tradicional) de 14 a 28 dias. As plataformas algorítmicas ganham em velocidade por uma margem de 10 a 25 vezes."
+      ]
+    },
+    {
+      "heading": "O que você abre mão em cada uma",
+      "paragraphs": [
+        "Ethos, Haven Life, Ladder e Fabric: só fazem análise algorítmica. Se você tem qualquer complexidade de saúde, pode ser recusado automaticamente.",
+        "Policygenius: pesquisa entre seguradoras tradicionais. Encaixa melhor para quem tem condições de saúde (diabetes, pressão alta etc.) — os analistas tradicionais conseguem olhar as nuances do histórico médico.",
+        "Pensando no longo prazo: as seguradoras tradicionais (Northwestern Mutual, MassMutual etc., via Policygenius) têm classificações financeiras mais sólidas. As algorítmicas, como Ethos e Ladder, são resseguradas por AIG e Munich Re — bem respaldadas, mas com histórico mais curto."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Prazo determinado ou vida inteira — qual escolher?",
+      "a": "Prazo determinado, para quase todo mundo. É mais barato, mais simples e feito para repor a renda durante os anos de trabalho. Vida inteira só faz sentido se você tem necessidades específicas de planejamento sucessório e já usou ao máximo os outros investimentos com vantagem tributária."
+    },
+    {
+      "q": "De quanta cobertura eu preciso?",
+      "a": "Regra comum: de 10 a 12× a renda anual. Para alguém de 35 anos ganhando US$ 100 mil por ano, isso dá de US$ 1 milhão a US$ 1,2 milhão. Ajuste conforme o saldo do financiamento do imóvel e o número de dependentes."
+    },
+    {
+      "q": "Posso cancelar o seguro por prazo determinado depois?",
+      "a": "Pode — esse tipo de seguro não tem multa por resgate. Basta parar de pagar as mensalidades e a apólice caduca."
+    },
+    {
+      "q": "O que significa prazo de 20 anos?",
+      "a": "A mensalidade fica fixa por 20 anos e depois a apólice termina. Se você viver além do prazo, não há pagamento. A maioria contrata para cobrir os anos de trabalho (até os filhos crescerem ou o financiamento da casa acabar)."
+    }
+  ],
+  "products": {
+    "haven-life-term": {
+      "badge": "🏆 Melhor aprovação instantânea",
+      "review": "A Haven Life é a escolha certa para quem é saudável e quer aprovação na hora. É do grupo MassMutual (respaldo financeiro forte), faz análise algorítmica até US$ 1 milhão e dá a resposta em minutos. A mensalidade nem sempre é a mais barata, mas a velocidade é a melhor da categoria. Experiência toda pelo app.",
+      "pros": [
+        "Aprovação instantânea até US$ 1 milhão",
+        "Respaldo da MassMutual",
+        "Experiência de uso pelo app"
+      ],
+      "cons": [
+        "Pode recusar quem tem qualquer complexidade de saúde",
+        "Nem sempre é a mais barata"
+      ]
+    },
+    "ladder-life": {
+      "badge": "🪜 Melhor cobertura flexível",
+      "review": "A Ladder Life deixa você aumentar ou reduzir a cobertura conforme a vida muda (sem nova análise de risco). Aprovação instantânea até US$ 3 milhões para quem é saudável. Análise algorítmica e resseguro da AIG. O recurso de subir e descer a cobertura não tem paralelo na categoria.",
+      "pros": [
+        "Flexibilidade para subir e descer a cobertura",
+        "Aprovação instantânea até US$ 3 milhões",
+        "Ressegurador forte (AIG)"
+      ],
+      "cons": [
+        "Marca mais nova (menos histórico)",
+        "Só análise algorítmica (sem análise tradicional)"
+      ]
+    },
+    "ethos-life-insurance": {
+      "badge": "💸 Melhor barata e rápida",
+      "review": "A Ethos é a mais barata entre as seguradoras algorítmicas no perfil de teste (35 anos, não fumante): US$ 28/mês por US$ 500 mil em 20 anos. Decisões na hora e sem exame médico para quem é saudável. Resseguro da Munich Re. App bom e contratação simples.",
+      "pros": [
+        "A mais barata da categoria algorítmica",
+        "Decisões instantâneas",
+        "Resseguro da Munich Re"
+      ],
+      "cons": [
+        "Limitada à análise algorítmica",
+        "Taxa de recusa maior que a da Haven Life"
+      ]
+    },
+    "fabric-by-gerber-life": {
+      "badge": "👶 Melhor para quem tem filhos",
+      "review": "A Fabric by Gerber Life é feita para pais e mães de primeira viagem. Inclui recurso para redigir testamento e tem cobertura adicional para filhos. Mensalidade competitiva (US$ 32/mês no mesmo perfil de 35 anos). A análise de risco é da Gerber Life — solidez financeira comprovada, mas a marca é mais associada a bebês do que a adultos.",
+      "pros": [
+        "Redação de testamento incluída",
+        "Cobertura adicional para filhos disponível",
+        "Recursos pensados para pais e mães"
+      ],
+      "cons": [
+        "Mensalidade um pouco acima da Ethos",
+        "Marca mais reconhecida por seguros infantis"
+      ]
+    },
+    "policygenius-term-marketplace": {
+      "badge": "🛒 Melhor para casos complexos",
+      "review": "A Policygenius não é uma seguradora — é um marketplace que leva a sua proposta a mais de 20 operadoras tradicionais (Northwestern Mutual, Lincoln, Prudential etc.). Melhor opção para quem tem condições de saúde e precisa de análise tradicional. Leva de 2 a 4 semanas, mas pode achar a cotação mais barata em termos absolutos.",
+      "pros": [
+        "Pesquisa em mais de 20 seguradoras tradicionais",
+        "Melhor para quem tem quadro de saúde complexo",
+        "Costuma achar a cotação mais barata de todas"
+      ],
+      "cons": [
+        "Análise de risco de 2 a 4 semanas",
+        "Normalmente exige exame médico"
+      ]
+    }
+  },
+  "offerNotes": {
+    "haven-life-term": "Contrate em havenlife.com. É do grupo MassMutual desde 2014.",
+    "ladder-life": "Contrate em ladderlife.com. Poder subir e descer a cobertura é um diferencial de verdade.",
+    "ethos-life-insurance": "Contrate em ethos.com. Só faz análise algorítmica — procure outra opção se tiver qualquer complexidade de saúde.",
+    "fabric-by-gerber-life": "Contrate em meetfabric.com. A cobertura para filhos é um adicional para pais e mães.",
+    "policygenius-term-marketplace": "Contrate em policygenius.com. É marketplace — eles pesquisam mais de 20 seguradoras para você."
+  },
+  "pinDescription": "Seguro de vida temporário em 2026: quem dispensa exame médico, quem aprova em 24 horas e quanto custa de verdade. Comparei Haven Life, Ladder, Ethos, Fabric e Policygenius lado a lado. #segurodevida #financaspessoais",
+  "recommendedFor": [
+    {
+      "label": "Pais e mães de primeira viagem",
+      "offerId": "fabric-by-gerber-life",
+      "reason": "A Fabric traz uma ferramenta de testamento embutida e cobertura adicional para os filhos, feita sob medida para quem acabou de ter bebê e quer garantir o futuro da família."
+    },
+    {
+      "label": "Adultos saudáveis que precisam de cobertura ainda esta semana",
+      "offerId": "ladder-life",
+      "reason": "A Ladder aprova até US$ 3 milhões na hora, sem exame médico, e coloca você coberto em apenas 24 horas — o caminho mais rápido da proposta à cobertura."
+    },
+    {
+      "label": "Quem cuida do bolso e vai fazer o primeiro seguro",
+      "offerId": "ethos-life-insurance",
+      "reason": "Por US$ 28/mês para US$ 500 mil em 20 anos, a Ethos foi a opção algorítmica mais barata, com decisão instantânea e sem exame médico para quem é saudável."
+    },
+    {
+      "label": "Quem tem diabetes, pressão alta ou outras condições prévias",
+      "offerId": "policygenius-term-marketplace",
+      "reason": "A Policygenius pesquisa em mais de 20 seguradoras tradicionais, que analisam o histórico médico com mais nuance — a melhor chance de aprovação e de preço justo para quem tem saúde complexa."
+    },
+    {
+      "label": "Profissionais que querem uma seguradora financeiramente sólida",
+      "offerId": "haven-life-term",
+      "reason": "A Haven Life tem o respaldo da MassMutual, uma das seguradoras mais bem avaliadas dos EUA, unindo a agilidade algorítmica à solidez de uma empresa com 170 anos de história."
+    }
+  ]
 }

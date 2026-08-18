@@ -2,5 +2,145 @@
   "title": "Melhor cafeteira de viagem 2026: 5 comparados",
   "description": "Comparamos AeroPress, Hario, Wacaco, Fellow. Veja o que realmente se destaca em qualidade de preparo e portabilidade para cafeteira de viagem em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Métodos de preparo e qualidade",
+      "paragraphs": [
+        "AeroPress (Go): imersão total + pressão. É o que mais se aproxima do espresso/americano de cafeteria. Qualidade excelente.",
+        "Coado (V60 dobrável, Stagg): xícara limpa, precisa de chaleira. Boa qualidade com prática.",
+        "Espresso pressurizado (Nanopresso, Minipresso): espresso bombeado à mão, faz crema de verdade. Ideal para quem é fã de espresso."
+      ]
+    },
+    {
+      "heading": "O melhor para cada situação",
+      "paragraphs": [
+        "Melhor portátil: AeroPress Go (R$ 350-500). Combo caneca de viagem + AeroPress.",
+        "Melhor coador leve: Hario V60 Dobrável (R$ 150-260). Silicone que dobra.",
+        "Melhor espresso portátil: Wacaco Nanopresso (R$ 600-950). Bombeado à mão.",
+        "Melhor coado premium: Fellow Stagg Pour-Over Set (R$ 600-950).",
+        "Melhor para quem usa Nespresso: Wacaco Minipresso NS (R$ 550-800). Usa cápsulas Nespresso."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "AeroPress ou coado para viagem?",
+      "a": "AeroPress: mais rápido, mais versátil, faz café no estilo espresso. Coado: xícara mais limpa, exige mais técnica. Os dois funcionam — escolha pelo seu gosto."
+    },
+    {
+      "q": "Preciso levar moedor na viagem?",
+      "a": "O melhor é levar o café já moído (média-fina para AeroPress, fina para o Nanopresso). Um moedor manual pequeno (Timemore, 1Zpresso Q2) cabe na mala, mas pesa."
+    },
+    {
+      "q": "A água da chaleira do hotel faz diferença?",
+      "a": "Faz — chaleiras de hotel costumam acumular resíduo mineral. Ferva uma água e jogue fora antes de preparar. Se tiver água mineral disponível, melhor ainda."
+    },
+    {
+      "q": "Dá mesmo para tomar um café bom no quarto do hotel?",
+      "a": "Dá — com AeroPress e grãos frescos, o café do quarto chega perto do nível de cafeteria. O café da 'cafeteira' que o hotel oferece é ruim por causa do pó velho e da água de má qualidade."
+    }
+  ],
+  "products": {
+    "aeropress-go": {
+      "badge": "🏆 Melhor portátil",
+      "review": "A AeroPress Go é a cafeteira portátil certa. Combo AeroPress + caneca de viagem, cabe na mala e faz de 1 a 3 xícaras de café no estilo espresso. É a melhor qualidade de café portátil disponível hoje. Funciona com a chaleira do hotel.",
+      "pros": [
+        "Qualidade AeroPress em formato de viagem",
+        "Faz café estilo espresso",
+        "Funciona com a chaleira do hotel"
+      ],
+      "cons": [
+        "R$ 350-500, faixa intermediária",
+        "Exige levar café já moído"
+      ]
+    },
+    "hario-v60-collapsible-dripper": {
+      "badge": "🪶 Melhor coador leve",
+      "review": "O Hario V60 Dobrável de silicone é o coador leve certo. Dobra totalmente na horizontal e usa os filtros V60 padrão (fáceis de achar). Ideal para quem ama coado e viaja com pouca bagagem.",
+      "pros": [
+        "Dobra totalmente para viajar",
+        "Usa filtros V60 padrão",
+        "R$ 150-260, preço camarada"
+      ],
+      "cons": [
+        "Precisa de chaleira (que a maioria dos hotéis tem)",
+        "Exige levar filtros ou comprar no destino"
+      ]
+    },
+    "wacaco-nanopresso": {
+      "badge": "☕ Melhor espresso portátil",
+      "review": "O Wacaco Nanopresso é a máquina de espresso portátil certa. Bombeado à mão (18 bar de pressão), sem pilhas, faz crema de verdade. Ideal para quem ama espresso e viaja. Precisa de café moído fino para espresso.",
+      "pros": [
+        "Espresso de verdade, com crema",
+        "Não usa pilhas",
+        "Bombeado à mão (dispensa tomada)"
+      ],
+      "cons": [
+        "R$ 600-950, faixa intermediária",
+        "Exige moagem fina (melhor levar café moído para espresso)"
+      ]
+    },
+    "stagg-pour-over-set": {
+      "badge": "💎 Melhor premium",
+      "review": "O Fellow Stagg Pour-Over Travel Set é o café de viagem premium. Coador Stagg [X] com caneca de parede dupla inclusa. Experiência de preparo bonita e qualidade premium. Vale se você não se importa com o volume de um equipamento maior.",
+      "pros": [
+        "Acabamento premium",
+        "Experiência de preparo bonita",
+        "Caneca de parede dupla inclusa"
+      ],
+      "cons": [
+        "R$ 600-950, faixa premium",
+        "Ocupa mais espaço que as opções dobráveis"
+      ]
+    },
+    "minipresso-ns-capsules": {
+      "badge": "💊 Melhor para quem usa Nespresso",
+      "review": "O Wacaco Minipresso NS é a escolha certa para quem viaja com Nespresso. Espresso bombeado à mão usando cápsulas Nespresso (sem moedor, é só levar as cápsulas), com 18 bar de pressão. Ideal se você já tem uma Nespresso em casa.",
+      "pros": [
+        "Usa cápsulas Nespresso",
+        "Bombeado à mão (sem pilhas)",
+        "Pressão real de espresso"
+      ],
+      "cons": [
+        "Exige levar as cápsulas",
+        "As cápsulas Nespresso geram lixo"
+      ]
+    }
+  },
+  "offerNotes": {
+    "aeropress-go": "Disponível em aeropress.com e na Amazon. Vem com filtros; leve extras para a viagem.",
+    "hario-v60-collapsible-dripper": "Disponível em hario.com e na Amazon. Use filtros V60 padrão (tamanho 02 para o coador médio).",
+    "wacaco-nanopresso": "Disponível em wacaco.com e na Amazon. Há kits adaptadores para diferentes tipos de cápsula.",
+    "stagg-pour-over-set": "Disponível em fellowproducts.com. O kit de viagem inclui a caneca; o coador Stagg também é vendido separadamente.",
+    "minipresso-ns-capsules": "Disponível em wacaco.com e na Amazon. Compatível com as cápsulas Nespresso originais (não com as Vertuo)."
+  },
+  "pinDescription": "Café de cafeteria dentro do quarto de hotel? Dá sim. Comparamos AeroPress Go, Hario V60 dobrável, Wacaco Nanopresso, Fellow Stagg e Minipresso NS — qual cabe na sua mala e no seu bolso.",
+  "recommendedFor": [
+    {
+      "label": "Quem viaja muito a trabalho e leva pouca bagagem",
+      "offerId": "aeropress-go",
+      "reason": "A AeroPress Go já vem com a própria caneca de viagem e fecha no tamanho de bagagem de mão, então dá para ignorar de vez o café do hotel."
+    },
+    {
+      "label": "Mochileiros e quem fica em hostel contando cada real",
+      "offerId": "hario-v60-collapsible-dripper",
+      "reason": "Por R$ 150-260, o V60 de silicone dobra totalmente e quase não pesa — perfeito quando cada real e cada grama conta."
+    },
+    {
+      "label": "Puristas do espresso que não abrem mão da crema",
+      "offerId": "wacaco-nanopresso",
+      "reason": "18 bar bombeados à mão produzem crema de verdade sem tomada nem cápsula — espresso legítimo em qualquer lugar."
+    },
+    {
+      "label": "Apaixonados por café que viajam com o kit completo",
+      "offerId": "stagg-pour-over-set",
+      "reason": "O coador Stagg [X] e a caneca de parede dupla inclusa entregam um ritual de coado premium para quem valoriza a experiência."
+    },
+    {
+      "label": "Quem usa Nespresso e quer o mesmo sabor na estrada",
+      "offerId": "minipresso-ns-capsules",
+      "reason": "Funciona com as mesmas cápsulas Nespresso que você já usa em casa — sem moedor, sem pó solto, mesmo perfil de sabor."
+    }
+  ]
 }

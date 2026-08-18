@@ -97,5 +97,174 @@
     "nespresso-lattissima-one": "Original Line com sistema de leite integrado. $250-350. Melhor tudo-em-um para latte/cappuccino — evita compra separada do Aeroccino, compatibilidade com cápsulas Original mantém as opções abertas."
   },
   "pinDescription": "Nespresso Vertuo vs Original 2026: compatibilidade de cápsulas, qualidade de crema, tecnologia de código de barras explicada, comparativo de custos de cápsulas e qual sistema economiza mais a longo prazo. Vertuo Next vs Plus vs Essenza Mini vs Lattissima One comparados.",
-  "methodology": "Avaliamos cada produto pelo perfil de sabor, pela transparência quanto à origem, pelo custo-benefício por porção, pela qualidade da embalagem e pelo desempenho nos usos mais comuns. As certificações documentadas e as avaliações verificadas de usuários foram confrontadas com as alegações de marketing."
+  "methodology": "Avaliamos cada produto pelo perfil de sabor, pela transparência quanto à origem, pelo custo-benefício por porção, pela qualidade da embalagem e pelo desempenho nos usos mais comuns. As certificações documentadas e as avaliações verificadas de usuários foram confrontadas com as alegações de marketing.",
+  "products": [
+    {
+      "offerId": "nespresso-vertuo-next",
+      "badge": "Melhor Vertuo de entrada",
+      "review": "A Vertuo Next entrega uma consistência de extração guiada por código de barras que supera qualquer máquina Original em repetibilidade — cada xícara sai igual à anterior. O preço disso é o barulho: a centrifusão a 7.000 rpm é bem mais alta que a de qualquer Original, e o acabamento parece de linha básica para o valor cobrado.",
+      "pros": [
+        "A leitura do código de barras elimina o erro do usuário — mais consistente que as máquinas Original",
+        "5 tamanhos de xícara, do espresso de 40 ml ao alto de 414 ml",
+        "Design compacto com tampa rebatível cabe em cozinhas pequenas"
+      ],
+      "cons": [
+        "Mais barulhenta que a Vertuo Plus na mesma extração; o ecossistema de cápsulas é proprietário e limitado perto do Original"
+      ],
+      "grade": "A+",
+      "specs": {
+        "Extração": "Centrifusão (código de barras)",
+        "Tamanhos de xícara": "5 (40–414 ml)",
+        "Reservatório": "1,1 L",
+        "Aquecimento": "~30 s",
+        "Conectividade": "Bluetooth",
+        "Formato de cápsula": "Só Vertuo",
+        "Faixa de preço": "R$ 700–R$ 950"
+      },
+      "scores": {
+        "Variedade de cápsulas": 3,
+        "Qualidade do café": 4.5,
+        "Preço da máquina": 4.5,
+        "Custo-benefício": 3.5,
+        "Facilidade de uso": 4.9
+      }
+    },
+    {
+      "offerId": "nespresso-vertuo-plus",
+      "badge": "Melhor Vertuo intermediária",
+      "review": "A Vertuo Plus corrige as maiores queixas ergonômicas da Vertuo Next: a cabeça com alavanca motorizada é mais fácil de operar com uma mão só do que o mecanismo rebatível, a extração faz menos barulho de forma perceptível e o acabamento é melhor pelos R$ 150–R$ 200 a mais. Para uso diário no sistema Vertuo, a Plus é quase sempre a escolha certa sobre a Next.",
+      "pros": [
+        "Cabeça com alavanca motorizada é mais silenciosa e mais fácil que o sistema rebatível da Vertuo Next",
+        "Acabamento melhor que o da Next — sensação bem mais premium",
+        "Tampa com fechamento automático poupa um passo a cada uso"
+      ],
+      "cons": [
+        "Sem espumador embutido — o Aeroccino sai à parte para bebidas com leite"
+      ],
+      "grade": "A",
+      "specs": {
+        "Extração": "Centrifusão (código de barras)",
+        "Tamanhos de xícara": "5 (40–414 ml)",
+        "Reservatório": "1,1 L",
+        "Aquecimento": "20–25 s",
+        "Cabeça de cápsula": "Alavanca motorizada",
+        "Formato de cápsula": "Só Vertuo",
+        "Faixa de preço": "R$ 850–R$ 1.150"
+      },
+      "scores": {
+        "Variedade de cápsulas": 3,
+        "Qualidade do café": 4.7,
+        "Preço da máquina": 3.8,
+        "Custo-benefício": 3.8,
+        "Facilidade de uso": 4.8
+      }
+    },
+    {
+      "offerId": "nespresso-essenza-mini",
+      "badge": "Melhor Original compacta",
+      "review": "A Essenza Mini é a menor Nespresso e a porta de entrada do ecossistema Original, com compatibilidade total com cápsulas de terceiros. A qualidade do espresso é idêntica à de qualquer máquina Original — quem faz o trabalho é a cápsula, não a máquina. O argumento a favor do Original em uma frase: cápsulas de terceiros a R$ 2,00–R$ 4,00 contra os R$ 4,50–R$ 8,00 das Vertuo.",
+      "pros": [
+        "Compatibilidade total com cápsulas de terceiros — Três Corações, Starbucks, Lavazza e L'Or funcionam",
+        "Menor espaço ocupado desta comparação — ideal para cozinhas pequenas",
+        "Crema legítima, formada por CO2, em cápsulas frescas"
+      ],
+      "cons": [
+        "Só espresso de 40 ml e lungo de 110 ml — nada de caneca ou volumes maiores"
+      ],
+      "grade": "B+",
+      "specs": {
+        "Extração": "Bomba de 19 bar",
+        "Tamanhos de xícara": "2 (40 ml, 110 ml)",
+        "Reservatório": "590 ml",
+        "Aquecimento": "~25 s",
+        "Formato de cápsula": "Original + todas de terceiros",
+        "Peso": "2,2 kg",
+        "Faixa de preço": "R$ 550–R$ 800"
+      },
+      "scores": {
+        "Variedade de cápsulas": 5,
+        "Qualidade do café": 4.3,
+        "Preço da máquina": 5,
+        "Custo-benefício": 4.8,
+        "Facilidade de uso": 4.7
+      }
+    },
+    {
+      "offerId": "nespresso-pixie",
+      "badge": "Melhor Original intermediária",
+      "review": "A Pixie fica entre a Essenza Mini e a Lattissima One — reservatório um pouco maior, aquecimento mais rápido e um corpo fino de alumínio que fica melhor na bancada. O espresso é igual ao da Essenza Mini, já que as duas usam a mesma extração por bomba de 19 bar. Vá de Pixie se estética e tamanho do reservatório pesam; pule se você só quer a Original mais barata.",
+      "pros": [
+        "Reservatório maior (800 ml) que o da Essenza Mini significa menos reabastecimentos",
+        "Aquece mais rápido que a Essenza Mini — faz diferença na correria do dia a dia",
+        "Design fino em alumínio — mais bonita que as máquinas de corpo plástico"
+      ],
+      "cons": [
+        "Mesmo espresso da Essenza Mini, que é mais barata — você paga só pelo formato"
+      ],
+      "grade": "B",
+      "specs": {
+        "Extração": "Bomba de 19 bar",
+        "Tamanhos de xícara": "2 (40 ml, 110 ml)",
+        "Reservatório": "800 ml",
+        "Aquecimento": "~25 s",
+        "Corpo": "Alumínio",
+        "Formato de cápsula": "Original + todas de terceiros",
+        "Faixa de preço": "R$ 800–R$ 1.050"
+      },
+      "scores": {
+        "Variedade de cápsulas": 5,
+        "Qualidade do café": 4.3,
+        "Preço da máquina": 4,
+        "Custo-benefício": 4,
+        "Facilidade de uso": 4.7
+      }
+    },
+    {
+      "offerId": "nespresso-lattissima-one",
+      "badge": "Melhor com espumador de leite",
+      "review": "A Lattissima One é a única desta comparação com sistema de leite integrado — e usa o ecossistema Original, então o acesso às cápsulas de terceiros continua liberado. Para quem compraria um Aeroccino separado de qualquer jeito, a conveniência integrada da Lattissima One compensa o valor a mais sobre as Original intermediárias.",
+      "pros": [
+        "Espumador de leite integrado com um toque — dispensa comprar o Aeroccino à parte",
+        "O formato Original mantém aberto todo o ecossistema de cápsulas de terceiros",
+        "Latte e cappuccino em um botão — o fluxo com leite mais prático desta comparação"
+      ],
+      "cons": [
+        "O sistema proprietário de leite acrescenta mais um consumível ao custo das cápsulas de café"
+      ],
+      "grade": "B-",
+      "specs": {
+        "Extração": "Bomba de 19 bar",
+        "Sistema de leite": "Integrado, um toque",
+        "Tamanhos de xícara": "Espresso, lungo, latte, cappuccino",
+        "Reservatório": "680 ml",
+        "Formato de cápsula": "Original + todas de terceiros",
+        "Corpo": "Plástico/cromado",
+        "Faixa de preço": "R$ 1.300–R$ 1.850"
+      },
+      "scores": {
+        "Variedade de cápsulas": 5,
+        "Qualidade do café": 4.4,
+        "Preço da máquina": 2.5,
+        "Custo-benefício": 3.5,
+        "Facilidade de uso": 4.9
+      }
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para puristas do espresso que querem variedade de cápsulas",
+      "offerId": "nespresso-essenza-mini",
+      "reason": "A compatibilidade total com terceiros do ecossistema Original mantém a cápsula entre R$ 2,00 e R$ 4,00, contra os R$ 4,50–R$ 8,00 do sistema proprietário Vertuo."
+    },
+    {
+      "label": "Para quem vive de latte e cappuccino",
+      "offerId": "nespresso-lattissima-one",
+      "reason": "Única máquina desta comparação com espumador de leite integrado que mantém todo o ecossistema de cápsulas Original aberto."
+    },
+    {
+      "label": "Para xícaras maiores e extração consistente",
+      "offerId": "nespresso-vertuo-plus",
+      "reason": "A centrifusão guiada por código de barras entrega tamanhos caneca e alto com espuma consistente toda vez — sem margem para erro do usuário."
+    }
+  ]
 }

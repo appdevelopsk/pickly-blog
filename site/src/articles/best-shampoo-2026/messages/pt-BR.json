@@ -118,5 +118,114 @@
     "kerastase-bain-densite": "Opção de luxo de salão para densidade: frasco de 5.500 ienes e 250 mL do shampoo de densidade alvo Paris-luxo da linha importada de salão Kerastase, formulado para cabelos finos ou com preocupações de densidade. Os 5.500 ienes por 250 mL resultam em aproximadamente 7 vezes o custo por lavagem do nível de farmácia e o frasco pequeno não é compatível com recargas; a afirmação de densidade trata sobre o volume percibido da formulação e não sobre o crescimento real do cabelo."
   },
   "pinDescription": "Cinco shampoos comparados em 2026 desde um frasco de farmácia &honey Deep Moist de 1.400 ienes até um Kerastase Bain Densite Paris Luxury de 250 mL a 5.500 ienes. Hidratação em farmácia vs nível botânico médio vs reparação de ligações de salão vs cuidado medicado do couro cabeludo vs densidade de salão, com compatibilidade por tipo de cabelo, o cálculo do custo por lavagem e mitos sobre sulfatos e silicones desmontados.",
-  "methodology": "Avaliamos cada produto pela transparência dos ingredientes, pelo histórico dermatológico, pela consistência dos resultados em usuários reais, pela qualidade da embalagem e pelo custo-benefício por uso."
+  "methodology": "Avaliamos cada produto pela transparência dos ingredientes, pelo histórico dermatológico, pela consistência dos resultados em usuários reais, pela qualidade da embalagem e pelo custo-benefício por uso.",
+  "products": [
+    {
+      "offerId": "and-honey-deep-moist-shampoo",
+      "badge": "Melhor hidratação de farmácia",
+      "review": "O &honey Deep Moist é a opção de hidratação na faixa de farmácia que conquistou espaço nas grandes redes desde 2018. O frasco de 440 mL combina uma base de tensoativos de aminoácidos sem sulfato com uma boa carga de umectantes derivados do mel e silicone em dose moderada para selar a cutícula — uma formulação que cai bem em cabelos grossos, ásperos ou com química, onde o condicionamento mais pesado ajuda em vez de atrapalhar. Os refis de 350 mL saem cerca de 20% mais baratos por mL e reduzem o plástico descartado. O custo por lavagem fica na ponta econômica desta comparação. O perfume de mel com rosa é a reclamação mais recorrente em avaliações de longo prazo: fica no travesseiro e incomoda quem é sensível a fragrância.",
+      "pros": [
+        "Base de tensoativos de aminoácidos sem sulfato combina com cabelo grosso e com química",
+        "Refis saem cerca de 20% mais baratos por mL do que o frasco",
+        "Custo por lavagem na faixa econômica — dá para usar todo dia sem pesar no bolso",
+        "Fácil de achar em qualquer rede grande de farmácia"
+      ],
+      "cons": [
+        "Perfume forte de mel e rosa fica no travesseiro e incomoda quem é sensível a cheiro",
+        "A dose moderada de silicone pesa em cabelo fino e sem volume"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "botanist-damage-care-shampoo",
+      "badge": "Melhor intermediário botânico",
+      "review": "O BOTANIST Damage Care é o intermediário botânico de uso diário com a maior presença em farmácias e uma fórmula já reformulada várias vezes desde o lançamento em 2015. O frasco de 490 mL usa um sistema misto de tensoativos mais suaves (aminoácidos e betaínas em vez de sulfatos dominantes), com condicionamento à base de silicone que alinha a cutícula em cabelos de médios a grossos sem o perfume floral pesado que marca o &honey. Também tem refil, com economia parecida. O custo por lavagem é bem próximo do &honey — o frasco um pouco maior compensa o preço um pouco mais alto. O apelo botânico é mais marketing do que diferença clínica, mas a fórmula em si é bem construída.",
+      "pros": [
+        "Sistema misto de tensoativos mais suave com a cor do que as opções com sulfato dominante",
+        "Perfume mais discreto que o do &honey — não fica no travesseiro",
+        "Tem refil, com economia por mL parecida",
+        "Maior frasco da faixa de farmácia, com 490 mL"
+      ],
+      "cons": [
+        "Fórmula com silicone exige lavagem de limpeza profunda a cada 4-6 semanas em cabelo poroso ou cacheado",
+        "O apelo botânico é mais linguagem de marketing do que diferencial clínico"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "olaplex-no4-bond-maintenance",
+      "badge": "Melhor para cabelo descolorido e com pontes rompidas",
+      "review": "O Olaplex No.4 Bond Maintenance é o único shampoo desta comparação construído em torno de um ativo patenteado de reconstrução de pontes — o dimaleato de bis-aminopropil diglicol, a química que refaz as pontes de dissulfeto rompidas por descoloração e processos químicos de pH alto. O frasco de 250 mL é sem sulfato e com pouquíssimo silicone por projeto, já que o ativo age na cutícula e o silicone bloquearia essa interação. A química é real e os estudos publicados sustentam o mecanismo das pontes de dissulfeto. As contrapartidas são honestas: o custo por lavagem é de 5 a 7 vezes o da faixa de farmácia; a química só se paga em cabelo realmente danificado por descoloração ou química pesada; e o No.4 sozinho, sem o No.0 leave-in e o No.3 pré-lavagem, entrega bem menos reconstrução do que o marketing sugere — o esquema realista é a sequência completa No.0/No.3/No.4, não só o shampoo.",
+      "pros": [
+        "Dimaleato de bis-aminopropil diglicol patenteado refaz pontes de dissulfeto em cabelo descolorido",
+        "Sem sulfato e com pouco silicone para não atrapalhar a química de reconstrução",
+        "Pesquisa independente revisada por pares sustenta o mecanismo das pontes de dissulfeto",
+        "Fórmula de salão calibrada para cabelo com química"
+      ],
+      "cons": [
+        "Custo por lavagem de 5 a 7 vezes o da faixa de farmácia, e só se justifica em cabelo com pontes rompidas",
+        "O No.4 sozinho entrega pouco — precisa do esquema completo No.0 + No.3 + No.4 para a química funcionar"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "mediquick-scalp-shampoo",
+      "badge": "Melhor tratamento medicamentoso do couro cabeludo",
+      "review": "O MEDIQUICK H Scalp Shampoo é a escolha medicamentosa para couro cabeludo com coceira, descamação ou irritação seborreica — situações que os shampoos cosméticos desta comparação simplesmente não resolvem. O frasco de 200 mL entrega um ativo medicamentoso (piritionato de zinco, piroctone olamina ou equivalente, conforme a versão) em concentração de medicamento isento de prescrição, formulado para agir no couro cabeludo e não para condicionar o comprimento. O cheiro é claramente clínico e nada agradável: isso aqui é ferramenta de tratamento, não perfume de rotina. Use junto com um condicionador para o comprimento, porque a base de tensoativos resseca fios com química e a cor desbota mais rápido do que com as alternativas cosméticas. Quadros persistentes (descamação visível depois de 2-3 semanas de uso, coceira que não passa, inflamação na linha do cabelo) pedem consulta com dermatologista, não mais um shampoo mais forte.",
+      "pros": [
+        "Ativo medicamentoso trata a causa no couro cabeludo, coisa que shampoo cosmético não faz",
+        "Formulado para agir no couro cabeludo, não para condicionar o comprimento",
+        "Encontrado em farmácia como produto isento de prescrição",
+        "Ótimo para alternar durante crises ativas do couro cabeludo"
+      ],
+      "cons": [
+        "A base de tensoativos resseca comprimentos com química — use com condicionador específico",
+        "Cheiro clínico marcante, pouco adequado ao uso diário"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "kerastase-bain-densite",
+      "badge": "Melhor luxo de salão para densidade",
+      "review": "O Kérastase Bain Densité é o shampoo de luxo parisiense focado em densidade, da linha importada de salão da Kérastase, formulado para cabelos que estão afinando com ácido hialurônico, gluco-peptídeos e um perfume e embalagem de salão que sustentam boards de estética luxuosa no Pinterest desde o começo dos anos 2010. O frasco de 250 mL é o mais caro por lavagem desta comparação — cerca de 7 vezes a faixa de farmácia — e, como o frasco é pequeno e não tem refil, o gasto anual fica bem acima do de um shampoo de uso diário. A promessa de densidade é sobre volume aparente vindo da formulação, não sobre crescimento de fios; quem espera cabelo novo vai se decepcionar. O preço do importado oscila com o câmbio e, em 2026, está cerca de 15% acima do patamar de 2022.",
+      "pros": [
+        "Fórmula de salão com ácido hialurônico e gluco-peptídeos para cabelos que estão afinando",
+        "Perfume e embalagem de salão marcantes, que sustentam uma rotina de luxo",
+        "pH compatível com o fio, suave em cabelo com coloração",
+        "Respaldo da rede de salões importadores Kérastase e do suporte de cabeleireiros"
+      ],
+      "cons": [
+        "Custo por lavagem cerca de 7 vezes o da faixa de farmácia e sem opção de refil",
+        "A promessa de densidade é volume aparente da formulação — não faz cabelo nascer"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para cabelo grosso ou áspero com orçamento de farmácia",
+      "offerId": "and-honey-deep-moist-shampoo",
+      "reason": "A carga de umectantes à base de mel e a base de aminoácidos sem sulfato atendem o cabelo grosso que precisa de hidratação mais pesada, com custo por lavagem na faixa econômica."
+    },
+    {
+      "label": "Para cabelo de médio a grosso que prefere perfume leve",
+      "offerId": "botanist-damage-care-shampoo",
+      "reason": "O sistema misto de tensoativos mais suave e o cheiro botânico discreto combinam com cabelo de médio a grosso, sem o perfume que o &honey deixa no travesseiro."
+    },
+    {
+      "label": "Para cabelo descolorido ou danificado por química",
+      "offerId": "olaplex-no4-bond-maintenance",
+      "reason": "O dimaleato de bis-aminopropil diglicol patenteado refaz as pontes de dissulfeto rompidas pela descoloração — é o único shampoo desta comparação com ativo patenteado por trás de uma reconstrução real."
+    },
+    {
+      "label": "Para quem tem coceira, descamação ou irritação no couro cabeludo",
+      "offerId": "mediquick-scalp-shampoo",
+      "reason": "O ativo medicamentoso (piritionato de zinco ou equivalente) trata a condição do couro cabeludo que os shampoos cosméticos não alcançam."
+    },
+    {
+      "label": "Para quem se preocupa com densidade e pode investir em luxo",
+      "offerId": "kerastase-bain-densite",
+      "reason": "A formulação de salão com ácido hialurônico e gluco-peptídeos favorece o volume aparente em cabelo que está afinando, com o perfume e a embalagem de luxo parisiense que parte do público valoriza."
+    }
+  ]
 }

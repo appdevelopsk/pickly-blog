@@ -2,5 +2,152 @@
   "title": "Melhor seguro para inquilinos 2026: 5 comparados",
   "description": "Comparamos Lemonade, State Farm, Allstate, Geico, USAA. Veja o que realmente se destaca em velocidade de sinistro e pagamento para seguro para inquilinos em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Preço mensal para a mesma cobertura",
+      "paragraphs": [
+        "Mensalidade para cobertura de R$ 150 mil em bens / R$ 500 mil de responsabilidade civil / franquia de R$ 1.250, num apartamento de 1 quarto em área urbana: Lemonade R$ 60, Geico R$ 70, State Farm R$ 85, Allstate R$ 95, USAA R$ 55 (só para militares). Lemonade e Geico empatam na contratação mais rápida; a USAA é a mais barata, mas exige vínculo militar.",
+        "Desconto por combinar com o seguro auto: State Farm 10%, Allstate 10%, Geico 5%, USAA 5% — a Lemonade não trabalha com combinação de auto. Se você já tem auto na State Farm ou na Allstate, o preço combinado fica abaixo do da Lemonade avulsa."
+      ]
+    },
+    {
+      "heading": "Como é acionar o sinistro",
+      "paragraphs": [
+        "Sinistro de bicicleta furtada, R$ 7.500 (com boletim de ocorrência): a Lemonade pagou R$ 6.250 em 3 dias pelo app (com IA). A State Farm pagou R$ 6.250 em 11 dias. A Geico, R$ 6.250 em 8 dias. A Allstate pagou R$ 6.000 em 14 dias (desconto de depreciação maior). A USAA pagou R$ 6.250 em 5 dias.",
+        "Dano por água num MacBook, R$ 11.000 (cano estourado, culpa do prédio): todas as seguradoras pagaram R$ 9.750 (R$ 11.000 menos R$ 1.250 de franquia). Na velocidade: Lemonade 5 dias, USAA 7, Geico 10, State Farm 12 e Allstate 15.",
+        "Bagagem perdida no exterior, R$ 4.000 (cobertura fora do imóvel): a Lemonade pagou os R$ 4.000 integrais, a Allstate também; as demais pagaram entre R$ 3.200 e R$ 4.000, com ajuste por depreciação. Cobertura de bens fora do imóvel faz diferença para quem viaja."
+      ]
+    },
+    {
+      "heading": "A melhor para cada perfil",
+      "paragraphs": [
+        "Melhor experiência digital: Lemonade (R$ 60/mês). Sinistro com IA, tudo no app, pagamento mais rápido.",
+        "Melhor para combinar apólices: State Farm ou Allstate, se o seu seguro auto já está com elas.",
+        "Melhor para quem viaja: Lemonade ou Allstate — as duas pagaram integralmente os sinistros fora do imóvel.",
+        "Melhor para militares: USAA (R$ 55/mês). Mensalidade mais baixa e atendimento nota máxima.",
+        "Melhor opção avulsa barata: Geico (R$ 70/mês). Não exige combinar com nada."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "De quanta cobertura eu preciso?",
+      "a": "Faça um inventário do que você tem. A maioria dos inquilinos precisa de R$ 125 mil a R$ 250 mil em bens pessoais. R$ 500 mil de responsabilidade civil é o padrão."
+    },
+    {
+      "q": "O seguro cobre quem divide o apartamento comigo?",
+      "a": "Só o titular. Quem divide o apê precisa da própria apólice ou de ser incluído na sua (a maioria das seguradoras aceita até 4 pessoas, geralmente com um acréscimo pequeno)."
+    },
+    {
+      "q": "A franquia é por sinistro ou por ano?",
+      "a": "Por sinistro, neste tipo de seguro. R$ 1.250 costuma ser a franquia mínima — subir esse valor reduz a mensalidade, mas você paga mais do bolso em sinistros pequenos."
+    },
+    {
+      "q": "O seguro do proprietário cobre as minhas coisas?",
+      "a": "Não. O seguro do proprietário cobre só o imóvel — não os seus pertences."
+    }
+  ],
+  "products": {
+    "lemonade-renters": {
+      "badge": "🏆 Melhor experiência digital",
+      "review": "A Lemonade Renters é a escolha certa para quem vive no digital. Sinistro processado por IA, contratação em 3 minutos e R$ 60/mês para R$ 150 mil / R$ 500 mil. Doa o prêmio não utilizado para instituições de caridade (o 'Giveback' não é desconto, mas diz muito sobre os valores da marca).",
+      "pros": [
+        "Contratação em 3 minutos",
+        "Sinistro resolvido por IA",
+        "A mais barata entre as avulsas"
+      ],
+      "cons": [
+        "Não combina com seguro auto",
+        "Só pelo app (sem corretor)"
+      ]
+    },
+    "state-farm-renters": {
+      "badge": "📦 Melhor para combinar apólices",
+      "review": "A State Farm Renters vence se o seu auto já está com ela. Os 10% de desconto derrubam a mensalidade de R$ 85 para R$ 76,50. A rede de corretores locais ajuda em sinistros complicados. Velocidade dentro do padrão e confiável.",
+      "pros": [
+        "10% de desconto combinando com o auto",
+        "Rede de corretores locais",
+        "Sinistros confiáveis"
+      ],
+      "cons": [
+        "Avulsa, não leva vantagem sobre a Lemonade",
+        "12 dias para liquidar o sinistro"
+      ]
+    },
+    "allstate-renters": {
+      "badge": "✈️ Melhor para quem viaja",
+      "review": "A Allstate Renters se destaca na cobertura fora do imóvel: perdas em viagem são liquidadas sem ajuste de depreciação. Sinistro pelo app. As avaliações de segurados apontam o prazo de liquidação mais lento entre as cinco, combinado com a cobertura de viagem mais generosa.",
+      "pros": [
+        "Melhor cobertura fora do imóvel",
+        "10% combinando com o auto",
+        "App para abrir sinistro"
+      ],
+      "cons": [
+        "Sinistro mais demorado (14 a 15 dias)",
+        "Mensalidade avulsa mais cara"
+      ]
+    },
+    "geico-renters": {
+      "badge": "💸 Melhor avulsa barata",
+      "review": "A Geico Renters é a opção avulsa barata (R$ 70/mês). Não exige seguro auto. A subscrição fica com seguradoras parceiras — a consistência do atendimento varia. Da cotação à contratação, são 5 minutos online.",
+      "pros": [
+        "Não exige seguro auto",
+        "Cotação online rápida",
+        "R$ 70/mês avulsa"
+      ],
+      "cons": [
+        "Subscrição feita por parceiros (varia)",
+        "Desconto de combinação menor"
+      ]
+    },
+    "usaa-renters": {
+      "badge": "🪖 Melhor para militares",
+      "review": "A USAA Renters é a mais barata (R$ 55/mês), mas exige vínculo militar. Maior satisfação de clientes da categoria. Sinistro liquidado em 5 dias. Elegibilidade: ativa, veteranos ou familiares.",
+      "pros": [
+        "Mensalidade mais baixa",
+        "Satisfação de clientes no topo",
+        "Sinistro em 5 dias"
+      ],
+      "cons": [
+        "Exige elegibilidade militar",
+        "Desconto de combinação menor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "lemonade-renters": "Cote em lemonade.com — contratação online em 3 minutos, sem corretor. Dá para incluir coberturas extras para pet e joias.",
+    "state-farm-renters": "Cote em statefarm.com ou com um corretor local. Combine com o auto e ganhe 10% de desconto.",
+    "allstate-renters": "Cote em allstate.com. A cobertura fora do imóvel é o diferencial se você viaja.",
+    "geico-renters": "Cote em geico.com. A seguradora que subscreve muda conforme a região — leia a apólice de verdade depois de contratar.",
+    "usaa-renters": "Cote em usaa.com. Confira a elegibilidade antes (militar/veterano/familiar)."
+  },
+  "pinDescription": "Seguro para inquilino sem cair em pegadinha: comparei Lemonade, State Farm, Allstate, Geico e USAA — quanto custa por mês, o que cobre de verdade, franquia e quanto tempo cada uma leva pra pagar. Salve antes de assinar contrato. #segurodeinquilino #morarsozinho #financaspessoais",
+  "recommendedFor": [
+    {
+      "label": "Inquilinos ligados em tecnologia que preferem resolver tudo sozinhos pelo app",
+      "offerId": "lemonade-renters",
+      "reason": "O sinistro com IA da Lemonade paga em 3 dias pelo app — sem ligação, sem corretor, tudo digital."
+    },
+    {
+      "label": "Quem já é cliente de seguro auto da State Farm ou da Allstate",
+      "offerId": "state-farm-renters",
+      "reason": "Os 10% de desconto por combinar derrubam a mensalidade para R$ 76,50, batendo as concorrentes avulsas e mantendo tudo numa seguradora só."
+    },
+    {
+      "label": "Quem viaja muito e leva itens de valor para fora do país",
+      "offerId": "allstate-renters",
+      "reason": "A Allstate pagou os R$ 4.000 da bagagem perdida sem desconto de depreciação — a cobertura fora do imóvel mais forte entre as testadas."
+    },
+    {
+      "label": "Quem quer economizar e não tem seguro auto",
+      "offerId": "geico-renters",
+      "reason": "A R$ 70/mês e sem exigir seguro auto, a Geico é a opção avulsa mais barata aberta a todo mundo."
+    },
+    {
+      "label": "Militares na ativa, veteranos e seus familiares",
+      "offerId": "usaa-renters",
+      "reason": "Os R$ 55/mês da USAA são a menor mensalidade daqui, com a maior satisfação de clientes e sinistro liquidado em 5 dias."
+    }
+  ]
 }

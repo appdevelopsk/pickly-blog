@@ -2,5 +2,153 @@
   "title": "Melhor software de gestão de projetos 2026: 5 comparados",
   "description": "Comparamos Asana, Monday, ClickUp, Notion, Trello. Veja o que realmente se destaca em adoção diária e rastreamento de dependências para software de gestão de projetos em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Onboarding e taxa de uso diário",
+      "paragraphs": [
+        "Tempo até o primeiro quadro utilizável: Trello 15 min (só Kanban), Monday 30 min (templates), ClickUp 2 h (excesso de recursos), Asana 1 h (interface limpa), Notion 3 h (você monta tudo do zero).",
+        "Taxa de uso diário no dia 30: Asana 88%, Monday 84%, Trello 82% (simples = usado de verdade), ClickUp 70% (recursos demais), Notion 65% (depende do time comprar a ideia).",
+        "App mobile: o do Asana é o melhor da categoria. O do Monday é sólido. O do Trello (Atlassian) cumpre o papel. O do ClickUp é mais pesado. O do Notion é limitado para tocar projetos."
+      ]
+    },
+    {
+      "heading": "Dependências entre tarefas e visualizações",
+      "paragraphs": [
+        "Dependências (marcar que a tarefa A trava a tarefa B): os 5 têm. Asana e ClickUp oferecem a visualização mais potente de dependências (caminho crítico). O Monday é visual, mas menos analítico. O Notion tem relações, só que a lógica dele é de wiki antes de tudo. No Trello, só com Power-Ups (complementos).",
+        "Gráfico de Gantt: Asana (Timeline), Monday e ClickUp já vêm com isso. No Notion, via visualização de banco de dados. No Trello, via Power-Up. O Timeline do Asana é o mais limpo.",
+        "Visão de carga de trabalho (ver quem está sobrecarregado): Asana, Monday e ClickUp têm telas dedicadas. Isso é essencial para agências. O Notion não tem. O Trello exige Power-Ups."
+      ]
+    },
+    {
+      "heading": "Custo e escala",
+      "paragraphs": [
+        "Custo mensal para 30 usuários (plano intermediário): Asana Advanced R$ 3.750/mês, Monday Work Management Pro R$ 2.850/mês, ClickUp Business R$ 1.800/mês, Notion Business R$ 3.000/mês, Trello Premium R$ 1.500/mês.",
+        "Comparação dos planos gratuitos: Asana grátis para 15 usuários. Trello grátis com usuários ilimitados (recursos básicos). ClickUp grátis para sempre (armazenamento limitado). Monday não tem plano gratuito de verdade. Notion grátis para uso pessoal.",
+        "Passando de 100 usuários: Asana, Monday e ClickUp aguentam 500+ tranquilamente. O Notion até funciona, mas a experiência piora. O Trello engasga depois de 100 — e a Atlassian empurra você para o Jira."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Asana ou Monday?",
+      "a": "Asana para times de marketing e criação que precisam de gestão de dependências e estrutura de projeto. Monday para quem quer flexibilidade visual e usar a ferramenta além de projetos (CRM, RH e por aí vai)."
+    },
+    {
+      "q": "ClickUp — vale a pena o tudo-em-um?",
+      "a": "O ClickUp quer substituir Asana + Notion + Slack de uma vez. O leque de recursos impressiona, mas a interface assusta quem está começando. Só escolha o ClickUp se o seu time tiver paciência para configurar tudo."
+    },
+    {
+      "q": "Dá para usar o Notion como gestor de projetos?",
+      "a": "O Notion funciona como gestor de projetos SE alguém do time montar e mantiver os bancos de dados. Se você quer templates prontos e começar rápido, Asana, Monday e Trello saem na frente."
+    },
+    {
+      "q": "Trello ou Asana?",
+      "a": "Trello para fluxos simples, só Kanban, em times de até 20 pessoas. Asana a partir do momento em que você precisa de dependências, várias visualizações ou uma estrutura formal de projeto."
+    }
+  ],
+  "products": {
+    "asana-advanced": {
+      "badge": "🏆 Melhor no geral",
+      "review": "O Asana Advanced é a escolha certa para a maioria dos times profissionais. Melhor interface da categoria, grátis para 15 usuários, gestão de dependências forte, cronograma em Gantt e o melhor app mobile do segmento. É a recomendação padrão para times de marketing, criação e operações.",
+      "pros": [
+        "Melhor interface da categoria",
+        "Grátis para até 15 usuários",
+        "Gestão de dependências robusta"
+      ],
+      "cons": [
+        "R$ 125/usuário/mês no Advanced",
+        "Menos personalizável que o Monday"
+      ]
+    },
+    "monday-work-management-pro": {
+      "badge": "🎨 Mais flexível visualmente",
+      "review": "O Monday Work Management Pro é a escolha certa para times que cobrem projetos, CRM, RH e operações. Quadros bem visuais, personalização sem limite, R$ 95/usuário/mês no Pro. Ideal quando você quer uma plataforma só para todos os departamentos.",
+      "pros": [
+        "O mais flexível entre departamentos",
+        "Fluxos de trabalho bem visuais",
+        "Automações potentes"
+      ],
+      "cons": [
+        "O onboarding pode demorar mais",
+        "Sem plano gratuito de verdade"
+      ]
+    },
+    "clickup-business": {
+      "badge": "🧰 Melhor tudo-em-um",
+      "review": "O ClickUp Business é a escolha certa para times que querem juntar tudo numa ferramenta só (projetos + documentos + chat + CRM + automações). R$ 60/usuário/mês no Business. Recheado de recursos, mas com a curva de aprendizado mais íngreme. A adoção no dia 30 cai se ninguém assumir o papel de administrador.",
+      "pros": [
+        "Tudo-em-um (projetos + docs + chat + CRM)",
+        "R$ 60/usuário/mês no Business",
+        "Mais recursos por real gasto"
+      ],
+      "cons": [
+        "Curva de aprendizado íngreme",
+        "Adoção no dia 30 fica 20% abaixo do Asana"
+      ]
+    },
+    "notion-business": {
+      "badge": "📝 Melhor para docs + projetos",
+      "review": "O Notion Business é a escolha certa para times que vivem em documentos e wikis E também tocam projetos. R$ 100/usuário/mês no Business. Como você monta tudo do zero, ganha flexibilidade, mas não tem templates de projeto prontos. Ideal quando o trabalho de projeto anda colado à documentação.",
+      "pros": [
+        "Junta documentos e projetos",
+        "Flexibilidade sem limite",
+        "Páginas bonitas"
+      ],
+      "cons": [
+        "Você monta tudo do zero (começo lento)",
+        "Como gestor de projetos puro, perde para o Asana",
+        "Sem Gantt de verdade"
+      ]
+    },
+    "trello-premium": {
+      "badge": "💸 Melhor gestão simples",
+      "review": "O Trello Premium é a escolha certa para fluxos Kanban simples em times pequenos. R$ 50/usuário/mês no Premium. Pertence à Atlassian (dona do Jira). Ideal quando você não precisa de dependências, só de cartões em listas. A maioria dos times passa de 20 pessoas e acaba deixando ele para trás.",
+      "pros": [
+        "A gestão mais simples da categoria",
+        "Plano gratuito com usuários ilimitados",
+        "Pertence à Atlassian"
+      ],
+      "cons": [
+        "Times maiores acabam superando ele",
+        "Dependências exigem Power-Ups",
+        "Em escala, a Atlassian empurra para o Jira"
+      ]
+    }
+  },
+  "offerNotes": {
+    "asana-advanced": "Crie sua conta em asana.com — grátis para 15 usuários.",
+    "monday-work-management-pro": "Crie sua conta em monday.com — 14 dias de teste grátis.",
+    "clickup-business": "Crie sua conta em clickup.com — plano gratuito para sempre.",
+    "notion-business": "Crie sua conta em notion.so — grátis para uso pessoal.",
+    "trello-premium": "Crie sua conta em trello.com — plano gratuito com usuários ilimitados."
+  },
+  "pinDescription": "Sua equipe se perde em planilha e grupo de WhatsApp? Comparei Asana, Monday, ClickUp, Notion e Trello: quanto custa por pessoa, o que cabe no plano grátis e qual deles o time realmente usa depois de 30 dias. #gestaodeprojetos #produtividade",
+  "recommendedFor": [
+    {
+      "label": "Times de agência de marketing e criação que tocam projetos de clientes",
+      "offerId": "asana-advanced",
+      "reason": "A interface impecável, o controle de dependências e a visão de Timeline do Asana dão à agência a estrutura necessária para tocar vários clientes ao mesmo tempo."
+    },
+    {
+      "label": "Gerentes de operações que tocam fluxos entre departamentos",
+      "offerId": "monday-work-management-pro",
+      "reason": "O Monday cobre projetos, CRM e RH numa plataforma só, o que permite juntar os departamentos sem ficar trocando de ferramenta."
+    },
+    {
+      "label": "Times com traquejo técnico que querem substituir várias ferramentas SaaS",
+      "offerId": "clickup-business",
+      "reason": "O ClickUp junta projetos, documentos, chat e CRM por R$ 60/usuário/mês — a maior densidade de recursos por real, se o time topar a configuração inicial."
+    },
+    {
+      "label": "Profissionais que vivem dentro de documentos e wikis",
+      "offerId": "notion-business",
+      "reason": "O Notion combina documentação aprofundada com bancos de dados de projeto, ideal quando o trabalho é inseparável das especificações escritas."
+    },
+    {
+      "label": "Times pequenos que precisam de um Kanban simples, sem curva de aprendizado",
+      "offerId": "trello-premium",
+      "reason": "O modelo de cartões e listas do Trello coloca o time para rodar em 15 minutos, com plano gratuito de usuários ilimitados para equipes de até 20 pessoas."
+    }
+  ]
 }

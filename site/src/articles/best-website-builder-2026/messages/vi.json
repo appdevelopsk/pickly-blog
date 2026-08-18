@@ -2,5 +2,148 @@
   "title": "công cụ tạo trang web tốt nhất 2026: 5 sản phẩm thử 30 ngày",
   "description": "Chúng tôi so sánh Squarespace, Wix, Webflow, Shopify, Carrd. Đâu là công cụ tạo trang web 2026 thực sự nổi bật về thời gian xuất bản và khả năng xuất.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Thời gian để xuất bản",
+      "paragraphs": [
+        "Số giờ từ lúc đăng ký đến khi hoàn tất một trang web 8 trang: Squarespace 3 giờ, Wix 4 giờ (dùng trình tạo AI thì còn 1 giờ nhưng chất lượng thiết kế giảm), Webflow 8 giờ (khó học nhất), Shopify 5 giờ (ưu tiên thương mại điện tử nên làm site không bán hàng bị chậm), Carrd 2 giờ.",
+        "Squarespace nhanh nhất vì template đã quyết định thay bạn phần thiết kế. Webflow lâu nhất — đúng chuẩn dân thiết kế, gần với việc học một công cụ thiết kế hơn là dùng một trình tạo web."
+      ]
+    },
+    {
+      "heading": "Di động + SEO",
+      "paragraphs": [
+        "Điểm Lighthouse trên di động (thang 100): Squarespace 78, Wix 65, Webflow 88 (tốt nhất — mã xuất ra gọn gàng), Shopify 75, Carrd 92 (ít phần dư thừa nhất).",
+        "SEO mặc định (thẻ meta, schema, sitemap, robots.txt): Cả 5 đều tự tạo sitemap và robots.txt. Squarespace và Webflow xử lý thẻ meta mặc định tốt nhất. Wix đã cải thiện từ năm 2024. SEO của Shopify được tinh chỉnh cho thương mại điện tử. Carrd ít tùy chọn hơn nhưng mặc định hợp lý."
+      ]
+    },
+    {
+      "heading": "Bị khóa nền tảng và khả năng xuất dữ liệu",
+      "paragraphs": [
+        "Tùy chọn xuất: Webflow xuất ra HTML/CSS/JS sạch (điểm độc nhất). Các nền tảng còn lại đều khóa bạn lại. Muốn chuyển đi thì phải dựng lại thủ công.",
+        "Tính di động của tên miền: Cả 5 đều cho dùng tên miền riêng. Nhưng ở các nền tảng bị khóa, bạn không mang theo được thiết kế — chỉ tên miền là chuyển đi được."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Squarespace hay Wix?",
+      "a": "Chọn Squarespace cho những trang thiên về thiết kế, nơi template lo phần lớn công việc. Chọn Wix nếu cần tối đa sự linh hoạt và kéo-thả. Squarespace gọn gàng hơn; Wix linh hoạt hơn nhưng đánh đổi bằng tính nhất quán."
+    },
+    {
+      "q": "Webflow khó học — có đáng không?",
+      "a": "Đáng, nếu bạn muốn quyền kiểm soát như một designer cộng khả năng xuất dữ liệu mang đi. Không đáng, nếu bạn chỉ muốn kéo-thả đơn giản. Webflow mất 1-2 tuần để làm quen; đổi lại là sản phẩm đạt chuẩn chuyên nghiệp."
+    },
+    {
+      "q": "Dùng Shopify cho trang không bán hàng được không?",
+      "a": "Không tối ưu. Shopify đặt thương mại điện tử lên đầu; các trang không phải trang sản phẩm chỉ là phần phụ. Dùng Shopify khi sản phẩm là trọng tâm; dùng Squarespace/Wix/Webflow khi nội dung là trọng tâm."
+    },
+    {
+      "q": "Carrd hay công cụ làm landing page?",
+      "a": "Carrd hợp cho trang cá nhân, link-in-bio, sự hiện diện một trang. Cần nhiều trang thì dùng Squarespace/Wix/Webflow. Với 19 USD/năm (khoảng 480.000₫), Carrd là lựa chọn nghiêm túc rẻ nhất."
+    }
+  ],
+  "products": {
+    "squarespace-builder": {
+      "badge": "🎨 Mặc định thiết kế đẹp nhất",
+      "review": "Squarespace là lựa chọn đúng cho những trang thiên về thiết kế, nơi template gánh phần nặng nhất. Thẩm mỹ kiểu Apple, tính năng thương mại điện tử tốt nhất ngoài Shopify ở các gói cao, tích hợp sẵn đặt lịch và email marketing.",
+      "pros": [
+        "Template thiết kế đẹp nhất",
+        "Tích hợp đặt lịch + email",
+        "Thẩm mỹ kiểu Apple"
+      ],
+      "cons": [
+        "Kém linh hoạt hơn Wix",
+        "Bị khóa trong nền tảng"
+      ]
+    },
+    "wix-builder": {
+      "badge": "🪄 Linh hoạt nhất",
+      "review": "Wix là lựa chọn đúng khi bạn cần tối đa sự linh hoạt trong thiết kế. Trình tạo web bằng AI dựng xong site trong vài phút (chất lượng thất thường). Kho template lớn nhất (hơn 900 mẫu). Có Wix Studio cho ai muốn kiểm soát như designer. Gói miễn phí kèm quảng cáo thương hiệu.",
+      "pros": [
+        "Kéo-thả linh hoạt nhất",
+        "Trình tạo web bằng AI",
+        "Có gói miễn phí"
+      ],
+      "cons": [
+        "Giữ thiết kế nhất quán khá mất công",
+        "Hiển thị trên di động vốn yếu hơn"
+      ]
+    },
+    "webflow-builder": {
+      "badge": "🥇 Chuẩn designer nhất",
+      "review": "Webflow là lựa chọn đúng nếu bạn muốn quyền kiểm soát ở mức designer và mã xuất ra sạch sẽ. Chỉnh sửa trực quan tới tận cấp CSS, xuất HTML/CSS/JS để tự host. Đường học khá dốc nhưng thành phẩm đạt chuẩn chuyên nghiệp.",
+      "pros": [
+        "Trình chỉnh sửa trực quan chuẩn designer",
+        "Xuất HTML/CSS/JS sạch",
+        "Điểm Lighthouse cao nhất"
+      ],
+      "cons": [
+        "Khó học",
+        "Đắt hơn Squarespace"
+      ]
+    },
+    "shopify-builder": {
+      "badge": "🛍️ Tốt nhất cho bán hàng online",
+      "review": "Shopify là lựa chọn đúng cho những trang lấy bán hàng làm trọng tâm. Xử lý thanh toán ngay trong nền tảng, hệ sinh thái ứng dụng rộng (hơn 10.000 app), schema SEO cho sản phẩm. Không lý tưởng cho trang thiên về nội dung.",
+      "pros": [
+        "Tính năng bán hàng tốt nhất",
+        "Xử lý thanh toán tích hợp sẵn",
+        "Hệ sinh thái ứng dụng khổng lồ"
+      ],
+      "cons": [
+        "Thừa thãi với trang không bán hàng",
+        "Các lớp trừu tượng bán hàng làm chậm site nội dung"
+      ]
+    },
+    "carrd-single-page": {
+      "badge": "💸 Tốt nhất cho trang đơn",
+      "review": "Carrd là lựa chọn đúng cho trang cá nhân, link-in-bio, hiện diện một trang. 19 USD/năm (khoảng 480.000₫) mở khóa toàn bộ tính năng (tên miền riêng, biểu mẫu, nhúng nội dung). Điểm Lighthouse sạch nhất. Không dành cho site nhiều trang.",
+      "pros": [
+        "19 USD/năm là có đủ tính năng",
+        "Điểm Lighthouse sạch nhất",
+        "Xuất bản nhanh như chớp"
+      ],
+      "cons": [
+        "Không hỗ trợ nhiều trang",
+        "Bán hàng hạn chế"
+      ]
+    }
+  },
+  "offerNotes": {
+    "squarespace-builder": "Đăng ký tại squarespace.com — dùng thử miễn phí 14 ngày.",
+    "wix-builder": "Đăng ký tại wix.com — gói miễn phí có gắn thương hiệu Wix. Gói trả phí từ 16 USD/tháng (khoảng 400.000₫).",
+    "webflow-builder": "Đăng ký tại webflow.com — gói designer miễn phí. Hosting site từ 14 USD/tháng (khoảng 350.000₫).",
+    "shopify-builder": "Đăng ký tại shopify.com — dùng thử miễn phí 3 ngày, sau đó 1 USD/tháng trong 3 tháng.",
+    "carrd-single-page": "Đăng ký tại carrd.co — có gói miễn phí. Gói Pro 19 USD/năm (khoảng 480.000₫)."
+  },
+  "pinDescription": "Định làm website mà rối vì quá nhiều lựa chọn? Squarespace, Wix, Webflow, Shopify, Carrd — cùng dựng một site 8 trang, so điểm tốc độ và khả năng mang dữ liệu đi. Lưu lại trước khi bấm đăng ký nhé!",
+  "recommendedFor": [
+    {
+      "label": "Chủ doanh nghiệp nhỏ muốn một hình ảnh thương hiệu chỉn chu",
+      "offerId": "squarespace-builder",
+      "reason": "Template kiểu Apple cùng tính năng đặt lịch tích hợp sẵn của Squarespace giúp bạn có site chuyên nghiệp rất nhanh mà không cần thuê designer."
+    },
+    {
+      "label": "Nhà sáng tạo nội dung và blogger muốn tự quyết mọi bố cục",
+      "offerId": "wix-builder",
+      "reason": "Khả năng kéo-thả linh hoạt và hơn 900 template của Wix cho phép bạn tùy chỉnh từng chi tiết mà không cần đụng tới code."
+    },
+    {
+      "label": "Designer web và agency làm site cho khách hàng",
+      "offerId": "webflow-builder",
+      "reason": "Trình chỉnh sửa tới cấp CSS và khả năng xuất HTML/CSS/JS sạch của Webflow cho designer thành phẩm chuyên nghiệp, dễ bàn giao hoặc tự host."
+    },
+    {
+      "label": "Người khởi nghiệp mở cửa hàng online",
+      "offerId": "shopify-builder",
+      "reason": "Xử lý thanh toán tích hợp sẵn cùng hệ sinh thái hơn 10.000 ứng dụng khiến Shopify là con đường nhanh nhất để có một cửa hàng vận hành trọn vẹn."
+    },
+    {
+      "label": "Freelancer và người làm một mình cần một portfolio đơn giản",
+      "offerId": "carrd-single-page",
+      "reason": "Gói 19 USD/năm đủ mọi tính năng và tốc độ xuất bản chớp nhoáng của Carrd rất hợp cho một trang link-in-bio hay portfolio một trang."
+    }
+  ]
 }

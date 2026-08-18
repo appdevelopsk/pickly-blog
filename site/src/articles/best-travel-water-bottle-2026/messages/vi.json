@@ -115,5 +115,32 @@
     "vapur-foldable-bottle": "Có bán tại vapur.us, REI, Amazon. Nhiều kích cỡ (0,5L đến 1,5L).",
     "larq-self-cleaning": "Có bán tại livelarq.com, Amazon. Bản 'Movement' (không có UV-C) là phiên bản rẻ hơn; bản 'LARQ' chính hãng có UV-C."
   },
-  "pinDescription": "Bình nước du lịch tốt nhất 2026: Hydro Flask vs. YETI vs. Owala vs. Vapur gấp gọn vs. LARQ UV-C."
+  "pinDescription": "Bình nước du lịch tốt nhất 2026: Hydro Flask vs. YETI vs. Owala vs. Vapur gấp gọn vs. LARQ UV-C.",
+  "recommendedFor": [
+    {
+      "label": "Người mê hoạt động ngoài trời, thường xuyên cắm trại và leo núi",
+      "offerId": "hydro-flask-32oz",
+      "reason": "Giữ lạnh 24 giờ cùng chế độ bảo hành trọn đời khiến nó gần như bất khả chiến bại trong những chuyến đi dài ngày, nơi bạn không có cơ hội thay bình mới."
+    },
+    {
+      "label": "Người thích nấu nướng và ngại rửa bình bằng tay",
+      "offerId": "yeti-rambler-26oz-bottle",
+      "reason": "YETI là lựa chọn thép không gỉ cao cấp duy nhất trong danh sách này cho phép rửa bằng máy, tiết kiệm đáng kể thời gian dọn dẹp mỗi ngày."
+    },
+    {
+      "label": "Sinh viên và người đi làm hằng ngày với ngân sách eo hẹp",
+      "offerId": "owala-freesip",
+      "reason": "Với giá khoảng 650.000–900.000 đồng, nắp hai chế độ uống và thiết kế chống rò rỉ, bình mang lại gần như đủ tính năng cao cấp mà không kèm mức giá cao cấp."
+    },
+    {
+      "label": "Dân trekking siêu nhẹ và người chỉ mang hành lý xách tay",
+      "offerId": "vapur-foldable-bottle",
+      "reason": "Gấp gọn bằng túi quần khi hết nước, tiết kiệm cả chỗ lẫn cân nặng trong những chuyến đi mà từng gram đều được tính."
+    },
+    {
+      "label": "Người đi du lịch nước ngoài, đến các quốc gia đang phát triển",
+      "offerId": "larq-self-cleaning",
+      "reason": "Đèn UV-C tự khử khuẩn mỗi 2 tiếng, diệt tới 99,99% vi khuẩn, giúp bạn yên tâm khi chất lượng nước máy nơi đến không rõ ràng."
+    }
+  ]
 }

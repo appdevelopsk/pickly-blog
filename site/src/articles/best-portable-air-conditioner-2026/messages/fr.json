@@ -1,5 +1,132 @@
 {
   "title": "Meilleur climatiseur mobile 2026 : 5 modèles comparés",
   "description": "Comparatif des fiches techniques : Midea Duo, Whynter ARC-14S, LG, Honeywell et Black+Decker. Ce que vaut vraiment l'ASHRAE face au SACC, et pourquoi le double tuyau est plus efficace.",
-  "lede": "La puissance annoncée n'est pas la puissance réelle. Voici d'où vient l'écart et à quelle surface correspond chacun des cinq modèles."
+  "lede": "La puissance annoncée n'est pas la puissance réelle. Voici d'où vient l'écart et à quelle surface correspond chacun des cinq modèles.",
+  "methodology": "Nous n'avons pas réalisé nos propres tests thermiques ou de charge. Le faire sérieusement exigerait une chambre psychrométrique calibrée pour les climatiseurs et un banc instrumenté à capteurs de force pour les Smith machines : nous n'avons ni l'un ni l'autre. Ce que nous avons fait à la place : relever chaque spécification publiée sur les fiches produits et notices des fabricants, recouper les prix actuels avec les annonces des principaux revendeurs, et lire les avis d'utilisateurs en volume — en retenant ceux qui décrivent une panne mesurable ou une plainte récurrente plutôt qu'une impression de première semaine. Lorsqu'un chiffre relève d'une annonce du fabricant et non d'une mesure indépendante, nous le précisons dans le texte.",
+  "sections": [
+    {
+      "heading": "BTU ASHRAE et SACC : le chiffre qui compte vraiment",
+      "paragraphs": [
+        "Les climatiseurs mobiles sont annoncés en BTU ASHRAE, une valeur de laboratoire mesurée dans des conditions qui ignorent la chaleur que l'appareil lui-même renvoie dans la pièce. Le département américain de l'Énergie impose une seconde valeur, le SACC (capacité de refroidissement ajustée selon la saison), qui tient compte des apports de chaleur par la gaine et des infiltrations. Pour les modèles à un seul tuyau, le SACC se situe généralement entre la moitié et les deux tiers du chiffre ASHRAE.",
+        "C'est la raison pour laquelle un mobile de 8 000 BTU et un climatiseur de fenêtre de 8 000 BTU ne sont pas des produits comparables. Le climatiseur de fenêtre est installé dans l'ouverture et rejette la chaleur à l'extérieur de l'enveloppe du bâtiment ; le mobile, lui, reste dans la pièce, y rayonne la chaleur du compresseur et, sur les modèles à un seul tuyau, prélève l'air de son condenseur dans la pièce même qu'il tente de refroidir — ce qui fait entrer de l'air extérieur non traité par le moindre interstice du logement pour le remplacer.",
+        "Règle pratique : quand vous comparez un mobile à un modèle de fenêtre, cherchez la valeur SACC et considérez-la comme le vrai chiffre. Quand vous comparez des mobiles entre eux, comparer ASHRAE à ASHRAE convient, à condition de tenir compte aussi du nombre de tuyaux."
+      ]
+    },
+    {
+      "heading": "Un tuyau ou deux tuyaux",
+      "paragraphs": [
+        "Un appareil à un seul tuyau aspire l'air de la pièce à travers le condenseur et le rejette dehors. Cet air doit bien être remplacé, et il l'est par de l'air extérieur qui s'infiltre. Résultat : le mobile monotuyau met la pièce en légère dépression et importe en continu la chaleur qu'il cherche à évacuer.",
+        "Un modèle bitube prélève l'air du condenseur à l'extérieur par une gaine et le rejette par l'autre, laissant la pression de la pièce à peu près neutre. Dans cette sélection, le Midea Duo et le Whynter ARC-14S sont bitubes ; les LG, Honeywell et Black+Decker sont monotubes.",
+        "L'avantage du bitube croît avec l'écart de température. Par temps doux, la différence est assez faible pour être négligée. Dans une pièce vraiment chaude, c'est ce qui sépare un appareil qui tient la cadence d'un appareil qui tourne sans arrêt sans jamais atteindre la consigne."
+      ]
+    },
+    {
+      "heading": "Inverter ou vitesse fixe, et ce que cela change au bruit",
+      "paragraphs": [
+        "Un compresseur à vitesse fixe fonctionne à pleine puissance ou pas du tout. Il atteint la consigne, s'arrête, la température dérive, il redémarre — et chaque démarrage est le moment le plus bruyant du cycle. Un compresseur inverter module sa puissance : une fois la pièce à la consigne, il s'installe dans un ronronnement bas et continu au lieu de cycler.",
+        "Le Midea Duo et le LG LP1419IVSM sont des modèles inverter ; les Whynter, Honeywell et Black+Decker sont à vitesse fixe. Si l'appareil est destiné à une chambre, cette distinction pèse plus lourd que deux décibels d'écart sur la valeur annoncée, car cette valeur est mesurée à pleine puissance et ne décrit pas le comportement de cyclage que vous entendrez réellement à 3 h du matin."
+      ]
+    },
+    {
+      "heading": "Évacuation des condensats, sortie d'air et l'installation dont personne ne parle",
+      "paragraphs": [
+        "Tout climatiseur mobile produit de la condensation. La plupart des modèles récents en évaporent l'essentiel par la sortie d'air, mais en air humide, tous finiront par exiger la vidange du réservoir ou un tuyau raccordé à une bonde de sol. Vérifiez avant l'achat que le modèle accepte une évacuation gravitaire continue : l'installer après coup est pénible.",
+        "Le kit fenêtre est l'autre élément que l'on néglige. Les kits fournis s'adaptent aux fenêtres à guillotine et coulissantes standard ; les fenêtres à battants demandent en général un panneau sur mesure. Bien étancher le kit compte davantage que la plupart des acheteurs ne l'imaginent : un kit non étanche laisse la chaleur rejetée revenir directement à l'intérieur et annule une part non négligeable de la capacité de l'appareil."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Un climatiseur mobile vaut-il mieux qu'un modèle de fenêtre ?",
+      "a": "Seulement quand le modèle de fenêtre n'est pas envisageable : fenêtres à battants, restrictions en location, ou pièce entre lesquelles vous devez déplacer l'appareil. À capacité annoncée égale, un climatiseur de fenêtre est plus silencieux, moins cher et nettement plus efficace, puisqu'il ne se trouve pas dans la pièce qu'il refroidit."
+    },
+    {
+      "q": "Ai-je besoin d'un modèle bitube ?",
+      "a": "Si la pièce devient régulièrement très chaude, oui. Le bitube empêche l'appareil de faire entrer de l'air extérieur pour compenser ce qu'il rejette. Par temps doux ou dans une petite pièce bien étanche, un monotube suffit et coûte moins cher."
+    },
+    {
+      "q": "Quelle puissance choisir ?",
+      "a": "Partez du chiffre SACC, pas du chiffre ASHRAE, et comptez environ 215 BTU par mètre carré pour une pièce moyenne. Ajoutez de la capacité pour une pièce ensoleillée, un dernier étage ou une cuisine ; retranchez-en pour une pièce intérieure à l'ombre."
+    },
+    {
+      "q": "Pourquoi la pièce n'atteint-elle jamais la température réglée ?",
+      "a": "Les trois causes habituelles, par ordre de fréquence : un kit fenêtre mal étanche qui laisse revenir la chaleur rejetée, un monotube sous-dimensionné pour la charge thermique une fois les infiltrations prises en compte, et un filtre encrassé. Vérifiez d'abord l'étanchéité de la fenêtre : la corriger ne coûte rien."
+    }
+  ],
+  "products": {
+    "midea-duo-map14hs1tbl": {
+      "badge": "🏆 Meilleur choix global",
+      "review": "Le Midea Duo s'impose quand la pièce chauffe pour de bon. Il réunit les deux points qui comptent le plus — gaines bitubes et compresseur inverter — si bien qu'il n'importe pas d'air extérieur et ne cycle pas bruyamment une fois la consigne atteinte. Le mode pompe à chaleur prolonge son utilité en mi-saison. C'est le modèle le plus cher de la sélection, et il est physiquement imposant.",
+      "pros": [
+        "Bitube et inverter : les deux caractéristiques qui comptent",
+        "Le mode pompe à chaleur couvre les saisons fraîches",
+        "Tient la consigne même par forte chaleur"
+      ],
+      "cons": [
+        "Le plus cher de la sélection",
+        "Volumineux et lourd"
+      ]
+    },
+    "whynter-arc-14s": {
+      "badge": "💰 Meilleur rapport qualité-prix en bitube",
+      "review": "L'ARC-14S est la voie économique vers le bitube. Il est sur le marché depuis assez longtemps pour que ses modes de défaillance soient bien documentés dans les avis d'utilisateurs, et il fait l'essentiel : il ne met pas la pièce en dépression. Ce que vous perdez, c'est la modulation inverter — il s'enclenche et se coupe de façon audible au lieu de s'installer dans un ronronnement.",
+      "pros": [
+        "Bitube à prix plus doux",
+        "Longue expérience terrain, comportement bien documenté",
+        "Conception simple et réparable"
+      ],
+      "cons": [
+        "Compresseur à vitesse fixe, cyclage audible",
+        "Interface de commande datée"
+      ]
+    },
+    "lg-lp1419ivsm": {
+      "badge": "🔇 Monotube le plus silencieux",
+      "review": "Le LG s'impose quand le bruit est le critère décisif et qu'une installation bitube n'est pas praticable. Le compresseur double inverter module au lieu de cycler, et c'est précisément ce que l'on entend la nuit. Étant monotube, il fait toujours entrer de l'air de remplacement : c'est donc un meilleur appareil de chambre qu'un appareil pour pièce surchauffée.",
+      "pros": [
+        "Compresseur inverter, silencieux une fois à la consigne",
+        "Application et programmation bien conçues",
+        "Bonne qualité de fabrication"
+      ],
+      "cons": [
+        "Le monotube limite la capacité par forte chaleur",
+        "Prix élevé pour un monotube"
+      ]
+    },
+    "honeywell-hl10cesw": {
+      "badge": "🛏️ Idéal pour les petites pièces",
+      "review": "Le Honeywell est dimensionné pour une chambre, pas pour un séjour, et c'est ainsi qu'il faut le juger. Le mode déshumidification seule est réellement utile sous climat humide, quand la pièce n'est pas chaude mais reste inconfortable, et le filtre lavable limite les frais d'usage. Ne l'achetez pas pour une grande pièce ou une pièce exposée au soleil.",
+      "pros": [
+        "Bien dimensionné pour une petite chambre",
+        "Mode déshumidification seule vraiment utile",
+        "Filtre lavable"
+      ],
+      "cons": [
+        "Sous-dimensionné pour les grandes pièces",
+        "Vitesse fixe, cyclage audible"
+      ]
+    },
+    "blackdecker-bpact08wt": {
+      "badge": "💵 Le moins cher",
+      "review": "Le BPACT08WT est le ticket d'entrée, et c'est l'appareil sur lequel l'écart entre ASHRAE et SACC fait le plus de dégâts aux attentes : la capacité réelle avoisine la moitié du chiffre affiché. Acheté pour une petite pièce ombragée et bien étanche, il convient. Acheté sur la foi du nombre inscrit sur le carton, il décevra.",
+      "pros": [
+        "Le prix le plus bas de la sélection",
+        "Léger et facile à déplacer",
+        "Commandes simples"
+      ],
+      "cons": [
+        "Capacité réelle très inférieure au chiffre ASHRAE",
+        "Monotube et vitesse fixe",
+        "Peine dès que la pièce dépasse une petite surface"
+      ]
+    }
+  },
+  "offerNotes": {
+    "midea-duo-map14hs1tbl": "Vendu sous les noms Duo et MAP14HS1TBL — vérifiez la référence, la version sans pompe à chaleur lui ressemble presque trait pour trait.",
+    "whynter-arc-14s": "L'ARC-14S et l'ARC-14SH se distinguent par la fonction chauffage ; confirmez de quel modèle il s'agit dans l'annonce.",
+    "lg-lp1419ivsm": "LG indique les valeurs ASHRAE et DOE/SACC sur sa fiche technique — comparez sur la valeur DOE.",
+    "honeywell-hl10cesw": "Les références de cette gamme Honeywell varient selon le revendeur ; fiez-vous à la puissance en BTU plutôt qu'au suffixe.",
+    "blackdecker-bpact08wt": "Vérifiez la valeur SACC indiquée dans l'annonce avant de le dimensionner à une pièce."
+  },
+  "pinDescription": "Les BTU affichés sur le carton d'un climatiseur mobile ne sont pas la puissance que vous obtenez. ASHRAE ou SACC, monotube ou bitube : 5 modèles comparés sur les chiffres qui décident si la pièce refroidit vraiment. 🌬️"
 }
