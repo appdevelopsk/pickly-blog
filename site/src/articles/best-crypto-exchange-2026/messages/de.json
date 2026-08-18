@@ -2,5 +2,158 @@
   "title": "Bestes Krypto-Börse 2026: 5 im Vergleich",
   "description": "Wir haben Coinbase, Kraken, Gemini, Binance.US, Bitfinex verglichen. Das überzeugt 2026 wirklich bei Gebühren und regulatorische Stellung und Krypto-Börse.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Gebührenrechnung bei 10.000 € Monatsvolumen",
+      "paragraphs": [
+        "Coinbase Advanced: 32 €/Monat (0,40 % Taker, 0,25 % Maker auf dieser Stufe). Die teuerste der US-regulierten Optionen.",
+        "Kraken Pro: 18 €/Monat (0,26 % Taker, 0,16 % Maker). Die Hälfte der Gebühren von Coinbase Advanced.",
+        "Gemini Active Trader: 35 €/Monat (0,40 % Taker, 0,20 % Maker). Vergleichbar mit Coinbase, für Maker etwas teurer.",
+        "Binance.US: 8 €/Monat (0,10 % Taker, 0,10 % Maker). Die günstigste US-regulierte Option.",
+        "Bitfinex: 16 €/Monat (0,20 % Taker, 0,10 % Maker). Günstig, aber für US-Ansässige nicht verfügbar."
+      ]
+    },
+    {
+      "heading": "Sicherheit und regulatorischer Status",
+      "paragraphs": [
+        "Coinbase, Kraken, Gemini, Binance.US: alle US-reguliert. Coinbase und Gemini arbeiten unter der NYDFS BitLicense (dem strengsten US-Bundesstaatsstandard). Kraken hat eine SPDI-Lizenz des Bundesstaats Wyoming. Binance.US stand unter regulatorischer Beobachtung, ist aber weiterhin aktiv.",
+        "Verwahrungsversicherung: Coinbase und Gemini nutzen Cold Storage mit Versicherungsschutz auf Bankniveau. Kraken hat die längste saubere Sicherheitsbilanz (kein Hack seit der Gründung 2011). Bei Binance.US sind die Versicherungsdetails weniger transparent.",
+        "Bitfinex ist außerhalb der USA reguliert (Britische Jungferninseln) und für US-Ansässige nicht verfügbar. 2016 gab es einen Hack über 72 Mio. US-Dollar (bis 2022 für die Nutzer weitgehend ausgeglichen); die Börse läuft weiter."
+      ]
+    },
+    {
+      "heading": "Für welchen Zweck welche Börse",
+      "paragraphs": [
+        "Am besten für US-Einsteiger: Coinbase Advanced. Die höchsten Gebühren im Vergleich, dafür die einsteigerfreundlichste Bedienung, die größte Auswahl (250+ Coins) und die stärkste regulatorische Bilanz.",
+        "Am besten für aktive US-Trader: Kraken Pro. Halb so hohe Gebühren wie Coinbase, über 200 Coins, fortgeschrittene Ordertypen und die längste saubere Sicherheitsbilanz.",
+        "Am besten für sicherheitsbewusste Trader: Gemini Active Trader. NYDFS-reguliert, Verwahrungsversicherung und die am transparentesten dokumentierte Cold-Storage-Praxis.",
+        "Am besten für günstiges US-Trading: Binance.US. 0,10 % Taker-Gebühr ist der niedrigste Wert in der US-regulierten Klasse. Eingeschränkte Auswahl (150 statt 250+ anderswo).",
+        "Am besten für internationale Fortgeschrittene: Bitfinex. Nichts für US-Ansässige. Starker Margin-Handel, fortgeschrittene Ordertypen und konkurrenzfähige Gebühren."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Sollte man Kryptowährungen auf der Börse liegen lassen?",
+      "a": "Zum aktiven Handeln ja, zum langfristigen Halten nein. Für Coins, die Sie in den nächsten 30 Tagen nicht handeln wollen, gehört eine eigene Wallet her (Ledger, Trezor). „Not your keys, not your coins“ ist keine Floskel — FTX 2022 hat das allen in Erinnerung gerufen."
+    },
+    {
+      "q": "Was ist sicherer, Coinbase oder Kraken?",
+      "a": "Beide sind als US-regulierte Börsen sicher. Kraken hat die längere saubere Sicherheitsbilanz (kein einziger Hack seit 2011). Coinbase bietet den besseren Verbraucherschutz — börsennotiertes US-Unternehmen mit SEC-Berichtspflicht."
+    },
+    {
+      "q": "Warum ist Binance.US günstiger?",
+      "a": "Binance.US hat ein anderes Gebührenmodell als Coinbase: niedrigere Grundgebühren, dafür weniger Extras (Staking nur bei wenigen Coins, kleinere Auswahl, weniger ausgereifte Oberfläche). Es ist der kleinere US-Ableger des globalen Binance, das regulatorische Probleme hatte."
+    },
+    {
+      "q": "Kann man Bitfinex in den USA nutzen?",
+      "a": "Nein, Bitfinex sperrt US-Ansässige aus. Wer das per VPN umgeht, verstößt gegen die Nutzungsbedingungen und riskiert die Sperrung des Kontos samt Einzug der Guthaben."
+    }
+  ],
+  "products": {
+    "coinbase-advanced": {
+      "badge": "🏆 Beste Wahl für US-Einsteiger",
+      "review": "Coinbase Advanced ist die einsteigerfreundlichste US-regulierte Börse. Über 250 Coins, FDIC-versicherte USD-Guthaben (bis 250.000 US-Dollar) und eine Oberfläche, die über ein Jahrzehnt lang verfeinert wurde. Der Preis dafür sind die Gebühren: 0,40 % Taker ist der höchste Wert im Feld. Als Einstiegsbörse, auf der Sie gelegentlich kaufen und dann halten, fällt das kaum ins Gewicht. Sobald Sie häufiger handeln, wechseln Sie zu Kraken oder Binance.US.",
+      "pros": [
+        "Einsteigerfreundlichste Bedienung",
+        "Auswahl von über 250 Coins",
+        "FDIC-versicherte USD-Guthaben bis 250.000 US-Dollar",
+        "Börsennotiert mit SEC-Berichtspflicht"
+      ],
+      "cons": [
+        "0,40 % Taker-Gebühr — höchster Wert der US-regulierten Klasse",
+        "Coinbase-Staking hatte regulatorische Probleme"
+      ]
+    },
+    "kraken-pro": {
+      "badge": "⚡ Beste Wahl für aktive US-Trader",
+      "review": "Kraken Pro ist die richtige Börse für aktive US-Trader. 0,26 % Taker / 0,16 % Maker sind halb so viel wie bei Coinbase. Über 200 Coins, fortgeschrittene Ordertypen (Stop-Limit, OCO, Iceberg) und die längste saubere Sicherheitsbilanz der Branche (kein Hack seit 2011). Die Profi-Oberfläche verlangt Einarbeitung — Kraken Pro ist ein eigenes Produkt neben der normalen Kraken-Seite. Wer regelmäßig handelt, hat diese Einarbeitung durch die Gebührenersparnis binnen Monaten wieder drin.",
+      "pros": [
+        "0,26 % Taker-Gebühr — halb so viel wie bei Coinbase",
+        "Kein Hack seit 2011",
+        "Fortgeschrittene Ordertypen (Stop-Limit, OCO)"
+      ],
+      "cons": [
+        "Oberfläche verlangt Einarbeitung",
+        "Manche Coins nur außerhalb der USA verfügbar"
+      ]
+    },
+    "gemini-active-trader": {
+      "badge": "🛡️ Bester Sicherheitsfokus",
+      "review": "Gemini Active Trader ist die sicherheitsorientierte US-Börse. NYDFS-reguliert, nach SOC 2 Type 2 auditiert, eigene Cold-Storage-Versicherung über ein von Aon geführtes Konsortium. Über 70 Coins (weniger als bei Coinbase oder Kraken). Die Active-Trader-Gebühren liegen bei 0,40 % Taker — vergleichbar mit Coinbase, etwas über Kraken. Die beste Wahl für Coins, die Sie längerfristig auf einer Börse liegen lassen wollen (eigentlich gehört das in die eigene Wallet, aber wenn es die Börse sein muss, ist Gemini die sicherste Verwahrung).",
+      "pros": [
+        "NYDFS BitLicense + SOC-2-Type-2-Audit",
+        "Eigene Cold-Storage-Versicherung",
+        "Starker Verbraucherschutz"
+      ],
+      "cons": [
+        "70 Coins sind weniger als bei der Konkurrenz",
+        "0,40 % Taker-Gebühr auf Coinbase-Niveau"
+      ]
+    },
+    "binance-us": {
+      "badge": "💸 Günstigste US-Gebühren",
+      "review": "Binance.US hat die niedrigsten Gebühren unter den US-regulierten Börsen: 0,10 % Taker / 0,10 % Maker. 150 Coins, fortgeschrittene Ordertypen, technischer Unterbau des globalen Binance. Der Haken ist die regulatorische Unsicherheit — Binance.US war mehrfach Ziel von SEC- und CFTC-Verfahren und arbeitet unter strengeren Auflagen als Coinbase oder Kraken. Als reine Handelsbörse, auf der Guthaben schnell rein- und wieder rausfließen, ist dieses Risiko beherrschbar. Zur langfristigen Verwahrung weniger attraktiv.",
+      "pros": [
+        "0,10 % Taker-Gebühr — niedrigster Wert der US-regulierten Klasse",
+        "Fortgeschrittene Ordertypen aus dem globalen Binance-Stack",
+        "Ordentliche Auswahl (150+ Coins)"
+      ],
+      "cons": [
+        "Anhaltende regulatorische Prüfungen in den USA",
+        "Wenig transparente Versicherungsdetails",
+        "In weniger Bundesstaaten verfügbar als Coinbase/Kraken"
+      ]
+    },
+    "bitfinex": {
+      "badge": "🌍 Beste internationale Profi-Börse",
+      "review": "Bitfinex ist die internationale Profi-Börse. Für US-Ansässige nicht verfügbar (Regulierung über die Britischen Jungferninseln). 0,20 % Taker / 0,10 % Maker. Über 150 Coins, ausgereifter Margin-Handel (bis zu 10-facher Hebel bei unterstützten Paaren) und tiefe Orderbücher. 2016 gab es einen Hack über 72 Mio. US-Dollar (bis 2022 überwiegend erstattet); die Börse läuft weiter. Für aktive Trader außerhalb der USA ist Bitfinex bei den Gebühren auf Augenhöhe mit Kraken und bietet zusätzlich Margin-Handel, den Kraken nicht hat.",
+      "pros": [
+        "Margin-Handel mit bis zu 10-fachem Hebel",
+        "Tiefe Orderbücher für große Orders",
+        "0,10 % Maker-Gebühr ist konkurrenzfähig"
+      ],
+      "cons": [
+        "Für US-Ansässige nicht verfügbar",
+        "Hack-Historie von 2016 (bis 2022 aufgearbeitet)",
+        "Weniger regulatorische Transparenz als bei US-Börsen"
+      ]
+    }
+  },
+  "offerNotes": {
+    "coinbase-advanced": "Anmeldung auf coinbase.com. Nutzen Sie „Coinbase Advanced“ (früher Coinbase Pro) für die günstigere Gebührenstufe — nicht die einfache Coinbase-App, die zusätzlich 1,49 % Spread auf jeden Trade aufschlägt.",
+    "kraken-pro": "Anmeldung auf kraken.com. Nutzen Sie Kraken Pro (pro.kraken.com) — die normale Kraken-Seite ist teurer. Die Verifizierung dauert 1–3 Tage; erledigen Sie sie, bevor Sie handeln wollen.",
+    "gemini-active-trader": "Anmeldung auf gemini.com. Nutzen Sie Gemini ActiveTrader (eigene Oberfläche neben dem normalen Gemini) für die günstigeren Gebühren. In den ersten 10 Handelstagen gelten die Active-Trader-Sätze unabhängig vom Volumen.",
+    "binance-us": "Anmeldung auf binance.us. Verfügbar in den meisten US-Bundesstaaten außer New York, Hawaii, Texas, Vermont und einigen weiteren — vor der Anmeldung prüfen.",
+    "bitfinex": "Anmeldung auf bitfinex.com. Setzt einen Wohnsitz außerhalb der USA voraus. Die KYC-Prüfung ist gründlicher als bei US-Börsen (rechnen Sie mit 3–7 Tagen). Die Auszahlungslimits steigen mit der Verifizierungsstufe."
+  },
+  "pinDescription": "Krypto-Börse 2026 im Vergleich: Was kosten Coinbase, Kraken, Gemini, Binance.US und Bitfinex wirklich? Alle Gebühren bei 10.000 € Monatsvolumen auf einen Blick.",
+  "recommendedFor": [
+    {
+      "label": "Wer zum ersten Mal Krypto kauft",
+      "offerId": "coinbase-advanced",
+      "reason": "Die aufgeräumte Oberfläche und die FDIC-versicherten USD-Guthaben halten die Einstiegshürde für alle niedrig, die ihre ersten Coins kaufen und einfach liegen lassen wollen."
+    },
+    {
+      "label": "Aktive Trader mit dutzenden Trades pro Monat",
+      "offerId": "kraken-pro",
+      "reason": "Bei 0,26 % Taker-Gebühr — der Hälfte von Coinbase — summiert sich die Ersparnis bei hoher Handelsfrequenz schnell, und kein Hack seit 2011 bedeutet ruhige Nächte."
+    },
+    {
+      "label": "Sicherheitsbewusste Anleger, die Coins auf der Börse halten",
+      "offerId": "gemini-active-trader",
+      "reason": "NYDFS BitLicense, SOC-2-Type-2-Audit und die von Aon geführte Cold-Storage-Versicherung machen Gemini zur sichersten Börsenverwahrung, wenn eine eigene Wallet nicht infrage kommt."
+    },
+    {
+      "label": "Preisbewusste Trader, die jeden Basispunkt zählen",
+      "offerId": "binance-us",
+      "reason": "Die pauschalen 0,10 % Taker-Gebühr sind der niedrigste Wert unter den US-regulierten Börsen und drücken die Handelskosten bei gleichem Volumen auf ein Viertel von Coinbase."
+    },
+    {
+      "label": "Trader außerhalb der USA, die Margin und Hebel brauchen",
+      "offerId": "bitfinex",
+      "reason": "Bitfinex bietet Margin-Handel mit bis zu 10-fachem Hebel und tiefen Orderbüchern — auf US-regulierten Alternativen gibt es das nicht — bei konkurrenzfähigen 0,20 % Taker-Gebühr."
+    }
+  ]
 }

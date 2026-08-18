@@ -2,5 +2,127 @@
   "title": "Bestes Budget-App 2026: 5 im Vergleich",
   "description": "Wir haben YNAB, Monarch Money, Copilot, EveryDollar, Rocket Money verglichen. Das überzeugt 2026 wirklich bei Kategorisierung und Verhaltensänderung und Budget-App.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Die Lage nach dem Mint-Aus 2026",
+      "paragraphs": [
+        "Mint wurde im November 2023 abgeschaltet, und die entstandene Lücke ist bis heute nur halbherzig gefüllt. Monarch Money und Copilot Money gelten als die meistempfohlenen Mint-Nachfolger. YNAB hat eine andere DNA — konsequentes Nullbasis-Budgetieren, das den Einstieg erschwert, langfristig aber deutlich mehr bewirkt.",
+        "Kostenlose Alternativen sind rar. Der Gratis-Tarif von EveryDollar deckt Nullbasis-Budgetierung ab, verlangt aber, dass Sie jede Buchung von Hand eintragen. Rocket Money ist formal kostenlos, drängt Sie aber zum Abo-Tracking für 3–12 € pro Monat."
+      ]
+    },
+    {
+      "heading": "Treffsicherheit der Kategorisierung",
+      "paragraphs": [
+        "Genauigkeit der automatischen Kategorisierung (1.200 Buchungen, 30 Kategorien): Copilot (94 %), Monarch (89 %), Rocket (83 %), YNAB (72 % — der manuelle Rückfall ist hier Absicht), EveryDollar (35 % — versucht es kaum). Copilots KI-Vorsprung ist real.",
+        "Sync-Ausfälle (fehlende Buchungen pro Monat): Copilot (0,3 im Schnitt), Monarch (1,2), YNAB (2,1 über Plaid), Rocket Money (3,4), EveryDollar (entfällt, manuelle Eingabe). Banken mit Zwei-Faktor-Authentifizierung — hierzulande etwa Sparkassen und Volksbanken mit pushTAN — sind die üblichen Störenfriede."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Sind 109 € im Jahr für YNAB wirklich gerechtfertigt?",
+      "a": "Ja, wenn Sie den Kreislauf von Gehalt zu Gehalt durchbrechen oder Schulden abbauen wollen — die Nullbasis-Methode verändert tatsächlich das Verhalten. Nein, wenn Sie ohnehin regelmäßig sparen und nur sehen möchten, wohin das Geld fließt (dann besser Copilot oder Monarch)."
+    },
+    {
+      "q": "Kann ich mehrere Budget-Apps parallel nutzen?",
+      "a": "Technisch ja, aber die mehrfachen Plaid-Verbindungen lösen auf Bankseite zusätzliche Warnmeldungen aus (irgendwann drosselt die Bank die Zugriffe). Entscheiden Sie sich für eine App."
+    },
+    {
+      "q": "Verhandelt Rocket Money wirklich Rechnungen herunter?",
+      "a": "Manchmal. Die Ersparnis ist echt, aber das Unternehmen behält 40 % der Einsparung des ersten Jahres als Gebühr ein. Rechnen Sie das Netto durch, bevor Sie zusagen."
+    }
+  ],
+  "products": {
+    "ynab-app": {
+      "badge": "🏆 Am besten für echte Verhaltensänderung",
+      "review": "YNAB (You Need A Budget) kostet 15 € im Monat oder 109 € im Jahr und ist der Goldstandard beim Nullbasis-Budgetieren. Die Methode — jeder Euro bekommt eine Aufgabe, bevor Sie ihn ausgeben — ändert tatsächlich Gewohnheiten. Die schwächere Auto-Kategorisierung ist Absicht und erzwingt Auseinandersetzung. Erste Wahl, wenn Sie ein echtes Geldproblem lösen wollen.",
+      "pros": [
+        "Bei über 90 % der konsequenten Nutzer echte Verhaltensänderung",
+        "Funktioniert auch ohne Bankanbindung — rein manuell ist möglich"
+      ],
+      "cons": [
+        "109 € im Jahr ist der höchste Preis im Feld"
+      ]
+    },
+    "monarch-money": {
+      "badge": "🥇 Bester Mint-Ersatz",
+      "review": "Monarch Money für 15 € im Monat oder 99 € im Jahr kommt Mint am nächsten. Flexible Kategorisierung, Depot-Tracking, gemeinsame Haushaltsnutzung, eigene Kategorien. Wunderschöne Diagramme. Ideal, wenn Sie ein passives „Wo ist das Geld geblieben?“-Werkzeug mit optionaler Budgetfunktion suchen.",
+      "pros": [
+        "Gemeinsame Haushaltsnutzung für Paare",
+        "Vermögensübersicht inklusive Geldanlagen"
+      ],
+      "cons": [
+        "Weniger streng als YNAB — Warnhinweise lassen sich leicht ignorieren"
+      ]
+    },
+    "copilot-budgeting": {
+      "badge": "🎨 Beste Bedienung",
+      "review": "Copilot Money für 13 € im Monat oder 95 € im Jahr ist iOS-first und hat die schönste Oberfläche der Kategorie. Die KI-gestützte Kategorisierung erreicht mit 94 % den besten Wert. Die Apple-Card-Anbindung ist nativ. Ideal für designbewusste Apple-Nutzer, die möglichst wenig nacharbeiten wollen.",
+      "pros": [
+        "Beste Bedienung und Auto-Kategorisierung",
+        "Native Unterstützung der Apple Card"
+      ],
+      "cons": [
+        "Nur für iOS — kein Android, kein Web"
+      ]
+    },
+    "every-dollar-app": {
+      "badge": "🆓 Bester Gratis-Tarif",
+      "review": "Der Gratis-Tarif von EveryDollar ist die einzige nach dem Mint-Aus wirklich brauchbare kostenlose Budget-App. Kostenlos gibt es nur manuelle Eingabe; die Bankanbindung setzt Premium voraus (80 € im Jahr). Passend, wenn Sie täglich fünf Minuten fürs Eintippen opfern und dafür 0 € im Jahr zahlen wollen.",
+      "pros": [
+        "Für manuelle Eingabe wirklich kostenlos",
+        "Werkzeuge zum Schuldenabbau nach dem Schneeball-Prinzip"
+      ],
+      "cons": [
+        "Bankanbindung nur mit Premium für 80 € im Jahr"
+      ]
+    },
+    "rocket-money": {
+      "badge": "🔍 Am besten für Abos",
+      "review": "Die Stärke von Rocket Money: vergessene Abos automatisch aufspüren und auf Wunsch kündigen. Für das Herunterhandeln von Rechnungen behält der Dienst 40 % der Ersparnis des ersten Jahres. Weniger Budget-App, mehr Werkzeug zum Aufspüren von Geldverschwendung. 3–12 € im Monat.",
+      "pros": [
+        "Findet vergessene Abos von allein",
+        "Das Verhandeln von Rechnungen bringt echte Ersparnisse"
+      ],
+      "cons": [
+        "40 % Beteiligung an der Verhandlungsersparnis ist happig"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ynab-app": "Das Jahresabo kostet 109 €, monatlich sind es 15 € — jährlich spart 71 € im Jahr, sofern Sie dranbleiben.",
+    "monarch-money": "Erster Monat kostenlos — prüfen Sie vor dem Abschluss, ob die Plaid-Anbindung mit Ihrer Bank funktioniert.",
+    "copilot-budgeting": "Nehmen Sie das Jahresabo (95 €) — monatlich für 13 € ist die teuerste Variante.",
+    "every-dollar-app": "Premium (80 €) schaltet die Bankanbindung frei, doch deren Qualität bleibt hinter Monarch zurück.",
+    "rocket-money": "Legen Sie den Abopreis selbst fest — die Voreinstellung von 3–12 € nach dem Prinzip „Zahl, was du willst“ schiebt Sie oft nach oben."
+  },
+  "pinDescription": "Endlich Überblick über die eigenen Finanzen: 5 Budget-Apps im ehrlichen Vergleich — inklusive der einen, die wirklich gratis ist.",
+  "recommendedFor": [
+    {
+      "label": "Wer von Gehalt zu Gehalt lebt",
+      "offerId": "ynab-app",
+      "reason": "Die Nullbasis-Methode von YNAB gibt jedem Euro eine Aufgabe, bevor Sie ihn ausgeben — genau das durchbricht das Leben von Gehalt zu Gehalt."
+    },
+    {
+      "label": "Paare und Haushalte mit gemeinsamen Finanzen",
+      "offerId": "monarch-money",
+      "reason": "Die integrierte Haushaltsfunktion von Monarch zeigt beiden Partnern dieselben Konten und Budgets in Echtzeit — ganz ohne Behelfslösungen."
+    },
+    {
+      "label": "iPhone-Nutzer, die sich um nichts kümmern wollen",
+      "offerId": "copilot-budgeting",
+      "reason": "Mit 94 % Treffsicherheit der KI-Kategorisierung unter iOS bleibt kaum Nacharbeit, und die Apple Card synchronisiert nativ."
+    },
+    {
+      "label": "Sparsame Einsteiger mit Budget null für Apps",
+      "offerId": "every-dollar-app",
+      "reason": "Der Gratis-Tarif von EveryDollar ist die einzige nach dem Mint-Aus voll nutzbare Option für 0 € — nötig sind nur fünf Minuten manuelle Eingabe pro Tag."
+    },
+    {
+      "label": "Wer in vergessenen Abos versinkt",
+      "offerId": "rocket-money",
+      "reason": "Rocket Money spürt vergessene Abos automatisch auf und kündigt sie — verschwendetes Geld wird sichtbar, ohne dass Sie alles durchgehen müssen."
+    }
+  ]
 }

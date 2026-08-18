@@ -107,5 +107,114 @@
     "hitachi-pv-bl3k": "Opción ligera económica — cuerpo ligero (muy por debajo de los 3,0 kg del Dyson V15), cabezal de cepillo motorizado con luces LED, batería extraíble y soporte de carga de pared esbelto. El modo turbo necesario para alfombras de más de 5 mm de pelo agota la batería mucho más rápido que la generosa cifra del modo estándar; el depósito básico es más pequeño que las unidades de 0,5-0,8 L y hay que vaciarlo con más frecuencia; la succión no alcanza el nivel del Dyson V15 en alfombras gruesas o superficies cargadas de pelo de mascota."
   },
   "pinDescription": "Cinco aspiradoras de palo inalámbricas comparadas en 2026, desde una Eureka RapidClean Pro NEC180 de gama de entrada hasta una Dyson V15 Detect Absolute tope de gama. Succión en suelos reales, autonomía en el modo que realmente usas, peso tras 10 minutos en la mano, huella de la base en un pasillo de apartamento, y la letra pequeña de la garantía que ninguna marca explica bien.",
-  "methodology": "Evaluamos cada producto según su durabilidad en el uso real, su facilidad de uso diario, su rendimiento frente a las promesas publicitarias, la calidad de fabricación y su valor a largo plazo. Contrastamos las especificaciones del fabricante con reseñas verificadas de usuarios."
+  "methodology": "Evaluamos cada producto según su durabilidad en el uso real, su facilidad de uso diario, su rendimiento frente a las promesas publicitarias, la calidad de fabricación y su valor a largo plazo. Contrastamos las especificaciones del fabricante con reseñas verificadas de usuarios.",
+  "products": [
+    {
+      "offerId": "dyson-v15-detect-absolute",
+      "badge": "La más potente",
+      "review": "La V15 Detect Absolute es la de mayor succión de esta selección y la única cuyo láser verde en el cabezal de rodillo blando cambia de verdad la forma de limpiar el parquet: el polvo que no verías con la luz del techo aparece de golpe, evidente. El motor digital Hyperdymium de 240 vatios de aire arranca suciedad incrustada de alfombras de 10 mm que los modelos más ligeros dejan atrás sin disimulo; el depósito de 0,77 L es el mayor entre las opciones sin vaciado automático de esta comparativa, y el contador acústico piezoeléctrico de partículas ajusta la succión según la densidad de suciedad en vez de ir siempre a tope. Su punto flaco, dicho sin rodeos, es el peso: 3,0 kg con el cabezal de suelo montado se notan, y más de 10 minutos limpiando cortinas en alto o escaleras cansan a quien tiene menos envergadura; además, en modo máximo la autonomía baja a unos 12 minutos. Combínala con un robot aspirador para que la escoba sin cable sea la herramienta de limpieza a fondo y no la del día a día.",
+      "pros": [
+        "La succión sostenida más alta de la comparativa: 240 vatios de aire",
+        "El láser hace visible el polvo del parquet sin margen de duda",
+        "Depósito de 0,77 L, el mayor sin vaciado automático",
+        "El sensor piezoeléctrico de partículas regula la potencia solo"
+      ],
+      "cons": [
+        "Los 3,0 kg del cuerpo cansan al limpiar en alto o en escaleras",
+        "Unos 12 minutos en modo máximo y 82–84 dB que se oyen a través del tabique del vecino"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "eufy-mach-v1",
+      "badge": "Mejor relación calidad-precio (híbrida)",
+      "review": "El MACH V1 viene con dos cabezales intercambiables —un cepillo motorizado para seco y un rodillo fregador con depósitos de agua limpia y sucia más una base autolavable— y es el único de esta selección que sustituye de verdad a una escoba eléctrica y a una mopa por el precio de un solo aparato. En seco ofrece una succión equivalente a unos 16.000 Pa, con 35 minutos de autonomía en modo estándar y 15 en máximo, y el fregado húmedo se encarga de salpicaduras ligeras de cocina, huellas de mascota y ese polvo apelmazado con humedad que una aspiradora en seco no levanta. Las concesiones son claras: 35 minutos no dan para una casa de más de 100 m² sin parar a recargar, el rodillo fregador no sustituye a una fregona de verdad ante café reseco o salpicaduras pegajosas, y el circuito de agua exige mantener la base limpia cada semana o en un mes aparece olor a agua estancada.",
+      "pros": [
+        "Cabezal de aspirado en seco y de fregado en un solo aparato de gama de entrada",
+        "La base autolimpiante enjuaga el rodillo fregador tras cada uso",
+        "Succión suficiente para parquet, baldosa y alfombras de pelo corto",
+        "Sustituye dos aparatos en casas con mucho suelo duro"
+      ],
+      "cons": [
+        "Los 35 minutos en estándar obligan a recargar en viviendas de más de 100 m²",
+        "El fregado no sustituye a una fregona con la suciedad pegajosa"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "shark-cs501j",
+      "badge": "Mejor vaciado automático",
+      "review": "El CS501J es el modelo que devuelve la limpieza de dos veces al mes a dos veces por semana, porque la base de autovaciado saca la suciedad del depósito a una bolsa sellada de 0,6 L cada vez que lo acoplas: nunca vuelves a vaciar un depósito a mano. El cepillo autolimpiante lleva una cuchilla integrada que va soltando el pelo de mascota y el cabello enrollado mientras aspiras, y el cuerpo se mantiene de pie solo, así que no se cae cuando lo dejas para mover un mueble. La autonomía anunciada en modo eco es de 40 minutos. Los costes son estructurales: la base mide 25–30 cm de ancho y 40–50 cm de fondo y necesita unos 180 cm de altura libre, lo que se come un pasillo estrecho de menos de 90 cm; las bolsas selladas son un consumible anual recurrente; y el ciclo de vaciado suena a 80–85 dB durante 6–10 segundos cada vez que lo acoplas.",
+      "pros": [
+        "La base de autovaciado elimina la pereza de vaciar el depósito",
+        "El cepillo autolimpiante gestiona el pelo sin desenredarlo a mano",
+        "El cuerpo se sostiene de pie al dejarlo",
+        "40 minutos de autonomía anunciados en modo eco"
+      ],
+      "cons": [
+        "La base de autovaciado se come los pasillos de menos de 90 cm",
+        "Gasto recurrente en bolsas selladas cada año"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "tineco-pure-one-s15-pet",
+      "badge": "La mejor para pelo de mascota",
+      "review": "La Pure One S15 Pet está pensada específicamente para el pelo de mascota, que es lo que acaba con los cepillos de cerdas tradicionales. Su geometría antienredos usa un rodillo cónico con ranuras de corte laterales, de modo que el pelo enrollado se desplaza fuera del cepillo en vez de acumularse en los rodamientos, y el sensor de polvo iLoop ajusta la succión en tiempo real según cambia la densidad de suciedad. El depósito de 0,6 L y los cerca de 40 minutos de autonomía en modo eco son competitivos para lo que cuesta, y en hogares con varias mascotas se repite el mismo comentario: es la primera escoba sin cable que no obliga a la sesión semanal de tijeras y pinzas. Los peros están alrededor del aspirado más que en él: el circuito híbrido del accesorio de fregado opcional obliga a limpiar a fondo la base cada 2–4 semanas aunque solo uses el modo seco, la red de posventa de Tineco en España es más limitada que la de Dyson o Shark, y algunos ajustes avanzados solo están en la app de Tineco.",
+      "pros": [
+        "La geometría antienredos acaba con la limpieza semanal del cepillo",
+        "El sensor de polvo iLoop ajusta la succión en tiempo real",
+        "Unos 40 minutos de autonomía en modo eco",
+        "Pantalla LED con nivel de batería y densidad de polvo"
+      ],
+      "cons": [
+        "La base necesita limpieza a fondo cada 2–4 semanas aunque solo aspires en seco",
+        "El servicio de repuestos de Tineco tarda 3–5 semanas frente a 1–2 de Dyson"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "hitachi-pv-bl3k",
+      "badge": "La ligera para el día a día",
+      "review": "La RapidClean Pro NEC180 es una escoba ligera y barata —muy por debajo de los 3,0 kg de la Dyson V15— pensada para la ergonomía del uso diario más que para la succión máxima. Tiene cabezal de cepillo motorizado, luces LED que revelan el polvo con poca luz, batería extraíble y un soporte de pared estrecho para cargarla sin estorbar en un pasillo angosto. La autonomía anunciada en modo estándar es generosa para el precio. Las concesiones están a la vista: el modo turbo que necesitas para alfombras de más de 5 mm de pelo agota la batería mucho más rápido, el depósito es más pequeño que los de 0,5–0,8 L de esta lista y hay que vaciarlo más a menudo, y la succión queda en el último puesto de la comparativa, sin llegar al nivel de Dyson en alfombras gruesas o superficies cargadas de pelo de mascota. Es la elección acertada si tu casa es sobre todo suelo duro y alfombras de pelo corto y quieres algo barato para coger y limpiar sin pensar.",
+      "pros": [
+        "Cuerpo ligero: fácil de manejar y suave con la muñeca",
+        "Las luces LED revelan el polvo en suelos duros con poca luz",
+        "Batería extraíble y soporte de pared estrecho",
+        "Precio bajo para una escoba sin cable con cepillo motorizado"
+      ],
+      "cons": [
+        "El depósito básico y el único filtro lavable requieren atención frecuente",
+        "La succión queda por detrás de Dyson en alfombras gruesas y superficies con mucho pelo"
+      ],
+      "grade": "B"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Si ya tienes un robot aspirador para el día a día",
+      "offerId": "dyson-v15-detect-absolute",
+      "reason": "Los 240 vatios de aire y el láser que ilumina el polvo la convierten en la herramienta semanal de limpieza a fondo y de escaleras que el robot no puede hacer, y los 3,0 kg son asumibles en sesiones cortas y concretas."
+    },
+    {
+      "label": "Si tu casa es sobre todo suelo duro pero necesitas fregar",
+      "offerId": "eufy-mach-v1",
+      "reason": "Los cabezales intercambiables de seco y fregado con base autolavable sustituyen a la vez a una escoba eléctrica y a una mopa por un precio de gama de entrada: el equilibrio correcto en viviendas con más del 80 % de suelo duro."
+    },
+    {
+      "label": "Si vaciar el depósito a mano te quita las ganas de limpiar",
+      "offerId": "shark-cs501j",
+      "reason": "La base de autovaciado y el cepillo autolimpiante eliminan los dos puntos de fricción —depósito y pelo— que hacen que se limpie menos; en casas grandes compensa el espacio que ocupa la base."
+    },
+    {
+      "label": "Si convives con varias mascotas y el pelo te desborda",
+      "offerId": "tineco-pure-one-s15-pet",
+      "reason": "Su geometría antienredos es la única de esta selección que no exige la sesión semanal de tijeras y pinzas, y el sensor iLoop sigue la densidad de pelo suelto."
+    },
+    {
+      "label": "Si vives en un piso de menos de 80 m² con suelo duro",
+      "offerId": "hitachi-pv-bl3k",
+      "reason": "Cuerpo ligero, soporte de pared estrecho y una autonomía generosa en modo estándar cubren todo el piso por poco dinero, sin cansar la muñeca ni robar espacio con una base."
+    }
+  ]
 }

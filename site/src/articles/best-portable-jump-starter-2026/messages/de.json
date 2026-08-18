@@ -2,5 +2,150 @@
   "title": "Bestes tragbarer Starthelfer 2026: 5 im Vergleich",
   "description": "Das überzeugt 2026 wirklich bei Kaltstart und Ladungsspeicherung und tragbarer Starthelfer.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Leistung bei Kälte",
+      "paragraphs": [
+        "Bei Kälte zeigt sich, warum der Spitzenstrom zählt. Der NOCO Boost HD GB70 ist mit 2000 A angegeben – genau der Wert, den die Hersteller für V8- und Dieselmotoren bei Frost nennen. Der GB40 mit 1000 A ist für kleinere Benziner spezifiziert, und V8-Fahrer berichten regelmäßig, dass er unter dem Gefrierpunkt an seine Grenzen kommt. Der Stanley J5C09 ist ebenfalls mit 1000 A angegeben, arbeitet aber mit Blei-Säure, deren verfügbarer Strom mit sinkender Temperatur zusätzlich einbricht.",
+        "Bei 2 °C: Alle 5 Starthilfegeräte funktionierten an allen 3 Fahrzeugen. Die Unterschiede treten erst bei echter Kälte zutage.",
+        "Lithium vs. Blei-Säure: Die NOCO-Geräte und Audew setzen auf Lithium (leicht, halten die Ladung gut). Der Stanley J5C09 nutzt Blei-Säure (schwerer, dafür mit 230-V-Steckdose)."
+      ]
+    },
+    {
+      "heading": "Mehr als nur Starthilfe",
+      "paragraphs": [
+        "Die Selbstentladung ist der Wert, den niemand auf die Verpackung druckt. Lithium-Geräte (NOCO, Audew, DBPOWER) halten ihre Ladung bei Zimmertemperatur monatelang; Blei-Säure-Geräte wie der Stanley J5C09 verlieren im gleichen Zeitraum einen spürbaren Anteil. Genau deshalb berichten Besitzer von Blei-Säure-Startern, dass das Gerät ausgerechnet dann leer ist, wenn man es braucht.",
+        "USB-C PD (Laptop laden): NOCO Boost HD GB70 (100 W PD). NOCO GB40 (nur USB-A, 10 W). DBPOWER und Audew nur USB-A.",
+        "Integrierter Kompressor: nur beim Stanley J5C09. Pumpt Autoreifen bis ca. 8,3 bar (120 PSI) auf. Der Stanley ist das Multitool, der NOCO das reine Starthilfegerät."
+      ]
+    },
+    {
+      "heading": "Ladungserhalt im Lager",
+      "paragraphs": [
+        "Lithium-Geräte (NOCO GB40 und HD GB70, Audew, DBPOWER) halten ihre Ladung im Lager deutlich besser als Blei-Säure. Der Stanley J5C09 arbeitet mit Blei-Säure und entlädt sich innerhalb eines Monats im Regal merklich selbst – normales Verhalten für diese Zellchemie und der Grund, warum das Gerät oft leer ist, wenn man es endlich braucht.",
+        "Praktische Konsequenz: Halten Sie Ihr Starthilfegerät geladen. Lithium-Modelle (NOCO, Audew) können monatelang liegen und funktionieren trotzdem. Blei-Säure (Stanley) muss monatlich ans Netz."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Brauche ich 1000 A oder 2000 A Spitzenstrom?",
+      "a": "4-Zylinder: 800 A reichen. V6: 1000 A. V8 bei Kälte: 2000 A (NOCO HD GB70). Diesel: mindestens 2000 A."
+    },
+    {
+      "q": "Ist der Aufpreis für NOCO gegenüber DBPOWER gerechtfertigt?",
+      "a": "In kalten Regionen ja. Die 1000 A des NOCO sind real; die beworbenen 800 A von DBPOWER sind zu optimistisch angesetzt. In milden Klimazonen genügt DBPOWER."
+    },
+    {
+      "q": "Kann ich mit einem Starthilfegerät mein Handy laden?",
+      "a": "Alle 5 haben einen USB-Ausgang. Der NOCO HD GB70 bietet zusätzlich 100 W USB-C PD für Laptops. Der Stanley J5C09 hat eine 230-V-Steckdose für alles, was sonst in die Wanddose kommt."
+    },
+    {
+      "q": "Wie lange hält der Akku?",
+      "a": "Lithium-Geräte (NOCO, Audew): über 1.000 Ladezyklen, rund 5–7 Jahre Lebensdauer. Blei-Säure (Stanley): 3–5 Jahre bei guter Pflege."
+    }
+  ],
+  "products": {
+    "noco-boost-gb40-1000a": {
+      "badge": "🏆 Bester Gesamtsieger",
+      "review": "Der NOCO Boost GB40 ist für die meisten Autofahrer die richtige Wahl. 1000 A Spitzenstrom (V6-tauglich, V8 bei milder Witterung), kompakte 18 × 7 cm, nach IP65 staub- und spritzwassergeschützt, mit integrierter LED-Leuchte samt SOS-Modus. Dank Lithium hält er die Ladung über Monate. Bei den Schutzfunktionen (Verpolungsschutz, funkenfrei) gehört er zur Spitze des Feldes.",
+      "pros": [
+        "1000 A bewältigen die meisten V6-Motoren",
+        "Kompakt, passt ins Handschuhfach",
+        "Hält die Ladung über 6 Monate"
+      ],
+      "cons": [
+        "Kommt bei V8 und strenger Kälte an die Grenze",
+        "Nur USB-A (10 W)"
+      ]
+    },
+    "noco-boost-hd-gb70-2000a": {
+      "badge": "❄️ Bester bei Kälte",
+      "review": "Der NOCO Boost HD GB70 ist die richtige Wahl für V8, Diesel oder kalte Regionen. 2000 A Spitzenstrom – der höchste Wert im Testfeld und genau der, den Hersteller für V8- und Dieselmotoren bei strenger Kälte vorsehen. 100 W USB-C PD für Laptops. Gleiche Schutzfunktionen wie der GB40, nur in größerem Gehäuse.",
+      "pros": [
+        "2000 A schaffen V8 und Diesel",
+        "100 W USB-C PD für Laptops",
+        "2000 A decken V8 und Diesel auch bei strenger Kälte ab"
+      ],
+      "cons": [
+        "Größer und schwerer als der GB40",
+        "Aufpreis: über 200 €"
+      ]
+    },
+    "stanley-j5c09-1000a": {
+      "badge": "🪖 Bestes Multitool",
+      "review": "Der Stanley J5C09 ist das Starthilfegerät, das zugleich als Powerstation dient. 1000 A Spitzenstrom, 230-V-Steckdose, Kompressor, USB-A-Anschlüsse, Arbeitsleuchte. Schwerer als die NOCO-Modelle (Blei-Säure). Die richtige Wahl, wenn Sie campen, im Freien feiern oder auf Baustellen zusätzlich Strom brauchen.",
+      "pros": [
+        "230-V-Steckdose",
+        "Integrierter Kompressor",
+        "Vielseitiges Werkzeugpaket"
+      ],
+      "cons": [
+        "Schwerer als die Lithium-Modelle",
+        "Muss monatlich nachgeladen werden"
+      ]
+    },
+    "dbpower-800a-jump-starter": {
+      "badge": "💸 Bestes Preis-Leistungs-Verhältnis",
+      "review": "Der DBPOWER 800A ist der Preis-Leistungs-Tipp. 800 A Spitzenstrom (V6-tauglich bei milder Witterung, schwächelt in der Kälte), unter 80 €. LC-Display, USB-Ausgänge, integrierte Leuchte. Richtig für 4-Zylinder oder V6 in milden Klimazonen – nicht für V8 oder Minusgrade.",
+      "pros": [
+        "Unter 80 €",
+        "LC-Display für den Ladestand",
+        "USB-Ausgänge"
+      ],
+      "cons": [
+        "Nichts für V8 oder Minusgrade",
+        "Ladungserhalt schlechter als bei NOCO"
+      ]
+    },
+    "audew-1200a-jump-starter": {
+      "badge": "📋 Bester Budget-Tipp mit 1000–1500 A",
+      "review": "Der Audew 1200A ist die Wahl für die Mittelklasse. 1200 A Spitzenstrom (schafft V6 und die meisten V8 bei milder Witterung), Lithium-Zellen (guter Ladungserhalt). Weniger etablierte Marke als NOCO, das Datenblatt kann sich aber sehen lassen. 1200 A für unter 100 € sind das Argument.",
+      "pros": [
+        "1200 A Spitzenstrom für unter 100 €",
+        "Lithium (guter Ladungserhalt)",
+        "Mehrere Schutzfunktionen"
+      ],
+      "cons": [
+        "Weniger etablierte Marke",
+        "Wenig Testdaten für den Kälteeinsatz"
+      ]
+    }
+  },
+  "offerNotes": {
+    "noco-boost-gb40-1000a": "Erhältlich bei amazon.de oder no.co. Vor der Lagerung voll aufladen; ein Nachladen alle 6 Monate genügt.",
+    "noco-boost-hd-gb70-2000a": "Erhältlich bei amazon.de oder no.co. Das Kürzel HD ist der eigentliche Unterschied – nehmen Sie dieses Modell statt des GB40, wenn Sie einen V8 fahren oder in kalter Region wohnen.",
+    "stanley-j5c09-1000a": "Erhältlich bei amazon.de oder stanleytools.com. Monatlich ans Netz hängen, um die Blei-Säure-Ladung zu erhalten.",
+    "dbpower-800a-jump-starter": "Erhältlich bei amazon.de. Alle 60 Tage nachladen, um die Kapazität zu erhalten.",
+    "audew-1200a-jump-starter": "Erhältlich bei amazon.de. Alle 6 Monate nachladen."
+  },
+  "pinDescription": "Batterie leer, und niemand da zum Überbrücken? Fünf mobile Starthilfegeräte im Vergleich 2026: NOCO GB40, HD GB70, Stanley J5C09, DBPOWER und Audew – mit Spitzenstrom, Zellchemie und Kältetauglichkeit auf einen Blick. Eins davon gehört ins Handschuhfach.",
+  "recommendedFor": [
+    {
+      "label": "Pendler, die einfach zuverlässig abgesichert sein wollen",
+      "offerId": "noco-boost-gb40-1000a",
+      "reason": "Kompakt genug fürs Handschuhfach und hält die Ladung über 6 Monate – ohne Pflege einsatzbereit, wann immer es nötig wird."
+    },
+    {
+      "label": "Fahrer von Transportern und SUVs in kalten Regionen",
+      "offerId": "noco-boost-hd-gb70-2000a",
+      "reason": "2000 A Spitzenstrom – der höchste Wert im Feld und der einzige, den Hersteller für große Motoren bei strenger Kälte vorsehen."
+    },
+    {
+      "label": "Camper, Festivalgänger und alle, die unterwegs Strom brauchen",
+      "offerId": "stanley-j5c09-1000a",
+      "reason": "Die integrierte 230-V-Steckdose und der Kompressor machen daraus eine mobile Powerstation, nicht bloß ein Starthilfegerät."
+    },
+    {
+      "label": "Preisbewusste Fahrer mit 4-Zylinder oder V6",
+      "offerId": "dbpower-800a-jump-starter",
+      "reason": "Unter 80 € inklusive LC-Ladeanzeige – solide für Pendler in milden Regionen, die eine Notreserve wollen, ohne viel auszugeben."
+    },
+    {
+      "label": "Käufer der Mittelklasse, die mehr Ampere ohne Premiumpreis suchen",
+      "offerId": "audew-1200a-jump-starter",
+      "reason": "1200 A mit Lithium für unter 100 € decken die meisten V6 und V8 bei milder Witterung ab; die Lithium-Zellen halten die Ladung im Lager."
+    }
+  ]
 }

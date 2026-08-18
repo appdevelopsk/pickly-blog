@@ -2,5 +2,149 @@
   "title": "Mejor seguro de auto 2026: 5 comparados",
   "description": "Comparamos Geico, Progressive, State Farm, USAA, Liberty Mutual. Esto es lo que realmente destaca en prima y manejo de reclamaciones para seguro de auto en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Prima por una cobertura idéntica",
+      "paragraphs": [
+        "Prima anual media en 5 estados: Geico 1.380 $, Progressive 1.490 $, State Farm 1.560 $, Liberty Mutual 1.710 $, USAA 980 $ (solo militares). Diferencias por estado: Florida +35 %, California +20 %, Texas como referencia, Illinois -10 %, Nueva York +25 %.",
+        "Descuento por telemetría: Progressive Snapshot 10-30 %, State Farm Drive Safe 15-25 %, Geico DriveEasy 15-20 %, Liberty Mutual RightTrack 5-30 %. USAA incluye la telemetría sin coste. Los descuentos por telemetría son reales si conduces con cuidado, pero también penalizan las frenadas bruscas."
+      ]
+    },
+    {
+      "heading": "Diferencias de cobertura",
+      "paragraphs": [
+        "Perdón del primer siniestro (sin subida tras el primer parte con culpa): Liberty Mutual lo incluye gratis, Geico lo vende como extra por 50 $/año, Progressive lo incluye tras 5 años sin partes, State Farm cobra 30 $/año y USAA lo incluye.",
+        "Franquicia decreciente (baja 100 $ cada año sin partes): Allstate es quien mejor lo hace (no entra en esta comparativa), Liberty Mutual la ofrece gratis y Progressive por 25 $/año.",
+        "Cobertura para VTC y transporte compartido: Geico (extra de 14-21 $/mes), Progressive (15-25 $/mes), State Farm (25-50 $/mes). Liberty Mutual y USAA tienen disponibilidad limitada en este apartado."
+      ]
+    },
+    {
+      "heading": "Satisfacción del cliente",
+      "paragraphs": [
+        "Satisfacción en tramitación de siniestros según JD Power 2025: USAA n.º 1 (solo militares), Erie n.º 2, State Farm n.º 3, Geico n.º 5, Progressive n.º 11, Liberty Mutual n.º 16. La distancia entre los primeros y los últimos es real: Liberty Mutual queda por debajo de la media del sector en gestión de siniestros.",
+        "Calidad de la app: la de Geico es la más descargada; Progressive tiene el mejor panel de telemetría; State Farm ofrece el flujo más limpio para abrir un parte."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Por qué varían tanto los presupuestos de un seguro a otro?",
+      "a": "Cada aseguradora usa su propio modelo de riesgo. El mismo conductor recibe precios distintos porque cada compañía pondera de otra forma los factores (historial crediticio, código postal, vehículo, etc.). Pide presupuesto a 3-5 compañías: el ahorro frente a la más cara suele ser del 20-40 %."
+    },
+    {
+      "q": "¿Me interesa el descuento por telemetría?",
+      "a": "Sí, si conduces con cuidado (sin frenadas bruscas ni trayectos de madrugada). El descuento es real (10-30 %). No, si conduces de forma agresiva: la telemetría puede subirte la prima."
+    },
+    {
+      "q": "¿Franquicia de 500 $ o de 1.000 $?",
+      "a": "Una franquicia más alta ahorra en torno a un 10-15 % de prima. Merece la pena si tienes 1.000 $ de colchón; no la merece si no los tienes."
+    },
+    {
+      "q": "¿Por qué es Florida tan cara?",
+      "a": "Florida tiene una tasa alta de conductores sin seguro, riesgo de huracanes y un sistema legal sin atribución de culpa que dispara el coste de los siniestros. California y Florida son sistemáticamente los estados más caros."
+    }
+  ],
+  "products": {
+    "geico-auto": {
+      "badge": "🏆 La mejor en conjunto",
+      "review": "Geico Auto es la opción generalista más barata para conductores con historial limpio. App sólida, siniestros rápidos y descuento militar (15 %). La telemetría DriveEasy funciona bien si conduces con cuidado.",
+      "pros": [
+        "La opción generalista más barata",
+        "Tramitación rápida de siniestros",
+        "App sólida y buena telemetría"
+      ],
+      "cons": [
+        "Precios más altos con multas o siniestros con culpa",
+        "El perdón del siniestro no viene de serie (extra de pago)"
+      ]
+    },
+    "progressive-auto": {
+      "badge": "📊 La mejor telemetría",
+      "review": "Progressive Auto encaja con quien se maneja bien con la tecnología y no le importa compartir datos. La telemetría Snapshot puede rebajar la prima entre un 10 y un 30 %. La herramienta Name Your Price ayuda si compras con un presupuesto cerrado. Buena disponibilidad de cobertura para VTC.",
+      "pros": [
+        "El mejor panel de telemetría",
+        "Herramienta Name Your Price",
+        "Buena cobertura para VTC"
+      ],
+      "cons": [
+        "Menor satisfacción en siniestros (n.º 11 en JD Power)",
+        "La prima sube más tras un parte"
+      ]
+    },
+    "state-farm-auto": {
+      "badge": "📦 La mejor para agrupar pólizas",
+      "review": "State Farm Auto gana cuando agrupas pólizas: un 25 % de descuento combinando hogar y coche. Es la mayor aseguradora de coches de EE. UU. y tiene red de agentes locales. Su telemetría Drive Safe & Save descuenta entre un 15 y un 25 %. N.º 3 en satisfacción de siniestros según JD Power.",
+      "pros": [
+        "25 % al combinar hogar y coche",
+        "Red de agentes locales",
+        "N.º 3 en siniestros según JD Power"
+      ],
+      "cons": [
+        "Prima suelta más cara que la de Geico",
+        "App menos cuidada que la de Geico"
+      ]
+    },
+    "usaa-auto": {
+      "badge": "🪖 La mejor para militares",
+      "review": "USAA Auto es la opción más barata (980 $ de media), pero exige vinculación militar. Año tras año es la n.º 1 en satisfacción de JD Power. Incluye telemetría sin coste y paga con generosidad los siniestros.",
+      "pros": [
+        "La prima más barata",
+        "N.º 1 en satisfacción según JD Power",
+        "Indemnizaciones generosas"
+      ],
+      "cons": [
+        "Hace falta cumplir los requisitos militares",
+        "Cobertura limitada para VTC"
+      ]
+    },
+    "liberty-mutual-auto": {
+      "badge": "🎁 El mejor perdón del siniestro",
+      "review": "Liberty Mutual Auto incluye gratis tanto el perdón del primer siniestro como la franquicia decreciente: son las prestaciones de serie más generosas de la categoría. Pero tiene la prima más alta (1.710 $ de media) y queda n.º 16 en siniestros según JD Power. Que compense pagar de más por esas prestaciones es discutible.",
+      "pros": [
+        "Perdón del siniestro incluido sin coste",
+        "Franquicia decreciente incluida sin coste",
+        "App sólida"
+      ],
+      "cons": [
+        "La prima más alta de esta comparativa",
+        "N.º 16 en gestión de siniestros según JD Power"
+      ]
+    }
+  },
+  "offerNotes": {
+    "geico-auto": "Presupuesto en geico.com: cálculo inmediato con el número de bastidor (VIN). Hay descuentos para militares y empleados federales.",
+    "progressive-auto": "Presupuesto en progressive.com: la herramienta Name Your Price ayuda a ajustarte al presupuesto. Snapshot es voluntario.",
+    "state-farm-auto": "Presupuesto en statefarm.com o con un agente local. Combínalo con el seguro de hogar o de inquilino para el máximo descuento.",
+    "usaa-auto": "Presupuesto en usaa.com: primero comprueba si cumples los requisitos. Incluye asistencia en carretera gratuita para determinados socios.",
+    "liberty-mutual-auto": "Presupuesto en libertymutual.com. La telemetría RightTrack es voluntaria."
+  },
+  "pinDescription": "¿Pagas de más por el seguro del coche? Geico, Progressive, State Farm, USAA y Liberty Mutual, comparadas: precio real, descuentos por telemetría y quién responde de verdad cuando toca dar el parte.",
+  "recommendedFor": [
+    {
+      "label": "Conductores con historial limpio que miran el precio",
+      "offerId": "geico-auto",
+      "reason": "Los 1.380 $ de prima media de Geico son lo más barato entre las aseguradoras generalistas, y la telemetría DriveEasy aún lo rebaja más si conduces con cuidado."
+    },
+    {
+      "label": "Autónomos y conductores de VTC",
+      "offerId": "progressive-auto",
+      "reason": "Progressive es la que mejor cobertura ofrece para VTC, y su telemetría Snapshot puede recortar la prima entre un 10 y un 30 % si aceptas compartir datos."
+    },
+    {
+      "label": "Propietarios que quieren agrupar pólizas",
+      "offerId": "state-farm-auto",
+      "reason": "El 25 % de descuento por combinar hogar y coche, más la red de agentes locales, dejan a State Farm como ganadora clara si tienes varias pólizas."
+    },
+    {
+      "label": "Militares en activo y veteranos",
+      "offerId": "usaa-auto",
+      "reason": "Los 980 $ de prima media de USAA son los más bajos del grupo, y ser n.º 1 en satisfacción de JD Power se traduce en menos quebraderos de cabeza al dar el parte."
+    },
+    {
+      "label": "Conductores noveles preocupados por su primer siniestro",
+      "offerId": "liberty-mutual-auto",
+      "reason": "Liberty Mutual incluye sin coste el perdón del siniestro y la franquicia decreciente, así que un primer parte no dispara el precio."
+    }
+  ]
 }

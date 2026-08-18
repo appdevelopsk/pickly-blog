@@ -2,5 +2,149 @@
   "title": "Mejor registrador de dominios 2026: 5 comparados",
   "description": "Comparamos Porkbun, Namecheap, Cloudflare, GoDaddy, Squarespace. Esto es lo que realmente destaca en precio de renovación y agresividad de ventas adicionales para registrador de dominios en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Precios reales (renovación, no oferta inicial)",
+      "paragraphs": [
+        "Renovación de un .com en el año 2: Porkbun 9,60 €, Cloudflare 9,05 € (a precio de coste), Namecheap 13,90 €, GoDaddy 23,20 €, Squarespace Domains 18,50 €.",
+        "Cloudflare gana en precio absoluto: cobra lo que cuesta en el registro, sin margen. El truco: su objetivo es atarte al DNS/proxy de Cloudflare. Porkbun es el más barato de los que sí ganan dinero con el dominio.",
+        "El precio de renovación de GoDaddy (2,4 veces el de Porkbun) responde al patrón de siempre: entrada barata, renovación cara. Mucha gente se queda por inercia y paga 14 € de más por dominio y año."
+      ]
+    },
+    {
+      "heading": "Privacidad WHOIS",
+      "paragraphs": [
+        "Privacidad WHOIS gratuita: Porkbun, Namecheap, Cloudflare y Squarespace Domains. En GoDaddy se paga: 9,30 €/año.",
+        "La privacidad WHOIS oculta tu nombre, dirección, correo y teléfono de los registros públicos. Sin ella, tus datos de contacto son consultables por cualquiera y acaban generando spam.",
+        "Que GoDaddy cobre por la privacidad WHOIS está desfasado: hoy la mayoría de registradores la incluyen gratis como mínimo indispensable."
+      ]
+    },
+    {
+      "heading": "Ventas cruzadas en el proceso de pago",
+      "paragraphs": [
+        "Número de ofertas adicionales durante el pago (contando los clics para rechazarlas): Porkbun 0, Cloudflare 0, Namecheap 2, GoDaddy más de 8 (privacidad, correo, seguridad, correo profesional, alojamiento web, creador de webs, SSL, M365), Squarespace Domains 1.",
+        "El proceso de pago de GoDaddy es el más agresivo: es fácil terminar con más de 45 € en servicios que no querías. Porkbun y Cloudflare mantienen el carrito limpio."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Cloudflare o Porkbun?",
+      "a": "Cloudflare si ya usas su DNS o su proxy. Porkbun si prefieres un registrador que gane dinero por sí mismo y no dependa de otra plataforma."
+    },
+    {
+      "q": "¿Merece la pena salir de GoDaddy?",
+      "a": "Sí. El ahorro anual supera los 14 € por dominio. La transferencia es sencilla (deben haber pasado 60 días desde la última operación) y normalmente el registrador de destino asume la tasa."
+    },
+    {
+      "q": "¿Sigue siendo .com la mejor extensión?",
+      "a": "Sí. Es la que más confianza transmite, la que el cliente recuerda mejor y es neutra para el SEO. Otras extensiones (.io, .ai) funcionan en contextos concretos, pero .com sigue siendo la opción por defecto."
+    },
+    {
+      "q": "¿Y para gestionar muchos dominios a la vez?",
+      "a": "Cloudflare y Namecheap tienen las mejores herramientas masivas. La gestión en bloque de Porkbun va mejorando. GoDaddy también las tiene, pero con una interfaz recargada."
+    }
+  ],
+  "products": {
+    "porkbun-registrar": {
+      "badge": "🏆 Mejor relación calidad-precio",
+      "review": "Porkbun es la elección acertada si buscas un precio bajo que se mantenga en el tiempo. Renovación .com por 9,60 €, privacidad WHOIS gratis, SSL sin coste con el pack de alojamiento y cero ventas cruzadas al pagar. La recomendación por defecto para registrar dominios en 2026.",
+      "pros": [
+        "El precio bajo más sostenible",
+        "Privacidad WHOIS gratuita",
+        "Ninguna venta cruzada al pagar"
+      ],
+      "cons": [
+        "Marca menos conocida que Namecheap",
+        "Sin atención telefónica"
+      ]
+    },
+    "namecheap-registrar": {
+      "badge": "🎯 La mejor opción convencional",
+      "review": "Namecheap es la elección acertada si prefieres una casa consolidada con precios estables. Renovación .com por 13,90 €, privacidad WHOIS gratis para siempre y tarifas transparentes. Buena gestión de DNS. Lleva funcionando desde el año 2000.",
+      "pros": [
+        "Privacidad WHOIS gratis de por vida",
+        "Precios transparentes",
+        "Buena gestión de DNS"
+      ],
+      "cons": [
+        "Más caro que Porkbun",
+        "Alguna venta cruzada al pagar"
+      ]
+    },
+    "cloudflare-registrar": {
+      "badge": "💰 El mejor a precio de coste",
+      "review": "Cloudflare Registrar es la elección acertada si ya usas su DNS y quieres pagar el coste real. Renovación .com por 9,05 € (lo que cuesta en el registro), privacidad WHOIS gratis y ni un céntimo de margen. El dominio tiene que usar el DNS de Cloudflare y no hay redirección de correo desde el registrador.",
+      "pros": [
+        "Precio de coste (el más barato)",
+        "Ni una sola venta cruzada",
+        "Privacidad WHOIS gratuita"
+      ],
+      "cons": [
+        "Obliga a usar el DNS de Cloudflare",
+        "Sin redirección de correo"
+      ]
+    },
+    "godaddy-registrar": {
+      "badge": "🚫 Mejor evitarlo",
+      "review": "GoDaddy es el registrador que conviene evitar en 2026. Renovación .com por 23,20 € (2,4 veces lo de Porkbun), 9,30 €/año por la privacidad WHOIS y más de 8 ofertas adicionales al pagar. Precios de otra época sin las ventajas de otra época. Transfiere tus dominios.",
+      "pros": [
+        "Marca reconocida y asentada"
+      ],
+      "cons": [
+        "La renovación más cara",
+        "Privacidad WHOIS de pago",
+        "Ventas cruzadas agresivas al pagar"
+      ]
+    },
+    "google-domains-squarespace": {
+      "badge": "🪜 La mejor alternativa a Google",
+      "review": "Squarespace Domains (antes Google Domains) heredó la sencillez de Google Domains tras la compra por parte de Squarespace en 2023. Renovación .com por 18,50 €, privacidad WHOIS gratis e interfaz despejada.",
+      "pros": [
+        "Hereda la interfaz de Google Domains",
+        "Privacidad WHOIS gratuita",
+        "Proceso de pago limpio"
+      ],
+      "cons": [
+        "Más caro que Porkbun o Cloudflare",
+        "Insiste en venderte el creador de webs de Squarespace"
+      ]
+    }
+  },
+  "offerNotes": {
+    "porkbun-registrar": "Regístralo en porkbun.com: el mejor pack con SSL gratis si contratas su alojamiento.",
+    "namecheap-registrar": "Regístralo en namecheap.com: atento a las ofertas del Black Friday.",
+    "cloudflare-registrar": "Regístralo en cloudflare.com: necesitas una cuenta de Cloudflare.",
+    "godaddy-registrar": "Regístralo en godaddy.com, pero transfiérelo antes de que pase un año.",
+    "google-domains-squarespace": "Regístralo en squarespace.com/domains: las antiguas cuentas de Google Domains se migraron aquí."
+  },
+  "pinDescription": "¿Dónde registrar tu dominio en 2026? Comparamos precios REALES de renovación (no la oferta de captación) de Porkbun, Namecheap, Cloudflare, GoDaddy y Squarespace, más quién te regala la privacidad WHOIS. Ahorra 14 € al año por dominio.",
+  "recommendedFor": [
+    {
+      "label": "Creadores independientes que registran su primer dominio",
+      "offerId": "porkbun-registrar",
+      "reason": "La renovación de 9,60 € de Porkbun, sin ventas cruzadas y con privacidad WHOIS incluida, mantiene las cuentas claras desde el primer día."
+    },
+    {
+      "label": "Pequeños negocios que quieren un registrador de confianza y con trayectoria",
+      "offerId": "namecheap-registrar",
+      "reason": "Los precios transparentes de Namecheap y su privacidad WHOIS gratis para siempre encajan con quien necesita un DNS fiable y sin sorpresas."
+    },
+    {
+      "label": "Desarrolladores que ya tienen sus webs detrás del proxy de Cloudflare",
+      "offerId": "cloudflare-registrar",
+      "reason": "La renovación a precio de coste de 9,05 € se integra sin fricción cuando el DNS de Cloudflare ya gestiona tu zona."
+    },
+    {
+      "label": "Antiguos usuarios de Google Domains que buscan una interfaz familiar y despejada",
+      "offerId": "google-domains-squarespace",
+      "reason": "Squarespace Domains heredó la interfaz de Google Domains y las cuentas migradas conservan la privacidad WHOIS gratuita."
+    },
+    {
+      "label": "Clientes de GoDaddy dispuestos a reducir a la mitad su factura de renovación",
+      "offerId": "godaddy-registrar",
+      "reason": "Con 23,20 € de renovación y la privacidad WHOIS de pago, GoDaddy es el caso más claro para transferir y ahorrar más de 14 € por dominio al año."
+    }
+  ]
 }

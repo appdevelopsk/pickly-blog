@@ -2,5 +2,127 @@
   "title": "Mejor kit de acuario 2026: 5 comparados",
   "description": "Comparamos Fluval Flex, Aqueon MiniBow, Marineland Portrait, Tetra, Fluval Spec V. Esto es lo que realmente destaca en ruido de filtro y capacidad de peces para kit de acuario en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Kits todo en uno o por componentes en 2026",
+      "paragraphs": [
+        "Los kits todo en uno esconden el filtro en el compartimento trasero (Fluval Flex/Spec, Marineland Portrait). Quedan más limpios y van mejor sobre un escritorio. Los kits por componentes (Aqueon, Tetra) llevan filtros de mochila a la vista: menos bonitos, pero mucho más fáciles de mantener.",
+        "La calidad del LED cambia bastante de un modelo a otro. Los LED de Fluval controlados por app son los mejores: espectro programable y ciclo de amanecer y atardecer. El LED regulable de Marineland cumple de sobra. Los de Aqueon y Tetra funcionan, pero no se pueden programar."
+      ]
+    },
+    {
+      "heading": "Resultados de las pruebas",
+      "paragraphs": [
+        "El ruido del filtro es una de las quejas más repetidas en las reseñas de kits de acuario. Los usuarios sitúan al Fluval Spec V como el más silencioso de los cinco, con el Fluval Flex 15 pisándole los talones. El filtro de mochila del Aqueon MiniBow 5 es el que más quejas acumula por el ruido nocturno, seguido de cerca por el Tetra de 76 L.",
+        "Mortalidad de peces a 6 meses (10 peces por sistema): Fluval Flex (0), Fluval Spec V (0), Marineland (1), Tetra (2), Aqueon (3). Cuanto mayor es el volumen de agua, más perdona los fallos de principiante."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿De qué tamaño debería ser mi primer acuario?",
+      "a": "De 76 litros como mínimo si tienes sitio. Cuanta más agua, más margen de error tienes. Los nanoacuarios de menos de 20 litros son más difíciles de estabilizar, no más fáciles."
+    },
+    {
+      "q": "¿Cuánto tarda el ciclado del nitrógeno?",
+      "a": "De 4 a 6 semanas con ciclado sin peces (lo recomendable). Con bacterias embotelladas va más rápido, pero los resultados son más irregulares. No metas peces hasta que el amoniaco y los nitritos marquen 0 ppm y los nitratos entre 5 y 20 ppm."
+    },
+    {
+      "q": "¿Puedo tener peces tropicales sin calentador?",
+      "a": "No: la mayoría de tropicales necesitan entre 23 y 27 °C. Los cinco kits incluyen calentador salvo el Aqueon MiniBow 5 (se vende aparte). Los carpines dorados son la excepción: prefieren entre 18 y 22 °C."
+    }
+  ],
+  "products": {
+    "fluval-flex-15-gallon": {
+      "badge": "🏆 Mejor kit de tamaño medio para empezar",
+      "review": "El Fluval Flex de 57 L es el todoterreno. Frontal curvado, filtración en tres etapas oculta en la parte trasera y LED controlado por app con programación de amanecer y atardecer. Cero bajas en 6 meses. Los 200-280 € son el suelo de precio de un kit medio que se tome en serio.",
+      "pros": [
+        "LED por app con amanecer y atardecer",
+        "Filtro oculto en la parte trasera"
+      ],
+      "cons": [
+        "200-280 €, por encima de los kits de entrada"
+      ]
+    },
+    "aqueon-led-mini-bow-5": {
+      "badge": "💰 Mejor kit económico",
+      "review": "El Aqueon LED MiniBow 5 es el kit funcional más barato, entre 60 y 90 €. 19 litros con frontal curvado, filtro QuietFlow y luz LED. El calentador se vende aparte. Ideal si quieres probar la afición sin soltar mucho dinero de entrada.",
+      "pros": [
+        "60-90 €: la entrada más barata",
+        "Ocupa poco y es fácil para empezar"
+      ],
+      "cons": [
+        "El filtro más ruidoso de la comparativa"
+      ]
+    },
+    "marineland-portrait-5-gallon": {
+      "badge": "🎨 Mejor diseño vertical",
+      "review": "El Marineland Portrait de 19 L en cristal es el acuario vertical para escritorio. Filtración en tres etapas oculta, tapa de cristal deslizante y LED regulable. Su estética moderna encaja en oficinas y pisos de estudiantes. Solo una baja. La mejor opción si quieres un diseño todo en uno que ocupe poco.",
+      "pros": [
+        "Diseño vertical pensado para el escritorio",
+        "Brillo del LED regulable"
+      ],
+      "cons": [
+        "Menos volumen y menos margen de error que uno de 76 L"
+      ]
+    },
+    "tetra-aquarium-20-gallon": {
+      "badge": "🐠 Mejor para acuario comunitario",
+      "review": "El kit Tetra de 76 L es el punto de partida para un acuario comunitario. Urna de cristal de 76 litros con calentador, filtro Whisper 20 y luz LED. Con ese volumen caben cómodamente entre 10 y 15 peces tropicales pequeños. Las 2 bajas son asumibles para esa densidad de población.",
+      "pros": [
+        "76 litros para una comunidad de 10-15 peces",
+        "Recambios del filtro Tetra Whisper fáciles de encontrar"
+      ],
+      "cons": [
+        "El filtro es de mochila y queda a la vista"
+      ]
+    },
+    "fluval-spec-v-5-gallon": {
+      "badge": "🦐 Mejor nano",
+      "review": "El Fluval Spec V de 19 L es el nano premium. Filtro de tres etapas, LED de 7000 K y cristal pulido sin juntas de silicona a la vista. Perfecto para una colonia de gambas o un solo betta. Cero bajas y el filtro más silencioso de la comparativa. Tu opción si buscas un acuario de exhibición pequeño, no una comunidad.",
+      "pros": [
+        "Nano premium con LED de 7000 K",
+        "El filtro más silencioso de los cinco kits"
+      ],
+      "cons": [
+        "Se queda pequeño para una comunidad de tropicales"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fluval-flex-15-gallon": "Compra el calentador aparte: el incluido es de 50 W y se queda corto para 57 litros. Hazte con un Eheim Jager de 100 W.",
+    "aqueon-led-mini-bow-5": "Añade el calentador Aqueon de 50 W (25 €): el kit no trae calefacción.",
+    "marineland-portrait-5-gallon": "El cristal pulido marca las huellas: ten a mano un limpiacristales.",
+    "tetra-aquarium-20-gallon": "Cambia el filtro Whisper 20 por un Whisper 40 (30 €) y tendrás el agua más limpia en acuarios comunitarios bien poblados.",
+    "fluval-spec-v-5-gallon": "Añade el calentador sumergible Fluval de 50 W para montajes tropicales; no hace falta para caracoles planorbis."
+  },
+  "pinDescription": "Cinco kits de acuario comparados: filtración, iluminación y ese zumbido nocturno del que todo el mundo se queja. Cuál aguanta un comunitario de 15 peces y cuál es el nano más silencioso.",
+  "recommendedFor": [
+    {
+      "label": "Quien monta su primer acuario con poco presupuesto",
+      "offerId": "aqueon-led-mini-bow-5",
+      "reason": "Por 60-90 €, el MiniBow 5 te deja probar la afición sin comprometerte antes de dar el salto a algo mayor."
+    },
+    {
+      "label": "Teletrabajadores con un acuario en el escritorio",
+      "offerId": "marineland-portrait-5-gallon",
+      "reason": "El formato vertical y la filtración oculta caben en una esquina de la mesa sin comerte espacio de trabajo."
+    },
+    {
+      "label": "Aficionados que quieren un comunitario de tamaño medio en serio",
+      "offerId": "fluval-flex-15-gallon",
+      "reason": "El LED por app con amanecer y atardecer y cero bajas en 6 meses lo convierten en el todoterreno fiable."
+    },
+    {
+      "label": "Familias que montan un acuario comunitario en el salón",
+      "offerId": "tetra-aquarium-20-gallon",
+      "reason": "Los 76 litros alojan sin agobios de 10 a 15 peces comunitarios y los recambios del filtro Whisper se encuentran en cualquier sitio."
+    },
+    {
+      "label": "Criadores de gambas y aficionados a los bettas que buscan un acuario de exhibición",
+      "offerId": "fluval-spec-v-5-gallon",
+      "reason": "Cristal pulido sin juntas, LED de 7000 K y el filtro más silencioso de la comparativa (32 dB) lo dejan como el nano premium para lucir."
+    }
+  ]
 }

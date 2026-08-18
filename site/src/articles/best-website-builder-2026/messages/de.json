@@ -2,5 +2,148 @@
   "title": "Bestes Website-Baukasten 2026: 5 im Vergleich",
   "description": "Wir haben Squarespace, Wix, Webflow, Shopify, Carrd verglichen. Das überzeugt 2026 wirklich bei Veröffentlichungszeit und Exportportabilität und Website-Baukasten.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Zeit bis zur Veröffentlichung",
+      "paragraphs": [
+        "Stunden von der Anmeldung bis zur fertigen 8-Seiten-Website: Squarespace 3 Std., Wix 4 Std. (mit dem KI-Generator 1 Std., aber die Designqualität leidet), Webflow 8 Std. (steilste Lernkurve), Shopify 5 Std. (der E-Commerce-Fokus bremst alles, was kein Shop ist), Carrd 2 Std.",
+        "Squarespace liegt vorn, weil die Templates die Designentscheidungen abnehmen. Webflow dauert am längsten – es ist wirklich auf Designer-Niveau und fühlt sich eher an, als würdest du ein Designtool lernen, statt einen Baukasten zu bedienen."
+      ]
+    },
+    {
+      "heading": "Mobil + SEO",
+      "paragraphs": [
+        "Lighthouse mobil (von 100): Squarespace 78, Wix 65, Webflow 88 (Bestwert – sauberer Code), Shopify 75, Carrd 92 (kaum Ballast).",
+        "SEO-Grundeinstellungen (Meta, Schema, Sitemap, robots.txt): Alle fünf erzeugen Sitemap und robots.txt. Squarespace und Webflow behandeln Meta-Angaben ab Werk am besten. Wix hat 2024 nachgelegt. Shopifys SEO ist auf E-Commerce zugeschnitten. Carrd bietet weniger Stellschrauben, aber vernünftige Voreinstellungen."
+      ]
+    },
+    {
+      "heading": "Abhängigkeit vs. Export",
+      "paragraphs": [
+        "Exportmöglichkeiten: Webflow exportiert sauberes HTML/CSS/JS – als Einziger. Die anderen binden dich an die Plattform. Ein Umzug bedeutet Neuaufbau von Hand.",
+        "Domain-Portabilität: Alle fünf erlauben eigene Domains. Bei den geschlossenen Plattformen nimmst du dein Design nicht mit – nur die Domain zieht um."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Squarespace oder Wix?",
+      "a": "Squarespace für designorientierte Seiten, bei denen die Templates die Arbeit machen. Wix für maximale Freiheit per Drag-and-drop. Squarespace wirkt aufgeräumter, Wix ist flexibler – auf Kosten der gestalterischen Konsistenz."
+    },
+    {
+      "q": "Lohnt sich die Lernkurve bei Webflow?",
+      "a": "Ja, wenn Sie Kontrolle auf Designer-Niveau und die Freiheit zum Export wollen. Nein, wenn es einfaches Drag-and-drop sein soll. Webflow braucht ein bis zwei Wochen Einarbeitung, liefert dafür aber professionelle Ergebnisse."
+    },
+    {
+      "q": "Shopify für eine Seite ohne Shop?",
+      "a": "Keine gute Wahl. Shopify denkt zuerst an den Verkauf, alle Nicht-Produktseiten sind Beiwerk. Shopify, wenn Produkte im Mittelpunkt stehen; Squarespace, Wix oder Webflow, wenn es um Inhalte geht."
+    },
+    {
+      "q": "Carrd oder ein Landingpage-Tool?",
+      "a": "Carrd für persönliche Seiten, Link-in-Bio und Ein-Seiten-Auftritte. Für mehrere Seiten greifen Sie zu Squarespace, Wix oder Webflow. Mit 19 $ pro Jahr (rund 18 €) ist Carrd die günstigste ernstzunehmende Option."
+    }
+  ],
+  "products": {
+    "squarespace-builder": {
+      "badge": "🎨 Beste Design-Voreinstellungen",
+      "review": "Squarespace ist die richtige Wahl für designorientierte Seiten, bei denen die Templates die Hauptarbeit übernehmen. Apple-artige Ästhetik, in den höheren Tarifen die besten E-Commerce-Funktionen außerhalb von Shopify, dazu Terminbuchung und E-Mail-Marketing an Bord.",
+      "pros": [
+        "Beste Design-Templates",
+        "Terminbuchung + E-Mail integriert",
+        "Apple-artige Ästhetik"
+      ],
+      "cons": [
+        "Weniger flexibel als Wix",
+        "An die Plattform gebunden"
+      ]
+    },
+    "wix-builder": {
+      "badge": "🪄 Maximale Flexibilität",
+      "review": "Wix ist die richtige Wahl, wenn es um größtmögliche gestalterische Freiheit geht. Der KI-Website-Generator baut Seiten in Minuten (Qualität schwankt). Größte Template-Bibliothek (über 900). Wix Studio für Designer-Kontrolle. Kostenlose Variante mit Wix-Branding.",
+      "pros": [
+        "Flexibelstes Drag-and-drop",
+        "KI-Website-Generator",
+        "Kostenlose Variante"
+      ],
+      "cons": [
+        "Einheitliches Design erfordert Mühe",
+        "Mobile Darstellung traditionell schwächer"
+      ]
+    },
+    "webflow-builder": {
+      "badge": "🥇 Bestes Designer-Niveau",
+      "review": "Webflow ist die richtige Wahl, wenn du Kontrolle auf Designer-Niveau bei sauberem Code willst. Visuelles Bearbeiten bis auf CSS-Ebene, Export von HTML/CSS/JS fürs eigene Hosting. Die Lernkurve ist real, das Ergebnis dafür professionell.",
+      "pros": [
+        "Visueller Editor auf Designer-Niveau",
+        "Exportiert sauberes HTML/CSS/JS",
+        "Beste Lighthouse-Werte"
+      ],
+      "cons": [
+        "Steile Lernkurve",
+        "Teurer als Squarespace"
+      ]
+    },
+    "shopify-builder": {
+      "badge": "🛍️ Beste Wahl für E-Commerce",
+      "review": "Shopify ist die richtige Wahl für Seiten, bei denen der Verkauf im Zentrum steht. Zahlungsabwicklung an Bord, riesiges App-Ökosystem (über 10.000 Apps), Produkt-Schema fürs SEO. Für inhaltsgetriebene Seiten weniger geeignet.",
+      "pros": [
+        "Beste E-Commerce-Funktionen",
+        "Zahlungsabwicklung integriert",
+        "Riesiges App-Ökosystem"
+      ],
+      "cons": [
+        "Überdimensioniert für Seiten ohne Shop",
+        "E-Commerce-Logik bremst Content-Seiten"
+      ]
+    },
+    "carrd-single-page": {
+      "badge": "💸 Beste Ein-Seiten-Lösung",
+      "review": "Carrd ist die richtige Wahl für persönliche Seiten, Link-in-Bio und Ein-Seiten-Auftritte. 19 $ pro Jahr (rund 18 €) schalten alle Funktionen frei (eigene Domain, Formulare, Einbettungen). Die besten Lighthouse-Werte im Test. Nichts für mehrseitige Projekte.",
+      "pros": [
+        "19 $/Jahr für alle Funktionen",
+        "Beste Lighthouse-Werte",
+        "Blitzschnell veröffentlicht"
+      ],
+      "cons": [
+        "Keine mehrseitigen Websites",
+        "Kaum E-Commerce"
+      ]
+    }
+  },
+  "offerNotes": {
+    "squarespace-builder": "Anmeldung auf squarespace.com – 14 Tage kostenlos testen.",
+    "wix-builder": "Anmeldung auf wix.com – kostenlose Variante mit Wix-Branding. Bezahltarife ab 16 $ (rund 15 €) pro Monat.",
+    "webflow-builder": "Anmeldung auf webflow.com – kostenloser Designer-Tarif. Hosting ab 14 $ (rund 13 €) pro Monat.",
+    "shopify-builder": "Anmeldung auf shopify.com – 3 Tage kostenlos, danach 3 Monate für 1 $ (rund 1 €) pro Monat.",
+    "carrd-single-page": "Anmeldung auf carrd.co – kostenlose Variante. Pro für 19 $ (rund 18 €) pro Jahr."
+  },
+  "pinDescription": "Homepage bauen ohne Programmieren: Squarespace, Wix, Webflow, Shopify und Carrd im direkten Test – dieselbe 8-Seiten-Website, ehrliche Ladezeiten und die Frage, ob du deine Seite je wieder mitnehmen kannst.",
+  "recommendedFor": [
+    {
+      "label": "Kleine Unternehmen, die einen gepflegten Markenauftritt wollen",
+      "offerId": "squarespace-builder",
+      "reason": "Die Apple-artigen Templates und die integrierte Terminbuchung von Squarespace liefern schnell eine professionelle Seite – ganz ohne Designer im Boot."
+    },
+    {
+      "label": "Creator und Blogger, die das Layout komplett selbst bestimmen wollen",
+      "offerId": "wix-builder",
+      "reason": "Mit dem flexiblen Drag-and-drop und über 900 Templates von Wix passen Sie jedes Element an, ohne eine Zeile Code zu schreiben."
+    },
+    {
+      "label": "Webdesignerinnen, Webdesigner und Agenturen mit Kundenprojekten",
+      "offerId": "webflow-builder",
+      "reason": "Der CSS-nahe Editor und der saubere HTML/CSS/JS-Export von Webflow liefern professionelle Ergebnisse, die sich übergeben oder selbst hosten lassen."
+    },
+    {
+      "label": "Gründerinnen und Gründer, die einen Onlineshop starten",
+      "offerId": "shopify-builder",
+      "reason": "Die integrierte Zahlungsabwicklung und über 10.000 Apps machen Shopify zum schnellsten Weg zu einem voll funktionsfähigen Onlineshop."
+    },
+    {
+      "label": "Freelancer und Solo-Selbstständige mit einem schlichten Portfolio",
+      "offerId": "carrd-single-page",
+      "reason": "Carrd schaltet für 19 $ pro Jahr (rund 18 €) alle Funktionen frei und veröffentlicht in Sekunden – ideal für Link-in-Bio oder ein einseitiges Portfolio."
+    }
+  ]
 }

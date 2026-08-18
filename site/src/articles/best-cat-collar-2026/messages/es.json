@@ -2,5 +2,144 @@
   "title": "Mejor collar para gatos 2026: 5 comparados",
   "description": "Comparamos Rogz, Blueberry Pet, Lupine, PetSafe, Tractive. Esto es lo que realmente destaca en seguridad y durabilidad para collar para gatos en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Hebilla de seguridad: lo más importante",
+      "paragraphs": [
+        "La hebilla de apertura rápida se suelta si el gato se engancha el collar en una rama o una valla, y evita el estrangulamiento. Es imprescindible para gatos que salen a la calle.",
+        "Todos los collares de esta comparativa llevan hebilla de apertura rápida. Comprueba que se suelta con unos 2,5-3 kg de presión (como mucho, el peso de tu gato)."
+      ]
+    },
+    {
+      "heading": "El mejor para cada caso",
+      "paragraphs": [
+        "Máxima seguridad: Rogz AlleyCat Breakaway (8-15 €). Hebilla de apertura rápida y detalles reflectantes.",
+        "Mejor relación calidad-precio: Blueberry Pet Classic (8-14 €). Varios estampados y apertura rápida.",
+        "Mejor garantía: Lupine (10-18 €). Garantía de por vida, ¡incluso si el gato lo mordisquea!",
+        "Mejor marca clásica: PetSafe Deluxe (8-12 €). Reflectante y con zona elástica.",
+        "Mejor localizador GPS: Tractive GPS (50-80 € más suscripción)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Los gatos de interior deben llevar collar?",
+      "a": "Sí, porque hasta un gato de interior puede escaparse. Con un collar y una chapa identificativa, cualquiera que lo encuentre puede devolvértelo. En la chapa de un gato que no sale conviene poner «SOLO INTERIOR» para dejar claro que se ha perdido y hay que llevarlo a casa."
+    },
+    {
+      "q": "¿Merece la pena un localizador GPS?",
+      "a": "Sí, si tu gato sale a la calle: con Tractive puedes ver dónde está en tiempo real. Para un gato de interior suele bastar con el microchip, que además es obligatorio y te lo ponen en el veterinario."
+    },
+    {
+      "q": "¿Cómo de ajustado debe ir el collar?",
+      "a": "Tienes que poder meter dos dedos entre el collar y el cuello del gato. Demasiado apretado resulta incómodo; demasiado suelto puede impedir que la hebilla de seguridad se abra bien."
+    },
+    {
+      "q": "¿Reflectante o no reflectante?",
+      "a": "El reflectante es recomendable para gatos que salen fuera, porque se ven de noche. Si tu gato no sale de casa, no hace falta."
+    }
+  ],
+  "products": {
+    "rogz-alleycat-breakaway-collar": {
+      "badge": "🏆 Máxima seguridad",
+      "review": "El Rogz AlleyCat Breakaway Cat Collar es la opción más segura. Hebilla de apertura rápida, costuras reflectantes y varios estampados. Ideal para gatos que salen a la calle.",
+      "pros": [
+        "Hebilla de apertura rápida fiable",
+        "Costuras reflectantes",
+        "Varios estampados"
+      ],
+      "cons": [
+        "Algunos estampados se desgastan pronto",
+        "Acabado más sencillo que las opciones premium"
+      ]
+    },
+    "blueberry-pet-cat-collar": {
+      "badge": "💸 Mejor calidad-precio",
+      "review": "El Blueberry Pet Classic Cat Collar es la mejor compra por precio. Cincha de poliéster, hebilla de apertura rápida, cascabel desmontable y muchos colores. Por 8-14 € es la opción asequible sin renunciar a la seguridad.",
+      "pros": [
+        "Muchas combinaciones de color y estampado",
+        "Cascabel desmontable",
+        "Precio ajustado: 8-14 €"
+      ],
+      "cons": [
+        "Se nota menos premium que el Rogz",
+        "El cascabel se puede perder"
+      ]
+    },
+    "lupine-cat-collar": {
+      "badge": "🏆 Mejor garantía",
+      "review": "El Lupine Cat Collar tiene una garantía de por vida difícil de igualar: si tu gato lo mordisquea, Lupine te lo cambia gratis. Hebilla de apertura rápida, nailon resistente y fabricación estadounidense. Lo de «aunque lo muerda» va en serio.",
+      "pros": [
+        "Garantía de por vida (aunque lo muerda)",
+        "Fabricado en EE. UU.",
+        "Nailon resistente"
+      ],
+      "cons": [
+        "Menos variedad de diseños que Rogz",
+        "Precio intermedio"
+      ]
+    },
+    "petsafe-deluxe-cat-collar": {
+      "badge": "🏛️ Mejor marca clásica",
+      "review": "El PetSafe Deluxe Cat Collar es la apuesta segura entre las marcas de toda la vida. Reflectante, con apertura rápida y zona elástica. PetSafe es una marca asentada y fácil de encontrar. Un collar fiable que no falla.",
+      "pros": [
+        "Reflectante y con zona elástica",
+        "Marca consolidada",
+        "Muy fácil de encontrar"
+      ],
+      "cons": [
+        "Diseño menos atractivo que el de marcas nuevas",
+        "Prestaciones básicas"
+      ]
+    },
+    "tractive-gps-cat-tracker": {
+      "badge": "📍 Mejor localizador GPS",
+      "review": "El Tractive GPS Cat Tracker es lo que necesitas para seguir a un gato que sale a la calle. Localización GPS por suscripción mensual, posición en tiempo real, registro de actividad y avisos de geovalla. El collar con localizador abulta más que uno normal, pero lo que compras es poder encontrar a tu gato si se pierde.",
+      "pros": [
+        "Seguimiento GPS con suscripción mensual",
+        "Ubicación en tiempo real",
+        "Avisos de geovalla"
+      ],
+      "cons": [
+        "50-80 € más suscripción (5-15 €/mes)",
+        "Abulta más que un collar normal"
+      ]
+    }
+  },
+  "offerNotes": {
+    "rogz-alleycat-breakaway-collar": "Disponible en rogz.com, Amazon y tiendas online de mascotas. Varias tallas (de gatito a gato grande).",
+    "blueberry-pet-cat-collar": "Disponible en blueberrypet.com, Amazon y tiendas online de mascotas. Es el que más estampados tiene.",
+    "lupine-cat-collar": "Disponible en lupinepet.com y tiendas especializadas de mascotas.",
+    "petsafe-deluxe-cat-collar": "Disponible en petsafe.net, Amazon y cadenas de tiendas de mascotas como Kiwoko o Tiendanimal.",
+    "tractive-gps-cat-tracker": "Disponible en tractive.com. Requiere suscripción mensual (5-15 €/mes) para el servicio GPS."
+  },
+  "pinDescription": "¿Tu gato sale a la calle? El collar importa más de lo que crees: hebilla de seguridad, reflectante y GPS. Comparamos Rogz, Blueberry Pet, Lupine, PetSafe y Tractive.",
+  "recommendedFor": [
+    {
+      "label": "Dueños de gatos que salen a la calle y priorizan la seguridad",
+      "offerId": "rogz-alleycat-breakaway-collar",
+      "reason": "La hebilla del Rogz AlleyCat se suelta de forma fiable con unos 2,5 kg de presión y las costuras reflectantes lo hacen visible de noche."
+    },
+    {
+      "label": "Quienes tienen varios gatos y buscan ahorrar",
+      "offerId": "blueberry-pet-cat-collar",
+      "reason": "Por 8-14 €, con hebilla de seguridad y cascabel desmontable, puedes ponerle collar a todos tus gatos sin gastar de más."
+    },
+    {
+      "label": "Dueños de gatos mordedores o muy brutos jugando",
+      "offerId": "lupine-cat-collar",
+      "reason": "La garantía de por vida de Lupine cubre los mordiscos: te lo reponen gratis, así que un gato roedor deja de ser un problema."
+    },
+    {
+      "label": "Primerizos que quieren una marca de confianza en tienda física",
+      "offerId": "petsafe-deluxe-cat-collar",
+      "reason": "PetSafe se encuentra en cualquier tienda de mascotas y su zona elástica facilita ajustarlo bien desde el primer día."
+    },
+    {
+      "label": "Dueños de gatos con libertad total que temen perderlos",
+      "offerId": "tractive-gps-cat-tracker",
+      "reason": "El GPS en tiempo real y los avisos de geovalla de Tractive te permiten localizar al gato al instante desde el móvil."
+    }
+  ]
 }

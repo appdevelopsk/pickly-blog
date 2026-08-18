@@ -106,5 +106,114 @@
     "iris-ohyama-ifm-s30g": "Opción individual económica: juego de vasos compacto con motor de 250 W para batidos de una persona, salsas, dips y moler pequeñas cantidades de ingredientes secos como granos de café o especias, con montaje sencillo a rosca y vasos fáciles de enjuagar. El motor de 250 W es el de menor potencia de esta comparación: no tritura grandes cantidades de hielo, no licúa fruta congelada dura, no produce crema de frutos secos ni calienta sopa; los vasos pequeños limitan cada tarea a una ración individual; la calidad de fabricación refleja el precio económico."
   },
   "pinDescription": "Cinco licuadoras comparadas en 2026 desde el Magic Bullet single-serve blender de gama de entrada hasta el Vitamix A3500i de gama alta.",
-  "methodology": "Evaluamos cada producto según su durabilidad en el uso real, su facilidad de uso diario, su rendimiento frente a las promesas publicitarias, la calidad de fabricación y su valor a largo plazo. Contrastamos las especificaciones del fabricante con reseñas verificadas de usuarios."
+  "methodology": "Evaluamos cada producto según su durabilidad en el uso real, su facilidad de uso diario, su rendimiento frente a las promesas publicitarias, la calidad de fabricación y su valor a largo plazo. Contrastamos las especificaciones del fabricante con reseñas verificadas de usuarios.",
+  "products": [
+    {
+      "offerId": "vitamix-a3500i",
+      "badge": "La mejor de gama alta",
+      "review": "La Vitamix A3500i es la única batidora de esta comparativa que resuelve con solvencia smoothies, sopa caliente generada por fricción a partir de ingredientes fríos, crema de frutos secos, hielo picado y molienda de cereales secos: cinco tareas en las que el resto de modelos sacrifica dos o tres. El motor sin escobillas de 1500 W de pico (1100-1200 W continuos) va acompañado de un vaso Tritan de 2 L y un conjunto de 4 cuchillas de martillo cortadas por láser; el reconocimiento inteligente identifica el vaso y selecciona el programa automáticamente, y la garantía de 7 años cubre el propio motor, no solo los consumibles. El motor sin escobillas es la razón estructural de que dure más que las alternativas baratas: no hay escobillas de carbón que se desgasten y el ventilador está homologado para uso continuo. El peaje es real: el precio se sitúa de lleno en territorio de inversión semiprofesional, el vaso de 2 L cavita por debajo de 500 ml de llenado, sus 22×21×44 cm y 11,8 kg se comen la encimera de una cocina pequeña y el ruido de trabajo alcanza los 88-92 dB al picar hielo.",
+      "pros": [
+        "La única batidora aquí que cumple bien en las cinco tareas",
+        "Motor sin escobillas con garantía de 7 años que incluye el motor",
+        "Cuchilla de martillo cortada por láser: dura 2-3 veces más que las estampadas",
+        "El reconocimiento del vaso selecciona el programa según su tamaño"
+      ],
+      "cons": [
+        "Precio de buque insignia, en la franja de inversión semiprofesional",
+        "El vaso de 2 L cavita si lo llenas por debajo de 500 ml"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "vitantonio-vbl-100",
+      "badge": "Mejor vaso individual",
+      "review": "La NutriBullet serie 600 es la batidora individual pensada para el smoothie de la mañana: un vaso de 700 ml se enrosca directamente sobre las cuchillas extractoras, de modo que bates y bebes en el mismo recipiente, y el motor de 600 W se maneja bien con fruta blanda, yogur, proteína en polvo y packs de smoothie ya congelados. El vaso, la tapa y la cuchilla van al lavavajillas, ocupa tan poco que puedes dejarla fuera y, al beber del propio vaso, no hay platos extra que fregar después del desayuno. Sus puntos débiles tienen que ver con el alcance, no con la ejecución: el vaso individual da para el smoothie de una persona y no escala a cantidades familiares, el motor compacto no está hecho para cremas de frutos secos prolongadas ni para grandes cantidades de hielo duro, y la rosca del vaso acumula pulpa y yogur que hay que limpiar con cepillo.",
+      "pros": [
+        "El vaso de 700 ml bate y se convierte en el vaso de beber en un solo paso",
+        "Motor de 600 W para fruta blanda, yogur y packs de smoothie congelados",
+        "Vaso, tapa y cuchilla aptos para lavavajillas",
+        "Tamaño y precio contenidos para cualquier cocina"
+      ],
+      "cons": [
+        "El vaso individual no da para raciones familiares",
+        "No está hecha para cremas de frutos secos ni mucho hielo duro"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "tescom-tm856",
+      "badge": "Mejor jarra de cristal",
+      "review": "La TESCOM Pure Natura TM856 es la opción intermedia con jarra de cristal para hogares de dos personas que prefieren la transparencia del vidrio a la ligereza del Tritan y quieren echar sopa caliente directamente del fuego sin miedo al choque térmico. La jarra de cristal resistente al calor de 1 L admite entradas de 60-80 °C desde los fogones (puntualmente hasta 90 °C), el conjunto de 6 cuchillas de acero inoxidable pica hielo sin problema en cantidades normales y el motor de 600 W con escobillas basta para smoothies, sopas, salsas y tandas pequeñas de hielo, con un año de garantía de TESCOM. Completan el conjunto cuatro programas y un mando de velocidad variable con función pulse. Las debilidades estructurales son claras: la jarra pesa 1,5 kg vacía y entre 2,5 y 3 kg llena (incómoda de levantar con una mano), el motor de 600 W no aguanta cremas de frutos secos (el manual fija 90 segundos de funcionamiento continuo máximo con descansos de un minuto), el cristal estalla sobre suelos de baldosa dejando restos en 2-3 m a la redonda y una vida útil de las escobillas de 200-500 horas se traduce en unos 4-6 años de uso real.",
+      "pros": [
+        "La jarra de cristal resistente al calor admite sopa recién sacada del fuego",
+        "Conjunto de 6 cuchillas que pica hielo en cantidades habituales",
+        "El cristal sigue transparente entre 5 y 10 años, sin volverse opaco",
+        "Red de servicio técnico de TESCOM y un año de garantía"
+      ],
+      "cons": [
+        "1,5 kg de jarra vacía: incómoda si tienes poca fuerza en las manos",
+        "El motor de 600 W no aguanta cremas de frutos secos"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "oxo-on-compact-blender",
+      "badge": "Mejor diseño compacto",
+      "review": "La OXO On Compact Blender es la opción para quien cuida la estética de la cocina y la única de aquí, por debajo de Vitamix, con la durabilidad de un motor sin escobillas. El vaso Tritan de 1 L se apoya en la clásica base de silicona antideslizante de OXO con pico vertedor, el motor DC sin escobillas de 600 W evita el desgaste de las escobillas de carbón que acaba con la vida de los motores convencionales, y tres programas (smoothie, hielo picado y sopa) más un modo manual de un solo botón con velocidad variable cubren las tareas habituales. El cuidado ergonómico de la línea OXO Good Grips lleva desde 2018 dominando las cuentas de estética de cocina en Pinterest. Las pegas son honestas: cuesta unas cuatro veces más que la TESCOM TM856 con prestaciones a grandes rasgos equivalentes —pagas por la marca OXO, el motor sin escobillas y el acabado, no por un salto de rendimiento—, y el vaso de 1 L se queda algo corto para cocinar en tandas familiares y algo grande para el smoothie de una persona. Al importarse de EE. UU., ciertos colores se agotan durante 4-8 semanas.",
+      "pros": [
+        "La única aquí, por debajo de Vitamix, con motor sin escobillas",
+        "El cuidado ergonómico OXO Good Grips en cada pieza",
+        "Vaso Tritan de 1 L apto para la bandeja superior del lavavajillas",
+        "Dos años de garantía limitada respaldada por OXO"
+      ],
+      "cons": [
+        "Cuesta unas 4 veces más que la TESCOM con prestaciones similares",
+        "1 L se queda en tierra de nadie entre uso individual y familiar"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "iris-ohyama-ifm-s30g",
+      "badge": "La más barata individual",
+      "review": "La Magic Bullet Personal Blender (MBR-1101) es la opción económica de vaso individual: la puerta de entrada más barata que resulta práctica para smoothies de una persona, salsas, dips y moler pequeñas cantidades de ingredientes secos como café en grano o especias. El juego de vasos compactos y el motor de 250 W cubren los recados rápidos del día a día, las piezas se enroscan sin montajes complicados y los vasos se aclaran y se guardan con facilidad. Sus límites son evidentes: el motor de 250 W es el menos potente de la comparativa y no puede picar grandes cantidades de hielo, batir fruta muy congelada, hacer crema de frutos secos ni calentar sopa, y los vasos pequeños dejan cualquier tarea en una ración individual. La calidad de fabricación va acorde al precio: es un ayudante de cocina sencillo y funcional, no un caballo de batalla para años.",
+      "pros": [
+        "La batidora más barata y práctica de esta comparativa",
+        "Muele pequeñas cantidades de café, especias y hierbas secas",
+        "Vasos compactos ideales para smoothies, salsas y dips individuales",
+        "Montaje a rosca sencillo y vasos fáciles de aclarar"
+      ],
+      "cons": [
+        "250 W no dan para mucho hielo ni para crema de frutos secos",
+        "Los vasos pequeños limitan todo a una ración individual"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Si bates a diario y necesitas cubrir las cinco tareas",
+      "offerId": "vitamix-a3500i",
+      "reason": "La única de aquí que resuelve bien smoothies, sopa caliente por fricción, crema de frutos secos, hielo picado y cereales secos, con 7 años de garantía que cubren el motor."
+    },
+    {
+      "label": "Para el smoothie de la mañana de una sola persona",
+      "offerId": "vitantonio-vbl-100",
+      "reason": "El vaso NutriBullet de 700 ml bate y se convierte en el vaso de beber en un paso, con un motor de 600 W para fruta blanda y packs de smoothie congelados."
+    },
+    {
+      "label": "Para hogares de dos que hacen crema o sopa cada semana",
+      "offerId": "tescom-tm856",
+      "reason": "La jarra de cristal resistente al calor de 1 L admite sopa recién hecha y sigue transparente 5-10 años, sin el velado del Tritan."
+    },
+    {
+      "label": "Para cocinas pequeñas donde el diseño importa",
+      "offerId": "oxo-on-compact-blender",
+      "reason": "La única de aquí, por debajo de Vitamix, con motor sin escobillas, y con esa estética OXO que arrasa en las cuentas de cocina de Pinterest."
+    },
+    {
+      "label": "Para smoothies individuales y molienda pequeña con poco presupuesto",
+      "offerId": "iris-ohyama-ifm-s30g",
+      "reason": "Magic Bullet individual y económica, con vasos compactos para smoothies de una persona y para moler café, especias y hierbas secas."
+    }
+  ]
 }

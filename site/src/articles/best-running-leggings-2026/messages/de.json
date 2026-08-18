@@ -2,5 +2,145 @@
   "title": "Bestes Laufleggings 2026: 5 im Vergleich",
   "description": "Wir haben Lululemon, Nike, Athleta, Outdoor Voices, Amazon Essentials verglichen. Das überzeugt 2026 wirklich bei Leistung und Komfort und Laufleggings.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Premium- oder Budget-Lauftights?",
+      "paragraphs": [
+        "Premium (Lululemon, Athleta): eigenentwickelte Stoffe, hochwertige Haptik, Preise ab 120 €.",
+        "Mittelklasse (Nike, Outdoor Voices): funktionale Performance-Stoffe, 75–95 €.",
+        "Budget (Amazon Essentials): einfaches Polyester-Elasthan-Gemisch, 25–35 €. Funktional, aber weniger verarbeitet."
+      ]
+    },
+    {
+      "heading": "Die beste Wahl je nach Einsatz",
+      "paragraphs": [
+        "Premium-Empfehlung: Lululemon Fast and Free (120–140 €). Nulux-Gewebe.",
+        "Performance-Empfehlung: Nike Fast Tight (75–95 €). Dri-FIT plus Mesh-Belüftung.",
+        "Nachhaltigkeits-Empfehlung: Athleta Power Train (92–110 €). Nachhaltig produzierte Stoffe.",
+        "Design-Empfehlung: Outdoor Voices Discovery (74–92 €). Mehrfarbige Kontrasteinsätze.",
+        "Budget-Empfehlung: Amazon Essentials (25–35 €). Solide Funktion zum kleinen Preis."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Lululemon oder Nike zum Laufen?",
+      "a": "Lululemon fühlt sich hochwertiger an, der Stoff ist glatter. Nike ist atmungsaktiver und hat gezielt gesetzte Mesh-Einsätze. Letztlich Geschmackssache."
+    },
+    {
+      "q": "Wie lange halten Lauftights?",
+      "a": "Premium-Modelle: 2–3 Jahre bei regelmäßigem Laufen (3–4× pro Woche). Budget-Modelle: 1–2 Jahre. Austauschen, sobald die Elastizität nachlässt oder sich flächig Pilling bildet."
+    },
+    {
+      "q": "Brauche ich spezielle Lauftights?",
+      "a": "Wer ernsthaft läuft: ja — wegen Feuchtigkeitstransport und passender Kompression. Fürs lockere Joggen tut es jede Sporttight."
+    },
+    {
+      "q": "Wie sinnvoll sind Taschen in Lauftights?",
+      "a": "Seitentaschen sind Standard. Rückentaschen (Nike, Lululemon) fassen das Handy. Stecken Sie das Handy nicht in den Bund — es schlägt bei jedem Schritt."
+    }
+  ],
+  "products": {
+    "lululemon-fast-and-free-leggings": {
+      "badge": "🏆 Beste Premium-Wahl",
+      "review": "Die Lululemon Fast and Free ist der Maßstab bei Premium-Lauftights. Leichtes Nulux-Gewebe, transportiert Schweiß zuverlässig nach außen, angenehm glatte Haptik. Die Stoffqualität macht den Unterschied.",
+      "pros": [
+        "Nulux-Gewebe mit erstklassiger Haptik",
+        "Hochwertige Verarbeitung",
+        "Mehrere Beinlängen"
+      ],
+      "cons": [
+        "Premium-Preis von 120–140 €",
+        "Größen fallen je nach Schnitt unterschiedlich aus"
+      ]
+    },
+    "nike-fast-tight": {
+      "badge": "⚡ Beste Performance",
+      "review": "Die Nike Fast Tight ist die Performance-Tight im Feld. Dri-FIT-Material, Mesh-Einsätze genau dort, wo man am meisten schwitzt, und sicher schließende Taschen.",
+      "pros": [
+        "Mesh-Einsätze zur Belüftung",
+        "Dri-FIT-Feuchtigkeitstransport",
+        "Sicher schließende Taschen"
+      ],
+      "cons": [
+        "Weniger edle Haptik als Lululemon",
+        "Wenig Farbauswahl"
+      ]
+    },
+    "athleta-power-train-tight": {
+      "badge": "🌱 Beste Nachhaltigkeit",
+      "review": "Die Athleta Power Train Tight ist die Premium-Wahl mit Nachhaltigkeitsanspruch. Powervita-Gewebe, nachhaltige Produktionsstandards, eine konsequent auf Frauen ausgerichtete Marke.",
+      "pros": [
+        "Klarer Nachhaltigkeitsfokus",
+        "Powervita-Tragekomfort",
+        "Passform speziell für Frauen"
+      ],
+      "cons": [
+        "Gehobenes Mittelfeld: 92–110 €",
+        "Weniger leistungsorientiert als Nike"
+      ]
+    },
+    "outdoor-voices-discovery-leggings": {
+      "badge": "🌈 Bestes Design",
+      "review": "Die Outdoor Voices Discovery Leggings sind die richtige Wahl, wenn die Optik zählt. Technischer Strick, mehrfarbige Kontrasteinsätze, dazu der lässige Doing Things™-Sportlook.",
+      "pros": [
+        "Mehrfarbige Kontrastoptik",
+        "Technischer Funktionsstrick",
+        "Lässiger Athleisure-Look"
+      ],
+      "cons": [
+        "Stoff weniger auf Leistung ausgelegt",
+        "Eingeschränktes Größenspektrum"
+      ]
+    },
+    "amazon-essentials-running-tights": {
+      "badge": "💸 Bester Preis",
+      "review": "Die Amazon Essentials Running Tights sind die richtige Budget-Wahl. Polyester-Elasthan-Mix, schlicht, aber funktional, in mehreren Farben. 25–35 €.",
+      "pros": [
+        "Günstige 25–35 €",
+        "Mehrere Farben",
+        "Erfüllt ihren Zweck"
+      ],
+      "cons": [
+        "Weniger hochwertige Haptik",
+        "Lebensdauer nur 1–2 Jahre"
+      ]
+    }
+  },
+  "offerNotes": {
+    "lululemon-fast-and-free-leggings": "Erhältlich auf shop.lululemon.com. In mehreren Beinlängen (High-Rise, Mid-Rise).",
+    "nike-fast-tight": "Erhältlich auf nike.com. In mehreren Längenvarianten.",
+    "athleta-power-train-tight": "Erhältlich auf athleta.gap.com.",
+    "outdoor-voices-discovery-leggings": "Erhältlich auf outdoorvoices.com. In mehreren Farbkombinationen.",
+    "amazon-essentials-running-tights": "Erhältlich auf amazon.de."
+  },
+  "pinDescription": "Lauftights gesucht, die beim Laufen nicht rutschen und in der Hocke blickdicht bleiben? Wir haben Lululemon Fast and Free, Nike Fast Tight, Athleta Power Train, Outdoor Voices Discovery und Amazon Essentials verglichen — Stoffgewicht, Taschen, Bundhalt und Blickdichtheit im Direktvergleich. Jetzt merken für den nächsten Kauf.",
+  "recommendedFor": [
+    {
+      "label": "Ambitionierte Läuferinnen mit vier oder mehr Einheiten pro Woche",
+      "offerId": "lululemon-fast-and-free-leggings",
+      "reason": "Das Nulux-Gewebe transportiert Schweiß hervorragend ab, und die Verarbeitung hält hohem Trainingspensum sowie über 30 Waschgängen stand."
+    },
+    {
+      "label": "Wer bei Hitze läuft oder harte Intervalle fährt",
+      "offerId": "nike-fast-tight",
+      "reason": "Mesh-Einsätze an den Schwitzzonen und der Dri-FIT-Feuchtigkeitstransport halten bei intensiven Einheiten kühler als jedes andere Modell im Test."
+    },
+    {
+      "label": "Umweltbewusste Frauen, denen faire Sportmarken wichtig sind",
+      "offerId": "athleta-power-train-tight",
+      "reason": "Athletas Nachhaltigkeitsstandards und die auf Frauen zugeschnittene Powervita-Passform machen sie zur ersten Wahl, wenn neben dem Komfort auch die Markenwerte zählen."
+    },
+    {
+      "label": "Fitness-Creatorinnen und Freizeitläuferinnen mit Sinn für Stil",
+      "offerId": "outdoor-voices-discovery-leggings",
+      "reason": "Die mehrfarbigen Kontrasteinsätze und die Doing Things™-Ästhetik fallen auf Social Media und im Studio auf, ohne im Alltag deplatziert zu wirken."
+    },
+    {
+      "label": "Preisbewusste Einsteigerinnen, die gerade mit dem Laufen anfangen",
+      "offerId": "amazon-essentials-running-tights",
+      "reason": "Für 25–35 € und in mehreren Farben ausgestattet, ohne sich auf Premium-Preise festzulegen, bevor das Laufen zur festen Gewohnheit geworden ist."
+    }
+  ]
 }

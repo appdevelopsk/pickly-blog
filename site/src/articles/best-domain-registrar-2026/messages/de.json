@@ -2,5 +2,149 @@
   "title": "Bestes Domain-Registrar 2026: 5 im Vergleich",
   "description": "Wir haben Porkbun, Namecheap, Cloudflare, GoDaddy, Squarespace verglichen. Das überzeugt 2026 wirklich bei Verlängerungspreis und Aufdringlichkeit der Zusatzverkäufe und Domain-Registrar.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Echte Preise (Verlängerung, nicht Einstiegsangebot)",
+      "paragraphs": [
+        ".com-Verlängerung im 2. Jahr: Porkbun 9,60 €, Cloudflare 9,05 € (zum Selbstkostenpreis), Namecheap 13,85 €, GoDaddy 23,10 €, Squarespace Domains 18,50 €.",
+        "Beim reinen Preis gewinnt Cloudflare — Registry-Kosten ohne jeden Aufschlag. Der Haken: Ziel ist, Sie an Cloudflare-DNS und -Proxy zu binden. Porkbun ist der günstigste Anbieter, der trotzdem an der Domain verdient.",
+        "GoDaddys Verlängerungspreis (2,4-mal Porkbun) folgt dem üblichen Muster: günstiger Einstieg, teure Verlängerung. Viele bleiben aus Trägheit und zahlen pro Domain und Jahr über 14 € zu viel."
+      ]
+    },
+    {
+      "heading": "WHOIS-Schutz",
+      "paragraphs": [
+        "WHOIS-Schutz kostenlos: Porkbun, Namecheap, Cloudflare, Squarespace Domains. Bei GoDaddy kostenpflichtig: 9,25 € pro Jahr.",
+        "Der WHOIS-Schutz hält Name, Anschrift, E-Mail-Adresse und Telefonnummer aus den öffentlichen Einträgen heraus. Ohne ihn sind Ihre Kontaktdaten frei durchsuchbar — und Spam folgt zuverlässig.",
+        "Dass GoDaddy dafür Geld verlangt, ist aus der Zeit gefallen: Bei modernen Registraren gehört der Schutz zum Standardumfang."
+      ]
+    },
+    {
+      "heading": "Zusatzangebote im Bestellvorgang",
+      "paragraphs": [
+        "Zahl der Upsells im Checkout (gezählt als nötige Abwahl-Klicks): Porkbun 0, Cloudflare 0, Namecheap 2, GoDaddy 8+ (Privacy, E-Mail, Security, Business-E-Mail, Webhosting, Baukasten, SSL, M365), Squarespace Domains 1.",
+        "GoDaddys Bestellvorgang ist der aggressivste — 45 € und mehr an ungewollten Diensten sind schnell im Warenkorb. Porkbun und Cloudflare halten den Checkout sauber."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Cloudflare oder Porkbun?",
+      "a": "Cloudflare, wenn Sie ohnehin schon Cloudflare-DNS bzw. -Proxy nutzen. Porkbun, wenn Sie einen Registrar wollen, der eigenständig wirtschaftet und nicht an eine andere Plattform gekoppelt ist."
+    },
+    {
+      "q": "Sollte ich von GoDaddy wegwechseln?",
+      "a": "Ja. Ersparnis: über 14 € pro Domain und Jahr. Der Transfer ist unkompliziert (frühestens 60 Tage nach der letzten Änderung). Die Transfergebühr übernimmt in der Regel der aufnehmende Registrar."
+    },
+    {
+      "q": "Ist .com immer noch die beste TLD?",
+      "a": "Ja. Höchster wahrgenommener Wert, am leichtesten zu merken, SEO-neutral. Andere Endungen (.io, .ai) sind in bestimmten Kontexten in Ordnung, aber .com bleibt die Standardwahl. Im deutschsprachigen Raum ist .de die naheliegende Ergänzung."
+    },
+    {
+      "q": "Wie sieht es bei der Verwaltung vieler Domains aus?",
+      "a": "Cloudflare und Namecheap haben die besten Bulk-Werkzeuge. Porkbun holt hier auf. GoDaddy bietet zwar Bulk-Funktionen, die Oberfläche ist aber überladen."
+    }
+  ],
+  "products": {
+    "porkbun-registrar": {
+      "badge": "🏆 Bestes Preis-Leistungs-Verhältnis",
+      "review": "Porkbun ist die richtige Wahl, wenn der Preis dauerhaft niedrig bleiben soll. 9,60 € .com-Verlängerung, kostenloser WHOIS-Schutz, kostenloses SSL im Hosting-Paket, null Upsells im Checkout. Für neue Domains 2026 die Standardempfehlung.",
+      "pros": [
+        "Dauerhaft günstigster Preis",
+        "Kostenloser WHOIS-Schutz",
+        "Keinerlei Upsells im Checkout"
+      ],
+      "cons": [
+        "Weniger bekannt als Namecheap",
+        "Kein telefonischer Support"
+      ]
+    },
+    "namecheap-registrar": {
+      "badge": "🎯 Beste etablierte Wahl",
+      "review": "Namecheap ist die richtige Wahl, wenn Sie etablierte, verlässliche Preise wollen. 13,85 € .com-Verlängerung, dauerhaft kostenloser WHOIS-Schutz, transparente Preisgestaltung. Starke DNS-Verwaltung. Seit 2000 im Geschäft.",
+      "pros": [
+        "Dauerhaft kostenloser WHOIS-Schutz",
+        "Transparente Preise",
+        "Starke DNS-Verwaltung"
+      ],
+      "cons": [
+        "Teurer als Porkbun",
+        "Einzelne Upsells im Checkout"
+      ]
+    },
+    "cloudflare-registrar": {
+      "badge": "💰 Bester Selbstkostenpreis",
+      "review": "Cloudflare Registrar ist die richtige Wahl, wenn Sie ohnehin Cloudflare-DNS nutzen. 9,05 € .com-Verlängerung (reiner Registry-Preis), kostenloser WHOIS-Schutz, kein Aufschlag. Die Domain muss über Cloudflare-DNS laufen; E-Mail-Weiterleitung auf Registrar-Ebene gibt es nicht.",
+      "pros": [
+        "Zum Selbstkostenpreis (der günstigste)",
+        "Keine Upsells, gar keine",
+        "Kostenloser WHOIS-Schutz"
+      ],
+      "cons": [
+        "Setzt Cloudflare-DNS voraus",
+        "Keine E-Mail-Weiterleitung"
+      ]
+    },
+    "godaddy-registrar": {
+      "badge": "🚫 Finger weg",
+      "review": "GoDaddy ist 2026 der Registrar, den man meiden sollte. 23,10 € .com-Verlängerung (2,4-mal Porkbun), 9,25 € pro Jahr für den WHOIS-Schutz, 8+ Upsells im Checkout. Altpreise ohne die Vorteile von früher. Domain umziehen.",
+      "pros": [
+        "Etablierter, bekannter Markenname"
+      ],
+      "cons": [
+        "Teuerste Verlängerung",
+        "WHOIS-Schutz kostenpflichtig",
+        "Aggressive Upsells im Checkout"
+      ]
+    },
+    "google-domains-squarespace": {
+      "badge": "🪜 Beste Google-Alternative",
+      "review": "Squarespace Domains (früher Google Domains) hat die Schlichtheit von Google Domains geerbt; Squarespace hat den Dienst 2023 übernommen. 18,50 € .com-Verlängerung, kostenloser WHOIS-Schutz, aufgeräumte Oberfläche.",
+      "pros": [
+        "Bedienung von Google Domains übernommen",
+        "Kostenloser WHOIS-Schutz",
+        "Aufgeräumter Bestellvorgang"
+      ],
+      "cons": [
+        "Teurer als Porkbun/Cloudflare",
+        "Werbung für den Squarespace-Baukasten"
+      ]
+    }
+  },
+  "offerNotes": {
+    "porkbun-registrar": "Registrierung über porkbun.com — bestes SSL-Gratispaket in Kombination mit Porkbun-Hosting.",
+    "namecheap-registrar": "Registrierung über namecheap.com — auf die Black-Friday-Aktionen achten.",
+    "cloudflare-registrar": "Registrierung über cloudflare.com — setzt ein Cloudflare-Konto voraus.",
+    "godaddy-registrar": "Registrierung über godaddy.com — aber innerhalb eines Jahres wieder umziehen.",
+    "google-domains-squarespace": "Registrierung über squarespace.com/domains — alte Google-Domains-Konten wurden übernommen."
+  },
+  "pinDescription": "Domain verlängern und plötzlich 23 € zahlen? Der Preisvergleich 2026: Porkbun, Namecheap, Cloudflare, GoDaddy und Squarespace — echte Verlängerungspreise statt Lockangebote, plus wer den WHOIS-Schutz verschenkt.",
+  "recommendedFor": [
+    {
+      "label": "Selbstständige und Solo-Gründer, die ihre erste Domain registrieren",
+      "offerId": "porkbun-registrar",
+      "reason": "9,60 € Verlängerung, keine Upsells und kostenloser WHOIS-Schutz — bei Porkbun bleiben die Kosten vom ersten Tag an ehrlich."
+    },
+    {
+      "label": "Kleine Unternehmen, die einen etablierten Registrar wollen",
+      "offerId": "namecheap-registrar",
+      "reason": "Transparente Preise und dauerhaft kostenloser WHOIS-Schutz passen zu Betrieben, die verlässliches DNS ohne Überraschungen brauchen."
+    },
+    {
+      "label": "Entwickler, deren Seiten ohnehin hinter dem Cloudflare-Proxy laufen",
+      "offerId": "cloudflare-registrar",
+      "reason": "Die Verlängerung zum Selbstkostenpreis von 9,05 € fügt sich nahtlos ein, wenn Cloudflare die Zone bereits verwaltet."
+    },
+    {
+      "label": "Ehemalige Google-Domains-Nutzer, die eine vertraute, aufgeräumte Oberfläche suchen",
+      "offerId": "google-domains-squarespace",
+      "reason": "Squarespace Domains hat die Bedienung von Google Domains übernommen; migrierte Konten behalten den kostenlosen WHOIS-Schutz."
+    },
+    {
+      "label": "GoDaddy-Kunden, die ihre Verlängerungsrechnung halbieren wollen",
+      "offerId": "godaddy-registrar",
+      "reason": "23,10 € Verlängerung plus kostenpflichtiger WHOIS-Schutz — kaum ein Fall spricht deutlicher für einen Umzug und über 14 € Ersparnis pro Domain und Jahr."
+    }
+  ]
 }

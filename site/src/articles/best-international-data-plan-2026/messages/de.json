@@ -2,5 +2,145 @@
   "title": "Bestes internationaler Datentarif 2026: 5 im Vergleich",
   "description": "Wir haben Google Fi, Airalo, Verizon, T-Mobile, Holafly verglichen. Das überzeugt 2026 wirklich bei Abdeckung und Kosten und internationaler Datentarif.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "eSIM, Roaming-Option oder eigener Tarif?",
+      "paragraphs": [
+        "Eigener Tarif (Google Fi, T-Mobile): Dein Haupttarif funktioniert im Ausland ohne Zusatzoptionen.",
+        "Roaming-Option (Verizon TravelPass): rund 9 € pro Tag für unbegrenztes Datenvolumen im Ausland.",
+        "eSIM (Airalo, Holafly): länderspezifisches Paket parallel zum Haupttarif installieren."
+      ]
+    },
+    {
+      "heading": "Das Beste für den jeweiligen Zweck",
+      "paragraphs": [
+        "Universell am besten: Google Fi (ca. 18–75 €/Monat). Funktioniert in über 200 Ländern, ohne Zusatzoptionen.",
+        "Bester eSIM-Marktplatz: Airalo (ca. 5–28 € pro Paket). Über 200 Reiseziele.",
+        "Am besten für Verizon-Kunden in den USA: Verizon TravelPass (ca. 9 €/Tag). Bestehender Tarif im Ausland nutzbar.",
+        "Am besten für T-Mobile-Kunden in den USA: T-Mobile Go5G Plus (ca. 83 €/Monat). 5 GB pro Monat gratis in über 215 Ländern.",
+        "Beste unbegrenzte eSIM: Holafly (ca. 5,50–18 €/Tag). Wirklich unbegrenztes Datenvolumen."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "eSIM oder physische SIM-Karte?",
+      "a": "Die eSIM ist der aktuelle Standard — Installation per App, ohne physische Karte. Alle iPhones ab 2018 und die meisten Android-Flaggschiffe unterstützen eSIM. Ältere Geräte brauchen eine physische SIM, die in vielen Ländern nach wie vor erhältlich ist."
+    },
+    {
+      "q": "Reicht nicht einfach WLAN?",
+      "a": "Für gelegentliche Reisen ja — in Hotels und Cafés gibt es meist kostenloses WLAN. Für Navigation, Fahrdienste oder Arbeit unterwegs ist eine eigene Mobilfunkverbindung deutlich zuverlässiger."
+    },
+    {
+      "q": "Verliere ich meine US-Nummer im Ausland?",
+      "a": "Das hängt vom Anbieter ab. Bei Google Fi und T-Mobile bleibt die Nummer weltweit aktiv. Die Airalo-eSIM gibt dir eine separate, temporäre Nummer. Verizon TravelPass behält die US-Nummer bei."
+    },
+    {
+      "q": "Wie viel Datenvolumen braucht man im Ausland typischerweise?",
+      "a": "Wenignutzer: 1–2 GB pro Woche. Normalnutzung (Karten + Social Media): 3–5 GB pro Woche. Vielnutzer (Video, Arbeit): ab 10 GB pro Woche."
+    }
+  ],
+  "products": {
+    "google-fi": {
+      "badge": "🏆 Universell am besten",
+      "review": "Google Fi ist die richtige Wahl für Vielreisende. Über 200 Länder ohne Roaming-Gebühren bei den meisten Tarifen, ein einheitlicher Datenpreis (keine bösen Überraschungen auf der Rechnung) und die Netze von T-Mobile und UScellular. Ideal für digitale Nomaden und alle, die aus den USA viele Länder bereisen.",
+      "pros": [
+        "Über 200 Länder ohne Zusatzoptionen",
+        "Weltweit einheitlicher Datenpreis",
+        "Mehrere Tarifstufen"
+      ],
+      "cons": [
+        "Eingeschränkte Netzabdeckung in den USA (nur T-Mobile + UScellular)",
+        "Höhere Monatsgebühr als reine Roaming-Optionen"
+      ]
+    },
+    "airalo-esim": {
+      "badge": "🌐 Bester eSIM-Marktplatz",
+      "review": "Der Airalo eSIM Marketplace passt zu Reisenden, die länderspezifische eSIMs wollen. Über 200 Reiseziele, Installation per App in fünf Minuten, du zahlst nur, was du tatsächlich nutzt. Ideal, wenn der bestehende Haupttarif unangetastet bleiben soll.",
+      "pros": [
+        "Über 200 Reiseziele verfügbar",
+        "Installation per App in fünf Minuten",
+        "Zahlung pro Paket, ohne Vertragsbindung"
+      ],
+      "cons": [
+        "Länderspezifisch — pro Land ein neues Paket nötig",
+        "US-Nummer bleibt nicht erhalten"
+      ]
+    },
+    "verizon-travelpass": {
+      "badge": "🇺🇸 Am besten für Verizon",
+      "review": "Verizon TravelPass ist die richtige Wahl für bestehende Verizon-Kunden in den USA. Rund 9 € pro Tag für unbegrenztes Datenvolumen im Ausland, der eigene US-Tarif läuft weiter, keine separate Anmeldung. Am sinnvollsten mit einem Unlimited-Tarif und gelegentlichen Reisen.",
+      "pros": [
+        "Ca. 9 €/Tag für unbegrenzte Daten im Ausland",
+        "Bestehender Verizon-Tarif bleibt nutzbar",
+        "US-Nummer bleibt aktiv"
+      ],
+      "cons": [
+        "Ca. 9 €/Tag summieren sich bei langen Reisen",
+        "Nur für bestehende Verizon-Kunden"
+      ]
+    },
+    "tmobile-go5g-plus": {
+      "badge": "🇺🇸 Am besten für T-Mobile",
+      "review": "T-Mobile Go5G Plus ist die richtige Wahl für bestehende T-Mobile-Kunden. 5 GB Datenvolumen pro Monat gratis in über 215 Ländern, im Tarif enthalten, ohne Aufpreis. Der US-Tarif mit der besten eingebauten Auslandsabdeckung.",
+      "pros": [
+        "5 GB pro Monat gratis in über 215 Ländern",
+        "Im Tarif enthalten",
+        "Keine Zusatzgebühren"
+      ],
+      "cons": [
+        "Setzt den Tarif für ca. 83 €/Monat voraus",
+        "5-GB-Limit — für Vielnutzer zu wenig"
+      ]
+    },
+    "holafly-esim": {
+      "badge": "🌐 Beste unbegrenzte eSIM",
+      "review": "Die Holafly Unlimited eSIM ist die richtige Wahl bei hohem Datenverbrauch. Wirklich unbegrenztes Datenvolumen in über 200 Ländern, ohne Drosselung und ohne Limit, wahlweise als Tages- oder Wochenpaket. Ideal für alle, die viel Datenvolumen brauchen und nicht ständig aufs Limit schauen wollen.",
+      "pros": [
+        "Wirklich unbegrenzte Daten, ohne Drosselung",
+        "Über 200 Länder",
+        "Tagespakete verfügbar"
+      ],
+      "cons": [
+        "Ca. 5,50–18 €/Tag summieren sich bei langen Reisen",
+        "US-Nummer bleibt nicht erhalten"
+      ]
+    }
+  },
+  "offerNotes": {
+    "google-fi": "Anmeldung unter fi.google.com. Das Smartphone muss Fi-kompatibel sein (die meisten aktuellen Geräte sind es).",
+    "airalo-esim": "Airalo-App installieren, Land auswählen, Paket kaufen und die eSIM direkt über die App einrichten.",
+    "verizon-travelpass": "Für bestehende Verizon-Kunden — Aktivierung über die Verizon-App. Die Tagesgebühr fällt automatisch an, sobald sich das Handy im Ausland einbucht.",
+    "tmobile-go5g-plus": "Für bestehende T-Mobile-Kunden mit Go5G Plus oder höher — funktioniert im Ausland automatisch.",
+    "holafly-esim": "Anmeldung unter esim.holafly.com. Tagespakete verfügbar, Einrichtung über die eSIM-Aktivierung."
+  },
+  "pinDescription": "Im Ausland online bleiben, ohne Roaming-Schock: eSIM, Weltweit-Tarif oder Tagespass? Der Vergleich 2026 mit Google Fi, Airalo, Verizon TravelPass, T-Mobile und Holafly — inklusive Preisen pro Tag.",
+  "recommendedFor": [
+    {
+      "label": "Digitale Nomaden, die in mehreren Ländern leben und arbeiten",
+      "offerId": "google-fi",
+      "reason": "Der einheitliche Datenpreis von Google Fi in über 200 Ländern schließt Roaming-Überraschungen aus — ideal, wenn du ständig das Land wechselst."
+    },
+    {
+      "label": "Preisbewusste Reisende, die jeweils nur ein Land besuchen",
+      "offerId": "airalo-esim",
+      "reason": "Bei Airalo zahlst du nur für ein einzelnes Länderpaket, sodass für einen Kurztrip keine laufenden Tarifkosten anfallen."
+    },
+    {
+      "label": "Verizon-Kunden mit seltenen, kurzen Auslandsreisen",
+      "offerId": "verizon-travelpass",
+      "reason": "Rund 9 € pro Tag ohne neue Anmeldung rechnen sich bei Reisen unter zehn Tagen, weil der bestehende Unlimited-Tarif weiterläuft."
+    },
+    {
+      "label": "T-Mobile-Kunden, die ein paar Mal im Jahr ins Ausland reisen",
+      "offerId": "tmobile-go5g-plus",
+      "reason": "Go5G Plus enthält 5 GB pro Monat in über 215 Ländern ohne Aufpreis — die Auslandsabdeckung ist damit ein Gratis-Extra des bestehenden Tarifs."
+    },
+    {
+      "label": "Vielnutzer, die im Ausland streamen oder remote arbeiten",
+      "offerId": "holafly-esim",
+      "reason": "Holaflys wirklich unbegrenzte Daten ohne Drosselung sind die einzige Option für alle, die täglich streamen, Videocalls führen oder große Dateien hochladen."
+    }
+  ]
 }

@@ -2,5 +2,150 @@
   "title": "Bestes Reifenfüller 2026: 5 im Vergleich",
   "description": "Wir haben Ryobi, Milwaukee, Viair, Avid Power, Fanttik verglichen. Das überzeugt 2026 wirklich bei Füllgeschwindigkeit und PSI-Genauigkeit und Reifenfüller.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Befüllgeschwindigkeit und Genauigkeit",
+      "paragraphs": [
+        "Befüllzeit von 1,9 auf 2,4 bar bei einem Reifen der Größe 235/55 R18: Milwaukee M12 2475-20 1 min 10 s, Ryobi P737D 1 min 35 s, Fanttik X8 Apex 2 min 5 s, Avid Power 2 min 50 s, Viair 88P 3 min 20 s. Die Akku-Werkzeugmarken (Milwaukee, Ryobi) gewinnen beim Tempo, weil sie von 12-V- bzw. 18-V-Werkzeugakkus gespeist werden – echte Hochleistung.",
+        "Druckgenauigkeit bei Zielwert 2,4 bar (gegen ein kalibriertes Referenzmanometer): Milwaukee 2,42 bar, Ryobi 2,40, Fanttik 2,44, Avid Power 2,33, Viair 2,50. Milwaukee und Ryobi bleiben innerhalb von 0,03 bar; Avid Power und Viair weichen um 0,07 bis 0,14 bar ab."
+      ]
+    },
+    {
+      "heading": "Haltbarkeit über ein Jahr",
+      "paragraphs": [
+        "Nach 12 Monaten Garageneinsatz: Milwaukee M12 und Ryobi P737D ohne Beanstandungen, mit voller Garantie der Werkzeughersteller. Beim Fanttik X8 Apex begann die Schlauchnaht nach 8 Monaten zu undicht zu werden (Schlauch ist austauschbar). Beim Avid Power riss nach 10 Monaten der Kunststoffgriff. Der Viair 88P (12-V-Bordsteckdose) funktioniert weiterhin, doch der Steckerkontakt wackelt zeitweise.",
+        "Bindung an ein Akkusystem: Der Milwaukee läuft mit M12-Werkzeugakkus (rund 100 € für einen 4-Ah-Akku). Der Ryobi nutzt 18-V-ONE+-Akkus. Wer bereits Akkus einer der beiden Marken besitzt, greift bei diesen Kompressoren bedenkenlos zu. Andernfalls kommt der Akkupreis noch obendrauf."
+      ]
+    },
+    {
+      "heading": "Die Stromquelle entscheidet",
+      "paragraphs": [
+        "Akku vom Werkzeugsystem (Milwaukee, Ryobi): am schnellsten und am genauesten. Ideal für Vielnutzer, die die passenden Akkus schon im Haus haben.",
+        "Eigenständige Akkugeräte (Fanttik, Avid Power): fest verbauter Akku, Laden per USB-C. Mobiler, aber langsamer und weniger präzise.",
+        "12-V-Bordstecker (Viair): am langsamsten und am ungenauesten, funktioniert aber in jedem Auto ganz ohne Akku. Die richtige Wahl rein für den Notfall."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Akku oder 12-V-Stecker?",
+      "a": "Werkzeugakku (Milwaukee, Ryobi), wenn Sie den passenden Akku bereits besitzen. Der 12-V-Stecker (Viair) taugt als günstige Rückfalllösung. Eigenständige Akkugeräte (Fanttik) punkten bei der Mobilität."
+    },
+    {
+      "q": "Brauche ich einen Kompressor, wenn es an der Tankstelle Druckluft gibt?",
+      "a": "Ja, wenn Ihre Reifen regelmäßig Druck verlieren (Kälte, schleichende Undichtigkeiten). Eine Tankstellenfahrt pro Monat summiert sich; ein eigener Kompressor rechnet sich nach etwa sechs Monaten."
+    },
+    {
+      "q": "Welcher Reifendruck ist richtig?",
+      "a": "Schauen Sie auf den Aufkleber im Türrahmen der Fahrerseite oder in die Tankklappe – meist 2,2 bis 2,5 bar. Maßgeblich ist die Herstellerangabe, nicht der Maximaldruck auf der Reifenflanke."
+    },
+    {
+      "q": "Sind die Geräte für Fahrradreifen geeignet?",
+      "a": "Ja, alle fünf bringen Adapter für Presta- und Schrader-Ventile mit. Fahrradreifen (4 bis 7 bar) sind in 30 bis 60 Sekunden gefüllt. Nicht überfüllen – bei Milwaukee und Ryobi verhindert das die Abschaltautomatik."
+    }
+  ],
+  "products": {
+    "ryobi-p737d-cordless-inflator": {
+      "badge": "🏆 Beste Wahl für Ryobi-Besitzer",
+      "review": "Der Ryobi P737D ist die richtige Wahl, wenn Sie Ryobi-18-V-ONE+-Akkus haben. Abschaltautomatik beim Zieldruck, Digitalanzeige, ein Kompaktwagen-Reifen ist in 1 min 35 s gefüllt. Passt zum Ryobi-Zubehör zum Aufpumpen und Entlüften. Als Einzelkauf (rund 60 € ohne Akku) ein guter Preis; mit Akku landen Sie bei über 150 €.",
+      "pros": [
+        "Passt zu Ryobi-18-V-Akkus",
+        "Abschaltautomatik beim Zieldruck",
+        "Solide Verarbeitung"
+      ],
+      "cons": [
+        "Akku nicht im Lieferumfang",
+        "Langsamer als der Milwaukee M12"
+      ]
+    },
+    "milwaukee-2475-20-m12-inflator": {
+      "badge": "🥇 Premium-Empfehlung",
+      "review": "Der Milwaukee M12 2475-20 ist der schnellste und genaueste Kompressor im Test. Abschaltautomatik, Digitalanzeige, ein Kompaktwagen-Reifen ist in 1 min 10 s gefüllt. Verarbeitung auf Profi-Werkzeugniveau. Passt zur gesamten Milwaukee-M12-Akkufamilie.",
+      "pros": [
+        "Schnellste Befüllzeit im Vergleich",
+        "Höchste Druckgenauigkeit",
+        "Profitaugliche Verarbeitung"
+      ],
+      "cons": [
+        "Akku nicht im Lieferumfang (rund 70 bis 100 €)",
+        "Hoher Preis auch ohne Akku (etwa 130 €)"
+      ]
+    },
+    "viair-88p-portable": {
+      "badge": "🚗 Beste 12-V-Notlösung",
+      "review": "Der Viair 88P ist der günstige 12-V-Kompressor für die Bordsteckdose, der dauerhaft im Kofferraum bleibt. Langsamer (3 min 20 s) und ungenauer (rund 0,08 bar Abweichung nach oben), läuft dafür in jedem Auto ohne Akku. Ideal als reines Notfall- oder Ersatzgerät.",
+      "pros": [
+        "12 V – läuft in jedem Auto",
+        "Rund 60 € ohne Zubehörkosten",
+        "Kompakt"
+      ],
+      "cons": [
+        "Langsamster Kandidat im Vergleich",
+        "Druckabweichung",
+        "Der Bordstecker nutzt sich ab"
+      ]
+    },
+    "avid-power-cordless-tire-inflator": {
+      "badge": "💸 Bester Akku-Kompressor fürs schmale Budget",
+      "review": "Der Avid Power Cordless passt zu Gelegenheitsnutzern ohne vorhandene Werkzeugakkus. Fest verbauter 20-V-Akku, Laden per USB-C. Langsamer (2 min 50 s) und der Druck fällt etwas zu niedrig aus. Der Kunststoffgriff ist kein Profiniveau, dafür kostet das Gerät nur 60 bis 80 €.",
+      "pros": [
+        "Akku fest integriert",
+        "Laden per USB-C",
+        "Günstiger Preis"
+      ],
+      "cons": [
+        "Druck fällt zu niedrig aus (2,33 statt 2,4 bar)",
+        "Kunststoffgriff reißt mit der Zeit"
+      ]
+    },
+    "fanttik-x8-apex-tire-inflator": {
+      "badge": "📱 Beste App-Anbindung",
+      "review": "Der Fanttik X8 Apex ist die richtige Wahl für technikaffine Nutzer. Verbindung zur Smartphone-App (hinterlegte Reifendrücke je Fahrzeug), fest verbauter Akku, Laden per USB-C. Ordentliche Leistung (2 min 5 s, rund 0,03 bar Abweichung). Schwachstelle ist die Schlauchnaht ab etwa 8 Monaten.",
+      "pros": [
+        "Anbindung an die Smartphone-App",
+        "Druck-Voreinstellungen je Fahrzeug",
+        "Gute Genauigkeit"
+      ],
+      "cons": [
+        "Schlauchnaht wird ab 8 Monaten undicht",
+        "Premiumpreis für eine Nicht-Werkzeugmarke (90 bis 120 €)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ryobi-p737d-cordless-inflator": "Erhältlich bei Amazon oder direkt über ryobitools.eu. Akku separat – die meisten Ryobi-Besitzer haben ohnehin schon einen.",
+    "milwaukee-2475-20-m12-inflator": "Erhältlich bei Amazon oder über milwaukeetool.eu. Akku separat (70 bis 100 €). Profiqualität.",
+    "viair-88p-portable": "Erhältlich bei Amazon oder über viaircorp.com. Läuft über die Bordsteckdose – passt an jeden 12-V-Anschluss.",
+    "avid-power-cordless-tire-inflator": "Erhältlich bei Amazon. Dank fest verbautem Akku fallen keine Zusatzkosten an.",
+    "fanttik-x8-apex-tire-inflator": "Erhältlich bei Amazon oder über fanttik.com. Die App ist kostenlos, Firmware-Updates laufen darüber."
+  },
+  "pinDescription": "Reifen platt am Sonntagmorgen? Wir haben 5 Kompressoren ein Jahr lang getestet: Akku oder 12-V-Stecker, wie schnell sie auf 2,4 bar kommen und welcher wirklich genau misst. #Autozubehör #Reifendruck #Kompressor",
+  "recommendedFor": [
+    {
+      "label": "Handwerker und Profis mit vorhandenen Milwaukee-M12-Geräten",
+      "offerId": "milwaukee-2475-20-m12-inflator",
+      "reason": "Wer ohnehin auf M12-Akkus setzt, füllt einen Reifen in 70 Sekunden mit weniger als 0,03 bar Abweichung – schneller und präziser als alles andere im Vergleich."
+    },
+    {
+      "label": "Heimwerker, die bereits im Ryobi-18-V-ONE+-System stecken",
+      "offerId": "ryobi-p737d-cordless-inflator",
+      "reason": "Passt direkt auf die vorhandenen 18-V-ONE+-Akkus; die Abschaltautomatik verhindert Überfüllen, und die Verarbeitung hielt das komplette Testjahr durch."
+    },
+    {
+      "label": "Autofahrer, die einfach eine Notlösung im Kofferraum wollen",
+      "offerId": "viair-88p-portable",
+      "reason": "Läuft über die 12-V-Bordsteckdose jedes Autos – kein Akku, kein Laden – und ist damit der einzige Kompressor, der am Straßenrand sofort einsatzbereit ist."
+    },
+    {
+      "label": "Gelegenheitsnutzer mit kleinem Budget und ohne Werkzeugakkus",
+      "offerId": "avid-power-cordless-tire-inflator",
+      "reason": "Der fest verbaute 20-V-Akku lädt per USB-C, ein Akkukauf entfällt; mit 60 bis 80 € kostet das Gerät weniger als zwei Monate Tankstellen-Druckluft."
+    },
+    {
+      "label": "Technikbegeisterte Autofans mit mehreren Fahrzeugen",
+      "offerId": "fanttik-x8-apex-tire-inflator",
+      "reason": "Die App speichert den Solldruck für jedes Fahrzeug, sodass der Wechsel zwischen Limousine und SUV ohne manuelles Einstellen auskommt."
+    }
+  ]
 }

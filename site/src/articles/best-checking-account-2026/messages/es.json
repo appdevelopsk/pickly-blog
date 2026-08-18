@@ -2,5 +2,144 @@
   "title": "Mejor cuenta corriente 2026: 5 comparados",
   "description": "Comparamos Schwab, Ally, Chase, SoFi, Wells Fargo. Esto es lo que realmente destaca en tarifas, acceso a cajeros y APY para cuenta corriente en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Bancos online frente a bancos tradicionales",
+      "paragraphs": [
+        "Bancos online (Ally, SoFi, Schwab): sin comisiones mensuales, mayor rentabilidad (TAE del 0,10 % al 4,20 %), sin oficinas físicas pero con transferencias inmediatas y buenas herramientas digitales.",
+        "Bancos tradicionales (Chase, Wells Fargo): oficinas físicas y atención presencial, pero con comisiones mensuales de 9-11 € (evitables si domicilias la nómina o mantienes cierto saldo)."
+      ]
+    },
+    {
+      "heading": "La mejor opción según tu caso",
+      "paragraphs": [
+        "Para viajeros: Schwab Bank. Reembolso ilimitado de comisiones de cajero en todo el mundo y cero comisión por cambio de divisa.",
+        "Mejor banco online: Ally Bank. TAE del 0,10 % al 0,25 %, 0 € de mantenimiento y más de 43.000 cajeros gratuitos.",
+        "Mejor relación con un gran banco: Chase Total Checking. Más de 4.700 oficinas y una amplia red de cajeros.",
+        "Mejor producto combinado: SoFi. Hasta un 4,20 % TAE en el ahorro y 0 € de comisiones.",
+        "Para clientes de Wells: Wells Fargo Everyday. Más de 4.700 oficinas."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Merece la pena tener varias cuentas corrientes?",
+      "a": "A mucha gente sí le compensa: una cuenta principal, otra para viajes (Schwab) y un ahorro online (Ally o SoFi). Así aprovechas las ventajas de cada una sin pagar comisiones."
+    },
+    {
+      "q": "¿Son seguros los bancos online?",
+      "a": "Sí: están cubiertos por el fondo de garantía de depósitos hasta 250.000 $ (el equivalente al de 100.000 € en España), igual que los tradicionales. Al tener menos estructura, pueden ofrecer mejores condiciones."
+    },
+    {
+      "q": "¿Cuánto importa la rentabilidad de la cuenta corriente?",
+      "a": "Poco. La cuenta corriente es para tener liquidez, no para rentabilizar. Deja unos 2.000-4.000 € y el resto en una cuenta de ahorro de alta remuneración: ahí sí manda la TAE."
+    },
+    {
+      "q": "¿En qué se diferencian Zelle y Venmo?",
+      "a": "Zelle mueve el dinero de banco a banco, sin abrir nada aparte y gratis (algo parecido a Bizum). Venmo es una cuenta independiente: rápida entre usuarios de Venmo, pero más lenta al pasar el dinero al banco. Casi todos los grandes bancos trabajan con Zelle."
+    }
+  ],
+  "products": {
+    "schwab-bank-checking": {
+      "badge": "🏆 La mejor para viajar",
+      "review": "Schwab Bank Investor Checking es la elección clara si viajas fuera con frecuencia. Sin comisiones mensuales, reembolso ilimitado de las comisiones de cajero en cualquier parte del mundo (saca dinero donde quieras y Schwab te devuelve la comisión a fin de mes) y cero recargo por operar en otra divisa con la tarjeta de débito. La mejor cuenta para viajeros del mercado estadounidense.",
+      "pros": [
+        "Reembolso ilimitado de comisiones de cajero en todo el mundo",
+        "Sin comisión por cambio de divisa",
+        "0 € de mantenimiento"
+      ],
+      "cons": [
+        "Sin oficinas físicas",
+        "Exige abrir también una cuenta de valores en Schwab"
+      ]
+    },
+    "ally-bank-checking": {
+      "badge": "🌐 Mejor banco online",
+      "review": "Ally Bank Interest Checking es la cuenta online de referencia. TAE del 0,10 % al 0,25 %, 0 € de mantenimiento, más de 43.000 cajeros gratuitos (red AllPoint) y devolución de hasta 10 $ al mes en comisiones de cajeros ajenos. Un banco online sólido, con una app móvil muy trabajada.",
+      "pros": [
+        "TAE del 0,10 % al 0,25 %",
+        "0 € de mantenimiento",
+        "Más de 43.000 cajeros gratuitos"
+      ],
+      "cons": [
+        "Sin oficinas físicas",
+        "La devolución en cajeros ajenos se limita a 10 $ al mes"
+      ]
+    },
+    "chase-total-checking": {
+      "badge": "🏛️ El mejor gran banco",
+      "review": "Chase Total Checking es tu opción si valoras poder ir a una oficina. Más de 4.700 sucursales, más de 16.000 cajeros y bonos de bienvenida de 200-300 $ cuando están activos. Cuota mensual de 12 $, exenta con 500 $ de ingresos domiciliados o 1.500 $ de saldo. La mejor base para vincular tarjeta e hipoteca con un mismo banco.",
+      "pros": [
+        "Más de 4.700 oficinas",
+        "Más de 16.000 cajeros Chase",
+        "Bonos de bienvenida habituales"
+      ],
+      "cons": [
+        "12 $ mensuales (evitables)",
+        "Menos rentabilidad que los bancos online"
+      ]
+    },
+    "sofi-checking": {
+      "badge": "🎯 Mejor producto combinado",
+      "review": "SoFi Checking and Savings encaja si prefieres un único producto que cubra ambas cosas. Hasta un 4,20 % TAE en la parte de ahorro, 0 € de comisiones y cuenta corriente y ahorro integradas. Además, las ventajas de socio de SoFi se aplican al resto de sus productos (préstamos, inversión y demás).",
+      "pros": [
+        "Hasta un 4,20 % TAE en el ahorro",
+        "0 € de comisiones",
+        "Ventajas de socio en todos los productos SoFi"
+      ],
+      "cons": [
+        "Sin oficinas físicas",
+        "La TAE cambia según las promociones vigentes"
+      ]
+    },
+    "wells-fargo-everyday-checking": {
+      "badge": "🏛️ La mejor para clientes de Wells",
+      "review": "Wells Fargo Everyday Checking tiene sentido si ya eres cliente de Wells Fargo. Más de 4.700 oficinas y una red de cajeros muy amplia. Cuota mensual de 10 $, exenta con nómina domiciliada o 500 $ de saldo. Muy pareja a Chase, pero con las ventajas propias de Wells (herramientas online, tarjetas).",
+      "pros": [
+        "Más de 4.700 oficinas",
+        "Amplia red de cajeros",
+        "Integración con el resto de productos Wells Fargo"
+      ],
+      "cons": [
+        "10 $ mensuales",
+        "Escándalos pasados que han dañado su imagen"
+      ]
+    }
+  },
+  "offerNotes": {
+    "schwab-bank-checking": "Se abre en schwab.com. Requiere vincular una cuenta de valores de Schwab (también sin importe mínimo).",
+    "ally-bank-checking": "Se abre en ally.com. Solo online: no hay oficinas.",
+    "chase-total-checking": "Se abre en chase.com o en oficina. Los bonos de bienvenida, cuando están disponibles, exigen cumplir ciertos requisitos.",
+    "sofi-checking": "Se abre en sofi.com. Las ventajas de socio se aplican al resto de productos de SoFi.",
+    "wells-fargo-everyday-checking": "Se abre en wellsfargo.com o en oficina."
+  },
+  "pinDescription": "¿Cuál es la mejor cuenta corriente en 2026? Comparamos Schwab, Ally, Chase, SoFi y Wells Fargo: comisiones, cajeros y rentabilidad, en una tabla clara para elegir sin perder tiempo.",
+  "recommendedFor": [
+    {
+      "label": "Viajas mucho al extranjero y sacas dinero en cajeros de fuera",
+      "offerId": "schwab-bank-checking",
+      "reason": "Schwab te devuelve a fin de mes cualquier comisión de cajero del mundo y no cobra nada por pagar en otra divisa con la tarjeta de débito."
+    },
+    {
+      "label": "Trabajas en remoto y prefieres gestionarlo todo desde el móvil",
+      "offerId": "ally-bank-checking",
+      "reason": "Con 0 € de mantenimiento, un 0,25 % TAE y más de 43.000 cajeros gratuitos, Ally cubre todo sin pisar una oficina."
+    },
+    {
+      "label": "Empiezas tu carrera y quieres vincular tu primera tarjeta de crédito",
+      "offerId": "chase-total-checking",
+      "reason": "Las más de 4.700 oficinas de Chase y sus bonos habituales de 200-300 $ facilitan tener cuenta y tarjeta bajo un mismo acceso."
+    },
+    {
+      "label": "Quieres cuenta corriente y ahorro remunerado en una sola app",
+      "offerId": "sofi-checking",
+      "reason": "La cuenta combinada de SoFi rinde hasta un 4,20 % TAE en la parte de ahorro, sin comisiones y con ventajas de socio en préstamos e inversión."
+    },
+    {
+      "label": "Ya tienes hipoteca o tarjeta con Wells Fargo",
+      "offerId": "wells-fargo-everyday-checking",
+      "reason": "Sus más de 4.700 oficinas y sus herramientas online permiten concentrar cuenta, crédito e hipoteca en un mismo sitio."
+    }
+  ]
 }

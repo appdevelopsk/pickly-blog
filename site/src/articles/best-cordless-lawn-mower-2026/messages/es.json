@@ -2,5 +2,150 @@
   "title": "Mejor cortacésped inalámbrico 2026: 5 comparados",
   "description": "Comparamos EGO, Ryobi, Greenworks, DeWalt, Kobalt. Esto es lo que realmente destaca en autonomía y ecosistema de batería para cortacésped inalámbrico en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Autonomía por carga",
+      "paragraphs": [
+        "Autonomía en una parcela de unos 1.300 m² (una sola batería, modo máximo): EGO LM2156SP (56V, 10Ah) 75 min, Greenworks Pro 80V (4Ah) 50 min, Kobalt 80V (5Ah) 55 min, Ryobi 40V HP (8Ah) 60 min, DeWalt 2x20V MAX (2x8Ah) 45 min.",
+        "Con dos baterías puedes rematar una parcela de unos 2.000 m²: EGO vende modelos de doble batería, DeWalt monta 2x20V MAX de serie, y con Greenworks/Kobalt 80V basta una sola batería para la mayoría de jardines.",
+        "Tiempo de recarga: EGO 60 min, Greenworks 80V 30 min, Kobalt 80V 45 min, Ryobi 40V 90 min, DeWalt 20V 60 min por batería (o sea, 120 min para las dos). La Greenworks 80V es la que antes se recarga."
+      ]
+    },
+    {
+      "heading": "Calidad de corte y recogida",
+      "paragraphs": [
+        "Con la hierba húmeda de primera hora, el mejor corte es el de EGO (motor brushless de altas revoluciones y chasis de acero), seguido muy de cerca por la Greenworks Pro; la Kobalt anda cerca, la Ryobi cumple y la DeWalt queda un pelín por detrás por el menor par del sistema 2x20V. En seco, las cinco cortan estupendamente.",
+        "Recogida frente a mulching: las cinco admiten ambos modos. La recogida más limpia es la de EGO y Greenworks Pro (se escapa menos hierba por el canal). La Ryobi 40V HP incluye canal de descarga lateral, muy útil con hierba muy alta.",
+        "Autopropulsión: EGO LM2156SP y Kobalt 80V tienen versiones autopropulsadas; los modelos estándar son de empuje. Si tu terreno tiene algo de pendiente, merece la pena pagar el extra."
+      ]
+    },
+    {
+      "heading": "Quedarte atado a una plataforma de baterías",
+      "paragraphs": [
+        "No compras solo un cortacésped: te casas con una plataforma de baterías. EGO tiene el catálogo más amplio (cortacésped, desbrozadora, soplador, quitanieves, motosierra). Ryobi 40V es igual de amplio. Greenworks 80V y Kobalt 80V se centran en el cortacésped y ofrecen menos accesorios. DeWalt 20V MAX está volcado en herramienta eléctrica, con poca oferta de jardín.",
+        "Cómo decidirlo: si ya tienes herramienta DeWalt, el cortacésped 2x20V cae por su propio peso. Si aún no tienes nada a batería, EGO o Ryobi 40V te dan el ecosistema más completo entre jardín y taller."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Batería o gasolina en 2026?",
+      "a": "La batería gana en parcelas de menos de 2.000 m². La gasolina sigue mandando a partir de 4.000 m² o con hierba alta y mojada. La batería es más silenciosa, sin aceite ni bujías: se nota en el día a día."
+    },
+    {
+      "q": "EGO 56V o Greenworks 80V: ¿importa el voltaje?",
+      "a": "El voltaje marca la potencia máxima, pero la autonomía la deciden los amperios-hora. La batería de 56V y 10Ah de EGO almacena más energía total que la de 80V y 4Ah de Greenworks. Compara vatios-hora (V × Ah), no solo el voltaje."
+    },
+    {
+      "q": "¿Autopropulsado o de empuje?",
+      "a": "Autopropulsado si hay pendiente o si siegas más de 1.000 m². Para 500 m² llanos, el de empuje va sobrado."
+    },
+    {
+      "q": "¿Cuánto duran las baterías?",
+      "a": "Las de litio aguantan unos 5-7 años con uso normal (300-500 ciclos de carga). Baterías de repuesto: EGO 200-400 €, Greenworks 150-300 €, Ryobi 150-250 €, DeWalt 100-200 €."
+    }
+  ],
+  "products": {
+    "ego-lm2156sp-21-self-propelled": {
+      "badge": "🏆 La mejor en conjunto",
+      "review": "La EGO LM2156SP es la opción acertada para la mayoría de jardines de chalet. Batería de 56V y 10Ah, autopropulsada, chasis de acero y motor brushless, corte de 53 cm y 75 minutos de autonomía a tope. El ecosistema EGO Power+ es el más completo del jardín a batería. Precio de gama alta.",
+      "pros": [
+        "La mayor autonomía de la comparativa",
+        "Autopropulsada",
+        "Ecosistema amplio"
+      ],
+      "cons": [
+        "Precio de más de 700 €",
+        "Batería pesada (unos 3 kg)"
+      ]
+    },
+    "ryobi-40v-hp-brushless": {
+      "badge": "🏠 La mejor si ya tienes Ryobi",
+      "review": "La Ryobi 40V HP Brushless es la elección lógica si ya tienes herramienta Ryobi. Corte de 53 cm, motor brushless, batería de 8Ah y 60 minutos de autonomía. El canal de descarga lateral es raro en cortacéspedes a batería y viene de perlas para el primer corte de la temporada.",
+      "pros": [
+        "Comparte batería con la gama Ryobi 40V",
+        "Canal de descarga lateral",
+        "Buena relación calidad-precio"
+      ],
+      "cons": [
+        "Recarga lenta (90 min)",
+        "Solo de empuje en esta gama"
+      ]
+    },
+    "greenworks-pro-80v-21": {
+      "badge": "⚡ La de recarga más rápida",
+      "review": "La Greenworks Pro 80V es la indicada si lo que quieres es recargar rápido. Motor brushless de 80V y recarga en 30 minutos: siegas, cargas mientras descansas y sigues. Cincuenta minutos de autonomía por carga. Su ecosistema de baterías es más reducido que el de EGO.",
+      "pros": [
+        "Recarga en 30 minutos",
+        "Buen corte con hierba mojada",
+        "Más barata que la EGO"
+      ],
+      "cons": [
+        "Menos accesorios disponibles",
+        "50 minutos de autonomía, menos que la EGO"
+      ]
+    },
+    "dewalt-2x20v-max-21": {
+      "badge": "🔧 La mejor si ya tienes DeWalt",
+      "review": "La DeWalt 2x20V MAX es la elección clara si tienes herramienta DeWalt: usa las mismas baterías 20V MAX que ya tienes en casa. Sus 45 minutos de autonomía se quedan cortos frente a las marcas especializadas en jardín, pero la compatibilidad de baterías compensa.",
+      "pros": [
+        "Usa las baterías DeWalt 20V de siempre",
+        "Compatible con el resto de tus herramientas",
+        "Construcción robusta"
+      ],
+      "cons": [
+        "La menor autonomía de la comparativa",
+        "Más pesada que las específicas de 56-80V"
+      ]
+    },
+    "kobalt-80v-21-mower": {
+      "badge": "💸 La mejor exclusiva de Lowe's",
+      "review": "La Kobalt 80V es la opción para los fieles a Lowe's. Motor brushless de 80V, batería de 5Ah, 55 minutos de autonomía y corte de 53 cm. Hay versión autopropulsada. Es la más barata de la clase 80V. Su ecosistema se limita a cortacésped, desbrozadora y soplador: más corto que EGO o Ryobi.",
+      "pros": [
+        "Más barata que la EGO en su misma clase",
+        "Versión autopropulsada disponible",
+        "Distribución fiable a través de Lowe's"
+      ],
+      "cons": [
+        "Ecosistema de baterías más limitado",
+        "Servicio técnico solo vía Lowe's"
+      ]
+    }
+  },
+  "offerNotes": {
+    "ego-lm2156sp-21-self-propelled": "A la venta en egopowerplus.com y grandes superficies de bricolaje. Suele venir en pack con batería y cargador por 700-900 €.",
+    "ryobi-40v-hp-brushless": "A la venta en ryobitools.com y tiendas de bricolaje. Comparte batería con toda la gama de jardín Ryobi 40V.",
+    "greenworks-pro-80v-21": "A la venta en greenworkstools.com y amazon.es. Atento a las ofertas de primavera.",
+    "dewalt-2x20v-max-21": "A la venta en dewalt.com y tiendas de bricolaje. Baterías compatibles con todo el sistema 20V MAX.",
+    "kobalt-80v-21-mower": "A la venta en lowes.com: marca exclusiva de Lowe's."
+  },
+  "pinDescription": "¿Cortacésped a batería en 2026? Comparamos EGO, Ryobi, Greenworks, DeWalt y Kobalt: autonomía real, tiempo de recarga y qué plataforma de baterías te conviene según tu jardín. #jardin #cortacesped",
+  "recommendedFor": [
+    {
+      "label": "Quien quiere un único sistema de baterías para todo el jardín",
+      "offerId": "ego-lm2156sp-21-self-propelled",
+      "reason": "La plataforma Power+ de EGO cubre cortacésped, desbrozadora, soplador y quitanieves: una sola familia de baterías para todo."
+    },
+    {
+      "label": "Manitas que ya tienen herramienta DeWalt en casa",
+      "offerId": "dewalt-2x20v-max-21",
+      "reason": "El cortacésped 2x20V MAX funciona con las mismas baterías de tus taladros y sierras, así que te ahorras cargadores duplicados."
+    },
+    {
+      "label": "Jardines en pendiente que se siegan dos veces por semana",
+      "offerId": "ryobi-40v-hp-brushless",
+      "reason": "Sus 60 minutos de autonomía y el canal de descarga lateral se comen la hierba alta sin ahogar el motor."
+    },
+    {
+      "label": "Quien siega con el tiempo justo",
+      "offerId": "greenworks-pro-80v-21",
+      "reason": "Con recarga en 30 minutos puedes terminar una pasada, cargar durante la comida y dar otra por la tarde."
+    },
+    {
+      "label": "Quien deja la gasolina sin gastar de más",
+      "offerId": "kobalt-80v-21-mower",
+      "reason": "La Kobalt 80V ofrece autopropulsión y motor brushless al precio más bajo de la clase 80V, con venta en tienda física."
+    }
+  ]
 }

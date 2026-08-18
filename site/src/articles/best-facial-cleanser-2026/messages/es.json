@@ -86,5 +86,112 @@
     "tatcha-rice-wash": "Textura lechosa de lujo con iluminación de salvado de arroz — la elección si disfrutar del limpiador impulsa tu rutina. Funciona bien, pero el precio refleja la marca."
   },
   "pinDescription": "5 limpiadores faciales clasificados para 2026: CeraVe, La Roche-Posay, Cetaphil, Paula's Choice y Tatcha. Espumante vs crema, equilibrio de pH explicado, y cuáles recomienda realmente el dermatólogo para piel seca, grasa y sensible.",
-  "methodology": "Evaluamos cada producto según la transparencia de sus ingredientes, su historial dermatológico, la coherencia de los resultados en usuarios reales, la calidad del envase y la relación calidad-precio por uso."
+  "methodology": "Evaluamos cada producto según la transparencia de sus ingredientes, su historial dermatológico, la coherencia de los resultados en usuarios reales, la calidad del envase y la relación calidad-precio por uso.",
+  "products": [
+    {
+      "offerId": "cerave-hydrating-cleanser",
+      "badge": "Mejor para piel seca o con la barrera dañada",
+      "review": "El Limpiador Hidratante de CeraVe es el limpiador en crema que los dermatólogos recomiendan por defecto para pieles secas, normales o con la barrera cutánea dañada. La fórmula parte de una base de tensioactivos suaves con un pH casi neutro y aporta tres ceramidas esenciales (NP, AP, EOP) junto con ácido hialurónico mediante el sistema de emulsión multivesicular, que deposita los lípidos sobre la piel en lugar de arrastrarlos por el desagüe. La niacinamida, en baja concentración, ayuda a la recuperación de la barrera. Sin perfume, sin sulfatos y sin aceites esenciales: leer la lista de ingredientes tranquiliza a cualquiera que reaccione a los irritantes cosméticos habituales. El bote con dosificador de 236 ml dura entre 3 y 4 meses usándolo dos veces al día. La textura es una loción lechosa que no hace espuma, justo lo que se espera de este formato.",
+      "pros": [
+        "Tres ceramidas (NP, AP, EOP) depositadas mediante el sistema de emulsión multivesicular",
+        "Fórmula sin perfume, sin sulfatos y no comedogénica",
+        "Un pH afín al de la piel preserva el manto ácido incluso con dos usos diarios",
+        "La opción por defecto de los dermatólogos para piel seca, normal y tras procedimientos"
+      ],
+      "cons": [
+        "No hace espuma: se queda corto con protectores solares densos o maquillaje si antes no usas un limpiador oleoso"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "laroche-posay-toleriane-cleanser",
+      "badge": "Mejor para piel sensible o con rosácea",
+      "review": "El Toleriane Gel Limpiador Hidratante de La Roche-Posay es la elección acertada para pieles sensibles, reactivas o con tendencia a la rosácea, donde el minimalismo en la formulación forma parte del tratamiento. La fórmula se apoya en el agua termal rica en selenio de La Roche-Posay y en una lista corta de ingredientes pensada para preservar la microbiota de la piel en lugar de arrasarla. Sin perfume, sin parabenos, sin jabón y testada en pieles hiperreactivas dentro del protocolo clínico de la marca. La textura crema-gel se aclara sin dejar esa sensación de tirantez que dispara los brotes de rosácea, y el pH se mantiene dentro del rango natural de la piel. El bote de 400 ml es de los más grandes de esta comparativa, así que el precio por mililitro acaba siendo competitivo aunque el precio del envase parezca alto.",
+      "pros": [
+        "Base de agua termal rica en selenio que ayuda a preservar la microbiota",
+        "Sin perfume, sin parabenos, sin jabón: calibrado para pieles reactivas",
+        "La lista corta de ingredientes reduce las probabilidades de dermatitis alérgica de contacto",
+        "Los generosos 400 ml mejoran la relación calidad-precio en el cálculo por mililitro"
+      ],
+      "cons": [
+        "Poca capacidad limpiadora frente a protectores solares densos: funciona mejor como segunda limpieza tras un limpiador oleoso"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "cetaphil-gentle-cleanser",
+      "badge": "El clásico minimalista",
+      "review": "El Limpiador Suave de Cetaphil lleva unos 70 años en las estanterías de los hospitales porque su fórmula es lo bastante suave como para usarla sobre piel recién intervenida, en bebés y en pacientes con dermatitis de contacto severa. La lista de ingredientes es corta, los tensioactivos son no iónicos y están en baja concentración, y funciona tanto aclarándolo con agua como retirándolo con un algodón: precisamente esto último es lo que le dio su fama hospitalaria. La contrapartida es clara: nada de activos, nada de ceramidas vehiculizadas en emulsión, ningún ingrediente estrella. Es un limpiador que hace una cosa bien (limpiar sin alterar la barrera) y no le pide nada más a tu rutina. El bote de 591 ml es el mayor de la comparativa y su precio por mililitro es difícil de superar.",
+      "pros": [
+        "70 años de recorrido en hospitales con piel postoperatoria, bebés y pacientes muy reactivos",
+        "Se usa con agua o retirándolo con algodón: práctico en viajes y tras procedimientos",
+        "El envase más grande de la comparativa, con 591 ml",
+        "Sin perfume, sin activos, sin nada a lo que reaccionar"
+      ],
+      "cons": [
+        "Sin ingredientes estrella: limpieza pura, sin más beneficios que preservar la barrera",
+        "Menos eficaz con protectores SPF50 densos que empezar por un limpiador oleoso"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "paulas-choice-foaming-cleanser",
+      "badge": "Mejor para piel grasa y mixta",
+      "review": "El RESIST Perfectly Balanced Foaming Cleanser de Paula's Choice es la opción adecuada para pieles grasas o mixtas que necesitan potencia limpiadora sin el daño a la barrera que provoca el SLS en la mayoría de limpiadores en espuma. La fórmula recurre a tensioactivos anfóteros y no iónicos más suaves, que arrastran el sebo sin elevar el pH de la piel hasta el rango 8-9 en el que sufre el manto ácido, y encaja bien con los exfoliantes BHA de la marca, algo previsto desde el diseño. Sin perfume, sin SLS y sin SLES. La espuma es moderada, no agresiva: elimina el sebo sin dejar esa sensación de tirantez que delata un exceso de limpieza. La contrapartida honesta es que no es el limpiador indicado para pieles secas o sensibilizadas, donde hasta un espumante suave sobra.",
+      "pros": [
+        "Fórmula en espuma sin SLS ni SLES que elimina el sebo sin dañar la barrera",
+        "Encaja bien con los exfoliantes BHA de Paula's Choice en la misma rutina",
+        "La espuma moderada retira sebo y protector solar sin dejar tirantez",
+        "Su formulación sin perfume conviene a la piel grasa pero reactiva, donde casi ningún limpiador en espuma funciona"
+      ],
+      "cons": [
+        "Formato equivocado para piel seca o sensibilizada, donde cualquier espumante sobra",
+        "Precio alto para un limpiador en espuma cuando CeraVe o Cetaphil salen más baratos por uso"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "tatcha-rice-wash",
+      "badge": "El mejor formato de lujo",
+      "review": "Tatcha The Rice Wash es la opción para quien mantiene su rutina tanto por la experiencia sensorial como por la ficha técnica. La fórmula combina salvado de arroz japonés (un ingrediente limpiador tradicional en Japón, de perfil ligeramente ácido), ácido hialurónico y una base de tensioactivos no iónicos suaves, con una textura que empieza en gel y se aclara con un acabado lechoso, sin dejar tirantez. El perfume es ligero y procede de extractos naturales en lugar de compuestos sintéticos, algo que importa a quien suele evitar las fragancias pero quiere algo más agradable que un Cetaphil de aire clínico. La contrapartida honesta es el precio: a unas cinco veces el coste por mililitro de CeraVe o Cetaphil, el rendimiento de la fórmula es comparable al de las opciones que recomiendan los dermatólogos, y lo que pagas es marca, envase y experiencia.",
+      "pros": [
+        "La base de salvado de arroz japonés favorece una limpieza de perfil ligeramente ácido",
+        "Textura de gel a leche que se aclara sin dejar tirantez",
+        "Perfume ligero de extractos naturales para quien quiere buen aroma sin sintéticos",
+        "Una experiencia sensorial potente ayuda a mantener la rutina a quien lo necesita"
+      ],
+      "cons": [
+        "Unas 5 veces el precio por mililitro de CeraVe o Cetaphil para una limpieza comparable",
+        "El precio premium responde más a la marca y al envase que a una diferencia real en activos"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para piel seca, dañada o tratada con retinoides",
+      "offerId": "cerave-hydrating-cleanser",
+      "reason": "Las tres ceramidas vehiculizadas por el sistema de emulsión multivesicular sostienen una barrera debilitada como ningún otro limpiador de esta comparativa."
+    },
+    {
+      "label": "Para piel sensible, reactiva o con rosácea",
+      "offerId": "laroche-posay-toleriane-cleanser",
+      "reason": "El agua termal rica en selenio y una lista corta de ingredientes pensada para preservar la microbiota atacan el mecanismo de fondo de la piel reactiva, no solo los síntomas."
+    },
+    {
+      "label": "Para el postoperatorio o pieles extremadamente sensibles",
+      "offerId": "cetaphil-gentle-cleanser",
+      "reason": "Setenta años de uso hospitalario en los tipos de piel más reactivos lo convierten en la opción más segura cuando tienes dudas."
+    },
+    {
+      "label": "Para piel grasa o mixta que necesita potencia limpiadora real",
+      "offerId": "paulas-choice-foaming-cleanser",
+      "reason": "Su química espumante sin SLS retira sebo y protectores solares densos sin sacar el pH de la piel del rango del manto ácido, y combina bien con los exfoliantes BHA."
+    },
+    {
+      "label": "Para quien necesita disfrutar la rutina para no abandonarla",
+      "offerId": "tatcha-rice-wash",
+      "reason": "La textura de salvado de arroz japonés y su aroma natural ligero convierten la limpieza en un momento que apetece, y eso pesa más que cualquier ficha técnica cuando lo difícil es la constancia."
+    }
+  ]
 }

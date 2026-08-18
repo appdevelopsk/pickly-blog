@@ -2,5 +2,145 @@
   "title": "Bestes Schnuller 2026: 5 im Vergleich",
   "description": "Wir haben Philips Avent, Natursutten, NUK, MAM, BIBS verglichen. Das überzeugt 2026 wirklich bei Akzeptanzrate und Materialsicherheit und Schnuller.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Materialarten und Sicherheit",
+      "paragraphs": [
+        "100 % Silikon (Philips Avent, MAM, NUK, BIBS): am weitesten verbreitet, spülmaschinenfest, BPA-frei.",
+        "Naturkautschuk (Natursutten): flexibler als Silikon, biologisch abbaubar, komplett ohne Kunststoff. Manche Babys mögen das weichere Gefühl lieber.",
+        "Alle fünf sind BPA-frei und erfüllen die geltenden Sicherheitsnormen (EN 1400). Die Wahl ist eine Frage der Vorliebe – und davon, was das Baby annimmt."
+      ]
+    },
+    {
+      "heading": "Der passende Schnuller für jeden Zweck",
+      "paragraphs": [
+        "Klinikstandard: Philips Avent Soothie (5–10 €). Einteiliges Silikon, wird auf Neugeborenen-Intensivstationen eingesetzt.",
+        "Bestes Naturmaterial: Natursutten Naturkautschuk (10–15 €). 100 % Naturkautschuk, hergestellt in Italien.",
+        "Beste kieferfreundliche Form: NUK Kiefergerecht (5–10 €). Passt sich dem Mund des Babys an, in Europa etabliert.",
+        "Am besten für die Nacht: MAM Perfect Night (8–12 €). Leuchtet im Dunkeln.",
+        "Schönstes Design: BIBS Schnuller (5–10 €). Dänisches Design, viele Farben."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Stören Schnuller das Stillen?",
+      "a": "Kinderärztinnen und Stillberaterinnen raten meist, mit dem Schnuller zu warten, bis das Stillen gut eingespielt ist (3–4 Wochen). Danach hat ein Schnuller keinen nennenswerten Einfluss mehr aufs Stillen."
+    },
+    {
+      "q": "Wann sollte man den Schnuller abgewöhnen?",
+      "a": "Fachgesellschaften empfehlen, ihn bis zum 18. bis 24. Monat abzugewöhnen, um Zahn- und Kieferfehlstellungen zu vermeiden. Viele Eltern hören früher auf (mit etwa 12 Monaten), solange das Kind noch nicht so sehr daran hängt."
+    },
+    {
+      "q": "Wie oft muss man Schnuller austauschen?",
+      "a": "Alle 1–2 Monate – oder sobald Risse, Verfärbungen oder eine klebrige Oberfläche auftreten. Nach jedem Spülmaschinengang kurz prüfen."
+    },
+    {
+      "q": "Silikon oder Naturkautschuk?",
+      "a": "Silikon: robust, spülmaschinenfest, hält länger. Naturkautschuk: weicher, biologisch abbaubar, manchen Babys lieber. Entscheidend ist, was Ihr Baby annimmt."
+    }
+  ],
+  "products": {
+    "philips-avent-soothie": {
+      "badge": "🏥 Klinikstandard",
+      "review": "Der Philips Avent Soothie ist der Schnuller, der weltweit auf Neugeborenen-Intensivstationen verwendet wird. Einteilig aus medizinischem Silikon, BPA-frei, für 0–3 Monate. Den Soothie kennt Ihr Baby oft schon aus der Klinik – zu Hause weiterzuverwenden heißt: kein Umgewöhnen.",
+      "pros": [
+        "Weltweiter Klinikstandard",
+        "Einteiliges Silikon (leicht zu reinigen)",
+        "BPA-frei, geprüfte Sicherheit"
+      ],
+      "cons": [
+        "Größe 0–3 Monate – später ist ein Wechsel nötig",
+        "Nüchternes Aussehen"
+      ]
+    },
+    "natursutten-natural-rubber": {
+      "badge": "🌳 Bestes Naturmaterial",
+      "review": "Der Natursutten Naturkautschuk-Schnuller ist die richtige Wahl für Eltern, die Silikon und Kunststoff meiden wollen. 100 % Naturkautschuk, kein Plastik, kein Silikon, hergestellt in Italien. Manche Babys mögen das weichere Gefühl von Kautschuk lieber. Biologisch abbaubar.",
+      "pros": [
+        "100 % Naturkautschuk",
+        "Komplett ohne Kunststoff",
+        "Hergestellt in Italien"
+      ],
+      "cons": [
+        "Teurer als Silikonmodelle",
+        "Weniger langlebig als Silikon"
+      ]
+    },
+    "nuk-pacifier": {
+      "badge": "🦷 Kiefergerechte Form",
+      "review": "Der NUK Kiefergerecht hat eine Form, die sich dem Mund des Babys anpasst. In Europa seit Jahrzehnten bewährt: Der asymmetrische Sauger legt sich passgenau an den Gaumen. Erste Wahl für Eltern, denen die Kieferentwicklung besonders wichtig ist.",
+      "pros": [
+        "Kiefergerechte Form",
+        "In Europa seit Jahrzehnten bewährt",
+        "Mehrere Größen je nach Alter"
+      ],
+      "cons": [
+        "Asymmetrisch – muss richtig herum eingesetzt werden",
+        "Manche Babys lehnen die Form ab"
+      ]
+    },
+    "mam-perfect-night": {
+      "badge": "🌙 Am besten für die Nacht",
+      "review": "Der MAM Perfect Night ist die richtige Wahl für die Nacht. Der im Dunkeln leuchtende Kunststoff hilft, den Schnuller wiederzufinden, wenn das Baby ihn ausspuckt. Ultraweiches Silikon, schmales Schild.",
+      "pros": [
+        "Leuchtet im Dunkeln",
+        "Ultraweiches Silikon",
+        "Schmales Schild"
+      ],
+      "cons": [
+        "Das Leuchtmaterial muss ab und zu ans Licht",
+        "Manche Babys lehnen die MAM-Form ab"
+      ]
+    },
+    "bibs-pacifier": {
+      "badge": "🎨 Schönstes Design",
+      "review": "Der BIBS ist der Schnuller mit dem Trend-Faktor. Dänisches Design, klassisch runde Form, über 20 Farbkombinationen – bei designbewussten Eltern längst gesetzt. Sauger aus Naturkautschuk, Schild aus Kunststoff. Der meistfotografierte Schnuller auf Instagram.",
+      "pros": [
+        "Dänisches Design",
+        "Über 20 Farbkombinationen",
+        "Sauger aus Naturkautschuk"
+      ],
+      "cons": [
+        "Weniger ergonomisch als NUK",
+        "Design steht vor Funktion"
+      ]
+    }
+  },
+  "offerNotes": {
+    "philips-avent-soothie": "Erhältlich über philips.de, Amazon, dm und Rossmann. Mehrere Größen (0–3, 3+, 6+ Monate).",
+    "natursutten-natural-rubber": "Erhältlich über natursutten.com und Naturkost-/Babyfachhandel. In runder und kiefergerechter Form.",
+    "nuk-pacifier": "Erhältlich über nuk.de, Amazon, dm, Rossmann und Müller. Mehrere Altersgrößen und Formen.",
+    "mam-perfect-night": "Erhältlich über mambaby.com, Amazon, dm und Rossmann. Mehrere Altersgrößen.",
+    "bibs-pacifier": "Erhältlich über bibsworld.com. Farbkombinationen wechseln saisonal."
+  },
+  "pinDescription": "Schnuller-Vergleich 2026: Soothie, Natursutten, NUK, MAM & BIBS im Test – Silikon oder Naturkautschuk? Welche Form ist kiefergerecht? Und welcher hält die Nacht durch? Alles Wichtige vor dem Kauf.",
+  "recommendedFor": [
+    {
+      "label": "Eltern, die die Klinikroutine zu Hause fortsetzen",
+      "offerId": "philips-avent-soothie",
+      "reason": "Wird weltweit auf Neugeborenen-Intensivstationen ausgegeben – die Babys kennen die Form bereits, der Übergang nach Hause verläuft völlig reibungslos."
+    },
+    {
+      "label": "Umweltbewusste Eltern, die Kunststoff komplett meiden",
+      "offerId": "natursutten-natural-rubber",
+      "reason": "100 % Naturkautschuk ohne ein einziges Kunststoffteil – vollständig biologisch abbaubar und die einzige Option für konsequent plastikfreie Haushalte."
+    },
+    {
+      "label": "Eltern, denen die Zahn- und Kieferentwicklung wichtig ist",
+      "offerId": "nuk-pacifier",
+      "reason": "Der asymmetrische, kiefergerechte Sauger ahmt das natürliche Saugen nach und ist in der europäischen Kinderzahnheilkunde seit Jahrzehnten etabliert."
+    },
+    {
+      "label": "Übermüdete Eltern mit häufigen nächtlichen Wachphasen",
+      "offerId": "mam-perfect-night",
+      "reason": "Das im Dunkeln leuchtende Schild lässt Sie den Schnuller finden und wiedergeben, ohne Licht anzumachen."
+    },
+    {
+      "label": "Designbewusste Eltern, die Babymomente auf Instagram festhalten",
+      "offerId": "bibs-pacifier",
+      "reason": "Rundes dänisches Design in über 20 Farbkombinationen – der meistfotografierte Schnuller in den sozialen Medien."
+    }
+  ]
 }

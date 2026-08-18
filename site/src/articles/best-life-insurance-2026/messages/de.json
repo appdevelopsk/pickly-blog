@@ -2,5 +2,145 @@
   "title": "Bestes Lebensversicherung 2026: 5 im Vergleich",
   "description": "Wir haben Haven Life, Northwestern Mutual, Policygenius, State Farm, Ladder verglichen. Das überzeugt 2026 wirklich bei Angebotsprozess und Policenoptionen und Lebensversicherung.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Risikolebensversicherung oder Kapitallebensversicherung – was passt?",
+      "paragraphs": [
+        "Risikolebensversicherung: günstig (etwa 30–60 € im Monat für 500.000 € Versicherungssumme mit 35 Jahren), läuft über eine feste Laufzeit von 10 bis 30 Jahren. Für die meisten Menschen mit Krediten oder Angehörigen die richtige Wahl.",
+        "Kapitallebensversicherung: deutlich teurer (etwa 300–500 € im Monat für 250.000 € mit 35 Jahren), lebenslanger Schutz, baut einen Rückkaufswert auf. Wird von provisionsabhängigen Vermittlern gern verkauft.",
+        "Die meisten unabhängigen Finanzberater empfehlen die Risikolebensversicherung – und die Differenz in kostengünstige Indexfonds zu investieren."
+      ]
+    },
+    {
+      "heading": "Der passende Anbieter für jeden Bedarf",
+      "paragraphs": [
+        "Beste Online-Risikolebensversicherung: Haven Life (15–200 € im Monat). Vollständig digitaler Abschluss, für gesunde Antragsteller ohne ärztliche Untersuchung.",
+        "Beste Kapitallebensversicherung: Northwestern Mutual. Traditionsreicher Versicherungsverein mit hervorragender Finanzstärke.",
+        "Bester Tarifvergleich: Policygenius. Vergleicht über 20 Versicherer, auch Tarife ohne Gesundheitsprüfung.",
+        "Bestes Bündelangebot: State Farm. Rabatte bei Kombination von Kfz-, Wohngebäude- und Lebensversicherung.",
+        "Beste Flexibilität: Ladder. Versicherungssumme lässt sich anpassen, wenn sich die Lebenssituation ändert („Laddering“)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wie hoch sollte meine Versicherungssumme sein?",
+      "a": "Faustregel: das 10- bis 15-Fache des Jahreseinkommens. Rechnen Sie Schulden hinzu (Immobilienkredit, Studienkredit) sowie den Bedarf Ihrer Angehörigen (Ausbildungskosten der Kinder) und ziehen Sie das Einkommen des Partners ab. Online-Rechner von Policygenius oder Haven Life helfen bei der Schätzung."
+    },
+    {
+      "q": "Risiko- oder Kapitallebensversicherung?",
+      "a": "Für über 90 Prozent der Menschen die Risikolebensversicherung. Eine Kapitallebensversicherung lohnt sich nur, wenn (1) Ihre steuerbegünstigten Altersvorsorgetöpfe bereits ausgeschöpft sind, (2) Sie einen erzwungenen Sparmechanismus wollen und (3) Ihre Nachlassplanung komplex ist. Sonst gewinnt Risikoschutz plus Indexfonds."
+    },
+    {
+      "q": "Brauche ich eine ärztliche Untersuchung?",
+      "a": "Nicht zwingend – Haven Life, Ladder und Policygenius bieten für gesunde Antragsteller bis zu bestimmten Versicherungssummen Tarife ohne Untersuchung an. Bei der klassischen Risikoprüfung ist ab rund 1 Mio. € Versicherungssumme eine Untersuchung Pflicht."
+    },
+    {
+      "q": "Sind Online-Lebensversicherer seriös?",
+      "a": "Ja – Haven Life gehört zu MassMutual, Ladder wird von Allianz und Fidelity gezeichnet, und Policygenius ist ein Marktplatz für etablierte Versicherer. In allen Fällen steht eine erfahrene Risikoprüfung dahinter."
+    }
+  ],
+  "products": {
+    "haven-life": {
+      "badge": "🏆 Beste Online-Risikoversicherung",
+      "review": "Haven Life ist die richtige Wahl für eine online abgeschlossene Risikolebensversicherung. Kompletter Online-Prozess ohne Beratungstermine, Versicherungssummen von 250.000 bis 3 Mio. €, für viele gesunde Antragsteller ohne ärztliche Untersuchung. Als Tochter von MassMutual steht eine etablierte Risikoprüfung dahinter. Ideal für gesunde Menschen zwischen 25 und 45.",
+      "pros": [
+        "Vollständig online, keine Beratungstermine",
+        "Ohne Gesundheitsuntersuchung für gesunde Antragsteller",
+        "Tochtergesellschaft von MassMutual"
+      ],
+      "cons": [
+        "Nur Risikolebensversicherung im Angebot",
+        "Strenge Risikoprüfung – Antragsteller mit Vorerkrankungen werden abgelehnt"
+      ]
+    },
+    "northwestern-mutual": {
+      "badge": "🏛️ Beste Kapitallebensversicherung",
+      "review": "Northwestern Mutual ist die richtige Wahl für eine Kapitallebensversicherung. Spezialist für lebenslangen Versicherungsschutz, exzellente Finanzstärke-Ratings, persönliche Berater vor Ort. Bei der Nachlassplanung großer Vermögen hat die Kapitallebensversicherung ihre Berechtigung. Die Berater sind gut ausgebildet, arbeiten aber auf Provisionsbasis – und empfehlen entsprechend gern die Kapitalvariante.",
+      "pros": [
+        "Spezialist für Kapitallebensversicherungen",
+        "Exzellente Finanzstärke-Ratings",
+        "Persönliche Beratung vor Ort"
+      ],
+      "cons": [
+        "Provisionsabhängige Berater drängen zur Kapitallebensversicherung",
+        "Kapitallebensversicherung ist für die meisten nicht die beste Lösung"
+      ]
+    },
+    "policygenius-marketplace": {
+      "badge": "🛒 Bester Tarifvergleich",
+      "review": "Policygenius ist die richtige Wahl, wenn Sie mehrere Versicherer vergleichen möchten. Der Online-Marktplatz stellt über 20 Anbieter gegenüber – darunter Haven, Lincoln, Pacific Life und Prudential – inklusive Tarifen ohne Gesundheitsuntersuchung. Ideal, um für das eigene Profil den günstigsten Beitrag zu finden.",
+      "pros": [
+        "Vergleicht über 20 Versicherer",
+        "Tarife ohne Gesundheitsuntersuchung verfügbar",
+        "Unabhängig, ohne Vorliebe für einen bestimmten Anbieter"
+      ],
+      "cons": [
+        "Verdient Provision von den Versicherern",
+        "Je nach Profil weichen die Angebote stark voneinander ab"
+      ]
+    },
+    "state-farm-life": {
+      "badge": "📦 Bestes Bündelangebot",
+      "review": "State Farm Life Insurance ist die richtige Wahl, wenn Sie Kfz- und Wohngebäudeversicherung bündeln. Die Kombirabatte senken die Gesamtbeiträge um 10 bis 20 Prozent. Dazu kommen Berater vor Ort und mehrere Vertragsarten – Risiko-, Kapital- und universelle Lebensversicherung.",
+      "pros": [
+        "Kombirabatte für Kfz, Wohngebäude und Leben",
+        "Persönliche Beratung vor Ort",
+        "Mehrere Vertragsarten zur Auswahl"
+      ],
+      "cons": [
+        "Als reine Risikolebensversicherung wenig konkurrenzfähig",
+        "Berater arbeiten auf Provisionsbasis"
+      ]
+    },
+    "ladder-term-life": {
+      "badge": "🪜 Beste Flexibilität",
+      "review": "Ladder Term Life ist die richtige Wahl, wenn Sie Flexibilität brauchen. Die Online-Risikolebensversicherung erlaubt „Laddering“: Sie passen die Versicherungssumme an, wenn sich Ihr Leben ändert – sind die Kinder aus dem Haus, senken Sie den Schutz. Versicherungssummen von 100.000 bis 8 Mio. €, kompletter Online-Abschluss.",
+      "pros": [
+        "Laddering: Versicherungssumme jederzeit anpassbar",
+        "Vollständig online",
+        "Versicherungssummen von 100.000 bis 8 Mio. €"
+      ],
+      "cons": [
+        "Weniger bekannt als MassMutual oder Northwestern",
+        "Faire, aber nicht die günstigsten Beiträge"
+      ]
+    }
+  },
+  "offerNotes": {
+    "haven-life": "Antrag über havenlife.com. Angebot in fünf Minuten online, die Risikoprüfung dauert in der Regel ein bis zwei Wochen.",
+    "northwestern-mutual": "Beratungstermin über nwmutual.com oder per Empfehlung vereinbaren. Für die meisten Verträge sind persönliche Gespräche nötig.",
+    "policygenius-marketplace": "Angebot über policygenius.com anfordern. Die Vergleichsangebote mehrerer Versicherer treffen binnen Minuten ein.",
+    "state-farm-life": "Beratung über statefarm.com oder die Geschäftsstelle vor Ort.",
+    "ladder-term-life": "Antrag über ladderlife.com. Kompletter Online-Prozess, Angebot in wenigen Minuten."
+  },
+  "pinDescription": "Lebensversicherung 2026: Wie viel Schutz brauchen Sie wirklich – und warum Risiko meist schlägt Kapital. 5 Anbieter im ehrlichen Vergleich.",
+  "recommendedFor": [
+    {
+      "label": "Junge Eltern mit Immobilienkredit und Angehörigen",
+      "offerId": "haven-life",
+      "reason": "Der Online-Abschluss ohne Gesundheitsuntersuchung bringt gesunde Antragsteller schnell unter Schutz – ideal, wenn Sie 500.000 € Versicherungssumme ohne Beratungstermine brauchen."
+    },
+    {
+      "label": "Vermögende mit Nachlassplanung",
+      "offerId": "northwestern-mutual",
+      "reason": "Die Kapitallebensversicherung von Northwestern Mutual baut steuerbegünstigtes Kapital auf und deckt komplexe Nachlassfragen ab – mit persönlicher Beratung."
+    },
+    {
+      "label": "Erstkunden, die den passenden Versicherer suchen",
+      "offerId": "policygenius-marketplace",
+      "reason": "Policygenius vergleicht binnen Minuten über 20 Versicherer und findet den günstigsten Beitrag für Ihr Gesundheitsprofil – ohne Anbieterbindung."
+    },
+    {
+      "label": "Eigentümer mit bestehender State-Farm-Police",
+      "offerId": "state-farm-life",
+      "reason": "Wer die Lebensversicherung mit bestehender Kfz- oder Wohngebäudeversicherung bündelt, spart 10 bis 20 Prozent auf alle Beiträge – bei einem Ansprechpartner vor Ort."
+    },
+    {
+      "label": "Eltern, deren Absicherungsbedarf mit der Zeit sinkt",
+      "offerId": "ladder-term-life",
+      "reason": "Mit dem Laddering senken Sie die Versicherungssumme, wenn die Kinder größer werden oder der Kredit schrumpft – so zahlen Sie nie für Schutz, den Sie nicht mehr brauchen."
+    }
+  ]
 }

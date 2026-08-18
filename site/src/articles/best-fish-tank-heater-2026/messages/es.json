@@ -2,5 +2,144 @@
   "title": "Mejor calentador de acuario 2026: 5 comparados",
   "description": "Comparamos Fluval, Eheim, Aqueon, Tetra, hygger. Esto es lo que realmente destaca en precisión de temperatura y durabilidad para calentador de acuario en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Calentadores de cristal frente a los de titanio",
+      "paragraphs": [
+        "Cristal (Eheim Jager, Aqueon Pro, Tetra HT, Fluval E): más baratos, suficientes para casi cualquier acuario de agua dulce, pero pueden agrietarse por choque térmico.",
+        "Titanio (hygger): más resistentes, recomendados para agua salada (la sal corroe algunos recubrimientos del cristal) y con controlador externo."
+      ]
+    },
+    {
+      "heading": "El mejor para cada caso",
+      "paragraphs": [
+        "Máxima precisión: Fluval E Electronic (45-85 €). Pantalla LCD y precisión de 0,3 °C.",
+        "El estándar del sector: Eheim Jager 200W (28-45 €). Ingeniería alemana.",
+        "Mejor gama media: Aqueon Pro (28-55 €). Carcasa antirrotura y termostato electrónico.",
+        "Mejor para empezar: Tetra HT sumergible (14-28 €). Preajustado a 26 °C.",
+        "Mejor para agua salada o acuarios grandes: hygger Titanio (45-95 €). Tubo de titanio y controlador externo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿De cuántos vatios necesito el calentador?",
+      "a": "Como regla general, 1,3 W por litro. Un acuario de 280 litros necesita unos 375 W (un calentador de 400 W o dos de 200 W)."
+    },
+    {
+      "q": "¿Uno o dos calentadores?",
+      "a": "Dos calentadores (cada uno con la mitad de la potencia) es más seguro: si uno falla, el otro mantiene la temperatura. Es lo recomendable en acuarios de más de 190 litros."
+    },
+    {
+      "q": "¿Por qué se rompen los calentadores de cristal?",
+      "a": "Por choque térmico: el calentador está en el agua, vacías el acuario de golpe, el aparato se sobrecalienta y luego entra en contacto con agua fría. Desenchúfalo siempre antes de cambiar el agua."
+    },
+    {
+      "q": "¿Cuánto duran los calentadores?",
+      "a": "Cristal: entre 2 y 4 años. Titanio: entre 5 y 10 años. Cámbialo cuando la temperatura se desvíe más de ±0,5 °C del valor fijado."
+    }
+  ],
+  "products": {
+    "fluval-e-electronic-heater": {
+      "badge": "🎯 Máxima precisión",
+      "review": "El Fluval E Electronic Heater es la opción cuando necesitas precisión. Control por microprocesador, pantalla LCD con la temperatura actual, precisión de 0,3 °C (la mayoría se mueve en ±1 °C) y carcasa antirrotura. Ideal para especies delicadas como los discos o para acuarios plantados.",
+      "pros": [
+        "Precisión de 0,3 °C",
+        "Pantalla LCD",
+        "Carcasa antirrotura"
+      ],
+      "cons": [
+        "45-85 €, precio alto",
+        "Más electrónica, más puntos de fallo"
+      ]
+    },
+    "eheim-jager-200w": {
+      "badge": "🇩🇪 El estándar del sector",
+      "review": "El Eheim Jager 200W es el estándar del sector, con la ingeniería alemana de siempre. Cuerpo de cristal, doble escala de temperatura (Celsius y Fahrenheit) y termostato fiable. Se usa en acuarios de todo el mundo. Una gama media que no falla.",
+      "pros": [
+        "Ingeniería alemana",
+        "Doble escala de temperatura",
+        "Fiabilidad de referencia"
+      ],
+      "cons": [
+        "Cristal (puede agrietarse)",
+        "Rueda manual, sin LCD"
+      ]
+    },
+    "aqueon-pro-heater": {
+      "badge": "🪜 Mejor gama media",
+      "review": "El Aqueon Pro Heater es la elección acertada en gama media. Carcasa antirrotura, termostato electrónico y apagado automático si baja el nivel del agua. Fiable para la mayoría de acuarios de agua dulce.",
+      "pros": [
+        "Carcasa antirrotura",
+        "Apagado automático",
+        "Termostato electrónico"
+      ],
+      "cons": [
+        "Sin pantalla LCD",
+        "Menos preciso que el Fluval E"
+      ]
+    },
+    "tetra-ht-heater": {
+      "badge": "💸 Mejor para empezar",
+      "review": "El Tetra HT sumergible es la opción para un primer acuario. Calentador compacto con temperatura preajustada (26 °C, sin rueda de ajuste), sumergible y listo para usar sin configurar nada. Perfecto para acuarios comunitarios de 40 a 150 litros.",
+      "pros": [
+        "14-28 €, precio ajustado",
+        "Preajustado a 26 °C",
+        "Sin configuración"
+      ],
+      "cons": [
+        "No se puede ajustar la temperatura",
+        "Solo para acuarios pequeños (40-150 l)"
+      ]
+    },
+    "hygger-titanium-heater": {
+      "badge": "🌊 Mejor para agua salada",
+      "review": "El hygger Titanium Heater es la opción para agua salada o acuarios grandes. Tubo de titanio (sin cristal que se rompa), controlador externo para fijar y leer la temperatura fuera del agua y termostato con chip IC. El indicado cuando un calentador de cristal es demasiado arriesgado.",
+      "pros": [
+        "Titanio (sin riesgo de rotura)",
+        "Controlador externo",
+        "El mejor para agua salada"
+      ],
+      "cons": [
+        "45-95 €, precio alto",
+        "El controlador externo complica la instalación"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fluval-e-electronic-heater": "Disponible en fluvalaquatics.com, Amazon y tiendas especializadas de acuariofilia. Varias potencias: 100 W, 200 W y 300 W.",
+    "eheim-jager-200w": "Disponible en eheim.com y Amazon. Varias potencias: la de 200 W es la más habitual para acuarios de hasta 190 litros.",
+    "aqueon-pro-heater": "Disponible en aqueon.com, Amazon y tiendas de acuariofilia. Varias potencias.",
+    "tetra-ht-heater": "Disponible en tetra.net, Amazon y grandes superficies de mascotas. Preajustado a 26 °C, sin ajuste manual.",
+    "hygger-titanium-heater": "Disponible en hyggeraquarium.com y Amazon. Varias potencias: 300 W y 500 W son las más comunes en acuarios medianos y grandes."
+  },
+  "pinDescription": "¿Se te enfría el acuario por las noches? Comparamos 5 calentadores (Fluval E, Eheim Jager, Aqueon Pro, Tetra HT y hygger Titanio) para acertar a la primera.",
+  "recommendedFor": [
+    {
+      "label": "Aficionados a los discos y acuarios plantados que necesitan un control fino",
+      "offerId": "fluval-e-electronic-heater",
+      "reason": "La precisión de 0,3 °C y el LCD en tiempo real detectan cualquier desvío antes de que las especies delicadas se estresen."
+    },
+    {
+      "label": "Acuaristas de agua dulce con experiencia que buscan fiabilidad contrastada",
+      "offerId": "eheim-jager-200w",
+      "reason": "Décadas de uso real avalan al Jager como el caballo de batalla que no da sustos."
+    },
+    {
+      "label": "Acuaristas de agua dulce con presupuesto medio que quieren seguridad",
+      "offerId": "aqueon-pro-heater",
+      "reason": "La carcasa antirrotura y el apagado automático por nivel bajo dan tranquilidad sin pagar lo que cuesta el Fluval."
+    },
+    {
+      "label": "Quienes montan su primer acuario comunitario",
+      "offerId": "tetra-ht-heater",
+      "reason": "Preajustado a 26 °C: se enchufa y se olvida, sin ruedas que configurar mal. Ideal para montajes de 40 a 150 litros."
+    },
+    {
+      "label": "Acuarios marinos de arrecife y tanques grandes donde manda la durabilidad",
+      "offerId": "hygger-titanium-heater",
+      "reason": "El titanio resiste la corrosión salina y el controlador externo permite ajustar la temperatura sin meter la mano en el agua."
+    }
+  ]
 }

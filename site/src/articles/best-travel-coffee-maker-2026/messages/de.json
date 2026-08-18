@@ -2,5 +2,145 @@
   "title": "Bestes Reise-Kaffeemaschine 2026: 5 im Vergleich",
   "description": "Das überzeugt 2026 wirklich bei Brühqualität und Tragbarkeit und Reise-Kaffeemaschine.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Brühmethoden und Qualität",
+      "paragraphs": [
+        "AeroPress (Go): Vollimmersion plus Druck. Kommt dem Espresso oder Americano aus dem Café am nächsten. Hervorragende Qualität.",
+        "Handfilter (V60 faltbar, Stagg): klare, saubere Tasse, braucht aber einen Wasserkocher. Mit etwas Übung sehr gutes Ergebnis.",
+        "Druck-Espresso (Nanopresso, Minipresso): Espresso per Handpumpe, mit echter Crema. Die erste Wahl für Espressoliebhaber."
+      ]
+    },
+    {
+      "heading": "Für welchen Zweck welches Gerät",
+      "paragraphs": [
+        "Beste Reisebegleitung: AeroPress Go (35–45 €). Kombination aus Reisebecher und AeroPress.",
+        "Bester leichter Handfilter: Hario V60 faltbar (15–25 €). Zusammenfaltbares Silikon.",
+        "Bester mobiler Espresso: Wacaco Nanopresso (60–90 €). Mit Handpumpe.",
+        "Bester Premium-Handfilter: Fellow Stagg Pour-Over Set (60–90 €).",
+        "Beste Wahl für Nespresso-Reisende: Wacaco Minipresso NS (55–75 €). Nutzt Nespresso-Kapseln."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "AeroPress oder Handfilter für unterwegs?",
+      "a": "Die AeroPress ist schneller, vielseitiger und liefert espressoähnlichen Kaffee. Der Handfilter ergibt eine klarere Tasse, verlangt aber mehr Übung. Beides funktioniert – entscheiden Sie nach Geschmack."
+    },
+    {
+      "q": "Brauche ich unterwegs eine Kaffeemühle?",
+      "a": "Am einfachsten ist gemahlener Kaffee von zu Hause (mittelfein für die AeroPress, fein für die Nanopresso). Eine kleine Handmühle (Timemore, 1Zpresso Q2) passt ins Gepäck, bringt aber zusätzliches Gewicht mit."
+    },
+    {
+      "q": "Spielt die Wasserqualität aus dem Hotelwasserkocher eine Rolle?",
+      "a": "Ja – in Hotelwasserkochern sitzen oft Kalkablagerungen. Einmal Wasser aufkochen, weggießen und erst dann brühen. Noch besser ist stilles Wasser aus der Flasche, wenn verfügbar."
+    },
+    {
+      "q": "Lässt sich Hotelkaffee wirklich gut hinbekommen?",
+      "a": "Ja – mit AeroPress und frischen Bohnen erreicht Kaffee aus dem Hotelzimmer Café-Niveau. Der Kaffee aus der bereitgestellten Hotelmaschine schmeckt vor allem wegen abgestandener Bohnen und schlechtem Wasser so schlecht."
+    }
+  ],
+  "products": {
+    "aeropress-go": {
+      "badge": "🏆 Beste Reisebegleitung",
+      "review": "Die AeroPress Go ist die richtige Reisekaffeemaschine. AeroPress und Reisebecher in einem, passt problemlos ins Gepäck und brüht 1–3 Tassen espressoähnlichen Kaffee. Die beste Kaffeequalität, die unterwegs zu haben ist. Funktioniert mit jedem Hotelwasserkocher.",
+      "pros": [
+        "AeroPress-Qualität im Reiseformat",
+        "Brüht espressoähnlichen Kaffee",
+        "Funktioniert mit dem Hotelwasserkocher"
+      ],
+      "cons": [
+        "35–45 € – Mittelklasse",
+        "Gemahlener Kaffee muss mit"
+      ]
+    },
+    "hario-v60-collapsible-dripper": {
+      "badge": "🪶 Bester leichter Handfilter",
+      "review": "Der Hario V60 Silikon-Faltfilter ist der richtige leichte Handfilter. Faltbarer V60 aus Silikon (lässt sich flach zusammenlegen), passend zu den überall erhältlichen Standard-V60-Filtern. Ideal für Filterkaffee-Fans mit leichtem Gepäck.",
+      "pros": [
+        "Lässt sich flach zusammenfalten",
+        "Nutzt Standard-V60-Filter",
+        "15–25 € – günstig"
+      ],
+      "cons": [
+        "Braucht einen Wasserkocher (im Hotel meist vorhanden)",
+        "Filter muss man mitnehmen oder vor Ort kaufen"
+      ]
+    },
+    "wacaco-nanopresso": {
+      "badge": "☕ Bester mobiler Espresso",
+      "review": "Die Wacaco Nanopresso ist die richtige mobile Espressomaschine. Handpumpe mit 18 bar Druck, ganz ohne Batterien, mit echter Crema. Die erste Wahl für Espressoliebhaber auf Reisen. Braucht fein gemahlenen Espresso.",
+      "pros": [
+        "Echter Espresso mit Crema",
+        "Kommt ohne Batterien aus",
+        "Handpumpe – kein Strom nötig"
+      ],
+      "cons": [
+        "60–90 € – Mittelklasse",
+        "Braucht feinen Mahlgrad (am besten Espressopulver mitnehmen)"
+      ]
+    },
+    "stagg-pour-over-set": {
+      "badge": "💎 Bestes Premium-Modell",
+      "review": "Das Fellow Stagg Pour-Over Travel Set ist die Premium-Lösung für unterwegs. Stagg-[X]-Dripper mit doppelwandigem Becher im Set. Schönes Brüherlebnis, hochwertige Verarbeitung. Die richtige Wahl, wenn Sie das etwas größere Packmaß nicht stört.",
+      "pros": [
+        "Hochwertige Verarbeitung",
+        "Schönes Brüherlebnis",
+        "Doppelwandiger Becher inklusive"
+      ],
+      "cons": [
+        "60–90 € – Premium",
+        "Sperriger als faltbare Alternativen"
+      ]
+    },
+    "minipresso-ns-capsules": {
+      "badge": "💊 Beste Wahl für Nespresso-Reisende",
+      "review": "Die Wacaco Minipresso NS ist die richtige Wahl für Nespresso-Reisende. Espresso per Handpumpe aus Nespresso-Kapseln (keine Mühle nötig, nur Kapseln einpacken), mit 18 bar Druck. Ideal, wenn zu Hause ohnehin eine Nespresso-Maschine steht.",
+      "pros": [
+        "Nutzt Nespresso-Kapseln",
+        "Handpumpe – keine Batterien",
+        "Echter Espressodruck"
+      ],
+      "cons": [
+        "Kapseln müssen mit ins Gepäck",
+        "Nespresso-Kapseln verursachen Abfall"
+      ]
+    }
+  },
+  "offerNotes": {
+    "aeropress-go": "Erhältlich über aeropress.com und Amazon. Filter sind im Lieferumfang; für längere Reisen Ersatz einpacken.",
+    "hario-v60-collapsible-dripper": "Erhältlich über hario.com und Amazon. Passend sind Standard-V60-Filter (Größe 02 für den mittleren Dripper).",
+    "wacaco-nanopresso": "Erhältlich über wacaco.com und Amazon. Adapter-Sets für verschiedene Kapseltypen sind separat verfügbar.",
+    "stagg-pour-over-set": "Erhältlich über fellowproducts.com. Das Reise-Set enthält den Becher; der Stagg-Dripper ist auch einzeln erhältlich.",
+    "minipresso-ns-capsules": "Erhältlich über wacaco.com und Amazon. Kompatibel mit Original-Nespresso-Kapseln (nicht Vertuo)."
+  },
+  "pinDescription": "Endlich guter Kaffee im Hotelzimmer: AeroPress Go, Hario V60 zum Falten, Wacaco Nanopresso, Fellow Stagg und Minipresso NS im Vergleich 2026. Passt ins Handgepäck.",
+  "recommendedFor": [
+    {
+      "label": "Vielreisende mit leichtem Gepäck",
+      "offerId": "aeropress-go",
+      "reason": "Die AeroPress Go bringt ihren eigenen Reisebecher mit und passt problemlos ins Handgepäck – den Hotelkaffee können Sie damit komplett links liegen lassen."
+    },
+    {
+      "label": "Sparsame Backpacker und Hostel-Reisende",
+      "offerId": "hario-v60-collapsible-dripper",
+      "reason": "Für 15–25 € lässt sich der Silikon-V60 vollkommen flach zusammenfalten und wiegt fast nichts – ideal, wenn jeder Euro und jedes Gramm zählt."
+    },
+    {
+      "label": "Espresso-Puristen, die auf Crema nicht verzichten",
+      "offerId": "wacaco-nanopresso",
+      "reason": "18 bar aus der Handpumpe erzeugen echte Crema – ganz ohne Strom und Kapseln, überall auf der Welt."
+    },
+    {
+      "label": "Kaffeeliebhaber, die mit kompletter Ausrüstung reisen",
+      "offerId": "stagg-pour-over-set",
+      "reason": "Der Stagg-[X]-Dripper und der mitgelieferte doppelwandige Becher machen aus dem Handaufguss ein kleines Ritual – für alle, denen das Erlebnis wichtig ist."
+    },
+    {
+      "label": "Nespresso-Nutzer, die unterwegs den gewohnten Geschmack wollen",
+      "offerId": "minipresso-ns-capsules",
+      "reason": "Funktioniert mit genau den Nespresso-Kapseln, die Sie zu Hause schon verwenden – keine Mühle, kein loses Pulver, gleiches Aroma."
+    }
+  ]
 }

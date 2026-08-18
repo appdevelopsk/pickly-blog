@@ -121,5 +121,32 @@
     "vantrue-n4-3ch": "Cómprala en amazon.com. Se recomienda el kit de cableado fijo ($30): admite el modo aparcamiento solo por impacto de fábrica.",
     "viofo-a129-pro-duo": "Cómprala en amazon.com o viofo.com. El kit de cableado fijo ($25) habilita el modo aparcamiento."
   },
-  "pinDescription": "Mejor cámara para auto 2026: Garmin 67W vs Nextbase 622GW vs BlackVue DR900X vs Vantrue N4 vs Viofo A129 Pro — legibilidad de matrículas, tolerancia al calor y lo que reportan los propietarios tras un año en el parabrisas."
+  "pinDescription": "Mejor cámara para auto 2026: Garmin 67W vs Nextbase 622GW vs BlackVue DR900X vs Vantrue N4 vs Viofo A129 Pro — legibilidad de matrículas, tolerancia al calor y lo que reportan los propietarios tras un año en el parabrisas.",
+  "recommendedFor": [
+    {
+      "label": "Conductores de VTC que necesitan cubrir todo el vehículo",
+      "offerId": "vantrue-n4-3ch",
+      "reason": "Los tres canales graban a la vez la parte delantera, el habitáculo y la trasera, con visión nocturna por infrarrojos en el interior: protección imprescindible para quien conduce con Uber o Cabify."
+    },
+    {
+      "label": "Quien vive en ciudad y aparca en la calle",
+      "offerId": "blackvue-dr900x-2ch",
+      "reason": "Las alertas en la nube llegan al móvil en el mismo momento en que alguien golpea el coche, así que puedes reaccionar ante un incidente en el aparcamiento aunque estés a varias calles."
+    },
+    {
+      "label": "Conductores manitas con la tecnología que quieren manos libres",
+      "offerId": "garmin-dash-cam-67w",
+      "reason": "Los comandos de voz funcionan de verdad y te permiten guardar clips sin tocar el aparato; además incorpora GPS y avisos al conductor, con el acabado que se espera de un Garmin."
+    },
+    {
+      "label": "Conductores del Reino Unido y quienes priorizan la seguridad",
+      "offerId": "nextbase-622gw",
+      "reason": "La función SOS Response avisa automáticamente a los servicios de emergencia tras un impacto grave: algo poco habitual que puede salvarte la vida si conduces solo o por carreteras poco transitadas."
+    },
+    {
+      "label": "Quien busca ajustar el presupuesto y vive en un clima suave",
+      "offerId": "viofo-a129-pro-duo",
+      "reason": "Graba en 2K delante y 2K detrás por aproximadamente la mitad de lo que cuesta una BlackVue, así que la grabación de doble canal deja de ser un lujo."
+    }
+  ]
 }

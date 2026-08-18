@@ -68,5 +68,114 @@
     "fuji-royal-r220": "Calidad cafetería — excesivo para 1-2 tazas al día, pero dura una década y abastece a una casa."
   },
   "pinDescription": "Cinco molinillos de café de gama básica a gama alta comparados en 2026. El manual batió a la mitad de los eléctricos. Datos de uniformidad de partícula y gráficas de tiempo de preparación.",
-  "methodology": "Evaluamos cada producto según su durabilidad en el uso real, su facilidad de uso diario, su rendimiento frente a las promesas publicitarias, la calidad de fabricación y su valor a largo plazo. Contrastamos las especificaciones del fabricante con reseñas verificadas de usuarios."
+  "methodology": "Evaluamos cada producto según su durabilidad en el uso real, su facilidad de uso diario, su rendimiento frente a las promesas publicitarias, la calidad de fabricación y su valor a largo plazo. Contrastamos las especificaciones del fabricante con reseñas verificadas de usuarios.",
+  "products": [
+    {
+      "offerId": "timemore-c2",
+      "badge": "La mejor en general",
+      "review": "El Timemore C2 es la opción por defecto para preparar V60 y Aeropress a diario. El ajuste se hace por clics numerados en un collar escalonado, así que volver a un punto concreto es inmediato. No necesita electricidad, no hace ruido y no tiene piezas de desgaste que reemplazar en varios años de uso doméstico. Para una o dos tazas al día, es la mejora con más impacto de toda esta franja de precio.",
+      "pros": [
+        "La uniformidad de partícula supera a cualquier eléctrico de gama baja o media",
+        "El ajuste escalonado permite repetir el punto de molido",
+        "El cuerpo de aluminio moleteado es cómodo de girar",
+        "No usa electricidad y es prácticamente silencioso"
+      ],
+      "cons": [
+        "Moler a mano se hace pesado a partir de dos tazas",
+        "La capacidad se queda en unos 30 g por molienda"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "hario-v60-ceramic-slim",
+      "badge": "Mejor opción de entrada",
+      "review": "El Hario V60 Ceramic Slim es el molinillo que hay que comprar si todavía no sabes si el método manual va a durarte. La muela de cerámica es realmente resistente —cinco años o más usándolo los fines de semana es realista— y el cuerpo estrecho de cristal pesa poco para llevarlo de camping o de viaje. La distribución de partícula es aceptable para V60 y prensa francesa, pero claramente más dispersa que la del Timemore, con más finos que pueden enturbiar un pour-over. El ajuste es una rueda sin pasos bajo la muela, incómoda de dejar siempre en el mismo punto. A este precio la barrera de entrada es tan baja que, en el peor de los casos, te sale una lección barata.",
+      "pros": [
+        "El precio de entrada más bajo que tiene sentido para un molinillo de muelas",
+        "La muela de cerámica aguanta cinco años o más con uso ocasional",
+        "Estrecho y ligero, fácil de llevar de viaje",
+        "Recambios disponibles y baratos"
+      ],
+      "cons": [
+        "El ajuste sin pasos dificulta volver a un punto conocido",
+        "Genera más finos que el Timemore"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "melitta-vario-e",
+      "badge": "Mejor eléctrico de gama media",
+      "review": "El Melitta Vario E es el eléctrico de gama media que por fin ha resuelto el problema del ruido. Con 64 dB es bastante más silencioso que su antecesor de 2022 y se puede usar a primera hora de la mañana en un piso compartido sin despertar a nadie. El ajuste de doble escalón —plato grueso más un microajuste fino— cubre desde espresso hasta prensa francesa, y la molienda directa al portafiltros, sin dosificador, es el diseño correcto para quien muele dosis a dosis. La construcción tira mucho de plástico para lo que cuesta, y la tolva retiene algo de café molido entre usos. Para casas que quieren la rapidez de un eléctrico sin entrar en precios de gama alta, este es el paso lógico.",
+      "pros": [
+        "El eléctrico más silencioso de esta comparativa, con 64 dB",
+        "El ajuste de doble escalón va del espresso a la prensa francesa",
+        "Molienda directa al portafiltros, dosis a dosis",
+        "Construcción fiable y recambios fáciles de encontrar"
+      ],
+      "cons": [
+        "La tolva retiene algo de molido entre usos",
+        "Demasiado plástico para el precio"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "delonghi-kg79j",
+      "badge": "Mejor eléctrico económico",
+      "review": "El De'Longhi KG79J es el molinillo eléctrico más barato que merece la pena recomendar. Sus dieciocho posiciones cubren de sobra el rango de goteo y pour-over; el espresso es posible en el punto más fino, pero no es su fuerte. La uniformidad de partícula es su punto débil —claramente más dispersa que la del Timemore y ni de lejos al nivel del Melitta—, pero para quien usa V60 o Aeropress, quiere la rapidez de un eléctrico y no piensa gastar más, cumple con lo básico. Es más ruidoso que el Vario E, la tolva es pequeña y la muela es el consumible que limita su valor a largo plazo. Por lo que cuesta, es el equilibrio adecuado para moler con eléctrico de forma ocasional.",
+      "pros": [
+        "El molinillo eléctrico de muelas más barato que merece la pena",
+        "Dieciocho posiciones que cubren bien goteo y pour-over",
+        "Molienda rápida para la rutina de cada mañana",
+        "Ocupa poco sitio en la encimera"
+      ],
+      "cons": [
+        "Distribución de partícula más dispersa que la del Timemore",
+        "Ruidoso frente a los eléctricos de gama media"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "fuji-royal-r220",
+      "badge": "Mejor para profesionales",
+      "review": "El Fuji Royal R-220 (Mirukko) es el molinillo de referencia de nivel cafetería, y con razón. Las cuchillas de acero fundido se mantienen afiladas durante una década de uso comercial diario, el motor de 240 W tritura 20 g en unos tres segundos y la distribución de partícula es, por bastante margen, la más cerrada de esta comparativa. Los peajes son claros: hace ruido —más cerca de un secador pequeño que de un electrodoméstico de cocina— y el precio queda muy por encima del de los molinillos domésticos. Para casas que preparan cuatro tazas o más al día, o para quien sea lo bastante obsesivo como para querer un molinillo que sobreviva al resto de su cocina, esta es la compra de llorar una vez y olvidarse.",
+      "pros": [
+        "La distribución de partícula más cerrada de esta comparativa",
+        "Las muelas de acero fundido aguantan afiladas una década",
+        "Muele 20 g en unos tres segundos",
+        "Pensado para uso diario de cafetería"
+      ],
+      "cons": [
+        "Ruidoso: comparable a un secador pequeño",
+        "Excesivo y caro para casas de una o dos tazas"
+      ],
+      "grade": "A"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Quien prepara V60 a diario",
+      "offerId": "timemore-c2",
+      "reason": "Mejor uniformidad de partícula que cualquier eléctrico de gama baja o media, y los 45 segundos de manivela caben de sobra mientras hierve el agua."
+    },
+    {
+      "label": "Quien empieza por curiosidad",
+      "offerId": "hario-v60-ceramic-slim",
+      "reason": "El precio de entrada más bajo posible en un molinillo de muelas de verdad, con una muela de cerámica que aguanta años de uso los fines de semana."
+    },
+    {
+      "label": "Quien muele con eléctrico por la mañana",
+      "offerId": "melitta-vario-e",
+      "reason": null
+    },
+    {
+      "label": "Quien busca un eléctrico económico",
+      "offerId": "delonghi-kg79j",
+      "reason": "El eléctrico de muelas más barato que merece la pena, y sus 18 posiciones cubren goteo y Aeropress sin complicaciones."
+    },
+    {
+      "label": "La casa de varias tazas al día",
+      "offerId": "fuji-royal-r220",
+      "reason": "Muelas de acero fundido de nivel cafetería y un motor de 240 W que asumen cuatro tazas diarias o más durante una década sin perder filo."
+    }
+  ]
 }

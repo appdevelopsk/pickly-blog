@@ -60,6 +60,122 @@
       "a": "Sonicare: 5-7 años antes de que la batería se degrade. Oral-B (motor rotatorio) suele durar 3-5 años. La batería del iO 9 es reemplazable; las demás no. Considera esto en el coste total repartido a lo largo de su vida útil."
     }
   ],
+  "offerNotes": {
+    "oral-b-io-series-9": "El cepillo estrella de Oral-B, con cabezal oscilante-rotatorio y motor magnético (más silencioso y potente que los motores tradicionales), mapeo inteligente de la boca en 16 zonas mediante la app de Oral-B, anillo sensor de presión en el mango y seis modos de limpieza. El cabezal redondo oscilante es la geometría más estudiada en la literatura clínica sobre cepillos eléctricos. Más de 300 € solo el cepillo; súmale entre 56 y 104 € por dos años de recambios compatibles con iO a precio de tienda sin suscripción; la app insiste bastante en que compartas datos durante la configuración inicial y tus hábitos de cepillado acaban en los servidores de Oral-B; el cabezal redondo no se adapta bien a dientes apiñados o irregulares, una limitación real si has llevado ortodoncia.",
+    "philips-sonicare-diamondclean-9000": "El buque insignia sónico de Philips Sonicare, con cuatro modos de limpieza (Clean, White+, Gum Health y Deep Clean+), sensor de presión que reduce la velocidad del motor cuando aprietas demasiado, un característico vaso de carga de cristal y una presentación tan cuidada que lo convierte en el mejor regalo de esta comparativa. La tecnología sónica a 31.000 movimientos por minuto es más suave con las encías que la oscilante-rotatoria, así que encaja bien si tienes encías sensibles o retracción gingival. Más de 250 € el cepillo; el vaso de carga de cristal es poco práctico de verdad para viajar: es frágil, ocupa espacio y no puede cargar el cepillo fuera de casa sin un cable de viaje aparte; el coste de los recambios a dos años es similar al de Oral-B.",
+    "panasonic-doltz-ew-dp52": "El cepillo sónico de entrada de Philips Sonicare, con sensor de presión, temporizador de dos minutos con QuadPacer, aviso de desgaste del cabezal BrushSync, cabezales a presión y cero app ni Bluetooth de por medio. Sonicare es una marca veterana en cepillos eléctricos y sus recambios se encuentran en cualquier parte. A cambio: un único modo de limpieza, sin posibilidad de elegir; nada de coaching con IA ni feedback en la app, así que la mejora depende de tu constancia y del aviso de presión; y no incluye estuche de viaje.",
+    "quip-electric-toothbrush": "El cepillo eléctrico minimalista de Quip, con un perfil plano que cabe en cualquier neceser sin estuche, sello de aceptación de la ADA, temporizador integrado de dos minutos con intervalos de 30 segundos por cuadrante y una suscripción (unos 5 € al trimestre) que te manda cabezal nuevo y pila AAA cada tres meses. Funciona con una sola pila AAA en lugar de batería recargable, así que te ahorras el cargador en el equipaje. El modo de vibración es básico: no cumple la definición clínica de tecnología oscilante ni sónica que maneja la literatura revisada por Cochrane, de modo que el cepillo no ofrece esa ventaja mecánica; no lleva sensor de presión, la ausencia clínicamente más importante de esta comparativa; y los recambios solo llegan por suscripción, no se venden en farmacias, lo que se convierte en un problema si pierdes un cabezal de viaje.",
+    "oclean-x-pro-elite": "El cepillo estrella de Oclean con coaching por IA: motor piezoeléctrico (bastante más silencioso que los oscilantes o sónicos), pantalla AMOLED en el mango que muestra en tiempo real la cobertura del cepillado y la presión, coaching con IA que detecta las zonas que te saltas sin necesidad de tener el móvil en la mano y unos 30 días de autonomía por carga. Por unos 80 €, ofrece coaching con IA a la cuarta parte del precio del Oral-B iO Series 9. Oclean es una marca joven (fundada en 2017), con menos historial de fiabilidad a largo plazo que Oral-B o Philips; los datos del coaching con IA se alojan en servidores chinos, algo a valorar en cuanto a residencia de datos al margen de la calidad del producto; y los recambios se consiguen sobre todo online, no en farmacias físicas en la mayoría de mercados fuera de China."
+  },
   "pinDescription": "El más barato limpió un 32% mejor que manual. El más caro es excesivo para la mayoría.",
-  "methodology": "Cada producto se evalúa según la transparencia de sus ingredientes, su historial dermatológico, la coherencia de los resultados en usuarios reales, la calidad del envase y la relación calidad-precio por uso."
+  "methodology": "Cada producto se evalúa según la transparencia de sus ingredientes, su historial dermatológico, la coherencia de los resultados en usuarios reales, la calidad del envase y la relación calidad-precio por uso.",
+  "products": [
+    {
+      "offerId": "oral-b-io-series-9",
+      "badge": "Mejor coaching con IA",
+      "review": "El iO Series 9 es el cepillo que más mide tu comportamiento de toda la comparativa. El cabezal oscilante-rotatorio con motor magnético gira el cabezal redondo a unas 9.000 oscilaciones por minuto vibrando bastante menos en la mano que los antiguos motores Oral-B Pro, y el mapeo por Bluetooth de 16 zonas en la app señala qué superficies te has saltado en cada sesión. El anillo sensor de presión del mango pasa de blanco a rojo cuando la fuerza supera el umbral que desgasta el esmalte, la única función de la categoría con respaldo clínico sólido. Completan el conjunto seis modos de limpieza y un estuche de viaje con carga. El cabezal redondo va bien con dentaduras regulares; con dientes apiñados o girados el contacto es menos uniforme que con un cabezal sónico.",
+      "pros": [
+        "Mapeo con IA de 16 zonas y feedback sesión a sesión",
+        "Anillo sensor de presión con aviso de color visible en el mango",
+        "El motor magnético suena menos que los antiguos motores Pro",
+        "Sello de aceptación de la ADA y geometría oscilante muy estudiada"
+      ],
+      "cons": [
+        "El cabezal redondo se adapta peor a dientes apiñados o girados",
+        "La app exige cuenta de Oral-B e insiste en compartir datos al configurarla"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "philips-sonicare-diamondclean-9000",
+      "badge": "Mejor para regalar",
+      "review": "El DiamondClean 9000 es el buque insignia sónico de Philips Sonicare con la presentación más cuidada: el vaso de carga de cristal, el mango con peso y el empaquetado lacado lo convierten en el mejor regalo de esta comparativa. La vibración sónica a 31.000 movimientos por minuto es más suave con las encías que la oscilante-rotatoria, así que encaja mejor si tienes retracción gingival o sensibilidad. Sus cuatro modos son Clean, White+, Gum Health y Deep Clean+, y el sensor de presión frena el motor cuando aprietas de más, en vez de limitarse a encender un piloto. El vaso de cristal es frágil y poco práctico para viajar: para cualquier escapada que supere la autonomía necesitarás estuche y cable aparte.",
+      "pros": [
+        "Los 31.000 movimientos/min sónicos son más suaves con encías sensibles o retraídas",
+        "El motor frena al notar exceso de presión, no solo parpadea una luz",
+        "El vaso de carga de cristal y el empaquetado lucen mucho como regalo",
+        "Cuatro modos de limpieza que cubren casi cualquier preferencia"
+      ],
+      "cons": [
+        "El vaso de carga de cristal es frágil e inútil para viajar",
+        "El modelo de datos de la app y el registro son equiparables a los de Oral-B"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "panasonic-doltz-ew-dp52",
+      "badge": "Mejor sin app",
+      "review": "El Sonicare ProtectiveClean 4100 es el sónico de entrada para quien quiere sensor de presión y temporizador de dos minutos sin Bluetooth, sin cuentas ni subidas de datos. Tiene un único modo de limpieza, así que no hay menús que aprender: pulsas un botón y a cepillarse. La vibración sónica elimina placa con solvencia a precio contenido, la luz BrushSync avisa cuando el cabezal está gastado y los recambios a presión se encuentran en casi cualquier farmacia y tienda online. El trato es honesto: un solo modo, sin estuche de viaje en la caja y sin coaching con IA ni mapeo de zonas; la mejora depende de tu constancia y del aviso de presión.",
+      "pros": [
+        "Aviso por sensor de presión sin necesidad de app",
+        "Un único modo y un solo botón: sencillísimo de usar",
+        "La luz BrushSync avisa cuando el cabezal está gastado",
+        "Tecnología sónica, más suave con las encías que la oscilante-rotatoria"
+      ],
+      "cons": [
+        "Un solo modo de limpieza y sin estuche de viaje incluido",
+        "Sin coaching con IA ni feedback de mapeo por zonas"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "quip-electric-toothbrush",
+      "badge": "Mejor para viajar",
+      "review": "El Quip Electric es la opción minimalista pensada para viajar: perfil plano que cabe en cualquier neceser sin estuche, temporizador integrado de dos minutos con intervalos de 30 segundos por cuadrante y una suscripción que te envía cabezal nuevo y pila AAA cada tres meses por unos 5 €. Al funcionar con una sola pila AAA en vez de batería recargable, te olvidas del cargador en el equipaje, y cuenta con el sello de aceptación de la ADA. Las carencias son reales: no lleva sensor de presión (la ausencia clínica más relevante de la comparativa), su vibración básica no cumple la definición clínica de oscilante ni sónica, y como los recambios solo llegan por suscripción no puedes comprar uno de repuesto en una farmacia a mitad de viaje.",
+      "pros": [
+        "Perfil plano que cabe en cualquier neceser sin estuche de viaje",
+        "Una sola pila AAA: adiós a los cables de carga",
+        "Con 5 € al trimestre, el menor coste en cabezales a dos años de la lista",
+        "Sello de aceptación de la ADA y temporizador de 30 segundos por cuadrante"
+      ],
+      "cons": [
+        "Sin sensor de presión: la carencia clínica más importante de la comparativa",
+        "Recambios solo por suscripción, no se venden en farmacias"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "oclean-x-pro-elite",
+      "badge": "Mejor relación calidad-precio",
+      "review": "El X Pro Elite reúne coaching de cepillado con IA, pantalla AMOLED que muestra en tiempo real la cobertura por zonas y la presión, un motor piezoeléctrico silencioso y unos 30 días de autonomía por carga, todo por unos 80 €: un cambio de categoría frente a los 250 € o más que costaba hasta hace poco cepillarse con IA. La pantalla AMOLED del mango te da el feedback sin tener que coger el móvil, una ventaja de uso real frente a los sistemas que dependen solo del Bluetooth. Su motor piezoeléctrico es el más silencioso del grupo. Los peros existen: menos trayectoria que Oral-B o Philips, datos de la app en servidores chinos (una cuestión de jurisdicción, al margen de la calidad del producto) y recambios sobre todo online, no en farmacias.",
+      "pros": [
+        "La pantalla AMOLED muestra cobertura y presión sin tocar el móvil",
+        "Motor piezoeléctrico bastante más silencioso que los oscilantes o sónicos",
+        "Unos 30 días de autonomía: la mejor de la comparativa",
+        "El menor coste total a dos años del grupo"
+      ],
+      "cons": [
+        "Los datos de la app se alojan en servidores chinos: a tener en cuenta si te importa la jurisdicción",
+        "Los recambios no se venden en farmacias físicas en la mayoría de mercados"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Si tu dentista te ha dicho que siempre te saltas las mismas zonas",
+      "offerId": "oral-b-io-series-9",
+      "reason": "El mapeo por Bluetooth de 16 zonas es el feedback más detallado de la categoría y ataca directamente un problema de técnica ya diagnosticado."
+    },
+    {
+      "label": "Si tienes las encías sensibles o retraídas",
+      "offerId": "philips-sonicare-diamondclean-9000",
+      "reason": "Los 31.000 movimientos/min sónicos y un sensor de presión que frena el motor tratan mejor una encía delicada que la tecnología oscilante-rotatoria."
+    },
+    {
+      "label": "Si valoras tu privacidad y no quieres apps",
+      "offerId": "panasonic-doltz-ew-dp52",
+      "reason": "Aviso por sensor de presión y temporizador integrado sin Bluetooth, sin crear cuentas y sin enviar datos a los servidores de nadie."
+    },
+    {
+      "label": "Si viajas mucho o eres minimalista",
+      "offerId": "quip-electric-toothbrush",
+      "reason": "Perfil plano que cabe en cualquier bolsa, funciona con una pila AAA (así que no hace falta cargador) y la suscripción de 5 € al trimestre se encarga del cabezal y la pila."
+    },
+    {
+      "label": "Si quieres coaching con IA sin gastar mucho",
+      "offerId": "oclean-x-pro-elite",
+      "reason": "Feedback por zonas en pantalla AMOLED y coaching con IA a la cuarta parte del precio del Oral-B iO, con la mejor autonomía de la comparativa."
+    }
+  ]
 }

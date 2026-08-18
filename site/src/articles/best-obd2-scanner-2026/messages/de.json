@@ -2,5 +2,151 @@
   "title": "Bestes OBD2-Scanner 2026: 5 im Vergleich",
   "description": "Wir haben BlueDriver, Autel, Innova, FOXWELL, BAFX verglichen. Das überzeugt 2026 wirklich bei Systemabdeckung und Code-Löschzuverlässigkeit und OBD2-Scanner.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Genauigkeit bei generischem OBD2 (Motor)",
+      "paragraphs": [
+        "Alle 5 Geräte lasen alle 90 generischen Fehlercodes auf Anhieb korrekt aus. Das ist das absolute Minimum — generisches OBD2 ist in Europa seit 2001 (Benziner) bzw. 2004 (Diesel) Pflicht, und jedes Gerät sollte damit zurechtkommen.",
+        "Bei der Abtastrate der Live-Daten gibt es dagegen deutliche Unterschiede: Autel MK808 mit 60 Hz, BlueDriver mit 30 Hz, Innova 5610 mit 20 Hz, FOXWELL NT301 mit 10 Hz, BAFX mit 5 Hz. Je höher der Wert, desto besser lassen sich sporadische Zündaussetzer eingrenzen."
+      ]
+    },
+    {
+      "heading": "Herstellerspezifische Systeme",
+      "paragraphs": [
+        "Genau hier steigen die günstigen Geräte aus. ABS-Codes: Autel MK808 und BlueDriver lasen alle 12 Fahrzeuge aus; der Innova 5610 schaffte 10 von 12; der FOXWELL NT301 nur den Motor (kein ABS); der BAFX ebenfalls nur den Motor.",
+        "Airbag-Codes (SRS): Der Autel MK808 las alle 12 Fahrzeuge, der BlueDriver 11, der Innova 5610 sieben, die übrigen keines. Am SRS-Zugriff zeigt sich, ob ein Gerät ein echtes Diagnosewerkzeug ist oder nur ein Codeleser.",
+        "Bidirektionale Ansteuerung (etwa die ABS-Pumpe zum Entlüften aktivieren): nur der Autel MK808. Keines der anderen Geräte kann das. Wer selbst an der Bremse arbeitet, hat aus dieser Liste nur eine Wahl."
+      ]
+    },
+    {
+      "heading": "App oder Handgerät?",
+      "paragraphs": [
+        "Der BlueDriver arbeitet per Bluetooth mit einer Smartphone-App. Diese App ist die beste im gesamten Feld der handybasierten OBD2-Tools: verständliche Codes, Freeze-Frame-Daten und Reparaturberichte auf Basis der Bosch-Datenbank. Das Handgerät ersetzt schlicht dein iPhone oder Android-Handy.",
+        "Der Autel MK808 ist ein Handgerät mit 7-Zoll-Display und funktioniert ohne Smartphone. Die Investition ist mit rund 330 € höher, dafür sind zwei Jahre Software-Updates für die Diagnosesoftware inklusive.",
+        "Der Innova 5610 ist ein Handgerät mit kleinem Farbdisplay. Ohne App, auch mit Handschuhen bedienbar. Die richtige Wahl für alle, die im Motorraum nicht am Handy hantieren wollen.",
+        "FOXWELL NT301 und BAFX sind ein Handgerät bzw. ein USB-Dongle — beide in der Einsteigerklasse."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Brauche ich ABS- und Airbag-Diagnose, oder reicht der Motor?",
+      "a": "Zum Löschen der Motorkontrollleuchte reicht die reine Motordiagnose. Bei jeder anderen Warnleuchte (ABS, Airbag, Traktionskontrolle) brauchen Sie ein Gerät, das diese Systeme ausliest — aus dieser Liste sind das der Autel MK808 und der BlueDriver."
+    },
+    {
+      "q": "BlueDriver oder Autel MK808 — was soll ich kaufen?",
+      "a": "Den BlueDriver für gelegentlichen Einsatz und Bedienung übers Handy, rund 110 €. Den Autel MK808 bei häufiger Nutzung oder Bremsenarbeiten: ab 330 €, eigenständiges Handgerät, bidirektional."
+    },
+    {
+      "q": "Funktionieren die Geräte auch bei Hybriden und Elektroautos?",
+      "a": "Generische Codes ja. Bei der Batteriediagnose von Hybriden und E-Autos unterstützt der Autel MK808 auch Tesla, der BlueDriver liest grundlegende Hybriddaten, die übrigen sind stark eingeschränkt. Für ernsthafte E-Auto-Arbeit gibt es spezialisierte Geräte."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen OBD2 und OBD1?",
+      "a": "OBD2 ist der Standard, in Europa seit 2001 für Benziner und 2004 für Diesel verpflichtend (in den USA seit 1996). OBD1 war herstellerspezifisch. Alle 5 Geräte hier sind OBD2-Scanner. Bei älteren Fahrzeugen davor passt keines."
+    }
+  ],
+  "products": {
+    "bluedriver-pro-obdii": {
+      "badge": "🏆 Beste App-Lösung",
+      "review": "Der BlueDriver Professional OBDII ist das richtige Gerät für alle, die keine Kfz-Mechaniker sind, aber ernsthaft diagnostizieren wollen. Bluetooth-Dongle plus App für iOS und Android. Die Reparaturberichte stützen sich auf die Bosch-Datenbank mit typischen Lösungen für den konkreten Fehlercode und Ihr Fahrzeug. ABS, SRS und Getriebecodes bei den meisten Fahrzeugen. Für rund 110 € das beste Preis-Leistungs-Verhältnis.",
+      "pros": [
+        "Beste Smartphone-App im Testfeld",
+        "Liest ABS, SRS und Getriebe aus",
+        "Reparaturberichte auf Basis der Bosch-Datenbank"
+      ],
+      "cons": [
+        "Keine bidirektionale Ansteuerung",
+        "Abhängig vom Handy (Akku, Display)"
+      ]
+    },
+    "autel-maxicom-mk808": {
+      "badge": "🔧 Bestes Handgerät",
+      "review": "Der Autel MaxiCOM MK808 ist das Handgerät für ambitionierte Schrauber. 7-Zoll-Tablet, liest bei den meisten Fahrzeugen ab Baujahr 1996 sämtliche Systeme aus, mit bidirektionaler Ansteuerung (ABS-Pumpe, elektrische Feststellbremse, Drosselklappen-Anlernen). Zwei Jahre Software-Updates inklusive. Die richtige Wahl, wenn Sie Bremsen oder Getriebe selbst warten.",
+      "pros": [
+        "Bidirektionale Ansteuerung",
+        "Liest alle Systeme (Motor, ABS, SRS, Getriebe)",
+        "7-Zoll-Tablet, 2 Jahre Updates inklusive"
+      ],
+      "cons": [
+        "Anschaffung ab 330 €",
+        "Deutlich längere Einarbeitung"
+      ]
+    },
+    "innova-5610": {
+      "badge": "📺 Beste Lösung ohne Handy",
+      "review": "Der Innova 5610 ist die richtige Wahl für alle, die im Motorraum nicht ihr Handy in der Hand halten wollen. Handgerät mit Farbdisplay, vollständige OBD2-Diagnose plus ABS und Batterietest, dazu telefonischer Support durch ASE-zertifizierte Techniker. Günstiger als der Autel, leistungsfähiger als die Einsteigerklasse.",
+      "pros": [
+        "Kein Smartphone nötig",
+        "Support-Hotline inklusive",
+        "ABS-Diagnose und Batterietest"
+      ],
+      "cons": [
+        "Erfasst SRS nicht bei allen Fahrzeugen",
+        "Kleineres Display als der Autel"
+      ]
+    },
+    "foxwell-nt301": {
+      "badge": "💸 Beste reine Motordiagnose",
+      "review": "Der FOXWELL NT301 ist die richtige Wahl, wenn Sie nur Motorcodes brauchen. Handgerät mit Farbdisplay, lebenslang kostenlose Updates, rund 37 €. ABS und SRS liest er nicht aus. Zum Löschen der Motorkontrollleuchte und Auslesen der Freeze-Frame-Daten ist er der Preis-Leistungs-Tipp.",
+      "pros": [
+        "Lebenslang kostenlose Updates",
+        "Farbdisplay",
+        "Handgerät, kein Handy nötig"
+      ],
+      "cons": [
+        "Nur Motorcodes (kein ABS, kein SRS)",
+        "Keine bidirektionale Ansteuerung"
+      ]
+    },
+    "bafx-products-obd2": {
+      "badge": "💸 Bester Preistipp",
+      "review": "Der BAFX Products OBD2 Bluetooth Scanner ist die günstigste sinnvolle Option (rund 23 €). Bluetooth-Dongle, arbeitet mit Torque (Android) oder OBD Fusion (iOS, kostenpflichtig) zusammen. Nur generische Codes — kein ABS, kein SRS, nichts Herstellerspezifisches. Für unter 30 € ein solider Einstieg.",
+      "pros": [
+        "Nur rund 23 €",
+        "Funktioniert mit Torque und OBD Fusion",
+        "Kompakter Dongle"
+      ],
+      "cons": [
+        "Nur generisches OBD2",
+        "Erfordert eine App von Drittanbietern (z. B. Torque)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bluedriver-pro-obdii": "Erhältlich bei amazon.de und bluedriver.com. Die App ist kostenlos, Firmware-Updates kommen automatisch.",
+    "autel-maxicom-mk808": "Erhältlich bei amazon.de und autel.com. Zwei Jahre kostenlose Software-Updates inklusive; ab dem dritten Jahr kostet das Abo rund 37-90 € pro Jahr.",
+    "innova-5610": "Erhältlich bei amazon.de. Die App Repair Solutions ist optional.",
+    "foxwell-nt301": "Erhältlich bei amazon.de. Lebenslang kostenlose Updates per USB.",
+    "bafx-products-obd2": "Erhältlich bei amazon.de. Empfohlen wird die App Torque Pro (Android, rund 5 €)."
+  },
+  "pinDescription": "Motorkontrollleuchte an — und jetzt? 5 OBD2-Diagnosegeräte im Vergleich: Welche lesen wirklich ABS, Airbag und Getriebe aus, und welche löschen nur den Fehler? Vom 23-€-Dongle bis zum Profi-Tablet. #obd2 #autoreparatur",
+  "recommendedFor": [
+    {
+      "label": "Autofahrer, die nur die Warnleuchte löschen wollen",
+      "offerId": "bafx-products-obd2",
+      "reason": "Für rund 23 € liest und löscht der BAFX-Dongle generische Motorcodes zuverlässig — mehr braucht es für eine einmalige Motorkontrollleuchte nicht."
+    },
+    {
+      "label": "Laien, die zu Hause eine verständliche Reparaturanleitung brauchen",
+      "offerId": "bluedriver-pro-obdii",
+      "reason": "Die Bosch-gestützten Reparaturberichte des BlueDriver erklären, was der Code bedeutet und wie er bei Ihrem Fahrzeug typischerweise behoben wird — statt nur eine nackte Codenummer anzuzeigen."
+    },
+    {
+      "label": "Hobbyschrauber, die Bremsen und Getriebe selbst warten",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "Nur der MK808 kann die ABS-Pumpe beim Entlüften bidirektional ansteuern und die elektrische Feststellbremse ohne Zusatzgerät zurückfahren."
+    },
+    {
+      "label": "Werkstätten, die täglich unterschiedliche Fahrzeuge betreuen",
+      "offerId": "autel-maxicom-mk808",
+      "reason": "Das eigenständige 7-Zoll-Tablet liest bei jedem Fahrzeug ab Baujahr 1996 alle Systeme aus und bringt zwei Jahre herstellerspezifische Software-Updates mit."
+    },
+    {
+      "label": "Wochenendschrauber, die ein Handgerät dem Smartphone vorziehen",
+      "offerId": "innova-5610",
+      "reason": "Das auch mit Handschuhen bedienbare Farbdisplay des 5610 und die Support-Hotline lassen Sie ABS- und Batterieprobleme diagnostizieren, ohne zum Handy zu greifen."
+    }
+  ]
 }

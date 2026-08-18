@@ -2,5 +2,144 @@
   "title": "Bestes Girokonto 2026: 5 im Vergleich",
   "description": "Das überzeugt 2026 wirklich bei Gebühren, Geldautomat und APY und Girokonto.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Direktbanken und Filialbanken im Vergleich",
+      "paragraphs": [
+        "Direktbanken (Ally, SoFi, Schwab): keine Kontoführungsgebühren, höhere Verzinsung (0,10–4,20 % p. a.), keine Filialen, dafür Zelle und starke Online-Werkzeuge.",
+        "Filialbanken (Chase, Wells Fargo): Filialnetz und persönliche Beratung, dafür 10–12 $ Kontoführung pro Monat (entfällt bei Geldeingang oder Mindestguthaben)."
+      ]
+    },
+    {
+      "heading": "Das passende Konto je nach Bedarf",
+      "paragraphs": [
+        "Für Vielreisende: Schwab Bank. Weltweit unbegrenzte Erstattung von Automatengebühren, keine Fremdwährungsgebühr.",
+        "Beste Direktbank: Ally Bank. 0,10–0,25 % p. a., 0 $ Kontoführung, über 43.000 gebührenfreie Geldautomaten.",
+        "Beste Hausbank-Beziehung: Chase Total Checking. Über 4.700 Filialen, großes Automatennetz.",
+        "Beste Kombilösung: SoFi. Bis zu 4,20 % p. a. auf das Sparguthaben, 0 $ Gebühren.",
+        "Für bestehende Wells-Kunden: Wells Fargo Everyday. Über 4.700 Filialen."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Lohnen sich mehrere Girokonten?",
+      "a": "Für viele ja: ein Hauptkonto, ein Reisekonto (Schwab) und ein Tagesgeldkonto online (Ally oder SoFi). So nutzen Sie die jeweiligen Stärken, ohne Gebühren zu zahlen."
+    },
+    {
+      "q": "Sind Direktbanken sicher?",
+      "a": "Ja – die Einlagen sind über die FDIC bis 250.000 $ abgesichert, genau wie bei Filialbanken. Direktbanken haben geringere Kosten und können deshalb bessere Konditionen bieten."
+    },
+    {
+      "q": "Wie wichtig ist die Verzinsung des Girokontos?",
+      "a": "Kaum. Ein Girokonto ist für Liquidität da, nicht für Rendite. Halten Sie 2.000–4.000 $ auf dem Girokonto, den Rest auf einem gut verzinsten Sparkonto. Dort zählt der Zinssatz deutlich mehr."
+    },
+    {
+      "q": "Was unterscheidet Zelle von Venmo?",
+      "a": "Zelle überweist direkt von Bank zu Bank, ohne zusätzliches Konto und kostenlos. Venmo ist ein eigenes Konto: schnell zwischen Venmo-Nutzern, aber langsamer bis aufs Bankkonto. Die meisten großen Banken unterstützen Zelle."
+    }
+  ],
+  "products": {
+    "schwab-bank-checking": {
+      "badge": "🏆 Beste Wahl für Vielreisende",
+      "review": "Das Schwab Bank Investor Checking ist die richtige Wahl für alle, die viel international unterwegs sind. Keine Kontoführungsgebühr, weltweit unbegrenzte Erstattung von Automatengebühren (heben Sie an jedem beliebigen Automaten ab, Schwab erstattet die Gebühr zum Monatsende) und keine Fremdwährungsgebühr auf die Debitkarte. Das beste Reisekonto in den USA.",
+      "pros": [
+        "Weltweit unbegrenzte Erstattung von Automatengebühren",
+        "Keine Fremdwährungsgebühr",
+        "0 $ Kontoführungsgebühr"
+      ],
+      "cons": [
+        "Keine Filialen",
+        "Eröffnung nur mit Schwab-Wertpapierdepot"
+      ]
+    },
+    "ally-bank-checking": {
+      "badge": "🌐 Beste Direktbank",
+      "review": "Das Ally Bank Interest Checking ist das richtige Direktbankkonto. 0,10–0,25 % p. a., 0 $ Kontoführung, über 43.000 gebührenfreie Automaten im AllPoint-Netz und außerhalb davon bis zu 10 $ Gebührenerstattung pro Monat. Eine solide Direktbank mit einer wirklich guten App.",
+      "pros": [
+        "0,10–0,25 % p. a.",
+        "0 $ Kontoführungsgebühr",
+        "Über 43.000 gebührenfreie Geldautomaten"
+      ],
+      "cons": [
+        "Keine Filialen",
+        "Außerhalb des Netzes nur 10 $ Gebührenerstattung pro Monat"
+      ]
+    },
+    "chase-total-checking": {
+      "badge": "🏛️ Beste Filialbank",
+      "review": "Chase Total Checking ist die richtige Wahl, wenn Ihnen Beratung vor Ort wichtig ist. Über 4.700 Filialen, mehr als 16.000 Automaten und ein Startbonus von 200–300 $, wenn er gerade angeboten wird. Die Kontoführung kostet 12 $ im Monat und entfällt ab 500 $ Geldeingang oder 1.500 $ Guthaben. Ideal, wenn Kreditkarte und Baufinanzierung bei derselben Bank laufen sollen.",
+      "pros": [
+        "Über 4.700 Filialen",
+        "Mehr als 16.000 Chase-Automaten",
+        "Regelmäßig Startboni verfügbar"
+      ],
+      "cons": [
+        "12 $ Kontoführung pro Monat (entfällt bei Bedingungen)",
+        "Niedrigere Verzinsung als bei Direktbanken"
+      ]
+    },
+    "sofi-checking": {
+      "badge": "🎯 Beste Kombilösung",
+      "review": "SoFi Checking and Savings ist die richtige Wahl, wenn ein Produkt beides abdecken soll. Bis zu 4,20 % p. a. auf den Sparanteil, 0 $ Kontoführung, Giro- und Sparkonto in einem. Die Mitgliedervorteile von SoFi gelten produktübergreifend, also auch bei Krediten und Geldanlage.",
+      "pros": [
+        "Bis zu 4,20 % p. a. auf den Sparanteil",
+        "0 $ Gebühren",
+        "Mitgliedervorteile über alle SoFi-Produkte hinweg"
+      ],
+      "cons": [
+        "Keine Filialen",
+        "Zinssatz schwankt mit den Aktionskonditionen"
+      ]
+    },
+    "wells-fargo-everyday-checking": {
+      "badge": "🏛️ Für bestehende Wells-Kunden",
+      "review": "Wells Fargo Everyday Checking ist die richtige Wahl, wenn Sie ohnehin schon bei Wells Fargo sind. Über 4.700 Filialen und ein breites Automatennetz. Die Kontoführung kostet 10 $ im Monat und entfällt bei regelmäßigem Geldeingang oder 500 $ Guthaben. Vergleichbar mit Chase, nur eben mit den Extras von Wells Fargo wie Online-Tools und Kreditkarten.",
+      "pros": [
+        "Über 4.700 Filialen",
+        "Breites Automatennetz",
+        "Nahtlose Anbindung an andere Wells-Fargo-Produkte"
+      ],
+      "cons": [
+        "10 $ Kontoführung pro Monat",
+        "Zurückliegende Skandale um die Marke"
+      ]
+    }
+  },
+  "offerNotes": {
+    "schwab-bank-checking": "Eröffnung über schwab.com. Erfordert ein verknüpftes Schwab-Wertpapierdepot, das ebenfalls ohne Mindesteinlage auskommt.",
+    "ally-bank-checking": "Eröffnung über ally.com. Reine Direktbank ohne Filialen.",
+    "chase-total-checking": "Eröffnung über chase.com oder in der Filiale. Startboni setzen, sofern angeboten, bestimmte Aktivitäten voraus.",
+    "sofi-checking": "Eröffnung über sofi.com. Die SoFi-Mitgliedervorteile gelten auch für die übrigen SoFi-Produkte.",
+    "wells-fargo-everyday-checking": "Eröffnung über wellsfargo.com oder in der Filiale."
+  },
+  "pinDescription": "Girokonto 2026 im Vergleich: Schwab, Ally, Chase, SoFi und Wells Fargo – Gebühren, Automatennetz und Zinsen auf einen Blick. Jetzt merken und das passende Konto finden.",
+  "recommendedFor": [
+    {
+      "label": "Vielreisende, die häufig an ausländischen Automaten abheben",
+      "offerId": "schwab-bank-checking",
+      "reason": "Schwab erstattet weltweit jede Automatengebühr zum Monatsende und verlangt keine Fremdwährungsgebühr auf die Debitkarte."
+    },
+    {
+      "label": "Remote-Arbeitende, die ihre Finanzen komplett online regeln",
+      "offerId": "ally-bank-checking",
+      "reason": "0 $ Kontoführung, 0,25 % p. a. und über 43.000 gebührenfreie Automaten – vollwertiges Banking, ganz ohne Filialbesuch."
+    },
+    {
+      "label": "Berufseinsteiger, die ihre erste Kreditkarte aufbauen",
+      "offerId": "chase-total-checking",
+      "reason": "Mit über 4.700 Filialen und regelmäßigen Startboni von 200–300 $ lässt sich eine Chase-Kreditkarte bequem unter einem Login bündeln."
+    },
+    {
+      "label": "Sparer, die Giro- und Tagesgeldkonto in einer App wollen",
+      "offerId": "sofi-checking",
+      "reason": "Das Kombikonto von SoFi bringt bis zu 4,20 % p. a. auf den Sparanteil, kostet keine Gebühren und schaltet Mitgliedervorteile für Kredite und Geldanlage frei."
+    },
+    {
+      "label": "Bestandskunden mit Wells-Fargo-Kreditkarte oder -Baufinanzierung",
+      "offerId": "wells-fargo-everyday-checking",
+      "reason": "Über 4.700 Filialen und eng verzahnte Online-Tools bündeln Konto, Kredit und Finanzierung an einer Stelle."
+    }
+  ]
 }

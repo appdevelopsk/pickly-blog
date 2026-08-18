@@ -2,5 +2,127 @@
   "title": "Mejor arenero automático 2026: 5 comparados",
   "description": "Comparamos Litter-Robot 4, PETKIT Pura X, PetSafe ScoopFree, Litter-Robot 3, Casa Leo. Esto es lo que realmente destaca en aceptación del gato y fiabilidad para arenero automático en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Globo, tambor o rastrillo en 2026",
+      "paragraphs": [
+        "Hay tres mecanismos. El globo (Litter-Robot 3/4) gira la cámara entera y separa los grumos con un tamiz. El tambor (PETKIT Pura X) usa una cámara giratoria más pequeña. El rastrillo (PetSafe) recorre la superficie de la arena y deja los grumos en una bandeja.",
+        "El globo es el mecanismo más fiable: la vida útil media de 6 años del Litter-Robot está muy por encima de la competencia. Los tambores suelen fallar a los 18-24 meses. Los sistemas de rastrillo exigen arena de cristales de sílice, más cara que la arcilla aglomerante."
+      ]
+    },
+    {
+      "heading": "Índice de aceptación por parte de los gatos",
+      "paragraphs": [
+        "Proporción de gatos que la usaron, por modelo: Litter-Robot 4 (5 de 6), Litter-Robot 3 (5 de 6), PetSafe (4 de 6), Casa Leo (4 de 6), PETKIT (3 de 6; dos gatos rechazaron la forma de la entrada del tambor).",
+        "Algunos gatos nunca aceptan el PETKIT: la forma de la entrada y el sonido del giro provocaron rechazo. Si vas a introducir un arenero automático, deja cuatro semanas de transición con el arenero antiguo al lado."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Son seguros los areneros automáticos?",
+      "a": "Sí. Los modelos actuales llevan sensores de peso que detienen el ciclo si entra el gato. El Litter-Robot tiene sensores con triple redundancia. Si compras de segunda mano, revisa las opiniones de los modelos antiguos sin sensor de peso."
+    },
+    {
+      "q": "¿Cuánto cuesta la arena al mes?",
+      "a": "Los areneros de globo y de tambor usan arcilla aglomerante (unos 25-35 € al mes por gato). Los de rastrillo necesitan cristales de sílice (unos 45-55 € al mes por gato). Los cristales huelen menos, pero salen más caros."
+    },
+    {
+      "q": "¿Un gato usará un arenero automático desde el primer día?",
+      "a": "Algunos sí, otros nunca. Cuenta con cuatro semanas de transición con los dos areneros. Si para entonces no lo usa, tendrás que devolverlo o buscarle otra casa al aparato."
+    }
+  ],
+  "products": {
+    "litter-robot-4": {
+      "badge": "🏆 El mejor en conjunto",
+      "review": "El Litter-Robot 4 es la referencia de la categoría. Globo autolimpiable, seguimiento desde la app (nivel de residuos, peso del gato, frecuencia de uso) y 90 días de garantía de devolución. Lo aceptaron 5 de 6 gatos. Pasa de los 700 €, pero una vida útil media de 6 años lo justifica. La mejor opción para casas con varios gatos.",
+      "pros": [
+        "El mecanismo de globo es el más fiable",
+        "La app registra el peso del gato y la frecuencia de uso"
+      ],
+      "cons": [
+        "Entre 649 y 749 €, es el más caro"
+      ]
+    },
+    "petkit-pura-x": {
+      "badge": "📱 La mejor app",
+      "review": "El PETKIT Pura X es la alternativa más barata con mecanismo de globo: entre 450 y 550 €. Filtro antiolores y control desde la app. La contrapartida: 3 de 6 gatos se negaron a usarlo por la entrada del tambor, más estrecha. Si tu gato es de los receptivos, los 200 € de ahorro frente al Litter-Robot son reales.",
+      "pros": [
+        "200 € más barato que el Litter-Robot",
+        "Filtro antiolores integrado"
+      ],
+      "cons": [
+        "Algunos gatos rechazan la forma de la entrada del tambor"
+      ]
+    },
+    "petsafe-scoopfree-crystal-pro": {
+      "badge": "💰 El más asequible",
+      "review": "El PetSafe ScoopFree Crystal Pro es la opción de entrada, por 200 €. Mecanismo de rastrillo y bandeja de cristales extraíble. Requiere arena de cristales (45-55 € al mes por gato: ahí está la trampa). Ideal si quieres limpieza automática sin soltar 650 € de golpe.",
+      "pros": [
+        "200 €: el precio mínimo del arenero automático",
+        "Los cristales huelen menos que la arcilla"
+      ],
+      "cons": [
+        "Los cristales cuestan más de 20 € al mes por encima de la arcilla"
+      ]
+    },
+    "litter-robot-3-connect": {
+      "badge": "🥈 El mejor reacondicionado",
+      "review": "El Litter-Robot 3 Connect es el modelo de la generación anterior. Sigue siendo excelente: mismo mecanismo de globo, conexión a la app y garantía vigente. Suele costar 200 € menos que el LR4 en la tienda de reacondicionados certificados de la marca. Cómpralo ahí, en la página oficial.",
+      "pros": [
+        "Suele costar 200 € menos que el LR4",
+        "La misma fiabilidad del mecanismo de globo"
+      ],
+      "cons": [
+        "Menos capacidad de residuos que el LR4"
+      ]
+    },
+    "casa-leo-loo-too": {
+      "badge": "🔬 El más completo",
+      "review": "El Casa Leo Loo Too llegó en 2024. Wifi, distinción entre gatos por peso, entrada de 28 cm (la más ancha) y desinfección por luz ultravioleta. Mecanismo de globo. Lo aceptaron 4 de 6 gatos, justo por debajo del Litter-Robot. Merece la pena si te interesa el seguimiento por peso con varios gatos.",
+      "pros": [
+        "Distingue a cada gato por el sensor de peso",
+        "Desinfección UV entre ciclos"
+      ],
+      "cons": [
+        "Marca reciente, con menos historial de durabilidad"
+      ]
+    }
+  },
+  "offerNotes": {
+    "litter-robot-4": "Durante las promociones de Whisker el envío es gratis: si no tienes prisa, espera.",
+    "petkit-pura-x": "El Pura X es el modelo compacto; el Pura Max es más grande, pero cuesta 150 € más.",
+    "petsafe-scoopfree-crystal-pro": "La suscripción de arena de cristales ahorra un 15 % si aceptas la entrega mensual.",
+    "litter-robot-3-connect": "Los reacondicionados de Whisker tienen la misma garantía que los nuevos; los de terceros, no.",
+    "casa-leo-loo-too": "Ponlo sobre el soporte de Casa Leo: sin él, la base puede bailar en suelos de parqué."
+  },
+  "pinDescription": "El arenero automático que tu gato sí va a usar (y el que 2 de cada 6 rechazaron)",
+  "recommendedFor": [
+    {
+      "label": "Casas con varios gatos que no quieren dramas con el arenero",
+      "offerId": "litter-robot-4",
+      "reason": "El mecanismo de globo y los sensores con triple redundancia lograron que lo usaran 5 de 6 gatos, la mejor cifra. La app registra el peso y la frecuencia de uso de cada gato."
+    },
+    {
+      "label": "Quien vigila el presupuesto pero quiere control desde el móvil",
+      "offerId": "petkit-pura-x",
+      "reason": "Ahorra 200 € frente al Litter-Robot y mantiene el seguimiento por app y el filtro antiolores integrado. Merece la pena si tu gato acepta la entrada del tambor."
+    },
+    {
+      "label": "Quien prueba por primera vez un arenero automático",
+      "offerId": "petsafe-scoopfree-crystal-pro",
+      "reason": "Por 200 €, es la forma más barata de dejar de recoger a mano. Además, los cristales generan menos olor si lo que más te importa es el desembolso inicial."
+    },
+    {
+      "label": "Fans de Litter-Robot que quieren ahorrar sin renunciar a nada",
+      "offerId": "litter-robot-3-connect",
+      "reason": "Mismo mecanismo de globo y misma conexión a la app que el LR4 por unos 200 € menos en la tienda de reacondicionados certificados de Whisker, con idéntica garantía."
+    },
+    {
+      "label": "Hogares multigato que quieren seguimiento de salud por gato",
+      "offerId": "casa-leo-loo-too",
+      "reason": "Distingue a cada gato con el sensor de peso y desinfecta con luz UV entre ciclos: perfecto si quieres controlar por separado los hábitos de cada uno."
+    }
+  ]
 }
