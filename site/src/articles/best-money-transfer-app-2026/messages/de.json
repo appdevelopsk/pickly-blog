@@ -2,5 +2,147 @@
   "title": "Bestes Geldtransfer-App 2026: 5 im Vergleich",
   "description": "Wir haben Wise, Revolut, PayPal, Venmo, Western Union verglichen. Das überzeugt 2026 wirklich bei Wechselkurse und Gebühren und Geldtransfer-App.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Kostenvergleich für Auslandsüberweisungen (1.000 USD → EUR)",
+      "paragraphs": [
+        "Wise: 1.000 USD → 917 € (Devisenmittelkurs + 0,4 % Gebühr). Am transparentesten.",
+        "Revolut (Standard-Tarif): 1.000 USD → 915 € (guter Kurs, nur werktags).",
+        "PayPal: 1.000 USD → 870 € (effektiv rund 3–5 % Gebühr inklusive schlechtem Wechselkurs). Der schlechteste Kurs.",
+        "Western Union (online): 1.000 USD → 890 € (besser als PayPal, aber trotzdem versteckte Marge).",
+        "Venmo: für Auslandsüberweisungen nicht verfügbar."
+      ]
+    },
+    {
+      "heading": "Der passende Dienst für jeden Zweck",
+      "paragraphs": [
+        "Am besten international: Wise. Devisenmittelkurs, transparente Gebühr von 0,4–1 %.",
+        "Am besten für viele Funktionen: Revolut. Multiwährungskonto, Krypto und Aktien direkt integriert.",
+        "Am besten innerhalb der USA: Venmo. Nur in den USA, mit Social Feed und Sofortüberweisungen.",
+        "Am besten für Bargeldabholung: Western Union. Über 200 Länder, persönliche Auszahlung vor Ort.",
+        "Am weitesten verbreitet: PayPal. Etabliert, aber mit den schlechtesten Kursen."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Warum ist Wise günstiger als PayPal?",
+      "a": "Wise rechnet mit dem Devisenmittelkurs – also dem Kurs, zu dem die Währungen am Weltmarkt gehandelt werden – und schlägt eine offen ausgewiesene Gebühr auf. PayPal packt einen Aufschlag in den Wechselkurs und verlangt zusätzlich eine Gebühr; unterm Strich sind das meist 3–5 % mehr als beim Mittelkurs."
+    },
+    {
+      "q": "Kann ich mit Wise an jede beliebige Person Geld senden?",
+      "a": "Ja – die empfangende Person braucht kein Wise-Konto. Das Geld geht direkt auf ihr Bankkonto und kommt in ihrer Landeswährung an."
+    },
+    {
+      "q": "Sind diese Anbieter sicher?",
+      "a": "Ja – Wise, Revolut, PayPal, Venmo und Western Union sind allesamt lizenzierte Zahlungsdienstleister mit Maßnahmen gegen Betrug."
+    },
+    {
+      "q": "Lohnen sich Kryptowährungen für Überweisungen?",
+      "a": "Möglich ist es, nur wird es umständlich: Sie tauschen Euro in USDC, senden die Coins und die Gegenseite tauscht sie wieder in ihre Landeswährung. In Sonderfällen sinnvoll, etwa bei sanktionierten Ländern – für die meisten ist Wise der einfachere Weg."
+    }
+  ],
+  "products": {
+    "wise-transfer": {
+      "badge": "🏆 Am besten international",
+      "review": "Für Überweisungen ins Ausland ist Wise (früher TransferWise) die richtige Wahl. Es gilt der echte Devisenmittelkurs – der Kurs, zu dem Banken untereinander handeln –, dazu transparente Gebühren von 0,4 bis 1 % je nach Währung und über 40 Währungen. Sie können weltweit auf jedes Bankkonto senden, ohne dass die Gegenseite ein Wise-Konto braucht.",
+      "pros": [
+        "Echter Devisenmittelkurs",
+        "Transparente Gebühren (0,4–1 %)",
+        "Über 40 Währungen"
+      ],
+      "cons": [
+        "Absender benötigt ein Wise-Konto",
+        "Banküberweisung dauert teils 1–2 Tage"
+      ]
+    },
+    "revolut": {
+      "badge": "🌐 Am besten für viele Funktionen",
+      "review": "Revolut passt, wenn Sie Überweisungen, Multiwährungskonto, Krypto und Aktien aus einer Hand wollen. Das Konto hält über 25 Währungen, Krypto- und Aktienhandel sind integriert, die Premium-Tarife bringen Zusatzleistungen. Auslandsüberweisungen sind konkurrenzfähig und liegen werktags etwa auf Wise-Niveau.",
+      "pros": [
+        "Multiwährungskonto (über 25 Währungen)",
+        "Krypto und Aktien integriert",
+        "Premium-Tarife mit Zusatzleistungen"
+      ],
+      "cons": [
+        "Premium-Tarife kosten 9–17 € im Monat",
+        "Am Wochenende schlechtere Kurse"
+      ]
+    },
+    "paypal-international": {
+      "badge": "🏪 Am weitesten verbreitet",
+      "review": "PayPal ist der bekannteste Zahlungsdienst – und der mit den schlechtesten Kursen. Inklusive Wechselkursaufschlag zahlen Sie effektiv rund 3–5 %. Nutzen Sie es nur, wenn die Gegenseite ausdrücklich PayPal verlangt; ansonsten führt kaum ein Weg an Wise vorbei.",
+      "pros": [
+        "Größte Verbreitung",
+        "Käufer- und Verkäuferschutz beim Einkauf",
+        "In sehr vielen Shops integriert"
+      ],
+      "cons": [
+        "Schlechteste Wechselkurse (rund 3–5 % Aufschlag)",
+        "Versteckte Gebühren im Wechselkurs"
+      ]
+    },
+    "venmo": {
+      "badge": "🇺🇸 Am besten innerhalb der USA",
+      "review": "Venmo ist die richtige Wahl für Zahlungen zwischen Privatpersonen innerhalb der USA. Es gibt einen Social Feed, in dem Transaktionen für Freunde sichtbar sind (lässt sich abschalten), Sofortüberweisungen auf die Debitkarte für 0,25 bis 15 USD und kostenlose Banküberweisungen, die 1–3 Tage dauern. In den USA der Standard zum Aufteilen von Rechnungen.",
+      "pros": [
+        "Social Feed (abschaltbar)",
+        "Sofortüberweisung auf die Debitkarte",
+        "In den USA der Standard für Inlandszahlungen"
+      ],
+      "cons": [
+        "Nur in den USA nutzbar",
+        "Keine Auslandsüberweisungen"
+      ]
+    },
+    "western-union": {
+      "badge": "💵 Am besten für Bargeldabholung",
+      "review": "Western Union lohnt sich, wenn die Gegenseite das Geld in einem von über 200 Ländern bar abholen soll. Die Auszahlung erfolgt in einer Western-Union-Filiale, ganz ohne Bankkonto. Praktisch für Empfänger ohne Konto oder für Sonderfälle.",
+      "pros": [
+        "Über 200 Länder",
+        "Barauszahlung (kein Bankkonto nötig)",
+        "Persönliche Abholung in der Filiale"
+      ],
+      "cons": [
+        "Schwankende, oft hohe Gebühren",
+        "Der Gang zur Filiale ist umständlich"
+      ]
+    }
+  },
+  "offerNotes": {
+    "wise-transfer": "Anmeldung unter wise.com. Die Kontoeröffnung ist kostenlos, Gebühren fallen pro Überweisung an.",
+    "revolut": "Anmeldung unter revolut.com. Der Standard-Tarif ist kostenlos; Premium (9 €/Monat) und Metal (17 €/Monat) bringen Zusatzleistungen.",
+    "paypal-international": "Anmeldung unter paypal.com. Das Konto ist kostenlos, Gebühren fallen pro Transaktion an.",
+    "venmo": "Anmeldung über die Venmo-App. Nur in den USA verfügbar.",
+    "western-union": "Anmeldung unter westernunion.com oder direkt in einer Filiale."
+  },
+  "pinDescription": "Geld ins Ausland senden, ohne Gebühren zu verschenken: Wise, Revolut, PayPal, Venmo und Western Union im Kursvergleich 2026 – bei 1.000 USD trennen Bestem und Schlechtestem fast 50 €.",
+  "recommendedFor": [
+    {
+      "label": "Auswanderer und Remote-Arbeitende, die regelmäßig Geld ins Ausland schicken",
+      "offerId": "wise-transfer",
+      "reason": "Mit Devisenmittelkurs und transparenten 0,4–1 % Gebühr spart Wise bei wiederkehrenden Auslandsüberweisungen deutlich gegenüber Bank- oder PayPal-Kursen."
+    },
+    {
+      "label": "Digitale Nomaden, die mehrere Währungen halten und ausgeben",
+      "offerId": "revolut",
+      "reason": "Das Revolut-Konto hält über 25 Währungen und hat Krypto sowie Aktien gleich mit an Bord – unterwegs eine komplette Finanzzentrale."
+    },
+    {
+      "label": "US-Studierende, die Miete und Restaurantrechnungen aufteilen",
+      "offerId": "venmo",
+      "reason": "In den USA ist Venmo für Zahlungen unter Privatpersonen gesetzt – Sofortüberweisung auf die Debitkarte und Social Feed machen das Aufteilen mühelos."
+    },
+    {
+      "label": "Onlinehändler, die Zahlungen von Käufern weltweit annehmen",
+      "offerId": "paypal-international",
+      "reason": "Dank breiter Shop-Integration und Käufer- wie Verkäuferschutz erwarten Kunden im E-Commerce weltweit PayPal als Zahlungsoption."
+    },
+    {
+      "label": "Menschen, die Angehörigen ohne Bankkonto in Schwellenländern Geld schicken",
+      "offerId": "western-union",
+      "reason": "Bei Western Union holt die Gegenseite das Bargeld in über 200 Ländern persönlich ab – ganz ohne Bankkonto."
+    }
+  ]
 }

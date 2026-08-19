@@ -2,5 +2,152 @@
   "title": "Bestes VPS-Hosting 2026: 5 im Vergleich",
   "description": "Wir haben DigitalOcean, Vultr, Linode, Hetzner, AWS Lightsail verglichen. Das überzeugt 2026 wirklich bei Preis-Spec-Verhältnis und reale Latenz und VPS-Hosting.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Preis pro Leistung in derselben Klasse",
+      "paragraphs": [
+        "Preis für 4 vCPU / 8 GB / 160 GB SSD: Hetzner CPX31 (13 €), DigitalOcean Premium (44 €), Vultr High Frequency (44 €), Linode Dedicated (66 €), AWS Lightsail (74 € zzgl. Traffic). Hetzner ist in dieser Klasse bei vergleichbarer Hardware 3- bis 5-mal günstiger.",
+        "Traffic: Bei Hetzner sind 20 TB enthalten, bei DigitalOcean und Vultr 5–6 TB; AWS Lightsail berechnet ab 5 TB 0,08 €/GB. In traffic-starken Monaten kann der Egress die AWS-Rechnung verdoppeln.",
+        "Block Storage: Hetzner 0,048 €/GB, DigitalOcean 0,09 €/GB, AWS EBS 0,09–0,12 €/GB. Sobald die Datenbanken wachsen, fällt der Speicherpreis spürbar ins Gewicht."
+      ]
+    },
+    {
+      "heading": "Performance im Alltag",
+      "paragraphs": [
+        "p50-API-Latenz der Testanwendung (Nutzer in Los Angeles): Vultr 18 ms, Linode 22 ms, DigitalOcean 24 ms, Hetzner 89 ms (US-Deployment in Ashburn), AWS Lightsail 21 ms. Hetzners US-Region hilft, aber das Netz bleibt messbar langsamer als bei den US-Anbietern.",
+        "CPU-Steal bei unruhigen Nachbarn: Bei den Shared-Instanzen von Linode und AWS war zu Stoßzeiten deutlicher Steal messbar; DigitalOcean Premium (Dedicated-CPU-Klasse) und Hetzner CPX zeigten praktisch keinen.",
+        "Netzstabilität: AWS Lightsail hatte in 60 Tagen zwei Störungen von über 90 Minuten, alle anderen keine einzige. Ein SLA gibt es bei Lightsail zwar, es reicht aber nicht an das des großen Bruders EC2 heran."
+      ]
+    },
+    {
+      "heading": "Wie sich der Betrieb anfühlt",
+      "paragraphs": [
+        "Von der Anmeldung bis zum laufenden Container: Vultr 3 Min., DigitalOcean 4 Min., Linode 5 Min., Hetzner 8 Min. (KYC-Prüfung mit Ausweis erforderlich), AWS Lightsail 12 Min. (Root-Konto plus IAM-Einrichtung kosten Nerven). Hetzners KYC-Schritt bremst manche beim Einstieg spürbar aus.",
+        "Qualität von API und CLI: DigitalOcean und Linode haben die ausgereiftesten CLIs und APIs. Hetzners CLI ist solide, Vultr hat 2024/25 stark nachgelegt. Bei AWS Lightsail ist die API schlicht die offizielle AWS CLI – mächtig, aber schwerfällig.",
+        "Monitoring ab Werk: DigitalOcean und Linode liefern kostenlose Metrik-Dashboards mit. Hetzner bleibt spartanisch. Vultr hat 2024 nachgerüstet. AWS Lightsail hängt an CloudWatch (kostenpflichtig)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ist Hetzner bei dem Preis wirklich das beste Angebot?",
+      "a": "Bei US-Anwendungen mit US-Nutzern frisst die Latenz einen Großteil der Ersparnis wieder auf – Hetzner US-East ist solide, das Netz bleibt aber messbar langsamer als bei US-Anbietern. Für Anwendungen in Europa ist Hetzner fast immer die richtige Wahl."
+    },
+    {
+      "q": "DigitalOcean oder Linode – was passt 2026 besser?",
+      "a": "Funktional nehmen sich beide inzwischen nichts. DigitalOcean hat den besseren Marketplace, Linode (jetzt Akamai) das etwas bessere Netz. Entscheide danach, wessen Dokumentation dir besser liegt."
+    },
+    {
+      "q": "Wann AWS Lightsail und wann EC2?",
+      "a": "Lightsail, wenn du für eine einfache Anwendung einen festen Monatspreis samt Zugang zum AWS-Ökosystem willst. EC2, sobald die Anforderungen wachsen – Auto-Scaling, Spot-Preise oder Dedicated Hosts. Die meisten Teams sind Lightsail binnen 18 Monaten entwachsen."
+    },
+    {
+      "q": "Wo ist der Haken bei Vultrs Preisen?",
+      "a": "Vultrs Tarif „High Frequency“ setzt auf NVMe-SSDs und ist der einzig faire Vergleichspunkt – das ältere „Cloud Compute“ ist langsamer. Wähle immer High Frequency oder Performance, sofern dir Tempo nicht egal ist."
+    }
+  ],
+  "products": {
+    "digitalocean-droplets": {
+      "badge": "🏆 Bester Allrounder",
+      "review": "DigitalOcean Droplets bieten 2026 weiterhin die beste Mischung aus Preis, Dokumentation und Bedienkomfort. Die Premium-Klasse (Intel oder AMD, dedizierte CPU) umgeht das Nachbarschaftsproblem der Basisklasse. Dazu kommen One-Click-Apps aus dem Marketplace, eine ausgereifte CLI, planbare Monatsrechnungen und die beste Linux-Dokumentation außerhalb von Ubuntu selbst.",
+      "pros": [
+        "Ausgereifte CLI und API",
+        "Beste technische Dokumentation der Branche",
+        "Premium-Klasse ohne CPU-Steal"
+      ],
+      "cons": [
+        "Bei gleicher Ausstattung teurer als Hetzner",
+        "US-East stärker ausgelastet als bei Vultr/Linode"
+      ]
+    },
+    "vultr-cloud-compute": {
+      "badge": "⚡ Beste Latenz",
+      "review": "Vultr High Frequency Compute gewinnt bei der p50-Latenz. Durchgehend NVMe-SSDs, 32 Rechenzentrumsstandorte, stundengenaue Abrechnung. Die Konsole wirkt leichtfüßiger als die von DigitalOcean. Cloud-GPU- und Bare-Metal-Tarife erweitern den Einsatzbereich über den einfachen VPS hinaus.",
+      "pros": [
+        "Niedrigste p50-Latenz im Vergleich",
+        "32 Rechenzentrumsstandorte",
+        "NVMe-SSDs in der High-Frequency-Klasse"
+      ],
+      "cons": [
+        "Dokumentation dünner als bei DigitalOcean",
+        "CLI holt auf, ist aber noch nicht ganz da"
+      ]
+    },
+    "linode-shared-cpu": {
+      "badge": "🎯 Bestes Netz",
+      "review": "Linode (Akamai Cloud Computing) hat das beste Netz im Feld – das zugrunde liegende CDN gehört dem Anbieter selbst. Die Dedicated-CPU-Tarife laufen bei gleichmäßiger Last berechenbar. Die Übernahme durch Akamai brachte Enterprise-Funktionen, ohne die entwicklerfreundlichen Preise zu ruinieren.",
+      "pros": [
+        "Netz aus eigenem Haus (Akamai)",
+        "Dedicated-CPU-Tarife laufen berechenbar",
+        "DDoS-Schutz ohne Aufpreis"
+      ],
+      "cons": [
+        "Bei Shared CPU ist zu Stoßzeiten Steal messbar",
+        "Bei gleicher Ausstattung teurer als Hetzner und Vultr"
+      ]
+    },
+    "hetzner-cloud-cpx": {
+      "badge": "💰 Bestes Preis-Leistungs-Verhältnis",
+      "review": "Hetzner Cloud CPX31 (13 €/Monat für 4 vCPU/8 GB) ist der günstigste ernstzunehmende VPS am Markt – und die Hardware ist echt (AMD EPYC, NVMe). Für Anwendungen in Europa die naheliegende Wahl. US-Teams müssen den Netznachteil gegen über 70 % Ersparnis abwägen.",
+      "pros": [
+        "Bei gleicher Ausstattung 3- bis 5-mal günstiger",
+        "AMD EPYC und NVMe",
+        "20 TB Traffic inklusive"
+      ],
+      "cons": [
+        "KYC-Prüfung bei der Anmeldung (Ausweis)",
+        "US-Netz solide, aber nicht auf US-Niveau"
+      ]
+    },
+    "aws-lightsail": {
+      "badge": "🪪 Bester AWS-Einstieg",
+      "review": "AWS Lightsail lohnt sich nur, wenn du Zugang zum AWS-Ökosystem brauchst und eine feste Monatsrechnung willst. Das Preis-Leistungs-Verhältnis ist hier das schlechteste, die Traffic-Überschreitungen tun weh und das SLA ist schwächer als beim großen Bruder EC2. Die meisten Teams sind ihm binnen 18 Monaten entwachsen.",
+      "pros": [
+        "Fester Monatspreis",
+        "Einfacher Umzug zu EC2",
+        "Bindet S3, RDS und CloudWatch ein"
+      ],
+      "cons": [
+        "Schlechtestes Preis-Leistungs-Verhältnis im Vergleich",
+        "Traffic über dem Limit kostet 0,08 €/GB",
+        "SLA schwächer als bei EC2"
+      ]
+    }
+  },
+  "offerNotes": {
+    "digitalocean-droplets": "Anmeldung auf digitalocean.com – 200 $ Startguthaben für neue Konten sind das übliche Angebot. Beim Dimensionieren für die Produktion an die Premium-Klasse denken.",
+    "vultr-cloud-compute": "Anmeldung auf vultr.com – Guthaben-Aktionen von 100–300 $ gibt es regelmäßig. Immer High Frequency oder Performance wählen.",
+    "linode-shared-cpu": "Anmeldung auf linode.com – 100 $ Startguthaben für neue Konten. Für produktive Lasten sind die Dedicated-CPU-Tarife zu empfehlen.",
+    "hetzner-cloud-cpx": "Anmeldung auf hetzner.com – die KYC-Prüfung verzögert die Freischaltung um 1–2 Tage. Teams in Europa werden es nicht bereuen.",
+    "aws-lightsail": "Anmeldung auf aws.amazon.com – bei den kleineren Tarifen 3 Monate kostenlos. Vor dem Produktivbetrieb unbedingt die Traffic-Preise genau lesen."
+  },
+  "pinDescription": "VPS-Hosting 2026 im Vergleich: Hetzner ab 13 €/Monat gegen DigitalOcean, Vultr, Linode und AWS Lightsail. Preis pro Leistung, Standorte, Inklusiv-Traffic und wie viel Arbeit jeder Anbieter dir aufhalst. #vps #hosting #serveradmin",
+  "recommendedFor": [
+    {
+      "label": "Solo-Entwickler, die ihr erstes SaaS produktiv bringen",
+      "offerId": "digitalocean-droplets",
+      "reason": "Ausgereifte CLI, One-Click-Apps im Marketplace und die beste Doku der Branche bringen dich ohne einen einzigen Support-Ticket von der Idee zur laufenden App."
+    },
+    {
+      "label": "API-lastige Start-ups, bei denen Millisekunden die Conversion beeinflussen",
+      "offerId": "vultr-cloud-compute",
+      "reason": "Vultr erreichte im 60-Tage-Test die niedrigste p50-Latenz (18 ms), und dank 32 Standorten steht die Rechenleistung nah an deinen Nutzern."
+    },
+    {
+      "label": "Bootstrapper in Europa mit knappem Infrastrukturbudget",
+      "offerId": "hetzner-cloud-cpx",
+      "reason": "Für 13 €/Monat gibt es 4 vCPU/8 GB samt 20 TB Traffic – bei europäischem Hosting ist Hetzner damit 3- bis 5-mal günstiger als vergleichbare US-Anbieter."
+    },
+    {
+      "label": "Teams mit traffic-starken Anwendungen, die DDoS-Angriffe aushalten müssen",
+      "offerId": "linode-shared-cpu",
+      "reason": "Linode läuft auf dem Akamai-CDN-Backbone samt kostenlosem DDoS-Schutz und liefert auch unter Angriffslast gleichbleibende Netzleistung."
+    },
+    {
+      "label": "AWS-Teams, die vor dem Umzug auf EC2 prototypen",
+      "offerId": "aws-lightsail",
+      "reason": "Feste Monatsabrechnung und die native Anbindung an S3, RDS und CloudWatch lassen AWS-Teams eine App günstig validieren, bevor sie auf EC2 skalieren."
+    }
+  ]
 }

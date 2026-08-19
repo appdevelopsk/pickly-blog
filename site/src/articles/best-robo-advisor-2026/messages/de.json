@@ -2,5 +2,127 @@
   "title": "Bestes Robo-Advisor 2026: 5 im Vergleich",
   "description": "Wir haben Betterment, Wealthfront, Schwab, Fidelity Go, Vanguard Digital Advisor verglichen. Das überzeugt 2026 wirklich bei Nettorenditen und versteckten Kosten und Robo-Advisor.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Gebührenstruktur vs. tatsächliche Kosten",
+      "paragraphs": [
+        "Die beworbene Verwaltungsgebühr (Betterment 0,25 %, Wealthfront 0,25 %, Schwab 0 %, Fidelity Go 0 % unter 25.000 €, Vanguard 0,20 %) erzählt nur die halbe Geschichte. Obendrauf kommen die ETF-Kostenquoten: Vanguard ist mit gemischten 0,04 % am günstigsten, Schwab offenbart mit 0,16 % die versteckten Kosten.",
+        "Schwabs \"Null-Beratungsgebühr\" wird durch eine verpflichtende Cash-Quote von 6–8 % im Geldmarkt aufgezehrt, die 4,4 % abwirft – gegenüber einer erwarteten Portfoliorendite von rund 8 %. Dieser Cash Drag kostet bei 25.000 € etwa 120 € im Jahr – mehr als Betterments Beratungsgebühr von 0,25 %."
+      ]
+    },
+    {
+      "heading": "Zwei-Jahres-Renditen (nach allen Kosten)",
+      "paragraphs": [
+        "Nettorenditen von Mai 2024 bis Mai 2026 auf ein 80/20-Portfolio über 25.000 €: Vanguard Digital Advisor (+22,4 %), Fidelity Go (+22,1 %), Betterment (+21,8 %), Wealthfront (+21,4 %), Schwab (+19,7 %). Den Cash Drag hat Schwab teuer bezahlt.",
+        "Realisiertes Tax-Loss Harvesting: Wealthfront (380 € realisierte Verluste), Betterment (310 €). Schwab, Fidelity und Vanguard bieten TLH bei dieser Anlagesumme gar nicht an. Bei einem Spitzenverdiener mit 32 % Grenzsteuersatz sind das über 100 € echte Steuerersparnis pro Jahr."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Lohnen sich Robo-Advisor gegenüber dem Selbstanlegen?",
+      "a": "Ja, wenn Sie sonst auf Cash sitzen bleiben, nicht rebalancieren oder in der Panik verkaufen. Die 0,20–0,25 % kaufen Ihnen Disziplin. Nein, wenn Sie VTI/BND ohnehin selbst kaufen und liegen lassen würden."
+    },
+    {
+      "q": "Kann ich mein Robo-Portfolio zu einem Broker übertragen?",
+      "a": "Ja – die meisten Robo-Advisor erlauben ACATS-Überträge an externe Broker. Wealthfront und Betterment übertragen die Wertpapiere direkt; Schwab und Vanguard bevorzugen die Auflösung in Cash."
+    },
+    {
+      "q": "Was bringt Tax-Loss Harvesting konkret?",
+      "a": "Bei 32 % Bundes- plus 5 % Landessteuer bedeutet 1 € geernteter Verlust 0,37 € Steuerersparnis. Bei Wealthfronts durchschnittlich 380 € pro Jahr sind das 141 € zusätzliche reale Rendite jährlich."
+    }
+  ],
+  "products": {
+    "betterment-robo": {
+      "badge": "🏆 Bester Gesamteindruck",
+      "review": "Betterment ist der Robo, den man am leichtesten empfehlen kann. 0,25 % Gebühr, zielbasiertes Anlegen (getrennte Töpfe für Ruhestand, Immobilie usw.), Tax-Loss Harvesting bei jeder Anlagesumme. Kein Mindestbetrag. Die Wissensinhalte sind die besten der Kategorie. 21,8 % Zwei-Jahres-Rendite nach Gebühren.",
+      "pros": [
+        "Tax-Loss Harvesting ab 0 €",
+        "Zielbasierte Anlage-Oberfläche"
+      ],
+      "cons": [
+        "0,25 % Gebühr – höher als bei Vanguard"
+      ]
+    },
+    "wealthfront-robo": {
+      "badge": "📈 Am besten ab 100.000 €",
+      "review": "Ab 100.000 € zieht Wealthfront knapp an Betterment vorbei. Direct Indexing (Einzelaktien statt ETF) bringt in dieser Größenordnung 0,2–0,4 % zusätzliches Alpha aus dem Tax-Loss Harvesting. Dazu Ausbildungssparpläne (529), anpassbare Portfolios, 500 € Mindestanlage. Stark für Gutverdiener.",
+      "pros": [
+        "Direct Indexing ab 100.000 €",
+        "529-Pläne fürs Ausbildungssparen"
+      ],
+      "cons": [
+        "500 € Mindestanlage zur Eröffnung"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "💸 Keine Beratungsgebühr",
+      "review": "Schwab Intelligent Portfolios verlangt 0 € Beratungsgebühr, doch der verpflichtende Cash Drag von 6–8 % frisst die Ersparnis wieder auf. Der günstigste Anbieter – aber nur dem Namen nach. 5.000 € Mindestanlage. Sinnvoll als Ergänzung im Schwab-Ökosystem, nicht als erster Robo-Advisor.",
+      "pros": [
+        "Keine Beratungsgebühr",
+        "Kostenlose Vorteile im Schwab-Ökosystem"
+      ],
+      "cons": [
+        "6–8 % Pflicht-Cash-Quote kostet rund 120 € pro Jahr"
+      ]
+    },
+    "fidelity-go": {
+      "badge": "🆓 Bestes Gratis-Angebot",
+      "review": "Fidelity Go kostet unter 25.000 € gar nichts und darüber 0,35 %. Genutzt werden Fidelity-Flex-Fonds mit 0 % Kostenquote. Ideal für kleine Depots (unter 25.000 €), wo gratis wirklich gratis heißt. 22,1 % Zwei-Jahres-Rendite.",
+      "pros": [
+        "0 € Gebühr unter 25.000 €",
+        "Fidelity-Flex-Fonds mit 0 % Kosten"
+      ],
+      "cons": [
+        "Ab 25.000 € springt die Gebühr auf 0,35 % – bei höheren Summen nicht mehr die günstigste"
+      ]
+    },
+    "vanguard-digital-advisor": {
+      "badge": "💎 Niedrigste Gesamtkosten",
+      "review": "Vanguard Digital Advisor hat die niedrigsten Gesamtkosten: In den 0,20 % Verwaltungsgebühr stecken die ETF-Kosten von Vanguard bereits drin. 100 € Mindestanlage. Beste Zwei-Jahres-Rendite (+22,4 %). Konsequent passiver Ansatz; kein TLH unterhalb von 50.000 €.",
+      "pros": [
+        "0,20 % all-in (der niedrigste Wert)",
+        "Beste 2-Jahres-Rendite im Test"
+      ],
+      "cons": [
+        "Kein Tax-Loss Harvesting unter 50.000 €"
+      ]
+    }
+  },
+  "offerNotes": {
+    "betterment-robo": "Die Premium-Stufe für 0,40 % pro Jahr schaltet einen menschlichen Berater frei – lohnt sich ab 200.000 €.",
+    "wealthfront-robo": "Direct Indexing wird erst ab einem Guthaben von 100.000 € aktiviert.",
+    "schwab-intelligent-portfolios": "Die Premium-Stufe von Schwab (30 € pro Monat + 0 %) bringt einen menschlichen Berater – für die Zielplanung besser als Intelligent Portfolios allein.",
+    "fidelity-go": "Stellen Sie das Rebalancing auf quartalsweise – jährlich ist bei kleinen Depots zu träge.",
+    "vanguard-digital-advisor": "Personal Advisor Services beginnt bei 0,30 % ab 50.000 € und ergänzt einen menschlichen Berater – in höheren Stufen eine Überlegung wert."
+  },
+  "pinDescription": "Robo-Advisor 2026 im Kostencheck: Was Betterment, Wealthfront, Schwab, Fidelity Go und Vanguard bei 25.000 € wirklich kosten – und wo sich der Cash Drag versteckt. 💶",
+  "recommendedFor": [
+    {
+      "label": "Einsteiger, die mit weniger als 25.000 € starten",
+      "offerId": "fidelity-go",
+      "reason": "Fidelity Go kostet unter 25.000 € tatsächlich 0 € und nutzt Flex-Fonds ohne Kostenquote – ein wirklich gebührenfreier Start."
+    },
+    {
+      "label": "Gutverdiener mit steuerpflichtigem Wertpapierdepot",
+      "offerId": "wealthfront-robo",
+      "reason": "Direct Indexing ab 100.000 € erntet Verluste einzelner Aktien und erzeugt über 380 € Verluste pro Jahr, was bei hohem Steuersatz mehr als 141 € echte Steuerersparnis bringt."
+    },
+    {
+      "label": "Passive Einsteiger, die klare Zielvorgaben brauchen",
+      "offerId": "betterment-robo",
+      "reason": "Betterments Zieltöpfe trennen die Altersvorsorge vom Immobiliensparen, und das Tax-Loss Harvesting greift ab 0 € ohne Mindestguthaben."
+    },
+    {
+      "label": "Kostenbewusste, langfristig passive Indexanleger",
+      "offerId": "vanguard-digital-advisor",
+      "reason": "Die 0,20 % Gesamtkosten enthalten die ETF-Kosten bereits – die niedrigsten echten Gesamtkosten im Test, dazu die beste 2-Jahres-Rendite mit 22,4 %."
+    },
+    {
+      "label": "Bestehende Schwab-Kunden, die ihr Depot automatisieren wollen",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Ohne Beratungsgebühr ist es ein kostenloses Upgrade im bereits genutzten Schwab-Ökosystem, wo andere Kontovorteile den Cash Drag ausgleichen."
+    }
+  ]
 }

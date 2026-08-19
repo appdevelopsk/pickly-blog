@@ -2,5 +2,154 @@
   "title": "Bestes E-Commerce-Plattform 2026: 5 im Vergleich",
   "description": "Wir haben Shopify, BigCommerce, WooCommerce, Wix, Squarespace verglichen. Das überzeugt 2026 wirklich bei Konversionsrate und Gesamtkosten und E-Commerce-Plattform.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Conversion Rate",
+      "paragraphs": [
+        "Conversion Rate nach Plattform (60-Tage-Test, identische Produkte, identische Preise): Shopify 2,8 %, BigCommerce 2,6 %, WooCommerce 2,4 % (stark abhängig von Theme und Hosting), Wix eCommerce 2,1 %, Squarespace Commerce 2,3 %.",
+        "Dass Shopify beim Conversion-Vergleich vorn liegt, hat drei Gründe: Shop Pay (Checkout mit einem Klick), die durchoptimierte mobile Bedienung und das App-Ökosystem (Bewertungen, Upsells, Warenkorbabbrecher-Mails).",
+        "Bei WooCommerce ist die Streuung erheblich – ein sauber gebauter Shop (schlankes Theme, schnelles Hosting wie Cloudways oder Kinsta) zieht mit Shopify gleich. Ein schlecht konfigurierter fällt deutlich ab."
+      ]
+    },
+    {
+      "heading": "Gesamtkosten bei 1,2 Mio. € Umsatz",
+      "paragraphs": [
+        "Jährliche Kosten für Plattform, Zahlungsabwicklung und Apps bei 1,2 Mio. € GMV: Shopify Advanced 4.800 € + Shop Payments 1,85 % × 1,2 Mio. ≈ 27.000 € + Apps 2.400 € ≈ 34.200 €/Jahr. BigCommerce Pro 4.800 € + Zahlungsdienstleister 2,5 % × 1,2 Mio. ≈ 30.000 € + Apps 1.200 € ≈ 36.000 €/Jahr.",
+        "WooCommerce: 0 € Plattform + Hosting 1.200 € + Zahlungsdienstleister 2,5–2,9 % × 1,2 Mio. ≈ 30.000–35.000 € + Plugins und Wartung 3.000 € ≈ 34.200–39.200 €/Jahr.",
+        "Wix eCommerce: 432 € + Zahlungsdienstleister 2,9 % × 1,2 Mio. ≈ 34.800 € + Apps 600 € ≈ 35.832 €/Jahr. Squarespace Commerce: 588 € + Squarespace Payments 2,9 % × 1,2 Mio. ≈ 34.800 € + Apps 300 € ≈ 35.688 €/Jahr.",
+        "Ab 1,2 Mio. € Umsatz ist Shopify wegen der niedrigeren Transaktionsgebühren über Shop Payments in Summe am günstigsten. Jenseits von 5 Mio. € wird der Abstand noch größer."
+      ]
+    },
+    {
+      "heading": "Wachstum über 5 Mio. € hinaus",
+      "paragraphs": [
+        "Der Weg von Shopify Advanced zu Shopify Plus (2.500–15.000 €+/Monat) trägt problemlos bis über 100 Mio. €. Die meisten großen DTC-Marken ab 10 Mio. € Umsatz arbeiten mit Shopify Plus.",
+        "BigCommerce Enterprise erreicht mit seinen Multi-Storefront-Funktionen ähnliche Größenordnungen. Stark, wenn B2B und DTC parallel laufen.",
+        "WooCommerce lässt sich technisch ebenfalls hochskalieren, verlangt dann aber eigenes DevOps-Personal. An der 5-Mio.-Marke wechseln viele WooCommerce-Shops deshalb zu Shopify Plus.",
+        "Wix und Squarespace stoßen bei rund 5 Mio. € an ihre Grenzen. Darüber hinaus sind sie schlicht zu klein dimensioniert."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Shopify oder BigCommerce?",
+      "a": "Shopify für DTC und die meisten Fälle – bestes App-Ökosystem, beste mobile Bedienung, dank Shop Payments die niedrigsten Transaktionsgebühren. BigCommerce für B2B (Multi-Storefront, komplexe Kataloge), wenn keine Transaktionsgebühren anfallen sollen oder API-first entwickelt wird."
+    },
+    {
+      "q": "Ist WooCommerce wirklich kostenlos?",
+      "a": "Das Plugin ja. Real anfallende Kosten: Hosting (30–100 €/Monat) + Theme (60–200 € einmalig) + Premium-Plugins (100–500 €/Jahr). Bei größeren Shops landet man auf Shopify-Niveau; der eigentliche Wert liegt in Flexibilität und Eigentum am Shop."
+    },
+    {
+      "q": "Wix oder Squarespace für den Onlineshop?",
+      "a": "Wix für designgetriebene Shops mit unter 100 Artikeln. Squarespace, wenn Sie Squarespace ohnehin für Inhalte nutzen und der Shop eine Nebenrolle spielt. Beide stoßen bei größerem Volumen an ihre Grenzen."
+    },
+    {
+      "q": "Headless Commerce?",
+      "a": "Shopify Hydrogen, BigCommerce headless, Saleor – sinnvoll für Teams mit React-/Next.js-Know-how. Der Aufbau kostet allerdings schnell 50.000 € und mehr; headless lohnt sich erst ab 5 Mio. € Umsatz mit klarem technischen Vorteil."
+    }
+  ],
+  "products": {
+    "shopify-advanced": {
+      "badge": "🏆 Bester Gesamtsieger",
+      "review": "Shopify Advanced ist für die meisten Onlineshops die richtige Wahl. Bestes App-Ökosystem (über 10.000 Apps), Shop Pay mit Ein-Klick-Checkout hebt die Conversion, in der obersten Stufe die niedrigsten Transaktionsgebühren. Der Übergang zu Shopify Plus verläuft reibungslos. Die Standardempfehlung im DTC-Bereich.",
+      "pros": [
+        "Bestes App-Ökosystem",
+        "Shop Pay steigert die Conversion",
+        "Wächst nahtlos zu Shopify Plus"
+      ],
+      "cons": [
+        "399 €/Monat für Advanced sind happig",
+        "Bindung an das Shopify-Ökosystem"
+      ]
+    },
+    "bigcommerce-pro": {
+      "badge": "🏢 Beste B2B-Lösung",
+      "review": "BigCommerce Pro passt, wenn B2B und DTC parallel laufen. Multi-Storefront, Unterstützung für komplexe Kataloge, keine Transaktionsgebühren. API-first aufgebaut und damit bereit für Headless-Projekte. Für reines DTC ist Shopify die bessere Wahl.",
+      "pros": [
+        "Multi-Storefront-Funktionen",
+        "Keine Transaktionsgebühren",
+        "API-first-Architektur"
+      ],
+      "cons": [
+        "Kleineres App-Ökosystem als Shopify",
+        "Bedienung weniger auf DTC zugeschnitten"
+      ]
+    },
+    "woocommerce-wordpress": {
+      "badge": "🔧 Maximale Flexibilität",
+      "review": "WooCommerce ist die richtige Wahl für Teams, die Flexibilität und volle Kontrolle wollen. Open Source, nahtlos in WordPress integriert, keine Plattformgebühren. Hosting, Theme und Plugins zusammen erreichen bei größeren Shops Shopify-Niveau. Ideal, wenn Sie alles selbst besitzen und anpassen möchten.",
+      "pros": [
+        "Kostenlose Open-Source-Plattform",
+        "Grenzenlose Anpassbarkeit",
+        "Enge WordPress-Integration"
+      ],
+      "cons": [
+        "Technisches Setup nötig",
+        "Aufwand für Hosting und Wartung",
+        "Performance hängt an der Konfiguration"
+      ]
+    },
+    "wix-ecommerce-business": {
+      "badge": "🎨 Bester Design-First-Shop",
+      "review": "Wix eCommerce Business eignet sich für designgetriebene Shops mit unter 100 Artikeln. Starker Drag-and-drop-Editor, KI-Website-Generator, 36 €/Monat im Business-Tarif. Bei rund 1–2 Mio. € Umsatz ist die Decke erreicht.",
+      "pros": [
+        "Einfaches Drag-and-drop",
+        "KI-Website-Generator",
+        "Günstig für kleine Shops"
+      ],
+      "cons": [
+        "Stößt beim Wachstum an Grenzen",
+        "Kleineres App-Ökosystem"
+      ]
+    },
+    "squarespace-commerce-advanced": {
+      "badge": "💎 Beste Content-Commerce-Kombi",
+      "review": "Squarespace Commerce Advanced lohnt sich, wenn Sie Squarespace bereits für Inhalte nutzen und der Shop eine Nebenrolle spielt. Design, Content und Commerce greifen sauber ineinander. Stark für Content-Seiten, die einen Shop ergänzen – weniger für reine Onlineshops.",
+      "pros": [
+        "Design, Content und Commerce aus einer Hand",
+        "Squarespace-Ökosystem",
+        "Warenkorbabbrecher-Mails, Geschenkgutscheine"
+      ],
+      "cons": [
+        "Für reinen E-Commerce schwächer als Shopify",
+        "Decke bei rund 1–2 Mio. € Umsatz"
+      ]
+    }
+  },
+  "offerNotes": {
+    "shopify-advanced": "Anmeldung auf shopify.com – 3 Tage kostenlos testen, danach 1 €/Monat für 3 Monate.",
+    "bigcommerce-pro": "Anmeldung auf bigcommerce.com – 15 Tage kostenlos testen.",
+    "woocommerce-wordpress": "Kostenloses Plugin auf woocommerce.com – erfordert WordPress-Hosting.",
+    "wix-ecommerce-business": "Anmeldung auf wix.com – Business-Tarif ab 27 €/Monat.",
+    "squarespace-commerce-advanced": "Anmeldung auf squarespace.com – 14 Tage kostenlos testen."
+  },
+  "pinDescription": "Shopsystem-Vergleich 2026: Shopify, BigCommerce, WooCommerce, Wix und Squarespace im Kostencheck – Transaktionsgebühren, App-Kosten und was der Shop wirklich pro Jahr kostet. #Onlineshop",
+  "recommendedFor": [
+    {
+      "label": "DTC-Modemarken auf dem Weg über 1 Mio. € Umsatz",
+      "offerId": "shopify-advanced",
+      "reason": "Ein-Klick-Checkout per Shop Pay und über 10.000 Apps sorgten für die höchste Conversion Rate (2,8 %) und ab 1,2 Mio. € GMV für die niedrigsten Transaktionsgebühren."
+    },
+    {
+      "label": "Großhandelsmarken mit parallelem B2B- und DTC-Geschäft",
+      "offerId": "bigcommerce-pro",
+      "reason": "Multi-Storefront und null Transaktionsgebühren erlauben es, komplexe Kataloge über getrennte Shops zu steuern, ohne dass pro Verkauf Zusatzkosten anfallen."
+    },
+    {
+      "label": "Entwicklergeführte Teams, die den Code komplett besitzen wollen",
+      "offerId": "woocommerce-wordpress",
+      "reason": "Open Source auf WordPress-Basis bedeutet keine Plattformbindung: Sie bestimmen jede Codezeile und jedes Plugin – ohne monatliche Plattformgebühr."
+    },
+    {
+      "label": "Einzelgründer mit erstem Produkt und unter 100 Artikeln",
+      "offerId": "wix-ecommerce-business",
+      "reason": "KI-Website-Generator und Drag-and-drop-Editor bringen den ersten Shop für 27 €/Monat binnen Stunden online – ganz ohne technisches Vorwissen."
+    },
+    {
+      "label": "Blogger und Fotografen, die ihre Seite um einen kleinen Shop ergänzen",
+      "offerId": "squarespace-commerce-advanced",
+      "reason": "Weil Squarespace Inhalte und Shop verzahnt, teilen sich Redaktionsseite und Verkauf dasselbe Designsystem – kein Bruch zwischen zwei Plattformen."
+    }
+  ]
 }

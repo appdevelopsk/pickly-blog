@@ -384,7 +384,11 @@ function addLocaleToMeta(dir: string) {
 async function main() {
   const deindexed = deindexedSlugs();
   const all = readdirSync(ARTICLES).filter((d) => statSync(`${ARTICLES}/${d}`).isDirectory());
-  const keep = all.filter((s) => !deindexed.has(s));
+  // deindexed(noindex)記事は通常は翻訳対象外だが、日次ジョブの AI引用ガードが
+  // 「AI/Bingで実流入のある記事」を自動でindex復帰させる(pickly-enrich-daily.sh)。
+  // 復帰した瞬間に stub落ち = index対象の穴になるため、--include-deindexed で先回りして埋められる。
+  const INCLUDE_DEINDEXED = args.includes("--include-deindexed");
+  const keep = INCLUDE_DEINDEXED ? all : all.filter((s) => !deindexed.has(s));
   const hasEn = (s: string) => existsSync(`${ARTICLES}/${s}/messages/en.json`);
   const locPath = (s: string) => `${ARTICLES}/${s}/messages/${LOCALE}.json`;
   const missing = keep.filter((s) =>

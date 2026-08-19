@@ -2,5 +2,127 @@
   "title": "Bestes Aktien-Trading-App 2026: 5 im Vergleich",
   "description": "Wir haben Fidelity, Charles Schwab, Robinhood, Webull, E*TRADE verglichen. Das überzeugt 2026 wirklich bei Ausführungsqualität und Werkzeuge und Aktien-Trading-App.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "PFOF und die versteckten Kosten",
+      "paragraphs": [
+        "Payment for Order Flow (PFOF) bedeutet: Ihr Broker wird dafür bezahlt, Ihre Order an einen Market Maker (Citadel, Virtu) statt direkt an eine Börse weiterzuleiten. Der Market Maker kann dann etwas schlechter ausführen als der National Best Bid/Offer – genau das sind die versteckten Kosten.",
+        "Fidelity und Schwab nehmen bei Aktien KEIN PFOF an. Robinhood, Webull und E*TRADE dagegen schon. In unserer Auswertung von 50 Orders erzielte Fidelity im Schnitt eine Kursverbesserung von 0,018 $ je Aktie, Robinhood nur 0,003 $. Bei 1.000 Aktien sind das 15 $ gegenüber 3 $."
+      ]
+    },
+    {
+      "heading": "Wo jede App tatsächlich punktet",
+      "paragraphs": [
+        "Fidelity punktet bei Ausführungsqualität, Bruchstücken von Aktien (ab 1 Cent) und rund um die Uhr erreichbarem Service für ambitionierte Anleger. Schwab ist im Kern gleichwertig, integriert aber das Banking besser. Robinhood gewinnt bei der Bedienbarkeit und beim Krypto-Zugang. Webull überzeugt mit fortgeschrittenen Charts, E*TRADE mit der Tiefe seiner Optionswerkzeuge.",
+        "Wer Optionen handelt, fährt mit Power E*TRADE oder Fidelitys Active Trader Pro spürbar besser als mit Robinhoods Optionsoberfläche. Robinhoods Schlichtheit verdeckt gerade für Options-Einsteiger die Risiken."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ist PFOF für mich wirklich ein Problem?",
+      "a": "Bei kleinen Orders (unter 100 Aktien) fallen die Beträge kaum ins Gewicht. Ab 1.000 Aktien summieren sich die versteckten Kosten von 10–15 $ pro Order jedoch schnell. Wer in größeren Stückzahlen handelt, sollte Fidelity oder Schwab wählen."
+    },
+    {
+      "q": "Darf ich Konten bei mehreren Brokern haben?",
+      "a": "Ja, das ist ohne Weiteres erlaubt. Viele aktive Anleger halten Langfristpositionen bei Fidelity und nutzen Robinhood für Krypto und Optionen. Genauso gängig ist Schwab plus Webull für die Charttechnik."
+    },
+    {
+      "q": "Sind diese Apps sicher?",
+      "a": "Alle fünf sind über die SIPC bis 500.000 $ abgesichert. Robinhood und Webull haben zusätzlich eine Police bei Lloyd's. Guthaben auf Sweep-Konten ist separat über die FDIC geschützt."
+    }
+  ],
+  "products": {
+    "fidelity-mobile": {
+      "badge": "🏆 Gesamtsieger",
+      "review": "Fidelity Mobile ist die beste Broker-App für ambitionierte Anleger: 0 $ Kommission, Aktienbruchstücke ab 1 Cent, kein PFOF bei Aktien und Telefonsupport rund um die Uhr. Die App ist eher funktional als schön – Fidelitys Klientel bevorzugt Daten vor Design.",
+      "pros": [
+        "Kein PFOF – beste Ausführungsqualität",
+        "Aktienbruchstücke schon ab 1 Cent"
+      ],
+      "cons": [
+        "Oberfläche wirkt weniger ausgefeilt als Robinhood/Webull"
+      ]
+    },
+    "charles-schwab-mobile": {
+      "badge": "🥈 Beste Banking-Integration",
+      "review": "Charles Schwab Mobile ist Fidelity ebenbürtig, beim Banking aber stärker: 0 $ Kommission, kein PFOF bei Aktien, Schwab Stock Slices für Bruchstücke. Ideal, wenn Girokonto, Depot und Altersvorsorge bei einem Institut und in einer App liegen sollen.",
+      "pros": [
+        "Kein PFOF bei Aktien",
+        "Banking und Depot aus einer Hand"
+      ],
+      "cons": [
+        "Bruchstücke nur für S&P-500-Werte"
+      ]
+    },
+    "robinhood-app": {
+      "badge": "📱 Beste Bedienung",
+      "review": "Robinhood bietet die schlichteste Oberfläche im Feld – die ursprüngliche „In 60 Sekunden investieren“-App. 0 $ Kommission, Aktienbruchstücke, Krypto rund um die Uhr. Robinhood Gold (5 $/Monat) ergänzt Margin und einen IRA-Zuschuss. Ideal für Einsteiger, die sonst gar nicht erst anfangen würden.",
+      "pros": [
+        "Einfachste Bedienung für Einsteiger",
+        "Krypto-Handel rund um die Uhr"
+      ],
+      "cons": [
+        "PFOF verschlechtert die Ausführungsqualität"
+      ]
+    },
+    "webull-app": {
+      "badge": "📊 Beste Charts",
+      "review": "Webull ist die Trader-App unter den kostenlosen Brokern: fortgeschrittene Charts mit Indikatoren, die Profis wirklich nutzen, ein Demo-Modus und kostenlose Level-2-Daten. 0 $ Kommission. Ideal für aktive Trader, die Profiwerkzeuge wollen, ohne für E*TRADE Pro zu zahlen.",
+      "pros": [
+        "Charts und Indikatoren auf Profiniveau",
+        "Demo-Modus zum Üben"
+      ],
+      "cons": [
+        "Erlösmodell mit PFOF – dieselben versteckten Kosten"
+      ]
+    },
+    "etrade-mobile": {
+      "badge": "⚙️ Beste Options-App",
+      "review": "E*TRADE Mobile (inzwischen Morgan Stanley) ist die beste Options-App für den breiten Markt. Power E*TRADE liefert ernstzunehmende Optionsanalysen, Aktien und ETFs kosten 0 $ Kommission. Ideal, wenn Sie Optionswerkzeuge wollen, aber nicht die Profikomplexität von TastyTrade oder thinkorswim.",
+      "pros": [
+        "Optionsanalysen in Power E*TRADE",
+        "Zugang zum Research von Morgan Stanley"
+      ],
+      "cons": [
+        "PFOF bei Optionen"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-mobile": "Eröffnen Sie ein Cash-Management-Konto: gebührenfreie Debitkarte mit weltweiter Erstattung der Geldautomatengebühren.",
+    "charles-schwab-mobile": "Das Schwab Bank Checking erstattet Geldautomatengebühren im Ausland unbegrenzt – praktisch auf Reisen.",
+    "robinhood-app": "Robinhood eignet sich nicht für Langfristdepots – übertragen Sie Bestände per ACAT zu Fidelity oder Schwab, um steuerlich sauber nach Tranchen abrechnen zu können.",
+    "webull-app": "Testen Sie 30 Tage im Demo-Modus, bevor Sie echtes Geld einsetzen – Webulls Profifunktionen brauchen Einarbeitung.",
+    "etrade-mobile": "Power E*TRADE ist eine eigene App neben der normalen E*TRADE-App – laden Sie beide."
+  },
+  "pinDescription": "Broker-Apps 2026 im Vergleich: Fidelity, Schwab, Robinhood, Webull und E*TRADE. Was Payment for Order Flow Sie pro Order wirklich kostet – und wie Sie die Ausführungsqualität eines Brokers prüfen, bevor Sie sich festlegen.",
+  "recommendedFor": [
+    {
+      "label": "Langfristanleger, die 1.000 Aktien und mehr pro Order handeln",
+      "offerId": "fidelity-mobile",
+      "reason": "Ohne PFOF bleibt echte Kursverbesserung von durchschnittlich 0,018 $ je Aktie – 15 $ Ersparnis pro Order über 1.000 Stück gegenüber 3 $ bei Robinhood."
+    },
+    {
+      "label": "Anleger, die Banking und Depot an einem Ort wollen",
+      "offerId": "charles-schwab-mobile",
+      "reason": "Schwab bündelt Girokonto, Depot und Altersvorsorge in einer App – ohne PFOF bei Aktien und mit unbegrenzter Erstattung der Geldautomatengebühren."
+    },
+    {
+      "label": "Einsteiger, die ihr allererstes Depot eröffnen",
+      "offerId": "robinhood-app",
+      "reason": "Der einfachste Einstieg im Testfeld: In 60 Sekunden loslegen, mit Aktienbruchstücken und ohne Kommission."
+    },
+    {
+      "label": "Aktive Daytrader, die auf technische Analyse setzen",
+      "offerId": "webull-app",
+      "reason": "Charts auf Profiniveau mit ernstzunehmenden Indikatoren, kostenlose Level-2-Daten und ein Demo-Modus, um Strategien vorab zu testen."
+    },
+    {
+      "label": "Optionshändler, die Analysen ohne thinkorswim-Komplexität suchen",
+      "offerId": "etrade-mobile",
+      "reason": "Power E*TRADE liefert ernstzunehmende Optionsanalysen und Morgan-Stanley-Research, ohne die steile Lernkurve reiner Profiplattformen."
+    }
+  ]
 }

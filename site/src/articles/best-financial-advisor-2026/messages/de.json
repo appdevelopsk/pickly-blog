@@ -2,5 +2,147 @@
   "title": "Bestes Finanzberater 2026: 5 im Vergleich",
   "description": "Wir haben Vanguard, Betterment, Fidelity, Schwab, Facet verglichen. Das überzeugt 2026 wirklich bei Gebührenstruktur und Beraterzugang und Finanzberater.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Gebührenvergleich (Portfolio von 500.000 €)",
+      "paragraphs": [
+        "Vanguard PAS: 1.500 €/Jahr (0,30 % des Anlagevermögens).",
+        "Betterment Premium: 2.000 €/Jahr (0,40 % des Anlagevermögens, ab 100.000 € Mindestanlage).",
+        "Fidelity Wealth Services: 2.500–5.200 €/Jahr (0,50–1,04 % des Anlagevermögens).",
+        "Schwab Intelligent Portfolios: 0 €/Jahr (reiner Robo-Advisor, keine persönliche Beratung).",
+        "Facet Wealth: 2.400–6.000 €/Jahr (Pauschalgebühr im Abo, nicht vermögensabhängig)."
+      ]
+    },
+    {
+      "heading": "Der jeweils passende Anbieter",
+      "paragraphs": [
+        "Günstigste persönliche Beratung: Vanguard PAS. 0,30 % des Anlagevermögens, Beratung durch Certified Financial Planner mit Treuhandpflicht.",
+        "Beste digitale Lösung: Betterment Premium. Unbegrenzter CFP-Zugang plus Robo-Advisor für 0,40 % des Anlagevermögens.",
+        "Beste Mittelklasse mit persönlichem Berater: Fidelity Wealth Services. Fester Ansprechpartner ab 50.000 € Mindestanlage.",
+        "Bester kostenloser Robo-Advisor: Schwab Intelligent Portfolios. Keine Beratungsgebühr.",
+        "Beste Wahl für große Portfolios: Facet Wealth. Die Pauschalgebühr schlägt ab 1 Mio. € jedes vermögensabhängige Modell."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Brauche ich überhaupt einen Finanzberater?",
+      "a": "Vielleicht. Unter 250.000 € reichen meist ein Robo-Advisor (Schwab Intelligent Portfolios) oder ETF-Sparen in Eigenregie (Vanguard). Ab 500.000 € und bei komplexeren Verhältnissen – Immobilien, Unternehmensbeteiligungen, steuerliche Verlustverrechnung – zahlt sich ein Mensch aus."
+    },
+    {
+      "q": "Vermögensabhängige Gebühr oder Pauschale?",
+      "a": "Eine Gebühr in Prozent des Anlagevermögens wächst mit dem Depot mit: bei 250.000–500.000 € vertretbar, ab 2 Mio. € teuer. Pauschalen (Facet) sind ab 1 Mio. € günstiger, bei 250.000 € dagegen teurer. Rechnen Sie den Break-even für Ihre Situation aus."
+    },
+    {
+      "q": "Taugen Robo-Advisor etwas?",
+      "a": "Bei Portfolios unter 500.000 € und einfachen Anforderungen ja. Rebalancing und steuerliche Verlustverrechnung erledigen sie günstiger. An komplexer Steuerplanung, Nachlassregelung oder Unternehmerthemen scheitern sie."
+    },
+    {
+      "q": "Was ist mit unabhängigen Honorarberatern?",
+      "a": "Bei komplexen Verhältnissen sehr empfehlenswert. Sie rechnen nach Stunden (200–500 €) oder pauschal pro Finanzplan (1.500–5.000 €) ab und kassieren keine Provisionen. In den USA finden Sie sie über NAPFA.org oder das XY Planning Network, im deutschsprachigen Raum über den Verbund Deutscher Honorarberater."
+    }
+  ],
+  "products": {
+    "vanguard-pas": {
+      "badge": "🏆 Günstigste persönliche Beratung",
+      "review": "Vanguard Personal Advisor Services ist die richtige Wahl, wenn persönliche Beratung wenig kosten soll. 0,30 % des Anlagevermögens – der niedrigste Satz für menschliche Berater am Markt –, CFPs mit Treuhandpflicht, Schwerpunkt auf Vanguard-Fonds. Die CFPs sind echte Berater, keine Software, und stehen für unbegrenzt viele Gespräche bereit. Bestes Preis-Leistungs-Verhältnis bei Portfolios zwischen 500.000 € und 5 Mio. €.",
+      "pros": [
+        "0,30 % Gebühr – Bestwert bei persönlicher Beratung",
+        "CFPs mit Treuhandpflicht",
+        "Nahtlose Anbindung an Vanguard-Fonds"
+      ],
+      "cons": [
+        "Fokus auf Vanguard-Fonds, also aufs eigene Produktangebot beschränkt",
+        "Weniger individuell als teurere Angebote"
+      ]
+    },
+    "betterment-premium": {
+      "badge": "💎 Beste digitale Lösung",
+      "review": "Betterment Premium ist die richtige Wahl, wenn du digital anlegen und trotzdem einen CFP erreichen willst. 0,40 % des Anlagevermögens, ab 100.000 € Mindestanlage, unbegrenzter CFP-Zugang, den Handel übernimmt der Robo-Advisor. Steuerliche Verlustverrechnung ist inklusive. Ideal für technikaffine Anleger, die die Mischung aus Automatik und Mensch suchen.",
+      "pros": [
+        "Unbegrenzter CFP-Zugang",
+        "Automatisierung durch den Robo-Advisor",
+        "Steuerliche Verlustverrechnung inklusive"
+      ],
+      "cons": [
+        "Mindestanlage von 100.000 €",
+        "0,40 % – teurer als Vanguard"
+      ]
+    },
+    "fidelity-wealth-services": {
+      "badge": "🏛️ Beste Mittelklasse mit Berater",
+      "review": "Fidelity Wealth Services ist die richtige Wahl für klassische Beratung bei einem großen Broker. Ab 50.000 € Mindestanlage, fester Berater, je nach Servicestufe 0,50–1,04 % des Anlagevermögens. Passt vor allem zu Fidelity-Kunden ab 500.000 €, die einen einzigen Ansprechpartner wollen.",
+      "pros": [
+        "Fester persönlicher Berater",
+        "Direkte Anbindung ans Fidelity-Konto",
+        "Mehrere Servicestufen zur Auswahl"
+      ],
+      "cons": [
+        "0,50–1,04 % – deutlich teurer als Vanguard",
+        "Mindestanlage von 50.000 €"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "🆓 Bester kostenloser Robo-Advisor",
+      "review": "Schwab Intelligent Portfolios ist die richtige Wahl, wenn die Verwaltung nichts kosten soll. Keine Beratungsgebühr, 5.000 € Mindestanlage, Zielplanung inklusive. Schwab verdient stattdessen an der Cash-Quote: Rund 10 % des Portfolios liegen in gering verzinstem Schwab-Guthaben – das ist der Preis.",
+      "pros": [
+        "Keine Beratungsgebühr",
+        "Niedrige Mindestanlage von 5.000 €",
+        "Zielplanung inklusive"
+      ],
+      "cons": [
+        "Renditebremse durch rund 10 % gering verzinstes Cash",
+        "Kein Zugang zu menschlichen Beratern"
+      ]
+    },
+    "facet-wealth": {
+      "badge": "💸 Beste Wahl für große Portfolios",
+      "review": "Facet Wealth ist die richtige Wahl ab 1 Mio. € Anlagevermögen. Statt einer prozentualen Gebühr gibt es ein Pauschalabo für 2.400–6.000 € pro Jahr und einen festen CFP. Bei 2 Mio. € Depotwert kostet Facet 4.800 € im Jahr – deutlich weniger als 0,30 % Verwaltungsgebühr (6.000 €).",
+      "pros": [
+        "Pauschalgebühr, ab 1 Mio. € klar günstiger",
+        "Fester CFP als Ansprechpartner",
+        "Keine Interessenkonflikte durch vermögensabhängige Vergütung"
+      ],
+      "cons": [
+        "Bei 250.000 € teuer – die Pauschale übersteigt 1 % Verwaltungsgebühr",
+        "Deutlich kleineres Haus als Vanguard oder Fidelity"
+      ]
+    }
+  },
+  "offerNotes": {
+    "vanguard-pas": "Anmeldung über investor.vanguard.com. Mindestanlage für PAS: 500.000 €.",
+    "betterment-premium": "Anmeldung über betterment.com. Premium ab 100.000 €; die Stufe Digital (0,25 % des Anlagevermögens, ohne CFP-Zugang) hat keine Mindestanlage.",
+    "fidelity-wealth-services": "Anmeldung über fidelity.com oder telefonisch bei der Vermögensberatung. Mindestanlage 50.000 €.",
+    "schwab-intelligent-portfolios": "Anmeldung über schwab.com. Mindestanlage 5.000 €.",
+    "facet-wealth": "Anmeldung über facet.com. Pauschalmodell – das Angebot richtet sich nach der Komplexität Ihrer Finanzen."
+  },
+  "pinDescription": "Finanzberatung 2026 im Kostencheck: Wie viel frisst die Gebühr wirklich? Vanguard PAS, Betterment, Fidelity, Schwab und Facet im direkten Vergleich – inklusive der Frage, ab welchem Depotwert sich eine Pauschale mehr lohnt als eine Prozentgebühr. 💶",
+  "recommendedFor": [
+    {
+      "label": "Kostenbewusste Anleger mit 500.000 € bis 5 Mio. €",
+      "offerId": "vanguard-pas",
+      "reason": "Vanguard PAS verlangt nur 0,30 % des Anlagevermögens – der niedrigste Satz für echte CFP-Beratung – und spart damit jedes Jahr Tausende Euro gegenüber der Konkurrenz."
+    },
+    {
+      "label": "Technikaffine Anleger, die Automatik plus Rückendeckung wollen",
+      "offerId": "betterment-premium",
+      "reason": "Betterment Premium verbindet automatische Verlustverrechnung mit unbegrenztem CFP-Zugang – ideal, wenn das Depot laufen soll, aber Expertenrat trotzdem erreichbar bleibt."
+    },
+    {
+      "label": "Bestehende Fidelity-Kunden mit Wunsch nach festem Berater",
+      "offerId": "fidelity-wealth-services",
+      "reason": "Fidelity Wealth Services stellt ab 500.000 € einen einzigen Ansprechpartner zur Seite und bindet die Beratung direkt in vorhandene Fidelity-Konten ein."
+    },
+    {
+      "label": "Einsteiger mit weniger als 100.000 €",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Schwab Intelligent Portfolios kostet keine Beratungsgebühr und startet schon ab 5.000 €, sodass Gebühren die ersten Erträge nicht auffressen."
+    },
+    {
+      "label": "Vermögende Anleger ab 1 Mio. €",
+      "offerId": "facet-wealth",
+      "reason": "Facets Pauschale von 2.400–6.000 € im Jahr schlägt ab 1 Mio. € jede Prozentgebühr – bei 2 Mio. € sind das rund 1.200 € Ersparnis gegenüber Vanguards 0,30 %."
+    }
+  ]
 }

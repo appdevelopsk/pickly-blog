@@ -2,5 +2,147 @@
   "title": "Bestes Investmentplattform 2026: 5 im Vergleich",
   "description": "Wir haben Fidelity, Vanguard, Schwab, Robinhood, E*TRADE verglichen. Das überzeugt 2026 wirklich bei Kostenquoten und Plattformfunktionen und Investmentplattform.",
   "lede": "5 Modelle verglichen anhand veröffentlichter Spezifikationen, Herstellerangaben und unabhängiger Tests.",
-  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen."
+  "methodology": "Dieser Vergleich beruht auf Recherche: veröffentlichte Spezifikationen, Herstellerangaben sowie unabhängige Tests und Rezensionen.",
+  "sections": [
+    {
+      "heading": "Kostenquoten von Index-ETFs",
+      "paragraphs": [
+        "Fidelity-ZERO-Fonds: 0,00 % (FZROX, FZILX usw.) — nur in Fidelity-Depots verfügbar.",
+        "Vanguard-ETFs: 0,03 % (VTI), 0,07 % (VXUS), 0,03 % (BND). Branchenweit am günstigsten.",
+        "Schwab-ETFs: 0,03 % (SCHB), 0,06 % (SCHE), 0,03 % (SCHZ). Auf Vanguard-Niveau.",
+        "Andere Anbieter: Dieselben ETFs ohne Ordergebühr, aber meist ohne eigene Null-Kosten-Fonds."
+      ]
+    },
+    {
+      "heading": "Der passende Anbieter je nach Bedarf",
+      "paragraphs": [
+        "Beste Wahl insgesamt: Fidelity. ZERO-Fonds und Orders ohne Gebühr, Telefonsupport rund um die Uhr, breite Anlageklassen.",
+        "Beste Wahl für Indexanleger: Vanguard. Branchenweit niedrigste ETF-Kostenquoten, Erfinder des Indexfonds.",
+        "Beste Wahl für Banking plus Depot: Schwab. Integriertes Konto mit weltweit kostenlosen Abhebungen.",
+        "Beste Wahl für Mobil- und Gelegenheitsanleger: Robinhood. Beste App-Bedienung, dafür kaum Analysewerkzeuge.",
+        "Beste Wahl für aktive Trader: E*TRADE. Power-E*TRADE-Plattform mit ausgereiftem Optionshandel."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Spielt der Anbieter beim Indexinvestieren wirklich eine Rolle?",
+      "a": "Nur am Rand — die Gesamtkosten unterscheiden sich um etwa 0,01–0,05 % pro Jahr. Über 30 Jahre sind das bei 200.000 € rund 1.200 bis 6.000 €. Spürbar, aber nicht entscheidend. Wählen Sie den Anbieter, der zu Ihren übrigen Anforderungen passt."
+    },
+    {
+      "q": "Sollte ich den Anbieter wechseln?",
+      "a": "Nur wenn Sie mindestens 0,05 % an Kostenquote sparen oder echte Zusatzfunktionen gewinnen. Zum Wechsel gehören auch der steuerliche Papierkram für übertragene Anteile und die Einarbeitung in eine neue Oberfläche."
+    },
+    {
+      "q": "Ist Robinhood sicher?",
+      "a": "Ja — wie andere Broker über die SIPC abgesichert, standardmäßig bis 500.000 US-Dollar. Der GameStop-Vorfall 2021 hat das Geschäftsmodell über den Orderfluss offengelegt, die Depots selbst sind davon unberührt."
+    },
+    {
+      "q": "Und was ist mit Webull, Public und M1?",
+      "a": "Alle drei sind für bestimmte Zwecke brauchbar. Public setzt auf ethisches Investieren, M1 auf automatisierte Portfolioverwaltung, und Webull ähnelt Robinhood, bietet aber deutlich bessere Charts."
+    }
+  ],
+  "products": {
+    "fidelity-platform": {
+      "badge": "🏆 Beste Wahl insgesamt",
+      "review": "Fidelity ist für die meisten Anleger die beste Gesamtlösung. Keine Mindesteinlage, keine Ordergebühren, FZROX mit einer Kostenquote von 0,00 % (der einzige wirklich kostenlose Fonds), Telefonsupport rund um die Uhr und Filialen in größeren Städten. Depot, Altersvorsorge, Banking und Gesundheitskonto laufen an einer Stelle zusammen.",
+      "pros": [
+        "FZROX mit 0,00 % Kostenquote",
+        "Support rund um die Uhr plus Filialen",
+        "Größte Bandbreite an Anlageklassen"
+      ],
+      "cons": [
+        "ZERO-Fonds nur innerhalb von Fidelity übertragbar (Anbieterbindung)",
+        "ActiveTraderPro wirkt weniger ausgereift als ThinkOrSwim"
+      ]
+    },
+    "vanguard-platform": {
+      "badge": "💸 Beste Wahl für Indexfonds",
+      "review": "Vanguard passt zu Anlegern, die Indexfonds kaufen und liegen lassen. Die Kostenquoten der ETFs sind branchenweit am niedrigsten — über 30 Jahre summieren sich 0,01 bis 0,03 % Ersparnis gegenüber der Konkurrenz zu einem spürbaren Betrag. Gegründet von Jack Bogle. Die Oberfläche wirkt wie aus dem Jahr 2010, funktioniert aber zuverlässig.",
+      "pros": [
+        "Niedrigste ETF-Kostenquoten",
+        "Gegründet von Jack Bogle, dem Wegbereiter des Indexinvestierens",
+        "ETFs mit Referenzcharakter (VTI, VXUS)"
+      ],
+      "cons": [
+        "Veraltete Oberfläche",
+        "Wenig Werkzeuge für aktives Traden"
+      ]
+    },
+    "schwab-platform": {
+      "badge": "🏦 Beste Wahl fürs Banking",
+      "review": "Schwab ist die richtige Wahl, wenn Konto und Depot zusammengehören sollen. Keine Ordergebühren, das Schwab-Bank-Girokonto ohne Fremdwährungsgebühr und mit weltweit kostenlosen Abhebungen. Der Robo-Advisor Intelligent Portfolios ist gratis. 2023 wurde TD Ameritrade übernommen, seither gehört ThinkOrSwim zu Schwab.",
+      "pros": [
+        "Konto und Depot aus einer Hand",
+        "Weltweit gebührenfrei Geld abheben",
+        "ThinkOrSwim nach der TD-Übernahme"
+      ],
+      "cons": [
+        "Intelligent Portfolios hält viel Cash",
+        "Bei der TD-Ameritrade-Migration hakt es stellenweise"
+      ]
+    },
+    "robinhood-platform": {
+      "badge": "📱 Beste App-Bedienung",
+      "review": "Robinhood eignet sich für Gelegenheitsanleger, die vor allem vom Handy aus investieren. Die App ist die beste der Branche, Orders sind gebührenfrei, Bruchstücke von Anteilen sind möglich. Analysewerkzeuge und fortgeschrittene Funktionen fehlen im Vergleich zu Fidelity oder Schwab. Ideal, um hin und wieder breit streuende ETFs zu kaufen.",
+      "pros": [
+        "Beste App-Bedienung",
+        "Anteilsbruchstücke handelbar",
+        "Depot in wenigen Minuten eröffnet"
+      ],
+      "cons": [
+        "Kaum Analysewerkzeuge",
+        "Geschäftsmodell über den Orderfluss",
+        "Wenige Kontoarten"
+      ]
+    },
+    "etrade-platform": {
+      "badge": "📈 Beste Wahl für Trader",
+      "review": "E*TRADE ist die richtige Plattform für aktive Trader. Power E*TRADE bietet fortgeschrittene Charts, ist auf Optionen ausgelegt und verzichtet auf Ordergebühren. Inzwischen gehört der Anbieter zu Morgan Stanley. Für aktives Traden und Optionsstrategien ist Power E*TRADE robust aufgestellt.",
+      "pros": [
+        "Power E*TRADE fürs aktive Traden",
+        "Starke Optionsplattform",
+        "Gehört zu Morgan Stanley"
+      ],
+      "cons": [
+        "Bedienung weniger einsteigerfreundlich als bei Robinhood",
+        "Integration in Morgan Stanley läuft noch"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-platform": "Anmeldung auf fidelity.com. Die ZERO-Fonds (FZROX, FZILX, FZIPX, FZIPX) gibt es ausschließlich bei Fidelity.",
+    "vanguard-platform": "Anmeldung auf investor.vanguard.com. VTI und VXUS sind die Flaggschiff-ETFs des Hauses.",
+    "schwab-platform": "Anmeldung auf schwab.com. Das Girokonto der Schwab Bank ist das entscheidende Argument.",
+    "robinhood-platform": "Anmeldung auf robinhood.com oder direkt in der App. Robinhood Gold (5 US-Dollar im Monat) ergänzt Analysewerkzeuge.",
+    "etrade-platform": "Anmeldung auf us.etrade.com. Für fortgeschrittene Funktionen Power E*TRADE nutzen, das getrennt von der normalen App läuft."
+  },
+  "pinDescription": "Depot-Vergleich 2026: Fidelity, Vanguard, Schwab, Robinhood und E*TRADE im Kostencheck — welcher Anbieter passt zu ETF-Sparplan, welcher zum aktiven Traden?",
+  "recommendedFor": [
+    {
+      "label": "Langfristige Altersvorsorge, bei der jeder Basispunkt zählt",
+      "offerId": "fidelity-platform",
+      "reason": "FZROX von Fidelity ist mit 0,00 % Kostenquote der einzige wirklich kostenlose Fonds und spart über Jahrzehnte des Ansparens spürbar Zinseszinskosten."
+    },
+    {
+      "label": "Passive Anleger, die konsequent auf günstige Indexfonds setzen",
+      "offerId": "vanguard-platform",
+      "reason": "VTI und VXUS kommen mit branchenweit niedrigen 0,03 bis 0,07 % Kostenquote, und Gründer Jack Bogle hat genau diese Anlagestrategie überhaupt erst begründet."
+    },
+    {
+      "label": "Vielreisende, die Bargeld und Depot parallel verwalten",
+      "offerId": "schwab-platform",
+      "reason": "Das Girokonto der Schwab Bank kostet keine Fremdwährungsgebühr und erlaubt weltweit kostenlose Abhebungen — kein anderer Broker lässt Ihr Geld so frei mitreisen."
+    },
+    {
+      "label": "Junge Einsteiger, die mit kleinen Beträgen anfangen",
+      "offerId": "robinhood-platform",
+      "reason": "Dank erstklassiger App und handelbarer Anteilsbruchstücke steigen Anfänger auch in teure Aktien und ETFs mit beliebigen Beträgen ein, ganz ohne Mindestanlage."
+    },
+    {
+      "label": "Aktive Trader mit Optionen und mehrbeinigen Strategien",
+      "offerId": "etrade-platform",
+      "reason": "Die fortgeschrittenen Charts und das Optionswerkzeug von Power E*TRADE bewältigen komplexe mehrbeinige Strategien, an denen einfachere Plattformen scheitern."
+    }
+  ]
 }

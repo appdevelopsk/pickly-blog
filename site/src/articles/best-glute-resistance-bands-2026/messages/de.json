@@ -147,5 +147,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "Jedes Produkt wurde anhand von fünf Kriterien bewertet: Verarbeitungsqualität, Leistung im typischen Gebrauch, Langzeithaltbarkeit, Komfort und Preis-Leistungs-Verhältnis. Leistung und Haltbarkeit haben wir am stärksten gewichtet, da sie darüber entscheiden, ob ein Produkt auch noch nach 12 Monaten brauchbar ist."
+  "methodology": "Jedes Produkt wurde anhand von fünf Kriterien bewertet: Verarbeitungsqualität, Leistung im typischen Gebrauch, Langzeithaltbarkeit, Komfort und Preis-Leistungs-Verhältnis. Leistung und Haltbarkeit haben wir am stärksten gewichtet, da sie darüber entscheiden, ob ein Produkt auch noch nach 12 Monaten brauchbar ist.",
+  "recommendedFor": [
+    {
+      "label": "Home-Gym-Sportler, die beim Hip Thrust vorankommen wollen",
+      "offerId": "victorem-hip-resistance-bands",
+      "reason": "Das breite Stoffband verrutscht auch bei belasteten Hip Thrusts nicht, und dank drei Widerstandsstufen steigern Sie sich, ohne gleich ein neues Set kaufen zu müssen."
+    },
+    {
+      "label": "Preisbewusste Einsteiger, die sich eine Bandsammlung aufbauen",
+      "offerId": "fit-simplify-resistance-loop-bands",
+      "reason": "Fünf farbcodierte Bänder von extraleicht bis extraschwer für unter 15 € — da lässt sich das komplette Set ersetzen, wenn das Latex ermüdet, ohne dass es wehtut."
+    },
+    {
+      "label": "Glute-Training in Leggings, jeden Tag",
+      "offerId": "peach-bands-fabric-set",
+      "reason": "Das rutschfeste Wabenmuster ist direkt in den Stoff eingewebt und nicht nur aufgedruckt — es hält auf Leggings und Shorts Einheit für Einheit."
+    },
+    {
+      "label": "Wiedereinstieg nach Hüft- oder Knieverletzung",
+      "offerId": "theraband-resistance-loop",
+      "reason": "Die genormten Widerstandsstufen in Praxisqualität entsprechen genau dem, was Physiotherapeuten verordnen — so lässt sich ein Reha-Plan exakt umsetzen."
+    },
+    {
+      "label": "Gymshark-Träger, die ein passendes Set suchen",
+      "offerId": "gymshark-resistance-band",
+      "reason": "Die Strickstruktur franst kaum aus und ist farblich auf die aktuellen Gymshark-Kollektionen abgestimmt: einheitlicher Look bei besserer Haltbarkeit als bei den meisten Stoffbändern."
+    }
+  ]
 }
