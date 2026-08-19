@@ -30,6 +30,8 @@ let errors = 0;
 /** loader.ts の BODY_KEYS と同じ。欠けると記事が stub 送りになるキー。 */
 const BODY_KEYS = ["sections", "products", "faqs"];
 const missingBodyHits: string[] = [];
+/** ロケールファイルが存在しない = 同じく stub 送り。落とさず可視化のみ(理由は audit() 内)。 */
+const missingFileHits: string[] = [];
 /** 既存 backlog は数千件あるので即エラーにはできない。増えたときだけ落とすラチェット。 */
 const BASELINE_PATH = path.join(ROOT, "scripts/i18n-stub-baseline.json");
 
@@ -42,7 +44,14 @@ function audit(label: string, baseFile: string, otherFile: string) {
     return;
   }
   if (!other) {
-    // Missing locale file falls back to English at runtime — skip rather than error.
+    // ★2026-08-19: ここには "falls back to English at runtime" と書いてあったが、
+    //   記事メッセージについてはこれも誤り。loader.ts の isArticleBodyTranslated() は
+    //   `if (!msg?.title) return false` なので、ファイルごと無い場合も BODY_KEYS 欠落と
+    //   同じく stub 送りになる(そのロケールでは実質存在しない)。
+    //   ただしこれは「まだ翻訳していない」正常状態でもあり、sitemap/feed も
+    //   isArticleBodyTranslated で除外するため英語本文が index される害は無い。
+    //   新記事を足すたびに CI が赤くなるのは不適切なので、落とさず件数だけ可視化する。
+    missingFileHits.push(label);
     return;
   }
   const baseKeys = new Set(flatKeys(base));
@@ -107,6 +116,18 @@ if (process.argv.includes("--update-baseline")) {
   errors++;
 } else {
   console.log(`stub 落ち: ${missingBodyHits.length} 件 (baseline ${prev})`);
+}
+
+// 3.5) ファイル自体が無いロケール = 未翻訳。ゲートはしないが、黙って増えるのを防ぐため常に表示。
+if (missingFileHits.length) {
+  const byLocale = new Map<string, number>();
+  for (const h of missingFileHits) {
+    const loc = h.slice(h.lastIndexOf("/") + 1).replace(/\.json$/, "");
+    byLocale.set(loc, (byLocale.get(loc) ?? 0) + 1);
+  }
+  const top = [...byLocale.entries()].sort((a, b) => b[1] - a[1]).map(([l, n]) => `${l} ${n}`);
+  console.log(`未翻訳(ファイル未作成): ${missingFileHits.length} 件 — ${top.join(" / ")}`);
+  console.log(`  埋めるなら: npx tsx scripts/fill-translations.ts --locale <loc>`);
 }
 
 if (errors > 0) {
