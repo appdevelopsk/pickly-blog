@@ -2,5 +2,148 @@
   "title": "2026'nın en iyi bulut hosting: 5 ürün karşılaştırma",
   "description": "AWS, Google Cloud, Azure, DigitalOcean, Render ürünlerini karşılaştırdık. 2026'da bulut hosting için soğuk başlangıç gecikmesi ve gerçek maliyet açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Soğuk başlatma gecikmesi",
+      "paragraphs": [
+        "Yeni bir bölgede soğuk başlatma süresi: Render 4 sn, DigitalOcean App Platform 8 sn, AWS EC2 (Auto Scaling Group başlatma) 45 sn, Google Cloud Compute Engine 35 sn, Azure VMs 50 sn. PaaS katmanları (Render, DigitalOcean App Platform) soğuk başlatma sorununu sizden gizliyor; IaaS tarafındaki devler (AWS, GCP, Azure) ise bu yükü olduğu gibi devralıyor.",
+        "Sıcak yanıt p99: AWS EC2 (M6i) 180 ms, GCP (n2-standard) 195 ms, Azure (D2s_v5) 210 ms, DigitalOcean App Platform 220 ms, Render 240 ms. Sıcak performansta büyük sağlayıcılar önde; PaaS katmanları soyutlamanın bedeli olarak 30-60 ms ekliyor."
+      ]
+    },
+    {
+      "heading": "Yük altında otomatik ölçekleme",
+      "paragraphs": [
+        "CPU %70'i aştığında kapasite eklenme süresi: Render 90 saniye, DigitalOcean App Platform 2 dakika, AWS EC2 (Auto Scaling Group + warm pool) 60 saniye, Google Cloud (instance group) 2 dakika, Azure (Scale Set) 3 dakika. Warm pool kullanan AWS ölçekleme hızında birinci, Azure ise en yavaşı.",
+        "PaaS katmanları (Render, DigitalOcean App Platform) otomatik ölçeklemeyi hiçbir ayar gerektirmeden hallediyor. IaaS tarafında ise Auto Scaling Group / instance group kurulumunu elle yapmanız gerekiyor."
+      ]
+    },
+    {
+      "heading": "Gerçek aylık fatura",
+      "paragraphs": [
+        "Aynı iş yükü (tepede 4 instance, ortalama 2 instance, her biri 8 vCPU): AWS EC2 aylık 620 $ (RI indirimiyle), Google Cloud aylık 710 $ (sürekli kullanım indirimiyle), Azure aylık 780 $ (rezerve instance ile), DigitalOcean App Platform aylık 480 $, Render aylık 440 $.",
+        "16 vCPU altındaki öngörülebilir iş yüklerinde PaaS katmanları (DigitalOcean, Render) büyük sağlayıcılardan ucuz. Ölçek büyüdükçe (20+ instance) daha derin indirim programları sayesinde devler öne geçiyor. Azure ise farklı iş yüklerinin hepsinde istikrarlı biçimde en pahalısı."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ne zaman AWS, ne zaman DigitalOcean App Platform kullanmalıyım?",
+      "a": "Kabaca 10 vCPU'ya kadar sabit yükte DigitalOcean App Platform / Render. Karmaşık ağ yapısı, özel instance tipleri (GPU, ARM) veya kurumsal uyumluluk sertifikaları gerektiği anda AWS EC2."
+    },
+    {
+      "q": "Render mı, DigitalOcean App Platform mı?",
+      "a": "Render'ın soğuk başlatması daha hızlı. DigitalOcean App Platform aynı özellikte daha düşük çalışma maliyeti sunuyor. Render'ın kullanıcı deneyimi biraz daha cilalı; DigitalOcean ise 'kiralık VPS + otomatik ölçekleme' modeline daha yakın."
+    },
+    {
+      "q": "Azure neden sürekli daha pahalı?",
+      "a": "Azure'un fiyatlandırması kurumsal tarafa göre kurgulanmış; bireysel ve KOBİ iş yükleri eşdeğer EC2 veya GCP'ye kıyasla daha fazla ödüyor. Zaten Microsoft'un kurumsal ekosistemindeyseniz (AD, Office 365 entegrasyonu) mantıklı, aksi halde değil."
+    },
+    {
+      "q": "Rezerve instance almaya değer mi?",
+      "a": "Öngörülebilir bir taban yük varsa evet. RI'lar AWS/GCP'de talep üzerine fiyata göre %30-60 tasarruf sağlıyor. Stabil iş yükleri için 1 yıllık alın; 3 yıllığı ancak mimarinin ciddi biçimde değişmeyeceğinden eminseniz."
+    }
+  ],
+  "products": {
+    "aws-ec2-cloud": {
+      "badge": "🏆 Ölçeklenme için en iyisi",
+      "review": "Birkaç instance'ın ötesine geçecekseniz doğru tercih AWS EC2. En geniş instance yelpazesi (genel amaçlı, işlem, bellek, GPU, ARM Graviton), en derin indirim programları (RI, Savings Plans) ve sınıfının en iyisi ağ altyapısı. Bedeli ise karmaşıklık. PaaS'a sığmamaya başladığınızda geçin.",
+      "pros": [
+        "En geniş instance tipi seçeneği",
+        "En derin indirim programları",
+        "Sınıfının en iyisi ağ altyapısı"
+      ],
+      "cons": [
+        "Karmaşık IAM ve ağ yapılandırması",
+        "ASG'de 45 saniyelik soğuk başlatma"
+      ]
+    },
+    "google-cloud-compute-engine": {
+      "badge": "🎯 ML/Analitik için en iyisi",
+      "review": "İş yükünüz makine öğrenmesi ya da analitiğe dokunuyorsa doğru tercih Google Cloud Compute Engine. BigQuery, Vertex AI ve TPU'larla en iyi entegrasyon burada. Sürekli kullanım indirimi otomatik uygulanıyor, RI taahhüdü gerekmiyor. Fiyat AWS'in bir tık üzerinde.",
+      "pros": [
+        "En iyi ML/analitik entegrasyonu",
+        "Otomatik sürekli kullanım indirimi",
+        "Host bakımı sırasında canlı taşıma"
+      ],
+      "cons": [
+        "AWS'e göre daha küçük ekosistem",
+        "Aynı özellikte AWS'ten biraz pahalı"
+      ]
+    },
+    "azure-virtual-machines": {
+      "badge": "🪪 Microsoft ekosistemi için en iyisi",
+      "review": "Microsoft kurumsal ekosistemine bağlıysanız (Active Directory, Office 365, .NET iş yükleri) doğru tercih Azure VMs. Hibrit bulut tarafında rakipsiz. Zayıf noktası fiyat — eşdeğer iş yüklerinde AWS/GCP'den istikrarlı biçimde %10-20 daha pahalı.",
+      "pros": [
+        "En iyi Microsoft ekosistemi entegrasyonu",
+        "Hibrit bulut (Azure Arc)",
+        "Güçlü kurumsal uyumluluk"
+      ],
+      "cons": [
+        "Bu karşılaştırmanın istikrarlı biçimde en pahalısı",
+        "50 saniyelik soğuk başlatma (en yavaşı)"
+      ]
+    },
+    "digitalocean-app-platform": {
+      "badge": "💰 Fiyat/performansta en iyi PaaS",
+      "review": "PaaS rahatlığını VPS'in öngörülebilir fiyatıyla isteyen ekipler için doğru tercih DigitalOcean App Platform. Aynı özellikte Render'dan ucuz, soğuk başlatması biraz daha yavaş. Git push ile dağıtım güçlü, yönetilen Postgres pakete dahil. Küçük ve orta ölçekli web uygulamalarının %80'i için doğru cevap.",
+      "pros": [
+        "Büyük sağlayıcılardan ucuz",
+        "Öngörülebilir aylık fiyat",
+        "Git push ile dağıtım"
+      ],
+      "cons": [
+        "Render'dan yavaş soğuk başlatma",
+        "Daha az özel instance tipi"
+      ]
+    },
+    "render-cloud": {
+      "badge": "⚡ En iyi geliştirici deneyimi",
+      "review": "Geliştirici deneyimini önceleyen ekipler için doğru tercih Render. 4 saniyelik soğuk başlatma (bu karşılaştırmanın en hızlısı), ayar gerektirmeyen otomatik ölçekleme, otomatik SSL + DDoS koruması. Maliyeti DigitalOcean'dan biraz yüksek. 2026'nın Heroku alternatifi.",
+      "pros": [
+        "Bu karşılaştırmanın en hızlı soğuk başlatması",
+        "En iyi geliştirici deneyimi",
+        "Ayar gerektirmeyen otomatik ölçekleme"
+      ],
+      "cons": [
+        "DO'dan biraz pahalı",
+        "Daha küçük ekosistem"
+      ]
+    }
+  },
+  "offerNotes": {
+    "aws-ec2-cloud": "aws.amazon.com üzerinden kaydolun. Instance boyutlarını doğru seçmek için AWS Compute Optimizer'ı kullanın.",
+    "google-cloud-compute-engine": "cloud.google.com üzerinden kaydolun. Yeni hesaplara 300 $ ücretsiz kredi.",
+    "azure-virtual-machines": "azure.microsoft.com üzerinden kaydolun. Yeni hesaplara 200 $ ücretsiz kredi.",
+    "digitalocean-app-platform": "digitalocean.com üzerinden kaydolun. Yeni hesaplara 200 $ ücretsiz kredi.",
+    "render-cloud": "render.com üzerinden kaydolun. Statik siteler için ücretsiz plan; ücretli planlar aylık 7 $'dan başlıyor."
+  },
+  "pinDescription": "Bulut sunucu faturanız neden bu kadar kabarık? AWS EC2, GCP, Azure, DigitalOcean App Platform ve Render'ı gerçek rakamlarla karşılaştırdık: soğuk başlatma, ölçekleme hızı ve aylık maliyet. Küçük bir Next.js projesi için hangisi mantıklı, kaydet de unutma.",
+  "recommendedFor": [
+    {
+      "label": "Hızlı ürün çıkaran bağımsız geliştiriciler ve küçük girişimler",
+      "offerId": "render-cloud",
+      "reason": "Render'ın 4 saniyelik soğuk başlatması ve ayar gerektirmeyen otomatik ölçeklemesi DevOps yükünü ortadan kaldırıyor; tek kişilik bir ekip altyapıyla uğraşmadan ürün çıkarabiliyor."
+    },
+    {
+      "label": "Trafiği öngörülebilir, bütçesine dikkat eden ekipler",
+      "offerId": "digitalocean-app-platform",
+      "reason": "AWS'te 620 $'ı aşan aynı iş yükü burada aylık 440 $; DigitalOcean App Platform en düşük faturayı Git push dağıtımı ve dahil edilen yönetilen Postgres ile birlikte sunuyor."
+    },
+    {
+      "label": "ML hattı ya da veri analitiği yürüten mühendislik ekipleri",
+      "offerId": "google-cloud-compute-engine",
+      "reason": "Yerleşik BigQuery ve Vertex AI entegrasyonu, işlem ile analitiğin aynı platformda yaşadığı durumlarda GCP'yi doğal seçenek yapıyor; üstelik sürekli kullanım indirimi otomatik."
+    },
+    {
+      "label": "Microsoft ekosisteminin göbeğindeki kurumsal ekipler",
+      "offerId": "azure-virtual-machines",
+      "reason": "Azure Arc hibrit bulut ile sıkı Active Directory / Office 365 entegrasyonu, Windows Server üzerinde .NET iş yükü çalıştıran kurumlar için %10-20'lik fiyat farkını haklı çıkarıyor."
+    },
+    {
+      "label": "10 instance'ı aşarak büyüyen SaaS şirketleri",
+      "offerId": "aws-ec2-cloud",
+      "reason": "AWS EC2 warm pool'ları ölçekleme süresini 60 saniyeye indiriyor ve Reserved Instance indirimleri ölçekle birlikte katlanıyor — büyüdükçe ucuzlayan tek platform."
+    }
+  ]
 }

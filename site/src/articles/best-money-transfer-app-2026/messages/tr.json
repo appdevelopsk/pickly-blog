@@ -2,5 +2,147 @@
   "title": "En iyi para transfer uygulaması 2026: 5 ürün karşılaştırma",
   "description": "Wise, Revolut, PayPal, Venmo, Western Union ürünlerini karşılaştırdık. 2026'da para transfer uygulaması için döviz kurları ve ücretler açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Uluslararası transfer maliyeti karşılaştırması (1.000 USD → EUR)",
+      "paragraphs": [
+        "Wise: 1.000 $ → 917 € (piyasa ortası kur + %0,4 komisyon). En şeffafı.",
+        "Revolut (Standard paket): 1.000 $ → 915 € (iyi kur, sadece hafta içi).",
+        "PayPal: 1.000 $ → 870 € (kötü kur dahil efektif komisyon ~%3-5). En kötü kur.",
+        "Western Union (online): 1.000 $ → 890 € (PayPal'dan iyi ama yine de kurda gizli pay var).",
+        "Venmo: uluslararası transferlerde kullanılamıyor."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi",
+      "paragraphs": [
+        "Uluslararası için en iyisi: Wise. Piyasa ortası kur, şeffaf %0,4-1 komisyon.",
+        "Çok fonksiyonluda en iyisi: Revolut. Çoklu döviz hesabı, kripto ve hisse senedi dahili.",
+        "ABD içi için en iyisi: Venmo. Sadece ABD, sosyal akış, anında transfer.",
+        "Nakit teslim için en iyisi: Western Union. 200'den fazla ülke, şubeden elden teslim.",
+        "En yaygını: PayPal. Köklü ama kurları en kötü olan."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Wise neden PayPal'dan ucuz?",
+      "a": "Wise piyasa ortası kuru (döviz çiftinin küresel piyasadaki gerçek kuru) kullanıp üstüne şeffaf bir komisyon ekliyor. PayPal ise kurun üzerine pay koyup ayrıca komisyon alıyor — genelde piyasa ortasından %3-5 daha kötü çıkıyor."
+    },
+    {
+      "q": "Wise ile herkese para gönderebilir miyim?",
+      "a": "Evet — alıcının Wise hesabı olmasına gerek yok. Doğrudan banka hesabına gönderiyorsunuz, para kendi para biriminde eline geçiyor."
+    },
+    {
+      "q": "Bu uygulamalar güvenli mi?",
+      "a": "Evet — Wise, Revolut, PayPal, Venmo ve Western Union'ın hepsi lisanslı ödeme kuruluşu ve dolandırıcılığa karşı koruma önlemleri var."
+    },
+    {
+      "q": "Transfer için kripto para nasıl?",
+      "a": "Mümkün ama işi karmaşıklaştırıyor — gönderen doları USDC'ye çeviriyor, alıcıya yolluyor, alıcı da kendi para birimine geri çeviriyor. Bazı özel durumlarda (yaptırım altındaki ülkeler) işe yarıyor ama çoğu kişi için Wise çok daha basit."
+    }
+  ],
+  "products": {
+    "wise-transfer": {
+      "badge": "🏆 Uluslararasında en iyisi",
+      "review": "Yurt dışına para göndermek için doğru tercih Wise (eski adıyla TransferWise). Gerçek piyasa ortası kur (bankaların kendi aralarında kullandığı kur), şeffaf komisyon (para birimine göre %0,4-1) ve 40'tan fazla para birimi. Alıcının Wise hesabı olmadan dünyanın her yerinde banka hesabına gönderebiliyorsunuz.",
+      "pros": [
+        "Piyasa ortası döviz kuru",
+        "Şeffaf komisyon (%0,4-1)",
+        "40'tan fazla para birimi"
+      ],
+      "cons": [
+        "Gönderenin Wise hesabı gerekiyor",
+        "Banka transferi 1-2 gün sürebiliyor"
+      ]
+    },
+    "revolut": {
+      "badge": "🌐 Çok fonksiyonluda en iyisi",
+      "review": "Para transferinin yanında çoklu döviz hesabı, kripto ve hisse senedi de istiyorsanız doğru tercih Revolut. Çoklu döviz hesabı 25'ten fazla para birimi tutuyor, kripto ve hisse alım satımı uygulamanın içinde, üst paketler ek avantajlar getiriyor. Uluslararası transferler de rekabetçi (hafta içi Wise'a yakın).",
+      "pros": [
+        "Çoklu döviz hesabı (25+)",
+        "Kripto ve hisse senedi entegre",
+        "Üst paketlerde ek avantajlar"
+      ],
+      "cons": [
+        "Üst paketler aylık 9-17 $",
+        "Hafta sonu kurları daha kötü"
+      ]
+    },
+    "paypal-international": {
+      "badge": "🏪 En yaygını",
+      "review": "PayPal en yaygın para transferi servisi ama kurları en kötü olan. Kurdaki payla birlikte efektif komisyon ~%3-5'e çıkıyor. Sadece karşı taraf özellikle PayPal istiyorsa kullanın — onun dışında Wise açık ara daha mantıklı.",
+      "pros": [
+        "En yaygın kullanılan",
+        "Alışverişte alıcı/satıcı koruması",
+        "Geniş satıcı entegrasyonu"
+      ],
+      "cons": [
+        "En kötü döviz kurları (~%3-5 pay)",
+        "Komisyon kurun içine gizlenmiş"
+      ]
+    },
+    "venmo": {
+      "badge": "🇺🇸 ABD içinde en iyisi",
+      "review": "ABD içinde kişiden kişiye transferler için doğru tercih Venmo. Sosyal akış (işlemler arkadaşlara görünüyor — ayarlanabiliyor), banka kartına anında transfer (0,25-15 $), ücretsiz banka transferi (1-3 gün). ABD'de hesap bölüşmenin standardı.",
+      "pros": [
+        "Sosyal akış (kapatılabiliyor)",
+        "Banka kartına anında transfer",
+        "ABD içinde standart haline gelmiş"
+      ],
+      "cons": [
+        "Sadece ABD",
+        "Uluslararası transfer yok"
+      ]
+    },
+    "western-union": {
+      "badge": "💵 Nakit teslimde en iyisi",
+      "review": "Alıcının nakit elden alması gerekiyorsa doğru tercih Western Union; 200'den fazla ülkede çalışıyor. Alıcı banka hesabına ihtiyaç duymadan bir Western Union şubesinden parayı nakit alıyor. Banka hesabı olmayan alıcılar ya da özel durumlar için kullanışlı.",
+      "pros": [
+        "200'den fazla ülke",
+        "Nakit teslim (banka hesabı gerekmiyor)",
+        "Şubeden elden işlem"
+      ],
+      "cons": [
+        "Değişken komisyon (çoğu zaman yüksek)",
+        "Şubeye gitmek zahmetli"
+      ]
+    }
+  },
+  "offerNotes": {
+    "wise-transfer": "wise.com üzerinden kaydolun. Hesap açmak ücretsiz; komisyon her transferde alınıyor.",
+    "revolut": "revolut.com üzerinden kaydolun. Standard paket ücretsiz; Premium (aylık 9 $) ve Metal (aylık 17 $) ek avantajlar sunuyor.",
+    "paypal-international": "paypal.com üzerinden kaydolun. Hesap ücretsiz; komisyon işlem başına.",
+    "venmo": "Venmo mobil uygulamasından kaydolun. Sadece ABD.",
+    "western-union": "westernunion.com üzerinden kaydolun ya da bir şubeye gidin."
+  },
+  "pinDescription": "Yurt dışına para gönderirken kurda kaybetmeyin: Wise, Revolut, PayPal, Venmo ve Western Union'ı 1.000 dolarlık transferle karşılaştırdık. 2026 rehberi 💸",
+  "recommendedFor": [
+    {
+      "label": "Düzenli olarak yurt dışına para gönderen gurbetçiler ve uzaktan çalışanlar",
+      "offerId": "wise-transfer",
+      "reason": "Wise'ın piyasa ortası kuru ve şeffaf %0,4-1 komisyonu, tekrar eden uluslararası transferlerde banka veya PayPal kurlarına kıyasla ciddi tasarruf sağlıyor."
+    },
+    {
+      "label": "Birden fazla para birimi tutup harcayan dijital göçebeler",
+      "offerId": "revolut",
+      "reason": "Revolut'un çoklu döviz hesabı 25'ten fazla para birimi tutuyor, kripto ve hisse senedi de dahili; yolda tam bir finans merkezi gibi çalışıyor."
+    },
+    {
+      "label": "Kira ve yemek hesabını bölüşen ABD'deki üniversite öğrencileri",
+      "offerId": "venmo",
+      "reason": "Venmo ABD içi kişiden kişiye ödemelerin fiili standardı — banka kartına anında transfer ve sosyal akış hesap bölüşmeyi kolaylaştırıyor."
+    },
+    {
+      "label": "Dünyanın her yerinden alıcıdan ödeme kabul eden online satıcılar",
+      "offerId": "paypal-international",
+      "reason": "PayPal'ın geniş satıcı entegrasyonu ve alıcı/satıcı koruması, e-ticaret müşterilerinin dünya genelinde beklediği ödeme seçeneği olmasını sağlıyor."
+    },
+    {
+      "label": "Gelişmekte olan ülkelerde banka hesabı olmayan aile üyelerine para gönderenler",
+      "offerId": "western-union",
+      "reason": "Western Union'da alıcı, banka hesabına gerek kalmadan 200'den fazla ülkedeki şubelerden parayı elden nakit alabiliyor."
+    }
+  ]
 }

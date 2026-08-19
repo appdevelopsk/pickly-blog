@@ -2,5 +2,148 @@
   "title": "En iyi konut kredisi veren 2026: 5 kurum karşılaştırması",
   "description": "Rocket Mortgage, Better, Ally, Chase, Navy Federal ürünlerini karşılaştırdık. 2026'da ipotek kredisi veren için oranlar, ücretler ve işlem hızı açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Faiz oranları ve kredi veren masrafları karşılaştırması",
+      "paragraphs": [
+        "Aynı profille bakıldığında kurumlar arasındaki faiz farkı ~%0,125 içinde kaldı — asıl fark masraflarda ortaya çıkıyor.",
+        "Better Mortgage: kredi veren masrafı yok (ilan edilen). Kapanışta 1.000-3.000 dolar tasarruf sağlıyor.",
+        "Rocket Mortgage: ~1.200 dolar dosya masrafı. Faiz sabitleme garantisi dahil.",
+        "Ally Bank: bazı ürünlerde 0 dolar dosya masrafı, diğerlerinde ~1.000 dolar.",
+        "Chase: 1.000-1.800 dolar dosya masrafı. Mevcut Chase müşterilerine ilişki indirimi var.",
+        "Navy Federal: VA kredilerinde 0 dolar dosya masrafı. Odak noktası asker ve gaziler."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaç için hangisi",
+      "paragraphs": [
+        "En iyi dijital deneyim: Rocket Mortgage. En hızlı online süreç, geniş ürün yelpazesi.",
+        "Teknolojiyle arası iyi olanlar için: Better Mortgage. Kredi veren masrafı yok, süreç tamamen online.",
+        "Yeniden finansman için en iyisi: Ally Bank. Rekabetçi faizler, güçlü refinansman seçenekleri.",
+        "En iyi geleneksel banka: Chase. Şubede yüz yüze hizmet, ilişki indirimleri.",
+        "Asker aileleri için en iyisi: Navy Federal Credit Union. VA kredisinde uzmanlık, PMI'sız seçenek."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Birden fazla kurumdan ön onay almalı mıyım?",
+      "a": "Evet — ön onay 'soft pull' sayılır ve kredi notunu ciddi biçimde etkilemez. 3-5 kurumu aynı gün karşılaştırmak, kredi notuna etkiyi en aza indirirken pazarlık gücünüzü en üst düzeye çıkarır."
+    },
+    {
+      "q": "'Masrafsız' krediler gerçekten daha mı ucuz?",
+      "a": "Genellikle evet — Better'ın masrafsız modeli kapanışta gerçekten 1.000-3.000 dolar tasarruf ettiriyor. Ama faizin de rekabetçi olduğunu doğrulayın; bazı masrafsız kurumlar bunu biraz yüksek faizle telafi ediyor."
+    },
+    {
+      "q": "Kurumlar arasında süreç ne kadar değişiyor?",
+      "a": "Rocket ve Better: tipik olarak 30-45 gün. Geleneksel bankalar (Chase): 45-60 gün. Navy Federal: 30-45 gün. Hangisinin uygun olduğunu tapu/kapanış tarihiniz belirler."
+    },
+    {
+      "q": "Kredimi yeniden finanse etmeli miyim?",
+      "a": "Faizi %0,75-1 düşürebiliyorsanız VE evde en az 3 yıl daha kalacaksanız refinansman düşünmeye değer. Kapanış masraflarının aylık tasarrufla kaç ayda amorti edildiğini hesaplayın."
+    }
+  ],
+  "products": {
+    "rocket-mortgage": {
+      "badge": "🏆 En iyi dijital deneyim",
+      "review": "Rocket Mortgage, en hızlı dijital süreci isteyenler için doğru seçim. Önceliği online olan bir kredi süreci, hızlı ön onay, geniş ürün yelpazesi (konvansiyonel, FHA, VA, jumbo). Mobil uygulama sayesinde belge yükleme ve durum takibi sorunsuz ilerliyor. Süreç tipik olarak 30-45 gün sürüyor.",
+      "pros": [
+        "En hızlı online süreç",
+        "Geniş ürün yelpazesi",
+        "Mobil uygulamadan durum takibi"
+      ],
+      "cons": [
+        "1.200 dolar dosya masrafı",
+        "Diğer Rocket ürünleri için ısrarcı satış"
+      ]
+    },
+    "better-mortgage": {
+      "badge": "💸 En iyi masrafsız seçenek",
+      "review": "Better Mortgage, kredi veren masrafı ödemek istemeyen ve dijitalle arası iyi olanlar için doğru seçim. Tamamen online süreç, rekabetçi faizler, ilan edilen sıfır dosya/kredi veren masrafı. Geleneksel kurumlara kıyasla kapanışta 1.000-3.000 dolar tasarruf sağlıyor. Risk değerlendirmesi sıkı olabilir — Better seçici davranıyor.",
+      "pros": [
+        "Kredi veren masrafı yok",
+        "Tamamen online süreç",
+        "Rekabetçi faizler"
+      ],
+      "cons": [
+        "Seçici risk değerlendirmesi",
+        "Müşteri hizmetleri daha zayıf"
+      ]
+    },
+    "ally-mortgage": {
+      "badge": "🏦 Yeniden finansmanda en iyisi",
+      "review": "Ally Bank Mortgage, refinansman için doğru seçim. Online banka, rekabetçi faizler, güçlü yeniden finansman ürünleri. Ally'de hesabınız varsa entegre çalışıyor. Online kurumları karşılaştıran refinansman arayışındakiler için en iyisi.",
+      "pros": [
+        "Rekabetçi faizler",
+        "Refinansmana güçlü odak",
+        "Ally Bank entegrasyonu"
+      ],
+      "cons": [
+        "Fiziksel şube yok",
+        "Rocket kadar ürün çeşidi yok"
+      ]
+    },
+    "chase-mortgage": {
+      "badge": "🏛️ En iyi geleneksel banka",
+      "review": "Chase Mortgage, yüz yüze hizmet isteyenler için doğru seçim. 4.700'den fazla şubesi olan büyük bir banka; Chase Private Client müşterisiyseniz (Chase Total Checking + bakiye + yatırım hesabı) ilişki indirimi alıyorsunuz. Dijital kurumlara göre daha yavaş ama daha kişiselleştirilmiş.",
+      "pros": [
+        "Şubede yüz yüze hizmet",
+        "Chase Private Client ilişki indirimleri",
+        "Büyük banka güvenilirliği"
+      ],
+      "cons": [
+        "Süreç daha yavaş",
+        "Ortalamada masraflar daha yüksek"
+      ]
+    },
+    "navy-federal-mortgage": {
+      "badge": "🪖 Asker aileleri için en iyisi",
+      "review": "Navy Federal Credit Union, asker aileleri için doğru seçim. Yalnızca asker ve gazilere açık, VA kredilerinde uzman, düşük peşinatlarda PMI'sız seçenek sunuyor. VA kredi faizleri genelde piyasanın %0,10-0,25 altında.",
+      "pros": [
+        "Asker/gazi üyelik hakkı",
+        "PMI'sız seçenek",
+        "VA kredisinde uzmanlık"
+      ],
+      "cons": [
+        "Üyelik şartları kısıtlı",
+        "VA dışı konut kredisi ürünleri sınırlı"
+      ]
+    }
+  },
+  "offerNotes": {
+    "rocket-mortgage": "Başvuru rocketmortgage.com üzerinden veya mobil uygulamadan yapılıyor. Online ön onay 5-15 dakika sürüyor.",
+    "better-mortgage": "Başvuru better.com üzerinden. 'Kredi veren masrafı yok' çoğu kredi ürünü için geçerli — kendi teklifinizde doğrulayın.",
+    "ally-mortgage": "Başvuru ally.com üzerinden. Ally hesaplarınız (mevduat, vadesiz) ilişki avantajları için entegre oluyor.",
+    "chase-mortgage": "Başvuru chase.com üzerinden veya şubeden. Chase Private Client seviyesi (Total Checking + 250 bin dolar üzeri) faiz indirimi sağlıyor.",
+    "navy-federal-mortgage": "Başvuru navyfederal.org üzerinden. Üyelik için askerlik bağlantısı gerekiyor (muvazzaf, emekli, aile üyesi veya Savunma Bakanlığı sivil personeli)."
+  },
+  "pinDescription": "Konut kredisinde 2026'nın en iyileri: Rocket, Better, Ally, Chase ve Navy Federal yan yana. Ev alırken de refinansmanda da hangisi daha az masrafla daha iyi faiz veriyor? 💰🏡",
+  "recommendedFor": [
+    {
+      "label": "Hızlı online ön onay isteyen ilk kez ev alanlar",
+      "offerId": "rocket-mortgage",
+      "reason": "Rocket'ın mobil uygulaması ve 5-15 dakikalık ön onay süreci ilk ev alımının gözünüzü korkutmasını engelliyor; FHA ve konvansiyonel seçenekleri de geniş."
+    },
+    {
+      "label": "Kapanış günü masraflarını en aza indirmek isteyenler",
+      "offerId": "better-mortgage",
+      "reason": "Better'ın sıfır dosya masrafı politikası, geleneksel kurumlara kıyasla kapanışta 1.000-3.000 dolar tasarruf ettiriyor; üstelik süreç baştan sona online."
+    },
+    {
+      "label": "Mevcut kredisini yeniden finanse etmek isteyen ev sahipleri",
+      "offerId": "ally-mortgage",
+      "reason": "Ally'nin güçlü refinansman ürün yelpazesi ve rekabetçi faizleri, faiz-vade değişikliği ya da nakit çıkışlı refinansmanda onu ilk sıraya koyuyor."
+    },
+    {
+      "label": "Chase'de hesabı olan yüksek varlıklı kullanıcılar",
+      "offerId": "chase-mortgage",
+      "reason": "Chase Private Client ilişki indirimleri ve şube erişimi, Chase'de zaten 250 bin dolar üzeri varlığı olanları ödüllendiriyor."
+    },
+    {
+      "label": "Ev alan muvazzaf askerler ve gaziler",
+      "offerId": "navy-federal-mortgage",
+      "reason": "Navy Federal'in VA kredisi uzmanlığı, uygun asker ailelerine piyasanın %0,10-0,25 altında faiz ve PMI zorunluluğu olmayan bir seçenek sunuyor."
+    }
+  ]
 }

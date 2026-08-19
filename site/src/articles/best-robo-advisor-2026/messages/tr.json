@@ -2,5 +2,127 @@
   "title": "2026'nın en iyi robo-danışman: 5 ürün karşılaştırma",
   "description": "Betterment, Wealthfront, Schwab, Fidelity Go, Vanguard Digital Advisor ürünlerini karşılaştırdık. 2026'da robo-danışman için net getiriler ve gizli maliyetler açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Ücret yapısı ile gerçek maliyet",
+      "paragraphs": [
+        "İlan edilen yönetim ücreti (Betterment %0,25, Wealthfront %0,25, Schwab %0, 25.000 $ altında Fidelity Go %0, Vanguard %0,20) hikâyenin yarısını anlatıyor. Bunun üzerine ETF gider oranları biniyor: %0,04 karma oranla Vanguard en ucuzu, %0,16 ile Schwab ise gizli maliyeti ele veriyor.",
+        "Schwab'ın 'sıfır danışmanlık ücreti' iddiası, portföyün zorunlu olarak %6-8'inin para piyasası fonunda nakit tutulmasıyla dengeleniyor; bu fonun getirisi %4,4 (beklenen portföy getirisi ise ~%8). Bu nakit yükü 25.000 $'lık bir portföyde yılda ~120 $'a mal oluyor — yani Betterment'ın %0,25'lik danışmanlık ücretinden daha fazla."
+      ]
+    },
+    {
+      "heading": "İki yıllık getiriler (tüm masraflar düşülmüş)",
+      "paragraphs": [
+        "Mayıs 2024 - Mayıs 2026 arasında 25.000 $'lık 80/20 portföyde net getiriler: Vanguard Digital Advisor (+%22,4), Fidelity Go (+%22,1), Betterment (+%21,8), Wealthfront (+%21,4), Schwab (+%19,7). Nakit yükü Schwab'ı geriye düşürdü.",
+        "Gerçekleşen vergi zararı hasadı: Wealthfront (380 $ gerçekleşmiş zarar), Betterment (310 $). Schwab, Fidelity ve Vanguard bu hesap büyüklüğünde vergi zararı hasadı sunmuyor. %32'lik federal dilimdeki yüksek gelirli bir mükellef için bu, yılda 100 $'ın üzerinde gerçek vergi tasarrufu demek."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Robo-danışmanlar kendin yap yöntemine göre değer mi?",
+      "a": "Aksi halde parayı nakitte tutacaksanız, dengelemeyi ihmal edecekseniz ya da panikle satacaksanız evet. %0,20-0,25'lik ücret aslında davranış disiplini satın alıyor. VTI/BND'yi kendiniz alıp gerçekten elde tutabiliyorsanız hayır."
+    },
+    {
+      "q": "Robo portföyümü bir aracı kuruma taşıyabilir miyim?",
+      "a": "Evet — çoğu robo-danışman dışarıdaki aracı kurumlara ACATS transferine izin veriyor. Wealthfront ve Betterment varlıkları olduğu gibi (in-kind) aktarıyor; Schwab ve Vanguard nakde çevirerek transferi tercih ediyor."
+    },
+    {
+      "q": "Vergi zararı hasadı gerçekte ne kazandırıyor?",
+      "a": "%32 federal + %5 eyalet vergisiyle, hasat edilen 1 $ zarar = 0,37 $ vergi tasarrufu. Wealthfront'un yıllık ortalama 380 $'lık hasadında bu, yılda 141 $'lık gerçek ek getiri anlamına geliyor."
+    }
+  ],
+  "products": {
+    "betterment-robo": {
+      "badge": "🏆 Genel olarak en iyisi",
+      "review": "Betterment, önerilmesi en kolay robo-danışman. %0,25 ücret, hedef bazlı yatırım (emeklilik, ev vb. için ayrı kovalar), her hesap büyüklüğünde vergi zararı hasadı. Minimum tutar yok. Eğitim içerikleri kategorinin en iyisi. Ücretler sonrası iki yıllık getiri %21,8.",
+      "pros": [
+        "0 $'dan itibaren vergi zararı hasadı",
+        "Hedef bazlı yatırım arayüzü"
+      ],
+      "cons": [
+        "%0,25 ücret Vanguard'dan yüksek"
+      ]
+    },
+    "wealthfront-robo": {
+      "badge": "📈 100.000 $ üstü için en iyisi",
+      "review": "100.000 $ ve üzeri bir portföyünüz varsa Wealthfront, Betterment'ı geçiyor. Direct Indexing (ETF yerine tek tek hisse tutma) bu seviyede vergi zararı hasadından %0,2-0,4 ek kazanç sağlıyor. 529 üniversite planları, özelleştirilebilir portföyler, 500 $ minimum. Yüksek gelirliler için güçlü bir seçenek.",
+      "pros": [
+        "100.000 $ üzerinde Direct Indexing",
+        "Eğitim birikimi için 529 planları"
+      ],
+      "cons": [
+        "Hesap açmak için 500 $ minimum"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "💸 Sıfır danışmanlık ücreti",
+      "review": "Schwab Intelligent Portfolios'ta danışmanlık ücreti 0 $, ama zorunlu %6-8 nakit yükü bu tasarrufu silip süpürüyor. Sadece kâğıt üzerinde en düşük maliyetli seçenek. 5.000 $ minimum. Ana robo-danışmanınız olarak değil, Schwab ekosisteminde bir ek olarak mantıklı.",
+      "pros": [
+        "Danışmanlık ücreti yok",
+        "Ücretsiz Schwab ekosistem avantajları"
+      ],
+      "cons": [
+        "Zorunlu %6-8 nakit yükü yılda ~120 $'a mal oluyor"
+      ]
+    },
+    "fidelity-go": {
+      "badge": "🆓 En iyi ücretsiz kademe",
+      "review": "Fidelity Go 25.000 $ altında 0 $, üzerinde %0,35 ücret alıyor. Gider oranı %0 olan Fidelity Flex fonlarını kullanıyor. Ücretsiz kademenin gerçekten ücretsiz olduğu küçük portföyler (25.000 $ altı) için en iyisi. İki yıllık getiri %22,1.",
+      "pros": [
+        "25.000 $ altında 0 $ ücret",
+        "Fidelity Flex fonlarında %0 gider"
+      ],
+      "cons": [
+        "25.000 $'da %0,35'e sıçrıyor — yüksek bakiyelerde en ucuz değil"
+      ]
+    },
+    "vanguard-digital-advisor": {
+      "badge": "💎 En düşük toplam maliyet",
+      "review": "Vanguard Digital Advisor her şey dahil en düşük maliyetli seçenek: %0,20 yönetim ücretine Vanguard'ın endeks ETF giderleri de dahil. 100 $ minimum. İki yılın en iyi getirisi (+%22,4). Tamamen pasif bir yaklaşım; 50.000 $ altı hesaplarda vergi zararı hasadı yok.",
+      "pros": [
+        "%0,20 her şey dahil (en düşük)",
+        "İncelemedeki en iyi 2 yıllık getiri"
+      ],
+      "cons": [
+        "50.000 $ altında vergi zararı hasadı yok"
+      ]
+    }
+  },
+  "offerNotes": {
+    "betterment-robo": "Yıllık %0,40'lık Premium kademe gerçek bir danışmana erişim açıyor — 200.000 $ üzeri için mantıklı.",
+    "wealthfront-robo": "Direct Indexing'in devreye girmesi için minimum 100.000 $ bakiye gerekiyor.",
+    "schwab-intelligent-portfolios": "Schwab Premium kademesi (aylık 30 $ + %0) gerçek bir danışman ekliyor — hedef planlaması için tek başına Intelligent Portfolios'tan daha iyi.",
+    "fidelity-go": "Yeniden dengeleme sıklığını üç aylık yapın — düşük bakiyelerde yıllık dengeleme fazla yavaş kalıyor.",
+    "vanguard-digital-advisor": "Personal Advisor Services 50.000 $ üzeri için %0,30'dan başlıyor ve gerçek bir danışman ekliyor — üst kademelerde değerlendirmeye değer."
+  },
+  "pinDescription": "Robo-danışman karşılaştırması 2026: Betterment, Wealthfront, Schwab, Fidelity Go ve Vanguard'ın 25.000 $'lık 80/20 portföydeki tüm gizli maliyetleri tek tabloda. Reklamdaki ücret asla gerçek maliyet değil — nakit yükünün nerede saklandığını görün.",
+  "recommendedFor": [
+    {
+      "label": "25.000 $ altında başlayan ilk kez yatırımcılar",
+      "offerId": "fidelity-go",
+      "reason": "Fidelity Go 25.000 $ altında tam olarak 0 $ alıyor ve %0 giderli Flex fonlarını kullanıyor — hiçbir ücret cezası olmadan gerçekten ücretsiz bir başlangıç."
+    },
+    {
+      "label": "Vergiye tabi yatırım hesabı olan yüksek gelirliler",
+      "offerId": "wealthfront-robo",
+      "reason": "100.000 $ üzerinde Direct Indexing tek tek hisselerdeki zararları hasat ediyor; yılda 380 $'ı aşan zarar, üst vergi dilimindekilere 141 $'ın üzerinde gerçek tasarruf sağlıyor."
+    },
+    {
+      "label": "Hedef bazlı yönlendirme isteyen, işi bırakmak isteyen yeni başlayanlar",
+      "offerId": "betterment-robo",
+      "reason": "Betterment'ın hedef kovaları emeklilik birikimini ev birikiminden ayırıyor ve vergi zararı hasadı minimum bakiye şartı olmadan 0 $'dan başlıyor."
+    },
+    {
+      "label": "Maliyet takıntılı, uzun vadeli pasif endeks yatırımcıları",
+      "offerId": "vanguard-digital-advisor",
+      "reason": "Her şey dahil %0,20 maliyete ETF giderleri de dahil — incelemedeki en düşük gerçek toplam maliyet, üstelik %22,4 ile en iyi 2 yıllık getiriyi verdi."
+    },
+    {
+      "label": "Hesabına otomasyon eklemek isteyen mevcut Schwab müşterileri",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Sıfır danışmanlık ücreti, mevcut Schwab ekosistemi içinde ücretsiz bir yükseltme gibi çalışıyor; nakit yükü de diğer Schwab hesap avantajlarıyla dengeleniyor."
+    }
+  ]
 }

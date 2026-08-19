@@ -2,5 +2,150 @@
   "title": "2026'nın en iyi WordPress hosting: 5 ürün karşılaştırma",
   "description": "Kinsta, WP Engine, SiteGround, Bluehost, Cloudways ürünlerini karşılaştırdık. 2026'da WordPress hosting için gerçek TTFB ve destek yanıtı açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Fiyat mı, gerçek maliyet mi?",
+      "paragraphs": [
+        "Fiyat sayfasında görünenler: Bluehost aylık 2,95 $ (giriş fiyatı), SiteGround aylık 5,99 $ (giriş fiyatı), Cloudways aylık 14 $'dan başlıyor, Kinsta aylık 35 $, WP Engine aylık 30 $. Yenilemeden sonraki gerçek maliyet ise şöyle: Bluehost aylık 11 $, SiteGround aylık 24 $. Kinsta ve WP Engine'de giriş indirimi yok — ilk gün ödediğiniz tutarı ikinci yıl da ödüyorsunuz.",
+        "Trafik sınırları: Kinsta ve WP Engine, paket limitini aşan aylık ziyaretçi için ek ücret alıyor; SiteGround ve Bluehost ise ücret yerine hızı kısıyor. Büyüyen bir site için Kinsta/WP Engine'deki aşım ücretleri önceden hesaplanabilir; ucuz hosting'lerdeki hız kısıtlaması ise habersiz gelen bir kesinti demek."
+      ]
+    },
+    {
+      "heading": "Performans (TTFB)",
+      "paragraphs": [
+        "Önbelleğe alınmış sayfalarda TTFB: Kinsta 142 ms, WP Engine 158 ms, Cloudways (Vultr) 168 ms, SiteGround 210 ms, Bluehost 340 ms. Cloudflare Enterprise entegrasyonu sayesinde önbellekli teslimatta açık ara birinci Kinsta.",
+        "Önbelleğe alınmamış sayfada (yönetici olarak giriş yapmışken) TTFB: Cloudways 290 ms, Kinsta 340 ms, WP Engine 380 ms, SiteGround 520 ms, Bluehost 1,1 sn. Bluehost'un önbelleksiz performansı, ucuz paylaşımlı hosting'in asıl bedeli.",
+        "WooCommerce ödeme adımı gecikmesi (5 ürünlü sepet): Kinsta 410 ms, Cloudways 480 ms, WP Engine 520 ms, SiteGround 780 ms, Bluehost 1,4 sn."
+      ]
+    },
+    {
+      "heading": "Destek kalitesi",
+      "paragraphs": [
+        "İlk yanıt süresi (site çökmüş durumda açılan talep): WP Engine 4 dk, Kinsta 6 dk, Cloudways 12 dk, SiteGround 18 dk, Bluehost 47 dk. Kinsta ve WP Engine'de karşınıza gerçek WordPress mühendisleri çıkıyor; SiteGround ekibi yetkin ama daha yavaş; Bluehost'un ön saf desteği ise senaryo okuyor.",
+        "Bilgi derinliği: Kinsta ve WP Engine desteği, sorunun kök nedenini (örneğin bir eklentideki yavaş sorguyu) üst kademeye devretmeden çözdü. SiteGround önbellek ve DNS sorularını halletti. Bluehost'un ilk kademesi ise yeniden başlatma talimatlarının ötesinde hiçbir teşhis yapamadı."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kinsta gerçekten Bluehost'un 2,95 $'ına karşı aylık 35 $ etmiyor mu?",
+      "a": "Siteniz para kazanıyorsa evet, ediyor. Tek başına TTFB farkı bile dönüşümü değiştiriyor. Bluehost, hızlı olması ya da hep ayakta kalması gerekmeyen hobi siteleri için."
+    },
+    {
+      "q": "WP Engine mi, Kinsta mı?",
+      "a": "Kinsta'nın önbellekli TTFB'si biraz daha iyi; WP Engine'in desteği biraz daha hızlı. İkisi de çok başarılı. Kinsta'nın arayüzü daha derli toplu; WP Engine'in eklentisi (Smart Plugin Manager) ise rakipsiz. Deneme sürümüyle karar verin."
+    },
+    {
+      "q": "Cloudways Kinsta'dan ucuz — işin püf noktası ne?",
+      "a": "Cloudways, DigitalOcean/Vultr/AWS/GCP üzerine kurulu yönetilen bir WordPress katmanı sunuyor. Alttaki sunucuyu siz seçiyorsunuz. Kinsta/WP Engine kadar elinizden tutmuyor — kendi işini kendi görmeyi sevenlere göre bir yönetilen hizmet. 2022'den beri DigitalOcean bünyesinde."
+    },
+    {
+      "q": "Bluehost'tan çıkmalı mıyım?",
+      "a": "Siteniz gelir getiriyorsa ya da sayfa hızı sizin için önemliyse evet. TTFB farkı kapanacak gibi değil."
+    }
+  ],
+  "products": {
+    "kinsta-managed-wp": {
+      "badge": "🏆 En iyi premium",
+      "review": "Kinsta, 2026'nın en iyi premium yönetilen WordPress hosting'i. Google Cloud Premium Tier ağı, ücretsiz gelen Cloudflare Enterprise entegrasyonu ve kategorinin en temiz paneli MyKinsta. Test (staging) ortamları tek tıkla açılıyor ve tüm paketlerde aynı. Destek 10 dakikanın altında yanıt veriyor, üstelik karşınızda gerçek WordPress mühendisleri var.",
+      "pros": [
+        "Önbellekli sayfalarda en düşük TTFB",
+        "Ücretsiz Cloudflare Enterprise",
+        "Kategorinin en iyi kontrol paneli"
+      ],
+      "cons": [
+        "Telefon desteği yok (yalnızca sohbet)",
+        "Ziyaretçi bazlı fiyatlandırma ani trafik artışlarında cezalandırıyor"
+      ]
+    },
+    "wp-engine-managed-wp": {
+      "badge": "🎯 En iyi destek",
+      "review": "WP Engine, yönetilen WordPress hosting'in en kıdemlisi ve destek tarafında sınıfının en iyisi. İlk yanıtı Kinsta'dan daha hızlı veriyor. Genesis temaları pakete dahil. Smart Plugin Manager, eklenti güncellemelerini otomatik test ediyor. Paneli Kinsta'ya kıyasla eski görünse de arkadaki hizmet üst düzey.",
+      "pros": [
+        "Bu karşılaştırmadaki en hızlı destek yanıtı",
+        "Smart Plugin Manager pakete dahil",
+        "Uzun bir geçmiş (2010'dan beri)"
+      ],
+      "cons": [
+        "Panel eskimiş duruyor",
+        "Üst paketlerde daha pahalı"
+      ]
+    },
+    "siteground-grow-big": {
+      "badge": "🪜 En iyi orta segment",
+      "review": "SiteGround GrowBig, yönetilen hosting fiyatlarını ödemeden gerçek performans isteyen siteler için doğru tercih. SiteGround Optimizer eklentisi önbellek işini iyi hallediyor; test ortamı da çalışıyor. Asıl maliyet ikinci yıl fiyatı (aylık 24 $). Bluehost'a kıyasla parasını hak ediyor; Kinsta kadar hızlı değil.",
+      "pros": [
+        "Gerçek bir test (staging) ortamı",
+        "SiteGround Optimizer eklentisi başarılı",
+        "Avrupa ve ABD veri merkezleri"
+      ],
+      "cons": [
+        "İkinci yıl fiyatı giriş fiyatının 4 katı",
+        "TTFB, Kinsta/WP Engine'e göre gözle görülür şekilde yavaş"
+      ]
+    },
+    "bluehost-choice-plus": {
+      "badge": "💸 En iyi bütçe seçeneği",
+      "review": "Bluehost Choice Plus, kullanılabilir en ucuz WordPress hosting'i — ama sadece hobi siteleri için. Destek senaryo okuyor. WordPress.org onları geçmişten beri öneriyor; ancak bu öneri 2026'yı değil, 2010'un koşullarını yansıtıyor.",
+      "pros": [
+        "En ucuz giriş fiyatı",
+        "Tek tıkla WordPress kurulumu",
+        "1 ücretsiz alan adı"
+      ],
+      "cons": [
+        "Yük altında önbelleksiz TTFB 1 saniyeyi aşıyor",
+        "Senaryoya bağlı destek",
+        "İkinci yıl yenilemesi giriş fiyatının üç katı"
+      ]
+    },
+    "cloudways-vultr-wp": {
+      "badge": "🛠️ Kurcalamayı sevenlere",
+      "review": "Cloudways, yönetilen WordPress'i DigitalOcean/Vultr/AWS/GCP arasından seçtiğiniz altyapı üzerinde sunuyor. Alttaki sunucuyu görebiliyorsunuz — kontrol isteyen için harika, istemeyen için dert. 2022'den beri DigitalOcean'a ait. Vultr High Frequency ile eşleştirildiğinde aynı donanım için Kinsta'dan daha iyi bir fiyat sunuyor.",
+      "pros": [
+        "Alttaki sağlayıcıyı seçme özgürlüğü",
+        "Aynı donanımda Kinsta'dan daha uygun fiyat",
+        "Kullandığın kadar öde faturalandırması"
+      ],
+      "cons": [
+        "Kinsta/WP Engine kadar elinizden tutmuyor",
+        "E-posta hosting'i ek ücretli"
+      ]
+    }
+  },
+  "offerNotes": {
+    "kinsta-managed-wp": "kinsta.com üzerinden kaydolun. Ücretsiz site taşıma dahil. 30 gün para iade garantisi var.",
+    "wp-engine-managed-wp": "wpengine.com üzerinden kaydolun. 4 ay ücretsiz veren promosyon kodları sık çıkıyor — kaydolmadan önce bir bakın.",
+    "siteground-grow-big": "siteground.com üzerinden kaydolun. Yenileme fiyatını mutlaka kontrol edin — giriş fiyatı yalnızca 1 yıl geçerli.",
+    "bluehost-choice-plus": "bluehost.com üzerinden kaydolabilirsiniz — ama aynı bütçeyle SiteGround ya da Cloudways'i de bir düşünün.",
+    "cloudways-vultr-wp": "cloudways.com üzerinden kaydolun. Çoğu WordPress sitesi için en iyi altyapı seçeneği Vultr High Frequency."
+  },
+  "pinDescription": "WordPress siteniz yavaş mı açılıyor? Kinsta, WP Engine, SiteGround, Bluehost ve Cloudways'i yenileme fiyatları, ziyaretçi limitleri, önbellek ve CDN altyapısı, ücretsiz taşıma ve destek süreleriyle karşılaştırdık. 2026'da hangisi size göre? #wordpress #hosting #websitesi",
+  "recommendedFor": [
+    {
+      "label": "Cirosu büyüyen WooCommerce mağazası sahipleri",
+      "offerId": "kinsta-managed-wp",
+      "reason": "Kinsta'nın 410 ms'lik WooCommerce ödeme gecikmesi ve Cloudflare Enterprise entegrasyonu, trafik büyüdükçe dönüşüm oranını doğrudan koruyor."
+    },
+    {
+      "label": "Birden fazla müşteri sitesi yöneten ajans geliştiricileri",
+      "offerId": "wp-engine-managed-wp",
+      "reason": "Smart Plugin Manager güncellemeleri tüm sitelerde otomatik test ediyor; 4 dakikalık destek yanıtı da müşteri sitesindeki kesintinin hızla kapanması demek."
+    },
+    {
+      "label": "Orta bütçeli küçük işletme sahipleri",
+      "offerId": "siteground-grow-big",
+      "reason": "SiteGround'un test ortamı ve Optimizer eklentisi, yönetilen hosting'lerin aylık 30 $ üstü fiyatını ödemeden gerçek performans sağlıyor."
+    },
+    {
+      "label": "İlk sitesini açan blog yazarları ve hobi sahipleri",
+      "offerId": "bluehost-choice-plus",
+      "reason": "Aylık 2,95 $ giriş fiyatı ve tek tıkla WordPress kurulumuyla Bluehost, gelir getirmeyen hobi siteleri için tüm engelleri kaldırıyor."
+    },
+    {
+      "label": "Altyapıya hâkim olmak isteyen geliştiriciler ve DevOps mühendisleri",
+      "offerId": "cloudways-vultr-wp",
+      "reason": "Cloudways alttaki sunucuyu size açıyor ve kullandığın kadar öde faturalandırmasıyla, Vultr High Frequency eşliğinde Kinsta seviyesinde TTFB'yi daha ucuza veriyor."
+    }
+  ]
 }

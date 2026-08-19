@@ -2,5 +2,147 @@
   "title": "2026'nın en iyi finansal danışman: 5 ürün karşılaştırma",
   "description": "Vanguard, Betterment, Fidelity, Schwab, Facet ürünlerini karşılaştırdık. 2026'da finansal danışman için ücret yapısı ve danışman erişimi açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Ücret yapısı karşılaştırması (500.000 $'lık portföy)",
+      "paragraphs": [
+        "Vanguard PAS: yılda 1.500 $ (yönetilen varlığın %0,30'u).",
+        "Betterment Premium: yılda 2.000 $ (%0,40 AUM, en az 100.000 $).",
+        "Fidelity Wealth Services: yılda 2.500-5.200 $ (%0,50-1,04 AUM).",
+        "Schwab Intelligent Portfolios: yılda 0 $ (sadece robo danışman, insan danışman yok).",
+        "Facet Wealth: yılda 2.400-6.000 $ (sabit ücretli abonelik, varlık yüzdesine bağlı değil)."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi",
+      "paragraphs": [
+        "En uygun fiyatlı insan danışman: Vanguard PAS. %0,30 AUM ile mütevelli sorumluluğu taşıyan CFP'ler.",
+        "Dijital odaklı olanlara: Betterment Premium. %0,40 AUM karşılığında sınırsız CFP erişimi + robo danışman.",
+        "Orta segment insan danışman: Fidelity Wealth Services. 50.000 $ alt limitle size özel danışman.",
+        "En iyi ücretsiz robo: Schwab Intelligent Portfolios. Danışmanlık ücreti 0 $.",
+        "Büyük portföyler için: Facet Wealth. 1 milyon $ üzerinde sabit ücret, AUM modelinden daha ucuza geliyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Finansal danışmana ihtiyacım var mı?",
+      "a": "Duruma göre değişir. 250.000 $'ın altındaki portföylerde bir robo danışman (Schwab Intelligent Portfolios) ya da kendi kendinize endeks yatırımı (Vanguard) genellikle yeterli olur. 500.000 $ üzerinde ve işin içine gayrimenkul, şirket ortaklığı veya vergi zararı mahsubu gibi karmaşık konular girdiğinde insan danışman gerçekten fark yaratır."
+    },
+    {
+      "q": "AUM ücreti mi, sabit ücret mi?",
+      "a": "AUM (varlıkların yüzdesi) portföyle birlikte büyür: 250.000-500.000 $ arasında makul, 2 milyon $ üzerinde pahalı. Sabit ücret (Facet) 1 milyon $ üzerinde daha ucuz, 250.000 $'da ise daha pahalı. Kendi durumunuza göre başabaş noktasını hesaplayın."
+    },
+    {
+      "q": "Robo danışmanlar işe yarıyor mu?",
+      "a": "İhtiyaçlarınız basitse ve portföyünüz 500.000 $'ın altındaysa evet. Yeniden dengeleme ve vergi zararı mahsubunu düşük maliyetle hallediyorlar. Karmaşık vergi planlaması, miras planlaması veya şirket sahiplerinin ihtiyaçları söz konusu olduğunda yetersiz kalıyorlar."
+    },
+    {
+      "q": "Sadece ücret alan (fee-only) mütevelli CFP'ler nasıl?",
+      "a": "Karmaşık durumlar için kesinlikle tavsiye edilir. Saatlik 200-500 $ ya da sabit planlama ücreti (1.500-5.000 $) alırlar, komisyon almazlar. Bulmak için NAPFA.org veya XY Planning Network'e bakabilirsiniz."
+    }
+  ],
+  "products": {
+    "vanguard-pas": {
+      "badge": "🏆 En uygun fiyatlı insan danışman",
+      "review": "Düşük maliyetli insan danışmanlığı arıyorsanız doğru adres Vanguard Personal Advisor Services. %0,30 AUM ücreti (insan danışmanlar arasında sektörün en düşüğü), mütevelli sorumluluğu taşıyan CFP'ler ve Vanguard fonları ağırlıklı bir yaklaşım. CFP'ler gerçekten insan danışman, robot değil ve sınırsız görüşme hakkınız var. 500.000 $ - 5 milyon $ aralığındaki portföyler için en iyi fiyat/performans.",
+      "pros": [
+        "%0,30 AUM (insan danışmanlar arasında en düşük)",
+        "Mütevelli sorumluluğu taşıyan CFP'ler",
+        "Vanguard fonlarıyla entegrasyon"
+      ],
+      "cons": [
+        "Vanguard fonları ağırlıklı (kendi ürünleriyle sınırlı)",
+        "Daha pahalı hizmetlere göre kişiselleştirme zayıf"
+      ]
+    },
+    "betterment-premium": {
+      "badge": "💎 Dijital odaklı olanlara",
+      "review": "CFP erişimi isteyen dijital odaklı yatırımcılar için doğru seçim Betterment Premium. %0,40 AUM ücreti, 100.000 $ alt limit, sınırsız CFP erişimi ve işlemleri üstlenen bir robo danışman. Vergi zararı mahsubu da dahil. Robo ile insanı bir arada isteyen, teknolojiyle arası iyi yatırımcılar için ideal.",
+      "pros": [
+        "Sınırsız CFP erişimi",
+        "Robo danışman otomasyonu",
+        "Vergi zararı mahsubu dahil"
+      ],
+      "cons": [
+        "100.000 $ alt limit",
+        "%0,40 AUM, Vanguard'dan yüksek"
+      ]
+    },
+    "fidelity-wealth-services": {
+      "badge": "🏛️ Orta segment insan danışman",
+      "review": "Büyük bir aracı kurumda klasik insan danışmanlığı isteyenler için doğru seçim Fidelity Wealth Services. 50.000 $ alt limit, size özel danışman ve seviyeye göre %0,50-1,04 arası AUM ücreti. 500.000 $ üzeri varlığı olan ve tek bir muhatap isteyen Fidelity müşterileri için biçilmiş kaftan.",
+      "pros": [
+        "Size özel danışman",
+        "Fidelity entegrasyonu",
+        "Farklı hizmet seviyeleri"
+      ],
+      "cons": [
+        "%0,50-1,04 AUM, Vanguard'dan yüksek",
+        "50.000 $ alt limit"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "🆓 En iyi ücretsiz robo",
+      "review": "Ücretsiz robo danışmanlık için doğru seçim Schwab Intelligent Portfolios. 0 $ danışmanlık ücreti, 5.000 $ alt limit, hedef planlaması dahil. Schwab parayı nakit yükünden kazanıyor (portföyün yaklaşık %10'u düşük getirili Schwab nakdinde bekliyor); işin bedeli de bu.",
+      "pros": [
+        "0 $ danışmanlık ücreti",
+        "5.000 $ alt limit oldukça düşük",
+        "Hedef planlaması dahil"
+      ],
+      "cons": [
+        "Nakit yükü (yaklaşık %10'u düşük getirili nakitte)",
+        "İnsan danışmana erişim yok"
+      ]
+    },
+    "facet-wealth": {
+      "badge": "💸 Büyük portföyler için",
+      "review": "1 milyon $ üzeri portföyler için doğru seçim Facet Wealth. AUM yerine sabit ücretli abonelik (yılda 2.400-6.000 $) ve size özel bir CFP. 2 milyon $'lık bir portföyde yılda 4.800 $'lık Facet, %0,30 AUM'den (yılda 6.000 $) belirgin şekilde ucuza geliyor.",
+      "pros": [
+        "Sabit ücret (1 milyon $ üzerinde daha ucuz)",
+        "Size özel CFP",
+        "Çıkar çatışması yok (AUM teşviki yok)"
+      ],
+      "cons": [
+        "250.000 $'da pahalı (sabit ücret %1 AUM'yi aşıyor)",
+        "Vanguard/Fidelity'ye kıyasla küçük bir firma"
+      ]
+    }
+  },
+  "offerNotes": {
+    "vanguard-pas": "investor.vanguard.com üzerinden kaydolun. PAS'a erişim için en az 500.000 $ gerekiyor.",
+    "betterment-premium": "betterment.com üzerinden kaydolun. Premium için 100.000 $ alt limit var; Digital katmanının (%0,25 AUM, CFP erişimi yok) alt limiti yok.",
+    "fidelity-wealth-services": "fidelity.com üzerinden kaydolun veya varlık yönetimi hattını arayın. Alt limit 50.000 $.",
+    "schwab-intelligent-portfolios": "schwab.com üzerinden kaydolun. Alt limit 5.000 $.",
+    "facet-wealth": "facet.com üzerinden kaydolun. Sabit ücret modeli — durumunuzun karmaşıklığına göre teklif alın."
+  },
+  "pinDescription": "Paranızı kime emanet edeceksiniz? 2026'nın finansal danışman seçenekleri: Vanguard PAS, Betterment Premium, Fidelity, Schwab ve Facet. Yıllık ücretler yan yana, hangisi hangi portföye uygun net net anlatıldı.",
+  "recommendedFor": [
+    {
+      "label": "500.000 $ - 5 milyon $ arası portföyü olan, maliyete dikkat eden yatırımcılar",
+      "offerId": "vanguard-pas",
+      "reason": "Vanguard PAS yalnızca %0,30 AUM alıyor — insan CFP erişimi için en düşük oran — ve rakiplerine kıyasla yılda binlerce dolar tasarruf sağlıyor."
+    },
+    {
+      "label": "Otomasyon isteyip arkasında bir insan da olsun diyen teknoloji dostu yatırımcılar",
+      "offerId": "betterment-premium",
+      "reason": "Betterment Premium otomatik vergi zararı mahsubunu sınırsız CFP erişimiyle birleştiriyor; işi kendi kendine yürüsün ama uzman görüşü de olsun diyenler için ideal."
+    },
+    {
+      "label": "Kendine özel danışman arayan mevcut Fidelity müşterileri",
+      "offerId": "fidelity-wealth-services",
+      "reason": "Fidelity Wealth Services tek bir muhatap atıyor ve 500.000 $ üzeri müşterilerin mevcut Fidelity hesaplarıyla sorunsuz entegre çalışıyor."
+    },
+    {
+      "label": "100.000 $ altında birikim yapmaya yeni başlayan yatırımcılar",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Schwab Intelligent Portfolios 5.000 $ alt limitle 0 $ danışmanlık ücreti alıyor; yeni başlayanların ilk kazançları ücretlere gitmeden büyümesini sağlıyor."
+    },
+    {
+      "label": "1 milyon $ ve üzeri yatırımı olan yüksek varlıklı kişiler",
+      "offerId": "facet-wealth",
+      "reason": "Facet'in yılda 2.400-6.000 $'lık sabit ücreti 1 milyon $ üzerinde AUM modelini geçiyor; 2 milyon $'lık portföyde Vanguard'ın %0,30'una kıyasla yılda 1.200 $'a varan tasarruf demek."
+    }
+  ]
 }

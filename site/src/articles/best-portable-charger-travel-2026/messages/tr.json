@@ -116,5 +116,32 @@
     "anker-magnetic-magsafe-power-bank": "anker.com ve Amazon'da mevcut. 'MagGo' serisi MagSafe destekler — modelin MagSafe uyumlu olduğunu doğrulayın.",
     "iniu-portable-charger": "iniushop.com ve Amazon'da mevcut. Subscribe & Save indirimi genellikle %10-15'tir."
   },
-  "pinDescription": "2026'nın en iyi seyahat taşınabilir şarj cihazı: Anker 737 vs. Anker 313 vs. RAVPower PD Pioneer vs. Anker MagGo vs. INIU."
+  "pinDescription": "2026'nın en iyi seyahat taşınabilir şarj cihazı: Anker 737 vs. Anker 313 vs. RAVPower PD Pioneer vs. Anker MagGo vs. INIU.",
+  "recommendedFor": [
+    {
+      "label": "Her seyahatinde dizüstü bilgisayarını yanında taşıyanlar",
+      "offerId": "anker-power-bank-737",
+      "reason": "140W PD çıkışıyla MacBook Pro'yu telefonunuzla birlikte şarj eder; tek bir güç bankası dizüstü şarj cihazınızın yerini tamamen alır."
+    },
+    {
+      "label": "Hafif bir yedek güç isteyen hafta sonu gezginleri",
+      "offerId": "anker-power-bank-313",
+      "reason": "Cebe girecek kadar kompakt, 10.000mAh ile telefonu 2-3 kez doldurur; 1.000-1.700 TL bandındaki fiyatı kaybolsa canınızı yakmaz."
+    },
+    {
+      "label": "Günlerce sürecek rotalara çıkan sırt çantalı gezginler",
+      "offerId": "ravpower-pd-pioneer",
+      "reason": "26.800mAh ile uçakta izin verilen azami kapasiteyi tek gövdeye sığdırıyor; prize gitmeden 7'den fazla telefon şarjı sunuyor."
+    },
+    {
+      "label": "Kabloyla uğraşmaktan hoşlanmayan iPhone kullanıcıları",
+      "offerId": "anker-magnetic-magsafe-power-bank",
+      "reason": "MagSafe sayesinde iPhone 12 ve sonrasına mıknatısla yapışır; telefon elinizde ya da cebinizdeyken kablosuz şarj olur."
+    },
+    {
+      "label": "Bütçesine dikkat eden, yurt dışında okuyan öğrenciler",
+      "offerId": "iniu-portable-charger",
+      "reason": "700-1.000 TL civarında, ince gövdesi ve 10.000mAh kapasitesiyle günlük şarj ihtiyacını ağırlık yapmadan ve bütçeyi zorlamadan karşılıyor."
+    }
+  ]
 }

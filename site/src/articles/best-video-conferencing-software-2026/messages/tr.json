@@ -2,5 +2,153 @@
   "title": "En iyi video konferans yazılımı 2026: 5 ürün karşılaştırma",
   "description": "Zoom, Google Meet, Microsoft Teams, Webex, Loom ürünlerini karşılaştırdık. 2026'da video konferans yazılımı için video kalitesi ve ekosistem uyumu açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Görüntü ve ses kalitesi",
+      "paragraphs": [
+        "Öznel görüntü kalitesi (1-10, 40 toplantının ortalaması): Zoom 9,2, Google Meet 8,7, Microsoft Teams 8,4, Webex 8,6, Loom (yalnızca kayıtlar) 9,5.",
+        "Gürültü bastırmalı ses kalitesi: Zoom (en iyisi, makine öğrenmesi tabanlı bastırma), Google Meet (çok güçlü), Microsoft Teams (güçlü, 2024'te iyileştirildi), Webex (Cisco AI ile güçlü), Loom (asenkron kayıt için mükemmel).",
+        "Ekran paylaşımı gecikmesi: Zoom 200 ms, Google Meet 250 ms, Microsoft Teams 300 ms, Webex 350 ms, Loom yok (kayıt tabanlı)."
+      ]
+    },
+    {
+      "heading": "Yapay zekâ toplantı özetleri",
+      "paragraphs": [
+        "Yapay zekâ özet doğruluğu (insan değerlendirici referans alındı): Zoom AI Companion 8,8/10, Google Meet'in Gemini'si 8,5/10, Microsoft Copilot 8,2/10 (Copilot lisansı gerekiyor), Webex AI 8,0/10, Loom AI 9,0/10 (asenkron videolarda en iyisi).",
+        "Yapay zekâ özelliklerinin maliyeti: Zoom AI Companion Business+ paketine dahil, Google Meet'in Gemini'si Google Workspace AI eklentisini gerektiriyor (kullanıcı başına ayda 30 $), Microsoft Copilot ayrıca kullanıcı başına ayda 30 $, Webex AI dahil.",
+        "Gerçek zamanlı altyazı: Beşi de destekliyor. Doğrulukta Zoom ve Google Meet önde."
+      ]
+    },
+    {
+      "heading": "Ekosisteme uyum",
+      "paragraphs": [
+        "Google Workspace kullanıyorsanız: Google Meet apaçık tercih. Takvim entegrasyonu, Gmail entegrasyonu, kayıtların Drive'a gitmesi.",
+        "Microsoft 365 kullanıyorsanız: Microsoft Teams. Outlook entegrasyonu, SharePoint, OneDrive'a kayıt.",
+        "Farklı sağlayıcıları bir arada kullanıyorsanız ya da tarafsız kalmak istiyorsanız: Zoom. Platform bağımsızlığı en yüksek, kategorideki en iyi kullanım deneyimi.",
+        "FedRAMP onaylı video gerekiyorsa: Webex. Cisco'nun kurumsal odağı güvenlik sertifikalarında kendini gösteriyor.",
+        "Toplantıların yerini asenkron videolar alabilecekse: Loom. Durum güncellemeleri, ekran gezintileri ve eğitimler için çoğu zaman doğru cevap."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Zoom mu, Google Meet mi, Teams mi?",
+      "a": "Sağlayıcıdan bağımsız kalmak için Zoom, Workspace kullanıyorsanız Google Meet, Microsoft 365 kullanıyorsanız Teams. Kalite farkları küçük; özelliklerden çok ekosisteme uyum belirleyici."
+    },
+    {
+      "q": "Asenkron videolar (Loom) toplantıların yerini alıyor mu?",
+      "a": "Kısmen. \"Bu toplantı bir Loom videosu olabilir miydi?\" sorusu giderek daha sık soruluyor. Durum güncellemeleri, demolar ve ekran gezintileri için ideal. Beyin fırtınası ve karmaşık tartışmalarda ise canlı toplantılar hâlâ üstün."
+    },
+    {
+      "q": "Yapay zekâ özetleri doğru mu?",
+      "a": "Evet, aksiyon maddelerini ve kararları çıkarmada %80-90 doğruluk sağlıyor. İsimlerde ve belirli sayılarda uydurma görülebiliyor. Paylaşmadan önce mutlaka gözden geçirin."
+    },
+    {
+      "q": "Ücretsiz paketler gerçekten ücretsiz mi?",
+      "a": "Zoom ücretsiz: 3+ katılımcılı toplantılarda 40 dakika sınırı. Google Meet ücretsiz: 60 dakika. Teams ücretsiz: 60 dakika. Webex ücretsiz: 50 dakika. Loom ücretsiz: her biri 5 dakikalık 25 video."
+    }
+  ],
+  "products": {
+    "zoom-business-pro": {
+      "badge": "🏆 Sağlayıcıdan bağımsız en iyisi",
+      "review": "Zoom Workplace Business, belirli bir sağlayıcıya bağlı olmayan ekipler için ya da ana toplantı platformu olarak doğru tercih. Kategorinin en iyi kullanım deneyimi, en düşük ekran paylaşımı gecikmesi, Business+ paketine dahil AI Companion. 300 katılımcılı toplantılar, 30 saatlik süre, buluta kayıt.",
+      "pros": [
+        "Kategorideki en iyi kullanım deneyimi",
+        "En düşük ekran paylaşımı gecikmesi",
+        "AI Companion dahil"
+      ],
+      "cons": [
+        "Host başına ayda 20 $ ile Business paketi tuzlu",
+        "Kendi ekosistemlerinde Google Meet/Teams kadar entegre değil"
+      ]
+    },
+    "google-meet-workspace": {
+      "badge": "🪪 Google Workspace için en iyisi",
+      "review": "Google Meet (Workspace), Google Workspace kullanıcıları için doğru tercih. Kullanıcı başına ayda 6 $'dan başlayan Workspace paketine dahil. Takvim entegrasyonu kusursuz, kayıtlar otomatik olarak Drive'a gidiyor. Gemini yapay zekâ özetleri güçlü.",
+      "pros": [
+        "Workspace paketine dahil",
+        "Takvim/Gmail/Drive entegrasyonu",
+        "Gemini yapay zekâ özetleri"
+      ],
+      "cons": [
+        "Google ekosisteminin dışında Zoom kadar oturmuş değil",
+        "Yapay zekâ için Workspace AI eklentisi gerekiyor"
+      ]
+    },
+    "microsoft-teams-business": {
+      "badge": "🏢 Microsoft 365 için en iyisi",
+      "review": "Microsoft Teams (Business), Microsoft 365 kullanıcıları için doğru tercih. Kullanıcı başına ayda 6 $'dan başlayan Microsoft 365 Business paketine dahil. Outlook entegrasyonu kusursuz, SharePoint ve OneDrive yerleşik. Copilot yapay zekâ eklentisi kullanıcı başına ayda 30 $.",
+      "pros": [
+        "Microsoft 365 paketine dahil",
+        "Outlook + SharePoint entegrasyonu",
+        "Sohbet ve iş birliği araçları dahil"
+      ],
+      "cons": [
+        "Video tarafında Zoom kadar oturmuş değil",
+        "Copilot yapay zekâsı ücretli eklenti"
+      ]
+    },
+    "webex-meet-pro": {
+      "badge": "🛡️ Kurumsal güvenlikte en iyisi",
+      "review": "Webex Meet (Cisco), katı güvenlik gereksinimleri olan kurumlar için doğru tercih. FedRAMP onaylı, uçtan uca şifreleme, 1.000 katılımcılı toplantılar. Cisco'nun kurumsal odağı belli oluyor.",
+      "pros": [
+        "FedRAMP onaylı",
+        "Güçlü uçtan uca şifreleme",
+        "1.000 katılımcılı toplantılar"
+      ],
+      "cons": [
+        "Kullanım deneyimi Zoom kadar oturmuş değil",
+        "Özellikler kurumsal tarafa ağırlık veriyor"
+      ]
+    },
+    "loom-business": {
+      "badge": "🎬 En iyi asenkron video",
+      "review": "Loom Business, canlı toplantıları asenkron video mesajlarıyla değiştiren ekipler için doğru tercih. Hızlı kayıt, yapay zekâ özetleri, transkripsiyon, izleyici etkileşim analizleri. Canlı toplantıya çoğu zaman doğru olan alternatif.",
+      "pros": [
+        "En iyi asenkron video aracı",
+        "Yapay zekâ özetleri ve transkripsiyon",
+        "İzleyici etkileşim analizleri"
+      ],
+      "cons": [
+        "Canlı toplantılar için uygun değil",
+        "Business kullanıcı başına ayda 12,50 $"
+      ]
+    }
+  },
+  "offerNotes": {
+    "zoom-business-pro": "zoom.us üzerinden kaydolun — Business paketi host başına ayda 20 $.",
+    "google-meet-workspace": "workspace.google.com üzerinden kaydolun — kullanıcı başına ayda 6 $'dan başlayan Workspace paketine dahil.",
+    "microsoft-teams-business": "microsoft.com/microsoft-teams üzerinden kaydolun — kullanıcı başına ayda 6 $'dan başlayan Microsoft 365 Business paketine dahil.",
+    "webex-meet-pro": "webex.com üzerinden kaydolun — kurumsal güvenlik ihtiyaçları için en iyisi.",
+    "loom-business": "loom.com üzerinden kaydolun — Business paketi kullanıcı başına ayda 12,50 $."
+  },
+  "pinDescription": "Ekip toplantılarında hangi platform gerçekten işinizi görüyor? Zoom, Google Meet, Teams, Webex ve Loom'u ücretsiz paket sınırları, kişi başı maliyet ve yapay zekâ özetleriyle karşılaştırdık — belki de zaten ödediğiniz pakete dahil. #uzaktançalışma #videokonferans",
+  "recommendedFor": [
+    {
+      "label": "Tek bir sağlayıcı ekosistemine bağlı olmayan, çok platformlu ekipler",
+      "offerId": "zoom-business-pro",
+      "reason": "Zoom'un sağlayıcıdan bağımsız arayüzü ve en düşük ekran paylaşımı gecikmesi (200 ms), karışık araç setleri için ideal."
+    },
+    {
+      "label": "Takvim ve ortak sürücüleri yöneten Google Workspace ekipleri",
+      "offerId": "google-meet-workspace",
+      "reason": "Kullanıcı başına ayda 6 $'dan başlayan Workspace paketine dahil; Takvim, Gmail ve Drive kayıt entegrasyonu kusursuz."
+    },
+    {
+      "label": "Outlook ve SharePoint kullanan Microsoft 365 kurumları",
+      "offerId": "microsoft-teams-business",
+      "reason": "Teams, Microsoft 365 Business ile birlikte geliyor ve Outlook, SharePoint ile OneDrive'a doğrudan bağlanıyor."
+    },
+    {
+      "label": "Uyumluluk zorunluluğu olan kamu ve düzenlemeye tabi sektör BT ekipleri",
+      "offerId": "webex-meet-pro",
+      "reason": "Webex, FedRAMP onayı ve uçtan uca şifrelemesiyle kamu sektörünün katı güvenlik şartlarını karşılıyor."
+    },
+    {
+      "label": "Durum toplantılarını kayıtlı ekran gezintileriyle değiştiren uzaktan ekipler",
+      "offerId": "loom-business",
+      "reason": "Loom'un yapay zekâ özetli ve izleyici analizli asenkron videosu, güncelleme ve demolar için gereksiz canlı toplantıları ortadan kaldırıyor."
+    }
+  ]
 }

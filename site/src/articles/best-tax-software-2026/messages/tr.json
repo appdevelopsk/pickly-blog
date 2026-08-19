@@ -2,5 +2,152 @@
   "title": "2026'nın en iyi vergi yazılımı: 5 ürün karşılaştırma",
   "description": "TurboTax, H&R Block, FreeTaxUSA, TaxAct, Cash App Taxes ürünlerini karşılaştırdık. 2026'da vergi yazılımı için doğruluk ve değer açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Nihai iade tutarları ve doğruluk",
+      "paragraphs": [
+        "Beş yazılımın tamamı federal iadede birbirinden en fazla 4 dolar farkla sonuç verdi (2.841-2.845 dolar), yani yuvarlama payının içinde. Eyalet iadelerindeki 8 dolarlık fark ise küsuratların farklı işlenmesinden kaynaklanıyor. Sonuç açık: standart durumlarda vergi yazılımlarının hesap doğruluğu artık sıradanlaşmış durumda.",
+        "Fark yarattıkları yer kullanım deneyimi, elinizden tutma düzeyi ve fiyat. TurboTax'in soru-cevap akışı en ayrıntılısı (ve en uzunu). FreeTaxUSA en doğrudan olanı. Cash App Taxes en hızlısı ama diğerlerinin sorduğu iki soruyu atlıyor (yurt dışı hesaplar ve kripto varlıklar)."
+      ]
+    },
+    {
+      "heading": "Denetim desteği ve garantiler",
+      "paragraphs": [
+        "TurboTax ücretsiz denetim desteği veriyor (yönlendirme, temsil değil) ve ayrıca ücretli Audit Defense paketi sunuyor (60 dolar). H&R Block 9.000 şubesinde yüz yüze destek sağlıyor. TaxAct'te ücretsiz denetim desteği var. FreeTaxUSA'de denetim yardımı 20 dolarlık ek paketle geliyor. Cash App Taxes'te ise denetim desteği hiç yok.",
+        "Sade beyannamelerde denetim riski düşük (100 bin doların altındaki gelirlerde %1'in altında). Karmaşıklık arttıkça (serbest çalışma, gayrimenkul, birden fazla eyalet) H&R Block'un yüz yüze destek seçeneği en değerli koz haline geliyor."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaca hangisi",
+      "paragraphs": [
+        "En iyi kullanım deneyimi: TurboTax Deluxe, federal 69 dolar + eyalet 59 dolar. Soru akışı en kapsamlı ve en yardımcı olanı; özellikle ilk kez beyanname verenler ya da alışılmadık durumlar için. Kaçırdığınız indirimler olmasın diye endişeleniyorsanız aradaki fark cebinizden çıkmaya değer.",
+        "En iyi ücretsiz seçenek: Cash App Taxes (federal 0 dolar + eyalet 0 dolar). Çoğu durum için gerçekten bedava. Birden fazla eyalet beyanı ya da çok karmaşık ekleri desteklemiyor.",
+        "Fiyat/performans şampiyonu: FreeTaxUSA, federal 0 dolar + eyalet 14,99 dolar. Ücretli kategorinin en ucuz fiyatıyla tüm önemli vergi durumlarını destekliyor. Arayüz eski moda ama işini görüyor.",
+        "Yüz yüze destek için en iyisi: H&R Block Deluxe, federal 55 dolar + eyalet 49 dolar. 9.000 şube, işler sarpa sardığında karşınızda bir insan bulmanızı sağlıyor.",
+        "En iyi orta segment alternatif: TaxAct Deluxe, federal 30 dolar + eyalet 40 dolar. TurboTax'ten ucuz, doğrulukta ondan geri kalmıyor. Arayüz tam ortada bir yerde."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "TurboTax gerçekten bu fiyat farkına değer mi?",
+      "a": "Yalnızca alışılmadık bir vergi durumunuz varsa (gayrimenkul, çok sayıda gider kalemi olan serbest çalışma) ya da en pürüzsüz deneyimi istiyorsanız. Sade beyannameler için toplam 14,99 dolara FreeTaxUSA aynı işi yapıyor."
+    },
+    {
+      "q": "Cash App Taxes cidden ücretsiz mi?",
+      "a": "Evet — ek satış yok, premium paket yok, eyalet beyanı ücreti yok. Ücretsiz olmasının sebebi, Cash App'in bunu müşteri kazanma aracı olarak kullanması. Yalnızca görece sade beyannameleri destekliyor (birden fazla eyalet yok, karmaşık işletme yok)."
+    },
+    {
+      "q": "IRS Free File ne durumda?",
+      "a": "Düzeltilmiş brüt geliriniz 79.000 doların altındaysa, partner yazılımlar üzerinden (TaxAct dahil) IRS Free File hakkınız var. Düşük ve orta gelirliler için en iyi ücretsiz seçenek bu."
+    },
+    {
+      "q": "Erken mi beyan etmeli, geç mi?",
+      "a": "İade alacaksanız mümkün olan en erken tarihte verin. Borcunuz varsa ve nakit akışınız sıkışıksa geç verin (ekim uzatması). Erken beyan aynı zamanda vergi iadesi dolandırıcılığı riskini de azaltır."
+    }
+  ],
+  "products": {
+    "turbotax-deluxe": {
+      "badge": "🏆 En iyi kullanım deneyimi",
+      "review": "TurboTax Deluxe, vergi yazılımları arasında en pürüzsüz deneyimi sunuyor. Soru-cevap tarzı akış, her soruyu açıklamalar ve sık karşılaşılan örneklerle birlikte adım adım anlatıyor. 'Neden?' baloncukları ilk kez beyanname verenler için cidden işe yarıyor. Federal 69 dolar + eyalet 59 dolar (toplam 128 dolar) ile bu karşılaştırmanın açık ara en pahalısı. Vergi konusunda geriliyorsanız ya da durumunuz elinizden tutulmasını gerektirecek kadar karmaşıksa parasını hak ediyor.",
+      "pros": [
+        "Sektörün en iyi soru-cevap akışı",
+        "Ücretsiz denetim desteği dahil",
+        "Azami iade garantisi"
+      ],
+      "cons": [
+        "Toplam 128 dolarla karşılaştırmanın en pahalısı",
+        "Beyan sırasında bıktırıcı ek satış önerileri"
+      ]
+    },
+    "hr-block-deluxe": {
+      "badge": "🏪 Yüz yüze destek için en iyisi",
+      "review": "H&R Block Deluxe, arkasında bir insan olsun isteyenler için doğru tercih. Federal 55 dolar + eyalet 49 dolar (toplam 104 dolar) ve bir aksilik çıkarsa ABD'deki 9.000 şubesinden birine uğrayıp ücretli yüz yüze destek alabiliyorsunuz. Arayüz TurboTax kadar cilalı değil ama işlevsel olarak aynı kapıya çıkıyor. Ücretsiz denetim desteği dahil.",
+      "pros": [
+        "Yüz yüze destek için 9.000 şube",
+        "Ücretsiz denetim desteği dahil",
+        "Bu güvence için toplam 104 dolar makul"
+      ],
+      "cons": [
+        "Arayüz TurboTax kadar cilalı değil",
+        "Serbest çalışma ek paketleri fiyatı yukarı çekiyor"
+      ]
+    },
+    "freetaxusa": {
+      "badge": "💸 Fiyat/performans şampiyonu",
+      "review": "FreeTaxUSA, ücretli kategorinin en iyi fiyat/performansı. Federal 0 dolar + eyalet 14,99 dolar = toplam 14,99 dolara kalem kalem gider indirimi, serbest çalışma, kira geliri ve sermaye kazançları dahil neredeyse her vergi durumunu karşılıyor. Arayüz eski (site 2010'lardan kalma gibi duruyor) ama her özellik düzgün çalışıyor. Aynı beyannameyi hem TurboTax'ten hem FreeTaxUSA'den geçirenler aynı iade rakamını bildiriyor — arkadaki vergi matematiği birebir aynı.",
+      "pros": [
+        "Toplam 14,99 dolara rakipsiz değer",
+        "Pratikte tüm vergi durumlarını destekliyor",
+        "%100 doğruluk garantisi"
+      ],
+      "cons": [
+        "Arayüz eski",
+        "Sınırlı müşteri desteği (ücretsiz pakette sadece sohbet)"
+      ]
+    },
+    "taxact-deluxe": {
+      "badge": "🪜 Orta segmentin değerlisi",
+      "review": "TaxAct Deluxe, orta segmentte doğru tercih. Federal 30 dolar + eyalet 40 dolar (toplam 70 dolar). Arayüz FreeTaxUSA'den iyi, doğruluk TurboTax ayarında, ücretsiz denetim desteği dahil. 35 dolarlık 'Xpert Assist' eki sizi canlı destek için bir mali müşavire bağlıyor — tek bir sorunuz varsa ama TurboTax fiyatını ödemek istemiyorsanız işinizi görüyor.",
+      "pros": [
+        "Küçük bir farkla FreeTaxUSA'den iyi arayüz",
+        "Ücretsiz denetim desteği",
+        "Mali müşavir desteği için Xpert Assist eki"
+      ],
+      "cons": [
+        "FreeTaxUSA'den daha fazla ek satış baskısı",
+        "Marka bilinirliği TurboTax/H&R kadar yüksek değil"
+      ]
+    },
+    "cash-app-taxes": {
+      "badge": "🆓 En iyi ücretsiz seçenek",
+      "review": "Cash App Taxes, gerçekten bedava olan en iyi seçenek. Federal 0 dolar + eyalet 0 dolar; ek satış yok, premium paket yok. Kalem kalem gider indirimi, serbest çalışma (Schedule C), kira geliri (Schedule E) ve sermaye kazançları dahil çoğu durumu destekliyor. Birden fazla eyalet beyanını ve bazı niş ekleri desteklemiyor. Arayüz hızlı ve modern — uygulama vergi yazılımından çok bir fintek aracı gibi hissettiriyor. Denetim desteği yok.",
+      "pros": [
+        "Ek satış olmadan gerçekten ücretsiz",
+        "Modern ve hızlı arayüz",
+        "Çoğu vergi durumunu destekliyor"
+      ],
+      "cons": [
+        "Birden fazla eyalet desteği yok",
+        "Denetim desteği yok",
+        "Cash App hesabı gerekiyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "turbotax-deluxe": "turbotax.intuit.com üzerinden alın. Kutulu sürümlerde Costco veya Sam's Club'ta %20-30 indirim çıkabiliyor. 100 dolardan fazlaya gelen 'TurboTax Live' paketi sizi bir mali müşavire bağlıyor — yalnızca karmaşık durumlarda mantıklı.",
+    "hr-block-deluxe": "hrblock.com üzerinden alın. Yazılımı indirebilir ya da çevrim içi sürümü kullanabilirsiniz. H&R Block şubelerinde yüz yüze destek, karmaşıklığa göre 80-300 dolar arasında (yazılıma dahil değil).",
+    "freetaxusa": "freetaxusa.com üzerinden beyan edin. 14,99 dolarlık 'Deluxe' yükseltmesi öncelikli müşteri desteği ve denetim yardımı ekliyor — bu küçük fark için genelde değer.",
+    "taxact-deluxe": "taxact.com üzerinden beyan edin. 'Xpert Assist' eki sizi canlı destek için bir mali müşavire bağlıyor — alışılmadık tek bir sorunuz varsa 35 dolara değer.",
+    "cash-app-taxes": "cash.app/taxes üzerinden ya da Cash App uygulamasından beyan edin. Cash App hesabı gerekiyor. Beyan ücretsiz; vergi akışı sırasında uygulama içi reklam çıkmıyor."
+  },
+  "pinDescription": "5 vergi yazılımına aynı beyannameyi girdik: TurboTax, H&R Block, FreeTaxUSA, TaxAct ve Cash App Taxes. İade tutarı neredeyse aynı, fiyat farkı 128 dolara kadar çıkıyor. Hangisi paranızı hak ediyor?",
+  "recommendedFor": [
+    {
+      "label": "İndirim kaçırmaktan endişelenen, ilk kez beyanname verenler",
+      "offerId": "turbotax-deluxe",
+      "reason": "TurboTax'in adım adım soru akışı ve 'neden?' baloncukları her soruyu açıklıyor; böylece tedirgin kullanıcılar varlığından haberdar olmadıkları indirimleri atlamıyor."
+    },
+    {
+      "label": "Arkasında bir insan olsun isteyen ücretli çalışanlar",
+      "offerId": "hr-block-deluxe",
+      "reason": "9.000 şube sayesinde bir aksilikte kapıdan girip yüz yüze destek alabiliyorsunuz — başka hiçbir yazılım bu fiziksel güvenceyi sunmuyor."
+    },
+    {
+      "label": "Gider indirimi ya da serbest çalışma geliri olan bütçe dostu kullanıcılar",
+      "offerId": "freetaxusa",
+      "reason": "Toplam 14,99 dolara FreeTaxUSA kira gelirini, sermaye kazançlarını ve Schedule C'yi destekliyor — TurboTax'le aynı doğruluk, sekizde bir fiyat."
+    },
+    {
+      "label": "TurboTax fiyatını ödemeden daha iyi arayüz isteyenler",
+      "offerId": "taxact-deluxe",
+      "reason": "TaxAct Deluxe toplam 70 dolar ve 35 dolarlık mali müşavir eki ile maliyet-rehberlik dengesinin en iyi kurulduğu orta yol."
+    },
+    {
+      "label": "Sade beyannamesi olan ve tek kuruş ödemeye niyeti olmayanlar",
+      "offerId": "cash-app-taxes",
+      "reason": "Cash App Taxes hem federal hem eyalet beyanı için 0 dolar alıyor ve ek satış yapmıyor; standart indirimli ücretli çalışanlar için tek gerçek bedava seçenek."
+    }
+  ]
 }

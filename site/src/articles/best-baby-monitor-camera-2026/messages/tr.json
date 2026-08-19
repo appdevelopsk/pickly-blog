@@ -114,5 +114,32 @@
     "vtech-vm5263": "vtech.com, Target, Walmart ve Amazon'da satılır. Birden çok ekran boyutu çeşidi var — VM5263, 5 inç olanıdır.",
     "miku-pro": "mikucare.com'da satılır. Temel özellikler için abonelik gerekmez."
   },
-  "pinDescription": "2026'nın en iyi bebek izleme kamerası: Owlet Cam 2 vs Nanit Pro vs Infant Optics DXR-8 vs VTech VM5263 vs Miku Pro — yayımlanan teknik özellikler ve kullanıcı değerlendirmeleriyle karşılaştırıldı."
+  "pinDescription": "2026'nın en iyi bebek izleme kamerası: Owlet Cam 2 vs Nanit Pro vs Infant Optics DXR-8 vs VTech VM5263 vs Miku Pro — yayımlanan teknik özellikler ve kullanıcı değerlendirmeleriyle karşılaştırıldı.",
+  "recommendedFor": [
+    {
+      "label": "Bebeğinin nefesini merak eden ilk kez anne baba olanlar",
+      "offerId": "owlet-cam-2",
+      "reason": "Owlet Sock ile eşleşerek anlık nefes ve kalp atışı uyarısı veriyor; endişeli ebeveynlere veriye dayalı bir rahatlama sunuyor."
+    },
+    {
+      "label": "Her uyku verisini takip etmek isteyen ebeveynler",
+      "offerId": "nanit-pro-camera",
+      "reason": "Tepeden bakan yapay zekâ destekli uyku takibi, uyku düzeni ve toplam uyku süresi için her gece rapor çıkarıyor — üstelik bebeğe hiçbir cihaz takmadan."
+    },
+    {
+      "label": "İnternete bağlı cihazlardan uzak durmak isteyenler",
+      "offerId": "infant-optics-dxr-8",
+      "reason": "Tamamen bağımsız çalışıyor; Wi-Fi ya da bulut yok. 5 inçlik kendi ekranı akıllı telefona veya modeme ihtiyaç duymadan sorunsuz iş görüyor."
+    },
+    {
+      "label": "İkinci bir oda için bütçesini zorlamak istemeyen aileler",
+      "offerId": "vtech-vm5263",
+      "reason": "4.500-6.000 TL bandında döner kafa, yakınlaştırma ve gece görüşü sunuyor; ikinci bebek odası ya da anneannenin evi için bütçeyi sarsmadan yeterli."
+    },
+    {
+      "label": "Bebeğe hiçbir şey takmadan nefes takibi isteyen teknoloji meraklıları",
+      "offerId": "miku-pro",
+      "reason": "Radar tabanlı temassız algılama sayesinde bebeğe çorap ya da sensör takmadan solunumu izliyor."
+    }
+  ]
 }

@@ -177,5 +177,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "Her ürünü tat profili, kaynak şeffaflığı, porsiyon başına sunduğu değer, ambalaj sağlamlığı ve yaygın kullanım senaryolarındaki performansı açısından değerlendirdik. Belgelenmiş sertifikalar ile doğrulanmış kullanıcı yorumlarını pazarlama iddialarıyla karşılaştırarak kontrol ettik."
+  "methodology": "Her ürünü tat profili, kaynak şeffaflığı, porsiyon başına sunduğu değer, ambalaj sağlamlığı ve yaygın kullanım senaryolarındaki performansı açısından değerlendirdik. Belgelenmiş sertifikalar ile doğrulanmış kullanıcı yorumlarını pazarlama iddialarıyla karşılaştırarak kontrol ettik.",
+  "recommendedFor": [
+    {
+      "label": "Hafta içi hızlı kahvaltı arayan yoğun spor salonu müdavimleri",
+      "offerId": "kodiak-cakes-power-cakes",
+      "reason": "Sadece su ekleyip karıştırmak yeterli; 14 g protein sayesinde yumurta ya da süt ölçmeden 5 dakikanın altında antrenman sonrası tam bir öğün hazır."
+    },
+    {
+      "label": "Günlük protein alımını sonuna kadar zorlayan yarışmacı sporcular",
+      "offerId": "birch-benders-protein-pancake",
+      "reason": "Sadece su gerektiren karışımlar arasında 18 g proteinle en yükseği; üstelik diğer yüksek proteinli karışımları her gün yemeyi zorlaştıran o tebeşirimsi tadı bırakmıyor."
+    },
+    {
+      "label": "Makrolarını takip eden vegan ve süt ürünü tüketmeyenler",
+      "offerId": "bob-red-mill-protein-pancake",
+      "reason": "Bezelye proteini bazlı, sertifikalı glutensiz ve tamamen vegan; bitkisel beslenenlere ve alerjen kısıtlaması olanlara uyan tek seçenek."
+    },
+    {
+      "label": "Sıkı diyet dönemindeki vücut geliştiriciler ve fizik yarışmacıları",
+      "offerId": "carbon-fire-protein-pancake",
+      "reason": "Porsiyon başına 25 g protein ve yalnızca 5 g karbonhidrat; karbonhidratı asgariye indirmenin şart olduğu katı makro hedefleri için birebir tasarlanmış."
+    },
+    {
+      "label": "İthalat farkından kaçınan Japonya'daki fitness tutkunları",
+      "offerId": "nisshin-protein-hotcake-mix",
+      "reason": "Porsiyon başına 30 g protein, üstelik yerel market fiyatına: gümrük masrafı ve kargo beklemesi yok, protein miktarı ABD markalarını yakalıyor hatta geçiyor."
+    }
+  ]
 }

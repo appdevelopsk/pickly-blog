@@ -2,5 +2,152 @@
   "title": "En iyi Bluetooth araç adaptörü 2026: 5 ürün karşılaştırma",
   "description": "Nulaxy, Anker, Doosl, CarlinKit, Ottocast ürünlerini karşılaştırdık. 2026'da Bluetooth araç adaptörü için adaptör türü ve ses kalitesi açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Hangi araca hangi adaptör?",
+      "paragraphs": [
+        "Aux yok, Bluetooth yok, sadece FM radyo var (2008 Civic): FM verici tipi (Nulaxy KM18 veya Anker Roav SmartCharge F0). Ses kalitesi en düşük seviyede — FM bant genişliği sınırlı — ama çok eski araçlar için tek seçenek bu.",
+        "Aux girişi var ama Bluetooth yok (2014 RAV4): aux Bluetooth alıcı (Doosl Bluetooth Receiver). 3,5 mm aux girişine takıyorsunuz. Bu kategorideki en iyi ses kalitesi.",
+        "Kablolu CarPlay/Android Auto var ama kablosuz yok (2019 Camry): kablosuz CarPlay adaptörü (CarlinKit 3.0). Mevcut CarPlay USB portuna takılıyor, kabloluyu kablosuza çeviriyor.",
+        "Kablolu CarPlay'li yeni araç ama medya akışı da isteniyor (Netflix, YouTube): üst segment kablosuz CarPlay + yayın adaptörü (Ottocast U2-X Pro). Yayın için dahili 4G hotspot ekliyor."
+      ]
+    },
+    {
+      "heading": "Ses kalitesi",
+      "paragraphs": [
+        "Ses kalitesi (1-10 puan): Doosl aux alıcı 9,0; CarlinKit kablosuz CarPlay 9,5 (dijital sinyal); Ottocast 9,5; Nulaxy FM verici 6,5; Anker FM verici 7,0.",
+        "FM verici kalitesini FM yayın bant genişliği sınırlıyor. Şehir içinde parazit ve frekans karışması oluyor. Anker Roav, ucuz FM vericilere göre biraz daha temiz bir çıkış veriyor.",
+        "Aux alıcılar FM'i devre dışı bıraktığı için kaliteyi koruyor — dijital Bluetooth → 3,5 mm aux yolu temiz."
+      ]
+    },
+    {
+      "heading": "Kurulum ve güvenilirlik",
+      "paragraphs": [
+        "Eşleşme süresi: aux alıcılar 30 saniye, FM vericiler 1 dakika (boş FM frekansı bulmak gerekiyor), kablosuz CarPlay 2-3 dakika (ilk eşleşme), Ottocast 5 dakika (4G hotspot kurulumu).",
+        "Kontak açıldığında yeniden bağlanma: aux alıcılar ve kablosuz CarPlay otomatik bağlanıyor. FM vericilerde radyoyu yeniden ayarlamak gerekiyor. Ottocast'ta ara sıra Wi-Fi/4G kopması oluyor.",
+        "Elleri kullanmadan arama: 5 model de destekliyor. Kalite sırası: Doosl aux > CarlinKit > Ottocast > Anker FM > Nulaxy FM. Mikrofonu en temiz alan aux alıcılar."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "FM verici mi, aux alıcı mı?",
+      "a": "Aracınızda aux varsa aux alıcı (Doosl) kalite olarak çok daha iyi. FM verici (Nulaxy, Anker) yalnızca aux'suz çok eski araçlar için tek çözüm. Aux'unuz varsa FM kullanmayın."
+    },
+    {
+      "q": "Kablosuz CarPlay (CarlinKit) parasına değer mi?",
+      "a": "Aracınızda kablolu CarPlay varsa ve kablosuz istiyorsanız evet. Kurulum bir kereye mahsus, faydası her yolculukta. 2.000-3.000 TL bandı bu rahatlık için makul."
+    },
+    {
+      "q": "Ottocast — arabada Netflix olur mu?",
+      "a": "Oluyor — dahili 4G hotspot sayesinde Netflix/YouTube'u aracın ekranına aktarıyor. Sadece YOLCULAR için (araç kullanırken izlemeyin). 10.000-13.000 TL, bu konfor için üst segment fiyat."
+    },
+    {
+      "q": "Onun yerine yeni bir teyp alsam olmaz mı?",
+      "a": "Kablosuz CarPlay'li çıkma sonrası double-DIN teyp: 7.000-17.000 TL + 3.500-7.000 TL montaj. Tüm müzik sistemini değiştiriyor. Uzun vadede daha iyi çözüm ama peşin maliyeti yüksek."
+    }
+  ],
+  "products": {
+    "nulaxy-km18-bluetooth-fm": {
+      "badge": "🏆 En iyi FM verici",
+      "review": "Nulaxy KM18, aux girişi olmayan araçlar için (2010 ve öncesi modeller) doğru tercih. FM verici tipi, 700-1.000 TL. Ses kalitesini FM bant genişliği sınırlıyor ama başka seçenek yok. 1,44\" ekran, USB şarj, elleri kullanmadan arama.",
+      "pros": [
+        "Sadece FM'i olan araçlar için tek seçenek",
+        "700-1.000 TL uygun fiyat",
+        "Dahili USB şarj"
+      ],
+      "cons": [
+        "FM ses kalitesi sınırlı",
+        "Radyo frekansını yeniden ayarlamak gerekiyor"
+      ]
+    },
+    "anker-roav-smartcharge-f0": {
+      "badge": "🥇 En iyi üst segment FM",
+      "review": "Anker Roav SmartCharge F0, üst segment FM verici arayanlar için doğru model. 1.200-1.600 TL, iki USB-C şarj portu, akıllı uygulama desteği. Ucuz FM vericilerden biraz daha iyi ses veriyor ama yine de FM'in sınırlarına takılıyor.",
+      "pros": [
+        "Güvenilir marka",
+        "İki USB-C port",
+        "Akıllı uygulama desteği"
+      ],
+      "cons": [
+        "Yine de FM kalitesiyle sınırlı",
+        "Ucuz FM vericilerin iki katı fiyat"
+      ]
+    },
+    "doosl-bluetooth-receiver": {
+      "badge": "🎧 Aux girişi olan araçlar için en iyisi",
+      "review": "Doosl Bluetooth 5.0 Receiver, aracınızda aux girişi varsa doğru tercih. Radyo frekanslarını devre dışı bıraktığı için ses kalitesi FM vericilerin çok üstünde. Minik gövde, elleri kullanmadan arama. 500-850 TL.",
+      "pros": [
+        "Kategorinin en iyi ses kalitesi",
+        "500-850 TL uygun fiyat",
+        "Çok küçük gövde"
+      ],
+      "cons": [
+        "Araçta aux girişi şart",
+        "Mikrofon kalitesi modele göre değişiyor"
+      ]
+    },
+    "carlinkit-3-cplay2air-android-auto": {
+      "badge": "📱 En iyi kablosuz CarPlay",
+      "review": "CarlinKit 3.0 (CPlay2Air), aracınızda kablolu CarPlay varsa ve kablosuz istiyorsanız doğru tercih. Mevcut CarPlay USB portuna takılıyor, kabloluyu kablosuza çeviriyor. 2.000-3.000 TL. Hem Apple CarPlay hem Android Auto ile çalışıyor.",
+      "pros": [
+        "Kablosuz CarPlay/Android Auto yükseltmesi",
+        "2.000-3.000 TL makul fiyat",
+        "İlk eşleşmeden sonra sorunsuz"
+      ],
+      "cons": [
+        "Araçta kablolu CarPlay şart",
+        "İlk eşleşme 2-3 dakika sürüyor"
+      ]
+    },
+    "ottocast-u2-x-pro-wireless": {
+      "badge": "🎬 Yayın için en iyisi",
+      "review": "Ottocast U2-X Pro Wireless, araç ekranında (yolcular için) Netflix/YouTube izlemek isteyenler için doğru üst segment tercih. Kablosuz CarPlay + Android Auto + dahili 4G hotspot. 10.000-13.000 TL üst segment fiyat.",
+      "pros": [
+        "Kablosuz CarPlay + video yayını",
+        "Dahili 4G hotspot",
+        "Kaliteli işçilik"
+      ],
+      "cons": [
+        "10.000-13.000 TL yüksek fiyat",
+        "Ara sıra Wi-Fi/4G kopmaları"
+      ]
+    }
+  },
+  "offerNotes": {
+    "nulaxy-km18-bluetooth-fm": "amazon.com.tr üzerinden alın — en iyi kalite için boş bir FM frekansı bulun.",
+    "anker-roav-smartcharge-f0": "anker.com veya amazon.com.tr üzerinden alın — üst segment FM verici tercihi.",
+    "doosl-bluetooth-receiver": "amazon.com.tr üzerinden alın — sadece aracınızda aux girişi varsa çalışır.",
+    "carlinkit-3-cplay2air-android-auto": "amazon.com.tr veya carlinkitcarplay.com üzerinden alın — araçta kablolu CarPlay gerekiyor.",
+    "ottocast-u2-x-pro-wireless": "ottocast.com veya amazon.com.tr üzerinden alın — araç ekranında yayın için üst segment seçenek."
+  },
+  "pinDescription": "Arabanızda aux yok mu, Bluetooth yok mu? 2026'nın en iyi Bluetooth araç adaptörleri: Nulaxy, Anker, Doosl, CarlinKit ve Ottocast karşılaştırması — hangi araca hangisi uyuyor, tek tabloda. #arabaaksesuar",
+  "recommendedFor": [
+    {
+      "label": "Aux'u da Bluetooth'u da olmayan eski araç sahipleri",
+      "offerId": "nulaxy-km18-bluetooth-fm",
+      "reason": "2010 öncesi araçlarda kablosuz müzik için tek yol FM verici. KM18'in frekans ekranı sayesinde boş bir kanal bulmak saniyeler alıyor."
+    },
+    {
+      "label": "Her gün USB-C şarja ihtiyaç duyan, bütçesine dikkat edenler",
+      "offerId": "anker-roav-smartcharge-f0",
+      "reason": "İki USB-C portla telefonu ve tableti aynı anda şarj edebiliyorsunuz — Anker'ın yapı kalitesi, sıradan FM vericilere göre aradaki 500 TL'lik farkı hak ediyor."
+    },
+    {
+      "label": "Aux girişi olan eski araçlarda müzik kalitesine önem verenler",
+      "offerId": "doosl-bluetooth-receiver",
+      "reason": "FM'i tamamen atlayıp 500-850 TL'ye CD'ye yakın ses veriyor. 3,5 mm aux girişi olan her araç için fiyat/ses oranı en iyi seçenek."
+    },
+    {
+      "label": "Her gün CarPlay kablosuyla uğraşmaktan bıkan iPhone kullanıcıları",
+      "offerId": "carlinkit-3-cplay2air-android-auto",
+      "reason": "Tek seferlik eşleşmeyle mevcut kablolu CarPlay portunuz kablosuza dönüşüyor. Sonraki her yolculukta otomatik bağlanıyor — kabloya gerek kalmıyor."
+    },
+    {
+      "label": "Çocuklarla uzun yola çıkan, ekranla oyalanma derdi olan aileler",
+      "offerId": "ottocast-u2-x-pro-wireless",
+      "reason": "Dahili 4G hotspot, Netflix ve YouTube'u doğrudan araç ekranına aktarıyor; arka koltuktakiler telefon internetini bitirmeden oyalanıyor."
+    }
+  ]
 }

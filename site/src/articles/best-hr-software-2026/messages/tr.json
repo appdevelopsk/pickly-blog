@@ -2,5 +2,150 @@
   "title": "2026'nın en iyi İK yazılımı: 5 ürün karşılaştırma",
   "description": "BambooHR, Rippling, Gusto, Workday, Deel ürünlerini karşılaştırdık. 2026'da İK yazılımı için katılım hızı ve self servis açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "İşe alım süreci hızı",
+      "paragraphs": [
+        "Yeni bir çalışanı sisteme dahil etme süresi (teklif mektubundan tüm sistem erişimlerinin açılmasına kadar): BambooHR 2 saat (manuel koordinasyon), Rippling 25 dakika (Slack/G Suite/ekipmanı otomatik tanımlıyor), Gusto 45 dakika (bordroda iyi, İK tarafı temel seviye), Workday 4 saat (kurumsal karmaşıklık), Deel 30 dakika (ABD'deki işe alımlar), 1 saat (yurt dışı).",
+        "Rippling'in farkı şu: yazılım hesaplarını (Slack, Google, GitHub, Notion) açıyor, ekipman siparişini veriyor ve işe giriş evraklarını da hallediyor. Çoğu İK aracında bunları tek tek elle yapmanız gerekiyor."
+      ]
+    },
+    {
+      "heading": "Çalışan self servis",
+      "paragraphs": [
+        "İzin talebi, maaş bordrosu görüntüleme, kişisel bilgi güncelleme, organizasyon şeması: beşi de destekliyor. Kullanım deneyimi sıralaması: BambooHR > Gusto > Rippling > Deel > Workday.",
+        "Mobil uygulama: en iyisi BambooHR, Gusto güçlü, Rippling işlevsel, Deel yeterli; Workday'in mobil uygulaması çalışıyor ama fazlasıyla kurumsal duruyor.",
+        "Doküman ve politika portalı: Rippling ile BambooHR önde. Gusto'da temel bir doküman saklama var. Workday'in doküman yönetimi güçlü ama karmaşık."
+      ]
+    },
+    {
+      "heading": "Toplam aylık maliyet",
+      "paragraphs": [
+        "75 çalışan için aylık maliyet (İK odaklı paket): BambooHR Essentials 99 $ + kişi başı ücret (toplam 475 $), Gusto Plus 60 $ + 12 $ × 75 = 960 $, Rippling 8 $ × 75 = 600 $ (modüler, özellik ekledikçe artıyor), Workday HCM ~1.500-2.250 $ (teklife bağlı, kişi başı 20-30 $), Deel küresel bordro için çalışan başına 49 $, ABD için 19 $.",
+        "Gizli maliyetler: Workday bir kurulum iş ortağı gerektiriyor (başlangıçta 30 bin - 100 bin $). Rippling modül başına ücret alıyor (İK, bordro, BT, finans ayrı ayrı). BambooHR'ın kişi başı ücreti 100+ çalışanda ciddi şekilde birikiyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "BambooHR mı Rippling mi?",
+      "a": "İK odaklı, 200 kişinin altındaki KOBİ'ler ve sınıfının en iyisi kullanım deneyimi isteyenler için BambooHR. İK + BT + Finansı tek çatı altında toplamak isteyen teknoloji şirketleri için Rippling."
+    },
+    {
+      "q": "50 kişinin altında İK yazılımına ihtiyacım var mı?",
+      "a": "30 kişinin altındaysanız bir tablo dosyası + Gusto bordrosu genelde yeterli olur. 30'u geçtikten sonra düzenli izin takibi, doküman saklama ve işe alım akışlarına ihtiyaç duymaya başlarsınız."
+    },
+    {
+      "q": "Dağıtık ekipler için Deel nasıl?",
+      "a": "150'den fazla ülkedeki çalışanlar ve serbest çalışanlar için Deel sınıfının en iyisi. Mevzuata uyum, sözleşmeler ve küresel bordroyu üstleniyor. Yalnızca tek ülkede faaliyet gösteren bir şirketin ana İK sistemi olarak ise pek ideal değil."
+    },
+    {
+      "q": "Workday ne zaman mantıklı olur?",
+      "a": "Workday HCM kurumsal ölçek için (500+ çalışan, 30 bin $ üzeri kurulum). Çoğu KOBİ için BambooHR veya Rippling daha doğru tercih. Workday'in karmaşıklığı ancak büyük ölçekte anlam kazanıyor."
+    }
+  ],
+  "products": {
+    "bamboohr-essentials": {
+      "badge": "🏆 KOBİ'ler için en iyisi",
+      "review": "BambooHR Essentials, 200 kişinin altındaki İK odaklı KOBİ'ler için doğru tercih. Kategorisindeki en iyi kullanım deneyimi, çalışan self servisi sınıfının en iyisi, mobil uygulaması güçlü. Aylık 99 $ + kişi başı ücret ölçek büyüdükçe kabarıyor ama işe alım başına kazandırdığı zaman gerçek.",
+      "pros": [
+        "Kategorisinin en iyi kullanım deneyimi",
+        "En iyi çalışan self servisi",
+        "Güçlü mobil uygulama"
+      ],
+      "cons": [
+        "Kişi başı ücret 100+ çalışanda kabarıyor",
+        "Yurt dışı desteği sınırlı"
+      ]
+    },
+    "rippling-platform": {
+      "badge": "🏢 En iyi bütünleşik platform",
+      "review": "Rippling, İK + BT + Finansı tek çatı altında toplamak isteyen teknoloji şirketleri için doğru tercih. Yazılım hesaplarını otomatik açıyor, ekipman siparişi veriyor, işe giriş evraklarını hallediyor. Modüler fiyatlandırma — sadece kullandığınıza ödüyorsunuz.",
+      "pros": [
+        "Yazılım ve ekipmanı otomatik tanımlıyor",
+        "İK + BT + Finans tek platformda",
+        "En hızlı işe alım akışı"
+      ],
+      "cons": [
+        "Modüler fiyatlandırma karmaşıklaşabiliyor",
+        "Sadece İK ihtiyacı olanlar için ideal değil"
+      ]
+    },
+    "gusto-hr-plus": {
+      "badge": "💼 Bordro öncelikli en iyi İK",
+      "review": "Gusto Plus, asıl ihtiyacınız bordroysa ve İK ikinci planda kalıyorsa doğru tercih. Bordro tarafı güçlü, İK özellikleri gelişiyor (izin, işe alım, doküman saklama). Saf İK'da BambooHR kadar derin değil ama paket, küçük ekiplere para kazandırıyor.",
+      "pros": [
+        "Güçlü bordro altyapısı",
+        "Gelişen İK özellikleri",
+        "Paket avantajı"
+      ],
+      "cons": [
+        "İK derinliği BambooHR kadar değil",
+        "İK ağırlıklı ihtiyaçlarda 100+ çalışanda yetersiz kalıyor"
+      ]
+    },
+    "workday-hcm": {
+      "badge": "🏢 En iyi kurumsal HCM",
+      "review": "Workday HCM, 500+ çalışanlı kurumsal şirketler için doğru tercih. Kurumsal düzeyde özellik derinliği (yedekleme planlaması, eğitim yönetimi, gelişmiş analitik). Kurulum için iş ortağı gerekiyor (30 bin - 100 bin $). KOBİ'ler için fazla ağır kaçıyor.",
+      "pros": [
+        "Kurumsal düzeyde özellik derinliği",
+        "Güçlü analitik ve raporlama",
+        "Sektör lideri HCM"
+      ],
+      "cons": [
+        "Kurumsal karmaşıklık",
+        "30 bin - 100 bin $ kurulum",
+        "Teklife bağlı fiyatlandırma"
+      ]
+    },
+    "deel-hr": {
+      "badge": "🌍 Küresel ekipler için en iyisi",
+      "review": "Deel HR + Global Payroll, yurt dışında çalışanı ve serbest çalışanı olan dağıtık ekipler için doğru tercih. 150'den fazla ülke desteği; mevzuata uyum, sözleşmeler ve küresel bordroyu üstleniyor. Dünyanın her yerinden işe alan uzaktan çalışan şirketlerin standart tercihi.",
+      "pros": [
+        "150'den fazla ülke desteği",
+        "Mevzuat + sözleşme + bordro",
+        "Dağıtık ekipler için en iyisi"
+      ],
+      "cons": [
+        "Tek ülkeli şirkette ana İK sistemi olarak ideal değil",
+        "Küresel kullanımda kişi başı ücretlendirme"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bamboohr-essentials": "bamboohr.com üzerinden kaydolun — ücretsiz deneme mevcut.",
+    "rippling-platform": "rippling.com üzerinden teklif alın — modüler fiyatlandırma.",
+    "gusto-hr-plus": "gusto.com üzerinden kaydolun — İK özellikleri bordroyla birlikte geliyor.",
+    "workday-hcm": "workday.com üzerinden teklif alın — satış görüşmesi ve kurulum iş ortağı gerekiyor.",
+    "deel-hr": "deel.com üzerinden kaydolun — serbest çalışanlar için anında başlangıç."
+  },
+  "pinDescription": "İK yazılımı seçerken kafanız mı karıştı? BambooHR, Rippling, Gusto, Workday ve Deel'i 75 kişilik ekip üzerinden kıyasladık: kişi başı maliyet, bordro ve yurt dışı işe alım. #ik #yazilim",
+  "recommendedFor": [
+    {
+      "label": "200 kişinin altındaki büyüyen şirketlerde tek başına çalışan İK yöneticileri",
+      "offerId": "bamboohr-essentials",
+      "reason": "BambooHR'ın sınıfının en iyisi arayüzü ve çalışan self servisi sayesinde tek bir İK çalışanı tüm süreci tükenmeden yönetebiliyor."
+    },
+    {
+      "label": "Yazılım araçlarıyla birlikte mühendis işe alan teknoloji girişimleri",
+      "offerId": "rippling-platform",
+      "reason": "Rippling, Slack, GitHub ve ekipman tanımlarını 25 dakikada otomatik açıyor; her yeni işe alımda BT tarafındaki manuel koordinasyon yükünü ortadan kaldırıyor."
+    },
+    {
+      "label": "Öncelikleri bordroda hata yapmamak olan küçük işletme sahipleri",
+      "offerId": "gusto-hr-plus",
+      "reason": "Gusto, bordro ile gelişen İK özelliklerini tek pakette sunuyor; asıl ihtiyacın bordro olduğu 100 kişinin altındaki ekiplere para kazandırıyor."
+    },
+    {
+      "label": "500'ün üzerinde çalışanı olan kurumsal şirketlerin İK yöneticileri",
+      "offerId": "workday-hcm",
+      "reason": "Workday'in yedekleme planlaması, eğitim yönetimi ve gelişmiş analitiği 30 bin $ üzerindeki kurulum maliyetini ancak gerçek kurumsal ölçekte haklı çıkarıyor."
+    },
+    {
+      "label": "Birden fazla ülkede serbest çalışanla ilerleyen uzaktan çalışan girişim kurucuları",
+      "offerId": "deel-hr",
+      "reason": "Deel, 150'den fazla ülkede mevzuata uyumu, sözleşmeleri ve bordroyu üstleniyor; yerel şirket kurmadan yurt dışından işe almayı hukuken sorunsuz hale getiriyor."
+    }
+  ]
 }

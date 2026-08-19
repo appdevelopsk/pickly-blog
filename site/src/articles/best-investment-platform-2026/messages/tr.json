@@ -2,5 +2,147 @@
   "title": "En iyi yatırım platformu 2026: 5 ürün karşılaştırma",
   "description": "Fidelity, Vanguard, Schwab, Robinhood, E*TRADE ürünlerini karşılaştırdık. 2026'da yatırım platformu için gider oranları ve platform özellikleri açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Endeks ETF'lerinin gider oranları",
+      "paragraphs": [
+        "Fidelity ZERO fonları: %0,00 (FZROX, FZILX vb.) — yalnızca Fidelity hesaplarında bulunuyor.",
+        "Vanguard ETF'leri: %0,03 (VTI), %0,07 (VXUS), %0,03 (BND). Sektörün en düşükleri.",
+        "Schwab ETF'leri: %0,03 (SCHB), %0,06 (SCHE), %0,03 (SCHZ). Vanguard ile başa baş.",
+        "Diğer platformlar: aynı ETF'leri 0 dolar komisyonla tutabiliyorsunuz ama kendi sıfır maliyetli fonları yok."
+      ]
+    },
+    {
+      "heading": "Hangi ihtiyaç için hangisi",
+      "paragraphs": [
+        "Genel olarak en iyisi: Fidelity. %0 gider oranlı ZERO fonları, 0 dolar komisyon, 7/24 telefon desteği, geniş varlık sınıfı yelpazesi.",
+        "Endeks yatırımcısı için en iyisi: Vanguard. Sektörün en düşük ETF gider oranları, endeks yatırımının kurucusu.",
+        "Bankacılık + aracılık için en iyisi: Schwab. Dünyanın her yerinde ücretsiz ATM sunan entegre bankacılık.",
+        "Mobil ve amatör kullanım için en iyisi: Robinhood. Sektörün en iyi mobil deneyimi, ama analiz araçları zayıf.",
+        "Aktif yatırımcı için en iyisi: E*TRADE. Power E*TRADE platformu ve güçlü opsiyon işlemleri."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Endeks yatırımında platform seçimi gerçekten fark yaratıyor mu?",
+      "a": "Çok az — toplam maliyet farkı yılda yaklaşık %0,01-0,05. 200.000 dolarlık bir portföyde 30 yılda 1.200-6.000 dolar eder. Küçümsenmez ama hayatınızı değiştirmez. Diğer ihtiyaçlarınıza uyan platformu seçin."
+    },
+    {
+      "q": "Platform değiştirmeli miyim?",
+      "a": "Yalnızca gider oranlarında %0,05 ve üzeri tasarruf edecekseniz ya da gerçekten işinize yarayacak özellikler kazanacaksanız. Değişimin bedeli: transfer edilen hisseler için vergi formu doldurmak ve yeni bir arayüz öğrenmek."
+    },
+    {
+      "q": "Robinhood güvenli mi?",
+      "a": "Evet — diğer aracı kurumlar gibi SIPC sigortası kapsamında, standart teminat 500.000 dolar. 2021'deki GameStop olayı Robinhood'un emir akışına dayalı iş modelini gündeme getirdi ama hesapların kendisi güvende."
+    },
+    {
+      "q": "Webull, Public, M1 nasıl?",
+      "a": "Üçü de belirli ihtiyaçlar için kullanılabilir. Public etik yatırımı öne çıkarıyor, M1 otomatik portföy yönetimine odaklanıyor, Webull ise Robinhood'a benziyor ama grafik araçları daha gelişmiş."
+    }
+  ],
+  "products": {
+    "fidelity-platform": {
+      "badge": "🏆 Genel olarak en iyisi",
+      "review": "Fidelity, yatırımcıların çoğu için genel olarak en iyi platform. Minimum bakiye yok, komisyon yok, FZROX'ta %0,00 gider oranı (gerçekten sıfır maliyetli tek fon), 7/24 telefon desteği ve büyük şehirlerde şubeler. Aracılık, emeklilik, bankacılık ve HSA hesaplarının hepsi tek çatı altında.",
+      "pros": [
+        "FZROX'ta %0,00 gider oranı",
+        "7/24 telefon desteği + şubeler",
+        "En geniş varlık sınıfı yelpazesi"
+      ],
+      "cons": [
+        "ZERO fonları yalnızca Fidelity içinde taşınabiliyor (platforma bağımlılık)",
+        "ActiveTraderPro arayüzü ThinkOrSwim kadar rafine değil"
+      ]
+    },
+    "vanguard-platform": {
+      "badge": "💸 Endeks için en iyisi",
+      "review": "Al-ve-tut mantığıyla endeks yatırımı yapanlar için doğru adres Vanguard. Sektörün en düşük ETF gider oranları — rakiplere kıyasla %0,01-0,03'lük fark 30 yılda ciddi bir tutara dönüşüyor. Kurucusu Jack Bogle. Arayüz eski (2010'lardan kalma bir site havasında) ama işini görüyor.",
+      "pros": [
+        "En düşük ETF gider oranları",
+        "Kurucusu Jack Bogle (endeks yatırımının öncüsü)",
+        "Sektör standardı ETF'ler (VTI, VXUS)"
+      ],
+      "cons": [
+        "Arayüz eski",
+        "Aktif işlem araçları sınırlı"
+      ]
+    },
+    "schwab-platform": {
+      "badge": "🏦 Bankacılık için en iyisi",
+      "review": "Bankacılık ile aracılığı bir arada isteyenler için doğru seçim Schwab. Komisyon yok, Schwab Bank vadesiz hesabında yurt dışı işlem ücreti yok ve dünyanın her yerinde ücretsiz ATM kullanımı var. Intelligent Portfolios robo-danışmanı ücretsiz. 2023'te TD Ameritrade'i satın aldı — ThinkOrSwim platformu artık Schwab bünyesinde.",
+      "pros": [
+        "Bankacılık ve aracılık entegre",
+        "Dünya genelinde ücretsiz ATM",
+        "ThinkOrSwim platformu (TD satın alımı sonrası)"
+      ],
+      "cons": [
+        "Intelligent Portfolios portföyde fazla nakit tutuyor",
+        "TD Ameritrade geçişinde bazı pürüzler var"
+      ]
+    },
+    "robinhood-platform": {
+      "badge": "📱 En iyi mobil deneyim",
+      "review": "Mobil öncelikli, ara sıra işlem yapan yatırımcılar için doğru platform Robinhood. Sektörün en iyi mobil arayüzü, komisyon yok, kesirli hisse alımı var. Fidelity ve Schwab'a kıyasla analiz araçları ve gelişmiş özellikler zayıf. Arada bir geniş kapsamlı ETF almak için ideal.",
+      "pros": [
+        "En iyi mobil arayüz",
+        "Kesirli hisse alımı",
+        "Hesap açılışı hızlı"
+      ],
+      "cons": [
+        "Analiz araçları yetersiz",
+        "Emir akışına dayalı iş modeli",
+        "Hesap türleri sınırlı"
+      ]
+    },
+    "etrade-platform": {
+      "badge": "📈 Aktif yatırımcıya en iyisi",
+      "review": "Aktif yatırımcılar için doğru platform E*TRADE. Power E*TRADE gelişmiş grafik araçları sunuyor, opsiyon işlemlerine uygun, komisyon yok. Artık Morgan Stanley bünyesinde. Power E*TRADE, aktif işlem ve opsiyon stratejileri için oldukça güçlü bir platform.",
+      "pros": [
+        "Aktif işlem için Power E*TRADE",
+        "Güçlü opsiyon platformu",
+        "Morgan Stanley bünyesinde"
+      ],
+      "cons": [
+        "Arayüz Robinhood kadar sade değil",
+        "Morgan Stanley entegrasyonu hâlâ sürüyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-platform": "fidelity.com üzerinden kaydolun. ZERO fonları (FZROX, FZILX, FZIPX, FZIPX) yalnızca Fidelity'de bulunuyor.",
+    "vanguard-platform": "investor.vanguard.com üzerinden kaydolun. VTI ve VXUS amiral gemisi ETF'leri.",
+    "schwab-platform": "schwab.com üzerinden kaydolun. Schwab Bank vadesiz hesabı olmazsa olmaz özelliği.",
+    "robinhood-platform": "robinhood.com veya mobil uygulama üzerinden kaydolun. Robinhood Gold aboneliği (aylık 5 dolar) analiz araçlarını da ekliyor.",
+    "etrade-platform": "us.etrade.com üzerinden kaydolun. Gelişmiş özellikler için Power E*TRADE'i kullanın (tüketici uygulamasından ayrı)."
+  },
+  "pinDescription": "Borsaya yatırım yapacaksanız hesabı nerede açtığınız yıllar içinde binlerce dolar fark ettiriyor. Fidelity, Vanguard, Schwab, Robinhood ve E*TRADE'i gider oranı, komisyon ve mobil deneyim üzerinden karşılaştırdık — endeks yatırımcısından aktif işlemciye kadar herkes için.",
+  "recommendedFor": [
+    {
+      "label": "Her baz puanı önemseyen uzun vadeli emeklilik birikimcileri",
+      "offerId": "fidelity-platform",
+      "reason": "Fidelity'nin %0,00 gider oranlı FZROX fonu gerçekten sıfır maliyetli tek fon; onlarca yıllık birikim sürecinde bileşik maliyetten tasarruf sağlıyor."
+    },
+    {
+      "label": "Düşük maliyetli endeks fonu stratejisine bağlı pasif yatırımcılar",
+      "offerId": "vanguard-platform",
+      "reason": "Vanguard'ın VTI ve VXUS fonları sektörün en düşük seviyesindeki %0,03-0,07 gider oranlarına sahip; üstelik kurucusu Jack Bogle bu stratejinin mucidi."
+    },
+    {
+      "label": "Sık seyahat edip nakdini ve yatırımını birlikte yöneten kişiler",
+      "offerId": "schwab-platform",
+      "reason": "Schwab Bank vadesiz hesabında yurt dışı işlem ücreti yok ve dünya genelinde ATM'den ücretsiz para çekiliyor; nakdinizin sizin kadar özgürce dolaştığı tek aracı kurum."
+    },
+    {
+      "label": "Küçük tutarlarla başlayan genç ve ilk kez yatırım yapanlar",
+      "offerId": "robinhood-platform",
+      "reason": "Robinhood'un sınıfının en iyisi mobil arayüzü ve kesirli hisse özelliği sayesinde yeni başlayanlar pahalı hisse ve ETF'leri istedikleri tutarla, minimum şartı olmadan alabiliyor."
+    },
+    {
+      "label": "Opsiyon ve çok bacaklı strateji kullanan aktif yatırımcılar",
+      "offerId": "etrade-platform",
+      "reason": "Power E*TRADE'in gelişmiş grafik ve opsiyon odaklı araç seti, basit platformların verimli şekilde işleyemediği karmaşık çok bacaklı stratejileri rahatlıkla kaldırıyor."
+    }
+  ]
 }

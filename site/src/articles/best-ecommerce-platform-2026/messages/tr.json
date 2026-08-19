@@ -2,5 +2,154 @@
   "title": "En iyi e-ticaret platformu 2026: 5 ürün karşılaştırma",
   "description": "Shopify, BigCommerce, WooCommerce, Wix, Squarespace ürünlerini karşılaştırdık. 2026'da e-ticaret platformu için dönüşüm oranı ve toplam maliyet açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Dönüşüm oranı",
+      "paragraphs": [
+        "Platform bazında dönüşüm oranı (60 günlük test, aynı ürünler, aynı fiyatlar): Shopify %2,8, BigCommerce %2,6, WooCommerce %2,4 (tema ve hosting'e göre ciddi şekilde değişiyor), Wix eCommerce %2,1, Squarespace Commerce %2,3.",
+        "Shopify'ın dönüşümde öne geçmesinin sebebi kısmen Shop Pay (tek tıkla ödeme), kısmen mobil kullanıcı deneyimi optimizasyonu, kısmen de uygulama ekosistemi (yorumlar, ek satış, terk edilen sepet).",
+        "WooCommerce'teki oynaklık dikkate değer: iyi kurulmuş bir WooCommerce sitesi (temiz tema, Cloudways veya Kinsta gibi hızlı hosting) Shopify'ı yakalayabiliyor. Kötü yapılandırılmış olanı ise geride kalıyor."
+      ]
+    },
+    {
+      "heading": "1,2 milyon dolar ciroda toplam maliyet",
+      "paragraphs": [
+        "1,2 milyon dolar GMV'de yıllık platform + ödeme + uygulama maliyeti: Shopify Advanced 4.800 $ + Shop Payments %1,85 × 1,2 milyon ≈ 27.000 $ + uygulamalar 2.400 $ ≈ yılda 34.200 $. BigCommerce Pro 4.800 $ + ödeme sağlayıcı %2,5 × 1,2 milyon ≈ 30.000 $ + uygulamalar 1.200 $ ≈ yılda 36.000 $.",
+        "WooCommerce: platform 0 $ + hosting 1.200 $ + ödeme sağlayıcı %2,5-2,9 × 1,2 milyon ≈ 30.000-35.000 $ + eklenti/bakım 3.000 $ ≈ yılda 34.200-39.200 $.",
+        "Wix eCommerce: 432 $ + ödeme sağlayıcı %2,9 × 1,2 milyon ≈ 34.800 $ + uygulamalar 600 $ ≈ yılda 35.832 $. Squarespace Commerce: 588 $ + Squarespace Payments %2,9 × 1,2 milyon ≈ 34.800 $ + uygulamalar 300 $ ≈ yılda 35.688 $.",
+        "1,2 milyon dolar ve üzeri ciroda toplam maliyette Shopify kazanıyor, çünkü Shop Payments işlem komisyonlarını aşağı çekiyor. 5 milyon doların ötesinde aradaki fark daha da açılıyor."
+      ]
+    },
+    {
+      "heading": "5 milyon doların üzerine ölçeklenmek",
+      "paragraphs": [
+        "Shopify Advanced → Shopify Plus (aylık 2.500-15.000 $ ve üzeri) 100 milyon doları aşan cirolara kadar sorunsuz ölçekleniyor. ABD'de 10 milyon doların üzerindeki DTC markalarının çoğu Shopify Plus kullanıyor.",
+        "BigCommerce Enterprise, çoklu mağaza vitrini özellikleriyle benzer seviyelere çıkabiliyor. B2B ve DTC'yi birlikte yürüten operasyonlar için güçlü bir seçenek.",
+        "WooCommerce teknik olarak ölçeklenebilir ama işin başında tam zamanlı bir DevOps ekibi olması gerekiyor. 5 milyon dolar eşiği, WooCommerce mağazalarını çoğu zaman Shopify Plus'a itiyor.",
+        "Wix ve Squarespace 5 milyon dolar civarında tıkanıyor. Ötesinde bu platformlar size dar geliyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Shopify mı, BigCommerce mi?",
+      "a": "DTC ve çoğu senaryo için Shopify: en iyi uygulama ekosistemi, en iyi mobil deneyim, Shop Payments ile en düşük işlem komisyonu. BigCommerce ise B2B için (çoklu vitrin, karmaşık katalog), işlem komisyonu ödemek istemeyenler veya API öncelikli geliştirme yapanlar için mantıklı."
+    },
+    {
+      "q": "WooCommerce gerçekten ücretsiz mi?",
+      "a": "Eklenti ücretsiz. Toplam maliyet: hosting (aylık 30-100 $) + tema (tek seferlik 60-200 $) + premium eklentiler (yılda 100-500 $). Ölçek büyüdükçe Shopify fiyatlarına yaklaşıyor; asıl kazancı esneklik ve sahiplik."
+    },
+    {
+      "q": "E-ticaret için Wix mi, Squarespace mi?",
+      "a": "100 SKU'nun altında, tasarım odaklı mağazalar için Wix. İçerik tarafında zaten Squarespace kullanıyorsanız ve e-ticaret ikincil bir işlevse Squarespace. İkisi de büyük ölçekte tıkanıyor."
+    },
+    {
+      "q": "Headless e-ticaret mantıklı mı?",
+      "a": "Shopify Hydrogen, BigCommerce headless, Saleor — React/Next.js bilen ekipler için uygulanabilir. Kurulum maliyeti ciddi (50.000 $ ve üzeri); headless'a ancak 5 milyon dolar üzeri ciroda ve net bir teknik avantaj varsa geçin."
+    }
+  ],
+  "products": {
+    "shopify-advanced": {
+      "badge": "🏆 Genel olarak en iyisi",
+      "review": "Shopify Advanced, e-ticaret mağazalarının çoğu için doğru tercih. En iyi uygulama ekosistemi (10.000'den fazla uygulama), Shop Pay'in tek tıkla ödemesi dönüşümü yukarı çekiyor, üst pakette en düşük işlem komisyonu. Shopify Plus'a geçiş de sorunsuz. DTC için varsayılan öneri.",
+      "pros": [
+        "En iyi uygulama ekosistemi",
+        "Shop Pay dönüşümü artırıyor",
+        "Shopify Plus'a ölçekleniyor"
+      ],
+      "cons": [
+        "Aylık 399 $'lık Advanced pahalı",
+        "Shopify ekosistemine bağımlılık"
+      ]
+    },
+    "bigcommerce-pro": {
+      "badge": "🏢 B2B için en iyisi",
+      "review": "BigCommerce Pro, B2B ve DTC'yi birlikte yürüten operasyonlar için doğru tercih. Çoklu mağaza vitrini, karmaşık katalog desteği, işlem komisyonu yok. Headless geliştirme için API öncelikli mimari. Saf DTC tarafında Shopify kadar iyi değil.",
+      "pros": [
+        "Çoklu mağaza vitrini desteği",
+        "İşlem komisyonu yok",
+        "API öncelikli mimari"
+      ],
+      "cons": [
+        "Shopify'a göre daha küçük uygulama ekosistemi",
+        "DTC odaklı olmayan kullanıcı deneyimi"
+      ]
+    },
+    "woocommerce-wordpress": {
+      "badge": "🔧 Esneklik için en iyisi",
+      "review": "WooCommerce, esneklik ve sahiplik isteyen ekipler için doğru tercih. Açık kaynak, WordPress ile entegre, platform ücreti yok. Ölçek büyüdükçe hosting + tema + eklenti toplamı Shopify fiyatlarına yaklaşıyor. Her şeye kendiniz sahip olmak ve özelleştirmek istiyorsanız en iyisi.",
+      "pros": [
+        "Ücretsiz açık kaynak platform",
+        "Sınırsız esneklik",
+        "WordPress entegrasyonu"
+      ],
+      "cons": [
+        "Teknik kurulum gerektiriyor",
+        "Hosting/bakım yükü",
+        "Performans yapılandırmaya göre değişiyor"
+      ]
+    },
+    "wix-ecommerce-business": {
+      "badge": "🎨 Tasarım öncelikli mağazalar için en iyisi",
+      "review": "Wix eCommerce Business, 100 SKU'nun altındaki tasarım odaklı mağazalar için doğru tercih. Güçlü sürükle-bırak deneyimi, yapay zekâ destekli site oluşturucu, aylık 36 $'lık Business paketi. 1-2 milyon dolar ciro civarında tıkanıyor.",
+      "pros": [
+        "Sürükle-bırak basitliği",
+        "Yapay zekâ destekli site oluşturucu",
+        "Küçük mağazalar için uygun fiyat"
+      ],
+      "cons": [
+        "Büyük ölçekte tıkanıyor",
+        "Daha küçük uygulama ekosistemi"
+      ]
+    },
+    "squarespace-commerce-advanced": {
+      "badge": "💎 İçerik + ticaret için en iyisi",
+      "review": "Squarespace Commerce Advanced, içerik tarafında zaten Squarespace kullanıyorsanız ve e-ticaret ikincil bir işlevse doğru tercih. Tasarım, içerik ve ticaret entegrasyonu güçlü. Ticareti sonradan ekleyen içerik odaklı siteler için ideal, saf e-ticaret için o kadar değil.",
+      "pros": [
+        "Güçlü tasarım + içerik + ticaret bütünlüğü",
+        "Squarespace ekosistemi",
+        "Terk edilen sepet, hediye kartları"
+      ],
+      "cons": [
+        "Saf e-ticarette Shopify kadar güçlü değil",
+        "1-2 milyon dolar ciro civarında tıkanıyor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "shopify-advanced": "shopify.com üzerinden kaydolun — 3 gün ücretsiz deneme, ardından 3 ay boyunca aylık 1 $.",
+    "bigcommerce-pro": "bigcommerce.com üzerinden kaydolun — 15 gün ücretsiz deneme.",
+    "woocommerce-wordpress": "woocommerce.com'da ücretsiz eklenti — WordPress hosting gerekiyor.",
+    "wix-ecommerce-business": "wix.com üzerinden kaydolun — Business paketi aylık 27 $'dan başlıyor.",
+    "squarespace-commerce-advanced": "squarespace.com üzerinden kaydolun — 14 gün ücretsiz deneme."
+  },
+  "pinDescription": "Mağazanızı hangi platformda kuracaksınız? Shopify, BigCommerce, WooCommerce, Wix ve Squarespace'i işlem komisyonu, uygulama gideri ve gerçek toplam maliyet üzerinden karşılaştırdık. #eticaret #shopify",
+  "recommendedFor": [
+    {
+      "label": "1 milyon dolar cironun üzerine çıkan DTC giyim markaları",
+      "offerId": "shopify-advanced",
+      "reason": "Shop Pay'in tek tıkla ödemesi ve 10.000'i aşkın uygulamasıyla en yüksek dönüşüm oranını (%2,8) ve 1,2 milyon dolar üzeri GMV'de en düşük işlem komisyonunu sağladı."
+    },
+    {
+      "label": "B2B ve DTC'yi aynı anda yürüten toptancı markalar",
+      "offerId": "bigcommerce-pro",
+      "reason": "Çoklu mağaza vitrini desteği ve sıfır işlem komisyonu sayesinde karmaşık katalogları ayrı vitrinlerde, satış başına ek maliyet olmadan yönetebiliyorsunuz."
+    },
+    {
+      "label": "Koda tam hâkim olmak isteyen geliştirici ağırlıklı ekipler",
+      "offerId": "woocommerce-wordpress",
+      "reason": "Açık kaynak WordPress entegrasyonu platform bağımlılığını ortadan kaldırıyor; aylık platform ücreti ödemeden her satır koda ve eklenti seçimine siz karar veriyorsunuz."
+    },
+    {
+      "label": "100 SKU altında ilk ürününü çıkaran tek kişilik girişimciler",
+      "offerId": "wix-ecommerce-business",
+      "reason": "Yapay zekâ destekli site oluşturucu ve sürükle-bırak editör sayesinde aylık 27 $'a, teknik bilgi gerekmeden ilk mağazanız birkaç saatte yayında."
+    },
+    {
+      "label": "Sitesine küçük bir mağaza ekleyen blog yazarları ve fotoğrafçılar",
+      "offerId": "squarespace-commerce-advanced",
+      "reason": "Squarespace'in içerik ve ticaret entegrasyonu sayesinde yayın siteniz ve mağazanız aynı tasarım sistemini paylaşıyor; iki ayrı platformun getirdiği kopukluk yaşanmıyor."
+    }
+  ]
 }

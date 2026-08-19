@@ -2,5 +2,151 @@
   "title": "En iyi e-posta pazarlama platformu 2026: 5 ürün",
   "description": "Mailchimp, ConvertKit, Klaviyo, Brevo, ActiveCampaign ürünlerini karşılaştırdık. 2026'da e-posta pazarlama platformu için ulaşılabilirlik ve otomasyon derinliği açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Teslimat başarısı",
+      "paragraphs": [
+        "Gelen kutusuna ulaşma oranı (Gmail, Outlook ve Yahoo birlikte): Klaviyo %96,8, ActiveCampaign %96,2, ConvertKit %96,0, Brevo %95,4, Mailchimp %94,2. 2024 sonrasında iCloud'un Hide My Email ve Apple Mail Privacy Protection özelliklerine rağmen hepsi kendini geliştirdi.",
+        "Mailchimp'in biraz geride kalmasının sebebi paylaşımlı IP havuzları: yüksek hacimli gönderim yapan bir kullanıcı, aynı IP'yi paylaştığı komşularının kötü itibarından zarar görebiliyor. Aylık 300 dolar üzerindeki özel IP bu farkı kapatıyor.",
+        "Gmail'in Promosyonlar sekmesi meselesinde ConvertKit en iyisi (metin ağırlıklı e-postalar Birincil sekmeye düşüyor), Klaviyo da güçlü, diğerlerinde sonuç değişken. Birincil sekmeye düşmek istiyorsanız ağır HTML şablonlarından uzak durun."
+      ]
+    },
+    {
+      "heading": "Otomasyon ve segmentasyon",
+      "paragraphs": [
+        "Otomasyon esnekliği: ActiveCampaign Plus (en güçlü görsel akışlar), Klaviyo (e-ticarete özel koşullu tetikleyiciler), ConvertKit (içerik üreticisine göre kurgulanmış etiket otomasyonu), Brevo (CRM tarzı otomasyon), Mailchimp (son dönemde iyileşti ama geleneksel olarak en basiti).",
+        "Segmentasyon derinliği: Klaviyo (derin e-ticaret verisi — geçmiş siparişler, sepet ortalaması, RFM), ActiveCampaign (davranış + etiket bazlı), ConvertKit (etiket bazlı, daha yalın), Brevo (temel seviye), Mailchimp (gelişiyor ama hâlâ Klaviyo kadar derin değil).",
+        "Yapay zekâ ile konu satırı üretme: Beşinde de var artık. ConvertKit'inki içerik üreticisinin diline en yakın olanı. Klaviyo'nunki e-ticarete göre ayarlanmış. Mailchimp'inki daha genel geçer. Sonuçlar değişkenlik gösteriyor."
+      ]
+    },
+    {
+      "heading": "Maliyet ve kullanım senaryosu",
+      "paragraphs": [
+        "25 bin aboneli bir liste için aylık maliyet (orta paketler): Mailchimp Standard 200 dolardan başlıyor, ConvertKit Creator Pro 179 dolar, Klaviyo 350 dolar (hacme göre), Brevo 25-65 dolar (hacme göre ama ölçekte daha ucuz), ActiveCampaign Plus 200 dolardan başlıyor.",
+        "Ölçekli gönderimde fiyat rekabetini Brevo açık ara kazanıyor: ayda 50 bin e-posta Brevo'da 35 dolar, Mailchimp'te 200 doları aşıyor. 50 bin abonenin üzerinde Brevo'nun avantajı daha da açılıyor.",
+        "İçerik üreticileri (bülten, online kurs, dijital ürün): ConvertKit. E-ticaret (Shopify, BigCommerce): Klaviyo. Ara ara toplu gönderim yapan KOBİ'ler: Mailchimp. Derin otomasyon isteyen profesyonel pazarlamacılar: ActiveCampaign. Ölçekte bütçesine dikkat edenler: Brevo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "ConvertKit mi Mailchimp mi?",
+      "a": "İçerik üreticisiyseniz (bülten, kurs, dijital ürün) ConvertKit. İhtiyaçları karışık genel bir KOBİ'yseniz Mailchimp. ConvertKit'in etiket bazlı sistemi doğrudan içerik üreticileri için tasarlanmış."
+    },
+    {
+      "q": "E-ticaret için Klaviyo mu Mailchimp mi?",
+      "a": "Klaviyo. Mailchimp'in e-ticaret entegrasyonları iyileşti ama Klaviyo bu iş için üretilmiş: Shopify terk edilmiş sepet, tahmini sepet ortalaması, RFM'e göre segment. Ciddi bir e-ticaret operasyonunda Klaviyo kazanır."
+    },
+    {
+      "q": "Brevo ne zaman mantıklı?",
+      "a": "Brevo (eski adıyla Sendinblue) ölçekte mantıklı. 25 bin abonenin üzerinde hacim fiyatlaması Mailchimp'i geride bırakıyor. Platform o kadar cilalı değil ama bütçesine dikkat eden gönderici için hesap tutuyor."
+    },
+    {
+      "q": "Ücretsiz paketler var mı?",
+      "a": "Mailchimp 500 kişiye kadar ücretsiz. Brevo günde 300 e-posta için ücretsiz (kişi sayısı sınırsız). ConvertKit 10 bin aboneye kadar ücretsiz (özellikler kısıtlı). Klaviyo 250 kişiye kadar ücretsiz. ActiveCampaign'de ücretsiz paket yok, sadece 14 günlük deneme."
+    }
+  ],
+  "products": {
+    "mailchimp-standard": {
+      "badge": "🏆 En iyi genel seçim",
+      "review": "Genel KOBİ e-posta pazarlaması için doğru tercih Mailchimp Standard. Kategorinin en iyi kullanıcı deneyimi, geniş entegrasyon ağı, 500 kişiye kadar ücretsiz. Teslimat oranı Klaviyo'nun biraz gerisinde ama 2024 sonrasında toparladı. Pazarlama otomasyonu işini görüyor.",
+      "pros": [
+        "Kategorinin en iyi kullanıcı deneyimi",
+        "Geniş entegrasyon ağı",
+        "500 kişiye kadar ücretsiz"
+      ],
+      "cons": [
+        "Teslimat oranı Klaviyo'nun biraz gerisinde",
+        "25 bin abonenin üstünde pahalı"
+      ]
+    },
+    "convertkit-creator-pro": {
+      "badge": "✍️ İçerik üreticileri için en iyisi",
+      "review": "İçerik üreticileri (bülten yazarları, kurs satanlar, dijital ürün sahipleri) için doğru tercih ConvertKit Creator Pro. Etiket bazlı segmentasyon içerik akışlarına göre kurgulanmış. Metin ağırlıklı e-postalar Gmail'in Birincil sekmesine düşüyor. Bülten referans programı ve Sponsor Marketplace dahili.",
+      "pros": [
+        "İçerik üreticisi için tasarlanmış",
+        "Metin ağırlıklı e-postalar Birincil sekmeye düşüyor",
+        "Bültenden gelir elde etme araçları"
+      ],
+      "cons": [
+        "E-ticaret için pek ideal değil",
+        "Entegrasyon ekosistemi Mailchimp'ten dar"
+      ]
+    },
+    "klaviyo-email-sms": {
+      "badge": "🛍️ E-ticaret için en iyisi",
+      "review": "Ciddi bir e-ticaret operasyonu için doğru tercih Klaviyo Email + SMS. Shopify/BigCommerce/WooCommerce için özel geliştirilmiş. Derin müşteri verisi (geçmiş siparişler, sepet ortalaması, RFM, tahmini yaşam boyu değer). SMS pazarlama dahil. Online mağazalar için varsayılan öneri.",
+      "pros": [
+        "E-ticaret için geliştirilmiş",
+        "Derin müşteri verisi entegrasyonu",
+        "SMS dahil"
+      ],
+      "cons": [
+        "Mailchimp'ten pahalı",
+        "E-ticaret dışında fazla geliyor"
+      ]
+    },
+    "brevo-business": {
+      "badge": "💸 Ölçekte en iyisi",
+      "review": "25 bin abonenin üzerinde bütçesine dikkat eden göndericiler için doğru tercih Brevo Business (eski adıyla Sendinblue). E-posta + SMS + CRM bir arada. Hacim fiyatlaması ölçekte Mailchimp'ten belirgin şekilde ucuz. Arayüz o kadar cilalı değil ama hesap tutuyor.",
+      "pros": [
+        "Ölçekte hacim fiyatlaması Mailchimp'i geçiyor",
+        "E-posta + SMS + CRM bir arada",
+        "Günde 300 e-postaya kadar ücretsiz"
+      ],
+      "cons": [
+        "Arayüz Mailchimp kadar cilalı değil",
+        "Entegrasyon ekosistemi dar"
+      ]
+    },
+    "activecampaign-plus": {
+      "badge": "🎯 En iyi otomasyon",
+      "review": "Derin otomasyon akışları isteyen profesyonel pazarlamacılar için doğru tercih ActiveCampaign Plus. Kategorinin en güçlü görsel otomasyon kurgulayıcısı. Derin CRM entegrasyonu. Davranış odaklı pazarlamada (lead skorlama, çok adımlı besleme akışları) en iyisi.",
+      "pros": [
+        "En güçlü otomasyon akışları",
+        "Derin CRM entegrasyonu",
+        "Dahili lead skorlama"
+      ],
+      "cons": [
+        "Öğrenme eğrisi dik",
+        "Ücretsiz paket yok (sadece 14 günlük deneme)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "mailchimp-standard": "mailchimp.com üzerinden kaydolun — 500 kişiye kadar ücretsiz.",
+    "convertkit-creator-pro": "convertkit.com üzerinden kaydolun — 10 bin aboneye kadar ücretsiz.",
+    "klaviyo-email-sms": "klaviyo.com üzerinden kaydolun — 250 kişiye kadar ücretsiz.",
+    "brevo-business": "brevo.com üzerinden kaydolun — günde 300 e-postaya kadar ücretsiz.",
+    "activecampaign-plus": "activecampaign.com üzerinden kaydolun — 14 gün ücretsiz deneme."
+  },
+  "pinDescription": "E-posta pazarlamasında hangi platform? Mailchimp, ConvertKit, Klaviyo, Brevo ve ActiveCampaign'i 25 bin abonelik fiyat ve otomasyon sınırlarıyla karşılaştırdık. 2026 rehberi 📩 #epostapazarlama",
+  "recommendedFor": [
+    {
+      "label": "Bülten yazarları ve online kurs satanlar",
+      "offerId": "convertkit-creator-pro",
+      "reason": "Etiket bazlı otomasyon ve dahili Sponsor Marketplace, doğrudan içerik üreticisinin gelir akışları düşünülerek tasarlanmış."
+    },
+    {
+      "label": "Shopify ve WooCommerce mağaza sahipleri",
+      "offerId": "klaviyo-email-sms",
+      "reason": "Sipariş geçmişine dayalı derin segmentasyon ve RFM skorlaması, terk edilmiş sepet ve tekrar satın alma gelirini yukarı çekiyor."
+    },
+    {
+      "label": "Bütçesi kısıtlı, yüksek hacimli göndericiler",
+      "offerId": "brevo-business",
+      "reason": "Hacim bazlı fiyatlama 25 bin abonenin üstünde Mailchimp'in belirgin şekilde altında kalıyor; ölçekte ayda yüzlerce dolar tasarruf demek."
+    },
+    {
+      "label": "Çok adımlı besleme akışları kuran B2B pazarlamacılar",
+      "offerId": "activecampaign-plus",
+      "reason": "Lead skorlama ve CRM entegrasyonuyla gelen görsel otomasyon kurgulayıcısı, karmaşık davranış akışlarını başka hiçbir platformun yetişemediği şekilde kaldırıyor."
+    },
+    {
+      "label": "Ara sıra toplu e-posta gönderen küçük işletmeler",
+      "offerId": "mailchimp-standard",
+      "reason": "Sınıfının en iyi arayüzü, 500 kişilik ücretsiz paketi ve 300'ü aşkın entegrasyonuyla genel KOBİ için en az sürtünmeli başlangıç noktası."
+    }
+  ]
 }

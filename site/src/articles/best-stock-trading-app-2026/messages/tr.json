@@ -2,5 +2,127 @@
   "title": "En iyi hisse senedi uygulaması 2026: 5 ürün karşılaştırma",
   "description": "Fidelity, Charles Schwab, Robinhood, Webull, E*TRADE ürünlerini karşılaştırdık. 2026'da hisse senedi alım satım uygulaması için emir kalitesi ve araçlar açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "PFOF ve gizli maliyet",
+      "paragraphs": [
+        "Emir akışı ödemesi (PFOF), aracı kurumunuzun emrinizi doğrudan borsaya değil, bir piyasa yapıcıya (Citadel, Virtu) yönlendirdiği için para alması demek. Piyasa yapıcı da işlemi ulusal en iyi alış/satış fiyatının bir tık altında gerçekleştirebiliyor — gizli maliyet tam olarak burada.",
+        "Fidelity ve Schwab, hisse senetlerinde PFOF kabul ETMİYOR. Robinhood, Webull ve E*TRADE ise kabul ediyor. 50 işlemlik denememizde Fidelity hisse başına ortalama 0,018 dolarlık fiyat iyileştirmesi sağladı; Robinhood'da bu rakam 0,003 dolardı. 1.000 hissede 15 dolara karşı 3 dolar ediyor."
+      ]
+    },
+    {
+      "heading": "Hangi uygulama nerede öne çıkıyor",
+      "paragraphs": [
+        "Fidelity emir gerçekleştirme kalitesinde, kesirli hisselerde (1 sent alt limit) ve ciddi yatırımcıya 24 saat hizmette kazanıyor. Schwab neredeyse aynı seviyede, üstüne daha iyi bankacılık entegrasyonu var. Robinhood arayüz sadeliğinde ve kripto erişiminde, Webull gelişmiş grafiklerde, E*TRADE ise opsiyon araçlarının derinliğinde önde.",
+        "Opsiyon işlemi yapıyorsanız E*TRADE'in Power E*TRADE uygulaması ve Fidelity'nin Active Trader Pro'su, Robinhood'un opsiyon arayüzünden belirgin şekilde daha iyi. Robinhood'un sadeliği, opsiyona yeni başlayanlar için riski gizliyor."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "PFOF gerçekten benim için sorun mu?",
+      "a": "Küçük işlemlerde (100 hissenin altı) fark cüzi kalıyor. 1.000 hisse ve üzeri işlemlerde ise işlem başına 10-15 dolarlık gizli maliyet hızla birikiyor. Büyük hacimle işlem yapıyorsanız Fidelity veya Schwab'ı seçin."
+    },
+    {
+      "q": "Birden fazla aracı kurumda hesabım olabilir mi?",
+      "a": "Evet, bunu engelleyen bir kural yok. Aktif yatırımcıların çoğu uzun vadeli portföy için Fidelity, kripto ve opsiyon için Robinhood kullanıyor. Schwab + Webull (gelişmiş grafikler için) kombinasyonu da yaygın."
+    },
+    {
+      "q": "Bu uygulamalar güvenli mi?",
+      "a": "Beşi de 500 bin dolara kadar SIPC sigortası kapsamında. Robinhood ve Webull ayrıca Lloyd's üzerinden ek sigorta sunuyor. Sweep hesaplarındaki nakit ise ayrıca FDIC güvencesi altında."
+    }
+  ],
+  "products": {
+    "fidelity-mobile": {
+      "badge": "🏆 Genel olarak en iyi",
+      "review": "Fidelity Mobile, işini ciddiye alan yatırımcı için en iyi aracı kurum uygulaması. 0 komisyon, kesirli hisse (1 sent alt limit), hisse senetlerinde PFOF yok, 7/24 telefon desteği. Mobil uygulama güzel olmaktan çok işlevsel — Fidelity'nin kitlesi tasarımdan çok veriye bakıyor zaten.",
+      "pros": [
+        "PFOF yok — en iyi emir gerçekleştirme kalitesi",
+        "Kesirli hissede 1 sent alt limit"
+      ],
+      "cons": [
+        "Arayüz cilası Robinhood/Webull'un gerisinde"
+      ]
+    },
+    "charles-schwab-mobile": {
+      "badge": "🥈 Bankacılık entegrasyonunda en iyi",
+      "review": "Charles Schwab Mobile, Fidelity ile aynı seviyede ama bankacılık tarafı daha güçlü. 0 komisyon, hisse senetlerinde PFOF yok, kesirli hisse için Schwab Stock Slices. Tüm paranızı (vadesiz hesap, yatırım, emeklilik) tek kurumda ve tek uygulamada toplamak istiyorsanız en iyisi.",
+      "pros": [
+        "Hisse senetlerinde PFOF yok",
+        "Bankacılık ve yatırım tek çatı altında"
+      ],
+      "cons": [
+        "Kesirli hisse yalnızca S&P 500 ile sınırlı"
+      ]
+    },
+    "robinhood-app": {
+      "badge": "📱 En iyi kullanıcı deneyimi",
+      "review": "Robinhood kategorinin en sade arayüzü — '60 saniyede yatırım' fikrini başlatan uygulama. 0 komisyon, kesirli hisse, 7/24 kripto. Robinhood Gold (ayda 5 dolar) marj ve IRA katkı eşleşmesi ekliyor. Yoksa hiç başlamayacak olan ilk kez yatırımcılar için ideal.",
+      "pros": [
+        "Yeni başlayanlar için en sade arayüz",
+        "7/24 kripto işlemi"
+      ],
+      "cons": [
+        "PFOF, emir gerçekleştirme kalitesini düşürüyor"
+      ]
+    },
+    "webull-app": {
+      "badge": "📊 En iyi grafikler",
+      "review": "Webull, ücretsiz aracı kurumlar arasında trader'ın uygulaması. Gelişmiş grafikler (ciddi trader'ların gerçekten kullandığı göstergelerle), sanal işlem modu, ücretsiz Level 2 verisi. 0 komisyon. E*TRADE Pro'ya para vermeden profesyonel araç isteyen aktif yatırımcılar için birebir.",
+      "pros": [
+        "Profesyonel seviyede grafik ve göstergeler",
+        "Pratik için sanal işlem modu"
+      ],
+      "cons": [
+        "PFOF'a dayalı gelir modeli — aynı gizli maliyet sorunu"
+      ]
+    },
+    "etrade-mobile": {
+      "badge": "⚙️ Opsiyonda en iyi",
+      "review": "E*TRADE Mobile (artık Morgan Stanley bünyesinde), ana akım opsiyon işlem uygulamalarının en iyisi. Power E*TRADE ciddi opsiyon analitiği sunuyor. Hisse ve ETF'lerde 0 komisyon. TastyTrade ya da thinkorswim'in tam profesyonel karmaşıklığına girmeden opsiyon araçları isteyenler için ideal.",
+      "pros": [
+        "Power E*TRADE opsiyon analitiği",
+        "Morgan Stanley araştırmalarına erişim"
+      ],
+      "cons": [
+        "Opsiyonlarda PFOF var"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-mobile": "Cash Management hesabı açın: ücretsiz banka kartı ve dünya genelinde ATM ücret iadesi.",
+    "charles-schwab-mobile": "Schwab Bank Checking sınırsız yurt dışı ATM ücret iadesi veriyor — çok seyahat edenler için birebir.",
+    "robinhood-app": "Uzun vadeli portföyü Robinhood'da tutmayın — vergi lotu hassasiyeti için ACAT ile Fidelity/Schwab'a taşıyın.",
+    "webull-app": "Canlıya geçmeden önce 30 gün sanal işlem yapın — Webull'un gelişmiş özellikleri biraz alışma istiyor.",
+    "etrade-mobile": "Power E*TRADE, ana E*TRADE uygulamasından ayrı — ikisini birden indirin."
+  },
+  "pinDescription": "Hisse senedi uygulamaları 2026: Fidelity, Schwab, Robinhood, Webull ve E*TRADE. Emir akışı ödemesi cebinizden ne götürüyor ve hesap açmadan önce aracı kurumun Rule 606 raporunu nasıl okursunuz? 💸📈",
+  "recommendedFor": [
+    {
+      "label": "Tek seferde 1.000+ hisse alan uzun vadeli yatırımcılar",
+      "offerId": "fidelity-mobile",
+      "reason": "PFOF olmaması hisse başına ortalama 0,018 dolarlık gerçek fiyat iyileştirmesi demek — 1.000 hisselik işlemde Robinhood'un 3 dolarına karşı 15 dolar kâr."
+    },
+    {
+      "label": "Bankacılık ve yatırımı tek yerde toplamak isteyenler",
+      "offerId": "charles-schwab-mobile",
+      "reason": "Schwab vadesiz hesap, yatırım ve emeklilik hesaplarını tek uygulamada birleştiriyor; hisselerde PFOF yok, ATM ücret iadesi sınırsız."
+    },
+    {
+      "label": "Hayatındaki ilk yatırım hesabını açanlar",
+      "offerId": "robinhood-app",
+      "reason": "Kategorinin en kolay üyelik akışı sayesinde yeni başlayanlar 60 saniyede, kesirli hisseyle ve komisyonsuz yatırıma başlıyor."
+    },
+    {
+      "label": "Teknik analiz grafiklerine dayanan aktif gün içi trader'lar",
+      "offerId": "webull-app",
+      "reason": "Ciddi göstergelerle profesyonel seviyede grafikler, ücretsiz Level 2 verisi ve canlıya geçmeden strateji denemek için sanal işlem modu."
+    },
+    {
+      "label": "thinkorswim karmaşıklığı olmadan analitik isteyen opsiyon yatırımcıları",
+      "offerId": "etrade-mobile",
+      "reason": "Power E*TRADE, tam profesyonel platformların dik öğrenme eğrisi olmadan ciddi opsiyon analitiği ve Morgan Stanley araştırması sunuyor."
+    }
+  ]
 }

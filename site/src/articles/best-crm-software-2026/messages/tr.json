@@ -2,5 +2,152 @@
   "title": "2026'nın en iyi CRM yazılımı: 5 ürün karşılaştırma",
   "description": "HubSpot, Salesforce, Pipedrive, Zoho, Monday ürünlerini karşılaştırdık. 2026'da CRM yazılımı için temsilci benimsemesi ve katılım hızı açısından gerçekten öne çıkan hangisi.",
   "lede": "5 ürün, yayınlanmış teknik özellikler, üretici belgeleri ve bağımsız testler temel alınarak karşılaştırıldı.",
-  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık."
+  "methodology": "Bu karşılaştırma masa başı araştırmasıdır. Kamuya açık teknik özellikleri, üretici belgelerini ve bağımsız inceleme ile testleri karşılaştırdık.",
+  "sections": [
+    {
+      "heading": "Kuruluma başlama hızı",
+      "paragraphs": [
+        "İlk fırsatın sisteme girilmesine kadar geçen süre: Pipedrive 1 gün (pipeline odaklı arayüz), Monday Sales 2 gün, HubSpot 2 gün, Zoho 4 gün, Salesforce 8-14 gün (karmaşık nesne modeli).",
+        "Satış temsilcisinin sisteme alışma süresi: Pipedrive 30 dk, HubSpot 45 dk, Monday Sales 1 saat, Zoho 2 saat, Salesforce yöneticinin verdiği 6-8 saatlik eğitim.",
+        "Salesforce'un karmaşıklığı kurumsal tarafta bir avantaj (sınırsız özelleştirme), ama küçük ekipler için ekstra yük. HubSpot ve Pipedrive ise hızlı sonuç almayı önceliklendiriyor."
+      ]
+    },
+    {
+      "heading": "Günlük aktif kullanım oranı",
+      "paragraphs": [
+        "30 gün sonra CRM'i her gün kullanan temsilci oranı: HubSpot %92, Pipedrive %88, Monday Sales %78, Zoho %75, Salesforce %65 (güçlü bir satış operasyon takibi yoksa 60. günde %40'a düşüyor).",
+        "Temsilciler Salesforce'u bırakıyor çünkü aktivite kaydetmek evrak işi gibi geliyor. Pipedrive ve HubSpot'ta kalıyorlar çünkü arayüz kaydı saniyeler içinde hallediyor.",
+        "Mobil uygulama kullanımı: HubSpot mobil kategorinin en iyisi. Pipedrive mobil güçlü. Salesforce mobil çalışıyor ama yavaş. Monday ve Zoho'nun mobili temel seviyede."
+      ]
+    },
+    {
+      "heading": "Otomasyon ve ölçeklenme",
+      "paragraphs": [
+        "İş akışı otomasyonu derinliği: Salesforce (en güçlüsü, yönetici gerektiriyor), HubSpot (en iyi kullanım deneyimi), ActiveCampaign Plus + Pipedrive ikilisi (sıkça birlikte kullanılıyor), Monday Sales (görsel iş akışları, kolay), Zoho (kapsamlı ama arayüzü eski).",
+        "12 kullanıcıda toplam maliyet (orta seviye paket): Salesforce aylık 900 $ (Professional), HubSpot aylık 1.200 $ (Sales Hub Pro), Pipedrive aylık 408 $ (Advanced), Zoho aylık 192 $ (Enterprise), Monday Sales aylık 144-288 $ (Pro). Zoho ve Monday, HubSpot/Salesforce'tan 4-6 kat daha ucuz.",
+        "50 temsilcinin üzerine çıkacaksanız: Salesforce. 12 kişilik ekipte fazla gelen özelleştirme, 100 kişide zorunlu hale geliyor. 12 kişilik ekiplerin çoğu Salesforce'u seçMEmeli."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Küçük işletme için HubSpot mu Salesforce mu?",
+      "a": "HubSpot. En hızlı sonuç, ücretsiz paket seçeneği ve en iyi arayüz onda. Salesforce'u ancak tam zamanlı bir sistem yöneticiniz ve karmaşık satış süreçleriniz varsa düşünün."
+    },
+    {
+      "q": "Pipedrive mi HubSpot mu?",
+      "a": "Tamamen dış satışa (outbound) odaklı ekipler için Pipedrive: görsel pipeline, fırsat merkezli. Pazarlama + satış + destek tek platformda olsun istiyorsanız HubSpot."
+    },
+    {
+      "q": "Ücretsiz CRM paketleri gerçekten ücretsiz mi?",
+      "a": "HubSpot'un ücretsiz paketi gerçekten işe yarıyor (kişiler, fırsatlar, temel e-posta). Ücretsiz Zoho CRM de (3 kullanıcı) kullanılabilir durumda. Salesforce'un 'Essentials' paketi ise sadece ücretli: kullanıcı başına aylık 25 $ (ücretsiz sürüm yok)."
+    },
+    {
+      "q": "Sonradan CRM değiştirebilir miyim?",
+      "a": "Evet ama sancılı. Taşıma için 2-4 hafta ayırmayı planlayın. Kişiler ve fırsatlar için CSV aktarımı iş görüyor; özel alanlar, aktiviteler ve otomasyonlar ise nadiren sorunsuz taşınıyor."
+    }
+  ],
+  "products": {
+    "hubspot-crm-pro": {
+      "badge": "🏆 Genel olarak en iyisi",
+      "review": "HubSpot Sales Hub Professional, küçük ve orta ölçekli ekiplerin çoğu için doğru tercih. Kategorinin en iyi arayüzü, ücretsiz paketten ücretliye sorunsuz geçiş, pazarlama-CRM-destek entegrasyonu. Temsilciler için en iyi arayüz demek, en yüksek günlük kullanım demek.",
+      "pros": [
+        "Kategorinin en iyi arayüzü",
+        "Ücretsiz paketten sorunsuz büyüme",
+        "Pazarlama + satış + destek bir arada"
+      ],
+      "cons": [
+        "Kullanıcı başına aylık 100 $ olan Pro pahalı",
+        "Salesforce kadar özelleştirilemiyor"
+      ]
+    },
+    "salesforce-sales-cloud-pro": {
+      "badge": "🏢 Kurumsal için en iyisi",
+      "review": "Salesforce Sales Cloud Professional, 50+ temsilcisi, tam zamanlı sistem yöneticisi ve karmaşık satış süreçleri olan ekipler için doğru tercih. AppExchange ekosistemi, sınırsız özelleştirme. Küçük ekipler için benimsenmesi zor.",
+      "pros": [
+        "En çok özelleştirilebilen",
+        "AppExchange ekosistemi",
+        "Kurumsalda sektör standardı"
+      ],
+      "cons": [
+        "Öğrenme eğrisi dik",
+        "Yönetici takibi olmadan kullanım düşüyor",
+        "Kullanıcı başına aylık 75-300 $"
+      ]
+    },
+    "pipedrive-advanced": {
+      "badge": "📊 Dış satış için en iyisi",
+      "review": "Pipedrive Advanced, tamamen dış satışa odaklı ekipler için doğru tercih. Pipeline öncelikli tasarım: görsel fırsat aşamaları, sürükle-bırak, hızlı kayıt. İlk günden en yüksek verim. Pazarlama entegrasyonunda ise geride kalıyor.",
+      "pros": [
+        "Dış satış için en iyi arayüz",
+        "İlk fırsata en hızlı ulaşan",
+        "Güçlü mobil uygulama"
+      ],
+      "cons": [
+        "Pazarlama entegrasyonu HubSpot kadar iyi değil",
+        "Özelleştirme Salesforce kadar derin değil"
+      ]
+    },
+    "zoho-crm-enterprise": {
+      "badge": "💸 En iyi bütçe seçeneği",
+      "review": "Zoho CRM Enterprise, bütçesi kısıtlı KOBİ'ler için doğru tercih. Kullanıcı başına aylık 40 $'lık Enterprise paketi, 165 $'lık Salesforce Professional ile benzer özellikler sunuyor. Zoho One paketiyle geniş entegrasyon (40+ uygulama). Arayüz eski ama işini görüyor.",
+      "pros": [
+        "Benzer özelliklerle Salesforce'tan 4 kat ucuz",
+        "Zoho One paketiyle entegrasyon",
+        "3 kullanıcıya kadar ücretsiz"
+      ],
+      "cons": [
+        "Arayüz eski hissettiriyor",
+        "Mobil uygulama daha ham"
+      ]
+    },
+    "monday-sales-crm": {
+      "badge": "🎨 En iyi görsel CRM",
+      "review": "Monday Sales CRM, proje yönetiminde zaten Monday kullanan ekipler için doğru tercih. Pano tarzı görsel CRM, sınırsız özelleştirme, kullanıcı başına aylık 12-24 $. Ekibiniz pipeline'dan çok iş akışı mantığıyla çalışıyorsa ideal.",
+      "pros": [
+        "Görsel iş akışı mantığı",
+        "Monday iş yönetimiyle uyumlu",
+        "Uygun fiyatlı"
+      ],
+      "cons": [
+        "CRM ekosistemi daha küçük",
+        "Pipedrive/HubSpot kadar satış odaklı değil"
+      ]
+    }
+  },
+  "offerNotes": {
+    "hubspot-crm-pro": "hubspot.com üzerinden kaydolun — ücretsiz paketi gerçekten işe yarıyor.",
+    "salesforce-sales-cloud-pro": "salesforce.com üzerinden teklif alın — satış görüşmesi gerekiyor.",
+    "pipedrive-advanced": "pipedrive.com üzerinden kaydolun — 14 gün ücretsiz deneme.",
+    "zoho-crm-enterprise": "zoho.com üzerinden kaydolun — 15 gün ücretsiz deneme.",
+    "monday-sales-crm": "monday.com üzerinden kaydolun — 2 kullanıcıya kadar ücretsiz."
+  },
+  "pinDescription": "CRM seçerken kafanız mı karıştı? HubSpot, Salesforce, Pipedrive, Zoho ve Monday'i kullanıcı başı fiyat, otomasyon sınırları ve veri taşıma zahmeti üzerinden karşılaştırdık. #crm #satış #kobi",
+  "recommendedFor": [
+    {
+      "label": "Her işi kendi yapan küçük işletme sahipleri",
+      "offerId": "hubspot-crm-pro",
+      "reason": "HubSpot'un ücretsiz paketi ve pazarlama-satış-destek birleşimi sayesinde küçük ekipler araç değiştirmeden hem kampanya yürütüyor hem satış kapatıyor."
+    },
+    {
+      "label": "Tam zamanlı yöneticisi olan kurumsal satış operasyon ekipleri",
+      "offerId": "salesforce-sales-cloud-pro",
+      "reason": "Salesforce'un AppExchange'i ve sınırsız özelleştirmesi, 50+ temsilcili çok aşamalı karmaşık pipeline'ları başka hiçbir platformun kaldıramadığı ölçekte taşıyor."
+    },
+    {
+      "label": "Sadece pipeline'a odaklı dış satış ekipleri",
+      "offerId": "pipedrive-advanced",
+      "reason": "Pipedrive'ın sürükle-bırak görsel pipeline'ı sayesinde temsilciler ilk fırsatı bir günden kısa sürede giriyor; günlük aktif kullanım %88'de kalıyor."
+    },
+    {
+      "label": "Her kuruşun karşılığını arayan girişimler",
+      "offerId": "zoho-crm-enterprise",
+      "reason": "Zoho Enterprise kullanıcı başına aylık 40 $ ve Salesforce Professional'ın özelliklerini karşılıyor; üstüne 40+ Zoho One uygulamasını ek ücretsiz açıyor."
+    },
+    {
+      "label": "Halihazırda Monday.com kullanan proje odaklı ekipler",
+      "offerId": "monday-sales-crm",
+      "reason": "Monday Sales CRM aynı görsel pano akışını kullanıyor; görevlerle düşünen ekipler bunu doğal olarak fırsat takibine çeviriyor."
+    }
+  ]
 }
