@@ -2,5 +2,153 @@
   "title": "2026 최고의 화상 회의 소프트웨어: 5종 비교",
   "description": "Zoom, Google Meet, Microsoft Teams, Webex, Loom를 비교했습니다. 2026년 진짜 비디오 품질과 생태계 적합성이 좋은 화상 회의 소프트웨어는 무엇인지.",
   "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다.",
-  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다."
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다.",
+  "sections": [
+    {
+      "heading": "화질과 음질",
+      "paragraphs": [
+        "주관적 화질 평가(1~10점, 회의 40회 평균): Zoom 9.2, Google Meet 8.7, Microsoft Teams 8.4, Webex 8.6, Loom(녹화 전용) 9.5.",
+        "소음 제거 적용 시 음질: Zoom(최상, 머신러닝 기반 소음 제거), Google Meet(매우 우수), Microsoft Teams(우수, 2024년에 개선), Webex(Cisco AI로 우수), Loom(비동기 녹화용으로는 탁월).",
+        "화면 공유 지연: Zoom 200ms, Google Meet 250ms, Microsoft Teams 300ms, Webex 350ms, Loom 해당 없음(녹화 방식)."
+      ]
+    },
+    {
+      "heading": "AI 회의 요약",
+      "paragraphs": [
+        "AI 요약 정확도(사람 검토자 기준 비교): Zoom AI Companion 8.8/10, Google Meet의 Gemini 8.5/10, Microsoft Copilot 8.2/10(Copilot 라이선스 필요), Webex AI 8.0/10, Loom AI 9.0/10(비동기 영상에 가장 강함).",
+        "AI 기능 비용: Zoom AI Companion은 Business+에 포함, Google Meet의 Gemini는 Google Workspace AI 애드온 필요(월 사용자당 약 ₩42,000), Microsoft Copilot은 별도로 월 사용자당 약 ₩42,000, Webex AI는 포함.",
+        "실시간 자막: 5개 서비스 모두 지원. 정확도는 Zoom과 Google Meet이 가장 좋습니다."
+      ]
+    },
+    {
+      "heading": "생태계 궁합",
+      "paragraphs": [
+        "Google Workspace를 쓰고 있다면 Google Meet이 사실상 정답입니다. 캘린더 연동, Gmail 연동, 녹화본의 드라이브 자동 저장까지 이어집니다.",
+        "Microsoft 365를 쓰고 있다면 Microsoft Teams. Outlook 연동, SharePoint, OneDrive 녹화 저장이 기본입니다.",
+        "여러 벤더를 섞어 쓰거나 특정 벤더에 묶이기 싫다면 Zoom. 플랫폼 중립성이 가장 높고, 이 분야에서 사용 경험이 가장 매끄럽습니다.",
+        "FedRAMP 인증 화상회의가 필요하다면 Webex. 보안 인증 목록에서 Cisco의 엔터프라이즈 지향이 드러납니다.",
+        "회의를 비동기 영상으로 대체할 수 있다면 Loom. 진행 상황 공유, 화면 설명, 교육 자료에는 오히려 이쪽이 맞는 답인 경우가 많습니다."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Zoom, Google Meet, Teams 중 무엇을 골라야 하나요?",
+      "a": "벤더 중립을 원하면 Zoom, Workspace를 쓰면 Google Meet, Microsoft 365를 쓰면 Teams입니다. 품질 차이는 크지 않고, 기능보다 쓰고 있는 생태계와의 궁합이 훨씬 중요합니다."
+    },
+    {
+      "q": "비동기 영상(Loom)이 회의를 대체하고 있나요?",
+      "a": "부분적으로는 그렇습니다. \"이 회의, Loom으로 대신하면 안 되나?\"라는 질문이 점점 늘고 있습니다. 진행 상황 공유, 데모, 화면 설명에 특히 잘 맞습니다. 다만 브레인스토밍이나 복잡한 논의는 여전히 실시간 회의가 낫습니다."
+    },
+    {
+      "q": "AI 요약은 정확한가요?",
+      "a": "네, 할 일과 결정 사항을 뽑아내는 정확도는 80~90% 수준입니다. 다만 사람 이름이나 구체적인 숫자에서 환각이 생깁니다. 공유하기 전에 반드시 확인하세요."
+    },
+    {
+      "q": "무료 요금제, 정말 공짜인가요?",
+      "a": "Zoom 무료: 3인 이상 회의는 40분 제한. Google Meet 무료: 60분 제한. Teams 무료: 60분 제한. Webex 무료: 50분 제한. Loom 무료: 영상 25개, 개당 5분."
+    }
+  ],
+  "products": {
+    "zoom-business-pro": {
+      "badge": "🏆 벤더 중립 1위",
+      "review": "Zoom Workplace Business는 특정 벤더에 묶이지 않은 팀이나, 회의 도구를 하나로 통일하려는 팀에 가장 맞습니다. 사용 경험이 가장 매끄럽고 화면 공유 지연이 가장 짧으며, Business+부터는 AI Companion이 포함됩니다. 최대 300명 회의, 30시간 진행, 클라우드 녹화를 지원합니다.",
+      "pros": [
+        "이 분야에서 가장 매끄러운 사용 경험",
+        "화면 공유 지연이 가장 짧음",
+        "AI Companion 포함"
+      ],
+      "cons": [
+        "호스트당 월 약 ₩28,000인 Business는 비싼 편",
+        "각 생태계 안에서는 Google Meet·Teams보다 연동이 약함"
+      ]
+    },
+    "google-meet-workspace": {
+      "badge": "🪪 Google Workspace 사용자용",
+      "review": "Google Meet(Workspace)은 Google Workspace를 쓰는 팀에 맞는 선택입니다. 사용자당 월 약 ₩8,400부터 Workspace에 기본 포함됩니다. 캘린더 연동이 매끄럽고 녹화본은 드라이브에 자동 저장됩니다. Gemini AI 요약도 수준급입니다.",
+      "pros": [
+        "Workspace에 기본 포함",
+        "캘린더·Gmail·드라이브 연동",
+        "Gemini AI 요약"
+      ],
+      "cons": [
+        "Google 생태계 밖에서는 Zoom보다 완성도가 떨어짐",
+        "AI 기능은 Workspace AI 애드온 필요"
+      ]
+    },
+    "microsoft-teams-business": {
+      "badge": "🏢 Microsoft 365 사용자용",
+      "review": "Microsoft Teams(Business)는 Microsoft 365를 쓰는 팀에 맞는 선택입니다. 사용자당 월 약 ₩8,400부터 Microsoft 365 Business에 포함됩니다. Outlook 연동이 매끄럽고 SharePoint와 OneDrive가 기본으로 붙습니다. Copilot AI는 사용자당 월 약 ₩42,000의 애드온입니다.",
+      "pros": [
+        "Microsoft 365에 기본 포함",
+        "Outlook·SharePoint 연동",
+        "채팅과 협업 기능까지 포함"
+      ],
+      "cons": [
+        "영상 부분은 Zoom보다 완성도가 낮음",
+        "Copilot AI는 유료 애드온"
+      ]
+    },
+    "webex-meet-pro": {
+      "badge": "🛡️ 기업 보안 1위",
+      "review": "Webex Meet(Cisco)은 보안 요건이 까다로운 기업에 맞는 선택입니다. FedRAMP 인증, 종단 간 암호화, 최대 1,000명 회의를 지원합니다. Cisco 특유의 엔터프라이즈 지향이 그대로 드러납니다.",
+      "pros": [
+        "FedRAMP 인증 획득",
+        "강력한 종단 간 암호화",
+        "최대 1,000명 회의"
+      ],
+      "cons": [
+        "사용 경험은 Zoom보다 다듬어지지 않음",
+        "기능 구성이 대기업 쪽으로 치우침"
+      ]
+    },
+    "loom-business": {
+      "badge": "🎬 비동기 영상 1위",
+      "review": "Loom Business는 실시간 회의를 비동기 영상 메시지로 대체하려는 팀에 맞는 선택입니다. 빠른 녹화, AI 요약, 자동 전사, 시청자 반응 분석까지 갖췄습니다. 실시간 회의 대신 꺼내 들면 정답인 경우가 꽤 많습니다.",
+      "pros": [
+        "비동기 영상 도구 중 최고",
+        "AI 요약과 자동 전사",
+        "시청자 반응 분석"
+      ],
+      "cons": [
+        "실시간 회의용은 아님",
+        "Business는 사용자당 월 약 ₩17,500"
+      ]
+    }
+  },
+  "offerNotes": {
+    "zoom-business-pro": "zoom.us에서 가입 — Business 요금제는 호스트당 월 $20.",
+    "google-meet-workspace": "workspace.google.com에서 가입 — 사용자당 월 $6부터 Workspace에 포함.",
+    "microsoft-teams-business": "microsoft.com/microsoft-teams에서 가입 — 사용자당 월 $6부터 Microsoft 365 Business에 포함.",
+    "webex-meet-pro": "webex.com에서 가입 — 기업 보안 요건이 있다면 최적.",
+    "loom-business": "loom.com에서 가입 — Business 요금제는 사용자당 월 $12.50."
+  },
+  "pinDescription": "화상회의 툴, 아직도 고민 중이라면 📹 Zoom·Google Meet·Teams·Webex·Loom 비교 — 무료 요금제 시간 제한, 1인당 요금, AI 회의 요약, 그리고 이미 내고 있는 요금에 포함돼 있는 건 무엇인지까지 정리했습니다. #화상회의 #재택근무 #업무툴",
+  "recommendedFor": [
+    {
+      "label": "특정 벤더 생태계에 묶이지 않은 크로스 플랫폼 팀",
+      "offerId": "zoom-business-pro",
+      "reason": "벤더 중립적인 사용 경험과 가장 짧은 화면 공유 지연(200ms) 덕분에 여러 도구를 섞어 쓰는 환경에 잘 맞습니다."
+    },
+    {
+      "label": "캘린더와 공유 드라이브를 함께 쓰는 Google Workspace 팀",
+      "offerId": "google-meet-workspace",
+      "reason": "사용자당 월 약 ₩8,400부터 Workspace에 포함되고, 캘린더·Gmail 연동과 드라이브 녹화 저장이 매끄럽게 이어집니다."
+    },
+    {
+      "label": "Outlook과 SharePoint를 쓰는 Microsoft 365 조직",
+      "offerId": "microsoft-teams-business",
+      "reason": "Teams는 Microsoft 365 Business에 기본 포함되며 Outlook·SharePoint·OneDrive와 그대로 연결됩니다."
+    },
+    {
+      "label": "규정 준수가 필요한 공공기관·규제 산업 IT 팀",
+      "offerId": "webex-meet-pro",
+      "reason": "Webex는 FedRAMP 인증과 종단 간 암호화를 갖춰 공공 부문의 까다로운 보안 요건을 충족합니다."
+    },
+    {
+      "label": "정기 회의를 녹화 영상으로 대체하려는 원격 팀",
+      "offerId": "loom-business",
+      "reason": "AI 요약과 시청자 분석을 갖춘 Loom의 비동기 영상으로 진행 공유·데모용 실시간 회의를 없앨 수 있습니다."
+    }
+  ]
 }

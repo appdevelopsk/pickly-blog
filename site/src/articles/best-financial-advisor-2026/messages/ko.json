@@ -2,5 +2,147 @@
   "title": "2026 최고의 재무 자문: 5종 비교",
   "description": "Vanguard, Betterment, Fidelity, Schwab, Facet를 비교했습니다. 2026년 진짜 수수료 구조와 자문가 접근성이 좋은 재무 자문는 무엇인지.",
   "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다.",
-  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다."
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다.",
+  "sections": [
+    {
+      "heading": "수수료 구조 비교 (포트폴리오 5억원 기준)",
+      "paragraphs": [
+        "Vanguard PAS: 연 150만원 (운용자산의 0.30%).",
+        "Betterment Premium: 연 200만원 (운용자산의 0.40%, 최소 1억원).",
+        "Fidelity Wealth Services: 연 250만~520만원 (운용자산의 0.50~1.04%).",
+        "Schwab Intelligent Portfolios: 연 0원 (로보어드바이저 전용, 사람 상담 없음).",
+        "Facet Wealth: 연 240만~600만원 (자산 비례가 아닌 정액 구독형)."
+      ]
+    },
+    {
+      "heading": "목적별 추천",
+      "paragraphs": [
+        "저비용 사람 상담: Vanguard PAS. 수탁자 의무를 지는 CFP를 0.30%에 이용할 수 있습니다.",
+        "디지털 중심: Betterment Premium. 0.40%에 로보어드바이저와 CFP 무제한 상담을 함께 제공합니다.",
+        "중간 가격대 사람 상담: Fidelity Wealth Services. 최소 5천만원부터 전담 어드바이저가 붙습니다.",
+        "무료 로보어드바이저: Schwab Intelligent Portfolios. 자문 수수료가 0원입니다.",
+        "대형 포트폴리오: Facet Wealth. 정액제라 10억원 이상에서는 자산 비례 방식보다 저렴합니다."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "재무 어드바이저가 꼭 필요한가요?",
+      "a": "경우에 따라 다릅니다. 2억 5천만원 이하라면 로보어드바이저(Schwab Intelligent Portfolios)나 직접 인덱스 투자(Vanguard)로도 충분합니다. 5억원 이상이면서 부동산, 사업체 보유, 손실 확정 절세 같은 복잡한 사정이 얽혀 있다면 사람 어드바이저의 값어치가 나옵니다."
+    },
+    {
+      "q": "자산 비례 수수료와 정액 수수료 중 무엇이 유리한가요?",
+      "a": "자산 비례(AUM) 방식은 포트폴리오 규모에 따라 늘어납니다. 2억 5천만~5억원대에서는 무난하지만 20억원대가 되면 부담이 큽니다. 정액제(Facet)는 10억원 이상에서 저렴해지고 2억 5천만원대에서는 오히려 비쌉니다. 본인 자산 규모로 손익분기점을 계산해 보세요."
+    },
+    {
+      "q": "로보어드바이저는 쓸 만한가요?",
+      "a": "5억원 이하이면서 요구사항이 단순하다면 충분합니다. 리밸런싱과 손실 확정 절세를 저렴하게 처리해 줍니다. 다만 복잡한 세무 설계나 상속 설계, 사업주 특유의 니즈에는 한계가 있습니다."
+    },
+    {
+      "q": "수수료만 받는 수탁자 CFP는 어떤가요?",
+      "a": "사정이 복잡하다면 적극 추천합니다. 시간당 20만~50만원 또는 정액 설계비(150만~500만원)를 받고 판매 수수료는 받지 않습니다. NAPFA.org나 XY Planning Network에서 찾을 수 있습니다."
+    }
+  ],
+  "products": {
+    "vanguard-pas": {
+      "badge": "🏆 저비용 사람 상담 1위",
+      "review": "저비용으로 사람 어드바이저를 쓰고 싶다면 Vanguard Personal Advisor Services가 정답입니다. 운용자산의 0.30%로 사람 어드바이저 중에서는 업계 최저 수준이며, 수탁자 의무를 지는 CFP가 Vanguard 펀드 중심으로 운용합니다. 로보가 아닌 실제 사람이고 상담 횟수 제한도 없습니다. 5억~50억원 구간에서 가성비가 가장 좋습니다.",
+      "pros": [
+        "0.30% (사람 어드바이저 최저가)",
+        "수탁자 의무를 지는 CFP",
+        "Vanguard 펀드와 매끄러운 연동"
+      ],
+      "cons": [
+        "Vanguard 펀드 위주라 상품 선택폭이 좁음",
+        "고가 서비스에 비해 맞춤도가 낮음"
+      ]
+    },
+    "betterment-premium": {
+      "badge": "💎 디지털 중심 1위",
+      "review": "앱으로 다 해결하면서 CFP 상담도 받고 싶다면 Betterment Premium이 맞습니다. 운용자산의 0.40%, 최소 1억원, CFP 상담 무제한이며 매매는 로보어드바이저가 처리합니다. 손실 확정 절세도 포함입니다. 로보와 사람을 섞어 쓰고 싶은 IT 친화적 투자자에게 좋습니다.",
+      "pros": [
+        "CFP 상담 무제한",
+        "로보어드바이저 자동 운용",
+        "손실 확정 절세 포함"
+      ],
+      "cons": [
+        "최소 1억원 필요",
+        "0.40%로 Vanguard보다 비쌈"
+      ]
+    },
+    "fidelity-wealth-services": {
+      "badge": "🏛️ 중간 가격대 1위",
+      "review": "대형 증권사에서 전통적인 대면 자문을 받고 싶다면 Fidelity Wealth Services입니다. 최소 5천만원, 전담 어드바이저 배정, 등급에 따라 0.50~1.04%. 이미 Fidelity를 쓰면서 5억원 이상을 한 명의 담당자에게 맡기고 싶은 분에게 적합합니다.",
+      "pros": [
+        "전담 어드바이저 배정",
+        "Fidelity 계좌와 연동",
+        "서비스 등급 선택 가능"
+      ],
+      "cons": [
+        "0.50~1.04%로 Vanguard보다 비쌈",
+        "최소 5천만원 필요"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "🆓 무료 로보 1위",
+      "review": "수수료 없는 로보어드바이저를 찾는다면 Schwab Intelligent Portfolios입니다. 자문 수수료 0원, 최소 500만원, 목표 설계 기능 포함. 대신 포트폴리오의 약 10%가 저금리 Schwab 현금성 자산에 묶이고 Schwab은 여기서 수익을 냅니다. 그게 이 서비스의 대가입니다.",
+      "pros": [
+        "자문 수수료 0원",
+        "최소 500만원으로 진입장벽이 낮음",
+        "목표 설계 기능 포함"
+      ],
+      "cons": [
+        "저금리 현금 비중 약 10%로 수익률 손실",
+        "사람 어드바이저 상담 불가"
+      ]
+    },
+    "facet-wealth": {
+      "badge": "💸 대형 포트폴리오 1위",
+      "review": "10억원 이상이라면 Facet Wealth가 답입니다. 자산 비례가 아닌 연 240만~600만원 정액 구독형이고 전담 CFP가 붙습니다. 20억원 포트폴리오라면 Facet은 연 480만원, 0.30% 자산 비례는 연 600만원이라 차이가 확실합니다.",
+      "pros": [
+        "정액제 (10억원 이상에서 저렴)",
+        "전담 CFP",
+        "자산을 불릴 유인이 없어 이해상충이 적음"
+      ],
+      "cons": [
+        "2억 5천만원대에서는 오히려 비쌈 (정액 > 1%)",
+        "Vanguard·Fidelity보다 규모가 작은 회사"
+      ]
+    }
+  },
+  "offerNotes": {
+    "vanguard-pas": "investor.vanguard.com에서 가입합니다. PAS 이용에는 최소 5억원이 필요합니다.",
+    "betterment-premium": "betterment.com에서 가입합니다. Premium 등급은 최소 1억원이며, Digital 등급(0.25%, CFP 상담 없음)은 최소 금액이 없습니다.",
+    "fidelity-wealth-services": "fidelity.com에서 가입하거나 자산관리 전용 창구로 문의합니다. 최소 5천만원.",
+    "schwab-intelligent-portfolios": "schwab.com에서 가입합니다. 최소 500만원.",
+    "facet-wealth": "facet.com에서 가입합니다. 정액제이므로 상황 복잡도에 따라 견적을 받습니다."
+  },
+  "pinDescription": "재무 어드바이저, 수수료 하나로 연 수백만원이 갈립니다. Vanguard PAS·Betterment·Fidelity·Schwab·Facet 다섯 곳의 실제 부담액을 자산 규모별로 정리했습니다.",
+  "recommendedFor": [
+    {
+      "label": "5억~50억원 자산에서 비용을 아끼고 싶은 분",
+      "offerId": "vanguard-pas",
+      "reason": "Vanguard PAS는 0.30%만 받습니다. 사람 CFP를 쓰면서 이 가격은 최저 수준이라 경쟁사 대비 연간 수백만원이 남습니다."
+    },
+    {
+      "label": "자동 운용에 사람 상담까지 곁들이고 싶은 분",
+      "offerId": "betterment-premium",
+      "reason": "Betterment Premium은 자동 손실 확정 절세와 CFP 무제한 상담을 함께 제공해, 손 안 대고 굴리면서도 전문가 조언은 받고 싶은 분에게 맞습니다."
+    },
+    {
+      "label": "이미 Fidelity를 쓰면서 전담 담당자를 원하는 분",
+      "offerId": "fidelity-wealth-services",
+      "reason": "Fidelity Wealth Services는 담당자를 한 명으로 고정해 주고, 5억원 이상 고객의 기존 Fidelity 계좌와 그대로 연동됩니다."
+    },
+    {
+      "label": "자산 1억원 미만으로 시작하는 초보 투자자",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Schwab Intelligent Portfolios는 최소 500만원에 자문 수수료가 0원이라, 초기 수익을 수수료로 깎아먹지 않고 굴릴 수 있습니다."
+    },
+    {
+      "label": "투자 자산이 10억원 이상인 자산가",
+      "offerId": "facet-wealth",
+      "reason": "Facet의 연 240만~600만원 정액제는 10억원 이상에서 자산 비례 방식을 앞섭니다. 20억원 포트폴리오라면 Vanguard 0.30% 대비 연 120만원까지 절약됩니다."
+    }
+  ]
 }

@@ -2,5 +2,147 @@
   "title": "2026 최고의 투자 플랫폼: 5종 비교",
   "description": "Fidelity, Vanguard, Schwab, Robinhood, E*TRADE를 비교했습니다. 2026년 진짜 비용 비율과 플랫폼 기능이 좋은 투자 플랫폼는 무엇인지.",
   "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다.",
-  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다."
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다.",
+  "sections": [
+    {
+      "heading": "인덱스 ETF 운용보수 비교",
+      "paragraphs": [
+        "Fidelity ZERO 펀드: 0.00%(FZROX, FZILX 등) — Fidelity 계좌에서만 매수 가능합니다.",
+        "Vanguard ETF: VTI 0.03%, VXUS 0.07%, BND 0.03%. 업계 최저 수준입니다.",
+        "Schwab ETF: SCHB 0.03%, SCHE 0.06%, SCHZ 0.03%. Vanguard와 거의 동일한 수준입니다.",
+        "그 외 플랫폼: 같은 ETF를 수수료 $0로 살 수 있지만, 자체 무보수 펀드는 없는 경우가 많습니다."
+      ]
+    },
+    {
+      "heading": "용도별 추천",
+      "paragraphs": [
+        "종합 1위: Fidelity. 보수 0% ZERO 펀드, 거래수수료 $0, 24시간 전화 상담, 폭넓은 자산군.",
+        "인덱스 투자자: Vanguard. 업계 최저 ETF 보수, 인덱스 투자의 원조입니다.",
+        "은행 + 증권 통합: Schwab. 전 세계 ATM 수수료 무료 계좌가 붙어 있습니다.",
+        "모바일·가벼운 투자: Robinhood. 앱 사용성은 최고지만 리서치 도구가 빈약합니다.",
+        "액티브 트레이더: E*TRADE. Power E*TRADE 플랫폼과 탄탄한 옵션 거래 기능."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "인덱스 투자에 증권사 선택이 정말 중요한가요?",
+      "a": "생각보다는 덜합니다. 총비용 차이는 연 0.01~0.05% 수준이고, 2억 원을 30년 굴리면 약 160만~800만 원 차이입니다. 무시할 금액은 아니지만 인생이 바뀔 정도는 아니니, 나머지 조건이 맞는 곳을 고르시면 됩니다."
+    },
+    {
+      "q": "쓰던 증권사를 갈아타야 할까요?",
+      "a": "보수를 0.05%p 이상 아낄 수 있거나 꼭 필요한 기능이 생길 때만 권합니다. 이관 시에는 양도 주식에 대한 세무 서류 처리와 새 UI 적응이라는 비용이 따라옵니다."
+    },
+    {
+      "q": "Robinhood는 안전한가요?",
+      "a": "네. 다른 증권사와 마찬가지로 SIPC 보호 대상이며 기본 한도는 50만 달러입니다. 2021년 게임스톱 사태로 주문 흐름 판매(PFOF) 수익 구조가 도마에 올랐지만, 계좌 자산 자체의 안전성과는 별개입니다."
+    },
+    {
+      "q": "Webull, Public, M1은 어떤가요?",
+      "a": "용도만 맞으면 모두 쓸 만합니다. Public은 윤리적 투자, M1은 자동 포트폴리오 운용에 강점이 있고, Webull은 Robinhood와 비슷하되 차트 기능이 더 정교합니다."
+    }
+  ],
+  "products": {
+    "fidelity-platform": {
+      "badge": "🏆 종합 1위",
+      "review": "대부분의 투자자에게 가장 무난하게 좋은 선택입니다. 최소 입금액 $0, 거래수수료 $0, 보수 0.00%의 FZROX(진짜 무보수 펀드는 사실상 이것뿐), 24시간 전화 상담, 주요 도시 지점까지 갖췄습니다. 위탁계좌·연금계좌·은행 기능·HSA를 한곳에서 관리할 수 있습니다.",
+      "pros": [
+        "FZROX 운용보수 0.00%",
+        "24시간 전화 상담 + 오프라인 지점",
+        "취급 자산군이 가장 넓음"
+      ],
+      "cons": [
+        "ZERO 펀드는 Fidelity 내부에서만 이관 가능(락인)",
+        "ActiveTraderPro는 ThinkOrSwim보다 완성도가 떨어짐"
+      ]
+    },
+    "vanguard-platform": {
+      "badge": "💸 인덱스 투자 최적",
+      "review": "사놓고 오래 묻어두는 인덱스 투자자에게 맞는 곳입니다. ETF 보수가 업계 최저라, 경쟁사와의 0.01~0.03%p 차이도 30년이면 무시 못 할 금액으로 불어납니다. 인덱스 펀드의 아버지 존 보글이 세운 회사입니다. UI는 2010년대에 멈춰 있지만 쓰는 데는 지장이 없습니다.",
+      "pros": [
+        "ETF 운용보수 업계 최저",
+        "인덱스 투자의 개척자 존 보글이 창업",
+        "업계 표준 ETF(VTI, VXUS) 보유"
+      ],
+      "cons": [
+        "UI가 낡음",
+        "액티브 트레이딩 도구가 빈약"
+      ]
+    },
+    "schwab-platform": {
+      "badge": "🏦 은행 연동 최강",
+      "review": "은행과 증권을 한 몸으로 쓰고 싶다면 여기가 정답입니다. 거래수수료 $0에, Schwab Bank 체킹 계좌는 해외 결제 수수료가 없고 전 세계 ATM 인출 수수료를 돌려줍니다. 로보어드바이저 Intelligent Portfolios도 무료입니다. 2023년 TD Ameritrade를 인수해 ThinkOrSwim도 Schwab 소속이 됐습니다.",
+      "pros": [
+        "은행 + 증권 완전 통합",
+        "전 세계 ATM 인출 수수료 무료",
+        "ThinkOrSwim 사용 가능(TD 인수 이후)"
+      ],
+      "cons": [
+        "Intelligent Portfolios는 현금 비중이 과도함",
+        "TD Ameritrade 이관 과정의 잔여 불편"
+      ]
+    },
+    "robinhood-platform": {
+      "badge": "📱 모바일 UX 1위",
+      "review": "모바일로 가볍게 투자하는 사람에게 맞습니다. 앱 사용성은 업계 최고 수준이고, 거래수수료 $0에 소수점 매수도 됩니다. 다만 Fidelity·Schwab에 비하면 리서치 도구와 고급 기능이 부족합니다. 시장 전체를 담는 ETF를 가끔 사 모으는 용도로 가장 잘 맞습니다.",
+      "pros": [
+        "모바일 UX 최고 수준",
+        "소수점 주식 매수 지원",
+        "계좌 개설이 빠름"
+      ],
+      "cons": [
+        "리서치 도구 부족",
+        "주문 흐름 판매 기반 수익 구조",
+        "개설 가능한 계좌 종류가 제한적"
+      ]
+    },
+    "etrade-platform": {
+      "badge": "📈 액티브 트레이더용",
+      "review": "적극적으로 사고파는 투자자에게 맞는 플랫폼입니다. Power E*TRADE는 고급 차트와 옵션 친화적 기능을 갖췄고 거래수수료는 $0입니다. 현재는 모건스탠리 계열입니다. 옵션 전략을 짜서 굴리기에 충분히 탄탄한 도구를 제공합니다.",
+      "pros": [
+        "액티브 트레이딩용 Power E*TRADE",
+        "강력한 옵션 거래 환경",
+        "모건스탠리 계열의 안정성"
+      ],
+      "cons": [
+        "Robinhood만큼 가볍고 친절하진 않음",
+        "모건스탠리 통합 작업이 진행 중"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-platform": "fidelity.com에서 가입하세요. ZERO 펀드(FZROX, FZILX, FZIPX)는 Fidelity 전용 상품입니다.",
+    "vanguard-platform": "investor.vanguard.com에서 가입하세요. VTI와 VXUS가 대표 ETF입니다.",
+    "schwab-platform": "schwab.com에서 가입하세요. 핵심은 Schwab Bank 체킹 계좌입니다.",
+    "robinhood-platform": "robinhood.com 또는 모바일 앱에서 가입하세요. 월 $5짜리 Robinhood Gold를 붙이면 리서치 도구가 추가됩니다.",
+    "etrade-platform": "us.etrade.com에서 가입하세요. 고급 기능은 일반 앱이 아닌 Power E*TRADE에서 쓸 수 있습니다."
+  },
+  "pinDescription": "미국 주식 계좌, 어디서 열까? Fidelity·Vanguard·Schwab·Robinhood·E*TRADE 수수료와 장단점 총정리 (2026)",
+  "recommendedFor": [
+    {
+      "label": "0.01%p까지 아끼려는 장기 노후 자금 투자자",
+      "offerId": "fidelity-platform",
+      "reason": "보수 0.00%의 FZROX는 사실상 유일한 진짜 무보수 펀드라, 수십 년 쌓이는 비용 복리를 그만큼 덜어냅니다."
+    },
+    {
+      "label": "저비용 인덱스 전략을 뚝심 있게 밀고 가는 투자자",
+      "offerId": "vanguard-platform",
+      "reason": "VTI와 VXUS의 보수는 0.03~0.07%로 업계 최저이고, 이 전략 자체를 만든 사람이 창업자 존 보글입니다."
+    },
+    {
+      "label": "해외를 자주 오가며 현금과 투자금을 함께 굴리는 사람",
+      "offerId": "schwab-platform",
+      "reason": "Schwab Bank 체킹은 해외 결제 수수료가 없고 전 세계 ATM 인출 수수료도 돌려주니, 돈이 사용자만큼 자유롭게 움직입니다."
+    },
+    {
+      "label": "소액으로 처음 투자를 시작하는 사회초년생",
+      "offerId": "robinhood-platform",
+      "reason": "최고 수준의 모바일 앱과 소수점 매수 덕분에, 비싼 주식이나 ETF도 최소 금액 제한 없이 원하는 만큼만 살 수 있습니다."
+    },
+    {
+      "label": "옵션과 멀티레그 전략을 돌리는 액티브 트레이더",
+      "offerId": "etrade-platform",
+      "reason": "Power E*TRADE의 고급 차트와 옵션 전용 도구는 단순한 플랫폼으로는 제대로 돌리기 어려운 복합 전략까지 소화합니다."
+    }
+  ]
 }

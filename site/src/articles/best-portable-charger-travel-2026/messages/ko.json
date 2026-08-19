@@ -116,5 +116,32 @@
     "anker-magnetic-magsafe-power-bank": "anker.com, Amazon에서 구매 가능. 'MagGo' 라인은 MagSafe를 지원합니다 — 모델이 MagSafe 호환인지 확인하세요.",
     "iniu-portable-charger": "iniushop.com, Amazon에서 구매 가능. Subscribe & Save 할인은 보통 10-15%입니다."
   },
-  "pinDescription": "2026 최고의 여행용 보조 배터리: 5종 비교. 공개 사양·제조사 자료·독립 리뷰 기준 비교."
+  "pinDescription": "2026 최고의 여행용 보조 배터리: 5종 비교. 공개 사양·제조사 자료·독립 리뷰 기준 비교.",
+  "recommendedFor": [
+    {
+      "label": "매 출장마다 노트북을 챙기는 비즈니스 여행자",
+      "offerId": "anker-power-bank-737",
+      "reason": "140W PD 출력으로 맥북 프로와 스마트폰을 동시에 충전합니다. 보조배터리 하나로 노트북 충전기를 아예 대체할 수 있습니다."
+    },
+    {
+      "label": "가벼운 예비 전력만 있으면 되는 주말 여행자",
+      "offerId": "anker-power-bank-313",
+      "reason": "주머니에 들어가는 크기에 10,000mAh로 스마트폰 2~3회 충전이 가능합니다. 4~7만원대라 혹시 잃어버려도 부담이 적습니다."
+    },
+    {
+      "label": "여러 날에 걸쳐 이동하는 장기 배낭여행자",
+      "offerId": "ravpower-pd-pioneer",
+      "reason": "기내 반입이 허용되는 최대 용량인 26,800mAh를 한 대에 담았습니다. 콘센트를 찾기 전까지 스마트폰을 7회 이상 충전할 수 있습니다."
+    },
+    {
+      "label": "케이블 꽂는 게 번거로운 아이폰 사용자",
+      "offerId": "anker-magnetic-magsafe-power-bank",
+      "reason": "맥세이프로 아이폰 12 이후 모델에 자석처럼 착 붙어, 손에 들거나 주머니에 넣은 채로 선 없이 충전됩니다."
+    },
+    {
+      "label": "예산이 빠듯한 해외 유학생",
+      "offerId": "iniu-portable-charger",
+      "reason": "3~4만원대에 슬림한 두께, 10,000mAh 용량으로 하루치 충전을 해결합니다. 무게 부담도, 여행 경비 부담도 없습니다."
+    }
+  ]
 }

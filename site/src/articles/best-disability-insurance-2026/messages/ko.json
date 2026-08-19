@@ -2,5 +2,151 @@
   "title": "2026 최고의 장애 보험: 5종 비교",
   "description": "Guardian, Principal, MassMutual, Breeze, Policygenius를 비교했습니다. 2026년 진짜 본인 직업 정의와 보험료이 좋은 장애 보험는 무엇인지.",
   "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다.",
-  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다."
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다.",
+  "sections": [
+    {
+      "heading": "Own-occupation(본인 직업 기준) 특약이 핵심입니다",
+      "paragraphs": [
+        "진짜 own-occupation: '본인의 특정 직업'을 수행할 수 없으면, 다른 일을 할 수 있더라도 보험금이 지급됩니다. 수술을 못 하게 된 외과의가 자문 업무는 가능하더라도 전액을 받습니다.",
+        "수정형(modified) own-occupation: 학력·경력에 맞는 '어떤 직업도' 수행할 수 없을 때만 지급됩니다. 고소득 전문직에게는 훨씬 불리한 조건입니다.",
+        "진짜 own-occ를 제공하는 곳: Guardian, Principal, MassMutual. 수정형: 저렴한 온라인 보험사 대부분(Breeze는 기본이 수정형이고, 진짜 own-occ는 추가 옵션)."
+      ]
+    },
+    {
+      "heading": "실제 월 보험료",
+      "paragraphs": [
+        "35세 심장내과 전문의, 월 보험금 2,000만 원, 면책기간 90일, 65세까지 보장 기준: Guardian 약 68만 원, Principal 약 65만 원, MassMutual 약 67만 원, Breeze(수정형) 약 44만 원, Policygenius(최저가) 약 62만 원.",
+        "35세 소프트웨어 엔지니어, 월 보험금 800만 원, 동일 조건: Guardian 약 20만 원, Principal 약 19만 원, MassMutual 약 20만 원, Breeze 약 13만 원, Policygenius 약 18만 원. 수정형과 진짜 own-occ의 차이는 약 25~50%입니다.",
+        "특약 월 추가 보험료: 물가연동(COLA) 4~8만 원, 보장액 증액 옵션 2~4만 원, 중증장해 특약 3~6만 원."
+      ]
+    },
+    {
+      "heading": "가입 시기",
+      "paragraphs": [
+        "가장 좋은 시점은 건강할 때인 20~30대입니다. 보험료는 가입 시점의 건강 상태로 고정되며, 진단을 받은 뒤에는 소득보상보험 가입 자체가 불가능합니다.",
+        "회사 단체 장기장해보험 vs 개인 가입: 단체 상품은 보통 기본급의 60%(성과급 제외)만 보장하고, 월 한도는 1,000~1,500만 원 수준, 조건도 수정형 own-occ입니다. 개인 상품이 그 공백을 메웁니다.",
+        "의사·변호사·엔지니어 같은 고소득 전문직에게 개인 소득보상보험은 필수입니다. 단체 보험만으로는 상당한 소득이 무방비로 남습니다."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "보험금은 얼마로 잡아야 하나요?",
+      "a": "세후 소득의 60~70%를 목표로 하세요. 다만 보험사 한도가 보통 세전 소득의 60%라 현실적인 상한은 거기까지입니다."
+    },
+    {
+      "q": "수정형 own-occ, 아낀 만큼 값어치를 하나요?",
+      "a": "사무직이라면 고려해볼 만합니다. 외과의·치과의 같은 전문의라면 아닙니다. 소득보상보험의 존재 이유가 전문 분야 소득 보호인데, 수정형은 그 목적 자체를 무너뜨립니다."
+    },
+    {
+      "q": "단기와 장기 중 무엇이 먼저인가요?",
+      "a": "장기(수개월~수년)가 우선입니다. 단기(며칠~몇 주)는 있으면 좋지만, 대개 비상자금으로 충분히 메울 수 있습니다."
+    },
+    {
+      "q": "직업에 따라 왜 조건이 달라지나요?",
+      "a": "위험도가 높은 직업(외과의, 정밀 시력이 필수인 치과의 등)은 보험료가 비싼 대신 own-occ 조항이 강력합니다. 사무직은 보험료가 낮지만 own-occ 보장의 차별점도 크지 않습니다."
+    }
+  ],
+  "products": {
+    "guardian-individual-disability": {
+      "badge": "🏆 전문직에게 최적",
+      "review": "Guardian Individual Disability Income은 고소득 전문직에게 가장 잘 맞습니다. 진짜 own-occupation에 해지 불가(non-cancellable) 조건. 보험료가 비싼 만큼 약관 문구가 가장 강력합니다.",
+      "pros": [
+        "진짜 own-occupation 정의 적용",
+        "해지 불가(non-cancellable) 계약",
+        "특약 선택지가 탄탄함"
+      ],
+      "cons": [
+        "보험료가 비쌈",
+        "인수 심사가 까다로움"
+      ]
+    },
+    "principal-individual-disability": {
+      "badge": "🥇 의료계 종사자에게 최적",
+      "review": "Principal Individual Disability는 의사·치과의사·변호사에게 가장 잘 맞습니다. 전문 분야를 겨냥한 강력한 진짜 own-occ 조항이 특징이며, 의료·치과 직군 심사에 특히 적극적입니다.",
+      "pros": [
+        "전문직 대상 약관이 강력함",
+        "의료·치과 직군에 공격적인 보험료",
+        "다양한 특약"
+      ],
+      "cons": [
+        "주력 직군 밖에서는 심사가 빡빡함",
+        "비의료 직군은 유연성이 떨어짐"
+      ]
+    },
+    "mass-mutual-radius-disability": {
+      "badge": "🤝 상호회사 중 최고",
+      "review": "MassMutual Radius Choice Disability는 상호회사 구조를 선호한다면 좋은 선택입니다. 계약자가 배당을 나눠 갖고, own-occ 조항도 견실하지만 의료 직군 조건은 Principal만큼 공격적이지 않습니다.",
+      "pros": [
+        "상호회사(배당 가능성)",
+        "견실한 own-occ 조항",
+        "높은 재무 건전성 등급"
+      ],
+      "cons": [
+        "전문직 조건은 Principal보다 약함",
+        "심사 결정이 Guardian보다 느림"
+      ]
+    },
+    "breeze-simplified-disability": {
+      "badge": "💻 디지털 가입 최적",
+      "review": "Breeze Simplified Disability는 건강검진 없이(상당수 대상) 온라인으로 빠르게 가입하고 싶을 때 좋습니다. 월 7~21만 원대 보장. 기본은 수정형 own-occ이고, 진짜 own-occ는 추가 옵션입니다.",
+      "pros": [
+        "상당수 가입자는 건강검진 불필요",
+        "온라인 가입이 빠름",
+        "보험료가 저렴함"
+      ],
+      "cons": [
+        "기본 조건이 수정형 own-occ",
+        "Guardian보다 보장 한도가 낮음"
+      ]
+    },
+    "policygenius-disability-marketplace": {
+      "badge": "🛒 비교 견적에 최적",
+      "review": "Policygenius Disability Marketplace는 여러 보험사(Guardian, Principal, MassMutual, Mutual of Omaha 등)를 한 번의 신청으로 비교하고 싶을 때 좋습니다. 절대 최저가를 찾아내는 경우가 많습니다. 심사에는 2~4주가 걸립니다.",
+      "pros": [
+        "5개 이상 보험사 비교",
+        "최저가를 찾아내는 경우가 많음",
+        "독립적인 상담"
+      ],
+      "cons": [
+        "심사에 2~4주 소요",
+        "모든 보험사가 입점해 있지는 않음"
+      ]
+    }
+  },
+  "offerNotes": {
+    "guardian-individual-disability": "Guardian 소속 상담사를 통해 견적을 받으세요. Provider Plus가 대표 상품입니다.",
+    "principal-individual-disability": "principal.com에서 견적을 받으세요. HH 700이 대표 상품입니다.",
+    "mass-mutual-radius-disability": "MassMutual 상담사를 통해 견적을 받으세요. Radius Choice가 표준 상품입니다.",
+    "breeze-simplified-disability": "meetbreeze.com에서 견적을 받으세요. 온라인 절차가 가장 빠릅니다.",
+    "policygenius-disability-marketplace": "policygenius.com에서 견적을 받으세요. 여러 보험사를 대신 비교해 줍니다."
+  },
+  "pinDescription": "다치거나 아파서 일을 못 하게 되면? 소득보상보험 5개 비교 — '내 직업' 기준 보장이 되는 상품은 어디일까 📌 보험료 실제 금액까지 정리",
+  "recommendedFor": [
+    {
+      "label": "시술 소득을 지켜야 하는 외과의·전문의",
+      "offerId": "principal-individual-disability",
+      "reason": "Principal은 전문 분야에 특화된 진짜 own-occ 조항을 적용해, 자문 업무는 가능하더라도 본인의 특정 시술을 못 하게 되면 보험금을 전액 지급합니다."
+    },
+    {
+      "label": "고소득 변호사와 로펌 파트너",
+      "offerId": "guardian-individual-disability",
+      "reason": "Guardian의 해지 불가 계약은 보험료와 진짜 own-occ 보장을 고정해, 변호사가 무보험으로 둘 수 없는 고액 소득을 지켜 줍니다."
+    },
+    {
+      "label": "프리랜서와 개인사업자",
+      "offerId": "breeze-simplified-disability",
+      "reason": "Breeze는 건강검진 없는 온라인 가입과 낮은 보험료로, 회사 단체보험이 없는 사람이 가장 빠르게 소득을 지킬 수 있는 방법입니다."
+    },
+    {
+      "label": "어느 보험사가 맞을지 모르겠는 첫 가입자",
+      "offerId": "policygenius-disability-marketplace",
+      "reason": "Policygenius는 한 번의 신청으로 5개 이상 보험사를 비교해, Guardian·Principal·MassMutual 견적을 나란히 놓고 고를 수 있게 해 줍니다."
+    },
+    {
+      "label": "배당까지 챙기고 싶은 장기 관점의 고소득자",
+      "offerId": "mass-mutual-radius-disability",
+      "reason": "MassMutual은 상호회사 구조로 계약자에게 배당을 돌려주기 때문에, 견실한 own-occ 보장에 장기 재무 참여 혜택이 더해집니다."
+    }
+  ]
 }

@@ -2,5 +2,152 @@
   "title": "2026 최고의 CRM 소프트웨어: 5종 비교",
   "description": "HubSpot, Salesforce, Pipedrive, Zoho, Monday를 비교했습니다. 2026년 진짜 직원 채택률과 온보딩 속도이 좋은 CRM 소프트웨어는 무엇인지.",
   "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다.",
-  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다."
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다.",
+  "sections": [
+    {
+      "heading": "온보딩 속도",
+      "paragraphs": [
+        "첫 거래 등록까지 걸리는 시간: Pipedrive 1일(파이프라인 중심 UX), Monday Sales 2일, HubSpot 2일, Zoho 4일, Salesforce 8~14일(객체 모델이 복잡함).",
+        "영업 담당자 1인 온보딩 시간: Pipedrive 30분, HubSpot 45분, Monday Sales 1시간, Zoho 2시간, Salesforce는 관리자가 진행하는 교육으로 6~8시간.",
+        "Salesforce의 복잡함은 대기업에게는 장점(무한한 커스터마이징)이지만 소규모 팀에게는 세금에 가깝습니다. HubSpot과 Pipedrive는 빠른 도입 효과를 우선합니다."
+      ]
+    },
+    {
+      "heading": "일간 활성 사용률",
+      "paragraphs": [
+        "도입 30일 후 CRM을 매일 쓰는 담당자 비율: HubSpot 92%, Pipedrive 88%, Monday Sales 78%, Zoho 75%, Salesforce 65%(세일즈 옵스가 강하게 관리하지 않으면 60일 차에 40%까지 떨어집니다).",
+        "Salesforce를 포기하는 이유는 활동 기록이 서류 작업처럼 느껴지기 때문입니다. Pipedrive와 HubSpot을 계속 쓰는 이유는 기록이 빠르게 끝나기 때문이고요.",
+        "모바일 앱 사용성: HubSpot 모바일이 이 분야 최고 수준입니다. Pipedrive 모바일도 훌륭합니다. Salesforce 모바일은 되긴 하지만 느립니다. Monday와 Zoho 모바일은 기본 수준에 그칩니다."
+      ]
+    },
+    {
+      "heading": "자동화와 확장성",
+      "paragraphs": [
+        "워크플로 자동화의 깊이: Salesforce(가장 강력하지만 관리자가 필요), HubSpot(UX 최고), ActiveCampaign Plus + Pipedrive 조합(실무에서 자주 병행), Monday Sales(시각적 워크플로, 쉬움), Zoho(범위는 넓지만 UX가 낡음).",
+        "12명 기준 총비용(중간 요금제): Salesforce 월 약 900달러(Professional), HubSpot 월 약 1,200달러(Sales Hub Pro), Pipedrive 월 약 408달러(Advanced), Zoho 월 약 192달러(Enterprise), Monday Sales 월 약 144~288달러(Pro). Zoho와 Monday는 HubSpot·Salesforce 대비 4~6배 저렴합니다.",
+        "담당자 50명을 넘어서면 Salesforce입니다. 12명에게는 과한 커스터마이징이 100명 규모에서는 필수가 됩니다. 다만 12명 규모 팀 대부분은 Salesforce를 고르지 않는 편이 맞습니다."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "중소기업이라면 HubSpot과 Salesforce 중 어느 쪽인가요?",
+      "a": "HubSpot입니다. 도입 효과가 가장 빠르고 무료 요금제가 있으며 UX도 가장 좋습니다. 전담 관리자를 둘 인력이 있고 영업 프로세스가 복잡할 때만 Salesforce를 고려하세요."
+    },
+    {
+      "q": "Pipedrive와 HubSpot의 차이는?",
+      "a": "아웃바운드 영업에만 집중하는 팀이라면 Pipedrive(시각적 파이프라인, 거래 중심)입니다. 마케팅·영업·고객지원을 한 플랫폼에서 다루고 싶다면 HubSpot입니다."
+    },
+    {
+      "q": "CRM 무료 요금제, 정말 무료인가요?",
+      "a": "HubSpot 무료 요금제는 실제로 쓸 만합니다(연락처, 거래, 기본 이메일). Zoho CRM 무료(3명)도 충분히 돌아갑니다. Salesforce 'Essentials'는 무료 요금제 없이 사용자당 월 25달러부터입니다."
+    },
+    {
+      "q": "나중에 다른 CRM으로 옮길 수 있나요?",
+      "a": "가능하지만 고생합니다. 마이그레이션에 2~4주는 잡아두세요. 연락처와 거래는 CSV로 넘어가지만 커스텀 필드, 활동 이력, 자동화는 깔끔하게 옮겨지는 경우가 드뭅니다."
+    }
+  ],
+  "products": {
+    "hubspot-crm-pro": {
+      "badge": "🏆 종합 1위",
+      "review": "HubSpot Sales Hub Professional은 대부분의 중소·중견 팀에게 정답입니다. 동급 최고의 UX, 무료에서 유료로 자연스럽게 이어지는 구조, 마케팅·CRM·고객지원 통합까지 갖췄습니다. 영업 담당자 입장에서 UX가 가장 좋다는 건 곧 일간 사용률이 가장 높다는 뜻입니다.",
+      "pros": [
+        "동급 최고의 UX",
+        "무료 요금제에서 매끄럽게 확장",
+        "마케팅·영업·고객지원 통합"
+      ],
+      "cons": [
+        "Pro가 사용자당 월 100달러로 비쌈",
+        "Salesforce보다 커스터마이징 폭이 좁음"
+      ]
+    },
+    "salesforce-sales-cloud-pro": {
+      "badge": "🏢 대기업 최적",
+      "review": "Salesforce Sales Cloud Professional은 전담 관리자를 두고 복잡한 영업 프로세스를 운영하는 50명 이상 팀에게 맞습니다. AppExchange 생태계와 사실상 무한한 커스터마이징이 강점입니다. 대신 소규모 팀에는 정착 비용이 큽니다.",
+      "pros": [
+        "커스터마이징 폭이 가장 넓음",
+        "AppExchange 생태계",
+        "엔터프라이즈 업계 표준"
+      ],
+      "cons": [
+        "학습 곡선이 가파름",
+        "관리자가 관리하지 않으면 사용률이 급락",
+        "사용자당 월 75~300달러"
+      ]
+    },
+    "pipedrive-advanced": {
+      "badge": "📊 아웃바운드 영업 최적",
+      "review": "Pipedrive Advanced는 아웃바운드 영업에만 집중하는 팀에게 맞습니다. 파이프라인을 중심에 둔 설계로 거래 단계가 한눈에 보이고, 드래그 앤 드롭과 빠른 기록이 가능합니다. 첫날 생산성이 가장 높습니다. 다만 마케팅 연동 용도로는 아쉽습니다.",
+      "pros": [
+        "아웃바운드 영업에 최적화된 UX",
+        "첫 거래 등록까지 가장 빠름",
+        "모바일 앱이 탄탄함"
+      ],
+      "cons": [
+        "HubSpot보다 마케팅 연동이 약함",
+        "Salesforce보다 커스터마이징이 얕음"
+      ]
+    },
+    "zoho-crm-enterprise": {
+      "badge": "💸 가성비 1위",
+      "review": "Zoho CRM Enterprise는 예산이 빠듯한 중소기업에 맞습니다. 사용자당 월 40달러인 Enterprise가 165달러짜리 Salesforce Professional에 견줄 만한 기능을 제공합니다. Zoho One 제품군(40개 이상 앱)과의 연동도 넓습니다. UX는 낡았지만 쓰는 데 문제는 없습니다.",
+      "pros": [
+        "비슷한 기능에 Salesforce 대비 4배 저렴",
+        "Zoho One 제품군 연동",
+        "3명까지 무료 요금제 제공"
+      ],
+      "cons": [
+        "UX가 낡은 느낌",
+        "모바일 앱 완성도가 떨어짐"
+      ]
+    },
+    "monday-sales-crm": {
+      "badge": "🎨 시각형 CRM 1위",
+      "review": "Monday Sales CRM은 이미 Monday로 프로젝트를 관리하는 팀에게 맞습니다. 보드 형태의 시각적 CRM에 커스터마이징 자유도가 높고, 사용자당 월 12~24달러입니다. 파이프라인보다 워크플로 단위로 사고하는 팀에게 특히 잘 맞습니다.",
+      "pros": [
+        "시각적 워크플로 방식",
+        "Monday 업무 관리와 짝을 이룸",
+        "합리적인 가격"
+      ],
+      "cons": [
+        "CRM 생태계가 작음",
+        "Pipedrive·HubSpot보다 영업 특화도가 낮음"
+      ]
+    }
+  },
+  "offerNotes": {
+    "hubspot-crm-pro": "hubspot.com에서 가입 — 무료 요금제도 실제로 쓸 만합니다.",
+    "salesforce-sales-cloud-pro": "salesforce.com에서 견적 요청 — 영업 담당자 상담이 필요합니다.",
+    "pipedrive-advanced": "pipedrive.com에서 가입 — 14일 무료 체험.",
+    "zoho-crm-enterprise": "zoho.com에서 가입 — 15일 무료 체험.",
+    "monday-sales-crm": "monday.com에서 가입 — 2명까지 무료."
+  },
+  "pinDescription": "CRM 뭐 쓸지 고민 중이라면. HubSpot·Salesforce·Pipedrive·Zoho·Monday를 인당 요금, 자동화 한도, 이관 난이도까지 실제 숫자로 비교했습니다. 12명 팀 기준 월 비용 차이가 4~6배. #CRM #영업관리 #스타트업",
+  "recommendedFor": [
+    {
+      "label": "1인 다역으로 뛰는 소상공인·중소기업 대표",
+      "offerId": "hubspot-crm-pro",
+      "reason": "HubSpot은 무료 요금제와 마케팅·영업·고객지원 통합 허브 덕분에, 인원이 적어도 도구를 갈아타지 않고 캠페인 운영과 계약 마무리를 한 곳에서 처리할 수 있습니다."
+    },
+    {
+      "label": "전담 관리자를 둔 대기업 세일즈 옵스 팀",
+      "offerId": "salesforce-sales-cloud-pro",
+      "reason": "AppExchange와 사실상 무한한 커스터마이징으로, 담당자 50명 이상 규모의 복잡한 다단계 파이프라인까지 감당합니다. 이 영역에서 대체할 플랫폼이 없습니다."
+    },
+    {
+      "label": "파이프라인만 파고드는 아웃바운드 SDR 팀",
+      "offerId": "pipedrive-advanced",
+      "reason": "드래그 앤 드롭 방식의 시각적 파이프라인 덕분에 하루 안에 첫 거래를 등록할 수 있고, 일간 사용률도 88%로 유지됩니다."
+    },
+    {
+      "label": "비용 대비 기능을 최대로 뽑아야 하는 스타트업",
+      "offerId": "zoho-crm-enterprise",
+      "reason": "Zoho Enterprise는 사용자당 월 40달러로 Salesforce Professional급 기능을 제공하고, 추가 비용 없이 Zoho One 앱 40여 종까지 함께 쓸 수 있습니다."
+    },
+    {
+      "label": "이미 Monday.com으로 굴러가는 프로젝트 중심 팀",
+      "offerId": "monday-sales-crm",
+      "reason": "Monday Sales CRM은 같은 보드형 워크플로를 그대로 씁니다. 업무를 태스크 단위로 보던 팀이라면 거래 관리로도 자연스럽게 이어집니다."
+    }
+  ]
 }

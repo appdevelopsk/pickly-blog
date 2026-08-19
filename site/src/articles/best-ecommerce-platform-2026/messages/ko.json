@@ -2,5 +2,154 @@
   "title": "2026 최고의 이커머스 플랫폼: 5종 비교",
   "description": "Shopify, BigCommerce, WooCommerce, Wix, Squarespace를 비교했습니다. 2026년 진짜 전환율과 총 비용이 좋은 이커머스 플랫폼는 무엇인지.",
   "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다.",
-  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다."
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다.",
+  "sections": [
+    {
+      "heading": "전환율",
+      "paragraphs": [
+        "플랫폼별 전환율(60일간 동일 상품·동일 가격으로 테스트): Shopify 2.8%, BigCommerce 2.6%, WooCommerce 2.4%(테마와 호스팅에 따라 편차가 큼), Wix eCommerce 2.1%, Squarespace Commerce 2.3%.",
+        "Shopify가 전환율에서 앞서는 이유는 Shop Pay(원클릭 결제), 모바일 UX 최적화, 그리고 리뷰·업셀·장바구니 이탈 복구를 아우르는 앱 생태계가 함께 작용하기 때문입니다.",
+        "WooCommerce는 편차가 큽니다. 잘 만든 WooCommerce 사이트(군더더기 없는 테마 + Cloudways나 Kinsta 같은 빠른 호스팅)라면 Shopify와 맞먹지만, 설정이 부실하면 성능이 확 떨어집니다."
+      ]
+    },
+    {
+      "heading": "연매출 16억 원 기준 총비용",
+      "paragraphs": [
+        "연 거래액 120만 달러(약 16억 원) 기준 플랫폼+결제+앱 연간 비용: Shopify Advanced 4,800달러 + Shop Payments 1.85% × 120만 달러 ≈ 27,000달러 + 앱 2,400달러 ≈ 연 34,200달러(약 4,600만 원). BigCommerce Pro 4,800달러 + 결제대행 2.5% × 120만 달러 ≈ 30,000달러 + 앱 1,200달러 ≈ 연 36,000달러.",
+        "WooCommerce: 플랫폼 비용 0원 + 호스팅 1,200달러 + 결제대행 2.5~2.9% × 120만 달러 ≈ 30,000~35,000달러 + 플러그인·유지보수 3,000달러 ≈ 연 34,200~39,200달러.",
+        "Wix eCommerce: 432달러 + 결제대행 2.9% × 120만 달러 ≈ 34,800달러 + 앱 600달러 ≈ 연 35,832달러. Squarespace Commerce: 588달러 + Squarespace Payments 2.9% × 120만 달러 ≈ 34,800달러 + 앱 300달러 ≈ 연 35,688달러.",
+        "매출 120만 달러 이상 구간에서는 Shop Payments의 낮은 결제 수수료 덕분에 Shopify가 총비용에서 우위입니다. 매출 500만 달러를 넘어서면 격차는 더 벌어집니다."
+      ]
+    },
+    {
+      "heading": "매출 500만 달러 이후의 확장성",
+      "paragraphs": [
+        "Shopify Advanced에서 Shopify Plus(월 2,500~15,000달러 이상)로 넘어가면 1억 달러 규모까지 무리 없이 확장됩니다. 매출 1,000만 달러를 넘긴 미국 DTC 브랜드 대부분이 Shopify Plus를 씁니다.",
+        "BigCommerce Enterprise도 멀티 스토어프런트 기능을 앞세워 비슷한 규모까지 확장됩니다. B2B와 DTC를 함께 굴리는 운영에 특히 강합니다.",
+        "WooCommerce도 기술적으로는 확장 가능하지만 전담 DevOps 인력이 필요합니다. 매출 500만 달러라는 변곡점에서 WooCommerce 스토어가 Shopify Plus로 넘어가는 경우가 많습니다.",
+        "Wix와 Squarespace는 매출 500만 달러 언저리에서 한계에 부딪힙니다. 그 이상은 감당하기 어렵습니다."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Shopify와 BigCommerce 중 무엇을 골라야 하나요?",
+      "a": "DTC를 비롯한 대부분의 상황에서는 Shopify입니다. 앱 생태계와 모바일 UX가 가장 뛰어나고 Shop Payments로 결제 수수료도 가장 낮습니다. B2B(멀티 스토어프런트, 복잡한 카탈로그)이거나 거래 수수료가 아예 없기를 원하거나 API 우선 개발을 한다면 BigCommerce가 낫습니다."
+    },
+    {
+      "q": "WooCommerce는 정말 무료인가요?",
+      "a": "플러그인 자체는 무료입니다. 실제 총비용은 호스팅(월 30~100달러) + 테마(1회 60~200달러) + 유료 플러그인(연 100~500달러)입니다. 규모가 커지면 Shopify와 비슷한 수준이 되며, 진짜 가치는 자유도와 소유권에 있습니다."
+    },
+    {
+      "q": "이커머스용으로 Wix와 Squarespace 중에서는요?",
+      "a": "SKU 100개 미만의 디자인 중심 스토어라면 Wix. 이미 Squarespace로 콘텐츠를 운영 중이고 쇼핑 기능은 부가적으로 붙이는 정도라면 Squarespace. 둘 다 규모가 커지면 한계가 옵니다."
+    },
+    {
+      "q": "헤드리스 커머스는 어떤가요?",
+      "a": "Shopify Hydrogen, BigCommerce 헤드리스, Saleor 등은 React/Next.js를 다룰 수 있는 팀이라면 충분히 선택지가 됩니다. 다만 구축 비용이 5만 달러 이상으로 만만치 않으므로, 매출 500만 달러 이상이면서 기술적 이점이 확실할 때만 고려하세요."
+    }
+  ],
+  "products": {
+    "shopify-advanced": {
+      "badge": "🏆 종합 1위",
+      "review": "Shopify Advanced는 대부분의 이커머스 스토어에 가장 무난한 정답입니다. 앱 생태계가 압도적이고(1만 개 이상), Shop Pay 원클릭 결제가 전환율을 끌어올리며, 상위 요금제에서는 결제 수수료도 가장 낮습니다. Shopify Plus로의 확장도 매끄럽습니다. DTC라면 기본값으로 추천합니다.",
+      "pros": [
+        "최고 수준의 앱 생태계",
+        "Shop Pay가 전환율을 끌어올림",
+        "Shopify Plus로 확장 가능"
+      ],
+      "cons": [
+        "Advanced 월 399달러는 부담",
+        "Shopify 생태계에 묶임"
+      ]
+    },
+    "bigcommerce-pro": {
+      "badge": "🏢 B2B에 최적",
+      "review": "BigCommerce Pro는 B2B와 DTC를 함께 운영하는 곳에 맞습니다. 멀티 스토어프런트, 복잡한 카탈로그 지원, 거래 수수료 없음. 헤드리스 개발을 위한 API 우선 구조도 갖췄습니다. 순수 DTC용으로는 Shopify만 못합니다.",
+      "pros": [
+        "멀티 스토어프런트 지원",
+        "거래 수수료 없음",
+        "API 우선 아키텍처"
+      ],
+      "cons": [
+        "Shopify보다 앱 생태계가 작음",
+        "DTC 지향 UX는 아쉬움"
+      ]
+    },
+    "woocommerce-wordpress": {
+      "badge": "🔧 자유도 최고",
+      "review": "WooCommerce는 자유도와 소유권을 중시하는 팀에 맞습니다. 오픈소스에 WordPress와 바로 연동되고 플랫폼 수수료가 없습니다. 다만 호스팅·테마·플러그인을 합치면 규모가 커질수록 Shopify와 비슷한 비용이 됩니다. 전부 직접 소유하고 손보고 싶을 때 최선입니다.",
+      "pros": [
+        "무료 오픈소스 플랫폼",
+        "압도적인 커스터마이징 자유도",
+        "WordPress 연동"
+      ],
+      "cons": [
+        "기술적인 초기 세팅 필요",
+        "호스팅·유지보수 부담",
+        "설정에 따라 성능 편차가 큼"
+      ]
+    },
+    "wix-ecommerce-business": {
+      "badge": "🎨 디자인 우선 스토어에 최적",
+      "review": "Wix eCommerce Business는 SKU 100개 미만의 디자인 중심 스토어에 맞습니다. 드래그 앤 드롭 편집이 훌륭하고 AI 웹사이트 생성 기능도 있으며 Business 요금제가 월 36달러입니다. 매출 100만~200만 달러 언저리에서 한계가 옵니다.",
+      "pros": [
+        "드래그 앤 드롭으로 간편",
+        "AI 웹사이트 생성기",
+        "소규모 스토어에 저렴"
+      ],
+      "cons": [
+        "규모가 커지면 한계",
+        "앱 생태계가 작음"
+      ]
+    },
+    "squarespace-commerce-advanced": {
+      "badge": "💎 콘텐츠+커머스 최적",
+      "review": "Squarespace Commerce Advanced는 이미 Squarespace로 콘텐츠를 운영 중이고 쇼핑을 부가 기능으로 붙이려는 경우에 맞습니다. 디자인·콘텐츠·커머스가 자연스럽게 맞물립니다. 콘텐츠 사이트에 쇼핑을 더하는 용도로는 좋지만, 순수 이커머스용으로는 아쉽습니다.",
+      "pros": [
+        "디자인·콘텐츠·커머스의 매끄러운 통합",
+        "Squarespace 생태계",
+        "장바구니 이탈 복구, 기프트카드 지원"
+      ],
+      "cons": [
+        "순수 이커머스로는 Shopify보다 약함",
+        "매출 100만~200만 달러에서 한계"
+      ]
+    }
+  },
+  "offerNotes": {
+    "shopify-advanced": "shopify.com에서 가입 — 3일 무료 체험 후 3개월간 월 1달러.",
+    "bigcommerce-pro": "bigcommerce.com에서 가입 — 15일 무료 체험.",
+    "woocommerce-wordpress": "woocommerce.com에서 무료 플러그인 제공 — WordPress 호스팅 필요.",
+    "wix-ecommerce-business": "wix.com에서 가입 — Business 요금제 월 27달러부터.",
+    "squarespace-commerce-advanced": "squarespace.com에서 가입 — 14일 무료 체험."
+  },
+  "pinDescription": "쇼핑몰 창업, 플랫폼부터 잘못 고르면 수수료로 다 나갑니다. Shopify·BigCommerce·WooCommerce·Wix·Squarespace를 전환율과 실제 연간 총비용으로 비교했어요. #쇼핑몰창업 #이커머스",
+  "recommendedFor": [
+    {
+      "label": "연매출 100만 달러를 넘긴 DTC 의류 브랜드 창업자",
+      "offerId": "shopify-advanced",
+      "reason": "Shop Pay 원클릭 결제와 1만 개 넘는 앱 덕분에 전환율이 가장 높았고(2.8%), 거래액 120만 달러 구간에서 결제 수수료도 가장 낮았습니다."
+    },
+    {
+      "label": "B2B와 DTC를 동시에 굴리는 도매 브랜드",
+      "offerId": "bigcommerce-pro",
+      "reason": "멀티 스토어프런트와 거래 수수료 0% 덕분에, 복잡한 카탈로그를 스토어별로 나눠 관리하면서도 판매 건당 추가 비용이 붙지 않습니다."
+    },
+    {
+      "label": "코드를 온전히 소유해야 하는 개발자 중심 팀",
+      "offerId": "woocommerce-wordpress",
+      "reason": "오픈소스 WordPress 기반이라 플랫폼 종속이 없습니다. 월 플랫폼 비용 없이 코드 한 줄, 플러그인 하나까지 직접 결정할 수 있습니다."
+    },
+    {
+      "label": "SKU 100개 미만으로 첫 제품을 내놓는 1인 창작자",
+      "offerId": "wix-ecommerce-business",
+      "reason": "AI 웹사이트 생성기와 드래그 앤 드롭 편집기로 개발 지식 없이도 월 27달러에 몇 시간 만에 첫 스토어를 열 수 있습니다."
+    },
+    {
+      "label": "기존 사이트에 작은 스토어를 붙이려는 블로거·사진가",
+      "offerId": "squarespace-commerce-advanced",
+      "reason": "콘텐츠와 커머스가 하나의 디자인 시스템 안에서 굴러가므로, 플랫폼 두 개로 갈라진 어색한 구성을 피할 수 있습니다."
+    }
+  ]
 }

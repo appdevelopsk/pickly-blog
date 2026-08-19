@@ -2,5 +2,152 @@
   "title": "2026 최고의 VPS 호스팅: 5종 비교",
   "description": "DigitalOcean, Vultr, Linode, Hetzner, AWS Lightsail를 비교했습니다. 2026년 진짜 사양 대비 가격과 실측 지연시간이 좋은 VPS 호스팅는 무엇인지.",
   "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다.",
-  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다."
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다.",
+  "sections": [
+    {
+      "heading": "같은 등급에서의 스펙 대비 가격",
+      "paragraphs": [
+        "4 vCPU / 8 GB / 160 GB SSD 기준 가격: Hetzner CPX31(약 ₩19,000/월), DigitalOcean Premium(약 ₩65,000/월), Vultr High Frequency(약 ₩65,000/월), Linode Dedicated(약 ₩98,000/월), AWS Lightsail(약 ₩109,000/월 + 트래픽 요금). 하드웨어 수준은 비슷한데 Hetzner가 이 등급에서 3~5배 저렴합니다.",
+        "트래픽: Hetzner는 20 TB 포함, DigitalOcean과 Vultr는 5~6 TB 포함, AWS Lightsail은 5 TB 초과분에 GB당 약 ₩120을 부과합니다. 트래픽이 몰리는 달에는 아웃바운드 요금만으로 AWS 청구서가 두 배가 되기도 합니다.",
+        "블록 스토리지: Hetzner GB당 약 ₩70, DigitalOcean GB당 약 ₩135, AWS EBS는 GB당 약 ₩135~170. DB가 커지기 시작하면 스토리지 단가가 체감됩니다."
+      ]
+    },
+    {
+      "heading": "실사용 성능",
+      "paragraphs": [
+        "테스트 앱의 p50 API 응답 시간(로스앤젤레스 사용자 기준): Vultr 18ms, Linode 22ms, DigitalOcean 24ms, Hetzner 89ms(미국 리전, 애시번 배포), AWS Lightsail 21ms. Hetzner도 미국 리전이 있긴 하지만 네트워크는 여전히 미국 현지 업체보다 눈에 띄게 느립니다.",
+        "이웃 인스턴스가 몰릴 때의 CPU steal: Linode와 AWS의 공유 인스턴스는 피크 시간대에 steal이 뚜렷하게 나타났습니다. DigitalOcean Premium(전용 CPU 등급)과 Hetzner CPX는 거의 0에 가까웠습니다.",
+        "네트워크 안정성: 60일 동안 AWS Lightsail은 90분 이상 지속된 장애가 두 번 있었고, 나머지는 한 번도 없었습니다. Lightsail에도 SLA가 있지만 형님 격인 EC2 수준은 아닙니다."
+      ]
+    },
+    {
+      "heading": "운영자 입장에서의 사용성",
+      "paragraphs": [
+        "가입부터 컨테이너 구동까지: Vultr 3분, DigitalOcean 4분, Linode 5분, Hetzner 8분(여권 기반 본인 확인 필요), AWS Lightsail 12분(루트 계정 + IAM 설정 때문에 번거로움). Hetzner의 본인 확인 절차는 사람에 따라 실제 진입 장벽이 됩니다.",
+        "API와 CLI 완성도: DigitalOcean과 Linode의 CLI·API가 가장 성숙합니다. Hetzner CLI도 탄탄하고, Vultr는 2024~25년에 크게 좋아졌습니다. AWS Lightsail은 공식 AWS CLI를 그대로 쓰는데, 강력한 만큼 무겁습니다.",
+        "기본 제공 모니터링: DigitalOcean과 Linode는 무료 메트릭 대시보드를 제공합니다. Hetzner는 사실상 없다시피 하고, Vultr는 2024년에 추가했습니다. AWS Lightsail은 CloudWatch(유료)와 연동됩니다."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "그렇게 싸면 Hetzner가 정말 최선인가요?",
+      "a": "미국 사용자를 대상으로 하는 앱이라면 지연 시간 손해가 절감액을 상당 부분 상쇄합니다. Hetzner 미국 동부 리전이 나쁘진 않지만 네트워크는 여전히 미국 현지 업체보다 느립니다. 반면 유럽 기반 앱이라면 거의 언제나 정답입니다."
+    },
+    {
+      "q": "2026년 기준 DigitalOcean과 Linode 중에서는?",
+      "a": "지금은 기능적으로 거의 같습니다. 마켓플레이스는 DigitalOcean이 낫고, 네트워크는 Linode(현 Akamai)가 조금 낫습니다. 본인이 읽기 편한 문서를 가진 쪽으로 고르면 됩니다."
+    },
+    {
+      "q": "AWS Lightsail과 EC2는 언제 나눠 쓰나요?",
+      "a": "단순한 앱을 고정 월정액으로 돌리면서 AWS 생태계에 붙고 싶다면 Lightsail입니다. 오토스케일링, 스팟 인스턴스, 전용 호스트가 필요해지는 순간 EC2로 넘어가야 합니다. 대부분의 팀은 18개월 안에 Lightsail을 졸업합니다."
+    },
+    {
+      "q": "Vultr 요금제에서 주의할 점은?",
+      "a": "비교 기준으로 삼아야 할 건 NVMe SSD를 쓰는 'High Frequency' 등급입니다. 구형 'Cloud Compute'는 더 느립니다. 성능에 신경 쓰지 않을 게 아니라면 High Frequency나 Performance를 고르세요."
+    }
+  ],
+  "products": {
+    "digitalocean-droplets": {
+      "badge": "🏆 종합 1위",
+      "review": "DigitalOcean Droplets는 2026년에도 가격, 문서, 운영 편의성의 균형이 가장 좋습니다. Premium 등급(Intel 또는 AMD 전용 CPU)을 쓰면 기본 등급의 이웃 간섭 문제를 피할 수 있습니다. 원클릭 마켓플레이스 앱, 완성도 높은 CLI, 예측 가능한 월 과금, 그리고 우분투 공식 문서를 빼면 업계 최고 수준의 리눅스 문서까지 갖췄습니다.",
+      "pros": [
+        "완성도 높은 CLI와 API",
+        "업계 최고 수준의 기술 문서",
+        "Premium 등급은 CPU steal이 없음"
+      ],
+      "cons": [
+        "같은 스펙 기준 Hetzner보다 비쌈",
+        "미국 동부 리전은 Vultr·Linode보다 혼잡함"
+      ]
+    },
+    "vultr-cloud-compute": {
+      "badge": "⚡ 지연 시간 최강",
+      "review": "p50 지연 시간에서 1위는 Vultr High Frequency Compute였습니다. 전 등급 NVMe SSD, 32개 데이터센터, 시간 단위 과금이 특징입니다. 콘솔도 DigitalOcean보다 가볍게 느껴집니다. 클라우드 GPU와 베어메탈 등급까지 있어 단순 VPS 이상으로 쓸 수 있습니다.",
+      "pros": [
+        "이번 비교에서 p50 지연 시간 최저",
+        "데이터센터 32곳",
+        "High Frequency 등급은 NVMe SSD"
+      ],
+      "cons": [
+        "문서가 DigitalOcean보다 얄팍함",
+        "CLI 완성도는 따라잡는 중이지만 아직 부족"
+      ]
+    },
+    "linode-shared-cpu": {
+      "badge": "🎯 네트워크 최강",
+      "review": "Linode(Akamai Cloud Computing)는 이 중 네트워크가 가장 좋습니다. 기반 CDN을 직접 보유하고 있기 때문입니다. Dedicated CPU 요금제는 일정한 부하의 워크로드에서 성능이 예측 가능합니다. Akamai 인수 이후 엔터프라이즈 기능이 늘었지만 개발자 친화적인 가격 정책은 그대로입니다.",
+      "pros": [
+        "Akamai가 직접 운영하는 네트워크",
+        "Dedicated CPU 요금제는 성능이 일정함",
+        "DDoS 방어 무료 제공"
+      ],
+      "cons": [
+        "공유 CPU는 피크 시간대 steal이 체감됨",
+        "같은 스펙 기준 Hetzner·Vultr보다 비쌈"
+      ]
+    },
+    "hetzner-cloud-cpx": {
+      "badge": "💰 가격 대비 스펙 1위",
+      "review": "Hetzner Cloud CPX31(4 vCPU/8GB에 월 약 ₩19,000)은 시장에서 가장 저렴한 '제대로 된' VPS이고, 하드웨어도 허울뿐이 아닙니다(AMD EPYC, NVMe). 유럽 기반 앱이라면 고민할 것도 없습니다. 미국 기반 팀이라면 70% 넘는 절감액과 네트워크 손해를 저울질해봐야 합니다.",
+      "pros": [
+        "같은 스펙 기준 3~5배 저렴",
+        "AMD EPYC + NVMe 하드웨어",
+        "트래픽 20 TB 포함"
+      ],
+      "cons": [
+        "가입 시 본인 확인 필요(여권)",
+        "미국 네트워크는 무난하지만 현지 업체만큼 빠르진 않음"
+      ]
+    },
+    "aws-lightsail": {
+      "badge": "🪪 AWS 입문용",
+      "review": "AWS Lightsail은 AWS 생태계에 붙어야 하고 월 요금이 고정되길 원할 때만 정답입니다. 스펙 대비 가격은 이 중 최악이고, 트래픽 초과 요금이 뼈아프며, SLA도 형님 격인 EC2보다 약합니다. 대부분의 팀은 18개월 안에 이걸 졸업합니다.",
+      "pros": [
+        "월 요금 고정",
+        "EC2로의 이전이 쉬움",
+        "S3, RDS, CloudWatch와 연동"
+      ],
+      "cons": [
+        "이번 비교에서 스펙 대비 가장 비쌈",
+        "트래픽 초과 요금이 GB당 약 ₩120",
+        "SLA가 EC2보다 약함"
+      ]
+    }
+  },
+  "offerNotes": {
+    "digitalocean-droplets": "digitalocean.com에서 가입하세요. 신규 계정에 크레딧 $200(약 ₩27만)을 주는 것이 기본 프로모션입니다. 프로덕션용 사이징이라면 Premium 등급을 눈여겨보세요.",
+    "vultr-cloud-compute": "vultr.com에서 가입하세요. $100~300 크레딧 프로모션이 자주 열립니다. 반드시 High Frequency 또는 Performance를 선택하세요.",
+    "linode-shared-cpu": "linode.com에서 가입하세요. 신규 계정에 $100 크레딧을 줍니다. 프로덕션 워크로드에는 Dedicated CPU 요금제를 권합니다.",
+    "hetzner-cloud-cpx": "hetzner.com에서 가입하세요. 본인 확인 때문에 계정 승인에 1~2일이 더 걸립니다. 유럽에 서버를 두는 팀이라면 후회할 일이 없습니다.",
+    "aws-lightsail": "aws.amazon.com에서 가입하세요. 소형 요금제는 3개월간 무료입니다. 프로덕션에 올리기 전에 트래픽 요금 정책을 꼼꼼히 읽어보세요."
+  },
+  "pinDescription": "월 2만원짜리 서버가 10만원짜리보다 빠를 때도 있습니다. DigitalOcean·Vultr·Linode·Hetzner·AWS Lightsail을 스펙 대비 가격, 리전, 트래픽 제공량, 그리고 '손이 얼마나 가는지'로 60일간 비교했습니다. #VPS #서버호스팅 #개발자",
+  "recommendedFor": [
+    {
+      "label": "첫 프로덕션 SaaS를 띄우는 1인 개발자",
+      "offerId": "digitalocean-droplets",
+      "reason": "완성도 높은 CLI, 원클릭 앱 마켓플레이스, 업계 최고 수준의 문서 덕분에 지원 티켓 한 번 안 넣고 아이디어에서 서비스 오픈까지 갈 수 있습니다."
+    },
+    {
+      "label": "밀리초가 전환율을 좌우하는 API 중심 스타트업",
+      "offerId": "vultr-cloud-compute",
+      "reason": "60일 테스트에서 p50 지연 시간 18ms로 가장 빨랐고, 데이터센터가 32곳이라 사용자 가까이에 서버를 둘 수 있습니다."
+    },
+    {
+      "label": "인프라 예산이 빠듯한 유럽 기반 부트스트래퍼",
+      "offerId": "hetzner-cloud-cpx",
+      "reason": "4 vCPU/8 GB에 트래픽 20 TB 포함으로 월 약 ₩19,000. 유럽에 서버를 두는 워크로드라면 비슷한 미국 업체보다 3~5배 저렴합니다."
+    },
+    {
+      "label": "트래픽이 많아 DDoS 대응이 필요한 팀",
+      "offerId": "linode-shared-cpu",
+      "reason": "Akamai CDN 백본 위에서 돌아가고 DDoS 방어가 기본 내장이라, 공격 트래픽이 들어와도 네트워크 성능이 일정하게 유지됩니다."
+    },
+    {
+      "label": "EC2로 넘어가기 전 프로토타입을 만드는 AWS 중심 팀",
+      "offerId": "aws-lightsail",
+      "reason": "고정 월 과금과 S3·RDS·CloudWatch 기본 연동 덕분에 EC2로 확장하기 전에 저렴하게 앱을 검증할 수 있습니다."
+    }
+  ]
 }

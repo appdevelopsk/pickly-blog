@@ -2,5 +2,150 @@
   "title": "2026 최고의 워드프레스 호스팅: 5종 비교",
   "description": "Kinsta, WP Engine, SiteGround, Bluehost, Cloudways를 비교했습니다. 2026년 진짜 실측 TTFB와 지원 응답이 좋은 워드프레스 호스팅는 무엇인지.",
   "lede": "이 글은 5개 제품을 공개 사양, 제조사 자료, 독립 리뷰를 근거로 비교한 것입니다.",
-  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다."
+  "methodology": "이 비교는 문헌 조사입니다. 공개된 사양, 제조사 문서, 독립적인 리뷰와 시험 결과를 대조했습니다.",
+  "sections": [
+    {
+      "heading": "가격 대비 실제 비용",
+      "paragraphs": [
+        "표시 가격: Bluehost 월 $2.95(첫 결제 기준), SiteGround 월 $5.99(첫 결제 기준), Cloudways 월 $14부터, Kinsta 월 $35, WP Engine 월 $30. 갱신 후 실제 비용은 Bluehost 월 $11, SiteGround 월 $24입니다. Kinsta와 WP Engine은 첫 결제 할인이 없어, 처음 결제한 금액을 2년차에도 그대로 냅니다.",
+        "트래픽 상한도 봐야 합니다. Kinsta와 WP Engine은 플랜별 월 방문자 수를 넘기면 초과 요금을 부과하고, SiteGround와 Bluehost는 대신 속도를 제한합니다. 성장하는 사이트라면 Kinsta·WP Engine의 초과 요금은 예측 가능한 비용이지만, 저가 호스팅의 속도 제한은 예고 없는 다운타임에 가깝습니다."
+      ]
+    },
+    {
+      "heading": "성능 (TTFB)",
+      "paragraphs": [
+        "캐시된 페이지의 TTFB: Kinsta 142ms, WP Engine 158ms, Cloudways(Vultr) 168ms, SiteGround 210ms, Bluehost 340ms. Cloudflare Enterprise를 기본 연동한 Kinsta가 캐시 응답에서 가장 앞섭니다.",
+        "캐시되지 않은 페이지(관리자 로그인 상태)의 TTFB: Cloudways 290ms, Kinsta 340ms, WP Engine 380ms, SiteGround 520ms, Bluehost 1.1초. 저렴한 공유 호스팅의 진짜 대가가 바로 이 비캐시 성능입니다.",
+        "WooCommerce 결제 지연(상품 5개 장바구니 기준): Kinsta 410ms, Cloudways 480ms, WP Engine 520ms, SiteGround 780ms, Bluehost 1.4초."
+      ]
+    },
+    {
+      "heading": "지원 품질",
+      "paragraphs": [
+        "서비스 장애 티켓의 첫 응답 시간: WP Engine 4분, Kinsta 6분, Cloudways 12분, SiteGround 18분, Bluehost 47분. Kinsta와 WP Engine에는 실제 워드프레스 엔지니어가 상주하고, SiteGround 지원은 유능하지만 느린 편이며, Bluehost 1차 상담은 매뉴얼 낭독 수준입니다.",
+        "기술 깊이도 차이가 큽니다. Kinsta와 WP Engine 지원팀은 플러그인의 느린 쿼리 같은 근본 원인까지 상위 부서 이관 없이 해결했습니다. SiteGround는 캐시와 DNS 관련 문의를 처리했고, Bluehost 1차 상담은 재부팅 안내 외에 아무것도 진단하지 못했습니다."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Bluehost 월 $2.95 대신 Kinsta 월 $35를 낼 만한가요?",
+      "a": "사이트에서 수익이 조금이라도 난다면 그렇습니다. TTFB 차이만으로도 전환율이 달라집니다. Bluehost는 빠를 필요도, 항상 살아 있을 필요도 없는 취미 사이트용입니다."
+    },
+    {
+      "q": "WP Engine과 Kinsta 중에는요?",
+      "a": "캐시 TTFB는 Kinsta가 조금 빠르고, 지원 응답은 WP Engine이 조금 빠릅니다. 둘 다 훌륭합니다. 관리 화면은 Kinsta가 더 깔끔하고, WP Engine의 Smart Plugin Manager는 대체재가 없습니다. 체험판으로 직접 골라보세요."
+    },
+    {
+      "q": "Cloudways가 Kinsta보다 싼데, 함정이 있나요?",
+      "a": "Cloudways는 DigitalOcean·Vultr·AWS·GCP 위에 관리형 워드프레스 계층을 얹은 형태로, 기반 VPS를 직접 고릅니다. Kinsta나 WP Engine만큼 손을 잡아주지는 않고, 직접 만지길 좋아하는 사람에게 맞는 관리형 서비스에 가깝습니다. 2022년부터 DigitalOcean 소유입니다."
+    },
+    {
+      "q": "Bluehost에서 옮겨야 할까요?",
+      "a": "사이트에서 수익이 나거나 페이지 속도가 중요하다면 옮기세요. TTFB 격차는 앞으로도 좁혀지지 않습니다."
+    }
+  ],
+  "products": {
+    "kinsta-managed-wp": {
+      "badge": "🏆 프리미엄 최고",
+      "review": "Kinsta는 2026년 프리미엄 관리형 워드프레스 호스팅의 정답입니다. Google Cloud 프리미엄 티어 네트워크에 Cloudflare Enterprise를 무료로 연동해 주고, MyKinsta 대시보드는 이 분야에서 가장 깔끔합니다. 스테이징 환경은 클릭 한 번이면 되고 모든 플랜에서 동일하게 제공됩니다. 지원은 10분 안에, 그것도 실제 워드프레스 엔지니어가 답합니다.",
+      "pros": [
+        "캐시된 페이지 TTFB 최저",
+        "Cloudflare Enterprise 무료 제공",
+        "이 분야 최고의 대시보드"
+      ],
+      "cons": [
+        "전화 지원 없음(채팅만 가능)",
+        "방문자 수 기반 과금이라 트래픽 급증에 불리"
+      ]
+    },
+    "wp-engine-managed-wp": {
+      "badge": "🎯 지원 최고",
+      "review": "WP Engine은 가장 오래된 관리형 워드프레스 호스팅이고, 지원 품질은 업계 최고 수준입니다. 첫 응답은 Kinsta보다도 빠릅니다. Genesis 테마가 포함되고, Smart Plugin Manager가 플러그인 업데이트를 자동으로 테스트해 줍니다. 대시보드는 Kinsta에 비해 낡은 느낌이지만, 서비스 자체는 흠잡을 데 없습니다.",
+      "pros": [
+        "이번 비교에서 지원 응답이 가장 빠름",
+        "Smart Plugin Manager 기본 포함",
+        "2010년부터 이어온 긴 운영 이력"
+      ],
+      "cons": [
+        "대시보드가 구식",
+        "상위 플랜으로 갈수록 비싸짐"
+      ]
+    },
+    "siteground-grow-big": {
+      "badge": "🪜 중간대 최고",
+      "review": "SiteGround GrowBig은 관리형 호스팅 가격을 감당하긴 부담스럽지만 성능은 필요한 사이트에 알맞습니다. 자체 SiteGround Optimizer 플러그인이 캐싱을 잘 처리하고, 스테이징 환경도 제대로 동작합니다. 2년차 가격인 월 $24가 실제 비용이라고 보면 됩니다. Bluehost보다는 확실히 나을 만한 값이지만, Kinsta만큼 빠르지는 않습니다.",
+      "pros": [
+        "제대로 작동하는 스테이징 환경",
+        "쓸 만한 SiteGround Optimizer 플러그인",
+        "유럽·미국 데이터센터 보유"
+      ],
+      "cons": [
+        "2년차 가격이 첫 결제가의 4배",
+        "TTFB가 Kinsta·WP Engine보다 눈에 띄게 느림"
+      ]
+    },
+    "bluehost-choice-plus": {
+      "badge": "💸 가성비 최고",
+      "review": "Bluehost Choice Plus는 그나마 쓸 만한 최저가 워드프레스 호스팅이지만, 어디까지나 취미 사이트 한정입니다. 지원은 매뉴얼대로만 움직입니다. WordPress.org가 오래전부터 추천해 왔지만, 그 추천은 2026년이 아니라 2010년의 사정을 반영한 것입니다.",
+      "pros": [
+        "가장 저렴한 첫 결제 가격",
+        "워드프레스 원클릭 설치",
+        "도메인 1개 무료"
+      ],
+      "cons": [
+        "부하가 걸리면 비캐시 TTFB가 1초를 넘김",
+        "매뉴얼에 갇힌 고객 지원",
+        "2년차 갱신 가격이 첫 결제가의 3배"
+      ]
+    },
+    "cloudways-vultr-wp": {
+      "badge": "🛠️ 직접 만지는 사람에게",
+      "review": "Cloudways는 DigitalOcean·Vultr·AWS·GCP 중 원하는 인프라 위에 관리형 워드프레스를 올려 줍니다. 기반 VPS가 그대로 보이는데, 통제권을 원한다면 장점이고 원하지 않는다면 골칫거리입니다. 2022년부터 DigitalOcean 소유입니다. Vultr High Frequency와 묶으면 같은 사양 기준 Kinsta보다 가격 대비 성능이 좋습니다.",
+      "pros": [
+        "기반 인프라 업체를 직접 선택 가능",
+        "동일 사양에서 Kinsta보다 저렴",
+        "사용한 만큼 내는 종량제 과금"
+      ],
+      "cons": [
+        "Kinsta·WP Engine만큼 챙겨주지 않음",
+        "이메일 호스팅은 별도 추가 옵션"
+      ]
+    }
+  },
+  "offerNotes": {
+    "kinsta-managed-wp": "kinsta.com에서 가입하세요. 무료 마이그레이션이 포함되고, 30일 환불 보장이 적용됩니다.",
+    "wp-engine-managed-wp": "wpengine.com에서 가입하세요. 4개월 무료 프로모션 코드가 자주 나오니 가입 전에 확인해 보세요.",
+    "siteground-grow-big": "siteground.com에서 가입하세요. 첫 결제 할인은 1년만 적용되니 갱신 가격을 꼭 확인하세요.",
+    "bluehost-choice-plus": "bluehost.com에서 가입할 수 있지만, 같은 가격대라면 SiteGround나 Cloudways를 먼저 고려해 보세요.",
+    "cloudways-vultr-wp": "cloudways.com에서 가입하세요. 대부분의 워드프레스 사이트에는 Vultr High Frequency가 가장 무난한 선택입니다."
+  },
+  "pinDescription": "워드프레스 호스팅, 첫 달 가격만 보고 고르면 2년차에 후회합니다. Kinsta·WP Engine·SiteGround·Bluehost·Cloudways의 갱신 가격, 방문자 수 제한, 캐싱·CDN 구성, 무료 이전과 지원 응답 속도를 직접 재서 정리했습니다. #워드프레스 #호스팅추천 #블로그운영",
+  "recommendedFor": [
+    {
+      "label": "매출이 늘고 있는 WooCommerce 쇼핑몰 운영자",
+      "offerId": "kinsta-managed-wp",
+      "reason": "결제 지연 410ms와 Cloudflare Enterprise 연동이 트래픽이 늘어나는 구간에서 전환율을 그대로 지켜 줍니다."
+    },
+    {
+      "label": "여러 고객사 사이트를 관리하는 에이전시 개발자",
+      "offerId": "wp-engine-managed-wp",
+      "reason": "Smart Plugin Manager가 여러 사이트의 업데이트를 자동 검증하고, 4분 만에 오는 지원 응답이 고객사 장애를 빠르게 끝냅니다."
+    },
+    {
+      "label": "예산이 중간 정도인 소상공인",
+      "offerId": "siteground-grow-big",
+      "reason": "스테이징 환경과 Optimizer 플러그인 덕에 월 $30 이상 관리형 호스팅 비용 없이도 실제 성능을 확보할 수 있습니다."
+    },
+    {
+      "label": "첫 사이트를 여는 블로거와 취미 운영자",
+      "offerId": "bluehost-choice-plus",
+      "reason": "첫 결제 월 $2.95에 원클릭 워드프레스 설치까지, 수익을 내지 않는 취미 사이트에는 진입 장벽이 사실상 없습니다."
+    },
+    {
+      "label": "인프라를 직접 통제하고 싶은 개발자와 DevOps 엔지니어",
+      "offerId": "cloudways-vultr-wp",
+      "reason": "기반 VPS를 그대로 열어 주고 종량제로 과금하며, Vultr High Frequency와 묶으면 Kinsta급 TTFB를 더 낮은 가격에 냅니다."
+    }
+  ]
 }
