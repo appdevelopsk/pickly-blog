@@ -2,5 +2,150 @@
   "title": "perangkat lunak HR Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan BambooHR, Rippling, Gusto, Workday, Deel. Inilah perangkat lunak HR 2026 yang benar-benar unggul dalam hal kecepatan onboarding dan self-service.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Kecepatan onboarding",
+      "paragraphs": [
+        "Waktu untuk melakukan onboarding satu karyawan baru (surat penawaran → seluruh sistem siap dipakai): BambooHR 2 jam (koordinasi manual), Rippling 25 menit (otomatis menyiapkan Slack/G Suite/perangkat), Gusto 45 menit (payroll bagus, fitur HR mendasar), Workday 4 jam (kompleksitas kelas enterprise), Deel 30 menit (karyawan AS), 1 jam (karyawan internasional).",
+        "Keunggulan Rippling: menyiapkan akun perangkat lunak (Slack, Google, GitHub, Notion), memesan perangkat kerja, sekaligus mengurus dokumen kepegawaian. Sebagian besar tools HR mengharuskan Anda melakukan semua itu secara manual."
+      ]
+    },
+    {
+      "heading": "Layanan mandiri karyawan",
+      "paragraphs": [
+        "Karyawan dapat mengajukan cuti, melihat slip gaji, memperbarui data pribadi, dan melihat struktur organisasi: kelima layanan mendukungnya. Kualitas UX: BambooHR > Gusto > Rippling > Deel > Workday.",
+        "Aplikasi mobile: BambooHR terbaik, Gusto kuat, Rippling memadai secara fungsi, Deel cukup, sedangkan aplikasi mobile Workday berfungsi baik tetapi terasa berat khas enterprise.",
+        "Portal dokumen/kebijakan: Rippling dan BambooHR memimpin. Gusto hanya menyediakan penyimpanan dokumen dasar. Workday punya manajemen dokumen yang kuat tetapi rumit."
+      ]
+    },
+    {
+      "heading": "Total biaya bulanan",
+      "paragraphs": [
+        "Biaya bulanan untuk 75 karyawan (paket berorientasi HR): BambooHR Essentials $99 + biaya per karyawan (total $475), Gusto Plus $60 + $12 × 75 = $960, Rippling $8 × 75 = $600 (modular, naik seiring fitur yang dipakai), Workday HCM sekitar $1.500–2.250 (berbasis penawaran, $20–30/karyawan), Deel $49/karyawan untuk payroll global dan $19/karyawan untuk AS.",
+        "Biaya tersembunyi: Workday memerlukan mitra implementasi ($30 ribu–100 ribu di awal). Rippling menagih per modul (HR, payroll, IT, dan finance terpisah). Biaya per karyawan BambooHR terasa berat begitu jumlah karyawan melewati 100 orang."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "BambooHR atau Rippling?",
+      "a": "BambooHR cocok untuk UKM yang fokus pada HR (di bawah 200 karyawan) dan menginginkan UX terbaik di kelasnya. Rippling cocok untuk perusahaan berbasis teknologi yang ingin HR + IT + Finance dalam satu platform."
+    },
+    {
+      "q": "Apakah saya butuh software HR jika karyawan di bawah 50 orang?",
+      "a": "Di bawah 30 karyawan: spreadsheet ditambah payroll Gusto biasanya sudah cukup. Setelah melewati 30 orang, Anda mulai membutuhkan pencatatan cuti yang terstruktur, penyimpanan dokumen, dan alur onboarding."
+    },
+    {
+      "q": "Bagaimana dengan Deel untuk tim yang tersebar?",
+      "a": "Deel adalah yang terbaik di kelasnya untuk karyawan dan kontraktor internasional di lebih dari 150 negara. Deel menangani kepatuhan hukum, kontrak, dan payroll global. Kurang ideal sebagai sistem HR utama bagi perusahaan yang hanya beroperasi di satu negara."
+    },
+    {
+      "q": "Workday — kapan pilihan ini masuk akal?",
+      "a": "Workday HCM ditujukan untuk skala enterprise (500+ karyawan, biaya implementasi $30 ribu ke atas). Bagi mayoritas UKM, BambooHR atau Rippling adalah pilihan yang lebih tepat. Kompleksitas Workday baru sepadan pada skala besar."
+    }
+  ],
+  "products": {
+    "bamboohr-essentials": {
+      "badge": "🏆 Terbaik untuk UKM",
+      "review": "BambooHR Essentials adalah pilihan tepat untuk UKM di bawah 200 karyawan yang berfokus pada HR. UX terbaik di kelasnya, layanan mandiri karyawan unggul, aplikasi mobile solid. Harga $99/bulan plus biaya per karyawan memang membengkak seiring pertumbuhan, tetapi waktu onboarding yang dihemat per karyawan benar-benar terasa.",
+      "pros": [
+        "UX terbaik di kelasnya",
+        "Layanan mandiri karyawan terbaik",
+        "Aplikasi mobile solid"
+      ],
+      "cons": [
+        "Biaya per karyawan membengkak di atas 100 orang",
+        "Dukungan internasional terbatas"
+      ]
+    },
+    "rippling-platform": {
+      "badge": "🏢 Platform terpadu terbaik",
+      "review": "Rippling adalah pilihan tepat untuk perusahaan berbasis teknologi yang menginginkan HR + IT + Finance dalam satu platform. Otomatis menyiapkan akun perangkat lunak, memesan perangkat kerja, dan mengurus dokumen kepegawaian. Harganya modular — Anda hanya membayar apa yang dipakai.",
+      "pros": [
+        "Otomatis menyiapkan software dan perangkat kerja",
+        "HR + IT + Finance dalam satu platform",
+        "Alur onboarding tercepat"
+      ],
+      "cons": [
+        "Harga modular bisa jadi rumit",
+        "Kurang ideal jika hanya butuh fungsi HR"
+      ]
+    },
+    "gusto-hr-plus": {
+      "badge": "💼 HR terbaik berbasis payroll",
+      "review": "Gusto Plus adalah pilihan tepat jika payroll merupakan kebutuhan utama Anda dan HR hanya pelengkap. Payroll-nya kuat, fitur HR-nya terus berkembang (cuti, onboarding, penyimpanan dokumen). Kedalaman fitur HR-nya di bawah BambooHR, tetapi paket bundelnya menghemat biaya untuk tim kecil.",
+      "pros": [
+        "Inti payroll yang kuat",
+        "Fitur HR yang terus berkembang",
+        "Nilai paket bundel menarik"
+      ],
+      "cons": [
+        "Kedalaman fitur HR di bawah BambooHR",
+        "Mulai terasa sempit di atas 100 karyawan untuk kebutuhan HR berat"
+      ]
+    },
+    "workday-hcm": {
+      "badge": "🏢 HCM enterprise terbaik",
+      "review": "Workday HCM adalah pilihan tepat untuk perusahaan dengan 500+ karyawan. Kedalaman fitur kelas enterprise (perencanaan suksesi, manajemen pembelajaran, analitik lanjutan). Implementasinya membutuhkan mitra ($30 ribu–100 ribu). Berlebihan untuk UKM.",
+      "pros": [
+        "Kedalaman fitur kelas enterprise",
+        "Analitik dan pelaporan yang kuat",
+        "HCM terdepan di industrinya"
+      ],
+      "cons": [
+        "Kompleksitas kelas enterprise",
+        "Implementasi $30 ribu–100 ribu",
+        "Harga berbasis penawaran"
+      ]
+    },
+    "deel-hr": {
+      "badge": "🌍 Terbaik untuk tim global",
+      "review": "Deel HR + Global Payroll adalah pilihan tepat untuk tim tersebar dengan karyawan dan kontraktor internasional. Mendukung lebih dari 150 negara, menangani kepatuhan hukum, kontrak, dan payroll global. Pilihan standar bagi perusahaan remote-first yang merekrut lintas negara.",
+      "pros": [
+        "Mendukung lebih dari 150 negara",
+        "Kepatuhan hukum + kontrak + payroll",
+        "Terbaik untuk tim yang tersebar"
+      ],
+      "cons": [
+        "Kurang ideal sebagai HR utama untuk satu negara saja",
+        "Harga per karyawan untuk cakupan global"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bamboohr-essentials": "Daftar di bamboohr.com — tersedia uji coba gratis.",
+    "rippling-platform": "Minta penawaran di rippling.com — harga modular.",
+    "gusto-hr-plus": "Daftar di gusto.com — fitur HR dibundel bersama payroll.",
+    "workday-hcm": "Minta penawaran di workday.com — perlu sesi dengan tim sales dan mitra implementasi.",
+    "deel-hr": "Daftar di deel.com — onboarding kontraktor bisa langsung dilakukan."
+  },
+  "pinDescription": "Bingung pilih software HR? Perbandingan BambooHR, Rippling, Gusto, Workday, dan Deel: biaya per karyawan untuk tim 75 orang, cakupan payroll, sampai rekrut karyawan lintas negara. Simpan sebelum memutuskan. #hr #saas #bisnis",
+  "recommendedFor": [
+    {
+      "label": "HR tunggal di UKM yang berkembang dengan di bawah 200 karyawan",
+      "offerId": "bamboohr-essentials",
+      "reason": "UX terbaik di kelasnya dan layanan mandiri karyawan BambooHR memungkinkan satu orang HR mengelola seluruh siklus kepegawaian tanpa kewalahan."
+    },
+    {
+      "label": "Startup teknologi yang meng-onboarding engineer beserta seluruh perangkat kerjanya",
+      "offerId": "rippling-platform",
+      "reason": "Rippling menyiapkan Slack, GitHub, dan perangkat kerja secara otomatis dalam 25 menit — menghapus beban koordinasi IT manual untuk setiap karyawan baru."
+    },
+    {
+      "label": "Pemilik usaha kecil yang mengutamakan akurasi payroll",
+      "offerId": "gusto-hr-plus",
+      "reason": "Gusto membundel payroll dan fitur HR yang terus berkembang di harga yang menghemat biaya untuk tim di bawah 100 orang, di mana payroll adalah kebutuhan inti."
+    },
+    {
+      "label": "Pimpinan HR di perusahaan dengan 500 karyawan atau lebih",
+      "offerId": "workday-hcm",
+      "reason": "Perencanaan suksesi, manajemen pembelajaran, dan analitik lanjutan Workday baru sepadan dengan biaya implementasi $30 ribu ke atas pada skala enterprise sesungguhnya."
+    },
+    {
+      "label": "Founder remote-first yang merekrut kontraktor di berbagai negara",
+      "offerId": "deel-hr",
+      "reason": "Deel menangani kepatuhan hukum, kontrak, dan payroll di lebih dari 150 negara, sehingga perekrutan global menjadi sederhana secara legal tanpa perlu mendirikan badan usaha lokal."
+    }
+  ]
 }

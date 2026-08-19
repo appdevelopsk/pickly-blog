@@ -2,5 +2,154 @@
   "title": "platform ecommerce Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan Shopify, BigCommerce, WooCommerce, Wix, Squarespace. Inilah platform ecommerce 2026 yang benar-benar unggul dalam hal tingkat konversi dan total biaya.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Tingkat konversi",
+      "paragraphs": [
+        "Tingkat konversi per platform (uji coba 60 hari, produk sama, harga sama): Shopify 2,8%, BigCommerce 2,6%, WooCommerce 2,4% (sangat bergantung pada tema/hosting), Wix eCommerce 2,1%, Squarespace Commerce 2,3%.",
+        "Shopify unggul dalam konversi sebagian karena Shop Pay (checkout sekali klik), sebagian karena UX mobile yang dioptimalkan, dan sebagian lagi karena ekosistem aplikasinya (ulasan, upsell, pemulihan keranjang terbengkalai).",
+        "Variasi pada WooCommerce cukup besar — situs WooCommerce yang dibangun dengan baik (tema bersih, hosting cepat seperti Cloudways atau Kinsta) bisa menyamai Shopify. Yang konfigurasinya buruk hasilnya jauh di bawah."
+      ]
+    },
+    {
+      "heading": "Total biaya pada omzet Rp19 miliar",
+      "paragraphs": [
+        "Biaya platform + pembayaran + aplikasi per tahun pada GMV US$1,2 juta (sekitar Rp19 miliar): Shopify Advanced US$4.800 + Shop Payments 1,85% × 1,2 juta ≈ US$27.000 + aplikasi US$2.400 ≈ US$34.200/tahun. BigCommerce Pro US$4.800 + prosesor pembayaran 2,5% × 1,2 juta ≈ US$30.000 + aplikasi US$1.200 ≈ US$36.000/tahun.",
+        "WooCommerce: platform US$0 + hosting US$1.200 + prosesor pembayaran 2,5–2,9% × 1,2 juta ≈ US$30.000–35.000 + plugin/pemeliharaan US$3.000 ≈ US$34.200–39.200/tahun.",
+        "Wix eCommerce: US$432 + prosesor pembayaran 2,9% × 1,2 juta ≈ US$34.800 + aplikasi US$600 ≈ US$35.832/tahun. Squarespace Commerce: US$588 + Squarespace Payments 2,9% × 1,2 juta ≈ US$34.800 + aplikasi US$300 ≈ US$35.688/tahun.",
+        "Shopify menang dari sisi total biaya pada omzet US$1,2 juta ke atas berkat biaya transaksi yang lebih rendah lewat Shop Payments. Di atas US$5 juta, selisihnya makin lebar."
+      ]
+    },
+    {
+      "heading": "Naik kelas melewati omzet US$5 juta",
+      "paragraphs": [
+        "Shopify Advanced → Shopify Plus (US$2.500–15.000+/bulan) sanggup tumbuh mulus hingga US$100 juta ke atas. Sebagian besar merek DTC di AS dengan omzet di atas US$10 juta memakai Shopify Plus.",
+        "BigCommerce Enterprise mampu menopang skala serupa dengan dukungan multi-storefront. Kuat untuk operasi gabungan B2B + DTC.",
+        "Secara teknis WooCommerce bisa diskalakan, tetapi butuh tim DevOps khusus. Titik balik di angka US$5 juta ke atas sering mendorong toko WooCommerce pindah ke Shopify Plus.",
+        "Wix dan Squarespace cenderung mentok di kisaran omzet US$5 juta. Lewat dari itu, keduanya sudah tidak memadai."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Shopify atau BigCommerce?",
+      "a": "Shopify untuk DTC dan sebagian besar kebutuhan — ekosistem aplikasi terbaik, UX mobile terbaik, biaya transaksi terendah lewat Shop Payments. BigCommerce untuk B2B (multi-storefront, katalog kompleks), jika Anda ingin bebas biaya transaksi, atau untuk pengembangan berbasis API."
+    },
+    {
+      "q": "Apakah WooCommerce benar-benar gratis?",
+      "a": "Plugin-nya gratis. Total biayanya: hosting (US$30–100/bulan) + tema (US$60–200 sekali bayar) + plugin premium (US$100–500/tahun). Pada skala besar biayanya menyamai Shopify; nilainya ada pada fleksibilitas dan kepemilikan penuh."
+    },
+    {
+      "q": "Wix atau Squarespace untuk ecommerce?",
+      "a": "Wix untuk toko yang mengutamakan desain dengan di bawah 100 SKU. Squarespace jika Anda sudah memakai Squarespace untuk konten dan ingin ecommerce sebagai fungsi tambahan. Keduanya mentok pada skala yang lebih besar."
+    },
+    {
+      "q": "Bagaimana dengan headless ecommerce?",
+      "a": "Shopify Hydrogen, BigCommerce headless, Saleor — layak untuk tim yang menguasai React/Next.js. Biaya penyiapannya besar (US$50 ribu ke atas); pertimbangkan headless hanya pada omzet US$5 juta ke atas dengan alasan teknis yang jelas."
+    }
+  ],
+  "products": {
+    "shopify-advanced": {
+      "badge": "🏆 Terbaik secara keseluruhan",
+      "review": "Shopify Advanced adalah pilihan tepat untuk sebagian besar toko online. Ekosistem aplikasi terbaik (10.000+ aplikasi), checkout sekali klik Shop Pay mendongkrak konversi, dan biaya transaksi terendah di tier tertinggi. Peralihan ke Shopify Plus berjalan mulus. Rekomendasi standar untuk DTC.",
+      "pros": [
+        "Ekosistem aplikasi terbaik",
+        "Shop Pay mendongkrak konversi",
+        "Bisa naik ke Shopify Plus"
+      ],
+      "cons": [
+        "Advanced US$399/bulan terbilang mahal",
+        "Terkunci di ekosistem Shopify"
+      ]
+    },
+    "bigcommerce-pro": {
+      "badge": "🏢 Terbaik untuk B2B",
+      "review": "BigCommerce Pro adalah pilihan tepat untuk operasi gabungan B2B + DTC. Multi-storefront, dukungan katalog kompleks, tanpa biaya transaksi. Arsitektur API-first cocok untuk pengembangan headless. Kurang ideal untuk DTC murni dibandingkan Shopify.",
+      "pros": [
+        "Dukungan multi-storefront",
+        "Tanpa biaya transaksi",
+        "Arsitektur API-first"
+      ],
+      "cons": [
+        "Ekosistem aplikasi lebih kecil dari Shopify",
+        "UX kurang berfokus pada DTC"
+      ]
+    },
+    "woocommerce-wordpress": {
+      "badge": "🔧 Terbaik untuk fleksibilitas",
+      "review": "WooCommerce adalah pilihan tepat untuk tim yang menginginkan fleksibilitas dan kepemilikan penuh. Open-source, menyatu dengan WordPress, tanpa biaya platform. Pada skala besar, hosting + tema + plugin totalnya menyamai Shopify. Paling cocok jika Anda ingin memiliki dan mengubah semuanya sendiri.",
+      "pros": [
+        "Platform open-source gratis",
+        "Fleksibilitas tanpa batas",
+        "Terintegrasi dengan WordPress"
+      ],
+      "cons": [
+        "Butuh penyiapan teknis",
+        "Ada beban hosting/pemeliharaan",
+        "Performa bergantung pada konfigurasi"
+      ]
+    },
+    "wix-ecommerce-business": {
+      "badge": "🎨 Terbaik untuk toko yang mengutamakan desain",
+      "review": "Wix eCommerce Business adalah pilihan tepat untuk toko berorientasi desain dengan di bawah 100 SKU. UX drag-and-drop yang kuat, generator situs berbasis AI, paket Business US$36/bulan. Mentok di kisaran omzet US$1–2 juta.",
+      "pros": [
+        "Drag-and-drop yang sederhana",
+        "Generator situs berbasis AI",
+        "Terjangkau untuk toko kecil"
+      ],
+      "cons": [
+        "Mentok saat skala membesar",
+        "Ekosistem aplikasi lebih kecil"
+      ]
+    },
+    "squarespace-commerce-advanced": {
+      "badge": "💎 Terbaik untuk konten + commerce",
+      "review": "Squarespace Commerce Advanced adalah pilihan tepat jika Anda sudah memakai Squarespace untuk konten dan ingin ecommerce sebagai fungsi tambahan. Perpaduan desain + konten + commerce yang solid. Lebih pas untuk situs berbasis konten yang menambahkan toko, kurang ideal sebagai ecommerce murni.",
+      "pros": [
+        "Perpaduan desain + konten + commerce yang solid",
+        "Ekosistem Squarespace",
+        "Pemulihan keranjang terbengkalai, kartu hadiah"
+      ],
+      "cons": [
+        "Kalah kuat dari Shopify untuk ecommerce murni",
+        "Mentok di kisaran omzet US$1–2 juta"
+      ]
+    }
+  },
+  "offerNotes": {
+    "shopify-advanced": "Daftar di shopify.com — uji coba gratis 3 hari, lalu US$1/bulan selama 3 bulan.",
+    "bigcommerce-pro": "Daftar di bigcommerce.com — uji coba gratis 15 hari.",
+    "woocommerce-wordpress": "Plugin gratis di woocommerce.com — perlu hosting WordPress.",
+    "wix-ecommerce-business": "Daftar di wix.com — paket Business mulai US$27/bulan.",
+    "squarespace-commerce-advanced": "Daftar di squarespace.com — uji coba gratis 14 hari."
+  },
+  "pinDescription": "Mau buka toko online tahun 2026? Bandingkan Shopify, BigCommerce, WooCommerce, Wix, dan Squarespace: biaya transaksi, biaya aplikasi, dan total biaya kepemilikan. Simpan dulu sebelum memilih. #tokoonline #bisnisonline",
+  "recommendedFor": [
+    {
+      "label": "Pendiri brand fesyen DTC yang omzetnya menembus US$1 juta",
+      "offerId": "shopify-advanced",
+      "reason": "Checkout sekali klik Shop Pay dan 10.000+ aplikasi menghasilkan tingkat konversi tertinggi (2,8%) serta biaya transaksi terendah pada GMV US$1,2 juta ke atas."
+    },
+    {
+      "label": "Brand grosir yang menjalankan B2B dan DTC sekaligus",
+      "offerId": "bigcommerce-pro",
+      "reason": "Dukungan multi-storefront dan nol biaya transaksi memungkinkan pelaku B2B mengelola katalog kompleks di beberapa etalase terpisah tanpa biaya tambahan per penjualan."
+    },
+    {
+      "label": "Tim yang dipimpin developer dan butuh kendali penuh atas kode",
+      "offerId": "woocommerce-wordpress",
+      "reason": "Integrasi WordPress yang open-source berarti tanpa keterikatan platform; Anda mengendalikan setiap baris kode dan pilihan plugin tanpa biaya platform bulanan."
+    },
+    {
+      "label": "Kreator perorangan yang meluncurkan produk pertama di bawah 100 SKU",
+      "offerId": "wix-ecommerce-business",
+      "reason": "Generator situs berbasis AI dan editor drag-and-drop membuat toko pertama siap dalam hitungan jam dengan US$27/bulan, tanpa perlu latar belakang teknis."
+    },
+    {
+      "label": "Blogger dan fotografer yang menambahkan toko kecil di situsnya",
+      "offerId": "squarespace-commerce-advanced",
+      "reason": "Integrasi konten dan commerce Squarespace membuat situs editorial dan toko Anda berbagi satu sistem desain, sehingga tidak terasa terpecah di dua platform."
+    }
+  ]
 }

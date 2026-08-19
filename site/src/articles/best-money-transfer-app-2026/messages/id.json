@@ -2,5 +2,147 @@
   "title": "aplikasi transfer uang Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan Wise, Revolut, PayPal, Venmo, Western Union. Inilah aplikasi transfer uang 2026 yang benar-benar unggul dalam hal kurs mata uang dan biaya.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Perbandingan biaya transfer internasional (USD 1.000 → EUR)",
+      "paragraphs": [
+        "Wise: USD 1.000 → €917 (kurs tengah pasar + biaya 0,4%). Paling transparan.",
+        "Revolut (tier Standard): USD 1.000 → €915 (kurs bagus, hanya hari kerja).",
+        "PayPal: USD 1.000 → €870 (biaya efektif sekitar 3-5% termasuk kurs yang tidak menguntungkan). Kurs terburuk.",
+        "Western Union (online): USD 1.000 → €890 (lebih baik daripada PayPal, tetapi tetap ada margin tersembunyi).",
+        "Venmo: tidak tersedia untuk transfer internasional."
+      ]
+    },
+    {
+      "heading": "Pilihan terbaik menurut kebutuhan",
+      "paragraphs": [
+        "Terbaik untuk internasional: Wise. Kurs tengah pasar, biaya transparan 0,4-1%.",
+        "Terbaik untuk fitur lengkap: Revolut. Rekening multi-mata uang, kripto, dan saham dalam satu aplikasi.",
+        "Terbaik untuk domestik AS: Venmo. Khusus AS, ada linimasa sosial dan transfer instan.",
+        "Terbaik untuk pengambilan tunai: Western Union. Lebih dari 200 negara, bisa diambil langsung di loket.",
+        "Terbaik dari sisi jangkauan: PayPal. Sudah mapan, tetapi kursnya paling buruk."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Mengapa Wise lebih murah daripada PayPal?",
+      "a": "Wise memakai kurs tengah pasar (kurs antarmata uang di pasar global) ditambah biaya yang ditampilkan secara terbuka. PayPal menambahkan markup pada kurs lalu mengenakan biaya tambahan — biasanya 3-5% lebih buruk daripada kurs tengah pasar."
+    },
+    {
+      "q": "Apakah saya bisa mengirim uang ke siapa saja lewat Wise?",
+      "a": "Bisa — penerima tidak perlu punya akun Wise. Anda mengirim langsung ke rekening banknya dan uang diterima dalam mata uang lokal penerima."
+    },
+    {
+      "q": "Apakah aplikasi-aplikasi ini aman?",
+      "a": "Aman — Wise, Revolut, PayPal, Venmo, dan Western Union semuanya berizin sebagai penyelenggara transfer dana dan dilengkapi sistem antipenipuan."
+    },
+    {
+      "q": "Bagaimana dengan mengirim uang lewat kripto?",
+      "a": "Bisa saja, tetapi prosesnya lebih rumit — pengirim menukar USD ke USDC, mengirimkannya ke penerima, lalu penerima menukarnya kembali ke mata uang lokal. Berguna untuk situasi tertentu (misalnya negara yang terkena sanksi), tetapi bagi kebanyakan orang Wise jauh lebih praktis."
+    }
+  ],
+  "products": {
+    "wise-transfer": {
+      "badge": "🏆 Terbaik untuk internasional",
+      "review": "Wise (dulu bernama TransferWise) adalah pilihan tepat untuk transfer uang antarnegara. Kurs tengah pasar yang sesungguhnya (kurs yang dipakai bank saat bertransaksi satu sama lain), biaya transparan (0,4-1% tergantung mata uang), dan lebih dari 40 mata uang. Anda bisa mengirim ke rekening bank siapa pun di dunia tanpa mengharuskan penerima membuat akun Wise.",
+      "pros": [
+        "Kurs tengah pasar",
+        "Biaya transparan (0,4-1%)",
+        "Lebih dari 40 mata uang"
+      ],
+      "cons": [
+        "Pengirim harus punya akun Wise",
+        "Transfer bank bisa memakan waktu 1-2 hari"
+      ]
+    },
+    "revolut": {
+      "badge": "🌐 Terbaik untuk fitur lengkap",
+      "review": "Revolut adalah pilihan tepat jika Anda menginginkan transfer uang plus rekening multi-mata uang, kripto, dan saham sekaligus. Rekeningnya menampung lebih dari 25 mata uang, dilengkapi perdagangan kripto dan saham terintegrasi, serta tier premium dengan keuntungan tambahan. Untuk transfer internasional, tarifnya kompetitif (setara Wise pada hari kerja).",
+      "pros": [
+        "Rekening multi-mata uang (25+)",
+        "Kripto dan saham terintegrasi",
+        "Tier premium dengan keuntungan tambahan"
+      ],
+      "cons": [
+        "Tier premium berbiaya USD 9-17 per bulan",
+        "Kurs akhir pekan lebih buruk"
+      ]
+    },
+    "paypal-international": {
+      "badge": "🏪 Terbaik dari sisi jangkauan",
+      "review": "PayPal adalah layanan transfer uang yang paling luas jangkauannya, tetapi kursnya paling buruk. Biaya efektifnya sekitar 3-5% termasuk markup kurs. Gunakan hanya jika penerima secara khusus meminta PayPal — selain itu, Wise jelas lebih masuk akal.",
+      "pros": [
+        "Jangkauan paling luas",
+        "Perlindungan pembeli/penjual untuk transaksi jual beli",
+        "Terintegrasi dengan banyak merchant"
+      ],
+      "cons": [
+        "Kurs terburuk (markup sekitar 3-5%)",
+        "Biaya tersembunyi di dalam kurs"
+      ]
+    },
+    "venmo": {
+      "badge": "🇺🇸 Terbaik untuk domestik AS",
+      "review": "Venmo adalah pilihan tepat untuk transfer antarpengguna di dalam wilayah AS. Ada linimasa sosial (transaksi terlihat oleh teman — bisa diatur), transfer instan ke kartu debit (USD 0,25-15), dan transfer bank gratis (1-3 hari). Sudah jadi standar untuk patungan tagihan di AS.",
+      "pros": [
+        "Linimasa sosial (bisa dimatikan)",
+        "Transfer instan ke kartu debit",
+        "Standar transfer domestik di AS"
+      ],
+      "cons": [
+        "Hanya untuk AS",
+        "Tidak melayani transfer internasional"
+      ]
+    },
+    "western-union": {
+      "badge": "💵 Terbaik untuk pengambilan tunai",
+      "review": "Western Union adalah pilihan tepat jika penerima ingin mengambil uang tunai, dengan jaringan di lebih dari 200 negara. Penerima cukup datang ke gerai Western Union untuk mengambil uangnya tanpa perlu punya rekening bank. Berguna untuk penerima yang belum memiliki akses perbankan atau untuk situasi khusus.",
+      "pros": [
+        "Lebih dari 200 negara",
+        "Pengambilan tunai (tanpa perlu rekening bank)",
+        "Bisa dilayani langsung di gerai"
+      ],
+      "cons": [
+        "Biayanya berubah-ubah (sering kali tinggi)",
+        "Merepotkan karena harus datang langsung"
+      ]
+    }
+  },
+  "offerNotes": {
+    "wise-transfer": "Daftar di wise.com. Pembukaan akun gratis; biaya dikenakan per transfer.",
+    "revolut": "Daftar di revolut.com. Tier Standard gratis; Premium (USD 9/bulan) dan Metal (USD 17/bulan) menawarkan keuntungan tambahan.",
+    "paypal-international": "Daftar di paypal.com. Akun gratis; biaya dikenakan pada tiap transaksi.",
+    "venmo": "Daftar lewat aplikasi seluler Venmo. Hanya untuk wilayah AS.",
+    "western-union": "Daftar di westernunion.com atau datang ke gerai terdekat."
+  },
+  "pinDescription": "Kirim uang ke luar negeri tanpa kena kurs mencekik. Wise, Revolut, PayPal, Venmo, dan Western Union diadu: mana yang biayanya paling kecil di 2026?",
+  "recommendedFor": [
+    {
+      "label": "Perantau dan pekerja remote yang rutin mengirim uang ke luar negeri",
+      "offerId": "wise-transfer",
+      "reason": "Kurs tengah pasar dan biaya transparan 0,4-1% dari Wise menghemat cukup banyak untuk transfer internasional rutin dibandingkan kurs bank atau PayPal."
+    },
+    {
+      "label": "Digital nomad yang menyimpan dan membelanjakan beberapa mata uang",
+      "offerId": "revolut",
+      "reason": "Rekening multi-mata uang Revolut menampung lebih dari 25 mata uang serta menyediakan kripto dan saham bawaan, sehingga menjadi pusat keuangan lengkap saat bepergian."
+    },
+    {
+      "label": "Mahasiswa di AS yang patungan sewa tempat tinggal dan tagihan makan",
+      "offerId": "venmo",
+      "reason": "Venmo sudah menjadi standar de facto untuk pembayaran antarpengguna di AS — transfer instan ke kartu debit dan linimasa sosialnya membuat patungan jadi mudah."
+    },
+    {
+      "label": "Penjual online yang menerima pembayaran dari pembeli mancanegara",
+      "offerId": "paypal-international",
+      "reason": "Integrasi merchant yang luas dan perlindungan pembeli/penjual membuat PayPal menjadi opsi pembayaran yang diharapkan pelanggan e-commerce di seluruh dunia."
+    },
+    {
+      "label": "Orang yang mengirim uang ke keluarga tanpa rekening bank di negara berkembang",
+      "offerId": "western-union",
+      "reason": "Western Union memungkinkan penerima mengambil uang tunai langsung di gerai yang tersebar di lebih dari 200 negara tanpa perlu punya rekening bank."
+    }
+  ]
 }

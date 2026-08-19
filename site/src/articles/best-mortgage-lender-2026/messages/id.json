@@ -2,5 +2,148 @@
   "title": "pemberi pinjaman KPR Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan Rocket Mortgage, Better, Ally, Chase, Navy Federal. Inilah pemberi pinjaman KPR 2026 yang benar-benar unggul dalam hal tarif, biaya, dan kecepatan pemrosesan.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Perbandingan suku bunga dan biaya pemberi pinjaman",
+      "paragraphs": [
+        "Suku bunga antarpemberi pinjaman hanya berbeda sekitar 0,125% untuk profil peminjam yang sama — perbedaan yang benar-benar terasa justru ada pada biayanya.",
+        "Better Mortgage: tanpa biaya pemberi pinjaman (sesuai klaim resmi). Menghemat $1.000-$3.000 saat penutupan akad.",
+        "Rocket Mortgage: biaya provisi sekitar $1.200. Sudah termasuk jaminan penguncian suku bunga.",
+        "Ally Bank: biaya provisi $0 untuk produk tertentu, selebihnya sekitar $1.000.",
+        "Chase: biaya provisi $1.000-$1.800. Ada diskon relasi bagi nasabah Chase yang sudah ada.",
+        "Navy Federal: biaya provisi $0 untuk pinjaman VA. Fokus pada kalangan militer dan veteran."
+      ]
+    },
+    {
+      "heading": "Pilihan terbaik untuk tiap kebutuhan",
+      "paragraphs": [
+        "Terbaik untuk proses serba digital: Rocket Mortgage. Proses online tercepat dengan ragam produk yang luas.",
+        "Terbaik untuk peminjam yang melek teknologi: Better Mortgage. Tanpa biaya pemberi pinjaman, seluruh proses online.",
+        "Terbaik untuk refinancing: Ally Bank. Suku bunga bersaing dan opsi refinancing yang kuat.",
+        "Terbaik untuk bank konvensional: Chase. Ada kantor cabang fisik dan diskon relasi.",
+        "Terbaik untuk keluarga militer: Navy Federal Credit Union. Spesialis pinjaman VA dengan opsi tanpa PMI."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Apakah sebaiknya mengajukan pra-persetujuan ke beberapa pemberi pinjaman?",
+      "a": "Ya — pra-persetujuan hanya berupa 'soft pull' yang tidak berdampak besar pada skor kredit. Membandingkan 3-5 pemberi pinjaman pada hari yang sama meminimalkan dampak ke skor kredit sekaligus memperkuat posisi tawar Anda soal suku bunga."
+    },
+    {
+      "q": "Apakah pinjaman 'tanpa biaya pemberi pinjaman' benar-benar lebih murah?",
+      "a": "Umumnya ya — skema tanpa biaya dari Better memang menghemat $1.000-$3.000 saat penutupan akad. Namun pastikan suku bunganya tetap bersaing; sebagian pemberi pinjaman tanpa biaya menutupinya dengan bunga yang sedikit lebih tinggi."
+    },
+    {
+      "q": "Seberapa berbeda waktu proses KPR antarpemberi pinjaman?",
+      "a": "Rocket dan Better: umumnya 30-45 hari. Bank konvensional (Chase): 45-60 hari. Navy Federal: 30-45 hari. Tanggal penutupan akad yang Anda targetkan menentukan mana yang paling cocok."
+    },
+    {
+      "q": "Apakah saya sebaiknya melakukan refinancing?",
+      "a": "Refinancing layak dipertimbangkan jika Anda bisa menurunkan suku bunga sebesar 0,75-1% DAN masih akan menempati rumah tersebut minimal 3 tahun lagi. Hitung titik impas antara biaya penutupan akad dan penghematan cicilan bulanan."
+    }
+  ],
+  "products": {
+    "rocket-mortgage": {
+      "badge": "🏆 Terbaik untuk proses digital",
+      "review": "Rocket Mortgage cocok bagi peminjam yang menginginkan proses digital paling cepat. Pengajuan berbasis online, pra-persetujuan singkat, dan ragam produk luas (konvensional, FHA, VA, jumbo). Aplikasi selulernya membuat unggah dokumen dan pemantauan status terasa mulus. Waktu proses umumnya 30-45 hari.",
+      "pros": [
+        "Proses online tercepat",
+        "Ragam produk luas",
+        "Pemantauan status lewat aplikasi seluler"
+      ],
+      "cons": [
+        "Biaya provisi $1.200",
+        "Penawaran produk Rocket lain terasa cukup agresif"
+      ]
+    },
+    "better-mortgage": {
+      "badge": "💸 Terbaik tanpa biaya",
+      "review": "Better Mortgage cocok bagi peminjam melek teknologi yang ingin bebas biaya pemberi pinjaman. Prosesnya online, suku bunganya bersaing, dan tidak ada biaya provisi maupun biaya pemberi pinjaman yang diiklankan. Penghematannya $1.000-$3.000 saat penutupan akad dibanding pemberi pinjaman konvensional. Proses penjaminannya bisa ketat — Better cukup selektif.",
+      "pros": [
+        "Tanpa biaya pemberi pinjaman",
+        "Proses online",
+        "Suku bunga bersaing"
+      ],
+      "cons": [
+        "Penjaminan yang selektif",
+        "Layanan pelanggan kurang rapi"
+      ]
+    },
+    "ally-mortgage": {
+      "badge": "🏦 Terbaik untuk refinancing",
+      "review": "Ally Bank Mortgage cocok untuk kebutuhan refinancing. Bank digital dengan suku bunga bersaing dan produk refinancing yang kuat. Terintegrasi dengan rekening Ally jika Anda sudah menjadi nasabah. Paling pas bagi yang sedang membandingkan pemberi pinjaman online untuk refinancing.",
+      "pros": [
+        "Suku bunga bersaing",
+        "Fokus kuat pada refinancing",
+        "Terintegrasi dengan Ally Bank"
+      ],
+      "cons": [
+        "Tidak punya kantor cabang fisik",
+        "Ragam produk lebih sedikit dibanding Rocket"
+      ]
+    },
+    "chase-mortgage": {
+      "badge": "🏛️ Bank konvensional terbaik",
+      "review": "Chase Mortgage cocok bagi peminjam yang ingin dilayani secara tatap muka. Bank besar dengan lebih dari 4.700 cabang, plus diskon relasi jika Anda berstatus Chase Private Client (Chase Total Checking + saldo tertentu + rekening efek). Prosesnya lebih lambat dibanding pemberi pinjaman digital, tetapi lebih personal.",
+      "pros": [
+        "Tersedia layanan tatap muka di cabang",
+        "Diskon relasi Chase Private Client",
+        "Stabilitas bank besar"
+      ],
+      "cons": [
+        "Proses lebih lambat",
+        "Biaya rata-rata lebih tinggi"
+      ]
+    },
+    "navy-federal-mortgage": {
+      "badge": "🪖 Terbaik untuk kalangan militer",
+      "review": "Navy Federal Credit Union cocok untuk keluarga militer. Khusus anggota militer dan veteran, spesialis pinjaman VA, dengan opsi tanpa PMI untuk uang muka kecil. Suku bunga pinjaman VA mereka biasanya 0,10-0,25% di bawah pasar.",
+      "pros": [
+        "Khusus anggota militer dan veteran",
+        "Opsi tanpa PMI",
+        "Spesialis pinjaman VA"
+      ],
+      "cons": [
+        "Syarat keanggotaan terbatas",
+        "Produk KPR non-VA terbatas"
+      ]
+    }
+  },
+  "offerNotes": {
+    "rocket-mortgage": "Ajukan lewat rocketmortgage.com atau aplikasi selulernya. Pra-persetujuan online memakan waktu 5-15 menit.",
+    "better-mortgage": "Ajukan lewat better.com. Klaim 'tanpa biaya pemberi pinjaman' berlaku untuk sebagian besar produk pinjaman — pastikan kembali pada penawaran spesifik Anda.",
+    "ally-mortgage": "Ajukan lewat ally.com. Rekening Ally (tabungan, giro) terintegrasi untuk memperoleh keuntungan relasi.",
+    "chase-mortgage": "Ajukan lewat chase.com atau langsung di cabang. Tingkatan Chase Private Client (Total Checking + saldo $250 ribu ke atas) memperoleh diskon suku bunga.",
+    "navy-federal-mortgage": "Ajukan lewat navyfederal.org. Keanggotaan mensyaratkan keterkaitan dengan dinas militer (aktif, purnawirawan, anggota keluarga, atau pegawai sipil Departemen Pertahanan AS)."
+  },
+  "pinDescription": "Mau ambil KPR di AS tahun 2026? Rocket, Better, Ally, Chase, dan Navy Federal diadu langsung — biaya, kecepatan proses, sampai pinjaman VA. Simpan dulu sebelum tanda tangan akad.",
+  "recommendedFor": [
+    {
+      "label": "Pembeli rumah pertama yang ingin pra-persetujuan online cepat",
+      "offerId": "rocket-mortgage",
+      "reason": "Aplikasi seluler Rocket dan pra-persetujuan 5-15 menit menghilangkan rasa canggung saat membeli rumah pertama, ditambah pilihan FHA dan konvensional yang luas."
+    },
+    {
+      "label": "Pembeli hemat yang ingin menekan pengeluaran saat akad",
+      "offerId": "better-mortgage",
+      "reason": "Kebijakan tanpa biaya provisi dari Better menghemat $1.000-$3.000 saat penutupan akad dibanding pemberi pinjaman konvensional, dengan penjaminan sepenuhnya online."
+    },
+    {
+      "label": "Pemilik rumah yang ingin melakukan refinancing KPR",
+      "offerId": "ally-mortgage",
+      "reason": "Lini produk refinancing Ally yang kuat dan suku bunganya yang bersaing menjadikannya pilihan utama untuk skenario rate-and-term maupun cash-out refi."
+    },
+    {
+      "label": "Peminjam berkekayaan tinggi yang sudah punya rekening Chase",
+      "offerId": "chase-mortgage",
+      "reason": "Diskon relasi Chase Private Client dan akses ke kantor cabang menjadi keuntungan bagi peminjam dengan dana $250 ribu ke atas yang sudah tersimpan di Chase."
+    },
+    {
+      "label": "Anggota militer aktif dan veteran yang sedang membeli rumah",
+      "offerId": "navy-federal-mortgage",
+      "reason": "Keahlian Navy Federal di pinjaman VA memberi suku bunga 0,10-0,25% di bawah pasar tanpa kewajiban PMI, khusus bagi keluarga militer yang memenuhi syarat."
+    }
+  ]
 }

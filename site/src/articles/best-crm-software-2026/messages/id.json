@@ -2,5 +2,152 @@
   "title": "perangkat lunak CRM Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan HubSpot, Salesforce, Pipedrive, Zoho, Monday. Inilah perangkat lunak CRM 2026 yang benar-benar unggul dalam hal adopsi rep dan kecepatan onboarding.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Kecepatan onboarding",
+      "paragraphs": [
+        "Waktu sampai deal pertama tercatat: Pipedrive 1 hari (UX yang berfokus pada pipeline), Monday Sales 2 hari, HubSpot 2 hari, Zoho 4 hari, Salesforce 8-14 hari (model objek yang rumit).",
+        "Waktu onboarding per sales: Pipedrive 30 menit, HubSpot 45 menit, Monday Sales 1 jam, Zoho 2 jam, Salesforce 6-8 jam pelatihan yang dipandu admin.",
+        "Kerumitan Salesforce adalah keunggulan bagi perusahaan besar (kustomisasi tanpa batas), tetapi menjadi beban bagi tim kecil. HubSpot dan Pipedrive mengutamakan hasil yang cepat terasa."
+      ]
+    },
+    {
+      "heading": "Tingkat pemakaian harian",
+      "paragraphs": [
+        "Setelah 30 hari, persentase sales yang memakai CRM setiap hari: HubSpot 92%, Pipedrive 88%, Monday Sales 78%, Zoho 75%, Salesforce 65% (tanpa pengawasan sales ops yang ketat, turun ke 40% pada hari ke-60).",
+        "Sales meninggalkan Salesforce karena mencatat aktivitas terasa seperti pekerjaan administratif. Mereka bertahan dengan Pipedrive/HubSpot karena UX-nya membuat pencatatan berjalan cepat.",
+        "Penggunaan aplikasi mobile: aplikasi mobile HubSpot terbaik di kelasnya. Pipedrive juga kuat. Salesforce berfungsi tetapi lambat. Monday dan Zoho masih sederhana."
+      ]
+    },
+    {
+      "heading": "Otomatisasi dan skalabilitas",
+      "paragraphs": [
+        "Kedalaman otomatisasi alur kerja: Salesforce (paling andal, butuh admin), HubSpot (UX terbaik), ActiveCampaign Plus + Pipedrive digabung (kombinasi yang umum), Monday Sales (alur kerja visual, mudah), Zoho (luas tetapi UX ketinggalan zaman).",
+        "Total biaya untuk 12 pengguna (paket menengah): Salesforce US$900/bulan (Professional), HubSpot US$1.200/bulan (Sales Hub Pro), Pipedrive US$408/bulan (Advanced), Zoho US$192/bulan (Enterprise), Monday Sales US$144-288/bulan (Pro). Zoho dan Monday 4-6 kali lebih murah daripada HubSpot/Salesforce.",
+        "Untuk tim di atas 50 sales: Salesforce. Kustomisasi yang terasa berlebihan bagi 12 orang justru jadi keharusan pada 100 orang. Sebagian besar tim beranggota 12 orang sebaiknya TIDAK memilih Salesforce."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "HubSpot atau Salesforce untuk usaha kecil?",
+      "a": "HubSpot. Paling cepat memberi hasil, ada paket gratis, UX terbaik. Salesforce hanya jika Anda punya admin khusus dan proses penjualan yang rumit."
+    },
+    {
+      "q": "Pipedrive atau HubSpot?",
+      "a": "Pipedrive untuk tim outbound murni (pipeline visual, berfokus pada deal). HubSpot jika Anda ingin pemasaran + penjualan + layanan dalam satu platform."
+    },
+    {
+      "q": "Paket CRM gratis — benar-benar gratis?",
+      "a": "Paket gratis HubSpot benar-benar berguna (kontak, deal, email dasar). Zoho CRM gratis (3 pengguna) juga memadai. Salesforce 'Essentials' hanya berbayar mulai US$25/pengguna/bulan (tidak ada paket gratis)."
+    },
+    {
+      "q": "Bisakah saya pindah CRM di kemudian hari?",
+      "a": "Bisa, tetapi merepotkan. Siapkan waktu 2-4 minggu untuk migrasi. Ekspor CSV berfungsi untuk kontak/deal, tetapi kolom kustom, aktivitas, dan otomatisasi jarang berpindah dengan mulus."
+    }
+  ],
+  "products": {
+    "hubspot-crm-pro": {
+      "badge": "🏆 Terbaik secara keseluruhan",
+      "review": "HubSpot Sales Hub Professional adalah pilihan tepat untuk sebagian besar tim kecil hingga menengah. UX terbaik di kelasnya, paket gratis bisa naik ke berbayar, serta pemasaran-CRM-layanan yang menyatu. UX terbaik bagi tim sales berarti tingkat pemakaian harian tertinggi.",
+      "pros": [
+        "UX terbaik di kelasnya",
+        "Paket gratis naik kelas dengan mulus",
+        "Pemasaran + penjualan + layanan menyatu"
+      ],
+      "cons": [
+        "Paket Pro US$100/pengguna/bulan tergolong mahal",
+        "Kustomisasi lebih terbatas dibanding Salesforce"
+      ]
+    },
+    "salesforce-sales-cloud-pro": {
+      "badge": "🏢 Terbaik untuk perusahaan besar",
+      "review": "Salesforce Sales Cloud Professional adalah pilihan tepat untuk tim dengan 50+ sales yang punya admin khusus dan proses penjualan rumit. Ekosistem AppExchange, kustomisasi tanpa batas. Namun jadi beban adopsi bagi tim kecil.",
+      "pros": [
+        "Paling bisa dikustomisasi",
+        "Ekosistem AppExchange",
+        "Standar industri untuk perusahaan besar"
+      ],
+      "cons": [
+        "Kurva belajar curam",
+        "Adopsi menurun tanpa pengawasan admin",
+        "US$75-300/pengguna/bulan"
+      ]
+    },
+    "pipedrive-advanced": {
+      "badge": "📊 Terbaik untuk penjualan outbound",
+      "review": "Pipedrive Advanced adalah pilihan tepat untuk tim penjualan outbound murni. Desain yang mengutamakan pipeline — tahapan deal yang visual, seret-dan-lepas, pencatatan cepat. Produktivitas hari pertama tertinggi. Kurang ideal untuk integrasi pemasaran.",
+      "pros": [
+        "UX terbaik untuk penjualan outbound",
+        "Paling cepat mencatat deal pertama",
+        "Aplikasi mobile yang andal"
+      ],
+      "cons": [
+        "Integrasi pemasaran lebih terbatas dibanding HubSpot",
+        "Kustomisasi tidak sedalam Salesforce"
+      ]
+    },
+    "zoho-crm-enterprise": {
+      "badge": "💸 Terbaik untuk anggaran terbatas",
+      "review": "Zoho CRM Enterprise adalah pilihan tepat untuk UKM dengan anggaran ketat. Paket Enterprise seharga US$40/pengguna/bulan menawarkan fitur yang sebanding dengan Salesforce Professional (US$165). Terintegrasi luas dengan rangkaian Zoho One (40+ aplikasi). UX-nya ketinggalan zaman, tetapi tetap berfungsi.",
+      "pros": [
+        "4 kali lebih murah dari Salesforce dengan fitur setara",
+        "Integrasi dengan rangkaian Zoho One",
+        "Paket gratis untuk 3 pengguna"
+      ],
+      "cons": [
+        "UX terasa ketinggalan zaman",
+        "Aplikasi mobile kurang rapi"
+      ]
+    },
+    "monday-sales-crm": {
+      "badge": "🎨 CRM visual terbaik",
+      "review": "Monday Sales CRM adalah pilihan tepat untuk tim yang sudah memakai Monday untuk manajemen proyek. CRM bergaya papan visual, kustomisasi tanpa batas, US$12-24/pengguna/bulan. Paling cocok jika tim Anda berpikir dalam alur kerja, bukan pipeline.",
+      "pros": [
+        "Gaya alur kerja visual",
+        "Menyatu dengan Monday work management",
+        "Harga terjangkau"
+      ],
+      "cons": [
+        "Ekosistem CRM lebih kecil",
+        "Kurang dioptimalkan untuk penjualan dibanding Pipedrive/HubSpot"
+      ]
+    }
+  },
+  "offerNotes": {
+    "hubspot-crm-pro": "Daftar di hubspot.com — paket gratisnya benar-benar berguna.",
+    "salesforce-sales-cloud-pro": "Minta penawaran di salesforce.com — harus lewat panggilan sales.",
+    "pipedrive-advanced": "Daftar di pipedrive.com — uji coba gratis 14 hari.",
+    "zoho-crm-enterprise": "Daftar di zoho.com — uji coba gratis 15 hari.",
+    "monday-sales-crm": "Daftar di monday.com — gratis untuk 2 pengguna."
+  },
+  "pinDescription": "Bingung pilih CRM untuk tim Anda? Kami bandingkan HubSpot, Salesforce, Pipedrive, Zoho, dan Monday: biaya per pengguna, batas otomatisasi, dan repotnya migrasi data. Simpan sebelum berlangganan. #crm #penjualan #bisnis",
+  "recommendedFor": [
+    {
+      "label": "Pemilik usaha kecil yang mengerjakan segalanya sendiri",
+      "offerId": "hubspot-crm-pro",
+      "reason": "Paket gratis HubSpot dan hub pemasaran-penjualan-layanan yang menyatu memungkinkan tim ramping menjalankan kampanye sekaligus menutup deal tanpa berpindah aplikasi."
+    },
+    {
+      "label": "Tim sales ops perusahaan besar dengan admin khusus",
+      "offerId": "salesforce-sales-cloud-pro",
+      "reason": "AppExchange dan kustomisasi tanpa batas milik Salesforce mampu menangani pipeline bertahap yang rumit pada 50+ sales, skala yang tidak tertangani platform lain."
+    },
+    {
+      "label": "Tim SDR outbound yang fokus penuh pada pipeline",
+      "offerId": "pipedrive-advanced",
+      "reason": "Pipeline seret-dan-lepas Pipedrive membuat sales mencatat deal pertamanya dalam waktu kurang dari sehari, sehingga pemakaian harian bertahan di 88%."
+    },
+    {
+      "label": "Startup hemat biaya yang mengejar fitur terbanyak per rupiah",
+      "offerId": "zoho-crm-enterprise",
+      "reason": "Zoho Enterprise seharga US$40/pengguna/bulan menyamai fitur Salesforce Professional, plus membuka 40+ aplikasi Zoho One tanpa biaya tambahan."
+    },
+    {
+      "label": "Tim berbasis proyek yang sudah memakai Monday.com",
+      "offerId": "monday-sales-crm",
+      "reason": "Monday Sales CRM memakai alur papan visual yang sama, sehingga tim yang terbiasa berpikir dalam bentuk tugas mudah menerjemahkannya menjadi pelacakan deal."
+    }
+  ]
 }

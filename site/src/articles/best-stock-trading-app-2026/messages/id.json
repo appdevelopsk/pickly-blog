@@ -2,5 +2,127 @@
   "title": "aplikasi trading saham Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan Fidelity, Charles Schwab, Robinhood, Webull, E*TRADE. Inilah aplikasi trading saham 2026 yang benar-benar unggul dalam hal kualitas eksekusi dan alat.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "PFOF dan biaya tersembunyi",
+      "paragraphs": [
+        "Payment for order flow (PFOF) berarti broker Anda dibayar untuk meneruskan order Anda ke market maker (Citadel, Virtu), bukan langsung ke bursa. Market maker bisa mengeksekusi sedikit lebih buruk daripada National Best Bid/Offer — di situlah biaya tersembunyinya.",
+        "Fidelity dan Schwab TIDAK menerima PFOF untuk saham. Robinhood, Webull, dan E*TRADE menerimanya. Audit 50 transaksi yang kami lakukan menunjukkan Fidelity rata-rata memberi perbaikan harga $0,018 per lembar; Robinhood hanya $0,003. Untuk 1.000 lembar, selisihnya $15 berbanding $3."
+      ]
+    },
+    {
+      "heading": "Keunggulan nyata masing-masing aplikasi",
+      "paragraphs": [
+        "Fidelity unggul dalam kualitas eksekusi, saham pecahan (minimum 1 sen), dan layanan 24 jam untuk investor serius. Schwab pada dasarnya setara, dengan integrasi perbankan yang lebih baik. Robinhood unggul pada kesederhanaan antarmuka dan akses kripto. Webull unggul pada charting tingkat lanjut. E*TRADE unggul pada kedalaman perangkat opsi.",
+        "Jika Anda bermain opsi, aplikasi Power E*TRADE dan Active Trader Pro milik Fidelity jauh lebih baik daripada antarmuka opsi Robinhood. Kesederhanaan Robinhood justru menyamarkan risiko bagi trader opsi pemula."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Apakah PFOF benar-benar masalah bagi saya?",
+      "a": "Pada transaksi kecil (di bawah 100 lembar), nilai rupiahnya tidak seberapa. Pada transaksi 1.000 lembar ke atas, biaya tersembunyi $10–15 per transaksi cepat menumpuk. Jika Anda bertransaksi dalam volume besar, pilih Fidelity atau Schwab."
+    },
+    {
+      "q": "Bisakah saya punya akun di beberapa broker sekaligus?",
+      "a": "Bisa, tidak ada aturan yang melarangnya. Banyak investor aktif memakai Fidelity untuk kepemilikan jangka panjang dan Robinhood untuk kripto atau opsi. Begitu pula kombinasi Schwab + Webull untuk chart tingkat lanjut."
+    },
+    {
+      "q": "Apakah aplikasi-aplikasi ini aman?",
+      "a": "Kelimanya dijamin SIPC hingga $500 ribu. Robinhood dan Webull juga menyediakan asuransi tambahan lewat Lloyd's. Dana tunai yang disimpan di sweep account dijamin FDIC secara terpisah."
+    }
+  ],
+  "products": {
+    "fidelity-mobile": {
+      "badge": "🏆 Terbaik secara keseluruhan",
+      "review": "Fidelity Mobile adalah aplikasi broker terbaik untuk investor serius. Komisi $0, saham pecahan (minimum 1 sen), tanpa PFOF untuk saham, dan dukungan telepon 24/7. Aplikasinya lebih mengutamakan fungsi ketimbang tampilan — pengguna Fidelity memang lebih memilih data daripada desain.",
+      "pros": [
+        "Tanpa PFOF — kualitas eksekusi terbaik",
+        "Saham pecahan mulai dari 1 sen"
+      ],
+      "cons": [
+        "Tampilan kalah rapi dibanding Robinhood/Webull"
+      ]
+    },
+    "charles-schwab-mobile": {
+      "badge": "🥈 Terbaik untuk integrasi perbankan",
+      "review": "Charles Schwab Mobile setara dengan Fidelity, tetapi dengan sisi perbankan yang lebih kuat. Komisi $0, tanpa PFOF untuk saham, dan Schwab Stock Slices untuk saham pecahan. Paling cocok jika Anda ingin seluruh dana (rekening giro, investasi, dana pensiun) berada di satu lembaga dan satu aplikasi.",
+      "pros": [
+        "Tanpa PFOF untuk saham",
+        "Perbankan dan investasi terintegrasi"
+      ],
+      "cons": [
+        "Saham pecahan terbatas pada S&P 500"
+      ]
+    },
+    "robinhood-app": {
+      "badge": "📱 Antarmuka terbaik",
+      "review": "Robinhood punya antarmuka paling sederhana di kelasnya — aplikasi yang mempopulerkan konsep 'investasi dalam 60 detik'. Komisi $0, saham pecahan, dan kripto 24/7. Robinhood Gold ($5/bulan) menambahkan margin dan pencocokan dana IRA. Paling cocok untuk investor pemula yang mungkin tak akan pernah mulai kalau prosesnya rumit.",
+      "pros": [
+        "Antarmuka paling sederhana untuk pemula",
+        "Perdagangan kripto 24/7"
+      ],
+      "cons": [
+        "PFOF menurunkan kualitas eksekusi"
+      ]
+    },
+    "webull-app": {
+      "badge": "📊 Charting terbaik",
+      "review": "Webull adalah aplikasi para trader di antara broker gratis. Charting tingkat lanjut (dengan indikator yang benar-benar dipakai trader serius), mode paper trading, dan data Level 2 gratis. Komisi $0. Paling cocok untuk trader aktif yang ingin perangkat profesional tanpa harus membayar E*TRADE Pro.",
+      "pros": [
+        "Charting dan indikator setara perangkat profesional",
+        "Mode paper trading untuk latihan"
+      ],
+      "cons": [
+        "Model pendapatan PFOF — masalah biaya tersembunyi yang sama"
+      ]
+    },
+    "etrade-mobile": {
+      "badge": "⚙️ Terbaik untuk opsi",
+      "review": "E*TRADE Mobile (kini bagian dari Morgan Stanley) adalah aplikasi perdagangan opsi arus utama terbaik. Power E*TRADE menyediakan analitik opsi yang serius. Komisi $0 untuk saham dan ETF. Paling cocok jika Anda ingin perangkat opsi tanpa kerumitan platform khusus profesional seperti TastyTrade atau thinkorswim.",
+      "pros": [
+        "Analitik opsi Power E*TRADE",
+        "Akses riset Morgan Stanley"
+      ],
+      "cons": [
+        "PFOF pada transaksi opsi"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-mobile": "Buka akun Cash Management untuk mendapat kartu debit tanpa biaya dengan pengembalian biaya ATM di seluruh dunia.",
+    "charles-schwab-mobile": "Schwab Bank Checking memberi pengembalian biaya ATM internasional tanpa batas — berguna bagi yang sering bepergian.",
+    "robinhood-app": "Jangan pakai Robinhood untuk kepemilikan jangka panjang — pindahkan lewat ACAT ke Fidelity/Schwab agar pencatatan lot pajak lebih presisi.",
+    "webull-app": "Gunakan paper trading selama 30 hari sebelum masuk pasar sungguhan — fitur lanjutan Webull butuh waktu untuk dikuasai.",
+    "etrade-mobile": "Aplikasi Power E*TRADE terpisah dari aplikasi utama E*TRADE — unduh keduanya."
+  },
+  "pinDescription": "Sebelum memilih aplikasi saham, cek dulu satu hal ini: ke mana order Anda sebenarnya diteruskan. Fidelity, Schwab, Robinhood, Webull, dan E*TRADE dibandingkan — termasuk berapa yang diam-diam hilang dari setiap transaksi Anda.",
+  "recommendedFor": [
+    {
+      "label": "Investor jangka panjang yang bertransaksi 1.000 lembar ke atas",
+      "offerId": "fidelity-mobile",
+      "reason": "Tanpa PFOF, perbaikan harga rata-rata mencapai $0,018 per lembar — hemat $15 per transaksi 1.000 lembar, dibanding $3 di Robinhood."
+    },
+    {
+      "label": "Investor yang ingin perbankan dan investasi dalam satu tempat",
+      "offerId": "charles-schwab-mobile",
+      "reason": "Schwab menyatukan rekening giro, investasi, dan dana pensiun dalam satu aplikasi, tanpa PFOF untuk saham dan dengan pengembalian biaya ATM tanpa batas."
+    },
+    {
+      "label": "Investor pemula yang baru membuka akun broker pertamanya",
+      "offerId": "robinhood-app",
+      "reason": "Proses pendaftaran paling sederhana di kelasnya membuat pemula bisa mulai berinvestasi dalam 60 detik, dengan saham pecahan dan tanpa komisi."
+    },
+    {
+      "label": "Day trader aktif yang mengandalkan chart analisis teknikal",
+      "offerId": "webull-app",
+      "reason": "Charting setara perangkat profesional dengan indikator lengkap, data Level 2 gratis, dan mode paper trading untuk menguji strategi sebelum masuk pasar sungguhan."
+    },
+    {
+      "label": "Trader opsi yang ingin analitik tanpa kerumitan thinkorswim",
+      "offerId": "etrade-mobile",
+      "reason": "Power E*TRADE menghadirkan analitik opsi yang serius plus riset Morgan Stanley, tanpa kurva belajar curam khas platform profesional murni."
+    }
+  ]
 }

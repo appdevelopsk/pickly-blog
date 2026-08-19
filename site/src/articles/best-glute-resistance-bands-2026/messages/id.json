@@ -147,5 +147,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "Setiap produk dievaluasi berdasarkan lima kriteria: kualitas build, kinerja dalam penggunaan tipikal, ketahanan dari waktu ke waktu, kenyamanan, dan nilai per dolar. Kami memberikan bobot tertinggi pada kinerja dan ketahanan karena ini menentukan apakah suatu produk masih berguna 12 bulan kemudian."
+  "methodology": "Setiap produk dievaluasi berdasarkan lima kriteria: kualitas build, kinerja dalam penggunaan tipikal, ketahanan dari waktu ke waktu, kenyamanan, dan nilai per dolar. Kami memberikan bobot tertinggi pada kinerja dan ketahanan karena ini menentukan apakah suatu produk masih berguna 12 bulan kemudian.",
+  "recommendedFor": [
+    {
+      "label": "Pengguna home gym yang ingin menambah beban hip thrust",
+      "offerId": "victorem-hip-resistance-bands",
+      "reason": "Bahan kainnya lebar sehingga tidak bergeser saat hip thrust dengan beban, dan tiga tingkat resistansi memungkinkan Anda naik level tanpa membeli set baru."
+    },
+    {
+      "label": "Pemula berbujet terbatas yang baru mulai mengoleksi resistance band",
+      "offerId": "fit-simplify-resistance-loop-bands",
+      "reason": "Lima band dengan kode warna dari sangat ringan sampai sangat berat seharga di bawah Rp250.000 — kalau lateksnya sudah aus, Anda bisa mengganti satu set penuh tanpa berpikir dua kali."
+    },
+    {
+      "label": "Penggemar latihan glute yang setiap hari berlatih memakai legging",
+      "offerId": "peach-bands-fabric-set",
+      "reason": "Pola heksagonal anti-selipnya ditenun langsung ke dalam kain — bukan lapisan tempel yang gampang mengelupas — jadi tetap mencengkeram legging maupun celana pendek dari sesi ke sesi."
+    },
+    {
+      "label": "Anda yang kembali berlatih setelah cedera pinggul atau lutut",
+      "offerId": "theraband-resistance-loop",
+      "reason": "Tingkat resistansinya berstandar klinis dan sesuai dengan yang biasa diresepkan fisioterapis, sehingga program rehabilitasi bisa diikuti persis sesuai anjuran."
+    },
+    {
+      "label": "Pemilik apparel Gymshark yang ingin perlengkapan senada",
+      "offerId": "gymshark-resistance-band",
+      "reason": "Konstruksi rajutnya tahan terhadap serat yang terurai dan warnanya senada dengan lini apparel Gymshark terbaru, memberi tampilan padu dengan daya tahan di atas kebanyakan band berbahan kain."
+    }
+  ]
 }

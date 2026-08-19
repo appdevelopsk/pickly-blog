@@ -2,5 +2,127 @@
   "title": "robo-advisor Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan Betterment, Wealthfront, Schwab, Fidelity Go, Vanguard Digital Advisor. Inilah robo-advisor 2026 yang benar-benar unggul dalam hal imbal hasil bersih dan biaya tersembunyi.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Struktur biaya vs. biaya sebenarnya",
+      "paragraphs": [
+        "Biaya pengelolaan yang diiklankan (Betterment 0,25%, Wealthfront 0,25%, Schwab 0%, Fidelity Go 0% di bawah US$25.000, Vanguard 0,20%) hanya menceritakan separuh kisahnya. Rasio biaya ETF menumpuk di atasnya: Vanguard dengan campuran 0,04% adalah yang termurah, sedangkan Schwab di 0,16% menyingkap biaya tersembunyi.",
+        "Klaim 'tanpa biaya penasihat' dari Schwab terbayar oleh kewajiban menahan 6-8% dana dalam bentuk kas di money market yang hanya memberi imbal hasil 4,4% (dibandingkan ekspektasi imbal hasil portofolio sekitar 8%). Beban kas menganggur itu memakan sekitar US$120 per tahun untuk portofolio US$25.000 — lebih besar daripada biaya penasihat Betterment yang 0,25%."
+      ]
+    },
+    {
+      "heading": "Imbal hasil dua tahun (setelah semua biaya)",
+      "paragraphs": [
+        "Imbal hasil bersih Mei 2024 hingga Mei 2026 pada portofolio 80/20 senilai US$25.000: Vanguard Digital Advisor (+22,4%), Fidelity Go (+22,1%), Betterment (+21,8%), Wealthfront (+21,4%), Schwab (+19,7%). Beban kas menganggur menghukum Schwab.",
+        "Tax-loss harvesting yang terealisasi: Wealthfront (US$380 kerugian terealisasi), Betterment (US$310). Schwab, Fidelity, dan Vanguard tidak menyediakan TLH pada ukuran akun sebesar ini. Bagi wajib pajak berpenghasilan tinggi di bracket federal 32%, ini setara penghematan pajak nyata lebih dari US$100 per tahun."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Apakah robo-advisor lebih layak dibanding investasi mandiri?",
+      "a": "Layak jika alternatifnya adalah membiarkan dana mengendap sebagai kas, tidak pernah rebalancing, atau panik menjual saat pasar turun. Biaya 0,20-0,25% itu membeli disiplin perilaku. Tidak layak jika Anda memang konsisten membeli dan menahan VTI/BND sendiri."
+    },
+    {
+      "q": "Bisakah portofolio robo saya dipindahkan ke broker lain?",
+      "a": "Bisa — sebagian besar robo-advisor mengizinkan transfer ACATS ke broker di luar. Wealthfront dan Betterment memindahkan aset apa adanya (in-kind); Schwab dan Vanguard cenderung meminta pencairan ke kas lebih dulu."
+    },
+    {
+      "q": "Seberapa besar nilai tax-loss harvesting sebenarnya?",
+      "a": "Pada tarif federal 32% ditambah pajak negara bagian 5%, setiap US$1 kerugian yang dipanen bernilai US$0,37 penghematan pajak. Dengan rata-rata panen US$380 per tahun di Wealthfront, itu menambah US$141 imbal hasil nyata setiap tahun."
+    }
+  ],
+  "products": {
+    "betterment-robo": {
+      "badge": "🏆 Terbaik secara keseluruhan",
+      "review": "Betterment adalah robo yang paling mudah direkomendasikan. Biaya 0,25%, investasi berbasis tujuan (pos terpisah untuk pensiun, rumah, dan lainnya), serta tax-loss harvesting untuk semua ukuran akun. Setoran minimum US$0. Materi edukasinya terbaik di kelasnya. Imbal hasil dua tahun 21,8% setelah biaya.",
+      "pros": [
+        "Tax-loss harvesting mulai dari US$0",
+        "Antarmuka investasi berbasis tujuan"
+      ],
+      "cons": [
+        "Biaya 0,25% lebih tinggi daripada Vanguard"
+      ]
+    },
+    "wealthfront-robo": {
+      "badge": "📈 Terbaik untuk dana di atas US$100.000",
+      "review": "Wealthfront unggul tipis atas Betterment jika dana Anda di atas US$100.000. Direct Indexing (mengganti ETF dengan saham individual) menambah alfa 0,2-0,4% dari tax-loss harvesting pada level tersebut. Tersedia rencana pendidikan 529, portofolio yang bisa disesuaikan, dengan minimum US$500. Kuat untuk investor berpenghasilan besar.",
+      "pros": [
+        "Direct Indexing mulai US$100.000",
+        "Rencana 529 untuk tabungan pendidikan"
+      ],
+      "cons": [
+        "Minimum US$500 untuk membuka akun"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "💸 Tanpa biaya penasihat",
+      "review": "Schwab Intelligent Portfolios tidak memungut biaya penasihat, tetapi kewajiban menahan 6-8% kas menggerus penghematan itu. Termurah hanya di atas kertas. Minimum US$5.000. Paling masuk akal sebagai pelengkap bagi pengguna ekosistem Schwab, bukan sebagai robo-advisor utama.",
+      "pros": [
+        "Tanpa biaya penasihat",
+        "Manfaat ekosistem Schwab tanpa biaya tambahan"
+      ],
+      "cons": [
+        "Kewajiban kas 6-8% memakan sekitar US$120 per tahun"
+      ]
+    },
+    "fidelity-go": {
+      "badge": "🆓 Paket gratis terbaik",
+      "review": "Fidelity Go bebas biaya di bawah US$25.000 dan 0,35% di atasnya. Menggunakan reksa dana Fidelity Flex dengan rasio biaya 0%. Paling cocok untuk portofolio kecil (di bawah US$25.000), di mana paket gratisnya benar-benar gratis. Imbal hasil dua tahun 22,1%.",
+      "pros": [
+        "Bebas biaya di bawah US$25.000",
+        "Reksa dana Fidelity Flex dengan biaya 0%"
+      ],
+      "cons": [
+        "Melonjak ke 0,35% di atas US$25.000 — bukan yang termurah untuk saldo besar"
+      ]
+    },
+    "vanguard-digital-advisor": {
+      "badge": "💎 Total biaya terendah",
+      "review": "Vanguard Digital Advisor menawarkan total biaya paling rendah: 0,20% sudah termasuk biaya ETF indeks Vanguard. Minimum US$100. Imbal hasil dua tahun terbaik (+22,4%). Pendekatan pasif murni; tanpa TLH untuk akun di bawah US$50.000.",
+      "pros": [
+        "0,20% sudah all-in (paling rendah)",
+        "Imbal hasil 2 tahun terbaik dalam audit ini"
+      ],
+      "cons": [
+        "Tanpa tax-loss harvesting di bawah US$50.000"
+      ]
+    }
+  },
+  "offerNotes": {
+    "betterment-robo": "Paket Premium seharga 0,40% per tahun membuka akses ke penasihat manusia — sepadan untuk dana di atas US$200.000.",
+    "wealthfront-robo": "Direct Indexing baru aktif jika saldo minimum mencapai US$100.000.",
+    "schwab-intelligent-portfolios": "Paket Schwab Premium (US$30 per bulan + 0%) menambahkan penasihat manusia — lebih baik untuk perencanaan tujuan dibanding Intelligent Portfolios saja.",
+    "fidelity-go": "Atur frekuensi rebalancing menjadi triwulanan — setahun sekali terlalu lambat untuk saldo kecil.",
+    "vanguard-digital-advisor": "Personal Advisor Services mulai 0,30% untuk saldo di atas US$50.000 dan menyertakan penasihat manusia — layak dipertimbangkan di tingkat saldo yang lebih besar."
+  },
+  "pinDescription": "Investasi otomatis 2026: mana robo-advisor yang benar-benar murah? Betterment, Wealthfront, Schwab, Fidelity Go, dan Vanguard dibedah biaya demi biaya pada portofolio US$25.000 — termasuk beban kas menganggur yang jarang disebut.",
+  "recommendedFor": [
+    {
+      "label": "Investor pemula dengan modal di bawah US$25.000",
+      "offerId": "fidelity-go",
+      "reason": "Fidelity Go benar-benar tidak memungut biaya di bawah US$25.000 dan memakai reksa dana Flex berbiaya 0% — gratis sepenuhnya untuk memulai."
+    },
+    {
+      "label": "Berpenghasilan tinggi dengan akun broker kena pajak",
+      "offerId": "wealthfront-robo",
+      "reason": "Direct Indexing di atas US$100.000 memanen kerugian dari saham individual, menghasilkan lebih dari US$380 kerugian per tahun yang menghemat pajak lebih dari US$141 bagi wajib pajak bracket tinggi."
+    },
+    {
+      "label": "Pemula yang ingin serba otomatis dengan panduan berbasis tujuan",
+      "offerId": "betterment-robo",
+      "reason": "Pos tujuan Betterment memisahkan dana pensiun dari tabungan rumah, dan tax-loss harvesting aktif sejak US$0 tanpa syarat saldo minimum."
+    },
+    {
+      "label": "Investor indeks pasif jangka panjang yang mengejar biaya terendah",
+      "offerId": "vanguard-digital-advisor",
+      "reason": "Total biaya 0,20% sudah termasuk beban ETF — yang terendah dalam audit ini, sekaligus mencatat imbal hasil 2 tahun terbaik sebesar 22,4%."
+    },
+    {
+      "label": "Nasabah Schwab yang ingin menambah otomatisasi pada akunnya",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Tanpa biaya penasihat, layanan ini berfungsi sebagai peningkatan gratis di dalam ekosistem Schwab yang sudah dipakai, di mana beban kas menganggur tertutupi manfaat akun Schwab lainnya."
+    }
+  ]
 }

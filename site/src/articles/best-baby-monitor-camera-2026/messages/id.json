@@ -114,5 +114,32 @@
     "vtech-vm5263": "Tersedia di vtech.com, Target, Walmart, Amazon. Ada beberapa varian ukuran layar — VM5263 adalah yang 5 inci.",
     "miku-pro": "Tersedia di mikucare.com. Tidak perlu langganan untuk fitur dasar."
   },
-  "pinDescription": "Kamera monitor bayi terbaik 2026: Owlet Cam 2 vs Nanit Pro vs Infant Optics DXR-8 vs VTech VM5263 vs Miku Pro — diuji 90 hari."
+  "pinDescription": "Kamera monitor bayi terbaik 2026: Owlet Cam 2 vs Nanit Pro vs Infant Optics DXR-8 vs VTech VM5263 vs Miku Pro — diuji 90 hari.",
+  "recommendedFor": [
+    {
+      "label": "Orang tua baru yang cemas dan ingin memantau tanda vital bayi",
+      "offerId": "owlet-cam-2",
+      "reason": "Bekerja bersama Owlet Sock untuk memberi peringatan pernapasan dan detak jantung secara real-time, sehingga orang tua yang mudah cemas mendapat ketenangan berbasis data."
+    },
+    {
+      "label": "Orang tua yang gemar menganalisis setiap metrik tidur",
+      "offerId": "nanit-pro-camera",
+      "reason": "Pelacakan tidur berbasis AI dari atas boks memberi analitik harian tentang pola tidur dan total durasi tidur — tanpa perlu perangkat yang dipakai bayi."
+    },
+    {
+      "label": "Orang tua yang mengutamakan privasi dan menghindari perangkat terhubung internet",
+      "offerId": "infant-optics-dxr-8",
+      "reason": "Sepenuhnya berdiri sendiri tanpa Wi-Fi maupun cloud; unit induk 5 inci khusus tetap andal tanpa ponsel atau router."
+    },
+    {
+      "label": "Keluarga hemat yang melengkapi kamar kedua",
+      "offerId": "vtech-vm5263",
+      "reason": "Di kisaran Rp2 juta–2,7 juta dengan pan/tilt/zoom dan night vision, cukup untuk kamar bayi kedua atau rumah kakek-nenek tanpa membebani anggaran."
+    },
+    {
+      "label": "Orang tua melek teknologi yang ingin deteksi napas tanpa perangkat pakai",
+      "offerId": "miku-pro",
+      "reason": "Deteksi pernapasan nirkontak berbasis radar memantau napas bayi tanpa kaus kaki atau sensor apa pun yang menempel di tubuhnya."
+    }
+  ]
 }

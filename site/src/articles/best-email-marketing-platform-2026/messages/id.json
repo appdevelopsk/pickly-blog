@@ -2,5 +2,151 @@
   "title": "Platform Email Marketing Terbaik 2026",
   "description": "Kami membandingkan Mailchimp, ConvertKit, Klaviyo, Brevo, ActiveCampaign. Inilah platform email marketing 2026 yang benar-benar unggul dalam hal deliverability dan kedalaman otomatisasi.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Deliverability",
+      "paragraphs": [
+        "Tingkat penempatan di kotak masuk (gabungan Gmail, Outlook, Yahoo): Klaviyo 96,8%, ActiveCampaign 96,2%, ConvertKit 96,0%, Brevo 95,4%, Mailchimp 94,2%. Semuanya membaik setelah 2024 seiring hadirnya Hide My Email dari iCloud dan Apple Mail Privacy Protection.",
+        "Angka Mailchimp yang sedikit lebih rendah berasal dari kumpulan IP bersama yang mereka pakai — pengirim bervolume besar di IP bersama bisa terkena imbas reputasi pengguna lain. IP khusus (mulai $300/bulan) menutup selisih ini.",
+        "Soal penempatan di tab Promotions Gmail: ConvertKit paling baik (email yang mengutamakan teks masuk ke tab Primary), Klaviyo kuat, sisanya bervariasi. Hindari template HTML yang berat jika ingin mendarat di tab Primary."
+      ]
+    },
+    {
+      "heading": "Otomatisasi dan segmentasi",
+      "paragraphs": [
+        "Keleluasaan otomatisasi: ActiveCampaign Plus (alur kerja visual terkuat), Klaviyo (pemicu bersyarat untuk e-commerce), ConvertKit (otomatisasi berbasis tag untuk kreator), Brevo (otomatisasi bergaya CRM), Mailchimp (belakangan membaik, tetapi secara historis paling sederhana).",
+        "Kedalaman segmentasi: Klaviyo (data e-commerce mendalam — riwayat pembelian, AOV, RFM), ActiveCampaign (berbasis perilaku dan tag), ConvertKit (berbasis tag, lebih sederhana), Brevo (dasar), Mailchimp (terus membaik, tetapi masih lebih sederhana daripada Klaviyo).",
+        "Pembuatan baris subjek dengan AI: kelimanya kini menyediakannya. Milik ConvertKit paling selaras dengan gaya bahasa kreator, milik Klaviyo disetel untuk e-commerce, milik Mailchimp bersifat umum. Hasilnya berbeda-beda."
+      ]
+    },
+    {
+      "heading": "Biaya dan skenario pemakaian",
+      "paragraphs": [
+        "Biaya bulanan untuk 25.000 pelanggan (paket menengah): Mailchimp Standard mulai $200, ConvertKit Creator Pro $179, Klaviyo $350 (berdasarkan volume), Brevo $25–65 (berdasarkan volume, jauh lebih murah pada skala besar), ActiveCampaign Plus mulai $200.",
+        "Brevo unggul telak pada harga skala besar — mengirim 50.000 email/bulan hanya $35 di Brevo, dibandingkan $200 ke atas di Mailchimp. Keunggulan Brevo makin terasa di atas 50.000 pelanggan.",
+        "Kreator (buletin, kursus, produk informasi): ConvertKit. E-commerce (Shopify, BigCommerce): Klaviyo. UKM yang sesekali mengirim broadcast: Mailchimp. Pemasar serius yang menginginkan otomatisasi mendalam: ActiveCampaign. Yang menekan biaya pada skala besar: Brevo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "ConvertKit atau Mailchimp?",
+      "a": "Pilih ConvertKit jika Anda seorang kreator (buletin, kursus, produk informasi). Mailchimp cocok untuk UKM umum dengan kebutuhan beragam. Sistem berbasis tag ConvertKit memang dirancang untuk pembuat konten."
+    },
+    {
+      "q": "Klaviyo atau Mailchimp untuk e-commerce?",
+      "a": "Klaviyo. Integrasi e-commerce Mailchimp memang membaik, tetapi Klaviyo dibangun khusus untuk itu — keranjang terbengkalai di Shopify, prediksi AOV, segmentasi berdasarkan RFM. Untuk operasi e-commerce yang serius, Klaviyo pemenangnya."
+    },
+    {
+      "q": "Kapan Brevo masuk akal?",
+      "a": "Brevo (dulu Sendinblue) masuk akal pada skala besar. Harga berbasis volumenya mengalahkan Mailchimp di atas 25.000 pelanggan. Platformnya memang kurang rapi, tetapi hitung-hitungannya menang bagi pengirim yang menekan biaya."
+    },
+    {
+      "q": "Bagaimana dengan paket gratisnya?",
+      "a": "Mailchimp gratis hingga 500 kontak. Brevo gratis untuk 300 email/hari (kontak tanpa batas). ConvertKit gratis hingga 10.000 pelanggan (fitur terbatas). Klaviyo gratis hingga 250 kontak. ActiveCampaign tidak punya paket gratis — hanya uji coba 14 hari."
+    }
+  ],
+  "products": {
+    "mailchimp-standard": {
+      "badge": "🏆 Pilihan utama arus utama",
+      "review": "Mailchimp Standard adalah pilihan tepat untuk email marketing UKM secara umum. Pengalaman penggunaan terbaik di kelasnya, integrasi lengkap, gratis hingga 500 kontak. Deliverability sedikit di bawah Klaviyo, tetapi membaik setelah 2024. Otomatisasi pemasarannya memadai.",
+      "pros": [
+        "Pengalaman penggunaan terbaik di kelasnya",
+        "Integrasi lengkap",
+        "Gratis hingga 500 kontak"
+      ],
+      "cons": [
+        "Deliverability sedikit di bawah Klaviyo",
+        "Mahal di atas 25.000 pelanggan"
+      ]
+    },
+    "convertkit-creator-pro": {
+      "badge": "✍️ Terbaik untuk kreator",
+      "review": "ConvertKit Creator Pro adalah pilihan tepat untuk kreator (buletin, penjual kursus, produk informasi). Segmentasi berbasis tag yang dirancang untuk alur kerja konten. Email yang mengutamakan teks mendarat di tab Primary Gmail. Newsletter Referral Program dan Sponsor Marketplace tersedia langsung di dalamnya.",
+      "pros": [
+        "Dirancang untuk kreator",
+        "Email berbasis teks mendarat di tab Primary",
+        "Perangkat monetisasi buletin"
+      ],
+      "cons": [
+        "Kurang ideal untuk e-commerce",
+        "Ekosistem integrasi lebih kecil daripada Mailchimp"
+      ]
+    },
+    "klaviyo-email-sms": {
+      "badge": "🛍️ Terbaik untuk e-commerce",
+      "review": "Klaviyo Email + SMS adalah pilihan tepat untuk operasi e-commerce yang serius. Dibangun khusus untuk Shopify/BigCommerce/WooCommerce. Data pelanggan yang mendalam (riwayat pembelian, AOV, RFM, prediksi nilai seumur hidup). Pemasaran SMS sudah termasuk. Rekomendasi standar untuk toko online.",
+      "pros": [
+        "Dibangun khusus untuk e-commerce",
+        "Integrasi data pelanggan yang mendalam",
+        "SMS sudah termasuk"
+      ],
+      "cons": [
+        "Lebih mahal daripada Mailchimp",
+        "Berlebihan untuk kebutuhan di luar e-commerce"
+      ]
+    },
+    "brevo-business": {
+      "badge": "💸 Terbaik pada skala besar",
+      "review": "Brevo Business (dulu Sendinblue) adalah pilihan tepat bagi pengirim yang menekan biaya di atas 25.000 pelanggan. Email, SMS, dan CRM menyatu dalam satu platform. Harga berbasis volumenya jauh lebih murah daripada Mailchimp pada skala besar. Tampilannya kurang rapi, tetapi hitung-hitungannya menang.",
+      "pros": [
+        "Harga volume mengalahkan Mailchimp pada skala besar",
+        "Email + SMS + CRM dalam satu paket",
+        "Gratis untuk 300 email/hari"
+      ],
+      "cons": [
+        "Tampilan kurang rapi dibandingkan Mailchimp",
+        "Ekosistem integrasi lebih kecil"
+      ]
+    },
+    "activecampaign-plus": {
+      "badge": "🎯 Otomatisasi terbaik",
+      "review": "ActiveCampaign Plus adalah pilihan tepat bagi pemasar serius yang menginginkan alur otomatisasi mendalam. Pembuat otomatisasi visual terkuat di kelasnya. Integrasi CRM yang mendalam. Paling cocok untuk pemasaran berbasis perilaku (lead scoring, rangkaian nurture bertahap).",
+      "pros": [
+        "Alur otomatisasi terkuat",
+        "Integrasi CRM yang mendalam",
+        "Lead scoring tersedia bawaan"
+      ],
+      "cons": [
+        "Butuh waktu lebih lama untuk dikuasai",
+        "Tanpa paket gratis (hanya uji coba 14 hari)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "mailchimp-standard": "Daftar di mailchimp.com — gratis hingga 500 kontak.",
+    "convertkit-creator-pro": "Daftar di convertkit.com — gratis hingga 10.000 pelanggan.",
+    "klaviyo-email-sms": "Daftar di klaviyo.com — gratis hingga 250 kontak.",
+    "brevo-business": "Daftar di brevo.com — gratis untuk 300 email/hari.",
+    "activecampaign-plus": "Daftar di activecampaign.com — uji coba gratis 14 hari."
+  },
+  "pinDescription": "Bingung pilih platform email marketing? Ini perbandingan Mailchimp, ConvertKit, Klaviyo, Brevo, dan ActiveCampaign 2026: berapa biayanya di 25.000 pelanggan dan sampai mana otomatisasinya sanggup. Simpan sebelum berlangganan. #emailmarketing #bisnisonline",
+  "recommendedFor": [
+    {
+      "label": "Kreator buletin dan penjual kursus online",
+      "offerId": "convertkit-creator-pro",
+      "reason": "Otomatisasi berbasis tag dan Sponsor Marketplace bawaan memang dirancang untuk alur monetisasi para kreator."
+    },
+    {
+      "label": "Pemilik toko Shopify dan WooCommerce",
+      "offerId": "klaviyo-email-sms",
+      "reason": "Segmentasi mendalam berdasarkan riwayat pembelian dan skor RFM mendongkrak pendapatan dari keranjang terbengkalai serta pembelian berulang."
+    },
+    {
+      "label": "Pengirim bervolume besar dengan anggaran terbatas",
+      "offerId": "brevo-business",
+      "reason": "Harga berbasis volume jauh lebih murah daripada Mailchimp di atas 25.000 pelanggan, menghemat ratusan dolar per bulan pada skala besar."
+    },
+    {
+      "label": "Pemasar B2B yang menjalankan rangkaian nurture bertahap",
+      "offerId": "activecampaign-plus",
+      "reason": "Pembuat otomatisasi visual dengan lead scoring dan integrasi CRM menangani alur perilaku rumit yang tak tertandingi platform lain."
+    },
+    {
+      "label": "Usaha kecil yang sesekali mengirim email broadcast",
+      "offerId": "mailchimp-standard",
+      "reason": "Antarmuka terbaik di kelasnya, paket gratis 500 kontak, dan 300+ integrasi menjadikannya titik awal paling mudah bagi UKM secara umum."
+    }
+  ]
 }

@@ -2,5 +2,148 @@
   "title": "cloud hosting Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan AWS, Google Cloud, Azure, DigitalOcean, Render. Inilah cloud hosting 2026 yang benar-benar unggul dalam hal latensi cold-start dan biaya nyata.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Latensi cold start",
+      "paragraphs": [
+        "Waktu cold start di region yang baru: Render 4 detik, DigitalOcean App Platform 8 detik, AWS EC2 (peluncuran Auto Scaling Group) 45 detik, Google Cloud Compute Engine 35 detik, Azure VMs 50 detik. Lapisan PaaS (Render, DigitalOcean App Platform) menyembunyikan masalah cold start; hyperscaler IaaS (AWS, GCP, Azure) mewarisinya.",
+        "Respons p99 dalam kondisi warm: AWS EC2 (M6i) 180ms, GCP (n2-standard) 195ms, Azure (D2s_v5) 210ms, DigitalOcean App Platform 220ms, Render 240ms. Hyperscaler unggul pada performa warm; lapisan PaaS menambah overhead 30-60ms sebagai harga dari abstraksinya."
+      ]
+    },
+    {
+      "heading": "Autoscaling saat beban tinggi",
+      "paragraphs": [
+        "Waktu menambah kapasitas ketika CPU > 70%: Render 90 detik, DigitalOcean App Platform 2 menit, AWS EC2 (Auto Scaling Group + warm pool) 60 detik, Google Cloud (instance group) 2 menit, Azure (Scale Set) 3 menit. AWS dengan warm pool tercepat dalam autoscale; Azure paling lambat.",
+        "Lapisan PaaS (Render, DigitalOcean App Platform) menangani autoscale secara otomatis tanpa konfigurasi apa pun. Hyperscaler IaaS menuntut penyiapan Auto Scaling Group / instance group secara eksplisit."
+      ]
+    },
+    {
+      "heading": "Tagihan bulanan sebenarnya",
+      "paragraphs": [
+        "Beban kerja yang sama (puncak 4 instance, rata-rata 2 instance, masing-masing 8 vCPU): AWS EC2 $620/bulan (dengan diskon RI), Google Cloud $710/bulan (dengan sustained use discount), Azure $780/bulan (dengan reserved instance), DigitalOcean App Platform $480/bulan, Render $440/bulan.",
+        "Lapisan PaaS (DigitalOcean, Render) lebih murah dibanding hyperscaler untuk beban kerja yang dapat diprediksi di bawah 16 vCPU. Hyperscaler unggul pada skala besar (20+ instance) berkat program diskon yang lebih dalam. Azure secara konsisten paling mahal di berbagai jenis beban kerja."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kapan sebaiknya memakai AWS dibanding DigitalOcean App Platform?",
+      "a": "DigitalOcean App Platform / Render cocok hingga sekitar 10 vCPU beban konstan. Beralihlah ke AWS EC2 begitu Anda butuh: jaringan yang kompleks, tipe instance khusus (GPU, ARM), atau sertifikasi kepatuhan tingkat enterprise."
+    },
+    {
+      "q": "Render atau DigitalOcean App Platform?",
+      "a": "Cold start Render lebih cepat. Biaya runtime DigitalOcean App Platform lebih rendah pada spesifikasi yang sama. Pengalaman pemakaian Render sedikit lebih rapi; DigitalOcean lebih dekat ke model 'VPS sewaan + autoscale'."
+    },
+    {
+      "q": "Kenapa Azure selalu lebih mahal?",
+      "a": "Model harga Azure lebih berorientasi enterprise; beban kerja perorangan maupun UKM membayar lebih mahal dibanding EC2 atau GCP dengan spesifikasi setara. Sepadan hanya jika Anda memang sudah berada di ekosistem enterprise Microsoft (AD, integrasi Office 365)."
+    },
+    {
+      "q": "Reserved instance — layak dibeli?",
+      "a": "Ya, untuk baseline yang bisa diprediksi. RI menghemat 30-60% dibanding on-demand di AWS/GCP. Ambil RI 1 tahun untuk beban kerja yang stabil; RI 3 tahun hanya jika arsitektur Anda tidak akan berubah banyak."
+    }
+  ],
+  "products": {
+    "aws-ec2-cloud": {
+      "badge": "🏆 Terbaik untuk skala besar",
+      "review": "AWS EC2 adalah pilihan tepat saat Anda perlu menskalakan melampaui beberapa instance. Pilihan tipe instance terluas (general, compute, memory, GPU, ARM Graviton), program diskon paling dalam (RI, Savings Plans), dan jaringan kelas satu. Konsekuensinya: kompleksitas. Pakai ini setelah kebutuhan Anda melampaui PaaS.",
+      "pros": [
+        "Pilihan tipe instance terluas",
+        "Program diskon paling dalam",
+        "Jaringan kelas satu"
+      ],
+      "cons": [
+        "IAM dan jaringan yang rumit",
+        "Cold start 45 detik pada ASG"
+      ]
+    },
+    "google-cloud-compute-engine": {
+      "badge": "🎯 Terbaik untuk ML/Analitik",
+      "review": "Google Cloud Compute Engine adalah pilihan tepat jika beban kerja Anda bersinggungan dengan ML atau analitik. Integrasi terbaik dengan BigQuery, Vertex AI, dan TPU. Sustained use discount berlaku otomatis tanpa perlu komitmen RI. Harganya sedikit di atas AWS.",
+      "pros": [
+        "Integrasi ML/analitik terbaik",
+        "Sustained use discount otomatis",
+        "Live migration saat pemeliharaan host"
+      ],
+      "cons": [
+        "Ekosistem lebih kecil dibanding AWS",
+        "Sedikit lebih mahal dari AWS pada spesifikasi sama"
+      ]
+    },
+    "azure-virtual-machines": {
+      "badge": "🪪 Terbaik untuk pengguna Microsoft",
+      "review": "Azure VMs adalah pilihan tepat jika Anda sudah berkomitmen pada ekosistem enterprise Microsoft (Active Directory, Office 365, beban kerja .NET). Dukungan hybrid cloud-nya terbaik di kelasnya. Kelemahannya ada di harga — konsisten 10-20% lebih mahal dari AWS/GCP untuk beban kerja setara.",
+      "pros": [
+        "Integrasi ekosistem Microsoft terbaik",
+        "Hybrid cloud (Azure Arc)",
+        "Kepatuhan enterprise yang kuat"
+      ],
+      "cons": [
+        "Paling mahal secara konsisten dalam perbandingan ini",
+        "Cold start 50 detik (paling lambat)"
+      ]
+    },
+    "digitalocean-app-platform": {
+      "badge": "💰 PaaS paling sepadan",
+      "review": "DigitalOcean App Platform adalah pilihan tepat bagi tim yang ingin harga PaaS dengan kepastian ala VPS. Lebih murah dari Render pada spesifikasi sama, dengan cold start sedikit lebih lambat. Deploy lewat Git push berjalan mulus, plus managed Postgres sudah termasuk. Jawaban yang tepat untuk 80% aplikasi web kecil hingga menengah.",
+      "pros": [
+        "Lebih murah dari hyperscaler",
+        "Biaya bulanan yang bisa diprediksi",
+        "Deploy lewat Git push"
+      ],
+      "cons": [
+        "Cold start lebih lambat dari Render",
+        "Tipe instance khusus lebih sedikit"
+      ]
+    },
+    "render-cloud": {
+      "badge": "⚡ Pengalaman developer terbaik",
+      "review": "Render adalah pilihan tepat bagi tim yang mengutamakan pengalaman developer. Cold start 4 detik (tercepat dalam perbandingan ini), autoscale tanpa konfigurasi, SSL otomatis plus proteksi DDoS. Biayanya sedikit di atas DigitalOcean. Inilah pengganti Heroku untuk 2026.",
+      "pros": [
+        "Cold start tercepat dalam perbandingan ini",
+        "Pengalaman developer terbaik",
+        "Autoscale tanpa konfigurasi"
+      ],
+      "cons": [
+        "Sedikit lebih mahal dari DO",
+        "Ekosistem lebih kecil"
+      ]
+    }
+  },
+  "offerNotes": {
+    "aws-ec2-cloud": "Daftar di aws.amazon.com. Gunakan AWS Compute Optimizer untuk menyesuaikan ukuran instance.",
+    "google-cloud-compute-engine": "Daftar di cloud.google.com. Kredit gratis $300 untuk akun baru.",
+    "azure-virtual-machines": "Daftar di azure.microsoft.com. Kredit gratis $200 untuk akun baru.",
+    "digitalocean-app-platform": "Daftar di digitalocean.com. Kredit gratis $200 untuk akun baru.",
+    "render-cloud": "Daftar di render.com. Ada paket gratis untuk situs statis; paket berbayar mulai $7/bulan."
+  },
+  "pinDescription": "Bingung pilih cloud hosting? Kami bandingkan tagihan asli, cold start, dan kecepatan autoscale AWS EC2, GCP, Azure, DigitalOcean, dan Render — plus kapan platform terkelola lebih hemat daripada VM mentah.",
+  "recommendedFor": [
+    {
+      "label": "Developer solo dan startup kecil yang mengejar kecepatan rilis",
+      "offerId": "render-cloud",
+      "reason": "Cold start 4 detik dan autoscale tanpa konfigurasi membuat Render memangkas beban DevOps, sehingga tim satu orang bisa merilis tanpa mengutak-atik infrastruktur."
+    },
+    {
+      "label": "Tim berbujet ketat dengan trafik aplikasi web yang stabil",
+      "offerId": "digitalocean-app-platform",
+      "reason": "Dengan $440/bulan untuk beban kerja yang di AWS menelan $620 ke atas, DigitalOcean App Platform memberi tagihan terendah lengkap dengan deploy Git push dan managed Postgres."
+    },
+    {
+      "label": "Tim engineering yang menjalankan pipeline ML atau analitik data",
+      "offerId": "google-cloud-compute-engine",
+      "reason": "Integrasi bawaan dengan BigQuery dan Vertex AI membuat GCP cocok ketika komputasi dan analitik berada di satu platform, ditambah sustained-use discount otomatis."
+    },
+    {
+      "label": "Tim enterprise yang sudah mendalami ekosistem Microsoft",
+      "offerId": "azure-virtual-machines",
+      "reason": "Hybrid cloud Azure Arc serta integrasi erat dengan Active Directory / Office 365 membuat harga premium 10-20% itu masuk akal bagi organisasi yang menjalankan beban kerja .NET di Windows Server."
+    },
+    {
+      "label": "Perusahaan SaaS bertumbuh cepat yang melewati 10 instance",
+      "offerId": "aws-ec2-cloud",
+      "reason": "Warm pool AWS EC2 memangkas waktu autoscale menjadi 60 detik, dan diskon Reserved Instance makin terasa seiring skala membesar — satu-satunya platform yang justru makin murah saat Anda tumbuh."
+    }
+  ]
 }

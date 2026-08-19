@@ -2,5 +2,147 @@
   "title": "platform investasi Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan Fidelity, Vanguard, Schwab, Robinhood, E*TRADE. Inilah platform investasi 2026 yang benar-benar unggul dalam hal rasio biaya dan fitur platform.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Rasio biaya ETF indeks",
+      "paragraphs": [
+        "Fidelity ZERO funds: 0,00% (FZROX, FZILX, dll.) — hanya tersedia di akun Fidelity.",
+        "ETF Vanguard: 0,03% (VTI), 0,07% (VXUS), 0,03% (BND). Terendah di industri.",
+        "ETF Schwab: 0,03% (SCHB), 0,06% (SCHE), 0,03% (SCHZ). Setara dengan Vanguard.",
+        "Platform lain: bisa memegang ETF yang sama tanpa komisi, tetapi umumnya tidak punya reksa dana berbiaya nol milik sendiri."
+      ]
+    },
+    {
+      "heading": "Pilihan terbaik menurut kebutuhan",
+      "paragraphs": [
+        "Terbaik secara keseluruhan: Fidelity. ZERO funds tanpa biaya, tanpa komisi, dukungan telepon 24/7, cakupan kelas aset luas.",
+        "Terbaik untuk investor indeks: Vanguard. Rasio biaya ETF terendah di industri, pelopor investasi indeks.",
+        "Terbaik untuk perbankan + sekuritas: Schwab. Layanan perbankan terintegrasi dengan tarik tunai ATM gratis di seluruh dunia.",
+        "Terbaik untuk mobile/investor santai: Robinhood. Pengalaman aplikasi terbaik, tetapi minim alat riset.",
+        "Terbaik untuk trader aktif: E*TRADE. Platform Power E*TRADE dengan fitur trading opsi yang lengkap."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Apakah pilihan platform benar-benar berpengaruh untuk investasi indeks?",
+      "a": "Pengaruhnya kecil — total biaya hanya berbeda sekitar 0,01–0,05% per tahun. Selama 30 tahun pada dana US$200.000, selisihnya US$1.200–US$6.000. Cukup berarti, tetapi bukan penentu nasib. Pilih platform yang paling cocok dengan kebutuhan Anda yang lain."
+    },
+    {
+      "q": "Perlukah saya pindah platform?",
+      "a": "Hanya jika Anda bisa menghemat 0,05% atau lebih pada rasio biaya, atau mendapat fitur yang benar-benar berguna. Biaya pindah mencakup pengurusan dokumen pajak untuk saham yang dialihkan dan waktu untuk membiasakan diri dengan antarmuka baru."
+    },
+    {
+      "q": "Apakah Robinhood aman?",
+      "a": "Ya — dijamin SIPC seperti sekuritas lain, dengan perlindungan standar US$500.000. Kasus GameStop pada 2021 menyoroti model bisnis order flow milik Robinhood, tetapi dana di akun nasabah sendiri tetap aman."
+    },
+    {
+      "q": "Bagaimana dengan Webull, Public, dan M1?",
+      "a": "Ketiganya layak untuk kebutuhan tertentu. Public menekankan investasi beretika; M1 fokus pada pengelolaan portofolio otomatis; Webull mirip Robinhood dengan fitur charting yang lebih canggih."
+    }
+  ],
+  "products": {
+    "fidelity-platform": {
+      "badge": "🏆 Terbaik keseluruhan",
+      "review": "Fidelity adalah platform investasi terbaik secara keseluruhan bagi sebagian besar investor. Tanpa setoran minimum, tanpa komisi, FZROX dengan rasio biaya 0,00% (satu-satunya reksa dana yang benar-benar tanpa biaya), dukungan telepon 24/7, dan kantor cabang di kota-kota besar. Rekening sekuritas, dana pensiun, perbankan, dan HSA bisa dikelola di satu tempat.",
+      "pros": [
+        "FZROX dengan rasio biaya 0,00%",
+        "Dukungan telepon 24/7 dan kantor cabang",
+        "Cakupan kelas aset paling luas"
+      ],
+      "cons": [
+        "ZERO funds hanya bisa dipindahkan di dalam Fidelity (terkunci di satu penyedia)",
+        "Antarmuka ActiveTraderPro kalah rapi dibanding ThinkOrSwim"
+      ]
+    },
+    "vanguard-platform": {
+      "badge": "💸 Terbaik untuk indeks",
+      "review": "Vanguard adalah pilihan tepat bagi investor indeks bertipe beli-dan-tahan. Rasio biaya ETF-nya terendah di industri — selama 30 tahun, penghematan 0,01–0,03% dibanding pesaing berbunga majemuk menjadi angka yang berarti. Didirikan oleh Jack Bogle. Antarmukanya terasa ketinggalan zaman (bergaya situs era 2010), tetapi tetap berfungsi baik.",
+      "pros": [
+        "Rasio biaya ETF terendah",
+        "Didirikan Jack Bogle (pelopor investasi indeks)",
+        "ETF yang jadi standar industri (VTI, VXUS)"
+      ],
+      "cons": [
+        "Antarmuka ketinggalan zaman",
+        "Alat untuk trading aktif terbatas"
+      ]
+    },
+    "schwab-platform": {
+      "badge": "🏦 Terbaik untuk perbankan",
+      "review": "Schwab adalah pilihan tepat bila Anda ingin perbankan dan sekuritas menyatu. Tanpa komisi, rekening giro Schwab Bank tanpa biaya transaksi luar negeri, plus tarik tunai ATM gratis di seluruh dunia. Robo-advisor Intelligent Portfolios tersedia gratis. Schwab mengakuisisi TD Ameritrade pada 2023 — platform ThinkOrSwim kini menjadi bagian dari Schwab.",
+      "pros": [
+        "Perbankan dan sekuritas terintegrasi",
+        "Tarik tunai ATM gratis di seluruh dunia",
+        "Platform ThinkOrSwim (setelah akuisisi TD)"
+      ],
+      "cons": [
+        "Intelligent Portfolios menahan porsi kas yang besar",
+        "Masih ada kendala sisa migrasi TD Ameritrade"
+      ]
+    },
+    "robinhood-platform": {
+      "badge": "📱 Aplikasi terbaik",
+      "review": "Robinhood cocok bagi investor santai yang mengutamakan aplikasi ponsel. Pengalaman mobile-nya terbaik di industri, tanpa komisi, dan mendukung saham fraksional. Alat riset dan fitur lanjutannya kalah dibanding Fidelity atau Schwab. Paling pas untuk membeli ETF pasar luas sesekali.",
+      "pros": [
+        "Pengalaman aplikasi ponsel terbaik",
+        "Saham fraksional",
+        "Pembukaan akun cepat"
+      ],
+      "cons": [
+        "Minim alat riset",
+        "Mengandalkan model bisnis order flow",
+        "Jenis rekening terbatas"
+      ]
+    },
+    "etrade-platform": {
+      "badge": "📈 Terbaik untuk trader aktif",
+      "review": "E*TRADE adalah platform yang tepat bagi trader aktif. Power E*TRADE menyediakan charting canggih, ramah untuk trading opsi, dan tanpa komisi. Kini dimiliki Morgan Stanley. Platform Power E*TRADE cukup tangguh untuk trading aktif maupun strategi opsi.",
+      "pros": [
+        "Power E*TRADE untuk trading aktif",
+        "Platform opsi yang kuat",
+        "Dimiliki Morgan Stanley"
+      ],
+      "cons": [
+        "Antarmukanya kurang ramah pemula dibanding Robinhood",
+        "Integrasi dengan Morgan Stanley masih berjalan"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-platform": "Daftar di fidelity.com. ZERO funds (FZROX, FZILX, FZIPX, FZIPX) hanya tersedia eksklusif di Fidelity.",
+    "vanguard-platform": "Daftar di investor.vanguard.com. VTI dan VXUS adalah ETF andalan mereka.",
+    "schwab-platform": "Daftar di schwab.com. Rekening giro Schwab Bank adalah fitur yang wajib diambil.",
+    "robinhood-platform": "Daftar di robinhood.com atau lewat aplikasinya. Langganan Robinhood Gold (US$5/bulan) menambah alat riset.",
+    "etrade-platform": "Daftar di us.etrade.com. Gunakan Power E*TRADE (terpisah dari aplikasi biasa) untuk fitur lanjutan."
+  },
+  "pinDescription": "Mau mulai investasi di pasar AS? Bandingkan Fidelity, Vanguard, Schwab, Robinhood, dan E*TRADE — mana yang paling murah biayanya dan paling pas buat Anda.",
+  "recommendedFor": [
+    {
+      "label": "Penabung dana pensiun jangka panjang yang menghitung setiap basis poin",
+      "offerId": "fidelity-platform",
+      "reason": "FZROX milik Fidelity dengan rasio biaya 0,00% adalah satu-satunya reksa dana yang benar-benar tanpa biaya, sehingga menghemat biaya berbunga majemuk selama puluhan tahun menabung untuk pensiun."
+    },
+    {
+      "label": "Investor pasif yang berpegang pada strategi reksa dana indeks berbiaya rendah",
+      "offerId": "vanguard-platform",
+      "reason": "VTI dan VXUS dari Vanguard memiliki rasio biaya 0,03–0,07% yang terendah di industri, dan pendirinya, Jack Bogle, adalah pelopor strategi yang dipakai investor ini."
+    },
+    {
+      "label": "Pelancong internasional yang sering mengatur dana tunai sekaligus investasi",
+      "offerId": "schwab-platform",
+      "reason": "Rekening giro Schwab Bank bebas biaya transaksi luar negeri dan tarik tunai ATM gratis di seluruh dunia, menjadikannya satu-satunya sekuritas yang membuat uang tunai Anda ikut bergerak sebebas Anda."
+    },
+    {
+      "label": "Investor pemula usia muda yang memulai dengan dana kecil",
+      "offerId": "robinhood-platform",
+      "reason": "Antarmuka ponsel Robinhood yang terbaik di kelasnya dan fitur saham fraksional memungkinkan pemula membeli saham dan ETF mahal dengan nominal berapa pun, tanpa setoran minimum."
+    },
+    {
+      "label": "Trader aktif yang menjalankan strategi opsi dan multi-leg",
+      "offerId": "etrade-platform",
+      "reason": "Charting canggih dan perangkat khusus opsi di Power E*TRADE sanggup menangani strategi multi-leg rumit yang tidak bisa dieksekusi secara efisien oleh platform yang lebih sederhana."
+    }
+  ]
 }

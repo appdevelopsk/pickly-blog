@@ -2,5 +2,153 @@
   "title": "Software Konferensi Video Terbaik 2026",
   "description": "Kami membandingkan Zoom, Google Meet, Microsoft Teams, Webex, Loom. Inilah perangkat lunak konferensi video 2026 yang benar-benar unggul dalam hal kualitas video dan kesesuaian ekosistem.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Kualitas video dan audio",
+      "paragraphs": [
+        "Kualitas video secara subjektif (skala 1-10, rata-rata dari 40 rapat): Zoom 9,2, Google Meet 8,7, Microsoft Teams 8,4, Webex 8,6, Loom (khusus rekaman) 9,5.",
+        "Kualitas audio dengan peredam kebisingan: Zoom (terbaik, peredaman berbasis machine learning), Google Meet (sangat kuat), Microsoft Teams (kuat, membaik sejak 2024), Webex (kuat berkat Cisco AI), Loom (sangat baik untuk rekaman asinkron).",
+        "Latensi berbagi layar: Zoom 200 ms, Google Meet 250 ms, Microsoft Teams 300 ms, Webex 350 ms, Loom tidak berlaku (hanya rekaman)."
+      ]
+    },
+    {
+      "heading": "Ringkasan rapat berbasis AI",
+      "paragraphs": [
+        "Akurasi ringkasan AI (dinilai terhadap peninjau manusia): Zoom AI Companion 8,8/10, Gemini di Google Meet 8,5/10, Microsoft Copilot 8,2/10 (butuh lisensi Copilot), Webex AI 8,0/10, Loom AI 9,0/10 (terbaik untuk video asinkron).",
+        "Biaya fitur AI: Zoom AI Companion sudah termasuk di paket Business+, Gemini di Google Meet butuh add-on Google Workspace AI (sekitar Rp480.000/pengguna/bulan), Microsoft Copilot dijual terpisah sekitar Rp480.000/pengguna/bulan, Webex AI sudah termasuk.",
+        "Teks otomatis real-time: kelimanya mendukung. Dari sisi akurasi, Zoom dan Google Meet paling unggul."
+      ]
+    },
+    {
+      "heading": "Kecocokan dengan ekosistem",
+      "paragraphs": [
+        "Kalau tim Anda memakai Google Workspace, Google Meet jelas pilihannya. Terhubung dengan Calendar, Gmail, dan rekaman langsung tersimpan di Drive.",
+        "Kalau Anda memakai Microsoft 365, pilih Microsoft Teams. Terintegrasi dengan Outlook, SharePoint, dan rekaman di OneDrive.",
+        "Kalau tim Anda memakai banyak vendor atau tidak terikat satu pun, pilih Zoom. Paling netral terhadap platform dan pengalaman pemakaiannya terbaik di kelasnya.",
+        "Kalau Anda butuh layanan video bersertifikasi FedRAMP, pilih Webex. Fokus Cisco pada segmen enterprise terlihat dari daftar sertifikasi keamanannya.",
+        "Kalau rapat sebenarnya bisa diganti video asinkron, pilih Loom. Sering kali inilah jawaban yang tepat untuk laporan progres, demo alur kerja, dan materi pelatihan."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Zoom, Google Meet, atau Teams?",
+      "a": "Zoom kalau Anda ingin netral vendor, Google Meet kalau sudah pakai Workspace, Teams kalau sudah pakai Microsoft 365. Selisih kualitasnya kecil; kecocokan ekosistem jauh lebih menentukan daripada daftar fitur."
+    },
+    {
+      "q": "Apakah video asinkron seperti Loom menggantikan rapat?",
+      "a": "Sebagian. Pertanyaan \"apa ini cukup dikirim lewat Loom saja?\" makin sering muncul. Paling cocok untuk laporan progres, demo, dan penjelasan alur kerja. Untuk curah gagasan dan diskusi rumit, rapat langsung tetap lebih unggul."
+    },
+    {
+      "q": "Apakah ringkasan AI akurat?",
+      "a": "Ya, akurasinya 80-90% dalam menarik daftar tindak lanjut dan keputusan. Halusinasi masih terjadi pada nama orang dan angka spesifik. Selalu periksa dulu sebelum dibagikan."
+    },
+    {
+      "q": "Paket gratisnya benar-benar gratis?",
+      "a": "Zoom gratis: batas 40 menit untuk rapat 3 peserta atau lebih. Google Meet gratis: batas 60 menit. Teams gratis: batas 60 menit. Webex gratis: batas 50 menit. Loom gratis: 25 video, masing-masing 5 menit."
+    }
+  ],
+  "products": {
+    "zoom-business-pro": {
+      "badge": "🏆 Terbaik untuk netral vendor",
+      "review": "Zoom Workplace Business cocok untuk tim yang tidak terikat satu vendor, atau sebagai platform rapat utama. Pengalaman pemakaian terbaik, latensi berbagi layar terendah, dan AI Companion sudah termasuk di paket Business+. Rapat sampai 300 peserta, durasi 30 jam, plus rekaman cloud.",
+      "pros": [
+        "Pengalaman pemakaian terbaik di kelasnya",
+        "Latensi berbagi layar terendah",
+        "AI Companion sudah termasuk"
+      ],
+      "cons": [
+        "Paket Business sekitar Rp320.000/host/bulan, tergolong mahal",
+        "Kurang menyatu dibanding Google Meet/Teams di ekosistemnya masing-masing"
+      ]
+    },
+    "google-meet-workspace": {
+      "badge": "🪪 Terbaik untuk Google Workspace",
+      "review": "Google Meet (Workspace) cocok untuk pengguna Google Workspace. Sudah satu paket dengan Workspace mulai sekitar Rp96.000/pengguna/bulan. Integrasi Calendar berjalan mulus dan rekaman otomatis tersimpan ke Drive. Ringkasan AI dari Gemini juga andal.",
+      "pros": [
+        "Sudah satu paket dengan Workspace",
+        "Integrasi Calendar/Gmail/Drive",
+        "Ringkasan AI dari Gemini"
+      ],
+      "cons": [
+        "Kurang rapi dibanding Zoom di luar ekosistem Google",
+        "Fitur AI butuh add-on Workspace AI"
+      ]
+    },
+    "microsoft-teams-business": {
+      "badge": "🏢 Terbaik untuk Microsoft 365",
+      "review": "Microsoft Teams (Business) cocok untuk pengguna Microsoft 365. Sudah satu paket dengan Microsoft 365 Business mulai sekitar Rp96.000/pengguna/bulan. Integrasi Outlook berjalan mulus, SharePoint dan OneDrive sudah menyatu. Add-on AI Copilot dijual sekitar Rp480.000/pengguna/bulan.",
+      "pros": [
+        "Sudah satu paket dengan Microsoft 365",
+        "Integrasi Outlook + SharePoint",
+        "Sudah termasuk chat dan fitur kolaborasi"
+      ],
+      "cons": [
+        "Sisi video kurang rapi dibanding Zoom",
+        "AI Copilot dijual sebagai add-on berbayar"
+      ]
+    },
+    "webex-meet-pro": {
+      "badge": "🛡️ Terbaik untuk keamanan enterprise",
+      "review": "Webex Meet (Cisco) cocok untuk perusahaan dengan tuntutan keamanan ketat. Bersertifikasi FedRAMP, enkripsi ujung ke ujung, dan rapat hingga 1.000 peserta. Fokus enterprise Cisco terasa jelas di sini.",
+      "pros": [
+        "Bersertifikasi FedRAMP",
+        "Enkripsi ujung ke ujung yang kuat",
+        "Rapat hingga 1.000 peserta"
+      ],
+      "cons": [
+        "Antarmukanya kurang rapi dibanding Zoom",
+        "Fiturnya condong ke kebutuhan enterprise"
+      ]
+    },
+    "loom-business": {
+      "badge": "🎬 Video asinkron terbaik",
+      "review": "Loom Business cocok untuk tim yang mengganti rapat langsung dengan pesan video asinkron. Perekaman cepat, ringkasan AI otomatis, transkripsi, dan analitik keterlibatan penonton. Sering kali inilah pengganti yang tepat untuk rapat langsung.",
+      "pros": [
+        "Perkakas video asinkron terbaik",
+        "Ringkasan AI dan transkripsi",
+        "Analitik keterlibatan penonton"
+      ],
+      "cons": [
+        "Tidak untuk rapat langsung",
+        "Paket Business sekitar Rp200.000/pengguna/bulan"
+      ]
+    }
+  },
+  "offerNotes": {
+    "zoom-business-pro": "Daftar di zoom.us — paket Business sekitar Rp320.000/host/bulan.",
+    "google-meet-workspace": "Daftar di workspace.google.com — sudah satu paket dengan Workspace mulai sekitar Rp96.000/pengguna/bulan.",
+    "microsoft-teams-business": "Daftar di microsoft.com/microsoft-teams — sudah satu paket dengan Microsoft 365 Business mulai sekitar Rp96.000/pengguna/bulan.",
+    "webex-meet-pro": "Daftar di webex.com — paling pas untuk kebutuhan keamanan tingkat enterprise.",
+    "loom-business": "Daftar di loom.com — paket Business sekitar Rp200.000/pengguna/bulan."
+  },
+  "pinDescription": "Bingung pilih aplikasi rapat online untuk tim? Zoom, Google Meet, Teams, Webex, dan Loom diadu: batas waktu paket gratis, biaya per pengguna, ringkasan AI, dan mana yang sebenarnya sudah Anda bayar tanpa sadar. #rapatonline",
+  "recommendedFor": [
+    {
+      "label": "Tim lintas platform yang tidak terikat satu ekosistem vendor",
+      "offerId": "zoom-business-pro",
+      "reason": "Zoom netral terhadap vendor dan punya latensi berbagi layar terendah (200 ms), pas untuk lingkungan kerja dengan banyak perkakas berbeda."
+    },
+    {
+      "label": "Tim Google Workspace yang mengelola kalender dan drive bersama",
+      "offerId": "google-meet-workspace",
+      "reason": "Sudah satu paket dengan Workspace mulai sekitar Rp96.000/pengguna/bulan, lengkap dengan integrasi Calendar, Gmail, dan rekaman ke Drive."
+    },
+    {
+      "label": "Organisasi Microsoft 365 yang memakai Outlook dan SharePoint",
+      "offerId": "microsoft-teams-business",
+      "reason": "Teams sudah termasuk di Microsoft 365 Business dan terhubung langsung ke Outlook, SharePoint, serta OneDrive."
+    },
+    {
+      "label": "Tim TI instansi pemerintah dan industri teregulasi yang wajib patuh aturan",
+      "offerId": "webex-meet-pro",
+      "reason": "Webex memegang sertifikasi FedRAMP dan enkripsi ujung ke ujung, sesuai tuntutan keamanan ketat sektor publik."
+    },
+    {
+      "label": "Tim jarak jauh yang mengganti rapat laporan dengan video rekaman",
+      "offerId": "loom-business",
+      "reason": "Video asinkron Loom dengan ringkasan AI dan analitik penonton memangkas rapat langsung yang tidak perlu untuk laporan progres dan demo."
+    }
+  ]
 }

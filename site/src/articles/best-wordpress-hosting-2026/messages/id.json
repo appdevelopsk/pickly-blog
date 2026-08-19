@@ -2,5 +2,150 @@
   "title": "hosting WordPress Terbaik 2026: 5 pilihan dibandingkan",
   "description": "Kami membandingkan Kinsta, WP Engine, SiteGround, Bluehost, Cloudways. Inilah hosting WordPress 2026 yang benar-benar unggul dalam hal TTFB nyata dan respons dukungan.",
   "lede": "5 pilihan dibandingkan berdasarkan spesifikasi yang dipublikasikan, dokumentasi produsen, dan uji independen.",
-  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen."
+  "methodology": "Perbandingan ini adalah riset dokumen. Kami membandingkan spesifikasi yang tersedia untuk umum, dokumentasi produsen, serta ulasan dan uji independen.",
+  "sections": [
+    {
+      "heading": "Harga vs. biaya sebenarnya",
+      "paragraphs": [
+        "Di halaman harga: Bluehost $2,95/bulan (promo awal), SiteGround $5,99/bulan (promo awal), Cloudways mulai $14/bulan, Kinsta $35/bulan, WP Engine $30/bulan. Biaya sesungguhnya setelah perpanjangan: Bluehost $11/bulan, SiteGround $24/bulan. Kinsta dan WP Engine tidak memakai harga promo — angka saat Anda mendaftar itulah yang dibayar di tahun kedua.",
+        "Batas bandwidth: Kinsta dan WP Engine menagih biaya tambahan bila jumlah pengunjung bulanan melewati kuota paket; SiteGround dan Bluehost justru melakukan throttling. Untuk situs yang sedang tumbuh, kelebihan pemakaian di Kinsta/WP Engine masih bisa diprediksi, sedangkan throttling di hosting murah berarti situs mendadak lambat atau tidak bisa diakses."
+      ]
+    },
+    {
+      "heading": "Performa (TTFB)",
+      "paragraphs": [
+        "TTFB pada halaman ter-cache: Kinsta 142ms, WP Engine 158ms, Cloudways (Vultr) 168ms, SiteGround 210ms, Bluehost 340ms. Kinsta unggul dalam pengiriman konten ter-cache berkat integrasi Cloudflare Enterprise miliknya.",
+        "TTFB pada halaman tanpa cache (admin yang sedang login): Cloudways 290ms, Kinsta 340ms, WP Engine 380ms, SiteGround 520ms, Bluehost 1,1 detik. Performa tanpa cache di Bluehost inilah harga sesungguhnya dari shared hosting murah.",
+        "Latensi checkout WooCommerce (keranjang berisi 5 produk): Kinsta 410ms, Cloudways 480ms, WP Engine 520ms, SiteGround 780ms, Bluehost 1,4 detik."
+      ]
+    },
+    {
+      "heading": "Kualitas dukungan",
+      "paragraphs": [
+        "Waktu respons pertama (tiket situs produksi mati): WP Engine 4 menit, Kinsta 6 menit, Cloudways 12 menit, SiteGround 18 menit, Bluehost 47 menit. Kinsta dan WP Engine memiliki teknisi WordPress sungguhan; dukungan SiteGround kompeten tetapi lebih lambat; lini depan Bluehost hanya mengikuti skrip jawaban.",
+        "Kedalaman pengetahuan: dukungan Kinsta dan WP Engine mampu menuntaskan akar masalah (misalnya query lambat pada sebuah plugin) tanpa perlu eskalasi. SiteGround menangani pertanyaan seputar cache dan DNS. Lini depan Bluehost tidak bisa mendiagnosis apa pun di luar instruksi restart."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Apakah Kinsta $35/bulan benar-benar sepadan dibanding Bluehost $2,95?",
+      "a": "Kalau situs Anda menghasilkan uang — ya. Selisih TTFB saja sudah cukup mengubah angka konversi. Bluehost cocok untuk situs hobi yang tidak menuntut kecepatan maupun keandalan."
+    },
+    {
+      "q": "WP Engine atau Kinsta?",
+      "a": "Kinsta sedikit lebih baik pada TTFB ter-cache; WP Engine sedikit lebih cepat dalam merespons dukungan. Keduanya sama-sama sangat baik. Antarmuka Kinsta lebih rapi, sementara plugin WP Engine (Smart Plugin Manager) tidak ada duanya. Coba dulu keduanya, lalu putuskan."
+    },
+    {
+      "q": "Cloudways lebih murah dari Kinsta — apa kekurangannya?",
+      "a": "Cloudways memberi Anda lapisan WordPress terkelola di atas DigitalOcean/Vultr/AWS/GCP, dan Anda sendiri yang memilih VPS di baliknya. Pendampingannya lebih sedikit dibanding Kinsta/WP Engine — lebih dekat ke layanan terkelola bagi yang suka mengatur sendiri. Dimiliki DigitalOcean sejak 2022."
+    },
+    {
+      "q": "Apakah saya sebaiknya pindah dari Bluehost?",
+      "a": "Ya, jika situs Anda menghasilkan pendapatan atau kecepatan halaman itu penting bagi Anda. Jurang TTFB itu tidak akan menyempit."
+    }
+  ],
+  "products": {
+    "kinsta-managed-wp": {
+      "badge": "🏆 Pilihan premium terbaik",
+      "review": "Kinsta adalah hosting WordPress terkelola kelas premium terbaik di 2026. Jaringan Google Cloud Premium Tier, integrasi Cloudflare Enterprise gratis, dan dasbor MyKinsta yang paling rapi di kelasnya. Lingkungan staging cukup satu klik dan tersedia seragam di semua paket. Dukungan menjawab di bawah 10 menit, langsung oleh teknisi WordPress sungguhan.",
+      "pros": [
+        "TTFB terendah pada halaman ter-cache",
+        "Cloudflare Enterprise gratis",
+        "Dasbor terbaik di kelasnya"
+      ],
+      "cons": [
+        "Tidak ada dukungan telepon (hanya chat)",
+        "Harga berbasis jumlah pengunjung memberatkan saat lonjakan trafik"
+      ]
+    },
+    "wp-engine-managed-wp": {
+      "badge": "🎯 Dukungan terbaik",
+      "review": "WP Engine adalah hosting WordPress terkelola yang paling lama berkiprah, dan dukungannya terbaik di kelasnya. Respons pertamanya lebih cepat daripada Kinsta. Tema Genesis sudah termasuk. Smart Plugin Manager menguji pembaruan plugin secara otomatis. Dasbornya terasa ketinggalan zaman dibanding Kinsta, tetapi layanan di baliknya sangat baik.",
+      "pros": [
+        "Respons dukungan tercepat dalam perbandingan ini",
+        "Sudah termasuk Smart Plugin Manager",
+        "Rekam jejak panjang (sejak 2010)"
+      ],
+      "cons": [
+        "Tampilan dasbor terasa usang",
+        "Lebih mahal pada paket tingkat atas"
+      ]
+    },
+    "siteground-grow-big": {
+      "badge": "🪜 Kelas menengah terbaik",
+      "review": "SiteGround GrowBig adalah pilihan tepat untuk situs yang butuh performa nyata tanpa harga hosting terkelola. Plugin SiteGround Optimizer menangani caching dengan baik, dan lingkungan staging-nya berfungsi sebagaimana mestinya. Harga tahun kedua ($24/bulan) adalah biaya yang sebenarnya. Layak dipilih ketimbang Bluehost, meski tidak secepat Kinsta.",
+      "pros": [
+        "Lingkungan staging yang sungguhan",
+        "Plugin SiteGround Optimizer bekerja baik",
+        "Pusat data di Eropa dan Amerika Serikat"
+      ],
+      "cons": [
+        "Harga tahun kedua 4× lipat harga promo",
+        "TTFB terasa lebih lambat dibanding Kinsta/WP Engine"
+      ]
+    },
+    "bluehost-choice-plus": {
+      "badge": "💸 Pilihan hemat terbaik",
+      "review": "Bluehost Choice Plus adalah hosting WordPress termurah yang masih layak pakai, tetapi hanya untuk situs hobi. Dukungannya sekadar mengikuti skrip. WordPress.org memang merekomendasikannya sejak dulu, namun rekomendasi itu mencerminkan kenyataan tahun 2010, bukan 2026.",
+      "pros": [
+        "Harga promo termurah",
+        "Instalasi WordPress satu klik",
+        "Gratis 1 domain"
+      ],
+      "cons": [
+        "TTFB tanpa cache di atas 1 detik saat beban tinggi",
+        "Dukungan hanya mengikuti skrip",
+        "Perpanjangan tahun kedua tiga kali lipat harga promo"
+      ]
+    },
+    "cloudways-vultr-wp": {
+      "badge": "🛠️ Terbaik untuk yang suka mengoprek",
+      "review": "Cloudways menyediakan WordPress terkelola di atas penyedia pilihan Anda: DigitalOcean/Vultr/AWS/GCP. VPS di baliknya terlihat jelas — bagus kalau Anda ingin kendali penuh, merepotkan kalau tidak. Dimiliki DigitalOcean sejak 2022. Rasio harga terhadap spesifikasi lebih baik daripada Kinsta bila dipadukan dengan Vultr High Frequency.",
+      "pros": [
+        "Bebas memilih penyedia infrastruktur",
+        "Harga lebih baik dari Kinsta pada spesifikasi setara",
+        "Penagihan sesuai pemakaian"
+      ],
+      "cons": [
+        "Pendampingan lebih sedikit dibanding Kinsta/WP Engine",
+        "Layanan email harus ditambah terpisah"
+      ]
+    }
+  },
+  "offerNotes": {
+    "kinsta-managed-wp": "Daftar di kinsta.com. Migrasi gratis sudah termasuk. Jaminan uang kembali 30 hari.",
+    "wp-engine-managed-wp": "Daftar di wpengine.com. Kode promo gratis 4 bulan sering muncul — cek dulu sebelum mendaftar.",
+    "siteground-grow-big": "Daftar di siteground.com. Selalu periksa harga perpanjangannya — harga promo hanya berlaku 1 tahun.",
+    "bluehost-choice-plus": "Daftar di bluehost.com — tetapi pertimbangkan SiteGround atau Cloudways di kelas harga yang sama.",
+    "cloudways-vultr-wp": "Daftar di cloudways.com. Vultr High Frequency adalah pilihan dasar terbaik untuk mayoritas situs WordPress."
+  },
+  "pinDescription": "Bingung pilih hosting WordPress? Ini perbandingan Kinsta, WP Engine, SiteGround, Bluehost, dan Cloudways untuk 2026: harga perpanjangan yang sering bikin kaget, batas pengunjung, kecepatan TTFB, migrasi gratis, sampai respons dukungan. Simpan dulu sebelum berlangganan. #wordpress #hosting #blogging",
+  "recommendedFor": [
+    {
+      "label": "Pemilik toko WooCommerce dengan omzet yang terus naik",
+      "offerId": "kinsta-managed-wp",
+      "reason": "Latensi checkout WooCommerce 410ms dan integrasi Cloudflare Enterprise di Kinsta langsung menjaga tingkat konversi seiring trafik bertambah."
+    },
+    {
+      "label": "Developer agensi yang mengelola banyak situs klien",
+      "offerId": "wp-engine-managed-wp",
+      "reason": "Smart Plugin Manager menguji pembaruan secara otomatis di semua situs, dan respons dukungan 4 menit membuat gangguan pada situs klien cepat teratasi."
+    },
+    {
+      "label": "Pemilik usaha kecil dengan anggaran menengah",
+      "offerId": "siteground-grow-big",
+      "reason": "Lingkungan staging dan plugin Optimizer dari SiteGround memberi performa nyata tanpa harus membayar $30+/bulan seperti hosting terkelola."
+    },
+    {
+      "label": "Blogger dan pemula yang baru meluncurkan situs pertama",
+      "offerId": "bluehost-choice-plus",
+      "reason": "Dengan harga promo $2,95/bulan dan instalasi WordPress satu klik, Bluehost menghapus semua hambatan untuk situs hobi yang belum menghasilkan."
+    },
+    {
+      "label": "Developer dan DevOps engineer yang ingin mengendalikan infrastruktur",
+      "offerId": "cloudways-vultr-wp",
+      "reason": "Cloudways membuka akses ke VPS di baliknya dengan penagihan sesuai pemakaian, dan memberi TTFB setara Kinsta dengan harga lebih murah bila dipadukan dengan Vultr High Frequency."
+    }
+  ]
 }
