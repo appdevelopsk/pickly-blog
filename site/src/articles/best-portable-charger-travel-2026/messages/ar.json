@@ -116,5 +116,32 @@
     "anker-magnetic-magsafe-power-bank": "متوفّر على anker.com و Amazon. سلسلة 'MagGo' تدعم MagSafe — تأكد من أن الطراز متوافق مع MagSafe.",
     "iniu-portable-charger": "متوفّر على iniushop.com و Amazon. خصم Subscribe & Save عادةً 10-15%."
   },
-  "pinDescription": "أفضل شاحن محمول للسفر 2026: Anker 737 مقابل Anker 313 مقابل RAVPower PD Pioneer مقابل Anker MagGo مقابل INIU."
+  "pinDescription": "أفضل شاحن محمول للسفر 2026: Anker 737 مقابل Anker 313 مقابل RAVPower PD Pioneer مقابل Anker MagGo مقابل INIU.",
+  "recommendedFor": [
+    {
+      "label": "المسافرون الدائمون الذين يحملون حواسيبهم المحمولة في كل رحلة",
+      "offerId": "anker-power-bank-737",
+      "reason": "خرج بقدرة 140 واط بتقنية PD يشحن جهاز MacBook Pro وهاتفك في آنٍ واحد — قطعة واحدة تغنيك تمامًا عن شاحن الحاسوب."
+    },
+    {
+      "label": "مسافرو عطلة نهاية الأسبوع الباحثون عن طاقة احتياطية خفيفة",
+      "offerId": "anker-power-bank-313",
+      "reason": "حجم صغير يتسع للجيب مع سعة 10,000 مللي أمبير تكفي لشحن الهاتف مرتين إلى ثلاث مرات، وبسعر 30-50 دولارًا لا تأسف عليه إن ضاع."
+    },
+    {
+      "label": "الرحّالة في الرحلات الطويلة الممتدة لعدة أيام",
+      "offerId": "ravpower-pd-pioneer",
+      "reason": "سعة 26,800 مللي أمبير تمثل أقصى حد مسموح به على متن الطائرة في قطعة واحدة، وتمنحك أكثر من 7 عمليات شحن للهاتف قبل الحاجة إلى مقبس كهرباء."
+    },
+    {
+      "label": "مستخدمو iPhone الذين سئموا العبث بالكابلات",
+      "offerId": "anker-magnetic-magsafe-power-bank",
+      "reason": "تقنية MagSafe تلتصق مغناطيسيًا بأي iPhone 12 فما فوق، فتشحن دون أسلاك بينما يبقى الهاتف في يدك أو جيبك."
+    },
+    {
+      "label": "الطلاب المبتعثون ذوو الميزانية المحدودة",
+      "offerId": "iniu-portable-charger",
+      "reason": "بسعر 20-30 دولارًا وتصميم نحيف وسعة 10,000 مللي أمبير، يغطي شحنك اليومي دون زيادة الوزن أو إرهاق ميزانية سفر ضيقة."
+    }
+  ]
 }
