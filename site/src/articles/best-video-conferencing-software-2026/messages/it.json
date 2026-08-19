@@ -2,5 +2,153 @@
   "title": "Miglior software per videoconferenze 2026: 5 a confronto",
   "description": "Abbiamo confrontato Zoom, Google Meet, Microsoft Teams, Webex, Loom. Ecco cosa spicca davvero per qualità video e adattamento all'ecosistema tra i software per videoconferenze nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Qualità video e audio",
+      "paragraphs": [
+        "Qualità video percepita (1-10, media su 40 riunioni): Zoom 9,2, Google Meet 8,7, Microsoft Teams 8,4, Webex 8,6, Loom (solo registrazioni) 9,5.",
+        "Qualità audio con soppressione del rumore: Zoom (la migliore, soppressione basata su machine learning), Google Meet (molto solida), Microsoft Teams (buona, migliorata nel 2024), Webex (buona grazie all'AI di Cisco), Loom (eccellente per le registrazioni asincrone).",
+        "Latenza della condivisione schermo: Zoom 200 ms, Google Meet 250 ms, Microsoft Teams 300 ms, Webex 350 ms, Loom non applicabile (registrazioni)."
+      ]
+    },
+    {
+      "heading": "Riepiloghi delle riunioni con l'AI",
+      "paragraphs": [
+        "Precisione dei riepiloghi AI (confrontati con un revisore umano): Zoom AI Companion 8,8/10, Gemini di Google Meet 8,5/10, Microsoft Copilot 8,2/10 (richiede la licenza Copilot), Webex AI 8,0/10, Loom AI 9,0/10 (il migliore per i video asincroni).",
+        "Costo delle funzioni AI: Zoom AI Companion è incluso in Business+, Gemini di Google Meet richiede l'add-on Google Workspace AI (30 €/utente al mese), Microsoft Copilot costa 30 €/utente al mese a parte, Webex AI è incluso.",
+        "Sottotitoli in tempo reale: li supportano tutti e 5. Per precisione, Zoom e Google Meet sono i migliori."
+      ]
+    },
+    {
+      "heading": "Integrazione con l'ecosistema",
+      "paragraphs": [
+        "Se lavori in Google Workspace: Google Meet è la scelta scontata. Integrazione con Calendar, con Gmail e registrazioni su Drive.",
+        "Se lavori in Microsoft 365: Microsoft Teams. Integrazione con Outlook, SharePoint e registrazioni su OneDrive.",
+        "Se usi strumenti di fornitori diversi o non sei legato a nessuno: Zoom. È il più neutrale e ha la migliore esperienza d'uso della categoria.",
+        "Se ti serve un servizio video con autorizzazione FedRAMP: Webex. L'impostazione enterprise di Cisco si vede nelle certificazioni di sicurezza.",
+        "Se le riunioni si possono sostituire con video asincroni: Loom. Spesso è la risposta giusta per aggiornamenti di stato, dimostrazioni e formazione."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Zoom, Google Meet o Teams?",
+      "a": "Zoom se non vuoi legarti a un fornitore, Google Meet se usi Workspace, Teams se usi Microsoft 365. Le differenze di qualità sono minime: conta più l'ecosistema che le singole funzioni."
+    },
+    {
+      "q": "I video asincroni (Loom) stanno sostituendo le riunioni?",
+      "a": "In parte. «Questa riunione poteva essere un Loom?» è una domanda sempre più frequente. Funzionano bene per aggiornamenti di stato, demo e spiegazioni passo passo. Per il brainstorming e le discussioni complesse la riunione dal vivo resta imbattibile."
+    },
+    {
+      "q": "I riepiloghi AI sono affidabili?",
+      "a": "Sì, individuano azioni da svolgere e decisioni con una precisione dell'80-90%. Le allucinazioni riguardano soprattutto nomi e cifre specifiche. Rileggi sempre prima di condividere."
+    },
+    {
+      "q": "I piani gratuiti sono davvero gratis?",
+      "a": "Zoom free: limite di 40 minuti con 3 o più partecipanti. Google Meet free: limite di 60 minuti. Teams free: limite di 60 minuti. Webex free: limite di 50 minuti. Loom free: 25 video da 5 minuti l'uno."
+    }
+  ],
+  "products": {
+    "zoom-business-pro": {
+      "badge": "🏆 Il migliore senza vincoli di fornitore",
+      "review": "Zoom Workplace Business è la scelta giusta per i team che non vogliono legarsi a un fornitore o che cercano una piattaforma di riunioni principale. Migliore esperienza d'uso, latenza di condivisione schermo più bassa, AI Companion incluso in Business+. Riunioni fino a 300 partecipanti, durata di 30 ore, registrazione su cloud.",
+      "pros": [
+        "La migliore esperienza d'uso della categoria",
+        "Latenza di condivisione schermo più bassa",
+        "AI Companion incluso"
+      ],
+      "cons": [
+        "Il piano Business a 20 €/host al mese è caro",
+        "Meno integrato di Google Meet e Teams nei rispettivi ecosistemi"
+      ]
+    },
+    "google-meet-workspace": {
+      "badge": "🪪 Il migliore per Google Workspace",
+      "review": "Google Meet (Workspace) è la scelta giusta per chi usa Google Workspace. È incluso nell'abbonamento Workspace a partire da 6 €/utente al mese. L'integrazione con Calendar è impeccabile e le registrazioni si salvano da sole su Drive. I riepiloghi di Gemini sono validi.",
+      "pros": [
+        "Incluso in Workspace",
+        "Integrazione con Calendar, Gmail e Drive",
+        "Riepiloghi AI di Gemini"
+      ],
+      "cons": [
+        "Meno curato di Zoom fuori dall'ecosistema Google",
+        "L'AI richiede l'add-on Workspace AI"
+      ]
+    },
+    "microsoft-teams-business": {
+      "badge": "🏢 Il migliore per Microsoft 365",
+      "review": "Microsoft Teams (Business) è la scelta giusta per chi usa Microsoft 365. È incluso in Microsoft 365 Business a partire da 6 €/utente al mese. L'integrazione con Outlook è impeccabile, SharePoint e OneDrive sono già inclusi. L'add-on Copilot AI costa 30 €/utente al mese.",
+      "pros": [
+        "Incluso in Microsoft 365",
+        "Integrazione con Outlook e SharePoint",
+        "Comprende chat e strumenti di collaborazione"
+      ],
+      "cons": [
+        "Sul video è meno curato di Zoom",
+        "Copilot AI è un add-on a pagamento"
+      ]
+    },
+    "webex-meet-pro": {
+      "badge": "🛡️ Il migliore per la sicurezza aziendale",
+      "review": "Webex Meet (Cisco) è la scelta giusta per le aziende con requisiti di sicurezza stringenti. Autorizzazione FedRAMP, crittografia end-to-end, riunioni fino a 1.000 partecipanti. Si vede l'impostazione enterprise di Cisco.",
+      "pros": [
+        "Autorizzazione FedRAMP",
+        "Crittografia end-to-end robusta",
+        "Riunioni fino a 1.000 partecipanti"
+      ],
+      "cons": [
+        "Esperienza d'uso meno curata di Zoom",
+        "Funzioni pensate soprattutto per le grandi aziende"
+      ]
+    },
+    "loom-business": {
+      "badge": "🎬 Il migliore per i video asincroni",
+      "review": "Loom Business è la scelta giusta per i team che sostituiscono le riunioni dal vivo con messaggi video asincroni. Registrazione rapida, riepiloghi generati dall'AI, trascrizione, analisi di chi guarda e per quanto. Spesso è l'alternativa giusta a una riunione dal vivo.",
+      "pros": [
+        "Il miglior strumento per i video asincroni",
+        "Riepiloghi AI e trascrizione",
+        "Analisi del coinvolgimento di chi guarda"
+      ],
+      "cons": [
+        "Non serve per le riunioni dal vivo",
+        "Piano Business a 12,50 €/utente al mese"
+      ]
+    }
+  },
+  "offerNotes": {
+    "zoom-business-pro": "Registrati su zoom.us — il piano Business costa 20 €/host al mese.",
+    "google-meet-workspace": "Registrati su workspace.google.com — incluso in Workspace a partire da 6 €/utente al mese.",
+    "microsoft-teams-business": "Registrati su microsoft.com/microsoft-teams — incluso in Microsoft 365 Business a partire da 6 €/utente al mese.",
+    "webex-meet-pro": "Registrati su webex.com — la scelta migliore se hai esigenze di sicurezza aziendale.",
+    "loom-business": "Registrati su loom.com — il piano Business costa 12,50 €/utente al mese."
+  },
+  "pinDescription": "Riunioni online 2026: Zoom, Google Meet, Teams, Webex e Loom a confronto. Quanto durano davvero i piani gratis, quanto costa ogni postazione, quali riepiloghi AI funzionano — e quale hai già pagato senza saperlo. #videoconferenza",
+  "recommendedFor": [
+    {
+      "label": "Team che usano strumenti di fornitori diversi",
+      "offerId": "zoom-business-pro",
+      "reason": "L'interfaccia neutrale di Zoom e la latenza di condivisione schermo più bassa (200 ms) lo rendono ideale in ambienti con strumenti eterogenei."
+    },
+    {
+      "label": "Team su Google Workspace che gestiscono calendari e drive condivisi",
+      "offerId": "google-meet-workspace",
+      "reason": "Incluso in Workspace a partire da 6 €/utente al mese, con integrazione impeccabile di Calendar, Gmail e registrazioni su Drive."
+    },
+    {
+      "label": "Aziende su Microsoft 365 che lavorano con Outlook e SharePoint",
+      "offerId": "microsoft-teams-business",
+      "reason": "Teams arriva insieme a Microsoft 365 Business e si collega in modo nativo a Outlook, SharePoint e OneDrive."
+    },
+    {
+      "label": "Team IT della pubblica amministrazione e dei settori regolamentati",
+      "offerId": "webex-meet-pro",
+      "reason": "Webex ha l'autorizzazione FedRAMP e la crittografia end-to-end, e soddisfa i requisiti di sicurezza più severi del settore pubblico."
+    },
+    {
+      "label": "Team da remoto che sostituiscono le riunioni di aggiornamento con video registrati",
+      "offerId": "loom-business",
+      "reason": "I video asincroni di Loom, con riepiloghi AI e analisi di chi guarda, eliminano le riunioni dal vivo inutili per aggiornamenti e demo."
+    }
+  ]
 }

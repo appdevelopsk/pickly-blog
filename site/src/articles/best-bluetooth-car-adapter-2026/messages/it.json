@@ -2,5 +2,152 @@
   "title": "Miglior adattatore Bluetooth auto 2026: 5 a confronto",
   "description": "Abbiamo confrontato Nulaxy, Anker, Doosl, CarlinKit, Ottocast. Ecco cosa spicca davvero per tipo di adattatore e qualità audio tra i adattatore Bluetooth per auto nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Quale adattatore per quale auto?",
+      "paragraphs": [
+        "Niente aux, niente Bluetooth, solo autoradio FM (una Punto del 2008): trasmettitore FM (Nulaxy KM18 o Anker Roav SmartCharge F0). La qualità è la più bassa del gruppo — la banda FM è limitata — ma per le auto molto datate è l'unica strada.",
+        "Ingresso aux ma niente Bluetooth (una RAV4 del 2014): ricevitore Bluetooth per aux (Doosl Bluetooth Receiver). Si collega al jack da 3,5 mm. È la resa audio migliore di questa categoria.",
+        "CarPlay/Android Auto via cavo ma non wireless (una Camry del 2019): adattatore CarPlay wireless (CarlinKit 3.0). Si innesta nella presa USB CarPlay già presente e trasforma il collegamento cablato in wireless.",
+        "Auto recente con CarPlay via cavo ma con voglia di streaming (Netflix, YouTube): adattatore CarPlay wireless premium con streaming (Ottocast U2-X Pro). Integra un hotspot 4G per lo streaming."
+      ]
+    },
+    {
+      "heading": "Qualità audio",
+      "paragraphs": [
+        "Qualità audio (voto da 1 a 10): ricevitore aux Doosl 9,0, CarlinKit CarPlay wireless 9,5 (segnale digitale), Ottocast 9,5, trasmettitore FM Nulaxy 6,5, trasmettitore FM Anker 7,0.",
+        "La resa dei trasmettitori FM è vincolata alla banda della radiodiffusione FM: fruscio e interferenze di frequenza, soprattutto in città. L'Anker Roav suona un filo più pulito rispetto ai trasmettitori FM economici.",
+        "I ricevitori aux conservano la qualità perché saltano del tutto la FM: dal Bluetooth digitale al jack da 3,5 mm il segnale resta pulito."
+      ]
+    },
+    {
+      "heading": "Installazione e affidabilità",
+      "paragraphs": [
+        "Tempi di abbinamento: ricevitori aux 30 secondi, trasmettitori FM 1 minuto (il tempo di trovare una frequenza libera), CarPlay wireless 2-3 minuti (primo abbinamento), Ottocast 5 minuti (configurazione dell'hotspot 4G).",
+        "Riconnessione all'avvio del motore: ricevitori aux e CarPlay wireless si riagganciano da soli. I trasmettitori FM chiedono di risintonizzare la radio. L'Ottocast ogni tanto perde il Wi-Fi o il 4G.",
+        "Vivavoce: lo supportano tutti e cinque. Qualità: Doosl aux > CarlinKit > Ottocast > Anker FM > Nulaxy FM. I ricevitori aux hanno la ripresa microfonica più pulita."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Meglio un trasmettitore FM o un ricevitore aux?",
+      "a": "Se l'auto ha l'ingresso aux, il ricevitore (Doosl) suona nettamente meglio. Il trasmettitore FM (Nulaxy, Anker) resta l'unica scelta per le auto molto vecchie senza aux. Se l'aux c'è, lascia perdere la FM."
+    },
+    {
+      "q": "Vale la pena il CarPlay wireless (CarlinKit)?",
+      "a": "Sì, se l'auto ha già il CarPlay via cavo e vuoi liberartene. La configurazione si fa una volta sola, il vantaggio te lo porti a ogni viaggio. 60-90 € sono onesti per la comodità."
+    },
+    {
+      "q": "Ottocast: Netflix in auto?",
+      "a": "Funziona davvero — hotspot 4G integrato, Netflix e YouTube sullo schermo dell'auto. Solo per i PASSEGGERI (mai guardare mentre si guida). I 300-400 € sono un prezzo premium per la comodità."
+    },
+    {
+      "q": "Non conviene comprare direttamente un'autoradio nuova?",
+      "a": "Un'autoradio doppio DIN aftermarket con CarPlay wireless costa 200-500 € più 100-200 € di installazione. Sostituisce l'intero impianto: soluzione migliore sul lungo periodo, ma con una spesa iniziale ben più alta."
+    }
+  ],
+  "products": {
+    "nulaxy-km18-bluetooth-fm": {
+      "badge": "🏆 Miglior trasmettitore FM",
+      "review": "Il Nulaxy KM18 è la scelta giusta per le auto senza ingresso aux (immatricolate fino al 2010 circa). Trasmettitore FM, 20-30 €. La qualità audio è limitata dalla banda FM, ma alternative non ce ne sono. Display da 1,44\", ricarica USB, vivavoce.",
+      "pros": [
+        "Unica opzione per auto con sola radio FM",
+        "20-30 €, spesa contenuta",
+        "Ricarica USB integrata"
+      ],
+      "cons": [
+        "Qualità audio limitata dalla FM",
+        "Serve risintonizzare la frequenza radio"
+      ]
+    },
+    "anker-roav-smartcharge-f0": {
+      "badge": "🥇 Miglior FM premium",
+      "review": "L'Anker Roav SmartCharge F0 è il trasmettitore FM premium da prendere. 35-45 €, due porte di ricarica USB-C, integrazione con l'app. Suona un po' meglio dei trasmettitori FM economici, ma resta comunque legato ai limiti della banda FM.",
+      "pros": [
+        "Marchio affidabile",
+        "Due porte USB-C",
+        "Integrazione con l'app"
+      ],
+      "cons": [
+        "Sempre vincolato alla qualità FM",
+        "Costa il doppio dei modelli base"
+      ]
+    },
+    "doosl-bluetooth-receiver": {
+      "badge": "🎧 Il migliore per auto con aux",
+      "review": "Il Doosl Bluetooth 5.0 Receiver è la scelta giusta se l'auto ha l'ingresso aux. La qualità audio supera nettamente quella dei trasmettitori FM perché aggira le frequenze radio. Ingombro minimo, vivavoce incluso. 15-25 €.",
+      "pros": [
+        "Miglior qualità audio della categoria",
+        "15-25 €, alla portata di tutti",
+        "Ingombro minimo"
+      ],
+      "cons": [
+        "Serve l'ingresso aux in auto",
+        "Qualità del microfono variabile da modello a modello"
+      ]
+    },
+    "carlinkit-3-cplay2air-android-auto": {
+      "badge": "📱 Miglior CarPlay wireless",
+      "review": "Il CarlinKit 3.0 (CPlay2Air) è la scelta giusta se l'auto ha il CarPlay via cavo ma lo vuoi wireless. Si innesta nella presa USB CarPlay già presente e converte il collegamento cablato in wireless. 60-90 €. Funziona sia con Apple CarPlay sia con Android Auto.",
+      "pros": [
+        "Passaggio a CarPlay/Android Auto wireless",
+        "60-90 €, prezzo ragionevole",
+        "Affidabile dopo il primo abbinamento"
+      ],
+      "cons": [
+        "Richiede il CarPlay via cavo in auto",
+        "Il primo abbinamento richiede 2-3 minuti"
+      ]
+    },
+    "ottocast-u2-x-pro-wireless": {
+      "badge": "🎬 Il migliore per lo streaming",
+      "review": "L'Ottocast U2-X Pro Wireless è la scelta premium per chi vuole Netflix e YouTube sullo schermo dell'auto (per i passeggeri). CarPlay wireless, Android Auto e hotspot 4G integrato. Prezzo premium: 300-400 €.",
+      "pros": [
+        "CarPlay wireless più streaming",
+        "Hotspot 4G integrato",
+        "Costruzione curata"
+      ],
+      "cons": [
+        "300-400 €, prezzo premium",
+        "Qualche caduta occasionale di Wi-Fi o 4G"
+      ]
+    }
+  },
+  "offerNotes": {
+    "nulaxy-km18-bluetooth-fm": "Lo trovi su amazon.it — cerca una frequenza FM libera per la resa migliore.",
+    "anker-roav-smartcharge-f0": "Lo trovi su anker.com o amazon.it — il trasmettitore FM premium da scegliere.",
+    "doosl-bluetooth-receiver": "Lo trovi su amazon.it — funziona solo se l'auto ha l'ingresso aux.",
+    "carlinkit-3-cplay2air-android-auto": "Lo trovi su amazon.it o carlinkitcarplay.com — richiede il CarPlay via cavo in auto.",
+    "ottocast-u2-x-pro-wireless": "Lo trovi su ottocast.com o amazon.it — la scelta premium per lo streaming sullo schermo dell'auto."
+  },
+  "pinDescription": "La tua auto non ha il Bluetooth? Ecco come rimediare in 5 minuti 🚗 Nulaxy, Anker, Doosl, CarlinKit e Ottocast a confronto: trasmettitore FM, ricevitore aux o CarPlay wireless — qual è quello giusto per la tua macchina. #autoetecnologia",
+  "recommendedFor": [
+    {
+      "label": "Chi guida un'auto datata senza aux né Bluetooth",
+      "offerId": "nulaxy-km18-bluetooth-fm",
+      "reason": "Sulle auto precedenti al 2010 il trasmettitore FM è l'unico modo per avere audio wireless. Il display del KM18 aiuta a trovare in fretta una frequenza pulita."
+    },
+    {
+      "label": "Chi bada al portafoglio ma ricarica in USB-C tutti i giorni",
+      "offerId": "anker-roav-smartcharge-f0",
+      "reason": "Due porte USB-C per caricare telefono e tablet insieme: la qualità costruttiva Anker giustifica i 15 € in più rispetto ai trasmettitori FM generici."
+    },
+    {
+      "label": "Chi ascolta molta musica su un'auto datata ma con aux",
+      "offerId": "doosl-bluetooth-receiver",
+      "reason": "Aggira del tutto la FM e restituisce un audio vicino al CD per 15-25 €. Il miglior rapporto qualità-prezzo per qualsiasi auto con jack da 3,5 mm."
+    },
+    {
+      "label": "Chi ha un iPhone ed è stanco di districare il cavo CarPlay ogni giorno",
+      "offerId": "carlinkit-3-cplay2air-android-auto",
+      "reason": "Un solo abbinamento e la presa CarPlay cablata diventa wireless. Da lì in poi la connessione si ristabilisce da sola a ogni viaggio, senza più cavi."
+    },
+    {
+      "label": "Genitori in viaggio lungo con bambini da tenere occupati",
+      "offerId": "ottocast-u2-x-pro-wireless",
+      "reason": "L'hotspot 4G integrato porta Netflix e YouTube direttamente sullo schermo dell'auto: i passeggeri dietro restano tranquilli senza consumare i giga del telefono."
+    }
+  ]
 }

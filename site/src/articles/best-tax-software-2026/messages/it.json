@@ -2,5 +2,152 @@
   "title": "Miglior software fiscale 2026: 5 a confronto",
   "description": "Abbiamo confrontato TurboTax, H&R Block, FreeTaxUSA, TaxAct, Cash App Taxes. Ecco cosa spicca davvero per precisione e rapporto qualità-prezzo tra i software fiscale nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Rimborsi finali e precisione dei calcoli",
+      "paragraphs": [
+        "Tutti e cinque i software hanno prodotto rimborsi federali con uno scarto massimo di 4 $ ($2.841-$2.845), un margine di puro arrotondamento. Sui rimborsi statali la differenza è stata di 8 $, dovuta al diverso trattamento dei decimali. Il punto è chiaro: per le situazioni standard la precisione di calcolo non è più un fattore di scelta.",
+        "La differenza la fanno interfaccia, accompagnamento e prezzo. Il questionario di TurboTax è il più completo (e il più lungo). Quello di FreeTaxUSA è il più diretto. Cash App Taxes è il più rapido, ma salta due domande che gli altri pongono (conti esteri e criptovalute)."
+      ]
+    },
+    {
+      "heading": "Assistenza in caso di verifica e garanzie",
+      "paragraphs": [
+        "TurboTax include assistenza gratuita in caso di verifica fiscale (consulenza, non rappresentanza) e propone il pacchetto a pagamento Audit Defense (60 $). H&R Block include il supporto gratuito in presenza nei suoi 9.000 uffici. TaxAct offre assistenza gratuita in caso di verifica. FreeTaxUSA la include come add-on da 20 $. Cash App Taxes non offre alcun supporto in questi casi.",
+        "Per una dichiarazione lineare il rischio di controllo è basso (sotto l'1% con redditi inferiori a 100.000 $). Quando la situazione si complica — lavoro autonomo, immobili, dichiarazioni in più stati — la possibilità di rivolgersi a una persona in carne e ossa offerta da H&R Block è la carta più preziosa."
+      ]
+    },
+    {
+      "heading": "Il migliore per ogni esigenza",
+      "paragraphs": [
+        "Interfaccia migliore: TurboTax Deluxe, 69 $ per il federale + 59 $ per lo statale. Il questionario è il più curato e chiaro, soprattutto per chi dichiara per la prima volta o si trova in situazioni fuori standard. Il sovrapprezzo si giustifica se teme di lasciare detrazioni sul tavolo.",
+        "Miglior opzione gratuita: Cash App Taxes (0 $ federale + 0 $ statale). Gratuito sul serio nella maggior parte dei casi. Non gestisce dichiarazioni multi-stato né i quadri più complessi.",
+        "Miglior rapporto qualità-prezzo: FreeTaxUSA, 0 $ federale + 14,99 $ statale. Copre tutte le situazioni fiscali principali al prezzo più basso tra le opzioni a pagamento. L'interfaccia è datata, ma funziona.",
+        "Il migliore se vuole un appoggio in presenza: H&R Block Deluxe, 55 $ federale + 49 $ statale. I 9.000 uffici sul territorio le garantiscono un interlocutore umano se qualcosa va storto.",
+        "Miglior alternativa di fascia media: TaxAct Deluxe, 30 $ federale + 40 $ statale. Costa meno di TurboTax con una precisione equivalente. L'interfaccia sta a metà strada."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "TurboTax vale davvero il sovrapprezzo?",
+      "a": "Solo se ha una situazione fiscale particolare (immobili, lavoro autonomo con molte detrazioni) o se vuole l'esperienza d'uso più fluida. Per una dichiarazione semplice, FreeTaxUSA fa lo stesso lavoro con 14,99 $ complessivi."
+    },
+    {
+      "q": "Cash App Taxes è davvero gratuito?",
+      "a": "Sì: niente upselling, niente versione premium, nessun costo per la dichiarazione statale. È gratuito perché Cash App lo usa per acquisire clienti. Gestisce solo dichiarazioni relativamente semplici (niente multi-stato, niente attività complesse)."
+    },
+    {
+      "q": "E l'IRS Free File?",
+      "a": "Se il suo reddito lordo rettificato (AGI) è inferiore a 79.000 $, ha diritto all'IRS Free File tramite i software partner (tra cui TaxAct e altri). È la migliore soluzione gratuita per i redditi bassi e medi."
+    },
+    {
+      "q": "Conviene dichiarare presto o tardi?",
+      "a": "Il prima possibile se aspetta un rimborso. Più tardi (con la proroga a ottobre) se deve versare e ha bisogno di gestire la liquidità. Dichiarare presto riduce anche il rischio di frodi sul rimborso."
+    }
+  ],
+  "products": {
+    "turbotax-deluxe": {
+      "badge": "🏆 Interfaccia migliore",
+      "review": "TurboTax Deluxe offre l'esperienza più fluida tra i software fiscali. Il percorso a domande guidate accompagna passo dopo passo, con spiegazioni e casi tipici. I suggerimenti «perché?» sono davvero utili a chi dichiara per la prima volta. A 69 $ per il federale + 59 $ per lo statale (128 $ in tutto) è il più caro del confronto, e con un buon margine. Li vale se il fisco la mette in ansia o se la sua situazione è abbastanza complessa da rendere utile l'accompagnamento.",
+      "pros": [
+        "Il percorso guidato migliore sul mercato",
+        "Assistenza gratuita in caso di verifica",
+        "Garanzia di rimborso massimo"
+      ],
+      "cons": [
+        "128 $ totali: il più caro del confronto",
+        "Proposte di upgrade insistenti durante la compilazione"
+      ]
+    },
+    "hr-block-deluxe": {
+      "badge": "🏪 Il migliore per l'assistenza in presenza",
+      "review": "H&R Block Deluxe è la scelta giusta per chi vuole un interlocutore umano di riserva. 55 $ federale + 49 $ statale (104 $ in tutto), e può presentarsi in uno dei 9.000 uffici statunitensi per una consulenza a pagamento se qualcosa non torna. L'interfaccia è un po' meno rifinita di quella di TurboTax, ma sul piano funzionale sono equivalenti. Assistenza gratuita in caso di verifica inclusa.",
+      "pros": [
+        "9.000 uffici sul territorio per l'assistenza di persona",
+        "Assistenza gratuita in caso di verifica",
+        "104 $ totali sono ragionevoli per questa rete di sicurezza"
+      ],
+      "cons": [
+        "Interfaccia meno curata di TurboTax",
+        "Gli add-on per il lavoro autonomo fanno lievitare il prezzo"
+      ]
+    },
+    "freetaxusa": {
+      "badge": "💸 Miglior rapporto qualità-prezzo",
+      "review": "FreeTaxUSA è la migliore occasione tra le opzioni a pagamento. 0 $ federale + 14,99 $ statale, cioè 14,99 $ in tutto, per quasi qualsiasi situazione fiscale: detrazioni analitiche, lavoro autonomo, affitti, plusvalenze. L'interfaccia è datata (il sito sembra uscito dal 2010), ma ogni funzione lavora come deve. Chi compila la stessa dichiarazione su TurboTax e su FreeTaxUSA ottiene la stessa cifra di rimborso: i calcoli sottostanti sono identici.",
+      "pros": [
+        "14,99 $ totali: un prezzo imbattibile",
+        "Copre praticamente tutte le situazioni fiscali",
+        "Garanzia di precisione al 100%"
+      ],
+      "cons": [
+        "Interfaccia datata",
+        "Assistenza clienti limitata (solo chat nella versione gratuita)"
+      ]
+    },
+    "taxact-deluxe": {
+      "badge": "🪜 Valore di fascia media",
+      "review": "TaxAct Deluxe è la scelta giusta nella fascia intermedia. 30 $ federale + 40 $ statale (70 $ in tutto). L'interfaccia è migliore di quella di FreeTaxUSA, la precisione è paragonabile a quella di TurboTax e l'assistenza in caso di verifica è inclusa. L'add-on «Xpert Assist» (35 $) la mette in contatto con un commercialista in tempo reale: comodo se ha un solo dubbio ma non vuole pagare il listino TurboTax.",
+      "pros": [
+        "Interfaccia migliore di FreeTaxUSA con un sovrapprezzo contenuto",
+        "Assistenza gratuita in caso di verifica",
+        "Add-on Xpert Assist per il supporto di un commercialista"
+      ],
+      "cons": [
+        "Più proposte di upgrade rispetto a FreeTaxUSA",
+        "Marchio meno noto di TurboTax e H&R Block"
+      ]
+    },
+    "cash-app-taxes": {
+      "badge": "🆓 Miglior opzione gratuita",
+      "review": "Cash App Taxes è la migliore soluzione davvero gratuita. 0 $ federale + 0 $ statale, senza upselling né versioni a pagamento. Copre la maggior parte dei casi: detrazioni analitiche, lavoro autonomo (Schedule C), redditi da locazione (Schedule E) e plusvalenze. Non gestisce le dichiarazioni multi-stato né alcuni quadri di nicchia. L'interfaccia è rapida e moderna: sembra più un'app fintech che un software fiscale. Nessuna assistenza in caso di verifica.",
+      "pros": [
+        "Gratuito sul serio, senza upselling",
+        "Interfaccia moderna e veloce",
+        "Copre la maggior parte delle situazioni fiscali"
+      ],
+      "cons": [
+        "Niente supporto multi-stato",
+        "Nessuna assistenza in caso di verifica",
+        "Richiede un account Cash App"
+      ]
+    }
+  },
+  "offerNotes": {
+    "turbotax-deluxe": "Si acquista su turbotax.intuit.com. Le versioni in scatola sono spesso scontate del 20-30% da Costco o Sam's Club. Il livello «TurboTax Live» (oltre 100 $ di sovrapprezzo) la mette in contatto con un commercialista: ha senso solo per situazioni complesse.",
+    "hr-block-deluxe": "Si acquista su hrblock.com, scaricando il software o usando la versione online. La consulenza negli uffici H&R Block costa tra 80 e 300 $ a seconda della complessità (non è compresa nel software).",
+    "freetaxusa": "Si compila su freetaxusa.com. L'upgrade «Deluxe» (14,99 $) aggiunge assistenza prioritaria e supporto in caso di verifica: per quella cifra di solito conviene.",
+    "taxact-deluxe": "Si compila su taxact.com. L'add-on «Xpert Assist» la mette in contatto con un commercialista in tempo reale: vale i 35 $ se ha un solo dubbio fuori standard.",
+    "cash-app-taxes": "Si compila su cash.app/taxes o dall'app Cash App. Serve un account Cash App. La dichiarazione è gratuita e durante la compilazione non compare pubblicità."
+  },
+  "pinDescription": "Cinque software fiscali, la stessa identica dichiarazione: il rimborso cambia di appena 4 $. Quello che cambia davvero è il prezzo — da 0 a 128 $. Ecco quale scegliere.",
+  "recommendedFor": [
+    {
+      "label": "Chi dichiara per la prima volta e teme di perdere detrazioni",
+      "offerId": "turbotax-deluxe",
+      "reason": "Il percorso guidato di TurboTax, con i suggerimenti «perché?», spiega ogni domanda: così chi è insicuro non salta detrazioni di cui ignorava l'esistenza."
+    },
+    {
+      "label": "Lavoratori dipendenti che vogliono un appoggio umano",
+      "offerId": "hr-block-deluxe",
+      "reason": "Con 9.000 uffici sul territorio può entrare e farsi assistere di persona se qualcosa va storto: nessun altro software offre questa rete di sicurezza fisica."
+    },
+    {
+      "label": "Chi bada alla spesa ma ha detrazioni analitiche o redditi da lavoro autonomo",
+      "offerId": "freetaxusa",
+      "reason": "Con 14,99 $ complessivi FreeTaxUSA gestisce affitti, plusvalenze e Schedule C: la stessa precisione di TurboTax a un ottavo del prezzo."
+    },
+    {
+      "label": "Chi vuole un'interfaccia curata senza pagare quanto TurboTax",
+      "offerId": "taxact-deluxe",
+      "reason": "TaxAct Deluxe costa 70 $ in tutto e offre l'add-on con commercialista a 35 $: il miglior compromesso tra spesa e assistenza guidata."
+    },
+    {
+      "label": "Chi ha una dichiarazione semplice e non vuole pagare nulla",
+      "offerId": "cash-app-taxes",
+      "reason": "Cash App Taxes chiede 0 $ sia per il federale sia per lo statale, senza upselling: è l'unica opzione davvero gratuita per i dipendenti con detrazione forfettaria."
+    }
+  ]
 }

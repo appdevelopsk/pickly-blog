@@ -2,5 +2,127 @@
   "title": "Miglior robo-advisor 2026: 5 a confronto",
   "description": "Abbiamo confrontato Betterment, Wealthfront, Schwab, Fidelity Go, Vanguard Digital Advisor. Ecco cosa spicca davvero per rendimenti netti e costi nascosti tra i robo-advisor nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Struttura delle commissioni e costo reale",
+      "paragraphs": [
+        "La commissione di gestione pubblicizzata (Betterment 0,25%, Wealthfront 0,25%, Schwab 0%, Fidelity Go 0% sotto i 25.000 €, Vanguard 0,20%) racconta solo metà della storia. Sopra si sommano i TER degli ETF: Vanguard, con uno 0,04% medio, è la più economica, mentre lo 0,16% di Schwab fa emergere il costo nascosto.",
+        "La \"commissione di consulenza zero\" di Schwab è compensata dall'obbligo di tenere il 6-8% in liquidità su un fondo monetario che rende il 4,4% (contro un rendimento atteso del portafoglio di circa l'8%). Questo cash drag costa circa 120 €/anno su 25.000 €: più della commissione dello 0,25% di Betterment."
+      ]
+    },
+    {
+      "heading": "Rendimenti a due anni (al netto di tutti i costi)",
+      "paragraphs": [
+        "Da maggio 2024 a maggio 2026, rendimenti netti su un portafoglio 80/20 da 25.000 €: Vanguard Digital Advisor (+22,4%), Fidelity Go (+22,1%), Betterment (+21,8%), Wealthfront (+21,4%), Schwab (+19,7%). Il cash drag ha penalizzato Schwab.",
+        "Compensazione delle minusvalenze realizzata: Wealthfront (380 € di perdite realizzate), Betterment (310 €). Schwab, Fidelity e Vanguard non offrono questa funzione su conti di queste dimensioni. Per chi ha redditi alti e si colloca in uno scaglione IRPEF elevato, si traduce in oltre 100 € l'anno di risparmio fiscale effettivo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "I robo-advisor convengono rispetto al fai-da-te?",
+      "a": "Sì, se l'alternativa è lasciare i soldi sul conto, non ribilanciare mai o vendere in preda al panico. Lo 0,20-0,25% compra disciplina. No, se davvero riesci a comprare VTI/BND e tenerli senza toccarli."
+    },
+    {
+      "q": "Posso trasferire il portafoglio a un altro broker?",
+      "a": "Sì: quasi tutti i robo-advisor consentono il trasferimento verso broker esterni. Wealthfront e Betterment trasferiscono i titoli in-kind; Schwab e Vanguard preferiscono la liquidazione preventiva."
+    },
+    {
+      "q": "Quanto vale davvero la compensazione delle minusvalenze?",
+      "a": "Con un'aliquota complessiva intorno al 37%, ogni euro di perdita compensata vale circa 0,37 € di imposte risparmiate. Sui 380 € l'anno di media di Wealthfront, sono 141 € di rendimento reale in più ogni anno."
+    }
+  ],
+  "products": {
+    "betterment-robo": {
+      "badge": "🏆 Il migliore in assoluto",
+      "review": "Betterment è il robo-advisor più facile da consigliare. Commissione dello 0,25%, investimento per obiettivi (fondi separati per pensione, casa e così via), compensazione delle minusvalenze su qualsiasi importo. Nessun deposito minimo. I contenuti formativi sono i migliori della categoria. Rendimento a due anni del 21,8% al netto delle commissioni.",
+      "pros": [
+        "Compensazione delle minusvalenze già da 0 €",
+        "Interfaccia impostata sugli obiettivi"
+      ],
+      "cons": [
+        "Lo 0,25% resta più caro di Vanguard"
+      ]
+    },
+    "wealthfront-robo": {
+      "badge": "📈 Il migliore oltre i 100.000 €",
+      "review": "Wealthfront supera Betterment se hai più di 100.000 €. Il Direct Indexing (che sostituisce l'ETF con i singoli titoli) aggiunge lo 0,2-0,4% di alpha fiscale a quel livello. Piani di risparmio per l'istruzione, portafogli personalizzabili, minimo di 500 €. Ottimo per chi ha redditi elevati.",
+      "pros": [
+        "Direct Indexing oltre i 100.000 €",
+        "Piani dedicati al risparmio per lo studio"
+      ],
+      "cons": [
+        "Servono 500 € per aprire il conto"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "💸 Zero commissioni di consulenza",
+      "review": "Schwab Intelligent Portfolios non applica commissioni di consulenza, ma l'obbligo di tenere il 6-8% in liquidità annulla il risparmio. È l'opzione più economica solo sulla carta. Minimo di 5.000 €. Ha senso come aggiunta all'ecosistema Schwab, non come robo-advisor principale.",
+      "pros": [
+        "Nessuna commissione di consulenza",
+        "Vantaggi dell'ecosistema Schwab inclusi"
+      ],
+      "cons": [
+        "Il 6-8% obbligatorio in liquidità costa circa 120 €/anno"
+      ]
+    },
+    "fidelity-go": {
+      "badge": "🆓 Il miglior piano gratuito",
+      "review": "Fidelity Go è gratuito sotto i 25.000 € e passa allo 0,35% oltre quella soglia. Usa i fondi Fidelity Flex con TER pari a zero. Ideale per portafogli piccoli (sotto i 25.000 €), dove il piano gratuito è gratuito davvero. Rendimento a due anni del 22,1%.",
+      "pros": [
+        "Zero commissioni sotto i 25.000 €",
+        "Fondi Fidelity Flex con TER 0%"
+      ],
+      "cons": [
+        "Sale allo 0,35% a 25.000 €: non è più il più conveniente sui saldi alti"
+      ]
+    },
+    "vanguard-digital-advisor": {
+      "badge": "💎 Costo totale più basso",
+      "review": "Vanguard Digital Advisor ha il costo complessivo più basso: lo 0,20% di gestione include già i costi degli ETF indicizzati Vanguard. Minimo di 100 €. Miglior rendimento a due anni (+22,4%). Approccio puramente passivo, senza compensazione delle minusvalenze sotto i 50.000 €.",
+      "pros": [
+        "0,20% tutto incluso (il più basso)",
+        "Miglior rendimento a 2 anni del confronto"
+      ],
+      "cons": [
+        "Niente compensazione delle minusvalenze sotto i 50.000 €"
+      ]
+    }
+  },
+  "offerNotes": {
+    "betterment-robo": "Il livello Premium allo 0,40% annuo sblocca il consulente umano: conviene oltre i 200.000 €.",
+    "wealthfront-robo": "Il Direct Indexing si attiva solo con un saldo minimo di 100.000 €.",
+    "schwab-intelligent-portfolios": "Il livello Schwab Premium (30 €/mese + 0%) aggiunge un consulente umano: per la pianificazione degli obiettivi è meglio del solo Intelligent Portfolios.",
+    "fidelity-go": "Imposta il ribilanciamento su base trimestrale: quello annuale è troppo lento sui saldi bassi.",
+    "vanguard-digital-advisor": "Personal Advisor Services parte dallo 0,30% oltre i 50.000 € e aggiunge un consulente umano: da valutare sui patrimoni più alti."
+  },
+  "pinDescription": "Investire senza pensarci: 5 robo-advisor a confronto su un portafoglio 80/20 da 25.000 €. Commissioni reali, rendimenti a 2 anni e il costo nascosto della liquidità obbligatoria che quasi nessuno ti spiega. 📊",
+  "recommendedFor": [
+    {
+      "label": "Chi inizia a investire con meno di 25.000 €",
+      "offerId": "fidelity-go",
+      "reason": "Fidelity Go non costa assolutamente nulla sotto i 25.000 € e usa fondi Flex con TER 0%: si parte davvero gratis, senza penalità sulle commissioni."
+    },
+    {
+      "label": "Redditi alti con conti titoli tassabili",
+      "offerId": "wealthfront-robo",
+      "reason": "Il Direct Indexing oltre i 100.000 € compensa le perdite sui singoli titoli e genera più di 380 € l'anno di minusvalenze, pari a oltre 141 € di imposte risparmiate per chi è in uno scaglione alto."
+    },
+    {
+      "label": "Principianti che vogliono delegare tutto ma con obiettivi chiari",
+      "offerId": "betterment-robo",
+      "reason": "Gli obiettivi separati di Betterment tengono distinta la pensione dal risparmio per la casa, e la compensazione delle minusvalenze parte da 0 € senza saldo minimo."
+    },
+    {
+      "label": "Investitori passivi di lungo periodo ossessionati dai costi",
+      "offerId": "vanguard-digital-advisor",
+      "reason": "Lo 0,20% tutto incluso comprende anche i costi degli ETF: è il costo totale reale più basso del confronto, con il miglior rendimento a 2 anni al 22,4%."
+    },
+    {
+      "label": "Clienti Schwab che vogliono automatizzare il conto già aperto",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "L'assenza di commissioni di consulenza funziona come upgrade gratuito dentro un ecosistema Schwab già in uso, dove il costo della liquidità è compensato dagli altri vantaggi del conto."
+    }
+  ]
 }

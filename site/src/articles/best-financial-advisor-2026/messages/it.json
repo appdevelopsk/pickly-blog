@@ -2,5 +2,147 @@
   "title": "Miglior consulente finanziario 2026: 5 a confronto",
   "description": "Abbiamo confrontato Vanguard, Betterment, Fidelity, Schwab, Facet. Ecco cosa spicca davvero per struttura delle commissioni e accesso al consulente tra i consulente finanziario nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Confronto delle commissioni (portafoglio da 500.000 €)",
+      "paragraphs": [
+        "Vanguard PAS: 1.500 €/anno (0,30% del patrimonio gestito).",
+        "Betterment Premium: 2.000 €/anno (0,40% del patrimonio, soglia minima 100.000 €).",
+        "Fidelity Wealth Services: 2.500-5.200 €/anno (0,50-1,04% del patrimonio).",
+        "Schwab Intelligent Portfolios: 0 €/anno (solo robo-advisor, nessun consulente in carne e ossa).",
+        "Facet Wealth: 2.400-6.000 €/anno (abbonamento a canone fisso, non legato al patrimonio)."
+      ]
+    },
+    {
+      "heading": "Il migliore per ogni esigenza",
+      "paragraphs": [
+        "Miglior consulente umano a basso costo: Vanguard PAS. 0,30% del patrimonio con CFP vincolati al dovere fiduciario.",
+        "Miglior soluzione digital-first: Betterment Premium. Accesso illimitato ai CFP più robo-advisor allo 0,40% del patrimonio.",
+        "Miglior consulente di fascia media: Fidelity Wealth Services. Consulente dedicato con soglia minima di 50.000 €.",
+        "Miglior robo-advisor gratuito: Schwab Intelligent Portfolios. Zero commissioni di consulenza.",
+        "Migliore per patrimoni elevati: Facet Wealth. Il canone fisso costa meno della percentuale sul patrimonio oltre il milione."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Ho davvero bisogno di un consulente finanziario?",
+      "a": "Dipende: sotto i 250.000 € di portafoglio, un robo-advisor (Schwab Intelligent Portfolios) o l'investimento fai-da-te in indici (Vanguard) bastano quasi sempre. Oltre i 500.000 €, con situazioni complesse (immobili, quote societarie, ottimizzazione fiscale delle minusvalenze), un consulente umano vale il suo costo."
+    },
+    {
+      "q": "Meglio la commissione sul patrimonio o il canone fisso?",
+      "a": "La percentuale sul patrimonio cresce insieme al portafoglio: accettabile tra 250.000 e 500.000 €, cara oltre i 2 milioni. Il canone fisso (Facet) conviene sopra il milione ma pesa di più a 250.000 €. Calcoli il punto di pareggio sulla sua situazione."
+    },
+    {
+      "q": "I robo-advisor funzionano davvero?",
+      "a": "Sì, per portafogli sotto i 500.000 € con esigenze lineari. Gestiscono ribilanciamento e ottimizzazione fiscale a costi contenuti. Restano limitati sulla pianificazione fiscale complessa, la successione o le necessità di chi ha un'attività in proprio."
+    },
+    {
+      "q": "E i consulenti indipendenti a parcella?",
+      "a": "Consigliatissimi nelle situazioni complesse. Applicano 200-500 € l'ora oppure una parcella fissa per il piano (1.500-5.000 €) e non incassano retrocessioni. In Italia può consultare l'albo OCF o cercare tra i consulenti finanziari autonomi iscritti a NAFOP."
+    }
+  ],
+  "products": {
+    "vanguard-pas": {
+      "badge": "🏆 Miglior consulente umano low cost",
+      "review": "Vanguard Personal Advisor Services è la scelta giusta per una consulenza umana a basso costo. Commissione dello 0,30% sul patrimonio (la più bassa del settore per un consulente in carne e ossa), CFP vincolati al dovere fiduciario, focus sui fondi Vanguard. I CFP sono consulenti veri, non algoritmi, e le consulenze sono illimitate. Il miglior rapporto qualità-prezzo per portafogli tra 500.000 e 5 milioni di euro.",
+      "pros": [
+        "0,30% sul patrimonio: il minimo per un consulente umano",
+        "CFP vincolati al dovere fiduciario",
+        "Integrazione con i fondi Vanguard"
+      ],
+      "cons": [
+        "Focus sui fondi Vanguard (offerta limitata ai loro prodotti)",
+        "Meno personalizzato rispetto ai servizi più cari"
+      ]
+    },
+    "betterment-premium": {
+      "badge": "💎 Miglior soluzione digital-first",
+      "review": "Betterment Premium è la scelta giusta per chi investe in digitale ma vuole comunque un CFP a disposizione. Commissione dello 0,40% sul patrimonio, soglia minima di 100.000 €, accesso illimitato ai CFP e trading gestito dal robo-advisor. Ottimizzazione fiscale delle minusvalenze inclusa. Ideale per chi ha dimestichezza con la tecnologia e cerca un ibrido tra algoritmo e consulente.",
+      "pros": [
+        "Accesso illimitato ai CFP",
+        "Automazione del robo-advisor",
+        "Ottimizzazione fiscale inclusa"
+      ],
+      "cons": [
+        "Soglia minima di 100.000 €",
+        "0,40% sul patrimonio: più di Vanguard"
+      ]
+    },
+    "fidelity-wealth-services": {
+      "badge": "🏛️ Miglior consulente di fascia media",
+      "review": "Fidelity Wealth Services è la scelta giusta per una consulenza tradizionale all'interno di un grande broker. Soglia minima di 50.000 €, consulente dedicato, commissione dallo 0,50% all'1,04% del patrimonio a seconda del livello di servizio. Perfetto per i clienti Fidelity con oltre 500.000 € che vogliono un unico interlocutore.",
+      "pros": [
+        "Consulente dedicato",
+        "Integrazione con l'ecosistema Fidelity",
+        "Più livelli di servizio"
+      ],
+      "cons": [
+        "0,50-1,04% sul patrimonio: più di Vanguard",
+        "Soglia minima di 50.000 €"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "🆓 Miglior robo gratuito",
+      "review": "Schwab Intelligent Portfolios è la scelta giusta per una gestione automatizzata a costo zero. Nessuna commissione di consulenza, soglia minima di 5.000 €, pianificazione degli obiettivi inclusa. Schwab guadagna sulla liquidità parcheggiata (circa il 10% del portafoglio resta in conti Schwab a basso rendimento): è questo il vero prezzo da pagare.",
+      "pros": [
+        "Zero commissioni di consulenza",
+        "Soglia minima bassa: 5.000 €",
+        "Pianificazione degli obiettivi inclusa"
+      ],
+      "cons": [
+        "Liquidità immobilizzata (circa il 10% a basso rendimento)",
+        "Nessun accesso a un consulente umano"
+      ]
+    },
+    "facet-wealth": {
+      "badge": "💸 Migliore per patrimoni elevati",
+      "review": "Facet Wealth è la scelta giusta oltre il milione di euro. Abbonamento a canone fisso (2.400-6.000 € l'anno) invece della percentuale sul patrimonio, con CFP dedicato. Su un portafoglio da 2 milioni, i 4.800 € l'anno di Facet costano molto meno dello 0,30% sul patrimonio (6.000 € l'anno).",
+      "pros": [
+        "Canone fisso (più conveniente oltre il milione)",
+        "CFP dedicato",
+        "Nessun conflitto d'interessi legato al patrimonio"
+      ],
+      "cons": [
+        "Caro a 250.000 € (il canone fisso supera l'1% del patrimonio)",
+        "Struttura più piccola rispetto a Vanguard e Fidelity"
+      ]
+    }
+  },
+  "offerNotes": {
+    "vanguard-pas": "Iscrizione su investor.vanguard.com. Soglia minima di 500.000 € per accedere al servizio PAS.",
+    "betterment-premium": "Iscrizione su betterment.com. Soglia minima di 100.000 € per il livello Premium; il livello Digital (0,25% del patrimonio, senza accesso ai CFP) non ha soglia minima.",
+    "fidelity-wealth-services": "Iscrizione su fidelity.com o telefonando al servizio wealth. Soglia minima di 50.000 €.",
+    "schwab-intelligent-portfolios": "Iscrizione su schwab.com. Soglia minima di 5.000 €.",
+    "facet-wealth": "Iscrizione su facet.com. Modello a canone fisso: il preventivo dipende dalla complessità della situazione."
+  },
+  "pinDescription": "Quanto le costa davvero un consulente finanziario? Su 500.000 € si passa da 0 € a oltre 5.000 € l'anno. Il confronto tra Vanguard PAS, Betterment, Fidelity, Schwab e Facet, con il punto di pareggio tra percentuale sul patrimonio e canone fisso. 📌 Da salvare prima di firmare.",
+  "recommendedFor": [
+    {
+      "label": "Investitori attenti ai costi con portafogli tra 500.000 e 5 milioni di euro",
+      "offerId": "vanguard-pas",
+      "reason": "Vanguard PAS chiede solo lo 0,30% del patrimonio, la tariffa più bassa per avere un CFP in carne e ossa, con un risparmio di migliaia di euro l'anno rispetto ai concorrenti."
+    },
+    {
+      "label": "Investitori digitali che vogliono l'automazione con un consulente alle spalle",
+      "offerId": "betterment-premium",
+      "reason": "Betterment Premium unisce l'ottimizzazione fiscale automatica all'accesso illimitato ai CFP: ideale per chi vuole delegare senza rinunciare al parere di un esperto."
+    },
+    {
+      "label": "Clienti Fidelity di lunga data in cerca di un consulente dedicato",
+      "offerId": "fidelity-wealth-services",
+      "reason": "Fidelity Wealth Services assegna un interlocutore unico e si integra senza attriti con i conti Fidelity già attivi per i clienti oltre i 500.000 €."
+    },
+    {
+      "label": "Chi inizia a investire con meno di 100.000 €",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Schwab Intelligent Portfolios non applica commissioni di consulenza e parte da 5.000 €: i primi guadagni non vengono erosi dai costi."
+    },
+    {
+      "label": "Patrimoni da un milione di euro in su",
+      "offerId": "facet-wealth",
+      "reason": "Il canone fisso di Facet, tra 2.400 e 6.000 € l'anno, batte la commissione sul patrimonio oltre il milione: su un portafoglio da 2 milioni si risparmiano fino a 1.200 € l'anno rispetto allo 0,30% di Vanguard."
+    }
+  ]
 }

@@ -2,5 +2,151 @@
   "title": "Miglior polizza integrativa Medicare 2026: 5 a confronto",
   "description": "Abbiamo confrontato Mutual of Omaha, Aetna, Humana, BCBS, UnitedHealthcare AARP. Ecco cosa spicca davvero per premio e stabilità tariffaria tra i assicurazione integrativa Medicare nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Che cosa copre il Plan G",
+      "paragraphs": [
+        "Il Plan G copre tutto ciò che Original Medicare lascia scoperto, TRANNE la franchigia della Part B (240 $ all'anno nel 2026). Il Plan F, che invece copriva anche quella franchigia, non è più sottoscrivibile da chi si iscrive dal 2020 in poi.",
+        "Dal 2020 il Plan G è la scelta più diffusa tra i nuovi iscritti perché copre le stesse voci costose (franchigia della Part A, coassicurazione della Part B e così via) con un premio inferiore a quello che storicamente aveva il Plan F.",
+        "Alternative al Plan G: il Plan N ha un premio più basso ma prevede 20 $ di ticket per visita ambulatoriale e 50 $ per accesso al pronto soccorso, quindi conviene a chi è in buona salute e va poco dal medico. Il Plan G resta la scelta sicura di default."
+      ]
+    },
+    {
+      "heading": "Premi per compagnia e per stato",
+      "paragraphs": [
+        "Premio mensile del Plan G per un 65enne, per stato e compagnia: Florida in media 180-220 $ (il valore più alto), Texas 130-170 $, California 150-200 $. In Florida i premi sono elevati per via della demografia dei pensionati e del rischio uragani.",
+        "La compagnia più economica è Aetna, con 140-190 $ al mese nei vari stati. La più cara è Blue Cross Blue Shield, 160-220 $ al mese, con differenze tra le BCBS statali.",
+        "Storico degli aumenti negli ultimi 5 anni: UnitedHealthcare AARP in media +4-6% l'anno, Mutual of Omaha +5-7%, Aetna +5-8%, Humana +4-7%, mentre BCBS varia molto da stato a stato. Per chi tiene la polizza a lungo, la stabilità delle tariffe conta più del premio iniziale."
+      ]
+    },
+    {
+      "heading": "Servizi inclusi e assistenza clienti",
+      "paragraphs": [
+        "Extra inclusi: Aetna offre l'abbonamento in palestra SilverSneakers (equivalente a 25-50 $ al mese), sconti su apparecchi acustici e su prodotti per la vista. UnitedHealthcare AARP include Renew Active (palestra più esercizi di allenamento mentale). Mutual of Omaha si limita a programmi di sconto di base. Humana e BCBS offrono extra più ridotti.",
+        "Valutazioni su assistenza e solidità (BBB e AM Best): UnitedHealthcare A+ AM Best, Mutual of Omaha A+ AM Best, Aetna A AM Best, Humana A AM Best, BCBS variabile per stato.",
+        "Patologie preesistenti: la Medicare Supplement è ad accettazione garantita SOLO durante l'Open Enrollment, cioè i primi 6 mesi dall'attivazione della Part B. Fuori da quella finestra le compagnie possono valutare il rischio sanitario e rifiutare la domanda."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Meglio il Plan G o il Plan N?",
+      "a": "Il Plan G se non vuoi spese di tasca tua oltre alla franchigia della Part B. Il Plan N, con premio più basso, se accetti 20 $ di ticket per ogni visita medica e 50 $ al pronto soccorso. Il Plan N fa risparmiare circa il 20% di premio a chi è in salute e va raramente dal medico."
+    },
+    {
+      "q": "Qual è il momento giusto per iscriversi?",
+      "a": "Durante i 6 mesi di Open Enrollment che partono dal mese in cui la Part B diventa effettiva: in quella finestra l'accettazione è garantita, senza valutazione sanitaria. Fuori da quel periodo la compagnia può rifiutarti per le tue condizioni di salute."
+    },
+    {
+      "q": "Posso cambiare compagnia in seguito?",
+      "a": "Sì, ma fuori dall'Open Enrollment la compagnia può sottoporti a valutazione sanitaria. Alcuni stati prevedono le cosiddette Birthday Rules o Anniversary Rules, che permettono di cambiare compagnia una volta l'anno senza quella valutazione."
+    },
+    {
+      "q": "Medicare Supplement o Medicare Advantage?",
+      "a": "Medicare Supplement (Medigap): puoi rivolgerti a qualsiasi medico convenzionato Medicare in tutto il paese, premio più alto (150-200 $ al mese) e costi prevedibili. Medicare Advantage: rete di strutture limitata, premio più basso (spesso zero) e spese di tasca tua variabili. Scegli in base a quanto vale per te la libertà di scelta rispetto alla spesa mensile."
+    }
+  ],
+  "products": {
+    "mutual-of-omaha-medicare-supplement": {
+      "badge": "🏆 Migliore mutua assicurativa",
+      "review": "Mutual of Omaha Medicare Supplement è la scelta giusta per chi cerca soprattutto stabilità. È una mutua, quindi gli assicurati partecipano agli utili, ha rating A+ AM Best e un Plan G da 150-200 $ al mese. Lo storico degli aumenti è contenuto: una compagnia solida sul lungo periodo.",
+      "pros": [
+        "Mutua assicurativa con partecipazione agli utili",
+        "Rating A+ AM Best",
+        "Ottima stabilità sul lungo periodo"
+      ],
+      "cons": [
+        "Non è sempre la più economica nel tuo stato",
+        "Assistenza clienti di livello medio"
+      ]
+    },
+    "aetna-medicare-supplement": {
+      "badge": "💚 Migliori servizi inclusi",
+      "review": "Aetna Medicare Supplement (gruppo CVS Health) è la scelta giusta se dai valore agli extra inclusi: abbonamento in palestra SilverSneakers, sconti su apparecchi acustici e su prodotti per la vista. È anche la più economica, 140-190 $ al mese nei vari stati, con le spalle coperte da CVS Health.",
+      "pros": [
+        "SilverSneakers incluso",
+        "La più economica",
+        "Solidità del gruppo CVS Health"
+      ],
+      "cons": [
+        "Storico degli aumenti nella media",
+        "Rating A AM Best, non A+"
+      ]
+    },
+    "humana-medicare-supplement": {
+      "badge": "🪪 Miglior compromesso",
+      "review": "Humana Medicare Supplement è una solida via di mezzo. Plan G da 145-200 $ al mese e un passaggio agevole al Medicare Advantage se un domani volessi cambiare. Disponibile nella maggior parte degli stati: meno generosa sugli extra, ma affidabile.",
+      "pros": [
+        "Compagnia affidabile di fascia media",
+        "Passaggio al Medicare Advantage se serve",
+        "Disponibile in quasi tutti gli stati"
+      ],
+      "cons": [
+        "Meno extra inclusi rispetto ad Aetna",
+        "Storico degli aumenti nella media"
+      ]
+    },
+    "blue-cross-blue-shield-medicare-supplement": {
+      "badge": "🌐 Rete più estesa",
+      "review": "Blue Cross Blue Shield Medicare Supplement è la scelta giusta se vuoi la rete di strutture più ampia nel tuo stato. I piani BCBS sono gestiti a livello statale e i prezzi cambiano parecchio: in alcuni stati sono molto competitivi, in altri i più alti di questo confronto. Verifica sempre il tuo stato.",
+      "pros": [
+        "Rete di medici e strutture più ampia in quasi tutti gli stati",
+        "Marchio molto riconosciuto a livello statale",
+        "Ben accettata dagli ospedali"
+      ],
+      "cons": [
+        "Prezzi molto variabili da stato a stato",
+        "Rating AM Best diverso per ogni BCBS statale"
+      ]
+    },
+    "united-healthcare-aarp-medicare-supplement": {
+      "badge": "👑 Marchio più riconosciuto",
+      "review": "UnitedHealthcare AARP Medicare Supplement è il primo assicuratore Medicare Supplement degli Stati Uniti per numero di polizze. Ha l'endorsement di AARP, rating A+ AM Best e include Renew Active (palestra ed esercizi di allenamento mentale). Plan G da 150-210 $ al mese, con grande solidità e notorietà del marchio.",
+      "pros": [
+        "Primo assicuratore Medicare Supplement negli USA",
+        "Endorsement di AARP",
+        "Renew Active: palestra e allenamento mentale"
+      ],
+      "cons": [
+        "Non è sempre la più economica",
+        "Il sovrapprezzo del marchio non sempre si giustifica"
+      ]
+    }
+  },
+  "offerNotes": {
+    "mutual-of-omaha-medicare-supplement": "Preventivo tramite i consulenti Mutual of Omaha. Lunga tradizione di distribuzione degli utili agli assicurati.",
+    "aetna-medicare-supplement": "Preventivo su aetnamedicare.com, gruppo CVS Health.",
+    "humana-medicare-supplement": "Preventivo su humana.com, una solida opzione di fascia media.",
+    "blue-cross-blue-shield-medicare-supplement": "Preventivo su bcbs.com: i prezzi cambiano moltissimo a seconda della BCBS statale.",
+    "united-healthcare-aarp-medicare-supplement": "Preventivo su aarpmedicaresupplement.com: serve l'iscrizione ad AARP (16 $ all'anno)."
+  },
+  "pinDescription": "Medicare Supplement 2026: quale conviene davvero? Plan G a confronto in 3 stati tra Mutual of Omaha, Aetna, Humana, BCBS e UnitedHealthcare AARP 👉 premi, aumenti e servizi inclusi.",
+  "recommendedFor": [
+    {
+      "label": "Pensionati che vogliono premi stabili negli anni",
+      "offerId": "mutual-of-omaha-medicare-supplement",
+      "reason": "Il rating A+ AM Best e la struttura mutualistica fanno di Mutual of Omaha la scommessa più sicura per chi pensa di tenere la polizza per decenni."
+    },
+    {
+      "label": "Over 65 attivi, che fanno sport e usano apparecchi acustici o occhiali",
+      "offerId": "aetna-medicare-supplement",
+      "reason": "Aetna include l'abbonamento SilverSneakers più sconti su apparecchi acustici e prodotti per la vista: extra che ripagano il premio a chi tiene alla propria salute."
+    },
+    {
+      "label": "Chi si sposta tra più stati o passa l'inverno al Sud",
+      "offerId": "blue-cross-blue-shield-medicare-supplement",
+      "reason": "BCBS ha la rete di strutture più ampia in quasi tutti gli stati: trovi medici convenzionati sia se svernì in Florida sia se passi l'estate al Nord."
+    },
+    {
+      "label": "Nuovi iscritti a Medicare con reddito fisso e budget contenuto",
+      "offerId": "humana-medicare-supplement",
+      "reason": "Il prezzo intermedio di Humana (145-200 $ al mese) e la disponibilità in quasi tutti gli stati la rendono un punto di partenza affidabile, senza pagare extra che forse non useresti."
+    },
+    {
+      "label": "Iscritti AARP che vogliono il marchio più noto a livello nazionale",
+      "offerId": "united-healthcare-aarp-medicare-supplement",
+      "reason": "L'endorsement AARP, il rating A+ AM Best e il programma Renew Active convincono chi cerca un nome conosciuto con servizi per il benessere già inclusi."
+    }
+  ]
 }

@@ -2,5 +2,147 @@
   "title": "Migliori app per inviare denaro 2026: 5 a confronto",
   "description": "Abbiamo confrontato Wise, Revolut, PayPal, Venmo, Western Union. Ecco cosa spicca davvero per tassi di cambio e commissioni tra i app trasferimento denaro nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Confronto dei costi di un bonifico internazionale (1.000 USD → EUR)",
+      "paragraphs": [
+        "Wise: 1.000 $ → 917 € (tasso di cambio interbancario + 0,4% di commissione). Il servizio più trasparente.",
+        "Revolut (piano Standard): 1.000 $ → 915 € (buon tasso, ma solo nei giorni feriali).",
+        "PayPal: 1.000 $ → 870 € (circa 3-5% di costo reale, contando il cambio sfavorevole). Il tasso peggiore.",
+        "Western Union (online): 1.000 $ → 890 € (meglio di PayPal, ma il margine resta nascosto nel cambio).",
+        "Venmo: non disponibile per i trasferimenti internazionali."
+      ]
+    },
+    {
+      "heading": "Il migliore per ogni esigenza",
+      "paragraphs": [
+        "Migliore per l'estero: Wise. Tasso interbancario e commissione trasparente dello 0,4-1%.",
+        "Migliore come app tuttofare: Revolut. Conto multivaluta, cripto e azioni integrati.",
+        "Migliore per i pagamenti interni agli USA: Venmo. Solo Stati Uniti, feed social, trasferimenti istantanei.",
+        "Migliore per il ritiro in contanti: Western Union. Oltre 200 Paesi, ritiro allo sportello.",
+        "Il più diffuso: PayPal. Consolidato, ma con i tassi peggiori."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Perché Wise costa meno di PayPal?",
+      "a": "Wise applica il tasso di cambio interbancario (quello reale tra valute sul mercato globale) più una commissione dichiarata. PayPal aggiunge invece un ricarico sul tasso di cambio e una commissione a parte: in genere il 3-5% in più rispetto al tasso reale."
+    },
+    {
+      "q": "Posso inviare denaro a chiunque con Wise?",
+      "a": "Sì: chi riceve non ha bisogno di un account Wise. Il denaro arriva direttamente sul suo conto corrente, già convertito nella valuta locale."
+    },
+    {
+      "q": "Queste app sono sicure?",
+      "a": "Sì: Wise, Revolut, PayPal, Venmo e Western Union sono tutti istituti di pagamento autorizzati, con sistemi antifrode attivi."
+    },
+    {
+      "q": "Conviene usare le criptovalute per inviare denaro?",
+      "a": "Si può fare, ma è più macchinoso: chi invia converte gli euro in USDC, li trasferisce e chi riceve li riconverte in valuta locale. Ha senso in casi particolari (Paesi sotto sanzioni), ma per la maggior parte delle persone Wise è molto più semplice."
+    }
+  ],
+  "products": {
+    "wise-transfer": {
+      "badge": "🏆 Migliore per l'estero",
+      "review": "Wise (ex TransferWise) è la scelta giusta per i bonifici internazionali. Tasso di cambio interbancario reale (quello che le banche usano tra loro), commissioni trasparenti (0,4-1% a seconda della valuta) e oltre 40 valute gestite. Puoi inviare denaro sul conto di chiunque, in tutto il mondo, senza che il destinatario debba aprire un account Wise.",
+      "pros": [
+        "Tasso di cambio interbancario",
+        "Commissioni trasparenti (0,4-1%)",
+        "Oltre 40 valute"
+      ],
+      "cons": [
+        "Chi invia deve avere un account Wise",
+        "Il bonifico può richiedere 1-2 giorni"
+      ]
+    },
+    "revolut": {
+      "badge": "🌐 Migliore come app tuttofare",
+      "review": "Revolut è la scelta giusta se vuoi trasferimenti di denaro, conto multivaluta, cripto e azioni in un'unica app. Il conto gestisce oltre 25 valute, trading di criptovalute e azioni è integrato e i piani a pagamento aggiungono vantaggi. Sui trasferimenti internazionali è competitiva (nei giorni feriali è allineata a Wise).",
+      "pros": [
+        "Conto multivaluta (oltre 25)",
+        "Cripto e azioni integrate",
+        "I piani superiori aggiungono vantaggi"
+      ],
+      "cons": [
+        "I piani premium costano 9-17 € al mese",
+        "Nel weekend i tassi peggiorano"
+      ]
+    },
+    "paypal-international": {
+      "badge": "🏪 Il più diffuso",
+      "review": "PayPal è il servizio di trasferimento denaro più diffuso, ma anche quello con i tassi peggiori. Il costo reale si aggira sul 3-5% contando il ricarico applicato al cambio. Usalo solo se il destinatario chiede espressamente PayPal: in tutti gli altri casi Wise è la scelta ovvia.",
+      "pros": [
+        "Il più diffuso in assoluto",
+        "Protezione acquirenti e venditori sugli acquisti",
+        "Accettato da moltissimi e-commerce"
+      ],
+      "cons": [
+        "Tassi di cambio peggiori (ricarico del 3-5% circa)",
+        "Costi nascosti dentro il tasso di cambio"
+      ]
+    },
+    "venmo": {
+      "badge": "🇺🇸 Migliore negli USA",
+      "review": "Venmo è la scelta giusta per i pagamenti tra privati all'interno degli Stati Uniti. Ha un feed social (le transazioni sono visibili agli amici, ma si può disattivare), trasferimenti istantanei su carta di debito (da 0,25 a 15 $) e bonifici gratuiti sul conto (1-3 giorni). Negli USA è lo standard per dividere le spese.",
+      "pros": [
+        "Feed social (disattivabile)",
+        "Trasferimenti istantanei su carta di debito",
+        "Standard di fatto negli Stati Uniti"
+      ],
+      "cons": [
+        "Disponibile solo negli USA",
+        "Nessun trasferimento internazionale"
+      ]
+    },
+    "western-union": {
+      "badge": "💵 Migliore per il ritiro in contanti",
+      "review": "Western Union è la scelta giusta quando chi riceve deve ritirare contanti, in oltre 200 Paesi. Il destinatario preleva il denaro allo sportello Western Union senza bisogno di un conto corrente. Utile per chi non è bancarizzato o in situazioni particolari.",
+      "pros": [
+        "Oltre 200 Paesi",
+        "Ritiro in contanti (senza conto corrente)",
+        "Sportelli fisici sul territorio"
+      ],
+      "cons": [
+        "Commissioni variabili (spesso alte)",
+        "Doversi recare allo sportello è scomodo"
+      ]
+    }
+  },
+  "offerNotes": {
+    "wise-transfer": "Registrazione su wise.com. Aprire il conto è gratuito; le commissioni si pagano su ogni trasferimento.",
+    "revolut": "Registrazione su revolut.com. Il piano Standard è gratuito; Premium (9 €/mese) e Metal (17 €/mese) aggiungono vantaggi.",
+    "paypal-international": "Registrazione su paypal.com. L'account è gratuito; si pagano le commissioni sulle transazioni.",
+    "venmo": "Registrazione dall'app Venmo. Solo Stati Uniti.",
+    "western-union": "Registrazione su westernunion.com oppure direttamente in agenzia."
+  },
+  "pinDescription": "Mandare soldi all'estero senza farsi mangiare il 5% dal cambio: Wise, Revolut, PayPal, Venmo e Western Union a confronto, commissioni reali alla mano.",
+  "recommendedFor": [
+    {
+      "label": "Expat e lavoratori da remoto che inviano denaro all'estero con regolarità",
+      "offerId": "wise-transfer",
+      "reason": "Con il tasso interbancario e una commissione trasparente dello 0,4-1%, Wise fa risparmiare parecchio sui trasferimenti ricorrenti rispetto a banche e PayPal."
+    },
+    {
+      "label": "Nomadi digitali che tengono e spendono denaro in più valute",
+      "offerId": "revolut",
+      "reason": "Il conto multivaluta di Revolut gestisce oltre 25 valute e integra cripto e azioni: di fatto un centro finanziario completo che ti porti in tasca."
+    },
+    {
+      "label": "Studenti universitari negli USA che dividono affitto e conti al ristorante",
+      "offerId": "venmo",
+      "reason": "Negli Stati Uniti Venmo è lo standard di fatto per i pagamenti tra privati: trasferimenti istantanei su carta di debito e feed social rendono immediato dividere le spese."
+    },
+    {
+      "label": "Venditori online che incassano da clienti di tutto il mondo",
+      "offerId": "paypal-international",
+      "reason": "L'integrazione capillare con gli e-commerce e la protezione per acquirenti e venditori rendono PayPal il metodo di pagamento che i clienti si aspettano di trovare."
+    },
+    {
+      "label": "Chi invia denaro a familiari senza conto corrente nei Paesi in via di sviluppo",
+      "offerId": "western-union",
+      "reason": "Con Western Union il destinatario ritira i contanti di persona in oltre 200 Paesi, senza bisogno di avere un conto in banca."
+    }
+  ]
 }

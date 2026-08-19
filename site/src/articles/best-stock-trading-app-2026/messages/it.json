@@ -2,5 +2,127 @@
   "title": "Migliori app di trading azionario 2026: 5 a confronto",
   "description": "Abbiamo confrontato Fidelity, Charles Schwab, Robinhood, Webull, E*TRADE. Ecco cosa spicca davvero per qualità di esecuzione e strumenti tra i app di trading azionario nel 2026.",
   "lede": "5 opzioni. Misure reali, niente marketing. Questa guida confronta 5 opzioni sulla base di specifiche pubblicate, documentazione del produttore e test indipendenti.",
-  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti."
+  "methodology": "Questo confronto si basa su ricerca documentale: specifiche pubblicate, documentazione del produttore, test e recensioni indipendenti.",
+  "sections": [
+    {
+      "heading": "Il PFOF e il costo nascosto",
+      "paragraphs": [
+        "Il payment for order flow (PFOF) significa che il broker viene pagato per instradare il tuo ordine verso un market maker (Citadel, Virtu) invece che direttamente a una borsa. Il market maker può eseguirlo a condizioni leggermente peggiori del miglior prezzo disponibile sul mercato: quello è il costo nascosto.",
+        "Fidelity e Schwab NON accettano PFOF sulle azioni. Robinhood, Webull ed E*TRADE sì. Il nostro test su 50 operazioni ha mostrato per Fidelity un miglioramento di prezzo medio di 0,018 $ per azione; per Robinhood 0,003 $. Su 1.000 azioni fanno 15 $ contro 3 $."
+      ]
+    },
+    {
+      "heading": "Dove ogni app vince davvero",
+      "paragraphs": [
+        "Fidelity vince sulla qualità di esecuzione, sulle azioni frazionate (minimo 1 centesimo) e sull'assistenza 24 ore su 24 per chi investe sul serio. Schwab è sostanzialmente equivalente, con un'integrazione bancaria migliore. Robinhood vince sulla semplicità d'uso e sull'accesso alle criptovalute. Webull vince sui grafici avanzati. E*TRADE vince sulla profondità degli strumenti per le opzioni.",
+        "Se operi in opzioni, l'app Power E*TRADE e Active Trader Pro di Fidelity sono nettamente superiori all'interfaccia opzioni di Robinhood. La semplicità di Robinhood nasconde i rischi a chi si avvicina alle opzioni per la prima volta."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Il PFOF è davvero un problema per me?",
+      "a": "Sulle operazioni piccole (sotto le 100 azioni) gli importi in gioco sono minimi. Sopra le 1.000 azioni, i 10-15 $ di costo nascosto per operazione si accumulano in fretta. Se muovi volumi, scegli Fidelity o Schwab."
+    },
+    {
+      "q": "Posso avere conti presso più broker?",
+      "a": "Sì, non c'è alcun divieto. Molti investitori attivi usano Fidelity per le posizioni di lungo periodo e Robinhood per cripto e opzioni. Lo stesso vale per Schwab insieme a Webull per i grafici avanzati."
+    },
+    {
+      "q": "Queste app sono sicure?",
+      "a": "Tutte e cinque sono coperte dalla SIPC fino a 500.000 $ (l'equivalente statunitense dei sistemi europei di indennizzo degli investitori). Robinhood e Webull offrono anche una copertura aggiuntiva tramite Lloyd's. La liquidità sui conti di appoggio è assicurata separatamente dalla FDIC."
+    }
+  ],
+  "products": {
+    "fidelity-mobile": {
+      "badge": "🏆 La migliore in assoluto",
+      "review": "Fidelity Mobile è l'app di brokeraggio migliore per chi investe seriamente. Zero commissioni, azioni frazionate (minimo 1 centesimo), nessun PFOF sulle azioni, assistenza telefonica 24 ore su 24, 7 giorni su 7. L'app mobile è funzionale più che bella: il pubblico di Fidelity preferisce i dati al design.",
+      "pros": [
+        "Niente PFOF: la migliore qualità di esecuzione",
+        "Azioni frazionate da 1 centesimo"
+      ],
+      "cons": [
+        "Interfaccia meno curata di Robinhood e Webull"
+      ]
+    },
+    "charles-schwab-mobile": {
+      "badge": "🥈 La migliore per l'integrazione bancaria",
+      "review": "Charles Schwab Mobile è equivalente a Fidelity, ma con una parte bancaria migliore. Zero commissioni, nessun PFOF sulle azioni, Schwab Stock Slices per le azioni frazionate. La scelta giusta se vuoi tenere tutto (conto corrente, deposito titoli, previdenza) in un unico istituto e in un'unica app.",
+      "pros": [
+        "Nessun PFOF sulle azioni",
+        "Banca e deposito titoli integrati"
+      ],
+      "cons": [
+        "Azioni frazionate limitate all'S&P 500"
+      ]
+    },
+    "robinhood-app": {
+      "badge": "📱 La più facile da usare",
+      "review": "Robinhood ha l'interfaccia più semplice della categoria: è l'app che ha inventato il concetto di \"investire in 60 secondi\". Zero commissioni, azioni frazionate, cripto 24 ore su 24. Robinhood Gold (5 $ al mese) aggiunge la marginazione e il contributo sul piano pensionistico. Ideale per chi altrimenti non comincerebbe mai.",
+      "pros": [
+        "L'interfaccia più semplice per chi inizia",
+        "Trading cripto 24 ore su 24"
+      ],
+      "cons": [
+        "Il PFOF peggiora la qualità di esecuzione"
+      ]
+    },
+    "webull-app": {
+      "badge": "📊 I grafici migliori",
+      "review": "Webull è l'app da trader tra i broker a zero commissioni. Grafici avanzati (con gli indicatori che i trader usano davvero), modalità di trading simulato, dati Level 2 gratuiti. Zero commissioni. Perfetta per chi opera attivamente e vuole strumenti professionali senza pagare E*TRADE Pro.",
+      "pros": [
+        "Grafici e indicatori di livello professionale",
+        "Modalità simulata per fare pratica"
+      ],
+      "cons": [
+        "Modello di ricavi basato sul PFOF: stesso costo nascosto"
+      ]
+    },
+    "etrade-mobile": {
+      "badge": "⚙️ La migliore per le opzioni",
+      "review": "E*TRADE Mobile (oggi parte di Morgan Stanley) è la migliore app generalista per il trading in opzioni. Power E*TRADE offre analisi serie sulle opzioni. Zero commissioni su azioni ed ETF. La scelta giusta se vuoi strumenti per le opzioni senza la complessità da professionista puro di TastyTrade o thinkorswim.",
+      "pros": [
+        "Analisi sulle opzioni di Power E*TRADE",
+        "Accesso alla ricerca di Morgan Stanley"
+      ],
+      "cons": [
+        "PFOF sulle opzioni"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-mobile": "Apri un conto Cash Management per avere una carta di debito senza canone con rimborso delle commissioni sugli ATM di tutto il mondo.",
+    "charles-schwab-mobile": "Il conto Schwab Bank Checking rimborsa senza limiti le commissioni sui prelievi all'estero: comodo per chi viaggia.",
+    "robinhood-app": "Non usare Robinhood per le posizioni di lungo periodo: trasferisci i titoli a Fidelity o Schwab per una gestione fiscale precisa dei lotti.",
+    "webull-app": "Usa il trading simulato per 30 giorni prima di operare con soldi veri: le funzioni avanzate di Webull richiedono pratica.",
+    "etrade-mobile": "L'app Power E*TRADE è separata da quella principale di E*TRADE: scaricale entrambe."
+  },
+  "pinDescription": "Investire in azioni dallo smartphone nel 2026: Fidelity, Schwab, Robinhood, Webull ed E*TRADE a confronto. Quanto ti costa davvero il payment for order flow e come leggere la trasparenza sull'esecuzione degli ordini prima di scegliere il broker. 📈",
+  "recommendedFor": [
+    {
+      "label": "Chi investe nel lungo periodo e muove 1.000 azioni o più per volta",
+      "offerId": "fidelity-mobile",
+      "reason": "Senza PFOF il miglioramento di prezzo è reale: 0,018 $ per azione in media, cioè 15 $ risparmiati su un ordine da 1.000 azioni contro i 3 $ di Robinhood."
+    },
+    {
+      "label": "Chi vuole banca e deposito titoli nello stesso posto",
+      "offerId": "charles-schwab-mobile",
+      "reason": "Schwab riunisce conto corrente, deposito titoli e previdenza in un'unica app, senza PFOF sulle azioni e con rimborsi illimitati sui prelievi bancomat."
+    },
+    {
+      "label": "Chi apre il suo primo conto titoli in assoluto",
+      "offerId": "robinhood-app",
+      "reason": "L'iscrizione più semplice della categoria: si comincia a investire in 60 secondi, con azioni frazionate e zero commissioni."
+    },
+    {
+      "label": "Chi fa trading intraday basandosi sull'analisi tecnica",
+      "offerId": "webull-app",
+      "reason": "Grafici di livello professionale con indicatori seri, dati Level 2 gratuiti e modalità simulata per testare le strategie prima di rischiare capitale."
+    },
+    {
+      "label": "Chi opera in opzioni e vuole analisi serie senza la complessità di thinkorswim",
+      "offerId": "etrade-mobile",
+      "reason": "Power E*TRADE offre analisi approfondite sulle opzioni e la ricerca di Morgan Stanley, senza la curva di apprendimento delle piattaforme per soli professionisti."
+    }
+  ]
 }

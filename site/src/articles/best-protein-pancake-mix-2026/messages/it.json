@@ -177,5 +177,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "Abbiamo valutato ogni prodotto in base al profilo aromatico, alla trasparenza sulla provenienza, al rapporto qualità-prezzo per porzione, alla qualità della confezione e alle prestazioni nei principali contesti d'uso. Le certificazioni documentate e le recensioni verificate degli utenti sono state confrontate con le promesse del marketing."
+  "methodology": "Abbiamo valutato ogni prodotto in base al profilo aromatico, alla trasparenza sulla provenienza, al rapporto qualità-prezzo per porzione, alla qualità della confezione e alle prestazioni nei principali contesti d'uso. Le certificazioni documentate e le recensioni verificate degli utenti sono state confrontate con le promesse del marketing.",
+  "recommendedFor": [
+    {
+      "label": "Chi va in palestra e vuole una colazione veloce nei giorni feriali",
+      "offerId": "kodiak-cakes-power-cakes",
+      "reason": "Basta aggiungere acqua e con 14 g di proteine hai un pasto post-allenamento completo in meno di 5 minuti, senza dover dosare uova o latte."
+    },
+    {
+      "label": "Atleti agonisti che vogliono massimizzare le proteine giornaliere",
+      "offerId": "birch-benders-protein-pancake",
+      "reason": "Con 18 g di proteine in un preparato che richiede solo acqua, è il più proteico tra le opzioni senza latte e non lascia quel retrogusto gessoso che rende altri mix difficili da mangiare tutti i giorni."
+    },
+    {
+      "label": "Vegani e intolleranti ai latticini che contano i macro",
+      "offerId": "bob-red-mill-protein-pancake",
+      "reason": "Base di proteine dei piselli, certificato senza glutine e completamente vegano: è l'unico della selezione adatto a diete vegetali e con restrizioni sugli allergeni."
+    },
+    {
+      "label": "Bodybuilder e atleti da gara in fase di definizione",
+      "offerId": "carbon-fire-protein-pancake",
+      "reason": "25 g di proteine e appena 5 g di carboidrati a porzione: pensato per chi segue macro rigidi in cui tagliare i carboidrati non è negoziabile."
+    },
+    {
+      "label": "Appassionati di fitness in Giappone che vogliono evitare i rincari sull'import",
+      "offerId": "nisshin-protein-hotcake-mix",
+      "reason": "30 g di proteine a porzione al prezzo del supermercato locale: niente dazi né attese di spedizione, con un apporto proteico pari o superiore ai marchi statunitensi."
+    }
+  ]
 }

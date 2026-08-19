@@ -103,5 +103,109 @@
     "baseus-monitor-light-bar": "Baseus i-wok Series monitor light bar — alternativa economica a BenQ ScreenBar. Alimentata via USB-C, striscia di controllo touch sulla barra, design ottico asimmetrico per l'illuminazione della scrivania senza riflessi sullo schermo, montaggio a clip per profili del monitor. Disponibile presso i principali rivenditori online. La qualità costruttiva è visibilmente più leggera rispetto alla BenQ ScreenBar Halo — il meccanismo del morsetto ha meno forza di serraggio e più flessione del braccio, ed è meno sicuro sui profili del monitor più pesanti o spessi; nessuna illuminazione bias (nessuna retroilluminazione) — illuminazione solo unilaterale; nessun sensore ambientale — è necessaria la regolazione manuale della luminosità quando l'illuminazione della stanza cambia; il CRI non è specificato in modo prominente e le barre monitor economiche in questa categoria misurano regolarmente inferiori a CRI 80 alle temperature colore fredde, il che conta per i compiti creativi con accuratezza del colore; i controlli touch sulla barra richiedono un tocco preciso deliberato e sono segnalati come meno intuitivi di un controller wireless dedicato."
   },
   "pinDescription": "5 lampade da scrivania a confronto per il 2026 — barra per monitor vs lampada tradizionale spiegata. BenQ ScreenBar Halo con illuminazione bias, Dyson Solarcycle premium, Elgato Key Light per videochiamate, Baseus economico. Verità sull'affaticamento visivo, CRI per creativi, temperatura colore e sonno — debolezza esplicita su ogni scelta. L'illuminazione del home office inizia qui.",
-  "methodology": "Ogni prodotto è stato valutato in base alle specifiche documentate, ai benchmark di terze parti e alle recensioni verificate degli utenti. Abbiamo assegnato un punteggio a funzionalità, prestazioni, qualità costruttiva, compatibilità con l'ecosistema e costo totale di proprietà."
+  "methodology": "Ogni prodotto è stato valutato in base alle specifiche documentate, ai benchmark di terze parti e alle recensioni verificate degli utenti. Abbiamo assegnato un punteggio a funzionalità, prestazioni, qualità costruttiva, compatibilità con l'ecosistema e costo totale di proprietà.",
+  "products": [
+    {
+      "offerId": "benq-screenbar-halo",
+      "badge": "Scelta anti-affaticamento",
+      "grade": "A+",
+      "review": "La BenQ ScreenBar Halo è la barra luminosa da monitor più completa del confronto: unisce un'ottica asimmetrica che indirizza la luce sulla scrivania senza rifletterla sullo schermo, una striscia LED posteriore che crea illuminazione d'ambiente dietro al monitor e un sensore che regola automaticamente la luminosità per mantenere costanti i lux sul piano. Il telecomando wireless a rotella è il dettaglio pratico che fa la differenza nell'uso quotidiano: si regolano luminosità e temperatura colore da 2.700 a 6.500 K senza allungare la mano dietro allo schermo. BenQ dichiara un CRI superiore a 95, una resa cromatica sufficiente perché la lettura di documenti e i controlli cromatici non professionali restino affidabili. Si monta solo sul monitor, non esiste una base da tavolo, si alimenta via USB dall'hub dello schermo e, al suo prezzo da fascia alta, costa circa sei volte la Baseus. Per chi lavora tutto il giorno davanti allo schermo e mette l'affaticamento visivo al primo posto, resta il riferimento.",
+      "pros": [
+        "L'ottica asimmetrica illumina la scrivania senza riflessi sullo schermo",
+        "La luce posteriore riduce il contrasto tra schermo e ambiente",
+        "Telecomando wireless e sensore che regola la luminosità in automatico"
+      ],
+      "cons": [
+        "Solo montaggio su monitor: BenQ non prevede una base da tavolo",
+        "Costa circa 6 volte le barre da monitor economiche equivalenti"
+      ]
+    },
+    {
+      "offerId": "elgato-key-light",
+      "badge": "Luce per videocamera",
+      "grade": "A",
+      "review": "La Elgato Key Light è pensata per illuminare il viso davanti alla telecamera, non per lavorare sulla scrivania, e in quel ruolo è l'opzione più capace qui. Il pannello morbido da 2.500 lux copre l'intervallo 2.900–7.000 K, mentre l'app Control Center e l'integrazione con lo Stream Deck permettono di salvare preset di temperatura colore e luminosità per dirette, call con i clienti e registrazioni. La luce diffusa è abbastanza uniforme da evitare le ombre nette che creano le lampade a sorgente singola. Il morsetto richiede un bordo solido di almeno 6 cm e non funziona su vetro o piani sottili, la dipendenza dall'app riduce al minimo i comandi sulla lampada stessa e puntarsi 2.500 lux in faccia mentre si scrive è fastidioso oltre che inutile per illuminare il piano di lavoro. Per chi sta davanti alla telecamera diverse ore al giorno la Key Light si guadagna lo spazio sulla scrivania; per tutti gli altri è lo strumento sbagliato.",
+      "pros": [
+        "Pannello diffuso da 2.500 lux, 2.900–7.000 K, tarato per la ripresa",
+        "Integrazione con Stream Deck e app per richiamare i preset con un tocco",
+        "La luce diffusa evita le ombre dure delle sorgenti puntiformi"
+      ],
+      "cons": [
+        "Non è una lampada da lavoro: illumina solo frontalmente il viso",
+        "Serve un bordo scrivania robusto oltre i 6 cm e l'app Elgato per il controllo completo"
+      ]
+    },
+    {
+      "offerId": "dyson-solarcycle-morph",
+      "badge": "Top di gamma tuttofare",
+      "grade": "A",
+      "review": "La Dyson Solarcycle Morph è la lampada fisicamente più versatile del gruppo: ruotando il braccio lungo la sua corsa si passa tra luce da lavoro, d'ambiente, indiretta e d'accento. Dyson dichiara 150.000 ore di vita del LED grazie a un sistema di raffreddamento a heat pipe, CRI 98 e copertura 2.700–6.500 K, oltre a un algoritmo che personalizza il ciclo giornaliero in base all'età e all'orario impostati nell'app Dyson Link. L'articolazione la rende una soluzione credibile come lampada unica in una postazione che ha bisogno sia di luce concentrata sul piano sia di una luce indiretta più morbida riflessa sulla parete. Al suo prezzo da ammiraglia costa circa il triplo della seconda più cara qui, l'algoritmo e l'inserimento dell'età sono una complicazione di cui la maggior parte delle persone non ha alcun bisogno e la base pesante scoraggia gli spostamenti frequenti. Ingegnerizzata sul serio, e cara sul serio.",
+      "pros": [
+        "Luce da lavoro, d'ambiente, indiretta e d'accento in un unico braccio",
+        "CRI 98 dichiarato da Dyson e copertura 2.700–6.500 K",
+        "Raffreddamento a heat pipe con 150.000 ore di vita LED dichiarate"
+      ],
+      "cons": [
+        "Costa circa 3 volte la seconda lampada più cara del confronto",
+        "La base pesante rende scomodo riposizionarla spesso"
+      ]
+    },
+    {
+      "offerId": "panasonic-led-desk-lamp-wireless",
+      "badge": "Base con ricarica",
+      "grade": "B+",
+      "review": "La lampada da scrivania LED TaoTronics tiene in ordine una postazione compatta, perché affianca alla luce da lavoro una base con ricarica wireless Qi integrata e una porta USB-A. Il caricatore incorporato significa un accessorio in meno sul piano e un cavo in meno verso la presa: su una scrivania piccola da home office è un vantaggio concreto. Offre diverse modalità di colore e livelli di luminosità tramite i comandi a sfioramento sulla base. La ricarica Qi è lenta, quindi va bene per mantenere la carica più che come caricabatterie principale, e non c'è né app né integrazione con la domotica. La costruzione è in plastica anziché in metallo e l'estetica è utilitaristica, ma è onesta su ciò che è.",
+      "pros": [
+        "La ricarica Qi integrata elimina un cavo dalla scrivania",
+        "Porta USB-A e diverse modalità di colore selezionabili a sfioramento",
+        "Ingombro contenuto, adatto alle scrivanie piccole"
+      ],
+      "cons": [
+        "La ricarica Qi è lenta: va bene per mantenere la carica, non come caricatore principale",
+        "Costruzione in plastica e nessun valore di CRI dichiarato per i lavori cromaticamente critici"
+      ]
+    },
+    {
+      "offerId": "baseus-monitor-light-bar",
+      "badge": "Barra da monitor economica",
+      "grade": "B+",
+      "review": "La Baseus i-wok fa ciò che ci si aspetta da una barra da monitor — illuminare la scrivania senza riflessi sullo schermo grazie a un'ottica asimmetrica — a un prezzo contenuto, ed è questa la ragione principale per prenderla in considerazione. L'alimentazione USB-C riduce il numero di cavi e una striscia touch sulla barra gestisce luminosità e temperatura colore. La qualità costruttiva è visibilmente inferiore a quella della ScreenBar Halo, il meccanismo a clip stringe molto meno sulle cornici spesse e il braccio flette. Mancano la luce posteriore d'ambiente e il sensore per la regolazione automatica, e il CRI non è dichiarato in modo evidente: di solito significa 80 o meno alle temperature fredde. Per chi vuole provare l'illuminazione a barra prima di investire, o ha bisogno solo di eliminare i riflessi sul piano, la i-wok è il punto d'ingresso giusto.",
+      "pros": [
+        "L'ottica asimmetrica offre la funzione essenziale di una barra da monitor a basso costo",
+        "Alimentazione USB-C con un solo cavo verso l'hub del monitor",
+        "Striscia touch per luminosità e temperatura colore"
+      ],
+      "cons": [
+        "Niente luce posteriore d'ambiente né sensore di luminosità",
+        "Costruzione e forza della clip visibilmente inferiori alla BenQ Halo"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Chi lavora davanti allo schermo e vuole affaticare meno la vista",
+      "offerId": "benq-screenbar-halo",
+      "reason": "L'ottica asimmetrica, la luce posteriore d'ambiente e la regolazione automatica affrontano le cause legate al contrasto dell'affaticamento visivo meglio di qualsiasi altra lampada qui."
+    },
+    {
+      "label": "Streamer e professionisti che stanno davanti alla telecamera",
+      "offerId": "elgato-key-light",
+      "reason": "Il pannello diffuso da 2.500 lux con controllo da app e Stream Deck illumina il viso a un livello che nessuna lampada da lavoro di questo confronto raggiunge."
+    },
+    {
+      "label": "Home office che vogliono una sola lampada per luce da lavoro e d'ambiente",
+      "offerId": "dyson-solarcycle-morph",
+      "reason": "Modalità da lavoro, d'ambiente, indiretta e d'accento in un unico braccio più il CRI 98 la rendono la lampada più versatile qui per chi non vuole un secondo corpo illuminante."
+    },
+    {
+      "label": "Scrivanie compatte che hanno bisogno della ricarica integrata",
+      "offerId": "panasonic-led-desk-lamp-wireless",
+      "reason": "La base con ricarica Qi e porta USB-A elimina un caricabatterie separato e riduce i cavi sulle superfici piccole da home office."
+    },
+    {
+      "label": "Chi compra la prima barra da monitor con un budget ridotto",
+      "offerId": "baseus-monitor-light-bar",
+      "reason": "Offre l'illuminazione senza riflessi a una frazione del prezzo della BenQ: ideale per capire se una barra da monitor si adatta al proprio modo di lavorare prima di spendere di più."
+    }
+  ]
 }
