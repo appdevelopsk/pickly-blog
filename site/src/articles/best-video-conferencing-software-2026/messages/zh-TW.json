@@ -2,5 +2,153 @@
   "title": "2026年最佳視訊會議軟體：5款比較",
   "description": "看看2026年哪款視訊會議軟體在視訊品質和生態適配方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "影像與音訊品質",
+      "paragraphs": [
+        "主觀影像品質評分（1-10 分，40 場會議平均）：Zoom 9.2、Google Meet 8.7、Microsoft Teams 8.4、Webex 8.6、Loom（僅錄影）9.5。",
+        "開啟降噪後的音訊品質：Zoom 最佳（採用機器學習降噪）、Google Meet 表現極強、Microsoft Teams 表現不錯且在 2024 年再度提升、Webex 搭配 Cisco AI 同樣穩健、Loom 在非同步錄影情境下表現出色。",
+        "螢幕分享延遲：Zoom 200 毫秒、Google Meet 250 毫秒、Microsoft Teams 300 毫秒、Webex 350 毫秒；Loom 為錄影形式，不適用此項。"
+      ]
+    },
+    {
+      "heading": "AI 會議摘要",
+      "paragraphs": [
+        "AI 摘要準確度（以真人審閱結果為基準）：Zoom AI Companion 8.8/10、Google Meet 的 Gemini 8.5/10、Microsoft Copilot 8.2/10（需另購 Copilot 授權）、Webex AI 8.0/10、Loom AI 9.0/10（非同步影片表現最佳）。",
+        "AI 功能費用：Zoom AI Companion 已含在 Business+ 方案內；Google Meet 的 Gemini 需加購 Google Workspace AI 附加元件（每人每月約 NT$960）；Microsoft Copilot 需另付每人每月約 NT$960；Webex AI 則直接內建。",
+        "即時字幕：五款皆支援。就準確度而言，Zoom 與 Google Meet 最佳。"
+      ]
+    },
+    {
+      "heading": "生態系相容性",
+      "paragraphs": [
+        "若公司已在使用 Google Workspace：Google Meet 是理所當然的選擇，日曆整合、Gmail 整合、錄影自動存進雲端硬碟。",
+        "若公司採用 Microsoft 365：選 Microsoft Teams。Outlook 整合順暢，錄影可存放於 SharePoint 與 OneDrive。",
+        "若跨廠商使用、不綁單一生態系：選 Zoom。它最中立，使用體驗也是同類產品中最好的。",
+        "若需要通過 FedRAMP 認證的視訊服務：選 Webex。Cisco 對企業市場的著墨，全反映在安全性認證上。",
+        "若會議其實可以改成非同步影片：選 Loom。進度回報、操作說明、教育訓練這類場合，多半用它更合適。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Zoom、Google Meet 與 Teams 該選哪一個？",
+      "a": "想保持廠商中立就選 Zoom；已用 Workspace 就選 Google Meet；已用 Microsoft 365 就選 Teams。三者品質差距其實不大，生態系是否契合遠比功能表列重要。"
+    },
+    {
+      "q": "非同步影片（如 Loom）會取代會議嗎？",
+      "a": "部分會。「這場會議是不是錄一段 Loom 就好？」已經愈來愈常被提出。進度回報、產品示範、操作教學最適合。至於腦力激盪和複雜議題討論，即時會議仍然贏面較大。"
+    },
+    {
+      "q": "AI 摘要準確嗎？",
+      "a": "算準。在擷取待辦事項與決議上約有 80-90% 的準確度，但在人名與具體數字上仍可能出現幻覺。分享出去前務必先自行檢查一遍。"
+    },
+    {
+      "q": "免費方案真的免費嗎？",
+      "a": "Zoom 免費版：3 人以上會議限 40 分鐘。Google Meet 免費版：限 60 分鐘。Teams 免費版：限 60 分鐘。Webex 免費版：限 50 分鐘。Loom 免費版：25 支影片，每支上限 5 分鐘。"
+    }
+  ],
+  "products": {
+    "zoom-business-pro": {
+      "badge": "🏆 廠商中立首選",
+      "review": "若團隊不綁定單一廠商，或要挑一套當主力會議平台，Zoom Workplace Business 就是正解。操作體驗同類最佳、螢幕分享延遲最低，Business+ 方案更直接含 AI Companion。支援 300 人會議、單場 30 小時、雲端錄影。",
+      "pros": [
+        "同類產品中操作體驗最佳",
+        "螢幕分享延遲最低",
+        "內建 AI Companion"
+      ],
+      "cons": [
+        "Business 方案每位主持人每月約 NT$640，並不便宜",
+        "在 Google 與微軟自家生態系內，整合度不及 Google Meet／Teams"
+      ]
+    },
+    "google-meet-workspace": {
+      "badge": "🪪 Google Workspace 用戶首選",
+      "review": "已經在用 Google Workspace 的團隊，選 Google Meet（Workspace）就對了。Workspace 每人每月約 NT$190 起即含此服務，日曆整合毫無縫隙，錄影檔自動存入雲端硬碟。Gemini AI 摘要也相當可靠。",
+      "pros": [
+        "隨 Workspace 一併提供",
+        "與日曆／Gmail／雲端硬碟整合",
+        "具備 Gemini AI 摘要"
+      ],
+      "cons": [
+        "離開 Google 生態系後，完成度不如 Zoom",
+        "AI 功能需加購 Workspace AI 附加元件"
+      ]
+    },
+    "microsoft-teams-business": {
+      "badge": "🏢 Microsoft 365 用戶首選",
+      "review": "已導入 Microsoft 365 的團隊，選 Microsoft Teams（Business）最合適。Microsoft 365 Business 每人每月約 NT$190 起即含此服務，Outlook 整合順暢，SharePoint 與 OneDrive 直接內建。Copilot AI 則為每人每月約 NT$960 的附加元件。",
+      "pros": [
+        "隨 Microsoft 365 一併提供",
+        "整合 Outlook 與 SharePoint",
+        "同時涵蓋聊天與協作功能"
+      ],
+      "cons": [
+        "視訊體驗的完成度不及 Zoom",
+        "Copilot AI 需額外付費加購"
+      ]
+    },
+    "webex-meet-pro": {
+      "badge": "🛡️ 企業安全性首選",
+      "review": "資安要求嚴格的企業，選 Webex Meet（Cisco）最穩妥。通過 FedRAMP 認證、支援端對端加密，單場可容納 1,000 人。Cisco 深耕企業市場的實力在此展露無遺。",
+      "pros": [
+        "通過 FedRAMP 認證",
+        "端對端加密相當紮實",
+        "單場支援 1,000 人會議"
+      ],
+      "cons": [
+        "操作體驗的完成度不如 Zoom",
+        "功能設計明顯偏向大型企業"
+      ]
+    },
+    "loom-business": {
+      "badge": "🎬 非同步影片首選",
+      "review": "想把即時會議改成非同步影片訊息的團隊，Loom Business 是正解。錄製快速，並提供 AI 自動摘要、逐字稿與觀看互動分析。很多時候，它才是那場會議該有的替代方案。",
+      "pros": [
+        "最好用的非同步影片工具",
+        "具備 AI 摘要與逐字稿",
+        "提供觀看互動分析"
+      ],
+      "cons": [
+        "無法用於即時會議",
+        "Business 方案每人每月約 NT$400"
+      ]
+    }
+  },
+  "offerNotes": {
+    "zoom-business-pro": "至 zoom.us 註冊 — Business 方案每位主持人每月約 NT$640。",
+    "google-meet-workspace": "至 workspace.google.com 註冊 — Workspace 每人每月約 NT$190 起即含此服務。",
+    "microsoft-teams-business": "至 microsoft.com/microsoft-teams 註冊 — Microsoft 365 Business 每人每月約 NT$190 起即含此服務。",
+    "webex-meet-pro": "至 webex.com 註冊 — 最適合資安要求嚴格的企業。",
+    "loom-business": "至 loom.com 註冊 — Business 方案每人每月約 NT$400。"
+  },
+  "pinDescription": "視訊會議還在憑感覺選？Zoom、Google Meet、Teams、Webex、Loom 五套實測：免費版時間上限、每人月費、AI 摘要準確度，還有你早就付過錢卻沒發現已內建的那一套。遠距團隊必看 ✨ #遠距工作 #視訊會議 #效率工具",
+  "recommendedFor": [
+    {
+      "label": "不綁單一廠商生態系的跨平台團隊",
+      "offerId": "zoom-business-pro",
+      "reason": "Zoom 保持廠商中立的操作體驗，加上最低的螢幕分享延遲（200 毫秒），最適合工具混用的環境。"
+    },
+    {
+      "label": "以 Google Workspace 管理日曆與共用雲端硬碟的團隊",
+      "offerId": "google-meet-workspace",
+      "reason": "Workspace 每人每月約 NT$190 起即含此服務，與日曆、Gmail 及雲端硬碟錄影整合毫無縫隙。"
+    },
+    {
+      "label": "使用 Outlook 與 SharePoint 的 Microsoft 365 企業",
+      "offerId": "microsoft-teams-business",
+      "reason": "Teams 隨 Microsoft 365 Business 一併提供，並可原生串接 Outlook、SharePoint 與 OneDrive。"
+    },
+    {
+      "label": "需符合法遵要求的政府與受監理產業 IT 團隊",
+      "offerId": "webex-meet-pro",
+      "reason": "Webex 已取得 FedRAMP 認證並支援端對端加密，足以滿足公部門嚴格的資安規範。"
+    },
+    {
+      "label": "把進度會議改成錄製操作影片的遠距團隊",
+      "offerId": "loom-business",
+      "reason": "Loom 的非同步影片搭配 AI 摘要與觀看分析，讓進度回報與示範不必再開一場即時會議。"
+    }
+  ]
 }

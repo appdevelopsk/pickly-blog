@@ -2,5 +2,151 @@
   "title": "2026年最佳失能保險：5款比較",
   "description": "看看2026年哪款失能保險在自身職業定義和保費方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "本職業定義：最關鍵的分野",
+      "paragraphs": [
+        "真正的本職業定義（True own-occupation）：只要你無法從事「你原本的那份工作」就理賠，即使你還能做別的工作也照樣給付。外科醫師若無法再執刀，就算還能看診諮詢，仍可領取全額給付。",
+        "修正型本職業定義（Modified own-occupation）：必須是「任何符合你學經歷的工作」都無法勝任才理賠。對高所得專業人士而言，保障力道弱得多。",
+        "採真正本職業定義的保險公司：Guardian、Principal、MassMutual。採修正型的多為價格較低的線上業者（Breeze 預設即為修正型，真正本職業定義需另行加購升級）。"
+      ]
+    },
+    {
+      "heading": "實際月保費",
+      "paragraphs": [
+        "35 歲心臟科醫師，月給付 NT$60 萬（US$20,000）、90 天免責期、保障至 65 歲：Guardian 約 NT$14,400、Principal 約 NT$13,800、MassMutual 約 NT$14,250、Breeze（修正型）約 NT$9,300、Policygenius（最低價）約 NT$13,200。",
+        "35 歲軟體工程師，月給付 NT$24 萬（US$8,000）、條件相同：Guardian 約 NT$4,350、Principal 約 NT$4,050、MassMutual 約 NT$4,200、Breeze 約 NT$2,850、Policygenius 約 NT$3,750。修正型與真正本職業定義的價差約 25–50%。",
+        "附約月費：生活成本調整（COLA）加 NT$900–1,800、未來增額選擇權加 NT$450–900、重度殘廢附約加 NT$600–1,200。"
+      ]
+    },
+    {
+      "heading": "何時該投保",
+      "paragraphs": [
+        "最佳時機是 20–30 多歲身體健康時。保費依投保當下的健康狀況鎖定，一旦確診再想投保失能險，幾乎不可能過件。",
+        "團體長期失能險（LTD）與個人保單的差異：雇主團險通常只給付本薪的 60%（不含獎金），上限落在月給付 NT$30–45 萬，且採修正型本職業定義。個人保單正是用來補上這段缺口。",
+        "高所得專業人士（醫師、律師、工程師）務必自行投保個人失能險。單靠團體 LTD，會留下相當大一塊未受保障的收入。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "給付金額該抓多少？",
+      "a": "以稅後收入的 60–70% 為目標。保險公司的上限通常是稅前收入的 60%，那就是實務上的天花板。"
+    },
+    {
+      "q": "為了省錢選修正型本職業定義，划算嗎？",
+      "a": "一般辦公室工作者：或許可以。專科醫師、牙醫等：不建議。失能險的核心價值就是保住你的專業收入，修正型定義正好削弱了這一點。"
+    },
+    {
+      "q": "短期險與長期險該選哪個？",
+      "a": "長期失能險（保障數月至數年）優先。短期險（數日至數週）雖然好用，但這段空窗多半用緊急預備金就能撐過。"
+    },
+    {
+      "q": "為什麼職業別會影響保費？",
+      "a": "高風險職業（外科醫師、高度仰賴視力的牙醫）保費較高，但本職業定義的條款也寫得更強。辦公室工作者保費低，相對地本職業保障的差異化程度也較低。"
+    }
+  ],
+  "products": {
+    "guardian-individual-disability": {
+      "badge": "🏆 專業人士首選",
+      "review": "高所得專業人士選 Guardian Individual Disability Income 準沒錯。真正的本職業定義，且保單不可解約。保費偏高，反映的是市場上最強的條款文字。",
+      "pros": [
+        "採真正的本職業定義",
+        "保單不可解約",
+        "附約選項齊全"
+      ],
+      "cons": [
+        "保費偏高",
+        "核保嚴格"
+      ]
+    },
+    "principal-individual-disability": {
+      "badge": "🥇 醫療專業人員首選",
+      "review": "醫師、牙醫、律師選 Principal Individual Disability 準沒錯。真正的本職業定義，專科條款寫得扎實，對醫科與牙科案件的核保與定價都相當積極。",
+      "pros": [
+        "專科族群條款強勢",
+        "醫科／牙科定價積極",
+        "附約選擇多"
+      ],
+      "cons": [
+        "核心族群以外核保較緊",
+        "非醫療職種彈性較低"
+      ]
+    },
+    "mass-mutual-radius-disability": {
+      "badge": "🤝 最佳相互保險公司",
+      "review": "重視相互保險公司體制的人選 MassMutual Radius Choice Disability 準沒錯。保戶可分享紅利；本職業定義條款扎實，但在醫療族群上不如 Principal 積極。",
+      "pros": [
+        "相互公司體制（有紅利機會）",
+        "本職業定義條款扎實",
+        "財務評等優異"
+      ],
+      "cons": [
+        "專科族群條件不如 Principal 積極",
+        "核保決定比 Guardian 慢"
+      ]
+    },
+    "breeze-simplified-disability": {
+      "badge": "💻 最佳數位投保體驗",
+      "review": "想線上快速投保、多數情況免體檢的人選 Breeze Simplified Disability 準沒錯。月保費約 NT$1,500–4,500。預設為修正型本職業定義，真正本職業定義需加購升級。",
+      "pros": [
+        "多數情況免體檢",
+        "線上投保快速",
+        "保費較低"
+      ],
+      "cons": [
+        "預設為修正型本職業定義",
+        "保額上限低於 Guardian"
+      ]
+    },
+    "policygenius-disability-marketplace": {
+      "badge": "🛒 最適合比價",
+      "review": "想一次比較多家保險公司（Guardian、Principal、MassMutual、Mutual of Omaha 等）選 Policygenius Disability Marketplace 準沒錯。一份申請書比到底，往往能找到絕對最低價。核保約需 2–4 週。",
+      "pros": [
+        "一次比較 5 家以上保險公司",
+        "常能找到最低報價",
+        "獨立中立的建議"
+      ],
+      "cons": [
+        "核保需 2–4 週",
+        "並非所有保險公司都在平台上"
+      ]
+    }
+  },
+  "offerNotes": {
+    "guardian-individual-disability": "透過 Guardian 業務顧問取得報價。Provider Plus 為旗艦商品。",
+    "principal-individual-disability": "於 principal.com 取得報價。HH 700 為旗艦商品。",
+    "mass-mutual-radius-disability": "透過 MassMutual 業務顧問取得報價。Radius Choice 為標準商品。",
+    "breeze-simplified-disability": "於 meetbreeze.com 取得報價，線上流程最快。",
+    "policygenius-disability-marketplace": "於 policygenius.com 取得報價，由平台代為比價。"
+  },
+  "pinDescription": "生病或受傷不能工作，收入就斷了嗎？2026 失能險比較：Guardian、Principal、MassMutual、Breeze、Policygenius，一次看懂「本職業定義」的關鍵差異，別再買錯保單。",
+  "recommendedFor": [
+    {
+      "label": "保障手術收入的外科醫師與專科醫師",
+      "offerId": "principal-individual-disability",
+      "reason": "Principal 針對專科設計的真正本職業定義條款，只要你無法執行原本的術式就給付全額，即使你還能繼續看診諮詢。"
+    },
+    {
+      "label": "高所得律師與事務所合夥人",
+      "offerId": "guardian-individual-disability",
+      "reason": "Guardian 的不可解約保單鎖定費率與真正本職業定義保障，守住律師承擔不起沒有保障的高額收入。"
+    },
+    {
+      "label": "自營工作者與獨立接案者",
+      "offerId": "breeze-simplified-disability",
+      "reason": "Breeze 免體檢、線上投保加上較低保費，是沒有雇主團體失能險的人最快取得收入保障的途徑。"
+    },
+    {
+      "label": "第一次投保、還不確定該選哪家的人",
+      "offerId": "policygenius-disability-marketplace",
+      "reason": "Policygenius 一份申請書就能比較 5 家以上保險公司，讓你把 Guardian、Principal、MassMutual 的報價並排檢視，找出最合適的一張。"
+    },
+    {
+      "label": "著眼長期、想要分享紅利的收入者",
+      "offerId": "mass-mutual-radius-disability",
+      "reason": "MassMutual 的相互保險公司體制會將紅利回饋給保戶，在扎實的本職業定義保障之外，多了一份長期財務參與的價值。"
+    }
+  ]
 }

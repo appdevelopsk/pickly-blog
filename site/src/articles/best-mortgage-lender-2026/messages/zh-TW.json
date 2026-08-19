@@ -2,5 +2,148 @@
   "title": "2026年最佳抵押貸款機構：5款比較",
   "description": "看看2026年哪款抵押貸款機構在利率、費用和處理速度方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "利率與貸款機構費用比較",
+      "paragraphs": [
+        "在條件完全相同的申請人身上，各家貸款機構的利率差距僅約 0.125%，真正拉開差距的是各項手續費。",
+        "Better Mortgage：不收貸款機構費用（官方標示）。可在成交時省下約 NT$32,000～NT$96,000。",
+        "Rocket Mortgage：開辦費約 NT$38,000，並附帶利率鎖定保證。",
+        "Ally Bank：部分產品開辦費為 0，其餘約 NT$32,000。",
+        "Chase：開辦費 NT$32,000～NT$58,000。既有 Chase 客戶可享關係優惠。",
+        "Navy Federal：VA 貸款開辦費為 0，主打軍人與退伍軍人族群。"
+      ]
+    },
+    {
+      "heading": "各種需求的最佳選擇",
+      "paragraphs": [
+        "數位流程首選：Rocket Mortgage。線上作業最快，產品線齊全。",
+        "熟悉數位工具的申貸人首選：Better Mortgage。零貸款機構費用，全程線上。",
+        "轉貸首選：Ally Bank。利率具競爭力，轉貸方案完整。",
+        "傳統銀行首選：Chase。可臨櫃辦理，並有關係優惠。",
+        "軍人家庭首選：Navy Federal Credit Union。專精 VA 貸款，並提供免 PMI 選項。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "應該同時向多家機構申請預先核准嗎？",
+      "a": "應該。預先核准屬於「軟性查詢」，不會明顯影響信用分數。在同一天比較 3～5 家機構，可把信用分數的影響降到最低，同時取得最大的議價空間。"
+    },
+    {
+      "q": "標榜「零貸款機構費用」的方案真的比較便宜嗎？",
+      "a": "通常是的。Better 的零費用模式確實能在成交時省下約 NT$32,000～NT$96,000。但務必確認利率同樣具競爭力，部分零費用業者會以略高的利率來彌補。"
+    },
+    {
+      "q": "各家機構的房貸審核速度差多少？",
+      "a": "Rocket 與 Better 一般為 30～45 天；傳統銀行（如 Chase）約 45～60 天；Navy Federal 約 30～45 天。該選哪一家，取決於你的預定交屋日。"
+    },
+    {
+      "q": "我該辦轉貸嗎？",
+      "a": "若利率能降低 0.75～1%，且你打算再住滿 3 年以上，轉貸就值得考慮。請以成交費用與每月節省金額計算回本時間。"
+    }
+  ],
+  "products": {
+    "rocket-mortgage": {
+      "badge": "🏆 數位流程首選",
+      "review": "如果你想要最快的數位申貸流程，Rocket Mortgage 是正確選擇。線上優先的放款模式、快速預先核准、產品線齊全（傳統型、FHA、VA、大額貸款）。行動 App 讓文件上傳與進度追蹤都相當順手。審核期一般為 30～45 天。",
+      "pros": [
+        "線上流程最快",
+        "產品線齊全",
+        "行動 App 可追蹤進度"
+      ],
+      "cons": [
+        "開辦費約 NT$38,000",
+        "會積極推銷 Rocket 其他產品"
+      ]
+    },
+    "better-mortgage": {
+      "badge": "💸 零費用首選",
+      "review": "如果你熟悉數位工具、又不想付貸款機構費用，Better Mortgage 是正確選擇。全程線上、利率具競爭力，且標榜不收開辦費與貸款機構費用。相較傳統業者，成交時可省下約 NT$32,000～NT$96,000。核貸標準偏嚴，Better 挑客戶。",
+      "pros": [
+        "不收貸款機構費用",
+        "全程線上作業",
+        "利率具競爭力"
+      ],
+      "cons": [
+        "核貸標準嚴格",
+        "客服體驗較不細緻"
+      ]
+    },
+    "ally-mortgage": {
+      "badge": "🏦 轉貸首選",
+      "review": "要辦轉貸，Ally Bank Mortgage 是正確選擇。純網銀體質、利率具競爭力，轉貸產品線扎實。若你已有 Ally 帳戶，還能整合運用。最適合正在比較各家線上業者的轉貸族。",
+      "pros": [
+        "利率具競爭力",
+        "轉貸方案扎實",
+        "可與 Ally Bank 帳戶整合"
+      ],
+      "cons": [
+        "沒有實體分行",
+        "產品種類不如 Rocket 多"
+      ]
+    },
+    "chase-mortgage": {
+      "badge": "🏛️ 傳統銀行首選",
+      "review": "如果你重視面對面服務，Chase Mortgage 是正確選擇。大型銀行、超過 4,700 家分行，若你是 Chase Private Client（Chase Total Checking＋資產餘額＋證券帳戶）還可享關係優惠。速度不如數位業者，但服務更貼身。",
+      "pros": [
+        "可臨櫃辦理",
+        "Chase Private Client 關係優惠",
+        "大型銀行體質穩健"
+      ],
+      "cons": [
+        "審核速度較慢",
+        "平均費用偏高"
+      ]
+    },
+    "navy-federal-mortgage": {
+      "badge": "🪖 軍人家庭首選",
+      "review": "軍人家庭首選 Navy Federal Credit Union。僅限軍人與退伍軍人，專精 VA 貸款，低頭期款也有免 PMI 選項。其 VA 貸款利率通常低於市場行情 0.10～0.25%。",
+      "pros": [
+        "軍人／退伍軍人專屬資格",
+        "提供免 PMI 選項",
+        "專精 VA 貸款"
+      ],
+      "cons": [
+        "資格限制嚴格",
+        "非 VA 房貸產品有限"
+      ]
+    }
+  },
+  "offerNotes": {
+    "rocket-mortgage": "可至 rocketmortgage.com 或行動 App 申請。線上預先核准約需 5～15 分鐘。",
+    "better-mortgage": "可至 better.com 申請。「零貸款機構費用」適用於多數貸款產品，請以你實際取得的報價為準。",
+    "ally-mortgage": "可至 ally.com 申請。Ally 的儲蓄與支票帳戶可整合，享有關係優惠。",
+    "chase-mortgage": "可至 chase.com 或臨櫃申請。Chase Private Client 等級（Total Checking＋資產 25 萬美元以上）可獲利率折扣。",
+    "navy-federal-mortgage": "可至 navyfederal.org 申請。入會資格需具軍職關聯（現役、退役、眷屬或國防部文職人員）。"
+  },
+  "pinDescription": "2026 房貸怎麼挑？Rocket、Better、Ally、Chase、Navy Federal 五家一次比：買房、轉貸、VA 貸款各有最佳解，先看費用再看利率。",
+  "recommendedFor": [
+    {
+      "label": "想快速取得線上預先核准的首購族",
+      "offerId": "rocket-mortgage",
+      "reason": "Rocket 的行動 App 與 5～15 分鐘預先核准流程，能大幅降低首次購屋的心理門檻，且 FHA 與傳統型方案選擇齊全。"
+    },
+    {
+      "label": "想壓低成交當日支出的精打細算族",
+      "offerId": "better-mortgage",
+      "reason": "Better 不收開辦費，相較傳統業者可在成交時省下約 NT$32,000～NT$96,000，且核貸流程全程線上完成。"
+    },
+    {
+      "label": "打算辦理房貸轉貸的既有屋主",
+      "offerId": "ally-mortgage",
+      "reason": "Ally 的轉貸產品線扎實、利率具競爭力，無論是調整利率年限或增貸套現，都是首選。"
+    },
+    {
+      "label": "已有 Chase 帳戶的高資產申貸人",
+      "offerId": "chase-mortgage",
+      "reason": "Chase Private Client 的關係優惠與實體分行服務，特別回饋在 Chase 已存放 25 萬美元以上資產的客戶。"
+    },
+    {
+      "label": "準備購屋的現役軍人與退伍軍人",
+      "offerId": "navy-federal-mortgage",
+      "reason": "Navy Federal 專精 VA 貸款，利率低於市場行情 0.10～0.25% 且免收 PMI，僅限符合資格的軍人家庭。"
+    }
+  ]
 }

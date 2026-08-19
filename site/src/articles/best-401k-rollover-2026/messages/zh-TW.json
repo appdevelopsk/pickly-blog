@@ -2,5 +2,153 @@
   "title": "2026年最佳401(k)滾存IRA：5款比較",
   "description": "看看2026年哪款401(k)滾存IRA在滾存流程和長期總成本方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "轉存流程的繁瑣程度",
+      "paragraphs": [
+        "Fidelity、Schwab 與 Vanguard 對多數 401(k) 帳戶提供全線上轉存申請：填寫線上表單、電子簽名，後續與原 401(k) 管理機構的書面往來由他們代為處理。一般 7 至 14 天可完成。",
+        "E*TRADE 與 Merrill Edge 則需要較多人工往返，通常得列印 2 至 3 頁紙本表單，郵寄給原 401(k) 管理機構。完成時間約 14 至 30 天。",
+        "只要操作正確，這屬於「直接轉存」（機構對機構，不課稅）。「間接轉存」（支票開立給本人）會先預扣 20%，且須在 60 天內存回，非必要請避免。"
+      ]
+    },
+    {
+      "heading": "轉入獎金比較",
+      "paragraphs": [
+        "以 20 萬美元（約 NT$650 萬）的轉存金額計算，2026 年目前的獎金為：Fidelity 0 元（幾乎不提供轉入獎金，但交易免手續費）、Schwab 100 至 300 美元（依檔期而異）、Vanguard 0 元（不給獎金，但基礎費用最低）、E*TRADE 500 至 600 美元、Merrill Edge 600 美元（最高，須有 Bank of America 帳戶）。",
+        "Merrill Edge 的 600 美元獎金換算成一次性報酬率為 0.30%，第一年看得出差別，但攤在 20 至 30 年的持有期間就微不足道。別只為了獎金做決定。"
+      ]
+    },
+    {
+      "heading": "各種需求的最佳選擇",
+      "paragraphs": [
+        "綜合最佳：Fidelity Rollover IRA。零手續費、3,400 檔以上免交易費共同基金，旗艦美股全市場基金 FZROX 的內扣費用率為 0.00%。",
+        "指數投資人首選：Vanguard Rollover IRA。ETF 內扣費用率全業界最低（VTI 0.03%、VXUS 0.07%），指數化投資的開創者。選 Vanguard 的理由純粹是成本——20 萬美元指數投資 30 年，費用率低 0.01% 就等於多留下約 1,200 美元。",
+        "積極交易者首選：E*TRADE Rollover IRA。平台功能扎實，Power E*TRADE 提供進階線圖，另有 500 至 600 美元轉入獎金。",
+        "BofA 客戶首選：Merrill Edge Rollover IRA。600 美元轉入獎金，若同時使用 Bank of America 銀行帳戶還可享 Preferred Rewards 優惠（更多類別免交易費）。",
+        "銀行整合首選：Schwab Rollover IRA。支票、儲蓄與券商帳戶整合，機器人理財服務（Intelligent Portfolios）免收顧問費。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "401(k) 該轉出還是留在原處？",
+      "a": "以下情況建議轉出：想要更豐富的基金選擇、想整併帳戶，或原 401(k) 的管理費偏高。以下情況建議保留：原 401(k) 內含機構級基金，內扣費用率比零售級更低。"
+    },
+    {
+      "q": "401(k) 轉存要繳稅嗎？",
+      "a": "採直接轉存（機構對機構）就不用。稅前 401(k) 轉入 Traditional IRA 免稅；稅前 401(k) 轉入 Roth IRA 屬於「轉換」，當年度須就轉換金額繳納所得稅。"
+    },
+    {
+      "q": "該不該做 Roth 轉換？",
+      "a": "視情況而定，關鍵在於現在與退休後的稅率級距比較。若目前稅率低於預期的退休後稅率，轉換划算；若正處於收入高峰期，通常維持傳統轉存（不轉換）較好。"
+    },
+    {
+      "q": "轉存可以自己辦，還是需要理財顧問？",
+      "a": "單純的直接轉存自己就能完成。以下情況建議找顧問：要做部分 Roth 轉換、401(k) 內含已大幅增值的雇主股票（涉及 NUA 策略），或帳戶型態較為特殊。"
+    }
+  ],
+  "products": {
+    "fidelity-rollover-ira": {
+      "badge": "🏆 綜合最佳",
+      "review": "對多數人來說，Fidelity Rollover IRA 是最合適的選擇。無最低開戶門檻、零交易手續費、3,400 檔以上免交易費共同基金，其中旗艦的 FZROX（美股全市場）內扣費用率 0.00%，是本次比較中唯一真正零成本的基金。客服水準優異（24 小時電話服務、主要城市設有實體分行），線上轉存申請流程順暢，平台從基本到進階需求都能兼顧。",
+      "pros": [
+        "FZROX 內扣費用率 0.00%",
+        "無最低門檻、零交易手續費",
+        "24 小時電話客服＋主要城市實體分行"
+      ],
+      "cons": [
+        "幾乎不提供轉入獎金",
+        "Active Trader Pro 平台的完成度不如 ThinkOrSwim"
+      ]
+    },
+    "schwab-rollover-ira": {
+      "badge": "🏦 銀行整合首選",
+      "review": "若你想要銀行與券商整合，Schwab Rollover IRA 是最合適的選擇。無最低門檻、零交易手續費，Schwab Bank 支票帳戶免收海外交易手續費，且全球 ATM 提款免費。Schwab Intelligent Portfolios 機器人理財不收顧問費（其獲利來自現金部位的利差）。轉入獎金通常為 100 至 300 美元。Schwab 已於 2023 年併購 TD Ameritrade，ThinkOrSwim 平台現隸屬 Schwab。",
+      "pros": [
+        "無最低門檻、零交易手續費",
+        "透過 Schwab Bank 支票帳戶全球 ATM 免費提款",
+        "Intelligent Portfolios 機器人理財免顧問費"
+      ],
+      "cons": [
+        "Intelligent Portfolios 現金配置偏高，拖累報酬",
+        "ETF 內扣費用率的優勢不如 Vanguard"
+      ]
+    },
+    "vanguard-rollover-ira": {
+      "badge": "💸 指數投資人首選",
+      "review": "若你的部位有七成以上是指數 ETF、且很少交易，Vanguard Rollover IRA 是最合適的選擇。ETF 內扣費用率全業界最低——VTI 0.03%、VXUS 0.07%、BND 0.03%。創辦人 John Bogle 在 1976 年推出了全球第一檔面向散戶的指數基金。介面偏老舊（網站仍是 2010 年代的味道），也不適合積極交易。但對長期買進持有的指數投資人而言，30 年累積下來的成本差距很可觀——20 萬美元的投資組合可省下 1,200 美元以上。",
+      "pros": [
+        "ETF 內扣費用率業界最低",
+        "由指數化投資先驅 John Bogle 創辦",
+        "自家 ETF（VTI、VXUS）已是業界標準"
+      ],
+      "cons": [
+        "介面老舊",
+        "不提供轉入獎金",
+        "積極交易工具有限"
+      ]
+    },
+    "etrade-rollover-ira": {
+      "badge": "📈 積極交易者首選",
+      "review": "對想把資金轉進 IRA 的積極交易者來說，E*TRADE Rollover IRA 是最合適的選擇。無最低門檻、零交易手續費，Power E*TRADE 提供進階線圖與選擇權功能。20 萬美元轉入可拿 500 至 600 美元獎金。平台功能扎實，比 Vanguard 或 Fidelity 的 IRA 平台更適合積極交易。目前隸屬摩根士丹利旗下，整合期間部分服務有補貼。",
+      "pros": [
+        "交易平台功能扎實（Power E*TRADE）",
+        "20 萬美元轉入可獲 500 至 600 美元獎金",
+        "選擇權交易平台強大"
+      ],
+      "cons": [
+        "類似閒置帳戶的相關費用高於同業",
+        "摩根士丹利整合仍在進行，服務品質偶有落差"
+      ]
+    },
+    "merrill-edge-rollover-ira": {
+      "badge": "💰 轉入獎金最高",
+      "review": "Merrill Edge Rollover IRA 在本次比較中提供最高的轉入獎金（20 萬美元可拿 600 美元）。無最低門檻、零交易手續費，並與 Bank of America 帳戶整合。只要在 BofA 與 Merrill 的合計資產達 2 萬美元以上即可免費加入 Preferred Rewards，享信用卡回饋加碼 25% 至 75%，以及額外的免手續費交易。單就 IRA 本身而言，Merrill Edge 表現中規中矩，真正的價值在於既有 BofA 客戶所享的整合效益。",
+      "pros": [
+        "20 萬美元轉入可獲 600 美元獎金（最高）",
+        "與 Bank of America 整合",
+        "Preferred Rewards 加碼信用卡回饋"
+      ],
+      "cons": [
+        "要發揮最大價值須有 BofA 銀行往來",
+        "ETF 內扣費用率的優勢不如 Vanguard／Fidelity"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-rollover-ira": "於 fidelity.com 線上申請，或撥打轉存專線。多數 401(k) 管理機構的線上轉存約需 7 至 14 天。Fidelity 團隊會代你聯絡原 401(k) 機構，省下不少時間。",
+    "schwab-rollover-ira": "於 schwab.com 申請。Schwab 的轉入獎金採輪替檔期，申請前請先確認當期優惠。獎金於轉存完成後 30 至 60 天入帳。",
+    "vanguard-rollover-ira": "於 investor.vanguard.com 申請。Vanguard 不提供轉入獎金，但 ETF 內扣費用率最低。多數 401(k) 機構皆支援線上轉存。",
+    "etrade-rollover-ira": "於 us.etrade.com 申請。20 萬美元以上的轉存獎金通常為 500 至 600 美元，於轉存完成後 90 天發放，並以持續持有資產為條件。",
+    "merrill-edge-rollover-ira": "於 merrilledge.com 申請。20 萬美元轉入獎金最高（600 美元），但要發揮最大價值須加入 Bank of America Preferred Rewards（BofA 與 Merrill 合計資產須達 2 萬美元以上）。"
+  },
+  "pinDescription": "退休金轉存 IRA 該選哪一家？Fidelity、Schwab、Vanguard、E*TRADE、Merrill Edge 五大券商，手續費、獎金、內扣費用率一次看懂。",
+  "recommendedFor": [
+    {
+      "label": "想要簡單、低成本起步的首次轉存者",
+      "offerId": "fidelity-rollover-ira",
+      "reason": "Fidelity 的 24 小時客服與 0.00% 費用率的 FZROX，同時解決了新手最怕的流程麻煩與長期成本。"
+    },
+    {
+      "label": "長期買進持有的指數基金投資人",
+      "offerId": "vanguard-rollover-ira",
+      "reason": "Vanguard 的 VTI（0.03%）與 VXUS（0.07%）是市面上最低的 ETF 內扣費用率，20 萬美元投資 30 年可省下 1,200 美元以上。"
+    },
+    {
+      "label": "在退休帳戶中積極交易與操作選擇權的投資人",
+      "offerId": "etrade-rollover-ira",
+      "reason": "Power E*TRADE 提供進階線圖與強大的選擇權平台，20 萬美元轉入另可獲 500 至 600 美元獎金。"
+    },
+    {
+      "label": "想整併銀行與投資的 Bank of America 客戶",
+      "offerId": "merrill-edge-rollover-ira",
+      "reason": "既有 BofA 客戶可拿到 600 美元轉入獎金，並享 Preferred Rewards，信用卡回饋最高加碼 75%。"
+    },
+    {
+      "label": "希望銀行與券商一站搞定的常旅客",
+      "offerId": "schwab-rollover-ira",
+      "reason": "Schwab Bank 支票帳戶全球 ATM 提款免費、免海外交易手續費，轉存資金還可搭配免顧問費的機器人理財。"
+    }
+  ]
 }

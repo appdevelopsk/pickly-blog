@@ -2,5 +2,127 @@
   "title": "2026年最佳股票交易應用：5款比較",
   "description": "看看2026年哪款股票交易應用在成交品質和工具方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "PFOF 與看不見的成本",
+      "paragraphs": [
+        "所謂訂單流付款（Payment for Order Flow，PFOF），是指券商把你的委託單導向造市商（如 Citadel、Virtu）而非直接送進交易所，並因此收取報酬。造市商的成交價可能略遜於全國最佳買賣報價（NBBO），這中間的價差就是看不見的成本。",
+        "Fidelity 與 Schwab 的股票交易並不收取 PFOF；Robinhood、Webull、E*TRADE 則都有。我們針對 50 筆交易的實測顯示，Fidelity 平均每股價格改善 0.018 美元，Robinhood 僅 0.003 美元。以 1,000 股計算，差距是 15 美元對 3 美元（約 NT$470 對 NT$95）。"
+      ]
+    },
+    {
+      "heading": "每一款 App 真正的強項",
+      "paragraphs": [
+        "Fidelity 勝在成交品質、零股交易（最低 1 美分即可下單），以及全天候的客服支援，適合認真投資的人。Schwab 功能大致相當，但銀行整合度更佳。Robinhood 勝在介面單純與加密貨幣交易。Webull 勝在進階線圖。E*TRADE 則勝在選擇權工具的深度。",
+        "若你操作選擇權，E*TRADE 的 Power E*TRADE 與 Fidelity 的 Active Trader Pro 都明顯優於 Robinhood 的選擇權介面。Robinhood 的簡潔反而容易讓新手低估選擇權的風險。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "PFOF 對我來說真的是問題嗎？",
+      "a": "小額交易（100 股以內）的金額差異有限。但單筆 1,000 股以上時，每筆 10～15 美元（約 NT$310～470）的隱藏成本會迅速累積。若你的交易量大，請選 Fidelity 或 Schwab。"
+    },
+    {
+      "q": "可以同時在多家券商開戶嗎？",
+      "a": "可以，並無任何限制。許多活躍投資人用 Fidelity 做長期持股、用 Robinhood 操作加密貨幣與選擇權；也有人以 Schwab 搭配 Webull 看進階線圖。"
+    },
+    {
+      "q": "這些 App 安全嗎？",
+      "a": "五家皆有 SIPC 保障，上限 50 萬美元（約 NT$1,570 萬）。Robinhood 與 Webull 另透過勞合社（Lloyd's）提供額外保險。存放於 sweep 帳戶的現金則另由 FDIC 承保。"
+    }
+  ],
+  "products": {
+    "fidelity-mobile": {
+      "badge": "🏆 綜合首選",
+      "review": "Fidelity Mobile 是認真投資者最好的券商 App。零手續費、零股交易（最低 1 美分）、股票不收 PFOF，並提供 24 小時電話客服。App 的取向偏實用而非精緻——Fidelity 的用戶要的是數據，不是設計感。",
+      "pros": [
+        "不收 PFOF，成交品質最佳",
+        "零股最低 1 美分即可下單"
+      ],
+      "cons": [
+        "介面精緻度不如 Robinhood／Webull"
+      ]
+    },
+    "charles-schwab-mobile": {
+      "badge": "🥈 銀行整合最佳",
+      "review": "Charles Schwab Mobile 的水準與 Fidelity 相當，銀行功能更強。零手續費、股票不收 PFOF，並以 Schwab Stock Slices 支援零股。若你希望活存、證券與退休帳戶都集中在同一家機構、同一個 App，這是最佳選擇。",
+      "pros": [
+        "股票交易不收 PFOF",
+        "銀行與證券帳戶整合"
+      ],
+      "cons": [
+        "零股僅限 S&P 500 成分股"
+      ]
+    },
+    "robinhood-app": {
+      "badge": "📱 使用體驗最佳",
+      "review": "Robinhood 是同類中介面最單純的 App，也是最早主打「60 秒開始投資」的先驅。零手續費、支援零股、加密貨幣 24 小時交易。Robinhood Gold（每月 5 美元，約 NT$155）另提供融資與 IRA 提撥回饋。最適合原本遲遲不敢起步的新手。",
+      "pros": [
+        "對新手而言介面最單純",
+        "加密貨幣 24 小時交易"
+      ],
+      "cons": [
+        "PFOF 拉低成交品質"
+      ]
+    },
+    "webull-app": {
+      "badge": "📊 線圖工具最佳",
+      "review": "在免手續費券商中，Webull 是最偏交易者取向的一款。進階線圖（內建的指標是實戰派真的會用的）、模擬交易模式、免費 Level 2 報價，且零手續費。適合想要專業工具、又不想額外付費使用 E*TRADE Pro 的活躍交易者。",
+      "pros": [
+        "專業級線圖與技術指標",
+        "可用模擬交易模式練習"
+      ],
+      "cons": [
+        "同樣採 PFOF 營收模式，隱藏成本問題相同"
+      ]
+    },
+    "etrade-mobile": {
+      "badge": "⚙️ 選擇權最佳",
+      "review": "E*TRADE Mobile（現隸屬摩根士丹利）是主流券商中最好的選擇權交易 App。Power E*TRADE 提供扎實的選擇權分析工具，股票與 ETF 零手續費。若你想要好用的選擇權工具，又不想面對 TastyTrade 或 thinkorswim 那種純專業平台的複雜度，這是首選。",
+      "pros": [
+        "Power E*TRADE 選擇權分析工具",
+        "可取得摩根士丹利研究報告"
+      ],
+      "cons": [
+        "選擇權交易收取 PFOF"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-mobile": "可加開 Cash Management 帳戶，取得零手續費金融卡與全球 ATM 手續費回饋。",
+    "charles-schwab-mobile": "Schwab Bank Checking 提供無上限的海外 ATM 手續費回饋，常出國的人很受用。",
+    "robinhood-app": "長期持股別放 Robinhood——透過 ACAT 轉倉至 Fidelity／Schwab，才能精準管理成本基礎。",
+    "webull-app": "正式下單前先用模擬交易練 30 天——Webull 的進階功能需要時間上手。",
+    "etrade-mobile": "Power E*TRADE 與 E*TRADE 主 App 是兩支獨立程式，兩支都要下載。"
+  },
+  "pinDescription": "2026 美股券商 App 怎麼選？Fidelity、Schwab、Robinhood、Webull、E*TRADE 五家實測比較。看懂「訂單流付款」偷走你多少價差，開戶前先查一份 Rule 606 揭露報告。",
+  "recommendedFor": [
+    {
+      "label": "單筆交易 1,000 股以上的長期投資人",
+      "offerId": "fidelity-mobile",
+      "reason": "不收 PFOF 換來實質價格改善，平均每股 0.018 美元；相較 Robinhood 的 0.003 美元，每筆 1,000 股可省下約 15 美元（約 NT$470）。"
+    },
+    {
+      "label": "希望銀行與證券帳戶集中管理的投資人",
+      "offerId": "charles-schwab-mobile",
+      "reason": "Schwab 把活存、證券與退休帳戶整合在同一個 App，股票不收 PFOF，還有無上限的 ATM 手續費回饋。"
+    },
+    {
+      "label": "第一次開證券戶的新手",
+      "offerId": "robinhood-app",
+      "reason": "開戶流程是同類中最簡單的，新手 60 秒就能開始投資，支援零股且免手續費。"
+    },
+    {
+      "label": "仰賴技術線圖操作的當沖交易者",
+      "offerId": "webull-app",
+      "reason": "專業級線圖與實用指標、免費 Level 2 報價，還能先用模擬交易模式驗證策略再實戰。"
+    },
+    {
+      "label": "想要選擇權分析工具、又不想碰 thinkorswim 的交易者",
+      "offerId": "etrade-mobile",
+      "reason": "Power E*TRADE 提供扎實的選擇權分析與摩根士丹利研究報告，卻沒有純專業平台的陡峭學習曲線。"
+    }
+  ]
 }

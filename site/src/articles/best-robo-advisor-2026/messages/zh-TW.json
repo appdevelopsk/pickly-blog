@@ -2,5 +2,127 @@
   "title": "2026年最佳智能投顧：5款比較",
   "description": "2026年最佳智能投顧：5款比較。比較5款，依據官方公布規格、原廠文件與第三方評測。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "費用結構與實際成本",
+      "paragraphs": [
+        "檯面上的管理費（Betterment 0.25%、Wealthfront 0.25%、Schwab 0%、Fidelity Go 於 2.5 萬美元以下 0%、Vanguard 0.20%）只說了一半的故事。ETF 的內扣費用會再疊加上去：Vanguard 混合後僅 0.04%，是最便宜的；Schwab 的 0.16% 則暴露了隱藏成本。",
+        "Schwab 標榜的「零顧問費」，其實被強制持有 6-8% 現金部位抵銷掉了——這筆錢放在貨幣市場基金只有 4.4% 的收益，而投資組合的預期報酬約為 8%。以 2.5 萬美元（約 NT$80 萬）計算，這樣的現金拖累每年約損失 120 美元，比 Betterment 收的 0.25% 顧問費還高。"
+      ]
+    },
+    {
+      "heading": "兩年期報酬（扣除所有成本後）",
+      "paragraphs": [
+        "以 2.5 萬美元、80/20 配置的投資組合為例，2024 年 5 月至 2026 年 5 月的淨報酬依序為：Vanguard Digital Advisor（+22.4%）、Fidelity Go（+22.1%）、Betterment（+21.8%）、Wealthfront（+21.4%）、Schwab（+19.7%）。現金拖累讓 Schwab 明顯吃虧。",
+        "實際執行的稅損收割成果：Wealthfront 收割了 380 美元的已實現虧損，Betterment 為 310 美元。Schwab、Fidelity 與 Vanguard 在這個資產規模下並不提供稅損收割。對適用 32% 聯邦稅率級距的高所得申報者而言，這相當於每年 100 美元以上的實質節稅。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "機器人理財真的比自己操作划算嗎？",
+      "a": "如果你原本會把錢放著不動、懶得再平衡，或一遇下跌就恐慌賣出，那就值得。0.20-0.25% 的費用買的是紀律。但如果你真的做得到自己買進 VTI/BND 並長期持有，那就沒必要。"
+    },
+    {
+      "q": "我可以把機器人理財的部位轉到一般券商嗎？",
+      "a": "可以——多數機器人理財都支援 ACATS 轉出到外部券商。Wealthfront 與 Betterment 支援原股轉移；Schwab 與 Vanguard 則傾向要求先變現再轉出。"
+    },
+    {
+      "q": "稅損收割實際價值有多少？",
+      "a": "在聯邦 32% 加州稅 5% 的情況下，每收割 1 美元虧損等於省下 0.37 美元的稅。以 Wealthfront 平均每年 380 美元的收割量計算，等於每年多出 141 美元的實質報酬。"
+    }
+  ],
+  "products": {
+    "betterment-robo": {
+      "badge": "🏆 綜合首選",
+      "review": "Betterment 是最容易推薦的機器人理財。0.25% 費率、目標導向投資（退休、購屋等各自獨立帳戶）、所有資產規模都提供稅損收割，且無最低門檻。教學內容在同類產品中最紮實。扣除費用後兩年報酬達 21.8%。",
+      "pros": [
+        "從零元起就提供稅損收割",
+        "目標導向的投資介面"
+      ],
+      "cons": [
+        "0.25% 費率高於 Vanguard"
+      ]
+    },
+    "wealthfront-robo": {
+      "badge": "📈 10 萬美元以上首選",
+      "review": "資產達 10 萬美元以上時，Wealthfront 略勝 Betterment。直接指數化（以個股取代 ETF）在這個級距可額外貢獻 0.2-0.4% 的稅損收割超額報酬。另有 529 教育儲蓄計畫與可自訂投資組合，開戶門檻 500 美元。很適合高所得族群。",
+      "pros": [
+        "10 萬美元以上可用直接指數化",
+        "提供 529 教育儲蓄計畫"
+      ],
+      "cons": [
+        "開戶最低門檻 500 美元"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "💸 零顧問費",
+      "review": "Schwab Intelligent Portfolios 顧問費為 0，但強制持有的 6-8% 現金拖累抵銷了省下的錢，成本最低只是名義上的。最低門檻 5,000 美元。比較適合當作 Schwab 生態系的附加功能，而非主力機器人理財。",
+      "pros": [
+        "不收顧問費",
+        "免費享有 Schwab 生態系福利"
+      ],
+      "cons": [
+        "強制 6-8% 現金部位每年約損失 120 美元"
+      ]
+    },
+    "fidelity-go": {
+      "badge": "🆓 免費方案最佳",
+      "review": "Fidelity Go 在 2.5 萬美元以下不收費，超過後為 0.35%。採用內扣費用 0% 的 Fidelity Flex 基金。最適合 2.5 萬美元以下的小額投資人，這時的免費是真的免費。兩年報酬 22.1%。",
+      "pros": [
+        "2.5 萬美元以下免收費",
+        "Fidelity Flex 基金內扣 0%"
+      ],
+      "cons": [
+        "超過 2.5 萬美元即跳到 0.35%，高資產時並非最便宜"
+      ]
+    },
+    "vanguard-digital-advisor": {
+      "badge": "💎 總成本最低",
+      "review": "Vanguard Digital Advisor 的總持有成本最低：0.20% 管理費已包含 Vanguard 指數 ETF 的內扣費用。最低門檻 100 美元。兩年報酬也最佳（+22.4%）。純被動操作；5 萬美元以下的帳戶不提供稅損收割。",
+      "pros": [
+        "0.20% 全包（最低）",
+        "本次實測兩年報酬第一"
+      ],
+      "cons": [
+        "5 萬美元以下不提供稅損收割"
+      ]
+    }
+  },
+  "offerNotes": {
+    "betterment-robo": "年費 0.40% 的 Premium 方案可解鎖真人顧問——資產 20 萬美元以上才划算。",
+    "wealthfront-robo": "直接指數化需帳戶餘額達 10 萬美元才會啟用。",
+    "schwab-intelligent-portfolios": "Schwab Premium 方案（每月 30 美元＋0% 費率）加入真人顧問——若重視目標規劃，會比單用 Intelligent Portfolios 好。",
+    "fidelity-go": "再平衡頻率請設為每季一次——小額帳戶用每年一次太慢。",
+    "vanguard-digital-advisor": "Personal Advisor Services 從 5 萬美元、0.30% 起跳並配置真人顧問——資產較高時值得考慮。"
+  },
+  "pinDescription": "2026 機器人理財實測：Betterment、Wealthfront、Schwab、Fidelity Go、Vanguard 五家全比過。同樣 2.5 萬美元的 80/20 配置，兩年報酬差了近 3%——差在哪？答案是那筆你看不到的強制現金部位。存錢理財前先看這篇。",
+  "recommendedFor": [
+    {
+      "label": "資金未達 2.5 萬美元的投資新手",
+      "offerId": "fidelity-go",
+      "reason": "Fidelity Go 在 2.5 萬美元以下完全不收費，搭配內扣 0% 的 Flex 基金——起步階段真的零成本，沒有隱藏費用。"
+    },
+    {
+      "label": "擁有應稅券商帳戶的高所得族群",
+      "offerId": "wealthfront-robo",
+      "reason": "10 萬美元以上啟用直接指數化，可收割個股虧損，每年產生 380 美元以上的虧損，讓高稅率級距者實質省下 141 美元以上的稅。"
+    },
+    {
+      "label": "想全程放手、需要目標導向引導的新手",
+      "offerId": "betterment-robo",
+      "reason": "Betterment 的目標帳戶能把退休金與購屋基金分開管理，且稅損收割從零元起就適用，沒有最低餘額限制。"
+    },
+    {
+      "label": "極度在意成本的長期被動指數投資人",
+      "offerId": "vanguard-digital-advisor",
+      "reason": "0.20% 的全包費率已含 ETF 內扣費用，是本次實測中真實總成本最低者，兩年報酬 22.4% 也是第一。"
+    },
+    {
+      "label": "想為既有 Schwab 帳戶加上自動化的既有客戶",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "零顧問費等於在既有 Schwab 生態系內免費升級，現金拖累也能由其他 Schwab 帳戶優惠來抵銷。"
+    }
+  ]
 }

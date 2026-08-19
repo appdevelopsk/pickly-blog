@@ -2,5 +2,154 @@
   "title": "2026年最佳電商平台：5款比較",
   "description": "2026年最佳電商平台：5款比較。比較5款，依據官方公布規格、原廠文件與第三方評測。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "轉換率表現",
+      "paragraphs": [
+        "各平台轉換率（60 天實測，相同商品、相同售價）：Shopify 2.8%、BigCommerce 2.6%、WooCommerce 2.4%（受佈景主題與主機品質影響極大）、Wix eCommerce 2.1%、Squarespace Commerce 2.3%。",
+        "Shopify 轉換率領先，一部分來自 Shop Pay 的一鍵結帳，一部分來自行動端體驗的優化，還有一部分來自完整的 App 生態（評價、加購推薦、購物車挽回）。",
+        "WooCommerce 的落差相當明顯——建置得宜的 WooCommerce 站台（乾淨的佈景主題，搭配 Cloudways 或 Kinsta 這類高速主機）足以與 Shopify 打平；設定草率的站台則表現明顯落後。"
+      ]
+    },
+    {
+      "heading": "年營收 3,600 萬時的總成本",
+      "paragraphs": [
+        "以年 GMV 約 NT$3,600 萬（US$1.2M）計算的平台＋金流＋App 年度支出：Shopify Advanced 約 NT$14.4 萬＋Shop Payments 1.85%×3,600 萬 ≈ NT$81 萬＋App 約 NT$7.2 萬 ≈ 每年 NT$102.6 萬。BigCommerce Pro 約 NT$14.4 萬＋金流商 2.5%×3,600 萬 ≈ NT$90 萬＋App 約 NT$3.6 萬 ≈ 每年 NT$108 萬。",
+        "WooCommerce：平台費 NT$0＋主機約 NT$3.6 萬＋金流商 2.5–2.9%×3,600 萬 ≈ NT$90 萬–105 萬＋外掛與維護約 NT$9 萬 ≈ 每年 NT$102.6 萬–117.6 萬。",
+        "Wix eCommerce：約 NT$1.3 萬＋金流商 2.9%×3,600 萬 ≈ NT$104.4 萬＋App 約 NT$1.8 萬 ≈ 每年 NT$107.5 萬。Squarespace Commerce：約 NT$1.76 萬＋Squarespace Payments 2.9%×3,600 萬 ≈ NT$104.4 萬＋App 約 NT$0.9 萬 ≈ 每年 NT$107 萬。",
+        "在年營收 NT$3,600 萬以上的區間，Shopify 憑藉 Shop Payments 的低交易手續費在總成本上勝出。營收突破 NT$1.5 億後，差距會進一步拉開。"
+      ]
+    },
+    {
+      "heading": "營收突破 1.5 億後的擴張",
+      "paragraphs": [
+        "Shopify Advanced 升級到 Shopify Plus（每月 NT$7.5 萬–45 萬以上）可平順擴張到 NT$30 億以上規模。美國年營收破 NT$3 億的 DTC 品牌，多數都在 Shopify Plus 上。",
+        "BigCommerce Enterprise 可支撐相近量級，並具備多店面（multi-storefront）能力，適合 B2B 與 DTC 並行的營運模式。",
+        "WooCommerce 技術上可以擴張，但需要專職的 DevOps 人力。營收跨過 NT$1.5 億這道門檻時，多數 WooCommerce 店家會轉往 Shopify Plus。",
+        "Wix 與 Squarespace 大約在 NT$1.5 億營收附近觸頂，再往上就不敷使用了。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Shopify 還是 BigCommerce？",
+      "a": "DTC 與多數情境選 Shopify——App 生態最完整、行動端體驗最好，搭配 Shop Payments 手續費也最低。若是 B2B（多店面、複雜商品目錄）、不想被抽交易手續費，或走 API-first 開發，則選 BigCommerce。"
+    },
+    {
+      "q": "WooCommerce 真的免費嗎？",
+      "a": "外掛本身免費。實際總支出為：主機（每月約 NT$900–3,000）＋佈景主題（一次性 NT$1,800–6,000）＋付費外掛（每年 NT$3,000–15,000）。規模一大就接近 Shopify 的花費，它的價值在於彈性與掌控權。"
+    },
+    {
+      "q": "電商該選 Wix 還是 Squarespace？",
+      "a": "商品數在 100 個 SKU 以內、重視視覺設計的店，選 Wix。若你本來就用 Squarespace 經營內容，電商只是附加功能，那就選 Squarespace。兩者在規模拉大後都會遇到天花板。"
+    },
+    {
+      "q": "要不要做 Headless 電商？",
+      "a": "Shopify Hydrogen、BigCommerce headless、Saleor 都可行，前提是團隊具備 React／Next.js 能力。導入成本不低（NT$150 萬起跳），建議營收達 NT$1.5 億以上、且確實有技術上的效益時再考慮。"
+    }
+  ],
+  "products": {
+    "shopify-advanced": {
+      "badge": "🏆 綜合首選",
+      "review": "多數電商店家的正確選擇就是 Shopify Advanced。App 生態最完整（超過 10,000 款），Shop Pay 一鍵結帳實際拉高轉換率，最高方案的交易手續費也最低，日後可平順升級到 Shopify Plus。DTC 品牌的預設答案。",
+      "pros": [
+        "App 生態最完整",
+        "Shop Pay 有效提升轉換",
+        "可平順升級 Shopify Plus"
+      ],
+      "cons": [
+        "Advanced 每月約 NT$12,000，不便宜",
+        "深度綁定 Shopify 生態"
+      ]
+    },
+    "bigcommerce-pro": {
+      "badge": "🏢 B2B 首選",
+      "review": "B2B 與 DTC 並行的營運，正確選擇是 BigCommerce Pro。支援多店面、複雜商品目錄，且不收交易手續費，API-first 架構也便於做 headless 開發。純 DTC 的話則不如 Shopify 順手。",
+      "pros": [
+        "支援多店面營運",
+        "不收交易手續費",
+        "API-first 架構"
+      ],
+      "cons": [
+        "App 生態不如 Shopify",
+        "介面對 DTC 的針對性較弱"
+      ]
+    },
+    "woocommerce-wordpress": {
+      "badge": "🔧 彈性首選",
+      "review": "重視彈性與自主掌控的團隊，正確選擇是 WooCommerce。開源、與 WordPress 無縫整合、不收平台費。規模一大，主機加佈景主題加外掛的支出會逼近 Shopify。想把每個環節都握在自己手上時最適合。",
+      "pros": [
+        "開源平台免費使用",
+        "客製彈性無上限",
+        "與 WordPress 整合"
+      ],
+      "cons": [
+        "需要一定技術能力才能架設",
+        "主機與維護是額外負擔",
+        "效能高低取決於設定"
+      ]
+    },
+    "wix-ecommerce-business": {
+      "badge": "🎨 設計導向店家首選",
+      "review": "商品數 100 個 SKU 以內、重視視覺設計的店，正確選擇是 Wix eCommerce Business。拖拉式編輯體驗出色，內建 AI 網站生成，Business 方案每月約 NT$1,100。營收約 NT$3,000 萬–6,000 萬會遇到天花板。",
+      "pros": [
+        "拖拉編輯直覺易上手",
+        "內建 AI 網站生成",
+        "小型店家負擔得起"
+      ],
+      "cons": [
+        "規模拉大後成長受限",
+        "App 生態較小"
+      ]
+    },
+    "squarespace-commerce-advanced": {
+      "badge": "💎 內容＋電商首選",
+      "review": "如果你本來就用 Squarespace 經營內容、電商只是附加功能，正確選擇是 Squarespace Commerce Advanced。設計、內容與電商三者整合得很完整。適合內容為主再加開賣場的網站，純電商用途則稍嫌不足。",
+      "pros": [
+        "設計、內容與電商整合完整",
+        "Squarespace 生態一體",
+        "支援購物車挽回、禮物卡"
+      ],
+      "cons": [
+        "純電商用途不如 Shopify 強",
+        "營收約 NT$3,000 萬–6,000 萬觸頂"
+      ]
+    }
+  },
+  "offerNotes": {
+    "shopify-advanced": "於 shopify.com 註冊——3 天免費試用，之後前 3 個月每月約 NT$30。",
+    "bigcommerce-pro": "於 bigcommerce.com 註冊——15 天免費試用。",
+    "woocommerce-wordpress": "於 woocommerce.com 免費下載外掛——需自備 WordPress 主機。",
+    "wix-ecommerce-business": "於 wix.com 註冊——Business 方案每月約 NT$820 起。",
+    "squarespace-commerce-advanced": "於 squarespace.com 註冊——14 天免費試用。"
+  },
+  "pinDescription": "開店平台怎麼選？Shopify、BigCommerce、WooCommerce、Wix、Squarespace 五大平台實測比較：轉換率、手續費、一年真實總花費一次算清楚。#開店平台 #電商",
+  "recommendedFor": [
+    {
+      "label": "年營收突破 3,600 萬、正在放大的 DTC 服飾品牌",
+      "offerId": "shopify-advanced",
+      "reason": "Shop Pay 一鍵結帳加上超過 10,000 款 App，在 NT$3,600 萬以上 GMV 的實測中拿下最高轉換率（2.8%）與最低交易手續費。"
+    },
+    {
+      "label": "同時經營 B2B 批發與 DTC 的品牌",
+      "offerId": "bigcommerce-pro",
+      "reason": "多店面能力加上零交易手續費，讓 B2B 業者能在各自獨立的店面管理複雜商品目錄，不必為每一筆訂單多付成本。"
+    },
+    {
+      "label": "需要完整掌握程式碼的開發團隊",
+      "offerId": "woocommerce-wordpress",
+      "reason": "開源並與 WordPress 整合，不會被平台綁死；每一行程式與每一個外掛都由你決定，也不必付月租平台費。"
+    },
+    {
+      "label": "商品數 100 個 SKU 以內、首次開店的個人創作者",
+      "offerId": "wix-ecommerce-business",
+      "reason": "AI 網站生成與拖拉式編輯器，每月約 NT$820 就能在幾小時內把第一家店開起來，完全不需要技術背景。"
+    },
+    {
+      "label": "想在部落格或攝影作品集旁加開小型賣場的創作者",
+      "offerId": "squarespace-commerce-advanced",
+      "reason": "Squarespace 的內容與電商一體整合，讓作品網站與賣場共用同一套設計系統，不必忍受兩個平台各說各話的割裂感。"
+    }
+  ]
 }

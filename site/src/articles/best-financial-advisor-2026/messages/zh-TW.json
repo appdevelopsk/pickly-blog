@@ -2,5 +2,147 @@
   "title": "2026年最佳財務顧問：5款比較",
   "description": "看看2026年哪款財務顧問在費用結構和顧問存取方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "費用結構比較（50 萬美元資產組合）",
+      "paragraphs": [
+        "Vanguard PAS：每年 0.30% 資產管理費，約 1,500 美元（約 NT$48,000）。",
+        "Betterment Premium：每年 0.40% 資產管理費，約 2,000 美元（約 NT$64,000），最低門檻 10 萬美元。",
+        "Fidelity Wealth Services：每年 0.50%–1.04% 資產管理費，約 2,500–5,200 美元（約 NT$80,000–166,000）。",
+        "Schwab Intelligent Portfolios：顧問費 0 元（純機器人理財，無真人顧問）。",
+        "Facet Wealth：每年 2,400–6,000 美元（約 NT$77,000–192,000）的定額訂閱制，不按資產比例計費。"
+      ]
+    },
+    {
+      "heading": "各種需求的最佳選擇",
+      "paragraphs": [
+        "最平價的真人顧問：Vanguard PAS。0.30% 資產管理費，並由具受託人義務的 CFP 服務。",
+        "最適合數位優先族群：Betterment Premium。0.40% 資產管理費即可無限次諮詢 CFP，並搭配機器人理財。",
+        "最佳中階真人服務：Fidelity Wealth Services。專屬顧問制，最低門檻 5 萬美元。",
+        "最佳免費機器人理財：Schwab Intelligent Portfolios。顧問費為 0 元。",
+        "最適合大額資產：Facet Wealth。定額收費在 100 萬美元以上時比按比例計費更划算。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "我真的需要理財顧問嗎？",
+      "a": "不一定。資產在 25 萬美元以下時，機器人理財（Schwab Intelligent Portfolios）或自行投資指數型基金（Vanguard）通常就夠用。但若資產超過 50 萬美元，且情況較複雜（持有不動產、經營事業、需要稅損收割），真人顧問才真正能創造價值。"
+    },
+    {
+      "q": "按資產比例收費和定額收費，哪個划算？",
+      "a": "按資產比例（AUM）收費會隨資產規模成長，在 25 萬～50 萬美元之間還算合理，但到了 200 萬美元以上就相當昂貴。定額收費（Facet）在 100 萬美元以上較便宜，但在 25 萬美元時反而更貴。請依自身資產規模算出損益平衡點。"
+    },
+    {
+      "q": "機器人理財到底好不好用？",
+      "a": "若資產在 50 萬美元以下、需求單純，答案是肯定的。它能以較低成本處理再平衡與稅損收割。但面對複雜的稅務規劃、遺產傳承或企業主的需求，功能就明顯不足。"
+    },
+    {
+      "q": "只收顧問費、負受託人義務的 CFP 如何？",
+      "a": "情況複雜時非常值得考慮。這類顧問按每小時 200–500 美元計費，或收取 1,500–5,000 美元的定額規劃費用，不賺取佣金。可透過 NAPFA.org 或 XY Planning Network 尋找合適人選。"
+    }
+  ],
+  "products": {
+    "vanguard-pas": {
+      "badge": "🏆 最平價的真人顧問",
+      "review": "想以低成本取得真人顧問服務，Vanguard Personal Advisor Services 是首選。0.30% 的資產管理費是真人顧問業界最低水準，並由負受託人義務的 CFP 服務，投資標的以 Vanguard 基金為主。這裡的 CFP 是真正的真人顧問（而非機器人），可無限次諮詢。資產落在 50 萬至 500 萬美元區間時，CP 值最高。",
+      "pros": [
+        "0.30% 資產管理費，真人顧問中最低",
+        "具受託人義務的 CFP",
+        "與 Vanguard 基金整合"
+      ],
+      "cons": [
+        "以 Vanguard 自家基金為主，選擇受限",
+        "客製化程度不如高收費服務"
+      ]
+    },
+    "betterment-premium": {
+      "badge": "💎 最適合數位優先族群",
+      "review": "習慣數位介面又想諮詢 CFP 的人，選 Betterment Premium 準沒錯。0.40% 資產管理費、10 萬美元起投，可無限次諮詢 CFP，交易則交由機器人理財處理，並內建稅損收割。適合想要「機器人＋真人」混合模式的科技愛好者。",
+      "pros": [
+        "無限次諮詢 CFP",
+        "機器人理財自動化操作",
+        "內建稅損收割"
+      ],
+      "cons": [
+        "最低門檻 10 萬美元",
+        "0.40% 費率高於 Vanguard"
+      ]
+    },
+    "fidelity-wealth-services": {
+      "badge": "🏛️ 最佳中階真人服務",
+      "review": "想在大型券商體系內取得傳統真人顧問服務，Fidelity Wealth Services 是合適之選。5 萬美元起投、配置專屬顧問，資產管理費依服務等級落在 0.50%–1.04%。特別適合資產 50 萬美元以上、希望有單一窗口的 Fidelity 既有客戶。",
+      "pros": [
+        "配置專屬顧問",
+        "與 Fidelity 帳戶整合",
+        "提供多種服務等級"
+      ],
+      "cons": [
+        "0.50%–1.04% 費率高於 Vanguard",
+        "最低門檻 5 萬美元"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "🆓 最佳免費機器人理財",
+      "review": "想免費使用機器人理財，Schwab Intelligent Portfolios 是最佳解。顧問費 0 元、5,000 美元起投，並含目標規劃功能。代價是嘉信透過現金拖累獲利——約 10% 的資產會留在低利息的嘉信現金帳戶中。",
+      "pros": [
+        "顧問費 0 元",
+        "5,000 美元起投，門檻極低",
+        "內含目標規劃功能"
+      ],
+      "cons": [
+        "現金拖累，約 10% 資產閒置在低利現金",
+        "無法接觸真人顧問"
+      ]
+    },
+    "facet-wealth": {
+      "badge": "💸 最適合大額資產",
+      "review": "資產達 100 萬美元以上，Facet Wealth 是首選。採定額訂閱制（每年 2,400–6,000 美元）而非按資產比例收費，並配置專屬 CFP。以 200 萬美元的資產計算，Facet 每年 4,800 美元遠低於 0.30% 費率的 6,000 美元。",
+      "pros": [
+        "定額收費，100 萬美元以上更划算",
+        "配置專屬 CFP",
+        "不按資產計費，較無利益衝突"
+      ],
+      "cons": [
+        "25 萬美元時偏貴，定額費用超過 1% 資產管理費",
+        "公司規模小於 Vanguard、Fidelity"
+      ]
+    }
+  },
+  "offerNotes": {
+    "vanguard-pas": "於 investor.vanguard.com 申辦。使用 PAS 需 50 萬美元起。",
+    "betterment-premium": "於 betterment.com 申辦。Premium 方案需 10 萬美元起；Digital 方案（0.40% 資產管理費，不含 CFP 諮詢）則無最低門檻。",
+    "fidelity-wealth-services": "於 fidelity.com 申辦，或撥打其財富管理專線。5 萬美元起。",
+    "schwab-intelligent-portfolios": "於 schwab.com 申辦。5,000 美元起。",
+    "facet-wealth": "於 facet.com 申辦。採定額收費，依複雜度索取報價。"
+  },
+  "pinDescription": "顧問費差一點，十年差很多。Vanguard、Betterment、Fidelity、Schwab、Facet 五家理財顧問費率全比較，看看你的資產規模該選哪一家。",
+  "recommendedFor": [
+    {
+      "label": "資產 50 萬～500 萬美元、重視成本的投資人",
+      "offerId": "vanguard-pas",
+      "reason": "Vanguard PAS 僅收 0.30% 資產管理費，是能接觸真人 CFP 的最低費率，相較同業每年可省下數千美元。"
+    },
+    {
+      "label": "想要自動化、又需要真人後盾的科技愛好者",
+      "offerId": "betterment-premium",
+      "reason": "Betterment Premium 結合自動稅損收割與無限次 CFP 諮詢，最適合想省事又想聽專業建議的投資人。"
+    },
+    {
+      "label": "想找專屬顧問的 Fidelity 既有客戶",
+      "offerId": "fidelity-wealth-services",
+      "reason": "Fidelity Wealth Services 為資產 50 萬美元以上的客戶配置單一窗口，並與既有 Fidelity 帳戶無縫整合。"
+    },
+    {
+      "label": "資產 10 萬美元以下、正在累積財富的新手",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Schwab Intelligent Portfolios 顧問費 0 元、5,000 美元即可起投，讓新手初期的獲利不被手續費侵蝕。"
+    },
+    {
+      "label": "可投資資產 100 萬美元以上的高資產族群",
+      "offerId": "facet-wealth",
+      "reason": "Facet 每年 2,400–6,000 美元的定額收費，在 100 萬美元以上勝過按比例計費；以 200 萬美元資產計算，比 Vanguard 的 0.30% 每年最多省下 1,200 美元。"
+    }
+  ]
 }

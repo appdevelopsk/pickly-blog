@@ -2,5 +2,146 @@
   "title": "2026年最佳旅行行動電源：5款比較",
   "description": "看看2026年哪款旅行行動電源在容量和TSA合規方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "航空攜帶規定",
+      "paragraphs": [
+        "航空安全規定上限：每顆電池 100 瓦時（Wh），且僅能隨身攜帶。本篇比較的行動電源大多在 100Wh 以下。",
+        "Anker 737（24,000mAh × 3.7V = 88.8Wh）：可帶上機。",
+        "RAVPower 26,800mAh × 3.7V = 99.2Wh：剛好低於上限。",
+        "容量較小的機型（10,000mAh = 37Wh）：完全沒有攜帶疑慮。"
+      ]
+    },
+    {
+      "heading": "各種需求的最佳選擇",
+      "paragraphs": [
+        "大容量首選：Anker PowerCore 737（約 NT$4,700-5,600）。24,000mAh、140W，可充筆電。",
+        "中容量首選：Anker PowerCore 313（約 NT$950-1,600）。10,000mAh 高 CP 值之選。",
+        "極限容量首選：RAVPower PD Pioneer（約 NT$1,900-2,800）。26,800mAh，貼近攜帶上限。",
+        "iPhone 首選：Anker MagGo（約 NT$1,300-2,200）。MagSafe 磁吸無線充電。",
+        "平價首選：INIU 行動電源（約 NT$650-950）。10,000mAh。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "行動電源可以帶上飛機嗎？",
+      "a": "可以，但只能隨身攜帶（100Wh 以下），不得放進託運行李。搭機前請先確認機身標示的 Wh 數值。"
+    },
+    {
+      "q": "我需要多大容量？",
+      "a": "輕度旅行：10,000mAh（可充手機 2-3 次）。重度使用者：20,000mAh 以上。需要充筆電：25,000mAh 以上並支援 USB-C PD。"
+    },
+    {
+      "q": "Power Delivery（PD）和一般充電差在哪？",
+      "a": "PD 的充電速度快上 2-3 倍。現今筆電要快充一定得靠 USB-C PD。本篇所有 Anker 機型都支援 PD。"
+    },
+    {
+      "q": "行動電源多久該換一次？",
+      "a": "約 500 次循環後容量會掉 20%（一般使用大約 2-3 年）。當你明顯感覺充手機的次數變少，就該換了。"
+    }
+  ],
+  "products": {
+    "anker-power-bank-737": {
+      "badge": "👑 大容量首選",
+      "review": "Anker PowerCore 737 是高階大容量的正解。24,000mAh、140W PD 輸出（能充 MacBook Pro），容量也符合登機規範。可將 13 吋 MacBook 充滿 1 次以上，iPhone 則超過 6 次。最適合筆電與手機一起帶著跑的旅人。",
+      "pros": [
+        "140W PD，可充筆電",
+        "24,000mAh 超大容量",
+        "容量符合登機規範"
+      ],
+      "cons": [
+        "約 NT$4,700-5,600，價位偏高",
+        "重達 640 公克，不算輕"
+      ]
+    },
+    "anker-power-bank-313": {
+      "badge": "💸 中容量高 CP 值",
+      "review": "Anker PowerCore 313 是中容量級距的正解。10,000mAh、22.5W 輸出，可充 iPhone 2-3 次。體積輕巧，口袋就放得下。最適合偶爾出門、只想帶個備援電力的人。",
+      "pros": [
+        "約 NT$950-1,600，價格實在",
+        "10,000mAh（可充手機 2-3 次）",
+        "體積輕巧"
+      ],
+      "cons": [
+        "22.5W 只算中等（無法快充筆電）",
+        "屬於舊款——新一代 Anker 機能更豐富"
+      ]
+    },
+    "ravpower-pd-pioneer": {
+      "badge": "🏆 極限容量首選",
+      "review": "RAVPower PD Pioneer 是登機規範內容量最大的機型。26,800mAh（貼近隨身攜帶上限）、30W PD 輸出，可充 iPhone 超過 7 次。590 公克的重量不輕，但換來的是最大容量。",
+      "pros": [
+        "26,800mAh，貼近攜帶上限",
+        "30W PD 輸出",
+        "手機可充 7 次以上"
+      ],
+      "cons": [
+        "重達 590 公克",
+        "容量剛好卡在上限邊緣（建議先向航空公司確認）"
+      ]
+    },
+    "anker-magnetic-magsafe-power-bank": {
+      "badge": "🍎 iPhone 首選",
+      "review": "Anker MagGo 磁吸行動電源是 iPhone 使用者的正解。5,000-10,000mAh，支援 MagSafe（可直接磁吸在 iPhone 12 以後機型背面），無線充電。日常隨身相當方便，但容量不如有線機型。",
+      "pros": [
+        "MagSafe 磁吸貼合",
+        "支援無線充電",
+        "體積輕巧"
+      ],
+      "cons": [
+        "容量較小（5,000-10,000mAh）",
+        "無線充電速度不及有線"
+      ]
+    },
+    "iniu-portable-charger": {
+      "badge": "💸 平價首選",
+      "review": "INIU 行動電源是 Amazon 上評價數最多的第一名。10,000mAh、纖薄機身、22.5W 輸出。約 NT$650-950 的價格讓它成為平價之選。最適合想用最低成本準備一組備援電力的旅人。",
+      "pros": [
+        "約 NT$650-950，超平價",
+        "纖薄機身",
+        "10,000mAh"
+      ],
+      "cons": [
+        "沒有高階機能",
+        "輸出功率不如 Anker"
+      ]
+    }
+  },
+  "offerNotes": {
+    "anker-power-bank-737": "anker.com、Amazon 皆有販售。「PowerCore 737」為大容量旗艦；輕度使用可選容量較小的 Anker PowerCore 系列。",
+    "anker-power-bank-313": "anker.com、Amazon 皆有販售。313 屬平價級距；A1264 則是較新的 USB-C 版本。",
+    "ravpower-pd-pioneer": "ravpower.com、Amazon 皆有販售。「PD Pioneer」支援 Power Delivery，舊款 RAVPower 則沒有。",
+    "anker-magnetic-magsafe-power-bank": "anker.com、Amazon 皆有販售。「MagGo」系列支援 MagSafe——下單前請確認型號是否相容。",
+    "iniu-portable-charger": "iniushop.com、Amazon 皆有販售。訂閱定期購通常可折 10-15%。"
+  },
+  "pinDescription": "出國別再找插座！2026 五款旅行行動電源實測比較：Anker 737、Anker 313、RAVPower PD Pioneer、Anker MagGo、INIU，含登機規定整理。",
+  "recommendedFor": [
+    {
+      "label": "每趟出差都得帶筆電的商務族",
+      "offerId": "anker-power-bank-737",
+      "reason": "140W PD 輸出能同時餵飽 MacBook Pro 和手機，一顆就能取代筆電的原廠充電器。"
+    },
+    {
+      "label": "只想帶個輕便備援電力的週末旅人",
+      "offerId": "anker-power-bank-313",
+      "reason": "口袋放得下的體積、10,000mAh 可補 2-3 次手機電力，NT$950-1,600 的價格就算弄丟也不心疼。"
+    },
+    {
+      "label": "多日行程的長途背包客",
+      "offerId": "ravpower-pd-pioneer",
+      "reason": "26,800mAh 把登機允許的容量榨到極限，不用找插座也能充滿手機 7 次以上。"
+    },
+    {
+      "label": "受夠了整理充電線的 iPhone 使用者",
+      "offerId": "anker-magnetic-magsafe-power-bank",
+      "reason": "MagSafe 可直接吸附 iPhone 12 以後機型，手機握在手上或放進口袋都能繼續充電，完全免插線。"
+    },
+    {
+      "label": "預算有限的海外留學生",
+      "offerId": "iniu-portable-charger",
+      "reason": "NT$650-950 就有纖薄機身與 10,000mAh，日常補電綽綽有餘，既不增加重量也不吃掉旅費。"
+    }
+  ]
 }

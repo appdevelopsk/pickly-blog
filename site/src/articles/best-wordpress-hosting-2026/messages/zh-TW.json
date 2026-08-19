@@ -2,5 +2,150 @@
   "title": "2026年最佳WordPress 主機：5款比較",
   "description": "2026年最佳WordPress 主機：5款比較。依官方規格、原廠文件與第三方評測比較。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "價格與實際成本",
+      "paragraphs": [
+        "官網標價：Bluehost 每月 US$2.95（首年優惠）、SiteGround 每月 US$5.99（首年優惠）、Cloudways 每月 US$14 起、Kinsta 每月 US$35、WP Engine 每月 US$30。續約後的真實成本：Bluehost 每月 US$11、SiteGround 每月 US$24。Kinsta 與 WP Engine 沒有首年優惠價，你簽約時看到的價格就是第二年要付的價格。",
+        "流量上限方面：Kinsta 與 WP Engine 對超出方案的每月訪客數另行計費，SiteGround 與 Bluehost 則改採限速。對成長中的網站來說，Kinsta／WP Engine 的超額費用是可預期的；廉價主機的限速卻等於突如其來的停擺。"
+      ]
+    },
+    {
+      "heading": "效能表現（TTFB）",
+      "paragraphs": [
+        "快取頁面的 TTFB：Kinsta 142 毫秒、WP Engine 158 毫秒、Cloudways（Vultr）168 毫秒、SiteGround 210 毫秒、Bluehost 340 毫秒。Kinsta 靠著內建的 Cloudflare Enterprise 整合，在快取傳輸上勝出。",
+        "未快取頁面的 TTFB（以管理員身分登入時）：Cloudways 290 毫秒、Kinsta 340 毫秒、WP Engine 380 毫秒、SiteGround 520 毫秒、Bluehost 1.1 秒。Bluehost 在未快取狀態下的表現，正是廉價共享主機的真實代價。",
+        "WooCommerce 結帳延遲（購物車 5 件商品）：Kinsta 410 毫秒、Cloudways 480 毫秒、WP Engine 520 毫秒、SiteGround 780 毫秒、Bluehost 1.4 秒。"
+      ]
+    },
+    {
+      "heading": "客服品質",
+      "paragraphs": [
+        "首次回覆時間（以「網站掛掉」等級的工單測試）：WP Engine 4 分鐘、Kinsta 6 分鐘、Cloudways 12 分鐘、SiteGround 18 分鐘、Bluehost 47 分鐘。Kinsta 與 WP Engine 配置的是真正的 WordPress 工程師；SiteGround 客服專業但速度較慢；Bluehost 第一線客服則是照稿回覆。",
+        "專業深度：Kinsta 與 WP Engine 的客服不必往上轉單，就直接處理掉根本原因（例如某個外掛裡的慢查詢）。SiteGround 能應付快取與 DNS 相關問題。Bluehost 第一線客服除了叫你重開機之外，幾乎無法診斷任何狀況。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kinsta 每月 US$35，真的值得捨棄 Bluehost 的 US$2.95 嗎？",
+      "a": "只要你的網站有在賺錢，答案就是值得。光是 TTFB 的差距就足以左右轉換率。Bluehost 適合的是那些不需要快、也不介意偶爾掛掉的興趣型網站。"
+    },
+    {
+      "q": "WP Engine 和 Kinsta 該選哪一個？",
+      "a": "Kinsta 的快取 TTFB 略勝一籌，WP Engine 的客服則略快一步，兩家都相當出色。Kinsta 的介面比較清爽；WP Engine 的 Smart Plugin Manager 外掛則是獨門功能。建議先試用再決定。"
+    },
+    {
+      "q": "Cloudways 比 Kinsta 便宜，有什麼隱藏代價嗎？",
+      "a": "Cloudways 是在 DigitalOcean／Vultr／AWS／GCP 之上疊一層 WordPress 代管服務，底層 VPS 由你自己挑。它不像 Kinsta 或 WP Engine 那樣全程幫你打理，比較偏向適合自行動手的代管方案。2022 年起由 DigitalOcean 收購。"
+    },
+    {
+      "q": "我該從 Bluehost 搬走嗎？",
+      "a": "如果網站有營收，或你在意載入速度，那就該搬。這道 TTFB 的差距不會縮小。"
+    }
+  ],
+  "products": {
+    "kinsta-managed-wp": {
+      "badge": "🏆 高階首選",
+      "review": "Kinsta 是 2026 年最強的高階 WordPress 代管主機。採用 Google Cloud 頂級網路，免費整合 Cloudflare Enterprise，MyKinsta 後台是同級產品中最清爽的。測試環境一鍵建立，所有方案通用。客服 10 分鐘內回覆，而且回你的是真正的 WordPress 工程師。",
+      "pros": [
+        "快取頁面 TTFB 全場最低",
+        "免費附贈 Cloudflare Enterprise",
+        "同級產品中最好用的後台"
+      ],
+      "cons": [
+        "無電話客服（僅線上對話）",
+        "以訪客數計價，流量暴增時吃虧"
+      ]
+    },
+    "wp-engine-managed-wp": {
+      "badge": "🎯 客服最強",
+      "review": "WP Engine 是經營最久的 WordPress 代管業者，客服水準堪稱業界頂尖，首次回覆比 Kinsta 更快。方案內含 Genesis 佈景主題，Smart Plugin Manager 會自動測試外掛更新。後台介面確實比 Kinsta 老派，但底層服務相當紮實。",
+      "pros": [
+        "本次比較中客服回覆最快",
+        "內含 Smart Plugin Manager",
+        "資歷深厚（2010 年營運至今）"
+      ],
+      "cons": [
+        "後台介面偏舊",
+        "高階方案價格較高"
+      ]
+    },
+    "siteground-grow-big": {
+      "badge": "🪜 中階最佳",
+      "review": "如果你需要實打實的效能，又不想付代管主機的價格，SiteGround GrowBig 是正確選擇。自家的 SiteGround Optimizer 外掛快取處理得不錯，測試環境也真的堪用。第二年每月 US$24 才是真實成本。比 Bluehost 值得，但快不過 Kinsta。",
+      "pros": [
+        "具備真正可用的測試環境",
+        "SiteGround Optimizer 外掛表現不俗",
+        "歐洲與美國皆設有機房"
+      ],
+      "cons": [
+        "第二年價格是首年優惠價的 4 倍",
+        "TTFB 明顯慢於 Kinsta 與 WP Engine"
+      ]
+    },
+    "bluehost-choice-plus": {
+      "badge": "💸 平價之選",
+      "review": "Bluehost Choice Plus 是最便宜又還堪用的 WordPress 主機，但僅限興趣型網站。客服照稿回覆。WordPress.org 長年推薦它，不過那份推薦反映的是 2010 年的現實，不是 2026 年的。",
+      "pros": [
+        "首年優惠價最低",
+        "WordPress 一鍵安裝",
+        "免費贈送 1 組網域"
+      ],
+      "cons": [
+        "負載下未快取的 TTFB 超過 1 秒",
+        "客服照稿回覆",
+        "第二年續約價是首年的三倍"
+      ]
+    },
+    "cloudways-vultr-wp": {
+      "badge": "🛠️ 玩家最愛",
+      "review": "Cloudways 讓你在自選的 DigitalOcean／Vultr／AWS／GCP 上跑代管 WordPress。你看得到底層 VPS——想要掌控權的人會覺得很讚，不想操心的人則會覺得麻煩。2022 年起由 DigitalOcean 收購。搭配 Vultr High Frequency 時，單位規格的性價比優於 Kinsta。",
+      "pros": [
+        "底層供應商任你挑",
+        "同規格下價格優於 Kinsta",
+        "用多少付多少的計費方式"
+      ],
+      "cons": [
+        "不像 Kinsta／WP Engine 那樣全程代勞",
+        "郵件代管需另外加購"
+      ]
+    }
+  },
+  "offerNotes": {
+    "kinsta-managed-wp": "至 kinsta.com 註冊。免費搬家服務內含，並提供 30 天退款保證。",
+    "wp-engine-managed-wp": "至 wpengine.com 註冊。常有「免費 4 個月」的優惠碼，下單前先查一下。",
+    "siteground-grow-big": "至 siteground.com 註冊。務必確認續約價格——優惠價只適用第一年。",
+    "bluehost-choice-plus": "至 bluehost.com 註冊——不過同價位帶不妨考慮 SiteGround 或 Cloudways。",
+    "cloudways-vultr-wp": "至 cloudways.com 註冊。對多數 WordPress 網站而言，底層選 Vultr High Frequency 最合適。"
+  },
+  "pinDescription": "架站主機別亂選！2026 WordPress 主機實測：Kinsta、WP Engine、SiteGround、Bluehost、Cloudways 五家對決。續約價陷阱、流量上限、快取與 CDN、免費搬家、客服回覆速度一次看懂 📌 #WordPress #網站架設 #主機推薦",
+  "recommendedFor": [
+    {
+      "label": "營收持續成長的 WooCommerce 店家",
+      "offerId": "kinsta-managed-wp",
+      "reason": "Kinsta 的 WooCommerce 結帳延遲僅 410 毫秒，加上 Cloudflare Enterprise 整合，能在流量擴大時直接守住轉換率。"
+    },
+    {
+      "label": "同時管理多個客戶網站的接案開發者",
+      "offerId": "wp-engine-managed-wp",
+      "reason": "Smart Plugin Manager 會跨站自動測試更新，加上 4 分鐘的客服回覆速度，客戶網站出狀況時能迅速排除。"
+    },
+    {
+      "label": "預算中等的中小企業經營者",
+      "offerId": "siteground-grow-big",
+      "reason": "SiteGround 的測試環境與 Optimizer 外掛帶來實質效能，不必付出代管主機每月 US$30 以上的價碼。"
+    },
+    {
+      "label": "剛要架設第一個網站的部落客與新手",
+      "offerId": "bluehost-choice-plus",
+      "reason": "首年每月 US$2.95 加上 WordPress 一鍵安裝，Bluehost 為沒有營收的興趣型網站掃除了所有門檻。"
+    },
+    {
+      "label": "想掌控基礎架構的開發者與 DevOps 工程師",
+      "offerId": "cloudways-vultr-wp",
+      "reason": "Cloudways 讓你直接接觸底層 VPS 並採用量計價，搭配 Vultr High Frequency 就能以更低價格達到 Kinsta 等級的 TTFB。"
+    }
+  ]
 }

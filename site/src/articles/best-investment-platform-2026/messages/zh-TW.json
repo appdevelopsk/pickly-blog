@@ -2,5 +2,147 @@
   "title": "2026年最佳投資平台：5款比較",
   "description": "看看2026年哪款投資平台在費用比率和平台功能方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "指數型 ETF 的內扣費用率",
+      "paragraphs": [
+        "Fidelity ZERO 系列基金：0.00%（FZROX、FZILX 等）——僅限 Fidelity 帳戶申購。",
+        "Vanguard ETF：VTI 為 0.03%、VXUS 為 0.07%、BND 為 0.03%，屬業界最低水準。",
+        "Schwab ETF：SCHB 為 0.03%、SCHE 為 0.06%、SCHZ 為 0.03%，與 Vanguard 相當。",
+        "其他平台：同樣能以零手續費買進上述 ETF，但多半沒有自家的零費用率基金。"
+      ]
+    },
+    {
+      "heading": "各種需求的最佳選擇",
+      "paragraphs": [
+        "綜合最佳：Fidelity。ZERO 基金零費用率、零交易手續費、24 小時電話客服，資產類別涵蓋面廣。",
+        "指數投資人首選：Vanguard。ETF 內扣費用率業界最低，也是指數化投資的開山者。",
+        "銀行＋券商整合：Schwab。帳戶與銀行服務整合，全球提款免手續費。",
+        "行動裝置／輕度投資：Robinhood。手機操作體驗最佳，但缺乏研究工具。",
+        "積極交易者：E*TRADE。Power E*TRADE 平台功能完整，選擇權交易強悍。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "做指數投資，選哪個平台真的有差嗎？",
+      "a": "差異有限——整體成本每年大約只差 0.01～0.05%。以 NT$600 萬本金、30 年計算，約是 NT$3.6 萬～18 萬的落差。金額不算小，但不至於改變人生。建議挑選能同時滿足你其他需求的平台。"
+    },
+    {
+      "q": "我該不該換平台？",
+      "a": "除非能省下 0.05% 以上的內扣費用，或換來實質有用的功能，否則不必。轉換的代價包括為轉出持股處理稅務表單，以及重新熟悉新介面。"
+    },
+    {
+      "q": "Robinhood 安全嗎？",
+      "a": "安全——與其他券商一樣受 SIPC 保障，標準保額為 50 萬美元。2021 年的 GameStop 事件雖然凸顯了 Robinhood 的訂單流收益模式，但帳戶本身的資產是安全的。"
+    },
+    {
+      "q": "Webull、Public、M1 呢？",
+      "a": "在特定需求下都可以考慮。Public 主打道德投資；M1 強調自動化資產配置；Webull 定位與 Robinhood 接近，但線圖工具更進階。"
+    }
+  ],
+  "products": {
+    "fidelity-platform": {
+      "badge": "🏆 綜合最佳",
+      "review": "對多數投資人來說，Fidelity 是綜合表現最好的投資平台。零最低門檻、零交易手續費，FZROX 內扣費用率 0.00%（市面上唯一真正零成本的基金），並提供 24 小時電話客服，主要城市設有實體分行。券商帳戶、退休帳戶、銀行服務與 HSA 全部整合在同一處。",
+      "pros": [
+        "FZROX 內扣費用率 0.00%",
+        "24 小時電話客服＋實體分行",
+        "資產類別涵蓋最廣"
+      ],
+      "cons": [
+        "ZERO 系列基金只能在 Fidelity 內部轉移（等於被綁定）",
+        "ActiveTraderPro 介面精緻度不如 ThinkOrSwim"
+      ]
+    },
+    "vanguard-platform": {
+      "badge": "💸 指數投資首選",
+      "review": "對長期買進持有的指數投資人而言，Vanguard 是對的選擇。ETF 內扣費用率業界最低——拉長到 30 年，比同業省下的 0.01～0.03% 複利累積下來相當可觀。由指數化投資之父 Jack Bogle 創立。介面偏舊（仍是 2010 年代的網站風格），但功能堪用。",
+      "pros": [
+        "ETF 內扣費用率最低",
+        "由指數化投資先驅 Jack Bogle 創立",
+        "業界標竿級 ETF（VTI、VXUS）"
+      ],
+      "cons": [
+        "介面老舊",
+        "主動交易工具有限"
+      ]
+    },
+    "schwab-platform": {
+      "badge": "🏦 銀行整合首選",
+      "review": "想同時整合銀行與券商服務，Schwab 是正解。零交易手續費，Schwab Bank 支票帳戶免收海外交易手續費，全球 ATM 提款免手續費。並提供免費的 Intelligent Portfolios 機器人理財。2023 年併購 TD Ameritrade 後，ThinkOrSwim 平台也納入 Schwab 旗下。",
+      "pros": [
+        "銀行與券商完整整合",
+        "全球 ATM 提款免手續費",
+        "擁有 ThinkOrSwim 平台（併購 TD 後）"
+      ],
+      "cons": [
+        "Intelligent Portfolios 的現金配置比重偏高",
+        "TD Ameritrade 移轉仍有部分磨合問題"
+      ]
+    },
+    "robinhood-platform": {
+      "badge": "📱 手機體驗最佳",
+      "review": "以手機為主的輕度投資人，選 Robinhood 準沒錯。業界最好的行動介面、零交易手續費，並支援零股（碎股）交易。但研究工具與進階功能都不如 Fidelity 或 Schwab。最適合偶爾買進大盤型 ETF 的人。",
+      "pros": [
+        "行動介面業界最佳",
+        "支援零股交易",
+        "開戶流程快速"
+      ],
+      "cons": [
+        "缺乏研究工具",
+        "採訂單流收益模式",
+        "帳戶類型選擇少"
+      ]
+    },
+    "etrade-platform": {
+      "badge": "📈 積極交易者首選",
+      "review": "積極交易者該用的是 E*TRADE。Power E*TRADE 平台提供進階線圖工具，對選擇權交易友善，且零交易手續費。目前隸屬 Morgan Stanley 旗下。Power E*TRADE 在主動交易與選擇權策略上的表現相當扎實。",
+      "pros": [
+        "Power E*TRADE 適合主動交易",
+        "選擇權平台功能強大",
+        "隸屬 Morgan Stanley"
+      ],
+      "cons": [
+        "介面對新手的親和力不如 Robinhood",
+        "與 Morgan Stanley 的整合仍在進行中"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-platform": "於 fidelity.com 開戶。ZERO 系列基金（FZROX、FZILX、FZIPX、FZIPX）為 Fidelity 獨家。",
+    "vanguard-platform": "於 investor.vanguard.com 開戶。VTI 與 VXUS 是其旗艦 ETF。",
+    "schwab-platform": "於 schwab.com 開戶。Schwab Bank 支票帳戶是最值得入手的功能。",
+    "robinhood-platform": "於 robinhood.com 或手機 App 開戶。訂閱 Robinhood Gold（每月 5 美元）可加購研究工具。",
+    "etrade-platform": "於 us.etrade.com 開戶。進階功能請改用 Power E*TRADE（與一般消費者版 App 分開）。"
+  },
+  "pinDescription": "2026 年美股券商怎麼選？Fidelity、Vanguard、Schwab、Robinhood、E*TRADE 五家一次比較，指數投資與主動交易各有解答。",
+  "recommendedFor": [
+    {
+      "label": "斤斤計較每一個基點的長期退休投資人",
+      "offerId": "fidelity-platform",
+      "reason": "Fidelity 的 FZROX 內扣費用率 0.00%，是市面上唯一真正零成本的基金，能在數十年的退休累積期省下複利吃掉的成本。"
+    },
+    {
+      "label": "堅持低成本指數化策略的被動投資人",
+      "offerId": "vanguard-platform",
+      "reason": "Vanguard 的 VTI 與 VXUS 內扣費用率僅 0.03～0.07%，屬業界最低；而創辦人 Jack Bogle 正是這套策略的開創者。"
+    },
+    {
+      "label": "經常出國、需要同時管理現金與投資的人",
+      "offerId": "schwab-platform",
+      "reason": "Schwab Bank 支票帳戶免收海外交易手續費，全球 ATM 提款也免費，是少數能讓現金跟著你自由移動的券商。"
+    },
+    {
+      "label": "資金不多、初次進場的年輕投資人",
+      "offerId": "robinhood-platform",
+      "reason": "Robinhood 的行動介面數一數二，加上零股交易，新手用任何金額都能買進高價股票與 ETF，完全沒有最低門檻。"
+    },
+    {
+      "label": "操作選擇權與多腳策略的積極交易者",
+      "offerId": "etrade-platform",
+      "reason": "Power E*TRADE 的進階線圖與選擇權工具組，能有效處理一般平台跑不動的複雜多腳策略。"
+    }
+  ]
 }

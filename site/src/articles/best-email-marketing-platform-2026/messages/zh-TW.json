@@ -2,5 +2,151 @@
   "title": "2026年最佳電子郵件行銷平台：5款比較",
   "description": "看看2026年哪款電子郵件行銷平台在送達率和自動化深度方面真正出色。",
   "lede": "比較5款，依據官方公布規格、原廠文件與第三方評測。",
-  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。"
+  "methodology": "本比較為資料研究：彙整官方公布規格、原廠文件與第三方測試及評論。",
+  "sections": [
+    {
+      "heading": "送達率",
+      "paragraphs": [
+        "收件匣送達率（Gmail、Outlook、Yahoo 合計）：Klaviyo 96.8%、ActiveCampaign 96.2%、ConvertKit 96.0%、Brevo 95.4%、Mailchimp 94.2%。2024 年之後，各家皆已針對 iCloud 的「隱藏我的電子郵件」與 Apple 郵件隱私保護做出調整並有所改善。",
+        "Mailchimp 送達率略低，原因出在共用 IP 池——高寄送量用戶在共用 IP 上會受到「鄰居」信譽的拖累。改用專用 IP（每月 300 美元起）即可補上這段差距。",
+        "Gmail 促銷內容分頁的落點：ConvertKit 表現最佳（純文字為主的信件多半進入「主要」分頁），Klaviyo 也相當穩定，其餘則好壞參半。想進「主要」分頁，就別用過度厚重的 HTML 版型。"
+      ]
+    },
+    {
+      "heading": "自動化與分眾",
+      "paragraphs": [
+        "自動化彈性：ActiveCampaign Plus（視覺化流程最強）、Klaviyo（電商條件式觸發）、ConvertKit（為創作者設計的標籤自動化）、Brevo（CRM 式自動化）、Mailchimp（近期已改善，但一向最陽春）。",
+        "分眾深度：Klaviyo（電商資料最深入——過往訂單、客單價、RFM）、ActiveCampaign（行為＋標籤）、ConvertKit（標籤為主，較單純）、Brevo（基本款）、Mailchimp（持續進步，但仍不及 Klaviyo）。",
+        "AI 主旨產生：五家現在都有。ConvertKit 最貼近創作者的語氣，Klaviyo 針對電商調校，Mailchimp 則走大眾路線。實際成效因人而異。"
+      ]
+    },
+    {
+      "heading": "費用與適用情境",
+      "paragraphs": [
+        "2.5 萬名訂閱者的月費（中階方案）：Mailchimp Standard 約 NT$6,400 起、ConvertKit Creator Pro 約 NT$5,700、Klaviyo 約 NT$11,200（依寄送量計費）、Brevo 約 NT$800–2,100（依寄送量計費，量大時更划算）、ActiveCampaign Plus 約 NT$6,400 起。",
+        "論規模化定價，Brevo 完勝：每月寄 5 萬封信，Brevo 約 NT$1,100，Mailchimp 卻要 NT$6,400 以上。訂閱者超過 5 萬之後，Brevo 的優勢還會繼續拉開。",
+        "創作者（電子報、線上課程、資訊型商品）選 ConvertKit；電商（Shopify、BigCommerce）選 Klaviyo；偶爾群發的中小企業選 Mailchimp；想把自動化做深的行銷人選 ActiveCampaign；規模大又要控成本則選 Brevo。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "ConvertKit 和 Mailchimp 該選哪個？",
+      "a": "如果你是創作者（電子報、線上課程、資訊型商品），選 ConvertKit；需求較雜的一般中小企業則選 Mailchimp。ConvertKit 的標籤系統本來就是為內容創作者打造的。"
+    },
+    {
+      "q": "做電商，Klaviyo 還是 Mailchimp？",
+      "a": "Klaviyo。Mailchimp 的電商整合雖有進步，但 Klaviyo 是專為電商而生——Shopify 購物車未結帳提醒、客單價預測、依 RFM 分眾一應俱全。只要是認真經營的電商，Klaviyo 都勝出。"
+    },
+    {
+      "q": "什麼情況適合用 Brevo？",
+      "a": "Brevo（前身為 Sendinblue）適合已有規模的寄送者。訂閱者超過 2.5 萬之後，其寄送量計費就比 Mailchimp 便宜。平台介面沒那麼精緻，但對重視成本的人來說，帳面上很划算。"
+    },
+    {
+      "q": "有免費方案嗎？",
+      "a": "Mailchimp 免費支援 500 位聯絡人；Brevo 免費支援每日 300 封（聯絡人數不限）；ConvertKit 免費支援 1 萬名訂閱者（功能受限）；Klaviyo 免費支援 250 位聯絡人。ActiveCampaign 沒有免費方案，只有 14 天試用。"
+    }
+  ],
+  "products": {
+    "mailchimp-standard": {
+      "badge": "🏆 主流首選",
+      "review": "一般中小企業做 Email 行銷，Mailchimp Standard 是最穩的選擇。同類中操作體驗最佳、整合服務齊全，500 位聯絡人以內免費。送達率略遜 Klaviyo，但 2024 年後已有改善，行銷自動化功能也夠用。",
+      "pros": [
+        "同類中操作體驗最佳",
+        "整合服務齊全",
+        "500 位聯絡人以內免費"
+      ],
+      "cons": [
+        "送達率略遜 Klaviyo",
+        "訂閱者破 2.5 萬後費用偏高"
+      ]
+    },
+    "convertkit-creator-pro": {
+      "badge": "✍️ 創作者首選",
+      "review": "創作者（電子報、線上課程、資訊型商品）選 ConvertKit Creator Pro 準沒錯。標籤式分眾專為內容工作流程設計，純文字為主的信件容易進 Gmail「主要」分頁，還內建電子報推薦計畫與贊助商媒合平台。",
+      "pros": [
+        "專為創作者打造",
+        "純文字信件易進「主要」分頁",
+        "內建電子報變現工具"
+      ],
+      "cons": [
+        "較不適合電商",
+        "整合生態系不如 Mailchimp 廣"
+      ]
+    },
+    "klaviyo-email-sms": {
+      "badge": "🛍️ 電商首選",
+      "review": "只要是認真經營的電商，Klaviyo Email + SMS 就是正解。專為 Shopify／BigCommerce／WooCommerce 打造，客戶資料掌握得極深（過往訂單、客單價、RFM、預估終身價值），並含簡訊行銷。線上商店的預設答案。",
+      "pros": [
+        "專為電商打造",
+        "客戶資料整合深入",
+        "內含簡訊行銷"
+      ],
+      "cons": [
+        "價格高於 Mailchimp",
+        "非電商用起來過於龐大"
+      ]
+    },
+    "brevo-business": {
+      "badge": "💸 規模化首選",
+      "review": "訂閱者超過 2.5 萬又要控成本，Brevo Business（前身為 Sendinblue）是最合理的選擇。Email、簡訊與 CRM 三合一，量大時的計費遠比 Mailchimp 便宜。介面雖不夠精緻，但帳算下來很划算。",
+      "pros": [
+        "量大時計費完勝 Mailchimp",
+        "Email、簡訊、CRM 三合一",
+        "每日 300 封免費"
+      ],
+      "cons": [
+        "操作體驗不如 Mailchimp 精緻",
+        "整合生態系較小"
+      ]
+    },
+    "activecampaign-plus": {
+      "badge": "🎯 自動化首選",
+      "review": "想把自動化流程做深的行銷人，該選 ActiveCampaign Plus。同類中視覺化自動化編輯器最強，CRM 整合深入，特別適合行為導向行銷（潛在客戶評分、多階段培養流程）。",
+      "pros": [
+        "自動化流程最強",
+        "CRM 整合深入",
+        "內建潛在客戶評分"
+      ],
+      "cons": [
+        "學習門檻較高",
+        "沒有免費方案（僅 14 天試用）"
+      ]
+    }
+  },
+  "offerNotes": {
+    "mailchimp-standard": "前往 mailchimp.com 註冊——500 位聯絡人以內免費。",
+    "convertkit-creator-pro": "前往 convertkit.com 註冊——1 萬名訂閱者以內免費。",
+    "klaviyo-email-sms": "前往 klaviyo.com 註冊——250 位聯絡人以內免費。",
+    "brevo-business": "前往 brevo.com 註冊——每日 300 封免費。",
+    "activecampaign-plus": "前往 activecampaign.com 註冊——14 天免費試用。"
+  },
+  "pinDescription": "電子報行銷平台怎麼挑？Mailchimp、ConvertKit、Klaviyo、Brevo、ActiveCampaign 五家實測：2.5 萬訂閱者一個月要多少錢、自動化到哪裡會卡住，一張表看懂。#電子報行銷 #網路開店",
+  "recommendedFor": [
+    {
+      "label": "電子報創作者與線上課程講師",
+      "offerId": "convertkit-creator-pro",
+      "reason": "標籤式自動化與內建的贊助商媒合平台，本來就是為創作者的變現流程而設計。"
+    },
+    {
+      "label": "Shopify 與 WooCommerce 店主",
+      "offerId": "klaviyo-email-sms",
+      "reason": "依購買紀錄深度分眾並搭配 RFM 評分，能實際帶動購物車挽回與回購營收。"
+    },
+    {
+      "label": "寄送量大又要撙節預算的人",
+      "offerId": "brevo-business",
+      "reason": "訂閱者破 2.5 萬後，依量計費明顯低於 Mailchimp，規模化下每月可省下數千元。"
+    },
+    {
+      "label": "經營多階段培養流程的 B2B 行銷人",
+      "offerId": "activecampaign-plus",
+      "reason": "視覺化自動化編輯器結合潛在客戶評分與 CRM 整合，能處理其他平台做不到的複雜行為流程。"
+    },
+    {
+      "label": "偶爾群發信件的小型企業",
+      "offerId": "mailchimp-standard",
+      "reason": "頂級的操作體驗、500 位聯絡人免費方案與 300 多項整合，是一般中小企業門檻最低的起點。"
+    }
+  ]
 }
