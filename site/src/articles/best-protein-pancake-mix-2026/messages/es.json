@@ -177,5 +177,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "Evaluamos cada producto en función de su perfil de sabor, la transparencia sobre su origen, la relación calidad-precio por porción, la calidad del envase y su rendimiento en los usos más habituales. Cotejamos las certificaciones documentadas y las reseñas verificadas de usuarios con las afirmaciones publicitarias."
+  "methodology": "Evaluamos cada producto en función de su perfil de sabor, la transparencia sobre su origen, la relación calidad-precio por porción, la calidad del envase y su rendimiento en los usos más habituales. Cotejamos las certificaciones documentadas y las reseñas verificadas de usuarios con las afirmaciones publicitarias.",
+  "recommendedFor": [
+    {
+      "label": "Gente con poco tiempo que quiere un desayuno rápido entre semana",
+      "offerId": "kodiak-cakes-power-cakes",
+      "reason": "Solo hay que añadir agua y aporta 14 g de proteína, así que tienes una comida completa post-entreno en menos de 5 minutos, sin pesar huevos ni leche."
+    },
+    {
+      "label": "Deportistas de competición que buscan exprimir su proteína diaria",
+      "offerId": "birch-benders-protein-pancake",
+      "reason": "Con 18 g de proteína en una mezcla que solo necesita agua, es la opción con más proteína de su categoría y sin ese regusto a tiza que hace insufrible comer otras mezclas a diario."
+    },
+    {
+      "label": "Veganos y personas sin lácteos que controlan sus macros",
+      "offerId": "bob-red-mill-protein-pancake",
+      "reason": "Su base de proteína de guisante, con certificación sin gluten y 100 % vegana, la convierte en la única opción válida para dietas vegetales y con restricciones por alérgenos."
+    },
+    {
+      "label": "Culturistas y competidores de físico en definición estricta",
+      "offerId": "carbon-fire-protein-pancake",
+      "reason": "25 g de proteína y solo 5 g de hidratos por ración: pensada para quien cumple objetivos de macros al detalle y no puede permitirse hidratos de más."
+    },
+    {
+      "label": "Aficionados al fitness en Japón que quieren evitar sobreprecios de importación",
+      "offerId": "nisshin-protein-hotcake-mix",
+      "reason": "30 g de proteína por ración a precio de supermercado local: sin aduanas ni esperas de envío, y con tanta o más proteína que las marcas estadounidenses."
+    }
+  ]
 }

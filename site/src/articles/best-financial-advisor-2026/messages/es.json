@@ -2,5 +2,147 @@
   "title": "Mejor asesor financiero 2026: 5 comparados",
   "description": "Comparamos Vanguard, Betterment, Fidelity, Schwab, Facet. Esto es lo que realmente destaca en estructura de tarifas y acceso al asesor para asesor financiero en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Comparativa de comisiones (cartera de 500.000 €)",
+      "paragraphs": [
+        "Vanguard PAS: 1.500 €/año (0,30% sobre patrimonio).",
+        "Betterment Premium: 2.000 €/año (0,40% sobre patrimonio, mínimo 100.000 €).",
+        "Fidelity Wealth Services: entre 2.500 € y 5.200 €/año (0,50%-1,04% sobre patrimonio).",
+        "Schwab Intelligent Portfolios: 0 €/año (solo robo, sin asesor humano).",
+        "Facet Wealth: entre 2.400 € y 6.000 €/año (cuota fija por suscripción, no ligada al patrimonio)."
+      ]
+    },
+    {
+      "heading": "El mejor para cada caso",
+      "paragraphs": [
+        "Mejor asesor humano barato: Vanguard PAS. 0,30% sobre patrimonio con asesores CFP con deber fiduciario.",
+        "Mejor opción digital: Betterment Premium. Acceso ilimitado a un CFP más robo-advisor por un 0,40% sobre patrimonio.",
+        "Mejor asesor humano de gama media: Fidelity Wealth Services. Asesor asignado desde 50.000 € de mínimo.",
+        "Mejor robo gratuito: Schwab Intelligent Portfolios. Cero comisiones de asesoramiento.",
+        "Mejor para carteras grandes: Facet Wealth. La cuota fija sale más barata que un porcentaje sobre patrimonio a partir de 1 millón de euros."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Necesito de verdad un asesor financiero?",
+      "a": "Depende: por debajo de 250.000 €, un robo-advisor (Schwab Intelligent Portfolios) o invertir tú mismo en indexados (Vanguard) suele bastar. A partir de 500.000 € y con una situación compleja (inmuebles, empresa propia, compensación de pérdidas fiscales), un asesor humano sí aporta valor."
+    },
+    {
+      "q": "¿Comisión sobre patrimonio o cuota fija?",
+      "a": "El porcentaje sobre patrimonio crece con la cartera: razonable entre 250.000 € y 500.000 €, caro a partir de 2 millones. La cuota fija (Facet) sale mejor por encima de 1 millón, pero es más cara con 250.000 €. Calcula el punto de equilibrio según tu caso."
+    },
+    {
+      "q": "¿Los robo-advisors funcionan bien?",
+      "a": "Sí, para carteras por debajo de 500.000 € con necesidades sencillas. Se encargan del reajuste y de la optimización fiscal a un coste menor. Se quedan cortos en planificación fiscal compleja, sucesiones o necesidades de autónomos y empresarios."
+    },
+    {
+      "q": "¿Y los asesores independientes que solo cobran honorarios?",
+      "a": "Muy recomendables en situaciones complejas. Cobran entre 200 € y 500 €/hora, o una tarifa cerrada por plan financiero (1.500-5.000 €), y no viven de comisiones. En EE. UU. puedes buscarlos en NAPFA.org o XY Planning Network; en España, en el registro de EAF de la CNMV."
+    }
+  ],
+  "products": {
+    "vanguard-pas": {
+      "badge": "🏆 Mejor humano barato",
+      "review": "Vanguard Personal Advisor Services es la opción acertada si buscas asesoramiento humano al mínimo coste. Un 0,30% sobre patrimonio (lo más bajo del sector para asesores de carne y hueso), CFP con deber fiduciario y foco en fondos Vanguard. Los CFP son asesores reales, no un algoritmo, y puedes consultarles sin límite. La mejor relación calidad-precio para carteras de 500.000 € a 5 millones.",
+      "pros": [
+        "0,30% sobre patrimonio (lo más bajo con asesor humano)",
+        "CFP con deber fiduciario",
+        "Integración con los fondos Vanguard"
+      ],
+      "cons": [
+        "Foco en fondos Vanguard (limitado a sus productos)",
+        "Menos personalizado que servicios con comisiones más altas"
+      ]
+    },
+    "betterment-premium": {
+      "badge": "💎 Mejor opción digital",
+      "review": "Betterment Premium es la opción acertada para quien vive en digital pero quiere hablar con un CFP. Un 0,40% sobre patrimonio, mínimo de 100.000 €, acceso ilimitado a CFP y un robo-advisor que se encarga de operar. Incluye optimización fiscal de pérdidas. Ideal si te manejas con la tecnología y quieres el híbrido robo + humano.",
+      "pros": [
+        "Acceso ilimitado a CFP",
+        "Automatización del robo-advisor",
+        "Optimización fiscal de pérdidas incluida"
+      ],
+      "cons": [
+        "Mínimo de 100.000 €",
+        "El 0,40% es más caro que Vanguard"
+      ]
+    },
+    "fidelity-wealth-services": {
+      "badge": "🏛️ Mejor humano de gama media",
+      "review": "Fidelity Wealth Services es la opción acertada si quieres asesoramiento humano clásico dentro de un bróker grande. Mínimo de 50.000 €, asesor asignado y entre un 0,50% y un 1,04% sobre patrimonio según el nivel de servicio. Encaja bien con clientes de Fidelity con más de 500.000 € que quieren un único interlocutor.",
+      "pros": [
+        "Asesor asignado en exclusiva",
+        "Integración con Fidelity",
+        "Varios niveles de servicio"
+      ],
+      "cons": [
+        "Del 0,50% al 1,04%: más caro que Vanguard",
+        "Mínimo de 50.000 €"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "🆓 Mejor robo gratuito",
+      "review": "Schwab Intelligent Portfolios es la opción acertada si buscas un robo-advisor sin comisiones. Cero coste de asesoramiento, mínimo de 5.000 € y planificación de objetivos incluida. Schwab gana dinero manteniendo en liquidez poco remunerada alrededor del 10% de tu cartera: ese es el peaje.",
+      "pros": [
+        "0 € de comisión de asesoramiento",
+        "Mínimo bajo, 5.000 €",
+        "Planificación de objetivos incluida"
+      ],
+      "cons": [
+        "Un 10% aparcado en liquidez mal remunerada",
+        "Sin acceso a asesor humano"
+      ]
+    },
+    "facet-wealth": {
+      "badge": "💸 Mejor para carteras grandes",
+      "review": "Facet Wealth es la opción acertada a partir de 1 millón de euros. Cuota fija por suscripción (2.400-6.000 €/año) en lugar de un porcentaje sobre el patrimonio, con un CFP asignado. Con una cartera de 2 millones, los 4.800 €/año de Facet salen mucho más baratos que un 0,30% sobre patrimonio (6.000 €/año).",
+      "pros": [
+        "Cuota fija (más barata por encima de 1 millón)",
+        "CFP asignado en exclusiva",
+        "Sin conflicto de interés ligado al patrimonio"
+      ],
+      "cons": [
+        "Cara con 250.000 € (la cuota supera el 1%)",
+        "Firma más pequeña que Vanguard o Fidelity"
+      ]
+    }
+  },
+  "offerNotes": {
+    "vanguard-pas": "Date de alta en investor.vanguard.com. Mínimo de 500.000 € para acceder a PAS.",
+    "betterment-premium": "Date de alta en betterment.com. Mínimo de 100.000 € para el nivel Premium; el nivel Digital (0,25% sobre patrimonio, sin acceso a CFP) no tiene mínimo.",
+    "fidelity-wealth-services": "Date de alta en fidelity.com o llama a su línea de gestión patrimonial. Mínimo de 50.000 €.",
+    "schwab-intelligent-portfolios": "Date de alta en schwab.com. Mínimo de 5.000 €.",
+    "facet-wealth": "Date de alta en facet.com. Modelo de cuota fija: pide presupuesto según tu complejidad patrimonial."
+  },
+  "pinDescription": "¿Merece la pena pagar un asesor financiero? Comparamos comisiones reales de Vanguard PAS, Betterment, Fidelity, Schwab y Facet para ver cuánto te cuesta cada euro invertido. Guarda este pin antes de firmar nada.",
+  "recommendedFor": [
+    {
+      "label": "Inversores que miran el coste, con carteras de 500.000 € a 5 millones",
+      "offerId": "vanguard-pas",
+      "reason": "Vanguard PAS cobra solo un 0,30% sobre patrimonio, la tarifa más baja con acceso a un CFP humano, lo que supone ahorrar miles de euros al año frente a la competencia."
+    },
+    {
+      "label": "Quien quiere automatización y, además, respaldo humano",
+      "offerId": "betterment-premium",
+      "reason": "Betterment Premium combina la optimización fiscal automática con acceso ilimitado a un CFP: perfecto si prefieres no estar encima de la cartera pero sí contar con criterio experto."
+    },
+    {
+      "label": "Clientes de Fidelity que buscan un asesor asignado",
+      "offerId": "fidelity-wealth-services",
+      "reason": "Fidelity Wealth Services asigna un único interlocutor y se integra sin fricción con tus cuentas de Fidelity a partir de 500.000 €."
+    },
+    {
+      "label": "Quien empieza a invertir con menos de 100.000 €",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Schwab Intelligent Portfolios no cobra comisión de asesoramiento y pide solo 5.000 €, así las comisiones no se comen las primeras ganancias."
+    },
+    {
+      "label": "Grandes patrimonios con 1 millón de euros o más",
+      "offerId": "facet-wealth",
+      "reason": "La cuota fija de Facet (2.400-6.000 €/año) gana al porcentaje sobre patrimonio por encima de 1 millón: hasta 1.200 €/año de ahorro frente al 0,30% de Vanguard en una cartera de 2 millones."
+    }
+  ]
 }

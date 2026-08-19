@@ -2,5 +2,151 @@
   "title": "Mejor seguro de discapacidad 2026: 5 pólizas comparadas",
   "description": "Comparamos Guardian, Principal, MassMutual, Breeze, Policygenius. Esto es lo que realmente destaca en definición de propia ocupación y prima para seguro de discapacidad en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Own-occupation: la distinción clave",
+      "paragraphs": [
+        "Own-occupation real (ocupación propia): paga la prestación si no puedes ejercer TU profesión concreta, aunque puedas trabajar en otra cosa. Un cirujano que ya no puede operar pero sí asesorar cobra la prestación íntegra.",
+        "Own-occupation modificada: solo paga si no puedes desempeñar NINGÚN trabajo acorde a tu formación y experiencia. Mucho más débil para profesionales con ingresos altos.",
+        "Aseguradoras con own-occ real: Guardian, Principal, MassMutual. Modificada: la mayoría de aseguradoras online económicas (Breeze la trae por defecto; la own-occ real se contrata como mejora)."
+      ]
+    },
+    {
+      "heading": "Primas mensuales reales",
+      "paragraphs": [
+        "Cardiólogo de 35 años, prestación de 18.000 €/mes, carencia de 90 días, cobertura hasta los 65: Guardian 440 €, Principal 420 €, MassMutual 435 €, Breeze (modificada) 285 €, Policygenius (la más barata) 400 €.",
+        "Ingeniero de software de 35 años, prestación de 7.200 €/mes, mismos parámetros: Guardian 133 €, Principal 124 €, MassMutual 128 €, Breeze 87 €, Policygenius 115 €. Diferencia entre modificada y own-occ real: entre un 25 % y un 50 %.",
+        "Coste de las garantías opcionales al mes: revalorización según IPC +27-55 €, opción de aumento futuro +14-27 €, gran invalidez +18-37 €."
+      ]
+    },
+    {
+      "heading": "Cuándo contratarlo",
+      "paragraphs": [
+        "Lo ideal: entre los 20 y los 30, con buena salud. La prima se fija según tu estado de salud al contratar, y después de un diagnóstico ya no hay forma de asegurarse.",
+        "Seguro colectivo de empresa frente a póliza individual: el colectivo suele cubrir el 60 % del salario base (sin bonus), con un tope de 9.000-13.500 €/mes y own-occ modificada. La póliza individual cubre esa diferencia.",
+        "Profesionales con ingresos altos (médicos, abogados, ingenieros): la póliza individual es imprescindible. El seguro colectivo por sí solo deja sin cubrir una parte importante de los ingresos."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Qué prestación necesito?",
+      "a": "Apunta al 60-70 % de tus ingresos netos. El máximo que aceptan las aseguradoras suele ser el 60 % del bruto: ese es el límite real."
+    },
+    {
+      "q": "Own-occ modificada: ¿compensa el ahorro?",
+      "a": "Para trabajo de oficina, puede que sí. Para especialistas (cirujanos, dentistas), no. El sentido de este seguro es proteger los ingresos de tu especialidad, y la modificada se carga esa protección."
+    },
+    {
+      "q": "¿Corto o largo plazo?",
+      "a": "La prioridad es el largo plazo (meses o años). El corto plazo (días o semanas) está bien, pero ese hueco lo suele cubrir el fondo de emergencia."
+    },
+    {
+      "q": "¿Por qué influye mi profesión?",
+      "a": "Las profesiones de más riesgo (cirujanos, dentistas que dependen de la vista) pagan primas más altas, pero obtienen cláusulas de own-occ más sólidas. En el trabajo de oficina las primas bajan, aunque la cobertura own-occ está menos afinada."
+    }
+  ],
+  "products": {
+    "guardian-individual-disability": {
+      "badge": "🏆 Mejor para profesionales",
+      "review": "Guardian Individual Disability Income es la opción acertada para profesionales con ingresos altos. Own-occupation real y póliza no cancelable. La prima es cara, pero refleja el clausulado más sólido del mercado.",
+      "pros": [
+        "Definición de own-occupation real",
+        "Póliza no cancelable",
+        "Buenas garantías opcionales"
+      ],
+      "cons": [
+        "Prima elevada",
+        "Suscripción exigente"
+      ]
+    },
+    "principal-individual-disability": {
+      "badge": "🥇 Mejor para sanitarios",
+      "review": "Principal Individual Disability es la opción acertada para médicos, dentistas y abogados. Own-occ real con un clausulado potente para especialidades. Muy competitiva en casos médicos y odontológicos.",
+      "pros": [
+        "Clausulado sólido para especialistas",
+        "Precios agresivos en médico/dental",
+        "Varias garantías opcionales"
+      ],
+      "cons": [
+        "Suscripción más dura fuera de sus nichos",
+        "Menos flexible fuera del sector sanitario"
+      ]
+    },
+    "mass-mutual-radius-disability": {
+      "badge": "🤝 Mejor mutualidad",
+      "review": "MassMutual Radius Choice Disability es la opción acertada si valoras el modelo de mutualidad. Los asegurados participan en los dividendos; el clausulado own-occ es sólido, aunque menos agresivo que Principal en el ámbito médico.",
+      "pros": [
+        "Mutualidad (posibles dividendos)",
+        "Clausulado own-occ sólido",
+        "Excelente calificación financiera"
+      ],
+      "cons": [
+        "Menos competitiva que Principal para especialistas",
+        "Resolución más lenta que Guardian"
+      ]
+    },
+    "breeze-simplified-disability": {
+      "badge": "💻 Mejor opción digital",
+      "review": "Breeze Simplified Disability es la opción acertada si quieres contratar rápido por internet y, en muchos casos, sin reconocimiento médico. Cobertura desde 45-135 €/mes. Own-occ modificada por defecto; la real se contrata como mejora.",
+      "pros": [
+        "Sin reconocimiento médico en muchos casos",
+        "Contratación online rápida",
+        "Prima más baja"
+      ],
+      "cons": [
+        "Own-occ modificada por defecto",
+        "Límites de cobertura menores que Guardian"
+      ]
+    },
+    "policygenius-disability-marketplace": {
+      "badge": "🛒 Mejor comparador",
+      "review": "Policygenius Disability Marketplace es la opción acertada para comparar varias aseguradoras (Guardian, Principal, MassMutual, Mutual of Omaha y otras) con una sola solicitud. Suele dar con el presupuesto más barato. Suscripción en 2-4 semanas.",
+      "pros": [
+        "Compara más de 5 aseguradoras",
+        "Suele encontrar el precio más bajo",
+        "Asesoramiento independiente"
+      ],
+      "cons": [
+        "Suscripción de 2 a 4 semanas",
+        "No están todas las aseguradoras del mercado"
+      ]
+    }
+  },
+  "offerNotes": {
+    "guardian-individual-disability": "Presupuesto a través de los asesores de Guardian. Provider Plus es su producto estrella.",
+    "principal-individual-disability": "Presupuesto en principal.com. HH 700 es su producto estrella.",
+    "mass-mutual-radius-disability": "Presupuesto a través de los asesores de MassMutual. Radius Choice es el producto estándar.",
+    "breeze-simplified-disability": "Presupuesto en meetbreeze.com: el proceso online más rápido.",
+    "policygenius-disability-marketplace": "Presupuesto en policygenius.com: ellos comparan el mercado por ti."
+  },
+  "pinDescription": "¿Y si mañana no pudieras ejercer tu profesión? Comparamos 5 seguros de incapacidad y la letra pequeña que decide si cobras o no.",
+  "recommendedFor": [
+    {
+      "label": "Cirujanos y especialistas médicos que protegen sus ingresos por intervenciones",
+      "offerId": "principal-individual-disability",
+      "reason": "El clausulado own-occ real de Principal, centrado en especialidades, paga la prestación íntegra si no puedes realizar tus intervenciones concretas, aunque sigas pudiendo asesorar."
+    },
+    {
+      "label": "Abogados y socios de despacho con ingresos altos",
+      "offerId": "guardian-individual-disability",
+      "reason": "El contrato no cancelable de Guardian congela la prima y la cobertura own-occ real, protegiendo unos ingresos que un abogado no se puede permitir dejar sin asegurar."
+    },
+    {
+      "label": "Autónomos y profesionales independientes",
+      "offerId": "breeze-simplified-disability",
+      "reason": "La contratación online sin reconocimiento médico y las primas bajas de Breeze son la vía más rápida para proteger tus ingresos cuando no tienes un seguro colectivo de empresa."
+    },
+    {
+      "label": "Quienes contratan por primera vez y no saben qué aseguradora les encaja",
+      "offerId": "policygenius-disability-marketplace",
+      "reason": "Policygenius consulta más de 5 aseguradoras con una única solicitud y te pone lado a lado los presupuestos de Guardian, Principal y MassMutual."
+    },
+    {
+      "label": "Quienes piensan a largo plazo y quieren participar en los beneficios",
+      "offerId": "mass-mutual-radius-disability",
+      "reason": "El modelo de mutualidad de MassMutual reparte dividendos entre los asegurados, combinando una buena protección own-occ con una participación financiera a largo plazo."
+    }
+  ]
 }

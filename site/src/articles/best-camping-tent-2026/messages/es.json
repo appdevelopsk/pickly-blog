@@ -93,5 +93,114 @@
     "nemo-dagger-2p": "Mejor carpa versátil de 3 estaciones a ~$400 — 42 pulgadas de altura (mayor de cualquier carpa de senderismo aquí), vestibulos duales (16 pies cuadrados), cubierta de poliéster, 3 lbs 9 oz empacada. Funciona tanto para acampar en auto como para senderismo de 3 estaciones. Limitación: más pesada que las opciones ultraligeras; más cara que el REI Passage 2 sin una clara ventaja de uso único; menor presencia de marca en el sendero."
   },
   "pinDescription": "5 carpas de camping comparadas para 2026: REI Passage vs Big Agnes Copper Spur vs MSR Hubba Hubba vs Coleman Sundome vs NEMO Dagger. Peso, espacio del vestibulo, clasificación climática — encuentra la carpa correcta antes de tu próximo viaje.",
-  "methodology": "Evaluamos cada opción según la amplitud de cobertura, la coherencia de las reseñas de viajeros reales, la relación calidad-precio frente a las alternativas, la capacidad de respuesta del servicio de atención al cliente y las limitaciones escondidas en la letra pequeña."
+  "methodology": "Evaluamos cada opción según la amplitud de cobertura, la coherencia de las reseñas de viajeros reales, la relación calidad-precio frente a las alternativas, la capacidad de respuesta del servicio de atención al cliente y las limitaciones escondidas en la letra pequeña.",
+  "products": [
+    {
+      "offerId": "rei-passage-2",
+      "badge": "Mejor relación calidad-precio",
+      "review": "La REI Passage 2 da justo en el punto para quien empieza en el senderismo con mochila o acampa los fines de semana y quiere una tienda de 3 estaciones de verdad sin pagar precios de experto. Varillas de aluminio DAC, doble techo de poliéster y montaje autoportante cubren lo esencial por aproximadamente la mitad de lo que cuesta una MSR Hubba Hubba 2. El ábside único de 0,79 m² traga dos pares de botas y una mochila de ataque, pero no dos mochilas grandes una al lado de la otra. Con 1,76 kg de peso empaquetado no es ultraligera, aunque la solidez estructural y los 102 cm de altura máxima la hacen sorprendentemente habitable para lo que cuesta. El programa de reparaciones de REI significa que una punta de varilla rota se arregla en vez de obligarte a comprar otra tienda.",
+      "pros": [
+        "Las varillas de aluminio DAC aguantan la estructura con viento real",
+        "El diseño autoportante se monta en suelo rocoso o duro",
+        "El doble techo de poliéster resiste mejor el envejecimiento por UV y humedad",
+        "El programa de reparaciones de REI cubre fallos de varillas y cremalleras"
+      ],
+      "cons": [
+        "El ábside único limita el espacio para el material de dos personas",
+        "El doble techo no baja tanto como en MSR o NEMO con lluvia racheada"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "big-agnes-copper-spur-ul2",
+      "badge": "Mejor ultraligera",
+      "review": "Con 1,08 kg empaquetada, la Copper Spur HV UL2 es la referencia ultraligera para quien cuenta cada gramo. El sistema de varillas con hub permite montar el doble techo y el interior a la vez, una ventaja real cuando hace mal tiempo: la mayoría de rivales te obligan a dejar la mosquitera al descubierto antes de cubrirla. Los dos ábsides suman 1,44 m² y dan a cada ocupante su propio espacio cubierto para el material, y las paredes casi verticales (el HV del nombre viene de high volume) recuperan superficie útil que otras tiendas igual de ligeras pierden. El doble techo de silnylon es el peaje: envejece antes que el poliéster y absorbe agua tras varias noches de lluvia. Merece el precio si haces kilómetros de verdad; difícil de justificar para acampadas ocasionales.",
+      "pros": [
+        "1,08 kg empaquetada: la más ligera de esta comparativa",
+        "Montaje simultáneo de techo e interior, que protege el material bajo la lluvia",
+        "Dos ábsides con puertas curvas que maximizan el aprovechamiento",
+        "Paredes HV casi verticales que aportan volumen interior real"
+      ],
+      "cons": [
+        "El silnylon absorbe agua y envejece antes que el poliéster",
+        "Precio elevado difícil de justificar para acampadas de fin de semana"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "msr-hubba-hubba-2",
+      "badge": "Mejor con mal tiempo",
+      "review": "La MSR Hubba Hubba 2 es la tienda a la que se recurre cuando el parte meteorológico pinta feo. Los dos ábsides suman 1,64 m² y dan a cada persona su puerta y su espacio cubierto para el material, y el doble techo de cobertura total llega casi hasta el suelo, así que la lluvia empujada por el viento no encuentra por dónde colarse. Las varillas de aluminio DAC Featherlite NSL mantienen la estructura con rachas que doblarían la fibra de vidrio. Los 2,66 m² de suelo y los 102 cm de altura son lo habitual en la categoría, y con 1,76 kg empaquetada pesa lo mismo que la REI Passage 2: aquí pagas el sobreprecio por la geometría frente al mal tiempo y el doble acceso, no por menos peso. La elección acertada para quien de verdad acaba pillando tormentas.",
+      "pros": [
+        "Dos ábsides con 1,64 m² combinados: lo máximo de esta comparativa",
+        "Doble techo de cobertura total que llega casi al suelo",
+        "Varillas DAC Featherlite NSL que aguantan viento sostenido",
+        "El historial estructural de MSR tras décadas de uso"
+      ],
+      "cons": [
+        "Pesa lo mismo que la REI Passage 2 por casi el doble de precio",
+        "El montaje requiere práctica para tensar bien el doble techo"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "coleman-sundome-2",
+      "badge": "Mejor para acampada en coche con presupuesto ajustado",
+      "review": "La Coleman Sundome 2 es la tienda adecuada si la vas a sacar del maletero dos veces al año. Por unos 120 € ofrece el mayor interior de esta comparativa (3,25 m² de suelo y 1,20 m de altura), lo que la hace realmente cómoda para dos personas que quieran sentarse, cambiarse de ropa y esperar a que pase el chaparrón de la tarde. El E-Port y las décadas de rodaje de Coleman en esta franja de precio se traducen en un montaje de minutos y en aguantar veranos de uso tranquilo. Los límites estructurales, eso sí, son reales: las varillas de fibra de vidrio se doblan con viento sostenido, el doble techo parcial deja la zona de la puerta expuesta con lluvia racheada y, con 2,21 kg, no pinta nada en una mochila. Quédate por debajo del límite del bosque y lejos de las tormentas serias.",
+      "pros": [
+        "3,25 m² de suelo y 1,20 m de altura: la más espaciosa de aquí",
+        "Menos de 120 € en un modelo probado tras décadas de producción",
+        "Se monta en menos de 10 minutos sin apenas práctica",
+        "Amplia disponibilidad en tienda de piezas y recambios"
+      ],
+      "cons": [
+        "Las varillas de fibra de vidrio se doblan y pueden partirse con viento sostenido",
+        "El doble techo parcial deja expuesta la zona de la puerta con lluvia racheada"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "nemo-dagger-2p",
+      "badge": "Mejor habitabilidad",
+      "review": "La NEMO Dagger 2P es la opción intermedia y polivalente para quien quiere confort interior moderno sin pagar el peaje del ultraligero. Con 107 cm es la tienda de mochilero con más altura máxima de esta comparativa: puedes sentarte erguido, ponerte las botas sin encorvarte y esperar a que escampe sin sentirte atrapado. Los dos ábsides suman 1,49 m² y permiten acceder al material por ambos lados, el doble techo de poliéster envejece mucho mejor que el silnylon y la geometría estable de las varillas afronta con solvencia las condiciones de 3 estaciones. Con 1,62 kg empaquetada se sitúa entre la REI Passage 2 y la Copper Spur UL2. NEMO se ve menos en los senderos que REI o MSR, pero la tienda está genuinamente bien construida.",
+      "pros": [
+        "107 cm de altura: la mayor de las tiendas de mochilero de aquí",
+        "Dos ábsides con 1,49 m² combinados para ambos ocupantes",
+        "El doble techo de poliéster dura más que el silnylon con lluvia sostenida",
+        "1,62 kg que equilibran peso y habitabilidad real"
+      ],
+      "cons": [
+        "Cuesta más que la REI Passage sin la ventaja del ultraligero",
+        "Al ser una marca menos extendida, los recambios escasean más"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para quien empieza a hacer travesías de fin de semana",
+      "offerId": "rei-passage-2",
+      "reason": "Varillas de aluminio DAC y montaje autoportante que cubren salidas de 3 estaciones de verdad por casi la mitad que las tiendas de gama experta."
+    },
+    {
+      "label": "Para travesías largas en ultraligero",
+      "offerId": "big-agnes-copper-spur-ul2",
+      "reason": "1,08 kg empaquetada y montaje simultáneo de techo e interior: el refugio para dos más ligero y solvente de la lista."
+    },
+    {
+      "label": "Para salidas con riesgo de tormenta",
+      "offerId": "msr-hubba-hubba-2",
+      "reason": "Los dos ábsides y el doble techo de cobertura total mantienen la lluvia racheada lejos de las puertas y del material guardado."
+    },
+    {
+      "label": "Para acampadas ocasionales en coche",
+      "offerId": "coleman-sundome-2",
+      "reason": "3,25 m² de suelo y 1,20 m de altura por menos de 120 €: la tienda ideal para sacarla dos veces al año."
+    },
+    {
+      "label": "Para uso mixto con prioridad en el confort",
+      "offerId": "nemo-dagger-2p",
+      "reason": "107 cm de altura y dos ábsides que aportan habitabilidad moderna sin precio de ultraligero ni renuncias en durabilidad."
+    }
+  ]
 }

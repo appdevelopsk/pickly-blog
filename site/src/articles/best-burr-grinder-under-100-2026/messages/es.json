@@ -58,5 +58,114 @@
     "javapresse-manual-burr-grinder": "Muelas cónicas de cerámica, ajustes de clic regulables, manivela manual. $25-40. Mejor molinillo manual de muelas — calidad de molienda consistente, listo para viajar, no requiere electricidad. 1-2 min por taza a mano. Correcto para viajes, acampar o uso diario de bajo volumen."
   },
   "pinDescription": "Mejores molinillos de muelas por menos de $100 en 2026: Baratza Encore vs OXO vs Capresso vs Bodum vs JavaPresse manual — consistencia de molienda, rango de ajustes y cuál es el mayor salto de calidad respecto a los molinillos de cuchilla.",
-  "methodology": "Evaluamos cada producto según la calidad de fabricación y los materiales, su rendimiento en el uso cotidiano en la cocina, la carga de limpieza y mantenimiento, la durabilidad a lo largo de años de uso, y la relación calidad-precio. Las especificaciones del fabricante se contrastaron con reseñas verificadas de compradores."
+  "methodology": "Evaluamos cada producto según la calidad de fabricación y los materiales, su rendimiento en el uso cotidiano en la cocina, la carga de limpieza y mantenimiento, la durabilidad a lo largo de años de uso, y la relación calidad-precio. Las especificaciones del fabricante se contrastaron con reseñas verificadas de compradores.",
+  "products": [
+    {
+      "offerId": "baratza-encore-burr-grinder",
+      "badge": "La mejor en general",
+      "review": "La Baratza Encore es el referente entre los molinillos de muelas de entrada y la vara de medir con la que se compara cualquier opción más barata. Muelas cónicas de acero de 40 mm, 40 puntos de molienda que van desde el fino para goteo hasta el grueso para prensa francesa, botón de pulso para tandas cortas y molienda por temporizador. El rango cubre todos los métodos que no son espresso —V60, AeroPress, prensa francesa, cold brew— sin obligarte a ceder en ninguno de los extremos. Su verdadero valor a largo plazo es la reparabilidad: Baratza vende recambios y ofrece servicio técnico oficial, así que una Encore bien cuidada aguanta una década o más. Por 130-150 € (a menudo 110-120 € en oferta) queda justo por encima del listón de los 100 €, pero la consistencia y esos más de 10 años de vida útil la hacen más rentable que molinillos eléctricos baratos que se desgastan y acaban en la basura.",
+      "pros": [
+        "40 puntos de molienda para todos los métodos salvo espresso",
+        "Muelas cónicas de acero de 40 mm con tamaño de partícula uniforme",
+        "Recambios y servicio técnico oficial disponibles",
+        "Botón de pulso para tandas cortas y molienda por temporizador"
+      ],
+      "cons": [
+        "Se sale ligeramente del presupuesto de 100 €",
+        "El motor suena más que el de molinillos de gama media"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "oxo-brew-conical-burr-grinder",
+      "badge": "Mejor relación calidad-precio",
+      "review": "El OXO Brew Conical Burr Grinder es la mejor opción eléctrica por debajo de 100 € gracias a su báscula integrada: dosificas por peso en lugar de moler durante un tiempo fijo, lo que da dosis mucho más constantes entre preparaciones y a medida que se vacía la tolva. Sus 15 puntos de molienda cubren de goteo a prensa francesa, las muelas cónicas de acero inoxidable dan una granulometría razonablemente uniforme y el motor es más silencioso que el de la Baratza Encore. Esos 15 puntos son un escalón claro por debajo de los 40 de la Encore —hay menos margen de ajuste fino—, pero para la mayoría de quienes preparan café en casa con un solo método, la resolución basta. Por 70-90 €, es el mejor argumento para no dar el salto a la Baratza si el presupuesto manda.",
+      "pros": [
+        "Báscula integrada que dosifica por peso y da resultados repetibles",
+        "Muelas cónicas de acero inoxidable",
+        "Motor más silencioso que el de la Baratza Encore",
+        "Se mantiene por debajo de los 100 €"
+      ],
+      "cons": [
+        "15 puntos son más bastos que los 40 de la Encore",
+        "La calibración de la báscula se desajusta y hay que reiniciarla de vez en cuando"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "capresso-infinity-plus",
+      "badge": "Mejor contra la electricidad estática",
+      "review": "El Capresso Infinity Plus hace girar sus muelas cónicas de acero inoxidable a unas deliberadas 450 RPM, y ese es el dato clave: menos velocidad significa menos calor por fricción y menos estática, lo que a su vez reduce los grumos y ese polvillo que se pega por todas partes en los molinillos que cargan mucho. Sus 16 puntos de molienda cubren el rango de goteo a prensa francesa. Frente al OXO cede en la dosificación: el Capresso usa un dial temporizador en lugar de báscula integrada, menos preciso para dosis medidas. La calidad de molienda a ajustes equivalentes está a la par con el OXO. Por 70-90 € es la elección acertada si te has hartado del polvillo estático o de que el molinillo caliente el café al molerlo.",
+      "pros": [
+        "Motor lento de 450 RPM que reduce la estática y el calor",
+        "16 puntos de molienda para todo el rango salvo espresso",
+        "Muelas cónicas de acero inoxidable",
+        "Menos café desperdigado en la boca de salida"
+      ],
+      "cons": [
+        "La dosificación por temporizador es menos precisa que la báscula del OXO",
+        "La molienda lenta alarga el tiempo por dosis"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "bodum-bistro-burr-grinder",
+      "badge": "Mejor para empezar",
+      "review": "El Bodum Bistro Burr Coffee Grinder es el molinillo eléctrico de muelas de entrada por 45-70 €: muelas cónicas de acero, 12 puntos de molienda y un recipiente de vidrio de borosilicato que reduce la estática al salir el café. La construcción es más ligera que la del OXO o el Capresso, los 12 puntos dejan menos margen de ajuste que la competencia y el conjunto está pensado para ajustarse a ese precio. Para quien viene de un molinillo de cuchillas y compra su primer molinillo de muelas, el salto en la taza es inmediato y evidente; el Bistro es un punto de partida legítimo asumiendo que en dos o tres años querrás mejorar. Es la entrada más barata a una molienda consistente, no la apuesta a largo plazo.",
+      "pros": [
+        "El molinillo eléctrico de muelas más barato de esta comparativa",
+        "Recipiente de vidrio que reduce la adherencia por estática",
+        "Muelas cónicas de acero con una uniformidad real frente a las cuchillas",
+        "Poco espacio en encimera, ideal para cocinas justas"
+      ],
+      "cons": [
+        "Solo 12 puntos de molienda: poco margen de ajuste fino",
+        "Su construcción ligera no llega a la longevidad de Baratza"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "javapresse-manual-burr-grinder",
+      "badge": "Mejor manual",
+      "review": "El JavaPresse Manual Burr Grinder es un molinillo de muelas de cerámica con manivela: giras a mano en lugar de depender de un motor. Las muelas cónicas de cerámica dan una uniformidad comparable a la de molinillos eléctricos de precio similar, con ajustes por clics que van de fino a grueso. El peaje es tiempo y esfuerzo: moler 20 gramos de café para un V60 son uno o dos minutos de manivela. Sin enchufe, sin ruido de motor y lo bastante compacto para meterlo en la mochila, que es justo por lo que los molinillos manuales dominan las categorías de camping y viaje. Por 25-40 € es la entrada más barata a una molienda de muelas de verdad, pero no es la herramienta para preparar varias tazas a diario.",
+      "pros": [
+        "Muelas de cerámica que muelen uniforme sin electricidad",
+        "Tamaño compacto para viajar y sin ruido de motor",
+        "El precio más bajo de la comparativa para una molienda de muelas real",
+        "Ajustes por clics de fino a grueso"
+      ],
+      "cons": [
+        "1-2 minutos de manivela por dosis",
+        "Poco práctico para varias tazas al día en casa"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Si quieres el mismo molinillo durante una década",
+      "offerId": "baratza-encore-burr-grinder",
+      "reason": "El servicio técnico oficial de Baratza y sus recambios hacen que la Encore dure más de 10 años, y ese es el marco realista para valorarla aunque se pase un poco de los 100 €."
+    },
+    {
+      "label": "Si buscas báscula integrada",
+      "offerId": "oxo-brew-conical-burr-grinder",
+      "reason": "El OXO es aquí el único molinillo por debajo de 100 € que dosifica por peso, y eso da resultados bastante más constantes que moler por tiempo."
+    },
+    {
+      "label": "Si estás harto del polvillo estático en la cocina",
+      "offerId": "capresso-infinity-plus",
+      "reason": "El motor lento de 450 RPM genera menos calor y menos estática que la competencia, lo que se traduce directamente en menos café desperdigado por la salida."
+    },
+    {
+      "label": "Si es tu primer molinillo de muelas y el presupuesto aprieta",
+      "offerId": "bodum-bistro-burr-grinder",
+      "reason": "Por 45-70 € el Bistro es el molinillo eléctrico de muelas más barato de la lista y el salto de calidad frente a uno de cuchillas se nota desde la primera taza."
+    },
+    {
+      "label": "Si viajas o haces camping",
+      "offerId": "javapresse-manual-burr-grinder",
+      "reason": "Las muelas de cerámica con manivela funcionan sin electricidad, caben en una mochila y ofrecen una uniformidad comparable a la de los eléctricos de entrada."
+    }
+  ]
 }

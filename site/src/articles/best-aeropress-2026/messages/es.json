@@ -58,5 +58,110 @@
     "fellow-prismo-aeropress-attachment": "Tapa de filtro de repuesto con válvula de presión y filtro de metal. $25-35. La mejor mejora estilo espresso para propietarios de AeroPress. Elimina el método invertido, permite pasar los aceites para un cuerpo más pleno. Requiere un AeroPress Original o Go existente."
   },
   "pinDescription": "Comparación de AeroPress 2026: Original vs Go vs Clear vs XL vs Fellow Prismo — qué prepara realmente el AeroPress, cómo se compara con la prensa francesa y el espresso, y qué modelo es el correcto para el café en casa frente al de viaje.",
-  "methodology": "Evaluamos cada producto según la calidad de fabricación y los materiales, su rendimiento en el uso cotidiano en la cocina, la carga de limpieza y mantenimiento, la durabilidad a lo largo de años de uso, y la relación calidad-precio. Las especificaciones del fabricante se contrastaron con reseñas verificadas de compradores."
+  "methodology": "Evaluamos cada producto según la calidad de fabricación y los materiales, su rendimiento en el uso cotidiano en la cocina, la carga de limpieza y mantenimiento, la durabilidad a lo largo de años de uso, y la relación calidad-precio. Las especificaciones del fabricante se contrastaron con reseñas verificadas de compradores.",
+  "products": [
+    {
+      "offerId": "aeropress-original",
+      "badge": "La mejor en general",
+      "review": "La AeroPress Original es la elección correcta por defecto para preparar café de especialidad taza a taza, y sigue siendo la cafetera para la que está calibrada prácticamente cualquier receta de AeroPress. El cilindro de polipropileno no contiene BPA, es apto para lavavajillas y aguanta caídas que harían añicos cualquier cerámica. La capacidad es de 1 a 3 tazas por prensada (unos 40-250 ml), lo que cubre desde un concentrado tipo espresso hasta extracciones largas. Incluye 350 filtros de papel y una cuchara dosificadora, así que puedes preparar tu primer café el mismo día que llega. Lo que la convierte en la referencia es su constancia: la misma receta da la misma taza tanto en casa como en la oficina o en la encimera de un apartamento de vacaciones.",
+      "pros": [
+        "De 1 a 3 tazas por prensada con el mismo equipo",
+        "Polipropileno sin BPA, apto para lavavajillas y resistente a caídas",
+        "Filtros de papel fáciles de encontrar y enorme repertorio de recetas",
+        "Se limpia expulsando la pastilla de café de una sola vez"
+      ],
+      "cons": [
+        "Solo prepara una taza: para dos personas hacen falta dos extracciones"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "aeropress-go-portable",
+      "badge": "La mejor para viajar",
+      "review": "La AeroPress Go comprime la Original dentro de un vaso de 350 ml que hace las veces de estuche: émbolo, cámara, tapa de filtro, filtros y varilla encajan todos dentro. La capacidad baja ligeramente a 1-2 tazas por prensada y la tapa del filtro es algo menos profunda que la de la Original, pero el mecanismo de extracción es idéntico. Para acampadas, habitaciones de hotel o el café del trayecto al trabajo, la Go resuelve el problema del equipaje que la Original ni siquiera plantea. Al moverse en la misma horquilla de 35-45 € que la Original, es una opción lateral más que una mejora: elígela cuando la portabilidad pese más que el volumen máximo de la taza.",
+      "pros": [
+        "Toda la cafetera se guarda dentro del vaso incluido",
+        "Mecanismo de extracción idéntico al de la Original",
+        "Usa los mismos filtros de papel que la AeroPress estándar",
+        "Tan compacta que cabe en el bolsillo de una mochila"
+      ],
+      "cons": [
+        "Capacidad menor, de 1-2 tazas frente a las 1-3 de la Original"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "aeropress-clear",
+      "badge": "La mejor para experimentar con recetas",
+      "review": "La AeroPress Clear iguala a la Original en medidas, capacidad y resultado en taza, y cambia el polipropileno opaco por plástico Tritan totalmente transparente. Ves el café a través del cilindro durante la infusión, algo realmente útil cuando estás afinando una receta nueva y observas a qué velocidad se oscurece la mezcla. Con sus 40-50 € pide un pequeño extra sobre la Original solo por el cuerpo transparente: la taza que sacas es indistinguible. Merece la pena si te gusta trastear con recetas o si la estética translúcida te atrae; si no, la Original da el mismo café por menos dinero.",
+      "pros": [
+        "El Tritan transparente te deja ver la infusión y el bloom",
+        "Misma capacidad y mismo rendimiento que la Original",
+        "Herramienta útil para aprender y desarrollar recetas",
+        "Sin BPA y apta para lavavajillas"
+      ],
+      "cons": [
+        "Cuesta 5-10 € más que la Original solo por la diferencia visual"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "aeropress-xl",
+      "badge": "La mejor por capacidad",
+      "review": "Lanzada en 2024, la AeroPress XL duplica el volumen de la Original hasta unos 500 ml en una sola prensada, suficiente para dos tazas estándar de 240 ml. El cilindro, más ancho, usa filtros de papel específicos XL (los de la Original no encajan), pero la técnica y la lógica de las recetas se trasladan tal cual: la mayoría multiplica por dos su receta de la Original y funciona. El émbolo cuesta más de empujar por el recorrido más largo, y ese es el peaje por preparar una segunda taza sin repetir el ciclo. Con sus 55-65 € cuesta bastante más que la Original, pero en casas de dos personas elimina la doble extracción que define las mañanas con el modelo estándar.",
+      "pros": [
+        "Una sola prensada da para dos tazas estándar",
+        "Las recetas de AeroPress existentes escalan de forma lineal",
+        "Misma limpieza rápida con filtro de papel y pastilla de café",
+        "Mismo perfil de extracción por presión que la Original"
+      ],
+      "cons": [
+        "Necesita filtros de papel específicos XL, no los del tamaño Original",
+        "El recorrido más largo del émbolo exige más fuerza"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "fellow-prismo-aeropress-attachment",
+      "badge": "La mejor mejora estilo espresso",
+      "review": "El Fellow Prismo es una tapa de filtro de recambio que se enrosca en la Original o en la Go y aporta dos cosas: una válvula que se activa por presión y retiene el líquido en la cámara hasta que empujas, y un filtro metálico de acero inoxidable de 0,2 mm que deja pasar más aceites del café que el papel. La válvula elimina el método invertido —puedes preparar el café en posición normal con cualquier receta— y el filtro metálico acerca el cuerpo de la bebida al terreno del espresso o la prensa francesa. Con molienda muy fina y una presión firme sacas un concentrado más denso del que permite una AeroPress estándar, aunque no es un espresso real de 9 bares. Con sus 25-35 € es un accesorio, no una cafetera independiente, y solo compensa si ya tienes una AeroPress.",
+      "pros": [
+        "La válvula por presión hace innecesario el método invertido",
+        "El filtro metálico retiene los aceites y da una taza con más cuerpo",
+        "Permite sacar un concentrado estilo espresso con la AeroPress",
+        "Recambio directo: no hace falta comprar otra cafetera"
+      ],
+      "cons": [
+        "Es solo un accesorio: necesitas una AeroPress Original o Go"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Si te estrenas en el café de especialidad",
+      "offerId": "aeropress-original",
+      "reason": "La Original cubre todas las recetas habituales al precio de entrada más bajo y sobrevive a una caída desde la encimera, así que es el punto de partida lógico antes de decidir qué mejorar."
+    },
+    {
+      "label": "Si viajas a menudo o te llevas el café al trabajo",
+      "offerId": "aeropress-go-portable",
+      "reason": "Todo se guarda dentro del vaso incluido, así que el kit completo cabe en el bolsillo de una mochila junto a una bolsita de café."
+    },
+    {
+      "label": "Si desarrollas recetas o aprendes mirando",
+      "offerId": "aeropress-clear",
+      "reason": "Ver cómo cambia el color de la mezcla a través de la cámara transparente te da feedback directo al calibrar moliendas o tiempos de infusión."
+    },
+    {
+      "label": "Si sois dos en casa",
+      "offerId": "aeropress-xl",
+      "reason": "Los 500 ml de una sola prensada dan para dos tazas completas en un solo ciclo, que es justo la principal limitación de la AeroPress estándar en pareja."
+    },
+    {
+      "label": "Si ya tienes una AeroPress y buscas cuerpo de espresso",
+      "offerId": "fellow-prismo-aeropress-attachment",
+      "reason": "La combinación de válvula de presión y filtro metálico de 0,2 mm da un extracto concentrado y rico en aceites que la AeroPress con filtro de papel no puede lograr."
+    }
+  ]
 }

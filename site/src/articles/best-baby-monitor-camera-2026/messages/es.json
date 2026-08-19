@@ -114,5 +114,32 @@
     "vtech-vm5263": "Disponible en vtech.com, Target, Walmart y Amazon. Hay varias variantes de tamaño de pantalla; la VM5263 es la de 5 pulgadas.",
     "miku-pro": "Disponible en mikucare.com. No requiere suscripción para las funciones básicas."
   },
-  "pinDescription": "Mejor vigilabebés con cámara 2026: 5 comparados. Comparado según especificaciones publicadas y análisis independientes."
+  "pinDescription": "Mejor vigilabebés con cámara 2026: 5 comparados. Comparado según especificaciones publicadas y análisis independientes.",
+  "recommendedFor": [
+    {
+      "label": "Padres primerizos ansiosos que vigilan las constantes del recién nacido",
+      "offerId": "owlet-cam-2",
+      "reason": "Se combina con el calcetín Owlet para recibir alertas de respiración y frecuencia cardíaca en tiempo real, así que la tranquilidad viene respaldada por datos."
+    },
+    {
+      "label": "Padres analíticos que registran cada métrica de sueño",
+      "offerId": "nanit-pro-camera",
+      "reason": "El seguimiento del sueño con IA desde arriba genera cada noche estadísticas de patrones y horas totales de sueño, sin necesidad de wearable."
+    },
+    {
+      "label": "Familias celosas de su privacidad que evitan dispositivos conectados a internet",
+      "offerId": "infant-optics-dxr-8",
+      "reason": "Funciona de forma totalmente autónoma, sin wifi ni nube: la pantalla de 13 cm para los padres va fina sin móvil ni router."
+    },
+    {
+      "label": "Familias con presupuesto ajustado que quieren equipar una segunda habitación",
+      "offerId": "vtech-vm5263",
+      "reason": "Por entre 120 y 160 €, con giro, inclinación, zoom y visión nocturna, cubre un segundo dormitorio o la casa de los abuelos sin disparar el gasto."
+    },
+    {
+      "label": "Padres tecnológicos que buscan detección de respiración sin wearables",
+      "offerId": "miku-pro",
+      "reason": "La detección de respiración por radar, sin contacto, controla la respiración sin ningún calcetín ni sensor pegado al bebé."
+    }
+  ]
 }

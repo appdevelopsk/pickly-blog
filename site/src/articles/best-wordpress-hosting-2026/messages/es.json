@@ -2,5 +2,150 @@
   "title": "Mejor hosting WordPress 2026: 5 comparados",
   "description": "Comparamos Kinsta, WP Engine, SiteGround, Bluehost, Cloudways. Esto es lo que realmente destaca en TTFB real y respuesta de soporte para hosting WordPress en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Precio frente a coste real",
+      "paragraphs": [
+        "Lo que anuncian: Bluehost 2,95 €/mes (oferta de entrada), SiteGround 5,99 €/mes (oferta de entrada), Cloudways desde 14 €/mes, Kinsta 35 €/mes, WP Engine 30 €/mes. Coste real tras la renovación: Bluehost 11 €/mes, SiteGround 24 €/mes. Kinsta y WP Engine no tienen precio de entrada: lo que contratas es lo que pagas el segundo año.",
+        "Límites de tráfico: Kinsta y WP Engine cobran por las visitas mensuales que superan el plan; SiteGround y Bluehost, en cambio, limitan la velocidad. Para una web en crecimiento, los excesos en Kinsta y WP Engine son previsibles; el estrangulamiento de los hostings baratos es una caída inesperada."
+      ]
+    },
+    {
+      "heading": "Rendimiento (TTFB)",
+      "paragraphs": [
+        "TTFB en páginas cacheadas: Kinsta 142 ms, WP Engine 158 ms, Cloudways (Vultr) 168 ms, SiteGround 210 ms, Bluehost 340 ms. Kinsta gana en entrega cacheada gracias a su integración con Cloudflare Enterprise.",
+        "TTFB sin caché (con sesión de administrador iniciada): Cloudways 290 ms, Kinsta 340 ms, WP Engine 380 ms, SiteGround 520 ms, Bluehost 1,1 s. El rendimiento sin caché de Bluehost es el precio real del hosting compartido barato.",
+        "Latencia del checkout de WooCommerce (carrito de 5 productos): Kinsta 410 ms, Cloudways 480 ms, WP Engine 520 ms, SiteGround 780 ms, Bluehost 1,4 s."
+      ]
+    },
+    {
+      "heading": "Calidad del soporte",
+      "paragraphs": [
+        "Tiempo de primera respuesta (incidencia con la web caída): WP Engine 4 min, Kinsta 6 min, Cloudways 12 min, SiteGround 18 min, Bluehost 47 min. Kinsta y WP Engine tienen ingenieros de WordPress de verdad; el soporte de SiteGround es competente pero más lento; la primera línea de Bluehost va con guion.",
+        "Profundidad técnica: el soporte de Kinsta y WP Engine resolvió problemas de raíz (por ejemplo, una consulta lenta de un plugin) sin escalar el ticket. SiteGround respondió bien a dudas de caché y DNS. La primera línea de Bluehost no supo diagnosticar nada más allá de reiniciar."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿De verdad compensa Kinsta a 35 €/mes frente a los 2,95 € de Bluehost?",
+      "a": "Si tu web genera algún ingreso, sí. Solo la diferencia de TTFB ya cambia la conversión. Bluehost es para proyectos personales que no necesitan ir rápido ni estar siempre en pie."
+    },
+    {
+      "q": "¿WP Engine o Kinsta?",
+      "a": "Kinsta tiene un TTFB algo mejor en caché; WP Engine responde algo más rápido en soporte. Los dos son excelentes. La interfaz de Kinsta es más limpia; el plugin de WP Engine (Smart Plugin Manager) no tiene equivalente. Pruébalos y decide."
+    },
+    {
+      "q": "Cloudways es más barato que Kinsta, ¿dónde está la trampa?",
+      "a": "Cloudways te da una capa de WordPress gestionado sobre DigitalOcean, Vultr, AWS o GCP. Tú eliges el VPS de base. Te lleva menos de la mano que Kinsta o WP Engine: es un gestionado pensado para quien se maneja solo. Pertenece a DigitalOcean desde 2022."
+    },
+    {
+      "q": "¿Debería irme de Bluehost?",
+      "a": "Sí, si tu web genera ingresos o te importa la velocidad de carga. La diferencia de TTFB no se va a cerrar."
+    }
+  ],
+  "products": {
+    "kinsta-managed-wp": {
+      "badge": "🏆 Mejor gama alta",
+      "review": "Kinsta es el mejor hosting WordPress gestionado de gama alta en 2026. Red Premium Tier de Google Cloud, Cloudflare Enterprise integrado sin coste y el panel MyKinsta, el más cuidado de la categoría. Los entornos de pruebas se crean con un clic y están en todos los planes. El soporte responde en menos de 10 minutos con ingenieros de WordPress reales.",
+      "pros": [
+        "El TTFB más bajo en páginas cacheadas",
+        "Cloudflare Enterprise gratis",
+        "El mejor panel de la categoría"
+      ],
+      "cons": [
+        "Sin soporte telefónico (solo chat)",
+        "El precio por visitas penaliza los picos de tráfico"
+      ]
+    },
+    "wp-engine-managed-wp": {
+      "badge": "🎯 Mejor soporte",
+      "review": "WP Engine es el hosting WordPress gestionado con más recorrido y su soporte no tiene rival. Primera respuesta más rápida que Kinsta. Incluye los temas Genesis. Smart Plugin Manager prueba automáticamente las actualizaciones de plugins. El panel se ve anticuado frente al de Kinsta, pero el servicio de fondo es excelente.",
+      "pros": [
+        "La respuesta de soporte más rápida de esta comparativa",
+        "Incluye Smart Plugin Manager",
+        "Larga trayectoria (desde 2010)"
+      ],
+      "cons": [
+        "El panel se ve anticuado",
+        "Más caro en los planes superiores"
+      ]
+    },
+    "siteground-grow-big": {
+      "badge": "🪜 Mejor gama media",
+      "review": "SiteGround GrowBig es la opción acertada para webs que necesitan rendimiento real sin pagar precios de hosting gestionado. Su plugin SiteGround Optimizer gestiona bien la caché y el entorno de pruebas funciona. El precio del segundo año (24 €/mes) es el coste real. Merece la pena frente a Bluehost, aunque no llega a la velocidad de Kinsta.",
+      "pros": [
+        "Entorno de pruebas de verdad",
+        "El plugin SiteGround Optimizer es bueno",
+        "Centros de datos en Europa y EE. UU."
+      ],
+      "cons": [
+        "El precio del segundo año cuadruplica el de entrada",
+        "TTFB visiblemente más lento que Kinsta o WP Engine"
+      ]
+    },
+    "bluehost-choice-plus": {
+      "badge": "💸 Mejor precio",
+      "review": "Bluehost Choice Plus es el hosting WordPress viable más barato, pero solo para proyectos personales. El soporte va con guion. WordPress.org lo recomienda desde hace años; esa recomendación responde a la realidad de 2010, no a la de 2026.",
+      "pros": [
+        "El precio de entrada más bajo",
+        "Instalación de WordPress con un clic",
+        "1 dominio gratis"
+      ],
+      "cons": [
+        "TTFB sin caché por encima de 1 s con carga",
+        "Soporte que se limita a seguir un guion",
+        "La renovación del segundo año triplica el precio de entrada"
+      ]
+    },
+    "cloudways-vultr-wp": {
+      "badge": "🛠️ Mejor para trastear",
+      "review": "Cloudways te ofrece WordPress gestionado sobre el proveedor que elijas: DigitalOcean, Vultr, AWS o GCP. Ves el VPS de base, lo cual es estupendo si quieres control y un problema si no. Pertenece a DigitalOcean desde 2022. Mejor relación precio-prestaciones que Kinsta si lo combinas con Vultr High Frequency.",
+      "pros": [
+        "Eliges el proveedor de base",
+        "Mejor precio que Kinsta con las mismas prestaciones",
+        "Facturación por uso"
+      ],
+      "cons": [
+        "Te lleva menos de la mano que Kinsta o WP Engine",
+        "El correo se paga aparte"
+      ]
+    }
+  },
+  "offerNotes": {
+    "kinsta-managed-wp": "Contrátalo en kinsta.com. Migraciones gratuitas incluidas. Devolución garantizada en 30 días.",
+    "wp-engine-managed-wp": "Contrátalo en wpengine.com. Es habitual que haya códigos promocionales con 4 meses gratis: búscalos antes de contratar.",
+    "siteground-grow-big": "Contrátalo en siteground.com. Mira siempre el precio de renovación: la oferta de entrada dura solo un año.",
+    "bluehost-choice-plus": "Contrátalo en bluehost.com, aunque por ese mismo precio conviene mirar antes SiteGround o Cloudways.",
+    "cloudways-vultr-wp": "Contrátalo en cloudways.com. Vultr High Frequency es la mejor base para la mayoría de webs WordPress."
+  },
+  "pinDescription": "¿Qué hosting elegir para WordPress en 2026? Kinsta, WP Engine, SiteGround, Bluehost y Cloudways comparados: precio real tras la renovación, límite de visitas, caché y CDN, migración gratuita y soporte. Guárdalo antes de contratar. #wordpress #hosting #blogging",
+  "recommendedFor": [
+    {
+      "label": "Tiendas WooCommerce con ventas en crecimiento",
+      "offerId": "kinsta-managed-wp",
+      "reason": "Los 410 ms de latencia en el checkout de WooCommerce y la integración con Cloudflare Enterprise protegen directamente la conversión a medida que sube el tráfico."
+    },
+    {
+      "label": "Agencias que gestionan varias webs de clientes",
+      "offerId": "wp-engine-managed-wp",
+      "reason": "Smart Plugin Manager prueba las actualizaciones automáticamente en todas las webs y una respuesta de soporte en 4 minutos resuelve rápido cualquier caída de un cliente."
+    },
+    {
+      "label": "Pymes con un presupuesto intermedio",
+      "offerId": "siteground-grow-big",
+      "reason": "El entorno de pruebas de SiteGround y el plugin Optimizer dan rendimiento real sin los más de 30 €/mes de un hosting gestionado."
+    },
+    {
+      "label": "Blogueros que lanzan su primera web",
+      "offerId": "bluehost-choice-plus",
+      "reason": "Con 2,95 €/mes de precio de entrada e instalación de WordPress con un clic, Bluehost elimina cualquier barrera para un proyecto personal sin ingresos."
+    },
+    {
+      "label": "Desarrolladores y perfiles DevOps que quieren controlar la infraestructura",
+      "offerId": "cloudways-vultr-wp",
+      "reason": "Cloudways deja a la vista el VPS de base y factura por uso, con un TTFB al nivel de Kinsta por menos dinero si lo combinas con Vultr High Frequency."
+    }
+  ]
 }

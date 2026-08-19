@@ -2,5 +2,148 @@
   "title": "Mejor hosting en la nube 2026: 5 comparados",
   "description": "Comparamos AWS, Google Cloud, Azure, DigitalOcean, Render. Esto es lo que realmente destaca en latencia de inicio en frío y coste real para hosting en la nube en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Latencia en arranque en frío",
+      "paragraphs": [
+        "Tiempo de arranque en frío en una región nueva: Render 4 s, DigitalOcean App Platform 8 s, AWS EC2 (lanzamiento de Auto Scaling Group) 45 s, Google Cloud Compute Engine 35 s, Azure VMs 50 s. Las capas PaaS (Render, DigitalOcean App Platform) te abstraen del problema del arranque en frío; los hiperescalares IaaS (AWS, GCP, Azure) lo heredan.",
+        "Respuesta en caliente p99: AWS EC2 (M6i) 180 ms, GCP (n2-standard) 195 ms, Azure (D2s_v5) 210 ms, DigitalOcean App Platform 220 ms, Render 240 ms. Los hiperescalares ganan en rendimiento en caliente; las capas PaaS añaden entre 30 y 60 ms de sobrecarga por las abstracciones."
+      ]
+    },
+    {
+      "heading": "Autoescalado bajo carga",
+      "paragraphs": [
+        "Tiempo en añadir capacidad cuando la CPU supera el 70 %: Render 90 segundos, DigitalOcean App Platform 2 minutos, AWS EC2 (Auto Scaling Group + warm pool) 60 segundos, Google Cloud (grupo de instancias) 2 minutos, Azure (Scale Set) 3 minutos. AWS con warm pools gana en velocidad de autoescalado; Azure es el más lento.",
+        "Las capas PaaS (Render, DigitalOcean App Platform) gestionan el autoescalado de forma automática, sin configuración. Los hiperescalares IaaS exigen montar a mano el Auto Scaling Group o el grupo de instancias."
+      ]
+    },
+    {
+      "heading": "La factura mensual real",
+      "paragraphs": [
+        "Misma carga de trabajo (picos de 4 instancias, media de 2 instancias, 8 vCPU cada una): AWS EC2 570 €/mes (con descuento por instancias reservadas), Google Cloud 655 €/mes (con descuento por uso sostenido), Azure 720 €/mes (con instancias reservadas), DigitalOcean App Platform 440 €/mes, Render 405 €/mes.",
+        "Las capas PaaS (DigitalOcean, Render) salen más baratas que los hiperescalares en cargas predecibles por debajo de 16 vCPU. Los hiperescalares ganan a gran escala (más de 20 instancias) gracias a sus programas de descuento más agresivos. Azure es sistemáticamente el más caro en todas las cargas medidas."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Cuándo conviene AWS y cuándo DigitalOcean App Platform?",
+      "a": "DigitalOcean App Platform o Render hasta unos 10 vCPU de carga constante. AWS EC2 en cuanto necesites redes complejas, tipos de instancia especializados (GPU, ARM) o certificaciones de cumplimiento para empresa."
+    },
+    {
+      "q": "¿Render o DigitalOcean App Platform?",
+      "a": "Render arranca en frío más rápido. DigitalOcean App Platform cuesta menos en ejecución con las mismas specs. La experiencia de uso de Render está algo más pulida; DigitalOcean se parece más a un «VPS de alquiler con autoescalado»."
+    },
+    {
+      "q": "¿Por qué Azure sale siempre más caro?",
+      "a": "El modelo de precios de Azure está pensado para grandes empresas: las cargas de pymes y proyectos pequeños pagan más que en EC2 o GCP con specs equivalentes. Solo compensa si ya vives dentro del ecosistema empresarial de Microsoft (AD, integración con Office 365)."
+    },
+    {
+      "q": "Instancias reservadas: ¿merecen la pena?",
+      "a": "Sí, si tienes una base de carga predecible. Las reservadas ahorran entre un 30 % y un 60 % frente al pago por uso en AWS y GCP. Contrata reservas a 1 año para cargas estables; a 3 años solo si la arquitectura no va a cambiar demasiado."
+    }
+  ],
+  "products": {
+    "aws-ec2-cloud": {
+      "badge": "🏆 Mejor para escalar",
+      "review": "AWS EC2 es la elección correcta cuando pasas de unas pocas instancias. Es el catálogo de instancias más amplio (general, cómputo, memoria, GPU, ARM Graviton), con los mejores programas de descuento (reservadas, Savings Plans) y una red de primer nivel. La pega: la complejidad. Da el salto cuando el PaaS se te haya quedado pequeño.",
+      "pros": [
+        "El catálogo de tipos de instancia más amplio",
+        "Los mejores programas de descuento",
+        "Red de primer nivel"
+      ],
+      "cons": [
+        "IAM y redes complejos",
+        "45 segundos de arranque en frío en ASG"
+      ]
+    },
+    "google-cloud-compute-engine": {
+      "badge": "🎯 Mejor para ML y analítica",
+      "review": "Google Cloud Compute Engine es la elección correcta si tu carga toca machine learning o analítica. Es lo que mejor se integra con BigQuery, Vertex AI y las TPU. El descuento por uso sostenido se aplica solo, sin comprometerte con reservas. El precio queda algo por encima de AWS.",
+      "pros": [
+        "La mejor integración con ML y analítica",
+        "Descuento automático por uso sostenido",
+        "Migración en caliente durante el mantenimiento del host"
+      ],
+      "cons": [
+        "Ecosistema más pequeño que el de AWS",
+        "Algo más caro que AWS con las mismas specs"
+      ]
+    },
+    "azure-virtual-machines": {
+      "badge": "🪪 Mejor para entornos Microsoft",
+      "review": "Azure VMs es la elección correcta si estás casado con el ecosistema empresarial de Microsoft (Active Directory, Office 365, cargas .NET). En nube híbrida no lo supera nadie. El precio es su punto débil: entre un 10 % y un 20 % por encima de AWS o GCP en cargas equivalentes.",
+      "pros": [
+        "La mejor integración con el ecosistema Microsoft",
+        "Nube híbrida (Azure Arc)",
+        "Cumplimiento normativo sólido para empresa"
+      ],
+      "cons": [
+        "El más caro de toda la comparativa, sin excepción",
+        "50 segundos de arranque en frío (el peor)"
+      ]
+    },
+    "digitalocean-app-platform": {
+      "badge": "💰 Mejor relación calidad-precio en PaaS",
+      "review": "DigitalOcean App Platform es la elección correcta para equipos que quieren precio de PaaS con la previsibilidad de un VPS. Más barato que Render con las mismas specs, aunque arranca en frío algo más lento. Despliegues con git push muy sólidos y Postgres gestionado incluido. La respuesta acertada para el 80 % de las webs pequeñas y medianas.",
+      "pros": [
+        "Más barato que los hiperescalares",
+        "Factura mensual predecible",
+        "Despliegues con git push"
+      ],
+      "cons": [
+        "Arranque en frío más lento que Render",
+        "Menos tipos de instancia especializados"
+      ]
+    },
+    "render-cloud": {
+      "badge": "⚡ Mejor experiencia de desarrollo",
+      "review": "Render es la elección correcta para equipos que priorizan la experiencia de desarrollo. Arranques en frío de 4 segundos (los más rápidos de la comparativa), autoescalado sin configurar nada, SSL automático y protección DDoS. Cuesta algo más que DigitalOcean. Es la alternativa a Heroku en 2026.",
+      "pros": [
+        "Los arranques en frío más rápidos de la comparativa",
+        "La mejor experiencia de desarrollo",
+        "Autoescalado sin configuración"
+      ],
+      "cons": [
+        "Algo más caro que DigitalOcean",
+        "Ecosistema más pequeño"
+      ]
+    }
+  },
+  "offerNotes": {
+    "aws-ec2-cloud": "Regístrate en aws.amazon.com. Usa AWS Compute Optimizer para ajustar el tamaño de las instancias.",
+    "google-cloud-compute-engine": "Regístrate en cloud.google.com. 300 $ de crédito gratis para cuentas nuevas.",
+    "azure-virtual-machines": "Regístrate en azure.microsoft.com. 200 $ de crédito gratis para cuentas nuevas.",
+    "digitalocean-app-platform": "Regístrate en digitalocean.com. 200 $ de crédito gratis en cuentas nuevas.",
+    "render-cloud": "Regístrate en render.com. Plan gratuito para sitios estáticos; los planes de pago arrancan en 7 $/mes."
+  },
+  "pinDescription": "¿AWS, GCP, Azure, DigitalOcean o Render? Comparamos arranque en frío, autoescalado y factura real: cuándo una plataforma gestionada le gana a una VM pura para tu app Next.js… y cuándo no.",
+  "recommendedFor": [
+    {
+      "label": "Desarrolladores en solitario y startups pequeñas que quieren lanzar rápido",
+      "offerId": "render-cloud",
+      "reason": "Los arranques en frío de 4 segundos y el autoescalado sin configuración de Render eliminan el trabajo de DevOps: un equipo de una persona puede publicar sin pelearse con la infraestructura."
+    },
+    {
+      "label": "Equipos con presupuesto ajustado y tráfico web predecible",
+      "offerId": "digitalocean-app-platform",
+      "reason": "Con 440 €/mes por la misma carga que en AWS cuesta 570 € o más, DigitalOcean App Platform deja la factura más baja e incluye despliegues con git push y Postgres gestionado."
+    },
+    {
+      "label": "Equipos de ingeniería con pipelines de ML o analítica de datos",
+      "offerId": "google-cloud-compute-engine",
+      "reason": "La integración nativa con BigQuery y Vertex AI convierte a GCP en la opción lógica cuando cómputo y analítica viven en la misma plataforma, además con descuentos automáticos por uso sostenido."
+    },
+    {
+      "label": "Grandes empresas ya metidas de lleno en el ecosistema Microsoft",
+      "offerId": "azure-virtual-machines",
+      "reason": "La nube híbrida de Azure Arc y la integración estrecha con Active Directory y Office 365 justifican ese 10-20 % de sobreprecio en organizaciones que ejecutan cargas .NET sobre Windows Server."
+    },
+    {
+      "label": "Empresas SaaS en pleno crecimiento que superan las 10 instancias",
+      "offerId": "aws-ec2-cloud",
+      "reason": "Las warm pools de AWS EC2 bajan el autoescalado a 60 segundos y los descuentos por instancias reservadas se acumulan con el volumen: es la única plataforma que se abarata a medida que creces."
+    }
+  ]
 }

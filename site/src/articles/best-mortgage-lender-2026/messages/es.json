@@ -2,5 +2,148 @@
   "title": "Mejor prestamista hipotecario 2026: 5 comparados",
   "description": "Comparamos Rocket Mortgage, Better, Ally, Chase, Navy Federal. Esto es lo que realmente destaca en tasas, tarifas y velocidad de procesamiento para prestamista hipotecario en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "Comparativa de tipos de interés y comisiones",
+      "paragraphs": [
+        "Con el mismo perfil, los tipos varían apenas un 0,125% entre entidades: las diferencias de verdad están en las comisiones.",
+        "Better Mortgage: sin comisiones del prestamista (según su publicidad). Ahorra entre 1.000 € y 3.000 € en la firma.",
+        "Rocket Mortgage: unos 1.200 € de comisión de apertura. Incluye garantía de bloqueo del tipo.",
+        "Ally Bank: 0 € de apertura en determinados productos; en el resto, unos 1.000 €.",
+        "Chase: entre 1.000 € y 1.800 € de apertura. Descuentos por vinculación si ya eres cliente de Chase.",
+        "Navy Federal: 0 € de apertura en préstamos VA. Enfocado a militares y veteranos."
+      ]
+    },
+    {
+      "heading": "La mejor opción según tu caso",
+      "paragraphs": [
+        "Mejor experiencia 100% digital: Rocket Mortgage. El proceso online más rápido y una gama de productos muy amplia.",
+        "Mejor para quien se maneja bien con la tecnología: Better Mortgage. Sin comisiones del prestamista y todo online.",
+        "Mejor para subrogar o refinanciar: Ally Bank. Tipos competitivos y buenas opciones de refinanciación.",
+        "Mejor banca tradicional: Chase. Oficinas físicas y descuentos por vinculación.",
+        "Mejor para familias militares: Navy Federal Credit Union. Especialistas en préstamos VA y opción sin seguro hipotecario."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Conviene pedir preaprobación en varias entidades?",
+      "a": "Sí. La preaprobación es una consulta 'blanda' que apenas afecta a tu historial crediticio. Comparar entre 3 y 5 entidades el mismo día minimiza el impacto sobre tu scoring y te da mucho margen para negociar el tipo."
+    },
+    {
+      "q": "¿De verdad salen más baratas las hipotecas 'sin comisiones'?",
+      "a": "Normalmente sí: el modelo sin comisiones de Better ahorra de 1.000 € a 3.000 € en la firma. Aun así, comprueba que el tipo sea competitivo, porque algunas entidades sin comisiones lo compensan con un interés algo más alto."
+    },
+    {
+      "q": "¿Cuánto tarda cada entidad en tramitar la hipoteca?",
+      "a": "Rocket y Better: de 30 a 45 días habitualmente. Bancos tradicionales (Chase): de 45 a 60 días. Navy Federal: de 30 a 45 días. La fecha prevista de firma es la que decide cuál te conviene."
+    },
+    {
+      "q": "¿Me interesa refinanciar?",
+      "a": "Merece la pena planteárselo si consigues bajar el tipo entre 0,75 y 1 punto Y vas a quedarte en la vivienda al menos 3 años más. Calcula en cuánto tiempo recuperas los gastos de la operación con el ahorro mensual."
+    }
+  ],
+  "products": {
+    "rocket-mortgage": {
+      "badge": "🏆 La mejor opción digital",
+      "review": "Rocket Mortgage es la elección acertada si buscas el proceso digital más rápido. Todo online, preaprobación en minutos y una gama amplia de productos (convencional, FHA, VA, jumbo). Con la app subir documentación y seguir el estado del expediente resulta cómodo. La tramitación suele llevar de 30 a 45 días.",
+      "pros": [
+        "El proceso online más rápido",
+        "Gama de productos muy amplia",
+        "Seguimiento del expediente desde la app"
+      ],
+      "cons": [
+        "1.200 € de comisión de apertura",
+        "Insisten mucho en venderte otros productos de Rocket"
+      ]
+    },
+    "better-mortgage": {
+      "badge": "💸 La mejor sin comisiones",
+      "review": "Better Mortgage es la elección acertada si te manejas bien con lo digital y no quieres pagar comisiones. Proceso online, tipos competitivos y sin comisión de apertura ni gastos del prestamista, según anuncian. Ahorra entre 1.000 € y 3.000 € en la firma frente a las entidades tradicionales. Eso sí, el análisis de riesgos es exigente: Better selecciona.",
+      "pros": [
+        "Sin comisiones del prestamista",
+        "Proceso 100% online",
+        "Tipos competitivos"
+      ],
+      "cons": [
+        "Criterios de concesión exigentes",
+        "Atención al cliente algo menos cuidada"
+      ]
+    },
+    "ally-mortgage": {
+      "badge": "🏦 La mejor para refinanciar",
+      "review": "Ally Bank Mortgage es la elección acertada para refinanciar. Banco online, tipos competitivos y buenos productos de refinanciación. Si ya tienes cuentas en Ally, todo queda integrado. Ideal si estás comparando entidades online para cambiar de hipoteca.",
+      "pros": [
+        "Tipos competitivos",
+        "Muy enfocado a la refinanciación",
+        "Integración con las cuentas de Ally Bank"
+      ],
+      "cons": [
+        "Sin oficinas físicas",
+        "Menos variedad de productos que Rocket"
+      ]
+    },
+    "chase-mortgage": {
+      "badge": "🏛️ El mejor banco tradicional",
+      "review": "Chase Mortgage es la elección acertada si prefieres que te atiendan en persona. Un banco grande con más de 4.700 oficinas y descuentos por vinculación si eres Chase Private Client (cuenta Chase Total Checking + saldos + cartera de inversión). Va más lento que las entidades digitales, pero el trato es más personal.",
+      "pros": [
+        "Atención presencial en oficina",
+        "Descuentos por vinculación con Chase Private Client",
+        "Solidez de un gran banco"
+      ],
+      "cons": [
+        "Tramitación más lenta",
+        "Comisiones más altas de media"
+      ]
+    },
+    "navy-federal-mortgage": {
+      "badge": "🪖 La mejor para militares",
+      "review": "Navy Federal Credit Union es la elección acertada para familias militares. Solo para militares y veteranos, especialistas en préstamos VA y con opción de prescindir del seguro hipotecario cuando la entrada es baja. Sus tipos en préstamos VA suelen estar entre 0,10 y 0,25 puntos por debajo del mercado.",
+      "pros": [
+        "Acceso para militares y veteranos",
+        "Opción sin seguro hipotecario",
+        "Especialistas en préstamos VA"
+      ],
+      "cons": [
+        "Acceso restringido",
+        "Pocos productos hipotecarios fuera de los VA"
+      ]
+    }
+  },
+  "offerNotes": {
+    "rocket-mortgage": "Solicítala en rocketmortgage.com o desde la app. La preaprobación online lleva entre 5 y 15 minutos.",
+    "better-mortgage": "Solicítala en better.com. La política de 'sin comisiones del prestamista' se aplica a la mayoría de productos: confírmalo en tu oferta concreta.",
+    "ally-mortgage": "Solicítala en ally.com. Las cuentas de Ally (ahorro, corriente) se integran y dan ventajas por vinculación.",
+    "chase-mortgage": "Solicítala en chase.com o en oficina. El nivel Chase Private Client (Total Checking + 250.000 $ o más) da descuentos en el tipo.",
+    "navy-federal-mortgage": "Solicítala en navyfederal.org. Para ser socio hace falta vínculo militar (en activo, retirado, familiar o personal civil del Departamento de Defensa)."
+  },
+  "pinDescription": "¿Hipoteca en 2026? Comparamos Rocket, Better, Ally, Chase y Navy Federal: comisiones reales, tipos y cuál elegir para comprar o refinanciar.",
+  "recommendedFor": [
+    {
+      "label": "Quien compra su primera vivienda y quiere una preaprobación online rápida",
+      "offerId": "rocket-mortgage",
+      "reason": "La app de Rocket y su preaprobación en 5-15 minutos quitan hierro a la primera compra, con muchas opciones FHA y convencionales."
+    },
+    {
+      "label": "Quien mira el presupuesto y quiere reducir los gastos del día de la firma",
+      "offerId": "better-mortgage",
+      "reason": "Al no cobrar comisión de apertura, Better ahorra entre 1.000 € y 3.000 € en la firma frente a las entidades tradicionales, y todo el proceso es online."
+    },
+    {
+      "label": "Quien ya tiene hipoteca y quiere refinanciarla",
+      "offerId": "ally-mortgage",
+      "reason": "La gama de productos de refinanciación de Ally y sus tipos competitivos la convierten en la mejor opción para cambiar tipo y plazo o sacar liquidez."
+    },
+    {
+      "label": "Grandes patrimonios que ya son clientes de Chase",
+      "offerId": "chase-mortgage",
+      "reason": "Los descuentos por vinculación de Chase Private Client y la atención en oficina premian a quien ya tiene 250.000 $ o más en el banco."
+    },
+    {
+      "label": "Militares en activo y veteranos que van a comprar casa",
+      "offerId": "navy-federal-mortgage",
+      "reason": "La especialización de Navy Federal en préstamos VA ofrece tipos entre 0,10 y 0,25 puntos por debajo del mercado y sin seguro hipotecario, solo para familias militares con derecho a ello."
+    }
+  ]
 }

@@ -2,5 +2,152 @@
   "title": "Mejor adaptador Bluetooth para auto 2026: 5 comparados",
   "description": "Comparamos Nulaxy, Anker, Doosl, CarlinKit, Ottocast. Esto es lo que realmente destaca en tipo de adaptador y calidad de audio para adaptador Bluetooth para auto en 2026.",
   "lede": "5 opciones comparadas a partir de especificaciones publicadas, documentación del fabricante y pruebas independientes.",
-  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes."
+  "methodology": "Esta comparativa se basa en investigación documental: especificaciones publicadas, documentación del fabricante y análisis independientes.",
+  "sections": [
+    {
+      "heading": "¿Qué adaptador para cada coche?",
+      "paragraphs": [
+        "Sin auxiliar, sin Bluetooth, solo radio FM (un Civic de 2008): transmisor FM (Nulaxy KM18 o Anker Roav SmartCharge F0). Es la calidad más baja —la FM tiene un ancho de banda muy limitado—, pero es la única salida en coches muy antiguos.",
+        "Con entrada auxiliar pero sin Bluetooth (un RAV4 de 2014): receptor Bluetooth para auxiliar (Doosl Bluetooth Receiver). Se enchufa al minijack de 3,5 mm. Es el mejor sonido de toda la comparativa.",
+        "CarPlay/Android Auto por cable pero sin inalámbrico (un Camry de 2019): adaptador de CarPlay inalámbrico (CarlinKit 3.0). Se conecta al puerto USB de CarPlay que ya tienes y convierte la conexión por cable en inalámbrica.",
+        "Coche moderno con CarPlay por cable pero quieres ver contenido (Netflix, YouTube): adaptador premium de CarPlay inalámbrico + streaming (Ottocast U2-X Pro). Incorpora punto de acceso 4G para reproducir en streaming."
+      ]
+    },
+    {
+      "heading": "Calidad de sonido",
+      "paragraphs": [
+        "Calidad de sonido (nota del 1 al 10): receptor auxiliar Doosl 9,0; CarPlay inalámbrico CarlinKit 9,5 (señal digital); Ottocast 9,5; transmisor FM Nulaxy 6,5; transmisor FM Anker 7,0.",
+        "La calidad de un transmisor FM está limitada por el propio ancho de banda de la radio FM: ruido de fondo e interferencias de frecuencia en ciudad. El Anker Roav suena algo más limpio que los transmisores FM baratos.",
+        "Los receptores auxiliares conservan la calidad porque se saltan la FM: Bluetooth digital → minijack de 3,5 mm, sin ruido de por medio."
+      ]
+    },
+    {
+      "heading": "Instalación y fiabilidad",
+      "paragraphs": [
+        "Tiempo de emparejamiento: receptores auxiliares 30 segundos; transmisores FM 1 minuto (hay que buscar una frecuencia libre); CarPlay inalámbrico 2-3 minutos (emparejamiento inicial); Ottocast 5 minutos (configurar el punto de acceso 4G).",
+        "Reconexión al arrancar el motor: los receptores auxiliares y el CarPlay inalámbrico se reconectan solos. Los transmisores FM obligan a volver a sintonizar la radio. El Ottocast pierde la conexión Wi-Fi/4G de vez en cuando.",
+        "Manos libres: los 5 lo admiten. Calidad: Doosl auxiliar > CarlinKit > Ottocast > Anker FM > Nulaxy FM. Los receptores auxiliares captan la voz con más claridad."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "¿Transmisor FM o receptor auxiliar?",
+      "a": "Si tu coche tiene entrada auxiliar, el receptor (Doosl) suena muchísimo mejor. El transmisor FM (Nulaxy, Anker) es la única opción en coches antiguos sin auxiliar. Si tienes auxiliar, no uses FM."
+    },
+    {
+      "q": "¿Merece la pena el CarPlay inalámbrico (CarlinKit)?",
+      "a": "Sí, si tu coche tiene CarPlay por cable y quieres quitarte el cable. La configuración se hace una sola vez y la ventaja la notas en cada trayecto. Entre 55 y 85 € es un precio razonable por la comodidad."
+    },
+    {
+      "q": "Ottocast: ¿Netflix en el coche?",
+      "a": "Funciona: lleva punto de acceso 4G integrado y manda Netflix o YouTube a la pantalla del coche. Solo para los PASAJEROS (nada de mirar mientras conduces). Los 280-370 € son un precio premium por esa comodidad."
+    },
+    {
+      "q": "¿No sería mejor comprar una radio nueva?",
+      "a": "Una radio doble DIN del mercado de accesorios con CarPlay inalámbrico cuesta 190-460 € más 90-180 € de instalación. Sustituye todo el equipo de sonido: mejor solución a largo plazo, pero un desembolso inicial mucho mayor."
+    }
+  ],
+  "products": {
+    "nulaxy-km18-bluetooth-fm": {
+      "badge": "🏆 Mejor transmisor FM",
+      "review": "El Nulaxy KM18 es la elección acertada para coches sin entrada auxiliar (de 2010 hacia atrás). Formato de transmisor FM, 19-28 €. La calidad de audio está limitada por el ancho de banda de la FM, pero no hay alternativa. Pantalla de 1,44\", carga por USB y manos libres.",
+      "pros": [
+        "La única opción en coches con solo radio FM",
+        "19-28 €, precio de entrada",
+        "Carga USB integrada"
+      ],
+      "cons": [
+        "Calidad de audio limitada por la FM",
+        "Hay que volver a sintonizar la frecuencia"
+      ]
+    },
+    "anker-roav-smartcharge-f0": {
+      "badge": "🥇 Mejor FM premium",
+      "review": "El Anker Roav SmartCharge F0 es el transmisor FM premium que hay que elegir. 33-42 €, dos puertos de carga USB-C e integración con app. Suena algo mejor que los transmisores FM baratos, aunque sigue atado a los límites de la FM.",
+      "pros": [
+        "Marca de garantía",
+        "Dos puertos USB-C",
+        "Integración con app"
+      ],
+      "cons": [
+        "Sigue limitado por la calidad de la FM",
+        "Cuesta el doble que un FM básico"
+      ]
+    },
+    "doosl-bluetooth-receiver": {
+      "badge": "🎧 Mejor para coches con auxiliar",
+      "review": "El Doosl Bluetooth 5.0 Receiver es la elección acertada si tu coche tiene entrada auxiliar. Suena muy por encima de cualquier transmisor FM porque se salta la radio. Tamaño mínimo y manos libres. 14-23 €.",
+      "pros": [
+        "El mejor sonido de la categoría",
+        "14-23 €, muy asequible",
+        "Tamaño diminuto"
+      ],
+      "cons": [
+        "Necesita entrada auxiliar en el coche",
+        "La calidad del micro varía según el modelo"
+      ]
+    },
+    "carlinkit-3-cplay2air-android-auto": {
+      "badge": "📱 Mejor CarPlay inalámbrico",
+      "review": "El CarlinKit 3.0 (CPlay2Air) es la elección acertada si tu coche tiene CarPlay por cable y lo quieres inalámbrico. Se conecta al puerto USB de CarPlay que ya existe y convierte la conexión por cable en inalámbrica. 55-85 €. Vale tanto para Apple CarPlay como para Android Auto.",
+      "pros": [
+        "Convierte CarPlay/Android Auto en inalámbrico",
+        "55-85 €, precio razonable",
+        "Fiable una vez emparejado"
+      ],
+      "cons": [
+        "Requiere CarPlay por cable en el coche",
+        "El emparejamiento inicial lleva 2-3 minutos"
+      ]
+    },
+    "ottocast-u2-x-pro-wireless": {
+      "badge": "🎬 Mejor para streaming",
+      "review": "El Ottocast U2-X Pro Wireless es la opción premium para quien quiera ver Netflix o YouTube en la pantalla del coche (para los pasajeros). CarPlay inalámbrico + Android Auto + punto de acceso 4G integrado. Precio premium de 280-370 €.",
+      "pros": [
+        "CarPlay inalámbrico + streaming",
+        "Punto de acceso 4G integrado",
+        "Acabado premium"
+      ],
+      "cons": [
+        "280-370 €, precio premium",
+        "Cortes puntuales de Wi-Fi/4G"
+      ]
+    }
+  },
+  "offerNotes": {
+    "nulaxy-km18-bluetooth-fm": "Cómpralo en amazon.es: busca una frecuencia FM libre para que suene lo mejor posible.",
+    "anker-roav-smartcharge-f0": "Cómpralo en anker.com o amazon.es: nuestra elección entre los transmisores FM premium.",
+    "doosl-bluetooth-receiver": "Cómpralo en amazon.es: solo funciona si tu coche tiene entrada auxiliar.",
+    "carlinkit-3-cplay2air-android-auto": "Cómpralo en amazon.es o carlinkitcarplay.com: necesita CarPlay por cable en el coche.",
+    "ottocast-u2-x-pro-wireless": "Cómpralo en ottocast.com o amazon.es: la opción premium para ver contenido en la pantalla del coche."
+  },
+  "pinDescription": "¿Tu coche no tiene Bluetooth? Aún tiene solución. Comparamos Nulaxy, Anker, Doosl, CarlinKit y Ottocast: transmisor FM, receptor auxiliar o CarPlay inalámbrico, según lo que lleve tu coche. Guía 2026. #coches",
+  "recommendedFor": [
+    {
+      "label": "Quien conduce un coche antiguo sin auxiliar ni Bluetooth",
+      "offerId": "nulaxy-km18-bluetooth-fm",
+      "reason": "En coches anteriores a 2010, el transmisor FM es la única forma de escuchar música sin cables. La pantalla del KM18 ayuda a encontrar rápido una frecuencia limpia."
+    },
+    {
+      "label": "Quien mira el precio pero carga con USB-C a diario",
+      "offerId": "anker-roav-smartcharge-f0",
+      "reason": "Los dos puertos USB-C permiten cargar móvil y tablet a la vez, y la fabricación de Anker justifica los 14 € extra frente a un transmisor FM genérico."
+    },
+    {
+      "label": "Quien cuida el sonido y tiene un coche con entrada auxiliar",
+      "offerId": "doosl-bluetooth-receiver",
+      "reason": "Se salta la FM por completo y ofrece una calidad casi de CD por 14-23 €. La mejor relación sonido-precio para cualquier coche con minijack de 3,5 mm."
+    },
+    {
+      "label": "Usuarios de iPhone hartos de desenredar el cable de CarPlay",
+      "offerId": "carlinkit-3-cplay2air-android-auto",
+      "reason": "Un emparejamiento único convierte tu puerto de CarPlay por cable en inalámbrico. A partir de ahí se reconecta solo en cada trayecto, sin tocar el cable."
+    },
+    {
+      "label": "Familias que hacen viajes largos con niños en el asiento de atrás",
+      "offerId": "ottocast-u2-x-pro-wireless",
+      "reason": "El punto de acceso 4G integrado lleva Netflix y YouTube directamente a la pantalla del coche y entretiene a los de atrás sin gastar los datos del móvil."
+    }
+  ]
 }
