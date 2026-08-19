@@ -116,5 +116,32 @@
     "anker-magnetic-magsafe-power-bank": "Доступен на anker.com и Amazon. Линейка «MagGo» поддерживает MagSafe — убедитесь, что модель совместима с MagSafe.",
     "iniu-portable-charger": "Доступен на iniushop.com и Amazon. Скидка Subscribe & Save обычно составляет 10-15%."
   },
-  "pinDescription": "Лучший дорожный портативный зарядник 2026: Anker 737 vs. Anker 313 vs. RAVPower PD Pioneer vs. Anker MagGo vs. INIU."
+  "pinDescription": "Лучший дорожный портативный зарядник 2026: Anker 737 vs. Anker 313 vs. RAVPower PD Pioneer vs. Anker MagGo vs. INIU.",
+  "recommendedFor": [
+    {
+      "label": "Тем, кто постоянно в разъездах с ноутбуком",
+      "offerId": "anker-power-bank-737",
+      "reason": "Отдача 140 Вт по USB-C PD заряжает MacBook Pro одновременно со смартфоном — один блок полностью заменяет зарядку от ноутбука."
+    },
+    {
+      "label": "Для коротких поездок на выходные",
+      "offerId": "anker-power-bank-313",
+      "reason": "Помещается в карман, а 10 000 мА·ч хватает на 2–3 полные зарядки телефона — и всё это за €30–50, так что потерю пережить не жалко."
+    },
+    {
+      "label": "Бэкпекерам в многодневных маршрутах",
+      "offerId": "ravpower-pd-pioneer",
+      "reason": "26 800 мА·ч — максимум, который разрешают провозить в ручной клади: больше семи зарядок телефона, прежде чем понадобится розетка."
+    },
+    {
+      "label": "Владельцам iPhone, уставшим от проводов",
+      "offerId": "anker-magnetic-magsafe-power-bank",
+      "reason": "MagSafe примагничивается к любому iPhone 12 и новее: телефон заряжается прямо в руке или в кармане, без единого кабеля."
+    },
+    {
+      "label": "Студентам за границей с ограниченным бюджетом",
+      "offerId": "iniu-portable-charger",
+      "reason": "€20–30 за тонкий корпус и 10 000 мА·ч: хватает на ежедневную подзарядку, не утяжеляя рюкзак и не разоряя дорожный бюджет."
+    }
+  ]
 }
