@@ -2,5 +2,150 @@
   "title": "Melhor software de RH 2026: 5 comparados",
   "description": "Comparamos BambooHR, Rippling, Gusto, Workday, Deel. Veja o que realmente se destaca em velocidade de onboarding e autoatendimento para software de RH em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Velocidade de onboarding",
+      "paragraphs": [
+        "Tempo para integrar um novo contratado (carta-proposta → todos os sistemas liberados): BambooHR 2 h (coordenação manual), Rippling 25 min (libera Slack/G Suite/equipamentos automaticamente), Gusto 45 min (folha de pagamento boa, RH básico), Workday 4 h (complexidade de grande empresa), Deel 30 min (contratações nos EUA), 1 hora (internacionais).",
+        "A vantagem do Rippling: ele libera contas de software (Slack, Google, GitHub, Notion), pede os equipamentos E cuida da papelada de admissão. A maioria das ferramentas de RH exige que você faça isso na mão."
+      ]
+    },
+    {
+      "heading": "Autoatendimento do funcionário",
+      "paragraphs": [
+        "Pedir férias, ver holerite, atualizar dados pessoais, consultar o organograma: os 5 fazem tudo isso. Qualidade da experiência: BambooHR > Gusto > Rippling > Deel > Workday.",
+        "App mobile: BambooHR é o melhor, Gusto vai muito bem, Rippling cumpre o papel, Deel é aceitável e o app do Workday funciona, mas tem cara de sistema corporativo pesado.",
+        "Portal de documentos e políticas: Rippling e BambooHR na frente. O Gusto tem armazenamento básico. O Workday é poderoso, mas a gestão de documentos é complicada."
+      ]
+    },
+    {
+      "heading": "Custo mensal total",
+      "paragraphs": [
+        "Custo mensal para 75 funcionários (plano voltado a RH): BambooHR Essentials US$ 99 + valor por funcionário (US$ 475 no total, cerca de R$ 2.600), Gusto Plus US$ 60 + US$ 12 × 75 = US$ 960 (~R$ 5.300), Rippling US$ 8 × 75 = US$ 600 (~R$ 3.300, modular, cresce conforme os recursos), Workday HCM ~US$ 1.500-2.250 (sob orçamento, US$ 20-30 por funcionário), Deel US$ 49 por funcionário na folha global e US$ 19 por funcionário nos EUA.",
+        "Custos escondidos: o Workday exige um parceiro de implantação (US$ 30 mil a 100 mil no início). O Rippling cobra por módulo (RH, folha, TI e financeiro são separados). O valor por funcionário do BambooHR pesa a partir de 100 pessoas."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "BambooHR ou Rippling?",
+      "a": "BambooHR para PMEs com foco em RH (até 200 funcionários) que querem a melhor experiência de uso. Rippling para empresas de perfil técnico que querem RH + TI + financeiro num lugar só."
+    },
+    {
+      "q": "Preciso de software de RH com menos de 50 funcionários?",
+      "a": "Com menos de 30 pessoas, planilha + uma folha de pagamento costuma dar conta. Passando de 30, você vai começar a precisar de controle estruturado de férias, guarda de documentos e fluxo de onboarding."
+    },
+    {
+      "q": "E o Deel para times distribuídos?",
+      "a": "O Deel é o melhor da categoria para funcionários e prestadores em mais de 150 países. Cuida de compliance, contratos e folha global. Faz menos sentido como RH principal de uma empresa que só contrata em um país."
+    },
+    {
+      "q": "Workday — quando vale a pena?",
+      "a": "O Workday HCM é para grandes empresas (500+ funcionários, implantação a partir de US$ 30 mil). Para a maioria das PMEs, BambooHR ou Rippling são escolhas melhores. A complexidade do Workday só se justifica em escala."
+    }
+  ],
+  "products": {
+    "bamboohr-essentials": {
+      "badge": "🏆 Melhor para PMEs",
+      "review": "O BambooHR Essentials é a escolha certa para PMEs com foco em RH e até 200 funcionários. Melhor experiência de uso da categoria, autoatendimento do funcionário imbatível e app mobile forte. Os US$ 99/mês + valor por funcionário pesam conforme o time cresce, mas o tempo economizado em cada admissão é real.",
+      "pros": [
+        "Melhor experiência de uso da categoria",
+        "Melhor autoatendimento para o funcionário",
+        "App mobile forte"
+      ],
+      "cons": [
+        "Cobrança por funcionário pesa a partir de 100",
+        "Suporte internacional limitado"
+      ]
+    },
+    "rippling-platform": {
+      "badge": "🏢 Melhor plataforma unificada",
+      "review": "O Rippling é a escolha certa para empresas de perfil técnico que querem RH + TI + financeiro unificados. Libera contas de software automaticamente, pede os equipamentos e cuida da papelada de admissão. Preço modular — você paga pelo que usa.",
+      "pros": [
+        "Libera software e equipamentos automaticamente",
+        "RH + TI + financeiro unificados",
+        "Fluxo de onboarding mais rápido"
+      ],
+      "cons": [
+        "O preço modular pode ficar confuso",
+        "Faz menos sentido para quem só precisa de RH"
+      ]
+    },
+    "gusto-hr-plus": {
+      "badge": "💼 Melhor RH com folha em primeiro lugar",
+      "review": "O Gusto Plus é a escolha certa se a folha de pagamento é a sua prioridade e o RH vem depois. Folha sólida e recursos de RH em evolução (férias, onboarding, guarda de documentos). Tem menos profundidade que o BambooHR em RH puro, mas o pacote sai mais em conta para times pequenos.",
+      "pros": [
+        "Base de folha de pagamento sólida",
+        "Recursos de RH em evolução",
+        "Bom custo-benefício no pacote"
+      ],
+      "cons": [
+        "Menos profundidade em RH que o BambooHR",
+        "Fica pequeno acima de 100 funcionários para quem exige muito do RH"
+      ]
+    },
+    "workday-hcm": {
+      "badge": "🏢 Melhor HCM corporativo",
+      "review": "O Workday HCM é a escolha certa para empresas com mais de 500 funcionários. Profundidade de recursos corporativos (plano de sucessão, gestão de treinamentos, análises avançadas). A implantação exige um parceiro (US$ 30 mil a 100 mil). Exagero para PMEs.",
+      "pros": [
+        "Profundidade de recursos corporativos",
+        "Análises e relatórios robustos",
+        "Referência do mercado em HCM"
+      ],
+      "cons": [
+        "Complexidade de sistema corporativo",
+        "Implantação de US$ 30 mil a 100 mil",
+        "Preço só sob orçamento"
+      ]
+    },
+    "deel-hr": {
+      "badge": "🌍 Melhor para times globais",
+      "review": "O Deel HR + Folha Global é a escolha certa para times distribuídos com funcionários e prestadores no exterior. Suporte a mais de 150 países, cuidando de compliance, contratos e folha global. É o padrão para empresas remote-first que contratam mundo afora.",
+      "pros": [
+        "Mais de 150 países atendidos",
+        "Compliance + contratos + folha",
+        "Melhor opção para times distribuídos"
+      ],
+      "cons": [
+        "Faz menos sentido como RH principal de um único país",
+        "Cobrança por funcionário no plano global"
+      ]
+    }
+  },
+  "offerNotes": {
+    "bamboohr-essentials": "Cadastre-se em bamboohr.com — tem teste gratuito.",
+    "rippling-platform": "Peça orçamento em rippling.com — preço modular.",
+    "gusto-hr-plus": "Cadastre-se em gusto.com — recursos de RH inclusos com a folha de pagamento.",
+    "workday-hcm": "Peça orçamento em workday.com — exige conversa com vendas + parceiro de implantação.",
+    "deel-hr": "Cadastre-se em deel.com — onboarding instantâneo para prestadores."
+  },
+  "pinDescription": "Seu RH ainda roda em planilha? Comparei BambooHR, Rippling, Gusto, Workday e Deel com 75 funcionários: quanto custa por pessoa, quem resolve folha e quem contrata no exterior sem dor de cabeça. #rh #gestaodepessoas #saas",
+  "recommendedFor": [
+    {
+      "label": "Quem toca o RH sozinho em PMEs de até 200 pessoas",
+      "offerId": "bamboohr-essentials",
+      "reason": "A experiência de uso e o autoatendimento do BambooHR permitem que uma única pessoa cuide de todo o ciclo do funcionário sem surtar."
+    },
+    {
+      "label": "Startups de tecnologia que admitem devs com stack completa",
+      "offerId": "rippling-platform",
+      "reason": "O Rippling libera Slack, GitHub e equipamentos em 25 minutos — acabando com a coordenação manual de TI a cada nova contratação."
+    },
+    {
+      "label": "Donos de pequenos negócios que priorizam folha sem erro",
+      "offerId": "gusto-hr-plus",
+      "reason": "O Gusto junta folha de pagamento e recursos de RH em evolução por um preço que sai em conta para times de até 100 pessoas cujo foco é a folha."
+    },
+    {
+      "label": "Líderes de RH em empresas com mais de 500 funcionários",
+      "offerId": "workday-hcm",
+      "reason": "Plano de sucessão, gestão de treinamentos e análises avançadas do Workday só justificam os US$ 30 mil de implantação em escala corporativa de verdade."
+    },
+    {
+      "label": "Fundadores remote-first que contratam prestadores em vários países",
+      "offerId": "deel-hr",
+      "reason": "O Deel resolve compliance, contratos e folha em mais de 150 países, deixando a contratação global regular sem precisar abrir empresa local."
+    }
+  ]
 }

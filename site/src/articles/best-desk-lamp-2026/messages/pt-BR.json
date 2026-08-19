@@ -102,5 +102,109 @@
     "baseus-monitor-light-bar": "Baseus i-wok Series barra de luz para monitor — alternativa econômica ao BenQ ScreenBar. Alimentação USB-C, faixa de controle tactil na barra, design de óptica assimétrica para iluminação de mesa sem reflexo na tela, montagem com clipe para molduras de monitor. Disponível nos principais varejistas online. A qualidade de construção é visivelmente mais leve do que o BenQ ScreenBar Halo — o mecanismo de clipe tem menos força de aperto e mais flexão no braço, e é menos seguro em molduras de monitor mais pesadas ou grossas; sem iluminação bias (sem retro-iluminação) — iluminação apenas de um lado; sem sensor ambiental — ajuste manual de brilho necessário quando a iluminação da sala muda; o CRI não é especificado de forma proeminente, e as barras de monitor econômicas nesta categoria rotineiramente medem abaixo de CRI 80 a temperaturas de cor frias, o que importa para tarefas criativas com precisão de cor; os controles tacteis na barra requerem um toque preciso e deliberado e são relatados como menos intuitivos do que um controlador sem fio dedicado."
   },
   "pinDescription": "5 luminárias de mesa comparadas para 2026 — barra de monitor vs luminária tradicional explicadas. Retro-iluminação bias BenQ ScreenBar Halo, Dyson Solarcycle premium, Elgato Key Light para chamadas de vídeo, Baseus econômico. A verdade sobre fadiga ocular, CRI para criativos, temperatura de cor e sono — fraqueza explícita em cada escolha. A iluminação do seu escritório em casa começa aqui.",
-  "methodology": "Cada produto foi avaliado com base em especificações documentadas, testes de desempenho independentes e relatos verificados de usuários. Atribuímos notas a recursos, desempenho, qualidade de construção, compatibilidade com o ecossistema e custo total de propriedade."
+  "methodology": "Cada produto foi avaliado com base em especificações documentadas, testes de desempenho independentes e relatos verificados de usuários. Atribuímos notas a recursos, desempenho, qualidade de construção, compatibilidade com o ecossistema e custo total de propriedade.",
+  "products": [
+    {
+      "offerId": "benq-screenbar-halo",
+      "badge": "Escolha antifadiga visual",
+      "grade": "A+",
+      "review": "A BenQ ScreenBar Halo é a barra de luz para monitor mais completa da comparação: reúne óptica assimétrica, que joga a luz sobre a mesa sem refletir na tela, uma fita de LED traseira que faz a iluminação de fundo atrás do monitor e um sensor de ambiente que ajusta o brilho sozinho para manter o lux constante na superfície. O controle sem fio em formato de disco é o detalhe prático que muda o dia a dia — você regula brilho e temperatura de cor de 2.700 a 6.500 K sem precisar enfiar a mão atrás do monitor. A BenQ declara IRC 95+, nível de reprodução de cor em que revisar documentos e conferir cores sem rigor continuam confiáveis. Ela só funciona presa ao monitor, não tem opção de base para mesa, puxa energia USB do hub do próprio monitor e, no preço premium, custa cerca de seis vezes o valor da Baseus. Para quem passa o dia diante da tela e quer reduzir o cansaço visual, ela segue sendo a referência.",
+      "pros": [
+        "Óptica assimétrica ilumina a mesa sem causar reflexo na tela",
+        "Luz de fundo traseira reduz o contraste entre tela e ambiente",
+        "Controle sem fio em disco e sensor de ambiente com ajuste automático de brilho"
+      ],
+      "cons": [
+        "Só com fixação no monitor — a BenQ não oferece base de mesa",
+        "Cerca de 6x o preço de barras de monitor mais baratas equivalentes"
+      ]
+    },
+    {
+      "offerId": "elgato-key-light",
+      "badge": "Luz para câmera",
+      "grade": "A",
+      "review": "A Elgato Key Light foi feita para iluminar o rosto na câmera, não para trabalhar na mesa, e dentro dessa função é a opção mais capaz daqui. O painel difuso de 2.500 lux cobre de 2.900 a 7.000 K, e o app Elgato Control Center somado à integração com o Stream Deck permite deixar temperatura de cor e brilho pré-configurados para lives, calls com clientes e gravações. A luz sai uniforme o bastante para evitar aquelas sombras duras que luminárias de ponto único criam. A garra de mesa exige uma borda firme de pelo menos 6 cm e não funciona em vidro nem em tampos finos, a dependência do app deixa a luminária em si com controle mínimo e apontar 2.500 lux para o próprio rosto enquanto você digita é desconfortável e inútil como iluminação de trabalho. Para quem fica horas em frente à câmera, a Key Light justifica o espaço que ocupa; para o resto, é a ferramenta errada.",
+      "pros": [
+        "Painel difuso de 2.500 lux com faixa de 2.900 a 7.000 K pensada para câmera",
+        "Integração com Stream Deck e app para acionar presets com um toque",
+        "Luz difusa evita sombras duras de fonte pontual"
+      ],
+      "cons": [
+        "Não é luminária de trabalho — ilumina só de frente, para o rosto",
+        "Exige borda de mesa firme com mais de 6 cm e o app da Elgato para controle completo"
+      ]
+    },
+    {
+      "offerId": "dyson-solarcycle-morph",
+      "badge": "Premium tudo em um",
+      "grade": "A",
+      "review": "A Dyson Solarcycle Morph é a luminária física mais versátil daqui, com modos de luz de trabalho, ambiente, indireta e decorativa acessíveis girando o braço dentro da amplitude prevista. A Dyson declara 150.000 horas de vida útil do LED graças ao sistema de resfriamento por heat pipe, IRC 98 e cobertura de 2.700 a 6.500 K, além de um algoritmo de ciclo diário personalizado que usa idade e horário informados pelo app Dyson Link. A articulação faz dela uma solução crível de luminária única para um espaço que precisa tanto de luz focada sobre a mesa quanto de luz indireta mais suave refletida na parede. No preço de topo de linha, custa cerca de três vezes a segunda opção mais cara, o algoritmo e o campo de idade são mais complexidade do que a maioria das pessoas jamais vai usar, e a base pesada de estabilidade dificulta mudar a luminária de lugar. Engenharia de verdade, preço de verdade também.",
+      "pros": [
+        "Modos de trabalho, ambiente, indireta e decorativa em um único braço",
+        "IRC 98 declarado pela Dyson e cobertura de 2.700 a 6.500 K",
+        "Resfriamento por heat pipe com promessa de 150.000 horas de LED"
+      ],
+      "cons": [
+        "Cerca de 3x o preço da segunda opção mais cara da lista",
+        "Base pesada de estabilidade desestimula reposicionar com frequência"
+      ]
+    },
+    {
+      "offerId": "panasonic-led-desk-lamp-wireless",
+      "badge": "Base carregadora",
+      "grade": "B+",
+      "review": "A luminária de mesa LED da TaoTronics mantém uma mesa compacta organizada, juntando a luz de trabalho a um carregador sem fio Qi integrado e uma porta USB-A na base. O carregador embutido significa um acessório a menos sobre a mesa e um cabo a menos até a tomada, o que numa superfície pequena de home office é um ganho prático real. Ela oferece vários modos de cor e níveis de brilho pelos controles de toque na base. O carregador Qi tem velocidade modesta, então serve melhor para completar a bateria de forma passiva do que como carregador principal, e não há app nem integração com casa inteligente. A construção é de plástico, não de metal premium, e o visual é utilitário, mas ela é honesta sobre o que é.",
+      "pros": [
+        "Carregador Qi integrado elimina um cabo da mesa",
+        "Porta USB-A e vários modos de cor selecionáveis por toque",
+        "Ocupa pouco espaço, ideal para mesas pequenas"
+      ],
+      "cons": [
+        "Carregador Qi é lento — serve para completar bateria, não como principal",
+        "Construção em plástico e sem IRC divulgado para trabalhos que exigem cor fiel"
+      ]
+    },
+    {
+      "offerId": "baseus-monitor-light-bar",
+      "badge": "Barra de monitor econômica",
+      "grade": "B+",
+      "review": "A Baseus i-wok entrega a função essencial de uma barra de luz para monitor — iluminar a mesa sem reflexo na tela, via óptica assimétrica — por um preço acessível, e esse é o principal motivo para considerá-la. A alimentação USB-C mantém a quantidade de cabos baixa, e uma faixa de controle por toque na própria barra cuida do brilho e da temperatura de cor. O acabamento é visivelmente mais leve que o da ScreenBar Halo, o mecanismo de clipe aperta bem menos em molduras grossas e há folga no braço. Não tem luz de fundo traseira, não tem sensor de ambiente para ajuste automático e o IRC não é destacado nas especificações, o que normalmente indica 80 ou menos nas temperaturas mais frias. Para quem quer experimentar esse tipo de iluminação antes de investir, ou só precisa acabar com o reflexo na mesa, a i-wok é o ponto de entrada certo.",
+      "pros": [
+        "Óptica assimétrica entrega a função essencial da barra por pouco dinheiro",
+        "Alimentação USB-C com um único cabo até o hub do monitor",
+        "Faixa de controle por toque para brilho e temperatura de cor"
+      ],
+      "cons": [
+        "Sem luz de fundo traseira e sem sensor de ambiente",
+        "Acabamento e força do clipe visivelmente inferiores aos da BenQ Halo"
+      ]
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Quem passa o dia na tela e quer cansar menos a vista",
+      "offerId": "benq-screenbar-halo",
+      "reason": "Óptica assimétrica somada à luz de fundo traseira e ao ajuste automático de brilho ataca as causas ligadas a contraste da fadiga visual digital melhor que qualquer outra luminária daqui."
+    },
+    {
+      "label": "Streamers e profissionais que aparecem na câmera",
+      "offerId": "elgato-key-light",
+      "reason": "Painel difuso de 2.500 lux com controle por Stream Deck e app ilumina o rosto num nível que nenhuma luminária de trabalho desta comparação alcança."
+    },
+    {
+      "label": "Home offices que querem uma luminária só para trabalho e ambiente",
+      "offerId": "dyson-solarcycle-morph",
+      "reason": "Modos de trabalho, ambiente, indireta e decorativa em um único braço, mais cobertura de IRC 98, fazem dela a luminária física mais versátil daqui para quem não quer um segundo ponto de luz."
+    },
+    {
+      "label": "Mesas compactas que precisam de carregador integrado",
+      "offerId": "panasonic-led-desk-lamp-wireless",
+      "reason": "Carregador Qi e porta USB-A embutidos na base dispensam um carregador de celular separado e reduzem a bagunça de cabos em superfícies pequenas de home office."
+    },
+    {
+      "label": "Quem vai comprar a primeira barra de monitor gastando pouco",
+      "offerId": "baseus-monitor-light-bar",
+      "reason": "Entrega a iluminação de mesa sem reflexo por uma fração do preço da BenQ, ideal para testar se uma barra de monitor combina com sua rotina antes de investir mais."
+    }
+  ]
 }

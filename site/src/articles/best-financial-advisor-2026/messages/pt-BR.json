@@ -2,5 +2,147 @@
   "title": "Melhor consultor financeiro 2026: 5 comparados",
   "description": "Comparamos Vanguard, Betterment, Fidelity, Schwab, Facet. Veja o que realmente se destaca em estrutura de tarifas e acesso ao consultor para consultor financeiro em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Comparativo de taxas (carteira de R$ 2,5 milhões)",
+      "paragraphs": [
+        "Vanguard PAS: R$ 7.500/ano (0,30% sobre o patrimônio).",
+        "Betterment Premium: R$ 10.000/ano (0,40% sobre o patrimônio, mínimo de R$ 500 mil).",
+        "Fidelity Wealth Services: R$ 12.500 a R$ 26.000/ano (0,50% a 1,04% sobre o patrimônio).",
+        "Schwab Intelligent Portfolios: R$ 0/ano (só robô, sem consultor humano).",
+        "Facet Wealth: R$ 12.000 a R$ 30.000/ano (assinatura com valor fixo, não atrelada ao patrimônio)."
+      ]
+    },
+    {
+      "heading": "Qual escolher para cada perfil",
+      "paragraphs": [
+        "Melhor consultor humano barato: Vanguard PAS. 0,30% do patrimônio com CFPs fiduciários.",
+        "Melhor opção digital: Betterment Premium. Acesso ilimitado a CFP + robô-consultor por 0,40% do patrimônio.",
+        "Melhor humano intermediário: Fidelity Wealth Services. Consultor dedicado a partir de R$ 250 mil.",
+        "Melhor robô gratuito: Schwab Intelligent Portfolios. Taxa de consultoria zero.",
+        "Melhor para grandes carteiras: Facet Wealth. O valor fixo sai mais barato que a cobrança percentual acima de R$ 5 milhões."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Eu preciso mesmo de um consultor financeiro?",
+      "a": "Talvez. Com menos de R$ 1,2 milhão, um robô-consultor (Schwab Intelligent Portfolios) ou investir por conta própria em índices (Vanguard) costuma dar conta. Acima de R$ 2,5 milhões e com situações complexas (imóveis, empresa própria, compensação de perdas no IR), um consultor humano começa a valer o preço."
+    },
+    {
+      "q": "Taxa percentual ou valor fixo?",
+      "a": "A taxa percentual sobe junto com a carteira — tranquila entre R$ 1,2 e R$ 2,5 milhões, cara acima de R$ 10 milhões. O valor fixo (Facet) sai mais barato a partir de R$ 5 milhões, mas pesa demais em R$ 1,2 milhão. Faça a conta do ponto de equilíbrio no seu caso."
+    },
+    {
+      "q": "Robô-consultor funciona mesmo?",
+      "a": "Funciona bem para carteiras abaixo de R$ 2,5 milhões e necessidades simples. Ele cuida do rebalanceamento e da compensação de perdas por um custo bem menor. Já para planejamento tributário complexo, sucessão ou dono de empresa, fica limitado."
+    },
+    {
+      "q": "E os CFPs fiduciários que só cobram honorários?",
+      "a": "Muito recomendados em situações complexas. Cobram de R$ 1.000 a R$ 2.500 por hora ou um valor fechado pelo plano (R$ 7.500 a R$ 25.000), e não ganham comissão. Dá para achar um pelo NAPFA.org ou pela XY Planning Network."
+    }
+  ],
+  "products": {
+    "vanguard-pas": {
+      "badge": "🏆 Melhor humano barato",
+      "review": "O Vanguard Personal Advisor Services é a escolha certa para quem quer consultoria humana sem pagar caro. Taxa de 0,30% do patrimônio (a menor do mercado entre consultores humanos), CFPs fiduciários e foco nos fundos da própria Vanguard. Os CFPs são consultores humanos de verdade, não robô, e você pode consultá-los quantas vezes quiser. É o melhor custo-benefício para carteiras de R$ 2,5 a R$ 25 milhões.",
+      "pros": [
+        "0,30% do patrimônio (o menor entre humanos)",
+        "CFPs fiduciários",
+        "Integração com os fundos Vanguard"
+      ],
+      "cons": [
+        "Foco nos fundos Vanguard (fica restrito aos produtos deles)",
+        "Menos personalizado que serviços mais caros"
+      ]
+    },
+    "betterment-premium": {
+      "badge": "💎 Melhor opção digital",
+      "review": "O Betterment Premium é a escolha certa para quem prefere resolver tudo pelo app mas quer ter um CFP à disposição. Taxa de 0,40% do patrimônio, mínimo de R$ 500 mil, acesso ilimitado a CFP e um robô-consultor cuidando das ordens. Compensação de perdas no IR inclusa. Ideal para quem se dá bem com tecnologia e quer o híbrido robô + humano.",
+      "pros": [
+        "Acesso ilimitado a CFP",
+        "Automação do robô-consultor",
+        "Compensação de perdas inclusa"
+      ],
+      "cons": [
+        "Mínimo de R$ 500 mil",
+        "0,40% do patrimônio é mais que a Vanguard"
+      ]
+    },
+    "fidelity-wealth-services": {
+      "badge": "🏛️ Melhor humano intermediário",
+      "review": "O Fidelity Wealth Services é a escolha certa para quem quer consultoria humana tradicional dentro de uma corretora grande. Mínimo de R$ 250 mil, consultor dedicado e taxa de 0,50% a 1,04% do patrimônio conforme o nível contratado. Faz sentido para quem já é cliente Fidelity, tem mais de R$ 2,5 milhões e quer um único ponto de contato.",
+      "pros": [
+        "Consultor dedicado",
+        "Integração com a Fidelity",
+        "Vários níveis de serviço"
+      ],
+      "cons": [
+        "0,50% a 1,04% do patrimônio é mais que a Vanguard",
+        "Mínimo de R$ 250 mil"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "🆓 Melhor robô gratuito",
+      "review": "O Schwab Intelligent Portfolios é a escolha certa para quem quer robô-consultor sem pagar nada. Taxa de consultoria zero, mínimo de R$ 25 mil e planejamento de metas incluso. A Schwab ganha dinheiro com o caixa parado (cerca de 10% da carteira fica em caixa da própria Schwab rendendo pouco) — esse é o preço escondido.",
+      "pros": [
+        "Taxa de consultoria zero",
+        "Mínimo de R$ 25 mil, bem acessível",
+        "Planejamento de metas incluso"
+      ],
+      "cons": [
+        "Caixa parado (cerca de 10% rendendo pouco)",
+        "Sem acesso a consultor humano"
+      ]
+    },
+    "facet-wealth": {
+      "badge": "💸 Melhor para grandes carteiras",
+      "review": "O Facet Wealth é a escolha certa para carteiras acima de R$ 5 milhões. Assinatura com valor fixo (R$ 12.000 a R$ 30.000/ano) no lugar da taxa percentual, com CFP dedicado. Numa carteira de R$ 10 milhões, o Facet a R$ 24.000/ano sai muito mais barato que os 0,30% da concorrência (R$ 30.000/ano).",
+      "pros": [
+        "Valor fixo (mais barato acima de R$ 5 milhões)",
+        "CFP dedicado",
+        "Sem conflito de interesse (não ganha mais se a carteira crescer)"
+      ],
+      "cons": [
+        "Caro em R$ 1,2 milhão (o fixo passa de 1% do patrimônio)",
+        "Empresa menor que Vanguard e Fidelity"
+      ]
+    }
+  },
+  "offerNotes": {
+    "vanguard-pas": "Cadastro em investor.vanguard.com. Mínimo de R$ 2,5 milhões para acessar o PAS.",
+    "betterment-premium": "Cadastro em betterment.com. Mínimo de R$ 500 mil no plano Premium; o plano Digital (0,25% do patrimônio, sem CFP) não tem valor mínimo.",
+    "fidelity-wealth-services": "Cadastro em fidelity.com ou por telefone na central de wealth services. Mínimo de R$ 250 mil.",
+    "schwab-intelligent-portfolios": "Cadastro em schwab.com. Mínimo de R$ 25 mil.",
+    "facet-wealth": "Cadastro em facet.com. Modelo de valor fixo — peça um orçamento conforme a complexidade do seu caso."
+  },
+  "pinDescription": "Quanto custa ter um consultor financeiro em 2026? Comparei taxas de Vanguard PAS, Betterment, Fidelity, Schwab e Facet — a diferença passa de R$ 20 mil por ano na mesma carteira. Salva pra decidir com calma.",
+  "recommendedFor": [
+    {
+      "label": "Quem tem de R$ 2,5 a R$ 25 milhões e não quer pagar caro",
+      "offerId": "vanguard-pas",
+      "reason": "A Vanguard PAS cobra só 0,30% do patrimônio — a menor taxa para ter um CFP humano —, o que economiza milhares de reais por ano em relação à concorrência."
+    },
+    {
+      "label": "Quem gosta de automação mas quer um humano por perto",
+      "offerId": "betterment-premium",
+      "reason": "O Betterment Premium junta compensação automática de perdas no IR com acesso ilimitado a CFP, perfeito para quem quer investir sem se envolver no dia a dia e ainda ter orientação profissional."
+    },
+    {
+      "label": "Cliente antigo da Fidelity que quer um consultor dedicado",
+      "offerId": "fidelity-wealth-services",
+      "reason": "O Fidelity Wealth Services designa um único ponto de contato e se integra direto às contas Fidelity que você já tem, para clientes acima de R$ 2,5 milhões."
+    },
+    {
+      "label": "Quem está começando e ainda tem menos de R$ 500 mil",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "O Schwab Intelligent Portfolios não cobra taxa de consultoria e aceita a partir de R$ 25 mil, então as taxas não comem o rendimento logo no início."
+    },
+    {
+      "label": "Quem tem R$ 5 milhões ou mais para investir",
+      "offerId": "facet-wealth",
+      "reason": "O valor fixo do Facet, de R$ 12.000 a R$ 30.000 por ano, bate a cobrança percentual acima de R$ 5 milhões: numa carteira de R$ 10 milhões, a economia chega a R$ 6.000 por ano ante os 0,30% da Vanguard."
+    }
+  ]
 }

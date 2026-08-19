@@ -2,5 +2,152 @@
   "title": "Melhor adaptador Bluetooth para carro 2026: 5 comparados",
   "description": "Comparamos Nulaxy, Anker, Doosl, CarlinKit, Ottocast. Veja o que realmente se destaca em tipo de adaptador e qualidade de áudio para adaptador Bluetooth para carro em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Qual adaptador para cada carro?",
+      "paragraphs": [
+        "Sem auxiliar, sem Bluetooth, só rádio FM (Civic 2008): modelo transmissor FM (Nulaxy KM18 ou Anker Roav SmartCharge F0). É a qualidade mais baixa — o FM tem largura de banda limitada — mas é a única saída para carros bem antigos.",
+        "Tem entrada auxiliar, mas não tem Bluetooth (RAV4 2014): receptor Bluetooth para auxiliar (Doosl Bluetooth Receiver). Você pluga na entrada P2 de 3,5 mm. É o melhor som da categoria.",
+        "CarPlay/Android Auto com fio, mas sem versão sem fio (Camry 2019): adaptador de CarPlay sem fio (CarlinKit 3.0). Entra na porta USB do CarPlay que o carro já tem e converte o cabo em conexão sem fio.",
+        "Carro novo com CarPlay com fio, mas você quer streaming (Netflix, YouTube): adaptador premium de CarPlay sem fio com streaming (Ottocast U2-X Pro). Traz roteador 4G embutido para o streaming."
+      ]
+    },
+    {
+      "heading": "Qualidade de áudio",
+      "paragraphs": [
+        "Qualidade de áudio (nota de 1 a 10): receptor auxiliar Doosl 9,0; CarlinKit CarPlay sem fio 9,5 (sinal digital); Ottocast 9,5; transmissor FM Nulaxy 6,5; transmissor FM Anker 7,0.",
+        "A qualidade do transmissor FM esbarra na largura de banda da transmissão em FM. Dá chiado e interferência de frequência nas cidades. O Anker Roav entrega um som um pouco mais limpo que os transmissores FM baratos.",
+        "Os receptores auxiliares preservam a qualidade porque não passam pelo FM — o caminho Bluetooth digital → P2 de 3,5 mm é limpo."
+      ]
+    },
+    {
+      "heading": "Instalação e confiabilidade",
+      "paragraphs": [
+        "Tempo de pareamento: receptores auxiliares 30 segundos, transmissores FM 1 minuto (achar uma frequência FM livre), CarPlay sem fio 2 a 3 minutos (pareamento inicial), Ottocast 5 minutos (configurar o roteador 4G).",
+        "Reconexão ao dar a partida: receptores auxiliares e CarPlay sem fio reconectam sozinhos. Transmissores FM exigem sintonizar o rádio de novo. O Ottocast tem quedas ocasionais de Wi-Fi/4G.",
+        "Chamadas em viva-voz: os 5 funcionam. Qualidade: Doosl auxiliar > CarlinKit > Ottocast > Anker FM > Nulaxy FM. Os receptores auxiliares captam a voz de forma mais limpa."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Transmissor FM ou receptor auxiliar?",
+      "a": "O receptor auxiliar (Doosl) tem qualidade muito superior se o seu carro tiver entrada auxiliar. O transmissor FM (Nulaxy, Anker) é a única opção para carros antigos sem auxiliar. Se você tem auxiliar, não use FM."
+    },
+    {
+      "q": "Vale a pena o CarPlay sem fio (CarlinKit)?",
+      "a": "Vale, se o seu carro tem CarPlay com fio e você quer sem fio. A configuração é uma vez só, o benefício aparece em toda viagem. R$ 350 a R$ 500 é justo pela comodidade."
+    },
+    {
+      "q": "Ottocast — dá para ver Netflix no carro?",
+      "a": "Dá — tem roteador 4G embutido e joga Netflix/YouTube na tela do carro. Só para os PASSAGEIROS (não assista dirigindo). R$ 1.700 a R$ 2.300 é preço premium pela comodidade."
+    },
+    {
+      "q": "Não seria melhor comprar uma central multimídia nova?",
+      "a": "Central multimídia 2-DIN de reposição com CarPlay sem fio: R$ 1.100 a R$ 2.800 + R$ 550 a R$ 1.100 de instalação. Troca o som do carro inteiro. É a solução melhor no longo prazo, mas o custo inicial é bem maior."
+    }
+  ],
+  "products": {
+    "nulaxy-km18-bluetooth-fm": {
+      "badge": "🏆 Melhor transmissor FM",
+      "review": "O Nulaxy KM18 é a escolha certa para carros sem entrada auxiliar (2010 ou mais antigos). Formato transmissor FM, R$ 110 a R$ 170. A qualidade de áudio esbarra na largura de banda do FM, mas é a única opção. Visor de 1,44\", carregamento USB e viva-voz.",
+      "pros": [
+        "Única opção para carros só com FM",
+        "R$ 110 a R$ 170, cabe no orçamento",
+        "Carregamento USB embutido"
+      ],
+      "cons": [
+        "Qualidade de áudio limitada pelo FM",
+        "Precisa sintonizar a frequência do rádio de novo"
+      ]
+    },
+    "anker-roav-smartcharge-f0": {
+      "badge": "🥇 Melhor FM premium",
+      "review": "O Anker Roav SmartCharge F0 é o transmissor FM premium certo. R$ 200 a R$ 250, duas portas de carregamento USB-C e integração com aplicativo. O áudio é um pouco melhor que o dos transmissores FM baratos, mas continua preso aos limites do FM.",
+      "pros": [
+        "Marca premium",
+        "Duas portas USB-C",
+        "Integração com aplicativo"
+      ],
+      "cons": [
+        "Ainda limitado pela qualidade do FM",
+        "Custa o dobro dos FM baratos"
+      ]
+    },
+    "doosl-bluetooth-receiver": {
+      "badge": "🎧 Melhor para carros com entrada auxiliar",
+      "review": "O Doosl Bluetooth 5.0 Receiver é a escolha certa se o seu carro tem entrada auxiliar. A qualidade de áudio supera de longe a dos transmissores FM porque não passa por radiofrequência. Formato minúsculo e viva-voz. R$ 85 a R$ 140.",
+      "pros": [
+        "Melhor qualidade de áudio da categoria",
+        "R$ 85 a R$ 140, preço acessível",
+        "Formato minúsculo"
+      ],
+      "cons": [
+        "Exige entrada auxiliar no carro",
+        "A qualidade do microfone varia conforme o modelo"
+      ]
+    },
+    "carlinkit-3-cplay2air-android-auto": {
+      "badge": "📱 Melhor CarPlay sem fio",
+      "review": "O CarlinKit 3.0 (CPlay2Air) é a escolha certa se o seu carro tem CarPlay com fio e você quer sem fio. Entra na porta USB do CarPlay que já existe e converte a conexão com fio em sem fio. R$ 350 a R$ 500. Funciona tanto com Apple CarPlay quanto com Android Auto.",
+      "pros": [
+        "Transforma o CarPlay/Android Auto em sem fio",
+        "R$ 350 a R$ 500, preço justo",
+        "Confiável depois do pareamento inicial"
+      ],
+      "cons": [
+        "Exige CarPlay com fio no carro",
+        "O pareamento inicial leva de 2 a 3 minutos"
+      ]
+    },
+    "ottocast-u2-x-pro-wireless": {
+      "badge": "🎬 Melhor para streaming",
+      "review": "O Ottocast U2-X Pro Wireless é a escolha premium certa para quem quer Netflix/YouTube na tela do carro (para os passageiros). CarPlay sem fio + Android Auto + roteador 4G embutido. Preço premium de R$ 1.700 a R$ 2.300.",
+      "pros": [
+        "CarPlay sem fio + streaming",
+        "Roteador 4G embutido",
+        "Acabamento premium"
+      ],
+      "cons": [
+        "Preço premium de R$ 1.700 a R$ 2.300",
+        "Quedas ocasionais de Wi-Fi/4G"
+      ]
+    }
+  },
+  "offerNotes": {
+    "nulaxy-km18-bluetooth-fm": "Compre na amazon.com.br — ache uma frequência FM livre para o melhor som.",
+    "anker-roav-smartcharge-f0": "Compre na anker.com ou na amazon.com.br — a escolha premium entre os transmissores FM.",
+    "doosl-bluetooth-receiver": "Compre na amazon.com.br — só funciona se o seu carro tiver entrada auxiliar.",
+    "carlinkit-3-cplay2air-android-auto": "Compre na amazon.com.br ou em carlinkitcarplay.com — exige CarPlay com fio no carro.",
+    "ottocast-u2-x-pro-wireless": "Compre em ottocast.com ou na amazon.com.br — premium para streaming na tela do carro."
+  },
+  "pinDescription": "Seu carro não tem Bluetooth? Dá para resolver por menos de R$ 150. Comparei Nulaxy, Anker, Doosl, CarlinKit e Ottocast: transmissor FM, receptor auxiliar ou CarPlay sem fio — descubra qual combina com o seu carro. #carros",
+  "recommendedFor": [
+    {
+      "label": "Quem dirige carro antigo, sem auxiliar e sem Bluetooth",
+      "offerId": "nulaxy-km18-bluetooth-fm",
+      "reason": "O transmissor FM é a única forma de tocar música sem fio em carros anteriores a 2010. O visor de frequência do KM18 faz você achar um canal limpo rapidinho."
+    },
+    {
+      "label": "Quem quer economizar e precisa carregar no USB-C todo dia",
+      "offerId": "anker-roav-smartcharge-f0",
+      "reason": "As duas portas USB-C carregam celular e tablet ao mesmo tempo — o acabamento da Anker compensa os R$ 80 a mais em relação aos transmissores FM genéricos."
+    },
+    {
+      "label": "Quem curte música e tem carro antigo com entrada auxiliar",
+      "offerId": "doosl-bluetooth-receiver",
+      "reason": "Dispensa o FM por completo e entrega som quase de CD por R$ 85 a R$ 140. É o melhor custo-benefício sonoro para qualquer carro com entrada P2 de 3,5 mm."
+    },
+    {
+      "label": "Usuários de iPhone cansados de desenrolar o cabo do CarPlay todo dia",
+      "offerId": "carlinkit-3-cplay2air-android-auto",
+      "reason": "Um pareamento único transforma a porta de CarPlay com fio que você já tem em conexão sem fio. Das próximas vezes, conecta sozinho — sem cabo nenhum."
+    },
+    {
+      "label": "Pais em viagens longas com crianças que precisam de tela para se distrair",
+      "offerId": "ottocast-u2-x-pro-wireless",
+      "reason": "O roteador 4G embutido joga Netflix e YouTube direto na tela do carro e entretém quem está atrás sem gastar a franquia de dados do celular."
+    }
+  ]
 }

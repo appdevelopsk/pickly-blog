@@ -2,5 +2,151 @@
   "title": "Melhor plataforma de email marketing 2026: 5 comparados",
   "description": "Comparamos Mailchimp, ConvertKit, Klaviyo, Brevo, ActiveCampaign. Veja o que realmente se destaca em entregabilidade e profundidade de automação para plataforma de email marketing em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Entregabilidade",
+      "paragraphs": [
+        "Taxa de chegada na caixa de entrada (Gmail, Outlook e Yahoo somados): Klaviyo 96,8%, ActiveCampaign 96,2%, ConvertKit 96,0%, Brevo 95,4%, Mailchimp 94,2%. Todas melhoraram depois de 2024, com o Ocultar Meu E-mail do iCloud e a Proteção de Privacidade do Apple Mail.",
+        "A entregabilidade um pouco menor do Mailchimp vem dos pools de IP compartilhado — quem envia muito volume em IP compartilhado sofre com a reputação dos vizinhos. O IP dedicado (a partir de US$ 300/mês) elimina essa diferença.",
+        "Sobre cair na aba Promoções do Gmail: o ConvertKit se sai melhor (e-mails em texto puro chegam na aba Principal), o Klaviyo vai bem e os demais oscilam. Fuja de templates HTML pesados se quiser a aba Principal."
+      ]
+    },
+    {
+      "heading": "Automação e segmentação",
+      "paragraphs": [
+        "Flexibilidade de automação: ActiveCampaign Plus (os fluxos visuais mais completos), Klaviyo (gatilhos condicionais de e-commerce), ConvertKit (automação por tags pensada para criadores), Brevo (automação no estilo CRM), Mailchimp (melhorou recentemente, mas sempre foi o mais simples).",
+        "Profundidade da segmentação: Klaviyo (dados de e-commerce a fundo — compras anteriores, ticket médio, RFM), ActiveCampaign (comportamento + tags), ConvertKit (tags, mais simples), Brevo (básico), Mailchimp (evoluindo, mas ainda mais raso que o Klaviyo).",
+        "Geração de assunto por IA: as 5 já oferecem. A do ConvertKit é a que mais respeita a voz do criador. A do Klaviyo é calibrada para e-commerce. A do Mailchimp é genérica. Os resultados variam bastante."
+      ]
+    },
+    {
+      "heading": "Custo e caso de uso",
+      "paragraphs": [
+        "Custo mensal para 25 mil inscritos (plano intermediário): Mailchimp Standard a partir de US$ 200, ConvertKit Creator Pro US$ 179, Klaviyo US$ 350 (por volume), Brevo US$ 25–65 (por volume, mas bem mais barato em escala), ActiveCampaign Plus a partir de US$ 200.",
+        "O Brevo domina no preço por escala: enviar 50 mil e-mails/mês custa US$ 35 nele contra mais de US$ 200 no Mailchimp. A vantagem só cresce depois dos 50 mil inscritos.",
+        "Criadores (newsletter, cursos, infoprodutos): ConvertKit. E-commerce (Shopify, Nuvemshop, BigCommerce): Klaviyo. Pequena empresa que dispara e-mails de vez em quando: Mailchimp. Profissional de marketing que quer automação a sério: ActiveCampaign. Quem envia muito e olha o custo: Brevo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "ConvertKit ou Mailchimp?",
+      "a": "ConvertKit se você é criador de conteúdo (newsletter, curso, infoproduto). Mailchimp para pequenas empresas com necessidades variadas. O sistema de tags do ConvertKit foi feito para quem produz conteúdo."
+    },
+    {
+      "q": "Klaviyo ou Mailchimp para e-commerce?",
+      "a": "Klaviyo. As integrações de e-commerce do Mailchimp melhoraram, mas o Klaviyo nasceu para isso — carrinho abandonado no Shopify, previsão de ticket médio, segmentação por RFM. Para qualquer loja que leve a sério, o Klaviyo ganha."
+    },
+    {
+      "q": "Quando o Brevo compensa?",
+      "a": "O Brevo (ex-Sendinblue) compensa em escala. O preço por volume bate o Mailchimp acima de 25 mil inscritos. A plataforma não é tão polida, mas a conta fecha para quem precisa segurar o custo."
+    },
+    {
+      "q": "Tem plano gratuito?",
+      "a": "Mailchimp: grátis até 500 contatos. Brevo: grátis com 300 e-mails/dia (contatos ilimitados). ConvertKit: grátis até 10 mil inscritos (recursos limitados). Klaviyo: grátis até 250 contatos. ActiveCampaign não tem plano gratuito — só teste de 14 dias."
+    }
+  ],
+  "products": {
+    "mailchimp-standard": {
+      "badge": "🏆 Melhor opção popular",
+      "review": "O Mailchimp Standard é a escolha certa para e-mail marketing de pequenas e médias empresas em geral. Melhor experiência de uso da categoria, integrações completas e plano grátis até 500 contatos. A entregabilidade fica um pouco atrás do Klaviyo, mas melhorou depois de 2024. A automação dá conta do recado.",
+      "pros": [
+        "Melhor experiência de uso da categoria",
+        "Integrações completas",
+        "Grátis até 500 contatos"
+      ],
+      "cons": [
+        "Entregabilidade um pouco atrás do Klaviyo",
+        "Caro acima de 25 mil inscritos"
+      ]
+    },
+    "convertkit-creator-pro": {
+      "badge": "✍️ Melhor para criadores",
+      "review": "O ConvertKit Creator Pro é a escolha certa para criadores (newsletters, cursos, infoprodutos). Segmentação por tags feita para o fluxo de quem produz conteúdo. E-mails em texto puro caem na aba Principal do Gmail. Programa de indicação de newsletter e marketplace de patrocinadores já vêm inclusos.",
+      "pros": [
+        "Feito para criadores",
+        "E-mails em texto puro caem na aba Principal",
+        "Ferramentas de monetização de newsletter"
+      ],
+      "cons": [
+        "Menos indicado para e-commerce",
+        "Ecossistema de integrações menor que o do Mailchimp"
+      ]
+    },
+    "klaviyo-email-sms": {
+      "badge": "🛍️ Melhor para e-commerce",
+      "review": "O Klaviyo Email + SMS é a escolha certa para qualquer operação séria de e-commerce. Feito sob medida para Shopify, BigCommerce e WooCommerce. Dados do cliente a fundo (compras anteriores, ticket médio, RFM, valor previsto ao longo da vida). SMS marketing incluído. É a recomendação padrão para lojas virtuais.",
+      "pros": [
+        "Feito para e-commerce",
+        "Integração profunda com os dados do cliente",
+        "SMS incluído"
+      ],
+      "cons": [
+        "Mais caro que o Mailchimp",
+        "Exagero para quem não vende online"
+      ]
+    },
+    "brevo-business": {
+      "badge": "💸 Melhor em escala",
+      "review": "O Brevo Business (ex-Sendinblue) é a escolha certa para quem passa dos 25 mil inscritos e precisa controlar o custo. E-mail, SMS e CRM no mesmo lugar. O preço por volume é bem mais barato que o do Mailchimp em escala. A interface é menos polida, mas a conta fecha.",
+      "pros": [
+        "Preço por volume bate o Mailchimp em escala",
+        "E-mail, SMS e CRM juntos",
+        "Grátis com 300 e-mails/dia"
+      ],
+      "cons": [
+        "Interface menos polida que a do Mailchimp",
+        "Ecossistema de integrações menor"
+      ]
+    },
+    "activecampaign-plus": {
+      "badge": "🎯 Melhor automação",
+      "review": "O ActiveCampaign Plus é a escolha certa para quem quer fluxos de automação realmente profundos. O melhor construtor visual de automação da categoria. Integração forte com CRM. Ideal para marketing comportamental (lead scoring, sequências de nutrição com várias etapas).",
+      "pros": [
+        "Os fluxos de automação mais completos",
+        "Integração forte com CRM",
+        "Lead scoring nativo"
+      ],
+      "cons": [
+        "Curva de aprendizado mais puxada",
+        "Sem plano gratuito (só teste de 14 dias)"
+      ]
+    }
+  },
+  "offerNotes": {
+    "mailchimp-standard": "Cadastre-se em mailchimp.com — grátis até 500 contatos.",
+    "convertkit-creator-pro": "Cadastre-se em convertkit.com — grátis até 10 mil inscritos.",
+    "klaviyo-email-sms": "Cadastre-se em klaviyo.com — grátis até 250 contatos.",
+    "brevo-business": "Cadastre-se em brevo.com — grátis com 300 e-mails/dia.",
+    "activecampaign-plus": "Cadastre-se em activecampaign.com — teste grátis de 14 dias."
+  },
+  "pinDescription": "Qual plataforma de e-mail marketing vale a pena em 2026? Comparei Mailchimp, ConvertKit, Klaviyo, Brevo e ActiveCampaign: quanto cada uma cobra com 25 mil inscritos e até onde a automação vai. #emailmarketing #marketingdigital",
+  "recommendedFor": [
+    {
+      "label": "Quem faz newsletter ou vende cursos online",
+      "offerId": "convertkit-creator-pro",
+      "reason": "A automação por tags e o marketplace de patrocinadores nativo foram feitos justamente para o fluxo de monetização de criadores."
+    },
+    {
+      "label": "Donos de loja no Shopify ou WooCommerce",
+      "offerId": "klaviyo-email-sms",
+      "reason": "A segmentação por histórico de compra e a pontuação RFM geram receita com carrinho abandonado e recompra."
+    },
+    {
+      "label": "Quem envia muito volume com orçamento apertado",
+      "offerId": "brevo-business",
+      "reason": "O preço por volume fica bem abaixo do Mailchimp acima de 25 mil inscritos, economizando centenas de reais por mês em escala."
+    },
+    {
+      "label": "Marketing B2B com sequências de nutrição em várias etapas",
+      "offerId": "activecampaign-plus",
+      "reason": "O construtor visual com lead scoring e integração de CRM dá conta de fluxos comportamentais complexos que nenhuma outra plataforma acompanha."
+    },
+    {
+      "label": "Pequenos negócios que disparam e-mails de vez em quando",
+      "offerId": "mailchimp-standard",
+      "reason": "A melhor interface da categoria, o plano grátis de 500 contatos e mais de 300 integrações fazem dele o ponto de partida com menos atrito."
+    }
+  ]
 }

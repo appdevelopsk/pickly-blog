@@ -114,5 +114,32 @@
     "vtech-vm5263": "Disponível em vtech.com, Target, Walmart e Amazon. Há várias variantes de tamanho de tela — a VM5263 é a de 5 polegadas.",
     "miku-pro": "Disponível em mikucare.com. Não exige assinatura para os recursos básicos."
   },
-  "pinDescription": "Melhor babá eletrônica com câmera 2026: 5 comparados. Comparado por especificações publicadas e análises independentes."
+  "pinDescription": "Melhor babá eletrônica com câmera 2026: 5 comparados. Comparado por especificações publicadas e análises independentes.",
+  "recommendedFor": [
+    {
+      "label": "Pais de primeira viagem ansiosos que monitoram os sinais vitais do recém-nascido",
+      "offerId": "owlet-cam-2",
+      "reason": "Funciona junto com a meia Owlet e envia alertas de respiração e batimentos em tempo real, dando aos pais mais ansiosos a tranquilidade de ter dados na mão."
+    },
+    {
+      "label": "Pais que acompanham cada métrica do sono",
+      "offerId": "nanit-pro-camera",
+      "reason": "O monitoramento com IA feito de cima entrega análises noturnas dos padrões e do tempo total de sono — sem precisar de nenhum acessório no bebê."
+    },
+    {
+      "label": "Pais preocupados com privacidade que evitam aparelhos conectados à internet",
+      "offerId": "infant-optics-dxr-8",
+      "reason": "Funciona sozinho, sem Wi-Fi nem nuvem; a tela dedicada de 5 polegadas para os pais funciona bem sem celular nem roteador."
+    },
+    {
+      "label": "Famílias de olho no orçamento montando um segundo quarto",
+      "offerId": "vtech-vm5263",
+      "reason": "Entre R$ 700 e R$ 900, com rotação, inclinação, zoom e visão noturna, dá conta de um segundo quarto ou da casa dos avós sem pesar no bolso."
+    },
+    {
+      "label": "Pais antenados que querem detecção de respiração sem nada no bebê",
+      "offerId": "miku-pro",
+      "reason": "A detecção por radar acompanha a respiração sem contato — nenhuma meia ou sensor encostando no bebê."
+    }
+  ]
 }

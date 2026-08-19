@@ -114,5 +114,114 @@
     "perfect-sleep-pad-electric-blanket": "Perfect Sleep Pad — uma almofada aquecedora que fica abaixo de você entre o colchão e o dorminhoco, não em cima de você. Aquece de baixo através do contato direto com o corpo. Compatível com qualquer cobertor, edredom ou duvet que você já possua. Projetado para uso com colchão ocidental, não para configurações de futon no chão."
   },
   "pinDescription": "5 cobertores elétricos comparados para 2026 — Beautyrest controle duplo com 20 configurações vs Sunbeam ThermoFine autorregulável vs Biddeford econômico vs Serta pelúcia vs Perfect Sleep Pad (aquece de baixo).",
-  "methodology": "Avaliamos cada produto quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. Comparamos as especificações do fabricante com avaliações verificadas de quem já comprou."
+  "methodology": "Avaliamos cada produto quanto à durabilidade no uso real, à facilidade de uso no dia a dia, ao desempenho diante das promessas de marketing, à qualidade de construção e ao valor a longo prazo. Comparamos as especificações do fabricante com avaliações verificadas de quem já comprou.",
+  "products": [
+    {
+      "offerId": "beautyrest-electric-blanket",
+      "badge": "Melhor para casais",
+      "review": "O Secure Comfort é o único cobertor de cobrir desta comparação cujo controle pode continuar conectado durante a lavagem, e essa única decisão de projeto é o que faz dele a escolha mais prática para quem lava a roupa de cama com frequência. São 20 níveis de calor, uma graduação bem mais fina que os controles de 10 passos dos concorrentes; as versões king e queen com controle duplo dividem a cama em zonas independentes de lado esquerdo e direito, ideal para casais que discordam sobre temperatura; e o desligamento automático em 10 horas cobre uma noite inteira mais 30 minutos de pré-aquecimento. O tecido é do tipo trançado, mais encorpado do que ultramacio — que é justamente o que você quer debaixo de um edredom, onde a pelúcia não faz diferença. As fraquezas honestas são o preço (a versão king com controle duplo costuma passar de R$ 550) e o fato de que, mesmo sendo lavável, o controle precisa secar ao ar livre e não na secadora, para não danificar a eletrônica pelo calor.",
+      "pros": [
+        "Controle lavável na máquina permanece conectado durante a lavagem",
+        "20 níveis de calor: a graduação mais fina desta comparação",
+        "Controle duplo nos tamanhos king e queen para casais com preferências diferentes",
+        "Desligamento automático em 10 horas cobre a noite toda mais o pré-aquecimento"
+      ],
+      "cons": [
+        "O mais caro dos quatro cobertores de cobrir — versão king com controle duplo acima de R$ 550",
+        "O controle precisa secar ao ar livre, nunca na secadora, depois de lavado"
+      ],
+      "grade": "A+"
+    },
+    {
+      "offerId": "sunbeam-microplush-heated-blanket",
+      "badge": "Melhor conforto autorregulado",
+      "review": "A tecnologia ThermoFine da Sunbeam é o diferencial de verdade aqui: em vez de manter a resistência em potência fixa, o controle mede a temperatura real da superfície e reduz a potência assim que o valor programado é atingido. Na prática, isso significa que você pode deixar o cobertor mais quente na hora de dormir sem acordar fervendo três horas depois, e o consumo ao longo de todo o inverno fica bem menor do que em modelos de potência fixa com sensação térmica equivalente. O tecido microplush é mais macio que o trançado do Beautyrest e muito mais macio que o de cobertores elétricos de entrada. Os 10 níveis de calor cobrem uma faixa útil e o desligamento automático em 10 horas dá conta da noite inteira. As fraquezas honestas são a variação de controle de qualidade entre unidades (algumas esquentam menos do que se espera nos níveis altos, porque o ThermoFine reduz a potência de forma agressiva), o microplush que forma bolinhas mais rápido que o tecido trançado depois de várias lavagens, e as versões com controle duplo, bem mais difíceis de achar em estoque que a de controle único.",
+      "pros": [
+        "Autorregulação ThermoFine reduz o superaquecimento no meio da noite",
+        "Tecido microplush é mais macio que os cobertores elétricos trançados",
+        "Consumo de energia no inverno menor que o de modelos de potência fixa",
+        "10 níveis e desligamento automático em 10 horas cobrem a noite inteira"
+      ],
+      "cons": [
+        "Algumas unidades esquentam menos que o esperado no máximo — o ThermoFine reduz a potência de forma agressiva",
+        "O microplush forma bolinhas mais rápido que o tecido trançado ao longo de muitas lavagens"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "biddeford-electric-blanket",
+      "badge": "Melhor custo-benefício",
+      "review": "A Biddeford entrega o essencial de um cobertor elétrico — malha de resistência, 10 níveis de calor, desligamento automático em 10 horas, certificação UL/ETL e corpo lavável na máquina — por um preço bem abaixo do Beautyrest e do Sunbeam. Como é vendida em praticamente todas as grandes redes americanas, peças de reposição e atendimento de garantia são mais fáceis de conseguir do que em marcas importadas premium. Para um quarto de hóspedes, uma república de estudantes ou uma casa que nunca teve cobertor elétrico e quer testar a categoria antes de investir em um modelo premium, este é o ponto de entrada racional. As fraquezas honestas são exatamente as que o preço prevê: o tecido é mais fino e menos macio que o microplush da Sunbeam, a temperatura é menos uniforme ao longo do cobertor do que nos modelos premium (segundo o conjunto de avaliações de donos), o controle passa uma sensação menos sólida na mão e não há nada equivalente ao ThermoFine — a resistência trabalha em potência fixa em todos os níveis.",
+      "pros": [
+        "Menor preço desta comparação sem abrir mão de nenhuma função essencial",
+        "Traz certificação UL/ETL e desligamento automático em 10 horas",
+        "Ampla disponibilidade no varejo dos EUA — garantia fácil de acionar",
+        "Corpo lavável na máquina depois de destacar o controle"
+      ],
+      "cons": [
+        "Tecido mais fino e menos macio que o MicroPlush da Sunbeam",
+        "Projeto de potência fixa não tem autorregulação contra superaquecimento"
+      ],
+      "grade": "A"
+    },
+    {
+      "offerId": "serta-fleece-electric-blanket",
+      "badge": "Melhor toque felpudo",
+      "review": "O Serta Plush é o cobertor mais gostoso ao toque desta comparação — o fleece estilo sherpa em uma das faces cria uma maciez física e um apelo visual de aconchego que nem o microplush nem os tecidos trançados alcançam, e ele funciona igualmente bem como manta de sofá e como aquecedor de cama. Dez níveis de calor, desligamento automático em 10 horas e versões com controle duplo nos tamanhos maiores completam a ficha. Se a ideia é usar o cobertor térmico no sofá durante a leitura da noite ou a sessão de filme, além da cama, nenhum outro produto daqui chega perto nesse papel de manta. As fraquezas honestas são inerentes ao fleece: ele retém o calor do corpo de forma mais intensa que o tecido trançado, então os níveis altos podem ficar desconfortavelmente quentes; exige lavagem delicada em água fria para o pelo não embolar (mais cuidado que os cobertores trançados); e o pelo alto mostra fiapos e pelo de animal muito mais que o microplush ou o tecido trançado.",
+      "pros": [
+        "Toque mais macio desta comparação — fleece estilo sherpa",
+        "Funciona também como manta de sofá nas noites de descanso",
+        "Versões com controle duplo disponíveis nos tamanhos king e queen",
+        "Sensação visual de aquecimento que vai além da função térmica"
+      ],
+      "cons": [
+        "O fleece retém o calor do corpo — os níveis altos podem ficar quentes demais",
+        "Exige lavagem delicada em água fria para o pelo não embolar"
+      ],
+      "grade": "B+"
+    },
+    {
+      "offerId": "perfect-sleep-pad-electric-blanket",
+      "badge": "Melhor aquecimento por baixo",
+      "review": "O Perfect Sleep Pad é o único produto desta comparação que aquece de baixo para cima — na prática, um cobertor térmico de forrar projetado para colchões ocidentais. A manta fica entre você e o colchão, seu próprio peso mantém a superfície aquecida em contato direto com o corpo, e o cobertor ou edredom que você já tem vai por cima, sem mudar nada. O contato direto é termicamente mais eficiente do que aquecer uma camada de ar entre o corpo e um cobertor de cobrir, então a manta consome cerca de 50–100 W (menos que cobertores de cobrir do mesmo tamanho) para uma sensação de calor equivalente — o que faz diferença em casas com tarifa branca de energia. O rosto fica na temperatura ambiente, o que muita gente acha mais confortável do que o ar quente preso sob um cobertor térmico. As fraquezas honestas têm a ver com o posicionamento: foi feito para colchão convencional, não para futon no chão; quem dorme se mexendo muito pode sair de cima da manta durante a noite; e é preciso um lençol com elástico ou protetor de colchão por cima para mantê-la no lugar.",
+      "pros": [
+        "Potência menor (50–100 W) que a dos cobertores de cobrir para um calor parecido",
+        "Funciona sob qualquer cobertor ou edredom que você já tenha",
+        "Sem peso de cobertor por cima nem ar quente na altura do rosto",
+        "O contato direto com o corpo é termicamente mais eficiente"
+      ],
+      "cons": [
+        "Quem dorme se mexendo muito pode sair de cima da manta durante a noite",
+        "Feito para colchão convencional — não serve para futon no chão"
+      ],
+      "grade": "B+"
+    }
+  ],
+  "recommendedFor": [
+    {
+      "label": "Para casais que discordam sobre temperatura",
+      "offerId": "beautyrest-electric-blanket",
+      "reason": "As versões king e queen com controle duplo, somadas aos 20 níveis de ajuste, deixam cada lado da cama funcionar de forma independente, e o controle lavável na máquina é a manutenção mais fácil desta comparação."
+    },
+    {
+      "label": "Para quem dorme sozinho e costuma acordar com calor de madrugada",
+      "offerId": "sunbeam-microplush-heated-blanket",
+      "reason": "A autorregulação ThermoFine reduz a potência assim que a superfície atinge a temperatura programada, então dá para pré-aquecer a cama sem acordar fervendo três horas depois."
+    },
+    {
+      "label": "Para quem está comprando o primeiro ou vai usar no quarto de hóspedes gastando pouco",
+      "offerId": "biddeford-electric-blanket",
+      "reason": "Todas as funções essenciais — 10 níveis, desligamento automático em 10 horas, certificação UL/ETL e corpo lavável na máquina — pelo menor preço desta comparação."
+    },
+    {
+      "label": "Para quem também quer usar o cobertor como manta de sofá",
+      "offerId": "serta-fleece-electric-blanket",
+      "reason": "O fleece estilo sherpa oferece o toque mais macio daqui e dá ao cobertor um apelo real de manta de sofá, além do papel de aquecer a cama."
+    },
+    {
+      "label": "Para aquecer por baixo e gastar menos energia",
+      "offerId": "perfect-sleep-pad-electric-blanket",
+      "reason": "O aquecimento por contato direto de 50–100 W supera os cobertores de cobrir em calor percebido por watt e permite continuar usando o cobertor ou edredom que você já tem."
+    }
+  ]
 }

@@ -2,5 +2,147 @@
   "title": "Melhor app de transferência de dinheiro 2026: 5 comparados",
   "description": "Comparamos Wise, Revolut, PayPal, Venmo, Western Union. Veja o que realmente se destaca em taxas de câmbio e tarifas para aplicativo de transferência de dinheiro em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Comparativo de custo em transferências internacionais (US$ 1.000 → EUR)",
+      "paragraphs": [
+        "Wise: US$ 1.000 → € 917 (taxa comercial + tarifa de 0,4%). A mais transparente.",
+        "Revolut (plano Standard): US$ 1.000 → € 915 (boa cotação, só em dias úteis).",
+        "PayPal: US$ 1.000 → € 870 (tarifa efetiva de ~3% a 5%, já contando o câmbio desfavorável). A pior cotação.",
+        "Western Union (online): US$ 1.000 → € 890 (melhor que o PayPal, mas ainda com margem escondida no câmbio).",
+        "Venmo: não funciona para transferências internacionais."
+      ]
+    },
+    {
+      "heading": "A melhor para cada situação",
+      "paragraphs": [
+        "Melhor para o exterior: Wise. Taxa comercial de câmbio e tarifa transparente de 0,4% a 1%.",
+        "Melhor pacote completo: Revolut. Conta multimoeda, cripto e ações no mesmo app.",
+        "Melhor para uso doméstico nos EUA: Venmo. Só nos EUA, com feed social e transferência instantânea.",
+        "Melhor para saque em dinheiro: Western Union. Mais de 200 países e retirada presencial.",
+        "Melhor em alcance: PayPal. Consolidado, mas com as piores cotações."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Por que a Wise sai mais barata que o PayPal?",
+      "a": "A Wise usa a taxa comercial de câmbio (a cotação real entre as moedas no mercado global) e cobra uma tarifa à parte, bem visível. Já o PayPal embute uma margem na cotação e ainda cobra tarifa — no fim, costuma sair de 3% a 5% pior que a taxa comercial."
+    },
+    {
+      "q": "Dá para mandar dinheiro para qualquer pessoa pela Wise?",
+      "a": "Dá — quem recebe não precisa ter conta na Wise. O dinheiro cai direto na conta bancária da pessoa, já na moeda local dela."
+    },
+    {
+      "q": "Esses aplicativos são seguros?",
+      "a": "São. Wise, Revolut, PayPal, Venmo e Western Union têm licença para operar como instituições de transferência de dinheiro e contam com mecanismos antifraude."
+    },
+    {
+      "q": "E usar criptomoeda para transferir?",
+      "a": "Funciona, mas complica: quem envia converte reais ou dólares em USDC, manda para o destinatário e ele converte de volta para a moeda local. Serve para casos específicos (países sob sanções), mas para a maioria a Wise é bem mais simples."
+    }
+  ],
+  "products": {
+    "wise-transfer": {
+      "badge": "🏆 Melhor para o exterior",
+      "review": "A Wise (antiga TransferWise) é a escolha certa para mandar dinheiro para fora. Ela usa a taxa comercial de câmbio de verdade (a mesma que os bancos usam entre si), cobra tarifas transparentes (de 0,4% a 1%, conforme a moeda) e trabalha com mais de 40 moedas. Você envia para a conta bancária de qualquer pessoa no mundo, sem que ela precise abrir conta na Wise.",
+      "pros": [
+        "Taxa comercial de câmbio",
+        "Tarifas transparentes (0,4% a 1%)",
+        "Mais de 40 moedas"
+      ],
+      "cons": [
+        "Quem envia precisa ter conta na Wise",
+        "A transferência bancária pode levar de 1 a 2 dias"
+      ]
+    },
+    "revolut": {
+      "badge": "🌐 Melhor pacote completo",
+      "review": "A Revolut é a escolha certa para quem quer transferência de dinheiro, conta multimoeda, cripto e ações no mesmo lugar. A conta guarda mais de 25 moedas, tem negociação de cripto e ações integrada, e os planos pagos liberam vantagens extras. As transferências internacionais são competitivas (parecidas com a Wise em dias úteis).",
+      "pros": [
+        "Conta multimoeda (mais de 25)",
+        "Cripto e ações integrados",
+        "Planos pagos com vantagens extras"
+      ],
+      "cons": [
+        "Planos pagos custam de US$ 9 a US$ 17 por mês",
+        "Cotações piores no fim de semana"
+      ]
+    },
+    "paypal-international": {
+      "badge": "🏪 Melhor em alcance",
+      "review": "O PayPal é o serviço de transferência mais difundido do mundo, mas o de piores cotações. A tarifa efetiva fica em torno de 3% a 5% somando a margem embutida no câmbio. Use só se a pessoa que recebe pedir PayPal especificamente — fora isso, a Wise é a opção óbvia.",
+      "pros": [
+        "O mais difundido",
+        "Proteção ao comprador e ao vendedor em compras",
+        "Aceito por muitas lojas"
+      ],
+      "cons": [
+        "Piores cotações de câmbio (margem de ~3% a 5%)",
+        "Tarifas escondidas dentro do câmbio"
+      ]
+    },
+    "venmo": {
+      "badge": "🇺🇸 Melhor para uso doméstico nos EUA",
+      "review": "O Venmo é a escolha certa para transferências entre pessoas dentro dos EUA. Tem feed social (as transações aparecem para os amigos, mas dá para ajustar), transferência instantânea para o cartão de débito (de US$ 0,25 a US$ 15) e transferência bancária gratuita (de 1 a 3 dias). É o padrão nos EUA para dividir a conta.",
+      "pros": [
+        "Feed social (pode ser desativado)",
+        "Transferência instantânea para o cartão de débito",
+        "Padrão nos EUA para uso doméstico"
+      ],
+      "cons": [
+        "Só funciona nos EUA",
+        "Não faz transferência internacional"
+      ]
+    },
+    "western-union": {
+      "badge": "💵 Melhor para saque em dinheiro",
+      "review": "A Western Union é a escolha certa quando quem recebe precisa sacar em espécie — são mais de 200 países atendidos. O destinatário retira o dinheiro numa agência Western Union sem precisar de conta bancária. Útil para quem não é bancarizado ou em situações específicas.",
+      "pros": [
+        "Mais de 200 países",
+        "Saque em espécie (sem precisar de conta bancária)",
+        "Atendimento presencial nas agências"
+      ],
+      "cons": [
+        "Tarifas variáveis (muitas vezes altas)",
+        "Ter que ir até a agência é incômodo"
+      ]
+    }
+  },
+  "offerNotes": {
+    "wise-transfer": "Cadastre-se em wise.com. Abrir a conta é grátis; a tarifa é cobrada por transferência.",
+    "revolut": "Cadastre-se em revolut.com. O plano Standard é gratuito; o Premium (US$ 9/mês) e o Metal (US$ 17/mês) liberam vantagens extras.",
+    "paypal-international": "Cadastre-se em paypal.com. A conta é gratuita; as tarifas incidem sobre as transações.",
+    "venmo": "Cadastre-se pelo aplicativo do Venmo. Só nos EUA.",
+    "western-union": "Cadastre-se em westernunion.com ou vá até uma agência."
+  },
+  "pinDescription": "Mandar dinheiro para fora sem perder no câmbio: Wise, Revolut, PayPal, Venmo e Western Union comparadas de verdade — quanto cada uma cobra e qual vale a pena em 2026.",
+  "recommendedFor": [
+    {
+      "label": "Quem mora fora ou trabalha remoto e manda dinheiro com frequência",
+      "offerId": "wise-transfer",
+      "reason": "A taxa comercial de câmbio da Wise e a tarifa transparente de 0,4% a 1% geram uma economia grande em transferências recorrentes, comparada ao que banco e PayPal cobram."
+    },
+    {
+      "label": "Nômades digitais que guardam e gastam em várias moedas",
+      "offerId": "revolut",
+      "reason": "A conta multimoeda da Revolut guarda mais de 25 moedas e já vem com cripto e ações, funcionando como uma central financeira completa na estrada."
+    },
+    {
+      "label": "Universitários nos EUA que dividem aluguel e conta do rolê",
+      "offerId": "venmo",
+      "reason": "O Venmo virou o padrão de pagamento entre pessoas nos EUA — transferência instantânea para o débito e feed social deixam a divisão fácil."
+    },
+    {
+      "label": "Quem vende online e recebe de compradores do mundo todo",
+      "offerId": "paypal-international",
+      "reason": "O PayPal é aceito por lojas do mundo inteiro e tem proteção ao comprador e ao vendedor, sendo a forma de pagamento que o cliente de e-commerce espera encontrar."
+    },
+    {
+      "label": "Quem manda dinheiro para familiares sem conta bancária em países em desenvolvimento",
+      "offerId": "western-union",
+      "reason": "A Western Union permite retirar o dinheiro em espécie presencialmente em mais de 200 países, sem precisar de conta em banco."
+    }
+  ]
 }

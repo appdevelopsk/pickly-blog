@@ -2,5 +2,147 @@
   "title": "Melhor plataforma de investimento 2026: 5 comparadas",
   "description": "Comparamos Fidelity, Vanguard, Schwab, Robinhood, E*TRADE. Veja o que realmente se destaca em índices de despesas e recursos da plataforma para plataforma de investimento em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Taxa de administração dos ETFs de índice",
+      "paragraphs": [
+        "Fundos Fidelity ZERO: 0,00% (FZROX, FZILX etc.) — disponíveis só em contas Fidelity.",
+        "ETFs da Vanguard: 0,03% (VTI), 0,07% (VXUS), 0,03% (BND). Das menores do mercado.",
+        "ETFs da Schwab: 0,03% (SCHB), 0,06% (SCHE), 0,03% (SCHZ). Equivalentes aos da Vanguard.",
+        "Outras plataformas: dá para comprar os mesmos ETFs sem corretagem, mas elas não têm fundos próprios de custo zero."
+      ]
+    },
+    {
+      "heading": "A melhor para cada perfil",
+      "paragraphs": [
+        "Melhor no geral: Fidelity. Fundos ZERO sem taxa, corretagem zero, atendimento por telefone 24/7 e ampla variedade de classes de ativos.",
+        "Melhor para quem investe em índices: Vanguard. Taxas de administração entre as menores do mercado e pioneira na indexação.",
+        "Melhor para banco + corretora: Schwab. Conta bancária integrada com saque gratuito em caixas eletrônicos no mundo todo.",
+        "Melhor no celular / uso casual: Robinhood. A melhor experiência mobile, mas sem ferramentas de análise.",
+        "Melhor para quem opera ativamente: E*TRADE. Plataforma Power E*TRADE e operações com opções bem completas."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "A plataforma faz mesmo diferença para quem investe em índices?",
+      "a": "Pouca — o custo total varia cerca de 0,01% a 0,05% ao ano. Em 30 anos sobre R$ 1 milhão, isso dá algo entre R$ 6 mil e R$ 30 mil. Não é irrelevante, mas também não muda sua vida. Escolha a plataforma que atende melhor às suas outras necessidades."
+    },
+    {
+      "q": "Vale a pena trocar de plataforma?",
+      "a": "Só se você economizar 0,05% ou mais em taxa de administração ou ganhar recursos que realmente usa. A troca custa tempo: declarar as cotas transferidas no imposto de renda e aprender uma interface nova."
+    },
+    {
+      "q": "A Robinhood é segura?",
+      "a": "Sim — tem cobertura do SIPC como qualquer outra corretora americana, com garantia padrão de US$ 500 mil. O episódio da GameStop em 2021 expôs o modelo de negócio dela baseado em venda de fluxo de ordens, mas as contas em si estão protegidas."
+    },
+    {
+      "q": "E Webull, Public e M1?",
+      "a": "Todas funcionam bem para perfis específicos. A Public foca em investimento com critérios éticos; a M1, em gestão automatizada de carteira; e a Webull é parecida com a Robinhood, só que com gráficos mais avançados."
+    }
+  ],
+  "products": {
+    "fidelity-platform": {
+      "badge": "🏆 Melhor no geral",
+      "review": "A Fidelity é a melhor plataforma de investimentos para a maioria das pessoas. Sem valor mínimo, sem corretagem, com o FZROX a 0,00% de taxa (o único fundo realmente sem custo), atendimento telefônico 24/7 e agências nas principais cidades. Reúne corretora, previdência, conta bancária e conta de saúde (HSA) em um só lugar.",
+      "pros": [
+        "FZROX com taxa de 0,00%",
+        "Telefone 24/7 e agências físicas",
+        "A maior variedade de classes de ativos"
+      ],
+      "cons": [
+        "Os fundos ZERO só podem ser transferidos dentro da Fidelity (você fica preso à casa)",
+        "A interface do ActiveTraderPro é menos refinada que a do ThinkOrSwim"
+      ]
+    },
+    "vanguard-platform": {
+      "badge": "💸 Melhor para índices",
+      "review": "A Vanguard é a escolha certa para quem compra e segura ETFs de índice. As taxas estão entre as menores do mercado — em 30 anos, aqueles 0,01% a 0,03% a menos que a concorrência viram uma diferença nada desprezível. Fundada por Jack Bogle. A interface é datada (site com cara de 2010), mas funciona.",
+      "pros": [
+        "As menores taxas de administração em ETFs",
+        "Fundada por Jack Bogle (pioneiro da indexação)",
+        "ETFs que viraram referência no mercado (VTI, VXUS)"
+      ],
+      "cons": [
+        "Interface datada",
+        "Poucas ferramentas para operar ativamente"
+      ]
+    },
+    "schwab-platform": {
+      "badge": "🏦 Melhor como banco",
+      "review": "A Schwab é a escolha certa para quem quer banco e corretora integrados. Corretagem zero, conta corrente Schwab Bank sem IOF sobre compras internacionais e saque gratuito em caixas eletrônicos no mundo todo. O robô de investimento Intelligent Portfolios é gratuito. Comprou a TD Ameritrade em 2023 — a plataforma ThinkOrSwim agora faz parte da Schwab.",
+      "pros": [
+        "Banco e corretora integrados",
+        "Saque gratuito em caixas eletrônicos no mundo todo",
+        "Plataforma ThinkOrSwim (herdada da TD)"
+      ],
+      "cons": [
+        "O Intelligent Portfolios deixa muito dinheiro parado em caixa",
+        "Ainda há atritos na migração vinda da TD Ameritrade"
+      ]
+    },
+    "robinhood-platform": {
+      "badge": "📱 Melhor app",
+      "review": "A Robinhood é a escolha certa para quem investe pelo celular sem muita frequência. Melhor experiência mobile do mercado, corretagem zero e compra de frações de ações. Faltam ferramentas de análise e recursos avançados se comparada a Fidelity e Schwab. Ideal para comprar ETFs amplos de vez em quando.",
+      "pros": [
+        "Melhor experiência no celular",
+        "Frações de ações",
+        "Abertura de conta rápida"
+      ],
+      "cons": [
+        "Sem ferramentas de análise",
+        "Modelo de negócio baseado em venda de fluxo de ordens",
+        "Poucos tipos de conta"
+      ]
+    },
+    "etrade-platform": {
+      "badge": "📈 Melhor para trade",
+      "review": "A E*TRADE é a escolha certa para quem opera com frequência. A plataforma Power E*TRADE traz gráficos avançados, é boa para opções e não cobra corretagem. Hoje pertence ao Morgan Stanley. O Power E*TRADE dá conta de operações ativas e estratégias com opções sem sufoco.",
+      "pros": [
+        "Power E*TRADE para operar ativamente",
+        "Plataforma forte em opções",
+        "Pertence ao Morgan Stanley"
+      ],
+      "cons": [
+        "Interface menos amigável para iniciantes que a da Robinhood",
+        "Integração com o Morgan Stanley ainda em andamento"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-platform": "Abra sua conta em fidelity.com. Os fundos ZERO (FZROX, FZILX, FZIPX) são exclusivos da Fidelity.",
+    "vanguard-platform": "Abra sua conta em investor.vanguard.com. VTI e VXUS são os ETFs carro-chefe da casa.",
+    "schwab-platform": "Abra sua conta em schwab.com. A conta corrente do Schwab Bank é o grande diferencial.",
+    "robinhood-platform": "Abra sua conta em robinhood.com ou pelo app. A assinatura Robinhood Gold (US$ 5/mês) libera ferramentas de análise.",
+    "etrade-platform": "Abra sua conta em us.etrade.com. Use o Power E*TRADE (separado do app comum) para os recursos avançados."
+  },
+  "pinDescription": "Onde investir lá fora em 2026? Comparei Fidelity, Vanguard, Schwab, Robinhood e E*TRADE — taxas, app e o melhor perfil para cada uma. Salva esse pin antes de abrir sua conta 💸",
+  "recommendedFor": [
+    {
+      "label": "Quem poupa para a aposentadoria no longo prazo e briga por cada centésimo de taxa",
+      "offerId": "fidelity-platform",
+      "reason": "O FZROX da Fidelity, com taxa de 0,00%, é o único fundo realmente sem custo — e isso economiza juros compostos ao longo de décadas de poupança."
+    },
+    {
+      "label": "Investidor passivo fiel à estratégia de fundos de índice baratos",
+      "offerId": "vanguard-platform",
+      "reason": "O VTI e o VXUS da Vanguard cobram de 0,03% a 0,07%, entre as menores taxas do mercado, e foi Jack Bogle, fundador da casa, quem criou essa estratégia."
+    },
+    {
+      "label": "Quem viaja muito para fora e precisa mexer em dinheiro e investimentos",
+      "offerId": "schwab-platform",
+      "reason": "A conta corrente do Schwab Bank não cobra taxa sobre compras internacionais e libera saque gratuito em qualquer caixa eletrônico do mundo — nenhuma outra corretora deixa seu dinheiro viajar tão solto quanto você."
+    },
+    {
+      "label": "Jovem investindo pela primeira vez, começando com pouco",
+      "offerId": "robinhood-platform",
+      "reason": "O app da Robinhood é o melhor do mercado e permite comprar frações, então dá para entrar em ações e ETFs caros com qualquer valor, sem mínimo nenhum."
+    },
+    {
+      "label": "Trader ativo que monta estratégias com opções e múltiplas pernas",
+      "offerId": "etrade-platform",
+      "reason": "Os gráficos avançados e as ferramentas voltadas a opções do Power E*TRADE dão conta de estruturas de várias pernas que plataformas mais simples não executam direito."
+    }
+  ]
 }

@@ -116,5 +116,32 @@
     "anker-magnetic-magsafe-power-bank": "Disponível em anker.com e Amazon. A linha 'MagGo' tem suporte a MagSafe — confirme se o modelo é compatível com MagSafe.",
     "iniu-portable-charger": "Disponível em iniushop.com e Amazon. O desconto Subscribe & Save costuma ser de 10-15%."
   },
-  "pinDescription": "Melhor carregador portátil de viagem 2026: Anker 737 vs. Anker 313 vs. RAVPower PD Pioneer vs. Anker MagGo vs. INIU."
+  "pinDescription": "Melhor carregador portátil de viagem 2026: Anker 737 vs. Anker 313 vs. RAVPower PD Pioneer vs. Anker MagGo vs. INIU.",
+  "recommendedFor": [
+    {
+      "label": "Quem vive viajando a trabalho com o notebook na mochila",
+      "offerId": "anker-power-bank-737",
+      "reason": "A saída PD de 140W carrega um MacBook Pro e o celular ao mesmo tempo — um único bloco substitui de vez o carregador do notebook."
+    },
+    {
+      "label": "Quem viaja no fim de semana e quer energia extra sem peso",
+      "offerId": "anker-power-bank-313",
+      "reason": "Cabe no bolso e os 10.000mAh dão 2 a 3 recargas de celular, por R$ 150 a R$ 250 — se perder, não dói tanto."
+    },
+    {
+      "label": "Mochileiros em roteiros longos, de vários dias",
+      "offerId": "ravpower-pd-pioneer",
+      "reason": "Os 26.800mAh são o máximo de capacidade permitido a bordo em um só bloco: mais de 7 recargas de celular antes de precisar de tomada."
+    },
+    {
+      "label": "Usuários de iPhone que odeiam se enrolar com cabo",
+      "offerId": "anker-magnetic-magsafe-power-bank",
+      "reason": "O MagSafe gruda por ímã em qualquer iPhone 12 ou mais novo, então você carrega sem fio com o celular na mão ou no bolso."
+    },
+    {
+      "label": "Estudantes de intercâmbio com orçamento apertado",
+      "offerId": "iniu-portable-charger",
+      "reason": "Por R$ 100 a R$ 150, com corpo fininho e 10.000mAh, dá conta das recargas do dia a dia sem pesar na mala nem no bolso."
+    }
+  ]
 }

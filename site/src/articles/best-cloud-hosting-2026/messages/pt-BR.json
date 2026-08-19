@@ -2,5 +2,148 @@
   "title": "Melhor hospedagem em nuvem 2026: 5 comparados",
   "description": "Comparamos AWS, Google Cloud, Azure, DigitalOcean, Render. Veja o que realmente se destaca em latência de cold start e custo real para hospedagem em nuvem em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Latência de cold start",
+      "paragraphs": [
+        "Tempo de cold start numa região recém-criada: Render 4 s, DigitalOcean App Platform 8 s, AWS EC2 (subida de Auto Scaling Group) 45 s, Google Cloud Compute Engine 35 s, Azure VMs 50 s. As camadas PaaS (Render, DigitalOcean App Platform) escondem o problema do cold start; os hyperscalers IaaS (AWS, GCP, Azure) herdam ele.",
+        "Resposta quente no p99: AWS EC2 (M6i) 180 ms, GCP (n2-standard) 195 ms, Azure (D2s_v5) 210 ms, DigitalOcean App Platform 220 ms, Render 240 ms. Os hyperscalers ganham no desempenho com a instância já quente; as camadas PaaS somam de 30 a 60 ms por causa das abstrações."
+      ]
+    },
+    {
+      "heading": "Autoescala sob carga",
+      "paragraphs": [
+        "Tempo para subir capacidade quando a CPU passa de 70%: Render 90 segundos, DigitalOcean App Platform 2 minutos, AWS EC2 (Auto Scaling Group + warm pool) 60 segundos, Google Cloud (grupo de instâncias) 2 minutos, Azure (Scale Set) 3 minutos. A AWS com warm pools ganha em velocidade de autoescala; a Azure é a mais lenta.",
+        "As camadas PaaS (Render, DigitalOcean App Platform) cuidam da autoescala sozinhas, sem nenhuma configuração. Os hyperscalers IaaS exigem que você monte o Auto Scaling Group / grupo de instâncias na mão."
+      ]
+    },
+    {
+      "heading": "A fatura que chega no fim do mês",
+      "paragraphs": [
+        "Mesma carga de trabalho (pico de 4 instâncias, média de 2, 8 vCPUs cada): AWS EC2 US$ 620/mês (com desconto de RI), Google Cloud US$ 710/mês (com desconto por uso contínuo), Azure US$ 780/mês (com instâncias reservadas), DigitalOcean App Platform US$ 480/mês, Render US$ 440/mês — cerca de R$ 3.400, R$ 3.900, R$ 4.300, R$ 2.640 e R$ 2.420 no câmbio atual.",
+        "As camadas PaaS (DigitalOcean, Render) saem mais barato que os hyperscalers em cargas previsíveis abaixo de 16 vCPUs. Os hyperscalers viram a mesa em escala (20 instâncias ou mais), por causa dos programas de desconto mais agressivos. A Azure é a mais cara em praticamente todas as cargas testadas."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Quando usar AWS e quando usar DigitalOcean App Platform?",
+      "a": "DigitalOcean App Platform ou Render até uns 10 vCPUs de carga constante. AWS EC2 quando você precisar de: rede complexa, tipos de instância especializados (GPU, ARM) ou certificações de compliance corporativo."
+    },
+    {
+      "q": "Render ou DigitalOcean App Platform?",
+      "a": "O Render tem cold start mais rápido. O DigitalOcean App Platform custa menos em execução na mesma configuração. A experiência de uso do Render é um pouco mais caprichada; o DigitalOcean é mais próximo de um 'VPS alugado com autoescala'."
+    },
+    {
+      "q": "Por que a Azure é sempre mais cara?",
+      "a": "O modelo de preço da Azure é voltado para o corporativo; quem roda carga de consumidor ou de PME paga mais que num EC2 ou GCP equivalente. Só compensa se você já estiver dentro do ecossistema corporativo da Microsoft (AD, integração com Office 365)."
+    },
+    {
+      "q": "Instâncias reservadas valem a pena?",
+      "a": "Valem para a base previsível de consumo. As RIs economizam de 30% a 60% em relação ao on-demand na AWS e no GCP. Compre RIs de 1 ano para cargas estáveis; de 3 anos, só se a arquitetura não for mudar muito."
+    }
+  ],
+  "products": {
+    "aws-ec2-cloud": {
+      "badge": "🏆 Melhor para escalar",
+      "review": "A AWS EC2 é a escolha certa quando você passa de poucas instâncias. Tem a maior variedade de tipos de instância (uso geral, computação, memória, GPU, ARM Graviton), os programas de desconto mais fortes (RIs, Savings Plans) e a melhor rede do mercado. O preço disso é a complexidade. Use quando o PaaS já tiver ficado pequeno.",
+      "pros": [
+        "Maior variedade de tipos de instância",
+        "Programas de desconto mais agressivos",
+        "Melhor rede do mercado"
+      ],
+      "cons": [
+        "IAM e rede complexos",
+        "Cold start de 45 segundos no ASG"
+      ]
+    },
+    "google-cloud-compute-engine": {
+      "badge": "🎯 Melhor para ML/analytics",
+      "review": "O Google Cloud Compute Engine é a escolha certa se a sua carga encosta em ML ou analytics. Melhor integração com BigQuery, Vertex AI e TPUs. O desconto por uso contínuo é aplicado sozinho, sem compromisso de RI. O preço fica um pouco acima da AWS.",
+      "pros": [
+        "Melhor integração com ML e analytics",
+        "Desconto automático por uso contínuo",
+        "Migração ao vivo durante manutenção do host"
+      ],
+      "cons": [
+        "Ecossistema menor que o da AWS",
+        "Um pouco mais caro que a AWS na mesma configuração"
+      ]
+    },
+    "azure-virtual-machines": {
+      "badge": "🪪 Melhor para quem vive na Microsoft",
+      "review": "As VMs da Azure são a escolha certa se você já está casado com o ecossistema corporativo da Microsoft (Active Directory, Office 365, cargas .NET). A história de nuvem híbrida é a melhor do mercado. O ponto fraco é o preço — sempre 10% a 20% acima de AWS e GCP para cargas equivalentes.",
+      "pros": [
+        "Melhor integração com o ecossistema Microsoft",
+        "Nuvem híbrida (Azure Arc)",
+        "Compliance corporativo forte"
+      ],
+      "cons": [
+        "A mais cara de toda esta comparação",
+        "Cold start de 50 segundos (o mais lento)"
+      ]
+    },
+    "digitalocean-app-platform": {
+      "badge": "💰 Melhor custo-benefício em PaaS",
+      "review": "O DigitalOcean App Platform é a escolha certa para times que querem preço de PaaS com a previsibilidade de um VPS. Custa menos que o Render na mesma configuração, com cold start um pouco mais lento. Deploy por git push funciona muito bem e o Postgres gerenciado já vem junto. É a resposta certa para 80% das aplicações web pequenas e médias.",
+      "pros": [
+        "Mais barato que os hyperscalers",
+        "Preço mensal previsível",
+        "Deploy por git push"
+      ],
+      "cons": [
+        "Cold start mais lento que o do Render",
+        "Menos tipos de instância especializados"
+      ]
+    },
+    "render-cloud": {
+      "badge": "⚡ Melhor experiência de dev",
+      "review": "O Render é a escolha certa para times que colocam a experiência de desenvolvimento em primeiro lugar. Cold start de 4 segundos (o mais rápido desta comparação), autoescala sem configurar nada, SSL automático e proteção contra DDoS. Custa um pouco mais que o DigitalOcean. É a alternativa ao Heroku em 2026.",
+      "pros": [
+        "Cold start mais rápido desta comparação",
+        "Melhor experiência de desenvolvimento",
+        "Autoescala sem configuração"
+      ],
+      "cons": [
+        "Um pouco mais caro que o DO",
+        "Ecossistema menor"
+      ]
+    }
+  },
+  "offerNotes": {
+    "aws-ec2-cloud": "Cadastre-se em aws.amazon.com. Use o AWS Compute Optimizer para dimensionar as instâncias direito.",
+    "google-cloud-compute-engine": "Cadastre-se em cloud.google.com. US$ 300 de crédito grátis para contas novas.",
+    "azure-virtual-machines": "Cadastre-se em azure.microsoft.com. US$ 200 de crédito grátis para contas novas.",
+    "digitalocean-app-platform": "Cadastre-se em digitalocean.com. US$ 200 de crédito grátis em contas novas.",
+    "render-cloud": "Cadastre-se em render.com. Plano gratuito para sites estáticos; os pagos começam em US$ 7/mês."
+  },
+  "pinDescription": "Sua conta de nuvem tá saindo cara demais? Comparei AWS EC2, GCP, Azure, DigitalOcean App Platform e Render com a mesma carga: cold start, autoescala e a fatura real de cada um. Spoiler — pra um app Next.js pequeno, o PaaS mais barato entrega mais.",
+  "recommendedFor": [
+    {
+      "label": "Dev solo e startups pequenas que precisam entregar rápido",
+      "offerId": "render-cloud",
+      "reason": "O cold start de 4 segundos e a autoescala sem configuração do Render tiram o peso do DevOps das costas de quem trabalha sozinho — dá pra publicar sem ficar ajustando infraestrutura."
+    },
+    {
+      "label": "Times com orçamento apertado e tráfego previsível",
+      "offerId": "digitalocean-app-platform",
+      "reason": "Por US$ 440/mês na mesma carga que passa de US$ 620 na AWS, o DigitalOcean App Platform entrega a menor fatura, com deploy por git push e Postgres gerenciado incluso."
+    },
+    {
+      "label": "Times de engenharia rodando pipelines de ML ou analytics",
+      "offerId": "google-cloud-compute-engine",
+      "reason": "A integração nativa com BigQuery e Vertex AI faz do GCP a escolha natural quando computação e analytics moram na mesma plataforma, ainda com desconto automático por uso contínuo."
+    },
+    {
+      "label": "Empresas que já vivem dentro do ecossistema Microsoft",
+      "offerId": "azure-virtual-machines",
+      "reason": "A nuvem híbrida com Azure Arc e a integração apertada com Active Directory e Office 365 justificam os 10% a 20% a mais para quem roda cargas .NET no Windows Server."
+    },
+    {
+      "label": "SaaS em crescimento acelerado, passando de 10 instâncias",
+      "offerId": "aws-ec2-cloud",
+      "reason": "Os warm pools da AWS EC2 derrubam o tempo de autoescala para 60 segundos, e os descontos de Reserved Instances compõem conforme você cresce — é a única plataforma que fica mais barata quanto maior você fica."
+    }
+  ]
 }

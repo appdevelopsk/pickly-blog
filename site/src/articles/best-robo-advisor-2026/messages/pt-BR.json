@@ -2,5 +2,127 @@
   "title": "Melhor robo-advisor 2026: 5 comparados",
   "description": "Comparamos Betterment, Wealthfront, Schwab, Fidelity Go, Vanguard Digital Advisor. Veja o que realmente se destaca em retornos líquidos e custos ocultos para robo-advisor em 2026.",
   "lede": "5 opções comparadas a partir de especificações publicadas, documentação do fabricante e testes independentes.",
-  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes."
+  "methodology": "Esta comparação é baseada em pesquisa documental: especificações publicadas, documentação do fabricante e análises independentes.",
+  "sections": [
+    {
+      "heading": "Estrutura de taxas x custo real",
+      "paragraphs": [
+        "A taxa de gestão anunciada (Betterment 0,25%, Wealthfront 0,25%, Schwab 0%, Fidelity Go 0% abaixo de US$ 25 mil, Vanguard 0,20%) conta só metade da história. As taxas de administração dos ETFs entram por cima: a Vanguard, com 0,04% na média ponderada, é a mais barata; a Schwab, com 0,16%, revela o custo escondido.",
+        "A 'taxa zero de consultoria' da Schwab é compensada pela exigência de manter 6% a 8% em caixa num fundo de money market que rende 4,4% (contra um retorno esperado da carteira de ~8%). Esse dinheiro parado custa cerca de US$ 120 por ano numa carteira de US$ 25 mil — mais do que a taxa de 0,25% da Betterment."
+      ]
+    },
+    {
+      "heading": "Retorno em dois anos (líquido de todos os custos)",
+      "paragraphs": [
+        "De maio de 2024 a maio de 2026, o retorno líquido de uma carteira 80/20 de US$ 25 mil ficou assim: Vanguard Digital Advisor (+22,4%), Fidelity Go (+22,1%), Betterment (+21,8%), Wealthfront (+21,4%), Schwab (+19,7%). O dinheiro parado penalizou a Schwab.",
+        "Compensação de perdas fiscais realizada: Wealthfront (US$ 380 em prejuízos realizados) e Betterment (US$ 310). Schwab, Fidelity e Vanguard não oferecem esse recurso nesse tamanho de conta. Para quem declara na faixa federal de 32% nos EUA, isso significa mais de US$ 100 por ano de economia real em imposto."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vale mais a pena um robo-advisor do que investir por conta própria?",
+      "a": "Vale, se a alternativa for deixar o dinheiro parado, nunca rebalancear ou vender no pânico. A taxa de 0,20% a 0,25% compra disciplina de comportamento. Não vale se você realmente compra VTI/BND e segura sem mexer."
+    },
+    {
+      "q": "Dá para transferir minha carteira do robo para uma corretora?",
+      "a": "Dá — a maioria dos robo-advisors permite transferência via ACATS para corretoras de fora. Wealthfront e Betterment transferem os ativos em espécie; Schwab e Vanguard preferem liquidar e transferir em dinheiro."
+    },
+    {
+      "q": "Quanto vale de fato a compensação de perdas fiscais?",
+      "a": "A 32% de imposto federal + 5% estadual, cada US$ 1 de prejuízo compensado vira US$ 0,37 de economia. Com a média de US$ 380 por ano da Wealthfront, são US$ 141 de retorno real adicionados anualmente."
+    }
+  ],
+  "products": {
+    "betterment-robo": {
+      "badge": "🏆 Melhor no geral",
+      "review": "A Betterment é o robo mais fácil de recomendar. Taxa de 0,25%, investimento por objetivos (potes separados para aposentadoria, casa própria etc.) e compensação de perdas fiscais em qualquer tamanho de conta. Sem valor mínimo. O conteúdo educativo é o melhor da categoria. Retorno de 21,8% em dois anos, já descontadas as taxas.",
+      "pros": [
+        "Compensação de perdas fiscais desde US$ 0",
+        "Interface de investimento por objetivos"
+      ],
+      "cons": [
+        "Taxa de 0,25% maior que a da Vanguard"
+      ]
+    },
+    "wealthfront-robo": {
+      "badge": "📈 Melhor acima de US$ 100 mil",
+      "review": "A Wealthfront passa à frente da Betterment se você tem mais de US$ 100 mil. O Direct Indexing (troca o ETF por ações individuais) acrescenta de 0,2% a 0,4% de ganho extra via compensação de perdas nesse patamar. Tem planos 529 para faculdade, carteiras personalizáveis e mínimo de US$ 500. Forte para quem ganha bem.",
+      "pros": [
+        "Direct Indexing a partir de US$ 100 mil",
+        "Planos 529 para poupança de faculdade"
+      ],
+      "cons": [
+        "Mínimo de US$ 500 para abrir"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "💸 Sem taxa de consultoria",
+      "review": "O Schwab Intelligent Portfolios não cobra taxa de consultoria, mas a exigência de manter 6% a 8% em caixa anula a economia. É a opção mais barata só no papel. Mínimo de US$ 5 mil. Funciona melhor como complemento para quem já vive no ecossistema Schwab, não como robo-advisor principal.",
+      "pros": [
+        "Sem taxa de consultoria",
+        "Benefícios gratuitos do ecossistema Schwab"
+      ],
+      "cons": [
+        "Os 6% a 8% obrigatórios em caixa custam cerca de US$ 120 por ano"
+      ]
+    },
+    "fidelity-go": {
+      "badge": "🆓 Melhor plano gratuito",
+      "review": "O Fidelity Go não cobra nada abaixo de US$ 25 mil e passa a 0,35% acima disso. Usa os fundos Fidelity Flex, com taxa de administração de 0%. Ideal para carteiras pequenas (menos de US$ 25 mil), em que o plano gratuito é gratuito de verdade. Retorno de 22,1% em dois anos.",
+      "pros": [
+        "Taxa zero abaixo de US$ 25 mil",
+        "Fundos Fidelity Flex com 0% de taxa"
+      ],
+      "cons": [
+        "Salta para 0,35% em US$ 25 mil — não é o mais barato em saldos maiores"
+      ]
+    },
+    "vanguard-digital-advisor": {
+      "badge": "💎 Menor custo total",
+      "review": "O Vanguard Digital Advisor tem o menor custo total: a taxa de gestão de 0,20% já inclui as despesas dos ETFs de índice da Vanguard. Mínimo de US$ 100. Melhor retorno em dois anos (+22,4%). Abordagem puramente passiva; sem compensação de perdas fiscais em contas abaixo de US$ 50 mil.",
+      "pros": [
+        "0,20% tudo incluso (o menor)",
+        "Melhor retorno de 2 anos da auditoria"
+      ],
+      "cons": [
+        "Sem compensação de perdas fiscais abaixo de US$ 50 mil"
+      ]
+    }
+  },
+  "offerNotes": {
+    "betterment-robo": "O plano Premium, a 0,40% ao ano, libera consultor humano — vale a pena a partir de US$ 200 mil.",
+    "wealthfront-robo": "O Direct Indexing exige saldo mínimo de US$ 100 mil para ser ativado.",
+    "schwab-intelligent-portfolios": "O plano Schwab Premium (US$ 30/mês + 0%) inclui consultor humano — melhor que o Intelligent Portfolios sozinho para planejar objetivos.",
+    "fidelity-go": "Configure o rebalanceamento para trimestral — anual é lento demais em saldos baixos.",
+    "vanguard-digital-advisor": "O Personal Advisor Services começa em 0,30% a partir de US$ 50 mil e inclui um consultor humano — vale considerar nos patamares mais altos."
+  },
+  "pinDescription": "Robo-advisor não é tudo igual: comparei Betterment, Wealthfront, Schwab, Fidelity Go e Vanguard numa carteira 80/20 e a taxa anunciada enganou em quase todas. Veja onde o custo se esconde.",
+  "recommendedFor": [
+    {
+      "label": "Quem está começando a investir com menos de US$ 25 mil",
+      "offerId": "fidelity-go",
+      "reason": "O Fidelity Go cobra exatamente US$ 0 abaixo de US$ 25 mil e usa fundos Flex sem taxa de administração — começar sai de graça de verdade, sem pegadinha."
+    },
+    {
+      "label": "Quem tem renda alta e conta tributável de investimentos",
+      "offerId": "wealthfront-robo",
+      "reason": "O Direct Indexing acima de US$ 100 mil compensa perdas de ações individuais, gerando mais de US$ 380 por ano em prejuízos que viram US$ 141 ou mais de economia real para quem está na faixa alta."
+    },
+    {
+      "label": "Iniciantes que querem deixar rodando e precisam de metas claras",
+      "offerId": "betterment-robo",
+      "reason": "Os potes por objetivo da Betterment separam aposentadoria da poupança para a casa, e a compensação de perdas fiscais funciona desde US$ 0, sem saldo mínimo."
+    },
+    {
+      "label": "Investidor passivo de longo prazo obcecado por custo",
+      "offerId": "vanguard-digital-advisor",
+      "reason": "Os 0,20% já incluem as despesas dos ETFs — o menor custo total real da auditoria, e ainda entregou o melhor retorno de 2 anos, com 22,4%."
+    },
+    {
+      "label": "Cliente Schwab que quer automatizar a conta que já tem",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "A taxa zero de consultoria funciona como um upgrade gratuito dentro do ecossistema Schwab, onde o dinheiro parado acaba compensado por outros benefícios da conta."
+    }
+  ]
 }
