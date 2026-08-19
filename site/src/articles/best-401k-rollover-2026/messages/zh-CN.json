@@ -2,5 +2,153 @@
   "title": "2026年最佳401(k)滚存IRA：5款对比",
   "description": "看看2026年哪款401(k)滚存IRA在滚存流程和长期总成本方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "转出流程的摩擦点",
+      "paragraphs": [
+        "Fidelity、Schwab 和 Vanguard 对大多数 401(k) 支持全程线上发起转出——填写在线表单、电子签名，之后由他们与你原先的 401(k) 管理机构对接文书。完成周期通常为 7-14 天。",
+        "E*TRADE 和 Merrill Edge 需要更多人工往返，通常要把 2-3 页的纸质表格邮寄给原 401(k) 管理机构。完成周期为 14-30 天。",
+        "只要操作正确，转出属于「直接转出」（机构对机构，不产生税负）。「间接转出」（支票开给本人）会被预扣 20%，且须在 60 天内重新存入——非必要不要选。"
+      ]
+    },
+    {
+      "heading": "转入奖励金",
+      "paragraphs": [
+        "以 20 万美元转出为例，2026 年现行奖励为：Fidelity 0 美元（极少提供转入奖励，但交易免佣）、Schwab 100-300 美元（随活动变动）、Vanguard 0 美元（不给奖励，但基础费率最低）、E*TRADE 500-600 美元、Merrill Edge 600 美元（最高，需持有美国银行账户）。",
+        "Merrill Edge 的 600 美元奖励折算下来是一次性 0.30% 的收益——第一年有点意义，但摊到 20-30 年的持有期就微不足道了。别只盯着奖励金做决定。"
+      ]
+    },
+    {
+      "heading": "分场景选谁",
+      "paragraphs": [
+        "综合最佳：Fidelity Rollover IRA。0 佣金、3400 多只免交易费共同基金，旗舰产品 FZROX（美国全市场共同基金）管理费率 0.00%。",
+        "指数投资者最佳：Vanguard Rollover IRA。ETF 费率行业最低（VTI 0.03%、VXUS 0.07%），指数化投资的开创者。选 Vanguard 的理由纯粹是成本——20 万美元指数投资持有 30 年，费率低 0.01% 就意味着多出约 1200 美元。",
+        "主动交易者最佳：E*TRADE Rollover IRA。平台功能扎实，Power E*TRADE 提供进阶图表工具，转入奖励 500-600 美元。",
+        "美国银行客户最佳：Merrill Edge Rollover IRA。600 美元转入奖励，若在美国银行开户还可享 Preferred Rewards 权益（更多类别交易免费）。",
+        "银行整合最佳：Schwab Rollover IRA。支票、储蓄与券商账户打通，智能投顾（Intelligent Portfolios）免收顾问费。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "401(k) 该转出还是留在原处？",
+      "a": "以下情况建议转出：想要更广的基金选择、正在合并账户，或原 401(k) 管理费偏高。以下情况建议留着：原 401(k) 里有费率低于零售份额的机构级基金。"
+    },
+    {
+      "q": "401(k) 转出要交税吗？",
+      "a": "直接转出（机构对机构）不用交税。税前 401(k) 转入 Traditional IRA 免税。税前 401(k) 转入 Roth IRA 属于转换，转换金额当年要缴所得税。"
+    },
+    {
+      "q": "该做 Roth 转换吗？",
+      "a": "看情况——取决于当前与未来的税率档。如果现在的税率低于你预期的退休后税率，转换划算。如果正处于收入巅峰期，通常做普通转出（不转换）更好。"
+    },
+    {
+      "q": "转出能自己办还是需要理财顾问？",
+      "a": "普通的直接转出自己就能办。以下情况建议找顾问：做部分 Roth 转换、401(k) 里持有大幅增值的雇主股票（涉及 NUA 策略），或账户类型比较特殊。"
+    }
+  ],
+  "products": {
+    "fidelity-rollover-ira": {
+      "badge": "🏆 综合最佳",
+      "review": "对大多数人来说，Fidelity Rollover IRA 是正确选择。0 门槛、0 佣金、3400 多只免交易费共同基金，其中旗舰产品 FZROX（美国全市场）费率 0.00%——本次对比中唯一真正零成本的基金。客服水准出色（7×24 电话，主要城市设有网点），线上发起转出流程顺畅，基础需求和进阶需求都能兼顾。",
+      "pros": [
+        "FZROX 费率 0.00%",
+        "0 门槛、0 佣金",
+        "7×24 电话客服 + 主要城市网点"
+      ],
+      "cons": [
+        "极少提供转入奖励",
+        "Active Trader Pro 平台打磨程度不如 ThinkOrSwim"
+      ]
+    },
+    "schwab-rollover-ira": {
+      "badge": "🏦 银行整合最佳",
+      "review": "如果你想要银行与券商打通，Schwab Rollover IRA 是正确选择。0 门槛、0 佣金，Schwab Bank 支票账户免境外交易手续费，全球 ATM 取现免费。Schwab Intelligent Portfolios 智能投顾不收顾问费（其盈利来自现金留存部分）。转入奖励通常为 100-300 美元。Schwab 已于 2023 年收购 TD Ameritrade，ThinkOrSwim 平台现已并入 Schwab。",
+      "pros": [
+        "0 门槛、0 佣金",
+        "Schwab Bank 支票账户全球 ATM 取现免费",
+        "Intelligent Portfolios 智能投顾免顾问费"
+      ],
+      "cons": [
+        "Intelligent Portfolios 现金配置偏高，拖累收益",
+        "ETF 费率优势不及 Vanguard"
+      ]
+    },
+    "vanguard-rollover-ira": {
+      "badge": "💸 指数投资者最佳",
+      "review": "如果你打算把 70% 以上仓位放在指数 ETF 上且很少交易，Vanguard Rollover IRA 是正确选择。ETF 费率行业最低——VTI 0.03%、VXUS 0.07%、BND 0.03%。创始人 John Bogle 于 1976 年推出了首只面向散户的指数基金。界面陈旧（网页停留在 2010 年的观感），也不适合主动交易。但对买入并长期持有的指数投资者来说，30 年下来省的成本很实在——20 万美元组合可省 1200 美元以上。",
+      "pros": [
+        "ETF 费率行业最低",
+        "由指数化投资先驱 John Bogle 创立",
+        "Vanguard 系 ETF（VTI、VXUS）是行业标杆"
+      ],
+      "cons": [
+        "界面陈旧",
+        "无转入奖励",
+        "主动交易工具有限"
+      ]
+    },
+    "etrade-rollover-ira": {
+      "badge": "📈 主动交易者最佳",
+      "review": "对要把资金转入 IRA 的主动交易者来说，E*TRADE Rollover IRA 是正确选择。0 门槛、0 佣金，Power E*TRADE 提供进阶图表与期权工具。20 万美元转入奖励 500-600 美元。平台功能扎实，比 Vanguard 或 Fidelity 的 IRA 平台更适合主动交易。目前隶属摩根士丹利，整合期内部分服务由其补贴。",
+      "pros": [
+        "交易平台功能扎实（Power E*TRADE）",
+        "20 万美元转入奖励 500-600 美元",
+        "期权交易平台能力强"
+      ],
+      "cons": [
+        "与不活跃账户相关的收费高于同行",
+        "摩根士丹利整合仍在进行，服务体验时有波动"
+      ]
+    },
+    "merrill-edge-rollover-ira": {
+      "badge": "💰 转入奖励最高",
+      "review": "Merrill Edge Rollover IRA 提供本次对比中最高的转入奖励（20 万美元给 600 美元）。0 门槛、0 佣金，与美国银行账户打通。Preferred Rewards（在美国银行与 Merrill 合计资产满 2 万美元即免费加入）可让信用卡返现提升 25-75%，并额外获得免佣交易额度。单看 IRA 本身，Merrill Edge 中规中矩，真正的价值在于对现有美国银行客户的整合优势。",
+      "pros": [
+        "20 万美元转入奖励 600 美元（最高）",
+        "与美国银行账户打通",
+        "Preferred Rewards 信用卡返现加成"
+      ],
+      "cons": [
+        "要拿到最佳性价比需在美国银行开户",
+        "ETF 费率优势不及 Vanguard／Fidelity"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-rollover-ira": "在 fidelity.com 发起，或致电其转出专线。多数 401(k) 管理机构线上转出需 7-14 天。其团队会代你联系原 401(k) 机构，省时。",
+    "schwab-rollover-ira": "在 schwab.com 发起。Schwab 的转入奖励活动会轮换，办理前先查当前促销。奖励在转出完成后 30-60 天发放。",
+    "vanguard-rollover-ira": "在 investor.vanguard.com 发起。Vanguard 不给转入奖励，但 ETF 费率最低。多数 401(k) 管理机构支持线上转出。",
+    "etrade-rollover-ira": "在 us.etrade.com 发起。20 万美元以上转出的奖励通常为 500-600 美元，奖励在转出后 90 天发放，且需保持资产留存。",
+    "merrill-edge-rollover-ira": "在 merrilledge.com 发起。20 万美元转入奖励最高（600 美元），但最佳性价比需加入美国银行 Preferred Rewards（美国银行与 Merrill 合计资产满 2 万美元）。"
+  },
+  "pinDescription": "401(k) 转 IRA 怎么选？Fidelity、Schwab、Vanguard、E*TRADE、Merrill Edge 五家实测对比：费率、转入奖励、办理天数一表看懂，20 万美元资金别选错。",
+  "recommendedFor": [
+    {
+      "label": "首次办理转出、想要简单低成本起步的人",
+      "offerId": "fidelity-rollover-ira",
+      "reason": "Fidelity 的 7×24 客服和费率 0.00% 的 FZROX，同时解决了新手的流程门槛和长期持有成本。"
+    },
+    {
+      "label": "长期买入持有的指数基金投资者",
+      "offerId": "vanguard-rollover-ira",
+      "reason": "Vanguard 的 VTI（0.03%）和 VXUS（0.07%）是市面最低的 ETF 费率，20 万美元持有 30 年可省 1200 美元以上。"
+    },
+    {
+      "label": "在退休账户里做主动交易和期权的人",
+      "offerId": "etrade-rollover-ira",
+      "reason": "Power E*TRADE 提供进阶图表和强力期权平台，20 万美元转出还有 500-600 美元奖励。"
+    },
+    {
+      "label": "想把银行与投资合到一处的美国银行客户",
+      "offerId": "merrill-edge-rollover-ira",
+      "reason": "现有美国银行客户可拿到 600 美元转入奖励，并解锁最高 75% 信用卡返现加成的 Preferred Rewards 权益。"
+    },
+    {
+      "label": "常出国、想让银行和券商一站解决的人",
+      "offerId": "schwab-rollover-ira",
+      "reason": "Schwab Bank 支票账户全球 ATM 取现免费、免境外交易手续费，转入的资金还能用免顾问费的智能投顾打理。"
+    }
+  ]
 }

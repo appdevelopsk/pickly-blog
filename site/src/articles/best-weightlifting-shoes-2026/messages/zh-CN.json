@@ -147,5 +147,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "我们从五个维度对每款产品进行评估：做工质量、日常使用中的表现、长期耐用性、舒适度以及性价比。其中表现和耐用性所占权重最高，因为它们直接决定了一款产品在 12 个月后是否依然实用。"
+  "methodology": "我们从五个维度对每款产品进行评估：做工质量、日常使用中的表现、长期耐用性、舒适度以及性价比。其中表现和耐用性所占权重最高，因为它们直接决定了一款产品在 12 个月后是否依然实用。",
+  "recommendedFor": [
+    {
+      "label": "专注抓举与挺举的竞技举重选手",
+      "offerId": "adidas-adipower-3-weightlifting",
+      "reason": "24mm 后跟高度为同类最高，能支撑抓举和挺举所需的前倾姿势，刚性 TPU 跟块几乎不损耗任何发力。"
+    },
+    {
+      "label": "不想在 WOD 中途换鞋的 CrossFit 训练者",
+      "offerId": "reebok-legacy-lifter-3",
+      "reason": "鞋身保留少量横向弯折，杠铃动作结束后可直接跳箱，不用像纯举重鞋那样中途换鞋。"
+    },
+    {
+      "label": "第一次买专业举重鞋的进阶训练者",
+      "offerId": "nike-romaleos-4-weightlifting",
+      "reason": "宽楦头、双绑带锁定，加上 Nike 一贯稳定的尺码，是最不容易踩坑的全能选择。"
+    },
+    {
+      "label": "只带手提行李参赛的选手",
+      "offerId": "inov8-fastlift-power-g380",
+      "reason": "单只 380g，石墨烯大底比 TPU 方案明显减重，同时不牺牲触地刚性。"
+    },
+    {
+      "label": "想先试试举重鞋的新手",
+      "offerId": "do-win-weightlifting-shoes",
+      "reason": "不到 600 元就有比赛认证的木质跟块，美国国家队队员实测过，性能到位又不用赌高价。"
+    }
+  ]
 }

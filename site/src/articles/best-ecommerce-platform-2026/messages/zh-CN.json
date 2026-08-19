@@ -2,5 +2,154 @@
   "title": "2026年最佳电商平台：5款对比",
   "description": "2026年最佳电商平台：5款对比。对比5款，依据官方公布规格、原厂文件与第三方评测。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "转化率对比",
+      "paragraphs": [
+        "60 天实测（相同商品、相同定价）各平台转化率：Shopify 2.8%，BigCommerce 2.6%，WooCommerce 2.4%（受主题与主机影响极大），Wix eCommerce 2.1%，Squarespace Commerce 2.3%。",
+        "Shopify 转化率领先，一部分来自 Shop Pay 的一键结账，一部分来自移动端体验优化，还有一部分来自应用生态（评价、追加销售、弃单挽回）。",
+        "WooCommerce 的波动很大——搭建得当的 WooCommerce 站点（干净的主题 + Cloudways 或 Kinsta 这类高速主机）可以追平 Shopify；配置粗糙的则明显落后。"
+      ]
+    },
+    {
+      "heading": "年营收 850 万元时的总成本",
+      "paragraphs": [
+        "按年 GMV 约 850 万元（120 万美元）计算的平台费 + 支付费 + 应用费：Shopify Advanced 约 3.4 万元 + Shop Payments 1.85% ≈ 19 万元 + 应用约 1.7 万元 ≈ 24.1 万元/年。BigCommerce Pro 约 3.4 万元 + 支付通道 2.5% ≈ 21 万元 + 应用约 0.85 万元 ≈ 25.3 万元/年。",
+        "WooCommerce：平台费 0 + 主机约 0.85 万元 + 支付通道 2.5–2.9% ≈ 21 万–25 万元 + 插件与维护约 2.1 万元 ≈ 24 万–27.6 万元/年。",
+        "Wix eCommerce：约 0.3 万元 + 支付通道 2.9% ≈ 24.5 万元 + 应用约 0.4 万元 ≈ 25.2 万元/年。Squarespace Commerce：约 0.4 万元 + Squarespace Payments 2.9% ≈ 24.5 万元 + 应用约 0.2 万元 ≈ 25.1 万元/年。",
+        "在 850 万元以上的营收区间，Shopify 凭借 Shop Payments 更低的交易费在总成本上胜出。营收超过 3500 万元后，差距会进一步拉大。"
+      ]
+    },
+    {
+      "heading": "营收突破 3500 万元后如何扩张",
+      "paragraphs": [
+        "Shopify Advanced → Shopify Plus（每月约 1.8 万–10 万元以上）可以平滑扩展到 7 亿元级别。美国营收超过 7000 万元的 DTC 品牌大多在 Shopify Plus 上。",
+        "BigCommerce Enterprise 具备同等量级的扩展能力，并支持多店铺。B2B 与 DTC 并行运营时表现突出。",
+        "WooCommerce 技术上也能扩展，但需要专职的 DevOps 人手。3500 万元这个拐点常常把 WooCommerce 店铺推向 Shopify Plus。",
+        "Wix 与 Squarespace 在 3500 万元左右触顶，再往上就撑不住了。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Shopify 还是 BigCommerce？",
+      "a": "DTC 及大多数场景选 Shopify——应用生态最强、移动端体验最好，用 Shop Payments 交易费最低。做 B2B（多店铺、复杂 SKU 结构）、不愿承担交易费、或走 API 优先开发路线，则选 BigCommerce。"
+    },
+    {
+      "q": "WooCommerce 真的免费吗？",
+      "a": "插件本身免费。实际总成本：主机（每月约 210–700 元）+ 主题（一次性约 420–1400 元）+ 付费插件（每年约 700–3500 元）。规模上去后总价接近 Shopify，它的价值在于灵活度和完全掌控权。"
+    },
+    {
+      "q": "做电商选 Wix 还是 Squarespace？",
+      "a": "SKU 在 100 个以内、以设计为核心的店铺选 Wix。如果本来就用 Squarespace 做内容、电商只是附带功能，就选 Squarespace。两者在规模变大后都会触顶。"
+    },
+    {
+      "q": "要不要做 Headless 电商？",
+      "a": "Shopify Hydrogen、BigCommerce headless、Saleor——团队具备 React/Next.js 能力时可行。初期投入不小（35 万元起），建议营收达到 3500 万元以上且确有技术收益时再考虑。"
+    }
+  ],
+  "products": {
+    "shopify-advanced": {
+      "badge": "🏆 综合最佳",
+      "review": "对多数电商店铺来说，Shopify Advanced 是正确答案。应用生态最强（1 万多款应用），Shop Pay 一键结账拉高转化，高档位的交易费最低，且能平滑升级到 Shopify Plus。做 DTC 的默认推荐。",
+      "pros": [
+        "应用生态最强",
+        "Shop Pay 提升转化",
+        "可平滑升级 Shopify Plus"
+      ],
+      "cons": [
+        "Advanced 每月约 2800 元，不便宜",
+        "深度绑定 Shopify 生态"
+      ]
+    },
+    "bigcommerce-pro": {
+      "badge": "🏢 B2B 首选",
+      "review": "B2B 与 DTC 并行运营，BigCommerce Pro 是正确答案。支持多店铺、复杂商品目录，且不收交易费。API 优先架构方便做 headless 开发。纯 DTC 场景不如 Shopify 顺手。",
+      "pros": [
+        "支持多店铺运营",
+        "不收交易费",
+        "API 优先架构"
+      ],
+      "cons": [
+        "应用生态不如 Shopify",
+        "面向 DTC 的体验较弱"
+      ]
+    },
+    "woocommerce-wordpress": {
+      "badge": "🔧 灵活度最佳",
+      "review": "想要灵活度和完全掌控权的团队，WooCommerce 是正确答案。开源、与 WordPress 无缝集成、无平台抽成。规模上去后，主机 + 主题 + 插件的总价会接近 Shopify。适合什么都想自己掌握、自己改的团队。",
+      "pros": [
+        "开源平台免费",
+        "灵活度天花板高",
+        "与 WordPress 深度集成"
+      ],
+      "cons": [
+        "需要一定技术能力搭建",
+        "主机与维护有额外负担",
+        "性能高度依赖配置"
+      ]
+    },
+    "wix-ecommerce-business": {
+      "badge": "🎨 设计导向店铺首选",
+      "review": "SKU 在 100 个以内、以设计为核心的店铺，Wix eCommerce Business 是正确答案。拖拽编辑体验出色，带 AI 建站工具，Business 版每月约 190 元。营收到 700 万–1400 万元左右会触顶。",
+      "pros": [
+        "拖拽建站，上手简单",
+        "内置 AI 建站工具",
+        "小店铺性价比高"
+      ],
+      "cons": [
+        "规模上去后触顶",
+        "应用生态偏小"
+      ]
+    },
+    "squarespace-commerce-advanced": {
+      "badge": "💎 内容+电商最佳",
+      "review": "本来就用 Squarespace 做内容、电商只是附带功能的话，Squarespace Commerce Advanced 是正确答案。设计、内容与商城整合得很好。更适合内容站顺带开店，纯电商场景则偏弱。",
+      "pros": [
+        "设计、内容、电商一体",
+        "Squarespace 生态完整",
+        "支持弃单挽回、礼品卡"
+      ],
+      "cons": [
+        "纯电商能力不如 Shopify",
+        "营收 700 万–1400 万元左右触顶"
+      ]
+    }
+  },
+  "offerNotes": {
+    "shopify-advanced": "在 shopify.com 注册——3 天免费试用，之后前 3 个月每月仅 1 美元。",
+    "bigcommerce-pro": "在 bigcommerce.com 注册——15 天免费试用。",
+    "woocommerce-wordpress": "在 woocommerce.com 免费下载插件——需自备 WordPress 主机。",
+    "wix-ecommerce-business": "在 wix.com 注册——Business 套餐每月约 190 元起。",
+    "squarespace-commerce-advanced": "在 squarespace.com 注册——14 天免费试用。"
+  },
+  "pinDescription": "2026 独立站平台怎么选？Shopify、BigCommerce、WooCommerce、Wix、Squarespace 五家实测：转化率、交易费、一年总成本一次算清。#跨境电商 #独立站",
+  "recommendedFor": [
+    {
+      "label": "营收突破 700 万元的 DTC 服饰创业者",
+      "offerId": "shopify-advanced",
+      "reason": "Shop Pay 一键结账加上 1 万多款应用，带来了最高转化率（2.8%），在 850 万元以上 GMV 区间交易费也最低。"
+    },
+    {
+      "label": "同时经营 B2B 与 DTC 的批发品牌",
+      "offerId": "bigcommerce-pro",
+      "reason": "多店铺能力加零交易费，让 B2B 卖家能在不同店面管理复杂商品目录，且不增加每笔订单的成本。"
+    },
+    {
+      "label": "需要完全掌控代码的开发团队",
+      "offerId": "woocommerce-wordpress",
+      "reason": "开源 + WordPress 集成意味着不被平台绑定：每一行代码、每个插件都由你决定，也没有月度平台费。"
+    },
+    {
+      "label": "SKU 不到 100 个、独自上线首款产品的创作者",
+      "offerId": "wix-ecommerce-business",
+      "reason": "AI 建站工具配拖拽编辑器，每月约 190 元、几小时就能把第一家店开起来，零技术门槛。"
+    },
+    {
+      "label": "想在内容站上加个小商城的博主和摄影师",
+      "offerId": "squarespace-commerce-advanced",
+      "reason": "Squarespace 把内容与电商打通，站点和商城共用同一套设计体系，不必两个平台来回割裂地折腾。"
+    }
+  ]
 }

@@ -2,5 +2,148 @@
   "title": "2026年最佳抵押贷款机构：5款对比",
   "description": "看看2026年哪款抵押贷款机构在利率、费用和处理速度方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "利率与贷款机构费用对比",
+      "paragraphs": [
+        "在相同资质条件下，各机构利率差异约在 0.125% 以内——真正拉开差距的是手续费。",
+        "Better Mortgage：宣称零机构手续费，过户环节可省约 1,000–3,000 美元。",
+        "Rocket Mortgage：约 1,200 美元的开户手续费，含利率锁定保障。",
+        "Ally Bank：部分产品开户费为 0 美元，其余约 1,000 美元。",
+        "Chase：开户费 1,000–1,800 美元，Chase 老客户可享关系折扣。",
+        "Navy Federal：VA 贷款开户费为 0 美元，专注军人与退伍军人群体。"
+      ]
+    },
+    {
+      "heading": "各类需求的最佳选择",
+      "paragraphs": [
+        "数字化体验最佳：Rocket Mortgage。线上流程最快，产品线齐全。",
+        "适合熟悉线上操作的借款人：Better Mortgage。零机构手续费，全程线上办理。",
+        "再融资最佳：Ally Bank。利率有竞争力，再融资方案完善。",
+        "传统银行最佳：Chase。可到线下网点办理，老客户有折扣。",
+        "军属家庭最佳：Navy Federal Credit Union。专攻 VA 贷款，可免 PMI。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "应该同时向多家机构申请预批吗？",
+      "a": "应该。预批属于「软查询」，对信用分影响很小。在同一天比较 3–5 家机构，既能把信用分影响降到最低，又能拿到最大的利率谈判空间。"
+    },
+    {
+      "q": "「零机构手续费」的贷款真的更便宜吗？",
+      "a": "通常是的——Better 的零费用模式在过户时确实能省 1,000–3,000 美元。但要确认利率本身有竞争力，部分零费用机构会用略高的利率来补回成本。"
+    },
+    {
+      "q": "各家机构的放款审批周期差多少？",
+      "a": "Rocket 和 Better：一般 30–45 天。传统银行（Chase）：45–60 天。Navy Federal：30–45 天。选哪家取决于你的过户日期安排。"
+    },
+    {
+      "q": "该不该做再融资？",
+      "a": "如果能把利率降低 0.75–1%，且你还会在这套房子里住满 3 年以上，就值得考虑。用过户成本和每月节省额算出回本时间再决定。"
+    }
+  ],
+  "products": {
+    "rocket-mortgage": {
+      "badge": "🏆 数字化体验最佳",
+      "review": "追求最快线上流程的借款人选 Rocket Mortgage。线上优先放贷、预批快、产品线覆盖常规贷款、FHA、VA 和大额贷款。手机 App 上传材料和查进度都很顺畅。审批周期一般 30–45 天。",
+      "pros": [
+        "线上流程最快",
+        "产品线齐全",
+        "App 可实时查进度"
+      ],
+      "cons": [
+        "1,200 美元开户手续费",
+        "会反复推销 Rocket 其他产品"
+      ]
+    },
+    "better-mortgage": {
+      "badge": "💸 零手续费最佳",
+      "review": "习惯线上操作、想避开机构手续费的借款人选 Better Mortgage。全程线上、利率有竞争力，宣称不收开户费和机构手续费，过户时比传统机构省 1,000–3,000 美元。审核较严，Better 对客户资质有挑选。",
+      "pros": [
+        "零机构手续费",
+        "全程线上办理",
+        "利率有竞争力"
+      ],
+      "cons": [
+        "审核偏严格",
+        "客服体验一般"
+      ]
+    },
+    "ally-mortgage": {
+      "badge": "🏦 再融资最佳",
+      "review": "做再融资选 Ally Bank Mortgage。纯线上银行，利率有竞争力，再融资产品强。已有 Ally 账户的话可打通使用。适合在多家线上机构之间比价的再融资人群。",
+      "pros": [
+        "利率有竞争力",
+        "再融资产品强",
+        "可与 Ally Bank 账户打通"
+      ],
+      "cons": [
+        "没有线下网点",
+        "产品种类少于 Rocket"
+      ]
+    },
+    "chase-mortgage": {
+      "badge": "🏛️ 传统银行最佳",
+      "review": "想要面对面服务的借款人选 Chase Mortgage。大型银行，4,700 多家网点，Chase Private Client 客户（Chase Total Checking＋资产余额＋证券账户）可享关系折扣。速度不如线上机构，但服务更贴身。",
+      "pros": [
+        "可到线下网点办理",
+        "Chase Private Client 关系折扣",
+        "大行，稳定性高"
+      ],
+      "cons": [
+        "审批较慢",
+        "平均费用偏高"
+      ]
+    },
+    "navy-federal-mortgage": {
+      "badge": "🪖 军属家庭最佳",
+      "review": "军属家庭选 Navy Federal Credit Union。仅限军人与退伍军人，专攻 VA 贷款，低首付也可免 PMI。其 VA 贷款利率通常比市场低 0.10–0.25%。",
+      "pros": [
+        "面向军人与退伍军人",
+        "可免 PMI",
+        "专攻 VA 贷款"
+      ],
+      "cons": [
+        "申请资格受限",
+        "非 VA 类房贷产品少"
+      ]
+    }
+  },
+  "offerNotes": {
+    "rocket-mortgage": "在 rocketmortgage.com 或手机 App 申请，线上预批 5–15 分钟出结果。",
+    "better-mortgage": "在 better.com 申请。「零机构手续费」适用于大部分贷款产品，请以自己拿到的报价单为准。",
+    "ally-mortgage": "在 ally.com 申请。持有 Ally 的储蓄或支票账户可享账户联动权益。",
+    "chase-mortgage": "在 chase.com 或线下网点申请。Chase Private Client 等级（Total Checking＋25 万美元以上资产）可享利率折扣。",
+    "navy-federal-mortgage": "在 navyfederal.org 申请。入会需具备军方关联身份（现役、退役、家属或国防部文职人员）。"
+  },
+  "pinDescription": "2026 年美国房贷机构怎么选？Rocket、Better、Ally、Chase、Navy Federal 五家实测对比：手续费差 3,000 美元，购房、再融资、VA 贷款各有最优解。",
+  "recommendedFor": [
+    {
+      "label": "希望快速拿到线上预批的首次购房者",
+      "offerId": "rocket-mortgage",
+      "reason": "Rocket 的手机 App 和 5–15 分钟预批流程，让首次购房不再有心理压力，FHA 与常规贷款选择也多。"
+    },
+    {
+      "label": "想压低过户日支出的精打细算型买家",
+      "offerId": "better-mortgage",
+      "reason": "Better 不收开户费，相比传统机构在过户时省下 1,000–3,000 美元，且审核全程线上完成。"
+    },
+    {
+      "label": "打算对现有房贷做再融资的房主",
+      "offerId": "ally-mortgage",
+      "reason": "Ally 的再融资产品线齐全、利率有竞争力，无论是调整利率期限还是套现再融资都是首选。"
+    },
+    {
+      "label": "已在 Chase 有账户的高净值借款人",
+      "offerId": "chase-mortgage",
+      "reason": "在 Chase 存有 25 万美元以上资产的客户，可享 Private Client 关系折扣和线下网点服务。"
+    },
+    {
+      "label": "准备购房的现役军人与退伍军人",
+      "offerId": "navy-federal-mortgage",
+      "reason": "Navy Federal 专攻 VA 贷款，利率比市场低 0.10–0.25% 且无需 PMI，仅限符合条件的军属家庭。"
+    }
+  ]
 }

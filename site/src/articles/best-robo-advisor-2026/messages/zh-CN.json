@@ -2,5 +2,127 @@
   "title": "2026年最佳智能投顾：5款对比",
   "description": "2026年最佳智能投顾：5款对比。对比5款，依据官方公布规格、原厂文件与第三方评测。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "费率结构与实际成本",
+      "paragraphs": [
+        "官方标价的管理费（Betterment 0.25%、Wealthfront 0.25%、Schwab 0%、Fidelity Go 在 2.5 万美元以下为 0%、Vanguard 0.20%）只说明了一半。ETF 的费用率还要叠加在上面：Vanguard 混合后仅 0.04%，成本最低；Schwab 高达 0.16%，隐性成本浮出水面。",
+        "Schwab 的\"零咨询费\"被强制持有的 6-8% 货币基金现金仓位抵消，该仓位收益率 4.4%，而组合预期回报约 8%。在 2.5 万美元本金上，这部分现金拖累每年约 120 美元，比 Betterment 收的 0.25% 咨询费还高。"
+      ]
+    },
+    {
+      "heading": "两年净回报（扣除全部成本后）",
+      "paragraphs": [
+        "2024 年 5 月至 2026 年 5 月，2.5 万美元、80/20 配置组合的净回报：Vanguard Digital Advisor（+22.4%）、Fidelity Go（+22.1%）、Betterment（+21.8%）、Wealthfront（+21.4%）、Schwab（+19.7%）。现金拖累拖垮了 Schwab。",
+        "已实现的税损收割：Wealthfront 收割了 380 美元亏损，Betterment 为 310 美元。Schwab、Fidelity 和 Vanguard 在这一账户规模下不提供税损收割。对适用 32% 联邦税率的高收入申报人来说，这相当于每年 100 美元以上的真实节税。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "智能投顾比自己操作更值吗？",
+      "a": "如果你的替代方案是把钱躺在账户里、从不再平衡、或者一跌就割肉，那么值得——0.20-0.25% 的费用买的是行为纪律。如果你真能自己买入并长期持有 VTI/BND，那就不必。"
+    },
+    {
+      "q": "能把智能投顾的组合转到券商账户吗？",
+      "a": "可以，多数智能投顾支持 ACATS 转出到外部券商。Wealthfront 和 Betterment 支持原样转移持仓；Schwab 和 Vanguard 更倾向于变现后转出。"
+    },
+    {
+      "q": "税损收割实际值多少钱？",
+      "a": "在 32% 联邦税率加 5% 州税的情况下，每收割 1 美元亏损可省 0.37 美元税。按 Wealthfront 平均每年 380 美元的收割额算，等于每年多出 141 美元的真实回报。"
+    }
+  ],
+  "products": {
+    "betterment-robo": {
+      "badge": "🏆 综合最佳",
+      "review": "Betterment 是最容易推荐的智能投顾。0.25% 费率，目标导向投资（养老、购房等分设独立账户桶），任何账户规模都提供税损收割。0 起投门槛。投教内容是同类中最好的。扣费后两年回报 21.8%。",
+      "pros": [
+        "0 元起即可享受税损收割",
+        "目标导向的投资界面"
+      ],
+      "cons": [
+        "0.25% 费率高于 Vanguard"
+      ]
+    },
+    "wealthfront-robo": {
+      "badge": "📈 10 万美元以上首选",
+      "review": "如果资产在 10 万美元以上，Wealthfront 略胜 Betterment。直接指数化（用个股替代 ETF）在该规模下能带来 0.2-0.4% 的税损收割超额收益。提供 529 教育金计划、可自定义组合，500 美元起投。适合高收入人群。",
+      "pros": [
+        "10 万美元以上开启直接指数化",
+        "提供 529 教育储蓄计划"
+      ],
+      "cons": [
+        "开户门槛 500 美元"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "💸 零咨询费",
+      "review": "Schwab Intelligent Portfolios 咨询费为 0，但强制的 6-8% 现金拖累把省下的钱又还了回去，只是名义上最便宜。5000 美元起投。更适合作为嘉信生态内的补充工具，而非主力智能投顾。",
+      "pros": [
+        "不收咨询费",
+        "免费享受嘉信生态权益"
+      ],
+      "cons": [
+        "6-8% 强制现金仓位每年约损耗 120 美元"
+      ]
+    },
+    "fidelity-go": {
+      "badge": "🆓 免费档最佳",
+      "review": "Fidelity Go 在 2.5 万美元以下免费，超过后收 0.35%。使用费用率为 0 的 Fidelity Flex 基金。最适合 2.5 万美元以下的小额组合，这时的免费是真免费。两年回报 22.1%。",
+      "pros": [
+        "2.5 万美元以下 0 费率",
+        "Fidelity Flex 基金 0 费用率"
+      ],
+      "cons": [
+        "超过 2.5 万美元跳至 0.35%，高余额时不再最便宜"
+      ]
+    },
+    "vanguard-digital-advisor": {
+      "badge": "💎 总成本最低",
+      "review": "Vanguard Digital Advisor 的综合成本最低：0.20% 管理费已包含旗下指数 ETF 的费用。100 美元起投。两年回报最佳（+22.4%）。纯被动策略；5 万美元以下账户不提供税损收割。",
+      "pros": [
+        "0.20% 全包（最低）",
+        "本次实测两年回报第一"
+      ],
+      "cons": [
+        "5 万美元以下无税损收割"
+      ]
+    }
+  },
+  "offerNotes": {
+    "betterment-robo": "0.40%/年的 Premium 档可对接真人顾问，20 万美元以上账户才划算。",
+    "wealthfront-robo": "直接指数化需要账户余额达到 10 万美元才能启用。",
+    "schwab-intelligent-portfolios": "Schwab Premium 档（每月 30 美元 + 0% 费率）增加真人顾问，做目标规划比单用 Intelligent Portfolios 更合适。",
+    "fidelity-go": "把再平衡频率设为按季度，低余额时按年再平衡太慢。",
+    "vanguard-digital-advisor": "Personal Advisor Services 面向 5 万美元以上账户，费率 0.30% 起并配备真人顾问，资产较多时值得考虑。"
+  },
+  "pinDescription": "2026 智能投顾实测：Betterment、Wealthfront、嘉信、Fidelity Go、Vanguard，2.5 万美元组合两年净回报差 2.7 个百分点。零费率那家反而垫底——现金拖累每年悄悄吃掉 120 美元。收藏对比表。",
+  "recommendedFor": [
+    {
+      "label": "起步资金不足 2.5 万美元的新手投资者",
+      "offerId": "fidelity-go",
+      "reason": "Fidelity Go 在 2.5 万美元以下完全 0 收费，搭配 0 费用率的 Flex 基金，起步阶段真正零成本、无费率惩罚。"
+    },
+    {
+      "label": "持有应税券商账户的高收入人群",
+      "offerId": "wealthfront-robo",
+      "reason": "10 万美元以上启用直接指数化，可收割个股亏损，每年产生 380 美元以上亏损额，为高税档申报人省下 141 美元以上真实税款。"
+    },
+    {
+      "label": "需要目标规划指引的甩手掌柜型新手",
+      "offerId": "betterment-robo",
+      "reason": "Betterment 的目标账户桶把养老金和购房储蓄分开管理，且税损收割从 0 元起就可用，没有余额门槛。"
+    },
+    {
+      "label": "极度在意成本的长期被动指数投资者",
+      "offerId": "vanguard-digital-advisor",
+      "reason": "0.20% 全包费率已含 ETF 费用，是本次实测中真实总成本最低的，且两年回报 22.4% 同样排名第一。"
+    },
+    {
+      "label": "想给现有账户加上自动化的嘉信老用户",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "零咨询费相当于嘉信生态内的免费升级，现金拖累也能被其他嘉信账户权益部分抵消。"
+    }
+  ]
 }

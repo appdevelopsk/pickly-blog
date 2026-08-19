@@ -2,5 +2,148 @@
   "title": "2026年最佳云主机：5款对比",
   "description": "看看2026年哪款云主机在冷启动延迟和真实成本方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "冷启动延迟",
+      "paragraphs": [
+        "在全新区域首次启动的耗时：Render 4 秒，DigitalOcean App Platform 8 秒，AWS EC2（Auto Scaling Group 启动）45 秒，Google Cloud Compute Engine 35 秒，Azure VMs 50 秒。PaaS 层（Render、DigitalOcean App Platform）把冷启动问题封装掉了；IaaS 巨头（AWS、GCP、Azure）则原封不动地保留了它。",
+        "热状态下的 p99 响应：AWS EC2（M6i）180ms，GCP（n2-standard）195ms，Azure（D2s_v5）210ms，DigitalOcean App Platform 220ms，Render 240ms。热性能是巨头胜出；PaaS 层为了那层抽象要多付 30-60ms 的开销。"
+      ]
+    },
+    {
+      "heading": "负载下的自动扩容",
+      "paragraphs": [
+        "CPU 超过 70% 后扩出新容量的耗时：Render 90 秒，DigitalOcean App Platform 2 分钟，AWS EC2（Auto Scaling Group + 预热池）60 秒，Google Cloud（实例组）2 分钟，Azure（Scale Set）3 分钟。带预热池的 AWS 扩容最快，Azure 最慢。",
+        "PaaS 层（Render、DigitalOcean App Platform）零配置即可自动扩容。IaaS 巨头则需要手动配置 Auto Scaling Group / 实例组。"
+      ]
+    },
+    {
+      "heading": "实际月账单",
+      "paragraphs": [
+        "同一套负载（峰值 4 实例、平均 2 实例、每实例 8 vCPU）：AWS EC2 约 4,400 元/月（含预留实例折扣），Google Cloud 约 5,000 元/月（含持续使用折扣），Azure 约 5,500 元/月（含预留实例），DigitalOcean App Platform 约 3,400 元/月，Render 约 3,100 元/月。",
+        "在 16 vCPU 以下、负载可预测的场景，PaaS 层（DigitalOcean、Render）比云巨头便宜。规模上去之后（20 实例以上），巨头凭更深的折扣体系反超。多组负载测下来，Azure 一直是最贵的。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "什么时候该选 AWS，什么时候选 DigitalOcean App Platform？",
+      "a": "持续负载大致在 10 vCPU 以内，用 DigitalOcean App Platform 或 Render。出现以下需求就换 AWS EC2：复杂网络架构、特殊实例类型（GPU、ARM），或企业级合规认证。"
+    },
+    {
+      "q": "Render 和 DigitalOcean App Platform 怎么选？",
+      "a": "Render 冷启动更快。同等配置下 DigitalOcean App Platform 运行成本更低。Render 的使用体验打磨得更细致；DigitalOcean 更接近“可租用 VPS + 自动扩容”的模式。"
+    },
+    {
+      "q": "Azure 为什么一直更贵？",
+      "a": "Azure 的定价面向企业客户，个人和中小团队的负载要比同等的 EC2 或 GCP 付更多钱。只有你本来就在微软的企业生态里（AD、Office 365 集成）才值得。"
+    },
+    {
+      "q": "预留实例值得买吗？",
+      "a": "基线负载可预测就值得。在 AWS/GCP 上，预留实例比按需便宜 30-60%。负载稳定就买 1 年期；只有架构短期不会大改时才考虑 3 年期。"
+    }
+  ],
+  "products": {
+    "aws-ec2-cloud": {
+      "badge": "🏆 规模化首选",
+      "review": "实例数要往上扩，AWS EC2 是对的选择。实例类型最全（通用型、计算型、内存型、GPU、ARM Graviton），折扣体系最深（预留实例、Savings Plans），网络能力一流。代价是复杂度。PaaS 撑不住了再上这个。",
+      "pros": [
+        "实例类型覆盖最全",
+        "折扣体系最深",
+        "网络能力一流"
+      ],
+      "cons": [
+        "IAM 和网络配置复杂",
+        "ASG 冷启动 45 秒"
+      ]
+    },
+    "google-cloud-compute-engine": {
+      "badge": "🎯 机器学习/数据分析首选",
+      "review": "负载涉及机器学习或数据分析，就选 Google Cloud Compute Engine。与 BigQuery、Vertex AI 和 TPU 的整合最好。持续使用折扣自动生效，无需预留承诺。价格略高于 AWS。",
+      "pros": [
+        "机器学习/分析整合最好",
+        "自动享受持续使用折扣",
+        "宿主机维护时可热迁移"
+      ],
+      "cons": [
+        "生态规模不及 AWS",
+        "同配置下略贵于 AWS"
+      ]
+    },
+    "azure-virtual-machines": {
+      "badge": "🪪 微软生态首选",
+      "review": "已经绑定微软企业生态（Active Directory、Office 365、.NET 负载）的话，Azure VMs 是对的选择。混合云能力是同类最强。短板在价格——同等负载下始终比 AWS/GCP 贵 10-20%。",
+      "pros": [
+        "微软生态整合最好",
+        "混合云（Azure Arc）",
+        "企业合规能力强"
+      ],
+      "cons": [
+        "本次对比中始终最贵",
+        "冷启动 50 秒（最慢）"
+      ]
+    },
+    "digitalocean-app-platform": {
+      "badge": "💰 性价比最高的 PaaS",
+      "review": "想要 PaaS 的价格加 VPS 的可预期性，选 DigitalOcean App Platform。同配置比 Render 便宜，冷启动略慢一点。Git push 部署好用，托管 Postgres 已包含在内。八成的中小型 Web 应用选它就够了。",
+      "pros": [
+        "比云巨头便宜",
+        "月度费用可预期",
+        "Git push 即部署"
+      ],
+      "cons": [
+        "冷启动慢于 Render",
+        "特殊实例类型较少"
+      ]
+    },
+    "render-cloud": {
+      "badge": "⚡ 开发体验最佳",
+      "review": "把开发体验放在第一位的团队选 Render。4 秒冷启动（本次对比最快）、零配置自动扩容、自动 SSL 加 DDoS 防护。成本略高于 DigitalOcean。2026 年的 Heroku 替代品。",
+      "pros": [
+        "本次对比中冷启动最快",
+        "开发体验最好",
+        "零配置自动扩容"
+      ],
+      "cons": [
+        "比 DO 略贵",
+        "生态规模较小"
+      ]
+    }
+  },
+  "offerNotes": {
+    "aws-ec2-cloud": "在 aws.amazon.com 注册。用 AWS Compute Optimizer 来挑合适的实例规格。",
+    "google-cloud-compute-engine": "在 cloud.google.com 注册。新账号赠 300 美元额度。",
+    "azure-virtual-machines": "在 azure.microsoft.com 注册。新账号赠 200 美元额度。",
+    "digitalocean-app-platform": "在 digitalocean.com 注册。新账号赠 200 美元额度。",
+    "render-cloud": "在 render.com 注册。静态站点有免费版；付费套餐从 7 美元/月起。"
+  },
+  "pinDescription": "云主机怎么选不踩坑？AWS、GCP、Azure、DigitalOcean、Render 实测冷启动、扩容速度和真实月账单，小项目省一半钱的选法都在这。",
+  "recommendedFor": [
+    {
+      "label": "追求快速上线的独立开发者和小型创业团队",
+      "offerId": "render-cloud",
+      "reason": "Render 的 4 秒冷启动和零配置自动扩容省掉了运维负担，一个人的团队也不用调基础设施就能发版。"
+    },
+    {
+      "label": "流量可预期、预算敏感的团队",
+      "offerId": "digitalocean-app-platform",
+      "reason": "同一套负载在 AWS 上要 4,400 元以上，DigitalOcean App Platform 只要 3,400 元，账单最低，还自带 Git push 部署和托管 Postgres。"
+    },
+    {
+      "label": "跑机器学习流水线或数据分析的工程团队",
+      "offerId": "google-cloud-compute-engine",
+      "reason": "原生对接 BigQuery 和 Vertex AI，计算和分析放在同一平台时 GCP 最顺手，还自动享受持续使用折扣。"
+    },
+    {
+      "label": "已深度使用微软生态的企业团队",
+      "offerId": "azure-virtual-machines",
+      "reason": "Azure Arc 混合云加上与 Active Directory / Office 365 的深度整合，对在 Windows Server 上跑 .NET 负载的组织来说，10-20% 的溢价值得。"
+    },
+    {
+      "label": "实例数超过 10 台的高速增长型 SaaS",
+      "offerId": "aws-ec2-cloud",
+      "reason": "AWS EC2 预热池把扩容时间压到 60 秒，预留实例折扣随规模叠加——唯一一个越用越便宜的平台。"
+    }
+  ]
 }

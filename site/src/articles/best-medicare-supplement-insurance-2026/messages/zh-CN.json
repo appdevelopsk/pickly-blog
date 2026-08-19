@@ -2,5 +2,151 @@
   "title": "2026年最佳Medicare 补充保险：5款对比",
   "description": "看看2026年哪款Medicare 补充保险在保费和费率稳定性方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "Plan G 的保障范围",
+      "paragraphs": [
+        "Plan G 覆盖 Original Medicare 不承担的全部费用，唯一例外是 Part B 免赔额（2026 年为每年 240 美元）。曾经覆盖 Part B 免赔额的 Plan F，自 2020 年起不再向新参保人开放。",
+        "2020 年之后，Plan G 成为新参保人最主流的选择：它填补的高额缺口（Part A 免赔额、Part B 共同保险等）与 Plan F 相同，保费却低于 Plan F 的历史价格。",
+        "Plan G 的替代方案是 Plan N：保费更低，但每次门诊自付 20 美元、急诊自付 50 美元，适合身体健康、就诊频率低的老人。若想省心，Plan G 仍是稳妥的默认选项。"
+      ]
+    },
+    {
+      "heading": "各承保公司与各州保费对比",
+      "paragraphs": [
+        "65 岁投保人的 Plan G 月保费按州和公司区分：佛罗里达州平均 180-220 美元（最高），得克萨斯州 130-170 美元，加利福尼亚州 150-200 美元。佛州偏高源于退休人口集中和飓风风险。",
+        "最便宜的是 Aetna，各州 140-190 美元/月。最贵的是 Blue Cross Blue Shield，160-220 美元/月（各州 BCBS 差异较大）。",
+        "近 5 年费率上调记录：UnitedHealthcare AARP 年均 4-6%，Mutual of Omaha 5-7%，Aetna 5-8%，Humana 4-7%，BCBS 各州差异极大。对长期持有保单的人来说，费率稳定性比初始保费更重要。"
+      ]
+    },
+    {
+      "heading": "附加权益与客户服务",
+      "paragraphs": [
+        "附加权益方面：Aetna 含 SilverSneakers 健身房会籍（相当于每月 25-50 美元价值）、助听器折扣、视力护理折扣。UnitedHealthcare AARP 含 Renew Active（健身房＋脑力训练）。Mutual of Omaha 仅提供基础折扣项目。Humana 和 BCBS 的附加权益较少。",
+        "客户服务评级（BBB＋AM Best）：UnitedHealthcare AM Best A+，Mutual of Omaha A+，Aetna A，Humana A，BCBS 因州而异。",
+        "既往病史处理：Medicare Supplement 仅在开放投保期（Part B 生效后的前 6 个月）内保证承保。超出该窗口，保险公司可进行核保，也可以拒保。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Plan G 和 Plan N 怎么选？",
+      "a": "若希望除 Part B 免赔额外零自付，选 Plan G。若能接受每次门诊 20 美元、急诊 50 美元的自付，Plan N 保费更低。对就诊少的健康老人来说，Plan N 可省约 20% 保费。"
+    },
+    {
+      "q": "什么时候投保最合适？",
+      "a": "在 Part B 生效当月起算的 6 个月开放投保期内投保，保证承保、不做核保。超出这个窗口，保险公司可以因健康状况拒保。"
+    },
+    {
+      "q": "以后能换保险公司吗？",
+      "a": "可以，但在开放投保期之外，保险公司有权核保。部分州设有每年一次的\"生日规则\"或\"周年规则\"，允许免核保更换承保公司。"
+    },
+    {
+      "q": "Medicare Supplement 和 Medicare Advantage 有何不同？",
+      "a": "Medicare Supplement（Medigap）：全美任何接受 Medicare 的医生都能看，保费较高（150-200 美元/月），费用可预期。Medicare Advantage：有网络限制，保费低（常为 0 美元），但自付费用波动大。取舍点在于你更看重就医自由度还是月度开支。"
+    }
+  ],
+  "products": {
+    "mutual-of-omaha-medicare-supplement": {
+      "badge": "🏆 最佳相互制保险公司",
+      "review": "看重稳定性的人应选 Mutual of Omaha Medicare Supplement。相互制公司（投保人分享红利），AM Best A+ 评级，Plan G 月费 150-200 美元。费率上调幅度中等，是长期持有的可靠选择。",
+      "pros": [
+        "相互制公司，可分红",
+        "AM Best A+ 评级",
+        "长期稳定性扎实"
+      ],
+      "cons": [
+        "在你所在州未必最便宜",
+        "客户服务水平中等"
+      ]
+    },
+    "aetna-medicare-supplement": {
+      "badge": "💚 附加权益最丰富",
+      "review": "看重附加权益就选 Aetna Medicare Supplement（隶属 CVS Health）。含 SilverSneakers 健身房会籍、助听器折扣、视力护理折扣，且价格最低（各州 140-190 美元/月），背靠 CVS Health。",
+      "pros": [
+        "含 SilverSneakers",
+        "保费最低",
+        "CVS Health 背书"
+      ],
+      "cons": [
+        "费率上调幅度中规中矩",
+        "AM Best 为 A（非 A+）"
+      ]
+    },
+    "humana-medicare-supplement": {
+      "badge": "🪪 最佳中端选项",
+      "review": "Humana Medicare Supplement 是稳健的中端选择。Plan G 月费 145-200 美元，日后若想转投 Medicare Advantage，其产品线衔接顺畅。覆盖多数州，附加权益不激进但足够可靠。",
+      "pros": [
+        "中端档位稳定可靠",
+        "需要时可转 MA 产品",
+        "覆盖州份广"
+      ],
+      "cons": [
+        "附加权益不如 Aetna",
+        "费率上调记录居中"
+      ]
+    },
+    "blue-cross-blue-shield-medicare-supplement": {
+      "badge": "🌐 医疗网络最广",
+      "review": "想要本州最大就诊网络就选 Blue Cross Blue Shield Medicare Supplement。各州 BCBS 定价差异很大——有些州极具竞争力，有些则是本次对比中最贵的，投保前务必查本州价格。",
+      "pros": [
+        "多数州拥有最大医疗网络",
+        "州内品牌认知度高",
+        "医院普遍认可"
+      ],
+      "cons": [
+        "各州定价差异极大",
+        "AM Best 评级因州而异"
+      ]
+    },
+    "united-healthcare-aarp-medicare-supplement": {
+      "badge": "👑 品牌认知度最高",
+      "review": "UnitedHealthcare AARP Medicare Supplement 是全美单体规模最大的 Medicare Supplement 承保方。获 AARP 背书，AM Best A+ 评级，含 Renew Active（健身房＋脑力训练），Plan G 月费 150-210 美元，稳定性与知名度俱佳。",
+      "pros": [
+        "全美最大 Medicare Supplement 承保方",
+        "AARP 官方背书",
+        "含 Renew Active 健身与脑力训练"
+      ],
+      "cons": [
+        "未必最便宜",
+        "品牌溢价未必值这个价"
+      ]
+    }
+  },
+  "offerNotes": {
+    "mutual-of-omaha-medicare-supplement": "通过 Mutual of Omaha 顾问获取报价。分红历史悠久。",
+    "aetna-medicare-supplement": "在 aetnamedicare.com 获取报价——CVS Health 旗下。",
+    "humana-medicare-supplement": "在 humana.com 获取报价——稳健的中端之选。",
+    "blue-cross-blue-shield-medicare-supplement": "在 bcbs.com 获取报价——各州 BCBS 价格差异极大。",
+    "united-healthcare-aarp-medicare-supplement": "在 aarpmedicaresupplement.com 获取报价——需 AARP 会员资格（每年 16 美元）。"
+  },
+  "pinDescription": "2026 年 Medicare Supplement 怎么选？Mutual of Omaha、Aetna、Humana、BCBS、UnitedHealthcare AARP 五家 Plan G 三州实测保费与费率上调记录一次看懂。",
+  "recommendedFor": [
+    {
+      "label": "看重长期保费稳定的退休人士",
+      "offerId": "mutual-of-omaha-medicare-supplement",
+      "reason": "Mutual of Omaha 的 AM Best A+ 评级和相互制结构，让打算持有保单数十年的人最有安全感。"
+    },
+    {
+      "label": "有健身习惯、需要听力或视力护理的老人",
+      "offerId": "aetna-medicare-supplement",
+      "reason": "Aetna 打包了 SilverSneakers 会籍以及助听器和视力折扣，对注重健康的老人来说足以抵消保费成本。"
+    },
+    {
+      "label": "候鸟式养老、常在多州间往返的人",
+      "offerId": "blue-cross-blue-shield-medicare-supplement",
+      "reason": "BCBS 在多数州拥有最大的医疗网络，无论去佛州过冬还是北上避暑，都能找到网络内医生。"
+    },
+    {
+      "label": "收入固定、预算有限的新参保人",
+      "offerId": "humana-medicare-supplement",
+      "reason": "Humana 的中端定价（145-200 美元/月）和广泛覆盖，让你不必为用不上的附加权益多花钱。"
+    },
+    {
+      "label": "希望选全国知名品牌的 AARP 会员",
+      "offerId": "united-healthcare-aarp-medicare-supplement",
+      "reason": "UnitedHealthcare 拥有 AARP 背书、AM Best A+ 评级和 Renew Active 项目，适合想要大品牌加健康福利的人。"
+    }
+  ]
 }

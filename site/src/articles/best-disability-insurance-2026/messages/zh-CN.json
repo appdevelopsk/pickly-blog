@@ -2,5 +2,151 @@
   "title": "2026年最佳残障保险：5款对比",
   "description": "看看2026年哪款残障保险在自身职业定义和保费方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "本职业定义：最关键的区别",
+      "paragraphs": [
+        "真正的本职业（true own-occupation）：只要你无法从事「你自己的那份工作」就赔付，哪怕你还能做别的工作。外科医生不能再上手术台、但仍可做咨询，照样拿全额给付。",
+        "修改型本职业（modified own-occupation）：只有当你无法从事「任何与你学历和经验相匹配的工作」时才赔付。对高收入专业人士来说保障力度弱得多。",
+        "提供真正本职业条款的公司：Guardian、Principal、MassMutual。修改型：多数低价线上保险（Breeze 默认为修改型，真正本职业需额外加购）。"
+      ]
+    },
+    {
+      "heading": "实际月保费",
+      "paragraphs": [
+        "35 岁心内科医生，月给付 14 万元，90 天免责期，保至 65 岁：Guardian 约 3,400 元/月，Principal 约 3,250 元，MassMutual 约 3,350 元，Breeze（修改型）约 2,200 元，Policygenius（最低）约 3,100 元。",
+        "35 岁软件工程师，月给付 5.6 万元，其余条件相同：Guardian 约 1,030 元/月，Principal 约 950 元，MassMutual 约 990 元，Breeze 约 670 元，Policygenius 约 880 元。修改型与真正本职业的差价约 25%–50%。",
+        "附加条款月费：通胀调整（COLA）+210～420 元，未来增额权 +105～210 元，重度伤残附加 +140～280 元。"
+      ]
+    },
+    {
+      "heading": "什么时候买",
+      "paragraphs": [
+        "最佳时点：20～30 岁身体健康时。保费按投保时的健康状况锁定；确诊之后再想买失能险基本没戏。",
+        "团体长期失能险（LTD）与个人保单：雇主 LTD 通常只赔基本工资的 60%（不含奖金），封顶约每月 7 万～10.5 万元，且为修改型本职业。个人保单用来补这个缺口。",
+        "高收入专业人士（医生、律师、工程师）：个人失能险不可或缺。只靠团体 LTD，会有一大块收入裸奔。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "该买多少保额？",
+      "a": "目标是税后收入的 60%～70%。保险公司上限一般是税前收入的 60%，这就是现实中的天花板。"
+    },
+    {
+      "q": "修改型本职业，省下的钱值不值？",
+      "a": "坐办公室的人：或许可以。专科医生（外科、牙科）：不行。买失能险的意义就是保住你专科技能带来的收入，修改型正好把这一点削掉。"
+    },
+    {
+      "q": "短期还是长期？",
+      "a": "长期优先（覆盖数月到数年）。短期（数天到数周）有当然好，但那段缺口通常应急储备金就能顶住。"
+    },
+    {
+      "q": "职业为什么影响这么大？",
+      "a": "高风险职业（外科医生、依赖视力精细操作的牙医）保费更高，但本职业条款也更硬。办公室职员保费低，本职业条款的区分度也弱。"
+    }
+  ],
+  "products": {
+    "guardian-individual-disability": {
+      "badge": "🏆 专业人士首选",
+      "review": "Guardian 个人失能收入保险适合高收入专业人士。真正本职业定义，保证续保不可解约。保费偏贵，但换来的是市场上最硬的合同条款。",
+      "pros": [
+        "真正的本职业定义",
+        "不可解约保单",
+        "附加条款选择丰富"
+      ],
+      "cons": [
+        "保费偏高",
+        "核保严格"
+      ]
+    },
+    "principal-individual-disability": {
+      "badge": "🥇 医疗从业者首选",
+      "review": "Principal 个人失能险适合医生、牙医、律师。真正本职业条款，对专科表述尤其到位，医科／牙科案件报价也很有攻击性。",
+      "pros": [
+        "专科人群条款表述强",
+        "医科／牙科报价激进",
+        "多种附加条款"
+      ],
+      "cons": [
+        "核心人群之外核保偏紧",
+        "非医疗职业灵活度较低"
+      ]
+    },
+    "mass-mutual-radius-disability": {
+      "badge": "🤝 最佳互助制",
+      "review": "MassMutual Radius Choice 失能险适合看重互助制公司结构的人。保单持有人可分享分红；本职业条款扎实，但医疗人群的报价不如 Principal 激进。",
+      "pros": [
+        "互助制公司（有分红空间）",
+        "本职业条款扎实",
+        "财务评级强"
+      ],
+      "cons": [
+        "专科人群不如 Principal 激进",
+        "核保决定比 Guardian 慢"
+      ]
+    },
+    "breeze-simplified-disability": {
+      "badge": "💻 最佳线上体验",
+      "review": "Breeze 简易失能险适合想快速线上投保的人，多数人无需体检。月保费约 350～1,050 元。默认修改型本职业，真正本职业需加购升级。",
+      "pros": [
+        "多数人免体检",
+        "线上投保快",
+        "保费更低"
+      ],
+      "cons": [
+        "默认修改型本职业",
+        "保额上限低于 Guardian"
+      ]
+    },
+    "policygenius-disability-marketplace": {
+      "badge": "🛒 最佳比价渠道",
+      "review": "Policygenius 失能险平台适合一次申请就对比多家公司（Guardian、Principal、MassMutual、Mutual of Omaha 等）。常能找到绝对价格最低的报价。核保周期 2～4 周。",
+      "pros": [
+        "同时比价 5 家以上",
+        "常能找到最低报价",
+        "独立第三方建议"
+      ],
+      "cons": [
+        "核保需 2～4 周",
+        "并非所有公司都在平台内"
+      ]
+    }
+  },
+  "offerNotes": {
+    "guardian-individual-disability": "通过 Guardian 顾问获取报价。旗舰产品为 Provider Plus。",
+    "principal-individual-disability": "在 principal.com 获取报价。旗舰产品为 HH 700。",
+    "mass-mutual-radius-disability": "通过 MassMutual 顾问获取报价。标准产品为 Radius Choice。",
+    "breeze-simplified-disability": "在 meetbreeze.com 获取报价——线上流程最快。",
+    "policygenius-disability-marketplace": "在 policygenius.com 获取报价——由平台代你比价。"
+  },
+  "pinDescription": "收入中断怎么办？2026 失能险横评：Guardian、Principal、MassMutual、Breeze、Policygenius，重点看「真正本职业」条款和真实月保费。",
+  "recommendedFor": [
+    {
+      "label": "靠手术收入吃饭的外科与专科医生",
+      "offerId": "principal-individual-disability",
+      "reason": "Principal 针对专科的真正本职业条款，只要你无法再做本专业的手术就全额赔付，哪怕你还能出门诊做咨询。"
+    },
+    {
+      "label": "高收入律师与律所合伙人",
+      "offerId": "guardian-individual-disability",
+      "reason": "Guardian 的不可解约合同锁定费率与真正本职业保障，护住律师那份承受不起裸奔的高额收入。"
+    },
+    {
+      "label": "自由职业者与独立承包人",
+      "offerId": "breeze-simplified-disability",
+      "reason": "Breeze 免体检、全线上投保、保费更低，对没有雇主团体 LTD 的人来说是最快拿到收入保障的路径。"
+    },
+    {
+      "label": "第一次投保、还不确定选哪家的人",
+      "offerId": "policygenius-disability-marketplace",
+      "reason": "Policygenius 一次申请比价 5 家以上，把 Guardian、Principal、MassMutual 的报价并排摆出来，方便挑到最合适的。"
+    },
+    {
+      "label": "看重长期分红与保单持有人身份的人",
+      "offerId": "mass-mutual-radius-disability",
+      "reason": "MassMutual 的互助制结构会把分红返还给保单持有人，在扎实的本职业保障之外，多一层长期财务参与的收益。"
+    }
+  ]
 }

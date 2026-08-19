@@ -2,5 +2,146 @@
   "title": "2026年最佳旅行移动电源：5款对比",
   "description": "看看2026年哪款旅行移动电源在容量和TSA合规方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "航空携带规定",
+      "paragraphs": [
+        "民航规定：随身携带的充电宝单块容量不超过 100 瓦时（Wh）。本文对比的产品大多在 100Wh 以内。",
+        "Anker 737（24,000mAh × 3.7V = 88.8Wh）：可随身携带。",
+        "RAVPower 26,800mAh × 3.7V = 99.2Wh：刚好卡在上限之下。",
+        "小容量款（10,000mAh = 37Wh）：完全无需担心。"
+      ]
+    },
+    {
+      "heading": "按需求选型",
+      "paragraphs": [
+        "大容量首选：Anker PowerCore 737（约 ¥1,100-1,300）。24,000mAh，140W，可给笔记本供电。",
+        "中等容量首选：Anker PowerCore 313（约 ¥220-360）。10,000mAh 高性价比之选。",
+        "极限容量首选：RAVPower PD Pioneer（约 ¥430-650）。26,800mAh，逼近上机上限。",
+        "iPhone 首选：Anker MagGo（约 ¥290-500）。MagSafe 磁吸无线充。",
+        "低价首选：INIU 充电宝（约 ¥150-220）。10,000mAh。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "充电宝能带上飞机吗？",
+      "a": "可以随身携带（100Wh 以内），但严禁托运。登机前先确认机身标注的 Wh 数值。"
+    },
+    {
+      "q": "该选多大容量？",
+      "a": "轻装出行：10,000mAh（可充手机 2-3 次）。重度使用：20,000mAh 以上。带笔记本：25,000mAh 以上并支持 USB-C PD。"
+    },
+    {
+      "q": "PD 快充和普通充电差在哪？",
+      "a": "PD 充电速度快 2-3 倍。给新款笔记本快充必须用 USB-C PD。本文中的 Anker 产品全部支持 PD。"
+    },
+    {
+      "q": "充电宝多久换一次？",
+      "a": "约 500 次循环后容量衰减 20%（正常使用约 2-3 年）。当手机充电次数明显变少时就该换了。"
+    }
+  ],
+  "products": {
+    "anker-power-bank-737": {
+      "badge": "👑 大容量首选",
+      "review": "Anker PowerCore 737 是高端大容量的正确选择。24,000mAh，140W PD 输出（可充 MacBook Pro），容量符合上机标准。可给 13 英寸 MacBook 充满 1 次以上，给 iPhone 充 6 次以上。适合同时带笔记本和手机出差的人。",
+      "pros": [
+        "140W PD，可给笔记本供电",
+        "24,000mAh 超大容量",
+        "容量符合随身携带规定"
+      ],
+      "cons": [
+        "价格偏高，约 ¥1,100-1,300",
+        "约 630g，偏重"
+      ]
+    },
+    "anker-power-bank-313": {
+      "badge": "💸 中等容量性价比",
+      "review": "Anker PowerCore 313 是中等容量里的性价比之选。10,000mAh，22.5W 输出，可给 iPhone 充 2-3 次。机身小巧，能塞进口袋。适合偶尔出行、只需备用电源的人。",
+      "pros": [
+        "约 ¥220-360，价格实惠",
+        "10,000mAh，可充手机 2-3 次",
+        "体积小巧"
+      ],
+      "cons": [
+        "22.5W 属中等水平，无法给笔记本快充",
+        "型号较老，新款 Anker 功能更多"
+      ]
+    },
+    "ravpower-pd-pioneer": {
+      "badge": "🏆 极限容量首选",
+      "review": "RAVPower PD Pioneer 是可随身携带的容量天花板。26,800mAh（接近随身携带上限），30W PD 输出，可给 iPhone 充 7 次以上。约 590g 偏重，但容量拉满。",
+      "pros": [
+        "26,800mAh，接近携带上限",
+        "30W PD 输出",
+        "手机可充 7 次以上"
+      ],
+      "cons": [
+        "约 590g，分量不轻",
+        "刚好卡在上限之下，建议提前与航司确认"
+      ]
+    },
+    "anker-magnetic-magsafe-power-bank": {
+      "badge": "🍎 iPhone 首选",
+      "review": "Anker MagGo 磁吸充电宝是 iPhone 用户的正确选择。5,000-10,000mAh，支持 MagSafe（磁吸吸附 iPhone 12 及以上机型），无线充电。日常随身很方便，但容量低于有线款。",
+      "pros": [
+        "MagSafe 磁吸吸附",
+        "支持无线充电",
+        "体积小巧"
+      ],
+      "cons": [
+        "容量偏小（5,000-10,000mAh）",
+        "无线充电比有线慢"
+      ]
+    },
+    "iniu-portable-charger": {
+      "badge": "💸 低价首选",
+      "review": "INIU 充电宝是亚马逊评价数第一的充电宝。10,000mAh，机身超薄，22.5W 输出。约 ¥150-220 的价格使其成为预算之选。适合只想用最低成本备一块的人。",
+      "pros": [
+        "约 ¥150-220，超低价",
+        "机身超薄",
+        "10,000mAh"
+      ],
+      "cons": [
+        "没有高端功能",
+        "输出功率低于 Anker"
+      ]
+    }
+  },
+  "offerNotes": {
+    "anker-power-bank-737": "可在 anker.com、亚马逊购买。「PowerCore 737」是大容量旗舰；容量需求低的可选更小的 Anker PowerCore 系列。",
+    "anker-power-bank-313": "可在 anker.com、亚马逊购买。313 属性价比档；A1264 是更新的 USB-C 版本。",
+    "ravpower-pd-pioneer": "可在 ravpower.com、亚马逊购买。「PD Pioneer」支持 PD 快充，旧款 RAVPower 不支持。",
+    "anker-magnetic-magsafe-power-bank": "可在 anker.com、亚马逊购买。「MagGo」系列支持 MagSafe，下单前请确认型号是否兼容。",
+    "iniu-portable-charger": "可在 iniushop.com、亚马逊购买。订阅省一般可优惠 10-15%。"
+  },
+  "pinDescription": "出差旅行充电宝怎么选？Anker 737 / 313、RAVPower PD Pioneer、Anker MagGo、INIU 五款实测对比，含上机容量规定速查。",
+  "recommendedFor": [
+    {
+      "label": "每次出差都要带笔记本的商务人士",
+      "offerId": "anker-power-bank-737",
+      "reason": "140W PD 输出能同时带动 MacBook Pro 和手机，一块就能顶替笔记本原装充电器。"
+    },
+    {
+      "label": "周末短途出行、只想有个备用电源的人",
+      "offerId": "anker-power-bank-313",
+      "reason": "10,000mAh 可给手机补电 2-3 次，小到能揣进口袋，¥220-360 的价格即使弄丢也不心疼。"
+    },
+    {
+      "label": "多日长途背包客",
+      "offerId": "ravpower-pd-pioneer",
+      "reason": "26,800mAh 把可随身携带的容量拉到极限，不用找插座也能给手机充 7 次以上。"
+    },
+    {
+      "label": "嫌插拔数据线麻烦的 iPhone 用户",
+      "offerId": "anker-magnetic-magsafe-power-bank",
+      "reason": "MagSafe 磁吸即贴，iPhone 12 及以上机型可边握边充，全程无需连线。"
+    },
+    {
+      "label": "预算有限的留学生",
+      "offerId": "iniu-portable-charger",
+      "reason": "¥150-220 的价格、超薄机身加 10,000mAh，日常补电够用，既不增重也不占预算。"
+    }
+  ]
 }

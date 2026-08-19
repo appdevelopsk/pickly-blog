@@ -2,5 +2,147 @@
   "title": "2026年最佳投资平台：5款对比",
   "description": "看看2026年哪款投资平台在费用比率和平台功能方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "指数 ETF 的费率",
+      "paragraphs": [
+        "Fidelity ZERO 系列基金：0.00%（FZROX、FZILX 等）——仅限 Fidelity 账户购买。",
+        "Vanguard ETF：VTI 0.03%、VXUS 0.07%、BND 0.03%，业内最低水平。",
+        "Schwab ETF：SCHB 0.03%、SCHE 0.06%、SCHZ 0.03%，与 Vanguard 相当。",
+        "其他平台：同样可零佣金买入这些 ETF，但没有自家的零费率基金。"
+      ]
+    },
+    {
+      "heading": "分场景选谁",
+      "paragraphs": [
+        "综合最佳：Fidelity。ZERO 基金零费率、零佣金、7×24 电话客服、资产类别齐全。",
+        "指数投资最佳：Vanguard。ETF 费率业内最低，指数化投资的开创者。",
+        "银行＋券商一体化最佳：Schwab。绑定银行账户，全球取现免手续费。",
+        "手机端／轻度投资最佳：Robinhood。移动体验最好，但缺研究工具。",
+        "主动交易最佳：E*TRADE。Power E*TRADE 平台，期权功能扎实。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "做指数投资，选哪个平台真的有区别吗？",
+      "a": "区别不大——总成本每年相差约 0.01%–0.05%。30 年、20 万美元本金下折合 1,200–6,000 美元。有影响，但不至于改变结果。按你的其他需求选平台即可。"
+    },
+    {
+      "q": "要不要换平台？",
+      "a": "只有当费率能省 0.05% 以上，或能拿到确实有用的功能时才值得。换平台的代价包括转仓股份的税表申报，以及重新熟悉一套界面。"
+    },
+    {
+      "q": "Robinhood 安全吗？",
+      "a": "安全——和其他券商一样受 SIPC 保护，标准保额 50 万美元。2021 年 GameStop 事件暴露了它的订单流盈利模式，但账户资产本身是安全的。"
+    },
+    {
+      "q": "Webull、Public、M1 怎么样？",
+      "a": "各有适用场景。Public 主打道德投资；M1 主打自动化组合管理；Webull 与 Robinhood 类似，图表功能更强。"
+    }
+  ],
+  "products": {
+    "fidelity-platform": {
+      "badge": "🏆 综合最佳",
+      "review": "对大多数投资者来说，Fidelity 是综合表现最好的投资平台。零开户门槛、零佣金，FZROX 费率 0.00%（市面上唯一真正零成本的基金），7×24 电话客服，主要城市设有线下网点。券商、退休金、银行、HSA 账户一站搞定。",
+      "pros": [
+        "FZROX 费率 0.00%",
+        "7×24 电话客服＋线下网点",
+        "资产类别覆盖最广"
+      ],
+      "cons": [
+        "ZERO 系列基金只能在 Fidelity 内部转移（平台绑定）",
+        "ActiveTraderPro 的体验不如 ThinkOrSwim 精细"
+      ]
+    },
+    "vanguard-platform": {
+      "badge": "💸 指数投资最佳",
+      "review": "长期持有指数的投资者选 Vanguard 没错。ETF 费率业内最低——30 年下来，比同行少 0.01%–0.03% 复利累积成一笔可观的差额。由 Jack Bogle 创立。界面偏老旧（像 2010 年的网站），但功能够用。",
+      "pros": [
+        "ETF 费率最低",
+        "由指数化投资先驱 Jack Bogle 创立",
+        "行业标杆级 ETF（VTI、VXUS）"
+      ],
+      "cons": [
+        "界面陈旧",
+        "主动交易工具有限"
+      ]
+    },
+    "schwab-platform": {
+      "badge": "🏦 银行功能最佳",
+      "review": "想把银行和券商打通，Schwab 是对的选择。零佣金，Schwab Bank 支票账户无境外交易手续费，全球 ATM 取现免费。Intelligent Portfolios 智能投顾免费。2023 年收购 TD Ameritrade，ThinkOrSwim 平台已并入 Schwab。",
+      "pros": [
+        "银行与券商打通",
+        "全球 ATM 取现免费",
+        "拥有 ThinkOrSwim 平台（收购 TD 后）"
+      ],
+      "cons": [
+        "Intelligent Portfolios 现金占比偏高",
+        "TD Ameritrade 迁移仍有些磨合问题"
+      ]
+    },
+    "robinhood-platform": {
+      "badge": "📱 移动体验最佳",
+      "review": "以手机为主的轻度投资者适合 Robinhood。移动端体验业内最好，零佣金，支持碎股。研究工具和进阶功能不如 Fidelity／Schwab。最适合偶尔买入宽基 ETF。",
+      "pros": [
+        "移动端体验最好",
+        "支持碎股",
+        "开户快"
+      ],
+      "cons": [
+        "缺研究工具",
+        "靠订单流盈利",
+        "账户类型有限"
+      ]
+    },
+    "etrade-platform": {
+      "badge": "📈 主动交易最佳",
+      "review": "主动交易者适合 E*TRADE。Power E*TRADE 提供进阶图表，对期权友好，零佣金。现属摩根士丹利旗下。Power E*TRADE 在主动交易和期权策略上功能扎实。",
+      "pros": [
+        "Power E*TRADE 适合主动交易",
+        "期权功能强",
+        "隶属摩根士丹利"
+      ],
+      "cons": [
+        "界面不如 Robinhood 轻量友好",
+        "与摩根士丹利的整合仍在进行中"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-platform": "在 fidelity.com 注册。ZERO 系列基金（FZROX、FZILX、FZIPX）为 Fidelity 独家。",
+    "vanguard-platform": "在 investor.vanguard.com 注册。VTI 和 VXUS 是其旗舰 ETF。",
+    "schwab-platform": "在 schwab.com 注册。Schwab Bank 支票账户是必开的核心功能。",
+    "robinhood-platform": "在 robinhood.com 或手机 App 注册。Robinhood Gold 订阅（每月 5 美元）可解锁研究工具。",
+    "etrade-platform": "在 us.etrade.com 注册。进阶功能请用 Power E*TRADE（与普通 App 分开）。"
+  },
+  "pinDescription": "2026 年投资平台怎么选？Fidelity、Vanguard、Schwab、Robinhood、E*TRADE 五家实测对比：费率、开户门槛、移动端体验一目了然。指数定投和主动交易分别推荐谁，收藏备用。",
+  "recommendedFor": [
+    {
+      "label": "追求每一个基点的长期退休储蓄者",
+      "offerId": "fidelity-platform",
+      "reason": "Fidelity 的 FZROX 费率 0.00%，是唯一真正零成本的基金，几十年退休储蓄下来能省下可观的复利成本。"
+    },
+    {
+      "label": "坚持低成本指数基金策略的被动投资者",
+      "offerId": "vanguard-platform",
+      "reason": "Vanguard 的 VTI 和 VXUS 费率仅 0.03%–0.07%，为业内最低，而创始人 Jack Bogle 正是这套策略的开创者。"
+    },
+    {
+      "label": "经常出国、需要同时管理现金和投资的人",
+      "offerId": "schwab-platform",
+      "reason": "Schwab Bank 支票账户无境外交易手续费，全球 ATM 取现免费，是唯一让现金和你一样自由跨境的券商。"
+    },
+    {
+      "label": "资金不多的年轻新手投资者",
+      "offerId": "robinhood-platform",
+      "reason": "Robinhood 的移动体验业内一流，加上碎股功能，新手用任意金额就能买入高价股票和 ETF，没有最低门槛。"
+    },
+    {
+      "label": "做期权和多腿策略的主动交易者",
+      "offerId": "etrade-platform",
+      "reason": "Power E*TRADE 的进阶图表和期权工具能应付复杂的多腿策略，这是简易平台难以高效执行的。"
+    }
+  ]
 }

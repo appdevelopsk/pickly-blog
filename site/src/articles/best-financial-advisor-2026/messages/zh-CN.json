@@ -2,5 +2,147 @@
   "title": "2026年最佳财务顾问：5款对比",
   "description": "看看2026年哪款财务顾问在费用结构和顾问访问方面真正出色。",
   "lede": "对比5款，依据官方公布规格、原厂文件与第三方评测。",
-  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。"
+  "methodology": "本对比为资料研究：汇整官方公布规格、原厂文件与第三方测试及评论。",
+  "sections": [
+    {
+      "heading": "费用结构对比（50万美元资产组合）",
+      "paragraphs": [
+        "Vanguard PAS：每年 1,500 美元（资产的 0.30%）。",
+        "Betterment Premium：每年 2,000 美元（资产的 0.40%，最低 10 万美元）。",
+        "Fidelity Wealth Services：每年 2,500–5,200 美元（资产的 0.50%–1.04%）。",
+        "Schwab Intelligent Portfolios：每年 0 美元（纯智能投顾，无真人顾问）。",
+        "Facet Wealth：每年 2,400–6,000 美元（固定订阅费，不按资产比例收取）。"
+      ]
+    },
+    {
+      "heading": "各类需求的最优选择",
+      "paragraphs": [
+        "低成本真人顾问首选：Vanguard PAS。0.30% 资产费率，配备受托责任 CFP。",
+        "数字化优先首选：Betterment Premium。0.40% 资产费率，不限次数 CFP 咨询 + 智能投顾。",
+        "中端真人顾问首选：Fidelity Wealth Services。专属顾问，最低 5 万美元起。",
+        "免费智能投顾首选：Schwab Intelligent Portfolios。顾问费为 0。",
+        "大额组合首选：Facet Wealth。固定收费，在 100 万美元以上比按资产比例更划算。"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "我需要理财顾问吗？",
+      "a": "视情况而定。资产在 25 万美元以下时，智能投顾（Schwab Intelligent Portfolios）或自己买指数基金（Vanguard）通常就够了。资产超过 50 万美元且情况复杂（房产、企业股权、税务亏损收割）时，真人顾问才真正带来价值。"
+    },
+    {
+      "q": "按资产比例收费和固定收费怎么选？",
+      "a": "按资产比例（AUM）收费随组合规模增长——25 万到 50 万美元时还合理，200 万美元以上就偏贵。固定收费（Facet）在 100 万美元以上更便宜，但在 25 万美元时反而更贵。按自己的实际规模算一下盈亏平衡点。"
+    },
+    {
+      "q": "智能投顾靠谱吗？",
+      "a": "对 50 万美元以下、需求简单的组合来说没问题。它们能以更低成本完成再平衡和税务亏损收割。但在复杂税务规划、遗产规划或企业主需求上能力有限。"
+    },
+    {
+      "q": "只收咨询费的受托 CFP 怎么样？",
+      "a": "情况复杂时非常推荐。他们按每小时 200–500 美元或固定规划费（1,500–5,000 美元）收费，不赚佣金。可通过 NAPFA.org 或 XY Planning Network 查找。"
+    }
+  ],
+  "products": {
+    "vanguard-pas": {
+      "badge": "🏆 低成本真人顾问首选",
+      "review": "想以低成本获得真人顾问服务，Vanguard Personal Advisor Services 是正确答案。0.30% 的资产费率是真人顾问领域的行业最低水平，配备受托责任 CFP，以 Vanguard 基金为核心。这些 CFP 是真正的人类顾问（不是机器人），咨询次数不限。50 万至 500 万美元规模的组合性价比最高。",
+      "pros": [
+        "0.30% 资产费率（真人顾问中最低）",
+        "受托责任 CFP",
+        "与 Vanguard 基金无缝衔接"
+      ],
+      "cons": [
+        "以 Vanguard 自家基金为主，产品范围受限",
+        "个性化程度不如高收费服务"
+      ]
+    },
+    "betterment-premium": {
+      "badge": "💎 数字化优先首选",
+      "review": "习惯线上操作又想要 CFP 支持的人，选 Betterment Premium。0.40% 资产费率，最低 10 万美元起，CFP 咨询不限次数，交易由智能投顾自动完成，含税务亏损收割。适合想要「机器人 + 真人」混合方案的技术型投资者。",
+      "pros": [
+        "CFP 咨询不限次数",
+        "智能投顾自动化",
+        "含税务亏损收割"
+      ],
+      "cons": [
+        "最低 10 万美元门槛",
+        "0.40% 费率高于 Vanguard"
+      ]
+    },
+    "fidelity-wealth-services": {
+      "badge": "🏛️ 中端真人顾问首选",
+      "review": "想在大型券商获得传统真人顾问服务，Fidelity Wealth Services 是正确答案。5 万美元起投，配专属顾问，费率按服务层级为 0.50%–1.04%。适合资产 50 万美元以上、希望有单一对接人的 Fidelity 现有客户。",
+      "pros": [
+        "专属顾问",
+        "与 Fidelity 账户打通",
+        "多档服务层级可选"
+      ],
+      "cons": [
+        "0.50%–1.04% 费率高于 Vanguard",
+        "最低 5 万美元门槛"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "🆓 免费智能投顾首选",
+      "review": "想要零费用的智能投顾，选 Schwab Intelligent Portfolios。顾问费为 0，5 千美元起投，含目标规划。代价是现金拖累——嘉信通过强制约 10% 仓位留在低收益现金账户中赚钱。",
+      "pros": [
+        "顾问费为 0",
+        "5 千美元门槛很低",
+        "含目标规划"
+      ],
+      "cons": [
+        "现金拖累（约 10% 仓位为低收益现金）",
+        "无法接触真人顾问"
+      ]
+    },
+    "facet-wealth": {
+      "badge": "💸 大额组合首选",
+      "review": "100 万美元以上的组合，Facet Wealth 是正确答案。采用固定订阅费（每年 2,400–6,000 美元）而非按资产比例收费，配专属 CFP。以 200 万美元组合为例，Facet 每年 4,800 美元远低于 0.30% 资产费率的 6,000 美元。",
+      "pros": [
+        "固定收费（100 万美元以上更便宜）",
+        "专属 CFP",
+        "无利益冲突（不与资产规模挂钩）"
+      ],
+      "cons": [
+        "25 万美元规模下偏贵（固定费高于 1% 资产费率）",
+        "公司规模小于 Vanguard／Fidelity"
+      ]
+    }
+  },
+  "offerNotes": {
+    "vanguard-pas": "在 investor.vanguard.com 注册。使用 PAS 需最低 50 万美元资产。",
+    "betterment-premium": "在 betterment.com 注册。Premium 层级最低 10 万美元；Digital 层级（0.25% 资产费率，无 CFP 咨询）无门槛。",
+    "fidelity-wealth-services": "在 fidelity.com 注册或致电其财富管理服务专线。最低 5 万美元。",
+    "schwab-intelligent-portfolios": "在 schwab.com 注册。最低 5 千美元。",
+    "facet-wealth": "在 facet.com 注册。固定收费模式，按情况复杂度报价。"
+  },
+  "pinDescription": "理财顾问怎么选？Vanguard、Betterment、Fidelity、嘉信、Facet 五家费率一张表看懂：0.30% 和固定年费，到底谁更省钱。",
+  "recommendedFor": [
+    {
+      "label": "资产 50 万–500 万美元、看重成本的投资者",
+      "offerId": "vanguard-pas",
+      "reason": "Vanguard PAS 仅收 0.30% 资产费率，是能接触真人 CFP 的最低价位，每年比同类省下数千美元。"
+    },
+    {
+      "label": "想要自动化、同时保留真人后盾的技术型投资者",
+      "offerId": "betterment-premium",
+      "reason": "Betterment Premium 把自动税务亏损收割和不限次数的 CFP 咨询结合起来，适合想省心又要专业建议的人。"
+    },
+    {
+      "label": "希望配备专属顾问的 Fidelity 老客户",
+      "offerId": "fidelity-wealth-services",
+      "reason": "Fidelity Wealth Services 为 50 万美元以上客户指定单一对接人，并与现有 Fidelity 账户无缝打通。"
+    },
+    {
+      "label": "资产不足 10 万美元的起步投资者",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Schwab Intelligent Portfolios 顾问费为 0，5 千美元即可开始，早期收益不会被费用吃掉。"
+    },
+    {
+      "label": "可投资资产 100 万美元以上的高净值人群",
+      "offerId": "facet-wealth",
+      "reason": "Facet 每年 2,400–6,000 美元的固定收费在 100 万美元以上胜过按资产比例定价，200 万美元组合下比 Vanguard 的 0.30% 每年最多省 1,200 美元。"
+    }
+  ]
 }
