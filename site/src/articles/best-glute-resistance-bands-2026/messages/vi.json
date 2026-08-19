@@ -147,5 +147,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "Mỗi sản phẩm được đánh giá theo năm tiêu chí: chất lượng xây dựng, hiệu suất trong điều kiện sử dụng thông thường, độ bền theo thời gian, sự thoải mái và giá trị mỗi đô la. Chúng tôi coi trọng hiệu suất và độ bền nhất vì đây quyết định liệu sản phẩm có còn hữu ích sau 12 tháng không."
+  "methodology": "Mỗi sản phẩm được đánh giá theo năm tiêu chí: chất lượng xây dựng, hiệu suất trong điều kiện sử dụng thông thường, độ bền theo thời gian, sự thoải mái và giá trị mỗi đô la. Chúng tôi coi trọng hiệu suất và độ bền nhất vì đây quyết định liệu sản phẩm có còn hữu ích sau 12 tháng không.",
+  "recommendedFor": [
+    {
+      "label": "Người tập gym tại nhà muốn tăng tiến với bài hip thrust",
+      "offerId": "victorem-hip-resistance-bands",
+      "reason": "Dây vải bản rộng không bị trượt khi hip thrust có tạ, và ba mức kháng lực giúp bạn nâng dần cường độ mà không cần mua bộ mới."
+    },
+    {
+      "label": "Người mới tập, ngân sách eo hẹp, muốn gom dần bộ dây",
+      "offerId": "fit-simplify-resistance-loop-bands",
+      "reason": "Năm dây phân màu từ siêu nhẹ đến siêu nặng với giá dưới 400.000đ, nên khi cao su xuống cấp bạn có thể thay cả bộ mà không tiếc tiền."
+    },
+    {
+      "label": "Người tập trung vào mông và mặc legging tập mỗi ngày",
+      "offerId": "peach-bands-fabric-set",
+      "reason": "Hoa văn lục giác chống trượt được dệt thẳng vào vải chứ không phải lớp phủ dễ bong, nên dây bám chắc trên legging lẫn quần short qua từng buổi tập."
+    },
+    {
+      "label": "Người quay lại tập luyện sau chấn thương hông hoặc gối",
+      "offerId": "theraband-resistance-loop",
+      "reason": "Các mức kháng lực chuẩn hóa theo tiêu chuẩn y tế, đúng với những gì kỹ thuật viên vật lý trị liệu chỉ định, nên bạn theo sát phác đồ phục hồi rất dễ dàng."
+    },
+    {
+      "label": "Người dùng đồ tập Gymshark muốn có bộ phụ kiện đồng bộ",
+      "offerId": "gymshark-resistance-band",
+      "reason": "Chất liệu dệt kim hạn chế xù chỉ và tông màu ăn khớp với các dòng trang phục Gymshark hiện tại, cho vẻ ngoài đồng bộ cùng độ bền tốt hơn phần lớn dây vải khác."
+    }
+  ]
 }

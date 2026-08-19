@@ -2,5 +2,152 @@
   "title": "phần mềm CRM tốt nhất 2026: 5 so sánh",
   "description": "Chúng tôi so sánh HubSpot, Salesforce, Pipedrive, Zoho, Monday. Đâu là phần mềm CRM 2026 thực sự nổi bật về tỉ lệ áp dụng của nhân viên và tốc độ thiết lập.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Tốc độ khởi động",
+      "paragraphs": [
+        "Thời gian đến khi ghi nhận giao dịch đầu tiên: Pipedrive 1 ngày (giao diện ưu tiên pipeline), Monday Sales 2 ngày, HubSpot 2 ngày, Zoho 4 ngày, Salesforce 8-14 ngày (mô hình đối tượng phức tạp).",
+        "Thời gian đào tạo mỗi nhân viên kinh doanh: Pipedrive 30 phút, HubSpot 45 phút, Monday Sales 1 giờ, Zoho 2 giờ, Salesforce 6-8 giờ với người quản trị trực tiếp hướng dẫn.",
+        "Sự phức tạp của Salesforce là điểm mạnh với doanh nghiệp lớn (tùy biến vô hạn) nhưng lại là gánh nặng cho đội nhỏ. HubSpot và Pipedrive ưu tiên việc sinh ra giá trị thật nhanh."
+      ]
+    },
+    {
+      "heading": "Tỷ lệ dùng hằng ngày",
+      "paragraphs": [
+        "Sau 30 ngày, tỷ lệ nhân viên kinh doanh mở CRM mỗi ngày: HubSpot 92%, Pipedrive 88%, Monday Sales 78%, Zoho 75%, Salesforce 65% (nếu bộ phận sales ops không siết chặt, đến ngày 60 tụt còn 40%).",
+        "Nhân viên bỏ Salesforce vì việc nhập hoạt động giống như làm giấy tờ hành chính. Họ gắn bó với Pipedrive/HubSpot vì giao diện cho phép nhập liệu rất nhanh.",
+        "Ứng dụng di động: HubSpot thuộc hàng tốt nhất thị trường. Pipedrive cũng mạnh. App Salesforce dùng được nhưng chậm. Monday và Zoho chỉ ở mức cơ bản."
+      ]
+    },
+    {
+      "heading": "Tự động hóa và khả năng mở rộng",
+      "paragraphs": [
+        "Độ sâu tự động hóa quy trình: Salesforce (mạnh nhất, cần người quản trị), HubSpot (giao diện tốt nhất), ActiveCampaign Plus kết hợp Pipedrive (nhiều đội dùng chung hai công cụ), Monday Sales (quy trình trực quan, dễ dùng), Zoho (bao quát rộng nhưng giao diện đã cũ).",
+        "Tổng chi phí cho 12 người dùng (gói tầm trung): Salesforce 900 USD/tháng (Professional), HubSpot 1.200 USD/tháng (Sales Hub Pro), Pipedrive 408 USD/tháng (Advanced), Zoho 192 USD/tháng (Enterprise), Monday Sales 144-288 USD/tháng (Pro). Zoho và Monday rẻ hơn HubSpot/Salesforce từ 4 đến 6 lần.",
+        "Khi vượt mốc 50 nhân viên kinh doanh: chọn Salesforce. Khả năng tùy biến bị xem là thừa thãi ở quy mô 12 người lại trở thành thiết yếu ở quy mô 100. Phần lớn đội 12 người KHÔNG nên chọn Salesforce."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Doanh nghiệp nhỏ nên chọn HubSpot hay Salesforce?",
+      "a": "HubSpot. Sinh giá trị nhanh nhất, có gói miễn phí, giao diện tốt nhất. Chỉ chọn Salesforce nếu bạn có hẳn nhân sự quản trị riêng và quy trình bán hàng phức tạp."
+    },
+    {
+      "q": "Pipedrive hay HubSpot?",
+      "a": "Pipedrive dành cho đội bán hàng chủ động thuần túy (pipeline trực quan, xoay quanh giao dịch). HubSpot nếu bạn muốn marketing + bán hàng + chăm sóc khách hàng trên cùng một nền tảng."
+    },
+    {
+      "q": "Gói CRM miễn phí có thực sự miễn phí không?",
+      "a": "Gói miễn phí của HubSpot thực sự dùng được (danh bạ, giao dịch, email cơ bản). Zoho CRM bản miễn phí (3 người dùng) cũng đủ xài. Salesforce 'Essentials' chỉ có bản trả phí 25 USD/người/tháng, không có gói miễn phí."
+    },
+    {
+      "q": "Sau này có đổi CRM được không?",
+      "a": "Được, nhưng khá vất vả. Hãy tính trước 2-4 tuần cho việc chuyển dữ liệu. Xuất file CSV ổn với danh bạ và giao dịch, nhưng trường tùy chỉnh, lịch sử hoạt động và các luồng tự động hiếm khi chuyển sang trọn vẹn."
+    }
+  ],
+  "products": {
+    "hubspot-crm-pro": {
+      "badge": "🏆 Tốt nhất tổng thể",
+      "review": "HubSpot Sales Hub Professional là lựa chọn đúng cho phần lớn đội nhỏ và vừa. Giao diện tốt nhất phân khúc, gói miễn phí nâng cấp mượt lên trả phí, tích hợp marketing - CRM - chăm sóc khách hàng. Giao diện tốt cho nhân viên kinh doanh đồng nghĩa tỷ lệ dùng hằng ngày cao nhất.",
+      "pros": [
+        "Giao diện tốt nhất phân khúc",
+        "Từ gói miễn phí nâng cấp lên mượt mà",
+        "Tích hợp marketing + bán hàng + chăm sóc khách hàng"
+      ],
+      "cons": [
+        "Gói Pro 100 USD/người/tháng khá đắt",
+        "Ít tùy biến hơn Salesforce"
+      ]
+    },
+    "salesforce-sales-cloud-pro": {
+      "badge": "🏢 Tốt nhất cho doanh nghiệp lớn",
+      "review": "Salesforce Sales Cloud Professional là lựa chọn đúng cho đội từ 50 nhân viên kinh doanh trở lên, có nhân sự quản trị riêng và quy trình bán hàng phức tạp. Hệ sinh thái AppExchange, tùy biến vô hạn. Đổi lại là gánh nặng làm quen với đội nhỏ.",
+      "pros": [
+        "Tùy biến mạnh nhất",
+        "Hệ sinh thái AppExchange",
+        "Chuẩn mực ngành cho doanh nghiệp lớn"
+      ],
+      "cons": [
+        "Đường học dốc",
+        "Tỷ lệ sử dụng tụt nếu quản trị viên không siết",
+        "75-300 USD/người/tháng"
+      ]
+    },
+    "pipedrive-advanced": {
+      "badge": "📊 Tốt nhất cho bán hàng chủ động",
+      "review": "Pipedrive Advanced là lựa chọn đúng cho đội bán hàng chủ động thuần túy. Thiết kế ưu tiên pipeline — các giai đoạn giao dịch trực quan, kéo thả, nhập liệu nhanh. Năng suất ngay ngày đầu cao nhất. Kém phù hợp nếu cần tích hợp marketing.",
+      "pros": [
+        "Giao diện tốt nhất cho bán hàng chủ động",
+        "Ghi nhận giao dịch đầu tiên nhanh nhất",
+        "Ứng dụng di động mạnh"
+      ],
+      "cons": [
+        "Tích hợp marketing kém hơn HubSpot",
+        "Tùy biến nông hơn Salesforce"
+      ]
+    },
+    "zoho-crm-enterprise": {
+      "badge": "💸 Tốt nhất trong tầm giá",
+      "review": "Zoho CRM Enterprise là lựa chọn đúng cho doanh nghiệp nhỏ và vừa có ngân sách eo hẹp. Gói Enterprise 40 USD/người/tháng có bộ tính năng ngang ngửa Salesforce Professional (165 USD). Tích hợp rộng với bộ Zoho One (hơn 40 ứng dụng). Giao diện đã cũ nhưng vẫn dùng tốt.",
+      "pros": [
+        "Rẻ hơn Salesforce 4 lần với tính năng tương đương",
+        "Tích hợp bộ Zoho One",
+        "Gói miễn phí cho 3 người dùng"
+      ],
+      "cons": [
+        "Giao diện cũ kỹ",
+        "Ứng dụng di động chưa trau chuốt"
+      ]
+    },
+    "monday-sales-crm": {
+      "badge": "🎨 CRM trực quan tốt nhất",
+      "review": "Monday Sales CRM là lựa chọn đúng cho đội đã dùng Monday để quản lý dự án. CRM dạng bảng trực quan, tùy biến thoải mái, 12-24 USD/người/tháng. Hợp nhất khi đội bạn tư duy theo quy trình công việc chứ không theo pipeline.",
+      "pros": [
+        "Phong cách quy trình trực quan",
+        "Ăn khớp với Monday work management",
+        "Giá dễ chịu"
+      ],
+      "cons": [
+        "Hệ sinh thái CRM nhỏ hơn",
+        "Ít tối ưu cho bán hàng hơn Pipedrive/HubSpot"
+      ]
+    }
+  },
+  "offerNotes": {
+    "hubspot-crm-pro": "Đăng ký tại hubspot.com — gói miễn phí thực sự dùng được.",
+    "salesforce-sales-cloud-pro": "Nhận báo giá tại salesforce.com — phải qua cuộc gọi tư vấn.",
+    "pipedrive-advanced": "Đăng ký tại pipedrive.com — dùng thử miễn phí 14 ngày.",
+    "zoho-crm-enterprise": "Đăng ký tại zoho.com — dùng thử miễn phí 15 ngày.",
+    "monday-sales-crm": "Đăng ký tại monday.com — miễn phí cho 2 người dùng."
+  },
+  "pinDescription": "Chọn CRM nào cho 2026? So sánh HubSpot, Salesforce, Pipedrive, Zoho và Monday: giá theo người dùng, mức tự động hóa và công sức chuyển dữ liệu. Lưu lại trước khi ký hợp đồng. #crm #banhang",
+  "recommendedFor": [
+    {
+      "label": "Chủ doanh nghiệp nhỏ ôm mọi việc",
+      "offerId": "hubspot-crm-pro",
+      "reason": "Gói miễn phí và nền tảng gộp marketing - bán hàng - chăm sóc khách hàng của HubSpot giúp đội ít người vừa chạy chiến dịch vừa chốt đơn mà không phải nhảy qua lại giữa các công cụ."
+    },
+    {
+      "label": "Đội sales ops doanh nghiệp lớn có quản trị viên riêng",
+      "offerId": "salesforce-sales-cloud-pro",
+      "reason": "AppExchange và khả năng tùy biến vô hạn của Salesforce gánh được pipeline nhiều giai đoạn phức tạp ở quy mô 50 nhân viên trở lên, nơi không nền tảng nào khác theo kịp."
+    },
+    {
+      "label": "Đội SDR chủ động chỉ tập trung vào pipeline",
+      "offerId": "pipedrive-advanced",
+      "reason": "Pipeline kéo thả trực quan của Pipedrive giúp nhân viên ghi nhận giao dịch đầu tiên trong chưa đầy một ngày, giữ tỷ lệ dùng hằng ngày ở mức 88%."
+    },
+    {
+      "label": "Startup thắt chặt chi phí, cần nhiều tính năng nhất trên mỗi đồng",
+      "offerId": "zoho-crm-enterprise",
+      "reason": "Zoho Enterprise có giá 40 USD/người/tháng, tính năng ngang Salesforce Professional, lại mở khóa thêm hơn 40 ứng dụng Zoho One mà không tốn thêm phí."
+    },
+    {
+      "label": "Đội làm theo dự án và đã dùng Monday.com",
+      "offerId": "monday-sales-crm",
+      "reason": "Monday Sales CRM dùng chung kiểu bảng trực quan quen thuộc, nên đội quen tư duy theo đầu việc chuyển sang theo dõi giao dịch rất tự nhiên."
+    }
+  ]
 }

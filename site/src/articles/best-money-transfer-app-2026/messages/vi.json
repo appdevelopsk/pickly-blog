@@ -2,5 +2,147 @@
   "title": "ứng dụng chuyển tiền tốt nhất 2026: 5 sản phẩm thử 30 ngày",
   "description": "Chúng tôi so sánh Wise, Revolut, PayPal, Venmo, Western Union. Đâu là ứng dụng chuyển tiền 2026 thực sự nổi bật về tỷ giá và phí.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "So sánh chi phí chuyển tiền quốc tế (1.000 USD → EUR)",
+      "paragraphs": [
+        "Wise: 1.000 USD → 917 EUR (tỷ giá liên ngân hàng + phí 0,4%). Minh bạch nhất.",
+        "Revolut (gói Standard): 1.000 USD → 915 EUR (tỷ giá tốt, chỉ áp dụng ngày trong tuần).",
+        "PayPal: 1.000 USD → 870 EUR (phí thực tế khoảng 3-5% nếu tính cả tỷ giá bất lợi). Tệ nhất.",
+        "Western Union (trực tuyến): 1.000 USD → 890 EUR (khá hơn PayPal nhưng vẫn có biên lợi nhuận ẩn).",
+        "Venmo: không hỗ trợ chuyển tiền quốc tế."
+      ]
+    },
+    {
+      "heading": "Chọn theo nhu cầu",
+      "paragraphs": [
+        "Tốt nhất cho chuyển tiền quốc tế: Wise. Tỷ giá liên ngân hàng, phí minh bạch 0,4-1%.",
+        "Nhiều tính năng nhất: Revolut. Tài khoản đa tiền tệ, tiền mã hóa, cổ phiếu tích hợp sẵn.",
+        "Tốt nhất trong nội địa Mỹ: Venmo. Chỉ dùng ở Mỹ, có bảng tin xã hội, chuyển tiền tức thì.",
+        "Tốt nhất để nhận tiền mặt: Western Union. Hơn 200 quốc gia, nhận trực tiếp tại quầy.",
+        "Phổ biến nhất: PayPal. Lâu đời nhưng tỷ giá tệ nhất."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vì sao Wise rẻ hơn PayPal?",
+      "a": "Wise dùng tỷ giá liên ngân hàng (tỷ giá thực giữa các đồng tiền trên thị trường quốc tế) cộng một khoản phí công khai. PayPal cộng thêm biên độ vào tỷ giá rồi thu thêm phí — thường đắt hơn tỷ giá thực 3-5%."
+    },
+    {
+      "q": "Tôi có thể gửi tiền cho bất kỳ ai qua Wise không?",
+      "a": "Được — người nhận không cần có tài khoản Wise. Bạn chuyển thẳng vào tài khoản ngân hàng của họ và họ nhận bằng nội tệ."
+    },
+    {
+      "q": "Các ứng dụng này có an toàn không?",
+      "a": "Có — Wise, Revolut, PayPal, Venmo và Western Union đều là đơn vị chuyển tiền có giấy phép, kèm các biện pháp chống gian lận."
+    },
+    {
+      "q": "Dùng tiền mã hóa để chuyển tiền thì sao?",
+      "a": "Được nhưng rắc rối hơn — người gửi đổi USD sang USDC, chuyển cho người nhận, rồi người nhận đổi ngược về nội tệ. Hữu ích trong vài tình huống đặc thù (quốc gia bị cấm vận), còn với đa số thì Wise đơn giản hơn."
+    }
+  ],
+  "products": {
+    "wise-transfer": {
+      "badge": "🏆 Tốt nhất cho chuyển tiền quốc tế",
+      "review": "Wise (trước đây là TransferWise) là lựa chọn đúng đắn để chuyển tiền quốc tế. Tỷ giá liên ngân hàng thật (mức các ngân hàng dùng với nhau), phí minh bạch (0,4-1% tùy đồng tiền), hỗ trợ hơn 40 loại tiền tệ. Bạn gửi thẳng vào tài khoản ngân hàng của bất kỳ ai trên thế giới mà họ không cần mở tài khoản Wise.",
+      "pros": [
+        "Tỷ giá liên ngân hàng",
+        "Phí minh bạch (0,4-1%)",
+        "Hơn 40 loại tiền tệ"
+      ],
+      "cons": [
+        "Người gửi phải có tài khoản Wise",
+        "Chuyển khoản ngân hàng có thể mất 1-2 ngày"
+      ]
+    },
+    "revolut": {
+      "badge": "🌐 Nhiều tính năng nhất",
+      "review": "Revolut là lựa chọn đúng đắn nếu bạn muốn vừa chuyển tiền, vừa có tài khoản đa tiền tệ, tiền mã hóa và cổ phiếu. Tài khoản đa tiền tệ giữ được hơn 25 loại tiền, tích hợp sẵn giao dịch crypto và chứng khoán, các gói trả phí bổ sung nhiều quyền lợi. Phí chuyển tiền quốc tế cạnh tranh (tương đương Wise vào ngày thường).",
+      "pros": [
+        "Tài khoản đa tiền tệ (hơn 25 loại)",
+        "Tích hợp tiền mã hóa và cổ phiếu",
+        "Gói trả phí có thêm quyền lợi"
+      ],
+      "cons": [
+        "Gói trả phí tốn 9-17 USD/tháng",
+        "Tỷ giá cuối tuần kém hơn"
+      ]
+    },
+    "paypal-international": {
+      "badge": "🏪 Phổ biến nhất",
+      "review": "PayPal là dịch vụ chuyển tiền phổ biến nhất nhưng tỷ giá tệ nhất. Phí thực tế khoảng 3-5% nếu tính cả phần cộng thêm vào tỷ giá. Chỉ nên dùng khi người nhận yêu cầu đích danh PayPal — còn lại thì Wise là lựa chọn hiển nhiên.",
+      "pros": [
+        "Phổ biến nhất",
+        "Bảo vệ người mua/người bán khi giao dịch",
+        "Được nhiều đơn vị bán hàng chấp nhận"
+      ],
+      "cons": [
+        "Tỷ giá tệ nhất (đội thêm khoảng 3-5%)",
+        "Phí ẩn nằm trong tỷ giá"
+      ]
+    },
+    "venmo": {
+      "badge": "🇺🇸 Tốt nhất trong nội địa Mỹ",
+      "review": "Venmo là lựa chọn đúng đắn để chuyển tiền giữa các cá nhân trong nước Mỹ. Có bảng tin xã hội (bạn bè thấy được giao dịch — chỉnh được quyền riêng tư), chuyển tức thì về thẻ ghi nợ (0,25-15 USD), chuyển về ngân hàng miễn phí (1-3 ngày). Đây là chuẩn mực để chia tiền ở Mỹ.",
+      "pros": [
+        "Bảng tin xã hội (có thể tắt)",
+        "Chuyển tức thì về thẻ ghi nợ",
+        "Chuẩn mực cho giao dịch nội địa Mỹ"
+      ],
+      "cons": [
+        "Chỉ dùng được ở Mỹ",
+        "Không chuyển tiền quốc tế"
+      ]
+    },
+    "western-union": {
+      "badge": "💵 Tốt nhất để nhận tiền mặt",
+      "review": "Western Union là lựa chọn đúng đắn khi người nhận muốn lấy tiền mặt, với mạng lưới hơn 200 quốc gia. Người nhận ra quầy Western Union lấy tiền mặt mà không cần tài khoản ngân hàng. Rất hữu ích với người chưa có tài khoản ngân hàng hoặc trong các tình huống đặc thù.",
+      "pros": [
+        "Hơn 200 quốc gia",
+        "Nhận tiền mặt (không cần tài khoản ngân hàng)",
+        "Giao dịch trực tiếp tại quầy"
+      ],
+      "cons": [
+        "Phí thay đổi thất thường (thường cao)",
+        "Phải đi lại, bất tiện"
+      ]
+    }
+  },
+  "offerNotes": {
+    "wise-transfer": "Đăng ký tại wise.com. Mở tài khoản miễn phí; phí tính theo từng lần chuyển.",
+    "revolut": "Đăng ký tại revolut.com. Gói Standard miễn phí; gói Premium (9 USD/tháng) và Metal (17 USD/tháng) có thêm quyền lợi.",
+    "paypal-international": "Đăng ký tại paypal.com. Tài khoản miễn phí; phí tính trên giao dịch.",
+    "venmo": "Đăng ký qua ứng dụng Venmo trên điện thoại. Chỉ dùng được ở Mỹ.",
+    "western-union": "Đăng ký tại westernunion.com hoặc ra quầy giao dịch."
+  },
+  "pinDescription": "Gửi tiền ra nước ngoài đừng để mất oan tiền triệu vì tỷ giá. Wise, Revolut, PayPal, Venmo hay Western Union — so sánh phí thật, chọn đúng app 2026.",
+  "recommendedFor": [
+    {
+      "label": "Người Việt ở nước ngoài và dân làm remote thường xuyên gửi tiền quốc tế",
+      "offerId": "wise-transfer",
+      "reason": "Tỷ giá liên ngân hàng và mức phí minh bạch 0,4-1% của Wise giúp tiết kiệm đáng kể cho những lần chuyển tiền định kỳ, so với tỷ giá của ngân hàng hay PayPal."
+    },
+    {
+      "label": "Dân du mục số giữ và chi tiêu bằng nhiều loại tiền tệ",
+      "offerId": "revolut",
+      "reason": "Tài khoản đa tiền tệ của Revolut giữ được hơn 25 loại tiền, lại tích hợp sẵn tiền mã hóa và cổ phiếu, đủ để làm trung tâm tài chính di động."
+    },
+    {
+      "label": "Sinh viên ở Mỹ chia tiền thuê nhà và tiền ăn uống",
+      "offerId": "venmo",
+      "reason": "Venmo là chuẩn mực mặc định cho thanh toán cá nhân trong nước Mỹ — chuyển tức thì về thẻ ghi nợ và bảng tin xã hội khiến việc chia tiền rất nhẹ nhàng."
+    },
+    {
+      "label": "Người bán hàng online nhận thanh toán từ khách quốc tế",
+      "offerId": "paypal-international",
+      "reason": "PayPal được rất nhiều đơn vị bán hàng tích hợp và có chính sách bảo vệ người mua/người bán, nên khách thương mại điện tử khắp nơi đều mặc định trông đợi phương thức này."
+    },
+    {
+      "label": "Người gửi tiền về cho gia đình chưa có tài khoản ngân hàng ở các nước đang phát triển",
+      "offerId": "western-union",
+      "reason": "Western Union cho phép người nhận ra quầy lấy tiền mặt tại hơn 200 quốc gia mà không cần tài khoản ngân hàng."
+    }
+  ]
 }

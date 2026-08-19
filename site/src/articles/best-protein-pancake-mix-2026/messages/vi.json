@@ -177,5 +177,32 @@
       "grade": "B+"
     }
   ],
-  "methodology": "Chúng tôi đánh giá từng sản phẩm dựa trên hương vị, mức độ minh bạch về nguồn gốc, giá trị trên mỗi khẩu phần, độ chắc chắn của bao bì và khả năng đáp ứng trong các tình huống sử dụng phổ biến. Các chứng nhận có tài liệu chứng minh và những đánh giá đã được xác minh của người dùng được đối chiếu với những tuyên bố quảng cáo."
+  "methodology": "Chúng tôi đánh giá từng sản phẩm dựa trên hương vị, mức độ minh bạch về nguồn gốc, giá trị trên mỗi khẩu phần, độ chắc chắn của bao bì và khả năng đáp ứng trong các tình huống sử dụng phổ biến. Các chứng nhận có tài liệu chứng minh và những đánh giá đã được xác minh của người dùng được đối chiếu với những tuyên bố quảng cáo.",
+  "recommendedFor": [
+    {
+      "label": "Người bận rộn tập gym cần bữa sáng nhanh ngày thường",
+      "offerId": "kodiak-cakes-power-cakes",
+      "reason": "Chỉ cần thêm nước và có 14g protein, bạn có ngay bữa ăn hoàn chỉnh sau tập trong chưa đầy 5 phút, khỏi phải đong trứng hay sữa."
+    },
+    {
+      "label": "Vận động viên thi đấu muốn tối đa lượng protein mỗi ngày",
+      "offerId": "birch-benders-protein-pancake",
+      "reason": "Với 18g protein từ loại bột chỉ cần pha nước, đây là mức protein cao nhất trong nhóm pha nước mà không bị vị bột khô nghẹn khiến nhiều loại giàu protein khác khó ăn hằng ngày."
+    },
+    {
+      "label": "Người ăn thuần chay, không dùng sữa và theo dõi macro",
+      "offerId": "bob-red-mill-protein-pancake",
+      "reason": "Nền protein đậu Hà Lan, chứng nhận không gluten và thuần chay hoàn toàn khiến đây là lựa chọn duy nhất hợp với chế độ ăn thực vật và người kiêng dị nguyên."
+    },
+    {
+      "label": "Người tập thể hình và thi đấu physique đang siết cân",
+      "offerId": "carbon-fire-protein-pancake",
+      "reason": "25g protein và chỉ 5g carb mỗi khẩu phần được thiết kế riêng cho người bám sát chỉ tiêu macro hằng ngày, nơi việc cắt giảm carb là bắt buộc."
+    },
+    {
+      "label": "Người tập luyện tại Nhật muốn tránh giá hàng nhập khẩu",
+      "offerId": "nisshin-protein-hotcake-mix",
+      "reason": "30g protein mỗi khẩu phần với giá siêu thị nội địa, không phí nhập khẩu hay chờ vận chuyển, mà lượng protein vẫn ngang hoặc hơn các thương hiệu Mỹ."
+    }
+  ]
 }

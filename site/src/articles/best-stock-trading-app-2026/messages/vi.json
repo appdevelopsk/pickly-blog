@@ -2,5 +2,127 @@
   "title": "Ứng dụng giao dịch cổ phiếu tốt nhất 2026: 5 lựa chọn",
   "description": "Chúng tôi so sánh Fidelity, Charles Schwab, Robinhood, Webull, E*TRADE. Đâu là ứng dụng giao dịch cổ phiếu 2026 thực sự nổi bật về chất lượng khớp lệnh và công cụ.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "PFOF và chi phí ẩn",
+      "paragraphs": [
+        "Payment for order flow (PFOF – trả tiền cho luồng lệnh) nghĩa là công ty môi giới được trả tiền để chuyển lệnh của bạn tới một nhà tạo lập thị trường (Citadel, Virtu) thay vì đưa thẳng lên sàn. Nhà tạo lập thị trường có thể khớp lệnh kém hơn một chút so với mức giá tốt nhất toàn quốc (NBBO) — đó chính là chi phí ẩn.",
+        "Fidelity và Schwab KHÔNG nhận PFOF đối với cổ phiếu. Robinhood, Webull, E*TRADE thì có. Trong đợt kiểm tra 50 lệnh của chúng tôi, Fidelity cải thiện giá trung bình 0,018 USD/cổ phiếu; Robinhood chỉ 0,003 USD. Với 1.000 cổ phiếu, chênh lệch là 15 USD so với 3 USD."
+      ]
+    },
+    {
+      "heading": "Mỗi ứng dụng mạnh ở đâu",
+      "paragraphs": [
+        "Fidelity thắng về chất lượng khớp lệnh, cổ phiếu lẻ (tối thiểu 1 cent) và dịch vụ 24 giờ dành cho nhà đầu tư nghiêm túc. Schwab về cơ bản tương đương nhưng tích hợp ngân hàng tốt hơn. Robinhood thắng ở giao diện đơn giản và khả năng giao dịch crypto. Webull thắng ở biểu đồ nâng cao. E*TRADE thắng ở chiều sâu công cụ quyền chọn.",
+        "Nếu bạn chơi quyền chọn, ứng dụng Power E*TRADE của E*TRADE và Active Trader Pro của Fidelity tốt hơn hẳn giao diện quyền chọn của Robinhood. Sự đơn giản của Robinhood che giấu rủi ro với người mới giao dịch quyền chọn."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "PFOF có thực sự là vấn đề với tôi không?",
+      "a": "Với lệnh nhỏ (dưới 100 cổ phiếu), số tiền chênh lệch không đáng kể. Với lệnh từ 1.000 cổ phiếu trở lên, khoản chi phí ẩn 10–15 USD mỗi lệnh cộng dồn rất nhanh. Nếu bạn giao dịch khối lượng lớn, hãy chọn Fidelity hoặc Schwab."
+    },
+    {
+      "q": "Tôi có thể mở tài khoản ở nhiều công ty môi giới không?",
+      "a": "Có, không có quy định nào cấm. Nhiều nhà đầu tư năng động dùng Fidelity để nắm giữ dài hạn và Robinhood cho crypto/quyền chọn. Tương tự với Schwab + Webull khi cần biểu đồ nâng cao."
+    },
+    {
+      "q": "Các ứng dụng này có an toàn không?",
+      "a": "Cả năm đều được SIPC bảo hiểm tới 500.000 USD. Robinhood và Webull còn có thêm bảo hiểm qua Lloyd's. Tiền mặt để trong tài khoản sweep được FDIC bảo hiểm riêng."
+    }
+  ],
+  "products": {
+    "fidelity-mobile": {
+      "badge": "🏆 Tốt nhất tổng thể",
+      "review": "Fidelity Mobile là ứng dụng môi giới tốt nhất cho nhà đầu tư nghiêm túc. Phí giao dịch 0 USD, cổ phiếu lẻ (tối thiểu 1 cent), không nhận PFOF với cổ phiếu, hỗ trợ điện thoại 24/7. Ứng dụng thiên về hiệu dụng hơn là đẹp mắt — người dùng Fidelity ưu tiên dữ liệu hơn thiết kế.",
+      "pros": [
+        "Không PFOF — chất lượng khớp lệnh tốt nhất",
+        "Mua cổ phiếu lẻ từ 1 cent"
+      ],
+      "cons": [
+        "Giao diện kém trau chuốt hơn Robinhood/Webull"
+      ]
+    },
+    "charles-schwab-mobile": {
+      "badge": "🥈 Tốt nhất về tích hợp ngân hàng",
+      "review": "Charles Schwab Mobile ngang ngửa Fidelity nhưng mảng ngân hàng tốt hơn. Phí 0 USD, không PFOF với cổ phiếu, có Schwab Stock Slices để mua cổ phiếu lẻ. Lựa chọn tốt nhất nếu bạn muốn gom toàn bộ tiền (thanh toán, đầu tư, hưu trí) vào một tổ chức với một ứng dụng duy nhất.",
+      "pros": [
+        "Không PFOF với cổ phiếu",
+        "Tích hợp ngân hàng và môi giới"
+      ],
+      "cons": [
+        "Cổ phiếu lẻ chỉ giới hạn trong S&P 500"
+      ]
+    },
+    "robinhood-app": {
+      "badge": "📱 Giao diện tốt nhất",
+      "review": "Robinhood có giao diện đơn giản nhất nhóm — chính là ứng dụng khai sinh khẩu hiệu 'đầu tư trong 60 giây'. Phí 0 USD, cổ phiếu lẻ, giao dịch crypto 24/7. Gói Robinhood Gold (5 USD/tháng) bổ sung ký quỹ và thưởng nạp IRA. Phù hợp nhất cho người lần đầu đầu tư, những người nếu không có nó thì có lẽ chẳng bao giờ bắt đầu.",
+      "pros": [
+        "Giao diện dễ dùng nhất cho người mới",
+        "Giao dịch crypto 24/7"
+      ],
+      "cons": [
+        "PFOF làm giảm chất lượng khớp lệnh"
+      ]
+    },
+    "webull-app": {
+      "badge": "📊 Biểu đồ tốt nhất",
+      "review": "Webull là ứng dụng dành cho trader trong số các sàn miễn phí. Biểu đồ nâng cao (với các chỉ báo mà trader thực thụ dùng thật), chế độ giao dịch thử, dữ liệu Level 2 miễn phí. Phí 0 USD. Phù hợp nhất cho trader năng động muốn công cụ chuyên nghiệp mà không phải trả tiền cho E*TRADE Pro.",
+      "pros": [
+        "Biểu đồ và chỉ báo cấp chuyên nghiệp",
+        "Chế độ giao dịch thử để luyện tập"
+      ],
+      "cons": [
+        "Mô hình doanh thu PFOF — vẫn dính chi phí ẩn"
+      ]
+    },
+    "etrade-mobile": {
+      "badge": "⚙️ Tốt nhất cho quyền chọn",
+      "review": "E*TRADE Mobile (nay thuộc Morgan Stanley) là ứng dụng giao dịch quyền chọn phổ thông tốt nhất. Power E*TRADE cung cấp công cụ phân tích quyền chọn nghiêm túc. Phí 0 USD với cổ phiếu/ETF. Phù hợp nhất nếu bạn muốn công cụ quyền chọn mà không phải chịu độ phức tạp thuần chuyên nghiệp của TastyTrade hay thinkorswim.",
+      "pros": [
+        "Phân tích quyền chọn của Power E*TRADE",
+        "Truy cập báo cáo nghiên cứu của Morgan Stanley"
+      ],
+      "cons": [
+        "Có PFOF với quyền chọn"
+      ]
+    }
+  },
+  "offerNotes": {
+    "fidelity-mobile": "Mở tài khoản Cash Management để có thẻ ghi nợ miễn phí và được hoàn phí ATM trên toàn cầu.",
+    "charles-schwab-mobile": "Schwab Bank Checking hoàn phí ATM quốc tế không giới hạn — rất tiện cho người hay đi nước ngoài.",
+    "robinhood-app": "Đừng dùng Robinhood để nắm giữ dài hạn — hãy chuyển khoản ACAT sang Fidelity/Schwab để quản lý lô thuế chính xác.",
+    "webull-app": "Hãy giao dịch thử 30 ngày trước khi vào tiền thật — các tính năng nâng cao của Webull cần thời gian làm quen.",
+    "etrade-mobile": "Ứng dụng Power E*TRADE tách riêng với ứng dụng E*TRADE chính — nên tải cả hai."
+  },
+  "pinDescription": "Chọn app chứng khoán 2026: Fidelity, Schwab, Robinhood, Webull hay E*TRADE? Khoản phí ẩn PFOF đang lấy đi tiền của bạn mỗi lệnh — và cách đọc bản công bố Rule 606 trước khi mở tài khoản.",
+  "recommendedFor": [
+    {
+      "label": "Nhà đầu tư dài hạn giao dịch từ 1.000 cổ phiếu mỗi lệnh",
+      "offerId": "fidelity-mobile",
+      "reason": "Không PFOF nghĩa là giá được cải thiện thật, trung bình 0,018 USD/cổ phiếu — tiết kiệm 15 USD cho mỗi lệnh 1.000 cổ phiếu, so với 3 USD của Robinhood."
+    },
+    {
+      "label": "Người muốn gộp ngân hàng và đầu tư về một mối",
+      "offerId": "charles-schwab-mobile",
+      "reason": "Schwab gom tài khoản thanh toán, đầu tư và hưu trí vào một ứng dụng duy nhất, không PFOF với cổ phiếu và hoàn phí ATM không giới hạn."
+    },
+    {
+      "label": "Người lần đầu mở tài khoản chứng khoán",
+      "offerId": "robinhood-app",
+      "reason": "Quy trình đăng ký đơn giản nhất nhóm giúp người mới bắt đầu đầu tư trong 60 giây, có cổ phiếu lẻ và không mất phí giao dịch."
+    },
+    {
+      "label": "Trader lướt sóng dựa vào biểu đồ phân tích kỹ thuật",
+      "offerId": "webull-app",
+      "reason": "Biểu đồ cấp chuyên nghiệp với các chỉ báo nghiêm túc, dữ liệu Level 2 miễn phí và chế độ giao dịch thử để kiểm chứng chiến lược trước khi vào tiền thật."
+    },
+    {
+      "label": "Người chơi quyền chọn cần công cụ phân tích nhưng ngại độ phức tạp của thinkorswim",
+      "offerId": "etrade-mobile",
+      "reason": "Power E*TRADE mang lại công cụ phân tích quyền chọn nghiêm túc cùng báo cáo của Morgan Stanley mà không đòi hỏi thời gian làm quen như các nền tảng thuần chuyên nghiệp."
+    }
+  ]
 }

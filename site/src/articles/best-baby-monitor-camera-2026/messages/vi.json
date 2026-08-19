@@ -114,5 +114,32 @@
     "vtech-vm5263": "Có bán tại vtech.com, Target, Walmart, Amazon. Có nhiều biến thể kích thước màn hình — VM5263 là bản 5 inch.",
     "miku-pro": "Có bán tại mikucare.com. Không cần đăng ký cho các tính năng cơ bản."
   },
-  "pinDescription": "Máy quay theo dõi bé tốt nhất 2026: Owlet Cam 2 vs Nanit Pro vs Infant Optics DXR-8 vs VTech VM5263 vs Miku Pro — so sánh chi tiết."
+  "pinDescription": "Máy quay theo dõi bé tốt nhất 2026: Owlet Cam 2 vs Nanit Pro vs Infant Optics DXR-8 vs VTech VM5263 vs Miku Pro — so sánh chi tiết.",
+  "recommendedFor": [
+    {
+      "label": "Bố mẹ lần đầu hay lo lắng, muốn theo dõi chỉ số của trẻ sơ sinh",
+      "offerId": "owlet-cam-2",
+      "reason": "Kết hợp với Owlet Sock để cảnh báo nhịp thở và nhịp tim theo thời gian thực, giúp bố mẹ hay lo yên tâm nhờ dữ liệu cụ thể."
+    },
+    {
+      "label": "Bố mẹ thích số liệu, muốn theo dõi mọi chỉ số giấc ngủ",
+      "offerId": "nanit-pro-camera",
+      "reason": "Camera gắn trần dùng AI phân tích giấc ngủ, cho báo cáo hằng đêm về nhịp ngủ và tổng thời gian ngủ mà không cần thiết bị đeo."
+    },
+    {
+      "label": "Bố mẹ coi trọng quyền riêng tư, ngại thiết bị kết nối internet",
+      "offerId": "infant-optics-dxr-8",
+      "reason": "Hoạt động hoàn toàn độc lập, không Wi-Fi và không đưa dữ liệu lên đám mây; màn hình rời 5 inch chạy ổn định mà chẳng cần điện thoại hay router."
+    },
+    {
+      "label": "Gia đình cần tiết kiệm khi lắp thêm cho phòng thứ hai",
+      "offerId": "vtech-vm5263",
+      "reason": "Giá khoảng 3,4-4,4 triệu đồng mà có xoay/nghiêng/zoom và nhìn đêm, đủ dùng cho phòng em bé thứ hai hay nhà ông bà mà không quá tốn kém."
+    },
+    {
+      "label": "Bố mẹ mê công nghệ, muốn đo nhịp thở mà không cần thiết bị đeo",
+      "offerId": "miku-pro",
+      "reason": "Dùng radar đo nhịp thở không tiếp xúc, theo dõi hơi thở của bé mà không cần tất hay cảm biến chạm vào người."
+    }
+  ]
 }

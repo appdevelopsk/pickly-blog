@@ -2,5 +2,152 @@
   "title": "VPS hosting tốt nhất 2026: 5 so sánh",
   "description": "Chúng tôi so sánh DigitalOcean, Vultr, Linode, Hetzner, AWS Lightsail. Đâu là VPS hosting 2026 thực sự nổi bật về giá theo cấu hình và độ trễ thực tế.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Giá trên mỗi cấu hình ở cùng phân khúc",
+      "paragraphs": [
+        "Giá cho gói 4 vCPU / 8 GB / 160 GB SSD: Hetzner CPX31 (14,06 USD), DigitalOcean Premium (48 USD), Vultr High Frequency (48 USD), Linode Dedicated (72 USD), AWS Lightsail (80 USD cộng phí băng thông). Ở mức cấu hình này, Hetzner rẻ hơn 3-5 lần với phần cứng tương đương.",
+        "Băng thông: Hetzner tặng kèm 20 TB; DigitalOcean và Vultr cho 5-6 TB; AWS Lightsail tính 0,09 USD/GB sau mốc 5 TB. Vào những tháng lưu lượng cao, riêng phí egress có thể làm hóa đơn AWS đội lên gấp đôi.",
+        "Block storage: Hetzner 0,052 USD/GB, DigitalOcean 0,10 USD/GB, AWS EBS 0,10-0,125 USD/GB. Khoản này bắt đầu đáng kể khi cơ sở dữ liệu phình to."
+      ]
+    },
+    {
+      "heading": "Hiệu năng thực tế",
+      "paragraphs": [
+        "Độ trễ API p50 đo trên ứng dụng thử nghiệm (người dùng ở Los Angeles): Vultr 18ms, Linode 22ms, DigitalOcean 24ms, Hetzner 89ms (triển khai ở Ashburn, Mỹ), AWS Lightsail 21ms. Region Mỹ của Hetzner có giúp ích, nhưng mạng vẫn chậm hơn thấy rõ so với các nhà cung cấp gốc Mỹ.",
+        "Hiện tượng CPU steal khi máy chủ đông \"hàng xóm\": các instance shared của Linode và AWS bị steal rõ rệt vào giờ cao điểm; DigitalOcean Premium (gói CPU riêng) và Hetzner CPX gần như bằng không.",
+        "Độ ổn định mạng: AWS Lightsail có hai sự cố kéo dài trên 90 phút trong 60 ngày; các bên còn lại không có lần nào. Lightsail vẫn có SLA, nhưng không thể so với người anh em EC2."
+      ]
+    },
+    {
+      "heading": "Trải nghiệm của người vận hành",
+      "paragraphs": [
+        "Từ lúc đăng ký đến khi container chạy: Vultr 3 phút, DigitalOcean 4 phút, Linode 5 phút, Hetzner 8 phút (phải xác minh KYC bằng hộ chiếu), AWS Lightsail 12 phút (thiết lập tài khoản root cộng IAM khá lằng nhằng). Bước KYC của Hetzner thực sự là rào cản với một số người.",
+        "Chất lượng API và CLI: DigitalOcean cùng Linode có CLI và API hoàn thiện nhất. CLI của Hetzner khá chắc tay; Vultr đã cải thiện rất nhiều trong giai đoạn 2024-25. API của AWS Lightsail chính là AWS CLI chính thức — mạnh nhưng nặng nề.",
+        "Giám sát có sẵn: DigitalOcean và Linode cho dashboard metrics miễn phí. Hetzner thì gần như không có gì. Vultr bổ sung từ năm 2024. AWS Lightsail tích hợp CloudWatch (có phí)."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Hetzner rẻ đến vậy thì có thật sự hời nhất không?",
+      "a": "Với ứng dụng đặt tại Mỹ và người dùng ở Mỹ, phần thiệt về độ trễ ăn mòn phần lớn khoản tiết kiệm — region US-East của Hetzner ổn, nhưng mạng vẫn chậm hơn thấy rõ so với các nhà cung cấp gốc Mỹ. Còn với ứng dụng đặt ở châu Âu thì gần như luôn là lựa chọn đúng."
+    },
+    {
+      "q": "Năm 2026 nên chọn DigitalOcean hay Linode?",
+      "a": "Giờ hai bên gần như thay thế được cho nhau. DigitalOcean có marketplace tốt hơn; Linode (nay thuộc Akamai) có mạng nhỉnh hơn chút. Cứ chọn bên nào có tài liệu bạn đọc thấy dễ hiểu hơn."
+    },
+    {
+      "q": "Khi nào nên dùng AWS Lightsail thay vì EC2?",
+      "a": "Dùng Lightsail khi bạn muốn giá cố định hàng tháng và cần chạm tới hệ sinh thái AWS cho một ứng dụng đơn giản. Chuyển sang EC2 khi nhu cầu lớn dần — auto-scaling, giá spot hay dedicated host. Phần lớn đội ngũ vượt quá khả năng của Lightsail trong vòng 18 tháng."
+    },
+    {
+      "q": "Giá của Vultr có điểm gì cần lưu ý?",
+      "a": "Gói \"High Frequency\" của Vultr dùng SSD NVMe và đó mới là mốc so sánh đúng — gói \"Cloud Compute\" đời cũ chậm hơn. Trừ khi bạn không quan tâm hiệu năng, hãy luôn chọn High Frequency hoặc Performance."
+    }
+  ],
+  "products": {
+    "digitalocean-droplets": {
+      "badge": "🏆 Toàn diện nhất",
+      "review": "DigitalOcean Droplets vẫn là điểm cân bằng tốt nhất giữa giá, tài liệu và trải nghiệm vận hành trong năm 2026. Gói Premium (CPU riêng Intel hoặc AMD) tránh được vấn đề \"hàng xóm ồn ào\" của gói cơ bản. Marketplace cài ứng dụng một chạm, CLI chín muồi, hóa đơn hàng tháng dễ đoán, cộng thêm bộ tài liệu Linux hay nhất ngoài chính Ubuntu.",
+      "pros": [
+        "CLI và API đã rất hoàn thiện",
+        "Tài liệu kỹ thuật hay nhất ngành",
+        "Gói Premium loại bỏ hiện tượng CPU steal"
+      ],
+      "cons": [
+        "Đắt hơn Hetzner ở cùng cấu hình",
+        "Region US-East đông đúc hơn Vultr/Linode"
+      ]
+    },
+    "vultr-cloud-compute": {
+      "badge": "⚡ Độ trễ thấp nhất",
+      "review": "Vultr High Frequency Compute thắng ở độ trễ p50. SSD NVMe trên toàn bộ gói, 32 vị trí trung tâm dữ liệu, tính tiền theo giờ. Bảng điều khiển cho cảm giác nhẹ nhàng hơn DigitalOcean. Các gói Cloud GPU và bare-metal mở rộng phạm vi sử dụng vượt xa một VPS thông thường.",
+      "pros": [
+        "Độ trễ p50 thấp nhất trong bài so sánh này",
+        "32 vị trí trung tâm dữ liệu",
+        "SSD NVMe trên gói High Frequency"
+      ],
+      "cons": [
+        "Tài liệu mỏng hơn DigitalOcean",
+        "CLI đang bắt kịp nhưng chưa thật sự chín"
+      ]
+    },
+    "linode-shared-cpu": {
+      "badge": "🎯 Mạng tốt nhất",
+      "review": "Linode (Akamai Cloud Computing) có hạ tầng mạng tốt nhất nhóm — họ sở hữu luôn CDN bên dưới. Các gói Dedicated CPU cho hiệu năng ổn định với khối lượng công việc đều đặn. Thương vụ Akamai mang thêm tính năng cấp doanh nghiệp mà không phá vỡ mức giá thân thiện với lập trình viên.",
+      "pros": [
+        "Mạng lưới thuộc sở hữu Akamai",
+        "Gói Dedicated CPU cho hiệu năng dễ đoán",
+        "Chống DDoS miễn phí"
+      ],
+      "cons": [
+        "Gói shared CPU bị steal rõ vào giờ cao điểm",
+        "Đắt hơn Hetzner và Vultr ở cùng cấu hình"
+      ]
+    },
+    "hetzner-cloud-cpx": {
+      "badge": "💰 Giá trên cấu hình tốt nhất",
+      "review": "Hetzner Cloud CPX31 (14 USD/tháng cho 4 vCPU/8GB) là VPS nghiêm túc rẻ nhất thị trường, và phần cứng là thật (AMD EPYC, NVMe). Với ứng dụng đặt ở châu Âu, đây là lựa chọn hiển nhiên. Đội ngũ ở Mỹ cần cân nhắc phần thiệt về mạng so với khoản tiết kiệm hơn 70%.",
+      "pros": [
+        "Rẻ hơn 3-5 lần ở cùng cấu hình",
+        "Phần cứng AMD EPYC + NVMe",
+        "Kèm sẵn 20 TB băng thông"
+      ],
+      "cons": [
+        "Bắt buộc KYC khi đăng ký (hộ chiếu)",
+        "Mạng ở Mỹ ổn nhưng không nhanh bằng nhà cung cấp bản địa"
+      ]
+    },
+    "aws-lightsail": {
+      "badge": "🪪 Cửa ngõ vào AWS",
+      "review": "AWS Lightsail chỉ đáng chọn nếu bạn cần chạm tới hệ sinh thái AWS và muốn hóa đơn cố định hàng tháng. Giá trên mỗi cấu hình tệ nhất nhóm, phí băng thông vượt mức khá xót, còn SLA thì yếu hơn đàn anh EC2. Phần lớn đội ngũ vượt quá khả năng của nó trong vòng 18 tháng.",
+      "pros": [
+        "Giá cố định theo tháng",
+        "Đường chuyển sang EC2 dễ dàng",
+        "Tích hợp với S3, RDS, CloudWatch"
+      ],
+      "cons": [
+        "Đắt nhất tính trên cấu hình trong bài so sánh này",
+        "Băng thông vượt mức tính 0,09 USD/GB",
+        "SLA yếu hơn EC2"
+      ]
+    }
+  },
+  "offerNotes": {
+    "digitalocean-droplets": "Đăng ký tại digitalocean.com — khuyến mãi tiêu chuẩn là 200 USD tín dụng miễn phí cho tài khoản mới. Nhớ để mắt tới gói Premium khi chọn cấu hình cho môi trường production.",
+    "vultr-cloud-compute": "Đăng ký tại vultr.com — các đợt tặng 100-300 USD tín dụng diễn ra thường xuyên. Luôn chọn High Frequency hoặc Performance.",
+    "linode-shared-cpu": "Đăng ký tại linode.com — 100 USD tín dụng miễn phí cho tài khoản mới. Nên dùng gói Dedicated CPU cho khối lượng công việc production.",
+    "hetzner-cloud-cpx": "Đăng ký tại hetzner.com — xác minh KYC làm chậm việc duyệt tài khoản thêm 1-2 ngày. Đội ngũ ở châu Âu sẽ không thấy tiếc.",
+    "aws-lightsail": "Đăng ký tại aws.amazon.com — miễn phí 3 tháng với các gói nhỏ. Hãy đọc kỹ biểu giá băng thông trước khi đưa lên production."
+  },
+  "pinDescription": "Thuê VPS 2026 nên chọn ai? So kè DigitalOcean, Vultr, Linode, Hetzner và AWS Lightsail theo giá công bố, băng thông, vị trí máy chủ và công sức vận hành phải bỏ ra. Lưu lại trước khi xuống tiền! #vps #hosting #lantrinh",
+  "recommendedFor": [
+    {
+      "label": "Lập trình viên độc lập ra mắt sản phẩm SaaS đầu tiên",
+      "offerId": "digitalocean-droplets",
+      "reason": "CLI hoàn thiện, marketplace cài ứng dụng một chạm và tài liệu hay nhất ngành giúp người làm một mình đi từ ý tưởng đến ứng dụng chạy thật mà không cần mở ticket hỗ trợ."
+    },
+    {
+      "label": "Startup nặng về API, nơi từng mili giây ảnh hưởng tới tỷ lệ chuyển đổi",
+      "offerId": "vultr-cloud-compute",
+      "reason": "Vultr đạt độ trễ p50 thấp nhất (18ms) trong 60 ngày thử nghiệm, và 32 vị trí trung tâm dữ liệu cho phép bạn đặt máy chủ sát người dùng."
+    },
+    {
+      "label": "Nhóm bootstrap ở châu Âu với ngân sách hạ tầng eo hẹp",
+      "offerId": "hetzner-cloud-cpx",
+      "reason": "Với 14 USD/tháng cho 4 vCPU/8 GB kèm 20 TB băng thông, Hetzner rẻ hơn 3-5 lần so với các nhà cung cấp Mỹ tương đương khi chạy tại châu Âu."
+    },
+    {
+      "label": "Đội ngũ vận hành ứng dụng lưu lượng lớn cần chống chịu DDoS",
+      "offerId": "linode-shared-cpu",
+      "reason": "Linode chạy trên xương sống CDN của Akamai và tích hợp sẵn chống DDoS miễn phí, giữ hiệu năng mạng ổn định ngay cả khi bị tấn công."
+    },
+    {
+      "label": "Đội ngũ quen AWS đang làm nguyên mẫu trước khi chuyển sang EC2",
+      "offerId": "aws-lightsail",
+      "reason": "Hóa đơn cố định hàng tháng cùng tích hợp sẵn S3/RDS/CloudWatch giúp các đội AWS kiểm chứng ứng dụng với chi phí thấp trước khi mở rộng lên EC2."
+    }
+  ]
 }

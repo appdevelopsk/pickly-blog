@@ -2,5 +2,154 @@
   "title": "Nền tảng thương mại điện tử tốt nhất 2026: 5 lựa chọn",
   "description": "Chúng tôi so sánh Shopify, BigCommerce, WooCommerce, Wix, Squarespace. Đâu là nền tảng thương mại điện tử 2026 thực sự nổi bật về tỉ lệ chuyển đổi và tổng chi phí.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Tỷ lệ chuyển đổi",
+      "paragraphs": [
+        "Tỷ lệ chuyển đổi theo nền tảng (thử nghiệm 60 ngày, cùng sản phẩm, cùng mức giá): Shopify 2,8%, BigCommerce 2,6%, WooCommerce 2,4% (phụ thuộc rất nhiều vào theme và hosting), Wix eCommerce 2,1%, Squarespace Commerce 2,3%.",
+        "Shopify dẫn đầu về chuyển đổi một phần nhờ Shop Pay (thanh toán một chạm), một phần nhờ tối ưu trải nghiệm trên di động, và một phần nhờ hệ sinh thái ứng dụng (đánh giá, upsell, thu hồi giỏ hàng bỏ quên).",
+        "Độ chênh lệch của WooCommerce là rất đáng kể — một website WooCommerce dựng tốt (theme gọn nhẹ, hosting nhanh như Cloudways hay Kinsta) có thể ngang ngửa Shopify. Ngược lại, cấu hình cẩu thả thì kết quả kém hẳn."
+      ]
+    },
+    {
+      "heading": "Tổng chi phí ở mức doanh thu 1,2 triệu USD",
+      "paragraphs": [
+        "Chi phí nền tảng + thanh toán + ứng dụng mỗi năm với GMV 1,2 triệu USD: Shopify Advanced 4.800 USD + Shop Payments 1,85% × 1,2 triệu ≈ 27.000 USD + ứng dụng 2.400 USD ≈ 34.200 USD/năm. BigCommerce Pro 4.800 USD + cổng thanh toán 2,5% × 1,2 triệu ≈ 30.000 USD + ứng dụng 1.200 USD ≈ 36.000 USD/năm.",
+        "WooCommerce: 0 USD phí nền tảng + hosting 1.200 USD + cổng thanh toán 2,5–2,9% × 1,2 triệu ≈ 30.000–35.000 USD + plugin/bảo trì 3.000 USD ≈ 34.200–39.200 USD/năm.",
+        "Wix eCommerce: 432 USD + cổng thanh toán 2,9% × 1,2 triệu ≈ 34.800 USD + ứng dụng 600 USD ≈ 35.832 USD/năm. Squarespace Commerce: 588 USD + Squarespace Payments 2,9% × 1,2 triệu ≈ 34.800 USD + ứng dụng 300 USD ≈ 35.688 USD/năm.",
+        "Từ mốc doanh thu 1,2 triệu USD trở lên, Shopify rẻ nhất về tổng chi phí nhờ phí giao dịch thấp qua Shop Payments. Vượt mốc 5 triệu USD, khoảng cách này còn nới rộng thêm."
+      ]
+    },
+    {
+      "heading": "Mở rộng vượt mốc 5 triệu USD doanh thu",
+      "paragraphs": [
+        "Shopify Advanced → Shopify Plus (2.500–15.000 USD/tháng trở lên) mở rộng mượt mà lên tới hơn 100 triệu USD. Phần lớn thương hiệu DTC tại Mỹ có doanh thu trên 10 triệu USD đều dùng Shopify Plus.",
+        "BigCommerce Enterprise cũng đạt quy mô tương đương nhờ khả năng vận hành nhiều storefront. Rất mạnh khi làm song song B2B và DTC.",
+        "WooCommerce về mặt kỹ thuật vẫn mở rộng được, nhưng phải có đội DevOps riêng. Đến ngưỡng 5 triệu USD, các cửa hàng WooCommerce thường chuyển sang Shopify Plus.",
+        "Wix và Squarespace chững lại quanh mốc 5 triệu USD doanh thu. Vượt qua đó là đã quá tầm của hai nền tảng này."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Nên chọn Shopify hay BigCommerce?",
+      "a": "Shopify cho DTC và hầu hết nhu cầu — hệ sinh thái ứng dụng tốt nhất, trải nghiệm di động tốt nhất, phí giao dịch thấp nhất khi dùng Shop Payments. BigCommerce hợp với B2B (nhiều storefront, danh mục phức tạp), ai muốn miễn phí giao dịch, hoặc phát triển theo hướng API-first."
+    },
+    {
+      "q": "WooCommerce có thực sự miễn phí không?",
+      "a": "Plugin thì miễn phí. Tổng chi phí gồm: hosting (30–100 USD/tháng) + theme (60–200 USD trả một lần) + plugin trả phí (100–500 USD/năm). Khi quy mô lớn, mức này ngang Shopify; giá trị nằm ở sự linh hoạt và quyền sở hữu."
+    },
+    {
+      "q": "Wix hay Squarespace cho bán hàng online?",
+      "a": "Wix hợp với cửa hàng chú trọng thiết kế, dưới 100 SKU. Squarespace hợp nếu bạn đã dùng Squarespace để làm nội dung và bán hàng chỉ là chức năng phụ. Cả hai đều chững lại khi quy mô lớn."
+    },
+    {
+      "q": "Thương mại điện tử headless thì sao?",
+      "a": "Shopify Hydrogen, BigCommerce headless, Saleor — khả thi với đội có kỹ năng React/Next.js. Chi phí triển khai không nhỏ (từ 50.000 USD trở lên); chỉ nên tính đến headless khi doanh thu vượt 5 triệu USD và có lợi thế kỹ thuật rõ ràng."
+    }
+  ],
+  "products": {
+    "shopify-advanced": {
+      "badge": "🏆 Tốt nhất tổng thể",
+      "review": "Shopify Advanced là lựa chọn đúng cho phần lớn cửa hàng online. Hệ sinh thái ứng dụng tốt nhất (hơn 10.000 app), Shop Pay thanh toán một chạm giúp tăng chuyển đổi, phí giao dịch thấp nhất ở gói cao cấp. Mở rộng lên Shopify Plus mượt mà. Đây là lựa chọn mặc định cho DTC.",
+      "pros": [
+        "Hệ sinh thái ứng dụng tốt nhất",
+        "Shop Pay giúp tăng chuyển đổi",
+        "Mở rộng được lên Shopify Plus"
+      ],
+      "cons": [
+        "Gói Advanced 399 USD/tháng khá đắt",
+        "Bị ràng buộc vào hệ sinh thái Shopify"
+      ]
+    },
+    "bigcommerce-pro": {
+      "badge": "🏢 Tốt nhất cho B2B",
+      "review": "BigCommerce Pro là lựa chọn đúng khi vận hành song song B2B và DTC. Nhiều storefront, hỗ trợ danh mục phức tạp, không thu phí giao dịch. Kiến trúc API-first phù hợp phát triển headless. Với thuần DTC thì không bằng Shopify.",
+      "pros": [
+        "Hỗ trợ nhiều storefront",
+        "Không mất phí giao dịch",
+        "Kiến trúc API-first"
+      ],
+      "cons": [
+        "Hệ sinh thái ứng dụng nhỏ hơn Shopify",
+        "Trải nghiệm ít hướng đến DTC hơn"
+      ]
+    },
+    "woocommerce-wordpress": {
+      "badge": "🔧 Tốt nhất về linh hoạt",
+      "review": "WooCommerce là lựa chọn đúng cho đội muốn linh hoạt và tự sở hữu hệ thống. Mã nguồn mở, tích hợp với WordPress, không mất phí nền tảng. Khi quy mô lớn, tiền hosting + theme + plugin cộng lại cũng ngang Shopify. Phù hợp nhất khi bạn muốn tự làm chủ và tùy biến mọi thứ.",
+      "pros": [
+        "Nền tảng mã nguồn mở miễn phí",
+        "Linh hoạt tối đa",
+        "Tích hợp WordPress"
+      ],
+      "cons": [
+        "Cần biết kỹ thuật để thiết lập",
+        "Tốn công lo hosting và bảo trì",
+        "Hiệu năng thay đổi tùy cấu hình"
+      ]
+    },
+    "wix-ecommerce-business": {
+      "badge": "🎨 Tốt nhất cho cửa hàng thiên về thiết kế",
+      "review": "Wix eCommerce Business là lựa chọn đúng cho cửa hàng chú trọng thiết kế, dưới 100 SKU. Kéo thả trực quan, trình tạo website bằng AI, gói Business 36 USD/tháng. Chững lại quanh mốc doanh thu 1–2 triệu USD.",
+      "pros": [
+        "Kéo thả đơn giản",
+        "Trình tạo website bằng AI",
+        "Giá dễ chịu với cửa hàng nhỏ"
+      ],
+      "cons": [
+        "Chững lại khi quy mô lớn",
+        "Hệ sinh thái ứng dụng nhỏ"
+      ]
+    },
+    "squarespace-commerce-advanced": {
+      "badge": "💎 Tốt nhất cho nội dung + bán hàng",
+      "review": "Squarespace Commerce Advanced là lựa chọn đúng nếu bạn đã dùng Squarespace để làm nội dung và bán hàng chỉ là chức năng phụ. Thiết kế, nội dung và bán hàng gắn kết chặt chẽ. Hợp với website nội dung muốn thêm gian hàng, kém hợp nếu làm thuần thương mại điện tử.",
+      "pros": [
+        "Kết hợp tốt thiết kế + nội dung + bán hàng",
+        "Hệ sinh thái Squarespace",
+        "Thu hồi giỏ hàng bỏ quên, thẻ quà tặng"
+      ],
+      "cons": [
+        "Yếu hơn Shopify nếu làm thuần thương mại điện tử",
+        "Chững lại quanh mốc 1–2 triệu USD doanh thu"
+      ]
+    }
+  },
+  "offerNotes": {
+    "shopify-advanced": "Đăng ký tại shopify.com — dùng thử miễn phí 3 ngày, sau đó 1 USD/tháng trong 3 tháng.",
+    "bigcommerce-pro": "Đăng ký tại bigcommerce.com — dùng thử miễn phí 15 ngày.",
+    "woocommerce-wordpress": "Plugin miễn phí tại woocommerce.com — cần có hosting WordPress.",
+    "wix-ecommerce-business": "Đăng ký tại wix.com — gói Business từ 27 USD/tháng.",
+    "squarespace-commerce-advanced": "Đăng ký tại squarespace.com — dùng thử miễn phí 14 ngày."
+  },
+  "pinDescription": "Mở shop online 2026 nên chọn nền tảng nào? So sánh Shopify, BigCommerce, WooCommerce, Wix và Squarespace: phí giao dịch, tiền app và tổng chi phí thật sự phải trả. #banhangonline",
+  "recommendedFor": [
+    {
+      "label": "Chủ thương hiệu thời trang DTC vượt mốc 1 triệu USD doanh thu",
+      "offerId": "shopify-advanced",
+      "reason": "Thanh toán một chạm Shop Pay cùng hơn 10.000 ứng dụng mang lại tỷ lệ chuyển đổi cao nhất (2,8%) và phí giao dịch thấp nhất ở mức GMV từ 1,2 triệu USD."
+    },
+    {
+      "label": "Thương hiệu bán sỉ làm song song B2B và DTC",
+      "offerId": "bigcommerce-pro",
+      "reason": "Khả năng chạy nhiều storefront cùng lúc và không mất phí giao dịch giúp bên B2B quản lý danh mục phức tạp trên các gian hàng riêng biệt mà không phát sinh chi phí trên mỗi đơn."
+    },
+    {
+      "label": "Đội ngũ do lập trình viên dẫn dắt, cần toàn quyền với mã nguồn",
+      "offerId": "woocommerce-wordpress",
+      "reason": "Tích hợp WordPress mã nguồn mở nên không bị khóa vào nền tảng nào; bạn kiểm soát từng dòng code và tự chọn plugin mà không tốn phí nền tảng hằng tháng."
+    },
+    {
+      "label": "Người bán solo ra mắt sản phẩm đầu tiên với dưới 100 SKU",
+      "offerId": "wix-ecommerce-business",
+      "reason": "Trình tạo website bằng AI và trình sửa kéo thả giúp dựng xong cửa hàng đầu tiên trong vài giờ với 27 USD/tháng, không cần biết kỹ thuật."
+    },
+    {
+      "label": "Blogger và nhiếp ảnh gia muốn thêm một gian hàng nhỏ vào website",
+      "offerId": "squarespace-commerce-advanced",
+      "reason": "Squarespace gắn kết nội dung với bán hàng nên trang bài viết và cửa hàng dùng chung một hệ thống thiết kế, tránh cảnh chắp vá hai nền tảng rời rạc."
+    }
+  ]
 }

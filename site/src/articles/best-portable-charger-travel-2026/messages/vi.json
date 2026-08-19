@@ -116,5 +116,32 @@
     "anker-magnetic-magsafe-power-bank": "Có bán tại anker.com, Amazon. Dòng 'MagGo' hỗ trợ MagSafe — hãy xác nhận model tương thích MagSafe.",
     "iniu-portable-charger": "Có bán tại iniushop.com, Amazon. Ưu đãi Subscribe & Save thường là 10-15%."
   },
-  "pinDescription": "pin sạc dự phòng du lịch tốt nhất 2026: Anker 737 vs. Anker 313 vs. RAVPower PD Pioneer vs. Anker MagGo vs. INIU."
+  "pinDescription": "pin sạc dự phòng du lịch tốt nhất 2026: Anker 737 vs. Anker 313 vs. RAVPower PD Pioneer vs. Anker MagGo vs. INIU.",
+  "recommendedFor": [
+    {
+      "label": "Người đi công tác thường xuyên, lúc nào cũng mang laptop",
+      "offerId": "anker-power-bank-737",
+      "reason": "Công suất PD 140W đủ sạc MacBook Pro cùng lúc với điện thoại — một cục này thay hẳn cho củ sạc laptop."
+    },
+    {
+      "label": "Người đi chơi cuối tuần cần nguồn dự phòng gọn nhẹ",
+      "offerId": "anker-power-bank-313",
+      "reason": "Nhỏ gọn bỏ túi được, 10.000mAh cho 2-3 lần sạc đầy điện thoại, giá chỉ khoảng 800.000-1.300.000₫ nên lỡ mất cũng không quá tiếc."
+    },
+    {
+      "label": "Dân phượt dài ngày, đi liên tục nhiều hôm",
+      "offerId": "ravpower-pd-pioneer",
+      "reason": "26.800mAh là mức dung lượng tối đa còn được mang lên máy bay, cho hơn 7 lần sạc điện thoại trước khi cần tìm ổ cắm."
+    },
+    {
+      "label": "Người dùng iPhone ngại lằng nhằng dây sạc",
+      "offerId": "anker-magnetic-magsafe-power-bank",
+      "reason": "MagSafe hít nam châm vào mọi iPhone 12 trở lên, sạc không cần dây trong khi vẫn cầm máy hoặc bỏ túi bình thường."
+    },
+    {
+      "label": "Du học sinh eo hẹp ngân sách",
+      "offerId": "iniu-portable-charger",
+      "reason": "Chỉ khoảng 500.000-800.000₫, dáng mỏng và 10.000mAh, đủ sạc dặm mỗi ngày mà không nặng hành lý hay tốn kém."
+    }
+  ]
 }

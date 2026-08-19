@@ -2,5 +2,127 @@
   "title": "robo-advisor tốt nhất 2026: 5 so sánh",
   "description": "Chúng tôi so sánh Betterment, Wealthfront, Schwab, Fidelity Go, Vanguard Digital Advisor. Đâu là robo-advisor 2026 thực sự nổi bật về lợi nhuận ròng và chi phí ẩn.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Cấu trúc phí và chi phí thực tế",
+      "paragraphs": [
+        "Mức phí quản lý được quảng cáo (Betterment 0,25%, Wealthfront 0,25%, Schwab 0%, Fidelity Go 0% với tài khoản dưới 25.000 USD, Vanguard 0,20%) mới chỉ là một nửa câu chuyện. Phía trên đó còn cộng thêm tỷ lệ chi phí của các quỹ ETF: Vanguard rẻ nhất với mức pha trộn 0,04%, còn Schwab ở mức 0,16% để lộ phần chi phí ẩn.",
+        "Khoản 'miễn phí tư vấn' của Schwab bị triệt tiêu bởi quy định bắt buộc giữ 6-8% tiền mặt trong quỹ thị trường tiền tệ, chỉ sinh lời 4,4% (so với lợi suất kỳ vọng của danh mục khoảng 8%). Với 25.000 USD, phần tiền mặt nằm chết này ngốn khoảng 120 USD/năm — nhiều hơn cả phí tư vấn 0,25% của Betterment."
+      ]
+    },
+    {
+      "heading": "Lợi nhuận hai năm (đã trừ toàn bộ chi phí)",
+      "paragraphs": [
+        "Lợi nhuận ròng từ tháng 5/2024 đến tháng 5/2026 trên danh mục 25.000 USD theo tỷ lệ 80/20: Vanguard Digital Advisor (+22,4%), Fidelity Go (+22,1%), Betterment (+21,8%), Wealthfront (+21,4%), Schwab (+19,7%). Phần tiền mặt bắt buộc đã kéo Schwab xuống đáy bảng.",
+        "Giá trị thu hồi thuế từ lỗ (tax-loss harvesting) thực nhận: Wealthfront (380 USD lỗ được hiện thực hóa), Betterment (310 USD). Schwab, Fidelity và Vanguard không cung cấp tính năng này ở quy mô tài khoản như vậy. Với người khai thuế thu nhập cao ở khung liên bang 32%, đây là hơn 100 USD tiền thuế tiết kiệm được mỗi năm."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Robo-advisor có đáng tiền hơn tự đầu tư không?",
+      "a": "Đáng, nếu không có nó bạn sẽ ôm tiền mặt, quên tái cân bằng hoặc hoảng loạn bán tháo. Mức phí 0,20-0,25% chính là tiền mua kỷ luật hành vi. Không đáng, nếu bạn thực sự tự mua và nắm giữ VTI/BND được."
+    },
+    {
+      "q": "Tôi có thể chuyển danh mục robo sang công ty chứng khoán khác không?",
+      "a": "Được — hầu hết robo-advisor đều cho phép chuyển khoản qua ACATS sang công ty môi giới bên ngoài. Wealthfront và Betterment chuyển nguyên trạng tài sản; Schwab và Vanguard thiên về bán ra rồi chuyển tiền mặt."
+    },
+    {
+      "q": "Tax-loss harvesting thực sự đáng giá bao nhiêu?",
+      "a": "Ở mức thuế liên bang 32% cộng thuế bang 5%, mỗi 1 USD lỗ được thu hồi tương đương 0,37 USD tiền thuế tiết kiệm. Với mức trung bình 380 USD/năm của Wealthfront, con số đó là 141 USD lợi nhuận thực cộng thêm mỗi năm."
+    }
+  ],
+  "products": {
+    "betterment-robo": {
+      "badge": "🏆 Tốt nhất toàn diện",
+      "review": "Betterment là robo-advisor dễ giới thiệu nhất. Phí 0,25%, đầu tư theo mục tiêu (chia hũ riêng cho hưu trí, mua nhà...), tax-loss harvesting áp dụng cho mọi quy mô tài khoản. Không yêu cầu số dư tối thiểu. Nội dung hướng dẫn thuộc hàng tốt nhất trong nhóm. Lợi nhuận hai năm sau phí đạt 21,8%.",
+      "pros": [
+        "Tax-loss harvesting ngay từ 0 USD",
+        "Giao diện đầu tư theo mục tiêu"
+      ],
+      "cons": [
+        "Phí 0,25% cao hơn Vanguard"
+      ]
+    },
+    "wealthfront-robo": {
+      "badge": "📈 Tốt nhất từ 100.000 USD",
+      "review": "Wealthfront nhỉnh hơn Betterment nếu bạn có từ 100.000 USD. Direct Indexing (thay ETF bằng cổ phiếu riêng lẻ) mang lại thêm 0,2-0,4% lợi thế nhờ thu hồi thuế từ lỗ ở quy mô đó. Có kế hoạch tiết kiệm học phí 529, danh mục tùy chỉnh, số dư mở tối thiểu 500 USD. Rất hợp với người thu nhập cao.",
+      "pros": [
+        "Direct Indexing từ 100.000 USD",
+        "Kế hoạch 529 tiết kiệm học phí đại học"
+      ],
+      "cons": [
+        "Cần tối thiểu 500 USD để mở tài khoản"
+      ]
+    },
+    "schwab-intelligent-portfolios": {
+      "badge": "💸 Miễn phí tư vấn",
+      "review": "Schwab Intelligent Portfolios không thu phí tư vấn, nhưng khoản tiền mặt bắt buộc 6-8% nằm chết đã xóa sạch phần tiết kiệm đó. Rẻ nhất chỉ trên danh nghĩa. Tối thiểu 5.000 USD. Phù hợp nhất khi dùng như phần bổ sung trong hệ sinh thái Schwab, không nên chọn làm robo-advisor chính.",
+      "pros": [
+        "Không mất phí tư vấn",
+        "Miễn phí quyền lợi trong hệ sinh thái Schwab"
+      ],
+      "cons": [
+        "6-8% tiền mặt bắt buộc ngốn khoảng 120 USD/năm"
+      ]
+    },
+    "fidelity-go": {
+      "badge": "🆓 Gói miễn phí tốt nhất",
+      "review": "Fidelity Go miễn phí hoàn toàn với số dư dưới 25.000 USD và thu 0,35% khi vượt mức đó. Sử dụng các quỹ Fidelity Flex với tỷ lệ chi phí 0%. Lựa chọn tốt nhất cho danh mục nhỏ (dưới 25.000 USD), nơi gói miễn phí đúng nghĩa là miễn phí. Lợi nhuận hai năm 22,1%.",
+      "pros": [
+        "Miễn phí hoàn toàn dưới 25.000 USD",
+        "Quỹ Fidelity Flex chi phí 0%"
+      ],
+      "cons": [
+        "Nhảy lên 0,35% từ mốc 25.000 USD — không còn rẻ nhất ở số dư lớn"
+      ]
+    },
+    "vanguard-digital-advisor": {
+      "badge": "💎 Tổng chi phí thấp nhất",
+      "review": "Vanguard Digital Advisor có tổng chi phí trọn gói thấp nhất: phí quản lý 0,20% đã bao gồm chi phí của các ETF chỉ số Vanguard. Tối thiểu 100 USD. Lợi nhuận hai năm tốt nhất (+22,4%). Thuần đầu tư thụ động; không có tax-loss harvesting với tài khoản dưới 50.000 USD.",
+      "pros": [
+        "0,20% trọn gói (thấp nhất)",
+        "Lợi nhuận 2 năm tốt nhất trong đợt khảo sát"
+      ],
+      "cons": [
+        "Không có tax-loss harvesting dưới 50.000 USD"
+      ]
+    }
+  },
+  "offerNotes": {
+    "betterment-robo": "Gói Premium 0,40%/năm mở khóa cố vấn là người thật — đáng tiền từ mức 200.000 USD trở lên.",
+    "wealthfront-robo": "Direct Indexing yêu cầu số dư tối thiểu 100.000 USD mới kích hoạt.",
+    "schwab-intelligent-portfolios": "Gói Schwab Premium (30 USD/tháng + 0%) bổ sung cố vấn là người thật — tốt hơn Intelligent Portfolios đơn thuần khi lập kế hoạch mục tiêu.",
+    "fidelity-go": "Nên đặt tần suất tái cân bằng theo quý — mỗi năm một lần là quá chậm với số dư nhỏ.",
+    "vanguard-digital-advisor": "Personal Advisor Services bắt đầu từ 0,30% với tài khoản từ 50.000 USD và có thêm cố vấn là người thật — đáng cân nhắc ở các mức cao hơn."
+  },
+  "pinDescription": "Robo-advisor 2026: Betterment, Wealthfront, Schwab, Fidelity Go hay Vanguard? Toàn bộ tầng phí trên danh mục 25.000 USD 80/20 — và chỗ khoản tiền mặt bắt buộc âm thầm ăn mòn lợi nhuận của bạn.",
+  "recommendedFor": [
+    {
+      "label": "Người mới đầu tư với số vốn dưới 25.000 USD",
+      "offerId": "fidelity-go",
+      "reason": "Fidelity Go thu đúng 0 USD với số dư dưới 25.000 USD cùng các quỹ Flex chi phí 0% — miễn phí thật sự khi bắt đầu, không bị phạt phí."
+    },
+    {
+      "label": "Người thu nhập cao có tài khoản đầu tư chịu thuế",
+      "offerId": "wealthfront-robo",
+      "reason": "Direct Indexing từ mốc 100.000 USD thu hồi lỗ trên từng cổ phiếu riêng lẻ, tạo ra hơn 380 USD lỗ mỗi năm, tiết kiệm hơn 141 USD tiền thuế thực cho người ở khung thuế cao."
+    },
+    {
+      "label": "Người mới muốn phó thác hoàn toàn và cần định hướng theo mục tiêu",
+      "offerId": "betterment-robo",
+      "reason": "Các hũ mục tiêu của Betterment tách bạch tiền hưu trí với tiền mua nhà, còn tax-loss harvesting áp dụng ngay từ 0 USD, không đòi hỏi số dư tối thiểu."
+    },
+    {
+      "label": "Nhà đầu tư chỉ số thụ động dài hạn, cực kỳ khắt khe về chi phí",
+      "offerId": "vanguard-digital-advisor",
+      "reason": "Mức 0,20% trọn gói đã bao gồm chi phí ETF — tổng chi phí thực thấp nhất trong đợt khảo sát, và cũng cho lợi nhuận 2 năm tốt nhất với 22,4%."
+    },
+    {
+      "label": "Khách hàng sẵn có của Schwab muốn thêm tính năng tự động hóa",
+      "offerId": "schwab-intelligent-portfolios",
+      "reason": "Việc miễn phí tư vấn giống như một bản nâng cấp miễn phí ngay trong hệ sinh thái Schwab, nơi phần tiền mặt nằm chết được bù lại bằng các quyền lợi khác của tài khoản Schwab."
+    }
+  ]
 }

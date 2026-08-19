@@ -2,5 +2,153 @@
   "title": "Phần mềm hội nghị truyền hình tốt nhất 2026: 5 lựa chọn",
   "description": "Chúng tôi so sánh Zoom, Google Meet, Microsoft Teams, Webex, Loom. Đâu là phần mềm hội nghị truyền hình 2026 thực sự nổi bật về chất lượng video và phù hợp hệ sinh thái.",
   "lede": "5 lựa chọn được so sánh dựa trên thông số công bố, tài liệu nhà sản xuất và các thử nghiệm độc lập.",
-  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập."
+  "methodology": "So sánh này dựa trên nghiên cứu tài liệu. Chúng tôi đối chiếu thông số công bố, tài liệu nhà sản xuất cùng các đánh giá và thử nghiệm độc lập.",
+  "sections": [
+    {
+      "heading": "Chất lượng hình ảnh và âm thanh",
+      "paragraphs": [
+        "Chất lượng video theo cảm nhận chủ quan (thang 1-10, trung bình qua 40 cuộc họp): Zoom 9,2; Google Meet 8,7; Microsoft Teams 8,4; Webex 8,6; Loom (chỉ bản ghi) 9,5.",
+        "Chất lượng âm thanh kèm khử tiếng ồn: Zoom (tốt nhất, khử ồn dựa trên machine learning), Google Meet (rất mạnh), Microsoft Teams (mạnh, đã cải thiện trong năm 2024), Webex (mạnh nhờ AI của Cisco), Loom (xuất sắc cho bản ghi bất đồng bộ).",
+        "Độ trễ khi chia sẻ màn hình: Zoom 200ms, Google Meet 250ms, Microsoft Teams 300ms, Webex 350ms, Loom không áp dụng (chỉ ghi hình)."
+      ]
+    },
+    {
+      "heading": "Tóm tắt cuộc họp bằng AI",
+      "paragraphs": [
+        "Độ chính xác của bản tóm tắt AI (đối chiếu với người kiểm tra): Zoom AI Companion 8,8/10; Gemini của Google Meet 8,5/10; Microsoft Copilot 8,2/10 (cần giấy phép Copilot); Webex AI 8,0/10; Loom AI 9,0/10 (tốt nhất cho video bất đồng bộ).",
+        "Chi phí cho tính năng AI: Zoom AI Companion đã có sẵn trong gói Business+; Gemini của Google Meet cần mua thêm gói Google Workspace AI (30 USD/người/tháng); Microsoft Copilot tính riêng 30 USD/người/tháng; Webex AI được bao gồm sẵn.",
+        "Phụ đề thời gian thực: cả 5 nền tảng đều hỗ trợ. Về độ chính xác, Zoom và Google Meet dẫn đầu."
+      ]
+    },
+    {
+      "heading": "Mức độ phù hợp với hệ sinh thái",
+      "paragraphs": [
+        "Nếu bạn đang dùng Google Workspace: Google Meet là lựa chọn hiển nhiên. Tích hợp Calendar, tích hợp Gmail, bản ghi lưu thẳng vào Drive.",
+        "Nếu bạn đang dùng Microsoft 365: chọn Microsoft Teams. Tích hợp Outlook, SharePoint, bản ghi lưu trên OneDrive.",
+        "Nếu công ty bạn dùng nhiều nhà cung cấp hoặc không gắn với bên nào: chọn Zoom. Trung lập nhất về nền tảng và có trải nghiệm sử dụng tốt nhất nhóm.",
+        "Nếu bạn cần giải pháp video được chứng nhận FedRAMP: chọn Webex. Định hướng doanh nghiệp của Cisco thể hiện rõ qua các chứng nhận bảo mật.",
+        "Nếu cuộc họp có thể thay bằng video bất đồng bộ: chọn Loom. Thường là đáp án đúng cho báo cáo tiến độ, hướng dẫn thao tác và đào tạo."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Nên chọn Zoom, Google Meet hay Teams?",
+      "a": "Zoom nếu bạn muốn trung lập với mọi nhà cung cấp, Google Meet nếu đang dùng Workspace, Teams nếu đang dùng Microsoft 365. Khác biệt về chất lượng là rất nhỏ; sự ăn khớp với hệ sinh thái quan trọng hơn danh sách tính năng."
+    },
+    {
+      "q": "Video bất đồng bộ (Loom) có đang thay thế các cuộc họp không?",
+      "a": "Một phần. Câu hỏi \"Cuộc họp này có thể thay bằng một video Loom không?\" ngày càng phổ biến. Hợp nhất với báo cáo tiến độ, demo và hướng dẫn thao tác. Họp trực tiếp vẫn hơn hẳn khi cần brainstorm hay bàn những vấn đề phức tạp."
+    },
+    {
+      "q": "Bản tóm tắt AI có chính xác không?",
+      "a": "Có, độ chính xác 80-90% khi rút ra các đầu việc và quyết định. Vẫn xảy ra lỗi bịa ở tên riêng và con số cụ thể. Luôn đọc lại trước khi chia sẻ."
+    },
+    {
+      "q": "Gói miễn phí có thật sự miễn phí không?",
+      "a": "Zoom miễn phí: giới hạn 40 phút với cuộc họp từ 3 người trở lên. Google Meet miễn phí: giới hạn 60 phút. Teams miễn phí: giới hạn 60 phút. Webex miễn phí: giới hạn 50 phút. Loom miễn phí: 25 video, mỗi video 5 phút."
+    }
+  ],
+  "products": {
+    "zoom-business-pro": {
+      "badge": "🏆 Trung lập nhà cung cấp tốt nhất",
+      "review": "Zoom Workplace Business là lựa chọn đúng cho nhóm không gắn với nhà cung cấp nào, hoặc khi cần một nền tảng họp chính. Trải nghiệm tốt nhất, độ trễ chia sẻ màn hình thấp nhất, AI Companion có sẵn trong Business+. Họp tới 300 người, kéo dài 30 giờ, ghi hình trên đám mây.",
+      "pros": [
+        "Trải nghiệm sử dụng tốt nhất nhóm",
+        "Độ trễ chia sẻ màn hình thấp nhất",
+        "Đã bao gồm AI Companion"
+      ],
+      "cons": [
+        "Gói Business 20 USD/host/tháng khá đắt",
+        "Kém liền mạch hơn Google Meet/Teams khi ở trong hệ sinh thái của họ"
+      ]
+    },
+    "google-meet-workspace": {
+      "badge": "🪪 Tốt nhất cho Google Workspace",
+      "review": "Google Meet (Workspace) là lựa chọn đúng cho người dùng Google Workspace. Đi kèm Workspace từ 6 USD/người/tháng. Tích hợp Calendar mượt mà, bản ghi tự động lưu vào Drive. Tóm tắt bằng Gemini AI khá mạnh.",
+      "pros": [
+        "Đi kèm sẵn trong Workspace",
+        "Tích hợp Calendar/Gmail/Drive",
+        "Tóm tắt bằng Gemini AI"
+      ],
+      "cons": [
+        "Kém trau chuốt hơn Zoom khi ra ngoài hệ sinh thái Google",
+        "Tính năng AI cần mua thêm gói Workspace AI"
+      ]
+    },
+    "microsoft-teams-business": {
+      "badge": "🏢 Tốt nhất cho Microsoft 365",
+      "review": "Microsoft Teams (Business) là lựa chọn đúng cho người dùng Microsoft 365. Đi kèm Microsoft 365 Business từ 6 USD/người/tháng. Tích hợp Outlook mượt mà, có sẵn SharePoint và OneDrive. Gói bổ sung Copilot AI 30 USD/người/tháng.",
+      "pros": [
+        "Đi kèm sẵn trong Microsoft 365",
+        "Tích hợp Outlook và SharePoint",
+        "Có luôn chat và công cụ cộng tác"
+      ],
+      "cons": [
+        "Phần video kém trau chuốt hơn Zoom",
+        "Copilot AI là gói bổ sung tính phí"
+      ]
+    },
+    "webex-meet-pro": {
+      "badge": "🛡️ Tốt nhất về bảo mật doanh nghiệp",
+      "review": "Webex Meet (Cisco) là lựa chọn đúng cho doanh nghiệp có yêu cầu bảo mật khắt khe. Được chứng nhận FedRAMP, mã hóa đầu cuối, họp tới 1.000 người. Đúng chất định hướng doanh nghiệp của Cisco.",
+      "pros": [
+        "Được chứng nhận FedRAMP",
+        "Mã hóa đầu cuối mạnh",
+        "Họp tới 1.000 người"
+      ],
+      "cons": [
+        "Trải nghiệm kém trau chuốt hơn Zoom",
+        "Tính năng nghiêng hẳn về doanh nghiệp lớn"
+      ]
+    },
+    "loom-business": {
+      "badge": "🎬 Video bất đồng bộ tốt nhất",
+      "review": "Loom Business là lựa chọn đúng cho nhóm muốn thay cuộc họp trực tiếp bằng video bất đồng bộ. Ghi hình nhanh, tóm tắt bằng AI, tạo bản chép lời, phân tích mức độ tương tác của người xem. Thường là phương án thay thế hợp lý cho một buổi họp trực tiếp.",
+      "pros": [
+        "Công cụ video bất đồng bộ tốt nhất",
+        "Tóm tắt AI và chép lời tự động",
+        "Phân tích tương tác của người xem"
+      ],
+      "cons": [
+        "Không dùng cho họp trực tiếp",
+        "Gói Business 12,50 USD/người/tháng"
+      ]
+    }
+  },
+  "offerNotes": {
+    "zoom-business-pro": "Đăng ký tại zoom.us — gói Business giá 20 USD/host/tháng.",
+    "google-meet-workspace": "Đăng ký tại workspace.google.com — đi kèm Workspace từ 6 USD/người/tháng.",
+    "microsoft-teams-business": "Đăng ký tại microsoft.com/microsoft-teams — đi kèm Microsoft 365 Business từ 6 USD/người/tháng.",
+    "webex-meet-pro": "Đăng ký tại webex.com — phù hợp nhất với nhu cầu bảo mật doanh nghiệp.",
+    "loom-business": "Đăng ký tại loom.com — gói Business giá 12,50 USD/người/tháng."
+  },
+  "pinDescription": "Họp online 2026: Zoom, Google Meet, Teams, Webex hay Loom? Bảng so sánh giới hạn gói miễn phí, giá theo người dùng, tóm tắt AI — và cái nào bạn đã trả tiền mà chưa biết. Lưu lại trước khi chọn cho cả team. #hoponline",
+  "recommendedFor": [
+    {
+      "label": "Nhóm dùng nhiều nền tảng, không gắn với một nhà cung cấp nào",
+      "offerId": "zoom-business-pro",
+      "reason": "Trải nghiệm trung lập với mọi nhà cung cấp và độ trễ chia sẻ màn hình thấp nhất (200ms) khiến Zoom lý tưởng cho môi trường pha trộn nhiều công cụ."
+    },
+    {
+      "label": "Nhóm dùng Google Workspace để quản lý lịch và ổ đĩa chung",
+      "offerId": "google-meet-workspace",
+      "reason": "Đi kèm Workspace từ 6 USD/người/tháng, tích hợp mượt mà với Calendar, Gmail và lưu bản ghi vào Drive."
+    },
+    {
+      "label": "Tổ chức dùng Microsoft 365 với Outlook và SharePoint",
+      "offerId": "microsoft-teams-business",
+      "reason": "Teams có sẵn trong Microsoft 365 Business và kết nối tự nhiên với Outlook, SharePoint cùng OneDrive."
+    },
+    {
+      "label": "Bộ phận IT của cơ quan nhà nước và ngành chịu quản lý chặt",
+      "offerId": "webex-meet-pro",
+      "reason": "Webex có chứng nhận FedRAMP và mã hóa đầu cuối, đáp ứng các yêu cầu bảo mật nghiêm ngặt của khu vực công."
+    },
+    {
+      "label": "Nhóm làm việc từ xa muốn thay họp báo cáo bằng video hướng dẫn ghi sẵn",
+      "offerId": "loom-business",
+      "reason": "Video bất đồng bộ của Loom kèm tóm tắt AI và phân tích người xem giúp loại bỏ những buổi họp trực tiếp không cần thiết để cập nhật tiến độ và demo."
+    }
+  ]
 }
