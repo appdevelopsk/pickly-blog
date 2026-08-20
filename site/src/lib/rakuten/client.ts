@@ -40,7 +40,11 @@ function cfgFromEnv(): RakutenClientConfig {
   const applicationId = process.env.RAKUTEN_APP_ID ?? "";
   const accessKey = process.env.RAKUTEN_ACCESS_KEY ?? "";
   const origin = process.env.RAKUTEN_ORIGIN ?? "https://pickly.blog";
-  const affiliateId = process.env.AFFILIATE_RAKUTEN_AFFILIATE_ID;
+  // 変数名が3系統に分かれていたため、いずれでも読めるようにする。
+  const affiliateId =
+    process.env.AFFILIATE_RAKUTEN_AFFILIATE_ID ??
+    process.env.RAKUTEN_AFFILIATE_ID ??
+    process.env.NEXT_PUBLIC_RAKUTEN_AFFILIATE_ID;
   if (!applicationId || !accessKey) {
     throw new Error("RAKUTEN_APP_ID / RAKUTEN_ACCESS_KEY が未設定です");
   }

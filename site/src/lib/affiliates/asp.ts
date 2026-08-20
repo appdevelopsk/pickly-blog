@@ -229,7 +229,15 @@ export function buildAffiliateUrl({ link, productName, market, category, env = d
     "a8": (id, e) => `https://px.a8.net/svt/ejp?a8mat=${e("AFFILIATE_A8_SID") ?? "PENDING"}&a8ejpredirect=${encodeURIComponent(id)}`,
     "moshimo": (id, e) => `https://af.moshimo.com/af/c/click?a_id=${e("AFFILIATE_MOSHIMO_SID") ?? "PENDING"}&p_id=${id}`,
     "valuecommerce": (id, e) => `https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=${e("AFFILIATE_VALUECOMMERCE_SID") ?? "PENDING"}&pid=${id}`,
-    "rakuten-affiliate": (id, e) => `https://hb.afl.rakuten.co.jp/hgc/${e("AFFILIATE_RAKUTEN_AFFILIATE_ID") ?? "PENDING"}/?pc=${encodeURIComponent(id)}`,
+    // 楽天IDは環境によって3系統の変数名で入っている（client.ts と同じ順で解決する）。
+    // 単一名だけを見ていたため automation/.env の設定を拾えず PENDING を出していた。
+    "rakuten-affiliate": (id, e) =>
+      `https://hb.afl.rakuten.co.jp/hgc/${
+        e("AFFILIATE_RAKUTEN_AFFILIATE_ID") ??
+        e("RAKUTEN_AFFILIATE_ID") ??
+        e("NEXT_PUBLIC_RAKUTEN_AFFILIATE_ID") ??
+        "PENDING"
+      }/?pc=${encodeURIComponent(id)}`,
     "shareasale": (id, e) => `https://shareasale.com/r.cfm?b=${id}&u=${e("AFFILIATE_SHAREASALE_USER_ID") ?? "PENDING"}&m=&afftrack=`,
     "cj": (id, e) => `https://www.anrdoezrs.net/click-${e("AFFILIATE_CJ_PID") ?? "PENDING"}-${id}`,
     "impact": (id, e) => `https://imp.pxf.io/c/${e("AFFILIATE_IMPACT_CAMPAIGN_ID") ?? "PENDING"}/${id}`,
