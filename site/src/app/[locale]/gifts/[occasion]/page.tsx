@@ -86,7 +86,14 @@ export default async function GiftPage({ params }: Props) {
   }
   rest.sort((a, b) => b.offerIds.length - a.offerIds.length);
 
-  const articles = [...featured, ...rest].slice(0, 36);
+  // ★ Top 10: featured first, then the deepest comparisons. The remainder is a
+  // short "more ideas" tail — previously every matching article was dumped flat,
+  // so nothing on the page read as a recommendation.
+  const ranked = [...featured, ...rest].slice(0, 10);
+  const rankedSet = new Set(ranked.map((a) => a.slug));
+  const more = rest.filter((a) => !rankedSet.has(a.slug)).slice(0, 12);
+
+  const articles = ranked;
 
   const listSchema = {
     "@context": "https://schema.org",
@@ -155,52 +162,65 @@ export default async function GiftPage({ params }: Props) {
           ))}
         </nav>
 
-        {/* Featured top 3 */}
-        {featured.length > 0 && (
-          <div className="mb-8">
-            <h2 className="mb-4 text-lg font-black text-slate-900">⭐ Top picks</h2>
-            <div className="grid gap-4 md:grid-cols-3">
-              {featured.map((a) => {
+        {/* Top 10 ranked picks */}
+        {ranked.length > 0 && (
+          <div className="mb-10">
+            <h2 className="mb-1 text-lg font-black text-slate-900">
+              {tt("giftPages.topN", `\u2b50 Top ${ranked.length} picks`, { count: ranked.length })}
+            </h2>
+            <p className="mb-4 text-xs text-slate-400">
+              {tt("giftPages.topNSub", "Ranked by how thoroughly we compared the options.")}
+            </p>
+            <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {ranked.map((a, idx) => {
                 const { title, description } = loadArticleCardMeta(a.slug, locale);
                 const imgSrc = getThumbnail(a, locale);
                 const isProductImg = imgSrc && !imgSrc.includes("/og/");
                 const offer = firstOffer(a);
+                const isTop3 = idx < 3;
                 return (
-                  <Link key={a.slug} href={`/articles/${a.slug}`}
-                    className="group flex flex-col overflow-hidden rounded-2xl border-2 border-rose-200 bg-white shadow-sm transition-all hover:border-rose-400 hover:shadow-lg">
-                    <div className="relative shrink-0 overflow-hidden bg-slate-100" style={{ aspectRatio: "4/3" }}>
-                      <ArticleCardImage src={imgSrc} alt={title}
-                        className={`h-full w-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}>
-                        <CategoryPlaceholder category={a.category} title={title} />
-                      </ArticleCardImage>
-                      <span className="absolute left-2.5 top-2.5 rounded-full bg-rose-500 px-2.5 py-0.5 text-[10px] font-black text-white shadow">
-                        Top pick
-                      </span>
-                      {(offer && resolvePrice(offer, locale)) && (
-                        <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-bold text-slate-800 shadow-sm">
-                          {resolvePrice(offer, locale)}
+                  <li key={a.slug}>
+                    <Link href={`/articles/${a.slug}`}
+                      className={`group flex h-full flex-col overflow-hidden rounded-2xl bg-white shadow-sm transition-all hover:shadow-lg ${isTop3 ? "border-2 border-rose-200 hover:border-rose-400" : "border border-slate-200 hover:border-brand-200"}`}>
+                      <div className="relative shrink-0 overflow-hidden bg-slate-100" style={{ aspectRatio: "4/3" }}>
+                        <ArticleCardImage src={imgSrc} alt={title}
+                          className={`h-full w-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}>
+                          <CategoryPlaceholder category={a.category} title={title} />
+                        </ArticleCardImage>
+                        <span className={`absolute left-2.5 top-2.5 flex h-7 w-7 items-center justify-center rounded-full text-xs font-black shadow ${isTop3 ? "bg-rose-500 text-white" : "bg-white/95 border border-slate-200 text-slate-700"}`}>
+                          {idx + 1}
                         </span>
-                      )}
-                    </div>
-                    <div className="flex flex-1 flex-col p-4">
-                      {offer?.badge && !/^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(offer.badge) && <p className="mb-1 text-[11px] font-semibold text-amber-600 truncate">🏆 {offer.badge}</p>}
-                      <h2 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-2">{title}</h2>
-                      {description && <p className="mt-1.5 flex-1 text-xs text-slate-400 line-clamp-2">{description}</p>}
-                      <p className="mt-3 text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">{tt("home.readReview", "Read review →")}</p>
-                    </div>
-                  </Link>
+                        {(offer && resolvePrice(offer, locale)) && (
+                          <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-bold text-slate-800 shadow-sm">
+                            {resolvePrice(offer, locale)}
+                          </span>
+                        )}
+                      </div>
+                      <div className="flex flex-1 flex-col p-4">
+                        {offer?.badge && !/^[a-z0-9]+(?:-[a-z0-9]+)+$/.test(offer.badge) && <p className="mb-1 text-[11px] font-semibold text-amber-600 truncate">\ud83c\udfc6 {offer.badge}</p>}
+                        <h3 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-2">{title}</h3>
+                        {description && <p className="mt-1.5 flex-1 text-xs text-slate-400 line-clamp-2">{description}</p>}
+                        <div className="mt-3 flex items-center justify-between">
+                          <span className="text-[11px] text-slate-400">{tt("home.picks", `${a.offerIds.length} picks`, { count: a.offerIds.length })}</span>
+                          <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">{tt("home.readReview", "Read review \u2192")}</span>
+                        </div>
+                      </div>
+                    </Link>
+                  </li>
                 );
               })}
-            </div>
+            </ul>
           </div>
         )}
 
-        {/* All picks grid */}
-        {rest.length > 0 && (
+        {/* More ideas (capped tail) */}
+        {more.length > 0 && (
           <div>
-            <h2 className="mb-4 text-lg font-black text-slate-900">All picks ({rest.length})</h2>
+            <h2 className="mb-4 text-lg font-black text-slate-900">
+              {tt("giftPages.moreIdeas", "More gift ideas")}
+            </h2>
             <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-              {rest.map((a) => {
+              {more.map((a) => {
                 const { title, description } = loadArticleCardMeta(a.slug, locale);
                 const imgSrc = getThumbnail(a, locale);
                 const isProductImg = imgSrc && !imgSrc.includes("/og/");
@@ -239,6 +259,11 @@ export default async function GiftPage({ params }: Props) {
                 );
               })}
             </ul>
+            <div className="mt-8 text-center">
+              <Link href="/articles" className="text-sm font-semibold text-brand-600 hover:text-brand-700">
+                {tt("pages.browseAllReviews", `Browse all ${allArticles.length} reviews \u2192`, { count: allArticles.length })}
+              </Link>
+            </div>
           </div>
         )}
       </div>
