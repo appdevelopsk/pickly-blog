@@ -31,6 +31,27 @@ const HEADING: Record<string, string> = {
   tr: "Yorumlar ve sorular",
 };
 
+/** 見出し下の一文: 飛び先(nattzy)とログインが要ることを事前に明示する */
+const SUB: Record<string, string> = {
+  en: "Discussion happens on nattzy, our community forum. Sign in with Google to post — it takes a second.",
+  ja: "コメントはコミュニティフォーラム nattzy で受け付けています。Googleアカウントですぐ投稿できます。",
+  "zh-CN": "讨论在我们的社区论坛 nattzy 进行。用 Google 账号登录即可发言。",
+  "zh-TW": "討論在我們的社群論壇 nattzy 進行。用 Google 帳號登入即可發言。",
+  ko: "토론은 커뮤니티 포럼 nattzy에서 진행됩니다. Google 계정으로 바로 참여할 수 있습니다.",
+  es: "La conversación ocurre en nattzy, nuestro foro. Entra con Google para participar.",
+  "pt-BR": "A conversa acontece no nattzy, nosso fórum. Entre com o Google para participar.",
+  fr: "La discussion se passe sur nattzy, notre forum. Connectez-vous avec Google pour participer.",
+  de: "Die Diskussion findet in unserem Forum nattzy statt. Mit Google anmelden und mitreden.",
+  it: "La discussione avviene su nattzy, il nostro forum. Accedi con Google per partecipare.",
+  ru: "Обсуждение идёт на нашем форуме nattzy. Войдите через Google, чтобы ответить.",
+  ar: "تجري المناقشة في منتدانا nattzy. سجّل الدخول عبر Google للمشاركة.",
+  hi: "चर्चा हमारे फ़ोरम nattzy पर होती है। भाग लेने के लिए Google से साइन इन करें।",
+  id: "Diskusi berlangsung di nattzy, forum komunitas kami. Masuk dengan Google untuk ikut.",
+  th: "การพูดคุยอยู่ที่ nattzy ฟอรัมชุมชนของเรา เข้าสู่ระบบด้วย Google เพื่อร่วมพูดคุย",
+  vi: "Thảo luận diễn ra trên nattzy, diễn đàn của chúng tôi. Đăng nhập bằng Google để tham gia.",
+  tr: "Tartışma topluluk forumumuz nattzy üzerinde. Katılmak için Google ile giriş yapın.",
+};
+
 const FORUM_URL = "https://nattzy.com/";
 const SITE_URL = "https://pickly.blog";
 
@@ -80,9 +101,10 @@ export function Comments({ slug, locale }: Props) {
 
   return (
     <section ref={ref} className="my-10">
-      <h2 className="mb-4 text-lg font-bold text-slate-900">
+      <h2 className="mb-1 text-lg font-bold text-slate-900">
         {HEADING[locale] ?? HEADING.en}
       </h2>
+      <p className="mb-4 text-sm text-slate-500">{SUB[locale] ?? SUB.en}</p>
       <div id="discourse-comments" />
       <noscript>
         <a href={FORUM_URL} rel="noopener">
