@@ -80,6 +80,12 @@ export function inferMarketFromLocale(locale: string): "JP" | "US" | "UK" | "CA"
   if (locale === "fr") return "FR";
   if (locale === "es") return "ES";
   if (locale === "it") return "IT";
-  if (locale === "de" || locale === "pt-BR") return "EU";
+  if (locale === "de") return "EU";
+  // pt-BR を "EU" に束ねない (2026-08-21)。
+  // 現状 LOCAL_REMAP に "EU" のエントリが無いため EU も global も amazon-us に
+  // フォールバックしており、この分岐は実配信を変えない(実測で確認済み)。
+  // ただし DE を本承認済みの amazon.de に直結させる日が来たら、"EU" に居る
+  // pt-BR まで amazon.de へ道連れになる。ブラジルは Earn Globally 対象外で
+  // amazon.de に送っても現地購入に繋がらないため、先に切り離しておく。
   return "global";
 }
