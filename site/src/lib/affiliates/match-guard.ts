@@ -15,7 +15,7 @@
  */
 
 /** 名前と価格だけを見るので、楽天/Yahoo どちらの商品型でも受けられる。 */
-export type NamedPriced = { name: string; price: number };
+export type NamedPriced = { name: string; price: number; shop?: string };
 
 export function norm(s: string): string {
   return s.toLowerCase().replace(/[\s　・,，.。:：()（）[\]【】|/_–—-]+/g, "");
@@ -46,7 +46,29 @@ export const ACCESSORY_RE =
  * 実測（2026-08-20）: "【中古】【輸入品・未使用】Lodge L8SK3 …" ¥51787（実売の約10倍）が
  * 型番一致で通ってしまった。価格レンジも壊すため除外する。
  */
-export const USED_RE = /中古|美品|ジャンク|アウトレット|訳あり|used|refurbish/i;
+export const USED_RE = /中古|古本|美品|ジャンク|アウトレット|訳あり|used|refurbish/i;
+
+/**
+ * 商品名に書籍を示す語が含まれる場合は無条件で不採用。
+ * 実測(2026-08-21): 書店系ショップ(BOOKSTORE_SHOP_RE)には該当しない「Glomarket」
+ * (米国輸入雑貨ショップ、正当な商品も多数扱う)の中に、洋書の解説本・電子書籍が
+ * 複数件混入していた(monarch-money, schwab-platform, aws-ec2-cloud, render-cloud,
+ * salesforce-sales-cloud-pro, asana-advanced 等)。ショップ単位では除外できないため、
+ * 商品名に "Paperback"/"ペーパーバック"/"Kindle Edition"/ISBN等が含まれる場合を
+ * 商品名ベースで除外する。
+ */
+export const BOOKSTORE_ITEM_RE =
+  /paperback|ペーパーバック|kindle edition|hardcover|ハードカバー|isbn|紙書籍|電子書籍/i;
+
+/**
+ * 書店系ショップ（実測 2026-08-21）: VPN・SaaS・フィンテック・クラウドサービスなど
+ * 楽天に実商品が存在しないカテゴリで検索すると、「ヒット無し」ではなく無関係な
+ * 書籍・電子書籍に部分一致してしまう（例: "Rocket Money" → 種子パッケージ、
+ * "Revolut" → 中古本、"AWS EC2" → 楽天Kobo電子書籍ストアの無関係な電子書籍）。
+ * これらのショップがヒットした場合は、ブランド一致だけでなく識別語の過半数一致も
+ * 必須にする（電子書籍リーダー本体など、本当に書店で売っている商品は通す）。
+ */
+export const BOOKSTORE_SHOP_RE = /楽天ブックス|楽天Kobo電子書籍ストア|ネットオフ|VALUE BOOKS|バリューブックス/i;
 
 /**
  * ブランド一致だけでなく「ブランド以外の商品語」も共有しているか。
@@ -175,7 +197,15 @@ export function pickWithRange<T extends NamedPriced>(
       (it) =>
         !ACCESSORY_RE.test(it.name) &&
         !USED_RE.test(it.name) &&
-        productTokenScore(it.name, prodTokens) >= PRODUCT_TOKEN_THRESHOLD,
+        !BOOKSTORE_ITEM_RE.test(it.name) &&
+        productTokenScore(it.name, prodTokens) >= PRODUCT_TOKEN_THRESHOLD &&
+        // 書店系ショップ(楽天ブックス/Kobo電子書籍/中古書店)は無条件で不採用。
+        // 実測(2026-08-21): 全識別語一致(every)まで強化しても、"Workday HCM A Complete
+        // Guide"のようにブランド語のみのカタログ名や、"Euhomy countertop ice maker
+        // user guide"のように商品名そのものを冠した無関係の解説本・電子書籍が識別語
+        // 一致で通過し続けた（17件確認）。書籍タイトルは元の商品名を模倣しやすく、
+        // トークン一致では原理的に誤マッチを防げないため、ショップ単位で除外する。
+        !BOOKSTORE_SHOP_RE.test(it.shop ?? ""),
     )
     // 型番があるカタログ商品は、型番一致を必須にする（別機種の混入を防ぐ）
     .filter((it) => codes.length === 0 || codes.some((c) => norm(it.name).includes(c)))
