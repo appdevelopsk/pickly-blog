@@ -40,6 +40,18 @@
 //    同じ direct 形式は既にサイト内333件で稼働している確立パターン。これでページが
 //    生成されるようになったため、需要100以上の分を Set から外す。
 //    アフィリ提携(A8/もしも/Awin/CJ)が取れ次第、収益リンクに差し替える。
+// ── 2026-08-21: ★「Googleで上位に付いているのに noindex」だった25本を復帰。
+//    SEOベースライン再取得で pickly が「表示1,144でクリック1」と判明したのを起点に
+//    GSC(90日・page次元)と本Setを突合したところ、noindex 242本のうち65本が実際には
+//    Googleに表示されており、合計929imp / クリック0 だった。順位が付いているのに
+//    クリック0 なのはスニペット問題ではなく noindex そのものが原因(検索結果に出ても
+//    実質クリックされない/やがて落ちる)。
+//    最悪例: best-coffee-table-2026 が「coffee table」pos2.3・「square coffee table」pos1.0 で
+//    単独 707imp = pickly の Google 表示全体の76%。これを死蔵扱いしていた。
+//    復帰基準: 加重平均順位 pos<=15 かつ 表示>=3(90日)。25本・表示合計 約860。
+//    これは 2026-08-02/08-03 と同じ循環(noindexだから実績0→その0を根拠にnoindex)の
+//    Google側での再発。計測器: /tmp/pickly-rescue.mjs (growth/pickly-rescue.mjs に保存)
+//    再判定: 3〜4週後(2026-09-15頃)に同25本の GSC クリックで効果測定。
 // ── 2026-08-20: ★面積拡大実験 v1 の正式判定 = ✅ WIN。第2波(holdout)を実施。
 //    8/06 時点の判定は 🔼 WEAK (treatment engaged=8) だったが、測定窓が 19日と短すぎた。
 //    同じ計測器 (growth/measure-area-experiment.mjs) を 2026-07-18〜08-19 で再実行:
@@ -84,15 +96,12 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-booster-seat-2026",
   "best-camping-tent-2026",
   "best-car-phone-mount-2026",
-  "best-cat-carrier-2026",
   "best-cat-harness-2026",
   "best-cat-litter-mat-2026",
   "best-cat-scratching-post-2026",
   "best-cat-tunnel-2026",
   "best-cloud-hosting-2026",
   "best-coffee-mug-2026",
-  "best-coffee-table-2026",
-  "best-composting-bin-2026",
   "best-console-table-2026",
   "best-cookware-set-2026",
   "best-cooling-pillow-2026",
@@ -102,7 +111,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-debt-consolidation-loan-2026",
   "best-decorative-pillows-2026",
   "best-desk-lamp-2026",
-  "best-desk-organizer-2026",
   "best-diaper-pail-2026",
   "best-disability-insurance-2026",
   "best-dish-rack-2026",
@@ -111,7 +119,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-dog-anxiety-supplement-2026",
   "best-dog-bed-2026",
   "best-dog-boots-2026",
-  "best-dog-bowl-2026",
   "best-dog-car-seat-2026",
   "best-dog-dental-chews-2026",
   "best-dog-grooming-table-2026",
@@ -126,7 +133,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-drawer-organizer-2026",
   "best-ecommerce-platform-2026",
   "best-electric-blanket-2026",
-  "best-elevated-dog-bowl-2026",
   "best-email-marketing-platform-2026",
   "best-entryway-bench-2026",
   "best-estate-planning-software-2026",
@@ -155,7 +161,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-kids-sunscreen-2026",
   "best-kids-tablet-2026",
   "best-kids-water-bottle-2026",
-  "best-laptop-stand-2026",
   "best-laundry-hamper-2026",
   "best-leather-gloves-2026",
   "best-linen-shirt-2026",
@@ -171,12 +176,10 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-monitor-stand-2026",
   "best-mortgage-lender-2026",
   "best-nightstand-2026",
-  "best-noise-cancelling-earbuds-travel-2026",
   "best-nursery-glider-2026",
   "best-one-piece-swimsuit-2026",
   "best-pearl-earrings-2026",
   "best-pet-first-aid-kit-2026",
-  "best-pet-water-fountain-2026",
   "best-plant-pot-2026",
   "best-portable-charger-travel-2026",
   "best-portable-wifi-router-travel-2026",
@@ -185,9 +188,7 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-rental-server-jp-2026",
   "best-reptile-terrarium-2026",
   "best-reusable-water-bottle-2026",
-  "best-ring-light-2026",
   "best-robo-advisor-2026",
-  "best-rolling-duffel-bag-2026",
   "best-roth-ira-account-2026",
   "best-runner-rug-2026",
   "best-senior-cat-food-2026",
@@ -197,7 +198,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-small-business-loan-2026",
   "best-smart-home-hub-2026",
   "best-sneaker-cleaning-kit-2026",
-  "best-soap-dispenser-2026",
   "best-space-heater-2026",
   "best-statement-handbag-2026",
   "best-stock-trading-app-2026",
@@ -205,7 +205,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-student-credit-card-2026",
   "best-student-loan-refinance-2026",
   "best-table-lamp-2026",
-  "best-tablet-stand-2026",
   "best-tax-prep-service-2026",
   "best-tax-software-2026",
   "best-tea-kettle-2026",
@@ -215,7 +214,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-toddler-shoes-2026",
   "best-toddler-table-and-chairs-2026",
   "best-travel-adapter-2026",
-  "best-travel-binoculars-2026",
   "best-travel-blanket-2026",
   "best-travel-clothesline-2026",
   "best-travel-document-organizer-2026",
@@ -245,7 +243,6 @@ export const DEINDEXED_SLUGS: ReadonlySet<string> = new Set([
   "best-weighted-blanket-2026",
   "best-wide-leg-pants-2026",
   "best-wine-rack-2026",
-  "best-winter-boots-2026",
   "best-winter-gloves-2026",
   "best-wordpress-hosting-2026",
   "best-wrap-dress-2026",
