@@ -4,10 +4,12 @@
  * JP prices: Keepa API (if KEEPA_API_KEY is set) → curl scraping fallback
  * US prices: seeded from catalog price field (Amazon.com blocks curl)
  *
- * Keepa API (free tier: 100 tokens/day, 1 token per ASIN):
- *   https://keepa.com/#!api — register free, generate key, set KEEPA_API_KEY
- *   With 100 tokens/day, fetches all 564 ASINs in ~6 daily runs.
- *   Script splits ASINs into daily batches automatically.
+ * Keepa API (PAID ONLY — no free tier as of 2026-08; 1 token per ASIN):
+ *   https://keepa.com/#!api — cheapest plan is Starter, 20 tokens/min for 49 EUR/month.
+ *   KEEPA_API_KEY is currently NOT set in GitHub Secrets, so the daily workflow
+ *   falls through to curl scraping below, which Amazon blocks with CAPTCHA.
+ *   Net effect: this job has been a no-op. Either subscribe and register the
+ *   secret, or drop the schedule in .github/workflows/fetch-prices.yml.
  *
  * Usage:  cd site && npx tsx scripts/fetch-prices.ts
  *         KEEPA_API_KEY=xxx npx tsx scripts/fetch-prices.ts

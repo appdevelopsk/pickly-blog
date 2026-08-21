@@ -97,9 +97,18 @@ const AMAZON_TAG_DEFAULTS: Partial<Record<AspNetwork, string>> = {
  *   Amazon から「180日以内に適格販売3件」の警告を受けたアカウントが実際に閉鎖された時。
  *   2026-08-11 時点の仮アカウント(3件未達なら閉鎖): UK/FR/ES/CA。
  *   閉鎖済みが確認できたら該当ネットワークをこの Set に足すだけでよい。
- *   (DE=本承認済み・IT=注文2件で残り1件・JP/US=稼働中)
+ *   (DE=本承認済み・JP/US=稼働中)
+ *
+ * ■ 2026-08-21 IT 却下 → 退避済み
+ *   pickly06-21 が amazon.it に却下された(理由="特別リンクにトラッキングIDが
+ *   使われておらず、トラフィックの発生元を特定できない" = 7/24 の US 却下と同文)。
+ *   本番実測では /it/articles/ 配下は全リンクが amazon.it tag=pickly06-21 で
+ *   タグ付き済み(8/4 に 625本のタグ無しリンクを是正済み)。つまり審査は是正前の
+ *   スナップショットを見たものと考えられ、異議申立ての根拠がある。
+ *   異議が通るまでは IT を退避し、イタリアの読者を US(Earn Globally)経由で
+ *   amazon.it に送る。異議が通ったらこの Set から amazon-it を外すだけでよい。
  */
-const RETIRED_AMAZON_NETWORKS = new Set<AspNetwork>([]);
+const RETIRED_AMAZON_NETWORKS = new Set<AspNetwork>(["amazon-it"]);
 
 // amazon-de/amazon-us の共有リンクを訪問者のロケールに応じて各国 Amazon にリマップ。
 // US は対象外(amazon-us が既に自国)。
@@ -123,9 +132,14 @@ const NO_AMAZON_CATEGORIES = new Set(["finance", "travel"]);
 
 /**
  * 訪問者の市場に対応する Amazon ネットワーク。未知の市場は US(Earn Globally)。
+ * ★退避対象(RETIRED_AMAZON_NETWORKS)なら US に寄せる。この関数は direct リンクを
+ *   Amazon 検索に変換する経路でも使われるため、ここで退避しないと死にタグが残る
+ *   (2026-08-21: IT 退避時に direct 由来の 1,545 本が pickly06-21 のままだった)。
  */
-const localAmazonNetwork = (market?: Market): AspNetwork =>
-  (market && LOCAL_REMAP[market]) ?? "amazon-us";
+const localAmazonNetwork = (market?: Market): AspNetwork => {
+  const net = (market && LOCAL_REMAP[market]) ?? "amazon-us";
+  return RETIRED_AMAZON_NETWORKS.has(net) ? "amazon-us" : net;
+};
 
 /**
  * その direct リンクが自国 Amazon 検索に置き換わるか。

@@ -1,10 +1,14 @@
 name: Fetch Prices
 
 on:
-  schedule:
-    # 毎日 JST 9:00 (UTC 00:00) に実行
-    - cron: "0 0 * * *"
-  workflow_dispatch: # 手動実行も可能
+  # schedule は無効化 (2026-08-21)。
+  # KEEPA_API_KEY 未設定 = Keepa を使えず curl fallback → Amazon の CAPTCHA で全滅。
+  # 毎日失敗通知だけが出る no-op ジョブだったため定期実行を止め、手動実行のみ残す。
+  # Keepa (Starter 49EUR/月) を契約して KEEPA_API_KEY を Secrets に登録したら
+  # 下の schedule を復活させること。
+  #   schedule:
+  #     - cron: "0 0 * * *"   # 毎日 JST 9:00 (UTC 00:00)
+  workflow_dispatch: # 手動実行のみ
 
 jobs:
   fetch-prices:
@@ -28,8 +32,9 @@ jobs:
       - name: Fetch prices
         # KEEPA_API_KEY が設定されている場合は Keepa API 経由（確実）
         # 未設定の場合は curl スクレイピング（Amazon CAPTCHA でほぼ失敗）
+        # 現状 KEEPA_API_KEY は未設定 = このジョブは実質 no-op（2026-08-21 確認）
+        # Keepa は有料のみ（最小 Starter 49EUR/月）。無料枠は存在しない。
         # 設定方法: GitHub → Settings → Secrets → Actions → KEEPA_API_KEY
-        # 取得方法: https://keepa.com/#!api (無料: 100 tokens/day)
         env:
           KEEPA_API_KEY: ${{ secrets.KEEPA_API_KEY }}
         run: npx tsx scripts/fetch-prices.ts
