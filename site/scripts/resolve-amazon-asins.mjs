@@ -54,7 +54,9 @@ function targets() {
     const PHYS = new Set(["tech","home","beauty","fashion","fitness","food","parenting","pets"]);
     const rows = CATALOG
       .filter(o => PHYS.has(o.category))
-      .filter(o => !(o.links ?? []).some(l => l.network === "${NETWORK}"))
+      // amazon-us リンクが「無い」だけでなく、「有るが実ASINでない(検索URL止まり)」も対象。
+      // 後者が 845 件あり、deep link 化の主戦場はこちら。
+      .filter(o => !(o.links ?? []).some(l => l.network === "${NETWORK}" && /^[A-Z0-9]{10}$/.test(l.productId ?? "")))
       // 月額表記のものは物理商品ではない(VPN・レンタルサーバ等)。Amazon に送っても意味が無い。
       .filter(o => !/\\/\\s*(mo|month|月)/i.test((o.priceMin ?? "") + (o.price ?? "")))
       .map(o => ({ id: o.id, name: o.name?.en ?? Object.values(o.name ?? {})[0] ?? "", category: o.category }))
@@ -99,6 +101,13 @@ async function main() {
   const cache = fs.existsSync(CACHE_PATH) ? JSON.parse(fs.readFileSync(CACHE_PATH, "utf8")) : {};
   const all = targets();
   const RETRY = process.env.RETRY_MISSES === "1";
+  // 実流入(GSCインプレッション)のある記事の offer を先に回すための優先リスト。
+  // PRIORITY_IDS=path/to/ids.txt (1行1 offerId) を渡すと、その順で先頭に並ぶ。
+  const prioFile = process.env.PRIORITY_IDS;
+  if (prioFile && fs.existsSync(prioFile)) {
+    const order = new Map(fs.readFileSync(prioFile, "utf8").split("\n").map(s => s.trim()).filter(Boolean).map((id, i) => [id, i]));
+    all.sort((a, b) => (order.get(a.id) ?? 1e9) - (order.get(b.id) ?? 1e9));
+  }
   const todo = all.filter((o) => (RETRY ? !cache[o.id] : !(o.id in cache)));
   console.log(`対象 ${all.length} 件 / 未解決 ${todo.length} 件`);
   const work = LIMIT ? todo.slice(0, LIMIT) : todo;

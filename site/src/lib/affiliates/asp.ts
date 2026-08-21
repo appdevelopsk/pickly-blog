@@ -157,7 +157,8 @@ export const NON_AMAZON_OFFERS = new Set([
   // VPN
   "nordvpn", "expressvpn", "surfshark", "protonvpn",
   // レンタルサーバ / クラウド
-  "sakura-rentalserver", "mixhost", "digitalocean-droplets", "vultr-cloud-compute",
+  "sakura-rentalserver", "mixhost", "conoha-wing", "xserver", "lolipop-server",
+  "digitalocean-droplets", "vultr-cloud-compute",
   "linode-shared-cpu", "hetzner-cloud-cpx", "aws-lightsail", "aws-ec2-cloud",
   "google-cloud-compute-engine", "azure-virtual-machines", "digitalocean-app-platform",
   "render-cloud", "kinsta-managed-wp", "wp-engine-managed-wp", "siteground-grow-big",
