@@ -73,7 +73,14 @@ if (fullyMissing.length) {
 
 // ── Exit code ──────────────────────────────────────────────────────────────────
 if (errors > 0) {
-  console.error(`\n✗ audit:images FAILED — ${errors} error(s), ${warnings} warning(s)`);
+  // ローカルでは exit 0 で返す(FAIL_ON_MISSING は CI のみ)。
+  // 「FAILED」と出しながら validate 側が ✓ を付けるのは読み手を欺くので、
+  // どちらの意味なのかを行そのものに書く。
+  console.error(
+    FAIL_ON_MISSING
+      ? `\n✗ audit:images FAILED — ${errors} error(s), ${warnings} warning(s)`
+      : `\n⚠ audit:images — ${errors} error(s), ${warnings} warning(s) (ローカルは非致命。CI=true では失敗する)`
+  );
   console.error(`  Run: npm run images:fetch   to fill missing imageUrls`);
   if (FAIL_ON_MISSING) process.exit(1);
 } else if (warnings > 0) {
