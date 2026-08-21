@@ -248,7 +248,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
   const isApproved = link.approved;
   // category を渡す理由: network:"direct" を自国Amazon検索へ寄せるかの判定に使う
   // (finance/travel は Amazon に商品が無いので直リンクのまま)。
-  const href = isApproved ? buildAffiliateUrl({ link, productName: offer.name.en ?? name, market, category: offer.category }) : "#";
+  const href = isApproved ? buildAffiliateUrl({ link, productName: offer.name.en ?? name, market, category: offer.category, siblings: offer.links }) : "#";
 
   if (variant === "stores") {
     const allLinks = pickAllLinks(offer, market, { onlyApproved: true });
@@ -287,7 +287,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       <div>
         <div className="flex flex-wrap gap-2">
           {storeLinks.map(([label, l], i) => {
-            const storeHref = buildAffiliateUrl({ link: l, productName: offer.name.en ?? name, market, category: offer.category });
+            const storeHref = buildAffiliateUrl({ link: l, productName: offer.name.en ?? name, market, category: offer.category, siblings: offer.links });
             return (
               <a
                 key={label}

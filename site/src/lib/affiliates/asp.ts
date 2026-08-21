@@ -32,6 +32,13 @@ export interface BuildOptions {
   env?: EnvLookup;
   /** 商品カテゴリ。network:"direct" を Amazon 検索に寄せてよいかの判定に使う。 */
   category?: string;
+  /**
+   * 同一商品の全リンク(offer.links)。リマップ先マーケットの実ASINを引き当てるのに使う。
+   * ASIN はマーケットごとに違う(実測: JP↔US で 894/2,172 = 41% が別ASIN)ため、
+   * network だけ書き換えて元マーケットの ASIN を /dp/ に付けると 404 になる。
+   * 兄弟リンクに行き先マーケットの実ASINがあればそれを使い、無ければ商品名検索に落とす。
+   */
+  siblings?: readonly AspLink[];
 }
 
 const AMAZON_TAG_ENV: Partial<Record<AspNetwork, string>> = {
@@ -110,9 +117,13 @@ const AMAZON_TAG_DEFAULTS: Partial<Record<AspNetwork, string>> = {
  */
 const RETIRED_AMAZON_NETWORKS = new Set<AspNetwork>(["amazon-it"]);
 
-// amazon-de/amazon-us の共有リンクを訪問者のロケールに応じて各国 Amazon にリマップ。
-// US は対象外(amazon-us が既に自国)。
+// 訪問者の市場 → その市場の Amazon。
+// ★2026-08-21: "EU"/"US" を追加。従来これらのキーが無かったため EU(ドイツ語圏)と
+//   US の読者は LOCAL_REMAP を素通りし、全員 amazon-us にフォールバックしていた。
+//   本承認済みの amazon.de(pickly01-21) にドイツの読者が一度も到達していなかった主因。
 const LOCAL_REMAP: Partial<Record<Market, AspNetwork>> = {
+  "EU": "amazon-de",
+  "US": "amazon-us",
   "FR": "amazon-fr",
   "ES": "amazon-es",
   "IT": "amazon-it",
@@ -128,7 +139,53 @@ const LOCAL_REMAP: Partial<Record<Market, AspNetwork>> = {
  * 書籍が出るだけ)。travel は航空券・ホテル予約が混ざる。ここは提携が取れるまで
  * 公式サイトへの直リンクのままにする(無報酬だが、読者にとっては正しい行き先)。
  */
-const NO_AMAZON_CATEGORIES = new Set(["finance", "travel"]);
+export const NO_AMAZON_CATEGORIES = new Set(["finance", "travel"]);
+
+/**
+ * ★Amazon で売っていない offer の明示リスト (2026-08-21 追加)。
+ * VPN / レンタルサーバ / ドメインレジストラ / SaaS / セキュリティソフトは
+ * そもそも Amazon に商品が無く、公式サイトの直リンクが読者にとって正しい行き先。
+ * これらを ASIN 被覆の門番が「未対応」として数えると、恒久的に消えない警告になり、
+ * 本当に直すべき物販 offer が埋もれる。
+ *
+ * ★カテゴリ単位で切らない理由: tech カテゴリには SaaS と一緒に
+ *   ヘルメット・OBD2スキャナ・ハードウェアウォレット・モバイルルータのような
+ *   **実際に Amazon で売っている物** が同居している。カテゴリごと除外すると
+ *   それらの取りこぼしまで黙殺してしまうので、ID を1件ずつ列挙する。
+ */
+export const NON_AMAZON_OFFERS = new Set([
+  // VPN
+  "nordvpn", "expressvpn", "surfshark", "protonvpn",
+  // レンタルサーバ / クラウド
+  "sakura-rentalserver", "mixhost", "digitalocean-droplets", "vultr-cloud-compute",
+  "linode-shared-cpu", "hetzner-cloud-cpx", "aws-lightsail", "aws-ec2-cloud",
+  "google-cloud-compute-engine", "azure-virtual-machines", "digitalocean-app-platform",
+  "render-cloud", "kinsta-managed-wp", "wp-engine-managed-wp", "siteground-grow-big",
+  "bluehost-choice-plus", "cloudways-vultr-wp",
+  // ドメインレジストラ
+  "onamae-com", "porkbun-registrar", "namecheap-registrar", "cloudflare-registrar",
+  "godaddy-registrar", "google-domains-squarespace",
+  // サイトビルダー / EC プラットフォーム
+  "wix-builder", "webflow-builder", "shopify-builder", "carrd-single-page",
+  "shopify-advanced", "bigcommerce-pro", "woocommerce-wordpress", "wix-ecommerce-business",
+  // パスワード管理 / セキュリティ
+  "1password-families", "bitwarden-premium", "dashlane-premium",
+  "apple-passwords-icloud", "lastpass-premium", "windows-defender-free",
+  "kaspersky-total-security",
+  // 会計 / 給与
+  "xero-growing", "freshbooks-plus", "wave-free", "gusto-payroll-plus", "adp-run",
+  "paychex-flex", "onpay-payroll", "square-payroll",
+  // CRM / プロジェクト管理
+  "hubspot-crm-pro", "salesforce-sales-cloud-pro", "pipedrive-advanced",
+  "monday-sales-crm", "monday-work-management-pro", "clickup-business",
+  "notion-business", "trello-premium",
+  // メール配信
+  "mailchimp-standard", "convertkit-creator-pro", "klaviyo-email-sms",
+  "brevo-business", "activecampaign-plus",
+  // 人事 / コラボレーション
+  "bamboohr-essentials", "rippling-platform", "gusto-hr-plus", "workday-hcm",
+  "deel-hr", "zoom-business-pro", "microsoft-teams-business", "loom-business",
+]);
 
 /**
  * 訪問者の市場に対応する Amazon ネットワーク。未知の市場は US(Earn Globally)。
@@ -171,7 +228,50 @@ export function amazonSearchQuery(productName: string): string {
     .trim();
 }
 
-export function buildAffiliateUrl({ link, productName, market, category, env = defaultEnv }: BuildOptions): string {
+/**
+ * ★欧州/US の ASIN は共通プール (2026-08-21 カタログ実測)。
+ *   DE↔UK 960/960 = 100.0% 一致、DE↔US 940/949 = 99.1% 一致。
+ *   一方 JP↔US は 1,278/2,172 = 59% しか一致せず、JP は完全な別体系。
+ * よって amazon-fr / amazon-es / amazon-it のように **カタログに1本もリンクが無い**
+ * marketplace でも、DE→UK→US の順に既存 ASIN を借りて deep link を作れる。
+ * これをやらないと fr/es は 100% 検索URL(=商品ページに着地しない)のままになる。
+ * ★JP は絶対にプールに入れない。入れると 41% が 404 になる(過去に踏んだ不具合)。
+ */
+const EU_US_POOL: readonly AspNetwork[] = ["amazon-de", "amazon-uk", "amazon-us"] as const;
+
+/** プールから ASIN を借りて良い行き先か。JP/CN 等は対象外。 */
+export function usesEuUsAsinPool(network: AspNetwork): boolean {
+  return (
+    network.startsWith("amazon-") &&
+    network !== "amazon-jp" &&
+    AMAZON_HOSTS[network] !== undefined
+  );
+}
+
+const ASIN_RE = /^[A-Z0-9]{10}$/;
+
+/** リンクから実 ASIN を取り出す。productId が ASIN 形式でなければ rawUrl から拾う。 */
+export function asinOf(link: AspLink): string | null {
+  if (link.productId && ASIN_RE.test(link.productId)) return link.productId;
+  const m = link.rawUrl?.match(/\/(?:dp|gp\/product)\/([A-Z0-9]{10})/);
+  return m?.[1] ?? null;
+}
+
+/** 行き先の実リンクが無いとき、欧州/US プールから ASIN を持つ兄弟リンクを選ぶ。 */
+function poolSibling(
+  effectiveNetwork: AspNetwork,
+  siblings: readonly AspLink[] | undefined
+): AspLink | undefined {
+  if (!siblings || !usesEuUsAsinPool(effectiveNetwork)) return undefined;
+  for (const net of EU_US_POOL) {
+    if (net === effectiveNetwork) continue;
+    const hit = siblings.find((l) => l.network === net && asinOf(l));
+    if (hit) return hit;
+  }
+  return undefined;
+}
+
+export function buildAffiliateUrl({ link, productName, market, category, siblings, env = defaultEnv }: BuildOptions): string {
   // ★素の直リンクを自国 Amazon の検索へ寄せる (2026-08-13)。
   //   物販カテゴリの direct リンク約1,400本は、どこにも提携が無い公式サイトへの
   //   ただのリンクだった(クエリすら付いていない=計測もされない)。押されても1円に
@@ -186,50 +286,57 @@ export function buildAffiliateUrl({ link, productName, market, category, env = d
     return tag ? injectAmazonTag(url, tag) : url;
   }
 
-  // 共有リンクをロケール別 Amazon にリマップ。
-  // ★2026-08-10: amazon-de かつ markets に "EU" を含む商品だけをリマップ対象にしていた。
-  //   その結果、次の2クラスが自国以外の Amazon に誤送されていた:
-  //   ①markets:["EU"] だが network が amazon-us の商品(363件・productIdが商品名で
-  //     ASIN無し) → FR/ES/IT の読者に amazon.com の英語検索URLがそのまま出ていた
-  //     (ドイツ語どころか米国サイトへの誤送＝クリックはあるのに成約ゼロの主因)。
-  //   ②markets:["global"] の amazon-us 商品(約400件) → UK/CA/JP/FR/ES/IT
-  //     どの読者にも amazon.com が出ていた(rawUrl付きの実ASINだったため気づきにくかった)。
-  //   → network が amazon-de/amazon-us で、markets に "EU" か "global" を含む候補は
-  //     network を問わず訪問者の自国 Amazon にリマップする。
-  const isSharedAmazon = link.network === "amazon-de" || link.network === "amazon-us";
-  const isRemappable = link.markets.includes("EU") || link.markets.includes("global");
-  const remapped = isSharedAmazon && isRemappable && market ? LOCAL_REMAP[market] : undefined;
+  // ★2026-08-21 全面是正。従来のゲートは
+  //     network が amazon-de/amazon-us  かつ  markets に "EU"/"global" を含む
+  //   という二重の絞りで、実測 12,053本中リマップ対象は 2,101本(17%)しかなかった。
+  //   自国 Amazon に飛ばない残りの内訳(1マーケットあたり):
+  //     2,389 amazon-us markets=[US]      … isRemappable で落ちる
+  //     2,367 amazon-jp markets=[JP]      … isSharedAmazon で落ちる
+  //       965 amazon-uk markets=[UK]      … 同上
+  //       965 amazon-ca markets=[CA]      … 同上
+  //        20 amazon-jp markets に global … 同上
+  //        16 markets が小文字 "us"/"ca"  … 大文字比較にマッチせず素通り
+  //   → 「Amazon リンクなら市場に関わらず訪問者の Amazon に寄せる」に一本化する。
+  //     markets は行き先の絞りではなく在庫メモに過ぎず、リマップの可否判定には使わない。
+  const isAmazon = link.network.startsWith("amazon-");
+  const target = market ? LOCAL_REMAP[market] : undefined;
+  const remapped = isAmazon && target && target !== link.network ? target : undefined;
   const localNetwork = remapped ?? link.network;
   // 閉鎖済みアカウントは US(Earn Globally)へ退避する。詳細は RETIRED_AMAZON_NETWORKS。
   const retired = RETIRED_AMAZON_NETWORKS.has(localNetwork) ? ("amazon-us" as AspNetwork) : undefined;
   const effectiveNetwork = retired ?? localNetwork;
-  const rewritten = retired ?? remapped;
-  const effectiveLink = rewritten ? { ...link, network: effectiveNetwork, rawUrl: undefined } : link;
+  const rewritten = effectiveNetwork !== link.network;
 
   const tagEnvKey = AMAZON_TAG_ENV[effectiveNetwork];
   const amazonHost = AMAZON_HOSTS[effectiveNetwork];
 
   if (tagEnvKey && amazonHost) {
     const tag = env(tagEnvKey) ?? AMAZON_TAG_DEFAULTS[effectiveNetwork];
-    const q = encodeURIComponent(amazonSearchQuery(productName ?? effectiveLink.productId));
-    if (tag) {
-      // タグあり → 成果計上できるURLにタグを注入。
-      // ①rawUrl(dp/検索どちらでも)があれば最優先 ②productIdが実ASIN(英数10桁)なら/dpリンク
-      // ③それ以外(productIdが商品名)は /dp/名前=404 になるためタグ付き検索URLにフォールバック
-      // ★退避時(retired)は ASIN を使わない。ASIN は marketplace ごとに違い、
-      //   amazon.co.uk の ASIN を amazon.com/dp/ に付けると 404 になる
-      //   (localAmazonFallback が商品名検索を使っているのと同じ理由)。
-      let base;
-      if (!retired && effectiveLink.rawUrl) base = effectiveLink.rawUrl;
-      else if (!retired && /^[A-Z0-9]{10}$/.test(effectiveLink.productId)) base = `https://www.${amazonHost}/dp/${effectiveLink.productId}`;
-      else base = `https://www.${amazonHost}/s?k=${q}`;
-      return injectAmazonTag(base, tag);
-    }
-    // タグなし → ASIN URLは404リスクがあるため商品名検索にフォールバック
-    return `https://www.${amazonHost}/s?k=${q}`;
+    const q = encodeURIComponent(amazonSearchQuery(productName ?? link.productId));
+
+    // ★行き先マーケットで有効な deep link を選ぶ。
+    //   ASIN は marketplace ごとに違うので、元リンクの rawUrl/productId は
+    //   network を書き換えた瞬間に使えなくなる(貼ると 404)。
+    //   ただし同一商品の兄弟リンクに行き先マーケットのリンクがあれば実ASINが判るので、
+    //   検索に落とす前にそれを使う。
+    const source = rewritten
+      ? siblings?.find((l) => l.network === effectiveNetwork) ??
+        poolSibling(effectiveNetwork, siblings)
+      : link;
+    // rawUrl は「その network 自身のリンク」のときだけそのまま使える。
+    // pool 由来(別 marketplace のURL)なら ASIN だけ取り出して行き先ホストに載せ替える。
+    const sameNetwork = source?.network === effectiveNetwork;
+    const sourceAsin = source ? asinOf(source) : null;
+    const base =
+      (sameNetwork && source?.rawUrl) ||
+      (sourceAsin ? `https://www.${amazonHost}/dp/${sourceAsin}` : undefined) ||
+      `https://www.${amazonHost}/s?k=${q}`;
+
+    // タグなし(想定外)でも検索URLなら害が無いのでそのまま返す。
+    return tag ? injectAmazonTag(base, tag) : `https://www.${amazonHost}/s?k=${q}`;
   }
 
-  if (effectiveLink.rawUrl) return effectiveLink.rawUrl;
+  if (link.rawUrl) return link.rawUrl;
 
   const builders: Record<AspNetwork, (id: string, e: EnvLookup) => string> = {
     "amazon-jp": (id, e) => amazon(id, e("AFFILIATE_AMAZON_TAG_JP"), "amazon.co.jp"),
@@ -251,7 +358,7 @@ export function buildAffiliateUrl({ link, productName, market, category, env = d
     "direct": (id) => id, // Direct programs return the full URL as productId
   };
 
-  return builders[effectiveNetwork](effectiveLink.productId, env);
+  return builders[effectiveNetwork](link.productId, env);
 }
 
 function amazon(asin: string, tag: string | undefined, host: string): string {

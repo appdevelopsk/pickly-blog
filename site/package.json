@@ -27,7 +27,8 @@
     "audit:hardcoded": "node scripts/check-hardcoded-ui.mjs",
     "prebuild": "node scripts/check-hardcoded-ui.mjs",
     "check:output": "node scripts/check-built-output.mjs && node scripts/check-built-canonical.mjs",
-    "check:canonical": "node scripts/check-built-canonical.mjs"
+    "check:canonical": "node scripts/check-built-canonical.mjs",
+    "audit:localization": "tsx scripts/audit-affiliate-localization.ts"
   },
   "dependencies": {
     "fuse.js": "^7.4.2",
