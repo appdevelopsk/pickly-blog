@@ -842,6 +842,7 @@ export function getRelatedArticles(
   category: string,
   locale: string,
   limit = 4,
+  exclude: string[] = [],
 ): ArticleMeta[] {
   const loc = locale as ArticleMeta["locales"][number];
   const self = REGISTRY.find((a) => a.slug === slug);
@@ -853,8 +854,13 @@ export function getRelatedArticles(
   // 絞っているのに、ここは locales しか見ていなかったため、関連記事モジュールが
   // 未生成URLを参照して内部404を752本(134スラッグ・79は全ロケール)生んでいた。
   // 生成条件と完全に一致させる (2026-07-29)。
+  const excluded = new Set(exclude);
   const candidates = REGISTRY.filter(
-    (a) => a.slug !== slug && a.locales.includes(loc) && hasApprovedAds(a, locale),
+    (a) =>
+      a.slug !== slug &&
+      !excluded.has(a.slug) &&
+      a.locales.includes(loc) &&
+      hasApprovedAds(a, locale),
   );
 
   function score(a: ArticleMeta): number {
@@ -866,9 +872,64 @@ export function getRelatedArticles(
     return s;
   }
 
-  return candidates
+  // 近接度順に並べたうえで「同じクラスタばかり」にならないよう分散させる(2026-08-22)。
+  // 従来は上位N件をそのまま返していたため、本文中インライン(上位3)と末尾グリッド(4件)が
+  // ほぼ同じ集合になり、1記事から辿れるユニーク導線が4本しか無かった(pv/session 1.09の
+  // 直接原因)。同一カテゴリの連続を2件までに抑え、余りは近接度順で埋める。
+  const ranked = candidates
     .map((a) => ({ a, s: score(a) }))
     .sort((x, y) => y.s - x.s)
-    .slice(0, limit)
     .map((x) => x.a);
+
+  const picked: ArticleMeta[] = [];
+  const perCategory = new Map<string, number>();
+  const CATEGORY_CAP = 2;
+  for (const a of ranked) {
+    if (picked.length >= limit) break;
+    const n = perCategory.get(a.category) ?? 0;
+    if (n >= CATEGORY_CAP) continue;
+    perCategory.set(a.category, n + 1);
+    picked.push(a);
+  }
+  // カテゴリ上限で足りなくなった分は近接度順のまま補充(行き止まりを作らない)。
+  if (picked.length < limit) {
+    const already = new Set(picked.map((a) => a.slug));
+    for (const a of ranked) {
+      if (picked.length >= limit) break;
+      if (already.has(a.slug)) continue;
+      picked.push(a);
+    }
+  }
+  return picked;
+}
+
+/**
+ * 同カテゴリ内の前後記事（公開日の新しい順）。記事末の prev/next ナビ用。
+ * 「読み終えた次に行く先」が無い＝行き止まりが pv/session 1.09 の一因だったため、
+ * 関連記事とは独立した“連載的な”導線として追加（2026-08-22）。
+ * 関連記事と同じく hasApprovedAds を通し、未生成URLへは絶対にリンクしない。
+ */
+export function getAdjacentArticles(
+  slug: string,
+  category: string,
+  locale: string,
+): { prev: ArticleMeta | null; next: ArticleMeta | null } {
+  const loc = locale as ArticleMeta["locales"][number];
+  const list = REGISTRY.filter(
+    (a) =>
+      a.category === category &&
+      a.locales.includes(loc) &&
+      hasApprovedAds(a, locale),
+  ).sort((x, y) => {
+    if (x.publishedAt === y.publishedAt) return x.slug.localeCompare(y.slug);
+    return y.publishedAt.localeCompare(x.publishedAt);
+  });
+  const i = list.findIndex((a) => a.slug === slug);
+  if (i === -1) return { prev: null, next: null };
+  // 表示上は「新しい方＝prev（上）」「古い方＝next（下）」ではなく、
+  // 読者にとって自然な「前の記事＝1つ新しい / 次の記事＝1つ古い」で返す。
+  return {
+    prev: list[i - 1] ?? null,
+    next: list[i + 1] ?? null,
+  };
 }

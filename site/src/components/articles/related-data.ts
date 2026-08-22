@@ -38,8 +38,9 @@ export function getRelatedCards(
   category: string,
   locale: string,
   limit = 6,
+  exclude: string[] = [],
 ): RelatedCard[] {
-  return getRelatedArticles(slug, category, locale, limit).map((a) => ({
+  return getRelatedArticles(slug, category, locale, limit, exclude).map((a) => ({
     slug: a.slug,
     title: loadArticleCardMeta(a.slug, locale).title,
     thumb: getThumbnail(a, locale),

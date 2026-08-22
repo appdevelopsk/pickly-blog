@@ -18,7 +18,7 @@ const CATEGORIES = [
 export function SiteFooter() {
   const t = useTranslations();
   return (
-    <footer className="mt-16 bg-slate-900 py-12 text-sm text-slate-400">
+    <footer className="force-dark-surface mt-16 bg-slate-900 py-12 text-sm text-slate-400">
       <div className="mx-auto max-w-5xl px-4">
 
         {/* Newsletter */}

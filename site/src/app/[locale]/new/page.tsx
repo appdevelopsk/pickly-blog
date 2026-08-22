@@ -105,7 +105,7 @@ export default async function NewPage({ params }: Props) {
                     <CategoryPlaceholder category={a.category} title={title} />
                   </ArticleCardImage>
                   {rank && (
-                    <span className="absolute left-3 top-3 z-10 flex h-6 w-6 items-center justify-center rounded-full bg-green-500 text-[10px] font-black text-white shadow">
+                    <span className="absolute left-3 top-3 z-10 flex h-6 w-6 items-center justify-center rounded-full bg-green-500 text-[10px] font-black text-pure shadow">
                       NEW
                     </span>
                   )}

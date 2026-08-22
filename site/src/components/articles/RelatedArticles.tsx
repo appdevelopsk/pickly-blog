@@ -10,10 +10,17 @@ interface Props {
   slug: string;
   category: string;
   locale: string;
+  /**
+   * 本文中インライン導線で既に出したスラッグ。ここで除外しないと
+   * インライン3件と末尾グリッドが同じ集合になり、1記事から辿れる
+   * ユニーク導線が4本しか無くなる（2026-08-22 に発見・pv/session 1.09 の直接原因）。
+   */
+  exclude?: string[];
+  limit?: number;
 }
 
-export async function RelatedArticles({ slug, category, locale }: Props) {
-  const articles = getRelatedArticles(slug, category, locale);
+export async function RelatedArticles({ slug, category, locale, exclude = [], limit = 6 }: Props) {
+  const articles = getRelatedArticles(slug, category, locale, limit, exclude);
   if (articles.length === 0) return null;
 
   const t = await getTranslations();
@@ -24,7 +31,7 @@ export async function RelatedArticles({ slug, category, locale }: Props) {
   return (
     <section className="mt-16 border-t border-slate-200 pt-10">
       <h2 className="mb-6 text-xl font-black text-slate-900">{heading}</h2>
-      <ul className="grid gap-4 grid-cols-2 sm:grid-cols-4">
+      <ul className="grid gap-4 grid-cols-2 sm:grid-cols-3">
         {articles.map((a) => {
           const { title } = loadArticleCardMeta(a.slug, locale);
           const imgSrc = getThumbnail(a, locale);
@@ -34,6 +41,7 @@ export async function RelatedArticles({ slug, category, locale }: Props) {
             <li key={a.slug}>
               <Link
                 href={`/articles/${a.slug}`}
+                data-related="grid"
                 className="group flex flex-col rounded-xl border border-slate-200 overflow-hidden bg-white hover:border-brand-300 hover:shadow-md transition-all duration-200"
               >
                 <div

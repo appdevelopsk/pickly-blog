@@ -16,7 +16,7 @@ export function SisterSiteCta() {
       <a
         href="https://fxea365.com"
         rel="noopener"
-        className="mt-3 inline-flex w-fit items-center gap-1 rounded-md bg-emerald-600 px-3 py-1.5 text-sm font-medium text-white transition-colors hover:bg-emerald-700"
+        className="mt-3 inline-flex w-fit items-center gap-1 rounded-md bg-emerald-600 px-3 py-1.5 text-sm font-medium text-pure transition-colors hover:bg-emerald-700"
       >
         {t("financeCta.cta")} →
       </a>

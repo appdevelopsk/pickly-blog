@@ -188,7 +188,7 @@ export default async function GiftPage({ params }: Props) {
                           className={`h-full w-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}>
                           <CategoryPlaceholder category={a.category} title={title} />
                         </ArticleCardImage>
-                        <span className={`absolute left-2.5 top-2.5 flex h-7 w-7 items-center justify-center rounded-full text-xs font-black shadow ${isTop3 ? "bg-rose-500 text-white" : "bg-white/95 border border-slate-200 text-slate-700"}`}>
+                        <span className={`absolute left-2.5 top-2.5 flex h-7 w-7 items-center justify-center rounded-full text-xs font-black shadow ${isTop3 ? "bg-rose-500 text-pure" : "bg-white/95 border border-slate-200 text-slate-700"}`}>
                           {idx + 1}
                         </span>
                         {(offer && resolvePrice(offer, locale)) && (

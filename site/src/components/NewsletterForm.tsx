@@ -72,7 +72,7 @@ export function NewsletterForm({
             <button
               type="submit"
               disabled={state === "sending"}
-              className="rounded-md bg-emerald-500 px-4 py-2 text-sm font-bold text-white hover:bg-emerald-600 disabled:opacity-60"
+              className="rounded-md bg-emerald-500 px-4 py-2 text-sm font-bold text-pure hover:bg-emerald-600 disabled:opacity-60"
             >
               {state === "sending" ? t("sending") : t("button")}
             </button>

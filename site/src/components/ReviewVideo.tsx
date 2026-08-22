@@ -52,12 +52,12 @@ export function ReviewVideo({
       />
       <span className="absolute inset-0 flex items-center justify-center bg-black/20 group-hover:bg-black/30 transition-colors">
         <span className="flex h-12 w-16 items-center justify-center rounded-xl bg-[#FF0000]/90 shadow-lg">
-          <svg width="22" height="22" viewBox="0 0 24 24" fill="white" aria-hidden>
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="#fff" aria-hidden>
             <path d="M8 5v14l11-7z" />
           </svg>
         </span>
       </span>
-      <span className="absolute bottom-1 left-2 rounded bg-black/60 px-1.5 py-0.5 text-[10px] font-medium text-white">
+      <span className="absolute bottom-1 left-2 rounded bg-black/60 px-1.5 py-0.5 text-[10px] font-medium text-pure">
         ▶ {label}
       </span>
     </button>

@@ -68,8 +68,16 @@ export default async function LocaleLayout({ children, params }: Props) {
   const dir = getDirection(locale);
 
   return (
-    <html lang={locale} dir={dir}>
+    <html lang={locale} dir={dir} suppressHydrationWarning>
       <head>
+        {/* テーマ初期適用。output: export なのでサーバーは配色を知り得ず、
+            React マウント後に付けると必ず白フラッシュが出る。
+            レンダーブロッキングのインライン script で先に <html> へ .dark を載せる。 */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var t=localStorage.getItem("theme");if(t==="dark"||(!t&&window.matchMedia("(prefers-color-scheme: dark)").matches)){document.documentElement.classList.add("dark")}}catch(e){}})();`,
+          }}
+        />
         {/* AdSense アカウントは 2026-07-28 に無効トラフィックで無効化された。
             配信タグを残すと、無効化されたアカウントに対して閲覧・クロールのたびに
             広告リクエストが発生し続ける。再審査の申立てでも「全サイトからタグを撤去済み」

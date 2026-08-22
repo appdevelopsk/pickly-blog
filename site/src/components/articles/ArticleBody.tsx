@@ -7,6 +7,7 @@ import { NewsletterForm } from "@/components/NewsletterForm";
 import { Link } from "@/lib/i18n/navigation";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { resolvePrice } from "@/lib/affiliates/price";
+import { StickyOfferCta } from "./StickyOfferCta";
 
 function StarRating({ rating, label, size = "md" }: { rating: number; label?: string; size?: "sm" | "md" }) {
   const full = Math.floor(rating);
@@ -28,9 +29,11 @@ interface Props {
   content: ArticleContent;
   offers: AffiliateOffer[];
   related?: RelatedCard[];
+  /** デスクトップ右サイドバー用の関連カード（本文インラインとは別集合）。 */
+  sidebarRelated?: RelatedCard[];
 }
 
-export function ArticleBody({ meta, content, offers, related = [] }: Props) {
+export function ArticleBody({ meta, content, offers, related = [], sidebarRelated = [] }: Props) {
   // 開示文は「報酬が発生しうるリンクがある記事」にだけ出す。
   // Skimlinks(全リンクをクリック時にアフィリ化していた)は 2026-08-04 に
   // アカウント無効化が判明して撤去したため、network:"direct" のみの記事は
@@ -50,12 +53,35 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
     : [];
 
   // Section headings for TOC (non-comparison)
+  // 注意: id は content.sections の“未フィルタ”の添字でないと本文側
+  // （<section id={`section-${i}`}> ）とズレる。先に map してから filter する。
   const sectionToc = !isComparison
-    ? content.sections.filter((s) => s.heading).map((s, i) => ({
-        id: `section-${i}`,
-        label: s.heading!,
-      }))
+    ? content.sections
+        .map((s, i) => ({ id: `section-${i}`, label: s.heading ?? "" }))
+        .filter((s) => s.label)
     : [];
+
+  // 非comparison向けの要点3点。見出し + そのセクション冒頭1文を切り出す。
+  const keyTakeaways = !isComparison
+    ? content.sections
+        .map((s, i) => ({ s, i }))
+        .filter(({ s }) => s.heading)
+        .slice(0, 3)
+        .map(({ s, i }) => {
+          const first = s.paragraphs[0] ?? "";
+          const sentence = first.split(/(?<=[.!?。！？])\s*/)[0] ?? "";
+          return {
+            href: `#section-${i}`,
+            heading: s.heading!,
+            summary: sentence.length > 90 ? `${sentence.slice(0, 90)}…` : sentence,
+          };
+        })
+    : [];
+
+  // デスクトップ右サイドバー用の目次。comparison はランキング、それ以外は見出し。
+  const sidebarToc: { id: string; label: string }[] = isComparison
+    ? tocItems.map((i) => ({ id: i.id, label: i.label }))
+    : sectionToc;
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-8">
@@ -90,6 +116,28 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
           <div className="mt-4 flex items-start gap-3 rounded-xl bg-blue-50 border border-blue-200 px-4 py-3">
             <span className="mt-0.5 shrink-0 text-blue-500 text-lg leading-none">📋</span>
             <p className="text-sm leading-relaxed text-blue-900">{content.methodology}</p>
+          </div>
+        )}
+
+        {/* 非comparison(review/guide)にはBest Pickカードが無く、ファーストビューに
+            結論が出ない。既存の見出し+冒頭1文から3点だけ抽出して要点カードにする。
+            記事データの追加生成は不要（2026-08-22）。 */}
+        {!isComparison && keyTakeaways.length > 0 && (
+          <div className="mt-4 rounded-xl border border-slate-200 bg-white px-4 py-3 shadow-sm">
+            <p className="mb-2 text-xs font-bold uppercase tracking-wide text-brand-600">
+              {t("article.keyTakeaways")}
+            </p>
+            <ul className="space-y-1.5">
+              {keyTakeaways.map((k) => (
+                <li key={k.href} className="flex items-start gap-2 text-sm leading-relaxed text-slate-700">
+                  <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-brand-400" />
+                  <a href={k.href} className="hover:text-brand-600 hover:underline">
+                    <span className="font-semibold text-slate-900">{k.heading}</span>
+                    {k.summary && <span className="text-slate-600"> — {k.summary}</span>}
+                  </a>
+                </li>
+              ))}
+            </ul>
           </div>
         )}
       </header>
@@ -202,7 +250,7 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
                       <tr key={o.id} className={i === 0 ? "bg-amber-50/60" : i % 2 === 0 ? "bg-white" : "bg-slate-50/40"}>
                         <td className="px-4 py-3">
                           <div className="flex items-center gap-2">
-                            <span className={`flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-[10px] font-black text-white ${i === 0 ? "bg-amber-500" : "bg-brand-600"}`}>
+                            <span className={`flex h-5 w-5 shrink-0 items-center justify-center rounded-full text-[10px] font-black text-pure ${i === 0 ? "bg-amber-500" : "bg-brand-600"}`}>
                               {i + 1}
                             </span>
                             {(() => { const img = getOfferImageUrl(o); return img ? (
@@ -214,7 +262,7 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
                             </a>
                             {product?.grade && (
                               <span className={`shrink-0 rounded px-1.5 py-0.5 text-[10px] font-black ${
-                                product.grade === "A+" ? "bg-amber-500 text-white" :
+                                product.grade === "A+" ? "bg-amber-500 text-pure" :
                                 product.grade === "A"  ? "bg-brand-600 text-white" :
                                 "bg-slate-500 text-white"
                               }`}>
@@ -286,6 +334,7 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
                   <Link
                     key={r.slug}
                     href={`/articles/${r.slug}`}
+                    data-related="inline"
                     className="group flex w-44 shrink-0 flex-col overflow-hidden rounded-xl border border-slate-200 bg-white transition-all hover:border-brand-300 hover:shadow-md sm:w-auto"
                   >
                     <div className="relative aspect-[4/3] overflow-hidden bg-slate-50">
@@ -359,7 +408,7 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
                     )}
                     {product?.grade && (
                       <span className={`inline-flex items-center rounded-md px-2.5 py-0.5 text-sm font-black shadow-sm ${
-                        product.grade === "A+" ? "bg-amber-500 text-white" :
+                        product.grade === "A+" ? "bg-amber-500 text-pure" :
                         product.grade === "A"  ? "bg-brand-600 text-white" :
                         "bg-slate-500 text-white"
                       }`}>
@@ -599,14 +648,16 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
         {/* Sidebar (desktop only) */}
         <aside className="hidden lg:block w-64 shrink-0">
           <div className="sticky top-28 space-y-6">
-            {/* TOC sidebar */}
-            {tocItems.length > 1 && (
+            {/* TOC sidebar — 以前は comparison 記事（tocItems）専用で、guide/review では
+                デスクトップのサイドバーが著者カードと戻るリンクだけの“空箱”だった。
+                非 comparison も sectionToc で同じ目次を出す（2026-08-22）。 */}
+            {sidebarToc.length > 1 && (
               <div className="rounded-xl border border-slate-200 bg-white p-4">
                 <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-500">
-                  {t("article.rankingHeading")}
+                  {isComparison ? t("article.rankingHeading") : t("article.toc")}
                 </p>
                 <ol className="space-y-2">
-                  {tocItems.map((item, i) => (
+                  {sidebarToc.map((item, i) => (
                     <li key={item.id}>
                       <a
                         href={`#${item.id}`}
@@ -620,6 +671,42 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
                     </li>
                   ))}
                 </ol>
+              </div>
+            )}
+
+            {/* サイドバー回遊枠 — 本文を読み切らない層にも次の行き先を出す。
+                本文中インライン(上位3)とは別集合を page.tsx から受け取る。 */}
+            {sidebarRelated.length > 0 && (
+              <div className="rounded-xl border border-slate-200 bg-white p-4">
+                <p className="mb-3 text-xs font-bold uppercase tracking-widest text-slate-500">
+                  {t("article.related")}
+                </p>
+                <ul className="space-y-3">
+                  {sidebarRelated.map((r) => (
+                    <li key={r.slug}>
+                      <Link
+                        href={`/articles/${r.slug}`}
+                        data-related="sidebar"
+                        className="group flex items-start gap-2.5"
+                      >
+                        <span className="relative h-11 w-11 shrink-0 overflow-hidden rounded-lg bg-slate-50">
+                          {r.thumb ? (
+                            // eslint-disable-next-line @next/next/no-img-element
+                            <img
+                              src={r.thumb}
+                              alt=""
+                              loading="lazy"
+                              className="h-full w-full object-contain p-1"
+                            />
+                          ) : null}
+                        </span>
+                        <span className="line-clamp-3 text-[11px] font-medium leading-snug text-slate-700 transition-colors group-hover:text-brand-600">
+                          {r.title}
+                        </span>
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
               </div>
             )}
 
@@ -663,6 +750,15 @@ export function ArticleBody({ meta, content, offers, related = [] }: Props) {
           </div>
         </aside>
       </div>
+
+      {/* モバイル専用スティッキーCTA — 1位オファーを通り過ぎた読者に行動導線を残す。
+          desktop は右サイドバーがその役割を担うので lg 以上では非表示（2026-08-22）。 */}
+      {offers[0] && (
+        <StickyOfferCta
+          offer={offers[0]}
+          anchorId={isComparison ? `offer-${offers[0].id}` : "section-0"}
+        />
+      )}
     </div>
   );
 }

@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import { setRequestLocale } from "next-intl/server";
 import { LOCALES, DEFAULT_LOCALE, inferMarketFromLocale, isIndexedLocale } from "@/lib/i18n/locales";
-import { listArticles, getArticle } from "@/lib/articles/registry";
+import { listArticles, getArticle, getAdjacentArticles } from "@/lib/articles/registry";
 import { isDeindexed } from "@/lib/articles/deindexed-slugs";
 import { getVerifiedSpecs } from "@/lib/articles/specs";
 import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
@@ -9,6 +9,7 @@ import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { ArticleBody } from "@/components/articles/ArticleBody";
 import { ArticleCrossLinks } from "@/components/articles/ArticleCrossLinks";
 import { RelatedArticles } from "@/components/articles/RelatedArticles";
+import { ArticleNav } from "@/components/articles/ArticleNav";
 import { Comments } from "@/components/articles/Comments";
 import { getRelatedCards } from "@/components/articles/related-data";
 import { SisterSiteCta } from "@/components/SisterSiteCta";
@@ -274,8 +275,15 @@ export default async function ArticlePage({ params }: Props) {
     ],
   };
 
-  // 回遊導線用の関連ガイド（本文中インライン=上位3件 / 末尾グリッド=全件）を1回だけ解決。
-  const relatedCards = getRelatedCards(slug, meta.category, locale, 4);
+  // 回遊導線用の関連ガイド。インライン（本文中）と末尾グリッドは **別集合** にする。
+  // 以前は同じ4件を両方に流していたため、1記事から出るユニーク導線が4本しか無かった。
+  // インライン3 + グリッド6 + prev/next 2 = 最大11本まで拡張（2026-08-22）。
+  const inlineRelated = getRelatedCards(slug, meta.category, locale, 3);
+  const inlineSlugs = inlineRelated.map((c) => c.slug);
+  // デスクトップ右サイドバー用（インラインとも末尾グリッドとも別集合）。
+  const sidebarRelated = getRelatedCards(slug, meta.category, locale, 4, inlineSlugs);
+  const sidebarSlugs = sidebarRelated.map((c) => c.slug);
+  const { prev, next } = getAdjacentArticles(slug, meta.category, locale);
 
   return (
     <>
@@ -289,12 +297,25 @@ export default async function ArticlePage({ params }: Props) {
       {itemListSchema && (
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
       )}
-      <ArticleBody meta={meta} content={content} offers={offers} related={relatedCards} />
+      <ArticleBody
+        meta={meta}
+        content={content}
+        offers={offers}
+        related={inlineRelated}
+        sidebarRelated={sidebarRelated}
+      />
       <div className="mx-auto max-w-3xl px-4 sm:px-6">
         {meta.category === "finance" && <SisterSiteCta />}
         <ArticleCrossLinks slug={slug} category={meta.category} />
         <Comments slug={slug} locale={locale} />
-        <RelatedArticles slug={slug} category={meta.category} locale={locale} />
+        <RelatedArticles
+          slug={slug}
+          category={meta.category}
+          locale={locale}
+          exclude={[...inlineSlugs, ...sidebarSlugs]}
+          limit={6}
+        />
+        <ArticleNav prev={prev} next={next} locale={locale} />
       </div>
       <AffiliateClickTracker slug={slug} />
     </>
