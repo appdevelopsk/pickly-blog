@@ -24,21 +24,36 @@ import type { AspLink } from "../src/lib/affiliates/types";
 const EXPECT: Record<string, string> = {
   JP: "amazon.co.jp",
   US: "amazon.com",
-  UK: "amazon.co.uk",
-  CA: "amazon.ca",
   EU: "amazon.de",
-  FR: "amazon.fr",
-  ES: "amazon.es",
-  // amazon-it は却下・退避済みのため、IT の正解は Earn Globally の amazon.com。
+  // 2026-08-22: UK/FR/ES/CA/IT は RETIRED_AMAZON_NETWORKS で US へ集約したため、
+  // 正解は自国ホストではなく Earn Globally の amazon.com。読者は amazon.com から
+  // 自国 Amazon へ自動転送され、現地レートで US アカウントに計上される。
+  // 個別アカウントを復活させたらここも戻すこと(asp.ts の Set と対で管理)。
+  UK: "amazon.com",
+  CA: "amazon.com",
+  FR: "amazon.com",
+  ES: "amazon.com",
   IT: "amazon.com",
 };
 /** 期待ホストの逆引き(兄弟ASIN実在チェック用)。 */
 const NET: Record<string, string> = {
-  JP: "amazon-jp", US: "amazon-us", UK: "amazon-uk", CA: "amazon-ca",
-  EU: "amazon-de", FR: "amazon-fr", ES: "amazon-es", IT: "amazon-us",
+  JP: "amazon-jp", US: "amazon-us", EU: "amazon-de",
+  // 退避先が US なので、幽霊ASIN 判定も US の ASIN プールで裏を取る。
+  UK: "amazon-us", CA: "amazon-us", FR: "amazon-us", ES: "amazon-us", IT: "amazon-us",
 };
-/** 退役タグ。1本でも配信されていたら死にタグ。 */
-const RETIRED_TAGS = ["pickly06-21", "pickly091-20"];
+/**
+ * 退役タグ。1本でも配信されていたら死にタグ。
+ * 2026-08-22: US 集約に伴い UK/FR/ES/CA のタグも追加。これらが URL に現れたら
+ * RETIRED_AMAZON_NETWORKS の退避が効いていない(= 閾値未達で埋もれる)ということ。
+ */
+const RETIRED_TAGS = [
+  "pickly06-21",   // IT(却下)
+  "pickly091-20",  // US 旧仮ID(却下)
+  "pickly0fd-21",  // UK(US集約)
+  "picklyfr21-21", // FR(US集約)
+  "pickly07-21",   // ES(US集約)
+  "pickly056-20",  // CA(US集約)
+];
 
 let errors = 0;
 let warnings = 0;

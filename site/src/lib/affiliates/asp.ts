@@ -122,7 +122,31 @@ const AMAZON_TAG_DEFAULTS: Partial<Record<AspNetwork, string>> = {
  *   異議が通るまでは IT を退避し、イタリアの読者を US(Earn Globally)経由で
  *   amazon.it に送る。異議が通ったらこの Set から amazon-it を外すだけでよい。
  */
-const RETIRED_AMAZON_NETWORKS = new Set<AspNetwork>(["amazon-it"]);
+/**
+ * ■ 2026-08-22 UK/FR/ES/CA を Earn Globally(US)へ集約
+ *   Amazon が OneLink を畳み Global Earning に統合した。US アカウント1本で
+ *   US/CA/UK/DE/FR/IT/ES/NL/PL/SE の10か国を自動カバーし、読者は自国 Amazon に
+ *   転送され現地レートで US に計上される。支払い側も開通済み
+ *   (楽天銀行 ****260 が 10/10 countries に割り当て・Amazon 表示
+ *    "You are earning globally in your bank account(s) / No further action required.")。
+ *
+ *   個別タグのまま置くと不利になる:
+ *     - 支払いは国ごとに閾値到達が要る。8か国に薄く分散すると全部が未達で
+ *       1円も振り込まれない。US 集約なら1口に積み上がる。
+ *     - UK/FR/ES/CA は「180日以内に適格販売3件」の猶予中(未達なら閉鎖)。
+ *       閉鎖されれば死にタグ = 無計上。先に退避しておけば影響を受けない。
+ *     - 税務情報も国ごとに要る。US(+CA)だけ出せば済む形にする。
+ *
+ *   ★DE は本承認済み(pickly01-21)なので単独維持し、集約との比較対照に使う。
+ *   ★JP は Earn Globally 対象外。退避してはいけない(上記の警告を参照)。
+ */
+const RETIRED_AMAZON_NETWORKS = new Set<AspNetwork>([
+  "amazon-it",
+  "amazon-uk",
+  "amazon-fr",
+  "amazon-es",
+  "amazon-ca",
+]);
 
 // 訪問者の市場 → その市場の Amazon。
 // ★2026-08-21: "EU"/"US" を追加。従来これらのキーが無かったため EU(ドイツ語圏)と
