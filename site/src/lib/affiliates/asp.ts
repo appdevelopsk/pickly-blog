@@ -377,8 +377,29 @@ export function buildAffiliateUrl({ link, productName, market, category, sibling
     "direct": (id) => id, // Direct programs return the full URL as productId
   };
 
+  // ★env 未設定のネットワークは PENDING を埋めた壊れたURLを読者に出してしまう。
+  //   計測できない上にクリックが死ぬので、公式サイト(direct 兄弟)へ退避する。
+  //   退避先が無いときだけ従来どおり組み立てる(リンクを消すと本文の導線が切れるため)。
+  const requiredEnv = NETWORK_REQUIRED_ENV[effectiveNetwork];
+  if (requiredEnv && !env(requiredEnv)) {
+    const fallback = siblings?.find((l) => l.network === "direct" && l.productId);
+    if (fallback) return fallback.rawUrl ?? fallback.productId;
+  }
+
   return builders[effectiveNetwork](link.productId, env);
 }
+
+// 各ネットワークが機能するために必須の env。未設定なら direct へ退避する。
+const NETWORK_REQUIRED_ENV: Partial<Record<AspNetwork, string>> = {
+  "a8": "AFFILIATE_A8_SID",
+  "moshimo": "AFFILIATE_MOSHIMO_SID",
+  "valuecommerce": "AFFILIATE_VALUECOMMERCE_SID",
+  "rakuten-affiliate": "AFFILIATE_RAKUTEN_AFFILIATE_ID",
+  "shareasale": "AFFILIATE_SHAREASALE_USER_ID",
+  "cj": "AFFILIATE_CJ_PID",
+  "impact": "AFFILIATE_IMPACT_CAMPAIGN_ID",
+  "awin": "AFFILIATE_AWIN_PUBLISHER_ID",
+};
 
 function amazon(asin: string, tag: string | undefined, host: string): string {
   const t = tag ?? "PENDING";

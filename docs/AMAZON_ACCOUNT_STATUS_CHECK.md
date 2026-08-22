@@ -29,7 +29,7 @@
 | amazon-jp | `pickly-22` | amazon.co.jp | 稼働中 | 全ロケール |
 | amazon-de | `pickly01-21` | amazon.de | 本承認済み | ja/it/es/fr 以外 |
 | amazon-uk | `pickly0fd-21` | amazon.co.uk | **要確認(仮・3件条件)** | 全ロケール 965本 |
-| amazon-ca | `pickly056-20` | amazon.ca | **要確認(仮・3件条件)** 税務情報未提出 | 全ロケール 965本 |
+| amazon-ca | `pickly056-20` | amazon.ca | 稼働中・税務情報 **提出済(2026-08-21 Completed 実確認)** | 全ロケール 965本 |
 | amazon-fr | `picklyfr21-21` | amazon.fr | **要確認(仮・3件条件)** | fr のみ 3,646本 |
 | amazon-es | `pickly07-21` | amazon.es | **要確認(仮・3件条件)** | es のみ 3,646本 |
 | amazon-it | `pickly06-21` | amazon.it | 却下・**退避済み** | 0本 |
