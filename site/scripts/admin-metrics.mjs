@@ -350,6 +350,57 @@ function collectScrapedAsp() {
   return latest;
 }
 
+// ── 収益の推移 ───────────────────────────────────────────────────────────────
+/**
+ * 「直近30日累計の報酬」が日を追ってどう動いたかの系列。
+ *
+ * ★これは日次売上ではない。CSVの各行は、その日にスクレイプした時点の
+ *   『直近30日累計』のスナップショットである。日次に見せると桁を誤読する。
+ *
+ * ★市場は日替わりローテーションで、各国は6日に1度しか行が増えない。
+ *   その日に無い国を0として足すと、累計のはずのグラフが毎日ガタガタ落ちる。
+ *   なので市場ごとに「最後に分かっている値」を持ち越して合算する。
+ *   持ち越しなので、増分が0の日は「稼げなかった日」ではなく
+ *   「その国を見ていない日」でもある。増分の棒はそのつもりで読む。
+ */
+function collectRevenueDaily(fx, jpy) {
+  if (!existsSync(AMAZON_CSV)) return [];
+  const lines = readFileSync(AMAZON_CSV, "utf-8").trim().split("\n");
+  const head = lines[0].split(",");
+  const rows = lines.slice(1)
+    .map((l) => Object.fromEntries(l.split(",").map((v, i) => [head[i], v])))
+    .filter((r) => r.date && r.account);
+  if (!rows.length) return [];
+
+  // 日付 -> その日に更新された market の累計報酬(現地通貨)
+  const byDate = new Map();
+  for (const r of rows) {
+    const earn = (Number(r.commissions30d) || 0) + (Number(r.bounties30d) || 0);
+    if (!byDate.has(r.date)) byDate.set(r.date, new Map());
+    // 同じ日に同じ market が二度出たら後の行を採る(再実行の上書き)
+    byDate.get(r.date).set(r.account, earn);
+  }
+
+  const carried = new Map(); // market -> 最後に分かっている累計(現地通貨)
+  const out = [];
+  let prevJpy = null;
+  for (const date of [...byDate.keys()].sort()) {
+    for (const [market, earn] of byDate.get(date)) carried.set(market, earn);
+    let total = 0;
+    for (const [market, earn] of carried) total += jpy(earn, MARKET_CURRENCY[market] ?? "USD");
+    total = round(total, 1);
+    out.push({
+      date,
+      cumulativeJpy: total,
+      // 初日は「前日」が無い。0からの立ち上がりを増分として描くと嘘になるので null。
+      deltaJpy: prevJpy == null ? null : round(total - prevJpy, 1),
+      markets: [...byDate.get(date).keys()].sort(),
+    });
+    prevJpy = total;
+  }
+  return out;
+}
+
 // ── 他ASP ────────────────────────────────────────────────────────────────────
 function collectAsp() {
   try {
@@ -540,6 +591,7 @@ async function main() {
       totalSources: revenueRows.length,
     },
     revenue: revenueRows,
+    revenueDaily: collectRevenueDaily(fx, jpy),
     logins: collectLogins(),
     funnel: buildFunnel(ga, amazon),
     articles: estimateByArticle(ga, amazon, fx),

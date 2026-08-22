@@ -23609,6 +23609,23 @@ export function getOffersFor(
  * global market (ko/ar/hi/id/th/vi/tr/ru) は US リンクを最終フォールバックとして使う。
  * Amazon.com は国際配送・転送サービス経由で全世界から購入可能なため許容範囲。
  */
+/**
+ * 承認フィルタ + 「direct を最後に回す」並べ替え (2026-08-22)。
+ *
+ * pickLink の find() も pickAllLinks の add() も配列順をそのまま信じるので、
+ * network:"direct"(ブランド公式への素リンク) が先頭にあると、同じ配列に
+ * amazon-* が入っていても direct が先に勝つ。ikea-sundvik-toddler-bed は
+ * amazon-us / amazon-jp を持っているのに ikea.com への素リンクが配信され、
+ * 押されても1円にならなかった。
+ * direct しか無い商品は従来どおり direct が選ばれる(順序が変わるだけ)。
+ */
+function orderedCandidates(offer: AffiliateOffer, approved: boolean): AspLink[] {
+  return offer.links
+    .filter((l) => (approved ? l.approved : true))
+    .slice()
+    .sort((a, b) => Number(a.network === "direct") - Number(b.network === "direct"));
+}
+
 export function pickLink(
   offer: AffiliateOffer,
   market: Market,
@@ -23620,23 +23637,43 @@ export function pickLink(
   // 数えると静的書き出しが 25,012 ファイルに増え、Cloudflare Pages の
   // 20,000 上限を超えてデプロイが落ちる(2026-08-05 に実際に落ちた)。
   const allowFallback = opts.allowFallback ?? true;
-  const candidates = offer.links.filter((l) => (approved ? l.approved : true));
+  const candidates = orderedCandidates(offer, approved);
   // FR/ES/IT は EU フォールバック（amazon-de が amazon-fr/es/it にリマップされる）
   const euFallback = (["FR", "ES", "IT"] as Market[]).includes(market) ? "EU" : null;
-  return (
+  const hit =
     candidates.find((l) => l.markets.includes(market)) ??
     (euFallback ? candidates.find((l) => l.markets.includes(euFallback)) : null) ??
     candidates.find((l) => l.markets.includes("global")) ??
     (market === "global" ? candidates.find((l) => l.markets.includes("US")) : null) ??
-    (allowFallback ? localAmazonFallback(offer, market, candidates) : null) ??
-    null
-  );
+    null;
+
+  // ★direct しか無い物販は Amazon 検索に寄せる (2026-08-22)。
+  //   orderedCandidates で direct は末尾に落ちているので、ここで hit が
+  //   direct ということは「提携リンクが1本も無い」を意味する。
+  //   従来は hit があった時点で確定していたため localAmazonFallback に
+  //   到達せず、rogaine.com / outwardhound.com のような素リンクが
+  //   そのまま配信されていた(押されても1円にならない)。
+  //   PHYSICAL_CATEGORIES 外(finance/travel)は fallback 側が null を返すので、
+  //   marcus.com のような口座リンクは direct のまま残る。
+  if (allowFallback && (!hit || hit.network === "direct")) {
+    const fb = localAmazonFallback(offer, market, candidates);
+    if (fb) return fb;
+  }
+  return hit;
 }
 
-// Amazon で実際に買えるカテゴリ。ここに無いもの(finance / travel)は
+// Amazon で実際に買えるカテゴリ。ここに無いもの(finance)は
 // 提携が無くても Amazon 検索へ送らない。
+//
+// ★travel を追加 (2026-08-22)。
+//   「travel = 航空券・ホテル予約」という想定でここから外していたが、
+//   実際の travel offer 99件を数えたところ**予約系は1件も無く**、
+//   全部がバックパック・スーツケース・テント・GoPro・ヘアドライヤーの物販だった
+//   (うち53件は既に amazon-* 提携が付いている)。
+//   カテゴリ名から中身を推測した誤りで、残り46件の direct 唯一リンクが
+//   報酬にならないまま配信されていた(potterybarn.com のガーメントバッグ等)。
 const PHYSICAL_CATEGORIES = new Set([
-  "tech", "home", "beauty", "fashion", "fitness", "food", "parenting", "pets",
+  "tech", "home", "beauty", "fashion", "fitness", "food", "parenting", "pets", "travel",
 ]);
 
 /** market → その国の Amazon ネットワーク。EU は amazon-de（EU_REMAP が FR/ES/IT に振り直す）。 */
@@ -23700,7 +23737,7 @@ export function pickAllLinks(
   opts: { onlyApproved?: boolean } = {},
 ): AspLink[] {
   const approved = opts.onlyApproved ?? true;
-  const candidates = offer.links.filter((l) => (approved ? l.approved : true));
+  const candidates = orderedCandidates(offer, approved);
   const euFallback = (["FR", "ES", "IT"] as Market[]).includes(market) ? ("EU" as Market) : null;
 
   const result: AspLink[] = [];

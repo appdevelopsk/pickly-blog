@@ -24,6 +24,8 @@ type Metrics = {
   fx: { rates: Record<string, number>; date: string | null; source: string };
   profit: { revenueJpy: number; profitJpy: number; connectedSources: number; totalSources: number };
   revenue: RevenueRow[];
+  /** 「直近30日累計」のスナップショット系列。日次売上ではない。 */
+  revenueDaily?: { date: string; cumulativeJpy: number; deltaJpy: number | null; markets: string[] }[];
   logins?: LoginRow[];
   funnel: { steps: FunnelStep[]; leak: string | null };
   articles: ArticleRow[];
@@ -105,6 +107,79 @@ function Funnel({ steps, leak }: { steps: FunnelStep[]; leak: string | null }) {
           ⚠ {leak}
         </p>
       )}
+    </div>
+  );
+}
+
+/**
+ * 収益の推移。累計の折れ線＋日ごとの増分の棒を重ねる。
+ *
+ * ★縦軸は累計のみ。増分の棒は同じ軸で描くと1本も見えないので、
+ *   自分の最大値でスケールし、軸の目盛りは付けない(付けると累計と読み違える)。
+ * ★取得は市場ごとの日替わりローテーションなので、増分0の日は
+ *   「稼げなかった」ではなく「その国を見ていない」ことがある。棒は0でも欠測扱いにしない。
+ * ★Amazon は遡って取り消すので増分は負になりうる。0基準線を必ず描く。
+ */
+function RevenueTrend({ daily }: { daily: { date: string; cumulativeJpy: number; deltaJpy: number | null; markets: string[] }[] }) {
+  const [hover, setHover] = useState<number | null>(null);
+  const W = 720, H = 200, PAD = { t: 12, r: 12, b: 24, l: 52 };
+  if (daily.length < 2) return <p className="text-sm text-[var(--pk-muted)]">推移を描くにはスナップショットが2日分以上要ります。</p>;
+
+  const nice = (v: number) => {
+    const e = 10 ** Math.floor(Math.log10(Math.max(v, 1)));
+    return [1, 2, 5, 10].map((m) => m * e).find((c) => c >= v) ?? 10 * e;
+  };
+  const top = nice(Math.max(...daily.map((d) => d.cumulativeJpy), 1));
+  const deltas = daily.map((d) => d.deltaJpy ?? 0);
+  const dMax = Math.max(...deltas.map(Math.abs), 1);
+
+  const plotW = W - PAD.l - PAD.r, plotH = H - PAD.t - PAD.b;
+  const x = (i: number) => PAD.l + (i / (daily.length - 1)) * plotW;
+  const y = (v: number) => PAD.t + (1 - v / top) * plotH;
+  // 棒は下半分だけを使う。折れ線と食い合わないようにする。
+  const barBase = PAD.t + plotH;
+  const barH = (v: number) => (Math.abs(v) / dMax) * (plotH * 0.45);
+  const bw = Math.max(4, Math.min(22, (plotW / daily.length) * 0.5));
+
+  const path = daily.map((d, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(d.cumulativeJpy).toFixed(1)}`).join(" ");
+  const active = hover != null ? daily[hover] : null;
+
+  return (
+    <div className="relative">
+      <svg viewBox={`0 0 ${W} ${H}`} className="w-full" role="img" aria-label="収益の推移">
+        {[0, top / 2, top].map((v) => (
+          <g key={v}>
+            <line x1={PAD.l} x2={W - PAD.r} y1={y(v)} y2={y(v)} stroke="var(--pk-grid)" strokeWidth="1" />
+            <text x={PAD.l - 6} y={y(v) + 4} textAnchor="end" fontSize="11" fill="var(--pk-muted)">{yen(v)}</text>
+          </g>
+        ))}
+        {daily.map((d, i) => {
+          const v = d.deltaJpy;
+          if (v == null || v === 0) return null;
+          const h = barH(v);
+          return (
+            <rect
+              key={d.date} x={x(i) - bw / 2} y={v >= 0 ? barBase - h : barBase} width={bw} height={h}
+              fill={v >= 0 ? "var(--pk-accent)" : "var(--pk-critical)"} opacity={hover == null || hover === i ? 0.28 : 0.14}
+            />
+          );
+        })}
+        <path d={path} fill="none" stroke={ACCENT} strokeWidth="2" strokeLinejoin="round" strokeLinecap="round" />
+        {active && <circle cx={x(hover!)} cy={y(active.cumulativeJpy)} r="4.5" fill={ACCENT} stroke="var(--pk-card)" strokeWidth="2" />}
+        <text x={PAD.l} y={H - 6} fontSize="11" fill="var(--pk-muted)">{daily[0]!.date}</text>
+        <text x={W - PAD.r} y={H - 6} textAnchor="end" fontSize="11" fill="var(--pk-muted)">{daily[daily.length - 1]!.date}</text>
+        {daily.map((d, i) => (
+          <rect
+            key={`hit-${d.date}`} x={x(i) - 10} y={PAD.t} width="20" height={plotH}
+            fill="transparent" onMouseEnter={() => setHover(i)} onMouseLeave={() => setHover(null)}
+          />
+        ))}
+      </svg>
+      <p className="mt-1 h-4 text-xs text-[var(--pk-muted)]">
+        {active
+          ? `${active.date} — 累計 ${yen(active.cumulativeJpy)}${active.deltaJpy == null ? "" : ` / 前回比 ${active.deltaJpy >= 0 ? "+" : ""}${yen(active.deltaJpy)}`}・この日取得した market: ${active.markets.join(", ").toUpperCase()}`
+          : "薄い棒は前回スナップショットからの増分。赤は取り消しによる減少。"}
+      </p>
     </div>
   );
 }
@@ -346,6 +421,15 @@ export default function Dashboard() {
 
         <Card title="クリックの行き先" sub="赤い棒は1円にもならない行き先。棒の長さだけ見ると、無報酬の先が一番稼いでいるように見える。">
           <BarList rows={domainRows} />
+        </Card>
+
+        <Card
+          title="収益の推移"
+          sub="縦軸は『直近30日累計』の円換算で、日々の売上ではない。取得は国ごとの持ち回りなので、新しい国が初めて取れた日は跳ね上がる（本当にその日稼いだわけではない）。"
+        >
+          {data.revenueDaily && data.revenueDaily.length >= 2
+            ? <RevenueTrend daily={data.revenueDaily} />
+            : <p className="text-sm text-[var(--pk-muted)]">推移を描くにはスナップショットが2日分以上要ります。</p>}
         </Card>
 
         <Card title="日次セッション" sub={`実流入 ${num(data.traffic.realSessions)}（本人分 ${num(data.traffic.selfSessions)} を除外）・平均滞在 ${data.traffic.avgEngagementSec}秒`}>
