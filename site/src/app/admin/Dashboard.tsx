@@ -48,6 +48,25 @@ const yen = (n: number | null | undefined) =>
 const num = (n: number | null | undefined) =>
   n == null ? "—" : n.toLocaleString("ja-JP");
 
+// 浮動小数の桁ノイズを落とすだけ。表示は yen() が Math.round するので実質丸め二重だが、
+// 差分を先に丸めておかないと -0.0000001 が「減った」扱いで赤くなる。
+const round1 = (n: number) => Math.round(n * 10) / 10;
+
+/**
+ * 増減の表示。null は「比較できるだけの観測がまだない」で、0(横ばい)とは意味が違う。
+ * 混同すると「稼げていない」と読み違えるので、必ず — と ±¥0 を描き分ける。
+ */
+function Delta({ v }: { v: number | null }) {
+  if (v == null) return <span className="text-[var(--pk-muted)]">—</span>;
+  if (Math.round(v) === 0) return <span className="text-[var(--pk-muted)]">±¥0</span>;
+  const up = v > 0;
+  return (
+    <span style={{ color: up ? "#2f8f4e" : "#c0392b" }}>
+      {up ? "+" : "−"}{yen(Math.abs(v))}
+    </span>
+  );
+}
+
 /* ── 部品 ──────────────────────────────────────────────────────────────── */
 
 function Card({ title, children, sub }: { title: string; sub?: string; children: React.ReactNode }) {
@@ -192,8 +211,15 @@ function RevenueTrend({ daily }: { daily: { date: string; cumulativeJpy: number;
  * ★取得は国ごとの持ち回りなので、ある国が初めて取れた日は0から跳ね上がる。
  *   これは実績ではなく観測の開始。まだ一度も取れていない国は線を引かない(0で埋めない)。
  * ★凡例は最終日の金額の降順。伸びている国を上から読めるようにする。
+ *
+ * ★前日比 / 7日前比 / 1ヶ月前比は「暦の日付」ではなく**その国が実際に取得された日**を
+ *   基準に取る。取得は国ごとの持ち回りなので、暦どおりに1日前と比べると、
+ *   再取得していない国は必ず ±¥0 になり「伸びていない」と誤読させる。
+ *   n本前の実観測値と比べ、そこまで遡れない国は数字を作らず「—」を出す。
+ * ★縦軸が30日累計なので、この差分は「新規に発生した収益 − 30日窓から抜けた収益」。
+ *   純粋な期間売上ではない。
  */
-function RevenueByMarket({ daily }: { daily: { date: string; byMarket?: Record<string, number> }[] }) {
+function RevenueByMarket({ daily }: { daily: { date: string; markets: string[]; byMarket?: Record<string, number> }[] }) {
   const [hover, setHover] = useState<number | null>(null);
   const W = 720, H = 220, PAD = { t: 12, r: 12, b: 24, l: 52 };
 
@@ -210,6 +236,26 @@ function RevenueByMarket({ daily }: { daily: { date: string; byMarket?: Record<s
     return 0;
   };
   const ordered = markets.sort((a, b) => lastOf(b) - lastOf(a));
+
+  // その market が実際に取得された日だけを、新しい順に並べた実観測値の列。
+  // byMarket は持ち越し値なので使えない。markets[] がその日の実取得を示す唯一の証拠。
+  const observedOf = (m: string) => {
+    const vals: { date: string; v: number }[] = [];
+    for (let i = daily.length - 1; i >= 0; i--) {
+      const d = daily[i]!;
+      if (!d.markets?.includes(m)) continue;
+      const v = d.byMarket?.[m];
+      if (v != null) vals.push({ date: d.date, v });
+    }
+    return vals;
+  };
+
+  // 直近の実観測値と、そこから n 本前の実観測値の差。遡れなければ null(「—」)。
+  const deltaOf = (m: string, back: number) => {
+    const o = observedOf(m);
+    if (o.length <= back) return null;
+    return round1(o[0]!.v - o[back]!.v);
+  };
 
   const nice = (v: number) => {
     const e = 10 ** Math.floor(Math.log10(Math.max(v, 1)));
@@ -268,17 +314,39 @@ function RevenueByMarket({ daily }: { daily: { date: string; byMarket?: Record<s
           />
         ))}
       </svg>
-      <ul className="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-xs">
-        {ordered.map((m) => (
-          <li key={m} className="flex items-center gap-1.5 text-[var(--pk-muted)]">
-            <span className="inline-block h-2 w-2 rounded-full" style={{ background: colorOf(m) }} />
-            <span className="text-[var(--pk-ink)]">{m.toUpperCase()}</span>
-            <span>{yen(active?.byMarket?.[m] ?? lastOf(m))}</span>
-          </li>
-        ))}
-      </ul>
-      <p className="mt-1 h-4 text-xs text-[var(--pk-muted)]">
-        {active ? `${active.date} 時点の各国の直近30日累計` : "凡例の金額は最終日の値。線が途切れずに横ばいの区間は、その国をまだ再取得していない。"}
+      <table className="mt-3 w-full text-xs">
+        <thead>
+          <tr className="text-[var(--pk-muted)]">
+            <th className="py-1 text-left font-normal">国</th>
+            <th className="py-1 text-right font-normal">30日累計</th>
+            <th className="py-1 text-right font-normal">前回取得比</th>
+            <th className="py-1 text-right font-normal">7回前比</th>
+            <th className="py-1 text-right font-normal">1ヶ月前比</th>
+          </tr>
+        </thead>
+        <tbody>
+          {ordered.map((m) => (
+              <tr key={m} className="border-t border-[var(--pk-grid)]">
+                <td className="py-1">
+                  <span className="flex items-center gap-1.5">
+                    <span className="inline-block h-2 w-2 shrink-0 rounded-full" style={{ background: colorOf(m) }} />
+                    <span className="text-[var(--pk-ink)]">{m.toUpperCase()}</span>
+                  </span>
+                </td>
+                <td className="py-1 text-right text-[var(--pk-ink)] tabular-nums">
+                  {yen(active?.byMarket?.[m] ?? lastOf(m))}
+                </td>
+                <td className="py-1 text-right tabular-nums"><Delta v={deltaOf(m, 1)} /></td>
+                <td className="py-1 text-right tabular-nums"><Delta v={deltaOf(m, 7)} /></td>
+                <td className="py-1 text-right tabular-nums"><Delta v={deltaOf(m, 30)} /></td>
+              </tr>
+          ))}
+        </tbody>
+      </table>
+      <p className="mt-1 text-xs text-[var(--pk-muted)]">
+        {active
+          ? `${active.date} 時点の各国の直近30日累計`
+          : "金額は最終日の値。比較は暦日ではなく「その国が実際に取得された回」を基準にした差分で、遡れない国は — と出す(0とは意味が違う)。"}
       </p>
     </div>
   );
