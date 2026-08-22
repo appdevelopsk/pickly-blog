@@ -389,12 +389,19 @@ function collectRevenueDaily(fx, jpy) {
     let total = 0;
     for (const [market, earn] of carried) total += jpy(earn, MARKET_CURRENCY[market] ?? "USD");
     total = round(total, 1);
+    // 国別の内訳。合計と同じく「その時点で分かっている最後の値」を全 market ぶん積む。
+    // 合計だけ見ていると、どの国が伸ばしているのか(あるいは1国が牽引しているだけか)が分からない。
+    const byMarket = {};
+    for (const [market, earn] of carried) {
+      byMarket[market] = round(jpy(earn, MARKET_CURRENCY[market] ?? "USD"), 1);
+    }
     out.push({
       date,
       cumulativeJpy: total,
       // 初日は「前日」が無い。0からの立ち上がりを増分として描くと嘘になるので null。
       deltaJpy: prevJpy == null ? null : round(total - prevJpy, 1),
       markets: [...byDate.get(date).keys()].sort(),
+      byMarket,
     });
     prevJpy = total;
   }

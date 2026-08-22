@@ -25,7 +25,7 @@ type Metrics = {
   profit: { revenueJpy: number; profitJpy: number; connectedSources: number; totalSources: number };
   revenue: RevenueRow[];
   /** 「直近30日累計」のスナップショット系列。日次売上ではない。 */
-  revenueDaily?: { date: string; cumulativeJpy: number; deltaJpy: number | null; markets: string[] }[];
+  revenueDaily?: { date: string; cumulativeJpy: number; deltaJpy: number | null; markets: string[]; byMarket?: Record<string, number> }[];
   logins?: LoginRow[];
   funnel: { steps: FunnelStep[]; leak: string | null };
   articles: ArticleRow[];
@@ -179,6 +179,106 @@ function RevenueTrend({ daily }: { daily: { date: string; cumulativeJpy: number;
         {active
           ? `${active.date} — 累計 ${yen(active.cumulativeJpy)}${active.deltaJpy == null ? "" : ` / 前回比 ${active.deltaJpy >= 0 ? "+" : ""}${yen(active.deltaJpy)}`}・この日取得した market: ${active.markets.join(", ").toUpperCase()}`
           : "薄い棒は前回スナップショットからの増分。赤は取り消しによる減少。"}
+      </p>
+    </div>
+  );
+}
+
+/**
+ * 国別(Amazon marketplace 別)の収益推移。合計だけだと1国が牽引しているのか
+ * 全体が伸びているのかが分からないので、market ごとに折れ線を分ける。
+ *
+ * ★縦軸は合計と同じく「直近30日累計の円換算」。日々の売上ではない。
+ * ★取得は国ごとの持ち回りなので、ある国が初めて取れた日は0から跳ね上がる。
+ *   これは実績ではなく観測の開始。まだ一度も取れていない国は線を引かない(0で埋めない)。
+ * ★凡例は最終日の金額の降順。伸びている国を上から読めるようにする。
+ */
+function RevenueByMarket({ daily }: { daily: { date: string; byMarket?: Record<string, number> }[] }) {
+  const [hover, setHover] = useState<number | null>(null);
+  const W = 720, H = 220, PAD = { t: 12, r: 12, b: 24, l: 52 };
+
+  const markets = [...new Set(daily.flatMap((d) => Object.keys(d.byMarket ?? {})))];
+  if (markets.length === 0) {
+    return <p className="text-sm text-[var(--pk-muted)]">国別の内訳はまだスナップショットにありません。</p>;
+  }
+
+  const lastOf = (m: string) => {
+    for (let i = daily.length - 1; i >= 0; i--) {
+      const v = daily[i]!.byMarket?.[m];
+      if (v != null) return v;
+    }
+    return 0;
+  };
+  const ordered = markets.sort((a, b) => lastOf(b) - lastOf(a));
+
+  const nice = (v: number) => {
+    const e = 10 ** Math.floor(Math.log10(Math.max(v, 1)));
+    return [1, 2, 5, 10].map((m) => m * e).find((c) => c >= v) ?? 10 * e;
+  };
+  const top = nice(Math.max(...daily.flatMap((d) => Object.values(d.byMarket ?? {})), 1));
+
+  const plotW = W - PAD.l - PAD.r, plotH = H - PAD.t - PAD.b;
+  const x = (i: number) => PAD.l + (i / Math.max(daily.length - 1, 1)) * plotW;
+  const y = (v: number) => PAD.t + (1 - v / top) * plotH;
+
+  // 色は8市場ぶん。凡例と線で同じ色を引くためのただの固定パレット。
+  const COLORS = ["#e0724f", "#4f8fe0", "#5aa96b", "#c05fb0", "#c9a227", "#4fb8c0", "#8d7be0", "#9a6b52"];
+  const colorOf = (m: string) => COLORS[ordered.indexOf(m) % COLORS.length]!;
+
+  // 欠測日は線をつなぐ(観測していないだけで、値が0に落ちたわけではない)。
+  const pathOf = (m: string) => {
+    const pts: string[] = [];
+    daily.forEach((d, i) => {
+      const v = d.byMarket?.[m];
+      if (v == null) return;
+      pts.push(`${pts.length ? "L" : "M"}${x(i).toFixed(1)},${y(v).toFixed(1)}`);
+    });
+    return pts.join(" ");
+  };
+
+  const active = hover != null ? daily[hover] : null;
+
+  return (
+    <div className="relative">
+      <svg viewBox={`0 0 ${W} ${H}`} className="w-full" role="img" aria-label="国別の収益推移">
+        {[0, top / 2, top].map((v) => (
+          <g key={v}>
+            <line x1={PAD.l} x2={W - PAD.r} y1={y(v)} y2={y(v)} stroke="var(--pk-grid)" strokeWidth="1" />
+            <text x={PAD.l - 6} y={y(v) + 4} textAnchor="end" fontSize="11" fill="var(--pk-muted)">{yen(v)}</text>
+          </g>
+        ))}
+        {ordered.map((m) => (
+          <path
+            key={m} d={pathOf(m)} fill="none" stroke={colorOf(m)} strokeWidth="2"
+            strokeLinejoin="round" strokeLinecap="round"
+            opacity={hover == null ? 1 : 0.85}
+          />
+        ))}
+        {active && ordered.map((m) => {
+          const v = active.byMarket?.[m];
+          if (v == null) return null;
+          return <circle key={m} cx={x(hover!)} cy={y(v)} r="3.5" fill={colorOf(m)} stroke="var(--pk-card)" strokeWidth="1.5" />;
+        })}
+        <text x={PAD.l} y={H - 6} fontSize="11" fill="var(--pk-muted)">{daily[0]!.date}</text>
+        <text x={W - PAD.r} y={H - 6} textAnchor="end" fontSize="11" fill="var(--pk-muted)">{daily[daily.length - 1]!.date}</text>
+        {daily.map((d, i) => (
+          <rect
+            key={`hit-${d.date}`} x={x(i) - 10} y={PAD.t} width="20" height={plotH}
+            fill="transparent" onMouseEnter={() => setHover(i)} onMouseLeave={() => setHover(null)}
+          />
+        ))}
+      </svg>
+      <ul className="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-xs">
+        {ordered.map((m) => (
+          <li key={m} className="flex items-center gap-1.5 text-[var(--pk-muted)]">
+            <span className="inline-block h-2 w-2 rounded-full" style={{ background: colorOf(m) }} />
+            <span className="text-[var(--pk-ink)]">{m.toUpperCase()}</span>
+            <span>{yen(active?.byMarket?.[m] ?? lastOf(m))}</span>
+          </li>
+        ))}
+      </ul>
+      <p className="mt-1 h-4 text-xs text-[var(--pk-muted)]">
+        {active ? `${active.date} 時点の各国の直近30日累計` : "凡例の金額は最終日の値。線が途切れずに横ばいの区間は、その国をまだ再取得していない。"}
       </p>
     </div>
   );
@@ -434,6 +534,17 @@ export default function Dashboard() {
 
         <Card title="日次セッション" sub={`実流入 ${num(data.traffic.realSessions)}（本人分 ${num(data.traffic.selfSessions)} を除外）・平均滞在 ${data.traffic.avgEngagementSec}秒`}>
           <Sessions daily={data.traffic.daily} />
+        </Card>
+      </div>
+
+      <div className="mt-4">
+        <Card
+          title="国別（Amazon marketplace 別）の収益"
+          sub="どの国が伸びているのかを見る。縦軸は合計と同じく『直近30日累計』の円換算。まだ一度も取得できていない国は線を引かない（0で埋めると「稼げていない」と読み違えるため）。"
+        >
+          {data.revenueDaily && data.revenueDaily.length >= 2
+            ? <RevenueByMarket daily={data.revenueDaily} />
+            : <p className="text-sm text-[var(--pk-muted)]">推移を描くにはスナップショットが2日分以上要ります。</p>}
         </Card>
       </div>
 
