@@ -82,9 +82,11 @@ export function inferMarketFromLocale(locale: string): "JP" | "US" | "UK" | "CA"
   if (locale === "it") return "IT";
   if (locale === "de") return "EU";
   // pt-BR を "EU" に束ねない (2026-08-21)。
-  // LOCAL_REMAP に "EU" → amazon-de を追加済み(2026-08-21 の全面是正)。
-  // よって "EU" を返すロケールは実際に amazon.de へ飛ぶ。pt-BR をここに束ねると
-  // ブラジルの読者が amazon.de に送られるが、ブラジルは Earn Globally 対象外で
-  // 現地購入に繋がらない。"global" のままにしておくこと。
+  // 経緯: pt-BR を "EU" にしていた頃、ブラジルの読者がドイツ語・ユーロ建て・
+  // EU域外発送の amazon.de に着地していた (2026-08-20 に発覚)。
+  // LOCAL_REMAP に "EU" → amazon-de を追加済み(2026-08-21 の全面是正)なので、
+  // "EU" を返すロケールは実際に amazon.de へ飛ぶ。ブラジルは Earn Globally
+  // 対象外で現地購入に繋がらないため、"global"(= LOCAL_AMAZON で amazon-us)
+  // のままにしておくこと。
   return "global";
 }

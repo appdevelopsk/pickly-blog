@@ -195,6 +195,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       const amazonBtn = (
         <a
           href={fallbackUrl}
+          data-offer-id={offer.id}
           target="_blank"
           referrerPolicy="no-referrer-when-downgrade"
           rel="sponsored nofollow noopener noreferrer"
@@ -212,6 +213,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       return (
         <a
           href={fallbackUrl}
+          data-offer-id={offer.id}
           target="_blank"
           referrerPolicy="no-referrer-when-downgrade"
           rel="sponsored nofollow noopener noreferrer"
@@ -230,6 +232,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         <div className="flex flex-wrap items-center gap-2">
           <a
             href={fallbackUrl}
+            data-offer-id={offer.id}
             target="_blank"
             referrerPolicy="no-referrer-when-downgrade"
             rel="noopener noreferrer"
@@ -273,6 +276,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
                 link: { network: amazonNetworkForMarket(market), productId: name,
                         markets: [market], approved: true },
                 productName: offer.name.en ?? name, market })}
+            data-offer-id={offer.id}
             target="_blank"
         referrerPolicy="no-referrer-when-downgrade" rel="sponsored nofollow noopener noreferrer"
             className="inline-flex items-center gap-1 rounded-md border border-slate-300 px-4 py-2 text-sm font-medium text-slate-600 hover:border-slate-400 transition-colors">
