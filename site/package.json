@@ -28,7 +28,8 @@
     "prebuild": "node scripts/check-hardcoded-ui.mjs",
     "check:output": "node scripts/check-built-output.mjs && node scripts/check-built-canonical.mjs",
     "check:canonical": "node scripts/check-built-canonical.mjs",
-    "audit:localization": "tsx scripts/audit-affiliate-localization.ts"
+    "audit:localization": "tsx scripts/audit-affiliate-localization.ts",
+    "postbuild": "node scripts/prune-rsc-payloads.mjs"
   },
   "dependencies": {
     "fuse.js": "^7.4.2",
