@@ -154,7 +154,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "9,000円の手挽きミル。ステンレス円錐刃。家庭用手動ミルで最高峰。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-timemore-c2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Ftimemore%2Bc2%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -170,7 +169,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "3,000円のセラミック刃手挽き。初心者向け定番。プレミアム価格帯の半額以下。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-hario-v60", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHARIO%2BV60%2B%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%AA%E3%83%A0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -314,7 +312,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "Oral-Bフラッグシップ。マグネットドライブ＋AIアプリ16ゾーンコーチング、回転式丸型ヘッド。3万円超、アプリはデータ共有を積極促進。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-oral-b-io-series-9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOral-B%2BiO9%2B%E9%9B%BB%E5%8B%95%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -331,7 +328,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "音波式フラッグシップ。4モード・ガラス充電カップ・高級ギフト向け演出。2万5千円超、充電カップは旅行に不向き。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-philips-sonicare-diamondclean-9000", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9%2B%E3%82%BD%E3%83%8B%E3%83%83%E3%82%B1%E3%82%A2%E3%83%BC%2BDiamondClean%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -362,7 +358,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "ミニマリスト・フラット形状、単4電池式、ADA認定、750円/四半期ヘッドサブスク。圧力センサーなし。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-quip-electric-toothbrush", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FQuip%2B%E9%9B%BB%E5%8B%95%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -380,7 +375,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "単3電池式のコンパクトなソニック旅行歯ブラシ。毎分31,000ストローク、2分タイマー、単3電池1本で1ヶ月持続。充電器不要。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-philips-sonicare-power-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2BSonicare%2BPower%2B2%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -397,7 +391,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "毎分8,800ストロークの回転式電動歯ブラシ、ハードケース付き、100-240V対応充電器。2分タイマー、圧力センサー搭載。フルサイズ性能のトラベルセット。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-oral-b-pro-1000-travel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOral-B%2BPro%2B1000%2B%E3%83%88%E3%83%A9%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -414,7 +407,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "毎分33,000ソニック振動、USB-C充電（満充電4時間、4週間バッテリー）、チャコール配合毛、ADA認定。トラベルケース付き。ヘッドサブスクあり。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-burst-sonic-travel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBURST%2B%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%2B%E9%9B%BB%E5%8B%95%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -431,7 +423,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約2,000〜3,000円の回転式電動歯ブラシ。2分タイマー、単3電池、替えブラシ2本付属。アプリ不要、サブスク不要。旅使い捨てや予備ブラシに最適。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-amazon-basics-electric-toothbrush", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazon%2BBasics%2B%E9%9B%BB%E5%8B%95%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -447,7 +438,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約1万円のAIコーチング、AMOLEDディスプレイ、超静音圧電モーター。アプリデータは中国サーバーへ。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-oclean-x-pro-elite", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOclean%2BX%2BPro%2B%E9%9B%BB%E5%8B%95%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -464,7 +454,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約5万円のプレミアム回転式シェーバー。SenseIQがひげ密度を1秒125回読み取り自動適応、360度追従、ウェット/ドライ両用、世界対応電圧。弱点：5万円は高額、平坦部位の剃り残しは往復式に劣る、手動洗浄がしにくい形状。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-philips-series-9000-prestige", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2BSP9883%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -480,7 +469,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約4万5千円の最上位往復式シェーバー。5刃要素、寝たひげ対応ProLift、AutoSenseモーター、クリーン&チャージ付属。弱点：カートリッジ継続費用；逆生えのネック部に弱い。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-braun-series-9-pro-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%2B9565cc%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -547,7 +535,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "75,000円のPinterest人気機。LED 132個、633nm+830nmデュアル波長、シリコンフレックス、1回10分。家庭用LEDの定番。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-currentbody-skin-led", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCurrentBody%2BSkin%2BLED%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -666,7 +653,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "4,840円250mLのサロン ボンド リペア枠。化学処理ダメージとブリーチ髪の切断されたジスルフィド結合を再形成する特許化されたビスアミノプロピルジグリコールジマレート処方、硫酸塩フリー、シリコン軽め、フル ボンド リペア レジメン用にNo.0リーブオンとNo.3シャワー前とペアリングするサロン グレード メンテナンス シャンプー。30ドル超/ボトルはドラッグストア枠の1回あたりコストの5-7倍で結合ダメージ髪のみに正当化される — バージンまたは軽く加熱スタイリング髪は化学が過剰、ライン全体でフレグランス バリエーションなし、米国処方はアジア髪テクスチャーには異なる感触の可能性、No.4単独でNo.0とNo.3なしではマーケティングが示唆するボンド リペアを過小提供。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-olaplex-no4-bond-maintenance", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOlaplex%2BNo.4%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -735,7 +721,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "超長波UVAを400nmまでブロックするMexoryl 400フィルター搭載の欧州フラッグシップSPF50+。無香料、敏感肌テスト済み。楽天市場の輸入在庫で入手可能。明確な弱点：50mlで約3,500円（比較中最高価格）、日本処方より重いテクスチャー、並行輸入在庫で入手性にばらつきあり。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-la-roche-posay-anthelios-uvmune", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%2B%E3%82%A2%E3%83%B3%E3%83%86%E3%83%AA%E3%82%AA%E3%82%B9%2BUV%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%8C%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -767,7 +752,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "ニキビ肌・敏感肌向けに9%透明酸化亜鉛と5%ナイアシンアミドを配合した米国皮膚科推奨ブランド。無香料、オイルフリー。Amazon Japanで入手可能。明確な弱点：SPF46でSPF50+基準より低い、米国価格40ドル以上、日本のウォータリー処方より重いテクスチャー。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-eltamd-uv-clear-spf46", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEltaMD%2BUV%2BClear%2BSPF46%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -832,7 +816,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$19.45",
     links: [
-      
       { network: "moshimo", productId: "rakuten-the-ordinary-squalane-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FThe%2BOrdinary%2B%E3%82%B9%E3%82%AF%E3%83%AF%E3%83%A9%E3%83%B3%2B%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B6%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -865,7 +848,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "温泉水・グリセリン・ナイアシンアミドの非泡立てクレンザー。無香料・無アルコール・最小限の防腐剤プロファイル。過敏・施術後の肌に日本の皮膚科医推奨。明確な弱点：400mlで約2,500〜3,000円（比較中1ml当たり最高コスト）；重SPFや防水メイクの単独除去には優しすぎる；泡立てクレンザーのユーザーには「物足りない」テクスチャー。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-la-roche-posay-toleriane-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%2B%E3%83%88%E3%83%AC%E3%83%AA%E3%82%A2%E3%83%B3%2B%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -882,7 +864,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$11.88",
     links: [
-      
       { network: "moshimo", productId: "rakuten-cetaphil-gentle-skin-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCetaphil+%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -914,7 +895,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$22.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-cerave-moisturizing-cream", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCeraVe+%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0+%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -930,7 +910,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "¥2,750",
     links: [
-      
       { network: "moshimo", productId: "rakuten-anessa-sunscreen-spf50", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%8D%E3%83%83%E3%82%B5+%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88UV+%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%9F%E3%83%AB%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -964,7 +943,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約8万円のHEPA H13＋活性炭ファン＋空気清浄一体型。290°気流投射、LCD空気質ディスプレイ、オートモード。弱点：最高速度で騒音あり、本体高価、年間フィルター約6,000円、加湿機能なし。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-dyson-purifier-cool-gen1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%82%A4%E3%82%BD%E3%83%B3%2B%E7%A9%BA%E6%B0%97%E6%B8%85%E6%B5%84%E6%A9%9F%2B%E3%83%94%E3%83%A5%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A3%E3%83%BC%2B%E3%82%AF%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1013,7 +991,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約4万5,000円のスウェーデンブランド。HEPASilentデュアルフィルタリング（静電＋機械）、超静音17dB未満スリープモード、40m²対応。弱点：湿度ディスプレイなし、フィルター6ヶ月ごと約5,000円、アプリ設定がやや難。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-blueair-blue-max-3250i", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A8%E3%82%A2%2BBlue%2BMax%2B3250i%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1129,7 +1106,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約2万円の韓国ブランド。2段階True HEPA＋活性炭、LEDリングインジケーター、18m²対応。弱点：対応面積小さめ、イオン技術なし、6ヶ月フィルター交換、日本でのブランド認知度低め。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-coway-airmega-200m", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%82%A6%E3%82%A7%E3%82%A4%2B%E7%A9%BA%E6%B0%97%E6%B8%85%E6%B5%84%E6%A9%9F%2B%E3%82%A2%E3%82%A4%E3%83%AC%E3%83%BC%E3%83%9E%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1227,7 +1203,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$69.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-levoit-classic-300s-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLevoit%2BClassic%2B300S%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1242,7 +1217,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "UV-C除菌で細菌99.9%を散布前に殺菌、±1%精度の湿度制御、エアマルチプライアーファン機能、衛生的なミスト。広い部屋向けプレミアム。弱点：高価格・月次UV-Cランプ確認・HEPAフィルターなし。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-dyson-am10-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDyson%2BAM10%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1273,7 +1247,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "沸騰による温かいミスト — 無菌出力・VapoSteam薬用パッド対応・1ガロンタンクで12時間運転・低価格。風邪・インフルエンザシーズン向け最有力。弱点：熱いスチームによるやけどリスク・気化式より電気代高・子供のいる家庭には不向き。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-vicks-v745a-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVicks%2BV745A%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1307,7 +1280,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "1.2ガロンタンク・30時間連続運転・静音超音波式冷風・VapoSteamメントールパッド対応・フィルター交換不要。赤ちゃん部屋向けコスパ最高。弱点：細菌繁殖防止のため毎日すすぎ・週次酢洗浄が必要。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-vicks-filter-free-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVicks%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2B%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%95%E3%83%AA%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1341,7 +1313,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "超音波式冷風加湿器＋内蔵アロマディフューザー（アロマパッドチャンバー別室、ミストに混合しない）＋360°回転ナイトライト、1.5Lタンク・21時間連続・自動停止。アロマパッド別売。弱点：1.5Lタンクに対して90ドルは割高・広い部屋は1日2回給水が必要。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-frida-baby-3in1-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFrida%2BBaby%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1357,7 +1328,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$44.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-crane-droplet-humidifier", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCrane%2B%E5%8A%A0%E6%B9%BF%E5%99%A8%2B%E8%B6%85%E9%9F%B3%E6%B3%A2%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1374,7 +1344,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "179,800円のフラッグシップ。6,000Pa吸引、ラグ上で自動リフトする2連回転モップ、LiDARマッピング、ゴミ捨て+お湯モップ洗浄+自動給水を全自動でこなすドック。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-roborock-s8-pro-ultra", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRoborock%2BS8%2BPro%2BUltra%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1390,7 +1359,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "99,800円のペット世帯向け本命。PrecisionVisionによるペット排泄物回避はカテゴリ最強、自動ゴミ収集ドック搭載。本機は吸引専用 — 水拭き対応はCombo j7+の別モデル。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-irobot-roomba-j7-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRoomba%2Bj7%252B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1406,7 +1374,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "99,990円のコスパ枠。8,000Pa吸引(本リスト最高値)、2連回転モップ、自動洗浄+自動ゴミ収集ドック。カメラ+ジャイロ式マッピングは最初の2-3回はLiDAR勢より粗い。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-eufy-x10-pro-omni", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEufy%2BX10%2BPro%2BOmni%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1540,7 +1507,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$499.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-dyson-corrale-straightener", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDyson%2BCorrale%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1556,7 +1522,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$249.00",
     links: [
-      
       { network: "moshimo", productId: "rakuten-ghd-platinum-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGHD%2BPlatinum%2B%E3%83%97%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1623,7 +1588,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$599.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-dyson-airwrap", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDyson%2BAirwrap%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1638,7 +1602,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約35,000〜45,000円（並行輸入）コアンダ効果スタイラー+ドライヤー一体型。エアラップと同機構で約60%の価格。エアラップにないドライヤーモード付き。日本未正規販売 — 北米版（120V）は100Vで動作するが風量低下あり。購入前に電圧ラベル要確認。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-shark-flexstyle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FShark%2BFlexStyle%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1801,7 +1764,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "59,400円のANC+通話品質リーダー。CustomTune耳道較正、ビームフォーミングマイクアレイ、映画用Immersive Audio。LDAC非対応、側圧はSonyより強め、Immersive Audioでバッテリーは実機17-18時間に低下。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-bose-quietcomfort-ultra", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBose%2BQuietComfort%2BUltra%2BHeadphones%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1833,7 +1795,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "56,000円のオーディオファイル寄り選択。音楽鑑賞向け最ナチュラル音色、60時間バッテリー(本リスト最長)、LDACとaptX Adaptive対応。ANCはSony XM5とBose QC Ultraに対して低周波数遮断で一段劣る、Smart Controlアプリは動作が遅い、筐体はプラスチック多用。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-sennheiser-momentum-4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSennheiser%2BMomentum%2B4%2BWireless%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1849,7 +1810,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "14,990円のコスパ枠。LDAC対応(この価格帯では珍しい)、ANC有効50時間バッテリー、OS横断で安定動作するマルチポイント。通話マイクは本比較最弱、筐体はプラスチック中心、長期レビューはヘッドバンド回転ヒンジが18ヶ月時点の故障ポイントと指摘。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-anker-soundcore-space-q45", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BSoundcore%2BSpace%2BQ45%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1866,7 +1826,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "9,800円のPinterest定番ビューティ冷蔵庫。パステル4色(ホワイト・ピンク・ミント・ティール)、ほぼ無音のペルチェ式9-12°C冷却、USB-CとAC両対応。4Lは思ったより早く埋まる、250mL徳用保湿は直立で入らない、ドアポケットは浅め。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-cooluli-mini-fridge-4l", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCooluli%2BMini%2BFridge%2B4L%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1882,7 +1841,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "12,800円の6L温冷両対応ペルチェ。Cooluli 4Lより容量50%増、標準美容液12-16本収納、60°C保温で蒸しタオル運用も可。冷⇄温切替に約90分、保温は日常的に切り替える機能というよりおまけ用途。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-astroai-mini-fridge-6l", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAstroAI%2BMini%2BFridge%2B6L%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1898,7 +1856,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "18,800円のスキンケア専用設計10Lビューティ冷蔵庫。下段はトール・ボトル対応高さ、LED内照、マグネット式ドアキャッチ。25-35アイテム+アイスローラーやツール収納可。5kgはドレッサーには重い、冷却深度は11-14°Cで一桁°Cには届かない。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-cooluli-beauty-fridge-10l", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCooluli%2BBeauty%2BFridge%2B10L%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -1978,7 +1935,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "29,800円のプレミアム作り込み枠。Philipsは2010年にノンフライヤーカテゴリを作った張本人、作り込み品質と部品供給は本リストで最も成熟。バスケット6.2L、80-200°C。最高200°Cは本比較最低、冷凍食品のカリッと感は230°C機ほど激しくならない。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-philips-essential-xl-hd9270", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2BEssential%2BXL%2BHD9270%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2129,7 +2085,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "Bluetooth接続の打突マッサージ機。圧力センサー搭載、3段階速度、クワイエットグライド技術（約53dB）。Hypericeアプリと連携してガイド付きリカバリーセッションが可能。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-hyperice-hypervolt-2-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHyperice%2BHypervolt%2B2%2BPro%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2145,7 +2100,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "56度アングルハンドルで自然な手首角度を実現。5段階速度、8時間バッテリー、約55dBの動作音。一人での上背部ケアでエルゴノミクス面が際立つモデル。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-ekrin-b37s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEkrin%2BB37S%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2161,7 +2115,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "超コンパクトなトラベル用マッサージガン。5種類のヘッド付属、小型ポーチに収まるサイズ、USB-C充電。旅行や小筋群のケアに最適。背中や太ももの深層筋へのフルサイズ代替にはならない。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-renpho-r3-mini", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRenpho%2BR3%2BMini%2BMassage%2BGun%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2177,7 +2130,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "振幅16mm、強力なブラシレスモーターで深層組織ケアにコスパ優秀。5段階速度、長時間バッテリー、同等の深層筋ケア機と比べて静か。Theragunのブランドプレミアムなしに購入できるミッドプレミアムの有力候補。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-achedaway-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAchedaway%2BPro%2BMassage%2BGun%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2292,7 +2244,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "18,800円のPinterest美学プレミアム枠。9色展開の手釉ポーセリン セラミック外装、90mL超音波で約25dB(最も静かな部類)、2018年以来Pinterest美学ボードを支配するカナダのVitruviブランド。セラミック外装は脆弱(落とすと割れる)で複数の長期購入者が熱サイクルから12-18ヶ月時点で細い亀裂を報告、18,800円は同じ超音波スペックで無印の約2.5倍・InnoGearの約5倍、90mLタンクは寝室のみに合い16+畳LDKでは性能不足、カナダからの国際配送は日常的な在庫変動と色入手性の変動を意味する。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-vitruvi-stone-diffuser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVitruvi%2BStone%2BDiffuser%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2341,7 +2292,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "3,980円の予算大型タンク枠。連続10-12時間稼働の500mL超音波(本比較最長稼働時間)、無効化オプション付き7色LED、ミスト強度調整、自動シャットオフ、リモコン同梱。製造品質は変動しプラスチック+木目調本体は複数の長期購入者が目視で安っぽく見えると記述、タンク シール水漏れが6-12ヶ月時点での最一般長期故障モード、日本での保証サポートは国内専門ブランドより弱い、セラミック板はプレミアム ユニットより速くミネラル スケールを蓄積し月次ではなく週次清掃を要する。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-innogear-500ml-diffuser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInnoGear%2BAromatherapy%2B500ml%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2375,7 +2325,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "149,800円のエンデュランスアスリート向けフラッグシップ。サファイアAMOLED、デュアル周波数マルチバンドGPS、地形図トレイルナビ、防水40mでダイブコンピューターモード、本比較最深のトレーニング負荷+リカバリー解析。競技的エンデュランス未満には正直オーバーキル、メニュー体系に2-4週間の学習曲線、47mmケースは手首周囲16cm未満には大きい。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-garmin-fenix-8-47mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin%2BFenix%2B8%2B47mm%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2391,7 +2340,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "23,800円のフィットネストラッカーコスパ枠。1.04インチAMOLED、実機6-7日バッテリー、Googleマップ通知とYouTube Music操作のGoogle統合、内蔵GPS、Fitbit Premiumエコシステム。ECGは地理的制約があり2026年5月時点で日本未提供、日本でのGoogle PayカバレッジはApple Pay/Suicaに劣る、トラッカー型でウォッチフェイスのカスタマイズは限定的。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-fitbit-charge-6", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitbit%2BCharge%2B6%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2424,7 +2372,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "29,800円のデザイン重視コスパ枠。1.43インチAMOLED丸顔、この価格帯でのデュアルバンド5系統GNSS、実機10-12日バッテリー、Zeppアプリ経由で150以上のスポーツモード。通知返信機能は本比較で最も弱く(Androidで定型応答のみ、iOSで事実上不在)、Zepp OSのサードパーティアプリエコシステムは小さい、日本での保証はフラッグシップ・ブランドストア網ではなく楽天小売経由。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-amazfit-gtr-4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazfit%2BGTR%2B4%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2441,7 +2388,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約¥5,000の超予算枠。1.62インチAMOLED、33g（本比較最軽量）、公称14日間バッテリー（継続HR有効で実機8〜10日）、150以上のスポーツモード、Mi FitnessアプリでiOS・Android対応。センサーアレイがプレミアムトラッカーより小さく運動中のHR精度はFitbit・Garminより劣る、Mi Fitnessの分析エコシステムは競合より薄い、日本のアフターサービスは直営より販売店経由が主体。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-xiaomi-smart-band-9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXiaomi%2BSmart%2BBand%2B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2457,7 +2403,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約¥22,000の健康分析枠。Body Batteryエネルギー管理・HRVストレススコア・SpO2・Garmin睡眠分析、スリムバンド型、Garmin Connect経由でAndroid・iOS両対応。GPS非内蔵（接続型のみ）でスマートフォンなしのルート追跡不可、この価格帯では異例の価格対機能トレードオフ、フルスマートウォッチと比べて通知操作が限定的な小型ディスプレイ。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-garmin-vivosmart-5", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin%2BVivosmart%2B5%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2473,7 +2418,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約¥35,000のiPhoneユーザー向けフィットネス追跡付きスマートウォッチ枠。クラッシュ検知・緊急SOS・日本中のコンビニでSuica+Apple Pay・watchOSアプリストア・手首でのメッセージ返信。iPhoneが必須——Androidユーザーへの回避策なし。18時間実機バッテリーで例外なく毎日充電、本比較で最も高価。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-apple-watch-se-2nd", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2BWatch%2BSE%2B%E7%AC%AC2%E4%B8%96%E4%BB%A3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2506,7 +2450,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約¥30,000の最広健康像把握枠。体脂肪・筋肉量・内臓脂肪指数・骨量・血管年齢（脈波伝播速度）をHealth Mateアプリで計測。本比較最良データエクスポートポリシー（CSVエクスポート・APIアクセス）、Apple HealthとGoogle Fit両方への信頼性の高い同期。足底BIAは安い製品と同じ±3〜8%体脂肪精度クラス、Withingsは複数の所有権変更（Nokia Health・Withings復帰）を経て長期ソフトウェアサポートに不確実性がある、¥30,000は本比較の同率最高価格。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-withings-body-comp", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWithings%2BBody%2BComp%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2522,7 +2465,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約¥22,000のGarmin Connect連携枠。16ユーザー同時対応、体脂肪・BMI・体水分・骨量をアクティビティ・睡眠・HRVデータと並んでGarmin Connectに直接同期。エコシステムプレミアムは既存Garminデバイス使用者にのみ価値があり、Garmin以外のユーザーには¥22,000の足底BIAスケールで¥8,000のEufy P2 Proと同精度クラス。サードパーティ仲介なしではGoogle Fitへの直接連携なし。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-garmin-index-s2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin%2BIndex%2BS2%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2555,7 +2497,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約¥3,000の超低価格体脂肪追跡枠。Mi FitnessへのBluetooth同期で体脂肪率・BMI・筋肉量・骨量・代謝率推定を計測。広い誤差幅にもかかわらず体脂肪トレンドデータは有用。Bluetoothのみのため計測時に近くにスマートフォンが必要、2電極足底BIAで本比較最大の誤差幅、Mi Fitnessのデータエクスポートが制限的、Xiaomiの移行期間の短い製品・アプリ終了実績は複数年データ追跡への正当な懸念。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-xiaomi-body-composition-scale-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXiaomi%2B%E4%BD%93%E7%B5%84%E6%88%90%E8%A8%88%2B2%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2571,7 +2512,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約¥8,000の実用的な中間選択肢。Wi-Fi同期（スマートフォン近接不要）・Apple HealthとGoogle Fit連携・16指標・クリーンなEufy Lifeアプリ。Ankerは日本で充実した小売・顧客サービス体制（秋葉原・大阪ストア・日本語直接サポート）を持つ。体重・体脂肪・BMI以外のほとんどの追加指標は同じ2電極足底BIA信号からの異なる回帰式による導出で独立した計測ではない、Eufy Lifeアプリの成熟度はWithings Health Mateより低い、日本でブランドはタニタの臨床的信頼性を持たない。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-anker-eufy-smart-scale-p2-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BEufy%2B%E4%BD%93%E9%87%8D%E8%A8%88%2BP2%2BPro%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2589,7 +2529,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "9,800-12,800円のアルミ製マグネット プレミアム枠。マグネット式パックがiPad Pro 11/12.9をクランプなしで直接アームに取り付け、縦横360度回転、机上安定性のための重量ベース、Apple シルバー/スペースグレイに合うブラッシュド アルミ仕上げ。iPad専用 — マグネット プレートはiPad ProとiPad Airサイズで、Androidタブレット・Kindle Fire・小型iPad Miniは別売マグネット アダプタなしで装着不可、12.9インチiPad Pro+Magic Keyboardの重い組合せでマグネット保持力が弱まり衝撃でデバイスが外れる可能性、9,800-12,800円は机上スタンド価格帯の上限。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-lululook-ipad-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLululook%2BiPad%2B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2605,7 +2544,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "8,980円の超携帯折りたたみ枠。折り紙式の折りたたみファブリック スタンドがノートPCとタブレット ライザーを兼ね、25-60度の7段階角度、重量280gで8mm厚に折りたたんでスリーブに収納可能。ファブリックとヒンジ構造はメタル机上スタンドほど剛性がない — Apple Pencilでの強い描画圧力でスタンドが目に見えてたわみ、Procreate用途の安定性は長期レビューの支配的不満、ファブリック外装は12-18ヶ月の毎日使用後にヒンジ折り目周辺で摩耗と毛玉、同製品はノートPCスタンドとしても販売されているため、タブレット専用買い手はノートPC用角度に過払いの可能性。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-moft-float-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMOFT%2BFloat%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2622,7 +2560,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "1,680-2,480円のアルミ机上スタンド コスパ枠。一体アルミ ボディが4-13インチのタブレットとほとんどのスマホに対応、270度傾斜範囲のシングル アクシス ヒンジ、クレードルとベースのシリコン パッドが擦り傷を防止、iPad Pro 12.9を安定させる重量調整。シングル アクシス傾斜のみ — 高さ調整なし・スイベル/回転なしで、縦横切り替えにはタブレットを持ち上げて再クレードルする必要があり滑らかな回転はできない、一体ヒンジはデテント ストップなしで長時間ビデオ通話中に摩擦面が摩耗するとどんな意図的な角度もずれる可能性、クレードルの仕上げ精度はユニット間で差があり一部買い手はクレードル内のiPadのがたつきを報告。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-lamicall-tablet-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLamicall%2B%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2657,7 +2594,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "11,800-13,800円のプレミアム クランプ/机上アーム枠。スプリング張力の関節アーム+マグネット式パック(年式により別アクセサリーまたは内蔵)、0-50mm厚の机縁にネジ クランプ取付、滑らかなマルチアクシス関節で35cmスイング可能、クランプ不可面用の重量机上ベース オプション同梱。クランプ フットプリントが取付場所を制限 — 多くの日本の机はクランプの喉を塞ぐエプロンや50mmレンジを超える厚みを持ち、机上ベース代替肢はアームが解放するはずだった床と机の面積を取り戻す、iPad中心のマグネット プレート サイジングはAndroidタブレットと旧マグネット非対応iPad Miniにサードパーティ アダプタ リングを要求、11,800-13,800円+必要時のマグネット アダプタで合計15,000円超。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-twelve-south-hoverbar-duo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTwelve%2BSouth%2BHoverBar%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2709,7 +2645,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "4つのメモリープリセット・入門より静かなモーター・幅広い天板サイズ・素材オプション・姿勢リマインダーと高さ変更ログを持つアプリを備えたミドルレンジプログラマブル昇降フレーム。天板は別売。弱点：米国ブランドで日本への配送リードタイム2〜4週間；日本在住買い手の保証対応サポートが賛否両論；フレーム価格は天板を含まず（1万5千〜2万5千円追加）。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-autonomous-smartdesk-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAutonomous%2BSmartDesk%2BPro%2B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%87%E3%82%B9%E3%82%AF%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2761,7 +2696,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$39.00",
     links: [
-      
       { network: "moshimo", productId: "rakuten-apple-magsafe-charger-usb-c", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2BMagSafe%2B%E5%85%85%E9%9B%BB%E5%99%A8%2BUSB-C%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2777,7 +2711,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$89.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-anker-maggo-3in1-station", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BMagGo%2B3in1%2B%E5%85%85%E9%9B%BB%E5%99%A8%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2792,7 +2725,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "MFi MagSafe 3in1充電ステーション。iPhone 15W MagSafe・MFi認証Apple Watchクイック充電（5W、Series 7以降）・AirPods 5W Qiパッド、プレミアムビルド。弱点：約1万5千円で本比較最高額；Apple Watchアームが旅行収納に不便な固定角で突き出す；USB-Cパススルーポートなし；Anker MagGoとの価格差は主にビルドクオリティのみ — 充電速度はほぼ同等。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-belkin-boostcharge-pro-3in1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBelkin%2BBoostCharge%2BPro%2B3in1%2BMagSafe%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2825,7 +2757,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "折りたたみ式MagSafe互換2in1旅行用ワイヤレス充電器。iPhoneアライメント用MagSafe磁石リング・5W AirPods Qiサブパッド・クレジットカードサイズに折りたたみ（厚さ約12mm）・USB-C入力・約4,000円。弱点：iPhone最大7.5W（Qi2認証なしのMagSafe互換磁石のため15W MagSafeではない）；AirPodsパッドは5W Qiのみ；Apple Watchスポットなし；ビルドクオリティがBelkinやAnker MagGoより劣る。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-esr-halolock-2in1-travel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FESR%2BHaloLock%2B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E5%85%85%E9%9B%BB%E5%99%A8%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2841,7 +2772,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "非対称光学系でデスク面を照らしスクリーングレアを排除するモニター装着型LEDバー。バックグローバイアスライティング・照度センサー・ワイヤレスコントローラー・CRI 95以上（主張）・2,700〜6,500K。明確な弱点：3万円超はBaseusの6倍のプレミアム；モニター専用装着でデスクスタンドなし；明るい室内ではバックグローが眩しい場合がある；モニターの給電USBポートが必要。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-benq-screenbar-halo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBenQ%2BScreenBar%2BHalo%2B%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -2873,7 +2803,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$849.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-dyson-solarcycle-morph", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%82%A4%E3%82%BD%E3%83%B3%2BSolarcycle%2BMorph%2B%E3%83%87%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3089,7 +3018,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約1.8万円の1080p AIウェブカメラ。60fps・AI自動フレーミング・Show Mode・USB-C・デュアルマイク。明確な弱点：1.8万円で4Kではなく1080p、AI自動フレーミングは動きが速いと追跡がぶれる、Show Modeは特定の角度が必要。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-logitech-brio-505", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLogicool%2BBrio%2B505%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3105,7 +3033,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約7,000円の2K 30fps コスパウェブカメラ。デュアルノイズキャンセルマイク・オートフォーカス・USB-A・コンパクト。明確な弱点：30fps（60fpsでない）・AI自動フレームなし・USB-Aケーブル非脱着・専用マイク比較でノイキャン弱め。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-anker-powerconf-c200", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BPowerConf%2BC200%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3188,7 +3115,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約¥12,000のIP67ポータブルスピーカー。24時間バッテリー、EXTRA BASS DSPモード、マルチカラーLEDライティング、マイク内蔵。明確な弱点：EXTRA BASSは大音量で歪みを生じる；LEDでバッテリーが大幅に短縮；競合より大きく重い。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-sony-srs-xb33", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSony%2BSRS-XB33%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3204,7 +3130,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約¥15,000のIP67ポータブルスピーカー。真の360度全指向性ドライバー、15時間バッテリー、MagicButton1タップ再生ショートカット、水に浮く。明確な弱点：円筒形が不安定面で転がる；バスはJBL Flip 6より弱い；横向きで浮く（正面向きではない）。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-ultimate-ears-boom-3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUltimate%2BEars%2BBOOM%2B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3220,7 +3145,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約¥20,000のIP67アウトドアスピーカー。PositionIQ置き方適応EQ、12時間バッテリー、水面で正面向き浮遊、アウトドア音響チューニング。明確な弱点：¥20,000のプレミアム価格；12時間は本比較で最短クラス；大規模マルチスピーカーチェーン非対応。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-bose-soundlink-flex", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBose%2BSoundLink%2BFlex%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3675,7 +3599,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "45,000円のデータ分析プレミアム枠と月1,500-2,500円Nanit Insightsサブスク。1080p HDRビデオ130度視野角、AI呼吸モーション検知(別売Nanit Breathing Wearを1着4,500-6,500円・3-4ヶ月毎に大きくなって脱ぐ必要)、AI睡眠品質スコアリング、Smart Sheet経由成長記録、双方向オーディオ、Apple HomeKitとGoogle Home統合。呼吸モーション検知は別売で3-4ヶ月毎に脱ぐ専用Nanit Breathing Wearを必要 — ほとんどのレビューがスキップする隠れた繰り返しコスト、Smart Sheet経由成長記録は写真角度と赤ちゃんのポーズで極めて変動する精度で能動的に赤ちゃんを撮影することを必要(臨床医はNanit測定をクリニック内測定の代替として受け入れない)、Nanit Insightsサブスクは価格差を正当化する睡眠分析機能を解放、wall-mountインストールはcrib上の壁穴開けを必要で日本の賃貸アパートはしばしば禁止。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-nanit-pro-smart-camera", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNanit%2BPro%2BSmart%2BCamera%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -3771,7 +3694,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約18,000円の中位枠おやつディスペンサー枠(または日本での入手可能性に応じてPetSafe同等品)、720pビデオ・スマホ アプリからのおやつディスペンサー・双方向オーディオ・スケジュールされたおやつトス、安価な汎用セキュリティ カメラとプレミアムなFurboの間に座る。Furboより720p対1080pで低い動画品質はタブレットとラップトップ視聴で意味的に見える; アプリ信頼性は長期レビューで混在しいくつかのレビュアーがファームウェア アップデートを通じて持続した定期的なクラッシュとペアリング問題を報告; ユニット上のおやつ補充アクセスが厄介でいくつかのレビュアーは数か月後に毎日の補充儀式を諦めたと報告; 犬特化AIはFurboの吠え声検知と活動スコアリングと比較して不在または初歩的。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-pawbo-pet-camera", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPawbo%2B%E3%83%9A%E3%83%83%E3%83%88%E3%82%AB%E3%83%A1%E3%83%A9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -4257,7 +4179,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約¥5,000〜7,000のコンパクトなジム→オフィス兼用ダッフル（Sサイズ）。100%リサイクルポリエステル、パッド入りノートパソコンスリーブ、クイックアクセス用フロントジップポケット。ミディアムダッフルより小さいウェットコンパートメント；撥水外装仕上げなし。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-adidas-defender-4-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9%2B%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%2B4%2B%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -4494,7 +4415,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$149.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-inkbird-iam-t1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInkbird%2BIAM-T1%2B%E4%BA%8C%E9%85%B8%E5%8C%96%E7%82%AD%E7%B4%A0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -4510,7 +4430,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$34.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-govee-h5106", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGovee%2B%E7%A9%BA%E6%B0%97%E8%B3%AA%E3%83%A2%E3%83%8B%E3%82%BF%E3%83%BC%2BH5106%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -4997,7 +4916,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約28,000〜35,000円。マットブラックホーロー内面の鋳鉄、26cm、使うほどパティナが育ちプロの厨房でステーキに好まれる。弱点：日本のエナメル鋳鉄価格帯上限；マット内面は視覚的な清潔確認がしにくい。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-staub-frying-pan-26cm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%88%E3%82%A6%E3%83%96%2B%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3%2B26%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5082,7 +5000,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "1360Wコンタクトグリル。上下両面同時加熱で焼き時間が約半分。プレート固定・取り外し不可のため使用後は温かいうちに布拭きが必須。焦げ付きが長期レビューの最多不満点。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-george-foreman-gfo201r", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%95%E3%82%A9%E3%82%A2%E3%83%9E%E3%83%B3%2B%E3%82%B0%E3%83%AA%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -5695,7 +5612,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約¥14,000〜18,000の通勤×アウトドア兼用デイパック。FlexVentテンションメッシュ背面パネルで背中の汗接触を大幅軽減、30Lで通勤+ジム荷物対応、背面パネルのPCスリーブはバッグ内で最も安定した収納位置。明確な弱点：20L通勤バッグより重くかさばる；アウトドアツールの設計要素は純粋な都市通勤に不自然；カラーバリエーションがアウトドア寄りでビジネス環境にはIncaseやPeak Designより適合しにくい；FlexVentの浮き上がりで30Lより視覚的に大きく見える。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-the-north-face-recon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%2BRecon%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -6393,7 +6309,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$73.04",
     links: [
-      
       { network: "moshimo", productId: "rakuten-intex-dura-beam-deluxe", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIntex+Dura-Beam+Deluxe+Air+Mattress%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -6423,7 +6338,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$118.95",
     links: [
-      
       { network: "moshimo", productId: "rakuten-king-koil-luxury-air-mattress", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKing+Koil+Luxury+Air+Mattress%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -6591,7 +6505,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "シェルパ風フリース素材、10段階調節、10時間オートオフ、大型サイズでデュアルコントロールバリアントあり。このカテゴリーで最も柔らかい手触り。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-serta-fleece-electric-blanket", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSerta%25E3%2583%2595%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25B9%25E9%259B%25BB%25E6%25B0%2597%25E6%25AF%259B%25E5%25B8%2583%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -6819,7 +6732,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$24.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-takeya-deluxe-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B0%B4%E5%87%BA%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -7169,7 +7081,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "低コストのプレシーズニング入門機、25cm、約2.3 kg、亜麻仁油シーズニング、オーブン対応・IH対応。コロンビア製。このリストで最安値、1〜2人世帯に最適。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-victoria-10-cast-iron-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2+%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88+%E9%89%84%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -7690,7 +7601,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "ビニールコーティング鋳鉄製ダンベルセット、ヘックス形状、床に優しいコーティング、入門向け5〜15lbセット",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-yes4all-vinyl-dumbbell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E3%83%80%E3%83%B3%E3%83%99%E3%83%AB+%E3%82%BB%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -8294,7 +8204,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$99.00",
     links: [
-      
       { network: "amazon-jp", productId: "amazon-jp-kettlebell-kings-competition", rawUrl: "https://www.amazon.co.jp/s?k=Kettlebell+Kings+Competition+Kettlebell", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-kettlebell-kings-competition", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKettlebell+Kings+Competition+Kettlebell%2F", markets: ["JP"], approved: true },
     ],
@@ -8343,7 +8252,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "最良低価格コンペスタイルケトルベル — コンペ仕様の全重量均一ボトム径・パウダーコート仕上げ・チョーク対応・コンペグレードより標準鋳鉄に近い価格",
     },
     links: [
-      
       { network: "amazon-jp", productId: "amazon-jp-titan-fitness-cast-iron-kettlebell", rawUrl: "https://www.amazon.co.jp/s?k=Titan+Fitness+Cast+Iron+Kettlebell", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-titan-fitness-cast-iron-kettlebell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTitan+Fitness+%E9%8B%B3%E9%89%84%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
@@ -8360,7 +8268,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "最良フロアフレンドリー初心者向けケトルベル — ビニールコーティングがフローリングとタイルを保護・フラットボトム・最低価格エントリー；チョーク非対応・高レップ弾道的ワーク向きでない",
     },
     links: [
-      
       { network: "amazon-jp", productId: "amazon-jp-yes4all-vinyl-kettlebell", rawUrl: "https://www.amazon.co.jp/s?k=Yes4All+Vinyl+Coated+Kettlebell", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-yes4all-vinyl-kettlebell", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FYes4All+%E3%83%93%E3%83%8B%E3%83%BC%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%88%E3%82%B1%E3%83%88%E3%83%AB%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
@@ -9217,7 +9124,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$2,799",
     links: [
-      
       { network: "amazon-jp", productId: "amazon-jp-bowflex-treadmill-22", rawUrl: "https://www.amazon.co.jp/s?k=Bowflex+Treadmill+22+%E3%83%88%E3%83%AC%E3%83%83%E3%83%89%E3%83%9F%E3%83%AB", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-bowflex-treadmill-22", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex+Treadmill+22%2F", markets: ["JP"], approved: true },
     ],
@@ -9790,7 +9696,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$65.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-power-guidance-battle-rope-30ft", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPower%2BGuidance%2BBattle%2BRope%2B1.5%2Binch%2B30%2Bfoot%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -10246,7 +10151,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$125.00",
     links: [
-      
       { network: "amazon-jp", productId: "amazon-jp-rogue-medicine-ball", rawUrl: "https://www.amazon.co.jp/s?k=Rogue+Medicine+Ball+Slam+Ball", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-medicine-ball", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%2B%E3%82%B9%E3%83%A9%E3%83%A0%2F", markets: ["JP"], approved: true },
     ],
@@ -10392,7 +10296,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$10.99",
     links: [
-      
       { network: "amazon-jp", productId: "amazon-jp-bare-bones-broth", rawUrl: "https://www.amazon.co.jp/s?k=Bare+Bones+bone+broth+grass+fed", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-bare-bones-broth", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBare+Bones%2B%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%96%E3%83%AD%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
@@ -10490,7 +10393,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$155.00",
     links: [
-      
       { network: "amazon-jp", productId: "amazon-jp-rogue-foam-plyo-box", rawUrl: "https://www.amazon.co.jp/s?k=Rogue+Foam+Plyo+Box+%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-rogue-foam-plyo-box", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue%2B%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%2B%E3%83%97%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
@@ -10811,7 +10713,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$52.00",
     links: [
-      
       { network: "amazon-jp", productId: "amazon-jp-thorne-meriva-curcumin", rawUrl: "https://www.amazon.co.jp/s?k=Thorne+Meriva+%E3%82%AF%E3%83%AB%E3%82%AF%E3%83%9F%E3%83%B3+%E3%83%95%E3%82%A3%E3%83%88%E3%82%BD%E3%83%BC%E3%83%A0", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-thorne-meriva-curcumin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FThorne%2BMeriva%2B%E3%82%AF%E3%83%AB%E3%82%AF%E3%83%9F%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
@@ -11084,7 +10985,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "発泡タブレット1錠にナトリウム300mg・カリウム150mg・マグネシウム25mg・糖質わずか1g。480mlの水に溶かして使用。5製品中最も携帯性が高く、10錠チューブはポケットに収まる。1回あたり80〜90円程度と最もコストパフォーマンスが高い。レモンライムとトリベリーが上位評価フレーバー。",
     },
     links: [
-      
       { network: "amazon-jp", productId: "amazon-jp-nuun-sport-electrolyte-tablets", rawUrl: "https://www.amazon.co.jp/s?k=Nuun+%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84+%E9%9B%BB%E8%A7%A3%E8%B3%AA+%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-nuun-sport-electrolyte-tablets", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNuun+%E9%9B%BB%E8%A7%A3%E8%B3%AA%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
@@ -11199,7 +11099,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$49.99",
     links: [
-      
       { network: "amazon-jp", productId: "amazon-jp-prosource-multi-grip-chinup-bar", rawUrl: "https://www.amazon.co.jp/dp/B00BKRQ4OM", markets: ["JP"], approved: true },
       { network: "moshimo", productId: "rakuten-prosource-multi-grip-chinup-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FProSource+%E3%83%9E%E3%83%AB%E3%83%81%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97+%E3%83%81%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
@@ -11388,7 +11287,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$439.00",
     links: [
-      
       { network: "moshimo", productId: "rakuten-powerblock-elite-exp-50", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPowerBlock%2BElite%2BEXP%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11466,7 +11364,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約170ドル（約2万5,000円）のサーモジェット式セミオート。ThermoJet加熱で3秒で93℃到達——この価格帯で最速のウォームアップ。加圧・非加圧バスケット両方付属の54mmポルタフィルター；各ショット後の自動パージサイクルでボイラーをスチーム温度へ降下。手動スチームワンドで練習すれば真のマイクロフォームを作れる。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-breville-bambino-bes450", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BBambino%2BBES450%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11710,7 +11607,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$15.00",
     links: [
-      
       { network: "moshimo", productId: "rakuten-wod-nation-speed-jump-rope", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWOD+Nation+%E7%B8%84%E8%B7%B3%E3%81%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11820,7 +11716,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約8,500円。Vブレード設計（中心で出会う2枚の傾斜ブレード）で硬い根菜——にんじん・ビーツ・コールラビ——をフラットブレードより速く切断。ドイツステンレス・約56〜58 HRC。薄切り+3/5/7/9mmの固定設定。最強のカットガード（セーフティホルダーがミニトマトを含む約3cmまでをホールド）。固定設定間の細かな調整不可。折りたたみ可。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-swissmar-borner-v-power", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9C%E3%83%BC%E3%83%8A%E3%83%BC+V%E3%83%91%E3%83%AF%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11836,7 +11731,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約3,500円。5種の交換式ブレード（ストレートスライサー・ジュリエンヌ2mm・ジュリエンヌ4mm・ウェーブ/波形カット・グレーター）——最安値で最多ブレード。420ステンレス・約50〜52 HRC。連続ダイヤルで0.5〜8mm。カットガード（6本の短い突起）が5cm以下の滑らかな食材でグリップ低下。使用頻度が不明な家庭への最初の一本に最適；6ヶ月の定期使用で切れ味の低下が目立つ。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-mueller-v-pro-mandoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+V-Pro+%E3%83%9E%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11977,7 +11871,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$34.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-mueller-ultra-stick-blender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+Ultra-Stick+%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -11993,7 +11886,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$29.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-koios-4in1-immersion-blender", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKOIOS+%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12100,7 +11992,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$49.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-rehband-rx-knee-sleeve-7mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRehband+RX+Knee+Sleeve+7mm%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12115,7 +12006,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$67.00",
     links: [
-      
       { network: "moshimo", productId: "rakuten-stoic-strength-knee-sleeves", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FStoic+Strength+Knee+Sleeves%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12146,7 +12036,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$60.00",
     links: [
-      
       { network: "moshimo", productId: "rakuten-rogue-knee-sleeves-5mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+Knee+Sleeves+5mm%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12162,7 +12051,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$24.95",
     links: [
-      
       { network: "moshimo", productId: "rakuten-schiek-wrist-wraps-24inch", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSchiek+Wrist+Wraps+24inch%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12494,7 +12382,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約45,000〜60,000円。1980年代からテキサスで製造されるバディ・キャップスの伝説のパワーリフティングバーベル。市場最高クラスの210,000 PSI引張強度。29mmシャフト、センターローレット付きアグレッシブデュアルローレット、最大グリップテクスチャのための裸スチールフィニッシュ。ロウパワーリフティングの基準：センターローレットは高バースクワットで背中にしっかり噛み込み、数十年の重いデッドリフトでも鋼材品質でバーが永久変形しない。軽いオイルメンテナンスが必要。空調管理されたジムに最適。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-texas-power-bar-bare-steel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTexas%2BPower%2BBar%2B%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12658,7 +12545,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約15,000〜20,000円。6クォート10-in-1マルチクッカー。Duoにスービー・滅菌・高温ソテーを追加。ダイヤル式放圧でデンプン料理の泡立ち防止。煮込み前の焼きや精密温度調理を重視する家庭向けのアップグレード。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-instant-pot-pro-10in1-6qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BPro%2B10-in-1%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12706,7 +12592,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約18,000〜25,000円。Duoにエアフライリッドを追加した11-in-1マルチクッカー。圧力調理・エアフライ・グリル・ベイク・ロースト・乾燥など11機能。インスタントポットのエコシステム・アクセサリと互換性を保ちながら両機能を実現。Ninja乗り換えなしで両機能を使いたい場合の選択肢。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-instant-pot-duo-crisp-air-fryer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BDuo%2BCrisp%2B%E3%82%A8%E3%82%A2%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12832,7 +12717,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "石由来のノンスティックコーティング（APEO・PFOA不使用）を厚みのあるアルミ素材に施したフライパン。10インチサイズは1〜2人前の卵料理・オムレツ・パンケーキに最適。IH対応、耐傷加工済み。石コーティングのエントリー価格帯で、安価なPTFE製品からのアップグレードに適したモデル。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-ozeri-stone-earth-10in", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOzeri%2BStone%2BEarth%2B%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -12911,7 +12795,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "25段階負荷、10%までの電動傾斜、ZwiftやサードパーティアプリへのBluetooth、デュアルLCD/バックライトディスプレイを中価格帯で提供。51cmストライドが163〜175cmのユーザーによく合う。9kgフライホイールが軽中度トレーニングに十分な滑らかさ。データ可視化とアプリ接続を求めるエリプティカル初心者に最適なエントリーポイント。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-schwinn-470", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSchwinn%2B470%2BElliptical%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13303,7 +13186,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "100〜575°Fを5°F刻みで制御——この価格帯の競合より細かい分解能。6段階のプログラマブルクッキングステージで多段階レシピの温度と時間をシーケンス設定。最大1800W。キャンディ製造や多段階ソースで温度が一定間隔で変わる場面でステージング機能が本当に役立つ。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-nuwave-precision-induction-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNuWave%2BPrecision%2BInduction%2FCooktop%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13399,7 +13281,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$99.95",
     links: [
-      
       { network: "moshimo", productId: "rakuten-meater-plus-wireless", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMEATER%2BPlus%2BWireless%2BThermometer%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13802,7 +13683,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$199.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-power-tower-workout-dip-station", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPower%2BTower%2BPull%2BUp%2BDip%2BStation%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -13834,7 +13714,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$206.09",
     links: [
-      
       { network: "moshimo", productId: "rakuten-weider-power-tower-200", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWeider%2BPower%2BTower%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14114,7 +13993,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約30,000〜50,000円。15ft丸型スプリングトランポリン、96本スプリング、囲いネットをパッドと同じポールに取り付け（ネットとマットのすき間を減少）、パッド入りスプリングカバー付属、ジャンパー1人当たり200 lb制限。ほとんどの家族への質の高いメインストリームの選択。弱点：標準スプリングシステム（スプリングフリーと比較してスプリング接触リスク）；定期点検なしで金属フレームが錆びる。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-skywalker-15ft-trampoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC%2B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9D%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14130,7 +14008,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約40,000〜60,000円。15ft丸型、108本スプリング、亜鉛めっきスチールフレーム（傷がついても錆に強い——雨・沿岸気候での屋外耐久性に意味がある）、標準より厚いスプリングパッド。低スプリング数モデルよりマット全体で一貫したバウンス。過酷な気候での耐久性に最適。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-zupapa-15ft-trampoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BA%E3%83%91%E3%83%91%2B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9D%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14196,7 +14073,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約10,000〜15,000円。6トレイ、水平気流、35〜74°C、設定温度と実際温度を同時表示するデジタル表示、48時間タイマー、透明ドア。時々使用する家庭への最高価値の水平気流乾燥機。エクスカリバーより小さいが大幅に安価。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-cosori-food-dehydrator", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%82%BD%E3%83%AA%2B%E9%A3%9F%E5%93%81%E4%B9%BE%E7%87%A5%E6%A9%9F%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14278,7 +14154,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約3,500〜5,000円。外径33 cm（わずかに大きい——背が高い/胴体が長いユーザーに適切）、1.5 cm EVAフォーム、3サイズ（15/25/33 cm）、滑り止め面。最高価値のヨガホイール。ダーマよりパッドが薄いが60秒以下の標準的な練習の保持には十分。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-tumaz-yoga-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%9E%E3%82%BA%2B%E3%83%A8%E3%82%AC%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14326,7 +14201,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約3,000〜7,000円（サイズにより）。円周方向に走る独特の脊椎溝（約5 cm幅）が棘突起から傍脊柱筋への圧力をリダイレクト——骨の接触不快感を軽減。3サイズ（15/25/30 cm）。標準的なヨガホイールが脊椎接触点で不快に感じるユーザーに最適。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-chirp-wheel-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%A3%E3%83%BC%E3%83%97%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14422,7 +14296,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約1万〜1万3千円。30×11インチデッキ＋直径6.5インチフォームローラー。スキル上限が高い——サーファー、スケートボーダー、スノーボーダーに最適。ファイバーグラスデッキ＋グリップテープ。大径ローラーとディスククッションアクセサリーに対応。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-indo-board-original", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A4%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%89%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14646,7 +14519,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約4千〜6千円。アルミランガー（プロスポーツプログラムと同様）、15フィート、調整可能な間隔。屋外草地使用と商業施設に最適。地面杭なしでフラットを保つ。高頻度の毎日使用環境にのみ正当化されるより高いコスト。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-speed-agility-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B8%E3%83%AA%E3%83%86%E3%82%A3%E3%83%A9%E3%83%80%E3%83%BC%E3%82%A2%E3%83%AB%E3%83%9F%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14726,7 +14598,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約1万5千〜4万円。ブラックウォルナットエンドグレイン、ジャンカ約1010、最も包丁の刃に優しい。最高の視覚的魅力——キッチン展示のためのダーク木目。キッチンアイランドやブッチャーブロックカウンター展示に最適。エンドグレインメープルと同じオイルメンテナンス。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-boos-walnut", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FJohn+Boos%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%8A%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14934,7 +14805,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約3千〜4千5百円。デュアルボールベアリング、細いワイヤーケーブル、14cmハンドル。ダブルアンダーを習得しプレミアム価格なしの品質ベアリングを求める中級アスリートに最適な中価格帯オプション。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-buddy-lee-aero", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBuddy+Lee%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%97%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -14966,7 +14836,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約2千5百〜3千5百円。中価格帯のボールベアリング、2mm PVCケーブル、13cmハンドル。最高のコスパのボールベアリングスピードロープ。ほとんどの中級アスリートへの推奨——RX Smart Gearのプレミアム価格なしのボールベアリング品質。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-elite-surge3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%AD%E3%83%BC%E3%83%97%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%99%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15030,7 +14899,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約6,000〜8,000円。シーズニング済み鋳鉄、14インチ、事前シーズニング済み。伝統的炒め物よりも焼き目と蒸し煮に最適。IH対応。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-lodge-wok", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%E9%8B%B3%E9%89%84%E4%B8%AD%E8%8F%AF%E9%8D%8B%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15222,7 +15090,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約2,500〜4,000円/本。機械加工アルミニウムとばね、#1=63kg、#2=88kg、#3=127kg。競技グリップスポーツの基準。クラッシュグリップ発達と漸進的過負荷に最適。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-coc-gripper", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%B3%E3%83%89%E3%82%B0%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E5%BC%B7%E5%8C%96%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15686,7 +15553,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約3,500〜5,000円。ステンレスカラフェ（シングル壁）、多層フィルタリング。最低コストの機能的フレンチプレス。ガラスより優れた保温性。初めての醸造者のエントリーポイント。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-mueller-french-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15847,7 +15713,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約3,500〜5,000円（プラスチック）。シングルサーブポアオーバードリッパー、スパイラルリブ、60°コーン。Chemexより薄いフィルター——より多くのボディ・より速いフロー・より多くの抽出コントロール。別のサーバーまたはマグが必要。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-hario-v60", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15912,7 +15777,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約11万〜17万円。デュアル独立スタック、高さ調整可能ケーブル、2:1比、150〜200lbスタック。ホームジムに最高の機能的トレーナー——完全なケーブルエクササイズライブラリー、複数のマシンを置き換え。競合より優れた保証。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-force-usa-trainer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A9%9F%E8%83%BD%E7%9A%84%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -15945,7 +15809,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約1万8千〜2万2千円（セール時〜1万9千円）。40mmコニカルスチールバー、40設定、修理可能。基準エントリーグラインダー——全非エスプレッソ方法をカバー、10年以上の寿命。1万円の閾値をわずかに超えるが全体的に最高の価値。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-baratza-encore", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBaratza+Encore%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -16026,7 +15889,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約12万〜17万円。専用ヒップスラストステーション、パッド付きレバーアーム、バックパッド高さ調整。セットアップ時間を排除、快適。グルートフォーカスジムへの専門購入——バーベル+ベンチと同じ刺激をはるかに高いコストで。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-hip-thrust-machine", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%92%E3%83%83%E3%83%97%E3%82%B9%E3%83%A9%E3%82%B9%E3%83%88%E3%83%9E%E3%82%B7%E3%83%B3%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -16300,7 +16162,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約3,500〜5,500円。ホウケイ酸ガラス、02サイズ（1〜4カップ）、透明。視覚的学習者に最適——蒸らしと抽出を観察。セラミックより保温性低め。最も壊れやすい。使用前に予熱を。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-hario-v60-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60+%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -16494,7 +16355,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約3,000〜6,000円。サイフォン抽出用調整可能炎ブタンバーナー。一貫したサイフォン熱に必須——付属のアルコールランプより制御可能。精密な温度コントロールと繰り返し可能な結果に必要。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-butane-burner-siphon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3+%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -16511,7 +16371,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約4万5千〜5万3千円。11ゲージスチール、41cmスリーブ、450kg定格、デュアルナーリングハンドル、バー約27kg。最高のトラップバー——227kg以上を一貫して引くアスリートと長期投資に正しい。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-rogue-tb2-trap-bar", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRogue+TB-2+%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -16640,7 +16499,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "約8,000〜1万3千円。ハンドグラインダー、トルコファイン調整範囲、円筒形デザイン。トルココーヒーのための最高のグラインダー——家庭用電気グラインダーが達成できないトルコファイン挽き目を達成。丸ごとの豆から醸造する場合に必要。",
     },
     links: [
-      
       { network: "moshimo", productId: "rakuten-zassenhaus-turkish-grinder", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FZassenhaus+%E3%83%88%E3%83%AB%E3%82%B3+%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -16754,7 +16612,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$15.30",
     links: [
-      
       { network: "moshimo", productId: "rakuten-nguyen-coffee-phin", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fベトナムコーヒー+フィン%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -16802,7 +16659,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$5.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-longevity-condensed-milk", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B9%E3%83%9F%E3%83%AB%E3%82%AF+%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -17472,7 +17328,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$17.50",
     links: [
-      
       { network: "moshimo", productId: "rakuten-rishi-masala-chai", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRishi+Masala+Chai%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -17585,7 +17440,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$119.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-rdx-heavy-bag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRDX+5ft+punching+bag%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -17634,7 +17488,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$26.24",
     links: [
-      
       { network: "moshimo", productId: "rakuten-comvita-manuka-umf10", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FComvita+Manuka+UMF+10%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -18072,7 +17925,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     },
     price: "$299.00",
     links: [
-      
       { network: "moshimo", productId: "rakuten-head-speed-mp", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHead+Speed+MP+tennis%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -18395,7 +18247,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Hibiscus-rose-orange herbal blend that cold brews into striking ruby red with natural sweetness", ja: "ハイビスカス・バラ・オレンジブレンド、コールドブリューで鮮やかなルビー色" },
     price: "$18.00",
     links: [
-      
       { network: "moshimo", productId: "rakuten-palais-des-thes", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPalais+des+Th%C3%A9s%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -18420,7 +18271,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Bigelow Benefits Cold Brew", ja: "Bigelow Benefits コールドブリュー" },
     description: { en: "Accessible cold brew bags with functional flavors, clean-tasting without cloudiness", ja: "機能系フレーバー付きの手軽なコールドブリューバッグ、濁りなくクリーン" },
     links: [
-      
       { network: "moshimo", productId: "rakuten-bigelow-cold-brew", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBigelow+Cold+Brew%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -18552,7 +18402,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Ultra-high elevation Taiwan oolong from 2,200-2,600m with intense floral complexity", ja: "台湾標高2,200〜2,600mの超高山烏龍、濃厚な花香複雑性" },
     price: "$32.00",
     links: [
-      
       { network: "moshimo", productId: "rakuten-li-shan-oolong", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%A2%A8%E5%B1%B1+%E9%AB%98%E5%B1%B1%E7%83%8F%E9%BE%8D%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -18579,7 +18428,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "USDA organic fair-trade South African rooibos with full-leaf bags and clean earthy flavor", ja: "USDA有機・フェアトレード認証の南アフリカルイボス、フルリーフバッグ" },
     price: "$6.61",
     links: [
-      
       { network: "moshimo", productId: "rakuten-numi-rooibos", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNumi+Rooibos%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -18710,7 +18558,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Symmetric flat-last beginner climbing shoe with lace + strap closure, widely recommended", ja: "対称フラットラストの初心者クライミングシューズ、レース＋ストラップ、定番推薦品" },
     price: "$104.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-la-sportiva-tarantula", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLa+Sportiva+Tarantula%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -18736,7 +18583,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "World Cup-level aggressively downturned boulder shoe with P3 system for maximum precision", ja: "ワールドカップ仕様のP3システム搭載攻撃的ダウンターンボルダリングシューズ" },
     price: "$180.00",
     links: [
-      
       { network: "moshimo", productId: "rakuten-la-sportiva-solution", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLa+Sportiva+Solution%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -18948,7 +18794,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Fujian-province single-origin Silver Needle with clean melon-honeydew sweetness and floral top note", ja: "クリーンなメロン・ハネデューの甘さとフローラルな上部の香りを持つ福建省シングルオリジン銀針" },
     price: "$15.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-rishi-silver-needle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRishi+Tea+Silver+Needle%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -19252,7 +19097,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Ultra-lightweight speed-optimized FG soccer cleat with Flyknit upper for forwards and attacking players", ja: "フォワードとアタッカー向けFlyknitsアッパーを持つ超軽量スピード最適化FGサッカースパイク" },
     price: "$149.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-nike-mercurial-vapor-15", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike+Mercurial+Vapor+15%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -19317,7 +19161,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Intensely aged Argentine mate with deep earthy complexity for experienced mate drinkers who prefer bold flavor", ja: "大胆な風味を好む経験豊富なマテ飲み手向けの深い土っぽい複雑さを持つ強く熟成されたアルゼンチンマテ" },
     price: "$12.99",
     links: [
-      
       { network: "moshimo", productId: "rakuten-rosamonte-especial", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRosamonte+Especial+Yerba+Mate%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -19396,7 +19239,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     description: { en: "Retro-influenced low-top basketball shoe that performs on court for recreational play and transitions to casual use", ja: "レクリエーションプレイのコートで機能しカジュアルな使用へ移行するレトロの影響を受けたローカットバスケットボールシューズ" },
     price: "$110.00",
     links: [
-      
       { network: "moshimo", productId: "rakuten-new-balance-bb550", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNew+Balance+BB550%2F", markets: ["JP"], approved: true },
     ],
   },
@@ -19485,7 +19327,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "$9.99",
     links: [
       { network: "amazon-us", productId: "pukka-three-ginger", markets: ["US"], approved: true },
-      
     ],
   },
   // best-lemon-ginger-tea-2026
@@ -19621,7 +19462,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "$120.00",
     links: [
       { network: "amazon-us", productId: "asics-cael-v9-wrestling", markets: ["US"], approved: true },
-      
     ],
   },
   {
@@ -20365,7 +20205,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Summer Infant Multi-Use Deco Extra Tall Gate", ja: "サマーインファント マルチユース デコ エクストラトール ゲート", "zh-CN": "Summer Infant 多用途装饰超高门", "zh-TW": "Summer Infant 多用途裝飾超高門", ko: "서머 인펀트 멀티유즈 데코 엑스트라 톨 게이트", es: "Puerta Summer Infant Multi-Use Deco Extra Tall", "pt-BR": "Portão Summer Infant Multi-Use Deco Extra Tall", fr: "Barrière Summer Infant Multi-Use Deco Extra Tall", de: "Summer Infant Multi-Use Deco Extra Tall Gitter", it: "Cancelletto Summer Infant Multi-Use Deco Extra Tall", ru: "Ворота Summer Infant Multi-Use Deco Extra Tall", ar: "بوابة سامر إنفانت متعددة الاستخدامات ديكو إكسترا توول", hi: "समर इन्फेंट मल्टी-यूज डेको एक्सट्रा टॉल गेट", id: "Gerbang Summer Infant Multi-Use Deco Extra Tall", th: "ประตูกั้น Summer Infant Multi-Use Deco Extra Tall", vi: "Cổng Summer Infant Multi-Use Deco Extra Tall", tr: "Summer Infant Multi-Use Deco Extra Tall Kapısı" },
     description: { en: "36-inch tall decorative gate with wood trim panel. Adjusts 28-44 inches wide. Hardware or pressure mount. Includes 4 extension panels. Stylish design that blends with home decor.", ja: "木製トリムパネル付きの36インチ高装飾ゲート。幅28〜44インチに調整可能。ハードウェアまたは圧力式取り付け。4つの延長パネル付き。インテリアに馴染むスタイリッシュなデザイン。" },
     links: [
-      
     ],
   },
   {
@@ -20851,7 +20690,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Outward Hound Fun Feeder Slo-Bowl", ja: "アウトワードハウンド ファンフィーダー スローボウル", "zh-CN": "Outward Hound 慢食碗", "zh-TW": "Outward Hound 慢食碗", ko: "아웃워드 하운드 슬로우 피더 볼", es: "Comedero lento Outward Hound Fun Feeder", "pt-BR": "Comedouro lento Outward Hound Fun Feeder", fr: "Gamelle anti-glouton Outward Hound Fun Feeder", de: "Outward Hound Fun Feeder Slow Bowl", it: "Ciotola lenta Outward Hound Fun Feeder", ru: "Миска-лабиринт Outward Hound Fun Feeder", ar: "وعاء التغذية البطيئة Outward Hound", hi: "Outward Hound फन फीडर स्लो बाउल", id: "Mangkuk Makan Lambat Outward Hound Fun Feeder", th: "ชามกินช้า Outward Hound Fun Feeder", vi: "Bát ăn chậm Outward Hound Fun Feeder", tr: "Outward Hound Fun Feeder Yavaş Besleyici Kase" },
     description: { en: "Maze-pattern slow feeder in BPA-free plastic, extends meal time by up to 10x, reduces bloat risk. Available in multiple sizes and ridge patterns.", ja: "BPAフリー素材の迷路型スローフィーダー。食事時間を最大10倍延長し、膨満リスクを軽減。複数サイズ・リッジパターン対応。" },
     links: [
-      
     ],
   },
   {
@@ -20905,7 +20743,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "SmartCat Ultimate Scratching Post", ja: "スマートキャット アルティメット スクラッチングポスト", "zh-CN": "SmartCat终极猫抓柱", "zh-TW": "SmartCat終極貓抓柱", ko: "스마트캣 얼티밋 스크래칭 포스트", es: "Poste Rascador SmartCat Ultimate", "pt-BR": "Arranhador SmartCat Ultimate", fr: "Griffoir SmartCat Ultimate", de: "SmartCat Ultimate Kratzpfosten", it: "Tiragraffi SmartCat Ultimate", ru: "Когтеточка SmartCat Ultimate", ar: "عمود خدش SmartCat Ultimate", hi: "स्मार्टकैट अल्टीमेट स्क्रैचिंग पोस्ट", id: "Tiang Garukan SmartCat Ultimate", th: "เสาข่วน SmartCat Ultimate", vi: "Cột cào SmartCat Ultimate", tr: "SmartCat Ultimate Tırmalama Direği" },
     description: { en: "32-inch sisal rope post — tall enough for a Maine Coon to fully extend. Weighted base stays put on hardwood. Vet-recommended as furniture-saver.", ja: "高さ32インチのサイザルロープポスト。メインクーンでも完全に伸びられる高さ。ハードウッドでもずれない重量ベース。家具保護に獣医師推奨。" },
     links: [
-      
     ],
   },
   {
@@ -20957,7 +20794,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Amazon Basics Cat Condo Scratcher", ja: "アマゾンベーシックス キャットコンド スクラッチャー", "zh-CN": "亚马逊基础版猫抓树", "zh-TW": "亞馬遜基礎版貓抓樹", ko: "아마존 베이직스 캣 콘도 스크래처", es: "Árbol Rascador Amazon Basics Cat Condo", "pt-BR": "Arranhador Amazon Basics Cat Condo", fr: "Griffoir Amazon Basics Cat Condo", de: "Amazon Basics Katzen-Condo Kratzbaum", it: "Tiragraffi Amazon Basics Cat Condo", ru: "Когтеточка Amazon Basics Cat Condo", ar: "شجرة خدش أمازون بيسيكس للقطط", hi: "अमेज़न बेसिक्स कैट कॉन्डो स्क्रैचर", id: "Pohon Garukan Amazon Basics Cat Condo", th: "ต้นไม้ข่วน Amazon Basics Cat Condo", vi: "Cây cào Amazon Basics Cat Condo", tr: "Amazon Basics Kedi Evi Tırmalama" },
     description: { en: "Two-level condo with sisal-wrapped posts, plush perches, and a dangling toy. Under $50 gives kittens a full territory. Assembly takes about 20 minutes.", ja: "サイザルポスト・プラッシュパーチ・ぶら下がりおもちゃ付きの2階建てコンド。50ドル以下で子猫に完全なテリトリーを提供。組み立て約20分。" },
     links: [
-      
     ],
   },
   // ───────── Pets / Cat Tunnels (best-cat-tunnel-2026) ─────────
@@ -21023,7 +20859,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "KONG Naturals Incline Scratcher", ja: "KONGナチュラルズ インクライン スクラッチャー", "zh-CN": "KONG Naturals 斜面猫抓板", "zh-TW": "KONG Naturals 斜面貓抓板", ko: "콩 네추럴스 경사 스크래처", es: "Rascador inclinado KONG Naturals", "pt-BR": "Arranhador inclinado KONG Naturals", fr: "Griffoir incliné KONG Naturals", de: "KONG Naturals Schräg-Kratzer", it: "Tiragraffi inclinato KONG Naturals", ru: "Когтеточка KONG Naturals наклонная", ar: "مخدش KONG Naturals المائل", hi: "KONG Naturals इनक्लाइन स्क्रैचर", id: "Garukan Kucing Miring KONG Naturals", th: "ที่ลับเล็บแมวเอียง KONG Naturals", vi: "Bảng cào mèo nghiêng KONG Naturals", tr: "KONG Naturals Eğimli Tırmalık" },
     description: { en: "Corrugated cardboard incline scratcher, 18 × 9 inches, with a packet of North American catnip included. Reversible surface extends usable life. Made from sustainable cardboard. Pairs well with cat tunnels as part of an enrichment station.", ja: "波形ダンボール製傾斜スクラッチャー、18×9インチ。北米産キャットニップ付き。リバーシブル面で長持ち。サステナブルなダンボール製。キャットトンネルと組み合わせてエンリッチメントステーションに。" },
     links: [
-      
     ],
   },
   ...CATALOG_ADDITIONS,
@@ -21135,7 +20970,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       en: "Pro-grade electric Z-lift grooming table. Height adjusts 25–48 inches at 5.2 cm/sec. 250 lb capacity, non-slip rubber surface, used in commercial salons.",
     },
     links: [
-      
       { network: "direct", productId: "https://flyingpiggrooming.com/", markets: ["US", "EU", "global"], approved: true },
     ],
   },
@@ -21868,7 +21702,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Dremel 7300-PT Pet Nail Grooming Tool", ja: "ドレメル 7300-PT ペット爪グラインダー", "zh-CN": "Dremel 7300-PT 宠物磨甲工具", "zh-TW": "Dremel 7300-PT 寵物磨甲工具", ko: "드레멜 7300-PT 반려동물 발톱 그라인더", es: "Dremel 7300-PT Kit de uñas para mascotas", "pt-BR": "Dremel 7300-PT Kit para unhas de pets", fr: "Dremel 7300-PT Outil de toilettage pour animaux", de: "Dremel 7300-PT Tierpflege-Schleifgerät", it: "Dremel 7300-PT Strumento per unghie animali", ru: "Dremel 7300-PT Инструмент для когтей питомцев", ar: "Dremel 7300-PT أداة العناية بأظافر الحيوانات الأليفة", hi: "Dremel 7300-PT पालतू नाखून ग्राइंडर", id: "Dremel 7300-PT Alat Kuku Hewan Peliharaan", th: "Dremel 7300-PT เครื่องเจียรเล็บสัตว์เลี้ยง", vi: "Dremel 7300-PT Dụng cụ mài móng thú cưng", tr: "Dremel 7300-PT Evcil Hayvan Tırnak Bakım Aleti" },
     description: { en: "Cordless rotary tool with 2 speeds (6,500 / 13,000 RPM) and 60-grit sanding bands. Runs up to 2 hours on 4 AA batteries. Ideal for dark-nailed dogs where the quick is invisible.", ja: "コードレス回転工具、2段階速度（6,500/13,000 RPM）、60番サンディングバンド。単3電池4本で最大2時間動作。毛細血管が見えにくい黒爪の犬に最適。" },
     links: [
-      
     ],
   },
   {
@@ -21881,7 +21714,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Safari Professional Nail Trimmer for Dogs", ja: "サファリ プロフェッショナル 犬用爪切り", "zh-CN": "Safari 专业犬用指甲剪", "zh-TW": "Safari 專業犬用指甲剪", ko: "사파리 프로페셔널 반려견 발톱 깎기", es: "Safari Cortaúñas profesional para perros", "pt-BR": "Safari Cortador de unhas profissional para cães", fr: "Safari Coupe-ongles professionnel pour chiens", de: "Safari Professioneller Hundekrallenschneider", it: "Safari Tronchesino professionale per cani", ru: "Safari Профессиональный триммер когтей для собак", ar: "Safari مقص أظافر احترافي للكلاب", hi: "Safari प्रोफेशनल डॉग नेल ट्रिमर", id: "Safari Pemotong Kuku Anjing Profesional", th: "Safari กรรไกรตัดเล็บสุนัขมืออาชีพ", vi: "Safari Kìm cắt móng chó chuyên nghiệp", tr: "Safari Köpekler için Profesyonel Tırnak Kesici" },
     description: { en: "Stainless steel blades with a quick-stop safety guard. Ergonomic non-slip handles. Trusted by professional dog groomers for medium and large breeds.", ja: "ステンレス製ブレード、安全ガード付き。滑り止めエルゴノミックグリップ。中・大型犬向けのプログルーマー愛用品。" },
     links: [
-      
     ],
   },
   {
@@ -23107,7 +22939,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "1970年代のTissot PR516にインスパイアされたスイス製一体型ブレスレットクオーツ。35mmケース、サファイアクリスタル、10年電池、ETA Ronda 715ムーブメント、月±10秒精度。一体型ブレスレットが手首に自然にフィット。ティソブティックおよび正規ディーラーで325〜425ドル。",
     },
     links: [
-      
       { network: "direct", productId: "https://www.tissotwatches.com/en-en/tissot-t-classic-tissot-prx.html", markets: ["US", "EU", "UK", "global"], approved: true },
     ],
   },
@@ -23525,7 +23356,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Babyletto Modo Toddler Bed Conversion Kit", ja: "バビレット モード トドラーベッド コンバージョンキット", "zh-CN": "Babyletto Modo 幼儿床转换套件", "zh-TW": "Babyletto Modo 幼兒床轉換套件", ko: "바빌레토 모도 유아 침대 전환 키트", es: "Kit de conversión a cama de niños Babyletto Modo", "pt-BR": "Kit de conversão de berço Babyletto Modo para cama infantil", fr: "Kit de conversion de lit de bébé Babyletto Modo en lit de tout-petit", de: "Babyletto Modo Kleinkinderbett Umbausatz", it: "Kit di conversione da lettino a letto per bambini Babyletto Modo", ru: "Комплект для переоборудования кроватки Babyletto Modo", ar: "مجموعة تحويل سرير الأطفال الصغار Babyletto Modo", hi: "बेबीलेटो मोडो टॉडलर बेड कन्वर्जन किट", id: "Kit Konversi Tempat Tidur Balita Babyletto Modo", th: "ชุดแปลงเตียงเด็กเล็ก Babyletto Modo", vi: "Bộ chuyển đổi giường trẻ em Babyletto Modo", tr: "Babyletto Modo Küçük Çocuk Yatağı Dönüşüm Kiti" },
     description: { en: "Greenguard Gold certified toddler bed conversion for Babyletto Modo cribs. New Zealand pine, low-VOC finishes, JPMA certified. Converts existing Modo crib with toddler rail that positions the mattress at floor level. Holds up to 50 lbs.", ja: "バビレットモードクリブ用のグリーンガードゴールド認証トドラーベッドコンバージョン。ニュージーランドパイン、低VOC仕上げ、JPMA認証取得。既存のモードクリブをマットレスを床レベルに配置するトドラーレールで変換。耐荷重50ポンド。" },
     links: [
-      
     ],
   },
   // ───────── Travel / Travel Power Strips (best-travel-power-strip-2026) ─────────
