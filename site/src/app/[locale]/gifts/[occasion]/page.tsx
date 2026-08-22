@@ -16,6 +16,7 @@ import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
 import { resolvePrice } from "@/lib/affiliates/price";
+import { seoDescription } from "@/lib/seo/meta-description";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -99,7 +100,7 @@ export default async function GiftPage({ params }: Props) {
     "@context": "https://schema.org",
     "@type": "ItemList",
     name: config.title,
-    description: config.description,
+    description: seoDescription(config.description),
     url: `${SITE_URL}/${locale}/gifts/${occasionSlug}`,
     numberOfItems: articles.length,
     itemListElement: articles.slice(0, 10).map((a, i) => {

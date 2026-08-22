@@ -6,6 +6,7 @@ import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
 import { DEFAULT_OG_IMAGES } from "@/lib/og";
+import { seoDescription } from "@/lib/seo/meta-description";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -49,7 +50,7 @@ export default async function AuthorPage({ params }: Props) {
     "@type": "Organization",
     name: "Pickly Editorial Team",
     url: `${SITE_URL}/${locale}/author`,
-    description: "A multilingual product research team comparing consumer goods across 10 categories and 17 languages, using published specs and independent reviews.",
+    description: seoDescription("A multilingual product research team comparing consumer goods across 10 categories and 17 languages, using published specs and independent reviews."),
     sameAs: [
       `${SITE_URL}`,
     ],
@@ -172,7 +173,7 @@ export async function generateMetadata({ params }: Props) {
   const canonicalUrl = `${SITE_URL}/${locale}/author`;
   return {
     title: serpTitle(title),
-    description,
+    description: seoDescription(description),
     alternates: {
       canonical: canonicalUrl,
       languages: localeAlternates("/author", locale).languages,

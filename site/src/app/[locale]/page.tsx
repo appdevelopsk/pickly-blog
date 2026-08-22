@@ -15,6 +15,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { resolvePrice } from "@/lib/affiliates/price";
+import { seoDescription } from "@/lib/seo/meta-description";
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -123,7 +124,7 @@ export default async function HomePage({ params }: Props) {
         "@id": `${SITE_URL}/#website`,
         name: "Pickly",
         url: SITE_URL,
-        description: tt("home.siteDesc", "Curated reviews and comparisons across 17 languages."),
+        description: seoDescription(tt("home.siteDesc", "Curated reviews and comparisons across 17 languages.")),
         publisher: { "@id": `${SITE_URL}/#organization` },
         potentialAction: {
           "@type": "SearchAction",
@@ -136,7 +137,7 @@ export default async function HomePage({ params }: Props) {
         "@id": `${SITE_URL}/#organization`,
         name: "Pickly",
         url: SITE_URL,
-        description: tt("home.siteDesc", "Curated reviews and comparisons across 17 languages."),
+        description: seoDescription(tt("home.siteDesc", "Curated reviews and comparisons across 17 languages.")),
         sameAs: ["https://www.pinterest.com/appdevelopsk/"],
       },
     ],
@@ -525,7 +526,7 @@ export async function generateMetadata({ params }: Props) {
 
   return {
     title: { absolute: title },
-    description,
+    description: seoDescription(description),
     alternates: {
       canonical: canonicalUrl,
       languages: localeAlternates("", locale).languages,
@@ -534,7 +535,7 @@ export async function generateMetadata({ params }: Props) {
       images: DEFAULT_OG_IMAGES,
       type: "website",
       title,
-      description,
+      description: seoDescription(description),
       url: canonicalUrl,
       siteName: "Pickly",
       locale,

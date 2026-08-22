@@ -19,6 +19,7 @@ import { loadArticleContent, isArticleBodyTranslated } from "@/lib/i18n/loader";
 import { withEnglishGeoAlternates } from "@/lib/i18n/alternates";
 import { OG_BASE_URL } from "@/lib/og";
 import type { ArticleContent } from "@/lib/articles/types";
+import { seoDescription } from "@/lib/seo/meta-description";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -164,7 +165,7 @@ export default async function ArticlePage({ params }: Props) {
 
   const content: ArticleContent = {
     title,
-    description,
+    description: seoDescription(description),
     lede,
     sections,
     faqs,
@@ -243,7 +244,7 @@ export default async function ArticlePage({ params }: Props) {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: title,
-    description,
+    description: seoDescription(description),
     datePublished: meta.publishedAt,
     dateModified: meta.updatedAt,
     url: canonicalUrl,
@@ -337,7 +338,7 @@ export async function generateMetadata({ params }: Props) {
     // タイトルを60字に収めても接尾辞9字ぶんが足されてSERPで切れ、しかも切れる先が
     // 無名ブランド名という最悪の形になっていた。absolute で本文タイトルに全枠を使う。
     title: { absolute: title },
-    description,
+    description: seoDescription(description),
     // 厳選(2026-06-29): 需要ゼロ〜微小の死蔵記事は noindex,follow でサイト全体の
     // 品質評価(AdSense低価値/HCU)から外す。ページ自体はライブ維持(Pinterest用)。可逆。
     ...(isDeindexed(slug) || untranslated ? { robots: { index: false, follow: true } } : {}),
@@ -368,7 +369,7 @@ export async function generateMetadata({ params }: Props) {
     openGraph: {
       type: "article",
       title,
-      description,
+      description: seoDescription(description),
       url: canonicalUrl,
       siteName: "Pickly",
       publishedTime: meta.publishedAt,
@@ -381,7 +382,7 @@ export async function generateMetadata({ params }: Props) {
     twitter: {
       card: "summary_large_image",
       title,
-      description,
+      description: seoDescription(description),
       ...(ogImageUrl ? { images: [ogImageUrl] } : {}),
     },
   };

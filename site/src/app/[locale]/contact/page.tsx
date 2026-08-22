@@ -1,5 +1,6 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { localeAlternates } from "@/lib/i18n/alternates";
+import { seoDescription } from "@/lib/seo/meta-description";
 
 interface Props {
   params: Promise<{ locale: string }>;
@@ -27,7 +28,7 @@ export async function generateMetadata({ params }: Props) {
   const brand = read("site.name", "Pickly");
   return {
     title: title.includes(brand) ? { absolute: title } : title,
-    description: description.slice(0, 160),
+    description: seoDescription(description),
     alternates: localeAlternates("/contact", locale),
   };
 }

@@ -120,7 +120,18 @@ const PASSIVE_FAB = {
 // 翻訳されずに残った英語の定型。非enページに出ていたら未翻訳。
 const EN_BOILERPLATE = "Compared on published specs, manufacturer data and independent reviews";
 
-const problems = { untaggedAffiliate: [], deadAffiliate: [], emptyTitle: [], wideTitle: [], rawKey: [], doubleBrand: [], fabricated: [], passiveFab: [], enBoilerplate: [], emptyHeading: [] };
+const problems = { untaggedAffiliate: [], deadAffiliate: [], emptyTitle: [], wideTitle: [], rawKey: [], doubleBrand: [], fabricated: [], passiveFab: [], enBoilerplate: [], emptyHeading: [], noDesc: [], longDesc: [], shortDesc: [], noH1: [], multiH1: [], noAlt: [] };
+
+// meta description の枠 (2026-08-22 追加)。Bing Webmaster Tools の Recommendations が
+// 全プロパティで「メタ説明が長すぎ/短すぎ」を報告しており、pickly だけで 160字超 2,686件・
+// 50字未満 918件あった。Bingのエラー総数は実質100%がこれ1項目。
+// 出口(generateMetadata)は seoDescription() でクランプ済みだが、新しいページを
+// 素の description で足すと再発するので、ここで門番する。
+const DESC_MAX = 160;
+// 短すぎ側だけは表示幅(width)で測る。中国語は30字で英語90字ぶんの情報量があり、
+// 文字数で50を切ると zh-CN/zh-TW の良質な説明文 464件が全部ひっかかった(実測)。
+// 幅60 = 全角30字 ≒ 半角60字。ここを下回るものだけを「内容が伝わらない」とみなす。
+const DESC_MIN_WIDTH = 60;
 const titlesByPath = new Map();   // ロケールを除いたパス -> Map(locale -> title)
 
 for (const file of pages) {
@@ -183,6 +194,25 @@ for (const file of pages) {
   const title = unescapeHtml(tm[1].replace(/\s+/g, " ").trim());
   if (noindex) continue;                       // 検索に出ないページは対象外
 
+  // ---- meta description / h1 / img alt (2026-08-22) --------------------------
+  // いずれも Bing の Recommendations が実際に挙げている指摘項目。
+  const dm = html.match(/<meta name="description" content="([^"]*)"/i);
+  const desc = dm ? unescapeHtml(dm[1]).trim() : "";
+  if (!desc) problems.noDesc.push(rel);
+  else {
+    const dlen = [...desc].length;   // 長すぎ側はBingが文字数で見るので code point
+    if (dlen > DESC_MAX) problems.longDesc.push(`${dlen}字  ${rel}`);
+    else if (width(desc) < DESC_MIN_WIDTH) problems.shortDesc.push(`幅${width(desc)}  ${rel}  ${desc}`);
+  }
+
+  const h1n = [...html.matchAll(/<h1[\s>]/gi)].length;
+  if (h1n === 0) problems.noH1.push(rel);
+  else if (h1n > 1) problems.multiH1.push(`h1 ×${h1n}  ${rel}`);
+
+  // alt 属性そのものが無い img だけを見る。alt="" は装飾画像の正しい書き方なので対象外。
+  const imgs = [...html.matchAll(/<img\b[^>]*>/gi)].filter((m) => !/\salt\s*=/i.test(m[0]));
+  if (imgs.length) problems.noAlt.push(`img ×${imgs.length}  ${rel}`);
+
   if (!title) { problems.emptyTitle.push(rel); continue; }
   if (width(title) > TITLE_LIMIT) problems.wideTitle.push(`${width(title)}  ${rel}  ${title}`);
   // 生の翻訳キーが漏れていないか (例: crossBrokerPage.meta_title)
@@ -208,6 +238,9 @@ for (const [rest, byLocale] of titlesByPath) {
   if (uniq.size === 1) untranslated.push(`${byLocale.size}ロケール  /${rest}  ${[...uniq][0]}`);
 }
 
+// 重大度は2段。FATAL=収益/正しさが壊れているのでデプロイ中止。
+// WARN=SEOの磨き込み。ここを致命にすると「説明文が3字短い」ために
+// アフィリエイトタグの修正がデプロイできなくなる (ビルド門番は重大度を2段に)。
 const checks = [
   ["Amazonリンクにアフィリエイトタグが無い（クリックされても報酬にならない）", problems.untaggedAffiliate],
   ["Amazonのトップページに飛ぶ行き止まりリンク", problems.deadAffiliate],
@@ -220,6 +253,16 @@ const checks = [
   ["やっていない一次テストを受動態で主張している（title/meta）", problems.passiveFab],
   ["非enページに英語の定型文が残っている（未翻訳）", problems.enBoilerplate],
   ["見出しタグ(h1-h3)が空（カードタイトル欠落）", problems.emptyHeading],
+  ["meta description が無い", problems.noDesc],
+];
+
+// WARN: 出したうえでデプロイは通す。CI を落とさない。
+const warnings = [
+  [`meta description が ${DESC_MAX} 字超（SERPで切れる）`, problems.longDesc],
+  [`meta description が表示幅 ${DESC_MIN_WIDTH} 未満（内容が伝わらない）`, problems.shortDesc],
+  ["<h1> が無い", problems.noH1],
+  ["<h1> が複数ある", problems.multiH1],
+  ["<img> に alt 属性が無い", problems.noAlt],
 ];
 
 let failed = 0;
@@ -232,8 +275,18 @@ for (const [label, list] of checks) {
   if (list.length > 10) console.error(`      … 他 ${list.length - 10} 件`);
 }
 
+let warned = 0;
+for (const [label, list] of warnings) {
+  if (!list.length) { console.log(`  ✓ ${label}: 0`); continue; }
+  warned += list.length;
+  console.log(`  ⚠ ${label}: ${list.length}`);
+  for (const x of list.slice(0, 10)) console.log(`      ${x}`);
+  if (list.length > 10) console.log(`      … 他 ${list.length - 10} 件`);
+}
+
 if (failed) {
   console.error(`\n❌ ${failed} 件。デプロイを中止する。`);
   process.exit(1);
 }
+if (warned) console.log(`\n⚠ 警告 ${warned} 件（デプロイは継続）`);
 console.log("\n✓ ビルド出力の検査を通過");

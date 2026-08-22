@@ -7,6 +7,7 @@ import { PURPOSE_TAGS } from "@/lib/pages/tag-config";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
 import { DEFAULT_OG_IMAGES } from "@/lib/og";
+import { seoDescription } from "@/lib/seo/meta-description";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -110,7 +111,7 @@ export async function generateMetadata({ params }: Props) {
   const url = `${SITE_URL}/${locale}/purpose`;
   return {
     title: serpTitle(title),
-    description,
+    description: seoDescription(description),
     alternates: {
       canonical: url,
       languages: localeAlternates("/purpose", locale).languages,

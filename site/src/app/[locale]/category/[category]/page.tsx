@@ -15,6 +15,7 @@ import type { AffiliateOffer } from "@/lib/affiliates/types";
 import type { ArticleCategory } from "@/lib/articles/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { resolvePrice } from "@/lib/affiliates/price";
+import { seoDescription } from "@/lib/seo/meta-description";
 
 // ── Constants ─────────────────────────────────────────────────────────────────
 
@@ -108,7 +109,7 @@ export default async function CategoryPage({ params }: Props) {
     "@context": "https://schema.org",
     "@type": "ItemList",
     name: `Best ${catLabel} Products 2026`,
-    description: desc,
+    description: seoDescription(desc),
     url: `${SITE_URL}/${locale}/category/${category}`,
     numberOfItems: articles.length,
     itemListElement: articles.slice(0, 20).map((a, i) => {
@@ -281,13 +282,13 @@ export async function generateMetadata({ params }: Props) {
 
   return {
     title,
-    description,
+    description: seoDescription(description),
     alternates: localeAlternates(`/category/${category}`, locale),
     openGraph: {
       images: DEFAULT_OG_IMAGES,
       type: "website",
       title,
-      description,
+      description: seoDescription(description),
       url: canonicalUrl,
       siteName: "Pickly",
     },

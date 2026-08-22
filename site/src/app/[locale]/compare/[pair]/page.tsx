@@ -15,6 +15,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { serpTitle } from "@/lib/seo/title";
 import { resolvePrice } from "@/lib/affiliates/price";
+import { seoDescription } from "@/lib/seo/meta-description";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -90,7 +91,7 @@ export default async function ComparePage({ params }: Props) {
   const schema = {
     "@context": "https://schema.org", "@type": "Article",
     headline: config.title,
-    description: config.description,
+    description: seoDescription(config.description),
     url: `${SITE_URL}/${locale}/compare/${pair}`,
     ...(artA && metaA ? { about: { "@type": "Product", name: metaA.title } } : {}),
   };

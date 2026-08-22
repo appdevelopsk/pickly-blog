@@ -15,6 +15,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
+import { seoDescription } from "@/lib/seo/meta-description";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -210,7 +211,7 @@ export async function generateMetadata({ params }: Props) {
     return v ? v : fallback;
   };
   const title = tt("pages.bestBrandProducts", `Best ${config.name} Products 2026`, { brand: config.name });
-  const description = `${tt(`brandPages.${brand}.description`, config.description)} ${tt("pages.brandTested", `We've tested ${config.name} products across multiple categories.`, { brand: config.name })}`;
+  const description = seoDescription(`${tt(`brandPages.${brand}.description`, config.description)} ${tt("pages.brandTested", `We've tested ${config.name} products across multiple categories.`, { brand: config.name })}`);
   const url = `${SITE_URL}/${locale}/brand/${brand}`;
   return {
     title: serpTitle(title), description,

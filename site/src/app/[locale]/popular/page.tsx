@@ -14,6 +14,7 @@ import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
 import { resolvePrice } from "@/lib/affiliates/price";
+import { seoDescription } from "@/lib/seo/meta-description";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -277,7 +278,7 @@ export async function generateMetadata({ params }: Props) {
   const canonicalUrl = `${SITE_URL}/${locale}/popular`;
   return {
     title: serpTitle(title),
-    description,
+    description: seoDescription(description),
     alternates: {
       canonical: canonicalUrl,
       languages: localeAlternates("/popular", locale).languages,
