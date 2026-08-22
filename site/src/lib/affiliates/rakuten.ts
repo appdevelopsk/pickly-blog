@@ -12,8 +12,10 @@
  */
 import { ytLocale } from "@/lib/youtube/locale-search";
 
+// 2026-08-20: 楽天ウェブサービスで再登録した pickly アプリのアフィリエイトIDに統一。
+// 旧ID 53e47703.78b3c1ac.53e47704.15517b06 は別アカウント発行のため使用しない。
 const RAKUTEN_AFFILIATE_ID =
-  process.env.NEXT_PUBLIC_RAKUTEN_AFFILIATE_ID ?? "53e47703.78b3c1ac.53e47704.15517b06";
+  process.env.NEXT_PUBLIC_RAKUTEN_AFFILIATE_ID ?? "56b4cf1a.6d81592e.56b4cf1b.5b082228";
 
 /** 任意の楽天URLを自前 hgc アフィリリンク（自分のID）で包む。 */
 function wrapHgc(targetUrl: string): string {

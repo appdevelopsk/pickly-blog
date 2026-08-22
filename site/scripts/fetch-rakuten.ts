@@ -1,11 +1,12 @@
 /**
  * 楽天商品データ補完スクリプト（2026-06-20）。
  *
- * カタログ各商品名で楽天市場を検索し、最安1件の {itemUrl, price, image} を
+ * カタログ各商品名で楽天市場を検索し、関連性ガードを通った1件の {itemUrl, price, image} を
  * `src/lib/affiliates/rakuten-cache.json` にキャッシュ。サイトはこのJSONを読むだけ
  * （ビルド時API呼び出し無し）。アフィリリンクは itemUrl を自前 hgc で包む（呼出側）。
  *
- * 使い方（要 env: RAKUTEN_APP_ID / RAKUTEN_ACCESS_KEY / AFFILIATE_RAKUTEN_AFFILIATE_ID）:
+ * 使い方（要 env: RAKUTEN_APP_ID / RAKUTEN_ACCESS_KEY。アフィリIDは
+ *   AFFILIATE_RAKUTEN_AFFILIATE_ID / RAKUTEN_AFFILIATE_ID / NEXT_PUBLIC_RAKUTEN_AFFILIATE_ID のいずれか）:
  *   npx tsx scripts/fetch-rakuten.ts                 # 未取得を全件（レート約1/秒）
  *   npx tsx scripts/fetch-rakuten.ts --limit 100     # 未取得を100件だけ
  *   npx tsx scripts/fetch-rakuten.ts --category food # カテゴリ限定
@@ -17,6 +18,7 @@ import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { CATALOG } from "../src/lib/affiliates/catalog";
 import { searchItems, type RakutenItem } from "../src/lib/rakuten/client";
+import { keywordCandidates } from "../src/lib/rakuten/keywords";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const CACHE_PATH = resolve(HERE, "../src/lib/affiliates/rakuten-cache.json");
@@ -34,44 +36,10 @@ type CacheEntry = {
   fetchedAt: string; // YYYY-MM-DD
 };
 
-function norm(s: string): string {
-  return s.toLowerCase().replace(/[\s　・,，.。:：()（）[\]【】|/_–—-]+/g, "");
-}
-// 商品名の主要トークン（en先頭語 + ja先頭5字）。関連商品の絞り込みに使う。
-function brandTokens(nameEn?: string, nameJa?: string): string[] {
-  const t: string[] = [];
-  const en = (nameEn ?? "").trim().split(/\s+/)[0] ?? "";
-  if (en.length >= 3) t.push(norm(en));
-  if (nameJa) {
-    const j = norm(nameJa);
-    if (j.length >= 3) t.push(j.slice(0, 5));
-  }
-  return t;
-}
-// 取得した候補から、関連商品(トークン一致)に絞って 最上位/最安/最高 を出す。
-function pickWithRange(
-  items: RakutenItem[],
-  tokens: string[],
-): { top: RakutenItem; priceMin: number | null; priceMax: number | null } | null {
-  if (items.length === 0) return null;
-  const relevant = tokens.length
-    ? items.filter((it) => tokens.some((t) => norm(it.name).includes(t)))
-    : items;
-  const top = relevant[0] ?? items[0];
-  // 外れ値除去: 最上位(代表)価格の 0.6〜1.8倍に収まる関連商品だけで価格レンジを作る。
-  // （アクセサリ=極端に安い / 別モデル・バンドル=極端に高い を排除し、同一商品帯の幅にする）
-  const anchor = top.price > 0 ? top.price : relevant.find((i) => i.price > 0)?.price ?? 0;
-  const band =
-    anchor > 0
-      ? relevant.filter((i) => i.price >= anchor * 0.6 && i.price <= anchor * 1.8)
-      : relevant.filter((i) => i.price > 0);
-  const prices = (band.length ? band : [top]).map((i) => i.price).filter((p) => p > 0);
-  return {
-    top,
-    priceMin: prices.length ? Math.min(...prices) : null,
-    priceMax: prices.length ? Math.max(...prices) : null,
-  };
-}
+// 関連性ガードは楽天/Yahoo 共通。以前は各スクリプトにコピーがあり、片方だけ
+// 直して測定が無効になる事故が起きたため src/lib/affiliates/match-guard.ts に一本化した。
+import { pickWithRange, guardsFor } from "../src/lib/affiliates/match-guard";
+
 type Cache = Record<string, CacheEntry>;
 
 const args = process.argv.slice(2);
@@ -120,23 +88,33 @@ async function main() {
   let done = 0;
   let hit = 0;
   for (const offer of batch) {
-    const keyword = offer.name.ja ?? offer.name.en ?? offer.id;
-    const tokens = brandTokens(offer.name.en, offer.name.ja);
+    const candidates = keywordCandidates(offer.name.ja, offer.name.en);
+    if (candidates.length === 0) candidates.push(offer.id);
+    const { tokens, prodTokens, codes, cats } = guardsFor(offer.name.ja, offer.name.en);
+    let keyword = candidates[0];
     try {
-      let items: RakutenItem[] = [];
-      for (let attempt = 0; attempt < 4; attempt++) {
-        try {
-          items = await searchItems(keyword, { hits: 30 });
-          break;
-        } catch (e) {
-          if ((e as { rateLimited?: boolean }).rateLimited) {
-            await sleep(2000 * (attempt + 1));
-            continue;
+      // 具体的な候補から順に試し、関連性ガードを通った時点で打ち切る。
+      // 商品名を丸ごと投げると修飾語過多で0件になりやすいため（2026-08-20実測）。
+      let picked: ReturnType<typeof pickWithRange> = null;
+      for (const cand of candidates) {
+        keyword = cand;
+        let items: RakutenItem[] = [];
+        for (let attempt = 0; attempt < 4; attempt++) {
+          try {
+            items = await searchItems(cand, { hits: 30 });
+            break;
+          } catch (e) {
+            if ((e as { rateLimited?: boolean }).rateLimited) {
+              await sleep(2000 * (attempt + 1));
+              continue;
+            }
+            throw e;
           }
-          throw e;
         }
+        picked = pickWithRange(items, tokens, prodTokens, codes, cats);
+        if (picked) break;
+        await sleep(1200); // 候補間もレート制限を守る
       }
-      const picked = pickWithRange(items, tokens);
       cache[offer.id] = picked
         ? {
             itemUrl: picked.top.itemUrl,
@@ -155,10 +133,9 @@ async function main() {
     } catch (e) {
       const msg = (e as Error).message;
       console.warn(`  ! ${offer.id} (${keyword}): ${msg}`);
-      // 恒久エラー(RWSが弾く無効キーワード等)は no-hit でキャッシュし、毎日の再試行を抑制。
-      if (/keyword is not valid|wrong_parameter|RWS 400/.test(msg)) {
-        cache[offer.id] = { itemUrl: null, price: null, priceMin: null, priceMax: null, image: null, fetchedAt: today };
-      }
+      // 以前は RWS 400 を恒久エラー扱いで no-hit キャッシュしていたが、実際の原因は
+      // キーワード中の `%` `+` だった（2026-08-20 判明）。sanitizeKeyword() で除去済みの
+      // 今は 400 は一時的な異常とみなし、キャッシュせず次回再試行させる。
     }
     done++;
     if (done % 25 === 0) {

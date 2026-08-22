@@ -1,6 +1,6 @@
 /**
  * Yahoo!ショッピング 商品データ補完（2026-06-22）。
- * カタログ各商品名で検索→関連商品の最上位 + 価格レンジ + レビュー を
+ * カタログ各商品名で検索→関連性ガード（楽天と共有）を通った1件 + 価格レンジ + レビュー を
  * `src/lib/affiliates/yahoo-cache.json` にキャッシュ。サイトはこれを読むだけ。
  *
  * 使い方（要 env YAHOO_APP_ID, 任意 AFFILIATE_VALUECOMMERCE_SID）:
@@ -13,6 +13,10 @@ import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { CATALOG } from "../src/lib/affiliates/catalog";
 import { searchItems, type YahooItem } from "../src/lib/yahoo/client";
+// 関連性ガードとキーワード候補は楽天と共通。以前は各スクリプトにコピーがあり、
+// 片方だけ直して測定が無効になる事故が起きたため共有モジュールに一本化した。
+import { pickWithRange, guardsFor } from "../src/lib/affiliates/match-guard";
+import { keywordCandidates } from "../src/lib/rakuten/keywords";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const CACHE_PATH = resolve(HERE, "../src/lib/affiliates/yahoo-cache.json");
@@ -43,24 +47,6 @@ function numFlag(f: string): number | null { const i = args.indexOf(f); return i
 function strFlag(f: string): string | null { const i = args.indexOf(f); return i >= 0 ? args[i + 1] ?? null : null; }
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 function daysBetween(a: string, b: string): number { return Math.abs((+new Date(a) - +new Date(b)) / 86400000); }
-function norm(s: string): string { return s.toLowerCase().replace(/[\s　・,，.。:：()（）[\]【】|/_–—-]+/g, ""); }
-function brandTokens(en?: string, ja?: string): string[] {
-  const t: string[] = [];
-  const e = (en ?? "").trim().split(/\s+/)[0] ?? "";
-  if (e.length >= 3) t.push(norm(e));
-  if (ja) { const j = norm(ja); if (j.length >= 3) t.push(j.slice(0, 5)); }
-  return t;
-}
-function pickWithRange(items: YahooItem[], tokens: string[]) {
-  if (!items.length) return null;
-  const relevant = tokens.length ? items.filter((it) => tokens.some((t) => norm(it.name).includes(t))) : items;
-  const top = relevant[0] ?? items[0];
-  const anchor = top.price > 0 ? top.price : relevant.find((i) => i.price > 0)?.price ?? 0;
-  const band = anchor > 0 ? relevant.filter((i) => i.price >= anchor * 0.6 && i.price <= anchor * 1.8) : relevant.filter((i) => i.price > 0);
-  const prices = (band.length ? band : [top]).map((i) => i.price).filter((p) => p > 0);
-  return { top, priceMin: prices.length ? Math.min(...prices) : null, priceMax: prices.length ? Math.max(...prices) : null };
-}
-
 async function main() {
   const cache: Cache = existsSync(CACHE_PATH) ? JSON.parse(readFileSync(CACHE_PATH, "utf-8")) : {};
   const rk: Record<string, { itemUrl?: string | null }> = existsSync(RK_PATH) ? JSON.parse(readFileSync(RK_PATH, "utf-8")) : {};
@@ -80,15 +66,23 @@ async function main() {
 
   let done = 0, hit = 0;
   for (const offer of batch) {
-    const keyword = offer.name.ja ?? offer.name.en ?? offer.id;
-    const tokens = brandTokens(offer.name.en, offer.name.ja);
+    // 商品名を丸ごと投げると0件になりやすいので、具体的→一般的の候補列を順に試す。
+    const candidates = keywordCandidates(offer.name.ja, offer.name.en);
+    if (candidates.length === 0) candidates.push(offer.name.ja ?? offer.name.en ?? offer.id);
+    const keyword = candidates[0]!;
+    const { tokens, prodTokens, codes, cats } = guardsFor(offer.name.ja, offer.name.en);
     try {
-      let items: YahooItem[] = [];
-      for (let a = 0; a < 4; a++) {
-        try { items = await searchItems(keyword, { hits: 30 }); break; }
-        catch (e) { if ((e as { rateLimited?: boolean }).rateLimited) { await sleep(2000 * (a + 1)); continue; } throw e; }
+      let picked: ReturnType<typeof pickWithRange<YahooItem>> = null;
+      for (const cand of candidates) {
+        let items: YahooItem[] = [];
+        for (let a = 0; a < 4; a++) {
+          try { items = await searchItems(cand, { hits: 30 }); break; }
+          catch (e) { if ((e as { rateLimited?: boolean }).rateLimited) { await sleep(2000 * (a + 1)); continue; } throw e; }
+        }
+        picked = pickWithRange(items, tokens, prodTokens, codes, cats);
+        if (picked) break;
+        await sleep(300);
       }
-      const picked = pickWithRange(items, tokens);
       cache[offer.id] = picked
         ? { url: picked.top.url, price: picked.top.price, priceMin: picked.priceMin, priceMax: picked.priceMax, image: picked.top.image, review: picked.top.review, reviewCount: picked.top.reviewCount, name: picked.top.name, fetchedAt: today }
         : { url: null, price: null, priceMin: null, priceMax: null, image: null, fetchedAt: today };
