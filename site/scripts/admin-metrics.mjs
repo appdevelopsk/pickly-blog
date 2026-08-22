@@ -345,7 +345,9 @@ function collectScrapedAsp() {
   }
   for (const [asp, r] of latest) {
     const d = Math.floor((Date.now() - Date.parse(r.date)) / 864e5);
-    if (d > 8) warn(`${asp} のスクレイプが ${d} 日前 (${r.date}) で止まっている — ~/.chrome-asp のログインが切れている`);
+    // もしもは自動ログイン(キーチェーン: moshimo-affiliate)、楽天は永続Cookie。
+    // よってここが鳴るのは、認証情報の失効か launchd ジョブの停止を意味する。
+    if (d > 8) warn(`${asp} のスクレイプが ${d} 日前 (${r.date}) で止まっている — com.cargate.asp-earnings の停止か認証情報の失効を疑う`);
   }
   return latest;
 }
@@ -567,10 +569,18 @@ async function main() {
   // Skimlinks 撤去(2026-08-04)の後、置き換え漏れがそのまま素のリンクとして
   // 残っていると、クリックは出るのに1円にもならない。ホスト名から機械的に見つける。
   const KNOWN = [...Object.values(ASP_HOSTS).flat(), ...Object.values(UNMEASURED_ASP_HOSTS).flat(), "amazon."];
-  const untagged = ga.clicksByDomain.filter((d) => !d.market && !hostMatches(d.domain, KNOWN) && !DEAD_HOST_KEYS.includes(d.domain));
+  // 判定は DEAD_HOSTS と同じく直近7日で行う (2026-08-22)。28日窓のままだと、
+  // catalog.ts 側で direct 唯一リンクを Amazon 検索に寄せた修正が入った後も、
+  // 修正前のクリックが窓を抜けるまで何週間も警告が鳴り続けて狼少年になる。
+  // なお marcus.com のような finance カテゴリは設計上 direct のままなので、
+  // 実際に押された週だけ鳴る = 「無視してよい既知の穴」ではなく実損の通知になる。
+  const untagged = Object.entries(ga.clicksByDomain7)
+    .map(([domain, clicks]) => ({ domain, clicks, market: DOMAIN_MARKET[domain] ?? null }))
+    .filter((d) => !d.market && !hostMatches(d.domain, KNOWN) && !DEAD_HOST_KEYS.includes(d.domain))
+    .sort((a, b) => b.clicks - a.clicks);
   const untaggedClicks = untagged.reduce((a, d) => a + d.clicks, 0);
   if (untaggedClicks > 0) {
-    warn(`報酬にならない素の直リンクへ ${untaggedClicks} クリック (${untagged.slice(0, 5).map((d) => d.domain).join(", ")}${untagged.length > 5 ? " ほか" : ""}) — アフィリタグ付きに差し替えるか、リンク自体を外す`);
+    warn(`報酬にならない素の直リンクへ直近7日で ${untaggedClicks} クリック (${untagged.slice(0, 5).map((d) => d.domain).join(", ")}${untagged.length > 5 ? " ほか" : ""}) — アフィリタグ付きに差し替えるか、リンク自体を外す`);
   }
 
   // 報酬が発生しない先へ流れているクリックを検知する。
