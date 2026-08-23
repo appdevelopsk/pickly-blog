@@ -17,10 +17,25 @@ import { ytLocale } from "@/lib/youtube/locale-search";
 const RAKUTEN_AFFILIATE_ID =
   process.env.NEXT_PUBLIC_RAKUTEN_AFFILIATE_ID ?? "56b4cf1a.6d81592e.56b4cf1b.5b082228";
 
+/**
+ * hgc リンクを自前の中間リダイレクタ経由に付け替える（2026-08-23）。
+ *
+ * 直リンクだと楽天へのクリックが我々のエッジを一切通らず、UA も国も測れない。
+ * 30日1,811クリック/成約0の無効トラフィックを切り分けられなかった真因がこれ
+ * (memory: rakuten-clicks-are-invisible-to-our-edge)。
+ * 実装は functions/go/rakuten.ts。hgc URL は書き換えず 302 で素通しするので
+ * 成果計上の条件は直リンクと同じ。
+ */
+export function viaInterstitial(hgcUrl: string): string {
+  return `/go/rakuten?u=${encodeURIComponent(hgcUrl)}`;
+}
+
 /** 任意の楽天URLを自前 hgc アフィリリンク（自分のID）で包む。 */
 function wrapHgc(targetUrl: string): string {
   const enc = encodeURIComponent(targetUrl);
-  return `https://hb.afl.rakuten.co.jp/hgc/${RAKUTEN_AFFILIATE_ID}/?pc=${enc}&m=${enc}`;
+  return viaInterstitial(
+    `https://hb.afl.rakuten.co.jp/hgc/${RAKUTEN_AFFILIATE_ID}/?pc=${enc}&m=${enc}`,
+  );
 }
 
 /** 商品名から楽天市場の検索アフィリエイトリンクを作る（フォールバック）。 */

@@ -1,4 +1,5 @@
 import type { AspLink, AspNetwork, Market } from "./types";
+import { viaInterstitial } from "./rakuten";
 
 /**
  * ASP ごとのアフィリリンク URL を組み立てる。
@@ -384,16 +385,19 @@ export function buildAffiliateUrl({ link, productName, market, category, sibling
     "valuecommerce": (id, e) => `https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=${e("AFFILIATE_VALUECOMMERCE_SID") ?? "PENDING"}&pid=${id}`,
     // 楽天IDは環境によって3系統の変数名で入っている（client.ts と同じ順で解決する）。
     // 単一名だけを見ていたため automation/.env の設定を拾えず PENDING を出していた。
+    // 中間リダイレクタ経由（rakuten.ts の wrapHgc と同じ理由・2026-08-23）。
     "rakuten-affiliate": (id, e) =>
-      `https://hb.afl.rakuten.co.jp/hgc/${
-        e("AFFILIATE_RAKUTEN_AFFILIATE_ID") ??
-        e("RAKUTEN_AFFILIATE_ID") ??
-        e("NEXT_PUBLIC_RAKUTEN_AFFILIATE_ID") ??
-        // CI ビルド(.github/workflows/deploy.yml)は楽天IDをenvに渡していないため、
-        // ここが必ず "PENDING" になり out に PENDING リンクが46本焼かれていた
-        // (2026-08-20 実測)。env未設定でも成立するよう rakuten.ts と同じ既定値を置く。
-        RAKUTEN_AFFILIATE_ID_FALLBACK
-      }/?pc=${encodeURIComponent(id)}`,
+      viaInterstitial(
+        `https://hb.afl.rakuten.co.jp/hgc/${
+          e("AFFILIATE_RAKUTEN_AFFILIATE_ID") ??
+          e("RAKUTEN_AFFILIATE_ID") ??
+          e("NEXT_PUBLIC_RAKUTEN_AFFILIATE_ID") ??
+          // CI ビルド(.github/workflows/deploy.yml)は楽天IDをenvに渡していないため、
+          // ここが必ず "PENDING" になり out に PENDING リンクが46本焼かれていた
+          // (2026-08-20 実測)。env未設定でも成立するよう rakuten.ts と同じ既定値を置く。
+          RAKUTEN_AFFILIATE_ID_FALLBACK
+        }/?pc=${encodeURIComponent(id)}`,
+      ),
     "shareasale": (id, e) => `https://shareasale.com/r.cfm?b=${id}&u=${e("AFFILIATE_SHAREASALE_USER_ID") ?? "PENDING"}&m=&afftrack=`,
     "cj": (id, e) => `https://www.anrdoezrs.net/click-${e("AFFILIATE_CJ_PID") ?? "PENDING"}-${id}`,
     "impact": (id, e) => `https://imp.pxf.io/c/${e("AFFILIATE_IMPACT_CAMPAIGN_ID") ?? "PENDING"}/${id}`,
