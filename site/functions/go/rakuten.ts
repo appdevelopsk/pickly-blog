@@ -43,7 +43,7 @@ function utcDay(): string {
   return new Date().toISOString().slice(0, 10);
 }
 
-export const onRequestGet: PagesFunction<Env> = async (context) => {
+const handler: PagesFunction<Env> = async (context) => {
   const { request, env } = context;
   const url = new URL(request.url);
   const target = url.searchParams.get("u");
@@ -62,13 +62,23 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     }
   }
 
+  const cf = (request as unknown as { cf?: { country?: string; colo?: string } }).cf;
+  const ua = request.headers.get("user-agent") ?? "";
+  const cls = classifyUa(ua);
+
+  // 自己申告で bot と分かる UA はアフィリIDを外して楽天トップへ逃がす (2026-08-23)。
+  // hgc に bot を流すと「クリックだけ増えて成約0」の無効トラフィックとして
+  // ASP 側に積み上がる。読者でないものに成果計上リンクを踏ませる理由が無い。
+  // (UA を偽装する bot はここでは止まらない。それは KV の国×UA 集計で追う)
+  if (cls === "bot") dest = fallback;
+
   // 計測。失敗しても遷移は絶対に止めない。
   if (env.ADMIN_KV) {
-    const cf = (request as unknown as { cf?: { country?: string } }).cf;
-    const ua = request.headers.get("user-agent") ?? "";
-    const cls = classifyUa(ua);
     const country = cf?.country ?? "??";
-    const key = `rakuten:clicks:${utcDay()}:${cls}:${country}`;
+    // ★ キーに colo を含める。KV の get→put は原子的でなく、別 colo の put は
+    //   最大60秒見えない。colo を跨いで同じキーを足し込むと互いに上書きして
+    //   過少計上する。colo ごとに分けて集計側(admin-metrics)で合算する。
+    const key = `rakuten:clicks:${utcDay()}:${cls}:${country}:${cf?.colo ?? "??"}`;
     context.waitUntil(
       (async () => {
         try {
@@ -93,3 +103,9 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     },
   });
 };
+
+// GET だけ定義すると HEAD は Pages の静的フォールバックに落ちて 404 になる
+// (2026-08-23 本番実測)。リンクチェッカ/プレビュー取得が 404 を見てリンク切れ
+// 扱いにしないよう HEAD も同じ挙動にする。
+export const onRequestGet = handler;
+export const onRequestHead = handler;

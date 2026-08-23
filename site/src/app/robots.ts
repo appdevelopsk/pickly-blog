@@ -30,7 +30,7 @@ export default function robots(): MetadataRoute.Robots {
         // AI assistants: allow full crawl (drives citable LLM referral traffic)
         userAgent: AI_CRAWLERS,
         allow: "/",
-        disallow: ["/api/", "/og/_raw/"],
+        disallow: ["/api/", "/og/_raw/", "/go/"],
       },
       {
         // NOTE: /_next/ must stay crawlable. Every page loads its CSS and JS
@@ -39,7 +39,7 @@ export default function robots(): MetadataRoute.Robots {
         // the raw OG endpoint are off-limits.
         userAgent: "*",
         allow: "/",
-        disallow: ["/api/", "/og/_raw/"],
+        disallow: ["/api/", "/og/_raw/", "/go/"],
       },
     ],
     sitemap: [`${SITE_URL}/sitemap.xml`, `${SITE_URL}/web-stories/sitemap.xml`],

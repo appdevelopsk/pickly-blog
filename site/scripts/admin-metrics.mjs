@@ -97,6 +97,27 @@ const eventFilter = (name) => ({
 /** 本人(東大阪)を除いた実流入も併記する。自分の閲覧を成果と誤読しないため。 */
 const SELF_CITY = "Higashiosaka";
 
+/**
+ * link_url -> 帰属先ホスト。
+ * ★ 楽天リンクは 2026-08-23 から自前の中間リダイレクタ /go/rakuten?u=<hgc> を
+ *   経由する。GA4 の link_url は anchor.href なので "https://pickly.blog/go/rakuten?u=…"
+ *   になり、素直にホストを取ると pickly.blog に化けて楽天行が 0 クリック・
+ *   さらに「報酬にならない素の直リンク」として誤警告される。u を剥がして
+ *   本来の遷移先 (hb.afl.rakuten.co.jp) に帰属させる。
+ */
+function clickHost(linkUrl) {
+  try {
+    let u = new URL(linkUrl);
+    if (u.pathname === "/go/rakuten") {
+      const inner = u.searchParams.get("u");
+      if (inner) u = new URL(inner);
+    }
+    return u.hostname.replace(/^www\./, "");
+  } catch {
+    return "(URL不明)"; // 空や壊れたURL
+  }
+}
+
 async function collectGa4() {
   const token = await ga4Token();
 
@@ -138,8 +159,7 @@ async function collectGa4() {
   // link_url -> ホスト単位に畳む。ASP/ロケール別の内訳はこれが元になる。
   const hostCounts = new Map();
   for (const r of byDomain) {
-    let host = "(URL不明)";
-    try { host = new URL(r.dimensionValues[0].value).hostname.replace(/^www\./, ""); } catch { /* 空や壊れたURL */ }
+    const host = clickHost(r.dimensionValues[0].value);
     hostCounts.set(host, (hostCounts.get(host) ?? 0) + num(r));
   }
   const clicksByDomain = [...hostCounts.entries()]
@@ -148,8 +168,7 @@ async function collectGa4() {
 
   const host7 = new Map();
   for (const r of byDomain7) {
-    let host = "(URL不明)";
-    try { host = new URL(r.dimensionValues[0].value).hostname.replace(/^www\./, ""); } catch { /* noop */ }
+    const host = clickHost(r.dimensionValues[0].value);
     host7.set(host, (host7.get(host) ?? 0) + num(r));
   }
   const selfSessions = byCity.filter((r) => r.dimensionValues[0].value === SELF_CITY).reduce((a, r) => a + num(r), 0);
