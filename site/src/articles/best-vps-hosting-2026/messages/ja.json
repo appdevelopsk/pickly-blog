@@ -7,7 +7,7 @@
     {
       "heading": "同スペックでの価格比較",
       "paragraphs": [
-        "4 vCPU / 8 GB / 160 GB SSD価格：Hetzner CPX31（$14.06）、DigitalOcean Premium（$48）、Vultr High Frequency（$48）、Linode Dedicated（$72）、AWS Lightsail（$80＋帯域）。同等ハードでHetznerが3〜5倍安い。",
+        "4 vCPU / 8 GB / 160 GB SSD価格：Hetzner CPX31、DigitalOcean Premium、Vultr High Frequency、Linode Dedicated、AWS Lightsail（$80＋帯域）。同等ハードでHetznerが3〜5倍安い。",
         "帯域：Hetznerは20 TB込み、DigitalOcean／Vultrは5〜6 TB込み、AWS Lightsailは5 TB超過分が$0.09/GB。混雑月のAWSは外向き帯域だけで請求額が倍になり得る。",
         "ブロックストレージ：Hetzner $0.052/GB、DigitalOcean $0.10/GB、AWS EBS $0.10〜0.125/GB。DBが大きくなった瞬間にストレージ単価が効いてくる。"
       ]

@@ -67,7 +67,7 @@
   "faqs": [
     {
       "q": "Echo Dot이나 Google Nest Mini 같은 스마트 스피커가 있으면 허브가 필요 없나요?",
-      "a": "스마트 스피커(Echo Dot, Nest Mini, HomePod)는 Wi-Fi, Bluetooth, 경우에 따라 Thread 라디오를 갖춘 음성 어시스턴트로, 별도 명시가 없는 한 프로토콜 의미에서의 허브가 아닙니다. Echo Dot(4세대/5세대)에는 Zigbee나 Z-Wave 라디오가 없습니다. Nest Mini에는 Zigbee, Z-Wave, Thread가 없습니다. HomePod mini는 Thread를 포함하며 Apple 기기의 HomeKit 허브 역할을 합니다. 기존 스마트 기기가 Wi-Fi나 Bluetooth로만 연결된다면 전용 허브는 선택 사항입니다. 이미 클라우드 통합으로 제어하고 있기 때문입니다. Zigbee 센서, Z-Wave 자물쇠, Thread 기기를 추가하려면 해당 라디오를 갖춘 허브가 필요합니다. Alexa 사용자에게는 Amazon Echo Hub($179)가 적합한 업그레이드 경로이고, 음성 생태계와 관계없이 전용 허브에서 Z-Wave와 Zigbee를 원하는 사용자에게는 Aeotec Smart Home Hub($99)가 적합합니다."
+      "a": "스마트 스피커(Echo Dot, Nest Mini, HomePod)는 Wi-Fi, Bluetooth, 경우에 따라 Thread 라디오를 갖춘 음성 어시스턴트로, 별도 명시가 없는 한 프로토콜 의미에서의 허브가 아닙니다. Echo Dot(4세대/5세대)에는 Zigbee나 Z-Wave 라디오가 없습니다. Nest Mini에는 Zigbee, Z-Wave, Thread가 없습니다. HomePod mini는 Thread를 포함하며 Apple 기기의 HomeKit 허브 역할을 합니다. 기존 스마트 기기가 Wi-Fi나 Bluetooth로만 연결된다면 전용 허브는 선택 사항입니다. 이미 클라우드 통합으로 제어하고 있기 때문입니다. Zigbee 센서, Z-Wave 자물쇠, Thread 기기를 추가하려면 해당 라디오를 갖춘 허브가 필요합니다. Alexa 사용자에게는 Amazon Echo Hub가 적합한 업그레이드 경로이고, 음성 생태계와 관계없이 전용 허브에서 Z-Wave와 Zigbee를 원하는 사용자에게는 Aeotec Smart Home Hub가 적합합니다."
     },
     {
       "q": "Matter 기기가 이 5개 허브 모두에서 동시에 작동하나요?",

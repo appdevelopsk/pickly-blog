@@ -67,7 +67,7 @@
   "faqs": [
     {
       "q": "如果我已有Echo Dot或Google Nest Mini等智慧喇叭，還需要中樞嗎？",
-      "a": "智慧喇叭（Echo Dot、Nest Mini、HomePod）是配備Wi-Fi、Bluetooth，有時也有Thread無線電的語音助理——除非特別說明，它們在協議意義上並不是中樞。Echo Dot（第4/5代）不含Zigbee或Z-Wave無線電。Nest Mini不含Zigbee、Z-Wave或Thread。HomePod mini確實內建Thread，並充當Apple裝置的HomeKit中樞。如果您現有的智慧裝置只透過Wi-Fi或Bluetooth連線，專用中樞是可選的——您已在透過雲端整合控制它們。若您想在家中新增Zigbee感測器、Z-Wave門鎖或Thread裝置，則需要具備相應無線電的中樞。Amazon Echo Hub（$179）是Alexa用戶的正確升級路徑；Aeotec Smart Home Hub（$99）是無論語音生態系統，需要Z-Wave和Zigbee專用中樞的用戶的正確選擇。"
+      "a": "智慧喇叭（Echo Dot、Nest Mini、HomePod）是配備Wi-Fi、Bluetooth，有時也有Thread無線電的語音助理——除非特別說明，它們在協議意義上並不是中樞。Echo Dot（第4/5代）不含Zigbee或Z-Wave無線電。Nest Mini不含Zigbee、Z-Wave或Thread。HomePod mini確實內建Thread，並充當Apple裝置的HomeKit中樞。如果您現有的智慧裝置只透過Wi-Fi或Bluetooth連線，專用中樞是可選的——您已在透過雲端整合控制它們。若您想在家中新增Zigbee感測器、Z-Wave門鎖或Thread裝置，則需要具備相應無線電的中樞。Amazon Echo Hub是Alexa用戶的正確升級路徑；Aeotec Smart Home Hub是無論語音生態系統，需要Z-Wave和Zigbee專用中樞的用戶的正確選擇。"
     },
     {
       "q": "Matter裝置能同時在這五款中樞上使用嗎？",

@@ -7,7 +7,7 @@
     {
       "heading": "Цена за характеристики в одном классе",
       "paragraphs": [
-        "Конфигурация 4 vCPU / 8 ГБ / 160 ГБ SSD: Hetzner CPX31 ($14,06), DigitalOcean Premium ($48), Vultr High Frequency ($48), Linode Dedicated ($72), AWS Lightsail ($80 + трафик). При сопоставимом железе Hetzner в 3–5 раз дешевле.",
+        "Конфигурация 4 vCPU / 8 ГБ / 160 ГБ SSD: Hetzner CPX31, DigitalOcean Premium, Vultr High Frequency, Linode Dedicated, AWS Lightsail ($80 + трафик). При сопоставимом железе Hetzner в 3–5 раз дешевле.",
         "Трафик: у Hetzner включено 20 ТБ, у DigitalOcean и Vultr — 5–6 ТБ, AWS Lightsail берёт $0,09/ГБ сверх 5 ТБ. В нагруженные месяцы исходящий трафик способен удвоить счёт от AWS.",
         "Блочное хранилище: Hetzner — $0,052/ГБ, DigitalOcean — $0,10/ГБ, AWS EBS — $0,10–0,125/ГБ. Как только базы данных разрастаются, эта разница становится ощутимой."
       ]
