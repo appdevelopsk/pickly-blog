@@ -43,15 +43,20 @@ const STOP = new Set(["the", "and", "for", "with", "pro", "plus", "max", "new", 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 function tokens(name) {
-  return name.toLowerCase().replace(/[^a-z0-9 ]+/g, " ").split(/\s+/)
+  // 日本語名は a-z0-9 だけに落とすと全部消えるので、CJK/かな/カナの塊も語として拾う。
+  // (2026-08-24: JP を英語名で検索していたため命中率が 26% に落ちていた)
+  const lower = name.toLowerCase();
+  const latin = lower.replace(/[^a-z0-9 ]+/g, " ").split(/\s+/)
     .filter((w) => w.length >= 3 && !STOP.has(w));
+  const cjk = lower.match(/[\u3040-\u30ff\u4e00-\u9fff]{2,}/g) ?? [];
+  return [...latin, ...cjk];
 }
 
 /** amazon-us リンクを持たない物理カテゴリのオファーを、カタログ本体から取り出す。 */
 function targets() {
   const out = execFileSync("npx", ["tsx", "-e", `
     const { CATALOG } = require("./src/lib/affiliates/catalog");
-    const PHYS = new Set(["tech","home","beauty","fashion","fitness","food","parenting","pets"]);
+    const PHYS = new Set(["tech","home","beauty","fashion","fitness","food","parenting","pets","travel"]);
     const rows = CATALOG
       .filter(o => PHYS.has(o.category))
       // amazon-us リンクが「無い」だけでなく、「有るが実ASINでない(検索URL止まり)」も対象。
@@ -59,8 +64,8 @@ function targets() {
       .filter(o => !(o.links ?? []).some(l => l.network === "${NETWORK}" && /^[A-Z0-9]{10}$/.test(l.productId ?? "")))
       // 月額表記のものは物理商品ではない(VPN・レンタルサーバ等)。Amazon に送っても意味が無い。
       .filter(o => !/\\/\\s*(mo|month|月)/i.test((o.priceMin ?? "") + (o.price ?? "")))
-      .map(o => ({ id: o.id, name: o.name?.en ?? Object.values(o.name ?? {})[0] ?? "", category: o.category }))
-      .filter(o => o.name && !/[^\\x00-\\x7F]/.test(o.name));
+      .map(o => ({ id: o.id, name: ${MARKET === "jp" ? '(o.name?.ja ?? o.name?.en)' : '(o.name?.en ?? o.name?.ja)'} ?? Object.values(o.name ?? {})[0] ?? "", category: o.category }))
+      .filter(o => o.name);
     console.log(JSON.stringify(rows));
   `], { cwd: path.resolve(HERE, ".."), encoding: "utf8", maxBuffer: 64 * 1024 * 1024 });
   return JSON.parse(out.trim().split("\n").pop());
