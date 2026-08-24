@@ -47,7 +47,7 @@ const NET: Record<string, string> = {
  * RETIRED_AMAZON_NETWORKS の退避が効いていない(= 閾値未達で埋もれる)ということ。
  */
 const RETIRED_TAGS = [
-  "pickly06-21",   // IT(却下)
+  "pickly06-21",   // IT(却下・2026-08-24に異議も却下され復元不可が確定)
   "pickly091-20",  // US 旧仮ID(却下)
   "pickly0fd-21",  // UK(US集約)
   "picklyfr21-21", // FR(US集約)
