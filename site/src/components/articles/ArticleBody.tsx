@@ -39,8 +39,16 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
   // アカウント無効化が判明して撤去したため、network:"direct" のみの記事は
   // 実際に非収益。そこで「アフィリエイトリンクを含む」と書くのは不正確。
   const hasMonetisedLink = offers.some((o) => o.links?.some((l) => l.network !== "direct"));
+
   const t = useTranslations();
   const locale = useLocale();
+
+  /* 価格データは en 76% / ja 28% / de-fr 19% と地域差が大きい。「1件でもあれば
+     列を出す」条件だと ja/de では10行中7〜8行が "—" になり未完成に見えるため、
+     過半数の行に価格がある場合のみ価格列を出す（2026-08-24）。 */
+  const showRatingCol = offers.some((o) => o.rating);
+  const pricedCount = offers.filter((o) => resolvePrice(o, locale)).length;
+  const showPriceCol = pricedCount * 2 > offers.length;
   const isComparison = meta.type === "comparison";
 
   // Build TOC entries for comparison articles
@@ -231,14 +239,14 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
           )}
 
           {/* Comparison table — only shown when offers have rating or price data */}
-          {isComparison && offers.length > 0 && (offers.some(o => o.rating) || offers.some(o => resolvePrice(o, locale))) && (
+          {isComparison && offers.length > 0 && (showRatingCol || showPriceCol) && (
             <div className="mb-8 overflow-x-auto rounded-2xl border border-slate-200 shadow-sm">
               <table className="min-w-full text-sm">
                 <thead className="bg-gradient-to-r from-slate-800 to-slate-700 text-xs font-bold uppercase tracking-wide text-slate-300">
                   <tr>
                     <th className="px-4 py-3 text-left">{t("article.tableProduct")}</th>
-                    {offers.some(o => o.rating) && <th className="px-4 py-3 text-center">{t("article.tableRating")}</th>}
-                    {offers.some(o => resolvePrice(o, locale)) && <th className="px-4 py-3 text-right">{t("article.tablePrice")}</th>}
+                    {showRatingCol && <th className="px-4 py-3 text-center">{t("article.tableRating")}</th>}
+                    {showPriceCol && <th className="px-4 py-3 text-right">{t("article.tablePrice")}</th>}
                     <th className="px-4 py-3 text-center">{t("article.tableLink")}</th>
                   </tr>
                 </thead>
@@ -276,12 +284,12 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
                             )}
                           </div>
                         </td>
-                        {offers.some(o2 => o2.rating) && (
+                        {showRatingCol && (
                           <td className="px-4 py-3 text-center">
                             {o.rating ? <StarRating rating={o.rating} label={t("article.ratingLabel", { rating: o.rating.toFixed(1) })} /> : <span className="text-slate-300">—</span>}
                           </td>
                         )}
-                        {offers.some(o2 => resolvePrice(o2, locale)) && (
+                        {showPriceCol && (
                           <td className="px-4 py-3 text-right font-medium text-slate-700">
                             {resolvePrice(o, locale) ?? "—"}
                           </td>
@@ -648,6 +656,36 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
         {/* Sidebar (desktop only) */}
         <aside className="hidden lg:block w-64 shrink-0">
           <div className="sticky top-28 space-y-6">
+            {/* デスクトップ常設の購入導線（2026-08-24）。
+                従来 desktop の sticky サイドバーは目次・関連記事・著者カードだけで、
+                購入面が一切無かった（StickyOfferCta は lg:hidden）。
+                読了せず離脱する層に 1 位オファーを常時提示する。 */}
+            {offers[0] && (
+              <div className="rounded-xl border border-brand-200 bg-white p-4 shadow-sm">
+                <p className="mb-2 text-[10px] font-bold uppercase tracking-widest text-brand-600">
+                  {t("article.topPick")}
+                </p>
+                {(() => {
+                  const img = getOfferImageUrl(offers[0]!);
+                  return img ? (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img
+                      src={img}
+                      alt=""
+                      loading="lazy"
+                      className="mx-auto mb-2 h-24 w-24 object-contain"
+                    />
+                  ) : null;
+                })()}
+                <p className="mb-3 line-clamp-2 text-xs font-bold leading-snug text-slate-900">
+                  {offers[0]!.name[locale as keyof (typeof offers)[0]["name"]] ??
+                    offers[0]!.name.en ??
+                    offers[0]!.id}
+                </p>
+                <AffiliateLink offer={offers[0]!} variant="button" hideBadge />
+              </div>
+            )}
+
             {/* TOC sidebar — 以前は comparison 記事（tocItems）専用で、guide/review では
                 デスクトップのサイドバーが著者カードと戻るリンクだけの“空箱”だった。
                 非 comparison も sectionToc で同じ目次を出す（2026-08-22）。 */}

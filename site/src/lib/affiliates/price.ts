@@ -6,6 +6,39 @@ import { PRICES } from "@/lib/affiliates/prices-override";
  * Market-aware price for display. Returns null when the only known price's
  * currency doesn't match the viewer's market (e.g. "$29.99" on a ja page).
  */
+const EUR_MARKETS = ["EU", "FR", "ES", "IT"];
+
+/**
+ * Catalog prices are inconsistently formatted: ~784 of them carry no currency
+ * symbol at all. Previously every one of those passed the mismatch checks below
+ * and was rendered verbatim in *all* markets, so a German reader could be shown
+ * a bare US number (and a JP yen figure could surface on a US page).
+ *
+ * Bare numerics split cleanly by magnitude — nothing sold here costs $1,000+,
+ * and nothing costs ¥999 or less — so we infer the currency and then apply the
+ * same market gate as an explicitly-tagged price. Rate strings ("0.25%〜0.40%",
+ * "5.24% APR") are genuinely currency-free and stay visible everywhere.
+ */
+function classify(price: string): { currency: "USD" | "JPY" | "GBP" | "EUR" | "none"; display: string } {
+  if (price.includes("$")) return { currency: "USD", display: price };
+  if (price.includes("¥") || price.includes("円")) return { currency: "JPY", display: price };
+  if (price.includes("£")) return { currency: "GBP", display: price };
+  if (price.includes("€")) return { currency: "EUR", display: price };
+  // Percentages / APR / fee strings carry no currency of their own.
+  if (price.includes("%")) return { currency: "none", display: price };
+  // Pure numeric (optionally a "min〜max" range) — infer by magnitude.
+  if (/^[\d,.]+(〜[\d,.]+)?$/.test(price)) {
+    const low = parseFloat((price.split("〜")[0] ?? price).replace(/,/g, ""));
+    if (Number.isFinite(low)) {
+      return low >= 1000
+        ? { currency: "JPY", display: `¥${price}` }
+        : { currency: "USD", display: `$${price}` };
+    }
+  }
+  // Anything else is unrecognised; don't guess a market for it.
+  return { currency: "none", display: price };
+}
+
 export function resolvePrice(o: AffiliateOffer, locale: string): string | null {
   const market = inferMarketFromLocale(locale);
   // 1. Market-specific override (auto-fetched daily)
@@ -14,9 +47,10 @@ export function resolvePrice(o: AffiliateOffer, locale: string): string | null {
   // 2. Catalog price field — hide when currency doesn't match market
   const price = o.priceMin && o.priceMax ? `${o.priceMin}〜${o.priceMax}` : (o.price ?? null);
   if (!price) return null;
-  if (price.includes("$") && market !== "US" && market !== "CA") return null;
-  if ((price.includes("¥") || price.includes("円")) && market !== "JP") return null;
-  if (price.includes("£") && market !== "UK") return null;
-  if (price.includes("€") && !["EU", "FR", "ES", "IT"].includes(market)) return null;
-  return price;
+  const { currency, display } = classify(price);
+  if (currency === "USD" && market !== "US" && market !== "CA") return null;
+  if (currency === "JPY" && market !== "JP") return null;
+  if (currency === "GBP" && market !== "UK") return null;
+  if (currency === "EUR" && !EUR_MARKETS.includes(market)) return null;
+  return display;
 }
