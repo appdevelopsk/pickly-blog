@@ -5470,7 +5470,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-hada-labo-gokujun",
-    "imageUrl": "https://rohto.co.id/assets/uploads/product/20240212102735.png",
+    "imageUrl": "",
     "priceMin": "¥660",
     "priceMax": "¥660",
     "category": "beauty",
@@ -9087,7 +9087,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "portable-fan-satechi-dual",
-    "imageUrl": "https://thegadgetflow.com/wp-content/uploads/2014/12/Satechi-USB-Portable-Air-Purifier-and-Fan-02.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71wcG71siSL._AC_SL1500_.jpg",
     "priceMin": "40",
     "priceMax": "70",
     "category": "home",
@@ -10569,7 +10569,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "smart-hub-google-nest-hub-max",
-    "imageUrl": "https://www.adt.com/content/dam/adt7/pages/phoenix/ssu-pdp/google-nest-hub-max/M2_PDP_GoogleNestHubMAX_Carousel_Image_2_DSKTP.png",
+    "imageUrl": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/147966-smart-home-vs-google-nest-hub-max-vs-amazon-echo-show-which-should-you-buy-image1-hujas6tign.jpg",
     "priceMin": "27800",
     "priceMax": "35000",
     "category": "tech",
@@ -20060,7 +20060,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "rimowa-essential-cabin",
-    "imageUrl": "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw8373300d/images/large/84253631_4.png",
+    "imageUrl": "",
     "priceMin": "$925",
     "priceMax": "$1,125",
     "category": "fashion",
@@ -23622,7 +23622,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "fluval-e-electronic-heater",
-    "imageUrl": "https://www.beebiesmart.com/image/beebiesmart/image/cache/data/all_product_images/product-4280/29r3AYSC1601960176-420x420.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/71APWlTq3WL._AC_SL1500_.jpg",
     "priceMin": "$50",
     "priceMax": "$90",
     "category": "pets",
@@ -26490,7 +26490,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "identityforce-credit-monitoring",
-    "imageUrl": "https://shawnmanaher.com/wp-content/uploads/2022/11/Identity-Force-2.png",
+    "imageUrl": "https://www.safehome.org/app/uploads/2019/08/Monitor-Accounts-IdentityForce-735x350.png",
     "priceMin": "$34.99/mo",
     "priceMax": "$34.99/mo",
     "category": "finance",
@@ -30364,7 +30364,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "google-cloud-compute-engine",
-    "imageUrl": "https://cloud-ace.vn/wp-content/uploads/2022/09/Landing-Page-660x400-2.png",
+    "imageUrl": "https://cloudcomputinggate.com/wp-content/uploads/2021/10/Google-Cloud-Compute-Engine.png",
     "priceMin": "$12",
     "priceMax": "$10000",
     "category": "tech",
@@ -34004,7 +34004,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "hydroflask-coffee-flex-20oz",
-    "imageUrl": "https://www.campmor.com/cdn/shop/files/W20BCX332_400x@2x.jpg?v=1709043170",
+    "imageUrl": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a91f3595-0802-468d-8998-38006f98fa19.__CR1,0,1940,1200_PT0_SX970_V1___.jpg",
     "priceMin": "$33",
     "priceMax": "$40",
     "category": "travel",
@@ -36682,7 +36682,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "activecampaign-plus",
-    "imageUrl": "https://www.softwareglimpse.com/wp-content/uploads/2023/06/activecampaign-crm-review.jpg?is-pending-load=1",
+    "imageUrl": "",
     "priceMin": "$29",
     "priceMax": "$400",
     "category": "tech",
@@ -46209,7 +46209,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "portacool-cyclone-130",
-    "imageUrl": "https://jumboindustrial.com/wp-content/uploads/2024/06/511fBreEAyL._SL500_.jpg",
+    "imageUrl": "",
     "priceMin": "$450",
     "priceMax": "$700",
     "category": "home",
