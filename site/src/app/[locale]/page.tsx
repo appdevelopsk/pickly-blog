@@ -9,6 +9,7 @@ import { getOfferImageUrl, resizeAmazonImageUrl } from "@/lib/affiliates/images"
 import { OG_BASE_URL, DEFAULT_OG_IMAGES } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
+import BrandVideo from "@/components/BrandVideo";
 import { COMPARISONS } from "@/lib/pages/compare-config";
 import { TAGS } from "@/lib/pages/tag-config";
 import type { ArticleMeta } from "@/lib/articles/types";
@@ -190,6 +191,9 @@ export default async function HomePage({ params }: Props) {
             </Link>
           </div>
         </section>
+
+        {/* ── Brand video (17 locales, click-to-play) ────── */}
+        <BrandVideo locale={locale} />
 
         {/* ── Category pills ────────────────────────────── */}
         {topCategories.length > 0 && (
