@@ -1,52 +1,52 @@
 {
   "title": "ファイナンシャルアドバイザー2026：5社を比較",
-  "description": "Vanguard PAS、Betterment Premium、Fidelity Wealth Services、Schwab Intelligent Portfolios、Facet Wealth — 手数料構造、アドバイザーアクセス、ポートフォリオ別最有力。",
-  "lede": "5ファイナンシャルアドバイザーサービス。ロボから人的、AUM手数料からフラット手数料。コスト構造、アドバイザーアクセス、異なるポートフォリオサイズでの損益分岐分析。",
-  "methodology": "$250Kと$1Mポートフォリオを各サービスでモデル化。総年間コスト（AUM手数料＋商品経費率）、CFPアクセス層、サービス間切替の損益分岐分析を計算。",
+  "description": "Vanguard PAS、Betterment Premium、Fidelity Wealth Services、Schwab Intelligent Portfolios、Facet Wealthの5社を、手数料構造やアドバイザーへのアクセスのしやすさ、ポートフォリオ規模別にどれが最適かという観点で比較します。",
+  "lede": "ロボアドバイザーから人的アドバイザーまで、AUM(資産残高)連動型の手数料からフラット手数料まで、性質の異なる5つのファイナンシャルアドバイザーサービスを取り上げます。コスト構造とアドバイザーへのアクセスのしやすさを比較したうえで、ポートフォリオの規模によってどこが損益分岐点になるかを分析しました。",
+  "methodology": "各サービスについて、$250Kと$1Mのポートフォリオを想定してモデル化しました。年間の総コスト(AUM手数料＋商品の経費率)、CFP(認定ファイナンシャルプランナー)へのアクセス階層、そしてあるサービスから別のサービスに乗り換えた場合の損益分岐点を算出しています。",
   "sections": [
     {
-      "heading": "手数料構造比較（$500Kポートフォリオ）",
+      "heading": "手数料構造の比較(ポートフォリオ$500Kの場合)",
       "paragraphs": [
-        "Vanguard PAS：年$1,500（0.30% AUM）。",
-        "Betterment Premium：年$2,000（0.40% AUM、$100K最低）。",
-        "Fidelity Wealth Services：年$2,500-5,200（0.50-1.04% AUM）。",
-        "Schwab Intelligent Portfolios：年$0（ロボのみ、人的アドバイザー無し）。",
-        "Facet Wealth：年$2,400-6,000（フラット手数料サブスクリプション、AUMベースではない）。"
+        "Vanguard PAS：年間$1,500(0.30% AUM)。",
+        "Betterment Premium：年間$2,000(0.40% AUM、最低$100Kから)。",
+        "Fidelity Wealth Services：年間$2,500〜5,200(0.50〜1.04% AUM)。",
+        "Schwab Intelligent Portfolios：年間$0(ロボアドバイザーのみで、人的アドバイザーは付かない)。",
+        "Facet Wealth：年間$2,400〜6,000(AUM連動ではなくフラット手数料のサブスクリプション)。"
       ]
     },
     {
-      "heading": "用途別ベスト",
+      "heading": "用途別のおすすめ",
       "paragraphs": [
-        "低コスト人的アドバイザー：Vanguard PAS。フィデューシャリCFP付き0.30% AUM。",
-        "デジタルファースト：Betterment Premium。0.40% AUMで無制限CFPアクセス＋ロボアド。",
-        "中位層人的：Fidelity Wealth Services。$50K最低の専属アドバイザー。",
-        "無料ロボ：Schwab Intelligent Portfolios。アドバイザリーフィー$0。",
-        "大型ポートフォリオ：Facet Wealth。$1M+でAUMベースより安価なフラット手数料。"
+        "低コストで人的アドバイザーを求めるなら：Vanguard PAS。フィデューシャリCFPが付いて0.30% AUM。",
+        "デジタルファーストで選ぶなら：Betterment Premium。0.40% AUMで無制限のCFPアクセスとロボアドバイザーの両方を利用できる。",
+        "中間価格帯の人的アドバイザーなら：Fidelity Wealth Services。最低$50Kから専属アドバイザーが付く。",
+        "無料のロボアドバイザーなら：Schwab Intelligent Portfolios。アドバイザリー手数料は$0。",
+        "大型ポートフォリオなら：Facet Wealth。$1M以上ではAUM連動型より安く済むフラット手数料が強み。"
       ]
     }
   ],
   "faqs": [
     {
-      "q": "ファイナンシャルアドバイザーが必要？",
-      "a": "場合による — $250K未満のポートフォリオには、ロボアド（Schwab Intelligent Portfolios）またはDIYインデックス投資（Vanguard）で通常十分。$500K以上で複雑な状況（不動産、事業所有、税損収穫）には人的アドバイザーが価値追加。"
+      "q": "ファイナンシャルアドバイザーは必要ですか？",
+      "a": "場合によります。$250K未満のポートフォリオであれば、ロボアドバイザー(Schwab Intelligent Portfoliosなど)やDIYのインデックス投資(Vanguardなど)で通常は十分です。$500Kを超えて不動産や事業所有、税損収穫といった複雑な事情が絡む場合は、人的アドバイザーを使う価値が出てきます。"
     },
     {
-      "q": "AUM手数料 vs フラット手数料？",
-      "a": "AUM（資産%）はポートフォリオでスケール — $250K-$500Kで妥当、$2M+で高価。フラット手数料（Facet）は$1M+で安価だが$250Kで高価。状況に基づき損益分岐計算を。"
+      "q": "AUM手数料とフラット手数料、どちらが良いですか？",
+      "a": "AUM手数料(資産額に対する一定割合)はポートフォリオの規模に応じて増えるため、$250K〜$500Kでは妥当な水準ですが、$2M以上になると割高になります。フラット手数料(Facetなど)は$1M以上では安く済む一方、$250K程度では割高です。自分の状況に応じて損益分岐点を計算してみてください。"
     },
     {
-      "q": "ロボアドバイザーは良い？",
-      "a": "シンプルニーズの$500K未満ポートフォリオにYes。リバランシングと税損収穫を低コストで処理。複雑な税務プラン、遺産プラン、事業所有ニーズには限定的。"
+      "q": "ロボアドバイザーは実際どうですか？",
+      "a": "ニーズがシンプルな$500K未満のポートフォリオであれば有効です。リバランスや税損収穫を低コストで処理してくれます。ただし複雑な税務プランや遺産計画、事業オーナー特有のニーズには対応力が限られます。"
     },
     {
-      "q": "手数料のみフィデューシャリCFPは？",
-      "a": "複雑な状況に強く推奨。$200-500/時または定額プラン手数料課金、コミッション獲得無し。NAPFA.orgまたはXY Planning Networkで探す。"
+      "q": "手数料のみで報酬を得るフィデューシャリCFPはどうですか？",
+      "a": "複雑な事情がある場合には強くおすすめできます。時間$200〜500程度、または定額のプランニング手数料で報酬を得ており、コミッションは受け取りません。NAPFA.orgやXY Planning Networkで探すことができます。"
     }
   ],
   "products": {
     "vanguard-pas": {
       "badge": "🏆 低コスト人的最有力",
-      "review": "Vanguard Personal Advisor Servicesは低コスト人的アドバイザリーの妥当な選択。0.30% AUM手数料（人的アドバイザー業界最低）、フィデューシャリCFP、Vanguardファンド焦点。CFPは実人的アドバイザー（ロボではない）、無制限相談利用可。$500K-$5Mポートフォリオに最良コスパ。",
+      "review": "Vanguard Personal Advisor Servicesは、低コストで人的アドバイザーを利用したい人に適した選択肢です。0.30%というAUM手数料は人的アドバイザーとしては業界最低水準で、フィデューシャリCFP(受託者責任を負う認定ファイナンシャルプランナー)が付き、Vanguardのファンドを中心に運用します。担当するCFPはロボではなく実際の人間で、相談は無制限に利用できます。$500K〜$5Mのポートフォリオであれば、コストパフォーマンスの面で最も優れた選択肢といえます。",
       "pros": [
         "0.30% AUM（人的最低）",
         "フィデューシャリCFP",
@@ -59,7 +59,7 @@
     },
     "betterment-premium": {
       "badge": "💎 デジタルファースト最有力",
-      "review": "Betterment PremiumはCFPアクセス希望のデジタルファースト投資家に妥当な選択。0.40% AUM手数料、$100K最低、無制限CFPアクセス、ロボアドが取引処理。税損収穫含む。ハイブリッドロボ＋人的希望のテクサヴィー投資家に最良。",
+      "review": "Betterment Premiumは、CFPへのアクセスを求めつつもデジタル中心で運用したい投資家に適した選択肢です。0.40%のAUM手数料で、最低$100Kから利用でき、CFPへの相談は無制限、取引自体はロボアドバイザーが処理します。税損収穫も含まれています。ロボアドバイザーと人的アドバイザーのハイブリッドを求めるテック志向の投資家に最も向いています。",
       "pros": [
         "無制限CFPアクセス",
         "ロボアド自動化",
@@ -72,7 +72,7 @@
     },
     "fidelity-wealth-services": {
       "badge": "🏛️ 中位層人的最有力",
-      "review": "Fidelity Wealth Servicesは大手証券での伝統的人的アドバイザリーの妥当な選択。$50K最低、専属アドバイザー、レベルにより0.50-1.04% AUM。$500K+でシングルポイント窓口希望のFidelity顧客に最良。",
+      "review": "Fidelity Wealth Servicesは、大手証券会社で従来型の人的アドバイザリーを受けたい人に適した選択肢です。最低$50Kから利用でき、専属アドバイザーが付き、サービスレベルに応じて0.50〜1.04%のAUM手数料がかかります。$500K以上を運用していて、窓口を一本化したいFidelityの顧客に最も向いています。",
       "pros": [
         "専属アドバイザー",
         "Fidelity統合",
@@ -85,7 +85,7 @@
     },
     "schwab-intelligent-portfolios": {
       "badge": "🆓 無料ロボ最有力",
-      "review": "Schwab Intelligent Portfoliosは無料ロボアドバイザリーの妥当な選択。アドバイザリーフィー$0、$5K最低、目標プラン含む。Schwabは現金ドラッグで稼ぐ（ポートフォリオの約10%が低利回りSchwab現金）、これがトレードオフ。",
+      "review": "Schwab Intelligent Portfoliosは、無料で使えるロボアドバイザリーとして適した選択肢です。アドバイザリー手数料は$0、最低$5Kから利用でき、目標に応じたプランニングも含まれます。ただしSchwabはポートフォリオの約10%を低利回りのSchwab現金として保有させることで収益を得ており(いわゆる現金ドラッグ)、この点がトレードオフになります。",
       "pros": [
         "アドバイザリーフィー$0",
         "$5K最低が低い",
@@ -98,7 +98,7 @@
     },
     "facet-wealth": {
       "badge": "💸 大型ポートフォリオ最有力",
-      "review": "Facet Wealthは$1M+ポートフォリオの妥当な選択。AUMではなくフラット手数料サブスクリプション（年$2,400-$6,000）、専属CFP。$2Mポートフォリオで年$4,800のFacetは0.30% AUM（年$6,000）よりはるかに安い。",
+      "review": "Facet Wealthは、$1M以上のポートフォリオを持つ人に適した選択肢です。AUM連動ではなくフラット手数料のサブスクリプション制(年$2,400〜6,000)で、専属のCFPが付きます。たとえば$2Mのポートフォリオなら、Facetの年$4,800は0.30%のAUM手数料(年$6,000)よりもはるかに安く済みます。",
       "pros": [
         "フラット手数料（$1M+で安価）",
         "専属CFP",
@@ -111,11 +111,11 @@
     }
   },
   "offerNotes": {
-    "vanguard-pas": "investor.vanguard.comでサインアップ。PASアクセスに$500K最低。",
-    "betterment-premium": "betterment.comでサインアップ。Premium階層に$100K最低、Digital階層（0.25% AUM、CFPアクセス無し）は最低無し。",
-    "fidelity-wealth-services": "fidelity.comでサインアップまたはウェルスサービスラインに電話。$50K最低。",
-    "schwab-intelligent-portfolios": "schwab.comでサインアップ。$5K最低。",
-    "facet-wealth": "facet.comでサインアップ。フラット手数料モデル — 複雑性に基づく見積取得。"
+    "vanguard-pas": "investor.vanguard.comから申し込めます。PASの利用には最低$500Kが必要です。",
+    "betterment-premium": "betterment.comから申し込めます。Premium階層は最低$100Kからで、Digital階層(0.25% AUM、CFPアクセスなし)には最低額の制限はありません。",
+    "fidelity-wealth-services": "fidelity.comから申し込むか、ウェルスサービスラインに電話してください。最低$50Kから利用できます。",
+    "schwab-intelligent-portfolios": "schwab.comから申し込めます。最低$5Kから利用できます。",
+    "facet-wealth": "facet.comから申し込めます。フラット手数料モデルのため、複雑さに応じた見積もりを取得してください。"
   },
   "pinDescription": "ベストファイナンシャルアドバイザー 2026：Vanguard PAS × Betterment Premium × Fidelity Wealth × Schwab Intelligent Portfolios × Facetを手数料で比較。"
 }

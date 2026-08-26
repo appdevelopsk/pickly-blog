@@ -7,117 +7,117 @@
     {
       "heading": "オートフィル信頼性",
       "paragraphs": [
-        "50サイト（Amazon、銀行、Google、業務アプリ）でのオートフィル成功率：1Password 96%、Bitwarden 94%、Dashlane 92%、Apple Passwords 88%（Safari強、Chrome弱）、LastPass 90%。",
-        "クロスブラウザサポート：1PasswordとBitwardenがリード — Safari、Chrome、Firefox、Edge、Arc、Braveでシームレス動作。Apple PasswordsはSafariがベスト、Chrome拡張機能は機能的だが二級扱い。DashlaneとLastPassはブラウザ横断で能力的。"
+        "50サイト（Amazon、銀行、Google、業務アプリ）でのオートフィル成功率は、1Password 96%、Bitwarden 94%、Dashlane 92%、Apple Passwords 88%（Safariでは強いがChromeでは弱い）、LastPass 90%という結果になった。",
+        "クロスブラウザ対応では1PasswordとBitwardenがリードしており、Safari、Chrome、Firefox、Edge、Arc、Braveでシームレスに動作する。Apple PasswordsはSafariが最良で、Chrome拡張機能も機能はするが二級的な扱いにとどまる。DashlaneとLastPassはブラウザを横断してもそれなりの水準を保っている。"
       ]
     },
     {
       "heading": "クロスプラットフォーム同期",
       "paragraphs": [
-        "デバイス間同期遅延（スマホでパスワード変更、ノートPCで利用可能）：1Password 2-4秒、Bitwarden 3-5秒、Dashlane 4-6秒、Apple Passwords（iCloud）5-10秒、LastPass 5-10秒。",
-        "Linuxサポート：1Password（ネイティブアプリ）、Bitwarden（ネイティブ＋ブラウザ）、LastPass（ブラウザのみ）。DashlaneのLinuxはブラウザのみ。Apple PasswordsはLinux非対応。"
+        "デバイス間の同期遅延（スマホでパスワードを変更してからノートPCで利用可能になるまでの時間）は、1Password 2〜4秒、Bitwarden 3〜5秒、Dashlane 4〜6秒、Apple Passwords（iCloud）5〜10秒、LastPass 5〜10秒だった。",
+        "Linux対応では、1Password（ネイティブアプリ）、Bitwarden（ネイティブ＋ブラウザ）、LastPass（ブラウザのみ）が対応している。DashlaneのLinux対応はブラウザのみで、Apple PasswordsはLinuxに非対応だ。"
       ]
     },
     {
       "heading": "侵害対応履歴",
       "paragraphs": [
-        "LastPass 2022侵害：暗号化ボールトバックアップ盗難、弱いマスターパスワードでブルートフォース可能。多くのセキュリティプロの信頼を失った。",
-        "1Password、Bitwarden、Dashlane、Apple Passwords：2026年まで大きな事件なし。すべてゼロ知識アーキテクチャ運用（侵害されてもプロバイダがあなたのデータを読めない）。",
-        "2022年にLastPassユーザーだったなら移行を。侵害後の対応は改善されたがブランドが傷ついた。"
+        "LastPassは2022年に侵害を受けている。暗号化されたボールトのバックアップが盗まれ、弱いマスターパスワードであればブルートフォースで破られる可能性があった。この一件で多くのセキュリティ専門家の信頼を失っている。",
+        "1Password、Bitwarden、Dashlane、Apple Passwordsについては、2026年時点で大きな事件は起きていない。いずれもゼロ知識アーキテクチャで運用されており、仮に侵害されてもプロバイダ側があなたのデータを読み取ることはできない。",
+        "2022年当時LastPassを使っていたなら、移行を検討したい。侵害後の対応自体は改善されているが、ブランドとしての信頼は傷ついたままだ。"
       ]
     }
   ],
   "faqs": [
     {
       "q": "1Password vs Bitwarden？",
-      "a": "クラス最高UXを求め5ユーザー月$4.99を厭わないなら1Password。オープンソースと超安価（年$10プレミアム層でTOTPカバー）を求めるならBitwarden。"
+      "a": "クラス最高のUXを求め、5ユーザーで月$4.99を払う余裕があるなら1Password。オープンソースと圧倒的な安さ（年$10のプレミアム層でTOTPまでカバー）を重視するならBitwardenが向いている。"
     },
     {
       "q": "Apple Passwordsで十分？",
-      "a": "100% Appleエコシステムでとても、Safariを使うなら：イエス。Chrome、Android、Linux、Windowsを使うなら：本格パスワードマネージャを取得。"
+      "a": "100% AppleエコシステムでSafariを使っているならイエスと言える。ただしChrome、Android、Linux、Windowsも使うなら、本格的なパスワードマネージャを別途用意したほうがいい。"
     },
     {
       "q": "LastPassを離れるべき？",
-      "a": "イエス。2022年侵害がアーキテクチャ的弱点を示した、侵害後対応も批判された。1PasswordまたはBitwardenに移行。"
+      "a": "離れたほうがいい。2022年の侵害はアーキテクチャ上の弱点を露呈させ、侵害後の対応にも批判が集まった。1PasswordかBitwardenへの移行を検討したい。"
     },
     {
       "q": "無料 vs 有料？",
-      "a": "無料層（Bitwarden無料、Apple Passwords無料）は機能的だが欠ける：TOTP生成、ダークウェブ監視、家族共有、緊急アクセス。多くのユーザーには有料が年$10-60の価値あり。"
+      "a": "無料層（Bitwarden無料版、Apple Passwords）は基本機能を備えているが、TOTP生成、ダークウェブ監視、家族共有、緊急アクセスといった機能は欠けている。多くのユーザーにとって、年$10〜60の有料プランはその分の価値がある。"
     }
   ],
   "products": {
     "1password-families": {
       "badge": "🏆 総合最有力",
-      "review": "1Password Familiesは多くのユーザー向け正解。5ユーザーで月$4.99、カテゴリ最良UX、Watchtower侵害アラート、Travel Mode（国境越え時に機密ボールトを隠す）、開発チーム向けSecrets Automation。平均4秒のクロスプラットフォーム同期。",
+      "review": "1Password Familiesは、多くのユーザーにとって妥当な選択肢だ。5ユーザーで月$4.99、カテゴリ最良のUX、Watchtowerによる侵害アラート、国境を越える際に機密ボールトを隠せるTravel Mode、そして開発チーム向けのSecrets Automationまで備える。クロスプラットフォームの同期は平均4秒ほどで完了する。",
       "pros": [
-        "カテゴリ最良UX",
-        "Watchtower侵害アラート",
-        "クロスプラットフォーム"
+        "カテゴリ最良のUX",
+        "Watchtowerによる侵害アラート",
+        "クロスプラットフォーム対応"
       ],
       "cons": [
-        "個人月$4.99（年$60）",
-        "無料層なし"
+        "個人プランは月$4.99（年$60）",
+        "無料層が無い"
       ]
     },
     "bitwarden-premium": {
       "badge": "💸 オープンソース最有力",
-      "review": "Bitwarden Premiumはオープンソース支持者と超バジェットユーザー向け正解。プレミアム年$10（TOTP、緊急アクセス、ファイル添付）、無料層で基本カバー。ネイティブLinuxサポート。セルフホスト可能。",
+      "review": "Bitwarden Premiumは、オープンソースを支持する人や予算を重視する人にとって妥当な選択肢だ。プレミアムは年$10（TOTP、緊急アクセス、ファイル添付が使える）、無料層でも基本機能はカバーできる。Linuxにもネイティブ対応し、セルフホストも可能だ。",
       "pros": [
         "オープンソース",
-        "プレミアム年$10",
-        "Linuxネイティブ"
+        "プレミアムが年$10",
+        "Linuxにネイティブ対応"
       ],
       "cons": [
-        "UXが1Passwordほど洗練されていない",
-        "同期わずかに遅め"
+        "UXは1Passwordほど洗練されていない",
+        "同期がわずかに遅め"
       ]
     },
     "dashlane-premium": {
       "badge": "🛡️ オールインワン最有力",
-      "review": "Dashlane PremiumはVPN＋パスワードマネージャ＋ダークウェブ監視バンドル希望ユーザー向け正解。個人月$4.99にVPN込み（月$10価値）。包括的だがBitwardenより高い。",
+      "review": "Dashlane Premiumは、VPNとパスワードマネージャ、ダークウェブ監視をまとめて使いたい人にとって妥当な選択肢だ。個人プラン月$4.99にVPN（単体なら月$10相当）が含まれている。機能は包括的だが、Bitwardenよりは高めの価格設定になる。",
       "pros": [
-        "VPN込み",
+        "VPNが含まれる",
         "ダークウェブ監視",
-        "ソリッドなオートフィル"
+        "安定したオートフィル"
       ],
       "cons": [
-        "全機能には無料層なし",
-        "Linuxはブラウザのみ"
+        "全機能を使うための無料層は無い",
+        "Linux対応はブラウザのみ"
       ]
     },
     "apple-passwords-icloud": {
       "badge": "🍎 Appleネイティブ最有力",
-      "review": "Apple Passwords（iCloud Keychain）は100% Appleエコシステムユーザー向け正解。Apple IDで無料、Safariと統合、設定.app。iOS 18+でApple Passwordsアプリスタンドアロン。Chrome／Windowsサポート限定、Android／Linuxなし。",
+      "review": "Apple Passwords（iCloud Keychain）は、100% AppleエコシステムのユーザーにとってはApple IDだけで無料で使える正解だ。Safariとの統合が強く、設定アプリからも操作できる。iOS 18以降ではApple Passwordsアプリとしてスタンドアロンでも使える。ただしChromeやWindowsへの対応は限定的で、AndroidやLinuxには対応しない。",
       "pros": [
-        "Apple IDで無料",
-        "最良Safari統合",
-        "iOS 18+でスタンドアロンアプリ"
+        "Apple IDがあれば無料",
+        "Safariとの統合が最良",
+        "iOS 18以降ではスタンドアロンアプリとしても使える"
       ],
       "cons": [
-        "Chromeサポート限定",
-        "Android／Linuxなし"
+        "Chrome対応が限定的",
+        "AndroidやLinuxには非対応"
       ]
     },
     "lastpass-premium": {
       "badge": "⚠️ 注意",
-      "review": "LastPass Premiumはかつて支配的だったが2022年に侵害（暗号化ボールトバックアップ盗難）。機能的サービスだが新規アカウントには代替検討。既存ユーザー：1PasswordまたはBitwardenに移行。",
+      "review": "LastPass Premiumはかつて業界をリードしていたが、2022年に暗号化されたボールトのバックアップが盗まれる侵害を受けた。サービス自体は機能しているものの、新規に始めるなら他の選択肢を検討したい。既存ユーザーは1PasswordかBitwardenへの移行が現実的だ。",
       "pros": [
-        "マルチデバイス同期",
-        "歴史的に強力なオートフィル"
+        "マルチデバイス同期に対応",
+        "歴史的にオートフィルが強かった"
       ],
       "cons": [
-        "2022年侵害事件",
+        "2022年の侵害事件",
         "侵害後の信頼問題",
-        "それ以降大きなイノベーションなし"
+        "それ以降、目立った機能革新が無い"
       ]
     }
   },
   "offerNotes": {
-    "1password-families": "1password.comでサインアップ — Familiesプランは5ユーザーで月$4.99。",
-    "bitwarden-premium": "bitwarden.comでサインアップ — 無料層機能的、プレミアム年$10。",
-    "dashlane-premium": "dashlane.comでサインアップ — PremiumにVPN込み。",
-    "apple-passwords-icloud": "iOS／macOS組込 — 設定→パスワード。無料。",
-    "lastpass-premium": "既存ユーザー：移行。新規アカウントには非推奨。"
+    "1password-families": "1password.comでサインアップ。Familiesプランは5ユーザーで月$4.99。",
+    "bitwarden-premium": "bitwarden.comでサインアップ。無料層でも十分機能し、プレミアムは年$10。",
+    "dashlane-premium": "dashlane.comでサインアップ。PremiumにはVPNが含まれる。",
+    "apple-passwords-icloud": "iOS／macOSに組み込み済み — 設定アプリからパスワードにアクセス。無料。",
+    "lastpass-premium": "既存ユーザーは移行を検討したい。新規アカウントの開設はおすすめしない。"
   },
   "pinDescription": "パスワードマネージャ 2026年比較：1Password × Bitwarden × Dashlane × Apple Passwords × LastPassを200+ログインボールトでテスト。"
 }

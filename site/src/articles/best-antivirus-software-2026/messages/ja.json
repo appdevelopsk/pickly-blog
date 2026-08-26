@@ -7,50 +7,50 @@
     {
       "heading": "検出率（主要数値）",
       "paragraphs": [
-        "1,000最近マルウェアサンプルでの検出：Bitdefender 99.7%、Norton 99.6%、Kaspersky 99.7%、Microsoft Defender 99.4%、Malwarebytes 98.2%（既感染システムにフォーカスするため低い）。",
-        "ゼロデイサンプル（1,000中250が難読化／多形）：Bitdefender 98.8%、Norton 98.4%、Kaspersky 99.1%、Defender 96.8%、Malwarebytes 95.1%。",
-        "500正規実行可能ファイルの誤検知：Defender 1（最良）、Bitdefender 1、Norton 3、Kaspersky 2、Malwarebytes 5。"
+        "直近のマルウェアサンプル1,000件での検出率は、Bitdefenderが99.7%、Nortonが99.6%、Kasperskyが99.7%、Microsoft Defenderが99.4%、Malwarebytesが98.2%だった。Malwarebytesは既感染システムの駆除に重点を置いているため、この数値はやや低めに出る。",
+        "難読化や多形化を含むゼロデイサンプル（1,000件中250件）では、Bitdefenderが98.8%、Nortonが98.4%、Kasperskyが99.1%、Defenderが96.8%、Malwarebytesが95.1%を記録した。",
+        "正規の実行可能ファイル500件に対する誤検知数は、DefenderとBitdefenderが1件で最も少なく、Kasperskyが2件、Nortonが3件、Malwarebytesが5件だった。"
       ]
     },
     {
       "heading": "システム影響",
       "paragraphs": [
-        "AVなしと比較した起動時間スローダウン：Defender +2秒、Bitdefender +4秒、Kaspersky +5秒、Norton +6秒、Malwarebytes +3秒。",
-        "ファイルコピースローダウン（10GBフォルダ）：Defender +2%、Bitdefender +6%、Kaspersky +8%、Norton +12%、Malwarebytes +4%。",
-        "日常アイドルCPU使用率：すべて2%未満。Defender最低0.4%。"
+        "アンチウイルスを入れない状態と比べた起動時間の遅延は、Defenderが+2秒、Bitdefenderが+4秒、Kasperskyが+5秒、Nortonが+6秒、Malwarebytesが+3秒だった。",
+        "10GBフォルダのファイルコピーにかかる時間の増加は、Defenderが+2%、Bitdefenderが+6%、Kasperskyが+8%、Nortonが+12%、Malwarebytesが+4%だった。",
+        "日常的なアイドル時のCPU使用率はいずれも2%未満に収まっており、最も低いのはDefenderの0.4%だった。"
       ]
     },
     {
       "heading": "純AV以外",
       "paragraphs": [
-        "VPN込み：Norton 360 Deluxe（無制限）、Bitdefender（日200MB上限）、Kaspersky（VPNなし）、Malwarebytes（別Privacy製品）、Defender（VPNなし）。",
-        "なりすまし盗難監視：Norton 360（$50k補償）、Bitdefender（米国のみ、基本）、他はなし。",
-        "パスワードマネージャ：Norton、Bitdefender、Kasperskyに基本パスワードマネージャ込み。代わりに1PasswordまたはBitwarden使用 — バンドルパスワードマネージャは弱い傾向。"
+        "VPNの有無で見ると、Norton 360 Deluxeは無制限、Bitdefenderは1日200MBまで、Kaspersky・Malwarebytes（別製品のPrivacyで対応）・Defenderはいずれも付属していない。",
+        "なりすまし被害の監視は、Norton 360が最大5万ドルの補償付きで対応、Bitdefenderは米国限定の基本機能のみ、それ以外は対応していない。",
+        "パスワードマネージャーはNorton・Bitdefender・Kasperskyに基本機能として付属している。ただしバンドル版は機能が弱い傾向があるため、1PasswordやBitwardenなど専用サービスを別途使うほうがいいだろう。"
       ]
     }
   ],
   "faqs": [
     {
       "q": "Microsoft Defenderで十分？",
-      "a": "Windows 10／11で慎重なブラウジング習慣ある多くの家庭ユーザーには：イエス。検出率は有料AVに匹敵、別途インストールなし、ゼロコスト。有料AVが勝つのは：なりすまし盗難監視、VPNバンドル、家族機能。"
+      "a": "慎重なブラウジング習慣がある家庭ユーザーの多くにとっては、それで十分だ。検出率は有料AVに匹敵するうえ、別途インストールの手間もなく、費用もかからない。有料AVを選ぶ価値があるのは、なりすまし被害の監視やVPNのバンドル、家族向け機能を求める場合だ。"
     },
     {
       "q": "Malwarebytesを別のAVと併用すべき？",
-      "a": "イエス — Malwarebytesはセカンダリスキャナとして共存設計。プライマリAVが見逃すもの、特にPUPとアドウェアをキャッチ。Malwarebytesスキャンを週1に設定。"
+      "a": "併用がおすすめだ。Malwarebytesはメインのアンチウイルスと共存する前提で設計されたセカンダリスキャナで、特にPUP（望ましくないプログラム）やアドウェアなど、メインのAVが見逃しがちな脅威を拾ってくれる。週1回程度のスキャンを設定しておくといい。"
     },
     {
       "q": "Kasperskyをなぜ警告する？",
-      "a": "Kasperskyは技術的に優秀（最高検出率の1つ）だが、米国連邦政府が2022年にKasperskyを連邦契約から禁止（国家安全保障懸念）。米国の個人ユーザーはまだ使用可、機関リスクと地政学を考慮するかは個人の判断。"
+      "a": "Kasperskyは技術的には優秀で、検出率もトップクラスだ。ただし米国連邦政府は2022年、国家安全保障上の懸念を理由にKasperskyを連邦契約から禁止した。米国内の個人利用そのものは今も可能だが、こうした地政学的リスクを考慮するかどうかは利用者自身の判断になる。"
     },
     {
       "q": "Norton vs Bitdefender？",
-      "a": "Bitdefenderが純検出率＋低システム影響で勝ち。Nortonがバンドル機能（無制限VPN、なりすまし盗難保険、パスワードマネージャ）で勝ち。純AV（Bitdefender）かAV＋なりすまし盗難スイート（Norton）かで選択。"
+      "a": "純粋な検出率とシステムへの影響の軽さではBitdefenderに軍配が上がる一方、Nortonは無制限VPNやなりすまし被害保険、パスワードマネージャーといったバンドル機能で優位に立つ。純粋なアンチウイルスとして選ぶならBitdefender、AVとなりすまし対策をまとめて求めるならNorton、という選び方になる。"
     }
   ],
   "products": {
     "bitdefender-total-security": {
       "badge": "🏆 有料AV最有力",
-      "review": "Bitdefender Total Securityは多くのユーザー向けの妥当な有料ピック。99.7%検出、最低誤検知率（同率）、最小システム影響。VPN込み（日200MB、Bitdefender Premium VPN追加で無制限）。5デバイスライセンス。",
+      "review": "Bitdefender Total Securityは、多くのユーザーにとって妥当な有料選択肢だ。検出率99.7%、業界最低水準の誤検知率、最小限のシステム負荷を両立している。VPNも付属するが1日200MBまでで、無制限にするにはBitdefender Premium VPNの追加が必要だ。ライセンスは5台まで対応する。",
       "pros": [
         "トップAV-TESTスコア",
         "低誤検知",
@@ -63,7 +63,7 @@
     },
     "norton-360-deluxe": {
       "badge": "🛡️ オールインワン最有力",
-      "review": "Norton 360 DeluxeはAV＋無制限VPN＋なりすまし盗難監視＋パスワードマネージャバンドル希望なら正解。$50,000なりすまし盗難保険込み。Bitdefenderよりシステム影響高いがバンドル機能は本物の価値。",
+      "review": "Norton 360 Deluxeは、アンチウイルスに加えて無制限VPN、なりすまし被害の監視、パスワードマネージャーまでまとめて欲しい人に向いている。5万ドルのなりすまし被害保険も付いている。Bitdefenderに比べるとシステムへの負荷は大きいが、バンドルされている機能には十分な価値がある。",
       "pros": [
         "無制限VPN込み",
         "$50kなりすまし盗難保険",
@@ -76,7 +76,7 @@
     },
     "malwarebytes-premium": {
       "badge": "🧹 セカンダリ最有力",
-      "review": "Malwarebytes Premiumはプライマリ AVと併用するセカンダリスキャナとして正解。プライマリAVが見逃すPUP（潜在的に望ましくないプログラム）、アドウェア、脅威をキャッチする設計。リアルタイム保護込み。",
+      "review": "Malwarebytes Premiumは、メインのアンチウイルスと組み合わせて使うセカンダリスキャナとして向いている。メインのAVが見逃しがちなPUP（望ましくないプログラム）やアドウェアなどの脅威を拾う設計で、リアルタイム保護も備えている。",
       "pros": [
         "プライマリAVが見逃すものをキャッチ",
         "共存設計",
@@ -89,7 +89,7 @@
     },
     "windows-defender-free": {
       "badge": "🆓 無料最有力",
-      "review": "Microsoft Defender（Windows 10／11組込）は多くの家庭ユーザー向け正解の無料ピック。検出率は有料AVに匹敵（99.4%）、最低誤検知率、最小システム影響。別途インストールなし。無料。",
+      "review": "Microsoft Defender（Windows 10／11に標準搭載）は、多くの家庭ユーザーにとって正解となる無料の選択肢だ。検出率99.4%は有料AVに匹敵し、誤検知率も最小水準、システムへの負荷も小さい。別途インストールする必要もなく、費用も一切かからない。",
       "pros": [
         "Windowsで無料",
         "検出率は有料AVに匹敵",
@@ -103,7 +103,7 @@
     },
     "kaspersky-total-security": {
       "badge": "⚠️ 地政学的懸念",
-      "review": "Kaspersky Total Securityはトップ階級の検出（99.7%）と技術的卓越性を持つ。しかし米国連邦政府は2022年にロシア拠点の運用への国家安全保障懸念でKasperskyを連邦契約から禁止。米国個人ユーザーはまだ使用可だが地政学的リスクを考慮するかは個人の判断。",
+      "review": "Kaspersky Total Securityは、検出率99.7%というトップクラスの性能と高い技術力を備えている。ただしロシアに拠点を置く運用体制が国家安全保障上の懸念とされ、米国連邦政府は2022年にKasperskyを連邦契約から禁止した。米国内の個人利用は今も可能だが、こうした地政学的リスクを考慮するかどうかは利用者自身の判断になる。",
       "pros": [
         "トップ検出率",
         "強力なゼロデイ検出",
@@ -116,11 +116,11 @@
     }
   },
   "offerNotes": {
-    "bitdefender-total-security": "bitdefender.comで購入 — 50%オフプロモ頻繁。",
-    "norton-360-deluxe": "us.norton.comで購入 — Deluxeは5デバイス。",
-    "malwarebytes-premium": "malwarebytes.comで購入 — プライマリAVと併用インストール。",
-    "windows-defender-free": "Windows 10／11で無料 — インストール不要。",
-    "kaspersky-total-security": "kaspersky.comで購入 — 地政学的リスク考慮。"
+    "bitdefender-total-security": "bitdefender.comで購入できる。50%オフのプロモーションが頻繁に実施されている。",
+    "norton-360-deluxe": "us.norton.comで購入できる。Deluxeプランは5台まで対応する。",
+    "malwarebytes-premium": "malwarebytes.comで購入できる。メインのアンチウイルスと併用してインストールする。",
+    "windows-defender-free": "Windows 10／11では無料で使える。インストールは不要だ。",
+    "kaspersky-total-security": "kaspersky.comで購入できる。前述の地政学的リスクを踏まえて検討するといい。"
   },
-  "pinDescription": "アンチウイルス 2026年比較：Bitdefender × Norton × Malwarebytes × Microsoft Defender × Kasperskyを1,000マルウェアサンプルでテスト。"
+  "pinDescription": "アンチウイルスソフト2026年版比較——Bitdefender、Norton、Malwarebytes、Microsoft Defender、Kasperskyの5製品を、1,000件のマルウェアサンプルで検証した結果をまとめました。"
 }

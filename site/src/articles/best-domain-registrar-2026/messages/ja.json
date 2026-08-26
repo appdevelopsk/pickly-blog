@@ -1,123 +1,123 @@
 {
   "title": "ドメインレジストラ 2026年比較：実更新価格で5社",
-  "description": "ドメインレジストラ 2026年比較：実更新価格で5社。公開仕様・メーカー資料・第三者レビューで比較。",
-  "lede": "ドメインレジストラ5社。同じ.comドメイン。実更新価格、実WHOISプライバシー、実アップセル攻撃性。各社が勝つポイントと避けるべきもの。",
+  "description": "ドメインレジストラ 2026年比較：実更新価格で5社を検証。公開仕様・メーカー資料・第三者レビューをもとに比較しています。",
+  "lede": "ドメインレジストラ5社を、同じ.comドメインで比較します。実際の更新価格、実際のWHOISプライバシーの扱い、実際のアップセルの攻撃性を確認し、各社が優れている点と避けるべき点をまとめました。",
   "methodology": "本比較は机上調査です。各社が公開している登録料と更新料、WHOISプライバシーの扱い、移管の条件、DNS管理画面の仕様、申込時のオプション販売について、公開情報と第三者レビューを突き合わせて作成しています。",
   "sections": [
     {
       "heading": "実価格（更新）",
       "paragraphs": [
-        ".com更新2年目：Porkbun $10.37、Cloudflare $9.77（原価）、Namecheap $14.98、GoDaddy $24.99、Squarespace Domains $20。",
-        "Cloudflareが絶対価格勝ち — マークアップゼロでレジストリ原価。難点：目標はCloudflare DNS／プロキシへのロックイン。Porkbunはマージン込みで最安。",
-        "GoDaddyの更新価格（Porkbunの2.4倍）は標準パターン：低い導入、高い更新。多くが惰性で残り、ドメインあたり年$15+余分に払う。"
+        ".com更新2年目の価格は、Porkbunが$10.37、Cloudflareが$9.77（原価）、Namecheapが$14.98、GoDaddyが$24.99、Squarespace Domainsが$20です。",
+        "絶対価格で勝つのはCloudflareで、マークアップゼロのレジストリ原価となっています。ただし、Cloudflare DNSやプロキシへのロックインが実質的な前提になる点には注意が必要です。Porkbunはマージンを含めても最安クラスです。",
+        "GoDaddyの更新価格はPorkbunの2.4倍で、これは業界でよくある「導入価格は低く、更新価格は高い」というパターンの典型です。多くのユーザーが惰性で契約を続け、ドメイン1本あたり年間$15以上を余分に支払っています。"
       ]
     },
     {
       "heading": "WHOISプライバシー",
       "paragraphs": [
-        "無料WHOISプライバシー：Porkbun、Namecheap、Cloudflare、Squarespace Domains。GoDaddy有料：年$9.99。",
-        "WHOISプライバシーは公開記録から名前、住所、メール、電話を隠す。これなしでは連絡先が公開検索可能でスパムを呼ぶ。",
-        "GoDaddyのWHOISプライバシー課金は時代遅れ — 多くの現代レジストラは基本機能として無料込み。"
+        "WHOISプライバシーを無料で提供しているのはPorkbun、Namecheap、Cloudflare、Squarespace Domainsです。GoDaddyは有料で、年間$9.99かかります。",
+        "WHOISプライバシーとは、公開記録から氏名・住所・メールアドレス・電話番号を隠す仕組みです。これがないと連絡先情報が誰でも検索できる状態になり、スパムを招く原因になります。",
+        "GoDaddyがWHOISプライバシーを有料としているのは時代遅れと言えます。多くの現代的なレジストラでは、これは基本機能として無料で含まれています。"
       ]
     },
     {
       "heading": "チェックアウトのアップセル",
       "paragraphs": [
-        "チェックアウトのアップセル数（オプトアウトクリック）：Porkbun 0、Cloudflare 0、Namecheap 2、GoDaddy 8+（プライバシー、メール、セキュリティ、ビジネスメール、ホスティング、ビルダー、SSL、M365）、Squarespace Domains 1。",
-        "GoDaddyのチェックアウトは最攻撃的 — 望まないサービスを$50+追加するのは容易。PorkbunとCloudflareはチェックアウトをクリーンに保つ。"
+        "チェックアウト時にオプトアウトが必要なアップセルの数は、Porkbunが0件、Cloudflareが0件、Namecheapが2件、GoDaddyが8件以上（プライバシー、メール、セキュリティ、ビジネスメール、ホスティング、サイトビルダー、SSL、M365）、Squarespace Domainsが1件です。",
+        "GoDaddyのチェックアウトは最も攻撃的で、気づかないうちに不要なサービスを$50以上追加してしまうことも珍しくありません。一方、PorkbunとCloudflareはチェックアウト画面をクリーンに保っています。"
       ]
     }
   ],
   "faqs": [
     {
-      "q": "Cloudflare vs Porkbun？",
-      "a": "Cloudflareを既にDNSまたはプロキシで使っているならCloudflare。利益が出て別プラットフォームに縛られないレジストラを求めるならPorkbun。"
+      "q": "CloudflareとPorkbun、どちらを選ぶべきですか？",
+      "a": "すでにDNSやプロキシとしてCloudflareを使っているならCloudflareがおすすめです。特定のプラットフォームに縛られず、価格面でも有利なレジストラを求めるならPorkbunが適しています。"
     },
     {
-      "q": "GoDaddyから移行すべき？",
-      "a": "イエス。年間節約：ドメインあたり$15+。転出は単純（最後のアクションから60日経過）。受取側レジストラが通常転出料金負担。"
+      "q": "GoDaddyから乗り換えるべきですか？",
+      "a": "はい、乗り換えをおすすめします。ドメイン1本あたり年間$15以上の節約になります。転出手続き自体もシンプルで、最後の操作から60日経過していれば行えます。転出にかかる料金は、通常は移管先のレジストラが負担します。"
     },
     {
-      "q": ".comはまだ最良のTLD？",
-      "a": "イエス。認識価値最高、顧客リコール最容易、SEOニュートラル。他のTLD（.io、.ai）は特定文脈で良いが.comがデフォルト。"
+      "q": ".comは今でも最良のTLDですか？",
+      "a": "はい、今でも最良の選択肢です。認知度が最も高く、顧客に覚えてもらいやすく、SEO上もニュートラルです。.ioや.aiなど他のTLDも特定の文脈では有効ですが、迷ったときのデフォルトは.comです。"
     },
     {
-      "q": "バルクドメイン管理？",
-      "a": "CloudflareとNamecheapが最良のバルクツール。PorkbunのバルクUXは改善中。GoDaddyもバルクツールあるが雑然。"
+      "q": "ドメインを複数まとめて管理したい場合は？",
+      "a": "CloudflareとNamecheapが、複数ドメインの一括管理ツールとして最も優れています。PorkbunのバルクUXは現在改善が進んでいる段階です。GoDaddyにも一括管理ツールはありますが、操作画面がやや雑然としています。"
     }
   ],
   "products": {
     "porkbun-registrar": {
       "badge": "🏆 コスパ最有力",
-      "review": "Porkbunは持続可能な低価格向け正解。$10.37 .com更新、WHOISプライバシー無料、ホスティングバンドルでSSL無料、チェックアウトアップセルゼロ。2026年新規ドメインのデフォルト推奨。",
+      "review": "Porkbunは、無理のない低価格を長く維持したい人に最適な選択です。.com更新料は$10.37、WHOISプライバシーは無料、ホスティングとのバンドルではSSLも無料になります。チェックアウト時のアップセルもゼロで、2026年に新規ドメインを取得するならまず検討したいレジストラです。",
       "pros": [
-        "最安持続可能価格",
-        "WHOISプライバシー無料",
-        "チェックアウトアップセルゼロ"
+        "持続可能な最安クラスの価格",
+        "WHOISプライバシーが無料",
+        "チェックアウトでのアップセルがゼロ"
       ],
       "cons": [
-        "Namecheapよりブランド小さい",
-        "電話サポートなし"
+        "Namecheapよりブランド知名度が低い",
+        "電話サポートがない"
       ]
     },
     "namecheap-registrar": {
       "badge": "🎯 主流最有力",
-      "review": "Namecheapは確立された主流価格向け正解。$14.98 .com更新、永久WHOISプライバシー無料、透明価格。強力なDNS管理。2000年から信頼性。",
+      "review": "Namecheapは、実績のある主流の価格帯で選ぶなら最適な選択です。.com更新料は$14.98で、WHOISプライバシーは永久に無料、価格体系も透明です。DNS管理機能も強力で、2000年からの運営実績による信頼性があります。",
       "pros": [
-        "永久WHOISプライバシー無料",
-        "透明な価格",
-        "強力なDNS管理"
+        "WHOISプライバシーが永久に無料",
+        "価格体系が透明",
+        "強力なDNS管理機能"
       ],
       "cons": [
-        "Porkbunより高い",
-        "チェックアウトでいくつかアップセル"
+        "Porkbunより価格が高い",
+        "チェックアウト時にいくつかアップセルがある"
       ]
     },
     "cloudflare-registrar": {
       "badge": "💰 原価最有力",
-      "review": "Cloudflare Registrarは原価価格を求めCloudflare DNSを使うなら正解。$9.77 .com更新（レジストリ原価）、WHOISプライバシー無料、マークアップなし。ドメインはCloudflare DNS必須、メール転送なし。",
+      "review": "Cloudflare Registrarは、原価そのままの価格を求め、かつCloudflare DNSを使っている人に最適な選択です。.com更新料は$9.77（レジストリ原価）で、WHOISプライバシーも無料、マークアップは一切ありません。ただし、ドメインの利用にはCloudflare DNSが必須で、メール転送機能はありません。",
       "pros": [
-        "原価価格（最安）",
-        "一切アップセルなし",
-        "WHOISプライバシー無料"
+        "原価そのままの価格（最安クラス）",
+        "アップセルが一切ない",
+        "WHOISプライバシーが無料"
       ],
       "cons": [
-        "Cloudflare DNS必須",
-        "メール転送なし"
+        "Cloudflare DNSの利用が必須",
+        "メール転送機能がない"
       ]
     },
     "godaddy-registrar": {
       "badge": "🚫 避けるべき",
-      "review": "GoDaddyは2026年に避けるべきレジストラ。$24.99 .com更新（Porkbunの2.4倍）、WHOISプライバシーに年$9.99、チェックアウトで8+アップセル。レガシー価格にレガシー利点なし。転出を。",
+      "review": "GoDaddyは、2026年時点では避けたほうがよいレジストラです。.com更新料は$24.99でPorkbunの2.4倍、WHOISプライバシーは年間$9.99の有料、チェックアウト時のアップセルは8件以上にのぼります。価格は割高なのに、それに見合うメリットは見当たりません。すでに利用している場合は転出を検討しましょう。",
       "pros": [
-        "確立されたブランド認知"
+        "ブランド認知度が高い"
       ],
       "cons": [
-        "最高更新価格",
-        "有料WHOISプライバシー",
-        "攻撃的チェックアウトアップセル"
+        "更新価格が最も高い",
+        "WHOISプライバシーが有料",
+        "チェックアウト時のアップセルが攻撃的"
       ]
     },
     "google-domains-squarespace": {
       "badge": "🪜 Google代替最有力",
-      "review": "Squarespace Domains（旧Google Domains）はGoogle Domainsのシンプルさを継承。Squarespaceが2023年買収。$20 .com更新、WHOISプライバシー無料、クリーンUX。",
+      "review": "Squarespace Domains（旧Google Domains）は、旧Google Domainsのシンプルさを引き継いだサービスです。2023年にSquarespaceが買収しました。.com更新料は$20、WHOISプライバシーは無料で、チェックアウト画面もクリーンです。",
       "pros": [
-        "Google Domains UX継承",
-        "WHOISプライバシー無料",
-        "クリーンチェックアウト"
+        "旧Google DomainsのUXを継承",
+        "WHOISプライバシーが無料",
+        "クリーンなチェックアウト画面"
       ],
       "cons": [
-        "Porkbun／Cloudflareより高い",
-        "Squarespaceビルダーへのクロスセル"
+        "PorkbunやCloudflareより価格が高い",
+        "Squarespaceのサイトビルダーへの誘導がある"
       ]
     }
   },
   "offerNotes": {
-    "porkbun-registrar": "porkbun.comで登録 — Porkbunホスティング併用で最良の無料SSLバンドル。",
-    "namecheap-registrar": "namecheap.comで登録 — Black Fridayセール注目。",
-    "cloudflare-registrar": "cloudflare.comで登録 — Cloudflareアカウント必要。",
-    "godaddy-registrar": "godaddy.comで登録可だが1年以内に転出。",
-    "google-domains-squarespace": "squarespace.com/domainsで登録 — 旧Google Domainsアカウント自動移行。"
+    "porkbun-registrar": "porkbun.comで登録できます。Porkbunのホスティングと併用すると、最も充実した無料SSLバンドルが利用できます。",
+    "namecheap-registrar": "namecheap.comで登録できます。ブラックフライデーのセールにも注目です。",
+    "cloudflare-registrar": "cloudflare.comで登録できます。利用にはCloudflareアカウントが必要です。",
+    "godaddy-registrar": "godaddy.comで登録は可能ですが、1年以内に他社へ転出することをおすすめします。",
+    "google-domains-squarespace": "squarespace.com/domainsで登録できます。旧Google Domainsのアカウントは自動的に移行されます。"
   },
-  "pinDescription": "ドメインレジストラ 2026年比較：Porkbun × Namecheap × Cloudflare × GoDaddy × Squarespaceの実更新価格＋WHOISプライバシー実態。"
+  "pinDescription": "ドメインレジストラ 2026年比較：Porkbun × Namecheap × Cloudflare × GoDaddy × Squarespaceの実更新価格とWHOISプライバシーの実態をまとめました。"
 }
