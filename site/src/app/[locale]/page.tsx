@@ -162,6 +162,9 @@ export default async function HomePage({ params }: Props) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
 
+      {/* ── Brand video (17ロケール・フルブリード自動再生) ── */}
+      <BrandVideo locale={locale} />
+
       <div className="mx-auto max-w-5xl px-4 pb-20">
 
         {/* ── Hero ──────────────────────────────────────── */}
@@ -191,9 +194,6 @@ export default async function HomePage({ params }: Props) {
             </Link>
           </div>
         </section>
-
-        {/* ── Brand video (17 locales, click-to-play) ────── */}
-        <BrandVideo locale={locale} />
 
         {/* ── Category pills ────────────────────────────── */}
         {topCategories.length > 0 && (
