@@ -5,8 +5,11 @@ import { getDirection } from "@/lib/i18n/locales";
  *
  * 設計上の決定（2026-08-27 改訂）:
  * - fxea365 (EA/website の [locale]/page.tsx ヒーロー) と同形式の
- *   **フルブリード自動再生帯**にする。autoPlay / muted / loop / playsInline、
+ *   **フルブリード自動再生帯**にする。autoPlay / muted / playsInline、
  *   controls なし・オーバーレイなし・装飾枠なし。無音素材なので muted で欠落なし。
+ * - loop は付けない（2026-08-27 ユーザー指示）。30秒を1回再生し、
+ *   最終フレーム（pickly ロゴ）を表示したまま停止させる。ループさせると
+ *   ロゴが一瞬で消えてブランド提示が残らないため。
  * - 以前は preload="none" + ポスター＋クリック再生だったが、ユーザー指示により
  *   自動再生へ変更（初回に動画バイト列を取りに行くトレードオフは承知の上）。
  * - 設置箇所は max-w-5xl コンテナの**外**（page.tsx のトップレベル）。
@@ -27,7 +30,6 @@ export default function BrandVideo({ locale }: { locale: string }) {
       <video
         autoPlay
         muted
-        loop
         playsInline
         poster={poster}
         aria-hidden="true"
