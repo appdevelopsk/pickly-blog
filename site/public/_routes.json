@@ -1,6 +1,8 @@
 {
   "version": 1,
-  "include": ["/*"],
+  "include": [
+    "/*"
+  ],
   "exclude": [
     "/_next/*",
     "/images/*",
@@ -17,6 +19,8 @@
     "/*.js",
     "/*.txt",
     "/*.xml",
-    "/*.json"
+    "/*.json",
+    "/videos/*",
+    "/*.mp4"
   ]
 }
