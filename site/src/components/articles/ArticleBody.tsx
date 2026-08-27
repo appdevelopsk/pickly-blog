@@ -238,6 +238,38 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
             </nav>
           )}
 
+          {/* ★ファーストビューの横断導線（2026-08-27）。
+              comparison記事の上部にあるリンクは **全部** ページ内アンカー(#offer-…)か
+              アフィリエイト外部リンクで、他記事へのリンクが1本も無かった。
+              inline related は比較表より下、sidebar は desktop 限定、grid は末尾。
+              scroll_depth を出すのは page_view ユーザー 2,091人中 86人(約4%)＝
+              ほぼ誰も下まで降りないので、既存の回遊枠は届いていない
+              (28日で related_click 6件・pv/session 1.06)。
+              そこで既存の related データ(上位2件)をテキストchipに圧縮して
+              比較表の直前＝ファーストビュー内に置く。新しい文言・翻訳は不要。
+              placement は "hero" として GA4 で inline/sidebar/grid と分離する。 */}
+          {isComparison && related.length > 0 && (
+            <nav
+              aria-label={t("article.related")}
+              className="mb-8 flex flex-wrap items-center gap-2 text-xs"
+            >
+              <span className="font-bold uppercase tracking-widest text-slate-400">
+                {t("article.related")}
+              </span>
+              {related.slice(0, 2).map((r) => (
+                <Link
+                  key={r.slug}
+                  href={`/articles/${r.slug}`}
+                  data-related="hero"
+                  className="inline-flex max-w-full items-center gap-1.5 rounded-full border border-brand-200 bg-brand-50/60 px-3.5 py-1.5 font-bold text-brand-700 shadow-sm transition-all hover:border-brand-400 hover:bg-brand-50 hover:shadow"
+                >
+                  <span className="truncate">{r.title}</span>
+                  <span aria-hidden className="shrink-0 text-brand-400">→</span>
+                </Link>
+              ))}
+            </nav>
+          )}
+
           {/* Comparison table — only shown when offers have rating or price data */}
           {isComparison && offers.length > 0 && (showRatingCol || showPriceCol) && (
             <div className="mb-8 overflow-x-auto rounded-2xl border border-slate-200 shadow-sm">
