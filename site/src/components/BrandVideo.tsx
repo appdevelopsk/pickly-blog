@@ -11,6 +11,10 @@ import { getDirection } from "@/lib/i18n/locales";
  *   自動再生へ変更（初回に動画バイト列を取りに行くトレードオフは承知の上）。
  * - 設置箇所は max-w-5xl コンテナの**外**（page.tsx のトップレベル）。
  *   負マージン(-ml-[50vw])だとクラシックなスクロールバー環境で横溢れするため。
+ * - 高さは vh 固定ではなく aspect-video（素材と同じ 16:9 = 1920x1080）。
+ *   vh 固定だと枠が素材より横長になり object-cover が上下を切り落とすため、
+ *   下部 72〜82% に置かれたテロップが下端に張り付く／画面比によっては欠ける。
+ *   aspect-video なら切り落としが常にゼロで、テロップが素材の設計位置に出る。
  * - ファイル名サフィックスは locales.ts の LOCALE_DEFS のコードと完全一致
  *   （en / ja / zh-CN / pt-BR ... すべて）なのでマッピングは不要。
  */
@@ -27,7 +31,7 @@ export default function BrandVideo({ locale }: { locale: string }) {
         playsInline
         poster={poster}
         aria-hidden="true"
-        className="block h-[46vh] min-h-[280px] w-full object-cover md:h-[62vh]"
+        className="block aspect-video w-full object-cover"
       >
         <source src={src} type="video/mp4" />
       </video>
