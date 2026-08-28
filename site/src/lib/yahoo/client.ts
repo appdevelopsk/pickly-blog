@@ -26,13 +26,22 @@ export interface YahooItem {
 
 export interface YahooConfig {
   appid: string;
-  vcSid?: string; // ValueCommerce SID（アフィリ用）
+  vcSid: string; // ValueCommerce SID（アフィリ用・必須）
 }
 
+// ★AFFILIATE_VALUECOMMERCE_SID は必須。未設定でも動いてしまうと affiliate_type=vc が
+//   静かに落ちて生の store URL が返り、それをキャッシュ→本番で無報酬リンクを配信する。
+//   実際に本番475ページ2,920リンクが全て無タグだった(2026-08-28 実測)。落とす方が安全。
 function cfgFromEnv(): YahooConfig {
   const appid = process.env.YAHOO_APP_ID ?? "";
   if (!appid) throw new Error("YAHOO_APP_ID が未設定です");
-  return { appid, vcSid: process.env.AFFILIATE_VALUECOMMERCE_SID };
+  const vcSid = process.env.AFFILIATE_VALUECOMMERCE_SID ?? "";
+  if (!vcSid) {
+    throw new Error(
+      "AFFILIATE_VALUECOMMERCE_SID が未設定です（未設定だとアフィリタグ無しの生store URLを取得してしまう）",
+    );
+  }
+  return { appid, vcSid };
 }
 
 /** キーワードで検索し関連性順で最大 hits 件返す（新品優先）。 */
@@ -48,7 +57,9 @@ export async function searchItems(
     sort: "-score", // 関連性順
     condition: "new", // 新品のみ（中古/部品の誤マッチを抑制）
     in_stock: "true",
-    ...(cfg.vcSid ? { affiliate_type: "vc", affiliate_id: cfg.vcSid } : {}),
+    // 条件付きスプレッドをやめ、SID必須化とセットで常に付与する(静かな無タグ化の防止)。
+    affiliate_type: "vc",
+    affiliate_id: cfg.vcSid,
   });
   const res = await fetch(`${ENDPOINT}?${params.toString()}`, {
     headers: { "User-Agent": "pickly.blog/1.0" },

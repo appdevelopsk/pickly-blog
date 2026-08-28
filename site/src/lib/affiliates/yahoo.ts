@@ -4,6 +4,14 @@ import yahooCache from "./yahoo-cache.json";
 type YhEntry = { url: string | null; price: number | null; priceMin?: number | null; priceMax?: number | null; image: string | null; review?: number; reviewCount?: number; name?: string };
 const YH = yahooCache as Record<string, YhEntry>;
 
+// ★VCアフィリタグ付きURLかどうか。Yahoo API は affiliate_type=vc が効いていない場合
+//   (SID未設定 / VC側で Yahoo!ショッピングと未提携) 生の store.shopping.yahoo.co.jp を返す。
+//   それを配信すると完全な無報酬流出になるため、配信側でも弾く。
+export function isTaggedVcUrl(url: string | null | undefined): boolean {
+  if (!url) return false;
+  return /(^https?:\/\/ck\.jp\.ap\.valuecommerce\.com\/)|([?&]vc_url=)|([?&]sid=)/i.test(url);
+}
+
 export interface YahooProduct {
   url: string;
   price: number | null;
@@ -22,6 +30,7 @@ const DIGITAL_RE = /\b(vpn|antivirus|anti-virus|password manager|web host|hostin
 export function getYahooMatch(offerId: string, nameEn?: string, nameJa?: string): YahooProduct | null {
   const e = YH[offerId];
   if (!e || !e.url || !e.name) return null;
+  if (!isTaggedVcUrl(e.url)) return null; // 無タグURLは表示しない(無報酬流出の防止)
   if (DIGITAL_RE.test(nameEn ?? "") || DIGITAL_RE.test(nameJa ?? "")) return null;
   const itemNorm = norm(e.name);
   const tokens: string[] = [];

@@ -3,7 +3,11 @@
  * カタログ各商品名で検索→関連性ガード（楽天と共有）を通った1件 + 価格レンジ + レビュー を
  * `src/lib/affiliates/yahoo-cache.json` にキャッシュ。サイトはこれを読むだけ。
  *
- * 使い方（要 env YAHOO_APP_ID, 任意 AFFILIATE_VALUECOMMERCE_SID）:
+ * ★env YAHOO_APP_ID と AFFILIATE_VALUECOMMERCE_SID は両方必須。SIDが無いと
+ *   affiliate_type=vc が付かず生の store URL が返る＝無報酬リンクをキャッシュしてしまう。
+ *   さらに VC未タグのURLはキャッシュに書かない(承認前の取得結果を本番に流さない)。
+ *
+ * 使い方（要 env YAHOO_APP_ID, AFFILIATE_VALUECOMMERCE_SID）:
  *   npx tsx scripts/fetch-yahoo.ts --limit 300
  *   npx tsx scripts/fetch-yahoo.ts --category tech
  *   ONLY_MATCHED=1 で 楽天マッチ済(実在確度高)を優先 / --refresh で再取得
@@ -17,6 +21,7 @@ import { searchItems, type YahooItem } from "../src/lib/yahoo/client";
 // 片方だけ直して測定が無効になる事故が起きたため共有モジュールに一本化した。
 import { pickWithRange, guardsFor } from "../src/lib/affiliates/match-guard";
 import { keywordCandidates } from "../src/lib/rakuten/keywords";
+import { isTaggedVcUrl } from "../src/lib/affiliates/yahoo";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const CACHE_PATH = resolve(HERE, "../src/lib/affiliates/yahoo-cache.json");
@@ -64,7 +69,7 @@ async function main() {
   const batch = limit ? todo.slice(0, limit) : todo;
   console.log(`対象 ${batch.length} 件（全${offers.length} / キャッシュ済${Object.keys(cache).length}）`);
 
-  let done = 0, hit = 0;
+  let done = 0, hit = 0, untagged = 0;
   for (const offer of batch) {
     // 商品名を丸ごと投げると0件になりやすいので、具体的→一般的の候補列を順に試す。
     const candidates = keywordCandidates(offer.name.ja, offer.name.en);
@@ -83,6 +88,13 @@ async function main() {
         if (picked) break;
         await sleep(300);
       }
+      // ★VC未タグのURLはキャッシュしない。承認前/SID不備の取得結果を本番に流すと
+      //   無報酬リンクを配信することになる(実際に本番2,920リンクが無タグだった)。
+      if (picked && !isTaggedVcUrl(picked.top.url)) {
+        console.warn(`  ! ${offer.id}: 無タグURLのためスキップ (${picked.top.url.slice(0, 60)})`);
+        picked = null;
+        untagged++;
+      }
       cache[offer.id] = picked
         ? { url: picked.top.url, price: picked.top.price, priceMin: picked.priceMin, priceMax: picked.priceMax, image: picked.top.image, review: picked.top.review, reviewCount: picked.top.reviewCount, name: picked.top.name, fetchedAt: today }
         : { url: null, price: null, priceMin: null, priceMax: null, image: null, fetchedAt: today };
@@ -97,6 +109,7 @@ async function main() {
     await sleep(300);
   }
   writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 0));
-  console.log(`完了: ${done}件 / ヒット${hit} / 総${Object.keys(cache).length}件 → ${CACHE_PATH}`);
+  console.log(`完了: ${done}件 / ヒット${hit} / 無タグ除外${untagged} / 総${Object.keys(cache).length}件 → ${CACHE_PATH}`);
+  if (untagged > 0) console.warn(`※ ${untagged}件が無タグURLでした。VC管理画面で Yahoo!ショッピングとの提携が承認済みか確認してください。`);
 }
 main().catch((e) => { console.error(e); process.exit(1); });
