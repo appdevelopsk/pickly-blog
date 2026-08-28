@@ -224,7 +224,7 @@ export default async function HomePage({ params }: Props) {
           try { trustIntro = t("home.trustIntro"); } catch { /* missing */ }
           if (!trustTitle) return null;
           const items: { titleKey: string; textKey: string; icon: string }[] = [
-            { titleKey: "home.trustTestedTitle", textKey: "home.trustTestedText", icon: "🧪" },
+            { titleKey: "home.trustTestedTitle", textKey: "home.trustTestedText", icon: "📄" },
             { titleKey: "home.trustCriteriaTitle", textKey: "home.trustCriteriaText", icon: "📊" },
             { titleKey: "home.trustDisclosureTitle", textKey: "home.trustDisclosureText", icon: "🔍" },
             { titleKey: "home.trustUpdatedTitle", textKey: "home.trustUpdatedText", icon: "🔄" },
