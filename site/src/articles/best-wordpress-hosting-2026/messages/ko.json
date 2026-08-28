@@ -7,7 +7,7 @@
     {
       "heading": "가격 대비 실제 비용",
       "paragraphs": [
-        "표시 가격: Bluehost 월 $2.95(첫 결제 기준), SiteGround 월 $5.99(첫 결제 기준), Cloudways 월 $14부터, Kinsta 월 $35, WP Engine 월 $30. 갱신 후 실제 비용은 Bluehost 월 $11, SiteGround 월 $24입니다. Kinsta와 WP Engine은 첫 결제 할인이 없어, 처음 결제한 금액을 2년차에도 그대로 냅니다.",
+        "표시 가격: Bluehost 월 US$2.95(첫 결제 기준), SiteGround 월 US$5.99(첫 결제 기준), Cloudways 월 US$14부터, Kinsta 월 US$35, WP Engine 월 US$30. 갱신 후 실제 비용은 Bluehost 월 US$11, SiteGround 월 US$24입니다. Kinsta와 WP Engine은 첫 결제 할인이 없어, 처음 결제한 금액을 2년차에도 그대로 냅니다.",
         "트래픽 상한도 봐야 합니다. Kinsta와 WP Engine은 플랜별 월 방문자 수를 넘기면 초과 요금을 부과하고, SiteGround와 Bluehost는 대신 속도를 제한합니다. 성장하는 사이트라면 Kinsta·WP Engine의 초과 요금은 예측 가능한 비용이지만, 저가 호스팅의 속도 제한은 예고 없는 다운타임에 가깝습니다."
       ]
     },
@@ -29,7 +29,7 @@
   ],
   "faqs": [
     {
-      "q": "Bluehost 월 $2.95 대신 Kinsta 월 $35를 낼 만한가요?",
+      "q": "Bluehost 월 US$2.95 대신 Kinsta 월 US$35를 낼 만한가요?",
       "a": "사이트에서 수익이 조금이라도 난다면 그렇습니다. TTFB 차이만으로도 전환율이 달라집니다. Bluehost는 빠를 필요도, 항상 살아 있을 필요도 없는 취미 사이트용입니다."
     },
     {
@@ -74,7 +74,7 @@
     },
     "siteground-grow-big": {
       "badge": "🪜 중간대 최고",
-      "review": "SiteGround GrowBig은 관리형 호스팅 가격을 감당하긴 부담스럽지만 성능은 필요한 사이트에 알맞습니다. 자체 SiteGround Optimizer 플러그인이 캐싱을 잘 처리하고, 스테이징 환경도 제대로 동작합니다. 2년차 가격인 월 $24가 실제 비용이라고 보면 됩니다. Bluehost보다는 확실히 나을 만한 값이지만, Kinsta만큼 빠르지는 않습니다.",
+      "review": "SiteGround GrowBig은 관리형 호스팅 가격을 감당하긴 부담스럽지만 성능은 필요한 사이트에 알맞습니다. 자체 SiteGround Optimizer 플러그인이 캐싱을 잘 처리하고, 스테이징 환경도 제대로 동작합니다. 2년차 가격인 월 US$24가 실제 비용이라고 보면 됩니다. Bluehost보다는 확실히 나을 만한 값이지만, Kinsta만큼 빠르지는 않습니다.",
       "pros": [
         "제대로 작동하는 스테이징 환경",
         "쓸 만한 SiteGround Optimizer 플러그인",
@@ -135,12 +135,12 @@
     {
       "label": "예산이 중간 정도인 소상공인",
       "offerId": "siteground-grow-big",
-      "reason": "스테이징 환경과 Optimizer 플러그인 덕에 월 $30 이상 관리형 호스팅 비용 없이도 실제 성능을 확보할 수 있습니다."
+      "reason": "스테이징 환경과 Optimizer 플러그인 덕에 월 US$30 이상 관리형 호스팅 비용 없이도 실제 성능을 확보할 수 있습니다."
     },
     {
       "label": "첫 사이트를 여는 블로거와 취미 운영자",
       "offerId": "bluehost-choice-plus",
-      "reason": "첫 결제 월 $2.95에 원클릭 워드프레스 설치까지, 수익을 내지 않는 취미 사이트에는 진입 장벽이 사실상 없습니다."
+      "reason": "첫 결제 월 US$2.95에 원클릭 워드프레스 설치까지, 수익을 내지 않는 취미 사이트에는 진입 장벽이 사실상 없습니다."
     },
     {
       "label": "인프라를 직접 통제하고 싶은 개발자와 DevOps 엔지니어",

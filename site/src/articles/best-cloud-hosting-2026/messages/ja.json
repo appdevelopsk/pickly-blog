@@ -21,7 +21,7 @@
     {
       "heading": "実月額請求",
       "paragraphs": [
-        "同じワークロード（ピーク4インスタンス、平均2インスタンス、各8 vCPU）：AWS EC2 $620／月（RI割引込み）、Google Cloud $710／月（持続使用割引込み）、Azure $780／月（リザーブドインスタンス込み）、DigitalOcean App Platform $480／月、Render $440／月。",
+        "同じワークロード（ピーク4インスタンス、平均2インスタンス、各8 vCPU）：AWS EC2 US$620／月（RI割引込み）、Google Cloud US$710／月（持続使用割引込み）、Azure US$780／月（リザーブドインスタンス込み）、DigitalOcean App Platform US$480／月、Render US$440／月。",
         "PaaS層（DigitalOcean、Render）は16 vCPU未満の予測可能ワークロードでハイパースケーラーより安価。ハイパースケーラーはより深い割引プログラムにより20+インスタンスでスケール勝ち。Azureは複数のワークロードで一貫して最も高価。"
       ]
     }
@@ -113,10 +113,10 @@
   },
   "offerNotes": {
     "aws-ec2-cloud": "aws.amazon.comでサインアップ。AWS Compute Optimizerでインスタンスを適正サイズ化。",
-    "google-cloud-compute-engine": "cloud.google.comでサインアップ。新規アカウント$300無料クレジット。",
-    "azure-virtual-machines": "azure.microsoft.comでサインアップ。新規アカウント$200無料クレジット。",
-    "digitalocean-app-platform": "digitalocean.comでサインアップ。新規アカウント$200無料クレジット。",
-    "render-cloud": "render.comでサインアップ。静的サイトは無料層、有料プランは月$7から。"
+    "google-cloud-compute-engine": "cloud.google.comでサインアップ。新規アカウントUS$300無料クレジット。",
+    "azure-virtual-machines": "azure.microsoft.comでサインアップ。新規アカウントUS$200無料クレジット。",
+    "digitalocean-app-platform": "digitalocean.comでサインアップ。新規アカウントUS$200無料クレジット。",
+    "render-cloud": "render.comでサインアップ。静的サイトは無料層、有料プランは月US$7から。"
   },
   "pinDescription": "クラウドホスティング 2026年比較：AWS EC2 × GCP × Azure × DigitalOcean App Platform × Renderを、同じNext.jsアプリを前提に実コストとレイテンシのデータで比較。"
 }

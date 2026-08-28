@@ -4,24 +4,24 @@
     "description": "Five meal kit services compared on price per serving, portion accuracy, recipe variety and difficulty, packaging waste, and skip/pause flexibility. Find the one that fits how you actually cook."
   },
   "methodology": "Chúng tôi đăng ký thực tế từng dịch vụ trong 8 tuần — theo dõi chi phí thực tế cho mỗi khẩu phần ở tần suất phổ biến là hai người với ba công thức, độ chính xác của khẩu phần so với số phần ăn được công bố, sự ổn định về chất lượng nguyên liệu, mức độ rắc rối khi bỏ qua một đợt giao, và lượng rác bao bì cho mỗi lần giao hàng.",
-  "lede": "Five meal kit services ranging from $5 to $13 per serving, covering beginner-friendly basics to chef-driven organic menus. Taste consistency between batches matters more than health claims on the label.",
+  "lede": "Five meal kit services ranging from US$5 to US$13 per serving, covering beginner-friendly basics to chef-driven organic menus. Taste consistency between batches matters more than health claims on the label.",
   "products": [
     {
       "offerId": "hellofresh-meal-kit",
       "badge": "Best Overall",
-      "review": "HelloFresh earns the overall pick by covering the most use cases without significant failures — widest weekly menu, reliable portions, and skip mechanics that don't require a support call. The honest limitation is cost: typical two-person pricing is $11–$13 per serving including shipping, not the advertised floor.",
+      "review": "HelloFresh earns the overall pick by covering the most use cases without significant failures — widest weekly menu, reliable portions, and skip mechanics that don't require a support call. The honest limitation is cost: typical two-person pricing is US$11–US$13 per serving including shipping, not the advertised floor.",
       "pros": [
         "Widest weekly menu (30–40 recipes) with explicit difficulty and time tags",
         "Skip up to 6 weeks ahead via self-serve portal — no support call required",
         "Consistent portion accuracy with difficulty levels from 20-min easy to chef's choice"
       ],
       "cons": [
-        "Actual per-serving cost at typical plan frequency is $11–$13, not the advertised $7.49 floor"
+        "Actual per-serving cost at typical plan frequency is US$11–US$13, not the advertised US$7.49 floor"
       ],
       "grade": "A+",
       "specs": {
-        "Price range": "$7.49–$10.99/serving",
-        "Shipping": "$8.99/box",
+        "Price range": "US$7.49–US$10.99/serving",
+        "Shipping": "US$8.99/box",
         "Recipes/week": "30–40",
         "Skip flexibility": "6 weeks advance, self-serve",
         "Pause limit": "8 weeks",
@@ -49,8 +49,8 @@
       ],
       "grade": "A",
       "specs": {
-        "Price range": "$7.99–$11.99/serving",
-        "Shipping": "$8.99/box",
+        "Price range": "US$7.99–US$11.99/serving",
+        "Shipping": "US$8.99/box",
         "Recipes/week": "12–16",
         "Skip flexibility": "5-day cutoff, self-serve",
         "Pause limit": "8 weeks",
@@ -78,8 +78,8 @@
       ],
       "grade": "B+",
       "specs": {
-        "Price range": "$11.99–$13.99/serving",
-        "Shipping": "$9.99/box",
+        "Price range": "US$11.99–US$13.99/serving",
+        "Shipping": "US$9.99/box",
         "Recipes/week": "6–8 per dietary lane",
         "Skip flexibility": "6-day cutoff, self-serve",
         "Pause limit": "8 weeks",
@@ -96,9 +96,9 @@
     {
       "offerId": "everyplate-meal-kit",
       "badge": "Best Budget",
-      "review": "EveryPlate delivers genuine per-serving savings of $3–$5 versus HelloFresh — not introductory-offer math but real sustained pricing. Recipes are reliable and instructions are clear. The tradeoff is narrower variety and portions that run slightly smaller than competitors.",
+      "review": "EveryPlate delivers genuine per-serving savings of US$3–US$5 versus HelloFresh — not introductory-offer math but real sustained pricing. Recipes are reliable and instructions are clear. The tradeoff is narrower variety and portions that run slightly smaller than competitors.",
       "pros": [
-        "Genuine $3–$5 per-serving savings versus HelloFresh at comparable recipe frequency",
+        "Genuine US$3–US$5 per-serving savings versus HelloFresh at comparable recipe frequency",
         "Simple, reliable recipes with clear instructions — works without cooking confidence",
         "Same skip and pause mechanics as HelloFresh — no management friction"
       ],
@@ -107,8 +107,8 @@
       ],
       "grade": "B",
       "specs": {
-        "Price range": "$4.99–$7.49/serving",
-        "Shipping": "$8.99/box",
+        "Price range": "US$4.99–US$7.49/serving",
+        "Shipping": "US$8.99/box",
         "Recipes/week": "15–20",
         "Skip flexibility": "5-day cutoff, self-serve",
         "Pause limit": "8 weeks",
@@ -136,8 +136,8 @@
       ],
       "grade": "B-",
       "specs": {
-        "Price range": "$10.99–$12.99/serving",
-        "Shipping": "$9.99/box",
+        "Price range": "US$10.99–US$12.99/serving",
+        "Shipping": "US$9.99/box",
         "Recipes/week": "16–20",
         "Skip flexibility": "5-day cutoff, self-serve",
         "Pause limit": "16 weeks",
@@ -161,7 +161,7 @@
     {
       "label": "For cost-conscious households cooking several nights per week",
       "offerId": "everyplate-meal-kit",
-      "reason": "The $3–$5 per-serving savings versus HelloFresh are real and compound meaningfully across multiple weekly deliveries — the right pick when budget is a genuine constraint."
+      "reason": "The US$3–US$5 per-serving savings versus HelloFresh are real and compound meaningfully across multiple weekly deliveries — the right pick when budget is a genuine constraint."
     },
     {
       "label": "For households following keto, Mediterranean, or plant-based frameworks",
@@ -173,9 +173,9 @@
     {
       "heading": "Price per serving: what the sticker price actually means",
       "paragraphs": [
-        "Meal kit pricing is quoted per serving, but the number that shows up in a comparison table is almost always the lowest-tier plan at the highest weekly serving count — conditions most subscribers never sustain. HelloFresh quotes from around $7.49 per serving for the highest-frequency plan (five recipes for two people), but a realistic two-person household picking three recipes per week pays closer to $9.99–$10.99 per serving before shipping. Shipping typically adds $8.99 per box, which adds roughly $2.25 per serving at four servings per box or about $1.50 at six. The honest per-serving cost for a typical HelloFresh subscriber is $11–$13, not the advertised floor.",
-        "EveryPlate is the genuine budget option: per-serving costs start around $4.99 and a typical two-person, three-recipe week runs $5.99–$7.49 per serving including shipping. The savings are real and consistent — not introductory-offer math. The tradeoff is recipe variety, which is narrower than HelloFresh or Blue Apron, and ingredient sourcing, which is standard-grade rather than premium. For households where cost is the primary constraint and cooking skill is intermediate, EveryPlate delivers meaningful value per dollar.",
-        "Sunbasket sits at the premium end: $10.99–$12.99 per serving before shipping, with organic and clean-label ingredients driving the cost. The premium is real and deliberate — sourcing from certified organic farms and maintaining standards for no artificial additives, preservatives, or GMOs costs more than conventional supply chains. For households that already spend on premium groceries and want the convenience of pre-portioned meal kits without compromising ingredient standards, Sunbasket represents a defensible spend. For households primarily seeking cooking convenience at low cost, it does not."
+        "Meal kit pricing is quoted per serving, but the number that shows up in a comparison table is almost always the lowest-tier plan at the highest weekly serving count — conditions most subscribers never sustain. HelloFresh quotes from around US$7.49 per serving for the highest-frequency plan (five recipes for two people), but a realistic two-person household picking three recipes per week pays closer to US$9.99–US$10.99 per serving before shipping. Shipping typically adds US$8.99 per box, which adds roughly US$2.25 per serving at four servings per box or about US$1.50 at six. The honest per-serving cost for a typical HelloFresh subscriber is US$11–US$13, not the advertised floor.",
+        "EveryPlate is the genuine budget option: per-serving costs start around US$4.99 and a typical two-person, three-recipe week runs US$5.99–US$7.49 per serving including shipping. The savings are real and consistent — not introductory-offer math. The tradeoff is recipe variety, which is narrower than HelloFresh or Blue Apron, and ingredient sourcing, which is standard-grade rather than premium. For households where cost is the primary constraint and cooking skill is intermediate, EveryPlate delivers meaningful value per dollar.",
+        "Sunbasket sits at the premium end: US$10.99–US$12.99 per serving before shipping, with organic and clean-label ingredients driving the cost. The premium is real and deliberate — sourcing from certified organic farms and maintaining standards for no artificial additives, preservatives, or GMOs costs more than conventional supply chains. For households that already spend on premium groceries and want the convenience of pre-portioned meal kits without compromising ingredient standards, Sunbasket represents a defensible spend. For households primarily seeking cooking convenience at low cost, it does not."
       ]
     },
     {
@@ -231,7 +231,7 @@
   "faqs": [
     {
       "q": "How much does a typical meal kit delivery actually cost per week?",
-      "a": "The advertised per-serving price is almost always based on the highest-frequency plan — conditions most subscribers don't sustain. A realistic two-person, three-recipe week with HelloFresh runs $60–$75 including shipping, or $10–$12.50 per serving. EveryPlate is the exception: a comparable plan runs $40–$50 per week, or $6.50–$8.50 per serving including shipping. Green Chef and Sunbasket run $80–$100 per week for two people at three recipes, driven by organic sourcing and premium ingredients. The weekly cost that matters is what you'd actually order at your typical recipe frequency, not the floor price on the highest-volume plan."
+      "a": "The advertised per-serving price is almost always based on the highest-frequency plan — conditions most subscribers don't sustain. A realistic two-person, three-recipe week with HelloFresh runs US$60–US$75 including shipping, or US$10–US$12.50 per serving. EveryPlate is the exception: a comparable plan runs US$40–US$50 per week, or US$6.50–US$8.50 per serving including shipping. Green Chef and Sunbasket run US$80–US$100 per week for two people at three recipes, driven by organic sourcing and premium ingredients. The weekly cost that matters is what you'd actually order at your typical recipe frequency, not the floor price on the highest-volume plan."
     },
     {
       "q": "Are meal kits actually cheaper than grocery shopping?",
@@ -251,10 +251,10 @@
     }
   ],
   "offerNotes": {
-    "hellofresh-meal-kit": "Best overall for beginners — widest weekly recipe selection (30–40 options), reliable portions, and skip mechanics that work without a support call. Per-serving cost $9.99–$12.99 at typical plan frequencies. Best for households new to meal kits who want variety and account flexibility. Limitation: not cheaper than efficient grocery shopping; value is time and convenience, not cost savings.",
+    "hellofresh-meal-kit": "Best overall for beginners — widest weekly recipe selection (30–40 options), reliable portions, and skip mechanics that work without a support call. Per-serving cost US$9.99–US$12.99 at typical plan frequencies. Best for households new to meal kits who want variety and account flexibility. Limitation: not cheaper than efficient grocery shopping; value is time and convenience, not cost savings.",
     "blue-apron-meal-kit": "Best for cooking skill development — technique-forward recipes with detailed instruction cards that explain why, not just what. Consistent ingredient quality with smaller weekly menus (12–16 recipes). Best for cooks who want meal delivery to teach them something. Limitation: narrower weekly selection, less suited to households cooking on autopilot.",
     "green-chef-meal-kit": "Best organic/specialty diet option — certified organic ingredients, recipes designed around keto, Mediterranean, and plant-based frameworks from the start. Per-serving price is higher than HelloFresh but sourcing standards are verifiable. Best for households on structured dietary plans. Limitation: narrow weekly selection per dietary lane; premium price may not be worth it for households without specific dietary requirements.",
-    "everyplate-meal-kit": "Best budget meal kit — genuine per-serving savings of $3–$5 versus HelloFresh at comparable recipe frequency. Reliable recipes, clear instructions, consistent delivery. Best for cost-conscious households with solid cooking skills who don't need extensive recipe variety. Limitation: narrower menu, slightly smaller portions than competitors, less skill development or novelty in recipe design.",
+    "everyplate-meal-kit": "Best budget meal kit — genuine per-serving savings of US$3–US$5 versus HelloFresh at comparable recipe frequency. Reliable recipes, clear instructions, consistent delivery. Best for cost-conscious households with solid cooking skills who don't need extensive recipe variety. Limitation: narrower menu, slightly smaller portions than competitors, less skill development or novelty in recipe design.",
     "sunbasket-meal-kit": "Best for clean/organic ingredients — no artificial additives, preservatives, or GMOs, certified organic sourcing, and the best packaging return program of the five services. 16-week pause window for seasonal households. Best for households that prioritize ingredient standards and already spend on organic groceries. Limitation: most expensive of the five; premium over HelloFresh requires ingredient sourcing to be a genuine priority, not just a preference."
   },
   "pinDescription": "5 meal kit services compared for 2026: HelloFresh vs Blue Apron vs Green Chef vs EveryPlate vs Sunbasket. Real price per serving, packaging waste, skip flexibility — find the meal kit that actually fits how you cook."

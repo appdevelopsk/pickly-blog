@@ -16,14 +16,14 @@
       "paragraphs": [
         "Los protocolos anti-DPI pasaron de nicho a estándar. Stealth de Proton, NordWhisper de NordVPN y Lightway-Stealth de ExpressVPN burlan ya la inspección profunda usada en Irán, China y (desde la ley de noviembre 2025) Rusia. Mullvad sigue con su WireGuard sobre TCP, que funciona pero es más lento.",
         "Los planes gratuitos se volvieron utilizables. Proton VPN Free ofrece datos ilimitados en tres países, sin anuncios. Es la primera vez que un VPN gratis se puede recomendar sin asteriscos.",
-        "Los precios se complicaron. Los precios gancho bajaron (ExpressVPN $8.32/mes, Surfshark $3.99/mes) pero la renovación automática subió 15-30% en todo el sector. Listamos abajo el precio de renovación junto al de entrada."
+        "Los precios se complicaron. Los precios gancho bajaron (ExpressVPN US$8.32/mes, Surfshark US$3.99/mes) pero la renovación automática subió 15-30% en todo el sector. Listamos abajo el precio de renovación junto al de entrada."
       ]
     },
     {
       "heading": "Cuál te conviene",
       "paragraphs": [
         "Si lo tuyo es streaming, ExpressVPN desbloquea más catálogos con más fiabilidad. Netflix EE.UU., BBC iPlayer y DAZN Japan se reportan funcionando de forma constante en los seguimientos de acceso a streaming. NordVPN, segundo cercano.",
-        "Si miras el precio, Surfshark a $3.99/mes con dispositivos ilimitados gana sin discusión. La pega es la renovación: $59.76/año tras la entrada. Pon recordatorio en el calendario.",
+        "Si miras el precio, Surfshark a US$3.99/mes con dispositivos ilimitados gana sin discusión. La pega es la renovación: US$59.76/año tras la entrada. Pon recordatorio en el calendario.",
         "Mullvad si además quieres pagar en metálico.",
         "Si quieres un VPN para toda la casa — móviles, smart TVs, consolas, portátiles — Meshnet de NordVPN (ahora gratis) más 6 conexiones simultáneas es el setup más cómodo."
       ]
@@ -65,7 +65,7 @@
   "offerNotes": {
     "nordvpn": "El más equilibrado — elige este si quieres una VPN y olvidarte.",
     "expressvpn": "Mejor para streaming — Netflix EE.UU., BBC iPlayer y DAZN se reportan desbloqueados de forma constante.",
-    "surfshark": "Mejor relación precio-funciones — $3.99/mes y dispositivos ilimitados. Vigila la renovación.",
+    "surfshark": "Mejor relación precio-funciones — US$3.99/mes y dispositivos ilimitados. Vigila la renovación.",
     "protonvpn": "Mejor para privacidad y censura — Stealth supera la DPI en China, Irán y Rusia.",
     "mullvad": "Mejor para los más privados — €5/mes plano, acepta efectivo y Monero, sin trucos de marketing."
   },
@@ -92,8 +92,8 @@
         "Protocol": "NordWhisper / WireGuard",
         "Jurisdiction": "Panama",
         "Audit": "Deloitte 2024",
-        "Price (intro)": "$3.99/mo",
-        "Price (renewal)": "$4.79/mo"
+        "Price (intro)": "US$3.99/mo",
+        "Price (renewal)": "US$4.79/mo"
       },
       "scores": {
         "Velocidad": 4.7,
@@ -106,14 +106,14 @@
     {
       "offerId": "expressvpn",
       "badge": "Mejor para streaming",
-      "review": "El protocolo Lightway está de forma constante entre los más rápidos en pruebas de laboratorio independientes —velocidades sostenidas de la clase de 800 Mbps en líneas de gigabit— y los seguimientos de acceso a streaming lo reportan desbloqueando Netflix US, BBC iPlayer y DAZN Japan con fiabilidad día tras día. Con $8,32/mes en renovación es el más caro.",
+      "review": "El protocolo Lightway está de forma constante entre los más rápidos en pruebas de laboratorio independientes —velocidades sostenidas de la clase de 800 Mbps en líneas de gigabit— y los seguimientos de acceso a streaming lo reportan desbloqueando Netflix US, BBC iPlayer y DAZN Japan con fiabilidad día tras día. Con US$8,32/mes en renovación es el más caro.",
       "pros": [
         "Velocidades sostenidas más rápidas en pruebas de laboratorio independientes",
         "Desbloquea todos los catálogos de streaming principales a diario",
         "Lightway-Stealth derrota el DPI"
       ],
       "cons": [
-        "La renovación más cara a $8,32/mes"
+        "La renovación más cara a US$8,32/mes"
       ],
       "grade": "A",
       "specs": {
@@ -123,8 +123,8 @@
         "Protocol": "Lightway / Lightway-Stealth",
         "Jurisdiction": "British Virgin Islands",
         "Audit": "Cure53 2024",
-        "Price (intro)": "$6.67/mo",
-        "Price (renewal)": "$8.32/mo"
+        "Price (intro)": "US$6.67/mo",
+        "Price (renewal)": "US$8.32/mo"
       },
       "scores": {
         "Velocidad": 5,
@@ -137,14 +137,14 @@
     {
       "offerId": "surfshark",
       "badge": "Mejor relación calidad-precio",
-      "review": "Dispositivos ilimitados y $3,99/mes de introducción hacen de Surfshark imbatible en precio. CleanWeb bloquea la mayoría del malware antes de descargarlo. Ojo: la renovación sube a $59,76/año.",
+      "review": "Dispositivos ilimitados y US$3,99/mes de introducción hacen de Surfshark imbatible en precio. CleanWeb bloquea la mayoría del malware antes de descargarlo. Ojo: la renovación sube a US$59,76/año.",
       "pros": [
         "Dispositivos ilimitados en una cuenta",
         "Bloqueador de malware CleanWeb incluido",
         "Precio de introducción más bajo de la comparación"
       ],
       "cons": [
-        "La renovación automática sube a ~$59,76/año"
+        "La renovación automática sube a ~US$59,76/año"
       ],
       "grade": "B+",
       "specs": {
@@ -154,8 +154,8 @@
         "Protocol": "WireGuard / Shadowsocks",
         "Jurisdiction": "Netherlands",
         "Audit": "Cure53 2023",
-        "Price (intro)": "$3.99/mo",
-        "Price (renewal)": "$4.98/mo"
+        "Price (intro)": "US$3.99/mo",
+        "Price (renewal)": "US$4.98/mo"
       },
       "scores": {
         "Velocidad": 4.4,
@@ -185,8 +185,8 @@
         "Protocol": "Stealth / WireGuard",
         "Jurisdiction": "Switzerland",
         "Audit": "SEC Consult 2023",
-        "Price (intro)": "$3.59/mo",
-        "Price (renewal)": "$5.99/mo"
+        "Price (intro)": "US$3.59/mo",
+        "Price (renewal)": "US$5.99/mo"
       },
       "scores": {
         "Velocidad": 4.2,
@@ -243,7 +243,7 @@
     {
       "label": "Para usuarios con presupuesto ajustado",
       "offerId": "surfshark",
-      "reason": "Dispositivos ilimitados a $3,99/mes intro — el único VPN aquí donde nunca pagas por dispositivo."
+      "reason": "Dispositivos ilimitados a US$3,99/mes intro — el único VPN aquí donde nunca pagas por dispositivo."
     },
     {
       "label": "Para usuarios en regiones censuradas",

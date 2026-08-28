@@ -16,7 +16,7 @@
       "heading": "AIミーティング要約",
       "paragraphs": [
         "AI要約精度（人間レビュアー対比）：Zoom AI Companion 8.8/10、Google MeetのGemini 8.5/10、Microsoft Copilot 8.2/10（Copilotライセンス必要）、Webex AI 8.0/10、Loom AI 9.0/10（非同期動画最良）。",
-        "AI機能コスト：Zoom AI CompanionはBusiness+込み、Google MeetのGeminiはGoogle Workspace AIアドオン必要（$30/ユーザー/月）、Microsoft Copilotは$30/ユーザー/月別途、Webex AIは込み。",
+        "AI機能コスト：Zoom AI CompanionはBusiness+込み、Google MeetのGeminiはGoogle Workspace AIアドオン必要（US$30/ユーザー/月）、Microsoft CopilotはUS$30/ユーザー/月別途、Webex AIは込み。",
         "リアルタイムキャプション：5社すべてサポート。精度：ZoomとGoogle Meetが最良。"
       ]
     },
@@ -59,13 +59,13 @@
         "AI Companion込み"
       ],
       "cons": [
-        "Business $20/ホスト/月は高価",
+        "Business US$20/ホスト/月は高価",
         "Google Meet／Teamsのエコシステム内ほど統合されていない"
       ]
     },
     "google-meet-workspace": {
       "badge": "🪪 Google Workspace最有力",
-      "review": "Google Meet（Workspace）はGoogle Workspaceユーザー向け正解。Workspaceに月$6/ユーザーからバンドル。カレンダー統合はシームレス、録画はDriveに自動保存。Gemini AI要約強い。",
+      "review": "Google Meet（Workspace）はGoogle Workspaceユーザー向け正解。Workspaceに月US$6/ユーザーからバンドル。カレンダー統合はシームレス、録画はDriveに自動保存。Gemini AI要約強い。",
       "pros": [
         "Workspaceとバンドル",
         "カレンダー／Gmail／Drive統合",
@@ -78,7 +78,7 @@
     },
     "microsoft-teams-business": {
       "badge": "🏢 Microsoft 365最有力",
-      "review": "Microsoft Teams（Business）はMicrosoft 365ユーザー向け正解。Microsoft 365 Businessに月$6/ユーザーからバンドル。Outlook統合シームレス、SharePoint＋OneDrive組込。Copilot AIアドオン$30/ユーザー/月。",
+      "review": "Microsoft Teams（Business）はMicrosoft 365ユーザー向け正解。Microsoft 365 Businessに月US$6/ユーザーからバンドル。Outlook統合シームレス、SharePoint＋OneDrive組込。Copilot AIアドオンUS$30/ユーザー/月。",
       "pros": [
         "Microsoft 365とバンドル",
         "Outlook＋SharePoint統合",
@@ -112,16 +112,16 @@
       ],
       "cons": [
         "ライブミーティング向きではない",
-        "Business $12.50/ユーザー/月"
+        "Business US$12.50/ユーザー/月"
       ]
     }
   },
   "offerNotes": {
-    "zoom-business-pro": "zoom.usでサインアップ — Businessプランは$20/ホスト/月。",
-    "google-meet-workspace": "workspace.google.comでサインアップ — Workspaceに月$6/ユーザーからバンドル。",
-    "microsoft-teams-business": "microsoft.com/microsoft-teamsでサインアップ — Microsoft 365 Businessに月$6/ユーザーからバンドル。",
+    "zoom-business-pro": "zoom.usでサインアップ — BusinessプランはUS$20/ホスト/月。",
+    "google-meet-workspace": "workspace.google.comでサインアップ — Workspaceに月US$6/ユーザーからバンドル。",
+    "microsoft-teams-business": "microsoft.com/microsoft-teamsでサインアップ — Microsoft 365 Businessに月US$6/ユーザーからバンドル。",
     "webex-meet-pro": "webex.comでサインアップ — エンタープライズセキュリティニーズに最適。",
-    "loom-business": "loom.comでサインアップ — Businessプランは$12.50/ユーザー/月。"
+    "loom-business": "loom.comでサインアップ — BusinessプランはUS$12.50/ユーザー/月。"
   },
   "pinDescription": "ビデオ会議 2026年比較：Zoom × Google Meet × Teams × Webex × Loomを200ミーティングでテスト、動画品質＋AI要約。"
 }

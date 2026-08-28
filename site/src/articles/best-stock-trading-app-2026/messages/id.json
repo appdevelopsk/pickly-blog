@@ -8,7 +8,7 @@
       "heading": "PFOF dan biaya tersembunyi",
       "paragraphs": [
         "Payment for order flow (PFOF) berarti broker Anda dibayar untuk meneruskan order Anda ke market maker (Citadel, Virtu), bukan langsung ke bursa. Market maker bisa mengeksekusi sedikit lebih buruk daripada National Best Bid/Offer — di situlah biaya tersembunyinya.",
-        "Fidelity dan Schwab TIDAK menerima PFOF untuk saham. Robinhood, Webull, dan E*TRADE menerimanya. Audit 50 transaksi yang kami lakukan menunjukkan Fidelity rata-rata memberi perbaikan harga $0,018 per lembar; Robinhood hanya $0,003. Untuk 1.000 lembar, selisihnya $15 berbanding $3."
+        "Fidelity dan Schwab TIDAK menerima PFOF untuk saham. Robinhood, Webull, dan E*TRADE menerimanya. Audit 50 transaksi yang kami lakukan menunjukkan Fidelity rata-rata memberi perbaikan harga US$0,018 per lembar; Robinhood hanya US$0,003. Untuk 1.000 lembar, selisihnya US$15 berbanding US$3."
       ]
     },
     {
@@ -22,7 +22,7 @@
   "faqs": [
     {
       "q": "Apakah PFOF benar-benar masalah bagi saya?",
-      "a": "Pada transaksi kecil (di bawah 100 lembar), nilai rupiahnya tidak seberapa. Pada transaksi 1.000 lembar ke atas, biaya tersembunyi $10–15 per transaksi cepat menumpuk. Jika Anda bertransaksi dalam volume besar, pilih Fidelity atau Schwab."
+      "a": "Pada transaksi kecil (di bawah 100 lembar), nilai rupiahnya tidak seberapa. Pada transaksi 1.000 lembar ke atas, biaya tersembunyi US$10–15 per transaksi cepat menumpuk. Jika Anda bertransaksi dalam volume besar, pilih Fidelity atau Schwab."
     },
     {
       "q": "Bisakah saya punya akun di beberapa broker sekaligus?",
@@ -30,13 +30,13 @@
     },
     {
       "q": "Apakah aplikasi-aplikasi ini aman?",
-      "a": "Kelimanya dijamin SIPC hingga $500 ribu. Robinhood dan Webull juga menyediakan asuransi tambahan lewat Lloyd's. Dana tunai yang disimpan di sweep account dijamin FDIC secara terpisah."
+      "a": "Kelimanya dijamin SIPC hingga US$500 ribu. Robinhood dan Webull juga menyediakan asuransi tambahan lewat Lloyd's. Dana tunai yang disimpan di sweep account dijamin FDIC secara terpisah."
     }
   ],
   "products": {
     "fidelity-mobile": {
       "badge": "🏆 Terbaik secara keseluruhan",
-      "review": "Fidelity Mobile adalah aplikasi broker terbaik untuk investor serius. Komisi $0, saham pecahan (minimum 1 sen), tanpa PFOF untuk saham, dan dukungan telepon 24/7. Aplikasinya lebih mengutamakan fungsi ketimbang tampilan — pengguna Fidelity memang lebih memilih data daripada desain.",
+      "review": "Fidelity Mobile adalah aplikasi broker terbaik untuk investor serius. Komisi US$0, saham pecahan (minimum 1 sen), tanpa PFOF untuk saham, dan dukungan telepon 24/7. Aplikasinya lebih mengutamakan fungsi ketimbang tampilan — pengguna Fidelity memang lebih memilih data daripada desain.",
       "pros": [
         "Tanpa PFOF — kualitas eksekusi terbaik",
         "Saham pecahan mulai dari 1 sen"
@@ -47,7 +47,7 @@
     },
     "charles-schwab-mobile": {
       "badge": "🥈 Terbaik untuk integrasi perbankan",
-      "review": "Charles Schwab Mobile setara dengan Fidelity, tetapi dengan sisi perbankan yang lebih kuat. Komisi $0, tanpa PFOF untuk saham, dan Schwab Stock Slices untuk saham pecahan. Paling cocok jika Anda ingin seluruh dana (rekening giro, investasi, dana pensiun) berada di satu lembaga dan satu aplikasi.",
+      "review": "Charles Schwab Mobile setara dengan Fidelity, tetapi dengan sisi perbankan yang lebih kuat. Komisi US$0, tanpa PFOF untuk saham, dan Schwab Stock Slices untuk saham pecahan. Paling cocok jika Anda ingin seluruh dana (rekening giro, investasi, dana pensiun) berada di satu lembaga dan satu aplikasi.",
       "pros": [
         "Tanpa PFOF untuk saham",
         "Perbankan dan investasi terintegrasi"
@@ -58,7 +58,7 @@
     },
     "robinhood-app": {
       "badge": "📱 Antarmuka terbaik",
-      "review": "Robinhood punya antarmuka paling sederhana di kelasnya — aplikasi yang mempopulerkan konsep 'investasi dalam 60 detik'. Komisi $0, saham pecahan, dan kripto 24/7. Robinhood Gold ($5/bulan) menambahkan margin dan pencocokan dana IRA. Paling cocok untuk investor pemula yang mungkin tak akan pernah mulai kalau prosesnya rumit.",
+      "review": "Robinhood punya antarmuka paling sederhana di kelasnya — aplikasi yang mempopulerkan konsep 'investasi dalam 60 detik'. Komisi US$0, saham pecahan, dan kripto 24/7. Robinhood Gold (US$5/bulan) menambahkan margin dan pencocokan dana IRA. Paling cocok untuk investor pemula yang mungkin tak akan pernah mulai kalau prosesnya rumit.",
       "pros": [
         "Antarmuka paling sederhana untuk pemula",
         "Perdagangan kripto 24/7"
@@ -69,7 +69,7 @@
     },
     "webull-app": {
       "badge": "📊 Charting terbaik",
-      "review": "Webull adalah aplikasi para trader di antara broker gratis. Charting tingkat lanjut (dengan indikator yang benar-benar dipakai trader serius), mode paper trading, dan data Level 2 gratis. Komisi $0. Paling cocok untuk trader aktif yang ingin perangkat profesional tanpa harus membayar E*TRADE Pro.",
+      "review": "Webull adalah aplikasi para trader di antara broker gratis. Charting tingkat lanjut (dengan indikator yang benar-benar dipakai trader serius), mode paper trading, dan data Level 2 gratis. Komisi US$0. Paling cocok untuk trader aktif yang ingin perangkat profesional tanpa harus membayar E*TRADE Pro.",
       "pros": [
         "Charting dan indikator setara perangkat profesional",
         "Mode paper trading untuk latihan"
@@ -80,7 +80,7 @@
     },
     "etrade-mobile": {
       "badge": "⚙️ Terbaik untuk opsi",
-      "review": "E*TRADE Mobile (kini bagian dari Morgan Stanley) adalah aplikasi perdagangan opsi arus utama terbaik. Power E*TRADE menyediakan analitik opsi yang serius. Komisi $0 untuk saham dan ETF. Paling cocok jika Anda ingin perangkat opsi tanpa kerumitan platform khusus profesional seperti TastyTrade atau thinkorswim.",
+      "review": "E*TRADE Mobile (kini bagian dari Morgan Stanley) adalah aplikasi perdagangan opsi arus utama terbaik. Power E*TRADE menyediakan analitik opsi yang serius. Komisi US$0 untuk saham dan ETF. Paling cocok jika Anda ingin perangkat opsi tanpa kerumitan platform khusus profesional seperti TastyTrade atau thinkorswim.",
       "pros": [
         "Analitik opsi Power E*TRADE",
         "Akses riset Morgan Stanley"
@@ -102,7 +102,7 @@
     {
       "label": "Investor jangka panjang yang bertransaksi 1.000 lembar ke atas",
       "offerId": "fidelity-mobile",
-      "reason": "Tanpa PFOF, perbaikan harga rata-rata mencapai $0,018 per lembar — hemat $15 per transaksi 1.000 lembar, dibanding $3 di Robinhood."
+      "reason": "Tanpa PFOF, perbaikan harga rata-rata mencapai US$0,018 per lembar — hemat US$15 per transaksi 1.000 lembar, dibanding US$3 di Robinhood."
     },
     {
       "label": "Investor yang ingin perbankan dan investasi dalam satu tempat",

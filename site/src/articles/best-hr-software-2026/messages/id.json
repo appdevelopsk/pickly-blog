@@ -22,8 +22,8 @@
     {
       "heading": "Total biaya bulanan",
       "paragraphs": [
-        "Biaya bulanan untuk 75 karyawan (paket berorientasi HR): BambooHR Essentials $99 + biaya per karyawan (total $475), Gusto Plus $60 + $12 × 75 = $960, Rippling $8 × 75 = $600 (modular, naik seiring fitur yang dipakai), Workday HCM sekitar $1.500–2.250 (berbasis penawaran, $20–30/karyawan), Deel $49/karyawan untuk payroll global dan $19/karyawan untuk AS.",
-        "Biaya tersembunyi: Workday memerlukan mitra implementasi ($30 ribu–100 ribu di awal). Rippling menagih per modul (HR, payroll, IT, dan finance terpisah). Biaya per karyawan BambooHR terasa berat begitu jumlah karyawan melewati 100 orang."
+        "Biaya bulanan untuk 75 karyawan (paket berorientasi HR): BambooHR Essentials US$99 + biaya per karyawan (total US$475), Gusto Plus US$60 + US$12 × 75 = US$960, Rippling US$8 × 75 = US$600 (modular, naik seiring fitur yang dipakai), Workday HCM sekitar US$1.500–2.250 (berbasis penawaran, US$20–30/karyawan), Deel US$49/karyawan untuk payroll global dan US$19/karyawan untuk AS.",
+        "Biaya tersembunyi: Workday memerlukan mitra implementasi (US$30 ribu–100 ribu di awal). Rippling menagih per modul (HR, payroll, IT, dan finance terpisah). Biaya per karyawan BambooHR terasa berat begitu jumlah karyawan melewati 100 orang."
       ]
     }
   ],
@@ -42,13 +42,13 @@
     },
     {
       "q": "Workday — kapan pilihan ini masuk akal?",
-      "a": "Workday HCM ditujukan untuk skala enterprise (500+ karyawan, biaya implementasi $30 ribu ke atas). Bagi mayoritas UKM, BambooHR atau Rippling adalah pilihan yang lebih tepat. Kompleksitas Workday baru sepadan pada skala besar."
+      "a": "Workday HCM ditujukan untuk skala enterprise (500+ karyawan, biaya implementasi US$30 ribu ke atas). Bagi mayoritas UKM, BambooHR atau Rippling adalah pilihan yang lebih tepat. Kompleksitas Workday baru sepadan pada skala besar."
     }
   ],
   "products": {
     "bamboohr-essentials": {
       "badge": "🏆 Terbaik untuk UKM",
-      "review": "BambooHR Essentials adalah pilihan tepat untuk UKM di bawah 200 karyawan yang berfokus pada HR. UX terbaik di kelasnya, layanan mandiri karyawan unggul, aplikasi mobile solid. Harga $99/bulan plus biaya per karyawan memang membengkak seiring pertumbuhan, tetapi waktu onboarding yang dihemat per karyawan benar-benar terasa.",
+      "review": "BambooHR Essentials adalah pilihan tepat untuk UKM di bawah 200 karyawan yang berfokus pada HR. UX terbaik di kelasnya, layanan mandiri karyawan unggul, aplikasi mobile solid. Harga US$99/bulan plus biaya per karyawan memang membengkak seiring pertumbuhan, tetapi waktu onboarding yang dihemat per karyawan benar-benar terasa.",
       "pros": [
         "UX terbaik di kelasnya",
         "Layanan mandiri karyawan terbaik",
@@ -87,7 +87,7 @@
     },
     "workday-hcm": {
       "badge": "🏢 HCM enterprise terbaik",
-      "review": "Workday HCM adalah pilihan tepat untuk perusahaan dengan 500+ karyawan. Kedalaman fitur kelas enterprise (perencanaan suksesi, manajemen pembelajaran, analitik lanjutan). Implementasinya membutuhkan mitra ($30 ribu–100 ribu). Berlebihan untuk UKM.",
+      "review": "Workday HCM adalah pilihan tepat untuk perusahaan dengan 500+ karyawan. Kedalaman fitur kelas enterprise (perencanaan suksesi, manajemen pembelajaran, analitik lanjutan). Implementasinya membutuhkan mitra (US$30 ribu–100 ribu). Berlebihan untuk UKM.",
       "pros": [
         "Kedalaman fitur kelas enterprise",
         "Analitik dan pelaporan yang kuat",
@@ -95,7 +95,7 @@
       ],
       "cons": [
         "Kompleksitas kelas enterprise",
-        "Implementasi $30 ribu–100 ribu",
+        "Implementasi US$30 ribu–100 ribu",
         "Harga berbasis penawaran"
       ]
     },
@@ -140,7 +140,7 @@
     {
       "label": "Pimpinan HR di perusahaan dengan 500 karyawan atau lebih",
       "offerId": "workday-hcm",
-      "reason": "Perencanaan suksesi, manajemen pembelajaran, dan analitik lanjutan Workday baru sepadan dengan biaya implementasi $30 ribu ke atas pada skala enterprise sesungguhnya."
+      "reason": "Perencanaan suksesi, manajemen pembelajaran, dan analitik lanjutan Workday baru sepadan dengan biaya implementasi US$30 ribu ke atas pada skala enterprise sesungguhnya."
     },
     {
       "label": "Founder remote-first yang merekrut kontraktor di berbagai negara",

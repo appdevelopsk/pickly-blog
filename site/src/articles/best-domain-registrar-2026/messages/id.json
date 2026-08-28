@@ -7,15 +7,15 @@
     {
       "heading": "Harga sebenarnya (perpanjangan, bukan harga promo)",
       "paragraphs": [
-        "Perpanjangan .com di tahun kedua: Porkbun $10,37, Cloudflare $9,77 (harga modal), Namecheap $14,98, GoDaddy $24,99, Squarespace Domains $20.",
+        "Perpanjangan .com di tahun kedua: Porkbun US$10,37, Cloudflare US$9,77 (harga modal), Namecheap US$14,98, GoDaddy US$24,99, Squarespace Domains US$20.",
         "Cloudflare unggul dari sisi harga absolut — dijual sesuai biaya registry tanpa margin sama sekali. Catatannya: tujuan mereka adalah mengikat Anda ke DNS/proxy Cloudflare. Porkbun adalah yang termurah di antara registrar yang tetap mengambil margin.",
-        "Harga perpanjangan GoDaddy (2,4 kali lipat Porkbun) adalah pola klasik: promo murah di awal, mahal saat perpanjangan. Banyak orang bertahan karena malas pindah, dan membayar lebih dari $15 ekstra per domain setiap tahun."
+        "Harga perpanjangan GoDaddy (2,4 kali lipat Porkbun) adalah pola klasik: promo murah di awal, mahal saat perpanjangan. Banyak orang bertahan karena malas pindah, dan membayar lebih dari US$15 ekstra per domain setiap tahun."
       ]
     },
     {
       "heading": "Privasi WHOIS",
       "paragraphs": [
-        "Privasi WHOIS gratis: Porkbun, Namecheap, Cloudflare, Squarespace Domains. Berbayar di GoDaddy: $9,99 per tahun.",
+        "Privasi WHOIS gratis: Porkbun, Namecheap, Cloudflare, Squarespace Domains. Berbayar di GoDaddy: US$9,99 per tahun.",
         "Privasi WHOIS menyembunyikan nama, alamat, email, dan nomor telepon Anda dari catatan publik. Tanpa itu, data kontak Anda bisa dicari siapa saja dan berujung pada banjir spam.",
         "GoDaddy yang masih menarik biaya untuk privasi WHOIS sudah ketinggalan zaman — mayoritas registrar modern menyediakannya gratis sebagai standar minimum."
       ]
@@ -24,7 +24,7 @@
       "heading": "Upsell saat checkout",
       "paragraphs": [
         "Jumlah upsell di halaman checkout (dihitung dari klik untuk menolak): Porkbun 0, Cloudflare 0, Namecheap 2, GoDaddy 8 atau lebih (privasi, email, keamanan, email bisnis, web hosting, site builder, SSL, M365), Squarespace Domains 1.",
-        "Checkout GoDaddy adalah yang paling agresif — tanpa sadar Anda bisa menambahkan lebih dari $50 layanan yang sebenarnya tidak dibutuhkan. Porkbun dan Cloudflare menjaga proses checkout tetap bersih."
+        "Checkout GoDaddy adalah yang paling agresif — tanpa sadar Anda bisa menambahkan lebih dari US$50 layanan yang sebenarnya tidak dibutuhkan. Porkbun dan Cloudflare menjaga proses checkout tetap bersih."
       ]
     }
   ],
@@ -35,7 +35,7 @@
     },
     {
       "q": "Apakah saya perlu memindahkan domain dari GoDaddy?",
-      "a": "Ya. Hematnya lebih dari $15 per domain per tahun. Proses transfer cukup mudah (minimal 60 hari sejak tindakan terakhir pada domain). Biaya transfer umumnya ditanggung registrar tujuan."
+      "a": "Ya. Hematnya lebih dari US$15 per domain per tahun. Proses transfer cukup mudah (minimal 60 hari sejak tindakan terakhir pada domain). Biaya transfer umumnya ditanggung registrar tujuan."
     },
     {
       "q": "Apakah .com masih TLD terbaik?",
@@ -49,7 +49,7 @@
   "products": {
     "porkbun-registrar": {
       "badge": "🏆 Nilai terbaik",
-      "review": "Porkbun adalah pilihan tepat untuk harga murah yang berkelanjutan. Perpanjangan .com $10,37, privasi WHOIS gratis, SSL gratis jika dipaketkan dengan hosting, dan tanpa upsell saat checkout. Rekomendasi default untuk domain baru di 2026.",
+      "review": "Porkbun adalah pilihan tepat untuk harga murah yang berkelanjutan. Perpanjangan .com US$10,37, privasi WHOIS gratis, SSL gratis jika dipaketkan dengan hosting, dan tanpa upsell saat checkout. Rekomendasi default untuk domain baru di 2026.",
       "pros": [
         "Harga termurah yang berkelanjutan",
         "Privasi WHOIS gratis",
@@ -62,7 +62,7 @@
     },
     "namecheap-registrar": {
       "badge": "🎯 Pilihan mainstream terbaik",
-      "review": "Namecheap adalah pilihan tepat untuk harga mainstream yang sudah mapan. Perpanjangan .com $14,98, privasi WHOIS gratis selamanya, harga transparan. Pengelolaan DNS-nya kuat. Terpercaya sejak tahun 2000.",
+      "review": "Namecheap adalah pilihan tepat untuk harga mainstream yang sudah mapan. Perpanjangan .com US$14,98, privasi WHOIS gratis selamanya, harga transparan. Pengelolaan DNS-nya kuat. Terpercaya sejak tahun 2000.",
       "pros": [
         "Privasi WHOIS gratis selamanya",
         "Harga transparan",
@@ -75,7 +75,7 @@
     },
     "cloudflare-registrar": {
       "badge": "💰 Harga modal terbaik",
-      "review": "Cloudflare Registrar adalah pilihan tepat untuk harga sesuai biaya modal, khususnya jika Anda memakai DNS Cloudflare. Perpanjangan .com $9,77 (biaya registry), privasi WHOIS gratis, tanpa markup. Domain wajib memakai DNS Cloudflare, dan tidak tersedia email forwarding di tingkat registrar.",
+      "review": "Cloudflare Registrar adalah pilihan tepat untuk harga sesuai biaya modal, khususnya jika Anda memakai DNS Cloudflare. Perpanjangan .com US$9,77 (biaya registry), privasi WHOIS gratis, tanpa markup. Domain wajib memakai DNS Cloudflare, dan tidak tersedia email forwarding di tingkat registrar.",
       "pros": [
         "Harga sesuai biaya modal (termurah)",
         "Sama sekali tanpa upsell",
@@ -88,7 +88,7 @@
     },
     "godaddy-registrar": {
       "badge": "🚫 Sebaiknya dihindari",
-      "review": "GoDaddy adalah registrar yang sebaiknya dihindari di 2026. Perpanjangan .com $24,99 (2,4 kali lipat Porkbun), privasi WHOIS $9,99 per tahun, dan 8 upsell atau lebih saat checkout. Harga warisan masa lalu tanpa keuntungan yang sepadan. Pindahkan saja domain Anda.",
+      "review": "GoDaddy adalah registrar yang sebaiknya dihindari di 2026. Perpanjangan .com US$24,99 (2,4 kali lipat Porkbun), privasi WHOIS US$9,99 per tahun, dan 8 upsell atau lebih saat checkout. Harga warisan masa lalu tanpa keuntungan yang sepadan. Pindahkan saja domain Anda.",
       "pros": [
         "Nama merek yang sudah dikenal luas"
       ],
@@ -100,7 +100,7 @@
     },
     "google-domains-squarespace": {
       "badge": "🪜 Alternatif Google terbaik",
-      "review": "Squarespace Domains (sebelumnya Google Domains) mewarisi kesederhanaan Google Domains. Squarespace mengakuisisinya pada 2023. Perpanjangan .com $20, privasi WHOIS gratis, antarmuka yang rapi.",
+      "review": "Squarespace Domains (sebelumnya Google Domains) mewarisi kesederhanaan Google Domains. Squarespace mengakuisisinya pada 2023. Perpanjangan .com US$20, privasi WHOIS gratis, antarmuka yang rapi.",
       "pros": [
         "Mewarisi antarmuka Google Domains",
         "Privasi WHOIS gratis",
@@ -124,7 +124,7 @@
     {
       "label": "Indie maker dan solo founder yang mendaftarkan domain pertamanya",
       "offerId": "porkbun-registrar",
-      "reason": "Perpanjangan $10,37 dari Porkbun, tanpa upsell dan dengan privasi WHOIS gratis, menjaga biaya tetap jujur sejak hari pertama."
+      "reason": "Perpanjangan US$10,37 dari Porkbun, tanpa upsell dan dengan privasi WHOIS gratis, menjaga biaya tetap jujur sejak hari pertama."
     },
     {
       "label": "Pemilik usaha kecil yang menginginkan registrar mapan dan tepercaya",
@@ -134,7 +134,7 @@
     {
       "label": "Developer yang situsnya sudah berjalan di balik proxy Cloudflare",
       "offerId": "cloudflare-registrar",
-      "reason": "Perpanjangan seharga modal $9,77 terintegrasi mulus jika zona DNS Anda sudah dikelola Cloudflare."
+      "reason": "Perpanjangan seharga modal US$9,77 terintegrasi mulus jika zona DNS Anda sudah dikelola Cloudflare."
     },
     {
       "label": "Mantan pengguna Google Domains yang mencari antarmuka rapi dan familier",
@@ -144,7 +144,7 @@
     {
       "label": "Pengguna GoDaddy yang siap memangkas separuh tagihan perpanjangannya",
       "offerId": "godaddy-registrar",
-      "reason": "Perpanjangan $24,99 dan privasi WHOIS berbayar di GoDaddy adalah alasan paling jelas untuk pindah dan menghemat lebih dari $15 per domain setiap tahun."
+      "reason": "Perpanjangan US$24,99 dan privasi WHOIS berbayar di GoDaddy adalah alasan paling jelas untuk pindah dan menghemat lebih dari US$15 per domain setiap tahun."
     }
   ]
 }

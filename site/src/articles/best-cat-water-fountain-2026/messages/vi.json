@@ -27,7 +27,7 @@
         "Tốt nhất tổng thể: PETLIBRO Dockstream. Pin hoặc AC, lọc kép, cực kỳ yên tĩnh.",
         "Tốt nhất cho nhà nhiều mèo: PetSafe Drinkwell 360. Dung tích 128 oz.",
         "Nhựa phổ biến tốt nhất: Catit Flower. Lựa chọn phổ biến giá phải chăng nhất.",
-        "Thép không gỉ tốt nhất dưới $50: Veken. Thép không gỉ nguyên chất, 3 chế độ dòng chảy.",
+        "Thép không gỉ tốt nhất dưới US$50: Veken. Thép không gỉ nguyên chất, 3 chế độ dòng chảy.",
         "Dễ vệ sinh nhất: Pioneer Pet Raindrop. Thiết kế đĩa đơn giản."
       ]
     }
@@ -79,9 +79,9 @@
     },
     "catit-flower-fountain": {
       "badge": "💸 Nhựa phổ biến tốt nhất",
-      "review": "Catit Flower Fountain là máy lọc nhựa phổ biến giá phải chăng. Bề mặt hình hoa thu hút mèo, dung tích 100 oz, lọc ba lớp. Giá phải chăng nhất ở mức $35-45. Máy bơm khá ồn (45 dB).",
+      "review": "Catit Flower Fountain là máy lọc nhựa phổ biến giá phải chăng. Bề mặt hình hoa thu hút mèo, dung tích 100 oz, lọc ba lớp. Giá phải chăng nhất ở mức US$35-45. Máy bơm khá ồn (45 dB).",
       "pros": [
-        "$35-45 giá phải chăng nhất",
+        "US$35-45 giá phải chăng nhất",
         "Bề mặt hình hoa thu hút mèo",
         "Dung tích 100 oz"
       ],
@@ -91,11 +91,11 @@
       ]
     },
     "veken-stainless-steel-fountain": {
-      "badge": "🪙 Thép không gỉ tốt nhất dưới $50",
-      "review": "Veken 95 oz Stainless Steel là lựa chọn thép không gỉ đúng đắn dưới $50. Thép không gỉ nguyên chất (không có nhựa tiếp xúc với nước), 3 chế độ dòng chảy, bộ lọc có thể thay thế. Độ ồn máy bơm 40 dB.",
+      "badge": "🪙 Thép không gỉ tốt nhất dưới US$50",
+      "review": "Veken 95 oz Stainless Steel là lựa chọn thép không gỉ đúng đắn dưới US$50. Thép không gỉ nguyên chất (không có nhựa tiếp xúc với nước), 3 chế độ dòng chảy, bộ lọc có thể thay thế. Độ ồn máy bơm 40 dB.",
       "pros": [
         "Cấu tạo thép không gỉ nguyên chất",
-        "Giá trị tốt ở mức $40-55",
+        "Giá trị tốt ở mức US$40-55",
         "3 chế độ dòng chảy"
       ],
       "cons": [
@@ -139,12 +139,12 @@
     {
       "label": "Người mới nuôi mèo với ngân sách hạn hẹp",
       "offerId": "catit-flower-fountain",
-      "reason": "Ở mức $35-45 đây là điểm khởi đầu giá phải chăng nhất, và bề mặt hình hoa giúp những chú mèo lười uống nước tương tác với nước chuyển động."
+      "reason": "Ở mức US$35-45 đây là điểm khởi đầu giá phải chăng nhất, và bề mặt hình hoa giúp những chú mèo lười uống nước tương tác với nước chuyển động."
     },
     {
       "label": "Chủ mèo lo ngại về vị nhựa và vệ sinh",
       "offerId": "veken-stainless-steel-fountain",
-      "reason": "Thép không gỉ nguyên chất không có nhựa tiếp xúc với nước chống lại màng sinh học và hấp thụ mùi, ở mức giá hợp lý dưới $50."
+      "reason": "Thép không gỉ nguyên chất không có nhựa tiếp xúc với nước chống lại màng sinh học và hấp thụ mùi, ở mức giá hợp lý dưới US$50."
     },
     {
       "label": "Chủ một mèo bận rộn ghét việc cọ rửa thiết bị",

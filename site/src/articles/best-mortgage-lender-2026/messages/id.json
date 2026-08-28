@@ -8,11 +8,11 @@
       "heading": "Perbandingan suku bunga dan biaya pemberi pinjaman",
       "paragraphs": [
         "Suku bunga antarpemberi pinjaman hanya berbeda sekitar 0,125% untuk profil peminjam yang sama — perbedaan yang benar-benar terasa justru ada pada biayanya.",
-        "Better Mortgage: tanpa biaya pemberi pinjaman (sesuai klaim resmi). Menghemat $1.000-$3.000 saat penutupan akad.",
-        "Rocket Mortgage: biaya provisi sekitar $1.200. Sudah termasuk jaminan penguncian suku bunga.",
-        "Ally Bank: biaya provisi $0 untuk produk tertentu, selebihnya sekitar $1.000.",
-        "Chase: biaya provisi $1.000-$1.800. Ada diskon relasi bagi nasabah Chase yang sudah ada.",
-        "Navy Federal: biaya provisi $0 untuk pinjaman VA. Fokus pada kalangan militer dan veteran."
+        "Better Mortgage: tanpa biaya pemberi pinjaman (sesuai klaim resmi). Menghemat US$1.000-US$3.000 saat penutupan akad.",
+        "Rocket Mortgage: biaya provisi sekitar US$1.200. Sudah termasuk jaminan penguncian suku bunga.",
+        "Ally Bank: biaya provisi US$0 untuk produk tertentu, selebihnya sekitar US$1.000.",
+        "Chase: biaya provisi US$1.000-US$1.800. Ada diskon relasi bagi nasabah Chase yang sudah ada.",
+        "Navy Federal: biaya provisi US$0 untuk pinjaman VA. Fokus pada kalangan militer dan veteran."
       ]
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "q": "Apakah pinjaman 'tanpa biaya pemberi pinjaman' benar-benar lebih murah?",
-      "a": "Umumnya ya — skema tanpa biaya dari Better memang menghemat $1.000-$3.000 saat penutupan akad. Namun pastikan suku bunganya tetap bersaing; sebagian pemberi pinjaman tanpa biaya menutupinya dengan bunga yang sedikit lebih tinggi."
+      "a": "Umumnya ya — skema tanpa biaya dari Better memang menghemat US$1.000-US$3.000 saat penutupan akad. Namun pastikan suku bunganya tetap bersaing; sebagian pemberi pinjaman tanpa biaya menutupinya dengan bunga yang sedikit lebih tinggi."
     },
     {
       "q": "Seberapa berbeda waktu proses KPR antarpemberi pinjaman?",
@@ -54,13 +54,13 @@
         "Pemantauan status lewat aplikasi seluler"
       ],
       "cons": [
-        "Biaya provisi $1.200",
+        "Biaya provisi US$1.200",
         "Penawaran produk Rocket lain terasa cukup agresif"
       ]
     },
     "better-mortgage": {
       "badge": "💸 Terbaik tanpa biaya",
-      "review": "Better Mortgage cocok bagi peminjam melek teknologi yang ingin bebas biaya pemberi pinjaman. Prosesnya online, suku bunganya bersaing, dan tidak ada biaya provisi maupun biaya pemberi pinjaman yang diiklankan. Penghematannya $1.000-$3.000 saat penutupan akad dibanding pemberi pinjaman konvensional. Proses penjaminannya bisa ketat — Better cukup selektif.",
+      "review": "Better Mortgage cocok bagi peminjam melek teknologi yang ingin bebas biaya pemberi pinjaman. Prosesnya online, suku bunganya bersaing, dan tidak ada biaya provisi maupun biaya pemberi pinjaman yang diiklankan. Penghematannya US$1.000-US$3.000 saat penutupan akad dibanding pemberi pinjaman konvensional. Proses penjaminannya bisa ketat — Better cukup selektif.",
       "pros": [
         "Tanpa biaya pemberi pinjaman",
         "Proses online",
@@ -115,7 +115,7 @@
     "rocket-mortgage": "Ajukan lewat rocketmortgage.com atau aplikasi selulernya. Pra-persetujuan online memakan waktu 5-15 menit.",
     "better-mortgage": "Ajukan lewat better.com. Klaim 'tanpa biaya pemberi pinjaman' berlaku untuk sebagian besar produk pinjaman — pastikan kembali pada penawaran spesifik Anda.",
     "ally-mortgage": "Ajukan lewat ally.com. Rekening Ally (tabungan, giro) terintegrasi untuk memperoleh keuntungan relasi.",
-    "chase-mortgage": "Ajukan lewat chase.com atau langsung di cabang. Tingkatan Chase Private Client (Total Checking + saldo $250 ribu ke atas) memperoleh diskon suku bunga.",
+    "chase-mortgage": "Ajukan lewat chase.com atau langsung di cabang. Tingkatan Chase Private Client (Total Checking + saldo US$250 ribu ke atas) memperoleh diskon suku bunga.",
     "navy-federal-mortgage": "Ajukan lewat navyfederal.org. Keanggotaan mensyaratkan keterkaitan dengan dinas militer (aktif, purnawirawan, anggota keluarga, atau pegawai sipil Departemen Pertahanan AS)."
   },
   "pinDescription": "Mau ambil KPR di AS tahun 2026? Rocket, Better, Ally, Chase, dan Navy Federal diadu langsung — biaya, kecepatan proses, sampai pinjaman VA. Simpan dulu sebelum tanda tangan akad.",
@@ -128,7 +128,7 @@
     {
       "label": "Pembeli hemat yang ingin menekan pengeluaran saat akad",
       "offerId": "better-mortgage",
-      "reason": "Kebijakan tanpa biaya provisi dari Better menghemat $1.000-$3.000 saat penutupan akad dibanding pemberi pinjaman konvensional, dengan penjaminan sepenuhnya online."
+      "reason": "Kebijakan tanpa biaya provisi dari Better menghemat US$1.000-US$3.000 saat penutupan akad dibanding pemberi pinjaman konvensional, dengan penjaminan sepenuhnya online."
     },
     {
       "label": "Pemilik rumah yang ingin melakukan refinancing KPR",
@@ -138,7 +138,7 @@
     {
       "label": "Peminjam berkekayaan tinggi yang sudah punya rekening Chase",
       "offerId": "chase-mortgage",
-      "reason": "Diskon relasi Chase Private Client dan akses ke kantor cabang menjadi keuntungan bagi peminjam dengan dana $250 ribu ke atas yang sudah tersimpan di Chase."
+      "reason": "Diskon relasi Chase Private Client dan akses ke kantor cabang menjadi keuntungan bagi peminjam dengan dana US$250 ribu ke atas yang sudah tersimpan di Chase."
     },
     {
       "label": "Anggota militer aktif dan veteran yang sedang membeli rumah",

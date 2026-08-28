@@ -16,14 +16,14 @@
       "paragraphs": [
         "Giao thức kháng DPI từ ngách trở thành tiêu chuẩn. Stealth của Proton, NordWhisper của NordVPN và Lightway-Stealth của ExpressVPN đều vượt qua kiểm tra gói sâu ở Iran, Trung Quốc và (từ luật tháng 11/2025) Nga. Mullvad vẫn dựa vào WireGuard-over-TCP — chạy được nhưng chậm hơn.",
         "Gói miễn phí cuối cùng đã dùng được. Proton VPN Free cho dữ liệu không giới hạn ở ba nước, không quảng cáo. Lần đầu tiên một VPN miễn phí có thể giới thiệu mà không cần ghi chú.",
-        "Giá rối hơn. Giá ban đầu giảm (ExpressVPN $8.32/tháng, Surfshark $3.99/tháng) nhưng giá gia hạn tự động tăng 15-30% toàn ngành. Bên dưới ghi cả hai mức giá."
+        "Giá rối hơn. Giá ban đầu giảm (ExpressVPN US$8.32/tháng, Surfshark US$3.99/tháng) nhưng giá gia hạn tự động tăng 15-30% toàn ngành. Bên dưới ghi cả hai mức giá."
       ]
     },
     {
       "heading": "Chọn cái nào",
       "paragraphs": [
         "Nếu xem stream, ExpressVPN mở khóa nhiều thư viện đáng tin cậy hơn. Netflix Mỹ, BBC iPlayer, DAZN Nhật đều chạy ngay máy chủ đầu tiên trong 30 ngày liên tục. NordVPN bám sát phía sau.",
-        "Nếu để ý giá, Surfshark $3.99/tháng và thiết bị không giới hạn là người thắng. Lưu ý: gia hạn $59.76/năm. Đặt nhắc nhở trong lịch.",
+        "Nếu để ý giá, Surfshark US$3.99/tháng và thiết bị không giới hạn là người thắng. Lưu ý: gia hạn US$59.76/năm. Đặt nhắc nhở trong lịch.",
         "Nếu sống ở quốc gia kiểm duyệt hoặc đặt nặng riêng tư, Stealth của Proton VPN là cách vượt đáng tin cậy nhất trong thử nghiệm, và luật Thụy Sĩ là mạnh nhất khối châu Âu. Mullvad nếu muốn trả tiền mặt nữa.",
         "Để phủ cả nhà — điện thoại, smart TV, máy chơi game, laptop của người thân — Meshnet của NordVPN (giờ miễn phí) cộng 6 kết nối đồng thời là setup nhẹ nhàng nhất."
       ]
@@ -65,7 +65,7 @@
   "offerNotes": {
     "nordvpn": "Tổng thể tốt nhất — chọn cái này nếu muốn một VPN và khỏi nghĩ.",
     "expressvpn": "Tốt nhất cho stream — Netflix Mỹ, BBC, DAZN mở 30 ngày liên tiếp.",
-    "surfshark": "Đáng tiền nhất — $3.99/tháng, thiết bị không giới hạn. Cảnh giác giá gia hạn.",
+    "surfshark": "Đáng tiền nhất — US$3.99/tháng, thiết bị không giới hạn. Cảnh giác giá gia hạn.",
     "protonvpn": "Tốt nhất cho riêng tư và vùng kiểm duyệt — Stealth thắng DPI ở Trung Quốc, Iran, Nga.",
     "mullvad": "Tốt nhất cho riêng tư cực đoan — €5/tháng cố định, tiền mặt và Monero, không chiêu marketing."
   },
@@ -92,8 +92,8 @@
         "Protocol": "NordWhisper / WireGuard",
         "Jurisdiction": "Panama",
         "Audit": "Deloitte 2024",
-        "Price (intro)": "$3.99/mo",
-        "Price (renewal)": "$4.79/mo"
+        "Price (intro)": "US$3.99/mo",
+        "Price (renewal)": "US$4.79/mo"
       },
       "scores": {
         "Tốc độ": 4.7,
@@ -106,14 +106,14 @@
     {
       "offerId": "expressvpn",
       "badge": "Tốt nhất cho phát trực tuyến",
-      "review": "Giao thức Lightway đạt tốc độ duy trì nhanh nhất trong bài kiểm tra — trung bình 820 Mbps — và mở khóa Netflix US, BBC iPlayer và DAZN Japan mỗi ngày. Giá gia hạn $8,32/tháng là đắt nhất ở đây.",
+      "review": "Giao thức Lightway đạt tốc độ duy trì nhanh nhất trong bài kiểm tra — trung bình 820 Mbps — và mở khóa Netflix US, BBC iPlayer và DAZN Japan mỗi ngày. Giá gia hạn US$8,32/tháng là đắt nhất ở đây.",
       "pros": [
         "Tốc độ duy trì nhanh nhất trong bài kiểm tra 30 ngày",
         "Mở khóa tất cả danh mục phát trực tuyến lớn hàng ngày",
         "Lightway-Stealth đánh bại DPI"
       ],
       "cons": [
-        "Gia hạn đắt nhất ở $8,32/tháng"
+        "Gia hạn đắt nhất ở US$8,32/tháng"
       ],
       "grade": "A",
       "specs": {
@@ -123,8 +123,8 @@
         "Protocol": "Lightway / Lightway-Stealth",
         "Jurisdiction": "British Virgin Islands",
         "Audit": "Cure53 2024",
-        "Price (intro)": "$6.67/mo",
-        "Price (renewal)": "$8.32/mo"
+        "Price (intro)": "US$6.67/mo",
+        "Price (renewal)": "US$8.32/mo"
       },
       "scores": {
         "Tốc độ": 5,
@@ -137,14 +137,14 @@
     {
       "offerId": "surfshark",
       "badge": "Giá trị tốt nhất",
-      "review": "Thiết bị không giới hạn và giá giới thiệu $3,99/tháng khiến Surfshark không thể cạnh tranh về giá. CleanWeb chặn hầu hết phần mềm độc hại trước khi tải xuống. Lưu ý: gia hạn tăng lên $59,76/năm.",
+      "review": "Thiết bị không giới hạn và giá giới thiệu US$3,99/tháng khiến Surfshark không thể cạnh tranh về giá. CleanWeb chặn hầu hết phần mềm độc hại trước khi tải xuống. Lưu ý: gia hạn tăng lên US$59,76/năm.",
       "pros": [
         "Thiết bị không giới hạn trên một tài khoản",
         "Bộ chặn phần mềm độc hại CleanWeb đi kèm",
         "Giá giới thiệu thấp nhất trong so sánh"
       ],
       "cons": [
-        "Tự động gia hạn tăng lên ~$59,76/năm"
+        "Tự động gia hạn tăng lên ~US$59,76/năm"
       ],
       "grade": "B+",
       "specs": {
@@ -154,8 +154,8 @@
         "Protocol": "WireGuard / Shadowsocks",
         "Jurisdiction": "Netherlands",
         "Audit": "Cure53 2023",
-        "Price (intro)": "$3.99/mo",
-        "Price (renewal)": "$4.98/mo"
+        "Price (intro)": "US$3.99/mo",
+        "Price (renewal)": "US$4.98/mo"
       },
       "scores": {
         "Tốc độ": 4.4,
@@ -185,8 +185,8 @@
         "Protocol": "Stealth / WireGuard",
         "Jurisdiction": "Switzerland",
         "Audit": "SEC Consult 2023",
-        "Price (intro)": "$3.59/mo",
-        "Price (renewal)": "$5.99/mo"
+        "Price (intro)": "US$3.59/mo",
+        "Price (renewal)": "US$5.99/mo"
       },
       "scores": {
         "Tốc độ": 4.2,
@@ -243,7 +243,7 @@
     {
       "label": "Cho người dùng chú ý ngân sách",
       "offerId": "surfshark",
-      "reason": "Thiết bị không giới hạn với $3,99/tháng — VPN duy nhất ở đây không tính phí theo thiết bị."
+      "reason": "Thiết bị không giới hạn với US$3,99/tháng — VPN duy nhất ở đây không tính phí theo thiết bị."
     },
     {
       "label": "Cho người dùng ở vùng bị kiểm duyệt",

@@ -7,9 +7,9 @@
     {
       "heading": "同スペックでの価格比較",
       "paragraphs": [
-        "4 vCPU / 8 GB / 160 GB SSD価格：Hetzner CPX31、DigitalOcean Premium、Vultr High Frequency、Linode Dedicated、AWS Lightsail（$80＋帯域）。同等ハードでHetznerが3〜5倍安い。",
-        "帯域：Hetznerは20 TB込み、DigitalOcean／Vultrは5〜6 TB込み、AWS Lightsailは5 TB超過分が$0.09/GB。混雑月のAWSは外向き帯域だけで請求額が倍になり得る。",
-        "ブロックストレージ：Hetzner $0.052/GB、DigitalOcean $0.10/GB、AWS EBS $0.10〜0.125/GB。DBが大きくなった瞬間にストレージ単価が効いてくる。"
+        "4 vCPU / 8 GB / 160 GB SSD価格：Hetzner CPX31、DigitalOcean Premium、Vultr High Frequency、Linode Dedicated、AWS Lightsail（US$80＋帯域）。同等ハードでHetznerが3〜5倍安い。",
+        "帯域：Hetznerは20 TB込み、DigitalOcean／Vultrは5〜6 TB込み、AWS Lightsailは5 TB超過分がUS$0.09/GB。混雑月のAWSは外向き帯域だけで請求額が倍になり得る。",
+        "ブロックストレージ：Hetzner US$0.052/GB、DigitalOcean US$0.10/GB、AWS EBS US$0.10〜0.125/GB。DBが大きくなった瞬間にストレージ単価が効いてくる。"
       ]
     },
     {
@@ -89,7 +89,7 @@
     },
     "hetzner-cloud-cpx": {
       "badge": "💰 価格／スペック最有力",
-      "review": "Hetzner Cloud CPX31（4 vCPU/8GBで$14/月）は市場で最安の本格的VPSで、ハードウェアも本物（AMD EPYC、NVMe）。EU拠点アプリなら自明な選択。米国拠点チームはネットワークのペナルティと70%超の節約を天秤にかけることになる。",
+      "review": "Hetzner Cloud CPX31（4 vCPU/8GBでUS$14/月）は市場で最安の本格的VPSで、ハードウェアも本物（AMD EPYC、NVMe）。EU拠点アプリなら自明な選択。米国拠点チームはネットワークのペナルティと70%超の節約を天秤にかけることになる。",
       "pros": [
         "同スペックで3〜5倍安い",
         "AMD EPYC＋NVMeハードウェア",
@@ -110,15 +110,15 @@
       ],
       "cons": [
         "この比較でスペックあたり最高単価",
-        "帯域超過$0.09/GB",
+        "帯域超過US$0.09/GB",
         "SLAがEC2より弱い"
       ]
     }
   },
   "offerNotes": {
-    "digitalocean-droplets": "digitalocean.comでサインアップ — 新規$200クレジットが標準オファー。本番用サイジングではPremium階級を念頭に。",
-    "vultr-cloud-compute": "vultr.comでサインアップ — $100〜300クレジットのプロモが頻繁。必ずHigh FrequencyかPerformanceを選択。",
-    "linode-shared-cpu": "linode.comでサインアップ — 新規$100クレジット。本番ワークロードはDedicated CPUプラン推奨。",
+    "digitalocean-droplets": "digitalocean.comでサインアップ — 新規US$200クレジットが標準オファー。本番用サイジングではPremium階級を念頭に。",
+    "vultr-cloud-compute": "vultr.comでサインアップ — US$100〜300クレジットのプロモが頻繁。必ずHigh FrequencyかPerformanceを選択。",
+    "linode-shared-cpu": "linode.comでサインアップ — 新規US$100クレジット。本番ワークロードはDedicated CPUプラン推奨。",
     "hetzner-cloud-cpx": "hetzner.comでサインアップ — KYC確認でアカウント承認に1〜2日要する。EU拠点なら後悔しない。",
     "aws-lightsail": "aws.amazon.comでサインアップ — 小規模プランは3ヶ月無料枠あり。本番投入前に帯域課金を必ず読むこと。"
   },

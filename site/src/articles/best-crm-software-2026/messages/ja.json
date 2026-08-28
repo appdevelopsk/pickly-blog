@@ -24,7 +24,7 @@
       "heading": "オートメーションとスケール",
       "paragraphs": [
         "ワークフローオートメーション深度：Salesforce（最強力、管理者必要）、HubSpot（最良UX）、ActiveCampaign Plus＋Pipedrive併用（しばしば組合せ）、Monday Sales（ビジュアルワークフロー、簡単）、Zoho（広いがUX古い）。",
-        "12ユーザー総コスト（中位プラン）：Salesforce月$900（Professional）、HubSpot月$1,200（Sales Hub Pro）、Pipedrive月$408（Advanced）、Zoho月$192（Enterprise）、Monday Sales月$144-288（Pro）。ZohoとMondayがHubSpot／Salesforceの4-6倍安い。",
+        "12ユーザー総コスト（中位プラン）：Salesforce月US$900（Professional）、HubSpot月US$1,200（Sales Hub Pro）、Pipedrive月US$408（Advanced）、Zoho月US$192（Enterprise）、Monday Sales月US$144-288（Pro）。ZohoとMondayがHubSpot／Salesforceの4-6倍安い。",
         "50担当者超のスケーリング：Salesforce。12担当者ではオーバーキルのカスタマイズが100担当者では必須。12人チームの多くはSalesforceを選ぶべきではない。"
       ]
     }
@@ -40,7 +40,7 @@
     },
     {
       "q": "無料CRM層 — 本当に無料？",
-      "a": "HubSpot無料層は真に有用（コンタクト、取引、基本メール）。無料Zoho CRM（3ユーザー）も機能的。Salesforce「Essentials」は$25/ユーザー/月の有料のみ（無料層なし）。"
+      "a": "HubSpot無料層は真に有用（コンタクト、取引、基本メール）。無料Zoho CRM（3ユーザー）も機能的。Salesforce「Essentials」はUS$25/ユーザー/月の有料のみ（無料層なし）。"
     },
     {
       "q": "後でCRMを切り替えられる？",
@@ -57,7 +57,7 @@
         "マーケ＋営業＋サービス統合"
       ],
       "cons": [
-        "Pro $100/ユーザー/月は高価",
+        "Pro US$100/ユーザー/月は高価",
         "Salesforceよりカスタマイズ少"
       ]
     },
@@ -72,7 +72,7 @@
       "cons": [
         "急な学習曲線",
         "管理者強制なしで採用率低下",
-        "$75-300/ユーザー/月"
+        "US$75-300/ユーザー/月"
       ]
     },
     "pipedrive-advanced": {
@@ -90,7 +90,7 @@
     },
     "zoho-crm-enterprise": {
       "badge": "💸 バジェット最有力",
-      "review": "Zoho CRM Enterpriseは予算重視SMB向け正解。Enterprise $40/ユーザー/月でSalesforce Professionalと比較可能な機能セット。広いZoho Oneスイート統合（40+アプリ）。UXは古いが機能的。",
+      "review": "Zoho CRM Enterpriseは予算重視SMB向け正解。Enterprise US$40/ユーザー/月でSalesforce Professionalと比較可能な機能セット。広いZoho Oneスイート統合（40+アプリ）。UXは古いが機能的。",
       "pros": [
         "同等機能でSalesforceの4倍安い",
         "Zoho Oneスイート統合",
@@ -103,7 +103,7 @@
     },
     "monday-sales-crm": {
       "badge": "🎨 ビジュアルCRM最有力",
-      "review": "Monday Sales CRMは既にMondayをプロジェクト管理に使うチーム向け正解。ビジュアルボードスタイルCRM、無限カスタマイズ、$12-24/ユーザー/月。チームがパイプラインではなくワークフローで考えるなら最有力。",
+      "review": "Monday Sales CRMは既にMondayをプロジェクト管理に使うチーム向け正解。ビジュアルボードスタイルCRM、無限カスタマイズ、US$12-24/ユーザー/月。チームがパイプラインではなくワークフローで考えるなら最有力。",
       "pros": [
         "ビジュアルワークフロースタイル",
         "Monday work managementとペア",

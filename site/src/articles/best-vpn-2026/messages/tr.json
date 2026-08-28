@@ -16,14 +16,14 @@
       "paragraphs": [
         "DPI'a dayanıklı protokoller niş olmaktan çıkıp standart oldu. Proton'un Stealth'ı, NordVPN'in NordWhisper'ı ve ExpressVPN'in Lightway-Stealth'ı; İran, Çin ve (Kasım 2025 yasasından beri) Rusya'da kullanılan derin paket incelemesini geçer. Mullvad hâlâ WireGuard-over-TCP'ye güveniyor — çalışıyor ama daha yavaş.",
         "Ücretsiz katmanlar artık kullanılabilir. Proton VPN Free üç ülkede sınırsız veri, reklamsız sunuyor. Bir ücretsiz VPN'in dipnotsuz tavsiye edilebildiği ilk durum.",
-        "Fiyatlar daha karmaşık. Giriş fiyatları düştü (ExpressVPN $8.32/ay, Surfshark $3.99/ay) ama otomatik yenileme fiyatları sektör genelinde %15-30 arttı. Aşağıda her iki fiyatı da listeliyoruz."
+        "Fiyatlar daha karmaşık. Giriş fiyatları düştü (ExpressVPN US$8.32/ay, Surfshark US$3.99/ay) ama otomatik yenileme fiyatları sektör genelinde %15-30 arttı. Aşağıda her iki fiyatı da listeliyoruz."
       ]
     },
     {
       "heading": "Hangisi sana göre",
       "paragraphs": [
         "Stream izliyorsan, ExpressVPN daha çok kataloğu daha güvenilir şekilde açıyor. Netflix US, BBC iPlayer ve DAZN Japan, ilk sunucudan itibaren 30 gün boyunca her gün çalıştı. NordVPN kıl payı ikinci.",
-        "Fiyat öncelikli isen, Surfshark $3.99/ay ve sınırsız cihaz ile açık ara kazanır. Püf noktası: yenileme $59.76/yıl. Takvime hatırlatıcı koymak şart.",
+        "Fiyat öncelikli isen, Surfshark US$3.99/ay ve sınırsız cihaz ile açık ara kazanır. Püf noktası: yenileme US$59.76/yıl. Takvime hatırlatıcı koymak şart.",
         "Sansürlü bir ülkede yaşıyorsan veya gizliliğe çok önem veriyorsan, Proton VPN'in Stealth'ı testimizdeki en güvenilir bypass ve İsviçre yasası AB bloğundaki en güçlüsü. Nakit ödemek istiyorsan Mullvad.",
         "Tüm evi kapsamak için — telefonlar, akıllı TV'ler, oyun konsolları, aile dizüstüleri — NordVPN'in Meshnet'i (artık ücretsiz) ve 6 eşzamanlı bağlantı en zahmetsiz kurulum."
       ]
@@ -65,7 +65,7 @@
   "offerNotes": {
     "nordvpn": "En iyi genel — bir VPN al ve düşünme demek istiyorsan bunu seç.",
     "expressvpn": "Stream için en iyi — Netflix US, BBC, DAZN 30 gün boyunca her gün açık.",
-    "surfshark": "En iyi fiyat-özellik — $3.99/ay, sınırsız cihaz. Yenileme fiyatına dikkat.",
+    "surfshark": "En iyi fiyat-özellik — US$3.99/ay, sınırsız cihaz. Yenileme fiyatına dikkat.",
     "protonvpn": "Gizlilik ve sansür için en iyi — Stealth, Çin'de, İran'da, Rusya'da DPI'ı yener.",
     "mullvad": "Sıkı gizlilik için en iyi — €5/ay sabit, nakit ve Monero, sıfır pazarlama oyunu."
   },
@@ -92,8 +92,8 @@
         "Protocol": "NordWhisper / WireGuard",
         "Jurisdiction": "Panama",
         "Audit": "Deloitte 2024",
-        "Price (intro)": "$3.99/mo",
-        "Price (renewal)": "$4.79/mo"
+        "Price (intro)": "US$3.99/mo",
+        "Price (renewal)": "US$4.79/mo"
       },
       "scores": {
         "Hız": 4.7,
@@ -106,14 +106,14 @@
     {
       "offerId": "expressvpn",
       "badge": "Yayın Akışı İçin En İyi",
-      "review": "Lightway protokolü testte en yüksek sürekli hızları sağladı — ortalama 820 Mbps — ve her gün Netflix US, BBC iPlayer ve DAZN Japan'ı açtı. Yenilemede $8,32/ay ile en pahalısı.",
+      "review": "Lightway protokolü testte en yüksek sürekli hızları sağladı — ortalama 820 Mbps — ve her gün Netflix US, BBC iPlayer ve DAZN Japan'ı açtı. Yenilemede US$8,32/ay ile en pahalısı.",
       "pros": [
         "30 günlük testte en hızlı sürekli hızlar",
         "Her gün tüm büyük yayın kataloğlarını açıyor",
         "Lightway-Stealth DPI'yı aşıyor"
       ],
       "cons": [
-        "Yenilemede en pahalısı $8,32/ay"
+        "Yenilemede en pahalısı US$8,32/ay"
       ],
       "grade": "A",
       "specs": {
@@ -123,8 +123,8 @@
         "Protocol": "Lightway / Lightway-Stealth",
         "Jurisdiction": "British Virgin Islands",
         "Audit": "Cure53 2024",
-        "Price (intro)": "$6.67/mo",
-        "Price (renewal)": "$8.32/mo"
+        "Price (intro)": "US$6.67/mo",
+        "Price (renewal)": "US$8.32/mo"
       },
       "scores": {
         "Hız": 5,
@@ -137,14 +137,14 @@
     {
       "offerId": "surfshark",
       "badge": "En İyi Değer",
-      "review": "Sınırsız cihaz ve $3,99/ay başlangıç fiyatı Surfshark'ı fiyat açısından yenilmez yapıyor. CleanWeb kötü amaçlı yazılımların çoğunu indirme öncesinde engelliyor. Dikkat: yenileme $59,76/yıla fırlıyor.",
+      "review": "Sınırsız cihaz ve US$3,99/ay başlangıç fiyatı Surfshark'ı fiyat açısından yenilmez yapıyor. CleanWeb kötü amaçlı yazılımların çoğunu indirme öncesinde engelliyor. Dikkat: yenileme US$59,76/yıla fırlıyor.",
       "pros": [
         "Bir hesapta sınırsız cihaz",
         "CleanWeb kötü amaçlı yazılım engelleyici dahil",
         "Karşılaştırmada en düşük başlangıç fiyatı"
       ],
       "cons": [
-        "Otomatik yenileme ~$59,76/yıla fırlıyor"
+        "Otomatik yenileme ~US$59,76/yıla fırlıyor"
       ],
       "grade": "B+",
       "specs": {
@@ -154,8 +154,8 @@
         "Protocol": "WireGuard / Shadowsocks",
         "Jurisdiction": "Netherlands",
         "Audit": "Cure53 2023",
-        "Price (intro)": "$3.99/mo",
-        "Price (renewal)": "$4.98/mo"
+        "Price (intro)": "US$3.99/mo",
+        "Price (renewal)": "US$4.98/mo"
       },
       "scores": {
         "Hız": 4.4,
@@ -185,8 +185,8 @@
         "Protocol": "Stealth / WireGuard",
         "Jurisdiction": "Switzerland",
         "Audit": "SEC Consult 2023",
-        "Price (intro)": "$3.59/mo",
-        "Price (renewal)": "$5.99/mo"
+        "Price (intro)": "US$3.59/mo",
+        "Price (renewal)": "US$5.99/mo"
       },
       "scores": {
         "Hız": 4.2,
@@ -243,7 +243,7 @@
     {
       "label": "Bütçe bilincinde kullanıcılar için",
       "offerId": "surfshark",
-      "reason": "Aylık $3,99'a sınırsız cihaz — buradaki cihaz başına ücret almayan tek VPN."
+      "reason": "Aylık US$3,99'a sınırsız cihaz — buradaki cihaz başına ücret almayan tek VPN."
     },
     {
       "label": "Sansürlü bölgelerdeki kullanıcılar için",

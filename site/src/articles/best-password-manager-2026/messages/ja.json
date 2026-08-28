@@ -30,7 +30,7 @@
   "faqs": [
     {
       "q": "1Password vs Bitwarden？",
-      "a": "クラス最高のUXを求め、5ユーザーで月$4.99を払う余裕があるなら1Password。オープンソースと圧倒的な安さ（年$10のプレミアム層でTOTPまでカバー）を重視するならBitwardenが向いている。"
+      "a": "クラス最高のUXを求め、5ユーザーで月US$4.99を払う余裕があるなら1Password。オープンソースと圧倒的な安さ（年US$10のプレミアム層でTOTPまでカバー）を重視するならBitwardenが向いている。"
     },
     {
       "q": "Apple Passwordsで十分？",
@@ -42,29 +42,29 @@
     },
     {
       "q": "無料 vs 有料？",
-      "a": "無料層（Bitwarden無料版、Apple Passwords）は基本機能を備えているが、TOTP生成、ダークウェブ監視、家族共有、緊急アクセスといった機能は欠けている。多くのユーザーにとって、年$10〜60の有料プランはその分の価値がある。"
+      "a": "無料層（Bitwarden無料版、Apple Passwords）は基本機能を備えているが、TOTP生成、ダークウェブ監視、家族共有、緊急アクセスといった機能は欠けている。多くのユーザーにとって、年US$10〜60の有料プランはその分の価値がある。"
     }
   ],
   "products": {
     "1password-families": {
       "badge": "🏆 総合最有力",
-      "review": "1Password Familiesは、多くのユーザーにとって妥当な選択肢だ。5ユーザーで月$4.99、カテゴリ最良のUX、Watchtowerによる侵害アラート、国境を越える際に機密ボールトを隠せるTravel Mode、そして開発チーム向けのSecrets Automationまで備える。クロスプラットフォームの同期は平均4秒ほどで完了する。",
+      "review": "1Password Familiesは、多くのユーザーにとって妥当な選択肢だ。5ユーザーで月US$4.99、カテゴリ最良のUX、Watchtowerによる侵害アラート、国境を越える際に機密ボールトを隠せるTravel Mode、そして開発チーム向けのSecrets Automationまで備える。クロスプラットフォームの同期は平均4秒ほどで完了する。",
       "pros": [
         "カテゴリ最良のUX",
         "Watchtowerによる侵害アラート",
         "クロスプラットフォーム対応"
       ],
       "cons": [
-        "個人プランは月$4.99（年$60）",
+        "個人プランは月US$4.99（年US$60）",
         "無料層が無い"
       ]
     },
     "bitwarden-premium": {
       "badge": "💸 オープンソース最有力",
-      "review": "Bitwarden Premiumは、オープンソースを支持する人や予算を重視する人にとって妥当な選択肢だ。プレミアムは年$10（TOTP、緊急アクセス、ファイル添付が使える）、無料層でも基本機能はカバーできる。Linuxにもネイティブ対応し、セルフホストも可能だ。",
+      "review": "Bitwarden Premiumは、オープンソースを支持する人や予算を重視する人にとって妥当な選択肢だ。プレミアムは年US$10（TOTP、緊急アクセス、ファイル添付が使える）、無料層でも基本機能はカバーできる。Linuxにもネイティブ対応し、セルフホストも可能だ。",
       "pros": [
         "オープンソース",
-        "プレミアムが年$10",
+        "プレミアムが年US$10",
         "Linuxにネイティブ対応"
       ],
       "cons": [
@@ -74,7 +74,7 @@
     },
     "dashlane-premium": {
       "badge": "🛡️ オールインワン最有力",
-      "review": "Dashlane Premiumは、VPNとパスワードマネージャ、ダークウェブ監視をまとめて使いたい人にとって妥当な選択肢だ。個人プラン月$4.99にVPN（単体なら月$10相当）が含まれている。機能は包括的だが、Bitwardenよりは高めの価格設定になる。",
+      "review": "Dashlane Premiumは、VPNとパスワードマネージャ、ダークウェブ監視をまとめて使いたい人にとって妥当な選択肢だ。個人プラン月US$4.99にVPN（単体なら月US$10相当）が含まれている。機能は包括的だが、Bitwardenよりは高めの価格設定になる。",
       "pros": [
         "VPNが含まれる",
         "ダークウェブ監視",
@@ -113,8 +113,8 @@
     }
   },
   "offerNotes": {
-    "1password-families": "1password.comでサインアップ。Familiesプランは5ユーザーで月$4.99。",
-    "bitwarden-premium": "bitwarden.comでサインアップ。無料層でも十分機能し、プレミアムは年$10。",
+    "1password-families": "1password.comでサインアップ。Familiesプランは5ユーザーで月US$4.99。",
+    "bitwarden-premium": "bitwarden.comでサインアップ。無料層でも十分機能し、プレミアムは年US$10。",
     "dashlane-premium": "dashlane.comでサインアップ。PremiumにはVPNが含まれる。",
     "apple-passwords-icloud": "iOS／macOSに組み込み済み — 設定アプリからパスワードにアクセス。無料。",
     "lastpass-premium": "既存ユーザーは移行を検討したい。新規アカウントの開設はおすすめしない。"

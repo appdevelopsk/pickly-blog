@@ -16,14 +16,14 @@
       "paragraphs": [
         "抗 DPI 協議從小眾變標配。Proton 的 Stealth、NordVPN 的 NordWhisper、ExpressVPN 的 Lightway-Stealth 都能在伊朗、中國與(2025 年 11 月新法後)俄羅斯突破深度封包檢測。Mullvad 仍靠 WireGuard-over-TCP,可用但偏慢。",
         "免費版終於堪用。Proton VPN Free 三國無限流量、無廣告 — 是第一個能放心推薦的免費 VPN。",
-        "定價更複雜。表面價下降(ExpressVPN 月 $8.32、Surfshark 月 $3.99),但全業界續約價上漲 15-30%。下方同時列出首期與續約價。"
+        "定價更複雜。表面價下降(ExpressVPN 月 US$8.32、Surfshark 月 US$3.99),但全業界續約價上漲 15-30%。下方同時列出首期與續約價。"
       ]
     },
     {
       "heading": "依用途挑選",
       "paragraphs": [
         "追劇首選 ExpressVPN,它解鎖的片庫比其他家更多也更穩定。Netflix 美國、BBC iPlayer、DAZN 日本都被串流解鎖追蹤網站持續回報為可用。NordVPN 緊接其後。",
-        "預算為先選 Surfshark,月 $3.99 且裝置數無限。續約價 $59.76/年要記在行事曆。",
+        "預算為先選 Surfshark,月 US$3.99 且裝置數無限。續約價 US$59.76/年要記在行事曆。",
         "想付現選 Mullvad。",
         "想一個 VPN 顧整個家(手機、智慧電視、遊戲機、家人筆電),NordVPN 的 Meshnet(免費)加上 6 裝置同時連線最省事。"
       ]
@@ -65,7 +65,7 @@
   "offerNotes": {
     "nordvpn": "整體最佳 — 不想思考就選這個。",
     "expressvpn": "串流最強 — Netflix 美國、BBC iPlayer、DAZN 都被持續回報為可解鎖。",
-    "surfshark": "CP 值最高 — 月 $3.99 裝置無限,留意續約價。",
+    "surfshark": "CP 值最高 — 月 US$3.99 裝置無限,留意續約價。",
     "protonvpn": "隱私與翻牆首選 — Stealth 協議在中伊俄都能用。",
     "mullvad": "極致匿名 — 月 €5 固定、收現金/Monero、零行銷話術。"
   },
@@ -92,8 +92,8 @@
         "Protocol": "NordWhisper / WireGuard",
         "Jurisdiction": "Panama",
         "Audit": "Deloitte 2024",
-        "Price (intro)": "$3.99/mo",
-        "Price (renewal)": "$4.79/mo"
+        "Price (intro)": "US$3.99/mo",
+        "Price (renewal)": "US$4.79/mo"
       },
       "scores": {
         "速度": 4.7,
@@ -106,14 +106,14 @@
     {
       "offerId": "expressvpn",
       "badge": "串流最佳",
-      "review": "Lightway協議在獨立實驗室測試中一向名列最快之列——Gigabit線路上持續速度達800 Mbps級——串流解鎖追蹤網站也回報它能日復一日穩定解鎖Netflix US、BBC iPlayer和DAZN Japan。續約價格$8.32/月是此處最貴的。",
+      "review": "Lightway協議在獨立實驗室測試中一向名列最快之列——Gigabit線路上持續速度達800 Mbps級——串流解鎖追蹤網站也回報它能日復一日穩定解鎖Netflix US、BBC iPlayer和DAZN Japan。續約價格US$8.32/月是此處最貴的。",
       "pros": [
         "獨立實驗室測試中持續速度最快",
         "每天解鎖所有主要串流目錄",
         "Lightway-Stealth突破DPI"
       ],
       "cons": [
-        "續約價格最高，$8.32/月"
+        "續約價格最高，US$8.32/月"
       ],
       "grade": "A",
       "specs": {
@@ -123,8 +123,8 @@
         "Protocol": "Lightway / Lightway-Stealth",
         "Jurisdiction": "British Virgin Islands",
         "Audit": "Cure53 2024",
-        "Price (intro)": "$6.67/mo",
-        "Price (renewal)": "$8.32/mo"
+        "Price (intro)": "US$6.67/mo",
+        "Price (renewal)": "US$8.32/mo"
       },
       "scores": {
         "速度": 5,
@@ -137,14 +137,14 @@
     {
       "offerId": "surfshark",
       "badge": "性價比最高",
-      "review": "無限裝置和$3.99/月入門價格使Surfshark在價格上無敵。CleanWeb在下載前封鎖大多數惡意軟體。注意：續約跳升至$59.76/年。",
+      "review": "無限裝置和US$3.99/月入門價格使Surfshark在價格上無敵。CleanWeb在下載前封鎖大多數惡意軟體。注意：續約跳升至US$59.76/年。",
       "pros": [
         "一個帳戶無限裝置",
         "內建CleanWeb惡意軟體攔截",
         "比較中最低的入門價格"
       ],
       "cons": [
-        "自動續約跳升至約$59.76/年"
+        "自動續約跳升至約US$59.76/年"
       ],
       "grade": "B+",
       "specs": {
@@ -154,8 +154,8 @@
         "Protocol": "WireGuard / Shadowsocks",
         "Jurisdiction": "Netherlands",
         "Audit": "Cure53 2023",
-        "Price (intro)": "$3.99/mo",
-        "Price (renewal)": "$4.98/mo"
+        "Price (intro)": "US$3.99/mo",
+        "Price (renewal)": "US$4.98/mo"
       },
       "scores": {
         "速度": 4.4,
@@ -185,8 +185,8 @@
         "Protocol": "Stealth / WireGuard",
         "Jurisdiction": "Switzerland",
         "Audit": "SEC Consult 2023",
-        "Price (intro)": "$3.59/mo",
-        "Price (renewal)": "$5.99/mo"
+        "Price (intro)": "US$3.59/mo",
+        "Price (renewal)": "US$5.99/mo"
       },
       "scores": {
         "速度": 4.2,
@@ -243,7 +243,7 @@
     {
       "label": "適合預算有限的使用者",
       "offerId": "surfshark",
-      "reason": "$3.99/月入門價格無限裝置——此處唯一不按裝置收費的VPN。"
+      "reason": "US$3.99/月入門價格無限裝置——此處唯一不按裝置收費的VPN。"
     },
     {
       "label": "適合受審查地區使用者",

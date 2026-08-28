@@ -1,17 +1,17 @@
 {
   "title": "暗号資産取引所2026：手数料と安全性で5社比較",
-  "description": "Coinbase Advanced、Kraken Pro、Gemini Active Trader、Binance.US、Bitfinex — 月$10K取引量での手数料計算、セキュリティ履歴、銘柄カバレッジを比較。",
-  "lede": "5取引所。月$10K取引量での実手数料計算。規制立場、ハッキング履歴、各暗号通貨用途別の取引所選択を比較。",
-  "methodology": "各社で月$10K取引量（マーケット＋リミット注文ミックス）の合計手数料計算。規制立場（州ライセンス、SOC 2監査）、ハック／破産履歴、銘柄カバレッジ、出金スピード、保険を比較。",
+  "description": "Coinbase Advanced、Kraken Pro、Gemini Active Trader、Binance.US、Bitfinex — 月US$10K取引量での手数料計算、セキュリティ履歴、銘柄カバレッジを比較。",
+  "lede": "5取引所。月US$10K取引量での実手数料計算。規制立場、ハッキング履歴、各暗号通貨用途別の取引所選択を比較。",
+  "methodology": "各社で月US$10K取引量（マーケット＋リミット注文ミックス）の合計手数料計算。規制立場（州ライセンス、SOC 2監査）、ハック／破産履歴、銘柄カバレッジ、出金スピード、保険を比較。",
   "sections": [
     {
-      "heading": "月$10K取引量での手数料計算",
+      "heading": "月US$10K取引量での手数料計算",
       "paragraphs": [
-        "Coinbase Advanced：月$32（この階層で0.40% taker、0.25% maker）。米国規制下の取引所では最も高コスト。",
-        "Kraken Pro：月$18（0.26% taker、0.16% maker）。Coinbase Advancedの半額。",
-        "Gemini Active Trader：月$35（0.40% taker、0.20% maker）。Coinbaseと同等、makerでやや高い。",
-        "Binance.US：月$8（0.10% taker、0.10% maker）。米国規制最安。",
-        "Bitfinex：月$16（0.20% taker、0.10% maker）。安いが米国居住者利用不可。"
+        "Coinbase Advanced：月US$32（この階層で0.40% taker、0.25% maker）。米国規制下の取引所では最も高コスト。",
+        "Kraken Pro：月US$18（0.26% taker、0.16% maker）。Coinbase Advancedの半額。",
+        "Gemini Active Trader：月US$35（0.40% taker、0.20% maker）。Coinbaseと同等、makerでやや高い。",
+        "Binance.US：月US$8（0.10% taker、0.10% maker）。米国規制最安。",
+        "Bitfinex：月US$16（0.20% taker、0.10% maker）。安いが米国居住者利用不可。"
       ]
     },
     {
@@ -19,7 +19,7 @@
       "paragraphs": [
         "Coinbase、Kraken、Gemini、Binance.US：全て米国規制下。CoinbaseとGeminiはNYDFS BitLicense（米国州レベル最高基準）下。KrakenはWyoming SPDIチャーター下。Binance.USは規制精査を受けたが稼働中。",
         "カストディ保険：CoinbaseとGeminiは銀行グレード保険でコールドストレージ保持。Krakenは2011年創立以来最長のクリーンセキュリティ実績（ハックなし）。Binance.USの保険詳細は透明性低め。",
-        "Bitfinexは米国外規制（英領バージン諸島）、米国居住者利用不可。2016年に$72Mハック（2022年までにユーザーの大半に補償）、稼働中。"
+        "Bitfinexは米国外規制（英領バージン諸島）、米国居住者利用不可。2016年にUS$72Mハック（2022年までにユーザーの大半に補償）、稼働中。"
       ]
     },
     {
@@ -54,11 +54,11 @@
   "products": {
     "coinbase-advanced": {
       "badge": "🏆 米国初心者最有力",
-      "review": "Coinbase Advancedは最も初心者フレンドリーな米国規制取引所。250+銘柄、FDIC保険付きUSD残高（$250Kまで）、10年以上洗練されたUX。トレードオフは手数料：0.40% takerはこの比較で最高値。occasional買いと保有のスタート取引所として、高手数料はあまり重要でない。頻繁取引する場合、KrakenかBinance.USに切り替え。",
+      "review": "Coinbase Advancedは最も初心者フレンドリーな米国規制取引所。250+銘柄、FDIC保険付きUSD残高（US$250Kまで）、10年以上洗練されたUX。トレードオフは手数料：0.40% takerはこの比較で最高値。occasional買いと保有のスタート取引所として、高手数料はあまり重要でない。頻繁取引する場合、KrakenかBinance.USに切り替え。",
       "pros": [
         "最も初心者フレンドリーUX",
         "250+銘柄選択",
-        "$250KまでFDIC保険付きUSD残高",
+        "US$250KまでFDIC保険付きUSD残高",
         "SEC報告の公開企業"
       ],
       "cons": [
@@ -108,7 +108,7 @@
     },
     "bitfinex": {
       "badge": "🌍 国際上級最有力",
-      "review": "Bitfinexは国際上級取引所。米国居住者利用不可（BVI規制下）。0.20% taker／0.10% maker。150+銘柄、高度マージン取引（対応ペアで最大10倍レバレッジ）、深い注文板。2016年に$72Mハック（2022年までに大半をユーザーに補償）、稼働中。非米国アクティブトレーダーには、Bitfinexは手数料でKrakenと競争力あり、Krakenが提供しないマージン取引を提供。",
+      "review": "Bitfinexは国際上級取引所。米国居住者利用不可（BVI規制下）。0.20% taker／0.10% maker。150+銘柄、高度マージン取引（対応ペアで最大10倍レバレッジ）、深い注文板。2016年にUS$72Mハック（2022年までに大半をユーザーに補償）、稼働中。非米国アクティブトレーダーには、Bitfinexは手数料でKrakenと競争力あり、Krakenが提供しないマージン取引を提供。",
       "pros": [
         "最大10倍レバレッジのマージン取引",
         "大口取引向けの深い注文板",
@@ -128,5 +128,5 @@
     "binance-us": "binance.usでサインアップ。ニューヨーク、ハワイ、テキサス、バーモントなど一部州を除き米国大半で利用可 — サインアップ前に確認を。",
     "bitfinex": "bitfinex.comでサインアップ。非米国居住性必要。KYC検証は米国取引所より厳格（3〜7日想定）。出金限度額は検証階層でスケール。"
   },
-  "pinDescription": "ベスト暗号通貨取引所 2026：Coinbase Advanced × Kraken Pro × Gemini Active Trader × Binance.US × Bitfinexを月$10K取引量手数料で比較。"
+  "pinDescription": "ベスト暗号通貨取引所 2026：Coinbase Advanced × Kraken Pro × Gemini Active Trader × Binance.US × Bitfinexを月US$10K取引量手数料で比較。"
 }

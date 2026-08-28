@@ -8,18 +8,18 @@
       "heading": "eSIM、运营商国际漫游包与全球套餐怎么选",
       "paragraphs": [
         "全球套餐（Google Fi、T-Mobile）：主号套餐直接在境外可用，无需额外加购。",
-        "运营商漫游包（Verizon TravelPass）：境外每天 $10（约 ¥72），流量不限量。",
+        "运营商漫游包（Verizon TravelPass）：境外每天 US$10（约 ¥72），流量不限量。",
         "eSIM（Airalo、Holafly）：在主号之外加装对应国家的流量包。"
       ]
     },
     {
       "heading": "按使用场景选择",
       "paragraphs": [
-        "综合最优：Google Fi（$20-80/月，约 ¥145-580）。覆盖 200 多个国家，无需加购。",
-        "eSIM 平台首选：Airalo（$5-30/包，约 ¥36-215）。覆盖 200 多个目的地。",
-        "Verizon 美国用户首选：Verizon TravelPass（$10/天，约 ¥72）。沿用现有套餐出境使用。",
-        "T-Mobile 美国用户首选：T-Mobile Go5G Plus（$90/月，约 ¥650）。215 多个国家每月赠送 5GB。",
-        "不限量 eSIM 首选：Holafly（$6-20/天，约 ¥43-145）。真正不限量。"
+        "综合最优：Google Fi（US$20-80/月，约 ¥145-580）。覆盖 200 多个国家，无需加购。",
+        "eSIM 平台首选：Airalo（US$5-30/包，约 ¥36-215）。覆盖 200 多个目的地。",
+        "Verizon 美国用户首选：Verizon TravelPass（US$10/天，约 ¥72）。沿用现有套餐出境使用。",
+        "T-Mobile 美国用户首选：T-Mobile Go5G Plus（US$90/月，约 ¥650）。215 多个国家每月赠送 5GB。",
+        "不限量 eSIM 首选：Holafly（US$6-20/天，约 ¥43-145）。真正不限量。"
       ]
     }
   ],
@@ -70,14 +70,14 @@
     },
     "verizon-travelpass": {
       "badge": "🇺🇸 Verizon 用户首选",
-      "review": "Verizon TravelPass 适合已有 Verizon 美国套餐的用户。境外每天 $10（约 ¥72）流量不限量，沿用现有套餐，无需另行开通。最适合手里有不限量套餐、偶尔出境的人。",
+      "review": "Verizon TravelPass 适合已有 Verizon 美国套餐的用户。境外每天 US$10（约 ¥72）流量不限量，沿用现有套餐，无需另行开通。最适合手里有不限量套餐、偶尔出境的人。",
       "pros": [
-        "每天 $10（约 ¥72）境外流量不限量",
+        "每天 US$10（约 ¥72）境外流量不限量",
         "沿用现有 Verizon 美国套餐",
         "保留美国原号码"
       ],
       "cons": [
-        "行程一长，每天 $10 累积不便宜",
+        "行程一长，每天 US$10 累积不便宜",
         "仅限现有 Verizon 用户"
       ]
     },
@@ -90,7 +90,7 @@
         "不另收费"
       ],
       "cons": [
-        "需订阅 $90/月（约 ¥650）套餐",
+        "需订阅 US$90/月（约 ¥650）套餐",
         "上限 5GB，重度用户不够用"
       ]
     },
@@ -103,7 +103,7 @@
         "提供按天套餐"
       ],
       "cons": [
-        "每天 $6-20（约 ¥43-145），长途行程成本高",
+        "每天 US$6-20（约 ¥43-145），长途行程成本高",
         "不保留美国原号码"
       ]
     }
@@ -111,7 +111,7 @@
   "offerNotes": {
     "google-fi": "在 fi.google.com 注册。手机需支持 Fi（多数新机型均可）。",
     "airalo-esim": "安装 Airalo App，选择国家、购买流量包，在 App 内装好 eSIM。",
-    "verizon-travelpass": "现有 Verizon 用户在 Verizon App 内开启。手机在境外联网后自动按 $10/天（约 ¥72）计费。",
+    "verizon-travelpass": "现有 Verizon 用户在 Verizon App 内开启。手机在境外联网后自动按 US$10/天（约 ¥72）计费。",
     "tmobile-go5g-plus": "现有 T-Mobile 用户，订阅 Go5G Plus 及以上套餐，出境后自动生效。",
     "holafly-esim": "在 esim.holafly.com 注册。提供按天套餐，激活 eSIM 即可使用。"
   },
@@ -130,7 +130,7 @@
     {
       "label": "偶尔短期出境的 Verizon 用户",
       "offerId": "verizon-travelpass",
-      "reason": "每天 $10（约 ¥72）、无需另行开通，10 天以内的行程沿用现有不限量套餐最划算。"
+      "reason": "每天 US$10（约 ¥72）、无需另行开通，10 天以内的行程沿用现有不限量套餐最划算。"
     },
     {
       "label": "一年出国几次的 T-Mobile 用户",

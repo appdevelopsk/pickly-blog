@@ -21,7 +21,7 @@
     {
       "heading": "Tagihan bulanan sebenarnya",
       "paragraphs": [
-        "Beban kerja yang sama (puncak 4 instance, rata-rata 2 instance, masing-masing 8 vCPU): AWS EC2 $620/bulan (dengan diskon RI), Google Cloud $710/bulan (dengan sustained use discount), Azure $780/bulan (dengan reserved instance), DigitalOcean App Platform $480/bulan, Render $440/bulan.",
+        "Beban kerja yang sama (puncak 4 instance, rata-rata 2 instance, masing-masing 8 vCPU): AWS EC2 US$620/bulan (dengan diskon RI), Google Cloud US$710/bulan (dengan sustained use discount), Azure US$780/bulan (dengan reserved instance), DigitalOcean App Platform US$480/bulan, Render US$440/bulan.",
         "Lapisan PaaS (DigitalOcean, Render) lebih murah dibanding hyperscaler untuk beban kerja yang dapat diprediksi di bawah 16 vCPU. Hyperscaler unggul pada skala besar (20+ instance) berkat program diskon yang lebih dalam. Azure secara konsisten paling mahal di berbagai jenis beban kerja."
       ]
     }
@@ -113,10 +113,10 @@
   },
   "offerNotes": {
     "aws-ec2-cloud": "Daftar di aws.amazon.com. Gunakan AWS Compute Optimizer untuk menyesuaikan ukuran instance.",
-    "google-cloud-compute-engine": "Daftar di cloud.google.com. Kredit gratis $300 untuk akun baru.",
-    "azure-virtual-machines": "Daftar di azure.microsoft.com. Kredit gratis $200 untuk akun baru.",
-    "digitalocean-app-platform": "Daftar di digitalocean.com. Kredit gratis $200 untuk akun baru.",
-    "render-cloud": "Daftar di render.com. Ada paket gratis untuk situs statis; paket berbayar mulai $7/bulan."
+    "google-cloud-compute-engine": "Daftar di cloud.google.com. Kredit gratis US$300 untuk akun baru.",
+    "azure-virtual-machines": "Daftar di azure.microsoft.com. Kredit gratis US$200 untuk akun baru.",
+    "digitalocean-app-platform": "Daftar di digitalocean.com. Kredit gratis US$200 untuk akun baru.",
+    "render-cloud": "Daftar di render.com. Ada paket gratis untuk situs statis; paket berbayar mulai US$7/bulan."
   },
   "pinDescription": "Bingung pilih cloud hosting? Kami bandingkan tagihan asli, cold start, dan kecepatan autoscale AWS EC2, GCP, Azure, DigitalOcean, dan Render — plus kapan platform terkelola lebih hemat daripada VM mentah.",
   "recommendedFor": [
@@ -128,7 +128,7 @@
     {
       "label": "Tim berbujet ketat dengan trafik aplikasi web yang stabil",
       "offerId": "digitalocean-app-platform",
-      "reason": "Dengan $440/bulan untuk beban kerja yang di AWS menelan $620 ke atas, DigitalOcean App Platform memberi tagihan terendah lengkap dengan deploy Git push dan managed Postgres."
+      "reason": "Dengan US$440/bulan untuk beban kerja yang di AWS menelan US$620 ke atas, DigitalOcean App Platform memberi tagihan terendah lengkap dengan deploy Git push dan managed Postgres."
     },
     {
       "label": "Tim engineering yang menjalankan pipeline ML atau analitik data",

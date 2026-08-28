@@ -1,7 +1,7 @@
 {
   "title": "投資プラットフォーム2026：5社を手数料で比較",
-  "description": "Fidelity、Vanguard、Schwab、Robinhood、E*TRADE — コミッション$0時代で比較。インデックスファンド経費率、銀行統合、アクティブ取引ツール、投資家プロフィール別最有力。",
-  "lede": "5プラットフォーム。同じ$0コミッション、大きく異なるエコシステム。経費率、統合機能、投資家プロフィール別最適を比較。",
+  "description": "Fidelity、Vanguard、Schwab、Robinhood、E*TRADE — コミッションUS$0時代で比較。インデックスファンド経費率、銀行統合、アクティブ取引ツール、投資家プロフィール別最有力。",
+  "lede": "5プラットフォーム。同じUS$0コミッション、大きく異なるエコシステム。経費率、統合機能、投資家プロフィール別最適を比較。",
   "methodology": "本比較は机上調査です。公開されている仕様、メーカー資料、第三者によるレビューや試験結果を突き合わせて作成しています。",
   "sections": [
     {
@@ -10,13 +10,13 @@
         "Fidelity ZEROファンド：0.00%（FZROX、FZILX等） — Fidelity口座のみ。",
         "Vanguard ETF：0.03%（VTI）、0.07%（VXUS）、0.03%（BND）。業界最低。",
         "Schwab ETF：0.03%（SCHB）、0.06%（SCHE）、0.03%（SCHZ）。Vanguardと同等。",
-        "他プラットフォーム：$0コミッションで同じETF保有可だが、独自ゼロコストファンド無し。"
+        "他プラットフォーム：US$0コミッションで同じETF保有可だが、独自ゼロコストファンド無し。"
       ]
     },
     {
       "heading": "用途別ベスト",
       "paragraphs": [
-        "総合：Fidelity。$0 ZEROファンド、$0コミッション、24/7電話サポート、広いアセットクラス。",
+        "総合：Fidelity。US$0 ZEROファンド、US$0コミッション、24/7電話サポート、広いアセットクラス。",
         "インデックス投資家：Vanguard。業界最低ETF経費率、インデックス投資の祖。",
         "銀行＋証券：Schwab。世界中ATM無料の統合銀行。",
         "モバイル／カジュアル：Robinhood。最モバイルUX、リサーチツール無し。",
@@ -27,7 +27,7 @@
   "faqs": [
     {
       "q": "プラットフォームはインデックス投資に本当に重要？",
-      "a": "わずかに — 総コストは年約0.01-0.05%差。30年で$200Kなら$1,200-$6,000。重要だが人生は変えない。他のニーズに合うプラットフォームを選ぶ。"
+      "a": "わずかに — 総コストは年約0.01-0.05%差。30年でUS$200KならUS$1,200-US$6,000。重要だが人生は変えない。他のニーズに合うプラットフォームを選ぶ。"
     },
     {
       "q": "プラットフォームを切り替えるべき？",
@@ -35,7 +35,7 @@
     },
     {
       "q": "Robinhoodは安全？",
-      "a": "Yes — 他証券会社と同じSIPC保険、標準$500K保険。2021年GameStop事件はRobinhoodの注文フロー事業モデルを示したが、口座自体は安全。"
+      "a": "Yes — 他証券会社と同じSIPC保険、標準US$500K保険。2021年GameStop事件はRobinhoodの注文フロー事業モデルを示したが、口座自体は安全。"
     },
     {
       "q": "Webull、Public、M1は？",
@@ -45,7 +45,7 @@
   "products": {
     "fidelity-platform": {
       "badge": "🏆 総合最有力",
-      "review": "Fidelityは大半の投資家に最良の総合投資プラットフォーム。最低$0、コミッション$0、FZROX 0.00%経費率（唯一の真ゼロコストファンド）、24/7電話サポート、主要都市に支店。証券、退職、銀行、HSA口座を1箇所でカバー。",
+      "review": "Fidelityは大半の投資家に最良の総合投資プラットフォーム。最低US$0、コミッションUS$0、FZROX 0.00%経費率（唯一の真ゼロコストファンド）、24/7電話サポート、主要都市に支店。証券、退職、銀行、HSA口座を1箇所でカバー。",
       "pros": [
         "FZROX 0.00%経費率",
         "24/7電話＋支店",
@@ -71,7 +71,7 @@
     },
     "schwab-platform": {
       "badge": "🏦 銀行統合最有力",
-      "review": "Schwabは銀行＋証券統合の妥当なピック。コミッション$0、海外取引手数料無しのSchwab Bank当座＋世界中ATM無料。無料Intelligent Portfoliosロボアド。2023年にTD Ameritrade買収 — ThinkOrSwimプラットフォームが現在Schwabの一部。",
+      "review": "Schwabは銀行＋証券統合の妥当なピック。コミッションUS$0、海外取引手数料無しのSchwab Bank当座＋世界中ATM無料。無料Intelligent Portfoliosロボアド。2023年にTD Ameritrade買収 — ThinkOrSwimプラットフォームが現在Schwabの一部。",
       "pros": [
         "銀行＋証券統合",
         "世界中ATM無料",
@@ -84,7 +84,7 @@
     },
     "robinhood-platform": {
       "badge": "📱 モバイルUX最有力",
-      "review": "Robinhoodはモバイルファーストカジュアル投資家に妥当なプラットフォーム。業界最良のモバイルUX、コミッション$0、端数株。Fidelity／Schwab比でリサーチツールと高度機能不足。広範市場ETFをoccasional購入に最良。",
+      "review": "Robinhoodはモバイルファーストカジュアル投資家に妥当なプラットフォーム。業界最良のモバイルUX、コミッションUS$0、端数株。Fidelity／Schwab比でリサーチツールと高度機能不足。広範市場ETFをoccasional購入に最良。",
       "pros": [
         "最良モバイルUX",
         "端数株",
@@ -98,7 +98,7 @@
     },
     "etrade-platform": {
       "badge": "📈 アクティブ最有力",
-      "review": "E*TRADEはアクティブトレーダーに妥当なプラットフォーム。Power E*TRADEプラットフォームが高度チャート提供、オプションフレンドリー、コミッション$0。現在Morgan Stanley所有。Power E*TRADEプラットフォームはアクティブ取引とオプション戦略に堅牢。",
+      "review": "E*TRADEはアクティブトレーダーに妥当なプラットフォーム。Power E*TRADEプラットフォームが高度チャート提供、オプションフレンドリー、コミッションUS$0。現在Morgan Stanley所有。Power E*TRADEプラットフォームはアクティブ取引とオプション戦略に堅牢。",
       "pros": [
         "アクティブ取引用Power E*TRADE",
         "強オプションプラットフォーム",
@@ -114,7 +114,7 @@
     "fidelity-platform": "fidelity.comでサインアップ。ZEROファンド（FZROX、FZILX、FZIPX）はFidelity独占。",
     "vanguard-platform": "investor.vanguard.comでサインアップ。VTIとVXUSが旗艦ETF。",
     "schwab-platform": "schwab.comでサインアップ。Schwab Bank当座が必須機能。",
-    "robinhood-platform": "robinhood.comまたはモバイルアプリでサインアップ。Robinhood Goldサブスク（月$5）でリサーチツール追加。",
+    "robinhood-platform": "robinhood.comまたはモバイルアプリでサインアップ。Robinhood Goldサブスク（月US$5）でリサーチツール追加。",
     "etrade-platform": "us.etrade.comでサインアップ。高度機能にPower E*TRADE（消費者アプリと別）を使用。"
   },
   "pinDescription": "ベスト投資プラットフォーム 2026：Fidelity × Vanguard × Schwab × Robinhood × E*TRADEをインデックス投資家・アクティブトレーダー向けで比較。"

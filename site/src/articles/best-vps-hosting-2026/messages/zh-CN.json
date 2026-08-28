@@ -7,9 +7,9 @@
     {
       "heading": "同档配置的单位价格",
       "paragraphs": [
-        "4 vCPU / 8 GB 内存 / 160 GB SSD 的月费：Hetzner CPX31 约 ¥101、DigitalOcean Premium 约 ¥346、Vultr High Frequency 约 ¥346、Linode Dedicated 约 ¥518、AWS Lightsail 约 ¥576（$80，另计流量）。同等硬件下，Hetzner 便宜 3–5 倍。",
-        "流量：Hetzner 含 20 TB；DigitalOcean 与 Vultr 含 5–6 TB；AWS Lightsail 超出 5 TB 后按 $0.09/GB 计费。流量高的月份，出网费用可能让 AWS 账单翻倍。",
-        "块存储：Hetzner $0.052/GB，DigitalOcean $0.10/GB，AWS EBS $0.10–0.125/GB。数据库一旦变大，存储成本就不能忽视。"
+        "4 vCPU / 8 GB 内存 / 160 GB SSD 的月费：Hetzner CPX31 约 ¥101、DigitalOcean Premium 约 ¥346、Vultr High Frequency 约 ¥346、Linode Dedicated 约 ¥518、AWS Lightsail 约 ¥576（US$80，另计流量）。同等硬件下，Hetzner 便宜 3–5 倍。",
+        "流量：Hetzner 含 20 TB；DigitalOcean 与 Vultr 含 5–6 TB；AWS Lightsail 超出 5 TB 后按 US$0.09/GB 计费。流量高的月份，出网费用可能让 AWS 账单翻倍。",
+        "块存储：Hetzner US$0.052/GB，DigitalOcean US$0.10/GB，AWS EBS US$0.10–0.125/GB。数据库一旦变大，存储成本就不能忽视。"
       ]
     },
     {
@@ -110,7 +110,7 @@
       ],
       "cons": [
         "本次对比中单位配置最贵",
-        "流量超额 $0.09/GB",
+        "流量超额 US$0.09/GB",
         "SLA 弱于 EC2"
       ]
     }

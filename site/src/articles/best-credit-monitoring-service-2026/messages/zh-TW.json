@@ -8,14 +8,14 @@
       "heading": "比較方法說明",
       "paragraphs": [
         "信用監控服務分為兩大陣營：使用VantageScore 3.0（由徵信局為消費者產品開發的模型）的服務，以及顯示真實FICO分數（90%的貸款決策所採用的模型）的服務。您的VantageScore與實際FICO分數之間的差距可達20至40分——在申請房貸或汽車貸款時，這一差距影響極大。",
-        "| 服務 | 月費 | 徵信局覆蓋 | 分數模型 | 身份盜竊保險 |\n|---|---|---|---|---|\n| Experian | $0–$24.99 | 3家（付費版） | FICO 8 | 最高$1M |\n| Credit Karma | 免費 | 2家（TransUnion + Equifax） | VantageScore 3.0 | 無 |\n| IdentityForce | $17.99–$34.99 | 3家 | TransUnion VantageScore | $1M |\n| LifeLock Ultimate Plus | $34.99 | 3家 | TransUnion VantageScore | $1M |\n| myFICO Essentials | $19.95–$39.95 | 1–3家（依方案而定） | FICO 8 | 無 |",
+        "| 服務 | 月費 | 徵信局覆蓋 | 分數模型 | 身份盜竊保險 |\n|---|---|---|---|---|\n| Experian | US$0–US$24.99 | 3家（付費版） | FICO 8 | 最高US$1M |\n| Credit Karma | 免費 | 2家（TransUnion + Equifax） | VantageScore 3.0 | 無 |\n| IdentityForce | US$17.99–US$34.99 | 3家 | TransUnion VantageScore | US$1M |\n| LifeLock Ultimate Plus | US$34.99 | 3家 | TransUnion VantageScore | US$1M |\n| myFICO Essentials | US$19.95–US$39.95 | 1–3家（依方案而定） | FICO 8 | 無 |",
         "警示速度與覆蓋範圍同樣重要，而各家公布的更新頻率差異很大。直接從持有該檔案的徵信局取數的服務，宣稱新查詢或新帳戶可當日通知。以定期報告更新為基礎的免費服務，官方說明為每週更新一次，因此變動可能好幾天都未被回報。對於身份盜竊應對而言，這段時間差決定了是能及早阻止詐騙，還是需要花費數月善後。"
       ]
     },
     {
       "heading": "Experian — 最佳全面付費覆蓋",
       "paragraphs": [
-        "Experian的免費方案提供單一徵信局監控（僅限Experian），每月更新FICO 8分數。付費方案每月$24.99，額外涵蓋另外兩家徵信局、每日FICO分數更新、即時警示，以及最高$1M的身份盜竊保險。所顯示的FICO分數與大多數房貸貸款機構使用的評分模型完全相同，並非替代指標。",
+        "Experian的免費方案提供單一徵信局監控（僅限Experian），每月更新FICO 8分數。付費方案每月US$24.99，額外涵蓋另外兩家徵信局、每日FICO分數更新、即時警示，以及最高US$1M的身份盜竊保險。所顯示的FICO分數與大多數房貸貸款機構使用的評分模型完全相同，並非替代指標。",
         "由於Experian監控的正是自家持有的檔案，其官方說明是對Experian報告進行即時監控——一旦有新查詢或新帳戶被報送，就會立即發出警示。本次比較中沒有其他服務在自家資料上宣稱更短的週期。付費儀表板亦顯示FICO Score 8，以及各行業專用分數：FICO Auto Score 8、FICO Bankcard Score 8。在洽詢汽車貸款時，能夠看到經銷商實際查詢的分數，確實非常實用。",
         "缺點在於從免費升級至付費的價格落差。Experian免費版只顯示Experian的數據，Equifax與TransUnion須付費才能查看。而競爭對手如Credit Karma則免費提供兩家徵信局的數據。若您已在三家徵信局均設定信用凍結，免費Experian版加上每年透過AnnualCreditReport.com拉取報告，對大多數人而言已足夠。"
       ]
@@ -23,7 +23,7 @@
     {
       "heading": "Credit Karma — 大多數人的最佳免費選項",
       "paragraphs": [
-        "Credit Karma採廣告支援模式，會根據您的個人資料顯示信用卡及貸款優惠。這是使用的代價。但每月$0的費用，您可獲得TransUnion與Equifax的監控、每週VantageScore 3.0更新、即時帳戶警示，以及一個頗為實用的信用分數模擬器，可預估還清餘額或開立新帳戶對分數的影響。",
+        "Credit Karma採廣告支援模式，會根據您的個人資料顯示信用卡及貸款優惠。這是使用的代價。但每月US$0的費用，您可獲得TransUnion與Equifax的監控、每週VantageScore 3.0更新、即時帳戶警示，以及一個頗為實用的信用分數模擬器，可預估還清餘額或開立新帳戶對分數的影響。",
         "結構性限制在於覆蓋範圍：Credit Karma只監控TransUnion與Equifax，因此任何只落在Experian檔案上的變動——新查詢、地址變更——根本不會觸發警示。使用者回報警示往往在事發後3至6天才到——遠慢於付費服務——原因在於其採用每週批次拉取數據的方式，而非即時監控。",
         "VantageScore與FICO的差距正是這裡的陷阱：對同一個人，Credit Karma的VantageScore通常比貸款機構實際拉取的FICO 8高出20至25分。這樣的差距看似不大，但一旦銀行的自動審核系統以720為門檻拒絕申請，就截然不同了。對於追蹤分數以把握重大貸款時機的人而言，Credit Karma的數字往往偏樂觀。"
       ]
@@ -31,25 +31,25 @@
     {
       "heading": "IdentityForce UltraSecure+Credit — 最適合身份盜竊受害者",
       "paragraphs": [
-        "IdentityForce的UltraSecure+Credit方案每月$34.99，在身份保護方面超越這裡的所有其他服務：它能在暗網上監控您的社會安全號碼、電郵地址、銀行帳號、護照號碼及醫療ID。護照與醫療ID的覆蓋並不常見——多數競品只做到社會安全號碼與電郵。它亦能監控社交媒體帳號是否遭人冒充。",
-        "$1M保險保單涵蓋薪資損失（每週最高$1,500，共五週）、法律費用，以及直接從帳戶盜走的資金。使用者回報三家徵信局的警示大約在半天內送達——慢於Experian，但快於LifeLock。",
-        "IdentityForce顯示TransUnion VantageScore而非FICO分數，對於每月$34.99的服務而言是明顯缺陷。若您付出這樣的費用，理應獲得貸款機構實際使用的分數。介面設計亦顯得過時——儀表板多年未有實質性重新設計，且行動裝置警示有時比電郵遲到。核心監控功能卓越，但使用者體驗未能與時俱進。"
+        "IdentityForce的UltraSecure+Credit方案每月US$34.99，在身份保護方面超越這裡的所有其他服務：它能在暗網上監控您的社會安全號碼、電郵地址、銀行帳號、護照號碼及醫療ID。護照與醫療ID的覆蓋並不常見——多數競品只做到社會安全號碼與電郵。它亦能監控社交媒體帳號是否遭人冒充。",
+        "US$1M保險保單涵蓋薪資損失（每週最高US$1,500，共五週）、法律費用，以及直接從帳戶盜走的資金。使用者回報三家徵信局的警示大約在半天內送達——慢於Experian，但快於LifeLock。",
+        "IdentityForce顯示TransUnion VantageScore而非FICO分數，對於每月US$34.99的服務而言是明顯缺陷。若您付出這樣的費用，理應獲得貸款機構實際使用的分數。介面設計亦顯得過時——儀表板多年未有實質性重新設計，且行動裝置警示有時比電郵遲到。核心監控功能卓越，但使用者體驗未能與時俱進。"
       ]
     },
     {
       "heading": "LifeLock Ultimate Plus — 覆蓋最廣，價格最高",
       "paragraphs": [
-        "LifeLock的Ultimate Plus方案每月$34.99（透過促銷定價，首年常可折扣至$11.99），是美國宣傳最廣泛的身份保護產品。Norton於2017年收購LifeLock，Ultimate Plus方案將Norton 360防毒軟體與信用監控捆綁銷售——使其成為本次比較中唯一嘗試同時保護線上裝置與信用檔案的服務。",
-        "$1M保障細分為：$25,000律師及專家費用、$25,000被盜資金賠償，以及$1M身份盜竊個人費用補償。全天候美國本土客服專員是真正的差異化優勢：他們將代您致電債權人、提交FTC報告，並處理相關文件。",
-        "LifeLock的信用警示只涵蓋您所訂方案包含的徵信局，而入門方案只監控一家——報送到另外兩家的變動根本不會觸發警示。分數模型採TransUnion VantageScore而非FICO。首年促銷價到期後，$34.99的續費月費是本次比較中最高的——但監控品質並不優於同價位的IdentityForce。您部分是在為Norton捆綁方案及品牌聲譽買單。"
+        "LifeLock的Ultimate Plus方案每月US$34.99（透過促銷定價，首年常可折扣至US$11.99），是美國宣傳最廣泛的身份保護產品。Norton於2017年收購LifeLock，Ultimate Plus方案將Norton 360防毒軟體與信用監控捆綁銷售——使其成為本次比較中唯一嘗試同時保護線上裝置與信用檔案的服務。",
+        "US$1M保障細分為：US$25,000律師及專家費用、US$25,000被盜資金賠償，以及US$1M身份盜竊個人費用補償。全天候美國本土客服專員是真正的差異化優勢：他們將代您致電債權人、提交FTC報告，並處理相關文件。",
+        "LifeLock的信用警示只涵蓋您所訂方案包含的徵信局，而入門方案只監控一家——報送到另外兩家的變動根本不會觸發警示。分數模型採TransUnion VantageScore而非FICO。首年促銷價到期後，US$34.99的續費月費是本次比較中最高的——但監控品質並不優於同價位的IdentityForce。您部分是在為Norton捆綁方案及品牌聲譽買單。"
       ]
     },
     {
       "heading": "myFICO Essentials — 最適合貸款申請與分數準確度",
       "paragraphs": [
-        "myFICO由Fair Isaac Corporation營運——即發明FICO分數的公司。Essentials方案每月$19.95，監控一家徵信局（Equifax），每月更新分數。Premier方案每月$29.95，新增三家徵信局覆蓋與每季更新。Advanced方案每月$39.95，提供三家徵信局監控、每月更新，以及長達24個月的分數歷史圖表。",
+        "myFICO由Fair Isaac Corporation營運——即發明FICO分數的公司。Essentials方案每月US$19.95，監控一家徵信局（Equifax），每月更新分數。Premier方案每月US$29.95，新增三家徵信局覆蓋與每季更新。Advanced方案每月US$39.95，提供三家徵信局監控、每月更新，以及長達24個月的分數歷史圖表。",
         "殺手級功能在於分數深度。myFICO顯示FICO Score 8（基礎模型）及多達28種行業專用FICO版本：FICO Auto Score 2、4、5及8；FICO Mortgage Score；FICO Bankcard Score。把汽車貸款版與房貸版並排比較，才解釋得了經銷商報出的分數與房貸機構採用的分數為何會有落差——這種拆解在這裡其他任何服務中都看不到。",
-        "身份盜竊保護相對薄弱。Essentials或Premier均無$1M保險。使用者回報監控警示需24至48小時——尚可接受，但速度不快。Essentials方案的真正限制在於僅覆蓋一家徵信局：每月$19.95僅監控Equifax性價比不高，因為Experian的免費版已免費提供Experian監控。認真的用戶應直接升級至Premier（每月$29.95）或Advanced（每月$39.95），以充分體現訂閱的價值。"
+        "身份盜竊保護相對薄弱。Essentials或Premier均無US$1M保險。使用者回報監控警示需24至48小時——尚可接受，但速度不快。Essentials方案的真正限制在於僅覆蓋一家徵信局：每月US$19.95僅監控Equifax性價比不高，因為Experian的免費版已免費提供Experian監控。認真的用戶應直接升級至Premier（每月US$29.95）或Advanced（每月US$39.95），以充分體現訂閱的價值。"
       ]
     }
   ],
@@ -75,12 +75,12 @@
       "a": "綜合使用者回報：Experian付費服務最快（數小時內），IdentityForce與LifeLock大致在一天內，myFICO需24至48小時，Credit Karma則落後到數天，因為它採用每週批次拉取而非即時監控。"
     },
     {
-      "q": "$1M身份盜竊保險真的實用嗎？",
-      "a": "部分實用。保險涵蓋有文件可查的損失：被盜資金、法律費用、處理詐騙事宜期間的薪資損失。它不涵蓋網路釣魚詐騙（您主動匯款的情況）、投資詐騙，或無文件佐證的索賠。請仔細閱讀保單條款——標題中的「$1M」通常分拆為多個子上限，例如$25,000法律費用和$1M個人費用。"
+      "q": "US$1M身份盜竊保險真的實用嗎？",
+      "a": "部分實用。保險涵蓋有文件可查的損失：被盜資金、法律費用、處理詐騙事宜期間的薪資損失。它不涵蓋網路釣魚詐騙（您主動匯款的情況）、投資詐騙，或無文件佐證的索賠。請仔細閱讀保單條款——標題中的「US$1M」通常分拆為多個子上限，例如US$25,000法律費用和US$1M個人費用。"
     },
     {
       "q": "若近期準備申請房貸，哪項服務最合適？",
-      "a": "建議選擇myFICO Premier（每月$29.95）或myFICO Advanced（每月$39.95）——因為它們顯示FICO Mortgage Score，其計算方式與FICO Score 8不同。您將能確切看到房貸貸款機構將查詢哪個分數。另一選項是Experian付費版每月$24.99，提供三家徵信局FICO 8監控，且警示速度更快。"
+      "a": "建議選擇myFICO Premier（每月US$29.95）或myFICO Advanced（每月US$39.95）——因為它們顯示FICO Mortgage Score，其計算方式與FICO Score 8不同。您將能確切看到房貸貸款機構將查詢哪個分數。另一選項是Experian付費版每月US$24.99，提供三家徵信局FICO 8監控，且警示速度更快。"
     },
     {
       "q": "可以同時使用多個信用監控服務嗎？",
@@ -88,19 +88,19 @@
     },
     {
       "q": "LifeLock的效果是否如廣告所言？",
-      "a": "LifeLock的監控功能確實有效，但該公司分別於2015年及2022年因誤導性廣告與FTC達成和解——具體而言是宣稱能「預防」而非「偵測」身份盜竊。監控與保險產品本身確實有效；但保障範圍比廣告所暗示的更為有限。尤其是$25,000被盜資金子上限，若涉及重大資產損失則顯得偏低。"
+      "a": "LifeLock的監控功能確實有效，但該公司分別於2015年及2022年因誤導性廣告與FTC達成和解——具體而言是宣稱能「預防」而非「偵測」身份盜竊。監控與保險產品本身確實有效；但保障範圍比廣告所暗示的更為有限。尤其是US$25,000被盜資金子上限，若涉及重大資產損失則顯得偏低。"
     },
     {
       "q": "同時監控三家徵信局的最低成本方案是什麼？",
-      "a": "結合Experian免費版（Experian徵信局，每月FICO 8）與Credit Karma免費版（TransUnion + Equifax，每週VantageScore）。每月$0即可涵蓋三家徵信局。代價在於：Credit Karma警示較慢（3至6天），且VantageScore與FICO有所不同。對於信用狀況穩定的大多數人而言，這樣的組合已相當足夠。"
+      "a": "結合Experian免費版（Experian徵信局，每月FICO 8）與Credit Karma免費版（TransUnion + Equifax，每週VantageScore）。每月US$0即可涵蓋三家徵信局。代價在於：Credit Karma警示較慢（3至6天），且VantageScore與FICO有所不同。對於信用狀況穩定的大多數人而言，這樣的組合已相當足夠。"
     }
   ],
   "offerNotes": {
-    "experian-credit-monitoring": "免費版僅監控Experian，每月更新FICO 8；付費版每月$24.99，新增三家徵信局覆蓋、每日更新及最高$1M身份盜竊保險。",
+    "experian-credit-monitoring": "免費版僅監控Experian，每月更新FICO 8；付費版每月US$24.99，新增三家徵信局覆蓋、每日更新及最高US$1M身份盜竊保險。",
     "credit-karma-free": "完全免費；監控TransUnion與Equifax，每週更新VantageScore 3.0——廣告支援模式，無身份盜竊保險。",
-    "identityforce-credit-monitoring": "UltraSecure+Credit每月$34.99，包含暗網監控、社交媒體監控、社會安全號碼與醫療ID追蹤，以及$1M被盜資金保險。",
-    "lifelock-ultimate-plus": "Norton旗下方案，每月$34.99（首年常可享$11.99優惠）；捆綁Norton 360防毒、三家徵信局監控，以及全天候美國本土身份復原專員服務。",
-    "myfico-essentials": "最低每月$19.95，可存取Equifax的真實FICO分數，包含28種行業專用版本；升級至Premier或Advanced可獲得完整三家徵信局覆蓋。"
+    "identityforce-credit-monitoring": "UltraSecure+Credit每月US$34.99，包含暗網監控、社交媒體監控、社會安全號碼與醫療ID追蹤，以及US$1M被盜資金保險。",
+    "lifelock-ultimate-plus": "Norton旗下方案，每月US$34.99（首年常可享US$11.99優惠）；捆綁Norton 360防毒、三家徵信局監控，以及全天候美國本土身份復原專員服務。",
+    "myfico-essentials": "最低每月US$19.95，可存取Equifax的真實FICO分數，包含28種行業專用版本；升級至Premier或Advanced可獲得完整三家徵信局覆蓋。"
   },
   "pinDescription": "信用分數遭竊，你可能渾然不知！免費vs付費、FICO vs VantageScore，2026年哪個才能最快保護你的身份安全？"
 }

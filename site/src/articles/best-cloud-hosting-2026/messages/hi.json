@@ -21,7 +21,7 @@
     {
       "heading": "असली मासिक बिल",
       "paragraphs": [
-        "एक ही वर्कलोड (पीक पर 4 इंस्टेंस, औसतन 2 इंस्टेंस, हर एक 8 vCPU): AWS EC2 $620/माह (RI छूट सहित), Google Cloud $710/माह (sustained use छूट सहित), Azure $780/माह (रिज़र्व्ड इंस्टेंस सहित), DigitalOcean App Platform $480/माह, Render $440/माह। यानी लगभग ₹37,000 से ₹65,000 प्रति माह का फ़र्क।",
+        "एक ही वर्कलोड (पीक पर 4 इंस्टेंस, औसतन 2 इंस्टेंस, हर एक 8 vCPU): AWS EC2 US$620/माह (RI छूट सहित), Google Cloud US$710/माह (sustained use छूट सहित), Azure US$780/माह (रिज़र्व्ड इंस्टेंस सहित), DigitalOcean App Platform US$480/माह, Render US$440/माह। यानी लगभग ₹37,000 से ₹65,000 प्रति माह का फ़र्क।",
         "16 vCPU से नीचे के अनुमानित वर्कलोड के लिए PaaS परतें (DigitalOcean, Render) हाइपरस्केलर से सस्ती पड़ती हैं। बड़े पैमाने पर (20+ इंस्टेंस) हाइपरस्केलर जीतते हैं, क्योंकि उनके छूट प्रोग्राम कहीं गहरे हैं। कई वर्कलोड में Azure लगातार सबसे महंगा निकला।"
       ]
     }
@@ -113,10 +113,10 @@
   },
   "offerNotes": {
     "aws-ec2-cloud": "aws.amazon.com पर साइन अप करें। इंस्टेंस का सही साइज़ चुनने के लिए AWS Compute Optimizer इस्तेमाल करें।",
-    "google-cloud-compute-engine": "cloud.google.com पर साइन अप करें। नए अकाउंट पर $300 का फ्री क्रेडिट।",
-    "azure-virtual-machines": "azure.microsoft.com पर साइन अप करें। नए अकाउंट पर $200 का फ्री क्रेडिट।",
-    "digitalocean-app-platform": "digitalocean.com पर साइन अप करें। नए अकाउंट पर $200 का फ्री क्रेडिट।",
-    "render-cloud": "render.com पर साइन अप करें। स्टैटिक साइट के लिए फ्री टियर; पेड प्लान $7/माह से शुरू।"
+    "google-cloud-compute-engine": "cloud.google.com पर साइन अप करें। नए अकाउंट पर US$300 का फ्री क्रेडिट।",
+    "azure-virtual-machines": "azure.microsoft.com पर साइन अप करें। नए अकाउंट पर US$200 का फ्री क्रेडिट।",
+    "digitalocean-app-platform": "digitalocean.com पर साइन अप करें। नए अकाउंट पर US$200 का फ्री क्रेडिट।",
+    "render-cloud": "render.com पर साइन अप करें। स्टैटिक साइट के लिए फ्री टियर; पेड प्लान US$7/माह से शुरू।"
   },
   "pinDescription": "क्लाउड होस्टिंग 2026 — AWS, GCP, Azure, DigitalOcean और Render का असली बिल और असली स्पीड। छोटे Next.js ऐप के लिए मैनेज्ड प्लेटफ़ॉर्म कब सस्ता पड़ता है और कब नहीं, पूरी तुलना यहाँ 👉",
   "recommendedFor": [
@@ -128,7 +128,7 @@
     {
       "label": "अनुमानित ट्रैफ़िक वाली, बजट पर चलने वाली टीमें",
       "offerId": "digitalocean-app-platform",
-      "reason": "जो वर्कलोड AWS पर $620+ का पड़ता है, वही DigitalOcean App Platform पर $440/माह में — साथ में Git-push डिप्लॉय और मैनेज्ड Postgres शामिल।"
+      "reason": "जो वर्कलोड AWS पर US$620+ का पड़ता है, वही DigitalOcean App Platform पर US$440/माह में — साथ में Git-push डिप्लॉय और मैनेज्ड Postgres शामिल।"
     },
     {
       "label": "ML पाइपलाइन या डेटा एनालिटिक्स चलाने वाली इंजीनियरिंग टीमें",

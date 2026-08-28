@@ -92,8 +92,8 @@
         "Protocol": "NordWhisper / WireGuard",
         "Jurisdiction": "Panama",
         "Audit": "Deloitte 2024",
-        "Price (intro)": "$3.99/mo",
-        "Price (renewal)": "$4.79/mo"
+        "Price (intro)": "US$3.99/mo",
+        "Price (renewal)": "US$4.79/mo"
       },
       "scores": {
         "Vitesse": 4.7,
@@ -106,14 +106,14 @@
     {
       "offerId": "expressvpn",
       "badge": "Meilleur pour le streaming",
-      "review": "Le protocole Lightway a livré les vitesses soutenues les plus rapides du test — 820 Mbps en moyenne — et a débloqué Netflix US, BBC iPlayer et DAZN Japan chaque jour. À $8,32/mois au renouvellement, c'est le plus cher.",
+      "review": "Le protocole Lightway a livré les vitesses soutenues les plus rapides du test — 820 Mbps en moyenne — et a débloqué Netflix US, BBC iPlayer et DAZN Japan chaque jour. À US$8,32/mois au renouvellement, c'est le plus cher.",
       "pros": [
         "Vitesses soutenues les plus rapides du test sur 30 jours",
         "Débloque tous les grands catalogues de streaming quotidiennement",
         "Lightway-Stealth contourne le DPI"
       ],
       "cons": [
-        "Renouvellement le plus cher à $8,32/mois"
+        "Renouvellement le plus cher à US$8,32/mois"
       ],
       "grade": "A",
       "specs": {
@@ -123,8 +123,8 @@
         "Protocol": "Lightway / Lightway-Stealth",
         "Jurisdiction": "British Virgin Islands",
         "Audit": "Cure53 2024",
-        "Price (intro)": "$6.67/mo",
-        "Price (renewal)": "$8.32/mo"
+        "Price (intro)": "US$6.67/mo",
+        "Price (renewal)": "US$8.32/mo"
       },
       "scores": {
         "Vitesse": 5,
@@ -137,14 +137,14 @@
     {
       "offerId": "surfshark",
       "badge": "Meilleur rapport qualité-prix",
-      "review": "Appareils illimités et $3,99/mois d'introduction font de Surfshark imbattable sur le prix. CleanWeb bloque la plupart des malwares avant téléchargement. Attention : le renouvellement grimpe à $59,76/an.",
+      "review": "Appareils illimités et US$3,99/mois d'introduction font de Surfshark imbattable sur le prix. CleanWeb bloque la plupart des malwares avant téléchargement. Attention : le renouvellement grimpe à US$59,76/an.",
       "pros": [
         "Appareils illimités sur un seul compte",
         "Bloqueur de malwares CleanWeb inclus",
         "Prix d'introduction le plus bas de la comparaison"
       ],
       "cons": [
-        "Le renouvellement automatique monte à ~$59,76/an"
+        "Le renouvellement automatique monte à ~US$59,76/an"
       ],
       "grade": "B+",
       "specs": {
@@ -154,8 +154,8 @@
         "Protocol": "WireGuard / Shadowsocks",
         "Jurisdiction": "Netherlands",
         "Audit": "Cure53 2023",
-        "Price (intro)": "$3.99/mo",
-        "Price (renewal)": "$4.98/mo"
+        "Price (intro)": "US$3.99/mo",
+        "Price (renewal)": "US$4.98/mo"
       },
       "scores": {
         "Vitesse": 4.4,
@@ -185,8 +185,8 @@
         "Protocol": "Stealth / WireGuard",
         "Jurisdiction": "Switzerland",
         "Audit": "SEC Consult 2023",
-        "Price (intro)": "$3.59/mo",
-        "Price (renewal)": "$5.99/mo"
+        "Price (intro)": "US$3.59/mo",
+        "Price (renewal)": "US$5.99/mo"
       },
       "scores": {
         "Vitesse": 4.2,
@@ -243,7 +243,7 @@
     {
       "label": "Pour les utilisateurs soucieux du budget",
       "offerId": "surfshark",
-      "reason": "Appareils illimités à $3,99/mois — le seul VPN ici sans coût par appareil."
+      "reason": "Appareils illimités à US$3,99/mois — le seul VPN ici sans coût par appareil."
     },
     {
       "label": "Pour les utilisateurs dans des régions censurées",

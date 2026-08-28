@@ -7,7 +7,7 @@
     {
       "heading": "Harga vs. biaya sebenarnya",
       "paragraphs": [
-        "Di halaman harga: Bluehost $2,95/bulan (promo awal), SiteGround $5,99/bulan (promo awal), Cloudways mulai $14/bulan, Kinsta $35/bulan, WP Engine $30/bulan. Biaya sesungguhnya setelah perpanjangan: Bluehost $11/bulan, SiteGround $24/bulan. Kinsta dan WP Engine tidak memakai harga promo — angka saat Anda mendaftar itulah yang dibayar di tahun kedua.",
+        "Di halaman harga: Bluehost US$2,95/bulan (promo awal), SiteGround US$5,99/bulan (promo awal), Cloudways mulai US$14/bulan, Kinsta US$35/bulan, WP Engine US$30/bulan. Biaya sesungguhnya setelah perpanjangan: Bluehost US$11/bulan, SiteGround US$24/bulan. Kinsta dan WP Engine tidak memakai harga promo — angka saat Anda mendaftar itulah yang dibayar di tahun kedua.",
         "Batas bandwidth: Kinsta dan WP Engine menagih biaya tambahan bila jumlah pengunjung bulanan melewati kuota paket; SiteGround dan Bluehost justru melakukan throttling. Untuk situs yang sedang tumbuh, kelebihan pemakaian di Kinsta/WP Engine masih bisa diprediksi, sedangkan throttling di hosting murah berarti situs mendadak lambat atau tidak bisa diakses."
       ]
     },
@@ -29,7 +29,7 @@
   ],
   "faqs": [
     {
-      "q": "Apakah Kinsta $35/bulan benar-benar sepadan dibanding Bluehost $2,95?",
+      "q": "Apakah Kinsta US$35/bulan benar-benar sepadan dibanding Bluehost US$2,95?",
       "a": "Kalau situs Anda menghasilkan uang — ya. Selisih TTFB saja sudah cukup mengubah angka konversi. Bluehost cocok untuk situs hobi yang tidak menuntut kecepatan maupun keandalan."
     },
     {
@@ -74,7 +74,7 @@
     },
     "siteground-grow-big": {
       "badge": "🪜 Kelas menengah terbaik",
-      "review": "SiteGround GrowBig adalah pilihan tepat untuk situs yang butuh performa nyata tanpa harga hosting terkelola. Plugin SiteGround Optimizer menangani caching dengan baik, dan lingkungan staging-nya berfungsi sebagaimana mestinya. Harga tahun kedua ($24/bulan) adalah biaya yang sebenarnya. Layak dipilih ketimbang Bluehost, meski tidak secepat Kinsta.",
+      "review": "SiteGround GrowBig adalah pilihan tepat untuk situs yang butuh performa nyata tanpa harga hosting terkelola. Plugin SiteGround Optimizer menangani caching dengan baik, dan lingkungan staging-nya berfungsi sebagaimana mestinya. Harga tahun kedua (US$24/bulan) adalah biaya yang sebenarnya. Layak dipilih ketimbang Bluehost, meski tidak secepat Kinsta.",
       "pros": [
         "Lingkungan staging yang sungguhan",
         "Plugin SiteGround Optimizer bekerja baik",
@@ -135,12 +135,12 @@
     {
       "label": "Pemilik usaha kecil dengan anggaran menengah",
       "offerId": "siteground-grow-big",
-      "reason": "Lingkungan staging dan plugin Optimizer dari SiteGround memberi performa nyata tanpa harus membayar $30+/bulan seperti hosting terkelola."
+      "reason": "Lingkungan staging dan plugin Optimizer dari SiteGround memberi performa nyata tanpa harus membayar US$30+/bulan seperti hosting terkelola."
     },
     {
       "label": "Blogger dan pemula yang baru meluncurkan situs pertama",
       "offerId": "bluehost-choice-plus",
-      "reason": "Dengan harga promo $2,95/bulan dan instalasi WordPress satu klik, Bluehost menghapus semua hambatan untuk situs hobi yang belum menghasilkan."
+      "reason": "Dengan harga promo US$2,95/bulan dan instalasi WordPress satu klik, Bluehost menghapus semua hambatan untuk situs hobi yang belum menghasilkan."
     },
     {
       "label": "Developer dan DevOps engineer yang ingin mengendalikan infrastruktur",

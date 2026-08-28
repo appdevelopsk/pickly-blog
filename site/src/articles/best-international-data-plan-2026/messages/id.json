@@ -8,18 +8,18 @@
       "heading": "eSIM vs. paket tambahan operator vs. paket khusus",
       "paragraphs": [
         "Paket khusus (Google Fi, T-Mobile): paket utama AS Anda tetap berfungsi di luar negeri tanpa perlu tambahan apa pun.",
-        "Paket tambahan operator (Verizon TravelPass): bayar $10/hari untuk data tanpa batas selama di luar negeri.",
+        "Paket tambahan operator (Verizon TravelPass): bayar US$10/hari untuk data tanpa batas selama di luar negeri.",
         "eSIM (Airalo, Holafly): pasang paket khusus per negara berdampingan dengan paket utama Anda."
       ]
     },
     {
       "heading": "Pilihan terbaik untuk tiap kebutuhan",
       "paragraphs": [
-        "Terbaik secara universal: Google Fi ($20-80/bulan). Berfungsi di lebih dari 200 negara, tanpa paket tambahan.",
-        "Marketplace eSIM terbaik: Airalo ($5-30/paket). Lebih dari 200 destinasi.",
-        "Terbaik untuk pelanggan Verizon AS: Verizon TravelPass ($10/hari). Gunakan paket yang sudah ada di luar negeri.",
-        "Terbaik untuk pelanggan T-Mobile AS: T-Mobile Go5G Plus ($90/bulan). 5GB/bulan gratis di lebih dari 215 negara.",
-        "eSIM tanpa batas terbaik: Holafly ($6-20/hari). Data benar-benar tanpa batas."
+        "Terbaik secara universal: Google Fi (US$20-80/bulan). Berfungsi di lebih dari 200 negara, tanpa paket tambahan.",
+        "Marketplace eSIM terbaik: Airalo (US$5-30/paket). Lebih dari 200 destinasi.",
+        "Terbaik untuk pelanggan Verizon AS: Verizon TravelPass (US$10/hari). Gunakan paket yang sudah ada di luar negeri.",
+        "Terbaik untuk pelanggan T-Mobile AS: T-Mobile Go5G Plus (US$90/bulan). 5GB/bulan gratis di lebih dari 215 negara.",
+        "eSIM tanpa batas terbaik: Holafly (US$6-20/hari). Data benar-benar tanpa batas."
       ]
     }
   ],
@@ -70,14 +70,14 @@
     },
     "verizon-travelpass": {
       "badge": "🇺🇸 Terbaik untuk Verizon",
-      "review": "Verizon TravelPass adalah pilihan tepat bagi pelanggan Verizon AS yang sudah ada. Cukup $10/hari untuk data tanpa batas di luar negeri, memakai paket AS yang sudah Anda miliki, tanpa pendaftaran terpisah. Paling menguntungkan jika Anda punya paket unlimited AS dan hanya sesekali bepergian.",
+      "review": "Verizon TravelPass adalah pilihan tepat bagi pelanggan Verizon AS yang sudah ada. Cukup US$10/hari untuk data tanpa batas di luar negeri, memakai paket AS yang sudah Anda miliki, tanpa pendaftaran terpisah. Paling menguntungkan jika Anda punya paket unlimited AS dan hanya sesekali bepergian.",
       "pros": [
-        "$10/hari untuk data tanpa batas di luar negeri",
+        "US$10/hari untuk data tanpa batas di luar negeri",
         "Memakai paket Verizon AS yang sudah ada",
         "Nomor AS tetap aktif"
       ],
       "cons": [
-        "$10/hari terasa berat untuk perjalanan panjang",
+        "US$10/hari terasa berat untuk perjalanan panjang",
         "Hanya untuk pelanggan Verizon yang sudah terdaftar"
       ]
     },
@@ -90,7 +90,7 @@
         "Tanpa biaya tambahan"
       ],
       "cons": [
-        "Mengharuskan paket $90/bulan",
+        "Mengharuskan paket US$90/bulan",
         "Batas 5GB (kurang untuk pemakaian berat)"
       ]
     },
@@ -103,7 +103,7 @@
         "Tersedia paket harian"
       ],
       "cons": [
-        "$6-20/hari terasa berat untuk perjalanan panjang",
+        "US$6-20/hari terasa berat untuk perjalanan panjang",
         "Tidak mempertahankan nomor AS"
       ]
     }
@@ -111,7 +111,7 @@
   "offerNotes": {
     "google-fi": "Daftar di fi.google.com. Ponsel harus kompatibel dengan Fi (sebagian besar ponsel modern sudah).",
     "airalo-esim": "Pasang aplikasi Airalo. Pilih negara, beli paket, lalu pasang eSIM lewat aplikasi.",
-    "verizon-travelpass": "Untuk pelanggan Verizon yang sudah ada — aktifkan lewat aplikasi Verizon. Biaya $10/hari otomatis berlaku begitu ponsel tersambung di luar negeri.",
+    "verizon-travelpass": "Untuk pelanggan Verizon yang sudah ada — aktifkan lewat aplikasi Verizon. Biaya US$10/hari otomatis berlaku begitu ponsel tersambung di luar negeri.",
     "tmobile-go5g-plus": "Untuk pelanggan T-Mobile dengan paket Go5G Plus ke atas — langsung berfungsi otomatis di luar negeri.",
     "holafly-esim": "Daftar di esim.holafly.com. Tersedia paket harian, dipasang melalui aktivasi eSIM."
   },
@@ -130,7 +130,7 @@
     {
       "label": "Pelanggan Verizon yang hanya sesekali bepergian singkat ke luar negeri",
       "offerId": "verizon-travelpass",
-      "reason": "Dengan $10/hari dan tanpa pendaftaran baru, TravelPass menguntungkan untuk perjalanan di bawah 10 hari memakai paket unlimited Verizon yang sudah Anda miliki."
+      "reason": "Dengan US$10/hari dan tanpa pendaftaran baru, TravelPass menguntungkan untuk perjalanan di bawah 10 hari memakai paket unlimited Verizon yang sudah Anda miliki."
     },
     {
       "label": "Pelanggan T-Mobile yang ke luar negeri beberapa kali dalam setahun",

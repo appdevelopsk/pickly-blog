@@ -8,18 +8,18 @@
       "heading": "eSIM vs キャリアアドオン vs 専用プラン",
       "paragraphs": [
         "専用プラン（Google Fi、T-Mobile）：プライマリ米国プランがアドオン無しで海外機能。",
-        "キャリアアドオン（Verizon TravelPass）：海外で無制限データに1日$10。",
+        "キャリアアドオン（Verizon TravelPass）：海外で無制限データに1日US$10。",
         "eSIM（Airalo、Holafly）：プライマリプラン横で国別パッケージ設置。"
       ]
     },
     {
       "heading": "用途別ベスト",
       "paragraphs": [
-        "世界規模：Google Fi（月$20-80）。200以上の国で機能、アドオン無し。",
-        "eSIMマーケットプレイス：Airalo（パッケージ$5-30）。200以上の目的地。",
-        "Verizon顧客：Verizon TravelPass（1日$10）。海外で既存プラン使用。",
-        "T-Mobile顧客：T-Mobile Go5G Plus（月$90）。215以上の国で月5GB無料。",
-        "無制限eSIM：Holafly（1日$6-20）。真の無制限データ。"
+        "世界規模：Google Fi（月US$20-80）。200以上の国で機能、アドオン無し。",
+        "eSIMマーケットプレイス：Airalo（パッケージUS$5-30）。200以上の目的地。",
+        "Verizon顧客：Verizon TravelPass（1日US$10）。海外で既存プラン使用。",
+        "T-Mobile顧客：T-Mobile Go5G Plus（月US$90）。215以上の国で月5GB無料。",
+        "無制限eSIM：Holafly（1日US$6-20）。真の無制限データ。"
       ]
     }
   ],
@@ -70,14 +70,14 @@
     },
     "verizon-travelpass": {
       "badge": "🇺🇸 Verizon最有力",
-      "review": "Verizon TravelPassは既存Verizon米国顧客の妥当な選択。海外無制限データ1日$10、既存米国プラン使用、別サインアップ無し。無制限米国プラン保有＋occasional旅行に最良。",
+      "review": "Verizon TravelPassは既存Verizon米国顧客の妥当な選択。海外無制限データ1日US$10、既存米国プラン使用、別サインアップ無し。無制限米国プラン保有＋occasional旅行に最良。",
       "pros": [
-        "1日$10無制限海外データ",
+        "1日US$10無制限海外データ",
         "既存米国Verizonプラン使用",
         "米国番号アクティブ維持"
       ],
       "cons": [
-        "1日$10は長旅行で積み上がる",
+        "1日US$10は長旅行で積み上がる",
         "既存Verizon顧客のみ"
       ]
     },
@@ -90,7 +90,7 @@
         "追加手数料無し"
       ],
       "cons": [
-        "月$90プラン必要",
+        "月US$90プラン必要",
         "5GB上限（重ユーザーに不足）"
       ]
     },
@@ -103,7 +103,7 @@
         "日次プラン利用可"
       ],
       "cons": [
-        "1日$6-20は長旅行で積み上がる",
+        "1日US$6-20は長旅行で積み上がる",
         "米国番号維持しない"
       ]
     }
@@ -111,7 +111,7 @@
   "offerNotes": {
     "google-fi": "fi.google.comでサインアップ。スマホがFi互換必要（大半のモダンスマホ）。",
     "airalo-esim": "Airaloアプリインストール。国選択、パッケージ購入、アプリ経由eSIMインストール。",
-    "verizon-travelpass": "既存Verizon顧客 — Verizonアプリ経由で有効化。海外でスマホ接続時に1日$10自動。",
+    "verizon-travelpass": "既存Verizon顧客 — Verizonアプリ経由で有効化。海外でスマホ接続時に1日US$10自動。",
     "tmobile-go5g-plus": "Go5G Plus以上の既存T-Mobile顧客 — 海外で自動機能。",
     "holafly-esim": "esim.holafly.comでサインアップ。日次プラン利用可、eSIMアクティベーション経由インストール。"
   },

@@ -56,11 +56,11 @@
     {
       "heading": "실질적인 선택: 어떤 가정에 어떤 허브가 맞나",
       "paragraphs": [
-        "약 $179인 Amazon Echo Hub는 이미 Alexa를 사용 중이며 스마트 스피커 대신 전용 물리적 조작 패널을 원하는 가정에 적합한 선택입니다. 8인치 터치스크린은 벽에 플러시 마운트되어 스마트폰을 열지 않고 조명·자물쇠·온도 조절기·카메라를 대시보드 스타일로 제어합니다. Zigbee, Thread, Matter 라디오를 내장한 최초의 통합 허브 겸 스크린 Alexa 기기입니다. 자동화는 Alexa 앱의 루틴 빌더에서 구성하며, 트리거-액션 규칙에 익숙하지 않은 초보자도 쉽게 사용할 수 있습니다. 솔직한 단점: Z-Wave를 기본 지원하지 않아 보안 기기에 Z-Wave를 사용하는 경우 큰 제약이 되고, 로컬 자동화 처리가 부분적이며, 벽 마운트 설치 시 마운트 지점 근처에 콘센트가 있어야 합니다.",
-        "약 $229인 Google Nest Hub Max는 대형 주방이나 거실 디스플레이로 스마트홈 제어를 원하는 Google Assistant 가정에 적합합니다. 10인치 디스플레이는 맞춤형 콘텐츠(인식된 얼굴별 일정, 출퇴근, 알림)를 위한 Face Match, 스마트폰 없이 호환 Nest 카메라 스트리밍, 유휴 시 Google Photos 주변 디스플레이 기능을 제공합니다. Thread 보더 라우터가 내장되어 있습니다. 솔직한 단점: 모든 자동화가 Google 클라우드를 통해 처리되어 로컬 처리 옵션이 없으며, 이로 인해 조명 자동화 지연이 Apple HomeKit의 50 ms 이하 대비 200~400 ms에 달합니다. Z-Wave는 지원되지 않으며, Google이 Nest Aware Basic 무료 플랜을 결국 중단하고 모든 카메라 기록을 유료 등급으로 전환하겠다고 발표했습니다.",
-        "약 $129인 Samsung SmartThings Station은 가격 대비 이 비교에서 프로토콜 유연성이 가장 높은 허브입니다. Zigbee와 Thread 라디오를 기본 내장하고, Matter 1.2 컨트롤러를 인증받았으며, SmartThings 허브 생태계를 통해 Z-Wave도 지원합니다(Z-Wave가 없는 경우 별도의 SmartThings 허브 필요). SmartThings의 호환 기기 카탈로그(5,000개 이상 인증 기기)는 이 비교에서 가장 방대합니다. 솔직한 단점: SmartThings 앱은 5개 중 신규 사용자가 탐색하기 가장 복잡하고, 로컬 자동화 처리는 공식 지원 기기 핸들러에만 제한되며, Samsung이 SmartThings 허브 하드웨어 세대(v1, v2, v3)를 단종시킨 이력은 장기 투자 관점에서 우려 사항입니다.",
-        "약 $99인 Aeotec Smart Home Hub는 동일 기기에서 진정한 Z-Wave와 Zigbee가 필요하고, 가장 깊은 로컬 처리를 원하며, 다소 기술적인 설정 과정을 감수할 수 있는 구매자에게 적합한 허브입니다. Aeotec은 Samsung이 자사 하드웨어 버전을 단종시킨 후 공식 라이선스를 받은 SmartThings 허브 플랫폼 제조사로, 동일한 SmartThings 펌웨어와 기기 카탈로그 호환성을 가집니다. Z-Wave 700 시리즈와 Zigbee 3.0 라디오가 인증됐으며, Matter 1.3 브리지 기능을 지원합니다. 로컬 처리의 장점은 실질적입니다. Aeotec 허브는 지원 기기 핸들러에 대해 기본적으로 로컬에서 자동화를 실행하므로, 동작 감지 조명이 50 ms 이내에 응답하고 인터넷 장애 시에도 계속 작동합니다. 솔직한 단점: 설정 과정과 SmartThings IDE가 Amazon, Google, Apple의 소비자 친화적 흐름보다 기술적이며, 디스플레이가 없는 소형 박스 형태입니다.",
-        "약 $99인 Apple HomePod mini는 Siri 스피커, HomeKit 허브, Thread 보더 라우터 세 가지 역할을 동시에 원하는 Apple HomeKit 가정에 적합한 선택입니다. HomePod mini는 모든 HomeKit 자동화를 기기에서 로컬로 처리합니다. 개인정보 보호 및 지연 시간 이점이 실질적입니다. Siri 자동화는 50 ms 이내에 작동하고, 인터넷 장애 시에도 계속 기능하며, 가정 행동 데이터가 기기를 벗어나지 않습니다. Thread 보더 라우터로서 HomePod mini는 이 목록에서 가장 안정적인 Thread 구현 중 하나이며, Apple의 HomeKit 액세서리 프로토콜이 암호화된 로컬 기기 통신을 제공합니다. 솔직한 단점: HomeKit 호환 기기 카탈로그(약 3,000개)는 SmartThings나 Alexa보다 훨씬 적고, Siri 음성 어시스턴트는 이 비교에서 복잡한 자연어 쿼리에 가장 약한 어시스턴트입니다. 자동화 상태를 표시하려면 별도의 iPhone이나 iPad가 필요하며, Apple 생태계 밖에서는 허브로서 사실상 가치가 없습니다."
+        "약 US$179인 Amazon Echo Hub는 이미 Alexa를 사용 중이며 스마트 스피커 대신 전용 물리적 조작 패널을 원하는 가정에 적합한 선택입니다. 8인치 터치스크린은 벽에 플러시 마운트되어 스마트폰을 열지 않고 조명·자물쇠·온도 조절기·카메라를 대시보드 스타일로 제어합니다. Zigbee, Thread, Matter 라디오를 내장한 최초의 통합 허브 겸 스크린 Alexa 기기입니다. 자동화는 Alexa 앱의 루틴 빌더에서 구성하며, 트리거-액션 규칙에 익숙하지 않은 초보자도 쉽게 사용할 수 있습니다. 솔직한 단점: Z-Wave를 기본 지원하지 않아 보안 기기에 Z-Wave를 사용하는 경우 큰 제약이 되고, 로컬 자동화 처리가 부분적이며, 벽 마운트 설치 시 마운트 지점 근처에 콘센트가 있어야 합니다.",
+        "약 US$229인 Google Nest Hub Max는 대형 주방이나 거실 디스플레이로 스마트홈 제어를 원하는 Google Assistant 가정에 적합합니다. 10인치 디스플레이는 맞춤형 콘텐츠(인식된 얼굴별 일정, 출퇴근, 알림)를 위한 Face Match, 스마트폰 없이 호환 Nest 카메라 스트리밍, 유휴 시 Google Photos 주변 디스플레이 기능을 제공합니다. Thread 보더 라우터가 내장되어 있습니다. 솔직한 단점: 모든 자동화가 Google 클라우드를 통해 처리되어 로컬 처리 옵션이 없으며, 이로 인해 조명 자동화 지연이 Apple HomeKit의 50 ms 이하 대비 200~400 ms에 달합니다. Z-Wave는 지원되지 않으며, Google이 Nest Aware Basic 무료 플랜을 결국 중단하고 모든 카메라 기록을 유료 등급으로 전환하겠다고 발표했습니다.",
+        "약 US$129인 Samsung SmartThings Station은 가격 대비 이 비교에서 프로토콜 유연성이 가장 높은 허브입니다. Zigbee와 Thread 라디오를 기본 내장하고, Matter 1.2 컨트롤러를 인증받았으며, SmartThings 허브 생태계를 통해 Z-Wave도 지원합니다(Z-Wave가 없는 경우 별도의 SmartThings 허브 필요). SmartThings의 호환 기기 카탈로그(5,000개 이상 인증 기기)는 이 비교에서 가장 방대합니다. 솔직한 단점: SmartThings 앱은 5개 중 신규 사용자가 탐색하기 가장 복잡하고, 로컬 자동화 처리는 공식 지원 기기 핸들러에만 제한되며, Samsung이 SmartThings 허브 하드웨어 세대(v1, v2, v3)를 단종시킨 이력은 장기 투자 관점에서 우려 사항입니다.",
+        "약 US$99인 Aeotec Smart Home Hub는 동일 기기에서 진정한 Z-Wave와 Zigbee가 필요하고, 가장 깊은 로컬 처리를 원하며, 다소 기술적인 설정 과정을 감수할 수 있는 구매자에게 적합한 허브입니다. Aeotec은 Samsung이 자사 하드웨어 버전을 단종시킨 후 공식 라이선스를 받은 SmartThings 허브 플랫폼 제조사로, 동일한 SmartThings 펌웨어와 기기 카탈로그 호환성을 가집니다. Z-Wave 700 시리즈와 Zigbee 3.0 라디오가 인증됐으며, Matter 1.3 브리지 기능을 지원합니다. 로컬 처리의 장점은 실질적입니다. Aeotec 허브는 지원 기기 핸들러에 대해 기본적으로 로컬에서 자동화를 실행하므로, 동작 감지 조명이 50 ms 이내에 응답하고 인터넷 장애 시에도 계속 작동합니다. 솔직한 단점: 설정 과정과 SmartThings IDE가 Amazon, Google, Apple의 소비자 친화적 흐름보다 기술적이며, 디스플레이가 없는 소형 박스 형태입니다.",
+        "약 US$99인 Apple HomePod mini는 Siri 스피커, HomeKit 허브, Thread 보더 라우터 세 가지 역할을 동시에 원하는 Apple HomeKit 가정에 적합한 선택입니다. HomePod mini는 모든 HomeKit 자동화를 기기에서 로컬로 처리합니다. 개인정보 보호 및 지연 시간 이점이 실질적입니다. Siri 자동화는 50 ms 이내에 작동하고, 인터넷 장애 시에도 계속 기능하며, 가정 행동 데이터가 기기를 벗어나지 않습니다. Thread 보더 라우터로서 HomePod mini는 이 목록에서 가장 안정적인 Thread 구현 중 하나이며, Apple의 HomeKit 액세서리 프로토콜이 암호화된 로컬 기기 통신을 제공합니다. 솔직한 단점: HomeKit 호환 기기 카탈로그(약 3,000개)는 SmartThings나 Alexa보다 훨씬 적고, Siri 음성 어시스턴트는 이 비교에서 복잡한 자연어 쿼리에 가장 약한 어시스턴트입니다. 자동화 상태를 표시하려면 별도의 iPhone이나 iPad가 필요하며, Apple 생태계 밖에서는 허브로서 사실상 가치가 없습니다."
       ]
     }
   ],
@@ -145,9 +145,9 @@
       "offerId": "smart-hub-samsung-smartthings",
       "badge": "최광 프로토콜 커버리지",
       "grade": "B+",
-      "review": "Samsung SmartThings Station은 $129에 이 비교에서 가장 넓은 프로토콜을 지원하는 허브입니다. Zigbee와 Thread가 내장되고, Matter 1.2 컨트롤러 인증을 받았으며, 구형 기기 사용자를 위해 페어링된 SmartThings 허브를 통한 Z-Wave를 지원합니다. SmartThings 호환 기기 카탈로그(5,000개 이상 인증 기기)는 이 비교에서 가장 방대합니다. 솔직한 단점: SmartThings 앱은 신규 사용자 기준 5개 중 탐색이 가장 복잡하고, 로컬 자동화 처리는 특정 기기 핸들러에 제한되며, Samsung이 SmartThings 허브 하드웨어 세대를 단종시킨 이력은 장기적인 투자 우려 사항입니다.",
+      "review": "Samsung SmartThings Station은 US$129에 이 비교에서 가장 넓은 프로토콜을 지원하는 허브입니다. Zigbee와 Thread가 내장되고, Matter 1.2 컨트롤러 인증을 받았으며, 구형 기기 사용자를 위해 페어링된 SmartThings 허브를 통한 Z-Wave를 지원합니다. SmartThings 호환 기기 카탈로그(5,000개 이상 인증 기기)는 이 비교에서 가장 방대합니다. 솔직한 단점: SmartThings 앱은 신규 사용자 기준 5개 중 탐색이 가장 복잡하고, 로컬 자동화 처리는 특정 기기 핸들러에 제한되며, Samsung이 SmartThings 허브 하드웨어 세대를 단종시킨 이력은 장기적인 투자 우려 사항입니다.",
       "pros": [
-        "하나의 $129 기기에 Zigbee, Thread, Matter 1.2 통합",
+        "하나의 US$129 기기에 Zigbee, Thread, Matter 1.2 통합",
         "5,000개 이상 호환 인증 기기 — 이 비교에서 가장 방대한 에코시스템",
         "구형 보안 기기를 위해 SmartThings 허브 페어링으로 Z-Wave 사용 가능",
         "SmartThings 자동화 빌더가 복잡한 다중 조건 규칙 지원"
@@ -181,7 +181,7 @@
         "Z-Wave 700과 Zigbee 3.0 모두 하나의 기기에 인증 탑재",
         "이 비교에서 가장 깊은 로컬 처리 — 인터넷 장애 중에도 자동화 실행",
         "Matter 1.3 브리지로 Z-Wave·Zigbee 기기를 모든 Matter 생태계로 연결",
-        "이중 프로토콜 사용자를 위한 $99 최고의 가격 대비 성능"
+        "이중 프로토콜 사용자를 위한 US$99 최고의 가격 대비 성능"
       ],
       "cons": [
         "설정이 소비자 친화적인 Amazon, Google, Apple 흐름보다 기술적",
@@ -207,7 +207,7 @@
       "offerId": "smart-hub-apple-homepod-mini",
       "badge": "Apple HomeKit에 최적",
       "grade": "A",
-      "review": "$99의 Apple HomePod mini는 Siri 스피커, HomeKit 허브, Thread 보더 라우터를 동시에 원하는 Apple HomeKit 가정에 적합한 허브입니다. 모든 HomeKit 자동화가 기기에서 로컬로 처리됩니다. 50 ms 이하의 지연, 인터넷 장애 중에도 계속 기능, 가정 행동 데이터가 기기를 벗어나지 않는 것이 특징입니다. Thread 보더 라우터 구현은 이 목록에서 가장 안정적인 편입니다. 솔직한 단점: HomeKit 호환 기기 카탈로그(약 3,000개)가 SmartThings나 Alexa보다 훨씬 적고, Siri는 복잡한 자연어 쿼리에서 이 목록의 가장 약한 음성 어시스턴트이며, Z-Wave·Zigbee 라디오가 없고, Apple 생태계 밖에서는 허브 가치를 제공하지 않습니다.",
+      "review": "US$99의 Apple HomePod mini는 Siri 스피커, HomeKit 허브, Thread 보더 라우터를 동시에 원하는 Apple HomeKit 가정에 적합한 허브입니다. 모든 HomeKit 자동화가 기기에서 로컬로 처리됩니다. 50 ms 이하의 지연, 인터넷 장애 중에도 계속 기능, 가정 행동 데이터가 기기를 벗어나지 않는 것이 특징입니다. Thread 보더 라우터 구현은 이 목록에서 가장 안정적인 편입니다. 솔직한 단점: HomeKit 호환 기기 카탈로그(약 3,000개)가 SmartThings나 Alexa보다 훨씬 적고, Siri는 복잡한 자연어 쿼리에서 이 목록의 가장 약한 음성 어시스턴트이며, Z-Wave·Zigbee 라디오가 없고, Apple 생태계 밖에서는 허브 가치를 제공하지 않습니다.",
       "pros": [
         "모든 HomeKit 자동화가 로컬 처리 — 50 ms 이하, 인터넷 장애 시에도 작동",
         "Thread 네이티브 Matter 기기를 위한 안정적인 Thread 보더 라우터",
@@ -236,11 +236,11 @@
     }
   ],
   "offerNotes": {
-    "smart-hub-amazon-echo-hub": "Alexa 가정에 최적 — $179의 Zigbee/Thread/Matter 8인치 벽면 패널. Z-Wave 미지원; 로컬 처리 부분적; 마운트 근처 콘센트 필요.",
+    "smart-hub-amazon-echo-hub": "Alexa 가정에 최적 — US$179의 Zigbee/Thread/Matter 8인치 벽면 패널. Z-Wave 미지원; 로컬 처리 부분적; 마운트 근처 콘센트 필요.",
     "smart-hub-google-nest-hub-max": "Google 가정에 최적 디스플레이 — Face Match와 Nest 카메라 스트리밍 10인치 허브. 로컬 자동화 처리 없음; Z-Wave 미지원.",
-    "smart-hub-samsung-smartthings": "$129 최광 프로토콜 커버리지 — Zigbee/Thread/Matter/Z-Wave(허브 경유). 앱 복잡도 최고; 하드웨어 단종 리스크.",
-    "smart-hub-aeotec-smart-home-hub": "Z-Wave + 로컬 처리에 최적 — $99의 Z-Wave 700, Zigbee 3.0, Matter 1.3. 가장 기술적인 설정; 디스플레이 없음.",
-    "smart-hub-apple-homepod-mini": "HomeKit에 최적 — $99의 완전 로컬 자동화, 안정적인 Thread 보더 라우팅. 가장 작은 기기 카탈로그; Z-Wave·Zigbee 없음."
+    "smart-hub-samsung-smartthings": "US$129 최광 프로토콜 커버리지 — Zigbee/Thread/Matter/Z-Wave(허브 경유). 앱 복잡도 최고; 하드웨어 단종 리스크.",
+    "smart-hub-aeotec-smart-home-hub": "Z-Wave + 로컬 처리에 최적 — US$99의 Z-Wave 700, Zigbee 3.0, Matter 1.3. 가장 기술적인 설정; 디스플레이 없음.",
+    "smart-hub-apple-homepod-mini": "HomeKit에 최적 — US$99의 완전 로컬 자동화, 안정적인 Thread 보더 라우팅. 가장 작은 기기 카탈로그; Z-Wave·Zigbee 없음."
   },
   "pinDescription": "2026년 스마트홈 허브 5종 비교: Amazon Echo Hub 벽면 패널, Google Nest Hub Max 디스플레이, SmartThings 프로토콜 폭, Aeotec Z-Wave 로컬 처리, Apple HomePod mini HomeKit 허브. 어떤 것이 모든 스마트 기기를 실제로 연결할까요?"
 }

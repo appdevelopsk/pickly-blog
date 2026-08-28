@@ -7,16 +7,16 @@
     {
       "heading": "同補償の保険料",
       "paragraphs": [
-        "5州平均年間保険料：Geico $1,380、Progressive $1,490、State Farm $1,560、Liberty Mutual $1,710、USAA $980（軍関係者のみ）。州別差異：フロリダ +35%、カリフォルニア +20%、テキサスがベースライン、イリノイ -10%、ニューヨーク +25%。",
+        "5州平均年間保険料：Geico US$1,380、Progressive US$1,490、State Farm US$1,560、Liberty Mutual US$1,710、USAA US$980（軍関係者のみ）。州別差異：フロリダ +35%、カリフォルニア +20%、テキサスがベースライン、イリノイ -10%、ニューヨーク +25%。",
         "テレマティクス割引：Progressive Snapshot 10-30%、State Farm Drive Safe 15-25%、Geico DriveEasy 15-20%、Liberty Mutual RightTrack 5-30%。USAAはテレマティクス無料込み。慎重運転なら割引は本物 — 急ブレーキは罰される。"
       ]
     },
     {
       "heading": "補償の差",
       "paragraphs": [
-        "事故免除（初回過失事故後の値上げなし）：Liberty Mutual無料込み、Geicoは$50／年追加、Progressiveは5年無事故後に組込、State Farmは$30／年、USAAは込み。",
-        "減少免責（請求なしで年$100減）：Allstateが最良（比較対象外）、Liberty Mutualは無料、Progressiveは$25／年。",
-        "ライドシェア補償：Geico（月$14-21追加）、Progressive（月$15-25）、State Farm（月$25-50）。Liberty MutualとUSAAは限定可用性。"
+        "事故免除（初回過失事故後の値上げなし）：Liberty Mutual無料込み、GeicoはUS$50／年追加、Progressiveは5年無事故後に組込、State FarmはUS$30／年、USAAは込み。",
+        "減少免責（請求なしで年US$100減）：Allstateが最良（比較対象外）、Liberty Mutualは無料、ProgressiveはUS$25／年。",
+        "ライドシェア補償：Geico（月US$14-21追加）、Progressive（月US$15-25）、State Farm（月US$25-50）。Liberty MutualとUSAAは限定可用性。"
       ]
     },
     {
@@ -37,8 +37,8 @@
       "a": "慎重運転（急ブレーキなし、深夜運転なし）ならイエス。割引は本物（10-30%）。乱暴な運転ならノー — テレマティクスで保険料が上がる可能性。"
     },
     {
-      "q": "$500 vs $1,000免責は？",
-      "a": "高い免責で保険料約10-15%節約。緊急積立金$1,000ある人には価値あり、ない人には不向き。"
+      "q": "US$500 vs US$1,000免責は？",
+      "a": "高い免責で保険料約10-15%節約。緊急積立金US$1,000ある人には価値あり、ない人には不向き。"
     },
     {
       "q": "フロリダがなぜそんなに高い？",
@@ -87,7 +87,7 @@
     },
     "usaa-auto": {
       "badge": "🪖 軍最有力",
-      "review": "USAA Autoは最安オプション（平均$980）だが軍関係者であることが必要。JD Power #1 顧客満足度を毎年獲得。テレマティクス無料込み。請求支払が寛容。",
+      "review": "USAA Autoは最安オプション（平均US$980）だが軍関係者であることが必要。JD Power #1 顧客満足度を毎年獲得。テレマティクス無料込み。請求支払が寛容。",
       "pros": [
         "最安保険料",
         "JD Power #1 満足度",
@@ -100,7 +100,7 @@
     },
     "liberty-mutual-auto": {
       "badge": "🎁 事故免除最有力",
-      "review": "Liberty Mutual Autoは事故免除と減少免責の両方を無料で込み。カテゴリで最も寛容な標準機能。ただし、最高保険料（平均$1,710）でJD Power #16 請求。機能対コストのトレードオフは議論余地あり。",
+      "review": "Liberty Mutual Autoは事故免除と減少免責の両方を無料で込み。カテゴリで最も寛容な標準機能。ただし、最高保険料（平均US$1,710）でJD Power #16 請求。機能対コストのトレードオフは議論余地あり。",
       "pros": [
         "事故免除無料込み",
         "減少免責無料込み",

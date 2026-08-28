@@ -7,8 +7,8 @@
     {
       "heading": "Total biaya yang keluar dalam setahun",
       "paragraphs": [
-        "Total biaya tahun pertama (premi + biaya sendiri untuk layanan gigi senilai $2.600): Delta Dental $1.200, Cigna 1500 $1.150, Spirit Dental $1.050 (tanpa masa tunggu untuk tindakan besar), Humana Loyalty $1.300, DenteMax $1.180.",
-        "DenteMax (program diskon, bukan asuransi) hanya memangkas $400 dari layanan senilai $2.600 tersebut, tetapi preminya jauh lebih murah. Biaya bersihnya mirip dengan asuransi pada tahun pertama.",
+        "Total biaya tahun pertama (premi + biaya sendiri untuk layanan gigi senilai US$2.600): Delta Dental US$1.200, Cigna 1500 US$1.150, Spirit Dental US$1.050 (tanpa masa tunggu untuk tindakan besar), Humana Loyalty US$1.300, DenteMax US$1.180.",
+        "DenteMax (program diskon, bukan asuransi) hanya memangkas US$400 dari layanan senilai US$2.600 tersebut, tetapi preminya jauh lebih murah. Biaya bersihnya mirip dengan asuransi pada tahun pertama.",
         "Selisih di tahun kedua: program asuransi (Delta, Cigna, Humana) diperpanjang dengan cakupan yang sama. Keunggulan tanpa masa tunggu milik Spirit Dental jadi tidak relevan lagi setelah tahun pertama. DenteMax tetap murah, tetapi manfaatnya mentok di persentase diskonnya."
       ]
     },
@@ -44,7 +44,7 @@
     },
     {
       "q": "Kenapa program asuransi gigi begitu berbeda dari asuransi kesehatan?",
-      "a": "Batas tahunannya jauh lebih kecil ($1.000-2.000 dibanding asuransi kesehatan yang bisa $100 ribu ke atas), ada masa tunggu untuk tindakan besar, dan struktur manfaatnya lebih sederhana. Asuransi gigi lebih mirip kontrak perawatan berbayar di muka."
+      "a": "Batas tahunannya jauh lebih kecil (US$1.000-2.000 dibanding asuransi kesehatan yang bisa US$100 ribu ke atas), ada masa tunggu untuk tindakan besar, dan struktur manfaatnya lebih sederhana. Asuransi gigi lebih mirip kontrak perawatan berbayar di muka."
     },
     {
       "q": "Perlukah saya menambah manfaat gigi lewat kantor?",
@@ -54,7 +54,7 @@
   "products": {
     "delta-dental-individual": {
       "badge": "🏆 Pilihan umum terbaik",
-      "review": "Delta Dental Individual adalah pilihan tepat untuk sebagian besar orang dewasa. Jaringan dokter gigi terbesar di AS (3 dari 4 dokter gigi), tanggungan bersama 80% untuk perawatan preventif dan tindakan dasar, dengan batas tahunan $1.000-2.000. Rekomendasi standar untuk kebutuhan gigi pada umumnya.",
+      "review": "Delta Dental Individual adalah pilihan tepat untuk sebagian besar orang dewasa. Jaringan dokter gigi terbesar di AS (3 dari 4 dokter gigi), tanggungan bersama 80% untuk perawatan preventif dan tindakan dasar, dengan batas tahunan US$1.000-2.000. Rekomendasi standar untuk kebutuhan gigi pada umumnya.",
       "pros": [
         "Jaringan dokter gigi terluas",
         "Tanggungan bersama 80% sebagai dasar",
@@ -67,11 +67,11 @@
     },
     "cigna-dental-1500": {
       "badge": "🎯 Preventif terbaik",
-      "review": "Cigna Dental 1500 adalah pilihan tepat kalau yang Anda cari terutama perawatan preventif. Ditanggung 100% sejak awal, tanpa masa tunggu untuk pembersihan karang gigi. Batas tahunan $1.500. Jaringannya kuat di seluruh negeri.",
+      "review": "Cigna Dental 1500 adalah pilihan tepat kalau yang Anda cari terutama perawatan preventif. Ditanggung 100% sejak awal, tanpa masa tunggu untuk pembersihan karang gigi. Batas tahunan US$1.500. Jaringannya kuat di seluruh negeri.",
       "pros": [
         "Perawatan preventif 100% sejak awal",
         "Jaringan nasional yang kuat",
-        "Batas tahunan $1.500"
+        "Batas tahunan US$1.500"
       ],
       "cons": [
         "Masa tunggu 6 bulan untuk tindakan dasar",
@@ -80,20 +80,20 @@
     },
     "spirit-dental-no-waiting": {
       "badge": "⚡ Terbaik tanpa masa tunggu",
-      "review": "Spirit Dental No-Waiting Plan adalah pilihan tepat kalau Anda butuh tindakan gigi besar SEKARANG. Nol masa tunggu untuk perawatan saluran akar, mahkota gigi, dan gigi palsu. Preminya lebih tinggi ($45-110/bulan), tetapi tindakan besar bisa dipakai sejak hari pertama. Batas tahunan $5.000.",
+      "review": "Spirit Dental No-Waiting Plan adalah pilihan tepat kalau Anda butuh tindakan gigi besar SEKARANG. Nol masa tunggu untuk perawatan saluran akar, mahkota gigi, dan gigi palsu. Preminya lebih tinggi (US$45-110/bulan), tetapi tindakan besar bisa dipakai sejak hari pertama. Batas tahunan US$5.000.",
       "pros": [
         "Nol masa tunggu untuk tindakan besar",
-        "Batas tahunan $5.000 (tertinggi)",
+        "Batas tahunan US$5.000 (tertinggi)",
         "Pilihan kuat kalau butuh tindakan segera"
       ],
       "cons": [
-        "$45-110/bulan (premi mahal)",
+        "US$45-110/bulan (premi mahal)",
         "Jaringan PPO lebih kecil"
       ]
     },
     "humana-dental-loyalty-plus": {
       "badge": "📈 Terbaik jangka panjang",
-      "review": "Humana Dental Loyalty Plus adalah pilihan tepat kalau Anda berencana bertahan di satu program dalam jangka panjang. Batas $1.500 di tahun pertama, naik ke $2.000 lebih pada tahun ketiga bila tanpa klaim. Bonus loyalitasnya unik, tetapi hanya berlaku selama Anda tidak memakai asuransinya.",
+      "review": "Humana Dental Loyalty Plus adalah pilihan tepat kalau Anda berencana bertahan di satu program dalam jangka panjang. Batas US$1.500 di tahun pertama, naik ke US$2.000 lebih pada tahun ketiga bila tanpa klaim. Bonus loyalitasnya unik, tetapi hanya berlaku selama Anda tidak memakai asuransinya.",
       "pros": [
         "Batas tahunan naik seiring waktu",
         "Jaringan cukup memadai",
@@ -106,11 +106,11 @@
     },
     "dentemax-discount-plan": {
       "badge": "💸 Terbaik untuk pemakaian intens",
-      "review": "DenteMax Dental Discount Plan adalah pilihan tepat kalau kebutuhan gigi Anda berkelanjutan dan tidak akan cukup ditampung batas tahunan. Ini BUKAN asuransi — Anda membayar tarif diskon di dokter gigi yang bekerja sama. Tanpa batas atas, tanpa masa tunggu, $15-25/bulan.",
+      "review": "DenteMax Dental Discount Plan adalah pilihan tepat kalau kebutuhan gigi Anda berkelanjutan dan tidak akan cukup ditampung batas tahunan. Ini BUKAN asuransi — Anda membayar tarif diskon di dokter gigi yang bekerja sama. Tanpa batas atas, tanpa masa tunggu, US$15-25/bulan.",
       "pros": [
         "Tanpa batas tahunan",
         "Tanpa masa tunggu",
-        "Premi murah $15-25/bulan"
+        "Premi murah US$15-25/bulan"
       ],
       "cons": [
         "Bukan asuransi (Anda membayar tarif diskon)",
@@ -145,12 +145,12 @@
     {
       "label": "Orang dewasa muda yang berencana bertahan di satu program",
       "offerId": "humana-dental-loyalty-plus",
-      "reason": "Batas tahunan Humana naik dari $1.500 menjadi $2.000 lebih pada tahun ketiga bagi peserta tanpa klaim, sebagai imbalan bertahan lama."
+      "reason": "Batas tahunan Humana naik dari US$1.500 menjadi US$2.000 lebih pada tahun ketiga bagi peserta tanpa klaim, sebagai imbalan bertahan lama."
     },
     {
       "label": "Pasien dengan kebutuhan gigi berkelanjutan atau bertumpuk",
       "offerId": "dentemax-discount-plan",
-      "reason": "Tanpa batas tahunan, diskon tetap berlaku meski biaya layanan sudah melewati $2.000 — berbeda dari asuransi berplafon yang berhenti menanggung di tengah perawatan."
+      "reason": "Tanpa batas tahunan, diskon tetap berlaku meski biaya layanan sudah melewati US$2.000 — berbeda dari asuransi berplafon yang berhenti menanggung di tengah perawatan."
     }
   ]
 }

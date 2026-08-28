@@ -15,14 +15,14 @@
       "paragraphs": [
         "Protokol yang tahan DPI (Deep Packet Inspection) beralih dari niche menjadi standar. Stealth dari Proton, NordWhisper dari NordVPN, dan Lightway-Stealth dari ExpressVPN kini semuanya berhasil mengalahkan inspeksi paket mendalam yang digunakan di Iran, China, dan (sejak undang-undang November 2025) Rusia. Mullvad masih mengandalkan fallback WireGuard-over-TCP miliknya, yang berfungsi tetapi lebih lambat.",
         "Paket gratis menjadi layak untuk penggunaan santai. Proton VPN Free kini memberikan data tanpa batas di tiga negara, tanpa iklan. Ini pertama kalinya VPN gratis melewati ambang batas 'aman untuk direkomendasikan' tanpa syarat tersembunyi.",
-        "Harga menjadi lebih rumit. Tarif headline turun (ExpressVPN $8,32/bulan, Surfshark $3,99/bulan) tetapi harga perpanjangan otomatis melonjak 15-30% di seluruh industri. Kami mencantumkan harga perpanjangan di samping harga awal di bawah ini."
+        "Harga menjadi lebih rumit. Tarif headline turun (ExpressVPN US$8,32/bulan, Surfshark US$3,99/bulan) tetapi harga perpanjangan otomatis melonjak 15-30% di seluruh industri. Kami mencantumkan harga perpanjangan di samping harga awal di bawah ini."
       ]
     },
     {
       "heading": "Di mana menggunakan masing-masing",
       "paragraphs": [
         "Jika Anda suka streaming, ExpressVPN membuka lebih banyak katalog secara lebih andal dibanding yang lain. Netflix US, BBC iPlayer, dan DAZN Japan semuanya konsisten dilaporkan berfungsi oleh pelacak akses streaming. NordVPN berada di posisi kedua yang dekat.",
-        "Jika Anda sensitif terhadap harga, Surfshark seharga $3,99/bulan dengan perangkat tak terbatas adalah pilihan yang jelas. Kekurangannya ada pada perpanjangan: $59,76/tahun setelah periode awal. Pasang pengingat kalender.",
+        "Jika Anda sensitif terhadap harga, Surfshark seharga US$3,99/bulan dengan perangkat tak terbatas adalah pilihan yang jelas. Kekurangannya ada pada perpanjangan: US$59,76/tahun setelah periode awal. Pasang pengingat kalender.",
         "Jika Anda berada di negara dengan sensor internet atau sekadar sangat berhati-hati soal privasi, Stealth dari Proton VPN adalah opsi bypass yang paling banyak dilaporkan berhasil, dan hukum privasi Swiss adalah yang terkuat di blok Eropa. Pilih Mullvad jika Anda juga ingin membayar tunai.",
         "Jika Anda ingin satu VPN untuk mengcover seluruh rumah tangga — ponsel, smart TV, konsol game, laptop keluarga — Meshnet dari NordVPN (kini gratis) ditambah enam koneksi simultan adalah setup yang paling tanpa repot."
       ]
@@ -64,7 +64,7 @@
   "offerNotes": {
     "nordvpn": "Paling serba bisa — pilih ini jika Anda ingin satu VPN dan tidak mau repot memikirkannya.",
     "expressvpn": "Terbaik untuk streaming — Netflix US, BBC iPlayer, dan DAZN konsisten dilaporkan terbuka blokirnya.",
-    "surfshark": "Nilai terbaik — $3,99/bulan dan perangkat tak terbatas. Perhatikan harga perpanjangan otomatis.",
+    "surfshark": "Nilai terbaik — US$3,99/bulan dan perangkat tak terbatas. Perhatikan harga perpanjangan otomatis.",
     "protonvpn": "Terbaik untuk privasi dan wilayah tersensor — protokol Stealth mengalahkan DPI di China, Iran, Rusia.",
     "mullvad": "Terbaik untuk privasi ekstrem — flat €5/bulan, menerima tunai dan Monero, tanpa trik pemasaran."
   },
@@ -91,8 +91,8 @@
         "Protocol": "NordWhisper / WireGuard",
         "Jurisdiction": "Panama",
         "Audit": "Deloitte 2024",
-        "Price (intro)": "$3,99/bulan",
-        "Price (renewal)": "$4,79/bulan"
+        "Price (intro)": "US$3,99/bulan",
+        "Price (renewal)": "US$4,79/bulan"
       },
       "scores": {
         "Speed": 4.7,
@@ -105,14 +105,14 @@
     {
       "offerId": "expressvpn",
       "badge": "Terbaik untuk Streaming",
-      "review": "Lightway secara konsisten menjadi salah satu protokol tercepat dalam uji laboratorium independen — kecepatan berkelanjutan di kelas 800 Mbps pada jalur gigabit — dan pelacak akses streaming melaporkannya membuka blokir Netflix US, BBC iPlayer, dan DAZN Japan secara konsisten hari demi hari. Dengan harga $8,32/bulan saat perpanjangan, ini yang termahal di sini.",
+      "review": "Lightway secara konsisten menjadi salah satu protokol tercepat dalam uji laboratorium independen — kecepatan berkelanjutan di kelas 800 Mbps pada jalur gigabit — dan pelacak akses streaming melaporkannya membuka blokir Netflix US, BBC iPlayer, dan DAZN Japan secara konsisten hari demi hari. Dengan harga US$8,32/bulan saat perpanjangan, ini yang termahal di sini.",
       "pros": [
         "Kecepatan berkelanjutan tercepat dalam uji laboratorium independen",
         "Konsisten dilaporkan membuka blokir semua katalog streaming utama",
         "Lightway-Stealth mengalahkan DPI"
       ],
       "cons": [
-        "Paling mahal saat perpanjangan di $8,32/bulan"
+        "Paling mahal saat perpanjangan di US$8,32/bulan"
       ],
       "grade": "A",
       "specs": {
@@ -122,8 +122,8 @@
         "Protocol": "Lightway / Lightway-Stealth",
         "Jurisdiction": "British Virgin Islands",
         "Audit": "Cure53 2024",
-        "Price (intro)": "$6,67/bulan",
-        "Price (renewal)": "$8,32/bulan"
+        "Price (intro)": "US$6,67/bulan",
+        "Price (renewal)": "US$8,32/bulan"
       },
       "scores": {
         "Speed": 5.0,
@@ -136,14 +136,14 @@
     {
       "offerId": "surfshark",
       "badge": "Nilai Terbaik",
-      "review": "Perangkat simultan tak terbatas dan tarif awal $3,99/bulan membuat Surfshark tak tertandingi dalam hal harga. CleanWeb memblokir sebagian besar malware sebelum diunduh. Pasang pengingat kalender — harga perpanjangan melonjak menjadi $59,76/tahun.",
+      "review": "Perangkat simultan tak terbatas dan tarif awal US$3,99/bulan membuat Surfshark tak tertandingi dalam hal harga. CleanWeb memblokir sebagian besar malware sebelum diunduh. Pasang pengingat kalender — harga perpanjangan melonjak menjadi US$59,76/tahun.",
       "pros": [
         "Perangkat tak terbatas dalam satu akun",
         "Pemblokir malware CleanWeb termasuk",
         "Harga awal terendah dalam perbandingan ini"
       ],
       "cons": [
-        "Harga perpanjangan otomatis melonjak menjadi ~$59,76/tahun"
+        "Harga perpanjangan otomatis melonjak menjadi ~US$59,76/tahun"
       ],
       "grade": "B+",
       "specs": {
@@ -153,8 +153,8 @@
         "Protocol": "WireGuard / Shadowsocks",
         "Jurisdiction": "Belanda",
         "Audit": "Cure53 2023",
-        "Price (intro)": "$3,99/bulan",
-        "Price (renewal)": "$4,98/bulan"
+        "Price (intro)": "US$3,99/bulan",
+        "Price (renewal)": "US$4,98/bulan"
       },
       "scores": {
         "Speed": 4.4,
@@ -184,8 +184,8 @@
         "Protocol": "Stealth / WireGuard",
         "Jurisdiction": "Swiss",
         "Audit": "SEC Consult 2023",
-        "Price (intro)": "$3,59/bulan",
-        "Price (renewal)": "$5,99/bulan"
+        "Price (intro)": "US$3,59/bulan",
+        "Price (renewal)": "US$5,99/bulan"
       },
       "scores": {
         "Speed": 4.2,
@@ -242,7 +242,7 @@
     {
       "label": "Untuk pengguna yang sadar anggaran",
       "offerId": "surfshark",
-      "reason": "Perangkat tak terbatas dengan harga awal $3,99/bulan — satu-satunya VPN di sini yang tidak pernah mengharuskan bayar per perangkat."
+      "reason": "Perangkat tak terbatas dengan harga awal US$3,99/bulan — satu-satunya VPN di sini yang tidak pernah mengharuskan bayar per perangkat."
     },
     {
       "label": "Untuk pengguna di wilayah tersensor",

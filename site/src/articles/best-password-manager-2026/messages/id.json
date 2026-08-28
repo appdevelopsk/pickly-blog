@@ -30,7 +30,7 @@
   "faqs": [
     {
       "q": "1Password atau Bitwarden?",
-      "a": "Pilih 1Password jika Anda ingin pengalaman pemakaian terbaik di kelasnya dan tidak keberatan membayar $4,99/bulan untuk 5 pengguna. Pilih Bitwarden jika Anda menginginkan sumber terbuka dengan harga sangat murah (paket premium $10/tahun sudah mencakup TOTP)."
+      "a": "Pilih 1Password jika Anda ingin pengalaman pemakaian terbaik di kelasnya dan tidak keberatan membayar US$4,99/bulan untuk 5 pengguna. Pilih Bitwarden jika Anda menginginkan sumber terbuka dengan harga sangat murah (paket premium US$10/tahun sudah mencakup TOTP)."
     },
     {
       "q": "Apakah Apple Passwords sudah cukup?",
@@ -42,29 +42,29 @@
     },
     {
       "q": "Gratis atau berbayar?",
-      "a": "Paket gratis (Bitwarden gratis, Apple Passwords gratis) memang berfungsi, tetapi tidak menyediakan: pembuatan TOTP, pemantauan dark web, berbagi dengan keluarga, dan akses darurat. Bagi sebagian besar pengguna, biaya $10-60/tahun itu sepadan."
+      "a": "Paket gratis (Bitwarden gratis, Apple Passwords gratis) memang berfungsi, tetapi tidak menyediakan: pembuatan TOTP, pemantauan dark web, berbagi dengan keluarga, dan akses darurat. Bagi sebagian besar pengguna, biaya US$10-60/tahun itu sepadan."
     }
   ],
   "products": {
     "1password-families": {
       "badge": "🏆 Terbaik secara keseluruhan",
-      "review": "1Password Families adalah pilihan tepat bagi sebagian besar pengguna. Seharga $4,99/bulan untuk 5 pengguna, pengalaman pemakaian terbaik di kelasnya, peringatan kebocoran Watchtower, Travel Mode (menyembunyikan brankas sensitif saat melintasi perbatasan), serta Secrets Automation untuk tim pengembang. Rata-rata sinkronisasi lintas platform 4 detik.",
+      "review": "1Password Families adalah pilihan tepat bagi sebagian besar pengguna. Seharga US$4,99/bulan untuk 5 pengguna, pengalaman pemakaian terbaik di kelasnya, peringatan kebocoran Watchtower, Travel Mode (menyembunyikan brankas sensitif saat melintasi perbatasan), serta Secrets Automation untuk tim pengembang. Rata-rata sinkronisasi lintas platform 4 detik.",
       "pros": [
         "Pengalaman pemakaian terbaik di kelasnya",
         "Peringatan kebocoran Watchtower",
         "Lintas platform"
       ],
       "cons": [
-        "$4,99/bulan untuk perorangan ($60/tahun)",
+        "US$4,99/bulan untuk perorangan (US$60/tahun)",
         "Tidak ada paket gratis"
       ]
     },
     "bitwarden-premium": {
       "badge": "💸 Sumber terbuka terbaik",
-      "review": "Bitwarden Premium adalah pilihan tepat bagi pendukung perangkat lunak sumber terbuka dan pengguna berbujet sangat terbatas. Paket premium $10/tahun (TOTP, akses darurat, lampiran berkas), sementara paket gratisnya sudah mencakup kebutuhan dasar. Mendukung Linux secara native dan bisa di-hosting sendiri.",
+      "review": "Bitwarden Premium adalah pilihan tepat bagi pendukung perangkat lunak sumber terbuka dan pengguna berbujet sangat terbatas. Paket premium US$10/tahun (TOTP, akses darurat, lampiran berkas), sementara paket gratisnya sudah mencakup kebutuhan dasar. Mendukung Linux secara native dan bisa di-hosting sendiri.",
       "pros": [
         "Sumber terbuka",
-        "Premium $10/tahun",
+        "Premium US$10/tahun",
         "Native di Linux"
       ],
       "cons": [
@@ -74,7 +74,7 @@
     },
     "dashlane-premium": {
       "badge": "🛡️ Paket serba lengkap terbaik",
-      "review": "Dashlane Premium adalah pilihan tepat bagi pengguna yang ingin VPN + pengelola kata sandi + pemantauan dark web dalam satu paket. Seharga $4,99/bulan untuk perorangan sudah termasuk VPN (setara nilai $10/bulan). Lengkap, tetapi lebih mahal daripada Bitwarden.",
+      "review": "Dashlane Premium adalah pilihan tepat bagi pengguna yang ingin VPN + pengelola kata sandi + pemantauan dark web dalam satu paket. Seharga US$4,99/bulan untuk perorangan sudah termasuk VPN (setara nilai US$10/bulan). Lengkap, tetapi lebih mahal daripada Bitwarden.",
       "pros": [
         "Sudah termasuk VPN",
         "Pemantauan dark web",
@@ -113,8 +113,8 @@
     }
   },
   "offerNotes": {
-    "1password-families": "Daftar di 1password.com — paket Families mencakup 5 pengguna seharga $4,99/bulan.",
-    "bitwarden-premium": "Daftar di bitwarden.com — paket gratis sudah cukup berfungsi; premium $10/tahun.",
+    "1password-families": "Daftar di 1password.com — paket Families mencakup 5 pengguna seharga US$4,99/bulan.",
+    "bitwarden-premium": "Daftar di bitwarden.com — paket gratis sudah cukup berfungsi; premium US$10/tahun.",
     "dashlane-premium": "Daftar di dashlane.com — VPN sudah termasuk pada paket Premium.",
     "apple-passwords-icloud": "Sudah tertanam di iOS/macOS — Pengaturan → Kata Sandi. Gratis.",
     "lastpass-premium": "Bagi pengguna lama: segera pindah. Tidak direkomendasikan untuk akun baru."
@@ -124,12 +124,12 @@
     {
       "label": "Keluarga yang berbagi akun di banyak perangkat",
       "offerId": "1password-families",
-      "reason": "1Password Families mencakup 5 pengguna seharga $4,99/bulan, lengkap dengan peringatan kebocoran Watchtower dan keandalan isi otomatis 96% di semua platform."
+      "reason": "1Password Families mencakup 5 pengguna seharga US$4,99/bulan, lengkap dengan peringatan kebocoran Watchtower dan keandalan isi otomatis 96% di semua platform."
     },
     {
       "label": "Pengembang Linux dan pengguna mahir yang peduli privasi",
       "offerId": "bitwarden-premium",
-      "reason": "Bitwarden menyediakan aplikasi native untuk Linux, kode sumber terbuka yang bisa Anda audit sendiri, dan opsi hosting mandiri — semuanya hanya $10/tahun."
+      "reason": "Bitwarden menyediakan aplikasi native untuk Linux, kode sumber terbuka yang bisa Anda audit sendiri, dan opsi hosting mandiri — semuanya hanya US$10/tahun."
     },
     {
       "label": "Pekerja jarak jauh yang mengandalkan Wi-Fi publik dan VPN",

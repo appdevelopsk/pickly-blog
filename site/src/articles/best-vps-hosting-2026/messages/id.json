@@ -7,9 +7,9 @@
     {
       "heading": "Harga per spesifikasi di kelas yang sama",
       "paragraphs": [
-        "Harga untuk 4 vCPU / 8 GB / SSD 160 GB: Hetzner CPX31, DigitalOcean Premium, Vultr High Frequency, Linode Dedicated, AWS Lightsail ($80 plus biaya bandwidth). Dengan perangkat keras yang setara, Hetzner 3-5× lebih murah di kelas ini.",
-        "Bandwidth: Hetzner memberi jatah 20 TB; DigitalOcean dan Vultr 5-6 TB; AWS Lightsail menagih $0,09/GB setelah 5 TB. Biaya egress bisa melipatgandakan tagihan AWS pada bulan-bulan dengan trafik tinggi.",
-        "Block storage: Hetzner $0,052/GB, DigitalOcean $0,10/GB, AWS EBS $0,10-0,125/GB. Biaya penyimpanan mulai terasa begitu basis data membesar."
+        "Harga untuk 4 vCPU / 8 GB / SSD 160 GB: Hetzner CPX31, DigitalOcean Premium, Vultr High Frequency, Linode Dedicated, AWS Lightsail (US$80 plus biaya bandwidth). Dengan perangkat keras yang setara, Hetzner 3-5× lebih murah di kelas ini.",
+        "Bandwidth: Hetzner memberi jatah 20 TB; DigitalOcean dan Vultr 5-6 TB; AWS Lightsail menagih US$0,09/GB setelah 5 TB. Biaya egress bisa melipatgandakan tagihan AWS pada bulan-bulan dengan trafik tinggi.",
+        "Block storage: Hetzner US$0,052/GB, DigitalOcean US$0,10/GB, AWS EBS US$0,10-0,125/GB. Biaya penyimpanan mulai terasa begitu basis data membesar."
       ]
     },
     {
@@ -89,7 +89,7 @@
     },
     "hetzner-cloud-cpx": {
       "badge": "💰 Harga per spesifikasi terbaik",
-      "review": "Hetzner Cloud CPX31 ($14/bulan untuk 4 vCPU/8 GB) adalah VPS serius termurah di pasar, dan perangkat kerasnya sungguhan (AMD EPYC, NVMe). Untuk aplikasi berbasis Eropa, ini pilihan yang jelas. Tim di AS perlu menimbang penalti jaringan terhadap penghematan lebih dari 70%.",
+      "review": "Hetzner Cloud CPX31 (US$14/bulan untuk 4 vCPU/8 GB) adalah VPS serius termurah di pasar, dan perangkat kerasnya sungguhan (AMD EPYC, NVMe). Untuk aplikasi berbasis Eropa, ini pilihan yang jelas. Tim di AS perlu menimbang penalti jaringan terhadap penghematan lebih dari 70%.",
       "pros": [
         "3-5× lebih murah pada spesifikasi sama",
         "Perangkat keras AMD EPYC + NVMe",
@@ -110,15 +110,15 @@
       ],
       "cons": [
         "Paling mahal per spesifikasi dalam perbandingan ini",
-        "Kelebihan bandwidth dikenai $0,09/GB",
+        "Kelebihan bandwidth dikenai US$0,09/GB",
         "SLA lebih lemah dibanding EC2"
       ]
     }
   },
   "offerNotes": {
-    "digitalocean-droplets": "Daftar di digitalocean.com — kredit gratis $200 untuk akun baru adalah penawaran standarnya. Perhatikan kelas Premium saat menentukan ukuran untuk produksi.",
-    "vultr-cloud-compute": "Daftar di vultr.com — promo kredit $100-300 sering muncul. Selalu pilih High Frequency atau Performance.",
-    "linode-shared-cpu": "Daftar di linode.com — kredit gratis $100 untuk akun baru. Paket Dedicated CPU disarankan untuk beban kerja produksi.",
+    "digitalocean-droplets": "Daftar di digitalocean.com — kredit gratis US$200 untuk akun baru adalah penawaran standarnya. Perhatikan kelas Premium saat menentukan ukuran untuk produksi.",
+    "vultr-cloud-compute": "Daftar di vultr.com — promo kredit US$100-300 sering muncul. Selalu pilih High Frequency atau Performance.",
+    "linode-shared-cpu": "Daftar di linode.com — kredit gratis US$100 untuk akun baru. Paket Dedicated CPU disarankan untuk beban kerja produksi.",
     "hetzner-cloud-cpx": "Daftar di hetzner.com — verifikasi KYC menambah 1-2 hari sebelum akun disetujui. Tim yang berbasis di Eropa tidak akan menyesal.",
     "aws-lightsail": "Daftar di aws.amazon.com — tier gratis selama 3 bulan pada paket kecil. Baca detail harga bandwidth dengan cermat sebelum masuk produksi."
   },
@@ -137,7 +137,7 @@
     {
       "label": "Bootstrapper di Eropa dengan anggaran infrastruktur ketat",
       "offerId": "hetzner-cloud-cpx",
-      "reason": "Dengan $14/bulan untuk 4 vCPU/8 GB plus bandwidth 20 TB, Hetzner 3-5x lebih murah dari penyedia AS setara untuk beban kerja yang di-hosting di Eropa."
+      "reason": "Dengan US$14/bulan untuk 4 vCPU/8 GB plus bandwidth 20 TB, Hetzner 3-5x lebih murah dari penyedia AS setara untuk beban kerja yang di-hosting di Eropa."
     },
     {
       "label": "Tim dengan aplikasi bertrafik tinggi yang butuh ketahanan terhadap DDoS",

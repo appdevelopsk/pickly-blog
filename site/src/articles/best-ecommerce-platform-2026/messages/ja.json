@@ -1,6 +1,6 @@
 {
   "title": "ECプラットフォーム2026：実店舗で5社を比較",
-  "description": "Shopify、BigCommerce、WooCommerce、Wix eCommerce、Squarespace Commerceに同じ800 SKUのDTCアパレルストアを移行。コンバージョン率、ページ読込速度、取引手数料、$5M年売上超えでスケールするプラットフォーム。",
+  "description": "Shopify、BigCommerce、WooCommerce、Wix eCommerce、Squarespace Commerceに同じ800 SKUのDTCアパレルストアを移行。コンバージョン率、ページ読込速度、取引手数料、US$5M年売上超えでスケールするプラットフォーム。",
   "lede": "本記事は5製品を、公開仕様・メーカー資料・第三者レビューをもとに比較したものです。",
   "methodology": "本比較は机上調査です。公開されている仕様、メーカー資料、第三者によるレビューや試験結果を突き合わせて作成しています。",
   "sections": [
@@ -13,21 +13,21 @@
       ]
     },
     {
-      "heading": "$1.2M売上の総コスト",
+      "heading": "US$1.2M売上の総コスト",
       "paragraphs": [
-        "$1.2M GMVでの年間プラットフォーム＋決済＋アプリコスト：Shopify Advanced $4,800＋Shop Payments 1.85%×$1.2M≈$27,000＋アプリ$2,400≈年$34,200。BigCommerce Pro $4,800＋決済プロセッサ2.5%×$1.2M≈$30,000＋アプリ$1,200≈年$36,000。",
-        "WooCommerce：$0プラットフォーム＋ホスティング$1,200＋決済プロセッサ2.5-2.9%×$1.2M≈$30,000-35,000＋プラグイン／メンテナンス$3,000≈年$34,200-39,200。",
-        "Wix eCommerce：$432＋決済プロセッサ2.9%×$1.2M≈$34,800＋アプリ$600≈年$35,832。Squarespace Commerce：$588＋Squarespace Payments 2.9%×$1.2M≈$34,800＋アプリ$300≈年$35,688。",
-        "Shopifyが$1.2M+売上で総コスト勝ち — Shop Paymentsで低い取引手数料。$5M売上超でギャップさらに拡大。"
+        "US$1.2M GMVでの年間プラットフォーム＋決済＋アプリコスト：Shopify Advanced US$4,800＋Shop Payments 1.85%×US$1.2M≈US$27,000＋アプリUS$2,400≈年US$34,200。BigCommerce Pro US$4,800＋決済プロセッサ2.5%×US$1.2M≈US$30,000＋アプリUS$1,200≈年US$36,000。",
+        "WooCommerce：US$0プラットフォーム＋ホスティングUS$1,200＋決済プロセッサ2.5-2.9%×US$1.2M≈US$30,000-35,000＋プラグイン／メンテナンスUS$3,000≈年US$34,200-39,200。",
+        "Wix eCommerce：US$432＋決済プロセッサ2.9%×US$1.2M≈US$34,800＋アプリUS$600≈年US$35,832。Squarespace Commerce：US$588＋Squarespace Payments 2.9%×US$1.2M≈US$34,800＋アプリUS$300≈年US$35,688。",
+        "ShopifyがUS$1.2M+売上で総コスト勝ち — Shop Paymentsで低い取引手数料。US$5M売上超でギャップさらに拡大。"
       ]
     },
     {
-      "heading": "$5M売上超のスケーリング",
+      "heading": "US$5M売上超のスケーリング",
       "paragraphs": [
-        "Shopify Advanced→Shopify Plus（月$2,500-15,000+）は$100M+までスムーズにスケール。$10M売上超の米国DTCブランドの多くはShopify Plus上。",
+        "Shopify Advanced→Shopify Plus（月US$2,500-15,000+）はUS$100M+までスムーズにスケール。US$10M売上超の米国DTCブランドの多くはShopify Plus上。",
         "BigCommerce Enterpriseは同レベルにマルチストアフロント能力でスケール。B2B＋DTC統合運用に強い。",
-        "WooCommerceは技術的にスケール可能だが専任DevOpsヘッドカウント必要。$5M+インフレクションでWooCommerceストアはShopify Plusへ移行することが多い。",
-        "WixとSquarespaceは$5M売上付近でプラトー。それ以上では卒業される。"
+        "WooCommerceは技術的にスケール可能だが専任DevOpsヘッドカウント必要。US$5M+インフレクションでWooCommerceストアはShopify Plusへ移行することが多い。",
+        "WixとSquarespaceはUS$5M売上付近でプラトー。それ以上では卒業される。"
       ]
     }
   ],
@@ -38,7 +38,7 @@
     },
     {
       "q": "WooCommerceは本当に無料？",
-      "a": "プラグインは無料。総コスト：ホスティング（月$30-100）＋テーマ（一回$60-200）＋プレミアムプラグイン（年$100-500）。スケールでShopify価格到達、価値は柔軟性と所有権。"
+      "a": "プラグインは無料。総コスト：ホスティング（月US$30-100）＋テーマ（一回US$60-200）＋プレミアムプラグイン（年US$100-500）。スケールでShopify価格到達、価値は柔軟性と所有権。"
     },
     {
       "q": "ECにWixかSquarespace？",
@@ -46,7 +46,7 @@
     },
     {
       "q": "ヘッドレスEC？",
-      "a": "Shopify Hydrogen、BigCommerceヘッドレス、Saleor — React／Next.jsスキルのあるチームに実用可能。設定コスト大（$50k+）、$5M+売上で技術的優位性がある時のみヘッドレス検討。"
+      "a": "Shopify Hydrogen、BigCommerceヘッドレス、Saleor — React／Next.jsスキルのあるチームに実用可能。設定コスト大（US$50k+）、US$5M+売上で技術的優位性がある時のみヘッドレス検討。"
     }
   ],
   "products": {
@@ -59,7 +59,7 @@
         "Shopify Plusへスケール"
       ],
       "cons": [
-        "Advanced月$399は高価",
+        "Advanced月US$399は高価",
         "Shopifyエコシステムへのロックイン"
       ]
     },
@@ -92,7 +92,7 @@
     },
     "wix-ecommerce-business": {
       "badge": "🎨 デザインファーストストア最有力",
-      "review": "Wix eCommerce Businessは100 SKU未満のデザインフォーカスストア向け正解。強力なドラッグ＆ドロップUX、AIウェブサイトジェネレーター、Business月$36。$1-2M売上付近でプラトー。",
+      "review": "Wix eCommerce Businessは100 SKU未満のデザインフォーカスストア向け正解。強力なドラッグ＆ドロップUX、AIウェブサイトジェネレーター、Business月US$36。US$1-2M売上付近でプラトー。",
       "pros": [
         "ドラッグ＆ドロップシンプルさ",
         "AIウェブサイトジェネレーター",
@@ -113,15 +113,15 @@
       ],
       "cons": [
         "純ECでShopifyより強力でない",
-        "$1-2M売上付近でプラトー"
+        "US$1-2M売上付近でプラトー"
       ]
     }
   },
   "offerNotes": {
-    "shopify-advanced": "shopify.comでサインアップ — 3日無料トライアル、その後3ヶ月月$1。",
+    "shopify-advanced": "shopify.comでサインアップ — 3日無料トライアル、その後3ヶ月月US$1。",
     "bigcommerce-pro": "bigcommerce.comでサインアップ — 15日無料トライアル。",
     "woocommerce-wordpress": "woocommerce.comの無料プラグイン — WordPressホスティング必要。",
-    "wix-ecommerce-business": "wix.comでサインアップ — Businessプラン月$27から。",
+    "wix-ecommerce-business": "wix.comでサインアップ — Businessプラン月US$27から。",
     "squarespace-commerce-advanced": "squarespace.comでサインアップ — 14日無料トライアル。"
   },
   "pinDescription": "ECプラットフォーム 2026年比較：Shopify × BigCommerce × WooCommerce × Wix × Squarespaceを同じストアでテスト、コンバージョン＋総コストデータ。"
