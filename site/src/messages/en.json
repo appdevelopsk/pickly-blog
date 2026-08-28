@@ -641,7 +641,10 @@
     "authorTitle": "The editorial team and how we compare",
     "authorDesc": "How we compare products, how we score them, and how we disclose affiliate links.",
     "underTitle": "Best products under ${budget} in 2026",
-    "underDesc": "Comparisons where every top pick stays under ${budget}."
+    "underDesc": "Comparisons where every top pick stays under ${budget}.",
+    "underHeading": "Best products under ${budget}",
+    "underLead": "{count} reviews where the top pick costs less than ${budget}. Sorted by price, lowest first.",
+    "priceFrom": "from {price}"
   },
   "crossLinks": {
     "headToHead": "Head-to-head",

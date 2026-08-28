@@ -14,18 +14,18 @@ import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
+import {
+  VALID_BUDGETS,
+  type Budget,
+  type ParsedPrice,
+  parsePrice,
+  fitsBudget,
+  currencyForLocale,
+  budgetAmountLabel,
+  formatPrice,
+} from "@/lib/affiliates/budget";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
-
-const VALID_BUDGETS = ["50", "100", "200", "500"] as const;
-type Budget = (typeof VALID_BUDGETS)[number];
-
-const BUDGET_LABELS: Record<Budget, string> = {
-  "50":  "Under $50",
-  "100": "Under $100",
-  "200": "Under $200",
-  "500": "Under $500",
-};
 
 const CATEGORY_ICONS: Record<string, string> = {
   fitness: "🏋️", food: "🍳", tech: "💻", beauty: "✨", home: "🏠",
@@ -35,27 +35,20 @@ const TYPE_LABELS: Record<string, string> = {
   comparison: "Comparison", review: "Review", guide: "Guide",
 };
 
-/** Parse a price value to a USD number. Handles "$29.99", "29.99", "29", and "$1,299". */
-function parseUsdPrice(price: string | undefined): number | null {
-  if (!price) return null;
-  // "$29.99" or "$1,299" format
-  const mDollar = price.match(/^\$([0-9,]+(?:\.[0-9]+)?)/);
-  if (mDollar) return parseFloat(mDollar[1]!.replace(/,/g, ""));
-  // bare numeric string "28" or "28.5" (catalog-additions uses USD without symbol)
-  const mNumeric = price.match(/^([0-9]+(?:\.[0-9]+)?)$/);
-  if (mNumeric) return parseFloat(mNumeric[1]!);
-  return null;
-}
-
-/** Returns the lowest USD price among an article's offers, or null. */
-function minPrice(a: ArticleMeta): number | null {
-  let min: number | null = null;
+/**
+ * 記事の最安オファーを返す。ロケールの表示通貨に一致するオファーだけを見る。
+ * カタログの price は通貨混在フィールドで、円建ては JP専売オファーの別価格。
+ * 通貨をまたいで min を取ると「$29 の記事」が ja で ¥9,000 として並ぶので比較しない。
+ */
+function minPrice(a: ArticleMeta, currency: string): ParsedPrice | null {
+  let min: ParsedPrice | null = null;
   for (const id of a.offerIds) {
     const o = CATALOG.find((x) => x.id === id);
     if (!o) continue;
     // Try price, then priceMin
-    const p = parseUsdPrice(o.price) ?? parseUsdPrice(o.priceMin);
-    if (p !== null && (min === null || p < min)) min = p;
+    const p = parsePrice(o.price) ?? parsePrice(o.priceMin);
+    if (!p || p.currency !== currency) continue;
+    if (min === null || p.amount < min.amount) min = p;
   }
   return min;
 }
@@ -106,16 +99,16 @@ export default async function UnderBudgetPage({ params }: Props) {
     const v = t(key, values);
     return v ? v : fallback;
   };
-  const threshold = parseInt(budgetKey, 10);
-  const label = BUDGET_LABELS[budgetKey as Budget];
+  const currency = currencyForLocale(locale);
+  const amountLabel = budgetAmountLabel(budgetKey as Budget, locale);
 
   const all = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
   const articles = all
     .filter((a) => {
-      const p = minPrice(a);
-      return p !== null && p < threshold;
+      const p = minPrice(a, currency);
+      return p !== null && fitsBudget(p, budgetKey as Budget);
     })
-    .sort((a, b) => (minPrice(a) ?? 0) - (minPrice(b) ?? 0));
+    .sort((a, b) => (minPrice(a, currency)?.amount ?? 0) - (minPrice(b, currency)?.amount ?? 0));
 
   // Group by category
   const byCategory: Record<string, ArticleMeta[]> = {};
@@ -128,10 +121,17 @@ export default async function UnderBudgetPage({ params }: Props) {
   let siteName = "Pickly";
   try { siteName = t("site.name"); } catch { /* missing */ }
 
+  const heading = tt("pages.underHeading", `Best products under $${amountLabel}`, { budget: amountLabel });
+  const lead = tt(
+    "pages.underLead",
+    `${articles.length} reviews where the top pick costs less than $${amountLabel}. Sorted by price, lowest first.`,
+    { budget: amountLabel, count: articles.length },
+  );
+
   const listSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: `Best Products ${label}`,
+    name: heading,
     url: `${SITE_URL}/${locale}/under/${budgetKey}`,
     numberOfItems: articles.length,
     itemListElement: articles.slice(0, 10).map((a, i) => {
@@ -149,7 +149,7 @@ export default async function UnderBudgetPage({ params }: Props) {
         <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">
           <Link href="/" className="hover:text-slate-600 transition-colors">{siteName}</Link>
           <span>/</span>
-          <span className="text-slate-600 font-medium">{label}</span>
+          <span className="text-slate-600 font-medium">{heading}</span>
         </nav>
 
         <section className="py-10 md:py-14">
@@ -157,10 +157,10 @@ export default async function UnderBudgetPage({ params }: Props) {
             💰 Budget picks
           </div>
           <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
-            Best products {label}
+            {heading}
           </h1>
           <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">
-            {articles.length} reviews where the top-ranked option costs less than ${budgetKey}. Sorted by price, lowest first.
+            {lead}
           </p>
         </section>
 
@@ -172,7 +172,9 @@ export default async function UnderBudgetPage({ params }: Props) {
               href={`/under/${b}`}
               className="rounded-full border border-slate-200 bg-white px-4 py-1.5 text-sm font-medium text-slate-500 hover:border-brand-300 hover:bg-brand-50 hover:text-brand-700 transition-colors"
             >
-              {BUDGET_LABELS[b as Budget]}
+              {tt("pages.underHeading", `Best products under $${budgetAmountLabel(b, locale)}`, {
+                budget: budgetAmountLabel(b, locale),
+              })}
             </Link>
           ))}
         </nav>
@@ -200,7 +202,7 @@ export default async function UnderBudgetPage({ params }: Props) {
                       const imgSrc = getThumbnail(a, locale);
                       const isProductImg = imgSrc && !imgSrc.includes("/og/");
                       const offer = firstOffer(a);
-                      const p = minPrice(a);
+                      const p = minPrice(a, currency);
                       return (
                         <li key={a.slug}>
                           <Link
@@ -214,7 +216,7 @@ export default async function UnderBudgetPage({ params }: Props) {
                               </ArticleCardImage>
                               {p !== null && (
                                 <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-green-200 px-2.5 py-0.5 text-xs font-bold text-green-700 shadow-sm">
-                                  from ${p}
+                                  {tt("pages.priceFrom", `from ${formatPrice(p)}`, { price: formatPrice(p) })}
                                 </span>
                               )}
                             </div>
@@ -249,7 +251,8 @@ export async function generateMetadata({ params }: Props) {
   const { locale, budget } = await params;
   const budgetKey = budget.replace(/^under-/, "");
   if (!VALID_BUDGETS.includes(budgetKey as Budget)) return {};
-  const label = BUDGET_LABELS[budgetKey as Budget];
+  // ★バンド境界はロケール通貨で出す。ja は円ラダー、他は USD (2026-08-28)。
+  const amountLabel = budgetAmountLabel(budgetKey as Budget, locale);
   // ★本文は 17 言語で出しているのに metadata だけ英語直書きだった (2026-08-04)。
   const t = await getTranslations({ locale });
   // ★同上。空文字が返るので catch では拾えない。
@@ -257,8 +260,12 @@ export async function generateMetadata({ params }: Props) {
     const v = t(key, values);
     return v ? v : fallback;
   };
-  const title = tt("pages.underTitle", `Best Products ${label} in 2026`, { budget: budgetKey });
-  const description = tt("pages.underDesc", `Tested product reviews where every top pick stays ${label}.`, { budget: budgetKey });
+  const title = tt("pages.underTitle", `Best products under $${amountLabel} in 2026`, { budget: amountLabel });
+  const description = tt(
+    "pages.underDesc",
+    `Comparisons where every top pick stays under $${amountLabel}.`,
+    { budget: amountLabel },
+  );
   const url = `${SITE_URL}/${locale}/under/${budgetKey}`;
   return {
     title: serpTitle(title), description,

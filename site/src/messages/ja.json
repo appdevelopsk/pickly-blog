@@ -637,8 +637,11 @@
     "giftsDesc": "シーン別に厳選したギフトのアイデア。忖度なしの本音で選びました。",
     "authorTitle": "編集部について — 比較のやり方",
     "authorDesc": "製品の比較方法・採点基準・アフィリエイトの開示方針をまとめています。",
-    "underTitle": "{budget}ドル以下のおすすめ製品 2026",
-    "underDesc": "1位の製品が{budget}ドル以下に収まる比較だけを集めました。"
+    "underTitle": "{budget}円以下のおすすめ製品 2026",
+    "underDesc": "1位の製品が{budget}円以下に収まる比較だけを集めました。",
+    "underHeading": "{budget}円以下のおすすめ製品",
+    "underLead": "1位の製品が{budget}円未満の比較 {count} 件。安い順に並べています。",
+    "priceFrom": "{price}〜"
   },
   "crossLinks": {
     "headToHead": "1対1比較",
