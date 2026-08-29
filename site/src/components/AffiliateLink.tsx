@@ -266,6 +266,9 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
       if (!byLabel.has(label)) byLabel.set(label, l);
     }
     const storeLinks = [...byLabel.entries()];
+    // byLabel のキーは重複排除の識別子なので日本語のまま保持し、
+    // 表示だけロケールに合わせる ("公式" が全17ロケールに漏れていた)。
+    const displayLabel = (label: string) => (label === "公式" ? t("offer.storeOfficial") : label);
     if (storeLinks.length === 0) {
       const amazonHost = amazonHostForMarket(market);
       return (
@@ -309,7 +312,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
                     : "inline-flex items-center gap-1.5 rounded-lg border border-slate-300 bg-white px-4 py-2 text-sm font-semibold text-slate-700 hover:border-brand-400 hover:text-brand-600 transition-all"
                 }
               >
-                {label} →
+                {displayLabel(label)} →
               </a>
             );
           })}
