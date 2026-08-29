@@ -16604,7 +16604,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "nguyen-coffee-phin-filter",
     imageUrl: "https://nguyencoffeesupply.com/cdn/shop/files/the-original-vietnamese-coffee-trio.png",
     category: "food",
-    badge: "ベストスターターキット",
+    badge: "Best Starter Kit",
     name: { en: "Nguyen Coffee Supply Phin Filter Kit", ja: "Nguyen Coffee Supply フィンキット" },
     description: {
       en: "Stainless steel phin filter + ceramic cup + Vietnamese single-origin coffee sample. Everything needed to brew authentic ca phe sua da at home.",
@@ -16619,7 +16619,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "trung-nguyen-legend-ground",
     imageUrl: "https://trungnguyenlegend.us/cdn/shop/products/TNcreative02-5000081_e101d535-bf81-4d31-bd0d-49c5e5ca53cb.jpg",
     category: "food",
-    badge: "伝統的ベトナムコーヒー",
+    badge: "Traditional Vietnamese",
     name: { en: "Trung Nguyen Legend Ground Coffee", ja: "Trung Nguyen Legend グラウンドコーヒー" },
     description: {
       en: "Robusta-arabica blend pre-ground for phin brewing. Most representative traditional Vietnamese coffee — high caffeine, chocolatey body, correct grind for ca phe sua da.",
@@ -16635,7 +16635,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "cafe-du-monde-coffee-chicory",
     imageUrl: "https://shop.cafedumonde.com/wp-content/uploads/2014/07/cafe-du-monde-coffee-chicory-can.jpg.webp",
     category: "food",
-    badge: "チコリブレンド",
+    badge: "Chicory Blend",
     name: { en: "Cafe Du Monde Coffee with Chicory", ja: "Cafe Du Monde コーヒー＆チコリ" },
     description: {
       en: "Classic New Orleans coffee + chicory blend, 15 oz can. Vietnamese-American tradition — woody bitterness pairs well with condensed milk. Pre-ground for drip, works in phin.",
@@ -16651,7 +16651,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "longevity-brand-condensed-milk",
     imageUrl: "https://img06.weeecdn.com/product/image/878/364/41CE6C48965494D7.png",
     category: "food",
-    badge: "必須材料",
+    badge: "Essential Ingredient",
     name: { en: "Longevity Brand Sweetened Condensed Milk", ja: "Longevity Brand（Ong Tho）コンデンスミルク" },
     description: {
       en: "Traditional Vietnamese sweetened condensed milk (Ong Tho brand). The essential ingredient for ca phe sua da — 2-3 tablespoons per cup provides both sweetness and creaminess.",
@@ -16666,7 +16666,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "phin-coffee-filter-stainless",
     imageUrl: "https://nguyencoffeesupply.com/cdn/shop/files/12oz-phin-filter.png",
     category: "food",
-    badge: "基本フィン",
+    badge: "Basic Phin Filter",
     name: { en: "Stainless Steel Phin Coffee Filter Set", ja: "ステンレス製フィンコーヒーフィルターセット" },
     description: {
       en: "Standard stainless steel phin filter for Vietnamese drip coffee. Look for snug press plate fit and uniform perforations. 4 oz for one cup, 8 oz for larger volume.",
@@ -16683,7 +16683,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "rogue-r-3-power-rack",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_768,b_rgb:f8f8f8/catalog/Rigs%20and%20Racks/Power%20Racks%20/R-Series%20Racks/XX3803/XX3803-H_xarpcp.png",
     category: "fitness",
-    badge: "ベストホームジムラック",
+    badge: "Best Home Gym Rack",
     name: { en: "Rogue R-3 Monster Lite Power Rack", ja: "Rogue R-3 Monster Lite パワーラック" },
     description: {
       en: "3x3 inch, 11-gauge uprights, 1-inch hole spacing, 90-inch height. The reference home gym power rack — Rogue build quality, extensive Monster Lite accessory ecosystem.",
@@ -16700,7 +16700,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     priceMin: "$621",
     priceMax: "$1,700",
-    badge: "ベストバリュー",
+    badge: "Best Value",
     name: { en: "REP Fitness PR-4000 Power Rack", ja: "REP Fitness PR-4000 パワーラック" },
     description: {
       en: "3x3 inch, 11-gauge, Westside hole spacing, 90-inch height. Best value equivalent to Rogue R-3 at 15-20% lower cost. Slightly lower finish quality but functionally equivalent.",
@@ -16715,7 +16715,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "titan-fitness-x-3-power-rack",
     imageUrl: "https://titan.fitness/cdn/shop/files/401390_01.jpg?v=1722289719&width=1946",
     category: "fitness",
-    badge: "11ゲージ予算オプション",
+    badge: "Best 11-Gauge Budget",
     name: { en: "Titan Fitness X-3 Power Rack", ja: "Titan Fitness X-3 パワーラック" },
     description: {
       en: "3x3 inch, 11-gauge, Westside hole spacing, 90-inch height. Budget entry to 11-gauge construction at lower price than REP. Mixed customer service reputation.",
@@ -16730,7 +16730,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "body-solid-gpr378-power-rack",
     imageUrl: "https://m.media-amazon.com/images/I/51RxGxm8c4L._AC_SY300_SX300_QL70_ML2_.jpg",
     category: "fitness",
-    badge: "統合システム",
+    badge: "All-in-One System",
     name: { en: "Body-Solid GPR378 Power Rack with Lat Pulldown", ja: "Body-Solid GPR378 パワーラック（ラットプルダウン付）" },
     description: {
       en: "2x2 inch, 12-gauge uprights, includes lat pulldown and cable system. Complete integrated home gym system. Lighter upright spec limits heavy barbell use.",
@@ -16746,7 +16746,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "cap-barbell-fm-8000f-power-rack",
     imageUrl: "https://capbarbell.com/cdn/shop/files/FM_CB8000F__46543__91821.1446739894.500.750.jpg?v=1766876514",
     category: "fitness",
-    badge: "予算ケージ",
+    badge: "Best Budget Cage",
     name: { en: "CAP Barbell FM-8000F Power Rack", ja: "CAP Barbell FM-8000F パワーラック" },
     description: {
       en: "2x2 inch, 14-gauge, 2-inch hole spacing, entry-level. Budget cage for home training at moderate loads. Not recommended for heavy powerlifting use long-term.",
@@ -16763,7 +16763,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "cruz-de-malta-yerba-mate",
     imageUrl: "https://www.amigofoods.com/cdn/shop/collections/cruz-de-malta-yerba-mate-19.png?v=1694756331",
     category: "food",
-    badge: "伝統的アルゼンチン",
+    badge: "Traditional Argentine",
     name: { en: "Cruz de Malta Yerba Mate", ja: "Cruz de Malta ヤーバマテ" },
     description: {
       en: "Traditional Argentine con palo (with stems) blend, 500g. Representative everyday yerba — milder flavor, longer aging process. The reference traditional Argentine mate.",
@@ -16783,7 +16783,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "guayaki-yerba-mate-traditional",
     imageUrl: "https://yerbamadre.com/cdn/shop/files/YM_LooseLeaf_Hero_Option_1_copy.jpg",
     category: "food",
-    badge: "オーガニック",
+    badge: "Certified Organic",
     name: { en: "Guayaki Yerba Mate Traditional", ja: "Guayaki ヤーバマテ Traditional" },
     description: {
       en: "USDA organic, shade-grown, Misiones province Argentina, 500g. Most accessible premium yerba in North America/Japan — woody, earthy flavor profile.",
@@ -16803,7 +16803,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "taragui-yerba-mate",
     imageUrl: "https://goyerbamate.store/cdn/shop/files/taragui_yerba_mate_with_stems_500-g.jpg",
     category: "food",
-    badge: "幅広い流通",
+    badge: "Widely Available",
     name: { en: "Taragui Yerba Mate", ja: "Taragui ヤーバマテ" },
     description: {
       en: "Major Argentine brand with wide international distribution, 500g. Classic con palo for beginners, Sin Palo for experienced drinkers. Practical choice outside South America.",
@@ -16823,7 +16823,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "gourd-and-bombilla-set",
     imageUrl: "https://drinkmateina.com/cdn/shop/files/mateina_stainless_steel_gourd_and_bombilla_2.jpg",
     category: "food",
-    badge: "スターターキット",
+    badge: "Starter Kit",
     name: { en: "Mate Gourd and Bombilla Set", ja: "マテゴードとボンビーリャセット" },
     description: {
       en: "Calabash or wood gourd + stainless spring bombilla. Requires curing before first use. Wide mouth gourd and spring bombilla recommended for beginners.",
@@ -16843,7 +16843,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "yerba-mate-electric-gourd",
     imageUrl: "https://kalmateh.com/cdn/shop/products/IMG_0758.jpg",
     category: "food",
-    badge: "電気ゴード",
+    badge: "Electric Gourd",
     name: { en: "Yerba Mate Electric Gourd Thermos", ja: "ヤーバマテ電気ゴードサーモス" },
     description: {
       en: "Electric thermos maintaining 75-80°C for mate temperature. Eliminates repeated kettle trips — ideal for office or travel use. Verify temperature accuracy spec before purchasing.",
@@ -16864,7 +16864,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "body-solid-leg-press-hack-squat",
     imageUrl: "https://cdn11.bigcommerce.com/s-2v01ommyhe/products/909/images/3510/GLHP1100B-IMGL3794__08522.1735671286.386.513.jpg?c=1",
     category: "fitness",
-    badge: "デュアル機能",
+    badge: "Dual Function",
     name: { en: "Body-Solid GLPH1100 Leg Press and Hack Squat Machine", ja: "Body-Solid GLPH1100 レッグプレス＆ハックスクワット" },
     description: {
       en: "Dual leg press + hack squat, 1,000 lb capacity, linear bearings, commercial-grade. Best home gym value — two exercises from one machine under $1,000.",
@@ -16880,7 +16880,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "valor-fitness-bd-62-leg-press",
     imageUrl: "https://valorfitness.com/cdn/shop/files/CC-10_Main_51cb0ea6-94c2-425e-8cd3-2af74861161f.jpg",
     category: "fitness",
-    badge: "コンパクト",
+    badge: "Most Compact",
     name: { en: "Valor Fitness BD-62 Leg Press Machine", ja: "Valor Fitness BD-62 レッグプレスマシン" },
     description: {
       en: "45-degree sled, nylon guide rods, 400 lb load capacity, compact footprint. $500-650. Budget leg press for moderate loads — smaller footprint than REP or Body-Solid.",
@@ -16902,7 +16902,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     priceMin: "$700",
     priceMax: "$1,200",
-    badge: "専用設計",
+    badge: "Purpose-Built",
     name: { en: "REP Fitness LP-5000 Leg Press Machine", ja: "REP Fitness LP-5000 レッグプレスマシン" },
     description: {
       en: "Dedicated 45-degree leg press, 4-roller carriage, large platform, adjustable back angle. Best purpose-built leg press — wider range of motion and better platform than Body-Solid.",
@@ -16921,7 +16921,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "titan-fitness-leg-press-v2",
     imageUrl: "https://titan.fitness/cdn/shop/files/400485_04_38b9157c-0f8c-452d-a992-7fafadd3e3de.jpg?v=1719501761&width=1100",
     category: "fitness",
-    badge: "予算11ゲージ",
+    badge: "Budget 11-Gauge",
     name: { en: "Titan Fitness Leg Press V2", ja: "Titan Fitness レッグプレス V2" },
     description: {
       en: "45-degree sled, linear bearings, 1,000 lb capacity. $600-800. Budget alternative to REP — adequate function at lower cost. Slightly rougher sled travel than REP.",
@@ -16941,7 +16941,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "marcy-diamond-leg-press",
     imageUrl: "https://www.marcypro.com/cdn/shop/files/MWM-0418_p_01__79125.1738797113.1280.1280.jpg",
     category: "fitness",
-    badge: "エントリーレベル",
+    badge: "Entry Level",
     name: { en: "Marcy Diamond MD-9060G Leg Press Machine", ja: "Marcy Diamond MD-9060G レッグプレスマシン" },
     description: {
       en: "45-degree sled, 14-gauge steel, 600 lb rated, entry-level. $300-450. Budget option for light home use — not recommended for high-volume or heavy leg press training.",
@@ -16963,7 +16963,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://acaia.co/cdn/shop/files/Pearl_PitchBlack_withLED.jpg?v=1740983808",
     price: "$150",
     category: "food",
-    badge: "最高基準",
+    badge: "Gold Standard",
     name: { en: "Acaia Pearl Coffee Scale", ja: "Acaia Pearl コーヒースケール" },
     description: {
       en: "0.1g resolution, 300ms response, Bluetooth app connectivity, rechargeable, available in Pearl and Pearl S sizes. The reference coffee scale for serious home brewers.",
@@ -16978,7 +16978,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "timemore-black-mirror-scale",
     imageUrl: "https://onyxcoffeelab.com/cdn/shop/products/Scale2_grande.jpg",
     category: "food",
-    badge: "ベストバリュー",
+    badge: "Best Value",
     name: { en: "Timemore Black Mirror Basic+ Coffee Scale", ja: "Timemore Black Mirror Basic+ コーヒースケール" },
     description: {
       en: "0.1g resolution, 500ms response, built-in timer, AA batteries. Best value dedicated coffee scale — all essential features at budget-friendly price.",
@@ -16997,7 +16997,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "hario-v60-drip-scale",
     imageUrl: "https://www.hario-usa.com/cdn/shop/products/IMG_0368.jpg",
     category: "food",
-    badge: "V60コンパニオン",
+    badge: "V60 Companion",
     name: { en: "Hario V60 Drip Scale", ja: "Hario V60 ドリップスケール" },
     description: {
       en: "0.1g resolution, 1 second response, AA batteries, 80-hour battery life, designed for V60 ecosystem. Simple one-button timer operation.",
@@ -17013,7 +17013,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "felicita-incline-coffee-scale",
     imageUrl: "https://ikawahome.com/cdn/shop/products/felicitainclinescales_grande.jpg",
     category: "food",
-    badge: "エルゴノミクス",
+    badge: "Best Ergonomics",
     name: { en: "Felicita Incline Coffee Scale", ja: "Felicita Incline コーヒースケール" },
     description: {
       en: "0.1g resolution, 200-300ms response, USB-C rechargeable, 10-degree tilted display, auto-start timer. Best ergonomic design for espresso setups.",
@@ -17029,7 +17029,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "coffee-gator-pour-over-scale",
     imageUrl: "https://forestandmeadow.com/cdn/shop/products/Coffee_Gator_multifunction_timing_coffee_scales_10_1024x1024_e4d93e2d-e7b4-4331-97d4-28597309967d.jpg",
     category: "food",
-    badge: "予算エントリー",
+    badge: "Budget Entry",
     name: { en: "Coffee Gator Pour-Over Scale", ja: "Coffee Gator ポアオーバースケール" },
     description: {
       en: "0.1g resolution, 1-2 second response, built-in timer, AA batteries. Budget entry-level coffee scale — adds timing and measurement at lowest cost.",
@@ -17050,7 +17050,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "bells-of-steel-hip-thruster",
     imageUrl: "https://bellsofsteel.com/cdn/shop/files/HPT2-MA-SET-carousel-primary.jpg?v=1762301384",
     category: "fitness",
-    badge: "最高専用設計",
+    badge: "Best Purpose-Built",
     name: { en: "Bells of Steel Hip Thruster", ja: "Bells of Steel Hip Thruster" },
     description: {
       en: "Purpose-built hip thrust station with integrated barbell cradle, adjustable foot platform, heavily cushioned back pad, and wheels. Eliminates all setup friction.",
@@ -17066,7 +17066,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "rep-fitness-ab-5200-fid-bench",
     imageUrl: "https://repfitness.com/cdn/shop/products/AB-5202-MetallicBlack-Thumbnail.jpg",
     category: "fitness",
-    badge: "デュアルパーパス",
+    badge: "Dual Purpose",
     name: { en: "REP Fitness AB-5200 FID Adjustable Bench", ja: "REP Fitness AB-5200 FID 調整可能ベンチ" },
     description: {
       en: "FID adjustable bench, 17-inch pad height at flat position, heavy commercial-grade frame. Dual-purpose: full adjustable bench + effective hip thrust station.",
@@ -17082,7 +17082,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "valor-fitness-hip-thrust-bench",
     imageUrl: "https://valorfitness.com/cdn/shop/files/HT-31-MainImage.jpg",
     category: "fitness",
-    badge: "中価格帯専用",
+    badge: "Best Mid-Range",
     name: { en: "Valor Fitness Hip Thrust Bench", ja: "Valor Fitness ヒップスラストベンチ" },
     description: {
       en: "Dedicated hip thrust station with integrated foot platform and angled back pad. Purpose-built at lower cost than Bells of Steel. Adequate for loads to 400 lbs.",
@@ -17103,7 +17103,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://titan.fitness/cdn/shop/files/401784_01.jpg?v=1764178172&width=1946",
     price: "$499",
     category: "fitness",
-    badge: "予算専用",
+    badge: "Best Budget Dedicated",
     name: { en: "Titan Fitness Hip Thrust Machine", ja: "Titan Fitness ヒップスラストマシン" },
     description: {
       en: "Dedicated hip thrust machine with adjustable foot platform and barbell cradle. Core hip thrust functionality at minimum cost. Below REP and Bells of Steel in build quality.",
@@ -17122,7 +17122,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "hip-thrust-pad-barbell",
     imageUrl: "https://assets.roguefitness.com/f_auto,q_auto,c_limit,w_1600,b_rgb:ffffff/catalog/Strength%20Equipment/Strength%20Training/Lower%20Body%20Training/AB0013/AB0013-H_uiry3t.png",
     category: "fitness",
-    badge: "必須アクセサリー",
+    badge: "Essential Accessory",
     name: { en: "Barbell Hip Thrust Foam Pad", ja: "バーベルヒップスラストフォームパッド" },
     description: {
       en: "Foam pad with velcro strap for barbell hip thrust. Required for comfortable contact across hip bones. Works with any bench or dedicated hip thrust machine.",
@@ -17143,7 +17143,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "four-sigmatic-think-coffee",
     imageUrl: "https://us.foursigmatic.com/cdn/shop/files/FS_Photoshoot_072523-1560_0c8a2d8c-96ad-4069-bc45-430a6e3d6f18.jpg?v=1734370686",
     category: "food",
-    badge: "最確立ブランド",
+    badge: "Most Established Brand",
     name: { en: "Four Sigmatic Think Coffee with Lion's Mane", ja: "Four Sigmatic Think Coffee（ライオンズメーン入り）" },
     description: {
       en: "250mg lion's mane + 200mg chaga per serving, dual-extraction organic Arabica, 12 servings. Most established mushroom coffee brand — bioavailability-focused dual extraction.",
@@ -17159,7 +17159,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "ryze-mushroom-coffee",
     imageUrl: "https://www.ryzesuperfoods.com/cdn/shop/files/Medium_Roast_-_Single_Bag_02.webp",
     category: "food",
-    badge: "売上1位",
+    badge: "Best Seller",
     name: { en: "Ryze Mushroom Coffee", ja: "Ryze マッシュルームコーヒー" },
     description: {
       en: "6-mushroom blend (2,000mg total), organic Arabica, 48mg caffeine per serving, 30 servings. Most popular by sales — lower caffeine, good value per serving.",
@@ -17175,7 +17175,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "om-mushroom-master-blend",
     imageUrl: "https://ommushrooms.com/cdn/shop/files/Om_PDP_180gPowders_MB_Front.png",
     category: "food",
-    badge: "オーガニック認証",
+    badge: "Certified Organic",
     name: { en: "Om Mushroom Master Blend", ja: "Om Mushroom Master Blend" },
     description: {
       en: "10 mushroom species, USDA organic, full-spectrum whole mushroom powder, third-party tested. Best organic credentials — transparent labeling, not just extracts.",
@@ -17191,7 +17191,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "earth-and-star-mushroom-coffee",
     imageUrl: "https://cdn.prod.website-files.com/60e886f6c0fca2d6f5903bec/6335c6ee74a105b1fa9ad390_earth-star-coffee.jpg",
     category: "food",
-    badge: "透明な投与量",
+    badge: "Transparent Dosing",
     name: { en: "Earth & Star Mushroom Coffee", ja: "Earth & Star マッシュルームコーヒー" },
     description: {
       en: "Lion's mane + chaga + reishi, organic coffee, per-serving mushroom content labeled. More honest dosing transparency than many competitors. Also offers mushroom matcha.",
@@ -17211,7 +17211,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "lion-mane-mushroom-powder",
     imageUrl: "https://www.malamamushrooms.com/cdn/shop/files/LionsMane-Extract-3_5oz_1_website.jpg",
     category: "food",
-    badge: "DIY投与量",
+    badge: "DIY Dosing",
     name: { en: "Lion's Mane Mushroom Extract Powder", ja: "ライオンズメーンキノコエキスパウダー" },
     description: {
       en: "Pure lion's mane extract powder, 500mg-1g per serving, 50-100 servings. Best DIY approach — add to any coffee for precise dosing at clinical-relevant amounts.",
@@ -17232,7 +17232,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "stairmaster-gauntlet-stepmill",
     imageUrl: "https://m.media-amazon.com/images/I/51+XpVEdVyL._AC_SL1225_.jpg",
     category: "fitness",
-    badge: "商業フラッグシップ",
+    badge: "Commercial Flagship",
     name: { en: "StairMaster Gauntlet Stepmill", ja: "StairMaster Gauntlet ステップミル" },
     description: {
       en: "Rotating stepmill, 8-inch steps, 26 resistance levels, touchscreen, ~440 lbs. Commercial flagship — genuine stair climbing mechanics, highest glute engagement.",
@@ -17252,7 +17252,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "bowflex-max-trainer-m9", imageUrl: "https://www.bowflex.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw6d24a101/images/bfx/ellipticals/100996/m9-in-home-f-ll.jpg",
     category: "fitness",
     price: "$1,999",
-    badge: "コネクテッドホーム",
+    badge: "Best Connected Home",
     name: { en: "Bowflex Max Trainer M9", ja: "Bowflex Max Trainer M9" },
     description: {
       en: "Step climber + moving arms, 20 resistance levels, touchscreen, JRNY app. Best connected home step climber — upper body engagement adds calorie burn, compact footprint.",
@@ -17271,7 +17271,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "sunny-health-stair-stepper-mini",
     imageUrl: "https://sunnyhealthfitness.com/cdn/shop/products/sunny-health-fitness-stepper-total-body-stepper-machine-SF-S0978-01.jpg",
     category: "fitness",
-    badge: "予算ミニ",
+    badge: "Budget Mini",
     name: { en: "Sunny Health & Fitness Mini Stair Stepper", ja: "Sunny Health & Fitness ミニステアステッパー" },
     description: {
       en: "Mini step climber, hydraulic resistance, 4-6 inch step range, no handles. $30-60. Light daily movement option — desk use or rehabilitation, not serious conditioning.",
@@ -17287,7 +17287,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "nustep-t4r-recumbent-stepper",
     imageUrl: "https://global.nustep.com/wp-content/uploads/2022/10/HERO_T4r.png",
     category: "fitness",
-    badge: "関節保護",
+    badge: "Joint Friendly",
     name: { en: "NuStep T4r Recumbent Cross Trainer", ja: "NuStep T4r リカンベントクロストレーナー" },
     description: {
       en: "Recumbent stepping, seated position, full upper + lower body, near-zero to high resistance. Best for joint protection — rehabilitation-grade design for knee/hip limitations.",
@@ -17303,7 +17303,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "stairmaster-8-series-stepmill",
     imageUrl: "https://fitdir.com/wp-content/uploads/2016/11/StairMaster-8Gx-Gauntlet-8-Series-Stepmill.png",
     category: "fitness",
-    badge: "改装品バリュー",
+    badge: "Refurbished Value",
     name: { en: "StairMaster 8-Series Stepmill (Refurbished)", ja: "StairMaster 8シリーズ ステップミル（改装品）" },
     description: {
       en: "Commercial stepmill (previous generation), 7-8 inch steps, available refurbished at $1,500-2,500. Best home stepmill value — genuine mechanics at lower cost than Gauntlet.",
@@ -17320,7 +17320,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "rishi-masala-chai",
     imageUrl: "https://www.rishi-tea.com/cdn/shop/files/Rishi-PDP-Carousel-MasalaChai-TC.jpg?v=1762452153",
     category: "food",
-    badge: "ベストルーフリーフ",
+    badge: "Best Loose Leaf",
     name: { en: "Rishi Masala Chai Loose Leaf", ja: "リシ・マサラチャイ ルーフリーフ" },
     description: {
       en: "Loose leaf masala chai, Assam base, cardamom-forward, 18-22 servings. $12-16. Best loose leaf chai — whole spice complexity, farm-direct sourcing.",
@@ -17335,7 +17335,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "harney-sons-hot-cinnamon-spice",
     imageUrl: "https://www.harney.com/cdn/shop/files/2025_50_Count_Sachet_Hot_Cinnamon_Spice_LTO.jpg?v=1764715125",
     category: "food",
-    badge: "人気スパイスティー",
+    badge: "Popular Spiced Tea",
     name: { en: "Harney & Sons Hot Cinnamon Spice Tea", ja: "ハーニー&サンズ ホットシナモンスパイス" },
     description: {
       en: "Black tea with cinnamon, orange peel, sweet cloves, 50 bags. $10-14. Best spiced black tea — cinnamon-forward, sweet, excellent cold-brewed in milk.",
@@ -17351,7 +17351,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "tazo-chai-concentrate",
     imageUrl: "https://images.ctfassets.net/67yjwz9a8c38/35Ir9EbS4j70fkm7oA8I3O/f4a143575c3725fa1af077ddf6aafb06/classic-chai-latte-front.webp",
     category: "food",
-    badge: "コスパコンセントレート",
+    badge: "Best Value Concentrate",
     name: { en: "Tazo Chai Latte Concentrate", ja: "タゾ チャイラテ コンセントレート" },
     description: {
       en: "Chai concentrate, 1:1 mix with milk, 32 oz. $5-8. Budget chai latte concentrate — widely available, consistent sweet-spiced result.",
@@ -17367,7 +17367,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "oregon-chai-original-concentrate",
     imageUrl: "https://oregonchai.com/cdn/shop/files/9ad5d4b40793992ecda2914ebaee199716728a3b.jpg",
     category: "food",
-    badge: "市場標準",
+    badge: "Market Standard",
     name: { en: "Oregon Chai Original Concentrate", ja: "オレゴンチャイ オリジナル コンセントレート" },
     description: {
       en: "Chai concentrate, sweet, cardamom-forward, 32 oz / 16 servings. $8-12. Market-standard chai latte concentrate — approximates coffee shop chai at home.",
@@ -17383,7 +17383,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "david-rio-elephant-vanilla-chai",
     imageUrl: "https://static.wixstatic.com/media/c93979_6786ca571c7e4ba3afdfa441de25e179~mv2_d_1500_1538_s_2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
     category: "food",
-    badge: "最手軽フォーマット",
+    badge: "Easiest Format",
     name: { en: "David Rio Elephant Vanilla Chai Powder", ja: "デビッドリオ エレファント バニラチャイ パウダー" },
     description: {
       en: "Powdered chai mix, vanilla-forward, 16 oz / 16-20 servings. $15-20. Most convenient format — dissolve in hot milk, no brewing steps.",
@@ -17400,7 +17400,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "everlast-powercore-freestanding-bag",
     imageUrl: "https://www.everlast.com/cdn/shop/files/p00001266_1_cbda1173-c7a6-4962-b9d6-679ee5b1c8ee.jpg",
     category: "fitness",
-    badge: "エントリーフリースタンディング",
+    badge: "Entry Freestanding",
     name: { en: "Everlast Powercore Freestanding Bag", ja: "エバーラスト パワーコア フリースタンディングバッグ" },
     description: {
       en: "Freestanding, 70 lb max, Nevatear synthetic, water/sand base. $150-200. Best freestanding entry-level bag — no mounting needed, apartment-friendly.",
@@ -17416,7 +17416,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "century-bob-xl",
     imageUrl: "https://centurymartialarts.com/cdn/shop/products/bob-xl-body-opponent-bag-857566.jpg",
     category: "fitness",
-    badge: "精度トレーニング",
+    badge: "Precision Training",
     name: { en: "Century BOB XL Body Opponent Bag", ja: "センチュリー BOB XL ボディ・オポーネント・バッグ" },
     description: {
       en: "Freestanding body-shaped torso target, adjustable height, water/sand base. $100-150. Best accuracy training bag — human-shaped target develops striking precision.",
@@ -17432,7 +17432,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "rdx-heavy-bag-5ft",
     imageUrl: "https://rdxsports.com/cdn/shop/products/black_grey_training_punch_bag_with_chains_1.jpg",
     category: "fitness",
-    badge: "ベストコスパハンギング",
+    badge: "Best Value Hanging",
     name: { en: "RDX 5ft Punching Bag (Hanging)", ja: "RDX 5ftパンチングバッグ（ハンギング）" },
     description: {
       en: "Hanging heavy bag, 5ft / ~80 lb, Maya Hide leather, free-swinging. $80-100. Best value hanging bag — dense foam fill, good resistance feedback.",
@@ -17448,7 +17448,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://m.media-amazon.com/images/I/51urum3qA2L._AC_SL1500_.jpg",
     price: "$130",
     category: "fitness",
-    badge: "標準ハンギングバッグ",
+    badge: "Standard Hanging Bag",
     name: { en: "Everlast C3 Heavy Bag 100 lb", ja: "エバーラスト C3 ヘビーバッグ 100lb" },
     description: {
       en: "Hanging heavy bag, 100 lb, canvas, chain included. $80-130. Best standard hanging bag — traditional gym-style, minimal swing for power development.",
@@ -17463,7 +17463,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "ringside-heavy-bag-100lb",
     imageUrl: "https://www.ringside.com/media/catalog/product/cache/d5221d94aa3a6635a511ca59d04c7bfc/l/h/lhb_100_v2.jpg",
     category: "fitness",
-    badge: "伝統的ボクシングバッグ",
+    badge: "Traditional Heavy Bag",
     name: { en: "Ringside 100 lb Heavy Bag", ja: "リングサイド 100lb ヘビーバッグ" },
     description: {
       en: "Hanging heavy bag, 100 lb, canvas, boxing gym standard. $100-150. Best traditional boxing bag — heritage brand, gym-proven durability.",
@@ -17480,7 +17480,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "comvita-manuka-honey-umf10",
     imageUrl: "https://comvita.com/cdn/shop/files/UMF10-250-PDP-Hero.webp?v=1769536267",
     category: "food",
-    badge: "認証マヌカUMF",
+    badge: "Certified UMF Manuka",
     name: { en: "Comvita Manuka Honey UMF 10+", ja: "コンビタ マヌカハニー UMF 10+" },
     description: {
       en: "Manuka honey, UMF 10+ / MGO 263+, 250g. $30-40. Best certified Manuka — UMF certification verifies MGO and authenticity.",
@@ -17495,7 +17495,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "wedderspoon-manuka-kfactor16",
     imageUrl: "https://wedderspoon.com/cdn/shop/files/MGO150-250g.png",
     category: "food",
-    badge: "アクセシブルマヌカ",
+    badge: "Accessible Manuka",
     name: { en: "Wedderspoon Manuka Honey KFactor 16", ja: "ウェッダースプーン マヌカハニー KFactor 16" },
     description: {
       en: "Manuka honey, KFactor 16 (75%+ Manuka pollen), 11.4 oz. $20-30. Best accessible Manuka — KFactor certifies pollen content.",
@@ -17511,7 +17511,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "nature-nates-raw-honey",
     imageUrl: "https://nateshoney.com/wp-content/uploads/Classic-16-Front-Render.png",
     category: "food",
-    badge: "日常生ハチミツ",
+    badge: "Everyday Raw Honey",
     name: { en: "Nature Nate's 100% Pure Raw Honey", ja: "ネイチャーネーツ 100%純粋生ハチミツ" },
     description: {
       en: "Raw clover honey, unfiltered, unheated, 16 oz. $10-15. Best everyday raw honey — traceable US sourcing, mild flavor.",
@@ -17527,7 +17527,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "ys-eco-bee-raw-honey",
     imageUrl: "https://www.pureformulas.com/ccstore/v1/images/?source=/file/v9097305561825314248/products/raw-honey-paste-22-oz-by-ys-eco-bee-farms-20260506074038.jpg",
     category: "food",
-    badge: "濃厚未濾過生ハチミツ",
+    badge: "Thick Unfiltered Raw",
     name: { en: "Y.S. Eco Bee Farms Raw Honey", ja: "Y.S.エコビーファームズ 生ハチミツ" },
     description: {
       en: "Raw honey, USDA organic, unfiltered, 22 oz. $12-18. Best thick unfiltered raw honey — visible propolis and pollen, assertive flavor.",
@@ -17543,7 +17543,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "wholesome-organic-raw-honey",
     imageUrl: "https://wholesomesweet.com/cdn/shop/files/RawUnfilteredJar_ThisHoney_16oz.png",
     category: "food",
-    badge: "オーガニックフェアトレード",
+    badge: "Organic Fair Trade",
     name: { en: "Wholesome Organic Raw Honey", ja: "ホールサム オーガニック生ハチミツ" },
     description: {
       en: "Organic raw honey, fair-trade certified, 16 oz. $12-18. Best organic-certified raw honey — fair-trade sourcing, mild flavor.",
@@ -17560,7 +17560,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "hayabusa-t3-boxing-gloves",
     imageUrl: "https://cdn.sanity.io/images/6tpq25k0/production/25cec9bae260d22c5deb6085ea5786778e1b8d2e-1080x1080.png/t3_main_shot-shopify-white-gold.png",
     category: "fitness",
-    badge: "プレミアムトレーニング",
+    badge: "Premium Training",
     name: { en: "Hayabusa T3 Boxing Gloves", ja: "ハヤブサ T3 ボクシンググローブ" },
     description: {
       en: "Premium training glove, dual-X wrist strap, Vylar leather, multi-layer foam, 12/14/16oz. $100-130. Best training glove for regular use.",
@@ -17576,7 +17576,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "everlast-prostyle-training-gloves",
     imageUrl: "https://www.everlast.com/cdn/shop/files/Prostyle_Training_Gloves_PNK_4_552c7b04-2557-4d50-9423-49e0cccc1035.jpg",
     category: "fitness",
-    badge: "エントリーグローブ",
+    badge: "Entry Glove",
     name: { en: "Everlast ProStyle Training Gloves", ja: "エバーラスト プロスタイル トレーニンググローブ" },
     description: {
       en: "Entry training glove, vinyl, single-layer foam, velcro, 12/14/16oz. $20-35. Best budget entry point — appropriate for beginners.",
@@ -17593,7 +17593,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://cdnimages.opentip.com/full/TIT/TIT-CABG-BLACKRED.jpg",
     price: "$40",
     category: "fitness",
-    badge: "中堅ボクシング専門",
+    badge: "Boxing Specialist",
     name: { en: "Title Boxing Classic Training Gloves", ja: "タイトル ボクシング クラシック トレーニンググローブ" },
     description: {
       en: "Mid-tier training glove, synthetic leather, multi-layer foam, velcro, 12/14/16oz. $40-60. Best mid-range training glove — boxing-specific brand.",
@@ -17609,7 +17609,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://www.everlast.com/cdn/shop/files/image-3.jpg?v=1774352046&width=1946",
     price: "$80",
     category: "fitness",
-    badge: "本革アップグレード",
+    badge: "Leather Upgrade",
     name: { en: "Everlast 1910 Training Gloves", ja: "エバーラスト 1910 トレーニンググローブ" },
     description: {
       en: "Mid-tier training glove, genuine leather, improved foam, wide wrist strap. $60-90. Best leather upgrade at accessible price.",
@@ -17625,7 +17625,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://cletoreyes.com/cdn/shop/products/01E6.12.RED_eedb0bdf-4f11-4cf7-ae03-f14f1aee00b8.jpg?v=1652221864&width=800",
     price: "$175",
     category: "fitness",
-    badge: "プロ競技グレード",
+    badge: "Pro Competition Grade",
     name: { en: "Cleto Reyes Hook & Loop Training Gloves", ja: "クレトレイエス フック&ループ トレーニンググローブ" },
     description: {
       en: "Premium Mexican-made training glove, genuine leather, hook-loop closure, 14/16oz. $150-250. Best premium sparring glove — competition pedigree.",
@@ -17641,7 +17641,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "ippodo-sencha-ummon",
     imageUrl: "https://global.ippodo-tea.co.jp/cdn/shop/collections/sencha-hero.png?v=1627386019",
     category: "food",
-    badge: "参考品質煎茶",
+    badge: "Reference Quality Sencha",
     name: { en: "Ippodo Ummon Sencha Loose Leaf", ja: "一保堂茶舗 雲門の昔 煎茶" },
     description: {
       en: "Japanese loose leaf sencha, Uji-sourced, 80g. $18-25. Best quality reference sencha — Ippodo is Japan's oldest tea shop, direct Uji sourcing.",
@@ -17657,7 +17657,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "harney-sons-japanese-sencha",
     imageUrl: "https://www.harney.com/cdn/shop/products/Cup_Shots_Japanese_Sencha.jpg?v=1762200390&width=1110",
     category: "food",
-    badge: "アクセシブル煎茶",
+    badge: "Accessible Sencha",
     name: { en: "Harney & Sons Japanese Sencha", ja: "ハーニー&サンズ 日本煎茶" },
     description: {
       en: "Japanese sencha loose leaf / bags, 4oz / 20 bags. $8-12. Best accessible sencha — available at Whole Foods, good everyday quality.",
@@ -17674,7 +17674,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://m.media-amazon.com/images/I/61w45O10t-L.jpg",
     category: "food",
     price: "$8.99",
-    badge: "初心者向け玄米茶",
+    badge: "Best Genmaicha for Beginners",
     name: { en: "Two Leaves Genmaicha Green Tea", ja: "ツー・リーブス 玄米茶" },
     description: {
       en: "Genmaicha (sencha + roasted rice), loose leaf, 3oz. $10-14. Best genmaicha for beginners — nutty roasted rice offsets grassiness.",
@@ -17690,7 +17690,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://m.media-amazon.com/images/I/61ytMlRiUVL.jpg",
     price: "$28",
     category: "food",
-    badge: "玉露プレミアム",
+    badge: "Premium Gyokuro",
     name: { en: "Ippodo Gyokuro Shade-Grown Green Tea", ja: "一保堂茶舗 玉露" },
     description: {
       en: "Shade-grown gyokuro, Uji-sourced, 40g. $30-50. Best gyokuro experience — intense umami sweetness, requires temperature control at 50-60°C.",
@@ -17705,7 +17705,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "harney-sons-dragon-well",
     imageUrl: "https://www.harney.com/cdn/shop/products/2021_Loose_3OZ_Lung_Ching_44243.jpg?v=1758315632&width=1110",
     category: "food",
-    badge: "中国緑茶定番",
+    badge: "Chinese Green Tea Classic",
     name: { en: "Harney & Sons Dragon Well (Longjing) Green Tea", ja: "ハーニー&サンズ 龍井茶（ロンジン）" },
     description: {
       en: "Chinese Dragon Well (Longjing) loose leaf, 4oz. $12-18. Best Chinese green tea — pan-fired, toasty-sweet, less vegetal than Japanese greens.",
@@ -17722,7 +17722,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "selkirk-vanguard-power-air",
     imageUrl: "https://www.selkirk.com/cdn/shop/files/VANGUARD_POWER_AIR_S2_White-Black-GR.png?v=1759942229",
     category: "fitness",
-    badge: "プレミアム競技パドル",
+    badge: "Premium Competition Paddle",
     name: { en: "Selkirk Vanguard Power Air Pickleball Paddle", ja: "セルカーク バンガード パワーエア ピックルボールパドル" },
     description: {
       en: "Premium carbon paddle, polymer honeycomb core, Aero-Tec face, 16mm, 7.4-7.6 oz. $200-230. Best premium pickleball paddle — pro tour brand.",
@@ -17738,7 +17738,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "joola-ben-johns-hyperion-cfs16",
     imageUrl: "https://joola.com/cdn/shop/files/Ben-Johns-Hyperion-CFS-16-18502-Web-01.png?v=1768584359&width=1200",
     category: "fitness",
-    badge: "スピン重視",
+    badge: "Spin Focused",
     name: { en: "Joola Ben Johns Hyperion CFS 16 Pickleball Paddle", ja: "ジョーラ ベン・ジョンズ ハイペリオンCFS16 ピックルボールパドル" },
     description: {
       en: "Carbon fiber face (CFS), 16mm polymer core, co-designed with world #1 Ben Johns. $200-230. Best spin-forward premium paddle.",
@@ -17756,7 +17756,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     priceMin: "$30",
     priceMax: "$80",
-    badge: "初心者セット",
+    badge: "Beginner Set",
     name: { en: "Franklin Sports X-40 Pickleball Paddle Set (2 Paddles + 4 Balls)", ja: "フランクリン・スポーツ X-40 ピックルボールパドルセット（2本＋ボール4個）" },
     description: {
       en: "2 composite paddles + 4 X-40 balls, fiberglass face, polymer core. $30-50. Best beginner set — includes tournament-standard balls.",
@@ -17771,7 +17771,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "head-extreme-tour-paddle",
     imageUrl: "https://cdn11.bigcommerce.com/s-tl5mxjzfsl/images/stencil/1000x1000/products/4403/18374/HD203_ExtremeTour_1_1000__08246.1673290053.jpg?c=1",
     category: "fitness",
-    badge: "テニスプレーヤー向け",
+    badge: "Best for Tennis Players",
     name: { en: "Head Extreme Tour Pickleball Paddle", ja: "ヘッド エクストリーム ツアー ピックルボールパドル" },
     description: {
       en: "Graphite face, polymer core, 7.6 oz. $80-100. Best mid-tier for tennis players — familiar feel, forgiving sweet spot.",
@@ -17787,7 +17787,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "paddletek-tempest-wave-pro",
     imageUrl: "https://www.paddletek.com/cdn/shop/files/Paddletek_Tempest_WavePro-C_Aurora_14.3_Front.png?v=1763070846&width=1200",
     category: "fitness",
-    badge: "中堅オールラウンダー",
+    badge: "Mid-Range All-Rounder",
     name: { en: "Paddletek Tempest Wave Pro Pickleball Paddle", ja: "パドルテック テンペスト ウェーブ プロ ピックルボールパドル" },
     description: {
       en: "Textured fiberglass face, polymer core, 14mm, 7.6-8.0 oz. $120-150. Best mid-tier all-rounder — between beginner and premium.",
@@ -17804,7 +17804,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "vita-coco-original",
     imageUrl: "https://cdn.shopify.com/s/files/1/0506/3573/5228/products/CoconutWater_TheOriginal_12x169_Tetra.png?v=1628871140",
     category: "food",
-    badge: "主流ヤシのウォーター",
+    badge: "Mainstream Coconut Water",
     name: { en: "Vita Coco Original Coconut Water", ja: "ビタ ココ オリジナル ヤシのウォーター" },
     description: {
       en: "Pasteurized, no added sugar, 16.9 oz Tetra Pak. $2-3. Best mainstream coconut water — available everywhere, consistent, reliable electrolytes.",
@@ -17820,7 +17820,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "harmless-harvest-raw",
     imageUrl: "https://harmlessharvest.com/cdn/shop/files/harmless-harvest-32oz-organic-pink-coconut-water.png?v=1772214567&width=1000",
     category: "food",
-    badge: "最高の生ヤシのウォーター",
+    badge: "Best Raw Coconut Water",
     name: { en: "Harmless Harvest 100% Raw Coconut Water", ja: "ハームレスハーベスト 100%生ヤシのウォーター" },
     description: {
       en: "Raw (never heated), refrigerated, 10-16 oz. $3.50-5.00. Best raw coconut water — closest to fresh, naturally pink from antioxidants.",
@@ -17836,7 +17836,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "taste-nirvana-coconut-water",
     imageUrl: "https://cdn.prod.website-files.com/66e8d3132d3f47033707a3f3/66e8d3132d3f47033707a839_Front_Real-Coconut-Water-9.5-fl.oz_.png",
     category: "food",
-    badge: "コスパ中間品",
+    badge: "Best Value Mid-Tier",
     name: { en: "Taste Nirvana Real Coconut Water", ja: "テイストニルヴァーナ リアルヤシのウォーター" },
     description: {
       en: "Pasteurized, not from concentrate, Thailand-sourced, 9.5 oz can/glass bottle. $2-3. Best value intermediate — closer to fresh than Vita Coco.",
@@ -17852,7 +17852,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "c2o-pure-coconut-water",
     imageUrl: "https://drinkc2o.com/cdn/shop/products/C2O_ProductSquare_Original_Case_2022_1800x1800.jpg?v=1669837520",
     category: "food",
-    badge: "缶形式",
+    badge: "Can Format",
     name: { en: "C2O Pure Coconut Water (Can)", ja: "C2Oピュアヤシのウォーター（缶）" },
     description: {
       en: "Pasteurized, not from concentrate, Thailand-sourced, 17.5 oz can. $2.50-3.50. Best can format — light barrier preserves shelf-life flavor.",
@@ -17868,7 +17868,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "zico-natural-coconut-water",
     imageUrl: "https://zico.com/cdn/shop/files/1536x1536-Zico-1L-Natural.png?v=1732220319&width=1000",
     category: "food",
-    badge: "乾いた風味プロファイル",
+    badge: "Dry Flavor Profile",
     name: { en: "ZICO Natural Coconut Water", ja: "ジコ ナチュラルヤシのウォーター" },
     description: {
       en: "Pasteurized, no added sugar, 16.9 oz. $2.50-3.50. Best dry-profile coconut water — slightly less sweet than Vita Coco, favored by athletes.",
@@ -17885,7 +17885,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "wilson-pro-staff-97-v14",
     imageUrl: "https://www.racquetpoint.com/cdn/shop/files/wilson-pro-staff-97-v14-tennis-racket-798575.jpg?v=1731795675&width=750",
     category: "fitness",
-    badge: "究極のコントロール",
+    badge: "Ultimate Control",
     name: { en: "Wilson Pro Staff 97 v14 Tennis Racket", ja: "ウィルソン プロスタッフ97 v14 テニスラケット" },
     description: {
       en: "97 sq in, 315g strung, 21mm beam, 16x19. $230-260. Best control racket — iconic frame, exceptional precision for advanced players.",
@@ -17901,7 +17901,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "babolat-pure-aero-2023",
     imageUrl: "https://acesportsllc.com/cdn/shop/products/PureAero2023_2.png?v=1683829663&width=1946",
     category: "fitness",
-    badge: "スピン重視",
+    badge: "Spin Focused",
     name: { en: "Babolat Pure Aero 2023 Tennis Racket", ja: "バボラ ピュアアエロ 2023 テニスラケット" },
     description: {
       en: "100 sq in, 300g, aerodynamic beam, 16x19. $240-270. Best spin-oriented racket — Nadal's frame, optimized for topspin baseline play.",
@@ -17917,7 +17917,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "head-speed-mp",
     imageUrl: "https://img.tennis-warehouse.com/watermark/rs.php?path=HSPDM-1.jpg&nw=455",
     category: "fitness",
-    badge: "オールラウンド中上級",
+    badge: "All-Round Intermediate",
     name: { en: "Head Speed MP Tennis Racket", ja: "ヘッド スピードMP テニスラケット" },
     description: {
       en: "100 sq in, 300g, 23mm beam, 16x19. $220-250. Best all-round intermediate/advanced racket — versatile, Djokovic association.",
@@ -17932,7 +17932,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "yonex-ezone-98",
     imageUrl: "https://us.yonex.com/cdn/shop/files/EZ0898_BlastBlue_5868.jpg?v=1739481973&width=1946",
     category: "fitness",
-    badge: "腕に優しいコントロール",
+    badge: "Arm-Friendly Control",
     name: { en: "Yonex EZONE 98 Tennis Racket", ja: "ヨネックス EZONE 98 テニスラケット" },
     description: {
       en: "98 sq in, 305g, 23.5mm beam, Vibration Dampening Mesh. $230-260. Best arm-friendly control racket — shock reduction for tennis elbow.",
@@ -17948,7 +17948,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     id: "wilson-blade-98-v8",
     imageUrl: "https://img.tennis-warehouse.com/watermark/rs.php?path=B9816V8BG-1.jpg&nw=455",
     category: "fitness",
-    badge: "アクセシブルコントロール",
+    badge: "Accessible Control",
     name: { en: "Wilson Blade 98 v8 Tennis Racket", ja: "ウィルソン ブレード98 v8 テニスラケット" },
     description: {
       en: "98 sq in, 304g, 21.5mm beam, 16x19. $220-250. Best accessible control racket — less demanding than Pro Staff, Swiatek association.",
