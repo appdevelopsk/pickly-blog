@@ -17808,7 +17808,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Vita Coco Original Coconut Water", ja: "ビタ ココ オリジナル ココナッツウォーター" },
     description: {
       en: "Pasteurized, no added sugar, 16.9 oz Tetra Pak. $2-3. Best mainstream coconut water — available everywhere, consistent, reliable electrolytes.",
-      ja: "殺菌処理、砂糖不使用、16.9ozテトラパック。$2〜3。最高の定番のココナッツウォーター——どこでも入手可能、一貫性があり信頼できる電解質。",
+      ja: "殺菌処理、砂糖不使用、16.9ozテトラパック。$2〜3。定番として最も信頼できるココナッツウォーター——どこでも入手可能、一貫性があり信頼できる電解質。",
     },
     price: "$4.99",
     links: [
