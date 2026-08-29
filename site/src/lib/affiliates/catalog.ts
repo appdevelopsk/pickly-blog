@@ -17321,10 +17321,10 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://www.rishi-tea.com/cdn/shop/files/Rishi-PDP-Carousel-MasalaChai-TC.jpg?v=1762452153",
     category: "food",
     badge: "Best Loose Leaf",
-    name: { en: "Rishi Masala Chai Loose Leaf", ja: "リシ・マサラチャイ ルーフリーフ" },
+    name: { en: "Rishi Masala Chai Loose Leaf", ja: "リシ・マサラチャイ リーフ" },
     description: {
       en: "Loose leaf masala chai, Assam base, cardamom-forward, 18-22 servings. $12-16. Best loose leaf chai — whole spice complexity, farm-direct sourcing.",
-      ja: "ルーフリーフ・マサラチャイ、アッサムベース、カルダモン主体、18〜22杯分。$12〜16。最高のルーフリーフチャイ——ホールスパイスの複雑さ、農家直接調達。",
+      ja: "リーフ・マサラチャイ、アッサムベース、カルダモン主体、18〜22杯分。$12〜16。最高のリーフチャイ——ホールスパイスの複雑さ、農家直接調達。",
     },
     price: "$17.50",
     links: [
@@ -17645,7 +17645,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Ippodo Ummon Sencha Loose Leaf", ja: "一保堂茶舗 雲門の昔 煎茶" },
     description: {
       en: "Japanese loose leaf sencha, Uji-sourced, 80g. $18-25. Best quality reference sencha — Ippodo is Japan's oldest tea shop, direct Uji sourcing.",
-      ja: "日本産ルーフリーフ煎茶、宇治産、80g。$18〜25。最高品質の参考煎茶——日本最古の茶舗・一保堂、宇治からの直接調達。",
+      ja: "日本産リーフ煎茶、宇治産、80g。$18〜25。最高品質の参考煎茶——日本最古の茶舗・一保堂、宇治からの直接調達。",
     },
     price: "¥2,500",
     links: [
@@ -17661,7 +17661,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Harney & Sons Japanese Sencha", ja: "ハーニー&サンズ 日本煎茶" },
     description: {
       en: "Japanese sencha loose leaf / bags, 4oz / 20 bags. $8-12. Best accessible sencha — available at Whole Foods, good everyday quality.",
-      ja: "日本産煎茶ルーフリーフ/バッグ、4oz / 20袋。$8〜12。最高のアクセシブル煎茶——ホールフーズで入手可能、日常に良い品質。",
+      ja: "日本産煎茶リーフ/バッグ、4oz / 20袋。$8〜12。最高のアクセシブル煎茶——ホールフーズで入手可能、日常に良い品質。",
     },
     price: "$12.99",
     links: [
@@ -17678,7 +17678,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Two Leaves Genmaicha Green Tea", ja: "ツー・リーブス 玄米茶" },
     description: {
       en: "Genmaicha (sencha + roasted rice), loose leaf, 3oz. $10-14. Best genmaicha for beginners — nutty roasted rice offsets grassiness.",
-      ja: "玄米茶（煎茶＋炒った玄米）、ルーフリーフ、3oz。$10〜14。初心者に最高の玄米茶——炒った玄米がグラッシーさを相殺。",
+      ja: "玄米茶（煎茶＋炒った玄米）、リーフ、3oz。$10〜14。初心者に最高の玄米茶——炒った玄米がグラッシーさを相殺。",
     },
     links: [
       { network: "amazon-us", productId: "B000BKKYC6", rawUrl: "https://www.amazon.com/dp/B000BKKYC6", markets: ["US"], approved: true },
@@ -17709,7 +17709,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Harney & Sons Dragon Well (Longjing) Green Tea", ja: "ハーニー&サンズ 龍井茶（ロンジン）" },
     description: {
       en: "Chinese Dragon Well (Longjing) loose leaf, 4oz. $12-18. Best Chinese green tea — pan-fired, toasty-sweet, less vegetal than Japanese greens.",
-      ja: "中国産龍井茶（ロンジン）ルーフリーフ、4oz。$12〜18。最高の中国緑茶——釜炒り製、トースティで甘い、日本茶より植物的でない。",
+      ja: "中国産龍井茶（ロンジン）リーフ、4oz。$12〜18。最高の中国緑茶——釜炒り製、トースティで甘い、日本茶より植物的でない。",
     },
     price: "$38.00",
     links: [
@@ -17805,10 +17805,10 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://cdn.shopify.com/s/files/1/0506/3573/5228/products/CoconutWater_TheOriginal_12x169_Tetra.png?v=1628871140",
     category: "food",
     badge: "Mainstream Coconut Water",
-    name: { en: "Vita Coco Original Coconut Water", ja: "ビタ ココ オリジナル ヤシのウォーター" },
+    name: { en: "Vita Coco Original Coconut Water", ja: "ビタ ココ オリジナル ココナッツウォーター" },
     description: {
       en: "Pasteurized, no added sugar, 16.9 oz Tetra Pak. $2-3. Best mainstream coconut water — available everywhere, consistent, reliable electrolytes.",
-      ja: "殺菌処理、砂糖不使用、16.9ozテトラパック。$2〜3。最高の主流ヤシのウォーター——どこでも入手可能、一貫性があり信頼できる電解質。",
+      ja: "殺菌処理、砂糖不使用、16.9ozテトラパック。$2〜3。最高の定番のココナッツウォーター——どこでも入手可能、一貫性があり信頼できる電解質。",
     },
     price: "$4.99",
     links: [
@@ -17821,10 +17821,10 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://harmlessharvest.com/cdn/shop/files/harmless-harvest-32oz-organic-pink-coconut-water.png?v=1772214567&width=1000",
     category: "food",
     badge: "Best Raw Coconut Water",
-    name: { en: "Harmless Harvest 100% Raw Coconut Water", ja: "ハームレスハーベスト 100%生ヤシのウォーター" },
+    name: { en: "Harmless Harvest 100% Raw Coconut Water", ja: "ハームレスハーベスト 100%生ココナッツウォーター" },
     description: {
       en: "Raw (never heated), refrigerated, 10-16 oz. $3.50-5.00. Best raw coconut water — closest to fresh, naturally pink from antioxidants.",
-      ja: "生（加熱なし）、冷蔵、10〜16oz。$3.50〜5.00。最高の生ヤシのウォーター——生のものに最も近く、抗酸化物質による自然なピンク色。",
+      ja: "生（加熱なし）、冷蔵、10〜16oz。$3.50〜5.00。最高の生ココナッツウォーター——生のものに最も近く、抗酸化物質による自然なピンク色。",
     },
     price: "$8.05",
     links: [
@@ -17837,7 +17837,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://cdn.prod.website-files.com/66e8d3132d3f47033707a3f3/66e8d3132d3f47033707a839_Front_Real-Coconut-Water-9.5-fl.oz_.png",
     category: "food",
     badge: "Best Value Mid-Tier",
-    name: { en: "Taste Nirvana Real Coconut Water", ja: "テイストニルヴァーナ リアルヤシのウォーター" },
+    name: { en: "Taste Nirvana Real Coconut Water", ja: "テイストニルヴァーナ リアルココナッツウォーター" },
     description: {
       en: "Pasteurized, not from concentrate, Thailand-sourced, 9.5 oz can/glass bottle. $2-3. Best value intermediate — closer to fresh than Vita Coco.",
       ja: "殺菌処理、濃縮物不使用、タイ産、9.5oz缶/ガラス瓶。$2〜3。コスパ最高の中間品——ビタココより生のものに近い。",
@@ -17853,7 +17853,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://drinkc2o.com/cdn/shop/products/C2O_ProductSquare_Original_Case_2022_1800x1800.jpg?v=1669837520",
     category: "food",
     badge: "Can Format",
-    name: { en: "C2O Pure Coconut Water (Can)", ja: "C2Oピュアヤシのウォーター（缶）" },
+    name: { en: "C2O Pure Coconut Water (Can)", ja: "C2Oピュアココナッツウォーター（缶）" },
     description: {
       en: "Pasteurized, not from concentrate, Thailand-sourced, 17.5 oz can. $2.50-3.50. Best can format — light barrier preserves shelf-life flavor.",
       ja: "殺菌処理、濃縮物不使用、タイ産、17.5oz缶。$2.50〜3.50。最高の缶形式——遮光性が保存期間中の風味を保持。",
@@ -17869,10 +17869,10 @@ const RAW_CATALOG: AffiliateOffer[] = [
     imageUrl: "https://zico.com/cdn/shop/files/1536x1536-Zico-1L-Natural.png?v=1732220319&width=1000",
     category: "food",
     badge: "Dry Flavor Profile",
-    name: { en: "ZICO Natural Coconut Water", ja: "ジコ ナチュラルヤシのウォーター" },
+    name: { en: "ZICO Natural Coconut Water", ja: "ジコ ナチュラルココナッツウォーター" },
     description: {
       en: "Pasteurized, no added sugar, 16.9 oz. $2.50-3.50. Best dry-profile coconut water — slightly less sweet than Vita Coco, favored by athletes.",
-      ja: "殺菌処理、砂糖不使用、16.9oz。$2.50〜3.50。最高の乾いた風味プロファイルのヤシのウォーター——ビタココより少し甘みが少なく、スポーツ選手に好まれる。",
+      ja: "殺菌処理、砂糖不使用、16.9oz。$2.50〜3.50。最高の乾いた風味プロファイルのココナッツウォーター——ビタココより少し甘みが少なく、スポーツ選手に好まれる。",
     },
     price: "$4.99",
     links: [
