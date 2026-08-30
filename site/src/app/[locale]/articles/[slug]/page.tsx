@@ -6,6 +6,7 @@ import { isDeindexed } from "@/lib/articles/deindexed-slugs";
 import { getVerifiedSpecs } from "@/lib/articles/specs";
 import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
+import { narrowOffersForLocale } from "@/lib/affiliates/narrow";
 import { ArticleBody } from "@/components/articles/ArticleBody";
 import { ArticleCrossLinks } from "@/components/articles/ArticleCrossLinks";
 import { RelatedArticles } from "@/components/articles/RelatedArticles";
@@ -207,6 +208,10 @@ export default async function ArticlePage({ params }: Props) {
     sameAs: ["https://www.pinterest.com/appdevelopsk/", SITE_URL],
   };
 
+  // client component へ渡す分は、当該ロケールで読まれないロケール文字列を落とす。
+  // (RSC ペイロードに全ロケールが載り、英語ページに日本語が混入するため)
+  const clientOffers = narrowOffersForLocale(offers, locale, market);
+
   // JSON-LD: ItemList for comparison articles (ranked product list rich result)
   const itemListSchema = meta.type === "comparison" && offers.length > 0 ? {
     "@context": "https://schema.org",
@@ -300,7 +305,7 @@ export default async function ArticlePage({ params }: Props) {
       <ArticleBody
         meta={meta}
         content={content}
-        offers={offers}
+        offers={clientOffers}
         related={inlineRelated}
         sidebarRelated={sidebarRelated}
       />

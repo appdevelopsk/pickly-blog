@@ -73,8 +73,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
   {
     id: "expressvpn",
     imageUrl: "https://dl.svgcdn.com/png/simple-icons/expressvpn-400.png",
-    priceMin: "$4.99/月",
-    priceMax: "$12.95/月",
+    priceMin: "$4.99/mo",
+    priceMax: "$12.95/mo",
     category: "tech",
     badge: "⚡",
     name: { en: "ExpressVPN", ja: "ExpressVPN" },
@@ -90,8 +90,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
   {
     id: "surfshark",
     imageUrl: "https://dl.svgcdn.com/png/simple-icons/surfshark-400.png",
-    priceMin: "$1.99/月",
-    priceMax: "$15.45/月",
+    priceMin: "$1.99/mo",
+    priceMax: "$15.45/mo",
     category: "tech",
     badge: "🦈",
     name: { en: "Surfshark", ja: "Surfshark" },
@@ -109,8 +109,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
   {
     id: "protonvpn",
     imageUrl: "https://dl.svgcdn.com/png/simple-icons/protonvpn-400.png",
-    priceMin: "$3.59/月",
-    priceMax: "$12.99/月",
+    priceMin: "$3.59/mo",
+    priceMax: "$12.99/mo",
     category: "tech",
     badge: "🔒",
     name: { en: "Proton VPN", ja: "Proton VPN" },
@@ -127,7 +127,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
   {
     id: "mullvad",
     imageUrl: "https://dl.svgcdn.com/png/simple-icons/mullvad-400.png",
-    price: "€5/月",
+    price: "€5/mo",
     category: "tech",
     badge: "🐾",
     name: { en: "Mullvad", ja: "Mullvad" },

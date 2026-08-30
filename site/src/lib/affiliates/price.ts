@@ -19,7 +19,7 @@ const EUR_MARKETS = ["EU", "FR", "ES", "IT"];
  * same market gate as an explicitly-tagged price. Rate strings ("0.25%〜0.40%",
  * "5.24% APR") are genuinely currency-free and stay visible everywhere.
  */
-function classify(price: string): { currency: "USD" | "JPY" | "GBP" | "EUR" | "none"; display: string } {
+export function classify(price: string): { currency: "USD" | "JPY" | "GBP" | "EUR" | "none"; display: string } {
   if (price.includes("$")) return { currency: "USD", display: price };
   if (price.includes("¥") || price.includes("円")) return { currency: "JPY", display: price };
   if (price.includes("£")) return { currency: "GBP", display: price };
@@ -48,9 +48,21 @@ export function resolvePrice(o: AffiliateOffer, locale: string): string | null {
   const price = o.priceMin && o.priceMax ? `${o.priceMin}〜${o.priceMax}` : (o.price ?? null);
   if (!price) return null;
   const { currency, display } = classify(price);
-  if (currency === "USD" && market !== "US" && market !== "CA") return null;
-  if (currency === "JPY" && market !== "JP") return null;
-  if (currency === "GBP" && market !== "UK") return null;
-  if (currency === "EUR" && !EUR_MARKETS.includes(market)) return null;
+  if (!currencyMatchesMarket(currency, market)) return null;
   return display;
+}
+
+/**
+ * 通貨と市場の整合。resolvePrice の表示ゲートと narrow.ts の
+ * RSCペイロード除去で同じ判定を使う（片方だけ直すと混入が復活する）。
+ */
+export function currencyMatchesMarket(
+  currency: ReturnType<typeof classify>["currency"],
+  market: string,
+): boolean {
+  if (currency === "USD") return market === "US" || market === "CA";
+  if (currency === "JPY") return market === "JP";
+  if (currency === "GBP") return market === "UK";
+  if (currency === "EUR") return EUR_MARKETS.includes(market);
+  return true;
 }
