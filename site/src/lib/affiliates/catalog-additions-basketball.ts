@@ -158,7 +158,7 @@ export const CATALOG_ADDITIONS_BASKETBALL = [
   },
   {
     id: "jordan-luka-3",
-    imageUrl: "https://img-sneaksupincommerce.mncdn.com/Content/Images/Thumbs/0209354_jordan-luka-3-fq1284-100.jpeg",
+    imageUrl: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a17810f8-5034-41ce-a320-bfc4f294d694/JORDAN+LUKA+3.png",
     category: "fitness",
     name: { en: "Jordan Luka 3" },
     description: { en: "The Luka line is built around Luka Doncic's deliberate, footwork-heavy game, and the outsole is tuned for stability and reliable grip on the constant pivots, step-backs, and direction changes that define it." },

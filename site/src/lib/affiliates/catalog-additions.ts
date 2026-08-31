@@ -5470,7 +5470,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-hada-labo-gokujun",
-    "imageUrl": "",
+    "imageUrl": "https://rohto.co.id/assets/uploads/product/20240212102147.png",
     "priceMin": "¥660",
     "priceMax": "¥660",
     "category": "beauty",
@@ -10985,7 +10985,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "space-heater-lasko-cyclonic",
-    "imageUrl": "https://lasko.com/cdn/shop/files/rfk6nslztjnbaibeflzq_09c5fe73-7ccb-4e0e-a0b2-bc3c070ca314.jpg?v=1765918850&width=990",
+    "imageUrl": "http://lasko.com/cdn/shop/files/whofkv5mn9lbpgfzcr8m_ffd741dc-67b7-498d-a07c-38e152199e38_1200x1200.jpg?v=1733834597",
     "priceMin": "50",
     "priceMax": "80",
     "category": "home",
@@ -29740,7 +29740,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "black-decker-bdh2000pl-pivot",
-    "imageUrl": "https://toolsandmore.us/images/products/detail/bdh2000pl.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/516LsONVRuS._AC_SL1000_.jpg",
     "priceMin": "$60",
     "priceMax": "$80",
     "category": "tech",
@@ -37462,7 +37462,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "united-healthcare-aarp-medicare-supplement",
-    "imageUrl": "https://www.nerdwallet.com/cdn-cgi/image/quality=85/cdn/ve/partners/aarp+uh.png",
+    "imageUrl": "https://medicarebuddyy.com/wp-content/uploads/2026/05/1-36.png",
     "priceMin": "$135",
     "priceMax": "$290",
     "category": "finance",
@@ -46209,7 +46209,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "portacool-cyclone-130",
-    "imageUrl": "",
+    "imageUrl": "https://www.portacool.com/wp-content/uploads/2024/12/cyclone-130_rightface-600x720.png?x23722",
     "priceMin": "$450",
     "priceMax": "$700",
     "category": "home",
