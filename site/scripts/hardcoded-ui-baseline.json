@@ -14,8 +14,8 @@
   "[aria-label] Other occasions"
  ],
  "src/app/[locale]/new/page.tsx": [
-  "= monthAgo && new Date(a.publishedAt)",
-  "new Date(a.publishedAt)"
+  "= monthAgo && published(a)",
+  "published(a)"
  ],
  "src/app/[locale]/popular/page.tsx": [
   "[aria-label] breadcrumb"
@@ -40,13 +40,6 @@
  ],
  "src/components/LocaleSwitcher.tsx": [
   "[aria-label] Change language"
- ],
- "src/components/articles/ArticleBody.tsx": [
-  "o.rating) &&",
-  "o2.rating) && (",
-  "resolvePrice(o, locale)) &&",
-  "resolvePrice(o, locale))) && (",
-  "resolvePrice(o2, locale)) && ("
  ],
  "src/components/layout/SiteFooter.tsx": [
   "&nbsp;"
