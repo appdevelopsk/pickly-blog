@@ -182,12 +182,14 @@ export default async function HomePage({ params }: Props) {
           <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
             <Link
               href="/ranking"
+              data-related="home-hero-cta"
               className="inline-flex items-center gap-2 rounded-xl bg-brand-600 px-6 py-3 text-sm font-bold text-white shadow-md transition-all hover:-translate-y-0.5 hover:bg-brand-700 hover:shadow-lg"
             >
               🏆 Rankings →
             </Link>
             <Link
               href="/articles"
+              data-related="home-hero-cta"
               className="inline-flex items-center gap-2 rounded-xl border border-slate-200 bg-white px-6 py-3 text-sm font-semibold text-slate-600 shadow-sm transition-all hover:border-brand-300 hover:text-brand-700"
             >
               {navArticles}
@@ -205,6 +207,7 @@ export default async function HomePage({ params }: Props) {
                 <Link
                   key={cat}
                   href={`/category/${cat}`}
+                  data-related="home-category"
                   className="flex items-center gap-1.5 rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-medium text-slate-600 shadow-sm transition-colors hover:border-brand-300 hover:bg-brand-50 hover:text-brand-700"
                 >
                   {CATEGORY_ICONS[cat] && <span>{CATEGORY_ICONS[cat]}</span>}
@@ -274,6 +277,7 @@ export default async function HomePage({ params }: Props) {
               return (
                 <Link
                   href={`/articles/${featured.slug}`}
+                  data-related="home-featured"
                   className="group mb-5 flex flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-brand-200 hover:shadow-xl sm:flex-row"
                 >
                   {/* Image */}
@@ -349,6 +353,7 @@ export default async function HomePage({ params }: Props) {
                   <li key={a.slug}>
                     <Link
                       href={`/articles/${a.slug}`}
+                      data-related="home-grid"
                       className="group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-brand-200 hover:shadow-lg"
                     >
                       {/* Thumbnail */}
@@ -417,6 +422,7 @@ export default async function HomePage({ params }: Props) {
           <div className="mt-14 text-center">
             <Link
               href="/articles"
+              data-related="home-viewall"
               className="inline-flex items-center gap-2 rounded-full border-2 border-brand-600 px-8 py-3 text-sm font-bold text-brand-600 transition-all hover:bg-brand-600 hover:text-white"
             >
               {navArticles} ({articles.length}) →
@@ -429,7 +435,7 @@ export default async function HomePage({ params }: Props) {
           <h2 className="mb-6 text-xl font-black text-slate-900">{tt("home.moreWays", "More ways to browse")}</h2>
           <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
             {/* By Purpose */}
-            <Link href="/purpose" className="group flex items-start gap-4 rounded-2xl border border-brand-100 bg-brand-50 p-5 transition-all hover:border-brand-300 hover:shadow-md">
+            <Link href="/purpose" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-brand-100 bg-brand-50 p-5 transition-all hover:border-brand-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>🎯</span>
               <div>
                 <p className="mb-1 font-black text-slate-900 group-hover:text-brand-700 transition-colors">{tt("home.purposeTitle", "Browse by purpose")}</p>
@@ -437,7 +443,7 @@ export default async function HomePage({ params }: Props) {
               </div>
             </Link>
             {/* Compare */}
-            <Link href="/compare" className="group flex items-start gap-4 rounded-2xl border border-indigo-100 bg-indigo-50 p-5 transition-all hover:border-indigo-300 hover:shadow-md">
+            <Link href="/compare" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-indigo-100 bg-indigo-50 p-5 transition-all hover:border-indigo-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>⚖️</span>
               <div>
                 <p className="mb-1 font-black text-slate-900 group-hover:text-indigo-700 transition-colors">{tt("home.compareTitle", "Head-to-head comparisons")}</p>
@@ -447,7 +453,7 @@ export default async function HomePage({ params }: Props) {
               </div>
             </Link>
             {/* Gift guides */}
-            <Link href="/gifts" className="group flex items-start gap-4 rounded-2xl border border-pink-100 bg-pink-50 p-5 transition-all hover:border-pink-300 hover:shadow-md">
+            <Link href="/gifts" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-pink-100 bg-pink-50 p-5 transition-all hover:border-pink-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>🎁</span>
               <div>
                 <p className="mb-1 font-black text-slate-900 group-hover:text-pink-700 transition-colors">{tt("home.giftsTitle", "Gift guides")}</p>
@@ -455,7 +461,7 @@ export default async function HomePage({ params }: Props) {
               </div>
             </Link>
             {/* Tags */}
-            <Link href="/tags" className="group flex items-start gap-4 rounded-2xl border border-teal-100 bg-teal-50 p-5 transition-all hover:border-teal-300 hover:shadow-md">
+            <Link href="/tags" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-teal-100 bg-teal-50 p-5 transition-all hover:border-teal-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>🏷️</span>
               <div>
                 <p className="mb-1 font-black text-slate-900 group-hover:text-teal-700 transition-colors">{tt("home.tagsTitle", "Browse by tag")}</p>
@@ -465,7 +471,7 @@ export default async function HomePage({ params }: Props) {
               </div>
             </Link>
             {/* Budget */}
-            <Link href="/under/100" className="group flex items-start gap-4 rounded-2xl border border-green-100 bg-green-50 p-5 transition-all hover:border-green-300 hover:shadow-md">
+            <Link href="/under/100" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-green-100 bg-green-50 p-5 transition-all hover:border-green-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>💰</span>
               <div>
                 <p className="mb-1 font-black text-slate-900 group-hover:text-green-700 transition-colors">{tt("home.budgetTitle", "Best under $100")}</p>
@@ -473,7 +479,7 @@ export default async function HomePage({ params }: Props) {
               </div>
             </Link>
             {/* Best of 2026 */}
-            <Link href="/best-2026" className="group flex items-start gap-4 rounded-2xl border border-amber-100 bg-amber-50 p-5 transition-all hover:border-amber-300 hover:shadow-md">
+            <Link href="/best-2026" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-amber-100 bg-amber-50 p-5 transition-all hover:border-amber-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>✨</span>
               <div>
                 <p className="mb-1 font-black text-slate-900 group-hover:text-amber-700 transition-colors">{tt("home.bestofTitle", "Best of 2026")}</p>
@@ -481,7 +487,7 @@ export default async function HomePage({ params }: Props) {
               </div>
             </Link>
             {/* Popular */}
-            <Link href="/popular" className="group flex items-start gap-4 rounded-2xl border border-purple-100 bg-purple-50 p-5 transition-all hover:border-purple-300 hover:shadow-md">
+            <Link href="/popular" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-purple-100 bg-purple-50 p-5 transition-all hover:border-purple-300 hover:shadow-md">
               <span className="shrink-0 text-2xl" aria-hidden>🏆</span>
               <div>
                 <p className="mb-1 font-black text-slate-900 group-hover:text-purple-700 transition-colors">{tt("home.popularTitle", "Most popular")}</p>

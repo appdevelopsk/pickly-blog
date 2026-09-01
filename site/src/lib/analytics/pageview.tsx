@@ -53,7 +53,10 @@ export function PageViewTracker() {
         return;
       }
 
-      // 関連記事導線は data-related に配置箇所（inline/sidebar/grid/nav）が入る。
+      // 回遊導線は data-related に配置箇所が入る。記事内(hero/inline/sidebar/grid/nav-*)に加え、
+      // 2026-09-01 にトップページ(home-*)と ArticleCrossLinks(cross-*)を計装した。
+      // それまで回遊データは記事ページ内の枠しか見えておらず、どの導線が生きているか
+      // 測定自体が不可能だった（pv/session 1.14 固着の改修対象を決めるための前提整備）。
       const placement = link.dataset.related;
       if (placement) {
         window.gtag?.("event", "related_click", {

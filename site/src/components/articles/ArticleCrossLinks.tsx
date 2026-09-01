@@ -36,6 +36,7 @@ export function ArticleCrossLinks({ slug, category }: Props) {
       {relatedCompare && (
         <Link
           href={`/compare/${relatedCompare.slug}`}
+          data-related="cross-compare"
           className="group flex items-center gap-4 rounded-2xl border border-indigo-200 bg-indigo-50 px-5 py-4 transition-all hover:border-indigo-400 hover:shadow-md"
         >
           <span className="shrink-0 text-2xl" aria-hidden>⚖️</span>
@@ -56,6 +57,7 @@ export function ArticleCrossLinks({ slug, category }: Props) {
             <Link
               key={tag.slug}
               href={`/tag/${tag.slug}`}
+              data-related="cross-tag"
               className="flex items-center gap-1.5 rounded-full border border-teal-200 bg-teal-50 px-3.5 py-1.5 text-xs font-bold text-teal-700 hover:border-teal-400 hover:bg-teal-100 transition-colors"
             >
               {tag.icon} {tt(`tagPages.${tag.slug}.label`, tag.label)}
@@ -63,6 +65,7 @@ export function ArticleCrossLinks({ slug, category }: Props) {
           ))}
           <Link
             href="/tags"
+            data-related="cross-tags-all"
             className="flex items-center gap-1 rounded-full border border-slate-200 bg-white px-3.5 py-1.5 text-xs font-medium text-slate-400 hover:border-slate-300 hover:text-slate-600 transition-colors"
           >
             More tags →
@@ -74,6 +77,7 @@ export function ArticleCrossLinks({ slug, category }: Props) {
       {relatedSale && (
         <Link
           href={`/sale/${relatedSale.slug}`}
+          data-related="cross-sale"
           className="group flex items-center gap-4 rounded-2xl border border-orange-200 bg-orange-50 px-5 py-4 transition-all hover:border-orange-400 hover:shadow-md"
         >
           <span className="shrink-0 text-2xl" aria-hidden>{relatedSale.icon}</span>
