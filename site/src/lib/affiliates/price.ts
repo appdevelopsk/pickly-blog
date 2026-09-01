@@ -39,11 +39,29 @@ export function classify(price: string): { currency: "USD" | "JPY" | "GBP" | "EU
   return { currency: "none", display: price };
 }
 
+/**
+ * Recurring-price suffix carried by the catalog ("¥430/月", "$20/month").
+ * The auto-fetched overrides are bare amounts, so an override silently turns a
+ * monthly subscription price into what reads as a one-off purchase price
+ * (8 offers: VPN + JP rental servers + a subscription box). Re-attach the
+ * catalog's own suffix to the override rather than hand-editing the generated
+ * file, which is regenerated daily.
+ */
+const PERIOD_SUFFIX = /(\/(?:月|年|mo|month|yr|year))\s*$/;
+
+function periodSuffix(o: AffiliateOffer): string {
+  const base = o.priceMin ?? o.price ?? "";
+  return PERIOD_SUFFIX.exec(base)?.[1] ?? "";
+}
+
 export function resolvePrice(o: AffiliateOffer, locale: string): string | null {
   const market = inferMarketFromLocale(locale);
   // 1. Market-specific override (auto-fetched daily)
   const override = PRICES[o.id]?.[market];
-  if (override) return override;
+  if (override) {
+    const suffix = periodSuffix(o);
+    return suffix && !PERIOD_SUFFIX.test(override) ? `${override}${suffix}` : override;
+  }
   // 2. Catalog price field — hide when currency doesn't match market
   const price = o.priceMin && o.priceMax ? `${o.priceMin}〜${o.priceMax}` : (o.price ?? null);
   if (!price) return null;

@@ -66,13 +66,20 @@ export default async function NewPage({ params }: Props) {
     a.publishedAt < b.publishedAt ? 1 : -1,
   );
 
-  const now = new Date("2026-06-10"); // deterministic for SSG
+  // Buckets are relative to build time (matches isNew() on / and /articles).
+  // A frozen `now` silently rots: every article dated after it falls into
+  // "this week" forever, because these filters have no upper bound.
+  const now = new Date();
   const weekAgo  = new Date(now); weekAgo.setDate(now.getDate() - 7);
   const monthAgo = new Date(now); monthAgo.setDate(now.getDate() - 30);
 
-  const thisWeek  = sorted.filter((a) => new Date(a.publishedAt) >= weekAgo);
-  const thisMonth = sorted.filter((a) => new Date(a.publishedAt) >= monthAgo && new Date(a.publishedAt) < weekAgo);
-  const older     = sorted.filter((a) => new Date(a.publishedAt) < monthAgo).slice(0, 24);
+  const published = (a: ArticleMeta) => new Date(a.publishedAt);
+  const thisWeek  = sorted.filter((a) => published(a) >= weekAgo);
+  const thisMonth = sorted.filter((a) => published(a) >= monthAgo && published(a) < weekAgo);
+  // If publishing has paused, both recent buckets go empty and the page would
+  // render nearly blank. Fall back to the newest articles regardless of age.
+  const recentEmpty = thisWeek.length === 0 && thisMonth.length === 0;
+  const older     = (recentEmpty ? sorted : sorted.filter((a) => published(a) < monthAgo)).slice(0, 24);
 
   const breadcrumb = {
     "@context": "https://schema.org", "@type": "BreadcrumbList",
@@ -183,7 +190,7 @@ export default async function NewPage({ params }: Props) {
       {older.length > 0 && (
         <section className="mb-10">
           <h2 className="mb-4 text-lg font-black text-slate-900">
-            Earlier
+            {recentEmpty ? tt("pages.latestBadge", "Latest reviews") : "Earlier"}
             <span className="ml-2 text-sm font-normal text-slate-400">({older.length} shown)</span>
           </h2>
           <Grid articles={older} />

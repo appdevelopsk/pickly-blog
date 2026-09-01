@@ -23572,7 +23572,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
  * これにより、catalog.ts はTSで型・default構造を持ち続けつつ、
  * CLI が overrides.json だけを書き換えれば proper deploy 可能。
  */
-export const CATALOG: AffiliateOffer[] = RAW_CATALOG.map((offer) => {
+const MERGED_CATALOG: AffiliateOffer[] = RAW_CATALOG.map((offer) => {
   const override = OVERRIDES[offer.id];
   if (!override?.links?.length) return offer;
   const overrideKeys = new Set(override.links.map((l) => `${l.network}:${l.productId}`));
@@ -23582,6 +23582,43 @@ export const CATALOG: AffiliateOffer[] = RAW_CATALOG.map((offer) => {
   ];
   return { ...offer, links: merged };
 });
+
+/**
+ * 重複 id の畳み込み。
+ *
+ * catalog-additions / rescue / batch12 の12ファイルは無検査で spread されるため、
+ * 同じ id が2回現れることがある(実測 208 id)。全ペアが内容相違で、多くは
+ * 「カテゴリ別に書き分けた枠が id で衝突した」もの。
+ *
+ * ルール:
+ *   - category が違うコピーは別枠として両方残す(カテゴリ一覧での出し分けは意図的)
+ *   - category が同じコピーは1つに畳む。approved link を持つ方を優先し、
+ *     同条件なら先に定義された方を採る。
+ *
+ * これがないと CATALOG.find(o => o.id === id) が「先頭の、リンクが死んでいる方」を
+ * 返し、実際には出稿できる商品が記事上で「準備中」になる(実測21件)。
+ */
+function hasApprovedLink(o: AffiliateOffer): boolean {
+  return o.links.some((l) => l.approved);
+}
+
+export const CATALOG: AffiliateOffer[] = (() => {
+  const byKey = new Map<string, number>();
+  const out: AffiliateOffer[] = [];
+  for (const offer of MERGED_CATALOG) {
+    const key = `${offer.id}\u0000${offer.category}`;
+    const at = byKey.get(key);
+    if (at === undefined) {
+      byKey.set(key, out.length);
+      out.push(offer);
+      continue;
+    }
+    // 既出と同 id・同 category → approved を持つ方を残す
+    const prev = out[at];
+    if (prev && !hasApprovedLink(prev) && hasApprovedLink(offer)) out[at] = offer;
+  }
+  return out;
+})();
 
 /**
  * カテゴリ + ロケール + マーケット に合致する offer を抽出。
