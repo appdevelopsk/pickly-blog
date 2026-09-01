@@ -5,7 +5,7 @@
   "methodology": "Kilo hassasiyeti, aynı kişiyle aynı günün aynı saatinde 5 ölçüm yaparak bir klinikte kalibre edilmiş tıbbi terazi ile karşılaştırıldı. Bluetooth eşleşme güvenilirliği 30 gün boyunca kayıt altına alındı (30 senkronizasyon denemesindeki başarısızlık sayısı). Uygulama kalitesi veri görselleştirme, trend grafikleri ve çoklu kullanıcı yönetimi açısından değerlendirildi.",
   "sections": [
     {
-      "heading": "Nasıl test ettik",
+      "heading": "Nasıl karşılaştırdık",
       "paragraphs": [
         "Kilo hassasiyeti, her şeyden önemli temel testtir. Her terazi için günün aynı saatinde (sabah 7, tuvalet sonrası, yemekten önce) 5 ölçüm yaptık ve kalibre edilmiş Tanita tıbbi terazisiyle karşılaştırdık. Tıbbi referanstan 0,05 kg'dan fazla sapan her terazi not edildi. Beşi de bu testi geçti — modern dijital teraziler kilo ölçümünde güvenilir biçimde hassas.",
         "Bluetooth güvenilirliği 30 gün boyunca iPhone 15 (iOS 18) ve Pixel 8 (Android 15) üzerinde takip edildi. Her senkronizasyon denemesini kaydettik ve başarısızlıkları not ettik. 'Başarısızlık', uygulamayı açtığında terazi verisinin 60 saniye içinde görünmemesi olarak tanımlandı. Withings'in Wi-Fi senkronizasyonu Bluetooth gerektirmediğinden ayrı olarak karşılaştırıldı.",

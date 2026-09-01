@@ -150,7 +150,7 @@ export default async function PopularPage({ params }: Props) {
             {tt("pages.popularSub", "Most popular reviews")}
           </h1>
           <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">
-            Our highest-rated comparisons — chosen for depth of testing, breadth of options, and real-world usefulness.
+            {tt("pages.popularDesc", "Our highest-rated comparisons \u2014 researched, curated and updated for 2026.")}
           </p>
         </section>
 
