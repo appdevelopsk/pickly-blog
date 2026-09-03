@@ -194,6 +194,17 @@ jobs:
             exit 1
           fi
 
+      # IndexNow の差分判定に使う前回の url→lastmod 署名。
+      # key に run_id を入れて毎回新規保存し、restore-keys で直前の run のものを復元する
+      # (OG キャッシュと同じ形)。post ステップで保存されるので、送信ステップより前に置く。
+      - name: Cache IndexNow state
+        uses: actions/cache@v6
+        with:
+          path: .indexnow-ci-state
+          key: indexnow-state-${{ github.run_id }}
+          restore-keys: |
+            indexnow-state-
+
       - name: Deploy to Cloudflare Pages
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -202,3 +213,15 @@ jobs:
           wrangler pages deploy out \
             --project-name="${{ vars.CLOUDFLARE_PROJECT_NAME }}" \
             --branch=main
+
+      # デプロイ直後に本番 sitemap の差分を IndexNow へ送る。
+      # launchd (growth/indexnow.mjs) の日次 9:30 では当日の変更が翌日まで送られなかったため、
+      # pickly だけ CI に一本化した (growth 側の SITES からは pickly を外してある)。
+      # デプロイは成功しているので、送信の失敗でジョブは落とさない
+      # (状態は成功時しか更新しないので、次回の run で再送される)。
+      - name: Submit changed URLs to IndexNow
+        continue-on-error: true
+        working-directory: .
+        run: |
+          sleep 30  # Pages のエッジ反映待ち
+          node scripts/indexnow-ci.mjs
