@@ -27,26 +27,45 @@ const CATEGORIES = [
 ];
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const now = new Date().toISOString();
   const out: MetadataRoute.Sitemap = [];
+  // 検索インデックス対象ロケールのみ sitemap / hreflang に載せる（死蔵言語は除外）。
+  const IDX = LOCALES.filter(isIndexedLocale);
+
+  // 一覧ページの lastmod は「そのページが列挙し得る記事群の updatedAt 最大値」から導出する。
+  // 以前はビルド時刻 new Date() を非記事1,153件全部に付けており、内容が変わらなくても
+  // 毎ビルドで lastmod が動いていた（lastmod差分ベースの送信系が毎回「更新あり」と誤認する）。
+  // updatedAt は "YYYY-MM-DD" なので辞書順比較で最大値が取れる。
+  const latestOf = (articles: { slug: string; updatedAt: string }[]) => {
+    let max = "";
+    for (const a of articles) {
+      if (isDeindexed(a.slug)) continue;
+      if (a.updatedAt > max) max = a.updatedAt;
+    }
+    return max || undefined;
+  };
+  const siteLatest = latestOf(listArticles());
+  const latestForLocale = new Map(
+    IDX.map((l) => [l, latestOf(listArticlesForLocale(l)) ?? siteLatest] as const),
+  );
+  const articleBySlug = new Map(listArticles().map((a) => [a.slug, a]));
   // /web-stories/ ハブ。全数監査(2026-08-05)で「index対象なのにサイトマップ未収録
   // かつ被リンク0」だった唯一のページ。個々のストーリーは専用サイトマップ
   // (/web-stories/sitemap.xml) にあるが、ハブ自体はどこからも辿れなかった。
   out.push({
     url: `${SITE_URL}/web-stories/`,
-    lastModified: now,
+    lastModified: siteLatest,
     changeFrequency: "weekly",
     priority: 0.4,
   });
-  // 検索インデックス対象ロケールのみ sitemap / hreflang に載せる（死蔵言語は除外）。
-  const IDX = LOCALES.filter(isIndexedLocale);
 
   // Static pages × 17 locales
+  // 情報ページは記事を列挙しないので lastmod を出さない（嘘の日付より省略が正）。
+  const INFO_PATHS = new Set(["/about", "/privacy", "/terms", "/contact", "/disclosure", "/purpose"]);
   for (const path of STATIC_PATHS) {
     for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}${path}/`,
-        lastModified: now,
+        lastModified: INFO_PATHS.has(path) ? undefined : latestForLocale.get(locale),
         changeFrequency: path === "" ? "daily" : "monthly",
         priority: path === "" ? 1.0 : 0.5,
         alternates: {
@@ -61,7 +80,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/under/${budget}/`,
-        lastModified: now,
+        lastModified: latestForLocale.get(locale),
         changeFrequency: "weekly",
         priority: 0.7,
         alternates: {
@@ -76,7 +95,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/gifts/${occ.slug}/`,
-        lastModified: now,
+        lastModified: latestForLocale.get(locale),
         changeFrequency: "monthly",
         priority: 0.8,
         alternates: { languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/gifts/${occ.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/gifts/${occ.slug}/` }) },
@@ -89,7 +108,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/for/${uc.slug}/`,
-        lastModified: now,
+        lastModified: latestForLocale.get(locale),
         changeFrequency: "monthly",
         priority: 0.7,
         alternates: { languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/for/${uc.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/for/${uc.slug}/` }) },
@@ -102,7 +121,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/brand/${brand.slug}/`,
-        lastModified: now,
+        lastModified: latestForLocale.get(locale),
         changeFrequency: "monthly",
         priority: 0.6,
         alternates: { languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/brand/${brand.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/brand/${brand.slug}/` }) },
@@ -115,7 +134,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/sale/${ev.slug}/`,
-        lastModified: now,
+        lastModified: latestForLocale.get(locale),
         changeFrequency: "monthly" as const,
         priority: 0.7,
         alternates: { languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/sale/${ev.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/sale/${ev.slug}/` }) },
@@ -128,7 +147,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/tag/${tag.slug}/`,
-        lastModified: now,
+        lastModified: latestForLocale.get(locale),
         changeFrequency: "weekly" as const,
         priority: 0.7,
         alternates: { languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/tag/${tag.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/tag/${tag.slug}/` }) },
@@ -152,10 +171,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       const av = compareLocales.get(l);
       return !!av && (av.has(cmp.slugA) || av.has(cmp.slugB));
     });
+    // compare は列挙対象が2記事に確定しているので、その2件の updatedAt 最大値を使う。
+    const pairLatest =
+      [articleBySlug.get(cmp.slugA)?.updatedAt, articleBySlug.get(cmp.slugB)?.updatedAt]
+        .filter((d): d is string => !!d)
+        .sort()
+        .at(-1) ?? siteLatest;
     for (const locale of locales) {
       out.push({
         url: `${SITE_URL}/${locale}/compare/${cmp.slug}/`,
-        lastModified: now,
+        lastModified: pairLatest,
         changeFrequency: "monthly" as const,
         priority: 0.8,
         alternates: { languages: withEnglishGeoAlternates({ ...Object.fromEntries(locales.map((l) => [l, `${SITE_URL}/${l}/compare/${cmp.slug}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/compare/${cmp.slug}/` }) },
@@ -168,7 +193,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const locale of IDX) {
       out.push({
         url: `${SITE_URL}/${locale}/category/${cat}/`,
-        lastModified: now,
+        lastModified: latestForLocale.get(locale),
         changeFrequency: "weekly",
         priority: 0.7,
         alternates: {
