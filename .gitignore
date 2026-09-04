@@ -46,6 +46,9 @@ site/og-dist/
 public/sitemap.xml
 public/robots.txt
 
+# Generated — 商品ページ用データ(prebuild で17ロケール分を毎回再生成・計約20MB)
+site/public/data/products-*.json
+
 # Build artifacts / temp
 site/tmp/
 site/out/
