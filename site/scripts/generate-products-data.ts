@@ -20,7 +20,7 @@ import { writeFileSync, mkdirSync, readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
 import { resolvePrice } from "@/lib/affiliates/price";
-import { LOCALES, inferMarketFromLocale } from "@/lib/i18n/locales";
+import { LOCALES, inferMarketFromLocale, getLocaleDef } from "@/lib/i18n/locales";
 import { listArticles } from "@/lib/articles/registry";
 import type { Locale } from "@/lib/i18n/locales";
 
@@ -41,6 +41,7 @@ interface ProductEntry {
 
 const OUT_DIR = join(process.cwd(), "public", "data");
 const ARTICLES_DIR = join(process.cwd(), "src", "articles");
+const MESSAGES_DIR = join(process.cwd(), "src", "messages");
 
 /**
  * 記事タイトルは ArticleMeta に無く src/articles/<slug>/messages/<locale>.json の
@@ -70,6 +71,65 @@ function articleTitle(slug: string, locale: string): string | null {
   }
   titleCache.set(key, title);
   return title;
+}
+
+/**
+ * 商品ページのUI文字列。
+ *
+ * Pages Function は Cloudflare 上で動くので src/messages/<locale>.json を読めない
+ * (ビルド出力に入るのは /data/* だけ)。よって共通i18nカタログからここで抜き出して
+ * products-<locale>.json に同梱する。Function 側に英語を直書きしないための層であり、
+ * prebuild の check-hardcoded-ui.mjs を通すためにも必須。
+ *
+ * 参照先は既存キーだけに限る(新規キーを17ロケールに足す運用を増やさない):
+ *   category.*          カテゴリ名10種
+ *   discover.categories 「カテゴリー」→ 事実表のカテゴリ行の見出し
+ *   article.related     「関連記事」→ 商品を扱う記事一覧の見出しに流用
+ *   article.tablePrice / tableRating  価格・評価のラベル
+ *   offer.defaultCta / disclosureNote CTAと開示文
+ *   site.name / nav.articles
+ */
+interface ProductUi {
+  siteName: string;
+  /** 記事一覧への導線ラベル */
+  articles: string;
+  /** 「この商品を扱う記事」見出し */
+  related: string;
+  price: string;
+  rating: string;
+  /** 事実表のカテゴリ行の見出し */
+  categoriesLabel: string;
+  cta: string;
+  disclosure: string;
+  /** カテゴリキー → 現地語ラベル */
+  categories: Record<string, string>;
+}
+
+function loadUi(locale: string): ProductUi {
+  // en は必ず存在する。壊れていたらここで落ちて良い(全ロケール共通の前提が壊れている)。
+  const read = (loc: string) => JSON.parse(readFileSync(join(MESSAGES_DIR, `${loc}.json`), "utf-8"));
+  const m = read(locale);
+  const en = locale === "en" ? m : read("en");
+  const pick = (section: string, key: string): string => {
+    const v = m?.[section]?.[key];
+    if (typeof v === "string" && v.trim() !== "") return v;
+    return en[section][key];
+  };
+  const categories: Record<string, string> = {};
+  for (const [k, v] of Object.entries({ ...en.category, ...m.category })) {
+    if (typeof v === "string" && v.trim() !== "") categories[k] = v;
+  }
+  return {
+    siteName: pick("site", "name"),
+    articles: pick("nav", "articles"),
+    related: pick("article", "related"),
+    price: pick("article", "tablePrice"),
+    rating: pick("article", "tableRating"),
+    categoriesLabel: pick("discover", "categories"),
+    cta: pick("offer", "defaultCta"),
+    disclosure: pick("offer", "disclosureNote"),
+    categories,
+  };
 }
 
 /** offer id → その offer を扱う記事(slug と公開ロケール) の逆引き */
@@ -135,7 +195,14 @@ function main() {
     const entries = [...byId.values()];
 
     const path = join(OUT_DIR, `products-${locale}.json`);
-    const body = JSON.stringify({ locale, count: entries.length, products: entries });
+    const def = getLocaleDef(locale);
+    const body = JSON.stringify({
+      locale,
+      dir: def?.dir ?? "ltr",
+      ui: loadUi(locale),
+      count: entries.length,
+      products: entries,
+    });
     writeFileSync(path, body);
     summary.push(`${locale}\t${entries.length}\t${body.length}`);
   }
