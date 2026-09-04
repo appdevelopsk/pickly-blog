@@ -6,9 +6,11 @@
  *  `lib/affiliates/yahoo-cache.json` を読む（ビルド時API呼び出し無し）。
  *
  * 認証: appid（Yahoo! JAPAN Developer の Client ID）をクエリで渡すだけ。
- * アフィリ: `affiliate_type=vc&affiliate_id={VC_SID}` で返却 url が ValueCommerce
- *   アフィリリンクになる（★ただし VC管理画面で Yahoo!ショッピングと提携承認が必要。
- *   未承認の間は生の store URL が返る＝収益計上なし。承認後の再取得で自動的にアフィリ化）。
+ * アフィリ: `affiliate_type=vc` と、`affiliate_id` に VC の referral URL 前綴り
+ *   `https://ck.jp.ap.valuecommerce.com/servlet/referral?sid={SID}&pid={PID}&vc_url=`
+ *   (URLエンコード)を渡すと返却 url が VC アフィリリンクになる(公式 affiliate.html)。
+ *   ★affiliate_id に SID 単独や `sid=..&pid=..` を渡しても生 store URL が返る(2026-09-05 実測)。
+ *   VC 側で Yahoo!ショッピングと提携承認済み+MyLink で pid 発行済みであること。
  * 日本のIPからのみ許可（Yahoo! JAPAN API）。発行直後の Client ID は数分の反映待ちあり。
  */
 
@@ -27,6 +29,12 @@ export interface YahooItem {
 export interface YahooConfig {
   appid: string;
   vcSid: string; // ValueCommerce SID（アフィリ用・必須）
+  vcPid: string; // ValueCommerce PID（MyLink の pid=・必須）
+}
+
+/** Yahoo API の affiliate_id に渡す VC referral 前綴り(vc_url= で終わる)。 */
+export function vcAffiliateId(cfg: Pick<YahooConfig, "vcSid" | "vcPid">): string {
+  return `https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=${cfg.vcSid}&pid=${cfg.vcPid}&vc_url=`;
 }
 
 // ★AFFILIATE_VALUECOMMERCE_SID は必須。未設定でも動いてしまうと affiliate_type=vc が
@@ -41,7 +49,13 @@ function cfgFromEnv(): YahooConfig {
       "AFFILIATE_VALUECOMMERCE_SID が未設定です（未設定だとアフィリタグ無しの生store URLを取得してしまう）",
     );
   }
-  return { appid, vcSid };
+  const vcPid = process.env.AFFILIATE_VALUECOMMERCE_PID ?? "";
+  if (!vcPid) {
+    throw new Error(
+      "AFFILIATE_VALUECOMMERCE_PID が未設定です（SID単独では Yahoo API がアフィリURLを返さない）",
+    );
+  }
+  return { appid, vcSid, vcPid };
 }
 
 /** キーワードで検索し関連性順で最大 hits 件返す（新品優先）。 */
@@ -59,7 +73,7 @@ export async function searchItems(
     in_stock: "true",
     // 条件付きスプレッドをやめ、SID必須化とセットで常に付与する(静かな無タグ化の防止)。
     affiliate_type: "vc",
-    affiliate_id: cfg.vcSid,
+    affiliate_id: vcAffiliateId(cfg),
   });
   const res = await fetch(`${ENDPOINT}?${params.toString()}`, {
     headers: { "User-Agent": "pickly.blog/1.0" },
