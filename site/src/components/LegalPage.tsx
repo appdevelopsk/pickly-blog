@@ -39,15 +39,44 @@ export function LegalPage({ baseKey }: Props) {
       {sections.map((s, i) => (
         <section key={i} className="mb-8">
           <h2 className="mb-3 text-xl font-bold">{s.heading}</h2>
-          {s.paragraphs.map((p, j) => (
-            <p key={j} className="mb-3 leading-relaxed text-slate-700">
-              {p}
-            </p>
-          ))}
+          {s.paragraphs.map((p, j) =>
+            EMAIL_RE.test(p) ? (
+              // Cloudflare Scrape Shield が生テキストのメールアドレスを
+              // /cdn-cgi/l/email-protection リンクに書き換え、クローラーには 404 として見える。
+              // contact ページと同じく <!--email_off--> で難読化を抑止する (2026-09-04)。
+              <p
+                key={j}
+                className="mb-3 leading-relaxed text-slate-700"
+                dangerouslySetInnerHTML={{ __html: `<!--email_off-->${linkifyEmail(p)}<!--/email_off-->` }}
+              />
+            ) : (
+              <p key={j} className="mb-3 leading-relaxed text-slate-700">
+                {p}
+              </p>
+            ),
+          )}
         </section>
       ))}
       {footer && <p className="mt-10 text-sm text-slate-500">{footer}</p>}
     </article>
+  );
+}
+
+const EMAIL_RE = /[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}/;
+
+function escapeHtml(v: string): string {
+  return v
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+/** 段落を HTML エスケープしつつ、メールアドレスだけ mailto リンクにする。 */
+function linkifyEmail(v: string): string {
+  return escapeHtml(v).replace(
+    new RegExp(EMAIL_RE.source, "g"),
+    (m) => `<a href="mailto:${m}" class="text-brand-600 hover:underline">${m}</a>`,
   );
 }
 

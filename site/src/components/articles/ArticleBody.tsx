@@ -31,9 +31,11 @@ interface Props {
   related?: RelatedCard[];
   /** デスクトップ右サイドバー用の関連カード（本文インラインとは別集合）。 */
   sidebarRelated?: RelatedCard[];
+  /** 商品ページ(/<locale>/products/<id>/)が存在する offer id。生成器と同じ判定で page.tsx が算出 */
+  productIds?: string[];
 }
 
-export function ArticleBody({ meta, content, offers, related = [], sidebarRelated = [] }: Props) {
+export function ArticleBody({ meta, content, offers, related = [], sidebarRelated = [], productIds = [] }: Props) {
   // 開示文は「報酬が発生しうるリンクがある記事」にだけ出す。
   // Skimlinks(全リンクをクリック時にアフィリ化していた)は 2026-08-04 に
   // アカウント無効化が判明して撤去したため、network:"direct" のみの記事は
@@ -482,6 +484,11 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
                       {o.rating && <StarRating rating={o.rating} label={t("article.ratingLabel", { rating: o.rating.toFixed(1) })} />}
                       {resolvePrice(o, locale) && <span className="text-sm font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-md">{resolvePrice(o, locale)}</span>}
                     </div>
+                    {productIds.includes(o.id) && (
+                      <Link href={`/products/${o.id}/`} className="mt-2 inline-block text-sm font-semibold text-brand-600 hover:underline">
+                        {t("offer.productPage")} →
+                      </Link>
+                    )}
                   </div>
                 </div>
 

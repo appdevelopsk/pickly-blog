@@ -183,6 +183,10 @@ export default async function ArticlePage({ params }: Props) {
   const offers = CATALOG
     .filter((o) => meta.offerIds.includes(o.id) && pickLink(o, market) !== null)
     .sort((a, b) => meta.offerIds.indexOf(a.id) - meta.offerIds.indexOf(b.id));
+  // 商品ページ(Functions)が存在する offer = 生成器 scripts/generate-products-data.ts と同じ判定
+  const productIds = offers
+    .filter((o) => pickLink(o, market, { onlyApproved: true, allowFallback: false }) !== null)
+    .map((o) => o.id);
 
   // 未翻訳ロケールは英語版の複製(meta-refreshで送る)なので、canonicalを英語に寄せて
   // noindexにする。放置すると重複＋言語ミスマッチとして評価される。
@@ -229,7 +233,7 @@ export default async function ArticlePage({ params }: Props) {
         item: {
           "@type": "Product",
           name: offerName,
-          url: `${canonicalUrl}#offer-${o.id}`,
+          url: productIds.includes(o.id) ? `${SITE_URL}/${locale}/products/${o.id}/` : `${canonicalUrl}#offer-${o.id}`,
           ...(offerDesc ? { description: offerDesc } : {}),
           ...(imgUrl ? { image: imgUrl } : {}),
           ...(o.rating || product?.review ? {
@@ -307,7 +311,7 @@ export default async function ArticlePage({ params }: Props) {
         content={content}
         offers={clientOffers}
         related={inlineRelated}
-        sidebarRelated={sidebarRelated}
+        sidebarRelated={sidebarRelated} productIds={productIds}
       />
       <div className="mx-auto max-w-3xl px-4 sm:px-6">
         {meta.category === "finance" && <SisterSiteCta />}
