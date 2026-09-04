@@ -16,7 +16,7 @@
  *    { approved: true } を無条件で合成するため onlyApproved が効かず、
  *    「提携がある」の意味が壊れる。false を明示すること。
  */
-import { writeFileSync, mkdirSync } from "node:fs";
+import { writeFileSync, mkdirSync, readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
 import { resolvePrice } from "@/lib/affiliates/price";
@@ -35,11 +35,42 @@ interface ProductEntry {
   rating?: number;
   /** resolvePrice の解決済み表示文字列。市場と通貨が合わなければ null */
   price: string | null;
-  /** この商品を扱う記事 slug(当該ロケールで公開されているものだけ) */
-  articleSlugs: string[];
+  /** この商品を扱う記事(当該ロケールで公開されているものだけ)。記事ハブ本文の導線。 */
+  articles: { slug: string; title: string }[];
 }
 
 const OUT_DIR = join(process.cwd(), "public", "data");
+const ARTICLES_DIR = join(process.cwd(), "src", "articles");
+
+/**
+ * 記事タイトルは ArticleMeta に無く src/articles/<slug>/messages/<locale>.json の
+ * `title` にしか存在しない。Function 側からは記事JSONを引けない(数千ファイル)ので
+ * ここで解決して products-<locale>.json に焼き込む。
+ * 当該ロケールのファイルが無い/title が空なら en にフォールバックし、それも無ければ
+ * その記事はリンクを出さない(slug をそのまま見出しにすると英語スラッグが露出する)。
+ */
+const titleCache = new Map<string, string | null>();
+function articleTitle(slug: string, locale: string): string | null {
+  const key = `${slug}\u0000${locale}`;
+  const hit = titleCache.get(key);
+  if (hit !== undefined) return hit;
+  let title: string | null = null;
+  for (const loc of [locale, "en"]) {
+    const p = join(ARTICLES_DIR, slug, "messages", `${loc}.json`);
+    if (!existsSync(p)) continue;
+    try {
+      const t = JSON.parse(readFileSync(p, "utf-8")).title;
+      if (typeof t === "string" && t.trim() !== "") {
+        title = t;
+        break;
+      }
+    } catch {
+      // 壊れた記事JSONで生成器ごと落とさない。リンクが1本消えるだけに留める。
+    }
+  }
+  titleCache.set(key, title);
+  return title;
+}
 
 /** offer id → その offer を扱う記事(slug と公開ロケール) の逆引き */
 function buildReverseIndex(): Map<string, { slug: string; locales: Locale[] }[]> {
@@ -84,9 +115,10 @@ function main() {
         continue;
       }
 
-      const articleSlugs = (reverse.get(o.id) ?? [])
+      const articles = (reverse.get(o.id) ?? [])
         .filter((a) => a.locales.includes(locale as Locale))
-        .map((a) => a.slug);
+        .map((a) => ({ slug: a.slug, title: articleTitle(a.slug, locale) }))
+        .filter((a): a is { slug: string; title: string } => a.title !== null);
 
       byId.set(o.id, {
         id: o.id,
@@ -96,7 +128,7 @@ function main() {
         ...(o.imageUrl ? { imageUrl: o.imageUrl } : {}),
         ...(o.rating !== undefined ? { rating: o.rating } : {}),
         price,
-        articleSlugs,
+        articles,
       });
     }
 
