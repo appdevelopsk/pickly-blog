@@ -36,6 +36,17 @@ interface ProductEntry {
   rating?: number;
   price: string | null;
   articles: { slug: string; title: string }[];
+  /** ja のみ: Amazon.co.jp / 楽天 / Yahoo の店舗横断オファー(生成器が焼き込む) */
+  stores?: StoreOffer[];
+  cheapest?: StoreOffer["network"] | null;
+}
+
+interface StoreOffer {
+  network: "amazon-jp" | "rakuten" | "yahoo";
+  label: string;
+  url: string;
+  price: string | null;
+  amount: number | null;
 }
 
 interface ProductUi {
@@ -47,6 +58,9 @@ interface ProductUi {
   categoriesLabel: string;
   cta: string;
   disclosure: string;
+  offersHeading: string;
+  productPage: string;
+  cheapestBadge?: string;
   categories: Record<string, string>;
 }
 
@@ -163,6 +177,28 @@ function render(locale: string, doc: ProductsDoc, p: ProductEntry): string {
   if (p.rating !== undefined) {
     ld.aggregateRating = { "@type": "AggregateRating", ratingValue: p.rating, bestRating: 5, ratingCount: 1 };
   }
+  // ja の店舗横断オファーは JPY 金額が数値で取れている店舗だけ offers に載せる。
+  const ldOffers = (p.stores ?? [])
+    .filter((s) => s.amount !== null)
+    .map((s) => ({ "@type": "Offer", priceCurrency: "JPY", price: s.amount, url: s.url.startsWith("/") ? CANONICAL_ORIGIN + s.url : s.url, availability: "https://schema.org/InStock" }));
+  if (ldOffers.length) ld.offers = ldOffers;
+
+  const stores = p.stores ?? [];
+  const storeList = stores.length
+    ? `<section><h2>${esc(ui.offersHeading)}</h2><ul>` +
+      stores
+        .map((s) => {
+          const badge =
+            p.cheapest === s.network && ui.cheapestBadge ? `<strong>${esc(ui.cheapestBadge)}</strong> ` : "";
+          const price = s.price ? `<span>${esc(s.price)}</span> ` : "";
+          return (
+            `<li>${badge}${esc(s.label)} ${price}` +
+            `<a href="${esc(s.url)}" target="_blank" rel="sponsored nofollow noopener noreferrer" data-offer-id="${esc(p.id)}" data-network="${esc(s.network)}">${esc(ui.productPage)}</a></li>`
+          );
+        })
+        .join("") +
+      `</ul></section>`
+    : "";
 
   const articleList = p.articles.length
     ? `<section><h2>${esc(ui.related)}</h2><ul>` +
@@ -197,6 +233,7 @@ function render(locale: string, doc: ProductsDoc, p: ProductEntry): string {
     (p.imageUrl ? `<img src="${esc(p.imageUrl)}" alt="${esc(p.name)}" loading="lazy">` : "") +
     (p.description ? `<p>${esc(p.description)}</p>` : "") +
     (facts ? `<dl>${facts}</dl>` : "") +
+    storeList +
     articleList +
     `<p><a href="/${esc(locale)}/articles/">${esc(ui.articles)}</a></p>` +
     `<p><small>${esc(ui.disclosure)}</small></p>` +

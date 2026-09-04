@@ -19,7 +19,11 @@
 import { writeFileSync, mkdirSync, readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
-import { resolvePrice } from "@/lib/affiliates/price";
+import { resolvePrice, classify } from "@/lib/affiliates/price";
+import { buildAffiliateUrl } from "@/lib/affiliates/asp";
+import { rakutenProductMatch } from "@/lib/affiliates/rakuten";
+import { getYahooMatch } from "@/lib/affiliates/yahoo";
+import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { LOCALES, INDEXED_LOCALES, inferMarketFromLocale, getLocaleDef } from "@/lib/i18n/locales";
 import { listArticles } from "@/lib/articles/registry";
 import type { Locale } from "@/lib/i18n/locales";
@@ -46,6 +50,83 @@ interface ProductEntry {
    * Function 側(ページ metadata)と sitemap の両方がこの同じ配列を読むこと。
    */
   locales: string[];
+  /**
+   * ja(市場JP)限定: Amazon.co.jp / 楽天 / Yahoo! の店舗別価格。
+   * US/EU は Amazon 単一で「最安」を名乗れないので出さない。
+   * price は表示文字列、amount は比較用の円整数(不明なら null)。
+   */
+  stores?: StoreOffer[];
+  /** stores のうち amount 最小の network。amount を持つ店舗が2つ以上ある時だけ入る */
+  cheapest?: StoreOffer["network"] | null;
+}
+
+interface StoreOffer {
+  network: "amazon-jp" | "rakuten" | "yahoo";
+  label: string;
+  url: string;
+  price: string | null;
+  amount: number | null;
+}
+
+/**
+ * JP 3店舗の店舗名と最安バッジ。ja 専用の文字列なので messages に新規キーを足さず
+ * ここで持つ(src/components/AffiliateLink.tsx の storeLabel が「楽天」「Yahoo!」を
+ * 直書きしているのと同じ扱い)。
+ */
+const JP_STORE_LABEL: Record<StoreOffer["network"], string> = {
+  "amazon-jp": "Amazon.co.jp",
+  rakuten: "楽天市場",
+  yahoo: "Yahoo!ショッピング",
+};
+const JP_CHEAPEST_BADGE = "最安値";
+
+const yen = (n: number) => `¥${n.toLocaleString("ja-JP")}`;
+
+/** 楽天/Yahoo キャッシュの price/priceMin/priceMax を AffiliateLink.tsx と同じ規則で整形 */
+function rangePrice(price: number | null, priceMin: number | null, priceMax: number | null): { display: string | null; amount: number | null } {
+  if (priceMin != null && priceMax != null && priceMax > priceMin && priceMax <= priceMin * 3) {
+    return { display: `${yen(priceMin)}〜${yen(priceMax)}`, amount: priceMin };
+  }
+  const p = price ?? priceMin;
+  return p != null ? { display: `${yen(p)}〜`, amount: p } : { display: null, amount: null };
+}
+
+/** resolvePrice の表示文字列から比較用の円整数を取る(JPY 以外は null) */
+function yenAmount(display: string | null): number | null {
+  if (!display) return null;
+  if (classify(display).currency !== "JPY") return null;
+  const m = display.replace(/,/g, "").match(/(\d+)/);
+  return m ? Number(m[1]) : null;
+}
+
+function buildJpStores(o: AffiliateOffer, price: string | null): { stores: StoreOffer[]; cheapest: StoreOffer["network"] | null } {
+  const stores: StoreOffer[] = [];
+  const link = pickLink(o, "JP", { onlyApproved: true, allowFallback: false });
+  if (link && link.network === "amazon-jp") {
+    stores.push({
+      network: "amazon-jp",
+      label: JP_STORE_LABEL["amazon-jp"],
+      url: buildAffiliateUrl({ link, productName: o.name.en, market: "JP", category: o.category }),
+      price,
+      amount: yenAmount(price),
+    });
+  }
+  const rk = rakutenProductMatch(o.id, o.name.en, o.name.ja);
+  if (rk) {
+    const r = rangePrice(rk.price, rk.priceMin, rk.priceMax);
+    stores.push({ network: "rakuten", label: JP_STORE_LABEL.rakuten, url: rk.url, price: r.display, amount: r.amount });
+  }
+  const yh = getYahooMatch(o.id, o.name.en, o.name.ja);
+  if (yh) {
+    const r = rangePrice(yh.price, yh.priceMin, yh.priceMax);
+    stores.push({ network: "yahoo", label: JP_STORE_LABEL.yahoo, url: yh.url, price: r.display, amount: r.amount });
+  }
+  const priced = stores.filter((s) => s.amount != null);
+  let cheapest: StoreOffer["network"] | null = null;
+  if (priced.length >= 2) {
+    cheapest = priced.reduce((a, b) => ((b.amount as number) < (a.amount as number) ? b : a)).network;
+  }
+  return { stores, cheapest };
 }
 
 const OUT_DIR = join(process.cwd(), "public", "data");
@@ -110,6 +191,12 @@ interface ProductUi {
   categoriesLabel: string;
   cta: string;
   disclosure: string;
+  /** 店舗別価格ブロックの見出し(article.offersHeading) */
+  offersHeading: string;
+  /** 店舗ボタンの文言(offer.productPage) */
+  productPage: string;
+  /** ja 限定: 最安バッジ文言 */
+  cheapestBadge?: string;
   /** カテゴリキー → 現地語ラベル */
   categories: Record<string, string>;
 }
@@ -137,6 +224,9 @@ function loadUi(locale: string): ProductUi {
     categoriesLabel: pick("discover", "categories"),
     cta: pick("offer", "defaultCta"),
     disclosure: pick("offer", "disclosureNote"),
+    offersHeading: pick("article", "offersHeading"),
+    productPage: pick("offer", "productPage"),
+    ...(locale === "ja" ? { cheapestBadge: JP_CHEAPEST_BADGE } : {}),
     categories,
   };
 }
@@ -207,8 +297,17 @@ function main() {
         if (prev.description === "" && o.description[locale]) prev.description = o.description[locale];
         if (prev.imageUrl === undefined && o.imageUrl) prev.imageUrl = o.imageUrl;
         if (prev.rating === undefined && o.rating !== undefined) prev.rating = o.rating;
+        if (locale === "ja" && (prev.stores?.length ?? 0) === 0) {
+          const jp = buildJpStores(o, price);
+          if (jp.stores.length) {
+            prev.stores = jp.stores;
+            prev.cheapest = jp.cheapest;
+          }
+        }
         continue;
       }
+
+      const jp = locale === "ja" ? buildJpStores(o, price) : null;
 
       const articles = (reverse.get(o.id) ?? [])
         .filter((a) => a.locales.includes(locale as Locale))
@@ -225,6 +324,7 @@ function main() {
         price,
         articles,
         locales: indexedLocales.get(o.id) ?? [],
+        ...(jp && jp.stores.length ? { stores: jp.stores, cheapest: jp.cheapest } : {}),
       });
     }
 
