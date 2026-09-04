@@ -29,7 +29,8 @@ interface ProductEntry {
   /** en 固定 */
   name: string;
   description: string;
-  category: string;
+  /** 同一idが複数カテゴリに重複登録されているため配列で全部持つ */
+  categories: string[];
   imageUrl?: string;
   rating?: number;
   /** resolvePrice の解決済み表示文字列。市場と通貨が合わなければ null */
@@ -61,27 +62,45 @@ function main() {
   const summary: string[] = [];
   for (const locale of LOCALES) {
     const market = inferMarketFromLocale(locale);
-    const entries: ProductEntry[] = [];
+    // 同一idが複数カテゴリに重複登録されている(カタログ全体で208件、候補通過後は12件前後)。
+    // URLは /<locale>/products/<id> なので1商品1エントリにマージする。
+    //   price: 非nullを優先(片方だけ通貨ゲートを通ることが多い)
+    //   name / description / imageUrl / rating: 先勝ち(CATALOG宣言順)
+    //   categories: 全カテゴリを配列で保持(記事ハブの導線に使う)
+    const byId = new Map<string, ProductEntry>();
 
     for (const o of CATALOG) {
       // 候補判定: 承認済みの実提携リンクが1本もなければページを作らない
       if (pickLink(o, market, { onlyApproved: true, allowFallback: false }) === null) continue;
 
+      const price = resolvePrice(o, locale);
+      const prev = byId.get(o.id);
+      if (prev) {
+        if (!prev.categories.includes(o.category)) prev.categories.push(o.category);
+        if (prev.price === null && price !== null) prev.price = price;
+        if (prev.description === "" && o.description[locale]) prev.description = o.description[locale];
+        if (prev.imageUrl === undefined && o.imageUrl) prev.imageUrl = o.imageUrl;
+        if (prev.rating === undefined && o.rating !== undefined) prev.rating = o.rating;
+        continue;
+      }
+
       const articleSlugs = (reverse.get(o.id) ?? [])
         .filter((a) => a.locales.includes(locale as Locale))
         .map((a) => a.slug);
 
-      entries.push({
+      byId.set(o.id, {
         id: o.id,
         name: o.name.en ?? o.id,
         description: o.description[locale] ?? o.description.en ?? "",
-        category: o.category,
+        categories: [o.category],
         ...(o.imageUrl ? { imageUrl: o.imageUrl } : {}),
         ...(o.rating !== undefined ? { rating: o.rating } : {}),
-        price: resolvePrice(o, locale),
+        price,
         articleSlugs,
       });
     }
+
+    const entries = [...byId.values()];
 
     const path = join(OUT_DIR, `products-${locale}.json`);
     const body = JSON.stringify({ locale, count: entries.length, products: entries });
