@@ -29,6 +29,8 @@ interface ProductEntry {
   id: string;
   name: string;
   description: string;
+  /** この商品が候補として存在する INDEXED_LOCALES の一覧(生成器が焼き込む) */
+  locales?: string[];
   categories: string[];
   imageUrl?: string;
   rating?: number;
@@ -65,6 +67,10 @@ const LOCALES = [
 const INDEXED_LOCALES = ["en", "ja", "de", "es", "fr", "it", "ru", "pt-BR", "zh-TW", "zh-CN", "ko"];
 
 const CANONICAL_ORIGIN = "https://pickly.blog";
+
+function altLink(hreflang: string, id: string, locale = hreflang): string {
+  return `<link rel="alternate" hreflang="${esc(hreflang)}" href="${CANONICAL_ORIGIN}/${locale}/products/${encodeURIComponent(id)}/">`;
+}
 
 /** locale → html lang 属性。ロケールコードがそのまま BCP47 として妥当。 */
 function htmlLang(locale: string): string {
@@ -125,13 +131,24 @@ function render(locale: string, doc: ProductsDoc, p: ProductEntry): string {
     .map((c) => ui.categories[c])
     .filter((c): c is string => typeof c === "string");
 
-  const hreflang = indexed
-    ? INDEXED_LOCALES.map(
-        (l) =>
-          `<link rel="alternate" hreflang="${esc(l)}" href="${CANONICAL_ORIGIN}/${l}/products/${encodeURIComponent(p.id)}/">`,
-      ).join("") +
-      `<link rel="alternate" hreflang="x-default" href="${CANONICAL_ORIGIN}/en/products/${encodeURIComponent(p.id)}/">`
-    : "";
+  // alternate 集合は **商品ごと** に違う。候補判定が市場依存なので、11ロケール全部に
+  // 存在する商品は 1,571 件しか無く、逆に ja にしか無い商品が 241 件ある(2026-09-04 実測)。
+  // 無条件に INDEXED_LOCALES を並べると 404 へ alternate を張ることになり、
+  // クラスタが成立しない(src/lib/i18n/alternates.ts の 2026-08-01 の教訓)。
+  // 生成器が焼き込んだ p.locales を使い、sitemap 側と完全に同じ集合を宣言する。
+  const alts = (p.locales ?? []).filter((l) => INDEXED_LOCALES.includes(l));
+  const hreflang =
+    indexed && alts.length > 0
+      ? alts
+          .map((l) => altLink(l, p.id))
+          .join("") +
+        // en が無い商品(ja 単独など)では x-default を en に向けられない。
+        // 先頭(INDEXED_LOCALES 順)の実在ロケールを既定にする。
+        altLink("x-default", p.id, alts.includes("en") ? "en" : alts[0]) +
+        // en-GB / en-CA は専用ロケールが無く AffiliateLink 側が geo 判定するため、
+        // en の URL に多重化する(2026-08-11)。ページと sitemap の両方に適用すること。
+        (alts.includes("en") ? altLink("en-GB", p.id, "en") + altLink("en-CA", p.id, "en") : "")
+      : "";
 
   // JSON-LD。価格は resolvePrice の解決済み表示文字列しか持っていない(通貨ゲートで
   // null になる)ので offers は出さず、name/description/image/rating だけに留める。

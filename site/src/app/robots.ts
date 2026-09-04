@@ -42,7 +42,13 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/", "/og/_raw/", "/go/"],
       },
     ],
-    sitemap: [`${SITE_URL}/sitemap.xml`, `${SITE_URL}/web-stories/sitemap.xml`],
+    sitemap: [
+      `${SITE_URL}/sitemap.xml`,
+      `${SITE_URL}/web-stories/sitemap.xml`,
+      // 商品ページ 27,367URL は sitemap index 経由(11ロケール分割)。
+      // scripts/generate-sitemap.ts が public/sitemaps/ に生成する。
+      `${SITE_URL}/sitemaps/products.xml`,
+    ],
     host: SITE_URL,
   };
 }

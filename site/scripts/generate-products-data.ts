@@ -20,7 +20,7 @@ import { writeFileSync, mkdirSync, readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
 import { resolvePrice } from "@/lib/affiliates/price";
-import { LOCALES, inferMarketFromLocale, getLocaleDef } from "@/lib/i18n/locales";
+import { LOCALES, INDEXED_LOCALES, inferMarketFromLocale, getLocaleDef } from "@/lib/i18n/locales";
 import { listArticles } from "@/lib/articles/registry";
 import type { Locale } from "@/lib/i18n/locales";
 
@@ -37,6 +37,15 @@ interface ProductEntry {
   price: string | null;
   /** この商品を扱う記事(当該ロケールで公開されているものだけ)。記事ハブ本文の導線。 */
   articles: { slug: string; title: string }[];
+  /**
+   * この商品が候補として存在する **INDEXED_LOCALES のうちの** ロケール一覧。
+   * 候補判定は市場依存なので商品ごとに違う(実測: 全11揃うのは1,571件、
+   * 5ロケールだけが1,636件、ja単独が241件)。hreflang の alternate 集合は
+   * ここから作る。全11を無条件に並べると存在しないURLへ alternate を張ることになり、
+   * クラスタが成立しない(src/lib/i18n/alternates.ts の2026-08-01の教訓)。
+   * Function 側(ページ metadata)と sitemap の両方がこの同じ配列を読むこと。
+   */
+  locales: string[];
 }
 
 const OUT_DIR = join(process.cwd(), "public", "data");
@@ -146,8 +155,34 @@ function buildReverseIndex(): Map<string, { slug: string; locales: Locale[] }[]>
   return idx;
 }
 
+/**
+ * id → その商品が候補として成立する INDEXED_LOCALES の一覧。
+ *
+ * 候補判定 pickLink(o, market, ...) は市場(=ロケール)にしか依存しないので、
+ * 本体ループより前にこの一枚を作れる。Function は自ロケールのJSONしか読めず、
+ * 11ロケール分を毎リクエスト fetch するのは非現実的なので、ここで焼き込む。
+ */
+function buildIndexedLocaleMap(): Map<string, string[]> {
+  const map = new Map<string, string[]>();
+  for (const locale of INDEXED_LOCALES) {
+    const market = inferMarketFromLocale(locale);
+    for (const o of CATALOG) {
+      if (pickLink(o, market, { onlyApproved: true, allowFallback: false }) === null) continue;
+      const bucket = map.get(o.id);
+      // 同一idの重複登録があるので、同じロケールを二重に積まない。
+      if (bucket) {
+        if (bucket[bucket.length - 1] !== locale) bucket.push(locale);
+      } else {
+        map.set(o.id, [locale]);
+      }
+    }
+  }
+  return map;
+}
+
 function main() {
   const reverse = buildReverseIndex();
+  const indexedLocales = buildIndexedLocaleMap();
   mkdirSync(OUT_DIR, { recursive: true });
 
   const summary: string[] = [];
@@ -189,6 +224,7 @@ function main() {
         ...(o.rating !== undefined ? { rating: o.rating } : {}),
         price,
         articles,
+        locales: indexedLocales.get(o.id) ?? [],
       });
     }
 

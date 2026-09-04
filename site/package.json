@@ -25,7 +25,7 @@
     "indexnow": "tsx scripts/indexnow-submit.ts",
     "bing:submit": "tsx scripts/bing-submit.ts",
     "audit:hardcoded": "node scripts/check-hardcoded-ui.mjs",
-    "prebuild": "tsx scripts/generate-products-data.ts && node scripts/check-hardcoded-ui.mjs",
+    "prebuild": "tsx scripts/generate-products-data.ts && tsx scripts/generate-sitemap.ts && node scripts/check-hardcoded-ui.mjs",
     "check:output": "node scripts/check-built-output.mjs && node scripts/check-built-canonical.mjs && node scripts/check-index-health.mjs",
     "check:index": "node scripts/check-index-health.mjs",
     "check:canonical": "node scripts/check-built-canonical.mjs",
