@@ -28,7 +28,7 @@
  */
 export function sanitizeKeyword(s: string): string {
   const cleaned = s
-    .replace(/[%＋+&#?]/g, " ")
+    .replace(/[%＋+&#?"”“″]/g, " ")
     .replace(/[（）()【】\[\]]/g, " ")
     .replace(/[／/|,，、]/g, " ")
     .replace(/\s+/g, " ")
