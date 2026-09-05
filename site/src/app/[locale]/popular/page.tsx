@@ -2,7 +2,7 @@ import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
 import { listArticlesForLocale } from "@/lib/articles/registry";
-import { loadArticleCardMeta } from "@/lib/i18n/loader";
+import { loadArticleCardMeta, loadArticleOfferBadge } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
@@ -162,7 +162,9 @@ export default async function PopularPage({ params }: Props) {
               const imgSrc = getThumbnail(a, locale);
               const isProductImg = imgSrc && !imgSrc.includes("/og/");
               const offer = getFirstOffer(a);
-              const badge = offer?.badge;
+              // CATALOG の badge は locale 非依存の英語なので使わない。記事の
+              // messages/<locale>.json から当該ロケール版だけを引く（en へは落とさない）。
+              const badge = offer ? loadArticleOfferBadge(a.slug, locale, offer.id) : null;
               return (
                 <Link
                   key={a.slug}

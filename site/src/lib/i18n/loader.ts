@@ -126,6 +126,30 @@ function readArticleMessages(slug: string, locale: string): Messages | null {
   }
 }
 
+/** 記事の products[] から offerId 一致のバッジ（そのロケール版）を引く。
+ *
+ *  ★en フォールバックはあえて入れない。CATALOG の `badge` は locale 非依存の
+ *  英語単一文字列なので、フォールバックすると非enロケールに英語が漏れる
+ *  （まさにそれが直したい不具合）。無ければ null を返して非表示にする。
+ */
+export function loadArticleOfferBadge(
+  slug: string,
+  locale: string,
+  offerId: string,
+): string | null {
+  const msg = readArticleMessages(slug, locale);
+  const products = msg?.products;
+  if (!Array.isArray(products)) return null;
+  for (const p of products) {
+    if (!p || typeof p !== "object") continue;
+    const entry = p as Record<string, unknown>;
+    if (entry.offerId !== offerId) continue;
+    const badge = entry.badge;
+    return typeof badge === "string" && badge ? badge : null;
+  }
+  return null;
+}
+
 /** sitemap は article×locale で1万回以上呼ぶのでメモ化する。 */
 const translatedCache = new Map<string, boolean>();
 
