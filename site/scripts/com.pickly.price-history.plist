@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  pickly の価格履歴（price-history.json）を毎日1点ぶん追記する。
+
+  なぜ (2026-09-05):
+    商品カードの「値下げバッジ」には過去価格が要るが、楽天/Yahoo のアフィリエイト
+    キャッシュは現在値しか持たない（上書き更新で履歴が残らない）。
+    → snapshot-prices.ts が毎日その2キャッシュを読み、offer id ごとに
+      {"d":"YYYY-MM-DD","r":楽天円,"y":Yahoo円} を price-history.json へ積む。
+      同日の点は冪等に上書きされ、直近14点だけ残すので再実行しても壊れない。
+
+  時刻: 19:00 JST。他の pickly 系ジョブ（5:30 / 8:00 / 8:20 / 9:00 / 9:30 /
+        11:10 / 11:20 / 17:30）と衝突せず、JST の日付境界からも離れている。
+        なお 5:30 の com.cargate.pickly-enrich は git reset --hard origin/main を
+        するので、このジョブは必ず push まで完走させる設計にしてある。
+
+  出力ログ: ~/pickly-blog/site/scripts/logs/price-history.log
+-->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.pickly.price-history</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>/Users/ken/pickly-blog/site/scripts/snapshot-prices-daily.sh</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/ken/pickly-blog/site</string>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>19</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+  <key>StandardOutPath</key>
+  <string>/Users/ken/pickly-blog/site/scripts/logs/price-history.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/ken/pickly-blog/site/scripts/logs/price-history.err</string>
+  <key>RunAtLoad</key>
+  <false/>
+</dict>
+</plist>
