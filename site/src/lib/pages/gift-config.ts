@@ -23,8 +23,8 @@ export const OCCASIONS: OccasionConfig[] = [
   {
     slug: "mothers-day",
     icon: "💐",
-    title: "Mother's Day Gift Ideas 2026",
-    description: "Thoughtful, tested gifts for moms — beauty, home, wellness, and food picks she'll love.",
+    title: "Mother's Day Gift Ideas 2026: 10 Picks Mom Will Actually Use",
+    description: "10 Mother's Day gifts for 2026 compared by our editors: hair dryers, skincare fridges, espresso machines and more, from under $50 to splurge, with honest pros and cons.",
     pinDescription: "Mother's Day gifts she'll actually want — beauty, home, and wellness picks tested for 2026.",
     categories: ["beauty", "home", "food", "fitness", "fashion"],
     featuredSlugs: ["best-hair-dryer-2026", "best-skincare-fridge-2026", "best-espresso-machine-2026"],
@@ -93,8 +93,8 @@ export const OCCASIONS: OccasionConfig[] = [
   {
     slug: "back-to-school",
     icon: "🎒",
-    title: "Back to School Essentials 2026",
-    description: "Tech, home, fitness, and fashion picks for students heading back in 2026.",
+    title: "Back to School Essentials 2026: 10 Picks Students Actually Use",
+    description: "The 2026 back-to-school list our editors would actually buy: noise-cancelling headphones, keyboards, dorm essentials and fitness gear compared by price and durability.",
     pinDescription: "Back to school essentials for 2026 — tech, dorm room, and fitness picks for students.",
     categories: ["tech", "home", "fashion", "fitness", "food"],
     featuredSlugs: ["best-noise-cancelling-headphones-2026", "best-mechanical-keyboard-2026", "best-yoga-mat-2026"],

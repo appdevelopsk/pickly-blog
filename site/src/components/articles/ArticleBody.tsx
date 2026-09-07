@@ -1,3 +1,4 @@
+import type React from "react";
 import { useLocale, useTranslations } from "next-intl";
 import type { ArticleContent, ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
@@ -8,6 +9,33 @@ import { Link } from "@/lib/i18n/navigation";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { resolvePrice } from "@/lib/affiliates/price";
 import { StickyOfferCta } from "./StickyOfferCta";
+
+/**
+ * 本文段落内の `[text](/articles/slug)` だけを内部リンクに変換する。
+ * 段落は元々プレーンテキスト描画で、記事間の文脈リンクを置く手段が無かった
+ * (関連カードは末尾のみ)。Markdown 全体は解釈しない — 内部パスのみ。
+ */
+const INTERNAL_LINK_RE = /\[([^\]]+)\]\((\/[^)\s]*)\)/g;
+function renderInline(text: string) {
+  if (!text.includes("](/")) return text;
+  const out: React.ReactNode[] = [];
+  let last = 0;
+  for (const m of text.matchAll(INTERNAL_LINK_RE)) {
+    const idx = m.index ?? 0;
+    const href = m[2];
+    const label = m[1];
+    if (!href || !label) continue;
+    if (idx > last) out.push(text.slice(last, idx));
+    out.push(
+      <Link key={idx} href={href} className="font-medium text-brand-600 underline decoration-brand-300 underline-offset-2 hover:text-brand-700">
+        {label}
+      </Link>,
+    );
+    last = idx + m[0].length;
+  }
+  if (last < text.length) out.push(text.slice(last));
+  return out;
+}
 
 function StarRating({ rating, label, size = "md" }: { rating: number; label?: string; size?: "sm" | "md" }) {
   const full = Math.floor(rating);
@@ -121,6 +149,12 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
           <p className="text-base leading-relaxed text-slate-600 border-l-4 border-brand-400 pl-4 bg-slate-50 py-3 pr-4 rounded-r-lg">
             {content.lede}
           </p>
+        )}
+        {content.quickAnswer && (
+          <div className="mt-4 rounded-xl border border-emerald-200 bg-emerald-50 px-4 py-3">
+            <p className="mb-1 text-xs font-bold uppercase tracking-wide text-emerald-700">{t("article.quickAnswer")}</p>
+            <p className="text-sm leading-relaxed text-emerald-950">{renderInline(content.quickAnswer)}</p>
+          </div>
         )}
         {content.methodology && (
           <div className="mt-4 flex items-start gap-3 rounded-xl bg-blue-50 border border-blue-200 px-4 py-3">
@@ -338,6 +372,46 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
               </table>
             </div>
           )}
+
+          {/* Spec matrix — 全製品が specs を持つ比較記事だけ、サイズ/素材/価格帯/用途を
+              1枚の表で横並びにする(検索意図「どれを選ぶか」に最短で答える)。
+              列名は specs のキーそのもの(記事ロケール側で翻訳済みの文言)。 */}
+          {isComparison && (() => {
+            const rows = offers
+              .map((o) => ({ o, specs: content.products?.find((p) => p.offerId === o.id)?.specs }))
+              .filter((r): r is { o: AffiliateOffer; specs: Record<string, string> } => !!r.specs && Object.keys(r.specs).length > 0);
+            if (rows.length < 2) return null;
+            const cols = Array.from(new Set(rows.flatMap((r) => Object.keys(r.specs))));
+            return (
+              <div className="mb-8 overflow-x-auto rounded-2xl border border-slate-200 shadow-sm">
+                <table className="min-w-full text-sm">
+                  <thead className="bg-slate-100 text-xs font-bold uppercase tracking-wide text-slate-600">
+                    <tr>
+                      <th className="px-4 py-3 text-left">{t("article.tableProduct")}</th>
+                      {cols.map((c) => (
+                        <th key={c} className="px-4 py-3 text-left">{c}</th>
+                      ))}
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-slate-100">
+                    {rows.map(({ o, specs }, i) => {
+                      const name = o.name[locale as keyof typeof o.name] ?? o.name.en ?? o.id;
+                      return (
+                        <tr key={o.id} className={i % 2 === 0 ? "bg-white" : "bg-slate-50/40"}>
+                          <td className="px-4 py-3 font-semibold text-slate-800">
+                            <a href={`#offer-${o.id}`} className="hover:text-brand-600 transition-colors">{name}</a>
+                          </td>
+                          {cols.map((c) => (
+                            <td key={c} className="px-4 py-3 text-slate-700">{specs[c] ?? "—"}</td>
+                          ))}
+                        </tr>
+                      );
+                    })}
+                  </tbody>
+                </table>
+              </div>
+            );
+          })()}
 
           {/* TOC box — mobile only; desktop uses the sidebar TOC */}
           {(tocItems.length > 0 || sectionToc.length > 0) && (
@@ -623,7 +697,7 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
               )}
               {s.paragraphs.map((p, j) => (
                 <p key={j} className="mb-4 text-base leading-relaxed text-slate-700">
-                  {p}
+                  {renderInline(p)}
                 </p>
               ))}
               {s.subsections && s.subsections.length > 0 && (
@@ -633,7 +707,7 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
                       <dt className="mb-1.5 font-bold text-slate-900">{sub.heading}</dt>
                       {sub.paragraphs.map((p, k) => (
                         <dd key={k} className="text-sm leading-relaxed text-slate-600">
-                          {p}
+                          {renderInline(p)}
                         </dd>
                       ))}
                     </div>

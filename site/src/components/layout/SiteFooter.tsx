@@ -114,7 +114,7 @@ export function SiteFooter() {
               <span className="font-bold text-slate-200 group-hover:text-white transition-colors">Toolify365</span>
               <span className="mt-0.5 block text-xs text-slate-400">{t("crossPromo.toolify")}</span>
             </a>
-            <a href="https://fxea365.com" className="group">
+            <a href="https://fxea365.com/?utm_source=pickly&utm_medium=referral&utm_campaign=crosslink" className="group">
               <span className="font-bold text-slate-200 group-hover:text-white transition-colors">FXEA365</span>
               <span className="mt-0.5 block text-xs text-slate-400">{t("crossPromo.fxea")}</span>
             </a>

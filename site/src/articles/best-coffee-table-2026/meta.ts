@@ -13,7 +13,7 @@ export const meta: ArticleMeta = {
     "pottery-barn-griffin-coffee-table",
   ],
   publishedAt: "2026-06-13",
-  updatedAt: "2026-06-13",
+  updatedAt: "2026-09-07",
   locales: ["en", "ja", "de", "fr", "es"],
   ogImage: "auto",
 };

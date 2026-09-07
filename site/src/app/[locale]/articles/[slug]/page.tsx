@@ -174,6 +174,7 @@ export default async function ArticlePage({ params }: Props) {
     products,
     offerNotes: (msg.offerNotes ?? {}) as Record<string, string>,
     methodology: typeof msg.methodology === "string" ? msg.methodology : undefined,
+    quickAnswer: typeof msg.quickAnswer === "string" ? msg.quickAnswer : undefined,
     recommendedFor: Array.isArray(msg.recommendedFor)
       ? (msg.recommendedFor as ArticleContent["recommendedFor"])
       : undefined,
