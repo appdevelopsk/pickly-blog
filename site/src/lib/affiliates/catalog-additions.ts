@@ -10127,7 +10127,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "shower-caddy-interdesign-forma",
-    "imageUrl": "http://idesignhome.com/cdn/shop/files/forma-shower-caddy-station-veritcal-brushed-46070-pumps-294214.jpg?v=1736031328",
+    "imageUrl": "https://m.media-amazon.com/images/I/61NKUHVHJuL._SL1000_.jpg",
     "priceMin": "18",
     "priceMax": "35",
     "category": "home",
@@ -13560,7 +13560,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "icebreaker-tech-lite-ii-tee",
-    "imageUrl": "https://www.ldmountaincentre.com/images/icebreaker-tech-lite-ii-short-sleeve-tee-nature-touring-club-p43073-221731_image.jpg",
+    "imageUrl": "",
     "priceMin": "$80",
     "priceMax": "$95",
     "category": "fashion",
@@ -22504,7 +22504,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "infant-optics-dxr-8",
-    "imageUrl": "https://i0.wp.com/www.infantoptics.com/wp-content/uploads/2023/03/DXR-8.jpg?fit=1080%2C1080&ssl=1",
+    "imageUrl": "https://m.media-amazon.com/images/I/71G9W+hypCL.jpg",
     "priceMin": "$200",
     "priceMax": "$250",
     "category": "parenting",
@@ -26594,7 +26594,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ishares-agg",
-    "imageUrl": "https://rich01.com/wp-content/uploads/2020/09/20240301084414_0.jpg",
+    "imageUrl": "",
     "priceMin": "0.03% ER",
     "priceMax": "0.03% ER",
     "category": "finance",
@@ -26620,7 +26620,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vanguard-bndx",
-    "imageUrl": "https://rich01.com/wp-content/uploads/20220807162923_100.jpg",
+    "imageUrl": "",
     "priceMin": "0.07% ER",
     "priceMax": "0.07% ER",
     "category": "finance",
@@ -29922,7 +29922,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "kobalt-80v-21-mower",
-    "imageUrl": "https://mobileimages.lowes.com/productimages/f6f3499a-95f5-42b3-9e8f-d4ada9c90b96/66694417.jpeg?size=pdhism",
+    "imageUrl": "",
     "priceMin": "$400",
     "priceMax": "$550",
     "category": "home",
@@ -31820,7 +31820,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "paypal-prepaid-mastercard",
-    "imageUrl": "https://i.ytimg.com/vi/BiYsWdxyYQA/maxresdefault.jpg",
+    "imageUrl": "",
     "priceMin": "$4.95/mo",
     "priceMax": "$4.95/mo",
     "category": "finance",
@@ -32028,7 +32028,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "vio-bank-cornerstone-mma",
-    "imageUrl": "https://i.ytimg.com/vi/p-Uac67babU/maxresdefault.jpg",
+    "imageUrl": "",
     "priceMin": "$100",
     "priceMax": "Free",
     "category": "finance",
@@ -32184,7 +32184,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "capital-one-360-cd",
-    "imageUrl": "https://i.ytimg.com/vi/MEgzhoFlQAM/maxresdefault.jpg",
+    "imageUrl": "",
     "priceMin": "Free",
     "priceMax": "Free",
     "category": "finance",
