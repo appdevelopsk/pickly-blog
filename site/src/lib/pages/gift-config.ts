@@ -93,8 +93,8 @@ export const OCCASIONS: OccasionConfig[] = [
   {
     slug: "back-to-school",
     icon: "🎒",
-    title: "Back to School Essentials 2026: 10 Picks Students Actually Use",
-    description: "The 2026 back-to-school list our editors would actually buy: noise-cancelling headphones, keyboards, dorm essentials and fitness gear compared by price and durability.",
+    title: "Back to School Essentials 2026",
+    description: "The 2026 back-to-school list our editors would actually buy: headphones, keyboards, dorm essentials and fitness gear compared.",
     pinDescription: "Back to school essentials for 2026 — tech, dorm room, and fitness picks for students.",
     categories: ["tech", "home", "fashion", "fitness", "food"],
     featuredSlugs: ["best-noise-cancelling-headphones-2026", "best-mechanical-keyboard-2026", "best-yoga-mat-2026"],
