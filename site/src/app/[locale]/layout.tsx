@@ -8,7 +8,6 @@ import type { Metadata } from "next";
 import { SiteHeader } from "@/components/layout/SiteHeader";
 import { SiteFooter } from "@/components/layout/SiteFooter";
 import { Suspense } from "react";
-import { Analytics } from "@/components/Analytics";
 import { PageViewTracker } from "@/lib/analytics/pageview";
 
 const SITE_URL = "https://pickly.blog";
@@ -19,6 +18,11 @@ const SITE_URL = "https://pickly.blog";
 // Analytics.tsx Clarity branch never shipped. A plain head <script> is the
 // canonical Clarity install and is guaranteed to appear in the static HTML.
 const CLARITY_ID = process.env.NEXT_PUBLIC_CLARITY_PROJECT_ID ?? "wqatyufkhb";
+// GA4. 同じ理由で <head> 直書き。以前は Analytics.tsx の next/script inline に
+// gtag('config') があったが static export で落ちており、gtag.js ローダーだけが
+// 出力されて config が一度も呼ばれない = page_view ゼロ / ランディングページ
+// "(not set)" の原因だった (2026-09-07 監査で判明)。
+const GA_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID ?? "G-M7SF83B60R";
 
 const inter = Inter({
   subsets: ["latin", "latin-ext"],
@@ -91,6 +95,16 @@ export default async function LocaleLayout({ children, params }: Props) {
             }}
           />
         )}
+        {GA_ID && (
+          <>
+            <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} />
+            <script
+              dangerouslySetInnerHTML={{
+                __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}',{send_page_view:true});`,
+              }}
+            />
+          </>
+        )}
       </head>
       <body className={`${inter.variable} min-h-screen flex flex-col`}>
         <NextIntlClientProvider locale={locale as Locale} messages={messages}>
@@ -98,7 +112,6 @@ export default async function LocaleLayout({ children, params }: Props) {
           <main className="flex-1">{children}</main>
           <SiteFooter />
         </NextIntlClientProvider>
-        <Analytics />
         <Suspense fallback={null}>
           <PageViewTracker />
         </Suspense>

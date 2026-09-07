@@ -14,7 +14,7 @@ export function SisterSiteCta() {
       <p className="text-sm font-semibold text-emerald-900">{t("financeCta.title")}</p>
       <p className="mt-1 text-sm text-emerald-800/80">{t("fxea")}</p>
       <a
-        href="https://fxea365.com"
+        href="https://fxea365.com/?utm_source=pickly&utm_medium=referral&utm_campaign=crosslink"
         rel="noopener"
         className="mt-3 inline-flex w-fit items-center gap-1 rounded-md bg-emerald-600 px-3 py-1.5 text-sm font-medium text-pure transition-colors hover:bg-emerald-700"
       >

@@ -76,6 +76,8 @@ export interface ArticleContent {
   description: string;
   /** Short hook shown above the article body */
   lede: string;
+  /** Optional 2-3 sentence direct answer shown right under the lede (featured-snippet / AI-citation target) */
+  quickAnswer?: string;
   sections: ArticleSection[];
   faqs: ArticleFAQ[];
   products?: ArticleProduct[];
