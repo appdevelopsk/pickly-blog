@@ -100,7 +100,12 @@ export default async function LocaleLayout({ children, params }: Props) {
             <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} />
             <script
               dangerouslySetInnerHTML={{
-                __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_ID}',{send_page_view:true});`,
+                // 2026-09-08: GA4 の Unassigned セッションが 15→57 に急増。原因は Perplexity 等の
+                // AI アシスタント流入が utm_source だけ付けて utm_medium を省略するため、GA4 の
+                // デフォルトチャネルグループに分類できないこと。config 前に page_location を正規化して
+                // utm_medium を補う（AI 系 → ai-assistant / それ以外 → referral）。ES5 のみ・失敗時は素の config。
+                __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+(function(){var cfg={send_page_view:true};try{var q=window.location.search||'';if(/[?&]utm_source=/.test(q)&&!/[?&]utm_medium=/.test(q)){var m=q.match(/[?&]utm_source=([^&#]*)/);var src=m?decodeURIComponent(m[1]):'';var med=/^(perplexity|chatgpt|copilot|gemini|claude|openai|bing-copilot|mistral|deepseek)/i.test(src)?'ai-assistant':'referral';var loc=window.location.href.split('#')[0]+'&utm_medium='+med+window.location.hash;cfg.page_location=loc;}}catch(e){cfg={send_page_view:true};}gtag('config','${GA_ID}',cfg);})();`,
               }}
             />
           </>
