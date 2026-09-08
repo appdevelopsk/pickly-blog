@@ -9,6 +9,7 @@ import { Link } from "@/lib/i18n/navigation";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { resolvePrice } from "@/lib/affiliates/price";
 import { StickyOfferCta } from "./StickyOfferCta";
+import { EvidenceBadge, deriveEvidenceLevel } from "./EvidenceBadge";
 
 /**
  * 本文段落内の `[text](/articles/slug)` だけを内部リンクに変換する。
@@ -142,6 +143,13 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
           </span>
           <span className="text-xs text-slate-500">{t("article.updatedAt", { date: formatDate(meta.updatedAt) })}</span>
         </div>
+        {/* 根拠レベル + 最終レビュー日（2026-09-08）。記事ページのみ。 */}
+        <div className="mb-3">
+          <EvidenceBadge
+            level={deriveEvidenceLevel(content, offers.map((o) => o.id))}
+            reviewedAt={formatDate(meta.updatedAt)}
+          />
+        </div>
         <h1 className="mb-4 text-2xl font-black leading-tight text-slate-900 md:text-4xl">
           {content.title}
         </h1>
@@ -211,14 +219,18 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
                   </span>
                 </div>
                 <div className="flex items-center gap-4">
+                  {/* 画像/商品名は Clarity で dead click が多発した非リンク要素（2026-09-07 モバイル）。
+                      個別カード(#offer-)へ飛ばして「押しても何も起きない」を解消する。 */}
                   {img && (
-                    <div className="h-20 w-20 shrink-0 overflow-hidden rounded-xl border border-amber-200 bg-slate-50 sm:h-24 sm:w-24">
+                    <a href={`#offer-${o.id}`} className="h-20 w-20 shrink-0 overflow-hidden rounded-xl border border-amber-200 bg-slate-50 sm:h-24 sm:w-24">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img src={img} alt={name} className="h-full w-full object-contain p-2" loading="eager" />
-                    </div>
+                    </a>
                   )}
                   <div className="min-w-0 flex-1">
-                    <h2 className="mb-1.5 text-lg font-black leading-tight text-slate-900 line-clamp-2 sm:text-xl">{name}</h2>
+                    <h2 className="mb-1.5 text-lg font-black leading-tight text-slate-900 line-clamp-2 sm:text-xl">
+                      <a href={`#offer-${o.id}`} className="hover:text-brand-600 transition-colors">{name}</a>
+                    </h2>
                     <div className="flex flex-wrap items-center gap-2">
                       {o.rating && <StarRating rating={o.rating} label={t("article.ratingLabel", { rating: o.rating.toFixed(1) })} />}
                       {price && <span className="rounded-md bg-slate-100 px-2 py-0.5 text-sm font-bold text-slate-700">{price}</span>}
@@ -330,8 +342,10 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
                               {i + 1}
                             </span>
                             {(() => { const img = getOfferImageUrl(o); return img ? (
-                              // eslint-disable-next-line @next/next/no-img-element
-                              <img src={img} alt={name} className="h-8 w-8 shrink-0 rounded object-contain bg-slate-50 border border-slate-100" loading="lazy" />
+                              <a href={`#offer-${o.id}`} className="shrink-0">
+                                {/* eslint-disable-next-line @next/next/no-img-element */}
+                                <img src={img} alt={name} className="h-8 w-8 shrink-0 rounded object-contain bg-slate-50 border border-slate-100" loading="lazy" />
+                              </a>
                             ) : null; })()}
                             <a href={`#offer-${o.id}`} className="font-semibold text-slate-800 hover:text-brand-600 transition-colors line-clamp-1">
                               {name}
@@ -536,11 +550,12 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
 
                 {/* Rank badge + name */}
                 <div className="mb-4 flex items-start gap-4">
+                  {/* 画像/商品名タップで購入ボタン群(#buy-)へ。Clarity dead click 対策（2026-09-08）。 */}
                   {(() => { const img = getOfferImageUrl(o); return img ? (
-                    <div className={`h-24 w-24 shrink-0 overflow-hidden rounded-xl border bg-slate-50 ${isWinner ? "border-amber-200" : "border-slate-100"}`}>
+                    <a href={`#buy-${o.id}`} className={`h-24 w-24 shrink-0 overflow-hidden rounded-xl border bg-slate-50 ${isWinner ? "border-amber-200" : "border-slate-100"}`}>
                       {/* eslint-disable-next-line @next/next/no-img-element */}
                       <img src={img} alt={name} className="h-full w-full object-contain p-2" loading="lazy" />
-                    </div>
+                    </a>
                   ) : null; })()}
                   <div className="flex-1 min-w-0">
                     <div className="flex flex-wrap items-center gap-2 mb-1.5">
@@ -553,7 +568,9 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
                         </span>
                       )}
                     </div>
-                    <h2 className="text-xl font-black text-slate-900 mb-2">{name}</h2>
+                    <h2 className="text-xl font-black text-slate-900 mb-2">
+                      <a href={`#buy-${o.id}`} className="hover:text-brand-600 transition-colors">{name}</a>
+                    </h2>
                     <div className="flex flex-wrap items-center gap-3">
                       {o.rating && <StarRating rating={o.rating} label={t("article.ratingLabel", { rating: o.rating.toFixed(1) })} />}
                       {resolvePrice(o, locale) && <span className="text-sm font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-md">{resolvePrice(o, locale)}</span>}
@@ -653,7 +670,9 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
                   </div>
                 )}
 
-                <AffiliateLink offer={o} variant="stores" />
+                <div id={`buy-${o.id}`} className="scroll-mt-24">
+                  <AffiliateLink offer={o} variant="stores" />
+                </div>
               </section>
             );
           })}
