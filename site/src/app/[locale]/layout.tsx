@@ -104,8 +104,13 @@ export default async function LocaleLayout({ children, params }: Props) {
                 // AI アシスタント流入が utm_source だけ付けて utm_medium を省略するため、GA4 の
                 // デフォルトチャネルグループに分類できないこと。config 前に page_location を正規化して
                 // utm_medium を補う（AI 系 → ai-assistant / それ以外 → referral）。ES5 のみ・失敗時は素の config。
+                // 2026-09-09: 自動操作ブラウザ(navigator.webdriver===true = Puppeteer/Selenium 等)は
+                // config を送らない。GA4 国別レポート(8/12–9/8)で US×中国語×Direct×滞在0秒が 646 ユーザー、
+                // 同型が China/Iran/Russia/Vietnam にもあり、全体 2,398 の約4割が人間ではなかった。
+                // GA4 側にはこの層を除外するフィルタが無いので送信元で止める。効果測定は
+                // `npm run report:countries`(ボット疑い層を分離表示)で行う。
                 __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
-(function(){var cfg={send_page_view:true};try{var q=window.location.search||'';if(/[?&]utm_source=/.test(q)&&!/[?&]utm_medium=/.test(q)){var m=q.match(/[?&]utm_source=([^&#]*)/);var src=m?decodeURIComponent(m[1]):'';var med=/^(perplexity|chatgpt|copilot|gemini|claude|openai|bing-copilot|mistral|deepseek)/i.test(src)?'ai-assistant':'referral';var loc=window.location.href.split('#')[0]+'&utm_medium='+med+window.location.hash;cfg.page_location=loc;}}catch(e){cfg={send_page_view:true};}gtag('config','${GA_ID}',cfg);})();`,
+(function(){if(navigator.webdriver===true){return;}var cfg={send_page_view:true};try{var q=window.location.search||'';if(/[?&]utm_source=/.test(q)&&!/[?&]utm_medium=/.test(q)){var m=q.match(/[?&]utm_source=([^&#]*)/);var src=m?decodeURIComponent(m[1]):'';var med=/^(perplexity|chatgpt|copilot|gemini|claude|openai|bing-copilot|mistral|deepseek)/i.test(src)?'ai-assistant':'referral';var loc=window.location.href.split('#')[0]+'&utm_medium='+med+window.location.hash;cfg.page_location=loc;}}catch(e){cfg={send_page_view:true};}gtag('config','${GA_ID}',cfg);})();`,
               }}
             />
           </>
