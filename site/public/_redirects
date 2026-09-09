@@ -9,6 +9,10 @@
 # ★302だとGoogleが「/ が正、/en/ は重複」と解釈し、ホームの canonical を
 #   / に選んでいた(URL Inspection APIで確認 2026-08-04)。301で /en/ を確定させる。
 #   locale自動判定を将来入れる場合もCDN側の書き換えで対応できる。
+# ★2026-09-09: locale 自動判定を functions/index.ts に実装した(Accept-Language →
+#   人間は 302 /<locale>/、クローラと英語は 301 /en/)。Pages では Functions が
+#   応答したリクエストに _redirects は適用されないので、下の行は Functions が
+#   落ちた時の保険としてだけ効く。
 / /en/ 301
 
 # Exclude static files from locale redirect (must come before /:locale rule)
