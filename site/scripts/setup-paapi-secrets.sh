@@ -36,6 +36,6 @@ echo "登録後の確認:"
 echo "  gh workflow run prices.yml -f job=daily"
 echo "  gh run watch"
 echo
-echo "注意: PA-API は売上要件（直近180日に3件の適格販売）を満たさないと"
+echo "注意: PA-API は売上要件（直近30日に10件以上の適格売上）を満たさないと"
 echo "      AccessDenied で価格が取れません。その場合も既存価格は保持され、"
 echo "      UI は日付なしで従来通り表示されます（壊れません）。"

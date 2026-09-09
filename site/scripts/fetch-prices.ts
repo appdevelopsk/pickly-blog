@@ -117,7 +117,7 @@ async function fetchPaapiPrices(
       console.warn(`  PA-API ${market} error [${error.code}]: ${error.message.slice(0, 120)}`);
       if (fatal) {
         console.warn(
-          `  → 資格情報か売上要件（直近180日に3件の適格販売）の問題です。${market} の取得を中断します。`,
+          `  → 資格情報か売上要件（直近30日に10件以上の適格売上）の問題です。${market} の取得を中断します。`,
         );
         break;
       }

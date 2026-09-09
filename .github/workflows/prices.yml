@@ -52,7 +52,7 @@ jobs:
         working-directory: site
 
       # PAAPI_* が未設定なら fetch-prices.ts 側がスキップを表示して正常終了する。
-      # 売上要件（直近180日に3件の適格販売）未達でも AccessDenied で中断し、
+      # 売上要件（直近30日に10件以上の適格売上）未達でも AccessDenied で中断し、
       # 既存の価格を保ったまま終わる（価格を空にはしない）。
       - name: Amazon 価格を取得 (PA-API)
         env:
