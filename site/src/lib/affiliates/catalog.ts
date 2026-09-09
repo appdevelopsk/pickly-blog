@@ -151,7 +151,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Timemore C2", ja: "タイムモア C2" },
     description: {
       en: "Manual grinder. Stainless steel conical burr. The best home-use manual mill in our test.",
-      ja: "9,000円の手挽きミル。ステンレス円錐刃。家庭用手動ミルで最高峰。",
+      ja: "手挽きミル。ステンレス円錐刃。家庭用手動ミルで最高峰。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-timemore-c2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Ftimemore%2Bc2%2F", markets: ["JP"], approved: true },
@@ -166,7 +166,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Hario V60 Ceramic Slim", ja: "ハリオ V60 セラミックスリム" },
     description: {
       en: "Ceramic burr manual. Beginner-friendly classic. Half the cost of premium options.",
-      ja: "3,000円のセラミック刃手挽き。初心者向け定番。プレミアム価格帯の半額以下。",
+      ja: "セラミック刃手挽き。初心者向け定番。プレミアム価格帯の半額以下。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-hario-v60", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHARIO%2BV60%2B%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%AA%E3%83%A0%2F", markets: ["JP"], approved: true },
@@ -181,7 +181,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Melitta Vario E", ja: "メリタ バリオ E" },
     description: {
       en: "Electric grinder. Stepless adjustment, espresso to French press. Quiet operation.",
-      ja: "20,000円の電動ミル。無段階調整、エスプレッソからフレンチプレスまで。静音設計。",
+      ja: "電動ミル。無段階調整、エスプレッソからフレンチプレスまで。静音設計。",
     },
     links: [
       { network: "moshimo", productId: "yahoo-melitta-vario-e", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5539220&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%A1%E3%83%AA%E3%82%BF%2B%E3%83%90%E3%83%AA%E3%82%AA%2BE", markets: ["JP"], approved: true },
@@ -198,7 +198,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Delonghi KG79J", ja: "デロンギ KG79J" },
     description: {
       en: "Electric. Conical burr, 18 grind settings. Best price for drip coffee.",
-      ja: "7,000円の電動ミル。円錐刃、18段階粒度設定。ドリップコーヒー目的では最安級の選択。",
+      ja: "電動ミル。円錐刃、18段階粒度設定。ドリップコーヒー目的では最安級の選択。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-delonghi-kg79j", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%2BKG79J%2F", markets: ["JP"], approved: true },
@@ -215,7 +215,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Fuji Royal R-220 (Mirukko)", ja: "富士ローヤル みるっこ R-220" },
     description: {
       en: "Pro-grade. Cast steel cutter, used in cafes. The reference for home enthusiasts.",
-      ja: "50,000円の業務用クラス。鋳鋼カッター、カフェ採用実績多数。家庭ホームバリスタ向けの基準機。",
+      ja: "業務用クラス。鋳鋼カッター、カフェ採用実績多数。家庭ホームバリスタ向けの基準機。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-fuji-royal-r220", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%BF%E3%82%8B%E3%81%A3%E3%81%93%2BR-220%2F", markets: ["JP"], approved: true },
@@ -233,7 +233,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Philips Sonicare DiamondClean Smart 9300", ja: "フィリップス ソニッケアー ダイヤモンドクリーン スマート 9300" },
     description: {
       en: "Flagship sonic. 5 modes, app-connected coaching, replaceable brush heads with chip recognition.",
-      ja: "35,000円のソニックフラッグシップ。5モード+アプリ連動コーチング、ICチップ認識ブラシヘッド。",
+      ja: "ソニックフラッグシップ。5モード+アプリ連動コーチング、ICチップ認識ブラシヘッド。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-philips-9300", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2BSonicare%2BDiamondClean%2BSmart%2B9300%2F", markets: ["JP"], approved: true },
@@ -248,7 +248,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Philips Sonicare ProtectiveClean 4500", ja: "フィリップス ソニッケアー プロテクトクリーン 4500" },
     description: {
       en: "Mid-range sonic. 3 modes, pressure sensor, 14-day battery. Best balance of features and price.",
-      ja: "12,000円のミドルクラス・ソニック。3モード、圧力センサー、14日バッテリー。機能と価格のバランス最良。",
+      ja: "ミドルクラス・ソニック。3モード、圧力センサー、14日バッテリー。機能と価格のバランス最良。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-philips-4500", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2BSonicare%2BProtectiveClean%2B4500%2F", markets: ["JP"], approved: true },
@@ -263,7 +263,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Oral-B PRO 1", ja: "オーラルB PRO 1" },
     description: {
       en: "Entry-level rotating toothbrush. 8,800 oscillations/min, 2-min timer. Cheapest worth-it option.",
-      ja: "5,000円のエントリー回転式。1分8,800ストローク、2分タイマー内蔵。買って後悔しない最安帯。",
+      ja: "エントリー回転式。1分8,800ストローク、2分タイマー内蔵。買って後悔しない最安帯。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-oral-b-pro-1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOral-B%2BPRO%2B1%2F", markets: ["JP"], approved: true },
@@ -278,7 +278,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Panasonic Doltz EW-DP35", ja: "パナソニック ドルツ EW-DP35" },
     description: {
       en: "Japanese linear sonic. 31,000 strokes/min, dual-vibration motion, 22-day battery.",
-      ja: "18,000円の国内ブランド・リニア音波。1分31,000ストローク、W音波振動、22日バッテリー。",
+      ja: "国内ブランド・リニア音波。1分31,000ストローク、W音波振動、22日バッテリー。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-doltz-dp35", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPanasonic%2BDoltz%2BEW-DP35%2F", markets: ["JP"], approved: true },
@@ -293,7 +293,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "BRAUN Oral-B Genius X (iO 9)", ja: "ブラウン オーラルB Genius X (iO 9)" },
     description: {
       en: "Flagship. AI brushing detection across 16 zones, magnetic drive, color OLED display.",
-      ja: "50,000円のフラッグシップ。16ゾーンAI磨き残し検知、マグネット駆動、カラー OLED ディスプレイ。",
+      ja: "フラッグシップ。16ゾーンAI磨き残し検知、マグネット駆動、カラー OLED ディスプレイ。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-braun-io9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBRAUN%2BOral-B%2BGenius%2BX%2BiO%2B9%2F", markets: ["JP"], approved: true },
@@ -308,7 +308,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🦷",
     name: { en: "Oral-B iO Series 9", ja: "オーラルB iO Series 9" },
     description: {
-      en: "Oral-B flagship with magnetic drive, AI 16-zone coaching app, round oscillating head. $300+, app pushes data sharing.",
+      en: "Oral-B flagship with magnetic drive, AI 16-zone coaching app, round oscillating head. App pushes data sharing.",
       ja: "Oral-Bフラッグシップ。マグネットドライブ＋AIアプリ16ゾーンコーチング、回転式丸型ヘッド。3万円超、アプリはデータ共有を積極促進。",
     },
     links: [
@@ -324,7 +324,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💎",
     name: { en: "Philips Sonicare DiamondClean 9000", ja: "フィリップス ソニッケアー ダイヤモンドクリーン 9000" },
     description: {
-      en: "Sonic flagship, 4 modes, glass charging cup, premium gift presentation. $250+, charging cup impractical for travel.",
+      en: "Sonic flagship, 4 modes, glass charging cup, premium gift presentation. Charging cup impractical for travel.",
       ja: "音波式フラッグシップ。4モード・ガラス充電カップ・高級ギフト向け演出。2万5千円超、充電カップは旅行に不向き。",
     },
     links: [
@@ -419,8 +419,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💸",
     name: { en: "Amazon Basics Electric Toothbrush", ja: "Amazonベーシック 電動歯ブラシ", "zh-CN": "亚马逊基础款电动牙刷", "zh-TW": "亞馬遜基礎款電動牙刷", ko: "아마존 베이직 전동칫솔", es: "Cepillo Eléctrico Amazon Basics", "pt-BR": "Escova Elétrica Amazon Basics", fr: "Brosse à Dents Électrique Amazon Basics", de: "Amazon Basics Elektrische Zahnbürste", it: "Amazon Basics Spazzolino Elettrico", ru: "Электрическая Зубная Щётка Amazon Basics", ar: "فرشاة الأسنان الكهربائية من أمازون بيسيكس", hi: "अमेज़न बेसिक्स इलेक्ट्रिक टूथब्रश", id: "Sikat Gigi Elektrik Amazon Basics", th: "แปรงสีฟันไฟฟ้า Amazon Basics", vi: "Bàn Chải Điện Amazon Basics", tr: "Amazon Basics Elektrikli Diş Fırçası" },
     description: {
-      en: "~$15-22 rotating toothbrush, 2-min timer, AA battery, 2 replacement heads included. No frills, no app, no subscription. Best disposable-trip or backup brush.",
-      ja: "約2,000〜3,000円の回転式電動歯ブラシ。2分タイマー、単3電池、替えブラシ2本付属。アプリ不要、サブスク不要。旅使い捨てや予備ブラシに最適。",
+      en: "Rotating toothbrush, 2-min timer, AA battery, 2 replacement heads included. No frills, no app, no subscription. Best disposable-trip or backup brush.",
+      ja: "回転式電動歯ブラシ。2分タイマー、単3電池、替えブラシ2本付属。アプリ不要、サブスク不要。旅使い捨てや予備ブラシに最適。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-amazon-basics-electric-toothbrush", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazon%2BBasics%2B%E9%9B%BB%E5%8B%95%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%2F", markets: ["JP"], approved: true },
@@ -434,7 +434,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📱",
     name: { en: "Oclean X Pro Elite", ja: "オクリーン X Pro エリート" },
     description: {
-      en: "~$80 AI coaching, AMOLED display, ultra-quiet piezoelectric motor. App data to Chinese servers.",
+      en: "AI coaching, AMOLED display, ultra-quiet piezoelectric motor. App data to Chinese servers.",
       ja: "約1万円のAIコーチング、AMOLEDディスプレイ、超静音圧電モーター。アプリデータは中国サーバーへ。",
     },
     links: [
@@ -450,7 +450,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "top-pick",
     name: { en: "Philips Series 9000 Prestige SP9883", ja: "フィリップス シリーズ9000 プレステージ SP9883" },
     description: {
-      en: "~¥50,000 premium rotary shaver. SenseIQ adapts to beard density 125 times per second, 360-degree contour following, wet/dry use, worldwide voltage. Explicit weakness: ¥50,000 is expensive; rotary shaves less close than foil on flat skin areas; round heads harder to clean manually.",
+      en: "Premium rotary shaver. SenseIQ adapts to beard density 125 times per second, 360-degree contour following, wet/dry use, worldwide voltage. Explicit weakness: rotary shaves less close than foil on flat skin areas; round heads harder to clean manually.",
       ja: "約5万円のプレミアム回転式シェーバー。SenseIQがひげ密度を1秒125回読み取り自動適応、360度追従、ウェット/ドライ両用、世界対応電圧。弱点：5万円は高額、平坦部位の剃り残しは往復式に劣る、手動洗浄がしにくい形状。",
     },
     links: [
@@ -465,7 +465,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "best-foil",
     name: { en: "Braun Series 9 Pro+ 9565cc", ja: "ブラウン シリーズ9 Pro+ 9565cc" },
     description: {
-      en: "~¥45,000 top-tier foil shaver. Five shaving elements, ProLift for flat-lying hairs, AutoSense motor, Clean&Charge station included. Explicit weakness: ongoing cartridge costs; foil struggles on reverse-grain necks.",
+      en: "Top-tier foil shaver. Five shaving elements, ProLift for flat-lying hairs, AutoSense motor, Clean&Charge station included. Explicit weakness: ongoing cartridge costs; foil struggles on reverse-grain necks.",
       ja: "約4万5千円の最上位往復式シェーバー。5刃要素、寝たひげ対応ProLift、AutoSenseモーター、クリーン&チャージ付属。弱点：カートリッジ継続費用；逆生えのネック部に弱い。",
     },
     links: [
@@ -496,8 +496,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "budget-pick",
     name: { en: "Philips Series 5000 SP5588", ja: "フィリップス シリーズ5000 SP5588" },
     description: {
-      en: "~¥20,000 AquaTouch wet-dry rotary shaver. Foam/gel certified, quick-dry design, SH52/SH53 replacement heads at ¥3,500–5,000/year. Explicit weakness: no SenseIQ; two-head rotary less capable on complex contours; no clean-and-charge option.",
-      ja: "約2万円のAquaTouchウェット/ドライ回転式シェーバー。フォーム・ジェル対応、速乾設計、年間替刃費用3,500〜5,000円。弱点：SenseIQなし；2ヘッドで複雑輪郭への追従性が劣る；クリーンスタンドなし。",
+      en: "AquaTouch wet-dry rotary shaver. Foam/gel certified, quick-dry design, SH52/SH53 replacement heads at ¥3,500–5,000/year. Explicit weakness: no SenseIQ; two-head rotary less capable on complex contours; no clean-and-charge option.",
+      ja: "AquaTouchウェット/ドライ回転式シェーバー。フォーム・ジェル対応、速乾設計、年間替刃費用3,500〜5,000円。弱点：SenseIQなし；2ヘッドで複雑輪郭への追従性が劣る；クリーンスタンドなし。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-philips-series-5000-sp5588", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2BSP5588%2F", markets: ["JP"], approved: true },
@@ -513,7 +513,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "value-pick",
     name: { en: "Braun Series 7 71-S7200cc", ja: "ブラウン シリーズ7 71-S7200cc" },
     description: {
-      en: "~¥25,000 AutoSense foil shaver with Clean&Charge station included. Four shaving elements, motor adapts to beard resistance. Explicit weakness: no ProLift for flat-lying hairs; cartridge costs apply; noticeable step-down from Series 9 on dense beards.",
+      en: "AutoSense foil shaver with Clean&Charge station included. Four shaving elements, motor adapts to beard resistance. Explicit weakness: no ProLift for flat-lying hairs; cartridge costs apply; noticeable step-down from Series 9 on dense beards.",
       ja: "約2万5千円のAutoSense往復式シェーバー、クリーン&チャージ付属。4刃要素でひげ密度に適応。弱点：寝たひげ対応ProLiftなし；カートリッジ費用加算；ひげ濃い人はシリーズ9との差を体感しやすい。",
     },
     links: [
@@ -532,7 +532,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "CurrentBody Skin LED Light Therapy Mask", ja: "CurrentBody Skin LED ライトセラピーマスク" },
     description: {
       en: "Pinterest favorite. 132 LEDs at 633 nm + 830 nm, silicone flex shell, 10-minute sessions. The default home LED pick.",
-      ja: "75,000円のPinterest人気機。LED 132個、633nm+830nmデュアル波長、シリコンフレックス、1回10分。家庭用LEDの定番。",
+      ja: "Pinterest人気機。LED 132個、633nm+830nmデュアル波長、シリコンフレックス、1回10分。家庭用LEDの定番。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-currentbody-skin-led", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCurrentBody%2BSkin%2BLED%2F", markets: ["JP"], approved: true },
@@ -547,7 +547,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Yaman Medi Lift Plus", ja: "ヤーマン メディリフトプラス" },
     description: {
       en: "Japanese hybrid. LED + EMS in 10-minute cycles. Visible same-day lift effect on top of long-term LED collagen response.",
-      ja: "77,000円の和ブランド・ハイブリッド。LED+EMSの10分サイクル。長期のLED効果に当日のリフトアップ感が乗る。",
+      ja: "和ブランド・ハイブリッド。LED+EMSの10分サイクル。長期のLED効果に当日のリフトアップ感が乗る。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-yaman-medi-lift-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A4%E3%83%BC%E3%83%9E%E3%83%B3%2B%E3%83%A1%E3%83%87%E3%82%A3%E3%83%AA%E3%83%95%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
@@ -564,7 +564,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Dr.Arrivo Zeus II", ja: "ドクターアリーヴォ ゼウスII" },
     description: {
       en: "Luxury hand-held. Six modalities (LED, EMS, RF, ultrasound, ion, microcurrent), gold-plated electrodes. The home version of a Ginza clinic device.",
-      ja: "298,000円のラグジュアリー機。LED・EMS・RF・超音波・イオン・微弱電流の6モード、金メッキ電極。銀座クリニック機の家庭版。",
+      ja: "ラグジュアリー機。LED・EMS・RF・超音波・イオン・微弱電流の6モード、金メッキ電極。銀座クリニック機の家庭版。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-dr-arrivo-zeus-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%B4%E3%82%A9%2B%E3%82%BC%E3%82%A6%E3%82%B9II%2F", markets: ["JP"], approved: true },
@@ -581,7 +581,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Aduro 7+1 Light Therapy Mask", ja: "Aduro 7+1 ライトセラピーマスク" },
     description: {
       en: "Entry mask. 7 colors plus near-infrared, rigid shell, tethered (no battery to fail). Best 'try before you commit' option.",
-      ja: "30,000円のエントリー機。7色+近赤外、硬質シェル、電源接続式(電池故障なし)。「お試し」用途で最適。",
+      ja: "エントリー機。7色+近赤外、硬質シェル、電源接続式(電池故障なし)。「お試し」用途で最適。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-aduro-7-plus-1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAduro%2B7%2B%2F", markets: ["JP"], approved: true },
@@ -598,7 +598,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Omnilux Contour Face", ja: "オムニルクス コンツアー フェース" },
     description: {
       en: "FDA-cleared mask. 633 nm + 830 nm dual wavelength, silicone flex. The model with the longest published clinical record.",
-      ja: "58,000円のFDA認可マスク。633nm+830nmデュアル波長、シリコンフレックス。掲載論文数で最も実績のあるモデル。",
+      ja: "FDA認可マスク。633nm+830nmデュアル波長、シリコンフレックス。掲載論文数で最も実績のあるモデル。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-omnilux-contour-face", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOmnilux%2BContour%2BFace%2F", markets: ["JP"], approved: true },
@@ -616,7 +616,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "&honey Deep Moist Shampoo", ja: "&honey Deep Moist シャンプー" },
     description: {
       en: "440 mL drugstore moisture pick. Honey-based sulfate-free moisturizing formula that dominated the Japanese drugstore tier from 2018 onwards, refill pouches at roughly 20 percent cost-per-mL discount, widespread availability at Matsumoto Kiyoshi, Welcia, and Don Quijote. Heavy floral fragrance is the dominant complaint — the honey-and-rose scent lingers on pillows and the fragrance-sensitive crowd finds it overpowering; moisturizer load weighs down fine and limp hair so the volumizing crowd should look elsewhere; sulfate-free claim is real but the formula still includes silicones in moderate ratio so the silicone-free crowd should look at Olaplex No.4 instead.",
-      ja: "1,400円440mLのドラッグストア保湿枠。2018年以降日本のドラッグストア枠を支配したハニー ベースの硫酸塩フリー保湿処方、mLあたりコスト約20%割引で詰替パウチ、マツモトキヨシ・ウエルシア・ドン キホーテで広く入手可能。重いフローラル フレグランスが支配的不満 — ハニー&ローズの香りは枕に残りフレグランス敏感層には圧倒的、保湿剤量が細毛と平らな髪を重くしボリュームアップ派は他を見るべき、硫酸塩フリー主張は本物だが処方は中程度の比率でシリコンを含むのでシリコンフリー派はOlaplex No.4を見るべき。",
+      ja: "440mLのドラッグストア保湿枠。2018年以降日本のドラッグストア枠を支配したハニー ベースの硫酸塩フリー保湿処方、mLあたりコスト約20%割引で詰替パウチ、マツモトキヨシ・ウエルシア・ドン キホーテで広く入手可能。重いフローラル フレグランスが支配的不満 — ハニー&ローズの香りは枕に残りフレグランス敏感層には圧倒的、保湿剤量が細毛と平らな髪を重くしボリュームアップ派は他を見るべき、硫酸塩フリー主張は本物だが処方は中程度の比率でシリコンを含むのでシリコンフリー派はOlaplex No.4を見るべき。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-and-honey-deep-moist-shampoo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%26honey%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -633,7 +633,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "BOTANIST Damage Care Shampoo", ja: "BOTANIST ダメージケア シャンプー" },
     description: {
       en: "490 mL botanical mid-tier pick. Botanical-positioned damage-care formula with mid-tier price and widespread Japanese drugstore availability, refill pouches at comparable savings, the brand has been a Pinterest-friendly daily-driver since 2015. Silicone-included formula divides reviewers — silicone buildup is heavier on porous and curly hair and clarifying washes every 4-6 weeks are needed to clear it; botanical fragrance fades within hours and the long-lasting fragrance crowd should look at Kerastase instead; formulation has been adjusted multiple times since 2015 and the 2026 version reviews differently from older versions, so older Rakuten reviews are partially out of date.",
-      ja: "1,540円490mLのボタニカル中位枠。中位価格と広い日本のドラッグストア入手可能性のボタニカル ポジショニングのダメージ ケア処方、同等の節約で詰替パウチ、ブランドは2015年以降Pinterestフレンドリーな毎日使い。シリコン入り処方がレビュアーを分裂させる — シリコン蓄積はポーラスと巻き毛でより重く4-6週ごとにクラリファイング洗浄が必要、ボタニカル フレグランスは数時間以内に消え長持ちフレグランス派はKerastaseを見るべき、処方は2015年以来複数回調整され2026年版は古い版と異なるレビューを受けるため古い楽天レビューは部分的に古い。",
+      ja: "490mLのボタニカル中位枠。中位価格と広い日本のドラッグストア入手可能性のボタニカル ポジショニングのダメージ ケア処方、同等の節約で詰替パウチ、ブランドは2015年以降Pinterestフレンドリーな毎日使い。シリコン入り処方がレビュアーを分裂させる — シリコン蓄積はポーラスと巻き毛でより重く4-6週ごとにクラリファイング洗浄が必要、ボタニカル フレグランスは数時間以内に消え長持ちフレグランス派はKerastaseを見るべき、処方は2015年以来複数回調整され2026年版は古い版と異なるレビューを受けるため古い楽天レビューは部分的に古い。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-botanist-damage-care-shampoo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBOTANIST%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2B%E3%83%80%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%B1%E3%82%A2%2F", markets: ["JP"], approved: true },
@@ -650,7 +650,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Olaplex No.4 Bond Maintenance Shampoo", ja: "Olaplex No.4 Bond Maintenance Shampoo" },
     description: {
       en: "250 mL salon bond-repair pick. Patented bis-aminopropyl diglycol dimaleate formula re-forms broken disulfide bonds in chemically damaged and bleached hair, sulfate-free, silicone-light, the salon-grade maintenance shampoo paired with No.0 leave-on and No.3 pre-shower for the full bond-repair regimen. 30 dollars-plus per bottle works out to 5-7x the cost-per-wash of the drugstore tier and is only justified for bond-damaged hair — virgin or lightly heat-styled hair is overkill on the chemistry; no fragrance variety across the line so fragrance-sensitive users have no alternative scent option; US-formulation may feel different to Asian hair textures; No.4 alone without No.0 and No.3 underdelivers the bond repair the marketing implies.",
-      ja: "4,840円250mLのサロン ボンド リペア枠。化学処理ダメージとブリーチ髪の切断されたジスルフィド結合を再形成する特許化されたビスアミノプロピルジグリコールジマレート処方、硫酸塩フリー、シリコン軽め、フル ボンド リペア レジメン用にNo.0リーブオンとNo.3シャワー前とペアリングするサロン グレード メンテナンス シャンプー。30ドル超/ボトルはドラッグストア枠の1回あたりコストの5-7倍で結合ダメージ髪のみに正当化される — バージンまたは軽く加熱スタイリング髪は化学が過剰、ライン全体でフレグランス バリエーションなし、米国処方はアジア髪テクスチャーには異なる感触の可能性、No.4単独でNo.0とNo.3なしではマーケティングが示唆するボンド リペアを過小提供。",
+      ja: "250mLのサロン ボンド リペア枠。化学処理ダメージとブリーチ髪の切断されたジスルフィド結合を再形成する特許化されたビスアミノプロピルジグリコールジマレート処方、硫酸塩フリー、シリコン軽め、フル ボンド リペア レジメン用にNo.0リーブオンとNo.3シャワー前とペアリングするサロン グレード メンテナンス シャンプー。30ドル超/ボトルはドラッグストア枠の1回あたりコストの5-7倍で結合ダメージ髪のみに正当化される — バージンまたは軽く加熱スタイリング髪は化学が過剰、ライン全体でフレグランス バリエーションなし、米国処方はアジア髪テクスチャーには異なる感触の可能性、No.4単独でNo.0とNo.3なしではマーケティングが示唆するボンド リペアを過小提供。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-olaplex-no4-bond-maintenance", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FOlaplex%2BNo.4%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -665,7 +665,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "MEDIQUICK H Scalp Shampoo (Medicated)", ja: "メディクイックH 薬用スカルプシャンプー" },
     description: {
       en: "Medicated scalp-care pick. Medicated scalp shampoo (MEDIQUICK H or equivalent medicated scalp formula on the Japanese pharmacy market) with zinc pyrithione, piroctone olamine, or equivalent anti-dandruff active, formulated for itchy and flake-prone scalps with seborrheic irritation, available at pharmacy counters as quasi-drug or OTC. Clinical scent is recognizable and not pleasant — not in the same category as fragranced cosmetic shampoos and not for daily lifestyle use; surfactant base is drying for color-treated hair and color-fade is faster on this shampoo than on cosmetic alternatives; persistent scalp conditions deserve a dermatology consultation rather than continued shampoo escalation.",
-      ja: "約1,800円の薬用スカルプ ケア枠。ピリチオン亜鉛・ピロクトン オラミンまたは同等の抗フケ有効成分付きの薬用スカルプ シャンプー(MEDIQUICK Hまたは日本の薬局市場上の同等の薬用スカルプ処方)、脂漏性トラブルのかゆい・フケ傾向の頭皮向けに処方、医薬部外品またはOTCとして薬局カウンターで入手可能。臨床的香りは認識可能で快いものではない — フレグランス化粧品シャンプーと同じカテゴリではなく毎日のライフスタイル使用向けではない、界面活性剤ベースはカラー処理髪には乾燥的で色落ちが化粧品代替品より速い、持続的頭皮状態はシャンプー エスカレーション継続より皮膚科診察に値する。",
+      ja: "薬用スカルプ ケア枠。ピリチオン亜鉛・ピロクトン オラミンまたは同等の抗フケ有効成分付きの薬用スカルプ シャンプー(MEDIQUICK Hまたは日本の薬局市場上の同等の薬用スカルプ処方)、脂漏性トラブルのかゆい・フケ傾向の頭皮向けに処方、医薬部外品またはOTCとして薬局カウンターで入手可能。臨床的香りは認識可能で快いものではない — フレグランス化粧品シャンプーと同じカテゴリではなく毎日のライフスタイル使用向けではない、界面活性剤ベースはカラー処理髪には乾燥的で色落ちが化粧品代替品より速い、持続的頭皮状態はシャンプー エスカレーション継続より皮膚科診察に値する。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-mediquick-scalp-shampoo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2B%E8%96%AC%E7%94%A8%2F", markets: ["JP"], approved: true },
@@ -682,7 +682,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Kerastase Bain Densite", ja: "ケラスターゼ DS バン デンシフィック" },
     description: {
       en: "250 mL salon luxury density pick. Paris-luxury density-targeted shampoo from the Kerastase salon-imported line, formulated for thinning or density-concerned hair with hyaluronic acid and gluco-peptides, salon-grade fragrance and packaging, the brand has been a Pinterest-friendly luxury-aesthetic pick since the early 2010s. 5 for 250 mL works out to roughly 7x the drugstore cost-per-wash and the small bottle is not refill-friendly so the per-year cost is meaningfully higher; heavy perfumed fragrance is recognizable salon-luxury but perfume-sensitive users should sample before committing to the bottle; density claim is about perceived volume from formulation rather than actual hair regrowth and buyers expecting regrowth will be disappointed.",
-      ja: "5,500円250mLのサロン ラグジュアリー密度枠。Kerastaseサロン輸入ラインからのパリ ラグジュアリー密度ターゲット シャンプー、ヒアルロン酸とグルコ ペプチドで薄毛または密度を気にする髪向けに処方、サロン グレードのフレグランスとパッケージング、ブランドは2010年代初頭以降Pinterestフレンドリーなラグジュアリー アエスティック ピック。250mLで5,500円はドラッグストアの1回あたりコストの約7倍で小ボトルは詰替フレンドリーでないため年間コストは意味のある高さ、重く香水のフレグランスはサロン ラグジュアリーで認識可能だが香水敏感ユーザーはボトルにコミットする前にサンプルすべき、密度主張は実際の発毛ではなく処方による知覚されるボリュームで再生を期待する買い手は失望。",
+      ja: "250mLのサロン ラグジュアリー密度枠。Kerastaseサロン輸入ラインからのパリ ラグジュアリー密度ターゲット シャンプー、ヒアルロン酸とグルコ ペプチドで薄毛または密度を気にする髪向けに処方、サロン グレードのフレグランスとパッケージング、ブランドは2010年代初頭以降Pinterestフレンドリーなラグジュアリー アエスティック ピック。小ボトルは詰替フレンドリーでないため年間コストは意味のある高さ、重く香水のフレグランスはサロン ラグジュアリーで認識可能だが香水敏感ユーザーはボトルにコミットする前にサンプルすべき、密度主張は実際の発毛ではなく処方による知覚されるボリュームで再生を期待する買い手は失望。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-kerastase-bain-densite", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKerastase%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -717,8 +717,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🇫🇷",
     name: { en: "La Roche-Posay Anthelios UVMune 400", ja: "ラロッシュポゼ アンテリオス UVミューン400" },
     description: {
-      en: "European flagship SPF50+ with Mexoryl 400 filter blocking ultra-long UVA to 400nm. Fragrance-free, sensitive-skin tested. Now available via Rakuten import. Explicit weakness: ~¥3,500 per 50ml (most expensive in comparison), heavier texture than Japanese formulas, grey-market import availability varies.",
-      ja: "超長波UVAを400nmまでブロックするMexoryl 400フィルター搭載の欧州フラッグシップSPF50+。無香料、敏感肌テスト済み。楽天市場の輸入在庫で入手可能。明確な弱点：50mlで約3,500円（比較中最高価格）、日本処方より重いテクスチャー、並行輸入在庫で入手性にばらつきあり。",
+      en: "European flagship SPF50+ with Mexoryl 400 filter blocking ultra-long UVA to 400nm. Fragrance-free, sensitive-skin tested. Now available via Rakuten import. Explicit weakness: the most expensive in this comparison, heavier texture than Japanese formulas, grey-market import availability varies.",
+      ja: "超長波UVAを400nmまでブロックするMexoryl 400フィルター搭載の欧州フラッグシップSPF50+。無香料、敏感肌テスト済み。楽天市場の輸入在庫で入手可能。明確な弱点：比較中最高価格帯、日本処方より重いテクスチャー、並行輸入在庫で入手性にばらつきあり。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-la-roche-posay-anthelios-uvmune", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%2B%E3%82%A2%E3%83%B3%E3%83%86%E3%83%AA%E3%82%AA%E3%82%B9%2BUV%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%8C%2F", markets: ["JP"], approved: true },
@@ -748,7 +748,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🩺",
     name: { en: "EltaMD UV Clear SPF46", ja: "EltaMD UV Clear SPF46" },
     description: {
-      en: "Dermatologist-recommended US brand with 9% transparent zinc oxide and 5% niacinamide for acne-prone and sensitive skin. Fragrance-free, oil-free. Available on Amazon Japan. Explicit weakness: SPF46 lower than SPF50+ standard, $40+ US pricing, heavier than Japanese watery formulas.",
+      en: "Dermatologist-recommended US brand with 9% transparent zinc oxide and 5% niacinamide for acne-prone and sensitive skin. Fragrance-free, oil-free. Available on Amazon Japan. Explicit weakness: SPF46 lower than SPF50+ standard, heavier than Japanese watery formulas.",
       ja: "ニキビ肌・敏感肌向けに9%透明酸化亜鉛と5%ナイアシンアミドを配合した米国皮膚科推奨ブランド。無香料、オイルフリー。Amazon Japanで入手可能。明確な弱点：SPF46でSPF50+基準より低い、米国価格40ドル以上、日本のウォータリー処方より重いテクスチャー。",
     },
     links: [
@@ -844,8 +844,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🇫🇷",
     name: { en: "La Roche-Posay Toleriane Hydrating Gentle Cleanser", ja: "ラロッシュポゼ トレリアン ハイドレーティング ジェントル クレンザー" },
     description: {
-      en: "Non-foaming cleanser with thermal spring water, glycerin, and niacinamide. Zero fragrance, zero alcohol, minimal preservatives. Recommended by Japanese dermatologists for sensitized and post-procedure skin. Explicit weakness: ~¥2,500–3,000 for 400ml (most expensive per-ml in comparison); too gentle for heavy SPF or waterproof makeup removal alone; texture feels 'underpowered' to foam-cleanser users.",
-      ja: "温泉水・グリセリン・ナイアシンアミドの非泡立てクレンザー。無香料・無アルコール・最小限の防腐剤プロファイル。過敏・施術後の肌に日本の皮膚科医推奨。明確な弱点：400mlで約2,500〜3,000円（比較中1ml当たり最高コスト）；重SPFや防水メイクの単独除去には優しすぎる；泡立てクレンザーのユーザーには「物足りない」テクスチャー。",
+      en: "Non-foaming cleanser with thermal spring water, glycerin, and niacinamide. Zero fragrance, zero alcohol, minimal preservatives. Recommended by Japanese dermatologists for sensitized and post-procedure skin. Explicit weakness: the most expensive per-ml in this comparison; too gentle for heavy SPF or waterproof makeup removal alone; texture feels 'underpowered' to foam-cleanser users.",
+      ja: "温泉水・グリセリン・ナイアシンアミドの非泡立てクレンザー。無香料・無アルコール・最小限の防腐剤プロファイル。過敏・施術後の肌に日本の皮膚科医推奨。明確な弱点：比較中1ml当たり最高コスト；重SPFや防水メイクの単独除去には優しすぎる；泡立てクレンザーのユーザーには「物足りない」テクスチャー。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-la-roche-posay-toleriane-cleanser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC%2B%E3%83%88%E3%83%AC%E3%83%AA%E3%82%A2%E3%83%B3%2B%E6%B4%97%E9%A1%94%2F", markets: ["JP"], approved: true },
@@ -940,7 +940,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Dyson Purifier Cool Gen1", ja: "ダイソン ピュリファイアー クール Gen1" },
     description: {
       en: "HEPA H13 + activated carbon fan-purifier combo. 290° airflow projection, LCD air quality display, auto mode. Weakness: loud at max fan speed, expensive body price, annual filter ~6, no humidifying.",
-      ja: "約8万円のHEPA H13＋活性炭ファン＋空気清浄一体型。290°気流投射、LCD空気質ディスプレイ、オートモード。弱点：最高速度で騒音あり、本体高価、年間フィルター約6,000円、加湿機能なし。",
+      ja: "HEPA H13＋活性炭ファン＋空気清浄一体型。290°気流投射、LCD空気質ディスプレイ、オートモード。弱点：最高速度で騒音あり、本体高価、加湿機能なし。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-dyson-purifier-cool-gen1", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%80%E3%82%A4%E3%82%BD%E3%83%B3%2B%E7%A9%BA%E6%B0%97%E6%B8%85%E6%B5%84%E6%A9%9F%2B%E3%83%94%E3%83%A5%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A3%E3%83%BC%2B%E3%82%AF%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -988,7 +988,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Blueair Blue Max 3250i", ja: "ブルーエア Blue Max 3250i" },
     description: {
       en: "Swedish brand. HEPASilent dual-filtration (electrostatic + mechanical), ultra-quiet <17dB sleep mode, covers 40m². Weakness: no built-in humidity display, filter ~5 every 6 months, app setup fiddly.",
-      ja: "約4万5,000円のスウェーデンブランド。HEPASilentデュアルフィルタリング（静電＋機械）、超静音17dB未満スリープモード、40m²対応。弱点：湿度ディスプレイなし、フィルター6ヶ月ごと約5,000円、アプリ設定がやや難。",
+      ja: "スウェーデンブランド。HEPASilentデュアルフィルタリング（静電＋機械）、超静音17dB未満スリープモード、40m²対応。弱点：湿度ディスプレイなし、フィルター6ヶ月ごと約5,000円、アプリ設定がやや難。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-blueair-blue-max-3250i", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A8%E3%82%A2%2BBlue%2BMax%2B3250i%2F", markets: ["JP"], approved: true },
@@ -1166,7 +1166,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Levoit Classic 300S Ultrasonic Humidifier", ja: "Levoit 加湿器 超音波式 Classic 300S" },
     description: {
       en: "(Rakuten import) smart ultrasonic, app+voice control, auto mode, 6L tank. Most affordable smart pick. Weakness: white dust from tap water, no UV-C, weekly tank cleaning required, sensor accuracy placement-dependent.",
-      ja: "約9,000〜12,000円（楽天輸入）スマート超音波式、アプリ＋音声操作、オートモード、6Lタンク。最も手頃なスマート加湿器。弱点：水道水で白い粉発生、UV-Cなし、週次タンク清掃必要、センサー精度が設置場所依存。",
+      ja: "スマート超音波式、アプリ＋音声操作、オートモード、6Lタンク。最も手頃なスマート加湿器。弱点：水道水で白い粉発生、UV-Cなし、週次タンク清掃必要、センサー精度が設置場所依存。",
     },
     price: "$69.99",
     links: [
@@ -1309,7 +1309,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       th: "Frida Baby เครื่องทำความชื้น ดิฟฟิวเซอร์ และไฟกลางคืน 3-in-1",
     },
     description: {
-      en: "Ultrasonic cool mist humidifier with built-in aroma diffuser (separate aroma pad chamber, not mixed into mist), 360° rotating nightlight, 1.5L tank, 21-hour runtime, auto-shutoff. Aroma pads sold separately. Weakness: $90 price is steep for a 1.5L tank; larger rooms need refills twice daily.",
+      en: "Ultrasonic cool mist humidifier with built-in aroma diffuser (separate aroma pad chamber, not mixed into mist), 360° rotating nightlight, 1.5L tank, 21-hour runtime, auto-shutoff. Aroma pads sold separately. Weakness: larger rooms need refills twice daily.",
       ja: "超音波式冷風加湿器＋内蔵アロマディフューザー（アロマパッドチャンバー別室、ミストに混合しない）＋360°回転ナイトライト、1.5Lタンク・21時間連続・自動停止。アロマパッド別売。弱点：1.5Lタンクに対して90ドルは割高・広い部屋は1日2回給水が必要。",
     },
     links: [
@@ -1341,7 +1341,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Roborock S8 Pro Ultra", ja: "ロボロック S8 Pro Ultra" },
     description: {
       en: "Flagship. 6,000 Pa suction, dual-spinning mop pads with auto-lift, LiDAR mapping, fully automated dock (self-empty + hot-water mop wash + auto-refill).",
-      ja: "179,800円のフラッグシップ。6,000Pa吸引、ラグ上で自動リフトする2連回転モップ、LiDARマッピング、ゴミ捨て+お湯モップ洗浄+自動給水を全自動でこなすドック。",
+      ja: "フラッグシップ。6,000Pa吸引、ラグ上で自動リフトする2連回転モップ、LiDARマッピング、ゴミ捨て+お湯モップ洗浄+自動給水を全自動でこなすドック。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-roborock-s8-pro-ultra", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRoborock%2BS8%2BPro%2BUltra%2F", markets: ["JP"], approved: true },
@@ -1356,7 +1356,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "iRobot Roomba j7+", ja: "iRobot ルンバ j7+" },
     description: {
       en: "Pet-household pick. PrecisionVision pet-poop avoidance (best in category), self-empty dock. Note: vacuum-only — Combo j7+ is the mop variant.",
-      ja: "99,800円のペット世帯向け本命。PrecisionVisionによるペット排泄物回避はカテゴリ最強、自動ゴミ収集ドック搭載。本機は吸引専用 — 水拭き対応はCombo j7+の別モデル。",
+      ja: "ペット世帯向け本命。PrecisionVisionによるペット排泄物回避はカテゴリ最強、自動ゴミ収集ドック搭載。本機は吸引専用 — 水拭き対応はCombo j7+の別モデル。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-irobot-roomba-j7-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRoomba%2Bj7%252B%2F", markets: ["JP"], approved: true },
@@ -1371,7 +1371,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Anker Eufy RoboVac X10 Pro Omni", ja: "Anker Eufy RoboVac X10 Pro Omni" },
     description: {
       en: "Value pick. 8,000 Pa suction (highest in this list), dual rotating mops, full self-wash + self-empty dock. Camera+gyro mapping is rougher than LiDAR rivals for first 2-3 runs.",
-      ja: "99,990円のコスパ枠。8,000Pa吸引(本リスト最高値)、2連回転モップ、自動洗浄+自動ゴミ収集ドック。カメラ+ジャイロ式マッピングは最初の2-3回はLiDAR勢より粗い。",
+      ja: "コスパ枠。8,000Pa吸引(本リスト最高値)、2連回転モップ、自動洗浄+自動ゴミ収集ドック。カメラ+ジャイロ式マッピングは最初の2-3回はLiDAR勢より粗い。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-eufy-x10-pro-omni", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEufy%2BX10%2BPro%2BOmni%2F", markets: ["JP"], approved: true },
@@ -1386,7 +1386,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "SwitchBot K10+", ja: "SwitchBot K10+" },
     description: {
       en: "Slim specialist. 9.2 cm body height fits under low Japanese furniture. 2,500 Pa (lowest in this list), self-empty dock, drag-style microfiber mop only.",
-      ja: "59,800円の薄型特化機。本体高9.2cmで日本の低めの家具下に入る。2,500Pa(本リスト最弱)、自動ゴミ収集ドック、引きずり式マイクロファイバーモップのみ。",
+      ja: "薄型特化機。本体高9.2cmで日本の低めの家具下に入る。2,500Pa(本リスト最弱)、自動ゴミ収集ドック、引きずり式マイクロファイバーモップのみ。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-switchbot-k10-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSwitchBot%2BK10%252B%2F", markets: ["JP"], approved: true },
@@ -1403,7 +1403,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Dyson 360 Vis Nav", ja: "Dyson 360 Vis Nav" },
     description: {
       en: "British flagship. 360-degree fisheye camera mapping, twin-channel digital motor suction. No self-empty dock and no mop function at this price.",
-      ja: "189,200円の英国フラッグシップ。360度魚眼カメラ・マッピング、デジタルモーターの2系統吸引。この価格帯で自動ゴミ収集ドックなし・水拭き機能なし。",
+      ja: "英国フラッグシップ。360度魚眼カメラ・マッピング、デジタルモーターの2系統吸引。この価格帯で自動ゴミ収集ドックなし・水拭き機能なし。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-dyson-360-vis-nav", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDyson%2B360%2BVis%2BNav%2F", markets: ["JP"], approved: true },
@@ -1421,7 +1421,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Dyson Supersonic Nural", ja: "Dyson Supersonic Nural" },
     description: {
       en: "Pinterest favorite. V9 digital motor, scalp-distance sensor that throttles heat in real time, magnetic attachments. Fastest dry on long thick hair — 720 g body fatigues the wrist on 10-minute sessions.",
-      ja: "66,000円のPinterest人気機。V9デジタルモーター、頭皮距離センサーがリアルタイムで熱を絞る、マグネット式アタッチメント。長く厚い髪で乾燥時間最短 — 720gボディは10分セッションで手首が疲れる。",
+      ja: "Pinterest人気機。V9デジタルモーター、頭皮距離センサーがリアルタイムで熱を絞る、マグネット式アタッチメント。長く厚い髪で乾燥時間最短 — 720gボディは10分セッションで手首が疲れる。",
     },
     links: [
       { network: "amazon-us", productId: "B01CUF2SN4", rawUrl: "https://www.amazon.com/dp/B01CUF2SN4", markets: ["US"], approved: true },
@@ -1437,7 +1437,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "ReFa BEAUTECH DRYER PRO", ja: "リファ ビューテック ドライヤー プロ" },
     description: {
       en: "Salon-pro pick. Pro-Sense Hybrid Sensor reads temperature 200x per second to keep airflow under hair-damage threshold. Genuinely milder than Dyson — 1-2 minutes longer on cold mornings.",
-      ja: "49,500円のサロンプロ機。プロセンス・ハイブリッドセンサーが1秒200回計測し、髪のダメージしきい値を超えないよう熱を制御。Dysonより明らかに優しい温風で、冬の朝は1-2分余分にかかる。",
+      ja: "サロンプロ機。プロセンス・ハイブリッドセンサーが1秒200回計測し、髪のダメージしきい値を超えないよう熱を制御。Dysonより明らかに優しい温風で、冬の朝は1-2分余分にかかる。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-refa-beautech-dryer-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FReFa%2BBEAUTECH%2BDRYER%2BPRO%2F", markets: ["JP"], approved: true },
@@ -1454,7 +1454,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Lepronizer 7D Plus", ja: "レプロナイザー 7D Plus" },
     description: {
       en: "Top-of-range. Bioprogramming technology, the brand's proprietary frequency claim. Excellent build with 8-10 year lifespan — but the science behind Bioprogramming is not externally peer-reviewed.",
-      ja: "77,000円の最上位機。バイオプログラミング技術、ブランド独自の周波数理論。優れた筐体品質と8-10年寿命 — ただしバイオプログラミングの科学的機序は外部の査読論文では検証されていない。",
+      ja: "最上位機。バイオプログラミング技術、ブランド独自の周波数理論。優れた筐体品質と8-10年寿命 — ただしバイオプログラミングの科学的機序は外部の査読論文では検証されていない。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-lepronizer-7d-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%AC%E3%83%97%E3%83%AD%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC%2B7D%2BPlus%2F", markets: ["JP"], approved: true },
@@ -1503,7 +1503,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Dyson Corrale", ja: "Dyson Corrale" },
     description: {
       en: "Cordless straightener. Flex plates conform to hair shape for full contact, 30-min battery, universal 100-240V charger. Brand claims 30% less heat damage — from Dyson's own lab, not independently replicated. 30 min is a hard ceiling for long or thick hair.",
-      ja: "約60,000円のコードレスアイロン。フレックスプレートが毛束の形状に密着、30分バッテリー、100〜240V対応充電器。「ダメージ30%削減」はDyson自社ラボデータ、独立検証なし。長い・多い髪では30分で終わらない場合あり。",
+      ja: "コードレスアイロン。フレックスプレートが毛束の形状に密着、30分バッテリー、100〜240V対応充電器。「ダメージ30%削減」はDyson自社ラボデータ、独立検証なし。長い・多い髪では30分で終わらない場合あり。",
     },
     price: "$499.99",
     links: [
@@ -1518,7 +1518,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "GHD Platinum+", ja: "GHD Platinum+" },
     description: {
       en: "Professional-standard straightener. Fixed 185°C predictive heating reads temperature 250x per second. Removes temperature decision-making entirely. No domestic Japan service center — warranty via importer.",
-      ja: "約35,000円のプロフェッショナル標準機。固定185°C予測ヒーティングが1秒250回計測。温度設定の判断を完全に省ける。日本国内修理センターなし — 保証は輸入代理店経由。",
+      ja: "プロフェッショナル標準機。固定185°C予測ヒーティングが1秒250回計測。温度設定の判断を完全に省ける。日本国内修理センターなし — 保証は輸入代理店経由。",
     },
     price: "$249.00",
     links: [
@@ -1549,7 +1549,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Remington S9500 Pearl", ja: "Remington S9500 Pearl" },
     description: {
       en: "Entry ceramic pick. 9 heat settings, 230°C max, 60-second heat-up. Ceramic coating wears thin after 12-18 months of daily use — plan to replace.",
-      ja: "約8,000円のエントリーセラミック枠。9段階温度設定、最大230°C、60秒加熱。セラミックコーティングは毎日使用で12〜18ヶ月で摩耗 — 買い替え前提の選択。",
+      ja: "エントリーセラミック枠。9段階温度設定、最大230°C、60秒加熱。セラミックコーティングは毎日使用で12〜18ヶ月で摩耗 — 買い替え前提の選択。",
     },
     price: "$38.81",
     links: [
@@ -1566,7 +1566,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "BaByliss ST330E", ja: "BaByliss ST330E" },
     description: {
       en: "Ceramic-titanium value pro pick. 235°C max, 60-second heat-up, Amazon JP top seller. Manual temperature only — no predictive tech. 235°C causes rapid damage on fine or color-treated hair without active user restraint.",
-      ja: "約15,000円のセラミック+チタン中価格プロ向け。最大235°C、60秒加熱、Amazon JP人気上位。予測技術なし手動温度制御のみ。細い髪・カラーリング毛を235°Cで使うと急速にダメージ。",
+      ja: "セラミック+チタン中価格プロ向け。最大235°C、60秒加熱、Amazon JP人気上位。予測技術なし手動温度制御のみ。細い髪・カラーリング毛を235°Cで使うと急速にダメージ。",
     },
     price: "$59.99",
     links: [
@@ -1584,7 +1584,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Dyson Airwrap Multi-Styler", ja: "ダイソン エアラップ マルチスタイラー" },
     description: {
       en: "Coanda-effect multi-styler. Air wraps hair around barrel at ~150°C without direct plate contact. Best on fine-to-medium straight hair. Does not suit thick or coarse hair — airflow too weak to penetrate dense sections efficiently. 2-4 week learning curve before results become consistent.",
-      ja: "66,000〜80,000円のコアンダ効果マルチスタイラー。プレート直接接触なしで約150℃の気流が髪をバレルに巻き付ける。細〜中毛の直毛に最適。太い・剛毛には向かず気流が密な毛束を効率的に通らない。安定した結果を得るまで2〜4週間の習得期間が必要。",
+      ja: "コアンダ効果マルチスタイラー。プレート直接接触なしで約150℃の気流が髪をバレルに巻き付ける。細〜中毛の直毛に最適。太い・剛毛には向かず気流が密な毛束を効率的に通らない。安定した結果を得るまで2〜4週間の習得期間が必要。",
     },
     price: "$599.99",
     links: [
@@ -1599,7 +1599,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Shark FlexStyle", ja: "シャーク フレックススタイル" },
     description: {
       en: "(parallel import) Coanda-effect styler + hair dryer in one. Similar mechanism to Airwrap at ~60% of the price. Adds hair dryer mode Airwrap lacks. Not officially sold in Japan — parallel import from North America (120V) runs on 100V at reduced airflow. Voltage check required before purchase.",
-      ja: "約35,000〜45,000円（並行輸入）コアンダ効果スタイラー+ドライヤー一体型。エアラップと同機構で約60%の価格。エアラップにないドライヤーモード付き。日本未正規販売 — 北米版（120V）は100Vで動作するが風量低下あり。購入前に電圧ラベル要確認。",
+      ja: "コアンダ効果スタイラー+ドライヤー一体型。エアラップと同機構で約60%の価格。エアラップにないドライヤーモード付き。日本未正規販売 — 北米版（120V）は100Vで動作するが風量低下あり。購入前に電圧ラベル要確認。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-shark-flexstyle", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FShark%2BFlexStyle%2F", markets: ["JP"], approved: true },
@@ -1613,7 +1613,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Revlon One-Step Volumizer", ja: "レブロン ワンステップ ボリューマイザー" },
     description: {
       en: "Round brush + dryer combo. Dry and volumize in one step, zero learning curve, best budget multi-tool. Cannot produce defined curls or waves like Airwrap — suited to blowout-volume styling only. Fastest results for straight hair wanting volume.",
-      ja: "4,000〜6,000円のロールブラシ+ドライヤー一体型。乾かしながらボリュームアップ、学習ゼロ、最安コスパマルチツール。エアラップのような巻き・ウェーブは作れずブローアウトボリューム専用。直毛のボリュームアップに最速。",
+      ja: "ロールブラシ+ドライヤー一体型。乾かしながらボリュームアップ、学習ゼロ、最安コスパマルチツール。エアラップのような巻き・ウェーブは作れずブローアウトボリューム専用。直毛のボリュームアップに最速。",
     },
     price: "$39.99",
     links: [
@@ -1629,7 +1629,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "GHD Max Styler", ja: "GHD Max スタイラー" },
     description: {
       en: "Wide-plate professional flat iron. 185-220°C predictive heating, wider plates cover more hair per pass. Best for thick, long, or resistant hair where Coanda tools are slow. Direct plate contact — heat protectant required every session. Parallel imports have no domestic Japan warranty.",
-      ja: "約35,000〜45,000円の幅広プレート プロ用アイロン。185〜220℃予測加熱、幅広プレートで1回のパスで多くの髪をカバー。コアンダ系ツールが遅い太い・長い・剛毛に最適。プレート直接加熱のためヒートプロテクター毎回必須。並行輸入品は日本国内保証なし。",
+      ja: "幅広プレート プロ用アイロン。185〜220℃予測加熱、幅広プレートで1回のパスで多くの髪をカバー。コアンダ系ツールが遅い太い・長い・剛毛に最適。プレート直接加熱のためヒートプロテクター毎回必須。並行輸入品は日本国内保証なし。",
     },
     price: "$249.00",
     links: [
@@ -1745,7 +1745,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Sony WH-1000XM5", ja: "ソニー WH-1000XM5" },
     description: {
       en: "All-around daily driver. Class-leading ANC tied with Bose for low-frequency cancellation, LDAC for Android hi-res, lightest 250 g among flagships, 30-hour battery. Multipoint Bluetooth is rough; call quality trails Bose; new headband doesn't fold flat.",
-      ja: "45,000円の毎日使いオールラウンダー。低周波数キャンセル力でBoseとタイのクラス最強ANC、AndroidハイレゾLDAC対応、フラッグシップ中最軽量250g、30時間バッテリー。マルチポイントBluetoothはラフ、通話品質はBoseに劣後、新ヘッドバンドは折り畳めない。",
+      ja: "毎日使いオールラウンダー。低周波数キャンセル力でBoseとタイのクラス最強ANC、AndroidハイレゾLDAC対応、フラッグシップ中最軽量250g、30時間バッテリー。マルチポイントBluetoothはラフ、通話品質はBoseに劣後、新ヘッドバンドは折り畳めない。",
     },
     links: [
       { network: "amazon-us", productId: "B09XS7JWHH", rawUrl: "https://www.amazon.com/dp/B09XS7JWHH", markets: ["US"], approved: true },
@@ -1761,7 +1761,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Bose QuietComfort Ultra Headphones", ja: "Bose QuietComfort Ultra Headphones" },
     description: {
       en: "ANC + call-quality leader. CustomTune ear-canal calibration, beamforming microphone array, Immersive Audio for movies. No LDAC; clamp force is firmer than Sony; Immersive Audio drops battery to 17-18 hours real-world.",
-      ja: "59,400円のANC+通話品質リーダー。CustomTune耳道較正、ビームフォーミングマイクアレイ、映画用Immersive Audio。LDAC非対応、側圧はSonyより強め、Immersive Audioでバッテリーは実機17-18時間に低下。",
+      ja: "ANC+通話品質リーダー。CustomTune耳道較正、ビームフォーミングマイクアレイ、映画用Immersive Audio。LDAC非対応、側圧はSonyより強め、Immersive Audioでバッテリーは実機17-18時間に低下。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-bose-quietcomfort-ultra", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBose%2BQuietComfort%2BUltra%2BHeadphones%2F", markets: ["JP"], approved: true },
@@ -1776,7 +1776,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Apple AirPods Max", ja: "Apple AirPods Max" },
     description: {
       en: "Apple-ecosystem maximalist pick. H1 chip handles seamless iPhone-iPad-Mac switching, premium aluminum and stainless build. 384.8 g is the heaviest by a wide margin; battery is not user-replaceable; outside the Apple ecosystem the magic disappears.",
-      ja: "84,800円のAppleエコシステム・マキシマリスト解。H1チップでiPhone-iPad-Macシームレス切替、プレミアムなアルミ+ステンレス筐体。384.8gは大幅最重、バッテリーはユーザー交換不可、Appleエコシステム外では魔法が消える。",
+      ja: "Appleエコシステム・マキシマリスト解。H1チップでiPhone-iPad-Macシームレス切替、プレミアムなアルミ+ステンレス筐体。384.8gは大幅最重、バッテリーはユーザー交換不可、Appleエコシステム外では魔法が消える。",
     },
     links: [
       { network: "amazon-us", productId: "B08PZHYWJS", rawUrl: "https://www.amazon.com/dp/B08PZHYWJS", markets: ["US"], approved: true },
@@ -1792,7 +1792,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Sennheiser Momentum 4 Wireless", ja: "Sennheiser Momentum 4 Wireless" },
     description: {
       en: "Audiophile-leaning pick. Most natural sound signature for music listening, 60-hour battery (longest in this list), LDAC and aptX Adaptive supported. ANC is a step behind Sony XM5 and Bose QC Ultra for low-frequency rejection; Smart Control app is sluggish; build is plastic-heavy.",
-      ja: "56,000円のオーディオファイル寄り選択。音楽鑑賞向け最ナチュラル音色、60時間バッテリー(本リスト最長)、LDACとaptX Adaptive対応。ANCはSony XM5とBose QC Ultraに対して低周波数遮断で一段劣る、Smart Controlアプリは動作が遅い、筐体はプラスチック多用。",
+      ja: "オーディオファイル寄り選択。音楽鑑賞向け最ナチュラル音色、60時間バッテリー(本リスト最長)、LDACとaptX Adaptive対応。ANCはSony XM5とBose QC Ultraに対して低周波数遮断で一段劣る、Smart Controlアプリは動作が遅い、筐体はプラスチック多用。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-sennheiser-momentum-4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSennheiser%2BMomentum%2B4%2BWireless%2F", markets: ["JP"], approved: true },
@@ -1807,7 +1807,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Anker Soundcore Space Q45", ja: "Anker Soundcore Space Q45" },
     description: {
       en: "Value pick. LDAC support (rare in this price tier), 50-hour ANC battery, reliable multipoint Bluetooth across OSes. Call mic is the weakest in this comparison; build is plastic-dominant; long-term reviews flag headband-pivot hinges as the failure point around 18 months.",
-      ja: "14,990円のコスパ枠。LDAC対応(この価格帯では珍しい)、ANC有効50時間バッテリー、OS横断で安定動作するマルチポイント。通話マイクは本比較最弱、筐体はプラスチック中心、長期レビューはヘッドバンド回転ヒンジが18ヶ月時点の故障ポイントと指摘。",
+      ja: "コスパ枠。LDAC対応(この価格帯では珍しい)、ANC有効50時間バッテリー、OS横断で安定動作するマルチポイント。通話マイクは本比較最弱、筐体はプラスチック中心、長期レビューはヘッドバンド回転ヒンジが18ヶ月時点の故障ポイントと指摘。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-anker-soundcore-space-q45", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BSoundcore%2BSpace%2BQ45%2F", markets: ["JP"], approved: true },
@@ -1823,7 +1823,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Cooluli Mini Fridge 4L", ja: "Cooluli Mini Fridge 4L" },
     description: {
       en: "Pinterest-default beauty fridge. Pastel colors (white/pink/mint/teal), near-silent Peltier cooling at 9-12°C, USB-C or AC input. 4 liters fills up faster than expected; 250 mL value-size moisturizers don't fit upright; door shelf is shallow.",
-      ja: "9,800円のPinterest定番ビューティ冷蔵庫。パステル4色(ホワイト・ピンク・ミント・ティール)、ほぼ無音のペルチェ式9-12°C冷却、USB-CとAC両対応。4Lは思ったより早く埋まる、250mL徳用保湿は直立で入らない、ドアポケットは浅め。",
+      ja: "Pinterest定番ビューティ冷蔵庫。パステル4色(ホワイト・ピンク・ミント・ティール)、ほぼ無音のペルチェ式9-12°C冷却、USB-CとAC両対応。4Lは思ったより早く埋まる、250mL徳用保湿は直立で入らない、ドアポケットは浅め。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-cooluli-mini-fridge-4l", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCooluli%2BMini%2BFridge%2B4L%2F", markets: ["JP"], approved: true },
@@ -1838,7 +1838,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "AstroAI 6L Mini Fridge", ja: "AstroAI 6L Mini Fridge" },
     description: {
       en: "6L Peltier with warm/cold dual mode. 50% more capacity than Cooluli 4L, fits 12-16 standard serum bottles, doubles as a 60°C warmer for steam towels. Cool-to-warm transition takes ~90 minutes; warming mode is a secondary use case.",
-      ja: "12,800円の6L温冷両対応ペルチェ。Cooluli 4Lより容量50%増、標準美容液12-16本収納、60°C保温で蒸しタオル運用も可。冷⇄温切替に約90分、保温は日常的に切り替える機能というよりおまけ用途。",
+      ja: "6L温冷両対応ペルチェ。Cooluli 4Lより容量50%増、標準美容液12-16本収納、60°C保温で蒸しタオル運用も可。冷⇄温切替に約90分、保温は日常的に切り替える機能というよりおまけ用途。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-astroai-mini-fridge-6l", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAstroAI%2BMini%2BFridge%2B6L%2F", markets: ["JP"], approved: true },
@@ -1853,7 +1853,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "The Beauty Fridge by Cooluli 10L", ja: "The Beauty Fridge by Cooluli 10L" },
     description: {
       en: "Dedicated 10L beauty fridge. Skincare-shaped interior with taller bottle clearance, LED-lit chamber, magnetic door catch. Fits 25-35 products with ice rollers and tools. 5 kg is heavy for a vanity; cooling depth stabilizes at 11-14°C rather than single digits.",
-      ja: "18,800円のスキンケア専用設計10Lビューティ冷蔵庫。下段はトール・ボトル対応高さ、LED内照、マグネット式ドアキャッチ。25-35アイテム+アイスローラーやツール収納可。5kgはドレッサーには重い、冷却深度は11-14°Cで一桁°Cには届かない。",
+      ja: "スキンケア専用設計10Lビューティ冷蔵庫。下段はトール・ボトル対応高さ、LED内照、マグネット式ドアキャッチ。25-35アイテム+アイスローラーやツール収納可。5kgはドレッサーには重い、冷却深度は11-14°Cで一桁°Cには届かない。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-cooluli-beauty-fridge-10l", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCooluli%2BBeauty%2BFridge%2B10L%2F", markets: ["JP"], approved: true },
@@ -1901,7 +1901,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "COSORI Pro II (5.5 L, CP358-AF)", ja: "COSORI Pro II (5.5 L, CP358-AF)" },
     description: {
       en: "2-4 person daily-driver. 6.4L square basket, 75-230°C range that genuinely crisps frozen items, 13 presets you'll mostly ignore. 5.4 kg unit needs stable counter space; basket non-stick shows wear by year 3 on daily use.",
-      ja: "17,800円の2-4人世帯毎日使い本命。6.4Lスクエアバスケット、温度範囲75-230°Cで冷凍食品を本気でカリッとさせ、プリセット13種(初週以降ほぼ使わない)。本体5.4kgは安定カウンタースペースが必要、毎日使用でバスケット非粘着加工は3年目に摩耗が出る。",
+      ja: "2-4人世帯毎日使い本命。6.4Lスクエアバスケット、温度範囲75-230°Cで冷凍食品を本気でカリッとさせ、プリセット13種(初週以降ほぼ使わない)。本体5.4kgは安定カウンタースペースが必要、毎日使用でバスケット非粘着加工は3年目に摩耗が出る。",
     },
     links: [
       { network: "amazon-us", productId: "B09V3YNNTM", rawUrl: "https://www.amazon.com/dp/B09V3YNNTM", markets: ["US"], approved: true },
@@ -1916,7 +1916,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Ninja Foodi MAX Dual Zone AF400", ja: "Ninja Foodi MAX Dual Zone AF400" },
     description: {
       en: "Dual-zone family pick. Two independent 4.75L baskets with Sync cooking, solves the 'two foods at different temps' problem. 41 cm wide and 8.2 kg dominates a Japanese kitchen counter; per-zone capacity is smaller than a single 6L unit.",
-      ja: "34,800円のデュアルゾーン家族枠。独立4.75Lバスケット2基+Sync同時調理、「2食材を違う温度で」問題を解決。41cm幅・8.2kgは日本のキッチンカウンターを支配、ゾーンあたり容量はシングル6L機より小さい。",
+      ja: "デュアルゾーン家族枠。独立4.75Lバスケット2基+Sync同時調理、「2食材を違う温度で」問題を解決。41cm幅・8.2kgは日本のキッチンカウンターを支配、ゾーンあたり容量はシングル6L機より小さい。",
     },
     links: [
       { network: "amazon-us", productId: "B09F5MDT6Q", rawUrl: "https://www.amazon.com/dp/B09F5MDT6Q", markets: ["US"], approved: true },
@@ -1932,7 +1932,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Philips Essential XL HD9270", ja: "Philips Essential XL HD9270" },
     description: {
       en: "Premium build pick. Philips originated the air fryer category in 2010, build quality and parts availability are the most mature in this list. 6.2L basket, 80-200°C. Max 200°C is the lowest in this comparison; frozen items don't crisp as aggressively as 230°C rivals.",
-      ja: "29,800円のプレミアム作り込み枠。Philipsは2010年にノンフライヤーカテゴリを作った張本人、作り込み品質と部品供給は本リストで最も成熟。バスケット6.2L、80-200°C。最高200°Cは本比較最低、冷凍食品のカリッと感は230°C機ほど激しくならない。",
+      ja: "プレミアム作り込み枠。Philipsは2010年にノンフライヤーカテゴリを作った張本人、作り込み品質と部品供給は本リストで最も成熟。バスケット6.2L、80-200°C。最高200°Cは本比較最低、冷凍食品のカリッと感は230°C機ほど激しくならない。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-philips-essential-xl-hd9270", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2BEssential%2BXL%2BHD9270%2F", markets: ["JP"], approved: true },
@@ -1947,7 +1947,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Cuisinart TOA-29J", ja: "Cuisinart TOA-29J" },
     description: {
       en: "Hybrid convection toaster oven — handles toast, small-batch baking, and air-fry mode in one footprint. No perforated basket means surface fat can't drip away; crisping is genuinely weaker than dedicated basket air fryers.",
-      ja: "24,800円のコンベクション・トースターオーブン・ハイブリッド — トースト・小バッチお菓子焼き・エアフライモードを1台で。穴あきバスケットがないため食材表面の油が下に落ちず、専用ノンフライヤーよりカリッと感は明確に弱い。",
+      ja: "コンベクション・トースターオーブン・ハイブリッド — トースト・小バッチお菓子焼き・エアフライモードを1台で。穴あきバスケットがないため食材表面の油が下に落ちず、専用ノンフライヤーよりカリッと感は明確に弱い。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-cuisinart-toa-29j", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCuisinart%2BTOA-29J%2F", markets: ["JP"], approved: true },
@@ -1982,7 +1982,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Therabody Theragun PRO Plus", ja: "Therabody Theragun PRO Plus" },
     description: {
       en: "Professional-grade pick. 16 mm stroke amplitude, 27 kg stall force, triangular grip that reaches the upper back. 1.4 kg weight causes forearm fatigue on long sessions; LED and heated attachments are more marketing than function.",
-      ja: "79,900円のプロ仕様枠。ストローク振幅16mm、ストール力27kg、上背部に届く三角グリップ。本体1.4kgで長時間使用時に前腕疲労、LED・温熱アタッチメントは機能よりマーケティング寄り。",
+      ja: "プロ仕様枠。ストローク振幅16mm、ストール力27kg、上背部に届く三角グリップ。本体1.4kgで長時間使用時に前腕疲労、LED・温熱アタッチメントは機能よりマーケティング寄り。",
     },
     links: [
       { network: "amazon-us", productId: "B0CG2G7RQY", rawUrl: "https://www.amazon.com/dp/B0CG2G7RQY", markets: ["US", "EU", "global"], approved: true },
@@ -1998,7 +1998,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Hyperice Hypervolt 2 Pro", ja: "Hyperice Hypervolt 2 Pro" },
     description: {
       en: "Pistol-grip alternative. 14 mm stroke amplitude, 30 kg stall force, app-based pressure feedback. Battery drains faster than spec at maximum speed (90-100 minutes vs claimed 180); slightly louder than the Theragun.",
-      ja: "69,300円のピストルグリップ枠。ストローク振幅14mm、ストール力30kg、アプリ連動の圧力フィードバック。最高速時のバッテリー減りがスペックより速い(公称180分に対し実使用90-100分)、Theragunよりやや動作音が大きい。",
+      ja: "ピストルグリップ枠。ストローク振幅14mm、ストール力30kg、アプリ連動の圧力フィードバック。最高速時のバッテリー減りがスペックより速い(公称180分に対し実使用90-100分)、Theragunよりやや動作音が大きい。",
     },
     links: [
       { network: "amazon-us", productId: "B09JB64T9Z", rawUrl: "https://www.amazon.com/dp/B09JB64T9Z", markets: ["US", "EU", "global"], approved: true },
@@ -2014,7 +2014,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Bob and Brad C2", ja: "Bob and Brad C2" },
     description: {
       en: "Budget full-size pick. 10 mm stroke amplitude, 13.6 kg stall force at one-eighth the Theragun price. Stroke is too shallow for dense back/thigh muscle (head visibly skips); battery degrades at 14-18 months on heavy use.",
-      ja: "9,800円の予算フルサイズ枠。ストローク振幅10mm、ストール力13.6kgでTheragunの8分の1の価格。背中・太ももの密な筋肉ではストロークが浅すぎてヘッドが目視で滑る、毎日重使用なら14-18ヶ月でバッテリー劣化。",
+      ja: "予算フルサイズ枠。ストローク振幅10mm、ストール力13.6kgでTheragunの8分の1の価格。背中・太ももの密な筋肉ではストロークが浅すぎてヘッドが目視で滑る、毎日重使用なら14-18ヶ月でバッテリー劣化。",
     },
     links: [
       { network: "amazon-us", productId: "B08CKWVYMF", rawUrl: "https://www.amazon.com/dp/B08CKWVYMF", markets: ["US", "EU", "global"], approved: true },
@@ -2030,7 +2030,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "DOCTORAIR EXAGUN HANDY", ja: "ドクターエア エクサガン ハンディ" },
     description: {
       en: "Japanese-brand handy unit. 280 g, 45 dB at peak, retail-store warranty support through Bic Camera and Yodobashi. 6 mm stroke is a vibration tool with a percussive head shape; does not reach deep muscle tissue, beauty/desk-tension use only.",
-      ja: "27,500円の国内ブランドハンディ枠。280g、ピーク45dB、ビックカメラ・ヨドバシなど家電量販店の保証対応。ストローク6mmは打突形状のバイブレーション機で深層筋には届かない、美容・デスク疲労用途のみ。",
+      ja: "国内ブランドハンディ枠。280g、ピーク45dB、ビックカメラ・ヨドバシなど家電量販店の保証対応。ストローク6mmは打突形状のバイブレーション機で深層筋には届かない、美容・デスク疲労用途のみ。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-doctorair-exagun-handy", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDOCTORAIR%2BEXAGUN%2BHANDY%2F", markets: ["JP"], approved: true },
@@ -2047,7 +2047,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "MYTREX REBIVE MINI XS", ja: "MYTREX REBIVE MINI XS" },
     description: {
       en: "Travel-size pick. 220 g (lightest in the comparison), fits in a toiletry bag, USB-C charging, 8 mm stroke amplitude. Cannot reach gluteus/lower back/thigh muscle depth meaningfully; small muscle groups (calf, forearm, neck-side, shoulder-top) only.",
-      ja: "14,800円のトラベル枠。220g(本比較最軽量)、トラベルポーチに入るサイズ、USB-C充電、ストローク振幅8mm。お尻・腰・太ももの深層には実用的に届かない、ふくらはぎ・前腕・首の側面・肩の上など小筋群専用。",
+      ja: "トラベル枠。220g(本比較最軽量)、トラベルポーチに入るサイズ、USB-C充電、ストローク振幅8mm。お尻・腰・太ももの深層には実用的に届かない、ふくらはぎ・前腕・首の側面・肩の上など小筋群専用。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-mytrex-rebive-mini-xs", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMYTREX%2BREBIVE%2BMINI%2BXS%2F", markets: ["JP"], approved: true },
@@ -2143,7 +2143,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Optimum Nutrition Gold Standard 100% Whey 2.27 kg", ja: "Optimum Nutrition Gold Standard 100% Whey 2.27kg" },
     description: {
       en: "International premium pick. 24 g protein per 30 g scoop (80% protein by weight) from a blend of whey isolate, concentrate, and peptides, 5.5 g naturally occurring BCAAs per scoop, Informed Choice batch certification, 25-year sport-nutrition track record. 4 per kg is 30-40% more expensive than Myprotein on per-gram-of-protein basis; sucralose-plus-acesulfame-potassium sweetener combination is overly sweet for some palates; international supply means stock fluctuations through Japanese retail are routine.",
-      ja: "9,800円の国際プレミアム枠。30gスクープあたりタンパク質24g(重量比80%)をホエイアイソレート・コンセントレート・ペプチドのブレンドで供給、1スクープあたりホエイ由来天然BCAA 5.5g、Informed Choiceバッチ認証、25年のスポーツ栄養実績。キロあたり4,300円はタンパク質1gあたりベースでMyproteinより30-40%高い、スクラロース+アセスルファムKの甘味料コンビは一部の口に過度に甘い、国際供給は日本小売を通じた在庫変動が日常的。",
+      ja: "国際プレミアム枠。30gスクープあたりタンパク質24g(重量比80%)をホエイアイソレート・コンセントレート・ペプチドのブレンドで供給、1スクープあたりホエイ由来天然BCAA 5.5g、Informed Choiceバッチ認証、25年のスポーツ栄養実績。タンパク質1gあたりベースでMyproteinより30-40%高い、スクラロース+アセスルファムKの甘味料コンビは一部の口に過度に甘い、国際供給は日本小売を通じた在庫変動が日常的。",
     },
     links: [
       { network: "amazon-us", productId: "B000QSNYGI", rawUrl: "https://www.amazon.com/dp/B000QSNYGI", markets: ["US"], approved: true },
@@ -2159,7 +2159,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Myprotein Impact Whey Protein 2.5 kg", ja: "Myprotein Impact ホエイプロテイン 2.5kg" },
     description: {
       en: "European value pick (typical sale price; non-sale list is 9). 20-21 g protein per 25 g scoop (80-84% by weight), Informed Sport certified for select flavours and batches, 60+ flavour SKUs in UK with frequent 40-50% off promotional pricing. International shipping from UK warehouse takes 7-14 business days with intermittent stock-outs; mixability is grittier than ON or SAVAS particularly in cold liquid; only specific flavours and batches carry Informed Sport certification and athletes must verify per batch via Myprotein lot-lookup.",
-      ja: "7,990円の欧州バリュー枠(典型的セール価格;非セール定価は9,500-11,000円)。25gスクープあたりタンパク質20-21g(重量比80-84%)、特定フレーバーとバッチでInformed Sport認証、UKで60以上のフレーバーSKUと頻繁な40-50%オフプロモーション価格。UK倉庫からの国際配送が7-14営業日かかり断続的な在庫切れ、混溶性が特に冷たい液体でONやSAVASよりザラつき、特定フレーバーとバッチのみがInformed Sport認証を持ちMyproteinロット検索でバッチごとに検証する必要。",
+      ja: "欧州バリュー枠。25gスクープあたりタンパク質20-21g(重量比80-84%)、特定フレーバーとバッチでInformed Sport認証、UKで60以上のフレーバーSKUと頻繁な40-50%オフプロモーション価格。UK倉庫からの国際配送が7-14営業日かかり断続的な在庫切れ、混溶性が特に冷たい液体でONやSAVASよりザラつき、特定フレーバーとバッチのみがInformed Sport認証を持ちMyproteinロット検索でバッチごとに検証する必要。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-myprotein-impact-whey-2500g", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMyprotein%2BImpact%2B%E3%83%9B%E3%82%A7%E3%82%A4%2F", markets: ["JP"], approved: true },
@@ -2207,7 +2207,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Inputein Kamikatsu Whey Protein 1 kg", ja: "Inputein 上勝ホエイプロテイン 1kg" },
     description: {
       en: "No-artificial-sweetener D2C pick. 20 g protein per 25 g scoop (80% by weight), 100% Hokkaido domestic raw-milk sourcing with batch traceability, no sucralose, acesulfame potassium, aspartame, or artificial flavours, Tokushima Prefecture upcycling community origin with Pinterest and Instagram-heavy organic reach since the 2024 launch. Only 4-5 flavour SKUs available at any time (flavour fatigue at month 3-4) per kg is roughly 30-40% more expensive than international tier on per-gram-of-protein basis (Myprotein delivers similar protein content at roughly 3 per kg on sale); no Informed Sport or NSF certification (not athlete-safe for WADA-tested sport).",
-      ja: "4,980円の人工甘味料無添加D2C枠。25gスクープあたりタンパク質20g(重量比80%)、バッチ追跡可能性付き100%北海道国内生乳ソース、スクラロース・アセスルファムK・アスパルテーム・人工香料無添加、徳島県上勝町のアップサイクリングコミュニティ起源で2024年ローンチ以来PinterestとInstagramの組織的リーチ重視。任意の時点で4-5フレーバーSKUのみ(3-4ヶ月目にフレーバー疲労)、キロあたり5,000円はタンパク質1gあたりベースで国際ティアより約30-40%高い(Myproteinはセール時のキロあたり約3,200円で類似タンパク質含有量)、Informed SportやNSF認証なし(WADAテスト対象スポーツに安全ではない)。",
+      ja: "人工甘味料無添加D2C枠。25gスクープあたりタンパク質20g(重量比80%)、バッチ追跡可能性付き100%北海道国内生乳ソース、スクラロース・アセスルファムK・アスパルテーム・人工香料無添加、徳島県上勝町のアップサイクリングコミュニティ起源で2024年ローンチ以来PinterestとInstagramの組織的リーチ重視。任意の時点で4-5フレーバーSKUのみ(3-4ヶ月目にフレーバー疲労)、タンパク質1gあたりベースで国際ティアより約30-40%高い(Myproteinはセール時に類似タンパク質含有量でより安価)、Informed SportやNSF認証なし(WADAテスト対象スポーツに安全ではない)。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-inputein-whey-1kg", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInputein%2B%E4%B8%8A%E5%8B%9D%E3%83%9B%E3%82%A7%E3%82%A4%2F", markets: ["JP"], approved: true },
@@ -2241,7 +2241,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Vitruvi Stone Diffuser", ja: "Vitruvi Stone Diffuser" },
     description: {
       en: "Pinterest-aesthetic premium pick. Hand-glazed porcelain ceramic shell in 9 colorways, 90 mL ultrasonic at around 25 dB (one of quietest), Canadian Vitruvi brand dominant on Pinterest beauty-aesthetic boards since 2018. Ceramic shell is fragile (drop = crack) and several long-term buyers report hairline cracks at 12-18 months from thermal cycling is roughly 2.5x Muji and 5x InnoGear on the same ultrasonic spec; 90 mL tank suits bedrooms only and underperforms in 16+ jou LDK; international shipping from Canada means routine stock fluctuations and color availability variation.",
-      ja: "18,800円のPinterest美学プレミアム枠。9色展開の手釉ポーセリン セラミック外装、90mL超音波で約25dB(最も静かな部類)、2018年以来Pinterest美学ボードを支配するカナダのVitruviブランド。セラミック外装は脆弱(落とすと割れる)で複数の長期購入者が熱サイクルから12-18ヶ月時点で細い亀裂を報告、18,800円は同じ超音波スペックで無印の約2.5倍・InnoGearの約5倍、90mLタンクは寝室のみに合い16+畳LDKでは性能不足、カナダからの国際配送は日常的な在庫変動と色入手性の変動を意味する。",
+      ja: "Pinterest美学プレミアム枠。9色展開の手釉ポーセリン セラミック外装、90mL超音波で約25dB(最も静かな部類)、2018年以来Pinterest美学ボードを支配するカナダのVitruviブランド。セラミック外装は脆弱(落とすと割れる)で複数の長期購入者が熱サイクルから12-18ヶ月時点で細い亀裂を報告、同じ超音波スペックで無印の約2.5倍・InnoGearの約5倍の価格、90mLタンクは寝室のみに合い16+畳LDKでは性能不足、カナダからの国際配送は日常的な在庫変動と色入手性の変動を意味する。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-vitruvi-stone-diffuser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FVitruvi%2BStone%2BDiffuser%2F", markets: ["JP"], approved: true },
@@ -2255,7 +2255,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Tree of Life mood air mini", ja: "生活の木 mood air mini" },
     description: {
       en: "Japanese specialist nebulizer pick. Pure essential oil atomization with Venturi air pump, strong scent throw saturating 15-25 jou rooms, intermittent timer modes, glass nebulizer head, USB-C, Tree of Life domestic brand with established oil ecosystem at Tokyu Hands and Loft. Consumes 3-5 mL of pure oil per hour (5-10x running cost vs ultrasonic); air pump runs at 40-50 dB (interrupts sleep in bedroom); glass head clogs with thick oils requiring weekly disassembly cleaning; warranty technically requires Tree of Life own oil line.",
-      ja: "9,900円の日本専門ネブライザー枠。Venturiエアポンプによる純粋精油霧化、15-25畳の部屋を飽和する強い芳香拡散、断続タイマー モード、ガラス ネブライザー ヘッド、USB-C、Tokyu HandsとLoftで確立された精油エコシステムを持つ生活の木国内ブランド。1時間あたり3-5mLの純粋精油を消費(超音波 vs 5-10倍の運用コスト)、エアポンプは40-50dBで稼働(寝室で睡眠を中断)、ガラス ヘッドは厚い精油で詰まり週次の分解清掃を要する、保証は技術的に生活の木自社精油ラインを要求。",
+      ja: "日本専門ネブライザー枠。Venturiエアポンプによる純粋精油霧化、15-25畳の部屋を飽和する強い芳香拡散、断続タイマー モード、ガラス ネブライザー ヘッド、USB-C、Tokyu HandsとLoftで確立された精油エコシステムを持つ生活の木国内ブランド。1時間あたり3-5mLの純粋精油を消費(超音波 vs 5-10倍の運用コスト)、エアポンプは40-50dBで稼働(寝室で睡眠を中断)、ガラス ヘッドは厚い精油で詰まり週次の分解清掃を要する、保証は技術的に生活の木自社精油ラインを要求。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-treeoflife-mood-air-mini", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%94%9F%E6%B4%BB%E3%81%AE%E6%9C%A8%2Bmood%2Bair%2Bmini%2F", markets: ["JP"], approved: true },
@@ -2272,7 +2272,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "@aroma Aroma Pebble", ja: "@aroma Aroma Pebble" },
     description: {
       en: "Japanese portable D2C pick. Rechargeable battery 4-8 hour runtime per USB-C charge, 30-50 mL ultrasonic at around 28 dB, river-pebble silhouette in stone/mocha/sand/graphite colorways, @aroma proprietary oil ecosystem. Battery runtime is shorter than AC-powered (daily recharging if used daily); small tank suits personal-bubble use only and cannot saturate a room is high for 30-50 mL tank ultrasonic; rechargeable battery has finite cycle life and degrades after 300-400 cycles (2-3 years of daily use before runtime drops below practical).",
-      ja: "14,300円の日本ポータブルD2C枠。1 USB-C充電あたり4-8時間稼働の充電式バッテリー、30-50mL超音波で約28dB、ストーン/モカ/サンド/グラファイト カラー展開の川石シルエット、@aroma専有精油エコシステム。電池稼働時間はAC電源より短い(日常使用なら毎日充電)、小さなタンクはパーソナルバブル使用専用で部屋を飽和できない、14,300円は30-50mLタンク超音波としては高い、充電式バッテリーには有限のサイクル寿命があり300-400サイクル後に劣化(日常使用2-3年で稼働時間が実用以下に下がる)。",
+      ja: "日本ポータブルD2C枠。1 USB-C充電あたり4-8時間稼働の充電式バッテリー、30-50mL超音波で約28dB、ストーン/モカ/サンド/グラファイト カラー展開の川石シルエット、@aroma専有精油エコシステム。電池稼働時間はAC電源より短い(日常使用なら毎日充電)、小さなタンクはパーソナルバブル使用専用で部屋を飽和できない、30-50mLタンク超音波としては高価、充電式バッテリーには有限のサイクル寿命があり300-400サイクル後に劣化(日常使用2-3年で稼働時間が実用以下に下がる)。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-at-aroma-pebble", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%40aroma%2BAroma%2BPebble%2F", markets: ["JP"], approved: true },
@@ -2289,7 +2289,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "InnoGear Aromatherapy Diffuser 500 mL", ja: "InnoGear Aromatherapy Diffuser 500mL" },
     description: {
       en: "Budget large-tank pick. 500 mL ultrasonic with 10-12 hour continuous runtime (longest in this comparison), 7-color LED with disable option, mist intensity adjustment, automatic shutoff, remote control included. Build quality is variable with plastic-and-wood-veneer body that several long-term buyers describe as visibly cheap-looking; tank seal water leakage is the most common long-term failure mode at 6-12 month mark; warranty support in Japan is weaker than domestic specialist brands; ceramic plate accumulates mineral scale faster than premium units, requiring weekly cleaning rather than monthly.",
-      ja: "3,980円の予算大型タンク枠。連続10-12時間稼働の500mL超音波(本比較最長稼働時間)、無効化オプション付き7色LED、ミスト強度調整、自動シャットオフ、リモコン同梱。製造品質は変動しプラスチック+木目調本体は複数の長期購入者が目視で安っぽく見えると記述、タンク シール水漏れが6-12ヶ月時点での最一般長期故障モード、日本での保証サポートは国内専門ブランドより弱い、セラミック板はプレミアム ユニットより速くミネラル スケールを蓄積し月次ではなく週次清掃を要する。",
+      ja: "予算大型タンク枠。連続10-12時間稼働の500mL超音波(本比較最長稼働時間)、無効化オプション付き7色LED、ミスト強度調整、自動シャットオフ、リモコン同梱。製造品質は変動しプラスチック+木目調本体は複数の長期購入者が目視で安っぽく見えると記述、タンク シール水漏れが6-12ヶ月時点での最一般長期故障モード、日本での保証サポートは国内専門ブランドより弱い、セラミック板はプレミアム ユニットより速くミネラル スケールを蓄積し月次ではなく週次清掃を要する。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-innogear-500ml-diffuser", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInnoGear%2BAromatherapy%2B500ml%2F", markets: ["JP"], approved: true },
@@ -2305,7 +2305,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Apple Watch Series 10", ja: "Apple Watch Series 10" },
     description: {
       en: "IPhone-locked daily-driver pick. Thinnest case yet, 1.96-inch always-on OLED, Suica + Apple Pay + ECG + atrial fibrillation notification, sleep apnea screening, largest third-party app library. 18-22 hour real-world battery means daily charging; pairs only with iPhone.",
-      ja: "64,800円のiPhoneロックイン日常使い枠。過去最薄ケース、1.96インチ常時表示OLED、Suica+Apple Pay+ECG+心房細動通知、睡眠時無呼吸スクリーニング、本比較最大のサードパーティアプリライブラリ。実機18-22時間バッテリーで毎日充電前提、iPhone専用でAndroidとはペアリング不可。",
+      ja: "iPhoneロックイン日常使い枠。過去最薄ケース、1.96インチ常時表示OLED、Suica+Apple Pay+ECG+心房細動通知、睡眠時無呼吸スクリーニング、本比較最大のサードパーティアプリライブラリ。実機18-22時間バッテリーで毎日充電前提、iPhone専用でAndroidとはペアリング不可。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-apple-watch-series-10", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2BWatch%2BSeries%2B10%2F", markets: ["JP"], approved: true },
@@ -2322,7 +2322,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Garmin Fenix 8 47mm", ja: "Garmin Fenix 8 47mm" },
     description: {
       en: "Endurance-athlete flagship. Sapphire AMOLED, dual-frequency multi-band GPS, topo-map trail navigation, 40 m water rating with dive computer mode, deepest training-load and recovery analytics. Genuine overkill below competitive endurance training; menu has 2-4 week learning curve; 47 mm case is large on wrists under 16 cm.",
-      ja: "149,800円のエンデュランスアスリート向けフラッグシップ。サファイアAMOLED、デュアル周波数マルチバンドGPS、地形図トレイルナビ、防水40mでダイブコンピューターモード、本比較最深のトレーニング負荷+リカバリー解析。競技的エンデュランス未満には正直オーバーキル、メニュー体系に2-4週間の学習曲線、47mmケースは手首周囲16cm未満には大きい。",
+      ja: "エンデュランスアスリート向けフラッグシップ。サファイアAMOLED、デュアル周波数マルチバンドGPS、地形図トレイルナビ、防水40mでダイブコンピューターモード、本比較最深のトレーニング負荷+リカバリー解析。競技的エンデュランス未満には正直オーバーキル、メニュー体系に2-4週間の学習曲線、47mmケースは手首周囲16cm未満には大きい。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-garmin-fenix-8-47mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin%2BFenix%2B8%2B47mm%2F", markets: ["JP"], approved: true },
@@ -2337,7 +2337,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Fitbit Charge 6", ja: "Fitbit Charge 6" },
     description: {
       en: "Fitness-tracker value pick. 1.04-inch AMOLED, 6-7 day real-world battery, Google integration with Maps notifications and YouTube Music control, built-in GPS, Fitbit Premium ecosystem. ECG geographically limited and not available in Japan as of May 2026; Google Pay coverage in Japan trails Apple Pay/Suica; tracker form factor with limited watch-face customization.",
-      ja: "23,800円のフィットネストラッカーコスパ枠。1.04インチAMOLED、実機6-7日バッテリー、Googleマップ通知とYouTube Music操作のGoogle統合、内蔵GPS、Fitbit Premiumエコシステム。ECGは地理的制約があり2026年5月時点で日本未提供、日本でのGoogle PayカバレッジはApple Pay/Suicaに劣る、トラッカー型でウォッチフェイスのカスタマイズは限定的。",
+      ja: "フィットネストラッカーコスパ枠。1.04インチAMOLED、実機6-7日バッテリー、Googleマップ通知とYouTube Music操作のGoogle統合、内蔵GPS、Fitbit Premiumエコシステム。ECGは地理的制約があり2026年5月時点で日本未提供、日本でのGoogle PayカバレッジはApple Pay/Suicaに劣る、トラッカー型でウォッチフェイスのカスタマイズは限定的。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-fitbit-charge-6", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFitbit%2BCharge%2B6%2F", markets: ["JP"], approved: true },
@@ -2352,7 +2352,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "HUAWEI Watch GT 5 46mm", ja: "HUAWEI Watch GT 5 46mm" },
     description: {
       en: "Long-battery Android-friendly pick. 1.43-inch AMOLED, 12-14 day realistic battery, dual-band GNSS on the 46 mm Pro variant, polished stainless build options. No Google Play Store, no Google Pay, no third-party Strava/Spotify apps — sync via HUAWEI Health adds friction; iOS reply functionality essentially absent; after-sales network in Japan thinner than Apple/Garmin/Fitbit.",
-      ja: "36,800円の長バッテリーAndroid向け枠。1.43インチAMOLED、実機12-14日バッテリー、46mm Proバリアントでデュアルバンド GNSS、ステンレス選択肢を含む磨き込まれた筐体。Google Play Storeなし、Google Payなし、サードパーティStrava/Spotifyアプリなし、HUAWEI Health経由同期でフリクション増、iOSの返信機能は事実上不在、日本でのアフターサービス網はApple/Garmin/Fitbitより薄い。",
+      ja: "長バッテリーAndroid向け枠。1.43インチAMOLED、実機12-14日バッテリー、46mm Proバリアントでデュアルバンド GNSS、ステンレス選択肢を含む磨き込まれた筐体。Google Play Storeなし、Google Payなし、サードパーティStrava/Spotifyアプリなし、HUAWEI Health経由同期でフリクション増、iOSの返信機能は事実上不在、日本でのアフターサービス網はApple/Garmin/Fitbitより薄い。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-huawei-watch-gt-5", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHUAWEI%2BWatch%2BGT%2B5%2B46mm%2F", markets: ["JP"], approved: true },
@@ -2369,7 +2369,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Amazfit GTR 4", ja: "Amazfit GTR 4" },
     description: {
       en: "Design-led value pick. 1.43-inch AMOLED round face, dual-band 5-system GNSS at this price point, 10-12 day realistic battery, 150+ sport modes via Zepp app. Notification reply is the weakest in this comparison (canned responses on Android, essentially absent on iOS); Zepp OS third-party app ecosystem is small; Japan warranty via Rakuten retail rather than flagship brand-store network.",
-      ja: "29,800円のデザイン重視コスパ枠。1.43インチAMOLED丸顔、この価格帯でのデュアルバンド5系統GNSS、実機10-12日バッテリー、Zeppアプリ経由で150以上のスポーツモード。通知返信機能は本比較で最も弱く(Androidで定型応答のみ、iOSで事実上不在)、Zepp OSのサードパーティアプリエコシステムは小さい、日本での保証はフラッグシップ・ブランドストア網ではなく楽天小売経由。",
+      ja: "デザイン重視コスパ枠。1.43インチAMOLED丸顔、この価格帯でのデュアルバンド5系統GNSS、実機10-12日バッテリー、Zeppアプリ経由で150以上のスポーツモード。通知返信機能は本比較で最も弱く(Androidで定型応答のみ、iOSで事実上不在)、Zepp OSのサードパーティアプリエコシステムは小さい、日本での保証はフラッグシップ・ブランドストア網ではなく楽天小売経由。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-amazfit-gtr-4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAmazfit%2BGTR%2B4%2F", markets: ["JP"], approved: true },
@@ -2384,8 +2384,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💴",
     name: { en: "Xiaomi Smart Band 9", ja: "Xiaomi スマートバンド 9" },
     description: {
-      en: "~¥5,000 ultra-budget pick. 1.62-inch AMOLED display, 33 g weight (lightest in this comparison), 14-day claimed battery (8–10 days realistic with continuous heart-rate), 150+ sport modes, iOS and Android compatible via Mi Fitness app. Sensor array is smaller than premium trackers — heart-rate accuracy during exercise is lower than Fitbit or Garmin; Mi Fitness analytics ecosystem is thinner than competitors; Xiaomi's after-sales support network in Japan is thin with warranty typically handled through retailer rather than brand service centre.",
-      ja: "約¥5,000の超予算枠。1.62インチAMOLED、33g（本比較最軽量）、公称14日間バッテリー（継続HR有効で実機8〜10日）、150以上のスポーツモード、Mi FitnessアプリでiOS・Android対応。センサーアレイがプレミアムトラッカーより小さく運動中のHR精度はFitbit・Garminより劣る、Mi Fitnessの分析エコシステムは競合より薄い、日本のアフターサービスは直営より販売店経由が主体。",
+      en: "Ultra-budget pick. 1.62-inch AMOLED display, 33 g weight (lightest in this comparison), 14-day claimed battery (8–10 days realistic with continuous heart-rate), 150+ sport modes, iOS and Android compatible via Mi Fitness app. Sensor array is smaller than premium trackers — heart-rate accuracy during exercise is lower than Fitbit or Garmin; Mi Fitness analytics ecosystem is thinner than competitors; Xiaomi's after-sales support network in Japan is thin with warranty typically handled through retailer rather than brand service centre.",
+      ja: "超予算枠。1.62インチAMOLED、33g（本比較最軽量）、公称14日間バッテリー（継続HR有効で実機8〜10日）、150以上のスポーツモード、Mi FitnessアプリでiOS・Android対応。センサーアレイがプレミアムトラッカーより小さく運動中のHR精度はFitbit・Garminより劣る、Mi Fitnessの分析エコシステムは競合より薄い、日本のアフターサービスは直営より販売店経由が主体。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-xiaomi-smart-band-9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXiaomi%2BSmart%2BBand%2B9%2F", markets: ["JP"], approved: true },
@@ -2399,8 +2399,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔋",
     name: { en: "Garmin Vivosmart 5", ja: "Garmin Vivosmart 5" },
     description: {
-      en: "~¥22,000 health-analytics pick. Body Battery energy management, HRV stress score, SpO2, Garmin sleep analysis, slim band form factor, works equally on Android and iOS via Garmin Connect. No built-in GPS — connected GPS only, which means no route tracking without a phone; unusual price-to-feature trade-off for the category; small display with limited smartwatch notification interaction compared to full smart watches.",
-      ja: "約¥22,000の健康分析枠。Body Batteryエネルギー管理・HRVストレススコア・SpO2・Garmin睡眠分析、スリムバンド型、Garmin Connect経由でAndroid・iOS両対応。GPS非内蔵（接続型のみ）でスマートフォンなしのルート追跡不可、この価格帯では異例の価格対機能トレードオフ、フルスマートウォッチと比べて通知操作が限定的な小型ディスプレイ。",
+      en: "Health-analytics pick. Body Battery energy management, HRV stress score, SpO2, Garmin sleep analysis, slim band form factor, works equally on Android and iOS via Garmin Connect. No built-in GPS — connected GPS only, which means no route tracking without a phone; unusual price-to-feature trade-off for the category; small display with limited smartwatch notification interaction compared to full smart watches.",
+      ja: "健康分析枠。Body Batteryエネルギー管理・HRVストレススコア・SpO2・Garmin睡眠分析、スリムバンド型、Garmin Connect経由でAndroid・iOS両対応。GPS非内蔵（接続型のみ）でスマートフォンなしのルート追跡不可、この価格帯では異例の価格対機能トレードオフ、フルスマートウォッチと比べて通知操作が限定的な小型ディスプレイ。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-garmin-vivosmart-5", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin%2BVivosmart%2B5%2F", markets: ["JP"], approved: true },
@@ -2414,8 +2414,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍎",
     name: { en: "Apple Watch SE 2nd Generation", ja: "Apple Watch SE 第2世代" },
     description: {
-      en: "~¥35,000 smartwatch-with-fitness-tracking pick for iPhone users. Crash detection, Emergency SOS, Suica + Apple Pay at every Japanese conbini, full watchOS app store, message replies from the wrist. Requires iPhone — hard dependency, no workaround for Android users. 18-hour real-world battery means daily charging without exception; most expensive option in this comparison by a significant margin.",
-      ja: "約¥35,000のiPhoneユーザー向けフィットネス追跡付きスマートウォッチ枠。クラッシュ検知・緊急SOS・日本中のコンビニでSuica+Apple Pay・watchOSアプリストア・手首でのメッセージ返信。iPhoneが必須——Androidユーザーへの回避策なし。18時間実機バッテリーで例外なく毎日充電、本比較で最も高価。",
+      en: "Smartwatch-with-fitness-tracking pick for iPhone users. Crash detection, Emergency SOS, Suica + Apple Pay at every Japanese conbini, full watchOS app store, message replies from the wrist. Requires iPhone — hard dependency, no workaround for Android users. 18-hour real-world battery means daily charging without exception; most expensive option in this comparison by a significant margin.",
+      ja: "iPhoneユーザー向けフィットネス追跡付きスマートウォッチ枠。クラッシュ検知・緊急SOS・日本中のコンビニでSuica+Apple Pay・watchOSアプリストア・手首でのメッセージ返信。iPhoneが必須——Androidユーザーへの回避策なし。18時間実機バッテリーで例外なく毎日充電、本比較で最も高価。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-apple-watch-se-2nd", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FApple%2BWatch%2BSE%2B%E7%AC%AC2%E4%B8%96%E4%BB%A3%2F", markets: ["JP"], approved: true },
@@ -2429,8 +2429,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📱",
     name: { en: "Samsung Galaxy Fit 3", ja: "Samsung Galaxy Fit 3" },
     description: {
-      en: "~¥8,000 large-screen budget Android tracker. 1.6-inch display (largest in this comparison), 13-day claimed battery (8–11 days realistic), 50 m water resistance, compatible with any Android phone not just Samsung. No built-in GPS (connected only); Galaxy Wearable app's full analytics depth requires a Samsung phone — feature set is reduced on non-Samsung Android; at ¥8,000, sensor quality and software polish reflect the price.",
-      ja: "約¥8,000の大画面予算Androidトラッカー。1.6インチ画面（本比較最大）、公称13日間バッテリー（実機8〜11日）、50m防水、Samsung以外のすべてのAndroidスマートフォンに対応。GPS非内蔵（接続型のみ）、Galaxy WearableアプリのフルAnalytics深度はSamsungスマートフォンが必要で非Samsung Androidでは機能制限あり、¥8,000という価格がセンサー品質とソフトウェア完成度に反映されている。",
+      en: "Large-screen budget Android tracker. 1.6-inch display (largest in this comparison), 13-day claimed battery (8–11 days realistic), 50 m water resistance, compatible with any Android phone not just Samsung. No built-in GPS (connected only); Galaxy Wearable app's full analytics depth requires a Samsung phone — feature set is reduced on non-Samsung Android; sensor quality and software polish reflect the price.",
+      ja: "大画面予算Androidトラッカー。1.6インチ画面（本比較最大）、公称13日間バッテリー（実機8〜11日）、50m防水、Samsung以外のすべてのAndroidスマートフォンに対応。GPS非内蔵（接続型のみ）、Galaxy WearableアプリのフルAnalytics深度はSamsungスマートフォンが必要で非Samsung Androidでは機能制限あり、価格相応にセンサー品質とソフトウェア完成度が抑えられている。",
     },
     links: [
       { network: "amazon-us", productId: "B0CR5R34XK", rawUrl: "https://www.amazon.com/dp/B0CR5R34XK", markets: ["US"], approved: true },
@@ -2446,8 +2446,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "❤️",
     name: { en: "Withings Body Comp", ja: "Withings Body Comp" },
     description: {
-      en: "~¥30,000 broadest-health-picture pick. Measures body fat, muscle mass, visceral fat index, bone mass, and vascular age (pulse wave velocity) via Health Mate app. Best data export policy in this comparison (CSV export, API access), reliable Apple Health and Google Fit sync. Foot-to-foot BIA shares the same ±3–8% body fat accuracy class as cheaper scales; Withings has undergone multiple ownership changes (Nokia Health, back to Withings) creating long-term software support uncertainty; ¥30,000 is the joint-highest price in this comparison.",
-      ja: "約¥30,000の最広健康像把握枠。体脂肪・筋肉量・内臓脂肪指数・骨量・血管年齢（脈波伝播速度）をHealth Mateアプリで計測。本比較最良データエクスポートポリシー（CSVエクスポート・APIアクセス）、Apple HealthとGoogle Fit両方への信頼性の高い同期。足底BIAは安い製品と同じ±3〜8%体脂肪精度クラス、Withingsは複数の所有権変更（Nokia Health・Withings復帰）を経て長期ソフトウェアサポートに不確実性がある、¥30,000は本比較の同率最高価格。",
+      en: "Broadest-health-picture pick. Measures body fat, muscle mass, visceral fat index, bone mass, and vascular age (pulse wave velocity) via Health Mate app. Best data export policy in this comparison (CSV export, API access), reliable Apple Health and Google Fit sync. Foot-to-foot BIA shares the same ±3–8% body fat accuracy class as cheaper scales; Withings has undergone multiple ownership changes (Nokia Health, back to Withings) creating long-term software support uncertainty; the joint-highest price in this comparison.",
+      ja: "最広健康像把握枠。体脂肪・筋肉量・内臓脂肪指数・骨量・血管年齢（脈波伝播速度）をHealth Mateアプリで計測。本比較最良データエクスポートポリシー（CSVエクスポート・APIアクセス）、Apple HealthとGoogle Fit両方への信頼性の高い同期。足底BIAは安い製品と同じ±3〜8%体脂肪精度クラス、Withingsは複数の所有権変更（Nokia Health・Withings復帰）を経て長期ソフトウェアサポートに不確実性がある、本比較の同率最高価格帯。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-withings-body-comp", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FWithings%2BBody%2BComp%2F", markets: ["JP"], approved: true },
@@ -2461,8 +2461,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔵",
     name: { en: "Garmin Index S2", ja: "Garmin Index S2" },
     description: {
-      en: "~¥22,000 Garmin Connect integration pick. Supports 16 simultaneous users, syncs body fat, BMI, body water, and bone mass directly to Garmin Connect alongside activities, sleep, and HRV data. Ecosystem premium only valuable if you already use Garmin devices; for non-Garmin users it is a foot-to-foot BIA scale at ¥22,000 with the same accuracy class as the ¥8,000 Eufy P2 Pro; no direct Google Fit integration without a third-party bridge app.",
-      ja: "約¥22,000のGarmin Connect連携枠。16ユーザー同時対応、体脂肪・BMI・体水分・骨量をアクティビティ・睡眠・HRVデータと並んでGarmin Connectに直接同期。エコシステムプレミアムは既存Garminデバイス使用者にのみ価値があり、Garmin以外のユーザーには¥22,000の足底BIAスケールで¥8,000のEufy P2 Proと同精度クラス。サードパーティ仲介なしではGoogle Fitへの直接連携なし。",
+      en: "Garmin Connect integration pick. Supports 16 simultaneous users, syncs body fat, BMI, body water, and bone mass directly to Garmin Connect alongside activities, sleep, and HRV data. Ecosystem premium only valuable if you already use Garmin devices; for non-Garmin users it is a foot-to-foot BIA scale with the same accuracy class as the much cheaper Eufy P2 Pro; no direct Google Fit integration without a third-party bridge app.",
+      ja: "Garmin Connect連携枠。16ユーザー同時対応、体脂肪・BMI・体水分・骨量をアクティビティ・睡眠・HRVデータと並んでGarmin Connectに直接同期。エコシステムプレミアムは既存Garminデバイス使用者にのみ価値があり、Garmin以外のユーザーには足底BIAスケールとしてより安価なEufy P2 Proと同精度クラス。サードパーティ仲介なしではGoogle Fitへの直接連携なし。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-garmin-index-s2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGarmin%2BIndex%2BS2%2F", markets: ["JP"], approved: true },
@@ -2476,8 +2476,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏥",
     name: { en: "Tanita RD-906", ja: "タニタ RD-906" },
     description: {
-      en: "~¥30,000 highest-rigor consumer BIA pick. InBody-licensed multi-frequency four-electrode technology measures arms, legs, and trunk separately (genuine segmental body composition) rather than estimating upper body from foot-to-foot impedance; 50 g resolution; Tanita has clinical credibility in Japan that no foreign brand currently matches — hospitals, clinics, and sports facilities use Tanita professional equipment. Requires holding handle electrodes during each measurement; Health Planet app is Japan-focused and less internationally polished than Withings or Garmin; no vascular age measurement despite price parity with Withings Body Comp.",
-      ja: "約¥30,000の最高精度消費者BIA枠。InBodyライセンス多周波数4電極技術が腕・脚・体幹を個別に計測（真の部位別体組成）し、足底インピーダンスからの上半身推定ではない。50g単位計測。タニタは日本で外国ブランドが匹敵できない臨床的信頼性を持ち、病院・クリニック・スポーツ施設がタニタ業務用機器を使用。各計測でハンドル電極を握る必要がある、Health Planetアプリは日本市場中心でWithingsやGarminほど国際的に洗練されていない、Withings Body Compと同価格帯ながら血管年齢計測なし。",
+      en: "Highest-rigor consumer BIA pick. InBody-licensed multi-frequency four-electrode technology measures arms, legs, and trunk separately (genuine segmental body composition) rather than estimating upper body from foot-to-foot impedance; 50 g resolution; Tanita has clinical credibility in Japan that no foreign brand currently matches — hospitals, clinics, and sports facilities use Tanita professional equipment. Requires holding handle electrodes during each measurement; Health Planet app is Japan-focused and less internationally polished than Withings or Garmin; no vascular age measurement despite price parity with Withings Body Comp.",
+      ja: "最高精度消費者BIA枠。InBodyライセンス多周波数4電極技術が腕・脚・体幹を個別に計測（真の部位別体組成）し、足底インピーダンスからの上半身推定ではない。50g単位計測。タニタは日本で外国ブランドが匹敵できない臨床的信頼性を持ち、病院・クリニック・スポーツ施設がタニタ業務用機器を使用。各計測でハンドル電極を握る必要がある、Health Planetアプリは日本市場中心でWithingsやGarminほど国際的に洗練されていない、Withings Body Compと同価格帯ながら血管年齢計測なし。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-tanita-rd-906", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%8B%E3%82%BF%2BRD-906%2F", markets: ["JP"], approved: true },
@@ -2493,8 +2493,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💴",
     name: { en: "Xiaomi Mi Body Composition Scale 2", ja: "Xiaomi 体組成計 2" },
     description: {
-      en: "~¥3,000 ultra-budget body fat tracking pick. Measures body fat, BMI, muscle mass, bone mass, and metabolic rate estimates via Bluetooth sync to Mi Fitness; body fat trend data is useful despite wide accuracy margin. Bluetooth-only requires phone nearby during measurement; two-electrode foot-to-foot BIA gives the widest accuracy margin in this comparison; Mi Fitness data export is restricted; Xiaomi's track record of discontinuing products and apps without long transition periods is a legitimate concern for multi-year data tracking.",
-      ja: "約¥3,000の超低価格体脂肪追跡枠。Mi FitnessへのBluetooth同期で体脂肪率・BMI・筋肉量・骨量・代謝率推定を計測。広い誤差幅にもかかわらず体脂肪トレンドデータは有用。Bluetoothのみのため計測時に近くにスマートフォンが必要、2電極足底BIAで本比較最大の誤差幅、Mi Fitnessのデータエクスポートが制限的、Xiaomiの移行期間の短い製品・アプリ終了実績は複数年データ追跡への正当な懸念。",
+      en: "Ultra-budget body fat tracking pick. Measures body fat, BMI, muscle mass, bone mass, and metabolic rate estimates via Bluetooth sync to Mi Fitness; body fat trend data is useful despite wide accuracy margin. Bluetooth-only requires phone nearby during measurement; two-electrode foot-to-foot BIA gives the widest accuracy margin in this comparison; Mi Fitness data export is restricted; Xiaomi's track record of discontinuing products and apps without long transition periods is a legitimate concern for multi-year data tracking.",
+      ja: "超低価格体脂肪追跡枠。Mi FitnessへのBluetooth同期で体脂肪率・BMI・筋肉量・骨量・代謝率推定を計測。広い誤差幅にもかかわらず体脂肪トレンドデータは有用。Bluetoothのみのため計測時に近くにスマートフォンが必要、2電極足底BIAで本比較最大の誤差幅、Mi Fitnessのデータエクスポートが制限的、Xiaomiの移行期間の短い製品・アプリ終了実績は複数年データ追跡への正当な懸念。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-xiaomi-body-composition-scale-2", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FXiaomi%2B%E4%BD%93%E7%B5%84%E6%88%90%E8%A8%88%2B2%2F", markets: ["JP"], approved: true },
@@ -2508,8 +2508,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📶",
     name: { en: "Anker Eufy Smart Scale P2 Pro", ja: "Anker Eufy スマート体重計 P2 Pro" },
     description: {
-      en: "~¥8,000 pragmatic middle pick. Wi-Fi sync (no phone-nearby requirement), Apple Health and Google Fit integration, 16 body metrics, clean Eufy Life app; Anker has strong Japan retail and customer service presence (Akihabara and Osaka stores, direct Japan support line). Most additional metrics beyond weight, body fat, and BMI are derived from the same two-electrode foot-to-foot BIA signal through different regression equations — not independent measurements; Eufy Life app is less mature than Withings Health Mate; brand does not carry Tanita's clinical trust in Japan.",
-      ja: "約¥8,000の実用的な中間選択肢。Wi-Fi同期（スマートフォン近接不要）・Apple HealthとGoogle Fit連携・16指標・クリーンなEufy Lifeアプリ。Ankerは日本で充実した小売・顧客サービス体制（秋葉原・大阪ストア・日本語直接サポート）を持つ。体重・体脂肪・BMI以外のほとんどの追加指標は同じ2電極足底BIA信号からの異なる回帰式による導出で独立した計測ではない、Eufy Lifeアプリの成熟度はWithings Health Mateより低い、日本でブランドはタニタの臨床的信頼性を持たない。",
+      en: "Pragmatic middle pick. Wi-Fi sync (no phone-nearby requirement), Apple Health and Google Fit integration, 16 body metrics, clean Eufy Life app; Anker has strong Japan retail and customer service presence (Akihabara and Osaka stores, direct Japan support line). Most additional metrics beyond weight, body fat, and BMI are derived from the same two-electrode foot-to-foot BIA signal through different regression equations — not independent measurements; Eufy Life app is less mature than Withings Health Mate; brand does not carry Tanita's clinical trust in Japan.",
+      ja: "実用的な中間選択肢。Wi-Fi同期（スマートフォン近接不要）・Apple HealthとGoogle Fit連携・16指標・クリーンなEufy Lifeアプリ。Ankerは日本で充実した小売・顧客サービス体制（秋葉原・大阪ストア・日本語直接サポート）を持つ。体重・体脂肪・BMI以外のほとんどの追加指標は同じ2電極足底BIA信号からの異なる回帰式による導出で独立した計測ではない、Eufy Lifeアプリの成熟度はWithings Health Mateより低い、日本でブランドはタニタの臨床的信頼性を持たない。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-anker-eufy-smart-scale-p2-pro", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BEufy%2B%E4%BD%93%E9%87%8D%E8%A8%88%2BP2%2BPro%2F", markets: ["JP"], approved: true },
@@ -2526,7 +2526,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Lululook Magnetic iPad Stand", ja: "Lululook マグネット式iPadスタンド" },
     description: {
       en: "Aluminum magnetic premium pick. Magnetic puck attaches iPad Pro 11/12.9 directly to the arm with no clamp, 360-degree rotation between portrait and landscape, weighted base for desk stability, brushed-aluminum finish that matches Apple silver/space gray. iPad-only — magnet plate is sized for iPad Pro and iPad Air and does not fit Android tablets, Kindle Fire, or smaller iPad Mini without the separately sold magnetic adapter; magnet pull weakens with the heavier 12.9-inch iPad Pro plus Magic Keyboard combination and the device can detach if knocked is at the top of the desk-stand price band.",
-      ja: "9,800-12,800円のアルミ製マグネット プレミアム枠。マグネット式パックがiPad Pro 11/12.9をクランプなしで直接アームに取り付け、縦横360度回転、机上安定性のための重量ベース、Apple シルバー/スペースグレイに合うブラッシュド アルミ仕上げ。iPad専用 — マグネット プレートはiPad ProとiPad Airサイズで、Androidタブレット・Kindle Fire・小型iPad Miniは別売マグネット アダプタなしで装着不可、12.9インチiPad Pro+Magic Keyboardの重い組合せでマグネット保持力が弱まり衝撃でデバイスが外れる可能性、9,800-12,800円は机上スタンド価格帯の上限。",
+      ja: "アルミ製マグネット プレミアム枠。マグネット式パックがiPad Pro 11/12.9をクランプなしで直接アームに取り付け、縦横360度回転、机上安定性のための重量ベース、Apple シルバー/スペースグレイに合うブラッシュド アルミ仕上げ。iPad専用 — マグネット プレートはiPad ProとiPad Airサイズで、Androidタブレット・Kindle Fire・小型iPad Miniは別売マグネット アダプタなしで装着不可、12.9インチiPad Pro+Magic Keyboardの重い組合せでマグネット保持力が弱まり衝撃でデバイスが外れる可能性、机上スタンド価格帯の上限。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-lululook-ipad-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLululook%2BiPad%2B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
@@ -2541,7 +2541,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "MOFT Float", ja: "MOFT Float" },
     description: {
       en: "Ultra-portable foldable pick. Origami-style folding fabric stand that doubles as a laptop and tablet riser, 7 angle stops between 25 and 60 degrees, weighs 280 g and folds to 8 mm thick to slide into a sleeve. Fabric and hinge construction is not as rigid as a metal desk stand — heavy drawing pressure with Apple Pencil flexes the stand visibly and stability for Procreate use is the dominant complaint in long-term reviews; fabric exterior shows wear and pilling around the hinge fold after 12-18 months of daily use; the same product is also sold as a laptop stand, so the tablet-only buyer overpays for laptop angles they may not use.",
-      ja: "8,980円の超携帯折りたたみ枠。折り紙式の折りたたみファブリック スタンドがノートPCとタブレット ライザーを兼ね、25-60度の7段階角度、重量280gで8mm厚に折りたたんでスリーブに収納可能。ファブリックとヒンジ構造はメタル机上スタンドほど剛性がない — Apple Pencilでの強い描画圧力でスタンドが目に見えてたわみ、Procreate用途の安定性は長期レビューの支配的不満、ファブリック外装は12-18ヶ月の毎日使用後にヒンジ折り目周辺で摩耗と毛玉、同製品はノートPCスタンドとしても販売されているため、タブレット専用買い手はノートPC用角度に過払いの可能性。",
+      ja: "超携帯折りたたみ枠。折り紙式の折りたたみファブリック スタンドがノートPCとタブレット ライザーを兼ね、25-60度の7段階角度、重量280gで8mm厚に折りたたんでスリーブに収納可能。ファブリックとヒンジ構造はメタル机上スタンドほど剛性がない — Apple Pencilでの強い描画圧力でスタンドが目に見えてたわみ、Procreate用途の安定性は長期レビューの支配的不満、ファブリック外装は12-18ヶ月の毎日使用後にヒンジ折り目周辺で摩耗と毛玉、同製品はノートPCスタンドとしても販売されているため、タブレット専用買い手はノートPC用角度に過払いの可能性。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-moft-float-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMOFT%2BFloat%2F", markets: ["JP"], approved: true },
@@ -2557,7 +2557,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Lamicall Adjustable Tablet Stand", ja: "Lamicall 角度調整タブレットスタンド" },
     description: {
       en: "Aluminum desk-stand value pick. Single-piece aluminum body fits 4-13 inch tablets and most phones, single-axis hinge with 270-degree tilt range, silicone pads on the cradle and base prevent scratching, weight tuned to keep iPad Pro 12.9 stable. Single-axis tilt only — no height adjustment and no swivel/rotation, so portrait-to-landscape requires lifting and re-cradling the tablet rather than a smooth rotation; one-piece hinge has no detent stops and any deliberate angle can drift over a long video call as the friction surface wears in; finishing tolerances on the cradle vary unit-to-unit and a small fraction of buyers report iPad rocking in the cradle.",
-      ja: "1,680-2,480円のアルミ机上スタンド コスパ枠。一体アルミ ボディが4-13インチのタブレットとほとんどのスマホに対応、270度傾斜範囲のシングル アクシス ヒンジ、クレードルとベースのシリコン パッドが擦り傷を防止、iPad Pro 12.9を安定させる重量調整。シングル アクシス傾斜のみ — 高さ調整なし・スイベル/回転なしで、縦横切り替えにはタブレットを持ち上げて再クレードルする必要があり滑らかな回転はできない、一体ヒンジはデテント ストップなしで長時間ビデオ通話中に摩擦面が摩耗するとどんな意図的な角度もずれる可能性、クレードルの仕上げ精度はユニット間で差があり一部買い手はクレードル内のiPadのがたつきを報告。",
+      ja: "アルミ机上スタンド コスパ枠。一体アルミ ボディが4-13インチのタブレットとほとんどのスマホに対応、270度傾斜範囲のシングル アクシス ヒンジ、クレードルとベースのシリコン パッドが擦り傷を防止、iPad Pro 12.9を安定させる重量調整。シングル アクシス傾斜のみ — 高さ調整なし・スイベル/回転なしで、縦横切り替えにはタブレットを持ち上げて再クレードルする必要があり滑らかな回転はできない、一体ヒンジはデテント ストップなしで長時間ビデオ通話中に摩擦面が摩耗するとどんな意図的な角度もずれる可能性、クレードルの仕上げ精度はユニット間で差があり一部買い手はクレードル内のiPadのがたつきを報告。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-lamicall-tablet-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLamicall%2B%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2F", markets: ["JP"], approved: true },
@@ -2573,7 +2573,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "UPERFECT Tablet Floor Stand", ja: "UPERFECT タブレット フロアスタンド" },
     description: {
       en: "Tall floor-stand pick for hands-free bed and sofa viewing. Adjustable column extends 90-150 cm tall, gooseneck arm bends to position the tablet directly over the bed or above a recipe surface, weighted footprint base, fits 4.7-12.9 inch tablets and most phones via spring-loaded clamp. Wobble at full extension is the dominant long-term complaint — at 150 cm with an iPad Pro 12.9 the gooseneck flex is visible and even small bumps to the column produce a 5-10 second oscillation that disrupts reading; weighted base footprint takes 35-40 cm of floor space that is awkward in a small Japanese bedroom; spring clamp marks the bezel of metal-edged tablets after repeated mounting and unmounting.",
-      ja: "5,980-8,980円のハンズフリー ベッド/ソファ視聴向け背の高いフロアスタンド枠。調整可能カラムが90-150cmまで伸び、グースネック アームがタブレットをベッドの真上やレシピ面の上に配置、重量フットプリント ベース、スプリング式クランプで4.7-12.9インチのタブレットとほとんどのスマホに対応。フル伸長時の揺れが支配的長期不満 — 150cmでiPad Pro 12.9を載せるとグースネックの撓みが目に見え、カラムへの小さな衝撃でも5-10秒の振動が読書を妨げる、重量ベース フットプリントは35-40cmの床面積を取り小さな日本の寝室では扱いにくい、スプリング クランプは繰り返し装着脱着でメタル エッジのタブレットのベゼルにマーキングが残る。",
+      ja: "ハンズフリー ベッド/ソファ視聴向け背の高いフロアスタンド枠。調整可能カラムが90-150cmまで伸び、グースネック アームがタブレットをベッドの真上やレシピ面の上に配置、重量フットプリント ベース、スプリング式クランプで4.7-12.9インチのタブレットとほとんどのスマホに対応。フル伸長時の揺れが支配的長期不満 — 150cmでiPad Pro 12.9を載せるとグースネックの撓みが目に見え、カラムへの小さな衝撃でも5-10秒の振動が読書を妨げる、重量ベース フットプリントは35-40cmの床面積を取り小さな日本の寝室では扱いにくい、スプリング クランプは繰り返し装着脱着でメタル エッジのタブレットのベゼルにマーキングが残る。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-uperfect-tablet-floor-stand", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%2B%E3%83%95%E3%83%AD%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%2B%E3%82%A2%E3%83%BC%E3%83%A0%2F", markets: ["JP"], approved: true },
@@ -2591,7 +2591,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Twelve South HoverBar Duo", ja: "Twelve South HoverBar Duo" },
     description: {
       en: "Premium clamp/desk arm. Spring-tensioned articulating arm with magnetic puck (separate accessory or built-in depending on year), screw-clamp mounts to desk edges 0-50 mm thick, swing-out reach 35 cm with smooth multi-axis articulation, weighted desk-base option included for non-clampable surfaces. Clamp footprint limits where you can mount — many Japanese desks have an apron that blocks the clamp throat or a thicker top than the 50 mm range, and the desk-base alternative reclaims floor and desk space the arm was supposed to free; iPad-focused magnetic plate sizing means Android tablets and older non-magnetic iPad Mini require a third-party adapter ring plus the magnetic adapter where needed pushes total cost over 15.",
-      ja: "11,800-13,800円のプレミアム クランプ/机上アーム枠。スプリング張力の関節アーム+マグネット式パック(年式により別アクセサリーまたは内蔵)、0-50mm厚の机縁にネジ クランプ取付、滑らかなマルチアクシス関節で35cmスイング可能、クランプ不可面用の重量机上ベース オプション同梱。クランプ フットプリントが取付場所を制限 — 多くの日本の机はクランプの喉を塞ぐエプロンや50mmレンジを超える厚みを持ち、机上ベース代替肢はアームが解放するはずだった床と机の面積を取り戻す、iPad中心のマグネット プレート サイジングはAndroidタブレットと旧マグネット非対応iPad Miniにサードパーティ アダプタ リングを要求、11,800-13,800円+必要時のマグネット アダプタで合計15,000円超。",
+      ja: "プレミアム クランプ/机上アーム枠。スプリング張力の関節アーム+マグネット式パック(年式により別アクセサリーまたは内蔵)、0-50mm厚の机縁にネジ クランプ取付、滑らかなマルチアクシス関節で35cmスイング可能、クランプ不可面用の重量机上ベース オプション同梱。クランプ フットプリントが取付場所を制限 — 多くの日本の机はクランプの喉を塞ぐエプロンや50mmレンジを超える厚みを持ち、机上ベース代替肢はアームが解放するはずだった床と机の面積を取り戻す、iPad中心のマグネット プレート サイジングはAndroidタブレットと旧マグネット非対応iPad Miniにサードパーティ アダプタ リングを要求、必要時のマグネット アダプタで追加コストが発生。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-twelve-south-hoverbar-duo", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTwelve%2BSouth%2BHoverBar%2F", markets: ["JP"], approved: true },
@@ -2641,7 +2641,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🤖",
     name: { en: "Autonomous SmartDesk Pro", ja: "Autonomous SmartDesk Pro スタンディングデスク" },
     description: {
-      en: "Mid-range programmable sit-stand frame with four memory presets, quieter motor than entry-level alternatives, wide desktop size and material options, and an app with posture reminders and height-change logging. Desktop top sold separately. Weakness: US brand with 2-4 week Japan import lead times; customer support for Japan-based warranty claims has mixed reviews; frame-only price excludes desktop (add ¥15,000-25,000).",
+      en: "Mid-range programmable sit-stand frame with four memory presets, quieter motor than entry-level alternatives, wide desktop size and material options, and an app with posture reminders and height-change logging. Desktop top sold separately. Weakness: US brand with 2-4 week Japan import lead times; customer support for Japan-based warranty claims has mixed reviews; frame-only, desktop top purchased separately.",
       ja: "4つのメモリープリセット・入門より静かなモーター・幅広い天板サイズ・素材オプション・姿勢リマインダーと高さ変更ログを持つアプリを備えたミドルレンジプログラマブル昇降フレーム。天板は別売。弱点：米国ブランドで日本への配送リードタイム2〜4週間；日本在住買い手の保証対応サポートが賛否両論；フレーム価格は天板を含まず（1万5千〜2万5千円追加）。",
     },
     links: [
@@ -2657,7 +2657,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🇯🇵",
     name: { en: "Okamura Swift Standing Desk", ja: "オカムラ スウィフト 昇降デスク" },
     description: {
-      en: "Japanese corporate-grade electric sit-stand desk from Okamura, Japan's dominant office furniture manufacturer. Slim profile, Japanese manufacturing standards, national service and support network, proven reliability in Japanese corporate environments. Weakness: ¥80,000+ entry price is the highest in this comparison; sold primarily through corporate procurement channels, not general retail; conservative feature set vs aggressively-spec'd Chinese alternatives.",
+      en: "Japanese corporate-grade electric sit-stand desk from Okamura, Japan's dominant office furniture manufacturer. Slim profile, Japanese manufacturing standards, national service and support network, proven reliability in Japanese corporate environments. Weakness: the highest entry price in this comparison; sold primarily through corporate procurement channels, not general retail; conservative feature set vs aggressively-spec'd Chinese alternatives.",
       ja: "日本の主要オフィス家具メーカー、オカムラの企業向け電動昇降デスク。スリムプロフィール・日本製基準・全国サービスネットワーク・日本の企業環境での実証された信頼性。弱点：8万円超の入門価格はこの比較で最高；主に法人調達チャネルで販売され一般小売ではない；積極的なスペックの中国製品と比較してフィーチャー面では保守的。",
     },
     links: [
@@ -2673,7 +2673,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🌿",
     name: { en: "Bamboo Top Standing Desk", ja: "竹 スタンディングデスク 昇降" },
     description: {
-      en: "Bamboo desktop top paired with an electric sit-stand frame, offering natural material aesthetics, anti-bacterial surface (bamboo-kun natural antimicrobial compound), and home-office warmth that melamine and MDF-core tops cannot replicate. Weakness: bamboo warps in sustained high-humidity environments — Japan's summer months (June-September, 70-90% RH) can cause cupping and edge-lift within 1-2 seasons in apartments without year-round climate control; heavier than MDF-core tops, reducing usable motor payload; ¥10,000-20,000 premium over MDF-core.",
+      en: "Bamboo desktop top paired with an electric sit-stand frame, offering natural material aesthetics, anti-bacterial surface (bamboo-kun natural antimicrobial compound), and home-office warmth that melamine and MDF-core tops cannot replicate. Weakness: bamboo warps in sustained high-humidity environments — Japan's summer months (June-September, 70-90% RH) can cause cupping and edge-lift within 1-2 seasons in apartments without year-round climate control; heavier than MDF-core tops, reducing usable motor payload; commands a premium over MDF-core tops.",
       ja: "電動昇降フレームに合わせた竹天板。天然素材の美観・抗菌表面（天然抗菌成分バンブーくん）・メラミンやMDFコアが実現できない温かいホームオフィスの雰囲気。弱点：持続高湿度環境での反り — 年中空調なし日本の夏（6〜9月、湿度70〜90%）では1〜2シーズンで湾曲・端部浮きが生じる可能性；MDFコアより重くモーター耐荷重を減少；MDFコアへの1万〜2万円プレミアム。",
     },
     price: "$449.99",
@@ -2691,8 +2691,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍎",
     name: { en: "Apple MagSafe Charger (USB-C, 2m)", ja: "Apple MagSafe充電器（USB-C、2m）" },
     description: {
-      en: "Apple's official MagSafe Charger with USB-C connector and 2m cable. 15W on iPhone 12 and later with a 20W+ USB-C PD adapter, magnetic alignment ring for reliable coil coupling, MFi-certified. Weakness: cable only, no adapter included — 15W requires a 20W+ USB-C PD adapter purchased separately (~¥2,780); charges one device only; 7.5W Qi for non-MagSafe devices; ~¥4,980 is expensive per watt versus third-party Qi2 alternatives.",
-      ja: "Apple公式MagSafe充電器、USB-Cコネクター・2mケーブル付き。20W以上のUSB-C PDアダプターでiPhone 12以降に15W供給、確実なコイルカップリングのための磁気アライメントリング、MFi認証済み。弱点：ケーブルのみ同梱でアダプターなし — 15Wには別途約2,780円の20W以上のUSB-C PDアダプターが必要；1台のみ充電；MagSafe非対応端末は7.5W Qi；約4,980円はサードパーティのQi2代替品と比べ1Wあたりのコストが高い。",
+      en: "Apple's official MagSafe Charger with USB-C connector and 2m cable. 15W on iPhone 12 and later with a 20W+ USB-C PD adapter, magnetic alignment ring for reliable coil coupling, MFi-certified. Weakness: cable only, no adapter included — 15W requires a 20W+ USB-C PD adapter purchased separately; charges one device only; 7.5W Qi for non-MagSafe devices; expensive per watt versus third-party Qi2 alternatives.",
+      ja: "Apple公式MagSafe充電器、USB-Cコネクター・2mケーブル付き。20W以上のUSB-C PDアダプターでiPhone 12以降に15W供給、確実なコイルカップリングのための磁気アライメントリング、MFi認証済み。弱点：ケーブルのみ同梱でアダプターなし — 15Wには別途20W以上のUSB-C PDアダプターが必要；1台のみ充電；MagSafe非対応端末は7.5W Qi；サードパーティのQi2代替品と比べ1Wあたりのコストが高い。",
     },
     price: "$39.00",
     links: [
@@ -2706,8 +2706,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⚡",
     name: { en: "Anker MagGo 3-in-1 Charging Station", ja: "Anker MagGo 3in1充電ステーション" },
     description: {
-      en: "MagSafe-certified 3-in-1 charging station with foldable design. Simultaneous 15W MagSafe iPhone, MFi Apple Watch fast charge, and 5W AirPods Qi pad. Weakness: 30W USB-C PD adapter required for full simultaneous charging not included (~¥2,000–4,000 extra); non-Apple devices charge at basic Qi rates; folded size larger and heavier than single-device travel options; Apple Watch arm is fixed-angle.",
-      ja: "折りたたみ式のMagSafe認証済み3in1充電ステーション。iPhone 15W MagSafe・MFi認証Apple Watchクイック充電・AirPods 5W Qiパッドを同時充電。弱点：3台フル同時充電に必要な30W USB-C PDアダプター不含（追加2,000〜4,000円）；非Appleデバイスは基本Qi速度；折りたたみ後も単体旅行用より大きく重い；Apple Watchアームが固定角。",
+      en: "MagSafe-certified 3-in-1 charging station with foldable design. Simultaneous 15W MagSafe iPhone, MFi Apple Watch fast charge, and 5W AirPods Qi pad. Weakness: 30W USB-C PD adapter required for full simultaneous charging not included (sold separately); non-Apple devices charge at basic Qi rates; folded size larger and heavier than single-device travel options; Apple Watch arm is fixed-angle.",
+      ja: "折りたたみ式のMagSafe認証済み3in1充電ステーション。iPhone 15W MagSafe・MFi認証Apple Watchクイック充電・AirPods 5W Qiパッドを同時充電。弱点：3台フル同時充電に必要な30W USB-C PDアダプター不含（別売）；非Appleデバイスは基本Qi速度；折りたたみ後も単体旅行用より大きく重い；Apple Watchアームが固定角。",
     },
     price: "$89.99",
     links: [
@@ -2721,7 +2721,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💎",
     name: { en: "Belkin BoostCharge Pro 3-in-1", ja: "Belkin BoostCharge Pro 3in1 MagSafe" },
     description: {
-      en: "MFi MagSafe 3-in-1 charging station with 15W iPhone MagSafe, MFi Apple Watch fast charge arm (5W, Series 7+), 5W AirPods Qi pad, premium fabric-wrap and aluminium build. Weakness: ~¥15,000 is the most expensive in this comparison; Apple Watch arm protrudes awkwardly, making travel packing difficult; no USB-C pass-through port; price premium over Anker MagGo is primarily build quality — charging specs are essentially identical.",
+      en: "MFi MagSafe 3-in-1 charging station with 15W iPhone MagSafe, MFi Apple Watch fast charge arm (5W, Series 7+), 5W AirPods Qi pad, premium fabric-wrap and aluminium build. Weakness: the most expensive in this comparison; Apple Watch arm protrudes awkwardly, making travel packing difficult; no USB-C pass-through port; price premium over Anker MagGo is primarily build quality — charging specs are essentially identical.",
       ja: "MFi MagSafe 3in1充電ステーション。iPhone 15W MagSafe・MFi認証Apple Watchクイック充電（5W、Series 7以降）・AirPods 5W Qiパッド、プレミアムビルド。弱点：約1万5千円で本比較最高額；Apple Watchアームが旅行収納に不便な固定角で突き出す；USB-Cパススルーポートなし；Anker MagGoとの価格差は主にビルドクオリティのみ — 充電速度はほぼ同等。",
     },
     links: [
@@ -2753,8 +2753,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "✈️",
     name: { en: "ESR HaloLock 2-in-1 Magnetic Wireless Charger (iPhone + AirPods)", ja: "ESR HaloLock 2in1 マグネット式ワイヤレス充電器（iPhone+AirPods）" },
     description: {
-      en: "Foldable MagSafe-compatible 2-in-1 travel wireless charger. MagSafe magnet ring for iPhone alignment, secondary 5W Qi AirPods pad, folds to credit-card footprint at ~12mm, USB-C input, ~¥4,000. Weakness: 7.5W iPhone only (not full 15W MagSafe — uses compatible magnets without Qi2 certification); AirPods pad is 5W Qi only; no Apple Watch spot; build quality less premium than Belkin or Anker MagGo.",
-      ja: "折りたたみ式MagSafe互換2in1旅行用ワイヤレス充電器。iPhoneアライメント用MagSafe磁石リング・5W AirPods Qiサブパッド・クレジットカードサイズに折りたたみ（厚さ約12mm）・USB-C入力・約4,000円。弱点：iPhone最大7.5W（Qi2認証なしのMagSafe互換磁石のため15W MagSafeではない）；AirPodsパッドは5W Qiのみ；Apple Watchスポットなし；ビルドクオリティがBelkinやAnker MagGoより劣る。",
+      en: "Foldable MagSafe-compatible 2-in-1 travel wireless charger. MagSafe magnet ring for iPhone alignment, secondary 5W Qi AirPods pad, folds to credit-card footprint at ~12mm, USB-C input. Weakness: 7.5W iPhone only (not full 15W MagSafe — uses compatible magnets without Qi2 certification); AirPods pad is 5W Qi only; no Apple Watch spot; build quality less premium than Belkin or Anker MagGo.",
+      ja: "折りたたみ式MagSafe互換2in1旅行用ワイヤレス充電器。iPhoneアライメント用MagSafe磁石リング・5W AirPods Qiサブパッド・クレジットカードサイズに折りたたみ（厚さ約12mm）・USB-C入力。弱点：iPhone最大7.5W（Qi2認証なしのMagSafe互換磁石のため15W MagSafeではない）；AirPodsパッドは5W Qiのみ；Apple Watchスポットなし；ビルドクオリティがBelkinやAnker MagGoより劣る。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-esr-halolock-2in1-travel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FESR%2BHaloLock%2B%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E5%85%85%E9%9B%BB%E5%99%A8%2F", markets: ["JP"], approved: true },
@@ -2768,7 +2768,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💡",
     name: { en: "BenQ ScreenBar Halo", ja: "BenQ ScreenBar Halo モニターライト" },
     description: {
-      en: "Monitor-mounted LED bar with asymmetric optics (desk illumination without screen glare), back-glow bias lighting for eye strain reduction, ambient light sensor, wireless controller, CRI 95+ claimed, 2,700–6,500K. Explicit weakness: ¥30,000+ price is a 6x multiple over Baseus for the core function; monitor-mount only, no desk stand; back-glow can be distracting in bright rooms; requires powered USB port from monitor.",
+      en: "Monitor-mounted LED bar with asymmetric optics (desk illumination without screen glare), back-glow bias lighting for eye strain reduction, ambient light sensor, wireless controller, CRI 95+ claimed, 2,700–6,500K. Explicit weakness: roughly a 6x multiple over Baseus for the core function; monitor-mount only, no desk stand; back-glow can be distracting in bright rooms; requires powered USB port from monitor.",
       ja: "非対称光学系でデスク面を照らしスクリーングレアを排除するモニター装着型LEDバー。バックグローバイアスライティング・照度センサー・ワイヤレスコントローラー・CRI 95以上（主張）・2,700〜6,500K。明確な弱点：3万円超はBaseusの6倍のプレミアム；モニター専用装着でデスクスタンドなし；明るい室内ではバックグローが眩しい場合がある；モニターの給電USBポートが必要。",
     },
     links: [
@@ -2783,7 +2783,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🎬",
     name: { en: "Elgato Key Light", ja: "Elgato Key Light クリエイター向けLEDパネル" },
     description: {
-      en: "2,500 lux LED panel for content creators, streamers, and video call professionals. 2,900–7,000K, app and Stream Deck control, soft-panel diffused output for face illumination, desk clamp mount. Explicit weakness: ¥30,000+ for face illumination only, not desk-surface lighting; requires Elgato app for meaningful control; large clamp needs desk edge 6cm+ thick.",
+      en: "2,500 lux LED panel for content creators, streamers, and video call professionals. 2,900–7,000K, app and Stream Deck control, soft-panel diffused output for face illumination, desk clamp mount. Explicit weakness: face illumination only, not desk-surface lighting; requires Elgato app for meaningful control; large clamp needs desk edge 6cm+ thick.",
       ja: "コンテンツクリエイター・配信者・ビデオ会議プロ向けの2,500ルクスLEDパネル。2,900〜7,000K・アプリとStream Deck操作・顔照明向けソフトパネル出力・クランプ装着。明確な弱点：顔照明専用で3万円超はカメラ前に立つ機会が少ない人には正当化が難しい；実質的な操作にElgatoアプリが必要；クランプはデスク端6cm以上が必要。",
     },
     links: [
@@ -2798,7 +2798,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🌞",
     name: { en: "Dyson Solarcycle Morph", ja: "Dyson Solarcycle Morph デスクランプ" },
     description: {
-      en: "Articulated desk lamp with task, ambient, and indirect light modes. Personalized light schedule, 150,000-hour LED life claim, CRI 98 claimed, 2,700–6,500K, Dyson Link app control. Explicit weakness: ¥90,000+ is ~3x the next most expensive product; heat pipe cooling requires designed angle ranges; heavy base makes repositioning effortful.",
+      en: "Articulated desk lamp with task, ambient, and indirect light modes. Personalized light schedule, 150,000-hour LED life claim, CRI 98 claimed, 2,700–6,500K, Dyson Link app control. Explicit weakness: ~3x the price of the next most expensive product; heat pipe cooling requires designed angle ranges; heavy base makes repositioning effortful.",
       ja: "タスク・アンビエント・間接照明の3モード切り替え可動デスクランプ。パーソナライズ光スケジュール・15万時間LED寿命主張・CRI 98主張・2,700〜6,500K・Dyson Linkアプリ操作。明確な弱点：9万円超は次点製品の約3倍；ヒートパイプ冷却は設計角度内での使用前提；重いベースは位置変更が面倒。",
     },
     price: "$849.99",
@@ -2829,8 +2829,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💰",
     name: { en: "Baseus i-wok Monitor Light Bar", ja: "Baseus i-wok モニターライト" },
     description: {
-      en: "Budget BenQ ScreenBar alternative under ¥5,000. USB-C powered, touch control strip, asymmetric optic for desk illumination without screen glare, clip mount for monitor bezels. Explicit weakness: lighter build than BenQ, no bias back-glow, no ambient sensor, CRI not prominently specified (likely below 80 at cool temperatures).",
-      ja: "5,000円以下のBenQ ScreenBar代替。USB-C給電・バー上タッチコントロール・グレアなし非対称光学設計・モニターベゼルクリップ装着。明確な弱点：BenQよりビルドが軽くクリップの固定力が低い；バイアスライティング（バックグロー）なし；照度センサーなし；CRIは目立つ形で非公表でクールな色温度でCRI 80以下の可能性が高い。",
+      en: "Budget BenQ ScreenBar alternative. USB-C powered, touch control strip, asymmetric optic for desk illumination without screen glare, clip mount for monitor bezels. Explicit weakness: lighter build than BenQ, no bias back-glow, no ambient sensor, CRI not prominently specified (likely below 80 at cool temperatures).",
+      ja: "BenQ ScreenBar代替。USB-C給電・バー上タッチコントロール・グレアなし非対称光学設計・モニターベゼルクリップ装着。明確な弱点：BenQよりビルドが軽くクリップの固定力が低い；バイアスライティング（バックグロー）なし；照度センサーなし；CRIは目立つ形で非公表でクールな色温度でCRI 80以下の可能性が高い。",
     },
     price: "$31.99",
     links: [
@@ -2847,7 +2847,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⌨️",
     name: { en: "Keychron Q1 Pro", ja: "Keychron Q1 Pro メカニカルキーボード" },
     description: {
-      en: "Gasket-mounted 75% layout, Bluetooth 5.1 and 2.4GHz wireless, QMK/VIA programmable firmware, full aluminum body (~2kg), south-facing RGB, hot-swap MX-compatible sockets, ~¥30,000. Explicit weakness: 2kg weight unsuitable for travel; volume knob absent on base model (knob upgrade variant only); QMK firmware has a genuine learning curve; ¥30,000 expensive for a 75% without included switches in barebones configurations.",
+      en: "Gasket-mounted 75% layout, Bluetooth 5.1 and 2.4GHz wireless, QMK/VIA programmable firmware, full aluminum body (~2kg), south-facing RGB, hot-swap MX-compatible sockets. Explicit weakness: 2kg weight unsuitable for travel; volume knob absent on base model (knob upgrade variant only); QMK firmware has a genuine learning curve; expensive for a 75% without included switches in barebones configurations.",
       ja: "ガスケットマウント75%レイアウト、Bluetooth 5.1 + 2.4GHzワイヤレス、QMK/VIA対応ファームウェア、フルアルミボディ（約2kg）、サウスフェーシングRGB、ホットスワップMX互換ソケット、約3万円。明確な弱点：約2kgで旅行・持ち運び不適、ボリュームノブはベースモデル非搭載（ノブ変種のみ）、QMKは本物の学習曲線あり、ベアボーン構成ではスイッチ別途購入が必要で3万円は高価。",
     },
     price: "$149.99",
@@ -2863,7 +2863,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏛️",
     name: { en: "HHKB Professional Hybrid Type-S", ja: "HHKB Professional Hybrid Type-S" },
     description: {
-      en: "Electrostatic capacitive Topre switches with silenced domes, ultra-quiet 60% layout, Bluetooth + USB-C, ¥35,000+. Explicit weakness: no RGB, no hot-swap, no QMK, Bluetooth-only wireless (no 2.4GHz dongle), Topre non-MX keycap stems limit aftermarket options, 60% layout requires adjustment period.",
+      en: "Electrostatic capacitive Topre switches with silenced domes, ultra-quiet 60% layout, Bluetooth + USB-C. Explicit weakness: no RGB, no hot-swap, no QMK, Bluetooth-only wireless (no 2.4GHz dongle), Topre non-MX keycap stems limit aftermarket options, 60% layout requires adjustment period.",
       ja: "静電容量無接点Topreサイレントドーム、超静音60%レイアウト、Bluetooth + USB-C、3.5万円以上。明確な弱点：RGBなし・ホットスワップなし・QMKなし・Bluetoothのみ（2.4GHzドングルなし）・Topre専用軸でキーキャップ選択肢限定・60%レイアウトは慣れが必要。",
     },
     price: "¥36,850",
@@ -2880,7 +2880,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💼",
     name: { en: "Logicool MX Keys S", ja: "Logicool MX Keys S ワイヤレスキーボード" },
     description: {
-      en: "Scissor-switch (not mechanical), low-profile, Bluetooth and Logi Bolt 2.4GHz wireless, per-key backlight, Flow multi-device switching (up to 3 devices), ~¥17,000–¥20,000. Explicit weakness: NOT a mechanical keyboard — scissor mechanism categorically different from MX or Topre; limited programmability beyond Logi Options+ macros; 1.8mm key travel divides preference.",
+      en: "Scissor-switch (not mechanical), low-profile, Bluetooth and Logi Bolt 2.4GHz wireless, per-key backlight, Flow multi-device switching (up to 3 devices). Explicit weakness: NOT a mechanical keyboard — scissor mechanism categorically different from MX or Topre; limited programmability beyond Logi Options+ macros; 1.8mm key travel divides preference.",
       ja: "シザー方式（メカニカルではない）、薄型、Bluetooth + Logi Bolt 2.4GHz、キー個別バックライト、Flowマルチデバイス切り替え（最大3台）、約1.7〜2万円。明確な弱点：メカニカルキーボードではない — シザー機構はMXやTopreとは根本的に異なる、Logi Options+以上のカスタマイズ不可、1.8mmストロークは好み次第。",
     },
     price: "¥19,191",
@@ -2898,7 +2898,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🪶",
     name: { en: "Nuphy Air75 V2", ja: "Nuphy Air75 V2 低プロファイルキーボード" },
     description: {
-      en: "Ultra-slim gasket-mounted 75%, low-profile mechanical switches, Bluetooth 5.1 and 2.4GHz wireless, aluminum chassis, hot-swap MX low-profile compatible sockets, ~¥20,000. Explicit weakness: ~2.5–3mm low-profile travel divides opinion vs standard 4mm MX; smaller enthusiast community than Keychron; shorter battery life with RGB on; slower firmware update cadence.",
+      en: "Ultra-slim gasket-mounted 75%, low-profile mechanical switches, Bluetooth 5.1 and 2.4GHz wireless, aluminum chassis, hot-swap MX low-profile compatible sockets. Explicit weakness: ~2.5–3mm low-profile travel divides opinion vs standard 4mm MX; smaller enthusiast community than Keychron; shorter battery life with RGB on; slower firmware update cadence.",
       ja: "超薄型ガスケットマウント75%、低プロファイルメカニカル、Bluetooth 5.1 + 2.4GHzワイヤレス、アルミシャシー、ホットスワップ低プロファイル互換ソケット、約2万円。明確な弱点：2.5〜3mmの低プロファイルストロークは標準4mmMXと好み分かれ、Keychronよりコミュニティ小さい、RGBオン時バッテリー短め、ファームウェア更新ペース遅め。",
     },
     links: [
@@ -2914,7 +2914,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🇯🇵",
     name: { en: "Realforce R3", ja: "Realforce R3 静電容量キーボード" },
     description: {
-      en: "Electrostatic capacitive Topre, full-size (104-key) and TKL (87-key), actuation point changer (1.5–3mm), made in Japan by Topre Corp, PBT keycaps, JIS and US ANSI layouts, ¥40,000+. Explicit weakness: no wireless on most variants, no RGB comparable to competition, heavy full-size footprint, Topre keycap ecosystem limits aftermarket, APC software requires setup.",
+      en: "Electrostatic capacitive Topre, full-size (104-key) and TKL (87-key), actuation point changer (1.5–3mm), made in Japan by Topre Corp, PBT keycaps, JIS and US ANSI layouts. Explicit weakness: no wireless on most variants, no RGB comparable to competition, heavy full-size footprint, Topre keycap ecosystem limits aftermarket, APC software requires setup.",
       ja: "静電容量無接点Topre、フルサイズ（104キー）とTKL（87キー）展開、アクチュエーションポイント変更機能（1.5〜3mm）、東プレ社の日本製、PBTキーキャップ、JIS/USレイアウト、4万円以上。明確な弱点：ほとんどの変種でワイヤレスなし、競合比較でRGB見劣り、フルサイズは重くデスク面積大、Topreキーキャップエコシステム制限あり、APCソフトウェア設定必要。",
     },
     price: "¥27,390",
@@ -2933,7 +2933,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🖱️",
     name: { en: "Logicool G Pro X Superlight 2", ja: "Logicool G Pro X Superlight 2" },
     description: {
-      en: "~¥20,000 ultra-lightweight competitive gaming mouse. 60g, HERO 25K sensor, 2000Hz polling, dual-mode Bluetooth+2.4GHz, zero clicks required to confirm pairing. Explicit weakness: ¥20,000 is premium for a mouse; right-handed only shape; zero side buttons; battery life 95 hours (less than competitors at similar prices).",
+      en: "Ultra-lightweight competitive gaming mouse. 60g, HERO 25K sensor, 2000Hz polling, dual-mode Bluetooth+2.4GHz, zero clicks required to confirm pairing. Explicit weakness: premium pricing for a mouse; right-handed only shape; zero side buttons; battery life 95 hours (less than competitors at similar prices).",
       ja: "約2万円の超軽量競技向けゲーミングマウス。60g・HERO 25Kセンサー・2000Hzポーリング・2.4GHzワイヤレス。明確な弱点：2万円はマウスとして高額、右手専用形状、サイドボタンなし、電池寿命95時間(同価格帯比較で少なめ)。",
     },
     links: [
@@ -2949,8 +2949,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🐍",
     name: { en: "Razer DeathAdder V3", ja: "Razer DeathAdder V3" },
     description: {
-      en: "~¥8,000 right-handed ergonomic gaming mouse. 59g, Focus Pro 30K sensor, wired-only standard (wireless HyperSpeed version extra), proven DeathAdder shape for medium-large right hands. Explicit weakness: wired base model only (wireless V3 HyperSpeed costs more); right-hand only; 30K DPI is marketing headroom most users never touch above 3200.",
-      ja: "約8,000円の右手用エルゴノミクスゲーミングマウス。59g・Focus Pro 30Kセンサー・基本有線モデル（ワイヤレスはHyperSpeed別売）。明確な弱点：有線モデルのみ、右手専用、30K DPIは実使用で3200以上使わない。",
+      en: "Right-handed ergonomic gaming mouse. 59g, Focus Pro 30K sensor, wired-only standard (wireless HyperSpeed version extra), proven DeathAdder shape for medium-large right hands. Explicit weakness: wired base model only (wireless V3 HyperSpeed costs more); right-hand only; 30K DPI is marketing headroom most users never touch above 3200.",
+      ja: "右手用エルゴノミクスゲーミングマウス。59g・Focus Pro 30Kセンサー・基本有線モデル（ワイヤレスはHyperSpeed別売）。明確な弱点：有線モデルのみ、右手専用、30K DPIは実使用で3200以上使わない。",
     },
     links: [
       { network: "amazon-us", productId: "B0B35DVMG7", rawUrl: "https://www.amazon.com/dp/B0B35DVMG7", markets: ["US"], approved: true },
@@ -2965,7 +2965,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏆",
     name: { en: "Logicool MX Master 3S", ja: "Logicool MX Master 3S" },
     description: {
-      en: "~¥15,000 productivity mouse. MagSpeed electromagnetic scroll wheel, 8000 DPI, Flow multi-device, USB-C charging, works on glass surfaces. Explicit weakness: 141g is heavy compared to gaming mice; not for competitive gaming; MagSpeed scroll requires adjustment period; Logi Options+ required for full customization.",
+      en: "Productivity mouse. MagSpeed electromagnetic scroll wheel, 8000 DPI, Flow multi-device, USB-C charging, works on glass surfaces. Explicit weakness: 141g is heavy compared to gaming mice; not for competitive gaming; MagSpeed scroll requires adjustment period; Logi Options+ required for full customization.",
       ja: "約1.5万円の生産性向け多機能マウス。MagSpeed電磁スクロール・8000 DPI・Flowマルチデバイス・USB-C充電・ガラス面対応。明確な弱点：141gはゲーミングマウス比較で重い、競技ゲーム非推奨、MagSpeedスクロールは慣れが必要、フル機能にLogi Options+必須。",
     },
     links: [
@@ -2996,8 +2996,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🌙",
     name: { en: "Microsoft Arc Mouse", ja: "Microsoft Arc Mouse" },
     description: {
-      en: "~¥8,000 ultra-thin foldable travel mouse. Bluetooth only, folds flat for bag carry, touch scroll strip, 1-year battery, works on most surfaces, pairs instantly with Surface and Windows. Explicit weakness: Bluetooth-only means no 2.4GHz reliability; click mechanism has limited tactile feedback; not suitable for precision gaming; the fold mechanism wears over 2-3 years of heavy travel use.",
-      ja: "約8,000円の超薄型折りたたみトラベルマウス。Bluetoothのみ、フラット折りたたみ、タッチスクロール、電池1年、Surface/Windowsとの即ペアリング。明確な弱点：Bluetoothのみで2.4GHzの安定性なし、クリック感が限定的、精密ゲーミング不向き、2〜3年ヘビー使用でヒンジが摩耗。",
+      en: "Ultra-thin foldable travel mouse. Bluetooth only, folds flat for bag carry, touch scroll strip, 1-year battery, works on most surfaces, pairs instantly with Surface and Windows. Explicit weakness: Bluetooth-only means no 2.4GHz reliability; click mechanism has limited tactile feedback; not suitable for precision gaming; the fold mechanism wears over 2-3 years of heavy travel use.",
+      ja: "超薄型折りたたみトラベルマウス。Bluetoothのみ、フラット折りたたみ、タッチスクロール、電池1年、Surface/Windowsとの即ペアリング。明確な弱点：Bluetoothのみで2.4GHzの安定性なし、クリック感が限定的、精密ゲーミング不向き、2〜3年ヘビー使用でヒンジが摩耗。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-microsoft-arc-mouse", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMicrosoft%2BArc%2BMouse%2F", markets: ["JP"], approved: true },
@@ -3014,7 +3014,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📷",
     name: { en: "Logitech Brio 505", ja: "Logicool Brio 505" },
     description: {
-      en: "~¥18,000 1080p AI webcam. 60fps, AI auto-framing tracks face movement, Show Mode for document display, USB-C, dual omnidirectional mics. Explicit weakness: 1080p not 4K despite ¥18,000 price; AI framing can jitter when moving fast; Show Mode requires specific desk angle.",
+      en: "1080p AI webcam. 60fps, AI auto-framing tracks face movement, Show Mode for document display, USB-C, dual omnidirectional mics. Explicit weakness: 1080p not 4K despite the price; AI framing can jitter when moving fast; Show Mode requires specific desk angle.",
       ja: "約1.8万円の1080p AIウェブカメラ。60fps・AI自動フレーミング・Show Mode・USB-C・デュアルマイク。明確な弱点：1.8万円で4Kではなく1080p、AI自動フレーミングは動きが速いと追跡がぶれる、Show Modeは特定の角度が必要。",
     },
     links: [
@@ -3029,8 +3029,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💰",
     name: { en: "Anker PowerConf C200", ja: "Anker PowerConf C200" },
     description: {
-      en: "~¥7,000 2K 30fps value webcam. Dual microphone with noise cancellation, autofocus, USB-A, compact design. Explicit weakness: 30fps (not 60fps); no AI framing; USB-A cable (non-detachable); noise cancellation less effective than dedicated mics.",
-      ja: "約7,000円の2K 30fps コスパウェブカメラ。デュアルノイズキャンセルマイク・オートフォーカス・USB-A・コンパクト。明確な弱点：30fps（60fpsでない）・AI自動フレームなし・USB-Aケーブル非脱着・専用マイク比較でノイキャン弱め。",
+      en: "2K 30fps value webcam. Dual microphone with noise cancellation, autofocus, USB-A, compact design. Explicit weakness: 30fps (not 60fps); no AI framing; USB-A cable (non-detachable); noise cancellation less effective than dedicated mics.",
+      ja: "2K 30fps コスパウェブカメラ。デュアルノイズキャンセルマイク・オートフォーカス・USB-A・コンパクト。明確な弱点：30fps（60fpsでない）・AI自動フレームなし・USB-Aケーブル非脱着・専用マイク比較でノイキャン弱め。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-anker-powerconf-c200", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FAnker%2BPowerConf%2BC200%2F", markets: ["JP"], approved: true },
@@ -3044,7 +3044,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🎬",
     name: { en: "Elgato Facecam Pro", ja: "Elgato Facecam Pro" },
     description: {
-      en: "~¥42,000 4K 60fps streamer webcam. Sony STARVIS 2 sensor, large aperture f/2.0, manual focus ring, no built-in mic (by design), Elgato Hub integration, Camera Hub software. Explicit weakness: ¥42,000 is 6x Anker for the same function in Zoom calls; no built-in mic requires separate mic investment; 4K streaming requires 20Mbps+ upload; Camera Hub software only.",
+      en: "4K 60fps streamer webcam. Sony STARVIS 2 sensor, large aperture f/2.0, manual focus ring, no built-in mic (by design), Elgato Hub integration, Camera Hub software. Explicit weakness: 6x the price of Anker for the same function in Zoom calls; no built-in mic requires separate mic investment; 4K streaming requires 20Mbps+ upload; Camera Hub software only.",
       ja: "約4.2万円の4K 60fpsストリーマー向けウェブカメラ。Sony STARVIS 2センサー・f/2.0大口径・マニュアルフォーカスリング・マイク非内蔵（仕様）・Elgato Hub連携。明確な弱点：4.2万円はZoom会議用途でAnkerの6倍、マイク非内蔵で別途マイク購入必須、4K配信は20Mbps+のアップロード必要、Camera Hubソフトウェア依存。",
     },
     links: [
@@ -3077,8 +3077,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💼",
     name: { en: "Microsoft LifeCam Studio", ja: "Microsoft LifeCam Studio" },
     description: {
-      en: "~¥6,000-8,000 Microsoft 1080p webcam for Teams/Office use. True Color Technology, autofocus, USB-A, seamless Teams integration, Microsoft's own video processing. Explicit weakness: aging product line with no 2026 refresh; no 4K or 60fps option; software features tied to Windows/Teams ecosystem; premium pricing for a 1080p webcam in 2026.",
-      ja: "約6,000〜8,000円のMicrosoft Teams/Office向け1080pウェブカメラ。True Color Technology・オートフォーカス・USB-A・Teamsとのシームレス連携。明確な弱点：2026年更新なしの旧製品ライン、4Kや60fps非対応、Windowsエコシステム依存、2026年に1080pで高め。",
+      en: "Microsoft 1080p webcam for Teams/Office use. True Color Technology, autofocus, USB-A, seamless Teams integration, Microsoft's own video processing. Explicit weakness: aging product line with no 2026 refresh; no 4K or 60fps option; software features tied to Windows/Teams ecosystem; premium pricing for a 1080p webcam in 2026.",
+      ja: "Microsoft Teams/Office向け1080pウェブカメラ。True Color Technology・オートフォーカス・USB-A・Teamsとのシームレス連携。明確な弱点：2026年更新なしの旧製品ライン、4Kや60fps非対応、Windowsエコシステム依存、2026年に1080pで高め。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-microsoft-lifecam-studio", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMicrosoft%2BLifeCam%2BStudio%2F", markets: ["JP"], approved: true },
@@ -3095,8 +3095,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔊",
     name: { en: "JBL Flip 6", ja: "JBL Flip 6" },
     description: {
-      en: "~¥15,000 IP67 portable speaker. 12-hour battery, PartyBoost multi-speaker linking, 360-degree passive radiator configuration. Explicit weakness: 12-hour battery is short for all-day outdoor use; passive radiator is not true omnidirectional; PartyBoost is JBL-only.",
-      ja: "約¥15,000のIP67ポータブルスピーカー。12時間バッテリー、PartyBoostマルチスピーカー連結、360度パッシブラジエーター構成。明確な弱点：12時間は終日屋外使用には短い；パッシブラジエーターは真の全指向性ではない；PartyBoostはJBL専用。",
+      en: "IP67 portable speaker. 12-hour battery, PartyBoost multi-speaker linking, 360-degree passive radiator configuration. Explicit weakness: 12-hour battery is short for all-day outdoor use; passive radiator is not true omnidirectional; PartyBoost is JBL-only.",
+      ja: "IP67ポータブルスピーカー。12時間バッテリー、PartyBoostマルチスピーカー連結、360度パッシブラジエーター構成。明確な弱点：12時間は終日屋外使用には短い；パッシブラジエーターは真の全指向性ではない；PartyBoostはJBL専用。",
     },
     links: [
       { network: "amazon-us", productId: "B09NKTPXJR", rawUrl: "https://www.amazon.com/dp/B09NKTPXJR", markets: ["US"], approved: true },
@@ -3111,8 +3111,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔊",
     name: { en: "Sony SRS-XB33", ja: "Sony SRS-XB33" },
     description: {
-      en: "~¥12,000 IP67 portable speaker. 24-hour battery, EXTRA BASS DSP mode, multi-color LED lighting, built-in microphone. Explicit weakness: EXTRA BASS causes distortion at high volumes; LED lighting reduces battery life significantly; larger and heavier than competitors.",
-      ja: "約¥12,000のIP67ポータブルスピーカー。24時間バッテリー、EXTRA BASS DSPモード、マルチカラーLEDライティング、マイク内蔵。明確な弱点：EXTRA BASSは大音量で歪みを生じる；LEDでバッテリーが大幅に短縮；競合より大きく重い。",
+      en: "IP67 portable speaker. 24-hour battery, EXTRA BASS DSP mode, multi-color LED lighting, built-in microphone. Explicit weakness: EXTRA BASS causes distortion at high volumes; LED lighting reduces battery life significantly; larger and heavier than competitors.",
+      ja: "IP67ポータブルスピーカー。24時間バッテリー、EXTRA BASS DSPモード、マルチカラーLEDライティング、マイク内蔵。明確な弱点：EXTRA BASSは大音量で歪みを生じる；LEDでバッテリーが大幅に短縮；競合より大きく重い。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-sony-srs-xb33", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSony%2BSRS-XB33%2F", markets: ["JP"], approved: true },
@@ -3126,8 +3126,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔊",
     name: { en: "Ultimate Ears BOOM 3", ja: "Ultimate Ears BOOM 3" },
     description: {
-      en: "~¥15,000 IP67 portable speaker. True 360-degree omnidirectional drivers, 15-hour battery, MagicButton one-tap playback shortcut, floats in water. Explicit weakness: cylindrical form rolls on uneven surfaces; bass less punchy than JBL Flip 6; floats on side not face-up.",
-      ja: "約¥15,000のIP67ポータブルスピーカー。真の360度全指向性ドライバー、15時間バッテリー、MagicButton1タップ再生ショートカット、水に浮く。明確な弱点：円筒形が不安定面で転がる；バスはJBL Flip 6より弱い；横向きで浮く（正面向きではない）。",
+      en: "IP67 portable speaker. True 360-degree omnidirectional drivers, 15-hour battery, MagicButton one-tap playback shortcut, floats in water. Explicit weakness: cylindrical form rolls on uneven surfaces; bass less punchy than JBL Flip 6; floats on side not face-up.",
+      ja: "IP67ポータブルスピーカー。真の360度全指向性ドライバー、15時間バッテリー、MagicButton1タップ再生ショートカット、水に浮く。明確な弱点：円筒形が不安定面で転がる；バスはJBL Flip 6より弱い；横向きで浮く（正面向きではない）。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-ultimate-ears-boom-3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUltimate%2BEars%2BBOOM%2B3%2F", markets: ["JP"], approved: true },
@@ -3141,8 +3141,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔊",
     name: { en: "Bose SoundLink Flex", ja: "Bose SoundLink Flex" },
     description: {
-      en: "~¥20,000 IP67 outdoor speaker. PositionIQ adaptive EQ adjusts to placement, 12-hour battery, floats right-side-up in water, outdoor acoustic tuning. Explicit weakness: ¥20,000 premium; 12-hour battery is tied for shortest; no large multi-speaker chain protocol.",
-      ja: "約¥20,000のIP67アウトドアスピーカー。PositionIQ置き方適応EQ、12時間バッテリー、水面で正面向き浮遊、アウトドア音響チューニング。明確な弱点：¥20,000のプレミアム価格；12時間は本比較で最短クラス；大規模マルチスピーカーチェーン非対応。",
+      en: "IP67 outdoor speaker. PositionIQ adaptive EQ adjusts to placement, 12-hour battery, floats right-side-up in water, outdoor acoustic tuning. Explicit weakness: premium pricing; 12-hour battery is tied for shortest; no large multi-speaker chain protocol.",
+      ja: "IP67アウトドアスピーカー。PositionIQ置き方適応EQ、12時間バッテリー、水面で正面向き浮遊、アウトドア音響チューニング。明確な弱点：プレミアム価格帯；12時間は本比較で最短クラス；大規模マルチスピーカーチェーン非対応。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-bose-soundlink-flex", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBose%2BSoundLink%2BFlex%2F", markets: ["JP"], approved: true },
@@ -3156,8 +3156,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔊",
     name: { en: "Anker Soundcore 3", ja: "Anker Soundcore 3" },
     description: {
-      en: "~¥5,000 IPX7 budget speaker. 24-hour battery, stereo pairing with second unit, titanium composite drivers. Explicit weakness: audible audio quality gap vs premium options at high volumes; lower maximum output; IPX7 only (no dust protection); stereo pairing only.",
-      ja: "約¥5,000のIPX7バジェットスピーカー。24時間バッテリー、2台目とのステレオペアリング、チタン複合ドライバー。明確な弱点：大音量での高価格帯との音質差は明確；最大出力が低い；防塵対応なしのIPX7のみ；ステレオペアリングのみ。",
+      en: "IPX7 budget speaker. 24-hour battery, stereo pairing with second unit, titanium composite drivers. Explicit weakness: audible audio quality gap vs premium options at high volumes; lower maximum output; IPX7 only (no dust protection); stereo pairing only.",
+      ja: "IPX7バジェットスピーカー。24時間バッテリー、2台目とのステレオペアリング、チタン複合ドライバー。明確な弱点：大音量での高価格帯との音質差は明確；最大出力が低い；防塵対応なしのIPX7のみ；ステレオペアリングのみ。",
     },
     links: [
       { network: "amazon-us", productId: "B08K86YVPD", rawUrl: "https://www.amazon.com/dp/B08K86YVPD", markets: ["US"], approved: true },
@@ -3174,7 +3174,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Tempur Original Supreme", ja: "テンピュール オリジナル スプリーム" },
     description: {
       en: "Memory-foam flagship. Original NASA-derived viscoelastic foam, deepest pressure conformance in this comparison, 10-year warranty, longest empirical durability record. 30 kg single-size weight makes delivery, rotation, and disposal a real ergonomic problem; sleeps hot in Japanese summer without air conditioning.",
-      ja: "154,000円のメモリーフォーム フラッグシップ。元祖NASA由来の粘弾性フォーム、本比較最深の体圧分散コンフォーマンス、10年保証、本比較最長の実証耐久性記録。シングルで30kg重量により配送・回転・処分が本物のエルゴノミクス問題、エアコンなしの日本の夏で暑く寝る。",
+      ja: "メモリーフォーム フラッグシップ。元祖NASA由来の粘弾性フォーム、本比較最深の体圧分散コンフォーマンス、10年保証、本比較最長の実証耐久性記録。シングルで30kg重量により配送・回転・処分が本物のエルゴノミクス問題、エアコンなしの日本の夏で暑く寝る。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-tempur-original-supreme", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTempur%2BOriginal%2BSupreme%2F", markets: ["JP"], approved: true },
@@ -3207,7 +3207,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Coala (New Coala) Mattress", ja: "コアラ(ニューコアラ)マットレス" },
     description: {
       en: "D2C trial-friendly pick. Three-layer foam construction, 120-day in-home trial with free pickup return, 10-year warranty, ships compressed in a box. Foam softness does not specifically excel for heavier sleepers (over 85 kg) or stomach sleepers; trial requires keeping packaging and mattress in returnable condition; not built for athletic recovery or aggressive lumbar support.",
-      ja: "69,900円のD2Cトライアル重視枠。3層フォーム構造、120日自宅トライアル+無料引取返品、10年保証、圧縮箱で出荷。フォームの柔らかさは重い寝者(85kg超)や伏臥位寝者には突出して優れていない、トライアルは梱包とマットレスを返品可能状態に保つ必要、アスリートのリカバリーや積極的腰部サポート向けには作られていない。",
+      ja: "D2Cトライアル重視枠。3層フォーム構造、120日自宅トライアル+無料引取返品、10年保証、圧縮箱で出荷。フォームの柔らかさは重い寝者(85kg超)や伏臥位寝者には突出して優れていない、トライアルは梱包とマットレスを返品可能状態に保つ必要、アスリートのリカバリーや積極的腰部サポート向けには作られていない。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-coala-new-mattress", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%82%A2%E3%83%A9%E3%83%9E%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
@@ -3224,7 +3224,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Casper Original", ja: "キャスパー オリジナル" },
     description: {
       en: "International D2C design pick. Four-layer foam with three-zone gradation, perforated top for airflow, 25 cm thickness, recognised Pinterest-staple aesthetic. Foam-dominant 25 cm height feels harder than expected for back sleepers under 70 kg; sleeps warm in Japanese summer without air conditioning; Japan after-sales coverage concentrated in Tokyo and Osaka.",
-      ja: "99,000円の国際D2Cデザイン枠。3ゾーングラデーションの4層フォーム、通気のための穿孔トップ、25cm厚み、認知されたPinterest定番美学。フォーム主体25cm高さは70kg未満の仰臥位寝者には想定より硬く感じる、エアコンなしの日本の夏で暑く寝る、日本のアフターサービス カバレッジは東京と大阪に集中。",
+      ja: "国際D2Cデザイン枠。3ゾーングラデーションの4層フォーム、通気のための穿孔トップ、25cm厚み、認知されたPinterest定番美学。フォーム主体25cm高さは70kg未満の仰臥位寝者には想定より硬く感じる、エアコンなしの日本の夏で暑く寝る、日本のアフターサービス カバレッジは東京と大阪に集中。",
     },
     links: [
       { network: "amazon-us", productId: "B09TQB7JPQ", rawUrl: "https://www.amazon.com/dp/B09TQB7JPQ", markets: ["US"], approved: true },
@@ -3240,7 +3240,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "NELL Mattress", ja: "NELL マットレス" },
     description: {
       en: "Hybrid pocket-coil + foam pick. 13-layer construction, pocket-coil core with three-zone gradation, 120-day in-home trial, 10-year warranty, strong motion isolation for couples. Heaviest in this comparison at roughly 30 kg making setup and disposal harder; brand has only 6 years of field data as of 2026, so the 10-year claim is not yet fully validated empirically; hybrid construction has more potential failure points than pure foam.",
-      ja: "75,000円のハイブリッド ポケットコイル+フォーム枠。13層構造、3ゾーングラデーションのポケットコイル コア、120日自宅トライアル、10年保証、カップル向け強い振動分離。約30kgで本比較最重量、セットアップと処分が難しい、ブランドは2026年時点で6年のフィールドデータしかなく10年保証主張は完全実証されていない、ハイブリッド構造は純フォームより潜在的故障点が多い。",
+      ja: "ハイブリッド ポケットコイル+フォーム枠。13層構造、3ゾーングラデーションのポケットコイル コア、120日自宅トライアル、10年保証、カップル向け強い振動分離。約30kgで本比較最重量、セットアップと処分が難しい、ブランドは2026年時点で6年のフィールドデータしかなく10年保証主張は完全実証されていない、ハイブリッド構造は純フォームより潜在的故障点が多い。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-nell-mattress", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNELL%2B%E3%83%9E%E3%83%83%E3%83%88%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
@@ -3258,7 +3258,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Breville Barista Pro BES878", ja: "ブレビル バリスタ プロ BES878" },
     description: {
       en: "Prosumer enthusiast espresso pick. 15-bar pump, 30-setting conical-burr built-in grinder, ThermoJet sub-4-second warm-up, PID temperature control, real steam wand for milk texturing. Weekly backflushing required and not optional; 2-4 week learning curve before reliably pulling balanced shots; 32 cm wide footprint dominates a Japanese apartment kitchen counter.",
-      ja: "119,800円のプロシューマー愛好家エスプレッソ枠。15-bar ポンプ、30段階の円錐バー内蔵グラインダー、ThermoJetで4秒未満の予熱、PID 温度制御、ミルクテクスチャリング用本物スチームワンド。週次バックフラッシュは必須でオプションでない、バランスショットを安定して引けるまで2-4週間の学習曲線、幅32cmのフットプリントが日本のアパート キッチン カウンターを支配。",
+      ja: "プロシューマー愛好家エスプレッソ枠。15-bar ポンプ、30段階の円錐バー内蔵グラインダー、ThermoJetで4秒未満の予熱、PID 温度制御、ミルクテクスチャリング用本物スチームワンド。週次バックフラッシュは必須でオプションでない、バランスショットを安定して引けるまで2-4週間の学習曲線、幅32cmのフットプリントが日本のアパート キッチン カウンターを支配。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-breville-barista-pro-bes878", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BBarista%2BPro%2BBES878%2F", markets: ["JP"], approved: true },
@@ -3273,7 +3273,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "De'Longhi Magnifica Start ECAM22020B", ja: "デロンギ マニフィカ スタート ECAM22020B" },
     description: {
       en: "Super-automatic one-touch espresso pick. 15-bar pump, 13-setting conical-burr built-in grinder, programmable espresso and lungo, 1.8 L tank for 60+ cups before refill. Built-in grinder runs at 78-82 dB and reliably wakes a sleeping partner through a Japanese apartment wall; uses proprietary De'Longhi water filter cartridges (Brita-incompatible); base ECAM22020B trim is manual-frother, not LatteCrema automatic milk system.",
-      ja: "98,000円の全自動ワンタッチ エスプレッソ枠。15-bar ポンプ、13段階の円錐バー内蔵グラインダー、プログラム可能エスプレッソとルンゴ、給水60+杯の1.8L タンク。内蔵グラインダーは78-82dBで稼働し日本のアパートの壁越しに寝ているパートナーを確実に起こす、デロンギ独自浄水カートリッジ(Brita非対応)を使用、ベース ECAM22020Bグレードは手動フローサーでLatteCrema自動ミルクシステムではない。",
+      ja: "全自動ワンタッチ エスプレッソ枠。15-bar ポンプ、13段階の円錐バー内蔵グラインダー、プログラム可能エスプレッソとルンゴ、給水60+杯の1.8L タンク。内蔵グラインダーは78-82dBで稼働し日本のアパートの壁越しに寝ているパートナーを確実に起こす、デロンギ独自浄水カートリッジ(Brita非対応)を使用、ベース ECAM22020Bグレードは手動フローサーでLatteCrema自動ミルクシステムではない。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-delonghi-magnifica-start-ecam22020", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%2BMagnifica%2BStart%2BECAM22020B%2F", markets: ["JP"], approved: true },
@@ -3287,7 +3287,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Balmuda The Brew K06A", ja: "バルミューダ ザ・ブリュー K06A" },
     description: {
       en: "Design-drip pick. Programmable 30-second bloom, controlled spiral drip pattern mimicking hand pour, stainless-and-glass aesthetic for Pinterest-grade kitchen photography. Brews one cup at a time with no batch capacity; carafe is uninsulated and brewed coffee drops to lukewarm within 6-8 minutes is design-tax-heavy for a single-cup drip machine compared to functional Japanese-brand alternatives.",
-      ja: "66,000円のデザイン ドリップ枠。30秒プログラム可能ブルーム、ハンドドリップを模倣する制御スパイラル ドリップ パターン、Pinterest級キッチン写真用のステンレス・ガラス美学。1度に1杯ずつ抽出でバッチ容量なし、カラフェは断熱なしで抽出されたコーヒーが6-8分以内にぬるく落ちる、機能等価の国内ブランド代替肢比1杯ドリップ機に66,000円はデザインタックス重い。",
+      ja: "デザイン ドリップ枠。30秒プログラム可能ブルーム、ハンドドリップを模倣する制御スパイラル ドリップ パターン、Pinterest級キッチン写真用のステンレス・ガラス美学。1度に1杯ずつ抽出でバッチ容量なし、カラフェは断熱なしで抽出されたコーヒーが6-8分以内にぬるく落ちる、機能等価の国内ブランド代替肢と比べ1杯ドリップ機としてデザインタックスが重い。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-balmuda-the-brew-k06a", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBalmuda%2BThe%2BBrew%2BK06A%2F", markets: ["JP"], approved: true },
@@ -3302,7 +3302,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Nespresso Vertuo Next", ja: "ネスプレッソ ヴァーチュオ ネクスト" },
     description: {
       en: "Capsule convenience pick. 30-second cup-to-button time, no grinder, no portafilter, no skill required, automatic barcode-driven brew parameter selection. Vertuo capsules each push monthly running cost to 6 for two-cup-per-day households (highest in this comparison); capsule waste is aluminium and most owners do not actually use the recycling program; format lock-in means no third-party capsule alternative.",
-      ja: "21,800円のカプセル利便性枠。ボタンからカップまで30秒、グラインダーなし、ポルタフィルターなし、技術不要、自動バーコード駆動の抽出パラメーター選択。ヴァーチュオ カプセル1個110-140円で1日2杯世帯の月運用コストを6,600-8,400円(本比較最高)に押し上げる、カプセル廃棄物はアルミニウムでほとんどのオーナーは実際にはリサイクル プログラムを使わない、形式ロックインでサードパーティ カプセル代替肢なし。",
+      ja: "カプセル利便性枠。ボタンからカップまで30秒、グラインダーなし、ポルタフィルターなし、技術不要、自動バーコード駆動の抽出パラメーター選択。ヴァーチュオ カプセル1個110-140円で1日2杯世帯の月運用コストを6,600-8,400円(本比較最高)に押し上げる、カプセル廃棄物はアルミニウムでほとんどのオーナーは実際にはリサイクル プログラムを使わない、形式ロックインでサードパーティ カプセル代替肢なし。",
     },
     links: [
       { network: "amazon-us", productId: "B084BNVMYZ", rawUrl: "https://www.amazon.com/dp/B084BNVMYZ", markets: ["US"], approved: true },
@@ -3318,7 +3318,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Tiger ACC-A060 PCO-A", ja: "タイガー ACC-A060 PCO-A" },
     description: {
       en: "Practical Japanese drip pick. Bloom function, stainless thermos carafe holding drinkable temperature for 4-6 hours, 0.81 L capacity for 6 cups per cycle, removable mesh filter, full Tiger Japan after-sales network. Bloom time is on the short side (15-20 seconds versus Balmuda's 30 seconds) and limits cup quality with light-roast specialty beans; built-in grinder (where included) is flat-blade not conical-burr with less uniform particle distribution; design is functional-Japanese-appliance, not Pinterest-photogenic.",
-      ja: "32,800円の実用日本ドリップ枠。蒸らし機能、4-6時間飲み頃温度を保つステンレス サーモス カラフェ、サイクル6杯の0.81L 容量、取り外し可能メッシュ フィルター、タイガー日本全国アフターサービス網。蒸らし時間が短め(15-20秒、バルミューダの30秒に対し)でライト ロースト スペシャルティ豆ではカップ品質を制限、内蔵グラインダー(含まれる場合)はフラット ブレード型で円錐バーではなく粒度分布が均一でない、デザインは機能的-日本家電でPinterest映えしない。",
+      ja: "実用日本ドリップ枠。蒸らし機能、4-6時間飲み頃温度を保つステンレス サーモス カラフェ、サイクル6杯の0.81L 容量、取り外し可能メッシュ フィルター、タイガー日本全国アフターサービス網。蒸らし時間が短め(15-20秒、バルミューダの30秒に対し)でライト ロースト スペシャルティ豆ではカップ品質を制限、内蔵グラインダー(含まれる場合)はフラット ブレード型で円錐バーではなく粒度分布が均一でない、デザインは機能的-日本家電でPinterest映えしない。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-tiger-acc-a060", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTiger%2BACC-A060%2F", markets: ["JP"], approved: true },
@@ -3334,7 +3334,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "De'Longhi Dedica EC685", ja: "デロンギ Dedica EC685" },
     description: {
       en: "Slim semi-automatic entry point at 15 cm wide — the narrowest in this comparison. 15-bar pump, accepts ground coffee and ESE pods. Ships with pressurised basket that masks grind errors but limits shot quality ceiling; no built-in grinder.",
-      ja: "25,000円のスリム半自動エントリー、幅15cm — 本比較最小幅。15barポンプ、グラウンドコーヒーとESEポッド両対応。グラインドエラーを隠すが品質天井を制限する加圧式バスケット付属、内蔵グラインダーなし。",
+      ja: "スリム半自動エントリー、幅15cm — 本比較最小幅。15barポンプ、グラウンドコーヒーとESEポッド両対応。グラインドエラーを隠すが品質天井を制限する加圧式バスケット付属、内蔵グラインダーなし。",
     },
     links: [
       { network: "amazon-us", productId: "B01N0B1Z21", rawUrl: "https://www.amazon.com/dp/B01N0B1Z21", markets: ["US"], approved: true },
@@ -3350,7 +3350,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Breville Barista Express BES870", ja: "ブレビル バリスタ エクスプレス BES870" },
     description: {
       en: "Enthusiast semi-automatic with PID temperature control, 16-setting conical burr grinder, 54mm portafilter. Highest shot quality ceiling in this comparison when dialed in. Sold in Japan through Branca. Single boiler requires 30-45s wait between espresso and steam; 2-4 week dialing-in period.",
-      ja: "90,000円の愛好家向け半自動機、PID温度制御・16段階円錐バーグラインダー・54mmポルタフィルター搭載。ダイヤルイン時の本比較最高ショット品質。ブランカ経由で日本販売。シングルボイラーは抽出とスチームの切り替えに30-45秒待機、安定ショットまで2-4週間のダイヤルイン期間。",
+      ja: "愛好家向け半自動機、PID温度制御・16段階円錐バーグラインダー・54mmポルタフィルター搭載。ダイヤルイン時の本比較最高ショット品質。ブランカ経由で日本販売。シングルボイラーは抽出とスチームの切り替えに30-45秒待機、安定ショットまで2-4週間のダイヤルイン期間。",
     },
     links: [
       { network: "amazon-us", productId: "B00CH9QWOU", rawUrl: "https://www.amazon.com/dp/B00CH9QWOU", markets: ["US"], approved: true },
@@ -3366,7 +3366,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "De'Longhi Magnifica S ECAM22.110", ja: "デロンギ マグニフィカS ECAM22.110" },
     description: {
       en: "Fully automatic bean-to-cup pick. One button press from whole beans to espresso shot. 7-setting grinder, manual Pannarello steam wand for milk drinks. Grinder runs at 75-78 dB; daily auto-rinse cycle on startup adds wait. De'Longhi Japan after-sales support strongest in this comparison.",
-      ja: "65,000円の全自動豆から1杯ピック。ホールビーンからエスプレッソショットまでワンボタン。7段階グラインダー、手動パナレロ スチームワンド付き。グラインダーは75-78dBで稼働、起動時の自動リンサイクルが待機を追加。デロンギ日本のアフターサービスが本比較最充実。",
+      ja: "全自動豆から1杯ピック。ホールビーンからエスプレッソショットまでワンボタン。7段階グラインダー、手動パナレロ スチームワンド付き。グラインダーは75-78dBで稼働、起動時の自動リンサイクルが待機を追加。デロンギ日本のアフターサービスが本比較最充実。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-delonghi-magnifica-s-ecam22110", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%2BMagnifica%2BS%2BECAM22%2F", markets: ["JP"], approved: true },
@@ -3383,7 +3383,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Philips Series 2200 EP2220/14", ja: "フィリップス シリーズ2200 EP2220/14" },
     description: {
       en: "Compact fully automatic with AquaClean filter eliminating descaling when maintained. 12-setting ceramic grinder (quieter and cooler than steel burrs). No LatteGo automatic milk system — manual steam wand only. AquaClean cartridge replacement (1 every 2-3 months) replaces descaling as primary maintenance.",
-      ja: "45,000円のコンパクト全自動機、メンテ維持時にデスケーリング不要なAquaCleanフィルター付き。12段階セラミックグラインダー(スチールバーより静かで低温)。LatteGo自動ミルクシステムなし — 手動スチームワンドのみ。AquaCleanカートリッジ交換(¥1,500-2,000/2-3ヶ月)がデスケーリングに代わる主要メンテ。",
+      ja: "コンパクト全自動機、メンテ維持時にデスケーリング不要なAquaCleanフィルター付き。12段階セラミックグラインダー(スチールバーより静かで低温)。LatteGo自動ミルクシステムなし — 手動スチームワンドのみ。AquaCleanカートリッジ交換(¥1,500-2,000/2-3ヶ月)がデスケーリングに代わる主要メンテ。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-philips-series-2200-ep2220", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPhilips%2BEP2220%2F", markets: ["JP"], approved: true },
@@ -3463,8 +3463,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🎯",
     name: { en: "Fellow Stagg EKG Electric Kettle", ja: "Fellow Stagg EKG ケトル" },
     description: {
-      en: "Precision pour-over electric gooseneck benchmark. 0.9 L, counterbalanced handle, continuous temperature dial (~60–100°C), 60-min keep-warm, matte black. US$165+ import price; 0.9 L tight for back-to-back brews; Japan availability varies with multi-week stockouts.",
-      ja: "精密ポアオーバー電気グースネックベンチマーク。0.9L・カウンターバランスハンドル・連続温度ダイヤル（約60〜100°C）・60分保温・マットブラック。US$165+の輸入価格、連続注ぎには0.9Lが手狭、日本での入手可能性は変動し複数週間の在庫切れあり。",
+      en: "Precision pour-over electric gooseneck benchmark. 0.9 L, counterbalanced handle, continuous temperature dial (~60–100°C), 60-min keep-warm, matte black. Import-only availability; 0.9 L tight for back-to-back brews; Japan availability varies with multi-week stockouts.",
+      ja: "精密ポアオーバー電気グースネックベンチマーク。0.9L・カウンターバランスハンドル・連続温度ダイヤル（約60〜100°C）・60分保温・マットブラック。輸入品につき入手経路が限られ、連続注ぎには0.9Lが手狭、日本での入手可能性は変動し複数週間の在庫切れあり。",
     },
     links: [
       { network: "amazon-us", productId: "B07DTFZK5K", rawUrl: "https://www.amazon.com/dp/B07DTFZK5K", markets: ["US"], approved: true },
@@ -3481,7 +3481,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Vitamix A3500i", ja: "Vitamix A3500i" },
     description: {
       en: "Prosumer countertop pick. 1500 W peak / 1100-1200 W continuous brushless motor with 7-year warranty including motor coverage, 2.0 L Tritan container, laser-cut hammermill 4-blade assembly, smart pairing program presets via Bluetooth, the only blender in this comparison that does all five common tasks (smoothies, hot soup via friction heating, nut butter, ice crushing, dry grain) competently. 143 is firmly into the prosumer investment tier and overkill for households that do not blend daily; 2.0 L container is too large for one-person smoothies (cavitation when underfilled below 500 mL); 22×21×44 cm footprint with 11.8 kg weight dominates a Japanese apartment counter; operating noise reaches 88-92 dB at full speed during ice crushing.",
-      ja: "143,000円のプロシューマー カウンタートップ枠。モーター カバー含む7年保証付き1500Wピーク/1100-1200W連続ブラシレス モーター、2.0L Tritan容器、レーザーカット ハマーミル4枚ブレード アセンブリ、Bluetooth経由スマート ペアリング プログラム プリセット、本比較で全5一般タスク(スムージー・摩擦加熱による温かいスープ・ナッツバター・かき氷・乾物)を器用にこなす唯一のブレンダー。143,000円はプロシューマー投資ティアに明確に入り毎日ブレンドしない家庭にはオーバーキル、2.0L容器は1人用スムージーには大きすぎ500mL未満で過充填するとキャビテーション、22×21×44cmフットプリントと11.8kg重量が日本のアパート カウンターを支配、動作音はかき氷フルスピードで88-92dBに達する。",
+      ja: "プロシューマー カウンタートップ枠。モーター カバー含む7年保証付き1500Wピーク/1100-1200W連続ブラシレス モーター、2.0L Tritan容器、レーザーカット ハマーミル4枚ブレード アセンブリ、Bluetooth経由スマート ペアリング プログラム プリセット、本比較で全5一般タスク(スムージー・摩擦加熱による温かいスープ・ナッツバター・かき氷・乾物)を器用にこなす唯一のブレンダー。プロシューマー投資ティアに明確に入り毎日ブレンドしない家庭にはオーバーキル、2.0L容器は1人用スムージーには大きすぎ500mL未満で過充填するとキャビテーション、22×21×44cmフットプリントと11.8kg重量が日本のアパート カウンターを支配、動作音はかき氷フルスピードで88-92dBに達する。",
     },
     links: [
       { network: "amazon-us", productId: "B00TG45WOM", rawUrl: "https://www.amazon.com/dp/B00TG45WOM", markets: ["US"], approved: true },
@@ -3513,7 +3513,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "TESCOM Pure Natura TM856", ja: "テスコム ピュアナチュラ TM856" },
     description: {
       en: "Mid-tier glass-jar pick. 1.0 L heat-resistant glass jar accepts hot stovetop soup directly (rated 60-80°C input, briefly 90°C), 6-blade stainless-steel ice-crush assembly, 600 W brushed motor sufficient for routine smoothies and soups, four program presets, variable-speed knob with pulse, TESCOM Japan domestic service network, 1-year manufacturer warranty. Glass jar weighs 1.5 kg empty and 2.5-3.0 kg full (one-handed lifting awkward for users with weak grip strength); 600 W brushed motor cannot sustain nut butter blends and manual specifies 90-second maximum continuous run with mandatory 1-minute rest cycles; glass jar shatters on tile-floor drops with 2-3 meter cleanup radius; 200-500 hour brush life implies 4-6 year practical lifespan with moderate household use.",
-      ja: "9,900円のミッドティア ガラスジャー枠。コンロからの熱スープを直接受け入れる1.0L耐熱ガラスジャー(60-80°C入力定格、瞬間的に90°C)、6枚ステンレス スチール かき氷ブレード アセンブリ、ルーティン スムージーとスープに十分な600Wブラシ式モーター、4プログラム プリセット、パルス付き可変速ノブ、テスコム ジャパン国内サービス網、1年メーカー保証。ガラスジャーは空1.5kg、満杯2.5-3.0kg(握力が弱いユーザーには片手リフトが扱いにくい)、600Wブラシ式モーターはナッツバター ブレンドを維持できずマニュアルが1分の必須休止サイクル付き90秒最大連続稼働を指定、ガラスジャーはタイル床落下で2-3メートル清掃半径で割れる、200-500時間ブラシ寿命は中程度の家庭使用4-6年の実用寿命を含意。",
+      ja: "ミッドティア ガラスジャー枠。コンロからの熱スープを直接受け入れる1.0L耐熱ガラスジャー(60-80°C入力定格、瞬間的に90°C)、6枚ステンレス スチール かき氷ブレード アセンブリ、ルーティン スムージーとスープに十分な600Wブラシ式モーター、4プログラム プリセット、パルス付き可変速ノブ、テスコム ジャパン国内サービス網、1年メーカー保証。ガラスジャーは空1.5kg、満杯2.5-3.0kg(握力が弱いユーザーには片手リフトが扱いにくい)、600Wブラシ式モーターはナッツバター ブレンドを維持できずマニュアルが1分の必須休止サイクル付き90秒最大連続稼働を指定、ガラスジャーはタイル床落下で2-3メートル清掃半径で割れる、200-500時間ブラシ寿命は中程度の家庭使用4-6年の実用寿命を含意。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-tescom-tm856", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTESCOM%2BTM856%2F", markets: ["JP"], approved: true },
@@ -3530,7 +3530,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "OXO On Compact Blender", ja: "OXO On Compact Blender" },
     description: {
       en: "Design-compact pick. 1.0 L Tritan container with OXO signature non-slip silicone base, 600 W brushless DC motor (only sub-Vitamix blender in this comparison with brushless durability), three program presets, OXO Good Grips usability detailing dominant on Pinterest US-kitchen-aesthetic since 2018, dishwasher-safe top-rack Tritan, 2-year limited warranty backed by OXO Japan distribution at Tokyu Hands and Loft. 39 is roughly 4x TESCOM TM856 on broadly equivalent functional spec — paying for OXO brand, brushless motor, and design polish rather than performance step-change; 1.0 L container is borderline-too-small for family meal-prep batches and borderline-too-large for one-person smoothies; US-import distribution in Japan means stock fluctuations on specific colorways with 4-8 week stockout and 2-3 week replacement-part lead times; 600 W motor cannot match Vitamix 1500 W for sustained ice crushing or nut butter.",
-      ja: "39,800円のデザイン コンパクト枠。OXOシグネチャーの滑り止めシリコーン ベース付き1.0L Tritan容器、600Wブラシレス DCモーター(本比較でVitamix未満の唯一のブラシレス耐久性ブレンダー)、3プログラム プリセット、2018年以来Pinterest米キッチン美学を支配するOXO Good Grips使い勝手細部、食洗機対応上段Tritan、Tokyu HandsとLoftでのOXO ジャパン配給バックの2年限定保証。39,800円は広く等価な機能スペックでテスコム TM856の約4倍 — 性能のステップ チェンジではなくOXOブランド・ブラシレス モーター・デザイン磨きに支払う、1.0L容器は家族の食事準備バッチには境界線で小さすぎ1人用スムージーには境界線で大きすぎ、日本での米輸入配給は特定カラーで4-8週間在庫切れと2-3週間交換部品リード タイムを意味する、600Wモーターは持続的かき氷やナッツバターでVitamixの1500Wに匹敵できない。",
+      ja: "デザイン コンパクト枠。OXOシグネチャーの滑り止めシリコーン ベース付き1.0L Tritan容器、600Wブラシレス DCモーター(本比較でVitamix未満の唯一のブラシレス耐久性ブレンダー)、3プログラム プリセット、2018年以来Pinterest米キッチン美学を支配するOXO Good Grips使い勝手細部、食洗機対応上段Tritan、Tokyu HandsとLoftでのOXO ジャパン配給バックの2年限定保証。広く等価な機能スペックでテスコム TM856の約4倍の価格 — 性能のステップ チェンジではなくOXOブランド・ブラシレス モーター・デザイン磨きに支払う、1.0L容器は家族の食事準備バッチには境界線で小さすぎ1人用スムージーには境界線で大きすぎ、日本での米輸入配給は特定カラーで4-8週間在庫切れと2-3週間交換部品リード タイムを意味する、600Wモーターは持続的かき氷やナッツバターでVitamixの1500Wに匹敵できない。",
     },
     links: [
       { network: "amazon-us", productId: "B07RWZJGT3", rawUrl: "https://www.amazon.com/dp/B07RWZJGT3", markets: ["US"], approved: true },
@@ -3563,7 +3563,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Cubo Ai Plus", ja: "Cubo Ai Plus" },
     description: {
       en: "AI premium pick plus 1/month Cubo Ai Plus Care subscription after 6-12 month free trial. 1080p video at 130-degree field of view, AI face-covered detection, AI rollover detection, AI danger-zone detection, AI cry classification, 18-piece lullaby library, two-way audio, manual privacy shutter, smartphone app as primary parent unit. Subscription is mandatory for the AI features that justify the price gap — without subscription, Cubo Ai degrades to a 1080p motion-alert camera that competitors sell; total 5-year cost is approximately 39,800 + (1,500 × 60) = 129, roughly double the box price. WiFi-cloud architecture means complete dependency on Cubo Ai's cloud service (multi-day outage in 2024 locked thousands of parents out of remote viewing). AI false-positive rate produces 1-3 alerts per night for typical 6-12 month olds and parents report alert fatigue; security model requires strong password and 2FA discipline (2022 Australia credential-stuffing incident).",
-      ja: "39,800円のAIプレミアム枠と6-12ヶ月無料試用後の月1,400-1,800円Cubo Ai Plus Careサブスク。1080pビデオ130度視野角、AI顔覆われ検知、AI寝返り検知、AI危険ゾーン検知、AI泣き声分類、18曲子守唄ライブラリ、双方向オーディオ、手動プライバシー シャッター、主要親ユニットとしてのスマホ アプリ。サブスクは価格差を正当化するAI機能のため必須 — サブスクなしではCubo Aiは競合が17,000円で売る1080pモーション アラート カメラに劣化、5年合計コストは約39,800 + (1,500 × 60) = 129,800円で箱価格の2倍。WiFiクラウド アーキテクチャはCubo Aiクラウド サービスへの完全依存を意味(2024年複数日障害が数千の親をリモート視聴からロック アウト)。AI誤検知率は典型6-12ヶ月児で1晩1-3アラートを生み親はアラート疲労を報告、セキュリティ モデルは強いパスワードと2FA規律を要求(2022年オーストラリア資格情報スタッフィング事案)。",
+      ja: "AIプレミアム枠と6-12ヶ月無料試用後の月1,400-1,800円Cubo Ai Plus Careサブスク。1080pビデオ130度視野角、AI顔覆われ検知、AI寝返り検知、AI危険ゾーン検知、AI泣き声分類、18曲子守唄ライブラリ、双方向オーディオ、手動プライバシー シャッター、主要親ユニットとしてのスマホ アプリ。サブスクは価格差を正当化するAI機能のため必須 — サブスクなしではCubo Aiは競合が安価に売る1080pモーション アラート カメラに劣化、サブスクを含む5年合計コストは本体価格の約2倍。WiFiクラウド アーキテクチャはCubo Aiクラウド サービスへの完全依存を意味(2024年複数日障害が数千の親をリモート視聴からロック アウト)。AI誤検知率は典型6-12ヶ月児で1晩1-3アラートを生み親はアラート疲労を報告、セキュリティ モデルは強いパスワードと2FA規律を要求(2022年オーストラリア資格情報スタッフィング事案)。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-cubo-ai-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FCubo%2BAi%2BPlus%2F", markets: ["JP"], approved: true },
@@ -3580,7 +3580,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Anker Eufy SpaceView Pro", ja: "Anker Eufy SpaceView Pro" },
     description: {
       en: "WiFi-free mid-tier pick. 5-inch dedicated parent screen on closed 2.4 GHz radio link, 720p video, 110-degree pan-and-tilt camera with 4x digital zoom, infrared night vision rated 4-5 meters, two-way audio with VOX, 8 lullaby presets, expandable to 4 cameras on a single screen, no WiFi, no app, no cloud, no subscription. Zero remote viewing — cannot check on the baby from outside the radio range (50 meters line-of-sight, less through walls); 720p resolution is below the WiFi-camera tier and visible on the 5-inch screen at 2-4 meter distances; no AI face-down or rollover detection; parent screen is a single failure point with no app fallback and replacement screens are 8 with frequent stockouts.",
-      ja: "17,800円のWiFiなしミッドティア枠。閉じた2.4 GHz無線リンク上の5型専用親画面、720pビデオ、4倍デジタル ズーム付き110度パンチルト カメラ、4-5メートル定格赤外線暗視、VOX付き双方向オーディオ、8つの子守唄プリセット、1画面に4台のカメラに拡張可能、WiFiなし・アプリなし・クラウドなし・サブスクなし。ゼロ リモート視聴 — 無線範囲外(50メートル見通し、壁を通すとそれ以下)から赤ちゃんを確認できない、720p解像度はWiFiカメラ ティアより低く5型画面の2-4m距離で見える、AIうつぶせまたは寝返り検知なし、親画面はアプリ フォールバックなしの単一故障点で交換画面は8,000-12,000円で頻繁な在庫切れ。",
+      ja: "WiFiなしミッドティア枠。閉じた2.4 GHz無線リンク上の5型専用親画面、720pビデオ、4倍デジタル ズーム付き110度パンチルト カメラ、4-5メートル定格赤外線暗視、VOX付き双方向オーディオ、8つの子守唄プリセット、1画面に4台のカメラに拡張可能、WiFiなし・アプリなし・クラウドなし・サブスクなし。ゼロ リモート視聴 — 無線範囲外(50メートル見通し、壁を通すとそれ以下)から赤ちゃんを確認できない、720p解像度はWiFiカメラ ティアより低く5型画面の2-4m距離で見える、AIうつぶせまたは寝返り検知なし、親画面はアプリ フォールバックなしの単一故障点で交換画面は頻繁な在庫切れ。",
     },
     links: [
       { network: "amazon-us", productId: "B082K9VP2F", rawUrl: "https://www.amazon.com/dp/B082K9VP2F", markets: ["US"], approved: true },
@@ -3596,7 +3596,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Nanit Pro Smart Camera", ja: "Nanit Pro Smart Camera" },
     description: {
       en: "Data-analytics premium pick plus 1/month Nanit Insights subscription. 1080p HDR video at 130-degree field of view, AI breathing-motion detection (requires Nanit Breathing Wear sold separately per garment outgrown every 3-4 months), AI sleep-quality scoring, growth-tracking via Smart Sheet, two-way audio, Apple HomeKit and Google Home integration. Breathing-motion detection requires the dedicated Nanit Breathing Wear that is sold separately and outgrown every 3-4 months — hidden recurring cost most reviews skip; growth-tracking via Smart Sheet requires actively photographing the baby on the sheet with wildly variable accuracy depending on photo angle (clinicians do not accept Nanit measurements as substitute for in-clinic measurement); Nanit Insights subscription unlocks sleep-analytics features that justify the price gap; wall-mount installation requires drilling above the crib and Japanese rental apartments often prohibit this.",
-      ja: "45,000円のデータ分析プレミアム枠と月1,500-2,500円Nanit Insightsサブスク。1080p HDRビデオ130度視野角、AI呼吸モーション検知(別売Nanit Breathing Wearを1着4,500-6,500円・3-4ヶ月毎に大きくなって脱ぐ必要)、AI睡眠品質スコアリング、Smart Sheet経由成長記録、双方向オーディオ、Apple HomeKitとGoogle Home統合。呼吸モーション検知は別売で3-4ヶ月毎に脱ぐ専用Nanit Breathing Wearを必要 — ほとんどのレビューがスキップする隠れた繰り返しコスト、Smart Sheet経由成長記録は写真角度と赤ちゃんのポーズで極めて変動する精度で能動的に赤ちゃんを撮影することを必要(臨床医はNanit測定をクリニック内測定の代替として受け入れない)、Nanit Insightsサブスクは価格差を正当化する睡眠分析機能を解放、wall-mountインストールはcrib上の壁穴開けを必要で日本の賃貸アパートはしばしば禁止。",
+      ja: "データ分析プレミアム枠と月1,500-2,500円Nanit Insightsサブスク。1080p HDRビデオ130度視野角、AI呼吸モーション検知(別売Nanit Breathing Wearを1着4,500-6,500円・3-4ヶ月毎に大きくなって脱ぐ必要)、AI睡眠品質スコアリング、Smart Sheet経由成長記録、双方向オーディオ、Apple HomeKitとGoogle Home統合。呼吸モーション検知は別売で3-4ヶ月毎に脱ぐ専用Nanit Breathing Wearを必要 — ほとんどのレビューがスキップする隠れた繰り返しコスト、Smart Sheet経由成長記録は写真角度と赤ちゃんのポーズで極めて変動する精度で能動的に赤ちゃんを撮影することを必要(臨床医はNanit測定をクリニック内測定の代替として受け入れない)、Nanit Insightsサブスクは価格差を正当化する睡眠分析機能を解放、wall-mountインストールはcrib上の壁穴開けを必要で日本の賃貸アパートはしばしば禁止。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-nanit-pro-smart-camera", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNanit%2BPro%2BSmart%2BCamera%2F", markets: ["JP"], approved: true },
@@ -3611,7 +3611,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Owlet Cam 2", ja: "Owlet Cam 2" },
     description: {
       en: "Streaming-video WiFi camera pick plus optional 800-1/month Owlet Premium subscription for cloud video history. 1080p HDR video at 130-degree field of view, two-way audio, motion and sound alerts with configurable sensitivity, infrared night vision rated 3-4 meters, smartphone app as primary parent unit, Apple HomeKit integration, integrates with Owlet Dream Sock if purchased separately for pulse-oximetry tracking. WiFi is required for camera-to-app connection — no local-only mode and a router outage means camera is unreachable even on same home WiFi (intermittent app-disconnect with 30-60-second alert delays during WiFi congestion is dominant complaint in long-term reviews); company history includes 2021 FDA warning letter and 2-year re-launch period and parents should read FDA's letter and Owlet's response before purchasing — current Cam 2 is FDA-cleared as wellness consumer electronics not as SIDS-prevention or medical-monitoring device; no AI face-covered or rollover detection.",
-      ja: "28,800円のストリーミング ビデオWiFiカメラ枠とオプションの月800-1,500円Owlet Premiumサブスク クラウド ビデオ履歴。1080p HDRビデオ130度視野角、双方向オーディオ、設定可能感度のモーションと音アラート、3-4メートル定格赤外線暗視、主要親ユニットとしてのスマホ アプリ、Apple HomeKit統合、別購入時のパルス オキシメトリ追跡用Owlet Dream Sockとの統合。WiFiはカメラ-アプリ接続に必須 — ローカルのみモードなし、ルーター障害は同じ家庭WiFi上でもカメラが到達不可を意味(WiFi混雑期間中30-60秒アラート遅延の間欠的アプリ切断は長期レビューの支配的不満)、会社履歴は2021年FDA警告書と2年再ローンチ期間を含み親は購入前にFDAの書簡とOwletの応答を読むべき — 現Cam 2はSIDS予防または医療監視デバイスではなくウェルネス家電としてFDA認可、AI顔覆われや寝返り検知なし。",
+      ja: "ストリーミング ビデオWiFiカメラ枠とオプションの月800-1,500円Owlet Premiumサブスク クラウド ビデオ履歴。1080p HDRビデオ130度視野角、双方向オーディオ、設定可能感度のモーションと音アラート、3-4メートル定格赤外線暗視、主要親ユニットとしてのスマホ アプリ、Apple HomeKit統合、別購入時のパルス オキシメトリ追跡用Owlet Dream Sockとの統合。WiFiはカメラ-アプリ接続に必須 — ローカルのみモードなし、ルーター障害は同じ家庭WiFi上でもカメラが到達不可を意味(WiFi混雑期間中30-60秒アラート遅延の間欠的アプリ切断は長期レビューの支配的不満)、会社履歴は2021年FDA警告書と2年再ローンチ期間を含み親は購入前にFDAの書簡とOwletの応答を読むべき — 現Cam 2はSIDS予防または医療監視デバイスではなくウェルネス家電としてFDA認可、AI顔覆われや寝返り検知なし。",
     },
     links: [
       { network: "amazon-us", productId: "B09BW6RKRN", rawUrl: "https://www.amazon.com/dp/B09BW6RKRN", markets: ["US"], approved: true },
@@ -3627,7 +3627,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Babysense V65 5-inch", ja: "Babysense V65 5型" },
     description: {
       en: "Budget WiFi-free pick. 5-inch dedicated parent screen, 720p video, 110-degree fixed-position camera (no pan-and-tilt), infrared night vision rated 3-4 meters, two-way audio with VOX, 8 lullaby presets, temperature sensor, expandable to 4 cameras, no WiFi, no app, no cloud, no subscription. No AI features whatsoever — streaming video monitor with motion alerts and audio activation only; 720p resolution and fixed-position camera mean you set the camera angle once at installation and accept the baby may move out of frame as they grow into crawling; parent screen battery rated 8 hours degrades to 4-5 hours after 12-18 months of use with replacement screens and frequent stockouts; brand recognition in Japan is weaker than Anker Eufy or Cubo Ai with mixed after-sales support reviews (1-3 week support-ticket response times).",
-      ja: "18,900円の予算WiFiなし枠。5型専用親画面、720pビデオ、110度固定位置カメラ(パンチルトなし)、3-4メートル定格赤外線暗視、VOX付き双方向オーディオ、8つの子守唄プリセット、温度センサー、4台拡張可能、WiFiなし・アプリなし・クラウドなし・サブスクなし。AI機能ゼロ — モーション アラートと音声起動のみのストリーミング ビデオ モニター、720p解像度と固定位置カメラはインストール時に1度カメラ角度を設定し赤ちゃんが這う段階に成長するとframe外に出るかもしれないことを受け入れることを意味、8時間定格親画面バッテリーは12-18ヶ月使用後に4-5時間に劣化し交換画面は7,000-9,000円で頻繁な在庫切れ、日本でのブランド認知度はAnker EufyやCubo Aiより弱く混在するアフターサービス サポート レビュー(1-3週間サポート チケット応答時間)。",
+      ja: "予算WiFiなし枠。5型専用親画面、720pビデオ、110度固定位置カメラ(パンチルトなし)、3-4メートル定格赤外線暗視、VOX付き双方向オーディオ、8つの子守唄プリセット、温度センサー、4台拡張可能、WiFiなし・アプリなし・クラウドなし・サブスクなし。AI機能ゼロ — モーション アラートと音声起動のみのストリーミング ビデオ モニター、720p解像度と固定位置カメラはインストール時に1度カメラ角度を設定し赤ちゃんが這う段階に成長するとframe外に出るかもしれないことを受け入れることを意味、8時間定格親画面バッテリーは12-18ヶ月使用後に4-5時間に劣化し交換画面は頻繁な在庫切れ、日本でのブランド認知度はAnker EufyやCubo Aiより弱く混在するアフターサービス サポート レビュー(1-3週間サポート チケット応答時間)。",
     },
     links: [
       { network: "amazon-us", productId: "B09QKWQHW9", rawUrl: "https://www.amazon.com/dp/B09QKWQHW9", markets: ["US"], approved: true },
@@ -3644,7 +3644,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Furbo 360° Dog Camera", ja: "Furbo 360° ドッグカメラ" },
     description: {
       en: "Roughly 28 treat-tossing dog-focused premium pick with 360-degree rotation, 1080p HD video, AI bark and activity alerts, treat dispense triggered from the smartphone app, two-way audio, dog-trained AI models, the category-defining premium pet camera since the original 2017 launch and refreshed across multiple iterations. Furbo Dog Nanny subscription at roughly 700-1 per month is required for the AI features that justify the box-price premium — without subscription the camera degrades to a 1080p camera with manual treat-toss and the 5-year cost works out to roughly 88 total when subscription is included; treat slot can jam roughly every 2-4 weeks depending on kibble shape and humidity; dog-only design means cats almost universally ignore the treat dispense and the bark-detection AI is irrelevant for cats; cloud architecture means privacy surface includes Furbo's cloud servers and any future incident affecting the brand.",
-      ja: "約28,000円のおやつトス犬特化プレミアム枠、360度回転・1080p HDビデオ・AI吠え声と活動アラート・スマホ アプリからトリガーされるおやつディスペンサー・双方向オーディオ・犬訓練AIモデル、オリジナル2017年発売以来カテゴリを定義したプレミアム ペットカメラで複数の反復にわたってリフレッシュ。Furbo Dog Nannyサブスクが月約700-1,400円で箱価格プレミアムを正当化するAI機能のため必須 — サブスクなしではカメラは手動おやつトス付きの1080pカメラに劣化、サブスク含む5年合計コストは約88,000円; おやつスロットはキブル形状と湿度によって2-4週間に1回程度詰まる可能性; 犬専用設計は猫がほとんど普遍的におやつディスペンサーを無視し吠え声検知AIが猫には無関係であることを意味; クラウド アーキテクチャはプライバシー表面がFurboのクラウド サーバーとブランドに影響する将来の事案を含むことを意味。",
+      ja: "おやつトス犬特化プレミアム枠、360度回転・1080p HDビデオ・AI吠え声と活動アラート・スマホ アプリからトリガーされるおやつディスペンサー・双方向オーディオ・犬訓練AIモデル、オリジナル2017年発売以来カテゴリを定義したプレミアム ペットカメラで複数の反復にわたってリフレッシュ。Furbo Dog Nannyサブスクが月約700-1,400円で箱価格プレミアムを正当化するAI機能のため必須 — サブスクなしではカメラは手動おやつトス付きの1080pカメラに劣化、サブスク含む5年合計コストは本体価格を大きく上回る; おやつスロットはキブル形状と湿度によって2-4週間に1回程度詰まる可能性; 犬専用設計は猫がほとんど普遍的におやつディスペンサーを無視し吠え声検知AIが猫には無関係であることを意味; クラウド アーキテクチャはプライバシー表面がFurboのクラウド サーバーとブランドに影響する将来の事案を含むことを意味。",
     },
     links: [
       { network: "amazon-us", productId: "B09C3RM2NM", rawUrl: "https://www.amazon.com/dp/B09C3RM2NM", markets: ["US"], approved: true },
@@ -3660,7 +3660,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Petcube Cam", ja: "Petcube Cam" },
     description: {
       en: "Roughly 12 affordable pet-specific starter pick with 1080p video, two-way audio, basic motion and sound alerts, simple base model from the Petcube line, more affordable than Furbo because the treat-toss and laser-pointer hardware is reserved for the higher-end Petcube Bites and Petcube Play models. No treat dispense or laser pointer on the base Petcube Cam — those are premium-tier features on the Bites and Play models that cost meaningfully more; motion alerts can be noisy with frequent false positives that some reviewers report reaching alert fatigue within the first month; 110-degree field of view is narrower than Furbo's 360 and not enough for a large room without strategic placement; Petcube Care subscription gates the cloud video history and pet-recognition AI similar to Furbo Nanny.",
-      ja: "約12,000円の手頃なペット特化スターター枠、1080pビデオ・双方向オーディオ・基本モーションと音アラート・Petcubeラインのシンプルなベース モデル、おやつトスとレーザー ポインター ハードウェアが高価のPetcube BitesとPetcube Playモデルに予約されているためFurboより手頃。ベースのPetcube Camにはおやつディスペンサーまたはレーザー ポインターなし — それらはより意味的に高コストのBitesとPlayモデルのプレミアム ティア機能; モーション アラートは騒がしくいくつかのレビュアーは最初の月内にアラート疲労に達したと報告する頻繁な誤検知; 110度視野角はFurboの360より狭く戦略的配置なしでは大きな部屋に十分でない; Petcube CareサブスクはFurbo Nannyに類似してクラウド ビデオ履歴とペット認識AIをゲート。",
+      ja: "手頃なペット特化スターター枠、1080pビデオ・双方向オーディオ・基本モーションと音アラート・Petcubeラインのシンプルなベース モデル、おやつトスとレーザー ポインター ハードウェアが高価のPetcube BitesとPetcube Playモデルに予約されているためFurboより手頃。ベースのPetcube Camにはおやつディスペンサーまたはレーザー ポインターなし — それらはより意味的に高コストのBitesとPlayモデルのプレミアム ティア機能; モーション アラートは騒がしくいくつかのレビュアーは最初の月内にアラート疲労に達したと報告する頻繁な誤検知; 110度視野角はFurboの360より狭く戦略的配置なしでは大きな部屋に十分でない; Petcube CareサブスクはFurbo Nannyに類似してクラウド ビデオ履歴とペット認識AIをゲート。",
     },
     links: [
       { network: "amazon-us", productId: "B0BXKR9ZRC", rawUrl: "https://www.amazon.com/dp/B0BXKR9ZRC", markets: ["US"], approved: true },
@@ -3675,7 +3675,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Wyze Cam v3", ja: "Wyze Cam v3" },
     description: {
       en: "Roughly 4 repurposed-security-cam budget pick with 1080p video, color night vision, two-way audio, weather-resistant for outdoor use, microSD local storage, the cheapest competent indoor camera that consistently appears on budget pet-camera lists. Not pet-specific — no bark detection, no treat dispense, no pet-aimed audio profile, the AI is trained on person-and-package classification with pet detection as a secondary feature; recent privacy and CSAM-moderation controversies in 2022-2023 plus a 2024 account-mixup incident damaged the brand reputation in the pet-camera community and any buyer should read the public reporting before committing; cloud event history requires Wyze Cam Plus at roughly per month per camera which most budget-tier buyers skip and accept the 12-second cooldown between cloud events.",
-      ja: "約4,800円の流用セキュリティ カメラ予算枠、1080pビデオ・カラー暗視・双方向オーディオ・屋外使用向け耐候性・microSDローカル ストレージ、予算ペットカメラ リストに一貫して登場する最も安価な有能な屋内カメラ。ペット特化ではない — 吠え声検知なし・おやつディスペンサーなし・ペット狙いオーディオ プロファイルなし、AIはペット検出を二次機能として人物と荷物分類で訓練; 2022-2023年の最近のプライバシーとCSAMモデレーション問題に加えて2024年アカウント混在事案がペットカメラ コミュニティでブランド評判を損ない買い手はコミットする前に公的報道を読むべき; クラウド イベント履歴はカメラごと月約250円のWyze Cam Plusを必要としほとんどの予算枠買い手はスキップしクラウド イベント間の12秒クールダウンを受け入れる。",
+      ja: "流用セキュリティ カメラ予算枠、1080pビデオ・カラー暗視・双方向オーディオ・屋外使用向け耐候性・microSDローカル ストレージ、予算ペットカメラ リストに一貫して登場する最も安価な有能な屋内カメラ。ペット特化ではない — 吠え声検知なし・おやつディスペンサーなし・ペット狙いオーディオ プロファイルなし、AIはペット検出を二次機能として人物と荷物分類で訓練; 2022-2023年の最近のプライバシーとCSAMモデレーション問題に加えて2024年アカウント混在事案がペットカメラ コミュニティでブランド評判を損ない買い手はコミットする前に公的報道を読むべき; クラウド イベント履歴はカメラごと月約250円のWyze Cam Plusを必要としほとんどの予算枠買い手はスキップしクラウド イベント間の12秒クールダウンを受け入れる。",
     },
     price: "$35.98",
     links: [
@@ -3691,7 +3691,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Pawbo Pet Camera", ja: "Pawbo ペットカメラ" },
     description: {
       en: "Roughly 18 mid-tier treat-dispenser pick (or PetSafe equivalent depending on Japan availability) with 720p video, treat dispense from the smartphone app, two-way audio, scheduled treat-toss, sits between the cheap generic security cams and the premium Furbo. Lower video quality than Furbo with 720p versus 1080p which is meaningfully visible on tablet and laptop viewing; app reliability is mixed in long-term reviews with several reviewers reporting periodic crashes and pairing issues that persisted across firmware updates; treat-refill access on the unit is awkward enough that several reviewers report giving up on the daily refill ritual after a few months; dog-specific AI is absent or rudimentary compared to Furbo's bark-detection and activity scoring.",
-      ja: "約18,000円の中位枠おやつディスペンサー枠(または日本での入手可能性に応じてPetSafe同等品)、720pビデオ・スマホ アプリからのおやつディスペンサー・双方向オーディオ・スケジュールされたおやつトス、安価な汎用セキュリティ カメラとプレミアムなFurboの間に座る。Furboより720p対1080pで低い動画品質はタブレットとラップトップ視聴で意味的に見える; アプリ信頼性は長期レビューで混在しいくつかのレビュアーがファームウェア アップデートを通じて持続した定期的なクラッシュとペアリング問題を報告; ユニット上のおやつ補充アクセスが厄介でいくつかのレビュアーは数か月後に毎日の補充儀式を諦めたと報告; 犬特化AIはFurboの吠え声検知と活動スコアリングと比較して不在または初歩的。",
+      ja: "中位枠おやつディスペンサー枠(または日本での入手可能性に応じてPetSafe同等品)、720pビデオ・スマホ アプリからのおやつディスペンサー・双方向オーディオ・スケジュールされたおやつトス、安価な汎用セキュリティ カメラとプレミアムなFurboの間に座る。Furboより720p対1080pで低い動画品質はタブレットとラップトップ視聴で意味的に見える; アプリ信頼性は長期レビューで混在しいくつかのレビュアーがファームウェア アップデートを通じて持続した定期的なクラッシュとペアリング問題を報告; ユニット上のおやつ補充アクセスが厄介でいくつかのレビュアーは数か月後に毎日の補充儀式を諦めたと報告; 犬特化AIはFurboの吠え声検知と活動スコアリングと比較して不在または初歩的。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-pawbo-pet-camera", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPawbo%2B%E3%83%9A%E3%83%83%E3%83%88%E3%82%AB%E3%83%A1%E3%83%A9%2F", markets: ["JP"], approved: true },
@@ -3705,7 +3705,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Anker Eufy Indoor Cam 2K Pan & Tilt", ja: "Anker Eufy Indoor Cam 2K Pan & Tilt" },
     description: {
       en: "Roughly 9 no-subscription local-storage indoor pick with 2K video, 360-degree pan and 96-degree tilt to find the pet wherever it is napping, person-and-pet motion detection, two-way audio, microSD local storage with no subscription required, Apple HomeKit Secure Video integration, the strongest local-storage indoor pick in the sub-15,000-yen band. No pet-specific AI — motion detection classifies person versus pet but does not provide bark detection, dog activity scoring, or any of the pet-trained AI features that justify the Furbo premium; no treat dispense or laser-pointer hardware so the interactive features that some pet owners want are absent; built-in speaker is thin and the audio quality on two-way conversations is meaningfully worse than the Furbo or Petcube speakers; designed as general-purpose indoor security and not as a pet camera so the marketing copy and the customer service assume a homeowner not a pet owner.",
-      ja: "約9,800円のサブスク不要のローカル ストレージ屋内枠、2Kビデオ・ペットがどこで昼寝していても見つける360度パンと96度チルト・人物とペットのモーション検知・双方向オーディオ・サブスク不要のmicroSDローカル ストレージ・Apple HomeKit Secure Video統合、15,000円未満帯で最強のローカル ストレージ屋内枠。ペット特化AIなし — モーション検知は人物対ペットを分類するが吠え声検知・犬活動スコアリング・Furboプレミアムを正当化するペット訓練AI機能のいずれも提供しない; おやつディスペンサーまたはレーザー ポインター ハードウェアなしなので一部のペット オーナーが欲しいインタラクティブ機能は不在; 内蔵スピーカーは薄く双方向会話のオーディオ品質はFurboまたはPetcubeスピーカーより意味的に悪い; 汎用屋内セキュリティとして設計されペットカメラとしてではないためマーケティング コピーとカスタマー サービスはペット オーナーではなく住宅所有者を仮定。",
+      ja: "サブスク不要のローカル ストレージ屋内枠、2Kビデオ・ペットがどこで昼寝していても見つける360度パンと96度チルト・人物とペットのモーション検知・双方向オーディオ・サブスク不要のmicroSDローカル ストレージ・Apple HomeKit Secure Video統合、15,000円未満帯で最強のローカル ストレージ屋内枠。ペット特化AIなし — モーション検知は人物対ペットを分類するが吠え声検知・犬活動スコアリング・Furboプレミアムを正当化するペット訓練AI機能のいずれも提供しない; おやつディスペンサーまたはレーザー ポインター ハードウェアなしなので一部のペット オーナーが欲しいインタラクティブ機能は不在; 内蔵スピーカーは薄く双方向会話のオーディオ品質はFurboまたはPetcubeスピーカーより意味的に悪い; 汎用屋内セキュリティとして設計されペットカメラとしてではないためマーケティング コピーとカスタマー サービスはペット オーナーではなく住宅所有者を仮定。",
     },
     price: "$54.99",
     links: [
@@ -3805,7 +3805,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Dyson V15 Detect Absolute", ja: "ダイソン V15 Detect Absolute" },
     description: {
       en: "Premium-power cordless stick pick. 240 air-watt Hyperdymium digital motor (highest sustained suction in this comparison), green diode laser dust illumination on hardwood, piezo acoustic particle counter for auto-suction adjustment, 0.77 L bin (largest non-auto-empty option), HEPA-grade sealed filtration. 3.0 kg main-body weight fatigues smaller users on extended overhead or stair work; 82-84 dB max-mode noise wakes sleeping family through Japanese apartment walls; ongoing 4 filter and 12 battery replacement costs.",
-      ja: "98,780円のプレミアム パワー コードレス スティック枠。240エアワット Hyperdymium デジタルモーター(本比較最高の持続吸引力)、フローリング上の緑ダイオード レーザー ダスト照射、自動吸引調整用ピエゾ音響パーティクル カウンター、0.77L容器(非自動排出オプションで最大)、HEPA級シール封濾過。3.0kgメインボディ重量が拡張頭上または階段ワークで小柄なユーザーを疲労させる、日本のアパート壁越しに寝ている家族を起こす82-84dB最大モード騒音、4,000-5,500円のフィルターと12,000-15,000円のバッテリ交換の継続コスト。",
+      ja: "プレミアム パワー コードレス スティック枠。240エアワット Hyperdymium デジタルモーター(本比較最高の持続吸引力)、フローリング上の緑ダイオード レーザー ダスト照射、自動吸引調整用ピエゾ音響パーティクル カウンター、0.77L容器(非自動排出オプションで最大)、HEPA級シール封濾過。3.0kgメインボディ重量が拡張頭上または階段ワークで小柄なユーザーを疲労させる、日本のアパート壁越しに寝ている家族を起こす82-84dB最大モード騒音、フィルターとバッテリ交換の継続コスト。",
     },
     links: [
       { network: "amazon-us", productId: "B09BR3HPXX", rawUrl: "https://www.amazon.com/dp/B09BR3HPXX", markets: ["US"], approved: true },
@@ -3821,7 +3821,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Anker Eufy MACH V1", ja: "Anker Eufy MACH V1" },
     description: {
       en: "Hybrid cordless stick value pick. Interchangeable dry-vacuum and wet-mop heads, roughly 16,000 Pa-equivalent dry suction, self-cleaning station for the roller-mop, replaces both stick vacuum and Floor Wiper for 80%+ hardwood-or-tile homes. 35-minute standard-mode runtime is short for 100+ m² homes and forces recharge breaks mid-session; wet-mop function does not replace a real mop session for sticky kitchen splatter or dried coffee; hybrid maintenance burden adds weekly cleaning-station deep-clean to prevent biofilm and sour-water odor.",
-      ja: "45,800円のハイブリッド コードレス スティック コスパ枠。交換可能ドライ吸引とウェットモップ ヘッド、約16,000Pa相当のドライ吸引、ローラーモップ用自動清掃ステーション、80%以上フローリング・タイル住宅でステック掃除機とフロアワイパー両方を置き換え。35分標準モード稼働時間が100m²以上の家で短くセッション中盤のリチャージ ブレイクを強制、ウェットモップ機能は粘っこいキッチン油汚れや乾いたコーヒーには本物のモップセッションを置き換えない、ハイブリッド メンテ負担が週次清掃ステーション深部清掃をバイオフィルムと酸性水臭の防止のために追加。",
+      ja: "ハイブリッド コードレス スティック コスパ枠。交換可能ドライ吸引とウェットモップ ヘッド、約16,000Pa相当のドライ吸引、ローラーモップ用自動清掃ステーション、80%以上フローリング・タイル住宅でステック掃除機とフロアワイパー両方を置き換え。35分標準モード稼働時間が100m²以上の家で短くセッション中盤のリチャージ ブレイクを強制、ウェットモップ機能は粘っこいキッチン油汚れや乾いたコーヒーには本物のモップセッションを置き換えない、ハイブリッド メンテ負担が週次清掃ステーション深部清掃をバイオフィルムと酸性水臭の防止のために追加。",
     },
     links: [
       { network: "amazon-us", productId: "B0CK3BFGZZ", rawUrl: "https://www.amazon.com/dp/B0CK3BFGZZ", markets: ["US"], approved: true },
@@ -3837,7 +3837,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Shark EVOPOWER SYSTEM iQ+ CS501J", ja: "シャーク EVOPOWER SYSTEM iQ+ CS501J" },
     description: {
       en: "Auto-empty cordless stick pick. Self-emptying station pulls debris from stick bin into 0.6 L sealed bag every redock, self-cleaning brush roll uses built-in comb to free wrapped hair, self-standing main body stays upright when set down, 40-minute eco-mode runtime. Dock footprint of 25-30 cm wide and 40-50 cm deep dominates Japanese apartment hallways; recurring bag-consumable cost of 6 per year on top of filter and battery replacement; dock cycle noise of 80-85 dB for 6-10 seconds at every redock wakes a baby and disturbs late-evening cleaning sessions.",
-      ja: "69,800円の自動排出コードレス スティック枠。自動排出ステーションが再ドックの度にスティック容器から0.6L 密封バッグへゴミを引き込む、自動清掃ブラシロールが内蔵コームで巻き付いた髪を解放、自立メインボディが置いた時にも倒れない、ECOモード40分の稼働時間。幅25-30cm × 奥行40-50cmのドック フットプリントが日本のアパート廊下を支配、年6,000-12,000円のバッグ消耗品恒常コストがフィルターとバッテリ交換の上に、再ドックの度に80-85dB×6-10秒のドックサイクル騒音が赤ちゃんを起こし深夜清掃セッションを邪魔する。",
+      ja: "自動排出コードレス スティック枠。自動排出ステーションが再ドックの度にスティック容器から0.6L 密封バッグへゴミを引き込む、自動清掃ブラシロールが内蔵コームで巻き付いた髪を解放、自立メインボディが置いた時にも倒れない、ECOモード40分の稼働時間。幅25-30cm × 奥行40-50cmのドック フットプリントが日本のアパート廊下を支配、年6,000-12,000円のバッグ消耗品恒常コストがフィルターとバッテリ交換の上に、再ドックの度に80-85dB×6-10秒のドックサイクル騒音が赤ちゃんを起こし深夜清掃セッションを邪魔する。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-shark-cs501j", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FShark%2BCS501J%2F", markets: ["JP"], approved: true },
@@ -3854,7 +3854,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Tineco Pure One S15 Pet", ja: "Tineco Pure One S15 Pet" },
     description: {
       en: "Pet-household cordless stick pick. iLoop dust sensor for AI-driven auto-suction adjustment, anti-tangle brush geometry with tapered roll and side-positioned hair-cut grooves, LED display showing battery and dust density, 0.6 L bin, 40-minute eco-mode runtime. Hybrid plumbing requires deep-cleaning the cleaning station every 2-4 weeks to prevent biofilm and sour-water odor even if you only use dry-vacuum function; Tineco's Japan after-sales network has 3-5 week warranty parts turnaround versus 1-2 weeks for Dyson Japan; some advanced settings require the Tineco app rather than on-unit controls.",
-      ja: "69,800円のペット世帯コードレス スティック枠。iLoopダスト センサーによるAI駆動自動吸引調整、テーパー ロールとサイド配置毛切りグルーブ付き絡まり防止ブラシ ジオメトリ、バッテリとダスト密度を表示するLEDディスプレイ、0.6L容器、ECOモード40分の稼働時間。ハイブリッド配管が本体に統合されているためドライ吸引機能のみ使用しても2-4週毎の清掃ステーション深部清掃が必要(バイオフィルムと酸性水臭防止)、Tinecoの日本アフターサービス網は保証部品で3-5週間ターンアラウンド(ダイソン日本の1-2週間に対し)、一部の高度設定が本体コントロールではなくTinecoアプリ必須。",
+      ja: "ペット世帯コードレス スティック枠。iLoopダスト センサーによるAI駆動自動吸引調整、テーパー ロールとサイド配置毛切りグルーブ付き絡まり防止ブラシ ジオメトリ、バッテリとダスト密度を表示するLEDディスプレイ、0.6L容器、ECOモード40分の稼働時間。ハイブリッド配管が本体に統合されているためドライ吸引機能のみ使用しても2-4週毎の清掃ステーション深部清掃が必要(バイオフィルムと酸性水臭防止)、Tinecoの日本アフターサービス網は保証部品で3-5週間ターンアラウンド(ダイソン日本の1-2週間に対し)、一部の高度設定が本体コントロールではなくTinecoアプリ必須。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-tineco-pure-one-s15-pet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTineco%2BPure%2BOne%2BS15%2BPet%2F", markets: ["JP"], approved: true },
@@ -3888,7 +3888,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Manduka PRO Mat 6mm", ja: "Manduka PRO Mat 6mm" },
     description: {
       en: "Industry-standard pick. 6 mm cushion thickness, dense closed-cell PVC, dot-pattern bottom for studio-floor grip, 71 × 180 cm long mat option, lifetime manufacturer warranty against splitting and peeling. 3.4 kg weight is heavy for daily commute to a studio; closed-cell surface needs a 2-3 week break-in period before grip reaches advertised level (sweat-on, salt-and-water-rinse cycle); not the best pick for hot yoga where surface grip matters more than cushion.",
-      ja: "17,600円の業界標準枠。クッション厚6mm、密度の高いクローズドセルPVC、スタジオ床のグリップ用ドットパターン底面、71×180cmロングサイズ展開、剥離・割れに対するメーカー終身保証。3.4kgはスタジオ通いには重い、クローズドセル表面は公称グリップに到達するまで2-3週間のブレイクイン(汗をかく+塩水拭きサイクル)が必要、表面グリップがクッションより重要なホットヨガには第一候補ではない。",
+      ja: "業界標準枠。クッション厚6mm、密度の高いクローズドセルPVC、スタジオ床のグリップ用ドットパターン底面、71×180cmロングサイズ展開、剥離・割れに対するメーカー終身保証。3.4kgはスタジオ通いには重い、クローズドセル表面は公称グリップに到達するまで2-3週間のブレイクイン(汗をかく+塩水拭きサイクル)が必要、表面グリップがクッションより重要なホットヨガには第一候補ではない。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-manduka-pro-6mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FManduka%2BPRO%2BMat%2B6mm%2F", markets: ["JP"], approved: true },
@@ -3902,7 +3902,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "lululemon Take Form Mat 5mm", ja: "lululemon Take Form Mat 5mm" },
     description: {
       en: "New-generation grip pick. 5 mm thickness with a polyurethane top layer over natural rubber base, the wettest grip in this comparison straight out of the wrap, no break-in period, 66 × 180 cm. PU top scratches and shows visible wear at 8-12 months on daily mat-burn pose practice (chaturanga, plank holds); 5 mm cushion is on the firmer side and feels thin for tabletop or kneeling-heavy hatha sequences; natural-rubber base means latex-allergy users should not buy.",
-      ja: "13,200円の新世代グリップ枠。厚み5mm、天然ゴムベースに ポリウレタン トップ層、本比較で開封即一番濡れた状態でも効くグリップ、ブレイクイン期間不要、66×180cm。PUトップは毎日のマットバーン姿勢(チャトランガ、プランクホールド)で8-12ヶ月で擦り傷と目視可能な摩耗、5mmクッションは硬めでテーブルトップや膝重視のハタヨガには薄く感じる、天然ゴムベースなのでラテックスアレルギーの人は購入不可。",
+      ja: "新世代グリップ枠。厚み5mm、天然ゴムベースに ポリウレタン トップ層、本比較で開封即一番濡れた状態でも効くグリップ、ブレイクイン期間不要、66×180cm。PUトップは毎日のマットバーン姿勢(チャトランガ、プランクホールド)で8-12ヶ月で擦り傷と目視可能な摩耗、5mmクッションは硬めでテーブルトップや膝重視のハタヨガには薄く感じる、天然ゴムベースなのでラテックスアレルギーの人は購入不可。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-lululemon-take-form-5mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Flululemon%2BTake%2BForm%2BMat%2F", markets: ["JP"], approved: true },
@@ -3917,7 +3917,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Liforme Original Yoga Mat 4.2mm", ja: "Liforme Original Yoga Mat 4.2mm" },
     description: {
       en: "UK-brand alignment pick. 4.2 mm thickness, eco-polyurethane top over natural-rubber base, the AlignForMe etched alignment-line system on the surface (centerline, hip-line, foot-placement marks), 73 × 185 cm extra-long-and-wide. Highest price in this comparison and overkill for a beginner who has not yet decided whether yoga is a long-term practice; cleaning instructions are strict (water only or Liforme's own spray, no alcohol or vinegar) and ignoring them voids the warranty; alignment lines are useful for early practitioners but become visual noise once asana memory is internalized.",
-      ja: "22,800円の英国ブランド アライメント枠。厚み4.2mm、天然ゴムベースにエコポリウレタン トップ、表面に AlignForMe エッチング アライメントラインシステム(中央線・腰幅線・足配置マーク)、73×185cmロング&ワイドサイズ。本比較最高価格、ヨガを長期練習にするか未決の初心者にはオーバーキル、クリーニング指定が厳しく(水のみまたはLiforme純正スプレーのみ、アルコール・酢不可)違反すると保証無効、アライメントラインは練習初期は有用だがアサナが体に入った後は視覚ノイズになる。",
+      ja: "英国ブランド アライメント枠。厚み4.2mm、天然ゴムベースにエコポリウレタン トップ、表面に AlignForMe エッチング アライメントラインシステム(中央線・腰幅線・足配置マーク)、73×185cmロング&ワイドサイズ。本比較最高価格、ヨガを長期練習にするか未決の初心者にはオーバーキル、クリーニング指定が厳しく(水のみまたはLiforme純正スプレーのみ、アルコール・酢不可)違反すると保証無効、アライメントラインは練習初期は有用だがアサナが体に入った後は視覚ノイズになる。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-liforme-original-4-2mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLiforme%2BOriginal%2BYoga%2BMat%2F", markets: ["JP"], approved: true },
@@ -3931,7 +3931,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "SUKALA Yoga Mat (PU type)", ja: "SUKALA ヨガマット PUタイプ" },
     description: {
       en: "Japanese women's-studio-brand balance pick. 6 mm thickness, polyurethane top over PER (polymer environmental resin) base — phthalate-free and latex-free, designed by the LAVA-affiliated SUKALA studio team for hot yoga and 65 × 185 cm. Carry strap is sold separately, which is annoying for a 9 mat that obviously needs one; PU surface absorbs sweat and requires same-day wipe-down or it develops a sweat odor within 2-3 weeks; PER base is firmer than natural rubber and transmits hardwood floor through more on knees-down poses.",
-      ja: "9,900円の日本女性向けスタジオブランド バランス枠。厚み6mm、PER(ポリマー環境樹脂)ベースに ポリウレタン トップ — フタル酸エステル類フリー&ラテックスフリー、LAVA系列のSUKALAスタジオチームがホットヨガ向けに設計、65×185cm。持ち手用ストラップは別売(1,650円)、9,900円のマットでストラップ別売は不満点、PU表面は汗を吸収し当日中に拭かないと2-3週間で汗臭が発生、PERベースは天然ゴムより硬く膝立ち系ポーズでフローリングの硬さが伝わりやすい。",
+      ja: "日本女性向けスタジオブランド バランス枠。厚み6mm、PER(ポリマー環境樹脂)ベースに ポリウレタン トップ — フタル酸エステル類フリー&ラテックスフリー、LAVA系列のSUKALAスタジオチームがホットヨガ向けに設計、65×185cm。持ち手用ストラップは別売で、この価格帯のマットでストラップ別売は不満点、PU表面は汗を吸収し当日中に拭かないと2-3週間で汗臭が発生、PERベースは天然ゴムより硬く膝立ち系ポーズでフローリングの硬さが伝わりやすい。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-sukala-yoga-mat-pu", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSUKALA%2B%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
@@ -3946,7 +3946,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "FUNCY Yoga Mat 8mm Thick", ja: "FUNCY ヨガマット 8mm 厚手" },
     description: {
       en: "Budget beginner pick. 8 mm thick NBR (nitrile butadiene rubber) cushion (the thickest in this comparison and the most knee-forgiving), 61 × 183 cm, ships with a carry strap and a mesh storage bag, available in 8+ colorways suited to Pinterest-style home-studio aesthetics. NBR has a strong manufacturing odor that takes 2-4 weeks of airing-out to fade; 8 mm thickness sinks too far on standing balance poses (tree, warrior III) and feels unstable for ashtanga or vinyasa flow; surface durability is the lowest in this comparison with visible peeling at 8-14 months on daily use.",
-      ja: "3,180円の予算初心者枠。8mm厚NBR(ニトリルブタジエンゴム)クッション(本比較最厚で最も膝に優しい)、61×183cm、持ち手用ストラップとメッシュ収納バッグ付属、Pinterest映えする自宅スタジオ系の8色以上展開。NBRは製造時のウレタン臭が強く消えるまで2-4週間の換気が必要、8mm厚は立位バランス系ポーズ(木のポーズ、ウォリアー III)で沈み込みが大きくアシュタンガやヴィンヤサフローでは不安定、表面耐久性は本比較で最低で毎日使用なら8-14ヶ月で目視剥離。",
+      ja: "予算初心者枠。8mm厚NBR(ニトリルブタジエンゴム)クッション(本比較最厚で最も膝に優しい)、61×183cm、持ち手用ストラップとメッシュ収納バッグ付属、Pinterest映えする自宅スタジオ系の8色以上展開。NBRは製造時のウレタン臭が強く消えるまで2-4週間の換気が必要、8mm厚は立位バランス系ポーズ(木のポーズ、ウォリアー III)で沈み込みが大きくアシュタンガやヴィンヤサフローでは不安定、表面耐久性は本比較で最低で毎日使用なら8-14ヶ月で目視剥離。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-funcy-yoga-mat-8mm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFUNCY%2B%E3%83%A8%E3%82%AC%E3%83%9E%E3%83%83%E3%83%88%2B8mm%2F", markets: ["JP"], approved: true },
@@ -3961,8 +3961,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "👟",
     name: { en: "Nike Air Zoom Pegasus 41", ja: "ナイキ エア ズーム ペガサス 41" },
     description: {
-      en: "~¥16,000 all-around versatile daily trainer. React foam midsole, 10 mm heel-to-toe drop, Air Zoom units under forefoot and heel, good outsole rubber coverage. Forefoot runs narrow and wide-width versions are limited in Japan; React foam compresses at 600-700 km rather than 800+ km; mild guidance is insufficient for moderate-to-severe overpronators.",
-      ja: "約¥16,000の万能デイリートレーナー。Reactフォームミッドソール、10mmヒールトゥドロップ、フォアフットとヒール下のエア ズームユニット、良好なアウトソールラバーカバレッジ。フォアフットが細く日本での幅広バージョンが限られている；Reactフォームは800km以上ではなく600〜700kmで圧縮；マイルドガイダンスは中程度から重度のオーバープロネーターには不十分。",
+      en: "All-around versatile daily trainer. React foam midsole, 10 mm heel-to-toe drop, Air Zoom units under forefoot and heel, good outsole rubber coverage. Forefoot runs narrow and wide-width versions are limited in Japan; React foam compresses at 600-700 km rather than 800+ km; mild guidance is insufficient for moderate-to-severe overpronators.",
+      ja: "万能デイリートレーナー。Reactフォームミッドソール、10mmヒールトゥドロップ、フォアフットとヒール下のエア ズームユニット、良好なアウトソールラバーカバレッジ。フォアフットが細く日本での幅広バージョンが限られている；Reactフォームは800km以上ではなく600〜700kmで圧縮；マイルドガイダンスは中程度から重度のオーバープロネーターには不十分。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-nike-pegasus-41", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike%2BPegasus%2B41%2F", markets: ["JP"], approved: true },
@@ -3978,8 +3978,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏃",
     name: { en: "Asics Gel-Kayano 31", ja: "アシックス ゲルカヤノ 31" },
     description: {
-      en: "~¥22,000 stability standard for overpronators. LITETRUSS medial post resists arch collapse, FF Blast+ Eco foam, Japanese last calibrated for wider Japanese forefoot. Heaviest shoe in this comparison at 310 g; stability mechanism creates a rigid feel that neutral runners find uncomfortable; highest price, only justified if you genuinely need stability features.",
-      ja: "約¥22,000のオーバープロネーター向けスタビリティスタンダード。LITETRUSSメディアルポストがアーチ崩壊に抵抗、FF Blast+ Ecoフォーム、幅広日本人フォアフット向けの日本ラスト。本比較最重量の1足310g；スタビリティメカニズムがニュートラルランナーに不快な硬い感触を生み出す；最高価格、スタビリティ機能を本当に必要とする場合にのみ正当化される。",
+      en: "Stability standard for overpronators. LITETRUSS medial post resists arch collapse, FF Blast+ Eco foam, Japanese last calibrated for wider Japanese forefoot. Heaviest shoe in this comparison at 310 g; stability mechanism creates a rigid feel that neutral runners find uncomfortable; highest price, only justified if you genuinely need stability features.",
+      ja: "オーバープロネーター向けスタビリティスタンダード。LITETRUSSメディアルポストがアーチ崩壊に抵抗、FF Blast+ Ecoフォーム、幅広日本人フォアフット向けの日本ラスト。本比較最重量の1足310g；スタビリティメカニズムがニュートラルランナーに不快な硬い感触を生み出す；最高価格、スタビリティ機能を本当に必要とする場合にのみ正当化される。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-asics-gel-kayano-31", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9%2B%E3%82%B2%E3%83%AB%E3%82%AB%E3%83%A4%E3%83%8E%2B31%2F", markets: ["JP"], approved: true },
@@ -3993,8 +3993,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "👟",
     name: { en: "Brooks Ghost 16", ja: "ブルックス ゴースト 16" },
     description: {
-      en: "~¥16,500 wide-fit neutral daily trainer. DNA Loft v2 foam, wide toe box, good rubber outsole coverage, best wide-width availability on Rakuten in this comparison. Comfort-focused cushioning is too soft and heavy for tempo sessions; slightly high heel counter causes Achilles discomfort for some runners during break-in; wide toe box gives narrow-foot runners a sloppy fit with blister risk at distance.",
-      ja: "約¥16,500の幅広フィット ニュートラルデイリートレーナー。DNA Loft v2フォーム、広いトゥボックス、良好なラバーアウトソールカバレッジ、本比較で楽天最良の幅広対応。コンフォート重視のクッションはテンポセッションには柔らかすぎて重すぎる；若干高いヒールカウンターが一部ランナーの慣らし期間中のアキレス不快感を引き起こす；広いトゥボックスが狭い足ランナーにブリスターリスクのあるゆるいフィット感を与える。",
+      en: "Wide-fit neutral daily trainer. DNA Loft v2 foam, wide toe box, good rubber outsole coverage, best wide-width availability on Rakuten in this comparison. Comfort-focused cushioning is too soft and heavy for tempo sessions; slightly high heel counter causes Achilles discomfort for some runners during break-in; wide toe box gives narrow-foot runners a sloppy fit with blister risk at distance.",
+      ja: "幅広フィット ニュートラルデイリートレーナー。DNA Loft v2フォーム、広いトゥボックス、良好なラバーアウトソールカバレッジ、本比較で楽天最良の幅広対応。コンフォート重視のクッションはテンポセッションには柔らかすぎて重すぎる；若干高いヒールカウンターが一部ランナーの慣らし期間中のアキレス不快感を引き起こす；広いトゥボックスが狭い足ランナーにブリスターリスクのあるゆるいフィット感を与える。",
     },
     links: [
       { network: "amazon-us", productId: "B0CGBF5LQ2", rawUrl: "https://www.amazon.com/dp/B0CGBF5LQ2", markets: ["US"], approved: true },
@@ -4009,8 +4009,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔵",
     name: { en: "New Balance Fresh Foam 880v14", ja: "ニューバランス Fresh Foam 880v14" },
     description: {
-      en: "~¥17,000 high-mileage comfort pick. Fresh Foam X midsole, multiple width options (B narrow, D standard, 2E wide), consistent fit across versions, well-calibrated for Japanese feet. Fresh Foam X compresses faster at 650-750 km versus 800+ km for firmer foams; runs somewhat heavy at 295 g; provides little road feedback, making interval pacing harder without a more responsive alternative.",
-      ja: "約¥17,000の高走行量コンフォートピック。Fresh Foam Xミッドソール、複数の幅オプション（Bナロー・Dスタンダード・2Eワイド）、バージョン間の一貫したフィット、日本人の足に合わせた設計。Fresh Foam Xは硬めのフォームの800km以上ではなく650〜750kmで速く圧縮；1足295gとやや重い；路面フィードバックが少なくより反応性のある代替なしではインターバルペーシングが難しくなる可能性がある。",
+      en: "High-mileage comfort pick. Fresh Foam X midsole, multiple width options (B narrow, D standard, 2E wide), consistent fit across versions, well-calibrated for Japanese feet. Fresh Foam X compresses faster at 650-750 km versus 800+ km for firmer foams; runs somewhat heavy at 295 g; provides little road feedback, making interval pacing harder without a more responsive alternative.",
+      ja: "高走行量コンフォートピック。Fresh Foam Xミッドソール、複数の幅オプション（Bナロー・Dスタンダード・2Eワイド）、バージョン間の一貫したフィット、日本人の足に合わせた設計。Fresh Foam Xは硬めのフォームの800km以上ではなく650〜750kmで速く圧縮；1足295gとやや重い；路面フィードバックが少なくより反応性のある代替なしではインターバルペーシングが難しくなる可能性がある。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-new-balance-880v14", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNew%2BBalance%2B880v14%2F", markets: ["JP"], approved: true },
@@ -4026,8 +4026,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☁️",
     name: { en: "Hoka Clifton 9", ja: "ホカ クリフトン 9" },
     description: {
-      en: "~¥19,000 recovery and long-run pick. 38 mm heel stack, 4 mm heel-to-toe drop, meta-rocker geometry reduces ankle range-of-motion demand, CMEVA foam. Low drop loads calf and Achilles more than higher-drop alternatives — 2-3 week adaptation required for heel strikers; maximal stack creates a floating feel that disorients some runners at faster effort; limited wide-width availability in Japan.",
-      ja: "約¥19,000のリカバリー・ロングランピック。38mmヒールスタック、4mmヒールトゥドロップ、足首の可動域要求を削減するメタロッカージオメトリ、CMEVAフォーム。低ドロップがより高ドロップの代替よりふくらはぎとアキレスに多く負担を掛ける——ヒールストライカーに2〜3週間の適応が必要；マキシマルスタックが速いペース時に一部ランナーの方向感覚を失わせる浮遊感を生み出す；日本での幅広対応が限られている。",
+      en: "Recovery and long-run pick. 38 mm heel stack, 4 mm heel-to-toe drop, meta-rocker geometry reduces ankle range-of-motion demand, CMEVA foam. Low drop loads calf and Achilles more than higher-drop alternatives — 2-3 week adaptation required for heel strikers; maximal stack creates a floating feel that disorients some runners at faster effort; limited wide-width availability in Japan.",
+      ja: "リカバリー・ロングランピック。38mmヒールスタック、4mmヒールトゥドロップ、足首の可動域要求を削減するメタロッカージオメトリ、CMEVAフォーム。低ドロップがより高ドロップの代替よりふくらはぎとアキレスに多く負担を掛ける——ヒールストライカーに2〜3週間の適応が必要；マキシマルスタックが速いペース時に一部ランナーの方向感覚を失わせる浮遊感を生み出す；日本での幅広対応が限られている。",
     },
     links: [
       { network: "amazon-us", productId: "B0C1PGQMFG", rawUrl: "https://www.amazon.com/dp/B0C1PGQMFG", markets: ["US"], approved: true },
@@ -4044,8 +4044,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "👜",
     name: { en: "Nike Brasilia 9.5 Training Duffel Bag", ja: "ナイキ ブラジリア 9.5 トレーニングダッフルバッグ" },
     description: {
-      en: "~¥6,000-9,000 all-around gym duffel. Separate ventilated shoe compartment, multiple size options (XS 18L to XL 60L), 600D polyester exterior. No padded laptop sleeve; shoe compartment ventilated not sealed so odors partially enter main compartment; 600D polyester absorbs more moisture than coated nylon; not machine washable without degrading construction.",
-      ja: "約¥6,000〜9,000の万能ジムダッフル。独立ベンチレーションシューズコンパートメント、複数サイズ展開（XS 18L〜XL 60L）、600Dポリエステル外装。パッド入りノートパソコンスリーブなし；シューズコンパートメントはシール式でなくベンチレーション式のため臭いが一部メインコンパートメントに流入；600Dポリエステルはコーティングナイロンより湿気を吸収；構造を損傷せずには機械洗い不可。",
+      en: "All-around gym duffel. Separate ventilated shoe compartment, multiple size options (XS 18L to XL 60L), 600D polyester exterior. No padded laptop sleeve; shoe compartment ventilated not sealed so odors partially enter main compartment; 600D polyester absorbs more moisture than coated nylon; not machine washable without degrading construction.",
+      ja: "万能ジムダッフル。独立ベンチレーションシューズコンパートメント、複数サイズ展開（XS 18L〜XL 60L）、600Dポリエステル外装。パッド入りノートパソコンスリーブなし；シューズコンパートメントはシール式でなくベンチレーション式のため臭いが一部メインコンパートメントに流入；600Dポリエステルはコーティングナイロンより湿気を吸収；構造を損傷せずには機械洗い不可。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-nike-brasilia-9-5", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNike%2BBrasilia%2B%E3%83%80%E3%83%83%E3%83%95%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -4060,8 +4060,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💧",
     name: { en: "Under Armour Undeniable 5.0 Duffel Bag", ja: "アンダーアーマー アンデナイアブル 5.0 ダッフルバッグ" },
     description: {
-      en: "~¥7,000-12,000 water-repellent duffel. UA Storm finish, moldable internal organization system, sizes S 32L to XL 109L. Wet pocket smaller than main compartment — full post-workout outfit change taxes the volume; UA Storm coating degrades with machine washing; moldable dividers add complexity some owners find harder to use than a simple main compartment.",
-      ja: "約¥7,000〜12,000の撥水ダッフル。UA Storm仕上げ、モールダブル内部オーガナイズシステム、S 32L〜XL 109Lのサイズ展開。ウェットポケットはメインコンパートメントより小さくポスト・ワークアウトのフルウェアチェンジには不十分；UA Stormコーティングは機械洗いで劣化；モールダブル仕切りはシンプルなコンパートメントより使い方が難しいと感じるオーナーもいる。",
+      en: "Water-repellent duffel. UA Storm finish, moldable internal organization system, sizes S 32L to XL 109L. Wet pocket smaller than main compartment — full post-workout outfit change taxes the volume; UA Storm coating degrades with machine washing; moldable dividers add complexity some owners find harder to use than a simple main compartment.",
+      ja: "撥水ダッフル。UA Storm仕上げ、モールダブル内部オーガナイズシステム、S 32L〜XL 109Lのサイズ展開。ウェットポケットはメインコンパートメントより小さくポスト・ワークアウトのフルウェアチェンジには不十分；UA Stormコーティングは機械洗いで劣化；モールダブル仕切りはシンプルなコンパートメントより使い方が難しいと感じるオーナーもいる。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-ua-undeniable-5", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%A2%E3%83%BC%E3%83%9E%E3%83%BC%2B%E3%82%A2%E3%83%B3%E3%83%87%E3%83%8A%E3%82%A4%E3%82%A2%E3%83%96%E3%83%AB%2B5%2F", markets: ["JP"], approved: true },
@@ -4076,8 +4076,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "♻️",
     name: { en: "Adidas Defender 4 Duffel Bag", ja: "アディダス ディフェンダー 4 ダッフルバッグ" },
     description: {
-      en: "~¥6,000-8,000 gym-to-office duffel. 100% recycled polyester, padded laptop sleeve, front zip pocket. Smaller dedicated wet compartment than Brasilia 9.5 — fits shoes or wet clothes, not both comfortably; no UA Storm equivalent water-repellent finish; sustainability claims are real but functionally equivalent to standard polyester for gym use.",
-      ja: "約¥6,000〜8,000のジム→オフィス通勤ダッフル。100%リサイクルポリエステル、パッド入りノートパソコンスリーブ、フロントジップポケット。ブラジリア9.5より小さい専用ウェットコンパートメント——シューズかウェットウェアのどちらかは入るが両方快適には入らない；UA Storm相当の撥水加工なし；サステナビリティ訴求は本物だがジム使用では標準ポリエステルと機能的に同等。",
+      en: "Gym-to-office duffel. 100% recycled polyester, padded laptop sleeve, front zip pocket. Smaller dedicated wet compartment than Brasilia 9.5 — fits shoes or wet clothes, not both comfortably; no UA Storm equivalent water-repellent finish; sustainability claims are real but functionally equivalent to standard polyester for gym use.",
+      ja: "ジム→オフィス通勤ダッフル。100%リサイクルポリエステル、パッド入りノートパソコンスリーブ、フロントジップポケット。ブラジリア9.5より小さい専用ウェットコンパートメント——シューズかウェットウェアのどちらかは入るが両方快適には入らない；UA Storm相当の撥水加工なし；サステナビリティ訴求は本物だがジム使用では標準ポリエステルと機能的に同等。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-adidas-defender-4", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9%2B%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%2B4%2F", markets: ["JP"], approved: true },
@@ -4091,8 +4091,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🎒",
     name: { en: "Anello Gym Bag", ja: "アネロ ジムバッグ" },
     description: {
-      en: "~¥4,000-7,000 Japanese commuter gym bag. Luggage handle attachment sleeve, locker-compatible approximately 30L, popular with Japanese commuters. No dedicated sealed wet compartment — wet gear pouch less reliably isolated than sports brand designs; 30L capacity limits gym-plus-full-commute loads with laptop; high brand recognition in Japan means less discounting than international brands.",
-      ja: "約¥4,000〜7,000の日本製通勤ジムバッグ。スーツケースハンドル固定スリーブ、約30Lでロッカー適合、日本のビジネス通勤者に人気。専用シールドウェットコンパートメントなし——ウェットギアポーチはスポーツブランド設計より信頼性が低い；30Lはノートパソコン込みのフル通勤荷物には制限；日本での知名度が高く国際ブランドより値引きが少ない傾向。",
+      en: "Japanese commuter gym bag. Luggage handle attachment sleeve, locker-compatible approximately 30L, popular with Japanese commuters. No dedicated sealed wet compartment — wet gear pouch less reliably isolated than sports brand designs; 30L capacity limits gym-plus-full-commute loads with laptop; high brand recognition in Japan means less discounting than international brands.",
+      ja: "日本製通勤ジムバッグ。スーツケースハンドル固定スリーブ、約30Lでロッカー適合、日本のビジネス通勤者に人気。専用シールドウェットコンパートメントなし——ウェットギアポーチはスポーツブランド設計より信頼性が低い；30Lはノートパソコン込みのフル通勤荷物には制限；日本での知名度が高く国際ブランドより値引きが少ない傾向。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-anello-gym-bag", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%8D%E3%83%AD%2B%E3%82%B8%E3%83%A0%E3%83%90%E3%83%83%E3%82%B0%2F", markets: ["JP"], approved: true },
@@ -4107,8 +4107,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏔️",
     name: { en: "The North Face Base Camp Duffel S", ja: "ザ・ノース・フェイス ベースキャンプ ダッフル S" },
     description: {
-      en: "~¥16,000-18,000 travel-and-gym convertible duffel (50L). 420D ripstop nylon, welded base, convertible backpack straps. Most durable bag in this comparison. 50L too large for most private gym lockers in Japan; no dedicated wet compartment; price premium justified by travel versatility and durability, not gym-specific feature execution.",
-      ja: "約¥16,000〜18,000の旅行×ジム兼用コンバーチブルダッフル（50L）。420Dリップストップナイロン・溶着底面・コンバーチブルバックパックストラップ。この比較で最高耐久性。50Lは日本の大半の民間ジムロッカーに収まらない；専用ウェットコンパートメントなし；プレミアムは旅行汎用性と耐久性によるもので、ジム専用機能の実行品質ではない。",
+      en: "Travel-and-gym convertible duffel (50L). 420D ripstop nylon, welded base, convertible backpack straps. Most durable bag in this comparison. 50L too large for most private gym lockers in Japan; no dedicated wet compartment; price premium justified by travel versatility and durability, not gym-specific feature execution.",
+      ja: "旅行×ジム兼用コンバーチブルダッフル（50L）。420Dリップストップナイロン・溶着底面・コンバーチブルバックパックストラップ。この比較で最高耐久性。50Lは日本の大半の民間ジムロッカーに収まらない；専用ウェットコンパートメントなし；プレミアムは旅行汎用性と耐久性によるもので、ジム専用機能の実行品質ではない。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-tnf-base-camp-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%2B%E3%83%99%E3%83%BC%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%2B%E3%83%80%E3%83%83%E3%83%95%E3%83%AB%2FS%2F", markets: ["JP"], approved: true },
@@ -4124,8 +4124,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "👜",
     name: { en: "Nike Brasilia 9.5 Training Duffel Bag (Medium)", ja: "ナイキ ブラジリア 9.5 トレーニングダッフルバッグ (M)" },
     description: {
-      en: "~¥6,000-9,000 all-around gym duffel (36L medium). Separate ventilated shoe compartment, wide colorway selection, 600D polyester exterior. No padded laptop sleeve; ventilated shoe compartment allows some odor transfer; 600D polyester absorbs more moisture than coated nylon.",
-      ja: "約¥6,000〜9,000の万能ジムダッフル（Mサイズ36L）。独立ベンチレーションシューズコンパートメント、豊富なカラーバリエーション、600Dポリエステル外装。パッド入りノートパソコンスリーブなし；ベンチレーション式シューコンパートメントで臭いが一部流入；600Dポリエステルはコーティングナイロンより湿気を吸収しやすい。",
+      en: "All-around gym duffel (36L medium). Separate ventilated shoe compartment, wide colorway selection, 600D polyester exterior. No padded laptop sleeve; ventilated shoe compartment allows some odor transfer; 600D polyester absorbs more moisture than coated nylon.",
+      ja: "万能ジムダッフル（Mサイズ36L）。独立ベンチレーションシューズコンパートメント、豊富なカラーバリエーション、600Dポリエステル外装。パッド入りノートパソコンスリーブなし；ベンチレーション式シューコンパートメントで臭いが一部流入；600Dポリエステルはコーティングナイロンより湿気を吸収しやすい。",
     },
     links: [
       { network: "amazon-us", productId: "B09BFVZS7T", rawUrl: "https://www.amazon.com/dp/B09BFVZS7T", markets: ["US"], approved: true },
@@ -4141,8 +4141,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💧",
     name: { en: "Under Armour Undeniable 5.0 MD Duffle Bag", ja: "アンダーアーマー アンデナイアブル 5.0 MD ダッフルバッグ" },
     description: {
-      en: "~¥7,000-12,000 water-repellent MD duffel (58L). UA Storm water-repellent finish, moldable internal organization, designated wet pocket. Wet pocket smaller than main compartment; UA Storm coating degrades with machine washing.",
-      ja: "約¥7,000〜12,000の撥水MDダッフル（58L）。UA Storm撥水仕上げ、モールダブル内部オーガナイズ、専用ウェットポケット。ウェットポケットはメインコンパートメントより小さい；UA Stormコーティングは機械洗いで劣化。",
+      en: "Water-repellent MD duffel (58L). UA Storm water-repellent finish, moldable internal organization, designated wet pocket. Wet pocket smaller than main compartment; UA Storm coating degrades with machine washing.",
+      ja: "撥水MDダッフル（58L）。UA Storm撥水仕上げ、モールダブル内部オーガナイズ、専用ウェットポケット。ウェットポケットはメインコンパートメントより小さい；UA Stormコーティングは機械洗いで劣化。",
     },
     links: [
       { network: "amazon-us", productId: "B08KGQK7GY", rawUrl: "https://www.amazon.com/dp/B08KGQK7GY", markets: ["US"], approved: true },
@@ -4158,8 +4158,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🦈",
     name: { en: "Gymshark Everyday Gym Bag", ja: "ジムシャーク エブリデイジムバッグ" },
     description: {
-      en: "~¥8,000-12,000 lifestyle-focused gym bag. Sleek minimalist design, laptop-compatible main compartment, ventilated shoe pouch, ergonomic padded straps. No dedicated sealed wet compartment; premium price vs feature set.",
-      ja: "約¥8,000〜12,000のライフスタイル重視ジムバッグ。スリークなミニマルデザイン、ノートパソコン対応メインコンパートメント、ベンチレーションシューズポーチ、エルゴノミクスパッドストラップ。専用シールドウェットコンパートメントなし；機能に対してプレミアム価格。",
+      en: "Lifestyle-focused gym bag. Sleek minimalist design, laptop-compatible main compartment, ventilated shoe pouch, ergonomic padded straps. No dedicated sealed wet compartment; premium price vs feature set.",
+      ja: "ライフスタイル重視ジムバッグ。スリークなミニマルデザイン、ノートパソコン対応メインコンパートメント、ベンチレーションシューズポーチ、エルゴノミクスパッドストラップ。専用シールドウェットコンパートメントなし；機能に対してプレミアム価格。",
     },
     links: [
       { network: "amazon-us", productId: "B0BQJN9P8X", rawUrl: "https://www.amazon.com/dp/B0BQJN9P8X", markets: ["US"], approved: true },
@@ -4175,8 +4175,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "♻️",
     name: { en: "Adidas Defender 4 Small Duffel Bag", ja: "アディダス ディフェンダー 4 スモール ダッフルバッグ" },
     description: {
-      en: "~¥5,000-7,000 compact gym-to-office duffel (S size). 100% recycled polyester, padded laptop sleeve, front zip pocket for quick-access items. Smaller wet compartment than medium duffels; no water-repellent exterior finish.",
-      ja: "約¥5,000〜7,000のコンパクトなジム→オフィス兼用ダッフル（Sサイズ）。100%リサイクルポリエステル、パッド入りノートパソコンスリーブ、クイックアクセス用フロントジップポケット。ミディアムダッフルより小さいウェットコンパートメント；撥水外装仕上げなし。",
+      en: "Compact gym-to-office duffel (S size). 100% recycled polyester, padded laptop sleeve, front zip pocket for quick-access items. Smaller wet compartment than medium duffels; no water-repellent exterior finish.",
+      ja: "コンパクトなジム→オフィス兼用ダッフル（Sサイズ）。100%リサイクルポリエステル、パッド入りノートパソコンスリーブ、クイックアクセス用フロントジップポケット。ミディアムダッフルより小さいウェットコンパートメント；撥水外装仕上げなし。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-adidas-defender-4-s", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%83%87%E3%82%A3%E3%83%80%E3%82%B9%2B%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%2B4%2B%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -4191,8 +4191,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏋️",
     name: { en: "Gold's Gym Duffel Bag", ja: "ゴールドジム ダッフルバッグ" },
     description: {
-      en: "~¥3,000-5,000 value gym duffel. Classic gym brand, durable polyester build, separate shoe compartment, large main compartment with inner organizer pocket. Basic construction without specialized wet/dry separation; limited colorway options.",
-      ja: "約¥3,000〜5,000のコスパ重視ジムダッフル。クラシックなジムブランド、耐久性ポリエステル構造、独立シューズコンパートメント、インナーオーガナイザーポケット付き大容量メインコンパートメント。専用ウェット/ドライ分離のない基本構造；カラーバリエーション少なめ。",
+      en: "Value gym duffel. Classic gym brand, durable polyester build, separate shoe compartment, large main compartment with inner organizer pocket. Basic construction without specialized wet/dry separation; limited colorway options.",
+      ja: "コスパ重視ジムダッフル。クラシックなジムブランド、耐久性ポリエステル構造、独立シューズコンパートメント、インナーオーガナイザーポケット付き大容量メインコンパートメント。専用ウェット/ドライ分離のない基本構造；カラーバリエーション少なめ。",
     },
     links: [
       { network: "amazon-us", productId: "B07WGPNKQT", rawUrl: "https://www.amazon.com/dp/B07WGPNKQT", markets: ["US"], approved: true },
@@ -4209,8 +4209,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💧",
     name: { en: "Hydro Flask 32oz Wide Mouth", ja: "ハイドロフラスク 32oz ワイドマウス" },
     description: {
-      en: "~¥5,000-7,000 benchmark insulated wide-mouth bottle. TempShield double-wall vacuum insulation (24hr cold / 12hr hot lab spec), interchangeable lid system, uncoated 18/8 stainless interior. Heaviest in this comparison at 454g empty; included Flex Cap requires two-handed operation — straw or flip lid sold separately; hand-wash only, not dishwasher-certified; premium pricing versus domestic vacuum bottles.",
-      ja: "約¥5,000〜7,000の断熱ワイドマウスボトルのベンチマーク。TempShield二重真空断熱（冷24時間・温12時間ラボ値）、交換可能な蓋システム、風味を残さないコーティングなし18/8ステンレス内部。このレビューで最重量（空454g）；付属フレックスキャップは両手操作必要——ストロー・フリップ蓋は別売り；公式手洗い推奨、食洗機非対応；国産真空ボトルより価格高め。",
+      en: "Benchmark insulated wide-mouth bottle. TempShield double-wall vacuum insulation (24hr cold / 12hr hot lab spec), interchangeable lid system, uncoated 18/8 stainless interior. Heaviest in this comparison at 454g empty; included Flex Cap requires two-handed operation — straw or flip lid sold separately; hand-wash only, not dishwasher-certified; premium pricing versus domestic vacuum bottles.",
+      ja: "断熱ワイドマウスボトルのベンチマーク。TempShield二重真空断熱（冷24時間・温12時間ラボ値）、交換可能な蓋システム、風味を残さないコーティングなし18/8ステンレス内部。このレビューで最重量（空454g）；付属フレックスキャップは両手操作必要——ストロー・フリップ蓋は別売り；公式手洗い推奨、食洗機非対応；国産真空ボトルより価格高め。",
     },
     links: [
       { network: "amazon-us", productId: "B07CTXH2HX", rawUrl: "https://www.amazon.com/dp/B07CTXH2HX", markets: ["US"], approved: true },
@@ -4226,8 +4226,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🥤",
     name: { en: "Stanley Quencher 30oz", ja: "スタンレー クエンチャー 30oz" },
     description: {
-      en: "~¥5,000-8,000 vacuum-insulated tumbler. Wide straw lid, tapered base fits cup holders, ergonomic handle, large color selection. Cons: straw lid requires disassembly for thorough cleaning; tapered profile does not fit narrow backpack bottle pockets cleanly; some user reports of lid gasket and straw deterioration over months; quality consistency issues from rapid color expansion.",
-      ja: "約¥5,000〜8,000の真空断熱タンブラー。ワイドストロー蓋、テーパー底でカップホルダー対応、ハンドル付き、豊富なカラー。弱点：ストロー蓋は完全洗浄に分解必要；テーパー形状でバックパックの細いボトルポケットに収まりにくい；蓋ガスケット・ストロー劣化の報告あり；カラー急拡大による品質一貫性の問題。",
+      en: "Vacuum-insulated tumbler. Wide straw lid, tapered base fits cup holders, ergonomic handle, large color selection. Cons: straw lid requires disassembly for thorough cleaning; tapered profile does not fit narrow backpack bottle pockets cleanly; some user reports of lid gasket and straw deterioration over months; quality consistency issues from rapid color expansion.",
+      ja: "真空断熱タンブラー。ワイドストロー蓋、テーパー底でカップホルダー対応、ハンドル付き、豊富なカラー。弱点：ストロー蓋は完全洗浄に分解必要；テーパー形状でバックパックの細いボトルポケットに収まりにくい；蓋ガスケット・ストロー劣化の報告あり；カラー急拡大による品質一貫性の問題。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-stanley-quencher-30oz", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%AC%E3%83%BC%2B%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -4244,8 +4244,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🥾",
     name: { en: "Nalgene 32oz Wide Mouth Tritan", ja: "ナルゲン 32oz ワイドマウス Tritan" },
     description: {
-      en: "~¥1,500-2,500 lightweight non-insulated utility bottle. 180g empty — lightest in comparison, 63mm wide mouth accepts hand cleaning, BPA-free Tritan fully dishwasher-safe and drop-resistant. Cons: no insulation — drinks reach ambient temperature within 30-60 minutes; screw cap requires two hands; plastic retains odors from strongly flavored drinks more persistently than stainless; wrong choice for all-day cold water carry in warm conditions.",
-      ja: "約¥1,500〜2,500の軽量非断熱実用ボトル。空180g——このレビューで最軽量、63mmワイドマウスで手洗い可、BPAフリーTritanで食洗機完全対応・耐衝撃性あり。弱点：断熱なし——飲み物は30〜60分で外気温に近づく；スクリューキャップは両手操作必要；強い風味飲料のにおいがステンレスより残りやすい；暖かい時季の終日冷水携帯には不向き。",
+      en: "Lightweight non-insulated utility bottle. 180g empty — lightest in comparison, 63mm wide mouth accepts hand cleaning, BPA-free Tritan fully dishwasher-safe and drop-resistant. Cons: no insulation — drinks reach ambient temperature within 30-60 minutes; screw cap requires two hands; plastic retains odors from strongly flavored drinks more persistently than stainless; wrong choice for all-day cold water carry in warm conditions.",
+      ja: "軽量非断熱実用ボトル。空180g——このレビューで最軽量、63mmワイドマウスで手洗い可、BPAフリーTritanで食洗機完全対応・耐衝撃性あり。弱点：断熱なし——飲み物は30〜60分で外気温に近づく；スクリューキャップは両手操作必要；強い風味飲料のにおいがステンレスより残りやすい；暖かい時季の終日冷水携帯には不向き。",
     },
     links: [
       { network: "amazon-us", productId: "B00MFBIXM0", rawUrl: "https://www.amazon.com/dp/B00MFBIXM0", markets: ["US"], approved: true },
@@ -4261,8 +4261,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🚂",
     name: { en: "Thermos JNI-502", ja: "サーモス JNI-502" },
     description: {
-      en: "~¥2,500-4,000 compact 500ml Japanese vacuum stainless commuter bottle. Push-button lid with screw-lock base for one-handed access after initial unlock, 24hr cold rating, widely available at Japanese retailers. Cons: 500ml is half the volume of 32oz bottles — requires more frequent refills; 40mm mouth narrower than wide-mouth competitors; brand-specific lid system not interchangeable with third-party accessories; hand-wash only.",
-      ja: "約¥2,500〜4,000のコンパクト500ml国産真空ステンレス通勤ボトル。スクリューロックベースのプッシュボタン蓋で初期解除後に片手操作可能、保冷24時間、国内で広く流通。弱点：500mlは32ozボトルの半分——より頻繁な給水が必要；40mm口径はワイドマウス競合より狭い；ブランド固有蓋システムでサードパーティアクセサリー非対応；手洗い推奨。",
+      en: "Compact 500ml Japanese vacuum stainless commuter bottle. Push-button lid with screw-lock base for one-handed access after initial unlock, 24hr cold rating, widely available at Japanese retailers. Cons: 500ml is half the volume of 32oz bottles — requires more frequent refills; 40mm mouth narrower than wide-mouth competitors; brand-specific lid system not interchangeable with third-party accessories; hand-wash only.",
+      ja: "コンパクト500ml国産真空ステンレス通勤ボトル。スクリューロックベースのプッシュボタン蓋で初期解除後に片手操作可能、保冷24時間、国内で広く流通。弱点：500mlは32ozボトルの半分——より頻繁な給水が必要；40mm口径はワイドマウス競合より狭い；ブランド固有蓋システムでサードパーティアクセサリー非対応；手洗い推奨。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-thermos-jni-502", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%83%BC%E3%83%A2%E3%82%B9+JNI-502%2F", markets: ["JP"], approved: true },
@@ -4279,8 +4279,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Klean Kanteen 20oz TKWide", ja: "クリーンカンティーン 20oz TKWide" },
     description: {
-      en: "~¥4,000-6,000 compact insulated bottle compatible with Café Cap for dual water/coffee use. 18/8 stainless interior, vacuum insulation comparable to Hydro Flask. Cons: Café Cap sold separately from standard lid — multi-use capability requires additional purchase; 20oz limits all-day hydration without refilling; lower Japan-market brand recognition means fewer long-term reviews; import pricing runs above US equivalent; not strongest choice for pure water-only use.",
-      ja: "約¥4,000〜6,000のカフェキャップ対応コンパクト断熱ボトル（水とコーヒーの兼用可）。18/8ステンレス内部、ハイドロフラスク同等の真空断熱。弱点：カフェキャップは標準蓋と別売り——マルチユースには追加購入必要；20ozは終日水分補給に不十分；日本市場での認知度が低くレビュー数少ない；輸入コストで米国より価格高め；純粋な水専用ではハイドロフラスクやサーモスとの比較で優位性薄い。",
+      en: "Compact insulated bottle compatible with Café Cap for dual water/coffee use. 18/8 stainless interior, vacuum insulation comparable to Hydro Flask. Cons: Café Cap sold separately from standard lid — multi-use capability requires additional purchase; 20oz limits all-day hydration without refilling; lower Japan-market brand recognition means fewer long-term reviews; import pricing runs above US equivalent; not strongest choice for pure water-only use.",
+      ja: "カフェキャップ対応コンパクト断熱ボトル（水とコーヒーの兼用可）。18/8ステンレス内部、ハイドロフラスク同等の真空断熱。弱点：カフェキャップは標準蓋と別売り——マルチユースには追加購入必要；20ozは終日水分補給に不十分；日本市場での認知度が低くレビュー数少ない；輸入コストで米国より価格高め；純粋な水専用ではハイドロフラスクやサーモスとの比較で優位性薄い。",
     },
     links: [
       { network: "amazon-us", productId: "B07K6Q25P5", rawUrl: "https://www.amazon.com/dp/B07K6Q25P5", markets: ["US"], approved: true },
@@ -4296,7 +4296,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Herman Miller Aeron", ja: "ハーマンミラー アーロン" },
     description: {
       en: "World-standard ergonomic flagship. 8ZonedSupport Pellicle mesh, PostureFit SL dual sacral-lumbar support, 4D armrests, 12-year warranty. Three sizes (A/B/C) — must select correct size. Explicit weakness: price requires genuine long-term WFH commitment; wrong size negates all ergonomic benefit; aesthetic divides opinion in home environments; 12-year warranty non-transferable in Japan.",
-      ja: "約¥200,000の世界標準エルゴノミクス フラッグシップ。8ゾーンサポート ペリクルメッシュ、PostureFit SL2点仙骨腰椎サポート、4Dアームレスト、12年保証。A/B/Cの3サイズ展開 — 正しいサイズ選択必須。弱点：価格は長期テレワーク継続なしには正当化困難；誤サイズだとエルゴノミクス機能を発揮しない；自宅環境では賛否分かれる外観；日本では12年保証は転売不可。",
+      ja: "世界標準エルゴノミクス フラッグシップ。8ゾーンサポート ペリクルメッシュ、PostureFit SL2点仙骨腰椎サポート、4Dアームレスト、12年保証。A/B/Cの3サイズ展開 — 正しいサイズ選択必須。弱点：価格は長期テレワーク継続なしには正当化困難；誤サイズだとエルゴノミクス機能を発揮しない；自宅環境では賛否分かれる外観；日本では12年保証は転売不可。",
     },
     links: [
       { network: "amazon-us", productId: "B0002KJJ1Y", rawUrl: "https://www.amazon.com/dp/B0002KJJ1Y", markets: ["US"], approved: true },
@@ -4311,7 +4311,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Steelcase Leap V2", ja: "スティールケース リープV2" },
     description: {
       en: "LiveBack flexible spine mechanism flagship. Back changes shape as you move, natural glide seat pan, upper/lower back adjustment, 12-year warranty. Best for users who shift posture constantly. Explicit weakness: LiveBack advantage unused by static sitters; Japan availability primarily corporate/premium retail; mechanism complexity confuses some users.",
-      ja: "約¥150,000のライブバック可動脊椎機構フラッグシップ。動きに合わせて背もたれが変形、ナチュラルグライド座面、上下背もたれ調整、12年保証。姿勢を常に変える方に最適。弱点：硬直着座ではライブバックの優位性を活かせない；日本では主に法人・プレミアム小売での入手；機構が複雑でわかりにくいという声もある。",
+      ja: "ライブバック可動脊椎機構フラッグシップ。動きに合わせて背もたれが変形、ナチュラルグライド座面、上下背もたれ調整、12年保証。姿勢を常に変える方に最適。弱点：硬直着座ではライブバックの優位性を活かせない；日本では主に法人・プレミアム小売での入手；機構が複雑でわかりにくいという声もある。",
     },
     price: "$1,376.00",
     links: [
@@ -4327,7 +4327,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Okamura Contessa Seconda", ja: "オカムラ コンテッサ セコンダ" },
     description: {
       en: "Peak of Japanese domestic mesh chair engineering. Designed for Japanese body proportions, national Okamura service network, standard and large sizes. Explicit weakness: price-tier faces Herman Miller/Steelcase competition; primary sales channel is corporate procurement; back mechanism less dynamically responsive than Leap V2's LiveBack.",
-      ja: "約¥100,000の国産メッシュ最高峰。日本人体型に最適化設計、全国オカムラサービスネットワーク、標準・大サイズ展開。弱点：同価格帯にハーマンミラー・スティールケースが競合；主要販売チャネルが法人調達；背もたれ機構はリープV2のライブバックより動的対応性が低い。",
+      ja: "国産メッシュ最高峰。日本人体型に最適化設計、全国オカムラサービスネットワーク、標準・大サイズ展開。弱点：同価格帯にハーマンミラー・スティールケースが競合；主要販売チャネルが法人調達；背もたれ機構はリープV2のライブバックより動的対応性が低い。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-okamura-contessa-seconda", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%82%AB%E3%83%A0%E3%83%A9%2B%E3%82%B3%E3%83%B3%E3%83%86%E3%83%83%E3%82%B5%2B%E3%82%BB%E3%82%B3%E3%83%B3%E3%83%80%2F", markets: ["JP"], approved: true },
@@ -4344,7 +4344,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Flexispot OC3 Ergonomic Chair", ja: "フレキシスポット OC3 エルゴノミクスチェア" },
     description: {
       en: "Budget ergonomic pick with adjustable lumbar support, reclining, height adjustment. Available via Amazon Japan Prime. Explicit weakness: foam seat compression expected within 12-24 months of heavy use; lumbar pad (not structural mechanism); build quality not in same class as premium picks; 3-year warranty with email-only support.",
-      ja: "約¥30,000の予算エルゴノミクス枠。調整可能ランバーサポート・リクライニング・高さ調整搭載。Amazon Japan Primeで入手可能。弱点：重使用12〜24か月でウレタン座面のへたりが予想される；ランバーはパッド式で構造的機構ではない；ビルド品質はプレミアム製品と同クラスにない；3年保証でサポートはメール対応のみ。",
+      ja: "予算エルゴノミクス枠。調整可能ランバーサポート・リクライニング・高さ調整搭載。Amazon Japan Primeで入手可能。弱点：重使用12〜24か月でウレタン座面のへたりが予想される；ランバーはパッド式で構造的機構ではない；ビルド品質はプレミアム製品と同クラスにない；3年保証でサポートはメール対応のみ。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-flexispot-oc3", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFlexispot%2BOC3%2B%E3%82%A8%E3%83%AB%E3%82%B4%E3%83%8E%E3%83%9F%E3%82%AF%E3%82%B9%E3%83%81%E3%82%A7%E3%82%A2%2F", markets: ["JP"], approved: true },
@@ -4360,7 +4360,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "IKEA Markus", ja: "IKEA マルクス" },
     description: {
       en: "IKEA entry-level with fixed built-in lumbar support, height adjustment, 10-year IKEA guarantee. Available at IKEA Japan stores. Explicit weakness: fixed lumbar either fits your spine or it does not — no adjustment path; foam compression in long-term heavy use; no armrest width/pivot adjustment; not appropriate for 7+ hour daily use or existing back problems.",
-      ja: "約¥25,000のIKEA入門モデル。固定内蔵ランバーサポート・高さ調整・IKEA品質保証10年。IKEA Japan店舗で入手可能。弱点：固定ランバーは体型に合うか合わないかで調整の余地なし；長期重使用でのウレタンへたり；アームレストの幅・ピボット調整なし；1日7時間以上の着座や既存腰背部問題がある方には不適。",
+      ja: "IKEA入門モデル。固定内蔵ランバーサポート・高さ調整・IKEA品質保証10年。IKEA Japan店舗で入手可能。弱点：固定ランバーは体型に合うか合わないかで調整の余地なし；長期重使用でのウレタンへたり；アームレストの幅・ピボット調整なし；1日7時間以上の着座や既存腰背部問題がある方には不適。",
     },
     price: "$299.99",
     links: [
@@ -4396,7 +4396,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "IQAir AirVisual Node", ja: "IQAir AirVisual Node" },
     description: {
       en: "Professional-grade air quality monitor. Laser PM2.5, NDIR CO2, temperature, humidity, outdoor AQI station data overlay. Highest PM2.5 accuracy in this comparison. Weakness: no smart home integration (no HomeKit/Alexa/Google Home), most expensive in comparison, dated interface.",
-      ja: "約4万5,000円のプロフェッショナルグレード空気質モニター。レーザーPM2.5・NDIR CO2・温湿度・屋外AQI観測局データ重ね表示。この比較で最高のPM2.5精度。弱点：スマートホーム連携なし（HomeKit/Alexa/Google Homeなし）。比較最高価格。インターフェース設計が古い。",
+      ja: "プロフェッショナルグレード空気質モニター。レーザーPM2.5・NDIR CO2・温湿度・屋外AQI観測局データ重ね表示。この比較で最高のPM2.5精度。弱点：スマートホーム連携なし（HomeKit/Alexa/Google Homeなし）。比較最高価格。インターフェース設計が古い。",
     },
     links: [
       { network: "amazon-us", productId: "B0784SVFQB", rawUrl: "https://www.amazon.com/dp/B0784SVFQB", markets: ["US"], approved: true },
@@ -4411,7 +4411,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Inkbird IAM-T1", ja: "Inkbird IAM-T1 CO2モニター" },
     description: {
       en: "NDIR CO2 + temperature + humidity monitor. Large readable display, button battery 6-12 months, Amazon Japan bestseller. Weakness: button battery gaps overnight; temperature reads 2-4°C high near heat sources; no PM2.5 or VOC sensor; no smart home integration.",
-      ja: "約5,000円のNDIR CO2＋温度＋湿度モニター。大型読みやすいディスプレイ、ボタン電池6〜12ヶ月、Amazon Japan人気製品。弱点：ボタン電池切れで夜間ギャップが生じる可能性。熱源近くで温度が2〜4°C高くなる。PM2.5センサーなし・VOCセンサーなし。スマートホーム連携なし。",
+      ja: "NDIR CO2＋温度＋湿度モニター。大型読みやすいディスプレイ、ボタン電池6〜12ヶ月、Amazon Japan人気製品。弱点：ボタン電池切れで夜間ギャップが生じる可能性。熱源近くで温度が2〜4°C高くなる。PM2.5センサーなし・VOCセンサーなし。スマートホーム連携なし。",
     },
     price: "$149.99",
     links: [
@@ -4426,7 +4426,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Govee Air Quality Monitor H5106", ja: "Govee 空気質モニター H5106" },
     description: {
       en: "CO2 + PM2.5 + temperature + humidity. Best sensor-count-per-yen in this comparison. Govee app integration. Weakness: no HomeKit/Google Home/Alexa; PM2.5 accuracy more variable than Awair or Kaiterra per user reports; sensor datasheets not published; small display.",
-      ja: "約4,000円のCO2＋PM2.5＋温度＋湿度。この比較でセンサー数/円の最高コスパ。Goveeアプリ連携。弱点：HomeKit/Google Home/Alexaなし。ユーザー報告でPM2.5精度がAwairやKaiterraより変動大きい。センサーデータシート非公開。小型ディスプレイ。",
+      ja: "CO2＋PM2.5＋温度＋湿度。この比較でセンサー数/円の最高コスパ。Goveeアプリ連携。弱点：HomeKit/Google Home/Alexaなし。ユーザー報告でPM2.5精度がAwairやKaiterraより変動大きい。センサーデータシート非公開。小型ディスプレイ。",
     },
     price: "$34.99",
     links: [
@@ -4441,7 +4441,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Kaiterra Laser Egg+ CO2", ja: "Kaiterra Laser Egg+ CO2" },
     description: {
       en: "Laser PM2.5 + NDIR CO2 + temperature + humidity. Best standalone display readability in this comparison. Japanese language support. Works without app. Weakness: HomeKit is cloud-dependent (Kaiterra bridge server, periodic outages); no VOC sensor; PM2.5 calibration algorithm not documented.",
-      ja: "約1万5,000円のレーザーPM2.5＋NDIR CO2＋温度＋湿度。この比較で最も読みやすいスタンドアロン表示。日本語対応。アプリなしで動作。弱点：HomeKitはクラウド依存（Kaiterraブリッジサーバー、定期的な停止あり）。VOCセンサーなし。PM2.5校正アルゴリズム非公開。",
+      ja: "レーザーPM2.5＋NDIR CO2＋温度＋湿度。この比較で最も読みやすいスタンドアロン表示。日本語対応。アプリなしで動作。弱点：HomeKitはクラウド依存（Kaiterraブリッジサーバー、定期的な停止あり）。VOCセンサーなし。PM2.5校正アルゴリズム非公開。",
     },
     price: "$199.99",
     links: [
@@ -4459,8 +4459,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📸",
     name: { en: "Fujifilm Instax Mini 12", ja: "フジフイルム Instax Mini 12" },
     description: {
-      en: "~¥8,000 fully automatic instant camera. 62×46mm Mini film prints, close-up mode, selfie mirror, 133g, AA batteries. Best entry-level instant camera for parties and gifts. Explicit weakness: Mini print is very small (62×46mm image area), zero manual exposure control, selfie mirror hard to use outdoors, no smartphone connectivity.",
-      ja: "約8,000円の完全自動インスタントカメラ。62×46mm Miniフィルム、クローズアップモード、自撮りミラー、133g、単3電池。パーティー・贈り物向け最入門機。明確な弱点：Miniプリントは非常に小さい（62×46mm画像面積）、手動露出コントロールなし、屋外では自撮りミラーが見づらい、スマホ接続なし。",
+      en: "Fully automatic instant camera. 62×46mm Mini film prints, close-up mode, selfie mirror, 133g, AA batteries. Best entry-level instant camera for parties and gifts. Explicit weakness: Mini print is very small (62×46mm image area), zero manual exposure control, selfie mirror hard to use outdoors, no smartphone connectivity.",
+      ja: "完全自動インスタントカメラ。62×46mm Miniフィルム、クローズアップモード、自撮りミラー、133g、単3電池。パーティー・贈り物向け最入門機。明確な弱点：Miniプリントは非常に小さい（62×46mm画像面積）、手動露出コントロールなし、屋外では自撮りミラーが見づらい、スマホ接続なし。",
     },
     links: [
       { network: "amazon-us", productId: "B0BVZLCGM8", rawUrl: "https://www.amazon.com/dp/B0BVZLCGM8", markets: ["US"], approved: true },
@@ -4475,8 +4475,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📷",
     name: { en: "Fujifilm Instax Wide 300", ja: "フジフイルム Instax Wide 300" },
     description: {
-      en: "~¥12,000 wide-format instant camera. 99×62mm Wide film prints (60% larger than Mini), 5-position dial exposure compensation, group and landscape capable, AAA batteries. Explicit weakness: large non-pocketable body, film costs ¥90–¥110/print, dated design, no smartphone connectivity, no close-up mode.",
-      ja: "約12,000円のワイドフォーマットインスタントカメラ。99×62mm Wideフィルム（Mini比約60%大）、5段階ダイヤル露出補正、集合写真・風景対応、単4電池。明確な弱点：大きくポケットに入らないボディ、フィルムが1枚90〜110円、古いデザイン、スマホ接続なし、クローズアップモードなし。",
+      en: "Wide-format instant camera. 99×62mm Wide film prints (60% larger than Mini), 5-position dial exposure compensation, group and landscape capable, AAA batteries. Explicit weakness: large non-pocketable body, film costs ¥90–¥110/print, dated design, no smartphone connectivity, no close-up mode.",
+      ja: "ワイドフォーマットインスタントカメラ。99×62mm Wideフィルム（Mini比約60%大）、5段階ダイヤル露出補正、集合写真・風景対応、単4電池。明確な弱点：大きくポケットに入らないボディ、フィルムが1枚90〜110円、古いデザイン、スマホ接続なし、クローズアップモードなし。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-fujifilm-instax-wide-300", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%B8%E3%83%95%E3%82%A4%E3%83%AB%E3%83%A0%2BInstax%2BWide%2B300%2F", markets: ["JP"], approved: true },
@@ -4492,8 +4492,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🎨",
     name: { en: "Polaroid Now+", ja: "Polaroid Now+" },
     description: {
-      en: "~¥18,000 creative instant camera. i-Type film (~79×79mm square prints with white border), Bluetooth app with double exposure, multiple exposure, light painting, self-timer, manual focus (2 zones). Explicit weakness: i-Type film costs ¥190–¥225/print in Japan (2.5–3x Instax Mini), cold weather causes underexposure below 10°C, film availability limited in Japan convenience stores.",
-      ja: "約18,000円のクリエイティブインスタントカメラ。i-Typeフィルム（約79×79mm白ボーダー付き正方形プリント）、Bluetoothアプリで二重露光・多重露光・光の軌跡・セルフタイマー・手動フォーカス（2ゾーン）。明確な弱点：日本でのi-Typeフィルムが1枚190〜225円（Instax Miniの2.5〜3倍）、10°C以下の寒冷時アンダー露出、コンビニでのフィルム入手性が限られる。",
+      en: "Creative instant camera. i-Type film (~79×79mm square prints with white border), Bluetooth app with double exposure, multiple exposure, light painting, self-timer, manual focus (2 zones). Explicit weakness: i-Type film costs ¥190–¥225/print in Japan (2.5–3x Instax Mini), cold weather causes underexposure below 10°C, film availability limited in Japan convenience stores.",
+      ja: "クリエイティブインスタントカメラ。i-Typeフィルム（約79×79mm白ボーダー付き正方形プリント）、Bluetoothアプリで二重露光・多重露光・光の軌跡・セルフタイマー・手動フォーカス（2ゾーン）。明確な弱点：日本でのi-Typeフィルムが1枚190〜225円（Instax Miniの2.5〜3倍）、10°C以下の寒冷時アンダー露出、コンビニでのフィルム入手性が限られる。",
     },
     links: [
       { network: "amazon-us", productId: "B08ZS7FM6P", rawUrl: "https://www.amazon.com/dp/B08ZS7FM6P", markets: ["US"], approved: true },
@@ -4508,8 +4508,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🖨️",
     name: { en: "Kodak Mini Shot 3 Retro", ja: "Kodak Mini Shot 3 Retro" },
     description: {
-      en: "~¥10,000 hybrid instant camera. 4PASS dye-sublimation printing, 68×84mm laminate prints, Bluetooth smartphone connectivity for printing phone photos, ~¥30–¥36/print with 50-print cartridges. Explicit weakness: 30–45 seconds per print (slow), Kodak app Bluetooth reliability issues reported, 68×84mm is non-standard frame size, heavily smartphone-dependent.",
-      ja: "約10,000円のハイブリッドインスタントカメラ。4PASSダイサブリメーション印刷、68×84mmラミネートプリント、Bluetoothスマホ接続でスマホ写真を印刷、50枚カートリッジで1枚約30〜36円。明確な弱点：1枚30〜45秒（遅い）、KodakアプリのBluetooth信頼性の問題、68×84mmは非標準フレームサイズ、スマホ依存度が高い。",
+      en: "Hybrid instant camera. 4PASS dye-sublimation printing, 68×84mm laminate prints, Bluetooth smartphone connectivity for printing phone photos, ~¥30–¥36/print with 50-print cartridges. Explicit weakness: 30–45 seconds per print (slow), Kodak app Bluetooth reliability issues reported, 68×84mm is non-standard frame size, heavily smartphone-dependent.",
+      ja: "ハイブリッドインスタントカメラ。4PASSダイサブリメーション印刷、68×84mmラミネートプリント、Bluetoothスマホ接続でスマホ写真を印刷、50枚カートリッジで1枚約30〜36円。明確な弱点：1枚30〜45秒（遅い）、KodakアプリのBluetooth信頼性の問題、68×84mmは非標準フレームサイズ、スマホ依存度が高い。",
     },
     links: [
       { network: "amazon-us", productId: "B09V1GYWGM", rawUrl: "https://www.amazon.com/dp/B09V1GYWGM", markets: ["US"], approved: true },
@@ -4524,8 +4524,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📱",
     name: { en: "Canon IVY CLIQ+2", ja: "Canon IVY CLIQ+2" },
     description: {
-      en: "~¥15,000 ZINK instant camera. 51×76mm (2×3 inch) zero-ink thermal prints, Bluetooth app with photo editing and AR effects before printing, 2-inch selfie mirror, ~¥35–¥45/print. Explicit weakness: smallest prints in this comparison (smaller than Instax Mini), ZINK colors less saturated than silver halide film, cold environments cause uneven color, expensive relative to Kodak Mini Shot for smaller prints.",
-      ja: "約15,000円のZINKインスタントカメラ。51×76mm（2×3インチ）ゼロインク熱転写プリント、Bluetoothアプリで編集とARエフェクト後印刷、2インチ自撮りミラー、1枚約35〜45円。明確な弱点：この比較で最小プリント（Instax Miniより小さい）、ZINKの色彩はハロゲンカラーフィルムより彩度が低い、寒冷環境で色むら、より小さいプリントでKodak Mini Shotより高価。",
+      en: "ZINK instant camera. 51×76mm (2×3 inch) zero-ink thermal prints, Bluetooth app with photo editing and AR effects before printing, 2-inch selfie mirror, ~¥35–¥45/print. Explicit weakness: smallest prints in this comparison (smaller than Instax Mini), ZINK colors less saturated than silver halide film, cold environments cause uneven color, expensive relative to Kodak Mini Shot for smaller prints.",
+      ja: "ZINKインスタントカメラ。51×76mm（2×3インチ）ゼロインク熱転写プリント、Bluetoothアプリで編集とARエフェクト後印刷、2インチ自撮りミラー、1枚約35〜45円。明確な弱点：この比較で最小プリント（Instax Miniより小さい）、ZINKの色彩はハロゲンカラーフィルムより彩度が低い、寒冷環境で色むら、より小さいプリントでKodak Mini Shotより高価。",
     },
     links: [
       { network: "amazon-us", productId: "B09HT2GJND", rawUrl: "https://www.amazon.com/dp/B09HT2GJND", markets: ["US"], approved: true },
@@ -4542,7 +4542,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔪",
     name: { en: "Global G-2 Chef's Knife", ja: "グローバル G-2 牛刀" },
     description: {
-      en: "~¥20,000-¥25,000. 20cm blade, VG-10 steel at 60-62 HRC, all-steel construction with dimpled handle. Thinnest edge in this comparison for precise fish and vegetable work. Chips on bones and hard boards; requires ceramic honing rod and careful whetstone technique.",
+      en: "20cm blade, VG-10 steel at 60-62 HRC, all-steel construction with dimpled handle. Thinnest edge in this comparison for precise fish and vegetable work. Chips on bones and hard boards; requires ceramic honing rod and careful whetstone technique.",
       ja: "約2万〜2万5千円。20cm刃・VG-10鋼60〜62HRC・ディンプルハンドルのオールスチール構造。このリストで最も薄い刃先で魚と野菜の精密な作業に最適。骨と硬いまな板に弱い；セラミック研ぎ棒と丁寧な砥石メンテが必要。",
     },
     links: [
@@ -4559,7 +4559,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⭐",
     name: { en: "Zwilling Four Star 7-Piece Block Set", ja: "ツヴィリング 四つ星 7点ブロックセット" },
     description: {
-      en: "~¥40,000-¥50,000. 7-piece block set, X50CrMoV15 German steel, ice-hardened to 57 HRC. Forgiving of rough technique and easy to hone. Softer than Japanese steel so needs more frequent honing; block set includes items you may rarely use.",
+      en: "7-piece block set, X50CrMoV15 German steel, ice-hardened to 57 HRC. Forgiving of rough technique and easy to hone. Softer than Japanese steel so needs more frequent honing; block set includes items you may rarely use.",
       ja: "約4万〜5万円。7点ブロックセット・X50CrMoV15ドイツ鋼・アイスハードニングで57HRC。荒い使い方にも寛容でスチールが使いやすい。日本鋼材より柔らかいため頻繁なスチールが必要；セットにほとんど使わないアイテムが含まれる。",
     },
     links: [
@@ -4576,7 +4576,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🗡️",
     name: { en: "Global G-836/KB 7-Piece Block Set", ja: "グローバル G-836/KB 7点ブロックセット" },
     description: {
-      en: "~¥60,000-¥80,000. 7-piece all-steel block set, VG-10 steel throughout, consistent Global handle feel across all blades. Full-set price is significant; all-steel handles are cold in winter and can be slippery when wet; requires careful whetstone sharpening.",
+      en: "7-piece all-steel block set, VG-10 steel throughout, consistent Global handle feel across all blades. Full-set price is significant; all-steel handles are cold in winter and can be slippery when wet; requires careful whetstone sharpening.",
       ja: "約6万〜8万円。7点オールスチールブロックセット・全刃VG-10鋼・全刃で統一されたグローバルハンドル感。フルセット価格は高い；オールスチールハンドルは冬に冷たく濡れると滑りやすい；砥石の丁寧なメンテが必要。",
     },
     links: [
@@ -4594,8 +4594,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🇨🇭",
     name: { en: "Victorinox Fibrox Pro 8-inch Chef's Knife", ja: "ヴィクトリノックス フィブロックス プロ 20cm シェフズナイフ" },
     description: {
-      en: "~¥6,000-¥8,000. 20cm blade, Swiss steel, non-slip Fibrox handle, professional kitchen standard worldwide. Sharp out of the box, easy to maintain. Softer than VG-10 so needs more frequent sharpening at high volume; handle is purely functional with no decorative appeal.",
-      ja: "約6,000〜8,000円。20cm刃・スイス鋼・滑り止めフィブロックスハンドル・世界中のプロキッチンのスタンダード。開封直後から切れてメンテしやすい。VG-10より柔らかいため大量調理では研ぎ頻度が増える；ハンドルは完全に実用本位で装飾性なし。",
+      en: "20cm blade, Swiss steel, non-slip Fibrox handle, professional kitchen standard worldwide. Sharp out of the box, easy to maintain. Softer than VG-10 so needs more frequent sharpening at high volume; handle is purely functional with no decorative appeal.",
+      ja: "20cm刃・スイス鋼・滑り止めフィブロックスハンドル・世界中のプロキッチンのスタンダード。開封直後から切れてメンテしやすい。VG-10より柔らかいため大量調理では研ぎ頻度が増える；ハンドルは完全に実用本位で装飾性なし。",
     },
     links: [
       { network: "amazon-us", productId: "B000638D32", rawUrl: "https://www.amazon.com/dp/B000638D32", markets: ["US"], approved: true },
@@ -4611,7 +4611,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🌿",
     name: { en: "Kai Wasabi Black 6-Piece Knife Set", ja: "貝印 ワサビブラック 6点包丁セット" },
     description: {
-      en: "~¥15,000-¥20,000. 6-piece set, Japanese-style steel, black polypropylene handles, entry-level Japanese cutting geometry. Best value Japanese-style set. Steel hardness lower than premium Global or Kai Shun lines; handles are plastic rather than composite; limited availability outside Japanese retail.",
+      en: "6-piece set, Japanese-style steel, black polypropylene handles, entry-level Japanese cutting geometry. Best value Japanese-style set. Steel hardness lower than premium Global or Kai Shun lines; handles are plastic rather than composite; limited availability outside Japanese retail.",
       ja: "約1万5千〜2万円。6点セット・和包丁スタイル鋼材・ブラックポリプロピレンハンドル・和包丁スタイル刃形へのエントリーレベル。コスパ最高の和包丁風セット。鋼材硬度はグローバルや貝印旬のプレミアムラインより低い；ハンドルはコンポジットでなくプラスチック；日本国外での入手性は限られる。",
     },
     links: [
@@ -4629,7 +4629,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍽️",
     name: { en: "Cuisinart DFP-14BCWB", ja: "Cuisinart DFP-14BCWB" },
     description: {
-      en: "~¥25,000. 14-cup (3.3L) bowl, 720W motor, stainless steel blade. Best for large-batch cooking and families of 4+. At 26×21×45 cm and 4.5 kg, too large for many Japanese kitchen counters. Rated 120V — runs at ~83% power on Japan's 100V grid.",
+      en: "14-cup (3.3L) bowl, 720W motor, stainless steel blade. Best for large-batch cooking and families of 4+. At 26×21×45 cm and 4.5 kg, too large for many Japanese kitchen counters. Rated 120V — runs at ~83% power on Japan's 100V grid.",
       ja: "約2万5千円。14カップ（3.3L）ボウル・720Wモーター・ステンレスブレード。4人以上の大量調理に最適。26×21×45cm・約4.5kgで日本のキッチンには大きすぎる場合あり。定格120VのためJapan 100V環境では出力約83%。",
     },
     links: [
@@ -4645,7 +4645,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🇩🇪",
     name: { en: "Braun MultiQuick 9 FP3020", ja: "Braun MultiQuick 9 FP3020" },
     description: {
-      en: "~¥18,000. 2.4L bowl, 1000W motor, EasyClick attachment system (no pin alignment). Best all-round pick. Wider footprint (~23 cm with attachments) than compact Japanese-market models; higher price-per-capacity than Cuisinart.",
+      en: "2.4L bowl, 1000W motor, EasyClick attachment system (no pin alignment). Best all-round pick. Wider footprint (~23 cm with attachments) than compact Japanese-market models; higher price-per-capacity than Cuisinart.",
       ja: "約1万8千円。2.4Lボウル・1000Wモーター・EasyClickアタッチメント（ピン位置合わせ不要）。最もバランスのよい選択肢。アタッチメント装着時の幅が約23cmとコンパクト日本市場モデルより広い。容量あたりコストはCuisinartより高い。",
     },
     links: [
@@ -4678,7 +4678,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔴",
     name: { en: "KitchenAid KFP0718", ja: "KitchenAid KFP0718" },
     description: {
-      en: "~¥20,000. 7-cup (1.66L) bowl, 240W motor, ExactSlice lever for thickness adjustment without swapping discs. Intuitive operation. 240W thermal cutoff triggers at ~7-8 minutes of heavy continuous use; expensive per cup of capacity vs Cuisinart.",
+      en: "7-cup (1.66L) bowl, 240W motor, ExactSlice lever for thickness adjustment without swapping discs. Intuitive operation. 240W thermal cutoff triggers at ~7-8 minutes of heavy continuous use; expensive per cup of capacity vs Cuisinart.",
       ja: "約2万円。7カップ（1.66L）ボウル・240Wモーター・ディスク交換なしで厚み調整できるExactSliceレバー。直感的な操作性。240Wは重い連続使用7〜8分で熱停止カットオフが作動。Cuisinartとの容量あたりコスト差が大きい。",
     },
     links: [
@@ -4694,7 +4694,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍲",
     name: { en: "De'Longhi Multifry FP8260", ja: "De'Longhi Multifry FP8260" },
     description: {
-      en: "~¥20,000. 2.2L bowl, 600W motor, adjustable temperature control for cook-in-bowl soups and sauces. Best if you want heating capability alongside food processing. Cooking function adds mechanical complexity; some 18+ month owners report heating element degradation before blade wear.",
+      en: "2.2L bowl, 600W motor, adjustable temperature control for cook-in-bowl soups and sauces. Best if you want heating capability alongside food processing. Cooking function adds mechanical complexity; some 18+ month owners report heating element degradation before blade wear.",
       ja: "約2万円。2.2Lボウル・600Wモーター・温度調整付きでボウル内でスープやソースを加熱可能。調理機能も求める場合に最適。調理機能の機械的な複雑さがあり18ヶ月以上使用の一部オーナーがブレードより先のヒーター劣化を報告。",
     },
     links: [
@@ -4730,7 +4730,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🖥️",
     name: { en: "Epson EH-TW5825", ja: "Epson EH-TW5825" },
     description: {
-      en: "2700 lumen 3LCD, 1080p Full HD, 50,000:1 contrast, no rainbow artifacts, 4500hr economy lamp life. Best color accuracy at this price. Weakness: lamp-based with ¥10k–¥15k replacement; no built-in smart TV platform.",
+      en: "2700 lumen 3LCD, 1080p Full HD, 50,000:1 contrast, no rainbow artifacts, 4500hr economy lamp life. Best color accuracy at this price. Weakness: lamp-based with a paid replacement lamp; no built-in smart TV platform.",
       ja: "2700ルーメン3LCD、1080p Full HD、50,000:1コントラスト、レインボーアーティファクトなし、エコモード4500時間。この価格帯で最高の色精度。弱点：ランプ式で1万〜1.5万円の交換費用；スマートTV機能なし。",
     },
     links: [
@@ -4764,7 +4764,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "✨",
     name: { en: "XGIMI Horizon Ultra", ja: "XGIMI Horizon Ultra" },
     description: {
-      en: "Native 4K DLP, 2300 ISO lumens, laser-LED hybrid (25,000hr), Android TV, auto-focus, auto-keystone, Dolby Vision. Weakness: ISO lumen ~2000 ANSI equivalent in ambient light; ¥200,000+ premium; above-average fan noise.",
+      en: "Native 4K DLP, 2300 ISO lumens, laser-LED hybrid (25,000hr), Android TV, auto-focus, auto-keystone, Dolby Vision. Weakness: ISO lumen ~2000 ANSI equivalent in ambient light; premium pricing; above-average fan noise.",
       ja: "ネイティブ4K DLP、2300 ISOルーメン、レーザーLEDハイブリッド（25,000時間）、Android TV、オートフォーカス、自動台形補正、Dolby Vision。弱点：ISOルーメンは環境光で約2000 ANSI相当；20万円以上のプレミアム；平均以上のファンノイズ。",
     },
     links: [
@@ -4812,7 +4812,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☁️",
     name: { en: "BlackVue DR970X-2CH", ja: "BlackVue DR970X-2CH" },
     description: {
-      en: "4K front + 1080p rear two-channel system with cloud connectivity and supercapacitor (superior summer heat tolerance). Weakness: highest price at ¥60,000–¥70,000; cloud advanced features need subscription; more complex installation.",
+      en: "4K front + 1080p rear two-channel system with cloud connectivity and supercapacitor (superior summer heat tolerance). Weakness: highest price in this comparison; cloud advanced features need subscription; more complex installation.",
       ja: "4Kフロント＋1080pリアの前後2カメラシステム。クラウド接続対応、スーパーキャパシタ採用で日本の夏に強い。弱点：本比較最高価格の6〜7万円台、クラウド上位機能はサブスク必要、設置がフロントのみより複雑。",
     },
     links: [
@@ -4878,8 +4878,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍳",
     name: { en: "Lodge Cast Iron Skillet L8SK3 10.25\"", ja: "Lodge キャストアイアンスキレット L8SK3 10.25インチ" },
     description: {
-      en: "~¥3,500. Pre-seasoned American cast iron, 10.25-inch / 26cm, 2.1 kg, oven-safe to 260°C, induction compatible. The workhorse budget pick. Weakness: rough foundry surface takes 50+ cooks to smooth; 2.1 kg is heavier than most non-stick pans.",
-      ja: "約3,500円。出荷前シーズニング済みアメリカ製鋳鉄、26cm、2.1kg、260°Cオーブン対応・IH対応。コスパ最強の実力派。弱点：鋳造肌が粗く50回以上の調理でなめらかになる；2.1kgはノンスティックパンより重い。",
+      en: "Pre-seasoned American cast iron, 10.25-inch / 26cm, 2.1 kg, oven-safe to 260°C, induction compatible. The workhorse budget pick. Weakness: rough foundry surface takes 50+ cooks to smooth; 2.1 kg is heavier than most non-stick pans.",
+      ja: "出荷前シーズニング済みアメリカ製鋳鉄、26cm、2.1kg、260°Cオーブン対応・IH対応。コスパ最強の実力派。弱点：鋳造肌が粗く50回以上の調理でなめらかになる；2.1kgはノンスティックパンより重い。",
     },
     links: [
       { network: "amazon-us", productId: "B00006JSUA", rawUrl: "https://www.amazon.com/dp/B00006JSUA", markets: ["US"], approved: true },
@@ -4895,8 +4895,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔴",
     name: { en: "Le Creuset Enameled Cast Iron Skillet 26cm", ja: "ル・クルーゼ エナメル鋳鉄スキレット 26cm" },
     description: {
-      en: "~¥25,000-30,000. Enameled cast iron, 26cm, dishwasher-safe, lifetime warranty, no seasoning required, handles acidic foods. Weakness: enamel chips permanently if dropped on hard surfaces; highest price in this comparison.",
-      ja: "約25,000〜30,000円。ホーロー鋳鉄、26cm、食洗機対応、生涯保証、シーズニング不要、酸性食材対応。弱点：落下でホーローが永久に欠ける；本比較で最高価格帯。",
+      en: "Enameled cast iron, 26cm, dishwasher-safe, lifetime warranty, no seasoning required, handles acidic foods. Weakness: enamel chips permanently if dropped on hard surfaces; highest price in this comparison.",
+      ja: "ホーロー鋳鉄、26cm、食洗機対応、生涯保証、シーズニング不要、酸性食材対応。弱点：落下でホーローが永久に欠ける；本比較で最高価格帯。",
     },
     links: [
       { network: "amazon-us", productId: "B000LNBRS2", rawUrl: "https://www.amazon.com/dp/B000LNBRS2", markets: ["US"], approved: true },
@@ -4912,8 +4912,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⚫",
     name: { en: "Staub Frying Pan 26cm", ja: "ストウブ フライパン 26cm" },
     description: {
-      en: "~¥28,000-35,000. Enameled cast iron with matte black interior, 26cm, develops patina with use, preferred by professional kitchens for browning. Weakness: top of the enameled cast iron price band in Japan; matte interior harder to visually assess cleanliness.",
-      ja: "約28,000〜35,000円。マットブラックホーロー内面の鋳鉄、26cm、使うほどパティナが育ちプロの厨房でステーキに好まれる。弱点：日本のエナメル鋳鉄価格帯上限；マット内面は視覚的な清潔確認がしにくい。",
+      en: "Enameled cast iron with matte black interior, 26cm, develops patina with use, preferred by professional kitchens for browning. Weakness: top of the enameled cast iron price band in Japan; matte interior harder to visually assess cleanliness.",
+      ja: "マットブラックホーロー内面の鋳鉄、26cm、使うほどパティナが育ちプロの厨房でステーキに好まれる。弱点：日本のエナメル鋳鉄価格帯上限；マット内面は視覚的な清潔確認がしにくい。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-staub-frying-pan-26cm", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%83%88%E3%82%A6%E3%83%96%2B%E3%83%95%E3%83%A9%E3%82%A4%E3%83%91%E3%83%B3%2B26%2F", markets: ["JP"], approved: true },
@@ -4928,8 +4928,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🫕",
     name: { en: "Iwachu Iron Skillet 26cm", ja: "岩鋳 南部鉄器スキレット 26cm" },
     description: {
-      en: "~¥8,000-12,000. Traditional Morioka nambu ironware since 1902, thinner casting (~3mm) at ~1.4 kg for 26cm, finer surface texture than Lodge from first use, documented iron supplementation benefit. Weakness: 2-3x price of Lodge L8SK3 for similar function; same rust-prevention care as raw cast iron.",
-      ja: "約8,000〜12,000円。1902年から続く盛岡南部鉄器、薄手鋳造（約3mm）で26cmが約1.4kg、Lodgeより初めから細かい鋳肌、鉄分補給効果が実証済み。弱点：機能が近いLodge L8SK3の2〜3倍の価格；素の鋳鉄と同じ錆防止ケアが必要。",
+      en: "Traditional Morioka nambu ironware since 1902, thinner casting (~3mm) at ~1.4 kg for 26cm, finer surface texture than Lodge from first use, documented iron supplementation benefit. Weakness: 2-3x the price of Lodge L8SK3 for similar function; same rust-prevention care as raw cast iron.",
+      ja: "1902年から続く盛岡南部鉄器、薄手鋳造（約3mm）で26cmが約1.4kg、Lodgeより初めから細かい鋳肌、鉄分補給効果が実証済み。弱点：機能が近いLodge L8SK3の2〜3倍の価格；素の鋳鉄と同じ錆防止ケアが必要。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-iwachu-iron-skillet", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%B2%A9%E9%8B%B3%2B%E3%82%B9%E3%82%AD%E3%83%AC%E3%83%83%E3%83%88%2F", markets: ["JP"], approved: true },
@@ -4946,8 +4946,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍖",
     name: { en: "Lodge Cast Iron Skillet L10SK3 12\"", ja: "Lodge キャストアイアンスキレット L10SK3 12インチ" },
     description: {
-      en: "~¥5,500-7,000. Lodge's 12-inch family format, pre-seasoned, 3.2 kg, oven-safe to 260°C, induction compatible. Fits a whole spatchcocked chicken or 5-6 pork chops in one batch. Weakness: 3.2 kg is a two-handed pan; check burner diameter before buying.",
-      ja: "約5,500〜7,000円。Lodgeの12インチ家族向けフォーマット、シーズニング済み、3.2kg、260°Cオーブン対応・IH対応。スパッチコック丸鶏や豚ロース5〜6枚が1バッチ。弱点：3.2kgは両手持ち前提；購入前にバーナー径を確認。",
+      en: "Lodge's 12-inch family format, pre-seasoned, 3.2 kg, oven-safe to 260°C, induction compatible. Fits a whole spatchcocked chicken or 5-6 pork chops in one batch. Weakness: 3.2 kg is a two-handed pan; check burner diameter before buying.",
+      ja: "Lodgeの12インチ家族向けフォーマット、シーズニング済み、3.2kg、260°Cオーブン対応・IH対応。スパッチコック丸鶏や豚ロース5〜6枚が1バッチ。弱点：3.2kgは両手持ち前提；購入前にバーナー径を確認。",
     },
     links: [
       { network: "amazon-us", productId: "B00006JSUN", rawUrl: "https://www.amazon.com/dp/B00006JSUN", markets: ["US"], approved: true },
@@ -5324,8 +5324,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🌊",
     name: { en: "Maui Jim Peahi", ja: "Maui Jim ペアヒ" },
     description: {
-      en: "SuperThin glass polarized lenses with PolarizedPlus2 dual-surface coating for the highest optical clarity in this comparison. Minimal peripheral distortion, genuine color accuracy. Explicit weakness: glass is heavier than polycarbonate/NXT; shatters on impact — unsuitable for sport; ¥30,000+ in Japan; no prescription service in Japan; Asian Fit variant hard to find in domestic retail.",
-      ja: "この比較で最高の光学的透明度を実現するSuperThinガラス偏光レンズとPolarizedPlus2デュアル面コーティング。周辺歪み最小で真の色の正確さ。明確な弱点：ガラスはポリカーボネート/NXTより重い；衝撃で割れるためスポーツ不向き；日本で30,000円以上；日本での度数サービスなし；国内小売でアジアフィットバリアントの入手が困難。",
+      en: "SuperThin glass polarized lenses with PolarizedPlus2 dual-surface coating for the highest optical clarity in this comparison. Minimal peripheral distortion, genuine color accuracy. Explicit weakness: glass is heavier than polycarbonate/NXT; shatters on impact — unsuitable for sport; no prescription service in Japan; Asian Fit variant hard to find in domestic retail.",
+      ja: "この比較で最高の光学的透明度を実現するSuperThinガラス偏光レンズとPolarizedPlus2デュアル面コーティング。周辺歪み最小で真の色の正確さ。明確な弱点：ガラスはポリカーボネート/NXTより重い；衝撃で割れるためスポーツ不向き；日本での度数サービスなし；国内小売でアジアフィットバリアントの入手が困難。",
     },
     price: "$289.00",
     links: [
@@ -5340,8 +5340,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🇯🇵",
     name: { en: "Zoff UV Sunglasses", ja: "Zoff UVサングラス" },
     description: {
-      en: "Japanese brand with frames designed for East Asian face geometry — lower nose bridge, appropriate face width, stable fit without modification. UV400 compliant. Same-day Rx service at all Japan stores. Polarized options available from ¥4,000-¥8,000. Explicit weakness: polycarbonate optical quality adequate but not premium; conservative style selection; third-party UV400 verification harder to confirm than major international brands.",
-      ja: "低鼻筋・適切な顔幅・修正不要の安定フィットを実現した東アジア顔型向け日本ブランド。UV400準拠。全国店舗で当日度付き対応。4,000〜8,000円から偏光オプションあり。明確な弱点：ポリカーボネートの光学品質は十分だが高級ではない；デザインがコンサバティブ；大手国際ブランドと比べてサードパーティUV400確認が困難。",
+      en: "Japanese brand with frames designed for East Asian face geometry — lower nose bridge, appropriate face width, stable fit without modification. UV400 compliant. Same-day Rx service at all Japan stores. Polarized options available. Explicit weakness: polycarbonate optical quality adequate but not premium; conservative style selection; third-party UV400 verification harder to confirm than major international brands.",
+      ja: "低鼻筋・適切な顔幅・修正不要の安定フィットを実現した東アジア顔型向け日本ブランド。UV400準拠。全国店舗で当日度付き対応。偏光オプションあり。明確な弱点：ポリカーボネートの光学品質は十分だが高級ではない；デザインがコンサバティブ；大手国際ブランドと比べてサードパーティUV400確認が困難。",
     },
     price: "¥5,500",
     links: [
@@ -5540,8 +5540,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📷",
     name: { en: "Peak Design Everyday Backpack 20L", ja: "Peak Design エブリデイバックパック 20L" },
     description: {
-      en: "~¥50,000-60,000 premium commuter and photography bag. MagLatch one-hand top closure, dual side-access zip panels, FlexFold origami dividers, weatherproof exterior shell. Explicit weakness: most expensive in comparison; MagLatch not lockable; origami divider system adds configurability overhead; ~1.5 kg empty weight heavier than comparable-volume minimalist bags; 20L limiting for overnight travel.",
-      ja: "約¥50,000〜60,000のプレミアム通勤＆写真兼用バッグ。MagLatch片手操作トップクロージャ、両サイドアクセスジップパネル、FlexFold折り紙ディバイダー、ウェザープルーフアウターシェル。明確な弱点：この比較で最高価格；MagLatchはロック機構なし；折り紙ディバイダーシステムに習得コスト；空の状態で約1.5kgとミニマリストバッグより重い；20Lは一泊旅行に制約あり。",
+      en: "Premium commuter and photography bag. MagLatch one-hand top closure, dual side-access zip panels, FlexFold origami dividers, weatherproof exterior shell. Explicit weakness: most expensive in comparison; MagLatch not lockable; origami divider system adds configurability overhead; ~1.5 kg empty weight heavier than comparable-volume minimalist bags; 20L limiting for overnight travel.",
+      ja: "プレミアム通勤＆写真兼用バッグ。MagLatch片手操作トップクロージャ、両サイドアクセスジップパネル、FlexFold折り紙ディバイダー、ウェザープルーフアウターシェル。明確な弱点：この比較で最高価格；MagLatchはロック機構なし；折り紙ディバイダーシステムに習得コスト；空の状態で約1.5kgとミニマリストバッグより重い；20Lは一泊旅行に制約あり。",
     },
     links: [
       { network: "amazon-us", productId: "B09NTSJRD7", rawUrl: "https://www.amazon.com/dp/B09NTSJRD7", markets: ["US"], approved: true },
@@ -5557,8 +5557,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💼",
     name: { en: "Tomtoc A61 Laptop Backpack 40L", ja: "Tomtoc A61 ノートPCバックパック 40L" },
     description: {
-      en: "~¥8,000-12,000 high-organization commuter bag. 40L, 360-degree padded laptop compartment with dedicated zipper panel, dual water bottle pockets, multiple front organizer pockets. Explicit weakness: 40L oversized for minimalist daily carry; structured pocket system requires enough accessories to fill slots; water-resistant fabric with standard (non-sealed) zippers; functional design without visual distinction.",
-      ja: "約¥8,000〜12,000の高収納力通勤バッグ。40L、独立ジッパーパネル付き360度パッドPCコンパートメント、デュアルボトルポケット、複数のフロントオーガナイザーポケット。明確な弱点：40Lはミニマルな日常キャリーには大きすぎ；構造化収納は専用スロットを埋めるアクセサリーがある場合のみ機能；耐水素材だが標準式（非シール）ジッパー；外観の際立ちに欠ける。",
+      en: "High-organization commuter bag. 40L, 360-degree padded laptop compartment with dedicated zipper panel, dual water bottle pockets, multiple front organizer pockets. Explicit weakness: 40L oversized for minimalist daily carry; structured pocket system requires enough accessories to fill slots; water-resistant fabric with standard (non-sealed) zippers; functional design without visual distinction.",
+      ja: "高収納力通勤バッグ。40L、独立ジッパーパネル付き360度パッドPCコンパートメント、デュアルボトルポケット、複数のフロントオーガナイザーポケット。明確な弱点：40Lはミニマルな日常キャリーには大きすぎ；構造化収納は専用スロットを埋めるアクセサリーがある場合のみ機能；耐水素材だが標準式（非シール）ジッパー；外観の際立ちに欠ける。",
     },
     links: [
       { network: "amazon-us", productId: "B07RFRJMZ9", rawUrl: "https://www.amazon.com/dp/B07RFRJMZ9", markets: ["US"], approved: true },
@@ -5574,8 +5574,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍎",
     name: { en: "Incase Icon Backpack", ja: "Incase Icon バックパック" },
     description: {
-      en: "~¥20,000-25,000 MacBook-centric commuter bag. CannedHeat insulating foam provides thermal buffering and compression protection beyond standard padding, minimal clean design suited to professional environments. Explicit weakness: ~22L main compartment smaller than exterior suggests; minimal organization — no dedicated cable/pen slots; CannedHeat adds slight warmth to laptop compartment in summer heat; price higher than non-Apple-branded alternatives with similar volume.",
-      ja: "約¥20,000〜25,000のMacBookファースト通勤バッグ。CannedHeatフォームが標準パッドを超える熱緩衝と圧縮保護を提供、ビジネス環境に適したミニマルでクリーンなデザイン。明確な弱点：約22Lのメインコンパートメントは外見より小さい；ミニマルな収納でケーブル・ペンの専用スロットなし；夏場の閉めたバッグ内でPCが若干温かくなる；同容量の非Appleブランド代替品より高価。",
+      en: "MacBook-centric commuter bag. CannedHeat insulating foam provides thermal buffering and compression protection beyond standard padding, minimal clean design suited to professional environments. Explicit weakness: ~22L main compartment smaller than exterior suggests; minimal organization — no dedicated cable/pen slots; CannedHeat adds slight warmth to laptop compartment in summer heat; price higher than non-Apple-branded alternatives with similar volume.",
+      ja: "MacBookファースト通勤バッグ。CannedHeatフォームが標準パッドを超える熱緩衝と圧縮保護を提供、ビジネス環境に適したミニマルでクリーンなデザイン。明確な弱点：約22Lのメインコンパートメントは外見より小さい；ミニマルな収納でケーブル・ペンの専用スロットなし；夏場の閉めたバッグ内でPCが若干温かくなる；同容量の非Appleブランド代替品より高価。",
     },
     links: [
       { network: "amazon-us", productId: "B076J51GT5", rawUrl: "https://www.amazon.com/dp/B076J51GT5", markets: ["US"], approved: true },
@@ -5591,8 +5591,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🎒",
     name: { en: "Anello Polyester Backpack", ja: "アネロ ポリエステルバックパック" },
     description: {
-      en: "~¥4,000-7,000 accessible everyday carry for Japanese commuters. Wide colorway variety on Rakuten, luggage handle pass-through sleeve standard on most models, proportions designed for average Japanese build. Explicit weakness: basic padded laptop sleeve without floating suspension — laptop contacts bag base in drop; no weather protection beyond basic DWR; simple organization insufficient for tech-heavy carry; brand ubiquity means less visual distinction.",
-      ja: "約¥4,000〜7,000の日本人通勤者に最もアクセスしやすい日常キャリー。楽天での豊富なカラー展開、大半のモデルにスーツケースハンドルパススルースリーブ標準装備、日本人体型に合わせた比率設計。明確な弱点：フローティング懸架なしの基本パッドPCスリーブ——落下時にPCがバッグ底に接地；ポリエステル外装の基本DWR以外の防水対策なし；テックアクセサリー多用には収納不足；日本での普及率の高さは視覚的な差別化の少なさを意味する。",
+      en: "Accessible everyday carry for Japanese commuters. Wide colorway variety on Rakuten, luggage handle pass-through sleeve standard on most models, proportions designed for average Japanese build. Explicit weakness: basic padded laptop sleeve without floating suspension — laptop contacts bag base in drop; no weather protection beyond basic DWR; simple organization insufficient for tech-heavy carry; brand ubiquity means less visual distinction.",
+      ja: "日本人通勤者に最もアクセスしやすい日常キャリー。楽天での豊富なカラー展開、大半のモデルにスーツケースハンドルパススルースリーブ標準装備、日本人体型に合わせた比率設計。明確な弱点：フローティング懸架なしの基本パッドPCスリーブ——落下時にPCがバッグ底に接地；ポリエステル外装の基本DWR以外の防水対策なし；テックアクセサリー多用には収納不足；日本での普及率の高さは視覚的な差別化の少なさを意味する。",
     },
     links: [
       { network: "amazon-us", productId: "B07BZT3CBQ", rawUrl: "https://www.amazon.com/dp/B07BZT3CBQ", markets: ["US"], approved: true },
@@ -5608,8 +5608,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏔️",
     name: { en: "The North Face Recon 30L", ja: "ザ・ノース・フェイス Recon 30L" },
     description: {
-      en: "~¥14,000-18,000 commuter-meets-outdoor daypack. FlexVent tensioned mesh back panel reduces back sweat substantially, 30L handles commuter-plus-gym loads, back-panel laptop position is most stable carry position. Explicit weakness: heavier and bulkier than 20L commuter bags; outdoor design elements irrelevant for pure urban commuting; colorways skew outdoor, less appropriate for professional office environments; FlexVent standout design makes bag read visually larger than 30L.",
-      ja: "約¥14,000〜18,000の通勤×アウトドア兼用デイパック。FlexVentテンションメッシュ背面パネルで背中の汗接触を大幅軽減、30Lで通勤+ジム荷物対応、背面パネルのPCスリーブはバッグ内で最も安定した収納位置。明確な弱点：20L通勤バッグより重くかさばる；アウトドアツールの設計要素は純粋な都市通勤に不自然；カラーバリエーションがアウトドア寄りでビジネス環境にはIncaseやPeak Designより適合しにくい；FlexVentの浮き上がりで30Lより視覚的に大きく見える。",
+      en: "Commuter-meets-outdoor daypack. FlexVent tensioned mesh back panel reduces back sweat substantially, 30L handles commuter-plus-gym loads, back-panel laptop position is most stable carry position. Explicit weakness: heavier and bulkier than 20L commuter bags; outdoor design elements irrelevant for pure urban commuting; colorways skew outdoor, less appropriate for professional office environments; FlexVent standout design makes bag read visually larger than 30L.",
+      ja: "通勤×アウトドア兼用デイパック。FlexVentテンションメッシュ背面パネルで背中の汗接触を大幅軽減、30Lで通勤+ジム荷物対応、背面パネルのPCスリーブはバッグ内で最も安定した収納位置。明確な弱点：20L通勤バッグより重くかさばる；アウトドアツールの設計要素は純粋な都市通勤に不自然；カラーバリエーションがアウトドア寄りでビジネス環境にはIncaseやPeak Designより適合しにくい；FlexVentの浮き上がりで30Lより視覚的に大きく見える。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-the-north-face-recon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8E%E3%83%BC%E3%82%B9%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%2BRecon%2F", markets: ["JP"], approved: true },
@@ -6079,8 +6079,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💰",
     name: { en: "Hamilton Beach 40880 Programmable Kettle", ja: "Hamilton Beach 40880 プログラマブルケトル" },
     description: {
-      en: "1.7L programmable electric kettle with 5 temperature presets (160°F/71°C, 175°F/79°C, 185°F/85°C, 190°F/88°C, 212°F/100°C) and 30-minute keep-warm. Budget-friendly entry point under $30. Plastic interior lid has a small aroma impact on first uses; standard wide spout, not gooseneck; keep-warm limited to 30 minutes; plastic cord base.",
-      ja: "1.7Lプログラマブル電気ケトル。5段階温度プリセット(71°C・79°C・85°C・88°C・100°C)と30分間保温機能付き。3,000円台のコスパ最強入門モデル。プラスチック内蓋が初回使用時に若干香りに影響；標準ワイドスパウト(グースネックなし)；保温30分間限定；プラスチックコードベース。",
+      en: "1.7L programmable electric kettle with 5 temperature presets (160°F/71°C, 175°F/79°C, 185°F/85°C, 190°F/88°C, 212°F/100°C) and 30-minute keep-warm. Budget-friendly entry point. Plastic interior lid has a small aroma impact on first uses; standard wide spout, not gooseneck; keep-warm limited to 30 minutes; plastic cord base.",
+      ja: "1.7Lプログラマブル電気ケトル。5段階温度プリセット(71°C・79°C・85°C・88°C・100°C)と30分間保温機能付き。コスパ最強の入門モデル。プラスチック内蓋が初回使用時に若干香りに影響；標準ワイドスパウト(グースネックなし)；保温30分間限定；プラスチックコードベース。",
     },
     price: "$34.95",
     links: [
@@ -6563,8 +6563,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     priceMax: "$20",
     name: { en: "Harbor Freight Basic Speed Jump Rope", ja: "ハーバーフレイト 基本スピード縄跳び" },
     description: {
-      en: "Ultra-budget PVC jump rope under ¥2,000. Basic swivel joint, thick PVC cord, adjustable length clamp. Adequate for beginner rhythm practice and basic cardio. Not suitable for double unders or sustained high-speed work.",
-      ja: "¥2,000以下の超バジェットPVC縄跳び。基本スイベルジョイント、太いPVCコード、調整可能長さクランプ。初心者のリズム練習と基本有酸素運動に十分。二重跳びや持続的高速ワークには不向き。",
+      en: "Ultra-budget PVC jump rope. Basic swivel joint, thick PVC cord, adjustable length clamp. Adequate for beginner rhythm practice and basic cardio. Not suitable for double unders or sustained high-speed work.",
+      ja: "超バジェットPVC縄跳び。基本スイベルジョイント、太いPVCコード、調整可能長さクランプ。初心者のリズム練習と基本有酸素運動に十分。二重跳びや持続的高速ワークには不向き。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-pvc-jump-rope-basic", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%B8%84%E8%B7%B3%E3%81%B3%2BPVC%2F", markets: ["JP"], approved: true },
@@ -11344,8 +11344,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "De'Longhi EC155M Manual Espresso Machine", ja: "デロンギ EC155M マニュアルエスプレッソマシン" },
     description: {
-      en: "~$80 semi-automatic entry point. 15-bar pump, 45-second warm-up, accepts ESE pods and ground coffee via pressurized dual-wall basket. Panarello steam wand auto-injects air for beginner-friendly cappuccino foam. Pressurized basket masks grind errors but limits quality ceiling for advancing home baristas.",
-      ja: "約80ドル（約1万2,000円）のセミオートエントリーポイント。15barポンプ、45秒ウォームアップ、加圧デュアルウォールバスケットでESEポッドとグラウンドコーヒー両対応。パナレロスチームワンドは初心者向けに自動で空気を注入。加圧バスケットはグラインドエラーをカバーするが、上達した家庭のバリスタには品質の天井を作る。",
+      en: "Semi-automatic entry point. 15-bar pump, 45-second warm-up, accepts ESE pods and ground coffee via pressurized dual-wall basket. Panarello steam wand auto-injects air for beginner-friendly cappuccino foam. Pressurized basket masks grind errors but limits quality ceiling for advancing home baristas.",
+      ja: "セミオートのエントリーポイント。15barポンプ、45秒ウォームアップ、加圧デュアルウォールバスケットでESEポッドとグラウンドコーヒー両対応。パナレロスチームワンドは初心者向けに自動で空気を注入。加圧バスケットはグラインドエラーをカバーするが、上達した家庭のバリスタには品質の天井を作る。",
     },
     links: [
       { network: "amazon-us", productId: "B00IOKC9SK", rawUrl: "https://www.amazon.com/dp/B00IOKC9SK", markets: ["US"], approved: true },
@@ -11360,8 +11360,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⚡",
     name: { en: "Breville Bambino BES450BSS", ja: "ブレビル バンビーノ BES450BSS" },
     description: {
-      en: "~$170 thermojet semi-automatic. ThermoJet heating reaches 93°C in 3 seconds — fastest warm-up in this price bracket. 54mm portafilter with both pressurized and non-pressurized baskets included; automatic purge cycle after each shot drops boiler to steam temperature. Manual steam wand produces true microfoam with practice.",
-      ja: "約170ドル（約2万5,000円）のサーモジェット式セミオート。ThermoJet加熱で3秒で93℃到達——この価格帯で最速のウォームアップ。加圧・非加圧バスケット両方付属の54mmポルタフィルター；各ショット後の自動パージサイクルでボイラーをスチーム温度へ降下。手動スチームワンドで練習すれば真のマイクロフォームを作れる。",
+      en: "Thermojet semi-automatic. ThermoJet heating reaches 93°C in 3 seconds — fastest warm-up in this price bracket. 54mm portafilter with both pressurized and non-pressurized baskets included; automatic purge cycle after each shot drops boiler to steam temperature. Manual steam wand produces true microfoam with practice.",
+      ja: "サーモジェット式セミオート。ThermoJet加熱で3秒で93℃到達——この価格帯で最速のウォームアップ。加圧・非加圧バスケット両方付属の54mmポルタフィルター；各ショット後の自動パージサイクルでボイラーをスチーム温度へ降下。手動スチームワンドで練習すれば真のマイクロフォームを作れる。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-breville-bambino-bes450", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBreville%2BBambino%2BBES450%2F", markets: ["JP"], approved: true },
@@ -11375,8 +11375,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🟡",
     name: { en: "Nespresso Essenza Mini D30", ja: "ネスプレッソ エッセンサ ミニ D30" },
     description: {
-      en: "~$100 capsule machine at 8 cm wide — the narrowest footprint in this comparison. 19-bar pump, 25-second warm-up, OriginalLine capsule format with consistent crema shot to shot. No built-in steam wand; Aeroccino frother sold separately. Capsule cost $0.70–$1.00 each; proprietary format with no equivalent third-party capsule.",
-      ja: "約100ドル（約1万5,000円）で幅8cmのカプセルマシン——この比較で最小フットプリント。19barポンプ、25秒ウォームアップ、毎ショット安定したクレマのオリジナルラインカプセル形式。スチームワンド内蔵なし；Aeroccinoフロッサーは別売。カプセルコスト1個0.70〜1.00ドル；同等品のないサードパーティ製カプセルの独自形式。",
+      en: "Capsule machine at 8 cm wide — the narrowest footprint in this comparison. 19-bar pump, 25-second warm-up, OriginalLine capsule format with consistent crema shot to shot. No built-in steam wand; Aeroccino frother sold separately. Capsule cost $0.70–$1.00 each; proprietary format with no equivalent third-party capsule.",
+      ja: "幅8cmのカプセルマシン——この比較で最小フットプリント。19barポンプ、25秒ウォームアップ、毎ショット安定したクレマのオリジナルラインカプセル形式。スチームワンド内蔵なし；Aeroccinoフロッサーは別売。カプセルコスト1個0.70〜1.00ドル；同等品のないサードパーティ製カプセルの独自形式。",
     },
     links: [
       { network: "amazon-us", productId: "B07D4SVKTD", rawUrl: "https://www.amazon.com/dp/B07D4SVKTD", markets: ["US"], approved: true },
@@ -11391,8 +11391,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🥛",
     name: { en: "Mr. Coffee Espresso and Cappuccino Machine ECMP50", ja: "Mr.コーヒー エスプレッソ＆カプチーノマシン ECMP50" },
     description: {
-      en: "~$85 combination machine with 15-bar pump, dedicated steam wand, and built-in automatic milk frother — the only machine in this comparison with an integrated one-button milk frother. 40–45 second warm-up; pressurized filter basket standard. Best beginner pick for milk-based espresso drinks without learning steam wand technique.",
-      ja: "約85ドル（約1万2,500円）のコンビネーションマシン——15barポンプ、専用スチームワンド、内蔵自動ミルクフロッサーを備え、この比較でワンボタン統合ミルクフロッサー付きの唯一の機種。40〜45秒ウォームアップ；加圧フィルターバスケット標準。スチームワンド技術を習わずにミルクベースのエスプレッソドリンクを作りたい初心者に最適。",
+      en: "Combination machine with 15-bar pump, dedicated steam wand, and built-in automatic milk frother — the only machine in this comparison with an integrated one-button milk frother. 40–45 second warm-up; pressurized filter basket standard. Best beginner pick for milk-based espresso drinks without learning steam wand technique.",
+      ja: "コンビネーションマシン——15barポンプ、専用スチームワンド、内蔵自動ミルクフロッサーを備え、この比較でワンボタン統合ミルクフロッサー付きの唯一の機種。40〜45秒ウォームアップ；加圧フィルターバスケット標準。スチームワンド技術を習わずにミルクベースのエスプレッソドリンクを作りたい初心者に最適。",
     },
     links: [
       { network: "amazon-us", productId: "B008BWBXFO", rawUrl: "https://www.amazon.com/dp/B008BWBXFO", markets: ["US"], approved: true },
@@ -11407,8 +11407,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💰",
     name: { en: "Hamilton Beach Espresso Maker 40792", ja: "ハミルトンビーチ エスプレッソメーカー 40792" },
     description: {
-      en: "~$50 budget pump espresso machine — lowest cost pump-based espresso in this comparison. 15-bar pump, 60-second warm-up, accepts ground coffee and ESE pods via pressurized basket, bare-tube steam wand. Lightest build quality of the five; longest warm-up; steam wand requires the most technique to produce usable foam.",
-      ja: "約50ドル（約7,500円）のバジェットポンプ式エスプレッソマシン——この比較で最低コストのポンプベースエスプレッソ。15barポンプ、60秒ウォームアップ、加圧バスケットでグラウンドコーヒーとESEポッド対応、ベアチューブスチームワンド。5台中最も軽いビルドクオリティ；最長ウォームアップ；使えるフォームを作るには最も習熟が必要なスチームワンド。",
+      en: "Budget pump espresso machine — lowest cost pump-based espresso in this comparison. 15-bar pump, 60-second warm-up, accepts ground coffee and ESE pods via pressurized basket, bare-tube steam wand. Lightest build quality of the five; longest warm-up; steam wand requires the most technique to produce usable foam.",
+      ja: "バジェットポンプ式エスプレッソマシン——この比較で最低コストのポンプベースエスプレッソ。15barポンプ、60秒ウォームアップ、加圧バスケットでグラウンドコーヒーとESEポッド対応、ベアチューブスチームワンド。5台中最も軽いビルドクオリティ；最長ウォームアップ；使えるフォームを作るには最も習熟が必要なスチームワンド。",
     },
     links: [
       { network: "amazon-us", productId: "B01A38IOVM", rawUrl: "https://www.amazon.com/dp/B01A38IOVM", markets: ["US"], approved: true },
@@ -11425,8 +11425,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Hario V60 Ceramic Dripper 02", ja: "ハリオ V60 セラミックドリッパー 02" },
     description: {
-      en: "~¥2,000-¥2,500. The global reference-standard pour-over dripper. Spiral ribs run the full cone height for even drainage; large single apex opening drains fast for clear, bright extraction. Ceramic body holds heat significantly better than plastic versions. High skill ceiling — technique errors show directly in the cup.",
-      ja: "約2,000〜2,500円。世界標準のポアオーバー基準機。スパイラルリブがコーン全高に走り均一な排水を実現。頂点の大きな単一開口で速く排水し、クリアで明るい抽出。セラミックボディはプラスチックバージョンより保温性が大幅に高い。スキルの上限が高い——テクニックミスはカップに直結。",
+      en: "The global reference-standard pour-over dripper. Spiral ribs run the full cone height for even drainage; large single apex opening drains fast for clear, bright extraction. Ceramic body holds heat significantly better than plastic versions. High skill ceiling — technique errors show directly in the cup.",
+      ja: "世界標準のポアオーバー基準機。スパイラルリブがコーン全高に走り均一な排水を実現。頂点の大きな単一開口で速く排水し、クリアで明るい抽出。セラミックボディはプラスチックバージョンより保温性が大幅に高い。スキルの上限が高い——テクニックミスはカップに直結。",
     },
     links: [
       { network: "amazon-us", productId: "B000P4D5HG", rawUrl: "https://www.amazon.com/dp/B000P4D5HG", markets: ["US"], approved: true },
@@ -11442,8 +11442,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🫙",
     name: { en: "Chemex Classic Series 6-Cup", ja: "Chemex クラシックシリーズ 6カップ" },
     description: {
-      en: "~¥6,000-¥7,000. Batch pour-over brewer and server in one borosilicate glass vessel. Thick bonded paper filters produce the cleanest, lightest-bodied cup in this comparison. Brews up to 900 ml (3-4 full mugs) per batch. Chemex-specific filters required; glass carafe is not insulated.",
-      ja: "約6,000〜7,000円。ホウケイサンガラス一体型のバッチ向けポアオーバー兼サーバー。厚手ボンドペーパーで本比較最もクリーンで軽いボディのカップ。1バッチ最大900ml(満杯マグカップ3〜4杯)。Chemex専用フィルター必要。ガラスカラフェは保温なし。",
+      en: "Batch pour-over brewer and server in one borosilicate glass vessel. Thick bonded paper filters produce the cleanest, lightest-bodied cup in this comparison. Brews up to 900 ml (3-4 full mugs) per batch. Chemex-specific filters required; glass carafe is not insulated.",
+      ja: "ホウケイサンガラス一体型のバッチ向けポアオーバー兼サーバー。厚手ボンドペーパーで本比較最もクリーンで軽いボディのカップ。1バッチ最大900ml(満杯マグカップ3〜4杯)。Chemex専用フィルター必要。ガラスカラフェは保温なし。",
     },
     links: [
       { network: "amazon-us", productId: "B000I1WP7W", rawUrl: "https://www.amazon.com/dp/B000I1WP7W", markets: ["US"], approved: true },
@@ -11459,8 +11459,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "〰️",
     name: { en: "Kalita Wave 185 Stainless Dripper", ja: "カリタ ウェーブ 185 ステンレスドリッパー" },
     description: {
-      en: "~¥5,000-¥6,000. Flat-bottom dripper with three small drainage holes that even out flow rate and absorb pour inconsistencies. Stainless steel body survives drops unlike ceramic or glass. Fuller-bodied extraction than V60; requires Wave-specific ripple papers; three holes need periodic cleaning.",
-      ja: "約5,000〜6,000円。3つの小穴で流速を均一にして注ぎのバラつきを吸収するフラットボトムドリッパー。ステンレスボディは陶器・ガラスと異なり落下に耐える。V60よりコクのある抽出。ウェーブ専用波型ペーパーが必要。3つの穴は定期的な清掃が必要。",
+      en: "Flat-bottom dripper with three small drainage holes that even out flow rate and absorb pour inconsistencies. Stainless steel body survives drops unlike ceramic or glass. Fuller-bodied extraction than V60; requires Wave-specific ripple papers; three holes need periodic cleaning.",
+      ja: "3つの小穴で流速を均一にして注ぎのバラつきを吸収するフラットボトムドリッパー。ステンレスボディは陶器・ガラスと異なり落下に耐える。V60よりコクのある抽出。ウェーブ専用波型ペーパーが必要。3つの穴は定期的な清掃が必要。",
     },
     links: [
       { network: "amazon-us", productId: "B00MVRGWRI", rawUrl: "https://www.amazon.com/dp/B00MVRGWRI", markets: ["US"], approved: true },
@@ -11476,8 +11476,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔩",
     name: { en: "Bodum Pour Over Coffee Maker with Permanent Filter", ja: "Bodum パーマネントフィルター付きポアオーバーコーヒーメーカー" },
     description: {
-      en: "~¥3,000-¥3,500. Stainless steel mesh permanent filter passes coffee oils for French-press-adjacent body without any paper filter cost. Cone-shaped frame sits on most mugs. Mesh requires immediate post-brew rinse before grounds dry; glass carafe breaks on impact.",
-      ja: "約3,000〜3,500円。ステンレスメッシュのパーマネントフィルターがコーヒーオイルを通過させ、ペーパーフィルター不要でフレンチプレスに近いコクをもたらす。コーン形フレームがほとんどのマグに乗る。メッシュは粉が乾燥する前に即時すすぎが必要。ガラスカラフェは衝撃で割れる。",
+      en: "Stainless steel mesh permanent filter passes coffee oils for French-press-adjacent body without any paper filter cost. Cone-shaped frame sits on most mugs. Mesh requires immediate post-brew rinse before grounds dry; glass carafe breaks on impact.",
+      ja: "ステンレスメッシュのパーマネントフィルターがコーヒーオイルを通過させ、ペーパーフィルター不要でフレンチプレスに近いコクをもたらす。コーン形フレームがほとんどのマグに乗る。メッシュは粉が乾燥する前に即時すすぎが必要。ガラスカラフェは衝撃で割れる。",
     },
     links: [
       { network: "amazon-us", productId: "B01JDHE3BK", rawUrl: "https://www.amazon.com/dp/B01JDHE3BK", markets: ["US"], approved: true },
@@ -11493,8 +11493,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🎛️",
     name: { en: "Fellow Stagg [X] Pour-Over Set", ja: "Fellow Stagg [X] ポアオーバーセット" },
     description: {
-      en: "~¥18,000-¥22,000 for the set with gooseneck kettle. Cone dripper with a base valve for steep-and-release immersion mode — the most beginner-forgiving extraction method in this comparison. Uses V60 02-compatible cone papers. Valve mechanism adds one decision point per brew; price is 8-10x the Hario V60 Ceramic.",
-      ja: "グースネックケトル付きセットで約18,000〜22,000円。スティープ&リリース浸漬モード用のベースバルブ付きコーンドリッパー——本比較で最も初心者に寛容な抽出方法。V60 02互換コーンペーパーを使用。バルブ機構が1回の抽出に判断ポイントを一つ加える。ハリオV60セラミックの8〜10倍の価格。",
+      en: "Set with gooseneck kettle. Cone dripper with a base valve for steep-and-release immersion mode — the most beginner-forgiving extraction method in this comparison. Uses V60 02-compatible cone papers. Valve mechanism adds one decision point per brew; costs 8-10x the Hario V60 Ceramic.",
+      ja: "グースネックケトル付きセット。スティープ&リリース浸漬モード用のベースバルブ付きコーンドリッパー——本比較で最も初心者に寛容な抽出方法。V60 02互換コーンペーパーを使用。バルブ機構が1回の抽出に判断ポイントを一つ加える。ハリオV60セラミックの8〜10倍の価格。",
     },
     links: [
       { network: "amazon-us", productId: "B07GPVWW54", rawUrl: "https://www.amazon.com/dp/B07GPVWW54", markets: ["US"], approved: true },
@@ -11631,8 +11631,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "RPM Session 3 Jump Rope", ja: "RPM Session 3 ジャンプロープ" },
     description: {
-      en: "1.6mm aircraft-grade steel cable with chrome-plated aluminum handles in 145mm or 165mm lengths. Precision steel-ball bearings in a recessed housing resist gym-floor impact damage. Cable swaps tool-free in 60 seconds. Competition-finish quality at around ¥18,000.",
-      ja: "145mmまたは165mm長クロームメッキアルミハンドルと1.6mm航空機グレード鋼線ケーブル。くぼんだハウジング内の精密スチールボールベアリングがジム床衝突に強い。ツール不要60秒ケーブル交換。約¥18,000の競技グレード仕上げ。",
+      en: "1.6mm aircraft-grade steel cable with chrome-plated aluminum handles in 145mm or 165mm lengths. Precision steel-ball bearings in a recessed housing resist gym-floor impact damage. Cable swaps tool-free in 60 seconds. Competition-finish quality.",
+      ja: "145mmまたは165mm長クロームメッキアルミハンドルと1.6mm航空機グレード鋼線ケーブル。くぼんだハウジング内の精密スチールボールベアリングがジム床衝突に強い。ツール不要60秒ケーブル交換。競技グレード仕上げ。",
     },
     price: "$89.95",
     links: [
@@ -11664,8 +11664,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔪",
     name: { en: "Benriner Japanese Mandoline Slicer No. 64", ja: "ベンリナー スーパーベンリナー No. 64" },
     description: {
-      en: "~¥22,000. Professional-kitchen standard since the 1960s. Flat single high-carbon stainless blade, 0–3 mm precision adjustment dial, minimum 0.5 mm for translucent daikon and cucumber slices. Sharpest blade in this comparison. No julienne blade included; cut guard loses grip on produce under 6 cm; does not fold for storage.",
-      ja: "約22,000円。1960年代から日本のプロキッチンの定番。フラットシングル高炭素ステンレス刃・0〜3mm精密調整ダイヤル・最薄0.5mmで透き通る大根・きゅうりが可能。この比較で最鋭の刃。ジュリエンヌ刃は別売；6cm未満の食材でカットガードのグリップ低下；折りたたみ不可。",
+      en: "Professional-kitchen standard since the 1960s. Flat single high-carbon stainless blade, 0–3 mm precision adjustment dial, minimum 0.5 mm for translucent daikon and cucumber slices. Sharpest blade in this comparison. No julienne blade included; cut guard loses grip on produce under 6 cm; does not fold for storage.",
+      ja: "1960年代から日本のプロキッチンの定番。フラットシングル高炭素ステンレス刃・0〜3mm精密調整ダイヤル・最薄0.5mmで透き通る大根・きゅうりが可能。この比較で最鋭の刃。ジュリエンヌ刃は別売；6cm未満の食材でカットガードのグリップ低下；折りたたみ不可。",
     },
     links: [
       { network: "amazon-us", productId: "B001TT0VSE", rawUrl: "https://www.amazon.com/dp/B001TT0VSE", markets: ["US"], approved: true },
@@ -11680,8 +11680,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🛡️",
     name: { en: "OXO Good Grips Chef's Mandoline Slicer 2.0", ja: "OXO グッドグリップス シェフズマンドリンスライサー 2.0" },
     description: {
-      en: "~¥14,000. Best cut guard design in this comparison — spike-array holder grips produce to 4 cm. 18/10 stainless blade at ~52–54 HRC. Adjustable 1–8 mm via dial. Julienne blade (2 mm strips) included. Folds flat for drawer storage. Julienne performance weaker on soft produce; 8 mm max is lower than the Borner.",
-      ja: "約14,000円。この比較で最良のカットガード設計——スパイクアレイホルダーが4cmまでホールド。18/10ステンレス刃・約52〜54 HRC。ダイヤルで1〜8mm調整。ジュリエンヌ刃（2mmスティック）付属。折りたたみで引き出し収納可。やわらかい食材でのジュリエンヌ精度は落ちる；最大8mmはBornerより低い。",
+      en: "Best cut guard design in this comparison — spike-array holder grips produce to 4 cm. 18/10 stainless blade at ~52–54 HRC. Adjustable 1–8 mm via dial. Julienne blade (2 mm strips) included. Folds flat for drawer storage. Julienne performance weaker on soft produce; 8 mm max is lower than the Borner.",
+      ja: "この比較で最良のカットガード設計——スパイクアレイホルダーが4cmまでホールド。18/10ステンレス刃・約52〜54 HRC。ダイヤルで1〜8mm調整。ジュリエンヌ刃（2mmスティック）付属。折りたたみで引き出し収納可。やわらかい食材でのジュリエンヌ精度は落ちる；最大8mmはBornerより低い。",
     },
     links: [
       { network: "amazon-us", productId: "B07BXYGF3N", rawUrl: "https://www.amazon.com/dp/B07BXYGF3N", markets: ["US"], approved: true },
@@ -11696,8 +11696,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⚪",
     name: { en: "Kyocera Advanced Ceramic Adjustable Mandoline", ja: "京セラ アドバンスドセラミック アジャスタブルマンドリン" },
     description: {
-      en: "~¥6,500. Zirconia ceramic blade at ~70 HRC — harder than any steel blade here, no metallic taste, rust-free. Adjusts 1–3.5 mm in 0.5 mm increments. Narrowest range in this comparison. Blade chips on seeds and hard-skin squash. Weakest cut guard (4 short prongs). Best for cucumber, radish, and zucchini in the 1–3 mm range.",
-      ja: "約6,500円。ジルコニアセラミック刃・約70 HRC——ここで最硬、金属臭なし、錆びない。0.5mm刻みで1〜3.5mm調整。この比較で最も狭い調整範囲。種と硬い皮のかぼちゃでブレードが欠ける。最弱のカットガード（4本の短い突起）。1〜3mmのきゅうり・大根・ズッキーニに最適。",
+      en: "Zirconia ceramic blade at ~70 HRC — harder than any steel blade here, no metallic taste, rust-free. Adjusts 1–3.5 mm in 0.5 mm increments. Narrowest range in this comparison. Blade chips on seeds and hard-skin squash. Weakest cut guard (4 short prongs). Best for cucumber, radish, and zucchini in the 1–3 mm range.",
+      ja: "ジルコニアセラミック刃・約70 HRC——ここで最硬、金属臭なし、錆びない。0.5mm刻みで1〜3.5mm調整。この比較で最も狭い調整範囲。種と硬い皮のかぼちゃでブレードが欠ける。最弱のカットガード（4本の短い突起）。1〜3mmのきゅうり・大根・ズッキーニに最適。",
     },
     links: [
       { network: "amazon-us", productId: "B003FVWPQW", rawUrl: "https://www.amazon.com/dp/B003FVWPQW", markets: ["US"], approved: true },
@@ -11712,8 +11712,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🇩🇪",
     name: { en: "Swissmar Borner V-Power Mandoline Slicer", ja: "スウィスマー ボーナー Vパワーマンドリンスライサー" },
     description: {
-      en: "~¥8,500. V-blade design (two angled blades meeting at center) cuts hard root vegetables — carrots, beets, kohlrabi — faster than flat-blade designs. German stainless at ~56–58 HRC. Fixed stops at paper-thin + 3/5/7/9 mm. Strongest cut guard (safety holder grips to ~3 cm including cherry tomatoes). No fine adjustment between fixed stops. Folds flat.",
-      ja: "約8,500円。Vブレード設計（中心で出会う2枚の傾斜ブレード）で硬い根菜——にんじん・ビーツ・コールラビ——をフラットブレードより速く切断。ドイツステンレス・約56〜58 HRC。薄切り+3/5/7/9mmの固定設定。最強のカットガード（セーフティホルダーがミニトマトを含む約3cmまでをホールド）。固定設定間の細かな調整不可。折りたたみ可。",
+      en: "V-blade design (two angled blades meeting at center) cuts hard root vegetables — carrots, beets, kohlrabi — faster than flat-blade designs. German stainless at ~56–58 HRC. Fixed stops at paper-thin + 3/5/7/9 mm. Strongest cut guard (safety holder grips to ~3 cm including cherry tomatoes). No fine adjustment between fixed stops. Folds flat.",
+      ja: "Vブレード設計（中心で出会う2枚の傾斜ブレード）で硬い根菜——にんじん・ビーツ・コールラビ——をフラットブレードより速く切断。ドイツステンレス・約56〜58 HRC。薄切り+3/5/7/9mmの固定設定。最強のカットガード（セーフティホルダーがミニトマトを含む約3cmまでをホールド）。固定設定間の細かな調整不可。折りたたみ可。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-swissmar-borner-v-power", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9C%E3%83%BC%E3%83%8A%E3%83%BC+V%E3%83%91%E3%83%AF%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -11727,8 +11727,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💰",
     name: { en: "Mueller Austria V-Pro Multi Blade Mandoline", ja: "Mueller Austria V-Pro マルチブレードマンドリン" },
     description: {
-      en: "~¥3,500. Five interchangeable blades (straight slicer, 2 mm julienne, 4 mm julienne, waffle/crinkle, grater) — most blade variety at the lowest price. 420-grade stainless at ~50–52 HRC. Continuous dial 0.5–8 mm. Cut guard (6 short prongs) loses grip on smooth produce under 5 cm. Best first mandoline for households unsure of usage frequency; blade sharpness degrades noticeably by 6 months of regular use.",
-      ja: "約3,500円。5種の交換式ブレード（ストレートスライサー・ジュリエンヌ2mm・ジュリエンヌ4mm・ウェーブ/波形カット・グレーター）——最安値で最多ブレード。420ステンレス・約50〜52 HRC。連続ダイヤルで0.5〜8mm。カットガード（6本の短い突起）が5cm以下の滑らかな食材でグリップ低下。使用頻度が不明な家庭への最初の一本に最適；6ヶ月の定期使用で切れ味の低下が目立つ。",
+      en: "Five interchangeable blades (straight slicer, 2 mm julienne, 4 mm julienne, waffle/crinkle, grater) — most blade variety at the lowest price. 420-grade stainless at ~50–52 HRC. Continuous dial 0.5–8 mm. Cut guard (6 short prongs) loses grip on smooth produce under 5 cm. Best first mandoline for households unsure of usage frequency; blade sharpness degrades noticeably by 6 months of regular use.",
+      ja: "5種の交換式ブレード（ストレートスライサー・ジュリエンヌ2mm・ジュリエンヌ4mm・ウェーブ/波形カット・グレーター）——最多ブレード。420ステンレス・約50〜52 HRC。連続ダイヤルで0.5〜8mm。カットガード（6本の短い突起）が5cm以下の滑らかな食材でグリップ低下。使用頻度が不明な家庭への最初の一本に最適；6ヶ月の定期使用で切れ味の低下が目立つ。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-mueller-v-pro-mandoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+V-Pro+%E3%83%9E%E3%83%B3%E3%83%89%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
@@ -11941,8 +11941,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "food",
     name: { en: "Etekcity Food Kitchen Scale (EK6015)", ja: "エテックシティ 食品キッチンスケール（EK6015）" },
     description: {
-      en: "26 cm x 20 cm stainless steel platform, 5 kg / 11 lb capacity, 1g resolution, angled display readable under a large bowl, 4 unit modes. Budget-tier workhorse at around $12–15. 60-second auto-off is the main trade-off in long baking sessions.",
-      ja: "26cm×20cmステンレスプラットフォーム、5kg / 11ポンド容量、1g分解能、大ボウル下でも読める角度ディスプレイ、4単位モード。約1,500〜2,000円の予算帯ワークホース。60秒オートオフが長いパン作りセッションでの主なトレードオフ。",
+      en: "26 cm x 20 cm stainless steel platform, 5 kg / 11 lb capacity, 1g resolution, angled display readable under a large bowl, 4 unit modes. Budget-tier workhorse. 60-second auto-off is the main trade-off in long baking sessions.",
+      ja: "26cm×20cmステンレスプラットフォーム、5kg / 11ポンド容量、1g分解能、大ボウル下でも読める角度ディスプレイ、4単位モード。予算帯のワークホース。60秒オートオフが長いパン作りセッションでの主なトレードオフ。",
     },
     price: "$13.99",
     links: [
@@ -12123,7 +12123,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "food",
     name: { en: "Le Creuset Signature Round Dutch Oven 5.5qt", ja: "ル・クルーゼ シグネチャー ラウンド ダッチオーブン 5.5qt" },
     description: {
-      en: "~¥60,000-¥80,000. 5.5qt (5.2L) enameled cast iron, colorfast exterior enamel, sand-colored interior enamel for easy browning visibility, tight-fitting lid with large stainless knob. Lifetime warranty. The reference enameled Dutch oven by which all others are judged.",
+      en: "5.5qt (5.2L) enameled cast iron, colorfast exterior enamel, sand-colored interior enamel for easy browning visibility, tight-fitting lid with large stainless knob. Lifetime warranty. The reference enameled Dutch oven by which all others are judged.",
       ja: "約6〜8万円。5.5qt（5.2L）ホーロー鋳鉄、色あせしない外面エナメル、焼き色が見やすいサンドカラーの内面エナメル、大型ステンレスノブの密閉蓋付き。生涯保証。他の全てが比較対象とする基準のエナメルダッチオーブン。",
     },
     links: [
@@ -12139,8 +12139,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "food",
     name: { en: "Lodge 6 Quart Enameled Cast Iron Dutch Oven", ja: "Lodge 6クォート ホーロー鋳鉄ダッチオーブン" },
     description: {
-      en: "~¥8,000-¥12,000. 6qt (5.7L) enameled cast iron, porcelain enamel on cast iron, available in multiple colors, oven-safe to 260°C. The most accessible enameled Dutch oven price point — delivers Le Creuset-style performance at a fraction of the cost.",
-      ja: "約8,000〜12,000円。6qt（5.7L）ホーロー鋳鉄、複数カラー展開、260°Cまでオーブン対応。ル・クルーゼ相当の調理性能を圧倒的なコストで実現する最も手軽なエナメルダッチオーブン。",
+      en: "6qt (5.7L) enameled cast iron, porcelain enamel on cast iron, available in multiple colors, oven-safe to 260°C. The most accessible enameled Dutch oven price point — delivers Le Creuset-style performance at a fraction of the cost.",
+      ja: "6qt（5.7L）ホーロー鋳鉄、複数カラー展開、260°Cまでオーブン対応。ル・クルーゼ相当の調理性能を圧倒的なコストで実現する最も手軽なエナメルダッチオーブン。",
     },
     links: [
       { network: "amazon-us", productId: "B001A3O1OA", rawUrl: "https://www.amazon.com/dp/B001A3O1OA", markets: ["US"], approved: true },
@@ -12155,7 +12155,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "food",
     name: { en: "Staub Cast Iron Round Cocotte 5.5qt", ja: "ストウブ 鋳鉄 ラウンドココット 5.5qt" },
     description: {
-      en: "~¥55,000-¥75,000. 5.5qt (5.2L) enameled cast iron, matte black enamel interior with self-basting spike lid, graphite-black matte exterior. The Staub cocotte's interior develops a patina over time that enhances searing performance — preferred by professional kitchens over Le Creuset for stovetop browning.",
+      en: "5.5qt (5.2L) enameled cast iron, matte black enamel interior with self-basting spike lid, graphite-black matte exterior. The Staub cocotte's interior develops a patina over time that enhances searing performance — preferred by professional kitchens over Le Creuset for stovetop browning.",
       ja: "約5.5〜7.5万円。5.5qt（5.2L）ホーロー鋳鉄、スパイク付き自己給水蓋のマットブラック内面エナメル、グラファイトブラックマット外面。使うほど育つパティナが焼き付け性能を高めるため、コンロ調理でストウブを好むプロの厨房が多い。",
     },
     links: [
@@ -12171,8 +12171,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "food",
     name: { en: "Cuisinart Chef's Classic Enameled Cast Iron 7qt", ja: "クイジナート シェフズクラシック エナメル鋳鉄 7qt" },
     description: {
-      en: "~¥12,000-¥18,000. 7qt (6.6L) enameled cast iron, porcelain enamel exterior and interior, wide loop side handles, oven-safe to 260°C. Largest capacity Dutch oven in this comparison — the right pick for families of four or more cooking soups, stews, and chilis in single batches.",
-      ja: "約12,000〜18,000円。7qt（6.6L）ホーロー鋳鉄、内外面磁器エナメル、ワイドループサイドハンドル、260°Cまでオーブン対応。このリストで最大容量 — スープ・シチュー・チリを1バッチで作る4人以上の家族に最適。",
+      en: "7qt (6.6L) enameled cast iron, porcelain enamel exterior and interior, wide loop side handles, oven-safe to 260°C. Largest capacity Dutch oven in this comparison — the right pick for families of four or more cooking soups, stews, and chilis in single batches.",
+      ja: "7qt（6.6L）ホーロー鋳鉄、内外面磁器エナメル、ワイドループサイドハンドル、260°Cまでオーブン対応。このリストで最大容量 — スープ・シチュー・チリを1バッチで作る4人以上の家族に最適。",
     },
     links: [
       { network: "amazon-us", productId: "B0000631WU", rawUrl: "https://www.amazon.com/dp/B0000631WU", markets: ["US"], approved: true },
@@ -12188,8 +12188,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "Inzer Advance Designs Forever Lever Belt 10mm", ja: "インザー フォーエバー レバーベルト 10mm" },
     description: {
-      en: "~¥25,000-¥35,000. 10mm single-ply stiff leather powerlifting belt with lever closure. IPF-approved dimensions (10cm width), uniform 10mm thickness all the way around. The lever buckle provides the same tightness every single rep without the fiddling of a prong belt — once set, just click in and click out. Inzer's signature Forever warranty covers defects for the life of the belt.",
-      ja: "約25,000〜35,000円。10mmシングルプライスティフレザー パワーリフティングベルト、レバー締め。IPF認定寸法（幅10cm）、全周均一10mm厚。レバーバックルは毎レップ同じ締め付けを実現 — 一度セットすればカチッと締めるだけ。インザーのForeverワランティで生涯保証。",
+      en: "10mm single-ply stiff leather powerlifting belt with lever closure. IPF-approved dimensions (10cm width), uniform 10mm thickness all the way around. The lever buckle provides the same tightness every single rep without the fiddling of a prong belt — once set, just click in and click out. Inzer's signature Forever warranty covers defects for the life of the belt.",
+      ja: "10mmシングルプライスティフレザー パワーリフティングベルト、レバー締め。IPF認定寸法（幅10cm）、全周均一10mm厚。レバーバックルは毎レップ同じ締め付けを実現 — 一度セットすればカチッと締めるだけ。インザーのForeverワランティで生涯保証。",
     },
     price: "$129.95",
     links: [
@@ -12205,8 +12205,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "SBD Belt (Lever)", ja: "SBD ベルト（レバー）" },
     description: {
-      en: "~¥40,000-¥50,000. 13mm thick single-ply leather belt with SBD's proprietary lever mechanism. IPF-approved. Made in the UK to exacting competition standards — used by multiple world record holders. The lever releases with a finger, making it practical to loosen between sets without removing the belt entirely. Premium price reflects premium materials and fit finish.",
-      ja: "約40,000〜50,000円。13mmシングルプライレザー、SBD独自レバー機構。IPF認定。英国製で競技基準の高品質 — 複数の世界記録保持者が使用。レバーは指一本で解除でき、セット間に完全に外さなくてもゆるめられる実用設計。プレミアム価格はプレミアム素材と仕上げを反映。",
+      en: "13mm thick single-ply leather belt with SBD's proprietary lever mechanism. IPF-approved. Made in the UK to exacting competition standards — used by multiple world record holders. The lever releases with a finger, making it practical to loosen between sets without removing the belt entirely. Premium price reflects premium materials and fit finish.",
+      ja: "13mmシングルプライレザー、SBD独自レバー機構。IPF認定。英国製で競技基準の高品質 — 複数の世界記録保持者が使用。レバーは指一本で解除でき、セット間に完全に外さなくてもゆるめられる実用設計。プレミアム価格はプレミアム素材と仕上げを反映。",
     },
     links: [
       { network: "amazon-us", productId: "B07BKWG7GM", rawUrl: "https://www.amazon.com/dp/B07BKWG7GM", markets: ["US"], approved: true },
@@ -12220,8 +12220,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     priceMax: "¥28,000",
     name: { en: "Rogue Ohio Lifting Belt", ja: "ローグ オハイオ リフティングベルト" },
     description: {
-      en: "~¥20,000-¥28,000. 10mm thick single-ply leather belt with a double prong or single prong buckle option. Made in Columbus, Ohio from Herman Oak leather — the same tannery used by top custom belt makers. 4-inch width at back tapers to 3 inches in front for better hip mobility during deadlifts. Rogue's standard warranty applies.",
-      ja: "約20,000〜28,000円。10mmシングルプライレザー、ダブルまたはシングルプロングバックル選択可。コロンバス（オハイオ）製、Herman Oakレザー使用。背面4インチ幅がフロント3インチにテーパーしデッドリフト時の股関節可動域を確保。ローグの標準保証付き。",
+      en: "10mm thick single-ply leather belt with a double prong or single prong buckle option. Made in Columbus, Ohio from Herman Oak leather — the same tannery used by top custom belt makers. 4-inch width at back tapers to 3 inches in front for better hip mobility during deadlifts. Rogue's standard warranty applies.",
+      ja: "10mmシングルプライレザー、ダブルまたはシングルプロングバックル選択可。コロンバス（オハイオ）製、Herman Oakレザー使用。背面4インチ幅がフロント3インチにテーパーしデッドリフト時の股関節可動域を確保。ローグの標準保証付き。",
     },
     links: [
       { network: "amazon-us", productId: "B01MY48MLX", rawUrl: "https://www.amazon.com/dp/B01MY48MLX", markets: ["US"], approved: true },
@@ -12236,8 +12236,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "Pioneer Cut Powerlifting Belt", ja: "パイオニアカット パワーリフティングベルト" },
     description: {
-      en: "~¥18,000-¥25,000. 10mm single-ply stiff leather with a contoured 'Pioneer cut' that widens at the back and narrows at the sides — a geometry that many lifters find provides better support during squats without digging into the hip flexors at the bottom of the lift. Available in various widths and buckle styles. Popular in Japanese powerlifting circles.",
-      ja: "約18,000〜25,000円。10mmシングルプライスティフレザー、背面が広くサイドが狭いパイオニアカット形状 — スクワット時のサポートを向上しつつ、底部での股関節屈筋への干渉を最小化。幅・バックルスタイルのバリエーション豊富。日本のパワーリフティング界で人気。",
+      en: "10mm single-ply stiff leather with a contoured 'Pioneer cut' that widens at the back and narrows at the sides — a geometry that many lifters find provides better support during squats without digging into the hip flexors at the bottom of the lift. Available in various widths and buckle styles. Popular in Japanese powerlifting circles.",
+      ja: "10mmシングルプライスティフレザー、背面が広くサイドが狭いパイオニアカット形状 — スクワット時のサポートを向上しつつ、底部での股関節屈筋への干渉を最小化。幅・バックルスタイルのバリエーション豊富。日本のパワーリフティング界で人気。",
     },
     links: [
       { network: "amazon-us", productId: "B08KGLXYNR", rawUrl: "https://www.amazon.com/dp/B08KGLXYNR", markets: ["US"], approved: true },
@@ -12252,8 +12252,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "Harbinger Padded Leather Belt", ja: "ハービンジャー パッド付きレザーベルト" },
     description: {
-      en: "~¥5,000-¥8,000. 6-inch wide leather belt with a foam-padded back panel and contoured front. Not a powerlifting-spec belt — it's designed for general strength training and bodybuilding where variety of movements matter more than maximum bracing. The foam padding makes it comfortable immediately without a break-in period. Good entry-level option for lifters doing mixed training.",
-      ja: "約5,000〜8,000円。幅6インチレザー、フォームパッド付き背面パネルと輪郭成形フロント。パワーリフティング仕様ではなく、多様な動作が優先される一般筋力トレーニング・ボディビル向け設計。フォームパッドでブレークイン不要から即快適。多種目トレーニングをこなすリフター向けエントリーレベルの選択肢。",
+      en: "6-inch wide leather belt with a foam-padded back panel and contoured front. Not a powerlifting-spec belt — it's designed for general strength training and bodybuilding where variety of movements matter more than maximum bracing. The foam padding makes it comfortable immediately without a break-in period. Good entry-level option for lifters doing mixed training.",
+      ja: "幅6インチレザー、フォームパッド付き背面パネルと輪郭成形フロント。パワーリフティング仕様ではなく、多様な動作が優先される一般筋力トレーニング・ボディビル向け設計。フォームパッドでブレークイン不要から即快適。多種目トレーニングをこなすリフター向けエントリーレベルの選択肢。",
     },
     links: [
       { network: "amazon-us", productId: "B0000C0F2O", rawUrl: "https://www.amazon.com/dp/B0000C0F2O", markets: ["US"], approved: true },
@@ -12269,8 +12269,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "food",
     name: { en: "Tramontina Enameled Cast Iron Covered Round Dutch Oven 6.5qt", ja: "トラモンティーナ ホーロー鋳鉄 カバード ラウンドダッチオーブン 6.5qt" },
     description: {
-      en: "~¥10,000-¥15,000. 6.5qt (6.1L) enameled cast iron, porcelain enamel exterior and interior, compatible with all cooktops including induction. Brazil-made enameled cast iron that consistently outperforms its price tier — widely recommended as the best Le Creuset alternative under 15.",
-      ja: "約10,000〜15,000円。6.5qt（6.1L）ホーロー鋳鉄、内外面磁器エナメル、IH含む全熱源対応。ブラジル製でありながら価格帯を上回る性能で一貫した評価を得る — 15,000円以下のル・クルーゼ代替として広く推薦されるモデル。",
+      en: "6.5qt (6.1L) enameled cast iron, porcelain enamel exterior and interior, compatible with all cooktops including induction. Brazil-made enameled cast iron that consistently outperforms its price tier — widely recommended as a leading Le Creuset alternative.",
+      ja: "6.5qt（6.1L）ホーロー鋳鉄、内外面磁器エナメル、IH含む全熱源対応。ブラジル製でありながら価格帯を上回る性能で一貫した評価を得る — ル・クルーゼ代替として広く推薦されるモデル。",
     },
     links: [
       { network: "amazon-us", productId: "B0082OVM9E", rawUrl: "https://www.amazon.com/dp/B0082OVM9E", markets: ["US"], approved: true },
@@ -12285,7 +12285,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "~$280",
     name: { en: "Breville Precision Brewer Thermal BDC450", ja: "ブレビル プレシジョン ブリュワー サーマル BDC450" },
     description: {
-      en: "~$280 USD. SCAA-certified drip brewer with precise water temperature control, bloom pre-infusion, and a vacuum-sealed thermal carafe. The gold standard for home drip coffee in North America, producing specialty-grade extraction that rivals pour-over results.",
+      en: "USD. SCAA-certified drip brewer with precise water temperature control, bloom pre-infusion, and a vacuum-sealed thermal carafe. The gold standard for home drip coffee in North America, producing specialty-grade extraction that rivals pour-over results.",
       ja: "約280ドル。SCAA認定のドリップブリュワー。正確な水温管理、ブルーム事前注水、真空シールサーマルカラフェ搭載。北米で家庭用ドリップの基準機として評価が高く、ハンドドリップに匹敵するスペシャルティグレードの抽出が可能。",
     },
     links: [
@@ -12300,7 +12300,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "~$350",
     name: { en: "Technivorm Moccamaster KBT Coffee Maker", ja: "テクニフォーム モカマスター KBT" },
     description: {
-      en: "~$350 USD. Dutch-made SCAA-certified drip brewer with a copper boiling element that reaches SCAA-specified 92–96°C brew temperature in 6 minutes. Handmade in the Netherlands with a 5-year warranty — the benchmark for consistent, specialty-grade drip coffee.",
+      en: "USD. Dutch-made SCAA-certified drip brewer with a copper boiling element that reaches SCAA-specified 92–96°C brew temperature in 6 minutes. Handmade in the Netherlands with a 5-year warranty — the benchmark for consistent, specialty-grade drip coffee.",
       ja: "約350ドル。オランダ製SCAA認定ドリップブリュワー。銅製ボイラーでSCAA規定の92〜96℃に6分で達温。オランダで手作り、5年保証付き — スペシャルティグレードのドリップコーヒーの基準機。",
     },
     links: [
@@ -12315,7 +12315,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "~$200",
     name: { en: "OXO Brew 9-Cup Coffee Maker", ja: "OXO ブリュー 9カップ コーヒーメーカー" },
     description: {
-      en: "~$200 USD. SCAA-certified 9-cup drip brewer with a rainmaker showerhead for even saturation, programmable pre-infusion bloom, and an insulated carafe. Positioned as the approachable SCAA pick — strong performance at a lower entry point than Moccamaster.",
+      en: "USD. SCAA-certified 9-cup drip brewer with a rainmaker showerhead for even saturation, programmable pre-infusion bloom, and an insulated carafe. Positioned as the approachable SCAA pick — strong performance at a lower entry point than Moccamaster.",
       ja: "約200ドル。SCAA認定9カップドリップブリュワー。均一な飽和を実現するレインメーカーシャワーヘッド、プログラム可能なブルーム注水、断熱カラフェを搭載。モカマスターより手頃な価格で高いSCAA性能を発揮する実力機。",
     },
     links: [
@@ -12330,7 +12330,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "~$80",
     name: { en: "Cuisinart PerfecTemp 14-Cup Programmable Coffeemaker DCC-3200P1", ja: "クイジナート パーフェクテンプ 14カップ プログラマブルコーヒーメーカー DCC-3200P1" },
     description: {
-      en: "~$80 USD. 14-cup programmable drip brewer with 24-hour advance brewing, 1–4 cup brew strength adjustment, and a keep-warm plate. The widest-selling programmable coffee maker in North America — sensible if you brew large batches and want simple automation.",
+      en: "USD. 14-cup programmable drip brewer with 24-hour advance brewing, 1–4 cup brew strength adjustment, and a keep-warm plate. The widest-selling programmable coffee maker in North America — sensible if you brew large batches and want simple automation.",
       ja: "約80ドル。14カッププログラマブルドリップブリュワー。24時間前予約、1〜4カップ用醸造強度調整、保温プレート付き。北米で最も売れているプログラマブルコーヒーメーカー — 大量抽出と簡単な自動化を望む場合に合理的な選択。",
     },
     links: [
@@ -12345,7 +12345,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     price: "~$30",
     name: { en: "Hamilton Beach 12-Cup Coffee Maker 49350", ja: "ハミルトンビーチ 12カップ コーヒーメーカー 49350" },
     description: {
-      en: "~$30 USD. 12-cup programmable drip brewer with a 2-hour keep-warm auto shutoff and a pause-and-pour feature. The honest budget pick for households who want a morning pot of coffee without spending more than a bag of beans on the machine itself.",
+      en: "USD. 12-cup programmable drip brewer with a 2-hour keep-warm auto shutoff and a pause-and-pour feature. The honest budget pick for households who want a morning pot of coffee without spending more than a bag of beans on the machine itself.",
       ja: "約30ドル。12カッププログラマブルドリップブリュワー。2時間保温後自動オフ、途中注ぎ機能付き。コーヒー豆1袋分以上の費用をかけずに毎朝のコーヒーポットが欲しい家庭への正直なバジェット機。",
     },
     links: [
@@ -12362,8 +12362,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "Rogue Ohio Bar Cerakote", ja: "ローグ・オハイオバー Cerakote" },
     description: {
-      en: "~¥55,000-¥70,000. Rogue's flagship all-purpose barbell in Cerakote finish. 190,000 PSI tensile strength shaft, 28.5 mm diameter, dual knurl marks (IPF and IWF spacing), medium-aggressive knurl without center knurl, bronze bushings. Cerakote coating outperforms bare steel, zinc, and chrome on corrosion resistance — ideal for garage gyms with humidity and temperature swings. The reference recommendation for home gym lifters who want one bar that handles powerlifting, Olympic lifting, and general training.",
-      ja: "約55,000〜70,000円。ローグのフラッグシップ汎用バーベルCerakoteフィニッシュ版。190,000 PSI引張強度シャフト、径28.5mm、デュアルローレットマーク（IPFおよびIWF間隔）、センターローレットなしのミディアムアグレッシブローレット、ブロンズブッシング。Cerakoteコーティングは耐食性で裸スチール・亜鉛・クロームを上回る——湿度と温度変化のあるガレージジムに最適。パワーリフティング・ウェイトリフティング・一般トレーニングを1本でこなしたいホームジムリフターへの基準推奨品。",
+      en: "Rogue's flagship all-purpose barbell in Cerakote finish. 190,000 PSI tensile strength shaft, 28.5 mm diameter, dual knurl marks (IPF and IWF spacing), medium-aggressive knurl without center knurl, bronze bushings. Cerakote coating outperforms bare steel, zinc, and chrome on corrosion resistance — ideal for garage gyms with humidity and temperature swings. The reference recommendation for home gym lifters who want one bar that handles powerlifting, Olympic lifting, and general training.",
+      ja: "ローグのフラッグシップ汎用バーベルCerakoteフィニッシュ版。190,000 PSI引張強度シャフト、径28.5mm、デュアルローレットマーク（IPFおよびIWF間隔）、センターローレットなしのミディアムアグレッシブローレット、ブロンズブッシング。Cerakoteコーティングは耐食性で裸スチール・亜鉛・クロームを上回る——湿度と温度変化のあるガレージジムに最適。パワーリフティング・ウェイトリフティング・一般トレーニングを1本でこなしたいホームジムリフターへの基準推奨品。",
     },
     links: [
       { network: "amazon-us", productId: "B07F3SYD7H", rawUrl: "https://www.amazon.com/dp/B07F3SYD7H", markets: ["US"], approved: true },
@@ -12378,8 +12378,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "Texas Power Bar Bare Steel", ja: "テキサスパワーバー 裸スチール" },
     description: {
-      en: "~¥45,000-¥60,000. Buddy Capps' legendary powerlifting barbell, made in Texas since the 1980s. 210,000 PSI tensile strength — one of the highest on the market. 29 mm shaft, aggressive dual knurl with center knurl, bare steel finish for maximum grip texture. The reference standard for raw powerlifting: the center knurl bites into your back on high-bar squats, and the steel quality means the bar won't develop a permanent bend under decades of heavy deadlifts. Requires light oil maintenance; best suited for climate-controlled gyms.",
-      ja: "約45,000〜60,000円。1980年代からテキサスで製造されるバディ・キャップスの伝説のパワーリフティングバーベル。市場最高クラスの210,000 PSI引張強度。29mmシャフト、センターローレット付きアグレッシブデュアルローレット、最大グリップテクスチャのための裸スチールフィニッシュ。ロウパワーリフティングの基準：センターローレットは高バースクワットで背中にしっかり噛み込み、数十年の重いデッドリフトでも鋼材品質でバーが永久変形しない。軽いオイルメンテナンスが必要。空調管理されたジムに最適。",
+      en: "Buddy Capps' legendary powerlifting barbell, made in Texas since the 1980s. 210,000 PSI tensile strength — one of the highest on the market. 29 mm shaft, aggressive dual knurl with center knurl, bare steel finish for maximum grip texture. The reference standard for raw powerlifting: the center knurl bites into your back on high-bar squats, and the steel quality means the bar won't develop a permanent bend under decades of heavy deadlifts. Requires light oil maintenance; best suited for climate-controlled gyms.",
+      ja: "1980年代からテキサスで製造されるバディ・キャップスの伝説のパワーリフティングバーベル。市場最高クラスの210,000 PSI引張強度。29mmシャフト、センターローレット付きアグレッシブデュアルローレット、最大グリップテクスチャのための裸スチールフィニッシュ。ロウパワーリフティングの基準：センターローレットは高バースクワットで背中にしっかり噛み込み、数十年の重いデッドリフトでも鋼材品質でバーが永久変形しない。軽いオイルメンテナンスが必要。空調管理されたジムに最適。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-texas-power-bar-bare-steel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTexas%2BPower%2BBar%2B%E3%83%90%E3%83%BC%E3%83%99%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -12393,8 +12393,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "CAP Barbell 7ft Olympic Bar OB-86PB", ja: "CAPバーベル 7フィート オリンピックバー OB-86PB" },
     description: {
-      en: "~¥15,000-¥25,000. CAP's entry-level 7-foot Olympic barbell — 130,000 PSI tensile strength, zinc finish for basic corrosion resistance, 50 mm sleeves accepting standard Olympic plates. Adequate for recreational lifters training under 130-140 kg who need a functional bar without premium spend. Mild knurl, standard bronze bushings, 2-inch hole spacing. Honest limitations: the steel flex becomes noticeable near rated capacity and the sleeve tolerances loosen faster than premium bars over years of use. The right choice for first-time home gym setups on a strict budget.",
-      ja: "約15,000〜25,000円。CAPのエントリーレベル 7フィート オリンピックバーベル——130,000 PSI引張強度、基本耐食性のための亜鉛フィニッシュ、標準オリンピックプレート対応50mmスリーブ。プレミアム出費なしに機能するバーが必要な130〜140kg以下でトレーニングするレクリエーショナルリフターに適切。マイルドローレット、標準ブロンズブッシング、50mmホール間隔。正直な限界：定格荷重近くでスチールのたわみが目立ち、スリーブの公差は数年の使用でプレミアムバーより早く緩む。厳格な予算での初ホームジムセットアップに正しい選択。",
+      en: "CAP's entry-level 7-foot Olympic barbell — 130,000 PSI tensile strength, zinc finish for basic corrosion resistance, 50 mm sleeves accepting standard Olympic plates. Adequate for recreational lifters training under 130-140 kg who need a functional bar without premium spend. Mild knurl, standard bronze bushings, 2-inch hole spacing. Honest limitations: the steel flex becomes noticeable near rated capacity and the sleeve tolerances loosen faster than premium bars over years of use. The right choice for first-time home gym setups on a strict budget.",
+      ja: "CAPのエントリーレベル 7フィート オリンピックバーベル——130,000 PSI引張強度、基本耐食性のための亜鉛フィニッシュ、標準オリンピックプレート対応50mmスリーブ。プレミアム出費なしに機能するバーが必要な130〜140kg以下でトレーニングするレクリエーショナルリフターに適切。マイルドローレット、標準ブロンズブッシング、50mmホール間隔。正直な限界：定格荷重近くでスチールのたわみが目立ち、スリーブの公差は数年の使用でプレミアムバーより早く緩む。厳格な予算での初ホームジムセットアップに正しい選択。",
     },
     links: [
       { network: "amazon-us", productId: "B001AXZGQW", rawUrl: "https://www.amazon.com/dp/B001AXZGQW", markets: ["US"], approved: true },
@@ -12409,8 +12409,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "REP Fitness 20kg Equalizer Barbell", ja: "REPフィットネス 20kg イコライザーバーベル" },
     description: {
-      en: "~¥35,000-¥50,000. REP Fitness's mid-range all-purpose barbell — 190,000 PSI tensile strength matching the Rogue Ohio Bar at a price roughly $80-100 less. 28.5 mm shaft, dual knurl marks (IPF and IWF spacing), medium-aggressive knurl, bronze bushings. Available in black zinc and stainless finishes. The Equalizer hits the practical sweet spot for serious lifters who want competition-spec tensile strength without the Rogue premium: the feel under load is close to the Ohio Bar, and the coating options cover both budget-conscious and maintenance-averse lifters.",
-      ja: "約35,000〜50,000円。REPフィットネスのミドルレンジ汎用バーベル——ローグ・オハイオバーに匹敵する190,000 PSI引張強度をローグより約1〜1.5万円安く提供。28.5mmシャフト、デュアルローレットマーク（IPFおよびIWF間隔）、ミディアムアグレッシブローレット、ブロンズブッシング。ブラック亜鉛とステンレスフィニッシュで利用可能。イコライザーはローグプレミアムなしで競技仕様の引張強度を求める本格リフターにとって実用的なスイートスポット：負荷をかけた感触はオハイオバーに近く、コーティングオプションはコスト重視と低メンテナンス志向の両リフターをカバーする。",
+      en: "REP Fitness's mid-range all-purpose barbell — 190,000 PSI tensile strength matching the Rogue Ohio Bar at a lower price. 28.5 mm shaft, dual knurl marks (IPF and IWF spacing), medium-aggressive knurl, bronze bushings. Available in black zinc and stainless finishes. The Equalizer hits the practical sweet spot for serious lifters who want competition-spec tensile strength without the Rogue premium: the feel under load is close to the Ohio Bar, and the coating options cover both budget-conscious and maintenance-averse lifters.",
+      ja: "REPフィットネスのミドルレンジ汎用バーベル——ローグ・オハイオバーに匹敵する190,000 PSI引張強度をローグより約1〜1.5万円安く提供。28.5mmシャフト、デュアルローレットマーク（IPFおよびIWF間隔）、ミディアムアグレッシブローレット、ブロンズブッシング。ブラック亜鉛とステンレスフィニッシュで利用可能。イコライザーはローグプレミアムなしで競技仕様の引張強度を求める本格リフターにとって実用的なスイートスポット：負荷をかけた感触はオハイオバーに近く、コーティングオプションはコスト重視と低メンテナンス志向の両リフターをカバーする。",
     },
     links: [
       { network: "amazon-us", productId: "B08XK4FSVP", rawUrl: "https://www.amazon.com/dp/B08XK4FSVP", markets: ["US"], approved: true },
@@ -12425,8 +12425,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "Titan Fitness Olympic Barbell 20kg", ja: "タイタン フィットネス オリンピックバーベル 20kg" },
     description: {
-      en: "~¥30,000-¥45,000. Titan Fitness's flagship 20kg Olympic barbell — 190,000 PSI tensile strength, 28.5 mm shaft, dual knurl marks, medium-aggressive knurl, available in black zinc or stainless steel. Titan's closest direct competitor to the Rogue Ohio Bar at $80-100 less. The black zinc finish handles garage humidity conditions without the Cerakote premium. Bronze bushing sleeve construction provides smooth spin for both Olympic lifting and powerlifting use. A legitimate performance barbell at a price point that makes the Rogue premium a harder argument for budget-conscious home gym lifters.",
-      ja: "約30,000〜45,000円。タイタン フィットネスのフラッグシップ20kgオリンピックバーベル——190,000 PSI引張強度、28.5mmシャフト、デュアルローレットマーク、ミディアムアグレッシブローレット、ブラック亜鉛またはステンレス鋼で利用可能。Titanのローグ・オハイオバーへの最も直接的な競合品を約8,000〜1.5万円安く提供。ブラック亜鉛フィニッシュはCerakoteプレミアムなしでガレージの湿度条件に対応。ブロンズブッシング スリーブ構造はウェイトリフティングとパワーリフティング両用途でスムーズなスピンを提供。コスト重視のホームジムリフターへのローグプレミアムを難しい選択にする本格パフォーマンスバーベル。",
+      en: "Titan Fitness's flagship 20kg Olympic barbell — 190,000 PSI tensile strength, 28.5 mm shaft, dual knurl marks, medium-aggressive knurl, available in black zinc or stainless steel. Titan's closest direct competitor to the Rogue Ohio Bar at a lower price. The black zinc finish handles garage humidity conditions without the Cerakote premium. Bronze bushing sleeve construction provides smooth spin for both Olympic lifting and powerlifting use. A legitimate performance barbell at a price point that makes the Rogue premium a harder argument for budget-conscious home gym lifters.",
+      ja: "タイタン フィットネスのフラッグシップ20kgオリンピックバーベル——190,000 PSI引張強度、28.5mmシャフト、デュアルローレットマーク、ミディアムアグレッシブローレット、ブラック亜鉛またはステンレス鋼で利用可能。Titanのローグ・オハイオバーへの最も直接的な競合品を約8,000〜1.5万円安く提供。ブラック亜鉛フィニッシュはCerakoteプレミアムなしでガレージの湿度条件に対応。ブロンズブッシング スリーブ構造はウェイトリフティングとパワーリフティング両用途でスムーズなスピンを提供。コスト重視のホームジムリフターへのローグプレミアムを難しい選択にする本格パフォーマンスバーベル。",
     },
     links: [
       { network: "amazon-us", productId: "B07YDQKX6N", rawUrl: "https://www.amazon.com/dp/B07YDQKX6N", markets: ["US"], approved: true },
@@ -12443,7 +12443,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "Rogue RM-3 Monster Rack 2.0", ja: "ローグ RM-3 モンスターラック 2.0" },
     description: {
-      en: "~¥300,000-¥400,000. Rogue's flagship 3x3-inch 11-gauge steel Monster series power rack. 90-inch uprights, 1,000 lb rated weight capacity, Westside hole spacing (1-inch in the bench zone, 2-inch above and below), and compatibility with the full Rogue Monster accessory ecosystem — lat pulldown, cable crossover, landmine, monolift wings. Built in Columbus, Ohio with the tolerance and finish that justify the premium. Heavy footprint at 57 x 46 inches base — room for this rack is room for a serious gym.",
+      en: "Rogue's flagship 3x3-inch 11-gauge steel Monster series power rack. 90-inch uprights, 1,000 lb rated weight capacity, Westside hole spacing (1-inch in the bench zone, 2-inch above and below), and compatibility with the full Rogue Monster accessory ecosystem — lat pulldown, cable crossover, landmine, monolift wings. Built in Columbus, Ohio with the tolerance and finish that justify the premium. Heavy footprint at 57 x 46 inches base — room for this rack is room for a serious gym.",
       ja: "約30〜40万円。ローグのフラッグシップ3x3インチ11ゲージスチール モンスターシリーズ パワーラック。90インチアップライト、耐荷重450kg、ウエストサイドホール間隔（ベンチゾーン25mm、上下50mm）、ローグモンスターアクセサリー全体（ラットプルダウン・ケーブルクロスオーバー・ランドマイン・モノリフトウィング）との互換性。オハイオ州コロンバス製。ベース57x46インチの大型フットプリント — このラックに場所があれば本格ジムが作れる。",
     },
     links: [
@@ -12459,7 +12459,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "REP Fitness PR-4000 Power Rack", ja: "REPフィットネス PR-4000 パワーラック" },
     description: {
-      en: "~¥180,000-¥250,000. REP's top-tier home gym power rack in 3x3-inch 11-gauge steel with 1-inch Westside hole spacing throughout the entire upright length. 1,000 lb rated capacity, 93-inch height option, and a modular accessory system that competes directly with Rogue at roughly half the price. The rack ships in multiple boxes and requires careful assembly, but the hardware quality and tolerances are genuinely close to Rogue without the Monster premium. An increasingly popular choice among serious home gym builders who want competition-spec construction without the import price of US-made racks.",
+      en: "REP's top-tier home gym power rack in 3x3-inch 11-gauge steel with 1-inch Westside hole spacing throughout the entire upright length. 1,000 lb rated capacity, 93-inch height option, and a modular accessory system that competes directly with Rogue at roughly half the price. The rack ships in multiple boxes and requires careful assembly, but the hardware quality and tolerances are genuinely close to Rogue without the Monster premium. An increasingly popular choice among serious home gym builders who want competition-spec construction without the import price of US-made racks.",
       ja: "約18〜25万円。REPのトップティア ホームジム パワーラック。3x3インチ11ゲージスチール、全長1インチ ウエストサイドホール間隔。耐荷重450kg、高さ93インチオプション、ローグの約半額でモジュラーアクセサリーシステムが競合。複数箱発送で丁寧な組み立てが必要だが、ハードウェア品質と精度はモンスタープレミアムなしで本当にローグに近い。米国製ラックの輸入価格なしで競技仕様の構造を求める本格ホームジムビルダーの間で急速に人気上昇中。",
     },
     links: [
@@ -12475,7 +12475,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "Titan Fitness T-3 Short Power Rack", ja: "タイタン フィットネス T-3 ショート パワーラック" },
     description: {
-      en: "~¥80,000-¥120,000. Titan's T-3 series in a short (72-inch upright) configuration designed for garages and home gyms with 8-foot or lower ceilings. 3x3-inch 11-gauge steel uprights, 700 lb rated capacity, 5/8-inch bolt-together construction (no welding). Westside hole spacing in the bench zone. The short configuration gives up some overhead bar clearance and limits the height at which you can do pull-ups with a bar, but for squatting and benching it performs identically to the full-height version. Titan's T-3 accessories are widely available and reasonably priced, making this a genuine budget-to-mid power rack upgrade path.",
+      en: "Titan's T-3 series in a short (72-inch upright) configuration designed for garages and home gyms with 8-foot or lower ceilings. 3x3-inch 11-gauge steel uprights, 700 lb rated capacity, 5/8-inch bolt-together construction (no welding). Westside hole spacing in the bench zone. The short configuration gives up some overhead bar clearance and limits the height at which you can do pull-ups with a bar, but for squatting and benching it performs identically to the full-height version. Titan's T-3 accessories are widely available and reasonably priced, making this a genuine budget-to-mid power rack upgrade path.",
       ja: "約8〜12万円。タイタンのT-3シリーズ、天井高2.4m以下のガレージ・ホームジム向けショート（72インチアップライト）設計。3x3インチ11ゲージスチールアップライト、耐荷重320kg、5/8インチボルト締め構造（溶接なし）。ベンチゾーンにウエストサイドホール間隔。ショート設定でオーバーヘッドバークリアランスと懸垂高さは犠牲になるが、スクワットとベンチでは全高バージョンと同等性能。タイタンT-3アクセサリーは幅広く手頃な価格で、本格的なバジェット〜ミッドパワーラックのアップグレードパスになる。",
     },
     links: [
@@ -12491,7 +12491,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "CAP Barbell Deluxe Power Rack FM-CS8000F", ja: "CAPバーベル デラックス パワーラック FM-CS8000F" },
     description: {
-      en: "~¥30,000-¥50,000. CAP Barbell's entry-level power rack — 2x2-inch 14-gauge steel, 500 lb weight capacity, J-hooks and safety spotter bars included. At this price point the rack does what it promises: it keeps you from getting crushed while you squat and bench alone. The 14-gauge steel and 2x2-inch uprights flex slightly under heavy loads (above 150 kg), and the hole spacing is 2-inch throughout with no Westside pattern. Accessories are limited compared to premium brands. Honest entry point for someone setting up their first home gym on a strict budget who plans to squat 100-130 kg maximum.",
+      en: "CAP Barbell's entry-level power rack — 2x2-inch 14-gauge steel, 500 lb weight capacity, J-hooks and safety spotter bars included. At this price point the rack does what it promises: it keeps you from getting crushed while you squat and bench alone. The 14-gauge steel and 2x2-inch uprights flex slightly under heavy loads (above 150 kg), and the hole spacing is 2-inch throughout with no Westside pattern. Accessories are limited compared to premium brands. Honest entry point for someone setting up their first home gym on a strict budget who plans to squat 100-130 kg maximum.",
       ja: "約3〜5万円。CAPバーベルのエントリーレベル パワーラック — 2x2インチ14ゲージスチール、耐荷重227kg、Jフックとセーフティスポッターバー付属。この価格帯で約束通りの仕事をする：ソロスクワット・ベンチでの潰れ防止。14ゲージスチールと2x2インチアップライトは高負荷（150kg超）でわずかにたわみ、ホール間隔は全長50mmでウエストサイドパターンなし。アクセサリーはプレミアムブランドより限定的。最大100〜130kgのスクワットを想定する厳格な予算で初めてのホームジムを立ち上げる人への正直なエントリーポイント。",
     },
     links: [
@@ -12507,7 +12507,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "fitness",
     name: { en: "Fitness Reality 810XLT Power Cage", ja: "フィットネスリアリティ 810XLT パワーケージ" },
     description: {
-      en: "~¥35,000-¥55,000. Fitness Reality's mid-entry power cage — 2x2-inch 12-gauge steel uprights (heavier gauge than CAP), 800 lb rated capacity, pull-up bar built into the top, and a cable pulley system included as standard. The included pulley attachment makes this the most feature-rich option at this price tier, allowing lat pulldowns and cable rows without a separate attachment purchase. Hole spacing is 2 inches throughout. The cable system is functional but the pulley quality means it develops a slight creak after 6-12 months of heavy cable use. Good value for lifters who want a pull-up bar and cable work in a compact, budget-friendly setup.",
+      en: "Fitness Reality's mid-entry power cage — 2x2-inch 12-gauge steel uprights (heavier gauge than CAP), 800 lb rated capacity, pull-up bar built into the top, and a cable pulley system included as standard. The included pulley attachment makes this the most feature-rich option at this price tier, allowing lat pulldowns and cable rows without a separate attachment purchase. Hole spacing is 2 inches throughout. The cable system is functional but the pulley quality means it develops a slight creak after 6-12 months of heavy cable use. Good value for lifters who want a pull-up bar and cable work in a compact, budget-friendly setup.",
       ja: "約3.5〜5.5万円。フィットネスリアリティのミドルエントリー パワーケージ — 2x2インチ12ゲージスチールアップライト（CAPより重いゲージ）、耐荷重360kg、上部にプルアップバー内蔵、ケーブルプーリーシステム標準付属。付属プーリーアタッチメントで別途購入なしにラットプルダウンとケーブルローが可能でこの価格帯で最も機能豊富。ホール間隔は全長50mm。ケーブルシステムは機能的だがプーリー品質のため激しいケーブル使用6〜12ヶ月後に軽いきしみが発生。プルアップバーとケーブルワークをコンパクトで予算に優しいセットアップに求めるリフターへの良いバリュー。",
     },
     links: [
@@ -12525,8 +12525,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "food",
     name: { en: "Instant Pot Duo 7-in-1 Electric Pressure Cooker 6qt", ja: "インスタントポット Duo 7-in-1 電気圧力鍋 6クォート" },
     description: {
-      en: "~¥8,000-¥12,000. 6-quart 7-in-1 multicooker: pressure cook, slow cook, rice cooker, steamer, sauté, yogurt maker, warmer. The best-selling multicooker worldwide with proven reliability across millions of households. Standard sealing ring fits all 6qt Instant Pot models.",
-      ja: "約8,000〜12,000円。6クォート7-in-1マルチクッカー：圧力調理・スロークック・炊飯・蒸し・炒め・ヨーグルト・保温。世界累計販売台数トップのマルチクッカー。シールリングは全6クォートInstant Pot共通。",
+      en: "6-quart 7-in-1 multicooker: pressure cook, slow cook, rice cooker, steamer, sauté, yogurt maker, warmer. The best-selling multicooker worldwide with proven reliability across millions of households. Standard sealing ring fits all 6qt Instant Pot models.",
+      ja: "6クォート7-in-1マルチクッカー：圧力調理・スロークック・炊飯・蒸し・炒め・ヨーグルト・保温。世界累計販売台数トップのマルチクッカー。シールリングは全6クォートInstant Pot共通。",
     },
     links: [
       { network: "amazon-us", productId: "B00FLYWNYQ", rawUrl: "https://www.amazon.com/dp/B00FLYWNYQ", markets: ["US"], approved: true },
@@ -12541,8 +12541,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "food",
     name: { en: "Instant Pot Pro 10-in-1 Pressure Cooker 6qt", ja: "インスタントポット Pro 10-in-1 電気圧力鍋 6クォート" },
     description: {
-      en: "~¥15,000-¥20,000. 6-quart 10-in-1 multicooker adding sous vide, sterilization, and a higher-temperature sauté over the Duo. Turn-dial pressure release for controlled steam venting on starchy dishes. The upgrade for households that sear before braising or cook proteins to precise temperatures.",
-      ja: "約15,000〜20,000円。6クォート10-in-1マルチクッカー。Duoにスービー・滅菌・高温ソテーを追加。ダイヤル式放圧でデンプン料理の泡立ち防止。煮込み前の焼きや精密温度調理を重視する家庭向けのアップグレード。",
+      en: "6-quart 10-in-1 multicooker adding sous vide, sterilization, and a higher-temperature sauté over the Duo. Turn-dial pressure release for controlled steam venting on starchy dishes. The upgrade for households that sear before braising or cook proteins to precise temperatures.",
+      ja: "6クォート10-in-1マルチクッカー。Duoにスービー・滅菌・高温ソテーを追加。ダイヤル式放圧でデンプン料理の泡立ち防止。煮込み前の焼きや精密温度調理を重視する家庭向けのアップグレード。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-instant-pot-pro-10in1-6qt", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BPro%2B10-in-1%2F", markets: ["JP"], approved: true },
@@ -12556,8 +12556,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "food",
     name: { en: "Ninja FD401 Foodi 8-Quart 9-in-1 Deluxe XL", ja: "Ninja FD401 Foodi 8クォート 9-in-1 デラックス XL" },
     description: {
-      en: "~¥25,000-¥35,000. 8-quart 9-in-1 pressure cooker and air fryer with TenderCrisp technology: pressure cook first to tenderize, then switch to the crisping lid for a genuine air-fried finish. Larger capacity and higher airflow than comparable Instant Pot air fryer models. Best choice when air crisping is a genuine requirement.",
-      ja: "約25,000〜35,000円。8クォート9-in-1圧力調理＋エアフライヤー。TenderCrispテクノロジーで圧力調理→クリスピーの2段仕上げ。インスタントポット系エアフライモデルより容量大・風量大。エアフライを本格的に使いたい場合の最右翼。",
+      en: "8-quart 9-in-1 pressure cooker and air fryer with TenderCrisp technology: pressure cook first to tenderize, then switch to the crisping lid for a genuine air-fried finish. Larger capacity and higher airflow than comparable Instant Pot air fryer models. Best choice when air crisping is a genuine requirement.",
+      ja: "8クォート9-in-1圧力調理＋エアフライヤー。TenderCrispテクノロジーで圧力調理→クリスピーの2段仕上げ。インスタントポット系エアフライモデルより容量大・風量大。エアフライを本格的に使いたい場合の最右翼。",
     },
     links: [
       { network: "amazon-us", productId: "B07QM4NMCK", rawUrl: "https://www.amazon.com/dp/B07QM4NMCK", markets: ["US"], approved: true },
@@ -12572,8 +12572,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "food",
     name: { en: "COSORI 6Qt Electric Pressure Cooker 9-in-1", ja: "COSORI 6クォート電気圧力鍋 9-in-1" },
     description: {
-      en: "~¥7,000-¥10,000. 6-quart 9-in-1 multicooker with app connectivity and a large guided recipe library that downloads cooking programs directly to the device. Comparable pressure cooking performance to the Instant Pot Duo at a 20-30% lower price point. Good first multicooker for households that want guided recipes.",
-      ja: "約7,000〜10,000円。6クォート9-in-1マルチクッカー。アプリ連携で調理プログラムを直接デバイスにダウンロードできるガイドレシピが充実。基本的な圧力調理性能はInstant Pot Duoに近く、価格は20〜30%安い。ガイドレシピで始めたい初心者向け。",
+      en: "6-quart 9-in-1 multicooker with app connectivity and a large guided recipe library that downloads cooking programs directly to the device. Comparable pressure cooking performance to the Instant Pot Duo at a lower price point. Good first multicooker for households that want guided recipes.",
+      ja: "6クォート9-in-1マルチクッカー。アプリ連携で調理プログラムを直接デバイスにダウンロードできるガイドレシピが充実。基本的な圧力調理性能はInstant Pot Duoに近く、価格は20〜30%安い。ガイドレシピで始めたい初心者向け。",
     },
     links: [
       { network: "amazon-us", productId: "B08JBLBKLH", rawUrl: "https://www.amazon.com/dp/B08JBLBKLH", markets: ["US"], approved: true },
@@ -12588,8 +12588,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     category: "food",
     name: { en: "Instant Pot Duo Crisp 11-in-1 Air Fryer", ja: "インスタントポット Duo Crisp 11-in-1 エアフライヤー" },
     description: {
-      en: "~¥18,000-¥25,000. Instant Pot Duo with an added air frying lid — 11-in-1 functions including pressure cook, air fry, broil, bake, roast, and dehydrate. Stays within the Instant Pot ecosystem and accessory compatibility. The right choice if you want both capabilities without switching to Ninja.",
-      ja: "約18,000〜25,000円。Duoにエアフライリッドを追加した11-in-1マルチクッカー。圧力調理・エアフライ・グリル・ベイク・ロースト・乾燥など11機能。インスタントポットのエコシステム・アクセサリと互換性を保ちながら両機能を実現。Ninja乗り換えなしで両機能を使いたい場合の選択肢。",
+      en: "Instant Pot Duo with an added air frying lid — 11-in-1 functions including pressure cook, air fry, broil, bake, roast, and dehydrate. Stays within the Instant Pot ecosystem and accessory compatibility. The right choice if you want both capabilities without switching to Ninja.",
+      ja: "Duoにエアフライリッドを追加した11-in-1マルチクッカー。圧力調理・エアフライ・グリル・ベイク・ロースト・乾燥など11機能。インスタントポットのエコシステム・アクセサリと互換性を保ちながら両機能を実現。Ninja乗り換えなしで両機能を使いたい場合の選択肢。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-instant-pot-duo-crisp-air-fryer", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FInstant%2BPot%2BDuo%2BCrisp%2B%E3%82%A8%E3%82%A2%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -12619,8 +12619,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "budget-pick",
     name: { en: "Hamilton Beach 26031 Belgian Waffle Maker", ja: "ハミルトンビーチ 26031 ベルギーワッフルメーカー" },
     description: {
-      en: "Single round Belgian waffle maker under $30. Nonstick grids, adjustable temperature dial, and a flip design that ensures even batter distribution. Compact footprint stores upright. The entry point for households that want Belgian-style depth without spending on a Cuisinart or Breville.",
-      ja: "3,000円台のシングルラウンドベルギーワッフルメーカー。ノンスティックグリッド・温度調節ダイヤル・フリップ設計で均一なバター分布を実現。コンパクトで縦置き収納可能。クイジナートやBrevilleを買わずにベルギースタイルを始めたい家庭向けエントリーモデル。",
+      en: "Single round Belgian waffle maker. Nonstick grids, adjustable temperature dial, and a flip design that ensures even batter distribution. Compact footprint stores upright. The entry point for households that want Belgian-style depth without spending on a Cuisinart or Breville.",
+      ja: "シングルラウンドベルギーワッフルメーカー。ノンスティックグリッド・温度調節ダイヤル・フリップ設計で均一なバター分布を実現。コンパクトで縦置き収納可能。クイジナートやBrevilleを買わずにベルギースタイルを始めたい家庭向けエントリーモデル。",
     },
     price: "$82.99",
     links: [
@@ -12650,8 +12650,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "mini-pick",
     name: { en: "Dash Mini Waffle Maker", ja: "Dash ミニワッフルメーカー" },
     description: {
-      en: "4-inch single waffle maker at under $15. Heats in under 2 minutes, 350W draw, no settings to fumble with — just plug in and pour. Makes 4-inch round waffles suitable for a single serving. Hugely popular in dorm rooms and small apartments. Not for large households; the single-waffle output makes batch cooking impractical.",
-      ja: "1,500円台の直径10cmミニワッフルメーカー。2分以内で加熱完了・350W・設定不要でコンセントを差して生地を注ぐだけ。直径10cmの1枚焼きで1人分に最適。ひとり暮らし・寮・ミニキッチン向けに大人気。大人数のバッチ調理には不向き。",
+      en: "4-inch single waffle maker. Heats in under 2 minutes, 350W draw, no settings to fumble with — just plug in and pour. Makes 4-inch round waffles suitable for a single serving. Hugely popular in dorm rooms and small apartments. Not for large households; the single-waffle output makes batch cooking impractical.",
+      ja: "直径10cmのミニワッフルメーカー。2分以内で加熱完了・350W・設定不要でコンセントを差して生地を注ぐだけ。直径10cmの1枚焼きで1人分に最適。ひとり暮らし・寮・ミニキッチン向けに大人気。大人数のバッチ調理には不向き。",
     },
     price: "$9.99",
     links: [
@@ -12776,7 +12776,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "top-pick",
     name: { en: "Sole Fitness E35 Elliptical Machine", ja: "Sole Fitness E35 エリプティカルマシン" },
     description: {
-      en: "58 cm stride — the longest in its price range — and a 13.6 kg flywheel produce the smoothest rear-drive elliptical motion available under $1,500. 20-position manual incline ramp, 20 resistance levels, power handlebars, and Bluetooth connectivity. No subscription required; best long-term value for users 170 cm and taller who train consistently without guided content.",
+      en: "58 cm stride — the longest in its price range — and a 13.6 kg flywheel produce exceptionally smooth rear-drive elliptical motion. 20-position manual incline ramp, 20 resistance levels, power handlebars, and Bluetooth connectivity. No subscription required; best long-term value for users 170 cm and taller who train consistently without guided content.",
       ja: "58cmストライド——この価格帯で最長——と13.6kgフライホイールが1,500ドル以下で最も滑らかな後輪駆動エリプティカルモーションを提供。20段階手動傾斜ランプ、20段階負荷、パワーハンドルバー、Bluetooth接続対応。サブスクリプション不要、ガイドコンテンツなしで継続トレーニングする170cm以上のユーザーに最高の長期コストパフォーマンス。",
     },
     links: [
@@ -13228,7 +13228,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "budget-pick",
     name: { en: "Secura 9100MC 1800W Portable Induction Cooktop", ja: "Secura 9100MC 1800W ポータブルIHクッキングヒーター" },
     description: {
-      en: "Functionally equivalent to the Duxtop 9100MC — same 19 power levels and temperature steps, same 1800W maximum, same physical button layout. Typically priced $5-15 less than the Duxtop. Two-year US warranty from Secura's US distributor. Buy whichever of the Secura or Duxtop is in stock at the better price on the day you're purchasing.",
+      en: "Functionally equivalent to the Duxtop 9100MC — same 19 power levels and temperature steps, same 1800W maximum, same physical button layout. Typically priced slightly below the Duxtop. Two-year US warranty from Secura's US distributor. Buy whichever of the Secura or Duxtop is in stock at the better price on the day you're purchasing.",
       ja: "Duxtop 9100MCと機能的に同等——同じ19段階出力・温度ステップ、同じ最大1800W、同じ物理ボタンレイアウト。通常Duxtopより5〜15ドル安い。Secura米国販売店からの2年保証付き。SecuraとDuxtopのどちらがその日安く在庫があるかで選べばよい。",
     },
     links: [
@@ -13306,8 +13306,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "budget-pick",
     name: { en: "Taylor Precision Products 9842 Digital Thermometer", ja: "Taylor Precision Products 9842 デジタル温度計" },
     description: {
-      en: "Four-to-five second read time accurate to ±2°F from 32°F to 392°F. Straightforward digital display with a foldable probe. Covers the essential use cases — checking chicken, roasts, and frying oil — at under $20. The entry point for households that cook protein infrequently and want a functional thermometer without spending on premium features.",
-      ja: "32°F〜392°Fで4〜5秒読み取り・±2°F精度。シンプルなデジタル表示と折り畳みプローブ。鶏肉・ローストビーフ・揚げ油の温度確認という基本用途を2,000円台でカバー。タンパク質を頻繁に調理しないが実用的な温度計が欲しいユーザー向けのエントリーポイント。",
+      en: "Four-to-five second read time accurate to ±2°F from 32°F to 392°F. Straightforward digital display with a foldable probe. Covers the essential use cases — checking chicken, roasts, and frying oil —. The entry point for households that cook protein infrequently and want a functional thermometer without spending on premium features.",
+      ja: "32°F〜392°Fで4〜5秒読み取り・±2°F精度。シンプルなデジタル表示と折り畳みプローブ。鶏肉・ローストビーフ・揚げ油の温度確認という基本用途をカバー。タンパク質を頻繁に調理しないが実用的な温度計が欲しいユーザー向けのエントリーポイント。",
     },
     price: "$14.99",
     links: [
@@ -13565,8 +13565,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍕",
     name: { en: "Unicook Heavy Duty Cordierite Pizza Stone", ja: "Unicook コーディエライト製ピザストーン" },
     description: {
-      en: "~$30-35. 15×12-inch cordierite ceramic baking stone, 6.6 lb (3 kg), oven-safe to 1450°F (788°C), works on grill and in oven. Porous surface draws moisture from dough for a crisp bottom crust. Cordierite resists thermal shock better than standard ceramics. Weakness: heavy for its size; requires 30-45 minute preheat at full oven temperature; must never be washed with soap.",
-      ja: "約4,000〜5,000円。38×30cmコーディエライトセラミックベーキングストーン、約3kg、788°Cまで対応、グリルとオーブン両用。多孔質面が生地の水分を吸い取りクリスピーな底面クラストを実現。コーディエライトは一般セラミックより熱衝撃に強い。弱点：サイズ割に重い；フル温度で30〜45分の予熱が必要；石鹸で洗ってはいけない。",
+      en: "15×12-inch cordierite ceramic baking stone, 6.6 lb (3 kg), oven-safe to 1450°F (788°C), works on grill and in oven. Porous surface draws moisture from dough for a crisp bottom crust. Cordierite resists thermal shock better than standard ceramics. Weakness: heavy for its size; requires 30-45 minute preheat at full oven temperature; must never be washed with soap.",
+      ja: "38×30cmコーディエライトセラミックベーキングストーン、約3kg、788°Cまで対応、グリルとオーブン両用。多孔質面が生地の水分を吸い取りクリスピーな底面クラストを実現。コーディエライトは一般セラミックより熱衝撃に強い。弱点：サイズ割に重い；フル温度で30〜45分の予熱が必要；石鹸で洗ってはいけない。",
     },
     links: [
       { network: "amazon-us", productId: "B07GK7XDNM", rawUrl: "https://www.amazon.com/dp/B07GK7XDNM", markets: ["US"], approved: true },
@@ -13581,8 +13581,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔴",
     name: { en: "Emile Henry Made in France Pizza Stone", ja: "エミール・アンリ フランス製ピザストーン" },
     description: {
-      en: "~$60-75. French Burgundy clay ceramic, 14.5-inch round, 4.6 lb (2.1 kg), oven and grill safe to 750°F (400°C). HR Ceramic formula resists thermal shock, dishwasher-safe (unique in this category), elegant enough to serve at the table. Weakness: highest price; not for grill temperatures above 400°C; glazed surface provides slightly less moisture-wicking than raw cordierite.",
-      ja: "約8,000〜10,000円。フランス・ブルゴーニュ産クレイセラミック、直径37cm丸形、約2.1kg、400°Cオーブン・グリル対応。HR Ceramicで熱衝撃に強く、食洗機対応（このカテゴリでは稀有）、テーブルサービスも映える。弱点：最高価格；400°C超のグリル温度には不向き；釉薬面は生コーディエライトより水分吸収がやや劣る。",
+      en: "French Burgundy clay ceramic, 14.5-inch round, 4.6 lb (2.1 kg), oven and grill safe to 750°F (400°C). HR Ceramic formula resists thermal shock, dishwasher-safe (unique in this category), elegant enough to serve at the table. Weakness: highest price; not for grill temperatures above 400°C; glazed surface provides slightly less moisture-wicking than raw cordierite.",
+      ja: "フランス・ブルゴーニュ産クレイセラミック、直径37cm丸形、約2.1kg、400°Cオーブン・グリル対応。HR Ceramicで熱衝撃に強く、食洗機対応（このカテゴリでは稀有）、テーブルサービスも映える。弱点：最高価格；400°C超のグリル温度には不向き；釉薬面は生コーディエライトより水分吸収がやや劣る。",
     },
     links: [
       { network: "amazon-us", productId: "B00CNFR3PG", rawUrl: "https://www.amazon.com/dp/B00CNFR3PG", markets: ["US"], approved: true },
@@ -13597,8 +13597,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⚡",
     name: { en: "Baking Steel Original (1/4 inch)", ja: "Baking Steel オリジナル（6mm厚）" },
     description: {
-      en: "~$100-120. 16×14-inch solid steel plate, 1/4 inch (6 mm) thick, 15 lb (6.8 kg), oven-safe at any temperature, doubles as a stovetop griddle and flat-top surface. Steel's 18× higher thermal conductivity than ceramic delivers faster browning and true Neapolitan-style char. Weakness: extremely heavy; requires seasoning like cast iron; expensive; full oven temperature means longer preheat than most people expect (45-60 min).",
-      ja: "約13,000〜16,000円。40×35cm無垢スチールプレート、厚さ6mm、約6.8kg、あらゆる温度のオーブン対応、ストーブトップグリドルとしても使用可。セラミックの18倍の熱伝導率で素早い焦げ目と本格的ナポリスタイルチャーを実現。弱点：非常に重い；鋳鉄と同様のシーズニングが必要；高価；フル予熱に45〜60分必要。",
+      en: "16×14-inch solid steel plate, 1/4 inch (6 mm) thick, 15 lb (6.8 kg), oven-safe at any temperature, doubles as a stovetop griddle and flat-top surface. Steel's 18× higher thermal conductivity than ceramic delivers faster browning and true Neapolitan-style char. Weakness: extremely heavy; requires seasoning like cast iron; expensive; full oven temperature means longer preheat than most people expect (45-60 min).",
+      ja: "40×35cm無垢スチールプレート、厚さ6mm、約6.8kg、あらゆる温度のオーブン対応、ストーブトップグリドルとしても使用可。セラミックの18倍の熱伝導率で素早い焦げ目と本格的ナポリスタイルチャーを実現。弱点：非常に重い；鋳鉄と同様のシーズニングが必要；高価；フル予熱に45〜60分必要。",
     },
     links: [
       { network: "amazon-us", productId: "B00JLSRWCA", rawUrl: "https://www.amazon.com/dp/B00JLSRWCA", markets: ["US"], approved: true },
@@ -13613,8 +13613,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍖",
     name: { en: "Lodge Pre-Seasoned 14\" Cast Iron Pizza Pan", ja: "Lodge 14インチ シーズニング済み鋳鉄ピザパン" },
     description: {
-      en: "~$40-50. 14-inch round cast iron pizza pan, 6.5 lb (2.95 kg), pre-seasoned, oven-safe to 500°F (260°C), induction compatible. Higher thermal mass than thin cordierite stones; ridge pattern on the cooking surface promotes air circulation. Weakness: cast iron heats more slowly than steel and less evenly than stone across the full surface; requires same care as cast iron skillet.",
-      ja: "約5,500〜7,000円。直径35cmラウンド鋳鉄ピザパン、約2.95kg、シーズニング済み、260°Cオーブン対応、IH対応。薄いコーディエライトストーンより熱容量が大きい；調理面のリッジパターンが空気循環を促進。弱点：スチールより加熱が遅く、ストーン全面と比べると加熱均一性で劣る；スキレットと同じケアが必要。",
+      en: "14-inch round cast iron pizza pan, 6.5 lb (2.95 kg), pre-seasoned, oven-safe to 500°F (260°C), induction compatible. Higher thermal mass than thin cordierite stones; ridge pattern on the cooking surface promotes air circulation. Weakness: cast iron heats more slowly than steel and less evenly than stone across the full surface; requires same care as cast iron skillet.",
+      ja: "直径35cmラウンド鋳鉄ピザパン、約2.95kg、シーズニング済み、260°Cオーブン対応、IH対応。薄いコーディエライトストーンより熱容量が大きい；調理面のリッジパターンが空気循環を促進。弱点：スチールより加熱が遅く、ストーン全面と比べると加熱均一性で劣る；スキレットと同じケアが必要。",
     },
     links: [
       { network: "amazon-us", productId: "B0000CF6IO", rawUrl: "https://www.amazon.com/dp/B0000CF6IO", markets: ["US"], approved: true },
@@ -13629,8 +13629,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📐",
     name: { en: "Hans Grill Pizza Stone Rectangular", ja: "Hans Grill 長方形ピザストーン" },
     description: {
-      en: "~$30-40. 15×12-inch rectangular cordierite stone, 5.5 lb (2.5 kg), oven and BBQ grill compatible, includes a plastic handled pizza peel. Good entry-level value: peel + stone bundle at low price. Weakness: peel is plastic and lightweight — not suitable for heavy or large pies; cordierite quality matches Unicook but the bundle pricing is the main differentiator.",
-      ja: "約4,000〜5,500円。38×30cm長方形コーディエライトストーン、約2.5kg、オーブン・BBQグリル対応、プラスチックハンドルのピザピール付属。低価格でピール＋ストーンセットが揃うエントリー向けの高コスパ。弱点：付属ピールはプラスチック製で軽量——重い大型ピザには不向き；コーディエライト品質はUnicookと同等で、セット価格が主な差別化要因。",
+      en: "15×12-inch rectangular cordierite stone, 5.5 lb (2.5 kg), oven and BBQ grill compatible, includes a plastic handled pizza peel. Good entry-level value: peel + stone bundle at low price. Weakness: peel is plastic and lightweight — not suitable for heavy or large pies; cordierite quality matches Unicook but the bundle pricing is the main differentiator.",
+      ja: "38×30cm長方形コーディエライトストーン、約2.5kg、オーブン・BBQグリル対応、プラスチックハンドルのピザピール付属。低価格でピール＋ストーンセットが揃うエントリー向けの高コスパ。弱点：付属ピールはプラスチック製で軽量——重い大型ピザには不向き；コーディエライト品質はUnicookと同等で、セット価格が主な差別化要因。",
     },
     links: [
       { network: "amazon-us", productId: "B01GPYTS74", rawUrl: "https://www.amazon.com/dp/B01GPYTS74", markets: ["US"], approved: true },
@@ -13727,8 +13727,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏆",
     name: { en: "Fissler Vitaquick 6.3 Qt Pressure Cooker", ja: "フィスラー ビタクイック 6.3 Qt 圧力鍋" },
     description: {
-      en: "~$180-220. German-made 18/10 stainless steel, triple-layer impact-bonded base, silicone gasket, dual-pressure indicator (low/high ring), induction compatible. Fastest to reach operating pressure in class; bayonet lid lock; quieter than weight-valve models. Weakness: expensive; lid mechanism takes brief practice; heavier than lightweight options.",
-      ja: "約18,000〜22,000円。ドイツ製18/10ステンレス、三層圧着ベース、シリコンガスケット、デュアル圧力インジケーター（低圧/高圧リング）、IH対応。クラス最速の加圧到達；バヨネットふたロック；ウェイトバルブ式より静か。弱点：高価；ふた機構に慣れが必要；軽量モデルより重い。",
+      en: "German-made 18/10 stainless steel, triple-layer impact-bonded base, silicone gasket, dual-pressure indicator (low/high ring), induction compatible. Fastest to reach operating pressure in class; bayonet lid lock; quieter than weight-valve models. Weakness: expensive; lid mechanism takes brief practice; heavier than lightweight options.",
+      ja: "ドイツ製18/10ステンレス、三層圧着ベース、シリコンガスケット、デュアル圧力インジケーター（低圧/高圧リング）、IH対応。クラス最速の加圧到達；バヨネットふたロック；ウェイトバルブ式より静か。弱点：高価；ふた機構に慣れが必要；軽量モデルより重い。",
     },
     links: [
       { network: "amazon-us", productId: "B00KYGBV14", rawUrl: "https://www.amazon.com/dp/B00KYGBV14", markets: ["US"], approved: true },
@@ -13743,8 +13743,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💰",
     name: { en: "Presto 01370 8-Quart Stainless Steel Pressure Cooker", ja: "プレスト 8クォート ステンレス圧力鍋" },
     description: {
-      en: "~$35-45. American-made aluminum-core stainless-interior construction, 8 Qt capacity, rocking-weight pressure indicator, single 15 PSI setting, USDA-approved for pressure canning. Decades-long production run; widest replacement parts availability. Weakness: no low-pressure option; aluminum exterior (not induction compatible); heavier when full.",
-      ja: "約3,500〜4,500円。アメリカ製アルミコア・ステンレス内層、8クォート容量、揺動ウェイト圧力インジケーター、単一15 PSI設定、USDA認定缶詰加工対応。長年の生産実績；最も豊富な交換部品。弱点：低圧設定なし；アルミ外層（IH非対応）；満杯時に重い。",
+      en: "American-made aluminum-core stainless-interior construction, 8 Qt capacity, rocking-weight pressure indicator, single 15 PSI setting, USDA-approved for pressure canning. Decades-long production run; widest replacement parts availability. Weakness: no low-pressure option; aluminum exterior (not induction compatible); heavier when full.",
+      ja: "アメリカ製アルミコア・ステンレス内層、8クォート容量、揺動ウェイト圧力インジケーター、単一15 PSI設定、USDA認定缶詰加工対応。長年の生産実績；最も豊富な交換部品。弱点：低圧設定なし；アルミ外層（IH非対応）；満杯時に重い。",
     },
     links: [
       { network: "amazon-us", productId: "B0000CF5LZ", rawUrl: "https://www.amazon.com/dp/B0000CF5LZ", markets: ["US"], approved: true },
@@ -13759,8 +13759,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "👍",
     name: { en: "T-fal Clipso Stainless Steel Pressure Cooker 6.3 Qt", ja: "ティファール クリプソ ステンレス圧力鍋 6.3 Qt" },
     description: {
-      en: "~$60-80. Single-hand lid lock via central button, pop-up pressure indicator, 6.3 Qt, 15 PSI, stainless-aluminum-stainless base. Easiest lid mechanism in class — one push to lock, one push to unlock. Gas, electric, ceramic stovetop only (not induction). Weakness: not induction compatible; single pressure setting; slightly heavier lid.",
-      ja: "約6,000〜8,000円。中央ボタン片手操作ふたロック、ポップアップ圧力インジケーター、6.3 Qt、15 PSI、ステンレス-アルミ-ステンレスベース。クラス最も簡単なふた機構。ガス・電気・セラミックコンロ対応（IH非対応）。弱点：IH非対応；単一圧力設定；ふたがやや重い。",
+      en: "Single-hand lid lock via central button, pop-up pressure indicator, 6.3 Qt, 15 PSI, stainless-aluminum-stainless base. Easiest lid mechanism in class — one push to lock, one push to unlock. Gas, electric, ceramic stovetop only (not induction). Weakness: not induction compatible; single pressure setting; slightly heavier lid.",
+      ja: "中央ボタン片手操作ふたロック、ポップアップ圧力インジケーター、6.3 Qt、15 PSI、ステンレス-アルミ-ステンレスベース。クラス最も簡単なふた機構。ガス・電気・セラミックコンロ対応（IH非対応）。弱点：IH非対応；単一圧力設定；ふたがやや重い。",
     },
     links: [
       { network: "amazon-us", productId: "B00ZCL3FJU", rawUrl: "https://www.amazon.com/dp/B00ZCL3FJU", markets: ["US"], approved: true },
@@ -13775,8 +13775,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⌚",
     name: { en: "Kuhn Rikon Duromatic Top Pressure Cooker", ja: "クーン・リコン デュロマティック トップ 圧力鍋" },
     description: {
-      en: "~$200-300. Swiss-made sealed spring valve (quietest in class), dual-pressure (8 PSI low / 15 PSI high), fully repairable with manufacturer-sourced parts, designed since 1949. Silicone gasket, all stainless, induction compatible. Weakness: highest price; sealed valve less visually obvious than ring-indicator systems; heavy for its size.",
-      ja: "約20,000〜30,000円。スイス製密封スプリングバルブ（クラス最静音）、デュアル圧力（8 PSI低圧/15 PSI高圧）、メーカー部品で完全修理可能、1949年から設計継続。シリコンガスケット、オールステンレス、IH対応。弱点：最高価格；密封バルブは視覚的確認がリングインジケーターより難しい；サイズ割に重い。",
+      en: "Swiss-made sealed spring valve (quietest in class), dual-pressure (8 PSI low / 15 PSI high), fully repairable with manufacturer-sourced parts, designed since 1949. Silicone gasket, all stainless, induction compatible. Weakness: highest price; sealed valve less visually obvious than ring-indicator systems; heavy for its size.",
+      ja: "スイス製密封スプリングバルブ（クラス最静音）、デュアル圧力（8 PSI低圧/15 PSI高圧）、メーカー部品で完全修理可能、1949年から設計継続。シリコンガスケット、オールステンレス、IH対応。弱点：最高価格；密封バルブは視覚的確認がリングインジケーターより難しい；サイズ割に重い。",
     },
     links: [
       { network: "amazon-us", productId: "B000050CKC", rawUrl: "https://www.amazon.com/dp/B000050CKC", markets: ["US"], approved: true },
@@ -13791,8 +13791,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⚡",
     name: { en: "Magefesa Star Super Fast Pressure Cooker 4.2 Qt", ja: "マゲフェサ スター 超高速圧力鍋 4.2 Qt" },
     description: {
-      en: "~$40-60. Spanish-made 4.2 Qt compact pressure cooker, multi-valve safety system (primary + secondary pressure release + lid lock), fast heat-to-pressure performance. Best for 1-2 person households. Weakness: less common outside Europe; replacement parts harder to source; smaller capacity limits batch cooking.",
-      ja: "約4,000〜6,000円。スペイン製4.2 Qtコンパクト圧力鍋、多バルブ安全システム（プライマリ＋セカンダリ減圧＋ふたロック）、高速加熱性能。1〜2人世帯に最適。弱点：ヨーロッパ外では入手しにくい；交換部品の調達が難しい；容量が小さくまとめ料理に制限がある。",
+      en: "Spanish-made 4.2 Qt compact pressure cooker, multi-valve safety system (primary + secondary pressure release + lid lock), fast heat-to-pressure performance. Best for 1-2 person households. Weakness: less common outside Europe; replacement parts harder to source; smaller capacity limits batch cooking.",
+      ja: "スペイン製4.2 Qtコンパクト圧力鍋、多バルブ安全システム（プライマリ＋セカンダリ減圧＋ふたロック）、高速加熱性能。1〜2人世帯に最適。弱点：ヨーロッパ外では入手しにくい；交換部品の調達が難しい；容量が小さくまとめ料理に制限がある。",
     },
     links: [
       { network: "amazon-us", productId: "B001B2MVWI", rawUrl: "https://www.amazon.com/dp/B001B2MVWI", markets: ["US"], approved: true },
@@ -13809,8 +13809,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏆",
     name: { en: "Sportneer Push Up Board Multi-Functional", ja: "スポートニア プッシュアップボード 多機能" },
     description: {
-      en: "~$25-30. Color-coded multi-position push-up board, plug-in handles with solid slot connection, anti-slip base, includes workout guide. Multiple hand width positions targeting chest/shoulder/triceps. Handles don't wobble in slots. Weakness: board can shift slightly on thick carpet during plyometrics; fixed handles (not rotating).",
-      ja: "約2,500〜3,000円。カラーコード多ポジションプッシュアップボード、プラグイン式ハンドルのしっかりしたスロット接続、滑り止めベース、ワークアウトガイド付き。胸/肩/三頭筋をターゲットにした複数の手幅ポジション。ハンドルはスロット内でぐらつかない。弱点：厚手カーペット上でのプライオメトリクス時にわずかにずれる可能性；回転しない固定ハンドル。",
+      en: "Color-coded multi-position push-up board, plug-in handles with solid slot connection, anti-slip base, includes workout guide. Multiple hand width positions targeting chest/shoulder/triceps. Handles don't wobble in slots. Weakness: board can shift slightly on thick carpet during plyometrics; fixed handles (not rotating).",
+      ja: "カラーコード多ポジションプッシュアップボード、プラグイン式ハンドルのしっかりしたスロット接続、滑り止めベース、ワークアウトガイド付き。胸/肩/三頭筋をターゲットにした複数の手幅ポジション。ハンドルはスロット内でぐらつかない。弱点：厚手カーペット上でのプライオメトリクス時にわずかにずれる可能性；回転しない固定ハンドル。",
     },
     links: [
       { network: "amazon-us", productId: "B07BFPZ5Z3", rawUrl: "https://www.amazon.com/dp/B07BFPZ5Z3", markets: ["US"], approved: true },
@@ -13825,8 +13825,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔄",
     name: { en: "Perfect Pushup Elite Rotating Push Up Handles", ja: "パーフェクトプッシュアップ エリート 回転式ハンドル" },
     description: {
-      en: "~$25-35. Rotating handle design on circular discs — handles spin ~45° through push-up arc, reducing wrist/shoulder joint torque. Best for experienced trainees with wrist or shoulder impingement issues. Weakness: less stable than fixed boards (discs roll freely); not suited for beginners still learning consistent push-up form.",
-      ja: "約2,500〜3,500円。円形ディスク上の回転式ハンドル——プッシュアップ動作中にハンドルが約45度回転し、手首/肩関節のトルクを軽減。手首や肩のインピンジメント問題を持つ経験者に最適。弱点：固定ボードより安定性が低い（ディスクが自由に転がる）；安定したプッシュアップフォームをまだ習得中の初心者には不向き。",
+      en: "Rotating handle design on circular discs — handles spin ~45° through push-up arc, reducing wrist/shoulder joint torque. Best for experienced trainees with wrist or shoulder impingement issues. Weakness: less stable than fixed boards (discs roll freely); not suited for beginners still learning consistent push-up form.",
+      ja: "円形ディスク上の回転式ハンドル——プッシュアップ動作中にハンドルが約45度回転し、手首/肩関節のトルクを軽減。手首や肩のインピンジメント問題を持つ経験者に最適。弱点：固定ボードより安定性が低い（ディスクが自由に転がる）；安定したプッシュアップフォームをまだ習得中の初心者には不向き。",
     },
     links: [
       { network: "amazon-us", productId: "B001EJMS6K", rawUrl: "https://www.amazon.com/dp/B001EJMS6K", markets: ["US"], approved: true },
@@ -13841,8 +13841,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📐",
     name: { en: "HASHTAG FITNESS 36-Position Push Up Board", ja: "HASHTAG FITNESS 36ポジション プッシュアップボード" },
     description: {
-      en: "~$25-35. Wide-format push-up board with 12 color-coded positions and generous hand placement area. Best for users with wide shoulders or long arm spans who feel cramped on narrower boards. Weakness: larger footprint harder to store; build material slightly less robust than Sportneer at same price; can shift on carpet.",
-      ja: "約2,500〜3,500円。12種カラーコードポジションと手のひろい配置スペースを持つ大型プッシュアップボード。狭いボードで窮屈に感じる肩幅の広い人・腕の長い人に最適。弱点：大型で収納が難しい；同価格帯のスポートニアより構造素材が若干弱い；カーペット上でずれる可能性。",
+      en: "Wide-format push-up board with 12 color-coded positions and generous hand placement area. Best for users with wide shoulders or long arm spans who feel cramped on narrower boards. Weakness: larger footprint harder to store; build material slightly less robust than Sportneer at same price; can shift on carpet.",
+      ja: "12種カラーコードポジションと手のひろい配置スペースを持つ大型プッシュアップボード。狭いボードで窮屈に感じる肩幅の広い人・腕の長い人に最適。弱点：大型で収納が難しい；同価格帯のスポートニアより構造素材が若干弱い；カーペット上でずれる可能性。",
     },
     links: [
       { network: "amazon-us", productId: "B07ZMLBT57", rawUrl: "https://www.amazon.com/dp/B07ZMLBT57", markets: ["US"], approved: true },
@@ -13857,8 +13857,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💸",
     name: { en: "Yes4All Push Up Board Multi-Angle", ja: "Yes4All マルチアングル プッシュアップボード" },
     description: {
-      en: "~$15-20. Budget push-up board with color-coded positions and plug-in handle system. Adequate for light use. Handle connection has slightly more play than Sportneer. Good trial purchase before committing to pricier model. Weakness: handle fit less solid; thinner base; not suitable for heavy/plyometric use.",
-      ja: "約1,500〜2,000円。カラーコードポジションとプラグイン式ハンドルシステムのバジェットプッシュアップボード。軽い使用に十分。ハンドル接続はスポートニアよりやや緩い。高価なモデル購入前の試験的購入に最適。弱点：ハンドルの固定がやや甘い；薄いベース；高強度・プライオメトリック使用には不向き。",
+      en: "Budget push-up board with color-coded positions and plug-in handle system. Adequate for light use. Handle connection has slightly more play than Sportneer. Good trial purchase before committing to pricier model. Weakness: handle fit less solid; thinner base; not suitable for heavy/plyometric use.",
+      ja: "カラーコードポジションとプラグイン式ハンドルシステムのバジェットプッシュアップボード。軽い使用に十分。ハンドル接続はスポートニアよりやや緩い。高価なモデル購入前の試験的購入に最適。弱点：ハンドルの固定がやや甘い；薄いベース；高強度・プライオメトリック使用には不向き。",
     },
     links: [
       { network: "amazon-us", productId: "B07P6WGNMZ", rawUrl: "https://www.amazon.com/dp/B07P6WGNMZ", markets: ["US"], approved: true },
@@ -13873,8 +13873,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🎯",
     name: { en: "Limm Push-Up Board with Resistance Bands", ja: "Limm プッシュアップボード レジスタンスバンド付き" },
     description: {
-      en: "~$30-40. Push-up board with included resistance bands (5-15 lb each) that attach to add resistance at top of push-up movement. Meaningful addition for users who find bodyweight push-ups too easy. Weakness: bands are light (not a substitute for heavy loading); slightly more expensive than plain boards; band attachment points add bulk.",
-      ja: "約3,000〜4,000円。プッシュアップ上部動作で5〜15 lb（2〜7 kg）の抵抗を加えるレジスタンスバンド付きプッシュアップボード。自重腕立て伏せが楽すぎるユーザーへの意味ある追加。弱点：バンドは軽量（重い負荷の代替にはならない）；プレーンボードより若干高価；バンド取り付け部分がかさばりを増す。",
+      en: "Push-up board with included resistance bands (5-15 lb each) that attach to add resistance at top of push-up movement. Meaningful addition for users who find bodyweight push-ups too easy. Weakness: bands are light (not a substitute for heavy loading); slightly more expensive than plain boards; band attachment points add bulk.",
+      ja: "プッシュアップ上部動作で5〜15 lb（2〜7 kg）の抵抗を加えるレジスタンスバンド付きプッシュアップボード。自重腕立て伏せが楽すぎるユーザーへの意味ある追加。弱点：バンドは軽量（重い負荷の代替にはならない）；プレーンボードより若干高価；バンド取り付け部分がかさばりを増す。",
     },
     links: [
       { network: "amazon-us", productId: "B07KQTMJNN", rawUrl: "https://www.amazon.com/dp/B07KQTMJNN", markets: ["US"], approved: true },
@@ -13891,8 +13891,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏆",
     name: { en: "Marcato Atlas 150 Pasta Maker", ja: "マルカート アトラス 150 パスタマシン" },
     description: {
-      en: "~$50-80. Italian-made chrome steel manual pasta roller, 150mm width, settings 0-9 (0.6-3mm), includes fettuccine and tagliolini cutters. Widest replacement part availability, most third-party attachment support. Clamp-mount to counter edge required. No soap cleaning — wipe dry only. The benchmark home pasta roller since the 1930s.",
-      ja: "約5,000〜8,000円。イタリア製クロームスチール手動パスタローラー、150mm幅、設定0〜9（0.6〜3mm）、フェットゥッチーネとタリオリーニカッター付属。最も広い交換部品の可用性、最多のサードパーティアタッチメントサポート。カウンターエッジへのクランプ取り付けが必要。石鹸洗い不可——乾拭きのみ。1930年代からの家庭用パスタローラーの基準。",
+      en: "Italian-made chrome steel manual pasta roller, 150mm width, settings 0-9 (0.6-3mm), includes fettuccine and tagliolini cutters. Widest replacement part availability, most third-party attachment support. Clamp-mount to counter edge required. No soap cleaning — wipe dry only. The benchmark home pasta roller since the 1930s.",
+      ja: "イタリア製クロームスチール手動パスタローラー、150mm幅、設定0〜9（0.6〜3mm）、フェットゥッチーネとタリオリーニカッター付属。最も広い交換部品の可用性、最多のサードパーティアタッチメントサポート。カウンターエッジへのクランプ取り付けが必要。石鹸洗い不可——乾拭きのみ。1930年代からの家庭用パスタローラーの基準。",
     },
     links: [
       { network: "amazon-us", productId: "B00008CM67", rawUrl: "https://www.amazon.com/dp/B00008CM67", markets: ["US"], approved: true },
@@ -13907,8 +13907,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍝",
     name: { en: "Imperia Pasta Machine Double Cutter", ja: "インペリア パスタマシン ダブルカッター" },
     description: {
-      en: "~$60-90. Italian manual pasta roller, includes both fettuccine (5mm) and spaghetti (2mm) cutters as standard — more value than Atlas which requires separate cutter purchase. Chrome steel construction. Slightly heavier than Atlas; roller action at thinnest settings requires slightly more crank pressure.",
-      ja: "約6,000〜9,000円。イタリア製手動パスタローラー、フェットゥッチーネ（5mm）とスパゲッティ（2mm）の両カッターが標準付属——別途カッター購入が必要なアトラスより価値がある。クロームスチール構造。アトラスよりわずかに重い；最も薄い設定でのローラー動作にはわずかに多い回しの力が必要。",
+      en: "Italian manual pasta roller, includes both fettuccine (5mm) and spaghetti (2mm) cutters as standard — more value than Atlas which requires separate cutter purchase. Chrome steel construction. Slightly heavier than Atlas; roller action at thinnest settings requires slightly more crank pressure.",
+      ja: "イタリア製手動パスタローラー、フェットゥッチーネ（5mm）とスパゲッティ（2mm）の両カッターが標準付属——別途カッター購入が必要なアトラスより価値がある。クロームスチール構造。アトラスよりわずかに重い；最も薄い設定でのローラー動作にはわずかに多い回しの力が必要。",
     },
     links: [
       { network: "amazon-us", productId: "B000IXTTFA", rawUrl: "https://www.amazon.com/dp/B000IXTTFA", markets: ["US"], approved: true },
@@ -13923,8 +13923,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⚙️",
     name: { en: "KitchenAid Pasta Roller and Cutter Attachment Set", ja: "キッチンエイド パスタローラー＆カッターアタッチメントセット" },
     description: {
-      en: "~$150-200. Stand mixer attachment converting KitchenAid to motor-driven pasta roller — consistent sheet speed vs variable hand-crank. 152mm width, includes roller/fettuccine/spaghetti cutter. Best only if you already own a KitchenAid stand mixer. Cannot use simultaneously with bowl attachments.",
-      ja: "約15,000〜20,000円。キッチンエイドスタンドミキサーをモーター駆動パスタローラーに変えるアタッチメント——可変速手動クランクと比較して安定したシート速度。152mm幅、ローラー/フェットゥッチーネ/スパゲッティカッター付属。すでにキッチンエイドスタンドミキサーを持っている場合のみに最適。ボウルアタッチメントとの同時使用不可。",
+      en: "Stand mixer attachment converting KitchenAid to motor-driven pasta roller — consistent sheet speed vs variable hand-crank. 152mm width, includes roller/fettuccine/spaghetti cutter. Best only if you already own a KitchenAid stand mixer. Cannot use simultaneously with bowl attachments.",
+      ja: "キッチンエイドスタンドミキサーをモーター駆動パスタローラーに変えるアタッチメント——可変速手動クランクと比較して安定したシート速度。152mm幅、ローラー/フェットゥッチーネ/スパゲッティカッター付属。すでにキッチンエイドスタンドミキサーを持っている場合のみに最適。ボウルアタッチメントとの同時使用不可。",
     },
     links: [
       { network: "amazon-us", productId: "B00004RFNB", rawUrl: "https://www.amazon.com/dp/B00004RFNB", markets: ["US"], approved: true },
@@ -13939,8 +13939,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🤖",
     name: { en: "Philips Pasta Maker 7000 Automatic", ja: "フィリップス パスタメーカー 7000 全自動" },
     description: {
-      en: "~$200-300. Automatic extruder — add flour and liquid, press start, fresh pasta in 15 minutes. No technique required. Makes tubular and shaped pasta (spaghetti, fettuccine, penne, lasagna) that rollers cannot. Rougher extruded texture holds sauce better than smooth roller pasta. Weakness: cleanup intensive (disassemble within 30 min); louder than manual rollers.",
-      ja: "約20,000〜30,000円。全自動押し出し機——小麦粉と液体を加え、スタートを押せば15分で生パスタ完成。技術不要。ローラーでは作れない管状・形状パスタ（スパゲッティ、フェットゥッチーネ、ペンネ、ラザニア）を製作。押し出しの粗い食感はソースをより良く保持する。弱点：クリーニングが大変（30分以内に分解する必要がある）；手動ローラーより騒音が大きい。",
+      en: "Automatic extruder — add flour and liquid, press start, fresh pasta in 15 minutes. No technique required. Makes tubular and shaped pasta (spaghetti, fettuccine, penne, lasagna) that rollers cannot. Rougher extruded texture holds sauce better than smooth roller pasta. Weakness: cleanup intensive (disassemble within 30 min); louder than manual rollers.",
+      ja: "全自動押し出し機——小麦粉と液体を加え、スタートを押せば15分で生パスタ完成。技術不要。ローラーでは作れない管状・形状パスタ（スパゲッティ、フェットゥッチーネ、ペンネ、ラザニア）を製作。押し出しの粗い食感はソースをより良く保持する。弱点：クリーニングが大変（30分以内に分解する必要がある）；手動ローラーより騒音が大きい。",
     },
     links: [
       { network: "amazon-us", productId: "B07KGZZMZH", rawUrl: "https://www.amazon.com/dp/B07KGZZMZH", markets: ["US"], approved: true },
@@ -13955,8 +13955,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💸",
     name: { en: "Ronco Pasta Maker Automatic", ja: "ロンコ パスタメーカー 全自動" },
     description: {
-      en: "~$80-120. Budget automatic pasta extruder — fewer die options than Philips, lower construction quality, lower price. Adequate for occasional use. Good entry point for trying automatic pasta making before committing to the Philips investment. Pasta quality and machine durability are below premium options.",
-      ja: "約8,000〜12,000円。バジェット全自動パスタ押し出し機——フィリップスよりダイオプションが少なく、構造品質が低く、価格が低い。時々の使用には十分。フィリップス投資にコミットする前に自動パスタ製作を試すための良いエントリーポイント。パスタ品質とマシン耐久性はプレミアムオプションより低い。",
+      en: "Budget automatic pasta extruder — fewer die options than Philips, lower construction quality, lower price. Adequate for occasional use. Good entry point for trying automatic pasta making before committing to the Philips investment. Pasta quality and machine durability are below premium options.",
+      ja: "バジェット全自動パスタ押し出し機——フィリップスよりダイオプションが少なく、構造品質が低く、価格が低い。時々の使用には十分。フィリップス投資にコミットする前に自動パスタ製作を試すための良いエントリーポイント。パスタ品質とマシン耐久性はプレミアムオプションより低い。",
     },
     links: [
       { network: "amazon-us", productId: "B009WGFXQO", rawUrl: "https://www.amazon.com/dp/B009WGFXQO", markets: ["US"], approved: true },
@@ -13973,8 +13973,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏆",
     name: { en: "Springfree Trampoline Medium Oval", ja: "スプリングフリー トランポリン ミディアムオーバル" },
     description: {
-      en: "~$1,500-2,500. Springless design — flexible composite rods 30cm below mat surface eliminate spring-gap injuries; frame outside jump zone removes edge contact risk. 3.4m × 2.5m oval, 200 kg dynamic load, UV-resistant rods, net attaches to mat (no net-mat gap). Most expensive option; safest design; longest service life.",
-      ja: "約150,000〜250,000円。スプリングレス設計——マット面の30cm下にある柔軟なコンポジットロッドがスプリングすき間怪我を排除；ジャンプゾーン外のフレームが縁接触リスクを排除。3.4m × 2.5mオーバル、200 kg動的負荷、UV耐性ロッド、ネットがマットに取り付けられる（ネットとマットのすき間なし）。最高価格；最も安全な設計；最長の使用寿命。",
+      en: "Springless design — flexible composite rods 30cm below mat surface eliminate spring-gap injuries; frame outside jump zone removes edge contact risk. 3.4m × 2.5m oval, 200 kg dynamic load, UV-resistant rods, net attaches to mat (no net-mat gap). Most expensive option; safest design; longest service life.",
+      ja: "スプリングレス設計——マット面の30cm下にある柔軟なコンポジットロッドがスプリングすき間怪我を排除；ジャンプゾーン外のフレームが縁接触リスクを排除。3.4m × 2.5mオーバル、200 kg動的負荷、UV耐性ロッド、ネットがマットに取り付けられる（ネットとマットのすき間なし）。最高価格；最も安全な設計；最長の使用寿命。",
     },
     links: [
       { network: "amazon-us", productId: "B07BVZP8YW", rawUrl: "https://www.amazon.com/dp/B07BVZP8YW", markets: ["US"], approved: true },
@@ -13989,8 +13989,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⭐",
     name: { en: "Skywalker 15ft Round Trampoline with Safety Enclosure", ja: "スカイウォーカー 15ft ラウンドトランポリン セーフティエンクロージャー付き" },
     description: {
-      en: "~$300-500. 15ft round spring trampoline, 96 springs, enclosure net attached to same poles as padding (reduces net-mat gap), padded spring cover included, 200 lb per jumper limit. The quality mainstream choice for most families. Weakness: standard spring system (spring contact risk compared to Springfree); metal frame rusts without regular inspection.",
-      ja: "約30,000〜50,000円。15ft丸型スプリングトランポリン、96本スプリング、囲いネットをパッドと同じポールに取り付け（ネットとマットのすき間を減少）、パッド入りスプリングカバー付属、ジャンパー1人当たり200 lb制限。ほとんどの家族への質の高いメインストリームの選択。弱点：標準スプリングシステム（スプリングフリーと比較してスプリング接触リスク）；定期点検なしで金属フレームが錆びる。",
+      en: "15ft round spring trampoline, 96 springs, enclosure net attached to same poles as padding (reduces net-mat gap), padded spring cover included, 200 lb per jumper limit. The quality mainstream choice for most families. Weakness: standard spring system (spring contact risk compared to Springfree); metal frame rusts without regular inspection.",
+      ja: "15ft丸型スプリングトランポリン、96本スプリング、囲いネットをパッドと同じポールに取り付け（ネットとマットのすき間を減少）、パッド入りスプリングカバー付属、ジャンパー1人当たり200 lb制限。ほとんどの家族への質の高いメインストリームの選択。弱点：標準スプリングシステム（スプリングフリーと比較してスプリング接触リスク）；定期点検なしで金属フレームが錆びる。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-skywalker-15ft-trampoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC%2B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9D%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
@@ -14004,8 +14004,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Zupapa 15ft Trampoline with Safety Enclosure Net", ja: "ズパパ 15ft トランポリン セーフティエンクロージャーネット付き" },
     description: {
-      en: "~$400-600. 15ft round, 108 springs, galvanized steel frame (rust-resistant even when scratched — meaningful for outdoor longevity in rain/coastal climates), thicker spring padding than standard. More consistent bounce across full mat than lower-spring-count models. Best for durability in harsh-weather climates.",
-      ja: "約40,000〜60,000円。15ft丸型、108本スプリング、亜鉛めっきスチールフレーム（傷がついても錆に強い——雨・沿岸気候での屋外耐久性に意味がある）、標準より厚いスプリングパッド。低スプリング数モデルよりマット全体で一貫したバウンス。過酷な気候での耐久性に最適。",
+      en: "15ft round, 108 springs, galvanized steel frame (rust-resistant even when scratched — meaningful for outdoor longevity in rain/coastal climates), thicker spring padding than standard. More consistent bounce across full mat than lower-spring-count models. Best for durability in harsh-weather climates.",
+      ja: "15ft丸型、108本スプリング、亜鉛めっきスチールフレーム（傷がついても錆に強い——雨・沿岸気候での屋外耐久性に意味がある）、標準より厚いスプリングパッド。低スプリング数モデルよりマット全体で一貫したバウンス。過酷な気候での耐久性に最適。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-zupapa-15ft-trampoline", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BA%E3%83%91%E3%83%91%2B%E3%83%88%E3%83%A9%E3%83%B3%E3%83%9D%E3%83%AA%E3%83%B3%2F", markets: ["JP"], approved: true },
@@ -14019,8 +14019,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "👨‍👩‍👧",
     name: { en: "Jumpking 14ft Round Trampoline with Safety Enclosure", ja: "ジャンプキング 14ft ラウンドトランポリン セーフティエンクロージャー付き" },
     description: {
-      en: "~$250-400. 14ft round spring trampoline with safety enclosure net. Good value for smaller yards or tighter budgets. Standard spring system and padding quality. Adequate for typical family use with regular maintenance. Weakness: no differentiation from Skywalker; smaller jump area than 15ft options.",
-      ja: "約25,000〜40,000円。セーフティエンクロージャーネット付き14ft丸型スプリングトランポリン。小さめの庭や予算を重視する購入者に良いバリュー。標準的なスプリングシステムとパッド品質。定期的なメンテナンスで典型的な家族使用に十分。弱点：スカイウォーカーとの差別化がない；15ftオプションより狭いジャンプ面積。",
+      en: "14ft round spring trampoline with safety enclosure net. Good value for smaller yards or tighter budgets. Standard spring system and padding quality. Adequate for typical family use with regular maintenance. Weakness: no differentiation from Skywalker; smaller jump area than 15ft options.",
+      ja: "セーフティエンクロージャーネット付き14ft丸型スプリングトランポリン。小さめの庭や予算を重視する購入者に良いバリュー。標準的なスプリングシステムとパッド品質。定期的なメンテナンスで典型的な家族使用に十分。弱点：スカイウォーカーとの差別化がない；15ftオプションより狭いジャンプ面積。",
     },
     links: [
       { network: "amazon-us", productId: "B007SWGMDO", rawUrl: "https://www.amazon.com/dp/B007SWGMDO", markets: ["US"], approved: true },
@@ -14035,8 +14035,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏃",
     name: { en: "JumpSport 550f Fitness Trampoline", ja: "ジャンプスポート 550f フィットネストランポリン" },
     description: {
-      en: "~$300-400. 48-inch indoor fitness rebounder, bungee-cord suspension (softer/quieter than springs), fold-flat legs for storage, 250 lb capacity. Designed for adult aerobic conditioning — ~70% of running's knee/hip ground reaction force. Not for outdoor or children's play. Best for adults with joint issues seeking low-impact cardio.",
-      ja: "約30,000〜40,000円。48インチ室内フィットネスリバウンダー、バンジーコード懸架（スプリングより柔らかく静か）、保管用折りたたみ脚、113 kg耐荷重。大人の有酸素コンディショニング向け——ランニングの膝/股関節への地面反力の約70%。屋外または子どもの遊び用ではない。関節の問題を持つ大人で低衝撃有酸素運動を求める方に最適。",
+      en: "48-inch indoor fitness rebounder, bungee-cord suspension (softer/quieter than springs), fold-flat legs for storage, 250 lb capacity. Designed for adult aerobic conditioning — ~70% of running's knee/hip ground reaction force. Not for outdoor or children's play. Best for adults with joint issues seeking low-impact cardio.",
+      ja: "48インチ室内フィットネスリバウンダー、バンジーコード懸架（スプリングより柔らかく静か）、保管用折りたたみ脚、113 kg耐荷重。大人の有酸素コンディショニング向け——ランニングの膝/股関節への地面反力の約70%。屋外または子どもの遊び用ではない。関節の問題を持つ大人で低衝撃有酸素運動を求める方に最適。",
     },
     links: [
       { network: "amazon-us", productId: "B00HKYDQXQ", rawUrl: "https://www.amazon.com/dp/B00HKYDQXQ", markets: ["US"], approved: true },
@@ -14053,8 +14053,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏆",
     name: { en: "Excalibur 9-Tray Food Dehydrator", ja: "エクスカリバー 9トレイ 食品乾燥機" },
     description: {
-      en: "~$200-300. 9 trays (15 sq ft), rear-mounted fan, horizontal airflow, 95-165°F, digital thermostat, below 60 dB, dishwasher-safe trays, 10-year warranty. No tray rotation needed. The benchmark dehydrator for serious home use — large capacity, even drying, quiet operation.",
-      ja: "約20,000〜30,000円。9トレイ（合計1.4平方メートル）、リアマウントファン、水平気流、35〜74°C、デジタルサーモスタット、60 dB以下、食洗機対応トレイ、10年保証。トレイ回転不要。本格的な家庭使用の基準乾燥機——大容量、均一な乾燥、静音動作。",
+      en: "9 trays (15 sq ft), rear-mounted fan, horizontal airflow, 95-165°F, digital thermostat, below 60 dB, dishwasher-safe trays, 10-year warranty. No tray rotation needed. The benchmark dehydrator for serious home use — large capacity, even drying, quiet operation.",
+      ja: "9トレイ（合計1.4平方メートル）、リアマウントファン、水平気流、35〜74°C、デジタルサーモスタット、60 dB以下、食洗機対応トレイ、10年保証。トレイ回転不要。本格的な家庭使用の基準乾燥機——大容量、均一な乾燥、静音動作。",
     },
     links: [
       { network: "amazon-us", productId: "B00004S3ET", rawUrl: "https://www.amazon.com/dp/B00004S3ET", markets: ["US"], approved: true },
@@ -14069,8 +14069,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⭐",
     name: { en: "Cosori Premium Food Dehydrator 6-Tray", ja: "コソリ プレミアム 食品乾燥機 6トレイ" },
     description: {
-      en: "~$100-150. 6 trays, horizontal airflow, 95-165°F, digital display shows set and actual temperature simultaneously, 48-hour timer, transparent door. Best value horizontal-airflow dehydrator for occasional use. Smaller than Excalibur but significantly cheaper.",
-      ja: "約10,000〜15,000円。6トレイ、水平気流、35〜74°C、設定温度と実際温度を同時表示するデジタル表示、48時間タイマー、透明ドア。時々使用する家庭への最高価値の水平気流乾燥機。エクスカリバーより小さいが大幅に安価。",
+      en: "6 trays, horizontal airflow, 95-165°F, digital display shows set and actual temperature simultaneously, 48-hour timer, transparent door. Best value horizontal-airflow dehydrator for occasional use. Smaller than Excalibur but significantly cheaper.",
+      ja: "6トレイ、水平気流、35〜74°C、設定温度と実際温度を同時表示するデジタル表示、48時間タイマー、透明ドア。時々使用する家庭への最高価値の水平気流乾燥機。エクスカリバーより小さいが大幅に安価。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-cosori-food-dehydrator", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%82%BD%E3%83%AA%2B%E9%A3%9F%E5%93%81%E4%B9%BE%E7%87%A5%E6%A9%9F%2F", markets: ["JP"], approved: true },
@@ -14084,8 +14084,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔧",
     name: { en: "Nesco Snackmaster Pro Food Dehydrator", ja: "ネスコ スナックマスタープロ 食品乾燥機" },
     description: {
-      en: "~$60-90. 5 circular trays (expandable to 12), vertical airflow, 95-160°F analog thermostat. Expandable without buying new machine. Requires tray rotation for even drying. Most reviewed dehydrator on Amazon. Weakness: analog controls less precise; tray rotation required.",
-      ja: "約6,000〜9,000円。5枚の円形トレイ（12トレイまで拡張可能）、垂直気流、35〜71°Cアナログサーモスタット。新しいマシンなしに拡張可能。均一な乾燥にトレイ回転が必要。Amazonで最もレビューが多い乾燥機。弱点：アナログコントロールの精度が低い；トレイ回転が必要。",
+      en: "5 circular trays (expandable to 12), vertical airflow, 95-160°F analog thermostat. Expandable without buying new machine. Requires tray rotation for even drying. Most reviewed dehydrator on Amazon. Weakness: analog controls less precise; tray rotation required.",
+      ja: "5枚の円形トレイ（12トレイまで拡張可能）、垂直気流、35〜71°Cアナログサーモスタット。新しいマシンなしに拡張可能。均一な乾燥にトレイ回転が必要。Amazonで最もレビューが多い乾燥機。弱点：アナログコントロールの精度が低い；トレイ回転が必要。",
     },
     links: [
       { network: "amazon-us", productId: "B00CXKOEOA", rawUrl: "https://www.amazon.com/dp/B00CXKOEOA", markets: ["US"], approved: true },
@@ -14100,8 +14100,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💸",
     name: { en: "Presto Dehydro Digital Food Dehydrator", ja: "プレスト デハイドロ デジタル 食品乾燥機" },
     description: {
-      en: "~$60-80. 6 circular trays, vertical airflow, digital thermostat and timer, entry-level price. Requires tray rotation. Good trial purchase for first-time dehydrators. Weakness: vertical airflow means uneven drying; circular trays narrower than rectangular.",
-      ja: "約6,000〜8,000円。6枚の円形トレイ、垂直気流、デジタルサーモスタットとタイマー、エントリーレベル価格。トレイ回転が必要。乾燥初心者への良いお試し購入。弱点：垂直気流は不均一な乾燥を引き起こす；円形トレイは長方形より狭い。",
+      en: "6 circular trays, vertical airflow, digital thermostat and timer, entry-level price. Requires tray rotation. Good trial purchase for first-time dehydrators. Weakness: vertical airflow means uneven drying; circular trays narrower than rectangular.",
+      ja: "6枚の円形トレイ、垂直気流、デジタルサーモスタットとタイマー、エントリーレベル価格。トレイ回転が必要。乾燥初心者への良いお試し購入。弱点：垂直気流は不均一な乾燥を引き起こす；円形トレイは長方形より狭い。",
     },
     links: [
       { network: "amazon-us", productId: "B000P6IJWC", rawUrl: "https://www.amazon.com/dp/B000P6IJWC", markets: ["US"], approved: true },
@@ -14116,8 +14116,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🎯",
     name: { en: "Tribest Sedona Express Food Dehydrator", ja: "トライベスト セドナエクスプレス 食品乾燥機" },
     description: {
-      en: "~$250-350. 11 trays, dual heating zones (front/rear independently set to different temperatures), below 55 dB (quietest in class). Best for simultaneous mixed-temperature loads — herbs at 95-115°F and jerky at 155-165°F in the same machine at the same time. More expensive and smaller than Excalibur.",
-      ja: "約25,000〜35,000円。11トレイ、デュアル加熱ゾーン（前後を独立して異なる温度に設定）、55 dB以下（クラス最静音）。同じマシンで同時に異なる温度の混合負荷に最適——35〜46°Cのハーブと68〜74°Cのジャーキーを同時に。エクスカリバーより高価で容量が少ない。",
+      en: "11 trays, dual heating zones (front/rear independently set to different temperatures), below 55 dB (quietest in class). Best for simultaneous mixed-temperature loads — herbs at 95-115°F and jerky at 155-165°F in the same machine at the same time. More expensive and smaller than Excalibur.",
+      ja: "11トレイ、デュアル加熱ゾーン（前後を独立して異なる温度に設定）、55 dB以下（クラス最静音）。同じマシンで同時に異なる温度の混合負荷に最適——35〜46°Cのハーブと68〜74°Cのジャーキーを同時に。エクスカリバーより高価で容量が少ない。",
     },
     links: [
       { network: "amazon-us", productId: "B01MSZAMXC", rawUrl: "https://www.amazon.com/dp/B01MSZAMXC", markets: ["US"], approved: true },
@@ -14134,8 +14134,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏆",
     name: { en: "Dharma Yoga Wheel (Original)", ja: "ダーマ ヨガホイール（オリジナル）" },
     description: {
-      en: "~$75-100. The original yoga wheel — 12.5-inch outer diameter, 1-inch EVA foam, 550 lb load rating, non-slip textured surface. Injection-molded ABS ring shows no flex or creak under load. Best construction quality and longest proven track record. Most expensive option.",
-      ja: "約7,500〜10,000円。オリジナルのヨガホイール——外径31.75 cm、2.5 cm EVAフォーム、250 kg負荷定格、滑り止めテクスチャード面。射出成形ABSリングは負荷下でたわみや軋みなし。最高の構造品質と最長の実績。最高価格のオプション。",
+      en: "The original yoga wheel — 12.5-inch outer diameter, 1-inch EVA foam, 550 lb load rating, non-slip textured surface. Injection-molded ABS ring shows no flex or creak under load. Best construction quality and longest proven track record. Most expensive option.",
+      ja: "オリジナルのヨガホイール——外径31.75 cm、2.5 cm EVAフォーム、250 kg負荷定格、滑り止めテクスチャード面。射出成形ABSリングは負荷下でたわみや軋みなし。最高の構造品質と最長の実績。最高価格のオプション。",
     },
     links: [
       { network: "amazon-us", productId: "B014GYK5NK", rawUrl: "https://www.amazon.com/dp/B014GYK5NK", markets: ["US"], approved: true },
@@ -14150,8 +14150,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⭐",
     name: { en: "Tumaz Yoga Wheel 13-inch", ja: "タマズ ヨガホイール 33 cm" },
     description: {
-      en: "~$35-50. 13-inch outer diameter (slightly larger — better for taller/longer-torso users), 1.5 cm EVA foam, three sizes (6/10/13 inch), non-slip surface. Best value yoga wheel. Padding thinner than Dharma but adequate for standard practice holds under 60 seconds.",
-      ja: "約3,500〜5,000円。外径33 cm（わずかに大きい——背が高い/胴体が長いユーザーに適切）、1.5 cm EVAフォーム、3サイズ（15/25/33 cm）、滑り止め面。最高価値のヨガホイール。ダーマよりパッドが薄いが60秒以下の標準的な練習の保持には十分。",
+      en: "13-inch outer diameter (slightly larger — better for taller/longer-torso users), 1.5 cm EVA foam, three sizes (6/10/13 inch), non-slip surface. Best value yoga wheel. Padding thinner than Dharma but adequate for standard practice holds under 60 seconds.",
+      ja: "外径33 cm（わずかに大きい——背が高い/胴体が長いユーザーに適切）、1.5 cm EVAフォーム、3サイズ（15/25/33 cm）、滑り止め面。最高価値のヨガホイール。ダーマよりパッドが薄いが60秒以下の標準的な練習の保持には十分。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-tumaz-yoga-wheel", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BF%E3%83%9E%E3%82%BA%2B%E3%83%A8%E3%82%AC%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -14165,8 +14165,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🛋️",
     name: { en: "BLY Yoga Wheel Extra-Thick Padding", ja: "BLY ヨガホイール 特厚パッド" },
     description: {
-      en: "~$40-60. Extra-thick 1.5-inch (3.8 cm) padding for softer feel during extended holds. Reduces pressure intensity at spinous process contact points. Best for users who find standard yoga wheel padding too hard during longer stretches. Weakness: thicker padding reduces stretch precision.",
-      ja: "約4,000〜6,000円。長時間保持でよりソフトな感触のための特厚3.8 cmパッド。棘突起接触点での圧力強度を軽減。長いストレッチで標準ヨガホイールのパッドが硬すぎると感じるユーザーに最適。弱点：厚いパッドがストレッチの精度を低下させる。",
+      en: "Extra-thick 1.5-inch (3.8 cm) padding for softer feel during extended holds. Reduces pressure intensity at spinous process contact points. Best for users who find standard yoga wheel padding too hard during longer stretches. Weakness: thicker padding reduces stretch precision.",
+      ja: "長時間保持でよりソフトな感触のための特厚3.8 cmパッド。棘突起接触点での圧力強度を軽減。長いストレッチで標準ヨガホイールのパッドが硬すぎると感じるユーザーに最適。弱点：厚いパッドがストレッチの精度を低下させる。",
     },
     links: [
       { network: "amazon-us", productId: "B07W6KN7HF", rawUrl: "https://www.amazon.com/dp/B07W6KN7HF", markets: ["US"], approved: true },
@@ -14181,8 +14181,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "✅",
     name: { en: "Plexus Yoga Wheel Certified", ja: "プレクサス ヨガホイール 認定モデル" },
     description: {
-      en: "~$40-60. 500 lb static load certification from independent third-party testing body. Best for users who prioritize documented structural safety verification rather than relying on manufacturer claims alone.",
-      ja: "約4,000〜6,000円。独立したサードパーティ試験機関からの227 kg静的負荷認定。メーカー主張だけでなく文書化された構造安全検証を優先するユーザーに最適。",
+      en: "500 lb static load certification from independent third-party testing body. Best for users who prioritize documented structural safety verification rather than relying on manufacturer claims alone.",
+      ja: "独立したサードパーティ試験機関からの227 kg静的負荷認定。メーカー主張だけでなく文書化された構造安全検証を優先するユーザーに最適。",
     },
     links: [
       { network: "amazon-us", productId: "B01MZAXUOS", rawUrl: "https://www.amazon.com/dp/B01MZAXUOS", markets: ["US"], approved: true },
@@ -14197,8 +14197,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🦴",
     name: { en: "Chirp Wheel+ Spinal Groove Yoga Wheel", ja: "チャープホイール プラス 脊椎溝付きヨガホイール" },
     description: {
-      en: "~$30-70 (by size). Distinctive spinal groove (5 cm wide) running circumferentially redirects pressure from spinous processes to paraspinal muscles — reduces bony contact discomfort. Three sizes (6/10/12 inch). Best for users who find standard yoga wheels uncomfortable at the spine contact points.",
-      ja: "約3,000〜7,000円（サイズにより）。円周方向に走る独特の脊椎溝（約5 cm幅）が棘突起から傍脊柱筋への圧力をリダイレクト——骨の接触不快感を軽減。3サイズ（15/25/30 cm）。標準的なヨガホイールが脊椎接触点で不快に感じるユーザーに最適。",
+      en: "(by size). Distinctive spinal groove (5 cm wide) running circumferentially redirects pressure from spinous processes to paraspinal muscles — reduces bony contact discomfort. Three sizes (6/10/12 inch). Best for users who find standard yoga wheels uncomfortable at the spine contact points.",
+      ja: "円周方向に走る独特の脊椎溝（約5 cm幅）が棘突起から傍脊柱筋への圧力をリダイレクト——骨の接触不快感を軽減。3サイズ（15/25/30 cm）。標準的なヨガホイールが脊椎接触点で不快に感じるユーザーに最適。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-chirp-wheel-plus", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%81%E3%83%A3%E3%83%BC%E3%83%97%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%2F", markets: ["JP"], approved: true },
@@ -14212,7 +14212,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🥩",
     name: { en: "FoodSaver V4840 2-in-1 Vacuum Sealer", ja: "フードセーバー V4840 2-in-1 真空パック機" },
     description: {
-      en: "~$100-150. Built-in bag roll storage and cutter, retractable handheld sealer for FoodSaver containers. Most widely available vacuum sealer — bags sold in grocery stores. Best for users who value retail bag availability and proven long-term track record.",
+      en: "Built-in bag roll storage and cutter, retractable handheld sealer for FoodSaver containers. Most widely available vacuum sealer — bags sold in grocery stores. Best for users who value retail bag availability and proven long-term track record.",
       ja: "約1万〜1万5千円。袋ロールストレージ＆カッター内蔵、格納式ハンドヘルドシーラー付き。北米で最も普及している真空パック機で袋は食料品店でも入手可能。小売袋の入手しやすさと実績を重視するユーザーに最適。",
     },
     links: [
@@ -14228,7 +14228,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔒",
     name: { en: "Nesco VS-12 Deluxe Vacuum Sealer", ja: "Nesco VS-12 デラックス真空パック機" },
     description: {
-      en: "~$70-100. Double sealing strip (stronger seam), explicitly compatible with any embossed bag — best third-party bag support in class. ~23 inHg vacuum. Cheaper bags over time. Best for regular users who buy bags in bulk online.",
+      en: "Double sealing strip (stronger seam), explicitly compatible with any embossed bag — best third-party bag support in class. ~23 inHg vacuum. Cheaper bags over time. Best for regular users who buy bags in bulk online.",
       ja: "約7千〜1万円。ダブルシールストリップ（強固なシーム）、あらゆるエンボス袋に明示的対応。約23 inHg真空。長期的に袋代が安くなる。大量にオンラインで袋を購入する定期使用者に最適。",
     },
     links: [
@@ -14244,7 +14244,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "♨️",
     name: { en: "Anova Precision Vacuum Sealer Pro", ja: "Anova プレシジョン バキュームシーラー Pro" },
     description: {
-      en: "~$100-130. 99.9% vacuum level (higher than standard external sealers), pulse mode for fragile foods, compatible with any embossed bag. Best for sous vide cooks — near-complete vacuum keeps bags submerged in water bath.",
+      en: "99.9% vacuum level (higher than standard external sealers), pulse mode for fragile foods, compatible with any embossed bag. Best for sous vide cooks — near-complete vacuum keeps bags submerged in water bath.",
       ja: "約1万〜1万3千円。99.9%真空レベル（標準外部シーラーより高い）、繊細な食品向けパルスモード、あらゆるエンボス袋に対応。スービッドクックに最適——ほぼ完全な真空で袋がウォーターバスに沈む。",
     },
     links: [
@@ -14260,7 +14260,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📦",
     name: { en: "Geryon Vacuum Sealer Machine", ja: "Geryon 真空パック機" },
     description: {
-      en: "~$30-50. Compact drawer-storable size, ~18 inHg vacuum. Best entry-level purchase for first-time users testing vacuum sealing workflow. Lower vacuum and fewer controls than premium options.",
+      en: "Compact drawer-storable size, ~18 inHg vacuum. Best entry-level purchase for first-time users testing vacuum sealing workflow. Lower vacuum and fewer controls than premium options.",
       ja: "約3千〜5千円。引き出しに収納できるコンパクトサイズ、約18 inHg真空。真空パックワークフローを試したい初回購入者向けエントリーレベルの最良の選択。プレミアム製品より真空と制御は劣る。",
     },
     links: [
@@ -14276,7 +14276,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🫙",
     name: { en: "Zwilling Fresh & Save Vacuum Starter Set", ja: "ツヴィリング フレッシュ＆セーブ バキュームスターターセット" },
     description: {
-      en: "~$60-100. USB-rechargeable handheld pump, reusable rigid containers and zipper bags, no heat sealing needed. Handles wet foods easily. Best for refrigerator life extension of produce and leftovers — not a substitute for long-term freezer storage.",
+      en: "USB-rechargeable handheld pump, reusable rigid containers and zipper bags, no heat sealing needed. Handles wet foods easily. Best for refrigerator life extension of produce and leftovers — not a substitute for long-term freezer storage.",
       ja: "約6千〜1万円。USB充電式ハンドヘルドポンプ、再利用可能な硬質容器とジッパー袋、熱溶着不要。液体食品も容易に扱える。農産物や残り物の冷蔵保存期間延長に最適——熱溶着袋による長期冷凍保存の代替ではない。",
     },
     links: [
@@ -14292,7 +14292,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏄",
     name: { en: "Indo Board Original Balance Trainer", ja: "インドボード オリジナル バランストレーナー" },
     description: {
-      en: "~$100-130. 30x11-inch deck + 6.5-inch foam roller. High skill ceiling — appropriate for surfers, skateboarders, snowboarders. Fiberglass deck + grip tape. Compatible with larger rollers and disc cushion accessories. Best for advanced users and board sport athletes.",
+      en: "30x11-inch deck + 6.5-inch foam roller. High skill ceiling — appropriate for surfers, skateboarders, snowboarders. Fiberglass deck + grip tape. Compatible with larger rollers and disc cushion accessories. Best for advanced users and board sport athletes.",
       ja: "約1万〜1万3千円。30×11インチデッキ＋直径6.5インチフォームローラー。スキル上限が高い——サーファー、スケートボーダー、スノーボーダーに最適。ファイバーグラスデッキ＋グリップテープ。大径ローラーとディスククッションアクセサリーに対応。",
     },
     links: [
@@ -14307,7 +14307,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔵",
     name: { en: "BOSU Balance Trainer Pro", ja: "BOSU バランストレーナー プロ" },
     description: {
-      en: "~$150-200. 65 cm inflatable dome + rigid platform. Dome up: squats, lunges, single-leg stands. Platform up: planks, push-ups, mountain climbers. 350 lb commercial rating. Best versatility for full-body workout integration. Best for rehabilitation and group fitness.",
+      en: "65 cm inflatable dome + rigid platform. Dome up: squats, lunges, single-leg stands. Platform up: planks, push-ups, mountain climbers. 350 lb commercial rating. Best versatility for full-body workout integration. Best for rehabilitation and group fitness.",
       ja: "約1万5千〜2万円。65cmインフレータブルドーム＋硬質プラットフォーム。ドーム面：スクワット・ランジ・片足立ち。プラットフォーム面：プランク・プッシュアップ・マウンテンクライマー。耐荷重160kgで商業用途に対応。リハビリとグループフィットネスに最適。",
     },
     links: [
@@ -14323,7 +14323,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⚖️",
     name: { en: "RevBalance 101 Balance Board", ja: "RevBalance 101 バランスボード" },
     description: {
-      en: "~$60-80. Maple deck + interchangeable fulcrum (3 difficulty levels). 350 lb rated. Adjustable difficulty makes it uniquely appropriate for rehabilitation and multi-user households. Best for PT settings and users who want to progress within one board.",
+      en: "Maple deck + interchangeable fulcrum (3 difficulty levels). 350 lb rated. Adjustable difficulty makes it uniquely appropriate for rehabilitation and multi-user households. Best for PT settings and users who want to progress within one board.",
       ja: "約6千〜8千円。メープルデッキ＋交換可能フルクラム（3難易度レベル）。耐荷重160kg。調整可能な難易度によりリハビリ設定と複数ユーザー家庭に最適。PT環境と1つのボードで上達したいユーザーに最適。",
     },
     links: [
@@ -14339,7 +14339,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🪵",
     name: { en: "Yes4All Wobble Balance Board", ja: "Yes4All ウォブルバランスボード" },
     description: {
-      en: "~$20-30. 15.7-inch wood deck + hemispherical plastic base. Best entry-level wobble board for beginners and ankle rehabilitation. Appropriate first purchase before committing to premium balance training equipment.",
+      en: "15.7-inch wood deck + hemispherical plastic base. Best entry-level wobble board for beginners and ankle rehabilitation. Appropriate first purchase before committing to premium balance training equipment.",
       ja: "約2千〜3千円。直径40cm木材デッキ＋半球形プラスチックベース。初心者と足首リハビリ向けベストエントリーレベルウォブルボード。プレミアムバランストレーニング機器に投資する前の最初の購入に最適。",
     },
     links: [
@@ -14355,7 +14355,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🎯",
     name: { en: "FitterFirst Professional Balance Board", ja: "FitterFirst プロフェッショナル バランスボード" },
     description: {
-      en: "~$40-60. 18-inch diameter, higher dome than Yes4All — greater tipping angle range. Better for adults with larger feet or users who plateau on standard wobble boards. Mid-range entry option with more instability range than budget alternatives.",
+      en: "18-inch diameter, higher dome than Yes4All — greater tipping angle range. Better for adults with larger feet or users who plateau on standard wobble boards. Mid-range entry option with more instability range than budget alternatives.",
       ja: "約4千〜6千円。直径45cm、Yes4Allより高いドームで傾き角度の範囲が広い。足が大きい大人や標準的なウォブルボードをすぐに使いこなしてしまうユーザーに最適。安価な代替品より不安定性範囲が広い中級エントリーオプション。",
     },
     links: [
@@ -14371,7 +14371,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍦",
     name: { en: "Cuisinart ICE-21 1.5-Quart Ice Cream Maker", ja: "Cuisinart ICE-21 1.5クォート アイスクリームメーカー" },
     description: {
-      en: "~$50-60. Pre-freeze double-insulated 1.5-quart canister. Churns in ~20-25 minutes. Best for occasional use and small households comfortable planning 24 hours ahead. Replacement canisters available.",
+      en: "Pre-freeze double-insulated 1.5-quart canister. Churns in ~20-25 minutes. Best for occasional use and small households comfortable planning 24 hours ahead. Replacement canisters available.",
       ja: "約5千〜6千円。事前冷凍二重断熱1.5クォートキャニスター。約20〜25分でチャーン。偶発的な使用と24時間前の計画に慣れている小家族に最適。交換用キャニスター入手可能。",
     },
     links: [
@@ -14387,7 +14387,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "❄️",
     name: { en: "Whynter ICM-200LS Automatic Ice Cream Maker", ja: "Whynter ICM-200LS 自動アイスクリームメーカー" },
     description: {
-      en: "~$250-300. Built-in compressor, 2.1-quart capacity, no pre-freezing required. Hardening function extends churn cycle. Pre-cool function improves results. Best for frequent production and on-demand ice cream without planning.",
+      en: "Built-in compressor, 2.1-quart capacity, no pre-freezing required. Hardening function extends churn cycle. Pre-cool function improves results. Best for frequent production and on-demand ice cream without planning.",
       ja: "約2万5千〜3万円。内蔵コンプレッサー、2.1クォート容量、事前冷凍不要。硬化機能でチャーンサイクル延長。事前冷却機能で結果が向上。頻繁な製造と計画なしのオンデマンドに最適。",
     },
     links: [
@@ -14403,7 +14403,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍨",
     name: { en: "Breville BCI600XL Smart Scoop Ice Cream Maker", ja: "Breville BCI600XL スマートスクープ アイスクリームメーカー" },
     description: {
-      en: "~$350-400. Built-in compressor, 11 hardness settings with automatic sensor, 30-minute pre-cool, 3-hour keep-soft function. Best for precision across multiple base types. Automated hardness detection removes guesswork.",
+      en: "Built-in compressor, 11 hardness settings with automatic sensor, 30-minute pre-cool, 3-hour keep-soft function. Best for precision across multiple base types. Automated hardness detection removes guesswork.",
       ja: "約3万5千〜4万円。内蔵コンプレッサー、自動センサー付き11段階硬度設定、30分事前冷却、3時間保温機能。複数ベースタイプでの精密さに最適。自動硬度検出で推測不要。",
     },
     links: [
@@ -14419,7 +14419,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🫙",
     name: { en: "Ninja Creami NC301 Ice Cream Maker", ja: "Ninja Creami NC301 アイスクリームメーカー" },
     description: {
-      en: "~$150-200. Blade-processes frozen pint containers (not churned). One pint at a time, 12-24 hour pre-freeze required. Best for high-protein, fruit-only, or non-standard bases. Very smooth texture from blade processing.",
+      en: "Blade-processes frozen pint containers (not churned). One pint at a time, 12-24 hour pre-freeze required. Best for high-protein, fruit-only, or non-standard bases. Very smooth texture from blade processing.",
       ja: "約1万5千〜2万円。冷凍パイントコンテナをブレード加工（チャーンなし）。一度に1パイント、12〜24時間事前冷凍必要。高タンパク・フルーツのみ・非標準ベースに最適。ブレード加工で非常に滑らかなテクスチャー。",
     },
     links: [
@@ -14435,7 +14435,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🥛",
     name: { en: "KitchenAid Ice Cream Maker Attachment", ja: "KitchenAid アイスクリームメーカーアタッチメント" },
     description: {
-      en: "~$50-70. Pre-freeze canister attachment for KitchenAid stand mixer — no separate motor needed. Best for existing KitchenAid owners who want ice cream capability without another countertop appliance.",
+      en: "Pre-freeze canister attachment for KitchenAid stand mixer — no separate motor needed. Best for existing KitchenAid owners who want ice cream capability without another countertop appliance.",
       ja: "約5千〜7千円。KitchenAidスタンドミキサー用事前冷凍キャニスターアタッチメント——別途モーター不要。別の機器なしにアイスクリーム機能を求める既存KitchenAidオーナーに最適。",
     },
     links: [
@@ -14451,7 +14451,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏃",
     name: { en: "SKLZ Quick Agility Ladder", ja: "SKLZ クイック アジリティラダー" },
     description: {
-      en: "~$20-30. 15-foot, 11 squares, adjustable rung spacing, flat plastic rungs, carrying bag. Most widely used in organized coaching programs. Best for athletes who want standard equipment matching what coaches use.",
+      en: "15-foot, 11 squares, adjustable rung spacing, flat plastic rungs, carrying bag. Most widely used in organized coaching programs. Best for athletes who want standard equipment matching what coaches use.",
       ja: "約2千〜3千円。15フィート、11マス、調整可能なランガー間隔、フラットプラスチックランガー、キャリングバッグ。組織的な指導プログラムで最も広く使用。コーチが使う標準器具を求めるアスリートに最適。",
     },
     links: [
@@ -14467,7 +14467,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📋",
     name: { en: "Perfect Fitness Agility Ladder with Drill Card", ja: "Perfect Fitness アジリティラダー ドリルカード付き" },
     description: {
-      en: "~$15-25. 11-rung flat plastic construction + 42-drill instructional card included. Best for self-trained athletes who need drill programming. Drill card provides structured progression without a coach.",
+      en: "11-rung flat plastic construction + 42-drill instructional card included. Best for self-trained athletes who need drill programming. Drill card provides structured progression without a coach.",
       ja: "約1千5百〜2千5百円。11ランガーフラットプラスチック構造＋42ドリル指導カード付属。ドリルプログラミングが必要な自主トレーニングアスリートに最適。ドリルカードはコーチなしで構造化された進歩を提供。",
     },
     links: [
@@ -14483,7 +14483,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⚡",
     name: { en: "Yes4All Agility Ladder (10/15/20 ft)", ja: "Yes4All アジリティラダー（10/15/20フィート）" },
     description: {
-      en: "~$20-35. Available in 10/15/20-foot lengths. 20-foot option allows longer drill sequences before turning. Best for athletes needing longer runs for acceleration-based drills.",
+      en: "Available in 10/15/20-foot lengths. 20-foot option allows longer drill sequences before turning. Best for athletes needing longer runs for acceleration-based drills.",
       ja: "約2千〜3千5百円。10/15/20フィートの長さで利用可能。20フィートオプションは方向転換前により長いドリルシーケンスを可能にする。加速ベースのドリルでより長いランが必要なアスリートに最適。",
     },
     links: [
@@ -14499,7 +14499,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏋️",
     name: { en: "Toezone Agility Ladder (Heavy Duty)", ja: "Toezone アジリティラダー（ヘビーデューティー）" },
     description: {
-      en: "~$30-40. Heavier plastic rung construction for higher-frequency team use. Flatter ground contact without staking. Best for youth coaches training 15+ athletes per session where durability across hundreds of sessions matters.",
+      en: "Heavier plastic rung construction for higher-frequency team use. Flatter ground contact without staking. Best for youth coaches training 15+ athletes per session where durability across hundreds of sessions matters.",
       ja: "約3千〜4千円。高頻度チーム使用向けの重いプラスチックランガー構造。杭なしのよりフラットな地面接触。数百セッションにわたる耐久性が重要なセッションあたり15人以上のアスリートをトレーニングするユース・コーチに最適。",
     },
     links: [
@@ -14515,7 +14515,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🥇",
     name: { en: "Speed & Agility Pro Aluminum Agility Ladder", ja: "Speed & Agility Pro アルミ アジリティラダー" },
     description: {
-      en: "~$40-60. Aluminum rungs (same as professional sports programs), 15-foot, adjustable spacing. Best for outdoor grass use and commercial facilities. Stays flat without stakes. Higher cost justified only for daily high-frequency use.",
+      en: "Aluminum rungs (same as professional sports programs), 15-foot, adjustable spacing. Best for outdoor grass use and commercial facilities. Stays flat without stakes. Higher cost justified only for daily high-frequency use.",
       ja: "約4千〜6千円。アルミランガー（プロスポーツプログラムと同様）、15フィート、調整可能な間隔。屋外草地使用と商業施設に最適。地面杭なしでフラットを保つ。高頻度の毎日使用環境にのみ正当化されるより高いコスト。",
     },
     links: [
@@ -14530,7 +14530,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍁",
     name: { en: "Boos Block Maple Cutting Board", ja: "Boos Block メープルまな板" },
     description: {
-      en: "~$100-250+. Hard maple edge-grain, Janka ~1450, mineral oil required every 2-4 weeks. Best overall wood cutting board for knife edge preservation and longevity. The professional kitchen standard in North America.",
+      en: "Hard maple edge-grain, Janka ~1450, mineral oil required every 2-4 weeks. Best overall wood cutting board for knife edge preservation and longevity. The professional kitchen standard in North America.",
       ja: "約1万〜2万5千円以上。ハードメープルエッジグレイン、ジャンカ約1450、2〜4週間ごとのミネラルオイル必要。包丁の刃保護と耐久性に最も優れた全体的な木製まな板。北米プロキッチンの標準。",
     },
     links: [
@@ -14546,7 +14546,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🌿",
     name: { en: "Teakhaus Edge Grain Teak Cutting Board", ja: "Teakhaus エッジグレイン チークまな板" },
     description: {
-      en: "~$80-150. Teak edge-grain, naturally water-resistant (teak oil content), minimal maintenance. Best for near-sink placement or users who prefer low-maintenance wood. Marginally gentler on knife edges than maple.",
+      en: "Teak edge-grain, naturally water-resistant (teak oil content), minimal maintenance. Best for near-sink placement or users who prefer low-maintenance wood. Marginally gentler on knife edges than maple.",
       ja: "約8千〜1万5千円。チークエッジグレイン、自然な耐水性（チーク油分）、メンテナンス最小限。流し台近くまたはメンテナンスが少ない木材を好むユーザーに最適。包丁の刃への影響はメープルよりわずかに優しい。",
     },
     links: [
@@ -14562,7 +14562,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🧼",
     name: { en: "OXO Good Grips Plastic Cutting Board", ja: "OXO グッドグリップス プラスチックまな板" },
     description: {
-      en: "~$30-50. HDPE plastic, juice groove, non-slip feet, dishwasher-safe. Best for dedicated raw meat and fish processing — dishwasher-sanitizable at pathogen-killing temperatures. Use with a separate wood board for produce.",
+      en: "HDPE plastic, juice groove, non-slip feet, dishwasher-safe. Best for dedicated raw meat and fish processing — dishwasher-sanitizable at pathogen-killing temperatures. Use with a separate wood board for produce.",
       ja: "約3千〜5千円。HDPE プラスチック、果汁溝、滑り止めの足、食洗機対応。生肉と魚の処理専用に最適——食洗機の病原体死滅温度で殺菌可能。野菜には別の木製ボードと一緒に使用すること。",
     },
     links: [
@@ -14578,7 +14578,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📄",
     name: { en: "Epicurean Kitchen Series Composite Cutting Board", ja: "Epicurean キッチンシリーズ コンポジットまな板" },
     description: {
-      en: "~$30-60. Paper composite (kraft fiber + resin), dishwasher-safe, 1/4-inch thin profile for easy storage. Best for users who want wood-look aesthetics without oil maintenance. Harder on knife edges than wood.",
+      en: "Paper composite (kraft fiber + resin), dishwasher-safe, 1/4-inch thin profile for easy storage. Best for users who want wood-look aesthetics without oil maintenance. Harder on knife edges than wood.",
       ja: "約3千〜6千円。ペーパーコンポジット（クラフトファイバー＋樹脂）、食洗機対応、収納容易な6mm薄プロファイル。油のメンテナンスなしに木材風の見た目を求めるユーザーに最適。木材より包丁の刃に硬い。",
     },
     links: [
@@ -14594,7 +14594,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🌰",
     name: { en: "John Boos Walnut End-Grain Butcher Block Board", ja: "John Boos ウォルナット エンドグレイン ブッチャーブロックボード" },
     description: {
-      en: "~$150-400. Black walnut end-grain, Janka ~1010, gentlest on knife edges. Maximum visual appeal — dark grain for kitchen display. Best for kitchen island or butcher block counter display. Same oil maintenance as end-grain maple.",
+      en: "Black walnut end-grain, Janka ~1010, gentlest on knife edges. Maximum visual appeal — dark grain for kitchen display. Best for kitchen island or butcher block counter display. Same oil maintenance as end-grain maple.",
       ja: "約1万5千〜4万円。ブラックウォルナットエンドグレイン、ジャンカ約1010、最も包丁の刃に優しい。最高の視覚的魅力——キッチン展示のためのダーク木目。キッチンアイランドやブッチャーブロックカウンター展示に最適。エンドグレインメープルと同じオイルメンテナンス。",
     },
     links: [
@@ -14609,7 +14609,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⚪",
     name: { en: "Trideer Extra Thick Exercise Ball", ja: "Trideer エクストラシック エクササイズボール" },
     description: {
-      en: "~$25-40. PVC 2000μm wall, 2200 lb anti-burst, dual-action pump included. Best value stability ball for home users. Consistent inflation retention, soft PVC surface. Sizes 45-85 cm.",
+      en: "PVC 2000μm wall, 2200 lb anti-burst, dual-action pump included. Best value stability ball for home users. Consistent inflation retention, soft PVC surface. Sizes 45-85 cm.",
       ja: "約2千5百〜4千円。PVC 2000μm壁厚、2200ポンド耐バースト、両方向ポンプ付属。家庭ユーザーに最高のコスパのバランスボール。一貫した空気保持、柔らかいPVC表面。45〜85cmサイズ。",
     },
     links: [
@@ -14625,7 +14625,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🎯",
     name: { en: "Gaiam Total Body Balance Ball Kit", ja: "Gaiam トータルボディ バランスボール キット" },
     description: {
-      en: "~$30-50. Anti-burst ball + pump + 42-drill workout guide kit. Best for beginners who want starting curriculum. Guide provides structured progression for users new to stability ball training.",
+      en: "Anti-burst ball + pump + 42-drill workout guide kit. Best for beginners who want starting curriculum. Guide provides structured progression for users new to stability ball training.",
       ja: "約3千〜5千円。耐バーストボール＋ポンプ＋42ドリルワークアウトガイドキット。最初のカリキュラムを求める初心者に最適。ガイドはバランスボールトレーニング初のユーザーに構造化された進歩を提供。",
     },
     links: [
@@ -14641,7 +14641,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏋️",
     name: { en: "Live Pro Stability Ball", ja: "Live Pro スタビリティボール" },
     description: {
-      en: "~$40-60. 2200 lb anti-burst, textured surface for grip on synthetic flooring. Best for commercial gym environments or slick floor surfaces where smooth PVC slides during dynamic exercises.",
+      en: "2200 lb anti-burst, textured surface for grip on synthetic flooring. Best for commercial gym environments or slick floor surfaces where smooth PVC slides during dynamic exercises.",
       ja: "約4千〜6千円。2200ポンド耐バースト、合成フローリングでのグリップのためのテクスチャー表面。動的エクササイズで滑らかなPVCがスライドする商業ジム環境や滑らかな床面に最適。",
     },
     links: [
@@ -14657,7 +14657,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🎨",
     name: { en: "URBNFit Exercise Ball", ja: "URBNFit エクササイズボール" },
     description: {
-      en: "~$30-45. 2000 lb anti-burst, wider color/finish range than utilitarian competitors. Best for home office or studio where the ball's appearance in the space matters. Same functional performance as Trideer.",
+      en: "2000 lb anti-burst, wider color/finish range than utilitarian competitors. Best for home office or studio where the ball's appearance in the space matters. Same functional performance as Trideer.",
       ja: "約3千〜4千5百円。2000ポンド耐バースト、実用的な競合他社より広いカラー/フィニッシュ範囲。スペースでボールの外観が重要なホームオフィスやスタジオに最適。Trideerと同じ機能パフォーマンス。",
     },
     links: [
@@ -14673,7 +14673,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔵",
     name: { en: "BOSU NexGen Pro Balance Trainer", ja: "BOSU NexGen プロ バランストレーナー" },
     description: {
-      en: "~$100-150. BOSU inflatable dome on rigid platform — not a traditional round ball. Best for standing balance training (dome-up: squats, lunges). Buy a round ball instead if you want seated/prone core training.",
+      en: "BOSU inflatable dome on rigid platform — not a traditional round ball. Best for standing balance training (dome-up: squats, lunges). Buy a round ball instead if you want seated/prone core training.",
       ja: "約1万〜1万5千円。硬質プラットフォーム上のBOSUインフレータブルドーム——従来の丸いボールではない。立位バランストレーニングに最適（ドーム面：スクワット・ランジ）。座位/うつ伏せのコアトレーニングには丸いボールを購入すること。",
     },
     links: [
@@ -14689,7 +14689,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍲",
     name: { en: "All-Clad D3 Stainless Stockpot", ja: "All-Clad D3 ステンレス寸胴鍋" },
     description: {
-      en: "~$200-400 (8-12 qt). Full tri-ply from rim to rim, 18/10 stainless, made in USA, lifetime warranty. Best for users who want professional-grade longevity and are cooking with it daily. The benchmark for stainless stockpot performance.",
+      en: "(8-12 qt). Full tri-ply from rim to rim, 18/10 stainless, made in USA, lifetime warranty. Best for users who want professional-grade longevity and are cooking with it daily. The benchmark for stainless stockpot performance.",
       ja: "約2万〜4万円（8〜12クォート）。リムからリムまでのフルトリプルクラッド、18/10ステンレス、米国製、終身保証。プログレードの耐久性を求める毎日調理するユーザーに最適。ステンレス寸胴鍋のパフォーマンス基準。",
     },
     links: [
@@ -14705,7 +14705,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🥘",
     name: { en: "Cuisinart Multiclad Pro Stainless Stockpot", ja: "Cuisinart Multiclad Pro ステンレス寸胴鍋" },
     description: {
-      en: "~$60-100 (8-12 qt). Full tri-ply, 18/10 stainless. ~1/3 the price of All-Clad. Best budget fully clad option. Performance matches All-Clad for most home cooking tasks.",
+      en: "(8-12 qt). Full tri-ply, 18/10 stainless. ~1/3 the price of All-Clad. Best budget fully clad option. Performance matches All-Clad for most home cooking tasks.",
       ja: "約6千〜1万円（8〜12クォート）。フルトリプルクラッド、18/10ステンレス。All-Cladの約1/3の価格。最高の低価格全体クラッドオプション。ほとんどの家庭調理タスクでAll-Cladと同等のパフォーマンス。",
     },
     links: [
@@ -14721,7 +14721,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⭐",
     name: { en: "Tramontina Gourmet Tri-Ply Clad Stockpot", ja: "Tramontina グルメ トリプルクラッド 寸胴鍋" },
     description: {
-      en: "~$100-150 (8 qt). Fully clad tri-ply, slightly thicker gauge than Cuisinart, Brazilian-made. Best value in fully clad stockpots — close to All-Clad performance at less than half the price. Recommended for most home cooks.",
+      en: "(8 qt). Fully clad tri-ply, slightly thicker gauge than Cuisinart, Brazilian-made. Best value in fully clad stockpots — close to All-Clad performance at less than half the price. Recommended for most home cooks.",
       ja: "約1万〜1万5千円（8クォート）。全体クラッドトリプルクラッド、Cuisinartより若干厚いゲージ、ブラジル製。全体クラッド寸胴鍋の最高のコスパ——All-Cladのパフォーマンスに半額以下で近い。ほとんどのホームクックへの推奨購入。",
     },
     links: [
@@ -14737,7 +14737,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🫕",
     name: { en: "Lodge Enameled Cast Iron Dutch Oven (5 qt)", ja: "Lodge ホーロー鋳鉄ダッチオーブン（5クォート）" },
     description: {
-      en: "~$80-100. Enameled cast iron, 5 qt, no seasoning required, acidic-food safe. Best for braises, long-cooked soups, and tagines. Exceptional heat retention. Not appropriate for large-batch stock (too small).",
+      en: "Enameled cast iron, 5 qt, no seasoning required, acidic-food safe. Best for braises, long-cooked soups, and tagines. Exceptional heat retention. Not appropriate for large-batch stock (too small).",
       ja: "約8千〜1万円。ホーロー鋳鉄、5クォート、シーズニング不要、酸性食品対応。ブレイズ・長時間煮込みスープ・タジンに最適。優れた熱保持。大量ストック作りには不適（小さすぎる）。",
     },
     links: [
@@ -14753,7 +14753,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏆",
     name: { en: "Demeyere Industry Stainless Stockpot", ja: "Demeyere Industry ステンレス寸胴鍋" },
     description: {
-      en: "~$250-400. Belgian-made 5-ply stainless, thickest gauge in class, best heat distribution of any stainless stockpot. Best technical specifications available — demonstrably better than All-Clad. For serious home cooks who want the engineering premium.",
+      en: "Belgian-made 5-ply stainless, thickest gauge in class, best heat distribution of any stainless stockpot. Best technical specifications available — demonstrably better than All-Clad. For serious home cooks who want the engineering premium.",
       ja: "約2万5千〜4万円。ベルギー製5プライステンレス、クラスで最も厚いゲージ、ステンレス寸胴鍋の中で最高の熱分布。入手可能な最高の技術仕様。本格的なホームクックで工学的プレミアムを求める方に。",
     },
     links: [
@@ -14769,7 +14769,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏅",
     name: { en: "Elite Jumps Bullet COMP Speed Rope", ja: "Elite Jumps Bullet COMP スピードロープ" },
     description: {
-      en: "~$55-65. Sealed ball bearings, 2.5 mm PVC cable, 5-inch aluminum handles. Best for advanced athletes optimizing double-under speed and consistency. Competition standard in CrossFit.",
+      en: "Sealed ball bearings, 2.5 mm PVC cable, 5-inch aluminum handles. Best for advanced athletes optimizing double-under speed and consistency. Competition standard in CrossFit.",
       ja: "約5千5百〜6千5百円。密封ボールベアリング、2.5mm PVCケーブル、13cmアルミニウムハンドル。ダブルアンダーの速度と一貫性を最適化する上級アスリートに最適。CrossFitの競技標準。",
     },
     links: [
@@ -14784,7 +14784,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⚖️",
     name: { en: "Crossrope Get Lean Set (Weighted Jump Rope)", ja: "Crossrope Get Lean セット（加重ジャンプロープ）" },
     description: {
-      en: "~$80-150. Weighted cable system with magnetic quick-connect, multiple cable weights (1/4 lb, 1/2 lb). Best for cardiovascular training with progressive overload. Not optimal for double-under speed — use a lighter rope for that.",
+      en: "Weighted cable system with magnetic quick-connect, multiple cable weights (1/4 lb, 1/2 lb). Best for cardiovascular training with progressive overload. Not optimal for double-under speed — use a lighter rope for that.",
       ja: "約8千〜1万5千円。磁気クイックコネクト付き加重ケーブルシステム、複数ケーブル重量（1/4ポンド・1/2ポンド）。漸進的過負荷付きの心臓血管トレーニングに最適。ダブルアンダーのスピードには最適でない——そのためには軽いロープを。",
     },
     price: "$298.00",
@@ -14801,7 +14801,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🔄",
     name: { en: "Buddy Lee Aero Speed Jump Rope", ja: "Buddy Lee Aero スピードジャンプロープ" },
     description: {
-      en: "~$30-45. Dual-ball bearing, thin wire cable, 5.5-inch handles. Best mid-range option for intermediate athletes who have learned double-unders and want quality bearings without premium pricing.",
+      en: "Dual-ball bearing, thin wire cable, 5.5-inch handles. Best mid-range option for intermediate athletes who have learned double-unders and want quality bearings without premium pricing.",
       ja: "約3千〜4千5百円。デュアルボールベアリング、細いワイヤーケーブル、14cmハンドル。ダブルアンダーを習得しプレミアム価格なしの品質ベアリングを求める中級アスリートに最適な中価格帯オプション。",
     },
     links: [
@@ -14816,7 +14816,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "📝",
     name: { en: "WOD Nation Speed Jump Rope", ja: "WOD Nation スピードジャンプロープ" },
     description: {
-      en: "~$20-30. Bushing bearing, 3 mm PVC cable (heavier for timing feedback), video tutorials included. Best starting speed rope for beginners learning double-unders. Heavier cable provides tactile timing cues.",
+      en: "Bushing bearing, 3 mm PVC cable (heavier for timing feedback), video tutorials included. Best starting speed rope for beginners learning double-unders. Heavier cable provides tactile timing cues.",
       ja: "約2千〜3千円。ブッシングベアリング、3mm PVCケーブル（タイミングフィードバック向上のためより重い）、ビデオチュートリアル付属。ダブルアンダーを学ぶ初心者に最適なスタートスピードロープ。重めのケーブルがタイミングの触覚的な手がかりを提供。",
     },
     links: [
@@ -14832,7 +14832,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "⚡",
     name: { en: "Elite Surge 3 Speed Jump Rope", ja: "Elite Surge 3 スピードジャンプロープ" },
     description: {
-      en: "~$25-35. Ball bearings at mid-range price, 2 mm PVC cable, 5-inch handles. Best value ball-bearing speed rope. Recommended for most intermediate athletes — ball-bearing quality without the premium price.",
+      en: "Ball bearings at mid-range price, 2 mm PVC cable, 5-inch handles. Best value ball-bearing speed rope. Recommended for most intermediate athletes — ball-bearing quality without the premium price.",
       ja: "約2千5百〜3千5百円。中価格帯のボールベアリング、2mm PVCケーブル、13cmハンドル。最高のコスパのボールベアリングスピードロープ。ほとんどの中級アスリートへの推奨——RX Smart Gearのプレミアム価格なしのボールベアリング品質。",
     },
     links: [
@@ -14847,8 +14847,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🥢",
     name: { en: "Joyce Chen Carbon Steel Wok", ja: "Joyce Chen 炭素鋼中華鍋" },
     description: {
-      en: "~$35-45. 1.5 mm carbon steel, 14-inch flat bottom, birch wood handle. Best entry-level carbon steel wok — works on all stovetops including induction.",
-      ja: "約3,500〜5,000円。1.5mm炭素鋼、14インチ平底、白樺木製ハンドル。IH含む全コンロ対応の最高エントリーレベル炭素鋼中華鍋。",
+      en: "1.5 mm carbon steel, 14-inch flat bottom, birch wood handle. Best entry-level carbon steel wok — works on all stovetops including induction.",
+      ja: "1.5mm炭素鋼、14インチ平底、白樺木製ハンドル。IH含む全コンロ対応の最高エントリーレベル炭素鋼中華鍋。",
     },
     links: [
       { network: "amazon-us", productId: "B00005AL3I", rawUrl: "https://www.amazon.com/dp/B00005AL3I", markets: ["US"], approved: true },
@@ -14863,8 +14863,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🥢",
     name: { en: "Yosukata Hand-Hammered Carbon Steel Wok", ja: "Yosukata 手打ち炭素鋼中華鍋" },
     description: {
-      en: "~$50-65. 2 mm hand-hammered carbon steel, 14-inch round bottom. Best for high-heat gas cooking — extra thickness and hand-hammered texture improves seasoning adhesion.",
-      ja: "約6,000〜8,000円。2mm手打ち炭素鋼、14インチ丸底。高火力ガス調理に最適——余分な厚みと手打ちテクスチャーがシーズニング密着を向上。",
+      en: "2 mm hand-hammered carbon steel, 14-inch round bottom. Best for high-heat gas cooking — extra thickness and hand-hammered texture improves seasoning adhesion.",
+      ja: "2mm手打ち炭素鋼、14インチ丸底。高火力ガス調理に最適——余分な厚みと手打ちテクスチャーがシーズニング密着を向上。",
     },
     links: [
       { network: "amazon-us", productId: "B07KFPQ63D", rawUrl: "https://www.amazon.com/dp/B07KFPQ63D", markets: ["US"], approved: true },
@@ -14879,8 +14879,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🥢",
     name: { en: "Craft Wok Traditional Hand-Hammered Carbon Steel", ja: "Craft Wok 伝統的手打ち炭素鋼中華鍋" },
     description: {
-      en: "~$45-60. 1.8 mm hand-hammered carbon steel, 14-inch round bottom, wooden + steel helper handle. Chinese-made traditional wok for gas burner cooking.",
-      ja: "約5,500〜7,000円。1.8mm手打ち炭素鋼、14インチ丸底、木製＋スチールヘルパーハンドル。ガスバーナー調理向け中国製伝統的中華鍋。",
+      en: "1.8 mm hand-hammered carbon steel, 14-inch round bottom, wooden + steel helper handle. Chinese-made traditional wok for gas burner cooking.",
+      ja: "1.8mm手打ち炭素鋼、14インチ丸底、木製＋スチールヘルパーハンドル。ガスバーナー調理向け中国製伝統的中華鍋。",
     },
     links: [
       { network: "amazon-us", productId: "B00PUCD6ZA", rawUrl: "https://www.amazon.com/dp/B00PUCD6ZA", markets: ["US"], approved: true },
@@ -14895,8 +14895,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🥢",
     name: { en: "Lodge Cast Iron Wok", ja: "Lodge 鋳鉄中華鍋" },
     description: {
-      en: "~$50-70. Seasoned cast iron, 14-inch, pre-seasoned. Best for searing and braises rather than traditional stir-fry. Induction compatible.",
-      ja: "約6,000〜8,000円。シーズニング済み鋳鉄、14インチ、事前シーズニング済み。伝統的炒め物よりも焼き目と蒸し煮に最適。IH対応。",
+      en: "Seasoned cast iron, 14-inch, pre-seasoned. Best for searing and braises rather than traditional stir-fry. Induction compatible.",
+      ja: "シーズニング済み鋳鉄、14インチ、事前シーズニング済み。伝統的炒め物よりも焼き目と蒸し煮に最適。IH対応。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-lodge-wok", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FLodge%E9%8B%B3%E9%89%84%E4%B8%AD%E8%8F%AF%E9%8D%8B%2F", markets: ["JP"], approved: true },
@@ -14910,8 +14910,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🥢",
     name: { en: "T-fal Nonstick Wok", ja: "T-fal ノンスティック中華鍋" },
     description: {
-      en: "~$30-45. Teflon-coated aluminum, 14-inch, no seasoning required. Best zero-maintenance option for occasional stir-fry. Temperature ceiling of 450°F limits wok hei.",
-      ja: "約3,500〜5,500円。テフロンコーティングアルミニウム、14インチ、シーズニング不要。時々の炒め物に最良のゼロメンテナンスオプション。230℃の温度上限が鍋気を制限。",
+      en: "Teflon-coated aluminum, 14-inch, no seasoning required. Best zero-maintenance option for occasional stir-fry. Temperature ceiling of 450°F limits wok hei.",
+      ja: "テフロンコーティングアルミニウム、14インチ、シーズニング不要。時々の炒め物に最良のゼロメンテナンスオプション。230℃の温度上限が鍋気を制限。",
     },
     links: [
       { network: "amazon-us", productId: "B002ZZTA8Q", rawUrl: "https://www.amazon.com/dp/B002ZZTA8Q", markets: ["US"], approved: true },
@@ -14926,8 +14926,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Bodylastics Stackable Resistance Band Set", ja: "Bodylastics スタッカブルレジスタンスバンドセット" },
     description: {
-      en: "~$50-80. Figure-8 clip system, anti-snap sleeves, 100% natural latex, dual-clip handles. Best for serious progressive training — most durable clip system.",
-      ja: "約6,000〜10,000円。8の字クリップシステム、アンチスナップスリーブ、100%天然ラテックス、デュアルクリップハンドル。真剣な漸進的トレーニングに最適——最も耐久性のあるクリップシステム。",
+      en: "Figure-8 clip system, anti-snap sleeves, 100% natural latex, dual-clip handles. Best for serious progressive training — most durable clip system.",
+      ja: "8の字クリップシステム、アンチスナップスリーブ、100%天然ラテックス、デュアルクリップハンドル。真剣な漸進的トレーニングに最適——最も耐久性のあるクリップシステム。",
     },
     links: [
       { network: "amazon-us", productId: "B00BP4LNA6", rawUrl: "https://www.amazon.com/dp/B00BP4LNA6", markets: ["US"], approved: true },
@@ -14942,8 +14942,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Undersun Resistance Loop Band Set", ja: "Undersun レジスタンスループバンドセット" },
     description: {
-      en: "~$40-60. 100% natural latex loop bands, 5 resistance levels (15-35 lb to 50-125 lb), lifetime guarantee. Best loop bands for pull-up assistance and mobility work.",
-      ja: "約5,500〜8,000円。100%天然ラテックスループバンド、5抵抗レベル（7〜16kgから23〜57kg）、終身保証。懸垂補助とモビリティ作業に最高のループバンド。",
+      en: "100% natural latex loop bands, 5 resistance levels (15-35 lb to 50-125 lb), lifetime guarantee. Best loop bands for pull-up assistance and mobility work.",
+      ja: "100%天然ラテックスループバンド、5抵抗レベル（7〜16kgから23〜57kg）、終身保証。懸垂補助とモビリティ作業に最高のループバンド。",
     },
     links: [
       { network: "amazon-us", productId: "B07JM2DXHB", rawUrl: "https://www.amazon.com/dp/B07JM2DXHB", markets: ["US"], approved: true },
@@ -14958,8 +14958,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Black Mountain Resistance Band Set", ja: "Black Mountain レジスタンスバンドセット" },
     description: {
-      en: "~$30-45. Tube bands with handles, door anchor, ankle strap, carry bag. Best all-in-one starter kit — widest accessory range at mid-range price.",
-      ja: "約4,000〜6,000円。ハンドル・ドアアンカー・アンクルストラップ・キャリーバッグ付きチューブバンド。最高のオールインワン入門セット——ミドルレンジ価格で最広アクセサリー範囲。",
+      en: "Tube bands with handles, door anchor, ankle strap, carry bag. Best all-in-one starter kit — widest accessory range at mid-range price.",
+      ja: "ハンドル・ドアアンカー・アンクルストラップ・キャリーバッグ付きチューブバンド。最高のオールインワン入門セット——ミドルレンジ価格で最広アクセサリー範囲。",
     },
     links: [
       { network: "amazon-us", productId: "B007E9DGAY", rawUrl: "https://www.amazon.com/dp/B007E9DGAY", markets: ["US"], approved: true },
@@ -14974,8 +14974,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Fit Simplify Resistance Loop Band Set", ja: "Fit Simplify レジスタンスループバンドセット" },
     description: {
-      en: "~$12-20. Thin loop bands, 5 resistance levels, extra light to extra heavy. Best budget entry point for rehabilitation and occasional flexibility work.",
-      ja: "約1,500〜2,500円。薄いループバンド、5抵抗レベル、エクストラライトからエクストラヘビー。リハビリと時々の柔軟作業への最高の予算入口。",
+      en: "Thin loop bands, 5 resistance levels, extra light to extra heavy. Best budget entry point for rehabilitation and occasional flexibility work.",
+      ja: "薄いループバンド、5抵抗レベル、エクストラライトからエクストラヘビー。リハビリと時々の柔軟作業への最高の予算入口。",
     },
     links: [
       { network: "amazon-us", productId: "B01AVDVHTI", rawUrl: "https://www.amazon.com/dp/B01AVDVHTI", markets: ["US"], approved: true },
@@ -14990,8 +14990,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "WOD Nation Resistance Band Set", ja: "WOD Nation レジスタンスバンドセット" },
     description: {
-      en: "~$20-35. Thick loop bands, multiple resistance levels, body-weight-rated for pull-up assistance. Best for pull-up assistance and CrossFit warm-up use.",
-      ja: "約2,500〜4,500円。太いループバンド、複数抵抗レベル、体重荷重対応の懸垂補助定格。懸垂補助とクロスフィットウォームアップに最適。",
+      en: "Thick loop bands, multiple resistance levels, body-weight-rated for pull-up assistance. Best for pull-up assistance and CrossFit warm-up use.",
+      ja: "太いループバンド、複数抵抗レベル、体重荷重対応の懸垂補助定格。懸垂補助とクロスフィットウォームアップに最適。",
     },
     links: [
       { network: "amazon-us", productId: "B00WUHQ4K6", rawUrl: "https://www.amazon.com/dp/B00WUHQ4K6", markets: ["US"], approved: true },
@@ -15006,8 +15006,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍪",
     name: { en: "Nordic Ware Natural Aluminum Half Sheet", ja: "Nordic Ware 天然アルミニウム ハーフシート" },
     description: {
-      en: "~$15-20. Heavy-gauge pure aluminum, 18x13 inch, uncoated. Best browning and long-term durability. Used in professional bakeries. Not nonstick — use with parchment.",
-      ja: "約1,500〜2,500円。重ゲージ純アルミニウム、46×33cm、無コーティング。最高の焼き色と長期耐久性。プロのベーカリーで使用。ノンスティックではない——クッキングシートと一緒に使用。",
+      en: "Heavy-gauge pure aluminum, 18x13 inch, uncoated. Best browning and long-term durability. Used in professional bakeries. Not nonstick — use with parchment.",
+      ja: "重ゲージ純アルミニウム、46×33cm、無コーティング。最高の焼き色と長期耐久性。プロのベーカリーで使用。ノンスティックではない——クッキングシートと一緒に使用。",
     },
     links: [
       { network: "amazon-us", productId: "B0049C2S32", rawUrl: "https://www.amazon.com/dp/B0049C2S32", markets: ["US"], approved: true },
@@ -15022,8 +15022,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍪",
     name: { en: "USA Pan Half Sheet Baking Pan", ja: "USA Pan ハーフシート ベーキングパン" },
     description: {
-      en: "~$20-30. Aluminized steel with corrugated base, silicone coating rated to 450°F. Best warp resistance — corrugation adds structural rigidity. Slight texture effect on flat cookies.",
-      ja: "約2,500〜4,000円。波打ち底のアルミナイズドスチール、230℃対応シリコンコーティング。最高のそり耐性——波打ち加工が構造的剛性を追加。平らなクッキーへのわずかなテクスチャー効果。",
+      en: "Aluminized steel with corrugated base, silicone coating rated to 450°F. Best warp resistance — corrugation adds structural rigidity. Slight texture effect on flat cookies.",
+      ja: "波打ち底のアルミナイズドスチール、230℃対応シリコンコーティング。最高のそり耐性——波打ち加工が構造的剛性を追加。平らなクッキーへのわずかなテクスチャー効果。",
     },
     links: [
       { network: "amazon-us", productId: "B00BBDVR8G", rawUrl: "https://www.amazon.com/dp/B00BBDVR8G", markets: ["US"], approved: true },
@@ -15038,8 +15038,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍪",
     name: { en: "Wilton Nonstick Half Sheet Baking Pan", ja: "Wilton ノンスティック ハーフシート ベーキングパン" },
     description: {
-      en: "~$10-15. Mid-gauge steel with PTFE nonstick. Most common budget nonstick option. PTFE degrades above 500°F. Replace every 2-3 years.",
-      ja: "約1,000〜2,000円。PTFEノンスティック付き中ゲージスチール。最も一般的な予算ノンスティックオプション。PTFEは260℃以上で劣化。2〜3年ごとに交換。",
+      en: "Mid-gauge steel with PTFE nonstick. Most common budget nonstick option. PTFE degrades above 500°F. Replace every 2-3 years.",
+      ja: "PTFEノンスティック付き中ゲージスチール。最も一般的な予算ノンスティックオプション。PTFEは260℃以上で劣化。2〜3年ごとに交換。",
     },
     links: [
       { network: "amazon-us", productId: "B000JM0EAW", rawUrl: "https://www.amazon.com/dp/B000JM0EAW", markets: ["US"], approved: true },
@@ -15054,8 +15054,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍪",
     name: { en: "OXO Good Grips Nonstick Half Sheet Baking Pan", ja: "OXO Good Grips ノンスティック ハーフシート ベーキングパン" },
     description: {
-      en: "~$20-30. Heavier gauge than Wilton, durable nonstick coating, rolled handles. Best premium nonstick option — more durable coating and better grip than Wilton.",
-      ja: "約2,500〜4,000円。Wiltonより重いゲージ、耐久性のあるノンスティックコーティング、巻かれたハンドル。最高のプレミアムノンスティックオプション——Wiltonより耐久性のあるコーティングとより良いグリップ。",
+      en: "Heavier gauge than Wilton, durable nonstick coating, rolled handles. Best premium nonstick option — more durable coating and better grip than Wilton.",
+      ja: "Wiltonより重いゲージ、耐久性のあるノンスティックコーティング、巻かれたハンドル。最高のプレミアムノンスティックオプション——Wiltonより耐久性のあるコーティングとより良いグリップ。",
     },
     links: [
       { network: "amazon-us", productId: "B00004OCMS", rawUrl: "https://www.amazon.com/dp/B00004OCMS", markets: ["US"], approved: true },
@@ -15070,8 +15070,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🍪",
     name: { en: "Chicago Metallic Commercial II Half Sheet", ja: "Chicago Metallic 商業グレード ハーフシート" },
     description: {
-      en: "~$20-35. Heavy-gauge aluminized steel, uncoated, commercial grade. Professional bakery standard — uncoated surface for maximum browning, structural rigidity of aluminized steel.",
-      ja: "約2,500〜4,500円。重ゲージアルミナイズドスチール、無コーティング、商業グレード。プロのベーカリー標準——最大の焼き色のための無コーティング表面、アルミナイズドスチールの構造的剛性。",
+      en: "Heavy-gauge aluminized steel, uncoated, commercial grade. Professional bakery standard — uncoated surface for maximum browning, structural rigidity of aluminized steel.",
+      ja: "重ゲージアルミナイズドスチール、無コーティング、商業グレード。プロのベーカリー標準——最大の焼き色のための無コーティング表面、アルミナイズドスチールの構造的剛性。",
     },
     links: [
       { network: "amazon-us", productId: "B00DQ3O6Q6", rawUrl: "https://www.amazon.com/dp/B00DQ3O6Q6", markets: ["US"], approved: true },
@@ -15086,8 +15086,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "IronMind Captains of Crush Gripper", ja: "IronMind Captains of Crush グリッパー" },
     description: {
-      en: "~$20-30 per gripper. Machined aluminum and spring, #1=140 lb, #2=195 lb, #3=280 lb. The standard in competitive grip sports. Best for crush grip development and progressive overload.",
-      ja: "約2,500〜4,000円/本。機械加工アルミニウムとばね、#1=63kg、#2=88kg、#3=127kg。競技グリップスポーツの基準。クラッシュグリップ発達と漸進的過負荷に最適。",
+      en: "Per gripper. Machined aluminum and spring, #1=140 lb, #2=195 lb, #3=280 lb. The standard in competitive grip sports. Best for crush grip development and progressive overload.",
+      ja: "/本。機械加工アルミニウムとばね、#1=63kg、#2=88kg、#3=127kg。競技グリップスポーツの基準。クラッシュグリップ発達と漸進的過負荷に最適。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-coc-gripper", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8F%E3%83%B3%E3%83%89%E3%82%B0%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%E3%82%B0%E3%83%AA%E3%83%83%E3%83%97%E5%BC%B7%E5%8C%96%2F", markets: ["JP"], approved: true },
@@ -15101,8 +15101,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Fat Gripz Barbell Attachment", ja: "Fat Gripz バーベルアタッチメント" },
     description: {
-      en: "~$35-45. Rubber sleeve, 2-inch diameter, fits standard barbells/dumbbells/pull-up bars. Best for integrating grip training into existing workouts — trains grip with compound movements.",
-      ja: "約4,500〜6,000円。ゴムスリーブ、50mm直径、標準バーベル/ダンベル/懸垂バー対応。既存のワークアウトへのグリップトレーニング統合に最適——コンパウンド動作と同時にグリップを鍛える。",
+      en: "Rubber sleeve, 2-inch diameter, fits standard barbells/dumbbells/pull-up bars. Best for integrating grip training into existing workouts — trains grip with compound movements.",
+      ja: "ゴムスリーブ、50mm直径、標準バーベル/ダンベル/懸垂バー対応。既存のワークアウトへのグリップトレーニング統合に最適——コンパウンド動作と同時にグリップを鍛える。",
     },
     links: [
       { network: "amazon-us", productId: "B002LRWWDW", rawUrl: "https://www.amazon.com/dp/B002LRWWDW", markets: ["US"], approved: true },
@@ -15117,8 +15117,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Harbinger Wrist Roller", ja: "Harbinger リストローラー" },
     description: {
-      en: "~$15-25. Wooden dowel with rope and weight plate attachment. Best for forearm flexor and extensor development. Most effective forearm-specific tool per dollar.",
-      ja: "約2,000〜3,500円。ロープと重量プレート取付付き木製棒。前腕屈筋と伸筋発達に最適。価格あたり最も効果的な前腕特化ツール。",
+      en: "Wooden dowel with rope and weight plate attachment. Best for forearm flexor and extensor development. Most effective forearm-specific tool per dollar.",
+      ja: "ロープと重量プレート取付付き木製棒。前腕屈筋と伸筋発達に最適。価格あたり最も効果的な前腕特化ツール。",
     },
     links: [
       { network: "amazon-us", productId: "B000VLKTZA", rawUrl: "https://www.amazon.com/dp/B000VLKTZA", markets: ["US"], approved: true },
@@ -15133,8 +15133,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Metolius Grip Saver Plus", ja: "Metolius グリップセーバープラス" },
     description: {
-      en: "~$15-20. Rubber ring for finger closure training. Best for climbers — strengthens antagonist muscles to prevent climber's elbow. Less relevant for non-climbers.",
-      ja: "約2,000〜3,000円。指の閉じるトレーニング用ゴムリング。クライマーに最適——クライマーズエルボーを防ぐために拮抗筋を強化。非クライマーには関連性が低い。",
+      en: "Rubber ring for finger closure training. Best for climbers — strengthens antagonist muscles to prevent climber's elbow. Less relevant for non-climbers.",
+      ja: "指の閉じるトレーニング用ゴムリング。クライマーに最適——クライマーズエルボーを防ぐために拮抗筋を強化。非クライマーには関連性が低い。",
     },
     links: [
       { network: "amazon-us", productId: "B0009PPPEG", rawUrl: "https://www.amazon.com/dp/B0009PPPEG", markets: ["US"], approved: true },
@@ -15148,8 +15148,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Grip4Force Grip Trainer Pull-Up Bar Attachment", ja: "Grip4Force グリップトレーナー 懸垂バーアタッチメント" },
     description: {
-      en: "~$30-40. Thick rubber pull-up bar attachment, 2.25-inch grip diameter. Best for pull-up-centric grip training. Similar function to Fat Gripz but specific to pull-up bars.",
-      ja: "約4,000〜5,500円。太いゴム製懸垂バーアタッチメント、57mm直径。懸垂中心のグリップトレーニングに最適。Fat Gripzと同様の機能だが懸垂バーに特化。",
+      en: "Thick rubber pull-up bar attachment, 2.25-inch grip diameter. Best for pull-up-centric grip training. Similar function to Fat Gripz but specific to pull-up bars.",
+      ja: "太いゴム製懸垂バーアタッチメント、57mm直径。懸垂中心のグリップトレーニングに最適。Fat Gripzと同様の機能だが懸垂バーに特化。",
     },
     links: [
       { network: "amazon-us", productId: "B00I29FIPA", rawUrl: "https://www.amazon.com/dp/B00I29FIPA", markets: ["US"], approved: true },
@@ -15164,8 +15164,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Bialetti Moka Express", ja: "Bialetti モカエクスプレス" },
     description: {
-      en: "~$25-45. Food-grade aluminum, 8-sided iconic design, 1-12 cup sizes. The original and standard stovetop espresso maker. Classic moka flavor profile. Hand wash only.",
-      ja: "約3,000〜5,500円。食品グレードアルミニウム、8角形のアイコニックなデザイン、1〜12カップサイズ。オリジナルで標準的なストーブトップエスプレッソメーカー。クラシックなモカ風味。手洗いのみ。",
+      en: "Food-grade aluminum, 8-sided iconic design, 1-12 cup sizes. The original and standard stovetop espresso maker. Classic moka flavor profile. Hand wash only.",
+      ja: "食品グレードアルミニウム、8角形のアイコニックなデザイン、1〜12カップサイズ。オリジナルで標準的なストーブトップエスプレッソメーカー。クラシックなモカ風味。手洗いのみ。",
     },
     links: [
       { network: "amazon-us", productId: "B00004S5A7", rawUrl: "https://www.amazon.com/dp/B00004S5A7", markets: ["US"], approved: true },
@@ -15180,8 +15180,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Bialetti Brikka Moka Pot", ja: "Bialetti ブリッカ モカポット" },
     description: {
-      en: "~$40-60. Stainless steel, pressurized valve for crema-like foam, 2-cup and 4-cup only. Induction compatible. Best for milk drinks — foam adds texture to lattes and cappuccinos.",
-      ja: "約5,000〜8,000円。ステンレス鋼、クレマ様の泡のための加圧バルブ、2カップと4カップのみ。IH対応。ミルクドリンクに最適——泡がラテとカプチーノに食感を追加。",
+      en: "Stainless steel, pressurized valve for crema-like foam, 2-cup and 4-cup only. Induction compatible. Best for milk drinks — foam adds texture to lattes and cappuccinos.",
+      ja: "ステンレス鋼、クレマ様の泡のための加圧バルブ、2カップと4カップのみ。IH対応。ミルクドリンクに最適——泡がラテとカプチーノに食感を追加。",
     },
     links: [
       { network: "amazon-us", productId: "B000IKLK6W", rawUrl: "https://www.amazon.com/dp/B000IKLK6W", markets: ["US"], approved: true },
@@ -15196,8 +15196,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Cuisinox Roma Stainless Steel Moka Pot", ja: "Cuisinox Roma ステンレス鋼モカポット" },
     description: {
-      en: "~$40-60. Stainless steel, induction-compatible, dishwasher safe. Best stainless alternative to aluminum Moka Express — consistent extraction, no flavor interaction between coffee acids and metal.",
-      ja: "約5,000〜8,000円。ステンレス鋼、IH対応、食洗機対応。アルミニウムMoka Expressへの最高のステンレス代替品——一貫した抽出、コーヒー酸と金属間の風味相互作用なし。",
+      en: "Stainless steel, induction-compatible, dishwasher safe. Best stainless alternative to aluminum Moka Express — consistent extraction, no flavor interaction between coffee acids and metal.",
+      ja: "ステンレス鋼、IH対応、食洗機対応。アルミニウムMoka Expressへの最高のステンレス代替品——一貫した抽出、コーヒー酸と金属間の風味相互作用なし。",
     },
     links: [
       { network: "amazon-us", productId: "B000TCZGVU", rawUrl: "https://www.amazon.com/dp/B000TCZGVU", markets: ["US"], approved: true },
@@ -15212,8 +15212,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Ilsa Stovetop Espresso Maker", ja: "Ilsa ストーブトップエスプレッソメーカー" },
     description: {
-      en: "~$35-55. Italian-made stainless steel, 1-12 cup sizes. Classic design with slightly different valve geometry — some describe brew as slightly smoother than Bialetti aluminum.",
-      ja: "約4,500〜7,000円。イタリア製ステンレス鋼、1〜12カップサイズ。わずかに異なるバルブ形状のクラシックデザイン——一部がBialettiアルミニウムよりわずかに滑らかな醸造と表現。",
+      en: "Italian-made stainless steel, 1-12 cup sizes. Classic design with slightly different valve geometry — some describe brew as slightly smoother than Bialetti aluminum.",
+      ja: "イタリア製ステンレス鋼、1〜12カップサイズ。わずかに異なるバルブ形状のクラシックデザイン——一部がBialettiアルミニウムよりわずかに滑らかな醸造と表現。",
     },
     links: [
       { network: "amazon-us", productId: "B001NZUIIE", rawUrl: "https://www.amazon.com/dp/B001NZUIIE", markets: ["US"], approved: true },
@@ -15228,8 +15228,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Pezzetti Italexpress Moka Pot", ja: "Pezzetti イタレクスプレス モカポット" },
     description: {
-      en: "~$20-30. Budget Italian-made stainless moka pot. Functionally equivalent brewing mechanism at lower cost. Best entry-level moka pot for first-time buyers.",
-      ja: "約2,500〜4,000円。コストパフォーマンスのイタリア製ステンレスモカポット。より低いコストで機能的に同等の醸造メカニズム。初めて購入する人への最高エントリーレベルモカポット。",
+      en: "Budget Italian-made stainless moka pot. Functionally equivalent brewing mechanism at lower cost. Best entry-level moka pot for first-time buyers.",
+      ja: "コストパフォーマンスのイタリア製ステンレスモカポット。より低いコストで機能的に同等の醸造メカニズム。初めて購入する人への最高エントリーレベルモカポット。",
     },
     links: [
       { network: "amazon-us", productId: "B003LLSQ4O", rawUrl: "https://www.amazon.com/dp/B003LLSQ4O", markets: ["US"], approved: true },
@@ -15244,7 +15244,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏋️",
     name: { en: "Rogue Fitness Training Sandbag", ja: "Rogue Fitness トレーニングサンドバッグ" },
     description: {
-      en: "~$175-250. 1000D Cordura shell, multiple integrated handles, modular filler, 150-300 lb max. Best for commercial gyms and aggressive home gym use — constructed to be thrown, dropped, dragged.",
+      en: "1000D Cordura shell, multiple integrated handles, modular filler, 150-300 lb max. Best for commercial gyms and aggressive home gym use — constructed to be thrown, dropped, dragged.",
       ja: "約2万〜3万5千円。1000D Corduraシェル、複数統合ハンドル、モジュラーフィラー、68〜136kg最大。コマーシャルジムと積極的なホームジム使用に最適——投げ・落下・引きずりに対応する構造。",
     },
     links: [
@@ -15260,7 +15260,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏋️",
     name: { en: "REP Fitness Training Sandbag", ja: "REP Fitness トレーニングサンドバッグ" },
     description: {
-      en: "~$80-130. 900D Cordura, reinforced handles, modular filler, 50-150 lb sizes. Best value for regular home gym use — adequate durability at significantly lower cost than Rogue.",
+      en: "900D Cordura, reinforced handles, modular filler, 50-150 lb sizes. Best value for regular home gym use — adequate durability at significantly lower cost than Rogue.",
       ja: "約1万〜1万8千円。900D Cordura、補強ハンドル、モジュラーフィラー、22〜68kgサイズ。定期的なホームジム使用に最高の価値——Rogueより大幅に安いコストで十分な耐久性。",
     },
     links: [
@@ -15276,7 +15276,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏋️",
     name: { en: "GORUCK Training Sandbag", ja: "GORUCK トレーニングサンドバッグ" },
     description: {
-      en: "~$100-175. 1000D Cordura, military construction standards, welded webbing handles. Best for rucking events and sustained loaded carries — built for GORUCK events and military fitness.",
+      en: "1000D Cordura, military construction standards, welded webbing handles. Best for rucking events and sustained loaded carries — built for GORUCK events and military fitness.",
       ja: "約1万4千〜2万5千円。1000D Cordura、軍事構造基準、溶接ウェビングハンドル。ラッキングイベントと持続ロードキャリーに最適——GORUCKイベントと軍事フィットネストレーニング向け。",
     },
     links: [
@@ -15292,7 +15292,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏋️",
     name: { en: "Viking Strength Training Sandbag", ja: "Viking Strength トレーニングサンドバッグ" },
     description: {
-      en: "~$100-150. Shell geometry optimized for shouldering, grip panel for clean pull. Best for strongman shouldering-focused training — handle placement matches shouldering movement pattern.",
+      en: "Shell geometry optimized for shouldering, grip panel for clean pull. Best for strongman shouldering-focused training — handle placement matches shouldering movement pattern.",
       ja: "約1万3千〜2万円。ショルダリングに最適化されたシェル形状、クリーンプル用グリップパネル。ストロングマンショルダリングフォーカストレーニングに最適——ハンドル配置がショルダリング動作パターンと一致。",
     },
     links: [
@@ -15308,7 +15308,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "🏋️",
     name: { en: "Cerberus Strength Training Sandbag", ja: "Cerberus Strength トレーニングサンドバッグ" },
     description: {
-      en: "~$150-300. Competition standard construction, 150-450 lb capacity, used in Strongman Corporation events. Best for actual strongman competition training — competition-equivalent equipment.",
+      en: "Competition standard construction, 150-450 lb capacity, used in Strongman Corporation events. Best for actual strongman competition training — competition-equivalent equipment.",
       ja: "約2万〜4万円。競技基準構造、68〜200kg容量、Strongman Corporationイベントで使用。実際のストロングマン競技トレーニングに最適——競技同等の設備。",
     },
     links: [
@@ -15324,8 +15324,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "AeroPress Original Coffee Maker", ja: "AeroPress オリジナル コーヒーメーカー" },
     description: {
-      en: "~$35-45. Polypropylene, 1-3 cup capacity, 350 paper filters included. The baseline correct choice for single-serve specialty coffee. Durable, produces excellent coffee across recipes.",
-      ja: "約4,500〜6,000円。ポリプロピレン、1プレスあたり1〜3カップ、紙フィルター350枚付属。1人分スペシャルティコーヒーの基準として正しい選択。耐久性があり複数レシピで優れたコーヒーを生成。",
+      en: "Polypropylene, 1-3 cup capacity, 350 paper filters included. The baseline correct choice for single-serve specialty coffee. Durable, produces excellent coffee across recipes.",
+      ja: "ポリプロピレン、1プレスあたり1〜3カップ、紙フィルター350枚付属。1人分スペシャルティコーヒーの基準として正しい選択。耐久性があり複数レシピで優れたコーヒーを生成。",
     },
     links: [
       { network: "amazon-us", productId: "B0047BIWSK", rawUrl: "https://www.amazon.com/dp/B0047BIWSK", markets: ["US"], approved: true },
@@ -15340,8 +15340,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "AeroPress Go Portable Coffee Maker", ja: "AeroPress Go ポータブル コーヒーメーカー" },
     description: {
-      en: "~$35-45. Compact version, stores in included mug, 1-2 cup capacity. Same price as Original — correct choice for travel and portability as primary use case.",
-      ja: "約4,500〜6,000円。コンパクト版、付属マグカップに収納、1〜2カップ容量。Originalと同じ価格——旅行とポータビリティが主な用途に正しい選択。",
+      en: "Compact version, stores in included mug, 1-2 cup capacity. Same price as Original — correct choice for travel and portability as primary use case.",
+      ja: "コンパクト版、付属マグカップに収納、1〜2カップ容量。Originalと同じ価格——旅行とポータビリティが主な用途に正しい選択。",
     },
     links: [
       { network: "amazon-us", productId: "B07YVL8SF3", rawUrl: "https://www.amazon.com/dp/B07YVL8SF3", markets: ["US"], approved: true },
@@ -15356,8 +15356,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "AeroPress Clear Coffee Maker", ja: "AeroPress クリア コーヒーメーカー" },
     description: {
-      en: "~$40-50. Clear Tritan plastic, same size and capacity as Original. Identical brewing performance — visual transparency for recipe development. Slightly more expensive than Original.",
-      ja: "約5,000〜7,000円。クリアなTritan製プラスチック、Originalと同じサイズと容量。醸造パフォーマンスは同一——レシピ開発のための視覚的透明性。Originalよりわずかに高い価格。",
+      en: "Clear Tritan plastic, same size and capacity as Original. Identical brewing performance — visual transparency for recipe development. Slightly more expensive than Original.",
+      ja: "クリアなTritan製プラスチック、Originalと同じサイズと容量。醸造パフォーマンスは同一——レシピ開発のための視覚的透明性。Originalよりわずかに高い価格。",
     },
     links: [
       { network: "amazon-us", productId: "B0BS1GJ9N7", rawUrl: "https://www.amazon.com/dp/B0BS1GJ9N7", markets: ["US"], approved: true },
@@ -15372,8 +15372,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "AeroPress XL Coffee Maker", ja: "AeroPress XL コーヒーメーカー" },
     description: {
-      en: "~$55-65. Larger cylinder, 2-3 cup capacity per press (500 ml). Best for 2-person households — solves Original's single-serve limitation. Same brewing mechanism, more volume.",
-      ja: "約7,000〜9,000円。大きなシリンダー、1プレスあたり2〜3カップ容量（500ml）。2人世帯に最適——Originalの1人分制限を解消。同じ醸造メカニズム、より多くの量。",
+      en: "Larger cylinder, 2-3 cup capacity per press (500 ml). Best for 2-person households — solves Original's single-serve limitation. Same brewing mechanism, more volume.",
+      ja: "大きなシリンダー、1プレスあたり2〜3カップ容量（500ml）。2人世帯に最適——Originalの1人分制限を解消。同じ醸造メカニズム、より多くの量。",
     },
     links: [
       { network: "amazon-us", productId: "B0C5QDKNVJ", rawUrl: "https://www.amazon.com/dp/B0C5QDKNVJ", markets: ["US"], approved: true },
@@ -15388,8 +15388,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Fellow Prismo AeroPress Attachment", ja: "Fellow Prismo エアロプレス アタッチメント" },
     description: {
-      en: "~$25-35. Replacement filter cap with pressure valve and metal filter for AeroPress. Eliminates inverted method, allows oils through for fuller body. Requires AeroPress Original or Go.",
-      ja: "約3,500〜5,000円。AeroPress用の圧力バルブとメタルフィルター付き交換フィルターキャップ。逆さまメソッドを排除し、油を通過させてより豊かなボディに。AeroPress OriginalまたはGoが必要。",
+      en: "Replacement filter cap with pressure valve and metal filter for AeroPress. Eliminates inverted method, allows oils through for fuller body. Requires AeroPress Original or Go.",
+      ja: "AeroPress用の圧力バルブとメタルフィルター付き交換フィルターキャップ。逆さまメソッドを排除し、油を通過させてより豊かなボディに。AeroPress OriginalまたはGoが必要。",
     },
     links: [
       { network: "amazon-us", productId: "B07SXLMCJ5", rawUrl: "https://www.amazon.com/dp/B07SXLMCJ5", markets: ["US"], approved: true },
@@ -15404,7 +15404,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Ultimate Body Press Dip Bar", ja: "Ultimate Body Press ディップバー" },
     description: {
-      en: "~$80-120. Four-leg freestanding, adjustable handle width (18-24 inches), 300 lb capacity, non-slip rubber feet. Best freestanding option — stable four-point base prevents sliding.",
+      en: "Four-leg freestanding, adjustable handle width (18-24 inches), 300 lb capacity, non-slip rubber feet. Best freestanding option — stable four-point base prevents sliding.",
       ja: "約1万2千〜1万8千円。4本脚フリースタンディング、調整可能ハンドル幅（45〜60cm）、136kg耐荷重、滑り止めゴム足。最高のフリースタンディングオプション——安定した4点ベースで滑りを防止。",
     },
     links: [
@@ -15420,7 +15420,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "REP Fitness Dip Bar", ja: "REP Fitness ディップバー" },
     description: {
-      en: "~$120-160. Heavy-gauge 11-gauge steel, knurled handles, fixed 22-inch width. Best freestanding dip bar overall — knurled handles improve grip, heavier construction reduces flex under load.",
+      en: "Heavy-gauge 11-gauge steel, knurled handles, fixed 22-inch width. Best freestanding dip bar overall — knurled handles improve grip, heavier construction reduces flex under load.",
       ja: "約1万5千〜2万2千円。重ゲージ11ゲージスチール、ナーリング付きハンドル、固定22インチ幅。全体として最高のフリースタンディングディップバー——ナーリングがグリップを向上、重い構造で荷重下のたわみを減少。",
     },
     links: [
@@ -15436,7 +15436,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Rogue Matador Dip Attachment", ja: "Rogue Matador ディップアタッチメント" },
     description: {
-      en: "~$80-100. Rack attachment (Rogue compatible), multiple height positions, 1.25-inch knurled bars. Best for power rack owners — zero wobble under maximum load. Requires compatible Rogue rack.",
+      en: "Rack attachment (Rogue compatible), multiple height positions, 1.25-inch knurled bars. Best for power rack owners — zero wobble under maximum load. Requires compatible Rogue rack.",
       ja: "約1万2千〜1万6千円。ラックアタッチメント（Rogue互換）、複数高さポジション、1.25インチナーリングバー。パワーラックオーナーに最適——最大荷重でゼロのぐらつき。互換性のあるRogueラックが必要。",
     },
     links: [
@@ -15452,8 +15452,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "CAP Barbell Dip Bar Stand", ja: "CAP Barbell ディップバースタンド" },
     description: {
-      en: "~$40-70. Budget freestanding, V-leg base, 300 lb capacity. Best entry-level option for bodyweight dips on carpet. Adequate for beginners; noticeable flex under loaded dips.",
-      ja: "約6,000〜10,000円。予算フリースタンディング、Vレッグベース、136kg耐荷重。カーペット上の体重ディップスへの最高エントリーレベルオプション。ビギナーに十分；加重ディップスで顕著なたわみ。",
+      en: "Budget freestanding, V-leg base, 300 lb capacity. Best entry-level option for bodyweight dips on carpet. Adequate for beginners; noticeable flex under loaded dips.",
+      ja: "予算フリースタンディング、Vレッグベース、136kg耐荷重。カーペット上の体重ディップスへの最高エントリーレベルオプション。ビギナーに十分；加重ディップスで顕著なたわみ。",
     },
     links: [
       { network: "amazon-us", productId: "B001B1BDR8", rawUrl: "https://www.amazon.com/dp/B001B1BDR8", markets: ["US"], approved: true },
@@ -15468,7 +15468,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Valor Fitness BD-62 Dip Bar", ja: "Valor Fitness BD-62 ディップバー" },
     description: {
-      en: "~$80-110. Adjustable height (4 positions), welded steel, rubber end caps. Best for versatile bodyweight training — height adjustment enables L-sits, push-up variations, and more.",
+      en: "Adjustable height (4 positions), welded steel, rubber end caps. Best for versatile bodyweight training — height adjustment enables L-sits, push-up variations, and more.",
       ja: "約1万2千〜1万6千円。調整可能高さ（4ポジション）、溶接スチール、ゴム端キャップ。汎用体重トレーニングに最適——高さ調整がLシット・プッシュアップバリエーション・その他の動作を可能に。",
     },
     links: [
@@ -15485,8 +15485,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Bodum Chambord French Press", ja: "Bodum Chambord フレンチプレス" },
     description: {
-      en: "~$35-50. Borosilicate glass carafe, stainless frame, single-mesh plunger. The reference French press — correct for most households. Sediment expected. Glass loses heat quickly.",
-      ja: "約4,500〜7,000円。ホウケイ酸ガラスカラフェ、ステンレスフレーム、シングルメッシュプランジャー。参照フレンチプレス——ほとんどの家庭に正しい選択。沈殿物は予想通り。ガラスは熱をすぐに失う。",
+      en: "Borosilicate glass carafe, stainless frame, single-mesh plunger. The reference French press — correct for most households. Sediment expected. Glass loses heat quickly.",
+      ja: "ホウケイ酸ガラスカラフェ、ステンレスフレーム、シングルメッシュプランジャー。参照フレンチプレス——ほとんどの家庭に正しい選択。沈殿物は予想通り。ガラスは熱をすぐに失う。",
     },
     links: [
       { network: "amazon-us", productId: "B00005MF67", rawUrl: "https://www.amazon.com/dp/B00005MF67", markets: ["US"], approved: true },
@@ -15501,7 +15501,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Fellow Clara French Press", ja: "Fellow Clara フレンチプレス" },
     description: {
-      en: "~$80-100. Double-wall stainless carafe, premium design. Keeps brew hot 45-60 min. Best for households that let coffee sit. Marginally better filtration than standard mesh.",
+      en: "Double-wall stainless carafe, premium design. Keeps brew hot 45-60 min. Best for households that let coffee sit. Marginally better filtration than standard mesh.",
       ja: "約1万2千〜1万5千円。二重壁ステンレスカラフェ、プレミアムデザイン。45〜60分間熱いままを保ちます。コーヒーを置く家庭に最適。標準メッシュよりわずかに優れたフィルタリング。",
     },
     links: [
@@ -15517,7 +15517,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Espro P3 French Press", ja: "Espro P3 フレンチプレス" },
     description: {
-      en: "~$60-80. Patented double micro-filter dramatically reduces sediment. Best clean-cup French press — dual micro-filter removes fines while retaining oils. Ideal if you dislike sediment but love French press body.",
+      en: "Patented double micro-filter dramatically reduces sediment. Best clean-cup French press — dual micro-filter removes fines while retaining oils. Ideal if you dislike sediment but love French press body.",
       ja: "約8,000〜1万2千円。特許取得済み二重マイクロフィルターが沈殿物を劇的に減少。最高クリーンカップフレンチプレス——デュアルマイクロフィルターが油を保持しながらファインズを除去。沈殿物が嫌いだがボディが好きな方に。",
     },
     links: [
@@ -15533,7 +15533,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Frieling Double-Wall French Press", ja: "Frieling 二重壁フレンチプレス" },
     description: {
-      en: "~$80-120. Double-wall stainless, four-part spring-loaded filtration, keeps hot 1 hour. Best heat retention — utilitarian over aesthetic. Four-part plunger minimizes bypass flow.",
+      en: "Double-wall stainless, four-part spring-loaded filtration, keeps hot 1 hour. Best heat retention — utilitarian over aesthetic. Four-part plunger minimizes bypass flow.",
       ja: "約1万2千〜1万8千円。二重壁ステンレス、4部品スプリング式フィルタリング、1時間熱いまま。最高保温性——美観より実用。4部品プランジャーでバイパスフローを最小化。",
     },
     links: [
@@ -15549,8 +15549,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Mueller French Press", ja: "Mueller フレンチプレス" },
     description: {
-      en: "~$25-35. Stainless carafe (single-wall), multi-layer filtration. Lowest-cost functional French press. Better heat retention than glass. Entry point for first-time brewers.",
-      ja: "約3,500〜5,000円。ステンレスカラフェ（シングル壁）、多層フィルタリング。最低コストの機能的フレンチプレス。ガラスより優れた保温性。初めての醸造者のエントリーポイント。",
+      en: "Stainless carafe (single-wall), multi-layer filtration. Lowest-cost functional French press. Better heat retention than glass. Entry point for first-time brewers.",
+      ja: "ステンレスカラフェ（シングル壁）、多層フィルタリング。最低コストの機能的フレンチプレス。ガラスより優れた保温性。初めての醸造者のエントリーポイント。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-mueller-french-press", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMueller+%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%97%E3%83%AC%E3%82%B9%2F", markets: ["JP"], approved: true },
@@ -15565,7 +15565,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "REP Fitness AB-5000 Adjustable Bench", ja: "REP Fitness AB-5000 調整可能ベンチ" },
     description: {
-      en: "~$350-400. 11-gauge steel, 7 back positions, DuraFirm 3-inch pad, 1000 lb capacity. Best adjustable bench overall — stable through heavy incline sets. For athletes pressing 60+ lb dumbbells.",
+      en: "11-gauge steel, 7 back positions, DuraFirm 3-inch pad, 1000 lb capacity. Best adjustable bench overall — stable through heavy incline sets. For athletes pressing 60+ lb dumbbells.",
       ja: "約5万〜6万円。11ゲージスチール、7バックポジション、DuraFirm 3インチパッド、450kg耐荷重。最高の調整可能ベンチ——重いインクラインセットを通じて安定。各手27kg以上のダンベルをプレスするアスリートに。",
     },
     links: [
@@ -15581,7 +15581,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Rogue Monster Utility Bench", ja: "Rogue Monster ユーティリティベンチ" },
     description: {
-      en: "~$245-320. 3x3 11-gauge steel, flat only, 4-inch foam, 1000 lb capacity. Best flat bench — commercial-grade stability, Rogue rack compatible. For athletes whose primary movement is flat barbell press.",
+      en: "3x3 11-gauge steel, flat only, 4-inch foam, 1000 lb capacity. Best flat bench — commercial-grade stability, Rogue rack compatible. For athletes whose primary movement is flat barbell press.",
       ja: "約3万5千〜4万5千円。3x3 11ゲージスチール、フラットのみ、4インチフォーム、450kg耐荷重。最高のフラットベンチ——商業グレード安定性、Rogueラック互換。フラットバーベルプレスが主な動作のアスリートに。",
     },
     links: [
@@ -15597,7 +15597,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Flybird Adjustable Weight Bench", ja: "Flybird 調整可能ウェイトベンチ" },
     description: {
-      en: "~$100-140. Folding design, 7 back positions, 3 seat positions. Budget adjustable bench — adequate for light loading. Noticeable wobble with heavy dumbbells at incline. Entry point for new lifters.",
+      en: "Folding design, 7 back positions, 3 seat positions. Budget adjustable bench — adequate for light loading. Noticeable wobble with heavy dumbbells at incline. Entry point for new lifters.",
       ja: "約1万5千〜2万円。折りたたみ設計、7バックポジション、3シートポジション。予算調整可能ベンチ——軽い荷重に十分。重いダンベルでの傾斜で著しいぐらつき。新リフターのエントリーポイント。",
     },
     links: [
@@ -15613,7 +15613,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Fitness Reality 1000 Super Max Bench", ja: "Fitness Reality 1000 Super Max ベンチ" },
     description: {
-      en: "~$150-200. Higher-gauge steel, 1000 lb capacity, adjustable. Mid-tier adjustable bench — meaningfully more stable than Flybird. Good for lifters loading 40-70 lb dumbbells.",
+      en: "Higher-gauge steel, 1000 lb capacity, adjustable. Mid-tier adjustable bench — meaningfully more stable than Flybird. Good for lifters loading 40-70 lb dumbbells.",
       ja: "約2万5千〜3万円。より高いゲージスチール、450kg耐荷重、調整可能。中間調整可能ベンチ——Flybirdより意味のある向上。各手18〜32kgのダンベルを積むリフターに良い。",
     },
     links: [
@@ -15628,7 +15628,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "PRIME Fitness Adjustable Bench", ja: "PRIME Fitness アジャスタブルベンチ" },
     description: {
-      en: "~$100-150. Commercial-style flat bench, 1000+ lb capacity, 2.5-inch firm foam. Best flat bench for the price — outperforms budget adjustable benches for flat pressing. Narrow footprint fits inside power racks.",
+      en: "Commercial-style flat bench, 1000+ lb capacity, 2.5-inch firm foam. Best flat bench for the price — outperforms budget adjustable benches for flat pressing. Narrow footprint fits inside power racks.",
       ja: "約1万5千〜2万円。商業スタイルフラットベンチ、450kg+耐荷重、2.5インチ硬質フォーム。価格に対して最高のフラットベンチ——フラットプレス安定性で予算調整可能ベンチを超える。狭いフットプリントでパワーラック内に収まる。",
     },
     links: [
@@ -15645,8 +15645,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Chemex Classic 6-Cup", ja: "Chemex クラシック 6カップ" },
     description: {
-      en: "~$45-55. Classic hourglass borosilicate glass, wooden collar, leather tie. Brews ~850 ml (3 standard mugs). Standard for 1-2 person households. Requires Chemex bonded filters.",
-      ja: "約6,500〜8,000円。クラシック砂時計ホウケイ酸ガラス、木製カラー、レザータイ。約850ml（3杯）。1〜2人世帯の標準。Chemex専用フィルター必須。",
+      en: "Classic hourglass borosilicate glass, wooden collar, leather tie. Brews ~850 ml (3 standard mugs). Standard for 1-2 person households. Requires Chemex bonded filters.",
+      ja: "クラシック砂時計ホウケイ酸ガラス、木製カラー、レザータイ。約850ml（3杯）。1〜2人世帯の標準。Chemex専用フィルター必須。",
     },
     links: [
       { network: "amazon-us", productId: "B000IKLQZK", rawUrl: "https://www.amazon.com/dp/B000IKLQZK", markets: ["US"], approved: true },
@@ -15661,7 +15661,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Chemex Classic 8-Cup", ja: "Chemex クラシック 8カップ" },
     description: {
-      en: "~$55-65. Same Classic hourglass design, larger capacity — brews up to 1.1 L. Best for 3+ person households. Wooden collar, not dishwasher-safe.",
+      en: "Same Classic hourglass design, larger capacity — brews up to 1.1 L. Best for 3+ person households. Wooden collar, not dishwasher-safe.",
       ja: "約8,000〜1万円。同じクラシック砂時計デザイン、より大きな容量——最大1.1L。3人以上の世帯に最適。木製カラー、食洗機非対応。",
     },
     links: [
@@ -15677,7 +15677,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Chemex Glass Handle 8-Cup", ja: "Chemex グラスハンドル 8カップ" },
     description: {
-      en: "~$55-70. Same borosilicate glass, molded glass handle replaces wooden collar — fully dishwasher-safe. Identical brewing performance. More streamlined aesthetic.",
+      en: "Same borosilicate glass, molded glass handle replaces wooden collar — fully dishwasher-safe. Identical brewing performance. More streamlined aesthetic.",
       ja: "約8,000〜1万円。同じホウケイ酸ガラス、成形グラスハンドルが木製カラーを置き換え——完全に食洗機対応。同一の抽出パフォーマンス。より流線型の美観。",
     },
     links: [
@@ -15693,8 +15693,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Chemex Bonded Filters (100-count)", ja: "Chemex 専用フィルター（100枚）" },
     description: {
-      en: "~$10-15 per 100 count. Proprietary thick paper filters — not interchangeable with standard filters. Required consumable for all Chemex brewers. Available in white or natural unbleached.",
-      ja: "約1,500〜2,000円（100枚）。独自の厚い紙フィルター——標準フィルターと互換性なし。すべてのChemexブリュワーに必須の消耗品。白または自然（無漂白）で入手可能。",
+      en: "Per 100 count. Proprietary thick paper filters — not interchangeable with standard filters. Required consumable for all Chemex brewers. Available in white or natural unbleached.",
+      ja: "独自の厚い紙フィルター——標準フィルターと互換性なし。すべてのChemexブリュワーに必須の消耗品。白または自然（無漂白）で入手可能。",
     },
     links: [
       { network: "amazon-us", productId: "B000IKLQZI", rawUrl: "https://www.amazon.com/dp/B000IKLQZI", markets: ["US"], approved: true },
@@ -15709,8 +15709,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Hario V60 02 Pour-Over", ja: "Hario V60 02 ポアオーバー" },
     description: {
-      en: "~$25-35 (plastic). Single-serve pour-over dripper, spiral ribs, 60° cone. Thinner filter than Chemex — more body, faster flow, more extraction control. Requires separate server or mug.",
-      ja: "約3,500〜5,000円（プラスチック）。シングルサーブポアオーバードリッパー、スパイラルリブ、60°コーン。Chemexより薄いフィルター——より多くのボディ・より速いフロー・より多くの抽出コントロール。別のサーバーまたはマグが必要。",
+      en: "(plastic). Single-serve pour-over dripper, spiral ribs, 60° cone. Thinner filter than Chemex — more body, faster flow, more extraction control. Requires separate server or mug.",
+      ja: "シングルサーブポアオーバードリッパー、スパイラルリブ、60°コーン。Chemexより薄いフィルター——より多くのボディ・より速いフロー・より多くの抽出コントロール。別のサーバーまたはマグが必要。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-hario-v60", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60%2F", markets: ["JP"], approved: true },
@@ -15725,7 +15725,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Marcy Lat Pulldown Machine", ja: "Marcy ラットプルダウンマシン" },
     description: {
-      en: "~$350-450. Dual station (lat pulldown + low row), 150 lb stack, 2:1 ratio (~75 lb effective). Compact footprint. Budget dedicated lat pulldown — correct for entry-level home gym.",
+      en: "Dual station (lat pulldown + low row), 150 lb stack, 2:1 ratio (~75 lb effective). Compact footprint. Budget dedicated lat pulldown — correct for entry-level home gym.",
       ja: "約5万〜6万5千円。デュアルステーション（ラットプルダウン＋ローロウ）、150lbスタック、2:1比（実効約34kg）。コンパクト。予算専用ラットプルダウン——エントリーレベルホームジムに正しい選択。",
     },
     links: [
@@ -15741,7 +15741,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Body-Solid Lat Pulldown Machine", ja: "Body-Solid ラットプルダウンマシン" },
     description: {
-      en: "~$500-700. Heavy-gauge steel, 200+ lb stacks, dual pulley system. Best dedicated lat pulldown — commercial feel, better cable quality. Worth premium for athletes using lat pulldown as primary training tool.",
+      en: "Heavy-gauge steel, 200+ lb stacks, dual pulley system. Best dedicated lat pulldown — commercial feel, better cable quality. Worth premium for athletes using lat pulldown as primary training tool.",
       ja: "約7万〜10万円。重いゲージスチール、200lb以上のスタック、デュアルプーリーシステム。最高の専用ラットプルダウン——商業的な感覚・より良いケーブル品質。ラットプルダウンを主要ツールとするアスリートにプレミアムの価値あり。",
     },
     links: [
@@ -15757,7 +15757,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Valor Fitness CB-12 Cable Station", ja: "Valor Fitness CB-12 ケーブルステーション" },
     description: {
-      en: "~$300-400. 150 lb stack, compact 3x3 ft footprint, high and low cable positions. Most space-efficient lat pulldown — lowest cost purpose-built option. 75 lb effective resistance limits long-term use for stronger athletes.",
+      en: "150 lb stack, compact 3x3 ft footprint, high and low cable positions. Most space-efficient lat pulldown — lowest cost purpose-built option. 75 lb effective resistance limits long-term use for stronger athletes.",
       ja: "約4万5千〜6万円。150lbスタック、コンパクト90x90cmフットプリント、高と低ケーブルポジション。最もスペース効率の高いラットプルダウン——最低コストの専用オプション。75lb実効抵抗はより強いアスリートの長期的使用を制限。",
     },
     links: [
@@ -15773,7 +15773,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Force USA Functional Trainer", ja: "Force USA 機能的トレーナー" },
     description: {
-      en: "~$800-1,200. Dual independent stacks, height-adjustable cables, 2:1 ratio, 150-200 lb stacks. Best functional trainer for home gym — full cable exercise library, replaces multiple machines. Better warranty than competitors.",
+      en: "Dual independent stacks, height-adjustable cables, 2:1 ratio, 150-200 lb stacks. Best functional trainer for home gym — full cable exercise library, replaces multiple machines. Better warranty than competitors.",
       ja: "約11万〜17万円。デュアル独立スタック、高さ調整可能ケーブル、2:1比、150〜200lbスタック。ホームジムに最高の機能的トレーナー——完全なケーブルエクササイズライブラリー、複数のマシンを置き換え。競合より優れた保証。",
     },
     links: [
@@ -15788,7 +15788,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Titan Fitness Functional Trainer", ja: "Titan Fitness 機能的トレーナー" },
     description: {
-      en: "~$700-1,000. Full functional trainer, adjustable cable heights, dual independent stacks. More accessory options than Force USA. Requires 8 ft ceiling. Correct if you want all cable exercises from one machine.",
+      en: "Full functional trainer, adjustable cable heights, dual independent stacks. More accessory options than Force USA. Requires 8 ft ceiling. Correct if you want all cable exercises from one machine.",
       ja: "約10万〜14万円。完全機能的トレーナー、調整可能ケーブル高さ、デュアル独立スタック。Force USAよりも多くのアクセサリーオプション。天井高240cm必要。1台から全ケーブルエクササイズが欲しい場合に正しい選択。",
     },
     links: [
@@ -15805,7 +15805,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Baratza Encore Burr Grinder", ja: "Baratza Encore バーグラインダー" },
     description: {
-      en: "~$140-160 (often on sale ~$130). 40mm conical steel burrs, 40 settings, repairable. Benchmark entry grinder — covers all non-espresso methods, 10+ year lifespan. Slightly above $100 but best value overall.",
+      en: "40mm conical steel burrs, 40 settings, repairable. Benchmark entry grinder — covers all non-espresso methods, 10+ year lifespan. Best value overall.",
       ja: "約1万8千〜2万2千円（セール時〜1万9千円）。40mmコニカルスチールバー、40設定、修理可能。基準エントリーグラインダー——全非エスプレッソ方法をカバー、10年以上の寿命。1万円の閾値をわずかに超えるが全体的に最高の価値。",
     },
     links: [
@@ -15820,7 +15820,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "OXO Brew Conical Burr Grinder", ja: "OXO Brew コニカルバーグラインダー" },
     description: {
-      en: "~$80-100. 15 settings, integrated scale, stainless conical burrs. Best sub-$100 electric grinder — built-in scale for weight dosing, quiet motor. Covers all drip-to-French press methods.",
+      en: "15 settings, integrated scale, stainless conical burrs. Best budget electric grinder — built-in scale for weight dosing, quiet motor. Covers all drip-to-French press methods.",
       ja: "約1万1千〜1万5千円。15設定、一体型スケール、ステンレスコニカルバー。最高の1万円以下電動グラインダー——内蔵スケールで重量ドーシング、静かなモーター。ドリップからフレンチプレスまですべての方法をカバー。",
     },
     links: [
@@ -15836,7 +15836,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Capresso Infinity Plus Burr Grinder", ja: "Capresso Infinity Plus バーグラインダー" },
     description: {
-      en: "~$75-100. 16 settings, slow 450 RPM motor, stainless conical burrs. Best low-static grinder — slow speed reduces heat and clumping. Timer dosing. Solid grind quality for the price.",
+      en: "16 settings, slow 450 RPM motor, stainless conical burrs. Best low-static grinder — slow speed reduces heat and clumping. Timer dosing. Solid grind quality for the price.",
       ja: "約1万〜1万5千円。16設定、低速450 RPMモーター、ステンレスコニカルバー。最高の低静電気グラインダー——低速が熱と塊を減少。タイマードーシング。価格に対して確かな挽き目品質。",
     },
     links: [
@@ -15852,7 +15852,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Bodum Bistro Burr Coffee Grinder", ja: "Bodum Bistro バーコーヒーグラインダー" },
     description: {
-      en: "~$50-80. 12 settings, glass grounds container (reduces static), conical steel burrs. Entry-level budget grinder — fewest settings, lightest construction. Correct for first-time burr grinder buyers at minimum price.",
+      en: "12 settings, glass grounds container (reduces static), conical steel burrs. Entry-level budget grinder — fewest settings, lightest construction. Correct for first-time burr grinder buyers at minimum price.",
       ja: "約7,000〜1万2千円。12設定、ガラス粉末コンテナ（静電気減少）、コニカルスチールバー。エントリーレベル予算グラインダー——最小設定数、最も軽い構造。最低価格でのバーグラインダー初心者購入者に正しい選択。",
     },
     links: [
@@ -15868,8 +15868,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "JavaPresse Manual Burr Grinder", ja: "JavaPresse 手動バーグラインダー" },
     description: {
-      en: "~$25-40. Ceramic conical burrs, adjustable settings, hand crank. Best manual burr grinder — consistent grind, travel-ready, no power. ~1-2 min per cup by hand. For travel, camping, or low-volume daily use.",
-      ja: "約3,500〜6,000円。セラミックコニカルバー、調整可能設定、手回しハンドル。最高の手動バーグラインダー——一貫した挽き目・旅行対応・電源不要。手動で1カップ約1〜2分。旅行・キャンプ・少量毎日使用に。",
+      en: "Ceramic conical burrs, adjustable settings, hand crank. Best manual burr grinder — consistent grind, travel-ready, no power. ~1-2 min per cup by hand. For travel, camping, or low-volume daily use.",
+      ja: "セラミックコニカルバー、調整可能設定、手回しハンドル。最高の手動バーグラインダー——一貫した挽き目・旅行対応・電源不要。手動で1カップ約1〜2分。旅行・キャンプ・少量毎日使用に。",
     },
     links: [
       { network: "amazon-us", productId: "B013R3Q7B2", rawUrl: "https://www.amazon.com/dp/B013R3Q7B2", markets: ["US"], approved: true },
@@ -15885,7 +15885,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Prime Fitness Hip Thrust Machine", ja: "Prime Fitness ヒップスラストマシン" },
     description: {
-      en: "~$800-1,200. Purpose-built hip thrust station, padded lever arm, back pad height adjustment. Eliminates setup time, comfortable. Specialty purchase for glute-focused gyms — same stimulus as barbell + bench at much higher cost.",
+      en: "Purpose-built hip thrust station, padded lever arm, back pad height adjustment. Eliminates setup time, comfortable. Specialty purchase for glute-focused gyms — same stimulus as barbell + bench at much higher cost.",
       ja: "約12万〜17万円。専用ヒップスラストステーション、パッド付きレバーアーム、バックパッド高さ調整。セットアップ時間を排除、快適。グルートフォーカスジムへの専門購入——バーベル+ベンチと同じ刺激をはるかに高いコストで。",
     },
     links: [
@@ -15900,7 +15900,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "REP Fitness Glute-Ham Developer (GHD)", ja: "REP Fitness グルートハムデベロッパー（GHD）" },
     description: {
-      en: "~$400-600. Glute-ham raises, back extensions, hyperextensions. Best posterior chain machine — trains hamstrings through both functions simultaneously. For comprehensive posterior chain work without a leg curl machine.",
+      en: "Glute-ham raises, back extensions, hyperextensions. Best posterior chain machine — trains hamstrings through both functions simultaneously. For comprehensive posterior chain work without a leg curl machine.",
       ja: "約5万5千〜8万5千円。グルートハムレイズ・バックエクステンション・ハイパーエクステンション。最高の後方連鎖マシン——ハムストリングを両機能で同時にトレーニング。レッグカールマシンなしの包括的な後方連鎖作業に。",
     },
     links: [
@@ -15916,7 +15916,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Body-Solid Hip Abductor Machine", ja: "Body-Solid ヒップアブダクターマシン" },
     description: {
-      en: "~$500-800. Seated hip abduction, loads gluteus medius and minimus. Commercial quality for home use. Improves knee stability. Resistance bands provide similar stimulus at much lower cost for most athletes.",
+      en: "Seated hip abduction, loads gluteus medius and minimus. Commercial quality for home use. Improves knee stability. Resistance bands provide similar stimulus at much lower cost for most athletes.",
       ja: "約7万〜12万円。シーテッドヒップアブダクション、中臀筋と小臀筋をロード。ホーム使用の商業品質。膝の安定性改善。レジスタンスバンドがほとんどのアスリートにはるかに低いコストで同様の刺激を提供。",
     },
     links: [
@@ -15931,8 +15931,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Cable Pull-Through Setup (Rope Attachment)", ja: "ケーブルプルスルー設定（ロープアタッチメント）" },
     description: {
-      en: "~$20-30 (rope attachment only). Best cable glute exercise — constant tension through full hip extension. No additional machine if you have a cable machine. Most cost-effective targeted glute loading option.",
-      ja: "約3千〜4,500円（ロープアタッチメントのみ）。最高のケーブルグルートエクササイズ——全股関節伸展で一定のテンション。ケーブルマシンがあれば追加マシン不要。最もコスト効率の高いターゲットグルートローディングオプション。",
+      en: "(rope attachment only). Best cable glute exercise — constant tension through full hip extension. No additional machine if you have a cable machine. Most cost-effective targeted glute loading option.",
+      ja: "ロープアタッチメントのみ。最高のケーブルグルートエクササイズ——全股関節伸展で一定のテンション。ケーブルマシンがあれば追加マシン不要。最もコスト効率の高いターゲットグルートローディングオプション。",
     },
     links: [
       { network: "amazon-us", productId: "B000VB6SOU", rawUrl: "https://www.amazon.com/dp/B000VB6SOU", markets: ["US"], approved: true },
@@ -15947,8 +15947,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Sling Shot Hip Circle Band", ja: "Sling Shot ヒップサークルバンド" },
     description: {
-      en: "~$25-35. Resistance band loop worn above knees. Increases glute medius activation during squats, hip thrusts, and lateral walks. Effective warm-up tool. Meaningful glute stimulus at negligible cost.",
-      ja: "約3,500〜5,000円。膝の上に着用するレジスタンスバンドループ。スクワット・ヒップスラスト・ラテラルウォーク中の中臀筋活性化を増加。効果的なウォームアップツール。取るに足らないコストで意味のあるグルート刺激。",
+      en: "Resistance band loop worn above knees. Increases glute medius activation during squats, hip thrusts, and lateral walks. Effective warm-up tool. Meaningful glute stimulus at negligible cost.",
+      ja: "膝の上に着用するレジスタンスバンドループ。スクワット・ヒップスラスト・ラテラルウォーク中の中臀筋活性化を増加。効果的なウォームアップツール。取るに足らないコストで意味のあるグルート刺激。",
     },
     links: [
       { network: "amazon-us", productId: "B01DKQT2SK", rawUrl: "https://www.amazon.com/dp/B01DKQT2SK", markets: ["US"], approved: true },
@@ -15964,8 +15964,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Kalita Wave 185 Stainless", ja: "Kalita Wave 185 ステンレス" },
     description: {
-      en: "~$40-55. Stainless steel, 2-4 cup capacity, dishwasher safe. Most durable Wave — no breakage risk, travel-friendly, good heat retention. Correct for most households.",
-      ja: "約5,500〜8,000円。ステンレススチール、2〜4カップ容量、食洗機対応。最も耐久性のあるWave——破損リスクなし、旅行に優しく、良い保温性。ほとんどの家庭に正しい選択。",
+      en: "Stainless steel, 2-4 cup capacity, dishwasher safe. Most durable Wave — no breakage risk, travel-friendly, good heat retention. Correct for most households.",
+      ja: "ステンレススチール、2〜4カップ容量、食洗機対応。最も耐久性のあるWave——破損リスクなし、旅行に優しく、良い保温性。ほとんどの家庭に正しい選択。",
     },
     links: [
       { network: "amazon-us", productId: "B001NGOV1U", rawUrl: "https://www.amazon.com/dp/B001NGOV1U", markets: ["US"], approved: true },
@@ -15980,8 +15980,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Kalita Wave 155 Ceramic", ja: "Kalita Wave 155 セラミック" },
     description: {
-      en: "~$35-50. Ceramic, single-serve 1-2 cup capacity, good heat retention. Best single-serve Wave — ceramic provides clean flavor, no metallic taste. More fragile than stainless.",
-      ja: "約5,000〜7,500円。セラミック、シングルサーブ1〜2カップ容量、良い保温性。最高のシングルサーブWave——セラミックがクリーンな風味を提供し金属味なし。ステンレスより壊れやすい。",
+      en: "Ceramic, single-serve 1-2 cup capacity, good heat retention. Best single-serve Wave — ceramic provides clean flavor, no metallic taste. More fragile than stainless.",
+      ja: "セラミック、シングルサーブ1〜2カップ容量、良い保温性。最高のシングルサーブWave——セラミックがクリーンな風味を提供し金属味なし。ステンレスより壊れやすい。",
     },
     links: [
       { network: "amazon-us", productId: "B001NGOV0G", rawUrl: "https://www.amazon.com/dp/B001NGOV0G", markets: ["US"], approved: true },
@@ -15996,8 +15996,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Kalita Wave 185 Glass", ja: "Kalita Wave 185 ガラス" },
     description: {
-      en: "~$45-60. Borosilicate glass, 2-4 cup capacity, transparent. Best for visual learners — watch bloom, observe extraction, see channeling. Less heat retention than ceramic or stainless.",
-      ja: "約6,500〜8,500円。ホウケイ酸ガラス、2〜4カップ容量、透明。視覚的学習者に最適——蒸らし観察・抽出確認・チャネリングを見る。セラミックやステンレスより保温性低め。",
+      en: "Borosilicate glass, 2-4 cup capacity, transparent. Best for visual learners — watch bloom, observe extraction, see channeling. Less heat retention than ceramic or stainless.",
+      ja: "ホウケイ酸ガラス、2〜4カップ容量、透明。視覚的学習者に最適——蒸らし観察・抽出確認・チャネリングを見る。セラミックやステンレスより保温性低め。",
     },
     links: [
       { network: "amazon-us", productId: "B001NGOV1E", rawUrl: "https://www.amazon.com/dp/B001NGOV1E", markets: ["US"], approved: true },
@@ -16012,8 +16012,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Kalita Wave Filters 185", ja: "Kalita Wave フィルター 185" },
     description: {
-      en: "~$10-15 per 100 count. Wave-shaped pleated paper filters for Wave 185. Required — not interchangeable with other drippers. Creates air gap between filter and dripper walls for even extraction.",
-      ja: "約1,500〜2,000円（100枚）。Wave 185用ウェーブ形状プリーツ紙フィルター。必須——他のドリッパーと互換性なし。フィルターとドリッパーの壁の間に空気ギャップを作り均一な抽出を実現。",
+      en: "Per 100 count. Wave-shaped pleated paper filters for Wave 185. Required — not interchangeable with other drippers. Creates air gap between filter and dripper walls for even extraction.",
+      ja: "Wave 185用ウェーブ形状プリーツ紙フィルター。必須——他のドリッパーと互換性なし。フィルターとドリッパーの壁の間に空気ギャップを作り均一な抽出を実現。",
     },
     links: [
       { network: "amazon-us", productId: "B001NGOV20", rawUrl: "https://www.amazon.com/dp/B001NGOV20", markets: ["US"], approved: true },
@@ -16028,7 +16028,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Fellow Stagg EKG Electric Kettle", ja: "Fellow Stagg EKG 電気ケトル" },
     description: {
-      en: "~$150-170. Gooseneck spout, variable temperature 57-100°C, hold function, 0.9 L. Best pour-over kettle — precise flow control, exact temperature setting, 60-min hold. Correct pairing for Kalita Wave, V60, and Chemex.",
+      en: "Gooseneck spout, variable temperature 57-100°C, hold function, 0.9 L. Best pour-over kettle — precise flow control, exact temperature setting, 60-min hold. Correct pairing for Kalita Wave, V60, and Chemex.",
       ja: "約2万〜2万5千円。グースネックスパウト、可変温度57〜100℃、保温機能、0.9L。最高のポアオーバーケトル——精密なフロー制御・正確な温度設定・60分保温。Kalita Wave・V60・Chemexとの最適なペアリング。",
     },
     links: [
@@ -16045,8 +16045,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "CAP Barbell Olympic EZ Curl Bar", ja: "CAP Barbell オリンピックEZカールバー" },
     description: {
-      en: "~$40-60. Olympic (2-inch sleeves), 47 inches, ~18 lb bar, chrome finish, bushing sleeves. Best budget Olympic EZ curl bar — adequate for all arm training loads. Correct entry choice for Olympic plate owners.",
-      ja: "約6,000〜9,000円。オリンピック（2インチスリーブ）、119cm、バー約8kg、クローム仕上げ、ブッシングスリーブ。最高の予算オリンピックEZカールバー——すべてのアームトレーニング荷重に十分。オリンピックプレートオーナーのエントリー選択に正しい。",
+      en: "Olympic (2-inch sleeves), 47 inches, ~18 lb bar, chrome finish, bushing sleeves. Best budget Olympic EZ curl bar — adequate for all arm training loads. Correct entry choice for Olympic plate owners.",
+      ja: "オリンピック（2インチスリーブ）、119cm、バー約8kg、クローム仕上げ、ブッシングスリーブ。最高の予算オリンピックEZカールバー——すべてのアームトレーニング荷重に十分。オリンピックプレートオーナーのエントリー選択に正しい。",
     },
     links: [
       { network: "amazon-us", productId: "B01LXO5UMH", rawUrl: "https://www.amazon.com/dp/B01LXO5UMH", markets: ["US"], approved: true },
@@ -16061,7 +16061,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Rogue Curl Bar", ja: "Rogue カールバー" },
     description: {
-      en: "~$225-270. 28mm shaft, bronze bushings, bright zinc chrome, ~22 lb bar, dual knurl marks. Premium EZ curl bar — best build quality, correct for heavy loaded curls (100+ lbs) and athletes who want long-term durability.",
+      en: "28mm shaft, bronze bushings, bright zinc chrome, ~22 lb bar, dual knurl marks. Premium EZ curl bar — best build quality, correct for heavy loaded curls (100+ lbs) and athletes who want long-term durability.",
       ja: "約3万3千〜4万円。28mm軸、ブロンズブッシング、ブライトジンククローム、バー約10kg、デュアルナーリングマーク。プレミアムEZカールバー——最高の構造品質、重いローデッドカール（45kg以上）と長期耐久性を望むアスリートに正しい。",
     },
     links: [
@@ -16077,7 +16077,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Body-Solid EZ Curl Bar", ja: "Body-Solid EZカールバー" },
     description: {
-      en: "~$55-80. Olympic EZ curl, improved knurling over CAP, consistent finish. Mid-range upgrade from CAP — better knurl quality without premium pricing. Bushing sleeves adequate for arm training loads.",
+      en: "Olympic EZ curl, improved knurling over CAP, consistent finish. Mid-range upgrade from CAP — better knurl quality without premium pricing. Bushing sleeves adequate for arm training loads.",
       ja: "約8,000〜1万2千円。オリンピックEZカール、CAPより改善されたナーリング、一貫した仕上げ。CAPからの中間アップグレード——プレミアム価格なしにより良いナーリング品質。ブッシングスリーブはアームトレーニング荷重に十分。",
     },
     links: [
@@ -16093,7 +16093,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Titan Fitness Olympic EZ Curl Bar", ja: "Titan Fitness オリンピックEZカールバー" },
     description: {
-      en: "~$65-90. Olympic (2-inch sleeves), medium aggressive knurl, consistent finish. Best mid-tier EZ curl bar — better than CAP, significantly less than Rogue. Correct for home gym athletes wanting quality without Rogue premium.",
+      en: "Olympic (2-inch sleeves), medium aggressive knurl, consistent finish. Best mid-tier EZ curl bar — better than CAP, significantly less than Rogue. Correct for home gym athletes wanting quality without Rogue premium.",
       ja: "約1万〜1万5千円。オリンピック（2インチスリーブ）、中程度の積極的なナーリング、一貫した仕上げ。最高の中間層EZカールバー——CAPより良く、Rogueより著しく安価。Rogueプレミアムなしに品質を望むホームジムアスリートに正しい。",
     },
     links: [
@@ -16109,8 +16109,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Standard EZ Curl Bar (25mm)", ja: "標準EZカールバー (25mm)" },
     description: {
-      en: "~$25-45. Standard (1-inch sleeves), ~10-12 lb bar, shorter length. Correct for athletes with standard 1-inch plates. Not compatible with Olympic plates. Adequate for bicep curls and tricep extensions at home gym loads.",
-      ja: "約3,500〜6,500円。標準（1インチスリーブ）、バー約4.5〜5.5kg、より短い長さ。標準1インチプレートを持つアスリートに正しい。オリンピックプレートと互換性なし。ホームジム荷重でのバイセップカールとトライセップエクステンションに十分。",
+      en: "Standard (1-inch sleeves), ~10-12 lb bar, shorter length. Correct for athletes with standard 1-inch plates. Not compatible with Olympic plates. Adequate for bicep curls and tricep extensions at home gym loads.",
+      ja: "標準（1インチスリーブ）、バー約4.5〜5.5kg、より短い長さ。標準1インチプレートを持つアスリートに正しい。オリンピックプレートと互換性なし。ホームジム荷重でのバイセップカールとトライセップエクステンションに十分。",
     },
     links: [
       { network: "amazon-us", productId: "B00MH4YZW2", rawUrl: "https://www.amazon.com/dp/B00MH4YZW2", markets: ["US"], approved: true },
@@ -16126,8 +16126,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Hario V60 02 Ceramic", ja: "Hario V60 02 セラミック" },
     description: {
-      en: "~$25-35. Ceramic, 02 size (1-4 cups), good heat retention. Best all-around V60 — neutral flavor, good heat retention when pre-heated, classic aesthetic. Correct for most home brewers.",
-      ja: "約2,500〜4,500円。セラミック、02サイズ（1〜4カップ）、良い保温性。最も万能なV60——ニュートラルな風味・予熱後の良い保温性・クラシックな美観。ほとんどのホームブルワーに正しい。",
+      en: "Ceramic, 02 size (1-4 cups), good heat retention. Best all-around V60 — neutral flavor, good heat retention when pre-heated, classic aesthetic. Correct for most home brewers.",
+      ja: "セラミック、02サイズ（1〜4カップ）、良い保温性。最も万能なV60——ニュートラルな風味・予熱後の良い保温性・クラシックな美観。ほとんどのホームブルワーに正しい。",
     },
     links: [
       { network: "amazon-us", productId: "B000P4D5HG", rawUrl: "https://www.amazon.com/dp/B000P4D5HG", markets: ["US"], approved: true },
@@ -16142,8 +16142,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Hario V60 02 Plastic", ja: "Hario V60 02 プラスチック" },
     description: {
-      en: "~$8-15. Plastic, 02 size (1-4 cups), lightweight. Best for travel and beginners — no breakage risk, minimal heat loss, same extraction geometry as ceramic. Best starting point to learn V60 technique.",
-      ja: "約1,000〜2,000円。プラスチック、02サイズ（1〜4カップ）、軽量。旅行と初心者に最適——破損リスクなし・最小限の熱損失・セラミックと同じ抽出ジオメトリ。V60テクニックを学ぶ最適な出発点。",
+      en: "Plastic, 02 size (1-4 cups), lightweight. Best for travel and beginners — no breakage risk, minimal heat loss, same extraction geometry as ceramic. Best starting point to learn V60 technique.",
+      ja: "プラスチック、02サイズ（1〜4カップ）、軽量。旅行と初心者に最適——破損リスクなし・最小限の熱損失・セラミックと同じ抽出ジオメトリ。V60テクニックを学ぶ最適な出発点。",
     },
     links: [
       { network: "amazon-us", productId: "B001NB03GQ", rawUrl: "https://www.amazon.com/dp/B001NB03GQ", markets: ["US"], approved: true },
@@ -16158,8 +16158,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Hario V60 02 Glass", ja: "Hario V60 02 ガラス" },
     description: {
-      en: "~$25-40. Borosilicate glass, 02 size (1-4 cups), transparent. Best for visual learners — watch bloom and extraction. Less heat retention than ceramic. Most fragile. Pre-heat before use.",
-      ja: "約3,500〜5,500円。ホウケイ酸ガラス、02サイズ（1〜4カップ）、透明。視覚的学習者に最適——蒸らしと抽出を観察。セラミックより保温性低め。最も壊れやすい。使用前に予熱を。",
+      en: "Borosilicate glass, 02 size (1-4 cups), transparent. Best for visual learners — watch bloom and extraction. Less heat retention than ceramic. Most fragile. Pre-heat before use.",
+      ja: "ホウケイ酸ガラス、02サイズ（1〜4カップ）、透明。視覚的学習者に最適——蒸らしと抽出を観察。セラミックより保温性低め。最も壊れやすい。使用前に予熱を。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-hario-v60-glass", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHario+V60+%E3%82%AC%E3%83%A9%E3%82%B9%2F", markets: ["JP"], approved: true },
@@ -16173,7 +16173,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Hario V60 02 Metal", ja: "Hario V60 02 メタル" },
     description: {
-      en: "~$60-90. Stainless or copper, 02 size, most durable. Most durable V60 — never breaks, heats evenly, premium aesthetic. Copper version is a display piece. Best for gift or display-quality setup.",
+      en: "Stainless or copper, 02 size, most durable. Most durable V60 — never breaks, heats evenly, premium aesthetic. Copper version is a display piece. Best for gift or display-quality setup.",
       ja: "約8,000〜1万3千円。ステンレスまたは銅、02サイズ、最も耐久性あり。最も耐久性のあるV60——割れない・均一加熱・プレミアム美観。銅バージョンはディスプレイピース。ギフトまたはディスプレイ品質のセットアップに最適。",
     },
     links: [
@@ -16190,7 +16190,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     name: { en: "Hario V60 Paper Filters 02", ja: "Hario V60 ペーパーフィルター 02" },
     description: {
       en: "~$5-10 per 100 count. V60 paper filters, 02 size, white or natural. Required consumable — widely available at grocery stores and specialty coffee retailers. More available than Kalita Wave filters.",
-      ja: "約600〜1,200円（100枚）。V60ペーパーフィルター、02サイズ、ホワイトまたはナチュラル。必須消耗品——スーパーやスペシャルティコーヒー小売店で広く入手可能。Kalita Waveフィルターより入手しやすい。",
+      ja: "V60ペーパーフィルター、02サイズ、ホワイトまたはナチュラル。必須消耗品——スーパーやスペシャルティコーヒー小売店で広く入手可能。Kalita Waveフィルターより入手しやすい。",
     },
     links: [
       { network: "amazon-us", productId: "B001NB0534", rawUrl: "https://www.amazon.com/dp/B001NB0534", markets: ["US"], approved: true },
@@ -16206,7 +16206,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Body-Solid Preacher Curl Bench", ja: "Body-Solid プリーチャーカールベンチ" },
     description: {
-      en: "~$100-150. Heavy-gauge steel, thick HD foam pad, 4-5 position adjustable seat, wide arm pad. Best dedicated preacher curl bench — correct for regular arm hypertrophy training. Wide pad supports both arms for EZ curl bar work.",
+      en: "Heavy-gauge steel, thick HD foam pad, 4-5 position adjustable seat, wide arm pad. Best dedicated preacher curl bench — correct for regular arm hypertrophy training. Wide pad supports both arms for EZ curl bar work.",
       ja: "約1万5千〜2万2千円。重ゲージスチール、厚い高密度フォームパッド、4〜5ポジション調整可能シート、広いアームパッド。最高の専用プリーチャーカールベンチ——定期的なアーム肥大トレーニングに正しい。広いパッドがEZカールバー作業に両腕をサポート。",
     },
     links: [
@@ -16222,7 +16222,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Marcy Preacher Curl Bench", ja: "Marcy プリーチャーカールベンチ" },
     description: {
-      en: "~$70-100. Budget standalone preacher bench, lighter construction, thinner padding. Functional for casual training under 60-70 lbs. Step up to Body-Solid for high-volume arm training.",
+      en: "Budget standalone preacher bench, lighter construction, thinner padding. Functional for casual training under 60-70 lbs. Step up to Body-Solid for high-volume arm training.",
       ja: "約1万〜1万5千円。予算スタンドアロンプリーチャーベンチ、軽い構造、より薄いパッディング。32kg以下のカジュアルトレーニングに機能的。高量アームトレーニングにはBody-Solidに上げること。",
     },
     links: [
@@ -16238,7 +16238,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Valor Fitness Preacher Curl Bench", ja: "Valor Fitness プリーチャーカールベンチ" },
     description: {
-      en: "~$80-120. Mid-range standalone bench, better pad quality than Marcy, stable frame. Good quality-to-price ratio — better padding than budget options without premium cost.",
+      en: "Mid-range standalone bench, better pad quality than Marcy, stable frame. Good quality-to-price ratio — better padding than budget options without premium cost.",
       ja: "約1万2千〜1万8千円。中間レンジスタンドアロンベンチ、Marcyより良いパッド品質、安定したフレーム。良いコストパフォーマンス——予算オプションより良いパッディングでプレミアムコストなし。",
     },
     links: [
@@ -16254,7 +16254,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "REP Fitness Preacher Curl Bench", ja: "REP Fitness プリーチャーカールベンチ" },
     description: {
-      en: "~$130-180. Commercial-grade padding, heavy-gauge frame, wide arm pad, more seat positions. Best quality preacher curl bench — correct for athletes training arm hypertrophy seriously 2+ times per week.",
+      en: "Commercial-grade padding, heavy-gauge frame, wide arm pad, more seat positions. Best quality preacher curl bench — correct for athletes training arm hypertrophy seriously 2+ times per week.",
       ja: "約2万〜2万7千円。商業グレードパッディング、重ゲージフレーム、広いアームパッド、より多いシートポジション。最高品質プリーチャーカールベンチ——週2回以上真剣にアーム肥大トレーニングするアスリートに正しい。",
     },
     links: [
@@ -16270,7 +16270,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Adjustable Preacher Curl Attachment", ja: "調整可能プリーチャーカールアタッチメント" },
     description: {
-      en: "~$40-80. Pad attachment for weight bench, saves floor space, variable stability. Space-efficient alternative to standalone bench. Best for athletes with a quality adjustable bench who want occasional preacher curl capability.",
+      en: "Pad attachment for weight bench, saves floor space, variable stability. Space-efficient alternative to standalone bench. Best for athletes with a quality adjustable bench who want occasional preacher curl capability.",
       ja: "約6,000〜1万2千円。ウェイトベンチ用パッドアタッチメント、省スペース、可変安定性。スタンドアロンベンチへのスペース効率的代替。品質の良い調整可能ベンチを持ち時々プリーチャーカール機能が欲しいアスリートに最適。",
     },
     links: [
@@ -16287,7 +16287,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Hario Next Siphon", ja: "Hario Next サイフォン" },
     description: {
-      en: "~$60-90. 3-cup or 5-cup, improved stand, cloth filter, butane burner compatible. Best current siphon — most stable Hario design, improved cloth filter holder. Correct for serious siphon brewing. Butane burner sold separately.",
+      en: "3-cup or 5-cup, improved stand, cloth filter, butane burner compatible. Best current siphon — most stable Hario design, improved cloth filter holder. Correct for serious siphon brewing. Butane burner sold separately.",
       ja: "約8,500〜1万3千円。3カップまたは5カップ、改善されたスタンド、布フィルター、ブタンバーナー対応。最高の現行サイフォン——最も安定したHarioデザイン、改善された布フィルターホルダー。本格的なサイフォン抽出に正しい。ブタンバーナーは別売り。",
     },
     links: [
@@ -16303,7 +16303,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Yama Glass Siphon 5-Cup", ja: "Yama Glass サイフォン 5カップ" },
     description: {
-      en: "~$70-100. 5-cup (600ml), thick borosilicate glass, cloth or metal filter. Best non-Hario siphon — thicker glass than most, practical 5-cup size for 2-3 people. Good alternative to Hario with comparable cup quality.",
+      en: "5-cup (600ml), thick borosilicate glass, cloth or metal filter. Best non-Hario siphon — thicker glass than most, practical 5-cup size for 2-3 people. Good alternative to Hario with comparable cup quality.",
       ja: "約1万〜1万5千円。5カップ（600ml）、厚いホウケイ酸ガラス、布またはメタルフィルター。最高の非Harioサイフォン——ほとんどより厚いガラス、2〜3人に実用的な5カップサイズ。同等のカップ品質でHarioの良い代替。",
     },
     links: [
@@ -16319,7 +16319,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Hario Technica Siphon", ja: "Hario Technica サイフォン" },
     description: {
-      en: "~$45-70. 3-cup or 5-cup, simpler stand, compatible with standard Hario filters. Entry-level Hario siphon — correct starting point to explore siphon brewing without Hario Next price. Same brewing principle as Next.",
+      en: "3-cup or 5-cup, simpler stand, compatible with standard Hario filters. Entry-level Hario siphon — correct starting point to explore siphon brewing without Hario Next price. Same brewing principle as Next.",
       ja: "約6,500〜1万円。3カップまたは5カップ、シンプルなスタンド、標準Harioフィルター対応。エントリーレベルHarioサイフォン——Hario Nextの価格なしにサイフォン抽出を探索する正しい出発点。同じ抽出原理。",
     },
     links: [
@@ -16335,7 +16335,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Cona Siphon Coffee Maker", ja: "Cona サイフォンコーヒーメーカー" },
     description: {
-      en: "~$90-140. British design, solid borosilicate glass, spring-clip filter. Classic siphon with easy-clean spring-clip filter. Good for brewers wanting a durable, low-maintenance filter option. Traditional aesthetic.",
+      en: "British design, solid borosilicate glass, spring-clip filter. Classic siphon with easy-clean spring-clip filter. Good for brewers wanting a durable, low-maintenance filter option. Traditional aesthetic.",
       ja: "約1万3千〜2万円。イギリスデザイン、固形ホウケイ酸ガラス、スプリングクリップフィルター。手入れのしやすいスプリングクリップフィルターを持つ古典的サイフォン。耐久性と清掃しやすいフィルターオプションを望むブルワーに良い。伝統的な美観。",
     },
     links: [
@@ -16351,8 +16351,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Butane Burner for Siphon Coffee", ja: "サイフォンコーヒー用ブタンバーナー" },
     description: {
-      en: "~$20-40. Adjustable flame butane burner for siphon brewing. Required for consistent siphon heat — more controllable than included alcohol lamps. Necessary for precise temperature control and repeatable results.",
-      ja: "約3,000〜6,000円。サイフォン抽出用調整可能炎ブタンバーナー。一貫したサイフォン熱に必須——付属のアルコールランプより制御可能。精密な温度コントロールと繰り返し可能な結果に必要。",
+      en: "Adjustable flame butane burner for siphon brewing. Required for consistent siphon heat — more controllable than included alcohol lamps. Necessary for precise temperature control and repeatable results.",
+      ja: "サイフォン抽出用調整可能炎ブタンバーナー。一貫したサイフォン熱に必須——付属のアルコールランプより制御可能。精密な温度コントロールと繰り返し可能な結果に必要。",
     },
     links: [
       { network: "moshimo", productId: "rakuten-butane-burner-siphon", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3+%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%2F", markets: ["JP"], approved: true },
@@ -16367,7 +16367,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Rogue TB-2 Trap Bar", ja: "Rogue TB-2 トラップバー" },
     description: {
-      en: "~$300-350. 11-gauge steel, 16.25-inch sleeves, 1,000 lb rated, dual knurled handles, ~60 lb bar. Best trap bar available — correct for athletes consistently pulling 500+ lbs and for long-term investment.",
+      en: "11-gauge steel, 16.25-inch sleeves, 1,000 lb rated, dual knurled handles, ~60 lb bar. Best trap bar available — correct for athletes consistently pulling 500+ lbs and for long-term investment.",
       ja: "約4万5千〜5万3千円。11ゲージスチール、41cmスリーブ、450kg定格、デュアルナーリングハンドル、バー約27kg。最高のトラップバー——227kg以上を一貫して引くアスリートと長期投資に正しい。",
     },
     links: [
@@ -16382,7 +16382,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "CAP Barbell Hex Trap Bar", ja: "CAP Barbell ヘックストラップバー" },
     description: {
-      en: "~$80-120. Hex design, dual high/low handles, 2-inch sleeves, 500 lb rated, ~45 lb bar. Best budget trap bar — adequate for home gym deadlifts under 300-400 lbs. Mild knurling. Correct entry-level choice for Olympic plate owners.",
+      en: "Hex design, dual high/low handles, 2-inch sleeves, 500 lb rated, ~45 lb bar. Best budget trap bar — adequate for home gym deadlifts under 300-400 lbs. Mild knurling. Correct entry-level choice for Olympic plate owners.",
       ja: "約1万2千〜1万8千円。ヘックスデザイン、デュアルハイ/ローハンドル、2インチスリーブ、227kg定格、バー約20kg。最高の予算トラップバー——136〜181kg以下のホームジムデッドリフトに十分。穏やかなナーリング。オリンピックプレートオーナーの正しいエントリーレベル選択。",
     },
     links: [
@@ -16398,7 +16398,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Titan Fitness Hex Trap Bar", ja: "Titan Fitness ヘックストラップバー" },
     description: {
-      en: "~$100-150. Better knurling than CAP, ~52 lb bar, improved sleeve quality. Best budget-to-mid-range trap bar — meaningful improvement over CAP for athletes lifting 250+ lbs regularly.",
+      en: "Better knurling than CAP, ~52 lb bar, improved sleeve quality. Best budget-to-mid-range trap bar — meaningful improvement over CAP for athletes lifting 250+ lbs regularly.",
       ja: "約1万5千〜2万3千円。CAPより良いナーリング、バー約24kg、改善されたスリーブ品質。最高の予算〜中間レンジトラップバー——113kg以上を定期的にリフトするアスリートにCAPより意味のある改善。",
     },
     links: [
@@ -16414,7 +16414,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "REP Fitness HD Trap Bar", ja: "REP Fitness HD トラップバー" },
     description: {
-      en: "~$150-200. Heavy-gauge frame, better knurling, longer sleeves than budget. Best value premium trap bar — REP quality without Rogue price. Correct for athletes wanting better quality than Titan without TB-2 cost.",
+      en: "Heavy-gauge frame, better knurling, longer sleeves than budget. Best value premium trap bar — REP quality without Rogue price. Correct for athletes wanting better quality than Titan without TB-2 cost.",
       ja: "約2万3千〜3万円。重ゲージフレーム、より良いナーリング、予算より長いスリーブ。最高のバリュープレミアムトラップバー——Rogueの価格なしにREP品質。TB-2のコストなしにTitanより良い品質を望むアスリートに正しい。",
     },
     links: [
@@ -16430,7 +16430,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Valor Fitness Trap Bar", ja: "Valor Fitness トラップバー" },
     description: {
-      en: "~$90-130. Mid-range construction, dual handles, comparable to Titan. Good alternative if Titan unavailable. Budget-to-mid-range tier, functionally comparable at similar price points.",
+      en: "Mid-range construction, dual handles, comparable to Titan. Good alternative if Titan unavailable. Budget-to-mid-range tier, functionally comparable at similar price points.",
       ja: "約1万3千〜2万円。中間レンジ構造、デュアルハンドル、Titanと同等。Titanが入手できない場合の良い代替。予算〜中間レンジティア、同様の価格帯で機能的に同等。",
     },
     links: [
@@ -16447,8 +16447,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Copper Cezve / Ibrik by Shiritek", ja: "Shiritek 銅チェズベ/イブリック" },
     description: {
-      en: "~$15-35. Traditional copper, tin-lined interior, 1-2 cup size. Best traditional cezve — authentic copper heat conductivity, classic aesthetic. Tin lining will eventually need re-tinning with heavy regular use.",
-      ja: "約2,500〜5,000円。伝統的な銅、スズ内張り、1〜2カップサイズ。最高の伝統的チェズベ——本格的な銅の熱伝導性・クラシックな美観。頻繁な使用で最終的にスズの再メッキが必要。",
+      en: "Traditional copper, tin-lined interior, 1-2 cup size. Best traditional cezve — authentic copper heat conductivity, classic aesthetic. Tin lining will eventually need re-tinning with heavy regular use.",
+      ja: "伝統的な銅、スズ内張り、1〜2カップサイズ。最高の伝統的チェズベ——本格的な銅の熱伝導性・クラシックな美観。頻繁な使用で最終的にスズの再メッキが必要。",
     },
     links: [
       { network: "amazon-us", productId: "B07YZXK9PH", rawUrl: "https://www.amazon.com/dp/B07YZXK9PH", markets: ["US"], approved: true },
@@ -16463,8 +16463,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Stainless Cezve by Bosphorus", ja: "Bosphorus ステンレスチェズベ" },
     description: {
-      en: "~$10-25. Stainless steel, no re-tinning required, durable. Best practical cezve — same brewing results as copper, lower maintenance, dishwasher-safe. Correct if durability matters more than aesthetic.",
-      ja: "約1,500〜3,500円。ステンレススチール、再スズメッキ不要、耐久性あり。最高の実用的チェズベ——銅と同じ醸造結果・低メンテナンス・食洗機対応。美観より耐久性が重要な場合に正しい。",
+      en: "Stainless steel, no re-tinning required, durable. Best practical cezve — same brewing results as copper, lower maintenance, dishwasher-safe. Correct if durability matters more than aesthetic.",
+      ja: "ステンレススチール、再スズメッキ不要、耐久性あり。最高の実用的チェズベ——銅と同じ醸造結果・低メンテナンス・食洗機対応。美観より耐久性が重要な場合に正しい。",
     },
     links: [
       { network: "amazon-us", productId: "B0894F7P49", rawUrl: "https://www.amazon.com/dp/B0894F7P49", markets: ["US"], approved: true },
@@ -16479,7 +16479,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Arzum Okka Electric Turkish Coffee Maker", ja: "Arzum Okka 電気式トルココーヒーメーカー" },
     description: {
-      en: "~$60-90. Electric, automated foam management, sweetness control. Best electric Turkish coffee maker — automates stovetop process, preserves foam. Correct for households brewing Turkish coffee regularly.",
+      en: "Electric, automated foam management, sweetness control. Best electric Turkish coffee maker — automates stovetop process, preserves foam. Correct for households brewing Turkish coffee regularly.",
       ja: "約8,000〜1万3千円。電気式、自動フォーム管理、甘さコントロール。最高の電気式トルココーヒーメーカー——コンロのプロセスを自動化・フォームを保持。定期的にトルココーヒーを醸造する家庭に正しい。",
     },
     links: [
@@ -16495,7 +16495,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Zassenhaus Turkish Coffee Hand Grinder", ja: "Zassenhaus トルココーヒー ハンドグラインダー" },
     description: {
-      en: "~$60-90. Hand grinder, Turkish-fine adjustment range, cylindrical design. Best grinder for Turkish coffee — achieves Turkish-fine grind that electric home grinders cannot. Required if brewing from whole bean.",
+      en: "Hand grinder, Turkish-fine adjustment range, cylindrical design. Best grinder for Turkish coffee — achieves Turkish-fine grind that electric home grinders cannot. Required if brewing from whole bean.",
       ja: "約8,000〜1万3千円。ハンドグラインダー、トルコファイン調整範囲、円筒形デザイン。トルココーヒーのための最高のグラインダー——家庭用電気グラインダーが達成できないトルコファイン挽き目を達成。丸ごとの豆から醸造する場合に必要。",
     },
     links: [
@@ -16510,8 +16510,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "☕",
     name: { en: "Mehmet Efendi Turkish Ground Coffee", ja: "Mehmet Efendi トルコグランドコーヒー" },
     description: {
-      en: "~$8-15 per 250g. Mehmet Efendi pre-ground Turkish coffee, traditional Istanbul roaster. Best pre-ground Turkish coffee — correct fineness for cezve brewing, widely available online. Use within 1-2 weeks of opening.",
-      ja: "約1,200〜2,200円（250g）。Mehmet Efendiプレグランドトルココーヒー、伝統的なイスタンブールロースター。最高のプレグランドトルココーヒー——チェズベ醸造に正しい細かさ、オンラインで広く入手可能。開封後1〜2週間以内に使用。",
+      en: "Mehmet Efendi pre-ground Turkish coffee, traditional Istanbul roaster. Best pre-ground Turkish coffee — correct fineness for cezve brewing, widely available online. Use within 1-2 weeks of opening.",
+      ja: "Mehmet Efendiプレグランドトルココーヒー、伝統的なイスタンブールロースター。最高のプレグランドトルココーヒー——チェズベ醸造に正しい細かさ、オンラインで広く入手可能。開封後1〜2週間以内に使用。",
     },
     links: [
       { network: "amazon-us", productId: "B000N4WLZM", rawUrl: "https://www.amazon.com/dp/B000N4WLZM", markets: ["US"], approved: true },
@@ -16527,7 +16527,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Assault Fitness AssaultBike Classic", ja: "Assault Fitness AssaultBike クラシック" },
     description: {
-      en: "~$700-800. 25-inch fan, commercial grade, ~99 lbs. Most widely used assault bike in CrossFit/commercial fitness — reference bike for programming. Correct for serious daily training. Loud at high effort.",
+      en: "25-inch fan, commercial grade, ~99 lbs. Most widely used assault bike in CrossFit/commercial fitness — reference bike for programming. Correct for serious daily training. Loud at high effort.",
       ja: "約10万〜12万円。25インチファン、商業グレード、約45kg。CrossFit/商業フィットネスで最も広く使用されているアサルトバイク——プログラミングの基準バイク。毎日の本格的なトレーニングに正しい。高努力時に音がします。",
     },
     links: [
@@ -16543,7 +16543,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Concept2 BikeErg", ja: "Concept2 BikeErg" },
     description: {
-      en: "~$1,100-1,200. Chain drive, Concept2 flywheel, PM5 display, lower-body only. Best display and quietest premium bike — PM5 is best conditioning monitor available. Different movement pattern (no moving handles). Correct for cycling-focused training.",
+      en: "Chain drive, Concept2 flywheel, PM5 display, lower-body only. Best display and quietest premium bike — PM5 is best conditioning monitor available. Different movement pattern (no moving handles). Correct for cycling-focused training.",
       ja: "約16万〜18万円。チェーンドライブ、Concept2フライホイール、PM5ディスプレイ、下半身のみ。最高のディスプレイと最も静かなプレミアムバイク——PM5は入手可能な最高のコンディショニングモニター。異なる動作パターン（動くハンドルなし）。サイクリングフォーカスのトレーニングに正しい。",
     },
     links: [
@@ -16559,7 +16559,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Rogue Echo Bike", ja: "Rogue Echo Bike" },
     description: {
-      en: "~$700-800. Belt drive, 127 lbs, larger fan, Rogue frame quality. Best home gym assault bike — belt drive reduces maintenance, heavier construction means more stability, Rogue build quality. Slightly quieter than Assault Classic.",
+      en: "Belt drive, 127 lbs, larger fan, Rogue frame quality. Best home gym assault bike — belt drive reduces maintenance, heavier construction means more stability, Rogue build quality. Slightly quieter than Assault Classic.",
       ja: "約10万〜12万円。ベルトドライブ、57kg、大型ファン、Rogueフレーム品質。最高のホームジムアサルトバイク——ベルトドライブがメンテナンスを減少・重い構造が安定性を意味・Rogueの構造品質。Assault Classicよりわずかに静か。",
     },
     links: [
@@ -16575,7 +16575,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Schwinn Airdyne Pro Fan Bike", ja: "Schwinn Airdyne Pro ファンバイク" },
     description: {
-      en: "~$500-600. Fan bike, ~90 lbs, commercial bearings, good display. Best value assault bike — more accessible price than Rogue/Assault, commercial-grade durability. Slightly less construction quality than Echo or Assault Classic.",
+      en: "Fan bike, ~90 lbs, commercial bearings, good display. Best value assault bike — more accessible price than Rogue/Assault, commercial-grade durability. Slightly less construction quality than Echo or Assault Classic.",
       ja: "約7万5千〜9万円。ファンバイク、約41kg、商業品質ベアリング、良いディスプレイ。最高のコスパアサルトバイク——Rogue/Assaultより入手しやすい価格・商業グレードの耐久性。EchoまたはAssault Classicよりわずかに構造品質が低い。",
     },
     links: [
@@ -16591,7 +16591,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💪",
     name: { en: "Sunny Health Magnetic Resistance Air Bike", ja: "Sunny Health 磁気抵抗エアバイク" },
     description: {
-      en: "~$200-350. Fan + magnetic resistance, lighter construction, quieter. Budget air bike option — adequate for occasional intervals. Not a substitute for commercial assault bikes. Correct for home use at moderate intensity.",
+      en: "Fan + magnetic resistance, lighter construction, quieter. Budget air bike option — adequate for occasional intervals. Not a substitute for commercial assault bikes. Correct for home use at moderate intensity.",
       ja: "約3万〜5万円。ファン+磁気抵抗、軽い構造、より静か。予算エアバイクオプション——時々のインターバルに十分。商業アサルトバイクの代替にはならない。中程度の強度でのホーム使用に正しい。",
     },
     links: [
@@ -16867,7 +16867,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Dual Function",
     name: { en: "Body-Solid GLPH1100 Leg Press and Hack Squat Machine", ja: "Body-Solid GLPH1100 レッグプレス＆ハックスクワット" },
     description: {
-      en: "Dual leg press + hack squat, 1,000 lb capacity, linear bearings, commercial-grade. Best home gym value — two exercises from one machine under $1,000.",
+      en: "Dual leg press + hack squat, 1,000 lb capacity, linear bearings, commercial-grade. Best home gym value — two exercises from one machine.",
       ja: "デュアルレッグプレス＋ハックスクワット、耐荷重1,000ポンド、リニアベアリング、商業グレード。ホームジム最高バリュー——1,000ドル未満で一台から2種類のエクササイズ。",
     },
     price: "$1,735.00",
@@ -16883,7 +16883,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Most Compact",
     name: { en: "Valor Fitness BD-62 Leg Press Machine", ja: "Valor Fitness BD-62 レッグプレスマシン" },
     description: {
-      en: "45-degree sled, nylon guide rods, 400 lb load capacity, compact footprint. $500-650. Budget leg press for moderate loads — smaller footprint than REP or Body-Solid.",
+      en: "45-degree sled, nylon guide rods, 400 lb load capacity, compact footprint. Budget leg press for moderate loads — smaller footprint than REP or Body-Solid.",
       ja: "45度スレッド、ナイロンガイドロッド、400ポンド耐荷重、コンパクト設置面積。500〜650ドル。中程度の負荷向け予算レッグプレス——REPやBody-Solidより小さい設置面積。",
     },
     price: "$305.00",
@@ -16924,7 +16924,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Budget 11-Gauge",
     name: { en: "Titan Fitness Leg Press V2", ja: "Titan Fitness レッグプレス V2" },
     description: {
-      en: "45-degree sled, linear bearings, 1,000 lb capacity. $600-800. Budget alternative to REP — adequate function at lower cost. Slightly rougher sled travel than REP.",
+      en: "45-degree sled, linear bearings, 1,000 lb capacity. Budget alternative to REP — adequate function at lower cost. Slightly rougher sled travel than REP.",
       ja: "45度スレッド、リニアベアリング、耐荷重1,000ポンド。600〜800ドル。REPへの予算代替——低コストで適切な機能。REPよりわずかに粗いスレッド移動。",
     },
     price: "$399.99",
@@ -16944,7 +16944,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Entry Level",
     name: { en: "Marcy Diamond MD-9060G Leg Press Machine", ja: "Marcy Diamond MD-9060G レッグプレスマシン" },
     description: {
-      en: "45-degree sled, 14-gauge steel, 600 lb rated, entry-level. $300-450. Budget option for light home use — not recommended for high-volume or heavy leg press training.",
+      en: "45-degree sled, 14-gauge steel, 600 lb rated, entry-level. Budget option for light home use — not recommended for high-volume or heavy leg press training.",
       ja: "45度スレッド、14ゲージスチール、600ポンド定格、エントリーレベル。300〜450ドル。軽い家庭使用向け予算オプション——高ボリュームや重いレッグプレストレーニングには非推薦。",
     },
     price: "$249.99",
@@ -17274,7 +17274,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Budget Mini",
     name: { en: "Sunny Health & Fitness Mini Stair Stepper", ja: "Sunny Health & Fitness ミニステアステッパー" },
     description: {
-      en: "Mini step climber, hydraulic resistance, 4-6 inch step range, no handles. $30-60. Light daily movement option — desk use or rehabilitation, not serious conditioning.",
+      en: "Mini step climber, hydraulic resistance, 4-6 inch step range, no handles. Light daily movement option — desk use or rehabilitation, not serious conditioning.",
       ja: "ミニステップクライマー、油圧抵抗、4〜6インチステップ範囲、ハンドルなし。30〜60ドル。軽い日常的な動きオプション——デスク使用またはリハビリ、本格的なコンディショニングには不適切。",
     },
     price: "$39.99",
@@ -17306,7 +17306,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Refurbished Value",
     name: { en: "StairMaster 8-Series Stepmill (Refurbished)", ja: "StairMaster 8シリーズ ステップミル（改装品）" },
     description: {
-      en: "Commercial stepmill (previous generation), 7-8 inch steps, available refurbished at $1,500-2,500. Best home stepmill value — genuine mechanics at lower cost than Gauntlet.",
+      en: "Commercial stepmill (previous generation), 7-8 inch steps, available refurbished. Best home stepmill value — genuine mechanics at lower cost than Gauntlet.",
       ja: "商業ステップミル（前世代）、7〜8インチステップ、1,500〜2,500ドルで改装品として入手可能。最高のホームステップミルバリュー——Gauntletより低コストで本物のメカニズム。",
     },
     price: "$10,199.00",
@@ -17323,8 +17323,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Loose Leaf",
     name: { en: "Rishi Masala Chai Loose Leaf", ja: "リシ・マサラチャイ リーフ" },
     description: {
-      en: "Loose leaf masala chai, Assam base, cardamom-forward, 18-22 servings. $12-16. Best loose leaf chai — whole spice complexity, farm-direct sourcing.",
-      ja: "リーフ・マサラチャイ、アッサムベース、カルダモン主体、18〜22杯分。$12〜16。最高のリーフチャイ——ホールスパイスの複雑さ、農家直接調達。",
+      en: "Loose leaf masala chai, Assam base, cardamom-forward, 18-22 servings. Best loose leaf chai — whole spice complexity, farm-direct sourcing.",
+      ja: "リーフ・マサラチャイ、アッサムベース、カルダモン主体、18〜22杯分。最高のリーフチャイ——ホールスパイスの複雑さ、農家直接調達。",
     },
     price: "$17.50",
     links: [
@@ -17338,8 +17338,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Popular Spiced Tea",
     name: { en: "Harney & Sons Hot Cinnamon Spice Tea", ja: "ハーニー&サンズ ホットシナモンスパイス" },
     description: {
-      en: "Black tea with cinnamon, orange peel, sweet cloves, 50 bags. $10-14. Best spiced black tea — cinnamon-forward, sweet, excellent cold-brewed in milk.",
-      ja: "シナモン・オレンジピール・スウィートクローブ入りブラックティー、50袋。$10〜14。最高のスパイスブラックティー——シナモン主体、甘み、ミルクでのコールドブリューに最適。",
+      en: "Black tea with cinnamon, orange peel, sweet cloves, 50 bags. Best spiced black tea — cinnamon-forward, sweet, excellent cold-brewed in milk.",
+      ja: "シナモン・オレンジピール・スウィートクローブ入りブラックティー、50袋。最高のスパイスブラックティー——シナモン主体、甘み、ミルクでのコールドブリューに最適。",
     },
     price: "$19.99",
     links: [
@@ -17354,8 +17354,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Value Concentrate",
     name: { en: "Tazo Chai Latte Concentrate", ja: "タゾ チャイラテ コンセントレート" },
     description: {
-      en: "Chai concentrate, 1:1 mix with milk, 32 oz. $5-8. Budget chai latte concentrate — widely available, consistent sweet-spiced result.",
-      ja: "チャイコンセントレート、ミルクと1:1で混合、32oz。$5〜8。手頃なチャイラテコンセントレート——広く入手可能、一定の甘くスパイシーな結果。",
+      en: "Chai concentrate, 1:1 mix with milk, 32 oz. Budget chai latte concentrate — widely available, consistent sweet-spiced result.",
+      ja: "チャイコンセントレート、ミルクと1:1で混合、32oz。手頃なチャイラテコンセントレート——広く入手可能、一定の甘くスパイシーな結果。",
     },
     price: "$5.79",
     links: [
@@ -17370,8 +17370,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Market Standard",
     name: { en: "Oregon Chai Original Concentrate", ja: "オレゴンチャイ オリジナル コンセントレート" },
     description: {
-      en: "Chai concentrate, sweet, cardamom-forward, 32 oz / 16 servings. $8-12. Market-standard chai latte concentrate — approximates coffee shop chai at home.",
-      ja: "チャイコンセントレート、甘くカルダモン主体、32oz / 16杯分。$8〜12。市場標準チャイラテコンセントレート——コーヒーショップのチャイを家で再現。",
+      en: "Chai concentrate, sweet, cardamom-forward, 32 oz / 16 servings. Market-standard chai latte concentrate — approximates coffee shop chai at home.",
+      ja: "チャイコンセントレート、甘くカルダモン主体、32oz / 16杯分。市場標準チャイラテコンセントレート——コーヒーショップのチャイを家で再現。",
     },
     price: "$5.29",
     links: [
@@ -17386,8 +17386,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Easiest Format",
     name: { en: "David Rio Elephant Vanilla Chai Powder", ja: "デビッドリオ エレファント バニラチャイ パウダー" },
     description: {
-      en: "Powdered chai mix, vanilla-forward, 16 oz / 16-20 servings. $15-20. Most convenient format — dissolve in hot milk, no brewing steps.",
-      ja: "パウダーチャイミックス、バニラ主体、16oz / 16〜20杯分。$15〜20。最も手軽なフォーマット——熱いミルクに溶かすだけ。",
+      en: "Powdered chai mix, vanilla-forward, 16 oz / 16-20 servings. Most convenient format — dissolve in hot milk, no brewing steps.",
+      ja: "パウダーチャイミックス、バニラ主体、16oz / 16〜20杯分。最も手軽なフォーマット——熱いミルクに溶かすだけ。",
     },
     price: "$13.95",
     links: [
@@ -17403,8 +17403,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Entry Freestanding",
     name: { en: "Everlast Powercore Freestanding Bag", ja: "エバーラスト パワーコア フリースタンディングバッグ" },
     description: {
-      en: "Freestanding, 70 lb max, Nevatear synthetic, water/sand base. $150-200. Best freestanding entry-level bag — no mounting needed, apartment-friendly.",
-      ja: "フリースタンディング、最大70lb、ネバティアーシンセティック、水/砂ベース。$150〜200。最高のエントリーレベルフリースタンディングバッグ——マウント不要、アパート対応。",
+      en: "Freestanding, 70 lb max, Nevatear synthetic, water/sand base. Best freestanding entry-level bag — no mounting needed, apartment-friendly.",
+      ja: "フリースタンディング、最大70lb、ネバティアーシンセティック、水/砂ベース。最高のエントリーレベルフリースタンディングバッグ——マウント不要、アパート対応。",
     },
     price: "$229.99",
     links: [
@@ -17419,8 +17419,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Precision Training",
     name: { en: "Century BOB XL Body Opponent Bag", ja: "センチュリー BOB XL ボディ・オポーネント・バッグ" },
     description: {
-      en: "Freestanding body-shaped torso target, adjustable height, water/sand base. $100-150. Best accuracy training bag — human-shaped target develops striking precision.",
-      ja: "フリースタンディング人体形状胴体ターゲット、調整可能高さ、水/砂ベース。$100〜150。最高の精度トレーニングバッグ——人体形状ターゲットが打撃精度を養成。",
+      en: "Freestanding body-shaped torso target, adjustable height, water/sand base. Best accuracy training bag — human-shaped target develops striking precision.",
+      ja: "フリースタンディング人体形状胴体ターゲット、調整可能高さ、水/砂ベース。最高の精度トレーニングバッグ——人体形状ターゲットが打撃精度を養成。",
     },
     price: "$419.00",
     links: [
@@ -17435,8 +17435,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Value Hanging",
     name: { en: "RDX 5ft Punching Bag (Hanging)", ja: "RDX 5ftパンチングバッグ（ハンギング）" },
     description: {
-      en: "Hanging heavy bag, 5ft / ~80 lb, Maya Hide leather, free-swinging. $80-100. Best value hanging bag — dense foam fill, good resistance feedback.",
-      ja: "ハンギングヘビーバッグ、5ft / 約80lb、マヤハイドレザー、自由揺れ。$80〜100。最高コスパのハンギングバッグ——密なフォーム充填、良好な抵抗フィードバック。",
+      en: "Hanging heavy bag, 5ft / ~80 lb, Maya Hide leather, free-swinging. Best value hanging bag — dense foam fill, good resistance feedback.",
+      ja: "ハンギングヘビーバッグ、5ft / 約80lb、マヤハイドレザー、自由揺れ。最高コスパのハンギングバッグ——密なフォーム充填、良好な抵抗フィードバック。",
     },
     price: "$119.99",
     links: [
@@ -17451,8 +17451,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Standard Hanging Bag",
     name: { en: "Everlast C3 Heavy Bag 100 lb", ja: "エバーラスト C3 ヘビーバッグ 100lb" },
     description: {
-      en: "Hanging heavy bag, 100 lb, canvas, chain included. $80-130. Best standard hanging bag — traditional gym-style, minimal swing for power development.",
-      ja: "ハンギングヘビーバッグ、100lb、キャンバス、チェーン付属。$80〜130。最高の標準ハンギングバッグ——伝統的なジムスタイル、パワー開発向けの最小揺れ。",
+      en: "Hanging heavy bag, 100 lb, canvas, chain included. Best standard hanging bag — traditional gym-style, minimal swing for power development.",
+      ja: "ハンギングヘビーバッグ、100lb、キャンバス、チェーン付属。最高の標準ハンギングバッグ——伝統的なジムスタイル、パワー開発向けの最小揺れ。",
     },
     links: [
       { network: "amazon-us", productId: "B001ILOKYY", rawUrl: "https://www.amazon.com/dp/B001ILOKYY", markets: ["US"], approved: true },
@@ -17466,8 +17466,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Traditional Heavy Bag",
     name: { en: "Ringside 100 lb Heavy Bag", ja: "リングサイド 100lb ヘビーバッグ" },
     description: {
-      en: "Hanging heavy bag, 100 lb, canvas, boxing gym standard. $100-150. Best traditional boxing bag — heritage brand, gym-proven durability.",
-      ja: "ハンギングヘビーバッグ、100lb、キャンバス、ボクシングジム標準。$100〜150。最高の伝統的ボクシングバッグ——老舗ブランド、ジム実証済みの耐久性。",
+      en: "Hanging heavy bag, 100 lb, canvas, boxing gym standard. Best traditional boxing bag — heritage brand, gym-proven durability.",
+      ja: "ハンギングヘビーバッグ、100lb、キャンバス、ボクシングジム標準。最高の伝統的ボクシングバッグ——老舗ブランド、ジム実証済みの耐久性。",
     },
     price: "$239.00",
     links: [
@@ -17483,8 +17483,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Certified UMF Manuka",
     name: { en: "Comvita Manuka Honey UMF 10+", ja: "コンビタ マヌカハニー UMF 10+" },
     description: {
-      en: "Manuka honey, UMF 10+ / MGO 263+, 250g. $30-40. Best certified Manuka — UMF certification verifies MGO and authenticity.",
-      ja: "マヌカハニー、UMF 10+ / MGO 263+、250g。$30〜40。最高認証マヌカ——UMF認証がMGOと真正性を検証。",
+      en: "Manuka honey, UMF 10+ / MGO 263+, 250g. Best certified Manuka — UMF certification verifies MGO and authenticity.",
+      ja: "マヌカハニー、UMF 10+ / MGO 263+、250g。最高認証マヌカ——UMF認証がMGOと真正性を検証。",
     },
     price: "$26.24",
     links: [
@@ -17498,8 +17498,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Accessible Manuka",
     name: { en: "Wedderspoon Manuka Honey KFactor 16", ja: "ウェッダースプーン マヌカハニー KFactor 16" },
     description: {
-      en: "Manuka honey, KFactor 16 (75%+ Manuka pollen), 11.4 oz. $20-30. Best accessible Manuka — KFactor certifies pollen content.",
-      ja: "マヌカハニー、KFactor 16（75%以上マヌカ花粉）、11.4oz。$20〜30。最高のアクセシブルマヌカ——KFactorは花粉含有量を認証。",
+      en: "Manuka honey, KFactor 16 (75%+ Manuka pollen), 11.4 oz. Best accessible Manuka — KFactor certifies pollen content.",
+      ja: "マヌカハニー、KFactor 16（75%以上マヌカ花粉）、11.4oz。最高のアクセシブルマヌカ——KFactorは花粉含有量を認証。",
     },
     price: "$27.99",
     links: [
@@ -17514,8 +17514,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Everyday Raw Honey",
     name: { en: "Nature Nate's 100% Pure Raw Honey", ja: "ネイチャーネーツ 100%純粋生ハチミツ" },
     description: {
-      en: "Raw clover honey, unfiltered, unheated, 16 oz. $10-15. Best everyday raw honey — traceable US sourcing, mild flavor.",
-      ja: "生クローバーハニー、未濾過、未加熱、16oz。$10〜15。最高の日常生ハチミツ——追跡可能な米国産、穏やかな風味。",
+      en: "Raw clover honey, unfiltered, unheated, 16 oz. Best everyday raw honey — traceable US sourcing, mild flavor.",
+      ja: "生クローバーハニー、未濾過、未加熱、16oz。最高の日常生ハチミツ——追跡可能な米国産、穏やかな風味。",
     },
     price: "$9.99",
     links: [
@@ -17530,8 +17530,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Thick Unfiltered Raw",
     name: { en: "Y.S. Eco Bee Farms Raw Honey", ja: "Y.S.エコビーファームズ 生ハチミツ" },
     description: {
-      en: "Raw honey, USDA organic, unfiltered, 22 oz. $12-18. Best thick unfiltered raw honey — visible propolis and pollen, assertive flavor.",
-      ja: "生ハチミツ、USDAオーガニック、未濾過、22oz。$12〜18。最高の濃厚未濾過生ハチミツ——見えるプロポリスと花粉、力強い風味。",
+      en: "Raw honey, USDA organic, unfiltered, 22 oz. Best thick unfiltered raw honey — visible propolis and pollen, assertive flavor.",
+      ja: "生ハチミツ、USDAオーガニック、未濾過、22oz。最高の濃厚未濾過生ハチミツ——見えるプロポリスと花粉、力強い風味。",
     },
     price: "$19.99",
     links: [
@@ -17546,8 +17546,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Organic Fair Trade",
     name: { en: "Wholesome Organic Raw Honey", ja: "ホールサム オーガニック生ハチミツ" },
     description: {
-      en: "Organic raw honey, fair-trade certified, 16 oz. $12-18. Best organic-certified raw honey — fair-trade sourcing, mild flavor.",
-      ja: "オーガニック生ハチミツ、フェアトレード認証、16oz。$12〜18。最高のオーガニック認証生ハチミツ——フェアトレード調達、穏やかな風味。",
+      en: "Organic raw honey, fair-trade certified, 16 oz. Best organic-certified raw honey — fair-trade sourcing, mild flavor.",
+      ja: "オーガニック生ハチミツ、フェアトレード認証、16oz。最高のオーガニック認証生ハチミツ——フェアトレード調達、穏やかな風味。",
     },
     price: "$17.99",
     links: [
@@ -17563,8 +17563,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Premium Training",
     name: { en: "Hayabusa T3 Boxing Gloves", ja: "ハヤブサ T3 ボクシンググローブ" },
     description: {
-      en: "Premium training glove, dual-X wrist strap, Vylar leather, multi-layer foam, 12/14/16oz. $100-130. Best training glove for regular use.",
-      ja: "プレミアムトレーニンググローブ、デュアルXリストストラップ、Vylarレザー、多層フォーム、12/14/16oz。$100〜130。定期使用に最高のトレーニンググローブ。",
+      en: "Premium training glove, dual-X wrist strap, Vylar leather, multi-layer foam, 12/14/16oz. Best training glove for regular use.",
+      ja: "プレミアムトレーニンググローブ、デュアルXリストストラップ、Vylarレザー、多層フォーム、12/14/16oz。定期使用に最高のトレーニンググローブ。",
     },
     price: "$159.00",
     links: [
@@ -17579,8 +17579,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Entry Glove",
     name: { en: "Everlast ProStyle Training Gloves", ja: "エバーラスト プロスタイル トレーニンググローブ" },
     description: {
-      en: "Entry training glove, vinyl, single-layer foam, velcro, 12/14/16oz. $20-35. Best budget entry point — appropriate for beginners.",
-      ja: "エントリートレーニンググローブ、ビニール、シングル層フォーム、ベルクロ、12/14/16oz。$20〜35。最高の予算エントリーポイント——初心者に適切。",
+      en: "Entry training glove, vinyl, single-layer foam, velcro, 12/14/16oz. Best budget entry point — appropriate for beginners.",
+      ja: "エントリートレーニンググローブ、ビニール、シングル層フォーム、ベルクロ、12/14/16oz。最高の予算エントリーポイント——初心者に適切。",
     },
     price: "$44.99",
     links: [
@@ -17596,8 +17596,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Boxing Specialist",
     name: { en: "Title Boxing Classic Training Gloves", ja: "タイトル ボクシング クラシック トレーニンググローブ" },
     description: {
-      en: "Mid-tier training glove, synthetic leather, multi-layer foam, velcro, 12/14/16oz. $40-60. Best mid-range training glove — boxing-specific brand.",
-      ja: "中堅トレーニンググローブ、合成レザー、多層フォーム、ベルクロ、12/14/16oz。$40〜60。最高の中堅トレーニンググローブ——ボクシング専門ブランド。",
+      en: "Mid-tier training glove, synthetic leather, multi-layer foam, velcro, 12/14/16oz. Best mid-range training glove — boxing-specific brand.",
+      ja: "中堅トレーニンググローブ、合成レザー、多層フォーム、ベルクロ、12/14/16oz。最高の中堅トレーニンググローブ——ボクシング専門ブランド。",
     },
     links: [
       { network: "amazon-us", productId: "B002MSCCR2", rawUrl: "https://www.amazon.com/dp/B002MSCCR2", markets: ["US"], approved: true },
@@ -17612,8 +17612,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Leather Upgrade",
     name: { en: "Everlast 1910 Training Gloves", ja: "エバーラスト 1910 トレーニンググローブ" },
     description: {
-      en: "Mid-tier training glove, genuine leather, improved foam, wide wrist strap. $60-90. Best leather upgrade at accessible price.",
-      ja: "中堅トレーニンググローブ、本革、改良フォーム、幅広リストストラップ。$60〜90。アクセシブルな価格での最高のレザーアップグレード。",
+      en: "Mid-tier training glove, genuine leather, improved foam, wide wrist strap. Best accessible leather upgrade.",
+      ja: "中堅トレーニンググローブ、本革、改良フォーム、幅広リストストラップ。手が届く範囲での最高のレザーアップグレード。",
     },
     links: [
       { network: "amazon-us", productId: "B06XRBWQFF", rawUrl: "https://www.amazon.com/dp/B06XRBWQFF", markets: ["US"], approved: true },
@@ -17628,8 +17628,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Pro Competition Grade",
     name: { en: "Cleto Reyes Hook & Loop Training Gloves", ja: "クレトレイエス フック&ループ トレーニンググローブ" },
     description: {
-      en: "Premium Mexican-made training glove, genuine leather, hook-loop closure, 14/16oz. $150-250. Best premium sparring glove — competition pedigree.",
-      ja: "プレミアムメキシコ製トレーニンググローブ、本革、フック&ループ閉合、14/16oz。$150〜250。最高のプレミアムスパーリンググローブ——競技実績。",
+      en: "Premium Mexican-made training glove, genuine leather, hook-loop closure, 14/16oz. Best premium sparring glove — competition pedigree.",
+      ja: "プレミアムメキシコ製トレーニンググローブ、本革、フック&ループ閉合、14/16oz。最高のプレミアムスパーリンググローブ——競技実績。",
     },
     links: [
       { network: "amazon-us", productId: "B0018BQSTW", rawUrl: "https://www.amazon.com/dp/B0018BQSTW", markets: ["US"], approved: true },
@@ -17644,8 +17644,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Reference Quality Sencha",
     name: { en: "Ippodo Ummon Sencha Loose Leaf", ja: "一保堂茶舗 雲門の昔 煎茶" },
     description: {
-      en: "Japanese loose leaf sencha, Uji-sourced, 80g. $18-25. Best quality reference sencha — Ippodo is Japan's oldest tea shop, direct Uji sourcing.",
-      ja: "日本産リーフ煎茶、宇治産、80g。$18〜25。最高品質の参考煎茶——日本最古の茶舗・一保堂、宇治からの直接調達。",
+      en: "Japanese loose leaf sencha, Uji-sourced, 80g. Best quality reference sencha — Ippodo is Japan's oldest tea shop, direct Uji sourcing.",
+      ja: "日本産リーフ煎茶、宇治産、80g。最高品質の参考煎茶——日本最古の茶舗・一保堂、宇治からの直接調達。",
     },
     price: "¥2,500",
     links: [
@@ -17660,8 +17660,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Accessible Sencha",
     name: { en: "Harney & Sons Japanese Sencha", ja: "ハーニー&サンズ 日本煎茶" },
     description: {
-      en: "Japanese sencha loose leaf / bags, 4oz / 20 bags. $8-12. Best accessible sencha — available at Whole Foods, good everyday quality.",
-      ja: "日本産煎茶リーフ/バッグ、4oz / 20袋。$8〜12。最高のアクセシブル煎茶——ホールフーズで入手可能、日常に良い品質。",
+      en: "Japanese sencha loose leaf / bags, 4oz / 20 bags. Best accessible sencha — available at Whole Foods, good everyday quality.",
+      ja: "日本産煎茶リーフ/バッグ、4oz / 20袋。最高のアクセシブル煎茶——ホールフーズで入手可能、日常に良い品質。",
     },
     price: "$12.99",
     links: [
@@ -17677,8 +17677,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Genmaicha for Beginners",
     name: { en: "Two Leaves Genmaicha Green Tea", ja: "ツー・リーブス 玄米茶" },
     description: {
-      en: "Genmaicha (sencha + roasted rice), loose leaf, 3oz. $10-14. Best genmaicha for beginners — nutty roasted rice offsets grassiness.",
-      ja: "玄米茶（煎茶＋炒った玄米）、リーフ、3oz。$10〜14。初心者に最高の玄米茶——炒った玄米がグラッシーさを相殺。",
+      en: "Genmaicha (sencha + roasted rice), loose leaf, 3oz. Best genmaicha for beginners — nutty roasted rice offsets grassiness.",
+      ja: "玄米茶（煎茶＋炒った玄米）、リーフ、3oz。初心者に最高の玄米茶——炒った玄米がグラッシーさを相殺。",
     },
     links: [
       { network: "amazon-us", productId: "B000BKKYC6", rawUrl: "https://www.amazon.com/dp/B000BKKYC6", markets: ["US"], approved: true },
@@ -17693,8 +17693,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Premium Gyokuro",
     name: { en: "Ippodo Gyokuro Shade-Grown Green Tea", ja: "一保堂茶舗 玉露" },
     description: {
-      en: "Shade-grown gyokuro, Uji-sourced, 40g. $30-50. Best gyokuro experience — intense umami sweetness, requires temperature control at 50-60°C.",
-      ja: "覆い栽培玉露、宇治産、40g。$30〜50。最高の玉露体験——強烈な旨味の甘さ、50〜60℃での温度管理が必要。",
+      en: "Shade-grown gyokuro, Uji-sourced, 40g. Best gyokuro experience — intense umami sweetness, requires temperature control at 50-60°C.",
+      ja: "覆い栽培玉露、宇治産、40g。最高の玉露体験——強烈な旨味の甘さ、50〜60℃での温度管理が必要。",
     },
     links: [
       { network: "amazon-us", productId: "B001ET6Z6E", rawUrl: "https://www.amazon.com/dp/B001ET6Z6E", markets: ["US"], approved: true },
@@ -17708,8 +17708,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Chinese Green Tea Classic",
     name: { en: "Harney & Sons Dragon Well (Longjing) Green Tea", ja: "ハーニー&サンズ 龍井茶（ロンジン）" },
     description: {
-      en: "Chinese Dragon Well (Longjing) loose leaf, 4oz. $12-18. Best Chinese green tea — pan-fired, toasty-sweet, less vegetal than Japanese greens.",
-      ja: "中国産龍井茶（ロンジン）リーフ、4oz。$12〜18。最高の中国緑茶——釜炒り製、トースティで甘い、日本茶より植物的でない。",
+      en: "Chinese Dragon Well (Longjing) loose leaf, 4oz. Best Chinese green tea — pan-fired, toasty-sweet, less vegetal than Japanese greens.",
+      ja: "中国産龍井茶（ロンジン）リーフ、4oz。最高の中国緑茶——釜炒り製、トースティで甘い、日本茶より植物的でない。",
     },
     price: "$38.00",
     links: [
@@ -17725,8 +17725,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Premium Competition Paddle",
     name: { en: "Selkirk Vanguard Power Air Pickleball Paddle", ja: "セルカーク バンガード パワーエア ピックルボールパドル" },
     description: {
-      en: "Premium carbon paddle, polymer honeycomb core, Aero-Tec face, 16mm, 7.4-7.6 oz. $200-230. Best premium pickleball paddle — pro tour brand.",
-      ja: "プレミアムカーボンパドル、ポリマーハニカムコア、Aero-Tec面、16mm、7.4〜7.6oz。$200〜230。最高のプレミアムピックルボールパドル——プロツアーブランド。",
+      en: "Premium carbon paddle, polymer honeycomb core, Aero-Tec face, 16mm, 7.4-7.6 oz. Best premium pickleball paddle — pro tour brand.",
+      ja: "プレミアムカーボンパドル、ポリマーハニカムコア、Aero-Tec面、16mm、7.4〜7.6oz。最高のプレミアムピックルボールパドル——プロツアーブランド。",
     },
     price: "$250.00",
     links: [
@@ -17741,8 +17741,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Spin Focused",
     name: { en: "Joola Ben Johns Hyperion CFS 16 Pickleball Paddle", ja: "ジョーラ ベン・ジョンズ ハイペリオンCFS16 ピックルボールパドル" },
     description: {
-      en: "Carbon fiber face (CFS), 16mm polymer core, co-designed with world #1 Ben Johns. $200-230. Best spin-forward premium paddle.",
-      ja: "カーボンファイバー面（CFS）、16mmポリマーコア、世界1位ベン・ジョンズとの共同設計。$200〜230。最高のスピン重視プレミアムパドル。",
+      en: "Carbon fiber face (CFS), 16mm polymer core, co-designed with world #1 Ben Johns. Best spin-forward premium paddle.",
+      ja: "カーボンファイバー面（CFS）、16mmポリマーコア、世界1位ベン・ジョンズとの共同設計。最高のスピン重視プレミアムパドル。",
     },
     price: "$219.95",
     links: [
@@ -17759,8 +17759,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Beginner Set",
     name: { en: "Franklin Sports X-40 Pickleball Paddle Set (2 Paddles + 4 Balls)", ja: "フランクリン・スポーツ X-40 ピックルボールパドルセット（2本＋ボール4個）" },
     description: {
-      en: "2 composite paddles + 4 X-40 balls, fiberglass face, polymer core. $30-50. Best beginner set — includes tournament-standard balls.",
-      ja: "コンポジットパドル2本＋X-40ボール4個、ファイバーグラス面、ポリマーコア。$30〜50。最高の初心者セット——トーナメント標準ボール付き。",
+      en: "2 composite paddles + 4 X-40 balls, fiberglass face, polymer core. Best beginner set — includes tournament-standard balls.",
+      ja: "コンポジットパドル2本＋X-40ボール4個、ファイバーグラス面、ポリマーコア。最高の初心者セット——トーナメント標準ボール付き。",
     },
     links: [
       { network: "amazon-us", productId: "B003M8VBUG", rawUrl: "https://www.amazon.com/dp/B003M8VBUG", markets: ["US"], approved: true },
@@ -17774,8 +17774,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best for Tennis Players",
     name: { en: "Head Extreme Tour Pickleball Paddle", ja: "ヘッド エクストリーム ツアー ピックルボールパドル" },
     description: {
-      en: "Graphite face, polymer core, 7.6 oz. $80-100. Best mid-tier for tennis players — familiar feel, forgiving sweet spot.",
-      ja: "グラファイト面、ポリマーコア、7.6oz。$80〜100。テニスプレーヤーに最高の中堅——親しみやすい感触、許容性の高いスウィートスポット。",
+      en: "Graphite face, polymer core, 7.6 oz. Best mid-tier for tennis players — familiar feel, forgiving sweet spot.",
+      ja: "グラファイト面、ポリマーコア、7.6oz。テニスプレーヤーに最高の中堅——親しみやすい感触、許容性の高いスウィートスポット。",
     },
     price: "$99.95",
     links: [
@@ -17790,8 +17790,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Mid-Range All-Rounder",
     name: { en: "Paddletek Tempest Wave Pro Pickleball Paddle", ja: "パドルテック テンペスト ウェーブ プロ ピックルボールパドル" },
     description: {
-      en: "Textured fiberglass face, polymer core, 14mm, 7.6-8.0 oz. $120-150. Best mid-tier all-rounder — between beginner and premium.",
-      ja: "テクスチャー付きファイバーグラス面、ポリマーコア、14mm、7.6〜8.0oz。$120〜150。最高の中堅オールラウンダー——初心者とプレミアムの間。",
+      en: "Textured fiberglass face, polymer core, 14mm, 7.6-8.0 oz. Best mid-tier all-rounder — between beginner and premium.",
+      ja: "テクスチャー付きファイバーグラス面、ポリマーコア、14mm、7.6〜8.0oz。最高の中堅オールラウンダー——初心者とプレミアムの間。",
     },
     price: "$149.99",
     links: [
@@ -17807,8 +17807,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Mainstream Coconut Water",
     name: { en: "Vita Coco Original Coconut Water", ja: "ビタ ココ オリジナル ココナッツウォーター" },
     description: {
-      en: "Pasteurized, no added sugar, 16.9 oz Tetra Pak. $2-3. Best mainstream coconut water — available everywhere, consistent, reliable electrolytes.",
-      ja: "殺菌処理、砂糖不使用、16.9ozテトラパック。$2〜3。定番として最も信頼できるココナッツウォーター——どこでも入手可能、一貫性があり信頼できる電解質。",
+      en: "Pasteurized, no added sugar, 16.9 oz Tetra Pak. Best mainstream coconut water — available everywhere, consistent, reliable electrolytes.",
+      ja: "殺菌処理、砂糖不使用、16.9ozテトラパック。定番として最も信頼できるココナッツウォーター——どこでも入手可能、一貫性があり信頼できる電解質。",
     },
     price: "$4.99",
     links: [
@@ -17823,8 +17823,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Raw Coconut Water",
     name: { en: "Harmless Harvest 100% Raw Coconut Water", ja: "ハームレスハーベスト 100%生ココナッツウォーター" },
     description: {
-      en: "Raw (never heated), refrigerated, 10-16 oz. $3.50-5.00. Best raw coconut water — closest to fresh, naturally pink from antioxidants.",
-      ja: "生（加熱なし）、冷蔵、10〜16oz。$3.50〜5.00。最高の生ココナッツウォーター——生のものに最も近く、抗酸化物質による自然なピンク色。",
+      en: "Raw (never heated), refrigerated, 10-16 oz. Best raw coconut water — closest to fresh, naturally pink from antioxidants.",
+      ja: "生（加熱なし）、冷蔵、10〜16oz。最高の生ココナッツウォーター——生のものに最も近く、抗酸化物質による自然なピンク色。",
     },
     price: "$8.05",
     links: [
@@ -17839,8 +17839,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Best Value Mid-Tier",
     name: { en: "Taste Nirvana Real Coconut Water", ja: "テイストニルヴァーナ リアルココナッツウォーター" },
     description: {
-      en: "Pasteurized, not from concentrate, Thailand-sourced, 9.5 oz can/glass bottle. $2-3. Best value intermediate — closer to fresh than Vita Coco.",
-      ja: "殺菌処理、濃縮物不使用、タイ産、9.5oz缶/ガラス瓶。$2〜3。コスパ最高の中間品——ビタココより生のものに近い。",
+      en: "Pasteurized, not from concentrate, Thailand-sourced, 9.5 oz can/glass bottle. Best value intermediate — closer to fresh than Vita Coco.",
+      ja: "殺菌処理、濃縮物不使用、タイ産、9.5oz缶/ガラス瓶。コスパ最高の中間品——ビタココより生のものに近い。",
     },
     price: "$4.99",
     links: [
@@ -17855,8 +17855,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Can Format",
     name: { en: "C2O Pure Coconut Water (Can)", ja: "C2Oピュアココナッツウォーター（缶）" },
     description: {
-      en: "Pasteurized, not from concentrate, Thailand-sourced, 17.5 oz can. $2.50-3.50. Best can format — light barrier preserves shelf-life flavor.",
-      ja: "殺菌処理、濃縮物不使用、タイ産、17.5oz缶。$2.50〜3.50。最高の缶形式——遮光性が保存期間中の風味を保持。",
+      en: "Pasteurized, not from concentrate, Thailand-sourced, 17.5 oz can. Best can format — light barrier preserves shelf-life flavor.",
+      ja: "殺菌処理、濃縮物不使用、タイ産、17.5oz缶。最高の缶形式——遮光性が保存期間中の風味を保持。",
     },
     price: "$4.99",
     links: [
@@ -17871,8 +17871,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Dry Flavor Profile",
     name: { en: "ZICO Natural Coconut Water", ja: "ジコ ナチュラルココナッツウォーター" },
     description: {
-      en: "Pasteurized, no added sugar, 16.9 oz. $2.50-3.50. Best dry-profile coconut water — slightly less sweet than Vita Coco, favored by athletes.",
-      ja: "殺菌処理、砂糖不使用、16.9oz。$2.50〜3.50。最高の乾いた風味プロファイルのココナッツウォーター——ビタココより少し甘みが少なく、スポーツ選手に好まれる。",
+      en: "Pasteurized, no added sugar, 16.9 oz. Best dry-profile coconut water — slightly less sweet than Vita Coco, favored by athletes.",
+      ja: "殺菌処理、砂糖不使用、16.9oz。最高の乾いた風味プロファイルのココナッツウォーター——ビタココより少し甘みが少なく、スポーツ選手に好まれる。",
     },
     price: "$4.99",
     links: [
@@ -17888,8 +17888,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Ultimate Control",
     name: { en: "Wilson Pro Staff 97 v14 Tennis Racket", ja: "ウィルソン プロスタッフ97 v14 テニスラケット" },
     description: {
-      en: "97 sq in, 315g strung, 21mm beam, 16x19. $230-260. Best control racket — iconic frame, exceptional precision for advanced players.",
-      ja: "97平方インチ、315gストリング込み、21mmフレーム、16×19。$230〜260。最高のコントロールラケット——象徴的なフレーム、上級プレーヤーに卓越した精度。",
+      en: "97 sq in, 315g strung, 21mm beam, 16x19. Best control racket — iconic frame, exceptional precision for advanced players.",
+      ja: "97平方インチ、315gストリング込み、21mmフレーム、16×19。最高のコントロールラケット——象徴的なフレーム、上級プレーヤーに卓越した精度。",
     },
     price: "$279.00",
     links: [
@@ -17904,8 +17904,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Spin Focused",
     name: { en: "Babolat Pure Aero 2023 Tennis Racket", ja: "バボラ ピュアアエロ 2023 テニスラケット" },
     description: {
-      en: "100 sq in, 300g, aerodynamic beam, 16x19. $240-270. Best spin-oriented racket — Nadal's frame, optimized for topspin baseline play.",
-      ja: "100平方インチ、300g、空力設計フレーム、16×19。$240〜270。最高のスピン重視ラケット——ナダルのフレーム、トップスピンのベースラインプレーに最適化。",
+      en: "100 sq in, 300g, aerodynamic beam, 16x19. Best spin-oriented racket — Nadal's frame, optimized for topspin baseline play.",
+      ja: "100平方インチ、300g、空力設計フレーム、16×19。最高のスピン重視ラケット——ナダルのフレーム、トップスピンのベースラインプレーに最適化。",
     },
     price: "$289.00",
     links: [
@@ -17920,8 +17920,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "All-Round Intermediate",
     name: { en: "Head Speed MP Tennis Racket", ja: "ヘッド スピードMP テニスラケット" },
     description: {
-      en: "100 sq in, 300g, 23mm beam, 16x19. $220-250. Best all-round intermediate/advanced racket — versatile, Djokovic association.",
-      ja: "100平方インチ、300g、23mmフレーム、16×19。$220〜250。最高のオールラウンド中〜上級ラケット——汎用性高く、ジョコビッチの関連性。",
+      en: "100 sq in, 300g, 23mm beam, 16x19. Best all-round intermediate/advanced racket — versatile, Djokovic association.",
+      ja: "100平方インチ、300g、23mmフレーム、16×19。最高のオールラウンド中〜上級ラケット——汎用性高く、ジョコビッチの関連性。",
     },
     price: "$299.00",
     links: [
@@ -17935,8 +17935,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Arm-Friendly Control",
     name: { en: "Yonex EZONE 98 Tennis Racket", ja: "ヨネックス EZONE 98 テニスラケット" },
     description: {
-      en: "98 sq in, 305g, 23.5mm beam, Vibration Dampening Mesh. $230-260. Best arm-friendly control racket — shock reduction for tennis elbow.",
-      ja: "98平方インチ、305g、23.5mmフレーム、バイブレーション・ダンプニング・メッシュ。$230〜260。最高の腕に優しいコントロールラケット——テニス肘に衝撃軽減。",
+      en: "98 sq in, 305g, 23.5mm beam, Vibration Dampening Mesh. Best arm-friendly control racket — shock reduction for tennis elbow.",
+      ja: "98平方インチ、305g、23.5mmフレーム、バイブレーション・ダンプニング・メッシュ。最高の腕に優しいコントロールラケット——テニス肘に衝撃軽減。",
     },
     price: "$305.00",
     links: [
@@ -17951,8 +17951,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "Accessible Control",
     name: { en: "Wilson Blade 98 v8 Tennis Racket", ja: "ウィルソン ブレード98 v8 テニスラケット" },
     description: {
-      en: "98 sq in, 304g, 21.5mm beam, 16x19. $220-250. Best accessible control racket — less demanding than Pro Staff, Swiatek association.",
-      ja: "98平方インチ、304gストリング込み、21.5mmフレーム、16×19。$220〜250。最高のアクセシブルコントロールラケット——プロスタッフより要求が少なく、シュビアテクの関連性。",
+      en: "98 sq in, 304g, 21.5mm beam, 16x19. Best accessible control racket — less demanding than Pro Staff, Swiatek association.",
+      ja: "98平方インチ、304gストリング込み、21.5mmフレーム、16×19。最高のアクセシブルコントロールラケット——プロスタッフより要求が少なく、シュビアテクの関連性。",
     },
     price: "$249.00",
     links: [
@@ -20439,7 +20439,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Frisco Soft-Sided Cat Carrier",
     },
     description: {
-      en: "Chewy's house brand soft-sided carrier with padded shoulder strap, top-and-side entry, and mesh ventilation. Reliable budget option under $50.",
+      en: "Chewy's house brand soft-sided carrier with padded shoulder strap, top-and-side entry, and mesh ventilation. Reliable budget option.",
     },
     links: [
       { network: "direct", productId: "https://www.chewy.com/frisco-soft-sided-cat-carrier/dp/218831", markets: ["US"], approved: true },
@@ -21650,7 +21650,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Thursday Boot Company Erkek Loafer",
     },
     description: {
-      en: "Full-grain leather upper, leather insole, leather outsole. Goodyear-welt construction at $199–$249 DTC pricing. Made in León, Mexico. Resoleable, 10+ year potential lifespan.",
+      en: "Full-grain leather upper, leather insole, leather outsole. Goodyear-welt construction, DTC pricing. Made in León, Mexico. Resoleable, 10+ year potential lifespan.",
     },
     links: [
       { network: "direct", productId: "https://thursdayboots.com/collections/mens-loafers", markets: ["US", "EU", "UK", "global"], approved: true },
@@ -22336,7 +22336,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Seiko SKX007 Otomatik Dalgıç Saati",
     },
     description: {
-      en: "Discontinued cult dive watch with 7S26 automatic movement, 200m water resistance, unidirectional bezel, and 42mm case. Available on gray market and authorized used dealers at $280–$450. Modern successors are the Seiko 5 SRPD line.",
+      en: "Discontinued cult dive watch with 7S26 automatic movement, 200m water resistance, unidirectional bezel, and 42mm case. Available on the gray market and from authorized used dealers. Modern successors are the Seiko 5 SRPD line.",
       ja: "7S26自動巻きムーブメント、200m防水、逆回転防止ベゼル、42mmケースを備えた廃番カルト ダイバーズウォッチ。グレーマーケットや正規中古ディーラーで280〜450ドルで入手可能。現行後継機はSeiko 5 SRPDライン。",
     },
     links: [
@@ -22370,7 +22370,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Rolex Submariner Tarifsiz (Ref. 124060)",
     },
     description: {
-      en: "The definitive luxury dive watch. Cal. 3230 in-house movement with 70-hour power reserve, 300m water resistance, Oystersteel case, Cerachrom black ceramic bezel. Retail $9,800; gray and secondary market $9,200–$14,000 depending on condition and year.",
+      en: "The definitive luxury dive watch. Cal. 3230 in-house movement with 70-hour power reserve, 300m water resistance, Oystersteel case, Cerachrom black ceramic bezel. Gray and secondary market prices vary with condition and year.",
       ja: "究極のラグジュアリーダイバーズウォッチ。70時間パワーリザーブのCal. 3230自社製ムーブメント、300m防水、オイスタースティールケース、セラクロム黒セラミックベゼル。小売価格9,800ドル、グレーマーケット・二次市場では状態と年式に応じて9,200〜14,000ドル。",
     },
     links: [
@@ -22406,7 +22406,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Tissot PRX Powermatic 80",
     },
     description: {
-      en: "Swiss-made integrated-bracelet automatic with 80-hour power reserve, ETA C07.111 movement, 35.5mm or 40mm case, sapphire crystal. Inspired by the 1970s Tissot PR516. Available at authorized dealers and tissotwatches.com at $695–$895.",
+      en: "Swiss-made integrated-bracelet automatic with 80-hour power reserve, ETA C07.111 movement, 35.5mm or 40mm case, sapphire crystal. Inspired by the 1970s Tissot PR516. Available at authorized dealers and tissotwatches.com.",
       ja: "80時間パワーリザーブ、ETA C07.111ムーブメント、35.5mmまたは40mmケース、サファイアクリスタルを備えたスイス製一体型ブレスレット自動巻き。1970年代のTissot PR516にインスパイアされたデザイン。正規ディーラーおよびtissotwatches.comで695〜895ドル。",
     },
     links: [
@@ -22441,7 +22441,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Casio G-Shock GA-2100 CasiOak",
     },
     description: {
-      en: "Budget cult icon with octagonal bezel echoing Audemars Piguet Royal Oak. Analog-digital display, 200m water resistance, shock-resistant carbon core guard structure, 3-year battery. 45.4mm case in carbon-reinforced resin. Multiple colorways at $99–$120.",
+      en: "Budget cult icon with octagonal bezel echoing Audemars Piguet Royal Oak. Analog-digital display, 200m water resistance, shock-resistant carbon core guard structure, 3-year battery. 45.4mm case in carbon-reinforced resin. Multiple colorways.",
       ja: "オーデマ ピゲ ロイヤルオークを彷彿とさせる八角形ベゼルを持つバジェットカルトアイコン。アナデジ表示、200m防水、耐衝撃カーボンコアガード構造、3年電池。45.4mmカーボン強化樹脂ケース。99〜120ドルで複数カラーバリエーションあり。",
     },
     links: [
@@ -22524,7 +22524,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
     badge: "💰",
     name: { en: "Anker Soundcore Liberty 4 NC", ja: "Anker Soundcore Liberty 4 NC", "zh-CN": "Anker Soundcore Liberty 4 NC", "zh-TW": "Anker Soundcore Liberty 4 NC", ko: "Anker Soundcore Liberty 4 NC", es: "Anker Soundcore Liberty 4 NC", "pt-BR": "Anker Soundcore Liberty 4 NC", fr: "Anker Soundcore Liberty 4 NC", de: "Anker Soundcore Liberty 4 NC", it: "Anker Soundcore Liberty 4 NC", ru: "Anker Soundcore Liberty 4 NC", ar: "Anker Soundcore Liberty 4 NC", hi: "Anker Soundcore Liberty 4 NC", id: "Anker Soundcore Liberty 4 NC", th: "Anker Soundcore Liberty 4 NC", vi: "Anker Soundcore Liberty 4 NC", tr: "Anker Soundcore Liberty 4 NC" },
     description: {
-      en: "98% ANC depth at $79–99. LDAC Hi-Res codec, 10h battery (50h case), IPX4, heart rate monitor. Solid flight noise reduction at 28% the price of Sony. ANC quality drops at very high frequencies; app has occasional sync issues; build feels lighter than premium rivals.",
+      en: "98% ANC depth. LDAC Hi-Res codec, 10h battery (50h case), IPX4, heart rate monitor. Solid flight noise reduction at a fraction of Sony's price. ANC quality drops at very high frequencies; app has occasional sync issues; build feels lighter than premium rivals.",
       ja: "79〜99ドルで98%ANC深度。LDAC ハイレゾコーデック、10時間バッテリー（ケース込み50時間）、IPX4、心拍数モニター。ソニーの28%の価格でしっかりしたフライトノイズ低減。超高周波でのANC品質低下；アプリの同期が不安定な場合あり；プレミアム競合より軽量な質感。",
     },
     links: [
@@ -22560,8 +22560,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Dyson V15 Detect",
     },
     description: {
-      en: "$649–849 premium cordless pick for pet homes. 240 AW Hyperdymium motor, green laser reveals hidden pet hair on hardwood, acoustic piezo particle sensor auto-adjusts suction, 60-min run time in Eco mode, 0.77 L bin. 3.0 kg body fatigues users on extended stair work; 82–84 dB in MAX mode.",
-      ja: "$649〜849のペット世帯向けプレミアムコードレス。240AWモーター、グリーンレーザーでフローリングの毛を可視化、60分エコモード稼働。3.0kgで階段掃除は疲れる。",
+      en: "Premium cordless pick for pet homes. 240 AW Hyperdymium motor, green laser reveals hidden pet hair on hardwood, acoustic piezo particle sensor auto-adjusts suction, 60-min run time in Eco mode, 0.77 L bin. 3.0 kg body fatigues users on extended stair work; 82–84 dB in MAX mode.",
+      ja: "ペット世帯向けプレミアムコードレス。240AWモーター、グリーンレーザーでフローリングの毛を可視化、60分エコモード稼働。3.0kgで階段掃除は疲れる。",
     },
     links: [
       { network: "amazon-us", productId: "B09CQKGWN3", rawUrl: "https://www.amazon.com/dp/B09CQKGWN3", markets: ["US", "EU", "UK", "global"], approved: true },
@@ -22594,8 +22594,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Shark Navigator Pet Pro",
     },
     description: {
-      en: "$149–199 corded upright with Lift-Away pod for stairs and furniture. Anti-Allergen HEPA filter, XL 2.5 L dust cup, tangle-free pet brush roll. Cord is 25 ft — you will unplug and re-plug in larger homes.",
-      ja: "$149〜199のコード式アップライト。リフトアウェイポッドで階段・家具対応、HEPA、2.5Lダストカップ、タングルフリーブラシロール。コード7.6mで広い家は抜き差し必要。",
+      en: "Corded upright with Lift-Away pod for stairs and furniture. Anti-Allergen HEPA filter, XL 2.5 L dust cup, tangle-free pet brush roll. Cord is 25 ft — you will unplug and re-plug in larger homes.",
+      ja: "コード式アップライト。リフトアウェイポッドで階段・家具対応、HEPA、2.5Lダストカップ、タングルフリーブラシロール。コード7.6mで広い家は抜き差し必要。",
     },
     links: [
       { network: "amazon-us", productId: "B09Q3BSNHS", rawUrl: "https://www.amazon.com/dp/B09Q3BSNHS", markets: ["US", "EU", "UK", "global"], approved: true },
@@ -22628,8 +22628,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "BISSELL Pet Hair Eraser 2087",
     },
     description: {
-      en: "$99–139 budget corded upright built specifically for pet hair. Tangle-free brush roll, scratch-free wand for hardwood, SmartSeal HEPA filtration, LED headlights, 1 L easy-clean dirt tank. Suction noticeably lower than Dyson at max carpet depth.",
-      ja: "$99〜139のペット毛専用コード式アップライト。タングルフリーブラシ、フローリング傷つけないワンド、HEPA、LEDヘッドライト、1Lタンク。カーペット深部ではダイソンより吸引力劣る。",
+      en: "Budget corded upright built specifically for pet hair. Tangle-free brush roll, scratch-free wand for hardwood, SmartSeal HEPA filtration, LED headlights, 1 L easy-clean dirt tank. Suction noticeably lower than Dyson at max carpet depth.",
+      ja: "ペット毛専用コード式アップライト。タングルフリーブラシ、フローリング傷つけないワンド、HEPA、LEDヘッドライト、1Lタンク。カーペット深部ではダイソンより吸引力劣る。",
     },
     links: [
       { network: "amazon-us", productId: "B0794G7C3D", rawUrl: "https://www.amazon.com/dp/B0794G7C3D", markets: ["US", "EU", "UK", "global"], approved: true },
@@ -22662,8 +22662,8 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Neabot P1 Pro Evcil Hayvan Bakım Süpürgesi",
     },
     description: {
-      en: "$199–279 grooming + vacuuming combo that sucks loose fur straight off the pet into a 2.3 L canister before it hits the floor. Includes 5 grooming heads (slicker brush, deshedding blade, electric clipper, nozzle, cleaning brush), 60 dB quiet motor. Better for short grooming sessions than whole-home deep cleaning.",
-      ja: "$199〜279のグルーミング+掃除一体型。毛をペットから直接2.3Lキャニスターへ吸引。5ヘッド付属、60dB静音。全室掃除より短時間グルーミングセッション向き。",
+      en: "Grooming + vacuuming combo that sucks loose fur straight off the pet into a 2.3 L canister before it hits the floor. Includes 5 grooming heads (slicker brush, deshedding blade, electric clipper, nozzle, cleaning brush), 60 dB quiet motor. Better for short grooming sessions than whole-home deep cleaning.",
+      ja: "グルーミング+掃除一体型。毛をペットから直接2.3Lキャニスターへ吸引。5ヘッド付属、60dB静音。全室掃除より短時間グルーミングセッション向き。",
     },
     links: [
       { network: "amazon-us", productId: "B08KFDF3GK", rawUrl: "https://www.amazon.com/dp/B08KFDF3GK", markets: ["US", "EU", "UK", "global"], approved: true },
@@ -22830,7 +22830,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Seiko 5 Sports Quartz",
     },
     description: {
-      en: "Japanese quartz workhorse with 100m water resistance, day-date complication, 10+ year battery, and hardlex mineral crystal. 42mm stainless case. $150–$220 at authorized dealers. Drift measured at ±15 sec/month in 90-day test.",
+      en: "Japanese quartz workhorse with 100m water resistance, day-date complication, 10+ year battery, and hardlex mineral crystal. 42mm stainless case. Drift measured at ±15 sec/month in 90-day test.",
       ja: "100m防水、デイデイト機能、10年以上の電池寿命、ハードレックスミネラルクリスタルを備えた日本製クオーツの主力モデル。42mmステンレスケース。正規ディーラーで150〜220ドル。90日テストでの精度は月±15秒。",
     },
     links: [
@@ -22865,7 +22865,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Citizen Eco-Drive Corso",
     },
     description: {
-      en: "Solar-powered quartz — charges from any light source, never needs a battery replacement. Sapphire crystal, ±5 sec/month accuracy, 100m water resistance. 40mm stainless case. $195–$295 at Citizen dealers. 10-year estimated ownership cost: $80 (one gasket service only).",
+      en: "Solar-powered quartz — charges from any light source, never needs a battery replacement. Sapphire crystal, ±5 sec/month accuracy, 100m water resistance. 40mm stainless case. Ten-year ownership cost is minimal — one gasket service only.",
       ja: "あらゆる光源で充電でき、電池交換不要のソーラー駆動クオーツ。サファイアクリスタル、月±5秒精度、100m防水。40mmステンレスケース。正規ディーラーで195〜295ドル。10年推計保有コスト：80ドル（パッキン交換1回のみ）。",
     },
     links: [
@@ -22900,7 +22900,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Casio Edifice EFR-303D",
     },
     description: {
-      en: "Budget quartz chronograph with stopwatch sub-dials, 100m water resistance, 3-year battery, and 45mm stainless case. Mineral crystal scratches but at $80–$140 is the most feature-dense entry in this comparison. Drift at ±20 sec/month in 90-day test.",
+      en: "Budget quartz chronograph with stopwatch sub-dials, 100m water resistance, 3-year battery, and 45mm stainless case. Mineral crystal scratches, but this is the most feature-dense entry in this comparison. Drift at ±20 sec/month in 90-day test.",
       ja: "ストップウォッチサブダイヤル、100m防水、3年電池、45mmステンレスケースを備えたバジェットクオーツクロノグラフ。ミネラルクリスタルは傷がつきやすいが、80〜140ドルでこの比較では最も機能が豊富。90日テストでの精度は月±20秒。",
     },
     links: [
@@ -22935,7 +22935,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Tissot PRX Quartz 35mm",
     },
     description: {
-      en: "Swiss-made integrated-bracelet quartz inspired by the 1970s Tissot PR516. 35mm case, sapphire crystal, 10-year battery, ETA Ronda 715 movement, ±10 sec/month. Integrated bracelet fits the wrist like a single unit. $325–$425 at Tissot boutiques and authorized dealers.",
+      en: "Swiss-made integrated-bracelet quartz inspired by the 1970s Tissot PR516. 35mm case, sapphire crystal, 10-year battery, ETA Ronda 715 movement, ±10 sec/month. Integrated bracelet fits the wrist like a single unit. Available at Tissot boutiques and authorized dealers.",
       ja: "1970年代のTissot PR516にインスパイアされたスイス製一体型ブレスレットクオーツ。35mmケース、サファイアクリスタル、10年電池、ETA Ronda 715ムーブメント、月±10秒精度。一体型ブレスレットが手首に自然にフィット。ティソブティックおよび正規ディーラーで325〜425ドル。",
     },
     links: [
@@ -22969,7 +22969,7 @@ const RAW_CATALOG: AffiliateOffer[] = [
       tr: "Swatch Once Again Gent",
     },
     description: {
-      en: "Swiss-made plastic quartz in the original 1983 Gent form factor. 34mm polycarbonate case, 24g total weight, 2-year battery, 30m water resistance. Cheapest Swiss-made watch you can buy new. $65–$80 at Swatch stores and swatch.com. Drift at ±25 sec/month in 90-day test.",
+      en: "Swiss-made plastic quartz in the original 1983 Gent form factor. 34mm polycarbonate case, 24g total weight, 2-year battery, 30m water resistance. Cheapest Swiss-made watch you can buy new. Available at Swatch stores and swatch.com. Drift at ±25 sec/month in 90-day test.",
       ja: "1983年のジェント・フォームファクターを踏襲した34mmポリカーボネートケース、24gの軽量ボディ、2年電池、30m防水のスイス製プラスチッククオーツ。現行新品で買える最安値のスイス製時計。スウォッチストアおよびswatch.comで65〜80ドル。90日テストでの精度は月±25秒。",
     },
     links: [

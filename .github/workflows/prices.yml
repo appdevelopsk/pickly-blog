@@ -1,0 +1,148 @@
+name: Prices
+
+# 価格パイプラインの単一の入口（2026-09-09 に launchd から移設）。
+#
+# 経緯: 従来は fetch-prices.yml（Amazon / 2026-08-21 に schedule 停止）と
+# ローカル Mac の launchd `com.pickly.price-history.plist` が併存し、
+# 後者は push が rejected で失敗し続けたまま19日間気づかれなかった。
+# Mac のスリープに依存せず、失敗が Actions のログに残る形へ一本化する。
+#
+# ジョブ構成:
+#   snapshot  毎日  price-history.json に1点追記（外部APIなし・数秒）
+#   amazon    毎日  PA-API で Amazon 価格を取得（PAAPI_* 未設定ならスキップ）
+#   refresh   週2回 楽天/Yahoo の全件リフレッシュ（約3.5時間）
+#   staleness 毎日  鮮度ゲート。閾値超過で赤くなる＝止まったら気づける
+
+on:
+  schedule:
+    # 毎日 10:00 JST（01:00 UTC）— 日次の軽い処理
+    - cron: "0 1 * * *"
+    # 月・木 04:00 JST（前日 19:00 UTC）— 全件リフレッシュ（重い）
+    - cron: "0 19 * * 0,3"
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "実行するジョブ"
+        required: true
+        default: "daily"
+        type: choice
+        options: [daily, refresh, staleness]
+
+concurrency:
+  # 全件リフレッシュ(3.5h)と日次が重なると同じキャッシュを奪い合うので直列化する
+  group: prices
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  # ── 日次: Amazon 取得 → 履歴追記 ──────────────────────────────────────────
+  daily:
+    if: github.event.schedule == '0 1 * * *' || github.event.inputs.job == 'daily'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: npm ci
+        working-directory: site
+
+      # PAAPI_* が未設定なら fetch-prices.ts 側がスキップを表示して正常終了する。
+      # 売上要件（直近180日に3件の適格販売）未達でも AccessDenied で中断し、
+      # 既存の価格を保ったまま終わる（価格を空にはしない）。
+      - name: Amazon 価格を取得 (PA-API)
+        env:
+          PAAPI_ACCESS_KEY: ${{ secrets.PAAPI_ACCESS_KEY }}
+          PAAPI_SECRET_KEY: ${{ secrets.PAAPI_SECRET_KEY }}
+          PAAPI_PARTNER_TAG: ${{ secrets.PAAPI_PARTNER_TAG }}
+          KEEPA_API_KEY: ${{ secrets.KEEPA_API_KEY }}
+        run: npm run prices:fetch
+        working-directory: site
+
+      - name: 価格履歴を1点追記
+        run: npm run prices:snapshot
+        working-directory: site
+
+      - uses: ./.github/actions/commit-prices
+        with:
+          message: "data(price): Amazon 価格と価格履歴を更新（日次）"
+          paths: >-
+            site/src/lib/affiliates/prices-override.ts
+            site/src/lib/affiliates/price-history.json
+
+  # ── 週2回: 楽天/Yahoo 全件リフレッシュ ────────────────────────────────────
+  refresh:
+    if: github.event.schedule == '0 19 * * 0,3' || github.event.inputs.job == 'refresh'
+    runs-on: ubuntu-latest
+    # 全件で約3.5時間。GitHub の上限は6時間なので余裕を持って5時間で打ち切る。
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: npm ci
+        working-directory: site
+
+      - name: 楽天を全件リフレッシュ
+        env:
+          RAKUTEN_APP_ID: ${{ secrets.RAKUTEN_APP_ID }}
+          RAKUTEN_ACCESS_KEY: ${{ secrets.RAKUTEN_ACCESS_KEY }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+        run: npx tsx scripts/fetch-rakuten.ts --refresh
+        working-directory: site
+
+      - name: Yahoo を全件リフレッシュ
+        env:
+          YAHOO_APP_ID: ${{ secrets.YAHOO_APP_ID }}
+          AFFILIATE_VALUECOMMERCE_SID: ${{ secrets.AFFILIATE_VALUECOMMERCE_SID }}
+          AFFILIATE_VALUECOMMERCE_PID: ${{ secrets.AFFILIATE_VALUECOMMERCE_PID }}
+        run: npx tsx scripts/fetch-yahoo.ts --refresh
+        working-directory: site
+
+      # リフレッシュ直後にスナップショットを取る。ここで取らないと
+      # 「新しい値が履歴に入るのが翌日」になり、値下げ判定が1日ずれる。
+      - name: 価格履歴を1点追記
+        run: npm run prices:snapshot
+        working-directory: site
+
+      - uses: ./.github/actions/commit-prices
+        with:
+          message: "data(price): 楽天/Yahoo を全件リフレッシュ（週2回）"
+          paths: >-
+            site/src/lib/affiliates/rakuten-cache.json
+            site/src/lib/affiliates/yahoo-cache.json
+            site/src/lib/affiliates/price-history.json
+
+  # ── 鮮度ゲート ────────────────────────────────────────────────────────────
+  staleness:
+    # daily が走った後に見たいが、daily がスキップ/失敗でも鮮度は確認したいので always()
+    needs: [daily]
+    if: >-
+      always() &&
+      (github.event.schedule == '0 1 * * *' || github.event.inputs.job == 'staleness')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          # daily ジョブが push した最新をチェックアウトする
+          ref: main
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: npm ci
+        working-directory: site
+      - name: 価格データの鮮度を確認
+        # PA-API 鍵の登録が済むまでは落とさず警告のみ（WARN_ONLY を外すのは移行完了後）
+        env:
+          WARN_ONLY: "1"
+        run: npm run prices:staleness
+        working-directory: site

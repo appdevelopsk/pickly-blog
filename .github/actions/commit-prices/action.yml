@@ -1,0 +1,52 @@
+name: Commit price data
+description: >-
+  価格データの差分だけを main へコミットする。他のジョブ（GSC スナップショット等）が
+  同時に main を進めるため、リトライしないと push が rejected で落ちる。
+  2026-08-21〜09-09 にローカル launchd が19日間 push に失敗し続けた原因がこれ。
+
+inputs:
+  message:
+    description: コミットメッセージ
+    required: true
+  paths:
+    description: コミット対象（空白区切り。ここに挙げたパス以外は絶対に触らない）
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      env:
+        COMMIT_MESSAGE: ${{ inputs.message }}
+        COMMIT_PATHS: ${{ inputs.paths }}
+      run: |
+        set -euo pipefail
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+
+        # 明示パスのみ add する（-A / -u は使わない。関係ない生成物を巻き込むため）
+        # shellcheck disable=SC2086
+        git add -- $COMMIT_PATHS
+
+        if git diff --cached --quiet; then
+          echo "価格データに差分なし。コミットしません。"
+          exit 0
+        fi
+
+        git commit -m "$COMMIT_MESSAGE [skip ci]"
+
+        # 他ジョブと競合したら rebase してやり直す。
+        # rebase 対象は価格データだけなので衝突は起きにくいが、
+        # 起きた場合は握りつぶさず失敗させる（黙って壊れるより赤くする）。
+        for attempt in 1 2 3 4 5; do
+          if git push origin HEAD:main; then
+            echo "push 成功 (試行 $attempt)"
+            exit 0
+          fi
+          echo "push が拒否されました。rebase して再試行します (試行 $attempt)"
+          git pull --rebase --autostash origin main
+          sleep $((attempt * 5))
+        done
+
+        echo "5回試行しても push できませんでした。" >&2
+        exit 1
