@@ -150,6 +150,14 @@ jobs:
       - name: Gate i18n key gaps
         run: npm run audit:i18n
 
+      # ★Amazon の国別着地の門番 (2026-09-10)。市場→ホストの期待表(JP=amazon.co.jp,
+      #   DE=amazon.de, UK/FR/ES/IT/CA=Earn Globally の amazon.com)を実 URL で数える。
+      #   スクリプトは 2026-08-21 からあったが CI から呼ばれておらず、asp.ts の
+      #   RETIRED_AMAZON_NETWORKS や LOCAL_REMAP を触って壊しても検知できなかった。
+      #   致命(exit 1)は「読者が損をする」不変条件だけ。0.7 秒で終わる。
+      - name: Gate affiliate localization
+        run: npm run audit:localization
+
       - name: Exclude legacy committed OG from the build
         run: rm -rf public/og
 
@@ -225,3 +233,10 @@ jobs:
         run: |
           sleep 30  # Pages のエッジ反映待ち
           node scripts/indexnow-ci.mjs
+
+      # ★本番スモークテスト (2026-09-10)。"/" の Accept-Language 振り分け(functions/index.ts)
+      #   と gtag のボットゲート(layout.tsx)が配信後も生きているかを実 HTTP で確かめる。
+      #   _redirects / Function を触って壊してもビルドも check:output も通ってしまうため。
+      #   デプロイは済んでいるので落とすのは通知のため(赤くなったら docs/COUNTRY_ACCESS.md)。
+      - name: Smoke test production routing
+        run: node scripts/smoke-prod.mjs
