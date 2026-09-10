@@ -17,7 +17,7 @@ import { SisterSiteCta } from "@/components/SisterSiteCta";
 import { AffiliateClickTracker } from "@/components/AffiliateClickTracker";
 import { ScrollProgress } from "@/components/ScrollProgress";
 import { BackToTop } from "@/components/BackToTop";
-import { loadArticleContent, isArticleBodyTranslated } from "@/lib/i18n/loader";
+import { loadArticleContent, isArticleBodyTranslated, EN_FALLBACK_KEYS } from "@/lib/i18n/loader";
 import { withEnglishGeoAlternates } from "@/lib/i18n/alternates";
 import { OG_BASE_URL } from "@/lib/og";
 import type { ArticleContent } from "@/lib/articles/types";
@@ -96,6 +96,8 @@ export default async function ArticlePage({ params }: Props) {
 
   // Load only this article's messages (not all 575) — keeps RSC payload small
   const msg = await loadArticleContent(slug, locale);
+  // ロケール側に無く en から埋まったキー。英語のまま可視描画してよいかの判定に使う。
+  const enFallback = safeArr<string>(msg, EN_FALLBACK_KEYS);
 
   const rawSections = safeArr<RawMessages>(msg, "sections");
   let sections: ArticleContent["sections"] = [];
@@ -174,7 +176,12 @@ export default async function ArticlePage({ params }: Props) {
     products,
     offerNotes: (msg.offerNotes ?? {}) as Record<string, string>,
     methodology: typeof msg.methodology === "string" ? msg.methodology : undefined,
-    quickAnswer: typeof msg.quickAnswer === "string" ? msg.quickAnswer : undefined,
+    // ★ en から埋まった quickAnswer は出さない。非enページに英語の段落が可視で出て
+    //   しまう（2026-09-10 実測で index 対象 8,860ページ）。翻訳が入り次第自動で出る。
+    quickAnswer:
+      typeof msg.quickAnswer === "string" && !enFallback.includes("quickAnswer")
+        ? msg.quickAnswer
+        : undefined,
     recommendedFor: Array.isArray(msg.recommendedFor)
       ? (msg.recommendedFor as ArticleContent["recommendedFor"])
       : undefined,
