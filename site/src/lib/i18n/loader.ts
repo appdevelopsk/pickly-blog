@@ -65,7 +65,16 @@ export function normalizeArticleMessages(raw: Messages, slug?: string): Messages
 /**
  * Load messages for a single article (slug + locale) with English fallback.
  * Used by the article page instead of loading all articles at once.
+ *
+ * ★ 戻り値には `__enFallback` を載せる。ロケール側に存在せず en から埋まったキーの
+ *   集合で、「この文字列は英語のまま」であることを呼び出し側が判別するために要る。
+ *   マージ後の `{ ...base, ...localized }` を見ても由来は分からないため。
+ *   2026-09-10: en 単独で追加した quickAnswer が、index 対象 8,860ページで英語のまま
+ *   可視描画されていた（BODY_KEYS の防御は sections/products/faqs だけを見ており、
+ *   新しいキーは素通りする）。個別キーを増やすたびに穴が空くので、由来そのものを返す。
  */
+export const EN_FALLBACK_KEYS = "__enFallback";
+
 export async function loadArticleContent(slug: string, locale: string): Promise<Messages> {
   let base: Messages = {};
   try {
@@ -77,9 +86,10 @@ export async function loadArticleContent(slug: string, locale: string): Promise<
   try {
     const mod = await import(`@/articles/${slug}/messages/${locale}.json`);
     const localized = normalizeArticleMessages(mod.default as Messages, slug);
-    return { ...base, ...localized };
+    const fellBack = Object.keys(base).filter((k) => localized[k] === undefined);
+    return { ...base, ...localized, [EN_FALLBACK_KEYS]: fellBack };
   } catch {
-    return base;
+    return { ...base, [EN_FALLBACK_KEYS]: Object.keys(base) };
   }
 }
 
