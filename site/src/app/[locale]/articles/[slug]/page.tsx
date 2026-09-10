@@ -98,6 +98,36 @@ export default async function ArticlePage({ params }: Props) {
   const msg = await loadArticleContent(slug, locale);
   // ロケール側に無く en から埋まったキー。英語のまま可視描画してよいかの判定に使う。
   const enFallback = safeArr<string>(msg, EN_FALLBACK_KEYS);
+  // ★ en から埋まった「任意ブロック」は非enページで出さない。
+  //   欠けてもページは成立するが、出すと英語の可視テキストが index 対象ページに
+  //   残る種類のキー。個別に分岐を書くとキーを増やすたびに穴が空くので
+  //   (2026-09-10 の quickAnswer 8,860ページ、recommendedFor 141件)、
+  //   ここで一括して落とす。翻訳が入り次第、自動で表示に戻る。
+  //   本文キー(sections/products/faqs)はここに入れない。欠けるとページが空になるため
+  //   noindex 側(isArticleBodyTranslated / BODY_KEYS)で扱う。
+  //   enFallback は「キーが無い」(機構1)に加えて「値が en と同一 = 未翻訳」(機構2)も含み、
+  //   dict は `offerNotes.<offerId>` の形で個別に載る。
+  const OPTIONAL_EN_ONLY: string[] = ["quickAnswer", "recommendedFor", "offerNotes", "methodology"];
+  const dropped = new Set<string>(enFallback);
+  const isDropped = (key: string) => OPTIONAL_EN_ONLY.includes(key) && dropped.has(key);
+  const keep = <T,>(key: string, v: T): T | undefined => (isDropped(key) ? undefined : v);
+  // offerNotes は offer id ごとに独立した一文なので、未翻訳の id だけを落として
+  // 翻訳済みの note は残す。dict ごと捨てると翻訳済みの分まで消える。
+  // 配列キーも同様に要素単位。label だけ英語で reason は訳済み、という
+  // 部分翻訳が実在するので、英語が残る要素だけを落とす。空になったら節ごと出さない。
+  const keepItems = <T extends { offerId?: string }>(key: string, v: T[] | undefined) => {
+    if (!v) return undefined;
+    if (isDropped(key)) return undefined;
+    const out = v.filter((it, i) => !dropped.has(`${key}.${it.offerId ?? String(i)}`));
+    return out.length > 0 ? out : undefined;
+  };
+  type Notes = Record<string, string>;
+  const keepNotes = (v: Notes) => {
+    if (isDropped("offerNotes")) return {} as Notes;
+    return Object.fromEntries(
+      Object.entries(v).filter(([id]) => !dropped.has(`offerNotes.${id}`)),
+    ) as Notes;
+  };
 
   const rawSections = safeArr<RawMessages>(msg, "sections");
   let sections: ArticleContent["sections"] = [];
@@ -174,17 +204,15 @@ export default async function ArticlePage({ params }: Props) {
     sections,
     faqs,
     products,
-    offerNotes: (msg.offerNotes ?? {}) as Record<string, string>,
-    methodology: typeof msg.methodology === "string" ? msg.methodology : undefined,
-    // ★ en から埋まった quickAnswer は出さない。非enページに英語の段落が可視で出て
-    //   しまう（2026-09-10 実測で index 対象 8,860ページ）。翻訳が入り次第自動で出る。
-    quickAnswer:
-      typeof msg.quickAnswer === "string" && !enFallback.includes("quickAnswer")
-        ? msg.quickAnswer
+    offerNotes: keepNotes((msg.offerNotes ?? {}) as Record<string, string>),
+    methodology: keep("methodology", typeof msg.methodology === "string" ? msg.methodology : undefined),
+    quickAnswer: keep("quickAnswer", typeof msg.quickAnswer === "string" ? msg.quickAnswer : undefined),
+    recommendedFor: keepItems(
+      "recommendedFor",
+      Array.isArray(msg.recommendedFor)
+        ? (msg.recommendedFor as ArticleContent["recommendedFor"])
         : undefined,
-    recommendedFor: Array.isArray(msg.recommendedFor)
-      ? (msg.recommendedFor as ArticleContent["recommendedFor"])
-      : undefined,
+    ),
   };
 
   const market = inferMarketFromLocale(locale);
