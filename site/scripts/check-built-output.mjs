@@ -64,7 +64,11 @@ const FABRICATED = {
   // ★ "vesti"は一人称過去(vestir=着る)だが、"vesti-la/vesti-lo"(不定詞+接語代名詞、
   //   例: "vai vesti-la mais de mil vezes"=「これから何度も着ることになる」)にも
   //   単語境界一致してしまう(2026-08-18、pt-BR誤検出)。直後のハイフン+代名詞は除外する。
-  "pt-BR": b("testei|medi|usei|vesti(?!-l[ao])|experimentei|contei|dirigi|dormi|lavei|levei|meu teste|meus testes"),
+  // ★ "medi GmbH" はドイツの医療用弾性ストッキングメーカーの社名(CEP/mediven の親会社)。
+  //   pt-BR の medi(medir の一人称過去=「私が計測した」)と綴りが同じで、社名の方に
+  //   一致してしまう(2026-09-10、pt-BR誤検出でデプロイ停止)。en にしか無い quickAnswer が
+  //   pt-BR ページへフォールバックして可視テキストになったことで表面化した。社名は除外する。
+  "pt-BR": b("testei|medi(?!\\s+GmbH)|usei|vesti(?!-l[ao])|experimentei|contei|dirigi|dormi|lavei|levei|meu teste|meus testes"),
   "ru": b("я (тестировал|протестировал|измерял|измерил|использовал|носил|пробовал|считал|звонил|спал|стирал)|мой тест|моих тест"),
   // ★★ インドネシア語もタイ語と同じ問題。動詞が時制変化しないので素の「saya menggunakan」は
   //   "I used"（体験談＝要検出）だけでなく "Bisakah saya menggunakan…?"（読者視点のFAQ質問＝正常）
