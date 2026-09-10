@@ -7,7 +7,7 @@ import { AffiliateLink } from "@/components/AffiliateLink";
 import { NewsletterForm } from "@/components/NewsletterForm";
 import { Link } from "@/lib/i18n/navigation";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
-import { resolvePrice } from "@/lib/affiliates/price";
+import { resolvePrice, resolvePriceWithAsOf } from "@/lib/affiliates/price";
 import { StickyOfferCta } from "./StickyOfferCta";
 import { EvidenceBadge, deriveEvidenceLevel } from "./EvidenceBadge";
 
@@ -36,6 +36,24 @@ function renderInline(text: string) {
   }
   if (last < text.length) out.push(text.slice(last));
   return out;
+}
+
+/**
+ * 価格バッジ。API で実取得した価格にだけ「〜時点」を付ける。
+ * カタログのベタ書き価格は取得日が確定しないので日付なしで出す
+ * （記事末尾の免責が全体を受け持つ）。title 属性は SEO ではなくホバー時の補足。
+ */
+function PriceTag({ offer, locale, className }: { offer: AffiliateOffer; locale: string; className: string }) {
+  const t = useTranslations();
+  const resolved = resolvePriceWithAsOf(offer, locale);
+  if (!resolved) return null;
+  const asOfLabel = resolved.asOf ? t("article.priceAsOf", { date: formatDate(resolved.asOf) }) : null;
+  return (
+    <span className={className} title={asOfLabel ?? undefined}>
+      {resolved.price}
+      {asOfLabel && <span className="ml-1 font-normal text-[11px] text-slate-500">{asOfLabel}</span>}
+    </span>
+  );
 }
 
 function StarRating({ rating, label, size = "md" }: { rating: number; label?: string; size?: "sm" | "md" }) {
@@ -73,6 +91,14 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
 
   const t = useTranslations();
   const locale = useLocale();
+
+  // 価格を1つでも表示している記事にだけ価格免責を出す（価格の無い記事に出すと嘘になる）。
+  // offers 由来のカード/表だけでなく、本文の markdown 比較表に直接書かれた価格も対象。
+  // 後者は自動更新されない分むしろ古くなりやすく、免責が必要なのはこちらも同じ。
+  const priceInText = /[¥￥$][0-9][0-9,.]*|[0-9][0-9,.]*\s*円/;
+  const showsAnyPrice =
+    offers.some((o) => resolvePrice(o, locale) != null) ||
+    JSON.stringify(content.sections ?? []).search(priceInText) !== -1;
 
   /* 価格データは en 76% / ja 28% / de-fr 19% と地域差が大きい。「1件でもあれば
      列を出す」条件だと ja/de では10行中7〜8行が "—" になり未完成に見えるため、
@@ -233,7 +259,7 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
                     </h2>
                     <div className="flex flex-wrap items-center gap-2">
                       {o.rating && <StarRating rating={o.rating} label={t("article.ratingLabel", { rating: o.rating.toFixed(1) })} />}
-                      {price && <span className="rounded-md bg-slate-100 px-2 py-0.5 text-sm font-bold text-slate-700">{price}</span>}
+                      {price && <PriceTag offer={o} locale={locale} className="rounded-md bg-slate-100 px-2 py-0.5 text-sm font-bold text-slate-700" />}
                     </div>
                   </div>
                 </div>
@@ -573,7 +599,7 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
                     </h2>
                     <div className="flex flex-wrap items-center gap-3">
                       {o.rating && <StarRating rating={o.rating} label={t("article.ratingLabel", { rating: o.rating.toFixed(1) })} />}
-                      {resolvePrice(o, locale) && <span className="text-sm font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-md">{resolvePrice(o, locale)}</span>}
+                      <PriceTag offer={o} locale={locale} className="text-sm font-bold text-slate-700 bg-slate-100 px-2 py-0.5 rounded-md" />
                     </div>
                     {productIds.includes(o.id) && (
                       <Link href={`/products/${o.id}/`} className="mt-2 inline-block text-sm font-semibold text-brand-600 hover:underline">
@@ -772,6 +798,11 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
                 ))}
               </div>
             </section>
+          )}
+
+          {/* 価格免責 — 価格を表示している記事のみ。表示価格が取得時点のものである旨を明示する。 */}
+          {showsAnyPrice && (
+            <p className="mt-6 text-xs text-slate-500">{t("article.priceDisclaimer")}</p>
           )}
 
           {/* Disclosure note — 報酬が発生しうるリンクがある記事のみ */}

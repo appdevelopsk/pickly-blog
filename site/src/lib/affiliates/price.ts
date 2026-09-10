@@ -1,6 +1,6 @@
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
-import { PRICES } from "@/lib/affiliates/prices-override";
+import { PRICES, PRICE_ASOF } from "@/lib/affiliates/prices-override";
 
 /**
  * Market-aware price for display. Returns null when the only known price's
@@ -52,6 +52,26 @@ const PERIOD_SUFFIX = /(\/(?:月|年|mo|month|yr|year))\s*$/;
 function periodSuffix(o: AffiliateOffer): string {
   const base = o.priceMin ?? o.price ?? "";
   return PERIOD_SUFFIX.exec(base)?.[1] ?? "";
+}
+
+/**
+ * 価格とその取得日をまとめて返す。
+ *
+ * asOf が付くのは **API で実取得した価格だけ**（PRICE_ASOF に載っているもの）。
+ * カタログのベタ書き値は編集者が手で書いた数字で取得日が確定しないため null を返し、
+ * UI 側は日付を出さない。ここで嘘の日付を出すと規約上むしろ悪化する。
+ */
+export function resolvePriceWithAsOf(
+  o: AffiliateOffer,
+  locale: string,
+): { price: string; asOf: string | null } | null {
+  const price = resolvePrice(o, locale);
+  if (!price) return null;
+  const market = inferMarketFromLocale(locale);
+  // override が採用された時だけ as-of が意味を持つ（カタログ由来には取得日が無い）
+  const usedOverride = PRICES[o.id]?.[market] != null;
+  const asOf = usedOverride ? (PRICE_ASOF[o.id]?.[market] ?? null) : null;
+  return { price, asOf };
 }
 
 export function resolvePrice(o: AffiliateOffer, locale: string): string | null {

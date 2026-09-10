@@ -25,13 +25,21 @@
     "indexnow": "tsx scripts/indexnow-submit.ts",
     "bing:submit": "tsx scripts/bing-submit.ts",
     "audit:hardcoded": "node scripts/check-hardcoded-ui.mjs",
-    "prebuild": "tsx scripts/generate-products-data.ts && tsx scripts/generate-sitemap.ts && node scripts/check-hardcoded-ui.mjs",
+    "prebuild": "tsx scripts/generate-products-data.ts && tsx scripts/generate-sitemap.ts && node scripts/check-hardcoded-ui.mjs && node scripts/check-root-routing.mjs",
+    "check:routing": "node scripts/check-root-routing.mjs",
+    "report:countries": "node scripts/ga4-country-report.mjs",
     "check:output": "node scripts/check-built-output.mjs && node scripts/check-built-canonical.mjs && node scripts/check-index-health.mjs",
     "check:index": "node scripts/check-index-health.mjs",
     "check:canonical": "node scripts/check-built-canonical.mjs",
     "check:titles": "node scripts/check-title-width.mjs",
     "audit:localization": "tsx scripts/audit-affiliate-localization.ts",
-    "postbuild": "node scripts/prune-rsc-payloads.mjs"
+    "postbuild": "node scripts/prune-rsc-payloads.mjs",
+    "prices:fetch": "tsx scripts/fetch-prices.ts",
+    "prices:snapshot": "tsx scripts/snapshot-prices.ts",
+    "prices:rakuten": "tsx scripts/fetch-rakuten.ts",
+    "prices:yahoo": "tsx scripts/fetch-yahoo.ts",
+    "prices:refresh": "tsx scripts/fetch-rakuten.ts --refresh && tsx scripts/fetch-yahoo.ts --refresh",
+    "prices:staleness": "tsx scripts/check-price-staleness.ts"
   },
   "dependencies": {
     "fuse.js": "^7.4.2",
