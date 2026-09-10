@@ -28,6 +28,16 @@ GA4 の国別レポートを見て「全ての国の人が利用できるサイ�
 - 必ず `npm run report:countries` で見る。Direct × 滞在 3 秒未満の塊を分離し、人間の数(`human`)で国を並べる。
 - 送信元での対策: `src/app/[locale]/layout.tsx` の gtag は `navigator.webdriver===true`(Puppeteer / Selenium)のとき config を送らない(2026-09-09)。効果はデプロイ 1 週間後に `report:countries` のボット率で確認する。追加で Cloudflare の Bot Fight Mode を有効にする案はダッシュボード側の設定変更なので承認制。
 
-## 4. 変更履歴
+## 4. 自動チェック (再発防止)
+
+| 何を | どこで | 壊れたらどうなる |
+|---|---|---|
+| Functions 側ロケール一覧と `locales.ts` の同期 | `scripts/check-root-routing.mjs` (prebuild) | ビルド失敗 |
+| Amazon 市場→ホストの期待表 | `npm run audit:localization` (deploy.yml, ビルド前) | ビルド失敗 |
+| 本番 `/` の振り分けと gtag ゲート | `scripts/smoke-prod.mjs` (deploy.yml, デプロイ直後) | Actions が赤 (デプロイ済み) |
+| ボット疑い率 | `scripts/ga4-country-report.mjs` (ga4-report.yml, 毎週月曜) → `GA4_COUNTRIES.md` | 20% 超で Actions が赤 |
+
+## 5. 変更履歴
 
 - 2026-09-09: `functions/index.ts`(Accept-Language 振り分け) / gtag webdriver ゲート / `report:countries` / `check-root-routing` を追加。
+- 2026-09-10: audit:localization を CI に接続、smoke-prod.mjs、週次 GA4_COUNTRIES.md と閾値アラートを追加。

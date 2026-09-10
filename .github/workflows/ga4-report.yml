@@ -37,14 +37,32 @@ jobs:
           GA_SERVICE_ACCOUNT_JSON: ${{ secrets.GA_SERVICE_ACCOUNT_JSON }}
           GA4_PROPERTY_ID: ${{ vars.GA4_PROPERTY_ID }}
         run: npx tsx scripts/ga4-report.ts
+      # ★国別レポートをボット分離済みで出す (2026-09-10)。標準の国別表は Direct×中国語×
+      #   滞在0秒のスキャナが 4 割を占め(2026-08-12..09-08 実測 43.5%)、読むと誤診断する。
+      #   ボット疑い率が BOT_ALERT_PCT を超えたら最後の step でジョブを落として通知する
+      #   (レポートのコミットは先に済ませる)。読み方: docs/COUNTRY_ACCESS.md
+      - name: Country report (bot-separated)
+        id: countries
+        working-directory: site
+        env:
+          GA_SERVICE_ACCOUNT_JSON: ${{ secrets.GA_SERVICE_ACCOUNT_JSON }}
+          GA4_PROPERTY_ID: ${{ vars.GA4_PROPERTY_ID }}
+          REPORT_OUT: ../GA4_COUNTRIES.md
+          BOT_ALERT_PCT: "20"
+        run: node scripts/ga4-country-report.mjs 28
       - name: Commit report
         run: |
           git config user.name "appdevelopsk"
           git config user.email "kenichiro.s@cargate.co.jp"
-          git add GROWTH_REPORT.md 2>/dev/null || true
+          git add GROWTH_REPORT.md GA4_COUNTRIES.md 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "chore: weekly GA4 growth report [skip ci]"
             n=0; until git push; do n=$((n+1)); [ $n -ge 3 ] && exit 1; git pull --rebase; sleep $((n*5)); done
           else
             echo "no report change (not configured or no data)"
           fi
+      - name: Alert when bot share exceeds threshold
+        if: steps.countries.outputs.bot_alert == 'true'
+        run: |
+          echo "::error::GA4 ボット疑い率 ${{ steps.countries.outputs.bot_pct }}% が閾値を超過。GA4_COUNTRIES.md と docs/COUNTRY_ACCESS.md を参照"
+          exit 1

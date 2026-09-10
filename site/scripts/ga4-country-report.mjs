@@ -9,8 +9,11 @@
 // 使い方:
 //   GA4_PROPERTY_ID=537610479 GA_SERVICE_ACCOUNT_JSON=<path or json> node scripts/ga4-country-report.mjs [days=28]
 //   (SA は GA4 プロパティの閲覧者であること。既定の鍵パスは pickly/.secrets/ga4-service-account.json)
+//   REPORT_OUT=<path>   … Markdown も書き出す(週次 Actions が GA4_COUNTRIES.md に使う)
+//   BOT_ALERT_PCT=20    … ボット疑い率がこれを超えたら GITHUB_OUTPUT に bot_alert=true を書く
+//                        (ジョブ自体はここでは落とさない。落とすのは workflow 側の最後の step)
 import { createSign } from "node:crypto";
-import { existsSync, readFileSync } from "node:fs";
+import { appendFileSync, existsSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -78,3 +81,33 @@ const totalBot = bots.reduce((s, b) => s + b.users, 0);
 console.log(`\n== ボット疑い層 (Direct × 滞在<3秒/人 × 10人以上) : ${totalBot} / ${totalAll} users = ${((100 * totalBot) / (totalAll || 1)).toFixed(1)}% ==`);
 for (const b of bots.sort((a, b) => b.users - a.users).slice(0, 15)) console.log(`${b.country.padEnd(22)}${b.language.padEnd(12)}${fmt(b.users)} users  eng=${b.engaged}  ${(b.dur / b.users).toFixed(1)}s/u`);
 console.log("\n判定の読み方: docs/COUNTRY_ACCESS.md");
+
+const botPct = (100 * totalBot) / (totalAll || 1);
+const ALERT = Number(process.env.BOT_ALERT_PCT ?? 20);
+const alert = botPct > ALERT;
+if (process.env.REPORT_OUT) {
+  const md = [
+    `# GA4 国別レポート (ボット分離済み)`,
+    ``,
+    `property ${PROP} / ${start}..${end} / 生成 ${new Date().toISOString().slice(0, 10)}`,
+    ``,
+    alert ? `> ⚠ **ボット疑い率 ${botPct.toFixed(1)}% が閾値 ${ALERT}% を超過。** 標準の国別レポートは信用せず、この表の human 列で判断する。gtag の webdriver ゲートで足りていない → Cloudflare Bot Fight Mode を検討(承認制)。` : `ボット疑い率 ${botPct.toFixed(1)}% (閾値 ${ALERT}%)。`,
+    ``,
+    `読み方: docs/COUNTRY_ACCESS.md。human = Direct×滞在<3秒/人×10人以上 の塊を除いた数。`,
+    ``,
+    `| country | all | human | engaged | sec/user | key events |`,
+    `|---|---:|---:|---:|---:|---:|`,
+    ...sorted.map(([country, c]) => `| ${country} | ${c.users} | ${c.human} | ${c.engaged} | ${c.human ? Math.round(c.dur / c.human) : 0} | ${c.key} |`),
+    ``,
+    `## ボット疑い層 ${totalBot} / ${totalAll} users (${botPct.toFixed(1)}%)`,
+    ``,
+    `| country | language | users | engaged | sec/user |`,
+    `|---|---|---:|---:|---:|`,
+    ...bots.slice(0, 15).map((b) => `| ${b.country} | ${b.language} | ${b.users} | ${b.engaged} | ${(b.dur / b.users).toFixed(1)} |`),
+    ``,
+  ].join("\n");
+  writeFileSync(process.env.REPORT_OUT, md);
+  console.log(`wrote ${process.env.REPORT_OUT}`);
+}
+if (process.env.GITHUB_OUTPUT) appendFileSync(process.env.GITHUB_OUTPUT, `bot_alert=${alert}\nbot_pct=${botPct.toFixed(1)}\n`);
+if (alert) console.log(`⚠ bot share ${botPct.toFixed(1)}% > ${ALERT}%`);
