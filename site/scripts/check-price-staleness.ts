@@ -8,7 +8,9 @@
  *
  *   npx tsx scripts/check-price-staleness.ts
  *   MAX_AGE_DAYS=10 npx tsx scripts/check-price-staleness.ts
- *   WARN_ONLY=1 ...   閾値超過でも exit 0（移行期間中はこちら）
+ *   WARN_ONLY=1 ...   閾値超過でも exit 0（ローカルで様子を見るとき用。
+ *                     CI では付けない — 2026-09-12 に Actions 側から外した。
+ *                     付けると鮮度超過も全件横ばい検出も緑のまま通る）
  *
  * 判定対象:
  *   1. rakuten-cache.json / yahoo-cache.json の fetchedAt の最頻値
