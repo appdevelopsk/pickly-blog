@@ -12,6 +12,8 @@ import { useEffect } from "react";
 // 新セッションとして page_view を持たず「Unassigned / (not set)」に落ちていた。
 const THRESHOLDS = [25, 50, 75, 90] as const;
 const SESSION_TIMEOUT_MS = 30 * 60 * 1000; // 1800000ms = GA4 既定のセッション切れ
+// layout.tsx の <head> 直書き config と同じ測定ID解決（両者がズレると config が別IDに飛ぶ）。
+const GA_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID ?? "G-M7SF83B60R";
 
 type GtagParams = Record<string, string | number | boolean | undefined>;
 
@@ -19,6 +21,21 @@ type GtagParams = Record<string, string | number | boolean | undefined>;
 function send(name: string, params: GtagParams): void {
   if (typeof window === "undefined" || typeof window.gtag !== "function") return;
   window.gtag("event", name, params);
+}
+
+// 再入場時のセッション起点。event スコープの page_view はページコンテキストを
+// 張り直さないため、GA4 は新セッションのランディングページ/チャネルを決定できず
+// 「(not set) / Unassigned」に落ちる（2026-09-08 の修正が逆効果だった原因）。
+// config を再実行してページコンテキストごと張り直す。
+function reconfigPageView(): void {
+  if (typeof window === "undefined" || typeof window.gtag !== "function") return;
+  if (!GA_ID) return;
+  window.gtag("config", GA_ID, {
+    send_page_view: true,
+    page_location: window.location.href,
+    page_path: window.location.pathname,
+    page_title: document.title,
+  });
 }
 
 export function PageViewTracker() {
@@ -87,11 +104,7 @@ export function PageViewTracker() {
     const reenter = () => {
       const now = Date.now();
       if (now - lastActivity >= SESSION_TIMEOUT_MS) {
-        send("page_view", {
-          page_location: window.location.href,
-          page_path: window.location.pathname,
-          page_title: document.title,
-        });
+        reconfigPageView();
       }
       lastActivity = now;
     };
