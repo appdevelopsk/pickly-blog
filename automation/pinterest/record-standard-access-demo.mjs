@@ -22,7 +22,7 @@ const APP_SECRET = pick("PINTEREST_APP_SECRET");
 const LOGIN_EMAIL = pick("PINTEREST_LOGIN_EMAIL");
 const LOGIN_PW = pick("PINTEREST_LOGIN_PW");
 // dashboard data uses the known-good growth token (pickly.env token is stale)
-const growthEnv = fs.readFileSync("/Users/ken/Dropbox/00_集客統合/growth/.env", "utf8");
+const growthEnv = fs.readFileSync("/Volumes/NAS/Projects/00_集客統合/growth/.env", "utf8");
 const TOKEN = (growthEnv.match(/PINTEREST_ACCESS_TOKEN=([^\n]+)/) || [])[1]?.trim() || pick("PINTEREST_ACCESS_TOKEN");
 const REDIRECT = "http://localhost:8080/callback";
 const SCOPES = "boards:read,boards:write,pins:read,pins:write,user_accounts:read";

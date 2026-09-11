@@ -17,7 +17,7 @@
  *   npx tsx scripts/build-youtube-priority.ts        （--days 90 / --dry）
  *   --dry は書き出さず先頭だけ表示。
  *
- * 認証: ~/Dropbox/pickly/.secrets/ga4-service-account.json（GA4_SA_PATH で上書き可）。
+ * 認証: /Volumes/NAS/Projects/pickly/.secrets/ga4-service-account.json（GA4_SA_PATH で上書き可）。
  *   gcloud の ADC は analytics スコープを持たず 403 になるので使わない。
  *   サービスアカウント鍵は失効しないので、日次ジョブから静かに落ちない。
  */
@@ -35,7 +35,7 @@ const DRY = args.includes("--dry");
 const PROPERTY = process.env.GA4_PROPERTY_ID ?? "537610479";
 const SA_PATH =
   process.env.GA4_SA_PATH ??
-  "/Users/ken/Dropbox/pickly/.secrets/ga4-service-account.json";
+  "/Volumes/NAS/Projects/pickly/.secrets/ga4-service-account.json";
 
 /** 記事スラッグ → offerIds（meta.ts の記載順を保つ）。 */
 function articleOffers(): Map<string, string[]> {

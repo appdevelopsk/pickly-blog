@@ -32,8 +32,8 @@ import { fileURLToPath } from "node:url";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const SITE_DIR = resolve(HERE, "..");
-const GROWTH = "/Users/ken/Dropbox/00_集客統合/growth";
-const SA_PATH = "/Users/ken/Dropbox/pickly/.secrets/ga4-service-account.json";
+const GROWTH = "/Volumes/NAS/Projects/00_集客統合/growth";
+const SA_PATH = "/Volumes/NAS/Projects/pickly/.secrets/ga4-service-account.json";
 const AMAZON_CSV = resolve(GROWTH, "snapshots/amazon-earnings-daily.csv");
 const SNAP_DIR = resolve(GROWTH, "snapshots");
 
