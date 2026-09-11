@@ -96,7 +96,21 @@
     "disclosureNote": "Questo articolo contiene link di affiliazione.",
     "videoReview": "Video recensione",
     "productPage": "Dettagli del prodotto",
-    "storeOfficial": "Ufficiale"
+    "storeOfficial": "Ufficiale",
+    "availableIn": "Disponibile in {country}",
+    "notAvailableHere": "Non venduto nel tuo Paese",
+    "searchFallbackNote": "Nessun negozio partner qui: si apre una ricerca su Amazon.",
+    "country": {
+      "US": "USA",
+      "JP": "Giappone",
+      "UK": "Regno Unito",
+      "CA": "Canada",
+      "EU": "UE",
+      "FR": "Francia",
+      "ES": "Spagna",
+      "IT": "Italia",
+      "CN": "Cina"
+    }
   },
   "legal": {
     "disclosure": {

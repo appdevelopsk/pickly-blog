@@ -8,6 +8,7 @@ import { rakutenSearchUrl, rakutenProductMatch, youtubeReviewSearchUrl } from "@
 import { getReviewVideo } from "@/lib/affiliates/youtube";
 import { getYahooMatch } from "@/lib/affiliates/yahoo";
 import { ReviewVideo } from "@/components/ReviewVideo";
+import { AvailabilityNote } from "@/components/AvailabilityNote";
 import { inferMarketFromLocale } from "@/lib/i18n/locales";
 import { inferGeoMarket } from "@/lib/affiliates/geo-market";
 import type { AffiliateOffer, AspNetwork } from "@/lib/affiliates/types";
@@ -204,9 +205,16 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
           {t("offer.searchOnAmazon")} →
         </a>
       );
-      return rakutenButton ? (
-        <div className="flex flex-wrap items-center gap-2">{amazonBtn}{rakutenButton}{yahooButton}</div>
-      ) : amazonBtn;
+      return (
+        <div>
+          <div className="flex flex-wrap items-center gap-2">
+            {amazonBtn}
+            {rakutenButton}
+            {yahooButton}
+          </div>
+          <AvailabilityNote offer={offer} market={market} className="mt-1.5" />
+        </div>
+      );
     }
 
     if (variant === "inline") {
@@ -228,7 +236,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         <p className="mb-2 font-semibold text-slate-700">{name}</p>
         {desc && <p className="mb-3 text-sm text-slate-500">{desc}</p>}
         {note && <p className="mb-2 text-xs italic text-slate-500">{note}</p>}
-        <p className="mb-2 text-xs text-slate-500">{t("offer.regionFallback")}</p>
+        <AvailabilityNote offer={offer} market={market} className="mb-2" />
         <div className="flex flex-wrap items-center gap-2">
           <a
             href={fallbackUrl}
@@ -287,6 +295,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
           </a>
           {rakutenButton}
           {yahooButton}
+          <AvailabilityNote offer={offer} market={market} className="w-full" />
         </div>
       );
     }
@@ -319,6 +328,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
           {!byLabel.has("楽天") && rakutenButton}
           {!byLabel.has("Yahoo!") && yahooButton}
         </div>
+        <AvailabilityNote offer={offer} market={market} className="mt-1.5" />
         {reviewRow}
         {videoBlock}
       </div>
@@ -340,9 +350,16 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
     ) : (
       <span className="text-xs italic text-slate-500">{t("offer.pending")}</span>
     );
-    return rakutenButton ? (
-      <div className="flex flex-wrap items-center gap-2">{mainBtn}{rakutenButton}{yahooButton}</div>
-    ) : mainBtn;
+    return (
+      <div>
+        <div className="flex flex-wrap items-center gap-2">
+          {mainBtn}
+          {rakutenButton}
+          {yahooButton}
+        </div>
+        <AvailabilityNote offer={offer} market={market} className="mt-1.5" />
+      </div>
+    );
   }
 
   if (variant === "inline") {
@@ -404,6 +421,7 @@ export function AffiliateLink({ offer, note, variant = "card", hideBadge = false
         {rakutenButton}
         {yahooButton}
       </div>
+      <AvailabilityNote offer={offer} market={market} className="mt-1.5" />
       {reviewRow}
       {videoBlock}
     </div>

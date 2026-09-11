@@ -96,7 +96,21 @@
     "disclosureNote": "Bài viết này chứa các liên kết liên kết.",
     "videoReview": "Video đánh giá",
     "productPage": "Chi tiết sản phẩm",
-    "storeOfficial": "Chính hãng"
+    "storeOfficial": "Chính hãng",
+    "availableIn": "Có bán tại {country}",
+    "notAvailableHere": "Không bán ở quốc gia của bạn",
+    "searchFallbackNote": "Không có cửa hàng đối tác ở đây — liên kết này mở tìm kiếm trên Amazon.",
+    "country": {
+      "US": "Hoa Kỳ",
+      "JP": "Nhật Bản",
+      "UK": "Anh",
+      "CA": "Canada",
+      "EU": "EU",
+      "FR": "Pháp",
+      "ES": "Tây Ban Nha",
+      "IT": "Ý",
+      "CN": "Trung Quốc"
+    }
   },
   "legal": {
     "disclosure": {

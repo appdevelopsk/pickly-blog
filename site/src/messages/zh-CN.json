@@ -96,7 +96,21 @@
     "disclosureNote": "本文包含联盟链接。",
     "videoReview": "评测视频",
     "productPage": "查看商品详情",
-    "storeOfficial": "官方"
+    "storeOfficial": "官方",
+    "availableIn": "可在{country}购买",
+    "notAvailableHere": "您所在的国家/地区不销售",
+    "searchFallbackNote": "此地区没有合作商店，将打开亚马逊搜索结果。",
+    "country": {
+      "US": "美国",
+      "JP": "日本",
+      "UK": "英国",
+      "CA": "加拿大",
+      "EU": "欧盟",
+      "FR": "法国",
+      "ES": "西班牙",
+      "IT": "意大利",
+      "CN": "中国"
+    }
   },
   "legal": {
     "lastUpdatedLabel": "最后更新: {date}",

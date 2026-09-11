@@ -96,7 +96,21 @@
     "disclosureNote": "Artikel ini mengandung tautan afiliasi.",
     "videoReview": "Video ulasan",
     "productPage": "Detail produk",
-    "storeOfficial": "Resmi"
+    "storeOfficial": "Resmi",
+    "availableIn": "Tersedia di {country}",
+    "notAvailableHere": "Tidak dijual di negara Anda",
+    "searchFallbackNote": "Tidak ada toko mitra di sini — ini membuka pencarian Amazon.",
+    "country": {
+      "US": "AS",
+      "JP": "Jepang",
+      "UK": "Inggris",
+      "CA": "Kanada",
+      "EU": "UE",
+      "FR": "Prancis",
+      "ES": "Spanyol",
+      "IT": "Italia",
+      "CN": "Tiongkok"
+    }
   },
   "legal": {
     "disclosure": {

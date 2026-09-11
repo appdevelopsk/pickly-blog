@@ -96,7 +96,21 @@
     "disclosureNote": "Эта статья содержит партнёрские ссылки.",
     "videoReview": "Видеообзор",
     "productPage": "Подробнее о товаре",
-    "storeOfficial": "Официальный"
+    "storeOfficial": "Официальный",
+    "availableIn": "Доступно в {country}",
+    "notAvailableHere": "Не продаётся в вашей стране",
+    "searchFallbackNote": "Здесь нет партнёрского магазина — откроется поиск на Amazon.",
+    "country": {
+      "US": "США",
+      "JP": "Японии",
+      "UK": "Великобритании",
+      "CA": "Канаде",
+      "EU": "ЕС",
+      "FR": "Франции",
+      "ES": "Испании",
+      "IT": "Италии",
+      "CN": "Китае"
+    }
   },
   "legal": {
     "disclosure": {

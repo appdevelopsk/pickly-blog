@@ -106,7 +106,21 @@
     "disclosureNote": "本記事にはアフィリエイトリンクが含まれます。",
     "videoReview": "レビュー動画",
     "productPage": "商品ページを見る",
-    "storeOfficial": "公式"
+    "storeOfficial": "公式",
+    "availableIn": "{country}で購入できます",
+    "notAvailableHere": "お住まいの国では購入できません",
+    "searchFallbackNote": "この国の提携ストアがないため、Amazonの検索結果が開きます。",
+    "country": {
+      "US": "米国",
+      "JP": "日本",
+      "UK": "英国",
+      "CA": "カナダ",
+      "EU": "EU",
+      "FR": "フランス",
+      "ES": "スペイン",
+      "IT": "イタリア",
+      "CN": "中国"
+    }
   },
   "legal": {
     "lastUpdatedLabel": "最終更新: {date}",
