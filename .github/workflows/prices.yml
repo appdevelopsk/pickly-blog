@@ -10,8 +10,16 @@ name: Prices
 # ジョブ構成:
 #   snapshot  毎日  price-history.json に1点追記（外部APIなし・数秒）
 #   amazon    毎日  PA-API で Amazon 価格を取得（PAAPI_* 未設定ならスキップ）
-#   refresh   週2回 楽天/Yahoo の全件リフレッシュ（約3.5時間）
+#   refresh-rakuten 週2回 楽天の全件リフレッシュ
+#   refresh-yahoo   週2回 Yahoo の全件リフレッシュ（楽天と独立・並行）
 #   staleness 毎日  鮮度ゲート。閾値超過で赤くなる＝止まったら気づける
+#
+# 2026-09-11: refresh を楽天/Yahoo の2ジョブに分割した。従来は
+# 「楽天全件 → Yahoo全件 → snapshot → commit」の直列1ジョブで、
+# 楽天が timeout-minutes(300) に達すると **commit に到達せず成果がゼロ**
+# になっていた（run 34406617612: 全件 403 Invalid Access Key のまま5時間）。
+# 分割して各ジョブが自分の成果を自分でコミットするので、片方が死んでも
+# もう片方は残る。
 
 on:
   schedule:
@@ -26,10 +34,12 @@ on:
         required: true
         default: "daily"
         type: choice
-        options: [daily, refresh, staleness]
+        options: [daily, refresh, refresh-rakuten, refresh-yahoo, staleness]
 
 concurrency:
-  # 全件リフレッシュ(3.5h)と日次が重なると同じキャッシュを奪い合うので直列化する
+  # 全件リフレッシュと日次が重なると同じキャッシュを奪い合うので直列化する。
+  # 楽天とYahooは別ファイルなので互いに衝突しないが、commit-prices の
+  # push が競合するためグループは共有のままにする。
   group: prices
   cancel-in-progress: false
 
@@ -75,10 +85,15 @@ jobs:
             site/src/lib/affiliates/price-history.json
 
   # ── 週2回: 楽天/Yahoo 全件リフレッシュ ────────────────────────────────────
-  refresh:
-    if: github.event.schedule == '0 19 * * 0,3' || github.event.inputs.job == 'refresh'
+  # ── 週2回: 楽天の全件リフレッシュ ────────────────────────────────────────
+  # 楽天と Yahoo を分けてあるのは、片方が落ちてももう片方の成果を残すため。
+  # 直列1ジョブだった頃は楽天のタイムアウトで Yahoo もコミットも道連れだった。
+  refresh-rakuten:
+    if: >-
+      github.event.schedule == '0 19 * * 0,3' ||
+      github.event.inputs.job == 'refresh' ||
+      github.event.inputs.job == 'refresh-rakuten'
     runs-on: ubuntu-latest
-    # 全件で約3.5時間。GitHub の上限は6時間なので余裕を持って5時間で打ち切る。
     timeout-minutes: 300
     steps:
       - uses: actions/checkout@v7
@@ -98,6 +113,48 @@ jobs:
         run: npx tsx scripts/fetch-rakuten.ts --refresh
         working-directory: site
 
+      # フェッチが途中で落ちても、そこまでのキャッシュ（25件ごとに書き出し）は
+      # コミットする。always() が無いと「5時間走って成果ゼロ」が再発する。
+      - name: 価格履歴を1点追記
+        if: always()
+        run: npm run prices:snapshot
+        working-directory: site
+
+      - uses: ./.github/actions/commit-prices
+        if: always()
+        with:
+          message: "data(price): 楽天を全件リフレッシュ（週2回）"
+          paths: >-
+            site/src/lib/affiliates/rakuten-cache.json
+            site/src/lib/affiliates/price-history.json
+
+  # ── 週2回: Yahoo の全件リフレッシュ ──────────────────────────────────────
+  refresh-yahoo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    # 楽天と同じ price-history.json を触るので push の競合を避けて後に回すが、
+    # always() 付きなので **楽天が失敗・タイムアウトしても必ず走る**。
+    # needs だけだと楽天の失敗で Yahoo が skip され、分割した意味が無くなる。
+    needs: [refresh-rakuten]
+    if: >-
+      always() && (
+        github.event.schedule == '0 19 * * 0,3' ||
+        github.event.inputs.job == 'refresh' ||
+        github.event.inputs.job == 'refresh-yahoo'
+      )
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          # refresh-rakuten が push した最新を取る
+          ref: main
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - run: npm ci
+        working-directory: site
+
       - name: Yahoo を全件リフレッシュ
         env:
           YAHOO_APP_ID: ${{ secrets.YAHOO_APP_ID }}
@@ -106,17 +163,16 @@ jobs:
         run: npx tsx scripts/fetch-yahoo.ts --refresh
         working-directory: site
 
-      # リフレッシュ直後にスナップショットを取る。ここで取らないと
-      # 「新しい値が履歴に入るのが翌日」になり、値下げ判定が1日ずれる。
       - name: 価格履歴を1点追記
+        if: always()
         run: npm run prices:snapshot
         working-directory: site
 
       - uses: ./.github/actions/commit-prices
+        if: always()
         with:
-          message: "data(price): 楽天/Yahoo を全件リフレッシュ（週2回）"
+          message: "data(price): Yahoo を全件リフレッシュ（週2回）"
           paths: >-
-            site/src/lib/affiliates/rakuten-cache.json
             site/src/lib/affiliates/yahoo-cache.json
             site/src/lib/affiliates/price-history.json
 

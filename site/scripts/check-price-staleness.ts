@@ -109,6 +109,41 @@ check("Yahooキャッシュ", yh.date, `${yh.count}/${yh.total}件がこの日�
 
 check("価格履歴", latestHistoryDate(), "price-history.json の最終点");
 
+// 日付だけでは「凍結したキャッシュを毎日書き写す」状態を検出できない。
+// 2026-09-05〜09-10 の6点は 1,625件すべてが完全な横ばいで、それでもこの
+// ゲートは「✓ 価格履歴 0日前」と緑を出していた（真因は楽天の 403 認証切れ）。
+// 値が1件も動いていないなら、鮮度は日付ではなく中身の問題として報告する。
+function movementInHistory(): { offers: number; moved: number; points: number } {
+  const hist = readJson<Record<string, Array<{ d: string; r?: number; y?: number }>>>(HIST, {});
+  let moved = 0;
+  let points = 0;
+  const entries = Object.values(hist);
+  for (const pts of entries) {
+    if (pts.length > points) points = pts.length;
+    const rs = new Set(pts.map((p) => p.r).filter((v) => v != null));
+    const ys = new Set(pts.map((p) => p.y).filter((v) => v != null));
+    if (rs.size > 1 || ys.size > 1) moved++;
+  }
+  return { offers: entries.length, moved, points };
+}
+
+const mv = movementInHistory();
+if (mv.offers === 0) {
+  console.log("  – 価格変動: price-history.json が空");
+} else if (mv.points < 2) {
+  console.log(`  – 価格変動: 履歴が${mv.points}点しかなく判定不能`);
+} else if (mv.moved === 0) {
+  problems.push(
+    `価格変動: ${mv.offers}件すべてが横ばい（履歴${mv.points}点）。` +
+      `フェッチが実際には値を取れていない疑い`,
+  );
+  console.log(`  ✗ 価格変動: ${mv.offers}件すべて横ばい（履歴${mv.points}点）`);
+} else {
+  console.log(
+    `  ✓ 価格変動: ${mv.moved}/${mv.offers}件に変動あり（履歴${mv.points}点）`,
+  );
+}
+
 // PA-API は資格情報が未登録なら 0 件で正常（移行期間）。0 件の時は落とさず警告に留める。
 const asof = latestAsOf();
 if (asof.count === 0) {
