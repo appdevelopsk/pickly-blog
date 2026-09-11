@@ -96,7 +96,21 @@
     "disclosureNote": "本文包含聯盟連結。",
     "videoReview": "開箱評測影片",
     "productPage": "查看商品詳情",
-    "storeOfficial": "官方"
+    "storeOfficial": "官方",
+    "availableIn": "可在{country}購買",
+    "notAvailableHere": "您所在的國家/地區未販售",
+    "searchFallbackNote": "此地區沒有合作商店，將開啟亞馬遜搜尋結果。",
+    "country": {
+      "US": "美國",
+      "JP": "日本",
+      "UK": "英國",
+      "CA": "加拿大",
+      "EU": "歐盟",
+      "FR": "法國",
+      "ES": "西班牙",
+      "IT": "義大利",
+      "CN": "中國"
+    }
   },
   "legal": {
     "disclosure": {

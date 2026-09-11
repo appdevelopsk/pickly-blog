@@ -96,7 +96,21 @@
     "disclosureNote": "บทความนี้มีลิงก์พันธมิตร",
     "videoReview": "วิดีโอรีวิว",
     "productPage": "รายละเอียดสินค้า",
-    "storeOfficial": "เว็บทางการ"
+    "storeOfficial": "เว็บทางการ",
+    "availableIn": "มีจำหน่ายใน{country}",
+    "notAvailableHere": "ไม่มีจำหน่ายในประเทศของคุณ",
+    "searchFallbackNote": "ไม่มีร้านค้าพันธมิตรที่นี่ — ลิงก์นี้จะเปิดผลการค้นหาบน Amazon",
+    "country": {
+      "US": "สหรัฐฯ",
+      "JP": "ญี่ปุ่น",
+      "UK": "สหราชอาณาจักร",
+      "CA": "แคนาดา",
+      "EU": "สหภาพยุโรป",
+      "FR": "ฝรั่งเศส",
+      "ES": "สเปน",
+      "IT": "อิตาลี",
+      "CN": "จีน"
+    }
   },
   "legal": {
     "disclosure": {

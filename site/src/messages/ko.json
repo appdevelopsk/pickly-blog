@@ -96,7 +96,21 @@
     "disclosureNote": "이 기사에는 제휴 링크가 포함되어 있습니다.",
     "videoReview": "리뷰 영상",
     "productPage": "상품 상세 보기",
-    "storeOfficial": "공식"
+    "storeOfficial": "공식",
+    "availableIn": "{country}에서 구매 가능",
+    "notAvailableHere": "거주 국가에서는 판매하지 않습니다",
+    "searchFallbackNote": "이 국가에는 제휴 스토어가 없어 Amazon 검색 결과가 열립니다.",
+    "country": {
+      "US": "미국",
+      "JP": "일본",
+      "UK": "영국",
+      "CA": "캐나다",
+      "EU": "EU",
+      "FR": "프랑스",
+      "ES": "스페인",
+      "IT": "이탈리아",
+      "CN": "중국"
+    }
   },
   "legal": {
     "disclosure": {

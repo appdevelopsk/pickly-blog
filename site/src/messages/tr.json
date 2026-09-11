@@ -96,7 +96,21 @@
     "disclosureNote": "Bu makale bağlı kuruluş bağlantıları içerir.",
     "videoReview": "İnceleme videosu",
     "productPage": "Ürün detayları",
-    "storeOfficial": "Resmi"
+    "storeOfficial": "Resmi",
+    "availableIn": "{country} ülkesinde mevcut",
+    "notAvailableHere": "Ülkenizde satılmıyor",
+    "searchFallbackNote": "Burada iş ortağı mağaza yok — bu bir Amazon aramasını açar.",
+    "country": {
+      "US": "ABD",
+      "JP": "Japonya",
+      "UK": "Birleşik Krallık",
+      "CA": "Kanada",
+      "EU": "AB",
+      "FR": "Fransa",
+      "ES": "İspanya",
+      "IT": "İtalya",
+      "CN": "Çin"
+    }
   },
   "legal": {
     "disclosure": {

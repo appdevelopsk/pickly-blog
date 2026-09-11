@@ -96,7 +96,21 @@
     "disclosureNote": "इस लेख में सहबद्ध लिंक हैं।",
     "videoReview": "रिव्यू वीडियो",
     "productPage": "उत्पाद विवरण",
-    "storeOfficial": "आधिकारिक"
+    "storeOfficial": "आधिकारिक",
+    "availableIn": "{country} में उपलब्ध",
+    "notAvailableHere": "आपके देश में उपलब्ध नहीं",
+    "searchFallbackNote": "यहाँ कोई पार्टनर स्टोर नहीं है — यह Amazon खोज खोलेगा।",
+    "country": {
+      "US": "अमेरिका",
+      "JP": "जापान",
+      "UK": "यूके",
+      "CA": "कनाडा",
+      "EU": "ईयू",
+      "FR": "फ़्रांस",
+      "ES": "स्पेन",
+      "IT": "इटली",
+      "CN": "चीन"
+    }
   },
   "legal": {
     "disclosure": {

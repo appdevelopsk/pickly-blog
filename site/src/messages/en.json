@@ -106,7 +106,21 @@
     "disclosureNote": "This article contains affiliate links.",
     "videoReview": "Video review",
     "productPage": "Product details",
-    "storeOfficial": "Official"
+    "storeOfficial": "Official",
+    "availableIn": "Available in {country}",
+    "notAvailableHere": "Not sold in your country",
+    "searchFallbackNote": "No partner store here — this opens an Amazon search.",
+    "country": {
+      "US": "the US",
+      "JP": "Japan",
+      "UK": "the UK",
+      "CA": "Canada",
+      "EU": "the EU",
+      "FR": "France",
+      "ES": "Spain",
+      "IT": "Italy",
+      "CN": "China"
+    }
   },
   "legal": {
     "lastUpdatedLabel": "Last updated: {date}",
