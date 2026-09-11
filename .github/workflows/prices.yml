@@ -83,6 +83,9 @@ jobs:
           paths: >-
             site/src/lib/affiliates/prices-override.ts
             site/src/lib/affiliates/price-history.json
+          # 衝突時はリモートの履歴を取り直してスナップショットを作り直す。
+          # prices-override.ts は衝突しない（このジョブしか書かない）。
+          regenerate: npm run prices:snapshot
 
   # ── 週2回: 楽天/Yahoo 全件リフレッシュ ────────────────────────────────────
   # ── 週2回: 楽天の全件リフレッシュ ────────────────────────────────────────
@@ -127,6 +130,8 @@ jobs:
           paths: >-
             site/src/lib/affiliates/rakuten-cache.json
             site/src/lib/affiliates/price-history.json
+          # 衝突時は rakuten-cache.json（フェッチ成果）を退避して履歴を作り直す
+          regenerate: npm run prices:snapshot
 
   # ── 週2回: Yahoo の全件リフレッシュ ──────────────────────────────────────
   refresh-yahoo:
@@ -175,6 +180,8 @@ jobs:
           paths: >-
             site/src/lib/affiliates/yahoo-cache.json
             site/src/lib/affiliates/price-history.json
+          # 衝突時は yahoo-cache.json（フェッチ成果）を退避して履歴を作り直す
+          regenerate: npm run prices:snapshot
 
   # ── 鮮度ゲート ────────────────────────────────────────────────────────────
   staleness:

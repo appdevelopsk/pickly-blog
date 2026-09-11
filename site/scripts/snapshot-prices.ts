@@ -83,7 +83,18 @@ function main() {
     const series = history[id] ?? [];
     const last = series.length ? series[series.length - 1] : null;
     if (last && last.d === d) {
-      series[series.length - 1] = point; // 同一日は上書き
+      // 同一日は「値がある方を残す」マージ。置換だと片方のソースが消える。
+      //
+      // 2026-09-12 修正。以前は point でまるごと置換していたため、別ジョブが
+      // 先に書いた同じ日の点が巻き戻った。push 競合後に履歴を作り直す経路
+      // （.github/actions/commit-prices の regenerate）では、リモートの
+      // 履歴に入っている r を自分の y で上書きしてしまい daily の成果が消える。
+      // r / y は別ソースなので、欠測側は既存値を引き継ぐ。
+      series[series.length - 1] = {
+        d,
+        ...(point.r != null ? { r: point.r } : last.r != null ? { r: last.r } : {}),
+        ...(point.y != null ? { y: point.y } : last.y != null ? { y: last.y } : {}),
+      };
       updated++;
     } else {
       series.push(point);

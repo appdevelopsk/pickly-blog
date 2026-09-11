@@ -11,6 +11,13 @@ inputs:
   paths:
     description: コミット対象（空白区切り。ここに挙げたパス以外は絶対に触らない）
     required: true
+  regenerate:
+    description: >-
+      衝突したパスを作り直すコマンド（site/ で実行）。price-history.json のような
+      「キャッシュから決まる生成物」は、相手の版を取ってから再生成すれば
+      手でマージせずに正しい内容になる。空なら再生成せず失敗させる。
+    required: false
+    default: ""
 
 runs:
   using: composite
@@ -19,6 +26,7 @@ runs:
       env:
         COMMIT_MESSAGE: ${{ inputs.message }}
         COMMIT_PATHS: ${{ inputs.paths }}
+        REGENERATE: ${{ inputs.regenerate }}
       run: |
         set -euo pipefail
         git config user.name "github-actions[bot]"
@@ -35,16 +43,76 @@ runs:
 
         git commit -m "$COMMIT_MESSAGE [skip ci]"
 
-        # 他ジョブと競合したら rebase してやり直す。
-        # rebase 対象は価格データだけなので衝突は起きにくいが、
-        # 起きた場合は握りつぶさず失敗させる（黙って壊れるより赤くする）。
+        # 他ジョブと競合したら、相手の版に自分の変更を載せ直して push する。
+        #
+        # 2026-09-12 まで、ここは `git pull --rebase` を直接呼んでいた。set -e の下で
+        # rebase が衝突すると**その行でスクリプトが即死**するため、5回ループは
+        # 実際には1回で終わっていた（run 34566439726 のログに「試行 2」が無い）。
+        # しかも daily と refresh-yahoo が同じ price-history.json の同じ日の点を
+        # 書くので、衝突は「起きにくい」どころか構造的に必発だった。
+        #
+        # 方針: rebase は失敗を許容して必ずループを回す。衝突したら
+        #   1. rebase を中断してリモートの版に合わせる
+        #   2. REGENERATE があればキャッシュから生成物を作り直す
+        #   3. 作り直した結果をコミットして再 push
+        # 生成物（price-history.json）は再生成すれば正しい内容になるので、
+        # 行単位のマージは試みない。再生成できないパスは従来どおり赤くする。
         for attempt in 1 2 3 4 5; do
           if git push origin HEAD:main; then
             echo "push 成功 (試行 $attempt)"
             exit 0
           fi
-          echo "push が拒否されました。rebase して再試行します (試行 $attempt)"
-          git pull --rebase --autostash origin main
+
+          echo "push が拒否されました。やり直します (試行 $attempt)"
+          git fetch origin main
+
+          if git rebase origin/main; then
+            sleep $((attempt * 5))
+            continue
+          fi
+
+          echo "rebase が衝突しました。リモートの版に合わせて作り直します。"
+          git rebase --abort || true
+
+          if [ -z "$REGENERATE" ]; then
+            echo "再生成コマンドが指定されていないため、ここで失敗させます。" >&2
+            exit 1
+          fi
+
+          # reset --hard はフェッチ成果（*-cache.json）まで巻き戻すので退避しておく。
+          # 生成物（price-history.json）は退避しない — リモート版＋再生成が正しい。
+          STASH_DIR="$(mktemp -d)"
+          for p in $COMMIT_PATHS; do
+            case "$p" in
+              *-cache.json)
+                if [ -f "$p" ]; then
+                  mkdir -p "$STASH_DIR/$(dirname "$p")"
+                  cp "$p" "$STASH_DIR/$p"
+                fi
+                ;;
+            esac
+          done
+
+          git reset --hard origin/main
+
+          # 退避したキャッシュを戻す（自分のフェッチ成果を捨てない）
+          for p in $COMMIT_PATHS; do
+            if [ -f "$STASH_DIR/$p" ]; then
+              cp "$STASH_DIR/$p" "$p"
+              echo "  キャッシュを復元: $p"
+            fi
+          done
+
+          # shellcheck disable=SC2086
+          ( cd site && eval "$REGENERATE" )
+
+          # shellcheck disable=SC2086
+          git add -- $COMMIT_PATHS
+          if git diff --cached --quiet; then
+            echo "再生成の結果、リモートとの差分が無くなりました。相手の版で十分です。"
+            exit 0
+          fi
+          git commit -m "$COMMIT_MESSAGE [skip ci]"
           sleep $((attempt * 5))
         done
 
