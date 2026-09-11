@@ -70,6 +70,10 @@ async function main() {
   console.log(`対象 ${batch.length} 件（全${offers.length} / キャッシュ済${Object.keys(cache).length}）`);
 
   let done = 0, hit = 0, untagged = 0;
+  // 認証切れは全件同じように失敗するので、連続したら打ち切って気づけるようにする
+  // (楽天側で 2026-09-09 に「全件403のまま5時間」が起きた。同じ穴を塞ぐ)
+  const FATAL_STREAK = 20;
+  let authErrStreak = 0;
   for (const offer of batch) {
     // 商品名を丸ごと投げると0件になりやすいので、具体的→一般的の候補列を順に試す。
     const candidates = keywordCandidates(offer.name.ja, offer.name.en);
@@ -99,10 +103,28 @@ async function main() {
         ? { url: picked.top.url, price: picked.top.price, priceMin: picked.priceMin, priceMax: picked.priceMax, image: picked.top.image, review: picked.top.review, reviewCount: picked.top.reviewCount, name: picked.top.name, fetchedAt: today }
         : { url: null, price: null, priceMin: null, priceMax: null, image: null, fetchedAt: today };
       if (picked) hit++;
+      authErrStreak = 0;
     } catch (e) {
       const msg = (e as Error).message;
       console.warn(`  ! ${offer.id} (${keyword}): ${msg}`);
-      if (/400|bad_request|invalid/i.test(msg)) cache[offer.id] = { url: null, price: null, priceMin: null, priceMax: null, image: null, fetchedAt: today };
+      // 401/403 は鍵の問題。キーワード依存ではないので連続したら打ち切る。
+      const isAuth = /Yahoo (401|403)/.test(msg) || /YAHOO_APP_ID/.test(msg);
+      if (isAuth) {
+        authErrStreak++;
+        if (authErrStreak >= FATAL_STREAK) {
+          writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 0));
+          console.error(
+            `\n認証エラーが ${FATAL_STREAK} 件連続しました。YAHOO_APP_ID を確認して` +
+              `ください。\n直近のエラー: ${msg}`,
+          );
+          process.exit(1);
+        }
+      } else {
+        authErrStreak = 0;
+      }
+      // 「見つからなかった」を no-hit として焼くのは 400 系だけ。認証エラーで
+      // 焼くと、有効だった価格を空で上書きして全件を失う。
+      if (!isAuth && /400|bad_request|invalid/i.test(msg)) cache[offer.id] = { url: null, price: null, priceMin: null, priceMax: null, image: null, fetchedAt: today };
     }
     done++;
     if (done % 25 === 0) { writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 0)); console.log(`  ...${done}/${batch.length} (hit ${hit})`); }

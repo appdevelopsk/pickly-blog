@@ -87,6 +87,12 @@ async function main() {
 
   let done = 0;
   let hit = 0;
+  // 認証切れ（403 Invalid Access Key 等）は全件で同じように失敗するので、
+  // 1件も取れないまま走り続けても時間を捨てるだけ。連続で認証エラーが続いたら
+  // その場で落として気づけるようにする。
+  // 2026-09-09 の run 34406617612 は全件 403 のまま5時間走ってタイムアウトした。
+  const FATAL_STREAK = 20;
+  let authErrStreak = 0;
   for (const offer of batch) {
     const candidates = keywordCandidates(offer.name.ja, offer.name.en);
     if (candidates.length === 0) candidates.push(offer.id);
@@ -130,9 +136,24 @@ async function main() {
           }
         : { itemUrl: null, price: null, priceMin: null, priceMax: null, image: null, fetchedAt: today };
       if (picked) hit++;
+      authErrStreak = 0;
     } catch (e) {
       const msg = (e as Error).message;
       console.warn(`  ! ${offer.id} (${keyword}): ${msg}`);
+      // RWS 403 / 401 は鍵の問題。キーワード依存ではないので連続したら打ち切る。
+      if (/RWS (401|403)/.test(msg)) {
+        authErrStreak++;
+        if (authErrStreak >= FATAL_STREAK) {
+          writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 0));
+          console.error(
+            `\n認証エラーが ${FATAL_STREAK} 件連続しました。RAKUTEN_APP_ID / ` +
+              `RAKUTEN_ACCESS_KEY を確認してください。\n直近のエラー: ${msg}`,
+          );
+          process.exit(1);
+        }
+      } else {
+        authErrStreak = 0;
+      }
       // 以前は RWS 400 を恒久エラー扱いで no-hit キャッシュしていたが、実際の原因は
       // キーワード中の `%` `+` だった（2026-08-20 判明）。sanitizeKeyword() で除去済みの
       // 今は 400 は一時的な異常とみなし、キャッシュせず次回再試行させる。
