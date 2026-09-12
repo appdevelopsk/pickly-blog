@@ -35,6 +35,11 @@ interface ProductEntry {
   imageUrl?: string;
   rating?: number;
   price: string | null;
+  /**
+   * price の出どころ。"catalog"(または未定義＝古い JSON)は取得日が無いので
+   * 事実表では「参考価格」を添える。
+   */
+  priceProvenance?: "api" | "catalog";
   articles: { slug: string; title: string }[];
   /** ja のみ: Amazon.co.jp / 楽天 / Yahoo の店舗横断オファー(生成器が焼き込む) */
   stores?: StoreOffer[];
@@ -47,6 +52,13 @@ interface StoreOffer {
   url: string;
   price: string | null;
   amount: number | null;
+  /**
+   * 価格の出どころ。生成器が焼き込む("api" = 日次/週2回フェッチ、
+   * "catalog" = カタログの手書き値で取得日なし)。
+   * 未定義の古い products-*.json を読んだ場合は "catalog" 扱いにする
+   * （鮮度を名乗れない方に倒す）。
+   */
+  provenance?: "api" | "catalog";
 }
 
 interface ProductUi {
@@ -61,6 +73,8 @@ interface ProductUi {
   offersHeading: string;
   productPage: string;
   cheapestBadge?: string;
+  /** カタログ由来価格に添える注記(「参考価格」)。全17ロケール */
+  referencePriceNote?: string;
   categories: Record<string, string>;
 }
 
@@ -178,8 +192,11 @@ function render(locale: string, doc: ProductsDoc, p: ProductEntry): string {
     ld.aggregateRating = { "@type": "AggregateRating", ratingValue: p.rating, bestRating: 5, ratingCount: 1 };
   }
   // ja の店舗横断オファーは JPY 金額が数値で取れている店舗だけ offers に載せる。
+  // provenance:"catalog" は除外する。カタログの手書き値は取得日が無く(実体は
+  // 約4ヶ月前の編集)、それを構造化データで price/InStock と断言すると
+  // Google の価格不一致扱い・アフィリエイト規約違反のどちらも踏む。
   const ldOffers = (p.stores ?? [])
-    .filter((s) => s.amount !== null)
+    .filter((s) => s.amount !== null && s.provenance === "api")
     .map((s) => ({ "@type": "Offer", priceCurrency: "JPY", price: s.amount, url: s.url.startsWith("/") ? CANONICAL_ORIGIN + s.url : s.url, availability: "https://schema.org/InStock" }));
   if (ldOffers.length) ld.offers = ldOffers;
 
@@ -190,7 +207,13 @@ function render(locale: string, doc: ProductsDoc, p: ProductEntry): string {
         .map((s) => {
           const badge =
             p.cheapest === s.network && ui.cheapestBadge ? `<strong>${esc(ui.cheapestBadge)}</strong> ` : "";
-          const price = s.price ? `<span>${esc(s.price)}</span> ` : "";
+          // カタログ由来の価格には「参考価格」を添える。取得日が無いので
+          // 「〜時点」は出せず、注記なしで当日価格と並べると同じ鮮度に見える。
+          const note =
+            s.price && s.provenance !== "api" && ui.referencePriceNote
+              ? ` <small>${esc(ui.referencePriceNote)}</small>`
+              : "";
+          const price = s.price ? `<span>${esc(s.price)}${note}</span> ` : "";
           return (
             `<li>${badge}${esc(s.label)} ${price}` +
             `<a href="${esc(s.url)}" target="_blank" rel="sponsored nofollow noopener noreferrer" data-offer-id="${esc(p.id)}" data-network="${esc(s.network)}">${esc(ui.productPage)}</a></li>`
@@ -211,8 +234,14 @@ function render(locale: string, doc: ProductsDoc, p: ProductEntry): string {
       `</ul></section>`
     : "";
 
+  // 事実表の価格も出どころを明記する。現状ほぼ全件がカタログ由来(取得日なし)で、
+  // 注記が無いと当日取得した価格と同じ鮮度に読めてしまう。
+  const priceNote =
+    p.priceProvenance !== "api" && ui.referencePriceNote
+      ? ` <small>${esc(ui.referencePriceNote)}</small>`
+      : "";
   const facts = [
-    p.price ? `<dt>${esc(ui.price)}</dt><dd>${esc(p.price)}</dd>` : "",
+    p.price ? `<dt>${esc(ui.price)}</dt><dd>${esc(p.price)}${priceNote}</dd>` : "",
     p.rating !== undefined ? `<dt>${esc(ui.rating)}</dt><dd>${esc(String(p.rating))}</dd>` : "",
     cats.length ? `<dt>${esc(ui.categoriesLabel)}</dt><dd>${cats.map(esc).join(" / ")}</dd>` : "",
   ]
