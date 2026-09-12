@@ -8,6 +8,7 @@ import { NewsletterForm } from "@/components/NewsletterForm";
 import { Link } from "@/lib/i18n/navigation";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { resolvePrice, resolvePriceWithAsOf } from "@/lib/affiliates/price";
+import { getPriceWatch } from "@/lib/affiliates/price-watch";
 import { StickyOfferCta } from "./StickyOfferCta";
 import { EvidenceBadge, deriveEvidenceLevel } from "./EvidenceBadge";
 
@@ -59,6 +60,43 @@ function PriceTag({ offer, locale, className }: { offer: AffiliateOffer; locale:
     <span className={className} title={note ?? undefined}>
       {resolved.price}
       {note && <span className="ml-1 font-normal text-[11px] text-slate-500">{note}</span>}
+      <PriceWatchBadge offer={offer} locale={locale} />
+    </span>
+  );
+}
+
+/**
+ * 価格推移バッジ。price-history.json の実取得系列から、直近の値動きだけを短く出す。
+ * 出すのは「値下がり」「値上がり」「期間内最安」の3状態で、グラフは描かない
+ * （1,633商品ぶんの系列を各ページへ配ると HTML が膨らむだけで、読者の判断は
+ * 変わらない）。JP 市場以外・履歴なし・ノイズ幅の変動では getPriceWatch が
+ * null を返すので、その場合は何も足さない。
+ */
+function PriceWatchBadge({ offer, locale }: { offer: AffiliateOffer; locale: string }) {
+  const t = useTranslations();
+  const w = getPriceWatch(offer, locale);
+  if (!w) return null;
+
+  const pct = Math.abs(w.pct).toFixed(0);
+  const down = w.delta < 0;
+  const label = down ? t("article.priceDrop", { pct }) : t("article.priceRise", { pct });
+  // 「最安」は値下がりの時だけ意味がある。値上がり中に最安表示は矛盾する。
+  const lowest = down && w.isLowest;
+
+  return (
+    <span
+      className={`ml-1 inline-flex items-center gap-1 rounded px-1.5 py-0.5 align-middle text-[11px] font-bold ${
+        down ? "bg-emerald-50 text-emerald-700" : "bg-slate-100 text-slate-600"
+      }`}
+      title={t("article.priceWatchNote", { days: w.points })}
+    >
+      <span aria-hidden="true">{down ? "\u2193" : "\u2191"}</span>
+      {label}
+      {lowest && (
+        <span className="rounded bg-emerald-600 px-1 text-[10px] font-bold text-white">
+          {t("article.priceLowest")}
+        </span>
+      )}
     </span>
   );
 }
