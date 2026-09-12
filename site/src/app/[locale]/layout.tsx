@@ -91,7 +91,13 @@ export default async function LocaleLayout({ children, params }: Props) {
         {CLARITY_ID && (
           <script
             dangerouslySetInnerHTML={{
-              __html: `(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","${CLARITY_ID}");`,
+              // 2026-09-12: 下の GA4 と同じ自動操作ブラウザ除外を Clarity にも入れる。
+              // GA4 側は 2026-09-09 に navigator.webdriver で止めたが Clarity は素通りのままで、
+              // 同じ約4割のボットがヒートマップとセッション録画に混ざり続けていた。
+              // Clarity にもボット除外設定は無いので、GA4 と同様に送信元で止める。
+              // ES5 のみ・タグ読み込み自体を行わない（c.clarity も定義しないので
+              // window.clarity?.(…) を呼ぶ AffiliateClickTracker 側は自然に no-op になる）。
+              __html: `(function(c,l,a,r,i,t,y){if(navigator.webdriver===true){return;}c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","${CLARITY_ID}");`,
             }}
           />
         )}
