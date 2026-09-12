@@ -40,18 +40,25 @@ function renderInline(text: string) {
 
 /**
  * 価格バッジ。API で実取得した価格にだけ「〜時点」を付ける。
- * カタログのベタ書き価格は取得日が確定しないので日付なしで出す
- * （記事末尾の免責が全体を受け持つ）。title 属性は SEO ではなくホバー時の補足。
+ * カタログのベタ書き価格は取得日が確定しないので日付を出さず、代わりに
+ * 「参考価格」と明記する（2026-09-12）。無印で出すと当日取得した価格と同じ
+ * 鮮度に読めてしまい、実体は blame 中央値で約4ヶ月前の編集者入力だった。
+ * 嘘の日付を出すのは規約上さらに悪いので、日付は足さない。
+ * title 属性は SEO ではなくホバー時の補足。
  */
 function PriceTag({ offer, locale, className }: { offer: AffiliateOffer; locale: string; className: string }) {
   const t = useTranslations();
   const resolved = resolvePriceWithAsOf(offer, locale);
   if (!resolved) return null;
-  const asOfLabel = resolved.asOf ? t("article.priceAsOf", { date: formatDate(resolved.asOf) }) : null;
+  const note = resolved.asOf
+    ? t("article.priceAsOf", { date: formatDate(resolved.asOf) })
+    : resolved.provenance === "catalog"
+      ? t("article.priceReference")
+      : null;
   return (
-    <span className={className} title={asOfLabel ?? undefined}>
+    <span className={className} title={note ?? undefined}>
       {resolved.price}
-      {asOfLabel && <span className="ml-1 font-normal text-[11px] text-slate-500">{asOfLabel}</span>}
+      {note && <span className="ml-1 font-normal text-[11px] text-slate-500">{note}</span>}
     </span>
   );
 }
@@ -399,7 +406,10 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
                         )}
                         {showPriceCol && (
                           <td className="px-4 py-3 text-right font-medium text-slate-700">
-                            {resolvePrice(o, locale) ?? "—"}
+                            {/* 行ごとに PriceTag を使う。API由来とカタログ由来は同じ表に
+                                混在しうるので、列見出しに一括で注記すると嘘になる。 */}
+                            <PriceTag offer={o} locale={locale} className="inline" />
+                            {resolvePrice(o, locale) === null && <span className="text-slate-300">—</span>}
                           </td>
                         )}
                         <td className="px-4 py-3 text-center">

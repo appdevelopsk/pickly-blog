@@ -19,7 +19,7 @@
 import { writeFileSync, mkdirSync, readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
-import { resolvePrice, classify } from "@/lib/affiliates/price";
+import { resolvePrice, classify, priceProvenance } from "@/lib/affiliates/price";
 import { buildAffiliateUrl } from "@/lib/affiliates/asp";
 import { rakutenProductMatch } from "@/lib/affiliates/rakuten";
 import { getYahooMatch } from "@/lib/affiliates/yahoo";
@@ -39,6 +39,11 @@ interface ProductEntry {
   rating?: number;
   /** resolvePrice の解決済み表示文字列。市場と通貨が合わなければ null */
   price: string | null;
+  /**
+   * price の出どころ。"catalog" は取得日が存在しない編集者入力なので、
+   * 表示側で「参考価格」と明記する(日付は出せない)。
+   */
+  priceProvenance: "api" | "catalog";
   /** この商品を扱う記事(当該ロケールで公開されているものだけ)。記事ハブ本文の導線。 */
   articles: { slug: string; title: string }[];
   /**
@@ -56,7 +61,10 @@ interface ProductEntry {
    * price は表示文字列、amount は比較用の円整数(不明なら null)。
    */
   stores?: StoreOffer[];
-  /** stores のうち amount 最小の network。amount を持つ店舗が2つ以上ある時だけ入る */
+  /**
+   * stores のうち amount 最小の network。**当日取得した価格を持つ店舗が2つ以上**
+   * ある時だけ入る(provenance:"catalog" は比較に参加しない)。
+   */
   cheapest?: StoreOffer["network"] | null;
 }
 
@@ -66,6 +74,19 @@ interface StoreOffer {
   url: string;
   price: string | null;
   amount: number | null;
+  /**
+   * 価格の出どころ。"api" は取得日が確認できる実取得値、"catalog" は取得日が
+   * 無い値(カタログの手書き、および取得日を持たない PRICES override)。
+   *
+   * 楽天/Yahoo は *-cache.json に fetchedAt を持つので常に "api"(週2回
+   * リフレッシュ)。Amazon は PRICE_ASOF が空の現状では全件 "catalog" で、
+   * 実体は編集者が手で書いた数字（blame 中央値 2026-05-13 ＝ 約4ヶ月前）。
+   *
+   * これを区別しないと、4ヶ月前の値が当日価格と並んで「最安値」を取り、
+   * schema.org の Offer にも載る。Function 側は比較・構造化データから
+   * "catalog" を除外し、表示には「参考価格」を添えること。
+   */
+  provenance: "api" | "catalog";
 }
 
 /**
@@ -109,22 +130,28 @@ function buildJpStores(o: AffiliateOffer, price: string | null): { stores: Store
       url: buildAffiliateUrl({ link, productName: o.name.en, market: "JP", category: o.category }),
       price,
       amount: yenAmount(price),
+      // Amazon だけは取得日(PRICE_ASOF)の有無で出どころが変わる。
+      provenance: priceProvenance(o, "ja"),
     });
   }
   const rk = rakutenProductMatch(o.id, o.name.en, o.name.ja);
   if (rk) {
     const r = rangePrice(rk.price, rk.priceMin, rk.priceMax);
-    stores.push({ network: "rakuten", label: JP_STORE_LABEL.rakuten, url: rk.url, price: r.display, amount: r.amount });
+    // 楽天/Yahoo は rakuten-cache.json / yahoo-cache.json ＝ API 実取得。
+    stores.push({ network: "rakuten", label: JP_STORE_LABEL.rakuten, url: rk.url, price: r.display, amount: r.amount, provenance: "api" });
   }
   const yh = getYahooMatch(o.id, o.name.en, o.name.ja);
   if (yh) {
     const r = rangePrice(yh.price, yh.priceMin, yh.priceMax);
-    stores.push({ network: "yahoo", label: JP_STORE_LABEL.yahoo, url: yh.url, price: r.display, amount: r.amount });
+    stores.push({ network: "yahoo", label: JP_STORE_LABEL.yahoo, url: yh.url, price: r.display, amount: r.amount, provenance: "api" });
   }
-  const priced = stores.filter((s) => s.amount != null);
+  // 「最安値」は取得日が揃っている価格同士でしか名乗れない。カタログの手書き値
+  // (Amazon・約4ヶ月前)を混ぜると、当日値より安く見えるだけで最安バッジを取る。
+  // 鍵が入って override が載れば provenance が "api" に変わり自動的に復帰する。
+  const comparable = stores.filter((s) => s.amount != null && s.provenance === "api");
   let cheapest: StoreOffer["network"] | null = null;
-  if (priced.length >= 2) {
-    cheapest = priced.reduce((a, b) => ((b.amount as number) < (a.amount as number) ? b : a)).network;
+  if (comparable.length >= 2) {
+    cheapest = comparable.reduce((a, b) => ((b.amount as number) < (a.amount as number) ? b : a)).network;
   }
   return { stores, cheapest };
 }
@@ -171,7 +198,10 @@ function articleTitle(slug: string, locale: string): string | null {
  * products-<locale>.json に同梱する。Function 側に英語を直書きしないための層であり、
  * prebuild の check-hardcoded-ui.mjs を通すためにも必須。
  *
- * 参照先は既存キーだけに限る(新規キーを17ロケールに足す運用を増やさない):
+ * 参照先は原則として既存キーに限る(新規キーを17ロケールに足す運用を増やさない)。
+ * 例外は article.priceReference(「参考価格」)で、取得日の無いカタログ価格を
+ * そうと明記するために 2026-09-12 に17ロケール分追加した。注記を出さずに
+ * 当日価格と並べる方が害が大きいため、ここは新規キーを許容する:
  *   category.*          カテゴリ名10種
  *   discover.categories 「カテゴリー」→ 事実表のカテゴリ行の見出し
  *   article.related     「関連記事」→ 商品を扱う記事一覧の見出しに流用
@@ -197,6 +227,12 @@ interface ProductUi {
   productPage: string;
   /** ja 限定: 最安バッジ文言 */
   cheapestBadge?: string;
+  /**
+   * カタログ由来価格に添える注記(article.priceReference)。
+   * stores は ja 限定だが price(事実表)は全17ロケールに出るので、
+   * cheapestBadge と違いこちらは messages から全ロケール引く。
+   */
+  referencePriceNote: string;
   /** カテゴリキー → 現地語ラベル */
   categories: Record<string, string>;
 }
@@ -226,6 +262,7 @@ function loadUi(locale: string): ProductUi {
     disclosure: pick("offer", "disclosureNote"),
     offersHeading: pick("article", "offersHeading"),
     productPage: pick("offer", "productPage"),
+    referencePriceNote: pick("article", "priceReference"),
     ...(locale === "ja" ? { cheapestBadge: JP_CHEAPEST_BADGE } : {}),
     categories,
   };
@@ -290,10 +327,16 @@ function main() {
       if (pickLink(o, market, { onlyApproved: true, allowFallback: false }) === null) continue;
 
       const price = resolvePrice(o, locale);
+      const provenance = priceProvenance(o, locale);
       const prev = byId.get(o.id);
       if (prev) {
         if (!prev.categories.includes(o.category)) prev.categories.push(o.category);
-        if (prev.price === null && price !== null) prev.price = price;
+        // 採用した価格と出どころは必ず同じ offer から取る。価格だけ差し替えて
+        // provenance を前の offer のまま残すと、鮮度の表示が実体とずれる。
+        if (prev.price === null && price !== null) {
+          prev.price = price;
+          prev.priceProvenance = provenance;
+        }
         if (prev.description === "" && o.description[locale]) prev.description = o.description[locale];
         if (prev.imageUrl === undefined && o.imageUrl) prev.imageUrl = o.imageUrl;
         if (prev.rating === undefined && o.rating !== undefined) prev.rating = o.rating;
@@ -322,6 +365,7 @@ function main() {
         ...(o.imageUrl ? { imageUrl: o.imageUrl } : {}),
         ...(o.rating !== undefined ? { rating: o.rating } : {}),
         price,
+        priceProvenance: provenance,
         articles,
         locales: indexedLocales.get(o.id) ?? [],
         ...(jp && jp.stores.length ? { stores: jp.stores, cheapest: jp.cheapest } : {}),
